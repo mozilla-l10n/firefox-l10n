@@ -57,3 +57,7 @@ callout-pdfjs-draw-button = ເຂົ້າໃຈແລ້ວ!
 
 sidebar-callout-survey-dissatisfied-2 = ບໍ່ພໍໃຈ
 sidebar-callout-survey-very-dissatisfied-2 = ບໍ່ພໍໃຈຫຼາຍ
+sidebar-callout-survey-strongly-disagree = ຄັດຄ້ານຢ່າງແຮງ
+sidebar-callout-survey-none-of-above = ບໍ່ມີຂໍ້ໃດຂ້າງຕົ້ນ
+sidebar-callout-survey-submit = ສົ່ງ
+sidebar-callout-survey-thank-you = ຂໍ​ຂອບ​ໃຈ​ສໍາ​ລັບ​ຄໍາ​ຄິດ​ເຫັນ​ຂອງ​ທ່ານ​!
