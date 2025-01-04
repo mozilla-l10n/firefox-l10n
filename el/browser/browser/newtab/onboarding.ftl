@@ -438,4 +438,5 @@ onboarding-checklist-sign-up = Εγγραφή ή σύνδεση σε λογαρ�
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-cta = Δημιουργία προφίλ
 multi-profile-callout-cta = Δημιουργία προφίλ

@@ -187,6 +187,12 @@ shopping-survey-terms-link = Όροι χρήσης
 shopping-survey-thanks =
     .heading = Ευχαριστούμε για τα σχόλιά σας!
 
+## Shopping opted-out survey strings
+## Opt-out survey options are displayed as checkboxes and the user can select one or many.
+
+shopping-survey-thanks-title = Ευχαριστούμε για τα σχόλιά σας!
+shopping-survey-opted-out-other = Άλλο
+
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
