@@ -164,8 +164,21 @@ newtab-label-visited = സന്ദർശിച്ചത്‌
 newtab-label-bookmarked = അടയാളപ്പെടുത്തിയത്
 newtab-label-removed-bookmark = അടയാളക്കുറിപ്പു് മാറ്റി
 newtab-label-recommended = ട്രെൻഡിംഗ്
-newtab-label-saved = { -pocket-brand-name } സംരക്ഷിച്ചു
-newtab-label-download = ഡൗൺലോഡ് ചെയ്തവ
+newtab-label-saved = { -pocket-brand-name }ലേക്കു് കരുതിവച്ചു
+newtab-label-download = ഇറക്കിവച്ചു
+# This string is used in the story cards to indicate sponsored content
+# Variables:
+#   $sponsorOrSource (string) - The name of a company or their domain
+newtab-label-sponsored = { $sponsorOrSource } · പണം മുടക്കിയതു്
+# This string is used at the bottom of story cards to indicate sponsored content
+# Variables:
+#   $sponsor (string) - The name of a sponsor
+newtab-label-sponsored-by = { $sponsor } കൊണ്ടു പണം മുടക്കിയതു്
+# This string is used under the image of story cards to indicate source and time to read
+# Variables:
+#   $source (string) - The name of a company or their domain
+#   $timeToRead (number) - The estimated number of minutes to read this story
+newtab-label-source-read-time = { $source } · { $timeToRead } മിനിറ്റ്
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -174,7 +187,7 @@ newtab-section-menu-remove-section = വിഭാഗം നീക്കം ച�
 newtab-section-menu-collapse-section = വിഭാഗം ചുരുക്കുക
 newtab-section-menu-expand-section = വിഭാഗം വികസിപ്പിക്കുക
 newtab-section-menu-manage-section = വിഭാഗം കൈകാര്യം ചെയ്യുക
-newtab-section-menu-manage-webext = വിഭാഗം കൈകാര്യം ചെയ്യുക
+newtab-section-menu-manage-webext = വിപുലീകരണങ്ങളെ കൈകാര്യം ചെയ്യുക
 newtab-section-menu-add-topsite = ഏറ്റവും മികച്ച സൈറ്റ് ചേർക്കുക
 newtab-section-menu-add-search-engine = തിരയൽ യന്ത്രം ചേർക്കുക
 newtab-section-menu-move-up = മുകളിലേക്ക്‌ മാറ്റുക
@@ -183,10 +196,15 @@ newtab-section-menu-privacy-notice = സ്വകാര്യതാ അറിയ
 
 ## Section aria-labels
 
+newtab-section-collapse-section-label =
+    .aria-label = വിഭാഗം ചുരുക്കുക
+newtab-section-expand-section-label =
+    .aria-label = വിഭാഗം വലുതാക്കുക
 
 ## Section Headers.
 
 newtab-section-header-topsites = മികച്ച സൈറ്റുകൾ
+newtab-section-header-recent-activity = ഒടുവിലുള്ള പ്രവർത്തനം
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } ശുപാർശ ചെയ്തത്
@@ -209,6 +227,7 @@ newtab-discovery-empty-section-topstories-loading = ലോഡിംഗ്...
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = ജനപ്രിയ വിഷയങ്ങൾ:
 newtab-pocket-more-recommendations = കൂടുതൽ ശുപാർശകൾ
+newtab-pocket-learn-more = കൂടുതല്‍ അറിയുക
 newtab-pocket-cta-button = { -pocket-brand-name } ലഭ്യമാക്കുക
 
 ## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
@@ -240,12 +259,31 @@ newtab-error-fallback-refresh-link = വീണ്ടും ശ്രമിക്
 
 ## New Tab Weather
 
+newtab-weather-menu-learn-more = കൂടുതല്‍ അറിയുക
 
 ## Topic Labels
 
+newtab-topic-label-career = തൊഴിലുകള്‍
+newtab-topic-label-education = വിദ്യാഭ്യാസം
+newtab-topic-label-arts = നേരമ്പോക്കു്
+newtab-topic-label-food = ആഹാരം
+newtab-topic-label-health = ആരോഗ്യം
+newtab-topic-label-hobbies = ഗെയിമിംഗ്
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = പണവും സമ്പാദ്യവും
+newtab-topic-label-government = രാഷ്ട്രീയം
+newtab-topic-label-education-science = ശാസ്ത്രം
+newtab-topic-label-sports = കായികം
+newtab-topic-label-tech = സാങ്കേതികവിദ്യ
+newtab-topic-label-travel = സഞ്ചാരം
 
 ## Topic Selection Modal
 
+newtab-topic-selection-save-button = കരുതിവയ്ക്കുക
+newtab-topic-selection-cancel-button = റദ്ദാക്കുക
+newtab-topic-selection-button-maybe-later = പിന്നെ പറയാം
 
 ## Content Feed Sections
 ## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
@@ -254,3 +292,5 @@ newtab-error-fallback-refresh-link = വീണ്ടും ശ്രമിക്
 
 ## Confirmation modal for blocking a section
 
+newtab-section-block-section-button = ഈ വിഭാഗം തടയുക
+newtab-section-cancel-button = ഇപ്പോഴല്ല
