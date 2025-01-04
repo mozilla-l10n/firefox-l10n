@@ -190,11 +190,13 @@ shopping-survey-thanks =
 ## Shopping opted-out survey strings
 ## Opt-out survey options are displayed as checkboxes and the user can select one or many.
 
+shopping-survey-opted-out-multiselect-label = 请告诉我们您关闭“核查评价”的原因。根据需要可以多选。
 shopping-survey-thanks-title = 感谢反馈！
 shopping-survey-opted-out-hard-to-understand = 难以理解
 shopping-survey-opted-out-too-slow = 太慢了
 shopping-survey-opted-out-not-accurate = 不准确
 shopping-survey-opted-out-not-helpful = 对我没帮助
+shopping-survey-opted-out-check-myself = 我更愿意自己核查评价
 shopping-survey-opted-out-other = 其他
 
 ## Shopping Feature Callout strings.
