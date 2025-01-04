@@ -8,6 +8,18 @@
 newtab-page-title = പുതിയ ടാബ്
 newtab-settings-button =
     .title = നിങ്ങളുടെ പുതിയ ടാബ് താള് ഇഷ്ടാനുസൃതമാക്കുക
+newtab-personalize-settings-icon-label =
+    .title = പുതിയ ടാബ് വ്യക്തിപരമാക്കുക
+    .aria-label = ക്രമീകരണങ്ങൾ
+newtab-settings-dialog-label =
+    .aria-label = ക്രമീകരണങ്ങള്‍
+newtab-personalize-icon-label =
+    .title = പുതിയ ടാബ് വ്യക്തിപരമാക്കുക
+    .aria-label = പുതിയ ടാബ് വ്യക്തിപരമാക്കുക
+newtab-personalize-dialog-label =
+    .aria-label = വ്യക്തിപരമാക്കുക
+newtab-logo-and-wordmark =
+    .aria-label = { -brand-full-name }
 
 ## Search box component.
 
@@ -23,12 +35,10 @@ newtab-topsites-edit-topsites-header = മികച്ച സൈറ്റ് ല
 newtab-topsites-title-label = തലക്കെട്ട്
 newtab-topsites-title-input =
     .placeholder = തലക്കെട്ട് നൽകൂ
-
 newtab-topsites-url-label = യുആര്‍എല്‍
 newtab-topsites-url-input =
     .placeholder = വെബ്URLനൽകൂ
 newtab-topsites-url-validation = പ്രവർത്തിയ്ക്കുന്ന URL ആവശ്യമാണ്
-
 newtab-topsites-image-url-label = ഇഷ്‌ടാനുസൃത ചിത്രത്തിന്റെ യുആര്‍എല്‍
 newtab-topsites-use-image-link = ഒരു ഇഷ്‌ടാനുസൃത ചിത്രം ഉപയോഗിക്കുക…
 
@@ -48,13 +58,13 @@ newtab-confirm-delete-history-p2 = ഈ പ്രവർത്തനം പഴയ�
 
 ## Top Sites - Sponsored label
 
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
     .title = മെനു തുറക്കുക
     .aria-label = മെനു തുറക്കുക
-
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = ഈ സൈറ്റ് തിരുത്തുക
@@ -134,18 +144,16 @@ newtab-section-menu-privacy-notice = സ്വകാര്യതാ അറിയ
 
 newtab-section-header-topsites = മികച്ച സൈറ്റുകൾ
 # Variables:
-#  $provider (String): Name of the corresponding content provider.
+#   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } ശുപാർശ ചെയ്തത്
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = ബ്രൗസിംഗ് ആരംഭിക്കുക, നിങ്ങൾ സമീപകാലത്ത് സന്ദർശിച്ചതോ ബുക്ക്മാർക്ക് ചെയ്തതോ ആയ മികച്ച ലേഖനങ്ങളിൽ നിന്നോ, വീഡിയോകളിൽ നിന്നോ, മറ്റു പേജുകളിൽ നിന്നോ ചിലത് ഞങ്ങൾ ഇവിടെ കാണിക്കും.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
-#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = നിങ്ങൾ ഇവിടെ വരെ എത്തി. { $provider }ൽ നിന്നുള്ള കൂടുതൽ പ്രധാന വാർത്തകൾക്കായി പിന്നീട് വീണ്ടും പരിശോധിക്കുക. കാത്തിരിക്കാൻ പറ്റില്ലേ? വെബിൽ നിന്ന് കൂടുതൽ മികച്ച കഥകൾ കണ്ടെത്തുന്നതിന് ഒരു ജനപ്രിയ വിഷയം തിരഞ്ഞെടുക്കുക.
-
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -159,10 +167,11 @@ newtab-pocket-read-more = ജനപ്രിയ വിഷയങ്ങൾ:
 newtab-pocket-more-recommendations = കൂടുതൽ ശുപാർശകൾ
 newtab-pocket-cta-button = { -pocket-brand-name } ലഭ്യമാക്കുക
 
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -171,4 +180,33 @@ newtab-error-fallback-info = ക്ഷമിക്കണം, ഈ ഉള്ളട
 newtab-error-fallback-refresh-link = വീണ്ടും ശ്രമിക്കുന്നതിന് പേജ് പുതുക്കുക.
 
 ## Customization Menu
+
+
+## New Tab Wallpapers
+
+
+## Solid Colors
+
+
+## Abstract
+
+
+## Photographs
+
+
+## New Tab Weather
+
+
+## Topic Labels
+
+
+## Topic Selection Modal
+
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Confirmation modal for blocking a section
 
