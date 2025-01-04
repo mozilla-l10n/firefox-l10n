@@ -27,26 +27,48 @@ newtab-logo-and-wordmark =
 newtab-search-box-search-button =
     .title = തിരയുക
     .aria-label = തിരയുക
+# Variables:
+#   $engine (string) - The name of the user's default search engine
+newtab-search-box-handoff-text = { $engine } കൂടെ തിരയുക അല്ലെങ്കിൽ വിലാസം നല്കുക
+newtab-search-box-handoff-text-no-engine = വിലാസം തിരയുക അല്ലെങ്കില്‍ നല്‍കുക
+# Variables:
+#   $engine (string) - The name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = { $engine } കൂടെ തിരയുക അല്ലെങ്കിൽ വിലാസം നല്കുക
+    .title = { $engine } കൂടെ തിരയുക അല്ലെങ്കിൽ വിലാസം നല്കുക
+    .aria-label = { $engine } കൂടെ തിരയുക അല്ലെങ്കിൽ വിലാസം നല്കുക
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = വിലാസം തിരയുക അല്ലെങ്കില്‍ നല്‍കുക
+    .title = വിലാസം തിരയുക അല്ലെങ്കില്‍ നല്‍കുക
+    .aria-label = വിലാസം തിരയുക അല്ലെങ്കില്‍ നല്‍കുക
+newtab-search-box-text = ആഗോളാന്തരവലയിൽ തിരയുക
+newtab-search-box-input =
+    .placeholder = ആഗോളാന്തരവലയിൽ തിരയുക
+    .aria-label = ആഗോളാന്തരവലയിൽ തിരയുക
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = തിരയൽ യന്ത്രം ചേർക്കുക
-newtab-topsites-edit-topsites-header = മികച്ച സൈറ്റ് ലിസ്റ്റ് തിരുത്തൂ
+newtab-topsites-add-shortcut-header = പുതിയ കുറുക്കുവഴി
+newtab-topsites-edit-topsites-header = മികച്ച സൈറ്റ് പട്ടിക തിരുത്തൂ
+newtab-topsites-edit-shortcut-header = കുറുക്കുവഴി തിരുത്തുക
+newtab-topsites-add-shortcut-label = കുറുക്കുവഴി ചേർക്കുക
 newtab-topsites-title-label = തലക്കെട്ട്
 newtab-topsites-title-input =
     .placeholder = തലക്കെട്ട് നൽകൂ
 newtab-topsites-url-label = യുആര്‍എല്‍
 newtab-topsites-url-input =
-    .placeholder = വെബ്URLനൽകൂ
-newtab-topsites-url-validation = പ്രവർത്തിയ്ക്കുന്ന URL ആവശ്യമാണ്
+    .placeholder = ഒരു യൂആ‌ർഎൽ എഴുതുക അല്ലെങ്കിൽ ഒട്ടിക്കുക
+newtab-topsites-url-validation = പ്രവർത്തിയ്ക്കുന്ന യൂആർഎൽ ആവശ്യമാണ്
 newtab-topsites-image-url-label = ഇഷ്‌ടാനുസൃത ചിത്രത്തിന്റെ യുആര്‍എല്‍
 newtab-topsites-use-image-link = ഒരു ഇഷ്‌ടാനുസൃത ചിത്രം ഉപയോഗിക്കുക…
+newtab-topsites-image-validation = ചിത്രം ലഭ്യമാക്കാൻ പറ്റിയില്ല. വേറെയൊരു യൂആർഎൽ ശ്രമിച്ചു നോക്കൂ
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
-newtab-topsites-cancel-button = ഒഴിവാക്കൂ
-newtab-topsites-delete-history-button = നാള്‍വഴിയിൽ നിന്ന് ഒഴിവാക്കുക
-newtab-topsites-save-button = സംരക്ഷിയ്ക്കൂ
+newtab-topsites-cancel-button = റദ്ദാക്കുക
+newtab-topsites-delete-history-button = നാള്‍വഴിയിൽ നിന്ന് മായ്ക്കുക
+newtab-topsites-save-button = കരുതിവയ്ക്കുക
 newtab-topsites-preview-button = തിരനോട്ടം
 newtab-topsites-add-button = ചേർക്കൂ
 
@@ -58,13 +80,24 @@ newtab-confirm-delete-history-p2 = ഈ പ്രവർത്തനം പഴയ�
 
 ## Top Sites - Sponsored label
 
+newtab-topsite-sponsored = പണം കൊണ്ടു് പ്രചരിപ്പിച്ചതു്
 
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = മെനു തുറക്കുക
-    .aria-label = മെനു തുറക്കുക
+    .title = കുറിപ്പടിക്കട്ട തുറക്കുക
+    .aria-label = കുറിപ്പടിക്കട്ട തുറക്കുക
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = മാറ്റുക
+    .aria-label = മാറ്റുക
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = കുറിപ്പടികട്ട തുറക്കുക
+    .aria-label = കുറിപ്പടികട്ട തുറക്കുക
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = ഈ സൈറ്റ് തിരുത്തുക
@@ -76,16 +109,24 @@ newtab-menu-edit-topsites = തിരുത്തുക
 newtab-menu-open-new-window = പുതിയ ജാലകത്തിൽ തുറക്കുക
 newtab-menu-open-new-private-window = പുതിയ രസഹ്യജാലകത്തിൽ തുറക്കുക
 newtab-menu-dismiss = പുറത്താക്കുക
-newtab-menu-pin = പിൻ ചെയ്യുക
-newtab-menu-unpin = അൺപിൻ ചെയ്യുക
-newtab-menu-delete-history = നാള്‍വഴിയിൽ നിന്ന് ഒഴിവാക്കുക
-newtab-menu-save-to-pocket = { -pocket-brand-name } സംരക്ഷിയ്ക്കുക
-newtab-menu-delete-pocket = { -pocket-brand-name } നിന്ന് ഇല്ലാതാക്കുക
-newtab-menu-archive-pocket = { -pocket-brand-name } ആർക്കൈവ് ചെയ്യുക
+newtab-menu-pin = കുത്തിസൂചി ഇടുക
+newtab-menu-unpin = കുത്തിസൂചിക മാറ്റുക
+newtab-menu-delete-history = നാള്‍വഴിയിൽ നിന്ന് മായ്ക്കുക
+newtab-menu-save-to-pocket = { -pocket-brand-name }-ൽ കരുതിവയ്ക്കുക
+newtab-menu-delete-pocket = { -pocket-brand-name } നിന്ന് മായ്ക്കുക
+newtab-menu-archive-pocket = { -pocket-brand-name } ഗ്രന്ഥപ്പുരത്തിലാക്കി വയ്ക്കുക
+newtab-menu-show-privacy-info = ഞങ്ങളുടെ പരുപാടികൾക്കു് പണം കൊടുക്കുന്നവരും താങ്ങളുടെ സ്വകാര്യതാവും
+newtab-menu-about-fakespot = { -fakespot-brand-name }-നെ കുറിച്ചു്
+# Context menu option to personalize New Tab recommended stories by blocking a section of stories,
+# e.g. "Sports". "Block" is a verb here.
+newtab-menu-section-block = തടയുക
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
+newtab-menu-section-unfollow = വിഷയം പിന്തുടരാൻ നി‌രുത്തുക
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
-newtab-privacy-modal-button-done = ചെയ്തു
+newtab-privacy-modal-button-done = കഴിഞ്ഞു
 newtab-privacy-modal-header = നിങ്ങളുടെ സ്വകാര്യത പ്രധാനമാണ്.
 
 ##
