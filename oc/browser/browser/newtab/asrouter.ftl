@@ -289,4 +289,6 @@ fxa-menu-message-close-button =
 
 ## Multi-CTA Fox Doodle Spotlight
 
+multi-cta-fox-doodle-title = Urós de vos tornar veire !
+multi-cta-fox-doodle-set-default-checkbox = Definir { -brand-short-name } coma navegador per defaut
 multi-cta-fox-doodle-start-browsing-primary-button-label = Començar de navegar

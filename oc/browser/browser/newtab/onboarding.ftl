@@ -371,6 +371,15 @@ onboarding-new-vertical-tabs-label = Onglets sul costat
 onboarding-new-horizontal-tabs-label = Onglets ennaut
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title = Los onglets verticals son ja aquí
+onboarding-flair-text = Novetat
 
 ## New user onboarding checklist
 
+onboarding-checklist-extension = Apondre una extension
+
+## Tab Groups feature onboarding strings
+
+
+## Multi Profiles feature onboarding messages
+
+multi-profile-callout-cta = Crear un perfil

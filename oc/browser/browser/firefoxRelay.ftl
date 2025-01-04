@@ -39,6 +39,9 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
 firefox-relay-and-fxa-opt-in-confirmation-disable =
     .label = Me mostrar pas mai aquò
     .accesskey = M
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
+    .label = Mai tard
+    .accesskey = M
 
 ## The "control" variation of the Relay offer popup
 
