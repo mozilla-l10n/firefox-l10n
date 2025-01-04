@@ -263,6 +263,7 @@ newtab-weather-menu-learn-more = കൂടുതല്‍ അറിയുക
 
 ## Topic Labels
 
+newtab-topic-label-business = വാണിജ്യം
 newtab-topic-label-career = തൊഴിലുകള്‍
 newtab-topic-label-education = വിദ്യാഭ്യാസം
 newtab-topic-label-arts = നേരമ്പോക്കു്
