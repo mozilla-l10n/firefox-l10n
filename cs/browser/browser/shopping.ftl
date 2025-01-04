@@ -207,6 +207,9 @@ shopping-survey-thanks-title = Děkujeme za vaši zpětnou vazbu!
 shopping-survey-opted-out-hard-to-understand = Je těžké tomu porozumět
 shopping-survey-opted-out-too-slow = Je příliš pomalá
 shopping-survey-opted-out-not-accurate = Není to přesné
+shopping-survey-opted-out-not-helpful = Není pro mě užitečná
+shopping-survey-opted-out-check-myself = Raději si recenze zkontroluji sám
+shopping-survey-opted-out-other = Jiné
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
