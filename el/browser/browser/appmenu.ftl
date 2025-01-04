@@ -282,6 +282,8 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Αποκρύψτε το πραγματικό email και το τηλέφωνό σας
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Προστατέψτε το διαδικτυακό σας απόρρητο
+appmenu-services-header = Οι υπηρεσίες μου
+appmenu-other-protection-header = Δοκιμάστε άλλα εργαλεία προστασίας από τη { -vendor-short-name }:
 
 ## Profiles panel
 

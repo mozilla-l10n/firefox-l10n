@@ -225,7 +225,9 @@ mr2022-onboarding-set-default-subtitle = Χρησιμοποιήστε ένα π�
 mr2022-onboarding-get-started-primary-subtitle = Η πιο πρόσφατη έκδοσή μας έχει προσαρμοστεί στις ανάγκες σας, κάνοντας πιο εύκολη από ποτέ την περιήγησή σας στο διαδίκτυο. Είναι γεμάτη με λειτουργίες που πιστεύουμε ότι θα λατρέψετε.
 mr2022-onboarding-get-started-primary-button-label = Ρύθμιση σε δευτερόλεπτα
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Αστραπιαία ρύθμιση
 mr2022-onboarding-import-subtitle = Ρυθμίστε το { -brand-short-name } όπως σας αρέσει. Προσθέστε σελιδοδείκτες, κωδικούς πρόσβασης και πολλά άλλα από το παλιό σας πρόγραμμα περιήγησης.
@@ -430,3 +432,10 @@ onboarding-checklist-pin = Καρφίτσωμα του { -brand-short-name } σ�
 onboarding-checklist-import = Εισαγωγή από προηγούμενο πρόγραμμα περιήγησης
 onboarding-checklist-extension = Προσθήκη επέκτασης
 onboarding-checklist-sign-up = Εγγραφή ή σύνδεση σε λογαριασμό
+
+## Tab Groups feature onboarding strings
+
+
+## Multi Profiles feature onboarding messages
+
+multi-profile-callout-cta = Δημιουργία προφίλ
