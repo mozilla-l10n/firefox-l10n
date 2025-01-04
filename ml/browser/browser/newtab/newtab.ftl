@@ -127,21 +127,23 @@ newtab-menu-section-unfollow = വിഷയം പിന്തുടരാൻ �
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = കഴിഞ്ഞു
+newtab-privacy-modal-button-manage = പണം മുടക്കിയ ഉള്ളടക്കം ക്രമീകരണങ്ങളെ നിയന്ത്രിക്കുക
 newtab-privacy-modal-header = നിങ്ങളുടെ സ്വകാര്യത പ്രധാനമാണ്.
+newtab-privacy-modal-link = പുതിയ ടാബിൽ സ്വകാര്യത എങ്ങനെ പ്രവർത്തിക്കുന്നുവെന്നു് അറിയുക
 
 ##
 
 # Bookmark is a noun in this case, "Remove bookmark".
-newtab-menu-remove-bookmark = അടയാളം മാറ്റുക
+newtab-menu-remove-bookmark = അടയാളക്കുറിപ്പു് മാറ്റുക
 # Bookmark is a verb here.
-newtab-menu-bookmark = അടയാളം
+newtab-menu-bookmark = അടയാളക്കുറിപ്പു്
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
-newtab-menu-copy-download-link = ഡൗൺലോഡ് കണ്ണി പകർത്തുക
-newtab-menu-go-to-download-page = ഡൗൺലോഡ് താളിലേക്ക് പോകുക
-newtab-menu-remove-download = ചരിത്രത്തിൽ നിന്ന് നീക്കംചെയ്യുക
+newtab-menu-copy-download-link = ഇറക്കിവയ്ക്കൽ കണ്ണി പകർത്തുക
+newtab-menu-go-to-download-page = ഇറക്കിവയ്ക്കൽ താളിലേക്ക് ചെല്ലുക
+newtab-menu-remove-download = നാൾവഴി നിന്നു് മാറ്റുക
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
@@ -160,6 +162,7 @@ newtab-menu-open-file = ഫയൽ തുറക്കുക
 
 newtab-label-visited = സന്ദർശിച്ചത്‌
 newtab-label-bookmarked = അടയാളപ്പെടുത്തിയത്
+newtab-label-removed-bookmark = അടയാളക്കുറിപ്പു് മാറ്റി
 newtab-label-recommended = ട്രെൻഡിംഗ്
 newtab-label-saved = { -pocket-brand-name } സംരക്ഷിച്ചു
 newtab-label-download = ഡൗൺലോഡ് ചെയ്തവ
