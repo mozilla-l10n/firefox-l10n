@@ -33,3 +33,10 @@ webext-perms-description-topSites = 访问浏览历史
 webext-perms-description-trialML = 下载 AI 模型到您的设备并运行
 webext-perms-description-userScripts = 允许未经验证的第三方脚本获取您的数据
 webext-perms-description-webNavigation = 在您上网时了解浏览器的行为状态
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+
+webext-perms-extra-warning-userScripts-long = 未经验证的脚本可能会带来安全和隐私风险，例如会运行有害代码或跟踪网站活动。请确保只运行来自可信扩展或来源的脚本。
+# A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
+webext-perms-extra-warning-userScripts-short = 未经验证的脚本可能带来安全和隐私风险。请确保只运行来自可信扩展或来源的脚本。
