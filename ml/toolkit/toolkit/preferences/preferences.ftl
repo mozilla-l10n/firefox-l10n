@@ -25,4 +25,4 @@ remove-primary-password =
 remove-info =
     .value = തുടരുന്നതിനായി നിങ്ങളുടെ ഇപ്പോഴത്തെ രഹസ്യവാക്കു് ഇടണ്ടിവരും:
 remove-password-old-password =
-    .value = ഇപ്പോഴത്തെ പാസ്‌വേഡ്‌ :
+    .value = ഇപ്പോഴത്തെ രഹസ്യവാക്കു് :
