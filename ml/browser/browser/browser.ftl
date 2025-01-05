@@ -370,6 +370,7 @@ identity-permissions-storage-access-learn-more = കൂടുതല്‍ അറ
 identity-permissions-reload-hint = മാറ്റങ്ങൾ പ്രയോഗത്തിൽ വരുവാൻ പേജ് വീണ്ടും ലോഡുചെയ്യേണ്ടി വന്നേക്കാം.
 identity-clear-site-data =
     .label = കുക്കികളും വെബ്ത്ഥാന ദത്തയും മായ്ക്കുക…
+identity-ev-owner-label = പ്രമാണപത്രം ഇവൎക്കുയാണു് നല്കിയതു്:
 identity-remove-cert-exception =
     .label = എക്സപ്ഷൻ നീക്കം ചെയ്യുക
     .accesskey = R
@@ -522,6 +523,8 @@ urlbar-revert-button =
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-in-private-w-engine = { $engine } കൂടെ സ്വകാര്യജന്നലിൽ തിരയുക
+# Used when the private browsing engine is the same as the default engine.
+urlbar-result-action-search-in-private = സ്വകാര്യ ജാലകത്തിൽ തിരയുക
 # The "with" format was chosen because the search engine name can end with
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
@@ -599,6 +602,14 @@ urlbar-result-action-open-saved-tabgroup = { $group } തുറക്കുക
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
+# A label shown above Quick Actions in the urlbar results.
+urlbar-group-quickactions =
+    .label = ദ്രുത പ്രവർത്തനം
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = { $engine }-ൽ ട്രെൻഡിംഗ്
 
 ## Reader View toolbar buttons
 
@@ -718,6 +729,9 @@ save-to-pocket-button =
 
 ## Repair text encoding toolbar button
 
+repair-text-encoding-button =
+    .label = പാഠ ഇഴചേ‌ർച്ചയെ നന്നാക്കുക
+    .tooltiptext = താളുള്ളടക്കം നിന്നു ശരിയായ പാഠ ഇഴചേ‌ർച്ച ഊഹിക്കുക
 
 ## Customize Toolbar Buttons
 
@@ -922,6 +936,10 @@ refresh-blocked-allow =
 popup-notification-addon-install-unsigned =
     .value = (പരിശോധിച്ചിട്ടില്ലാത്തതു്)
 popup-notification-xpinstall-prompt-block-url = വിശദാംശങ്ങൾ കാണുക
+# Note: Access key is set to P to match "Private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox =
+    .label = സ്വകാര്യ ജാലകങ്ങളിൽ പ്രവർത്തിപ്പിക്കുക
+    .accesskey = സ
 
 ## Pop-up warning
 
@@ -950,9 +968,14 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+file-picker-failed-open = വിണ്ടോസു് ഫയൽ സന്ദേശപ്പെട്ടി തുറക്കാനായില്ല. ഒരു ഫയലോ അറയോ തിരഞ്ഞെടുക്കാൻ പറ്റിയില്ല
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = വിണ്ടോസു് ഫയൽ സന്ദേശപ്പെട്ടി തുറക്കാനായില്ല. ഫയൽ { $path }-ലേക്കു് കരുതിവയ്ക്കപ്പെടും
+file-picker-failed-save-nowhere = വിണ്ടോസു് ഫയൽ സന്ദേശപ്പെട്ടി തുറക്കാനായില്ല.  തനതു അറ കണ്ടുപ്പിടിക്കാൻ കഴിഞ്ഞില്ല; അതുകൊണ്ടു ഈ ഫയൽ കരുതിവയ്ക്കപ്പെടില്ല
 file-picker-crashed-open = വിണ്ടോസു് ഫയൽ സന്ദേശപ്പെട്ടി തകർന്നിരിക്കുന്നു. ഒരു ഫയലോ അറയോ തിരഞ്ഞെടുക്കാൻ പറ്റിയില്ല
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = വിണ്ടോസു് ഫയൽ സന്ദേശപ്പെട്ടി തകർന്നിരിക്കുന്നു. ഫയൽ { $path }-ലേക്കു് കരുതിവയ്ക്കപ്പെടും
+file-picker-crashed-save-nowhere = വിണ്ടോസു് ഫയൽ സന്ദേശപ്പെട്ടി തകർന്നിരിക്കുന്നു.  തനതു അറ കണ്ടുപ്പിടിക്കാൻ കഴിഞ്ഞില്ല; അതുകൊണ്ടു ഈ ഫയൽ കരുതിവയ്ക്കപ്പെടില്ല
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
