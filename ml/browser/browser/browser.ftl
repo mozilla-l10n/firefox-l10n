@@ -602,9 +602,20 @@ urlbar-result-action-open-saved-tabgroup = { $group } തുറക്കുക
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
+# A label shown above the search suggestions group in the urlbar results. It
+# should use sentence case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = { $engine } നിർദ്ദേശങ്ങൾ
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = ദ്രുത പ്രവർത്തനം
+# A label shown above the recent searches group in the urlbar results.
+# Variables
+#  $engine (String): the name of the search engine used to search.
+urlbar-group-recent-searches =
+    .label = അടുത്തിടെ തിരഞ്ഞതു് സാധനങ്ങൾ
 # The header shown above trending results.
 # Variables:
 #  $engine (String): the name of the search engine providing the trending suggestions
