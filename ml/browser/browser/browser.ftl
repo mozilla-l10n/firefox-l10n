@@ -527,6 +527,7 @@ urlbar-result-action-search-in-private-w-engine = { $engine } കൂടെ സ�
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = { $engine } ഉപയോഗിച്ച് തെരയുക
+urlbar-result-action-sponsored = പണം കൊണ്ടു് പ്രചരിപ്പിച്ചതു്
 urlbar-result-action-switch-tab = ടാബിലേക്ക് മാറുക
 urlbar-result-action-visit = സന്ദര്‍ശിക്കുക
 # Allows the user to visit a URL that was previously copied to the clipboard.
@@ -685,12 +686,22 @@ bookmarks-tools =
     .label = ബുക്ക്‌മാർക്കിങ് ഉപകരണങ്ങൾ
 bookmarks-subview-edit-bookmark =
     .label = ഈ അടയാളക്കുറിപ്പിനെ തിരുത്തുക
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = അടയാളക്കുറിപ്പട്ട
+    .accesskey = അ
+    .aria-label = അടയാളക്കുറിപ്പുകൾ
 bookmarks-toolbar-menu =
     .label = അടയാളക്കുറിപ്പിനുള്ള ടൂള്‍ബാര്‍
 bookmarks-toolbar-placeholder =
     .title = അടയാളക്കുറിപ്പിനുള്ള ടൂള്‍ബാറിലുള്ള വസ്തുക്കള്‍
 bookmarks-toolbar-placeholder-button =
     .label = അടയാളക്കുറിപ്പിനുള്ള ടൂള്‍ബാറിലുള്ള വസ്തുക്കള്‍
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = നിലവിലുള്ള ടാബിനെ കുറിച്ചിടുക…
 
 ## Library Panel items
 
@@ -701,6 +712,9 @@ library-recent-activity-title =
 
 ## Pocket toolbar button
 
+save-to-pocket-button =
+    .label = { -pocket-brand-name }-ലേക്കു് കരുതിവയ്ക്കുക
+    .tooltiptext = { -pocket-brand-name }-ലേക്കു് കരുതിവയ്ക്കുക
 
 ## Repair text encoding toolbar button
 
@@ -722,6 +736,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = കണ്ണി ഈമെയില്‍ അയയ്ക്കുക
     .tooltiptext = ഈ താളിലേക്ക് ഒരു കണ്ണി ഈമെയില്‍ അയയ്ക്കുക
+toolbar-button-logins =
+    .label = രഹസ്യവാക്കുകൾ
+    .tooltiptext = കരുതിവച്ച രഹസ്യവാക്കുകളെ കാണുകയും കൈകാര്യവം ചെയ്യുക
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -744,6 +761,7 @@ toolbar-button-new-private-window =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = ഈ സൈറ്റിലുള്ള ചില ഓഡിയോ അല്ലെങ്കില്‍ വീഡിയോ ഡിആര്‍എം സോഫ്റ്റ്‌വെയര്‍ ഉപയോഗിയ്ക്കുന്നു. ഇതു് { -brand-short-name } ചെയ്യുന്നതിനു് പരിധി കല്‍പിയ്ക്കുന്നു.
+eme-notifications-drm-content-playing-manage = ക്രമീകരണങ്ങളെ നിയന്ത്രിക്കുക
 eme-notifications-drm-content-playing-manage-accesskey = മ
 eme-notifications-drm-content-playing-dismiss = കളയുക
 eme-notifications-drm-content-playing-dismiss-accesskey = ക
@@ -776,6 +794,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = പൊന്തുവരികൾ തടയുമ്പോള്‍ ഇനി ഈ സന്ദേശം കാണിക്കരുതു്
     .accesskey = D
+edit-popup-settings =
+    .label = പൊന്തുവരൽ ക്രമീകരണങ്ങൾ നിയന്ത്രിക്കുക...
+    .accesskey = ക
 
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
@@ -786,6 +807,11 @@ popups-infobar-dont-show-message =
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = വഴികാട്ടൽവ്യവസ്ഥ
 navbar-downloads =
     .label = ഡൌണ്‍ലോഡുകള്‍
 navbar-overflow =
@@ -852,10 +878,20 @@ unified-extensions-button-permissions-needed =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-quarantined =
+    .label = വിപുലീകരണങ്ങൾ
+    .tooltiptext =
+        വിപുലീകരണങ്ങൾ
+        ചില വിപുലീകരണങ്ങളെ അനുവദിക്കാതിരിക്കുന്നു
 
 ## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-blocklisted =
+    .label = വിപുലീകരണങ്ങൾ
+    .tooltiptext =
+        വിപുലീകരണങ്ങൾ
+        ചില വിപുലീകരണങ്ങളെ പ്രവൎത്തനരഹിതമാക്കി വച്ചിരിക്കുന്നു
 
 ## Private browsing reset button
 
@@ -914,6 +950,9 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+file-picker-crashed-open = വിണ്ടോസു് ഫയൽ സന്ദേശപ്പെട്ടി തകർന്നിരിക്കുന്നു. ഒരു ഫയലോ അറയോ തിരഞ്ഞെടുക്കാൻ പറ്റിയില്ല
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = വിണ്ടോസു് ഫയൽ സന്ദേശപ്പെട്ടി തകർന്നിരിക്കുന്നു. ഫയൽ { $path }-ലേക്കു് കരുതിവയ്ക്കപ്പെടും
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
