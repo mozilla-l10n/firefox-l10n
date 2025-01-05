@@ -836,10 +836,18 @@ content-analysis-panel-title = ദത്ത സംരക്ഷണം
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = വിപുലീകരണങ്ങൾ
+    .tooltiptext = വിപുലീകരണങ്ങൾ
 
 ## Unified extensions button when permission(s) are needed.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-permissions-needed =
+    .label = വിപുലീകരണങ്ങൾ
+    .tooltiptext =
+        വിപുലീകരണങ്ങൾ
+        അനുമതികളുടെ ആവശ്യമുണ്ടു്
 
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
@@ -851,6 +859,16 @@ content-analysis-panel-title = ദത്ത സംരക്ഷണം
 
 ## Private browsing reset button
 
+reset-pbm-panel-always-ask-checkbox =
+    .label = എപ്പോഴും ചോദിക്കുക
+    .accesskey = എ
+reset-pbm-panel-cancel-button =
+    .label = റദ്ദാക്കുക
+    .accesskey = റ
+reset-pbm-panel-confirm-button =
+    .label = ഘട്ടം ദത്ത മായ്ക്കുക
+    .accesskey = മ
+reset-pbm-panel-complete = സ്വകാര്യ ഘട്ടത്തിന്റെ ദത്ത മായച്ചു
 
 ## Autorefresh blocker
 

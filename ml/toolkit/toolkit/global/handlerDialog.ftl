@@ -50,7 +50,18 @@ permission-dialog-set-change-app-link = വേറെയൊരു പ്രയോ
 chooser-window =
     .title = പ്രയോഗം തിരഞ്ഞെടുക്കുക
     .style = min-width: 26em; min-height: 26em;
-choose-other-app-description = മറ്റ് അപ്ലിക്കേഷൻ തിരഞ്ഞെടുക്കുക
+chooser-dialog =
+    .buttonlabelaccept = കണ്ണി തുറക്കുക
+    .buttonaccesskeyaccept = ത
+chooser-dialog-description = { $scheme } കണ്ണി തുറക്കാനായി ഒരു പ്രയോഗത്തിനെ തിരഞ്ഞെടുക്കുക
+# Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
+chooser-dialog-remember = <strong>{ $scheme }</strong> കണ്ണികളെ തുറക്കാനായി എപ്പോഴും ഈ പ്രയോഗത്തിനെ ഉപയോഗിക്കുക
+chooser-dialog-remember-extra =
+    { PLATFORM() ->
+        [windows] { -brand-short-name }-യുടെ സാധ്യതകളിൽ ഇതു് മാറ്റാൻ കഴിയും
+       *[other] { -brand-short-name }-യുടെ മുൻഗണനകളിൽ ഇതു് മാറ്റാൻ കഴിയും
+    }
+choose-other-app-description = മറ്റ് പ്രയോഗം തിരഞ്ഞെടുക്കുക
 choose-app-btn =
     .label = തെരഞ്ഞെടുക്കുക…
     .accessKey = C
