@@ -151,3 +151,7 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Ez bazaizu <b>{ $mitm }</b>
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> guneak HTTP Strict Transport Security (HSTS) izeneko segurtasun-politika dauka eta { -brand-short-name } modu seguruan konekta daiteke soilik. Ezin duzu gunea bisitatzeko salbuespenik gehitu.
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = Ziurrenik ezer ez, litekeena baita gunearekin berarekin arazo bat dagoela.
+# Variables:
+#   $responsestatus (string) - HTTP response status code (e.g., 500).
+#   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
+neterror-response-status-code = Errore-kodea: { $responsestatus } { $responsestatustext }
