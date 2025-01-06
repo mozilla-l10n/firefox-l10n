@@ -256,7 +256,7 @@ about-logins-alert-import-title = ഇറക്കുമതി കഴിഞ്ഞ
 about-logins-alert-import-message = വിശദമായ ഇറക്കുമതി ചുരുക്കം കാണുക
 confirm-discard-changes-dialog-title = സംരക്ഷിക്കാത്ത മാറ്റങ്ങൾ നിരസിക്കണോ?
 confirm-discard-changes-dialog-message = സംരക്ഷിക്കാത്ത എല്ലാ മാറ്റങ്ങളും നഷ്‌ടപ്പെടും.
-confirm-discard-changes-dialog-confirm-button = ഉപേക്ഷിക്കുക
+confirm-discard-changes-dialog-confirm-button = കളയുക
 
 ## Breach Alert notification
 
@@ -292,7 +292,7 @@ about-logins-error-message-default = ഈ പാസ്‌വേഡ് സംര�
 about-logins-export-file-picker-title = പ്രവേശിക്കൽ ഫയൽ കയറ്റുമതിക്കുക
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
-about-logins-export-file-picker-default-filename = logins.csv
+about-logins-export-file-picker-default-filename = പ്രവേശിക്കലുകൾ.csv
 # Title of the file picker dialog
 about-logins-export-file-picker-title2 = { -brand-short-name } നിന്നു് രഹസ്യവാക്കുകൾ കയറ്റുമതി ചെയ്യുക
 # The default file name shown in the file picker when exporting saved logins.
