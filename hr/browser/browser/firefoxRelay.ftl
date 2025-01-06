@@ -57,15 +57,28 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 ## The "control" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-second-sentence-control = Za korištenje maske e-mail adrese najprije se registriraj ili se prijavi na tvoj račun
+firefox-relay-offer-legal-notice-control = Sa registracijom i stvaranjem maske e-mail adrese prihvaćaš <label data-l10n-name="tos-url">uvjete usluge</label> i <label data-l10n-name="privacy-url">politiku privatnosti</label>.
 
 ## The "basic-info" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-basic-info = Spriječi neželjenu poštu besplatnom maskom za e-mail adresu
+firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = Za korištenje maske za e-mail adrese najprije se registriraj ili se prijavi na tvoj račun
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
+    .label = Registriraj se
+    .accesskey = R
 
 ## The "with-domain" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain = Nabavi besplatnu masku e-mail adrese
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Za korištenje maske za e-mail adrese najprije se registriraj ili se prijavi na tvoj račun
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
+    .label = Registriraj se
+    .accesskey = R
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Zaštiti se od neželjene pošte s maskom za e-mail adresu
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Za korištenje maske za e-mail adrese najprije se registriraj ili se prijavi na tvoj račun
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Dalje
     .accesskey = D
