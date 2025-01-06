@@ -88,6 +88,7 @@ appmenu-remote-tabs-unverified = మీ ఖాతాను తనిఖీ చ�
 appmenuitem-fxa-manage-account = ఖాతా నిర్వహణ
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = ఖాతా
+appmenu-fxa-signed-in-label = ప్రవేశించు
 appmenuitem-save-page =
     .label = పేజీని ఇలా భద్రపరచు…
 
@@ -155,6 +156,9 @@ appmenu-recently-closed-tabs =
     .label = ఇటీవల మూసిన ట్యాబులు
 appmenu-recently-closed-windows =
     .label = ఇటీవల మూసిన విండోలు
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = చరిత్రలో వెతకండి
 
 ## Help panel
 
