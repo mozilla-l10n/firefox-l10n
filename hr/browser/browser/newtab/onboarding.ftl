@@ -425,6 +425,9 @@ onboarding-horizontal-tabs-description =
     .aria-description = Prozor preglednika koji prikazuje kartice u gornjem rubu.
 # Additional setup card for setting up aichatbot in the sidebar
 onboarding-genai-sidebar-title = Isprobaj UI chatbot u bočnoj traci
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = Sažmi web sadržaj, sakupljaj ideje, izradi predloške za poruke – sve to dok pregledavaš. Biraj između više usluga. Promijeni bilo kada. <a data-l10n-name="learn-more">Saznaj više</a>
+onboarding-genai-sidebar-primary-button = Odaberi chatbot
 onboarding-genai-sidebar-secondary-button = Počni pregledavati
 
 ## New user onboarding checklist
