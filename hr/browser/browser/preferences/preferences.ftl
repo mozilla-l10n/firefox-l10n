@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Šalji web stranicama signal „Ne prati me”, da ne želiš da te prate
+do-not-track-removal = Više ne podržavamo signal „Ne prati”
 do-not-track-description2 =
     .label = Šalji web stranicama zahtjev za „Ne prati me”
     .accesskey = d

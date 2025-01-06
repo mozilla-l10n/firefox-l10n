@@ -442,6 +442,13 @@ onboarding-checklist-sign-up = Registriraj se ili se prijavi na svoj račun
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-feature-callout-title = Isprobaj grupe kartica za manje nereda, bolje fokusiranje
+tab-groups-onboarding-feature-callout-subtitle = Uredi popis kartica povlačenjem jedne kartice na drugu za stvaranje tvoje prve grupe.
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-title = Upoznaj { -brand-product-name } profile
+multi-profile-spotlight-cta = Stvori profil
+multi-profile-callout-title = Stvori različite profile za posao i zabavu
+multi-profile-callout-subtitle = Profili omogućuju odvojiti podatke o pregledavanju, poput povijesti pretraživanja i lozinki.
+multi-profile-callout-cta = Stvori profil
