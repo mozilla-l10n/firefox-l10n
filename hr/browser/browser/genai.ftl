@@ -60,13 +60,24 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Pitaj { $provider }…
+genai-shortcuts-hide =
+    .label = Sakrij prečac chatbota
 
 ## Chatbot header
 
+genai-chatbot-title = UI chatbot
+genai-header-provider-menu =
+    .title = Odaberi chatbot
 genai-header-options-button =
     .title = Otvori izbornik
 genai-header-close-button =
     .title = Zatvori
+genai-provider-view-details =
+    .label = Pogledaj detalje chatbota
+genai-provider-about-chatbots =
+    .label = O ovim chatbotovima
+genai-options-reload-generic =
+    .label = Ponovo učitaj UI chatbot
 # $provider (string) - name of the provider
 genai-options-reload-provider =
     .label = Ponovno učitaj { $provider }
@@ -118,6 +129,5 @@ genai-onboarding-gemini-price = Besplatne i plaćene opcije; potreban je račun
 genai-onboarding-huggingchat-generate = Generiraj tekst i kod
 genai-onboarding-huggingchat-switch = Biraj između raznolikog skupa otvorenih modela
 genai-onboarding-huggingchat-price-2 = Besplatno; račun je potreban nakon određenog broja zahtjeva
-genai-onboarding-huggingchat-price = Besplatno; za neke zadatke je potreban račun
 genai-onboarding-lechat-generate = Generiraj tekst i kod
 genai-onboarding-lechat-price = Besplatno; potreban je račun
