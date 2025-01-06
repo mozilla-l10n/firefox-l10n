@@ -396,6 +396,8 @@ onboarding-many-tabs-title = Tvoje kartice na tvoj način
 onboarding-many-tabs-subtitle = Imaš puno otvorenih kartica? Isprobaj prikaz kartica na strani. Ili ostavi klasični prikaz kartica u gornjem dijelu prozora. Promijeni bilo kada.
 # Setup screen for vertical tabs - focused variation
 onboarding-focused-tabs-title = Odaberi raspored kartica
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Isprobaj prikaz kartica na strani. Ili ostavi klasični prikaz kartica u gornjem dijelu prozora. Promijeni bilo kada.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Kartice na strani
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
