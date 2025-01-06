@@ -8,9 +8,13 @@ styleeditor-new-button =
 styleeditor-import-button =
     .tooltiptext = Uvezi i dodaj postojeće stilske predloške dokumentu
     .accesskey = U
+styleeditor-filter-input =
+    .placeholder = Filtriraj stilske predloške
 styleeditor-visibility-toggle =
     .tooltiptext = Uključi/isključi vidljivost stilova
     .accesskey = S
+styleeditor-visibility-toggle-system =
+    .tooltiptext = Stilski predlošci sustava se ne mogu deaktivirati
 styleeditor-save-button = Spremi
     .tooltiptext = Spremite ovaj stil u datoteku
     .accesskey = S
@@ -45,3 +49,6 @@ styleeditor-stylesheet-rule-count =
         [few] { $ruleCount } pravila.
        *[other] { $ruleCount } pravila.
     }
+# Title for the pretty print button in the editor footer.
+styleeditor-pretty-print-button =
+    .title = Formatiran stilski predložak
