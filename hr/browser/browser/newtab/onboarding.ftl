@@ -450,6 +450,7 @@ tab-groups-onboarding-feature-callout-subtitle = Uredi popis kartica povlačenje
 ## Multi Profiles feature onboarding messages
 
 multi-profile-spotlight-title = Upoznaj { -brand-product-name } profile
+multi-profile-spotlight-body = Jednostavno promijeni način pregledavanja između posla i zabave. Profili čuvaju podatke o pregledavanju, uključujući povijest pretraživanja i lozinke odvojeno.
 multi-profile-spotlight-cta = Stvori profil
 multi-profile-callout-title = Stvori različite profile za posao i zabavu
 multi-profile-callout-subtitle = Profili omogućuju odvojiti podatke o pregledavanju, poput povijesti pretraživanja i lozinki.

@@ -42,6 +42,11 @@ sync-setup-verify-heading = Stvarno se želiš prijaviti za sinkronizaciju?
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
+# Dialog 2 - account signed in on another profile without option to merge
+sync-account-in-use-header = Račun se već koristi
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-switch-profile = Prebaci na „{ $profileName }”
 sync-button-create-profile = Stvori novi profil
 sync-button-sync-and-merge = Sinkroniziraj i sjedini podatke
 # Variables:
