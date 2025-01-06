@@ -92,6 +92,7 @@ tabbrowser-confirm-close-tabs-title =
        *[other] Zatvori { $tabCount } kartica?
     }
 tabbrowser-confirm-close-tabs-button = Zatvori kartice
+tabbrowser-ask-close-tabs-checkbox = Pitaj prije zatvaranja više kartica
 tabbrowser-confirm-close-tabs-checkbox = Potvrdi prije zatvaranja više kartica
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
@@ -119,7 +120,21 @@ tabbrowser-confirm-close-tabs-with-key-title = Zatvoriti prozor i { -brand-short
 tabbrowser-confirm-close-tabs-with-key-button = Zatvori { -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = Pitaj prije zatvaranja s { $quitKey }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Potvrdi prije zatvaranja s { $quitKey }
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+tabbrowser-confirm-close-warn-shortcut-title = Zatvoriti { -brand-short-name } ili zatvoriti trenutačnu karticu?
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] Zatvori { -brand-short-name }
+       *[other] Zatvori { -brand-short-name }
+    }
+tabbrowser-confirm-close-tab-only-button = Zatvori trenutačnu karticu
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -207,3 +222,55 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Odustani
     .accesskey = O
+tab-group-menu-header = Grupe kartica
+tab-context-unnamed-group =
+    .label = Neimenovana grupa
+tab-group-name-default = Neimenovana grupa
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Dodaj karticu u novu grupu
+            [one] Dodaj karticu u novu grupu
+            [few] Dodaj kartice u novu grupu
+           *[other] Dodaj kartice u novu grupu
+        }
+    .accesskey = D
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Dodaj karticu u grupu
+            [one] Dodaj karticu u grupu
+            [few] Dodaj kartice u grupu
+           *[other] Dodaj kartice u grupu
+        }
+    .accesskey = k
+tab-group-editor-action-new-tab =
+    .label = Nova kartica u grupi
+tab-group-editor-action-new-window =
+    .label = Premjesti grupu u novi prozor
+tab-group-editor-action-save =
+    .label = Spremi i zatvori grupu
+tab-group-editor-action-ungroup =
+    .label = Razgrupiraj kartice
+tab-group-editor-action-delete =
+    .label = Izbriši grupu
+tab-group-editor-done =
+    .label = Gotovo
+    .accessKey = G
+tab-context-reopen-tab-group =
+    .label = Ponovo otvori grupu kartica
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] Ukloni iz grupe
+            [one] Ukloni iz grupe
+            [few] Ukloni iz grupa
+           *[other] Ukloni iz grupa
+        }
+    .accesskey = U

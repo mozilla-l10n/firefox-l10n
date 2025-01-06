@@ -44,3 +44,6 @@ sync-setup-verify-heading = Stvarno se želiš prijaviti za sinkronizaciju?
 
 sync-button-create-profile = Stvori novi profil
 sync-button-sync-and-merge = Sinkroniziraj i sjedini podatke
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-sync-profile = Sinkroniziraj „{ $profileName }”
