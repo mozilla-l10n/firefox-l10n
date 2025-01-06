@@ -24,6 +24,14 @@ firefox-relay-opt-in-title-1 = Zaštiti svoju e-mail adresu:
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Koristi { -relay-brand-name } masku za e-mail adresu
 firefox-relay-use-mask-title = Koristi { -relay-brand-name } masku za e-mail adresu
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
+firefox-relay-opt-in-title-a = Spriječi neželjenu poštu besplatnom maskom za e-mail adresu
+# This is preceded by firefox-relay-opt-in-title-a (on a different line)
+firefox-relay-opt-in-subtitle-a = Sakrij svoju pravu e-mail adresu
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
+firefox-relay-opt-in-title-b = Nabavi besplatnu e-mail masku
+# This is preceded by firefox-relay-opt-in-title-b (on a different line)
+firefox-relay-opt-in-subtitle-b = Zaštiti sandučić dolazne pošte od neželjene pošte
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Koristi e-mail masku
     .accesskey = K
@@ -33,12 +41,22 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Ne sada
     .accesskey = N
+firefox-relay-and-fxa-opt-in-confirmation-enable-button =
+    .label = Prijavi se na { -brand-product-name } i koristi masku
+    .accesskey = P
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
+    .label = Registriraj se
+    .accesskey = R
+firefox-relay-and-fxa-opt-in-confirmation-disable =
+    .label = Nemoj mi ovo više prikazivati
+    .accesskey = N
 firefox-relay-and-fxa-opt-in-confirmation-postpone =
     .label = Ne sada
     .accesskey = N
 
 ## The "control" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-second-sentence-control = Za korištenje maske e-mail adrese najprije se registriraj ili se prijavi na tvoj račun
 
 ## The "basic-info" variation of the Relay offer popup
 

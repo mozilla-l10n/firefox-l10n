@@ -90,3 +90,7 @@ sidebar-callout-survey-saved-websites-2 = Brzi pristup tvojim zabilješkama
 sidebar-callout-survey-none-of-above = Ništa od navedenog
 sidebar-callout-survey-submit = Pošalji
 sidebar-callout-survey-thank-you = Hvala ti na povratnim informacijama!
+sidebar-genai-survey-satisfaction-question = Koliko si zadovoljan/na s pristupom UI chatbotu u bočnoj traci?
+sidebar-genai-survey-productive-question =
+    U kojoj se mjeri slažeš ili ne slažeš s ovom izjavom:<br/>
+    „UI chatbot u bočnoj traci mi pomaže povećati produktivnost”?
