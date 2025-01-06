@@ -392,6 +392,12 @@ onboarding-new-tabs-title = Vertel ons waar u uw tabbladen wilt hebben
 onboarding-new-tabs-subtitle = Wijzig het wanneer u maar wilt in de zijbalkinstellingen.
 # Setup screen for vertical tabs - too many tabs variation
 onboarding-many-tabs-title = Uw tabbladen, op uw manier
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Veel tabbladen open houden? Probeer uw tabbladen aan de zijkant voor een meer gestroomlijnde weergave. Of houd het klassiek met tabbladen bovenaan. Wissel op elk gewenst moment.
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Kies uw tabbladindeling
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Probeer uw tabbladen aan de zijkant voor een gestroomlijnde weergave die u kan helpen gefocust te blijven. Of houd het klassiek met tabbladen bovenaan. Wissel op elk gewenst moment.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Tabbladen aan de zijkant
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -444,5 +450,8 @@ tab-groups-onboarding-feature-callout-subtitle = Orden door het ene tabblad op h
 ## Multi Profiles feature onboarding messages
 
 multi-profile-spotlight-title = Hartelijk welkom bij { -brand-product-name }-profielen
+multi-profile-spotlight-body = Wissel eenvoudig tussen browsen voor werk en plezier. Profielen houden uw navigatiegegevens, waaronder zoekgeschiedenis en wachtwoorden, volledig gescheiden, zodat u geordend kunt blijven.
 multi-profile-spotlight-cta = Een profiel aanmaken
+multi-profile-callout-title = Maak verschillende profielen voor werk en plezier
+multi-profile-callout-subtitle = Met profielen kunt u uw navigatiegegevens, zoals zoekgeschiedenis en wachtwoorden, volledig gescheiden houden.
 multi-profile-callout-cta = Een profiel aanmaken

@@ -463,4 +463,7 @@ newtab-section-unfollow-button = Ontvolgen
 
 ## Confirmation modal for blocking a section
 
+newtab-section-confirm-block-section-p1 = Weet u zeker dat u deze sectie wilt blokkeren?
+newtab-section-confirm-block-section-p2 = Geblokkeerde sectie verschijnt niet meer in uw feed.
+newtab-section-block-section-button = Deze sectie blokkeren
 newtab-section-cancel-button = Niet nu

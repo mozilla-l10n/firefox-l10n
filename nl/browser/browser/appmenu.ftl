@@ -280,8 +280,11 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Ontvang waarschuwingen over datalekken
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Maskeer uw echte e-mailadres en telefoonnummer
+appmenuitem-services-relay-description = Dashboard voor e-mailmaskers starten
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Bescherm uw online activiteit
+appmenu-services-header = Mijn services
+appmenu-other-protection-header = Probeer andere beschermingshulpmiddelen van { -vendor-short-name }:
 
 ## Profiles panel
 
