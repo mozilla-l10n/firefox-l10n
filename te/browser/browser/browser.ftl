@@ -238,7 +238,14 @@ quickactions-cmd-bookmarks = ఇష్టాంశాలు
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = చరిత్రను తుడిచివేయి
 quickactions-cmd-downloads = దింపుకోళ్ళు
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = పేజీని PDFగా భద్రపరుచు
 quickactions-cmd-private = అంతరంగిక విహారణ
+# Opens the screenshot tool
+quickactions-screenshot3 = తెరపట్టు తీసుకోండి
+quickactions-cmd-settings = అమరికలు, ప్రాధాన్యతలు, ఎంపికలు
+# Opens about:addons page in the themes section
+quickactions-themes = అలంకారాల నిర్వహణ
 quickactions-cmd-themes = అలంకారాలు
 
 ## Bookmark Panel
@@ -767,10 +774,18 @@ private-browsing-indicator-tooltip =
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = పొడగింతలు
+    .tooltiptext = పొడగింతలు
 
 ## Unified extensions button when permission(s) are needed.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-permissions-needed =
+    .label = పొడగింతలు
+    .tooltiptext =
+        పొడగింతలు
+        అనుమతులు కావాలి
 
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.

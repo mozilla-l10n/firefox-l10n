@@ -175,6 +175,11 @@ appmenu-help-more-troubleshooting-info =
     .accesskey = T
 appmenu-help-report-site-issue =
     .label = సైటులోని సమస్యను నివేదించండి…
+appmenu-help-share-ideas =
+    .label = ఆలోచనలను, అభిప్రాయాలను పంచుకోండి…
+    .accesskey = S
+appmenu-help-switch-device =
+    .label = కొత్త పరికరంలోకి మారడం
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -198,11 +203,16 @@ appmenu-help-not-deceptive =
 appmenu-customizetoolbar =
     .label = పనిముట్లపట్టీని మలుచుకోండి…
 appmenu-developer-tools-subheader = విహారిణి పనిముట్లు
+appmenu-developer-tools-extensions =
+    .label = డెవలపర్‌ల కోసం పొడగింతలు
 appmenuitem-report-broken-site =
     .label = పనిచేయని సైటును నివేదించండి
 
 ## Panel for privacy and security products
 
+appmenuitem-sign-in-account = మీ ఖాతా లోనికి ప్రవేశించండి
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenu-services-header = నా సేవలు
 
 ## Profiles panel
 
