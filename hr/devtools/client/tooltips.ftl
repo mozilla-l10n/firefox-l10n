@@ -44,10 +44,17 @@ inactive-css-only-replaced-elements = <strong>{ $property }</strong> ne utječe 
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> ne utječe na ovaj element, budući da <strong>overflow:hidden</strong> nije postavljeno.
 inactive-css-not-for-internal-table-elements = <strong> { $property } </strong> nema utjecaja na interne elemente tablice.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong> { $property } </strong> nema utjecaja na interne elemente tablice, osim na polja tablice.
+inactive-css-not-table = <strong>{ $property }</strong> ne utječe na ovaj element, budući da nije tablica.
+inactive-css-not-table-cell = <strong>{ $property }</strong> ne utječe na ovaj element, budući da nije ćelija tablice.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain how
-## the problem can be solved.
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
 
 
 ## In the Rule View when a CSS property cannot be successfully applied we display

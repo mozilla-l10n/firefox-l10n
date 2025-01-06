@@ -39,3 +39,5 @@ remove-search-engine-button = U redu
 ## $engineName (String) - the name of the search engine to install.
 
 install-search-engine = Dodati { $engineName } kao tražilicu?
+install-search-engine-add = Dodaj
+install-search-engine-no = Ne

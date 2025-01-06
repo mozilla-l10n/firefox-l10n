@@ -301,6 +301,11 @@ root-certificate-succession-infobar-secondary-button =
     .label = Kasnije
     .accesskey = K
 
+## Root Certificate Succession Windows Background Notification
+
+root-certificate-windows-background-notification-learn-more-button = Saznaj više
+root-certificate-windows-background-notification-update-button = Aktualiziraj { -brand-short-name }
+
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =

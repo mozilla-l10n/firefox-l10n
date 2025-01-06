@@ -190,6 +190,7 @@ shopping-survey-thanks =
 ## Shopping opted-out survey strings
 ## Opt-out survey options are displayed as checkboxes and the user can select one or many.
 
+shopping-survey-thanks-title = Hvala ti na povratnim informacijama!
 shopping-survey-opted-out-hard-to-understand = Teško je razumjeti
 shopping-survey-opted-out-too-slow = Presporo je
 shopping-survey-opted-out-not-accurate = Nije točno
