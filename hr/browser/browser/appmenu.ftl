@@ -280,9 +280,11 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Primaj upozorenja o povredi podataka
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Maskiraj svoju pravu e-mail adresu i telefon
+appmenuitem-services-relay-description = Pokreni nadzornu ploču maski e-mail adresa
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Zaštiti svoju online aktivnost
 appmenu-services-header = Moje usluge
+appmenu-other-protection-header = Isprobaj druge { -vendor-short-name } alate za zaštitu:
 
 ## Profiles panel
 
