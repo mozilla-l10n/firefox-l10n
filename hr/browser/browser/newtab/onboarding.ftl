@@ -392,6 +392,8 @@ onboarding-new-tabs-title = Reci nam gdje želiš prikazati kartice
 onboarding-new-tabs-subtitle = Promijeni položaj kad god želiš u postavkama bočne trake.
 # Setup screen for vertical tabs - too many tabs variation
 onboarding-many-tabs-title = Tvoje kartice na tvoj način
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Imaš puno otvorenih kartica? Isprobaj prikaz kartica na strani. Ili ostavi klasični prikaz kartica u gornjem dijelu prozora. Promijeni bilo kada.
 # Setup screen for vertical tabs - focused variation
 onboarding-focused-tabs-title = Odaberi raspored kartica
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
@@ -400,6 +402,15 @@ onboarding-new-vertical-tabs-label = Kartice na strani
 onboarding-new-horizontal-tabs-label = Kartice gore
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title = Sada postoje okomito poredane kartice
+# Setup screen for vertical tabs for existing users
+onboarding-existing-tabs-title2 = Predstavljamo okomite kartice
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Isprobaj kartice na strani. Promijeni kad god želiš u postavkama bočne trake.
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Isprobaj okomite kartice
+onboarding-flair-text = Novo!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Zadrži vodoravne kartice
 # Tooltip displayed on hover for vertical tabs image
 onboarding-vertical-tabs-tooltip =
     .title = Prozor preglednika koji prikazuje kartice uzduž ruba ekrana kao dio bočne trake { -brand-shorter-name(case: "gen") }.
@@ -412,6 +423,8 @@ onboarding-horizontal-tabs-tooltip =
 # Description for horizontal tabs image
 onboarding-horizontal-tabs-description =
     .aria-description = Prozor preglednika koji prikazuje kartice u gornjem rubu.
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Isprobaj UI chatbot u bočnoj traci
 onboarding-genai-sidebar-secondary-button = Počni pregledavati
 
 ## New user onboarding checklist
