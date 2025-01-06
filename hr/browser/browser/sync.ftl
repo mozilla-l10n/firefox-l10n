@@ -45,6 +45,10 @@ sync-setup-verify-heading = Stvarno se želiš prijaviti za sinkronizaciju?
 # Dialog 2 - account signed in on another profile without option to merge
 sync-account-in-use-header = Račun se već koristi
 # Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $otherProfile (String) - Name of the other profile that is associated with the account
+sync-account-in-use-header-merge = E-mail adresa { $acctEmail } je već prijavljena na profil „{ $otherProfile }”.
+# Variables:
 #   $profileName (String) - Name of the profile to switch to
 sync-button-switch-profile = Prebaci na „{ $profileName }”
 sync-button-create-profile = Stvori novi profil
