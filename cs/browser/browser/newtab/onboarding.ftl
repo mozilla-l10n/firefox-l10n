@@ -633,7 +633,7 @@ tab-groups-onboarding-feature-callout-subtitle = Vytvořte si pořádek přesunu
 ## Multi Profiles feature onboarding messages
 
 multi-profile-spotlight-title =
-    { -brand-full-name.case-status ->
+    { -brand-product-name.case-status ->
         [with-cases] Pozdravte profily { -brand-product-name(case: "gen") }
        *[no-cases] Pozdravte profily aplikace { -brand-product-name }
     }
