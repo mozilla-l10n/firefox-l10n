@@ -73,6 +73,8 @@ sidebar-callout-survey-privacy-notice-link = Napomena o privatnosti
 sidebar-callout-survey-very-satisfied = Vrlo zadovoljan/na
 sidebar-callout-survey-satisfied = Zadovoljan/na
 sidebar-callout-survey-neutral = Neutralan/na
+sidebar-callout-survey-dissatisfied-2 = Nezadovoljan/na
+sidebar-callout-survey-very-dissatisfied-2 = Vrlo nezadovoljan/na
 sidebar-callout-survey-dont-use-it = Ne koristim je
 sidebar-callout-survey-productive-question =
     U kojoj se mjeri slažeš ili ne slažeš s ovom izjavom:<br/>
@@ -84,6 +86,7 @@ sidebar-callout-survey-strongly-disagree = Apsolutno se ne slažem
 sidebar-callout-survey-features-question = Sljedeće su potencijalne funkcije bočne trake. Što bi najviše poboljšalo tvoju produktivnost u { -brand-short-name(case: "loc") }?
 sidebar-callout-survey-split-view = Pregledaj bilo koje dvije web stranice odjednom u podijeljenom prikazu jednu pored druge
 sidebar-callout-survey-keep-website-open = Zadrži web stranicu, poput e-pošte ili kalendara, otvorenom u bočnoj traci tijekom pregledavanja
+sidebar-callout-survey-saved-websites-2 = Brzi pristup tvojim zabilješkama
 sidebar-callout-survey-none-of-above = Ništa od navedenog
 sidebar-callout-survey-submit = Pošalji
 sidebar-callout-survey-thank-you = Hvala ti na povratnim informacijama!
