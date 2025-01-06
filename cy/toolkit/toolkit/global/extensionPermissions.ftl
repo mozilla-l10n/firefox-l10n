@@ -33,3 +33,10 @@ webext-perms-description-topSites = Mynediad at eich hanes pori
 webext-perms-description-trialML = Llwythwch i lawr a rhedeg modelau AI ar eich dyfais
 webext-perms-description-userScripts = Caniatáu i sgriptiau trydydd parti heb eu gwirio gael mynediad i'ch data
 webext-perms-description-webNavigation = Cael mynediad at weithgaredd wrth lywio
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+
+webext-perms-extra-warning-userScripts-long = Gall sgriptiau heb eu gwirio achosi risgiau diogelwch a phreifatrwydd, megis rhedeg cod niweidiol neu olrhain gweithgaredd gwefan. Cofiwch redeg dim ond sgriptiau o estyniadau neu ffynonellau rydych chi'n ymddiried ynddyn nhw.
+# A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
+webext-perms-extra-warning-userScripts-short = Gall sgriptiau heb eu gwirio achosi risgiau diogelwch a phreifatrwydd. Cofiwch redeg dim ond sgriptiau o estyniadau neu ffynonellau rydych chi'n ymddiried ynddyn nhw.
