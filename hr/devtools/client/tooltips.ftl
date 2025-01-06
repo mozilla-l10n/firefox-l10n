@@ -24,22 +24,24 @@ learn-more = <span data-l10n-name="link">Saznaj više</span>
 ##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
-inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> ne utječe na ovaj element, budući da nije niti fleks-kontejner niti grid-kontejner.
-inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> ne utječe na ovaj element, budući da nije fleks-kontejner, grid-kontejner ili višestupčani kontejner.
+inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> ne utječe na ovaj element jer nije fleks-kontejner niti grid-kontejner.
+inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> ne utječe na ovaj element jer nije fleks-kontejner, grid-kontejner ili višestupčani kontejner.
 inactive-css-not-multicol-container = <strong>{ $property }</strong> ne utječe na ovaj element jer nije višestupčani kontejner.
-inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> ne utječe na ovaj element, budući da nije mrežni ili fleks element.
-inactive-css-not-grid-item = <strong>{ $property }</strong> ne utječe na ovaj element, budući da nije mrežni element.
-inactive-css-not-grid-container = <strong>{ $property }</strong> ne utječe na ovaj element, budući da nije grid-kontejner.
-inactive-css-not-flex-item = <strong>{ $property }</strong> ne utječe na ovaj element, budući da nije fleks element.
-inactive-css-not-flex-container = <strong>{ $property }</strong> ne utječe na ovaj element, budući da nije fleks-kontejner.
-inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> nema utjecaja na ovaj element, budući da nije „inline” niti „table-cell” element.
+inactive-css-column-span = <strong>{ $property }</strong> ne utječe na ovaj element jer se ne nalazi u višestupčanom kontejneru.
+inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> ne utječe na ovaj element jer nije grid ili fleks element.
+inactive-css-not-grid-item = <strong>{ $property }</strong> ne utječe na ovaj element jer nije grid element.
+inactive-css-not-grid-container = <strong>{ $property }</strong> ne utječe na ovaj element jer nije grid-kontejner.
+inactive-css-not-flex-item = <strong>{ $property }</strong> ne utječe na ovaj element jer nije flex element.
+inactive-css-not-flex-container = <strong>{ $property }</strong> ne utječe na ovaj element jer nije flex kontejner.
+inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> ne utječe na ovaj element jer nije „inline” niti „table-cell” element.
 inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</strong> nije podržano na pseudoelementima ::first-line.
 inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</strong> nije podržano na pseudoelementima ::first-letter.
 inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> nije podržano na pseudoelementima ::placeholder.
-inactive-css-property-because-of-display = <strong>{ $property }</strong> ne utječe na ovaj element, budući da sadrži prikaz <strong>{ $display }</strong>.
+inactive-css-property-because-of-display = <strong>{ $property }</strong> ne utječe na ovaj element jer sadrži prikaz <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = Vrijednost za <strong>display</strong> promijenjena je u <strong>block</strong> jer je element postavljen na <strong>float</strong>.
+inactive-css-not-block = <strong>{ $property }</strong> ne utječe na ovaj element jer se primijenjuje samo na elemente na razini bloka.
 inactive-css-property-is-impossible-to-override-in-visited = Zbog ograničenja <strong>:visited</strong> nije moguće nadjačati <strong>{ $property }</strong>.
-inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> ne utječe na ovaj element, budući da nije pozicionirani element.
+inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> ne utječe na ovaj element jer nije pozicionirani element.
 inactive-css-only-replaced-elements = <strong>{ $property }</strong> ne utječe na ovaj element jer se može primijeniti samo na zamijenjene elemente.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> ne utječe na ovaj element, budući da <strong>overflow:hidden</strong> nije postavljeno.
 inactive-css-not-for-internal-table-elements = <strong> { $property } </strong> nema utjecaja na interne elemente tablice.
