@@ -21,6 +21,9 @@ unified-extensions-manage-extensions =
 unified-extensions-item-open-menu =
     .aria-label = Otvori izbornik za { $extensionName }
 unified-extensions-item-message-manage = Upravljaj proširenjem
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked = { $extensionName } krši Mozillina pravila. Korištenje može biti riskantno.
 
 ## Extension's context menu
 
@@ -47,3 +50,28 @@ unified-extensions-mb-quarantined-domain-message-3 =
     .message = Za zaštiti tvojih podataka, neka proširenja ne mogu čitati niti mijenjati podatke na ovoj web-stranici. Koriti postavke proširenja za dozvoljavanje na web-stranicama koje ograničava { -vendor-short-name }.
 unified-extensions-mb-quarantined-domain-learn-more = Saznaj više
     .aria-label = Saznaj više: Neki dodaci nisu dozvoljeni
+unified-extensions-mb-about-addons-link = Idi na postavke proširenja
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single =
+    .heading = { $extensionName } deaktivirano
+    .message =
+        Ovo proširenje krši Mozillina pravila te je stoga deaktivirano.
+        U postavkama ga možeš aktivirati, ali to može biti riskantno.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a hard-block.
+unified-extensions-mb-blocklist-error-single =
+    .heading = { $extensionName } deaktivirano
+    .message = Ovo proširenje krši Mozillina pravila te je stoga deaktivirano.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple =
+    .heading =
+        { $extensionsCount ->
+            [one] { $extensionsCount } proširenje deaktivirano
+            [few] { $extensionsCount } proširenja deaktivirana
+           *[other] { $extensionsCount } proširenja deaktivirano
+        }
+    .message =
+        Neka od tvojih proširenje krše Mozillina pravila.
+        U postavkama ih možeš aktivirati, ali to može biti riskantno.
