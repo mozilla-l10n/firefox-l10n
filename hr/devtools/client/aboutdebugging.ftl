@@ -112,6 +112,8 @@ about-debugging-setup-usb-step-enable-dev-menu2 = Aktiviraj izbornik za programe
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug2 = Aktiviraj USB uklanjanje grešaka u Android izborniku za programere.
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-file-transfer = Aktiviraj prijenos datoteka i provjeri da tvoj uređaj nije u modusu samo punjenje.
+# USB section step by step guide
 about-debugging-setup-usb-step-enable-debug-firefox2 = Aktiviraj USB uklanjanje grešaka u Firefoxu na Android uređaju.
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Spojite Android uređaj s računalom.
@@ -239,6 +241,11 @@ about-debugging-tmp-extension-reload-button = Učitaj ponovo
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will uninstall the extension and remove it from the page.
 about-debugging-tmp-extension-remove-button = Ukloni
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will forcefully terminate the extension background script (button
+# only visible in extensions that includes a non-persistent background script, either an
+# event page or a background service worker).
+about-debugging-tmp-extension-terminate-bgscript-button = Prekini skripta u pozadini
 # Message displayed in the file picker that opens to select a temporary extension to load
 # (triggered by the button using "about-debugging-tmp-extension-install-button")
 # manifest.json .xpi and .zip should not be localized.
@@ -262,6 +269,15 @@ about-debugging-extension-location =
 # For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
 about-debugging-extension-id =
     .label = ID proširenja
+# Text displayed for extensions in "runtime" pages, before displaying the status of the
+# extension background script.
+about-debugging-extension-backgroundscript =
+    .label = Skripta u pozadini
+# Displayed for extension using a non-persistent background page (either an event page or
+# background service worker) when the background script is currently running.
+about-debugging-extension-backgroundscript-status-running = Izvodi se
+# Displayed for extension using a non-persistent background page when is currently stopped.
+about-debugging-extension-backgroundscript-status-stopped = Zaustavljeno
 # This string is displayed as a label of the button that starts a service worker.
 # .disabledTitle is processed by the fluent-react / ActionButton code.
 about-debugging-worker-action-start2 = Pokreni
@@ -286,6 +302,9 @@ about-debugging-worker-status-registering = Registriranje
 # Displayed for service workers in runtime pages, to label the scope of a worker
 about-debugging-worker-scope =
     .label = Opseg
+# Displayed for service workers in runtime pages, to label the origin of a worker.
+about-debugging-worker-origin =
+    .label = Izvor
 # Displayed as title of the inspect button when service worker debugging is disabled.
 about-debugging-worker-inspect-action-disabled =
     .title = Provjera radnih procesa trenutačno je onemogućena za višeprocesni { -brand-shorter-name }

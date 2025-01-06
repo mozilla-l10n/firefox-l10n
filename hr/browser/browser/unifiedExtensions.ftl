@@ -73,5 +73,15 @@ unified-extensions-mb-blocklist-warning-multiple =
            *[other] { $extensionsCount } proširenja deaktivirano
         }
     .message =
-        Neka od tvojih proširenje krše Mozillina pravila.
+        Neka od tvojih proširenja su deaktivirana jer krše Mozillina pravila.
         U postavkama ih možeš aktivirati, ali to može biti riskantno.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
+unified-extensions-mb-blocklist-error-multiple =
+    .heading =
+        { $extensionsCount ->
+            [one] { $extensionsCount } proširenje deaktivirano
+            [few] { $extensionsCount } proširenja deaktivirana
+           *[other] { $extensionsCount } proširenja deaktivirano
+        }
+    .message = Neka od tvojih proširenja su deaktivirana jer krše Mozillina pravila.
