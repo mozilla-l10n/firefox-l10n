@@ -117,6 +117,12 @@ newtab-menu-delete-pocket = Izbriši iz { -pocket-brand-name(case: "gen") }
 newtab-menu-archive-pocket = Arhiviraj u { -pocket-brand-name }
 newtab-menu-show-privacy-info = Naši sponzori i tvoja privatnost
 newtab-menu-about-fakespot = O proširenju { -fakespot-brand-name }
+# Context menu option to personalize New Tab recommended stories by blocking a section of stories,
+# e.g. "Sports". "Block" is a verb here.
+newtab-menu-section-block = Blokiraj
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
+newtab-menu-section-unfollow = Prestani pratiti temu
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -452,7 +458,13 @@ newtab-topic-selection-button-pick-interests = Odaberi tvoje interese
 ## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 ## e.g. Following the travel section of stories.
 
+newtab-section-follow-button = Prati
+newtab-section-following-button = Praćenje
+newtab-section-unfollow-button = Prestani pratiti
 
 ## Confirmation modal for blocking a section
 
+newtab-section-confirm-block-section-p1 = Stvarno želiš blokirati ovaj odjeljak?
+newtab-section-confirm-block-section-p2 = Blokirani odjeljak se više neće pojavljivati u tvom feedu.
+newtab-section-block-section-button = Blokiraj ovaj odjeljak
 newtab-section-cancel-button = Ne sada

@@ -85,6 +85,8 @@ genai-options-show-shortcut =
     .label = Prikaži prečac kada označiš tekst
 genai-options-hide-shortcut =
     .label = Sakrij prečac kada označiš tekst
+genai-options-about-chatbot =
+    .label = O AI chatbotovima u { -brand-short-name(case: "loc") }
 
 ## Chatbot onboarding
 
