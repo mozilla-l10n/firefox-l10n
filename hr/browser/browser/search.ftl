@@ -33,3 +33,9 @@ searchbar-icon =
 removed-search-engine-message = <strong>Vaša zadana tražilica je promijenjena.</strong> { $oldEngine } više nije dostupna kao zadana tražilica u { -brand-short-name }u. { $newEngine } je sada vaša zadana tražilica. Za promjenu na drugu zadanu tražilicu idite u postavke. <label data-l10n-name="remove-search-engine-article">Saznajte više</label>
 removed-search-engine-message2 = <strong>Vaša zadana tražilica je promijenjena.</strong> { $oldEngine } više nije dostupna kao zadana tražilica u { -brand-short-name }u. { $newEngine } je sada vaša zadana tražilica. Za promjenu na drugu zadanu tražilicu idite u postavke.
 remove-search-engine-button = U redu
+
+## Infobar shown when user is prompted to install search engine.
+## Variables
+## $engineName (String) - the name of the search engine to install.
+
+install-search-engine = Dodati { $engineName } kao tražilicu?

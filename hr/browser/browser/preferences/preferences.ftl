@@ -155,6 +155,17 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Otvori poveznice u karticama umjesto u novim prozorima
     .accesskey = p
+ask-on-close-multiple-tabs =
+    .label = Pitaj prije zatvaranja više kartica
+    .accesskey = P
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = Pitaj prije zatvaranja s { $quitKey }
+    .accesskey = z
 confirm-on-close-multiple-tabs =
     .label = Potvrdi prije zatvaranja više kartica
     .accesskey = P

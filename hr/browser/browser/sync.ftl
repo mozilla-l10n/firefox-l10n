@@ -38,3 +38,9 @@ fxa-menu-sync-title = Sync
 fxa-menu-sync-description = Pristupite svom webu bilo gdje
 sync-setup-verify-continue = Nastavi
 sync-setup-verify-title = Upozorenje o spajanju
+sync-setup-verify-heading = Stvarno se želiš prijaviti za sinkronizaciju?
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+
+sync-button-create-profile = Stvori novi profil
+sync-button-sync-and-merge = Sinkroniziraj i sjedini podatke

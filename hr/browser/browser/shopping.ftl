@@ -187,6 +187,16 @@ shopping-survey-terms-link = Uvjeti korištenja
 shopping-survey-thanks =
     .heading = Hvala Vam na Vašim povratnim informacijama!
 
+## Shopping opted-out survey strings
+## Opt-out survey options are displayed as checkboxes and the user can select one or many.
+
+shopping-survey-opted-out-hard-to-understand = Teško je razumjeti
+shopping-survey-opted-out-too-slow = Presporo je
+shopping-survey-opted-out-not-accurate = Nije točno
+shopping-survey-opted-out-not-helpful = Ne pomaže mi
+shopping-survey-opted-out-check-myself = Radije bih sam/a provjerio/la recenzije
+shopping-survey-opted-out-other = Drugo
+
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.

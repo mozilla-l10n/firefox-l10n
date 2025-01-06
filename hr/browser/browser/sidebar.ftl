@@ -106,6 +106,24 @@ sidebar-menu-review-checker-label =
 
 ## Tooltips for sidebar menu items.
 
+# The tooltip to show over the history icon, when history is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-history-tooltip = Otvori povijest ({ $shortcut })
+# The tooltip to show over the history icon, when history is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-history-tooltip = Zatvori povijest ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-bookmarks-tooltip = Otvori zabilješke ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-bookmarks-tooltip = Zatvori zabilješke ({ $shortcut })
+sidebar-menu-open-ai-chatbot-tooltip = Otvori UI chatbot
+sidebar-menu-close-ai-chatbot-tooltip = Zatvori UI chatbot
 
 ## Headings for sidebar menu panels.
 
