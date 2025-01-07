@@ -68,13 +68,29 @@ private-browsing-shortcut-text-2 = { -brand-shortcut-name } — anonymní prohl�
 #  $profile-name (String): the name of the current profile.
 browser-main-window-titles =
     .data-title-default = { -brand-full-name }
-    .data-title-private = Anonymní prohlížení { -brand-full-name(case: "gen") }
+    .data-title-private =
+        { -brand-full-name.case-status ->
+            [with-cases] Anonymní prohlížení { -brand-full-name(case: "gen") }
+           *[no-cases] Anonymní prohlížení — { -brand-full-name }
+        }
     .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — Anonymní prohlížení { -brand-full-name(case: "gen") }
+    .data-title-private-with-profile =
+        { -brand-full-name.case-status ->
+            [with-cases] { $profile-name } — Anonymní prohlížení { -brand-full-name(case: "gen") }
+           *[no-cases] { $profile-name } — Anonymní prohlížení — { -brand-full-name }
+        }
     .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — Anonymní prohlížení { -brand-full-name(case: "gen") }
+    .data-content-title-private =
+        { -brand-full-name.case-status ->
+            [with-cases] { $content-title } — Anonymní prohlížení { -brand-full-name(case: "gen") }
+           *[no-cases] { $content-title } — Anonymní prohlížení — { -brand-full-name }
+        }
     .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Anonymní prohlížení { -brand-full-name(case: "gen") }
+    .data-content-title-private-with-profile =
+        { -brand-full-name.case-status ->
+            [with-cases] { $content-title } — { $profile-name } — Anonymní prohlížení { -brand-full-name(case: "gen") }
+           *[no-cases] { $content-title } — { $profile-name } — Anonymní prohlížení — { -brand-full-name }
+        }
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -99,7 +115,11 @@ browser-main-window-titles-mac =
     .data-title-default = { -brand-full-name }
     .data-title-private = { -brand-full-name } — Anonymní prohlížení
     .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — Anonymní prohlížení { -brand-full-name(case: "gen") }
+    .data-title-private-with-profile =
+        { -brand-full-name.case-status ->
+            [with-cases] { $profile-name } — Anonymní prohlížení { -brand-full-name(case: "gen") }
+           *[no-cases] { $profile-name } — Anonymní prohlížení — { -brand-full-name }
+        }
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — Anonymní prohlížení
     .data-content-title-default-with-profile = { $content-title } — { $profile-name }

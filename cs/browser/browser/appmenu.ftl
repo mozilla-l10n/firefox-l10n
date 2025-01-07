@@ -320,7 +320,11 @@ appmenuitem-services-relay-description = Spustit nástěnku e-mailových masek
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Chraňte svou online aktivitu
 appmenu-services-header = Mé služby
-appmenu-other-protection-header = Vyzkoušejte další nástroje ochrany od { -vendor-short-name(case: "gen") }:
+appmenu-other-protection-header =
+    { -vendor-short-name.case-status ->
+        [with-cases] Vyzkoušejte další nástroje ochrany od { -vendor-short-name(case: "gen") }:
+       *[no-cases] Vyzkoušejte další nástroje ochrany od organizace { -vendor-short-name }:
+    }
 
 ## Profiles panel
 
