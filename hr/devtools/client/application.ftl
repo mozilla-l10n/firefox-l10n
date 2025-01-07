@@ -107,9 +107,9 @@ sidebar-item-manifest = Manifest
     .alt = Ikona za manifest
     .title = Manifest
 # Sidebar navigation item for Service Workers sidebar item section
-sidebar-item-service-workers = Radni procesi usluge
-    .alt = Ikona za radne procese usluge
-    .title = Radni procesi usluge
+sidebar-item-service-workers = Service workeri
+    .alt = Ikona service workera
+    .title = Service workeri
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Ikona za upozorenje

@@ -109,7 +109,7 @@ options-context-advanced-settings = Napredne postavke
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = Onemogući HTTP predmemoriju (kada je kutija alata otvorena)
 options-disable-http-cache-tooltip =
-    .title = Uključivanjem ove mogućnosti, onemogućit će se HTTP predmemorija za sve kartice na kojima su otvoreni alati. Ova mogućnost nema utjecaja na radne procese.
+    .title = Uključivanjem ove mogućnosti, onemogućit će se HTTP predmemorija za sve kartice na kojima su otvoreni alati. Ova mogućnost nema utjecaja na service workere.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Onemogući JavaScript *
 options-disable-javascript-tooltip =
@@ -131,9 +131,9 @@ options-enable-custom-formatters-label = Aktiviraj prilagođeno formatiranje
 options-enable-custom-formatters-tooltip =
     .title = Uključivanjem ove opcije će web stranicama dozvoliti definirati prilagođeno formatiranje za DOM objekte
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
-options-enable-service-workers-http-label = Uključi radne procese usluge putem HTTP-a (kada je kutija alata otvorena)
+options-enable-service-workers-http-label = Aktiviraj service workere putem HTTP-a (kada je kutija alata otvorena)
 options-enable-service-workers-http-tooltip =
-    .title = Uključivanje ove mogućnosti omogućiti će se korištenje radne procese usluge putem HTTP-a za sve kartice koje imaju otvorenu alatnu traku.
+    .title = Uključivanje ove mogućnosti omogućiti će se korištenje service workera putem HTTP-a za sve kartice koje imaju otvorenu alatnu traku.
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Aktiviraj mapiranja izvora
 options-source-maps-tooltip =
