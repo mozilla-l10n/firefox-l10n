@@ -16,10 +16,10 @@ genai-settings-chat-copilot-links = Odabirom Copilota pristajete na <a data-l10n
 genai-settings-chat-gemini-links = Odabirom Google Gemini pristajete na <a data-l10n-name="link1">Googleove uvjete pružanja usluge</a>, <a data-l10n-name="link2">pravila o zabranjenoj upotrebi generativne umjetne inteligencije</a> i <a data-l10n-name="link3">Obavijest o privatnosti Gemini Apps</a>.
 genai-settings-chat-huggingchat-links = Odabirom HuggingChat pristajete na <a data-l10n-name="link1">Obavijest o privatnosti za HuggingChat</a> i <a data-l10n-name="link2">Pravila privatnosti za Hugging Face</a>.
 genai-settings-chat-lechat-links = Odabirom Le Chat Mistral, pristajete na Mistral AI <a data-l10n-name="link1">Uvjete usluge</a> i <a data-l10n-name="link2">Pravila privatnosti</a>.
-genai-settings-chat-localhost-links = Donesite vlastiti privatni lokalni chatbot kao što je <a data-l10n-name="link1">llamafile</a> iz grupe za inovacije { -vendor-short-name }.
+genai-settings-chat-localhost-links = Donesi vlastiti privatni lokalni chatbot kao što je <a data-l10n-name="link1">llamafile</a> iz grupe inovacija od { -vendor-short-name }.
 genai-settings-chat-shortcuts =
-    .description = Prikazuje prečac do upita kada odaberete tekst. { -brand-short-name } šalje tekst, naslov stranice i upit chatbotu.
-    .label = Prikaži upit na odabir teksta
+    .description = Prikazuje prečac za upite kada odabereš tekst. { -brand-short-name } šalje tekst, naslov stranice i upit chatbotu.
+    .label = Prikaži upite pri odabiru teksta
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -51,12 +51,12 @@ genai-prompt-prefix-selection = Nalazim se na stranici “{ $tabTitle }” s oda
 ## Chatbot menu shortcuts
 
 genai-menu-ask-generic =
-    .label = Pitaj AI chatbota
+    .label = Pitaj UI chatbota
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Pitaj { $provider }
 genai-input-ask-generic =
-    .placeholder = Pitaj AI chatbota…
+    .placeholder = Pitaj UI chatbota …
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Pitaj { $provider }…
