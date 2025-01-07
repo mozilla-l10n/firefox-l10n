@@ -5,18 +5,17 @@
 
 ### These strings are used inside the Application panel which is available
 ### by setting the preference `devtools-application-enabled` to true.
-
-
+###
 ### The correct localization of this file might be to keep it in English, or another
 ### language commonly spoken among web developers. You want to make that choice consistent
 ### across the developer tools. A good criteria is the language in which you'd find the
 ### best documentation on web development on the web.
 
 # Header for the list of Service Workers displayed in the application panel for the current page.
-serviceworker-list-header = Service Workers
+serviceworker-list-header = Service workeri
 # Text displayed next to the list of Service Workers to encourage users to check out
 # about:debugging to see all registered Service Workers.
-serviceworker-list-aboutdebugging = Otvori <a>about:debugging</a> za Service Workers s drugih domena
+serviceworker-list-aboutdebugging = Otvori <a>about:debugging</a> za service workere s drugih domena
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
 serviceworker-worker-unregister = Odjavi
 # Text for the debug link displayed for an already started Service Worker. Clicking on the

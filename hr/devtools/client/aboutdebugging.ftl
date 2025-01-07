@@ -88,7 +88,7 @@ about-debugging-setup-title = Konfiguracija
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = Konfiguriraj način povezivanja za uklanjanje grešaka na tvom uređaju.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
-about-debugging-setup-this-firefox2 = Koristi <a>{ about-debugging-this-firefox-runtime-name }</a> za uklanjanje grešaka proširenja i radnih procesa u ovoj { -brand-shorter-name } verziji.
+about-debugging-setup-this-firefox2 = Koristi <a>{ about-debugging-this-firefox-runtime-name }</a> za otklanjanje grešaka proširenja i service workera u ovoj { -brand-shorter-name } verziji.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Spoji uređaj
 # USB section of the Setup page
@@ -166,7 +166,7 @@ about-debugging-runtime-tabs =
 # Title of the service workers category.
 # .name is processed by fluent-react / DebugTargetPane
 about-debugging-runtime-service-workers =
-    .name = Radni procesi usluge
+    .name = Service workeri
 # Title of the shared workers category.
 # .name is processed by fluent-react / DebugTargetPane
 about-debugging-runtime-shared-workers =
@@ -185,7 +185,7 @@ about-debugging-runtime-profile-button2 = Profiliraj perfomansu
 # This string is displayed in the runtime page if the current configuration of the
 # target runtime is incompatible with service workers. "Learn more" points to:
 # https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#service-workers-not-compatible
-about-debugging-runtime-service-workers-not-compatible = Konfiguracija tvog preglednika nije kompatibilna s radnim procesima. <a>Saznaj vše</a>
+about-debugging-runtime-service-workers-not-compatible = Konfiguracija tvog preglednika nije kompatibilna sa service workerima. <a>Saznaj vše</a>
 # This string is displayed in the runtime page if the remote browser version is too old.
 # "Troubleshooting" link points to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
@@ -307,7 +307,7 @@ about-debugging-worker-origin =
     .label = Izvor
 # Displayed as title of the inspect button when service worker debugging is disabled.
 about-debugging-worker-inspect-action-disabled =
-    .title = Provjera radnih procesa trenutačno je onemogućena za višeprocesni { -brand-shorter-name }
+    .title = Provjera service workera je trenutačno deaktivirana za višeprocesni { -brand-shorter-name }
 # Displayed as title of the inspect button for zombie tabs (e.g. tabs loaded via a session restore).
 about-debugging-zombie-tab-inspect-action-disabled =
     .title = Kartica nije u potpunosti učitana i ne može se pregledati
