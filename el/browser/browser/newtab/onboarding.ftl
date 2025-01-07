@@ -389,6 +389,8 @@ onboarding-new-user-survey-familiarity-based-option-4 = Το χρησιμοπο�
 onboarding-new-tabs-title = Πείτε μας πού θα θέλετε τις καρτέλες σας
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Αλλάξτε την επιλογή ανά πάσα στιγμή από τις ρυθμίσεις της πλαϊνής γραμμής.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Οι καρτέλες σας, με τον δικό σας τρόπο
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Καρτέλες στο πλάι
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.

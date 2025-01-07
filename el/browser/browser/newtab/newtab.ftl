@@ -456,3 +456,7 @@ newtab-topic-selection-button-pick-interests = Επιλέξτε τα ενδια�
 
 newtab-section-follow-button = Ακολουθήστε
 newtab-section-following-button = Ακολουθείται
+
+## Confirmation modal for blocking a section
+
+newtab-section-cancel-button = Όχι τώρα
