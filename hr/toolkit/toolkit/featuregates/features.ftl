@@ -21,6 +21,9 @@ experimental-features-webrtc-global-mute-toggles-description = Dodaj WebRTC indi
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
+# Search during IME
+experimental-features-ime-search =
+    .label = Adresna traka: prikaži rezultate tijekom sastavljanja pomoću IME-a
 # Auto Picture-in-Picture
 experimental-features-auto-pip =
     .label = Slika-u-slici: automatsko otvaranje pri mijenjanju kartice
