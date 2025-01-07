@@ -192,11 +192,14 @@ shopping-survey-thanks =
 ## Shopping opted-out survey strings
 ## Opt-out survey options are displayed as checkboxes and the user can select one or many.
 
+shopping-survey-opted-out-multiselect-label = Tudassa velünk, hogy miért kapcsolta ki az Értékelés-ellenőrzőt, Válasszon több lehetőséget, ha szükséges.
 shopping-survey-thanks-title = Köszönjük visszajelzését.
 shopping-survey-opted-out-hard-to-understand = Nehezen érthető
 shopping-survey-opted-out-too-slow = Túl lassú
 shopping-survey-opted-out-not-accurate = Nem pontos
 shopping-survey-opted-out-not-helpful = Nem hasznos számomra
+shopping-survey-opted-out-check-myself = Inkább magam ellenőrizném az értékeléseket
+shopping-survey-opted-out-other = Egyéb
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
