@@ -38,3 +38,5 @@ webext-perms-description-webNavigation = Browseraktiviteit wylst navigearjen ben
 ## displayed prominently near the usual permission description.
 
 webext-perms-extra-warning-userScripts-long = Net ferifiearre scripts kinne befeiligings- en privacyrisiko’s foarmje, lykas it útfieren fan skealike koade of it folgjen fan website-aktiviteit. Fier allinnich scripts út fan útwreidingen of boarnen dy’t jo fertrouwe.
+# A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
+webext-perms-extra-warning-userScripts-short = Net ferifiearre scripts kinne befeiligings- en privacyrisiko’s foarmje. Fier allinnich scripts út fan útwreidingen of boarnen dy’'t jo fertrouwe.
