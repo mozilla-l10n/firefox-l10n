@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 menu-view-genai-chat =
-    .label = AI Chatbot
+    .label = UI chatbot
 menu-view-review-checker =
     .label = Provjera recenzija
 sidebar-options-menu-button =
@@ -92,7 +92,7 @@ sidebar-history-context-menu-delete-page =
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
-    .label = AI chatbot
+    .label = UI chatbot
 sidebar-menu-history-label =
     .label = Povijest
 sidebar-menu-synced-tabs-label =

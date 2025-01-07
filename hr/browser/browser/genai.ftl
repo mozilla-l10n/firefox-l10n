@@ -8,7 +8,7 @@
 genai-settings-chat-description = Dodaje željeni chatbot u bočnu traku za brzi pristup dok pregledavaš. <a data-l10n-name="connect">Pošalji povratne informacije</a>
 genai-settings-chat-choose = Odaberi chatbot
 genai-settings-chat-choose-one-menuitem =
-    .label = Odaberite jednog
+    .label = Odaberi
 genai-settings-chat-links = Kada odabereš chatbot, prihvaćaš uvjete korištenja i politiku privatnosti usluge.
 genai-settings-chat-chatgpt-links = Odabirom ChatGPT-a pristajete na OpenAI <a data-l10n-name="link1">Uvjete korištenja</a> i <a data-l10n-name="link2">Pravila privatnosti</a>.
 genai-settings-chat-claude-links = Odabirom Anthropic Claude pristajete na Anthropic <a data-l10n-name="link1">Uvjete pružanja usluge za potrošače</a>, <a data-l10n-name="link2">Pravila korištenja</a> i <a data-l10n-name="link3">Pravila privatnosti</a>.
@@ -60,6 +60,16 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Pitaj { $provider }…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = UI chatbot neće dobiti tvoj potpuni odabir
+    .message =
+        { $selectionLength ->
+            [one] Odabrao/la si { $selectionLength } znak. Broj znakova koje možemo poslati UI chatbotu je oko { $maxLength }.
+            [few] Odabrao/la si { $selectionLength } znaka. Broj znakova koje možemo poslati UI chatbotu je oko { $maxLength }.
+           *[other] Odabrao/la si { $selectionLength } znakova. Broj znakova koje možemo poslati UI chatbotu je oko { $maxLength }.
+        }
 genai-shortcuts-hide =
     .label = Sakrij prečac chatbota
 
@@ -86,7 +96,7 @@ genai-options-show-shortcut =
 genai-options-hide-shortcut =
     .label = Sakrij prečac kada označiš tekst
 genai-options-about-chatbot =
-    .label = O AI chatbotovima u { -brand-short-name(case: "loc") }
+    .label = O UI chatbotovima u { -brand-short-name(case: "loc") }
 
 ## Chatbot onboarding
 

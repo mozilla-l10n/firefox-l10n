@@ -25,6 +25,8 @@ experimental-features-js-warp =
 experimental-features-auto-pip =
     .label = Slika-u-slici: automatsko otvaranje pri mijenjanju kartice
 experimental-features-auto-pip-description = Aktiviraj „Slika-u-slici” za aktivna videa prilikom mijenjanja kartica.
+genai-settings-chat-title =
+    .label = UI chatbot
 # Updated sidebar settings
 sidebar-title =
     .label = Bočna traka
