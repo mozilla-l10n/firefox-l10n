@@ -189,6 +189,15 @@ shopping-survey-terms-link = Használati feltételek
 shopping-survey-thanks =
     .heading = Köszönjük visszajelzését!
 
+## Shopping opted-out survey strings
+## Opt-out survey options are displayed as checkboxes and the user can select one or many.
+
+shopping-survey-thanks-title = Köszönjük visszajelzését.
+shopping-survey-opted-out-hard-to-understand = Nehezen érthető
+shopping-survey-opted-out-too-slow = Túl lassú
+shopping-survey-opted-out-not-accurate = Nem pontos
+shopping-survey-opted-out-not-helpful = Nem hasznos számomra
+
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
