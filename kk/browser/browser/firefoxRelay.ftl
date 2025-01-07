@@ -57,6 +57,7 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 ## The "control" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-second-sentence-control = Эл. пошта маскасын пайдалану үшін алдымен тіркеліңіз немесе тіркелгіңізге кіріңіз
+firefox-relay-offer-legal-notice-control = Тіркелу және эл. пошта маскасын жасау арқылы, сіз <label data-l10n-name="tos-url">Қызмет көрсету шарттары</label> мен <label data-l10n-name="privacy-url">Жекелік ескертуімен</label> келісесіз.
 
 ## The "basic-info" variation of the Relay offer popup
 
