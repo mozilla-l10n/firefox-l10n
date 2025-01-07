@@ -189,6 +189,18 @@ shopping-survey-terms-link = Brûkersbetingsten
 shopping-survey-thanks =
     .heading = Tank foar jo kommentaar!
 
+## Shopping opted-out survey strings
+## Opt-out survey options are displayed as checkboxes and the user can select one or many.
+
+shopping-survey-opted-out-multiselect-label = Lit ús witte wêrom’t jo Beoardielingskontrôle útskeakele hawwe. Selektearje meardere as nedich.
+shopping-survey-thanks-title = Tank foar jo kommentaar!
+shopping-survey-opted-out-hard-to-understand = It is dreech te begripen
+shopping-survey-opted-out-too-slow = It is te stadich
+shopping-survey-opted-out-not-accurate = It is net sekuer
+shopping-survey-opted-out-not-helpful = It is net nuttich foar my
+shopping-survey-opted-out-check-myself = Ik kontrolearje beoardielingen leaver sels
+shopping-survey-opted-out-other = Oars
+
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.

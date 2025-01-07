@@ -33,3 +33,8 @@ webext-perms-description-topSites = Browserskiednis benaderje
 webext-perms-description-trialML = AI-modellen downloade en op jo apparaat útfiere
 webext-perms-description-userScripts = Net-ferifiearre scripts fan tredden tagong ta jo gegevens jaan
 webext-perms-description-webNavigation = Browseraktiviteit wylst navigearjen benaderje
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+
+webext-perms-extra-warning-userScripts-long = Net ferifiearre scripts kinne befeiligings- en privacyrisiko’s foarmje, lykas it útfieren fan skealike koade of it folgjen fan website-aktiviteit. Fier allinnich scripts út fan útwreidingen of boarnen dy’t jo fertrouwe.
