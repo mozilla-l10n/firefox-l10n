@@ -221,7 +221,7 @@ shopping-callout-disabled-auto-open-title = Preglednik recenzija je sada standar
 shopping-callout-disabled-auto-open-subtitle = Klikni ikonu oznake cijene u adresnoj traci kad god želiš vidjeti je li možeš li vjerovati recenzijama proizvoda.
 shopping-callout-disabled-auto-open-button = Razumijem
 shopping-callout-opted-out-title = Provjera recenzija je isključena
-shopping-callout-opted-out-subtitle = Da biste ju uključili, kliknite ikonu oznake cijene u adresnoj traci i slijedite upute.
+shopping-callout-opted-out-subtitle = Za ponovno uključivanje, klikni ikonu oznake cijene u adresnoj traci i slijedi upute.
 shopping-callout-opted-out-button = Razumijem
 
 ## Onboarding message strings.
