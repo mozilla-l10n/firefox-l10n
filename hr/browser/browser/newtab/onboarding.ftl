@@ -202,10 +202,10 @@ mr2022-onboarding-set-default-only-subtitle = Započni s preglednikom koji podr�
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = Hvala vam što volite { -brand-product-name }
 # Subtitle is used on onboarding page for existing users when Firefox is not pinned
-mr2022-onboarding-existing-pin-subtitle = Pokrenite zdraviji Internet s bilo kojeg mjesta jednim klikom. Naše najnovije ažuriranje prepuno je novih stvari za koje mislimo da ćete ih obožavati.
+mr2022-onboarding-existing-pin-subtitle = Pokreni zdraviji internet s bilo kojeg mjesta jednim klikom. Naša najnovija izdanja su prepuna novih stvari za koje mislimo da ćeš ih obožavati.
 # Subtitle will be used on the welcome screen for existing users
 # when they already have Firefox pinned but not set as default
-mr2022-onboarding-existing-set-default-only-subtitle = Koristite preglednik koji štiti vašu privatnost dok jurite po webu. Naše najnovije ažuriranje prepuno je stvari koje ćete obožavati.
+mr2022-onboarding-existing-set-default-only-subtitle = Koristi preglednik koji štiti tvoju privatnost dok pregledavaš web. Naše najnovije izdanje je prepuno stvari koje ćeš obožavati.
 mr2022-onboarding-existing-pin-checkbox-label = Također dodajte { -brand-short-name } privatno pregledavanje
 
 ## MR2022 New User Set Default screen strings

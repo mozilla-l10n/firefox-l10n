@@ -455,7 +455,7 @@ update-setting-write-failure-title2 = Greška prilikom spremanja postavki aktual
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
-    { -brand-short-name } je naišao na pogrešku i nije spremio ovu promjenu. Uzmite u obzir da mijenjanje postavki za ovo ažuriranje zahtjeva dozvole za pisanje u niže navedenu datoteku. Vi ili vaš administrator sustava možda ste u mogućnosti otkloniti ovu grešku tako da dozvolite grupi korisnika potpunu kontrolu nad ovom datotekom.
+    { -brand-short-name } je naišao na pogrešku i nije spremio ovu promjenu. Uzmi u obzir da mijenjanje postavki za ovo izdanje zahtijeva dozvole za pisanje u niže navedenu datoteku. Ti ili tvoj administrator sustava možda možete otkloniti ovu grešku tako da dozvolite grupi korisnika potpunu kontrolu nad ovom datotekom.
     
     Nije moguće pisati u datoteku: { $path }
 update-in-progress-title = Aktualiziranje u tijeku
