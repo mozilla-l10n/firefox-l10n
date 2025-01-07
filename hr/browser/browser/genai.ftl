@@ -5,11 +5,11 @@
 
 ## Generative AI (GenAI) Settings section
 
-genai-settings-chat-description = Dodaje chatbota po vašem izboru na bočnu traku za brzi pristup dok pregledavate. <a data-l10n-name="connect">Podijelite povratne informacije</a>
-genai-settings-chat-choose = Odaberite chatbot
+genai-settings-chat-description = Dodaje željeni chatbot u bočnu traku za brzi pristup dok pregledavaš. <a data-l10n-name="connect">Pošalji povratne informacije</a>
+genai-settings-chat-choose = Odaberi chatbot
 genai-settings-chat-choose-one-menuitem =
     .label = Odaberite jednog
-genai-settings-chat-links = Kada odaberete chatbot, slažete se s davateljevim uvjetima korištenja i politikom privatnosti.
+genai-settings-chat-links = Kada odabereš chatbot, prihvaćaš uvjete korištenja i politiku privatnosti usluge.
 genai-settings-chat-chatgpt-links = Odabirom ChatGPT-a pristajete na OpenAI <a data-l10n-name="link1">Uvjete korištenja</a> i <a data-l10n-name="link2">Pravila privatnosti</a>.
 genai-settings-chat-claude-links = Odabirom Anthropic Claude pristajete na Anthropic <a data-l10n-name="link1">Uvjete pružanja usluge za potrošače</a>, <a data-l10n-name="link2">Pravila korištenja</a> i <a data-l10n-name="link3">Pravila privatnosti</a>.
 genai-settings-chat-copilot-links = Odabirom Copilota pristajete na <a data-l10n-name="link1">Uvjete Copilot AI Experiences</a> i <a data-l10n-name="link2">Microsoftovu izjavu o privatnosti</a>.
