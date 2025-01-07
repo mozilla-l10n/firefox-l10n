@@ -33,3 +33,10 @@ webext-perms-description-topSites = Tilgå browserhistorik
 webext-perms-description-trialML = Hente og køre AI-modeller på din enhed
 webext-perms-description-userScripts = Tillade ubekræftede tredjeparts-scripts at få adgang til dine data
 webext-perms-description-webNavigation = Tilgå browser-aktivitet under navigation
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+
+webext-perms-extra-warning-userScripts-long = Ubekræftede scripts kan udgøre en risiko for din sikkerhed eller beskyttelsen af dit privatliv. Det kan til eksempel handle om at skadelig kode kan få lov til at køre eller at dine aktiviteter på websteder bliver sporet. Kør kun scripts fra udvidelser eller kilder, du stoler på.
+# A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
+webext-perms-extra-warning-userScripts-short = Ubekræftede scripts kan udgøre en risiko for din sikkerhed eller beskyttelsen af dit privatliv. Kør kun scripts fra udvidelser eller kilder, du stoler på.
