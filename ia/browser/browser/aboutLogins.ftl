@@ -128,8 +128,8 @@ login-item-tooltip-message = Verifica que isto concorda con le adresse exacte de
 about-logins-origin-tooltip2 = Insere le adresse complete e cura que illo corresponde exactemente a illo de tu accesso.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
-about-logins-edit-password-tooltip = Verifica que tu reserva tu contrasigno actual pro iste sito. Cambiar le contrasigno ci non lo cambia in { $webTitle }.
-about-logins-add-password-tooltip = Verifica que tu reserva tu contrasigno actual pro iste sito.
+about-logins-edit-password-tooltip = Assecura te de salvar tu contrasigno actual pro iste sito. Cambiar le contrasigno ci non lo cambia in { $webTitle }.
+about-logins-add-password-tooltip = Assecura te de salvar tu contrasigno actual pro iste sito.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Nomine de usator
