@@ -37,3 +37,6 @@ webext-perms-description-webNavigation = dostop do dejavnosti brskalnika
 ## The userScripts permission includes an additional explanation that is
 ## displayed prominently near the usual permission description.
 
+webext-perms-extra-warning-userScripts-long = Nepreverjeni skripti lahko predstavljajo tveganje za varnost in zasebnost: lahko vsebujejo škodljivo kodo ali sledijo dejavnosti strani. Zaženite samo skripte razširitev ali virov, ki jim zaupate.
+# A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
+webext-perms-extra-warning-userScripts-short = Nepreverjeni skripti lahko predstavljajo tveganje za varnost in zasebnost. Zaženite samo skripte razširitev ali virov, ki jim zaupate.
