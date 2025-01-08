@@ -32,6 +32,6 @@ languages-customize-add =
 languages-code-format =
     .label = { $locale } [{ $code }]
 browser-languages-downloading =
-    .label = ഡൗൺലോഡുചെയ്യുന്നു ...
+    .label = ഇറക്കിവയ്ക്കുന്നു…
 browser-languages-installed-label = ഇൻസ്റ്റാളുചെയ്ത ഭാഷകൾ
 browser-languages-available-label = ലഭ്യമായ ഭാഷകൾ

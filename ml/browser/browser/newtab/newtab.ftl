@@ -220,7 +220,7 @@ newtab-empty-section-topstories = നിങ്ങൾ ഇവിടെ വരെ �
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
 newtab-discovery-empty-section-topstories-try-again-button = വീണ്ടും ശ്രമിക്കുക
-newtab-discovery-empty-section-topstories-loading = ലോഡിംഗ്...
+newtab-discovery-empty-section-topstories-loading = ലഭ്യമാക്കുന്നു…
 
 ## Pocket Content Section.
 
@@ -239,7 +239,7 @@ newtab-pocket-cta-button = { -pocket-brand-name } ലഭ്യമാക്കു
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
-newtab-error-fallback-info = ക്ഷമിക്കണം, ഈ ഉള്ളടക്കം ലോഡുചെയ്ത്പ്പൊള്‍ എന്തോ കുഴപ്പം സംഭവിച്ചു.
+newtab-error-fallback-info = ക്ഷമിക്കണം, ഈ ഉള്ളടക്കം ലഭ്യമാക്കുമ്പോഴു് കുഴപ്പം സംഭവിച്ചു.
 newtab-error-fallback-refresh-link = വീണ്ടും ശ്രമിക്കുന്നതിന് പേജ് പുതുക്കുക.
 
 ## Customization Menu

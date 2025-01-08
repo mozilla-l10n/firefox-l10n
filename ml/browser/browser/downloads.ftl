@@ -6,6 +6,10 @@
 ## The title and aria-label attributes are used by screen readers to describe
 ## the Downloads Panel.
 
+downloads-window =
+    .title = ഇറക്കിവയ്ക്കലുകൾ
+downloads-panel =
+    .aria-label = ഇറക്കിവയ്ക്കലുകൾ
 
 ##
 
@@ -46,12 +50,17 @@ downloads-cmd-show-description-2 =
             [macos] അറയിൽ കാണിക്കുക
            *[other] അറയിൽ കാണിക്കുക
         }
+downloads-cmd-show-downloads =
+    .label = ഇറക്കിവയ്ക്കൾ അറ കാണിക്കുക
 downloads-cmd-retry =
     .tooltiptext = വീണ്ടും ശ്രമിയ്ക്കുക
 downloads-cmd-retry-panel =
     .aria-label = വീണ്ടും ശ്രമിയ്ക്കുക
+downloads-cmd-go-to-download-page =
+    .label = ഇറക്കിവയ്ക്കൽ താളിലേക്കു് ചെല്ലുക
+    .accesskey = G
 downloads-cmd-copy-download-link =
-    .label = ഡൌണ്‍ലോഡ് കണ്ണി പകര്‍ത്തുക
+    .label = ഇറക്കിവയ്ക്കൽ കണ്ണി പകര്‍ത്തുക
     .accesskey = L
 downloads-cmd-remove-from-history =
     .label = പട്ടികയില്‍ നിന്നു നീക്കം ചെയ്യുക
@@ -60,14 +69,14 @@ downloads-cmd-clear-list =
     .label = പ്രിവ്യൂ പാനൽ വൃത്തിയാക്കുക
     .accesskey = a
 downloads-cmd-clear-downloads =
-    .label = ഡൌണ്‍ലോഡുകള്‍ വെടിപ്പാക്കുക
+    .label = ഇറക്കിവയ്ക്കലുകളെ വെടിപ്പാക്കുക
     .accesskey = ക
 downloads-cmd-delete-file =
     .label = മായ്ക്കുക
     .accesskey = മ
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
-    .label = ഡൌണ്‍ലോഡ് അനുവദിക്കുക
+    .label = ഇറക്കിവയ്ക്കൽ അനുവദിക്കുക
     .accesskey = o
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
@@ -78,9 +87,9 @@ downloads-cmd-remove-file-panel =
 # downloads are blocked. This opens a dialog where the user can choose
 # whether to unblock or remove the download. Removing is the default option.
 downloads-cmd-choose-unblock =
-    .tooltiptext = ഫയല്‍ നീക്കം ചെയ്യുക അല്ലെങ്കില്‍ ഡൗണ്‍ലോഡ് അനുവദിക്കുക
+    .tooltiptext = ഫയലിനെ മായ്ക്കുക അല്ലെങ്കിൽ ഇറക്കിവയ്ക്കൽ അനുവദിക്കുക
 downloads-cmd-choose-unblock-panel =
-    .aria-label = ഫയല്‍ നീക്കം ചെയ്യുക അല്ലെങ്കില്‍ ഡൗണ്‍ലോഡ് അനുവദിക്കുക
+    .aria-label = ഫയലിനെ മായ്ക്കുക അല്ലെങ്കിൽ ഇറക്കിവയ്ക്കൽ അനുവദിക്കുക
 # This is the tooltip of the action button shown when uncommon downloads are
 # blocked.This opens a dialog where the user can choose whether to open the
 # file or remove the download. Opening is the default option.
@@ -111,21 +120,21 @@ downloads-open-file =
 # Displayed when hovering a download which is able to be retried by users,
 # indicates that it's possible to download this file again.
 downloads-retry-download =
-    .value = ഡൗൺലോഡ് വീണ്ടും ശ്രമിക്കുക
+    .value = ഇറക്കിവയ്ക്കാൻ വീണ്ടും ശ്രമിക്കുക
 # Displayed when hovering a download which is able to be cancelled by users,
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
-    .value = ഡൗൺലോഡ് റദ്ദാക്കുക
+    .value = ഇറക്കിവയ്ക്കുന്നതു് റദ്ദാക്കുക
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
-    .label = എല്ലാ ഡൌണ്‍ലോഡുകളും കാണിയ്ക്കുകക
+    .label = എല്ലാ ഇറക്കിവയ്ക്കലുകളും കാണിയ്ക്കുകക
     .accesskey = ക
 # This string is shown at the top of the download details sub-panel to indicate
 # that we are showing the details of a single download.
 downloads-details =
-    .title = വിശദാംശങ്ങൾ ഡൌൺലോഡ് ചെയ്യുക
+    .title = വിശദാംശങ്ങൾ ഇറക്കിവയ്ക്കുക
 
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
@@ -136,19 +145,19 @@ downloads-details =
 ##
 
 downloads-clear-downloads-button =
-    .label = ഡൌണ്‍ലോഡുകള്‍ വെടിപ്പാക്കുക
-    .tooltiptext = പൂര്‍ത്തിയാക്കിയ, റദ്ദാക്കിയ, പരാജയപ്പെട്ട ഡൌണ്‍ലോഡുകള്‍ വെടിപ്പാക്കുന്നു
+    .label = ഇറക്കിവയ്ക്കലുകളെ വെടിപ്പാക്കുക
+    .tooltiptext = പൂര്‍ത്തിയാക്കിയ, റദ്ദാക്കിയ, പരാജയപ്പെട്ട ഇറക്കിവയ്ക്കലുകളെ വെടിപ്പാക്കുന്നു
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
-    .value = ഡൌണ്‍ലോഡുകള്‍ ലഭ്യമല്ല.
+    .value = ഒരു ഇറക്കിവയ്യിപ്പുമില്ല
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = ഈ സെഷനിൽ ഡൗൺലോഡുകളൊന്നുമില്ല.
 
 ## Download errors
 
-downloads-error-alert-title = ഡൌണ്‍ലോഡില്‍ തകരാര്‍
+downloads-error-alert-title = ഇറക്കിവയ്ക്കൽപിശകു്
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     അജ്ഞാതമായ ഒരു എറര്‍ സംഭവിച്ചതിനാല്‍ ഈ ഡൗണ്‍ലോഡ് തുടരുക സാദ്ധ്യമല്ല.

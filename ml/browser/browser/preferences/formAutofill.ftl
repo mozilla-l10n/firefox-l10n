@@ -53,8 +53,8 @@ autofill-save-button = സംരക്ഷിക്കുക
 autofill-add-new-card-title = പുതിയ ക്രെഡിറ്റ് കാര്‍ഡ് ചേര്‍ക്കുക
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = ക്രെഡിറ്റ് കാര്‍ഡ് തിരുത്തുക
-autofill-card-number = കാര്‍ഡ് നമ്പര്‍
-autofill-card-name-on-card = കാര്‍ഡിലെ പേര്
+autofill-card-number = ചീട്ടക്കം
+autofill-card-name-on-card = ചീട്ടിലുള്ള പേരു്
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

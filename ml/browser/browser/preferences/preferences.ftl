@@ -59,12 +59,12 @@ always-check-default =
 is-default = { -brand-short-name } ആണു് ഇപ്പോള്‍ സ്വതവേയുള്ള ബ്രൌസര്‍
 is-not-default = { -brand-short-name } അല്ല ഇപ്പോള്‍ സ്വതവേയുള്ള ബ്രൌസര്‍
 set-as-my-default-browser =
-    .label = ഡിഫള്‍ട്ടാക്കുക…
+    .label = തനതാക്കുക…
     .accesskey = D
 startup-restore-warn-on-quit =
     .label = ബ്രൌസർ ഉപേക്ഷിക്കുമ്പോൾ നിങ്ങൾക്ക് മുന്നറിയിപ്പ് നൽകുക
 disable-extension =
-    .label = എക്സ്റ്റന്‍ഷന്‍ ഡിസേബിള്‍ ചെയ്യുക
+    .label = വിപുലീകരണം പ്രവർത്തനരഹിതമാക്കുക
 tabs-group-header = റ്റാബുകള്‍
 ctrl-tab-recently-used-order =
     .label = അടുത്തിടെ ഉപയോഗിച്ച ഓർഡറില്‍ ടാബുകളിലൂടെ പോവാന്‍ Ctrl + Tab ഉപയോഗിക്കുക
@@ -100,7 +100,7 @@ containers-disable-alert-ok-button =
 
 ##
 
-containers-disable-alert-cancel-button = എനേബിള്‍ഡ് ആക്കി വക്കുക
+containers-disable-alert-cancel-button = പ്രവർത്തനക്ഷമമാക്കി വയ്ക്കുക
 containers-remove-alert-title = ഈ കണ്ടെയ്നർ നീക്കംചെയ്യണോ?
 # Variables:
 #   $count (number) - Number of tabs that will be closed.
@@ -115,7 +115,7 @@ containers-remove-cancel-button = ഈ കണ്ടൈനര്‍ നീക്�
 ## General Section - Language & Appearance
 
 language-and-appearance-header = ഭാഷയും രൂപവും
-default-font = ഡിഫള്‍ട്ട് ഫോണ്ട്
+default-font = തനതായ ഫോണ്ടാക്കുക
     .accesskey = D
 default-font-size = വലുപ്പം
     .accesskey = S
@@ -144,7 +144,7 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = ഫയലുകളും ആപ്ലിക്കേഷനുകളും
-download-header = ഡൌണ്‍ലോഡുകള്‍
+download-header = ഇറക്കിവയ്ക്കലുകൾ
 download-save-where = ഫയലുകള്‍ ഇവിടെ സൂക്ഷിക്കുക
     .accesskey = v
 download-choose-folder =
@@ -265,7 +265,7 @@ performance-limit-content-process-blocked-desc = കണ്ടന്റ് പ്
 # Variables:
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
-    .label = { $num } (ഡിഫള്‍ട്ട്)
+    .label = { $num } (തനതു്)
 
 ## General Section - Browsing
 
@@ -277,7 +277,7 @@ browsing-use-smooth-scrolling =
     .label = സുഖമമായ സ്ക്രോളിംങ് ഉപയോഗിക്കുക
     .accesskey = m
 browsing-use-onscreen-keyboard =
-    .label = ആവശ്യമാണെങ്കില്‍ ടച്ച് കീബോര്‍ഡ് കാണിക്കുക
+    .label = ആവശ്യമാണെങ്കില്‍ ടൊട്ടിപ്പ് കീബോര്‍ഡ് കാണിക്കുക
     .accesskey = k
 browsing-use-cursor-navigation =
     .label = താളുകള്‍ക്കുള്ളില്‍ നീങ്ങുവാന്‍ കഴ്‌സര്‍ കീ ഉപയോഗിക്കുക
@@ -301,7 +301,7 @@ home-new-windows-tabs-header = പുതിയ ടാബുകളും ജാ�
 
 ## Home Section - Home Page Customization
 
-home-homepage-mode-label = ഹോംപേജും പുതിയ വിൻഡോകളും
+home-homepage-mode-label = ആമുഖത്താളും പുതിയ ജാലകങ്ങളും
 home-newtabs-mode-label = പുതിയ ടാബുകൾ
 home-restore-defaults =
     .label = സ്വതവേയുള്ളവ പുനഃസ്ഥാപിക്കുക
@@ -345,7 +345,7 @@ home-prefs-highlights-option-visited-pages =
 home-prefs-highlights-options-bookmarks =
     .label = ബുക്ക്മാർക്കുകൾ
 home-prefs-highlights-option-most-recent-download =
-    .label = ഏറ്റവും പുതിയ ഡൗൺലോഡ്
+    .label = ഏറ്റവും അടുത്തിടെ ഇറക്കിവച്ച സാധനം
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,

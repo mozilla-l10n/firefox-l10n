@@ -162,7 +162,7 @@ places-search-bookmarks =
 places-search-history =
     .placeholder = ചരിത്രം തെരയുക
 places-search-downloads =
-    .placeholder = ഡൌണ്‍ലോഡുകള്‍ തെരയുക
+    .placeholder = ഇറക്കിവയ്ക്കലുകളിൽ തിരയുക
 
 ##
 

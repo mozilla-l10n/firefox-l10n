@@ -5,6 +5,7 @@
 privatebrowsingpage-open-private-window-label = ഒരു സ്വകാര്യ ജാലകം തുറക്കുക
     .accesskey = ക
 about-private-browsing-search-placeholder = വെബിൽ തിരയുക
+about-private-browsing-info-title = താങ്ങൾ ഒരു സ്വകാര്യ ജാലകത്തിലാണു്
 about-private-browsing-search-btn =
     .title = ഗോളന്തരവല തിരയുക
 # Variables

@@ -39,6 +39,8 @@
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.
 
+# The list items, shown in a <ul>
+protections-panel-site-not-working-view-issue-list-login-fields = പ്രവേശന തലങ്ങൾ
 
 ##
 
