@@ -5,6 +5,7 @@
 
 ## Generative AI (GenAI) Settings section
 
+genai-settings-chat-choose = Dibab un chatbot
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.

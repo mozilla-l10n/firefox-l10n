@@ -120,12 +120,6 @@ translations-manage-description = Pellgargañ yezhoù evit treiñ digevreet.
 translations-manage-all-language = An holl yezhoù
 translations-manage-download-button = Pellgargañ
 translations-manage-delete-button = Dilemel
-translations-manage-install-description = Staliañ yezhoù evit an droidigezh maez-linenn
-translations-manage-language-install-button =
-    .label = Staliañ
-translations-manage-language-install-all-button =
-    .label = Staliañ pep tra
-    .accesskey = S
 translations-manage-language-download-button =
     .label = Pellgargañ
 translations-manage-language-download-all-button =
@@ -136,7 +130,6 @@ translations-manage-language-remove-button =
 translations-manage-language-remove-all-button =
     .label = Dilemel pep tra
     .accesskey = D
-translations-manage-error-install = C'hoarvezet ez eus bet ur gudenn en ur staliañ ar restroù yezh. Klaskit adarre mar plij.
 translations-manage-error-download = C’hoarvezet ez eus bet ur gudenn en ur bellgargañ ar restroù yezh. Klaskit adarre mar plij.
 translations-manage-error-delete = C’hoarvezet ez eus bet ur fazi en ur zilemel ar restroù yezh. Klaskit adarre mar plij.
 translations-manage-error-remove = C'hoarvezet ez eus bet ur fazi en ur dilemel ar restroù yezh. Klaskit adarre mar plij.
@@ -171,6 +164,19 @@ translations-settings-close-dialog =
 # selected text to a yet-to-be-determined language.
 main-context-menu-translate-selection =
     .label = Treiñ an diuzad…
+    .accesskey = n
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a yet-to-be-determined language.
+main-context-menu-translate-link-text =
+    .label = Treiñ testenn al lec'hienn…
+    .accesskey = n
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-link-text-to-language =
+    .label = Treiñ testenn al lec'hienn e { $language }
     .accesskey = n
 # Text displayed in the select translations panel header.
 select-translations-panel-header = Troidigezh

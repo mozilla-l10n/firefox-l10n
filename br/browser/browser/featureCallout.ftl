@@ -46,6 +46,7 @@ callout-pdfjs-draw-button = Komprenet 'm eus !
 
 ## Firefox View Discoverability Strings
 
+fx-view-discoverability-title = Ne felle ket deoc'h serriñ an ivinell-se?
 fx-view-discoverability-primary-button-label = Digeriñ { -firefoxview-brand-name }
 fx-view-discoverability-secondary-button-label = Argas
 
@@ -55,3 +56,20 @@ fx-view-discoverability-secondary-button-label = Argas
 split-dismiss-button-dont-show-option-label = Arabat diskouez ar erbedadenn-mañ adarre
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Merañ an arventennoù
+
+## Sidebar Strings
+
+
+## Sidebar Callout Survey Strings
+
+sidebar-callout-survey-title = Sikourit da wellaat { -brand-short-name }
+sidebar-callout-survey-very-satisfied = Plijet-tre
+sidebar-callout-survey-satisfied = Plijet
+sidebar-callout-survey-neutral = Ali ebet
+sidebar-callout-survey-dissatisfied-2 = Displijet
+sidebar-callout-survey-very-dissatisfied-2 = Displijet-tre
+sidebar-callout-survey-dont-use-it = Ne ran ket gantañ
+sidebar-callout-survey-strongly-agree = A-du krenn
+sidebar-callout-survey-agree = A-du
+sidebar-callout-survey-submit = Kas
+sidebar-callout-survey-thank-you = Trugarez da vezañ roet hoc’h ali!
