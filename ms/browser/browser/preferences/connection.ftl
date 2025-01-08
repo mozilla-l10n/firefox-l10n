@@ -9,15 +9,11 @@ connection-window2 =
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
-
 connection-close-key =
     .key = w
-
 connection-disable-extension =
     .label = Nyahdayakan Ekstensi
-
 connection-proxy-configure = Tetapkan Akses Proksi ke Internet
-
 connection-proxy-option-no =
     .label = Tiada proksi
     .accesskey = p
@@ -30,20 +26,16 @@ connection-proxy-option-auto =
 connection-proxy-option-manual =
     .label = Konfigurasi proksi manual
     .accesskey = m
-
 connection-proxy-http = Proksi HTTP
     .accesskey = k
 connection-proxy-http-port = Port
     .accesskey = P
-
 connection-proxy-ssl-port = Port
     .accesskey = o
-
 connection-proxy-socks = Hos SOCKS
     .accesskey = C
 connection-proxy-socks-port = Port
     .accesskey = t
-
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K
@@ -52,33 +44,25 @@ connection-proxy-socks5 =
     .accesskey = v
 connection-proxy-noproxy = Tiada proksi untuk
     .accesskey = n
-
 connection-proxy-noproxy-desc = Contoh: .mozilla.org, .net.nz, 192.168.1.0/24
-
 connection-proxy-autotype =
     .label = URL konfigurasi proksi automatik
     .accesskey = A
-
 connection-proxy-reload =
     .label = Muat semula
     .accesskey = e
-
 connection-proxy-autologin =
     .label = Jangan paparkan pengesahan jika kata laluan telah disimpan
     .accesskey = i
     .tooltip = Pilihan ini mengesahkan secara senyap apabila anda ada menyimpan kelayakan bagi pihak proksi. Tapi anda akan dimaklumkan jika pengesahan gagal.
-
 connection-proxy-autologin-checkbox =
     .label = Jangan paparkan pengesahan jika kata laluan telah disimpan
     .accesskey = i
     .tooltiptext = Pilihan ini mengesahkan secara senyap apabila anda ada menyimpan kelayakan bagi pihak proksi. Tapi anda akan dimaklumkan jika pengesahan gagal.
-
 connection-proxy-socks-remote-dns =
     .label = Proksi DNS apabila menggunakan SOCKS v5
     .accesskey = d
-
 connection-dns-over-https-url-custom =
     .label = Penyesuaian
     .accesskey = P
     .tooltiptext = Masukkan URL keutamaan untuk menyelesaikan DNS ke atas HTTPS
-

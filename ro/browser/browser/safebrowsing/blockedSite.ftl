@@ -10,6 +10,8 @@ safeb-blocked-phishing-page-short-desc = { -brand-short-name } a blocat această
 safeb-blocked-malware-page-short-desc = { -brand-short-name } a blocat această pagină deoarece ar putea încerca să instaleze programe rău intenționate care pot fura sau ștarge informații cu caracter personal de pe calculator.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } a blocat această pagină deoarece ar putea să încerce să te păcălească să instalezi programe care dăunează experienței de navigare (de exemplu, prin schimbarea paginii de start sau prin afișarea de reclame suplimentare pe site-urile pe care le vizitezi).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } a blocat această pagină deoarece ar putea să încerce să instaleze programe periculoase care fură sau șterg informațiile tale (de exemplu, fotografii, parole, mesaje și carduri de credit).
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Avertismente furnizate de <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Întoarce-te
 safeb-palm-see-details-label = Vezi detalii
@@ -26,6 +28,7 @@ safeb-blocked-phishing-page-learn-more = Află mai multe despre site-uri înșel
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
+
 
 ##
 

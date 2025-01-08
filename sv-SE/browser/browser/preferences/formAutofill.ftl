@@ -39,8 +39,6 @@ address-capture-manage-address-button =
     .label = Adressinställningar
 address-capture-learn-more-button =
     .label = Läs mer
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Lägg till ny adress
 address-capture-open-menu-button =
     .aria-label = Öppna meny
 address-capture-edit-address-button =
@@ -49,10 +47,10 @@ address-capture-edit-address-button =
 autofill-add-address-title = Lägg till adress
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Redigera adress
-autofill-address-name = Namn
 autofill-address-given-name = Förnamn
 autofill-address-additional-name = Mellannamn
 autofill-address-family-name = Efternamn
+autofill-address-name = Namn
 autofill-address-organization = Organisation
 autofill-address-street-address = Gatuadress
 autofill-address-street = Gatuadress
@@ -108,9 +106,8 @@ autofill-address-eircode = Eircode
 
 ##
 
-
-##
-
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Lägg till ny adress
 autofill-address-country = Land eller region
 autofill-address-country-only = Land
 autofill-address-tel = Telefon
@@ -122,11 +119,6 @@ autofill-country-warning-message = Autofyll av formulär är för närvarande en
 autofill-add-new-card-title = Lägg till nytt kreditkort
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Redigera kreditkort
-autofill-message-tooltip = Visa meddelande om autofyll
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-card-title = Lägg till kort
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title2 = Redigera kort
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -135,6 +127,11 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } försöker visa kreditkortsinformation. Bekräfta åtkomst till detta Windows-konto nedan.
        *[other] { -brand-short-name } försöker visa kreditkortsinformation.
     }
+autofill-message-tooltip = Visa meddelande om autofyll
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Lägg till kort
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Redigera kort
 autofill-card-number = Kortnummer
 autofill-card-invalid-number = Ange ett giltigt kortnummer
 autofill-card-name-on-card = Namn på kort

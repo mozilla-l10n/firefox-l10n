@@ -11,4 +11,3 @@ console-stacktrace-anonymous-function = <anonimo>
 #   $functionName (String): JavaScript function name
 #   $lineNumber (String): The line number of the stacktrace call
 console-stacktrace = Pannakaipunganay iti { $filename }, andar { $functionName }, linia { $lineNumber }.
-

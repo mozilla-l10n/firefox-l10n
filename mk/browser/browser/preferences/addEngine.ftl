@@ -5,8 +5,5 @@
 add-engine-window2 =
     .title = Додај сервис за пребарување
     .style = min-width: 32em;
-
 add-engine-name = Име на пребарувачот
-
 add-engine-alias = Псевдоним
-

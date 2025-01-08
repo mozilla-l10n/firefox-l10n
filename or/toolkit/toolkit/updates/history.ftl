@@ -3,26 +3,24 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = ପୁରୁଣା ତଥ୍ୟକୁ ଅଦ୍ୟତନ କରନ୍ତୁ
-
 close-button-label =
     .buttonlabelcancel = ବନ୍ଦ କରନ୍ତୁ
     .title = ପୁରୁଣା ତଥ୍ୟକୁ ଅଦ୍ୟତନ କରନ୍ତୁ
-
 no-updates-label = ଏପର୍ଯ୍ୟନ୍ତ କୌଣସି ଅଦ୍ୟତନ ସ୍ଥାପିତ ହୋଇନାହିଁ
 name-header = ନାମ ଅଦ୍ୟତନ କରନ୍ତୁ
 date-header = ସ୍ଥାପନ ତାରିଖ
 type-header = ପ୍ରକାର
 state-header = ସ୍ଥିତି
-
 # Used to display update history
 #
 # Variables:
-#   $name (String): name of the update
-#   $buildID (String): build identifier from the local updates.xml
+#   $name (string) - Name of the update
+#   $buildID (string) - Build identifier from the local updates.xml
 update-full-build-name = { $name } ({ $buildID })
-
 update-details = ବିବରଣୀ
-
+# Variables:
+#   $date (string) - Date the last update was installed
 update-installed-on = ରେ ସ୍ଥାପିତ: { $date }
-
+# Variables:
+#   $status (string) - Status of the last update
 update-status = ସ୍ଥିତି: { $status }

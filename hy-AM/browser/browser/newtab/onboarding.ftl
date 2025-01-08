@@ -353,3 +353,9 @@ onboarding-checklist-pin = Ամրացրեք { -brand-short-name }-ը խնդրա�
 onboarding-checklist-import = Ներմուծել նախորդ դիտարկիչից
 onboarding-checklist-extension = Հավելել ընդլայնում
 onboarding-checklist-sign-up = Գրանցվեք կամ մուտք գործեք ձեր հաշիվ
+
+## Tab Groups feature onboarding strings
+
+
+## Multi Profiles feature onboarding messages
+

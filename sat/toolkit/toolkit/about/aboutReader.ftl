@@ -4,7 +4,6 @@
 
 about-reader-loading = ᱞᱟᱫᱮᱜ ᱠᱟᱱᱟ…
 about-reader-load-error = ᱥᱟᱦᱴᱟ ᱠᱷᱚᱱ ᱚᱱᱚᱞ ᱞᱟᱫᱮ ᱨᱮ ᱰᱤᱜᱟᱹᱣ ᱮᱱᱟ
-
 about-reader-color-scheme-light = ᱢᱟᱨᱥᱟᱞ
     .title = ᱨᱚᱝ ᱥᱠᱤᱢ ᱢᱟᱨᱥᱟᱞ
 about-reader-color-scheme-dark = ᱧᱩᱛ
@@ -13,7 +12,6 @@ about-reader-color-scheme-sepia = ᱥᱮᱯᱤᱭᱟ
     .title = ᱨᱚᱝ ᱥᱠᱤᱢ ᱥᱮᱯᱤᱭᱟ
 about-reader-color-scheme-auto = ᱟᱡ ᱛᱮ
     .title = ᱨᱚᱝ ᱥᱠᱤᱢ ᱟᱡ ᱛᱮ
-
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -26,7 +24,7 @@ about-reader-estimated-read-time =
        *[other] { $range } ᱴᱤᱯᱤᱡ
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = ᱪᱤᱠᱤ ᱢᱟᱯ ᱠᱚᱢ ᱢᱮ
@@ -51,3 +49,14 @@ about-reader-font-type-sans-serif = ᱥᱮᱱᱥ ᱥᱮᱨᱤᱯᱷ
 about-reader-toolbar-close = ᱨᱤᱰᱚᱨ ᱵᱷᱭᱩ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 about-reader-toolbar-type-controls = ᱞᱮᱠᱷᱟ ᱠᱚᱵᱽᱡᱟ
 about-reader-toolbar-savetopocket = { -pocket-brand-name } ᱨᱮ ᱥᱟᱺᱪᱟᱣ ᱢᱮ
+
+## Reader View colors menu
+
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+
+## Reader View text and layout menu
+

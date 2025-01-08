@@ -4,3 +4,5 @@
 
 webext-perms-learn-more = অধিক জানক
 
+## A modal confirmation dialog to allow an extension on quarantined domains.
+

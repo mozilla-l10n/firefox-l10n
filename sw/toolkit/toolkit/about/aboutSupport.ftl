@@ -4,7 +4,6 @@
 
 page-title = Maelezo ya Usuluhishaji
 page-subtitle = Ukurasa huu una maelezo ya kiufundi ambayo yanaweza kutumiwa wakati unajaribu kutatua tatizo. Kama unatafuta majibu kwa maswali ya kawaidia kuhusu { -brand-short-name }, kagua kiungo chetu <a data-l10n-name="support-link">wavuti wa usaidizi</a>.
-
 crashes-id = Kitambulishi Ripoti
 crashes-send-date = Imewasilishwa
 support-addons-name = Jina
@@ -21,7 +20,6 @@ app-basics-enabled-plugins = Wezesha Programu-jalizi
 app-basics-build-config = Jenga Usanidi
 app-basics-user-agent = Mtumaiji Wakala
 app-basics-memory-use = Utumizi wa Kumbukumbu
-
 modified-key-prefs-title = Mapendeleo Muhimu Yaliorekebishwa
 modified-prefs-name = Jina
 user-js-title = Pendeleo za mtumiaji.js
@@ -38,6 +36,12 @@ copy-raw-data-to-clipboard-label = Nakili data ghafi kwa ubao
 
 
 ## Codec support table
+
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
 
 ##
 
@@ -65,7 +69,6 @@ blocked-os-version = Imezuiliowa kwa toleo la mfumo wako wa uendeshaji.
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Imezuiliwa kwenye viendeshaji vya sanaa. Jaribu kusasaisha viendelezi vyako vya sanaa kwa toleo { $driverVersion } au mpya zaidi.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Ondoa Aina ya Paramita
@@ -78,10 +81,8 @@ gpu-vendor-id = Kitambulishi cha Muuzaji
 gpu-device-id = ID ya Kifaa
 gpu-driver-version = Toleo la Kiendelezi
 gpu-driver-date = Tarehe ya Kiendelezi
-
 min-lib-versions = Toleo la chini lililotarajiwa
 loaded-lib-versions = Toleo linalotumika
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -93,7 +94,18 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+
 ## Printing section
 
+
+## Remote Settings sections
+
+
 ## Normandy sections
+
+
+## Pointing devices
+
+
+## Content Analysis (DLP)
 

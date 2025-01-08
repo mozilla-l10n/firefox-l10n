@@ -14,16 +14,13 @@ about-unloads-intro =
     na základe viacerých atribútov. Táto stránka ukazuje ako { -brand-short-name }
     prioritizuje karty a určuje, ktorá karta sa najbližšie uvoľní. Uvoľnenie kariet môžete
     spustiť aj ručne kliknutím na tlačidlo <em>Uvoľniť</em>.
-
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more = Ďalšie informácie o funkcii a tejto stránke nájdete v časti <a data-l10n-name="doc-link">Uvoľňovanie kariet</a>.
-
 about-unloads-last-updated = Naposledy aktualizované: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Uvoľniť
     .title = Uvoľní kartu s najvyššou prioritou
 about-unloads-no-unloadable-tab = Momentálne nie sú žiadne karty, ktoré je možné uvoľniť.
-
 about-unloads-column-priority = Priorita
 about-unloads-column-host = Server
 about-unloads-column-last-accessed = Posledný prístup
@@ -35,7 +32,6 @@ about-unloads-column-memory = Pamäť
     .title = Odhadovaná spotreba pamäte kartou
 about-unloads-column-processes = Identifikátor procesu
     .title = Identifikátor procesu, v ktorom beží obsah karty
-
 about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } MB
 about-unloads-memory-in-mb-tooltip =

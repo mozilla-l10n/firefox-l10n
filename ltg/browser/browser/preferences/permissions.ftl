@@ -5,53 +5,40 @@
 permissions-window2 =
     .title = Izjāmumi
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Sātys lopys adress
     .accesskey = d
-
 permissions-block =
     .label = Blokeit
     .accesskey = B
-
 permissions-session =
     .label = Atļaut tikai ituos sesejis laikā
     .accesskey = s
-
 permissions-allow =
     .label = Atļaut
     .accesskey = A
-
 permissions-site-name =
     .label = Sātys lopa
-
 permissions-status =
     .label = Statuss
-
 permissions-remove =
     .label = Aizvuokt lopu
     .accesskey = z
-
 permissions-remove-all =
     .label = Aizvuokt vysys lopys
     .accesskey = k
-
 permission-dialog =
     .buttonlabelaccept = Saglobuot izmaiņis
     .buttonaccesskeyaccept = S
-
 permissions-searchbox =
     .placeholder = Mekleit lopys
-
 permissions-capabilities-allow =
     .label = Atļaut
 permissions-capabilities-block =
     .label = Blokeit
 permissions-capabilities-prompt =
     .label = Vīnmār vaicuot
-
 permissions-capabilities-listitem-allow =
     .value = Atļaut
 permissions-capabilities-listitem-block =
@@ -90,6 +77,9 @@ permissions-exceptions-saved-logins-window2 =
     .title = Izjāmumi - Saglobuotuos paroles
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Itū vītņu paroles natiks saglobuotys
+
+## Exceptions - Saved Passwords
+
 
 ## Exceptions - Add-ons
 

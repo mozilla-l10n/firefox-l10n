@@ -18,7 +18,7 @@ customize-menu-add-to-overflowmenu =
 
 ## Forget Button
 
-# The forget button can be added to the toolbar or overflow menu via the cutomization menu.
+# The forget button can be added to the toolbar or overflow menu via the customization menu.
 panic-button-thankyou-msg1 = ປະຫວັດການໃຊ້ງານລ່າສຸດຂອງທ່ານຖືກລ້າງແລ້ວ.
 panic-button-thankyou-msg2 = ການທ່ອງເວັບປອດໄພ!
 panic-button-thankyou-button =

@@ -39,8 +39,6 @@ address-capture-manage-address-button =
     .label = Parametros del adresse
 address-capture-learn-more-button =
     .label = Pro saper plus
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Adder un nove adresse
 address-capture-open-menu-button =
     .aria-label = Aperir le menu
 address-capture-edit-address-button =
@@ -49,10 +47,10 @@ address-capture-edit-address-button =
 autofill-add-address-title = Adder adresse
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Modificar le adresse
-autofill-address-name = Nomine
 autofill-address-given-name = Prenomine
 autofill-address-additional-name = Secunde nomine
 autofill-address-family-name = Nomine de familia
+autofill-address-name = Nomine
 autofill-address-organization = Organisation
 autofill-address-street-address = Adresse del strata
 autofill-address-street = Adresse del strata
@@ -108,9 +106,8 @@ autofill-address-eircode = Eircode
 
 ##
 
-
-##
-
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Adder un nove adresse
 autofill-address-country = Pais o region
 autofill-address-country-only = Pais
 autofill-address-tel = Telephono
@@ -122,11 +119,6 @@ autofill-country-warning-message = Le completion automatic de formularios es dis
 autofill-add-new-card-title = Adder un nove carta de credito
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Modificar le carta de credito
-autofill-message-tooltip = Monstrar le message re le compilation automatic de formularios
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-card-title = Adder carta
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title2 = Rediger carta
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -135,6 +127,11 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } tenta de monstrar informationes de carta de credito. Confirma le accesso a iste conto de Windows infra.
        *[other] { -brand-short-name } tenta de monstrar informationes de carta de credito.
     }
+autofill-message-tooltip = Monstrar le message re le compilation automatic de formularios
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Adder carta
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Rediger carta
 autofill-card-number = Numero del carta
 autofill-card-invalid-number = Per favor insere un numero de carta valide
 autofill-card-name-on-card = Nomine sur le carta

@@ -45,7 +45,7 @@ new-profile-page-input-placeholder =
 new-profile-page-done-button =
     .label = ویرایش‌ها انجام شد
 
-## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
+## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
 # Variables
 #   $profilename (String) - The name of the profile.
@@ -62,6 +62,9 @@ delete-profile-bookmarks = نشانک‌ها
 delete-profile-history = تاریخچه (صفحات بازدید شده، کوکی‌ها، اطلاعات وبگاه)
 delete-profile-autofill = اطلاعات تکمیل خودکار (نشانی‌ها، روش‌های پرداخت)
 delete-profile-logins = گذرواژه‌ها
+
+##
+
 # Button label
 delete-profile-cancel = انصراف
 # Button label

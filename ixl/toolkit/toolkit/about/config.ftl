@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Yakeb'en ti jik'il
@@ -13,13 +14,10 @@ about-config-intro-warning-button = Kam  kuxh valexh tuk' a paleb'e tane tan la 
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Asoj la jalpu kam chit b'anelik ta'n la ib'ane' uva' ye'xhkam la aq'onvu ti jikil { -brand-short-name }
-
 about-config-page-title = U vee' ni chit asa' uve' nim talchu ve'te'
-
 about-config-search-input1 =
     .placeholder = Ib'ii unq'a vee' uve' palchit achukata'
 about-config-show-all = K'uch kaajayil
-
 about-config-pref-add-button =
     .title = Aq'ku'
 about-config-pref-toggle-button =

@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -9,13 +10,11 @@
 
 psmerr-ssl-disabled = Pole võimalik turvaliselt ühenduda, kuna SSL-protokoll on keelatud.
 psmerr-ssl2-disabled = Pole võimalik turvaliselt ühenduda, kuna veebileht kasutab vanemat ning ebaturvalist SSL-protokolli versiooni.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Sa oled saanud vigase sertifikaadi.  Võta ühendust serveri administraatori või e-kirja saatjaga ja teata neile järgnevat:
     
     Sertifikaadi seerianumber langeb kokku sertifitseerimiskeskuse poolt välja antud teise sertifikaadiga.  Palun hangi uus unikaalse seerianumbriga sertifikaat.
-
 ssl-error-export-only-server = Turvaline ühendus ebaõnnestus.  Partner ei toeta kõrgtaseme krüptimist.
 ssl-error-us-only-server = Turvaline ühendus ebaõnnestus.  Partner nõuab kõrgtasemelist krüptimist, mis ei ole toetatud.
 ssl-error-no-cypher-overlap = Partneriga pole võimalik luua turvalist ühendust: puuduvad ühised krüptoalgoritmid.
@@ -152,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = No supported TLS signature algorith
 ssl-error-unsupported-signature-algorithm = The peer used an unsupported combination of signature and hash algorithm.
 ssl-error-missing-extended-master-secret = The peer tried to resume without a correct extended_master_secret extension.
 ssl-error-unexpected-extended-master-secret = The peer tried to resume with an unexpected extended_master_secret extension.
-
 sec-error-io = An I/O error occurred during security authorization.
 sec-error-library-failure = security library failure.
 sec-error-bad-data = security library: received bad data.
@@ -319,7 +317,6 @@ sec-error-locked-password = The password is locked.
 sec-error-unknown-pkcs11-error = Unknown PKCS #11 error.
 sec-error-bad-crl-dp-url = Invalid or unsupported URL in CRL distribution point name.
 sec-error-cert-signature-algorithm-disabled = The certificate was signed using a signature algorithm that is disabled because it is not secure.
-
 mozilla-pkix-error-key-pinning-failure = The server uses key pinning (HPKP) but no trusted certificate chain could be constructed that matches the pinset. Key pinning violations cannot be overridden.
 mozilla-pkix-error-ca-cert-used-as-end-entity = The server uses a certificate with a basic constraints extension identifying it as a certificate authority. For a properly-issued certificate, this should not be the case.
 mozilla-pkix-error-inadequate-key-size = The server presented a certificate with a key size that is too small to establish a secure connection.
@@ -334,11 +331,9 @@ mozilla-pkix-error-invalid-integer-encoding = The server presented a certificate
 mozilla-pkix-error-empty-issuer-name = The server presented a certificate with an empty issuer distinguished name.
 mozilla-pkix-error-additional-policy-constraint-failed = An additional policy constraint failed when validating this certificate.
 mozilla-pkix-error-self-signed-cert = Serti ei usaldata, kuna selle on signeerinud serdi omanik.
-
 xp-java-remove-principal-error = Couldn't remove the principal
 xp-java-delete-privilege-error = Couldn't delete the privilege
 xp-java-cert-not-exists-error = This principal doesn't have a certificate
-
 xp-sec-fortezza-bad-card = Fortezza card has not been properly initialized. Please remove it and return it to your issuer.
 xp-sec-fortezza-no-card = No Fortezza cards Found
 xp-sec-fortezza-none-selected = No Fortezza card selected

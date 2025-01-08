@@ -140,4 +140,5 @@ policy-UseSystemPrintDialog = Жүйелік сұхбатын қолданып, 
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Веб-сайттарды шолуға тыйым салады. Пішімі туралы көбірек білу үшін, құжаттаманы қараңыз.
 policy-Windows10SSO = Microsoft, жұмыс және мектеп есептік жазбаларына Windows дара кіруін рұқсат ету.
+# Entra is the name of a Microsoft product.
 policy-MicrosoftEntraSSO = Microsoft Entra тіркелгілері үшін бірыңғай кіруді рұқсат ету.

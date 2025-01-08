@@ -116,7 +116,7 @@ containers-disable-alert-ok-button =
 containers-disable-alert-cancel-button = Wek ma kicako
 containers-remove-alert-title = Kwany Lamak jami man?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Ka i kwanyo Lamak jami man kombedi, ki biloro dirica matidi { $count } me mako jami. Imoko ada ni imito kwanyo Lamak jami man?
@@ -210,15 +210,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Peny jwijwi
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Tii ki { $plugin-name } (i { -brand-short-name })
 
@@ -278,7 +278,7 @@ performance-allow-hw-accel =
     .label = Tii ki lamed dwiro pa nyonyo ka tye
     .accesskey = o
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (makwongo)
 
@@ -349,8 +349,7 @@ choose-bookmark =
 home-prefs-search-header =
     .label = Yeny me kakube
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Lami tam obedo { $provider }
@@ -423,7 +422,7 @@ search-find-more-link = Med injin me yeny mukene
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Por lok mapire tek
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = I yero lok mapire tek ma latic kwede kombedi obedo "{ $name }". Tim ber iyer mukene.
 search-keyword-warning-bookmark = I yero lok mapire tek ma kombedi alama buk tye ka tic kwede. Tim ber iyer mukene.
 

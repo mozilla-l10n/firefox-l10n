@@ -4,11 +4,8 @@
 
 bookmark-overlay-choose =
     .label = Pilien...
-
 bookmark-overlay-new-folder-button =
     .label = Baro a Karpeta
     .accesskey = o
-
 bookmark-overlay-tags-empty-description =
     .placeholder = Isina dagiti etiketa babaen ti koma
-

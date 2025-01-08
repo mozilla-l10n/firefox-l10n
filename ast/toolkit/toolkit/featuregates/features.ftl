@@ -6,10 +6,7 @@
 # by various online articles and is technical in nature.
 experimental-features-css-masonry2 =
     .label = CSS: Distribución Masonry
-
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
     .label = Multimedia: JPEG XL
-
-

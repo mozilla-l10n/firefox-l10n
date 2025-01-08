@@ -10,7 +10,6 @@ videocontrols-volume-control =
     .aria-label = Garsas
 videocontrols-closed-caption-button =
     .aria-label = Titrai
-
 videocontrols-play-button =
     .aria-label = Groti
 videocontrols-pause-button =
@@ -25,13 +24,13 @@ videocontrols-exitfullscreen-button =
     .aria-label = Normalioji veiksena
 videocontrols-casting-button-label =
     .aria-label = Nukreipti į ekraną
+# .offlabel is processed by the video control custom element to be used
+# as a text-track label
 videocontrols-closed-caption-off =
     .offlabel = Išjungta
-
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Vaizdas-vaizde
-
 videocontrols-error-aborted = Vaizdo įkėlimas sustabdytas.
 videocontrols-error-network = Vaizdo atkūrimas nutrauktas dėl tinklo klaidos.
 videocontrols-error-decode = Vaizdo leisti neįmanoma, nes failas sugadintas.
@@ -39,7 +38,6 @@ videocontrols-error-src-not-supported = Vaizdo formatas arba MIME tipas nepalaik
 videocontrols-error-no-source = Nerastas palaikomo formato ir MIME tipo vaizdas.
 videocontrols-error-generic = Vaizdo atkūrimas nutrauktas dėl nežinomos klaidos.
 videocontrols-status-picture-in-picture = Šis vaizdo įrašas groja vaizdas-vaizde veiksenoje.
-
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -53,7 +51,6 @@ videocontrols-status-picture-in-picture = Šis vaizdo įrašas groja vaizdas-vai
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
-
 # This is a plain text version of the videocontrols-position-and-duration-labels
 # string, used by screenreaders.
 #

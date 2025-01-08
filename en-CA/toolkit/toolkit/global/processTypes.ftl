@@ -5,7 +5,6 @@
 
 ##
 ## Localization for remote types defined in RemoteType.h
-##
 
 process-type-web = Web Content
 # process used to run privileged about pages,
@@ -30,7 +29,6 @@ process-type-prealloc = Preallocated
 
 ##
 ## Localization for Gecko process types defined in GeckoProcessTypes.h
-##
 
 process-type-default = Main
 process-type-tab = Tab
@@ -55,7 +53,6 @@ process-type-utility-actor-windows-file-dialog = Utility Windows File Dialog
 
 ##
 ## Other
-##
 
 # fallback
 process-type-unknown = Unknown

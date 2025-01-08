@@ -6,7 +6,6 @@ tabmodalprompt-username =
     .value = Notandanafn:
 tabmodalprompt-password =
     .value = Lykilorð:
-
 tabmodalprompt-ok-button =
     .label = Í lagi
 tabmodalprompt-cancel-button =

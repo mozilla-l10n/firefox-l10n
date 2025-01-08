@@ -4,22 +4,18 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
-
 copy =
     .key = C
 menu-copy =
     .label = Natto
     .accesskey = N
-
 select-all =
     .key = A
 menu-select-all =
     .label = Labo Fof
     .accesskey = F
-
 close-dialog =
     .key = W
-
 general-tab =
     .label = Kuuɓal
     .accesskey = G
@@ -43,7 +39,6 @@ general-meta-name =
     .label = Innde
 general-meta-content =
     .label = Loowdi
-
 media-tab =
     .label = Mejaaje
     .accesskey = M
@@ -71,13 +66,11 @@ media-save-as =
 media-save-image-as =
     .label = Danndu e Innde…
     .accesskey = e
-
 perm-tab =
     .label = Jamirooje
     .accesskey = P
 permissions-for =
     .value = Jamirooje:
-
 security-tab =
     .label = Kisal
     .accesskey = S
@@ -98,22 +91,17 @@ security-view-identity-validity =
     .value = Gasata ko:
 security-view-privacy =
     .value = Aslol & Suturo
-
 security-view-privacy-history-value = Mi meeɗii yillaade ndee lowre ko adii hannde?
 security-view-privacy-sitedata-value = Mate ndee lowre geese woni ko e mooftude kabaruuji e ordinateer maa?
-
 security-view-privacy-clearsitedata =
     .label = Momtu Kuukiije kam e Keɓe Lowre
     .accesskey = C
-
 security-view-privacy-passwords-value = Mi danndii finndeeji ndee lowre geese?
-
 security-view-privacy-viewpasswords =
     .label = Hollu Finndeeji Danndaaɗi
     .accesskey = w
 security-view-technical =
     .value = Cariiɗo Karallaagal
-
 help-button =
     .label = Ballal
 
@@ -125,7 +113,6 @@ help-button =
 
 security-site-data-cookies = Eey, kuukiije kam e { $value } { $unit } keɓe lowre ndee
 security-site-data-only = Eey, { $value }{ $unit } keɓe lowre ndee
-
 security-site-data-cookies-only = Eey, kuukiije
 security-site-data-no = Alaa
 
@@ -149,7 +136,6 @@ media-video = Widewo
 media-audio = Ojoo
 saved-passwords-yes = Eey
 saved-passwords-no = Alaa
-
 no-page-title =
     .value = Hello Ngo Tiitaaka:
 general-quirks-mode =
@@ -164,7 +150,6 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Huutoro Goowaaɗo
 security-no-visits = Alaa
-
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -175,14 +160,12 @@ security-visits-number =
         [one] Eey, laawol gootol
        *[other] Eey, { $visits } sahaa
     }
-
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } Natal
-
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -192,14 +175,12 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (werannde { $scaledx }px × { $scaledy }px)
-
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
-
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
@@ -211,16 +192,11 @@ media-file-size = { $size } KB
 
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
-# Variables:
-#   $website (string) - The website name
 media-block-image =
     .label = Falo Nate immiiɗe e { $website }
     .accesskey = B
-
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
-# Variables:
-#   $website (string) - The url of the website pageInfo is getting info for
 page-info-page =
     .title = Humpito Hello - { $website }
 page-info-frame =

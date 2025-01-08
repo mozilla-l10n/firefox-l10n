@@ -23,6 +23,11 @@ protections-panel-etp-more-info =
     .aria-label = معلومات أخرى حول الحماية الموسّعة من التعقب
 protections-panel-etp-on-header = فُعّلت الحماية الموسّعة من التعقب في هذا الموقع
 protections-panel-etp-off-header = عُطّلت الحماية الموسّعة من التعقب في هذا الموقع
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = ألا يعمل الموقع؟
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = ألا يعمل الموقع؟
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -37,11 +42,6 @@ protections-panel-etp-toggle-off =
     .label = الحماية الموسّعة من التعقب
     .description = مُعطّل لهذا الموقع
     .aria-label = الحماية الموسّعة من التعقب: مُعطّل ل{ $host }
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = ألا يعمل الموقع؟
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = ألا يعمل الموقع؟
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -71,6 +71,9 @@ protections-panel-content-blocking-fingerprinters-label = مسجّلات الب�
 protections-panel-blocking-label = محجوبة
 protections-panel-not-blocking-label = مسموح بها
 protections-panel-not-found-label = لم تُكتشف في الصفحة
+
+## Smartblock strings
+
 
 ##
 
@@ -107,7 +110,6 @@ protections-panel-content-blocking-manage-settings =
     .accesskey = د
 protections-panel-content-blocking-breakage-report-view =
     .title = أبلِغ عن موقع معطوب
-protections-panel-content-blocking-breakage-report-view-description2 = حجب متعقبات معينة قد يتسبب بالمشاكل لبعض المواقع. الإبلاغ عن هذه المشاكل يساعد على جعل { -brand-short-name } أفضل للجميع. إرسال هذا البلاغ سيرسل عنوان بريدك ومعلومات عن إعدادات المتصفح لديك إلى { -vendor-short-name }.
 protections-panel-content-blocking-breakage-report-view-collection-url = المسار
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = المسار

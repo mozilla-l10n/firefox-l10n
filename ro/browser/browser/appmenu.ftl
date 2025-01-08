@@ -225,3 +225,6 @@ appmenuitem-report-broken-site =
 
 ## Panel for privacy and security products
 
+
+## Profiles panel
+

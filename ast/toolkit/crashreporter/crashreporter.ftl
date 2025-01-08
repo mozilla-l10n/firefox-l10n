@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = Informante de casques
-crashreporter-crash-message = { -brand-short-name } tuvo un problema y cascó.
 crashreporter-plea = P'ayudanos a diagnosticar ya iguar el problema, pues unvianos un informe del casque.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Detalles: { $details }

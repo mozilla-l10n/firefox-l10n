@@ -17,8 +17,6 @@ abuse-report-addon-authored-by = per <a data-l10n-name="author-name">{ $author-n
 abuse-report-learnmore =
     No saps quin problema seleccionar?
     <a data-l10n-name="learnmore-link">Més informació sobre com informar sobre les extensions i els temes</a>
-abuse-report-learnmore-intro = No saps quin problema seleccionar?
-abuse-report-learnmore-link = Més informació sobre com informar sobre les extensions i els temes
 abuse-report-submit-description = Descriviu el problema (opcional)
 abuse-report-textarea =
     .placeholder = Ens resulta més fàcil resoldre un problema si en tenim els detalls. Descriviu allò que us passa. Gràcies per ajudar-nos a mantenir Internet en bon estat de salut.
@@ -46,22 +44,6 @@ abuse-report-messagebar-removed-extension = Gràcies per enviar un informe. Heu 
 abuse-report-messagebar-removed-theme = Gràcies per enviar un informe. Heu eliminat el tema <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = S'ha produït un error en enviar l'informe sobre <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = L'informe sobre <span data-l10n-name="addon-name">{ $addon-name }</span> no s'ha enviat perquè recentment ja s'ha enviat un altre informe.
-abuse-report-messagebar-aborted2 =
-    .message = S'ha cancel·lat l'informe sobre { $addon-name }.
-abuse-report-messagebar-submitting2 =
-    .message = S'està enviant l'informe sobre { $addon-name }.
-abuse-report-messagebar-submitted2 =
-    .message = Gràcies per enviar un informe. Voleu eliminar { $addon-name }?
-abuse-report-messagebar-submitted-noremove2 =
-    .message = Gràcies per enviar un informe.
-abuse-report-messagebar-removed-extension2 =
-    .message = Gràcies per enviar un informe. Heu eliminat l'extensió { $addon-name }.
-abuse-report-messagebar-removed-theme2 =
-    .message = Gràcies per enviar un informe. Heu eliminat el tema { $addon-name }.
-abuse-report-messagebar-error2 =
-    .message = S'ha produït un error en enviar l'informe sobre { $addon-name }.
-abuse-report-messagebar-error-recent-submit2 =
-    .message = L'informe sobre { $addon-name } no s'ha enviat perquè recentment ja s'ha enviat un altre informe.
 
 ## Message bars actions.
 

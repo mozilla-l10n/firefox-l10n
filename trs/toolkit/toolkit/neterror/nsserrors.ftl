@@ -2,13 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
 psmerr-ssl-disabled = Na'ue gi'iaj konektandô hue'ej dadin' gire' ngà dàj hua protokolô SSL.
-
 ssl-error-export-only-server = Nitaj si yitinj huaj ga'mi' dadin' ané ni nitaj si huaj gida'a dugui' hue'ej.
 ssl-error-rx-malformed-hello-done = SSL nahuin ra’a ‘ngō nuguan’ Server Hello Done nitāj sī huā hue’ê.
 ssl-error-rx-malformed-cert-verify = SSL nahuin ra’a ‘ngō nuguan’ Verify handshake nitāj sī huā hue’ê.
@@ -28,9 +28,7 @@ ssl-error-rx-unexpected-hello-done = SSL nahuin ra’a ‘ngō nuguan’ Server 
 ssl-error-rx-unexpected-cert-verify = SSL nahuin ra’a ‘ngō nuguan’ Certificate Verify ra’ñànj an.
 ssl-error-rx-unexpected-client-key-exch = SSL nahuin ra’a ‘ngō nuguan’ Client Key Exchange ra’ñànj an.
 ssl-error-rx-unexpected-finished = SSL nahuin ra’a ‘ngō nuguan’ Finished ra’ñànj an.
-
 sec-error-cert-valid = Huā hue’ê sertifikadô nan.
 sec-error-cert-not-valid = Nitāj si huā hue’ê sertifikadô nan.
 sec-error-cert-no-response = Riña ahui nej sertifikâdo: nitāj nuguan’ hua akuan’ nïn
-
 xp-sec-fortezza-bad-pin = Nitaj si ni'ñanj Pin

@@ -9,6 +9,12 @@
 # NOTE: For Engineers, please don't re-use these strings outside of the menubar.
 
 
+# NOTE: For English locales, strings in this file should be in APA-style Title Case.
+# See https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case
+#
+# NOTE: For Engineers, please don't reuse these strings outside of the menubar.
+
+
 ## Application Menu (macOS only)
 
 menu-application-services =
@@ -34,11 +40,9 @@ menu-quit =
             [windows] x
            *[other] Q
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } बन्द गर्नुहोस्
-
 menu-about =
     .label = { -brand-shorter-name } को बारेमा
     .accesskey = A
@@ -203,6 +207,9 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = मोबाइल पुस्तकचिनोहरू
 
+## Profiles Menu
+
+
 ## Tools Menu
 
 menu-tools =
@@ -248,8 +255,7 @@ menu-help =
 menu-help-report-site-issue =
     .label = साइटको समस्या दर्ता गर्नुहोस्‌…
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = आक्रामक साइट भएको प्रतिवेदन दिनुहोस्…
     .accesskey = d

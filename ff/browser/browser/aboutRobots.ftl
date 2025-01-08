@@ -25,5 +25,6 @@ error-long-desc4 = Keeceeje robooji peewniraa ko njamndi ñilkoori ndi fotaani �
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = Tee eɗi njogii feere.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = Fuɗɗito
     .label2 = Hoto ɓoɗɗit ooɗoo butoŋ.

@@ -8,7 +8,6 @@ unknowncontenttype-settingschange =
             [windows] سیٹینگس ہیكئن تبدیل كرنئ یھ منز & برینڈ لكٹس ناوئس منز; اوپشنس
            *[other] سیٹینگس ہیكئن تبدیل كرنئ یھ منز & برینڈ لكٹس ناوئس منز; ترجیح
         }
-
 unknowncontenttype-intro = تہئ چھُوئ ژٲرمُت كھولُن
 unknowncontenttype-which-is = یوس ذن چُھ:
 unknowncontenttype-from = پیٹھئ:

@@ -5,7 +5,11 @@
 url-classifier-title = Informacije wó URL-klasifikatorje
 url-classifier-search-title = Pytaś
 url-classifier-search-result-title = Wuslědki
+# Variables:
+#   $uri (string) - URI of blocked page
 url-classifier-search-result-uri = URI: { $uri }
+# Variables:
+#   $list (string) - List of tables where the page is blocked
 url-classifier-search-result-list = Lisćina tabelow: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = Njepłaśiwy URL
@@ -40,7 +44,6 @@ url-classifier-debug-sb-modules = Protokolowe module wěstego pśeglědowanja
 url-classifier-debug-modules = Aktualne protokolowe module
 url-classifier-debug-sbjs-modules = Javaskriptowy protokol wěstego pśeglědowanja
 url-classifier-debug-file = Aktualna protokolowa dataja
-
 url-classifier-trigger-update = Aktualizacija zapušćaka
 url-classifier-not-available = Nic k dispoziciji
 url-classifier-disable-sbjs-log = Javaskriptowy protokol wěstego pśeglědowanja znjemóžniś

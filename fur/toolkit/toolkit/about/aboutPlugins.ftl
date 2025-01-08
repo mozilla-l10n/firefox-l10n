@@ -6,8 +6,6 @@ title-label = Informazions sui plugins
 installed-plugins-label = Plugins instalâts
 no-plugins-are-installed-label = No ai cjatát nissun plugin instalât
 deprecation-description = Mancjal alc? Cualchi plugin nol è plui supuartât. <a data-l10n-name="deprecation-link">Plui informazions.</a>
-deprecation-description2 =
-    .message = Mancjal alc? Cualchi plugin nol è plui supuartât.
 
 ## The information of plugins
 ##

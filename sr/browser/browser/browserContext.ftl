@@ -290,9 +290,7 @@ main-context-menu-send-to-device =
     .label = Пошаљи страницу на уређај
     .accesskey = ш
 
-## The access keys for "Use Saved Login" and "Use Saved Password"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
+##
 
 main-context-menu-use-saved-login =
     .label = Користи сачувано корисничко име

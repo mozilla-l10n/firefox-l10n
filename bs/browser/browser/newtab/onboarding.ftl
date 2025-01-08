@@ -438,3 +438,6 @@ onboarding-checklist-sign-up = Registruj se ili se prijavite na svoj račun
 
 tab-groups-onboarding-feature-callout-title = Isprobajte grupe tabova za manje nereda, više fokusa
 tab-groups-onboarding-feature-callout-subtitle = Organizirajte se prevlačenjem jednog taba na drugi da kreirate svoju prvu grupu.
+
+## Multi Profiles feature onboarding messages
+

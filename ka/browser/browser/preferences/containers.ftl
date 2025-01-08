@@ -10,10 +10,8 @@ containers-window-new2 =
 containers-window-update-settings2 =
     .title = { $name } სათავსის პარამეტრები
     .style = min-width: 45em
-
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -24,26 +22,20 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-
 containers-name-label = სახელი
     .accesskey = ს
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = შეიყვანეთ სათავსის სახელი
-
 containers-icon-label = ხატულა
     .accesskey = ხ
     .style = { -containers-labels-style }
-
 containers-color-label = ფერი
     .accesskey = ფ
     .style = { -containers-labels-style }
-
 containers-dialog =
     .buttonlabelaccept = მზადაა
     .buttonaccesskeyaccept = მ
-
 containers-color-blue =
     .label = ლურჯი
 containers-color-turquoise =
@@ -62,7 +54,6 @@ containers-color-purple =
     .label = მეწამული
 containers-color-toolbar =
     .label = ხელსაწყოთა ზოლის შესაბამისი
-
 containers-icon-fence =
     .label = ღობე
 containers-icon-fingerprint =

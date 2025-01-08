@@ -6,8 +6,6 @@ title-label = Yan Uygulamalar Hakkında
 installed-plugins-label = Kurulu yan uygulamalar
 no-plugins-are-installed-label = Yüklenmiş yan uygulama bulunamadı
 deprecation-description = Bir şeyler mi eksik? Bazı yan uygulamalar artık desteklenmiyor. <a data-l10n-name="deprecation-link">Daha fazla bilgi alın.</a>
-deprecation-description2 =
-    .message = Bir şeyler mi eksik? Bazı yan uygulamalar artık desteklenmiyor.
 
 ## The information of plugins
 ##

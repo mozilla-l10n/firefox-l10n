@@ -33,3 +33,8 @@ searchbar-icon =
 removed-search-engine-message = <strong> Ձեր որոնման համակարգը փոփոխուեց։ </strong>{ $oldEngine } այղեւս հասանելի չէ որպէս հիմնական որոնման համակարգ { -brand-short-name }֊ում։ { $newEngine }֊ը այժմ Ձեր հիմնական որոնման համակարգն է։ Այն կարող էք փոփոխել կարգաւորումներ բաժնում։<label data-l10n-name="remove-search-engine-article"> Իմանալ աւելին </label>
 removed-search-engine-message2 = <strong> Ձեր որոնման համակարգը փոփոխուեց։ </strong>{ $oldEngine } այղեւս հասանելի չէ որպէս հիմնական որոնման համակարգ { -brand-short-name }֊ում։ { $newEngine }֊ը այժմ Ձեր հիմնական որոնման համակարգն է։ Այն կարող էք փոփոխել կարգաւորումներ բաժնում։
 remove-search-engine-button = Լաւ
+
+## Infobar shown when user is prompted to install search engine.
+## Variables
+## $engineName (String) - the name of the search engine to install.
+

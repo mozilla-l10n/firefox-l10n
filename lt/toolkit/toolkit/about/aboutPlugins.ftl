@@ -6,8 +6,6 @@ title-label = Apie papildinius
 installed-plugins-label = Įdiegti papildiniai
 no-plugins-are-installed-label = Nėra įdiegtų papildinių
 deprecation-description = Kažko trūksta? Kai kurie papildiniai daugiau nepalaikomi. <a data-l10n-name="deprecation-link">Sužinoti daugiau.</a>
-deprecation-description2 =
-    .message = Kažko trūksta? Kai kurie papildiniai daugiau nepalaikomi.
 
 ## The information of plugins
 ##

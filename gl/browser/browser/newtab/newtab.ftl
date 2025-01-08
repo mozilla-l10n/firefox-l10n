@@ -228,7 +228,6 @@ newtab-pocket-learn-more = Máis información
 newtab-pocket-cta-button = Obter { -pocket-brand-name }
 newtab-pocket-cta-text = Garde no { -pocket-brand-name } as historias que lle gusten, e alimente a súa imaxinación con lecturas fascinantes.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } forma parte da familia { -brand-product-name }
-# A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Gardar
 newtab-pocket-saved = Gardado
 
@@ -372,3 +371,11 @@ newtab-topic-selection-button-maybe-later = Quizais máis tarde
 newtab-topic-selection-privacy-link = Aprender como protexemos e xestionamos os datos
 newtab-topic-selection-button-update-interests = Actualizar os seus intereses
 newtab-topic-selection-button-pick-interests = Seleccionar os seus intereses
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Confirmation modal for blocking a section
+

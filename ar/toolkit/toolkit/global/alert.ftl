@@ -6,3 +6,6 @@ alert-close =
     .tooltiptext = أغلق هذا التنبيه
 alert-settings-title =
     .tooltiptext = الإعدادات
+
+## Reminder Notifications
+

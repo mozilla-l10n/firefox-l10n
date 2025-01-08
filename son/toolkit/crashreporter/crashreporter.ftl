@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = Kaŋyan bayrandikaw
-crashreporter-crash-message = { -brand-short-name } dii šenday nd'a kaŋ.
 crashreporter-plea = K'ir gaa ka šendaa tabatandi nda k'a hanse, war ga hin ka kaŋyan bayrandiri sanba ir se.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Šilbayhayey: { $details }

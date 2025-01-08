@@ -8,6 +8,7 @@ about-logging-stop-logging = Ngót~tòɁ Logging
 
 ## Logging presets
 
+
 ## Variables:
 ##   $k (String) - Variable name
 ##   $v (String) - Variable value

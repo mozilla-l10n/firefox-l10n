@@ -35,6 +35,9 @@ download-cert-view-text = سرٹئفیكیٹ CA  وچھیو
 
 ## Client Authorization Ask dialog
 
+
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = استیمال كرئن وئل سنز پرزناونچ درخواست
 client-auth-site-description = یئ سایٹ چھئوئ تہئ گزئرش كران زئ تہئ پرنئویو پنن پان سرٹئفیكیٹئ سئتھ
@@ -50,8 +53,6 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = سرٹئفیكیٹ بیك اپ خوفیا لفظ ( دوبارئ)
 set-password-reminder = ضروری:  اگر توہیہ مشید گژھ تُہند سرٹیفیکیٹ بیک اپ پاوس وأرڈ،توہیہ ہیکیو نْہ پتْہ یہ بیک اپ ریسٹور کْرتھ۔ مہربأنی کْرتھ کْریو یہ ریکارڈ أکس محفوظ جایہ منز۔
-
-## Protected Auth dialog
 
 ## Protected authentication alert
 

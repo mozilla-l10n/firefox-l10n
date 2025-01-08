@@ -33,8 +33,6 @@ about-webrtc-aec-logging-toggled-off-state-msg = Файлҳои сабти рӯ�
 
 # The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Навсозии худкор
-# Determines the default state of the Auto Refresh check boxes
-about-webrtc-auto-refresh-default-label = Навсозии худкор ба сурати пешфарз
 # A button which forces a refresh of displayed statistics
 about-webrtc-force-refresh-button = Нав кардан
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
@@ -98,8 +96,8 @@ about-webrtc-save-page-label = Нигоҳ доштани саҳифа
 about-webrtc-debug-mode-msg-label = Реҷаи ислоҳи нуқсонҳо
 about-webrtc-debug-mode-off-state-label = Оғоз кардани реҷаи ислоҳи нуқсонҳо
 about-webrtc-debug-mode-on-state-label = Қатъ кардани реҷаи ислоҳи нуқсонҳо
-about-webrtc-enable-logging-label = Фаъол кардани танзими пешфарзи сабти рӯйдодҳои «WebRTC»
 about-webrtc-stats-heading = Омори ҷаласа
+about-webrtc-enable-logging-label = Фаъол кардани танзими пешфарзи сабти рӯйдодҳои «WebRTC»
 about-webrtc-peerconnections-section-heading = Омори «RTCPeerConnection»
 about-webrtc-peerconnections-section-show-msg = Намоиш додани омори «RTCPeerConnection»
 about-webrtc-peerconnections-section-hide-msg = Пинҳон кардани омори «RTCPeerConnection»
@@ -229,10 +227,7 @@ about-webrtc-round-trip-time-ms = RTT (мс)
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Омори кадрҳои видеоӣ - Муайянкунандаи «MediaStreamTrack»: { $track-identifier }
 
-## These are paths used for saving the about:webrtc page or log files so
-## they can be attached to bug reports.
-## Variables:
-##  $path (String) - The path to which the file is saved.
+##
 
 about-webrtc-save-page-msg = саҳифа ба масири зерин нигоҳ дошта шуд: { $path }
 about-webrtc-debug-mode-off-state-msg = сабти рӯйдодҳои пайгирӣ метавонад дар масири зерин пайдо шавад: { $path }

@@ -23,12 +23,10 @@ newtab-topsites-edit-topsites-header = Yub Kakube maloyo
 newtab-topsites-title-label = Wiye madit
 newtab-topsites-title-input =
     .placeholder = Ket wiye
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Coo onyo mwon URL
 newtab-topsites-url-validation = URL ma tye atir mite
-
 newtab-topsites-image-url-label = URL me cal ma kiyubo
 newtab-topsites-use-image-link = Tii ki cal ma kiyubo…
 newtab-topsites-image-validation = Cano cal pe olare. Tem URL mukene.
@@ -56,15 +54,13 @@ newtab-confirm-delete-history-p2 = Pe ki twero gonyo tic man.
 newtab-menu-section-tooltip =
     .title = Yab jami ayera
     .aria-label = Yab jami ayera
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Kwany
     .aria-label = Kwany
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
-#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+#   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .title = Yab jami ayera
     .aria-label = Yab jami ayera pi { $title }
@@ -152,16 +148,15 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = Kakube maloyo
 # Variables:
-#  $provider (String): Name of the corresponding content provider.
+#   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Lami tam obedo { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Cak yeny, ka wa binyuto coc akwana mabeco, video, ki potbuk mukene ma ilimo cokcokki onyo ma kiketo alamabuk kany.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
-#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Ityeko weng. Rot doki lacen pi lok madito mapol ki bot { $provider }. Pe itwero kuro? Yer lok macuke lamal me nongo lok mabeco mapol ki i but kakube.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
@@ -180,15 +175,14 @@ newtab-pocket-read-more = Lok macuk gi lamal:
 newtab-pocket-learn-more = Nong ngec mapol
 newtab-pocket-cta-button = Nong { -pocket-brand-name }
 newtab-pocket-cta-text = Gwok lok ma imaro ii { -pocket-brand-name }, ka i pik wii ki jami me akwana ma mako wii.
-
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
-
-# A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Gwoki
 newtab-pocket-saved = Kigwoko
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -199,3 +193,32 @@ newtab-error-fallback-refresh-link = Nwo cano potbuk me temo odoco.
 ## Customization Menu
 
 newtab-custom-close-button = Lor
+
+## New Tab Wallpapers
+
+
+## Solid Colors
+
+
+## Abstract
+
+
+## Photographs
+
+
+## New Tab Weather
+
+
+## Topic Labels
+
+
+## Topic Selection Modal
+
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Confirmation modal for blocking a section
+

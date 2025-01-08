@@ -5,6 +5,8 @@
 label-disable = Išjungti
 label-enable = Įjungti
 label-interventions = Intervencijos
+# Variables:
+#   $bug (string) - Bug number
 label-more-information = Daugiau informacijos: klaida { $bug }
 label-overrides = Naršyklės identifikatoriaus pakeitimai
 text-disabled-in-about-config = Ši funkcija buvo išjungta per about:config

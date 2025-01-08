@@ -8,7 +8,6 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC Sa dukuàa
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = na'nïnj sà' about:webrtc danaj
@@ -22,14 +21,12 @@ about-webrtc-aec-logging-msg-label = AEC Ayi'ìj sesiûn
 about-webrtc-aec-logging-off-state-label = Gayi'ì AEC sesiûn
 about-webrtc-aec-logging-on-state-label = Ganikïn' AEC Ayi'ì sesiûn
 about-webrtc-aec-logging-on-state-msg = AEC Hua actibô sa ayi'ì sesiûn (ga'min ngà guì a'mint 'ngo diû nukuaj ni girìt kaptura)
-
 about-webrtc-aec-logging-toggled-on-state-msg = AEC Hua actibô sa ayi'ì sesiûn (ga'min ngà guì a'mint 'ngo diû nukuaj ni girìt kaptura)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Nej archibî gi'iaj kapturandôt ni ga'ue narì't riña: { $path }
 
 ##
-
 
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
@@ -78,12 +75,10 @@ about-webrtc-type-remote = Sa nâ
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Gutà' si yugui
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Sa naguit
-
 about-webrtc-save-page-label = Na'nïnj sà' pâjina
 about-webrtc-debug-mode-msg-label = Huaj da' gi'iaj depurandoj
 about-webrtc-debug-mode-off-state-label = Hua yugui da' gi'iaj depurandoj
@@ -96,7 +91,6 @@ about-webrtc-log-show-msg = digan sa 'iaj konektandoj
     .title = Ga'uì' klik da' nahuin yachìj sesiûn nan
 about-webrtc-log-hide-msg = Gachri huì sa 'iaj konektandoj
     .title = ga'uì' klik da' durê't sesiûn nan
-
 about-webrtc-log-section-show-msg = Digan sa 'iaj konektandoj
     .title = Ga'uì' klik da' nahuin yachìj sesiûn nan
 about-webrtc-log-section-hide-msg = Gachri huì sa 'iaj konektandoj
@@ -154,28 +148,29 @@ about-webrtc-encoder-label = Codofikadôr
 ##
 
 
-## These are paths used for saving the about:webrtc page or log files so
-## they can be attached to bug reports.
-## Variables:
-##  $path (String) - The path to which the file is saved.
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+
+##
+
+
+##
 
 about-webrtc-save-page-msg = pajinâ nanun sà' riña: { $path }
 about-webrtc-debug-mode-off-state-msg = riña naj nuguan' gini'iajt nu sà' riña: { $path }
 about-webrtc-debug-mode-on-state-msg = 'iaj sun modo actîbo, riña 'na' nuguan' gini'iajt nu: { $path }
 about-webrtc-aec-logging-off-state-msg = nej archibî gi'iaj kapturandôt ni ga'ue narì't riña: { $path }
-
+# This path is used for saving the about:webrtc page so it can be attached to
+# bug reports.
+# Variables:
+#  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Pajinâ nanun sà' riña: { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = Riña naj nuguan' gini'iajt nu sà' riña: { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = 'iaj sun modo actîbo, riña 'na' nuguan' gini'iajt nu: { $path }
-
-##
-
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = ri'ij i { $jitter }
-
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.

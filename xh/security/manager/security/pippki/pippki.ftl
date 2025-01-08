@@ -30,6 +30,9 @@ download-cert-view-text = Hlola isatifikethi se-CA
 
 ## Client Authorization Ask dialog
 
+
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = Isicelo Sokuchongeka Somsebenzisi
 client-auth-site-description = Esi siza sicele ukuba uzichonge ngesatifikethi:
@@ -45,8 +48,6 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Igama lokugqithisa lekopi egcinwayo yesatifikethi (kwakhona):
 set-password-reminder = Okubalulekileyo: Ukuba ulibala igama lokugqithisa lekopi egcinwayo yesatifikethi sakho, akusayi kukwazi ukubuyisela ikopi egcinwayo emva kwethuba.  Nceda yigcine ngokuyibhala kwindawo yokugcina ekhuselekileyo.
-
-## Protected Auth dialog
 
 ## Protected authentication alert
 

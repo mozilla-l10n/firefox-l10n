@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Urufatlar
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Aşağıdakiler içün urufatlar
     .accesskey = u
-
 fonts-langgroup-arabic =
     .label = Arapça
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Nisbiy
     .accesskey = N
-
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
-
 fonts-proportional-size = Ölçü
     .accesskey = ç
-
 fonts-serif = Serif
     .accesskey = S
-
 fonts-sans-serif = Sans-serif
     .accesskey = n
-
 fonts-monospace = Yekfeza
     .accesskey = Y
-
 fonts-monospace-size = Ölçü
     .accesskey = ü
-
 fonts-minsize = Asğariy urufat ölçüsi
     .accesskey = s
-
 fonts-minsize-none =
     .label = Yoq
-
 fonts-allow-own =
     .label = Yuqarıdaki saylamlarıñız yerine, saifelerge öz urufatlarını saylamağa izin ber
     .accesskey = z
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

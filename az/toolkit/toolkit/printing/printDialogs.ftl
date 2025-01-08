@@ -103,7 +103,6 @@ print-window =
     .title = Çap edilən
 print-complete =
     .value = Çap tamamlandı.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

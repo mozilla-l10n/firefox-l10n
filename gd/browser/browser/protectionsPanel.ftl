@@ -64,6 +64,9 @@ protections-panel-blocking-label = Bacte
 protections-panel-not-blocking-label = Ceadaichte
 protections-panel-not-found-label = Cha deach gin a lorg
 
+## Smartblock strings
+
+
 ##
 
 protections-panel-settings-label = Roghainnean an dìon

@@ -3,5 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 fxa-qrcode-error-title = ജോടിയാക്കൽ പരാജയപ്പെട്ടു.
-
 fxa-qrcode-error-body = വീണ്ടും ശ്രമിയ്ക്കുക

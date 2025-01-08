@@ -4,7 +4,6 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = ការចូល និង​ពាក្យ​សម្ងាត់
-
 fxaccounts-sign-in-text = ទាញយក​ពាក្យ​សម្ងាត់​របស់​អ្នក​នៅ​លើ​ឧបករណ៍​ផ្សេងៗ​របស់​អ្នក
 fxaccounts-sign-in-sync-button = ចូល ដើម្បី​ធ្វើ​សមកាលកម្ម
 fxaccounts-avatar-button =
@@ -30,6 +29,8 @@ about-logins-menu-menuitem-help = ជំនួយ
 
 login-list =
     .aria-label = ការចូល​ត្រូវ​គ្នា​ជាមួយ​សំណួរ​ស្វែងរក
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
        *[other] ការចូល​ចំនួន { $count }
@@ -98,6 +99,7 @@ login-item-cancel-button = បោះបង់
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+
 ## OS Authentication dialog
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }
@@ -111,19 +113,16 @@ about-logins-edit-login-os-auth-dialog-message-win = ដើម្បីកែស
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = កែសម្រួលការចូលដែលបានរក្សាទុក
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = ដើម្បីមើល​ពាក្យសម្ងាត់​របស់អ្នក សូម​បញ្ចូល​ព័ត៌មាន​ផ្ទៀងផ្ទាត់​ការចូល​ Windows របស់​អ្នក។ វា​ជួយ​ការពារ​សុវត្ថិភាព​គណនី​របស់​អ្នក។
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = បង្ហាញពាក្យសម្ងាត់ដែលបានរក្សាទុក
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = ដើម្បី​ចម្លង​ពាក្យ​សម្ងាត់​របស់អ្នក សូម​បញ្ចូល​ព័ត៌មាន​ផ្ទៀងផ្ទាត់​ការចូល Windows ​របស់អ្នក។ វា​ជួយ​ការពារ​សុវត្ថិភាព​គណនី​របស់​អ្នក។
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = ចម្លងពាក្យសម្ងាត់ដែលបានរក្សាទុក
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = ដើម្បីនាំចេញ​ការចូល​របស់អ្នក សូមបញ្ចូល​ព័ត៌មាន​ផ្ទៀងផ្ទាត់​ការចូល Windows របស់ង្នក។ វា​ជួយ​ការពារ​សុវត្ថិភាព​គណនី​របស់​អ្នក។
 # This message can be seen when attempting to export a password in about:logins
@@ -142,7 +141,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = បោះបង់
 confirmation-dialog-dismiss-button =
     .title = បោះបង់
-
 about-logins-confirm-remove-dialog-title = លុបការចូលនេះចេញ?
 confirm-delete-dialog-message = សកម្មភាព​នេះ​មិន​អាច​ត្រឡប់​វិញ​បាន​ទេ។
 about-logins-confirm-remove-dialog-confirm-button = លុប​ចេញ
@@ -155,13 +153,11 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [1] លុបចេញ
        *[other] លុបចេញ​ទាំងអស់
     }
-
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] បាទ/ចាស ដកការចូលនេះចេញ
        *[other] បាទ/ចាស ដកការចូលទាំងនេះចេញ
     }
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] ដកការចូល { $count } ចេញ?
@@ -172,7 +168,6 @@ about-logins-confirm-remove-all-dialog-message =
         [1] វា​នឹង​លុប​ការចូល​ដែល​អ្នក​បាន​រក្សាទុក​នៅក្នុង { -brand-short-name } និង​ការជូនដំណឹង​អំពី​បំពាន​ទាំងឡាយ​ដែល​បង្ហាញ​នៅត្រង់នេះ។ អ្នក​នឹង​មិន​អាច​ត្រឡប់​សកម្មភាព​នេះដូចដើមវិញ​បាន​ទេ។
        *[other] វា​នឹង​លុប​ការចូល​ដែល​អ្នក​បាន​រក្សាទុក​នៅក្នុង { -brand-short-name } និង​ការបំពាន​ទាំងឡាយ​ដែល​បង្ហាញ​នៅត្រង់នេះ។ អ្នក​នឹង​មិន​អាច​ត្រឡប់​សកម្មភាព​នេះដូចដើមវិញ​បាន​ទេ។
     }
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
        *[other] លុបការចូល { $count } ពី​ឧបករណ៍​ទាំងអស់​ដែរ​ឬ​ទេ?
@@ -188,10 +183,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = នាំចេញការចូលនិងពាក្យសម្ងាត់
 about-logins-confirm-export-dialog-message = ពាក្យសម្ងាត់​របស់​អ្នក​នឹង​ត្រូវបាន​រក្សាទុក​ជាអត្ថបទ​ដែល​អាច​អាន​បាន (ឧ. BadP@ssw0rd) ដូច្នេះ​នរណា​ដែល​អាច​បើក​ឯកសារ​ដែល​បាន​នាំចេញ​ អាច​មើលពាក្យ​សម្ងាត់​ទាំងនោះបាន។
 about-logins-confirm-export-dialog-confirm-button = នាំចេញ…
-
 about-logins-alert-import-title = ការនាំចូល​បាន​បញ្ចប់
 about-logins-alert-import-message = មើល​សេចក្ដី​សង្ខេប​អំពី​ការនាំចូល​លម្អិត
-
 confirm-discard-changes-dialog-title = បោះបង់​ការផ្លាស់ប្ដូរ​ដែល​មិន​បាន​រក្សាទុក?
 confirm-discard-changes-dialog-message = ការផ្លាស់ប្ដូរ​ដែល​មិន​បាន​រក្សាទុក​ទាំងអស់​នឹង​បាត់។
 confirm-discard-changes-dialog-confirm-button = បោះបង់
@@ -221,7 +214,6 @@ about-logins-vulnerable-alert-learn-more-link = ស្វែងយល់​ប�
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = ធាតុ​បញ្ចូល​សម្រាប់ { $loginTitle } ដែល​មាន​ឈ្មោះ​អ្នកប្រើប្រាស់​នោះ​មាន​រួចហើយ។ <a data-l10n-name="duplicate-link">ចូលទៅ​កាន់​ធាតុ​បញ្ចូល​ដែល​មាន​ស្រាប់?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = បញ្ហា​មួយបានកើតឡើងខណៈពេលព្យាយាមរក្សាទុកពាក្យសម្ងាត់នេះ។
 
@@ -270,12 +262,10 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>ការចូល​ថ្មី​ត្រូវបាន​បញ្ចូល៖</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-modified =
     { $count ->
        *[other] <span>ការចូល​ដែល​មាន​ស្រាប់​ត្រូវបាន​ធ្វើ​បច្ចុប្បន្នភាព៖</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>បាន​រកឃើញ​ការចូល​ដែល​ស្ទួនគ្នា៖</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(not imported)</span>
@@ -285,7 +275,6 @@ about-logins-import-dialog-items-error =
        *[other] <span>បញ្ហា៖</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(not imported)</span>
     }
 about-logins-import-dialog-done = រួចរាល់
-
 about-logins-import-dialog-error-title = ការនាំចូល​មាន​បញ្ហា
 about-logins-import-dialog-error-conflicting-values-title = តម្លៃ​ស្ទួន​ច្រើន​សម្រាប់​ការចូល​មួយ
 about-logins-import-dialog-error-conflicting-values-description = ឧទាហរណ៍៖ អ្នក​ប្រើប្រាស់ ពាក្យសម្ងាត់ URLs។ល។ ច្រើន​សម្រាប់​ការចូលមួយ។
@@ -299,10 +288,8 @@ about-logins-import-dialog-error-no-logins-imported = មិន​មាន​�
 about-logins-import-dialog-error-learn-more = ស្វែងយល់​បន្ថែម
 about-logins-import-dialog-error-try-import-again = សាកល្បង​នាំចូល​ម្ដងទៀត...
 about-logins-import-dialog-error-cancel = បោះបង់
-
 about-logins-import-report-title = នាំចូល​សេចក្ដិ​សង្ខេប
 about-logins-import-report-description = ការចូល និង​ពាក្យសម្ងាត់​ត្រូវបាន​នាំចូល​ទៅ { -brand-short-name }។
-
 #
 # Variables:
 #  $number (number) - The number of the row

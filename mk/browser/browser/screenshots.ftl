@@ -33,8 +33,6 @@ screenshots-private-window-error-title = { -screenshots-brand-name } е деак
 screenshots-private-window-error-details = Извинете за незгодата. Работиме на оваа функционалност за во идните верзии.
 screenshots-generic-error-title = Ајдее! { -screenshots-brand-name } излезе од контрола.
 screenshots-generic-error-details = Не сме баш сигурни што се случи. Сакате да се обидете повторно или да направите слика од друга страница?
-screenshots-component-copy-button-label = Копирај
-screenshots-component-download-button-label = Преземи
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.

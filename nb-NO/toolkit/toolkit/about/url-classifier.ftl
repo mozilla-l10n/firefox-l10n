@@ -5,7 +5,11 @@
 url-classifier-title = URL-klassifiseringsinformasjon
 url-classifier-search-title = Søk
 url-classifier-search-result-title = Resultater
+# Variables:
+#   $uri (string) - URI of blocked page
 url-classifier-search-result-uri = URI: { $uri }
+# Variables:
+#   $list (string) - List of tables where the page is blocked
 url-classifier-search-result-list = Liste over tabeller: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = Ugyldig URL
@@ -40,7 +44,6 @@ url-classifier-debug-sb-modules = Loggmoduler for trygg nettlesing
 url-classifier-debug-modules = Gjeldende loggmoduler
 url-classifier-debug-sbjs-modules = JS-logg for trygg nettlesing
 url-classifier-debug-file = Gjeldende loggfil
-
 url-classifier-trigger-update = Trigg oppdatering
 url-classifier-not-available = N/A
 url-classifier-disable-sbjs-log = Slå av JS-logg for trygg nettlesing

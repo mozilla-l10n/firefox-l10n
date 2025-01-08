@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Tulésan
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Tulésan keu
     .accesskey = T
-
 fonts-langgroup-arabic =
     .label = Arab
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Seunanteuët
     .accesskey = S
-
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
-
 fonts-proportional-size = Ukôran
     .accesskey = a
-
 fonts-serif = Serif
     .accesskey = S
-
 fonts-sans-serif = Sans-serif
     .accesskey = n
-
 fonts-monospace = Monospace
     .accesskey = M
-
 fonts-monospace-size = Ukôran
     .accesskey = n
-
 fonts-minsize = Ukôran tulésan abéh ubeut
     .accesskey = e
-
 fonts-minsize-none =
     .label = Hana
-
 fonts-allow-own =
     .label = Peuidin ônwèb pilèh tulésan keudroë, kon lagèë teupilèh heut droëneuh diateuëh
     .accesskey = P
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

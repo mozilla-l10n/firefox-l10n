@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = Chenerador d'informes de fallos
-crashreporter-crash-message = O { -brand-short-name } ha trobau un problema y s'ha zarrau.
 crashreporter-plea = Ta aduyar-nos a diagnosticar y apanyar iste problema, puede ninviar-nos un informe de fallo.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Detalles: { $details }

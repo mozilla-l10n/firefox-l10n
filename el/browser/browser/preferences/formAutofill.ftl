@@ -39,8 +39,6 @@ address-capture-manage-address-button =
     .label = Ρυθμίσεις διεύθυνσης
 address-capture-learn-more-button =
     .label = Μάθετε περισσότερα
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Προσθήκη νέας διεύθυνσης
 address-capture-open-menu-button =
     .aria-label = Άνοιγμα μενού
 address-capture-edit-address-button =
@@ -49,10 +47,10 @@ address-capture-edit-address-button =
 autofill-add-address-title = Προσθήκη διεύθυνσης
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Επεξεργασία διεύθυνσης
-autofill-address-name = Όνομα
 autofill-address-given-name = Όνομα
 autofill-address-additional-name = Μεσαίο όνομα
 autofill-address-family-name = Επώνυμο
+autofill-address-name = Όνομα
 autofill-address-organization = Εταιρεία
 autofill-address-street-address = Διεύθυνση
 autofill-address-street = Διεύθυνση
@@ -108,9 +106,8 @@ autofill-address-eircode = Eircode
 
 ##
 
-
-##
-
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Προσθήκη νέας διεύθυνσης
 autofill-address-country = Χώρα ή περιοχή
 autofill-address-country-only = Χώρα
 autofill-address-tel = Τηλέφωνο

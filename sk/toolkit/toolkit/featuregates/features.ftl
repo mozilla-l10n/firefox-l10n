@@ -59,8 +59,6 @@ sidebar-description = Počas prehliadania získate jednoduchý prístup k svojej
 vertical-tabs-title =
     .label = Vertikálne karty
 vertical-tabs-description = Presuňte karty z hornej časti prehliadača na stranu. Vyžaduje používanie bočného panela. <a data-l10n-name="connect">Zdieľajte spätnú väzbu</a>
-experimental-features-group-browsing =
-    .label = Prehliadanie
 experimental-features-group-developer-tools =
     .label = Vývojárske nástroje
 experimental-features-group-webpage-display =

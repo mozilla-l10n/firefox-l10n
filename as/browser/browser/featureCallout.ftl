@@ -4,7 +4,6 @@
 
 # Callout dialog primary button to advance to next screen
 callout-primary-advance-button-label = পৰৱৰ্তী
-
 # Callout dialog primary button to complete the feature tour
 callout-primary-complete-button-label = বুজিলোঁ!
 
@@ -15,4 +14,16 @@ callout-primary-complete-button-label = বুজিলোঁ!
 
 
 ## PDF.js Feature Tour Strings
+
+
+## Firefox View Discoverability Strings
+
+
+## Split Dismiss Button Labels
+
+
+## Sidebar Strings
+
+
+## Sidebar Callout Survey Strings
 

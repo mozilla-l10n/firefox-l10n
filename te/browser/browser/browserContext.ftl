@@ -233,9 +233,7 @@ main-context-menu-send-to-device =
     .label = పేజీని పరికరానికి పంపు
     .accesskey = D
 
-## The access keys for "Use Saved Login" and "Use Saved Password"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
+##
 
 main-context-menu-use-saved-login =
     .label = భద్రపరచిన ప్రవేశాన్ని వాడు

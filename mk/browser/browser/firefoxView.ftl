@@ -5,51 +5,76 @@
 toolbar-button-firefox-view =
     .label = { -firefoxview-brand-name }
     .tooltiptext = { -firefoxview-brand-name }
-
 firefoxview-page-title = { -firefoxview-brand-name }
-
 firefoxview-close-button =
     .title = Затвори
     .aria-label = Затвори
-
 firefoxview-tabpickup-step-signin-primarybutton = Продолжи
-
 firefoxview-tabpickup-adddevice-learn-how = Дознајте како
-
 firefoxview-tabpickup-synctabs-learn-how = Дознајте како
-
 firefoxview-tabpickup-network-offline-primarybutton = Обиди се повторно
-
 firefoxview-tabpickup-sync-error-primarybutton = Обиди се повторно
-
 firefoxview-closed-tabs-title = Скоро-затворени
-
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Последно активен
-
 # Variables:
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
-
 firefoxview-collapse-button-show =
     .title = Прикажи список
-
 firefoxview-collapse-button-hide =
     .title = Скриј список
 
 ## History in this context refers to browser history
 
+
 ## Open Tabs in this context refers to all open tabs in the browser
+
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+
 ##
+
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
 
+
 ##
+
+
+## Message displayed in Firefox View when the user has no history data
+
+
+##
+
+
+## Message displayed in Firefox View when the user has chosen to never remember History
+
+
+##
+
+
+## Text displayed in a dismissable banner to import bookmarks/history from another browser
+
+
+## Message displayed in Firefox View when the user has no recently closed tabs data
+
+
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
+
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
 

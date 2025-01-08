@@ -9,3 +9,6 @@ more-from-moz-firefox-mobile-title = { -brand-product-name } موبائل
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
+
+## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
+

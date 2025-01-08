@@ -5,53 +5,40 @@
 permissions-window2 =
     .title = Paltooje
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Ñiiɓirɗe lowre
     .accesskey = d
-
 permissions-block =
     .label = Falo
     .accesskey = F
-
 permissions-session =
     .label = Yamir e Naatol
     .accesskey = N
-
 permissions-allow =
     .label = Yamir
     .accesskey = Y
-
 permissions-site-name =
     .label = Lowre geese
-
 permissions-status =
     .label = Ngonka
-
 permissions-remove =
     .label = Momtu Lowre
     .accesskey = M
-
 permissions-remove-all =
     .label = Momtu Lowe Fof
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = Danndu Bayle
     .buttonaccesskeyaccept = D
-
 permissions-searchbox =
     .placeholder = Yiylo e Lowre
-
 permissions-capabilities-allow =
     .label = Yamir
 permissions-capabilities-block =
     .label = Falo
 permissions-capabilities-prompt =
     .label = Naamno Sahaa Kala
-
 permissions-capabilities-listitem-allow =
     .value = Yamir
 permissions-capabilities-listitem-block =
@@ -90,6 +77,9 @@ permissions-exceptions-saved-logins-window2 =
     .title = Paltooje - Ceŋorɗe Danndaaɗi
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Baccooje e ɗeeɗoo lowe ndanndoytaake
+
+## Exceptions - Saved Passwords
+
 
 ## Exceptions - Add-ons
 

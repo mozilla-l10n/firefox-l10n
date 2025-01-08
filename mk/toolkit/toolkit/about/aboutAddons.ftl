@@ -193,7 +193,7 @@ addon-page-options-button =
 ##   $name (string) - Name of the add-on.
 
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name } е некомпатибилна со { -brand-short-name } { $version }.
 # Variables:
 #   $version (string) - Application version.
@@ -218,3 +218,6 @@ details-notification-softblocked-link = Повеќе информации
 details-notification-gmp-pending = { $name } ќе се инсталира за кратко.
 details-notification-gmp-pending2 =
     .message = { $name } ќе се инсталира за кратко.
+
+## Gecko Media Plugins (GMPs)
+

@@ -12,7 +12,7 @@ about-telemetry-addon-details-section = ایڈ۔آن تفصیل
 about-telemetry-late-writes-section = لیٹ رایِٹ
 about-telemetry-full-sql-warning = نوٹ: وار وار ایس کیو ایل ڈی بگینگ چھ اینیبلْڈ۔ فُل ایس کیو ایل سِٹرینگ ہیکو ڈیسپْلے کْرتھ بونْہ کْنئ مگر تِم یِین نْہ سبمِٹ کرنْہ ٹیلی میٹری کُن۔
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = یہ پیج چُھ ہاوان انفارمیشن کارکردگی، ہارڈ وْیر، استعمال تْہ کسٹامایزیشن مُتلق یوس جمع کرنْہ آمُت چُھ ٹیلی میٹری ذریعہ۔ یہ انفارمیشن چھ سبمِٹ کرنْہ آمْژ { $telemetryServerOwner }  کُن یوس مدد کرِ بڑھاونس منز { -brand-full-name }۔{ " " }
 # button label to copy the histogram
 about-telemetry-histogram-copy = نكل كریو
@@ -26,11 +26,11 @@ about-telemetry-slow-sql-statement = سیٹیٹمینٹ{ " " }
 about-telemetry-addon-table-id = ایڈ۔آن آی ڈی
 about-telemetry-addon-table-details = تفصیلات
 # Variables:
-#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+#   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = پرو وایڈر { $addonProvider }
 about-telemetry-keys-header = پراپرٹی
 # Variables:
-#   $lateWriteCount (Integer): the number of the late writes
+#   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = لیٹ رایِٹ#{ $lateWriteCount }{ "  " }
 about-telemetry-stack-title = سیٹیک:
 about-telemetry-memory-map-title = میموری میپ:

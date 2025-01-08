@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -9,13 +10,11 @@
 
 psmerr-ssl-disabled = No se puede connectar de traza segura porque s'ha deshabilitau o protocolo SSL.
 psmerr-ssl2-disabled = No se puede connectar de traza segura porque o puesto emplega una versión antiga y insegura d'o protocolo SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Ha recibiu un certificau no valido.  Contacte con l'administrador d'o servidor u con o remitent d'o certificau no valido y de-les a siguient información:
     
     O suyo certificau Contiene o mesmo numero de serie que unatro certificau emeso por l'autoridat de certificación.  Por favor, aconsiga un nuevo certificau que contienga un numero de serie unico.
-
 ssl-error-export-only-server = No se puede comunicar de traza segura. L'atro cabo d'a connexión no admite zifrau d'alto grau.
 ssl-error-us-only-server = No se puede establir una comunicación de trazasegura.  L'atro cabo d'a connexión requiere zifrau d'alto grau que no ye implementau.
 ssl-error-no-cypher-overlap = No se puede establir una comunicación de forma segura con l'atro cabo d'a connexión: no i hai garra algorismo de zifrau común.
@@ -152,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = No s'ha configurau garra algoritmo 
 ssl-error-unsupported-signature-algorithm = Lo par ha usau una combinación no soportada de signatura y algoritmo hash.
 ssl-error-missing-extended-master-secret = Lo par ha mirau de continar sin una extensión extended_master_secret extension correcta.
 ssl-error-unexpected-extended-master-secret = Lo par ha mirau de continar con una extensión inasperada extended_master_secret.
-
 sec-error-io = S'ha produciu una error de I/O entre l'autorización de seguranza.
 sec-error-library-failure = ha fallau a biblioteca de seguranza.
 sec-error-bad-data = biblioteca de seguranza: s'han recibiu datos incorrectos.
@@ -319,7 +317,6 @@ sec-error-locked-password = A clau s'ha blocau.
 sec-error-unknown-pkcs11-error = Error desconoixida PKCS #11.
 sec-error-bad-crl-dp-url = URL no valida u no soportada en o punto de distribución CRL.
 sec-error-cert-signature-algorithm-disabled = O certificau s'ha sinyau con un algorismo que s'ha inhabilitau porque no ye seguro.
-
 mozilla-pkix-error-key-pinning-failure = O servidor usa key pinning (HPKP) pero s'ha puesto construir garra cadena de certificaus confiables que concuerde con o pinset. As violacions d'o key pinning no se pueden ignorar.
 mozilla-pkix-error-ca-cert-used-as-end-entity = O servidor fa servir un certificau con una extensión de restriccions basica, que lo identifica como una autoridat de certificaus. Esto no habría de pasar en un certificau correctament emeso.
 mozilla-pkix-error-inadequate-key-size = O servidor presentó un certificado con una mida de clau masiau chicota como ta establir una connexión segura.
@@ -334,11 +331,9 @@ mozilla-pkix-error-invalid-integer-encoding = Lo servidor ha presentau un certif
 mozilla-pkix-error-empty-issuer-name = Lo servidor ha presentau un certificau con un nombre d'emisor vuedo.
 mozilla-pkix-error-additional-policy-constraint-failed = Una restricción de politica adicional ha fallau quan se validaba este certificau.
 mozilla-pkix-error-self-signed-cert = Lo certificau no ye confiable per estar auto-firmau.
-
 xp-java-remove-principal-error = No s'ha puesto eliminar o prencipal
 xp-java-delete-privilege-error = No s'ha puesto eliminar o privilechio
 xp-java-cert-not-exists-error = Iste prencipal no tiene un certificau
-
 xp-sec-fortezza-bad-card = A tarcheta Fortezza no s'ha inicializau correctament. Extraiga-la y torne-la ta o suyo emisor.
 xp-sec-fortezza-no-card = No s'ha trobau garra tarcheta Fortezza
 xp-sec-fortezza-none-selected = No s'ha trigau garra tarcheta Fortezza

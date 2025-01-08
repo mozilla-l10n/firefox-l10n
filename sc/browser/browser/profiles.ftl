@@ -4,7 +4,7 @@
 
 profile-window-title = { -brand-short-name } - Sèbera unu profilu de utente
 profile-window-heading = Sèbera unu profilu de { -brand-short-name }
-# This checkbox appears in the choose profile window that appears when the browser is opened. "Show this" refers to choose profile window being shown when the checkbox is enabled.
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = Ammustra custu cando s’aberit { -brand-short-name }
 profile-window-create-profile = Crea unu profilu
@@ -22,5 +22,11 @@ edit-profile-page-delete-button =
 edit-profile-page-duplicate-name = Su nòmine de su profilu esistit giai. Proa·nde unu nou.
 edit-profile-page-profile-saved = Sarvadu
 
-## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
+## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
+
+
+##
+
+
+## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 

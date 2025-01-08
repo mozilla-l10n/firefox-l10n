@@ -6,3 +6,6 @@ alert-close =
     .tooltiptext = এই সূচনা বন্ধ কৰক
 alert-settings-title =
     .tooltiptext = ছেটিংছ
+
+## Reminder Notifications
+

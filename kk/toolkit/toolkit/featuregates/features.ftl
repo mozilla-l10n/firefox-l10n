@@ -59,8 +59,6 @@ sidebar-description = Шолу кезінде тарих, басқа құрыл�
 vertical-tabs-title =
     .label = Вертикалды беттер
 vertical-tabs-description = Беттерді браузердің жоғарғы жағынан бүйір жағына жылжытыңыз. Сондай-ақ бүйір панелін пайдаланып көруді талап етеді. <a data-l10n-name="connect">Кері байланыс хабарламасын жіберу</a>
-experimental-features-group-browsing =
-    .label = Шолу
 experimental-features-group-developer-tools =
     .label = Әзірлеуші құралдары
 experimental-features-group-webpage-display =

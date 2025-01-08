@@ -93,7 +93,7 @@ containers-disable-alert-ok-button =
 containers-disable-alert-cancel-button = Zigcina zivuliwe
 containers-remove-alert-title = Ufuna ukuSusa le Khonteyina?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Ukuba ususa le Khonteyina ngoku, ithebhu yekhonteyina i-{ $count } iya kuvalwa. Uqinisekile ukuba ufuna ukuyisusa le Khonteyina?
@@ -177,11 +177,11 @@ applications-manage-app =
 applications-always-ask =
     .label = Soloko ucela
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Sebenzisa i-{ $plugin-name } (kwi-{ -brand-short-name })
 
@@ -206,6 +206,8 @@ applications-use-other-label =
 
 play-drm-content-learn-more = Funda okungakumbi
 update-application-title = I-{ -brand-short-name } iZihlaziyi
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Uhlobo { $version } <a data-l10n-name="learn-more">Yintoni entsha</a>
 update-history =
     .label = Bonisa iMbali yoHlaziyo…
@@ -237,7 +239,7 @@ performance-limit-content-process-option = Inkqubo yesiqulatho nomlinganiselo
 performance-limit-content-process-enabled-desc = Iinkqubo ezongezelelekileyo zesiqulatho zinokuphucula ukusebenza xa usebenzisa iithebhu ezininzi, kodwa iya kusebenzisa imemori engakumbi.
 performance-limit-content-process-blocked-desc = Ukuphucula inani leenkqubo zeziqulatho kunokwenzeka kuphela ngeenkqubo ezininzi ze-{ -brand-short-name }. <a data-l10n-name="learn-more">Funda indlela yokuhlola ukuba zivuliwe iinkqubo ezininzi</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = Idifolti{ $num } (idifolthi)
 
@@ -289,8 +291,7 @@ choose-bookmark =
 ## Home Section - Firefox Home Content Customization
 
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 
 ##
@@ -317,7 +318,7 @@ search-remove-engine =
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Phindaphinda igama eliphambili
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Ukhethe igama eliphambili elisetyenziswa kungokunje yi"{ $name }". Nceda ukhethe elinye.
 search-keyword-warning-bookmark = Ukhethe igama eliphambili elisetyenziswa kungokunje yibhukhmakhi. Nceda ukhethe elinye.
 
@@ -414,6 +415,9 @@ forms-exceptions =
 forms-saved-logins =
     .label = Ezigciniweyo Logini…
     .accesskey = L
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Guqula iPhaswedi eyiMasta…
     .accesskey = P

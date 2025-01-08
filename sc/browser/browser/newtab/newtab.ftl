@@ -430,3 +430,11 @@ newtab-topic-selection-button-maybe-later = Forsis prus tardu
 newtab-topic-selection-privacy-link = Iscoberi comente amparamus is datos tuos e sa riservadesa tua
 newtab-topic-selection-button-update-interests = Atualiza is interessos tuos
 newtab-topic-selection-button-pick-interests = Sèbera is interessos tuos
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Confirmation modal for blocking a section
+

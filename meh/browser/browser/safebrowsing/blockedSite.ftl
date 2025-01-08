@@ -6,6 +6,8 @@ safeb-blocked-phishing-page-title = Ntu túvi va´a nuu ya´a!
 safeb-blocked-malware-page-title = De kivɨnɨ nuu web ya'a sana xitɨvɨ ka̱a̱nu
 safeb-blocked-unwanted-page-title = Nuu ya'a sa̱naan yɨ´ɨ ka̱a̱ kuvi sá'á xeen
 safeb-blocked-harmful-page-title = Nuu ya´a sa̱naan yɨ´ɨ yu´u malware
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Tu'un advertencia taji <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Kaka ichi yata
 safeb-palm-see-details-label = Kune´ya nakuvi
@@ -22,6 +24,7 @@ safeb-blocked-phishing-page-learn-more = Kuni kue´eka jie da nuu ntu vatu je ph
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
+
 ##
 
 safeb-blocked-malware-page-learn-more-sumo = Kutu'va kue'eka jie a kumi noo´o nu phishing je malware { -brand-short-name } nu <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
@@ -29,10 +32,13 @@ safeb-blocked-malware-page-learn-more-sumo = Kutu'va kue'eka jie a kumi noo´o n
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
+
 ##
+
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
+
 
 ##
 

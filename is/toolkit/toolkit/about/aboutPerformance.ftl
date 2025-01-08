@@ -54,7 +54,6 @@ close-tab =
     .title = Loka flipa
 show-addon =
     .title = Sýna í viðbótastjóra
-
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded

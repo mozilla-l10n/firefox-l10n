@@ -106,3 +106,10 @@ networkProtocolError-title = Faddina de protocollu de rete
 nssBadCert-title = Avisu: arriscu potentziale de seguresa
 nssBadCert-sts-title = Connessione blocada: problema potentziale de seguresa
 certerror-mitm-title = Unu programma est evitende chi { -brand-short-name } si connetet in manera segura a custu situ
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+

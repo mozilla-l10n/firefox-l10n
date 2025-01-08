@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = Avareju ziņuotuojs
-crashreporter-crash-message = { -brand-short-name } gadejās problema, i tei avareja.
 crashreporter-plea = Kab paleidzeitu nūteikt cālūni i salobuot itū problemu, varot nūsyuteit myusim avarejis ziņuojumu.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Seikuoka informaceja: { $details }

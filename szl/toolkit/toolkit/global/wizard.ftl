@@ -11,7 +11,6 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Nazod
     .accesskey = N
-
 wizard-macos-button-next =
     .label = Dalij
     .accesskey = D
@@ -21,14 +20,12 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = Dalij >
     .accesskey = D
-
 wizard-macos-button-finish =
     .label = Fertich
 wizard-linux-button-finish =
     .label = Skōńcz
 wizard-win-button-finish =
     .label = Skōńcz
-
 wizard-macos-button-cancel =
     .label = Pociep
 wizard-linux-button-cancel =

@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Daj ga ma
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Fuentes guenda
     .accesskey = F
-
 fonts-langgroup-arabic =
     .label = Arâbiko
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Guña che
     .accesskey = G
-
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
-
 fonts-proportional-size = Dàj yachìj man
     .accesskey = z
-
 fonts-serif = Serif
     .accesskey = S
-
 fonts-sans-serif = Sans-serif
     .accesskey = n
-
 fonts-monospace = Monospace
     .accesskey = M
-
 fonts-monospace-size = Dàj yachìj man
     .accesskey = e
-
 fonts-minsize = Daj yachij ga letra
     .accesskey = D
-
 fonts-minsize-none =
     .label = Gà' huaj
-
 fonts-allow-own =
     .label = Ga'nin da' ni nej pagina nahui daj ga ma, se ru'ua sa gachin gaj.
     .accesskey = G
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

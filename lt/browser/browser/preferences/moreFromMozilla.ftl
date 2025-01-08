@@ -8,23 +8,20 @@
 more-from-moz-title = Daugiau iš „{ -vendor-short-name }“
 more-from-moz-category =
     .tooltiptext = Daugiau iš „{ -vendor-short-name }“
-
 more-from-moz-subtitle = Atraskite kitus „{ -vendor-short-name }“ produktus, kurie skatina sveikesnį internetą.
-
 more-from-moz-firefox-mobile-title = Mobilioji „{ -brand-product-name }“
 more-from-moz-firefox-mobile-description = Naršyklė mobiliesiems, daugiausiai dėmesio skirianti jūsų privatumui.
-
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Atraskite papildomą anoniminio naršymo ir apsaugos sluoksnį.
-
 more-from-moz-qr-code-box-firefox-mobile-title = Atsisiųskite naudodami savo mobilųjį įrenginį. Nukreipkite kamerą į QR kodą. Kai pasirodys nuoroda, bakstelėkite ją.
 more-from-moz-qr-code-box-firefox-mobile-button = Nusiųsti el. laišką į telefoną
 more-from-moz-qr-code-firefox-mobile-img =
     .alt = QR kodas, skirtas atsisiųsti mobiliąją „{ -brand-product-name }“
-
 more-from-moz-button-mozilla-vpn-2 = Gauti VPN
-
 more-from-moz-learn-more-link = Sužinoti daugiau
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
+
+
+## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 

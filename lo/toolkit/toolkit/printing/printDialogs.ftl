@@ -103,7 +103,6 @@ print-window =
     .title = ກຳລັງພິມ
 print-complete =
     .value = ການພິມໄດ້ສຳເລັດສົມບູນແລ້ວ.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

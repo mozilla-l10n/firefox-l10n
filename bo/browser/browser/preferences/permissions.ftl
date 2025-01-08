@@ -5,49 +5,37 @@
 permissions-window2 =
     .title = དམིགས་བསལ་ཅན
     .style = min-width: 36em
-
 permissions-close-key =
     .key = w
-
 permissions-address = དྲ་ཚིགས་ཀྱི་གནས
     .accesskey = d
-
 permissions-block =
     .label = བཀག་པ
     .accesskey = B
-
 permissions-session =
     .label = སྦྲེལ་ཐུན་ལ་གཏོང་བ
     .accesskey = S
-
 permissions-allow =
     .label = གཏོང་བ
     .accesskey = A
-
 permissions-site-name =
     .label = དྲ་ཚིགས
-
 permissions-status =
     .label = གནས་སྟངས
-
 permissions-remove =
     .label = དྲ་ཚིགས་བསུབ་པ
     .accesskey = R
-
 permissions-remove-all =
     .label = དྲ་ཚིགས་ཡོངས་བསུབ་པ
     .accesskey = e
-
 permissions-searchbox =
     .placeholder = དྲ་ཚིགས་འཚོལ་བ
-
 permissions-capabilities-allow =
     .label = གཏོང་བ
 permissions-capabilities-block =
     .label = བཀག་པ
 permissions-capabilities-prompt =
     .label = དུས་རྟག་ཏུ་འདྲི་བ
-
 permissions-capabilities-listitem-allow =
     .value = གཏོང་བ
 permissions-capabilities-listitem-block =
@@ -86,6 +74,9 @@ permissions-exceptions-saved-logins-window2 =
     .title = Exceptions - Saved Logins
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Logins for the following websites will not be saved
+
+## Exceptions - Saved Passwords
+
 
 ## Exceptions - Add-ons
 

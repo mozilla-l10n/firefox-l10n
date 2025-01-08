@@ -4,26 +4,24 @@
 
 history-title = Uppfærslusaga
 history-intro = Eftirfarandi uppfærslur hafa verið settar inn
-
 close-button-label =
     .buttonlabelcancel = Loka
     .title = Uppfærslusaga
-
 no-updates-label = Engar uppfærslur hafa verið settar inn
 name-header = Nafn uppfærslu
 date-header = Dagsetning uppsetningar
 type-header = Tegund
 state-header = Staða
-
 # Used to display update history
 #
 # Variables:
-#   $name (String): name of the update
-#   $buildID (String): build identifier from the local updates.xml
+#   $name (string) - Name of the update
+#   $buildID (string) - Build identifier from the local updates.xml
 update-full-build-name = { $name } ({ $buildID })
-
 update-details = Nánar
-
+# Variables:
+#   $date (string) - Date the last update was installed
 update-installed-on = Sett upp: { $date }
-
+# Variables:
+#   $status (string) - Status of the last update
 update-status = Staða: { $status }

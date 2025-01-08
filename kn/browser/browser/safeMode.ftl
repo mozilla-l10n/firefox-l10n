@@ -4,5 +4,5 @@
 
 refresh-profile =
     .label = { -brand-short-name } ಪುನ:ಶ್ಚೇತನಗೊಳಿಸು
-# Shown on the safe mode dialog after multiple startup crashes. 
+# Shown on the safe mode dialog after multiple startup crashes.
 auto-safe-mode-description = { -brand-short-name } ಆರಂಭಗೊಳ್ಳುವಾಗ ಅನಿರೀಕ್ಷಿತ ರೀತಿಯಲ್ಲಿ ಮುಚ್ಚಲ್ಪಟ್ಟಿದೆ. ಇದು ಆಡ್-ಆನ್‌ಗಳು ಅಥವ ಬೇರೆ ಯಾವುದೊ ತೊಂದರೆಯಿಂದ ಉಂಟಾಗಿರಬಹುದು. ಸುರಕ್ಷಿತ ಸ್ಥಿತಿಯಲ್ಲಿರಿಸಿಕೊಂಡು ದೋಷನಿವಾರಣೆ ಮಾಡುವ ಮೂಲಕ ತೊಂದರೆಯನ್ನು ಪರಿಹರಿಸಲು ಪ್ರಯತ್ನಿಸಬಹುದು.

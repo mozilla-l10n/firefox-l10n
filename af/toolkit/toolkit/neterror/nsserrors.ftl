@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -9,13 +10,11 @@
 
 psmerr-ssl-disabled = Kan nie beveilig koppel nie omdat die SSL-protokol gedeaktiveer is.
 psmerr-ssl2-disabled = Kan nie beveilig koppel nie omdat die werf 'n ouer, onveilige weergawe van die SSL-protokol gebruik.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     U het 'n ongeldige sertifikaat ontvang.  Kontak die bedieneradministrateur of e-poskorrespondent en gee aan hulle die volgende inligting:
     
     U sertifikaat het dieselfde reeksnommer as 'n ander sertifikaat wat deur die sertifikaatowerheid uitgereik is.  Kry 'n nuwe sertifikaat wat 'n unieke reeksnommer het.
-
 ssl-error-export-only-server = Kon nie beveilig kommunikeer nie. Eweknie werk nie met hoëgraadse enkripsie nie.
 ssl-error-us-only-server = Kon nie beveilig kommunikeer nie. Eweknie vereis hoëgraadse enkripsie, wat nie hier werk nie.
 ssl-error-no-cypher-overlap = Kan nie beveilig met eweknie kommunikeer nie: geen gemene enkripsiealgoritme(s) nie.
@@ -128,7 +127,6 @@ ssl-error-rx-malformed-new-session-ticket = SSL het 'n wanvormde New Session Tic
 ssl-error-unsafe-negotiation = Eweknie het oustyl- (potensieel kwesbare) bladskud probeer.
 ssl-error-rx-unexpected-uncompressed-record = SSL het 'n onverwagse niesaamgepakte rekord ontvang.
 ssl-error-weak-server-ephemeral-dh-key = SSL het 'n swak efemere Diffie-Hellman-sleutel in die bedienersleutelruil-bladskudboodskap ontvang.
-
 sec-error-io = 'n T/A-fout het tydens sekuriteitsmagtiging voorgekom.
 sec-error-library-failure = sekuriteitsprogrammateekfaling.
 sec-error-bad-data = sekuriteitsprogrammateek: het slegte data ontvang.
@@ -293,15 +291,12 @@ sec-error-crl-import-failed = Kon nie 'n SOL probeer invoer nie.
 sec-error-expired-password = Die wagwoord het verval.
 sec-error-locked-password = Die wagwoord is vasgesluit.
 sec-error-unknown-pkcs11-error = Onbekende PKCS #11-fout.
-
 mozilla-pkix-error-inadequate-key-size = Die bediener het 'n sertifikaat aangebied met 'n sleutelgrootte wat te klein is om 'n veilige verbinding te skep.
 mozilla-pkix-error-not-yet-valid-certificate = Die bediener het 'n sertifikaat aangebied wat nog nie geldig is nie.
 mozilla-pkix-error-not-yet-valid-issuer-certificate = 'n Sertifikaat wat nog nie geldig is nie is gebruik om die bediener se sertifikaat uit te reik.
-
 xp-java-remove-principal-error = Kon nie die hoofelement verwyder nie
 xp-java-delete-privilege-error = Kon nie die voorreg skrap nie
 xp-java-cert-not-exists-error = Die hoofelement het nie 'n sertifikaat nie
-
 xp-sec-fortezza-bad-card = Fortezza-kaart nie behoorlik geïnisialiseer nie. Verwyder dit en gee dit terug aan u uitreiker.
 xp-sec-fortezza-no-card = Geen Fortezza-kaart gevind nie
 xp-sec-fortezza-none-selected = Geen Fortezza-kaart gekies nie

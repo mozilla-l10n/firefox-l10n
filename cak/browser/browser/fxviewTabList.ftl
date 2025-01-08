@@ -4,25 +4,20 @@
 
 fxviewtabrow-open-menu-button =
     .title = Tijaq k'utsamaj
-
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 fxviewtabrow-date = { DATETIME($date, dateStyle: "short") }
-
 # Variables:
 #   $time (string) - Time to be formatted based on locale
 fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
-
 # Variables:
 #   $targetURI (string) - URL of tab that will be opened in the new tab
 fxviewtabrow-tabs-list-tab =
     .title = Tijaq { $targetURI } pa jun k'ak'a' ruwi'
-
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = Tewäx { $tabTitle }
-
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = Wakami
 
@@ -44,3 +39,6 @@ fxviewtabrow-save-to-pocket = Tiyak pa { -pocket-brand-name }
     .accesskey = p
 fxviewtabrow-copy-link = Tiwachib'ëx Ximonel
     .accesskey = X
+
+## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+

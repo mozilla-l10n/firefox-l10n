@@ -5,47 +5,35 @@
 permissions-window2 =
     .title = Istisnolar
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Sayt manzili
     .accesskey = m
-
 permissions-block =
     .label = Bloklash
     .accesskey = B
-
 permissions-session =
     .label = Seans uchun ruxsat berish
     .accesskey = S
-
 permissions-allow =
     .label = Ruxsat berish
     .accesskey = a
-
 permissions-site-name =
     .label = Sayt
-
 permissions-status =
     .label = Holati
-
 permissions-remove =
     .label = Saytni olib tashlash
     .accesskey = o
-
 permissions-remove-all =
     .label = Barcha saytlarni olib tashlash
     .accesskey = B
-
 permissions-searchbox =
     .placeholder = Saytdan izlash
-
 permissions-capabilities-allow =
     .label = Ruxsat berish
 permissions-capabilities-block =
     .label = Bloklash
-
 permissions-capabilities-listitem-allow =
     .value = Ruxsat berish
 permissions-capabilities-listitem-block =
@@ -77,6 +65,9 @@ permissions-exceptions-saved-logins-window2 =
     .title = Istisnolar - saqlangan taxalluslar
     .style = { permissions-window2.style }
 
+## Exceptions - Saved Passwords
+
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = Siz xohlagan vebsaytingizga qoʻshimcha dasturlarni oʻrnatishga ruxsat berishingiz mumkin. Ruxsat bermoqchi boʻlgan saytingiz nomini yozing va "Ruxsat berish"ni bosing.
@@ -97,6 +88,7 @@ permissions-exceptions-addons-desc = Siz xohlagan vebsaytingizga qoʻshimcha das
 
 
 ## Site Permissions - Microphone
+
 
 ## Site Permissions - Speaker
 ##

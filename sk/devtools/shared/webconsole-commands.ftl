@@ -22,13 +22,3 @@ webconsole-commands-usage-unblock =
     Zastaví blokovanie sieťových požiadaviek
     
       Prijíma iba jeden parameter, presne ten istý reťazec, ktorý bol predtým odovzdaný príkazu :block.
-# Usage string for :trace command
-webconsole-commands-usage-trace =
-    :trace
-    
-    Prepína sledovač JavaScriptu
-    
-      Podporuje nasledujúce parametre:
-        --logMethod, ktorý je potrebné nastaviť na ‘console’ na záznam do webovej konzoly (predvolené), alebo ‘stdout’ na záznam na štandardný výstup,
-        --prefix Voliteľný reťazec, ktorý bude zaznamenaný pred všetkými záznamami protokolu sledovania,
-        --help alebo --usage na zobrazenie tejto správy.

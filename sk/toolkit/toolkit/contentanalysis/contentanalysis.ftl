@@ -41,21 +41,6 @@ contentanalysis-genericresponse-message = Pre zdroj { $content } odpovedala anal
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-block-message = Vaša organizácia používa softvér na prevenciu straty údajov, ktorý zablokoval tento obsah: { $content }.
 # Variables:
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-error-message = Pri komunikácii so softvérom na prevenciu straty údajov sa vyskytla chyba. Prenos bol odmietnutý pre tento zdroj: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-unspecified-error-message = Pri komunikácii s agentom { $agent } sa vyskytla chyba. Prenos bol odmietnutý pre tento zdroj: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-no-agent-connected-message = Nedá sa pripojiť k agentovi { $agent }. Prenos bol odmietnutý pre tento zdroj: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-invalid-agent-signature-message = Overenie podpisu pre agenta { $agent } zlyhalo. Prenos bol odmietnutý pre tento zdroj: { $content }.
-# Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Localized text describing the content being blocked, such as "Paste denied."
 contentanalysis-unspecified-error-message-content = Pri komunikácii s agentom { $agent } sa vyskytla chyba. { $content }

@@ -8,7 +8,6 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC आंतरिक
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = webrtc केर संबंध मे सहेजू: जहिना
@@ -22,14 +21,12 @@ about-webrtc-aec-logging-msg-label = AEC लॉगिंग
 about-webrtc-aec-logging-off-state-label = AEC लागिंग कएनाय आरँभ करू
 about-webrtc-aec-logging-on-state-label = AEC लागिंग बन्न करू
 about-webrtc-aec-logging-on-state-msg = AEC लागिंग सक्रिय (कॉलर सँग किछु मिनट धरि गप्प करू आओर फेन कैप्चर कएनाय रोकि दिअ)
-
 about-webrtc-aec-logging-toggled-on-state-msg = AEC लागिंग सक्रिय (कॉलर सँग किछु मिनट धरि गप्प करू आओर फेन कैप्चर कएनाय रोकि दिअ)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = कैप्टर लॉग फाइल{ $path } मे भेटल
 
 ##
-
 
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
@@ -69,12 +66,10 @@ about-webrtc-type-remote = रिमोट
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = नामांकित
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = चुनल
-
 about-webrtc-save-page-label = पृष्ठ सहेजू
 about-webrtc-debug-mode-msg-label = डिबग मोड
 about-webrtc-debug-mode-off-state-label = डिबग मोड आरंभ करू
@@ -84,7 +79,6 @@ about-webrtc-log-show-msg = लॉग देखाबू
     .title = विभाग पसारब लेल क्लिक करू
 about-webrtc-log-hide-msg = लॉग नुकाबू
     .title = विभाग समाप्ति कलेल क्लिक करू
-
 about-webrtc-log-section-show-msg = लॉग देखाबू
     .title = विभाग पसारब लेल क्लिक करू
 about-webrtc-log-section-hide-msg = लॉग नुकाबू
@@ -131,22 +125,24 @@ about-webrtc-encoder-label = एनकोडर
 ##
 
 
-## These are paths used for saving the about:webrtc page or log files so
-## they can be attached to bug reports.
-## Variables:
-##  $path (String) - The path to which the file is saved.
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+
+##
+
+
+##
 
 about-webrtc-save-page-msg = :{ $path } पर पृष्ठ सहेजल गेल
 about-webrtc-debug-mode-off-state-msg = ट्रेस लॉग{ $path } पर भेटल
 about-webrtc-debug-mode-on-state-msg = डिबग मोड सक्रिय, { $path } पर लॉग ट्रेस करू
 about-webrtc-aec-logging-off-state-msg = कैप्टर लॉग फाइल{ $path } मे भेटल
-
+# This path is used for saving the about:webrtc page so it can be attached to
+# bug reports.
+# Variables:
+#  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = :{ $path } पर पृष्ठ सहेजल गेल
-about-webrtc-debug-mode-toggled-off-state-msg = ट्रेस लॉग{ $path } पर भेटल
-about-webrtc-debug-mode-toggled-on-state-msg = डिबग मोड सक्रिय, { $path } पर लॉग ट्रेस करू
-
-##
-
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:

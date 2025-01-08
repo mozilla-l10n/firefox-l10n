@@ -5,62 +5,47 @@
 permissions-window2 =
     .title = Ma kiweko woko
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Kanonge me kakube
     .accesskey = d
-
 permissions-block =
     .label = Geng
     .accesskey = G
-
 permissions-session =
     .label = Ye pi Kare
     .accesskey = K
-
 permissions-allow =
     .label = Ye
     .accesskey = Y
-
 permissions-site-name =
     .label = Kakube
-
 permissions-status =
     .label = Kit ma tye kwede
-
 permissions-remove =
     .label = Kwany kakube
     .accesskey = K
-
 permissions-remove-all =
     .label = Kwany kakube weng
     .accesskey = w
-
 permission-dialog =
     .buttonlabelaccept = Gwok alokaloka
     .buttonaccesskeyaccept = G
-
 permissions-autoplay-menu = Makwongo pi kakube weng:
-
 permissions-searchbox =
     .placeholder = Yeny kakube
-
 permissions-capabilities-autoplay-allow =
     .label = Yer Dwon ki Video
 permissions-capabilities-autoplay-block =
     .label = Geng Dwon
 permissions-capabilities-autoplay-blockall =
     .label = Geng Dwon ki Video
-
 permissions-capabilities-allow =
     .label = Ye
 permissions-capabilities-block =
     .label = Geng
 permissions-capabilities-prompt =
     .label = Peny jwijwi
-
 permissions-capabilities-listitem-allow =
     .value = Ye
 permissions-capabilities-listitem-block =
@@ -74,6 +59,7 @@ permissions-invalid-uri-title = Kiketo nying lami kube mape atir
 permissions-invalid-uri-label = Tim ber iket nying lami kube matye atir
 
 ## Exceptions - Tracking Protection
+
 
 ## Exceptions - Cookies
 
@@ -92,6 +78,9 @@ permissions-exceptions-saved-logins-window2 =
     .title = Ma pe gude - Donyo iyie ma kigwoko
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Donyo iyie pi kakube magi pe ki bigwoko gi
+
+## Exceptions - Saved Passwords
+
 
 ## Exceptions - Add-ons
 

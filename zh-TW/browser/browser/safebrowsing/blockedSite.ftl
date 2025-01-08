@@ -10,6 +10,8 @@ safeb-blocked-phishing-page-short-desc = 因為網頁中的內容可能會誤導
 safeb-blocked-malware-page-short-desc = 因為網頁中的內容可能嘗試安裝會偷走或刪除您電腦上個人資料的惡意軟體，{ -brand-short-name } 已封鎖此頁面。
 safeb-blocked-unwanted-page-short-desc = 此頁面可能會故意讓您安裝會傷害上網體驗的程式（例如說修改您的瀏覽器首頁、彈出不想要的廣告），{ -brand-short-name } 已封鎖此頁面。
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } 已封鎖此頁面載入，因為這張網頁可能會嘗試安裝危險程式，用來偷竊或刪除您的資訊（例如相片、密碼、訊息、信用卡號等）。
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = 公告內容由 <a data-l10n-name='advisory_provider'>{ $advisoryname }</a> 提供。
 safeb-palm-accept-label = 回上一頁
 safeb-palm-see-details-label = 檢視詳細資訊

@@ -5,15 +5,12 @@
 app-manager-window2 =
     .title = Programdetaljar
     .style = min-width: 30em; min-height: 20em;
-
 app-manager-remove =
     .label = Fjern
     .accesskey = F
-
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Følgjande program kan brukast for å handsame { $type }-lenker.
-
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Følgjande program kan brukast for å handsame { $type }-innhald.

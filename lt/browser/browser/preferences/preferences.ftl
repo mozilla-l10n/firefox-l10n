@@ -537,8 +537,7 @@ home-prefs-shortcuts-description = Jūsų įrašytos arba lankomos svetainės
 home-prefs-shortcuts-by-option-sponsored =
     .label = Rėmėjų leistukai
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Rekomenduoja „{ $provider }“

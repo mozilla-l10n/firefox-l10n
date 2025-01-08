@@ -4,19 +4,16 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
-
 copy =
     .key = C
 menu-copy =
     .label = Copiar
     .accesskey = C
-
 select-all =
     .key = A
 menu-select-all =
     .label = Tot sèlèccionar
     .accesskey = a
-
 general-tab =
     .label = G·ènèrâl
     .accesskey = G
@@ -40,7 +37,6 @@ general-meta-name =
     .label = Nom
 general-meta-content =
     .label = Contenu
-
 media-tab =
     .label = Mèdias
     .accesskey = M
@@ -68,13 +64,11 @@ media-save-as =
 media-save-image-as =
     .label = Sârvar imâge sos...
     .accesskey = e
-
 perm-tab =
     .label = Pèrmissions
     .accesskey = P
 permissions-for =
     .value = Pèrmissions por:
-
 security-tab =
     .label = Sècuritâ
     .accesskey = S
@@ -124,7 +118,6 @@ media-video = Vidèô
 media-audio = Ôdiô
 saved-passwords-yes = Ouè
 saved-passwords-no = Nan
-
 no-page-title =
     .value = Pâge sen titro:
 general-quirks-mode =
@@ -132,7 +125,6 @@ general-quirks-mode =
 general-strict-mode =
     .value = Modalitâ de rèspèt g·ènèral
 security-no-visits = Nan
-
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
@@ -143,7 +135,6 @@ general-meta-tags =
             [one] Enformacions (1 ètiquèta)
            *[other] Enformacions ({ $tag } ètiquètes)
         }
-
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -154,7 +145,6 @@ security-visits-number =
         [one] Ouè, yuna vês
        *[other] Ouè, { $visits } vês
     }
-
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
@@ -165,7 +155,6 @@ properties-general-size =
             [one] { $kb } quilo-uitène ({ $bytes } uitènes)
            *[other] { $kb } quilo-uitènes  ({ $bytes } uitènes)
         }
-
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:
@@ -177,14 +166,12 @@ media-animated-image-type =
             [one] Imâge de tipo { $type } (animâ a { $frames } cadro)
            *[other] Imâge de tipo { $type } (animâ a { $frames } cadros)
         }
-
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = Imâge de tipo { $type }
-
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -194,14 +181,12 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx } pixèls × { $dimy } pixèls (redimensionâ a { $scaledx } pixèls × { $scaledy } pixèls)
-
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx } pixèls × { $dimy } pixèls
-
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
@@ -213,16 +198,11 @@ media-file-size = { $size } quilo-uitènes
 
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
-# Variables:
-#   $website (string) - The website name
 media-block-image =
     .label = Blocar imâges de { $website }
     .accesskey = B
-
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
-# Variables:
-#   $website (string) - The url of the website pageInfo is getting info for
 page-info-page =
     .title = Enformacions de la pâge - { $website }
 page-info-frame =

@@ -135,6 +135,5 @@ genai-onboarding-gemini-price = Тегін және ақылы опциялар;
 genai-onboarding-huggingchat-generate = Мәтін мен кодты генерациялау
 genai-onboarding-huggingchat-switch = Ашық үлгілердің әртүрлі жиынтығы арасында ауысыңыз
 genai-onboarding-huggingchat-price-2 = Тегін; тіркелгі сұраулардың белгілі бір санынан кейін керек болады
-genai-onboarding-huggingchat-price = Тегін; кейбір тапсырмалар үшін тіркелгі қажет
 genai-onboarding-lechat-generate = Мәтін мен кодты генерациялау
 genai-onboarding-lechat-price = Тегін; тіркелгі қажет

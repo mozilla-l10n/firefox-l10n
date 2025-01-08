@@ -33,3 +33,7 @@ webext-perms-description-topSites = دسترسی به تاریخچه مرورک�
 webext-perms-description-trialML = دریافت و اجرای مدل‌های هوش مصنوعی بر روی دستگاه شما
 webext-perms-description-userScripts = اجازه دادن به اسکریپت‌های شخص ثالث تایید نشده برای دسترسی به داده‌های شما
 webext-perms-description-webNavigation = دسترسی به فعالیت ها در طی گشتن
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

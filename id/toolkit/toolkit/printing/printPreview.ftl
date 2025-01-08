@@ -38,7 +38,6 @@ printpreview-page-setup =
 printpreview-page =
     .value = Laman:
     .accesskey = a
-
 # Variables
 # $sheetNum (integer) - The current sheet number
 # $sheetCount (integer) - The total number of sheets to print
@@ -62,7 +61,6 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Laman terakhir
-
 printpreview-homearrow-button =
     .title = Halaman pertama
 printpreview-previousarrow-button =

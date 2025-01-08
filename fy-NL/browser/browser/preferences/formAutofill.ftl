@@ -39,8 +39,6 @@ address-capture-manage-address-button =
     .label = Adresynstellingen
 address-capture-learn-more-button =
     .label = Mear ynfo
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Nij adres tafoegje
 address-capture-open-menu-button =
     .aria-label = Menu iepenje
 address-capture-edit-address-button =
@@ -49,10 +47,10 @@ address-capture-edit-address-button =
 autofill-add-address-title = Adres tafoegje
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Adres bewurkje
-autofill-address-name = Namme
 autofill-address-given-name = Foarnamme
 autofill-address-additional-name = Twadde namme
 autofill-address-family-name = Efternamme
+autofill-address-name = Namme
 autofill-address-organization = Organisaasje
 autofill-address-street-address = Adres
 autofill-address-street = Adres
@@ -108,9 +106,8 @@ autofill-address-eircode = Eircode
 
 ##
 
-
-##
-
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Nij adres tafoegje
 autofill-address-country = Lân of regio
 autofill-address-country-only = Lân
 autofill-address-tel = Telefoan
@@ -122,11 +119,6 @@ autofill-country-warning-message = Formulieren automatysk ynfolje is op dit stui
 autofill-add-new-card-title = Nije creditcard tafoegje
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Creditcard bewurkje
-autofill-message-tooltip = Berjocht oer automatysk ynfoljen besjen
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-card-title = Kaart tafoegje
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title2 = Kaart bewurkje
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -135,6 +127,11 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } probearret creditcardgegevens te toanen. Befêstigje hjirûnder tagong ta dizze Windows-account.
        *[other] { -brand-short-name } probearret creditcardgegevens te toanen.
     }
+autofill-message-tooltip = Berjocht oer automatysk ynfoljen besjen
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Kaart tafoegje
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Kaart bewurkje
 autofill-card-number = Kaartnûmer
 autofill-card-invalid-number = Fier in jildich kaartnûmer yn
 autofill-card-name-on-card = Namme op de kaart

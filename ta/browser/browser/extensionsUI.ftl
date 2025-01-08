@@ -9,3 +9,5 @@ webext-default-search-no =
     .label = வேண்டாம்
     .accesskey = வே
 
+## A modal confirmation dialog to allow an extension on quarantined domains.
+

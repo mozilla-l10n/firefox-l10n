@@ -251,6 +251,9 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = ජංගම පොත්යොමු
 
+## Profiles Menu
+
+
 ## Tools Menu
 
 menu-tools =

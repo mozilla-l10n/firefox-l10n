@@ -39,8 +39,6 @@ address-capture-manage-address-button =
     .label = Agordoj de adresoj
 address-capture-learn-more-button =
     .label = Pli da informo
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Aldoni novan adreson
 address-capture-open-menu-button =
     .aria-label = Malfermi menuon
 address-capture-edit-address-button =
@@ -49,10 +47,10 @@ address-capture-edit-address-button =
 autofill-add-address-title = Aldoni adreson
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Redakti adreson
-autofill-address-name = Nomo
 autofill-address-given-name = Nomo
 autofill-address-additional-name = Dua nomo
 autofill-address-family-name = Familia nomo
+autofill-address-name = Nomo
 autofill-address-organization = Organizo
 autofill-address-street-address = Strata adreso
 autofill-address-street = Strata adreso
@@ -108,9 +106,8 @@ autofill-address-eircode = Koda poŝto (Eircode)
 
 ##
 
-
-##
-
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Aldoni novan adreson
 autofill-address-country = Lando aŭ regiono
 autofill-address-country-only = Lando
 autofill-address-tel = Telefono

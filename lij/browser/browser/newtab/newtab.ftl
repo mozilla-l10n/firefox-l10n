@@ -23,12 +23,10 @@ newtab-topsites-edit-topsites-header = Cangia scito prinçipâ
 newtab-topsites-title-label = Titolo
 newtab-topsites-title-input =
     .placeholder = Scrivi 'n titolo
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Scrivi ò incòlla URL
 newtab-topsites-url-validation = Serve 'na URL bonn-a
-
 newtab-topsites-image-url-label = URL da inmagine personalizâ
 newtab-topsites-use-image-link = Adeuvia inagine personalizâ…
 newtab-topsites-image-validation = Erô into caregamento de l'inmagine. Preuva 'n atra URL.
@@ -56,7 +54,6 @@ newtab-confirm-delete-history-p2 = Sta açion a no se peu anulâ.
 newtab-menu-section-tooltip =
     .title = Arvi menû
     .aria-label = Arvi menû
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -118,7 +115,6 @@ newtab-label-bookmarked = Azonto a-i segnalibbri
 newtab-label-recommended = De tentensa
 newtab-label-saved = Sarvou in { -pocket-brand-name }
 newtab-label-download = Descaregou
-
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #   $source (string) - The name of a company or their domain
@@ -156,7 +152,6 @@ newtab-section-header-pocket = Consegiou da { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Iniçia a navegâ e, in sta seçion, saian mostræ articoli, video e atre pagine vixitæ de fresco ò azonti a-i segnalibbri.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
@@ -177,13 +172,11 @@ newtab-pocket-more-recommendations = Atri conseggi
 newtab-pocket-learn-more = Atre informaçioin
 newtab-pocket-cta-button = Piggite { -pocket-brand-name }
 newtab-pocket-cta-text = Sarva e stöie che te piaxan into { -pocket-brand-name }, e carega torna a mente con letue che incantan.
-
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
-
-# A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Sarva
 newtab-pocket-saved = Sarvòu
+
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -206,3 +199,32 @@ newtab-custom-row-selector =
     }
 newtab-custom-sponsored-sites = Scorsaieu sponsorizæ
 newtab-custom-pocket-title = Consegiou da { -pocket-brand-name }
+
+## New Tab Wallpapers
+
+
+## Solid Colors
+
+
+## Abstract
+
+
+## Photographs
+
+
+## New Tab Weather
+
+
+## Topic Labels
+
+
+## Topic Selection Modal
+
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Confirmation modal for blocking a section
+

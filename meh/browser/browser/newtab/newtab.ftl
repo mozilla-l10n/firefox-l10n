@@ -15,12 +15,12 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Nánuku
     .aria-label = Nánuku
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Nánuku ji { $engine } a xíín chu'un iin nuu
 newtab-search-box-handoff-text-no-engine = Nánuku a xíín chu´un iin nuu
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
     .placeholder = Nánuku ji { $engine } a xíín chu'un iin nuu
     .title = Nánuku ji { $engine } a xíín chu'un iin nuu
@@ -80,7 +80,7 @@ newtab-dismiss-button-tooltip =
     .aria-label = Xita
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
-#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+#   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .title = Síne menu
     .aria-label = Síne menu nuu { $title }
@@ -147,11 +147,11 @@ newtab-label-saved = Chuva´a nuu { -pocket-brand-name }
 newtab-label-download = Nxinuu
 # This string is used in the story cards to indicate sponsored content
 # Variables:
-#  $sponsorOrSource (String): This is the name of a company or their domain
+#   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Patrocinado
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
-#  $sponsor (String): This is the name of a sponsor
+#   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = Ya'a teku jie { $sponsor }
 
 ## Section Menu: These strings are displayed in the section context menu and are
@@ -180,7 +180,7 @@ newtab-section-expand-section-label =
 newtab-section-header-topsites = Da sitio vii
 newtab-section-header-recent-activity = Da a skuata nsá´á
 # Variables:
-#  $provider (String): Name of the corresponding content provider.
+#   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = A kachi { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
@@ -188,7 +188,7 @@ newtab-section-header-pocket = A kachi { $provider }
 newtab-empty-section-highlights = Kajie´e nánuku, je xine´e ani da tutu vii, tutu nátava káná ji da inka nuu nnánukunu.
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
-#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Niko íchika je nánuku kue'ka tu'un { $provider }. ¿Nkunetunu? Kaji iin tu'un vii je nani'inu kue'eka tu'un vii nuu kuaiyo web.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
@@ -209,6 +209,9 @@ newtab-pocket-learn-more = Ka´vi kue´eka
 newtab-pocket-cta-button = Taji { -pocket-brand-name }
 newtab-pocket-cta-text = Chuva'a da tu'un jiniñu'unu { -pocket-brand-name } je chu'un mikinu ji tu'un ka'vi vii.
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 
@@ -225,6 +228,8 @@ newtab-custom-shortcuts-subtitle = Da nuu chuva´anu a xíín ne´yanu
 newtab-custom-shortcuts-toggle =
     .label = Da acceso ñama
     .description = Da nuu chuva´anu a xíín ne´yanu
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
        *[other] { $num } filas
@@ -234,3 +239,32 @@ newtab-custom-pocket-sponsored = Da historias patrocinadas
 newtab-custom-recent-title = Da a skuata nsá´á
 newtab-custom-close-button = Nakasɨ
 newtab-custom-settings = Tetiñu kue´e da kei´i
+
+## New Tab Wallpapers
+
+
+## Solid Colors
+
+
+## Abstract
+
+
+## Photographs
+
+
+## New Tab Weather
+
+
+## Topic Labels
+
+
+## Topic Selection Modal
+
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Confirmation modal for blocking a section
+

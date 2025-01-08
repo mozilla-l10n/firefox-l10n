@@ -7,19 +7,14 @@
 
 appmenuitem-banner-update-downloading =
     .label = Scarego l'agiornamento de { -brand-shorter-name }
-
 appmenuitem-banner-update-available =
     .label = Gh'é 'n agiornamento — scarega oua
-
 appmenuitem-banner-update-manual =
     .label = Gh'é 'n agiornamento — scarega oua
-
 appmenuitem-banner-update-unsupported =
     .label = No riescio a agiornâ — scistema inconpatibile
-
 appmenuitem-banner-update-restart =
     .label = Gh'é 'n agiornamento — arvi torna oua
-
 appmenuitem-new-tab =
     .label = Neuvo feuggio
 appmenuitem-new-window =
@@ -58,7 +53,6 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Særa menû aplicaçion
     .label = { -brand-short-name }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -79,30 +73,23 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Intra pe scincronizâ…
 appmenu-remote-tabs-turn-on-sync =
     .label = Açendi scincronizaçion…
-
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Fanni vedde ciù feuggi
     .tooltiptext = Fanni vedde ciù feuggi da sto dispoxitivo
-
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nisciun feuggio averto
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Ativâ a scincronizaçion di feuggi pe vedde i feuggi averti inti atri dispoxitivi.
-
 appmenu-remote-tabs-opensettings =
     .label = Inpostaçioin
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = T'eu amiâ chi i teu feuggi da atri dipoxitivi?
-
 appmenu-remote-tabs-connectdevice =
     .label = Conetti 'n atro dispoxitivo
 appmenu-remote-tabs-welcome = Amia a lista de tutti i feuggi da-i atri dispoxitivi.
 appmenu-remote-tabs-unverified = O teu conto o deve ese verificou.
-
 appmenuitem-fxa-toolbar-sync-now2 = Scincronizza oua
 appmenuitem-fxa-sign-in = Acedi a { -brand-product-name }…
 appmenuitem-fxa-manage-account = Gestisci account
@@ -116,14 +103,12 @@ appmenu-fxa-sync-and-save-data2 = Scincronizza e sarva i dæti
 appmenu-fxa-signed-in-label = Intra
 appmenu-fxa-setup-sync =
     .label = Açendi scincronizaçion…
-
 appmenuitem-save-page =
     .label = Sarva pagina co-o nomme…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Cöse gh'é de neuvo
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -135,37 +120,27 @@ whatsnew-panel-footer-checkbox =
 ## "Enable Profiler Menu Button".
 
 profiler-popup-header-text = { -profiler-brand-name }{ -profiler-brand-name }
-
 profiler-popup-reveal-description-button =
     .aria-label = Mostra ciù informaçioin
-
 profiler-popup-description-title =
     .value = Registra, analizza, condividdi
-
 profiler-popup-settings =
     .value = Inpostaçioin
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Cangia Inpostaçion…
-
 profiler-popup-recording-screen = Registraçion…
-
 profiler-popup-start-recording-button =
     .label = Inàndia Registraçión
-
 profiler-popup-discard-button =
     .label = Ignòra
-
 profiler-popup-capture-button =
     .label = Aquiziçion
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Maiosc+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -177,33 +152,27 @@ profiler-popup-capture-shortcut =
 
 
 # Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/popup/background.jsm.js
+# devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
 
 # Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
+# devtools/client/performance-new/shared/background.sys.mjs
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
 profiler-popup-presets-web-developer-label =
     .label = Svilupatô web
-
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
-
 profiler-popup-presets-graphics-label =
     .label = Grafica
-
 profiler-popup-presets-media-label =
     .label = Media
-
 profiler-popup-presets-networking-label =
     .label = Ræ
-
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Energia
-
 profiler-popup-presets-custom-label =
     .label = Personalizzou
 
@@ -269,7 +238,12 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Personaliza bara di atressi…
-
 appmenu-developer-tools-subheader = Atressi do navegatô
 appmenu-developer-tools-extensions =
     .label = Estenscioin pe-i svilopatoî
+
+## Panel for privacy and security products
+
+
+## Profiles panel
+

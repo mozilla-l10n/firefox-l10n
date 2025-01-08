@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Fōnty
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Fōnty do
     .accesskey = F
-
 fonts-langgroup-arabic =
     .label = arabske
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporcjōnalny
     .accesskey = P
-
 fonts-default-serif =
     .label = Szeryfowy
 fonts-default-sans-serif =
     .label = Bezszeryfowy
-
 fonts-proportional-size = Srogość
     .accesskey = S
-
 fonts-serif = Szeryfowy
     .accesskey = z
-
 fonts-sans-serif = Bezszeryfowy
     .accesskey = z
-
 fonts-monospace = Ôbstōno szyrokość
     .accesskey = O
-
 fonts-monospace-size = Srogość:
     .accesskey = g
-
 fonts-minsize = Minimalno srogość fōnta
     .accesskey = o
-
 fonts-minsize-none =
     .label = Żodyn
-
 fonts-allow-own =
     .label = Przizwolej, coby strōny używały włosnych fōntōw, a niy tych sam ôbranych
     .accesskey = P
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

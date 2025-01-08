@@ -39,8 +39,6 @@ address-capture-manage-address-button =
     .label = ਸਿਰਨਾਵਾਂ ਸੈਟਿੰਗਾਂ
 address-capture-learn-more-button =
     .label = ਹੋਰ ਜਾਣੋ
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = ਨਵਾਂ ਸਿਰਨਾਵਾਂ ਜੋੜੋ
 address-capture-open-menu-button =
     .aria-label = ਮੇਨੂ ਖੋਲ੍ਹੋ
 address-capture-edit-address-button =
@@ -49,10 +47,10 @@ address-capture-edit-address-button =
 autofill-add-address-title = ਸਿਰਨਾਵਾਂ ਜੋੜੋ
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = ਸਿਰਨਾਵਾਂ ਨੂੰ ਸੋਧੋ
-autofill-address-name = ਨਾਂ
 autofill-address-given-name = ਪਹਿਲਾਂ ਨਾਂ
 autofill-address-additional-name = ਮੱਧ ਨਾਂ
 autofill-address-family-name = ਆਖਰੀ ਨਾਂ
+autofill-address-name = ਨਾਂ
 autofill-address-organization = ਸੰਗਠਨ
 autofill-address-street-address = ਸੜਕ ਸਿਰਨਾਵਾਂ
 autofill-address-street = ਸੜਕ ਸਿਰਨਾਵਾਂ
@@ -108,9 +106,8 @@ autofill-address-eircode = ਇਰਕੋਡ
 
 ##
 
-
-##
-
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = ਨਵਾਂ ਸਿਰਨਾਵਾਂ ਜੋੜੋ
 autofill-address-country = ਦੇਸ਼ ਜਾਂ ਖਿੱਤਾ
 autofill-address-country-only = ਦੇਸ਼
 autofill-address-tel = ਫ਼ੋਨ
@@ -122,11 +119,6 @@ autofill-country-warning-message = ਫ਼ਾਰਮ ਖੁਦ-ਭਰੋ ਇਸ ਵ�
 autofill-add-new-card-title = ਨਵਾਂ ਕਰੈਡਿਟ ਕਾਰਡ ਜੋੜੋ
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = ਕਰੈਡਿਟ ਕਾਰਡ ਸੋਧੋ
-autofill-message-tooltip = ਆਪੇ-ਭਰਨ ਬਾਰੇ ਸੁਨੇਹਾ ਵੇਖੋ
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-card-title = ਕਾਰਡ ਜੋੜੋ
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title2 = ਕਾਰਡ ਨੂੰ ਸੋਧੋ
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -135,6 +127,11 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } ਕਰੈਡਿਟ ਕਾਰਡ ਜਾਣਕਾਰੀ ਵਿਖਾਉਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਹੈ। ਹੇਠ ਦਿੱਤੇ ਇਸ ਵਿੰਡੋ ਖਾਤੇ ਲਈ ਪਹੁੰਚ ਦੀ ਤਸਦੀਕ ਕਰੋ।
        *[other] { -brand-short-name } ਕਰੈਡਿਟ ਕਾਰਡ ਜਾਣਾਕਰੀ ਦਿਖਾਉਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਹੈ।
     }
+autofill-message-tooltip = ਆਪੇ-ਭਰਨ ਬਾਰੇ ਸੁਨੇਹਾ ਵੇਖੋ
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = ਕਾਰਡ ਜੋੜੋ
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = ਕਾਰਡ ਨੂੰ ਸੋਧੋ
 autofill-card-number = ਕਾਰਡ ਨੰਬਰ
 autofill-card-invalid-number = ਢੁੱਕਵਾਂ ਕਾਰਡ ਨੰਬਰ ਦਿਓ
 autofill-card-name-on-card = ਕਾਰਡ 'ਤੇ ਨਾਂ

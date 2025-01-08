@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Fontes
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Fontes por
     .accesskey = F
-
 fonts-langgroup-arabic =
     .label = Arabo
 fonts-langgroup-armenian =
@@ -77,24 +75,13 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporcionèl
     .accesskey = P
-
 fonts-proportional-size = Talye
     .accesskey = T
-
 fonts-monospace = Monospaço
     .accesskey = M
-
 fonts-monospace-size = Talye
     .accesskey = T
-
 fonts-minsize = Talye minima de la fonta
     .accesskey = m
-
 fonts-minsize-none =
     .label = Niuna
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-

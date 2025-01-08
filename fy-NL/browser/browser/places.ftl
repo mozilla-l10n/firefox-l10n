@@ -99,7 +99,7 @@ places-delete-page =
            *[other] Siden fuortsmite
         }
     .accesskey = S
-# Managed bookmarks are created by an administrator and cannot be changed by the user.
+# Managed bookmarks are created by enterprise policy and cannot be changed by the user.
 managed-bookmarks =
     .label = Behearde blêdwizers
 # This label is used when a managed bookmarks folder doesn't have a name.

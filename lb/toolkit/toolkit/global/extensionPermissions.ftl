@@ -12,3 +12,7 @@ webext-perms-description-browserSettings = Liesen an ännere vun de Browserastel
 webext-perms-description-downloads-open = Erofgeluede Fichieren opmaachen
 webext-perms-description-find = Den Text vun allen oppenen Tabs liesen
 webext-perms-description-notifications = Matdeelunge weisen
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

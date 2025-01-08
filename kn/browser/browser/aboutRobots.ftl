@@ -25,5 +25,6 @@ error-long-desc4 = ಯಂತ್ರಮಾನವರು ಹೊಳೆಯುವ ಲ�
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = ಅಲ್ಲದೆ ಅವು ಒಂದು ಯೋಜನೆಯನ್ನು ಹೊಂದಿರುತ್ತವೆ.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = ಮರಳಿ ಪ್ರಯತ್ನಿಸು
     .label2 = ದಯವಿಟ್ಟು ಈ ಗುಂಡಿಯನ್ನು ಮತ್ತೊಮ್ಮೆ ಒತ್ತಬೇಡಿ.

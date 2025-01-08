@@ -33,3 +33,7 @@ webext-perms-description-topSites = Πρόσβαση στο ιστορικό π�
 webext-perms-description-trialML = Λήψη και εκτέλεση μοντέλων AI στη συσκευή
 webext-perms-description-userScripts = Να επιτρέπεται σε μη επαληθευμένα σενάρια τρίτων η πρόσβαση στα δεδομένα σας
 webext-perms-description-webNavigation = Πρόσβαση στη δραστηριότητα του φυλλομετρητή κατά την πλοήγηση
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

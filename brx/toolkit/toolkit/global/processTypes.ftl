@@ -5,7 +5,6 @@
 
 ##
 ## Localization for remote types defined in RemoteType.h
-##
 
 process-type-web = वेब आयदा
 process-type-extension = बारायनायफोर
@@ -17,7 +16,6 @@ process-type-webisolated = आलादा वेब आयदा
 
 ##
 ## Localization for Gecko process types defined in GeckoProcessTypes.h
-##
 
 # process used to communicate with the GPU for
 # graphics acceleration
@@ -25,5 +23,4 @@ process-type-gpu = GPU
 
 ##
 ## Other
-##
 

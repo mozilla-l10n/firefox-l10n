@@ -10,7 +10,6 @@ about-private-browsing-search-btn =
     .title = Nānà\'huì\' riña web
 about-private-browsing-not-private = Se riña ventana hua huìi nut akuan' nï
 about-private-browsing-learn-more-link = Gāhuin chrūn doj
-
 about-private-browsing-focus-promo-cta = Nādunïnj { -focus-brand-name }
 
 ## The following strings will be used for experiments in Fx99 and Fx100
@@ -27,7 +26,6 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Narán
-
 about-private-browsing-promo-close-button =
     .title = Nārán
 
@@ -35,4 +33,7 @@ about-private-browsing-promo-close-button =
 
 
 ## Strings used in a promotion message for cookie banner reduction
+
+
+## Strings for Felt Privacy v1 experiments in 119
 

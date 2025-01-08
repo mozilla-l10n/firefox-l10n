@@ -4,27 +4,21 @@
 
 permissions-close-key =
     .key = w
-
 permissions-block =
     .label = بلاك
     .accesskey = B
-
 permissions-session =
     .label = خٲطرئ  اجازتھ تئ سیشن
     .accesskey = S
-
 permissions-allow =
     .label = تئ اجازتھ
     .accesskey = A
-
 permissions-status =
     .label = سٹیٹس
-
 permissions-capabilities-allow =
     .label = اجازتھ
 permissions-capabilities-block =
     .label = بلاك
-
 permissions-capabilities-listitem-allow =
     .value = اجازتھ
 permissions-capabilities-listitem-block =
@@ -45,6 +39,7 @@ permissions-invalid-uri-label = منظور شُدئ ہوسٹ ناو كریو د�
 
 ## Exceptions - HTTPS-Only Mode
 
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = توہیہ ہیکیو  مخصوص کْرتھ ذِ کمن ویب سایٹن چُھ اجازت پاپ۔اپ وینڈو اوپْن  کرنُک۔ تمہِ سایٹِہ ہُند برابر پتاہ کْریو ٹایپ یس  توہیہ  چھیو یژھان اجازت دیون  تْہ پتْہ کْریو کْلک اجازت دِیو۔
@@ -52,14 +47,15 @@ permissions-exceptions-popup-desc = توہیہ ہیکیو  مخصوص کْرتھ
 ## Exceptions - Saved Logins
 
 
+## Exceptions - Saved Passwords
+
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = توہیہ ہیکیو  مخصوص کْرتھ ذِ کمن ویب سایٹن چُھ اجازت ایڈ۔آن انسٹال کرنُک۔ تمہِ سایٹِہ ہُند برابر پتاہ کْریو ٹایپ یس  توہیہ  چھیو یژھان اجازت دیون  تْہ پتْہ کْریو کْلک اجازت دِیو۔
 
-## Exceptions - Autoplay Media
-
-
 ## Site Permissions - Autoplay
+
 
 ## Site Permissions - Notifications
 
@@ -69,10 +65,12 @@ permissions-exceptions-addons-desc = توہیہ ہیکیو  مخصوص کْرت�
 
 ## Site Permissions - Virtual Reality
 
+
 ## Site Permissions - Camera
 
 
 ## Site Permissions - Microphone
+
 
 ## Site Permissions - Speaker
 ##

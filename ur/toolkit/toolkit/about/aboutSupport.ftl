@@ -4,7 +4,6 @@
 
 page-title = ازالہ کاری معلومات
 page-subtitle = اس صفحے کو آپ ایک مسئلہ کو حل کرنے کی کوشش کر رہے ہیں جب مفید ہو سکتا ہے کہ تکنیکی معلومات پر مشتمل ہے. آپ { -brand-short-name },  بارے میں عمومی سوالات کے جوابات کے لئے تلاش کر رہے ہیں تو ؛، ہمارے <a data-l10n-name="support-link"> حمایت کی ویب سائٹ کو چیک کریں</a>.
-
 crashes-title = کریش رپورٹیں
 crashes-id = شناخت رپورٹ کریں
 crashes-send-date = ارسال کردہ
@@ -55,7 +54,6 @@ app-basics-enterprise-policies = انٹرپرائز کی پالیسیوں
 app-basics-location-service-key-google = Google  محل وقوع خدمت کی کلید
 app-basics-key-mozilla = ٘Mozilla مقام سروس کلی
 app-basics-safe-mode = محفوظ موڈ
-
 show-dir-label =
     { PLATFORM() ->
         [macos] ڈھونڈ کار میں دکھائیں
@@ -106,7 +104,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = پروسیسنگ کی قسم
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = دلائل
-
 restart-button-label = دوبارہ شروع کریں
 
 ## Media titles
@@ -128,6 +125,12 @@ media-device-rate = شرح
 media-device-latency = لیٹینسی
 
 ## Codec support table
+
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
 
 ##
 
@@ -163,7 +166,6 @@ report-crash-for-days =
         [one] پچھلے { $days } دن کی کریش رپورٹیں
        *[other] پچھلے { $days } دنوں کی کریش رپورٹیں
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -171,7 +173,6 @@ crashes-time-minutes =
         [one] { $minutes } منٹ قبل
        *[other] { $minutes } منٹ قبل
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -179,7 +180,6 @@ crashes-time-hours =
         [one] { $hours } گھنٹہ قبل
        *[other] { $hours } گھنٹے قبل
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -187,7 +187,6 @@ crashes-time-days =
         [one] { $days } دن قبل
        *[other] { $days } دن قبل
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -195,7 +194,6 @@ pending-reports =
         [one] تمام کریش رپورٹیں(دیئے گئے وقت کی حد میں { $reports } زیر التواء حادثہ بھی شامل ہے)
        *[other] تمام کریش رپورٹیں(دیئے گئے وقت کی حد میں { $reports } زیر التواء حادثہ بھی شامل ہے)
     }
-
 raw-data-copied = خام کوائف تختہ تراشہ پر نقل ہو گئے
 text-copied = متن نقل شدہ پر نقل ہو گیا
 
@@ -208,11 +206,9 @@ blocked-mismatched-version = رجسٹری اور DLL  کے درمیان آپ گ�
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = آپ کے گرافکس ڈرائیور ورژن کے لئے بلاک ہے اپنے گرافکس ڈرائیور کو ورژن { $driverVersion } یا جدید تر ورژن میں اپڈیٹ کرنے کی کوشیش کرییں۔
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType پیرامیٹر
-
 compositing = کمپوزیٹنگ
 hardware-h264 = ہارڈویئر 264 H کی ضابطہ کشائی
 main-thread-no-omtc = مرکزی دھاگے، OMTC کے بخیر
@@ -227,7 +223,6 @@ virtual-monitor-disp = ورچوئل مانیٹر ڈسپلے
 
 found = مل گيا
 missing = لاپتہ
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = وضاحت
@@ -250,14 +245,11 @@ webgl2-renderer = WebGL 2 Driver Renderer
 webgl2-version = WebGL 2 Driver Version
 webgl2-driver-extensions = WebGL 2 Driver Extensions
 webgl2-extensions = WebGL 2 Extensions
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = بلیک لسٹ؛ ناکامی کوڈ { $failureCode }
-
 d3d11layers-crash-guard = D3D11 کمپوزیٹر
 glcontext-crash-guard = OpenGL
-
 reset-on-next-restart = اگلی بار دوبارہ شروع کرنے پر پھر سیٹ  کریں
 gpu-process-kill-button = GPU عمل کاری بند کریں
 gpu-device-reset-button = ٹریگگر آلات دوبارہ سیٹ کرے
@@ -265,10 +257,8 @@ uses-tiling = ٹائل کا استعمال
 content-uses-tiling = ٹائل(مواد) کا استعمال
 off-main-thread-paint-enabled = Off Main Thread Painting Enabled
 off-main-thread-paint-worker-count = Off Main Thread Painting Worker Count
-
 min-lib-versions = متوقع کم سے کم ورژن
 loaded-lib-versions = استعمال میں ورژن
-
 has-seccomp-bpf = Seccomp-BFP (نظام کال فلٹرنگ)
 has-seccomp-tsync = Seccomp دھاگہ ہم وقت سازی
 has-user-namespaces = صارف نیم اسپیسز
@@ -280,26 +270,21 @@ effective-content-sandbox-level = مؤثر مواد عمل سینڈبکس سطح
 sandbox-proc-type-content = مواد
 sandbox-proc-type-file = مسل کے مشمول
 sandbox-proc-type-media-plugin = میڈیا پلگ ان
-
 startup-cache-disk-cache-path = ڈسک کیشے کا راستہ
 startup-cache-ignore-disk-cache = ڈسک کیشے کو نظرانداز کریں
 startup-cache-wrote-to-disk-cache = ڈسک کیشے پر لکھ دیا
-
 launcher-process-status-0 = فعال
 launcher-process-status-1 = ناکامی کی وجہ سے غیرفعال ہے
 launcher-process-status-2 = زبردستی نغیرفعال
 launcher-process-status-unknown = نامعلوم اسٹیٹس
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-
 # Variables
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-
 async-pan-zoom = غیر ہم آہنگ پین / زوم
 apz-none = کوئی نہیں
 wheel-enabled = وہیل کی ان پٹ کا فعال
@@ -326,5 +311,14 @@ support-printing-title = چھاپ رہا ہے
 support-printing-prefs-name = نام
 support-printing-prefs-value = قدر
 
+## Remote Settings sections
+
+
 ## Normandy sections
+
+
+## Pointing devices
+
+
+## Content Analysis (DLP)
 

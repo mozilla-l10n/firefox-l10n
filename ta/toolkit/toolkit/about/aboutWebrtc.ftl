@@ -8,7 +8,6 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = உள்சார்ந்த WebRTC
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = about:webrtc ஆக சேமி
@@ -22,14 +21,12 @@ about-webrtc-aec-logging-msg-label = AEC பதிவிடல்
 about-webrtc-aec-logging-off-state-label = AEC பதிவிடலை தொடங்கு
 about-webrtc-aec-logging-on-state-label = AEC பதிவிடலை நிறுத்து
 about-webrtc-aec-logging-on-state-msg = AEC பதிவிடல் செயலிலுள்ளது (அழைப்பாளருடன் சில நிமிடங்கள் பேசிய பின் பதிவிடலை நிறுத்து)
-
 about-webrtc-aec-logging-toggled-on-state-msg = AEC பதிவிடல் செயலிலுள்ளது (அழைப்பாளருடன் சில நிமிடங்கள் பேசிய பின் பதிவிடலை நிறுத்து)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = கைப்பற்றப்பட்ட பதிவு கோப்புகளை: { $path } இதில் முடியும்
 
 ##
-
 
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
@@ -78,12 +75,10 @@ about-webrtc-type-remote = தொலைநிலை
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = பரிந்துரைத்தது
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = தேர்ந்தெடுக்கப்பட்டது
-
 about-webrtc-save-page-label = பக்கத்தை சேமி
 about-webrtc-debug-mode-msg-label = வழுநீக்கு முறைமை
 about-webrtc-debug-mode-off-state-label = வழுநீக்கு முறைமையைத் தொடங்கு
@@ -96,7 +91,6 @@ about-webrtc-log-show-msg = பதிவைக் காட்டு
     .title = இப்பிரிவை விரிக்க சொடுக்கவும்
 about-webrtc-log-hide-msg = பதிவை மறை
     .title = இப்பிரிவை சுருக்க சொடுக்கவும்
-
 about-webrtc-log-section-show-msg = பதிவைக் காட்டு
     .title = இப்பிரிவை விரிக்க சொடுக்கவும்
 about-webrtc-log-section-hide-msg = பதிவை மறை
@@ -143,22 +137,24 @@ about-webrtc-encoder-label = குறியாக்கி
 ##
 
 
-## These are paths used for saving the about:webrtc page or log files so
-## they can be attached to bug reports.
-## Variables:
-##  $path (String) - The path to which the file is saved.
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+
+##
+
+
+##
 
 about-webrtc-save-page-msg = { $path } என்பதில் பக்கம் சேமிக்கப்பட்டது
 about-webrtc-debug-mode-off-state-msg = { $path } என்பதில் தடபதிவைக் காணலாம்
 about-webrtc-debug-mode-on-state-msg = வழுநீக்கு முறைமையில் உள்ளது, தடபதிவு: { $path }
 about-webrtc-aec-logging-off-state-msg = கைப்பற்றப்பட்ட பதிவு கோப்புகளை: { $path } இதில் முடியும்
-
+# This path is used for saving the about:webrtc page so it can be attached to
+# bug reports.
+# Variables:
+#  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = { $path } என்பதில் பக்கம் சேமிக்கப்பட்டது
-about-webrtc-debug-mode-toggled-off-state-msg = { $path } என்பதில் தடபதிவைக் காணலாம்
-about-webrtc-debug-mode-toggled-on-state-msg = வழுநீக்கு முறைமையில் உள்ளது, தடபதிவு: { $path }
-
-##
-
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:

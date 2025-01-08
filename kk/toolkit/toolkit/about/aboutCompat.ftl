@@ -5,6 +5,8 @@
 label-disable = Сөндіру
 label-enable = Іске қосу
 label-interventions = Араласулар
+# Variables:
+#   $bug (string) - Bug number
 label-more-information = Көбірек ақпарат: Ақаулық { $bug }
 label-overrides = Пайдаланушы агентін ауыстыру
 text-disabled-in-about-config = Бұл мүмкіндік about:config ішінде сөндірілген

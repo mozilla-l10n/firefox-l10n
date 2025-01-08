@@ -8,7 +8,6 @@ unknowncontenttype-settingschange =
             [windows] ການຕັ້ງຄ່າສາມາດປ່ຽນແປງໄດ້ໃນການຕັ້ງຄ່າຂອງ { -brand-short-name }.
            *[other] ການຕັ້ງຄ່າສາມາດປ່ຽນແປງໄດ້ໃນການຕັ້ງຄ່າຂອງ { -brand-short-name }.
         }
-
 unknowncontenttype-intro = ທ່ານໄດ້ເລືອກທີ່ຈະເປີດ:
 unknowncontenttype-which-is = ຊຶ່ງເປັນ:
 unknowncontenttype-from = ຈາກ:

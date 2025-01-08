@@ -4,7 +4,6 @@
 
 # Page title
 about-processes-title = Gestore de protzessos
-
 # The Actions column
 about-processes-column-action =
     .title = Atziones
@@ -35,7 +34,6 @@ about-processes-privilegedmozilla-process = Sitos { -vendor-short-name } ({ $pid
 about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-socket-process = Rete ({ $pid })
-
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.

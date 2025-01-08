@@ -59,8 +59,6 @@ sidebar-description = Käytä helposti historiaa, muiden laitteiden välilehtiä
 vertical-tabs-title =
     .label = Pystysuuntaiset välilehdet
 vertical-tabs-description = Siirrä välilehdet selaimen yläreunasta sivuun. Edellyttää, että kokeilet myös sivupaneelia. <a data-l10n-name="connect">Anna palautetta</a>
-experimental-features-group-browsing =
-    .label = Selaus
 experimental-features-group-developer-tools =
     .label = Kehittäjätyökalut
 experimental-features-group-webpage-display =

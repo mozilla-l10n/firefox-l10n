@@ -59,8 +59,6 @@ sidebar-description = Gezinirken geçmişinize, diğer cihazlardaki sekmelere, k
 vertical-tabs-title =
     .label = Dikey sekmeler
 vertical-tabs-description = Sekmelerinizi tarayıcının üst kısmından kenara taşıyın. Kenar çubuğunu da etkinleştirmeniz gerekir. <a data-l10n-name="connect">Görüşlerinizi paylaşın</a>
-experimental-features-group-browsing =
-    .label = Gezinti
 experimental-features-group-developer-tools =
     .label = Geliştirici araçları
 experimental-features-group-webpage-display =

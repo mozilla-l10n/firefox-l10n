@@ -12,12 +12,9 @@
 ## the label.
 
 toolbox-meatball-menu-dock-separate-window-label = విడి కిటికీ
-
 toolbox-meatball-menu-settings-label = అమరికలు
 toolbox-meatball-menu-documentation-label = పత్రావళి…
 toolbox-meatball-menu-community-label = సముదాయం…
-
-##
 
 ## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
 

@@ -10,6 +10,8 @@ safeb-blocked-phishing-page-short-desc = { -brand-short-name } arán riña sitio
 safeb-blocked-malware-page-short-desc = { -brand-short-name } ganarán ma pajinâ na dadin' si dugutuj ma 'ngò software ata yi'ìi ni ga'ue si dure'j nej sa ma riña si aga't.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } garán ma riñanpajina na dadin' gahuin ni ata ma yi'ì nej si ga'ui yi'ì ma riña aché nut (ga'ue si nadunaj nej sa ni'iaj nej si ûta gahui nej sa du'uej nej dugui' riña ma)
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } garán ma dadin' ma nej sa ga'ue ga'ui' yi'ì riña si aga't nej si ga'ue gi'iaj tu ma nej sa nu sa' 'iât (daj ru' ña du'uat, da'ngà' huìi nej da'nga' nu sa'anj 'iât).
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Sa ruguñu'unj sò' na huin <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Nanikàj rukù
 safeb-palm-see-details-label = Ni'io' daj huaj
@@ -27,7 +29,9 @@ safeb-blocked-phishing-page-learn-more = Gahuin chrūn doj rayi'ì nej sitio ata
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
+
 ##
+
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page

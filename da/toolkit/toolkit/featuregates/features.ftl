@@ -59,8 +59,6 @@ sidebar-description = Få nem adgang til din historik, faneblade fra andre enhed
 vertical-tabs-title =
     .label = Lodrette faneblade
 vertical-tabs-description = Flyt dine faneblade fra toppen af browseren til siden. Det kræver, at du også aktiverer sidepanelet. <a data-l10n-name="connect">Del feedback</a>
-experimental-features-group-browsing =
-    .label = Browsing
 experimental-features-group-developer-tools =
     .label = Udviklerværktøjer
 experimental-features-group-webpage-display =

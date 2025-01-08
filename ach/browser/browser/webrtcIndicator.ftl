@@ -3,12 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Note: This is currently placed under browser/base/content so that we can
-# get the strings to appear without having our localization community need
-# to go through and translate everything. Once these strings are ready for
-# translation, we'll move it to the locales folder.
-
-
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
@@ -27,7 +21,6 @@ webrtc-item-browser = dirica matidi
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Kama oaa iye pe ngene
-
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -69,7 +62,6 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Lo nywako
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Lo nywako i "{ $streamTitle }"
-
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Nywako lamak cal ki "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -78,7 +70,6 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Nywako lamak cal ki dirica matidi { $tabCount }
            *[other] Nywako lamak cal ki dirica matino { $tabCount }
         }
-
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Nywako mikropon ki "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -87,7 +78,6 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Nywako mikropon ki dirica matidi { $tabCount }
            *[other] Nywako mikropon ki dirica matino { $tabCount }
         }
-
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Nywako purugram ki "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -96,7 +86,6 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] Nywako purugram ki dirica matidi { $tabCount }
            *[other] Nywako purugram ki dirica matino { $tabCount }
         }
-
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Nywako wang kio ki "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -105,7 +94,6 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Nywako wang kio ki dirica matidi { $tabCount }
            *[other] Nywako wang kio ki dirica matino { $tabCount }
         }
-
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Nywako dirica ki "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -114,7 +102,6 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Nywako dirica ki dirica matidi { $tabCount }
            *[other] Nywako dirica ki dirica matino { $tabCount }
         }
-
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Nywako tab ki "{ $streamTitle }"
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -128,6 +115,9 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
+
+
+## Special phrasing for sharing devices when the origin is a file url.
 
 
 ## Variables:
@@ -160,7 +150,6 @@ webrtc-action-allow =
 ##
 
 webrtc-remember-allow-checkbox = Poo ikom moko tam man
-
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } pe twero yee nongo wang kio mamegi matwal.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } pe twero ye nongo dwon me dirica matidi mamegi matwal labongo penyo dirica matidi mene me anywaka.
 webrtc-reason-for-no-permanent-allow-insecure = Kube ni ki kakube man pe tye ki ber bedo. Me gwoki, { -brand-short-name } biye nongo pi kare man keken.

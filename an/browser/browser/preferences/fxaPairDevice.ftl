@@ -3,5 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 fxa-qrcode-error-title = Enparellamiento incorrecto.
-
 fxa-qrcode-error-body = Torna-lo a intentar.

@@ -25,5 +25,6 @@ error-long-desc4 = રોબોટને ચમકતા ધાતુ પોસ�
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = અને તેમની પાસે યોજના છે.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = પુનઃપ્રયાસ કરો
     .label2 = મહેરબાની કરીને આ બટન ફરીથી દબાવશો નહિં.

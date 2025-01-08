@@ -6,8 +6,6 @@ title-label = אודות תוספים חיצוניים
 installed-plugins-label = תוספים חיצוניים מותקנים
 no-plugins-are-installed-label = לא נמצאו תוספים חיצוניים מותקנים
 deprecation-description = חסר כאן משהו? חלק מהתוספים החיצוניים אינם נתמכים עוד. <a data-l10n-name="deprecation-link">למידע נוסף.</a>
-deprecation-description2 =
-    .message = חסר כאן משהו? חלק מהתוספים החיצוניים אינם נתמכים עוד.
 
 ## The information of plugins
 ##

@@ -122,6 +122,8 @@ advanced-fonts =
 preferences-zoom-header = زووم
 preferences-default-zoom = زوومی بنەڕەت
     .accesskey = z
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
@@ -213,15 +215,15 @@ applications-manage-app =
 applications-always-ask =
     .label = هەموو کات پرسیار بکە
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } بەکاربێنە (لەناو { -brand-short-name })
 applications-open-inapp =
@@ -255,6 +257,8 @@ play-drm-content =
 play-drm-content-learn-more = زیاتر بزانە
 update-application-title = نوێکارییەکانی { -brand-short-name }
 update-application-description = { -brand-short-name } بەنوێکراوی بهێڵەوە، بۆ باشترین ئەرک، جێگیری، و پاراستن.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = وەشانی { $version } <a data-l10n-name="learn-more">چی نوێ هەیە</a>
 update-history =
     .label = مێژووی نوێکاری پیشان بدە
@@ -288,7 +292,7 @@ performance-use-recommended-settings-checkbox =
 performance-use-recommended-settings-desc = ئەم ڕێکخستنانە دووراون بۆ سیستمی کارپێکردنەکە و رەقەکاڵای کۆمپیوتەرکەت.
 performance-settings-learn-more = زیاتر بزانە
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (بنەڕەت)
 
@@ -370,8 +374,7 @@ choose-bookmark =
 home-prefs-search-header =
     .label = گەڕانی وێب
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = پێشنیازکراوە لە لایەن { $provider }
@@ -395,6 +398,8 @@ home-prefs-highlights-option-saved-to-pocket =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = گرتەکان
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -449,7 +454,7 @@ search-find-more-link = بزوێنەری گەڕانی تر بدۆزرەوە
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = دووبارەکردنەوەی کلیلەوشە
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = کلیلر وشەیەکی هەڵبژاردووە کە ئێستا لە کاردایە لە لایەن “{ $name }”. تکایە دانەیەکی تر هەڵبژێرە.
 
 ## Containers Section
@@ -673,8 +678,8 @@ history-clear-button =
 sitedata-header = شەکرۆکە و زانیاری ماڵپەڕ
 sitedata-total-size-calculating = ژماردنی زانیاری ماڵپەڕ و قەبارەی شەکرۆکە...
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = هەموو زانیارییەکانی ماڵپەڕ، شەکرۆکە و حەشارگەکان هەڵگیراون { $value }{ $unit } بیرگەی داگیرکردووە.
 sitedata-learn-more = زیاتر بزانە
 sitedata-delete-on-close =

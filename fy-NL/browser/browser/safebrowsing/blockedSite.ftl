@@ -10,6 +10,8 @@ safeb-blocked-phishing-page-short-desc = { -brand-short-name } hat dizze side bl
 safeb-blocked-malware-page-short-desc = { -brand-short-name } hat dizze side blokkearre, omdat dizze probearje kin kweawollende software te ynstallearjen dy’t persoanlike gegevens op jo kompjûter stelle of fuortsmite kin.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } hat dizze side blokkearre, omdat dizze probearje kinne soe jo programma’s ynstallearje te litten dy’t skea oan jo surfûnderfining tabringe kinne (bygelyks troch jo startside te wizigjen of ekstra advertinsjes te toanen op websites dy’t jo besykje).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } hat dizze side blokkearre, omdat dizze kin probearje gefaarlike apps te ynstallearjen dy’t jo gegevens (lykas foto’s, wachtwurden, berjochten en creditcardgegevens) stelle of fuortsmite.
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Advys útjûn troch <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Gean tebek
 safeb-palm-see-details-label = Details besjen

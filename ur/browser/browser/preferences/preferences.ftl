@@ -121,7 +121,7 @@ containers-disable-alert-ok-button =
 containers-disable-alert-cancel-button = اہل بنایا رکھیں
 containers-remove-alert-title = اس حامل کو ہٹائیں؟
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] اگر اپ اس کنٹینر کو ابھی ہٹاتیں ہے، تو { $count } کا کنٹینر ٹیب بند ہو جائے گا۔ کیا یقینن اپ اس کنٹینر کو ہٹانا چاہتے ہے؟
@@ -144,6 +144,8 @@ advanced-fonts =
 preferences-zoom-header = زوم
 preferences-default-zoom = طے شدہ زوم
     .accesskey = z
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
@@ -222,15 +224,15 @@ applications-manage-app =
 applications-always-ask =
     .label = ہمیشہ پوچھیں
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending }{ $type }
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } کو ({ -brand-short-name }) میں استعمال کریں
 applications-open-inapp =
@@ -265,6 +267,8 @@ play-drm-content =
     .accesskey = P
 play-drm-content-learn-more = مزید سیکھیں
 update-application-title = { -brand-short-name } تازہ کاریاں:
+# Variables:
+# $version (string) - Firefox version
 update-application-version = ورژن{ $version } <a data-l10n-name="learn-more">نیا کیا ہے</a>
 update-history =
     .label = تازہ ترین سابقات دکھائیں
@@ -303,7 +307,7 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = مواد کی عمل کی حد
     .accesskey = I
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (default)
 
@@ -387,8 +391,7 @@ home-prefs-shortcuts-header =
     .label = تیز راہ
 home-prefs-shortcuts-description = وہ سائٹس جو آپ محفوظ کرتے ہیں یا ملاحظہ کرتے ہیں۔
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = { $provider } کی جانب سے تجویز کردہ
@@ -414,6 +417,8 @@ home-prefs-recent-activity-header =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = سنپیٹ
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -463,7 +468,7 @@ search-find-more-link = مزید تلاش انجن تلاش کریں
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = کلیدی لفظ مثنی کریں
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = آپ نے ایسا کلیدی لفظ منتخب کیا ہے جسے "{ $name }" اس وقت استعمال کر رہا ہے۔ مہربانی کر کہ کوئی اور منتخب کیجیے۔
 search-keyword-warning-bookmark = آپ نے ایسا کلیدی لفظ منتخب کیا ہے جسے ایک نشانی اس وقت استعمال کر رہی ہے۔ مہربانی کر کہ کوئی اور منتخب کیجیے۔
 

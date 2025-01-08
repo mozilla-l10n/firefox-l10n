@@ -6,13 +6,10 @@
 ### These strings are used inside the Accessibility panel.
 
 accessibility-learn-more = ଅଧିକ ଜାଣନ୍ତୁ
-
 accessibility-keyboard-header = କୀବୋର୍ଡ୍
 
-## Text entries that are used as text alternative for icons that depict accessibility isses.
-
-
 ## These strings are used in the overlay displayed when running an audit in the accessibility panel
+
 
 ## Text entries that are used as text alternative for icons that depict accessibility issues.
 

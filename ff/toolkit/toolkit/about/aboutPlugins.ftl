@@ -6,8 +6,6 @@ title-label = Baɗte Ceŋe
 installed-plugins-label = Aaf ceŋe
 no-plugins-are-installed-label = Alaa ceŋe aafaaɗe njiytaa
 deprecation-description = Ena ŋakki huunde? Won ceŋe nattuɗe tammiteede. <a data-l10n-name="deprecation-link">Ɓeydu Humpito.</a>
-deprecation-description2 =
-    .message = Ena ŋakki huunde? Won ceŋe nattuɗe tammiteede.
 
 ## The information of plugins
 ##

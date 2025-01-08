@@ -10,7 +10,6 @@ videocontrols-volume-control =
     .aria-label = Volym
 videocontrols-closed-caption-button =
     .aria-label = Undertexter
-
 videocontrols-play-button =
     .aria-label = Spela upp
 videocontrols-pause-button =
@@ -25,19 +24,20 @@ videocontrols-exitfullscreen-button =
     .aria-label = Avsluta helskärm
 videocontrols-casting-button-label =
     .aria-label = Skicka till skärm
+# .offlabel is processed by the video control custom element to be used
+# as a text-track label
 videocontrols-closed-caption-off =
     .offlabel = Av
-
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Bild-i-bild
-
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = Lyft ut den här videon
-
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer3 = Ju fler skärmar, desto roligare. Spela upp den här videon medan du gör något annat.
-
 videocontrols-error-aborted = Laddning av video stoppad.
 videocontrols-error-network = Avspelning av videon avbröts på grund av nätverksfel.
 videocontrols-error-decode = Video kan inte spelas eftersom filen är skadad.
@@ -45,7 +45,6 @@ videocontrols-error-src-not-supported = Videoformat eller MIME-typ stöds inte.
 videocontrols-error-no-source = Hittade ingen video med ett format eller en MIME-typ som stöds.
 videocontrols-error-generic = Avspelning av videon avbröts på grund av ett okänt fel.
 videocontrols-status-picture-in-picture = Den här videon spelas upp i läget Bild-i-bild.
-
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -59,7 +58,6 @@ videocontrols-status-picture-in-picture = Den här videon spelas upp i läget Bi
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
-
 # This is a plain text version of the videocontrols-position-and-duration-labels
 # string, used by screenreaders.
 #

@@ -42,7 +42,7 @@ about-telemetry-fetch-stack-symbols = Атрымаць імёны функцый
 about-telemetry-hide-stack-symbols = Паказаць сырыя дадзеныя стэка
 # Selects the correct release version
 # Variables:
-#   $channel (String): represents the corresponding release data string
+#   $channel (string) - Represents the corresponding release data string
 about-telemetry-data-type =
     { $channel ->
         [release] дадзеныя аб выпуску
@@ -50,7 +50,7 @@ about-telemetry-data-type =
     }
 # Selects the correct upload string
 # Variables:
-#   $uploadcase (String): represents a corresponding upload string
+#   $uploadcase (string) - Represents a corresponding upload string
 about-telemetry-upload-type =
     { $uploadcase ->
         [enabled] уключана
@@ -58,9 +58,9 @@ about-telemetry-upload-type =
     }
 # Example Output: 1 sample, average = 0, sum = 0
 # Variables:
-#   $sampleCount (Integer): amount of histogram samples
-#   $prettyAverage (Integer): average of histogram samples
-#   $sum (Integer): sum of histogram samples
+#   $sampleCount (number) - Amount of histogram samples
+#   $prettyAverage (number) - Average of histogram samples
+#   $sum (number) - Sum of histogram samples
 about-telemetry-histogram-stats =
     { $sampleCount ->
         [one] { $sampleCount } замер, сярэдняе = { $prettyAverage }, сума = { $sum }
@@ -68,37 +68,37 @@ about-telemetry-histogram-stats =
        *[many] { $sampleCount } замераў, сярэдняе = { $prettyAverage }, сума = { $sum }
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Гэтая старонка паказвае звесткі пра працавыніковасць, начынне, выкарыстанне і ўладкаванні, назбіраныя тэлеметрыяй. Гэтыя звесткі дасылаюцца { $telemetryServerOwner } дзеля ўдасканалення { -brand-full-name }.
 about-telemetry-settings-explanation = Тэлеметрыя збірае { about-telemetry-data-type } і зацягванне <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
-#   $name (String): ping name, e.g. “saved-session”
-#   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
+#   $name (string) - Ping name, e.g. “saved-session”
+#   $timestamp (string) - Ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Кожная частка інфармацыі адпраўляецца ў камплекце “<a data-l10n-name="ping-link">пінгі</a>”. Вы праглядаеце пінг { $name }, { $timestamp }.
 about-telemetry-data-details-current = Кожны фрагмент інфармацыі дасылаецца ў камплекце з "<a data-l10n-name="ping-link">пінгамі</a>". Вы глядзіце на бягучыя дадзеныя.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $selectedTitle (String): the section name from the structure of the ping.
+#   $selectedTitle (string) - The section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = Знайсці ў { $selectedTitle }
 about-telemetry-filter-all-placeholder =
     .placeholder = Знайсці ва ўсіх раздзелах
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-results-for-search = Вынікі для “{ $searchTerms }”
 # More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $sectionName (String): the section name from the structure of the ping.
-#   $currentSearchText (String): the current text in the search input
+#   $sectionName (string) - The section name from the structure of the ping.
+#   $currentSearchText (string) - The current text in the search input
 about-telemetry-no-search-results = Выбачайце! У { $sectionName } няма вынікаў для “{ $currentSearchText }”
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-no-search-results-all = Выбачайце! Ні ў адным раздзеле няма вынікаў для “{ $searchTerms }”
 # This message is displayed when a section is empty.
 # Variables:
-#   $sectionName (String): is replaced by the section name.
+#   $sectionName (string) - Is replaced by the section name.
 about-telemetry-no-data-to-display = Выбачайце! Зараз няма ніякіх звестак у “{ $sectionName }”
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = бягучыя дадзеныя
@@ -116,13 +116,13 @@ about-telemetry-slow-sql-statement = Чыннік
 about-telemetry-addon-table-id = Вызначальнік ададатка
 about-telemetry-addon-table-details = Падрабязнасці
 # Variables:
-#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+#   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = Дастаўшчык { $addonProvider }
 about-telemetry-keys-header = Уласцівасць
 about-telemetry-names-header = Імя
 about-telemetry-values-header = Значэнне
 # Variables:
-#   $lateWriteCount (Integer): the number of the late writes
+#   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = Апошні запіс #{ $lateWriteCount }
 about-telemetry-stack-title = Стос:
 about-telemetry-memory-map-title = Мапа памяці:
@@ -133,5 +133,5 @@ about-telemetry-method-header = метад
 about-telemetry-object-header = аб'ект
 about-telemetry-extra-header = дадаткова
 # Variables:
-#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+#  $process (string) - Type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = Працэс { $process }

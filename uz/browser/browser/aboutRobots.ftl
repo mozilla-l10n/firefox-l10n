@@ -25,5 +25,6 @@ error-long-desc4 = Robotlarning yaltiroq metall bilan qoplangan orqa tarafini ti
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = Va ularda reja bor.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = Yana urinib ko‘rish
     .label2 = Iltimos, bu tugmani boshqa bosmang.

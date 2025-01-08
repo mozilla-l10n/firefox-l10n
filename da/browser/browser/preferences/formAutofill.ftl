@@ -39,8 +39,6 @@ address-capture-manage-address-button =
     .label = Adresse-indstillinger
 address-capture-learn-more-button =
     .label = Læs mere
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Tilføj ny adresse
 address-capture-open-menu-button =
     .aria-label = Åbn menu
 address-capture-edit-address-button =
@@ -49,10 +47,10 @@ address-capture-edit-address-button =
 autofill-add-address-title = Tilføj adresse
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Rediger adresse
-autofill-address-name = Navn
 autofill-address-given-name = Fornavn
 autofill-address-additional-name = Mellemnavn
 autofill-address-family-name = Efternavn
+autofill-address-name = Navn
 autofill-address-organization = Organisation
 autofill-address-street-address = Postadresse
 autofill-address-street = Postadresse
@@ -108,9 +106,8 @@ autofill-address-eircode = Eircode
 
 ##
 
-
-##
-
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Tilføj ny adresse
 autofill-address-country = Land eller region
 autofill-address-country-only = Land
 autofill-address-tel = Telefonnummer

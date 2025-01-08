@@ -12,35 +12,29 @@ cfr-doorhanger-feature-heading = अनुशंसित विशेषता
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = मैं यह क्यों देख रहा हूँ
-
 cfr-doorhanger-extension-cancel-button = अभी नहीं
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = अभी जोड़ें
     .accesskey = A
-
 cfr-doorhanger-extension-manage-settings-button = अनुशंसा सेटिंग प्रबंधित करें|
     .accesskey = म
-
 cfr-doorhanger-extension-never-show-recommendation = मुझे यह अनुशंसा न दिखाएं
     .accesskey = स
-
 cfr-doorhanger-extension-learn-more-link = अधिक जानें
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = { $name } द्वारा
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = सिफारिश
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = अनुशंसा
     .tooltiptext = विस्तारक अनुशंसा
     .a11y-announcement = विस्तारक अनुशंसा उपलब्ध
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = अनुशंसा
     .tooltiptext = विशेषता अनुशंसा
     .a11y-announcement = विशेषता अनुशंसा उपलब्ध
@@ -84,11 +78,9 @@ cfr-protections-panel-link-text = अधिक जानें
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = नई विशेषताएँ:
-
 cfr-whatsnew-button =
     .label = क्या नया है
     .tooltiptext = क्या नया है
-
 cfr-whatsnew-release-notes-link-text = रिलीज नोट्स पढ़ें
 
 ## Enhanced Tracking Protection Milestones
@@ -101,15 +93,10 @@ cfr-doorhanger-milestone-close-button = बंद करें
 ## DOH Message
 
 
-## Fission Experiment Message
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-primary-button = अभी अपडेट करें
     .accesskey = U
-
-## Spotlight modal shared strings
-
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -120,9 +107,8 @@ cfr-doorhanger-video-support-primary-button = अभी अपडेट कर�
 spotlight-public-wifi-vpn-link = अभी नहीं
     .accesskey = N
 
-## Total Cookie Protection Rollout
-
 ## Emotive Continuous Onboarding
+
 
 ## MR2022 Background Update Windows native toast notification strings.
 ##
@@ -137,19 +123,52 @@ spotlight-public-wifi-vpn-link = अभी नहीं
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+
 ## Firefox View CFR
+
 
 ## Firefox View Spotlight
 
+
 ## Colorways expiry reminder CFR
+
 
 ## Cookie Banner Handling CFR
 
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
+
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+
 ## FxA sync CFR
 
+
 ## Device Migration FxA Spotlight
+
+
+## Set as Default PDF Reader Infobar
+
+
+## Launch on login infobar notification
+
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+
+## Tail Fox Set Default Spotlight
+
+
+## Root Certificate Succession Infobar
+
+
+## Root Certificate Succession Windows Background Notification
+
+
+## FxA Menu Message variants
+
+
+## Multi-CTA Fox Doodle Spotlight
 

@@ -3,12 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Note: This is currently placed under browser/base/content so that we can
-# get the strings to appear without having our localization community need
-# to go through and translate everything. Once these strings are ready for
-# translation, we'll move it to the locales folder.
-
-
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
@@ -30,7 +24,6 @@ webrtc-item-browser = sukua
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
-
 webrtc-sharing-screen = Xituvinu nu ntaka pantalla noo'o.
 webrtc-stop-sharing-button = Nkuvi kua'a
 webrtc-microphone-unmuted =
@@ -61,6 +54,9 @@ webrtc-camera-muted =
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
 
+## Special phrasing for sharing devices when the origin is a file url.
+
+
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
@@ -88,4 +84,3 @@ webrtc-action-block =
 ##
 
 webrtc-remember-allow-checkbox = ku̱na̱´an nuu'u nkajini ya´a
-

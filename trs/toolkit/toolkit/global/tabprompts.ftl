@@ -6,7 +6,6 @@ tabmodalprompt-username =
     .value = Si yuguit
 tabmodalprompt-password =
     .value = Da'nga' huìi
-
 tabmodalprompt-ok-button =
     .label = Ga'ue
 tabmodalprompt-cancel-button =

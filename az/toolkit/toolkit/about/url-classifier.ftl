@@ -5,7 +5,11 @@
 url-classifier-title = URL Təsnifatçısı Məlumatı
 url-classifier-search-title = Axtarış
 url-classifier-search-result-title = Nəticələr
+# Variables:
+#   $uri (string) - URI of blocked page
 url-classifier-search-result-uri = URI: { $uri }
+# Variables:
+#   $list (string) - List of tables where the page is blocked
 url-classifier-search-result-list = Cədvəl siyahısı: { $list }
 url-classifier-search-input = Ünvan
 url-classifier-search-error-invalid-url = Səhv URL
@@ -40,7 +44,6 @@ url-classifier-debug-sb-modules = Təhlükəsiz Səyahət gündəliyi modulları
 url-classifier-debug-modules = Hazırkı qeydiyyat modulları
 url-classifier-debug-sbjs-modules = Təhlükəsiz Səyahət JS gündəliyi
 url-classifier-debug-file = Hazırkı qeydiyyat faylı
-
 url-classifier-trigger-update = Yeniləməni Tətiklə
 url-classifier-not-available = Yoxdur
 url-classifier-disable-sbjs-log = Təhlükəsiz Səyahətdə JS gündəliyini söndür

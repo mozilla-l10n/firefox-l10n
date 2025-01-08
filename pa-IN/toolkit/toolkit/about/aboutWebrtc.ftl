@@ -32,8 +32,6 @@ about-webrtc-aec-logging-toggled-off-state-msg = ਕੈਪਚਰ ਕੀਤੀਆ
 
 # The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = ਆਪਣੇ-ਆਪ ਤਾਜ਼ਾ
-# Determines the default state of the Auto Refresh check boxes
-about-webrtc-auto-refresh-default-label = ਮੂਲ ਰੂਪ ਵਿੱਚ ਆਪੇ ਤਾਜ਼ਾ ਕਰੋ
 # A button which forces a refresh of displayed statistics
 about-webrtc-force-refresh-button = ਤਾਜ਼ਾ ਕਰੋ
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
@@ -97,8 +95,8 @@ about-webrtc-save-page-label = ਸਫ਼ੇ ਨੂੰ ਸੰਭਾਲੋ
 about-webrtc-debug-mode-msg-label = ਡੀਬੱਗ ਮੋਡ
 about-webrtc-debug-mode-off-state-label = ਡੀਬੱਗ ਮੋਡ ਨੂੰ ਸ਼ੁਰੂ ਕਰੋ
 about-webrtc-debug-mode-on-state-label = ਡੀਬੱਗ ਮੋਡ ਨੂੰ ਰੋਕੋ
-about-webrtc-enable-logging-label = WebRTC ਲਾਗ ਪ੍ਰੀ-ਸੈੱਟ ਸਮਰੱਥ ਕਰੋ
 about-webrtc-stats-heading = ਸ਼ੈਸ਼ਨ ਅੰਕੜੇ
+about-webrtc-enable-logging-label = WebRTC ਲਾਗ ਪ੍ਰੀ-ਸੈੱਟ ਸਮਰੱਥ ਕਰੋ
 about-webrtc-stats-clear = ਅਤੀਤ ਨੂੰ ਮਿਟਾਓ
 about-webrtc-log-heading = ਕਨੈਕਸ਼ਨ ਲਾਗ
 about-webrtc-log-clear = ਲਾਗ ਮਿਟਾਓ
@@ -186,10 +184,14 @@ about-webrtc-configuration-element-provided = ਦਿੱਤੇ
 # been provided
 about-webrtc-configuration-element-not-provided = ਨਾ ਦਿੱਤੇ
 
-## These are paths used for saving the about:webrtc page or log files so
-## they can be attached to bug reports.
-## Variables:
-##  $path (String) - The path to which the file is saved.
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+
+##
+
+
+##
 
 about-webrtc-save-page-msg = ਸਫ਼ੇ ਨੂੰ ਸੰਭਾਲਿਆ ਗਿਆ: { $path }
 about-webrtc-debug-mode-off-state-msg = ਟਰੇਸ ਲਾਗ ਨੂੰ ਲੱਭਿਆ ਜਾ ਸਕਦਾ ਹੈ: { $path }
@@ -258,9 +260,6 @@ about-webrtc-trickle-caption-msg = ਜ਼ਾਹਰ ਹੋਏ ਉਮੀਦਵਾਰ�
 
 about-webrtc-show-msg-sdp = SDP ਵੇਖਾਓ
 about-webrtc-hide-msg-sdp = SDP ਓਹਲੇ
-
-##
-
 
 ## These are displayed on the button that shows or hides the Media Context information disclosure.
 ## The Media Context is the set of preferences and detected capabilities that informs

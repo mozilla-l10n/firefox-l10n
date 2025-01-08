@@ -363,3 +363,6 @@ newtab-weather-menu-change-temperature-units-celsius = Փոխարկել ցելս
 ## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 ## e.g. Following the travel section of stories.
 
+
+## Confirmation modal for blocking a section
+

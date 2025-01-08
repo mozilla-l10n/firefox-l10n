@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# Strings in this file are used to localize button titles displayed on the 
+# Strings in this file are used to localize button titles displayed on the
 # MacBook Touch Bar.
 back = دواوە
 forward = پێشەوە
@@ -19,7 +19,6 @@ open-location = بگەڕێ یان ناونیشان بنووسە
 share = بڵاوکردنەوە
 close-window = پەنجەرە دابخە
 open-sidebar = لاتەنیشت
-
 # This string describes shortcuts for search.
 search-popover = بگەڕێ لە قەدبڕەکان
 # Describes searches limited to a specific scope

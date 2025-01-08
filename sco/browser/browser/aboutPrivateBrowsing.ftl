@@ -22,7 +22,6 @@ about-private-browsing-not-private = Richt noo, ye're no in a private windae
 about-private-browsing-info-description-private-window = { -brand-short-name } dichts yer sairch and stravaigin historie aince ye sneck aw private windaes. This disnae mak ye anonymous.
 about-private-browsing-info-description-simplified = { -brand-short-name } dichts yer sairch and stravaigin historie aince ye sneck aw private windaes, but this disnae mak ye anonymous.
 about-private-browsing-learn-more-link = Lairn mair
-
 about-private-browsing-hide-activity = Hide yer activity and airtin, awwhaur ye stravaig
 about-private-browsing-prominent-cta = Stey private wi { -mozilla-vpn-brand-name }
 
@@ -43,5 +42,9 @@ about-private-browsing-search-banner-close-button =
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
+
 ## Strings used in a promotion message for cookie banner reduction
+
+
+## Strings for Felt Privacy v1 experiments in 119
 

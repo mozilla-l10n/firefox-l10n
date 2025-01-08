@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 safeb-blocked-harmful-page-title = এই ছাইটত মেলৱেৰ থাকিবও পাৰে
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>-ৰ দ্বাৰা উপদেশ প্ৰদান কৰা হয়।
 safeb-palm-accept-label = ঘূৰি যাওক
 safeb-palm-see-details-label = বিৱৰণ চাওক
@@ -14,18 +16,24 @@ safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename
 
 ##
 
+
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
+
 
 ##
 
+
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
+
 
 ##
 
+
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
+
 
 ##
 

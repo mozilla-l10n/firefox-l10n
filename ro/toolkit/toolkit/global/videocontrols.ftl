@@ -8,7 +8,6 @@
 videocontrols-buffer-bar-label = Se încarcă:
 videocontrols-volume-control =
     .aria-label = Volum
-
 videocontrols-play-button =
     .aria-label = Redare
 videocontrols-pause-button =
@@ -23,13 +22,13 @@ videocontrols-exitfullscreen-button =
     .aria-label = Ieși din modul ecran complet
 videocontrols-casting-button-label =
     .aria-label = Proiectează pe ecran
+# .offlabel is processed by the video control custom element to be used
+# as a text-track label
 videocontrols-closed-caption-off =
     .offlabel = Dezactivează
-
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Picture-in-Picture
-
 videocontrols-error-aborted = Încărcarea videoclipului a fost oprită.
 videocontrols-error-network = Redarea videoclipului a fost abandonată datorită unei erori de rețea.
 videocontrols-error-decode = Videoclipul nu poate fi redat deoarece fișierul este corupt.
@@ -37,7 +36,6 @@ videocontrols-error-src-not-supported = Formatul videoclipului sau tipul MIME nu
 videocontrols-error-no-source = Nu s-a găsit niciun videoclip cu format sau tip MIME suportat.
 videocontrols-error-generic = Redarea videoclipului a fost abandonată datorită unei erori necunoscute.
 videocontrols-status-picture-in-picture = Acest videoclip este redat în modul Picture-in-Picture.
-
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -51,7 +49,6 @@ videocontrols-status-picture-in-picture = Acest videoclip este redat în modul P
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
-
 # This is a plain text version of the videocontrols-position-and-duration-labels
 # string, used by screenreaders.
 #

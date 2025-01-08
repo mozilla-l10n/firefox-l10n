@@ -5,14 +5,12 @@
 unknowncontenttype-handleinternally =
     .label = Hape me { -brand-short-name }
     .accesskey = H
-
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] Rregullimet mund të ndryshohen te Mundësitë e { -brand-short-name }-it.
            *[other] Rregullimet mund të ndryshohen te Parapëlqimet e { -brand-short-name }-it.
         }
-
 unknowncontenttype-intro = Keni zgjedhur të hapni:
 unknowncontenttype-which-is = që është një:
 unknowncontenttype-from = prej:

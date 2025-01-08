@@ -32,3 +32,7 @@ webext-perms-description-tabHide = Ukrywanie i wyświetlanie kart przeglądarki
 webext-perms-description-topSites = Dostęp do historii przeglądania
 webext-perms-description-userScripts = Zezwalaj niezweryfikowanym skryptom zewnętrznym na dostęp do danych użytownika
 webext-perms-description-webNavigation = Dostęp do aktywności przeglądarki podczas nawigacji
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

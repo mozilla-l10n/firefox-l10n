@@ -14,18 +14,15 @@ about-unloads-intro =
     på flera attribut. Den här sidan visar hur { -brand-short-name } prioriterar
     flikar och vilken flik som kommer att frigöras. Du kan manuellt frigöra en
     flik genom att klicka på knappen <em>Frigör</em> nedan.
-
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more =
     Se <a data-l10n-name="doc-link">Frigör flik</a> om du vill veta mer om
     funktionen och den här sidan.
-
 about-unloads-last-updated = Senast uppdaterad: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Frigör
     .title = Frigör fliken med högsta prioritet
 about-unloads-no-unloadable-tab = Det finns inga flikar att frigöra.
-
 about-unloads-column-priority = Prioritet
 about-unloads-column-host = Värd
 about-unloads-column-last-accessed = Senaste åtkomst
@@ -37,7 +34,6 @@ about-unloads-column-memory = Minne
     .title = Flikens beräknade minnesanvändning
 about-unloads-column-processes = Process-ID
     .title = ID för processerna som är värd för flikens innehåll
-
 about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } MB
 about-unloads-memory-in-mb-tooltip =

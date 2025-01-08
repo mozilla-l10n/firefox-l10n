@@ -3,5 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = دورہ دوباره شروع کرنا درکار ہے
-
 restart-button-label = { -brand-short-name } دوبارہ شروع کریں

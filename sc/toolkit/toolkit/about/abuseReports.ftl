@@ -16,8 +16,6 @@ abuse-report-subtitle = Cale est su problema?
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = dae <a data-l10n-name="author-name">{ $author-name }</a>
 abuse-report-learnmore = No ischis ite depes seletzionare? <a data-l10n-name="learnmore-link">Leghe àteru in pitzus de is informes de estensiones e temas</a>
-abuse-report-learnmore-intro = No ischis ite depes seletzionare?
-abuse-report-learnmore-link = Leghe àteru in pitzus de is informes de estensiones e temas
 abuse-report-submit-description = Descrie su problema (optzionale)
 abuse-report-textarea =
     .placeholder = Est prus fàtzile pro nois acontzare unu problema si nde tenimus is detàllios. Descrie ite ti sutzedet. Gràtzias de nos agiudare a mantènnere internet in salude.
@@ -46,24 +44,6 @@ abuse-report-messagebar-removed-sitepermission = Gràtzias de s’informe tuo. A
 abuse-report-messagebar-removed-theme = Gràtzias de s'informe tuo. As cantzelladu su tema <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Faddina in s'imbiu de s'informe subra de <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = S'informe subra de <span data-l10n-name="addon-name">{ $addon-name }</span> no est istadu imbiadu ca un'àteru informe est istadu imbiadu dae pagu.
-abuse-report-messagebar-aborted2 =
-    .message = Imbiu de s'informe subra de { $addon-name } annulladu.
-abuse-report-messagebar-submitting2 =
-    .message = Imbiende s'informe subra de { $addon-name }.
-abuse-report-messagebar-submitted2 =
-    .message = Gràtzias de s'informe tuo. Boles cantzellare { $addon-name }?
-abuse-report-messagebar-submitted-noremove2 =
-    .message = Gràtzias de s'informe tuo.
-abuse-report-messagebar-removed-extension2 =
-    .message = Gràtzias de s'informe tuo. As cantzelladu s'estensione { $addon-name }.
-abuse-report-messagebar-removed-sitepermission2 =
-    .message = Gràtzias de s’informe tuo. As bogadu su cumplementu de permissos de su situ { $addon-name }.
-abuse-report-messagebar-removed-theme2 =
-    .message = Gràtzias de s'informe tuo. As cantzelladu su tema { $addon-name }.
-abuse-report-messagebar-error2 =
-    .message = Faddina in s'imbiu de s'informe subra de { $addon-name }.
-abuse-report-messagebar-error-recent-submit2 =
-    .message = S'informe subra de { $addon-name } no est istadu imbiadu ca un'àteru informe est istadu imbiadu dae pagu.
 
 ## Message bars actions.
 

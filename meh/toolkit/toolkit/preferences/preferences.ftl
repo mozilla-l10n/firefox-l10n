@@ -4,6 +4,4 @@
 
 pw-remove-button =
     .label = Xita
-
 set-password-meter-loading = Kunetu
-

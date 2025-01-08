@@ -139,6 +139,10 @@ tabbrowser-confirm-close-tabs-with-key-button = Kuitaat { -brand-short-name }
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Kadarnaat a-raok kuitaat gant { $quitKey }
 
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+
 ## Confirmation dialog when opening multiple tabs simultaneously
 
 tabbrowser-confirm-open-multiple-tabs-title = Kadarnaat an digoradur
@@ -212,4 +216,8 @@ tabbrowser-manager-close-tab =
     .tooltiptext = Serriñ an ivinell
 
 ## Tab Groups
+
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 

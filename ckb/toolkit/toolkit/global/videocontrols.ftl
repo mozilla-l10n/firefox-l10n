@@ -16,13 +16,13 @@ videocontrols-exitfullscreen-button =
     .aria-label = لە پڕاوپڕی شاشە دەرچۆ
 videocontrols-casting-button-label =
     .aria-label = بینێرە بۆ شاشە
+# .offlabel is processed by the video control custom element to be used
+# as a text-track label
 videocontrols-closed-caption-off =
     .offlabel = ناکارا
-
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = وێنە-لەناو-وێنە
-
 videocontrols-error-aborted = بارکردنی ڤیدیۆ وەستا
 videocontrols-error-network = پێکردنەوەی ڤیدیۆ وەستا بەهۆی کێشەی ڕایەڵەوە.
 videocontrols-error-decode = ناتوانرێت ڤیدیۆ لێبدرێت چونکە پەڕگەکەی تێکشکاوە.
@@ -30,4 +30,3 @@ videocontrols-error-src-not-supported = جۆری ڤیدیۆکە یان جۆری 
 videocontrols-error-no-source = هیچ ڤیدیۆیەک بە جۆری پشتگیریکراو یان جۆری MIME نەدۆزرایەوە.
 videocontrols-error-generic = پێکردنەوەی ڤیدیۆ وەستا بەهۆی هەڵەیەکی نەزانراو.
 videocontrols-status-picture-in-picture = ئەم ڤیدیۆیە پێدەکرێت بە شێوەی وێنە-لەناو-وێنە .
-

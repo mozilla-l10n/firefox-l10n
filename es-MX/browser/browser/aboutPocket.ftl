@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Agregar Etiquetas
-
 pocket-panel-saved-error-generic = Hubo un error cuando se intentaba guardar en { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Las etiquetas están limitadas a 25 caracteres
 pocket-panel-saved-error-only-links = Sólo los enlaces pueden guardarse
@@ -29,7 +28,6 @@ pocket-panel-saved-save-tags = Guardar
 pocket-panel-saved-saving-tags = Guardando…
 pocket-panel-saved-suggested-tags = Etiquetas sugeridas
 pocket-panel-saved-tags-saved = Etiquetas agregadas
-
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Agregar etiquetas:
 
@@ -44,7 +42,6 @@ pocket-panel-signup-signup-firefox = Regístrate con { -brand-product-name }
 pocket-panel-signup-tagline = Guardar artículos y videos desde { -brand-product-name } para ver en { -pocket-brand-name } o en cualquier dispositivo, en cualquier momento.
 pocket-panel-signup-tagline-story-one = Haz clic en el botón de { -pocket-brand-name } para guardar cualquier artículo, video o página desde { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Ver en { -pocket-brand-name } o en cualquier dispositivo, en cualquier momento.
-
 pocket-panel-signup-cta-a-fix = Tu botón de guardar para internet
 pocket-panel-signup-cta-b-updated = Haz clic en el botón de { -pocket-brand-name } para guardar artículos, videos y enlaces. Puedes ver lo que has guardado en cualquier dispositivo, en cualquier momento.
 pocket-panel-signup-cta-b-short = Haz clic en el botón de { -pocket-brand-name } para guardar artículos, videos y enlaces.
@@ -57,7 +54,6 @@ pocket-panel-home-paragraph = Puedes usar { -pocket-brand-name } para explorar y
 pocket-panel-home-explore-popular-topics = Explorar temas populares
 pocket-panel-home-discover-more = Descubre más
 pocket-panel-home-explore-more = Explorar
-
 pocket-panel-home-most-recent-saves = Aquí está lo que has guardado recientemente:
 pocket-panel-home-most-recent-saves-loading = Guardados recientes cargando…
 pocket-panel-home-new-user-cta = Haz clic en el botón de { -pocket-brand-name } para guardar artículos, videos y enlaces.

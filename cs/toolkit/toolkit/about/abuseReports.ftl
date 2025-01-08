@@ -30,10 +30,6 @@ abuse-report-addon-authored-by = od <a data-l10n-name="author-name">{ $author-na
 abuse-report-learnmore =
     Nevíte, který problém vybrat?
     Podívejte se na <a data-l10n-name="learnmore-link">informace o hlášení rozšíření a doplňků</a>
-abuse-report-learnmore-intro =
-    Nevíte, který problém vybrat?
-    Podívejte se na
-abuse-report-learnmore-link = informace o hlášení rozšíření a doplňků
 abuse-report-submit-description = Popis problému (nepovinný)
 abuse-report-textarea =
     .placeholder = Pokud podrobně popíšete, jaký problém pozorujete, je pro nás snazší ho vyřešit. Děkujeme vám za hlášení a pomoc.
@@ -60,24 +56,6 @@ abuse-report-messagebar-removed-sitepermission = Děkujeme za nahlášení. Dopl
 abuse-report-messagebar-removed-theme = Děkujeme za nahlášení. Vzhled <span data-l10n-name="addon-name">{ $addon-name }</span> byl odebrán.
 abuse-report-messagebar-error = Při odesílání hlášení pro <span data-l10n-name="addon-name">{ $addon-name }</span> došlo k chybě.
 abuse-report-messagebar-error-recent-submit = Doplněk <span data-l10n-name="addon-name">{ $addon-name }</span> nebyl nahlášen, protože jste ho už nedávno nahlásili.
-abuse-report-messagebar-aborted2 =
-    .message = Nahlášení doplňku { $addon-name } bylo zrušeno.
-abuse-report-messagebar-submitting2 =
-    .message = Odesílání hlášení doplňku { $addon-name }.
-abuse-report-messagebar-submitted2 =
-    .message = Děkujeme za nahlášení. Chcete doplněk { $addon-name } odebrat?
-abuse-report-messagebar-submitted-noremove2 =
-    .message = Děkujeme vám za hlášení.
-abuse-report-messagebar-removed-extension2 =
-    .message = Děkujeme za nahlášení. Rozšíření { $addon-name } bylo odebráno.
-abuse-report-messagebar-removed-sitepermission2 =
-    .message = Děkujeme za nahlášení. Doplněk oprávnění serveru { $addon-name } byl odebrán.
-abuse-report-messagebar-removed-theme2 =
-    .message = Děkujeme za nahlášení. Vzhled { $addon-name } byl odebrán.
-abuse-report-messagebar-error2 =
-    .message = Při odesílání hlášení pro { $addon-name } došlo k chybě.
-abuse-report-messagebar-error-recent-submit2 =
-    .message = Doplněk { $addon-name } nebyl nahlášen, protože jste ho už nedávno nahlásili.
 
 ## Message bars actions.
 

@@ -6,11 +6,9 @@ config-toolbar-search =
     .placeholder = Ceeci
 config-new-pref-name =
     .placeholder = Maa
-
 config-new-pref-value-boolean = Cimi wala taari
 config-new-pref-value-string = Tenjiri
 config-new-pref-value-integer = Hinna timmante
-
 config-new-pref-string =
     .placeholder = Tenjiri dam
 config-new-pref-number =
@@ -18,12 +16,9 @@ config-new-pref-number =
 config-new-pref-cancel-button = Naŋ
 config-new-pref-create-button = Tee
 config-new-pref-change-button = Barmay
-
 config-pref-toggle-button = Kanjari
 config-pref-reset-button = Yeeti
-
 config-context-menu-copy-pref-name =
     .label = Maa berandi
 config-context-menu-copy-pref-value =
     .label = Hinna berandi
-

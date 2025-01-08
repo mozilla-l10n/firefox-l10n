@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -9,13 +10,11 @@
 
 psmerr-ssl-disabled = Təhlükəsiz olaraq bağlanıla bilmir, çünki SSL əlaqə qaydası söndürülüb.
 psmerr-ssl2-disabled = Təhlükəsiz olaraq bağlanıla bilmir, çünki SSL əlaqə qaydasının köhnə və etibarsız versiyası istifadə olunur.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Etibarsız bir sertifikat aldınız. Lütfən server idarəçisiylə əlaqə yaradın və ya qarşı tərəfə e-poçt ilə məlumat verin:
     
     Sertifikatınız, sertifikat orqanının verdiyi başqa bir sertifikat ilə eyni seriya nömrəsinə sahibdir. Lütfən təkrarsız bir seriya nömrəsi olan Sertifikat alın.
-
 ssl-error-export-only-server = Təhlükəsiz əlaqə qurula bilmədi. Qarşı tərəf yüksək səviyyəli şifrələməni dəstəkləmir.
 ssl-error-us-only-server = Təhlükəsiz əlaqə qurula bilmir. Qarşı tərəf dəstəklənməyən yüksək-səviyyə şifrələmə tələb edir.
 ssl-error-no-cypher-overlap = Qarşı tərəflə təhlükəsiz bağlantı qurulmadı: ortaq bir şifrələmə yolu yoxdur.
@@ -152,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = Dəstəklənən heç bir TLS imzala
 ssl-error-unsupported-signature-algorithm = Qarşı tərəf dəstəklənməyən imza və heş alqoritmi işlətdi.
 ssl-error-missing-extended-master-secret = Qarşı tərəf düzgün extended_master_secret qoşması olmadan davam etməyə çalışdı.
 ssl-error-unexpected-extended-master-secret = Qarşı tərəf gözlənilməz extended_master_secret qoşması ilə davam etməyə çalışdı.
-
 sec-error-io = Təhlükəsizlik təsdiqləməsi zamanı giriş-çıxış səhvi baş verdi.
 sec-error-library-failure = Təhlükəsizlik kitabxanası səhvi.
 sec-error-bad-data = Təhlükəsiz kitabxanası: Pis məlumat alındı.
@@ -319,7 +317,6 @@ sec-error-locked-password = Parol kilidlənib.
 sec-error-unknown-pkcs11-error = Naməlum PKCS #11 xətası.
 sec-error-bad-crl-dp-url = CRL paylama nöqtəsi adında etibarsız və ya dəstəklənilməyən URL.
 sec-error-cert-signature-algorithm-disabled = Sertifikat, etibarlı olmadığı üçün söndürülən bir imza alqoritmi ilə imzalandı.
-
 mozilla-pkix-error-key-pinning-failure = Server açar sabitləmə (HPKP) istifadə edir amma sabit qrupla uyğun gələn bir etibarlı sertifikat zənciri yaradıla bilmədi. Açar sabitləmə pozuntuları göz ardı edilə bilməz.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Server, özünü sertifikat səlahiyyətlisi olaraq tanıdan, başlıca məhdudiyyətlər əlavəsi olan bir sertifikat istifadə edir. Düzgün şəkildə verilmiş bir sertifikatda bu olmamalıydı.
 mozilla-pkix-error-inadequate-key-size = Serverin təqdim etdiyi sertifikatın açar uzunluğu təhlükəsiz bağlantı qurmaq üçün çox qısadır.
@@ -334,11 +331,9 @@ mozilla-pkix-error-invalid-integer-encoding = Server səhv tam ədəd kodlayıc�
 mozilla-pkix-error-empty-issuer-name = Server boş təchizatçı fərqləndirici adı ilə sertifikat verdi.
 mozilla-pkix-error-additional-policy-constraint-failed = Bu sertifikatı təsdiqləyərkən əlavə icbari siyasət təsdiqlənə bilmədi.
 mozilla-pkix-error-self-signed-cert = Sertifikata etibar edilmir, çünki özü tərəfindən imzalanıb.
-
 xp-java-remove-principal-error = Baş bölmə silinmədi.
 xp-java-delete-privilege-error = İstisnalıq silinə bilmədi
 xp-java-cert-not-exists-error = Bu baş bölməsinin təsdiq sənədi yoxdur
-
 xp-sec-fortezza-bad-card = Fortezza kartı düzgün olaraq işlədilmədi. Lütfən çıxarıb yayımlayıcıya qaytarın.
 xp-sec-fortezza-no-card = Fortezza kartı tapılmadı
 xp-sec-fortezza-none-selected = Fortezza kartı seçilmədi

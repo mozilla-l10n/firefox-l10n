@@ -20,6 +20,8 @@ duplicate-tab =
 duplicate-tabs =
     .label = ཡན་ལག་ངོས་འདྲ་བཟོ
     .accesskey = D
+# The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = གཡས་ཕྱོགས་ཀྱི་ཡན་ལག་ངོས་དག་ཁ་རྒྱག
     .accesskey = i

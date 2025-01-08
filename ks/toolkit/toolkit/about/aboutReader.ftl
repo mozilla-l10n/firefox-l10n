@@ -4,7 +4,7 @@
 
 about-reader-load-error = گو ناکام لوڈ کرنس منز آٹیکل پیج پیٹھ
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 
 ## These are the styles of typeface that are options in the reader view controls.
@@ -15,3 +15,14 @@ about-reader-font-type-sans-serif = سینس۔ سیریف :
 ## Reader View toolbar buttons
 
 about-reader-toolbar-type-controls = ٹایِپ کنٹرول
+
+## Reader View colors menu
+
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+
+## Reader View text and layout menu
+

@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## Displayed in the Synced Tabs sidebar's context menu when right-clicking tabs
 ## and/or devices in the list. The "Open" strings below should be translated
 ## consistently with the equivalent strings for the bookmarks manager's context

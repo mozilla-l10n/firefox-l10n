@@ -9,9 +9,12 @@ printui-less-settings = తక్కువ అమరికలు
 ## options to select between the original page, selected text only, or a version
 ## where the page is processed with "Reader View".
 
+
 ##
 
+
 ## Paper sizes that may be supported by the Save to PDF destination:
+
 
 ## Error messages shown when a user has an invalid input
 

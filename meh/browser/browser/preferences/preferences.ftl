@@ -120,6 +120,8 @@ advanced-fonts =
 preferences-zoom-header = Zoom
 preferences-default-zoom = Kua vaji zoom
     .accesskey = z
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
@@ -204,15 +206,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Ntaka ichi katu´un
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Ni´i { $plugin-name } (nuu { -brand-short-name })
 applications-open-inapp =
@@ -248,6 +250,8 @@ play-drm-content =
 play-drm-content-learn-more = Ka´vi kue´eka
 update-application-title = { -brand-short-name } actualizaciones
 update-application-description = Kino { -brand-short-name } actualizado saa kuvi satiñu va'a, koo estabilidad ji seguridad.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Versión { $version } <a data-l10n-name="learn-more"> Nakuvi a jíía íyo</a>
 update-history =
     .label = Tuvi kuaiyo historial actualizaciones...
@@ -281,7 +285,7 @@ performance-allow-hw-accel =
     .label = Ni´i aceleración hardware de ntu íyo disponible
     .accesskey = r
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (Predeterminado)
 
@@ -368,8 +372,7 @@ home-prefs-shortcuts-description = Da nuu chuva´anu a xíín ne´yanu
 home-prefs-shortcuts-by-option-sponsored =
     .label = Da atajo íyo patrocinado
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = A kachi { $provider }
@@ -395,6 +398,8 @@ home-prefs-recent-activity-header =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Fragmentos
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -706,8 +711,8 @@ history-clear-button =
 sitedata-header = Cookies ji datos nuu ya´a
 sitedata-total-size-calculating = Chunku'va ka'nu datos nuu ji caché…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Da cookies, datos sitio ji caché nchuva'a ni'i ntañu'u iin { $value } { $unit } espacio nuu disco.
 sitedata-learn-more = Ka´vi jiee ya´a
 sitedata-delete-on-close =

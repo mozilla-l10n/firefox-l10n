@@ -16,8 +16,6 @@ abuse-report-subtitle = מה הבעיה?
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = מאת <a data-l10n-name="author-name">{ $author-name }</a>
 abuse-report-learnmore = בהתלבטות באיזו בעיה לבחור? <a data-l10n-name="learnmore-link">מידע נוסף על דיווח הרחבות וערכות נושא</a>
-abuse-report-learnmore-intro = בהתלבטות באיזו בעיה לבחור?
-abuse-report-learnmore-link = מידע נוסף על דיווח הרחבות וערכות נושא
 abuse-report-submit-description = תיאור הבעיה (לא חובה)
 abuse-report-textarea =
     .placeholder = קל לנו יותר לטפל בבעיה אם יש לנו פרטים. נא לתאר את מה שחווית. תודה על העזרה בשמירה על בריאות הרשת.
@@ -44,24 +42,6 @@ abuse-report-messagebar-removed-sitepermission = תודה ששלחת את הדי
 abuse-report-messagebar-removed-theme = תודה ששלחת את הדיווח. הסרת את ערכת הנושא <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = אירעה שגיאה בשליחת הדיווח עבור <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = הדיווח עבור <span data-l10n-name="addon-name">{ $addon-name }</span> לא נשלח מכיוון שדיווח נוסף נשלח לאחרונה.
-abuse-report-messagebar-aborted2 =
-    .message = הדיווח עבור { $addon-name } בוטל.
-abuse-report-messagebar-submitting2 =
-    .message = בשליחת דיווח עבור { $addon-name }.
-abuse-report-messagebar-submitted2 =
-    .message = תודה ששלחת את הדיווח. האם ברצונך להסיר את { $addon-name }?
-abuse-report-messagebar-submitted-noremove2 =
-    .message = תודה ששלחת את הדיווח.
-abuse-report-messagebar-removed-extension2 =
-    .message = תודה ששלחת את הדיווח. הסרת את ההרחבה { $addon-name }.
-abuse-report-messagebar-removed-sitepermission2 =
-    .message = תודה ששלחת את הדיווח. הסרת את התוספת ״הרשאות אתר״ { $addon-name }.
-abuse-report-messagebar-removed-theme2 =
-    .message = תודה ששלחת את הדיווח. הסרת את ערכת הנושא { $addon-name }.
-abuse-report-messagebar-error2 =
-    .message = אירעה שגיאה בשליחת הדיווח עבור { $addon-name }.
-abuse-report-messagebar-error-recent-submit2 =
-    .message = הדיווח עבור { $addon-name } לא נשלח מכיוון שדיווח נוסף נשלח לאחרונה.
 
 ## Message bars actions.
 

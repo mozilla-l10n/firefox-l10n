@@ -5,6 +5,8 @@
 label-disable = Letiltás
 label-enable = Engedélyezés
 label-interventions = Beavatkozások
+# Variables:
+#   $bug (string) - Bug number
 label-more-information = További információ: { $bug }. hiba
 label-overrides = Felhasználói ügynök felülírása
 text-disabled-in-about-config = Ez a funkció le lett tiltva az about:configban

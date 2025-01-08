@@ -18,6 +18,9 @@ options-default-color-unit-hex = Hex
 options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
 
+## Web Console section
+
+
 ## Style Editor section
 
 # The heading
@@ -35,6 +38,3 @@ options-sourceeditor-label = tùs kùe=y sá lás lú
 
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Disable JavaScript *
-
-##
-

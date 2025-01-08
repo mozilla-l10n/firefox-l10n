@@ -977,6 +977,10 @@ unified-extensions-button-quarantined =
         الامتدادات
         بعض الامتدادات غير مسموح بها
 
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Private browsing reset button
 
 reset-pbm-toolbar-button =

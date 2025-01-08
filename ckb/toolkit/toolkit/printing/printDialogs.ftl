@@ -100,7 +100,6 @@ print-window =
     .title = چاپکردن
 print-complete =
     .value = چاپکردن تەواو بوو.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

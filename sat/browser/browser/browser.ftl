@@ -983,9 +983,6 @@ content-analysis-panel-title = ᱰᱟᱴᱟ ᱨᱩᱠᱷᱤᱭᱟᱹ
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text-styled = ᱟᱢᱟᱜ ᱜᱟᱶᱛᱟ ᱰᱟᱴᱟ ᱟᱫ ᱠᱷᱚᱱ ᱨᱚᱠᱷᱤᱭᱟᱹ ᱞᱟᱹᱜᱤᱫ <b>{ $agentName }</b> ᱵᱮᱵᱷᱟᱨ ᱮᱫᱟᱭ ᱾ <a data-l10n-name="info">ᱵᱟᱹᱲᱛᱤ ᱵᱟᱰᱟᱭ ᱢᱮ</a>
-# Variables:
-#   $agentName (String): The name of the DLP agent that is connected
-content-analysis-panel-text = ᱟᱢᱟᱜ ᱜᱟᱶᱛᱟ ᱰᱟᱴᱟ ᱟᱫ ᱠᱷᱚᱱ ᱨᱚᱠᱷᱤᱭᱟᱹ ᱞᱟᱹᱜᱤᱫ { $agentName } ᱵᱮᱵᱷᱟᱨ ᱮᱫᱟᱭ ᱾ <a data-l10n-name="info">ᱵᱟᱹᱲᱛᱤ ᱵᱟᱰᱟᱭ ᱢᱮ</a>
 
 ## Unified extensions (toolbar) button
 
@@ -1010,6 +1007,10 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         ᱮᱠᱥᱴᱮᱱᱥᱚᱱᱠᱚ
         ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱚ ᱵᱟᱝ ᱮᱢᱪᱷᱚᱜᱼᱟ
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
 
 ## Private browsing reset button
 

@@ -11,7 +11,6 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Enavos
     .accesskey = E
-
 wizard-macos-button-next =
     .label = Enavant
     .accesskey = v
@@ -21,14 +20,12 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = Enavant >
     .accesskey = v
-
 wizard-macos-button-finish =
     .label = Terminar
 wizard-linux-button-finish =
     .label = Terminar
 wizard-win-button-finish =
     .label = Terminar
-
 wizard-macos-button-cancel =
     .label = Interrumper
 wizard-linux-button-cancel =

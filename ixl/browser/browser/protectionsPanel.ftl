@@ -32,6 +32,9 @@
 protections-panel-blocking-label = Majel ve't ivatz
 protections-panel-not-blocking-label = K'ulel ve'te'
 
+## Smartblock strings
+
+
 ##
 
 

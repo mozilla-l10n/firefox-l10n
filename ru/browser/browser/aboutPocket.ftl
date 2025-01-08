@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Добавить метки
-
 pocket-panel-saved-error-generic = При попытке сохранения в { -pocket-brand-name } произошла ошибка.
 pocket-panel-saved-error-tag-length = Длина метки не должна превышать 25 символов
 pocket-panel-saved-error-only-links = Можно сохранять только ссылки
@@ -29,7 +28,6 @@ pocket-panel-saved-save-tags = Сохранить
 pocket-panel-saved-saving-tags = Сохранение…
 pocket-panel-saved-suggested-tags = Предлагаемые метки
 pocket-panel-saved-tags-saved = Метки добавлены
-
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Добавить метки:
 
@@ -44,7 +42,6 @@ pocket-panel-signup-signup-firefox = Регистрация через { -brand-
 pocket-panel-signup-tagline = Сохраняйте статьи и видео из { -brand-product-name }, чтобы просматривать их в { -pocket-brand-name } на любом устройстве в любое время.
 pocket-panel-signup-tagline-story-one = Нажмите на кнопку { -pocket-brand-name }, чтобы сохранить любую статью, видео или страницу из { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Просматривайте их в { -pocket-brand-name } на любом устройстве в любое время.
-
 pocket-panel-signup-cta-a-fix = Ваша кнопка сохранения из Интернета
 pocket-panel-signup-cta-b-updated = Сохраняйте статьи, видео и ссылки с помощью кнопки { -pocket-brand-name }. Просматривайте то, что сохранили, на любом устройстве в любое время.
 pocket-panel-signup-cta-b-short = Сохраняйте статьи, видео и ссылки с помощью кнопки { -pocket-brand-name }.
@@ -57,7 +54,6 @@ pocket-panel-home-paragraph = Вы можете использовать { -pock
 pocket-panel-home-explore-popular-topics = Просмотрите популярные темы
 pocket-panel-home-discover-more = Откройте для себя ещё больше
 pocket-panel-home-explore-more = Обзор
-
 pocket-panel-home-most-recent-saves = Вот ваши последние сохранения:
 pocket-panel-home-most-recent-saves-loading = Загрузка недавних сохранений...
 pocket-panel-home-new-user-cta = Сохраняйте статьи, видео и ссылки с помощью кнопки { -pocket-brand-name }.

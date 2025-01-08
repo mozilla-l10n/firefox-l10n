@@ -23,17 +23,17 @@ protections-panel-etp-more-info =
     .aria-label = Titouroù ouzhpenn war ar gwarez heuliañ araokaet.
 protections-panel-etp-on-header = Gweredekaet eo ar gwarez heuliañ araokaet war al lec'hienn-mañ.
 protections-panel-etp-off-header = Diweredekaet eo ar gwarez heuliañ araokaet war al lec'hienn-mañ.
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = N'a ket en-dro al lec'hienn?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = N'a ket en-dro al lec'hienn?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = N'a ket en-dro al lec'hienn?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = N'a ket en-dro al lec'hienn?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -63,6 +63,9 @@ protections-panel-content-blocking-fingerprinters-label = Dinoerien roudoù nive
 protections-panel-blocking-label = Stanket
 protections-panel-not-blocking-label = Aotreet
 protections-panel-not-found-label = Hini ebet dinoet
+
+## Smartblock strings
+
 
 ##
 
@@ -100,7 +103,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Danevelliñ ul lec'hienn torret
 protections-panel-content-blocking-breakage-report-view-description = Stankañ heulierien ’zo a c’hall degas kudennoù gant lec’hiennoù ’zo. Danevelliñ ar c’hudennoù-se a sikour da lakaat { -brand-short-name } gwelloc’h evit an holl. Kas an danevell-mañ da vMozilla a gaso un URL ha titouroù diwar-benn arventennoù ho merdeer. <label data-l10n-name="learn-more">Gouzout hiroc’h</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Stankañ heulierien ’zo a c'hall degas kudennoù gant lec'hiennoù ’zo. Danevelliñ ar c'hudennoù-se a sikour da lakaat { -brand-short-name } gwelloc'h evit an holl. Kas an danevell-mañ da v{ -vendor-short-name } a gaso un URL ha titouroù diwar-benn arventennoù ho merdeer.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL

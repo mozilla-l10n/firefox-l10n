@@ -25,5 +25,6 @@ error-long-desc4 = Robots hae skyrie metal posteriors which shouldnae be bitten.
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = And they hae a plan.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = Try Aince Mair
     .label2 = Please dinnae press this button again.

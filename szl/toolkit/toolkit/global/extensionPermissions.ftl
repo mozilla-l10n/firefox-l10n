@@ -29,3 +29,7 @@ webext-perms-description-tabs = Dostymp do kart przeglōndarki
 webext-perms-description-tabHide = Krycie i pokazowanie kart przeglōndarki
 webext-perms-description-topSites = Dostymp do historyje przeglōndanio
 webext-perms-description-webNavigation = Dostymp do aktywności przeglōndarki przi nawigacyji
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

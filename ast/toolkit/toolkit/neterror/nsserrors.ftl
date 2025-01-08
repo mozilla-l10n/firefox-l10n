@@ -12,7 +12,6 @@ ssl-error-bad-client = El sirvidor atopó datos incorreutos del veceru.
 ssl-error-bad-server = El veceru atopó datos incorreutos del sirvidor.
 ssl-error-generate-random-failure = SSL esperimentó un fallu del so xenerador de númberos al debalu.
 ssl-error-sign-hashes-failure = Nun ye posible roblar dixitalmente los datos riquíos pa verificar el to certificáu.
-
 sec-error-invalid-args = biblioteca de seguranza: los argumentos nun son válidos.
 sec-error-invalid-algorithm = biblioteca de seguranza: l'algoritmu nun ye válidu.
 sec-error-retry-password = La contraseña nueva introdúxose incorreutamente. Volvi tentalo, por favor.
@@ -32,11 +31,8 @@ sec-error-crl-already-exists = La CRL yá esiste.
 sec-error-not-initialized = NSS nun s'anició.
 sec-error-crl-import-failed = Hebo un fallu al tentar d'importar una CRL.
 sec-error-expired-password = La contraseña caducó.
-
 mozilla-pkix-error-not-yet-valid-certificate = El sirvidor presentó un certificáu qu'entá nun ye válidu.
 mozilla-pkix-error-validity-too-long = El srividor presentó un certificáu que ye válidu per munchu tiempu.
 mozilla-pkix-error-self-signed-cert = El certificáu nun ye d'enfotu porque se robló a sigo mesmu.
-
 xp-java-delete-privilege-error = Nun puede desaniciase'l privilexu
-
 xp-sec-fortezza-person-not-found = Nun s'atopó la personalidá

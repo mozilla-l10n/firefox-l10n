@@ -29,3 +29,7 @@ webext-perms-description-tabs = I-access ang mga browser tab
 webext-perms-description-tabHide = Itago at ipakita ang mga browser tab
 webext-perms-description-topSites = I-access ang kasaysayan ng pag-browse
 webext-perms-description-webNavigation = I-access ang browser activity habang nag-nanavigate
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

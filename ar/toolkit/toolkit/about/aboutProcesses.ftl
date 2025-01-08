@@ -4,7 +4,6 @@
 
 # Page title
 about-processes-title = مدير العمليات
-
 # The Actions column
 about-processes-column-action =
     .title = الإجراءات
@@ -25,22 +24,19 @@ about-processes-column-cpu-total = المعالج
 ## Process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-##    $type (String) The raw type for this process. Used for unknown processes.
 
-## Process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
 
 ## Isolated process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
 ##    $origin (String) The domain name for this process.
 
+
 ## Details within processes
 
 
 ## Utility process actor names
+
 
 ## Displaying CPU (percentage and total)
 ## Variables:
@@ -50,6 +46,7 @@ about-processes-column-cpu-total = المعالج
 ##                    its start.
 ##    $unit (String) The unit in which to display $total. See the definitions
 ##                   of `duration-unit-*`.
+
 
 ## Displaying Memory (total and delta)
 ## Variables:

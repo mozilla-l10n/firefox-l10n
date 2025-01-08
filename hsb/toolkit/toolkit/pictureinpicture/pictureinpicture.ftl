@@ -7,6 +7,7 @@ pictureinpicture-player-title = Wobraz-we-wobrazu
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -21,30 +22,24 @@ pictureinpicture-pause-btn =
 pictureinpicture-play-btn =
     .aria-label = Wothrać
     .tooltip = Wothrać (wobłukowe lajsta)
-
 pictureinpicture-mute-btn =
     .aria-label = Bjez zynka
     .tooltip = Bjez zynka ({ $shortcut })
 pictureinpicture-unmute-btn =
     .aria-label = Ze zynkom
     .tooltip = Ze zynkom ({ $shortcut })
-
 pictureinpicture-unpip-btn =
     .aria-label = K rajtarkej wróćo pósłać
     .tooltip = Wróćo k rajtarkej
-
 pictureinpicture-close-btn =
     .aria-label = Začinić
     .tooltip = Začinić ({ $shortcut })
-
 pictureinpicture-subtitles-btn =
     .aria-label = Podtitule
     .tooltip = Podtitule
-
 pictureinpicture-fullscreen-btn2 =
     .aria-label = Połna wobrazowka
     .tooltip = Połna wobrazowka (klikńće dwójce abo wužiwajće { $shortcut })
-
 pictureinpicture-exit-fullscreen-btn2 =
     .aria-label = Połnu wobrazowku wopušćić
     .tooltip = Połnu wobrazowku wopušćić (klikńće dwójce abo wužiwajće { $shortcut })
@@ -63,7 +58,6 @@ pictureinpicture-toggle-fullscreen-shortcut =
 pictureinpicture-seekbackward-btn =
     .aria-label = Dozady
     .tooltip = Dozady (←)
-
 pictureinpicture-seekforward-btn =
     .aria-label = Doprědka
     .tooltip = Doprědka (→)
@@ -74,13 +68,8 @@ pictureinpicture-seekforward-btn =
 # a screen reader whenever a user opens the subtitles settings panel
 # after selecting the subtitles button.
 pictureinpicture-subtitles-panel-accessible = Nastajenja podtitulow
-
 pictureinpicture-subtitles-label = Podtitule
-
 pictureinpicture-font-size-label = Pismowa wulkosć
-
 pictureinpicture-font-size-small = Mały
-
 pictureinpicture-font-size-medium = Srjedźny
-
 pictureinpicture-font-size-large = Wulki

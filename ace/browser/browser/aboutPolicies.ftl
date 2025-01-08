@@ -3,12 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-policies-title = Keubijakan Peurusahaan
-
 # 'Active' is used to describe the policies that are currently active
 active-policies-tab = Aktif
 errors-tab = Error
 documentation-tab = Dokumentasi
-
 policy-name = Nan Keubijakan
 policy-value = Nilai Keubijakan
 policy-errors = Masalah Keubijakan

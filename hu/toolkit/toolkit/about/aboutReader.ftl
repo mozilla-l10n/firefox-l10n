@@ -12,20 +12,6 @@ about-reader-color-scheme-sepia = Szépia
     .title = Szépia színséma
 about-reader-color-scheme-auto = Automatikus
     .title = Automatikus színséma
-about-reader-color-theme-light = Világos
-    .title = Világos színű téma
-about-reader-color-theme-dark = Sötét
-    .title = Sötét színű téma
-about-reader-color-theme-sepia = Szépia
-    .title = Szépia színű téma
-about-reader-color-theme-auto = Automatikus
-    .title = Automatikus színű téma
-about-reader-color-theme-gray = Szürke
-    .title = Szürke színű téma
-about-reader-color-theme-contrast = Kontrasztos
-    .title = Kontrasztos színű téma
-about-reader-color-theme-custom = Egyéni színek
-    .title = Egyéni színeket használó téma
 about-reader-color-light-theme = Világos
     .title = Világos téma
 about-reader-color-dark-theme = Sötét
@@ -49,7 +35,7 @@ about-reader-estimated-read-time =
        *[other] { $range } perc
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = Betűméret csökkentése
@@ -74,7 +60,6 @@ about-reader-font-type-monospace = Fix szélességű
 
 about-reader-toolbar-close = Olvasó nézet bezárása
 about-reader-toolbar-type-controls = Szövegbeállítások
-about-reader-toolbar-color-controls = Színek
 about-reader-toolbar-text-layout-controls = Szöveg és elrendezés
 about-reader-toolbar-theme-controls = Téma
 about-reader-toolbar-savetopocket = Mentés a { -pocket-brand-name }be
@@ -99,10 +84,9 @@ about-reader-custom-colors-visited-links = Látogatott hivatkozások
     .title = Szín szerkesztése
 about-reader-custom-colors-selection-highlight = Kiemelő a felolvasáshoz
     .title = Szín szerkesztése
-about-reader-custom-colors-reset-button = Alapértelmezések visszaállítása
 about-reader-reset-button = Alapértelmezések visszaállítása
 
-## Reader View improved text and layout menu
+## Reader View text and layout menu
 
 about-reader-text-header = Szöveg
 about-reader-text-size-label = Betűméret
@@ -119,9 +103,6 @@ about-reader-content-width-label =
 about-reader-line-spacing-label =
     .label = Sorköz
 about-reader-advanced-layout-header = Speciális
-about-reader-slider-label-width-narrow = Keskeny
-about-reader-slider-label-width-wide = Széles
-about-reader-slider-label-spacing-narrow = Keskeny
 about-reader-character-spacing-label =
     .label = Karakterköz
 about-reader-word-spacing-label =

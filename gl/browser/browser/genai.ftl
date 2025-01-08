@@ -20,3 +20,13 @@ genai-settings-chat-choose-one-menuitem =
 
 genai-menu-ask-generic =
     .label = Preguntar ao chatbot IA
+
+## Chatbot header
+
+
+## Chatbot onboarding
+
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+

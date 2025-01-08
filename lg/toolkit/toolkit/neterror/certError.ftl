@@ -3,24 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # Variables:
-# $hostname (String) - Hostname of the website with cert error.
+#   $hostname (string) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } ekozesa olukusa lw'ebyokwerinda lukyamu.
-
 cert-error-trust-cert-invalid = Olukusa terwesigika kubanga lwagabwa n'olukusa lwa CA olukyamu.
-
 cert-error-trust-untrusted-issuer = Olukusa terwesigika kubanga olukusa lw'eyagigaba terwesigika.
-
 cert-error-trust-expired-issuer = Olukusa terwesigika kubanga olukusa lw'eyagigaba luyiseeko.
-
 cert-error-trust-self-signed = Olukusa terwesigika kubanga lweteerako omukono.
-
 cert-error-untrusted-default = Olukusa teruva mu kkubo lyesigika.
 
 ## Messages used for certificate error titles
 
 connectionFailure-title = Tekisobose kuyungibwa
 deniedPortAccess-title = Endagiriro eno ekugiddwa
-
 fileNotFound-title = Enteresi ebuze
 generic-title = Oops.
 netInterrupt-title = Okuyungibwa kwataataaganyizibbwa
@@ -36,3 +30,10 @@ proxyResolveFailure-title = Tesobodde kuzuula kompyuta effuga zinayo
 redirectLoop-title = Omuko guno tegulagirira bulungi
 unknownSocketType-title = Engabirizi ezemu nga tekissubirwa
 corruptedContentError-title = Ensobi Mubyomunda Ebicupudwa
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+

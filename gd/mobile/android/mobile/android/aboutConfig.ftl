@@ -6,11 +6,9 @@ config-toolbar-search =
     .placeholder = Lorg
 config-new-pref-name =
     .placeholder = Ainm
-
 config-new-pref-value-boolean = Booleach
 config-new-pref-value-string = Sreang
 config-new-pref-value-integer = Àireamh shlàn
-
 config-new-pref-string =
     .placeholder = Cuir sreang a-steach
 config-new-pref-number =
@@ -18,12 +16,9 @@ config-new-pref-number =
 config-new-pref-cancel-button = Sguir dheth
 config-new-pref-create-button = Cruthaich
 config-new-pref-change-button = Atharraich
-
 config-pref-toggle-button = Toglaich
 config-pref-reset-button = Ath-shuidhich
-
 config-context-menu-copy-pref-name =
     .label = Dèan lethbhreac dhen ainm
 config-context-menu-copy-pref-value =
     .label = Dèan lethbhreac dhen luach
-

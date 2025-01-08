@@ -25,5 +25,6 @@ error-long-desc4 = Ri ch'ich' taq ala's k'o ki nich'ich'an ch'ich kachäq, ri ma
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = Chuqa' k'o kinuk'samaj.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = Titojtob'ëx chik
     .label2 = Man tapïtz' chik jub'ey pa ruwi' re pitz'b'äl re'.

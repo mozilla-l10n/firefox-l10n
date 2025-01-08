@@ -105,3 +105,10 @@ networkProtocolError-title = Ցանցի հաղորդակարգի սխալ
 nssBadCert-title = Զգուշացում․ հնարավոր է ապահովության վտանգ
 nssBadCert-sts-title = Չկապակցվեց․ հնարավոր անվտանգության թողարկող
 certerror-mitm-title = Ծրագիրը կանխում է { -brand-short-name } Անվտանգորեն կապվելով այս կայքի հետ։
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+

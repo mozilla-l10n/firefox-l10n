@@ -39,8 +39,6 @@ address-capture-manage-address-button =
     .label = Stillingar póstfangs
 address-capture-learn-more-button =
     .label = Frekari upplýsingar
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Bæta við nýju heimilisfangi
 address-capture-open-menu-button =
     .aria-label = Opna valmynd
 address-capture-edit-address-button =
@@ -49,10 +47,10 @@ address-capture-edit-address-button =
 autofill-add-address-title = Bæta við heimilisfangi
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Breyta heimilisfangi
-autofill-address-name = Nafn
 autofill-address-given-name = Skírnarnafn
 autofill-address-additional-name = Millinafn
 autofill-address-family-name = Eftirnafn
+autofill-address-name = Nafn
 autofill-address-organization = Fyrirtæki
 autofill-address-street-address = Heimilisfang
 autofill-address-street = Heimilisfang
@@ -108,9 +106,8 @@ autofill-address-eircode = Eircode
 
 ##
 
-
-##
-
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Bæta við nýju heimilisfangi
 autofill-address-country = Land eða hérað
 autofill-address-country-only = Land
 autofill-address-tel = Sími
@@ -122,11 +119,6 @@ autofill-country-warning-message = Sjálfvirkar útfyllingar er bara tiltækar f
 autofill-add-new-card-title = Bæta við nýju kortanúmeri
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Breyta kortanúmeri
-autofill-message-tooltip = Skoða skilaboð um sjálfvirka útfyllingu
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-card-title = Bæta við korti
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title2 = Breyta greiðslukorti
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -135,6 +127,11 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } er að reyna að sýna greiðslukortaupplýsingar. Staðfestu aðgang að þessum Windows-reikningi hér fyrir neðan.
        *[other] { -brand-short-name } er að reyna að birta upplýsingar um greiðslukort.
     }
+autofill-message-tooltip = Skoða skilaboð um sjálfvirka útfyllingu
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Bæta við korti
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Breyta greiðslukorti
 autofill-card-number = Kortanúmer
 autofill-card-invalid-number = Settu inn gilt kortanúmer
 autofill-card-name-on-card = Nafn á korti

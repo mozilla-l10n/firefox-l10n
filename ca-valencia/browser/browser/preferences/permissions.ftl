@@ -5,77 +5,59 @@
 permissions-window2 =
     .title = Excepcions
     .style = min-width: 48em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Adreça del lloc web
     .accesskey = d
-
 permissions-block =
     .label = Bloca
     .accesskey = B
-
 permissions-session =
     .label = Permet durant la sessió
     .accesskey = s
-
 permissions-allow =
     .label = Permet
     .accesskey = P
-
 permissions-button-off =
     .label = Desactiva
     .accesskey = D
-
 permissions-button-off-temporarily =
     .label = Desactiva temporalment
     .accesskey = t
-
 permissions-site-name =
     .label = Lloc web
-
 permissions-status =
     .label = Estat
-
 permissions-remove =
     .label = Elimina el lloc web
     .accesskey = E
-
 permissions-remove-all =
     .label = Elimina tots els llocs web
     .accesskey = E
-
 permission-dialog =
     .buttonlabelaccept = Guarda els canvis
     .buttonaccesskeyaccept = s
-
 permissions-autoplay-menu = Per defecte per a tots els llocs web:
-
 permissions-searchbox =
     .placeholder = Cerca el lloc web
-
 permissions-capabilities-autoplay-allow =
     .label = Permet àudio i vídeo
 permissions-capabilities-autoplay-block =
     .label = Bloca àudio
 permissions-capabilities-autoplay-blockall =
     .label = Bloca àudio i vídeo
-
 permissions-capabilities-allow =
     .label = Permet
 permissions-capabilities-block =
     .label = Bloca
 permissions-capabilities-prompt =
     .label = Demana-m'ho sempre
-
 permissions-capabilities-listitem-allow =
     .value = Permet
 permissions-capabilities-listitem-block =
     .value = Bloca
 permissions-capabilities-listitem-allow-session =
     .value = Permet durant la sessió
-
 permissions-capabilities-listitem-off =
     .value = Desactivat
 permissions-capabilities-listitem-off-temporarily =
@@ -119,6 +101,9 @@ permissions-exceptions-saved-logins-window2 =
     .title = Excepcions - Inicis de sessió guardats
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = No es guardaran les dades d'inici de sessió dels llocs web següents:
+
+## Exceptions - Saved Passwords
+
 
 ## Exceptions - Add-ons
 

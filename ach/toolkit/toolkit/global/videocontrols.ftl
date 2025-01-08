@@ -16,16 +16,16 @@ videocontrols-exitfullscreen-button =
     .aria-label = Kat woko ki i wang komputa ma opong
 videocontrols-casting-button-label =
     .aria-label = Ket i wang komputa
+# .offlabel is processed by the video control custom element to be used
+# as a text-track label
 videocontrols-closed-caption-off =
     .offlabel = Pe tye
-
 videocontrols-error-aborted = Kijuko woko cano vidio.
 videocontrols-error-network = Kijuko woko tuko vidio malube ki bal me netwak.
 videocontrols-error-decode = Pe kitwero tuko vidio pien pwail ne obale woko.
 videocontrols-error-src-not-supported = Pe kicwako kit onyo MIME me vidio ne.
 videocontrols-error-no-source = Pe kinongo vidio mo ki kit ma kicwako onyo MIME.
 videocontrols-error-generic = Kijuko woko tuko vidio malube ki bal me pe ngene.
-
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -39,4 +39,3 @@ videocontrols-error-generic = Kijuko woko tuko vidio malube ki bal me pe ngene.
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
-

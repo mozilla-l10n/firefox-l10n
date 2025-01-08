@@ -6,6 +6,5 @@ tabmodalprompt-username =
     .value = Nomu utenti:
 tabmodalprompt-password =
     .value = Chiavi:
-
 tabmodalprompt-ok-button =
     .label = OK

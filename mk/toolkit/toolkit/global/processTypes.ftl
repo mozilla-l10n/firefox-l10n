@@ -5,23 +5,19 @@
 
 ##
 ## Localization for remote types defined in RemoteType.h
-##
 
 
 ##
 ## Localization for Gecko process types defined in GeckoProcessTypes.h
-##
 
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
-
 # process used to decode media
 process-type-rdd = RDD
 
 ##
 ## Other
-##
 
 # fallback
 process-type-unknown = Непознато

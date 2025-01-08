@@ -14,8 +14,8 @@ newtab-personalize-icon-label =
 
 ## Search box component.
 
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Busca con { $engine } o introduz una direición
 
 ## Top Sites - General form dialog.
@@ -155,6 +155,9 @@ newtab-pocket-read-more = Temes populares:
 newtab-pocket-more-recommendations = Más recomendaciones
 newtab-pocket-learn-more = Lleer más
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 
@@ -170,6 +173,8 @@ newtab-custom-shortcuts-subtitle = Sitios que guardes o visites
 newtab-custom-shortcuts-toggle =
     .label = Atayos
     .description = Sitios que guardes o visites
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } filera
@@ -183,3 +188,32 @@ newtab-custom-recent-toggle =
     .description = Una esbilla de los sitios y del conteníu recién
 newtab-custom-close-button = Zarrar
 newtab-custom-settings = Xestionar más axustes
+
+## New Tab Wallpapers
+
+
+## Solid Colors
+
+
+## Abstract
+
+
+## Photographs
+
+
+## New Tab Weather
+
+
+## Topic Labels
+
+
+## Topic Selection Modal
+
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Confirmation modal for blocking a section
+

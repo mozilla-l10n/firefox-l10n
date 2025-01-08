@@ -10,6 +10,8 @@ safeb-blocked-phishing-page-short-desc = { -brand-short-name } heeft deze pagina
 safeb-blocked-malware-page-short-desc = { -brand-short-name } heeft deze pagina geblokkeerd, omdat deze kwaadwillende software kan proberen te installeren die persoonlijke gegevens op uw computer kan stelen of verwijderen.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } heeft deze pagina geblokkeerd, omdat deze zou kunnen proberen u programma’s te laten installeren die schade aan uw surfervaring kunnen toebrengen (door bijvoorbeeld uw startpagina te wijzigen of extra advertenties te tonen op websites die u bezoekt).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } heeft deze pagina geblokkeerd, omdat deze gevaarlijke apps zou kunnen proberen te installeren die uw gegevens (zoals foto’s, wachtwoorden, berichten en creditcardgegevens) stelen of verwijderen.
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Advies verstrekt door <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Teruggaan
 safeb-palm-see-details-label = Details bekijken

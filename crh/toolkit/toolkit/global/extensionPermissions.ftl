@@ -29,3 +29,7 @@ webext-perms-description-tabs = Kezici ilmeklerine irişmek
 webext-perms-description-tabHide = Seyrancı ilmeklerini gizle ve köster
 webext-perms-description-topSites = Kezinme keçmişine irişmek
 webext-perms-description-webNavigation = Seyrüsefer esnasında kezici faaliyetine irişmek
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

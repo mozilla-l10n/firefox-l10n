@@ -20,4 +20,3 @@ console-timer-start = { $name }: pemasa telah bermula
 #   $name (String): user-defined name for the timer
 #   $duration (String): number of milliseconds
 console-timer-end = { $name }: { $duration }ms
-

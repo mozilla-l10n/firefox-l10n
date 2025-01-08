@@ -5,8 +5,9 @@
 # Used to display update history
 #
 # Variables:
-#   $name (String): name of the update
-#   $buildID (String): build identifier from the local updates.xml
+#   $name (string) - Name of the update
+#   $buildID (string) - Build identifier from the local updates.xml
 update-full-build-name = { $name } ({ $buildID })
-
+# Variables:
+#   $status (string) - Status of the last update
 update-status = Irechikua: { $status }

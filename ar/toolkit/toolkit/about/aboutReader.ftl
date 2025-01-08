@@ -4,12 +4,10 @@
 
 about-reader-loading = يُحمّل…
 about-reader-load-error = فشل تحميل المقالة من الصفحة
-
 about-reader-color-scheme-light = فاتح
     .title = مخطّط الألوان فاتح
 about-reader-color-scheme-dark = داكن
     .title = مخطّط الألوان داكن
-
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -25,7 +23,7 @@ about-reader-estimated-read-time =
        *[other] { $range } دقيقة
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = صغّر مقاس الخط
@@ -49,3 +47,14 @@ about-reader-font-type-sans-serif = غير مذيّل
 
 about-reader-toolbar-close = أغلق منظور القارئ
 about-reader-toolbar-type-controls = أزرار الخطوط
+
+## Reader View colors menu
+
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+
+## Reader View text and layout menu
+

@@ -37,7 +37,6 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Ahora no
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = Hay una nueva actualización de { -brand-shorter-name } disponible, pero no se puede instalar porque se está ejecutando otra copia de { -brand-shorter-name }. Ciérrala para continuar con la actualización o elige actualizar de todas formas (es posible que la otra copia no funcione correctamente hasta que la reinicies).
-
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Aceptar
     .buttonaccesskey = A
@@ -45,7 +44,6 @@ appmenu-addon-post-install-message3 = Administra tus complementos y temas a trav
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permitir que esta extensión funcione en ventanas privadas
     .accesskey = P
-    
 appmenu-new-tab-controlled-changes =
     .label = Tu página de nueva pestaña ha cambiado.
     .buttonlabel = Mantener los cambios

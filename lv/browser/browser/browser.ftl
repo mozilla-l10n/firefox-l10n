@@ -942,9 +942,6 @@ private-browsing-indicator-label = Privātā pārlūkošana
 content-analysis-indicator-tooltip =
     .tooltiptext = Datu zuduma novēršana (DLP), ko nodrošina { $agentName }. Spiediet, lai uzzinātu vairāk.
 content-analysis-panel-title = Datu aizsardzība
-# Variables:
-#   $agentName (String): The name of the DLP agent that is connected
-content-analysis-panel-text = Jūsu organizācija izmanto { $agentName }, lai aizsargātu pret datu zudumu. <a data-l10n-name="info">Uzzināt vairāk</a>
 
 ## Unified extensions (toolbar) button
 
@@ -969,6 +966,10 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         Paplašinājumi
         Daži paplašinājumi nav atļauti
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
 
 ## Private browsing reset button
 

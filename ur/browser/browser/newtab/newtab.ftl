@@ -74,7 +74,7 @@ newtab-dismiss-button-tooltip =
     .aria-label = ہٹائیں
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
-#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+#   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .title = مینیو کھولیں
     .aria-label = { $title } کے لئے کونٹیکسٹ مینو کھولیں
@@ -141,7 +141,7 @@ newtab-label-saved = { -pocket-brand-name } میں محفوظ شدہ
 newtab-label-download = ڈاؤن لوڈ شدہ
 # This string is used in the story cards to indicate sponsored content
 # Variables:
-#  $sponsorOrSource (String): This is the name of a company or their domain
+#   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } - تعاون شدہ
 
 ## Section Menu: These strings are displayed in the section context menu and are
@@ -170,7 +170,7 @@ newtab-section-expand-section-label =
 newtab-section-header-topsites = بہترین سائٹیں
 newtab-section-header-recent-activity = حالیہ سرگرمی
 # Variables:
-#  $provider (String): Name of the corresponding content provider.
+#   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } کی جانب سے تجویز کردہ
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
@@ -194,6 +194,9 @@ newtab-pocket-more-recommendations = اور زیادہ سفارشات
 newtab-pocket-learn-more = مزید سیکھیں
 newtab-pocket-cta-button = { -pocket-brand-name } حاصل کریں
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 
@@ -210,6 +213,8 @@ newtab-custom-shortcuts-subtitle = وہ سائٹس جو آپ محفوظ کرتے
 newtab-custom-shortcuts-toggle =
     .label = تیز راہ
     .description = وہ سائٹس جو آپ محفوظ کرتے ہیں یا ملاحظہ کرتے ہیں۔
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } قطار
@@ -218,3 +223,32 @@ newtab-custom-row-selector =
 newtab-custom-recent-title = حالیہ سرگرمی
 newtab-custom-close-button = بند کریں
 newtab-custom-settings = مزید سیٹنگز کو نظم کریں
+
+## New Tab Wallpapers
+
+
+## Solid Colors
+
+
+## Abstract
+
+
+## Photographs
+
+
+## New Tab Weather
+
+
+## Topic Labels
+
+
+## Topic Selection Modal
+
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Confirmation modal for blocking a section
+

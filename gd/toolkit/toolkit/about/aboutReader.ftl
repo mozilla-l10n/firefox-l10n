@@ -4,7 +4,6 @@
 
 about-reader-loading = ’Ga luchdadh…
 about-reader-load-error = Dh'fhàillig luchdadh an artaigil on duilleag
-
 about-reader-color-scheme-light = Soilleir
     .title = Sgeama dhathan soilleir
 about-reader-color-scheme-dark = Dorcha
@@ -13,7 +12,6 @@ about-reader-color-scheme-sepia = Sepia
     .title = Sgeama dhathan sepia
 about-reader-color-scheme-auto = Auto
     .title = Color Scheme Auto
-
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -27,7 +25,7 @@ about-reader-estimated-read-time =
        *[other] { $range } mionaid
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = Lùghdaich meud a’ chrutha-chlò
@@ -52,3 +50,14 @@ about-reader-font-type-sans-serif = Sans-serif
 about-reader-toolbar-close = Dùin sealladh an leughadair
 about-reader-toolbar-type-controls = Uidheaman-smachd sgrìobhaidh
 about-reader-toolbar-savetopocket = Sàbhail gu { -pocket-brand-name }
+
+## Reader View colors menu
+
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+
+## Reader View text and layout menu
+

@@ -4,5 +4,5 @@
 
 refresh-profile =
     .label = Освежи { -brand-short-name }
-# Shown on the safe mode dialog after multiple startup crashes. 
+# Shown on the safe mode dialog after multiple startup crashes.
 auto-safe-mode-description = { -brand-short-name } се урна неочекувано за време на стартувањето. Ова може да се случи поради додатоци или други проблеми. Можете да се обидете да го решите проблемот со инстражување во Безбеден режим.

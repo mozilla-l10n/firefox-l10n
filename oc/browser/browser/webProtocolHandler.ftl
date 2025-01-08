@@ -11,5 +11,3 @@ protocolhandler-mailto-os-handler-no-button = Pas ara
 
 ##
 
-protocolhandler-mailto-handler-yes-button = Definir per defaut
-protocolhandler-mailto-handler-no-button = Pas ara

@@ -10,6 +10,8 @@ safeb-blocked-phishing-page-short-desc = { -brand-short-name } ogengo potbuk man
 safeb-blocked-malware-page-short-desc = { -brand-short-name } ogengo potbuk man pien twero teme me keto purugram marac ma romo kwalo onyo kwanyo ngec mamegi ma i kompiuta ni.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } ogengo potbuk man pien romo bwoli me keto purugram ma balo tic me yeny mamegi (labolle, ki loko potbuk me acakki mamegi onyo nyuto kwena cato wil mapol i kakube ma ilimo).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } ogengo potbuk man pien twero teme me keto purugram maraco ma kwalo onyo kwanyo woko ngec mamegi (me labolle, cal, mung me donyo, kwena ki kad me bank).
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Lami tam obedo <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Dok cen
 safeb-palm-see-details-label = Nen kore ki kore
@@ -27,7 +29,9 @@ safeb-blocked-phishing-page-learn-more = Nong ngec mapol ikom kakube me bwola ki
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
+
 ##
+
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page

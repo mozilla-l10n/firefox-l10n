@@ -5,7 +5,6 @@
 
 ##
 ## Localization for remote types defined in RemoteType.h
-##
 
 process-type-web = Lëndë Web
 # process used to run privileged about pages,
@@ -28,7 +27,6 @@ process-type-prealloc = I paradhënë
 
 ##
 ## Localization for Gecko process types defined in GeckoProcessTypes.h
-##
 
 process-type-default = Kryesorja
 process-type-tab = Skedë
@@ -42,7 +40,6 @@ process-type-utility = Aktor IPC Brenda Bankëprove
 
 ##
 ## Other
-##
 
 # fallback
 process-type-unknown = E panjohur

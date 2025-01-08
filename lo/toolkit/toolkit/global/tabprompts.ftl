@@ -6,7 +6,6 @@ tabmodalprompt-username =
     .value = ຊື່ຜູ້ໃຊ້:
 tabmodalprompt-password =
     .value = ລະຫັດຜ່ານ:
-
 tabmodalprompt-ok-button =
     .label = OK
 tabmodalprompt-cancel-button =

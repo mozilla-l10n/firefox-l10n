@@ -4,22 +4,18 @@
 
 page-info-window =
     .style = width: 610px; min-height: 550px;
-
 copy =
     .key = C
 menu-copy =
     .label = Ndatava
     .accesskey = N
-
 select-all =
     .key = A
 menu-select-all =
     .label = Kasti nti'a
     .accesskey = S
-
 close-dialog =
     .key = w
-
 general-tab =
     .label = Ntií
     .accesskey = N
@@ -43,7 +39,6 @@ general-meta-name =
     .label = Sivìi
 general-meta-content =
     .label = Kontenido
-
 media-tab =
     .label = Multimedia
     .accesskey = M
@@ -69,10 +64,8 @@ media-save-as =
 media-save-image-as =
     .label = Chika vaá Tana...
     .accesskey = C
-
 security-view-identity-domain =
     .value = Sitio web:
-
 help-button =
     .label = Chinchee
 
@@ -83,7 +76,6 @@ help-button =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 security-site-data-only = Vaa, { $value } { $unit } tu'un sitio
-
 security-site-data-cookies-only = Vaá,  cookies
 security-site-data-no = No
 
@@ -107,7 +99,6 @@ media-video = Vídeo
 media-audio = Ndusu
 saved-passwords-yes = Va'a
 saved-passwords-no = No
-
 no-page-title =
     .value = Koo sivi página:
 general-quirks-mode =
@@ -115,7 +106,6 @@ general-quirks-mode =
 permissions-use-default =
     .label = Kuachuin tana ntsikai xina
 security-no-visits = No
-
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
@@ -126,7 +116,6 @@ general-meta-tags =
             [one] Meta (1 etiqueta)
            *[other] Meta ({ $tags } etiquetas)
         }
-
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -137,7 +126,6 @@ security-visits-number =
         [one] Sí, una vez
        *[other] Sí, { $visits } veces
     }
-
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
@@ -148,7 +136,6 @@ properties-general-size =
             [one] { $kb } KB ({ $bytes } byte)
            *[other] { $kb } KB ({ $bytes } bytes)
         }
-
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:
@@ -160,14 +147,12 @@ media-animated-image-type =
             [one] { $type } Imagen (animada, { $frames } marco)
            *[other] { $type } Imagen (animada, { $frames } marcos)
         }
-
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = Imagen { $type }
-
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -177,14 +162,12 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (escalado a { $scaledx }px × { $scaledy }px)
-
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
-
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
@@ -196,16 +179,11 @@ media-file-size = { $size } KB
 
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
-# Variables:
-#   $website (string) - The website name
 media-block-image =
     .label = Kasi imágenes ña { $website }
     .accesskey = B
-
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
-# Variables:
-#   $website (string) - The url of the website pageInfo is getting info for
 page-info-page =
     .title = Tu'un tsa página - { $website }
 page-info-frame =

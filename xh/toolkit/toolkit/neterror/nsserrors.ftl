@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -9,13 +10,11 @@
 
 psmerr-ssl-disabled = Ayikwazi kuqhagamshela ngokukhuselekileyo ngenxa yokuba iSSL protokoli iyekisiwe.
 psmerr-ssl2-disabled = Ayikwazi kuqhagamshela ngokukhuselekileyo ngenxa yokuba isayithi isebenzisa uhlelo oludala olungakhuselekanga lweprotokoli iSSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Ufumene isatifikethi esingasebenziyo.  Nceda zidibanise nomlawuli weseva okanye obhalelanana naye ngemeyile uze umnike ulwazi olulandelayo:
     
     Isatifikethi sakho siqulethe inombolo yolandelelwano efana ncam neyesinye isatifikethi esikhutshwe ngugunyaziwe wezatifikethi.  Nceda fumana isatifikethi esiqulethe inombolo yolandelelwano efana yodwa.
-
 ssl-error-export-only-server = Ayikwazi kunxibelelana ngokukhuselekileyo. Umlingane akakuxhasi ukukhowuda okukumgangatho ophezulu.
 ssl-error-us-only-server = Ayikwazi kunxibelelana ngokukhuselekileyo. Umlingane ufuna ukukhowuda okukumgangatho ophezulu okungaxhaswayo.
 ssl-error-unsupported-certificate-type = Uhlobo lwesatifikethi olungaxhaswayo.
@@ -70,7 +69,6 @@ ssl-error-rx-unexpected-hello-verify-request = I-SSL ifumene iHello Verify Reque
 ssl-error-rx-unexpected-cert-status = I-SSL ifumene iCertificate Status engalindelwanga esinomyalezo woxhawulo-zandla.
 ssl-error-incorrect-signature-algorithm = I-algorithimu yosayino olungachananga ichazwe kwi-elementi esayinwe ngedijithali.
 ssl-error-weak-server-cert-key = Isatifikethi seseva siqukiwe kwikhi kawonke wonke ebi-ethe ethe kakhulu.
-
 sec-error-input-len = ilayibrari yokhuseleko iye yafumana impazamo yobude be-input.
 sec-error-invalid-args = ilayibrari yokhuseleko; iingxoxo ezingezizo.
 sec-error-invalid-algorithm = ilayibrari yokhuseleko; ialgorithimu engeyiyo.
@@ -109,7 +107,5 @@ sec-error-bad-http-response = Iseva ibuyisele impendulo engentle yeHTTP
 sec-error-bad-ldap-response = Iseva ibuyisele impendulo engentle yeLDAP
 sec-error-pkcs11-function-failed = Imodyuli yePKCS #11 ibuyise i-CKR_FUNCTION_FAILED, ibonisa ukuba umsebenzi oceliweyo awunakwenziwa. Ukuzama umsebenzi ofanayo kwakhona kusenokuphumelela.
 sec-error-pkcs11-device-error = I-PKCS #11 modyuli ibuyisele i-CKR_DEVICE_ERROR, ibonisa ukuba ingxaki iye yavela ngetokheni okanye islothi.
-
 xp-java-cert-not-exists-error = Lo prinsipali akanaso isatifikethi
-
 xp-sec-fortezza-bad-pin = I-pin Engasebenziyo

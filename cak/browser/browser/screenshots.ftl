@@ -48,8 +48,6 @@ screenshots-too-large-error-title = Ri chapoj ruwäch xqupïx ruma yalan nïm
 screenshots-component-retry-button =
     .title = Titojtob'ëx chik chapoj ruwachib'al
     .aria-label = Titojtob'ëx chik chapoj ruwachib'al
-screenshots-component-copy-button-label = Tiwachib'ëx
-screenshots-component-download-button-label = Tiqasäx
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.

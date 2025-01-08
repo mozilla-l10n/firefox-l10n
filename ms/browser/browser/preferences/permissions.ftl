@@ -5,53 +5,40 @@
 permissions-window2 =
     .title = Pengecualian
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Alamat laman web
     .accesskey = l
-
 permissions-block =
     .label = Sekat
     .accesskey = a
-
 permissions-session =
     .label = Izinkan untuk Sesi
     .accesskey = S
-
 permissions-allow =
     .label = Izinkan
     .accesskey = A
-
 permissions-site-name =
     .label = Laman web
-
 permissions-status =
     .label = Status
-
 permissions-remove =
     .label = Buang Laman Web
     .accesskey = B
-
 permissions-remove-all =
     .label = Buang Semua Laman Web
     .accesskey = u
-
 permission-dialog =
     .buttonlabelaccept = Simpan Perubahan
     .buttonaccesskeyaccept = S
-
 permissions-searchbox =
     .placeholder = Carian laman web
-
 permissions-capabilities-allow =
     .label = Izinkan
 permissions-capabilities-block =
     .label = Sekat
 permissions-capabilities-prompt =
     .label = Sentiasa Tanya
-
 permissions-capabilities-listitem-allow =
     .value = Izinkan
 permissions-capabilities-listitem-block =
@@ -90,6 +77,9 @@ permissions-exceptions-saved-logins-window2 =
     .title = Pengecualian - Log masuk Tersimpan
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Log masuk ke laman berikut tidak akan disimpan
+
+## Exceptions - Saved Passwords
+
 
 ## Exceptions - Add-ons
 

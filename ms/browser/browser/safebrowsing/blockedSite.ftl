@@ -10,6 +10,8 @@ safeb-blocked-phishing-page-short-desc = { -brand-short-name } menyekat halaman 
 safeb-blocked-malware-page-short-desc = { -brand-short-name } menyekat halaman ini kerana cuba memasang perisian hasad yang boleh mencuri atau menghapuskan maklumat peribadi dalam komputer anda.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } menyekat halaman ini kerana cuba memperdayakan anda supaya memasang atur cara yang membahayakan pelayaran anda (contohnya, dengan menukar laman atau memaparkan iklan tambahan dalam laman yang dilawati).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } menyekat halaman ini kerana cuba memasang aplikasi yang mencuri data atau menghapuskan data anda (sebagai contoh, foto, kata laluan, mesej dan kad kredit).
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Khidmat nasihat disediakan oleh <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Undur
 safeb-palm-see-details-label = Lihat butiran
@@ -27,7 +29,9 @@ safeb-blocked-phishing-page-learn-more = Ketahui lebih lanjut perihal laman meng
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
+
 ##
+
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page

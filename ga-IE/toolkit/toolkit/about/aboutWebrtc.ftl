@@ -8,7 +8,6 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = Inneall WebRTC
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = sábháil about:webrtc mar
@@ -22,14 +21,12 @@ about-webrtc-aec-logging-msg-label = Logáil AEC
 about-webrtc-aec-logging-off-state-label = Tosaigh Logáil AEC
 about-webrtc-aec-logging-on-state-label = Stop Logáil AEC
 about-webrtc-aec-logging-on-state-msg = Logáil AEC ar siúl (déan comhrá ar feadh cúpla nóiméad ansin cuir deireadh leis an taifeadadh)
-
 about-webrtc-aec-logging-toggled-on-state-msg = Logáil AEC ar siúl (déan comhrá ar feadh cúpla nóiméad ansin cuir deireadh leis an taifeadadh)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Is féidir teacht ar na logchomhaid ghafa in: { $path }
 
 ##
-
 
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
@@ -73,12 +70,10 @@ about-webrtc-type-remote = I gCéin
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Ainmnithe
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Roghnaithe
-
 about-webrtc-save-page-label = Sábháil an Leathanach
 about-webrtc-debug-mode-msg-label = Mód Dífhabhtaithe
 about-webrtc-debug-mode-off-state-label = Tosaigh an Mód Dífhabhtaithe
@@ -91,7 +86,6 @@ about-webrtc-log-show-msg = taispeáin an logchomhad
     .title = cliceáil chun an rannóg seo a leathnú
 about-webrtc-log-hide-msg = cuir an logchomhad i bhfolach
     .title = cliceáil chun an rannóg a laghdú
-
 about-webrtc-log-section-show-msg = Taispeáin an logchomhad
     .title = Cliceáil chun an rannóg seo a leathnú
 about-webrtc-log-section-hide-msg = Cuir an logchomhad i bhfolach
@@ -138,22 +132,24 @@ about-webrtc-encoder-label = Ionchódóir
 ##
 
 
-## These are paths used for saving the about:webrtc page or log files so
-## they can be attached to bug reports.
-## Variables:
-##  $path (String) - The path to which the file is saved.
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+
+##
+
+
+##
 
 about-webrtc-save-page-msg = sábhaladh an leathanach i: { $path }
 about-webrtc-debug-mode-off-state-msg = is féidir teacht ar an logchomhad rianaithe anseo: { $path }
 about-webrtc-debug-mode-on-state-msg = mód dífhabhtaithe ar siúl, logchomhad rianaithe: { $path }
 about-webrtc-aec-logging-off-state-msg = is féidir teacht ar na logchomhaid ghafa in: { $path }
-
+# This path is used for saving the about:webrtc page so it can be attached to
+# bug reports.
+# Variables:
+#  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Sábhaladh an leathanach i: { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = Is féidir teacht ar an logchomhad rianaithe anseo: { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = Mód dífhabhtaithe ar siúl, logchomhad rianaithe: { $path }
-
-##
-
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:

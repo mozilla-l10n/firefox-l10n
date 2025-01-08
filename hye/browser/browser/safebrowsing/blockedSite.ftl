@@ -10,6 +10,8 @@ safeb-blocked-phishing-page-short-desc = { -brand-short-name }-ը արգելափ
 safeb-blocked-malware-page-short-desc = { -brand-short-name }-ը արգելափակել է այս էջը, քանի որ այն կարող է փորձել տեղադրել վնասագիր ծրագրաշար, որը իր հերթին կարող է գողանալ կամ ջնջել անձնական տեղեկութիւններ Ձեր համակարգչում։
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name }-ը արգելափակել է այս էջը, քանի որ այն կարող է փորձել խորամանկաւրէն սողոսկել տեղադրուած ծրագրերի մէջ եւ վնասել դիտարկումների Ձեր փորձառութիւնը (աւրինակ՝ փոխելով դիտարկչի մեկնարկային էջը կամ ցուցադրելով գովազդ Ձեր այցելած կայքերում)։
 safeb-blocked-harmful-page-short-desc = { -brand-short-name }-ը արգելափակել է այս էջը, քանի որ այն կարող է փորձել տեղադրել վտանգաւոր հաւելուածներ, որոնք կը գողանան կամ կը ջնջեն Ձեր տուեալները (աւրինակ՝ լուսանկարներ, գաղտնաբառեր, հաղորդագրութիւններ եւ բանկային քարտ)։
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Խորհրդատուութիւնը՝ <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>։
 safeb-palm-accept-label = Յետ վերադառանալ
 safeb-palm-see-details-label = Դիտել մանրամասները

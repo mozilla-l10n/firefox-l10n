@@ -78,6 +78,9 @@ toolbar-button-fxaccount =
     .label = { -fxaccount-brand-name(capitalization: "sentence") }
     .tooltiptext = { -fxaccount-brand-name(capitalization: "sentence") }
 
+## Account toolbar Button
+
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -284,9 +287,7 @@ main-context-menu-send-to-device =
     .label = ডিভাইচলৈ পৃষ্ঠা পঠিয়াওক
     .accesskey = n
 
-## The access keys for "Use Saved Login" and "Use Saved Password"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
+##
 
 main-context-menu-use-saved-login =
     .label = সাঁচি থোৱা লগিন ব্যৱহাৰ কৰক

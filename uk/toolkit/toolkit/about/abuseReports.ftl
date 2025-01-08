@@ -18,8 +18,6 @@ abuse-report-addon-authored-by = від <a data-l10n-name="author-name">{ $autho
 abuse-report-learnmore =
     Не впевнені, яку проблему обрати?
     <a data-l10n-name="learnmore-link">Дізнайтеся більше про скарги на розширення і теми</a>
-abuse-report-learnmore-intro = Не впевнені, яку проблему обрати?
-abuse-report-learnmore-link = Дізнайтеся більше про скарги на розширення і теми
 abuse-report-submit-description = Опишіть проблему (необов'язково)
 abuse-report-textarea =
     .placeholder = Нам легше розв'язати проблему, якщо вона детально описана. Будь ласка, розкажіть про усі подробиці. Дякуємо за допомогу.
@@ -48,24 +46,6 @@ abuse-report-messagebar-removed-sitepermission = Дякуємо за надси�
 abuse-report-messagebar-removed-theme = Дякуємо за надсилання скарги. Ви вилучили тему <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Сталася помилка під час надсилання скарги на <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Скаргу на <span data-l10n-name="addon-name">{ $addon-name }</span> не було надіслано, тому що недавно було відправлено іншу скаргу.
-abuse-report-messagebar-aborted2 =
-    .message = Скаргу на { $addon-name } скасовано.
-abuse-report-messagebar-submitting2 =
-    .message = Надсилання скарги на { $addon-name }.
-abuse-report-messagebar-submitted2 =
-    .message = Дякуємо за надсилання скарги. Хочете вилучити { $addon-name }?
-abuse-report-messagebar-submitted-noremove2 =
-    .message = Дякуємо за надсилання скарги.
-abuse-report-messagebar-removed-extension2 =
-    .message = Дякуємо за надсилання скарги. Ви вилучили розширення { $addon-name }.
-abuse-report-messagebar-removed-sitepermission2 =
-    .message = Дякуємо за надсилання звіту. Ви вилучили дозволи сайтів для додатка { $addon-name }.
-abuse-report-messagebar-removed-theme2 =
-    .message = Дякуємо за надсилання скарги. Ви вилучили тему { $addon-name }.
-abuse-report-messagebar-error2 =
-    .message = Сталася помилка під час надсилання скарги на { $addon-name }.
-abuse-report-messagebar-error-recent-submit2 =
-    .message = Скаргу на { $addon-name } не було надіслано, тому що недавно було відправлено іншу скаргу.
 
 ## Message bars actions.
 

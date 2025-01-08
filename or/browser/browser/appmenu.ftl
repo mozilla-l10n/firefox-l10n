@@ -34,7 +34,6 @@ appmenuitem-fullscreen =
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 appmenuitem-fxa-manage-account = ଆକାଉଣ୍ଟ୍ ପରିଚାଳନା
-
 appmenuitem-save-page =
     .label = ପୃଷ୍ଠାକୁ ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ…
 
@@ -48,7 +47,6 @@ whatsnew-panel-header = ନୂଆ କଣ ରହିଛି
 
 profiler-popup-reveal-description-button =
     .aria-label = ଅଧିକ ସୂଚନା ପ୍ରକାଶ କରନ୍ତୁ
-
 profiler-popup-learn-more-button =
     .label = ଅଧିକ ଜାଣନ୍ତୁ
 
@@ -57,12 +55,12 @@ profiler-popup-learn-more-button =
 
 
 # Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/popup/background.jsm.js
+# devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
 
 # Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
+# devtools/client/performance-new/shared/background.sys.mjs
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
 profiler-popup-presets-media-label =
@@ -86,4 +84,10 @@ appmenu-about =
 
 
 ## More Tools
+
+
+## Panel for privacy and security products
+
+
+## Profiles panel
 

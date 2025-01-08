@@ -5,7 +5,6 @@
 
 ##
 ## Localization for remote types defined in RemoteType.h
-##
 
 process-type-web = Web içeriği
 # process used to run privileged about pages,
@@ -30,7 +29,6 @@ process-type-prealloc = Önceden ayrılmış
 
 ##
 ## Localization for Gecko process types defined in GeckoProcessTypes.h
-##
 
 process-type-default = Ana
 process-type-tab = Sekme
@@ -55,7 +53,6 @@ process-type-utility-actor-windows-file-dialog = Windows dosya iletişim kutusu 
 
 ##
 ## Other
-##
 
 # fallback
 process-type-unknown = Bilinmiyor

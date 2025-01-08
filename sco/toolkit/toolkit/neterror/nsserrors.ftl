@@ -10,13 +10,11 @@
 
 psmerr-ssl-disabled = Cannae connect siccarly acause the SSL protocol has been disabled.
 psmerr-ssl2-disabled = Cannae connect siccarly acause the site yaises an aulder, unsiccar version o the SSL protocol.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Ye hae received a certificate that isnae suithfest. Please get in touch wi the server admeenistrator or email correspondent and gie them the follaein information:
     
     Yer certificate conteens the same serial nummer as anither certificate gied oot by the certificate authority. Please get yersel a new certificate conteenin a unique serial nummer.
-
 ssl-error-export-only-server = Unable tae communicate siccarly. Peer disnae support high-grade encryption.
 ssl-error-us-only-server = Unable tae communicate siccarly. Peer requires high-grade encryption which isnae supportit.
 ssl-error-no-cypher-overlap = Cannae communicate siccarly wi peer: nae common encryption algorithm(s).
@@ -153,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = Nae supportit TLS signature algorit
 ssl-error-unsupported-signature-algorithm = The peer yaised an unsupportit combination o signature and hash algorithm.
 ssl-error-missing-extended-master-secret = The peer ettlet at gangin on wioot a correct extendit_master_secret extension.
 ssl-error-unexpected-extended-master-secret = The peer ettlet at gangin on wi an unexpectit extendit_master_secret extension.
-
 sec-error-io = An I/O mishanter tuik place durin siccarness authorization.
 sec-error-library-failure = siccarness leebrar failure.
 sec-error-bad-data = siccarness leebrar: received bad data.
@@ -320,7 +317,6 @@ sec-error-locked-password = The passwird is lockit.
 sec-error-unknown-pkcs11-error = Unkent PKCS #11 mishanter.
 sec-error-bad-crl-dp-url = No suithfest or unsupportit URL in CRL distribution pynt nemme.
 sec-error-cert-signature-algorithm-disabled = The certificate wis signed yaisin a signature algorithm that is disabled acause it isnae siccar.
-
 mozilla-pkix-error-key-pinning-failure = The server yaises key pinnin (HPKP) but nae trustit certificate chain could be biggit that matches the pinset. Key pinnin violations cannae be owerridden.
 mozilla-pkix-error-ca-cert-used-as-end-entity = The server yaises a certificate wi a basic constraints extension identifyin it as a certificate authority. Fur a certificate that has been issued richt, this shouldnae be the case.
 mozilla-pkix-error-inadequate-key-size = The server presentit a certificate wi a key size that is ower wee fur tae estaiblish a siccar connection.
@@ -335,11 +331,9 @@ mozilla-pkix-error-invalid-integer-encoding = The server presentit a certificate
 mozilla-pkix-error-empty-issuer-name = The server presentit a certificate wi a tuim issuer distinguished nemme.
 mozilla-pkix-error-additional-policy-constraint-failed = An addeetional policy constraint didnae wirk whan ettlin fur tae trystmak this certificate.
 mozilla-pkix-error-self-signed-cert = The certificate isnae trustit acause it is sel-signed.
-
 xp-java-remove-principal-error = Couldnae remuive the principal
 xp-java-delete-privilege-error = Couldnae dicht the preevilege
 xp-java-cert-not-exists-error = This principal disnae hae a certificate
-
 xp-sec-fortezza-bad-card = Fortezza caird hasnae been initialised richt. Please remuive it and gie it back tae yer issuer.
 xp-sec-fortezza-no-card = Nae Fortezza cairds Fund
 xp-sec-fortezza-none-selected = Nae Fortezza caird selectit

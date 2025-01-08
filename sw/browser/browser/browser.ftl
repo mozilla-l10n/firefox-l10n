@@ -90,17 +90,20 @@ browser-window-minimize-button =
 
 ## URL Bar
 
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Tafuta au uandike anwani
-
 urlbar-switch-to-tab =
     .value = Badili kwa kichupo:
-
 urlbar-go-button =
     .tooltiptext = Nenda kwa anwani katika Upau wa Mahali
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
+
+
+## Strings used for buttons in the urlbar
 
 
 ## Action text shown in urlbar results, usually appended after the search
@@ -120,9 +123,6 @@ urlbar-go-button =
 
 
 ## Full Screen and Pointer Lock UI
-
-
-## Subframe crash notification
 
 
 ## Bookmarks panels, menus and toolbar
@@ -166,9 +166,6 @@ library-bookmarks-menu =
 ## Password save/update panel
 
 
-## Add-on removal warning
-
-
 ##
 
 
@@ -178,7 +175,6 @@ library-bookmarks-menu =
 popups-infobar-allow =
     .label = Ruhusu uibukizi kwa { $uriHost }
     .accesskey = p
-
 popups-infobar-block =
     .label = Zuia uibukizi kwa { $uriHost }
     .accesskey = p
@@ -200,24 +196,23 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Upakuzi
-
 navbar-search =
     .title = Tafuta
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Kivinjari vichupo
-
 tabs-toolbar-new-tab =
     .label = Kichupo Kipya
-
 tabs-toolbar-list-all-tabs =
     .label = Orodhesha vichupo vyote
     .tooltiptext = Orodhesha vichupo vyote
 
 ## Infobar shown at startup to suggest session-restore
+
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
@@ -234,6 +229,14 @@ data-reporting-notification-message = { -brand-short-name } hutuma kiotomatiki b
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } imezuia ukurasa huu kupakia kiotomatiki.
@@ -242,13 +245,8 @@ refresh-blocked-redirect-label = { -brand-short-name } imezuia ukurasa huu kuele
 ## Firefox Relay integration
 
 
-## Popup Notification
-
-
-## Pop-up Notification
-
-
 ## Add-on Pop-up Notifications
+
 
 ## Pop-up warning
 
@@ -259,8 +257,17 @@ popup-warning-message =
         [one] { -brand-short-name } imezuia hii saiti kufungua dirisha la kidukizo.
        *[other] { -brand-short-name } imezuia hii saiti kufungua { $popupCount } madirisha ya vidukizo.
     }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Onyesha '{ $popupURI }'
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+

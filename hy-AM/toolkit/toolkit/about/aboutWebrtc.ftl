@@ -171,10 +171,7 @@ about-webrtc-pc-configuration-hide-msg = Թաքցնել կարգավորումը
 ##
 
 
-## These are paths used for saving the about:webrtc page or log files so
-## they can be attached to bug reports.
-## Variables:
-##  $path (String) - The path to which the file is saved.
+##
 
 about-webrtc-save-page-msg = էջը պահպանվել է՝ { $path }
 about-webrtc-debug-mode-off-state-msg = հետևելու մատյանը կարող է գտնվել՝ { $path }

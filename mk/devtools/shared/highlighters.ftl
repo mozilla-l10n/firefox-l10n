@@ -11,4 +11,3 @@
 # clicks on the "Pick an element from the page" in about:devtools-toolbox inspector panel,
 # when debugging a remote page.
 remote-node-picker-notice-hide-button = Скриј
-

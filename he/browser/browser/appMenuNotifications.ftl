@@ -37,7 +37,6 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = לא כעת
     .secondarybuttonaccesskey = ל
 appmenu-update-other-instance-message = זמין עדכון חדש ל־{ -brand-shorter-name }, אבל לא ניתן היה להתקין אותו מכיוון שפועל עותק אחר של { -brand-shorter-name }. יש לסגור אותו כדי להמשיך בעדכון, או לבחור לעדכן אותו בכל מקרה (ייתכן שהעותק האחר לא יפעל כראוי עד שיופעל מחדש).
-
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = בסדר
     .buttonaccesskey = ב
@@ -45,7 +44,6 @@ appmenu-addon-post-install-message3 = ניתן לנהל את התוספות וע
 appmenu-addon-post-install-incognito-checkbox =
     .label = לאפשר להרחבה זו לפעול בחלונות פרטיים
     .accesskey = ל
-    
 appmenu-new-tab-controlled-changes =
     .label = הלשונית החדשה שלך השתנתה.
     .buttonlabel = שמירת השינויים

@@ -36,38 +36,38 @@ about-telemetry-fetch-stack-symbols = స్టాక్స్ కొరకు �
 about-telemetry-hide-stack-symbols = ముడి స్టాక్ డేటాను చూపించు
 # Selects the correct upload string
 # Variables:
-#   $uploadcase (String): represents a corresponding upload string
+#   $uploadcase (string) - Represents a corresponding upload string
 about-telemetry-upload-type =
     { $uploadcase ->
         [enabled] చేతనమైనది
        *[disabled] అచేతనమైనది
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = ఈ పేజీ టెలీమెట్రీచే సేకరించబడిన పనితనం, హార్డువేర్, వినియోగం మరియు మలచుకొనే విధానం గురించిన సమాచారం చూపును. ఈ సమాచారం { $telemetryServerOwner } సమర్పించబడింది { -brand-full-name } మెరుగుదలలో సహాయం కొరకు.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $selectedTitle (String): the section name from the structure of the ping.
+#   $selectedTitle (string) - The section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = { $selectedTitle } లో కనుగొనండి
 about-telemetry-filter-all-placeholder =
     .placeholder = అన్ని విభాగాలలో కనుగొనండి
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-results-for-search = “{ $searchTerms }” కోసం ఫలితాలు
 # More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $sectionName (String): the section name from the structure of the ping.
-#   $currentSearchText (String): the current text in the search input
+#   $sectionName (string) - The section name from the structure of the ping.
+#   $currentSearchText (string) - The current text in the search input
 about-telemetry-no-search-results = క్షమించాలి! { $sectionName }లో “{ $currentSearchText }” కోసం ఫలితాలు లేవు
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-no-search-results-all = క్షమించాలి! “{ $searchTerms }” కు ఏ విభాగాలలో ఫలితాలు లేవు
 # This message is displayed when a section is empty.
 # Variables:
-#   $sectionName (String): is replaced by the section name.
+#   $sectionName (string) - Is replaced by the section name.
 about-telemetry-no-data-to-display = క్షమించాలి! “{ $sectionName }” లో ప్రస్తుతం ఏ సమాచారం అందుబాటులో లేదు
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = అన్నీ
@@ -83,13 +83,13 @@ about-telemetry-slow-sql-statement = వాక్యము
 about-telemetry-addon-table-id = పొడిగింత ఐడి
 about-telemetry-addon-table-details = వివరాలు
 # Variables:
-#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+#   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = { $addonProvider } ఉత్పాదకి
 about-telemetry-keys-header = లక్షణం
 about-telemetry-names-header = పేరు
 about-telemetry-values-header = విలువ
 # Variables:
-#   $lateWriteCount (Integer): the number of the late writes
+#   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = లేట్ వ్రైట్ #{ $lateWriteCount }
 about-telemetry-stack-title = స్టాక్:
 about-telemetry-memory-map-title = మెమొరీ మాప్:

@@ -902,6 +902,10 @@ unified-extensions-button-quarantined =
         දිගු
         ඇතැම් දිගු සඳහා ඉඩ නොදේ
 
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Private browsing reset button
 
 reset-pbm-panel-description = පෞද්ගලික පටිති සියල්ල වසා ඉතිහාසය, දත්තකඩ සහ අනෙකුත් සියලුම අඩවි දත්ත මකන්න.

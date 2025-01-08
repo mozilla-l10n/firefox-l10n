@@ -10,6 +10,8 @@ safeb-blocked-phishing-page-short-desc = Hinarang ng { -brand-short-name } ang p
 safeb-blocked-malware-page-short-desc = Hinarang ng { -brand-short-name } ang pahinang ito dahil maaari nitong subukang magkabit ng mapaminsalang software na maaaring magnakaw o magbura ng personal na impormasyon sa iyong computer.
 safeb-blocked-unwanted-page-short-desc = Hinarang ng { -brand-short-name } ang page na ito dahil maaari ka nitong linlangin na magkabit ng mga program na makasasama sa iyong browsing experience (halimbawa, sa pagpalit ng iyong homepage o kaya magpakita ng dagdag na ad sa mga binibisita mong site).
 safeb-blocked-harmful-page-short-desc = Hinarang ng { -brand-short-name } ang page na ito dahil maaari nitong subukang magkabit ng mga delikadong app na nagnanakaw o nagbubura ng iyong mga impormasyon (halimbawa, mga larawan, password, mensahe at credit card).
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Ang pagpapayo ay ibinigay ng <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Bumalik
 safeb-palm-see-details-label = Tignan ang detalye
@@ -26,6 +28,7 @@ safeb-blocked-phishing-page-learn-more = Alamin ang tungkol sa mga deceptive sit
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
+
 
 ##
 

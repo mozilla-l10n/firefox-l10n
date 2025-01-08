@@ -976,9 +976,6 @@ content-analysis-panel-title = Protezion dâts
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text-styled = La tô organizazion e dopre <b>{ $agentName }</b> par parâsi des pierditis di dâts. <a data-l10n-name="info">Scuvierç di plui</a>
-# Variables:
-#   $agentName (String): The name of the DLP agent that is connected
-content-analysis-panel-text = La tô organizazion e dopre { $agentName } par parâsi des pierditis di dâts. <a data-l10n-name="info">Scuvierç di plui</a>
 
 ## Unified extensions (toolbar) button
 
@@ -1003,6 +1000,10 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         Estensions
         Cualchi estension no je consintude
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
 
 ## Private browsing reset button
 

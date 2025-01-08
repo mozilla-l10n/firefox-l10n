@@ -23,17 +23,17 @@ protections-panel-etp-more-info =
     .aria-label = Mai multe informații despre protecția îmbunătățită împotriva urmăririi
 protections-panel-etp-on-header = Protecția îmbunătățită împotriva urmăririi este ACTIVATĂ pentru acest site
 protections-panel-etp-off-header = Protecția îmbunătățită împotriva urmăririi este DEZACTIVATĂ pentru acest site
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Site-ul nu funcționează?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Site-ul nu funcționează?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Site-ul nu funcționează?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Site-ul nu funcționează?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -63,6 +63,9 @@ protections-panel-content-blocking-fingerprinters-label = Generatoare de amprent
 protections-panel-blocking-label = Blocate
 protections-panel-not-blocking-label = Permise
 protections-panel-not-found-label = Niciunul detectat
+
+## Smartblock strings
+
 
 ##
 
@@ -97,7 +100,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Raportează un site nefuncțional
 protections-panel-content-blocking-breakage-report-view-description = Blocarea anumitor elemente de urmărire poate produce probleme pe unele site-uri web. Raportarea acestor problemele ajută la îmbunătățirea { -brand-short-name } pentru toți. Trimițând la Mozilla acest raport vei trimite un URL și informații despre setările browserului. <label data-l10n-name="learn-more">Află mai multe</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Blocarea anumitor elemente de urmărire poate produce probleme pe unele site-uri web. Raportarea acestor problemele ajută la îmbunătățirea { -brand-short-name } pentru toți. Trimițând la { -vendor-short-name } acest raport vei trimite un URL și informații despre setările browserului.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL-ul
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL-ul

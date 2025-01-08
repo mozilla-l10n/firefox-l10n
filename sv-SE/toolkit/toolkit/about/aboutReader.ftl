@@ -12,20 +12,6 @@ about-reader-color-scheme-sepia = Sepia
     .title = Färgschema sepia
 about-reader-color-scheme-auto = Auto
     .title = Färgschema automatiskt
-about-reader-color-theme-light = Ljust
-    .title = Färgtema ljust
-about-reader-color-theme-dark = Mörkt
-    .title = Färgtema mörkt
-about-reader-color-theme-sepia = Sepia
-    .title = Färgtema sepia
-about-reader-color-theme-auto = Automatisk
-    .title = Färgtema automatisk
-about-reader-color-theme-gray = Grått
-    .title = Färgtema grått
-about-reader-color-theme-contrast = Kontrast
-    .title = Färgtema kontrast
-about-reader-color-theme-custom = Anpassade färger
-    .title = Färgtema anpassat
 about-reader-color-light-theme = Ljust
     .title = Ljust tema
 about-reader-color-dark-theme = Mörkt
@@ -49,7 +35,7 @@ about-reader-estimated-read-time =
        *[other] { $range } minuter
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = Minska textstorlek
@@ -74,7 +60,6 @@ about-reader-font-type-monospace = Fast bredd
 
 about-reader-toolbar-close = Stäng läsarvy
 about-reader-toolbar-type-controls = Typkontroller
-about-reader-toolbar-color-controls = Färger
 about-reader-toolbar-text-layout-controls = Text och layout
 about-reader-toolbar-theme-controls = Tema
 about-reader-toolbar-savetopocket = Spara till { -pocket-brand-name }
@@ -99,10 +84,9 @@ about-reader-custom-colors-visited-links = Besökta länkar
     .title = Redigera färg
 about-reader-custom-colors-selection-highlight = Markering för högläsning
     .title = Redigera färg
-about-reader-custom-colors-reset-button = Återställ standardvärdena
 about-reader-reset-button = Återställ standardvärdena
 
-## Reader View improved text and layout menu
+## Reader View text and layout menu
 
 about-reader-text-header = Text
 about-reader-text-size-label = Textstorlek
@@ -119,9 +103,6 @@ about-reader-content-width-label =
 about-reader-line-spacing-label =
     .label = Radavstånd
 about-reader-advanced-layout-header = Avancerat
-about-reader-slider-label-width-narrow = Smal
-about-reader-slider-label-width-wide = Bred
-about-reader-slider-label-spacing-narrow = Smal
 about-reader-character-spacing-label =
     .label = Teckenavstånd
 about-reader-word-spacing-label =

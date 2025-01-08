@@ -4,10 +4,8 @@
 
 profile-selection-button-accept =
     .label = Tòlô { -brand-short-name }
-
 profile-selection-button-cancel =
     .label = Mb-ròɁ
-
 profile-selection-delete-button =
     .label = Tòmbî Lól...
     .accesskey = b

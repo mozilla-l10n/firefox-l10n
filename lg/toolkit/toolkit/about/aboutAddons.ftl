@@ -174,7 +174,7 @@ addon-page-options-button =
 ##   $name (string) - Name of the add-on.
 
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name } tekwatagana na { -brand-short-name } { $version }.
 # Variables:
 #   $version (string) - Application version.
@@ -188,3 +188,6 @@ details-notification-softblocked = { $name } emanyiddwa okuleeta obunkenke.
 details-notification-softblocked2 =
     .message = { $name } emanyiddwa okuleeta obunkenke.
 details-notification-softblocked-link = Ebisingawo
+
+## Gecko Media Plugins (GMPs)
+

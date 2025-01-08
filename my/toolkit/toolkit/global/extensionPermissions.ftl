@@ -29,3 +29,7 @@ webext-perms-description-tabs = ဘယောက်ဆာတပ်ဗ်မျာ
 webext-perms-description-tabHide = ဘရောင်ဇာတပ်ဗ်များ ဖျောက်ကွယ်ခြင်းနှင့် ပြသခြင်း
 webext-perms-description-topSites = ကြည့်ရှုမှတ်တမ်းကို အသုံးပြုရန်
 webext-perms-description-webNavigation = ဘယောက်ဆာ သုံးဆွဲမှု အခြေအနေကိုကြည့်မည်
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

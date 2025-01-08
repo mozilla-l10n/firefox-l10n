@@ -11,7 +11,7 @@ customize-menu-add-to-toolbar =
 
 ## Forget Button
 
-# The forget button can be added to the toolbar or overflow menu via the cutomization menu.
+# The forget button can be added to the toolbar or overflow menu via the customization menu.
 panic-button-thankyou-msg1 = نوێترین مێژووی کارت پاککرایەوە.
 panic-button-thankyou-msg2 = گەڕانێکی پارێزراو!
 panic-button-thankyou-button =

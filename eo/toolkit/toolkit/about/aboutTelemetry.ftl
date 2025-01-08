@@ -42,7 +42,7 @@ about-telemetry-fetch-stack-symbols = Sendi nomojn de funkcioj por stakoj
 about-telemetry-hide-stack-symbols = Montri krudajn datumojn de stako
 # Selects the correct release version
 # Variables:
-#   $channel (String): represents the corresponding release data string
+#   $channel (string) - Represents the corresponding release data string
 about-telemetry-data-type =
     { $channel ->
         [release] datumojn de stabila versio
@@ -50,7 +50,7 @@ about-telemetry-data-type =
     }
 # Selects the correct upload string
 # Variables:
-#   $uploadcase (String): represents a corresponding upload string
+#   $uploadcase (string) - Represents a corresponding upload string
 about-telemetry-upload-type =
     { $uploadcase ->
         [enabled] ŝaltita
@@ -58,46 +58,46 @@ about-telemetry-upload-type =
     }
 # Example Output: 1 sample, average = 0, sum = 0
 # Variables:
-#   $sampleCount (Integer): amount of histogram samples
-#   $prettyAverage (Integer): average of histogram samples
-#   $sum (Integer): sum of histogram samples
+#   $sampleCount (number) - Amount of histogram samples
+#   $prettyAverage (number) - Average of histogram samples
+#   $sum (number) - Sum of histogram samples
 about-telemetry-histogram-stats =
     { $sampleCount ->
         [one] { $sampleCount } specimeno, mezumo = { $prettyAverage }, sumo = { $sum }
        *[other] { $sampleCount } specimenoj, mezumo = { $prettyAverage }, sumo = { $sum }
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Tiu ĉi paĝo montras informon pri efikeco, aparataro, uzado kaj personaj agordoj kolektitaj de Telemetry. Tiu ĉi informo estos sendita al { $telemetryServerOwner } por helpi plibonigi { -brand-full-name }.
 about-telemetry-settings-explanation = Telemezuro kolektas nun { about-telemetry-data-type } kaj la alŝuto estas <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
-#   $name (String): ping name, e.g. “saved-session”
-#   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
+#   $name (string) - Ping name, e.g. “saved-session”
+#   $timestamp (string) - Ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Ĉiu informpeco estas sendita en pako ene de “<a data-l10n-name="ping-link">ping-oj</a>”. Vi nun vidas la ping { $name }, { $timestamp }.
 about-telemetry-data-details-current = La informoj estas senditaj en pakedoj, kiuj nomiĝas “<a data-l10n-name="ping-link">pings</a>“. Vi vidas la nunajn datumojn.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $selectedTitle (String): the section name from the structure of the ping.
+#   $selectedTitle (string) - The section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = Serĉi en { $selectedTitle }
 about-telemetry-filter-all-placeholder =
     .placeholder = Serĉi en ĉiuj sekcioj
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-results-for-search = Rezultoj por “{ $searchTerms }”
 # More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $sectionName (String): the section name from the structure of the ping.
-#   $currentSearchText (String): the current text in the search input
+#   $sectionName (string) - The section name from the structure of the ping.
+#   $currentSearchText (string) - The current text in the search input
 about-telemetry-no-search-results = Bedaŭrinde ne estis rezultoj por “{ $currentSearchText }” en { $sectionName }
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-no-search-results-all = Bedaŭrinde ne estis rezultoj por “{ $searchTerms }” en iu ajn sekcio
 # This message is displayed when a section is empty.
 # Variables:
-#   $sectionName (String): is replaced by the section name.
+#   $sectionName (string) - Is replaced by the section name.
 about-telemetry-no-data-to-display = Bedaŭrinde nuntempe ne estas datumoj disponeblaj en “{ $sectionName }”
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = nunaj datumoj
@@ -115,13 +115,13 @@ about-telemetry-slow-sql-statement = Instrukcio
 about-telemetry-addon-table-id = Identigilo de aldonaĵo
 about-telemetry-addon-table-details = Detaloj
 # Variables:
-#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+#   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = Provizanto de { $addonProvider }
 about-telemetry-keys-header = Atributo
 about-telemetry-names-header = Nomo
 about-telemetry-values-header = Valoro
 # Variables:
-#   $lateWriteCount (Integer): the number of the late writes
+#   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = Malfruaj skriboj #{ $lateWriteCount }
 about-telemetry-stack-title = Stako:
 about-telemetry-memory-map-title = Mapo de memoro:
@@ -132,5 +132,5 @@ about-telemetry-method-header = metodo
 about-telemetry-object-header = objekto
 about-telemetry-extra-header = cetero
 # Variables:
-#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+#  $process (string) - Type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = { $process } procezo

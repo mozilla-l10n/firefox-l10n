@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Rīkojieties piesardzīgi
@@ -13,13 +14,10 @@ about-config-intro-warning-button = Pieņemt risku un turpināt
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Šo iestatījumu maiņa var ietekmēt { -brand-short-name } veiktspēju vai drošību.
-
 about-config-page-title = Papildu iestatījumi
-
 about-config-search-input1 =
     .placeholder = Meklēt iestatījuma nosaukumu
 about-config-show-all = Parādīt visus
-
 about-config-pref-add-button =
     .title = Pievienot
 about-config-pref-toggle-button =

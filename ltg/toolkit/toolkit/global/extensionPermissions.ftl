@@ -29,3 +29,7 @@ webext-perms-description-tabs = Access browser tabs
 webext-perms-description-tabHide = Slēpt un parōdēt porlyuka cilnes
 webext-perms-description-topSites = Access browsing history
 webext-perms-description-webNavigation = Access browser activity during navigation
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

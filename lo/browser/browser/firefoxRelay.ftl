@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = { -relay-brand-name } ບໍ່ສາມາດສ້າງຕົວປິດບັງໃໝ່ໄດ້. ລະຫັດຂໍ້ຜິດພາດ HTTP: { $status }.
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } ບໍ່ສາມາດຊອກຫາໜ້າກາກທີ່ໃຊ້ຄືນໄດ້. ລະຫັດຂໍ້ຜິດພາດ HTTP: { $status }.
 
-##
+## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = ທ່ານຕ້ອງເຂົ້າສູ່ລະບົບ { -fxaccount-brand-name } ຈຶ່ງຈະສາມາດໃຊ້ { -relay-brand-name } ໄດ້.
 firefox-relay-get-unlimited-masks =
@@ -32,3 +32,15 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = ບໍ່ແມ່ນຕອນນີ້
     .accesskey = N
+
+## The "control" variation of the Relay offer popup
+
+
+## The "basic-info" variation of the Relay offer popup
+
+
+## The "with-domain" variation of the Relay offer popup
+
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+

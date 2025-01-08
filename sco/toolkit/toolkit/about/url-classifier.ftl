@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 url-classifier-search-title = Sairch
+# Variables:
+#   $uri (string) - URI of blocked page
 url-classifier-search-result-uri = URI: { $uri }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = No a suithfest URL
@@ -11,7 +13,6 @@ url-classifier-provider-update-btn = Update
 url-classifier-cache-title = Cache
 url-classifier-cache-clear-btn = Dicht
 url-classifier-debug-title = Bugdicht
-
 url-classifier-not-available = N/A
 url-classifier-enabled = Enabled
 url-classifier-disabled = Disabled

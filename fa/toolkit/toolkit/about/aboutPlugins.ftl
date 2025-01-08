@@ -6,8 +6,6 @@ title-label = دربارهٔ متصل‌شونده‌ها
 installed-plugins-label = افزایه‌های نصب شده
 no-plugins-are-installed-label = هیچ افزایه فعالی یافت نشد
 deprecation-description = چیزی گم کرده‌اید؟ بعضی از افزونه‌ها دیگر پشتیبانی نمی‌شوند. <a data-l10n-name="deprecation-link">اطلاعات بیشتر</a>
-deprecation-description2 =
-    .message = چیزی گم کرده‌اید؟ بعضی از افزونه‌ها دیگر پشتیبانی نمی‌شوند.
 
 ## The information of plugins
 ##

@@ -8,7 +8,6 @@ page-subtitle =
     jak mosz problym do rozwiōnzanio. Jak szukosz za ôdpowiydziami na pytania
     ô aplikacyjo { -brand-short-name }, co sōm porzōnd zadowane, badnij na nasza
     <a data-l10n-name="support-link">strōna spōmożki</a>.
-
 crashes-title = Raporty z awaryje
 crashes-id = ID zgłoszynio
 crashes-send-date = Posłane
@@ -71,7 +70,6 @@ app-basics-location-service-key-google = Klucz usugi Google Location Service
 app-basics-safebrowsing-key-google = Klucz usugi Google Safebrowsing
 app-basics-key-mozilla = Klucz Mozilla Location Service
 app-basics-safe-mode = Tryb bezpieczyństwa
-
 show-dir-label =
     { PLATFORM() ->
         [macos] Pokoż we Finderze
@@ -125,7 +123,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Typ procesu
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Parametry
-
 clear-startup-cache-title = Sprōbuj wypucować podrynczno pamiyńć sztartowanio
 clear-startup-cache-label = Wypucuj podrynczno pamiyńć sztartowanio…
 restart-button-label = Resztartnij
@@ -153,6 +150,12 @@ media-capabilities-title = Możności mydiōw
 media-capabilities-enumerate = Wystow baza danych
 
 ## Codec support table
+
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
 
 ##
 
@@ -189,7 +192,6 @@ report-crash-for-days =
         [few] Raporty z awaryje z ôstatnich { $days } dni
        *[many] Raporty z awaryje z ôstatnich { $days } dni
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -198,7 +200,6 @@ crashes-time-minutes =
         [few] { $minutes } minuty tymu
        *[many] { $minutes } minut tymu
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -207,7 +208,6 @@ crashes-time-hours =
         [few] { $hours } godziny tymu
        *[many] { $hours } godzin tymu
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -216,7 +216,6 @@ crashes-time-days =
         [few] { $days } dni tymu
        *[many] { $days } dni tymu
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -225,7 +224,6 @@ pending-reports =
         [few] Wszyskie raporty z awaryje (ze { $reports }, co czekajōm z tego czasu)
        *[many] Wszyskie raporty z awaryje (ze { $reports }, co czekajōm z tego czasu)
     }
-
 raw-data-copied = Surowe dane skopiowane do kamerlika
 text-copied = Tekst je skopiowany do kamerlika
 
@@ -238,11 +236,9 @@ blocked-mismatched-version = Zaszperowane skuli niyskłodności registra i DLL w
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Zaszperowane skuli wersyje twojigo sterownika grafiki. Sprōbuj go zaktualizować do wersyje { $driverVersion } abo nowszyj.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parametry ClearType
-
 compositing = Compositing
 hardware-h264 = Hardwarowe dekodowanie H264
 main-thread-no-omtc = głōwny wōntek, żodne OMTC
@@ -257,7 +253,6 @@ virtual-monitor-disp = Pokozanie wirtualnego mōnitora
 
 found = Znodniynty
 missing = Chybio
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Ôpis
@@ -280,19 +275,15 @@ webgl2-renderer = Renderer sterownika WebGL 2
 webgl2-version = Wersyjo sterownika WebGL 2
 webgl2-driver-extensions = Rozszyrzynia sterownika WebGL 2
 webgl2-extensions = Rozszyrzynia WebGL 2
-
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Zaszperowane skuli poznanych problymōw: <a data-l10n-name="bug-link">bug{ $bugNumber }</a>
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Zaszperowane; kod felera { $failureCode }
-
 d3d11layers-crash-guard = D3D11 Compositor
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX Video dekoder
-
 reset-on-next-restart = Zresetuj przi nastympnym resztarcie
 gpu-process-kill-button = Zakōńcz proces GPU
 gpu-device-reset = Reset masziny
@@ -302,10 +293,8 @@ content-uses-tiling = Używo skłodanio (zawartość)
 off-main-thread-paint-enabled = Kryślynie poza głōwnym wōntkiym je załōnczōne
 off-main-thread-paint-worker-count = Wielość kryślynio poza głōwnym wōntkiym
 target-frame-rate = Cylowo frekwyncyjo rōmek
-
 min-lib-versions = Ôczekowano minimalno wersyjo
 loaded-lib-versions = Używano wersyjo
-
 has-seccomp-bpf = Seccomp-BPF (filtrowanie systymowych wołań)
 has-seccomp-tsync = Synchrōnizowanie wōntkōw Seccomp
 has-user-namespaces = Ôbtoczynia mianōw ôd używocza
@@ -318,23 +307,19 @@ sandbox-proc-type-content = zawartość
 sandbox-proc-type-file = zawartość zbioru
 sandbox-proc-type-media-plugin = mydiowe rozszyrzynie plugin
 sandbox-proc-type-data-decoder = dekoder danych
-
 startup-cache-title = Podrynczno pamiynć sztartowanio
 startup-cache-disk-cache-path = Cesta ku podryncznyj pamiynci na dysku
 startup-cache-ignore-disk-cache = Ignoruj pamiynć podrynczno na dysku
 startup-cache-found-disk-cache-on-init = Podrynczno pamiyńć na dysku je znaleziōno przi inicjacyji
 startup-cache-wrote-to-disk-cache = Zapisane do podryncznyj pamiynci
-
 launcher-process-status-0 = Załōnczōny
 launcher-process-status-1 = Zastawiōny skuli awaryje
 launcher-process-status-2 = Zastawiōny skuli przikazu
 launcher-process-status-unknown = Niypoznany status
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-
 async-pan-zoom = Asynchrōniczno panorama/zwiynkszanie
 apz-none = żodne
 wheel-enabled = wkludzanie kōłkiym myszki je załōnczōne
@@ -358,5 +343,15 @@ policies-error = Feler
 
 ## Printing section
 
+
+## Remote Settings sections
+
+
 ## Normandy sections
+
+
+## Pointing devices
+
+
+## Content Analysis (DLP)
 

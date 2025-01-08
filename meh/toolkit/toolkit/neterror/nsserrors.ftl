@@ -10,7 +10,6 @@
 
 ssl-error-post-warning = Ntu nakuni error SSL.
 ssl-error-unsafe-negotiation = Peer intentó un handshake al viejo estilo (potencialmente vulnerable).
-
 sec-error-invalid-time = Tu'un fecha/hora ntu tuvi va'a formato.
 sec-error-bad-password = Contraseña seguridad nchu´un ntu vatu.
 sec-error-retry-password = Contraseña jíía nchu´un ntu vatu. Chu´uma íchika.
@@ -37,7 +36,5 @@ sec-error-extra-input = Mensaje codificado ji DER kumi datos ntu ni´i.
 sec-error-crl-already-exists = A teku CRL.
 sec-error-not-initialized = NSS ntu íyo inicializado.
 sec-error-unknown-pkcs11-error = Error PKCS #11ntu nakuni.
-
 xp-java-delete-privilege-error = Ntu nkuvi xina privilegio.
-
 xp-sec-fortezza-bad-pin = PIN ntu vatu

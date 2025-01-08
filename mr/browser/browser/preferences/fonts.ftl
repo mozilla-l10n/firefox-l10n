@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = टंक
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = यासाठी टंक
     .accesskey = f
-
 fonts-langgroup-arabic =
     .label = अरबी
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = प्रमाणबध्द
     .accesskey = p
-
 fonts-default-serif =
     .label = अलंकृत
 fonts-default-sans-serif =
     .label = निलंकृत
-
 fonts-proportional-size = आकार
     .accesskey = z
-
 fonts-serif = सेरिफ
     .accesskey = S
-
 fonts-sans-serif = सँस-सेरिफ
     .accesskey = n
-
 fonts-monospace = मोनोस्पेस
     .accesskey = M
-
 fonts-monospace-size = आकार
     .accesskey = e
-
 fonts-minsize = किमान टंक आकार
     .accesskey = o
-
 fonts-minsize-none =
     .label = काहिच नाही
-
 fonts-allow-own =
     .label = वरील आपल्या प्राधान्या ऐवजी, पृष्ठांना स्वतःचे टंक निवडण्यास परवानगी द्या
     .accesskey = A
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

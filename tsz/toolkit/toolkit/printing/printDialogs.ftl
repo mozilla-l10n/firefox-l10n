@@ -11,7 +11,6 @@ margin-right =
     .accesskey = R
 margin-right-invisible =
     .value = & T´irerkanta:
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

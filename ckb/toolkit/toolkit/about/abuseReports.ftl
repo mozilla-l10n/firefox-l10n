@@ -17,8 +17,6 @@ abuse-report-addon-authored-by = لە لایەن <a data-l10n-name="author-name"
 abuse-report-learnmore =
     دڵنیانیت کێشەکە چییە؟
     <a data-l10n-name="learnmore-link">زیاتر بخوێنەوە لەسەر ڕاپۆرت کردنی زیادکراو ڕووکارەکان</a>
-abuse-report-learnmore-intro = دڵنیانیت کێشەکە چییە؟
-abuse-report-learnmore-link = زیاتر بخوێنەوە لەسەر ڕاپۆرت کردنی زیادکراو ڕووکارەکان
 abuse-report-submit-description = کێشەکە پێناسە بکە (دڵخوازە)
 
 ## Panel buttons.
@@ -37,14 +35,6 @@ abuse-report-messagebar-aborted = ڕاپۆرت کردن بۆ <span data-l10n-nam
 abuse-report-messagebar-submitting = ناردنی ڕاپۆرت بۆ <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitted = سوپاس بۆ ناردنی ڕاپۆرت، دەتەوێت <span data-l10n-name="addon-name">{ $addon-name }</span> بسڕیتەوە؟
 abuse-report-messagebar-submitted-noremove = سوپاس بۆ ناردنی ڕاپۆرت.
-abuse-report-messagebar-aborted2 =
-    .message = ڕاپۆرت کردن بۆ { $addon-name } هەڵوەشێنرایەوە.
-abuse-report-messagebar-submitting2 =
-    .message = ناردنی ڕاپۆرت بۆ { $addon-name }.
-abuse-report-messagebar-submitted2 =
-    .message = سوپاس بۆ ناردنی ڕاپۆرت، دەتەوێت { $addon-name } بسڕیتەوە؟
-abuse-report-messagebar-submitted-noremove2 =
-    .message = سوپاس بۆ ناردنی ڕاپۆرت.
 
 ## Message bars actions.
 

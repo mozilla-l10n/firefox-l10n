@@ -5,6 +5,8 @@
 label-disable = 禁用
 label-enable = 启用
 label-interventions = 介入
+# Variables:
+#   $bug (string) - Bug number
 label-more-information = 更多信息：Bug { $bug }
 label-overrides = 覆盖默认用户代理字符串
 text-disabled-in-about-config = 已在 about:config 中禁用此功能

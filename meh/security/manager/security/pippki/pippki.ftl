@@ -6,8 +6,6 @@
 ## Change Password dialog
 
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -19,10 +17,11 @@ reset-password-button-label =
 ## Client Authorization Ask dialog
 
 
+## Client Authentication Ask dialog
+
+
 ## Set password (p12) dialog
 
-
-## Protected Auth dialog
 
 ## Protected authentication alert
 

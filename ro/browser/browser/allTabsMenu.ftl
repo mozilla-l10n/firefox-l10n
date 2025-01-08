@@ -5,13 +5,10 @@
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Caută file
-
 all-tabs-menu-new-user-context =
     .label = Filă container nouă
-
 all-tabs-menu-hidden-tabs =
     .label = File ascunse
-
 all-tabs-menu-manage-user-context =
     .label = Gestionează containerele
     .accesskey = O

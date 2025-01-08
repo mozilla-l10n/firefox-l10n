@@ -18,8 +18,6 @@ abuse-report-addon-authored-by = <a data-l10n-name="author-name">{ $author-name 
 abuse-report-learnmore =
     Қай мәселені таңдауды білмей тұрсыз ба?
     <a data-l10n-name="learnmore-link">Кеңейтулер мен темаларға шағымдану туралы көбірек біліңіз</a>
-abuse-report-learnmore-intro = Қай мәселені таңдауды білмей тұрсыз ба?
-abuse-report-learnmore-link = Кеңейтулер мен темаларға шағымдану туралы көбірек біліңіз
 abuse-report-submit-description = Мәселені сипаттаңыз (қосымша түрде)
 abuse-report-textarea =
     .placeholder = Нақты ақпаратымыз бар кезде мәселені шешу оңайырақ болады. Кездестірген мәселені сипаттаңыз. Интернеттің денін сау ұстауға көмектескеніңіз үшін рахмет.
@@ -46,24 +44,6 @@ abuse-report-messagebar-removed-sitepermission = Шағымды жіберген
 abuse-report-messagebar-removed-theme = Шағымды жібергеніңіз үшін рахмет. Сіз <span data-l10n-name="addon-name">{ $addon-name }</span> темасын өшірдіңіз.
 abuse-report-messagebar-error = <span data-l10n-name="addon-name">{ $addon-name }</span> нәрсесіне шағымды жіберу кезінде қате орын алды.
 abuse-report-messagebar-error-recent-submit = <span data-l10n-name="addon-name">{ $addon-name }</span> нәрсесіне шағым жіберілмеді, өйткені басқа шағым жуырда жіберілген.
-abuse-report-messagebar-aborted2 =
-    .message = { $addon-name } нәрсесіне шағымнан бас тартылды.
-abuse-report-messagebar-submitting2 =
-    .message = { $addon-name } нәрсесіне шағым жіберілуде.
-abuse-report-messagebar-submitted2 =
-    .message = Шағымды жібергеніңіз үшін рахмет. { $addon-name } өшіруді қалайсыз ба?
-abuse-report-messagebar-submitted-noremove2 =
-    .message = Шағымды жібергеніңіз үшін рахмет.
-abuse-report-messagebar-removed-extension2 =
-    .message = Шағымды жібергеніңіз үшін рахмет. Сіз { $addon-name } кеңейтуін өшірдіңіз.
-abuse-report-messagebar-removed-sitepermission2 =
-    .message = Шағымды жібергеніңіз үшін рахмет. Сіз { $addon-name } сайт рұқсаттары кеңейтуін өшірдіңіз.
-abuse-report-messagebar-removed-theme2 =
-    .message = Шағымды жібергеніңіз үшін рахмет. Сіз { $addon-name } темасын өшірдіңіз.
-abuse-report-messagebar-error2 =
-    .message = { $addon-name } нәрсесіне шағымды жіберу кезінде қате орын алды.
-abuse-report-messagebar-error-recent-submit2 =
-    .message = { $addon-name } нәрсесіне шағым жіберілмеді, өйткені басқа шағым жуырда жіберілген.
 
 ## Message bars actions.
 

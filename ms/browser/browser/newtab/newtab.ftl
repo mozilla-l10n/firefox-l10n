@@ -23,12 +23,10 @@ newtab-topsites-edit-topsites-header = Edit Laman Teratas
 newtab-topsites-title-label = Tajuk
 newtab-topsites-title-input =
     .placeholder = Masukkan tajuk
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Taip atau tampal URL
 newtab-topsites-url-validation = Perlukan URL yang sah
-
 newtab-topsites-image-url-label = URL Imej Penyesuaian
 newtab-topsites-use-image-link = Guna imej penyesuaian…
 newtab-topsites-image-validation = Imej gagal dimuatkan. Cuba URL lain.
@@ -41,8 +39,6 @@ newtab-topsites-save-button = Simpan
 newtab-topsites-preview-button = Previu
 newtab-topsites-add-button = Tambah
 
-## Top Sites - Delete history confirmation dialog. 
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Adakah anda pasti mahu membuang setiap contoh halaman ini daripada sejarah anda?
@@ -51,16 +47,16 @@ newtab-confirm-delete-history-p2 = Tindakan ini tidak boleh dibatalkan.
 
 ## Top Sites - Sponsored label
 
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
     .title = Buka menu
     .aria-label = Buka menu
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
-#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+#   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .title = Buka menu
     .aria-label = Buka menu konteks untuk { $title }
@@ -84,15 +80,13 @@ newtab-menu-archive-pocket = Arkib dalam { -pocket-brand-name }
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
+
 ##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Buang Tandabuku
 # Bookmark is a verb here.
 newtab-menu-bookmark = Tandabuku
-
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -122,9 +116,6 @@ newtab-label-recommended = Sohor kini
 newtab-label-saved = Disimpan ke { -pocket-brand-name }
 newtab-label-download = Telah dimuat turun
 
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
@@ -141,24 +132,24 @@ newtab-section-menu-privacy-notice = Notis Privasi
 
 ## Section aria-labels
 
+
 ## Section Headers.
 
 newtab-section-header-topsites = Laman Teratas
 # Variables:
-#  $provider (String): Name of the corresponding content provider.
+#   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Disyorkan oleh { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Mulakan melayar dan kami akan paparkan beberapa artikel, video dan halaman menarik lain yang sudah anda layari dan tandabuku di sini.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
-#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Anda sudah di sini. Tapi sila datang lagi untuk mendapatkan lebih banyak berita hangat daripada { $provider }. Tidak boleh tunggu? Pilih topik untuk mendapatkannya dari serata dunia.
 
-
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
 
 ## Pocket Content Section.
 
@@ -168,10 +159,11 @@ newtab-pocket-more-recommendations = Saranan Lain
 newtab-pocket-cta-button = Dapatkan { -pocket-brand-name }
 newtab-pocket-cta-text = Simpan cerita yang anda suka dalam { -pocket-brand-name } dan jana minda dengan bahan bacaan yang menarik.
 
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -180,4 +172,33 @@ newtab-error-fallback-info = Ooops, ada kesilapan memuatkan kandungan ini.
 newtab-error-fallback-refresh-link = Muat semula halaman untuk cuba lagi.
 
 ## Customization Menu
+
+
+## New Tab Wallpapers
+
+
+## Solid Colors
+
+
+## Abstract
+
+
+## Photographs
+
+
+## New Tab Weather
+
+
+## Topic Labels
+
+
+## Topic Selection Modal
+
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Confirmation modal for blocking a section
 

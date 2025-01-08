@@ -47,10 +47,10 @@ address-capture-edit-address-button =
 autofill-add-address-title = Agiunghe un’indiritzu
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Modìfica s'indiritzu
-autofill-address-name = Nòmine
 autofill-address-given-name = Nòmine
 autofill-address-additional-name = Segundu nòmine
 autofill-address-family-name = Sangunadu
+autofill-address-name = Nòmine
 autofill-address-organization = Organizatzione
 autofill-address-street-address = Indiritzu postale
 autofill-address-street = Indiritzu postale
@@ -103,9 +103,6 @@ autofill-address-postal-code = Còdighe postale
 autofill-address-zip = Còdighe postale
 # Used in IE
 autofill-address-eircode = Còdighe postale (Eircode)
-
-##
-
 
 ##
 

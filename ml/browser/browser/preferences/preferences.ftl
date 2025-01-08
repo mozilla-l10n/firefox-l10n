@@ -103,7 +103,7 @@ containers-disable-alert-ok-button =
 containers-disable-alert-cancel-button = എനേബിള്‍ഡ് ആക്കി വക്കുക
 containers-remove-alert-title = ഈ കണ്ടെയ്നർ നീക്കംചെയ്യണോ?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] നിങ്ങൾ ഇപ്പോൾ ഈ കണ്ടെയ്നർ നീക്കംചെയ്യുകയാണെങ്കിൽ, { $count } കണ്ടെയ്നർ ടാബ് ക്ലോസ് ചെയ്യും. ഈ കണ്ടെയ്നർ നീക്കം ചെയ്യണമെന്ന് നിങ്ങൾക്ക് തീർച്ചയാണോ?
@@ -192,11 +192,11 @@ applications-manage-app =
 applications-always-ask =
     .label = എപ്പോഴും ചോദിക്കുക
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } ഉപയോഗിക്കുക ({ -brand-short-name }-ല്‍)
 
@@ -226,6 +226,8 @@ play-drm-content =
 play-drm-content-learn-more = കൂടുതല്‍ മനസിലാക്കൂ
 update-application-title = { -brand-short-name } അപേഡേറ്റുകള്‍
 update-application-description = മികച്ച പ്രകടനത്തിനും സ്ഥിരതയ്ക്കും സുരക്ഷയ്ക്കും വേണ്ടി { -brand-short-name } അപഡേറ്റഡായി സൂക്ഷിക്കുക.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = പതിപ്പ് { $version } <a data-l10n-name="learn-more">പുതിയതെന്തെല്ലാം</a>
 update-history =
     .label = പുതുക്കിയ നാള്‍വഴി കാണിക്കുക…
@@ -261,7 +263,7 @@ performance-limit-content-process-option = ഉള്ളടക്ക പ്രക
 performance-limit-content-process-enabled-desc = അഡ്ഡീഷണല്‍ കണ്ടന്റ് പ്രോസ്സസുകള്‍ക്ക് ഒന്നിലധികം ടാബുകൾ ഉപയോഗിക്കുമ്പോൾ പ്രകടനം മെച്ചപ്പെടുത്താനാകും, പക്ഷേ കൂടുതൽ മെമ്മറി ഉപയോഗിക്കും.
 performance-limit-content-process-blocked-desc = കണ്ടന്റ് പ്രോസസ്സുകളുടെ എണ്ണം പരിഷ്ക്കരിക്കല്‍ മൾട്ടിപ്രോസസ്സ് { -brand-short-name } ല്‍ മാത്രമേ സാധ്യമാകൂ. <a data-l10n-name="learn-more">മള്‍ടിപ്രോസസുകള്‍ സജ്ജമാക്കിയിട്ടുണ്ടോ എന്ന് പരിശോധിക്കാന്‍ പഠിക്കുക</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (ഡിഫള്‍ട്ട്)
 
@@ -330,11 +332,8 @@ choose-bookmark =
 home-prefs-search-header =
     .label = വെബ് തിരയൽ
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
-# Variables:
-#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } ശുപാർശ ചെയ്തത്
 
@@ -385,7 +384,7 @@ search-find-more-link = കൂടുതൽ സെര്‍ച്ച് എഞ്
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = കീവേര്‍ഡ് ആവര്‍ത്തിക്കുന്നു
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = നിലവില്‍ "{ $name }" ഉപയോഗിക്കുന്ന ഒരു കീവേര്‍ഡ് ആണു് നിങ്ങള്‍ നല്‍കിയതു്. ദയവായി മറ്റൊന്നു് തെരഞ്ഞെടുക്കുക.
 search-keyword-warning-bookmark = നിലവില്‍ ഒരു അടയാളക്കുറിപ്പു് ഉപയോഗിക്കുന്ന കീവേര്‍ഡ് ആണു് നിങ്ങള്‍ നല്‍കിയതു്. ദയവായി മറ്റൊന്നു് തെരഞ്ഞെടുക്കുക.
 
@@ -504,6 +503,9 @@ forms-exceptions =
 forms-saved-logins =
     .label = ശേഖരിച്ചിട്ടുള്ള പ്രവേശനങ്ങള്‍…
     .accesskey = L
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = പ്രധാന പാസ്‌വേര്‍ഡ് മാറ്റുക…
     .accesskey = M

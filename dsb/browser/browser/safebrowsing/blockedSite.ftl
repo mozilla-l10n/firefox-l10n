@@ -10,6 +10,8 @@ safeb-blocked-phishing-page-short-desc = { -brand-short-name } jo toś ten bok b
 safeb-blocked-malware-page-short-desc = { -brand-short-name } jo toś ten bok zablokěrował, dokulaž mógał wopytowaś, škódnu software instalěrowaś, kótaraž mógła wósobinske daty na wašom licadle kšadnuś abo wulašowaś.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } jo toś ten bok blokěrował, dokulaž mógał wopytowaś, was zawjedowaś, programy instalěrowaś, kótarež wašomu pśeglědowańskemu dožywjenjeju škóźeś (na pśikład pśez to, až waš startowy bok změnjaju abo pśidatne wabjenje na sedłach, ku kótaremuž se woglědujośo, pokazuju).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } jo toś ten bok zablokěrował, dokulaž mógła tšašne nałoženja instalěrowaś, kótarež waše daty kšadnu abo lašuju (na pśikład fota, gronidła, powěsći a kreditowe kórty).
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Rada dana wót <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Slědk
 safeb-palm-see-details-label = Glejśo drobnostki

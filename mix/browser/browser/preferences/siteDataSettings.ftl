@@ -9,11 +9,9 @@ site-data-column-host =
     .label = Sitio
 site-data-column-cookies =
     .label = Cookies
-
 site-data-remove-selected =
     .label = Stoó ña ni katsu
     .accesskey = S
-
 site-data-remove-all =
     .label = Stòo ntia
     .accesskey = S
@@ -23,4 +21,3 @@ site-data-remove-all =
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Xita
-

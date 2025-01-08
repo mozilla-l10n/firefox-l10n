@@ -63,8 +63,6 @@ sidebar-description = Mějte během prohlížení snadný přístup ke své hist
 vertical-tabs-title =
     .label = Svislé panely
 vertical-tabs-description = Přesuňte si panely z horní části prohlížeče na stranu. Vyžaduje, abyste také vyzkoušeli postranní lištu. <a data-l10n-name="connect">Sdílet zpětnou vazbu</a>
-experimental-features-group-browsing =
-    .label = Prohlížení
 experimental-features-group-developer-tools =
     .label = Vývojářské nástroje
 experimental-features-group-webpage-display =

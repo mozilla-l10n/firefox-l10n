@@ -5,53 +5,40 @@
 permissions-window2 =
     .title = İstisnalar
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Sayt ünvanı
     .accesskey = S
-
 permissions-block =
     .label = Blokla
     .accesskey = B
-
 permissions-session =
     .label = Bu seans üçün icazə ver
     .accesskey = r
-
 permissions-allow =
     .label = İcazə ver
     .accesskey = a
-
 permissions-site-name =
     .label = Sayt
-
 permissions-status =
     .label = Durum
-
 permissions-remove =
     .label = Saytı sil
     .accesskey = S
-
 permissions-remove-all =
     .label = Bütün saytları sil
     .accesskey = s
-
 permission-dialog =
     .buttonlabelaccept = Dəyişiklikləri Yadda Saxla
     .buttonaccesskeyaccept = S
-
 permissions-searchbox =
     .placeholder = Saytda Axtar
-
 permissions-capabilities-allow =
     .label = İcazə ver
 permissions-capabilities-block =
     .label = Blokla
 permissions-capabilities-prompt =
     .label = Həmişə soruş
-
 permissions-capabilities-listitem-allow =
     .value = İcazə ver
 permissions-capabilities-listitem-block =
@@ -90,6 +77,9 @@ permissions-exceptions-saved-logins-window2 =
     .title = İstisnalar - Saxlanılmış Hesablar
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Aşağıdakı saytlar üçün hesablar saxlanılmayacaq
+
+## Exceptions - Saved Passwords
+
 
 ## Exceptions - Add-ons
 

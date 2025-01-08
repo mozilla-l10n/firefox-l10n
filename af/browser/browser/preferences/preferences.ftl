@@ -100,7 +100,7 @@ containers-disable-alert-ok-button =
 containers-disable-alert-cancel-button = Hou geaktiveer
 containers-remove-alert-title = Verwyder dié konteks?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] As dié konteks nou verwyder word, sal { $count } konteksoortjie gesluit word. Wil u definitief dié konteks verwyder?
@@ -123,6 +123,8 @@ advanced-fonts =
 preferences-zoom-header = Zoem
 preferences-default-zoom = Verstek zoem
     .accesskey = z
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 language-header = Taal
@@ -196,11 +198,11 @@ applications-manage-app =
 applications-always-ask =
     .label = Vra altyd
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Gebruik { $plugin-name } (in { -brand-short-name })
 
@@ -225,6 +227,8 @@ applications-use-other-label =
 
 play-drm-content-learn-more = Meer inligting
 update-application-title = { -brand-short-name }-bywerkings
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Weergawe { $version } <a data-l10n-name="learn-more">Wat’s nuut?</a>
 update-application-use-service =
     .label = Gebruik 'n agtergronddiens om bywerkings te installeer
@@ -245,7 +249,7 @@ performance-limit-content-process-option = Perk op inhoudprosesse
     .accesskey = P
 performance-limit-content-process-enabled-desc = Meer inhoudprosesse kan werkverrigting verbeter met klomp oortjies, maar sal ook meer geheue gebruik.
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (verstek)
 
@@ -309,11 +313,8 @@ choose-bookmark =
 home-prefs-search-header =
     .label = Web soektog
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
-# Variables:
-#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Aanbeveel deur { $provider }
 
@@ -350,7 +351,7 @@ search-find-more-link = Vind meer soekenjins
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Dupliseer sleutelwoord
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = U het 'n sleutelwoord gekies wat tans deur "{ $name }" gebruik word. Kies 'n ander een.
 search-keyword-warning-bookmark = U het 'n sleutelwoord gekies wat tans deur 'n boekmerk gebruik word. Kies 'n ander een.
 
@@ -476,6 +477,9 @@ forms-breach-alerts-learn-more-link = Meer inligting
 forms-saved-logins =
     .label = Gestoorde aanmeldings…
     .accesskey = l
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Wysig meesterwagwoord…
     .accesskey = m

@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = { -relay-brand-name } n'en deus ket gellet krouiñ ur maskl nevez. Kod fazi HTTP: { $status }.
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } n'en deus ket kavet maskloù da implijout. Kod fazi HTTP: { $status }.
 
-##
+## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = Kennaskañ e { -fxaccount-brand-name } a rankit ober a-raok implijout { -relay-brand-name }.
 firefox-relay-must-login-to-account = Kennaskit ouzh ho kont a-benn implijout aliazoù chomlec’h postel { -relay-brand-name }.
@@ -33,3 +33,15 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Ket bremañ
     .accesskey = K
+
+## The "control" variation of the Relay offer popup
+
+
+## The "basic-info" variation of the Relay offer popup
+
+
+## The "with-domain" variation of the Relay offer popup
+
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+

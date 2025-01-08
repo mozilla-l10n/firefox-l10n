@@ -5,7 +5,11 @@
 url-classifier-title = URL Sınıflandırıcısı Malümatı
 url-classifier-search-title = Qıdır
 url-classifier-search-result-title = Neticeler
+# Variables:
+#   $uri (string) - URI of blocked page
 url-classifier-search-result-uri = URI: { $uri }
+# Variables:
+#   $list (string) - List of tables where the page is blocked
 url-classifier-search-result-list = Cedveller listesi: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = Keçersiz URL
@@ -40,7 +44,6 @@ url-classifier-debug-sb-modules = Emin Kezinüv kütük modülleri
 url-classifier-debug-modules = Cari kütük modülleri
 url-classifier-debug-sbjs-modules = Emin Kezinüv JS kütügi
 url-classifier-debug-file = Cari kütük dosyesi
-
 url-classifier-trigger-update = Tetik Yañartması
 url-classifier-not-available = Uyğulanalmaz
 url-classifier-disable-sbjs-log = Emin Kezinüv JS Kütügini Ğayrıfaalleştir

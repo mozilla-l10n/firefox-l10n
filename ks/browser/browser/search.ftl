@@ -10,14 +10,19 @@
 
 opensearch-error-duplicate-title = انسٹال ایرر
 opensearch-error-duplicate-desc = ہیوک نْہ انسٹال کْرتھ تلاش پْلگ اِن  "{ -brand-short-name }" پیٹھ کیازِ کہ امہ ناوک اِنجن اوس گوڈے موجود۔{ $location-url }
-
 opensearch-error-download-title = ڈاؤن لوڈغلطی
 opensearch-error-download-desc = ہیوک نْہ ڈاون لوڈ کْرتھ پْلگ اِن پیٹھ:{ -brand-short-name } { $location-url }
 
 ##
 
+
 ## Infobar shown when search engine is removed and replaced.
 ## Variables
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
+
+
+## Infobar shown when user is prompted to install search engine.
+## Variables
+## $engineName (String) - the name of the search engine to install.
 

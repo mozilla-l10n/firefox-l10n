@@ -34,20 +34,20 @@ about-telemetry-raw = خام JSON
 about-telemetry-full-sql-warning = نوٹ: سست SQL ڈیبگنگ اہل ہے۔ نیچے پوری SQL سٹرنگز دکھائی جا سکتی ہیں لیکن یہ ٹیلیمٹری کو جمع نہیں کرائ جائیں گی۔
 # Selects the correct upload string
 # Variables:
-#   $uploadcase (String): represents a corresponding upload string
+#   $uploadcase (string) - Represents a corresponding upload string
 about-telemetry-upload-type =
     { $uploadcase ->
         [enabled] اہل کردہ
        *[disabled] نااہل کردہ
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = یہ صفحہ کارکردگی، ہارڈ ہئر اور تخصیص کاری کی معلومات دکھا رہا ہے جو کہ ٹیلیمیٹری سے جمع کیا گیا ہے۔ یہ معلومات { -brand-full-name } بہتر کرنے کے لیے { $telemetryServerOwner } میں جمع کی گئ ہے۔
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $selectedTitle (String): the section name from the structure of the ping.
+#   $selectedTitle (string) - The section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = { $selectedTitle } میں تلاش کریں
 about-telemetry-filter-all-placeholder =
@@ -68,13 +68,13 @@ about-telemetry-slow-sql-statement = بیان
 about-telemetry-addon-table-id = اضافہ شناخت
 about-telemetry-addon-table-details = تفاصیل
 # Variables:
-#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+#   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = { $addonProvider } مہیا کنندہ
 about-telemetry-keys-header = خاصیت
 about-telemetry-names-header = نام
 about-telemetry-values-header = قدر
 # Variables:
-#   $lateWriteCount (Integer): the number of the late writes
+#   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = دیرانہ لکھائی #{ $lateWriteCount }
 about-telemetry-stack-title = سٹیک:
 about-telemetry-memory-map-title = میموری نقشہ:

@@ -187,6 +187,10 @@ shopping-survey-terms-link = გამოყენების პირობ�
 shopping-survey-thanks =
     .heading = გმადლობთ გამოხმაურებისთვის!
 
+## Shopping opted-out survey strings
+## Opt-out survey options are displayed as checkboxes and the user can select one or many.
+
+
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.

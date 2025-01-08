@@ -3,11 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 type-header = Xha naak ahh
-
 # Used to display update history
 #
 # Variables:
-#   $name (String): name of the update
-#   $buildID (String): build identifier from the local updates.xml
+#   $name (string) - Name of the update
+#   $buildID (string) - Build identifier from the local updates.xml
 update-full-build-name = { $name } ({ $buildID })
-

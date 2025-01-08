@@ -120,7 +120,7 @@ confirm-on-close-multiple-tabs =
     .accesskey = m
 # This string is used for the confirm before quitting preference.
 # Variables:
-#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
@@ -163,7 +163,7 @@ containers-disable-alert-ok-button =
 containers-disable-alert-cancel-button = Stey enabled
 containers-remove-alert-title = Remuive This Conteener?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Gin ye remuive this Conteener the noo, { $count } conteener tab will be sneckit. Are ye shair ye want tae remuive this Conteener?
@@ -186,6 +186,8 @@ advanced-fonts =
 preferences-zoom-header = Zoom
 preferences-default-zoom = Staunart zoom
     .accesskey = z
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
@@ -278,15 +280,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Ayeweys speir
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Yaise { $plugin-name } (in { -brand-short-name })
 applications-open-inapp =
@@ -322,6 +324,8 @@ play-drm-content =
 play-drm-content-learn-more = Lairn mair
 update-application-title = { -brand-short-name } Updates
 update-application-description = Keep { -brand-short-name } up tae date for the best performance, stieveness, and siccarness.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Version { $version } <a data-l10n-name="learn-more">Whit’s new</a>
 update-history =
     .label = Kythe Update Historie...
@@ -345,7 +349,7 @@ update-application-use-service =
     .accesskey = b
 update-setting-write-failure-title2 = Mishanter savin Update settins
 # Variables:
-#   $path (String) - Path to the configuration file
+#   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
@@ -375,7 +379,7 @@ performance-limit-content-process-option = Content process leemit
 performance-limit-content-process-enabled-desc = Mair content processes can impruive performance when yaisin a wheen o tabs, but will yaise mair memory forby.
 performance-limit-content-process-blocked-desc = Chyngin the nummer o content processes can anely be duin wi multiprocess { -brand-short-name }. <a data-l10n-name="learn-more">Lairn how tae check if multiprocess is enabled</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (staunart)
 
@@ -465,8 +469,7 @@ home-prefs-shortcuts-description = Sites ye save or veesit
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsored shortcuts
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Recommendit by { $provider }
@@ -495,6 +498,8 @@ home-prefs-recent-activity-description = A walin o recent sites and content
 home-prefs-snippets-header =
     .label = Bitties
 home-prefs-snippets-description-new = Tips and news fae { -vendor-short-name } and { -brand-product-name }
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -554,7 +559,7 @@ search-find-more-link = Find mair airt-oot engines
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Keywird Awready in Yaise
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Ye've waled a keywird that's awready in yaise by “{ $name }”. Gonnae wale anither.
 search-keyword-warning-bookmark = Ye've waled a keywird that's awready in yaise by a buikmerk. Gonnae wale anither.
 
@@ -836,8 +841,8 @@ history-clear-button =
 sitedata-header = Cookies and Site Data
 sitedata-total-size-calculating = Wirkin oot site data and cache size...
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Yer stored cookies, site data, and cache richt noo are yaisin { $value } { $unit } o disk space.
 sitedata-learn-more = Lairn mair
 sitedata-delete-on-close =

@@ -12,35 +12,29 @@ cfr-doorhanger-feature-heading = Funktsionaalsuse soovitus
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Miks seda kuvatakse?
-
 cfr-doorhanger-extension-cancel-button = Mitte praegu
     .accesskey = M
-
 cfr-doorhanger-extension-ok-button = Paigalda
     .accesskey = P
-
 cfr-doorhanger-extension-manage-settings-button = Halda soovituste sätteid
     .accesskey = H
-
 cfr-doorhanger-extension-never-show-recommendation = Rohkem seda soovitust ei kuvata
     .accesskey = R
-
 cfr-doorhanger-extension-learn-more-link = Rohkem teavet
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Soovitus
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Soovitus
     .tooltiptext = Laienduse soovitus
     .a11y-announcement = Laienduse soovitus on saadaval
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Soovitus
     .tooltiptext = Funktsionaalsuse soovitus
     .a11y-announcement = Funktsionaalsuse soovitus on saadaval
@@ -85,11 +79,9 @@ cfr-protections-panel-link-text = Rohkem teavet
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Uus funktsionaalsus:
-
 cfr-whatsnew-button =
     .label = Mis on uut?
     .tooltiptext = Mis on uut?
-
 cfr-whatsnew-release-notes-link-text = Loe väljalasketeadet
 
 ## Enhanced Tracking Protection Milestones
@@ -116,16 +108,12 @@ cfr-doorhanger-doh-primary-button-2 = Sobib
 cfr-doorhanger-doh-secondary-button = Keela
     .accesskey = K
 
-## Fission Experiment Message
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Sellel saidil olevaid videoid ei pruugita selle { -brand-short-name } versiooniga õigesti esitada. Täieliku videotoe saamiseks uuendage { -brand-short-name } kohe.
 cfr-doorhanger-video-support-header = Video esitamiseks uuenda { -brand-short-name }
 cfr-doorhanger-video-support-primary-button = Uuenda kohe
     .accesskey = U
-
-## Spotlight modal shared strings
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -140,8 +128,6 @@ spotlight-public-wifi-vpn-primary-button = Jää privaatseks { -mozilla-vpn-bran
     .accesskey = p
 spotlight-public-wifi-vpn-link = Mitte praegu
     .accesskey = M
-
-## Total Cookie Protection Rollout
 
 ## Emotive Continuous Onboarding
 
@@ -169,19 +155,52 @@ spotlight-pin-secondary-button = Mitte praegu
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+
 ## Firefox View CFR
+
 
 ## Firefox View Spotlight
 
+
 ## Colorways expiry reminder CFR
+
 
 ## Cookie Banner Handling CFR
 
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
+
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+
 ## FxA sync CFR
 
+
 ## Device Migration FxA Spotlight
+
+
+## Set as Default PDF Reader Infobar
+
+
+## Launch on login infobar notification
+
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+
+## Tail Fox Set Default Spotlight
+
+
+## Root Certificate Succession Infobar
+
+
+## Root Certificate Succession Windows Background Notification
+
+
+## FxA Menu Message variants
+
+
+## Multi-CTA Fox Doodle Spotlight
 

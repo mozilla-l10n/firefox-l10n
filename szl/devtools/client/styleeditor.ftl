@@ -8,4 +8,3 @@ styleeditor-find =
 styleeditor-find-again =
     .label = Znojdź zaś
     .accesskey = d
-

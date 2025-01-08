@@ -76,6 +76,10 @@ tabbrowser-confirm-close-tabs-with-key-button = ອອກຈາກ { -brand-shor
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = ຢືນຢັນກ່ອນທີ່ຈະເຊົາກັບ { $quitKey }
 
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+
 ## Confirmation dialog when opening multiple tabs simultaneously
 
 tabbrowser-confirm-open-multiple-tabs-title = ຢືນຢັນການເປີດ
@@ -139,3 +143,10 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = ເປີດສຽງແທັບ
 tabbrowser-manager-close-tab =
     .tooltiptext = ປິດແທັບ
+
+## Tab Groups
+
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+

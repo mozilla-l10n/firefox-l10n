@@ -5,7 +5,11 @@
 url-classifier-title = اطلاعات طبقه بندی شده‌ی URL
 url-classifier-search-title = جست‌وجو
 url-classifier-search-result-title = نتایج
+# Variables:
+#   $uri (string) - URI of blocked page
 url-classifier-search-result-uri = URI: { $uri }
+# Variables:
+#   $list (string) - List of tables where the page is blocked
 url-classifier-search-result-list = فهرست جداول: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = URL نامعتبر
@@ -40,7 +44,6 @@ url-classifier-debug-sb-modules = ماژول‌های وقایع مرور امن
 url-classifier-debug-modules = ماژول‌های وقایع فعلی
 url-classifier-debug-sbjs-modules = وقایع JS مرور امن
 url-classifier-debug-file = پرونده وقایع فعلی
-
 url-classifier-trigger-update = اجرای بروزرسانی
 url-classifier-not-available = نامربوط
 url-classifier-disable-sbjs-log = غیرفعال کردن وقایع JS مرور امن

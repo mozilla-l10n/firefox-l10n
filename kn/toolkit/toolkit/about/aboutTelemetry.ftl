@@ -31,30 +31,30 @@ about-telemetry-raw = ಸಂಸ್ಕರಿಸದ JSON
 about-telemetry-full-sql-warning =   NOTE ನಿಧಾನಗತಿ SQL ದೋಷನಿದಾನವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ. ಸಂಪೂರ್ಣ SQL ವಾಕ್ಯಾಂಶಗಳನ್ನು ಈ ಕೆಳಗೆ ತೋರಿಸಲಾಗುವ ಸಾಧ್ಯತೆ ಇದೆ ಆದರೆ ಅವುಗಳನ್ನು ಟೆಲಿಮೆಟ್ರಿಗೆ ಸಲ್ಲಿಸಲಾಗುವುದಿಲ್ಲ.
 # Selects the correct upload string
 # Variables:
-#   $uploadcase (String): represents a corresponding upload string
+#   $uploadcase (string) - Represents a corresponding upload string
 about-telemetry-upload-type =
     { $uploadcase ->
         [enabled] ಸಕ್ರಿಯಗೊಳಿಸಿದೆ
        *[disabled] ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿದ
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = ಈ ಪುಟವು, ಟೆಲಿಮೆಟ್ರಿಯಿಂದ ಸಂಗ್ರಹಿಸಲಾದ ಕಾರ್ಯನಿರ್ವಹಣೆ, ಯಂತ್ರಾಂಶ, ಬಳಕೆ, ಮತ್ತು ಅಗತ್ಯಾನುಗುಣಗೊಳಿಕೆಯ ಕುರಿತಾದ ಮಾಹಿತಿಯನ್ನು ಹೊಂದಿರುತ್ತದೆ. { -brand-full-name } ಅನ್ನು ಸುಧಾರಿಸಲು ಈ ಮಾಹಿತಿಯನ್ನು { $telemetryServerOwner } ಗೆ ಸಲ್ಲಿಸಲಾಗಿದೆ.
 # Variables:
-#   $name (String): ping name, e.g. “saved-session”
-#   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
+#   $name (string) - Ping name, e.g. “saved-session”
+#   $timestamp (string) - Ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = ಮಾಹಿತಿಯ ಪ್ರತಿಯೊಂದು ಕಣವನ್ನು “<a data-l10n-name="ping-link">ಪಿಂಗ್‌ಗಳು</a>” ಗೆ ಜೋಡಿಸಲಾಗಿದೆ. ನೀವು { $name }, { $timestamp } ಪಿಂಗ್ ಅನ್ನು ನೋಡುತ್ತಿದ್ದೀರಿ.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $selectedTitle (String): the section name from the structure of the ping.
+#   $selectedTitle (string) - The section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = { $selectedTitle } ನಲ್ಲಿ ಹುಡುಕಿ
 about-telemetry-filter-all-placeholder =
     .placeholder = ಎಲ್ಲಾ ವಿಭಾಗಗಳಲ್ಲಿ ಹುಡುಕು
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-results-for-search = “{ $searchTerms }” ಗೆ ಫಲಿತಾಂಶಗಳು
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = ಎಲ್ಲ
@@ -70,13 +70,13 @@ about-telemetry-slow-sql-statement = ಹೇಳಿಕೆ
 about-telemetry-addon-table-id = ಆಡ್-ಆನ್ ID
 about-telemetry-addon-table-details = ವಿವರಗಳು
 # Variables:
-#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+#   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = { $addonProvider } ಪೂರೈಕೆಗಾರ
 about-telemetry-keys-header = ಗುಣ
 about-telemetry-names-header = ಹೆಸರು
 about-telemetry-values-header = ಮೌಲ್ಯ
 # Variables:
-#   $lateWriteCount (Integer): the number of the late writes
+#   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = ತಡವಾದ ಬರೆಯುವಿಕೆ #{ $lateWriteCount }
 about-telemetry-stack-title = ಸ್ಟ್ಯಾಕ್:
 about-telemetry-memory-map-title = ಮೆಮೊರಿ ನಕ್ಷೆ:

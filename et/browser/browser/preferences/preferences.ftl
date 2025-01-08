@@ -529,8 +529,7 @@ home-prefs-shortcuts-description = Saidid, mida oled külastanud või mille oled
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsitud otseteed
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = { $provider } soovitab

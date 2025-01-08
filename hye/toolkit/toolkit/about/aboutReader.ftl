@@ -4,7 +4,6 @@
 
 about-reader-loading = Բեռնում …
 about-reader-load-error = Չը հաջողուեց յոդուածը ներբեռնել էջից
-
 about-reader-color-scheme-light = Լոյս
     .title = Լոյսի գունային սխեման
 about-reader-color-scheme-dark = Մուգ
@@ -13,7 +12,6 @@ about-reader-color-scheme-sepia = Հունաստան
     .title = դարչնագոյն գունային համակարգ
 about-reader-color-scheme-auto = Ինքնաշխատ
     .title = Գունապնակ «Auto»
-
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -25,7 +23,7 @@ about-reader-estimated-read-time =
        *[other] { $range }րոպե
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = Կրճատել տառաչափը
@@ -50,3 +48,14 @@ about-reader-font-type-sans-serif = Առանց փակոցների
 about-reader-toolbar-close = Ընթերցողի դիտակէտը Փակ է
 about-reader-toolbar-type-controls = Տեսակի կառավարներ
 about-reader-toolbar-savetopocket = Պահել { -pocket-brand-name }
+
+## Reader View colors menu
+
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+
+## Reader View text and layout menu
+

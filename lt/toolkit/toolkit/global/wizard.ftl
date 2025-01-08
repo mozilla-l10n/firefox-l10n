@@ -11,7 +11,6 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Atgal
     .accesskey = A
-
 wizard-macos-button-next =
     .label = Toliau
     .accesskey = T
@@ -21,14 +20,12 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = Toliau >
     .accesskey = T
-
 wizard-macos-button-finish =
     .label = Baigti
 wizard-linux-button-finish =
     .label = Baigti
 wizard-win-button-finish =
     .label = Baigti
-
 wizard-macos-button-cancel =
     .label = Atsisakyti
 wizard-linux-button-cancel =

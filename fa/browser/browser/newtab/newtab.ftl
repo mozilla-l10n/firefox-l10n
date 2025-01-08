@@ -322,3 +322,11 @@ newtab-weather-menu-learn-more = بیشتر بدانید
 newtab-topic-selection-save-button = ذخیره
 newtab-topic-selection-cancel-button = انصراف
 newtab-topic-selection-button-maybe-later = شاید بعداً
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Confirmation modal for blocking a section
+

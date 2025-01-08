@@ -10,7 +10,6 @@ videocontrols-volume-control =
     .aria-label = ხმის სიმაღლე
 videocontrols-closed-caption-button =
     .aria-label = დახურული სუბტიტრები
-
 videocontrols-play-button =
     .aria-label = გაშვება
 videocontrols-pause-button =
@@ -25,19 +24,20 @@ videocontrols-exitfullscreen-button =
     .aria-label = სრულეკრანიანი რეჟიმიდან გამოსვლა
 videocontrols-casting-button-label =
     .aria-label = ეკრანზე გადაცემა
+# .offlabel is processed by the video control custom element to be used
+# as a text-track label
 videocontrols-closed-caption-off =
     .offlabel = გამორთ.
-
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = ეკრანი-ეკრანში
-
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = ამოახტუნეთ ზემოთ ვიდეო
-
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer3 = მეტი ეკრანი მეტად გასართობია. უყურეთ ვიდეოს სხვა საქმეების კეთებისას.
-
 videocontrols-error-aborted = ვიდეოს ჩატვირთვა შეჩერებულია
 videocontrols-error-network = ვიდეოს გაშვება შეწყვეტილია, ქსელის ხარვეზის გამო.
 videocontrols-error-decode = ვიდეოს გაშვება ვერ მოხერხდა, რადგან ფაილი დაზიანებულია.
@@ -45,7 +45,6 @@ videocontrols-error-src-not-supported = ვიდეოს ფორმატი
 videocontrols-error-no-source = ვიდეო არაა მხარდაჭერილი ფორმატის ან MIME-სახეობის.
 videocontrols-error-generic = ვიდეოს გაშვება შეწყდა, გაურკვეველი შეცდომის გამო.
 videocontrols-status-picture-in-picture = ვიდეო გაშვებულია რეჟიმით ეკრანი-ეკრანში.
-
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -59,7 +58,6 @@ videocontrols-status-picture-in-picture = ვიდეო გაშვებუ�
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
-
 # This is a plain text version of the videocontrols-position-and-duration-labels
 # string, used by screenreaders.
 #

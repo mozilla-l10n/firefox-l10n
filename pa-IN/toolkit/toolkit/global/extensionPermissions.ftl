@@ -33,3 +33,7 @@ webext-perms-description-topSites = ਬਰਾਊਜ਼ਰ ਅਤੀਤ ਲਈ ਪ�
 webext-perms-description-trialML = AI ਮਾਡਲਾਂ ਨੂੰ ਆਪਣੇ ਡਿਵਾਈਸ ਉੱਤੇ ਡਾਊਨਲੋਡ ਕਰਕੇ ਚਲਾਓ
 webext-perms-description-userScripts = ਗ਼ੈਰ-ਤਸਦੀਕ ਕੀਤੀਆਂ ਸੁਤੰਤਰ ਧਿਰ ਦੀਆਂ ਸਕ੍ਰਿਪਟਾਂ ਨੂੰ ਆਪਣੇ ਡਾਟੇ ਲਈ ਪਹੁੰਚ ਦੀ ਮਨਜ਼ੂਰੀ ਦਿਓ
 webext-perms-description-webNavigation = ਨੇਵੀਗੇਸ਼ਨ ਦੌਰਾਨ ਬਰਾਊਜ਼ਰ ਸਰਗਰਮੀ ਲਈ ਪਹੁੰਚ
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

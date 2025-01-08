@@ -35,7 +35,7 @@ about-reader-estimated-read-time =
        *[other] { $range } minutt
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = MInske skriftstorleik
@@ -86,7 +86,7 @@ about-reader-custom-colors-selection-highlight = Markering for høgtlesing
     .title = Endre farge
 about-reader-reset-button = Still tilbake til standardverdiar
 
-## Reader View improved text and layout menu
+## Reader View text and layout menu
 
 about-reader-text-header = Tekst
 about-reader-text-size-label = Tekststorleik

@@ -4,4 +4,3 @@
 
 sidebar-menu-bookmarks =
     .label = Aq'ol texhlal
-

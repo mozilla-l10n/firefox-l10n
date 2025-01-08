@@ -23,6 +23,11 @@ protections-panel-etp-more-info =
     .aria-label = Vairāk informācijas par uzlaboto aizsardzību pret izsekošanu
 protections-panel-etp-on-header = Uzlabotā aizsardzība pret izsekošanu šai vietnei ir ieslēgta
 protections-panel-etp-off-header = Uzlabotā aizsardzība pret izsekošanu šai vietnei ir izslēgta
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Vietne nedarbojas?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Vietne nedarbojas?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -37,11 +42,6 @@ protections-panel-etp-toggle-off =
     .label = Uzlabota aizsardzība pret izsekošanu
     .description = Šai vietnei izslēgta
     .aria-label = Uzlabota aizsardzība pret izsekošanu: izslēgta vietnei { $host }
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Vietne nedarbojas?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Vietne nedarbojas?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -71,6 +71,9 @@ protections-panel-content-blocking-fingerprinters-label = Ciparnospiedumi
 protections-panel-blocking-label = Bloķēts
 protections-panel-not-blocking-label = Atļauts
 protections-panel-not-found-label = Nav konstatēts
+
+## Smartblock strings
+
 
 ##
 
@@ -108,7 +111,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Ziņot par bojātu vietni
 protections-panel-content-blocking-breakage-report-view-description = Dažu izsekotāju bloķēšana var radīt problēmas ar dažām vietnēm. Ziņošana par šīm problēmām palīdz padarīt { -brand-short-name } labāku ikvienam. Nosūtot šo ziņojumu, Mozilla tiks nosūtīts URL un informācija par jūsu pārlūkprogrammas iestatījumiem. <label data-l10n-name="learn-more">Uzziniet vairāk</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Dažu izsekotāju bloķēšana var radīt problēmas ar dažām vietnēm. Ziņošana par šīm problēmām palīdz padarīt { -brand-short-name } labāku ikvienam. Nosūtot šo ziņojumu, { -vendor-short-name } tiks nosūtīts URL un informācija par jūsu pārlūkprogrammas iestatījumiem.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL

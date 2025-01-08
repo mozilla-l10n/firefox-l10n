@@ -3,5 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = Is gá é a atosú
-
 restart-button-label = Atosaigh { -brand-short-name }

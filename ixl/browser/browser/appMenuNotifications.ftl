@@ -5,4 +5,3 @@
 appmenu-addon-post-install-incognito-checkbox =
     .label = Sa'a' uva' la uch ab'enb'et tulaj unq'a ilb'ale' uva' eetz kuxhtu'
     .accesskey = S
-    

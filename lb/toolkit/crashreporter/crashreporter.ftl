@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = Ofstierzmelder
-crashreporter-crash-message = { -brand-short-name } hat e Problem an ass ofgestierzt.
 crashreporter-plea = Fir eis ze hëllefen de Problem ze diagnostizéieren an ze flécken, kanns Du eis en Ofstierzrapport schécken.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Detailer: { $details }

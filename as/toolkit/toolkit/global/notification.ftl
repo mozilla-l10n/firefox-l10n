@@ -4,6 +4,5 @@
 
 notification-learnmore-default-label =
     .value = অধিক জানক
-
 close-notification-message =
     .tooltiptext = এই বাৰ্তা বন্ধ কৰক

@@ -9,3 +9,7 @@
 
 webext-perms-description-bookmarks = خوێندنەوە و دەستکاریکردنی دڵخوازەکان
 webext-perms-description-browserSettings = خوێندنەوە و دەستکاریکردنی ڕێکخستنەکانی وێبگەڕ
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

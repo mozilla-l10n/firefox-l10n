@@ -5,6 +5,8 @@
 label-disable = Անջատել
 label-enable = Միացված
 label-interventions = Միջամտություններ
+# Variables:
+#   $bug (string) - Bug number
 label-more-information = Հավելյալ տեղեկություն․ Վրիպակ { $bug }
 label-overrides = User Agent-ը գերակայում է
 text-disabled-in-about-config = Այս հատկությունը անջատված է about:config

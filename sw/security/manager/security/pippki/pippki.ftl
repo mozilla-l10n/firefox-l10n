@@ -10,8 +10,6 @@ password-quality-meter = Mita ya ubora wa nenosiri
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Kifaa cha Usalama: { $tokenName }
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -25,10 +23,11 @@ download-cert-view-cert =
 ## Client Authorization Ask dialog
 
 
+## Client Authentication Ask dialog
+
+
 ## Set password (p12) dialog
 
-
-## Protected Auth dialog
 
 ## Protected authentication alert
 

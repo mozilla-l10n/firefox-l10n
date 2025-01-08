@@ -9,7 +9,6 @@ about-service-workers-title = Om Service Workers
 about-service-workers-main-title = Registrerte Service Workers
 about-service-workers-warning-not-enabled = Service Workers er ikkje påslått.
 about-service-workers-warning-no-service-workers = Ingen Service Workers er registrerte.
-
 # The original title of service workers' information
 #
 # Variables:
@@ -29,12 +28,8 @@ active-cache-name = <strong>Aktivt cachenamn:</strong> { $name }
 waiting-cache-name = <strong>Ventande cachenamn:</strong> { $name }
 push-end-point-waiting = <strong>Push-endepunkt:</strong> { waiting }
 push-end-point-result = <strong>Push-endepunkt:</strong> { $name }
-
 # This term is used as a button label (verb, not noun).
 update-button = Oppdater
-
 unregister-button = Avregistrer
-
 unregister-error = Klarte ikkje å avregistrere denne serviceworkeren.
-
 waiting = Ventar …

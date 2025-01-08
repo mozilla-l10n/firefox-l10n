@@ -20,7 +20,7 @@ about-telemetry-late-writes-section = Mana allipasqa qillqaykuna
 about-telemetry-raw = JSON  nisqa mana ruwasqa
 about-telemetry-full-sql-warning = Willakuy:wiqchusqa SQL nisqa allillamanta kichasqa kachkan. hunta qatiqati SQL nisqamanta ichaqa manan apachikunqachu Telemetry.nisqaman.
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Kay qatiqatirapiqa qawarichinmi kallpapakusqanta,  hardware nisqa ruwayta hinaspa uqarisqa kikinchayninta Telemetry.nisqawan.kay willakuyqa { $telemetryServerOwner } nisqamanmi apachikunan { -brand-full-name }.nisqa aswan allin kananpaq.
 # button label to copy the histogram
 about-telemetry-histogram-copy = Ima kaq tiqray
@@ -34,11 +34,11 @@ about-telemetry-slow-sql-statement = Lliwkaq,  Tukupay
 about-telemetry-addon-table-id = ID nisqaq huntapaynin
 about-telemetry-addon-table-details = Allchapaykuna
 # Variables:
-#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+#   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = { $addonProvider } nisqa taqinchaq
 about-telemetry-keys-header = Kikinpa kaqnin
 # Variables:
-#   $lateWriteCount (Integer): the number of the late writes
+#   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = #{ $lateWriteCount } nisqaq  tanra qillqay
 about-telemetry-stack-title = Tawqay
 about-telemetry-memory-map-title = Ima kaq yuyaychay

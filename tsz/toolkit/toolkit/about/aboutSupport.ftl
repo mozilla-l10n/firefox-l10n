@@ -6,9 +6,17 @@ a11y-title = Marhuatakua
 
 ## Media titles
 
+
 ## Codec support table
 
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+
 ##
+
 
 ## Remote Debugging
 ##
@@ -19,7 +27,9 @@ a11y-title = Marhuatakua
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+
 ##
+
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
@@ -39,7 +49,18 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+
 ## Printing section
 
+
+## Remote Settings sections
+
+
 ## Normandy sections
+
+
+## Pointing devices
+
+
+## Content Analysis (DLP)
 

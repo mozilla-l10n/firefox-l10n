@@ -23,7 +23,7 @@ about-telemetry-late-writes-section = Hantum kokorantey
 about-telemetry-raw = JSON gani
 about-telemetry-full-sql-warning = HAWGAY: SQL hasaraw kayyan n' k atunandi. SQL tenjiri timmantey ši hin ka cebande ganda amma i ga sanbandi mooru-neešiyan bande.
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Moɲoo woo ga cebe alhabar cebe goysahã, jinay šenda, goymee nda boŋše hanseyan kaŋ mooru-neeši n'i marga. Alhabaroo woo ga sanbandi { $telemetryServerOwner } do ka faaba ka { -brand-full-name } hennandi.
 # button label to copy the histogram
 about-telemetry-histogram-copy = Berandi
@@ -37,11 +37,11 @@ about-telemetry-slow-sql-statement = Hãayan
 about-telemetry-addon-table-id = Tontoni tammaasa
 about-telemetry-addon-table-details = Šilbayhayey
 # Variables:
-#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+#   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = { $addonProvider } nookaw
 about-telemetry-keys-header = Mayray
 # Variables:
-#   $lateWriteCount (Integer): the number of the late writes
+#   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = Hantum koraw #{ $lateWriteCount }
 about-telemetry-stack-title = Dekeri:
 about-telemetry-memory-map-title = Lakkal katta:

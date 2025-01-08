@@ -220,7 +220,6 @@ newtab-pocket-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 newtab-pocket-cta-button = ຮັບ { -pocket-brand-name }
 newtab-pocket-cta-text = ຊ່ວຍບັນທຶກເລື່ອງທີ່ທ່ານຮັກໃນ { -pocket-brand-name }, ແລະນ້ໍາໃຈຂອງທ່ານກັບອ່ານທີ່ຫນ້າສົນໃຈ.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } ແມ່ນສ່ວນໜຶ່ງຂອງຄອບຄົວ { -brand-product-name }
-# A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = ບັນທຶກ
 newtab-pocket-saved = ບັນທຶກແລ້ວ
 
@@ -280,4 +279,12 @@ newtab-custom-settings = ຈັດການການຕັ້ງຄ່າເພ�
 
 
 ## Topic Selection Modal
+
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Confirmation modal for blocking a section
 

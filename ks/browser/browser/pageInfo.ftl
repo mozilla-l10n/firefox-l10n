@@ -5,11 +5,9 @@
 menu-copy =
     .label = نقل
     .accesskey = C
-
 menu-select-all =
     .label = سئری ژئریو
     .accesskey = A
-
 general-url =
     .value = پتئ :
 general-type =
@@ -26,7 +24,6 @@ general-meta-name =
     .label = ناو
 general-meta-content =
     .label = مشمولئ
-
 media-location =
     .value = جاے:
 media-text =
@@ -45,10 +42,8 @@ media-dimension =
     .value = حد:
 media-long-desc =
     .value = زیٹھ تفصٖیل:
-
 permissions-for =
     .value = خٲطرئ اجازت:
-
 security-view-unknown = نامولوم
     .value = نامولوم
 security-view-identity =
@@ -59,14 +54,10 @@ security-view-identity-domain =
     .value = ویب سايٹ :
 security-view-identity-verifier =
     .value = مولوم كرنئ آمُت :
-
 security-view-privacy-history-value = م۪ی چھا وچھمَژ یئ ویب سایٹ  اَز برونٹھ تئ ؟
-
 security-view-privacy-passwords-value = م۪ی چھا كاںہ خُفیئ لفظ محفوظ تھٲومُت یَتھ ویبسایٹ خٲطرئ؟
-
 security-view-technical =
     .value = تكنیكی تفصیل
-
 help-button =
     .label = مدد
 
@@ -75,6 +66,7 @@ help-button =
 ## Variables:
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
+
 
 ##
 
@@ -96,7 +88,6 @@ media-video = ویڈیو
 media-audio = آڈیو
 saved-passwords-yes = عئں
 saved-passwords-no = نئ
-
 no-page-title =
     .value = انوان  رۄستوی صفح:
 general-quirks-mode =
@@ -111,14 +102,12 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = ڈیفالٹ كریو استیمال
 security-no-visits = نئ
-
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } ایمیج
-
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -128,7 +117,6 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (واتناومُت { $scaledx }px × { $scaledy }px)
-
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
@@ -140,8 +128,6 @@ media-file-size = { $size } KB
 
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
-# Variables:
-#   $website (string) - The url of the website pageInfo is getting info for
 page-info-page =
     .title = صفحچ مولومات
 page-info-frame =

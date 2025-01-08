@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -9,13 +10,11 @@
 
 psmerr-ssl-disabled = Xavfsiz ulana olmadi, chunki SSL protokol o‘chirib qo‘yilgan.
 psmerr-ssl2-disabled = Xavfsiz ulana olmadi, chunki sayt SSL protokolning eski va xavfsiz bo‘lmagan versiyasidan foydalanadi.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Siz yaroqsiz sertifikatni qabul qildingiz.  Server administratori yoki sertifikat jo‘natilgan e-pochta bilan bog‘laning va ularga quyidagi ma’lumotlarni bering:
     
     Sertifikatingiz boshqa tasdiqdan o‘tgan sertifikatga tegishli sertifikat serial raqami bilan bir xil.  Boshqa alohida serial raqami bor yangi sertifikatni oling.
-
 ssl-error-export-only-server = Xavfsiz ulanishning imkoni boʻlmadi.  Manba yuqori darajali shifrlashni qoʻllab-quvvatlay olmaydi.
 ssl-error-us-only-server = Xavfsiz ulanishning imkoni boʻlmadi.  Manba qoʻllab-quvvatlanmaydigan yuqori darajali shifrlashni talab qilmoqda.
 ssl-error-no-cypher-overlap = Manba bilan xavfsiz ulanib boʻlmadi: umumiy algoritmlar toʻgʻri kelmadi.
@@ -152,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = Sozlanangan TLS imzoli algoritm bil
 ssl-error-unsupported-signature-algorithm = Manba mos kelmaydigan imzo kombinatsiyasi va hesh algoritmidan foydalangan.
 ssl-error-missing-extended-master-secret = Manba to‘g‘ri extended_master_secret kengaytmasisiz davom etishga urinib ko‘rdi.
 ssl-error-unexpected-extended-master-secret = Manba kutilmagan "extended_master_secret" kengaytmasi bilan davom etish uchun urinib ko‘rdi.
-
 sec-error-io = Tasdiqdan o‘tkazish jarayoni davomida I/O xatolik yuz berdi.
 sec-error-library-failure = xavfsizik kutubxonasi xatoligi.
 sec-error-bad-data = xavfsizlik kutubxonasi: yomon ma’lumotlar qabul qilindi.
@@ -319,7 +317,6 @@ sec-error-locked-password = Parol bloklangan.
 sec-error-unknown-pkcs11-error = Noma’lum PKCS #11 xatoligi.
 sec-error-bad-crl-dp-url = CRL tarqatish nuqtasi nomida noto‘g‘ri yoki mos kelmaydigan URL manzili .
 sec-error-cert-signature-algorithm-disabled = Imzo algoritmidan foydalanib yozilgan sertifikat o‘chirib qo‘yildi, chunki u xavfsiz emas.
-
 mozilla-pkix-error-key-pinning-failure = Ushbu server kalitni terib olish (HPKP)dan foydalanadi, ammo pinset toppganlarda ishochli sertifikat zanjiri tuzishi mumkin bo‘lgani yo‘q. Kalitni terib olishni buzishlar almashtirilmaydi.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Server asosiy majburiy kengaytmalarni tasdiqdan o‘tkazishda uni tasdiqdan o‘tkazish sertifikati kabi sertifikatdan foydalanadi. Mos tushadigan sertifikatlar bunday bo‘lmaydi.
 mozilla-pkix-error-inadequate-key-size = Server xavfsiz ulanish o‘rnatish uchun juda kichik bo‘lgan kalit hajmli sertifikatni ko‘rsatmoqda.
@@ -331,11 +328,9 @@ mozilla-pkix-error-ocsp-response-for-cert-missing = OCSP javobiga tasdiqlanadiga
 mozilla-pkix-error-validity-too-long = Server uzoq vaqt yaroqli bo‘lgan sertifikatni ko‘rsatdi.
 mozilla-pkix-error-required-tls-feature-missing = Kerakli TLS funksiyasi topilmadi.
 mozilla-pkix-error-invalid-integer-encoding = Server noto‘g‘ri shifrlangan butun son mavjud sertifikatni ko‘rsatmoqda. Umumiy sabablar bilan birga manfiy seriyali raqamlar, manfiy RSA moduli va shifrlashlar keragidan ko‘ra juda uzun.
-
 xp-java-remove-principal-error = Tamoyilni o‘chirib bo‘lmadi
 xp-java-delete-privilege-error = Imtiyozlarni o‘chirib bo‘lmadi
 xp-java-cert-not-exists-error = Tamoyilda sertifikat yo‘q.
-
 xp-sec-fortezza-bad-card = Fortezza kartasi to‘g‘ri ishga tushirilmagan. Uni olib tashlang va egasiga qaytaring.
 xp-sec-fortezza-no-card = Fortezza kartalari topilmadi.
 xp-sec-fortezza-none-selected = Fortezza kartalari topilmadi

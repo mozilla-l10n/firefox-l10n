@@ -25,5 +25,6 @@ error-long-desc4 = Els robots tenen darreres de metall lluent que no han de moss
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = I tenen un pla.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = Torna-ho a provar
     .label2 = No torneu a prémer este botó.

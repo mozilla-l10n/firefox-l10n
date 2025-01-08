@@ -4,26 +4,20 @@
 
 languages-close-key =
     .key = w
-
 languages-customize-moveup =
     .label = Hamisha Juu
     .accesskey = J
-
 languages-customize-movedown =
     .label = Hamisha Chini
     .accesskey = C
-
 languages-customize-remove =
     .label = Ondoa
     .accesskey = O
-
 languages-customize-select-language =
     .placeholder = Chagua lugha ya kuongeza…
-
 languages-customize-add =
     .label = Ongeza
     .accesskey = O
-
 # The pattern used to generate strings presented to the user in the
 # locale selection list.
 #
@@ -36,4 +30,3 @@ languages-customize-add =
 #   $code (String) - Locale code of the locale (for example: "is", "es-CL")
 languages-code-format =
     .label = { $locale }  [{ $code }]
-

@@ -6,8 +6,6 @@ title-label = Sobre os engadidos
 installed-plugins-label = Engadidos instalados
 no-plugins-are-installed-label = Non se atoparon engadidos instalados
 deprecation-description = Bota en falta algo? Algúns engadidos xa non son compatíbeis. <a data-l10n-name="deprecation-link">Máis información.</a>
-deprecation-description2 =
-    .message = Bota en falta algo? Algúns engadidos xa non son compatíbeis.
 
 ## The information of plugins
 ##

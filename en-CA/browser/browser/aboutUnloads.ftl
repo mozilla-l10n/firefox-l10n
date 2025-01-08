@@ -15,18 +15,15 @@ about-unloads-intro =
     { -brand-short-name } prioritizes tabs and which tab will be unloaded
     when tab unloading is triggered. You can trigger tab unloading manually
     by clicking the <em>Unload</em> button below.
-
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more =
     See <a data-l10n-name="doc-link">Tab Unloading</a> to learn more about
     the feature and this page.
-
 about-unloads-last-updated = Last updated: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Unload
     .title = Unload tab with the highest priority
 about-unloads-no-unloadable-tab = There are no unloadable tabs.
-
 about-unloads-column-priority = Priority
 about-unloads-column-host = Host
 about-unloads-column-last-accessed = Last Accessed
@@ -38,7 +35,6 @@ about-unloads-column-memory = Memory
     .title = Tab’s estimated memory usage
 about-unloads-column-processes = Process IDs
     .title = IDs of the processes hosting tab’s content
-
 about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } MB
 about-unloads-memory-in-mb-tooltip =

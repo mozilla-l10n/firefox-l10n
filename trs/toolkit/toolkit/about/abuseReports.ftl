@@ -2,8 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# Localized string used as the dialog window title (a new behavior locked
-# behind the "extensions.abuseReport.openDialog" preference).
+# Localized string used as the dialog window title.
 # "Report" is a noun in this case, "Report for AddonName".
 #
 # Variables:
@@ -16,8 +15,6 @@ abuse-report-subtitle = ¿Nù huin si hua a'nan' nanj?
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = guendâ <a data-l10n-name="author-name">{ $author-name }</a>
 abuse-report-learnmore = ¿Nu ni'înt nùj huin si hua hia a'? <a data-l10n-name="learnmore-link">Gahia doj sa ga'ue gi'iát nga nej ekstensiûn ni nej tema</a>
-abuse-report-learnmore-intro = ¿Nu ni'înt nùj huin si hua hia a'?
-abuse-report-learnmore-link = Gahia doj sa ga'ue gi'iát nga nej ekstensiûn ni nej tema
 abuse-report-submit-description = Natà' nù huin sa hua a'nan' (si ruhuât)
 abuse-report-textarea =
     .placeholder = Hìo doj ga'ue nagi'iaj ñûnj nej sa ahui a'nan' sisi gini'in ñûnj sa 'iaj. Gi'iaj 'ngo sunuj u ni ganatà't sa nitaj si 'iaj sun hue'ê. Guruhuât ruguñu'unjt da' ga hue'ê red riña daran' nê'.
@@ -43,22 +40,6 @@ abuse-report-messagebar-removed-extension = Guruhuât nata' snan'anjt. Nadurê't
 abuse-report-messagebar-removed-theme = Guruhuât nata' snan'anjt. Nadurê't têma <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Ga 'ngo sa gahui' a'nan' ngà na'nïnt nuguan'an <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Nuguan' huaj guendâ <span data-l10n-name="addon-name">{ $addon-name }</span> nu gan'an dadin' ngà hua a'ngô nuguan' nukui' riñanj.
-abuse-report-messagebar-aborted2 =
-    .message = Nuguan' huaj guendâ { $addon-name } giyichin' man.
-abuse-report-messagebar-submitting2 =
-    .message = Hìaj na'nïn nuguan'an gan'anj guendâ { $addon-name }.
-abuse-report-messagebar-submitted2 =
-    .message = Guruhuât nata' snan'anjt. Ruhuât nadurê' raj? { $addon-name }
-abuse-report-messagebar-submitted-noremove2 =
-    .message = Guruhuât nata' snan'anjt.
-abuse-report-messagebar-removed-extension2 =
-    .message = Guruhuât nata' snan'anjt. Nadurê't ekstensiun { $addon-name }.
-abuse-report-messagebar-removed-theme2 =
-    .message = Guruhuât nata' snan'anjt. Nadurê't têma { $addon-name }.
-abuse-report-messagebar-error2 =
-    .message = Ga 'ngo sa gahui' a'nan' ngà na'nïnt nuguan'an { $addon-name }.
-abuse-report-messagebar-error-recent-submit2 =
-    .message = Nuguan' huaj guendâ { $addon-name } nu gan'an dadin' ngà hua a'ngô nuguan' nukui' riñanj.
 
 ## Message bars actions.
 

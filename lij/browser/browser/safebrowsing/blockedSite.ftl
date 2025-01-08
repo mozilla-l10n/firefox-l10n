@@ -10,6 +10,8 @@ safeb-blocked-phishing-page-short-desc = { -brand-short-name } o l'à blocòu st
 safeb-blocked-malware-page-short-desc = { -brand-short-name } o l'à blocòu sta pagina perché a porieiva provâ a instalâ di programmi grammi che te peuan xatâ ò scancelâ informaçioin personâ into computer.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } o l'à blocòu sta pagina perché a porieiva provâ a inbrogiâte e fate instalâ di programmi che en pericolozi pe-a teu esperiensa de navegaçion (prezenpio cangiando a teu pagina iniçiâ ò mostrando de publicitæ in ciù inti sciti che ti vixiti).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } o l'à blocòu sta pagina perché a porieiva provâ a instalâ di programmi gramme che peuan xatâ ò scancelâ e teu informaçioin (prezenpio föto, pòule segrete, mesaggi e carte de credito).
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Conseggio da <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Vanni inderê
 safeb-palm-see-details-label = Mostra detalli
@@ -27,7 +29,9 @@ safeb-blocked-phishing-page-learn-more = Atre informaçioin in sci sciti inganev
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
+
 ##
+
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page

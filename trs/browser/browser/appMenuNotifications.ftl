@@ -5,7 +5,6 @@
 appmenu-addon-post-install-incognito-checkbox =
     .label = Ga'nïn sis ekstensiûn nan ni gi'iaj sunj riña Bentanâ huìi
     .accesskey = A
-    
 appmenu-tab-hide-controlled =
     .label = Gatu' riña rakïj ñanj huìi
     .buttonlabel = Gà ngē rakïj ñanj huìi

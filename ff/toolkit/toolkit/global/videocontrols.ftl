@@ -16,16 +16,16 @@ videocontrols-exitfullscreen-button =
     .aria-label = Yaltu Njaajeendi Yaynirde
 videocontrols-casting-button-label =
     .aria-label = Neldu to Yaynirde
+# .offlabel is processed by the video control custom element to be used
+# as a text-track label
 videocontrols-closed-caption-off =
     .offlabel = Ñifii
-
 videocontrols-error-aborted = Loowgol widewoo dartinaama.
 videocontrols-error-network = Tartol widewoo dartiima sabu juumre laylaytol.
 videocontrols-error-decode = Widewoo oo waawaa tareede sabu fiilde ndee ko moƴƴaani.
 videocontrols-error-src-not-supported = Mbayka widewoo walla fannu MIME tammbitaaka.
 videocontrols-error-no-source = Alaa widewoo baɗɗo mbayka tammbitaaka yiytaa.
 videocontrols-error-generic = Tartol widewoo dartiima sabu juumre nde anndaaka.
-
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -39,4 +39,3 @@ videocontrols-error-generic = Tartol widewoo dartiima sabu juumre nde anndaaka.
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position } <span data-l10n-name="position-duration-format"> / { $duration }</span>
-

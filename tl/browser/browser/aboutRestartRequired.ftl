@@ -3,5 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = Kinakailangang Mag-restart
-
 restart-button-label = I-restart ang { -brand-short-name }

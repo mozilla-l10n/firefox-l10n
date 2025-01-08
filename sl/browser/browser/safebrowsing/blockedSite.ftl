@@ -10,6 +10,8 @@ safeb-blocked-phishing-page-short-desc = { -brand-short-name } je zavrnil to str
 safeb-blocked-malware-page-short-desc = { -brand-short-name } je zavrnil to stran, ker bo morda poskušala namesti zlonamerno programsko opremo, ki lahko ukrade ali izbriše osebne podatke na vašem računalniku.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } je zavrnil to stran, ker vas lahko napelje k namestitvi programov, ki lahko škodujejo vaši izkušnji pri brskanju (npr. s spreminjanjem vaše domače strani ali prikazovanjem dodatnih oglasov na obiskanih straneh).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } je zavrnil to stran, ker bo morda poskušala namestiti nevarne programe, ki kradejo ali brišejo osebne podatke (npr. fotografije, gesla, sporočila in številke kreditnih kartic).
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Nasvete ponuja <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Nazaj
 safeb-palm-see-details-label = Pokaži podrobnosti

@@ -102,7 +102,6 @@ tab-context-move-tabs =
            *[other] Премести картице
         }
     .accesskey = П
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

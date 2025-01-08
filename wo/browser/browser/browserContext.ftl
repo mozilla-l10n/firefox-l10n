@@ -13,7 +13,6 @@ navbar-tooltip-instruction =
 
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
-
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
@@ -21,7 +20,6 @@ toolbar-button-back-2 =
 
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
-
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
 
@@ -42,6 +40,10 @@ toolbar-button-stop-reload =
 
 ## Firefox Account Button
 
+
+## Account toolbar Button
+
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -53,22 +55,15 @@ main-context-menu-page-save =
 main-context-menu-open-link =
     .label = Ubbi buum bi
     .accesskey = U
-
 main-context-menu-open-link-new-tab =
     .label = Ubbi buum bi ci koñ bu bees
     .accesskey = k
-
 main-context-menu-open-link-new-window =
     .label = Ubbi buum bi ci palanteer bu bees
     .accesskey = b
-
 main-context-menu-save-link =
     .label = Aar jëmu buum gi ci…
     .accesskey = j
-
-## The access keys for "Copy Link Location" and "Copy Email Address"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
 
 ## The access keys for "Copy Link" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -87,7 +82,6 @@ main-context-menu-copy-email =
 main-context-menu-media-play =
     .label = Tambali
     .accesskey = T
-
 main-context-menu-media-pause =
     .label = Taxaw
     .accesskey = T
@@ -97,7 +91,6 @@ main-context-menu-media-pause =
 main-context-menu-media-mute =
     .label = Muuma
     .accesskey = u
-
 main-context-menu-media-unmute =
     .label = Dektu
     .accesskey = e
@@ -108,7 +101,6 @@ main-context-menu-media-unmute =
 main-context-menu-media-show-controls =
     .label = Wone kontorol yi
     .accesskey = W
-
 main-context-menu-media-hide-controls =
     .label = Nëbb kontorol yi
     .accesskey = N
@@ -118,106 +110,81 @@ main-context-menu-media-hide-controls =
 main-context-menu-media-video-fullscreen =
     .label = Seetukaay bu fees
     .accesskey = S
-
 main-context-menu-media-video-leave-fullscreen =
     .label = Génn yambalaŋ
     .accesskey = G
-
 main-context-menu-image-reload =
     .label = Yeesalaat nataal bi
     .accesskey = Y
-
 main-context-menu-image-copy =
     .label = Duppi nataal bi
     .accesskey = D
-
 main-context-menu-image-save-as =
     .label = Aar nataal bi ci…
     .accesskey = i
-
 main-context-menu-image-email =
     .label = NataaIu imeel…
     .accesskey = t
-
 main-context-menu-image-info =
     .label = Bataaxal ci xët bi
     .accesskey = i
-
 main-context-menu-audio-save-as =
     .label = Aar jibin wi niki…
     .accesskey = r
-
 main-context-menu-video-email =
     .label = Imeel Wideyo…
     .accesskey = e
-
 main-context-menu-send-to-device =
     .label = Yónnee Xët wi ab jumtukaay
     .accesskey = D
 
-## The access keys for "Use Saved Login" and "Use Saved Password"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
+##
+
 
 ##
 
 main-context-menu-keyword =
     .label = Yokk benn caabi baat ci wut bii…
     .accesskey = Y
-
 main-context-menu-link-send-to-device =
     .label = Yónnee Lëkkalekaay bi ab jumtukaay
     .accesskey = D
-
 main-context-menu-frame =
     .label = Kaadar bii
     .accesskey = d
-
 main-context-menu-frame-show-this =
     .label = Wone kaadar bii rekk
     .accesskey = b
-
 main-context-menu-frame-open-tab =
     .label = Ubbi kaadar bi ci koñ bu bees
     .accesskey = k
-
 main-context-menu-frame-open-window =
     .label = Ubbi kaadar bi ci palanteer bu bees
     .accesskey = p
-
 main-context-menu-frame-reload =
     .label = Yeesal kaadar bi
     .accesskey = r
-
 main-context-menu-frame-save-as =
     .label = Aar kaadar bi ci…
     .accesskey = c
-
 main-context-menu-frame-print =
     .label = Móol kaadar bi…
     .accesskey = M
-
 main-context-menu-frame-view-source =
     .label = Suulaale cosaan bu kaadar bi
     .accesskey = S
-
 main-context-menu-frame-view-info =
     .label = Bataaxal ci Kaadar bi
     .accesskey = i
-
 main-context-menu-view-selection-source =
     .label = Suulaale cosaan bu xët wi
     .accesskey = e
-
 main-context-menu-view-page-source =
     .label = Suulaale cosaan bu xët wi
     .accesskey = o
-
 main-context-menu-bidi-switch-text =
     .label = Soppi jublu mbind mi
     .accesskey = m
-
 main-context-menu-bidi-switch-page =
     .label = Soppi jublu xët wi
     .accesskey = x
-

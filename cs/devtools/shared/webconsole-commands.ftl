@@ -22,13 +22,3 @@ webconsole-commands-usage-unblock =
     Ukončí blokování síťových požadavků
     
       Přijímá pouze jeden parametr, přesně stejný řetězec, který byl předtím předán do příkazu :block.
-# Usage string for :trace command
-webconsole-commands-usage-trace =
-    :trace
-    
-    Přepne trasování JavaScriptu
-    
-      Podporuje následující parametry:
-        --logMethod, který je potřeba nastavit na 'console' pro logování do webové konzole (výchozí) nebo 'stdout' pro logování do standardního výstupu,
-        --prefix Volitelný řetězec, který bude zaznamenán před všechny protokoly trasování,
-        --help nebo --usage pro zobrazení této zprávy.

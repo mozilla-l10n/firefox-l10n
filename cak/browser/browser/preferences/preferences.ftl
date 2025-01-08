@@ -516,8 +516,7 @@ home-prefs-shortcuts-description = Taq ruxaq xe'ayäk o xe'atz'ët
 home-prefs-shortcuts-by-option-sponsored =
     .label = Xto' chojmin okem
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Chilab'en ruma { $provider }

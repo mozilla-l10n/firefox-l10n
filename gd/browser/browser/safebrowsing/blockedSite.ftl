@@ -10,6 +10,8 @@ safeb-blocked-phishing-page-short-desc = Bhac { -brand-short-name } an duilleag 
 safeb-blocked-malware-page-short-desc = Bhac { -brand-short-name } an duilleag seo airson ’s nach feuch e ri bathar-bog droch-rùnach a stàladh a bhiodh airson dàta pearsanta a ghoid no a sguabadh às a’ choimpiutair agad.
 safeb-blocked-unwanted-page-short-desc = Bhac { -brand-short-name } an duilleag seo oir tha cunnart gum bi e ri foill is e a’ feuchainn ri prògraman a stàladh air an uidheam agad a nì cron air do bhrabhsadh (mar eisimpleir, le bhith ag atharrachadh na duilleige-dachaigh agad no a’ sealltainn sanasachd air làraichean air an tadhail thu).
 safeb-blocked-harmful-page-short-desc = Bhac { -brand-short-name } an duilleag seo oir tha teans gum feuch e ri aplacaidean cunnartach a stàladh a ghoideas no a sguabas às fiosrachadh agad (mar eisimpleir, dealbhan, faclan-faire, teachdaireachdan is cairtean-creideis).
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Comhairle air a sholar le <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Air ais
 safeb-palm-see-details-label = Faic am mion-fhiosrachadh

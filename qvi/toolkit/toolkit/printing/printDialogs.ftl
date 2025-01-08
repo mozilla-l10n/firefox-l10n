@@ -5,4 +5,3 @@
 print-bg =
     .label = Killkayinchina Tiksi (tullpukuna& rikchakuna)
     .accesskey = T
-

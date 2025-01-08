@@ -148,3 +148,9 @@ onboarding-genai-sidebar-secondary-button = విహరించడం మొ�
 
 ## New user onboarding checklist
 
+
+## Tab Groups feature onboarding strings
+
+
+## Multi Profiles feature onboarding messages
+

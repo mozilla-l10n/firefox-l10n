@@ -6,11 +6,9 @@ config-toolbar-search =
     .placeholder = Izlash
 config-new-pref-name =
     .placeholder = Nomi
-
 config-new-pref-value-boolean = Mantiqiy
 config-new-pref-value-string = Qator
 config-new-pref-value-integer = Butun son
-
 config-new-pref-string =
     .placeholder = Satrni kiriting
 config-new-pref-number =
@@ -18,12 +16,9 @@ config-new-pref-number =
 config-new-pref-cancel-button = Bekor qilish
 config-new-pref-create-button = Yaratish
 config-new-pref-change-button = O‘zgartirish
-
 config-pref-toggle-button = O‘chirish/yoqish
 config-pref-reset-button = Tiklash
-
 config-context-menu-copy-pref-name =
     .label = Nomidan nusxa olish
 config-context-menu-copy-pref-value =
     .label = Qiymatdan nusxa olish
-

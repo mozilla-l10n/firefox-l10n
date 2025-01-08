@@ -25,5 +25,6 @@ error-long-desc4 = Robotai turi spindinčius metalinius užpakalius, kurių geri
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = Ir jie turi planą.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = Bandyti dar kartą
     .label2 = Prašau pakartotinai nespausti šio mygtuko.

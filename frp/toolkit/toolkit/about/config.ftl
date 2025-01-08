@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-button = Accèptar lo risco et continuar
@@ -9,7 +10,6 @@ about-config-intro-warning-button = Accèptar lo risco et continuar
 ##
 
 about-config-show-all = Tot montrar
-
 about-config-pref-add-button =
     .title = Apondre
 about-config-pref-toggle-button =

@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Skrifttyper
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Skrifttyper for
     .accesskey = f
-
 fonts-langgroup-arabic =
     .label = Arabisk
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporsjonal
     .accesskey = P
-
 fonts-default-serif =
     .label = Seriffskrift
 fonts-default-sans-serif =
     .label = Seriffløs skrift
-
 fonts-proportional-size = Størrelse
     .accesskey = r
-
 fonts-serif = Seriff
     .accesskey = S
-
 fonts-sans-serif = Sans-serif
     .accesskey = n
-
 fonts-monospace = Fast bredde
     .accesskey = a
-
 fonts-monospace-size = Størrelse
     .accesskey = e
-
 fonts-minsize = Minste skriftstørrelse
     .accesskey = s
-
 fonts-minsize-none =
     .label = Ingen
-
 fonts-allow-own =
     .label = Tillat nettsider å velge egne skrifttyper, istedenfor dine valg ovenfor
     .accesskey = T
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

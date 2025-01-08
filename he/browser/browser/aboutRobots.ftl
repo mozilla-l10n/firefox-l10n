@@ -25,5 +25,6 @@ error-long-desc4 = לרובוטים יש אחוריים ממתכת שאין לנ
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = ויש להם תוכנית.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = נסה שוב
     .label2 = אנא אל תלחץ על כפתור זה שוב.

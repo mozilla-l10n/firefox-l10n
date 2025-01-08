@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -9,13 +10,11 @@
 
 psmerr-ssl-disabled = Pe romo kube maber pien cik me coc me SSL kijuko woko.
 psmerr-ssl2-disabled = Pe romo kube maber pien kakube man tiyo ki en macon, cik ma pe ogwoke maber pi cik me SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     I gamo waraga ma pe tiyo.  Tim ber ikube ki lalo tic pa lapok tic onyo lakub email kadong mini gi ngec magi:
     
     Waraga ni tye i ye nyig namba mogo calo waraga mapat ma loyo twero me waraga en aye omino.  Tim ber i nong waraga manyen matye ki nyig namba mamwonya.
-
 ssl-error-export-only-server = Pe romo kube ki ber bedo. Wadi pe cwako loko ngec i kod me rwom ma lamal.
 ssl-error-us-only-server = Pe romo kube ki ber bedo. Wadi mito loko ngec i kod me rwom ma lamal ma pe ki cwako.
 ssl-error-no-cypher-overlap = Pe romo kube kwede kompiuta me rwom acel: pe tye coc cura mo marwate.
@@ -147,7 +146,6 @@ ssl-error-next-protocol-no-callback = Kicako la nya cik me laro wel, ento ki jwa
 ssl-error-next-protocol-no-protocol = Lapok tic ne pe cwako cik mo keken ma kactoma cato pire i la nya me ALPN.
 ssl-error-inappropriate-fallback-alert = Lapok tic okwero moto cing ne pien kactoma odok i kit TLS ma lapiny loyo ma lapok tic cwako.
 ssl-error-weak-server-cert-key = Catibiket pa lapok tic okwako lagong pa lwak ma nongo goro tutwal.
-
 sec-error-io = Bal me I/O otime ikare me miyo twero me gwoko kuc.
 sec-error-library-failure = poto pa ot me gwoko kuc.
 sec-error-bad-data = ot me gwoko kuc: ogamo tic marac.
@@ -314,7 +312,6 @@ sec-error-locked-password = Kipungu i mun woko.
 sec-error-unknown-pkcs11-error = PKCS ma pe ngene pi bal #11.
 sec-error-bad-crl-dp-url = URL mape tye atir onyo pe kicwako iye nying kapoko CRL.
 sec-error-cert-signature-algorithm-disabled = Kityeko keto capa cing i waraga kun gutiyo ki capa cing cura ma kijuku woko pien pe ogwoke maber.
-
 mozilla-pkix-error-key-pinning-failure = Lapok tic tiyo ki gwoko kube (HPKP) ento nyor me waraga ma kigeno ma rwate ki kube ma kigwoko pe kitwero cweyo ne. Turo cik pa gwoko kube pe kitwero cayo ne.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Lapok tic tiyo ki waraga ma tye kwede la nya me loc ma nyuto ni obedo lalor waraga. Pi waraga ma kimiyo iyo maber, man pe myero obed kit meno.
 mozilla-pkix-error-inadequate-key-size = Lapok tic omiyo waraga kwede dit me lagony ma tidi tutwal me cako kube ma tye ki ber bedo.
@@ -325,11 +322,9 @@ mozilla-pkix-error-signature-algorithm-mismatch = Cik me keto cing ma tye i kaco
 mozilla-pkix-error-ocsp-response-for-cert-missing = Lagam pa OCSP pe kwako kit ma catibiket ma ki tye ka moko tye kwede.
 mozilla-pkix-error-validity-too-long = Lapok tic omiyo catibiket ma tye atir pi kare malac tutwal.
 mozilla-pkix-error-required-tls-feature-missing = Jami ma mite me TLS pe tye.
-
 xp-java-remove-principal-error = Pe onongo romo kwanyo woko ladit
 xp-java-delete-privilege-error = Pe oongo twero kwanyo woko twero
 xp-java-cert-not-exists-error = Ladit pe ki waraga
-
 xp-sec-fortezza-bad-card = Pe kicako fortezza kad maber. Tim ber ikwany kadong idwok bot lami ne boti.
 xp-sec-fortezza-no-card = Pe kinongo kad me Fortezza
 xp-sec-fortezza-none-selected = Pe kiyero kad me Fortezza

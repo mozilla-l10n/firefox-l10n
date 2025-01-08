@@ -5,6 +5,8 @@
 label-disable = غیر فعال
 label-enable = فعال
 label-interventions = مداخلتیں
+# Variables:
+#   $bug (string) - Bug number
 label-more-information = مزید معلومات: بگ { $bug }
 text-no-interventions = کوئی مداخلت استعمال نہیں کیا جارہا ہے
 text-title = کے بارے میں: compat

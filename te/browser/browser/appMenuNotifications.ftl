@@ -21,14 +21,12 @@ appmenu-update-restart2 =
     .buttonaccesskey = U
     .secondarybuttonlabel = విస్మరించు
     .secondarybuttonaccesskey = m
-
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = సరే
     .buttonaccesskey = O
 appmenu-addon-post-install-incognito-checkbox =
     .label = ఈ పొడగింతను అంతరంగీక కిటికీలలో నడవడానికి అనుమతించు
     .accesskey = A
-    
 appmenu-new-tab-controlled-changes =
     .label = మీ కొత్త ట్యాబు మారిపోయింది.
     .buttonlabel = మార్పులను ఉండనివ్వు

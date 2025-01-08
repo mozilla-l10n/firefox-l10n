@@ -8,32 +8,23 @@
 cfr-doorhanger-extension-heading = शिफारस केलेले विस्तार
 cfr-doorhanger-feature-heading = शिफारस केलेले वैशिष्ट्य
 
-
-
 ##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = मला हे का दिसत आहे
-
 cfr-doorhanger-extension-cancel-button = आत्ता नाही
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = आत्ताच जोडा
     .accesskey = A
-
 cfr-doorhanger-extension-manage-settings-button = शिफारशी सेटिंग्ज व्यवस्थापित करा
     .accesskey = M
-
 cfr-doorhanger-extension-never-show-recommendation = मला ही शिफारस दर्शवू नका
     .accesskey = S
-
 cfr-doorhanger-extension-learn-more-link = अधिक जाणा
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = { $name } द्वारा
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = शिफारस
@@ -58,9 +49,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } वापरकर्ते
     }
 
-## These messages are steps on how to use the feature and are shown together.
-
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = आपले बुकमार्क कुठेही सिंक करा.
@@ -77,57 +65,21 @@ cfr-protections-panel-link-text = अधिक जाणा
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = नवीन वैशिष्ट्य
-
 cfr-whatsnew-button =
     .label = नवीन काय आहे
     .tooltiptext = नवीन काय आहे
-
 cfr-whatsnew-release-notes-link-text = प्रकाशन नोट्स वाचा
-
-## Search Bar
-
-## Picture-in-Picture
-
-## Permission Prompt
-
-## Fingerprinter Counter
-
-## Bookmark Sync
-
-## Login Sync
-
-## Send Tab
-
-## Firefox Send
-
-## Social Tracking Protection
 
 ## Enhanced Tracking Protection Milestones
 
 cfr-doorhanger-milestone-ok-button = सर्व पाहा
     .accesskey = S
 
-## What’s New Panel Content for Firefox 76
-
-## Lockwise message
-
-## Vulnerable Passwords message
-
-## Picture-in-Picture fullscreen message
-
-## Protections Dashboard message
-
-## Better PDF message
-
 ## DOH Message
 
-## What's new: Cookies message
-
-## Fission Experiment Message
 
 ## Full Video Support CFR message
 
-## Spotlight modal shared strings
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -135,9 +87,9 @@ cfr-doorhanger-milestone-ok-button = सर्व पाहा
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
-## Total Cookie Protection Rollout
 
 ## Emotive Continuous Onboarding
+
 
 ## MR2022 Background Update Windows native toast notification strings.
 ##
@@ -152,19 +104,52 @@ cfr-doorhanger-milestone-ok-button = सर्व पाहा
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+
 ## Firefox View CFR
+
 
 ## Firefox View Spotlight
 
+
 ## Colorways expiry reminder CFR
+
 
 ## Cookie Banner Handling CFR
 
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
+
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+
 ## FxA sync CFR
 
+
 ## Device Migration FxA Spotlight
+
+
+## Set as Default PDF Reader Infobar
+
+
+## Launch on login infobar notification
+
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+
+## Tail Fox Set Default Spotlight
+
+
+## Root Certificate Succession Infobar
+
+
+## Root Certificate Succession Windows Background Notification
+
+
+## FxA Menu Message variants
+
+
+## Multi-CTA Fox Doodle Spotlight
 

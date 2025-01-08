@@ -39,8 +39,6 @@ address-capture-manage-address-button =
     .label = Configuración do enderezo
 address-capture-learn-more-button =
     .label = Máis información
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Engadir novo enderezo
 address-capture-open-menu-button =
     .aria-label = Abrir menú
 address-capture-edit-address-button =
@@ -49,10 +47,10 @@ address-capture-edit-address-button =
 autofill-add-address-title = Engadir enderezo
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Editar enderezo
-autofill-address-name = Nome
 autofill-address-given-name = Nome
 autofill-address-additional-name = Segundo nome
 autofill-address-family-name = Apelidos
+autofill-address-name = Nome
 autofill-address-organization = Organización
 autofill-address-street-address = Domicilio
 autofill-address-street = Domicilio
@@ -108,9 +106,8 @@ autofill-address-eircode = Eircode
 
 ##
 
-
-##
-
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Engadir novo enderezo
 autofill-address-country = País ou rexión
 autofill-address-country-only = País
 autofill-address-tel = Teléfono

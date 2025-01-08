@@ -8,7 +8,6 @@
 site-data-remove-all =
     .label = Susa
     .accesskey = u
-
 site-data-remove-shown =
     .label = Susa Konke
     .accesskey = u
@@ -18,4 +17,3 @@ site-data-remove-shown =
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Susa
-

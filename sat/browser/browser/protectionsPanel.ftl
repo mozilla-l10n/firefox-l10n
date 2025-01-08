@@ -23,17 +23,17 @@ protections-panel-etp-more-info =
     .aria-label = ᱥᱩᱫᱷᱨᱟᱹᱣ ᱠᱟᱱ ᱯᱟᱧᱡᱟ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱵᱟᱵᱚᱛ ᱰᱷᱮᱨ ᱵᱟᱲᱟᱭ ᱢᱮ
 protections-panel-etp-on-header = ᱥᱩᱫᱷᱨᱟᱹᱣ ᱠᱟᱱ ᱯᱟᱧᱡᱟ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱫᱚ ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱮᱢ ᱛᱷᱚ ᱠᱟᱱᱟ
 protections-panel-etp-off-header = ᱥᱩᱫᱷᱨᱟᱹᱣ ᱠᱟᱱ ᱯᱟᱧᱡᱟ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱫᱚ ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱵᱚᱸᱫ ᱠᱟᱱᱟ
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = ᱥᱟᱭᱤᱴ ᱫᱚ ᱵᱟᱭ ᱠᱟᱹᱢᱤ ᱠᱟᱱᱟ ᱥᱮ ?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = ᱥᱟᱭᱤᱴ ᱫᱚ ᱵᱟᱭ ᱠᱟᱹᱢᱤ ᱠᱟᱱᱟ ᱥᱮ ?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = ᱥᱟᱭᱤᱴ ᱫᱚ ᱵᱟᱭ ᱠᱟᱹᱢᱤ ᱠᱟᱱᱟ ᱥᱮ ?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = ᱥᱟᱭᱤᱴ ᱫᱚ ᱵᱟᱭ ᱠᱟᱹᱢᱤ ᱠᱟᱱᱟ ᱥᱮ ?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -63,6 +63,9 @@ protections-panel-content-blocking-fingerprinters-label = ᱴᱤᱯᱟᱹᱪᱷ�
 protections-panel-blocking-label = ᱟᱠᱚᱴ ᱠᱟᱱᱟ
 protections-panel-not-blocking-label = ᱦᱮᱥᱟᱹᱨᱤᱭᱟᱹ
 protections-panel-not-found-label = ᱪᱮᱫ ᱦᱚᱸ ᱵᱟᱝ ᱪᱤᱱᱦᱟᱹᱯ ᱞᱮᱱᱟ
+
+## Smartblock strings
+
 
 ##
 
@@ -100,7 +103,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = ᱢᱤᱫᱴᱟᱝ ᱨᱟᱹᱯᱩᱫ ᱥᱟᱭᱤᱴ ᱠᱷᱚᱵᱚᱨ ᱢᱮ
 protections-panel-content-blocking-breakage-report-view-description = ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱯᱟᱧᱡᱟᱠᱩᱜ ᱠᱚ ᱵᱟᱹᱰ ᱞᱟᱠᱷᱟᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱠᱚᱨᱮ ᱮᱴᱠᱮᱴᱚᱬᱮ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾ ᱱᱚᱶᱟ ᱰᱤᱜᱟᱹᱣ ᱠᱚ ᱠᱷᱚᱵᱚᱨ ᱠᱟᱛᱮ ᱟᱢ { -brand-short-name } ᱡᱷᱚᱛᱚ ᱦᱚᱲ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱥ ᱮᱢ ᱠᱚᱨᱟᱣ ᱮᱫᱟᱢ ᱾ ᱱᱚᱶᱟ ᱠᱷᱚᱵᱚᱨ ᱵᱷᱮᱡᱟ ᱞᱮᱠᱷᱟᱱ ᱟᱢᱟᱜ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱥᱟᱡᱟᱣ ᱠᱚ ᱵᱟᱵᱚᱛ ᱢᱤᱫᱴᱟᱝ URL ᱟᱨ ᱵᱤᱵᱨᱚᱬ Mozilla ᱴᱷᱮᱱ ᱮ ᱵᱷᱮᱡᱟᱭᱟᱭ ᱾ <label data-l10n-name="learn-more">ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</label>
-protections-panel-content-blocking-breakage-report-view-description2 = ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱯᱟᱧᱡᱟᱠᱩᱜ ᱠᱚ ᱵᱟᱹᱰ ᱞᱟᱠᱷᱟᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱠᱚᱨᱮ ᱮᱴᱠᱮᱴᱚᱬᱮ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾ ᱱᱚᱶᱟ ᱰᱤᱜᱟᱹᱣ ᱠᱚ ᱠᱷᱚᱵᱚᱨ ᱠᱟᱛᱮ ᱟᱢ { -brand-short-name } ᱡᱷᱚᱛᱚ ᱦᱚᱲ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱥ ᱮᱢ ᱠᱚᱨᱟᱣ ᱮᱫᱟᱢ ᱾ ᱱᱚᱶᱟ ᱠᱷᱚᱵᱚᱨ ᱵᱷᱮᱡᱟ ᱞᱮᱠᱷᱟᱱ ᱟᱢᱟᱜ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱥᱟᱡᱟᱣ ᱠᱚ ᱵᱟᱵᱚᱛ ᱢᱤᱫᱴᱟᱝ URL ᱟᱨ ᱵᱤᱵᱨᱚᱬ { -vendor-short-name } ᱴᱷᱮᱱ ᱮ ᱵᱷᱮᱡᱟᱭᱟᱭ ᱾
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL

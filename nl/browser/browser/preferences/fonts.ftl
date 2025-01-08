@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Lettertypen
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Lettertypen voor
     .accesskey = L
-
 fonts-langgroup-arabic =
     .label = Arabisch
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proportioneel
     .accesskey = P
-
 fonts-default-serif =
     .label = Met schreef
 fonts-default-sans-serif =
     .label = Schreefloos
-
 fonts-proportional-size = Grootte
     .accesskey = G
-
 fonts-serif = Met schreef
     .accesskey = s
-
 fonts-sans-serif = Schreefloos
     .accesskey = c
-
 fonts-monospace = Monospace
     .accesskey = M
-
 fonts-monospace-size = Grootte
     .accesskey = o
-
 fonts-minsize = Minimale lettergrootte
     .accesskey = n
-
 fonts-minsize-none =
     .label = Geen
-
 fonts-allow-own =
     .label = Pagina’s toestaan om hun eigen lettertypen te kiezen, in plaats van uw selecties hierboven
     .accesskey = e
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

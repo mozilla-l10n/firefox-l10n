@@ -12,35 +12,29 @@ cfr-doorhanger-feature-heading = Característica recomendada
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = ¿Navi ne´yani ya´a?
-
 cfr-doorhanger-extension-cancel-button = Nkuvi ntañu´u
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = Tee ntañu´u
     .accesskey = A
-
 cfr-doorhanger-extension-manage-settings-button = Tetiñu ke´i
     .accesskey = T
-
 cfr-doorhanger-extension-never-show-recommendation = Nkutuvi recomendación ya´a
     .accesskey = N
-
 cfr-doorhanger-extension-learn-more-link = Ka´vi kue´eka
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = por { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recomendación
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Recomendación
     .tooltiptext = Recomendación de extensión
     .a11y-announcement = Recomendación de extensión
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Recomendación
     .tooltiptext = Recomendación de la característica
     .a11y-announcement = Recomendación de las características disponibles
@@ -65,9 +59,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } da ñivɨ
     }
 
-## These messages are steps on how to use the feature and are shown together.
-
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Saa sincronizar a ta´a ini noo´o ntaka nuu.
@@ -88,56 +79,17 @@ cfr-protections-panel-link-text = Ka´vi kue´eka
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = A jíía característica:
-
 cfr-whatsnew-button =
     .label = Nakuvi a jíía íyo
     .tooltiptext = Nakuvi a jíía íyo
-
 cfr-whatsnew-release-notes-link-text = Ka´vi tu´un kene jíía
-
-## Search Bar
-
-## Search bar
-
-## Picture-in-Picture
-
-## Permission Prompt
-
-## Fingerprinter Counter
-
-## Bookmark Sync
-
-## Login Sync
-
-## Send Tab
-
-## Firefox Send
-
-## Social Tracking Protection
 
 ## Enhanced Tracking Protection Milestones
 
 cfr-doorhanger-milestone-ok-button = Kune´ya kuaíyo
     .accesskey = K
-
-## What’s New Panel Content for Firefox 76
-
-
-## Lockwise message
-
-## Vulnerable Passwords message
-
-## Picture-in-Picture fullscreen message
-
-## Protections Dashboard message
-
-## Better PDF message
-
 cfr-doorhanger-milestone-close-button = Nakasɨ
     .accesskey = C
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
 
 ## DOH Message
 
@@ -147,26 +99,8 @@ cfr-doorhanger-doh-primary-button-2 = Kuvi
 cfr-doorhanger-doh-secondary-button = Chiyu´u
     .accesskey = D
 
-## Fission Experiment Message
-
-## What's new: Cookies message
-
-## What's new: Media controls message
-
-## What's new: Search shortcuts
-
-
-## What's new: Cookies protection
-
-
-## What's new: Better bookmarking
-
-
-## What's new: Cross-site cookie tracking
-
 ## Full Video Support CFR message
 
-## Spotlight modal shared strings
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -174,9 +108,9 @@ cfr-doorhanger-doh-secondary-button = Chiyu´u
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
-## Total Cookie Protection Rollout
 
 ## Emotive Continuous Onboarding
+
 
 ## MR2022 Background Update Windows native toast notification strings.
 ##
@@ -191,19 +125,52 @@ cfr-doorhanger-doh-secondary-button = Chiyu´u
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+
 ## Firefox View CFR
+
 
 ## Firefox View Spotlight
 
+
 ## Colorways expiry reminder CFR
+
 
 ## Cookie Banner Handling CFR
 
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
+
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+
 ## FxA sync CFR
 
+
 ## Device Migration FxA Spotlight
+
+
+## Set as Default PDF Reader Infobar
+
+
+## Launch on login infobar notification
+
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+
+## Tail Fox Set Default Spotlight
+
+
+## Root Certificate Succession Infobar
+
+
+## Root Certificate Succession Windows Background Notification
+
+
+## FxA Menu Message variants
+
+
+## Multi-CTA Fox Doodle Spotlight
 

@@ -9,7 +9,6 @@ about-service-workers-title = Talɣut ɣef Tanfiwin Workers
 about-service-workers-main-title = Tanfa Workers tettwakles
 about-service-workers-warning-not-enabled = Tanfiwin Workers ur rmident ara.
 about-service-workers-warning-no-service-workers = Ulac Tanfa Workers ikelsen.
-
 # The original title of service workers' information
 #
 # Variables:
@@ -29,12 +28,8 @@ active-cache-name = <strong>Isem n tuffirt turmiṭ:</strong> { $name }
 waiting-cache-name = <strong>Isem n tuffirt ittrajun:</strong> { $name }
 push-end-point-waiting = <strong>Agaz n uzgu i tuzzna:</strong> { waiting }
 push-end-point-result = <strong>Agaz n uzgu i tuzzna:</strong> { $name }
-
 # This term is used as a button label (verb, not noun).
 update-button = Leqqem
-
 unregister-button = Ksiggez
-
 unregister-error = Aksiggez n Tanfa Worker u yeddi ara.
-
 waiting = Aṛaǧu…

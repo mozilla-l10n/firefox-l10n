@@ -4,7 +4,6 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (كہین عنوان چھُ نئ)
-
 places-bookmarks-backup-title = بیك اپ فایل ناوَن تھٲویو نشان
 places-bookmarks-restore-alert-title = نشان زَد انیو واپس
 places-bookmarks-restore-alert = یہ بدلاوِ تُہند تمام بوک مارْک بیک اپ سْیت۔ کیاہ توہیہ چھاہ پورْ یقین؟
@@ -12,6 +11,5 @@ places-bookmarks-restore-title = نشان زَد بیك اپ ژٲریو
 places-bookmarks-restore-filter-name = JSON
 places-bookmarks-restore-format-error = تعاوُن روستۄی فایل قئسم
 places-bookmarks-restore-parse-error = بیك اپ فایل ہیكٲو نئ برونتھ پكنٲوِتھ
-
 places-bookmarks-import = نشان زَد فاول كریو برامد
 places-bookmarks-export = نشان زَد فایل كریو درامد

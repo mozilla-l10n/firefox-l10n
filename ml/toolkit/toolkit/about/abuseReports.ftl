@@ -8,11 +8,9 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = { $addon-name } എന്നതിനായി റിപ്പോർട്ട് ചെയ്യുക
-
 abuse-report-title-extension = ഈ വിപുലീകരണം { -vendor-short-name } എന്നതിലേക്ക് റിപ്പോർട്ടുചെയ്യുക
 abuse-report-title-theme = { -vendor-short-name } എന്നതിലേക്ക് ഈ തീം റിപ്പോർട്ടുചെയ്യുക
 abuse-report-subtitle = എന്താണ് പ്രശ്നം?
-
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = <a data-l10n-name="author-name">{ $author-name }</a> നാൽ
@@ -25,16 +23,10 @@ abuse-report-goback-button = പുറകോട്ടു് പോകുക
 abuse-report-submit-button = സമര്‍പ്പിയ്ക്കുക
 
 ## Message bars descriptions.
-
-
-## Variables:
-##   $addon-name (string) - Name of the add-on
-
-
-## Message bars descriptions.
 ##
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
+
 
 ## Message bars actions.
 
@@ -48,4 +40,3 @@ abuse-report-messagebar-action-cancel = റദ്ദാക്കുക
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
 abuse-report-other-reason = വേറെ എന്തെങ്കിലും
-

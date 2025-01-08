@@ -18,8 +18,6 @@ abuse-report-addon-authored-by = troch <a data-l10n-name="author-name">{ $author
 abuse-report-learnmore =
     Binne jo net wis hokker probleem jo selektearje moatte?
     <a data-l10n-name="learnmore-link">Mear ynfo oer it rapportearjen fan útwreidingen en tema’s</a>
-abuse-report-learnmore-intro = Binne jo net wis hokker probleem jo selektearje moatte?
-abuse-report-learnmore-link = Mear ynfo oer it rapportearjen fan útwreidingen en tema’s
 abuse-report-submit-description = Beskriuw it probleem (opsjoneel)
 abuse-report-textarea =
     .placeholder = It is makliker foar ús om in probleem te behanneljen as wy details hawwe. Beskriuw it probleem dat jo hawwe. Tank foar jo help by it sûn hâlden fan it web.
@@ -48,24 +46,6 @@ abuse-report-messagebar-removed-sitepermission = Tank foar it yntsjinjen fan in 
 abuse-report-messagebar-removed-theme = Tank foar it yntsjinjen fan in rapport. Jo hawwe it tema <span data-l10n-name="addon-name">{ $addon-name }</span> fuortsmiten.
 abuse-report-messagebar-error = Der is in flater bard by it ferstjoeren fan in rapport foar <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = It rapport foar <span data-l10n-name="addon-name">{ $addon-name }</span> is net ferstjoerd, omdat jo resint in oar rapport ferstjoerd hawwe.
-abuse-report-messagebar-aborted2 =
-    .message = Rapport foar { $addon-name } annulearre.
-abuse-report-messagebar-submitting2 =
-    .message = Rapport ferstjoere foar { $addon-name }.
-abuse-report-messagebar-submitted2 =
-    .message = Tank foar it yntsjinjen fan in rapport. Wolle jo { $addon-name } fuortsmite?
-abuse-report-messagebar-submitted-noremove2 =
-    .message = Tank foar it yntsjinjen fan in rapport.
-abuse-report-messagebar-removed-extension2 =
-    .message = Tank foar it yntsjinjen fan in rapport. Jo hawwe de útwreiding { $addon-name } fuortsmiten.
-abuse-report-messagebar-removed-sitepermission2 =
-    .message = Tank foar it yntsjinjen fan in rapport. Jo hawwe de útwreiding foar websitemachtigingen { $addon-name } fuortsmiten.
-abuse-report-messagebar-removed-theme2 =
-    .message = Tank foar it yntsjinjen fan in rapport. Jo hawwe it tema { $addon-name } fuortsmiten.
-abuse-report-messagebar-error2 =
-    .message = Der is in flater bard by it ferstjoeren fan in rapport foar { $addon-name }.
-abuse-report-messagebar-error-recent-submit2 =
-    .message = It rapport foar { $addon-name } is net ferstjoerd, omdat jo resint in oar rapport ferstjoerd hawwe.
 
 ## Message bars actions.
 

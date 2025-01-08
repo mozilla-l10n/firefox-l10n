@@ -12,20 +12,6 @@ about-reader-color-scheme-sepia = Sepía
     .title = Sepía litastef
 about-reader-color-scheme-auto = Sjálfvirkt
     .title = Sjálfvirkt litastef
-about-reader-color-theme-light = Ljóst
-    .title = Ljóst litastef
-about-reader-color-theme-dark = Dökkt
-    .title = Dökkt litastef
-about-reader-color-theme-sepia = Sepía
-    .title = Sepía litastef
-about-reader-color-theme-auto = Sjálfvirkt
-    .title = Sjálfvirkt litastef
-about-reader-color-theme-gray = Grátt
-    .title = Grátt litastef
-about-reader-color-theme-contrast = Birtuskil
-    .title = Litastef með miklum birtuskilum
-about-reader-color-theme-custom = Sérsniðnir litir
-    .title = Sérsniðið litastef
 about-reader-color-light-theme = Ljóst
     .title = Ljóst þema
 about-reader-color-dark-theme = Dökkt
@@ -49,7 +35,7 @@ about-reader-estimated-read-time =
        *[other] { $range } mínútur
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = Minnka leturstærð
@@ -74,7 +60,6 @@ about-reader-font-type-monospace = Jafnbreitt
 
 about-reader-toolbar-close = Loka lesham
 about-reader-toolbar-type-controls = Stýringar fyrir tegund
-about-reader-toolbar-color-controls = Litir
 about-reader-toolbar-text-layout-controls = Texti og framsetning
 about-reader-toolbar-theme-controls = Þema
 about-reader-toolbar-savetopocket = Vista í { -pocket-brand-name }
@@ -99,10 +84,9 @@ about-reader-custom-colors-visited-links = Notaðir tenglar
     .title = Breyta lit
 about-reader-custom-colors-selection-highlight = Áherslulitun fyrir upplestur
     .title = Breyta lit
-about-reader-custom-colors-reset-button = Endurheimta sjálfgefnar stillingar
 about-reader-reset-button = Endurstilla á sjálfgefið
 
-## Reader View improved text and layout menu
+## Reader View text and layout menu
 
 about-reader-text-header = Texti
 about-reader-text-size-label = Stærð texta
@@ -119,9 +103,6 @@ about-reader-content-width-label =
 about-reader-line-spacing-label =
     .label = Línubil
 about-reader-advanced-layout-header = Ítarlegt
-about-reader-slider-label-width-narrow = Þröngt
-about-reader-slider-label-width-wide = Breitt
-about-reader-slider-label-spacing-narrow = Þröngt
 about-reader-character-spacing-label =
     .label = Stafabil
 about-reader-word-spacing-label =

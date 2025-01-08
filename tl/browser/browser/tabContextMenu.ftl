@@ -100,7 +100,6 @@ tab-context-move-tabs =
            *[other] Ilipat ang mga Tab
         }
     .accesskey = v
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

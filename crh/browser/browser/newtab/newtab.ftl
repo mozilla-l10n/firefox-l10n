@@ -22,11 +22,9 @@ newtab-topsites-edit-topsites-header = Üst Saytnı Tahrir Et
 newtab-topsites-title-label = Serlevha
 newtab-topsites-title-input =
     .placeholder = Bir serlevha kirset
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Bir URL tuşlañız yaki yapıştırıñız
-
 newtab-topsites-image-url-label = Özel Suret URL'si
 newtab-topsites-use-image-link = Özel bir suret qullan…
 
@@ -38,8 +36,6 @@ newtab-topsites-save-button = Saqla
 newtab-topsites-preview-button = Ögbaqış
 newtab-topsites-add-button = Ekle
 
-## Top Sites - Delete history confirmation dialog. 
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Bu saifeniñ her danesini keçmişiñizden silmege istegeniñizden eminsiñizmi?
@@ -47,6 +43,7 @@ newtab-confirm-delete-history-p1 = Bu saifeniñ her danesini keçmişiñizden si
 newtab-confirm-delete-history-p2 = Bu amel keri yapılalmaz.
 
 ## Top Sites - Sponsored label
+
 
 ## Context Menu - Action Tooltips.
 
@@ -70,15 +67,13 @@ newtab-menu-archive-pocket = { -pocket-brand-name }’te arhivle
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
+
 ##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Saifeimini Çetleştir
 # Bookmark is a verb here.
 newtab-menu-bookmark = Saifeimi
-
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -108,9 +103,6 @@ newtab-label-recommended = Trendli
 newtab-label-saved = { -pocket-brand-name }'ke saqlanğan
 newtab-label-download = Endirilgen
 
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
@@ -125,11 +117,12 @@ newtab-section-menu-privacy-notice = Hususiyat Tebliği
 
 ## Section aria-labels
 
+
 ## Section Headers.
 
 newtab-section-header-topsites = Zirvedeki Saytlar
 # Variables:
-#  $provider (String): Name of the corresponding content provider.
+#   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } tevsiyeli
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
@@ -137,18 +130,50 @@ newtab-section-header-pocket = { $provider } tevsiyeli
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Popülâr Mevzular:
 
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+
 ## Customization Menu
+
+
+## New Tab Wallpapers
+
+
+## Solid Colors
+
+
+## Abstract
+
+
+## Photographs
+
+
+## New Tab Weather
+
+
+## Topic Labels
+
+
+## Topic Selection Modal
+
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Confirmation modal for blocking a section
 

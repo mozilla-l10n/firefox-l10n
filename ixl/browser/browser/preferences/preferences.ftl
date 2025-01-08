@@ -77,8 +77,8 @@ applications-select-helper = Txa uma't  aplicador auxiliar
 applications-always-ask =
     .label = Meresteel la ch'oti.
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 
 ## The strings in this group are used to populate
@@ -111,7 +111,7 @@ update-in-progress-cancel-button = %Yakeb'en
 
 performance-settings-learn-more = Ootzi ka'te
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (a' chite' at kan)
 
@@ -138,8 +138,7 @@ home-mode-choice-custom =
 ## Home Section - Firefox Home Content Customization
 
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 
 ##

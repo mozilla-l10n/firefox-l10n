@@ -8,7 +8,6 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = Internal WebRTC
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = simpan about:webrtc dengan nama
@@ -22,7 +21,6 @@ about-webrtc-aec-logging-msg-label = Log AEC
 about-webrtc-aec-logging-off-state-label = Mulai Pencatatan AEC
 about-webrtc-aec-logging-on-state-label = Hentikan Pencatatan AEC
 about-webrtc-aec-logging-on-state-msg = Pencatatan AEC aktif (bicara dengan pemanggil selama beberapa menit lalu hentikan penangkapan)
-
 about-webrtc-aec-logging-toggled-on-state-msg = Pencatatan AEC aktif (bicara dengan pemanggil selama beberapa menit lalu hentikan penangkapan)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -30,10 +28,8 @@ about-webrtc-aec-logging-toggled-off-state-msg = Berkas log tangkapan dapat dite
 
 ##
 
-# The autorefresh checkbox causes the page to autorefresh its content when checked
+# The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Segarkan Otomatis
-
-
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -83,12 +79,10 @@ about-webrtc-type-remote = Jarak Jauh
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Dinominasikan
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Dipilih
-
 about-webrtc-save-page-label = Simpan Laman
 about-webrtc-debug-mode-msg-label = Mode Debug
 about-webrtc-debug-mode-off-state-label = Mulai Mode Debug
@@ -101,7 +95,6 @@ about-webrtc-log-show-msg = tampilkan log
     .title = klik untuk membentangkan bagian ini
 about-webrtc-log-hide-msg = sembunyikan log
     .title = klik untuk menciutkan bagian ini
-
 about-webrtc-log-section-show-msg = Tampilkan log
     .title = Klik untuk membentangkan bagian ini
 about-webrtc-log-section-hide-msg = Sembunyikan log
@@ -177,58 +170,50 @@ about-webrtc-remote-send-ssrc = Pengiriman SSRC Jarak Jauh
 # An option whose value will not be displayed but instead noted as having been
 # provided
 about-webrtc-configuration-element-provided = Disediakan
-
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = Tidak Disediakan
-
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Preferensi WebRTC Diatur Pengguna
 
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+
+##
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Perkiraan Bandwidth
-
 # The ID of the MediaStreamTrack
 about-webrtc-track-identifier = Pengenal Jalur
-
 # The estimated bandwidth available for sending WebRTC media in bytes per second
 about-webrtc-send-bandwidth-bytes-sec = Bandwidth Pengiriman (byte/detik)
-
 # The estimated bandwidth available for receiving WebRTC media in bytes per second
 about-webrtc-receive-bandwidth-bytes-sec = Bandwidth Penerimaan (byte/detik)
-
 # Maximum number of bytes per second that will be padding zeros at the ends of packets
 about-webrtc-max-padding-bytes-sec = Padding Maksimum (byte/detik)
-
 # The amount of time inserted between packets to keep them spaced out
 about-webrtc-pacer-delay-ms = Penundaan Pacer md
-
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = RTT md
-
 # This is a section heading for video frame statistics for a MediaStreamTrack.
 # see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Statistik Frame Video - ID MediaStreamTrack: { $track-identifier }
 
-## These are paths used for saving the about:webrtc page or log files so
-## they can be attached to bug reports.
-## Variables:
-##  $path (String) - The path to which the file is saved.
+##
 
 about-webrtc-save-page-msg = halaman disimpan ke: { $path }
 about-webrtc-debug-mode-off-state-msg = log pelacakan dapat ditemukan di: { $path }
 about-webrtc-debug-mode-on-state-msg = mode debug aktif, log pelacakan di: { $path }
 about-webrtc-aec-logging-off-state-msg = berkas log tangkapan dapat ditemukan di: { $path }
-
+# This path is used for saving the about:webrtc page so it can be attached to
+# bug reports.
+# Variables:
+#  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Halaman disimpan ke: { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = Log pelacakan dapat ditemukan di: { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = Mode debug aktif, log pelacakan di: { $path }
-
-##
-
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -236,7 +221,6 @@ about-webrtc-frames =
     { $frames ->
        *[other] { $frames } frame
     }
-
 # This is the number of audio channels encoded or decoded over an RTP stream.
 # Variables:
 #  $channels (Number) - The number of channels encoded or decoded.
@@ -244,7 +228,6 @@ about-webrtc-channels =
     { $channels ->
        *[other] { $channels } saluran
     }
-
 # This is the total number of packets received on the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets received.
@@ -252,7 +235,6 @@ about-webrtc-received-label =
     { $packets ->
        *[other] { $packets } paket diterima
     }
-
 # This is the total number of packets lost by the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets lost.
@@ -260,7 +242,6 @@ about-webrtc-lost-label =
     { $packets ->
        *[other] { $packets } paket hilang
     }
-
 # This is the total number of packets sent by the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets sent.
@@ -268,13 +249,11 @@ about-webrtc-sent-label =
     { $packets ->
        *[other] { $packets } paket dikirim
     }
-
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
-
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
@@ -287,12 +266,10 @@ about-webrtc-trickle-caption-msg = Hamburan kandidat (datang setelah jawaban) di
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-local = Setel SDP Lokal pada stempel waktu { NUMBER($timestamp, useGrouping: "false") }
-
 # This is used as a header for remote SDP.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-remote = Setel SDP Jarak Jauh pada stempel waktu { NUMBER($timestamp, useGrouping: "false") }
-
 # This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.

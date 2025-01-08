@@ -35,7 +35,7 @@ about-reader-estimated-read-time =
        *[other] { $range } წუთი
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = ნაწერის დაპატარავება
@@ -86,7 +86,7 @@ about-reader-custom-colors-selection-highlight = გამორჩევა ხ
     .title = ფერის შეცვლა
 about-reader-reset-button = ნაგულისხმევზე დაბრუნება
 
-## Reader View improved text and layout menu
+## Reader View text and layout menu
 
 about-reader-text-header = ნაწერი
 about-reader-text-size-label = ნაწერის ზომა

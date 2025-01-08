@@ -4,16 +4,13 @@
 
 permissions-close-key =
     .key = w
-
 permissions-block =
     .label = Uraperantani
     .accesskey = U
-
 permissions-capabilities-allow =
     .label = Jierata
 permissions-capabilities-block =
     .label = Uraperantani
-
 permissions-capabilities-listitem-allow =
     .value = Jierata
 permissions-capabilities-listitem-block =
@@ -30,19 +27,21 @@ permissions-capabilities-listitem-block =
 
 ## Exceptions - HTTPS-Only Mode
 
+
 ## Exceptions - Pop-ups
 
 
 ## Exceptions - Saved Logins
 
 
+## Exceptions - Saved Passwords
+
+
 ## Exceptions - Add-ons
 
 
-## Exceptions - Autoplay Media
-
-
 ## Site Permissions - Autoplay
+
 
 ## Site Permissions - Notifications
 
@@ -52,10 +51,12 @@ permissions-capabilities-listitem-block =
 
 ## Site Permissions - Virtual Reality
 
+
 ## Site Permissions - Camera
 
 
 ## Site Permissions - Microphone
+
 
 ## Site Permissions - Speaker
 ##

@@ -135,7 +135,7 @@ confirm-on-close-multiple-tabs =
     .accesskey = մ
 # This string is used for the confirm before quitting preference.
 # Variables:
-#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
@@ -178,7 +178,7 @@ containers-disable-alert-ok-button =
 containers-disable-alert-cancel-button = Պահել միացուած
 containers-remove-alert-title = Հեռացնե՞լ այս պարունակը:
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Եթե հեռացնէք այս պարունակը հիմա, { $count } պարունակի ներդիրը կը փակուի: Վստա՞հ էք, որ ուզում էք փակել այն:
@@ -229,6 +229,8 @@ advanced-fonts =
 preferences-zoom-header = Խոշորացում
 preferences-default-zoom = Սկզբնադիր խոշորացում
     .accesskey = խ
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
@@ -321,15 +323,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Միշտ հարցնել
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Աւգտագործել { $plugin-name } ({ -brand-short-name }-ում)
 applications-open-inapp =
@@ -372,6 +374,8 @@ play-drm-content =
 play-drm-content-learn-more = Իմանալ ավելին
 update-application-title = { -brand-short-name }-ի թարմացումներ
 update-application-description = Պահէք { -brand-short-name }-ը թարմացուած լաւագոյն կատարման, կայունութեան եւ անվտանգութեան համար:
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Տարբերակ { $version } <a data-l10n-name="learn-more">Ինչն է նոր</a>
 update-history =
     .label = Ցուցադրել Թարմացումների Պատմութիւնը...
@@ -398,7 +402,7 @@ update-application-suppress-prompts =
     .accesskey = n
 update-setting-write-failure-title2 = Թարմացման կարգաւորումների պահպանման սխալ
 # Variables:
-#   $path (String) - Path to the configuration file
+#   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
@@ -428,7 +432,7 @@ performance-limit-content-process-option = Բովանդակութեան ընթա
 performance-limit-content-process-enabled-desc = Բովանդակութեան լրացուցիչ ընթացքները կարող են լաւարկել կատարողականութիւնը, երբ աւգտագործուում են բազմակի ներդիրներ, բայց,միեւնոյն ժամանակ, դրանք աւելի շատ յիշողութիւն կը խլեն:
 performance-limit-content-process-blocked-desc = Հնարաւոր է փոփոխել բովանդակութեան ընթացքները միայն բազմամշակիչ { -brand-short-name }-ի դէպքում: <a data-l10n-name="learn-more"> Կարդալ, թե ինչպէս ստուգել՝ արդեաւք բազմամշակիչը միացուած է: </a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (սկզբնադիր)
 
@@ -522,8 +526,7 @@ home-prefs-shortcuts-description = Կայքեր, որոնք դուք պահու�
 home-prefs-shortcuts-by-option-sponsored =
     .label = Հովանաւորուած դիւրանցումներ
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Առաջարկուում է { $provider }
@@ -552,6 +555,8 @@ home-prefs-recent-activity-description = Վերջին կայքերի եւ բով
 home-prefs-snippets-header =
     .label = Հատուածներ
 home-prefs-snippets-description-new = Խորհուրդներ եւ նորութիւններ՝ { -vendor-short-name } եւ { -brand-product-name } -ից
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -611,7 +616,7 @@ search-find-more-link = Գտնել լրացուցիչ որոնիչներ
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Կրկնել հիմնաբառը
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Դուք ընտրել եք կրկնուող հիմնաբառ, որը արդեն աւգտագործուում է "{ $name }" -ի կողմից: Խնդրում ենք ընտրել մեկ ուրիշը:
 search-keyword-warning-bookmark = Դուք ընտրեցիք հիմնաբառ, որը այս պահին աւգտագործուում է էջանիշի կողմից: Խնդրում եմ ընտրեք մեկ ուրիշը:
 
@@ -893,8 +898,8 @@ history-clear-button =
 sitedata-header = Cookie-ներ եւ կայքի տուեալներ
 sitedata-total-size-calculating = Հաշուում է կայքի տուեալները եւ շտեմի չափը…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Ձեր cookie-ները, կայքի տուեալները եւ շտեմը այժմ զբաղեցնում են { $value } { $unit } տեղ:
 sitedata-learn-more = Իմանալ աւելին
 sitedata-delete-on-close =

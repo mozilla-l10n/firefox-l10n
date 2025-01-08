@@ -18,7 +18,5 @@
 item-cookies =
     .label = Cookies
     .accesskey = C
-
 window-close =
     .key = w
-

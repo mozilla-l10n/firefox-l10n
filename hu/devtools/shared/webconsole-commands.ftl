@@ -22,13 +22,3 @@ webconsole-commands-usage-unblock =
     Hálózati kérések blokkolásának megszüntetése
     
       Csak egy WEBCÍM argumentumot fogad, amely megegyezik a :block parancsnak előzőleg átadott karakterlánccal.
-# Usage string for :trace command
-webconsole-commands-usage-trace =
-    :trace
-    
-    Be- és kikapcsolja a JavaScript nyomkövetőt
-    
-      A következő argumentumokat támogatja:
-        --logMethod lehet „console” a webkonzolra történő naplózáshoz (az alapértelmezett), vagy „stdout” a szabványos kimenetre történő naplózáshoz,
-        --prefix nem kötelező karakterlánc, amely az összes nyomkövetési naplósor elé lesz írva,
-        --help vagy --usage ezen üzenet megjelenítése.

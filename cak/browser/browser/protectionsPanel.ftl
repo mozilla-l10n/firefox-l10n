@@ -23,17 +23,17 @@ protections-panel-etp-more-info =
     .aria-label = Ch'aqa' chik etamab'äl chi rij ri Utzirisan Ruchajinik Ojqanem
 protections-panel-etp-on-header = Ri utzirisan Ruchajixik Ojqanem TZIJON richin re ruxaq re' wakami
 protections-panel-etp-off-header = Ri utzirisan Ruchajixik Ojqanem CHUPÜL richin re ruxaq re' wakami
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = ¿La man nisamäj ta ri ruxaq?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = ¿La man nisamäj ta ri ruxaq?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = ¿La man nisamäj ta ri ruxaq?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = ¿La man nisamäj ta ri ruxaq?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -63,6 +63,9 @@ protections-panel-content-blocking-fingerprinters-label = Fingerprinters
 protections-panel-blocking-label = Q'aton
 protections-panel-not-blocking-label = Ya'on q'ij
 protections-panel-not-found-label = Man Xilitäj Ta
+
+## Smartblock strings
+
 
 ##
 
@@ -100,7 +103,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Tiya' Rutzijol jun Ruxaq Man Nisamäj ta
 protections-panel-content-blocking-breakage-report-view-description = Toq yeq'at jujun taq ojqanela' nitikïr nuya' k'ayewal pa jujun ajk'amaya'l ruxaq. Toq naya' kitzijol k'ayewal, yato'on chi ri { -brand-short-name } ütz nub'än chi qawäch qonojel. Toq natäq re rutzijol, xtitaq pa jun URL chuqa' ri etamab'äl chi rij ri runuk'ulem ri awokik'amaya'l chi re ri Mozilla. <label data-l10n-name="learn-more">Tetamäx ch'aqa' chik</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Toq yeq'at jujun taq ojqanela' nitikïr nuya' k'ayewal pa jujun ajk'amaya'l ruxaq. Toq naya' kitzijol k'ayewal, yato'on chi ri { -brand-short-name } ütz nub'än chi qawäch qonojel. Toq natäq re rutzijol, xtitaq pa jun URL chuqa' ri etamab'äl chi rij ri runuk'ulem ri awokik'amaya'l chi re ri { -vendor-short-name }.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL

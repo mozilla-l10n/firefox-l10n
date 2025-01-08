@@ -4,13 +4,11 @@
 
 migration-wizard =
     .title = İtalât Siirbazı
-
 import-from =
     { PLATFORM() ->
         [windows] İhtiyariyatnı, Saife-imlerini, Keçmişni, Sır-sözlerni ve diger verilerni şuradan ital et:
        *[other] Tercihlerni, Saife-imlerini, Keçmişni, Sır-sözlerni ve diger verilerni şuradan ital et:
     }
-
 import-from-bookmarks = Saife-imlerini şuradan ital et:
 import-from-ie =
     .label = Microsoft İnternet Explorer
@@ -45,47 +43,22 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Emniyetli Kezici
     .accesskey = 3
-
 no-migration-sources = Saife-imlerini, keçmişni yaki sır-söz verilerini ihtiva etken iç bir program tapılamadı.
-
 import-source-page-title = Tesbitler ve Verilerniñ İtalâtı
 import-items-page-title = İtal Etilecek Adedler
-
 import-items-description = İtal etilecek unsurlarnı sayla:
-
 import-migrating-page-title = İtal etile…
-
 import-migrating-description = Aşağıdaki unsurlar al-azırda ital etile…
-
 import-select-profile-page-title = Profil Sayla
-
 import-select-profile-description = İtal etilebilecek aşağıdaki profiller mevcuttır:
-
 import-done-page-title = İtalât Tamam
-
 import-done-description = Aşağıdaki unsurlar muvafaqiyetnen ital etildi:
-
 import-close-source-browser = Devam etmezden evvel lütfen saylanğan keziciniñ qapalı olğanından emin oluñız.
-
 source-name-ie = İnternet Explorer
 source-name-edge = Microsoft Edge
 source-name-chrome = Google Chrome
-
 imported-safari-reading-list = Oquma Listesi (Safari'den)
 imported-edge-reading-list = Oquma Listesi (Edge'den)
-
-## Browser data types
-## All of these strings get a $browser variable passed in.
-## You can use the browser variable to differentiate the name of items,
-## which may have different labels in different browsers.
-## The supported values for the $browser variable are:
-## 360se
-## chrome
-## edge
-## firefox
-## safari
-## The various beta and development versions of edge and chrome all get
-## normalized to just "edge" and "chrome" for these strings.
 
 ## Browser data types
 ## All of these strings get a $browser variable passed in.
@@ -105,4 +78,3 @@ browser-data-session-checkbox =
     .label = Pencereler ve İlmekler
 browser-data-session-label =
     .value = Pencereler ve İlmekler
-

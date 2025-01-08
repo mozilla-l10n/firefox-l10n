@@ -5,7 +5,6 @@
 
 ##
 ## Localization for remote types defined in RemoteType.h
-##
 
 process-type-web = Վեբ բովանդակություն
 # process used to run privileged about pages,
@@ -25,7 +24,6 @@ process-type-prealloc = Նախաբաշխված
 
 ##
 ## Localization for Gecko process types defined in GeckoProcessTypes.h
-##
 
 process-type-default = Հիմնական
 # process used to communicate with the GPU for
@@ -36,5 +34,4 @@ process-type-socket = Բնիկ
 
 ##
 ## Other
-##
 

@@ -6,8 +6,6 @@ title-label = Makwako rwako i kumpiuta
 installed-plugins-label = Larwak ma kiketo
 no-plugins-are-installed-label = Pe tye larwak ma kiketo ma kinongo
 deprecation-description = Gino mo orem? Pe dong kicwako larwak mogo. <a data-l10n-name="deprecation-link">Nong ngec mapol.</a>
-deprecation-description2 =
-    .message = Gino mo orem? Pe dong kicwako larwak mogo.
 
 ## The information of plugins
 ##

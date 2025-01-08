@@ -18,17 +18,17 @@ protections-popup-footer-protection-label-standard = Estándar
 
 ##
 
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = ¿Ntu íyo tiñu sitio?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = ¿Ntu íyo tiñu sitio?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = ¿Ntu íyo tiñu sitio?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = ¿Ntu íyo tiñu sitio?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -50,10 +50,12 @@ protections-panel-blocking-label = Nasɨ
 protections-panel-not-blocking-label = Kuvi
 protections-panel-not-found-label = Ntu nakuni
 
+## Smartblock strings
+
+
 ##
 
 protections-panel-settings-label = Ke´i configuración protección
-# This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
 protections-panel-protectionsdashboard-label = Panel de protección
 
 ## In the Site Not Working? view, we suggest turning off protections if

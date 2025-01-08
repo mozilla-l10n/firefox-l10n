@@ -17,8 +17,6 @@ abuse-report-addon-authored-by = <a data-l10n-name="author-name">{ $author-name 
 abuse-report-learnmore =
     কি সমস্যা বাছনি কৰিব নিশ্চিত নহয়নে?
     <a data-l10n-name="learnmore-link">এক্সটেনশ্যন আৰু থীমৰ প্ৰতিবেদন দিয়াৰ বিষয়ে অধিক জানক</a>
-abuse-report-learnmore-intro = কি সমস্যা বাছনি কৰিব নিশ্চিত নহয়নে?
-abuse-report-learnmore-link = এক্সটেনশ্যন আৰু থীমৰ প্ৰতিবেদন দিয়াৰ বিষয়ে অধিক জানক
 abuse-report-submit-description = সমস্যাৰ বৰ্ণনা কৰক (বৈকল্পিক)
 
 ## Panel buttons.
@@ -35,10 +33,6 @@ abuse-report-submit-button = দাখিল কৰক
 
 abuse-report-messagebar-submitting = <span data-l10n-name="addon-name"></span>-ৰ বাবে প্ৰতিবেদন পঠিয়াই থকা হৈছে।
 abuse-report-messagebar-submitted-noremove = প্ৰতিবেদন দাখিল কৰাৰ বাবে ধন্যবাদ।
-abuse-report-messagebar-submitting2 =
-    .message = <span data-l10n-name="addon-name"></span>-ৰ বাবে প্ৰতিবেদন পঠিয়াই থকা হৈছে।
-abuse-report-messagebar-submitted-noremove2 =
-    .message = প্ৰতিবেদন দাখিল কৰাৰ বাবে ধন্যবাদ।
 
 ## Message bars actions.
 

@@ -38,8 +38,6 @@ address-capture-manage-address-button =
     .label = Arventennoù ar chomlec’hioù
 address-capture-learn-more-button =
     .label = Gouzout hiroc’h
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Ouzhpennañ ur chomlec'h nevez
 address-capture-open-menu-button =
     .aria-label = Digeriñ al lañser
 address-capture-edit-address-button =
@@ -48,10 +46,10 @@ address-capture-edit-address-button =
 autofill-add-address-title = Ouzhpennañ ur chomlec’h
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Embann ar chomlec'h
-autofill-address-name = Anv
 autofill-address-given-name = Anv bihan
 autofill-address-additional-name = Anv kreiz
 autofill-address-family-name = Anv familh
+autofill-address-name = Anv
 autofill-address-organization = Aozadur
 autofill-address-street-address = Chomlec’h
 autofill-address-street = Chomlec'h
@@ -107,9 +105,8 @@ autofill-address-eircode = Eircode
 
 ##
 
-
-##
-
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Ouzhpennañ ur chomlec'h nevez
 autofill-address-country = Bro pe Rannvro
 autofill-address-country-only = Bro
 autofill-address-tel = Pellgomz

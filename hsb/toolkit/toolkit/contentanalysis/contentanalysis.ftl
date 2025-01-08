@@ -41,21 +41,6 @@ contentanalysis-genericresponse-message = Analyza wobsaha je z { $response } za 
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-block-message = Waša organizacija software přećiwo straće datow wužiwa, kotraž je tutón wobsah zablokowała: { $content }.
 # Variables:
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-error-message = Při komunikaciji ze software přećiwo straće datow je zmylk nastał. Přenjesenje je so za resursu wotpokazało: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-unspecified-error-message = Při komunikaciji z { $agent } je zmylk nastał. Přenjesenje je so za resursu wotpokazało: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-no-agent-connected-message = Njeje móžno z { $agent } zwjazać. Přenjesenje je so za resursu wotpokazało: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-invalid-agent-signature-message = Přepruwowanje signatury za { $agent } njeje so poradźiło. Přenjesenje je so za resursu wotpokazało: { $content }.
-# Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Localized text describing the content being blocked, such as "Paste denied."
 contentanalysis-unspecified-error-message-content = Zmylk je při komunikowanju z { $agent } nastał. { $content }

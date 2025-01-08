@@ -4,14 +4,12 @@
 
 about-reader-loading = Ladowanie…
 about-reader-load-error = Ladowanie artykułu ze strōny sie niy podarziło
-
 about-reader-color-scheme-light = Jasny
     .title = Jasny schymat farbōw
 about-reader-color-scheme-dark = Ćmawy
     .title = Ćmawy schymat farbōw
 about-reader-color-scheme-sepia = Sepijo
     .title = Sepiowy schymat farbōw
-
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -24,7 +22,7 @@ about-reader-estimated-read-time =
        *[many] { $range } minut
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = Zmyńsz litery
@@ -49,3 +47,14 @@ about-reader-font-type-sans-serif = Bezszeryfowy
 about-reader-toolbar-close = Zawrzij podglōnd czytanio
 about-reader-toolbar-type-controls = Nasztalowania pisanio
 about-reader-toolbar-savetopocket = Spamiyntej do { -pocket-brand-name }
+
+## Reader View colors menu
+
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+
+## Reader View text and layout menu
+

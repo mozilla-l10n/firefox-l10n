@@ -6,4 +6,3 @@
 active-policies-tab = Tye katic
 errors-tab = Bal
 documentation-tab = Gin acoya
-

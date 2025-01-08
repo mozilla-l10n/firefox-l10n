@@ -33,8 +33,6 @@ about-webrtc-aec-logging-toggled-off-state-msg = Captured log files can be found
 
 # The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Auto Refresh
-# Determines the default state of the Auto Refresh check boxes
-about-webrtc-auto-refresh-default-label = Auto Refresh By Default
 # A button which forces a refresh of displayed statistics
 about-webrtc-force-refresh-button = Refresh
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
@@ -98,8 +96,8 @@ about-webrtc-save-page-label = Save Page
 about-webrtc-debug-mode-msg-label = Debug Mode
 about-webrtc-debug-mode-off-state-label = Start Debug Mode
 about-webrtc-debug-mode-on-state-label = Stop Debug Mode
-about-webrtc-enable-logging-label = Enable WebRTC Log Preset
 about-webrtc-stats-heading = Session Statistics
+about-webrtc-enable-logging-label = Enable WebRTC Log Preset
 about-webrtc-peerconnections-section-heading = RTCPeerConnection Statistics
 about-webrtc-peerconnections-section-show-msg = Show RTCPeerConnection Statistics
 about-webrtc-peerconnections-section-hide-msg = Hide RTCPeerConnection Statistics
@@ -229,10 +227,7 @@ about-webrtc-round-trip-time-ms = RTT ms
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Video Frame Statistics - MediaStreamTrack ID: { $track-identifier }
 
-## These are paths used for saving the about:webrtc page or log files so
-## they can be attached to bug reports.
-## Variables:
-##  $path (String) - The path to which the file is saved.
+##
 
 about-webrtc-save-page-msg = page saved to: { $path }
 about-webrtc-debug-mode-off-state-msg = trace log can be found at: { $path }

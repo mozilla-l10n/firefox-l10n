@@ -12,20 +12,6 @@ about-reader-color-scheme-sepia = Сепия
     .title = Нақшаи ранги «Сепия»
 about-reader-color-scheme-auto = Худкор
     .title = Нақшаи ранги «Худкор»
-about-reader-color-theme-light = Равшан
-    .title = Мавзуъ бо рангҳои равшан
-about-reader-color-theme-dark = Торик
-    .title = Мавзуъ бо рангҳои торик
-about-reader-color-theme-sepia = Сепия
-    .title = Мавзуъ бо рангҳои сепия
-about-reader-color-theme-auto = Худкор
-    .title = Мавзуъ бо рангҳои худкор
-about-reader-color-theme-gray = Хокистарӣ
-    .title = Мавзуъ бо рангҳои хокистарӣ
-about-reader-color-theme-contrast = Контраст
-    .title = Мавзуъ бо рангҳои контраст
-about-reader-color-theme-custom = Рангҳои фармоишӣ
-    .title = Мавзуъ бо рангҳои фармоишӣ
 about-reader-color-light-theme = Равшан
     .title = Мавзуи равшан
 about-reader-color-dark-theme = Торик
@@ -49,7 +35,7 @@ about-reader-estimated-read-time =
        *[other] { $range } дақиқа
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = Хурд кардани андозаи ҳуруф
@@ -74,7 +60,6 @@ about-reader-font-type-monospace = Яклухт
 
 about-reader-toolbar-close = Пӯшидани намоиши хониш
 about-reader-toolbar-type-controls = Танзимоти ҳарфҳо
-about-reader-toolbar-color-controls = Рангҳо
 about-reader-toolbar-text-layout-controls = Матн ва тарҳрезӣ
 about-reader-toolbar-theme-controls = Мавзуъ
 about-reader-toolbar-savetopocket = Нигоҳ доштан ба «{ -pocket-brand-name }»
@@ -99,10 +84,9 @@ about-reader-custom-colors-visited-links = Пайвандҳои кушодашу
     .title = Таҳрир кардани ранг
 about-reader-custom-colors-selection-highlight = Нишондиҳанда барои хондани матн бо овози баланд
     .title = Таҳрир кардани ранг
-about-reader-custom-colors-reset-button = Барқарорсозӣ ба ҳолатҳои пешфарз
 about-reader-reset-button = Барқарорсозӣ ба ҳолатҳои пешфарз
 
-## Reader View improved text and layout menu
+## Reader View text and layout menu
 
 about-reader-text-header = Матн
 about-reader-text-size-label = Андозаи матн
@@ -119,9 +103,6 @@ about-reader-content-width-label =
 about-reader-line-spacing-label =
     .label = Фосила байни сатрҳо
 about-reader-advanced-layout-header = Иловагӣ
-about-reader-slider-label-width-narrow = Танг
-about-reader-slider-label-width-wide = Васеъ
-about-reader-slider-label-spacing-narrow = Танг
 about-reader-character-spacing-label =
     .label = Фосилаи байни ҳарфҳо
 about-reader-word-spacing-label =

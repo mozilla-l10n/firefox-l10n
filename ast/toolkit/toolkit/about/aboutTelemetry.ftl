@@ -24,7 +24,7 @@ about-telemetry-raw = JSON en bruto
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $selectedTitle (String): the section name from the structure of the ping.
+#   $selectedTitle (string) - The section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = Atopar en { $selectedTitle }
 # used as a tooltip for the “current” ping title in the sidebar

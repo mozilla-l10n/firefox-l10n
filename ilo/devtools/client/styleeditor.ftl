@@ -5,4 +5,3 @@
 styleeditor-find-again =
     .label = Find Again
     .accesskey = g
-

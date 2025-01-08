@@ -12,20 +12,6 @@ about-reader-color-scheme-sepia = Sepât
     .title = Scheme di colôrs sepâts
 about-reader-color-scheme-auto = Automatic
     .title = Scheme di colôrs automatics
-about-reader-color-theme-light = Clâr
-    .title = Teme colôrs clâr
-about-reader-color-theme-dark = Scûr
-    .title = Teme colôrs scûr
-about-reader-color-theme-sepia = Sepe
-    .title = Teme colôrs sepe
-about-reader-color-theme-auto = Automatic
-    .title = Teme colôrs automatic
-about-reader-color-theme-gray = Grîs
-    .title = Teme colôrs grîs
-about-reader-color-theme-contrast = Contrast
-    .title = Teme colôrs contrast
-about-reader-color-theme-custom = Colôrs personalizâts
-    .title = Teme colôrs personalizât
 about-reader-color-light-theme = Clâr
     .title = Teme clâr
 about-reader-color-dark-theme = Scûr
@@ -49,7 +35,7 @@ about-reader-estimated-read-time =
        *[other] { $range } minûts
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = Diminuìs dimension caratar
@@ -74,7 +60,6 @@ about-reader-font-type-monospace = Largjece fisse
 
 about-reader-toolbar-close = Siere la Viodude di leture
 about-reader-toolbar-type-controls = Controi tipografics
-about-reader-toolbar-color-controls = Colôrs
 about-reader-toolbar-text-layout-controls = Test e disposizion
 about-reader-toolbar-theme-controls = Teme
 about-reader-toolbar-savetopocket = Salve in { -pocket-brand-name }
@@ -99,10 +84,9 @@ about-reader-custom-colors-visited-links = Colegaments visitâts
     .title = Modifiche colôr
 about-reader-custom-colors-selection-highlight = Evidenziadôr pe leture a vôs alte
     .title = Modifiche colôr
-about-reader-custom-colors-reset-button = Ripristine predefinîts
 about-reader-reset-button = Ripristine predefinîts
 
-## Reader View improved text and layout menu
+## Reader View text and layout menu
 
 about-reader-text-header = Test
 about-reader-text-size-label = Dimension dal test
@@ -119,9 +103,6 @@ about-reader-content-width-label =
 about-reader-line-spacing-label =
     .label = Interlinie
 about-reader-advanced-layout-header = Avanzadis
-about-reader-slider-label-width-narrow = Strete
-about-reader-slider-label-width-wide = Largje
-about-reader-slider-label-spacing-narrow = Ridote
 about-reader-character-spacing-label =
     .label = Spaziadure caratars
 about-reader-word-spacing-label =

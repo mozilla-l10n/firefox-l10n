@@ -10,7 +10,6 @@ videocontrols-volume-control =
     .aria-label = Јачина звука
 videocontrols-closed-caption-button =
     .aria-label = Титл
-
 videocontrols-play-button =
     .aria-label = Пусти
 videocontrols-pause-button =
@@ -25,22 +24,20 @@ videocontrols-exitfullscreen-button =
     .aria-label = Изађи из режима целог екрана
 videocontrols-casting-button-label =
     .aria-label = Пребаци на екран
+# .offlabel is processed by the video control custom element to be used
+# as a text-track label
 videocontrols-closed-caption-off =
     .offlabel = Искључено
-
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Слика у слици
-
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = Гледајте видео у посебном прозору
-
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer3 = Забавније је уз више екрана. Пуштајте овај видео док радите друге ствари.
-
 videocontrols-error-aborted = Учитавање видео-снимка је заустављено.
 videocontrols-error-network = Репродукција видео-снимка је прекинута због грешке на мрежи.
 videocontrols-error-decode = Видео се не може репродуковати јер је датотека оштећена.
@@ -48,7 +45,6 @@ videocontrols-error-src-not-supported = Видео-формат или MIME ти
 videocontrols-error-no-source = Није пронађен ниједан видео-снимак са подржаним форматом и MIME типом.
 videocontrols-error-generic = Репродукција видео-снимка је прекинута због непознате грешке.
 videocontrols-status-picture-in-picture = Овај видео се репродукује у режиму „Слика у слици”.
-
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -62,7 +58,6 @@ videocontrols-status-picture-in-picture = Овај видео се репрод�
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
-
 # This is a plain text version of the videocontrols-position-and-duration-labels
 # string, used by screenreaders.
 #

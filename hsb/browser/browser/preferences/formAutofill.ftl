@@ -39,8 +39,6 @@ address-capture-manage-address-button =
     .label = Adresowe nastajenja
 address-capture-learn-more-button =
     .label = Dalše informacije
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Nowu adresu přidać
 address-capture-open-menu-button =
     .aria-label = Meni wočinić
 address-capture-edit-address-button =
@@ -49,10 +47,10 @@ address-capture-edit-address-button =
 autofill-add-address-title = Adresu přidać
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Adresu wobdźěłać
-autofill-address-name = Mjeno
 autofill-address-given-name = Předmjeno
 autofill-address-additional-name = Druhe předmjeno
 autofill-address-family-name = Swójbne mjeno
+autofill-address-name = Mjeno
 autofill-address-organization = Organizacija
 autofill-address-street-address = Dróhowa adresa
 autofill-address-street = Dróhowa adresa
@@ -108,9 +106,8 @@ autofill-address-eircode = Eircode
 
 ##
 
-
-##
-
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Nowu adresu přidać
 autofill-address-country = Kraj abo region
 autofill-address-country-only = Kraj
 autofill-address-tel = Telefon
@@ -122,11 +119,6 @@ autofill-country-warning-message = Awtomatiske wupjelnjenje formularow je tuchwi
 autofill-add-new-card-title = Nowu kreditnu kartu přidać
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Kreditnu kartu wobdźěłać
-autofill-message-tooltip = Zdźělenku wo awtomatiskim wupjelnjenju pokazać
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-card-title = Kartu přidać
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title2 = Kartu wobdźěłać
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -135,6 +127,11 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } pospytuje, daty kreditneje karty pokazać. Wobkrućće přistup k Windowsowemu kontu deleka.
        *[other] { -brand-short-name } pospytuje, daty kreditneje karty pokazać.
     }
+autofill-message-tooltip = Zdźělenku wo awtomatiskim wupjelnjenju pokazać
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Kartu přidać
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Kartu wobdźěłać
 autofill-card-number = Kartowe čisło
 autofill-card-invalid-number = Prošu zapodajće płaćiwe kartowe čisło
 autofill-card-name-on-card = Mjeno na karće

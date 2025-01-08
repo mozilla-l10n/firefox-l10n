@@ -3,5 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = Neistart erfuerderlech
-
 restart-button-label = Start de { -brand-short-name } nei

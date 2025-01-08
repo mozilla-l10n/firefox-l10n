@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Fon
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Fon untuk
     .accesskey = F
-
 fonts-langgroup-arabic =
     .label = Arabic
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Perkadaran
     .accesskey = P
-
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
-
 fonts-proportional-size = Saiz
     .accesskey = z
-
 fonts-serif = Serif
     .accesskey = S
-
 fonts-sans-serif = Sans-serif
     .accesskey = n
-
 fonts-monospace = Monospace
     .accesskey = M
-
 fonts-monospace-size = Saiz
     .accesskey = S
-
 fonts-minsize = Saiz fon minimum
     .accesskey = o
-
 fonts-minsize-none =
     .label = Tiada
-
 fonts-allow-own =
     .label = Izinkan halaman memilih fon sendiri, bukannya pilihan anda di atas
     .accesskey = I
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

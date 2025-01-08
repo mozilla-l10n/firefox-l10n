@@ -4,5 +4,5 @@
 
 refresh-profile =
     .label = { -brand-short-name } खौ थाजा खालाम
-# Shown on the safe mode dialog after multiple startup crashes. 
+# Shown on the safe mode dialog after multiple startup crashes.
 auto-safe-mode-description = जागायनाय समाव { -brand-short-name } आ मिजिंथियै महरै बन्द जाबाय। बेयो add-ons एबा गुबुन जेंनानि थाखाय जानो हागौ। नोंथाङा जेंनाखौ रैखाथि म'डआव ट्राबल्‌शुटिंजों सुस्रांनो हायो।

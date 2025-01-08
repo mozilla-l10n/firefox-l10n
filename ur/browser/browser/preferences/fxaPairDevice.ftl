@@ -3,5 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 fxa-qrcode-error-title = جوٰڑنے میں ناکام رہا
-
 fxa-qrcode-error-body = دوبارہ کوشش کریں۔

@@ -24,7 +24,6 @@ xpinstall-disabled = Al-azırda yazılım qurulımı ğayrı qabilleştirilgendi
 xpinstall-disabled-button =
     .label = Qabilleştir
     .accesskey = Q
-
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } { -brand-short-name } uyğulamasına eklendi
@@ -38,7 +37,6 @@ webext-perms-update-menu-item = { $addonName } yañı ruhsetlerni şart qoşa
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = { $name } { -brand-shorter-name } programından çetleştirilsin?
 addon-removal-button = Çetleştir
-
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -47,7 +45,6 @@ addon-downloading-and-verifying =
        *[other] { $addonCount } eklenti endirile ve doğrulana…
     }
 addon-download-verifying = Doğrulana
-
 addon-install-cancel-button =
     .label = Vazgeç
     .accesskey = z

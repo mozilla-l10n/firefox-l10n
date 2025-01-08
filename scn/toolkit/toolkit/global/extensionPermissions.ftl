@@ -29,3 +29,7 @@ webext-perms-description-tabs = Accèdiri ê schedi dû navicaturi
 webext-perms-description-tabHide = Ammucciari e mustrari schedi
 webext-perms-description-topSites = Accèdiri â crunuluggìa di navicazzioni
 webext-perms-description-webNavigation = Accèdiri all'attività amentri chi nàvighi
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

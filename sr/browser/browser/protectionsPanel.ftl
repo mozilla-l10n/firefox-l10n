@@ -78,6 +78,9 @@ protections-panel-blocking-label = Блокирано
 protections-panel-not-blocking-label = Дозвољено
 protections-panel-not-found-label = Нису уочени
 
+## Smartblock strings
+
+
 ##
 
 protections-panel-settings-label = Подешавања заштите

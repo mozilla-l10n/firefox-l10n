@@ -4,6 +4,5 @@
 
 notification-learnmore-default-label =
     .value = Alamin pa
-
 close-notification-message =
     .tooltiptext = Isara ang mensaheng ito

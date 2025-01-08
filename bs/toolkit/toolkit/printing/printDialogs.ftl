@@ -103,7 +103,6 @@ print-window =
     .title = Štampanje
 print-complete =
     .value = Štampanje je završeno.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

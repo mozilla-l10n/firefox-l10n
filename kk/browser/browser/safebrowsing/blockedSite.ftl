@@ -10,6 +10,8 @@ safeb-blocked-phishing-page-short-desc = { -brand-short-name } бұл бетті
 safeb-blocked-malware-page-short-desc = { -brand-short-name } компьютеріңізде жеке ақпаратты ұрлау немесе өшіре алатын зиянкес бағдарламалық қамтаманы орната алатыны үшін бұл бетті бұғаттады.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } бұл бетті бұғаттады, өйткені ол сізді алдап, шолуды нашарлататын (мысалы, үй парағыңызды алмастыру немесе шолатын сайттарда қосымша жарнаманы көрсету) бағдарламалық қамтаманы орнату талабын жасауы мүмкін.
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } бұл парақты блоктады, өйткені ол сіздің ақпаратыңызды ұрлайтын немесе өшіре алатын (мысалы, фото, парольдер, хабарламалар және несие карталарды) қолданбаларды орнату талабын жасауы мүмкін.
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Ұсынысты берген <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Артқа
 safeb-palm-see-details-label = Ақпаратын қарау

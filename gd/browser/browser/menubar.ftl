@@ -257,6 +257,9 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = Comharran-lìn mobile
 
+## Profiles Menu
+
+
 ## Tools Menu
 
 menu-tools =

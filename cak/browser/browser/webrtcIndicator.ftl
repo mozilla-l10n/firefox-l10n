@@ -3,12 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Note: This is currently placed under browser/base/content so that we can
-# get the strings to appear without having our localization community need
-# to go through and translate everything. Once these strings are ready for
-# translation, we'll move it to the locales folder.
-
-
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
@@ -30,7 +24,6 @@ webrtc-item-browser = ruwi'
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Man etaman ta akuchi' petenäq
-
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -39,7 +32,6 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Taq okisaxel tajin nikikomonij taq ruwi'
     .accesskey = r
-
 webrtc-sharing-window = Nakomonij jun chik rutzuwäch chokoy.
 webrtc-sharing-browser-window = Nakomonij { -brand-short-name }.
 webrtc-sharing-screen = Nakomonij chijun ruwa kematz'ib'.
@@ -93,7 +85,6 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Tichajïx ri jalwachinïk
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Tajin nikomonïx ri ruchajixik “{ $streamTitle }”
-
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Tajin nikomonïx elesäy wachib'äl rik'in “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -102,7 +93,6 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Tajin nikomonïx elesäy wachib'äl rik'in { $tabCount } taq ruwi'
            *[other] Tajin nikomonïx ri elesäy wachib'äl kik'in { $tabCount } taq ruwi'
         }
-
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Tajin nikomonïx q'axäy tzij rik'in “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -111,7 +101,6 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Tajin nokisäx pa q'uch ri q'axach'ab'äl rik'in { $tabCount } tzuwäch
            *[other] Tajin nokisäx pa q'uch ri q'axach'ab'äl rik'in { $tabCount } taq tzuwäch
         }
-
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Tajin nikomonïx jun chokoy rik'in “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -120,7 +109,6 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] Tajin nikomonïx jun chokoy rik'in { $tabCount } ruwi'
            *[other] Tajin yekomonïx taq chokoy kik'in { $tabCount } taq ruwi'
         }
-
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Tajin nikomonïx ruwäch rik'in “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -129,7 +117,6 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Tajin nikomonïx ruwäch rik'in { $tabCount } ruwi'
            *[other] Tajin nikomonïx ruwäch rik'in { $tabCount } taq ruwi'
         }
-
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Tajin nikomonïx jun tzuwäch rik'in “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -138,7 +125,6 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Tajin nikomonïx tzuwäch rik'in { $tabCount } ruwi'
            *[other] Tajin yekomonïx taq tzuwäch kik'in { $tabCount } taq ruwi'
         }
-
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Tajin nikomonïx jun ruwi' rik'in “{ $streamTitle }”
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -165,6 +151,9 @@ webrtc-allow-share-camera-and-audio-capture = ¿La niya' q'ij chi re { $origin }
 webrtc-allow-share-screen-and-microphone = ¿La niya' q'ij chi re { $origin } richin norokisaj ri q'asäy atzij chuqa' nutz'ët ri ruwa akematz'ib'?
 webrtc-allow-share-screen-and-audio-capture = ¿La niya' q'ij chi re { $origin } richin nrak'axaj kiq'ojom taq ruwi' chuqa' nutz'ët ri ruwa akematz'ib'?
 
+## Special phrasing for sharing devices when the origin is a file url.
+
+
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
@@ -185,7 +174,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = ¿La niya' q'ij 
 
 webrtc-share-screen-warning = Xa xe yerukomonij taq ruwa' kematz'ib' kik'in taq ruxaq k'amaya'l nakuqub'a' ak'u'x chi kij. Ri komonïk nitikïr nuya' q'ij chi ri itzel taq ruxaq k'amaya'l kekanon achi'el rat akuchi' nikeleq'aj ri ichinan taq atzij.
 webrtc-share-browser-warning = Xa xe yerukomonij { -brand-short-name } kik'in taq ruxaq k'amaya'l nakuqub'a' ak'u'x chi kij. Ri komonïk nitikïr nuya' q'ij chi ri itzel taq ruxaq k'amaya'l kekanon achi'el rat akuchi' nikeleq'aj ri ichinan taq atzij.
-
 webrtc-share-screen-learn-more = Tetamäx Ch'aqa' Chik
 webrtc-pick-window-or-screen = Ticha' Tzuwäch o Chijun Ruwa
 webrtc-share-entire-screen = Chijun ruwäch
@@ -221,7 +209,6 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Tinatäx re na'oj re'
 webrtc-mute-notifications-checkbox = Kememüx rutzijol ajk'amaya'l ruxaq toq nikomonïx
-
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } man tikirel ta naya' q'ij jutaqil ye'ok pa ri ruwa kematz'ib'.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } man nuya' ta q'ij chi jantape' nok pa ruwi' q'ojom akuchi' k'o chi nuk'utuj achike nrajo' nukomonij.
 webrtc-reason-for-no-permanent-allow-insecure = Man ütz ta ri awokem pa re ruxaq k'amaya'l re'. Richin nachajij awi', { -brand-short-name } xa xe xtuya' q'ij xtok pa re molojri'ïl re'.

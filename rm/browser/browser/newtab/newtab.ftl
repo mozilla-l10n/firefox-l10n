@@ -460,3 +460,6 @@ newtab-topic-selection-button-pick-interests = Tscherna tes interess
 newtab-section-follow-button = Suandar
 newtab-section-following-button = Ti suondas
 newtab-section-unfollow-button = Chalar da suandar
+
+## Confirmation modal for blocking a section
+

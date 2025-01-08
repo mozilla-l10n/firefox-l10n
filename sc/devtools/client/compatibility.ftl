@@ -39,11 +39,9 @@ compatibility-issue-occurrences =
         [one] { $number } nodu
        *[other] { $number } nodos
     }
-
 compatibility-no-issues-found = Nissunu problema de cumpatibilidade agatadu.
 compatibility-close-settings-button =
     .title = Serra sa cunfiguratzione
-
 # Text used in the element containing the browser icons for a given compatibility issue.
 # Line breaks are significant.
 # Variables:

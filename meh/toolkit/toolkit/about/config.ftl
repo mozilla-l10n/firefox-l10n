@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Kaka ji precaución
@@ -13,13 +14,10 @@ about-config-intro-warning-button = Kuka´nu inini jiee riesgo je kaka
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = De sama preferencias ya´a kuvi xitivɨ a xiin seguridad { -brand-short-name }.
-
 about-config-page-title = Preferencias avanzadas
-
 about-config-search-input1 =
     .placeholder = Sivɨ nánuku
 about-config-show-all = Kune´yá kuaiyo
-
 about-config-pref-add-button =
     .title = Tee
 about-config-pref-toggle-button =

@@ -4,4 +4,3 @@
 
 translation-close-key =
     .key = w
-

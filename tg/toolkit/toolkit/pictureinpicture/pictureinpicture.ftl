@@ -7,6 +7,7 @@ pictureinpicture-player-title = Расм-дар-расм
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -21,30 +22,24 @@ pictureinpicture-pause-btn =
 pictureinpicture-play-btn =
     .aria-label = Пахш кардан
     .tooltip = Пахш (тугмаи фосила)
-
 pictureinpicture-mute-btn =
     .aria-label = Бесадо кардан
     .tooltip = Бесадо ({ $shortcut })
 pictureinpicture-unmute-btn =
     .aria-label = Фаъол кардани садо
     .tooltip = Садо ({ $shortcut })
-
 pictureinpicture-unpip-btn =
     .aria-label = Бозгашт ба варақа
     .tooltip = Бозгашт ба варақа
-
 pictureinpicture-close-btn =
     .aria-label = Пӯшидан
     .tooltip = Пӯшидан ({ $shortcut })
-
 pictureinpicture-subtitles-btn =
     .aria-label = Зерунвонҳо
     .tooltip = Зерунвонҳо
-
 pictureinpicture-fullscreen-btn2 =
     .aria-label = Экрани пурра
     .tooltip = Экрани пурра (ду бор зер кунед ё { $shortcut })
-
 pictureinpicture-exit-fullscreen-btn2 =
     .aria-label = Баромад аз экрани пурра
     .tooltip = Баромад аз экрани пурра (ду бор зер кунед ё { $shortcut })
@@ -63,7 +58,6 @@ pictureinpicture-toggle-fullscreen-shortcut =
 pictureinpicture-seekbackward-btn =
     .aria-label = Ба қафо
     .tooltip = Ба қафо (←)
-
 pictureinpicture-seekforward-btn =
     .aria-label = Ба пеш
     .tooltip = Ба пеш (→)
@@ -74,13 +68,8 @@ pictureinpicture-seekforward-btn =
 # a screen reader whenever a user opens the subtitles settings panel
 # after selecting the subtitles button.
 pictureinpicture-subtitles-panel-accessible = Танзимоти зерунвонҳо
-
 pictureinpicture-subtitles-label = Зерунвонҳо
-
 pictureinpicture-font-size-label = Андозаи ҳуруф
-
 pictureinpicture-font-size-small = Хурд
-
 pictureinpicture-font-size-medium = Миёна
-
 pictureinpicture-font-size-large = Калон

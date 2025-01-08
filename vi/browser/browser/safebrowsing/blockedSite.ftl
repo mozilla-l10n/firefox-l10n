@@ -10,6 +10,8 @@ safeb-blocked-phishing-page-short-desc = { -brand-short-name } đã chặn trang
 safeb-blocked-malware-page-short-desc = { -brand-short-name } chặn trang này vì nó có thể cố gắng cài đặt phần mềm độc hại để có thể ăn cắp hoặc xóa các thông tin cá nhân trên máy tính của bạn.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } đã chặn trang này bởi vì nó cố lừa bạn cài đặt các chương trình gây ảnh hưởng đến trải nghiệm duyệt web của bạn (ví dụ, thay đổi trang chủ hoặc hiển thị thêm quảng cáo trên các trang web bạn truy cập).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } đã chặn trang này vì nó cố gắng cài ứng dụng nguy hiểm để ăn cắp hoặc xóa thông tin của bạn (ví dụ, ảnh, mật khẩu, tin nhắn và thông tin thẻ tín dụng).
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Tư vấn được cung cấp bởi <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Quay lại
 safeb-palm-see-details-label = Xem chi tiết

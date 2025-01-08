@@ -406,3 +406,11 @@ newtab-topic-label-home = Дом и градина
 
 newtab-topic-selection-button-maybe-later = Може би по-късно
 newtab-topic-selection-button-pick-interests = Изберете вашите интереси
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Confirmation modal for blocking a section
+

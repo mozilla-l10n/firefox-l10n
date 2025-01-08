@@ -10,6 +10,12 @@ features-id = ID
 
 ## Codec support table
 
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+
 ##
 
 
@@ -43,7 +49,18 @@ glcontext-crash-guard = OpenGL
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+
 ## Printing section
 
+
+## Remote Settings sections
+
+
 ## Normandy sections
+
+
+## Pointing devices
+
+
+## Content Analysis (DLP)
 

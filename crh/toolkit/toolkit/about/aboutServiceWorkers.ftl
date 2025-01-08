@@ -9,7 +9,6 @@ about-service-workers-title = Hızmet İşçileri aqqında
 about-service-workers-main-title = Qaydlı Hızmet İşçileri
 about-service-workers-warning-not-enabled = Service Worker'ler qabilleştirilgen degil.
 about-service-workers-warning-no-service-workers = Qaydlı Hızmet İşçileri yoq.
-
 # The original title of service workers' information
 #
 # Variables:
@@ -29,12 +28,8 @@ active-cache-name = <strong>Faal Zula Adı:</strong> { $name }
 waiting-cache-name = <strong>Beklegen Zula Adı:</strong> { $name }
 push-end-point-waiting = <strong>İteme Uç-noqtası:</strong> { waiting }
 push-end-point-result = <strong>İteme Uç-noqtası:</strong> { $name }
-
 # This term is used as a button label (verb, not noun).
 update-button = Yañart
-
 unregister-button = Qaydsızla
-
 unregister-error = Bu Service Worker qaydsızlanamadı.
-
 waiting = Beklene…

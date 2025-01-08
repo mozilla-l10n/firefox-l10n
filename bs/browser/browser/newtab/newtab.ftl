@@ -461,3 +461,6 @@ newtab-topic-selection-button-pick-interests = Odaberite svoja interesovanja
 newtab-section-follow-button = Prati
 newtab-section-following-button = Pratite
 newtab-section-unfollow-button = Prestani pratiti
+
+## Confirmation modal for blocking a section
+

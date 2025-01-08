@@ -6,8 +6,6 @@ title-label = მოდულების შესახებ
 installed-plugins-label = ჩადგმული მოდულები
 no-plugins-are-installed-label = ჩადგმული მოდულები ვერ მოიძებნა
 deprecation-description = რამე აკლია? ზოგიერთი მოდული აღარაა მხარდაჭერილი. <a data-l10n-name="deprecation-link">იხილეთ ვრცლად.</a>
-deprecation-description2 =
-    .message = რამე აკლია? ზოგიერთი მოდული აღარაა მხარდაჭერილი.
 
 ## The information of plugins
 ##

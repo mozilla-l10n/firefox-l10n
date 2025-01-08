@@ -16,16 +16,16 @@ videocontrols-exitfullscreen-button =
     .aria-label = Aiztaiseit pylnekrana režymu
 videocontrols-casting-button-label =
     .aria-label = Puorraideit iz ekranu
+# .offlabel is processed by the video control custom element to be used
+# as a text-track label
 videocontrols-closed-caption-off =
     .offlabel = Izslāgts
-
 videocontrols-error-aborted = Video īluode apturāta.
 videocontrols-error-network = Video atskaņuošona apturāta teikla kliumes dieļ.
 videocontrols-error-decode = Video navar atskaņuot, kam tei fails ir būjuots.
 videocontrols-error-src-not-supported = Video formats voi MIME tips nav pabaļsteis.
 videocontrols-error-no-source = Natyka atrosts pabaļsteita formata voi MIME tipa video.
 videocontrols-error-generic = Video atskaņuošona apturāta nazynuomys kliumes dieļ.
-
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -39,4 +39,3 @@ videocontrols-error-generic = Video atskaņuošona apturāta nazynuomys kliumes 
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
-

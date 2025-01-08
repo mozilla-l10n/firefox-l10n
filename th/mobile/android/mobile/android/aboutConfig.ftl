@@ -6,11 +6,9 @@ config-toolbar-search =
     .placeholder = ค้นหา
 config-new-pref-name =
     .placeholder = ชื่อ
-
 config-new-pref-value-boolean = ค่าตรรกะ
 config-new-pref-value-string = สตริง
 config-new-pref-value-integer = จำนวนเต็ม
-
 config-new-pref-string =
     .placeholder = ป้อนสตริง
 config-new-pref-number =
@@ -18,12 +16,9 @@ config-new-pref-number =
 config-new-pref-cancel-button = ยกเลิก
 config-new-pref-create-button = สร้าง
 config-new-pref-change-button = เปลี่ยน
-
 config-pref-toggle-button = เปิด/ปิด
 config-pref-reset-button = กลับค่าเดิม
-
 config-context-menu-copy-pref-name =
     .label = คัดลอกชื่อ
 config-context-menu-copy-pref-value =
     .label = คัดลอกค่า
-

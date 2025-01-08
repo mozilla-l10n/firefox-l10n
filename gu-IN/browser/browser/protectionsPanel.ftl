@@ -32,6 +32,9 @@ protections-panel-content-blocking-fingerprinters-label = Fingerprinters
 ##   These strings are used in the header labels of each of these sections.
 
 
+## Smartblock strings
+
+
 ##
 
 

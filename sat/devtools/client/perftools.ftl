@@ -127,6 +127,11 @@ perftools-onboarding-close-button =
 # devtools/client/performance-new/shared/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
+# The same labels and descriptions are also defined in appmenu.ftl.
+
 perftools-presets-web-developer-label = ᱣᱮᱵᱽ ᱞᱟᱦᱟ ᱦᱚᱪᱚᱭᱤᱡ
 perftools-presets-web-developer-description = ᱠᱚᱢ ᱚᱣᱟᱹᱨᱞᱳᱰ ᱥᱟᱶ ᱣᱮᱵᱽ ᱰᱮᱵᱚᱜᱤᱝ ᱡᱷᱚᱛᱚ ᱠᱷᱚᱱ ᱵᱟᱛᱟᱣᱟᱜ ᱾
 perftools-presets-firefox-label = { -brand-shorter-name }

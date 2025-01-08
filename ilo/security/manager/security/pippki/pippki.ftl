@@ -9,8 +9,6 @@ change-password-old = Agdinama a kontrasenias:
 change-password-new = Baro a Kontrasenias:
 change-password-reenter = Baro a Kontrasenias (manen):
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
@@ -24,6 +22,9 @@ download-cert-trust-email =
 download-cert-view-text = Bigbigen ti sertipiko ti CA
 
 ## Client Authorization Ask dialog
+
+
+## Client Authentication Ask dialog
 
 client-auth-window =
     .title = Dawat ti Bigbig ti Agar-aramat
@@ -40,8 +41,6 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Kontrasenias ti pannakatipon ti sertipiko (manen):
 set-password-reminder = Importante: No malipatanyo ti kontrasenias ti pannakatipon ti sertipiko, saanyonto a maipulang daytoy a pannakatipon intuno madamdama. Pagsuratanyo man ti natalged a disso.
-
-## Protected Auth dialog
 
 ## Protected authentication alert
 

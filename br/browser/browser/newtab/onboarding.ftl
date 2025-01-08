@@ -202,7 +202,9 @@ mr2022-onboarding-set-default-primary-button-label = Lakaat { -brand-short-name 
 
 mr2022-onboarding-get-started-primary-button-label = Staliañ en un nebeut eilennoù
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-primary-button-label-no-attribution = Emporzhiañ diouzh ar merdeer diwezhañ
 
@@ -297,3 +299,12 @@ onboarding-new-user-survey-time-based-option-2 = Nebeutoc’h eget 1 miz
 
 onboarding-flair-text = Nevez!
 onboarding-genai-sidebar-secondary-button = Kregiñ gant ar merdeiñ
+
+## New user onboarding checklist
+
+
+## Tab Groups feature onboarding strings
+
+
+## Multi Profiles feature onboarding messages
+

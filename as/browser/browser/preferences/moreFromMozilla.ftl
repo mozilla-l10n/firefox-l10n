@@ -25,3 +25,6 @@ more-from-moz-learn-more-link = অধিক জানক
 more-from-moz-firefox-relay-title = { -relay-brand-name }
 more-from-moz-firefox-relay-description = বিনামূলীয়া ইমেইল মাস্কিঙৰ সহায়ত আপোনাৰ ইনবক্স আৰু আপোনাৰ পৰিচয় সুৰক্ষিত কৰক।
 more-from-moz-firefox-relay-button = { -relay-brand-short-name } লাভ কৰক
+
+## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
+

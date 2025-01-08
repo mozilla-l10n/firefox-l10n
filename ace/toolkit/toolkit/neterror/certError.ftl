@@ -3,15 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # Variables:
-# $hostname (String) - Hostname of the website with cert error.
+#   $hostname (string) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } geungui sertifikat keuamanan hana sah.
-
 # Variables:
-# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+#   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
-
 # Variables:
-# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+#   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 
 ## Messages used for certificate error titles
@@ -19,3 +17,10 @@ cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 fileNotFound-title = Beureukaih hana jiteumèë
 generic-title = Oops.
 unsafeContentType-title = Jeunèh Beureukaih Hana Aman
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+

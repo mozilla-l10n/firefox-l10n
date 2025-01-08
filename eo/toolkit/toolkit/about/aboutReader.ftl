@@ -35,7 +35,7 @@ about-reader-estimated-read-time =
        *[other] { $range } minutoj
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = Etigi tiparan grandon
@@ -84,10 +84,9 @@ about-reader-custom-colors-visited-links = Vizititaj ligiloj
     .title = Modifi koloron
 about-reader-custom-colors-selection-highlight = Elstarigilo por laŭtlegado
     .title = Modifi koloron
-about-reader-custom-colors-reset-button = Remeti normajn valorojn
 about-reader-reset-button = Remeti normajn valorojn
 
-## Reader View improved text and layout menu
+## Reader View text and layout menu
 
 about-reader-text-header = Teksto
 about-reader-text-size-label = Grando de teksto
@@ -104,9 +103,6 @@ about-reader-content-width-label =
 about-reader-line-spacing-label =
     .label = Spaco interlinia
 about-reader-advanced-layout-header = Spertula
-about-reader-slider-label-width-narrow = Mallarĝa
-about-reader-slider-label-width-wide = Larĝa
-about-reader-slider-label-spacing-narrow = Mallarĝa
 about-reader-character-spacing-label =
     .label = Spaco intersigna
 about-reader-word-spacing-label =

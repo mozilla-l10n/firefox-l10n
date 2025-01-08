@@ -105,6 +105,8 @@ browser-window-close-button =
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
 urlbar-search-mode-indicator-close =
     .aria-label = TòɁw
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Kuan dee kuan luu
 urlbar-switch-to-tab =
@@ -120,6 +122,9 @@ urlbar-go-button =
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = KwàɁn loo { $engine }
+
+## Strings used for buttons in the urlbar
+
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -241,6 +246,9 @@ tabs-toolbar-list-all-tabs =
 ## Infobar shown at startup to suggest session-restore
 
 
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 
@@ -252,6 +260,10 @@ tabs-toolbar-list-all-tabs =
 
 
 ## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
 ## Note that the new line is intentionally part of the tooltip.
 
 
@@ -273,3 +285,13 @@ tabs-toolbar-list-all-tabs =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Mb-lòɁ '{ $popupURI }'
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+

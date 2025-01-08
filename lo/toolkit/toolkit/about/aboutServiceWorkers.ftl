@@ -9,7 +9,6 @@ about-service-workers-title = ກ່ຽວກັບ Service Workers
 about-service-workers-main-title = ລົງທະບຽນ Service Workers ແລ້ວ
 about-service-workers-warning-not-enabled = Service Workers ຍັງບໍ່ທັນໄດ້ເປີດໃຊ້ງານເທື່ອ.
 about-service-workers-warning-no-service-workers = ຍັງບໍ່ທັນໄດ້ລົງທະບຽນ Service Workers.
-
 # The original title of service workers' information
 #
 # Variables:
@@ -29,12 +28,8 @@ active-cache-name = <strong>ຊື່ຂອງແຄຊທີ່ໃຊ້ງາ�
 waiting-cache-name = <strong>ຊື່ຂອງແຄຊທີ່ກຳລັງລໍຖ້າຢູ່:</strong> { $name }
 push-end-point-waiting = <strong>Push Endpoint:</strong> { waiting }
 push-end-point-result = <strong>Push Endpoint:</strong> { $name }
-
 # This term is used as a button label (verb, not noun).
 update-button = ອັບເດດ
-
 unregister-button = ຍົກເລີກການລົງທະບຽນ
-
 unregister-error = ລົ້ມເຫລວໃນການຍົກເລີກການລົງທະບຽນສຳລັບ Service Worker ນີ້.
-
 waiting = ກຳລັງລໍຖ້າ…

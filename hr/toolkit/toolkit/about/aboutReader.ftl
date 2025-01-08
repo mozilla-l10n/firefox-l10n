@@ -36,7 +36,7 @@ about-reader-estimated-read-time =
        *[other] { $range } minuta
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = Smanji veličinu fonta
@@ -87,7 +87,7 @@ about-reader-custom-colors-selection-highlight = Marker za čitanje naglas
     .title = Uredi boju
 about-reader-reset-button = Obnovi standardne
 
-## Reader View improved text and layout menu
+## Reader View text and layout menu
 
 about-reader-text-header = Tekst
 about-reader-text-size-label = Veličina teksta

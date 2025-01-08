@@ -3,12 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Note: This is currently placed under browser/base/content so that we can
-# get the strings to appear without having our localization community need
-# to go through and translate everything. Once these strings are ready for
-# translation, we'll move it to the locales folder.
-
-
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
@@ -27,7 +21,6 @@ webrtc-item-browser = ಹಾಳೆ
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = ಗೊತ್ತಿರದ ಮೂಲ
-
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -69,7 +62,6 @@ webrtc-indicator-menuitem-control-sharing =
     .label = ನಿಯಂತ್ರಿತ ಹಂಚಿಕೆ
 webrtc-indicator-menuitem-control-sharing-on =
     .label = "{ $streamTitle }" ನಲ್ಲಿ ಹಂಚಿಕೆಯ ನಿಯಂತ್ರಣ
-
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = "{ $streamTitle }" ನೊಂದಿಗೆ ಕ್ಯಾಮೆರಾವನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -78,7 +70,6 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] { $tabCount } ಟ್ಯಾಬ್‌ನೊಂದಿಗೆ ಕ್ಯಾಮೆರಾವನ್ನು ಹಂಚಿಕೊಳ್ಳುವಿಕೆ
            *[other] { $tabCount } ಟ್ಯಾಬ್‌ಗಳೊಂದಿಗೆ ಕ್ಯಾಮೆರಾವನ್ನು ಹಂಚಿಕೊಳ್ಳುವಿಕೆ
         }
-
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = "{ $streamTitle }" ನೊಂದಿಗೆ ಮೈಕ್ರೊಫೋನ್ ಅನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -87,7 +78,6 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] { $tabCount } ಟ್ಯಾಬ್‌ನೊಂದಿಗೆ ಮೈಕ್ರೋಫೋನ್‌ ಅನ್ನು ಹಂಚಿಕೊಳ್ಳುವಿಕೆ
            *[other] { $tabCount } ಟ್ಯಾಬ್‌ಗಳೊಂದಿಗೆ ಮೈಕ್ರೋಫೋನ್‌ಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳುವಿಕೆ
         }
-
 webrtc-indicator-menuitem-sharing-application-with =
     .label = "{ $streamTitle }" ನೊಂದಿಗೆ ಒಂದು ಅನ್ವಯನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -96,7 +86,6 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] { $tabCount } ಟ್ಯಾಬ್‌ನೊಂದಿಗೆ ಅನ್ವಯವನ್ನು ಹಂಚಿಕೊಳ್ಳುವಿಕೆ
            *[other] { $tabCount } ಟ್ಯಾಬ್‌ಗಳೊಂದಿಗೆ ಅನ್ವಯವನ್ನು ಹಂಚಿಕೊಳ್ಳುವಿಕೆ
         }
-
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = "{ $streamTitle }" ನೊಂದಿಗೆ ತೆರೆಯನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -105,7 +94,6 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] { $tabCount } ಟ್ಯಾಬ್‌ನೊಂದಿಗೆ ತೆರೆಯನ್ನು ಹಂಚಿಕೊಳ್ಳುವಿಕೆ
            *[other] { $tabCount } ಟ್ಯಾಬ್‌ಗಳೊಂದಿಗೆ ತೆರೆಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳುವಿಕೆ
         }
-
 webrtc-indicator-menuitem-sharing-window-with =
     .label = "{ $streamTitle }" ನೊಂದಿಗೆ ಕಿಟಕಿಯನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -114,7 +102,6 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] { $tabCount } ಟ್ಯಾಬ್‌ನೊಂದಿಗೆ ಕಿಟಕಿಯನ್ನು ಹಂಚಿಕೊಳ್ಳುವಿಕೆ
            *[other] { $tabCount } ಟ್ಯಾಬ್‌ಗಳೊಂದಿಗೆ ಕಿಟಕಿಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳುವಿಕೆ
         }
-
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = "{ $streamTitle }" ನೊಂದಿಗೆ ಹಾಳೆಯನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -128,6 +115,9 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
+
+
+## Special phrasing for sharing devices when the origin is a file url.
 
 
 ## Variables:
@@ -160,4 +150,3 @@ webrtc-action-allow =
 ##
 
 webrtc-remember-allow-checkbox = ಈ ನಿರ್ಣಯವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳಿ
-

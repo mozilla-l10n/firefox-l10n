@@ -5,62 +5,47 @@
 permissions-window2 =
     .title = Esceiciones
     .style = min-width: 36em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Direición del sitiu web
     .accesskey = D
-
 permissions-block =
     .label = Bloquiar
     .accesskey = B
-
 permissions-session =
     .label = Permitir na sesión
     .accesskey = s
-
 permissions-allow =
     .label = Permitir
     .accesskey = P
-
 permissions-site-name =
     .label = Sitiu web
-
 permissions-status =
     .label = Estáu
-
 permissions-remove =
     .label = Quitar el sitiu web
     .accesskey = Q
-
 permissions-remove-all =
     .label = Quitar tolos sitios web
     .accesskey = u
-
 permission-dialog =
     .buttonlabelaccept = Guardar los cambeos
     .buttonaccesskeyaccept = G
-
 permissions-autoplay-menu = Lo predeterminao pa tolos sitios web:
-
 permissions-searchbox =
     .placeholder = Buscar un sitiu web
-
 permissions-capabilities-autoplay-allow =
     .label = Permitir l'audiu y videu
 permissions-capabilities-autoplay-block =
     .label = Bloquiar l'audiu
 permissions-capabilities-autoplay-blockall =
     .label = Bloquiar l'audiu y videu
-
 permissions-capabilities-allow =
     .label = Permitir
 permissions-capabilities-block =
     .label = Bloquiar
 permissions-capabilities-prompt =
     .label = Entrugar siempres
-
 permissions-capabilities-listitem-allow =
     .value = Permitir
 permissions-capabilities-listitem-block =
@@ -102,6 +87,9 @@ permissions-exceptions-saved-logins-window2 =
     .title = Esceiciones - Anicios de sesión guardaos
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Nun van guardase los anicios de sesión de los sitios web de darréu
+
+## Exceptions - Saved Passwords
+
 
 ## Exceptions - Add-ons
 

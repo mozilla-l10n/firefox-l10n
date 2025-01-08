@@ -4,7 +4,6 @@
 
 about-reader-loading = ஏற்றுகிறது...
 about-reader-load-error = பக்கத்தில் ஒரு கட்டுரையை ஏற்றுவதில் தோல்வி
-
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -16,7 +15,7 @@ about-reader-estimated-read-time =
        *[other] { $range } நிமிடங்கள்
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 
 ## These are the styles of typeface that are options in the reader view controls.
@@ -28,3 +27,14 @@ about-reader-font-type-sans-serif = ஸான்ஸ்-ஷெரிஃப்
 
 about-reader-toolbar-close = படித்தல் பார்வையை மூடு
 about-reader-toolbar-type-controls = கட்டுபாடுகள்
+
+## Reader View colors menu
+
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+
+## Reader View text and layout menu
+

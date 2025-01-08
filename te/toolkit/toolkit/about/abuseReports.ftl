@@ -10,16 +10,10 @@ abuse-report-cancel-button = రద్దుచేయి
 abuse-report-goback-button = వెనుకకు వెళ్ళు
 
 ## Message bars descriptions.
-
-
-## Variables:
-##   $addon-name (string) - Name of the add-on
-
-
-## Message bars descriptions.
 ##
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
+
 
 ## Message bars actions.
 

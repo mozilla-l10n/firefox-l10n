@@ -29,3 +29,7 @@ webext-perms-description-tabs = Səyyah vərəqlərinə baxmaq
 webext-perms-description-tabHide = Səyyah vərəqlərini gizlət və göstər
 webext-perms-description-topSites = Səyahət tarixçəsinə baxmaq
 webext-perms-description-webNavigation = Naviqasiya vaxtı səyyah aktivliyinə baxmaq
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

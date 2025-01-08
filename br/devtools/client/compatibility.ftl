@@ -42,8 +42,6 @@ compatibility-issue-occurrences =
         [many] { $number } occurrences
        *[other] { $number } occurrences
     }
-
 compatibility-no-issues-found = No compatibility issues found.
 compatibility-close-settings-button =
     .title = Close settings
-

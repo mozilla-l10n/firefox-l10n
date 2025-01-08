@@ -3,17 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 fxa-toolbar-sync-syncing2 = Sincronizando...
-
 sync-disconnect-dialog-button = Kene
-
 fxa-signout-dialog-body = Da datos nnaxi'ña kino nu cuenta noo'o.
-
 fxa-menu-connect-another-device =
     .label = Chu´un inka ka̱a̱…
-
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Sincronizado da ka̱a̱…
-
 fxa-menu-sign-out =
     .label = Kasɨ sesión…
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+

@@ -29,3 +29,7 @@ webext-perms-description-tabs = Teacht ar chluaisíní an bhrabhsálaí
 webext-perms-description-tabHide = Cluaisíní a chur i bhfolach nó a thaispeáint
 webext-perms-description-topSites = Teacht ar an stair bhrabhsála
 webext-perms-description-webNavigation = Teacht ar ghníomhaíocht an bhrabhsálaí le linn nascleanúna
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

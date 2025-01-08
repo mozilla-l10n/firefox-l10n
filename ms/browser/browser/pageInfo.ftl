@@ -4,19 +4,16 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
-
 copy =
     .key = C
 menu-copy =
     .label = Salin
     .accesskey = a
-
 select-all =
     .key = A
 menu-select-all =
     .label = Pilih Semua
     .accesskey = S
-
 general-tab =
     .label = Umum
     .accesskey = U
@@ -40,7 +37,6 @@ general-meta-name =
     .label = Nama
 general-meta-content =
     .label = Kandungan
-
 media-tab =
     .label = Media
     .accesskey = M
@@ -68,13 +64,11 @@ media-save-as =
 media-save-image-as =
     .label = Simpan Sebagai…
     .accesskey = e
-
 perm-tab =
     .label = Keizinan
     .accesskey = K
 permissions-for =
     .value = Keizinan untuk:
-
 security-tab =
     .label = Keselamatan
     .accesskey = S
@@ -95,22 +89,17 @@ security-view-identity-validity =
     .value = Luput pada:
 security-view-privacy =
     .value = Privasi & Sejarah
-
 security-view-privacy-history-value = Adakah saya pernah lawati laman web ini sebelum ini?
 security-view-privacy-sitedata-value = Adakah laman web ini menyimpan maklumat dalam komputer saya?
-
 security-view-privacy-clearsitedata =
     .label = Buang Kuki dan Data Laman
     .accesskey = B
-
 security-view-privacy-passwords-value = Adakah saya pernah simpan kata laluan bagi laman web ini?
-
 security-view-privacy-viewpasswords =
     .label = Papar Kata laluan yang Disimpan
     .accesskey = p
 security-view-technical =
     .value = Butiran Teknikal
-
 help-button =
     .label = Bantuan
 
@@ -122,7 +111,6 @@ help-button =
 
 security-site-data-cookies = Ya, kuki dan { $value } { $unit } data laman
 security-site-data-only = Ya, { $value } { $unit } data laman
-
 security-site-data-cookies-only = Ya, kuki
 security-site-data-no = Tidak
 
@@ -146,7 +134,6 @@ media-video = Video
 media-audio = Audio
 saved-passwords-yes = Ya
 saved-passwords-no = Tidak
-
 no-page-title =
     .value = Halaman Tak Bertajuk:
 general-quirks-mode =
@@ -161,14 +148,12 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Guna Piawai
 security-no-visits = Tidak
-
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = Imej { $type }
-
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -178,14 +163,12 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (berskala { $scaledx }px × { $scaledy }px)
-
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
-
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
@@ -197,16 +180,11 @@ media-file-size = { $size } KB
 
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
-# Variables:
-#   $website (string) - The website name
 media-block-image =
     .label = Sekat imej dari { $website }
     .accesskey = B
-
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
-# Variables:
-#   $website (string) - The url of the website pageInfo is getting info for
 page-info-page =
     .title = Info Halaman - { $website }
 page-info-frame =

@@ -9,6 +9,5 @@
 text-recognition-modal-searching-title = Nikanöx tz'ib' pa wachib'äl…
 text-recognition-modal-results-title = Xwachib'ëx tz'ib' pa wachib'äl
 text-recognition-modal-close-button = Titz'apïx
-
 # The title of the the modal is only available to screen readers.
 text-recognition-modal-accessible-modal-title = Ri xb'anatäj toq xk'am ri tz'ib'

@@ -6,7 +6,6 @@ tabmodalprompt-username =
     .value = Emër Përdoruesi:
 tabmodalprompt-password =
     .value = Fjalëkalim:
-
 tabmodalprompt-ok-button =
     .label = OK
 tabmodalprompt-cancel-button =

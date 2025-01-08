@@ -13,4 +13,3 @@
 # $row (integer) - The row index
 # $column (integer) - The column index
 grid-row-column-positions = Fila { $row } / columna { $column }
-

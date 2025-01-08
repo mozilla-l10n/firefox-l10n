@@ -4,27 +4,21 @@
 
 permissions-close-key =
     .key = w
-
 permissions-block =
     .label = Blokkeer
     .accesskey = B
-
 permissions-session =
     .label = Laat toe vir sessie
     .accesskey = s
-
 permissions-allow =
     .label = Laat toe
     .accesskey = L
-
 permissions-status =
     .label = Status
-
 permissions-capabilities-allow =
     .label = Laat toe
 permissions-capabilities-block =
     .label = Blokkeer
-
 permissions-capabilities-listitem-allow =
     .value = Laat toe
 permissions-capabilities-listitem-block =
@@ -56,6 +50,9 @@ permissions-exceptions-saved-logins-window2 =
     .title = Uitsonderings - Gestoorde aanmeldings
     .style = { permissions-window2.style }
 
+## Exceptions - Saved Passwords
+
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = U kan spesifiseer watter webwerwe toegelaat word om byvoegings te installeer. Tik die presiese webadres van die werf wat u wil toelaat en klik dan Laat toe.
@@ -76,6 +73,7 @@ permissions-exceptions-addons-desc = U kan spesifiseer watter webwerwe toegelaat
 
 
 ## Site Permissions - Microphone
+
 
 ## Site Permissions - Speaker
 ##

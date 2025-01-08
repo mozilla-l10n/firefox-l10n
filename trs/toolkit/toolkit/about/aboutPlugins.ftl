@@ -6,8 +6,6 @@ title-label = Rayi'i nej Plugins
 installed-plugins-label = Nga nu Plugins
 no-plugins-are-installed-label = Nitaj plugins nu
 deprecation-description = ¿Nu ruat sa nu ni'ñanj an an? Da'a ni nitaj si ni'ñan a' man. <a data-l10n-name="deprecation-link">Gahuin chrun doj</a>
-deprecation-description2 =
-    .message = ¿Nu ruat sa nu ni'ñanj an an? Da'a ni nitaj si ni'ñan a' man.
 
 ## The information of plugins
 ##

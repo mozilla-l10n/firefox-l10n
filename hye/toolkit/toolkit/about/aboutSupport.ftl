@@ -4,7 +4,6 @@
 
 page-title = Տեղեկատուութիւն խնդիրների լուծման համար
 page-subtitle = Այս էջը պարունակում է տեխնիկական ինֆորմացիայ, որը կարող է աւգտակար լինել, երբ դուք փորձում եք լուծել խնդիրը:Եթե դուք փնտրում եք { -brand-short-name }-ին վերաբերող ընդհանուր հարցերին պատասխաններ,փորձէք մեր <a data-l10n-name="support-link"> աջակցող կայքը </a>:
-
 crashes-title = Վթարի զեկոյցներ
 crashes-id = Զեկոյցի նոյնացուցիչ
 crashes-send-date = Ուղարկուած է
@@ -74,12 +73,10 @@ app-basics-safebrowsing-key-google = Google անվտանգ զննարկման բ
 app-basics-key-mozilla = Mozilla-ի տեղադրութեան ծառայութեան բանալի
 app-basics-safe-mode = Յուսալի կերպ
 app-basics-memory-size = Հիշողութիւն (RAM)
-
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
 app-basics-data-size = { $value }{ $unit }
-
 show-dir-label =
     { PLATFORM() ->
         [macos] Ցոյց տալ որոնիչում
@@ -165,6 +162,12 @@ media-capabilities-enumerate = Թուանշուած տուեալների բազ�
 
 ## Codec support table
 
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+
 ##
 
 intl-title = Միջազգայնացում եւ տեղայնացում
@@ -199,7 +202,6 @@ report-crash-for-days =
         [one] Վթարի մասին հաշուետուութիիւններ վերջին { $days } աւրում
        *[other] Վթարի զեկոյցները վերջին { $days } աւրում
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -207,7 +209,6 @@ crashes-time-minutes =
         [one] { $minutes } րոպե առաջ
        *[other] { $minutes } րոպե առաջ
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -215,7 +216,6 @@ crashes-time-hours =
         [one] { $hours } ժամ առաջ
        *[other] { $hours } ժամ առաջ
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -223,7 +223,6 @@ crashes-time-days =
         [one] { $days } աւր առաջ
        *[other] { $days } աւր առաջ
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -231,7 +230,6 @@ pending-reports =
         [one] Վթարի բոլոր զեկոյցները (ներառեալ նշուած ժամանակում { $reports } սպասող վթար)
        *[other] Վթարի բոլոր զեկոյցները (ներառեալ նշուած ժամանակում { $reports } սպասող վթարներ)
     }
-
 raw-data-copied = Չմշակուած տուեալները պատճենուել են սեղմատախտակի վրայ
 text-copied = Գրոյթը պատճենուած է սեղմատախտակի վրայ
 
@@ -244,11 +242,9 @@ blocked-mismatched-version = Արգելափակուած է ձեր գրաֆիկա
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Արգելուած է տեսասարքի սարքաւարի տարբերակի կողմից։ Փորձէք թարմացնել տեսաքարտի տարբերակը { $driverVersion }-ի կամ ավելի նորի։
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType-ի հարաչափեր
-
 compositing = Կազմում
 hardware-h264 = Սարքաշարի H264 ապակոդաւորում
 main-thread-no-omtc = հիմնական շղթա, ոչ OMTC
@@ -263,7 +259,6 @@ virtual-monitor-disp = Իրական ցուցասարքի ցուցադրում
 
 found = Գտնուել է
 missing = Բացակայում է
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Նկարագրութիւն
@@ -286,19 +281,15 @@ webgl2-renderer = WebGL 2 սարքաւարի նյութաւորիչ
 webgl2-version = WebGL 2 սարքաւարի տարբերակ
 webgl2-driver-extensions = WebGL 2 սարքաւարի ընդլայնումներ
 webgl2-extensions = WebGL 2 ընդլայնումներ
-
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Արգելափակուած է յայտնի խնդիրների պատճառով. <a data-l10n-name="bug-link"> վրիպակ { $bugNumber } </a>
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Արգելափակուած, ձախողուած կոդ՝ { $failureCode }
-
 d3d11layers-crash-guard = D3D11 կազմակերպիչ
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX  տեսանիւթի ապակոդաւորիչ
-
 reset-on-next-restart = Վերակայել յաջորդ վերամեկնարկումից յետոյ
 gpu-process-kill-button = Աւարտել GPU գործընթացը
 gpu-device-reset = Սարքի վերականգնում
@@ -308,10 +299,8 @@ content-uses-tiling = Կցաշարման աւգտագործման (Բովանդ�
 off-main-thread-paint-enabled = Հիմնական շղթայից դուրս գծագրումը թոյլատրուած է
 off-main-thread-paint-worker-count = Հիմնական շղթայից դուրս Գծագրման աշխատողների թիւը
 target-frame-rate = Թիրախային կադրի արագութիւն
-
 min-lib-versions = Ակնկալուող նուազագոյն տարբերակը
 loaded-lib-versions = Աւգտագործւող տարբերակը
-
 has-seccomp-bpf = Seccomp-BPF (System Call Filtering)
 has-seccomp-tsync = Seccomp շղթայի համաժամեցում
 has-user-namespaces = Աւգտագործողի անուանատարածքում
@@ -325,18 +314,15 @@ sandbox-proc-type-content = բովանդակութիւն
 sandbox-proc-type-file = Նիշքի բովանդակութիւն
 sandbox-proc-type-media-plugin = Տեսաբաղադրիչ
 sandbox-proc-type-data-decoder = Տուեալների վերծանիչ
-
 startup-cache-title = Գործարկման հիշապահեստ
 startup-cache-disk-cache-path = Պնակի հիշապահեստի ուղի
 startup-cache-ignore-disk-cache = Անտեսել հիշապահեստի պնակը
 startup-cache-found-disk-cache-on-init = Նույնականացման ընթացքում սկաւառակի հիշապահեստը յայտնաբերուել է
 startup-cache-wrote-to-disk-cache = Գրել սկաւառակի հիշապահեստին
-
 launcher-process-status-0 = Միացուած
 launcher-process-status-1 = Անջատուած է ձախողման պատճառով
 launcher-process-status-2 = Ստիպողաբար անջատուած
 launcher-process-status-unknown = Անյայտ վիճակ
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -356,7 +342,6 @@ fission-status-enabled-by-user-pref = Միացուած է աւգտուողի կ�
 fission-status-disabled-by-user-pref = Անջատուած է աւգտուողի կողմից
 fission-status-disabled-by-e10s-other = E10s -ն անջատուած է
 fission-status-enabled-by-rollout = Միացուած փուլային գլորման կողմից
-
 async-pan-zoom = Չհամաժամեցուած շեղում/խոշորացում
 apz-none = չկայ
 wheel-enabled = ղեկասարքային ներմուծումը միացուած է
@@ -387,13 +372,21 @@ support-printing-modified-settings = Տպիչի փոփոխուած կարգաւ�
 support-printing-prefs-name = Անուանումը
 support-printing-prefs-value = Արժէքը
 
+## Remote Settings sections
+
+
 ## Normandy sections
 
 support-remote-experiments-title = Հեռակայ փորձեր
 support-remote-experiments-name = Անուն
 support-remote-experiments-branch = Փորձարարական անցում
 support-remote-experiments-see-about-studies = Տես <a data-l10n-name="support-about-studies-link"> about:studies </a> յաւելեալ տեղեկութեան համար, ներառեալ՝ առանձին փորձնական գործընթացների անջատման կամ { -brand-short-name }-ին հետագայում նմանատիպ փորձարկումների իրականացնելու արգելման համար։
-
 support-remote-features-title = Հեռակայ յատկութիւններ
 support-remote-features-name = Անուն
 support-remote-features-status = Կարգավիճակ
+
+## Pointing devices
+
+
+## Content Analysis (DLP)
+

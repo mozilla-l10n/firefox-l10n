@@ -135,6 +135,5 @@ genai-onboarding-gemini-price = Doako eta ordainpeko aukerak; kontua beharrezkoa
 genai-onboarding-huggingchat-generate = Sortu testua eta kodea
 genai-onboarding-huggingchat-switch = Aldatu modelo irekien sorta anitzen artean
 genai-onboarding-huggingchat-price-2 = Doakoa; kontua behar da eskaera kopuru jakin baten ondoren
-genai-onboarding-huggingchat-price = Doakoa; kontua beharrezkoa da zenbait atazentzat
 genai-onboarding-lechat-generate = Sortu testua eta kodea
 genai-onboarding-lechat-price = Doakoa; kontua beharrezkoa da

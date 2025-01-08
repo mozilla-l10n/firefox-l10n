@@ -22,13 +22,3 @@ webconsole-commands-usage-unblock =
     停止封鎖網路請求
     
       只接受一組參數，必須與原始傳送給 :block 的封鎖字串完全相同。
-# Usage string for :trace command
-webconsole-commands-usage-trace =
-    :trace
-    
-    切換 JavaScript 追蹤紀錄器
-    
-      支援下列參數：
-        --logMethod 設定為 ‘console’，即可記錄至網頁主控台（預設值），或 ‘stdout’ 即可記錄至標準輸出
-        --prefix 在所有追蹤記錄中要加入的前綴字串（選填）
-        --help 或 --usage 顯示本訊息

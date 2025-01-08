@@ -117,7 +117,7 @@ containers-disable-alert-ok-button =
 containers-disable-alert-cancel-button = સક્ષમ રાખો
 containers-remove-alert-title = આ કન્ટેઈનર દૂર કરીએ?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] જો તમે આ કન્ટેઈનરને હમણા દૂર કરો છો, તો { $count } કન્ટેનર ટેબ બંધ થઈ જશે. શું તમે ખરેખર આ કન્ટેઈનરને દૂર કરવા માંગો છો?
@@ -211,11 +211,11 @@ applications-manage-app =
 applications-always-ask =
     .label = હંમેશા પૂછો
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } વાપરો ({ -brand-short-name } માં)
 
@@ -245,6 +245,8 @@ play-drm-content =
 play-drm-content-learn-more = વધુ શીખો
 update-application-title = { -brand-short-name } સુધારો
 update-application-description = શ્રેષ્ઠ પ્રદર્શન, સ્થિરતા અને સુરક્ષા માટે { -brand-short-name } અધતન રાખો.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = આવૃત્તિ { $version } <a data-l10n-name="learn-more">નવું શું છે</a>
 update-history =
     .label = અપડેટ ઇતિહાસ બતાવો…
@@ -279,7 +281,7 @@ performance-limit-content-process-option = સામગ્રી પ્રક્
 performance-limit-content-process-enabled-desc = બહુવિધ ટૅબ્સનો ઉપયોગ કરતી વખતે વધારાની સામગ્રી પ્રક્રિયાઓ પ્રભાવ સુધારી શકે છે, પરંતુ તે વધુ મેમરીનો પણ ઉપયોગ કરશે.
 performance-limit-content-process-blocked-desc = મલ્ટિપ્રોસેસ સાથે સામગ્રી પ્રોસેસની સંખ્યામાં ફેરફાર કરવો શક્ય છે { -brand-short-name }. <a data-l10n-name="learn-more">મલ્ટિપ્રોસેસ સક્રિય કરે છે કે નહીં તે કેવી રીતે તપાસવું તે જાણો</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (મૂળભૂત)
 
@@ -353,11 +355,8 @@ choose-bookmark =
 home-prefs-search-header =
     .label = વેબ શોધ
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
-# Variables:
-#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } દ્વારા ભલામણ
 
@@ -380,6 +379,8 @@ home-prefs-highlights-option-saved-to-pocket =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = જાણકારી આપનારા ઉતારા ક કાપલીઓ
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -425,7 +426,7 @@ search-find-more-link = વધુ શોધ યંત્ર શોધો
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = નકલી મુખ્ય શબ્દ
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = તમે પસંદ કરેલ મુખ્ય શબ્દ વર્તમાનમાં "{ $name }" દ્વારા વપરાશમાં છે. મહેરબાની કરીને અન્ય પસંદ કરો.
 search-keyword-warning-bookmark = તમે પસંદ કરેલ મુખ્ય શબ્દ વર્તમાનમાં બુકમાર્ક દ્વારા વપરાશમાં છે. મહેરબાની કરીને અન્ય પસંદ કરો.
 
@@ -544,6 +545,7 @@ privacy-header = બ્રાઉઝર ગોપનીયતા
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = લૉગ-ઇન્સ અને પાસવર્ડ્સ
     .searchkeywords = { -lockwise-brand-short-name }
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = વેબસાઇટ્સ માટે લૉગિન અને પાસવર્ડ્સ સાચવવા માટે પૂછો
     .accesskey = r
@@ -556,6 +558,9 @@ forms-exceptions =
 forms-saved-logins =
     .label = સાચવેલા લૉગિન્સ…
     .accesskey = L
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = મુખ્ય પાસવર્ડ બદલો...
     .accesskey = M
@@ -613,8 +618,8 @@ history-clear-button =
 sitedata-header = કૂકીઝ અને સાઈટ ડેટા
 sitedata-total-size-calculating = સાઇટ ડેટા અને કેશ કદની ગણતરી કરી રહ્યું છે…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = તમારી સંગ્રહિત કૂકીઝ, સાઇટ ડેટા અને કેશ હાલમાં { $value } { $unit } જગ્યા નો ઉપયોગ કરી રહ્યાં છે.
 sitedata-learn-more = વધુ શીખો
 sitedata-delete-on-close =

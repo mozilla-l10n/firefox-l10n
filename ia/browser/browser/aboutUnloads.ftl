@@ -16,16 +16,13 @@ about-unloads-intro =
     qual scheda essera evacuate quando le evacuation de schedas es actionate.
     Tu pote actionar manualmente le evacuation de schedas cliccante le button
     <em>Evacuar</em> infra.
-
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more = Vide <a data-l10n-name="doc-link">Evacuation de schedas</a> pro saper plus sur le function e sur iste pagina.
-
 about-unloads-last-updated = Ultime actualisation: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Evacuar
     .title = Evacua le scheda con le maxime prioritate
 about-unloads-no-unloadable-tab = Il non ha schedas evacuabile.
-
 about-unloads-column-priority = Prioritate
 about-unloads-column-host = Hospite
 about-unloads-column-last-accessed = Ultime accesso
@@ -37,7 +34,6 @@ about-unloads-column-memory = Memoria
     .title = Uso estimate de memoria per le scheda
 about-unloads-column-processes = IDs de processo
     .title = IDs del processos que da hospitalitate al contento del scheda
-
 about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } MB
 about-unloads-memory-in-mb-tooltip =

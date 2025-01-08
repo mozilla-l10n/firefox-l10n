@@ -103,7 +103,6 @@ print-window =
     .title = Impression
 print-complete =
     .value = L'impression es acabada.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

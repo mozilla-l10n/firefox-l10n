@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = El { -relay-brand-name } no ha pogut generar una màscara nova. Codi d'error HTTP: { $status }.
 firefox-relay-get-reusable-masks-failed = El { -relay-brand-name } no ha trobat cap màscara reutilitzable. Codi d'error HTTP: { $status }.
 
-##
+## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = Cal que inicieu la sessió al { -fxaccount-brand-name } per a utilitzar el { -relay-brand-name }.
 firefox-relay-must-login-to-account = Inicieu la sessió al vostre compte per utilitzar les màscares d'adreça electrònica del { -relay-brand-name }.
@@ -33,3 +33,15 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Ara no
     .accesskey = n
+
+## The "control" variation of the Relay offer popup
+
+
+## The "basic-info" variation of the Relay offer popup
+
+
+## The "with-domain" variation of the Relay offer popup
+
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+

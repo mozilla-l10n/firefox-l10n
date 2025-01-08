@@ -4,6 +4,5 @@
 
 notification-learnmore-default-label =
     .value = مزید سیکھیں
-
 close-notification-message =
     .tooltiptext = یہ پیغام بند کریں

@@ -29,7 +29,6 @@ appmenuitem-more-tools =
     .label = Повеќе алатки
 appmenuitem-help =
     .label = Помош
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -48,21 +47,16 @@ appmenuitem-fullscreen =
 
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Нема отворени јазичиња
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Вклучете синхронизација на јазичиња за да видите листа на јазичињата од вашите други уреди.
-
 appmenu-remote-tabs-opensettings =
     .label = Поставки
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Сакате да ги видите вашите јазичиња од други уреди овде?
-
 appmenuitem-fxa-toolbar-sync-now2 = Синхронизирај сега
 appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
 appmenu-fxa-signed-in-label = Најавете се
-
 appmenuitem-save-page =
     .label = Сними страница како…
 
@@ -75,13 +69,10 @@ whatsnew-panel-header = Што е ново
 ## "Enable Profiler Menu Button".
 
 profiler-popup-header-text = { -profiler-brand-name }
-
 profiler-popup-learn-more-button =
     .label = Дознајте повеќе
-
 profiler-popup-settings =
     .value = Поставки
-
 profiler-popup-discard-button =
     .label = Отфрли
 
@@ -90,11 +81,12 @@ profiler-popup-discard-button =
 
 
 # Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/popup/background.jsm.js
+# devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+
 # Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
+# devtools/client/performance-new/shared/background.sys.mjs
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
 profiler-popup-presets-graphics-label =
@@ -127,4 +119,10 @@ appmenu-about =
 
 
 ## More Tools
+
+
+## Panel for privacy and security products
+
+
+## Profiles panel
 

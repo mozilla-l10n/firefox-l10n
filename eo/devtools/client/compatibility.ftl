@@ -39,11 +39,9 @@ compatibility-issue-occurrences =
         [one] { $number } apero
        *[other] { $number } aperoj
     }
-
 compatibility-no-issues-found = Neniu kongrueca problemo trovita.
 compatibility-close-settings-button =
     .title = Fermi agordojn
-
 # Text used in the element containing the browser icons for a given compatibility issue.
 # Line breaks are significant.
 # Variables:

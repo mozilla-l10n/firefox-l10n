@@ -33,8 +33,6 @@ about-webrtc-aec-logging-toggled-off-state-msg = Dnevniške datoteke zajema lahk
 
 # The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Samodejno osvežuj
-# Determines the default state of the Auto Refresh check boxes
-about-webrtc-auto-refresh-default-label = Privzeto samodejno osvežuj
 # A button which forces a refresh of displayed statistics
 about-webrtc-force-refresh-button = Osveži
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
@@ -191,6 +189,13 @@ about-webrtc-configuration-element-provided = Podano
 about-webrtc-configuration-element-not-provided = Ni podano
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Uporabniške nastavitve WebRTC
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+
+##
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Ocenjena pasovna širina
 # The estimated bandwidth available for sending WebRTC media in bytes per second
@@ -203,10 +208,7 @@ about-webrtc-receive-bandwidth-bytes-sec = Pasovna širina prejemanja (bitov/s)
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Statistika sličice videa – ID MediaStreamTrack: { $track-identifier }
 
-## These are paths used for saving the about:webrtc page or log files so
-## they can be attached to bug reports.
-## Variables:
-##  $path (String) - The path to which the file is saved.
+##
 
 about-webrtc-save-page-msg = stran shranjena na: { $path }
 about-webrtc-debug-mode-off-state-msg = dnevnik sledenja lahko najdete na: { $path }
@@ -298,9 +300,6 @@ about-webrtc-sdp-set-timestamp = Časovni žig { NUMBER($timestamp, useGrouping:
 
 about-webrtc-show-msg-sdp = Prikaži SDP
 about-webrtc-hide-msg-sdp = Skrij SDP
-
-##
-
 
 ## These are displayed on the button that shows or hides the Media Context information disclosure.
 ## The Media Context is the set of preferences and detected capabilities that informs

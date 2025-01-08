@@ -135,7 +135,7 @@ confirm-on-close-multiple-tabs =
     .accesskey = P
 # This string is used for the confirm before quitting preference.
 # Variables:
-#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
@@ -180,7 +180,7 @@ containers-disable-alert-ok-button =
 containers-disable-alert-cancel-button = Ôstow załōnczōne
 containers-remove-alert-title = Wyciepać tyn kōntyner?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Jak teroz wyciepniesz tyn kōntyner, { $count } kōntynerowo karta sie zawrze. Na zicher chcesz wyciepać tyn kōntyner?
@@ -232,6 +232,8 @@ advanced-fonts =
 preferences-zoom-header = Srogość strōn
 preferences-default-zoom = Wychodno srogość
     .accesskey = z
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
@@ -324,15 +326,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Zawdy sie pytej
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Użyj { $plugin-name } (we aplikacyji { -brand-short-name })
 applications-open-inapp =
@@ -375,6 +377,8 @@ play-drm-content =
 play-drm-content-learn-more = Przewiydz sie wiyncyj
 update-application-title = Aktualizacyje aplikacyje { -brand-short-name }
 update-application-description = Trzimej aplikacyjo { -brand-short-name } durch aktualno, coby mieć nojwiynkszo gibkość, stabilność i bezpieczyństwo.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Wersyjo { $version }  <a data-l10n-name="learn-more">Co je nowego</a>
 update-history =
     .label = Pokoż historyjo aktualizacyjōw
@@ -401,7 +405,7 @@ update-application-suppress-prompts =
     .accesskey = m
 update-setting-write-failure-title2 = Feler przi spamiyntowaniu sztalōnkōw aktualizacyji
 # Variables:
-#   $path (String) - Path to the configuration file
+#   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
@@ -431,7 +435,7 @@ performance-limit-content-process-option = Limit procesōw zawartości
 performance-limit-content-process-enabled-desc = Wiyncyj procesōw zawartości może polepszyć sprowność przi używaniu mocki kart, ale tyż potrzebuje wiyncyj pamiyńci.
 performance-limit-content-process-blocked-desc = Zmiana wielości procesōw zawartości je możliwo ino z usugōm multiprocess aplikacyje { -brand-short-name }. <a data-l10n-name="learn-more">Przewiydz sie, jak badnōnć, jeźli multiprocess je załōnczōny</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (bazowo)
 
@@ -526,8 +530,7 @@ home-prefs-shortcuts-description = Spamiyntane i nawiydzane strōny
 home-prefs-shortcuts-by-option-sponsored =
     .label = Spōnsorowane skrōty
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Rykōmyndowane ôd { $provider }
@@ -556,6 +559,8 @@ home-prefs-recent-activity-description = Wybōr z niydownych strōn i zawartośc
 home-prefs-snippets-header =
     .label = Krōtkie informacyje
 home-prefs-snippets-description-new = Dorady i nowiny ze { -vendor-short-name } a aplikacyje { -brand-product-name }
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -616,7 +621,7 @@ search-find-more-link = Znojdź wiyncyj wyszukowarek
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Stuplowane kluczowe słowo
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Ôbranego kluczowego słowa używo teroz “{ $name }”. Ôbier jakie inksze.
 search-keyword-warning-bookmark = Ôbranego kluczowego słowa używo teroz zokłodka. Ôbier jakie inksze.
 
@@ -898,8 +903,8 @@ history-clear-button =
 sitedata-header = Cookies i dane strōn
 sitedata-total-size-calculating = Rachowanie danych strōn i srogości podryncznyj pamiyńci…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Spamiyntane cookies, dane strōn i podrynczno pamiyńć używajōm { $value }{ $unit } przestrzyństwa dysku.
 sitedata-learn-more = Przewiydz sie wiyncyj
 sitedata-delete-on-close =

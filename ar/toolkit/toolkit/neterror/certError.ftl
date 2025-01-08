@@ -108,3 +108,10 @@ networkProtocolError-title = عُطل في بروتوكول الشبكة
 nssBadCert-title = تحذير: أمامك خطر أمني محتمل
 nssBadCert-sts-title = لم يجري الاتصال: مشكلة أمنية محتملة
 certerror-mitm-title = تمنع البرمجية { -brand-short-name } من الاتصال بهذا الموقع بطريقة آمنة
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+

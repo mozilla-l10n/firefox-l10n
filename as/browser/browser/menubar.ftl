@@ -253,6 +253,9 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = ম'বাইল বুকমাৰ্কসমূহ
 
+## Profiles Menu
+
+
 ## Tools Menu
 
 menu-tools =

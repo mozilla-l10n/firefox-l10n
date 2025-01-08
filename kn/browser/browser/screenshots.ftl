@@ -5,10 +5,15 @@
 screenshots-cancel-button = ರದ್ದುಗೊಳಿಸು
 screenshots-download-button = ಡೌನ್‌ಲೋಡ್
 screenshots-copy-button = ನಕಲಿಸು
-
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
        *[other] Ctrl
     }
+
+## The below strings are used to capture keydown events so the strings should
+## not be changed unless the keyboard layout in the locale requires it.
+
+
+##
 

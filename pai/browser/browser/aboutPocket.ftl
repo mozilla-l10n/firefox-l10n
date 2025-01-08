@@ -15,7 +15,9 @@ pocket-panel-signup-learn-more = Terabum Ŕpo
 
 ## about:pocket-home panel
 
+
 ## Pocket panel header component
+
 
 ## Pocket panel buttons
 

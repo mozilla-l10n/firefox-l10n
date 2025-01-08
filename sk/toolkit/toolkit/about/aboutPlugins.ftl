@@ -6,8 +6,6 @@ title-label = Zásuvné moduly
 installed-plugins-label = Nainštalované zásuvné moduly
 no-plugins-are-installed-label = Žiadne nainštalované zásuvné moduly
 deprecation-description = Chýba vám tu niečo? Niektoré zásuvné moduly už nie sú podporované. <a data-l10n-name="deprecation-link">Ďalšie informácie.</a>
-deprecation-description2 =
-    .message = Chýba vám tu niečo? Niektoré zásuvné moduly už nie sú podporované.
 
 ## The information of plugins
 ##

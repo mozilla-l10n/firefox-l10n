@@ -163,11 +163,11 @@ applications-manage-app =
 applications-always-ask =
     .label = Hãa waati kul
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Goy nda { $plugin-name } ({ -brand-short-name } ra)
 
@@ -266,8 +266,7 @@ choose-bookmark =
 ## Home Section - Firefox Home Content Customization
 
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 
 ##
@@ -294,7 +293,7 @@ search-remove-engine =
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Kufalkalima filla
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = War na kufalkalima suuba kaŋ goo goy ra "{ $name }" se sohõda. Wa itana foo suuba.
 search-keyword-warning-bookmark = War na kufalkalima suuba kaŋ goo goy ra doo-šilbay se sohõda. Taare iwaani suuba.
 
@@ -393,6 +392,9 @@ forms-exceptions =
 forms-saved-logins =
     .label = Huruyan maa gaabuntey…
     .accesskey = m
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Takaddaɲaa šennikufal barmay
     .accesskey = T

@@ -31,8 +31,6 @@ about-webrtc-aec-logging-toggled-off-state-msg = Kaapatut lokitiedostot kohteess
 
 # The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Automaattinen päivitys
-# Determines the default state of the Auto Refresh check boxes
-about-webrtc-auto-refresh-default-label = Automaattinen päivitys oletuksena
 # A button which forces a refresh of displayed statistics
 about-webrtc-force-refresh-button = Päivitä
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
@@ -190,6 +188,13 @@ about-webrtc-configuration-element-provided = Annettu
 about-webrtc-configuration-element-not-provided = Ei annettu
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Käyttäjän asettamat WebRTC-asetukset
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+
+##
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Arvioitu kaistanleveys
 # The ID of the MediaStreamTrack
@@ -211,10 +216,7 @@ about-webrtc-round-trip-time-ms = RTT ms
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Videon kehystilastot - MediaStreamTrack-tunniste: { $track-identifier }
 
-## These are paths used for saving the about:webrtc page or log files so
-## they can be attached to bug reports.
-## Variables:
-##  $path (String) - The path to which the file is saved.
+##
 
 about-webrtc-save-page-msg = sivu tallennettu kohteeseen: { $path }
 about-webrtc-debug-mode-off-state-msg = jäljitysloki kohteessa: { $path }
@@ -296,9 +298,6 @@ about-webrtc-sdp-set-timestamp = Aikaleima { NUMBER($timestamp, useGrouping: "fa
 
 about-webrtc-show-msg-sdp = Näytä SDP
 about-webrtc-hide-msg-sdp = Piilota SDP
-
-##
-
 
 ## These are displayed on the button that shows or hides the Media Context information disclosure.
 ## The Media Context is the set of preferences and detected capabilities that informs

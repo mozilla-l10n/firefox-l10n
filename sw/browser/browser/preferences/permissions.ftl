@@ -4,27 +4,21 @@
 
 permissions-close-key =
     .key = w
-
 permissions-block =
     .label = Zuia
     .accesskey = Z
-
 permissions-session =
     .label = Ruhusu kwa Kipindi
     .accesskey = K
-
 permissions-allow =
     .label = Ruhusu
     .accesskey = R
-
 permissions-status =
     .label = Hadhi
-
 permissions-capabilities-allow =
     .label = Ruhusu
 permissions-capabilities-block =
     .label = Zuia
-
 permissions-capabilities-listitem-allow =
     .value = Ruhusu
 permissions-capabilities-listitem-block =
@@ -45,6 +39,7 @@ permissions-invalid-uri-label = Tafadhali ingiza jina sahihi la mwenyeji
 
 ## Exceptions - HTTPS-Only Mode
 
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = Unaweza kubainisha ni wavuti gani zinaruhusiwa kufungua dirisha kidukizo. Andika anwani sahihi ya tovuti unayotaka kuruhusu na kisha bofya Ruhusu.
@@ -52,14 +47,15 @@ permissions-exceptions-popup-desc = Unaweza kubainisha ni wavuti gani zinaruhusi
 ## Exceptions - Saved Logins
 
 
+## Exceptions - Saved Passwords
+
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = Unaweza kubainisha ni wavuti gani zinaruhusiwa kusakinisha programu jalizi. Andika anwani sahihi ya tovuti unayotaka kuruhusu na kisha bofya Ruhusu.
 
-## Exceptions - Autoplay Media
-
-
 ## Site Permissions - Autoplay
+
 
 ## Site Permissions - Notifications
 
@@ -69,10 +65,12 @@ permissions-exceptions-addons-desc = Unaweza kubainisha ni wavuti gani zinaruhus
 
 ## Site Permissions - Virtual Reality
 
+
 ## Site Permissions - Camera
 
 
 ## Site Permissions - Microphone
+
 
 ## Site Permissions - Speaker
 ##

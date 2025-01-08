@@ -17,17 +17,17 @@ protections-panel-etp-more-info =
     .aria-label = Kengaytirilgan kuzatuvdan himoya haqida batafsil
 protections-panel-etp-on-header = Bu sayt uchun kengaytirilgan kuzatuvdan himoya yoniq
 protections-panel-etp-off-header = Bu sayt uchun kengaytirilgan kuzatuvdan himoya oʻchiq
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Sayt ishlamayaptimi?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Sayt ishlamayaptimi?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Sayt ishlamayaptimi?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Sayt ishlamayaptimi?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -57,6 +57,9 @@ protections-panel-content-blocking-fingerprinters-label = Raqamli imzo yigʻuvch
 protections-panel-blocking-label = Bloklangan
 protections-panel-not-blocking-label = Ruxsat berilgan
 protections-panel-not-found-label = Hech narsa aniqlanmadi
+
+## Smartblock strings
+
 
 ##
 
@@ -88,7 +91,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Buzilgan sayt haqida xabar berish
 protections-panel-content-blocking-breakage-report-view-description = Ayrim kuzatuvchilarni bloklasangiz, baʼzi saytlarda muammo paydo boʻlishi mumkin. Bu muammo haqida xabar berish bilan siz { -brand-short-name }ni yaxshilashda yordam bergan hisoblanasiz. Bu hisobot bilan birga URL manzili va brauzeringiz sozlamalari haqidagi maʼlumotlar ham Mozillaga yuboriladi <label data-l10n-name="learn-more">Batafsil</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Ayrim kuzatuvchilarni bloklasangiz, baʼzi saytlarda muammo paydo boʻlishi mumkin. Bu muammo haqida xabar berish bilan siz { -brand-short-name }ni yaxshilashda yordam bergan hisoblanasiz. Bu hisobot bilan birga URL manzili va brauzeringiz sozlamalari haqidagi maʼlumotlar ham { -vendor-short-name }ga yuboriladi
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL

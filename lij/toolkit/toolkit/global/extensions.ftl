@@ -22,7 +22,6 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Anulla
     .accesskey = A
-
 webext-perms-sideload-text = Un atro programma into computer o l'à instalou 'n conponente azonto che peu ronpe a-o teu navegatô. Pe piaxei amia torna e domande de permisso e çerni se Abilitâ o Scancelâ (òscia lascialo dizabiltou).
 webext-perms-sideload-text-no-perms = Un atro programma into computer o l'à instalou 'n conponente azonto che peu ronpe a-o teu navegatô. Pe piaxei çerni se Abilitâ o Scancelâ (òscia lascialo dizabiltou).
 webext-perms-sideload-enable =
@@ -31,11 +30,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Anulla
     .accesskey = A
-
 webext-perms-update-accept =
     .label = Agiorna
     .accesskey = A
-
 webext-perms-optional-perms-list-intro = O veu:
 webext-perms-optional-perms-allow =
     .label = Permetti
@@ -43,13 +40,10 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = No permette
     .accesskey = N
-
 webext-perms-host-description-all-urls = Accesso a-i teu dæti pe tutti i sciti
-
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Accesso a-i teu dæti pe-o dòminio { $domain }
-
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -61,7 +55,6 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Accesso a-i teu dæti pe { $domain }
-
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.

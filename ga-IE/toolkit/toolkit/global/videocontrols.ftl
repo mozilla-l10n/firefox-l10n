@@ -16,16 +16,16 @@ videocontrols-exitfullscreen-button =
     .aria-label = Fág Mód Lánscáileáin
 videocontrols-casting-button-label =
     .aria-label = Craol ar an Scáileán
+# .offlabel is processed by the video control custom element to be used
+# as a text-track label
 videocontrols-closed-caption-off =
     .offlabel = Múchta
-
 videocontrols-error-aborted = Stopadh lódáil an fhíseáin.
 videocontrols-error-network = Stopadh athsheinm an fhíseáin mar gheall ar earráid líonra.
 videocontrols-error-decode = Ní féidir an físeán a sheinm toisc go bhfuil an comhad truaillithe.
 videocontrols-error-src-not-supported = Ní thacaítear leis an bhformáid fhíse nó leis an gcineál MIME.
 videocontrols-error-no-source = Níor aimsíodh aon fhíseán a dtacaítear lena fhormáid agus lena chineál MIME.
 videocontrols-error-generic = Stopadh athsheinm an fhíseáin mar gheall ar earráid anaithnid.
-
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -39,4 +39,3 @@ videocontrols-error-generic = Stopadh athsheinm an fhíseáin mar gheall ar earr
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
-

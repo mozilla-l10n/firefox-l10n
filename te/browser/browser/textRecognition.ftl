@@ -7,4 +7,3 @@
 ## in an image, and copies the results to the clipboard.
 
 text-recognition-modal-close-button = మూసివేయి
-

@@ -3,12 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Note: This is currently placed under browser/base/content so that we can
-# get the strings to appear without having our localization community need
-# to go through and translate everything. Once these strings are ready for
-# translation, we'll move it to the locales folder.
-
-
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
@@ -27,7 +21,6 @@ webrtc-item-browser = ផ្ទាំង
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = មិន​ស្គាល់​ប្រភព​ដើម
-
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -69,32 +62,26 @@ webrtc-indicator-menuitem-control-sharing =
     .label = ពិនិត្យមើល​ការ​ចែករំលែក
 webrtc-indicator-menuitem-control-sharing-on =
     .label = ពិនិត្យមើល​ការ​ចែករំលែក​នៅ​លើ "{ $streamTitle }"
-
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = ចែករំលែក​ម៉ាស៊ីន​ថត​ជាមួយ "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
     .label = ចែករំលែក​កាមេរ៉ា​​ជាមួយ​ផ្ទាំង { $tabCount }
-
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = ចែករំលែក​មីក្រូហ្វូន​ជាមួយ "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
     .label = ចែករំលែក​មីក្រូហ្វូន​ជាមួយ​ផ្ទាំង { $tabCount }
-
 webrtc-indicator-menuitem-sharing-application-with =
     .label = ចែករំលែក​កម្មវិធី​ជាមួយ "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
     .label = ចែករំលែក​កម្មវិធី​ជាមួយ​ផ្ទាំង { $tabCount }
-
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = ចែករំលែក​​អេក្រង់​ជាមួយ "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
     .label = ចែក​រំលែក​​អេក្រង់​ជាមួយ​ផ្ទាំង { $tabCount }
-
 webrtc-indicator-menuitem-sharing-window-with =
     .label = ចែករំលែក​បង្អួច​ជាមួយ "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
     .label = ចែករំលែក​បង្អួច​​ជាមួយ​ផ្ទាំង { $tabCount }
-
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = ចែករំលែក​ផ្ទាំង​​ជាមួយ "{ $streamTitle }"
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -104,6 +91,9 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
+
+
+## Special phrasing for sharing devices when the origin is a file url.
 
 
 ## Variables:
@@ -132,7 +122,6 @@ webrtc-action-allow =
 ##
 
 webrtc-remember-allow-checkbox = ចងចាំ​ការ​សម្រេចចិត្ត​នេះ
-
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } មិន​អាច​អនុញ្ញាត​ឲ្យ​ចូលប្រើប្រាស់​អេក្រង់​របស់​អ្នក​​ជាអចិន្ត្រៃយ៍​។
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } មិន​អាច​អនុញ្ញាត​ឲ្យ​ចូលស្ដាប់​សំឡេង​ក្នុង​ផ្ទាំង​របស់​អ្នក​រហូត ដោយ​មិន​សួរ​អ្វី​មួយ​ត្រូវ​ចែករំលែក​នោះ​ទេ។
 webrtc-reason-for-no-permanent-allow-insecure = ការ​តភ្ជាប់​បណ្ដាញ​របស់​អ្នក​ទៅ​ទំព័រ​នេះ​មិន​មាន​សុវត្ថិភាព​ទេ។ ដើម្បី​ការពារ​អ្នក { -brand-short-name } នឹង​អនុញ្ញាត​តែ​ការ​ចូល​សម្រាប់​ពេល​នេះ​ទេ។

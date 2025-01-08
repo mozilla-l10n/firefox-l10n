@@ -4,14 +4,12 @@
 
 about-reader-loading = Nisamäj…
 about-reader-load-error = Man xtikïr ta rik'in ri rusamajixik ri cholna'oj pa ri ruxaq
-
 about-reader-color-scheme-light = Yuk'unel
     .title = Ruchib'al Säq B'onil
 about-reader-color-scheme-dark = Q'equ'm
     .title = Ruchib'al Q'ëq B'onil
 about-reader-color-scheme-sepia = Sepya
     .title = Ruchib'al Sepya' B'onil
-
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -23,7 +21,7 @@ about-reader-estimated-read-time =
        *[other] { $range } taq ch'utiramaj
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = Tich'utinirisäx Rupalem Tz'ib'
@@ -48,3 +46,14 @@ about-reader-font-type-sans-serif = Sans-serif
 about-reader-toolbar-close = Titz'apïx rutz'etik sik'inïk
 about-reader-toolbar-type-controls = Chajinela' richin tz'ib'
 about-reader-toolbar-savetopocket = Tiyak Pa { -pocket-brand-name }
+
+## Reader View colors menu
+
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+
+## Reader View text and layout menu
+

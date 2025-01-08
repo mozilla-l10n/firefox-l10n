@@ -154,11 +154,11 @@ applications-manage-app =
 applications-always-ask =
     .label = अरायबो सों
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } खौ ({ -brand-short-name } आव) बाहाय
 
@@ -201,7 +201,7 @@ performance-allow-hw-accel =
     .label = थायोब्ला हार्डवेयार खारथाय बांलांनायखौ बाहाय
     .accesskey = r
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (डिफल्ट)
 
@@ -260,11 +260,8 @@ choose-bookmark =
 home-prefs-search-header =
     .label = वेबौ नागिर
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
-# Variables:
-#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } आ बसोन होनाइ
 
@@ -285,6 +282,8 @@ home-prefs-highlights-option-saved-to-pocket =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = स्निपेटफोर
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -313,7 +312,7 @@ search-remove-engine =
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = डुप्लिकेट गाहाय सोदोब
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = नोंथाङा बावैसो "{ $name }" जों बाहायजानाय मोनसे गाहाय सोदोबखौ बासिखबाय। अननानै गुबुन मोनसे सायख।
 search-keyword-warning-bookmark = नोंथाङा बावैसो बुकमार्कजों बाहायजानाय मोनसे गाहाय सोदोबखौ बासिखबाय। अननानै गुबुन मोनसे सायख।
 
@@ -396,6 +395,9 @@ forms-breach-alerts-learn-more-link = गोबां सोलों
 forms-saved-logins =
     .label = थिना दोनखानाय लगिनफोर...
     .accesskey = L
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = मा्स्थार बारग'सोदोबखौ सोलाय...
     .accesskey = म

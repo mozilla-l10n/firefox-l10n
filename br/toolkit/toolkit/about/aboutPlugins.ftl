@@ -6,8 +6,6 @@ title-label = A-zivout an enlugelladoù
 installed-plugins-label = Enlugelladoù staliet
 no-plugins-are-installed-label = Enlugellad ebet staliet
 deprecation-description = Mankout a ra un dra bennak? Ul lodenn eus an enlugelladoù n'int ket skoret ken. <a data-l10n-name="deprecation-link">Gouzout hiroc'h.</a>
-deprecation-description2 =
-    .message = Mankout a ra un dra bennak? Ul lodenn eus an enlugelladoù n'int ket skoret ken.
 
 ## The information of plugins
 ##

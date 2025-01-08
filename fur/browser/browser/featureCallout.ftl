@@ -64,3 +64,6 @@ split-dismiss-button-manage-settings-option-label = Gjestìs impostazions
 
 sidebar-button-callout-title = Mostre i titui des schedis te sbare laterâl
 sidebar-button-callout-subtitle = Dopre il boton de sbare laterâl par slargjâle e cussì di rivâ a viodi i titui des schedis.
+
+## Sidebar Callout Survey Strings
+

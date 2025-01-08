@@ -16,16 +16,16 @@ videocontrols-exitfullscreen-button =
     .aria-label = पूर्ण स्क्रीन से निकलें
 videocontrols-casting-button-label =
     .aria-label = स्क्रीन में कास्ट
+# .offlabel is processed by the video control custom element to be used
+# as a text-track label
 videocontrols-closed-caption-off =
     .offlabel = बंद
-
 videocontrols-error-aborted = वीडियो लोडिंग रोका गया.
 videocontrols-error-network = संजाल त्रुटि के कारण वीडियो प्लेबैक रुक गया.
 videocontrols-error-decode = वीडियो नहीं चला क्योंकि फ़ाइल खराब थी.
 videocontrols-error-src-not-supported = वीडियो प्रारूप या MIME प्रकार समर्थित नहीं है.
 videocontrols-error-no-source = समर्थित प्रारूप और MIME प्रकार के साथ कोई वीडियो नहीं.
 videocontrols-error-generic = अनजान त्रुटि के कारण वीडियो प्लेबैक रुक गया.
-
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -39,4 +39,3 @@ videocontrols-error-generic = अनजान त्रुटि के का�
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
-

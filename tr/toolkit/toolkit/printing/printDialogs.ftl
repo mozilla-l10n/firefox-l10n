@@ -103,7 +103,6 @@ print-window =
     .title = Yazdırılıyor
 print-complete =
     .value = Yazdırma tamamlandı.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

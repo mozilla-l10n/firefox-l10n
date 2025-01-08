@@ -29,4 +29,3 @@ compatibility-target-browsers-header = ہدف براؤزر
 
 compatibility-close-settings-button =
     .title = ترتیبات بند کریں
-

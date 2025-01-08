@@ -5,6 +5,8 @@
 url-classifier-title = URL Classifier معلومات
 url-classifier-search-title = تلاش کریں
 url-classifier-search-result-title = نتائج
+# Variables:
+#   $uri (string) - URI of blocked page
 url-classifier-search-result-uri = URI: { $uri }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = غلط یو آر ایل
@@ -39,7 +41,6 @@ url-classifier-debug-sb-modules = محفوظ براؤزانگ لاگ ماڈیو�
 url-classifier-debug-modules = موجودہ لاگ ماڈیول
 url-classifier-debug-sbjs-modules = محفوظ براوزنگ JS لاگ
 url-classifier-debug-file = موجودہ لاگ مسل
-
 url-classifier-not-available = N/A
 url-classifier-disable-sbjs-log = محفوظ براؤزنگ جے ایس لاگ کو غیر فعال بنائیں
 url-classifier-enabled = اہل بنایا گیا

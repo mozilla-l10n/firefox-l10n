@@ -3,12 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Note: This is currently placed under browser/base/content so that we can
-# get the strings to appear without having our localization community need
-# to go through and translate everything. Once these strings are ready for
-# translation, we'll move it to the locales folder.
-
-
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
@@ -27,7 +21,6 @@ webrtc-item-browser = varaq
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Manbasi noma’lum
-
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -69,7 +62,6 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Bo‘lishishni boshqarish
 webrtc-indicator-menuitem-control-sharing-on =
     .label = "{ $streamTitle }"dagi bo‘lishishni boshqarish
-
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Kamerani "{ $streamTitle }" bilan bo‘lishish
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -78,7 +70,6 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Kamerani { $tabCount } ta varaq bilan boʻlishish
            *[other] Kamerani { $tabCount } ta varaq bilan boʻlishish
         }
-
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Mikrofonni "{ $streamTitle }" bilan bo‘lishish
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -87,7 +78,6 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Mikrofonni { $tabCount } ta ichki oyna bilan bo‘lishish
            *[other] Mikrofonni { $tabCount } ta ichki oyna bilan bo‘lishish
         }
-
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Ilova dasturni "{ $streamTitle }" bilan bo‘lishish
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -96,7 +86,6 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] Ilova dasturni { $tabCount } ta ichki oyna bilan bo‘lishish
            *[other] Ilova dasturni { $tabCount } ta ichki oyna bilan bo‘lishish
         }
-
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Ekranni "{ $streamTitle }" bilan bo‘lishish
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -105,7 +94,6 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Ekranni { $tabCount } ta ichki oyna bilan bo‘lishish
            *[other] Ekranni { $tabCount } ta ichki oyna bilan bo‘lishish
         }
-
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Oynani "{ $streamTitle }" bilan bo‘lishish
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -114,7 +102,6 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Oynani { $tabCount } ta ichki oyna bilan bo‘lishish
            *[other] Oynani { $tabCount } ta ichki oyna bilan bo‘lishish
         }
-
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Varaqni "{ $streamTitle }" bilan boʻlishish
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -128,6 +115,9 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
+
+
+## Special phrasing for sharing devices when the origin is a file url.
 
 
 ## Variables:

@@ -10,10 +10,8 @@
 
 opensearch-error-duplicate-title = Juumre Aafgol
 opensearch-error-duplicate-desc = { -brand-short-name } horiima aafde ceŋol njiilaw ngol iwde e "{ $location-url }" sabu won yiilorde jogginde ndee innde woodnde tawo.
-
 opensearch-error-format-title = Mbayka woodaani
 opensearch-error-format-desc = { -brand-short-name } waawaani aafirde yiilorde nde: { $location-url }
-
 opensearch-error-download-title = Huulre Aawtagol
 opensearch-error-download-desc = { -brand-short-name } horiima aawtaade ceŋol njiilaw ngol iwde: { $location-url }
 
@@ -21,11 +19,9 @@ opensearch-error-download-desc = { -brand-short-name } horiima aawtaade ceŋol n
 
 searchbar-submit =
     .tooltiptext = Naatnu njiilaw
-
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = Yiylo
-
 searchbar-icon =
     .tooltiptext = Yiylo
 
@@ -33,4 +29,9 @@ searchbar-icon =
 ## Variables
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
+
+
+## Infobar shown when user is prompted to install search engine.
+## Variables
+## $engineName (String) - the name of the search engine to install.
 

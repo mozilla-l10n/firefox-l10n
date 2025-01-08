@@ -140,7 +140,9 @@ mr2022-onboarding-set-default-subtitle = Folosește un browser susținut de o or
 ## when Firefox is already set to default and pinned.
 
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-primary-button-label-no-attribution = Importă dintr-un browser anterior
 
@@ -189,10 +191,25 @@ mr2022-onboarding-gratitude-secondary-button-label = Începe să navighezi
 ## Device migration onboarding
 
 
+## Add-ons Picker screen
+
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen
 onboarding-easy-setup-security-and-privacy-title = Ne place să te protejăm
 
 ## New user time and familiarity survey strings
+
+
+## UI strings for the sidebar and vertical tabs
+
+
+## New user onboarding checklist
+
+
+## Tab Groups feature onboarding strings
+
+
+## Multi Profiles feature onboarding messages
 

@@ -103,7 +103,6 @@ print-window =
     .title = Á Phriontáil
 print-complete =
     .value = Priontáil curtha i gcrích.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

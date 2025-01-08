@@ -5,7 +5,11 @@
 url-classifier-title = Manylion Dosbarthu URL
 url-classifier-search-title = Chwilio
 url-classifier-search-result-title = Canlyniadau
+# Variables:
+#   $uri (string) - URI of blocked page
 url-classifier-search-result-uri = URI: { $uri }
+# Variables:
+#   $list (string) - List of tables where the page is blocked
 url-classifier-search-result-list = Rhestr tablau: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = URL annilys
@@ -40,7 +44,6 @@ url-classifier-debug-sb-modules = Modiwlau cofnodi Pori Diogel
 url-classifier-debug-modules = Y modiwlau cofnodi cyfredol
 url-classifier-debug-sbjs-modules = Cofnod Pori Diogel JS
 url-classifier-debug-file = Ffeil cofnod cyfredol
-
 url-classifier-trigger-update = Diweddariad Triger
 url-classifier-not-available = Dim Ar Gael
 url-classifier-disable-sbjs-log = Analluogi Cofnod JS Pori Diogel

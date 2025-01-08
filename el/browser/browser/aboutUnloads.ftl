@@ -15,18 +15,15 @@ about-unloads-intro =
     { -brand-short-name } την προτεραιότητα των καρτελών, καθώς και ποια καρτέλα
     θα εκφορτωθεί όταν ενεργοποιηθεί η λειτουργία. Μπορείτε να κάνετε χειροκίνητη
     εκφόρτωση καρτέλας με το κουμπί <em>Εκφόρτωση</em> παρακάτω.
-
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more =
     Δείτε το <a data-l10n-name="doc-link">Tab Unloading</a> για να μάθετε περισσότερα
     σχετικά με τη λειτουργία και αυτήν τη σελίδα.
-
 about-unloads-last-updated = Τελευταία ενημέρωση: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Εκφόρτωση
     .title = Εκφόρτωση καρτέλας με την ύψιστη προτεραιότητα
 about-unloads-no-unloadable-tab = Δεν υπάρχουν εκφορτώσιμες καρτέλες.
-
 about-unloads-column-priority = Προτεραιότητα
 about-unloads-column-host = Κεντρικός υπολογιστής
 about-unloads-column-last-accessed = Τελευταία πρόσβαση
@@ -38,7 +35,6 @@ about-unloads-column-memory = Μνήμη
     .title = Εκτιμώμενη χρήση μνήμης καρτέλας
 about-unloads-column-processes = ID διεργασιών
     .title = Τα ID των διεργασιών που φιλοξενούν το περιεχόμενο της καρτέλας
-
 about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } MB
 about-unloads-memory-in-mb-tooltip =

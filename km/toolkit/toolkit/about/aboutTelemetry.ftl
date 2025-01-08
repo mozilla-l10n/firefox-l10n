@@ -18,7 +18,7 @@ about-telemetry-addon-details-section = សេចក្ដី​លម្អិ�
 about-telemetry-late-writes-section = សរសេរ​យឺត
 about-telemetry-full-sql-warning =    ចំណាំ ៖ ការ​បំបាត់​កំហុស SQL ត្រូវ​បាន​បើក ។ ឃ្លា SQL ពេញ​លេញ​អាច​ត្រូវ​បាន​បង្ហាញ​ខាងក្រោម ប៉ុន្តែ​វា​នឹង​មិន​ត្រូវ​បាន​ដាក់​ស្នើ​ចំពោះ Telemetry ឡើយ ។
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = ទំព័រ​នេះ​បង្ហាញ​ព័ត៌មាន​អំពី​ដំណើរការ ផ្នែក​រឹង ការ​ប្រើប្រាស់ និង​ការ​កំណត់​ផ្ទាល់ខ្លួន​ដែល​បាន​ប្រមូល​ដោយ​ទូរមាត្រ​វិធី ។ ព័ត៌មាន​នេះ​ត្រូវ​បាន​ដាក់​ស្នើ​ទៅ { $telemetryServerOwner } ដើម្បី​ធ្វើឲ្យ { -brand-full-name } ប្រសើរ​ឡើង ។
 # button label to copy the histogram
 about-telemetry-histogram-copy = ​ចម្លង
@@ -32,12 +32,12 @@ about-telemetry-slow-sql-statement = របាយការណ៍
 about-telemetry-addon-table-id = លេខ​សម្គាល់​កម្មវិធី​បន្ថែម
 about-telemetry-addon-table-details = សេចក្ដី​លម្អិត
 # Variables:
-#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+#   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = ក្រុមហ៊ុន​ផ្ដល់ { $addonProvider }
 about-telemetry-keys-header = លក្ខណសម្បត្តិ
 about-telemetry-values-header = តម្លៃ
 # Variables:
-#   $lateWriteCount (Integer): the number of the late writes
+#   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = សរសេរ​យឺត #{ $lateWriteCount }
 about-telemetry-stack-title = បណ្ដុំ​ឯកសារ ៖
 about-telemetry-memory-map-title = ក្រាហ្វិក​​អង្គ​ចងចាំ ៖

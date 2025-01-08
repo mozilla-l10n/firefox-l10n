@@ -4,7 +4,6 @@
 
 connection-close-key =
     .key = w
-
 connection-proxy-option-no =
     .label = Hakuna proksi
     .accesskey = i
@@ -14,17 +13,13 @@ connection-proxy-option-system =
 connection-proxy-option-auto =
     .label = Gundua kiotomatiki mipangilio ya proxi ya mtandao huu
     .accesskey = n
-
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K
 connection-proxy-socks5 =
     .label = SOCKS v5
     .accesskey = v
-
 connection-proxy-noproxy-desc = Mfano: .mozilla.org, .net.nz, 192.168.1.0/24
-
 connection-proxy-reload =
     .label = Pakia tena
     .accesskey = k
-

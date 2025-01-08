@@ -112,6 +112,10 @@ tabbrowser-confirm-close-tabs-with-key-button = Titz'apïx { -brand-short-name }
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Nab'ey tijikib'äx richin nel rik'in { $quitKey }
 
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+
 ## Confirmation dialog when opening multiple tabs simultaneously
 
 tabbrowser-confirm-open-multiple-tabs-title = Tijikib'äx jaqoj
@@ -166,4 +170,11 @@ tabbrowser-ctrl-tab-list-all-tabs =
     .label = Kecholajïx konojel ri { $tabCount } taq ruwi'
 
 ## Tab manager menu buttons
+
+
+## Tab Groups
+
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 

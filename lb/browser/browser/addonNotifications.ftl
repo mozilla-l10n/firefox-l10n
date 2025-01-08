@@ -27,7 +27,6 @@ xpinstall-disabled-button =
 ## Add-on removal warning
 
 addon-download-verifying = Iwwerpréiwung am gaangen
-
 addon-install-cancel-button =
     .label = Ofbriechen
     .accesskey = C

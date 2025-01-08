@@ -5,10 +5,7 @@
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Yeny Dirica matino
-
 all-tabs-menu-new-user-context =
     .label = Dirica matidi manyen me mako jami
-
 all-tabs-menu-hidden-tabs =
     .label = Dirica matino ma okane
-

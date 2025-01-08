@@ -6,7 +6,6 @@ tabmodalprompt-username =
     .value = Uporabniško ime:
 tabmodalprompt-password =
     .value = Geslo:
-
 tabmodalprompt-ok-button =
     .label = V redu
 tabmodalprompt-cancel-button =

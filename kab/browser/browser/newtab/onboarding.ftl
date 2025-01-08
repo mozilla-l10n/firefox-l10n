@@ -388,3 +388,9 @@ onboarding-checklist-pin = Senteḍ { -brand-short-name } deg ufeggag n tiwuriwi
 onboarding-checklist-import = Kter seg yiminig yezrin
 onboarding-checklist-extension = Rnu asiɣzef
 onboarding-checklist-sign-up = Kcem neɣ qqen ɣer umiḍan-ik
+
+## Tab Groups feature onboarding strings
+
+
+## Multi Profiles feature onboarding messages
+

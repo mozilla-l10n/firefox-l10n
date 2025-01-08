@@ -10,6 +10,8 @@ safeb-blocked-phishing-page-short-desc = „{ -brand-short-name }“ užblokavo 
 safeb-blocked-malware-page-short-desc = „{ -brand-short-name }“ užblokavo šį tinklalapį, nes jis gali bandyti įdiegti kenkėjiškų programų, skirtų pavogti ar ištrinti jūsų duomenis.
 safeb-blocked-unwanted-page-short-desc = „{ -brand-short-name }“ užblokavo šį tinklalapį, nes jis gali bandyti priversti jus įdiegti programų, kurios kenkia naršymui (pvz., pakeičia jūsų pradžios tinklalapį arba rodo daugiau reklamų lankomose svetainėse).
 safeb-blocked-harmful-page-short-desc = „{ -brand-short-name }“ užblokavo šį tinklalapį, nes jis gali bandyti įdiegti pavojingų programų, skirtų pavogti ar ištrinti jūsų duomenis (pvz., nuotraukas, slaptažodžius, žinutes, banko korteles).
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Patarimus teikia <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Eiti atgal
 safeb-palm-see-details-label = Išsamesnė informacija

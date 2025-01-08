@@ -4,16 +4,13 @@
 
 password-not-set =
     .value = (kenn tekki wu ko)
-
 pw-change-failed-title = Échec de la modification du mot de passe principal
 pw-remove-button =
     .label = Màbbal
-
 set-password-old-password = Baatu jàll bi teew:
 set-password-new-password = Dugalal baatu jàll bu bees:
 set-password-reenter-password = Dugalaat ko:
 set-password-meter = Natt baaxaayu baatu jàll bi
 set-password-meter-loading = Yebum…
-
 remove-password-old-password =
     .value = Caabi baat bi teew:

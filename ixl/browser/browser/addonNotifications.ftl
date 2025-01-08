@@ -19,7 +19,6 @@
 ## Add-on removal warning
 
 addon-removal-button = Sojsa el
-
 addon-install-cancel-button =
     .label = Ya'sakan
     .accesskey = C

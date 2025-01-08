@@ -7,6 +7,7 @@ pictureinpicture-player-title = Obraz w obrazie
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -21,30 +22,24 @@ pictureinpicture-pause-btn =
 pictureinpicture-play-btn =
     .aria-label = Odtwórz
     .tooltip = Odtwórz (spacja)
-
 pictureinpicture-mute-btn =
     .aria-label = Wycisz
     .tooltip = Wycisz ({ $shortcut })
 pictureinpicture-unmute-btn =
     .aria-label = Włącz dźwięk
     .tooltip = Włącz dźwięk ({ $shortcut })
-
 pictureinpicture-unpip-btn =
     .aria-label = Wyłącz „Obraz w obrazie”
     .tooltip = Wyłącz „Obraz w obrazie”
-
 pictureinpicture-close-btn =
     .aria-label = Zamknij
     .tooltip = Zamknij ({ $shortcut })
-
 pictureinpicture-subtitles-btn =
     .aria-label = Napisy
     .tooltip = Napisy
-
 pictureinpicture-fullscreen-btn2 =
     .aria-label = Pełny ekran
     .tooltip = Pełny ekran (podwójne kliknięcie lub { $shortcut })
-
 pictureinpicture-exit-fullscreen-btn2 =
     .aria-label = Opuść tryb pełnoekranowy
     .tooltip = Opuść tryb pełnoekranowy (podwójne kliknięcie lub { $shortcut })
@@ -63,7 +58,6 @@ pictureinpicture-toggle-fullscreen-shortcut =
 pictureinpicture-seekbackward-btn =
     .aria-label = Przewiń do tyłu
     .tooltip = Przewiń do tyłu (←)
-
 pictureinpicture-seekforward-btn =
     .aria-label = Przewiń do przodu
     .tooltip = Przewiń do przodu (→)
@@ -74,13 +68,8 @@ pictureinpicture-seekforward-btn =
 # a screen reader whenever a user opens the subtitles settings panel
 # after selecting the subtitles button.
 pictureinpicture-subtitles-panel-accessible = Ustawienia napisów
-
 pictureinpicture-subtitles-label = Napisy
-
 pictureinpicture-font-size-label = Rozmiar czcionki
-
 pictureinpicture-font-size-small = Mały
-
 pictureinpicture-font-size-medium = Średni
-
 pictureinpicture-font-size-large = Duży

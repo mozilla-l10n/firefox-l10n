@@ -41,21 +41,6 @@ contentanalysis-genericresponse-message = Мазмұнды талдау құра
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-block-message = Сіздің ұйымыңыз мына мазмұнды блоктаған деректердің жоғалуын болдырмау бағдарламалық құамтаманы пайдаланады: { $content }.
 # Variables:
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-error-message = Деректер жоғалуының алдын алу бағдарламалық қамтамамен байланысуда қате орын алды. Ресурс үшін тасымалдауға тыйым салынды: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-unspecified-error-message = { $agent } агентімен байланысуда қате орын алды. Ресурс үшін тасымалдауға тыйым салынды: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-no-agent-connected-message = { $agent } агентімен байланысу мүмкін емес. Ресурс үшін тасымалдауға тыйым салынды: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-invalid-agent-signature-message = { $agent } агенті үшін қолтаңбаны растау сәтсіз аяқталды. Ресурс үшін тасымалдауға тыйым салынды: { $content }.
-# Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Localized text describing the content being blocked, such as "Paste denied."
 contentanalysis-unspecified-error-message-content = { $agent } агентімен байланысу кезінде қате орын алды. { $content }

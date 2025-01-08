@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = Ripoti za Mvurugo
-crashreporter-crash-message = { -brand-short-name } ilikuwa na tatizo na ikavurugika.
 crashreporter-plea = Kutusaidia kutambua na kutatua tatizo, unaweza tumia ripoti ya mvurugo.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Maelezo: { $details }

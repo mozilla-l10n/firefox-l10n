@@ -18,8 +18,6 @@ abuse-report-addon-authored-by = geliştiren: <a data-l10n-name="author-name">{ 
 abuse-report-learnmore =
     Hangi sorunu seçeceğinize karar veremediniz mi?
     <a data-l10n-name="learnmore-link">Uzantıları ve temaları şikâyet etme hakkında daha fazla bilgi alın</a>
-abuse-report-learnmore-intro = Hangi sorunu seçeceğinize karar veremediniz mi?
-abuse-report-learnmore-link = Uzantıları ve temaları şikâyet etme hakkında daha fazla bilgi alın
 abuse-report-submit-description = Sorunu açıklayın (isteğe bağlı)
 abuse-report-textarea =
     .placeholder = Elimizde ayrıntılı bilgi olursa sorunu çözmemiz kolaylaşır. Lütfen yaşadığınız sorunu açıklayın. Web’in sağlığını korumaya yardımcı olduğunuz için teşekkür ederiz.
@@ -48,24 +46,6 @@ abuse-report-messagebar-removed-sitepermission = Şikâyetinizi bizimle paylaşt
 abuse-report-messagebar-removed-theme = Şikâyetinizi bizimle paylaştığınız için teşekkür ederiz. <span data-l10n-name="addon-name">{ $addon-name }</span> temasını kaldırdınız.
 abuse-report-messagebar-error = <span data-l10n-name="addon-name">{ $addon-name }</span> şikâyeti gönderilirken bir hata oluştu.
 abuse-report-messagebar-error-recent-submit = Kısa bir süre önce başka bir şikâyet gönderdiğiniz için <span data-l10n-name="addon-name">{ $addon-name }</span> şikâyeti gönderilmedi.
-abuse-report-messagebar-aborted2 =
-    .message = { $addon-name } şikâyeti iptal edildi.
-abuse-report-messagebar-submitting2 =
-    .message = { $addon-name } şikâyeti gönderiliyor.
-abuse-report-messagebar-submitted2 =
-    .message = Şikâyetinizi bizimle paylaştığınız için teşekkür ederiz. { $addon-name } eklentisini kaldırmak ister misiniz?
-abuse-report-messagebar-submitted-noremove2 =
-    .message = Şikâyetinizi bizimle paylaştığınız için teşekkür ederiz.
-abuse-report-messagebar-removed-extension2 =
-    .message = Şikâyetinizi bizimle paylaştığınız için teşekkür ederiz. { $addon-name } uzantısını kaldırdınız.
-abuse-report-messagebar-removed-sitepermission2 =
-    .message = Şikâyetinizi bizimle paylaştığınız için teşekkür ederiz. { $addon-name } adlı site izinleri eklentisini kaldırdınız.
-abuse-report-messagebar-removed-theme2 =
-    .message = Şikâyetinizi bizimle paylaştığınız için teşekkür ederiz. { $addon-name } temasını kaldırdınız.
-abuse-report-messagebar-error2 =
-    .message = { $addon-name } şikâyeti gönderilirken bir hata oluştu.
-abuse-report-messagebar-error-recent-submit2 =
-    .message = Kısa bir süre önce başka bir şikâyet gönderdiğiniz için { $addon-name } şikâyeti gönderilmedi.
 
 ## Message bars actions.
 

@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -114,7 +115,6 @@ ssl-error-bad-cert-hash-value-alert = Pia SSL iliripoti kiwango batili cha cheti
 ssl-error-unsafe-negotiation = Pia ilijaribu mtindo wa kitambo (potentially vulnerable) salamu za mkono.
 ssl-error-rx-unexpected-uncompressed-record = SSL ilipokea rekodi finyu isiyotarajiwa.
 ssl-error-weak-server-ephemeral-dh-key = SSL ilipokea kitufe hafifu cha ephemeral Diffie-Hellman kwenye ujumbe wa salamu za mkono za Kitufe cha Seva ya Mabadilshano.
-
 sec-error-io = Kosa la I/O lilitokea wakati kuhalalisha usalama.
 sec-error-library-failure = usalama wa maktaba umeshindikana.
 sec-error-bad-data = maktaba ya usalama: ilipokea data batili.
@@ -152,4 +152,3 @@ sec-error-extension-not-found = Kiendelezi cha cheti hakijapatikana.
 sec-error-ca-cert-invalid = Cheti cha mtoaji ni batili.
 sec-error-path-len-constraint-invalid = Ukubwa wa njia ya cheti ni batili.
 sec-error-js-invalid-module-name = Jina la moduli batili.
-

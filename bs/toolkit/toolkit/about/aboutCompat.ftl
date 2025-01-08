@@ -5,6 +5,8 @@
 label-disable = Onemogući
 label-enable = Omogući
 label-interventions = Intervencije
+# Variables:
+#   $bug (string) - Bug number
 label-more-information = Više informacija: Bug { $bug }
 label-overrides = Poništavanja korisničkog agenta
 text-disabled-in-about-config = Ova opcija je onemogućena u about:config

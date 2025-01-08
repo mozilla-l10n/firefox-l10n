@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Címkék hozzáadása
-
 pocket-panel-saved-error-generic = Hiba történt a { -pocket-brand-name }re mentés közben.
 pocket-panel-saved-error-tag-length = A címkék legfeljebb 25 karakter hosszúak lehetnek
 pocket-panel-saved-error-only-links = Csak hivatkozások menthetők
@@ -29,7 +28,6 @@ pocket-panel-saved-save-tags = Mentés
 pocket-panel-saved-saving-tags = Mentés…
 pocket-panel-saved-suggested-tags = Javasolt címkék
 pocket-panel-saved-tags-saved = Címkék hozzáadva
-
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Címkék hozzáadása:
 
@@ -44,7 +42,6 @@ pocket-panel-signup-signup-firefox = { -brand-product-name } bejelentkezés
 pocket-panel-signup-tagline = Mentsen cikkeket és videókat a { -brand-product-name }ból a { -pocket-brand-name }en való megtekintéshez bármely eszközön, bármikor.
 pocket-panel-signup-tagline-story-one = Kattintson a { -pocket-brand-name } gombra bármely cikk, videó vagy oldal mentéséhez a { -brand-product-name }ból.
 pocket-panel-signup-tagline-story-two = Nézze meg a { -pocket-brand-name }en bármely eszközön, bármikor.
-
 pocket-panel-signup-cta-a-fix = A mentés gombja az internethez
 pocket-panel-signup-cta-b-updated = Kattintson a { -pocket-brand-name } gombra a cikkek, videók és hivatkozások mentéséhez. Tekintse meg a mentéseit bármilyen eszközön, bármikor.
 pocket-panel-signup-cta-b-short = Kattintson a { -pocket-brand-name } gombra a cikkek, videók és hivatkozások mentéséhez.
@@ -57,7 +54,6 @@ pocket-panel-home-paragraph = A { -pocket-brand-name } segítségével weboldala
 pocket-panel-home-explore-popular-topics = Népszerű témák felfedezése
 pocket-panel-home-discover-more = Folytassa a felfedezést
 pocket-panel-home-explore-more = Felfedezés
-
 pocket-panel-home-most-recent-saves = Itt vannak a legutóbbi mentések:
 pocket-panel-home-most-recent-saves-loading = Legutóbbi mentések betöltése…
 pocket-panel-home-new-user-cta = Kattintson a { -pocket-brand-name } gombra a cikkek, videók és hivatkozások mentéséhez.

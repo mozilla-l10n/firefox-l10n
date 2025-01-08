@@ -10,13 +10,11 @@
 
 psmerr-ssl-disabled = تعذّر الاتصال بسريّة لأن بروتوكول SSL مُعطّل.
 psmerr-ssl2-disabled = تعذّر الاتصال بسريّة لأن الموقع يستخدم إصدارة قديمة غير مُؤَمّنة من برتوكول SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     استقبلت شهادة غير صالحة.  الرّجاء الاتّصال بمدير النّظام أو مراسل البريد الإلكتروني و إعطائهم المعلومات التّالية:
     
     تحتوي شهادتك على نفس الرّقم التسلسلي لشهادة أخرى من نفس سلطة الشّهادات.  الرّجاء الحصول على شهادة جديدة تحتوي رقمًا تسلسليًا فريدًا.
-
 ssl-error-export-only-server = تعذر التواصل بشكل آمن. الجهاز الند لا يدعم التعمية عالية المستوى.
 ssl-error-us-only-server = تعذر التواصل بشكل آمن. الجهاز الند يحتاج تعمية عالية المستوى وهي غير مدعومة.
 ssl-error-no-cypher-overlap = لا يمكن التواصل بشكل آمن مع الجهاز الند: لا توجد خوارزميات تعمية مشتركة.
@@ -153,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = لم تُعد أي خوارزمية
 ssl-error-unsupported-signature-algorithm = استخدم الند زوجًا غير مدعوم من التواقيع و خوازميات التلبيد.
 ssl-error-missing-extended-master-secret = حاول الند الاستكمال دون امتداد extended_master_secret صحيح.
 ssl-error-unexpected-extended-master-secret = حاول الند الاستكمال مع امتداد extended_master_secret غير متوقع.
-
 sec-error-io = حصل خطأ دخل/خرج أثناء المصادقة الأمنية.
 sec-error-library-failure = فشل في المكتبة الأمنية.
 sec-error-bad-data = المكتبة الأمنية: استُلمت بيانات سيئة.
@@ -320,7 +317,6 @@ sec-error-locked-password = كلمة الصر مقفلة.
 sec-error-unknown-pkcs11-error = عُطل PKCS #11 غير معروف.
 sec-error-bad-crl-dp-url = مسار غير سليم أو غير مدعوم في اسم نقطة توزيع قائمة فسخ الشهادات.
 sec-error-cert-signature-algorithm-disabled = وُقَّعت الشهادة باستخدام خوارزمية عُطّلت لعدم أمانها.
-
 mozilla-pkix-error-key-pinning-failure = يستعمل الخادوم ميزة تثبيت المفاتيح (HPKP) ولكن تعذرت إقامة سلسلة شهادات موثوقة تُطابق مجموعة التثبيت. لا يمكنك تجاوز انتهاكات ميزة تثبيت المفاتيح (Key pinning).
 mozilla-pkix-error-ca-cert-used-as-end-entity = يستخدم الخادوم شهادة بامتداد قيود أساسية يعرفها سلطة شهادات. وبالنسبة لشهادة مصدرة بشكل صحيح، ينبغي ألا يكون هذا هو الحال.
 mozilla-pkix-error-inadequate-key-size = قدّم الخادوم شهادة حجم مفتاحها صغير جدا لإنشاء اتصال آمن.
@@ -335,11 +331,9 @@ mozilla-pkix-error-invalid-integer-encoding = قدّم الخادوم شهادة
 mozilla-pkix-error-empty-issuer-name = قدّم الخادوم شهادة تحتوي اسم مُصْدِر مميز خالٍ.
 mozilla-pkix-error-additional-policy-constraint-failed = فشل قيد سياسة إضافي أثناء التحقق من الشهادة.
 mozilla-pkix-error-self-signed-cert = الشهادة غير موثوقة لأنها موقعّة ذاتيًا.
-
 xp-java-remove-principal-error = تعذرت إزالة الرئيس
 xp-java-delete-privilege-error = تعذرت إزالة الامتياز
 xp-java-cert-not-exists-error = هذا الرئيس لا يملك شهادة
-
 xp-sec-fortezza-bad-card = لم تُنشّط بطاقة فورتيزا بشكل صحيح. رجاءً أزلها وأعدها إلى مُصْدِرها.
 xp-sec-fortezza-no-card = لم يُعثر على بطاقات فورتيزا
 xp-sec-fortezza-none-selected = لم تُختر أي بطاقة فورتيزا

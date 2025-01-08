@@ -33,7 +33,7 @@ about-telemetry-full-sql-warning = הערה: ניפוי שגיאות עבור מ
 about-telemetry-hide-stack-symbols = הצגת נתוני מחסנית גולמיים
 # Selects the correct release version
 # Variables:
-#   $channel (String): represents the corresponding release data string
+#   $channel (string) - Represents the corresponding release data string
 about-telemetry-data-type =
     { $channel ->
         [release] נתוני הפצה
@@ -41,38 +41,38 @@ about-telemetry-data-type =
     }
 # Selects the correct upload string
 # Variables:
-#   $uploadcase (String): represents a corresponding upload string
+#   $uploadcase (string) - Represents a corresponding upload string
 about-telemetry-upload-type =
     { $uploadcase ->
         [enabled] מופעלת
        *[disabled] מושבתת
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = עמוד זה מציג מידע על ביצועים, חומרה, שימוש והתאמות אישיות כפי שנאספו על־ידי Telemetry. מידע זה נשלח אל { $telemetryServerOwner } כדי לסייע בשיפור { -brand-full-name }.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $selectedTitle (String): the section name from the structure of the ping.
+#   $selectedTitle (string) - The section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = חיפוש תחת { $selectedTitle }
 about-telemetry-filter-all-placeholder =
     .placeholder = חיפוש בכל הסעיפים
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-results-for-search = תוצאות עבור “{ $searchTerms }”
 # More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $sectionName (String): the section name from the structure of the ping.
-#   $currentSearchText (String): the current text in the search input
+#   $sectionName (string) - The section name from the structure of the ping.
+#   $currentSearchText (string) - The current text in the search input
 about-telemetry-no-search-results = מצטערים! אין תוצאות ב־{ $sectionName } עבור הביטוי “{ $currentSearchText }”
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-no-search-results-all = מצטערים! אין תוצאות בכל הסעיפים עבור הביטוי “{ $searchTerms }”
 # This message is displayed when a section is empty.
 # Variables:
-#   $sectionName (String): is replaced by the section name.
+#   $sectionName (string) - Is replaced by the section name.
 about-telemetry-no-data-to-display = מצטערים! כרגע אין נתונים זמינים ב־“{ $sectionName }”
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = נתונים נוכחיים
@@ -90,13 +90,13 @@ about-telemetry-slow-sql-statement = פקודה
 about-telemetry-addon-table-id = מזהה תוספת
 about-telemetry-addon-table-details = פרטים
 # Variables:
-#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+#   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = ספק { $addonProvider }
 about-telemetry-keys-header = מאפיין
 about-telemetry-names-header = שם
 about-telemetry-values-header = ערך
 # Variables:
-#   $lateWriteCount (Integer): the number of the late writes
+#   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = כתיבה מאוחרת #{ $lateWriteCount }
 about-telemetry-stack-title = מחסנית:
 about-telemetry-memory-map-title = מפת זיכרון:

@@ -14,6 +14,16 @@ learn-more = <span data-l10n-name="link">מידע נוסף</span>
 ##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 inactive-css-not-grid-or-flex-item = ל־<strong>{ $property }</strong> אין השפעה על רכיב זה מכיוון שאינו פריט grid או flex.
 inactive-css-not-grid-item = ל־<strong>{ $property }</strong> אין השפעה על רכיב זה מכיוון שאינו פריט grid.
 inactive-css-not-grid-container = ל־<strong>{ $property }</strong> אין השפעה על רכיב זה מכיוון שאינו מיכל grid.
@@ -24,8 +34,19 @@ inactive-css-not-display-block-on-floated = הערך של <strong>display</stron
 inactive-css-property-is-impossible-to-override-in-visited = אי אפשר לדרוס את <strong>{ $property }</strong> עקב מגבלת <strong>‎:visited</strong>.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
+
+## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
-## the problem can be solved.
+## the problem can be solved. CSS properties and values in <strong> tags should
+## not be translated.
 
 inactive-css-not-grid-or-flex-container-fix = כדאי לנסות להוסיף <strong>display:grid</strong> או <strong>display:flex</strong>. { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = כדאי לנסות להוסיף <strong>display:grid</strong>, ‏<strong>display:flex</strong>, או <strong>columns:2</strong>. { learn-more }
@@ -53,3 +74,8 @@ inactive-css-text-wrap-balance-fragmented-fix = יש להימנע מפיצול �
 
 css-compatibility-default-message = ‏‎<strong>{ $property }</strong> אינו נתמך בדפדפנים הבאים:
 css-compatibility-learn-more-message = <span data-l10n-name="link">מידע נוסף</span> על <strong>{ $rootProperty }</strong>
+
+## In the Rule View when a rule selector can causes issues, we display an icon.
+## When this icon is hovered one or more of those messages are displayed to explain what
+## the issue are.
+

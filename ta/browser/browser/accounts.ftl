@@ -20,10 +20,8 @@ account-send-to-all-devices-titlecase = அ.சாதனங்களுக்க
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = சாதனங்கள் இணைக்கப்படவில்லை
-
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = கீற்றை அனுப்புவது பற்றி அறிந்துக்கொள்...
-
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = மற்றொரு சாதனத்தை இணை…
 
@@ -44,7 +42,6 @@ account-single-tab-arriving-title = கீற்று பெறப்பட்�
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = { $deviceName } இலிருந்து கீற்று
-
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -57,7 +54,6 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = கீற்றுகள் பெறப்பட்டன
-
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =
@@ -76,3 +72,9 @@ account-multiple-tabs-arriving-from-unknown-device =
         [one] { $tabCount } கீற்று வந்தது
        *[other] { $tabCount } கீற்றுகள் வந்தன
     }
+
+## These strings are used in notifications in which the user remotely closed
+## tabs from other devices
+## Variables:
+##   $closedCount (Number): the number of tabs closed
+

@@ -3,12 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = নতুন টেব
-
 tabbrowser-menuitem-close-tab =
     .label = টেব বন্ধ কৰক
 tabbrowser-menuitem-close =
     .label = বন্ধ কৰক
-
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
@@ -43,6 +41,10 @@ tabbrowser-confirm-close-windows-button =
 tabbrowser-confirm-close-tabs-with-key-title = উইণ্ড' বন্ধ কৰি { -brand-short-name }-ৰ পৰা ওলাই যাবনে?
 tabbrowser-confirm-close-tabs-with-key-button = { -brand-short-name }-ৰ পৰা ওলাই যাওক
 
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+
 ## Confirmation dialog when opening multiple tabs simultaneously
 
 tabbrowser-confirm-open-multiple-tabs-title = খোলাটো নিশ্চিত কৰক
@@ -53,6 +55,9 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = বহুতো টেব খ�
 
 tabbrowser-confirm-caretbrowsing-title = কেৰেট ব্ৰাউছিং
 tabbrowser-confirm-caretbrowsing-checkbox = মোক এই সংলাপ-বাকচটো আকৌ নেদেখুৱাব।
+
+## Confirmation dialog for closing all duplicate tabs
+
 
 ##
 
@@ -77,5 +82,13 @@ tabbrowser-context-unmute-selected-tabs =
 
 ## Ctrl-Tab dialog
 
+
 ## Tab manager menu buttons
+
+
+## Tab Groups
+
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 

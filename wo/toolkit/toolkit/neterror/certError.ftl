@@ -7,7 +7,6 @@
 
 connectionFailure-title = Jokkoo bi lajj na
 deniedPortAccess-title = Màkkaan bi dañu ko tere
-
 fileNotFound-title = Dencukaay bu kenn gisul
 generic-title = Laaj bi mënul sotti.
 netInterrupt-title = Jokkoo bi taxaw na
@@ -23,3 +22,10 @@ proxyResolveFailure-title = Kenn mënula gis serwëër proxy bi
 redirectLoop-title = Xët wi kenn jubaluko bu baax
 unknownSocketType-title = Tontu bu kenn xalaatulwoon ci serwëër bi
 nssFailure2-title = Lajju jokkoo bi ànd ak kaarange
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+

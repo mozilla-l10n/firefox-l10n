@@ -39,11 +39,9 @@ compatibility-issue-occurrences =
         [one] מופע אחד
        *[other] { $number } מופעים
     }
-
 compatibility-no-issues-found = לא נמצאו בעיות תאימות.
 compatibility-close-settings-button =
     .title = סגירת הגדרות
-
 # Text used in the element containing the browser icons for a given compatibility issue.
 # Line breaks are significant.
 # Variables:

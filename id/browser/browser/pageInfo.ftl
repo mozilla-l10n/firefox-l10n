@@ -4,22 +4,18 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
-
 copy =
     .key = C
 menu-copy =
     .label = Salin
     .accesskey = S
-
 select-all =
     .key = A
 menu-select-all =
     .label = Pilih Semua
     .accesskey = a
-
 close-dialog =
     .key = w
-
 general-tab =
     .label = Umum
     .accesskey = U
@@ -43,7 +39,6 @@ general-meta-name =
     .label = Nama
 general-meta-content =
     .label = Isi
-
 media-tab =
     .label = Media
     .accesskey = M
@@ -74,13 +69,11 @@ media-save-as =
 media-save-image-as =
     .label = Simpan dengan Nama…
     .accesskey = e
-
 perm-tab =
     .label = Hak Akses
     .accesskey = a
 permissions-for =
     .value = Hak akses untuk:
-
 security-tab =
     .label = Keamanan
     .accesskey = K
@@ -101,22 +94,17 @@ security-view-identity-validity =
     .value = Kedaluwarsa pada:
 security-view-privacy =
     .value = Privasi & Riwayat
-
 security-view-privacy-history-value = Pernahkah situs ini dikunjungi sebelum hari ini?
 security-view-privacy-sitedata-value = Apakah situs web ini menyimpan informasi dalam komputer saya?
-
 security-view-privacy-clearsitedata =
     .label = Bersihkan Kuki dan Data Situs
     .accesskey = B
-
 security-view-privacy-passwords-value = Pernahkah sandi untuk situs web ini disimpan?
-
 security-view-privacy-viewpasswords =
     .label = Sandi Tersimpan
     .accesskey = s
 security-view-technical =
     .value = Detail Teknis
-
 help-button =
     .label = Bantuan
 
@@ -128,7 +116,6 @@ help-button =
 
 security-site-data-cookies = Ya, kuki dan data situs { $value } { $unit }
 security-site-data-only = Ya, data situs { $value } { $unit }
-
 security-site-data-cookies-only = Ya, kuki
 security-site-data-no = Tidak
 
@@ -152,7 +139,6 @@ media-video = Video
 media-audio = Audio
 saved-passwords-yes = Ya
 saved-passwords-no = Tidak
-
 no-page-title =
     .value = Laman Tak Berjudul:
 general-quirks-mode =
@@ -167,7 +153,6 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Gunakan yang Baku
 security-no-visits = Tidak
-
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
@@ -177,7 +162,6 @@ general-meta-tags =
         { $tags ->
            *[other] Meta ({ $tags } tag)
         }
-
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -187,7 +171,6 @@ security-visits-number =
         [0] Tidak
        *[other] Ya, { $visits } kali
     }
-
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
@@ -197,7 +180,6 @@ properties-general-size =
         { $bytes ->
            *[other] { $kb } KB ({ $bytes } byte)
         }
-
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:
@@ -208,14 +190,12 @@ media-animated-image-type =
         { $frames ->
            *[other] Gambar { $type } (animasi, { $frames } frame)
         }
-
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = Gambar { $type }
-
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -225,14 +205,12 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (diskalakan menjadi { $scaledx }px × { $scaledy }px)
-
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
-
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
@@ -244,16 +222,11 @@ media-file-size = { $size } KB
 
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
-# Variables:
-#   $website (string) - The website name
 media-block-image =
     .label = Blokir Gambar dari { $website }
     .accesskey = B
-
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
-# Variables:
-#   $website (string) — The url of the website pageInfo is getting info for
 page-info-page =
     .title = Informasi Laman - { $website }
 page-info-frame =

@@ -6,7 +6,6 @@ tabmodalprompt-username =
     .value = ব্যৱহাৰকাৰী নাম:
 tabmodalprompt-password =
     .value = পাছৱাৰ্ড:
-
 tabmodalprompt-ok-button =
     .label = ঠিক আছে
 tabmodalprompt-cancel-button =

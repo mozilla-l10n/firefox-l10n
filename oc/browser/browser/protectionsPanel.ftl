@@ -23,6 +23,11 @@ protections-panel-etp-more-info =
     .aria-label = Mai d’informacions tocant la proteccion renfortida contra lo seguiment
 protections-panel-etp-on-header = La proteccion renfortida contra lo seguiment es ACTIVADA per aqueste site.
 protections-panel-etp-off-header = La proteccion renfortida contra lo seguiment es DESACTIVADA per aqueste site
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Lo site fonciona pas ?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Lo site foncion pas ?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -37,11 +42,6 @@ protections-panel-etp-toggle-off =
     .label = Proteccion renfortida contra lo seguiment
     .description = Desactivada per aqueste site
     .aria-label = Proteccion renfortida contra lo seguiment : inactiva per { $host }
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Lo site fonciona pas ?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Lo site foncion pas ?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -71,6 +71,9 @@ protections-panel-content-blocking-fingerprinters-label = Generadors d’emprent
 protections-panel-blocking-label = Blocats
 protections-panel-not-blocking-label = Autorizats
 protections-panel-not-found-label = Cap pas detectat
+
+## Smartblock strings
+
 
 ##
 
@@ -108,7 +111,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Senhalar un site copat
 protections-panel-content-blocking-breakage-report-view-description = Lo blocatge d’unes traçadors pòt causar de problèmas amb qualques sites web. En senhalant aquestes problèmas ajudatz a melhorar { -brand-short-name } per totes. Amb lo rapòrt serà tanben junta l’URL e d’informacions sus las preferéncias del navegador. <label data-l10n-name="learn-more">Ne saber mai</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Lo blocatge d’unes traçadors pòt causar de problèmas amb qualques sites web. En senhalant aquestes problèmas ajudatz a melhorar { -brand-short-name } per totes. Lo rapòrt serà enviat e tanben junta l’URL e d’informacions sus las preferéncias del navegador a { -vendor-short-name }.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL

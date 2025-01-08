@@ -8,4 +8,3 @@ styleeditor-find =
 styleeditor-find-again =
     .label = دووبارە بگەڕێ
     .accesskey = g
-

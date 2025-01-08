@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Caratars
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Caratars par
     .accesskey = C
-
 fonts-langgroup-arabic =
     .label = Arap
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporzionâl
     .accesskey = P
-
 fonts-default-serif =
     .label = Serif (cun graciis)
 fonts-default-sans-serif =
     .label = Sans Serif (cence graciis)
-
 fonts-proportional-size = Dimension
     .accesskey = D
-
 fonts-serif = Serif (cun graciis)
     .accesskey = S
-
 fonts-sans-serif = Sans-serif (cence graciis)
     .accesskey = n
-
 fonts-monospace = Largjece fisse
     .accesskey = f
-
 fonts-monospace-size = Dimension
     .accesskey = e
-
 fonts-minsize = Dimension minime dal caratar
     .accesskey = o
-
 fonts-minsize-none =
     .label = Nissune
-
 fonts-allow-own =
     .label = Permet aes pagjinis di sielzi i lôr caratars, invezit des tôs selezions chi parsore
     .accesskey = a
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

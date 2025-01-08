@@ -4,13 +4,11 @@
 
 migration-wizard =
     .title = Encontu pa importar
-
 import-from =
     { PLATFORM() ->
         [windows] Importar les opciones, los marcadores, l'historial, les contraseñes y otros datos de:
        *[other] Importar les preferencies, los marcadores, l'historial, les contraseñes y otros datos de:
     }
-
 import-from-bookmarks = Importar los marcadores de:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -51,34 +49,21 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
-
 no-migration-sources = Nun pudieron atopase programes que contuvieren datos de marcadores, historial o contraseñes.
-
 import-source-page-title = Importación d'axustes y datos
 import-items-page-title = Elementos a importar
-
 import-items-description = Esbilla qué elementos importar:
-
 import-permissions-page-title = Da-y permisos a { -brand-short-name }, por favor
-
 import-migrating-page-title = Importando…
-
 import-migrating-description = Tán importándose los elementos de darréu…
-
 import-select-profile-page-title = Esbilla d'un perfil
-
 import-select-profile-description = Los perfiles de darréu tán disponibles pa importar dende:
-
 import-done-page-title = Completóse la importación
-
 import-done-description = Importáronse con ésitu los elementos de darréu:
-
 import-close-source-browser = Asegúrate que'l restolador esbilláu ta zarráu enantes de siguir, por favor.
-
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-chrome = Google Chrome
-
 imported-safari-reading-list = Llista de llectura (de Safari)
 imported-edge-reading-list = Llista de llectura (d'Edge)
 
@@ -100,7 +85,6 @@ browser-data-cookies-checkbox =
     .label = Cookies
 browser-data-cookies-label =
     .value = Cookies
-
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -113,12 +97,10 @@ browser-data-history-label =
             [firefox] Historial de restolar y marcadores
            *[other] Historial de restolar
         }
-
 browser-data-formdata-checkbox =
     .label = Historial de formularios guardáos
 browser-data-formdata-label =
     .value = Historial de formularios guardaos
-
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -127,7 +109,6 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Cuentes y contraseñes guardaes
-
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -142,14 +123,11 @@ browser-data-bookmarks-label =
             [edge] Favoritos
            *[other] Marcadores
         }
-
 browser-data-otherdata-checkbox =
     .label = Otros datos
 browser-data-otherdata-label =
     .label = Otros datos
-
 browser-data-session-checkbox =
     .label = Ventanes y llingüetes
 browser-data-session-label =
     .value = Ventanes y llingüetes
-

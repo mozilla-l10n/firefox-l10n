@@ -45,6 +45,9 @@ protections-panel-content-blocking-fingerprinters-label = Méarlorgairí
 protections-panel-blocking-label = Coiscthe
 protections-panel-not-blocking-label = Ceadaithe
 
+## Smartblock strings
+
+
 ##
 
 protections-panel-settings-label = Socruithe Cosanta

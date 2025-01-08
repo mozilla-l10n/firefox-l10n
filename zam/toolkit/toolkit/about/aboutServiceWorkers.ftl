@@ -5,6 +5,7 @@
 
 ### The term "Service Workers" and "Workers" should not be translated
 
+
 ## These strings are for showing the information of workers.
 ##
 ## Variables:
@@ -13,5 +14,4 @@
 
 # This term is used as a button label (verb, not noun).
 update-button = Li kub
-
 waiting = Leet chunt...

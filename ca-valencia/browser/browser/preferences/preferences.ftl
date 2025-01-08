@@ -120,7 +120,7 @@ confirm-on-close-multiple-tabs =
     .accesskey = m
 # This string is used for the confirm before quitting preference.
 # Variables:
-#   $quitKey (String) - the quit keyboard shortcut, and formatted
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 confirm-on-quit-with-key =
@@ -163,7 +163,7 @@ containers-disable-alert-ok-button =
 containers-disable-alert-cancel-button = Mantén activades
 containers-remove-alert-title = Voleu eliminar este contenidor?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Si elimineu aquest contenidor ara, es tancarà { $count } pestanya de contenidor. Segur que voleu eliminar aquest contenidor?
@@ -186,6 +186,8 @@ advanced-fonts =
 preferences-zoom-header = Zoom
 preferences-default-zoom = Zoom per defecte
     .accesskey = Z
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
@@ -278,15 +280,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Demana-m'ho sempre
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Utilitza { $plugin-name } (en el { -brand-short-name })
 applications-open-inapp =
@@ -322,6 +324,8 @@ play-drm-content =
 play-drm-content-learn-more = Més informació
 update-application-title = Actualitzacions del { -brand-short-name }
 update-application-description = Manteniu el { -brand-short-name } actualitzat per obtindre el millor rendiment, estabilitat i seguretat.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Versió { $version } <a data-l10n-name="learn-more">Novetats</a>
 update-history =
     .label = Mostra l'historial d'actualitzacions…
@@ -345,7 +349,7 @@ update-application-use-service =
     .accesskey = s
 update-setting-write-failure-title2 = Error en guardar els paràmetres d'actualització
 # Variables:
-#   $path (String) - Path to the configuration file
+#   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
@@ -375,7 +379,7 @@ performance-limit-content-process-option = Límit de processos de contingut
 performance-limit-content-process-enabled-desc = Més processos de contingut poden millorar el rendiment quan utilitzeu diverses pestanyes, però també utilitzaran més memòria.
 performance-limit-content-process-blocked-desc = El nombre de processos de contingut només es pot modificar amb el { -brand-short-name } multiprocés. <a data-l10n-name="learn-more">Més informació sobre com comprovar si el multiprocés està activat.</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (per defecte)
 
@@ -465,8 +469,7 @@ home-prefs-shortcuts-description = Llocs que guardeu o visiteu
 home-prefs-shortcuts-by-option-sponsored =
     .label = Dreceres patrocinades
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Recomanat per { $provider }
@@ -495,6 +498,8 @@ home-prefs-recent-activity-description = Una selecció de continguts i llocs rec
 home-prefs-snippets-header =
     .label = Retalls
 home-prefs-snippets-description-new = Consells i novetats de { -vendor-short-name } i del { -brand-product-name }
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -554,7 +559,7 @@ search-find-more-link = Afegiu més motors de cerca
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Duplica la paraula clau
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Heu triat una paraula clau que ja utilitza «{ $name }». Seleccioneu-ne una altra.
 search-keyword-warning-bookmark = Heu triat una paraula clau que ja utilitza una adreça d'interés. Seleccioneu-ne una altra.
 
@@ -836,8 +841,8 @@ history-clear-button =
 sitedata-header = Galetes i dades dels llocs
 sitedata-total-size-calculating = S'està calculant la mida de les dades dels llocs i de la memòria cau…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Les galetes, les dades dels llocs i la memòria cau actualment ocupen { $value } { $unit } d'espai de disc.
 sitedata-learn-more = Més informació
 sitedata-delete-on-close =

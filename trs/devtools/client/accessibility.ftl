@@ -6,17 +6,12 @@
 ### These strings are used inside the Accessibility panel.
 
 accessibility-learn-more = Gahuin chrūn doj
-
 accessibility-text-label-header = Etiketâ teksto ni si yugui
-
-## Text entries that are used as text alternative for icons that depict accessibility isses.
-
 
 ## These strings are used in the overlay displayed when running an audit in the accessibility panel
 
 accessibility-progress-initializing = Hìaj ayi'ìj…
     .aria-valuetext = Hìaj ayi'ìj…
-
 accessibility-progress-finishing = Ngà huaj nahui…
     .aria-valuetext = Ngà huaj nahui…
 
@@ -24,10 +19,8 @@ accessibility-progress-finishing = Ngà huaj nahui…
 
 accessibility-warning =
     .alt = Ga gudadû
-
 accessibility-fail =
     .alt = Nitaj si hua hue'ej
-
 accessibility-best-practices =
     .alt = Nej sa ahui hue'ê doj
 

@@ -125,11 +125,11 @@ applications-manage-app =
 applications-always-ask =
     .label = हरदम पूछू
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } ({ -brand-short-name } मे)क' प्रयोग  करू
 
@@ -207,11 +207,8 @@ choose-bookmark =
 home-prefs-search-header =
     .label = वेब खोज
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
-# Variables:
-#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } द्वारा अनुशंसित
 
@@ -231,6 +228,8 @@ home-prefs-highlights-option-most-recent-download =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = अंश
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -259,7 +258,7 @@ search-remove-engine =
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = बीजशब्द अनुकृति
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = अहाँ एकटा बीजशब्द चुनने छी जे अखन "{ $name }" क द्वारा प्रयोग मे अछि . कृप्या दूसरा चुनू.
 search-keyword-warning-bookmark = अहाँ एकटाटा बीजशब्द चुनने छी जे अखन पुस्तकचिह्नक द्वारा प्रयोग मे अछि. कृप्या दूसरा चुनू.
 
@@ -325,6 +324,9 @@ forms-exceptions =
 forms-saved-logins =
     .label = सहेजल लॉगिन…
     .accesskey = L
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = मुख्य गुड़किल्ली बदलू…
     .accesskey = M

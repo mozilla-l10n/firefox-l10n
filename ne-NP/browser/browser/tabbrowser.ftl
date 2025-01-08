@@ -3,12 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = नयाँ ट्याब
-
 tabbrowser-menuitem-close-tab =
     .label = ट्याब बन्द गर्नुहोस्
 tabbrowser-menuitem-close =
     .label = बन्द गर्नुहोस्
-
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
@@ -40,12 +38,19 @@ tabbrowser-confirm-close-tabs-button = ट्याबहरू बन्द ग
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
 
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+
 ## Confirmation dialog when opening multiple tabs simultaneously
 
 tabbrowser-confirm-open-multiple-tabs-title = खोल्नलाई पुष्टि गर्नुहोस्
 tabbrowser-confirm-open-multiple-tabs-button = ट्याबहरु खोल्नुहोस्
 
 ## Confirmation dialog for enabling caret browsing
+
+
+## Confirmation dialog for closing all duplicate tabs
 
 
 ##
@@ -69,4 +74,11 @@ tabbrowser-ctrl-tab-list-all-tabs =
     .label = सबै { $tabCount } ट्याबहरू देखाउनुहोस्
 
 ## Tab manager menu buttons
+
+
+## Tab Groups
+
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 

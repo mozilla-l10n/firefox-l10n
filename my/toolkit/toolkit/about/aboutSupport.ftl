@@ -4,7 +4,6 @@
 
 page-title = အခက်အခဲဆိုင်ရာဖြေရှင်းခြင်းနည်းလမ်းများ။
 page-subtitle = This page contains technical information that might be useful when you're trying to solve a problem. If you are looking for answers to common questions about { -brand-short-name }, check out our <a data-l10n-name="support-link">support website</a>.
-
 crashes-title = ပျက်ဆီးချက်တင်ပြသူ
 crashes-id = ထုတ်ပြန်ချက် ID
 crashes-send-date = တင်သွင်းခဲ့သောအချိန်
@@ -40,7 +39,6 @@ app-basics-profiles = ပရိုဖိုင်များ
 app-basics-multi-process-support = တစ်ပြိုင်နက်လုပ်ဆောင်ချက် ဝင်းဒိုးများ
 app-basics-key-mozilla = Mozilla Location Service Key
 app-basics-safe-mode = အန္တရာယ်ကင်း စနစ်
-
 show-dir-label =
     { PLATFORM() ->
         [macos] ရှာဖွေကိရိယာမှာ ဖေါ်ပြပါ
@@ -89,6 +87,12 @@ audio-backend = အသံနောက်ကွယ်
 
 ## Codec support table
 
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+
 ##
 
 
@@ -107,23 +111,18 @@ audio-backend = အသံနောက်ကွယ်
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days = လွန်ခဲ့သော { $days } ရက်အတွက် ပျက်စီးမှု အစီရင်ခံစာများ
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes = လွန်ခဲ့သော { $minutes } မိနစ်က
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours = လွန်ခဲ့သော { $hours } နာရီက
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days = လွန်ခဲ့သော { $days } ရက်က
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports = ပျက်စီးမှု အစီရင်ခံစာ အားလုံး (သတ်မှတ်ထားသော ကာလအတွင်းရှိ ဆိုင်းငံ့ ပျက်စီးမှု အစီရင်ခံစာ { $reports } စောင် အပါအဝင်)
-
 raw-data-copied = ကလစ်ဘုတ်သို့ ကူးပြီးသောဒေတာအကြမ်း
 text-copied = ကလစ်ဘုတ်သို့ ကူးပြီးသောစာ
 
@@ -136,11 +135,9 @@ blocked-mismatched-version = သင့် ရုပ်ထွက်ပြကြ�
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = သင်၏ရုပ်ထွက်ပြဆော့ဝဲဗားရှင်းအရပိတ်ထားသည်။ကျေးဇူးပြုသင့်ဆော့ဝဲကို { $driverVersion } အဆင့်သို့မဟုတ်ထိုထက်အသစ်သို့မြှင့်တင်ပေးပါ။
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType Parameters
-
 compositing = ပေါင်းစပ်ဖွဲ့စည်းခြင်း
 hardware-h264 = Hardware H264 Decoding
 main-thread-no-omtc = အဓိက thread, OMTC မပါဝင်
@@ -153,7 +150,6 @@ no = မဟုတ်ပါ
 
 found = တွေ့ပြီ
 missing = ပျောက်နေသော
-
 gpu-description = ဖေါ်ပြချက်
 gpu-vendor-id = ထုတ်လုပ်ရောင်းချသူ အမှတ်အသား
 gpu-device-id = ပစ္စည်း အမှတ်အသား
@@ -173,20 +169,15 @@ webgl2-renderer = WebGL2 ပံ့ပိုးသူ
 webgl2-version = WebGL 2 စက်သုံးဗားရှင်း
 webgl2-driver-extensions = WebGL 2 စက်သုံးချဲ့ သုံးဆော့ဝဲများ
 webgl2-extensions = WebGL 2 ချဲ့သုံးဆော့ဝဲများ
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = ပိတ်ပင်စာရင်းထဲ ထည့်ထားသည်။; အမှားကုဒ် { $failureCode }
-
 d3d11layers-crash-guard = D3D11 Compositor
 glcontext-crash-guard = OpenGL
-
 reset-on-next-restart = နောက်တစ်ကြိမ်ဖွင့်သည့်အချိန်တွင် တန်ဖိုးများကို မူလအတိုင်း ပြန်သတ်မှတ်ပါ
 gpu-process-kill-button = GPU လုပ်ဆောင်မှုကို ရပ်ဆိုင်းရန်
-
 min-lib-versions = ရှိသင့်တဲ့ အနိမ့်ဆုံး ဗားရှင်း
 loaded-lib-versions = အသုံးပြုသည့် ဗားရှင်း
-
 has-seccomp-bpf = Seccomp-BPF (System Call Filtering)
 has-seccomp-tsync = Seccomp Thread Synchronization
 has-user-namespaces = User Namespaces
@@ -196,12 +187,10 @@ can-sandbox-media = မီဒီယာ ပလပ်အင် စမ်းသပ�
 content-sandbox-level = Content Process Sandbox Level
 sandbox-proc-type-content = အကြောင်းအရာ
 sandbox-proc-type-media-plugin = မီဒီယာ ပလက်ဂ်အင်
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-
 async-pan-zoom = Asynchronous Pan/Zoom
 apz-none = မရွေးပါ
 wheel-enabled = မောက်စ်အလယ်ဘီးမှ ဒေတာလက်ခံမှုကို ဖွင့်ထားသည်
@@ -216,7 +205,18 @@ touch-warning = မထောက်ပံ့ထားသော အပြင်အ
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+
 ## Printing section
 
+
+## Remote Settings sections
+
+
 ## Normandy sections
+
+
+## Pointing devices
+
+
+## Content Analysis (DLP)
 

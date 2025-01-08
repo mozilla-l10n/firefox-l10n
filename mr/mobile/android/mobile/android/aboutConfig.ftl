@@ -6,11 +6,9 @@ config-toolbar-search =
     .placeholder = शोधा
 config-new-pref-name =
     .placeholder = नाव
-
 config-new-pref-value-boolean = बूलियन
 config-new-pref-value-string = स्ट्रिंग
 config-new-pref-value-integer = पूर्णांक
-
 config-new-pref-string =
     .placeholder = स्ट्रिंग प्रविष्ट करा
 config-new-pref-number =
@@ -18,12 +16,9 @@ config-new-pref-number =
 config-new-pref-cancel-button = रद्द करा
 config-new-pref-create-button = बनवा
 config-new-pref-change-button = बदला
-
 config-pref-toggle-button = टॉगल करा
 config-pref-reset-button = पूर्ववत करा
-
 config-context-menu-copy-pref-name =
     .label = नावाची प्रत बनवा
 config-context-menu-copy-pref-value =
     .label = मूल्याची प्रत बनवा
-

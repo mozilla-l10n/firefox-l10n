@@ -6,8 +6,6 @@ title-label = A prepaus dels moduls
 installed-plugins-label = Plugins activats
 no-plugins-are-installed-label = Cap de plugin activat pas trobat
 deprecation-description = Vos manca quicòm ? Unes plugins son pas mai preses en carga. <a data-l10n-name="deprecation-link">Ne saber mai.</a>
-deprecation-description2 =
-    .message = Vos manca quicòm ? Unes plugins son pas mai preses en carga.
 
 ## The information of plugins
 ##

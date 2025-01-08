@@ -103,7 +103,6 @@ print-window =
     .title = Goyo
 print-complete =
     .value = Otyeko goyo coc.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

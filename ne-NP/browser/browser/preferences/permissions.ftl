@@ -5,49 +5,37 @@
 permissions-window2 =
     .title = अपवादहरू
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = वेबसाइटको ठेगाना
     .accesskey = d
-
 permissions-block =
     .label = छेक्नुहोस्
     .accesskey = B
-
 permissions-session =
     .label = सत्रका लागि अनुमति दिनुहोस्
     .accesskey = S
-
 permissions-allow =
     .label = अनुमति दिनुहोस्
     .accesskey = A
-
 permissions-site-name =
     .label = वेबसाइट
-
 permissions-status =
     .label = स्थिति
-
 permissions-remove =
     .label = साइट हटाउनुहोस्
     .accesskey = R
-
 permissions-remove-all =
     .label = सबै साइट हटाउनुहोस्
     .accesskey = e
-
 permissions-searchbox =
     .placeholder = वेबसाइट खोज्नुहोस्
-
 permissions-capabilities-allow =
     .label = अनुमति दिनुहोस्
 permissions-capabilities-block =
     .label = छेक्नुहोस्
 permissions-capabilities-prompt =
     .label = सधैँ सोध्नुहोस्
-
 permissions-capabilities-listitem-allow =
     .value = अनुमति दिनुहोस्
 permissions-capabilities-listitem-block =
@@ -85,6 +73,9 @@ permissions-exceptions-saved-logins-window2 =
     .title = अपवादहरू - सङ्ग्रहित लग-इनहरू
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = निम्न वेबसाइटहरू को लागि लगइनहरू संग्रह गरिँदैन
+
+## Exceptions - Saved Passwords
+
 
 ## Exceptions - Add-ons
 

@@ -125,6 +125,5 @@ genai-onboarding-gemini-price = Opció gratuïta i de pagament; cal un compte
 genai-onboarding-huggingchat-generate = Genera text i codi
 genai-onboarding-huggingchat-switch = Canvieu entre un ampli ventall de models oberts
 genai-onboarding-huggingchat-price-2 = Gratuït; cal un compte després d'un cert nombre de sol·licituds
-genai-onboarding-huggingchat-price = Gratuït; cal un compte per a algunes tasques
 genai-onboarding-lechat-generate = Genera text i codi
 genai-onboarding-lechat-price = Gratuït; cal un compte

@@ -39,11 +39,9 @@ compatibility-issue-occurrences =
         [one] { $number } keer
        *[other] { $number } keer
     }
-
 compatibility-no-issues-found = Geen compatibiliteitsproblemen gevonden.
 compatibility-close-settings-button =
     .title = Instellingen sluiten
-
 # Text used in the element containing the browser icons for a given compatibility issue.
 # Line breaks are significant.
 # Variables:

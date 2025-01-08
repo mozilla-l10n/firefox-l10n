@@ -271,3 +271,15 @@ launch-on-login-infobar-final-reject-button = No, gràcies
 
 tail-fox-spotlight-primary-button = Obre els enllaços amb el { -brand-short-name }
 tail-fox-spotlight-secondary-button = Ara no
+
+## Root Certificate Succession Infobar
+
+
+## Root Certificate Succession Windows Background Notification
+
+
+## FxA Menu Message variants
+
+
+## Multi-CTA Fox Doodle Spotlight
+

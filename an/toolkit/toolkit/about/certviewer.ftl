@@ -16,5 +16,6 @@ certificate-viewer-certificate-section-title = Certificau
 
 ##
 
+
 ## Labels for tabs displayed in stand-alone about:certificate page
 

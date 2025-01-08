@@ -20,13 +20,12 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Qidiruv
     .aria-label = Qidiruv
-
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = { $engine } orqali qidiring yoki manzilni kiriting
 newtab-search-box-handoff-text-no-engine = Izlang yoki manzilni kiriting
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
     .placeholder = { $engine } orqali qidiring yoki manzilni kiriting
     .title = { $engine } orqali qidiring yoki manzilni kiriting
@@ -35,7 +34,6 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Qidiring yoki manzilni kiriting
     .title = Qidiring yoki manzilni kiriting
     .aria-label = Qidiring yoki manzilni kiriting
-
 newtab-search-box-text = Internetdan qidirish
 newtab-search-box-input =
     .placeholder = Internetdan qidirish
@@ -50,12 +48,10 @@ newtab-topsites-edit-shortcut-header = Tugmalar birikmasini tahrirlash
 newtab-topsites-title-label = Nomi
 newtab-topsites-title-input =
     .placeholder = Nomini kiriting
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = URL manzilini kiriting
 newtab-topsites-url-validation = URL manzilini bexato kiriting
-
 newtab-topsites-image-url-label = Rasmning URL manzili
 newtab-topsites-use-image-link = Boshqa rasmdan foydalaning…
 newtab-topsites-image-validation = Rasm yuklanmadi. Boshqa URL manzildan foydalaning.
@@ -84,15 +80,13 @@ newtab-topsite-sponsored = Homiylik qilgan
 newtab-menu-section-tooltip =
     .title = Menyuni ochish
     .aria-label = Menyuni ochish
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Olib tashlash
     .aria-label = Olib tashlash
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
-#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+#   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .title = Menyuni ochish
     .aria-label = { $title } uchun matn menyusini ochish
@@ -157,21 +151,18 @@ newtab-label-removed-bookmark = Xatchoʻp olib tashlandi
 newtab-label-recommended = Trendda
 newtab-label-saved = { -pocket-brand-name } xizmatiga saqlandi
 newtab-label-download = Yuklab olindi
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
-#  $sponsorOrSource (String): This is the name of a company or their domain
+#   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Reklama huquqi asosida
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
-#  $sponsor (String): This is the name of a sponsor
+#   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = Homiydan ({ $sponsor })
-
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
-#  $source (String): This is the name of a company or their domain
-#  $timeToRead (Number): This is the estimated number of minutes to read this story
+#   $source (string) - The name of a company or their domain
+#   $timeToRead (number) - The estimated number of minutes to read this story
 newtab-label-source-read-time = { $source } · { $timeToRead } daq
 
 ## Section Menu: These strings are displayed in the section context menu and are
@@ -200,16 +191,15 @@ newtab-section-expand-section-label =
 newtab-section-header-topsites = Ommabop saytlar
 newtab-section-header-recent-activity = Soʻnggi faoliyat
 # Variables:
-#  $provider (String): Name of the corresponding content provider.
+#   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } tomonidan tavsiya qilingan
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Saytlarni koʻrishni boshlashingiz bilan biz sizga ajoyib maqola, video va oxirgi kirilgan yoki xatchoʻplarga qoʻshilgan sahifalarni koʻrsatamiz.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
-#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Hammasini koʻrib chiqdingiz. { $provider }dan soʻnggi hikoyalarni o‘qish uchun keyinroq bu sahifaga qayting. Kuta olmaysizmi? Internetdan eng zoʻr hikoyalarni topish uchun ommabop mavzuni tanlang.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
@@ -230,11 +220,11 @@ newtab-pocket-learn-more = Batafsil
 newtab-pocket-cta-button = { -pocket-brand-name }ni yuklab olish
 newtab-pocket-cta-text = Sizga yoqqan maqolalarni { -pocket-brand-name } xizmatiga saqlab qoʻying va maroqli oʻqib, tafakkuringizni rivojlantiring
 
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
 
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -245,3 +235,32 @@ newtab-error-fallback-refresh-link = Yana urinib ko‘rish uchun sahifani yangil
 ## Customization Menu
 
 newtab-custom-settings = Boshqa sozlamalarni boshqarish
+
+## New Tab Wallpapers
+
+
+## Solid Colors
+
+
+## Abstract
+
+
+## Photographs
+
+
+## New Tab Weather
+
+
+## Topic Labels
+
+
+## Topic Selection Modal
+
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Confirmation modal for blocking a section
+

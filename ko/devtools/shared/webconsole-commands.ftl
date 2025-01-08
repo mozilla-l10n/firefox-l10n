@@ -22,13 +22,3 @@ webconsole-commands-usage-unblock =
     네트워크 요청 차단 중지
     
       이전에 :block에 전달된 정확히 동일한 문자열인 하나의 인수만 허용합니다.
-# Usage string for :trace command
-webconsole-commands-usage-trace =
-    :trace
-    
-    JavaScript 추적기를 전환합니다.
-    
-      다음 인수를 지원합니다:
-        --logMethod 웹 콘솔에 로깅하기 위해 'console'(기본값)로 설정하거나 표준 출력에 로깅하기 위해 'stdout'으로 설정,
-        --prefix 모든 추적 로그 앞에 기록될 선택적 문자열,
-        --help 또는 --usage 이 메시지를 표시합니다.

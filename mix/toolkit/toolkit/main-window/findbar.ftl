@@ -7,7 +7,6 @@
 
 findbar-find-button-close =
     .tooltiptext = Kasi barra nu ndukuku
-
 findbar-highlight-all2 =
     .label = Ndakai ntii
     .accesskey =
@@ -16,14 +15,11 @@ findbar-highlight-all2 =
            *[other] a
         }
     .tooltiptext = Resaltar todas las apariciones de la frase
-
 findbar-case-sensitive =
     .label = Sensible a mayúsculas
     .accesskey = m
     .tooltiptext = Buscar distinguiendo mayúsculas y minúsculas
-
 findbar-entire-word =
     .label = Palabras completas
     .accesskey = w
     .tooltiptext = Buscar solo palabras completas
-

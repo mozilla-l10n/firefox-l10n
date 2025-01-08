@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -9,13 +10,11 @@
 
 psmerr-ssl-disabled = Nepavyko užmegzti saugaus ryšio, nes SSL protokolo naudojimas išjungtas.
 psmerr-ssl2-disabled = Nepavyko užmegzti saugaus ryšio, nes svetainė naudoja seną, nesaugią SSL protokolo atmainą.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Gautas netinkamas liudijimas. Prašom susisiekti su serverio administratoriumi ar el. pašto korespondentu ir pranešti jam šią informaciją:
     
     Jūsų liudijimo numeris sutampa su kito liudijimo, išduoto tos pačios liudijimų įstaigos. Prašom įsigyti naują liudijimą su unikaliu serijos numeriu.
-
 ssl-error-export-only-server = Saugaus ryšio užmegzti nepavyko. Partnerinis kompiuteris nepalaiko aukšto lygio šifravimo.
 ssl-error-us-only-server = Saugaus ryšio užmegzti nepavyko. Partnerinis kompiuteris reikalauja aukšto lygio šifravimo, tačiau jis nepalaikomas.
 ssl-error-no-cypher-overlap = Saugaus ryšio užmegzti nepavyko, nes nerasta bendrų šifravimo algoritmų.
@@ -152,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = Nesukonfigūruotas joks palaikomas 
 ssl-error-unsupported-signature-algorithm = Partnerinis kompiuteris naudoja nepalaikomą parašo ir maišos algoritmo kombinaciją.
 ssl-error-missing-extended-master-secret = Partnerinis kompiuteris bandė pratęsti ryšį be tinkamo „extended_master_secret“ plėtinio.
 ssl-error-unexpected-extended-master-secret = Partnerinis kompiuteris bandė pratęsti ryšį su nelauktu „extended_master_secret“ plėtiniu.
-
 sec-error-io = Saugiai nustatant tapatybę įvyko įvesties–išvesties klaida.
 sec-error-library-failure = saugumo bibliotekos klaida.
 sec-error-bad-data = saugumo biblioteka: gauti netinkami duomenys.
@@ -319,7 +317,6 @@ sec-error-locked-password = Slaptažodis fiksuotas.
 sec-error-unknown-pkcs11-error = Nežinoma PKCS #11 klaida.
 sec-error-bad-crl-dp-url = Nurodytas CRL (atšauktų liudijimų sąrašo) adresas yra neleistinas arba nežinomo tipo.
 sec-error-cert-signature-algorithm-disabled = Liudijimas pasirašytas, naudojant nesaugų ir todėl nepalaikomą algoritmą.
-
 mozilla-pkix-error-key-pinning-failure = Šis serveris yra reikalavęs įsiminti šifravimui naudojamus raktus (HPKP), tačiau iš dabar pateiktų liudijimų nepavyko sukonstruoti liudijimų grandinės, tenkinančios įsimintus raktus. Šio tipo pažeidimų nepaisyti neleidžiama.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Šio serverio pateiktame liudijime naudojamas „Basic Constraints“ plėtinys, identifikuojantis patį serverį kaip liudijimų įstaigą. Tvarkingai išduotų liudijimų atveju taip neturėtų būti.
 mozilla-pkix-error-inadequate-key-size = Šis serveris pateikė liudijimą, kurio rakto dydis per mažas saugiam ryšiui užmegzti.
@@ -334,11 +331,9 @@ mozilla-pkix-error-invalid-integer-encoding = Serveris pateikė liudijimą su ne
 mozilla-pkix-error-empty-issuer-name = Serveris pateikė liudijimą su tuščiu išdavėjo unikaliu vardu.
 mozilla-pkix-error-additional-policy-constraint-failed = Tikrinant šį liudijimą nepavyko papildomas nuostatų apribojimas.
 mozilla-pkix-error-self-signed-cert = Liudijimu nepasitikima, nes jis yra pasirašytas paties gavėjo.
-
 xp-java-remove-principal-error = Nepavyko pašalinti mazgo
 xp-java-delete-privilege-error = Nepavyko panaikinti privilegijos
 xp-java-cert-not-exists-error = Šis mazgas neturi liudijimo
-
 xp-sec-fortezza-bad-card = „Fortezza“ korta nebuvo tvarkingai inicijuota. Išimkite ją ir grąžinkite tam, kas ją suteikė.
 xp-sec-fortezza-no-card = „Fortezza“ kortų nerasta
 xp-sec-fortezza-none-selected = Nepasirinkta „Fortezza“ korta

@@ -16,16 +16,16 @@ videocontrols-exitfullscreen-button =
     .aria-label = ចេញ​ពី​ពេញ​អេក្រង់
 videocontrols-casting-button-label =
     .aria-label = ចាត់ថ្នាក់អេក្រង់
+# .offlabel is processed by the video control custom element to be used
+# as a text-track label
 videocontrols-closed-caption-off =
     .offlabel = បិទ
-
 videocontrols-error-aborted = បាន​បញ្ឈប់​ការ​ផ្ទុក​វីដេអូ ។
 videocontrols-error-network = បាន​បោះបង់​ការ​ចាក់​វីដេអូ​សារថ្មី ដោយសារតែ​កំហុស​បណ្ដាញ ។
 videocontrols-error-decode = មិន​អាច​ចាក់​វីដេអូ​បាន​ទេ ពីព្រោះ​ឯកសារ​ខូច ។
 videocontrols-error-src-not-supported = ទ្រង់ទ្រាយ​វីដេអូ ឬ​ប្រភេទ MIME មិន​ត្រូវ​បាន​គាំទ្រ ។
 videocontrols-error-no-source = រក​មិន​ឃើញ​វីដេអូ​ដែល​មាន​ទ្រង់ទ្រាយ និង​ប្រភេទ MIME ដែល​បាន​គាំទ្រ ។
 videocontrols-error-generic = បាន​បោះបង់​ការ​ចាក់​វីដេអូ​សារថ្មី ដោយសារតែ​កំហុស​ដែល​មិន​ស្គាល់ ។
-
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -39,4 +39,3 @@ videocontrols-error-generic = បាន​បោះបង់​ការ​ច�
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
-

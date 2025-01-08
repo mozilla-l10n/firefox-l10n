@@ -9,6 +9,12 @@
 # NOTE: For Engineers, please don't re-use these strings outside of the menubar.
 
 
+# NOTE: For English locales, strings in this file should be in APA-style Title Case.
+# See https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case
+#
+# NOTE: For Engineers, please don't reuse these strings outside of the menubar.
+
+
 ## Application Menu (macOS only)
 
 menu-application-services =
@@ -34,11 +40,9 @@ menu-quit =
             [windows] s
            *[other] A
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Sluit { -brand-shorter-name } af
-
 menu-about =
     .label = Aangaande { -brand-shorter-name }
     .accesskey = A
@@ -201,6 +205,9 @@ menu-bookmarks-toolbar =
 menu-bookmarks-other =
     .label = Ander boekmerke
 
+## Profiles Menu
+
+
 ## Tools Menu
 
 menu-tools =
@@ -241,8 +248,7 @@ menu-help =
     .label = Hulp
     .accesskey = H
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Rapporteer misleidende werf…
     .accesskey = d

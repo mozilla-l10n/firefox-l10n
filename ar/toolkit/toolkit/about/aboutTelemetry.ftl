@@ -38,7 +38,7 @@ about-telemetry-fetch-stack-symbols = اجلب أسماء الدوال للمك�
 about-telemetry-hide-stack-symbols = اعرض بيانات المكدس الخام
 # Selects the correct release version
 # Variables:
-#   $channel (String): represents the corresponding release data string
+#   $channel (string) - Represents the corresponding release data string
 about-telemetry-data-type =
     { $channel ->
         [release] بيانات الإصدار
@@ -46,43 +46,43 @@ about-telemetry-data-type =
     }
 # Selects the correct upload string
 # Variables:
-#   $uploadcase (String): represents a corresponding upload string
+#   $uploadcase (string) - Represents a corresponding upload string
 about-telemetry-upload-type =
     { $uploadcase ->
         [enabled] مفعّل
        *[disabled] معطّل
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = تظهر هذه الصفحة معلومات عن الأداء، و العتاد، و الاستخدام، و التخصيصات التي جمعتها أداة تليمتري. تُرسل هذه المعلومات إلى { $telemetryServerOwner } للمساعدة في تحسين { -brand-full-name }.
 about-telemetry-settings-explanation = يجمع تيليمتري { about-telemetry-data-type } و الرفع <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
-#   $name (String): ping name, e.g. “saved-session”
-#   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
+#   $name (string) - Ping name, e.g. “saved-session”
+#   $timestamp (string) - Ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = كل معلومة ترسل مدمجة مع ”<a data-l10n-name="ping-link">طَرَقَات</a>“. تنظر حاليًا إلى طَرْقَة ‏{ $name }، ‏{ $timestamp }.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $selectedTitle (String): the section name from the structure of the ping.
+#   $selectedTitle (string) - The section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = ابحث في { $selectedTitle }
 about-telemetry-filter-all-placeholder =
     .placeholder = ابحث في كل الأقسام
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-results-for-search = نتائج ”{ $searchTerms }“
 # More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $sectionName (String): the section name from the structure of the ping.
-#   $currentSearchText (String): the current text in the search input
+#   $sectionName (string) - The section name from the structure of the ping.
+#   $currentSearchText (string) - The current text in the search input
 about-telemetry-no-search-results = للأسف لا نتائج في { $sectionName } عن ”{ $currentSearchText }“
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-no-search-results-all = للأسف لا نتائج في أي من أقسام ”{ $searchTerms }“
 # This message is displayed when a section is empty.
 # Variables:
-#   $sectionName (String): is replaced by the section name.
+#   $sectionName (string) - Is replaced by the section name.
 about-telemetry-no-data-to-display = للأسف لا بيانات متاحة حاليا في ”{ $sectionName }“
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = البيانات الحالية
@@ -100,13 +100,13 @@ about-telemetry-slow-sql-statement = الاستعلام
 about-telemetry-addon-table-id = معرّف الإضافة
 about-telemetry-addon-table-details = التفاصيل
 # Variables:
-#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+#   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = مزوّد { $addonProvider }
 about-telemetry-keys-header = خاصية
 about-telemetry-names-header = الاسم
 about-telemetry-values-header = القيمة
 # Variables:
-#   $lateWriteCount (Integer): the number of the late writes
+#   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = كتابة متأخرة #{ $lateWriteCount }
 about-telemetry-stack-title = المكدّس:
 about-telemetry-memory-map-title = خريطة الذاكرة:

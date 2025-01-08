@@ -3,5 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = పునఃప్రారంభం అవసరం
-
 restart-button-label = { -brand-short-name }‌ను పునఃప్రారంభించు

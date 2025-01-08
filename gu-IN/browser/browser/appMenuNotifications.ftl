@@ -5,7 +5,6 @@
 appmenu-addon-post-install-incognito-checkbox =
     .label = ખાનગી વિંડોઝમાં આ એક્સ્ટેન્શનને ચલાવવાની મંજૂરી આપો
     .accesskey = A
-    
 appmenu-tab-hide-controlled =
     .label = તમારી હિડન ટૅબ્સ ઍક્સેસ કરો
     .buttonlabel = ટેબ્સને છુપાવીને રાખો

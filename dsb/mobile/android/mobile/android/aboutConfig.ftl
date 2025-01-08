@@ -6,11 +6,9 @@ config-toolbar-search =
     .placeholder = Pytaś
 config-new-pref-name =
     .placeholder = Mě
-
 config-new-pref-value-boolean = Boolean
 config-new-pref-value-string = String
 config-new-pref-value-integer = Integer
-
 config-new-pref-string =
     .placeholder = Zapódajśo znamuškowy rjeśazk
 config-new-pref-number =
@@ -18,12 +16,9 @@ config-new-pref-number =
 config-new-pref-cancel-button = Pśetergnuś
 config-new-pref-create-button = Napóraś
 config-new-pref-change-button = Změniś
-
 config-pref-toggle-button = Pśešaltowaś
 config-pref-reset-button = Slědk stajiś
-
 config-context-menu-copy-pref-name =
     .label = Mě kopěrowaś
 config-context-menu-copy-pref-value =
     .label = Gódnotu kopěrowaś
-

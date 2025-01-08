@@ -14,17 +14,17 @@ protections-panel-etp-more-info =
     .aria-label = Gini'in doj dàj hua rayi'î sa narán rayi'ît nga aché nunt
 protections-panel-etp-on-header = Nga 'iaj sun sa narán rayi'ît nga aché nunt riña sitiô nan
 protections-panel-etp-off-header = Nitāj si 'iaj sun sa narán rayi'ît nga aché nunt riña sitiô nan
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Nitāj si 'iaj sun sîtio a'?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Nitāj si 'iaj sun Sîtio a'?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Nitāj si 'iaj sun sîtio a'?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Nitāj si 'iaj sun Sîtio a'?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -54,6 +54,9 @@ protections-panel-content-blocking-fingerprinters-label = Nej da'nga ra'a
 protections-panel-blocking-label = Nitāj si hūaj nayi'nin
 protections-panel-not-blocking-label = Ga'nïn'
 protections-panel-not-found-label = Nitāj à'ngòj nari'ij
+
+## Smartblock strings
+
 
 ##
 
@@ -85,7 +88,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Natà' sna'ānj dàj hua 'ngō sitiô gire'e
 protections-panel-content-blocking-breakage-report-view-description = Ga'ue ga'uì' yi'ì da'āj nej sa naga'nāj naránt riña da'āj nej sîtio. Sisī natà' sna'ānjt nej sa huā nan nī rugûñu'ūnjt riña { -brand-short-name } da' gā hue'ej riña darûn'. Na'nïnj nuguan' ga'nïnt naj 'ngō URL nī 'ngō nuguan' dàj nadunā sa huā riña aché nunt si'iaj Mozilla. <label data-l10n-name="learn-more">Gahuin chrūn doj</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Ga'ue ga'uì' yi'ì da'āj nej sa naga'nāj naránt riña da'āj nej sîtio. Sisī natà' sna'ānjt nej sa huā nan nī rugûñu'ūnjt riña { -brand-short-name } da' gā hue'ej riña darûn'. Na'nïnj nuguan' ga'nïnt naj 'ngō URL nī 'ngō nuguan' dàj nadunā sa huā riña aché nunt si'iaj { -vendor-short-name }.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL

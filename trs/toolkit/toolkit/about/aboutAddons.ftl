@@ -219,6 +219,8 @@ shortcuts-duplicate-warning-message2 =
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Nga arajsun sa gu'nàj { $addon }
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
        *[other] Digân { $numberToShow } Doj
@@ -340,8 +342,6 @@ addon-detail-private-browsing-disallow = Si ga'nï'
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-# This is the tooltip text for the recommended badge for an extension in about:addons. The
-# badge is a small icon displayed next to an extension when it is recommended on AMO.
 addon-badge-recommended2 =
     .title = { -brand-product-name } nadiganj nej ekstensiûn nikò’ si nuguàn’ ñûnj dàj duguminj nī dàj ‘iaj sunj
     .aria-label = { addon-badge-recommended2.title }
@@ -379,7 +379,7 @@ addon-page-options-button =
 ##   $name (string) - Name of the add-on.
 
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name } nitaj si aran'anj ngà { -brand-short-name }{ $version }.
 # Variables:
 #   $version (string) - Application version.

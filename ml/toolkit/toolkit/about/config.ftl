@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = ശ്രദ്ധയോടെ മുൻപൊട്ട് പോകുക
@@ -11,11 +12,9 @@ about-config-intro-warning-button = അപകടസാധ്യത സ്വീ�
 ##
 
 about-config-page-title = വിപുലമായ മുൻ‌ഗണനകൾ
-
 about-config-search-input1 =
     .placeholder = മുൻ‌ഗണന നാമം തിരയുക
 about-config-show-all = എല്ലാം കാണിക്കൂ
-
 about-config-pref-add-button =
     .title = ചേർക്കുക
 about-config-pref-toggle-button =

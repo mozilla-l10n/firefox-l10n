@@ -67,8 +67,7 @@ settings-category-labs =
 ## Home Section - Firefox Home Content Customization
 
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 
 ##

@@ -5,4 +5,3 @@
 styleeditor-find =
     .label = Jirinhani
     .accesskey = J
-

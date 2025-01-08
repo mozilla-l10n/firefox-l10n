@@ -4,13 +4,10 @@
 
 aboutDialog-title =
     .title = Kuchuyan { -brand-full-name }
-
 releaseNotes-link = Imapash mushuk tianchu
-
 update-checkForUpdatesButton =
     .label = Maskana kunanpayashkakuna
     .accesskey = M
-
 update-checkingForUpdates = Allirikuhun kunanpayashkakuna…
 
 ## Variables:
@@ -21,10 +18,8 @@ settings-update-downloading = <img data-l10n-name="icon"/>Urahuchina aparinahun 
 ##
 
 update-applying = Kunanpachak sayllurahun...
-
 update-failed = Kunanpachakta witishka. <label data-l10n-name="failed-link">Puchuk wallpata urahuchina aparinkapa</label>
 update-failed-main = Kunanpachakta witishka. <a data-l10n-name="failed-link-main">Puchuk wallpata urahuchina aparinkapa</a>
-
 update-adminDisabled = Kunanpayashkakuna kichushka kanpak llikata kamachikana
 update-noUpdatesFound = { -brand-short-name } ña kunanpayashka
 
@@ -39,7 +34,5 @@ settings-update-manual-with-link = Kunanpayashkakuna shinankapak -pi <a data-l10
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Witkuta arikuhun <label data-l10n-name="current-channel">{ $channel }</label> witkuta kunanpayana.{ " " }
-
 bottomLinks-license = Nikikta willanata
 bottomLinks-privacy = Ñukapallak kapakkamay
-

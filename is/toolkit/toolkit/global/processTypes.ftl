@@ -5,7 +5,6 @@
 
 ##
 ## Localization for remote types defined in RemoteType.h
-##
 
 process-type-web = Vefefni
 # process used to run privileged about pages,
@@ -30,7 +29,6 @@ process-type-prealloc = Forúthlutað
 
 ##
 ## Localization for Gecko process types defined in GeckoProcessTypes.h
-##
 
 process-type-default = Aðal
 process-type-tab = Flipi
@@ -55,7 +53,6 @@ process-type-utility-actor-windows-file-dialog = Nytjatól fyrir Windows-skráag
 
 ##
 ## Other
-##
 
 # fallback
 process-type-unknown = Óþekkt

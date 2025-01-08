@@ -11,6 +11,7 @@ about-logging-stop-logging = Կանգնեցնել գրանցումը
 
 ## Logging presets
 
+
 ## Variables:
 ##   $k (String) - Variable name
 ##   $v (String) - Variable value

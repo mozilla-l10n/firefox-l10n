@@ -562,8 +562,7 @@ home-prefs-shortcuts-description = Ismal i teskelseḍ neɣ wuɣur terziḍ
 home-prefs-shortcuts-by-option-sponsored =
     .label = Inegzumen yettwarefden
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Iwelleh-it-id { $provider }

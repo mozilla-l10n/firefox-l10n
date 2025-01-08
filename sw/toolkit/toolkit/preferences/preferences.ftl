@@ -4,18 +4,15 @@
 
 password-not-set =
     .value = (akuhleliwe)
-
 pw-change-success-title = Ukushintsha Igama Lokungena Kuphumelele
 pw-change-failed-title = Ubadilishaji wa Neno la Siri Umeshindwa
 pw-remove-button =
     .label = Ondoa
-
 set-password-old-password = Nenosiri ya sasa:
 set-password-new-password = Ingiza nenosiri mpya:
 set-password-reenter-password = Ingiza tena nenosiri:
 set-password-meter = Mita ya ubora wa nenosiri
 set-password-meter-loading = Kupakia
-
 remove-info =
     .value = Lazima uingize nenosiri lako la sasa ili kuendelea:
 remove-password-old-password =

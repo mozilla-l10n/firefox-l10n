@@ -5,6 +5,8 @@
 label-disable = Keela
 label-enable = Luba
 label-interventions = Sekkumised
+# Variables:
+#   $bug (string) - Bug number
 label-more-information = Rohkem teavet: Bug { $bug }
 label-overrides = Brauseri identifikaatori (User agent) ülekirjutamised
 text-disabled-in-about-config = See funktsionaalsus on about:config alt keelatud

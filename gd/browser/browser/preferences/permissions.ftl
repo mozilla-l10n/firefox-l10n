@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Eisgeachdan
     .style = min-width: 49em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Seòladh na làraich-lìn
     .accesskey = d
-
 permissions-block =
     .label = Cuir bacadh air
     .accesskey = b
-
 permissions-disable-etp =
     .label = Cuir eisgeachd ris
     .accesskey = C
-
 permissions-session =
     .label = Ceadaich fad an t-seisein
     .accesskey = s
-
 permissions-allow =
     .label = Ceadaich
     .accesskey = a
-
 permissions-button-off =
     .label = Cuir dheth
     .accesskey = d
-
 permissions-button-off-temporarily =
     .label = Cuir dheth rè seal
     .accesskey = t
-
 permissions-site-name =
     .label = Làrach-lìn
-
 permissions-status =
     .label = Staid
-
 permissions-remove =
     .label = Thoir an làrach-lìn air falbh
     .accesskey = r
-
 permissions-remove-all =
     .label = Thoir air falbh a h-uile làrach-lìn
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = Sàbhail na h-atharraichean
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = Bun-roghainn dhan a h-uile làrach-lìn:
-
 permissions-searchbox =
     .placeholder = Lorg air an làrach-lìn
-
 permissions-capabilities-autoplay-allow =
     .label = Ceadaich fuaim is video
 permissions-capabilities-autoplay-block =
     .label = Bac fuaim
 permissions-capabilities-autoplay-blockall =
     .label = Bac fuaimean is videothan
-
 permissions-capabilities-allow =
     .label = Ceadaich
 permissions-capabilities-block =
     .label = Cuir bacadh air
 permissions-capabilities-prompt =
     .label = Faighnich dhìom an-còmhnaidh
-
 permissions-capabilities-listitem-allow =
     .value = Ceadaich
 permissions-capabilities-listitem-block =
     .value = Cuir bacadh air
 permissions-capabilities-listitem-allow-session =
     .value = Ceadaich fad an t-seisein
-
 permissions-capabilities-listitem-off =
     .value = Dheth
 permissions-capabilities-listitem-off-temporarily =
@@ -124,6 +105,9 @@ permissions-exceptions-saved-logins-window2 =
     .title = Eisgeachdan – Clàraidhean a-steach sàbhailte
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Cha dèid clàraidhean a-steach air na làraichean-lìn a leanas a shàbhaladh
+
+## Exceptions - Saved Passwords
+
 
 ## Exceptions - Add-ons
 
@@ -197,26 +181,20 @@ permissions-site-speaker-window =
     .title = Roghainnean – Ceadan a’ ghlaodhaire
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Dh’iarr na làraichean-lìn a leanas cead uidheam às-chur fuaime a thaghadh. ’S urrainn dhut co-dhùnadh dè na làraichean-lìn aig am bi cead uidheam às-chur fuaime a thaghadh.
-
 permissions-exceptions-doh-window =
     .title = Eisgeachdan làraichean-lìn airson DNS air HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = Cha chleachd { -brand-short-name } DNS tèarainte air na làraichean seo ’s na fo-àrainnean aca.
-
 permissions-doh-entry-field = Cuir a-steach ainm àrainn na làraich-lìn
     .accesskey = s
-
 permissions-doh-add-exception =
     .label = Cuir ris
     .accesskey = C
-
 permissions-doh-col =
     .label = Àrainn
-
 permissions-doh-remove =
     .label = Thoir air falbh
     .accesskey = T
-
 permissions-doh-remove-all =
     .label = Thoir air falbh na h-uile
     .accesskey = h

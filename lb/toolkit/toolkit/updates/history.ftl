@@ -5,8 +5,7 @@
 name-header = Numm aktualiséieren
 date-header = Installatiounsdatum
 type-header = Typ
-
 update-details = Detailer
-
+# Variables:
+#   $date (string) - Date the last update was installed
 update-installed-on = Installéiert den: { $date }
-

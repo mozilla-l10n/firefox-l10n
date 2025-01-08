@@ -28,7 +28,6 @@ about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = डेटा डिकोडर ({ $pid })
 about-processes-socket-process = नेटवर्क ({ $pid })
-
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -50,13 +49,13 @@ about-processes-web-isolated-process = { $origin } ({ $pid })
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name-and-id = { $name }
     .title = थ्रेड आईडी: { $tid }
-
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = टैब: { $name }
 
 ## Utility process actor names
+
 
 ## Displaying CPU (percentage and total)
 ## Variables:

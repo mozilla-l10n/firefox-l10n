@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Yahru seese
@@ -13,13 +14,10 @@ about-config-intro-warning-button = Jaɓ tanaa oo njokkaa
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Baylugol ɗee cuɓoraaɗe ina waawi jogaade baɗte { -brand-short-name } e kattanɗe walla kisal.
-
 about-config-page-title = Cuɓoraaɗe ceeɓtore
-
 about-config-search-input1 =
     .placeholder = Yiylo innde cuɓoraaɗe
 about-config-show-all = Hollu Fof
-
 about-config-pref-add-button =
     .title = Ɓeydu
 about-config-pref-toggle-button =

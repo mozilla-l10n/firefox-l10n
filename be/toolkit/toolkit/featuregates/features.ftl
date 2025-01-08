@@ -59,8 +59,6 @@ sidebar-description = Лёгкі доступ да вашай гісторыі, 
 vertical-tabs-title =
     .label = Вертыкальныя карткі
 vertical-tabs-description = Перамясціце карткі з верхняй часткі браўзера ў бок. Спатрэбіцца таксама паспрабаваць бакавую панэль. <a data-l10n-name="connect">Адправіць водгук</a>
-experimental-features-group-browsing =
-    .label = Агляданне
 experimental-features-group-developer-tools =
     .label = Прылады распрацоўшчыка
 experimental-features-group-webpage-display =

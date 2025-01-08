@@ -57,4 +57,3 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Pajinâ rukùu
-

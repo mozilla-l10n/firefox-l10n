@@ -187,6 +187,8 @@ shortcuts-modifier-mac = Includde Ctrl, Alt, ò ⌘
 shortcuts-modifier-other = Includde Ctrl ò Alt
 shortcuts-invalid = Conbinaçion no bonn-a
 shortcuts-letter = Scrivi 'na letia
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Fanni vedde l'atro
@@ -238,7 +240,7 @@ addon-page-options-button =
 ##   $name (string) - Name of the add-on.
 
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name } o no l'é conpatibile con { -brand-short-name } { $version }.
 # Variables:
 #   $version (string) - Application version.

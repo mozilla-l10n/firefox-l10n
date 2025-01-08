@@ -4,15 +4,11 @@
 
 translation-close-key =
     .key = w
-
 translation-languages-column =
     .label = Tu'un
-
 translation-sites-button-remove =
     .label = Stoó sitio
     .accesskey = S
-
 translation-sites-button-remove-all =
     .label = Stoó ntii sitio
     .accesskey = S
-

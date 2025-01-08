@@ -33,3 +33,7 @@ webext-perms-description-topSites = Aliri la retuman historion
 webext-perms-description-trialML = Elŝuti kaj ruli modelon de AI en via aparato
 webext-perms-description-userScripts = Permesi al nekontrolitaj skriptoj de aliaj la aliron al viaj datumoj
 webext-perms-description-webNavigation = Aliri la agojn de la retumilo dum retumo
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

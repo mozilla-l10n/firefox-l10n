@@ -4,6 +4,5 @@
 
 notification-learnmore-default-label =
     .value = Saber-ne mas
-
 close-notification-message =
     .tooltiptext = Zarrar iste mensache

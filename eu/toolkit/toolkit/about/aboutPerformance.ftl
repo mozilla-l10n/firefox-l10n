@@ -54,7 +54,6 @@ close-tab =
     .title = Itxi fitxa
 show-addon =
     .title = Erakutsi gehigarrien kudeatzailean
-
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded

@@ -31,7 +31,6 @@ styleeditor-find-again =
 styleeditor-go-to-line =
     .label = លោត​ទៅ​បន្ទាត់...
     .accesskey = ត
-
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.

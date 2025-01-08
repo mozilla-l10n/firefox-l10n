@@ -3,5 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 fxa-qrcode-error-title = ချိတ်ဆက်မှုမအောင်မြင်ပါ။
-
 fxa-qrcode-error-body = ထပ်ကြိုးစားကြည့်ပါ။

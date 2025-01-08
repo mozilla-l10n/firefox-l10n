@@ -39,8 +39,6 @@ address-capture-manage-address-button =
     .label = Kundaharape ñemboheko
 address-capture-learn-more-button =
     .label = Kuaave
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Embojuaju kundaharape pyahu
 address-capture-open-menu-button =
     .aria-label = Embojuruja poravorã
 address-capture-edit-address-button =
@@ -49,10 +47,10 @@ address-capture-edit-address-button =
 autofill-add-address-title = Embojuaju kundaharape
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Embosako’i kundaharape
-autofill-address-name = Téra
 autofill-address-given-name = Téra ñepyrũ
 autofill-address-additional-name = Téra mokõiha
 autofill-address-family-name = Terajoapy
+autofill-address-name = Téra
 autofill-address-organization = Atyguasu
 autofill-address-street-address = Kundaharape
 autofill-address-street = Tape réra
@@ -108,9 +106,8 @@ autofill-address-eircode = Eircode
 
 ##
 
-
-##
-
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Embojuaju kundaharape pyahu
 autofill-address-country = Tetã térã tendaguasu
 autofill-address-country-only = Tetã
 autofill-address-tel = Pumbyry
@@ -122,11 +119,6 @@ autofill-country-warning-message = Pe myanyhẽha ijeheguíva ko’ág̃a ikatu 
 autofill-add-new-card-title = Embojoaju kuatia’atã ñemurã pyahu
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Embosako’i kuatia’atã ñemurã
-autofill-message-tooltip = Ehecha ñe’ẽmondo myanyhẽjehegui rehegua
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-card-title = Embojuaju kuatia’atã
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title2 = Embosako’i kuatia’atã
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -135,6 +127,11 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } ohechaukase marandu kuatia’atã ñemurã rehegua. Emoneĩ ko’ág̃a ko Windows mba’etépe jeike.
        *[other] { -brand-short-name } ohechaukase marandu kuatia’atã ñemurãva.
     }
+autofill-message-tooltip = Ehecha ñe’ẽmondo myanyhẽjehegui rehegua
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Embojuaju kuatia’atã
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Embosako’i kuatia’atã
 autofill-card-number = Kuatia’atã papapy
 autofill-card-invalid-number = Ikatúpa emoinge kuatia’atã papapy oikóva
 autofill-card-name-on-card = Kuatia’atã réra

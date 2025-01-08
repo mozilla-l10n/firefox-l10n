@@ -23,12 +23,10 @@ newtab-topsites-edit-topsites-header = Maineit lopu topā
 newtab-topsites-title-label = Viersroksts
 newtab-topsites-title-input =
     .placeholder = Īvodi viersrokstu
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Īroksti voi īleimej lopas URL
 newtab-topsites-url-validation = Napīcīšams korekts URL
-
 newtab-topsites-image-url-label = Jebkaidys biļdis URL
 newtab-topsites-use-image-link = Izmontōt cytu biļdi…
 newtab-topsites-image-validation = Naizadeve īlōdēt biļdi. Paraugi cytu URL.
@@ -41,9 +39,6 @@ newtab-topsites-save-button = Saglobōt
 newtab-topsites-preview-button = Prīkšskatejums
 newtab-topsites-add-button = Pīvīnōt
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Voi gribi dzēst vysus itōs lopys īrokstus nu viestures?
@@ -52,16 +47,16 @@ newtab-confirm-delete-history-p2 = Itei ir naatgrīzeniska darbeiba.
 
 ## Top Sites - Sponsored label
 
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
     .title = Attaiseit izvielni
     .aria-label = Attaiseit izvielni
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
-#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+#   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .title = Attaiseit izvielni
     .aria-label = Attaiseit izvielni deļ { $title }
@@ -85,16 +80,13 @@ newtab-menu-archive-pocket = Arhivēt { -pocket-brand-name }
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
+
 ##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Izjimt grōmotzeimi
 # Bookmark is a verb here.
 newtab-menu-bookmark = Grōmotzeime
-
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -125,10 +117,6 @@ newtab-label-recommended = Populars
 newtab-label-saved = Saglobōts { -pocket-brand-name }
 newtab-label-download = Nūlōdeits
 
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
-
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
@@ -154,18 +142,16 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = Popularōkōs lopys
 # Variables:
-#  $provider (String): Name of the corresponding content provider.
+#   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } īsaceitōs
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Sōc porlyukōšonu un mes tev parōdēsim dažus breineigus rokstus, video un cytys lopys, kuras tu naseņ esi skatiejs voi davīnōjs grōmotzeimem.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
-#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Esi vysu izlasiejs. Īej vāļōk, kab redzēt vaira ziņu nu { $provider }. Nagribi gaidēt? Izavielej popularu tēmu, kab atrostu vaira interesantu rokstu nu vysa interneta.
-
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -184,10 +170,11 @@ newtab-pocket-more-recommendations = Vaira īsacejumu
 newtab-pocket-cta-button = Paraugi { -pocket-brand-name }
 newtab-pocket-cta-text = Sagloboj interesantus stōstus { -pocket-brand-name } un paboroj sovu prōtu ar interesantu losamvīlu.
 
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -196,4 +183,33 @@ newtab-error-fallback-info = Naz kas aizgōja škārsu, īlōdejut itū saturu.
 newtab-error-fallback-refresh-link = Porlōdej lopu, kab paraudzēt par jaunu.
 
 ## Customization Menu
+
+
+## New Tab Wallpapers
+
+
+## Solid Colors
+
+
+## Abstract
+
+
+## Photographs
+
+
+## New Tab Weather
+
+
+## Topic Labels
+
+
+## Topic Selection Modal
+
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Confirmation modal for blocking a section
 

@@ -6,3 +6,6 @@ alert-close =
     .tooltiptext = Затвори го ова известување
 alert-settings-title =
     .tooltiptext = Поставки
+
+## Reminder Notifications
+

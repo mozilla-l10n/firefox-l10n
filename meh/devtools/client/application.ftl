@@ -5,8 +5,7 @@
 
 ### These strings are used inside the Application panel which is available
 ### by setting the preference `devtools-application-enabled` to true.
-
-
+###
 ### The correct localization of this file might be to keep it in English, or another
 ### language commonly spoken among web developers. You want to make that choice consistent
 ### across the developer tools. A good criteria is the language in which you'd find the
@@ -18,14 +17,11 @@
 
 # Header for the Icon section of Manifest inspection displayed in the application panel.
 manifest-item-icons = Íconos
-
 # Text displayed as the alt attribute for <img> tags showing the icons in the
 # manifest.
 manifest-icon-img =
     .alt = Ícono
-
 # Text for the ALT and TITLE attributes of the error icon
 icon-error =
     .alt = Ícono de error
     .title = Error
-

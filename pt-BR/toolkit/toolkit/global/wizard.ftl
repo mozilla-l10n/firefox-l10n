@@ -11,7 +11,6 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Voltar
     .accesskey = V
-
 wizard-macos-button-next =
     .label = Avançar
     .accesskey = A
@@ -21,14 +20,12 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = Avançar >
     .accesskey = A
-
 wizard-macos-button-finish =
     .label = Concluído
 wizard-linux-button-finish =
     .label = Concluir
 wizard-win-button-finish =
     .label = Concluir
-
 wizard-macos-button-cancel =
     .label = Cancelar
 wizard-linux-button-cancel =

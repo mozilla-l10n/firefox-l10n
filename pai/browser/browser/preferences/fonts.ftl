@@ -10,9 +10,3 @@ fonts-window-close =
 
 ## Default fonts and their sizes
 
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-

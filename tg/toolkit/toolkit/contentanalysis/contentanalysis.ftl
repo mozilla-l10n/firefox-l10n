@@ -41,21 +41,6 @@ contentanalysis-genericresponse-message = Таҳлили муҳтаво бо н�
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-block-message = Ташкилоти шумо аз нармафзори пешгирӣ аз гумшавии маълумот (DLP) истифода мебарад, ки ин муҳтаворо манъ кард: { $content }.
 # Variables:
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-error-message = Ҳангоми алоқабандӣ бо нармафзори пешгирӣ аз гумшавии маълумот (DLP) хато ба миён омад. Интиқол барои манбаъ рад карда шуд: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-unspecified-error-message = Ҳангоми алоқабандӣ бо { $agent } хато ба миён омад. Интиқол барои манбаъ рад карда шуд: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-no-agent-connected-message = Алоқабандӣ бо { $agent } ғайриимкон аст. Интиқол барои манбаъ рад карда шуд: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-invalid-agent-signature-message = Амали тафтиши имзо барои { $agent } иҷро нашуд. Интиқол барои манбаъ рад карда шуд: { $content }.
-# Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Localized text describing the content being blocked, such as "Paste denied."
 contentanalysis-unspecified-error-message-content = Ҳангоми алоқабандӣ бо { $agent } хато ба миён омад. { $content }

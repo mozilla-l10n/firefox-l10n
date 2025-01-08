@@ -39,11 +39,9 @@ compatibility-issue-occurrences =
         [one] { $number } előfordulás
        *[other] { $number } előfordulás
     }
-
 compatibility-no-issues-found = Nem található kompatibilitási probléma.
 compatibility-close-settings-button =
     .title = Beállítások bezárása
-
 # Text used in the element containing the browser icons for a given compatibility issue.
 # Line breaks are significant.
 # Variables:

@@ -39,3 +39,9 @@ account-single-tab-arriving-truncated-url = { $url }…
 ## Variables:
 ##   $tabCount (Number): the number of tabs received
 
+
+## These strings are used in notifications in which the user remotely closed
+## tabs from other devices
+## Variables:
+##   $closedCount (Number): the number of tabs closed
+

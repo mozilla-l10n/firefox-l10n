@@ -6,7 +6,6 @@ tabmodalprompt-username =
     .value = Isem n useqdec:
 tabmodalprompt-password =
     .value = Awal uffir:
-
 tabmodalprompt-ok-button =
     .label = IH
 tabmodalprompt-cancel-button =

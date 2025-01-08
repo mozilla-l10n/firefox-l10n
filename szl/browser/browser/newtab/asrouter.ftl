@@ -12,35 +12,29 @@ cfr-doorhanger-feature-heading = Rykōmyndowano funkcyjo
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Po jakimu to widza?
-
 cfr-doorhanger-extension-cancel-button = Niy teroz
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = Przidej teroz
     .accesskey = P
-
 cfr-doorhanger-extension-manage-settings-button = Nasztalowania rykōmyndacyji
     .accesskey = n
-
 cfr-doorhanger-extension-never-show-recommendation = Niy pokozuj mi tyj rykōmyndacyje
     .accesskey = T
-
 cfr-doorhanger-extension-learn-more-link = Przewiydz sie wiyncyj
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = autōr: { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Rekōmyndacyjo
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Rekōmyndacyjo
     .tooltiptext = Rekōmyndacyjo rozszyrzynio
     .a11y-announcement = Rekōmyndacyjo rozszyrzynio je dostympno
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Rekōmyndacyjo
     .tooltiptext = Rekōmyndacyjo funkcyje
     .a11y-announcement = Rekōmyndacyjo funkcyje je dostympno
@@ -87,11 +81,9 @@ cfr-protections-panel-link-text = Przewiydz sie wiyncyj
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nowo funkcyjo:
-
 cfr-whatsnew-button =
     .label = Co je nowego
     .tooltiptext = Co je nowego
-
 cfr-whatsnew-release-notes-link-text = Poczytej informacyje ô wydaniu
 
 ## Enhanced Tracking Protection Milestones
@@ -119,16 +111,12 @@ cfr-doorhanger-doh-primary-button-2 = OK
 cfr-doorhanger-doh-secondary-button = Zastow
     .accesskey = Z
 
-## Fission Experiment Message
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Przi tyj wersyji aplikacyje { -brand-short-name } filmy na tyj strōnie mogōm sie niy puszczać dobrze. Zaktualizuj aplikacyjo { -brand-short-name }, coby mieć pōłno ôbsuga filmōw.
 cfr-doorhanger-video-support-header = Zaktualizuj aplikacyjo { -brand-short-name }, coby puszczać filmy
 cfr-doorhanger-video-support-primary-button = Aktualizuj teroz
     .accesskey = A
-
-## Spotlight modal shared strings
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -143,8 +131,6 @@ spotlight-public-wifi-vpn-primary-button = Chrōń przywatność z usugōm { -mo
     .accesskey = C
 spotlight-public-wifi-vpn-link = Niy teroz
     .accesskey = N
-
-## Total Cookie Protection Rollout
 
 ## Emotive Continuous Onboarding
 
@@ -172,19 +158,52 @@ spotlight-pin-secondary-button = Niy teroz
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+
 ## Firefox View CFR
+
 
 ## Firefox View Spotlight
 
+
 ## Colorways expiry reminder CFR
+
 
 ## Cookie Banner Handling CFR
 
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
+
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+
 ## FxA sync CFR
 
+
 ## Device Migration FxA Spotlight
+
+
+## Set as Default PDF Reader Infobar
+
+
+## Launch on login infobar notification
+
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+
+## Tail Fox Set Default Spotlight
+
+
+## Root Certificate Succession Infobar
+
+
+## Root Certificate Succession Windows Background Notification
+
+
+## FxA Menu Message variants
+
+
+## Multi-CTA Fox Doodle Spotlight
 

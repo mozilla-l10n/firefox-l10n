@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = Cha b’ urrainn dha { -relay-brand-name } masg ùr a chruthachadh. Còd na mearachd HTTP: { $status }.
 firefox-relay-get-reusable-masks-failed = Cha do lorg { -relay-brand-name } masg sam bith a ghabhas a chleachdadh a-rithist. Còd na mearachd HTTP: { $status }.
 
-##
+## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = Feumaidh tu clàradh a-steach gu { -fxaccount-brand-name } mus urrainn dhut { -relay-brand-name } a chleachdadh.
 firefox-relay-must-login-to-account = Clàraich a-steach dhan chunntas agad airson na masgan puist-d { -relay-brand-name } agad a chleachdadh.
@@ -33,3 +33,15 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Chan ann an-dràsta
     .accesskey = C
+
+## The "control" variation of the Relay offer popup
+
+
+## The "basic-info" variation of the Relay offer popup
+
+
+## The "with-domain" variation of the Relay offer popup
+
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+

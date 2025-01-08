@@ -9,7 +9,6 @@ about-service-workers-title = Baɗte Gollooɓe Sarwiis
 about-service-workers-main-title = Gollooɓe Sarwiis Heftinaaɓe
 about-service-workers-warning-not-enabled = Gollooɓe Sarwiis kurminaaka.
 about-service-workers-warning-no-service-workers = Alaa Gollooɓe Sarwiis keftinaa.
-
 # The original title of service workers' information
 #
 # Variables:
@@ -29,12 +28,8 @@ active-cache-name = <strong>Innde Kaasol Caasngol:</strong> { $name }
 waiting-cache-name = <strong>Innde Kaasol Cabbingol:</strong> { $name }
 push-end-point-waiting = <strong>Duño Joofoɓere:</strong> { waiting }
 push-end-point-result = <strong>Duño Joofoɓere:</strong> { $name }
-
 # This term is used as a button label (verb, not noun).
 update-button = Hesɗitin
-
 unregister-button = Ittu binndital
-
 unregister-error = Horiima ittude binndital oo Golloowo Sarwiis.
-
 waiting = Nana sabbii…

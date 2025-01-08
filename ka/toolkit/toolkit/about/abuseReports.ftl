@@ -18,8 +18,6 @@ abuse-report-addon-authored-by = შემქმნელი <a data-l10n-name="
 abuse-report-learnmore =
     ზუსტად არ იცით რა უნდა მიუთითოთ?
     <a data-l10n-name="learnmore-link">იხილეთ ვრცლად გაფართოებებისა და თემების შესახებ საჩივრის გაგზავნაზე</a>
-abuse-report-learnmore-intro = ზუსტად არ იცით რა უნდა მიუთითოთ?
-abuse-report-learnmore-link = იხილეთ ვრცლად გაფართოებებისა და თემების შესახებ საჩივრის გაგზავნაზე
 abuse-report-submit-description = აღწერეთ საკითხი (არასავალდებულო)
 abuse-report-textarea =
     .placeholder = დაწვრილებითი ინფორმაცია გვეხმარება ხარვეზის გამორკვევაში. გთხოვთ, აღწეროთ რა დაბრკოლებას გადააწყდით. გმადლობთ, რომ გვეხმარებით ვებსივრცის სიჯანსაღის შენარჩუნებაში.
@@ -48,24 +46,6 @@ abuse-report-messagebar-removed-sitepermission = გმადლობთ მო
 abuse-report-messagebar-removed-theme = გმადლობთ საჩივრის გამოგზავნისთვის. თემა <span data-l10n-name="addon-name">{ $addon-name }</span> წაიშალა.
 abuse-report-messagebar-error = შეცდომა საჩივრის გაგზავნისას გაფართოებაზე <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = საჩივარი გაფართოებაზე <span data-l10n-name="addon-name">{ $addon-name }</span> არ გაიგზავნა, ვინაიდან უკვე წარდგენილია სხვა საჩივარი.
-abuse-report-messagebar-aborted2 =
-    .message = საჩივარი გაფართოებაზე { $addon-name } გაუქმებულია.
-abuse-report-messagebar-submitting2 =
-    .message = იგზავნება საჩივარი გაფართოებაზე { $addon-name }.
-abuse-report-messagebar-submitted2 =
-    .message = გმადლობთ საჩივრის გამოგზავნისთვის. გსურთ, წაიშალოს { $addon-name }?
-abuse-report-messagebar-submitted-noremove2 =
-    .message = გმადლობთ, საჩივრის გამოგზავნისთვის.
-abuse-report-messagebar-removed-extension2 =
-    .message = გმადლობთ საჩივრის გამოგზავნისთვის. გაფართოება { $addon-name } წაიშალა.
-abuse-report-messagebar-removed-sitepermission2 =
-    .message = გმადლობთ მოხსენებისთვის. საიტის ნებართვების მოცემული დამატება { $addon-name } წაიშალა.
-abuse-report-messagebar-removed-theme2 =
-    .message = გმადლობთ საჩივრის გამოგზავნისთვის. თემა { $addon-name } წაიშალა.
-abuse-report-messagebar-error2 =
-    .message = შეცდომა საჩივრის გაგზავნისას გაფართოებაზე { $addon-name }.
-abuse-report-messagebar-error-recent-submit2 =
-    .message = საჩივარი გაფართოებაზე { $addon-name } არ გაიგზავნა, ვინაიდან უკვე წარდგენილია სხვა საჩივარი.
 
 ## Message bars actions.
 

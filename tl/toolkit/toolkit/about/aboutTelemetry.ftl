@@ -42,7 +42,7 @@ about-telemetry-fetch-stack-symbols = Kunin ang mga pangalan ng function para sa
 about-telemetry-hide-stack-symbols = Ipakita ang data ng raw stack
 # Selects the correct release version
 # Variables:
-#   $channel (String): represents the corresponding release data string
+#   $channel (string) - Represents the corresponding release data string
 about-telemetry-data-type =
     { $channel ->
         [release] pinalabas na mga datos
@@ -50,7 +50,7 @@ about-telemetry-data-type =
     }
 # Selects the correct upload string
 # Variables:
-#   $uploadcase (String): represents a corresponding upload string
+#   $uploadcase (string) - Represents a corresponding upload string
 about-telemetry-upload-type =
     { $uploadcase ->
         [enabled] pinagana
@@ -58,46 +58,46 @@ about-telemetry-upload-type =
     }
 # Example Output: 1 sample, average = 0, sum = 0
 # Variables:
-#   $sampleCount (Integer): amount of histogram samples
-#   $prettyAverage (Integer): average of histogram samples
-#   $sum (Integer): sum of histogram samples
+#   $sampleCount (number) - Amount of histogram samples
+#   $prettyAverage (number) - Average of histogram samples
+#   $sum (number) - Sum of histogram samples
 about-telemetry-histogram-stats =
     { $sampleCount ->
         [one] { $sampleCount } sample, average = { $prettyAverage }, kabuuan = { $sum }
        *[other] { $sampleCount } sample, average = { $prettyAverage }, kabuuan = { $sum }
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Ang pahinang ito ay nagpapakita ng impormasyon tungkol sa pagganap, hardware, paggamit at mga pagpapasadya na nakolekta sa pamamagitan Telemetry. Ang impormasyon na ito ay isinumite sa { $telemetryServerOwner } upang makatulong na mapabuti { -brand-full-name }.
 about-telemetry-settings-explanation = Ang telemetry ay nangongolekta ng { about-telemetry-data-type } at ang upload ay si <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
-#   $name (String): ping name, e.g. “saved-session”
-#   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
+#   $name (string) - Ping name, e.g. “saved-session”
+#   $timestamp (string) - Ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Bawat piraso ng impormasyon ay pinadala na nakabungkos sa “<a data-l10n-name="ping-link">pings</a>”. Ikaw ay nakatingin sa { $name }, { $timestamp } na ping.
 about-telemetry-data-details-current = Bawat piraso ng impormasyon ay pinapadala nang naka-bundle sa mga “<a data-l10n-name="ping-link">ping</a>“. Tinitingnan mo ang kasalukuyang data.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $selectedTitle (String): the section name from the structure of the ping.
+#   $selectedTitle (string) - The section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = Hanapin sa { $selectedTitle }
 about-telemetry-filter-all-placeholder =
     .placeholder = Hanapin sa lahat ng mga seksyon
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-results-for-search = Mga resulta para sa “{ $searchTerms }”
 # More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $sectionName (String): the section name from the structure of the ping.
-#   $currentSearchText (String): the current text in the search input
+#   $sectionName (string) - The section name from the structure of the ping.
+#   $currentSearchText (string) - The current text in the search input
 about-telemetry-no-search-results = Ipagpaumanhin! Walang mga resulta sa { $sectionName } para sa “{ $currentSearchText }”
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-no-search-results-all = Ipagpaumanhin! Walang mga resulta sa kahit na anong seksyon para sa “{ $searchTerms }”
 # This message is displayed when a section is empty.
 # Variables:
-#   $sectionName (String): is replaced by the section name.
+#   $sectionName (string) - Is replaced by the section name.
 about-telemetry-no-data-to-display = Ipagpaumanhin! Walang kasalukuyang mga datos na magagamit sa “{ $sectionName }”
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = kasalukuyang data
@@ -115,13 +115,13 @@ about-telemetry-slow-sql-statement = Pahayag
 about-telemetry-addon-table-id = Add-on ID
 about-telemetry-addon-table-details = Mga detalye
 # Variables:
-#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+#   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = { $addonProvider } Provider
 about-telemetry-keys-header = Property
 about-telemetry-names-header = Pangalan
 about-telemetry-values-header = Halaga
 # Variables:
-#   $lateWriteCount (Integer): the number of the late writes
+#   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = Huli na Sinulat ${ $lateWriteCount }
 about-telemetry-stack-title = Stack
 about-telemetry-memory-map-title = Memory map:
@@ -132,5 +132,5 @@ about-telemetry-method-header = paraan
 about-telemetry-object-header = bagay
 about-telemetry-extra-header = dagdag
 # Variables:
-#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+#  $process (string) - Type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = { $process } process

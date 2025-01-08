@@ -4,14 +4,12 @@
 
 about-reader-loading = Loadin…
 about-reader-load-error = Couldnae load airticle fae page
-
 about-reader-color-scheme-light = Licht
     .title = Colour Scheme Licht
 about-reader-color-scheme-dark = Daurk
     .title = Colour Scheme Daurk
 about-reader-color-scheme-sepia = Sepia
     .title = Colour Scheme Sepia
-
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -23,7 +21,7 @@ about-reader-estimated-read-time =
        *[other] { $range } meenits
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = Mak Font Mair Wee
@@ -48,3 +46,14 @@ about-reader-font-type-sans-serif = Sans-serif
 about-reader-toolbar-close = Sneck Reader View
 about-reader-toolbar-type-controls = Type controls
 about-reader-toolbar-savetopocket = Save Tae { -pocket-brand-name }
+
+## Reader View colors menu
+
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+
+## Reader View text and layout menu
+

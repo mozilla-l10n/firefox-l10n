@@ -6,8 +6,9 @@
 #   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =
     .label = ཡན་ལག་ངོས་{ $tabCount }་སྒྲིག་ཆས་ཐོག་ཏུ་སྐུར
-
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Syncing Devices…
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 

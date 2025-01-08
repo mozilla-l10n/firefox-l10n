@@ -38,7 +38,6 @@ printpreview-page-setup =
 printpreview-page =
     .value = Faqe:
     .accesskey = F
-
 # Variables
 # $sheetNum (integer) - The current sheet number
 # $sheetCount (integer) - The total number of sheets to print
@@ -62,7 +61,6 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Faqja e fundit
-
 printpreview-homearrow-button =
     .title = Faqja e parë
 printpreview-previousarrow-button =

@@ -27,3 +27,7 @@ webext-perms-description-sessions = Пристапува до скоро-зат�
 webext-perms-description-tabs = Пристапува до јазичиња
 webext-perms-description-topSites = Пристапува до историјата на прелистување
 webext-perms-description-webNavigation = Пристапува до дејствијата на прелистувачот за време на управување
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

@@ -4,4 +4,3 @@
 
 translation-languages-column =
     .label = Lugha
-

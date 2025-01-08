@@ -25,5 +25,6 @@ error-long-desc4 = Roboti mají lesklý kovový zadek, který se nesmí líbat.
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = A oni mají plán.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = Zkusit znovu
     .label2 = Prosím, už ten knoflík víckrát nemačkejte.

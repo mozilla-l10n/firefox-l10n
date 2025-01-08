@@ -290,9 +290,7 @@ main-context-menu-send-to-device =
     .label = Kas ar bajenn d’an trevnad
     .accesskey = t
 
-## The access keys for "Use Saved Login" and "Use Saved Password"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
+##
 
 main-context-menu-use-saved-login =
     .label = Implijout un titour kennaskañ enrollet

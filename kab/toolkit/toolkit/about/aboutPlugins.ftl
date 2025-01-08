@@ -6,8 +6,6 @@ title-label = Talɣut ɣef uzegrir
 installed-plugins-label = Izegrar ibdedden
 no-plugins-are-installed-label = Ur nufi ula d-yiqen n uzegrir ibdedden
 deprecation-description = Tettut kra? Kra nizegrar ur ttwasefranken ara tura. <a data-l10n-name="deprecation-link">Issin ugar</a>
-deprecation-description2 =
-    .message = Tettut kra? Kra nizegrar ur ttwasefranken ara tura.
 
 ## The information of plugins
 ##

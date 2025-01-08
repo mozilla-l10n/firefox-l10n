@@ -31,3 +31,7 @@ webext-perms-description-tabs = Tilgang til faner
 webext-perms-description-tabHide = Skjul og vis nettleserfaner
 webext-perms-description-topSites = Tilgang til nettleserhistorikken
 webext-perms-description-webNavigation = Tilgang til nettleseraktivitet under navigasjon
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

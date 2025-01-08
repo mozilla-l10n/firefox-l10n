@@ -6,8 +6,6 @@ title-label = Tocante a los plugins
 installed-plugins-label = Plugins instalaos
 no-plugins-are-installed-label = Nun s'atoparon plugins instalaos
 deprecation-description = ¿Fáltate daqué? Dalgunos complementos yá nun tienen sofitu. <a data-l10n-name="deprecation-link">Lleer más.</a>
-deprecation-description2 =
-    .message = ¿Fáltate daqué? Dalgunos complementos yá nun tienen sofitu.
 
 ## The information of plugins
 ##

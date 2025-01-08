@@ -31,3 +31,7 @@ webext-perms-description-tabs = ເຂົ້າເຖິງແທັບຂອງ
 webext-perms-description-tabHide = ເຊື່ອງ ແລະ ສະແດງແທັບຂອງບຣາວເຊີ
 webext-perms-description-topSites = ເຂົ້າເຖິງປະຫວັດການທ່ອງເວັບ
 webext-perms-description-webNavigation = ເຂົ້າເຖິງກິດຈະກຳຂອງບຣາວເຊີໃນລະຫວ່າງການນຳທາງ
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

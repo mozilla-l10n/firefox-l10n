@@ -8,7 +8,6 @@ screenshots-save-visible-button = Sarva o vixibile
 screenshots-save-page-button = Sarva tutta a pagina
 screenshots-download-button = Descarega
 screenshots-copy-button = Còpia
-
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
@@ -16,20 +15,20 @@ screenshots-meta-key =
     }
 screenshots-notification-link-copied-title = Colegamento copiòu inti aponti
 screenshots-notification-link-copied-details = O colegamento a l'inmagine o l'é stæto copiòu inti aponti. Sciacca{ screenshots-meta-key }-V pe incolalo.
-
 screenshots-notification-image-copied-details = A föto a l'é stæta copiâ inti aponti. Sciacca { screenshots-meta-key }-V pe incolâ.
-
 screenshots-request-error-title = Feua serviçio.
 screenshots-request-error-details = Ne spiaxe! No poemmo sarvâ l'inmagine. Pe piaxei preuva torna dòppo.
-
 screenshots-connection-error-title = No poemmo conetise a-e teu föto do schermo.
 screenshots-connection-error-details = Pe piaxei contròlla a teu conescion a l'Internet. Se ti riesci a conetite a l'Internet, ghe poeiva ese 'n problema tenporaneo co-o serviçio de { -screenshots-brand-name }.
-
 screenshots-login-error-details = No poemmo sarvâ a teu inmagine perché gh'é 'n problema co-o serviçio de { -screenshots-brand-name }. Pe piaxei preuva torna dòppo.
-
 screenshots-unshootable-page-error-title = No poemmo fâ 'na föto do schermo de sta pagina.
 screenshots-unshootable-page-error-details = Sta chi a no l'é 'na pagina Web standard, coscì no peu faghe 'na föto do schermo.
-
 screenshots-generic-error-title = Ahime mi! { -screenshots-brand-name } o s'é ciantou.
 screenshots-generic-error-details = Niatri no emmo ben acapio cöse l'é sucesso. Ti peu miga preuvâ co-ina pagina dispægia?
+
+## The below strings are used to capture keydown events so the strings should
+## not be changed unless the keyboard layout in the locale requires it.
+
+
+##
 

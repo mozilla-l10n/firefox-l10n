@@ -33,3 +33,7 @@ webext-perms-description-topSites = Aceder ao histórico de navegação
 webext-perms-description-trialML = Transferir e executar modelos de IA no seu dispositivo
 webext-perms-description-userScripts = Permitir que scripts de terceiros não verificados acedam aos seus dados
 webext-perms-description-webNavigation = Aceder à atividade do navegador durante a navegação
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

@@ -59,8 +59,6 @@ sidebar-description = Érje el böngészés közben könnyedén az előzményeke
 vertical-tabs-title =
     .label = Függőleges lapok
 vertical-tabs-description = Helyezze át a lapjait a böngésző tetejéről oldalra. Ehhez ki kell próbálnia az oldalsávot is. <a data-l10n-name="connect">Visszajelzés megosztása</a>
-experimental-features-group-browsing =
-    .label = Böngészés
 experimental-features-group-developer-tools =
     .label = Fejlesztői eszközök
 experimental-features-group-webpage-display =

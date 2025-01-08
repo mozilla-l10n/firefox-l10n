@@ -117,7 +117,7 @@ containers-disable-alert-ok-button =
 containers-disable-alert-cancel-button = Qabilleştirilgen Tut
 containers-remove-alert-title = Bu Konteyner Çetleştirilsinmi?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Bu konteynerni şimdi çetleştirseñiz, { $count } konteyner ilmegi qapatılacaqtır. Bu konteynerni çetleştirmege istegeniñizden eminsiñizmi?
@@ -211,11 +211,11 @@ applications-manage-app =
 applications-always-ask =
     .label = Er zaman sora
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } qullan ({ -brand-short-name } içinde)
 
@@ -245,6 +245,8 @@ play-drm-content =
 play-drm-content-learn-more = Daa çoq ögren
 update-application-title = { -brand-short-name } Yañartmaları
 update-application-description = Eñ yahşı icraat, istiqrar ve emniyet içün { -brand-short-name } küncel tutulsın.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Sürüm{ $version } <a data-l10n-name="learn-more">Ne bar ne yoq</a>
 update-history =
     .label = Yañartma keçmişini köster…
@@ -280,7 +282,7 @@ performance-limit-content-process-option = Muhteva süreci haddi
 performance-limit-content-process-enabled-desc = Ek muhteva süreçleri müteaddit ilmekni qullanğanda icraatnı yahşılaştırabilir, amma daa çoq hafiza da qullanacaq.
 performance-limit-content-process-blocked-desc = Muhteva süreçleri sayısınıñ başqalaştırılması ancaq çoq-süreçli { -brand-short-name } ile mümkündir. <a data-l10n-name="learn-more">Çoqlu-süreçniñ qabilleştirilgen olıp olmağanınıñ nasıl teşkerilgenini ögreniñiz</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (ögbelgilgengen)
 
@@ -357,11 +359,8 @@ choose-bookmark =
 home-prefs-search-header =
     .label = Ağ Qıdırması
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
-# Variables:
-#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } tevsiyeli
 
@@ -383,6 +382,8 @@ home-prefs-highlights-option-saved-to-pocket =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Qırpıntılar
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -428,7 +429,7 @@ search-find-more-link = Daha çoq qıdırma motorı tap
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Tekrarlanan Anahtar Kelime
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Şu anda “{ $name }” tarafından kullanılan bir anahtar kelime seçtiniz. Lütfen başka bir şey seçin.
 search-keyword-warning-bookmark = Şu anda bir yer imi tarafından kullanılan bir anahtar kelime seçtiniz. Lütfen başka bir şey seçin.
 
@@ -547,6 +548,7 @@ privacy-header = Kezici Hususiyatı
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = İçeri İmzalanmalar ve Sır-sözler
     .searchkeywords = { -lockwise-brand-short-name }
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Ağ-saytları içün içeri-imzalanışlar ve sır-sözlerni saqlamağa sora
     .accesskey = A
@@ -559,6 +561,9 @@ forms-exceptions =
 forms-saved-logins =
     .label = Saqlanğan İçeri-imzalanışlar…
     .accesskey = S
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Usta Sır-sözni Deñiştir…
     .accesskey = d
@@ -616,8 +621,8 @@ history-clear-button =
 sitedata-header = Çörekler ve Sayt Verileri
 sitedata-total-size-calculating = Sayt verileri ve zula ölçüsi esaplana…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Saqlanğan çörekler, sayt verileri ve zulañız al-azırda { $value } { $unit } disk fezası qullana.
 sitedata-learn-more = Daha çoq ögren
 sitedata-delete-on-close =

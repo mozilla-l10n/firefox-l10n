@@ -171,10 +171,7 @@ about-webrtc-round-trip-time-ms = RTT මි.ත.
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = දෘශ්‍යක රාමු සංඛ්‍යාලේඛන - MediaStreamTrack හැඳු.: { $track-identifier }
 
-## These are paths used for saving the about:webrtc page or log files so
-## they can be attached to bug reports.
-## Variables:
-##  $path (String) - The path to which the file is saved.
+##
 
 about-webrtc-save-page-msg = පිටුව සුරකින ලද්දේ: { $path }
 about-webrtc-aec-logging-off-state-msg = ග්‍රහණය කළ සටහන් ගොනු: { $path }

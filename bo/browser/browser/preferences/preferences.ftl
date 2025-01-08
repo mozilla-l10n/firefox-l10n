@@ -117,7 +117,7 @@ containers-disable-alert-ok-button =
 containers-disable-alert-cancel-button = Keep enabled
 containers-remove-alert-title = Remove This Container?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] If you remove this Container now, { $count } container tab will be closed. Are you sure you want to remove this Container?
@@ -205,6 +205,8 @@ play-drm-content =
 play-drm-content-learn-more = དེ་ལས་མང་བ
 update-application-title = { -brand-short-name } གསར་བསྒྱུར
 update-application-description = Keep { -brand-short-name } up to date for the best performance, stability, and security.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Version { $version } <a data-l10n-name="learn-more">What’s new</a>
 update-history =
     .label = གསར་སྒྱུར་གྱི་ལོ་རྒྱུས་སྟོན་པ…
@@ -239,7 +241,7 @@ performance-limit-content-process-option = Content process limit
 performance-limit-content-process-enabled-desc = Additional content processes can improve performance when using multiple tabs, but will also use more memory.
 performance-limit-content-process-blocked-desc = Modifying the number of content processes is only possible with multiprocess { -brand-short-name }. <a data-l10n-name="learn-more">Learn how to check if multiprocess is enabled</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (default)
 
@@ -311,8 +313,7 @@ choose-bookmark =
 ## Home Section - Firefox Home Content Customization
 
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 
 ##
@@ -356,7 +357,7 @@ search-find-more-link = Find more search engines
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Duplicate Keyword
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = You have chosen a keyword that is currently in use by “{ $name }”. Please select another.
 search-keyword-warning-bookmark = You have chosen a keyword that is currently in use by a bookmark. Please select another.
 
@@ -468,6 +469,7 @@ privacy-header = Browser Privacy
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = ནང་འཇུག་དང་གསང་གྲངས
     .searchkeywords = { -lockwise-brand-short-name }
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = དྲ་ཚིགས་གི་ནང་འཇུག་དང་གསང་གྲངས་ཉར་ཚགས་བྱེད་དགོས་མིན་འདྲི་དགོས་པ།
     .accesskey = r
@@ -480,6 +482,9 @@ forms-exceptions =
 forms-saved-logins =
     .label = ཉར་ཚགས་བྱས་ཡོད་པའི་ནང་འཇུག…
     .accesskey = L
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = གསང་གྲངས་ཨ་མ་བརྗེ་བ…
     .accesskey = M
@@ -536,8 +541,8 @@ history-clear-button =
 sitedata-header = Cookies and Site Data
 sitedata-total-size-calculating = Calculating site data and cache size…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Your stored cookies, site data and cache are currently using { $value } { $unit } of disk space.
 sitedata-learn-more = Learn more
 sitedata-delete-on-close =

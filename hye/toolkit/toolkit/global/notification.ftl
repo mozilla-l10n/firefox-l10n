@@ -4,6 +4,5 @@
 
 notification-learnmore-default-label =
     .value = Իմանալ աւելին
-
 close-notification-message =
     .tooltiptext = Փակել այս հաղորդագրութիւնը

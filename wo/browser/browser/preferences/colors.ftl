@@ -4,16 +4,11 @@
 
 colors-close-key =
     .key = w
-
 colors-text-and-background = Mbind ak laltu
-
 colors-use-system =
     .label = Jëfandikoo melo doxalin bi
     .accesskey = J
-
 colors-underline-links =
     .label = Rëdd buum yi
     .accesskey = u
-
 colors-links-header = Melo buum yi
-

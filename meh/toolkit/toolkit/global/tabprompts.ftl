@@ -4,7 +4,6 @@
 
 tabmodalprompt-username =
     .value = Sɨvu ñɨvu:
-
 tabmodalprompt-ok-button =
     .label = Kuvi
 tabmodalprompt-cancel-button =

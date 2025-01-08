@@ -11,10 +11,8 @@ password-quality-meter = ຕົວວັດແທກຄຸນນະພາບລ�
 change-password-token = ອຸປະກອນຄວາມປອດໄພ: { $tokenName }
 change-password-old = ລະຫັດຜ່ານປະຈຸບັນ
 
-## Reset Password dialog
-
-
 ## Reset Primary Password dialog
+
 
 ## Downloading cert dialog
 
@@ -24,10 +22,11 @@ download-cert-trust-ssl =
 ## Client Authorization Ask dialog
 
 
+## Client Authentication Ask dialog
+
+
 ## Set password (p12) dialog
 
-
-## Protected Auth dialog
 
 ## Protected authentication alert
 

@@ -12,20 +12,6 @@ about-reader-color-scheme-sepia = Sepija
     .title = Barwowa šema Sepia
 about-reader-color-scheme-auto = Awtomatiski
     .title = Awtomatiska barwowa šema
-about-reader-color-theme-light = Swětły
-    .title = Barwna drastwa Swětły
-about-reader-color-theme-dark = Śamny
-    .title = Barwna drastwa Śamny
-about-reader-color-theme-sepia = Sepija
-    .title = Barwna drastwa Sepija
-about-reader-color-theme-auto = Awtomatiski
-    .title = Barwna drastwa Awtomatiski
-about-reader-color-theme-gray = Šery
-    .title = Barwna drastwa Šery
-about-reader-color-theme-contrast = Kontrast
-    .title = Barwna drastwa Kontrast
-about-reader-color-theme-custom = Swójske barwy
-    .title = Barwna drastwa Swójske
 about-reader-color-light-theme = Swětły
     .title = Swětła drastwa
 about-reader-color-dark-theme = Śamny
@@ -51,7 +37,7 @@ about-reader-estimated-read-time =
        *[other] { $range } minutow
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = Pismowu wjelikosć pómjeńšyś
@@ -76,7 +62,6 @@ about-reader-font-type-monospace = Monospace
 
 about-reader-toolbar-close = Cytański naglěd zacyniś
 about-reader-toolbar-type-controls = Pismowe elementy
-about-reader-toolbar-color-controls = Barwy
 about-reader-toolbar-text-layout-controls = Tekst a wugótowanje
 about-reader-toolbar-theme-controls = Drastwa
 about-reader-toolbar-savetopocket = Do { -pocket-brand-name } składowaś
@@ -101,10 +86,9 @@ about-reader-custom-colors-visited-links = Woglědane wótkaze
     .title = Barwu wobźěłaś
 about-reader-custom-colors-selection-highlight = Tekstowy marker za głosnje cytaś
     .title = Barwu wobźěłaś
-about-reader-custom-colors-reset-button = Na standard slědk stajiś
 about-reader-reset-button = Na standard slědk stajiś
 
-## Reader View improved text and layout menu
+## Reader View text and layout menu
 
 about-reader-text-header = Tekst
 about-reader-text-size-label = Tekstowa wjelikosć
@@ -121,9 +105,6 @@ about-reader-content-width-label =
 about-reader-line-spacing-label =
     .label = Linijowy wótkłon
 about-reader-advanced-layout-header = Rozšyrjone
-about-reader-slider-label-width-narrow = Wuski
-about-reader-slider-label-width-wide = Šyroki
-about-reader-slider-label-spacing-narrow = Wuski
 about-reader-character-spacing-label =
     .label = Znamjenjowy wótkłon
 about-reader-word-spacing-label =

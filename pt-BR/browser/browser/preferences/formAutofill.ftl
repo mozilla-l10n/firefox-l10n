@@ -39,8 +39,6 @@ address-capture-manage-address-button =
     .label = Configurações de endereço
 address-capture-learn-more-button =
     .label = Saiba mais
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Adicionar novo endereço
 address-capture-open-menu-button =
     .aria-label = Abrir menu
 address-capture-edit-address-button =
@@ -49,10 +47,10 @@ address-capture-edit-address-button =
 autofill-add-address-title = Adicionar endereço
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Editar endereço
-autofill-address-name = Nome
 autofill-address-given-name = Nome
 autofill-address-additional-name = Nome do meio
 autofill-address-family-name = Sobrenome
+autofill-address-name = Nome
 autofill-address-organization = Organização
 autofill-address-street-address = Endereço
 autofill-address-street = Endereço
@@ -108,9 +106,8 @@ autofill-address-eircode = Eircode
 
 ##
 
-
-##
-
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Adicionar novo endereço
 autofill-address-country = País
 autofill-address-country-only = País
 autofill-address-tel = Telefone
@@ -122,11 +119,6 @@ autofill-country-warning-message = O preenchimento automático de formulários s
 autofill-add-new-card-title = Adicionar novo cartão de crédito
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Editar cartão de crédito
-autofill-message-tooltip = Ver mensagem sobre preenchimento automático
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-card-title = Adicionar cartão
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title2 = Editar cartão
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -135,6 +127,11 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } está tentando exibir informações de cartão de crédito. Confirme abaixo o acesso a esta conta do Windows.
        *[other] { -brand-short-name } está tentando exibir informações de cartão de crédito.
     }
+autofill-message-tooltip = Ver mensagem sobre preenchimento automático
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Adicionar cartão
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Editar cartão
 autofill-card-number = Número do cartão
 autofill-card-invalid-number = Digite um número de cartão válido
 autofill-card-name-on-card = Nome no cartão

@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = Avāriju ziņotājs
-crashreporter-crash-message = { -brand-short-name } gadījās problēma, un tā avarēja.
 crashreporter-plea = Lai palīdzētu noteikt cēloni un salabot šo problēmu, varat nosūtīt mums avārijas ziņojumu.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Sīkāka informācija: { $details }

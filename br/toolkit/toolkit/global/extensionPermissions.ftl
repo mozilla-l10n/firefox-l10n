@@ -31,3 +31,7 @@ webext-perms-description-tabs = Haeziñ ivinelloù ar merdeer
 webext-perms-description-tabHide = Diskouez ha kuzhat ivinelloù ar merdeer
 webext-perms-description-topSites = Lenn ar roll istor merdeiñ
 webext-perms-description-webNavigation = Haeziñ oberiantiz ar merdeer e-pad ar merdeiñ
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

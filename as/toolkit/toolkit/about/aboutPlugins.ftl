@@ -6,8 +6,6 @@ title-label = প্লাগিনসমূহৰ বিষয়ে
 installed-plugins-label = ইনস্টল্ড প্লাগিনসমূহ
 no-plugins-are-installed-label = কোনো ইনস্টল্ড প্লাগিন পোৱা নগল
 deprecation-description = কিবা বিচাৰি পোৱা নাই? কিছুমান প্লাগিন এতিয়া আৰু সমৰ্থিত নহয়। <a data-l10n-name="deprecation-link">অধিক জানক</a>
-deprecation-description2 =
-    .message = কিবা বিচাৰি পোৱা নাই? কিছুমান প্লাগিন এতিয়া আৰু সমৰ্থিত নহয়।
 
 ## The information of plugins
 ##

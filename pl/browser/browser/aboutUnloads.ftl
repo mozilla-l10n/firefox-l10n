@@ -15,18 +15,15 @@ about-unloads-intro =
     pokazuje, jak { -brand-short-name } ustala priorytety kart i która karta
     zostanie zwolniona po spełnieniu warunków. Można ręcznie wywołać
     zwolnienie karty klikając przycisk <em>Zwolnij</em> poniżej.
-
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more =
     <a data-l10n-name="doc-link">Dokumentacja</a> zawiera więcej informacji
     o tej funkcji i tej stronie.
-
 about-unloads-last-updated = Ostatnia aktualizacja: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Zwolnij
     .title = Zwolnij kartę o najwyższym priorytecie
 about-unloads-no-unloadable-tab = Nie ma kart do zwolnienia.
-
 about-unloads-column-priority = Priorytet
 about-unloads-column-host = Host
 about-unloads-column-last-accessed = Ostatni dostęp
@@ -38,7 +35,6 @@ about-unloads-column-memory = Pamięć
     .title = Szacowane użycie pamięci przez kartę
 about-unloads-column-processes = Identyfikatory procesów
     .title = Identyfikatory procesów zawierających treść karty
-
 about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } MB
 about-unloads-memory-in-mb-tooltip =

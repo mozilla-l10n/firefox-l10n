@@ -78,6 +78,9 @@ toolbar-button-fxaccount =
     .label = { -fxaccount-brand-name }
     .tooltiptext = { -fxaccount-brand-name }
 
+## Account toolbar Button
+
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -284,13 +287,12 @@ main-context-menu-send-to-device =
     .label = Titaq ruxaq pa Okisaxel
     .accesskey = O
 
-## The access keys for "Use Saved Login" and "Use Saved Password"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
+##
 
 main-context-menu-use-saved-login =
     .label = Tokisäx Yakon Rutikirib'al Molojri'ïl
     .accesskey = u
+# Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Tokisäx Yakon Ewan Tzij
     .accesskey = z

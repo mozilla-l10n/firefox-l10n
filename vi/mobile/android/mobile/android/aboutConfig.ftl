@@ -6,11 +6,9 @@ config-toolbar-search =
     .placeholder = Tìm kiếm
 config-new-pref-name =
     .placeholder = Tên
-
 config-new-pref-value-boolean = Luận lí
 config-new-pref-value-string = Chuỗi
 config-new-pref-value-integer = Số nguyên
-
 config-new-pref-string =
     .placeholder = Nhập một chuỗi
 config-new-pref-number =
@@ -18,12 +16,9 @@ config-new-pref-number =
 config-new-pref-cancel-button = Hủy bỏ
 config-new-pref-create-button = Tạo
 config-new-pref-change-button = Thay đổi
-
 config-pref-toggle-button = Bật/Tắt
 config-pref-reset-button = Mặc định
-
 config-context-menu-copy-pref-name =
     .label = Sao chép tên
 config-context-menu-copy-pref-value =
     .label = Sao chép giá trị
-

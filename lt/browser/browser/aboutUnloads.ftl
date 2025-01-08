@@ -14,16 +14,13 @@ about-unloads-intro =
     kaip „{ -brand-short-name }“ prioritetizuoja korteles, ir kurios kortelės būtų
     užmigdytos suveikus šiai funkcijai. Korteles užmigdyti galite ir patys,
     spustelėdami žemiau esantį mygtuką <em>Užmigdyti</em>.
-
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more = Paskaitykite apie <a data-l10n-name="doc-link">kortelių užmigdymą</a>, norėdami sužinoti daugiau apie šią funkciją.
-
 about-unloads-last-updated = Paskiausiai atnaujinta: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Užmigdyti
     .title = Užmigdyti kortelę su didžiausiu prioritetu
 about-unloads-no-unloadable-tab = Nėra kortelių, kurias būtų galima užmigdyti.
-
 about-unloads-column-priority = Prioritetas
 about-unloads-column-host = Serveris
 about-unloads-column-last-accessed = Paskiausiai naudota
@@ -35,7 +32,6 @@ about-unloads-column-memory = Atmintis
     .title = Kortelės numatomas atminties sunaudojimas
 about-unloads-column-processes = Procesų ID
     .title = Procesų, kuriuose veikia kortelės turinys, ID
-
 about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } MB
 about-unloads-memory-in-mb-tooltip =

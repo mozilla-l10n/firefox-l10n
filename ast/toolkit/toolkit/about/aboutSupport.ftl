@@ -7,7 +7,6 @@ page-subtitle =
     Esta páxina contién información téunica que pue ser útil cuando tentes
     d'iguar un problema. Si busques rempuestes a entrugues frecuentes tocante a
     { -brand-short-name }, visita'l nuesu <a data-l10n-name="support-link">sitiu web de sofitu</a>.
-
 crashes-title = Informes de casques
 crashes-id = ID del informe
 crashes-send-date = Data d'unviu
@@ -67,7 +66,6 @@ app-basics-fission-support = Ventanes Fission
 app-basics-remote-processes-count = Procesos remotos
 app-basics-enterprise-policies = Polítiques d'empresa
 app-basics-safe-mode = Mou seguru
-
 show-dir-label =
     { PLATFORM() ->
         [macos] Amosar en Finder
@@ -120,6 +118,12 @@ media-device-channels = Canales
 
 ## Codec support table
 
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+
 ##
 
 intl-title = Internacionalización y traducción
@@ -152,7 +156,6 @@ report-crash-for-days =
         [one] Informes de casques del últimu día
        *[other] Informes de casques de los últimos { $days } díes
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -160,7 +163,6 @@ crashes-time-minutes =
         [one] Hai { $minutes } minutu
        *[other] Hai { $minutes } minutos
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -168,7 +170,6 @@ crashes-time-hours =
         [one] Hai { $hours } hora
        *[other] Hai { $hours } hores
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -187,23 +188,17 @@ no = Non
 ## not found.
 
 found = Atopóse
-
 gpu-description = Descripción
 gpu-ram = RAM
 gpu-driver-version = Versión del controlador
 gpu-driver-date = Data del controlador
 webgl2-extensions = Estensiones de WebGL 2
-
 d3d11layers-crash-guard = Compositor D3D11
 glcontext-crash-guard = OpenGL
-
 min-lib-versions = Versión mínima que s'espera
 loaded-lib-versions = Versión n'usu
-
 sandbox-proc-type-content = conteníu
-
 startup-cache-title = Caché d'aniciu
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -212,7 +207,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-
 wheel-enabled = rueda del mur activada
 touch-enabled = entrada táctil activada
 drag-enabled = arrastre de la barra de desplazamientu activáu
@@ -235,12 +229,20 @@ support-printing-modified-settings = Axustes d'imprentación modificaos
 support-printing-prefs-name = Nome
 support-printing-prefs-value = Valor
 
+## Remote Settings sections
+
+
 ## Normandy sections
 
 support-remote-experiments-title = Esperimentos remotos
 support-remote-experiments-name = Nome
 support-remote-experiments-branch = Rama esperimental
-
 support-remote-features-title = Carauterístiques remotes
 support-remote-features-name = Nome
 support-remote-features-status = Estáu
+
+## Pointing devices
+
+
+## Content Analysis (DLP)
+

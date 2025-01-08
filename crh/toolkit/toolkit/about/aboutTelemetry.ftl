@@ -40,7 +40,7 @@ about-telemetry-fetch-stack-symbols = Çerenler içün fonksiyon isimlerini alı
 about-telemetry-hide-stack-symbols = Çiy çeren verilerini köster
 # Selects the correct release version
 # Variables:
-#   $channel (String): represents the corresponding release data string
+#   $channel (string) - Represents the corresponding release data string
 about-telemetry-data-type =
     { $channel ->
         [release] çıqarılış verileri
@@ -48,43 +48,43 @@ about-telemetry-data-type =
     }
 # Selects the correct upload string
 # Variables:
-#   $uploadcase (String): represents a corresponding upload string
+#   $uploadcase (string) - Represents a corresponding upload string
 about-telemetry-upload-type =
     { $uploadcase ->
         [enabled] qabilleştirilgen
        *[disabled] naqabilleştirilgen
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Bu saife, Telemetri tarafından toplanğan icraat, donanım, qullanım ve özelleştirmeler aqqındaki malümatnı kösterir. Bu malümat { -brand-full-name } markasını yahşılaştırmaq içün { $telemetryServerOwner } sunucısına teslim etilir.
 about-telemetry-settings-explanation = Telemetri { about-telemetry-data-type }ni toplay ve yükletme <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>dir.
 # Variables:
-#   $name (String): ping name, e.g. “saved-session”
-#   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
+#   $name (string) - Ping name, e.g. “saved-session”
+#   $timestamp (string) - Ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Er malümat parçası “<a data-l10n-name="ping-link">ping'ler</a>” şeklinde bohçalanğan olaraq yiberilir. Şu anda { $name }, { $timestamp } ping’ine baqasız.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $selectedTitle (String): the section name from the structure of the ping.
+#   $selectedTitle (string) - The section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = { $selectedTitle } içinde tap
 about-telemetry-filter-all-placeholder =
     .placeholder = Episi bölümlerde tap
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-results-for-search = “{ $searchTerms }” içün neticeler
 # More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $sectionName (String): the section name from the structure of the ping.
-#   $currentSearchText (String): the current text in the search input
+#   $sectionName (string) - The section name from the structure of the ping.
+#   $currentSearchText (string) - The current text in the search input
 about-telemetry-no-search-results = Afu etiñiz! { $sectionName } bölüminde “{ $currentSearchText }” içün neticeler yoq.
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-no-search-results-all = Afu etiñiz! Er angi bölümde “{ $searchTerms }” içün neticeler yoq.
 # This message is displayed when a section is empty.
 # Variables:
-#   $sectionName (String): is replaced by the section name.
+#   $sectionName (string) - Is replaced by the section name.
 about-telemetry-no-data-to-display = Afu etiñiz! “{ $sectionName }” bölüminde al-azırda veriler yoq.
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = episi
@@ -100,13 +100,13 @@ about-telemetry-slow-sql-statement = Deyim
 about-telemetry-addon-table-id = Eklenti Kimligi
 about-telemetry-addon-table-details = Tafsilât
 # Variables:
-#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+#   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = { $addonProvider } Teminatçı
 about-telemetry-keys-header = Hasiyet
 about-telemetry-names-header = İsim
 about-telemetry-values-header = Qıymet
 # Variables:
-#   $lateWriteCount (Integer): the number of the late writes
+#   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = Keç Yazma #{ $lateWriteCount }
 about-telemetry-stack-title = Çeren:
 about-telemetry-memory-map-title = Hafiza haritası:

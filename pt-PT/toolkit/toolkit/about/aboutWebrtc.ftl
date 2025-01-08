@@ -227,10 +227,7 @@ about-webrtc-round-trip-time-ms = Tempo de ida e volta ms
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Estatísticas de frames de vídeo - ID do MediaStreamTrack: { $track-identifier }
 
-## These are paths used for saving the about:webrtc page or log files so
-## they can be attached to bug reports.
-## Variables:
-##  $path (String) - The path to which the file is saved.
+##
 
 about-webrtc-save-page-msg = página guardada em: { $path }
 about-webrtc-debug-mode-off-state-msg = o registo de execução pode ser encontrado em: { $path }

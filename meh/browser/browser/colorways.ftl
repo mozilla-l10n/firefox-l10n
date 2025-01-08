@@ -3,15 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Colorway collections
-
-
 ## Colorway names and descriptions
 
 visionary-colorway-name = Visionario
-
 activist-colorway-name = Activista
-
 dreamer-colorway-name = Soñador
-
 innovator-colorway-name = Innovador

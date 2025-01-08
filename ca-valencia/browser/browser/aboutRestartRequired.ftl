@@ -3,5 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = Cal que reinicieu
-
 restart-button-label = Reinicia el { -brand-short-name }

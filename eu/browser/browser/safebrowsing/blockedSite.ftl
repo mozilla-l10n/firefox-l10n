@@ -10,6 +10,8 @@ safeb-blocked-phishing-page-short-desc = { -brand-short-name }(e)k orri hau blok
 safeb-blocked-malware-page-short-desc = { -brand-short-name }(e)k orri hau blokeatu du zure ordenagailuko informazio pertsonala lapur edo ezaba lezakeen software maltzurra instalatzen saia litekeelako.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name }(e)k orri hau blokeatu du zure nabigatzaile-esperientzia kalte lezaketen programak instalatzera bultza baitiezazuke (adibidez, zure hasiera-orria aldatuz edo bisitatzen dituzun guneetan aparteko iragarkiak erakutsiz).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name }(e)k orri hau blokeatu du zure informazio pertsonala lapurtzen edo ezabatzen duten aplikazioak instalatzen saia daitekeelako (adibidez argazkiak, mezuak edo kreditu-txartelak).
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Aholkularitza <a data-l10n-name='advisory_provider'>{ $advisoryname }</a> zerbitzuak eskainia.
 safeb-palm-accept-label = Joan atzera
 safeb-palm-see-details-label = Ikusi xehetasunak

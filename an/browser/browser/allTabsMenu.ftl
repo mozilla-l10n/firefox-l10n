@@ -5,13 +5,10 @@
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Mirar pestanyas
-
 all-tabs-menu-new-user-context =
     .label = Nueva pestanya de contenedor
-
 all-tabs-menu-hidden-tabs =
     .label = Pestanyas amagadas
-
 all-tabs-menu-manage-user-context =
     .label = Chestionar contenedors
     .accesskey = o

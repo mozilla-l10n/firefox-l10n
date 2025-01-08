@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -9,13 +10,11 @@
 
 psmerr-ssl-disabled = SSL နည်းစဉ်ကို ပိတ်ထားတဲ့အတွက် လုံခြုံ​စွာ မချိတ်ဆက်နိုင်ဘူး။
 psmerr-ssl2-disabled = ကွန်ရက် အ​ဟောင်းတခု၊ မလုံခြုံတဲ့ SSL နည်းစဉ် မူအဆင့်ကို သုံးစွဲတဲ့အတွက် လုံခြုံ​စွာ မချိတ်ဆက်နိုင်ဘူး၊
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     You have received an invalid certificate.  Please contact the server administrator or email correspondent and give them the following information:
     
     Your certificate contains the same serial number as another certificate issued by the certificate authority.  Please get a new certificate containing a unique serial number.
-
 ssl-error-export-only-server = လုံခြုံစွာ မဆက်သွယ်နိုင်ပါ။ ချိတ်ဆက်ကိရိယာသည် အဆင့်မြင့် စာဝှက်စနစ်ကို မထောက်ပံ့ပါ။
 ssl-error-us-only-server = လုံခြုံစွာ မဆက်သွယ်နိုင်ပါ။ ချိတ်ဆက်ကိရိယာသည် အဆင့်မြင့်စာဝှက်စနစ်ကို လိုအပ်သည်။ သို့သော် မထောက်ပံ့နိုင်ပါ။
 ssl-error-no-cypher-overlap = မျိုးတူနဲ့ လုံလုံခြုံခြုံ မဆက်သွယ်နိုင်ဘူး - ပုံမှန် စာဝှက် လုပ်ငန်းစနစ်(များ) မဟုတ်ဘူး။
@@ -152,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = No supported TLS signature algorith
 ssl-error-unsupported-signature-algorithm = The peer used an unsupported combination of signature and hash algorithm.
 ssl-error-missing-extended-master-secret = The peer tried to resume without a correct extended_master_secret extension.
 ssl-error-unexpected-extended-master-secret = The peer tried to resume with an unexpected extended_master_secret extension.
-
 sec-error-io = လုံခြုံရေး အခွင့်ကာဏာ အချိန်တွင်း I/O အမှားတခု ဖြစ်ပွားတယ်။
 sec-error-library-failure = လုံခြုံရေး စာကြည့်တိုက် ချို့ယွင်းမှု။
 sec-error-bad-data = လုံခြုံရေး စာကြည့်တိုက် - မကောင်းတဲ့ အချက်အလက်ကြမ်းကို ရရှိထားတယ်။
@@ -319,7 +317,6 @@ sec-error-locked-password = စကားဝှက်အားပိတ်ထာ�
 sec-error-unknown-pkcs11-error = အမျိုးအမည်မသိသော PKCS #11 အမှား
 sec-error-bad-crl-dp-url = Invalid or unsupported URL in CRL distribution point name.
 sec-error-cert-signature-algorithm-disabled = The certificate was signed using an signature algorithm that is disabled because it is not secure.
-
 mozilla-pkix-error-key-pinning-failure = The server uses key pinning (HPKP) but no trusted certificate chain could be constructed that matches the pinset. Key pinning violations cannot be overridden.
 mozilla-pkix-error-ca-cert-used-as-end-entity = The server uses a certificate with a basic constraints extension identifying it as a certificate authority. For a properly-issued certificate, this should not be the case.
 mozilla-pkix-error-inadequate-key-size = The server presented a certificate with a key size that is too small to establish a secure connection.
@@ -332,11 +329,9 @@ mozilla-pkix-error-validity-too-long = The server presented a certificate that i
 mozilla-pkix-error-required-tls-feature-missing = A required TLS feature is missing.
 mozilla-pkix-error-invalid-integer-encoding = The server presented a certificate that contains an invalid encoding of an integer. Common causes include negative serial numbers, negative RSA moduli, and encodings that are longer than necessary.
 mozilla-pkix-error-empty-issuer-name = ထုတ်ပေးသူအမည်မပါသည့် အထောက်အထားတစ်စောင်ကို ဆာဗာက ဖော်ပြထားသည်။
-
 xp-java-remove-principal-error = အဓိကအချက်ကို ဖယ်ရှားလို့ မရဘူး
 xp-java-delete-privilege-error = အခွင့်အလမ်းကို မပယ်ဖျက်နိုင်ဘူး
 xp-java-cert-not-exists-error = အဓိကအချက်မှာ လက်မှတ်တခု မရှိဘူး။
-
 xp-sec-fortezza-bad-card = Fortezza card has not been properly initialized. Please remove it and return it to your issuer.
 xp-sec-fortezza-no-card = Fortezza များ မတွေ့ရဘူး။
 xp-sec-fortezza-none-selected = Fortezza များ မရွေးချယ်ထားဘူး။

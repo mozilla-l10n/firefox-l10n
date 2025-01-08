@@ -10,4 +10,3 @@ styleeditor-find =
 styleeditor-find-again =
     .label = Find Aince Mair
     .accesskey = i
-

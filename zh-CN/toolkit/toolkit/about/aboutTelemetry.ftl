@@ -42,7 +42,7 @@ about-telemetry-fetch-stack-symbols = 从堆栈获取函数名称
 about-telemetry-hide-stack-symbols = 显示原始堆栈数据
 # Selects the correct release version
 # Variables:
-#   $channel (String): represents the corresponding release data string
+#   $channel (string) - Represents the corresponding release data string
 about-telemetry-data-type =
     { $channel ->
         [release] 正式版的数据
@@ -50,7 +50,7 @@ about-telemetry-data-type =
     }
 # Selects the correct upload string
 # Variables:
-#   $uploadcase (String): represents a corresponding upload string
+#   $uploadcase (string) - Represents a corresponding upload string
 about-telemetry-upload-type =
     { $uploadcase ->
         [enabled] 已启用
@@ -58,45 +58,45 @@ about-telemetry-upload-type =
     }
 # Example Output: 1 sample, average = 0, sum = 0
 # Variables:
-#   $sampleCount (Integer): amount of histogram samples
-#   $prettyAverage (Integer): average of histogram samples
-#   $sum (Integer): sum of histogram samples
+#   $sampleCount (number) - Amount of histogram samples
+#   $prettyAverage (number) - Average of histogram samples
+#   $sum (number) - Sum of histogram samples
 about-telemetry-histogram-stats =
     { $sampleCount ->
        *[other] { $sampleCount } 个样本，平均 = { $prettyAverage }，合计 = { $sum }
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = 本页展示遥测服务收集的有关性能、硬件、使用和定制情况的信息，这些信息被提交到 { $telemetryServerOwner } 以帮助改进 { -brand-full-name }。
 about-telemetry-settings-explanation = 遥测服务正在收集{ about-telemetry-data-type }，并且<a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>上传。
 # Variables:
-#   $name (String): ping name, e.g. “saved-session”
-#   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
+#   $name (string) - Ping name, e.g. “saved-session”
+#   $timestamp (string) - Ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = 每组信息都将打包成“<a data-l10n-name="ping-link">ping</a>”上传。您正在查看 { $name } 于 { $timestamp } 的 Ping。
 about-telemetry-data-details-current = 每组信息都会打包成“<a data-l10n-name="ping-link">Ping</a>”上传。您正在看的是当前数据。
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $selectedTitle (String): the section name from the structure of the ping.
+#   $selectedTitle (string) - The section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = 在 { $selectedTitle } 中查找
 about-telemetry-filter-all-placeholder =
     .placeholder = 在所有版块中查找
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-results-for-search = “{ $searchTerms }“的搜索结果
 # More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $sectionName (String): the section name from the structure of the ping.
-#   $currentSearchText (String): the current text in the search input
+#   $sectionName (string) - The section name from the structure of the ping.
+#   $currentSearchText (string) - The current text in the search input
 about-telemetry-no-search-results = 很抱歉，没有在 { $sectionName } 中找到有关“{ $currentSearchText }”的选项
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-no-search-results-all = 很抱歉，所有版块中都没有找到“{ $searchTerms }”
 # This message is displayed when a section is empty.
 # Variables:
-#   $sectionName (String): is replaced by the section name.
+#   $sectionName (string) - Is replaced by the section name.
 about-telemetry-no-data-to-display = 很抱歉，“{ $sectionName }”中没有可用的数据
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = 当前数据
@@ -114,13 +114,13 @@ about-telemetry-slow-sql-statement = 语句
 about-telemetry-addon-table-id = 附加组件 ID
 about-telemetry-addon-table-details = 详细信息
 # Variables:
-#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+#   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = 实现方式：{ $addonProvider }
 about-telemetry-keys-header = 属性
 about-telemetry-names-header = 名称
 about-telemetry-values-header = 值
 # Variables:
-#   $lateWriteCount (Integer): the number of the late writes
+#   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = 过慢写入 #{ $lateWriteCount }
 about-telemetry-stack-title = 堆栈:
 about-telemetry-memory-map-title = 内存映射:
@@ -131,5 +131,5 @@ about-telemetry-method-header = 方法
 about-telemetry-object-header = 对象
 about-telemetry-extra-header = 额外
 # Variables:
-#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+#  $process (string) - Type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = { $process } 进程

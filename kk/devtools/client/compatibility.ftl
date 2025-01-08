@@ -39,11 +39,9 @@ compatibility-issue-occurrences =
         [one] { $number } кездесу
        *[other] { $number } кездесу
     }
-
 compatibility-no-issues-found = Үйлесімділік мәселелері табылмады.
 compatibility-close-settings-button =
     .title = Баптауларды жабу
-
 # Text used in the element containing the browser icons for a given compatibility issue.
 # Line breaks are significant.
 # Variables:

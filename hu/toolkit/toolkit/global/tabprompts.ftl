@@ -6,7 +6,6 @@ tabmodalprompt-username =
     .value = Felhasználói név:
 tabmodalprompt-password =
     .value = Jelszó:
-
 tabmodalprompt-ok-button =
     .label = OK
 tabmodalprompt-cancel-button =

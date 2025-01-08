@@ -29,3 +29,7 @@ webext-perms-description-tabs = Pieeja pārlūka cilnēm
 webext-perms-description-tabHide = Paslēpt un parādīt pārlūka cilnes
 webext-perms-description-topSites = Pieeja pārlūkošanas vēsturei
 webext-perms-description-webNavigation = Pieeja pārlūkošanas aktivitātēm navigācijas laikā
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

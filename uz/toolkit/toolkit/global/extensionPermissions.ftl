@@ -13,3 +13,7 @@ webext-perms-description-browsingData = Brauzer tarixi, kuki fayllar va boshqa m
 webext-perms-description-clipboardRead = Klipborddan maʼlumotlarni olish
 webext-perms-description-clipboardWrite = Klipbordga maʼlumotlarni kiritish
 webext-perms-description-management = Kengaytmalardan foydalanish va mavzularni boshqarish monitoringi
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

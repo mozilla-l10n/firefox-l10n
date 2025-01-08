@@ -9,7 +9,6 @@ about-service-workers-title = Informatziones in pitzus de is protzessos de traba
 about-service-workers-main-title = Protzessos de traballu de servìtziu registrados
 about-service-workers-warning-not-enabled = Is protzessos de traballu de servìtziu no sunt ativados.
 about-service-workers-warning-no-service-workers = Nissunu protzessu de traballu de servìtziu registradu.
-
 # The original title of service workers' information
 #
 # Variables:
@@ -24,5 +23,4 @@ origin-title = Mitza: { $originTitle }
 
 # This term is used as a button label (verb, not noun).
 update-button = Atualiza
-
 waiting = Abetende…

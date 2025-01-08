@@ -5,7 +5,11 @@
 url-classifier-title = Інфармацыя аб класіфікатары URL
 url-classifier-search-title = Пошук
 url-classifier-search-result-title = Вынікі
+# Variables:
+#   $uri (string) - URI of blocked page
 url-classifier-search-result-uri = URI: { $uri }
+# Variables:
+#   $list (string) - List of tables where the page is blocked
 url-classifier-search-result-list = Спіс табліц: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = Несапраўдны URL
@@ -40,7 +44,6 @@ url-classifier-debug-sb-modules = Модулі журнала Safe Browsing
 url-classifier-debug-modules = Бягучыя модулі журнала
 url-classifier-debug-sbjs-modules = Журнал Safe Browsing JS
 url-classifier-debug-file = Бягучы файл журнала
-
 url-classifier-trigger-update = Абнаўленне трыгера
 url-classifier-not-available = N/A
 url-classifier-disable-sbjs-log = Адключыць журнал Safe Browsing JS

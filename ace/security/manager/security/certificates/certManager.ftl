@@ -18,12 +18,11 @@ certmgr-delete =
 ## For Deleting Certificates
 
 
-## Cert Viewer
-
-
 ## Used to show whether an override is temporary or permanent
 
+
 ## Add Security Exception dialog
+
 
 ## Certificate export "Save as" and error dialogs
 

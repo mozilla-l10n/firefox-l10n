@@ -14,5 +14,6 @@ policy-DisableTelemetry = Peulén Telemetry.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
+
 ##
 

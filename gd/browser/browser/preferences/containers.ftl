@@ -10,10 +10,8 @@ containers-window-new2 =
 containers-window-update-settings2 =
     .title = Roghainnean soithich { $name }
     .style = min-width: 45em
-
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -24,26 +22,20 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 5rem
-
 containers-name-label = Ainm
     .accesskey = N
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = Cuir a-steach ainm dhan t-soitheach
-
 containers-icon-label = Ìomhaigheag
     .accesskey = I
     .style = { -containers-labels-style }
-
 containers-color-label = Dath
     .accesskey = o
     .style = { -containers-labels-style }
-
 containers-dialog =
     .buttonlabelaccept = Deiseil
     .buttonaccesskeyaccept = D
-
 containers-color-blue =
     .label = Gorm
 containers-color-turquoise =
@@ -62,7 +54,6 @@ containers-color-purple =
     .label = Purpaidh
 containers-color-toolbar =
     .label = Match toolbar
-
 containers-icon-fence =
     .label = Feansa
 containers-icon-fingerprint =

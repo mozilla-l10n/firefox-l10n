@@ -3,5 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 fxa-qrcode-error-title = युग्मन सफल।
-
 fxa-qrcode-error-body = फिर से कोशिश करें.

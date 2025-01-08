@@ -3,5 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = Perlu Mula Semula
-
 restart-button-label = Mula Semula { -brand-short-name }

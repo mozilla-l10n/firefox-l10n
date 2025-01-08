@@ -10,8 +10,6 @@ about-reader-color-scheme-dark = Մուգ
     .title = Գույնի սխեմայի պարզեցում
 about-reader-color-scheme-sepia = Դարչնագույն
     .title = Գունային սխեման դարչնագույն
-about-reader-color-theme-custom = Հարմարեցված գույներ
-    .title = Հարմարեցված գույնային ոճ
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -23,7 +21,7 @@ about-reader-estimated-read-time =
        *[other] { $range } րոպե
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = Փոքրացնել տառատեսակի չափը
@@ -58,7 +56,6 @@ about-reader-customtheme-tab = Հարմարեցված
 ## The .title element is used to make the editing functionality
 ## clear and give context for screen reader users.
 
-about-reader-custom-colors-reset-button = Վերակայել սկզբնադիրը
 
-## Reader View improved text and layout menu
+## Reader View text and layout menu
 

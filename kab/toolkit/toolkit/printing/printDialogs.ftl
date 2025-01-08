@@ -103,7 +103,6 @@ print-window =
     .title = Asiggez
 print-complete =
     .value = Asiggez ur ifuk ara.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

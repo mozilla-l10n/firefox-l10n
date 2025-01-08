@@ -47,7 +47,7 @@ detail-update-manual =
     .label = Neki
     .tooltiptext = Pe i ket ngec manyen pire kene
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
-# cannot be overriden by the user.
+# cannot be overridden by the user.
 detail-private-disallowed-label = Pe ki Yee i Dirica me Mung
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Mito nongo Dirica me Mung
@@ -226,7 +226,7 @@ addon-page-options-button =
 ##   $name (string) - Name of the add-on.
 
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name } pe rwate kwede { -brand-short-name } { $version }.
 # Variables:
 #   $version (string) - Application version.

@@ -12,17 +12,17 @@ protections-panel-sitefixedsendreport-label = Kiyubo kakube? Cwal ripot
 
 ##
 
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Kakube pe tye katic?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Kakube Pe tye Katic?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Kakube pe tye katic?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Kakube Pe tye Katic?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -46,6 +46,9 @@ protections-panel-blocking-label = Kigengo
 protections-panel-not-blocking-label = Ki yee
 protections-panel-not-found-label = Pe ki Nongo mo
 
+## Smartblock strings
+
+
 ##
 
 
@@ -63,7 +66,6 @@ protections-panel-site-not-working-view-send-report = Cwal ripot
 ##
 
 protections-panel-content-blocking-breakage-report-view-description = Gengo lulub kor moni mogo twero kelo peko ki kakube mogo. Miyo ripot ikom peko magi konyo weko { -brand-short-name } bedo ber pi dano weng. Cwalo ripot man bicwalo URL ki ngec ikom ter me layeny mamegi bot Mozilla. <label data-l10n-name="learn-more">Nong ngec mapol</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Gengo lulub kor moni mogo twero kelo peko ki kakube mogo. Miyo ripot ikom peko magi konyo weko { -brand-short-name } bedo ber pi dano weng. Cwalo ripot man bicwalo URL ki ngec ikom ter me layeny mamegi bot { -vendor-short-name }.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL

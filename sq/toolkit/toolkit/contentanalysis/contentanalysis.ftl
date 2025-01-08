@@ -41,21 +41,6 @@ contentanalysis-genericresponse-message = Analiza e Lëndës u përgjigj me { $r
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-block-message = Enti juaj përdor software parandalimi humbjesh të dhënash, i cili e ka bllokuar këtë lëndë: { $content }.
 # Variables:
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-error-message = Ndodhi një gabim në komunikimin me software-in e parandalimit të humbjeve të të dhënave. U mohua shpërngulje për burimin: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-unspecified-error-message = Ndodhi një gabim në komunikimin me { $agent }. Shpërngulje që s’u lejua për burimin: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-no-agent-connected-message = S’arrihet të lidhet te { $agent }. Shpërngulje që s’u lejuar për burimin: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-invalid-agent-signature-message = Dështoi verifikim nënshkrimi për { $agent }. Shpërngulje që s’u lejuar për burimin: { $content }.
-# Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Localized text describing the content being blocked, such as "Paste denied."
 contentanalysis-unspecified-error-message-content = Ndodhi një gabim në komunikim me { $agent }. { $content }

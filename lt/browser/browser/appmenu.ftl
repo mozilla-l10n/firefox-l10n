@@ -168,6 +168,11 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 profiler-popup-presets-web-developer-description = Rekomenduojamas nustatymas daugelio saityno programų derinimui, su nedidelėmis sąnaudomis.
 profiler-popup-presets-web-developer-label =
     .label = Saityno kūrėjams
@@ -255,3 +260,9 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Naršyklės įrankiai
 appmenu-developer-tools-extensions =
     .label = Priedai programuotojams
+
+## Panel for privacy and security products
+
+
+## Profiles panel
+

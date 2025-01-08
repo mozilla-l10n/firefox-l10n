@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = ຂໍ້ຍົກເວັ້ນ
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = ທີ່ຢູ່ຂອງເວັບໄຊທ໌
     .accesskey = ທ
-
 permissions-block =
     .label = ບັອກ
     .accesskey = ບ
-
 permissions-disable-etp =
     .label = ເພີ່ມຂໍ້ຍົກເວັ້ນ
     .accesskey = E
-
 permissions-session =
     .label = ອະນຸຍາດສຳລັບເຊສຊັນ
     .accesskey = ຊ
-
 permissions-allow =
     .label = ອະນຸຍາດ
     .accesskey = ອ
-
 permissions-button-off =
     .label = ປິດ
     .accesskey = O
-
 permissions-button-off-temporarily =
     .label = ປິດຊົ່ວຄາວ
     .accesskey = T
-
 permissions-site-name =
     .label = ເວັບໄຊທ໌
-
 permissions-status =
     .label = ສະຖານະ
-
 permissions-remove =
     .label = ລຶບເວັບໄຊທ໌ອອກ
     .accesskey = ລ
-
 permissions-remove-all =
     .label = ລຶບເວັບໄຊທ໌ທັງຫມົດອອກ
     .accesskey = ມ
-
 permission-dialog =
     .buttonlabelaccept = ບັນທຶກການປ່ຽນແປງ
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = ຄ່າເລີ່ມຕົ້ນສໍາລັບເວັບໄຊທ໌ທັງຫມົດ:
-
 permissions-searchbox =
     .placeholder = ຊອກຫາເວັບໄຊທ໌
-
 permissions-capabilities-autoplay-allow =
     .label = ອະນຸຍາດສຽງ ແລະ ວິດີໂອ
 permissions-capabilities-autoplay-block =
     .label = ບລັອກສຽງ
 permissions-capabilities-autoplay-blockall =
     .label = ບລັອກສຽງ ແລະວິດີໂອ
-
 permissions-capabilities-allow =
     .label = ອະນຸຍາດ
 permissions-capabilities-block =
     .label = ບັອກ
 permissions-capabilities-prompt =
     .label = ຖາມທຸກຄັ້ງ
-
 permissions-capabilities-listitem-allow =
     .value = ອະນຸຍາດ
 permissions-capabilities-listitem-block =
     .value = ບັອກ
 permissions-capabilities-listitem-allow-session =
     .value = ອະນຸຍາດສຳລັບເຊສຊັນນີ້
-
 permissions-capabilities-listitem-off =
     .value = ປິດ
 permissions-capabilities-listitem-off-temporarily =
@@ -121,6 +102,9 @@ permissions-exceptions-saved-logins-window2 =
     .title = ຂໍ້ຍົກເວັ້ນ - ບັນທຶກການເຂົ້າສູ່ລະບົບ
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = ການເຂົ້າສູ່ລະບົບສຳລັບເວັບໄຊຕໍ່ໄປນີ້ຈະບໍ່ຖືກບັນທຶກ
+
+## Exceptions - Saved Passwords
+
 
 ## Exceptions - Add-ons
 
@@ -194,26 +178,20 @@ permissions-site-speaker-window =
     .title = ການຕັ້ງຄ່າ - ການອະນຸຍາດຂອງລໍາໂພງ
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = ເວັບໄຊທ໌ຕໍ່ໄປນີ້ໄດ້ຮ້ອງຂໍໃຫ້ເລືອກເອົາອຸປະກອນອອກສຽງ. ທ່ານສາມາດລະບຸວ່າເວັບໄຊທ໌ໃດໄດ້ຮັບອະນຸຍາດໃຫ້ເລືອກອຸປະກອນຜົນຜະລິດສຽງ.
-
 permissions-exceptions-doh-window =
     .title = ຂໍ້ຍົກເວັ້ນເວັບໄຊທ໌ສໍາລັບ DNS ຜ່ານ HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } ຈະບໍ່ໃຊ້ DNS ທີ່ປອດໄພຢູ່ໃນເວັບໄຊເຫຼົ່ານີ້ ແລະໂດເມນຍ່ອຍຂອງເຂົາເຈົ້າ.
-
 permissions-doh-entry-field = ໃສ່ຊື່ໂດເມນເວັບໄຊທ໌
     .accesskey = d
-
 permissions-doh-add-exception =
     .label = ເພີ່ມ
     .accesskey = A
-
 permissions-doh-col =
     .label = ໂດເມນ
-
 permissions-doh-remove =
     .label = ລຶບ
     .accesskey = R
-
 permissions-doh-remove-all =
     .label = ລຶບທັງໝົດ
     .accesskey = e

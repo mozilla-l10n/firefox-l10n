@@ -135,6 +135,5 @@ genai-onboarding-gemini-price = Opzions gratuitis e a paiament; account necessar
 genai-onboarding-huggingchat-generate = Gjenerazion di test e codiç
 genai-onboarding-huggingchat-switch = Sielç tra une vaste schirie di modei vierts
 genai-onboarding-huggingchat-price-2 = Gratuit, account necessari dopo un ciert numar di richiestis
-genai-onboarding-huggingchat-price = Gratuit; account necessari par cualchi ativitât
 genai-onboarding-lechat-generate = Gjenerazion di test e codiç
 genai-onboarding-lechat-price = Gratuit; account necessari

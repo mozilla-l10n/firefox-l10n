@@ -37,7 +37,6 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Ikke nu
     .secondarybuttonaccesskey = n
 appmenu-update-other-instance-message = Der er en ny opdatering af { -brand-shorter-name } tilgængelig. Den kan dog ikke blive installeret, fordi en anden version af { -brand-shorter-name } er åben. Luk programmet for at fortsætte opdateringen, eller vælg at opdatere alligevel (den anden version vil muligvis ikke fungere korrekt, før du genstarter den).
-
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Okay
     .buttonaccesskey = O
@@ -45,7 +44,6 @@ appmenu-addon-post-install-message3 = Håndter dine tilføjelser og temaer i pro
 appmenu-addon-post-install-incognito-checkbox =
     .label = Tillad denne udvidelse at virke i private vinduer.
     .accesskey = T
-    
 appmenu-new-tab-controlled-changes =
     .label = Nyt faneblad er ændret.
     .buttonlabel = Behold ændringen

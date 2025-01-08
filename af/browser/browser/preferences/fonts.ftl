@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Fonte
-
 fonts-window-close =
     .key = w
 
@@ -76,19 +75,11 @@ fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans serif
-
 fonts-minsize-none =
     .label = Geen
-
 fonts-allow-own =
     .label = Laat bladsye toe om hul eie fonte te kies in plaas van die keuses hierbo
     .accesskey = L
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

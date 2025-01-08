@@ -41,21 +41,6 @@ contentanalysis-genericresponse-message = Ymatebodd Dadansoddi Cynnwys gyda { $r
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-block-message = Mae eich sefydliad yn defnyddio meddalwedd atal colli data sydd wedi rhwystro'r cynnwys hwn: { $content }.
 # Variables:
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-error-message = Digwyddodd gwall wrth gyfathrebu â'r feddalwedd atal colli data. Gwrthodwyd trosglwyddo adnodd: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-unspecified-error-message = Bu gwall wrth gyfathrebu â { $agent }. Gwrthodwyd trosglwyddo adnodd: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-no-agent-connected-message = Methu cysylltu â { $agent }. Gwrthodwyd trosglwyddo adnodd: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-invalid-agent-signature-message = Methwyd â dilysu llofnod ar gyfer { $agent }. Gwrthodwyd trosglwyddo adnodd: { $content }.
-# Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Localized text describing the content being blocked, such as "Paste denied."
 contentanalysis-unspecified-error-message-content = Bu gwall wrth gyfathrebu â { $agent }. { $content }

@@ -12,20 +12,6 @@ about-reader-color-scheme-sepia = חום כהה
     .title = ערכת צבעים חמה
 about-reader-color-scheme-auto = אוטומטי
     .title = ערכת צבעים אוטומטית
-about-reader-color-theme-light = בהיר
-    .title = ערכת צבעים בהירה
-about-reader-color-theme-dark = כהה
-    .title = ערכת צבעים כהה
-about-reader-color-theme-sepia = ספיה
-    .title = ערכת צבעים בסגנון חום־אדמדם
-about-reader-color-theme-auto = אוטומטי
-    .title = ערכת צבעים אוטומטית
-about-reader-color-theme-gray = אפור
-    .title = ערכת צבעים אפורה
-about-reader-color-theme-contrast = ניגודיות
-    .title = ערכת צבעים בעלת ניגודיות
-about-reader-color-theme-custom = צבעים מותאמים אישית
-    .title = ערכת צבעים מותאמת אישית
 about-reader-color-light-theme = בהירה
     .title = ערכת נושא בהירה
 about-reader-color-dark-theme = כהה
@@ -49,7 +35,7 @@ about-reader-estimated-read-time =
        *[other] { $range } דקות
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = הקטנת גודל גופן
@@ -74,7 +60,6 @@ about-reader-font-type-monospace = רוחב קבוע
 
 about-reader-toolbar-close = סגירת תצוגת הקריאה
 about-reader-toolbar-type-controls = שליטה על המראה
-about-reader-toolbar-color-controls = צבעים
 about-reader-toolbar-text-layout-controls = טקסט ופריסה
 about-reader-toolbar-theme-controls = ערכת נושא
 about-reader-toolbar-savetopocket = שמירה אל { -pocket-brand-name }
@@ -99,10 +84,9 @@ about-reader-custom-colors-visited-links = קישורים שביקרת בהם
     .title = עריכת צבע
 about-reader-custom-colors-selection-highlight = מדגיש להקראה בקול
     .title = עריכת צבע
-about-reader-custom-colors-reset-button = איפוס לברירות המחדל
 about-reader-reset-button = איפוס לברירות המחדל
 
-## Reader View improved text and layout menu
+## Reader View text and layout menu
 
 about-reader-text-header = טקסט
 about-reader-text-size-label = גודל טקסט
@@ -119,9 +103,6 @@ about-reader-content-width-label =
 about-reader-line-spacing-label =
     .label = מרווח בין שורות
 about-reader-advanced-layout-header = מתקדם
-about-reader-slider-label-width-narrow = צר
-about-reader-slider-label-width-wide = רחב
-about-reader-slider-label-spacing-narrow = צר
 about-reader-character-spacing-label =
     .label = מרווח בין תווים
 about-reader-word-spacing-label =

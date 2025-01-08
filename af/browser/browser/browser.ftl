@@ -182,6 +182,8 @@ popup-all-windows-shared = Alle sigbare vensters op die skerm sal gedeel word.
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
 urlbar-search-mode-indicator-close =
     .aria-label = Sluit
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Soek of tik adres in
 urlbar-switch-to-tab =
@@ -202,6 +204,9 @@ urlbar-go-button =
 urlbar-result-action-search-w-engine = Soek met { $engine }
 urlbar-result-action-switch-tab = Verwissel na oortjie
 urlbar-result-action-visit = Besoek
+
+## Strings used for buttons in the urlbar
+
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -359,6 +364,9 @@ tabs-toolbar-list-all-tabs =
 ## Infobar shown at startup to suggest session-restore
 
 
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } stuur outomaties sekere data na { -vendor-short-name } om die gebruikerervaring te verbeter.
@@ -374,6 +382,10 @@ data-reporting-notification-button =
 
 
 ## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
 ## Note that the new line is intentionally part of the tooltip.
 
 
@@ -420,3 +432,13 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Wys “{ $popupURI }”
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+

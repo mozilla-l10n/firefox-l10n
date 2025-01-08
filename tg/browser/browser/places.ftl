@@ -98,7 +98,7 @@ places-delete-page =
            *[other] Нест кардани саҳифаҳо
         }
     .accesskey = D
-# Managed bookmarks are created by an administrator and cannot be changed by the user.
+# Managed bookmarks are created by enterprise policy and cannot be changed by the user.
 managed-bookmarks =
     .label = Хатбаракҳои идорашаванда
 # This label is used when a managed bookmarks folder doesn't have a name.

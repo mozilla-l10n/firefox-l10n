@@ -33,3 +33,8 @@ searchbar-icon =
 removed-search-engine-message = <strong>Cheñchet eo bet ho lusker enklask dre ziouer.</strong>{ $oldEngine } n'eo ket hegerz ken evel lusker enklask dre ziouer gant { -brand-short-name }. Diwar-vremañ eo { $newEngine } ho lusker enklask dre-ziouer. Evit cheñch ho lusker enklask dre ziouer, mont d'an arventennoù. <label data-l10n-name="remove-search-engine-article">Gouzout hiroc'h</label>
 removed-search-engine-message2 = <strong>Cheñchet eo bet ho lusker enklask dre ziouer.</strong>{ $oldEngine } n'eo ket hegerz ken evel lusker enklask dre ziouer gant { -brand-short-name }. Diwar-vremañ eo { $newEngine } ho lusker enklask dre-ziouer. Evit cheñch ho lusker enklask dre ziouer, mont d'an arventennoù.
 remove-search-engine-button = Mat eo
+
+## Infobar shown when user is prompted to install search engine.
+## Variables
+## $engineName (String) - the name of the search engine to install.
+

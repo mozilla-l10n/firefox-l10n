@@ -9,7 +9,6 @@ about-service-workers-title = Service Worker-lər haqqında
 about-service-workers-main-title = Qeyd Olunmuş Service Worker-lar
 about-service-workers-warning-not-enabled = Service Worker-lər aktiv edilməyiblər.
 about-service-workers-warning-no-service-workers = Heç bir Service Worker qeydiyyatlı deyil.
-
 # The original title of service workers' information
 #
 # Variables:
@@ -29,12 +28,8 @@ active-cache-name = <strong>Aktiv Keş Adı:</strong> { $name }
 waiting-cache-name = <strong>Gözləyən Keş Adı:</strong> { $name }
 push-end-point-waiting = <strong>Göndərmə nöqtəsi:</strong> { waiting }
 push-end-point-result = <strong>Göndərmə nöqtəsi:</strong> { $name }
-
 # This term is used as a button label (verb, not noun).
 update-button = Yenilə
-
 unregister-button = Qeydiyyatsız
-
 unregister-error = Bu Service Worker-i qeydiyyatdan silmək mümkün olmadı.
-
 waiting = Gözlənilir…

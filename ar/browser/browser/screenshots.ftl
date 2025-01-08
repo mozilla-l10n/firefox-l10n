@@ -40,8 +40,6 @@ screenshots-private-window-error-title = ‏{ -screenshots-brand-name } معطّ
 screenshots-private-window-error-details = نأسف على الإزعاج. نعمل على هذه الخاصية للإصدارات اللاحقة.
 screenshots-generic-error-title = هناك عطل في { -screenshots-brand-name }.
 screenshots-generic-error-details = لسنا متأكدين ما المشكلة. أتمانع إعادة المحاولة أو أخذ لقطة لصفحة أخرى؟
-screenshots-component-copy-button-label = انسخ
-screenshots-component-download-button-label = نزّل
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.

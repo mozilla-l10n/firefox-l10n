@@ -14,16 +14,10 @@ abuse-report-goback-button = उनथिं थांफिन
 abuse-report-submit-button = गथाय
 
 ## Message bars descriptions.
-
-
-## Variables:
-##   $addon-name (string) - Name of the add-on
-
-
-## Message bars descriptions.
 ##
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
+
 
 ## Message bars actions.
 

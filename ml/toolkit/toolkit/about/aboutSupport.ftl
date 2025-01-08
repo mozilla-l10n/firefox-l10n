@@ -4,7 +4,6 @@
 
 page-title = ട്രബിള്‍ഷൂട്ടിങിനുള്ള വിവരം
 page-subtitle = This page contains technical information that might be useful when you're trying to solve a problem. If you are looking for answers to common questions about { -brand-short-name }, check out our <a data-l10n-name="support-link">support web site</a>.
-
 crashes-title = തകരാര്‍ രേഖപ്പെടുത്തുന്ന റിപോര്‍ട്ടുകള്‍
 crashes-id = ഐഡി രേഖപ്പെടുത്തുക
 crashes-send-date = സമര്‍പ്പിച്ചവ
@@ -35,7 +34,6 @@ app-basics-memory-use = മെമ്മറിയുടെ ഉപയോഗം
 app-basics-service-workers = രജിസ്റ്റര്‍ ചെയ്‌ത Service Workers
 app-basics-multi-process-support = അനവധി പ്രക്രിയയ്ക്കുള്ള ജാലകങ്ങള്‍
 app-basics-safe-mode = സുരക്ഷ മോഡ്
-
 show-dir-label =
     { PLATFORM() ->
         [macos] ഫൈന്‍ഡറില്‍ കാണിയ്ക്കുക
@@ -77,6 +75,12 @@ media-device-rate = നിരക്ക്
 
 ## Codec support table
 
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+
 ##
 
 
@@ -99,7 +103,6 @@ report-crash-for-days =
         [one] അവസാന { $days } ദിവസത്തിനുള്ള തകരാര്‍ റിപോര്‍ട്ടുകള്‍
        *[other] അവസാന { $days } ദിവസത്തേക്കുള്ള തകരാര്‍ റിപോര്‍ട്ടുകള്‍
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -107,7 +110,6 @@ crashes-time-minutes =
         [one] { $minutes } മിനിറ്റ് മുമ്പു്
        *[other] { $minutes } മിനിറ്റുകള്‍ മുമ്പു്
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -115,7 +117,6 @@ crashes-time-hours =
         [one] { $hours } മണിക്കൂര്‍ മുമ്പു്
        *[other] { $hours } മണിക്കൂറുകള്‍ മുമ്പു്
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -123,7 +124,6 @@ crashes-time-days =
         [one] { $days } ദിവസം മുമ്പു്
        *[other] { $days } ദിവസങ്ങള്‍ മുമ്പു്
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -131,7 +131,6 @@ pending-reports =
         [one] എല്ലാ തകരാര്‍ റിപ്പോര്‍ട്ടുകള്‍ (നല്‍കിയ സമയ പരിധിയില്‍ ബാക്കിയുള്ള { $reports }  തകരാര്‍ ഉള്‍പ്പടെ)
        *[other] എല്ലാ തകരാര്‍ റിപ്പോര്‍ട്ടുകള്‍ (നല്‍കിയ സമയ പരിധിയില്‍ ബാക്കിയുള്ള { $reports }  തകരാറുകള്‍ ഉള്‍പ്പടെ)
     }
-
 raw-data-copied = ക്ലിപ്പ്ബോര്‍ഡിലേക്കു് ഡേറ്റാ പകര്‍ത്തിയിരിയ്ക്കുന്നു
 text-copied = ക്ലിപ്പ്ബോര്‍ഡിലേക്കു് വാചകം പകര്‍ത്തിയിരിയ്ക്കുന്നു
 
@@ -144,11 +143,9 @@ blocked-mismatched-version = രജിസ്ട്രിയിലും ഡി�
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = നിങ്ങളുടെ ഗ്രാഫിക്സ് ഡ്രൈവര്‍ പതിപ്പിനു് ലഭ്യമല്ല. Try updating your graphics driver to version { $driverVersion } അല്ലെങ്കില്‍ പുതിയ പതിപ്പിലേക്കു് നിങ്ങളുടെ ഗ്രാഫിക്സ് ഡ്രൈവര്‍ പരിഷ്കരിയ്ക്കുന്നതിനായി ശ്രമയിക്കുക.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType പരാമീറ്ററുകള്‍
-
 compositing = കമ്പോസിറ്റിങ്ങ്
 hardware-h264 = H264 ഹാര്‍ഡ്‍വെയര്‍ ഡീകോഡിംഗ്
 main-thread-no-omtc = പ്രധാന ത്രെഡ്, OMTC ഇല്ല
@@ -161,7 +158,6 @@ no = അല്ല
 
 found = കണ്ടെത്തി
 missing = കാണുന്നില്ല
-
 gpu-description = വിവരണം
 gpu-vendor-id = വെണ്ടര്‍ ഐഡി
 gpu-device-id = ഡിവൈസ് ഐഡി
@@ -180,15 +176,11 @@ webgl2-wsiinfo = WebGL2 ഡ്രൈവര്‍ WSI വിവരങ്ങള്
 webgl2-renderer = WebGL 2 ഡ്രൈവര്‍ റെന്‍ഡറര്‍
 webgl2-version = WebGL 2 ഡ്രൈവര്‍ പതിപ്പ്
 webgl2-driver-extensions = WebGL 2 ഡ്രൈവര്‍ എക്സ്റ്റന്‍ഷനുകള്‍
-
 glcontext-crash-guard = ഓപ്പണ്‍ജിഎല്‍
-
 reset-on-next-restart = അടുത്ത റീസ്റ്റാർട്ടിൽ പുനഃസജ്ജമാക്കുക
 gpu-process-kill-button = GPU പ്രോസസ്സ് അവസാനിപ്പിക്കുക
-
 min-lib-versions = പ്രതീക്ഷിച്ച ഏറ്റവും കുറഞ്ഞ പതിപ്പു്
 loaded-lib-versions = ഉപയോഗത്തിലുള്ള പതിപ്പു്
-
 has-seccomp-bpf = Seccomp-BPF (സിസ്റ്റം കോള്‍ ഫില്‍റ്ററിങ്)
 has-seccomp-tsync = Seccomp ത്രെഡ്ഡ് സിങ്ക്രണൈസേഷൻ
 has-user-namespaces = ഉപയോക്താവിന്റെ നേമ്സ്പേസ്സുകള്‍
@@ -198,12 +190,10 @@ can-sandbox-media = മീഡിയാ പ്ലഗിന്‍ സാന്റ�
 sandbox-proc-type-content = ഉള്ളടക്കം
 sandbox-proc-type-file = ഫയൽ ഉള്ളടക്കം
 sandbox-proc-type-media-plugin = മീഡിയ പ്ലഗിൻ
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-
 async-pan-zoom = അങ്ങോട്ടും ഇങ്ങോട്ടും വലിക്കുക/വലുതാക്കുക
 apz-none = ഒന്നുമില്ല
 wheel-enabled = വീല്‍ ഇന്‍പുട്ട് പ്രവര്‍ത്തനസജ്ജമാക്കിയിരിക്കുന്നു
@@ -219,7 +209,18 @@ touch-warning = പിന്തുണയില്ലാത്ത pref: { $prefer
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+
 ## Printing section
 
+
+## Remote Settings sections
+
+
 ## Normandy sections
+
+
+## Pointing devices
+
+
+## Content Analysis (DLP)
 

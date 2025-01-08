@@ -6,8 +6,6 @@ title-label = Про плагіни
 installed-plugins-label = Встановлені плагіни
 no-plugins-are-installed-label = Встановлених плагінів не знайдено
 deprecation-description = Чогось не вистачає? Деякі плагіни більше не підтримуються. <a data-l10n-name="deprecation-link">Докладніше.</a>
-deprecation-description2 =
-    .message = Чогось не вистачає? Деякі плагіни більше не підтримуються.
 
 ## The information of plugins
 ##

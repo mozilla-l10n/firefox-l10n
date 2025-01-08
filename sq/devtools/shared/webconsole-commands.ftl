@@ -22,13 +22,3 @@ webconsole-commands-usage-unblock =
     Resht së bllokuari kërkesa rrjeti
     
       Pranon vetëm një argument, saktësisht të njëjtin varg dhënë më parë për veprimin :block.
-# Usage string for :trace command
-webconsole-commands-usage-trace =
-    :trace
-    
-    Aktivizon/çaktivizon ndjekësin JavaScript
-    
-      Mbulon argumentet vijues:
-        --logMethod të vihet si ‘console’ për regjistrim të konsolës web (parazgjedhja), ose ‘stdout’ për regjistrim te output-i standard,
-        --prefix Varg opsional që do të regjistrohet para krejt regjistrave “trace”,
-        --help ose --usage për të shfaqur këtë mesazh.

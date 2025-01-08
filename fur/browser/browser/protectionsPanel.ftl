@@ -23,6 +23,11 @@ protections-panel-etp-more-info =
     .aria-label = Plui informazions su la protezion des spiis miorade
 protections-panel-etp-on-header = La protezion miorade da lis spiis e je ATIVE par chest sît
 protections-panel-etp-off-header = La protezion miorade da lis spiis e je DISATIVADE par chest sît
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Il sît nol funzione?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Il sît nol funzione?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -37,11 +42,6 @@ protections-panel-etp-toggle-off =
     .label = Protezion miorade da lis spiis
     .description = Disativade par chest sît
     .aria-label = Protezion miorade da lis spiis: disativade par { $host }
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Il sît nol funzione?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Il sît nol funzione?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -71,6 +71,9 @@ protections-panel-content-blocking-fingerprinters-label = Rilevadôrs di stamp n
 protections-panel-blocking-label = Blocâts
 protections-panel-not-blocking-label = Permetûts
 protections-panel-not-found-label = Nissun rilevât
+
+## Smartblock strings
+
 
 ##
 
@@ -108,7 +111,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Segnale un sît che nol funzione
 protections-panel-content-blocking-breakage-report-view-description = Blocant ciertis spiis tu puedis causâ problemis cun cualchi sît web. La segnalazion di chescj problemis e jude a miorâ { -brand-short-name } par ducj. Inviant cheste segnalazion tu inviarâs a Mozilla un URL e lis informazions su lis impostazions dal tô navigadôr. <label data-l10n-name="learn-more">Plui informazions</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Blocant ciertis spiis tu puedis causâ problemis cun cualchi sît web. La segnalazion di chescj problemis e jude a miorâ { -brand-short-name } par ducj. Inviant cheste segnalazion tu inviarâs a { -vendor-short-name } un URL e lis informazions su lis impostazions dal tô navigadôr.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL

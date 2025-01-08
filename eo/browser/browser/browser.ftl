@@ -650,9 +650,6 @@ urlbar-result-action-search-bookmarks = Serĉi en legosignoj
 urlbar-result-action-search-history = Serĉi en historio
 urlbar-result-action-search-tabs = Serĉi en la langetoj
 urlbar-result-action-search-actions = Serĉaj agoj
-# Label for a quickaction result used to open a tab group.
-#  $group (String): the name of the tab group to open
-urlbar-result-action-search-tabgroups = Malfermi { $group }
 
 ## Labels shown above groups of urlbar results
 

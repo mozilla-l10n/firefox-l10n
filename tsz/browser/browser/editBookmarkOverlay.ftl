@@ -4,4 +4,3 @@
 
 bookmark-overlay-choose =
     .label = K&´umanharhitani…
-

@@ -29,3 +29,7 @@ webext-perms-description-tabs = Gang intae stravaiger tabs
 webext-perms-description-tabHide = Hide and kythe stravaiger tabs
 webext-perms-description-topSites = Gang intae stravaigin historie
 webext-perms-description-webNavigation = Gang intae stravaigin activity while flittin aboot
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

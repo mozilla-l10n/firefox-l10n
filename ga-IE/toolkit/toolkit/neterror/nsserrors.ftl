@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -9,13 +10,11 @@
 
 psmerr-ssl-disabled = Ní féidir ceangal slán a bhunú toisc go bhfuil an prótacal SSL díchumasaithe.
 psmerr-ssl2-disabled = Ní féidir ceangal slán a bhunú toisc go n-úsáideann an suíomh seanleagan den phrótacal SSL nach bhfuil slán.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Tá teastas neamhbhailí faighte agat. Téigh i dteagmháil le riarthóir an fhreastalaí nó do chomhfhreagraí ríomhphoist agus tabhair dó/di an t-eolas seo:
     
     Tá an tsraithuimhir chéanna ag do theastas agus atá ag teastas eile eisithe ag an údarás deimhniúcháin. Faigh teastas nua le sraithuimhir uathúil le do thoil.
-
 ssl-error-export-only-server = Ní féidir cumarsáid shlán a dhéanamh. Ní thacaíonn an comhghleacaí le criptiúchán ardghráid.
 ssl-error-us-only-server = Ní féidir cumarsáid shlán a dhéanamh. Tá criptiúchán ardghráid nach dtacaítear leis ag teastáil ón gcomhghleacaí.
 ssl-error-no-cypher-overlap = Ní féidir cumarsáid shlán a dhéanamh leis an gcomhghleacaí: níl comhalgartam criptiúcháin ann.
@@ -152,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = Níor cumraíodh aon algartam síni
 ssl-error-unsupported-signature-algorithm = Bhain an comhghleacaí úsáid as teaglaim de shíniú agus algartam haiseála nach dtacaítear leo.
 ssl-error-missing-extended-master-secret = Rinne an comhghleacaí iarracht tosú arís gan eisínteacht cheart extended_master_secret.
 ssl-error-unexpected-extended-master-secret = Rinne an comhghleacaí iarracht tosú arís le heisínteacht extended_master_secret nach raibh ag súil leis.
-
 sec-error-io = Tharla earráid I/A le linn údarú slándála.
 sec-error-library-failure = Teip sa leabharlann slándála.
 sec-error-bad-data = leabharlann slándála: fuarthas sonraí mícheart.
@@ -319,7 +317,6 @@ sec-error-locked-password = Focal faire faoi ghlas.
 sec-error-unknown-pkcs11-error = Earráid anaithnid PKCS #11.
 sec-error-bad-crl-dp-url = URL neamhbhailí nó gan tacaíocht in ainm an phointe dáilte CRL.
 sec-error-cert-signature-algorithm-disabled = Síníodh an teastas le halgartam atá díchumasaithe toisc nach bhfuil sé slán.
-
 mozilla-pkix-error-key-pinning-failure = Úsáideann an freastalaí pionnáil eochrach (HPKP), ach níorbh fhéidir slabhra teastas iontaofa a chruthú a mheaitseálann na pionnaí. Ní féidir fadhbanna le pionnáil eochracha a shárú.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Úsáideann an freastalaí teastas le heisínteacht bunsrianta a chuireann in iúl gur údarás deimhniúcháin é. Ní tharlaíonn sé seo le teastas a bhí eisithe mar is ceart.
 mozilla-pkix-error-inadequate-key-size = Níl an eochair i dteastas an fhreastalaí sách mór le ceangal slán a bhunú.
@@ -332,11 +329,9 @@ mozilla-pkix-error-validity-too-long = Tá teastas an fhreastalaí bailí ar fea
 mozilla-pkix-error-required-tls-feature-missing = Tá gné riachtanach TLS in easnamh.
 mozilla-pkix-error-invalid-integer-encoding = Tá ionchódú neamhbhailí ar shlánuimhir i dteastas an fhreastalaí. Uaireanta is sraithuimhir dhiúltach, modail dhiúltacha RSA, nó ionchóduithe rófhada is cúis leis seo.
 mozilla-pkix-error-empty-issuer-name = Tá ainm aitheanta an eisitheora folamh sa teastas a nocht an freastalaí.
-
 xp-java-remove-principal-error = Ní féidir an príomhaí a scrios.
 xp-java-delete-privilege-error = Níorbh fhéidir an phribhléid a scrios
 xp-java-cert-not-exists-error = Níl teastas ag an bpríomhaí.
-
 xp-sec-fortezza-bad-card = Níl an cárta Fortezza túsaithe i gceart. Bain é agus cuir ar ais chuig an eisitheoir é le do thoil.
 xp-sec-fortezza-no-card = Níor aimsíodh cárta Fortezza
 xp-sec-fortezza-none-selected = Níl cárta Fortezza roghnaithe

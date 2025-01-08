@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = फ़ॉन्ट
-
 fonts-window-close =
     .key = w
 
@@ -74,15 +73,8 @@ fonts-default-serif =
     .label = सेरिफ़
 fonts-default-sans-serif =
     .label = सैंस सेरिफ़
-
 fonts-minsize-none =
     .label = कोनो नहि
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

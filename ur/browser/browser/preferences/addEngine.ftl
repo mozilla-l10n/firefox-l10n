@@ -5,14 +5,9 @@
 add-engine-window2 =
     .title = تلاش انجن شامل کریں
     .style = min-width: 32em;
-
 add-engine-button = مخصوص انجن شامل کریں
-
 add-engine-name = تلاش انجن کا نام
-
 add-engine-alias = عرف
-
 add-engine-dialog =
     .buttonlabelaccept = انجن شامل کریں
     .buttonaccesskeyaccept = A
-

@@ -103,7 +103,6 @@ print-window =
     .title = Nana winnditoo
 print-complete =
     .value = Winndito Timmii.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

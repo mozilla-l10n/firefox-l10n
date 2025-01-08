@@ -4,32 +4,24 @@
 
 certmgr-title =
     .title = Certificate Manager
-
 certmgr-tab-mine =
     .label = Your Certificates
-
 certmgr-tab-servers =
     .label = Servers
-
 certmgr-cert-server =
     .label = Server
-
 certmgr-view =
     .label = Mbwíʔ...
     .accesskey = w
-
 certmgr-delete =
     .label = Tòmbî...
     .accesskey = b
-
 certmgr-delete-builtin =
     .label = Tòmbî...
     .accesskey = b
-
 certmgr-backup =
     .label = M-bì~rè...
     .accesskey = M
-
 exception-mgr-cert-status-view-cert =
     .label = Mbwíʔ...
     .accesskey = V
@@ -47,10 +39,8 @@ file-browse-pkcs12-spec = PKCS12 yêtz
 ## For Deleting Certificates
 
 
-## Cert Viewer
-
-
 ## Used to show whether an override is temporary or permanent
+
 
 ## Add Security Exception dialog
 

@@ -33,4 +33,3 @@ size-GB = { $value } GB
 
 close-tab =
     .title = टेबखौ बन्द खालाम
-

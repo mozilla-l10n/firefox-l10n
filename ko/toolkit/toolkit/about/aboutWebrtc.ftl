@@ -33,8 +33,6 @@ about-webrtc-aec-logging-toggled-off-state-msg = 캡처된 로그파일 위치: 
 
 # The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = 자동 새로 고침
-# Determines the default state of the Auto Refresh check boxes
-about-webrtc-auto-refresh-default-label = 기본으로 자동 새로 고침
 # A button which forces a refresh of displayed statistics
 about-webrtc-force-refresh-button = 새로 고침
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
@@ -98,8 +96,8 @@ about-webrtc-save-page-label = 페이지 저장
 about-webrtc-debug-mode-msg-label = 디버그 모드
 about-webrtc-debug-mode-off-state-label = 디버그 모드 시작
 about-webrtc-debug-mode-on-state-label = 디버그 모드 중지
-about-webrtc-enable-logging-label = WebRTC 로그 프리셋 활성화
 about-webrtc-stats-heading = 세션 통계
+about-webrtc-enable-logging-label = WebRTC 로그 프리셋 활성화
 about-webrtc-peerconnections-section-heading = RTCPeerConnection 통계
 about-webrtc-peerconnections-section-show-msg = RTCPeerConnection 통계 표시
 about-webrtc-peerconnections-section-hide-msg = RTCPeerConnection 통계 숨기기
@@ -229,10 +227,7 @@ about-webrtc-round-trip-time-ms = RTT ms
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = 비디오 프레임 통계 - MediaStreamTrack ID: { $track-identifier }
 
-## These are paths used for saving the about:webrtc page or log files so
-## they can be attached to bug reports.
-## Variables:
-##  $path (String) - The path to which the file is saved.
+##
 
 about-webrtc-save-page-msg = 페이지 저장됨: { $path }
 about-webrtc-debug-mode-off-state-msg = 추적로그 위치: { $path }

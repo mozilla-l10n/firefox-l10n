@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -9,13 +10,11 @@
 
 psmerr-ssl-disabled = Non é posíbel conectarse de modo seguro porque se desactivou o protocolo SSL.
 psmerr-ssl2-disabled = Non é posíbel conectarse de modo seguro porque o sitio utiliza unha versión máis antiga e insegura do protocolo SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Recibiu un certificado non válido. Contacte co administrador do servidor ou co correo electrónico correspondente e fornézalles a seguinte información:
     
     O seu certificado contén o mesmo número de serie que o outro certificado emitido pola autoridade certificadora. Obteña un certificado que conteña un único número de serie.
-
 ssl-error-export-only-server = Non foi posíbel comunicar de modo seguro. O elemento do mesmo nivel non é compatíbel cunha codificación de grao alto.
 ssl-error-us-only-server = Non foi posíbel comunicar de modo seguro. O elemento do mesmo nivel require unha codificación de grao alto que non é compatíbel.
 ssl-error-no-cypher-overlap = Non é posíbel comunicar de modo seguro cun elemento do mesmo nivel: Non hai algoritmos de codificación común.
@@ -152,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = Configurouse un algoritmo de sinatu
 ssl-error-unsupported-signature-algorithm = O par usou unha combinación non admitida de sinatura e algoritmo hash.
 ssl-error-missing-extended-master-secret = O par tentou continuar sen unha extensión extended_master_secret correcta.
 ssl-error-unexpected-extended-master-secret = O par tentou continuar cunha extensión extended_master_secret inesperada.
-
 sec-error-io = Produciuse un erro E/S durante a autorización de seguranza.
 sec-error-library-failure = erro da biblioteca de seguranza.
 sec-error-bad-data = biblioteca de seguranza: recibíronse datos incorrectos.
@@ -319,7 +317,6 @@ sec-error-locked-password = O contrasinal está protexido.
 sec-error-unknown-pkcs11-error = Erro PKCS #11 descoñecido.
 sec-error-bad-crl-dp-url = URL incorrecto ou incompatíbel no nome do punto de distribución de CRL.
 sec-error-cert-signature-algorithm-disabled = Firmouse o certificado usando un algoritmo de asinamento que está desactivado porque non é seguro.
-
 mozilla-pkix-error-key-pinning-failure = O servidor usa o mecanismo de «key pinning» (HPKP) pero non foi posíbel construír unha cadea de certificados de confianza que coincida co pinset. Non é posíbel sobrescribir as violacións de «key pinning».
 mozilla-pkix-error-ca-cert-used-as-end-entity = O servidor usa un certificado cunha extensión das restricións básicas que o identifica como unha entidade de acreditación. Este non debería ser o caso para un certificado emitido correctamente.
 mozilla-pkix-error-inadequate-key-size = O servidor presentou un certificado cun tamaño de chave que é demasiado pequeno para estabelecer unha conexión segura.
@@ -334,11 +331,9 @@ mozilla-pkix-error-invalid-integer-encoding = O servidor presentou un certificad
 mozilla-pkix-error-empty-issuer-name = O servidor presentou un certificado cun nome distintivo de emisor baleiro.
 mozilla-pkix-error-additional-policy-constraint-failed = Unha restrición de política adicional fallou ao validar este certificado.
 mozilla-pkix-error-self-signed-cert = O certificado non é fiábel porque está autoasinado.
-
 xp-java-remove-principal-error = Non foi posíbel eliminar o principal
 xp-java-delete-privilege-error = Non foi posíbel eliminar o privilexio
 xp-java-cert-not-exists-error = Este principal non ten un certificado
-
 xp-sec-fortezza-bad-card = A tarxeta Fortezza non se iniciou correctamente. Retírea e devólvaa ao seu emisor.
 xp-sec-fortezza-no-card = Non se atoparon tarxetas Fortezza
 xp-sec-fortezza-none-selected = Non se seleccionou ningunha tarxeta Fortezza

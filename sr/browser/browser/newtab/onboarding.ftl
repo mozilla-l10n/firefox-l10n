@@ -232,7 +232,9 @@ mr2022-onboarding-set-default-subtitle = Користите прегледач �
 mr2022-onboarding-get-started-primary-subtitle = Наша најновија верзија одговара вашим потребама и омогућава вам да лако прегледате интернет. Препуна је садржаја за који мислимо да ће вам се свидети.
 mr2022-onboarding-get-started-primary-button-label = Подесите у пар секунди
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Муњевито брзо подешавање
 mr2022-onboarding-import-subtitle = Подесите { -brand-short-name } како ви то желите. Додајте ваше обележиваче, лозинке и друго из вашег старог прегледача.
@@ -437,3 +439,9 @@ onboarding-checklist-pin = Закачи { -brand-short-name } на траку з
 onboarding-checklist-import = Увези из претходног прегледача
 onboarding-checklist-extension = Додај додатак
 onboarding-checklist-sign-up = Региструј се или се пријави у налог
+
+## Tab Groups feature onboarding strings
+
+
+## Multi Profiles feature onboarding messages
+

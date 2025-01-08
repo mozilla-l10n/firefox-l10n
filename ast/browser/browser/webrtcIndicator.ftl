@@ -3,17 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Note: This is currently placed under browser/base/content so that we can
-# get the strings to appear without having our localization community need
-# to go through and translate everything. Once these strings are ready for
-# translation, we'll move it to the locales folder.
-
-
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
-# This string is used so that the window has a title in tools that enumerate/look for window
-# titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } — Indicador de compartición
 webrtc-indicator-window =
     .title = { -brand-short-name } — Indicador de compartición
@@ -34,7 +26,6 @@ webrtc-item-browser = llingüeta
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
-
 webrtc-sharing-window = Tas compartiendo la ventana d'otra aplicación.
 webrtc-sharing-browser-window = Tas compartiendo { -brand-short-name }.
 webrtc-sharing-screen = Tas compartiendo tola pantalla.
@@ -54,9 +45,6 @@ webrtc-minimize =
 ## device sharing state in the OS notification area. We do not use these strings
 ## on macOS, as global menu bar items do not have native tooltips.
 
-# This string will display as a tooltip on supported systems where we show
-# device sharing state in the OS notification area. We do not use these strings
-# on macOS, as global menu bar items do not have native tooltips.
 webrtc-camera-system-menu =
     .label = Tas compartiendo la cámara. Calca pa controlar qué compartir.
 webrtc-microphone-system-menu =
@@ -100,6 +88,9 @@ webrtc-allow-share-camera-and-audio-capture = ¿Permitir a { $origin } qu'use la
 webrtc-allow-share-screen-and-microphone = ¿Permitir a { $origin } qu'use'l micrófonu y vea la pantalla?
 webrtc-allow-share-screen-and-audio-capture = ¿Permitir a { $origin } que sienta l'audiu d'esta llingüeta y vea la pantalla?
 
+## Special phrasing for sharing devices when the origin is a file url.
+
+
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
@@ -133,4 +124,3 @@ webrtc-action-always-block =
 
 webrtc-remember-allow-checkbox = Acordase d'esta decisión
 webrtc-mute-notifications-checkbox = Desactivar los avisos de los sitios web mentanto se comparte
-

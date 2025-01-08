@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -9,13 +10,11 @@
 
 psmerr-ssl-disabled = Tidak dapat sambung dengan selamat kerana  protokol SSL telah dilumpuh.
 psmerr-ssl2-disabled = Tidak dapat sambung dengan selamat kerana laman tersebut menggunakan versi protokol SSL yang lama dan tidak selamat.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Anda menerima sijil yang tidak sah.  Sila hubungi pentadbir pelayan atau e-mel koresponden dan berikan mereka informasi berikut:
     
     Sijil anda mengandungi nombor siri seperti sijil lain yang dikeluarkan oleh autoriti persijilan.  Sila dapatkan sijil baru yang mengandungi nombor siri yang unik.
-
 ssl-error-export-only-server = Tidak dapat berkomunikasi secara selamat. Rakan tidak menyokong enkripsi gred tinggi.
 ssl-error-us-only-server = Tidak dapat berkomunikasi secara selamat. Rakan memerlukan enkripsi gred tinggi yang tidak disokong.
 ssl-error-no-cypher-overlap = Tidak dapat komunikasi yang selamat dengan rakan: tiada enkripsi algoritma yang sama.
@@ -152,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = Tiada konfigurasi untuk algoritma t
 ssl-error-unsupported-signature-algorithm = Rakan menggunakan kombinasi tandatangan dan algoritma cincang yang tidak disokong.
 ssl-error-missing-extended-master-secret = Rakan cuba menyambung semula tanpa ekstensi extended_master_secret yang betul.
 ssl-error-unexpected-extended-master-secret = Rakan cuba untuk menyambung semula dengan ekstensi extended_master_secret yang tidak dijangka.
-
 sec-error-io = Kesalahan I/O berlaku semasa pengesahan keselamatan.
 sec-error-library-failure = Kegagalan Sekuriti Perpustakaan.
 sec-error-bad-data = Sekuriti Perpustakaan: menerima data yang buruk.
@@ -319,7 +317,6 @@ sec-error-locked-password = Kata laluan dikunci.
 sec-error-unknown-pkcs11-error = Kesilapan PKCS #11 tidak dikenali.
 sec-error-bad-crl-dp-url = URL sah atau tidak disokong nama pusat dalam pembahagian CRL.
 sec-error-cert-signature-algorithm-disabled = Sijil ditandatangan menggunakan algoritma yang dilumpuhkan kerana tidak selamat.
-
 mozilla-pkix-error-key-pinning-failure = Pelayan menggunakan kep pinning (HPKP) tetapi tiada rantai sijil yang boleh dipercayai dapat dibina sepadan dengan pinset. Pelanggaran key pinning tidak dapat dibatalkan.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Pelayan menggunakan sijil dengan ektensi kekangan asas lalu mengenalpastinya sebagai autoriti sijil. Untuk sijil yang dikeluarkan dengan betul, hal ini tidak seharusnya berlaku.
 mozilla-pkix-error-inadequate-key-size = Pelayan menyerahkan sijil dengan saiz kunci yang terlalu kecil untuk mewujudkan sambungan yang selamat.
@@ -334,11 +331,9 @@ mozilla-pkix-error-invalid-integer-encoding = Pelayan menyerahkan sijil yang men
 mozilla-pkix-error-empty-issuer-name = Pelayan menyerahkan sijil tanpa nama unggul pengeluar.
 mozilla-pkix-error-additional-policy-constraint-failed = Kekangan polisi tambahan telah gagal apabila mengesahkan sijil ini.
 mozilla-pkix-error-self-signed-cert = Sijil ini tidak boleh dipercayai kerana ditandatangani sendiri.
-
 xp-java-remove-principal-error = Tidak dapat mengalih keluar prinsipal
 xp-java-delete-privilege-error = Tidak dapat menghapuskan keistimewaan
 xp-java-cert-not-exists-error = Prinsipal ini tidak mempunyai sijil
-
 xp-sec-fortezza-bad-card = Kad Fortezza telah dimulakan dengan betul. Sila alih keluar dan pulangkan semula kepada pengeluar.
 xp-sec-fortezza-no-card = Tiada kad Fortezza ditemui
 xp-sec-fortezza-none-selected = Tiada kad Fortezza dipilih

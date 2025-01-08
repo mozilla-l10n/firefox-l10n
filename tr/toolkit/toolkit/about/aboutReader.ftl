@@ -12,20 +12,6 @@ about-reader-color-scheme-sepia = Sepya
     .title = Sepya renk düzeni
 about-reader-color-scheme-auto = Otomatik
     .title = Otomatik renk düzeni
-about-reader-color-theme-light = Açık
-    .title = Açık renk teması
-about-reader-color-theme-dark = Koyu
-    .title = Koyu renk teması
-about-reader-color-theme-sepia = Sepya
-    .title = Sepya renk teması
-about-reader-color-theme-auto = Otomatik
-    .title = Otomatik renk teması
-about-reader-color-theme-gray = Gri
-    .title = Gri renk teması
-about-reader-color-theme-contrast = Kontrast
-    .title = Kontrast renk teması
-about-reader-color-theme-custom = Özel Renkler
-    .title = Özel renk teması
 about-reader-color-light-theme = Açık
     .title = Açık tema
 about-reader-color-dark-theme = Koyu
@@ -49,7 +35,7 @@ about-reader-estimated-read-time =
        *[other] { $range } dakika
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = Yazı tipi boyutunu küçült
@@ -74,7 +60,6 @@ about-reader-font-type-monospace = Eş aralıklı
 
 about-reader-toolbar-close = Okuyucu görünümünü kapat
 about-reader-toolbar-type-controls = Yazı denetimleri
-about-reader-toolbar-color-controls = Renkler
 about-reader-toolbar-text-layout-controls = Metin ve yerleşim
 about-reader-toolbar-theme-controls = Tema
 about-reader-toolbar-savetopocket = { -pocket-brand-name }’a kaydet
@@ -99,10 +84,9 @@ about-reader-custom-colors-visited-links = Ziyaret edilmiş bağlantılar
     .title = Rengi düzenle
 about-reader-custom-colors-selection-highlight = Sesli okuma için vurgulayıcı
     .title = Rengi düzenle
-about-reader-custom-colors-reset-button = Varsayılanlara sıfırla
 about-reader-reset-button = Varsayılanlara sıfırla
 
-## Reader View improved text and layout menu
+## Reader View text and layout menu
 
 about-reader-text-header = Metin
 about-reader-text-size-label = Metin boyutu
@@ -119,9 +103,6 @@ about-reader-content-width-label =
 about-reader-line-spacing-label =
     .label = Satır aralığı
 about-reader-advanced-layout-header = Gelişmiş
-about-reader-slider-label-width-narrow = Dar
-about-reader-slider-label-width-wide = Geniş
-about-reader-slider-label-spacing-narrow = Dar
 about-reader-character-spacing-label =
     .label = Karakter aralığı
 about-reader-word-spacing-label =

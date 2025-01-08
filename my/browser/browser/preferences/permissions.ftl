@@ -75,6 +75,9 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = အောက်ပါဆိုက်များအတွက် ဝင်ရောက်မှုများကို သိမ်းထားမည် မဟုတ်ပါ။
 
+## Exceptions - Saved Passwords
+
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =

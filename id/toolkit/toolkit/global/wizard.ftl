@@ -11,7 +11,6 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Mundur
     .accesskey = M
-
 wizard-macos-button-next =
     .label = Lanjut
     .accesskey = L
@@ -21,14 +20,12 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = Lanjut >
     .accesskey = L
-
 wizard-macos-button-finish =
     .label = Selesai
 wizard-linux-button-finish =
     .label = Selesai
 wizard-win-button-finish =
     .label = Selesai
-
 wizard-macos-button-cancel =
     .label = Batal
 wizard-linux-button-cancel =

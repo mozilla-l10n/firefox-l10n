@@ -40,7 +40,7 @@ about-telemetry-fetch-stack-symbols = Mendapatkan nama fungsi stacks
 about-telemetry-hide-stack-symbols = Papar data susunan mentah
 # Selects the correct release version
 # Variables:
-#   $channel (String): represents the corresponding release data string
+#   $channel (string) - Represents the corresponding release data string
 about-telemetry-data-type =
     { $channel ->
         [release] data keluaran
@@ -48,43 +48,43 @@ about-telemetry-data-type =
     }
 # Selects the correct upload string
 # Variables:
-#   $uploadcase (String): represents a corresponding upload string
+#   $uploadcase (string) - Represents a corresponding upload string
 about-telemetry-upload-type =
     { $uploadcase ->
         [enabled] didayakan
        *[disabled] dinyahdayakan
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Halaman ini memaparkan informasi berkenaan dengan prestasi, perkakasan, penggunaan dan penyesuaian yang diambil oleh Telemetry. Informasi ini dihantar ke { $telemetryServerOwner } untuk membantu meningkatkan { -brand-full-name }.
 about-telemetry-settings-explanation = Telemetri mengumpulkan { about-telemetry-data-type } dan muat naik adalah <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
-#   $name (String): ping name, e.g. “saved-session”
-#   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
+#   $name (string) - Ping name, e.g. “saved-session”
+#   $timestamp (string) - Ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Setiap maklumat dihantar bersama ke “<a data-l10n-name="ping-link">ping</a>”. Anda sedang melihat ping { $name }, { $timestamp }.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $selectedTitle (String): the section name from the structure of the ping.
+#   $selectedTitle (string) - The section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = Cari dalam { $selectedTitle }
 about-telemetry-filter-all-placeholder =
     .placeholder = Cari dalam semua bahagian
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-results-for-search = Hasil untuk “{ $searchTerms }”
 # More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $sectionName (String): the section name from the structure of the ping.
-#   $currentSearchText (String): the current text in the search input
+#   $sectionName (string) - The section name from the structure of the ping.
+#   $currentSearchText (string) - The current text in the search input
 about-telemetry-no-search-results = Maaf! Tiada hasil dalam { $sectionName } untuk “{ $currentSearchText }”
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-no-search-results-all = Maaf! Tiada hasil dalam mana-mana bahagian untuk “{ $searchTerms }”
 # This message is displayed when a section is empty.
 # Variables:
-#   $sectionName (String): is replaced by the section name.
+#   $sectionName (string) - Is replaced by the section name.
 about-telemetry-no-data-to-display = Maaf! Buat masa ini tiada data yang boleh didapati dalam “{ $sectionName }”
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = semua
@@ -100,13 +100,13 @@ about-telemetry-slow-sql-statement = Penyata
 about-telemetry-addon-table-id = ID Add-on
 about-telemetry-addon-table-details = Butiran
 # Variables:
-#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+#   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = Penyedia { $addonProvider }
 about-telemetry-keys-header = Sifat
 about-telemetry-names-header = Nama
 about-telemetry-values-header = Nilai
 # Variables:
-#   $lateWriteCount (Integer): the number of the late writes
+#   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = Lewat Menulis #{ $lateWriteCount }
 about-telemetry-stack-title = Tindanan:
 about-telemetry-memory-map-title = Peta memori:

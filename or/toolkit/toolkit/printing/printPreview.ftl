@@ -34,7 +34,6 @@ printpreview-page-setup =
 printpreview-page =
     .value = ପୃଷ୍ଠା:
     .accesskey = a
-
 # Variables
 # $sheetNum (integer) - The current sheet number
 # $sheetCount (integer) - The total number of sheets to print

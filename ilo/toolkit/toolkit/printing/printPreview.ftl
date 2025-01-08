@@ -21,4 +21,3 @@ printpreview-page-setup =
 printpreview-nextarrow =
     .label = { $arrow }
     .tooltiptext = Agtarus a panid
-

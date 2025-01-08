@@ -258,6 +258,9 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = Sinedoù hezoug
 
+## Profiles Menu
+
+
 ## Tools Menu
 
 menu-tools =

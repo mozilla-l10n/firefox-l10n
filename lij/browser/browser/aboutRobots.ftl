@@ -25,5 +25,6 @@ error-long-desc4 = Ninte? T'ê pròpio 'n pigogiozo!
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = Òua vaddo zu e se no me dan o gianco i scistemo mi co-o lazer!
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = Preuva Torna
     .label2 = Goai a ti se ti sciacchi ancon sto pomello!!!

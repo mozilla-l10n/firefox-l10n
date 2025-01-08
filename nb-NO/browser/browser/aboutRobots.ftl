@@ -25,5 +25,6 @@ error-long-desc4 = Roboter har skinnende bakdeler som helst ikke skal bites.
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = Og de har en plan.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = Prøv igjen
     .label2 = Vennligst ikke trykk på denne knappen igjen.

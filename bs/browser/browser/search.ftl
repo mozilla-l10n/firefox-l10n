@@ -10,10 +10,8 @@
 
 opensearch-error-duplicate-title = Greška pri instalaciji
 opensearch-error-duplicate-desc = { -brand-short-name } nije mogao instalirati plugin za pretraživanje od "{ $location-url }" iz razloga što jedan sa istim imenom već postoji.
-
 opensearch-error-format-title = Neispravan format
 opensearch-error-format-desc = { -brand-short-name } nije mogao instalirati pretraživač sa: { $location-url }
-
 opensearch-error-download-title = Greška pri preuzimanju
 opensearch-error-download-desc = { -brand-short-name } nije uspio preuzeti plugin za pretragu sa: { $location-url }
 
@@ -21,11 +19,9 @@ opensearch-error-download-desc = { -brand-short-name } nije uspio preuzeti plugi
 
 searchbar-submit =
     .tooltiptext = Pošalji pretragu
-
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = Pretraga
-
 searchbar-icon =
     .tooltiptext = Traži
 
@@ -33,4 +29,9 @@ searchbar-icon =
 ## Variables
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
+
+
+## Infobar shown when user is prompted to install search engine.
+## Variables
+## $engineName (String) - the name of the search engine to install.
 

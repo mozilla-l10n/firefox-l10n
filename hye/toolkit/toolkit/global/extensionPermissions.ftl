@@ -29,3 +29,7 @@ webext-perms-description-tabs = Մուտք գործեք զննարկչի ներ�
 webext-perms-description-tabHide = Թաքցնել եւ ցուցադրել զննարկչի ներդիրները
 webext-perms-description-topSites = Մուտք գործեք զննարկման պատմութիւն
 webext-perms-description-webNavigation = Ուղղորդման ընթացքում մատչել դիտարկիչի գործունութեանը
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

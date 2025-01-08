@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-reader-loading = ल'ड खालाम गासिनो दं...
-
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -15,7 +14,7 @@ about-reader-estimated-read-time =
        *[other] { $range } मिनिट
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 
 ## These are the styles of typeface that are options in the reader view controls.
@@ -24,4 +23,15 @@ about-reader-font-type-serif = सेरिफ
 about-reader-font-type-sans-serif = सान्स-सेरिफ
 
 ## Reader View toolbar buttons
+
+
+## Reader View colors menu
+
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+
+## Reader View text and layout menu
 

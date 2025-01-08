@@ -47,10 +47,10 @@ address-capture-edit-address-button =
 autofill-add-address-title = הוספת כתובת
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = עריכת כתובת
-autofill-address-name = שם
 autofill-address-given-name = שם פרטי
 autofill-address-additional-name = שם אמצעי
 autofill-address-family-name = שם משפחה
+autofill-address-name = שם
 autofill-address-organization = ארגון
 autofill-address-street-address = כתובת רחוב
 autofill-address-street = כתובת רחוב
@@ -103,9 +103,6 @@ autofill-address-postal-code = מיקוד
 autofill-address-zip = מיקוד
 # Used in IE
 autofill-address-eircode = מיקוד אירי
-
-##
-
 
 ##
 

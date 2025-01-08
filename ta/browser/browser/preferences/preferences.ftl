@@ -112,7 +112,7 @@ containers-disable-alert-ok-button =
 containers-disable-alert-cancel-button = செயலில் வைத்திரு
 containers-remove-alert-title = இந்தக் கலனை நீக்கவா?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] நீங்கள் இப்போது இந்தக் கொள்கலனை நீக்கினால், { $count } கொள்கலன் கீற்று மூடப்படும். இந்தக் கொள்கலனை நீக்க வேண்டுமா?
@@ -204,11 +204,11 @@ applications-manage-app =
 applications-always-ask =
     .label = எப்போதும் கேள
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name }ஐ பயன்படுத்து ({ -brand-short-name }இல்)
 
@@ -238,6 +238,8 @@ play-drm-content =
 play-drm-content-learn-more = மேலும் அறிய
 update-application-title = { -brand-short-name } மேம்படுத்தல்கள்
 update-application-description = சிறந்த செயல்திறன், நிலைப்புத்தன்மை மற்றும் பாதுகாப்பிற்காக { -brand-short-name } என்பதை இற்றைப்படுத்தி வைக்கவும்.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = பதிப்பு { $version } <a data-l10n-name="learn-more">புதியவைகள்</a>
 update-history =
     .label = புதுப்பித்தல் வரலாறு…
@@ -277,7 +279,7 @@ performance-limit-content-process-option = உள்ளடக்க செயல
 performance-limit-content-process-enabled-desc = பல கீற்றுகளைப் பயன்படுத்தும் போது கூடுதல் உள்ளடக்க செயலாக்கங்கள் செயல்திறனை மேம்படுத்தும், ஆனால் அது அதிக நினைவகத்தைப் பயன்படுத்தும்.
 performance-limit-content-process-blocked-desc = உள்ளடக்க செயல்முறைகளின் எண்ணிக்கையை மாற்றியமைத்தல் பல செயல்முறை கொண்ட { -brand-short-name } உலாவியுடன் மட்டுமே சாத்தியமாகும் . <a data-l10n-name="learn-more">பன்செயல்முறை உள்ளதா என்பதைச் சோதிக்க கற்றுக்கொள்ளுங்கள்</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (முன்னிருப்பு)
 
@@ -348,8 +350,7 @@ choose-bookmark =
 home-prefs-search-header =
     .label = வலை தேடல்
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = { $provider } என்பவரால் பரிந்துரைக்கப்பட்டது
@@ -371,6 +372,8 @@ home-prefs-highlights-option-most-recent-download =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = துணுக்குகள்
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -416,7 +419,7 @@ search-find-more-link = மேலும் பல தேடு பொறிக�
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = இரட்டை முக்கிய சொல்
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = நீங்கள் தேர்ந்தெடுத்த ஒரு முக்கியச்சொல் தற்போது "{ $name }"ஆல் பயன்படுத்தப்படுகிறது. வேறொன்றை தேர்ந்தெடுக்கவும்.
 search-keyword-warning-bookmark = நீங்கள் தேர்ந்தெடுத்த ஒரு முக்கியச்சொல் தற்போது ஒரு புத்தகக்குறியால் பயன்படுத்தப்படுகிறது. வேறொன்றை தேர்ந்தெடுக்கவும்.
 
@@ -604,8 +607,8 @@ history-clear-button =
 sitedata-header = நினைவிகள் மற்றும் தள தரவு
 sitedata-total-size-calculating = தள தரவு மற்றும் இடையக அளவைக் கணக்கிடுகிறது...
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = நீங்கள் சேமித்த நினைவிகள், தள தரவு மற்றும் இடையகத்தின் தற்போதைய பயனளவு வன்தட்டில் { $value }{ $unit } அளவு பயன்படுத்தியுள்ளது.
 sitedata-learn-more = மேலும் அறிய
 # This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.

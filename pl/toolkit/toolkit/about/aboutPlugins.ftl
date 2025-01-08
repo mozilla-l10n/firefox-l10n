@@ -6,8 +6,6 @@ title-label = O wtyczkach
 installed-plugins-label = Zainstalowane wtyczki
 no-plugins-are-installed-label = Nie znaleziono zainstalowanych wtyczek
 deprecation-description = Czegoś tutaj brakuje? Niektóre wtyczki nie są już obsługiwane. <a data-l10n-name="deprecation-link">Więcej informacji</a>.
-deprecation-description2 =
-    .message = Czegoś tutaj brakuje? Niektóre wtyczki nie są już obsługiwane.
 
 ## The information of plugins
 ##

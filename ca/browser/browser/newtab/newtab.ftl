@@ -409,3 +409,11 @@ newtab-topic-label-education-science = Ciència
 newtab-topic-selection-save-button = Desa
 newtab-topic-selection-cancel-button = Cancel·la
 newtab-topic-selection-button-maybe-later = Potser més tard
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Confirmation modal for blocking a section
+

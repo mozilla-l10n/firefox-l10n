@@ -59,8 +59,6 @@ sidebar-description = Rive cun facilitât ae cronologjie, aes schedis di altris 
 vertical-tabs-title =
     .label = Schedis verticâls
 vertical-tabs-description = Sposte lis tôs schedis de part superiôr dal navigadôr a chê laterâl. Par doprâ cheste funzion al covente ativâ ancje la sbare laterâl. <a data-l10n-name="connect">Condivît la tô opinion</a>
-experimental-features-group-browsing =
-    .label = Navigazion
 experimental-features-group-developer-tools =
     .label = Struments di disvilup
 experimental-features-group-webpage-display =

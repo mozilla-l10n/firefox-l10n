@@ -5,7 +5,6 @@
 appmenu-addon-post-install-incognito-checkbox =
     .label = Yamir ndee timmitere dogde e kenorɗe cuuriiɗe
     .accesskey = Y
-    
 appmenu-tab-hide-controlled =
     .label = Yetto e tabbe maa cuuɗiiɗe
     .buttonlabel = Woppu tabbe ɗee cuuɗoo

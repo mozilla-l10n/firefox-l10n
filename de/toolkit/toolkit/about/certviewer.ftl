@@ -81,7 +81,6 @@ certificate-viewer-authority-info-aia = Zertifizierungsstelleninformationen - Au
 certificate-viewer-certificate-policies = Zertifikatsregeln
 certificate-viewer-embedded-scts = Enthaltene signierte Zertifikatzeitstempel (SCT)
 certificate-viewer-crl-endpoints = Endpunkte für CRL (Zertifikatsperrliste)
-
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Speichern
@@ -101,7 +100,6 @@ certificate-viewer-download-pem = PEM (Zertifikat)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (Zertifikatskette)
     .download = { $fileName }-zertifikatskette.pem
-
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = Diese Erweiterung ist als kritisch gekennzeichnet, weshalb Geräte das Zertifikat zurückweisen müssen, wenn sie die Erweiterung nicht unterstützen.

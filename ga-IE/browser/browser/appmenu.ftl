@@ -23,7 +23,6 @@ appmenuitem-zoom =
     .value = Súmáil
 appmenuitem-help =
     .label = Cabhair
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -42,24 +41,18 @@ appmenuitem-fullscreen =
 
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Níl aon chluaisín ar oscailt
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Las sioncronú cluaisíní chun liosta cluaisíní ó do ghléasanna eile a fheiceáil.
-
 appmenu-remote-tabs-opensettings =
     .label = Socruithe
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Ar mhaith leat cluaisíní ó ghléasanna eile a fheiceáil anseo?
-
 appmenu-remote-tabs-connectdevice =
     .label = Ceangail Gléas Eile
 appmenu-remote-tabs-welcome = Amharc ar liosta cluaisíní ó do ghléasanna eile.
 appmenu-remote-tabs-unverified = Ní mór duit do chuntas a dheimhniú.
-
 appmenuitem-fxa-sign-in = Logáil isteach i { -brand-product-name }
-
 appmenuitem-save-page =
     .label = Sábháil an Leathanach Mar…
 
@@ -79,13 +72,14 @@ profiler-popup-settings =
 
 
 # Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/popup/background.jsm.js
+# devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
 
 # Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
+# devtools/client/performance-new/shared/background.sys.mjs
 # Please take care that the same values are also defined in devtools' perftools.ftl.
+
 
 ## History panel
 
@@ -122,4 +116,10 @@ appmenu-help-not-deceptive =
     .accesskey = c
 
 ## More Tools
+
+
+## Panel for privacy and security products
+
+
+## Profiles panel
 

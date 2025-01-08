@@ -103,7 +103,6 @@ print-window =
     .title = ᱪᱷᱟᱯᱟᱜ ᱠᱟᱱᱟ
 print-complete =
     .value = ᱪᱷᱟᱯᱟ ᱫᱚ ᱯᱩᱨᱟᱹᱣᱮᱱᱟ
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

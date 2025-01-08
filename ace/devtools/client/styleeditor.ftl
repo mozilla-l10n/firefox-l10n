@@ -7,4 +7,3 @@ styleeditor-copy-url =
 styleeditor-find =
     .label = Mita
     .accesskey = M
-

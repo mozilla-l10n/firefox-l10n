@@ -4,7 +4,6 @@
 
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = Unviar a tolos preseos
-
 # Menu item that links to the Firefox Accounts settings for connected devices.
 account-manage-devices = Xestionar los preseos…
 
@@ -42,4 +41,10 @@ account-single-tab-arriving-truncated-url = { $url }…
 ## multiple tabs another device or devices sent us to display.
 ## Variables:
 ##   $tabCount (Number): the number of tabs received
+
+
+## These strings are used in notifications in which the user remotely closed
+## tabs from other devices
+## Variables:
+##   $closedCount (Number): the number of tabs closed
 

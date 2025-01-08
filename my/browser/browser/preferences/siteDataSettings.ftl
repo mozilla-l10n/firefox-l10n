@@ -7,11 +7,9 @@
 
 site-data-settings-window =
     .title = ကွတ်ကီးနှင့်ဆိုက်အချက်အလက်များကို စီမံပါ
-
 site-data-search-textbox =
     .placeholder = ဝဘ်ဆိုက်များကို ရှာဖွေရန်
     .accesskey = S
-
 site-data-column-host =
     .label = ဆိုက်
 site-data-column-cookies =
@@ -20,11 +18,9 @@ site-data-column-storage =
     .label = သိမ်းဆည်းပါ
 site-data-column-last-used =
     .label = နောက်ဆုံးသုံးစွဲထားသော
-
 site-data-remove-selected =
     .label = ရွေးထားသည့်အရာများကို ဖယ်ရှားပါ
     .accesskey = r
-
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
@@ -32,11 +28,9 @@ site-storage-usage =
     .value = { $value }{ $unit }
 site-storage-persistent =
     .value = { site-storage-usage.value }
-
 site-data-remove-all =
     .label = အားလုံးကို ဖယ်ရှားရန်
     .accesskey = e
-
 site-data-remove-shown =
     .label = ပြသထားသည့် အရာအားလုံးကို ဖယ်ရှားပါ
     .accesskey = e
@@ -46,9 +40,6 @@ site-data-remove-shown =
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = ဖယ်ရှားပါ
-
 site-data-removing-header = ကွတ်ကီးနှင့် ဆိုက်အချက်အလက်များကို ဖယ်ရှားခြင်း
-
 site-data-removing-desc = ကွတ်ကီးနှင့်ဆိုက်ချက်လက်များဖယ်ရှားခြင်းသည် သင့်ကို ဆိုက်မှ ထွက်ခွာစေမည်။ သင်ပြောင်းလဲမှုလုပ်မှာ သေချာပါသလား။
-
 site-data-removing-table = အောက်ပါဆိုက်များအတွက် ကွတ်ကီးနှင့် ဆိုက်ချက်လက်များကို ဖယ်ရှားပါ

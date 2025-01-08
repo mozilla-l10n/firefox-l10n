@@ -459,3 +459,6 @@ newtab-topic-selection-button-pick-interests = Eiporavo eipotáva
 newtab-section-follow-button = Tapykueho
 newtab-section-following-button = Ahapykueho
 newtab-section-unfollow-button = Ndahapykuehovéima
+
+## Confirmation modal for blocking a section
+

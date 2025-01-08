@@ -79,9 +79,6 @@ autofill-address-eircode = Eircode
 
 ##
 
-
-##
-
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Titz'aqatisäx K'ak'a' Ochochib'äl
 autofill-address-country = Amaq' o Jachonem

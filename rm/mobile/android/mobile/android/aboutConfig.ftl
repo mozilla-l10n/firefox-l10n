@@ -6,11 +6,9 @@ config-toolbar-search =
     .placeholder = Tschertgar
 config-new-pref-name =
     .placeholder = Num
-
 config-new-pref-value-boolean = Boolean
 config-new-pref-value-string = String
 config-new-pref-value-integer = Integer
-
 config-new-pref-string =
     .placeholder = Endatescha in string
 config-new-pref-number =
@@ -18,12 +16,9 @@ config-new-pref-number =
 config-new-pref-cancel-button = Interrumper
 config-new-pref-create-button = Crear
 config-new-pref-change-button = Modifitgar
-
 config-pref-toggle-button = Svitschar
 config-pref-reset-button = Redefinir
-
 config-context-menu-copy-pref-name =
     .label = Copiar il num
 config-context-menu-copy-pref-value =
     .label = Copiar la valur
-

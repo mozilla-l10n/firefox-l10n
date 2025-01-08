@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# Strings in this file are used to localize button titles displayed on the 
+# Strings in this file are used to localize button titles displayed on the
 # MacBook Touch Bar.
 back = Назад
 forward = Вперед
@@ -19,7 +19,6 @@ open-location = Введіть запит чи адресу
 share = Поділитися
 close-window = Закрити вікно
 open-sidebar = Бічні панелі
-
 # This string describes shortcuts for search.
 search-popover = Пошукові скорочення
 # Describes searches limited to a specific scope

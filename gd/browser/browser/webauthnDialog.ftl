@@ -13,4 +13,3 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = Tha am PIN ceàrr. Feuch ris a-rithist.
 webauthn-pin-required-prompt = Cuir a-steach am PIN airson an uidheim agad.
-

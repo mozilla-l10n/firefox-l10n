@@ -22,12 +22,10 @@ about-private-browsing-not-private = Niy je żeś teroz we prywatnym ôknie.
 about-private-browsing-info-description-private-window = Prywatne ôkno: { -brand-short-name } pucuje twoja historyjo szukanio i przeglōndanio, jak zawrzesz wszyskie prywatne ôkna. To niy dowo ci anonimowości.
 about-private-browsing-info-description-simplified = Prywatne ôkno: { -brand-short-name } pucuje twoja historyjo szukanio i przeglōndanio, jak zawrzesz wszyskie prywatne ôkna, ale niy dowo ci to anonimowości.
 about-private-browsing-learn-more-link = Przewiydz sie wiyncyj
-
 about-private-browsing-hide-activity = Skryj swoja aktywność i plac wszyńdzie, kaj przeglōndosz
 about-private-browsing-get-privacy = Chrōń swoja prywatność wszyńdzie, kaj przeglōndosz
 about-private-browsing-hide-activity-1 = Skryj swoje przeglōndanie i plac z usugōm { -mozilla-vpn-brand-name }. Jednym klikniyńciym rychtujesz bezpieczne połōnczynie, tyż w publicznych necach Wi-Fi.
 about-private-browsing-prominent-cta = Chrōń przywatność z usugōm { -mozilla-vpn-brand-name }
-
 about-private-browsing-focus-promo-cta = Pobier { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: prywatnie przeglōndanie w drōdze
 about-private-browsing-focus-promo-text = Nasza szpecjalno mobilniokowo aplikacyjo do prywatnego przeglōndanio kożdy roz pucuje twoja historyjo i cookies.
@@ -38,7 +36,6 @@ about-private-browsing-focus-promo-header-b = Używej prywatnego przeglōndanio 
 about-private-browsing-focus-promo-text-b = Używej { -focus-brand-name(case: "acc") } to tych prywatnych zeszukiwań, co ich niy mo uwidzieć głōwno przeglōndarka na mobilnioku.
 about-private-browsing-focus-promo-header-c = Wyższy poziōm prywatności na mobilnioku
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } kożdy roz pucuje twoja historyjo, a ku tymu szperuje reklamy i śledzōnce elymynty.
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -51,11 +48,14 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Zawrzij
-
 about-private-browsing-promo-close-button =
     .title = Zawrzij
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
+
 ## Strings used in a promotion message for cookie banner reduction
+
+
+## Strings for Felt Privacy v1 experiments in 119
 

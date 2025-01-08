@@ -5,7 +5,11 @@
 url-classifier-title = URL বৰ্গীকাৰক তথ্য
 url-classifier-search-title = সন্ধান কৰক
 url-classifier-search-result-title = ফলাফল
+# Variables:
+#   $uri (string) - URI of blocked page
 url-classifier-search-result-uri = URI: { $uri }
+# Variables:
+#   $list (string) - List of tables where the page is blocked
 url-classifier-search-result-list = তালিকাৰ সূচি: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = অবৈধ URL
@@ -40,7 +44,6 @@ url-classifier-debug-sb-modules = নিৰাপদ ব্ৰাউজিং �
 url-classifier-debug-modules = বৰ্তমানৰ লগ মডিউল
 url-classifier-debug-sbjs-modules = নিৰাপদ ব্ৰাউজিং JS লগ
 url-classifier-debug-file = বৰ্তমানৰ লগ ফাইল
-
 url-classifier-trigger-update = আপডেট ট্ৰিগাৰ কৰক
 url-classifier-not-available = প্ৰ/ন
 url-classifier-disable-sbjs-log = নিৰাপদ ব্ৰাউজিং JS লগ অক্ষম কৰক

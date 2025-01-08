@@ -99,7 +99,7 @@ places-delete-page =
            *[other] Pagina’s verwijderen
         }
     .accesskey = w
-# Managed bookmarks are created by an administrator and cannot be changed by the user.
+# Managed bookmarks are created by enterprise policy and cannot be changed by the user.
 managed-bookmarks =
     .label = Beheerde bladwijzers
 # This label is used when a managed bookmarks folder doesn't have a name.

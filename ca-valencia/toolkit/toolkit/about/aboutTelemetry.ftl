@@ -33,19 +33,19 @@ about-telemetry-raw = JSON sense processar
 about-telemetry-full-sql-warning = NOTA: la depuració de SQL lenta està habilitada. Es poden mostrar les cadenes SQL completes a sota però no s'enviaran per a la telemesura.
 about-telemetry-fetch-stack-symbols = Obtén els noms de les funcions per a les piles
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Esta pàgina conté la informació del rendiment, ús i personalitzacions recopilada per a la telemesura. Esta informació s'envia a { $telemetryServerOwner } per ajudar a millorar { -brand-full-name }.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $selectedTitle (String): the section name from the structure of the ping.
+#   $selectedTitle (string) - The section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = Cerca a { $selectedTitle }
 about-telemetry-filter-all-placeholder =
     .placeholder = Cerca en totes les seccions
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-results-for-search = Resultats de «{ $searchTerms }»
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = dades actuals
@@ -63,13 +63,13 @@ about-telemetry-slow-sql-statement = Sentència
 about-telemetry-addon-table-id = ID del complement
 about-telemetry-addon-table-details = Detalls
 # Variables:
-#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+#   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = Proveïdor { $addonProvider }
 about-telemetry-keys-header = Propietat
 about-telemetry-names-header = Nom
 about-telemetry-values-header = Valor
 # Variables:
-#   $lateWriteCount (Integer): the number of the late writes
+#   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = Escriptura tardana #{ $lateWriteCount }
 about-telemetry-stack-title = Pila:
 about-telemetry-memory-map-title = Mapa de memòria:

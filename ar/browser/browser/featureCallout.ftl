@@ -59,3 +59,9 @@ split-dismiss-button-dont-show-option-label = لا تظهر هذه التوصي�
 split-dismiss-button-show-fewer-option-label = أظهر توصيات أقل
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = أدِر الإعدادات
+
+## Sidebar Strings
+
+
+## Sidebar Callout Survey Strings
+

@@ -25,5 +25,6 @@ error-long-desc4 = రోబోట్లకు మెరిసే లోహప�
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = ఇంకా వాటి దగ్గరో ఉపాయం ఉంది.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = మళ్ళీ ప్రయత్నించు
     .label2 = దయచేసి ఈ బటను మళ్ళీ నొక్కవద్దు.

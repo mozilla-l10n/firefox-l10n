@@ -33,3 +33,7 @@ webext-perms-description-topSites = Доступ до історії перег�
 webext-perms-description-trialML = Завантажуйте та запускайте моделі ШІ на своєму пристрої
 webext-perms-description-userScripts = Дозволити неперевіреним стороннім скриптам отримувати доступ до ваших даних
 webext-perms-description-webNavigation = Доступ до активності браузера під час навігації
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

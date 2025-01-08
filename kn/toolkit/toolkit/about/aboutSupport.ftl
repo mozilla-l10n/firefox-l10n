@@ -4,7 +4,6 @@
 
 page-title = ತೊಂದರೆ ನಿವಾರಣಾ ಮಾಹಿತಿ
 page-subtitle = ನೀವು ಒಂದು ಸಮಸ್ಯೆಗೆ ಪರಿಹಾರ ಹುಡುಕುವಾಗ ನಿಮಗೆ ನೆರವಾಗುವಂತಹ ಮಾಹಿತಿಗಳನ್ನು ಈ ಪುಟವು ಹೊಂದಿರುತ್ತದೆ. ನೀವು { -brand-short-name } ಕುರಿತಾದ ಸಾಮಾನ್ಯವಾದ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರವನ್ನು ಹುಡುಕುತ್ತಿದ್ದಲ್ಲಿ, <a data-l10n-name="support-link">ಬೆಂಬಲ ಜಾಲ ತಾಣ</a>ವನ್ನು ನೋಡಿ.
-
 crashes-title = ಕ್ರಿಯಾವೈಫಲ್ಯ ವರದಿಗಳು
 crashes-id = ವರದಿ ID
 crashes-send-date = ಸಲ್ಲಿಸಲಾಗಿದೆ
@@ -40,7 +39,6 @@ app-basics-profiles = ಪ್ರೊಫೈಲ್‌ಗಳು
 app-basics-multi-process-support = ಬಹುಪ್ರಕ್ರಿಯೆ ಕಿಟಕಿಗಳು
 app-basics-key-mozilla = Mozilla ಸ್ಥಳ ಸೇವೆ ಕೀ
 app-basics-safe-mode = ಸುರಕ್ಷಾ ಸ್ಥಿತಿ
-
 show-dir-label =
     { PLATFORM() ->
         [macos] ಶೋಧಕದಲ್ಲಿ ತೋರಿಸು
@@ -96,6 +94,12 @@ media-device-latency = ತಡ
 
 ## Codec support table
 
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+
 ##
 
 
@@ -118,7 +122,6 @@ report-crash-for-days =
         [one] ಕ್ರಿಯಾವೈಫಲ್ಯ ವರದಿಗಳು ಕಳೆದ { $days } ದಿನದ್ದು
        *[other] ಕ್ರಿಯಾವೈಫಲ್ಯ ವರದಿಗಳು ಕಳೆದ { $days } ದಿನಗಳದ್ದು
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -126,7 +129,6 @@ crashes-time-minutes =
         [one] { $minutes } ನಿಮಿಷ ಮುಂಚೆ
        *[other] { $minutes } ನಿಮಿಷಗಳ ಮುಂಚೆ
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -134,7 +136,6 @@ crashes-time-hours =
         [one] { $hours } ಘಂಟೆ ಮುಂಚೆ
        *[other] { $hours } ಘಂಟೆಗಳ ಮುಂಚೆ
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -142,7 +143,6 @@ crashes-time-days =
         [one] { $days } ದಿನ ಮುಂಚೆ
        *[other] { $days } ದಿನಗಳ ಮುಂಚೆ
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -150,7 +150,6 @@ pending-reports =
         [one] ಎಲ್ಲಾ ಕ್ರಾಶ್‌ ರಿಪೋರ್ಟುಗಳನ್ನು (ಒದಗಿಸಲಾದ ಸಮಯದ ವ್ಯಾಪ್ತಿಯಲ್ಲಿ ಬಾಕಿ ಇರುವ { $reports } ಕ್ರಾಶ್‌ ಸೇರಿದಂತೆ)
        *[other] ಎಲ್ಲಾ ಕ್ರಾಶ್‌ ರಿಪೋರ್ಟುಗಳನ್ನು (ಒದಗಿಸಲಾದ ಸಮಯದ ವ್ಯಾಪ್ತಿಯಲ್ಲಿ ಬಾಕಿ ಇರುವ { $reports } ಕ್ರಾಶ್‌ಗಳು ಸೇರಿದಂತೆ)
     }
-
 raw-data-copied = ಕಚ್ಛಾ ದತ್ತಾಂಶವನ್ನು ನಕಲುಫಲಕಕ್ಕೆ ಪ್ರತಿ ಮಾಡಲಾಗಿದೆ
 text-copied = ಪಠ್ಯವನ್ನು ನಕಲುಫಲಕಕ್ಕೆ ಪ್ರತಿ ಮಾಡಲಾಗಿದೆ
 
@@ -163,11 +162,9 @@ blocked-mismatched-version = ನಿಮ್ಮ ಗ್ರಾಫಿಕ್ಸ್ ಡ�
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = ನಿಮ್ಮ ಗ್ರಾಫಿಕ್ಸ್ ಚಾಲಕದ ಆವೃತ್ತಿಗಾಗಿ ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ. ನಿಮ್ಮ ಗ್ರಾಫಿಕ್ಸ್ ಚಾಲಕವನ್ನು ಆವೃತ್ತಿ { $driverVersion } ಅಥವ ಹೊಸ ಆವೃತ್ತಿಗೆ ನವೀಕರಿಸಿ ಪ್ರಯತ್ನಿಸಿ.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType ನಿಯತಾಂಕಗಳು
-
 compositing = ರಚನೆ
 hardware-h264 = ಹಾರ್ಡ್‌ವೇರ್ H264 ಡೀಕೋಡಿಂಗ್
 main-thread-no-omtc = ಮುಖ್ಯ ಎಳೆ, OMTC ಇಲ್ಲ
@@ -180,7 +177,6 @@ no = ಇಲ್ಲ
 
 found = ಸಿಕ್ಕಿದೆ
 missing = ಕಾಣೆಯಾಗಿರುವ
-
 gpu-description = ವಿವರಣೆ
 gpu-vendor-id = ವೆಂಡರ್ ID
 gpu-device-id = ಸಾಧನ ID
@@ -190,19 +186,14 @@ gpu-ram = RAM
 gpu-driver-version = ಚಾಲಕ ಆವೃತ್ತಿ
 gpu-driver-date = ಚಾಲಕ ದಿನಾಂಕ
 gpu-active = ಸಕ್ರಿಯ
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ; ವಿಫಲತೆ ಸಂಕೇತ { $failureCode }
-
 d3d11layers-crash-guard = D3D11 ಸಂರಚಕ
 glcontext-crash-guard = OpenGL
-
 reset-on-next-restart = ಮತ್ತೆ ಶುರುಮಾಡಿದಾಗ ಹಿಂದಿನ ಸ್ಥಿತಿಗೆ ಸ್ಥಾಪಿಸು
-
 min-lib-versions = ನಿರೀಕ್ಷಿಸಲಾದ ಕನಿಷ್ಟ ಆವೃತ್ತಿ
 loaded-lib-versions = ಬಳಸಬೇಕಿರುವ ಆವೃತ್ತಿ
-
 has-seccomp-bpf = Seccomp-BPF (ಗಣಕ ವ್ಯವಸ್ಥೆ ಕರೆ ಸೋಸುವಿಕೆ)
 has-seccomp-tsync = ಸೆಕ್ಕಾಂಪ್ ಥ್ರೆಡ್ ಸಿಂಕ್ರೊನೈಸೇಶನ್
 has-user-namespaces = ಬಳಕೆದಾರದ ನೇಮ್‌ಸ್ಪೇಸ್‌ಗಳು
@@ -211,12 +202,10 @@ can-sandbox-content = ವಿಷಯ ಪ್ರಕ್ರಿಯೆ ಪ್ರಯೋ�
 can-sandbox-media = ಮೀಡಿಯ ಪ್ಲಗಿನ್ ಪ್ರಯೋಗಾರ್ಥಗೊಳಿಸುವಿಕೆ
 sandbox-proc-type-content = ವಿಷಯ
 sandbox-proc-type-media-plugin = ಮೀಡಿಯ ಪ್ಲಗಿನ್
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-
 async-pan-zoom = ಅಸಮಕಾಲೀನ Pan/Zoom
 apz-none = ಯಾವುದೂ ಇಲ್ಲ
 wheel-enabled = ಗಾಲಿಯ ಊಡಿಕೆ ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ
@@ -231,7 +220,18 @@ touch-warning = ಅಸಿಂಕ್ ಸ್ಪರ್ಷ ಊಡಿಕೆಯನ್�
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+
 ## Printing section
 
+
+## Remote Settings sections
+
+
 ## Normandy sections
+
+
+## Pointing devices
+
+
+## Content Analysis (DLP)
 

@@ -106,6 +106,8 @@ applications-header = Aplicaciones
 
 play-drm-content-learn-more = Skua'a kuakaa
 update-application-title = { -brand-short-name } ña tsaá
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Versión { $version } <a data-l10n-name="learn-more">Nchi yee</a>
 
 ## General Section - Performance
@@ -142,14 +144,15 @@ choose-bookmark =
 ## Home Section - Firefox Home Content Customization
 
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 
 ##
 
 home-prefs-highlights-option-visited-pages =
     .label = Páginas ntsinu
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label = { $num } fila
 

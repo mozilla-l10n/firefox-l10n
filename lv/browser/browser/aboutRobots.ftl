@@ -25,5 +25,6 @@ error-long-desc4 = Robotiem ir spīdīgas metāla pēcpuses, kurās nav ieteicam
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = Un viņiem ir plāns...
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = Mēģināt vēlreiz
     .label2 = Lūdzu nemēģiniet nospiest šo pogu vēlreiz.

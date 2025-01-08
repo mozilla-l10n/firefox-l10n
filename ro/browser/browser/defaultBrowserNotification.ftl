@@ -18,3 +18,8 @@ default-browser-prompt-message-pin-mac = Păstrează { -brand-short-name } la î
 default-browser-prompt-button-primary-pin = Desemnează ca browser principal
 default-browser-prompt-checkbox-not-again-label = Nu afișa acest mesaj din nou
 default-browser-prompt-button-secondary = Nu acum
+
+## Strings for a Windows native guidance notification when the user is forced to
+## use Windows Settings to set the default browser. Instructions differ for
+## Windows 10 and 11.
+

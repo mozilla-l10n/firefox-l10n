@@ -59,8 +59,6 @@ sidebar-description = Легко получайте доступ к истори
 vertical-tabs-title =
     .label = Вертикальные вкладки
 vertical-tabs-description = Переместите ваши вкладки из верхней части браузера в боковую. Требует также попробовать боковую панель. <a data-l10n-name="connect">Поделитесь отзывом</a>
-experimental-features-group-browsing =
-    .label = Просмотр сайтов
 experimental-features-group-developer-tools =
     .label = Инструменты разработчика
 experimental-features-group-webpage-display =

@@ -6,8 +6,6 @@ title-label = Sukarey ga
 installed-plugins-label = Sukari sinjantey
 no-plugins-are-installed-label = Sukari sinjante kulyaŋ mana duwandi
 deprecation-description = Haya foo ga war kuma? Sukari fooyaŋ ši kanbandi koyne. <a data-l10n-name="deprecation-link">Bay ka tonton.</a>
-deprecation-description2 =
-    .message = Haya foo ga war kuma? Sukari fooyaŋ ši kanbandi koyne.
 
 ## The information of plugins
 ##

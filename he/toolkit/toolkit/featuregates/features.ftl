@@ -43,8 +43,6 @@ sidebar-description = גישה קלה להיסטוריה שלך, ללשוניו�
 vertical-tabs-title =
     .label = לשוניות אנוכיות
 vertical-tabs-description = העברת הלשוניות שלך מהחלק העליון של הדפדפן לצד. פעולה זו מחייבת אותך לנסות גם את סרגל הצד. <a data-l10n-name="connect">מתן משוב</a>
-experimental-features-group-browsing =
-    .label = גלישה
 experimental-features-group-developer-tools =
     .label = כלי פיתוח
 experimental-features-group-webpage-display =

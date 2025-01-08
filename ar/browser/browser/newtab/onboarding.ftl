@@ -177,7 +177,9 @@ mr2022-onboarding-set-default-subtitle = استخدم متصفحًا مدعوم�
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = أحدث نسخة منا تدور حولك، مما يجعلها أسهل من أي وقت مضى في جميع أنحاء الويب. إنه مليء بالمزايا التي نعتقد أنك ستحبها.
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = إعداد بسرعة البرق
 mr2022-onboarding-import-subtitle = اضبط { -brand-short-name } كما تريدها. أضِف العلامات وكلمات السر وغيرها الكثير من متصفحك القديم.
@@ -262,8 +264,23 @@ onboarding-device-migration-title = مرحبا بعودتك!
 onboarding-device-migration-subtitle = لِج إلى { -fxaccount-brand-name(capitalization: "sentence") } لتجلب علاماتك وكلمات السر والتأريخ معك على جهازك الجديد.
 onboarding-device-migration-primary-button-label = لِج
 
+## Add-ons Picker screen
+
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 
 ## New user time and familiarity survey strings
+
+
+## UI strings for the sidebar and vertical tabs
+
+
+## New user onboarding checklist
+
+
+## Tab Groups feature onboarding strings
+
+
+## Multi Profiles feature onboarding messages
 

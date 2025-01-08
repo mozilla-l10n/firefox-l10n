@@ -5,8 +5,7 @@
 
 ### These strings are used inside the Application panel which is available
 ### by setting the preference `devtools-application-enabled` to true.
-
-
+###
 ### The correct localization of this file might be to keep it in English, or another
 ### language commonly spoken among web developers. You want to make that choice consistent
 ### across the developer tools. A good criteria is the language in which you'd find the
@@ -14,6 +13,8 @@
 
 # Text displayed for the updated time of the service worker. The <time> element will
 # display the last update time of the service worker script.
+# Variables:
+#   $date (date) - Update date
 serviceworker-worker-updated = <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time> আপডেট কৰা হৈছিল
 
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
@@ -22,10 +23,7 @@ serviceworker-worker-updated = <time>{ DATETIME($date, month: "long", year: "num
 # Service Worker status. A running service worker is registered, currently executed, can
 # be debugged and stopped.
 serviceworker-worker-status-running = চলি আছে
-
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = বন্ধ কৰা হৈছে
-
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = অধিক জানক
-

@@ -10,4 +10,3 @@ protocolhandler-mailto-os-handler-no-button = Wakami mani
 
 ##
 
-protocolhandler-mailto-handler-no-button = Wakami mani

@@ -9,7 +9,7 @@
 ##   $status (Number) - HTTP status code, for example 403
 
 
-##
+## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-account = ඔබගේ { -relay-brand-name } වි-තැපැල් වැස්ම භාවිතයට ඔබගේ ගිණුමට පිවිසෙන්න.
 firefox-relay-get-unlimited-masks =
@@ -30,3 +30,15 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = දැන් නොවේ
     .accesskey = N
+
+## The "control" variation of the Relay offer popup
+
+
+## The "basic-info" variation of the Relay offer popup
+
+
+## The "with-domain" variation of the Relay offer popup
+
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+

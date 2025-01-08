@@ -20,14 +20,12 @@ appmenu-update-restart2 =
     .buttonaccesskey = U
     .secondarybuttonlabel = برخاست کریں
     .secondarybuttonaccesskey = m
-
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = ٹھیک ہے
     .buttonaccesskey = O
 appmenu-addon-post-install-incognito-checkbox =
     .label = اس ایکسٹینشن  کو نجی ونڈوز میں چلنے دیں
     .accesskey = ا
-    
 appmenu-tab-hide-controlled =
     .label = اپنے پوشیدہ ٹیبز تک رسائی حاصل کریں
     .buttonlabel = ٹیبس کو مخفی رکھیں

@@ -8,7 +8,6 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC daxili məlumatlar
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = about:webrtc-ni fərqli qeyd et
@@ -22,14 +21,12 @@ about-webrtc-aec-logging-msg-label = AEC Qeydiyyatı
 about-webrtc-aec-logging-off-state-label = AEC Qeydiyyatı başlat
 about-webrtc-aec-logging-on-state-label = AEC Qeydiyyatı dayandır
 about-webrtc-aec-logging-on-state-msg = AEC qeydiyyatı aktivdir (zəng edənlə bir neçə dəqiqə danışdıqdan sonra qeydiyyatı dayandırın)
-
 about-webrtc-aec-logging-toggled-on-state-msg = AEC qeydiyyatı aktivdir (zəng edənlə bir neçə dəqiqə danışdıqdan sonra qeydiyyatı dayandırın)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Qeydiyyat faylları buradadır: { $path }
 
 ##
-
 
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
@@ -78,12 +75,10 @@ about-webrtc-type-remote = Uzaq
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Namizəd
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Seçildi
-
 about-webrtc-save-page-label = Səhifəni Yadda Saxla
 about-webrtc-debug-mode-msg-label = Sazlama Modu
 about-webrtc-debug-mode-off-state-label = Sazlama Modunu Başlat
@@ -96,7 +91,6 @@ about-webrtc-log-show-msg = qeydləri göstər
     .title = bu bölməni genişlətmək üçün klikləyin
 about-webrtc-log-hide-msg = qeydləri gizlə
     .title = bu bölməni daraltmaq üşün klikləyin
-
 about-webrtc-log-section-show-msg = Qeydləri göstər
     .title = Bu bölməni genişlətmək üçün klikləyin
 about-webrtc-log-section-hide-msg = Qeydləri gizlə
@@ -154,28 +148,29 @@ about-webrtc-encoder-label = Kodlayıcı
 ##
 
 
-## These are paths used for saving the about:webrtc page or log files so
-## they can be attached to bug reports.
-## Variables:
-##  $path (String) - The path to which the file is saved.
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+
+##
+
+
+##
 
 about-webrtc-save-page-msg = səhifə { $path } bölməsinə saxlandı
 about-webrtc-debug-mode-off-state-msg = izləmə qeydiyyatı { $path } ünvanındadır.
 about-webrtc-debug-mode-on-state-msg = sazlama modu açıqdır, izləmə qeydiyyatı: { $path }
 about-webrtc-aec-logging-off-state-msg = qeydiyyat faylları buradadır: { $path }
-
+# This path is used for saving the about:webrtc page so it can be attached to
+# bug reports.
+# Variables:
+#  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Səhifə { $path } bölməsinə saxlandı
-about-webrtc-debug-mode-toggled-off-state-msg = Izləmə qeydiyyatı { $path } ünvanındadır.
-about-webrtc-debug-mode-toggled-on-state-msg = Sazlama modu açıqdır, izləmə qeydiyyatı: { $path }
-
-##
-
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
-
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.

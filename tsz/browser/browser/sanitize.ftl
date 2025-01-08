@@ -15,10 +15,8 @@ sanitize-prefs-style =
 
 clear-time-duration-value-today =
     .label = Iásï
-
 clear-time-duration-value-everything =
     .label = Iámendu
-
 clear-time-duration-suffix =
     .value = Iámendu
 
@@ -26,18 +24,13 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Patsakata
-
 item-cookies =
     .label = Cookies
     .accesskey = C
-
 item-cache =
     .label = Caché
     .accesskey = a
-
 window-close =
     .key = w
-
 sanitize-button-ok =
     .label = Ambakerani iásï
-

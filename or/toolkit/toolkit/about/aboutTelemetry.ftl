@@ -10,7 +10,7 @@ about-telemetry-addon-details-section = ଏଡଅନ ବିବରଣୀ
 about-telemetry-late-writes-section = ବିଳମ୍ବ ଲେଖାଗୁଡ଼ିକ
 about-telemetry-full-sql-warning = ଟିପ୍ପଣୀ: ମନ୍ଥର SQL ତ୍ରୁଟି ନିବାରଣକୁ ସକ୍ରିୟ କରାଯାଇଛି। ସମ୍ପୂର୍ଣ୍ଣ SQL ବାକ୍ୟଖଣ୍ଡଗୁଡ଼ିକୁ ହୁଏତଃ ନିମ୍ନରେ ଦର୍ଶାଯାଇଛି କିନ୍ତୁ ସେମାନଙ୍କୁ ଦୂରମାପିରେ ଦାଖଲ କରାଯିବ ନାହିଁ।
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = This page shows the information about performance, hardware, usage and customizations collected by Telemetry. This information is submitted to { $telemetryServerOwner } to help improve { -brand-full-name }.
 # button label to copy the histogram
 about-telemetry-histogram-copy = ନକଲ କରନ୍ତୁ
@@ -24,11 +24,11 @@ about-telemetry-slow-sql-statement = ଅଭିବ୍ୟକ୍ତି
 about-telemetry-addon-table-id = ଏଡ଼ଅନ ID
 about-telemetry-addon-table-details = ବିବରଣୀ
 # Variables:
-#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+#   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = { $addonProvider } ପ୍ରଦାତା
 about-telemetry-keys-header = ଗୁଣଧର୍ମ
 # Variables:
-#   $lateWriteCount (Integer): the number of the late writes
+#   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = ବିଳମ୍ବ ଲେଖା #{ $lateWriteCount }
 about-telemetry-stack-title = ଷ୍ଟାକ:
 about-telemetry-memory-map-title = ସ୍ମୃତି ସ୍ଥାନ ମେଳକ:

@@ -236,6 +236,8 @@ shortcuts-duplicate-warning-message2 =
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Jau naudoja priedas „{ $addon }“
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Rodyti dar { $numberToShow }
@@ -408,6 +410,8 @@ addon-permissions-optional = Papildomam funkcionalumui reikalingi leidimai:
 addon-permissions-learnmore = Sužinokite apie leidimus daugiau
 recommended-extensions-heading = Rekomenduojami priedai
 recommended-themes-heading = Rekomenduojami grafiniai apvalkalai
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
 addon-sitepermissions-required = Suteikia šias galimybes <span data-l10n-name="hostname">{ $hostname }</span>:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
@@ -435,7 +439,7 @@ addon-page-options-button =
 ##   $name (string) - Name of the add-on.
 
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = Priedas „{ $name }“ yra nesuderinamas su „{ -brand-short-name } { $version }“.
 # Variables:
 #   $version (string) - Application version.

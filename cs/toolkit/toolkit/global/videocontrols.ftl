@@ -10,7 +10,6 @@ videocontrols-volume-control =
     .aria-label = Hlasitost
 videocontrols-closed-caption-button =
     .aria-label = Skryté titulky
-
 videocontrols-play-button =
     .aria-label = Přehrát
 videocontrols-pause-button =
@@ -25,22 +24,20 @@ videocontrols-exitfullscreen-button =
     .aria-label = Ukončit režim celé obrazovky
 videocontrols-casting-button-label =
     .aria-label = Přehrát na obrazovce
+# .offlabel is processed by the video control custom element to be used
+# as a text-track label
 videocontrols-closed-caption-off =
     .offlabel = Vypnuto
-
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Obraz v obraze
-
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = Zobrazit video v samostatném okně
-
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer3 = Více obrazovek znamená více zábavy. Přehrajte si toto video i když děláte něco jiného.
-
 videocontrols-error-aborted = Nahrávání videa zastaveno.
 videocontrols-error-network = Přehrávání videa selhalo z důvodu chyby sítě.
 videocontrols-error-decode = Video nelze přehrát, protože soubor je poškozen.
@@ -48,7 +45,6 @@ videocontrols-error-src-not-supported = Formát nebo typ MIME videa není podpor
 videocontrols-error-no-source = Nebylo nalezeno žádné video s podporovaným formátem a typem MIME.
 videocontrols-error-generic = Přehrávání videa selhalo z důvodu neznámé chyby.
 videocontrols-status-picture-in-picture = Toto video se přehrává jako obraz v obraze.
-
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -62,7 +58,6 @@ videocontrols-status-picture-in-picture = Toto video se přehrává jako obraz v
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
-
 # This is a plain text version of the videocontrols-position-and-duration-labels
 # string, used by screenreaders.
 #

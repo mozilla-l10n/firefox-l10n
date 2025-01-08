@@ -18,6 +18,9 @@ options-select-additional-tools-label = ئامرازی گەشەپێدەر چال
 ## "Default Color Unit" options for the Inspector
 
 
+## Web Console section
+
+
 ## Style Editor section
 
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
@@ -35,4 +38,3 @@ options-screenshot-audio-label = دەنگی چرکاندن کامێرا پێبک
 
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = JavaScript * ناچالاک بکە
-

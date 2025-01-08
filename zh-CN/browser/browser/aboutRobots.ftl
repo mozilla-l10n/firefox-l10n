@@ -25,5 +25,6 @@ error-long-desc4 = 机器人有咬不得的闪亮的金属屁股。
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = 而且他们有个计划。
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = 重试
     .label2 = 请不要重复点击此按钮。

@@ -3,5 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 fxa-qrcode-error-title = L'empareyamientu nun tuvo ésitu.
-
 fxa-qrcode-error-body = Volvi tentalo.

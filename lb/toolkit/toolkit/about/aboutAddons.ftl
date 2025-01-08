@@ -2,24 +2,21 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## Variables
 ##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
-##
 
+##
 
 detail-version =
     .label = Versioun
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-rating =
     .value = Bewäertung
-
 addon-category-extension = Erweiderungen
 addon-category-extension-title =
     .title = Erweiderungen
@@ -68,28 +65,25 @@ addon-category-locale-title =
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 
 ##
 
+
 ## Page headings
 
-
-## Detail notifications
-## Variables:
-##   $name (String): name of the add-on.
 
 ## Detail notifications
 ## Variables:
 ##   $name (string) - Name of the add-on.
 
 details-notification-unsigned-and-disabled-link = Méi Informatiounen
-
 details-notification-unsigned-link = Méi Informatiounen
-
 details-notification-blocked-link = Méi Informatiounen
-
 details-notification-softblocked-link = Méi Informatiounen
+
+## Gecko Media Plugins (GMPs)
 

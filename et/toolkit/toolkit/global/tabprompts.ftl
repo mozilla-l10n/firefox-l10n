@@ -6,7 +6,6 @@ tabmodalprompt-username =
     .value = Kasutajanimi:
 tabmodalprompt-password =
     .value = Parool:
-
 tabmodalprompt-ok-button =
     .label = Sobib
 tabmodalprompt-cancel-button =

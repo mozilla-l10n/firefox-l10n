@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -9,13 +10,11 @@
 
 psmerr-ssl-disabled = Nevar droši pieslēgties, jo SSL protokols ir deaktivēts.
 psmerr-ssl2-disabled = Nevar droši pieslēgties, jo lapa izmanto vecāku, nedrošu SSL protokola versiju.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Ir saņemts nederīgs sertifikāts.  Lūdzu sazinieties ar servera administratoru vai savu epasta sarakstes biedru un nododiet viņam sekojošu informāciju:
     
     Jūsu sertifikāta numurs sakrīt ar kāda cita sertifikāta sērijas numuru, ko izdevusi šī sertifikātu autoritāte. Lūdzu iegūstiet jaunu sertifikātu ar unikālu sērijas numuru.
-
 ssl-error-export-only-server = Nevar sazināties droši.  Komunikācijas partneris neatbalsta augstas raudzes šifrēšanu.
 ssl-error-us-only-server = Nevar sazināties droši.  Komunikācijas partneris pieprasa augstas raudzes šifrēšanu, kas nav pieejama.
 ssl-error-no-cypher-overlap = Nevar sazināties droši ar komunikācijas partneri : nav kopīgu šifrēšanas algoritmu.
@@ -152,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = Nav konfigurēts TLS paraksta algor
 ssl-error-unsupported-signature-algorithm = Savienojuma partneris izmanto neatbalstītu paraksta un jaucējalgoritma kombināciju.
 ssl-error-missing-extended-master-secret = Savienojuma partneris mēģināja turpināt bez korekta extended_master_secret paplašinājuma.
 ssl-error-unexpected-extended-master-secret = Savienojuma partneris mēģināja turpināt ar neatbalstītu extended_master_secret paplašinājumu.
-
 sec-error-io = Drošības autorizācijas laikā notika I/O kļūda.
 sec-error-library-failure = drošības bibliotēkas kļūda.
 sec-error-bad-data = drošības bibliotēka: saņemti slikti dati.
@@ -319,7 +317,6 @@ sec-error-locked-password = Parole ir bloķēta.
 sec-error-unknown-pkcs11-error = Nezināma PKCS #11 kļūda.
 sec-error-bad-crl-dp-url = Nederīga vai neatbalstīta URL CRL izplatīšanas punkta nosaukumā.
 sec-error-cert-signature-algorithm-disabled = Sertifikāts tika parakstīts ar paraksta algoritmu, kura izmantošana ir deaktivēta, jo šis algoritms nav drošs.
-
 mozilla-pkix-error-key-pinning-failure = The server uses key pinning (HPKP) but no trusted certificate chain could be constructed that matches the pinset. Key pinning violations cannot be overridden.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Serveris izmanto sertifikātu ar pamata ierobežojumu paplašinājumu (basic constraints extension) kā tā sertifikātu autoritāti. Korekti izsniegtiem sertifikātiem nevajadzētu būt šādi.
 mozilla-pkix-error-inadequate-key-size = Serveris piedāvāja sertifikātu ar pārāk mazu atslēgas garumu, lai izveidotu drošu savienojumu.
@@ -334,11 +331,9 @@ mozilla-pkix-error-invalid-integer-encoding = Servera piedāvātajā sertifikāt
 mozilla-pkix-error-empty-issuer-name = Serveris piedāvāja sertifikātu, ar tukšu izdevēja nosaukumu.
 mozilla-pkix-error-additional-policy-constraint-failed = Papildus politikas ierobežojuma pārbaude neizdevās pārbaudot šo sertifikātu.
 mozilla-pkix-error-self-signed-cert = Šis sertifikāts nav uzticams, jo tas ir pašparakstīts.
-
 xp-java-remove-principal-error = Nevar aizvākt direktoru
 xp-java-delete-privilege-error = Nevar nodzēst privilēģiju
 xp-java-cert-not-exists-error = Direktoram nav sertifikāta
-
 xp-sec-fortezza-bad-card = Fortezza karte nav korekti inicializēta.  Lūdzu izņemiet to un atgrieziet izdevējam.
 xp-sec-fortezza-no-card = Nav atrasta neviena Fortezza karte
 xp-sec-fortezza-none-selected = Nav izvēlēta Fortezza karte

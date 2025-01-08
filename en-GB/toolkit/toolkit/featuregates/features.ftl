@@ -59,8 +59,6 @@ sidebar-description = Easily access your history, tabs from other devices, sideb
 vertical-tabs-title =
     .label = Vertical tabs
 vertical-tabs-description = Move your tabs from the top of the browser to the side. Requires you also try the sidebar. <a data-l10n-name="connect">Share feedback</a>
-experimental-features-group-browsing =
-    .label = Browsing
 experimental-features-group-developer-tools =
     .label = Developer Tools
 experimental-features-group-webpage-display =

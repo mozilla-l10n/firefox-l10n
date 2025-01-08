@@ -4,26 +4,24 @@
 
 history-title = Atjaunynuošonys viesture
 history-intro = Ir instaleiti itaidi atjaunynuojumi
-
 close-button-label =
     .buttonlabelcancel = Aiztaiseit
     .title = Atjaunynuošonys viesture
-
 no-updates-label = Vel nav instaleits nivīns atjaunynuojums
 name-header = Atjaunynuojuma nūsaukums
 date-header = Instaliešonys datums
 type-header = Tips
 state-header = Stuovūklis
-
 # Used to display update history
 #
 # Variables:
-#   $name (String): name of the update
-#   $buildID (String): build identifier from the local updates.xml
+#   $name (string) - Name of the update
+#   $buildID (string) - Build identifier from the local updates.xml
 update-full-build-name = { $name } ({ $buildID })
-
 update-details = Seikuoka informaceja
-
+# Variables:
+#   $date (string) - Date the last update was installed
 update-installed-on = Uzinstaleits: { $date }
-
+# Variables:
+#   $status (string) - Status of the last update
 update-status = Statuss: { $status }

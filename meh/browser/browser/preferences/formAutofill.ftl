@@ -6,17 +6,14 @@
 ## The address and credit card autofill management dialog in browser preferences
 
 autofill-manage-credit-cards-title = Tutu crédito nchuva´a
-
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Xita
 autofill-manage-add-button = Tee…
 autofill-manage-edit-button = Natee…
 
-##
+## The address capture doorhanger
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Tee jíía nuu
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Natee nuu
 
@@ -42,8 +39,9 @@ autofill-address-area = Área
 
 ##
 
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Tee jíía nuu
 autofill-address-email = Email
-
 autofill-cancel-button = Nkuvi-ka
 autofill-save-button = Chuva´a
 

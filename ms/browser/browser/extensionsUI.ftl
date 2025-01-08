@@ -14,3 +14,5 @@ webext-default-search-no =
     .label = Tidak
     .accesskey = T
 
+## A modal confirmation dialog to allow an extension on quarantined domains.
+

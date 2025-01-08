@@ -372,3 +372,6 @@ pdfjs-editor-alt-text-dialog-label = Pilih opsi
 
 ## Image alt-text settings
 
+
+## "Annotations removed" bar
+

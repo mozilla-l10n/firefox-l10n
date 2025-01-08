@@ -37,7 +37,6 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = j
     .secondarybuttonaccesskey = w
 appmenu-update-other-instance-message = Er is een nieuwe update voor { -brand-shorter-name } beschikbaar, maar deze kan niet worden geïnstalleerd omdat er een ander exemplaar van { -brand-shorter-name } wordt uitgevoerd. Sluit deze om de update door te voeren, of kies ervoor om toch bij te werken (het andere exemplaar werkt mogelijk niet goed totdat u dit opnieuw start).
-
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Oké
     .buttonaccesskey = O
@@ -45,7 +44,6 @@ appmenu-addon-post-install-message3 = Beheer uw add-ons en thema’s via het toe
 appmenu-addon-post-install-incognito-checkbox =
     .label = Deze extensie in privévensters laten uitvoeren
     .accesskey = D
-
 appmenu-new-tab-controlled-changes =
     .label = Uw nieuwe tabblad is gewijzigd.
     .buttonlabel = Wijzigingen behouden

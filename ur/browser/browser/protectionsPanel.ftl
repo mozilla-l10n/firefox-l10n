@@ -19,17 +19,17 @@ protections-popup-footer-protection-label-standard = معیاری
 ##
 
 protections-panel-etp-off-header = ٹریکنگ سے بہتر تحفظ اس سائٹ کے لیئے بند ہے
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = سائٹ کام نہیں کررہی ہے؟
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = سائٹ کام نہیں کررہا ہے؟
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = سائٹ کام نہیں کررہی ہے؟
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = سائٹ کام نہیں کررہا ہے؟
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -52,6 +52,9 @@ protections-panel-content-blocking-fingerprinters-label = فنگر پرنٹرز
 protections-panel-blocking-label = مسدود شدہ
 protections-panel-not-blocking-label = اجازت ہے
 protections-panel-not-found-label = کچھ بھی نہیں ملا
+
+## Smartblock strings
+
 
 ##
 

@@ -103,7 +103,6 @@ print-window =
     .title = छप रहल  अछि
 print-complete =
     .value = छपाइ समाप्त.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

@@ -5,62 +5,47 @@
 permissions-window2 =
     .title = अपवाद
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = संकेतस्थळाचा पत्ता
     .accesskey = d
-
 permissions-block =
     .label = अडवा
     .accesskey = B
-
 permissions-session =
     .label = सत्रकरिता सहमती द्या
     .accesskey = S
-
 permissions-allow =
     .label = परवानगी द्या
     .accesskey = A
-
 permissions-site-name =
     .label = संकेतस्थळ
-
 permissions-status =
     .label = परीस्थिती
-
 permissions-remove =
     .label = संकेतस्थळ काढून टाका
     .accesskey = R
-
 permissions-remove-all =
     .label = सर्व साईट्स काढून टाका
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = बदल जतन करा
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = सर्व वेबसाइटसाठी डीफॉल्टः
-
 permissions-searchbox =
     .placeholder = वेबसाईट शोधा
-
 permissions-capabilities-autoplay-allow =
     .label = ऑडिओ आणि व्हिडिओला अनुमती द्या
 permissions-capabilities-autoplay-block =
     .label = ऑडिओ अवरोधित करा
 permissions-capabilities-autoplay-blockall =
     .label = ऑडिओ आणि व्हिडिओ अवरोधित करा
-
 permissions-capabilities-allow =
     .label = परवानगी द्या
 permissions-capabilities-block =
     .label = अडवा
 permissions-capabilities-prompt =
     .label = नेहमी विचारा
-
 permissions-capabilities-listitem-allow =
     .value = परवानगी द्या
 permissions-capabilities-listitem-block =
@@ -74,6 +59,7 @@ permissions-invalid-uri-title = भरलेले यजमान नाम अ
 permissions-invalid-uri-label = कृपया वैध यजमान नाम भरा
 
 ## Exceptions - Tracking Protection
+
 
 ## Exceptions - Cookies
 
@@ -98,6 +84,9 @@ permissions-exceptions-saved-logins-window2 =
     .title = अपवाद - संचयीत लॉगइन्स
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = खालील संकेतस्थळांकरीता लॉगिन संचयीत केले जाणार नाहीत
+
+## Exceptions - Saved Passwords
+
 
 ## Exceptions - Add-ons
 

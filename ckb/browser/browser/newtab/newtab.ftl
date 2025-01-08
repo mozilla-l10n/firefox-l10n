@@ -25,12 +25,10 @@ newtab-topsites-edit-shortcut-header = قەدبڕ دەستکاریبکە
 newtab-topsites-title-label = سەردێڕ
 newtab-topsites-title-input =
     .placeholder = سەردێڕێک بنووسە
-
 newtab-topsites-url-label = بەستەر
 newtab-topsites-url-input =
     .placeholder = بینووسە یان بەستەر بلکێنە
 newtab-topsites-url-validation = بەستەری گونجاو پێویستە
-
 newtab-topsites-image-url-label = بەستەری وێنەی خوازراو
 newtab-topsites-use-image-link = بەستەری خوازراو بەکاربێنە...
 newtab-topsites-image-validation = نەتوانرا وێنە باربکرێت. بەستەرێکی تر تاقیبکەرەوە.
@@ -59,15 +57,13 @@ newtab-topsite-sponsored = پاڵپشتیکراو
 newtab-menu-section-tooltip =
     .title = پێڕست بکەرەوە
     .aria-label = پێڕست بکەرەوە
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = بیسڕەوە
     .aria-label = بیسڕەوە
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
-#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+#   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .title = پێڕست بکەرەوە
     .aria-label = کردنەوەی پێکهاتەی پێڕست بۆ { $title }
@@ -131,10 +127,9 @@ newtab-label-removed-bookmark = دڵخواز سڕایەوە
 newtab-label-recommended = باوە
 newtab-label-saved = پاشەکەوتکردن لە { -pocket-brand-name }
 newtab-label-download = داگیراو
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
-#  $sponsorOrSource (String): This is the name of a company or their domain
+#   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · سپۆنسەرکراو
 
 ## Section Menu: These strings are displayed in the section context menu and are
@@ -162,18 +157,16 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = ماڵپەڕە سەرەکییەکان
 # Variables:
-#  $provider (String): Name of the corresponding content provider.
+#   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = پێشنیازکراوە لە لایەن { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = دەست بکە بە گەڕان، ئێمەش چەن بابەتێک باشت پیشان دەدەین، ڤیدیۆ، چەند پەرەیەکی تر کە پێشتر سەردانت کردووە یان دڵخوازت کردووە.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
-#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = هەموویت ئەنجام دا. کاتێکی تر وەرەوە بۆ چیرۆکی زیاتر لە { $provider }وە. ناتوانیت چاوەڕی بکەیت؟ بابەتێکی بەناوبانگ هەڵبژێرە بۆ ئەوەی چیرۆکی نایاب بدۆزیتەوە لە هەموو وێب.
-
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -193,10 +186,11 @@ newtab-pocket-learn-more = زیاتر بزانە
 newtab-pocket-cta-button = بەدەستهێنانی { -pocket-brand-name }
 newtab-pocket-cta-text = چیرۆکە دڵخوازەکانت پاشەکەوت بکە لە { -pocket-brand-name }، مێشکت پڕ بکە لە خوێندنەوەی دڵڕفێن.
 
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -205,4 +199,33 @@ newtab-error-fallback-info = ئوپس! هەڵەیەک ڕوویدا لە کاتی
 newtab-error-fallback-refresh-link = پەڕە نوێبکەرەوە بۆ هەوڵدانێکی تر.
 
 ## Customization Menu
+
+
+## New Tab Wallpapers
+
+
+## Solid Colors
+
+
+## Abstract
+
+
+## Photographs
+
+
+## New Tab Weather
+
+
+## Topic Labels
+
+
+## Topic Selection Modal
+
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Confirmation modal for blocking a section
 

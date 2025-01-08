@@ -25,5 +25,6 @@ error-long-desc4 = Roboty, ir speideigys metala piecpuses, kuruos nav īteicams 
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = I jīm ir plans...
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = Try Again
     .label2 = Lyudzu namieiginojit nūspīst itū pūgu vēļreiz.

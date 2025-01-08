@@ -119,11 +119,11 @@ applications-manage-app =
 applications-always-ask =
     .label = সদায়ে সোধিব
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } ব্যৱহাৰ কৰক ({ -brand-short-name } ত)
 
@@ -204,8 +204,7 @@ choose-bookmark =
 ## Home Section - Firefox Home Content Customization
 
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 
 ##
@@ -232,7 +231,7 @@ search-remove-engine =
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = দ্বৈত কিৱাৰ্ড
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = আপুনি "{ $name }"এ বৰ্ত্তমানে ব্যৱহাৰ কৰা কিৱাৰ্ড নিৰ্বাচন কৰিছে। অনুগ্ৰহ কৰি অন্য এটা নিৰ্বাচন কৰক।
 search-keyword-warning-bookmark = এটা পত্ৰচিহ্নৰ দ্বাৰা ব্যৱহৃত কিৱাৰ্ড আপুনি নিৰ্বাচন কৰিছে। অনুগ্ৰহ কৰি অন্য এটা নিৰ্বাচন কৰক।
 

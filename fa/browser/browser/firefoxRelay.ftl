@@ -9,7 +9,7 @@
 ##   $status (Number) - HTTP status code, for example 403
 
 
-##
+## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = شما باید به { -fxaccount-brand-name } وارد شوید تا بتوانید از { -relay-brand-name } استفاده کنید.
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
@@ -24,6 +24,9 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = اکنون نه
     .accesskey = ا
+
+## The "control" variation of the Relay offer popup
+
 
 ## The "basic-info" variation of the Relay offer popup
 

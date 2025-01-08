@@ -3,5 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 fxa-qrcode-error-title = Nu ga'ue nagi'iaj guñanj.
-
 fxa-qrcode-error-body = A'ngô ñû.

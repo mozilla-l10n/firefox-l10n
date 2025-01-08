@@ -5,14 +5,11 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = Աւարտել հաշուի տեղակայիւմը
-
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected2 = Հաշիւն անջատուած է
-
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = Ուղարկել բոլոր սարքերին
-
 # Menu item that links to the Firefox Accounts settings for connected devices.
 account-manage-devices = Կառավարել սարքերը…
 
@@ -32,10 +29,8 @@ account-manage-devices-titlecase = Կառավարել սարքերը…
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = Կապակցուած սարքեր չկան
-
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = Իմացէք ուղարկել ներդիրների մասին…
-
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = Կապակցել այլ սարք…
 
@@ -50,13 +45,10 @@ account-send-tab-to-device-verify = Հաստատէք Ձեր հաշիւը…
 # Variables:
 #   $deviceName (String): the name of the new device
 account-connection-connected-with = Այս համակարգիչը այժմ միացուած է { $deviceName }֊ի հետ։
-
 # Used when the name of the new device is not known.
 account-connection-connected-with-noname = Այս համակարգիչը այժմ միացուած է նոր սարքի։
-
 # Used in a notification shown after a Firefox account is connected to the current device.
 account-connection-connected = Դուք յաջողութեամբ մուտք գործեցիք
-
 # Used in a notification shown after the Firefox account was disconnected remotely.
 account-connection-disconnected = Այս համակարգիչը անջատուած է։
 
@@ -68,7 +60,6 @@ account-single-tab-arriving-title = Ներդիր է ստացուել
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = Ներդիր { $deviceName }-ից
-
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -81,7 +72,6 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = Ներդիր է ստացուել
-
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =
@@ -100,3 +90,9 @@ account-multiple-tabs-arriving-from-unknown-device =
         [one] { $tabCount } ներդիրը ստացուել է
        *[other] { $tabCount } ներդիրները ստացուել են
     }
+
+## These strings are used in notifications in which the user remotely closed
+## tabs from other devices
+## Variables:
+##   $closedCount (Number): the number of tabs closed
+

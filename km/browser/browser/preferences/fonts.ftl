@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = ពុម្ពអក្សរ
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = ពុម្ពអក្សរសម្រាប់
     .accesskey = F
-
 fonts-langgroup-arabic =
     .label = អារ៉ាប់
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = សមាមាត្រ
     .accesskey = P
-
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
-
 fonts-proportional-size = ទំហំ
     .accesskey = z
-
 fonts-serif = Serif
     .accesskey = S
-
 fonts-sans-serif = Sans-serif
     .accesskey = S
-
 fonts-monospace = Monospace
     .accesskey = M
-
 fonts-monospace-size = ទំហំ
     .accesskey = e
-
 fonts-minsize = ទំហំ​ពុម្ព​អក្សរ​អប្បបរមា
     .accesskey = o
-
 fonts-minsize-none =
     .label = គ្មាន
-
 fonts-allow-own =
     .label = អនុញ្ញាត​ឲ្យ​ទំព័រ​ជ្រើសរើស​ពុម្ពអក្សរ​​ដោយ​ខ្លួន​ឯង ជំនួស​ឲ្យ​​​ពុម្ព​អក្សរ​ដែល​អ្នក​ជ្រើសរើស​ខាង​លើ
     .accesskey = A
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

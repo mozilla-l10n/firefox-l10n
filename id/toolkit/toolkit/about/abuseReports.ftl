@@ -18,8 +18,6 @@ abuse-report-addon-authored-by = oleh <a data-l10n-name="author-name">{ $author-
 abuse-report-learnmore =
     Tidak yakin masalah apa yang harus dipilih?
     <a data-l10n-name="learnmore-link">Pelajari lebih lanjut tentang melaporkan ekstensi dan tema</a>
-abuse-report-learnmore-intro = Tidak yakin masalah apa yang harus dipilih?
-abuse-report-learnmore-link = Pelajari lebih lanjut tentang melaporkan ekstensi dan tema
 abuse-report-submit-description = Jelaskan masalahnya (opsional)
 abuse-report-textarea =
     .placeholder = Akan lebih memudahkan bagi kami untuk menangani masalah jika memahami rinciannya. Harap jelaskan apa yang Anda alami. Terima kasih telah membantu kami menjaga Internet tetap sehat.
@@ -48,24 +46,6 @@ abuse-report-messagebar-removed-sitepermission = Terima kasih telah mengirimkan 
 abuse-report-messagebar-removed-theme = Terima kasih telah mengirimkan laporan. Anda telah menghapus tema <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Terjadi kesalahan saat mengirim laporan untuk <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Laporan untuk <span data-l10n-name="addon-name">{ $addon-name }</span> tidak terkirim karena laporan lain telah dikirimkan baru-baru ini.
-abuse-report-messagebar-aborted2 =
-    .message = Laporan untuk { $addon-name } dibatalkan.
-abuse-report-messagebar-submitting2 =
-    .message = Mengirim laporan untuk { $addon-name }.
-abuse-report-messagebar-submitted2 =
-    .message = Terima kasih telah mengirimkan laporan. Apakah Anda ingin menghapus { $addon-name }?
-abuse-report-messagebar-submitted-noremove2 =
-    .message = Terima kasih telah mengirimkan laporan.
-abuse-report-messagebar-removed-extension2 =
-    .message = Terima kasih telah mengirimkan laporan. Anda telah menghapus ekstensi { $addon-name }.
-abuse-report-messagebar-removed-sitepermission2 =
-    .message = Terima kasih telah mengirimkan laporan. Anda telah menghapus pengaya Izin Situs { $addon-name }.
-abuse-report-messagebar-removed-theme2 =
-    .message = Terima kasih telah mengirimkan laporan. Anda telah menghapus tema { $addon-name }.
-abuse-report-messagebar-error2 =
-    .message = Terjadi kesalahan saat mengirim laporan untuk { $addon-name }.
-abuse-report-messagebar-error-recent-submit2 =
-    .message = Laporan untuk { $addon-name } tidak terkirim karena laporan lain telah dikirimkan baru-baru ini.
 
 ## Message bars actions.
 

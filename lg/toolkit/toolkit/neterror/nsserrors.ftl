@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -9,13 +10,11 @@
 
 psmerr-ssl-disabled = Tekisoboka kuyunga bulungi kubanga amateeka ga SSL gaanafuyiziddwa.
 psmerr-ssl2-disabled = Tekisoboka kuyunga bulungi kubanga ekibanja kikozesa amateeka ga SSL amakadde era ag'ekika ekiteesigika.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Ofunye olukusa olukyamu.  Bambi tuukirira omukulu w'enfo egabirira oba akola ku ndagiriro awafunirwa n'okusindikira obubaka ku utimbagano era obawe amawulire gano:
     
     Olukusa lwo lirina emiwendo egifaanagana n'olukusa olulala olwagabwa ab'obuyinza.  Bambi funa olukusa oluggya nga lulina omuwendo omwawufu.
-
 ssl-error-no-cypher-overlap = Tosobola kuwulizigannya n'akakiiko bulungi: tewali miwendo gy'awamu gikakasa(s).
 ssl-error-no-certificate = Tekisobose kuzuula lukusa oba kisumuluzo kyetagisa okukakasa.
 ssl-error-bad-certificate = Tekisobose kuwuriziganya bulungi n'akakiiko: olukusa lw'akakiiko lwaganibwa.
@@ -131,7 +130,6 @@ ssl-error-next-protocol-data-invalid = SSL efunye bwino wekyongerwako ekya NPN.
 ssl-error-feature-not-supported-for-ssl2 = Engeri ya SSL tewagirwa mu nyunga za SSL 2.0.
 ssl-error-feature-not-supported-for-servers = Engeri ya SSL tewagirwa mu kompyuta engabizi.
 ssl-error-feature-not-supported-for-clients = Engeri ya SSL tewagirwa mu kompyuta enkozesa.
-
 sec-error-io = Ensobi ya I/O yabaddewo mukukakasa ebyokwerinda.
 sec-error-library-failure = eby'okwerinda tebisobodde.
 sec-error-bad-data = ebyo kwerinda bifunye amawulire agatali malungi.
@@ -277,11 +275,9 @@ sec-error-locked-password = Ekisumuluzo kigalidwa.
 sec-error-unknown-pkcs11-error = Ensobi eya PKCS #11 etamanyiddwa.
 sec-error-bad-crl-dp-url = URL etakirizibwa oba etawagirwa mu linya lye ekifo ekigaba CRL.
 sec-error-cert-signature-algorithm-disabled = Satifiketi yasiddwako omukono ogugyidwako kubanga eleta obunkenke mu byokwerinda.
-
 xp-java-remove-principal-error = Tesobodde kugyawo kikulu bwe kiti
 xp-java-delete-privilege-error = Tesobodde kugyawo ddembe
 xp-java-cert-not-exists-error = Ekikulu kino tekirina lukusa
-
 xp-sec-fortezza-no-card = Tewali kadi za foteza zizuuliddwa
 xp-sec-fortezza-none-selected = Tewali kadi ya Forteza erondeddwa
 xp-sec-fortezza-more-info = Bambi londa omuntu okufuna ebingi ebimukwatako

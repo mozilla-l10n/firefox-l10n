@@ -176,3 +176,13 @@ firefoxview-import-history-close-button =
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
+

@@ -9,7 +9,7 @@ about-telemetry-slow-sql-section = Chelewesha Kauli za SQL
 about-telemetry-late-writes-section = Viandiko Vilivyochelewa
 about-telemetry-full-sql-warning = DOKEZO: Ueuaji wa SQL ya ucheleweshaji umewezeshwa. Tungo za SQL nzima zinaweza onyeshwa hapa chini lakini hazitawasilishwa kwa Telemeta.
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Ukurasa huu huonyesha maelezo kuhusu utendanji, maunzi, utumizi na ugeuzaji zilizokusanywa na Telemeta. Maelezo haya yanawasilishwa kwa { $telemetryServerOwner } ili kusaidia kuboresha { -brand-full-name }.
 # button label to copy the histogram
 about-telemetry-histogram-copy = Nakili
@@ -22,7 +22,7 @@ about-telemetry-slow-sql-statement = Kauli
 about-telemetry-addon-table-details = Maelezo
 about-telemetry-keys-header = Rasilimali
 # Variables:
-#   $lateWriteCount (Integer): the number of the late writes
+#   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = Uandikaji wa Kuchelewa #{ $lateWriteCount }
 about-telemetry-stack-title = Panganya:
 about-telemetry-memory-map-title = Ramani ya kumbukumbu:

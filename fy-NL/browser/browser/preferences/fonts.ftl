@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Lettertypen
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Lettertypen foar
     .accesskey = L
-
 fonts-langgroup-arabic =
     .label = Arabysk
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporsjoneel
     .accesskey = P
-
 fonts-default-serif =
     .label = Skreef
 fonts-default-sans-serif =
     .label = Skreefleas
-
 fonts-proportional-size = Grutte
     .accesskey = G
-
 fonts-serif = Serif
     .accesskey = S
-
 fonts-sans-serif = Skreefleas
     .accesskey = k
-
 fonts-monospace = Monospace
     .accesskey = M
-
 fonts-monospace-size = Grutte
     .accesskey = r
-
 fonts-minsize = Minimale lettergrutte
     .accesskey = e
-
 fonts-minsize-none =
     .label = Gjin
-
 fonts-allow-own =
     .label = Siden tastean om harren eigen lettertype te kiezen, yn stee fan myn seleksje hjirboppe
     .accesskey = S
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

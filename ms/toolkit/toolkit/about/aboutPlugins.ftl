@@ -6,8 +6,6 @@ title-label = Perihal Plugin
 installed-plugins-label = Plugin dipasang
 no-plugins-are-installed-label = Tiada plugin terpasang yang ditemui
 deprecation-description = Ada sesuatu yang tidak kena? Ada plugin yang tidak lagi disokong. <a data-l10n-name="deprecation-link">Ketahui Selanjutnya.</a>
-deprecation-description2 =
-    .message = Ada sesuatu yang tidak kena? Ada plugin yang tidak lagi disokong.
 
 ## The information of plugins
 ##

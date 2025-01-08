@@ -7,6 +7,7 @@ pictureinpicture-player-title = Суреттегі сурет
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -21,30 +22,24 @@ pictureinpicture-pause-btn =
 pictureinpicture-play-btn =
     .aria-label = Ойнату
     .tooltip = Ойнату (бос аралық пернесі)
-
 pictureinpicture-mute-btn =
     .aria-label = Дыбысын сөндіру
     .tooltip = Дыбысын сөндіру ({ $shortcut })
 pictureinpicture-unmute-btn =
     .aria-label = Даусын қосу
     .tooltip = Даусын қосу ({ $shortcut })
-
 pictureinpicture-unpip-btn =
     .aria-label = Қайта бетке жіберу
     .tooltip = Қайта бетке
-
 pictureinpicture-close-btn =
     .aria-label = Жабу
     .tooltip = Жабу ({ $shortcut })
-
 pictureinpicture-subtitles-btn =
     .aria-label = Субтитрлар
     .tooltip = Субтитрлар
-
 pictureinpicture-fullscreen-btn2 =
     .aria-label = Толық экран
     .tooltip = Толық экран (қос шерту немесе { $shortcut })
-
 pictureinpicture-exit-fullscreen-btn2 =
     .aria-label = Толық экраннан шығу
     .tooltip = Толық экраннан шығу (қос шерту немесе { $shortcut })
@@ -63,7 +58,6 @@ pictureinpicture-toggle-fullscreen-shortcut =
 pictureinpicture-seekbackward-btn =
     .aria-label = Артқа
     .tooltip = Артқа (←)
-
 pictureinpicture-seekforward-btn =
     .aria-label = Алға
     .tooltip = Алға (→)
@@ -74,13 +68,8 @@ pictureinpicture-seekforward-btn =
 # a screen reader whenever a user opens the subtitles settings panel
 # after selecting the subtitles button.
 pictureinpicture-subtitles-panel-accessible = Субтитрар баптаулары
-
 pictureinpicture-subtitles-label = Субтитрлар
-
 pictureinpicture-font-size-label = Қаріп өлшемі
-
 pictureinpicture-font-size-small = Кішкентай
-
 pictureinpicture-font-size-medium = Орташа
-
 pictureinpicture-font-size-large = Үлкен

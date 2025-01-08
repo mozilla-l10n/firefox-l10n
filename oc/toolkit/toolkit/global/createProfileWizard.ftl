@@ -13,13 +13,9 @@ create-profile-first-page-header2 =
         [macos] Introduccion
        *[other] { create-profile-window2.title } - Benvenguda
     }
-
 profile-creation-explanation-1 = { -brand-short-name } garda las informacions que concernisson vòstres paramètres e preferéncias dins vòstre perfil personal.
-
 profile-creation-explanation-2 = Se partejatz aquesta còpia de { -brand-short-name } amb d'autres utilizaires, podètz utilizar los perfils per gardar las informacions de cada utilizaire separadas. Per aquò far, cada utilizaire deurà crear son perfil pròpri.
-
 profile-creation-explanation-3 = Se sètz la sola persona qu'utilize aquesta còpia de { -brand-short-name }, vos cal aver al mens un perfil. S'o desiratz, podètz crear diferents perfils per vos-meteis. Per exemple, podètz voler dispausar de perfils separats per vòstra utilizacion personala e professionala.
-
 profile-creation-explanation-4 =
     { PLATFORM() ->
         [macos] Per començar a crear vòstre perfil, clicatz sus Contunhar.
@@ -33,21 +29,15 @@ create-profile-last-page-header2 =
         [macos] Conclusion
        *[other] { create-profile-window2.title } - Fin
     }
-
 profile-creation-intro = Se creatz mantun perfil, los podètz diferenciar per lor nom. Podètz utilizar lo nom prepausat o ne causir un vos-meteis.
-
 profile-prompt = Picatz lo nom del perfil novèl :
     .accesskey = e
-
 profile-default-name =
     .value = Utilizaire per defaut
-
 profile-directory-explanation = Vòstres paramètres d'utilizaire, preferéncias e totas vòstras donadas personalas seràn enregistrats dins :
-
 create-profile-choose-folder =
     .label = Causir un dossièr…
     .accesskey = C
-
 create-profile-use-default =
     .label = Utilizar lo dossièr per defaut
     .accesskey = U

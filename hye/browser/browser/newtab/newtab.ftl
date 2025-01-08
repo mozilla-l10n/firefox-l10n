@@ -20,12 +20,12 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Որոնում
     .aria-label = Որոնում
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Որոնել { $engine }-ով կամ մուտքագրել հասցէն
 newtab-search-box-handoff-text-no-engine = Որոնել կամ մուտքագրել հասցէն
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
     .placeholder =
         Որոնել { $engine }֊ով կամ մուտքագրել հասցէն
@@ -90,7 +90,7 @@ newtab-dismiss-button-tooltip =
     .aria-label = Հեռացնել
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
-#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+#   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .title = Բացել ցանկը
     .aria-label = Բացել համատեքստի ցանկը { $title }-ի համար
@@ -158,16 +158,16 @@ newtab-label-saved = Պահպանուած է { -pocket-brand-name }-ում
 newtab-label-download = Ներբեռնուած է
 # This string is used in the story cards to indicate sponsored content
 # Variables:
-#  $sponsorOrSource (String): This is the name of a company or their domain
+#   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource }: Հովանաւորուած
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
-#  $sponsor (String): This is the name of a sponsor
+#   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = Հովանաւորուած { $sponsor }֊ի կողմից
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
-#  $source (String): This is the name of a company or their domain
-#  $timeToRead (Number): This is the estimated number of minutes to read this story
+#   $source (string) - The name of a company or their domain
+#   $timeToRead (number) - The estimated number of minutes to read this story
 newtab-label-source-read-time = { $source } · { $timeToRead } րոպէ
 
 ## Section Menu: These strings are displayed in the section context menu and are
@@ -196,7 +196,7 @@ newtab-section-expand-section-label =
 newtab-section-header-topsites = Լաւագոյն կայքեր
 newtab-section-header-recent-activity = Վերջին գործողութիւնը
 # Variables:
-#  $provider (String): Name of the corresponding content provider.
+#   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Առաջարկուում է { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
@@ -204,7 +204,7 @@ newtab-section-header-pocket = Առաջարկուում է { $provider }
 newtab-empty-section-highlights = Սկսէք դիտարկել եւ մենք կը ցուցադրենք որոշ հիանալի յաւդուածներ, տեսանիւթեր եւ այլ էջեր, որ դուք այցելել կամ էջանշել էք վերջերս։
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
-#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Ամեն ինչ պատրաստ է։ Ստուգեք աւելի ուշ՝ աւելի շատ պատմութիւններ ստանալու համար { $provider } մատակարարից։ Չեք կարող սպասել։ Ընտրեք հանրաճանաչ թէմա՝ համացանցից աւելի հիանալի պատմութիւններ գտնելու համար։
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
@@ -246,6 +246,8 @@ newtab-custom-shortcuts-subtitle = Կայքեր, որոնք Դուք պահու�
 newtab-custom-shortcuts-toggle =
     .label = Դիւրանցումներ
     .description = Կայքեր, որոնք Դուք պահում էք կամ այցելում
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } տող
@@ -282,4 +284,12 @@ newtab-custom-settings = Կառավարէք աւելի շատ կարգաւորո
 
 
 ## Topic Selection Modal
+
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Confirmation modal for blocking a section
 

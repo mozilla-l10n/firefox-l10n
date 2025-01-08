@@ -47,10 +47,10 @@ address-capture-edit-address-button =
 autofill-add-address-title = پتہ شامل کرو
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = پتہ تدوین کرو
-autofill-address-name = ناں
 autofill-address-given-name = پہلا ناں
 autofill-address-additional-name = وچلا ناں
 autofill-address-family-name = چھیکڑی ناں
+autofill-address-name = ناں
 autofill-address-organization = تنظیم
 autofill-address-street-address = ڳلی دا پتہ
 autofill-address-street = ڳلی دا پتہ
@@ -103,9 +103,6 @@ autofill-address-postal-code = پوسٹل کوڈ
 autofill-address-zip = زپ کوڈ
 # Used in IE
 autofill-address-eircode = ایرکوڈ
-
-##
-
 
 ##
 

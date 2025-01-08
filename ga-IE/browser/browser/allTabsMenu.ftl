@@ -5,13 +5,10 @@
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Cuardaigh Cluaisíní
-
 all-tabs-menu-new-user-context =
     .label = Cluaisín Coimeádáin Nua
-
 all-tabs-menu-hidden-tabs =
     .label = Cluaisíní Folaithe
-
 all-tabs-menu-manage-user-context =
     .label = Bainistigh Coimeádáin
     .accesskey = o

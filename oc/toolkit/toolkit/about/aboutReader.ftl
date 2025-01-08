@@ -35,7 +35,7 @@ about-reader-estimated-read-time =
        *[other] { $range } minutas
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = Reduire la talha de la polissa
@@ -84,7 +84,7 @@ about-reader-custom-colors-visited-links = Ligams visitats
     .title = Modificar la color
 about-reader-reset-button = Remetre la valor per defaut
 
-## Reader View improved text and layout menu
+## Reader View text and layout menu
 
 about-reader-text-header = Tèxte
 about-reader-text-size-label = Talha de tèxte

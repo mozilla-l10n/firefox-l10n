@@ -31,3 +31,7 @@ webext-perms-description-tabs = Accedir als onglets del navegador
 webext-perms-description-tabHide = Amagar e mostrar los onglets del navegador
 webext-perms-description-topSites = Accedir a l’istoric de navegacion
 webext-perms-description-webNavigation = Accedir a l’activitat del navegador pendent la navegacion
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

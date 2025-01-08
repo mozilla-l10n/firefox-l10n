@@ -4,15 +4,12 @@
 
 password-not-set =
     .value = (سیٹ نہیں)
-
 failed-pp-change = بنیادی پاس ورڈ تبدیل کرنے میں ناکام۔
 pp-change-ok = بنیادی پاس ورڈ کامیابی سے تبدیل ہو چکا ہے۔
-
 pw-change-success-title = پاس ورڈ کامیابی سے تبدیل ہوا
 pw-change-failed-title = پاس ورڈ تبدیلی ناکام
 pw-remove-button =
     .label = ہٹائیں
-
 primary-password-dialog =
     .title = بنیادی پاس ورڈ
 set-password-old-password = حالیہ پاس ورڈ:
@@ -20,7 +17,6 @@ set-password-new-password = اپنا پاس ورڈ داخل کریں:
 set-password-reenter-password = نیا پاس ورڈ دوبارہ لکھیے:
 set-password-meter = پاس ورڈ کوالٹی میٹر
 set-password-meter-loading = لوڈ کر رہا ہے
-
 remove-primary-password =
     .title = بنیادی پاس ورڈ کو ہٹائیں
 remove-info =

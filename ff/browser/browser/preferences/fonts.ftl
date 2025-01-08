@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Ponte
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Ponte
     .accesskey = P
-
 fonts-langgroup-arabic =
     .label = Aarabeere
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Potpotondirɗe
     .accesskey = P
-
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = San Serif
-
 fonts-proportional-size = Ɓetol
     .accesskey = z
-
 fonts-serif = Serif
     .accesskey = S
-
 fonts-sans-serif = Sans-serif
     .accesskey = n
-
 fonts-monospace = Monospace
     .accesskey = M
-
 fonts-monospace-size = Ɓetol
     .accesskey = e
-
 fonts-minsize = Ɓetol fontere lesiwol
     .accesskey = o
-
 fonts-minsize-none =
     .label = Ndiga
-
 fonts-allow-own =
     .label = Yamir kelle yo kuutoro ponte mum en keeriiɗe waasa wonde ɗe am dow ɗoo ɗee
     .accesskey = Y
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

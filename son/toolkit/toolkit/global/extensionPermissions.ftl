@@ -20,3 +20,7 @@ webext-perms-description-sessions = Duu kanjey kaŋ kokor ka daaba
 webext-perms-description-tabs = Duu ceecikaw kanjey
 webext-perms-description-topSites = Duu ceeciyan taariki
 webext-perms-description-webNavigation = Duu ceecikaw goyyan naarumi waate
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

@@ -45,3 +45,6 @@ about-private-browsing-promo-close-button =
 
 ## Strings used in a promotion message for cookie banner reduction
 
+
+## Strings for Felt Privacy v1 experiments in 119
+

@@ -12,20 +12,6 @@ about-reader-color-scheme-sepia = Sepia
     .title = Kleureskema Sepia
 about-reader-color-scheme-auto = Auto
     .title = Kleureskema Automatysk
-about-reader-color-theme-light = Ljocht
-    .title = Kleurtema Ljocht
-about-reader-color-theme-dark = Donker
-    .title = Kleurtema Donker
-about-reader-color-theme-sepia = Sepia
-    .title = Kleurtema Sepia
-about-reader-color-theme-auto = Auto
-    .title = Kleurtema Auto
-about-reader-color-theme-gray = Griis
-    .title = Kleurtema Griis
-about-reader-color-theme-contrast = Kontrast
-    .title = Kleurtema Kontrast
-about-reader-color-theme-custom = Oanpaste kleuren
-    .title = Kleurtema Oanpaste kleuren
 about-reader-color-light-theme = Ljocht
     .title = Ljocht tema
 about-reader-color-dark-theme = Donker
@@ -49,7 +35,7 @@ about-reader-estimated-read-time =
        *[other] { $range } minuten
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = Tekengrutte ferlytsje
@@ -74,7 +60,6 @@ about-reader-font-type-monospace = Monospace
 
 about-reader-toolbar-close = Lêzerwerjefte slute
 about-reader-toolbar-type-controls = Lettertype-ynstellingen
-about-reader-toolbar-color-controls = Kleuren
 about-reader-toolbar-text-layout-controls = Tekst en opmaak
 about-reader-toolbar-theme-controls = Tema
 about-reader-toolbar-savetopocket = Bewarje yn { -pocket-brand-name }
@@ -99,10 +84,9 @@ about-reader-custom-colors-visited-links = Besochte keppelingen
     .title = Kleur bewurkje
 about-reader-custom-colors-selection-highlight = Markearstift foar hurdop lêze
     .title = Kleur bewurkje
-about-reader-custom-colors-reset-button = Standertynstellingen opnij ynstelle
 about-reader-reset-button = Standertynstellingen opnij ynstelle
 
-## Reader View improved text and layout menu
+## Reader View text and layout menu
 
 about-reader-text-header = Tekst
 about-reader-text-size-label = Tekstgrutte
@@ -119,9 +103,6 @@ about-reader-content-width-label =
 about-reader-line-spacing-label =
     .label = Regelôfstân
 about-reader-advanced-layout-header = Avansearre
-about-reader-slider-label-width-narrow = Smel
-about-reader-slider-label-width-wide = Breed
-about-reader-slider-label-spacing-narrow = Smel
 about-reader-character-spacing-label =
     .label = Tekenôfstân
 about-reader-word-spacing-label =

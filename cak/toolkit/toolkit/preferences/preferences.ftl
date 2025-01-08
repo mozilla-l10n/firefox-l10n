@@ -4,17 +4,14 @@
 
 password-not-set =
     .value = (man jikib'an ta)
-
 failed-pp-change = Man tikirel ta xjal ri Nab'ey Ewan Tzij.
 incorrect-pp = Man ütz ta ri Nab'ey Ewan Tzij xatz'ib'aj. Tatojtob'ej chik.
 pp-change-ok = Ütz xjal ri Nab'ey Ewan Tzij.
-
 pp-change2empty-in-fips-mode = Wakami at k'o pa rub'eyal FIPS. FIPS nrajo' jun Nab'ey Ewan Tzij ri man kowöl ta.
 pw-change-success-title = Ütz rujalik ri ewan tzij
 pw-change-failed-title = Xsach toq Nijal ri Ewan Tzij
 pw-remove-button =
     .label = Tiyuj
-
 primary-password-dialog =
     .title = Nab'ey Ewan Tzij
 set-password-old-password = Ewan tzij wakami:
@@ -22,11 +19,9 @@ set-password-new-password = Titz'ib'äx ri k'ak'a' ewan atzij:
 set-password-reenter-password = Tijikib'äx ewan tzij:
 set-password-meter = Retanel rutzil ri ewan tzij
 set-password-meter-loading = Nusamajij
-
 primary-password-admin = Ri anuk'samajel nrajo' chi k'o jun Nab'ey Ewan Atzij ab'anon runuk'ulem richin yeyak molojri'ïl chuqa' ri ewan taq tzij
 primary-password-description = Jun Nab'ey Ewan Tzij nokisäx richin nichajïx ri jeb'ël na'oj achi'el ri wujil chuqa' ewan taq rutzij pa re okisab'äl re'.  We nanük' jun Nab'ey Ewan Atzij, junelïk xtatz'ib'aj qa jumul pa jujun molojri'ïl toq { -brand-short-name } nuköl ri na'oj chajin ruma re ewan tzij re'.
 primary-password-warning = Jantape' tanataj ri Nab'ey Ewan Tzij xatz'ib'aj.  We xtamestaj, man xkatikïr ta chik xkatok chi kipam ri na'oj eruchajin pa re okisab'äl re'.
-
 remove-primary-password =
     .title = Tiyuj Nab'ey Ewan Tzij
 remove-info =

@@ -6,7 +6,6 @@ tabmodalprompt-username =
     .value = Імя карыстальніка:
 tabmodalprompt-password =
     .value = Пароль:
-
 tabmodalprompt-ok-button =
     .label = Добра
 tabmodalprompt-cancel-button =

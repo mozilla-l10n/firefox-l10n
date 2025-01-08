@@ -17,6 +17,9 @@ options-context-inspector = ຕົວກວດກາ
 ## "Default Color Unit" options for the Inspector
 
 
+## Web Console section
+
+
 ## Style Editor section
 
 
@@ -27,7 +30,4 @@ options-context-inspector = ຕົວກວດກາ
 
 
 ## Advanced section
-
-
-##
 

@@ -6,8 +6,6 @@ title-label = Teave pluginate kohta
 installed-plugins-label = Paigaldatud pluginad
 no-plugins-are-installed-label = Pluginaid pole paigaldatud
 deprecation-description = Tunned millestki puudust? Mõned pluginad ei ole enam toetatud. <a data-l10n-name="deprecation-link">Rohkem teavet.</a>
-deprecation-description2 =
-    .message = Tunned millestki puudust? Mõned pluginad ei ole enam toetatud.
 
 ## The information of plugins
 ##

@@ -7,4 +7,3 @@
 ### feature.
 
 about-unloads-page-title = មិនកំពុងផ្ទុក​ផ្ទាំង
-

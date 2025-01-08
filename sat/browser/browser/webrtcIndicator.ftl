@@ -151,6 +151,9 @@ webrtc-allow-share-camera-and-audio-capture = { $origin } ᱟᱢᱟᱜ ᱠᱮᱢ
 webrtc-allow-share-screen-and-microphone = { $origin } ᱫᱚ ᱟᱢᱟᱜ ᱢᱤᱠᱨᱳᱯᱷᱚᱱ ᱵᱮᱵᱷᱟᱨ ᱟᱨ ᱟᱢᱟᱜ ᱥᱠᱨᱤᱱ ᱧᱮᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱥᱮ?
 webrtc-allow-share-screen-and-audio-capture = { $origin } ᱫᱚ ᱱᱚᱶᱟ ᱴᱟᱵᱽ ᱥᱟᱰᱮ ᱟᱨ ᱟᱢᱟᱜ ᱥᱠᱨᱤᱱ ᱧᱮᱞ ᱫᱟᱲᱮᱭᱟᱫᱼᱟᱭ ᱥᱮ ?
 
+## Special phrasing for sharing devices when the origin is a file url.
+
+
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.

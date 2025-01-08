@@ -4,27 +4,21 @@
 
 certmgr-token-name =
     .label = Kifaa cha Usalama
-
 certmgr-view =
     .label = Mionekano…
     .accesskey = M
-
 certmgr-export =
     .label = Leta…
     .accesskey = e
-
 certmgr-delete =
     .label = Futa…
     .accesskey = F
-
 certmgr-backup =
     .label = Cheleza…
     .accesskey = C
-
 certmgr-restore =
     .label = Leta…
     .accesskey = e
-
 exception-mgr-cert-location-url =
     .value = Mahali:
 
@@ -39,12 +33,10 @@ exception-mgr-cert-location-url =
 
 ## For Deleting Certificates
 
-
 delete-email-cert-confirm = Uyaqiniseka yini ukuthi ufuna ukuzicisha lezi zitifiketi zezingosi zewebhu?
 
-## Cert Viewer
-
 ## Used to show whether an override is temporary or permanent
+
 
 ## Add Security Exception dialog
 

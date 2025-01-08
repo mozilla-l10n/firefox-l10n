@@ -8,22 +8,18 @@
 site-data-search-textbox =
     .placeholder = ಜಾಲತಾಣಗಳನ್ನು ಹುಡುಕು
     .accesskey = S
-
 site-data-column-host =
     .label = ತಾಣ
 site-data-column-cookies =
     .label = ಕುಕಿಗಳು
 site-data-column-storage =
     .label = ಶೇಖರಣೆ
-
 site-data-remove-selected =
     .label = ಆರಿಸಿದ್ದನ್ನು ಅಳಿಸು
     .accesskey = r
-
 site-data-remove-all =
     .label = ಎಲ್ಲವನ್ನು ತೆಗೆ
     .accesskey = e
-
 site-data-remove-shown =
     .label = ತೋರಿಸಿರುವ ಎಲ್ಲವನ್ನು ತೆಗೆದು ಹಾಕು
     .accesskey = e
@@ -33,4 +29,3 @@ site-data-remove-shown =
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = ತೆಗೆದು ಹಾಕು
-

@@ -3,16 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Colorway collections
-
 ## Colorway names and descriptions
 
 expressionist-colorway-name = Експресионист
-
 visionary-colorway-name = Визионер
-
 activist-colorway-name = Активист
-
 dreamer-colorway-name = Сонувач
-
 innovator-colorway-name = Иноватор

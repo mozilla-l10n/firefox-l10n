@@ -10,6 +10,8 @@ safeb-blocked-phishing-page-short-desc = { -brand-short-name } je blokirao ovu s
 safeb-blocked-malware-page-short-desc = { -brand-short-name } je blokirao ovu stranicu jer može pokušati instalirati maliciozni softver koji bi mogao ukrasti ili obrisati lične podatke na vašem računaru.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } je blokirao ovu stranicu jer bi mogla pokušati da vas navede da instalirate programe koji štete vašem iskustvu surfanja (npr. da vam promijeni početnu stranicu ili da vam prikazuje reklame na stranicama koje posjećujete).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } je blokirao ovu stranicu jer bi mogla pokušati da instalira opasne aplikacije koje kradu ili brišu vaše podatke (npr. slike, lozinke, poruke ili kreditne kartice).
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Savjetovanje pružili <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Vrati se
 safeb-palm-see-details-label = Pokaži detalje
@@ -27,7 +29,9 @@ safeb-blocked-phishing-page-learn-more = Saznajte više o obmanjujućim stranica
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
+
 ##
+
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page

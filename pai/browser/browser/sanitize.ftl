@@ -19,4 +19,3 @@ clear-time-duration-suffix =
 
 window-close =
     .key = w
-

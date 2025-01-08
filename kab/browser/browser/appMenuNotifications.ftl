@@ -37,7 +37,6 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Mačči tura
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = Yella lqem amaynut n { -brand-shorter-name }, maca ur yezmir ara ad yettusebded acku yella nɣel-nniḍen n { -brand-shorter-name } la iteddu. Mdel-it i wakken ad tkemmleḍ lqem, neɣ fren ɣas akken leqqem (nɣel-nni-nniḍen yezmer ur iteddu ara akken iwata alamma tulseḍ-as asenker).
-
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Ih
     .buttonaccesskey = H
@@ -45,7 +44,6 @@ appmenu-addon-post-install-message3 = Sefrek izegrar d yisental inek·inem deg w
 appmenu-addon-post-install-incognito-checkbox =
     .label = Sireg asiɣzef-agi ad yeddu deg isfuyla usligen
     .accesskey = S
-    
 appmenu-new-tab-controlled-changes =
     .label = Iccer-inek·inem amaynut yettusenfel.
     .buttonlabel = Eǧǧ isenfal

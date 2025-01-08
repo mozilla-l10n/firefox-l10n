@@ -21,7 +21,7 @@ about-telemetry-late-writes-section = Soʻnggi yozuvlar
 about-telemetry-raw = JSON qatori
 about-telemetry-full-sql-warning = NOTE: Sekin SQL nosozlikni hal qilish - yoqilgan. Toʻliq SQL qatorlari pastda ko‘rsatilishi mumkin, ammo ular telemetriyaga joʻnatilmaydi.
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Ushbu sahifa telemetriya tomonidan yigʻilgan moslash va foydalanish, qurilma, ishlash tezligi haqidagi ma`lumotlarni koʻrsatadi. Ushbu ma`lumot  { $telemetryServerOwner }ga { -brand-full-name }ni yaxshilashda yordam berish uchun joʻnatildi.
 # button label to copy the histogram
 about-telemetry-histogram-copy = Nusxa olish
@@ -35,11 +35,11 @@ about-telemetry-slow-sql-statement = Ma`lumot
 about-telemetry-addon-table-id = Qo‘shimcha dastur ID raqami
 about-telemetry-addon-table-details = Tafsilotlar
 # Variables:
-#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+#   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = { $addonProvider } xizmati
 about-telemetry-keys-header = Xossasi
 # Variables:
-#   $lateWriteCount (Integer): the number of the late writes
+#   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = Soʻnggi yozuv #{ $lateWriteCount }
 about-telemetry-stack-title = Toʻplam:
 about-telemetry-memory-map-title = Xotira kartasi:

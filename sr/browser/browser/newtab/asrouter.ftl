@@ -304,6 +304,9 @@ root-certificate-succession-infobar-secondary-button =
     .label = Касније
     .accesskey = К
 
+## Root Certificate Succession Windows Background Notification
+
+
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =

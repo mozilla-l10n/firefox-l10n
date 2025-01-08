@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Nodrezhoù
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Nodrezhoù evit
     .accesskey = N
-
 fonts-langgroup-arabic =
     .label = Arabeg
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Kenfeuriek
     .accesskey = K
-
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Hep Serif
-
 fonts-proportional-size = Ment
     .accesskey = M
-
 fonts-serif = Serif
     .accesskey = S
-
 fonts-sans-serif = Hep-serif
     .accesskey = H
-
 fonts-monospace = Unegor
     .accesskey = U
-
 fonts-monospace-size = Ment
     .accesskey = e
-
 fonts-minsize = Ment izek an nodrezh
     .accesskey = i
-
 fonts-minsize-none =
     .label = Tra ebet
-
 fonts-allow-own =
     .label = Aotren ar pajennadoù da zibab o nodrezhoù dezho e-lec'h ma diuzad a-us
     .accesskey = A
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

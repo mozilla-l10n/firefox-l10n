@@ -103,7 +103,6 @@ print-window =
     .title = Tulostetaan
 print-complete =
     .value = Tulostus valmis.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

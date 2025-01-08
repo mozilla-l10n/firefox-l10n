@@ -5,6 +5,8 @@
 label-disable = Disativa
 label-enable = Ativa
 label-interventions = Interventos
+# Variables:
+#   $bug (string) - Bug number
 label-more-information = Àteras informatziones: faddina { $bug }
 
 ## Do not translate "SmartBlock". For reference, SmartBlock is a feature

@@ -20,6 +20,9 @@ options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-name = Si yugui kolô
 
+## Web Console section
+
+
 ## Style Editor section
 
 
@@ -32,8 +35,5 @@ options-sourceeditor-keybinding-default-label = Sa gà' 'na' niñaan
 
 ## Advanced section
 
-# The heading
+# The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = Nagui'iaj mu'un' sa hua ña'ān
-
-##
-

@@ -54,7 +54,6 @@ close-tab =
     .title = Mbylleni skedën
 show-addon =
     .title = Shfaqe në Përgjegjës Shtesash
-
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded

@@ -149,7 +149,7 @@ containers-disable-alert-ok-button =
 containers-disable-alert-cancel-button = Patuloy na pinagana
 containers-remove-alert-title = Alisin ang Container na Ito?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Kapag tinanggal mo ngayon ang Container na ito, may { $count } container tab na isasara. Sigurado ka bang gusto mong tanggalin ang Container na ito?
@@ -176,6 +176,8 @@ advanced-fonts =
 preferences-zoom-header = Zoom
 preferences-default-zoom = Default zoom
     .accesskey = z
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
@@ -268,15 +270,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Palaging itanong
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Gamitin ang { $plugin-name } (sa { -brand-short-name })
 applications-open-inapp =
@@ -312,6 +314,8 @@ play-drm-content =
 play-drm-content-learn-more = Alamin
 update-application-title = Mga { -brand-short-name } Update
 update-application-description = Panatilihing updated ang { -brand-short-name } para sa pinakamahusay na pagtakbo, katatagan, at seguridad.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Bersyon { $version } <a data-l10n-name="learn-more">Ano ang bago?</a>
 update-history =
     .label = Ipakita ang Kasaysayan ng Pag-update...
@@ -357,7 +361,7 @@ performance-limit-content-process-option = Content process limit
 performance-limit-content-process-enabled-desc = Ang karagdagang mga content process ay maaaring magpaganda ng performance kapag marami ang mga tab, ngunit gagamit din ito ng mas maraming memory.
 performance-limit-content-process-blocked-desc = Ang pagbabago sa bilang ng mga proseso ng nilalaman ay posible lamang sa multiprocess { -brand-short-name }. <a data-l10n-name="learn-more">Alamin kung paano i-check kung ang multiprocess ay pinagana</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (default)
 
@@ -442,8 +446,7 @@ choose-bookmark =
 home-prefs-search-header =
     .label = Paghahanap sa Web
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Inirekomenda ni { $provider }
@@ -471,6 +474,8 @@ home-prefs-recent-activity-description = Isang pagpipilian ng mga kamakailang si
 home-prefs-snippets-header =
     .label = Mga snippet
 home-prefs-snippets-description-new = Mga tip at balita mula sa { -vendor-short-name } at { -brand-product-name }
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -530,7 +535,7 @@ search-find-more-link = Maghanap ng mga karagdagang search engine
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Nadobleng Keyword
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Ginagamit ng “{ $name }” ang pinili mong keyword. Pumili nalang ng iba.
 search-keyword-warning-bookmark = Ginagamit na ng isang bookmark ang keyword na pinili mo. Pumili ng iba pa.
 
@@ -808,8 +813,8 @@ history-clear-button =
 sitedata-header = Mga Cookie at Site Data
 sitedata-total-size-calculating = Kinakalkula ang site data at cache size...
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Ang iyong mga nakaimbak na cookie, site data, at cache ay kasalukuyang gumagamit ng { $value } { $unit } ng disk space.
 sitedata-learn-more = Alamin
 sitedata-delete-on-close =

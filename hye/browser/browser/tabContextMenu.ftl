@@ -103,7 +103,6 @@ tab-context-move-tabs =
            *[other] Տեղափոխել ներդիրները
         }
     .accesskey = լ
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

@@ -67,14 +67,6 @@ fxviewtabrow-unmute-tab = Stummschaltung für Tab aufheben
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
     .title = Optionen für { $tabTitle }
-# Variables:
-#   $tabTitle (string) - Title of tab being muted
-fxviewtabrow-mute-tab-button =
-    .title = { $tabTitle } stummschalten
-# Variables:
-#   $tabTitle (string) - Title of tab being unmuted
-fxviewtabrow-unmute-tab-button =
-    .title = Stummschaltung für { $tabTitle } beenden
 
 ## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
 

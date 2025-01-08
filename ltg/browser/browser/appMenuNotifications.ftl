@@ -5,7 +5,6 @@
 appmenu-addon-post-install-incognito-checkbox =
     .label = Atļaut itam paplašinojumam pasaist privatūs lūgus
     .accesskey = A
-    
 appmenu-tab-hide-controlled =
     .label = Datikt pi paslāptōm cilnem
     .buttonlabel = Atstōt cilnes paslāptas

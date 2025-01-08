@@ -7,7 +7,6 @@
 
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
-
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
@@ -15,7 +14,6 @@ toolbar-button-back-2 =
 
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
-
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
 
@@ -24,12 +22,10 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Peuhah keulayi
     .accesskey = R
-
 # This menuitem is only visible on macOS
 main-context-menu-reload-mac =
     .label = Peuhah keulayi
     .accesskey = R
-
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -45,22 +41,21 @@ toolbar-button-stop-reload =
 
 ## Firefox Account Button
 
+
+## Account toolbar Button
+
+
 ## Save Page
+
 
 ## Simple menu items
 
 main-context-menu-open-link =
     .label = Peuhah Peunawôt
     .accesskey = O
-
 main-context-menu-save-link =
     .label = Keubah Peunawôt Seubagoë…
     .accesskey = k
-
-## The access keys for "Copy Link Location" and "Copy Email Address"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
-
 
 ## The access keys for "Copy Link" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -76,6 +71,7 @@ main-context-menu-save-link =
 
 ##
 
+
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
@@ -85,22 +81,17 @@ main-context-menu-save-link =
 main-context-menu-media-video-fullscreen =
     .label = Peunoh Layeuë
     .accesskey = F
-
 main-context-menu-media-video-leave-fullscreen =
     .label = Teubiet Peunoh Layeu
     .accesskey = u
-
 main-context-menu-image-copy =
     .label = Salèn Gamba
     .accesskey = y
-
 main-context-menu-send-to-device =
     .label = Peu'ét Laman u Alat
     .accesskey = n
 
-## The access keys for "Use Saved Login" and "Use Saved Password"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
+##
 
 
 ##
@@ -108,8 +99,6 @@ main-context-menu-send-to-device =
 main-context-menu-link-send-to-device =
     .label = Peu'ét Peunawôt u Alat
     .accesskey = n
-
 main-context-menu-eme-learn-more =
     .label = Meurunoë leubèh lhôk bhaih DRM…
     .accesskey = D
-

@@ -60,3 +60,13 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Jautāt { $provider }…
+
+## Chatbot header
+
+
+## Chatbot onboarding
+
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+

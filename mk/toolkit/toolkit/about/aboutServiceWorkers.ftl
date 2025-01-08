@@ -6,7 +6,6 @@
 ### The term "Service Workers" and "Workers" should not be translated
 
 about-service-workers-title = За Service Workers
-
 # The original title of service workers' information
 #
 # Variables:

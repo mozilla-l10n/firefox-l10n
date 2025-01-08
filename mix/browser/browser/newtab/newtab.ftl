@@ -23,7 +23,6 @@ newtab-topsites-edit-topsites-header = Sama sitio popular
 newtab-topsites-title-label = Título
 newtab-topsites-title-input =
     .placeholder = Chaa título
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Chaa a chisti'in iin URL
@@ -35,13 +34,11 @@ newtab-topsites-delete-history-button = Stoò ntii ña niya'a
 newtab-topsites-save-button = Chika vaà
 newtab-topsites-add-button = Chikaa
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 
 ## Top Sites - Sponsored label
+
 
 ## Context Menu - Action Tooltips.
 
@@ -49,10 +46,9 @@ newtab-topsites-add-button = Chikaa
 newtab-menu-section-tooltip =
     .title = Kuna menú
     .aria-label = Kuna menú
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
-#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+#   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .title = Kuna menú
     .aria-label = Kuna menú contextual takua { $title }
@@ -76,16 +72,13 @@ newtab-menu-archive-pocket = Chika va'a nu { -pocket-brand-name }
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
+
 ##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Stoo markador
 # Bookmark is a verb here.
 newtab-menu-bookmark = Marka
-
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -114,10 +107,6 @@ newtab-label-bookmarked = Marka
 newtab-label-recommended = Tu'un kanu
 newtab-label-saved = Inka vai ni { -pocket-brand-name }
 newtab-label-download = Snui
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -158,13 +147,44 @@ newtab-discovery-empty-section-topstories-loading = Sachuin
 newtab-pocket-read-more = Temas populares:
 newtab-pocket-cta-button = Nduku { -pocket-brand-name }
 
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+
 ## Customization Menu
+
+
+## New Tab Wallpapers
+
+
+## Solid Colors
+
+
+## Abstract
+
+
+## Photographs
+
+
+## New Tab Weather
+
+
+## Topic Labels
+
+
+## Topic Selection Modal
+
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Confirmation modal for blocking a section
 

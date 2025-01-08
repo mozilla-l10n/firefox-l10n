@@ -6,7 +6,6 @@ tabmodalprompt-username =
     .value = Lietotājvārds:
 tabmodalprompt-password =
     .value = Parole:
-
 tabmodalprompt-ok-button =
     .label = Labi
 tabmodalprompt-cancel-button =

@@ -18,8 +18,6 @@ abuse-report-addon-authored-by = wot <a data-l10n-name="author-name">{ $author-n
 abuse-report-learnmore =
     Sće sej njewěsty, kotry problem maće wubrać?
     <a data-l10n-name="learnmore-link">Zhońće wjace wo zdźělenju rozšěrjenjow a drastow</a>
-abuse-report-learnmore-intro = Sće sej njewěsty, kotry problem maće wubrać?
-abuse-report-learnmore-link = Zhońće wjace wo zdźělenju rozšěrjenjow a drastow
 abuse-report-submit-description = Wopisajće problem (na přeće)
 abuse-report-textarea =
     .placeholder = Je lóšo za nas, so problemej wěnować, hdyž podrobnosće mamy. Prošu wopisajće, na což sće storčił. Dźakujemy so wam, zo nam pomhaće, web strowy wobchować.
@@ -48,24 +46,6 @@ abuse-report-messagebar-removed-sitepermission = Dźakujemy so, zo sće zdźěle
 abuse-report-messagebar-removed-theme = Dźakujemy so, zo sće zdźělenku pósłał. Sće drastu <span data-l10n-name="addon-name">{ $addon-name }</span> wotstronił.
 abuse-report-messagebar-error = Zmylk při słanju rozprawy za <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Rozprawa za <span data-l10n-name="addon-name">{ $addon-name }</span> njeje so pósłała, dokelž je so druha rozprawa njedawno wotpósłała.
-abuse-report-messagebar-aborted2 =
-    .message = Zdźělenje za { $addon-name } je so přetorhnyło.
-abuse-report-messagebar-submitting2 =
-    .message = Zdźělenka za { $addon-name } so sćele.
-abuse-report-messagebar-submitted2 =
-    .message = Dźakujemy so, zo sće zdźělenku pósłał. Chceće { $addon-name } wotstronić?
-abuse-report-messagebar-submitted-noremove2 =
-    .message = Dźakujemy so, zo sće zdźělenku pósłał.
-abuse-report-messagebar-removed-extension2 =
-    .message = Dźakujemy so, zo sće zdźělenku pósłał. Sće rozšěrjenje { $addon-name } wotstronił.
-abuse-report-messagebar-removed-sitepermission2 =
-    .message = Dźakujemy so, zo sće zdźělenku pósłał. Sće přidatk sydłowych prawow { $addon-name } wotstronił.
-abuse-report-messagebar-removed-theme2 =
-    .message = Dźakujemy so, zo sće zdźělenku pósłał. Sće drastu { $addon-name } wotstronił.
-abuse-report-messagebar-error2 =
-    .message = Zmylk při słanju rozprawy za { $addon-name }.
-abuse-report-messagebar-error-recent-submit2 =
-    .message = Rozprawa za { $addon-name } njeje so pósłała, dokelž je so druha rozprawa njedawno wotpósłała.
 
 ## Message bars actions.
 

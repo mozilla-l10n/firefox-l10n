@@ -5,42 +5,31 @@
 permissions-window2 =
     .title = Keucuwali
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Alamat situihwèb
     .accesskey = l
-
 permissions-block =
     .label = Tham
     .accesskey = T
-
 permissions-session =
     .label = Peuidin keu Sési
     .accesskey = S
-
 permissions-allow =
     .label = Peuidin
     .accesskey = P
-
 permissions-site-name =
     .label = Situihwèb
-
 permissions-status =
     .label = Statuih
-
 permissions-remove =
     .label = Sampôh Situihwèb
     .accesskey = S
-
 permissions-remove-all =
     .label = Sampôh Ban Mandum Situihwèb
     .accesskey = a
-
 permissions-searchbox =
     .placeholder = Mita Situihwèb
-
 permissions-capabilities-allow =
     .label = Peuidin
 permissions-capabilities-block =
@@ -79,6 +68,9 @@ permissions-exceptions-saved-logins-window2 =
     .title = Keucuwali - Keubah Tamèng Log
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Tamèng log lam situihwèb dimiyub nyoë hana teukeubah
+
+## Exceptions - Saved Passwords
+
 
 ## Exceptions - Add-ons
 

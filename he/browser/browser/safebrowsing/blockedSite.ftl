@@ -10,6 +10,8 @@ safeb-blocked-phishing-page-short-desc = { -brand-short-name } חסם דף זה 
 safeb-blocked-malware-page-short-desc = { -brand-short-name } חסם דף זה מכיוון שהוא עלול לנסות להתקין תוכנה זדונית במחשב שלך, העשויה לגנוב או למחוק מידע אישי.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } חסם דף זה מכיוון שהוא עלול להערים עליך ולגרום לך להתקין תוכניות שמזיקות לחווית הגלישה שלך (למשל על־ידי שינוי דף הבית שלך או הצגת פרסומות נוספות באתרים).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } חסם דף זה מכיוון שהוא עלול לנסות להתקין יישומים מסוכנים הגונבים או מוחקים את המידע שלך (כמו תמונות, ססמאות, הודעות וכרטיסי אשראי).
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = גורם מייעץ: <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = חזרה אחורה
 safeb-palm-see-details-label = צפייה בפרטים

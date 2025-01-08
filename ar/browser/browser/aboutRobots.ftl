@@ -25,5 +25,6 @@ error-long-desc4 = للآليين مؤخرات معدنية لامعة لا يُ
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = و يخططون لشيء.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = حاول مجددًا
     .label2 = من فضلك لا تضغط هذا الزر مرة أخرى.

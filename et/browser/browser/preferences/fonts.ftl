@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Fondid
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Fondid keelele
     .accesskey = F
-
 fonts-langgroup-arabic =
     .label = Araabia
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proportsionaalsed
     .accesskey = P
-
 fonts-default-serif =
     .label = seriifidega
 fonts-default-sans-serif =
     .label = seriifideta
-
 fonts-proportional-size = Suurus
     .accesskey = u
-
 fonts-serif = Seriifidega
     .accesskey = S
-
 fonts-sans-serif = Seriifideta
     .accesskey = i
-
 fonts-monospace = Fikseeritud laiusega
     .accesskey = k
-
 fonts-monospace-size = Suurus
     .accesskey = r
-
 fonts-minsize = Vähim fondisuurus
     .accesskey = o
-
 fonts-minsize-none =
     .label = puudub
-
 fonts-allow-own =
     .label = Veebilehed võivad kasutada oma fonte kasutaja valitud fontide asemel
     .accesskey = V
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

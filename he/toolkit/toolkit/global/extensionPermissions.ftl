@@ -33,3 +33,7 @@ webext-perms-description-topSites = גישה להיסטוריית הגלישה
 webext-perms-description-trialML = הורדה והרצת מודולי AI במכשיר שלך
 webext-perms-description-userScripts = לאפשר לתסריטי צד שלישי לא מאומתים לגשת לנתונים שלך
 webext-perms-description-webNavigation = גישה לפעילות הדפדפן במהלך הניווט
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

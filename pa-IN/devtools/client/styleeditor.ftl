@@ -20,7 +20,6 @@ styleeditor-find =
 styleeditor-find-again =
     .label = ਮੁੜ ਕੇ ਲੱਭੋ
     .accesskey = g
-
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.

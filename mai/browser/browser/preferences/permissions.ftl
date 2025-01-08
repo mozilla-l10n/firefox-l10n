@@ -5,30 +5,23 @@
 permissions-window2 =
     .title = अपवाद
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-block =
     .label = रोकू
     .accesskey = B
-
 permissions-session =
     .label = सत्रक लेल अनुमति दिअ
     .accesskey = S
-
 permissions-allow =
     .label = अनुमति दिअ
     .accesskey = A
-
 permissions-status =
     .label = स्थिति
-
 permissions-capabilities-allow =
     .label = अनुमति दिअ
 permissions-capabilities-block =
     .label = रोकू
-
 permissions-capabilities-listitem-allow =
     .value = अनुमति दिअ
 permissions-capabilities-listitem-block =
@@ -57,6 +50,9 @@ permissions-exceptions-popup-desc = कओनसँ वेबसाइटक प
 ## Exceptions - Saved Logins
 
 
+## Exceptions - Saved Passwords
+
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = कओनसँ वेबसाइट सहयुक्तिक संस्थापन करत ई अहाँक हाथमे अछि. जकरा अहाँ ई अनुमति देब चाहैत छी हुनकर सही वेब पता लिखू आओर 'अनुमति दिअ' पर क्लिक करू .
@@ -77,6 +73,7 @@ permissions-exceptions-addons-desc = कओनसँ वेबसाइट स�
 
 
 ## Site Permissions - Microphone
+
 
 ## Site Permissions - Speaker
 ##

@@ -4,5 +4,4 @@
 
 connection-close-key =
     .key = w
-
 connection-dns-over-https-custom-label = Eetz chitu'

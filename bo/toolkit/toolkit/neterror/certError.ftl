@@ -10,7 +10,6 @@ deniedPortAccess-title = དྲ་གནས་འདི་ནི་བཀག་�
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = འོ་ཡ། ང་ཚོས་དྲ་ཚིག་དེ་རྙེད་མི་ཐུབ་པའི་དཀའ་ངལ་འཕྲད་སོང་།
-
 fileNotFound-title = ཡིག་ཆ་རྙེད་མ་ཐུབ
 fileAccessDenied-title = Access to the file was denied
 generic-title = འོ་ཡ།
@@ -40,3 +39,10 @@ networkProtocolError-title = Network Protocol Error
 nssBadCert-title = Warning: Potential Security Risk Ahead
 nssBadCert-sts-title = Did Not Connect: Potential Security Issue
 certerror-mitm-title = Software is Preventing { -brand-short-name } From Safely Connecting to This Site
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+

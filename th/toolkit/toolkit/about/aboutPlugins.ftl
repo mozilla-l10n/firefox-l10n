@@ -6,8 +6,6 @@ title-label = เกี่ยวกับปลั๊กอิน
 installed-plugins-label = ปลั๊กอินที่ติดตั้ง
 no-plugins-are-installed-label = ไม่พบปลั๊กอินที่ติดตั้ง
 deprecation-description = มีบางอย่างขาดหายไป? ปลั๊กอินบางตัวไม่ได้รับการสนับสนุนอีกต่อไป <a data-l10n-name="deprecation-link">เรียนรู้เพิ่มเติม</a>
-deprecation-description2 =
-    .message = มีบางอย่างขาดหายไป? ปลั๊กอินบางตัวไม่ได้รับการสนับสนุนอีกต่อไป
 
 ## The information of plugins
 ##

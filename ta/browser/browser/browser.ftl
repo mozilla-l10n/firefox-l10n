@@ -224,6 +224,8 @@ popup-all-windows-shared = திரையில் பார்வையில�
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
 urlbar-search-mode-indicator-close =
     .aria-label = மூடுக
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = சொல்லைத் தேடுங்கள் அல்லது முகவரியை உள்ளிடுங்கள்
 urlbar-switch-to-tab =
@@ -246,6 +248,9 @@ urlbar-page-action-button =
 urlbar-result-action-search-w-engine = { $engine } மூலம் தேடவும்
 urlbar-result-action-switch-tab = கீற்றிற்கு மாறு
 urlbar-result-action-visit = பார்
+
+## Strings used for buttons in the urlbar
+
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -440,6 +445,9 @@ tabs-toolbar-list-all-tabs =
 ## Infobar shown at startup to suggest session-restore
 
 
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } தானாகவே சில தரவை { -vendor-short-name } க்கு அனுப்பும், அதன் மூலம் நாங்கள் உங்கள் அனுபவத்தை மேம்படுத்த முடியும்.
@@ -455,6 +463,10 @@ data-reporting-notification-button =
 
 
 ## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
 ## Note that the new line is intentionally part of the tooltip.
 
 
@@ -501,3 +513,13 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = '{ $popupURI }'ஐ காட்டு
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+

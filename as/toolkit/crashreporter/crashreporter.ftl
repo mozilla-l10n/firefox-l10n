@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = ক্ৰেশ সংবাদক
-crashreporter-crash-message = { -brand-short-name } ৰ এটা সমস্যা হোৱা বাবে ই ক্ৰেশ কৰিলে।{ " " }
 crashreporter-plea = আমাক সমস্যাটো বিশ্লেষণ কৰি সমাধান কৰাত সহায় কৰিবলে, আপুনি আমাক এটা ক্ৰেশ সংবাদ পঠাব পাৰে।
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = বিৱৰণ: { $details }

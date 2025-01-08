@@ -3,5 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 fxa-qrcode-error-title = जोडणी अयशस्वी.
-
 fxa-qrcode-error-body = पुन्हा प्रयत्न करा.

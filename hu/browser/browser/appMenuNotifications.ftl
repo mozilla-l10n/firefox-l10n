@@ -37,7 +37,6 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Most nem
     .secondarybuttonaccesskey = n
 appmenu-update-other-instance-message = Egy új { -brand-shorter-name } frissítés érhető el, de nem telepíthető, mert a { -brand-shorter-name } egy másik példánya fut. Zárja be a frissítés folytatásához, vagy válassza azt, hogy mindenképp frissíti (a másik példány lehet hogy az újraindításáig nem fog megfelelően működni).
-
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Rendben
     .buttonaccesskey = R
@@ -45,7 +44,6 @@ appmenu-addon-post-install-message3 = Kezelje a kiegészítőit és témáit az 
 appmenu-addon-post-install-incognito-checkbox =
     .label = A kiegészítő futtatásának engedélyezése privát ablakokban
     .accesskey = e
-    
 appmenu-new-tab-controlled-changes =
     .label = Az új lap megváltozott.
     .buttonlabel = Változások megtartása

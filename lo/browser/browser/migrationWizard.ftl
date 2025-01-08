@@ -143,6 +143,8 @@ migration-list-payment-methods-label = ວິ​ທີ​ການ​ຊໍາ�
 ##
 
 migration-wizard-progress-header = ການ​ນໍາ​ເຂົ້າ​ຂໍ້​ມູນ​
+# This header appears in the final page of the migration wizard only if
+# all resources were imported successfully.
 migration-wizard-progress-done-header = ນຳເຂົ້າຂໍ້ມູນສຳເລັດແລ້ວ
 migration-wizard-progress-icon-in-progress =
     .aria-label = ກຳລັງນຳເຂົ້າ…

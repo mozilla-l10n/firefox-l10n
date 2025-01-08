@@ -7,6 +7,7 @@ pictureinpicture-player-title = Imagine-in-imagine
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -21,30 +22,24 @@ pictureinpicture-pause-btn =
 pictureinpicture-play-btn =
     .aria-label = Reproducer
     .tooltip = Reproducer (Barra de spatio)
-
 pictureinpicture-mute-btn =
     .aria-label = Silentiar
     .tooltip = Silentiar ({ $shortcut })
 pictureinpicture-unmute-btn =
     .aria-label = Reactivar audio
     .tooltip = Reactivar audio ({ $shortcut })
-
 pictureinpicture-unpip-btn =
     .aria-label = Inviar retro al scheda
     .tooltip = Retro al scheda
-
 pictureinpicture-close-btn =
     .aria-label = Clauder
     .tooltip = Clauder ({ $shortcut })
-
 pictureinpicture-subtitles-btn =
     .aria-label = Subtitulos
     .tooltip = Subtitulos
-
 pictureinpicture-fullscreen-btn2 =
     .aria-label = Plen schermo
     .tooltip = Plen schermo (clicca duple o { $shortcut } )
-
 pictureinpicture-exit-fullscreen-btn2 =
     .aria-label = Exir del plen schermo
     .tooltip = Exir del plen schermo (clicca duple o { $shortcut } )
@@ -63,7 +58,6 @@ pictureinpicture-toggle-fullscreen-shortcut =
 pictureinpicture-seekbackward-btn =
     .aria-label = Retro
     .tooltip = Retro (←)
-
 pictureinpicture-seekforward-btn =
     .aria-label = Avante
     .tooltip = Avante (→)
@@ -74,13 +68,8 @@ pictureinpicture-seekforward-btn =
 # a screen reader whenever a user opens the subtitles settings panel
 # after selecting the subtitles button.
 pictureinpicture-subtitles-panel-accessible = Parametros de subtitulos
-
 pictureinpicture-subtitles-label = Subtitulos
-
 pictureinpicture-font-size-label = Dimension del litteras
-
 pictureinpicture-font-size-small = Micre
-
 pictureinpicture-font-size-medium = Medie
-
 pictureinpicture-font-size-large = Grande

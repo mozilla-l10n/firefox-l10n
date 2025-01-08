@@ -23,17 +23,17 @@ protections-panel-etp-more-info =
     .aria-label = Más información tocante a la proteición antirrastrexu ameyorada
 protections-panel-etp-on-header = La proteición antirrastrexu ta ACTIVADA pa esti sitiu
 protections-panel-etp-off-header = La proteición antirrastrexu ta DESACTIVADA pa esti sitiu
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = ¿Nun funciona'l sitiu?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = ¿Nun funciona'l sitiu?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = ¿Nun funciona'l sitiu?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = ¿Nun funciona'l sitiu?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -64,10 +64,12 @@ protections-panel-blocking-label = Bloquióse
 protections-panel-not-blocking-label = Permitióse
 protections-panel-not-found-label = Nun se detectó
 
+## Smartblock strings
+
+
 ##
 
 protections-panel-settings-label = Axustes de la proteición
-# This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
 protections-panel-protectionsdashboard-label = Panel de proteiciones
 
 ## In the Site Not Working? view, we suggest turning off protections if
@@ -96,7 +98,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Informe d'un sitiu estropiáu
 protections-panel-content-blocking-breakage-report-view-description = El bloquéu de ciertos rastrexadores pue causar problemes con dalgunos sitios web. Informar d'estos problemes ayuda a ameyorar { -brand-short-name } pa tol mundu. Poro, mandar esti informe va unviar a Mozilla la URL ya información tocante a los axustes del restolador. <label data-l10n-name="learn-more">Lleer más</label>
-protections-panel-content-blocking-breakage-report-view-description2 = El bloquéu de ciertos rastrexadores pue causar problemes con dalgunos sitios web. Informar d'estos problemes ayuda a ameyorar { -brand-short-name } pa tol mundu. Poro, mandar esti informe va unviar a { -vendor-short-name } la URL ya información tocante a los axustes del restolador.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL

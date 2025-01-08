@@ -25,5 +25,6 @@ error-long-desc4 = Roboter hunn blénkeg Hënneren déi net solle gebass ginn.
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = A si hunn e Plang.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = Nach eng Kéier probéieren
     .label2 = Wegl dëse Knapp net méi drécken.

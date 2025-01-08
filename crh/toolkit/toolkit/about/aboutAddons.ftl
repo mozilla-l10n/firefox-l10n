@@ -193,6 +193,8 @@ shortcuts-modifier-other = Ctrl yaki Alt dahil et
 shortcuts-invalid = Keçersiz kombinasyon
 shortcuts-letter = Bir harf tuşlañız
 shortcuts-system = Bir { -brand-short-name } qısqayolunınıñ üstünden aydayalmayım
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] { $numberToShow } dane daha köster
@@ -243,7 +245,7 @@ addon-page-options-button =
 ##   $name (string) - Name of the add-on.
 
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name }, { -brand-short-name } { $version } ile ğayrı-qabili-telif.
 # Variables:
 #   $version (string) - Application version.

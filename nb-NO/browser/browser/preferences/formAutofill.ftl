@@ -47,10 +47,10 @@ address-capture-edit-address-button =
 autofill-add-address-title = Legg til adresse
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Rediger adresse
-autofill-address-name = Navn
 autofill-address-given-name = Fornavn
 autofill-address-additional-name = Mellomnavn
 autofill-address-family-name = Etternavn
+autofill-address-name = Navn
 autofill-address-organization = Organisasjon
 autofill-address-street-address = Gateadresse
 autofill-address-street = Gateadresse
@@ -103,9 +103,6 @@ autofill-address-postal-code = Postnummer
 autofill-address-zip = Postnummer
 # Used in IE
 autofill-address-eircode = Eircode
-
-##
-
 
 ##
 

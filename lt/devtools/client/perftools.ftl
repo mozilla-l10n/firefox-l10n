@@ -42,9 +42,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Buferio dydis:
-
 perftools-custom-threads-label = Pridėti kitas gijas pagal pavadinimą:
-
 perftools-devtools-interval-label = Intervalas:
 perftools-devtools-threads-label = Gijos:
 perftools-devtools-settings-label = Nuostatos
@@ -98,19 +96,13 @@ perftools-thread-task-controller =
 ##
 
 perftools-record-all-registered-threads = Apeiti pasirinkimus iš aukščiau, ir įrašinėti visas registruotas gijas
-
 perftools-tools-threads-input-label =
     .title = Šie gijų pavadinimai yra kableliais atskirtas sąrašas, naudojamas įjungti gijų profiliavimą. Užtenka, kad pavadinimas tik dalinai atitiktų gijos pavadinimą. Svarbu tuščios vietos simboliai.
-
-## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
-## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
-## preferences are true.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Nauja</b>: „{ -profiler-brand-name }“ dabar integruota į programuotojų priemones. <a>Sužinokite daugiau</a> apie šį naują galingą įrankį.
-
 perftools-onboarding-close-button =
     .aria-label = Užverti supažindinimo pranešimą
 
@@ -118,28 +110,24 @@ perftools-onboarding-close-button =
 
 
 # Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/popup/background.jsm.js
+# devtools/client/performance-new/shared/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
+
 # Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
+# devtools/client/performance-new/shared/background.sys.mjs
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = Saityno kūrėjams
 perftools-presets-web-developer-description = Rekomenduojamas nustatymas daugelio saityno programų derinimui, su nedidelėmis sąnaudomis.
-
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Rekomenduojamas nustatymas „{ -brand-shorter-name }“ profiliavimui.
-
 perftools-presets-graphics-label = Grafika
 perftools-presets-graphics-description = Nustatymas „{ -brand-shorter-name }“ grafikos problemų diagnozavimui.
-
 perftools-presets-media-label = Medija
 perftools-presets-media-description2 = Nustatymas „{ -brand-shorter-name }“ garso ir vaizdo problemų diagnozavimui.
-
 perftools-presets-networking-label = Tinklas
 perftools-presets-networking-description = Nustatymas „{ -brand-shorter-name }“ tinklo problemų diagnozavimui.
-
 perftools-presets-custom-label = Kitas
 
 ##

@@ -11,7 +11,6 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Nazaj
     .accesskey = Z
-
 wizard-macos-button-next =
     .label = Nadaljuj
     .accesskey = N
@@ -21,14 +20,12 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = Naprej >
     .accesskey = N
-
 wizard-macos-button-finish =
     .label = Končaj
 wizard-linux-button-finish =
     .label = Končaj
 wizard-win-button-finish =
     .label = Končaj
-
 wizard-macos-button-cancel =
     .label = Prekliči
 wizard-linux-button-cancel =

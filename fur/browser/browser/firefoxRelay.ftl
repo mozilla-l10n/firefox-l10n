@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = { -relay-brand-name } nol è rivât a gjenerâ une gnove mascare. Codiç dal erôr HTTP: { $status }.
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } nol è rivât a cjatâ mascaris di podê tornâ a doprâ. Codiç di erôr HTTP: { $status }.
 
-##
+## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = Tu scugnis jentrâ in { -fxaccount-brand-name } par podê doprâ { -relay-brand-name }.
 firefox-relay-must-login-to-account = Jentre tal to account par doprâ lis mascaris e-mail di { -relay-brand-name }.
@@ -33,3 +33,15 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = No cumò
     .accesskey = N
+
+## The "control" variation of the Relay offer popup
+
+
+## The "basic-info" variation of the Relay offer popup
+
+
+## The "with-domain" variation of the Relay offer popup
+
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+

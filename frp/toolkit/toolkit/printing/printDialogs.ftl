@@ -4,5 +4,4 @@
 
 scale-percent =
     .value = %
-
 dialog-cancel-label = Anular

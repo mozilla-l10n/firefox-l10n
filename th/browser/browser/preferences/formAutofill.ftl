@@ -39,8 +39,6 @@ address-capture-manage-address-button =
     .label = การตั้งค่าที่อยู่
 address-capture-learn-more-button =
     .label = เรียนรู้เพิ่มเติม
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = เพิ่มที่อยู่ใหม่
 address-capture-open-menu-button =
     .aria-label = เปิดเมนู
 address-capture-edit-address-button =
@@ -49,10 +47,10 @@ address-capture-edit-address-button =
 autofill-add-address-title = เพิ่มที่อยู่
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = แก้ไขที่อยู่
-autofill-address-name = ชื่อ
 autofill-address-given-name = ชื่อจริง
 autofill-address-additional-name = ชื่อกลาง
 autofill-address-family-name = นามสกุล
+autofill-address-name = ชื่อ
 autofill-address-organization = องค์กร
 autofill-address-street-address = ที่อยู่ถนน
 autofill-address-street = ที่อยู่
@@ -108,9 +106,8 @@ autofill-address-eircode = เอียร์โค้ด
 
 ##
 
-
-##
-
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = เพิ่มที่อยู่ใหม่
 autofill-address-country = ประเทศหรือภูมิภาค
 autofill-address-country-only = ประเทศ
 autofill-address-tel = โทรศัพท์

@@ -113,7 +113,7 @@ containers-disable-alert-ok-button =
 containers-disable-alert-cancel-button = Açıq tut
 containers-remove-alert-title = Bu konteyner silinsin?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Əgər bu Konteyneri indi silsəz, { $count } konteyner vərəqi qapadılacaq. Bu Konteyneri silmək istədiyinizə əminsiniz?
@@ -207,11 +207,11 @@ applications-manage-app =
 applications-always-ask =
     .label = Həmişə soruş
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } istifadə et ({ -brand-short-name } içində)
 
@@ -241,6 +241,8 @@ play-drm-content =
 play-drm-content-learn-more = Ətraflı öyrən
 update-application-title = { -brand-short-name } yeniləmələri
 update-application-description = Yaxşı məhsuldarlıq, sabitlik və təhlükəsizlik üçün { -brand-short-name } səyyahını daima yeni tutun.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Buraxılış { $version } <a data-l10n-name="learn-more">Yeniliklər</a>
 update-history =
     .label = Yeniləmə tarixçəsini göstər…
@@ -275,7 +277,7 @@ performance-limit-content-process-option = Məzmun proses limiti
 performance-limit-content-process-enabled-desc = Əlavə məzmun prosesləri çox vərəq işlətdikdə məhsuldarlığı artıra bilərlər, amma daha çox yaddaş işlədəcəklər.
 performance-limit-content-process-blocked-desc = Məzmun proseslərinin sayısının dəyişdirilməsi ancaq çox-prosesli { -brand-short-name } ilə mümkündür. <a data-l10n-name="learn-more">Çox-prosesliliyin aktiv olmasını necə yoxlayacağınızı görün</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (standart)
 
@@ -349,11 +351,8 @@ choose-bookmark =
 home-prefs-search-header =
     .label = Web Axtarış
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
-# Variables:
-#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } məsləhət görür
 
@@ -376,6 +375,8 @@ home-prefs-highlights-option-saved-to-pocket =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Hissələr
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -421,7 +422,7 @@ search-find-more-link = Daha çox axtarış mühərriyi tap
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Təkrarlanan Açar Söz
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Hazırda “{ $name }” tərəfindən istifadə olunan bir açar söz seçdiniz. Lütfən başqa birini seçin.
 search-keyword-warning-bookmark = Hazırda bir əlfəcin tərəfindən istifadə olunan açar söz seçdiniz. Lütfən başqa birini seçin.
 
@@ -540,6 +541,7 @@ privacy-header = Səyahər Məxfiliyi
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = Hesablar və Parollar
     .searchkeywords = { -lockwise-brand-short-name }
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Daxil olma və parolları saxlamaq üçün soruş
     .accesskey = r
@@ -552,6 +554,9 @@ forms-exceptions =
 forms-saved-logins =
     .label = Saxlanmış Daxil olmalar…
     .accesskey = D
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Ana parolu dəyişdir…
     .accesskey = d
@@ -609,8 +614,8 @@ history-clear-button =
 sitedata-header = Çərəzlər və Sayt Məlumatları
 sitedata-total-size-calculating = Sayt məlumatları və keş ölçüsü hesablanır…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Saxlanılan çərəz, sayt məlumatları və keşləriniz hazırda { $value } { $unit } disk işlədirlər.
 sitedata-learn-more = Ətraflı öyrən
 sitedata-delete-on-close =

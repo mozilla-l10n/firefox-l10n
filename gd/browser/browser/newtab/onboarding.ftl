@@ -219,7 +219,9 @@ mr2022-onboarding-set-default-subtitle = Cleachd brabhsair aig a bheil cùl-taic
 mr2022-onboarding-get-started-primary-subtitle = Chaidh an tionndadh as ùire againn a dhealbhadh is tusa aig a theis-meadhan is nì seo nas fhasa dhut e ceithir-thimcheall an lìn a shiubhal na a-riamh roimhe. Tha e loma-làn de rudan a chòrdas riut fìor-mhath nar beachd-ne.
 mr2022-onboarding-get-started-primary-button-label = Suidhich e ann am priobadh na sùla
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Suidheachadh cho luatha ri seabhag
 mr2022-onboarding-import-subtitle = Suidhiche { -brand-short-name } mar a lùigeas tu fhèin e. Cuir ris na comharran-lìn, faclan-faire ’s mòran a bharrachd on t-seann-bhrabhsair agad.
@@ -331,6 +333,9 @@ onboarding-device-migration-subtitle = Clàraich a-steach dhan { -fxaccount-bran
 onboarding-device-migration-subtitle2 = Clàraich a-steach dhan chunntas agad is thoir leat na comharran-lìn, faclan-faire agus an eachdraidh agad gun uidheam ùr.
 onboarding-device-migration-primary-button-label = Clàraich a-steach
 
+## Add-ons Picker screen
+
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen
@@ -341,4 +346,16 @@ onboarding-mobile-download-security-and-privacy-title = Cùm rudan crioptaichte 
 onboarding-mobile-download-security-and-privacy-subtitle = Nuair a bhios an sioncronachadh deiseil, crioptaichidh { -brand-short-name } na faclan-faire, comharran-lìn is mòran a bharrachd dhut. Agus gheibh thu cothrom orra o na h-uidheaman eile agad.
 
 ## New user time and familiarity survey strings
+
+
+## UI strings for the sidebar and vertical tabs
+
+
+## New user onboarding checklist
+
+
+## Tab Groups feature onboarding strings
+
+
+## Multi Profiles feature onboarding messages
 

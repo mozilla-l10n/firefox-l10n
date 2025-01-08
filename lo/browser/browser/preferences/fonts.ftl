@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = ແບບຕົວຫນັງສື
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = ແບບຕົວຫນັງສືສຳລັບ
     .accesskey = F
-
 fonts-langgroup-arabic =
     .label = ພາສາອາຣັບ
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = ຄວາມກວ້າງຕາມສັດສ່ວນ
     .accesskey = P
-
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans-serif
-
 fonts-proportional-size = ຂະຫນາດ
     .accesskey = ຂ
-
 fonts-serif = Serif
     .accesskey = S
-
 fonts-sans-serif = Sans-serif
     .accesskey = n
-
 fonts-monospace = ຄວາມກວ້າງຄົງທີ່
     .accesskey = M
-
 fonts-monospace-size = ຂະຫນາດ
     .accesskey = ຂ
-
 fonts-minsize = ຂະຫນາດແບບຕົວຫນັງສືຕ່ຳສຸດ
     .accesskey = o
-
 fonts-minsize-none =
     .label = ບໍ່ມີ
-
 fonts-allow-own =
     .label = ອະນຸຍາດໃຫ້ຫນ້າຕ່າງໆເລືອກໃຊ້ແບບຕົວຫນັງສືຂອງຕົວເອງ, ແທນທີ່ຈະເປັນທີ່ທ່ານເລືອກໄວ້ດ້ານເທິງ
     .accesskey = A
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

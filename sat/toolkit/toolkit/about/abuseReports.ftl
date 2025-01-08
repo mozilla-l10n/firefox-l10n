@@ -18,8 +18,6 @@ abuse-report-addon-authored-by = ᱚᱱᱚᱞᱤᱭᱟᱹ <a data-l10n-name="aut
 abuse-report-learnmore =
     ᱪᱮᱫ ᱵᱟᱝ ᱴᱷᱟᱹᱠᱟᱹ ᱫᱟᱲᱮᱭᱟᱜ ᱠᱟᱱᱟ ᱪᱮᱫᱮᱢ ᱵᱟᱪᱷᱟᱣ ᱟ?
     <a data-l10n-name="learnmore-link">ᱨᱤᱯᱚᱴᱤᱝ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱟᱨ ᱛᱷᱤᱢ ᱠᱚ ᱵᱟᱵᱚᱫᱽ ᱵᱟᱹᱲᱛᱤ ᱵᱟᱰᱟᱭ ᱢᱮ</a>
-abuse-report-learnmore-intro = ᱪᱮᱫ ᱵᱟᱝ ᱴᱷᱟᱹᱠᱟᱹ ᱫᱟᱲᱮᱭᱟᱜ ᱠᱟᱱᱟ ᱪᱮᱫᱮᱢ ᱵᱟᱪᱷᱟᱣ ᱟ?
-abuse-report-learnmore-link = ᱨᱤᱯᱚᱴᱤᱝ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱟᱨ ᱛᱷᱤᱢ ᱠᱚ ᱵᱟᱵᱚᱫᱽ ᱵᱟᱹᱲᱛᱤ ᱵᱟᱰᱟᱭ ᱢᱮ
 abuse-report-submit-description = ᱮᱴᱠᱮᱴᱚᱬᱮ ᱵᱟᱛᱟᱣ ᱢᱮ (ᱩᱱᱟᱹᱜ ᱵᱟᱝ ᱞᱟᱹᱠᱛᱤ)
 abuse-report-textarea =
     .placeholder = ᱟᱢᱟᱜ ᱮᱴᱠᱮᱴᱚᱬᱮ ᱵᱩᱡᱷᱟᱹᱣ ᱞᱟᱹᱜᱤᱫ ᱟᱞᱮ ᱫᱚ ᱯᱩᱥᱴᱟᱹᱣ ᱥᱟᱹᱦᱤᱡ ᱞᱟᱹᱭᱟᱞᱮᱢ ᱾ ᱡᱟᱦᱟᱸ ᱢᱩᱥᱠᱤᱞᱮᱢ ᱵᱩᱡᱷᱟᱹᱣᱮᱫᱟ ᱞᱟᱹᱭᱢᱮ ᱾ ᱟᱢᱟᱜ ᱣᱮᱵᱽ  ᱜᱚᱲᱚ ᱮᱢ ᱞᱟᱹᱜᱤᱫ ᱟᱹᱰᱤ ᱥᱟᱨᱦᱟᱣ ᱾
@@ -48,24 +46,6 @@ abuse-report-messagebar-removed-sitepermission = ᱠᱷᱚᱵᱚᱨ ᱡᱚᱢᱟ
 abuse-report-messagebar-removed-theme = ᱠᱷᱚᱵᱚᱨ ᱡᱚᱢᱟ ᱞᱟᱹᱜᱤᱫ ᱟᱹᱰᱤ ᱥᱟᱨᱦᱟᱣ ᱾ ᱟᱢ ᱫᱚ <span data-l10n-name="addon-name">{ $addon-name }</span> ᱛᱷᱤᱢ ᱚᱪᱚᱜᱽ ᱠᱮᱫᱼᱟ ᱾
 abuse-report-messagebar-error = <span data-l10n-name="addon-name">{ $addon-name }</span> ᱞᱟᱹᱜᱤᱫ ᱠᱷᱚᱵᱚᱨ ᱵᱷᱮᱡᱟ ᱨᱮ ᱵᱷᱩᱞ ᱦᱩᱭᱮᱱᱟ ᱾
 abuse-report-messagebar-error-recent-submit = <span data-l10n-name="addon-name">{ $addon-name }</span> ᱞᱟᱹᱜᱤᱫ ᱠᱷᱚᱵᱚᱨ ᱫᱚ ᱵᱷᱮᱡᱟ ᱵᱟᱭ ᱜᱟᱱ ᱞᱮᱱᱟ ᱪᱮᱫᱟᱜ ᱥᱮ ᱮᱴᱟᱜ ᱠᱷᱚᱵᱚᱨ ᱱᱮᱱᱮ ᱜᱚ ᱡᱚᱢᱟ ᱠᱟᱱᱟ ᱾
-abuse-report-messagebar-aborted2 =
-    .message = { $addon-name } ᱞᱟᱹᱜᱤᱫ ᱠᱷᱚᱵᱚᱨ ᱵᱷᱮᱡᱟᱜ ᱵᱟᱫ ᱮᱱᱟ ᱾
-abuse-report-messagebar-submitting2 =
-    .message = { $addon-name } ᱞᱟᱹᱜᱤᱫ ᱠᱷᱚᱵᱚᱨ ᱵᱷᱮᱡᱟᱜ ᱠᱟᱱᱟ ᱾
-abuse-report-messagebar-submitted2 =
-    .message = ᱠᱷᱚᱵᱚᱨ ᱡᱚᱢᱟ ᱞᱟᱹᱜᱤᱫ ᱟᱹᱰᱤ ᱥᱟᱨᱦᱟᱣ ᱾ ᱟᱢ ᱫᱚ ᱪᱮᱫ { $addon-name } ᱢᱮᱴᱟᱣ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ ᱥᱮ ?
-abuse-report-messagebar-submitted-noremove2 =
-    .message = ᱢᱤᱫᱴᱟᱝ ᱠᱷᱚᱵᱚᱨ ᱡᱚᱢᱟ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱨᱦᱟᱣ ᱜᱮ ᱾
-abuse-report-messagebar-removed-extension2 =
-    .message = ᱠᱷᱚᱵᱚᱨ ᱡᱚᱢᱟ ᱞᱟᱹᱜᱤᱫ ᱟᱹᱰᱤ ᱥᱟᱨᱦᱟᱣ ᱾ ᱟᱢ ᱫᱚ { $addon-name } ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱮᱢ ᱢᱮᱴᱟᱣ ᱚᱪᱚᱜᱽ ᱠᱮᱫᱼᱟ ᱾
-abuse-report-messagebar-removed-sitepermission2 =
-    .message = ᱠᱷᱚᱵᱚᱨ ᱡᱚᱢᱟ ᱞᱟᱹᱜᱤᱫ ᱟᱹᱰᱤ ᱥᱟᱨᱦᱟᱣ ᱾ ᱟᱢ ᱫᱚ { $addon-name } ᱨᱮ ᱥᱟᱭᱤᱴ ᱦᱚᱠ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱮᱢ ᱚᱪᱚᱜᱽ ᱠᱮᱫᱼᱟ ᱾
-abuse-report-messagebar-removed-theme2 =
-    .message = ᱠᱷᱚᱵᱚᱨ ᱡᱚᱢᱟ ᱞᱟᱹᱜᱤᱫ ᱟᱹᱰᱤ ᱥᱟᱨᱦᱟᱣ ᱾ ᱟᱢ ᱫᱚ { $addon-name } ᱛᱷᱤᱢ ᱚᱪᱚᱜᱽ ᱠᱮᱫᱼᱟ ᱾
-abuse-report-messagebar-error2 =
-    .message = { $addon-name } ᱞᱟᱹᱜᱤᱫ ᱠᱷᱚᱵᱚᱨ ᱵᱷᱮᱡᱟ ᱨᱮ ᱵᱷᱩᱞ ᱦᱩᱭᱮᱱᱟ ᱾
-abuse-report-messagebar-error-recent-submit2 =
-    .message = { $addon-name } ᱞᱟᱹᱜᱤᱫ ᱠᱷᱚᱵᱚᱨ ᱫᱚ ᱵᱷᱮᱡᱟ ᱵᱟᱭ ᱜᱟᱱ ᱞᱮᱱᱟ ᱪᱮᱫᱟᱜ ᱥᱮ ᱮᱴᱟᱜ ᱠᱷᱚᱵᱚᱨ ᱱᱮᱱᱮ ᱜᱚ ᱡᱚᱢᱟ ᱠᱟᱱᱟ ᱾
 
 ## Message bars actions.
 

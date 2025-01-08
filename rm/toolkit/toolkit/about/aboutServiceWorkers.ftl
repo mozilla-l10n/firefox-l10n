@@ -9,7 +9,6 @@ about-service-workers-title = Davart Service Workers
 about-service-workers-main-title = Service Workers registrads
 about-service-workers-warning-not-enabled = Service Workers n'èn betg activads.
 about-service-workers-warning-no-service-workers = Nagins Service Workers registrads.
-
 # The original title of service workers' information
 #
 # Variables:
@@ -29,12 +28,8 @@ active-cache-name = <strong>Num dal cache activ:</strong> { $name }
 waiting-cache-name = <strong>Num dal cache che spetga:</strong> { $name }
 push-end-point-waiting = <strong>Endpoint da Push:</strong> { waiting }
 push-end-point-result = <strong>Endpoint da Push:</strong> { $name }
-
 # This term is used as a button label (verb, not noun).
 update-button = Actualisar
-
 unregister-button = De-registrar
-
 unregister-error = Betg reussì da de-registrar quest Service Worker.
-
 waiting = Spetgar…

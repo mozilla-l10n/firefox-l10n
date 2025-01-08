@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = Aithrisiche nan tuislidhean
-crashreporter-crash-message = Bha duilgheadas aig { -brand-short-name } is thuislich e.
 crashreporter-plea = 'S urrainn dhut aithisg tuislidh a chur thugainn gus ar cuideachadh le rannsachadh is càradh an duilgheadais.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Mion-fhiosrachadh: { $details }

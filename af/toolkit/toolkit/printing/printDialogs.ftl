@@ -103,7 +103,6 @@ print-window =
     .title = Druk
 print-complete =
     .value = Druktaak is afgehandel.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

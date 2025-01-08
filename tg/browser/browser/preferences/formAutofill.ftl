@@ -39,8 +39,6 @@ address-capture-manage-address-button =
     .label = Танзимоти нишонӣ
 address-capture-learn-more-button =
     .label = Маълумоти бештар
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Илова кардани нишонии нав
 address-capture-open-menu-button =
     .aria-label = Кушодани меню
 address-capture-edit-address-button =
@@ -49,10 +47,10 @@ address-capture-edit-address-button =
 autofill-add-address-title = Илова кардани нишонӣ
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Таҳрир кардани нишонӣ
-autofill-address-name = Ном
 autofill-address-given-name = Ном
 autofill-address-additional-name = Номи падар
 autofill-address-family-name = Насаб
+autofill-address-name = Ном
 autofill-address-organization = Ташкилот
 autofill-address-street-address = Нишонии кӯча
 autofill-address-street = Нишонии кӯча
@@ -108,9 +106,8 @@ autofill-address-eircode = Рамзи почта
 
 ##
 
-
-##
-
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Илова кардани нишонии нав
 autofill-address-country = Кишвар ё минтақа
 autofill-address-country-only = Кишвар
 autofill-address-tel = Телефон
@@ -122,11 +119,6 @@ autofill-country-warning-message = Айни ҳол, пуркунии шакл б
 autofill-add-new-card-title = Илова кардани корти кредитии нав
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Таҳрир кардани корти кредитӣ
-autofill-message-tooltip = Дидани паём дар бораи пуркунии худкор
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-card-title = Илова кардани корт
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title2 = Таҳрир кардани корт
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -135,6 +127,11 @@ autofill-edit-card-password-prompt =
         [windows] «{ -brand-short-name }» кӯшиш мекунад, ки маълумоти корти кредитиро нишон диҳад. Дастрасиро ба ин ҳисоби «Windows» дар зер тасдиқ намоед.
        *[other] «{ -brand-short-name }» кӯшиш мекунад, ки маълумоти корти кредитиро нишон диҳад.
     }
+autofill-message-tooltip = Дидани паём дар бораи пуркунии худкор
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Илова кардани корт
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Таҳрир кардани корт
 autofill-card-number = Рақами корт
 autofill-card-invalid-number = Лутфан, рақами корти дурустро ворид намоед
 autofill-card-name-on-card = Ном дар корт

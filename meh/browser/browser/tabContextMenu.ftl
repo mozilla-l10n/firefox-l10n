@@ -69,4 +69,3 @@ tab-context-move-tabs =
            *[other] Skana sukua
         }
     .accesskey = v
-

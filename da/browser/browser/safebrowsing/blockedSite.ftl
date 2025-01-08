@@ -10,6 +10,8 @@ safeb-blocked-phishing-page-short-desc = { -brand-short-name } blokerede denne s
 safeb-blocked-malware-page-short-desc = { -brand-short-name } blokerede denne side, fordi den måske vil forsøge at installere ondsindet software, der kan stjæle eller slette personlig information på din computer.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } blokerede denne side, fordi den måske vil forsøge at snyde dig til at installere programmer, der gør dine oplevelse op nettet dårligere (fx ved at ændre din startside eller vise ekstra reklamer på websteder, du besøger).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } blokerede denne side, fordi den måske vil forsøge at installere skadelig software, der stjæler eller sletter dine informationer (eksempelvis billeder, adgangskoder, beskeder eller oplysninger om betalingskort).
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Rådgivning leveres af <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>
 safeb-palm-accept-label = Gå tilbage
 safeb-palm-see-details-label = Se detaljer

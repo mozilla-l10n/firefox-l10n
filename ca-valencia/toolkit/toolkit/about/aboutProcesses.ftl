@@ -4,7 +4,6 @@
 
 # Page title
 about-processes-title = Gestor de processos
-
 # The Actions column
 about-processes-column-action =
     .title = Accions
@@ -38,6 +37,7 @@ about-processes-gpu-process = GPU ({ $pid })
 
 
 ## Utility process actor names
+
 
 ## Displaying CPU (percentage and total)
 ## Variables:

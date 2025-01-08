@@ -8,7 +8,6 @@ screenshots-save-visible-button = Daɗndu peeñɗo
 screenshots-save-page-button = Daɗndu timmal hello
 screenshots-download-button = Awto
 screenshots-copy-button = Natto
-
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
@@ -16,26 +15,24 @@ screenshots-meta-key =
     }
 screenshots-notification-link-copied-title = Jokkol hoɓɓitaama
 screenshots-notification-link-copied-details = Jokkol ngol ƴettu-ɗaa ngol konattanoongol e moggirgel. Ñoƴƴu e { screenshots-meta-key }-V ngam ɗakkude.
-
 screenshots-notification-image-copied-title = Natto ngoo nattaama
 screenshots-notification-image-copied-details = Natto maa nattaama e ɗakkitorde ndee. Ñoƴƴu { screenshots-meta-key }-V ngam ɗakkude.
-
 screenshots-request-error-title = Nattii gollaade.
 screenshots-request-error-details = Ay haame! Min mbaawaa daɗndude nattal maa. Ennditoy yeeso.
-
 screenshots-connection-error-title = Min mbaawaa seŋaade e nattanɗe maa yaynirde.
 screenshots-connection-error-details = Tiiɗno ƴeewto ceŋol maa enternet. So a waawii seŋaade e enternet, tawata ko ina waɗi caɗeele e { -screenshots-brand-name } saworde nde.
-
 screenshots-login-error-details = Min mbaawaa daɗndude natal maa sabu ina waɗii caɗeele e { -screenshots-brand-name } sarworde ndee.Tiiɗno etoo kadi so ɓooyii.
-
 screenshots-unshootable-page-error-title = Min mbaawaa nattaade yaynirde ngoo hello.
 screenshots-unshootable-page-error-details = Ɗum wonaa hello geese aadoraango, ɗum tagi min mbaawaa nattaade ngo e yaynirde.
-
 screenshots-empty-selection-error-title = Ko cuɓi-ɗaa koo ine famɗi no feewi
-
 screenshots-private-window-error-title = { -screenshots-brand-name }daaƴaama e mbaydi Banngogol Suturo
 screenshots-private-window-error-details = Ay haame e saɗeende ndee. E min ngolloo e gollorgel wonande jame paaɗe.
-
 screenshots-generic-error-title = Woo! { -screenshots-brand-name } paanii
 screenshots-generic-error-details = Min njenanaaka ko kewi koo. Aɗa waawi ennditde walla nattoro-ɗaa yaynirde hello woɗngo?
+
+## The below strings are used to capture keydown events so the strings should
+## not be changed unless the keyboard layout in the locale requires it.
+
+
+##
 

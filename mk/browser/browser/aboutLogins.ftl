@@ -4,7 +4,6 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Најави и лозинки
-
 fxaccounts-sign-in-text = Добијте ги вашите лозинки на други уреди
 fxaccounts-sign-in-sync-button = Пријавете се за синхронизација
 fxaccounts-avatar-button =
@@ -30,6 +29,8 @@ about-logins-menu-menuitem-help = Помош
 
 login-list =
     .aria-label = Најавувања што одговараат на барањето за пребарување
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count } најавување
@@ -99,6 +100,7 @@ login-item-cancel-button = Откажи
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+
 ## OS Authentication dialog
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }
@@ -112,19 +114,16 @@ about-logins-edit-login-os-auth-dialog-message-win = За да го уредит
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = уредувајте ја зачуваната најава
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = За да ја видите вашата лозинка, внесете ги податоците за најава на Windows. Ова помага да се заштити безбедноста на вашите сметки.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = откријте ја зачуваната лозинка
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = За да ја копирате вашата лозинка, внесете ги податоците за најава на Windows. Ова помага да се заштити безбедноста на вашите сметки.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = копирајте ја зачуваната лозинка
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = За да го извезете вашето најавување, внесете ги вашите ингеренции за најавување на Windows. Ова помага да се заштити безбедноста на вашите сметки.
 # This message can be seen when attempting to export a password in about:logins
@@ -143,7 +142,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Откажи
 confirmation-dialog-dismiss-button =
     .title = Откажи
-
 about-logins-confirm-remove-dialog-title = Да се отстрани ова најавување?
 confirm-delete-dialog-message = Ова дејство не може да се врати.
 about-logins-confirm-remove-dialog-confirm-button = Отстрани
@@ -157,14 +155,12 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] Отстрани
        *[other] Отстрани ги сите
     }
-
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Да, отстранете го ова најавување
         [one] Да, отстранете го ова најавување
        *[other] Да, отстранете ги овие најавувања
     }
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Да се отстрани { $count } најавување?
@@ -176,7 +172,6 @@ about-logins-confirm-remove-all-dialog-message =
         [one] Ова ќе го отстрани најавувањето што сте го зачувале на { -brand-short-name } и сите предупредувања за прекршување што се појавуваат овде. Нема да може да го вратите ова дејство.
        *[other] Ова ќе ги отстрани најавувањата што сте ги зачувале на { -brand-short-name } и сите предупредувања за прекршување што се појавуваат овде. Нема да може да го вратите ова дејство.
     }
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Да се отстрани { $count } најавување од сите уреди?
@@ -194,10 +189,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Извезете најави и лозинки
 about-logins-confirm-export-dialog-message = Вашите лозинки ќе се зачуваат како читлив текст (на пр., BadP@ssw0rd), така што секој што може да ја отвори извезената датотека може да ги прегледа.
 about-logins-confirm-export-dialog-confirm-button = Извези...
-
 about-logins-alert-import-title = Увозот заврши
 about-logins-alert-import-message = Погледнете го деталното резиме за увоз
-
 confirm-discard-changes-dialog-title = Отфрли незачувани измени?
 confirm-discard-changes-dialog-message = Сите незачувани промени ќе бидат изгубени.
 confirm-discard-changes-dialog-confirm-button = Отфрли
@@ -227,7 +220,6 @@ about-logins-vulnerable-alert-learn-more-link = Дознајте повеќе
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Веќе постои запис за { $loginTitle } со тоа корисничко име. <a data-l10n-name="duplicate-link">Одете на постоечки запис?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Настана грешка при обидот да се зачува оваа лозинка.
 
@@ -277,13 +269,11 @@ about-logins-import-dialog-items-added =
         [one] <span>Додадено е ново најавување:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Додадени се нови најавувања:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-modified =
     { $count ->
         [one] <span>Ажурирана е постоечка најава:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Ажурирани се постоечките најави:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-no-change =
     { $count ->
         [one] <span>Најдена е дупликат најава:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не е увезена)</span >
@@ -295,7 +285,6 @@ about-logins-import-dialog-items-error =
        *[other] <span>Грешки:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не е увезена)</span>
     }
 about-logins-import-dialog-done = Готово
-
 about-logins-import-dialog-error-title = Грешка во увозот
 about-logins-import-dialog-error-conflicting-values-title = Повеќе конфликтни вредности за едно најавување
 about-logins-import-dialog-error-conflicting-values-description = На пример: повеќе кориснички имиња, лозинки, мрежни адреси итн. за едно најавување.
@@ -309,10 +298,8 @@ about-logins-import-dialog-error-no-logins-imported = Не се увезени �
 about-logins-import-dialog-error-learn-more = Дознајте повеќе
 about-logins-import-dialog-error-try-import-again = Обидете се повторно да увезете…
 about-logins-import-dialog-error-cancel = Откажи
-
 about-logins-import-report-title = Резиме за увоз
 about-logins-import-report-description = Најави и лозинки увезени во { -brand-short-name }.
-
 #
 # Variables:
 #  $number (number) - The number of the row

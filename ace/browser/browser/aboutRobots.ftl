@@ -25,5 +25,6 @@ error-long-desc4 = Robot kulét jih beusoe meubling-bling kön keu ta peu reulö
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = Awaknyan na rencana.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = Ci Lom
     .label2 = Bèk teugön tombol nyoe lé.

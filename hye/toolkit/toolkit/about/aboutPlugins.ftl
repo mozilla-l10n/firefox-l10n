@@ -6,8 +6,6 @@ title-label = Ընդլայնիչների մասին
 installed-plugins-label = Տեղադրուած ընդլայնիչներ
 no-plugins-are-installed-label = Չկա որեւէ ակտիւ ընդլայնիչ
 deprecation-description = Ինչ-որ բան բացակայու՞մ է: Որոշ բաղադրիչներ այլեւս չեն աջակցուում: <a data-l10n-name="deprecation-link">Իմանալ աւելին:</a>
-deprecation-description2 =
-    .message = Ինչ-որ բան բացակայու՞մ է: Որոշ բաղադրիչներ այլեւս չեն աջակցուում:
 
 ## The information of plugins
 ##

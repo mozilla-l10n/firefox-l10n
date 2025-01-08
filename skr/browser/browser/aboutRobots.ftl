@@ -25,5 +25,6 @@ error-long-desc4 = روپوٹ وِچ چمکدار دھاتی پوسٹرز ہون
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = تے انہاں دے کول ہک منصوبہ ہے۔
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = ولا کوشش کرو
     .label2 = برائے مہربانی دوبارہ ایں بٹن کوں نہ دٻاؤ

@@ -5,49 +5,37 @@
 permissions-window2 =
     .title = ករណី​លើកលែង
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = អាសយដ្ឋាន​គេហទំព័រ
     .accesskey = d
-
 permissions-block =
     .label = ទប់ស្កាត់
     .accesskey = ទ
-
 permissions-session =
     .label = អនុញ្ញាត​សម្រាប់​សម័យ
     .accesskey = ត
-
 permissions-allow =
     .label = អនុញ្ញាត
     .accesskey = ត
-
 permissions-site-name =
     .label = គេហទំព័រ
-
 permissions-status =
     .label = ស្ថានភាព
-
 permissions-remove =
     .label = លុប​គេហទំព័រ
     .accesskey = R
-
 permissions-remove-all =
     .label = លុប​គេហទំព័រ​ទាំងអស់
     .accesskey = e
-
 permissions-searchbox =
     .placeholder = ស្វែងរក​គេហទំព័រ
-
 permissions-capabilities-allow =
     .label = អនុញ្ញាត
 permissions-capabilities-block =
     .label = ទប់ស្កាត់
 permissions-capabilities-prompt =
     .label = សួរ​ជានិច្ច
-
 permissions-capabilities-listitem-allow =
     .value = អនុញ្ញាត
 permissions-capabilities-listitem-block =
@@ -86,6 +74,9 @@ permissions-exceptions-saved-logins-window2 =
     .title = ការ​លើកលែង - ការ​ចូល​បាន​រក្សាទុក
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = ការចូលសម្រាប់គេហទំព័រខាងក្រោមនឹងមិនត្រូវបានរក្សាទុកទេ
+
+## Exceptions - Saved Passwords
+
 
 ## Exceptions - Add-ons
 

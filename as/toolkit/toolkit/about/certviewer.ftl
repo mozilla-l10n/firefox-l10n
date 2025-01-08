@@ -50,7 +50,6 @@ certificate-viewer-issuer-name = জাৰিকৰ্তাৰ নাম
 certificate-viewer-validity = বৈধতা
 certificate-viewer-fingerprints = আঙুলিৰ চাপ
 certificate-viewer-certificate-policies = প্ৰমাণপত্ৰ নীতিৱলী
-
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = ডাউনল'ড
@@ -72,6 +71,7 @@ certificate-viewer-download-pem-chain = PEM (chain)
     .download = { $fileName }-chain.pem
 
 ##
+
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 

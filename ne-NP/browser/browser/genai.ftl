@@ -29,3 +29,13 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = { $provider } सँग सोध्नुहोस्…
+
+## Chatbot header
+
+
+## Chatbot onboarding
+
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+

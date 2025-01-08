@@ -4,7 +4,11 @@
 
 url-classifier-search-title = Chirca
 url-classifier-search-result-title = Resurtados
+# Variables:
+#   $uri (string) - URI of blocked page
 url-classifier-search-result-uri = URI: { $uri }
+# Variables:
+#   $list (string) - List of tables where the page is blocked
 url-classifier-search-result-list = Lista de tabellas: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = URL non vàlidu
@@ -14,7 +18,6 @@ url-classifier-cache-title = Cache
 url-classifier-cache-clear-btn = Isbòida
 url-classifier-cache-table-name = Nòmine de sa tabella
 url-classifier-cache-show-entries = Ammustra is detàllios
-
 url-classifier-enabled = Ativadu
 url-classifier-disabled = Disativadu
 

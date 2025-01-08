@@ -3,12 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Jauna cilne
-
 tabbrowser-menuitem-close-tab =
     .label = Aiztaiseit cilni
 tabbrowser-menuitem-close =
     .label = Aiztaiseit
-
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
@@ -32,6 +30,10 @@ tabbrowser-confirm-close-tabs-button = Aiztaiseit cilnes
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
 
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+
 ## Confirmation dialog when opening multiple tabs simultaneously
 
 tabbrowser-confirm-open-multiple-tabs-title = Apstyprynoj attaiseišonu
@@ -45,6 +47,9 @@ tabbrowser-confirm-open-multiple-tabs-button = Attaiseit cilnes
 tabbrowser-confirm-open-multiple-tabs-checkbox = Pabreidynōt mani, kod vairōku cilņu attaiseišona var stypri īebremzēt { -brand-short-name }
 
 ## Confirmation dialog for enabling caret browsing
+
+
+## Confirmation dialog for closing all duplicate tabs
 
 
 ##
@@ -73,4 +78,11 @@ tabbrowser-ctrl-tab-list-all-tabs =
         }
 
 ## Tab manager menu buttons
+
+
+## Tab Groups
+
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 

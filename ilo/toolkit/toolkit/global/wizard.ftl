@@ -5,11 +5,9 @@
 wizard-linux-button-back =
     .label = Agsanud
     .accesskey = B
-
 wizard-macos-button-next =
     .label = Ipatuloy
     .accesskey = C
-
 wizard-macos-button-cancel =
     .label = Ibabawi
 wizard-linux-button-cancel =

@@ -42,7 +42,7 @@ about-telemetry-fetch-stack-symbols = Бозёбии номҳои вазифаҳ
 about-telemetry-hide-stack-symbols = Намоиш додани маълумоти коркарднашудаи даста
 # Selects the correct release version
 # Variables:
-#   $channel (String): represents the corresponding release data string
+#   $channel (string) - Represents the corresponding release data string
 about-telemetry-data-type =
     { $channel ->
         [release] санаи барориш
@@ -50,7 +50,7 @@ about-telemetry-data-type =
     }
 # Selects the correct upload string
 # Variables:
-#   $uploadcase (String): represents a corresponding upload string
+#   $uploadcase (string) - Represents a corresponding upload string
 about-telemetry-upload-type =
     { $uploadcase ->
         [enabled] фаъол
@@ -58,46 +58,46 @@ about-telemetry-upload-type =
     }
 # Example Output: 1 sample, average = 0, sum = 0
 # Variables:
-#   $sampleCount (Integer): amount of histogram samples
-#   $prettyAverage (Integer): average of histogram samples
-#   $sum (Integer): sum of histogram samples
+#   $sampleCount (number) - Amount of histogram samples
+#   $prettyAverage (number) - Average of histogram samples
+#   $sum (number) - Sum of histogram samples
 about-telemetry-histogram-stats =
     { $sampleCount ->
         [one] { $sampleCount } намуна, миёна = { $prettyAverage }, ҷамъбаст = { $sum }
        *[other] { $sampleCount } намуна, миёна = { $prettyAverage }, ҷамъбаст = { $sum }
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Ин саҳифа маълумотро дар бораи самаранокии кор, сахтафзор, истифодабарӣ ва танзимоте, ки аз тарафи Санҷиши дурдаст ҷамъ шудааст, нишон медиҳад. Ин маълумот ба «{ $telemetryServerOwner }» барои такмил додани «{ -brand-full-name }» фиристода мешавад.
 about-telemetry-settings-explanation = Санҷиши дурдаст барои ҷамъкунии { about-telemetry-data-type } ва боркунии <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a> танзим шудааст.
 # Variables:
-#   $name (String): ping name, e.g. “saved-session”
-#   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
+#   $name (string) - Ping name, e.g. “saved-session”
+#   $timestamp (string) - Ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Ҳар як қисми иттилооти ҷамъшуда ба воситаи “<a data-l10n-name="ping-link">пингҳо</a>” фиристода мешавад. Шумо ба пинг бо номи «{ $name }» аз санаи { $timestamp } дида истодаед.
 about-telemetry-data-details-current = Ҳар як қисми иттилооти ҷамъшуда ба воситаи “<a data-l10n-name="ping-link">пингҳо</a>“ фиристода мешавад. Шумо ба пинги ҷорӣ дида истодаед.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $selectedTitle (String): the section name from the structure of the ping.
+#   $selectedTitle (string) - The section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = Ҷустуҷӯ дар { $selectedTitle }
 about-telemetry-filter-all-placeholder =
     .placeholder = Ҷустуҷӯ дар ҳамаи қисматҳо
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-results-for-search = Натиҷаҳо барои «{ $searchTerms }»
 # More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $sectionName (String): the section name from the structure of the ping.
-#   $currentSearchText (String): the current text in the search input
+#   $sectionName (string) - The section name from the structure of the ping.
+#   $currentSearchText (string) - The current text in the search input
 about-telemetry-no-search-results = Бубахшед! Ягон натиҷа дар { $sectionName } барои «{ $currentSearchText }» ёфт нашуд
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-no-search-results-all = Бубахшед! Ягон натиҷа дар ягон қисмат барои «{ $searchTerms }» ёфт нашуд
 # This message is displayed when a section is empty.
 # Variables:
-#   $sectionName (String): is replaced by the section name.
+#   $sectionName (string) - Is replaced by the section name.
 about-telemetry-no-data-to-display = Бубахшед! Айни ҳол ягон маълумот дар «{ $sectionName }» дастрас нест
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = маълумоти ҷорӣ
@@ -115,13 +115,13 @@ about-telemetry-slow-sql-statement = Дастур
 about-telemetry-addon-table-id = Муайянкунандаи ҷузъи иловагӣ
 about-telemetry-addon-table-details = Тафсилот
 # Variables:
-#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+#   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = Таъминкунандаи { $addonProvider }
 about-telemetry-keys-header = Хусусият
 about-telemetry-names-header = Ном
 about-telemetry-values-header = Қимат
 # Variables:
-#   $lateWriteCount (Integer): the number of the late writes
+#   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = Сабти дер #{ $lateWriteCount }
 about-telemetry-stack-title = Даста:
 about-telemetry-memory-map-title = Харитаи ҳофиза:
@@ -132,5 +132,5 @@ about-telemetry-method-header = усул
 about-telemetry-object-header = объект
 about-telemetry-extra-header = иловагӣ
 # Variables:
-#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+#  $process (string) - Type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = Раванди { $process }

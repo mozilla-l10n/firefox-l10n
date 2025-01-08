@@ -3,22 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # Variables:
-# $hostname (String) - Hostname of the website with cert error.
+#   $hostname (string) - Hostname of the website with cert error.
 cert-error-intro = Inar-aramat ti { $hostname } ti di-maipateg a sertipiko ti seguridad.
-
 cert-error-trust-untrusted-issuer = Saan a matalkan ti sertipiko gapu ta saan a matalkan met ti sertipiko a nangiparuar.
-
 cert-error-trust-expired-issuer = Saan a matalkan ti sertipiko gapu ta nagpason ti sertipiko a nangiparuar.
-
 cert-error-trust-self-signed = Saan a matalkan daytoy a sertipiko gapu ta impirmana a mismo.
-
 cert-error-untrusted-default = Saan nga aggapu ti sertipiko iti natalkan a sipud.
 
 ## Messages used for certificate error titles
 
 connectionFailure-title = Saan a makisilpo
 deniedPortAccess-title = Nagawid daytoy a pagtaengan
-
 generic-title = Saan a matungpal ti dawat.
 netInterrupt-title = Naallawat ti panilpo
 notCached-title = Nagpaso ti Dokumento
@@ -28,3 +23,10 @@ unknownProtocolFound-title = Saan a naawat ti pagtaengan
 proxyConnectFailure-title = Pappaiden ti proxy ti panilpo
 redirectLoop-title = Saan a maitudtudo a nalaing ti panid
 unknownSocketType-title = Napettat a sungbat manipud ti serbidor
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+

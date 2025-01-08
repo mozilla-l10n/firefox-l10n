@@ -16,13 +16,13 @@ videocontrols-exitfullscreen-button =
     .aria-label = পূর্ণ পর্দা হতে প্রস্থান করুন
 videocontrols-casting-button-label =
     .aria-label = স্ক্রিনে কাস্ট করুন
+# .offlabel is processed by the video control custom element to be used
+# as a text-track label
 videocontrols-closed-caption-off =
     .offlabel = বন্ধ
-
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = ছবিতে-ছবি
-
 videocontrols-error-aborted = ভিডিও লোড করা বন্ধ হয়েছে।
 videocontrols-error-network = একটি নেটওয়ার্ক ত্রুটির কারণে ভিডিও প্লেব্যাক বাতিল হয়েছে।
 videocontrols-error-decode = ভিডিও চালানো যায়নি কারণ ফাইলটি বিকৃত হয়েছে।
@@ -30,7 +30,6 @@ videocontrols-error-src-not-supported = ভিডিও ফরম্যাট �
 videocontrols-error-no-source = সমর্থিক ফরম্যাট এবং MIME ধরণের কোন ভিডিও খুঁজে পাওয়া যায়নি।
 videocontrols-error-generic = একটি অজানা ত্রুটির কারণে ভিডিও চলানো ব্যর্থ হয়েছে ।
 videocontrols-status-picture-in-picture = এই ভিডিওটি ছবিতে-ছবি প্রক্রিয়ায় চলছে।
-
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -44,4 +43,3 @@ videocontrols-status-picture-in-picture = এই ভিডিওটি ছবি
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
-

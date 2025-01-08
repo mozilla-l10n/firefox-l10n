@@ -164,6 +164,11 @@ media-capabilities-enumerate = Enumera la base de dades
 ## Codec support table
 
 
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+
 ##
 
 intl-title = Internacionalització i localització
@@ -342,6 +347,9 @@ support-printing-clear-settings-button = Esborra la configuració d'impressió d
 support-printing-prefs-name = Nom
 support-printing-prefs-value = Valor
 
+## Remote Settings sections
+
+
 ## Normandy sections
 
 support-remote-experiments-title = Experiments remots
@@ -352,4 +360,7 @@ support-remote-features-name = Nom
 support-remote-features-status = Estat
 
 ## Pointing devices
+
+
+## Content Analysis (DLP)
 

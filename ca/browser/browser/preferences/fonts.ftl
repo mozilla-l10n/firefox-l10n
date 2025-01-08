@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Tipus de lletra
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Tipus de lletra per a
     .accesskey = T
-
 fonts-langgroup-arabic =
     .label = Àrab
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporcional
     .accesskey = P
-
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
-
 fonts-proportional-size = Mida
     .accesskey = i
-
 fonts-serif = Serif
     .accesskey = S
-
 fonts-sans-serif = Sans-serif
     .accesskey = n
-
 fonts-monospace = Monoespai
     .accesskey = M
-
 fonts-monospace-size = Mida
     .accesskey = d
-
 fonts-minsize = Mida mínima de la lletra
     .accesskey = d
-
 fonts-minsize-none =
     .label = Cap
-
 fonts-allow-own =
     .label = Permet a les pàgines triar els seus propis tipus de lletra, en lloc de la selecció anterior
     .accesskey = e
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

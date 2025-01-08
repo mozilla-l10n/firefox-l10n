@@ -86,4 +86,3 @@ tab-context-move-tabs =
            *[other] Mover les llingüetes
         }
     .accesskey = v
-

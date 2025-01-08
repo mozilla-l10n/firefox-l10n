@@ -5,6 +5,8 @@
 label-disable = غیر فعال
 label-enable = فعال کرو
 label-interventions = مداخلتاں
+# Variables:
+#   $bug (string) - Bug number
 label-more-information = ودھیک معلومات: بگ { $bug }
 label-overrides = یوزر ایجنٹ اوور رائیڈز
 text-disabled-in-about-config = ایں فیچر کوں about:config وِچ غیر فعال کر ݙتا ڳیا ہے۔

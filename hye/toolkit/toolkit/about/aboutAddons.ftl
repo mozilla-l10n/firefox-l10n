@@ -233,6 +233,8 @@ shortcuts-duplicate-warning-message2 =
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Արդէն աւգտագործուում է { $addon }-ի կողմից
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Ցոյց տալ { $numberToShow } Աւելին
@@ -395,6 +397,8 @@ addon-permissions-optional = Ընտրովի թոյլտուութիւնները �
 addon-permissions-learnmore = Իմանալ աւելին թոյլտուութիւնների մասին
 recommended-extensions-heading = Առաջարկուող ընդլայնումներ
 recommended-themes-heading = Առաջարկուող հիմնապատկերներ
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
 addon-sitepermissions-required = Տրամադրում է հետեւեալ հնարաւորութիւնները՝ <span data-l10n-name="hostname">{ $hostname }</span>
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
@@ -422,7 +426,7 @@ addon-page-options-button =
 ##   $name (string) - Name of the add-on.
 
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name }-ը եւ { -brand-short-name } { $version }-ը անհամատեղելի են:
 # Variables:
 #   $version (string) - Application version.

@@ -59,8 +59,6 @@ sidebar-description = Cyrchwch eich hanes, tabiau o ddyfeisiau eraill, estyniada
 vertical-tabs-title =
     .label = Tabiau fertigol
 vertical-tabs-description = Symudwch eich tabiau o frig y porwr i'r ochr. Mae angen i chi hefyd roi cynnig ar y bar ochr. <a data-l10n-name="connect">Rhannu adborth</a>
-experimental-features-group-browsing =
-    .label = Pori
 experimental-features-group-developer-tools =
     .label = Offer Datblygwyr
 experimental-features-group-webpage-display =

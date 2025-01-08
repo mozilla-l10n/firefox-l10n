@@ -18,7 +18,7 @@ customize-menu-add-to-overflowmenu =
 
 ## Forget Button
 
-# The forget button can be added to the toolbar or overflow menu via the cutomization menu.
+# The forget button can be added to the toolbar or overflow menu via the customization menu.
 panic-button-thankyou-msg1 = ਤੁਹਾਡੇ ਤਾਜ਼ਾ ਅਤੀਤ ਨੂੰ ਸਾਫ਼ ਕਰ ਦਿੱਤਾ ਗਿਆ ਹੈ।
 panic-button-thankyou-msg2 = ਸੁਰੱਖਿਅਤ ਬਰਾਊਜ਼ਿੰਗ!
 panic-button-thankyou-button =

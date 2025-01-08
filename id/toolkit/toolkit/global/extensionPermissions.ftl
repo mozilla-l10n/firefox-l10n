@@ -33,3 +33,7 @@ webext-perms-description-topSites = Mengakses riwayat penjelajahan
 webext-perms-description-trialML = Unduh dan jalankan model AI di perangkat Anda
 webext-perms-description-userScripts = Izinkan skrip pihak ketiga yang belum diverifikasi untuk mengakses data Anda
 webext-perms-description-webNavigation = Mengakses aktivitas peramban selama navigasi
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

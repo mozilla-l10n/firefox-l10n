@@ -177,10 +177,7 @@ about-webrtc-user-modified-configuration-show-msg = Prikaži korisnički promije
 # and then have a packet return
 about-webrtc-round-trip-time-ms = RTT ms
 
-## These are paths used for saving the about:webrtc page or log files so
-## they can be attached to bug reports.
-## Variables:
-##  $path (String) - The path to which the file is saved.
+##
 
 about-webrtc-save-page-msg = stranica spremljena u: { $path }
 about-webrtc-debug-mode-off-state-msg = trace zapisnik je moguće pronaći na: { $path }

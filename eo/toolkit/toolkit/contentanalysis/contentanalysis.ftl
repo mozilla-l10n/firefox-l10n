@@ -41,21 +41,6 @@ contentanalysis-genericresponse-message = La analizo de enhavo respondis per { $
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-block-message = Via organizo uzas programon kiuj evitas perdon de datumoj kaj ĝi blokis tiun ĉi enhavon: { $content }.
 # Variables:
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-error-message = Eraro okazis dum komunikado kun la programo kiu evitas perdon de datumoj. Transporto rifuzita por rimedo: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-unspecified-error-message = Eraro okazis dum komunikado kun { $agent }. Transporto rifuzita por la rimedo: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-no-agent-connected-message = Ne eblis konektiĝi al { $agent }. Transporto rifuzita por la rimedo: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-invalid-agent-signature-message = Malsukcesa kontrolo de subskribo de { $agent }. Transporto rifuzita por la rimedo: { $content }.
-# Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Localized text describing the content being blocked, such as "Paste denied."
 contentanalysis-unspecified-error-message-content = Eraro okazis dum komuniko kun { $agent }. { $content }

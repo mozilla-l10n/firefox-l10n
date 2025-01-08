@@ -3,5 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = Потребно е рестартирање
-
 restart-button-label = Рестартирај го { -brand-short-name }

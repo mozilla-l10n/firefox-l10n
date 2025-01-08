@@ -16,13 +16,13 @@ videocontrols-exitfullscreen-button =
     .aria-label = Tam ekrandan çıx
 videocontrols-casting-button-label =
     .aria-label = Ekrana Yayımla
+# .offlabel is processed by the video control custom element to be used
+# as a text-track label
 videocontrols-closed-caption-off =
     .offlabel = Söndürülmüş
-
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Şəkildə-Şəkil
-
 videocontrols-error-aborted = Video yükləmə dayandırıldı.
 videocontrols-error-network = Bir şəbəkə səhvi səbəbi ilə video göstərilməsi ləğv edildi.
 videocontrols-error-decode = Fayl korlandığı üçün video göstərilə bilmir.
@@ -30,7 +30,6 @@ videocontrols-error-src-not-supported = Video formatı və ya MIME formatı dəs
 videocontrols-error-no-source = Dəstəklənən formatlarda və ya MIME formatlarında video tapılmadı.
 videocontrols-error-generic = Naməlum bir səhv səbəbi ilə video göstərilməsi ləğv edildi.
 videocontrols-status-picture-in-picture = Video Şəkildə-Şəkil modunda oynadılır.
-
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -44,4 +43,3 @@ videocontrols-status-picture-in-picture = Video Şəkildə-Şəkil modunda oynad
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
-

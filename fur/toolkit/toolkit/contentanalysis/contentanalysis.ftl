@@ -41,21 +41,6 @@ contentanalysis-genericresponse-message = Analisi contignûts al à rispuindût 
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-block-message = La tô organizazion e dopre un software pe prevenzions des pierditis di dâts che e à blocât chest contignût: { $content }.
 # Variables:
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-error-message = Al è capitât un erôr te comunicazion cul software pe prevenzion des pierditis di dâts. Il trasferiment al è stât dineât pe risorse: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-unspecified-error-message = Al è capitât un erôr te comunicazion cun { $agent }. Trasferiment dineât pe risorse: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-no-agent-connected-message = Impussibil stabilî la conession cun { $agent }. Trasferiment dineât pe risorse: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-invalid-agent-signature-message = Verifiche falide de firme par { $agent }. Trasferiment dineât pe risorse: { $content }.
-# Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Localized text describing the content being blocked, such as "Paste denied."
 contentanalysis-unspecified-error-message-content = Al è vignût fûr un erôr te comunicazion cun { $agent }. { $content }

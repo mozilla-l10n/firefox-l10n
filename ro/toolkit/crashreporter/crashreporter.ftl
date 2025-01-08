@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = Raportor de defecțiuni
-crashreporter-crash-message = { -brand-short-name } a întâlnit o problemă și s-a închis neașteptat.
 crashreporter-plea = Pentru a ne ajuta să diagnosticăm și să reparăm problema, ne poți trimite un raport de defecțiuni.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Detalii: { $details }

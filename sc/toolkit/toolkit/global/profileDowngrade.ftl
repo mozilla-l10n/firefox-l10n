@@ -4,7 +4,6 @@
 
 profiledowngrade-window-create =
     .label = Crea unu profilu nou
-
 profiledowngrade-quit =
     .label =
         { PLATFORM() ->

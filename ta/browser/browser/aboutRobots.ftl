@@ -25,5 +25,6 @@ error-long-desc4 = இயந்திரமனிதர்கள் பளபள
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = அவற்றிடம் ஒரு திட்டம் உள்ளது.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = மீண்டும் முயற்சிக்கவும்
     .label2 = மீண்டும் இந்த பொத்தானை அழுத்தாதீர்கள்

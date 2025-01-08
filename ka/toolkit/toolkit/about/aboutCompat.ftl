@@ -5,6 +5,8 @@
 label-disable = გამორთვა
 label-enable = ჩართვა
 label-interventions = ჩარევები
+# Variables:
+#   $bug (string) - Bug number
 label-more-information = ვრცლად: ხარვეზი { $bug }
 label-overrides = მომხმარებლის პროგრამის ჩანაცვლება
 text-disabled-in-about-config = ეს შესაძლებლობა გათიშულია about:config-იდან

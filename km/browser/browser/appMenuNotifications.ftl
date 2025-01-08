@@ -5,7 +5,6 @@
 appmenu-addon-post-install-incognito-checkbox =
     .label = អនុញ្ញាតឱ្យផ្នែកបន្ថែមនេះដំណើរការនៅក្នុងវីនដូឯកជន
     .accesskey = ក
-    
 appmenu-tab-hide-controlled =
     .label = ចូលប្រើផ្ទាំងដែលបានលាក់របស់អ្នក
     .buttonlabel = បន្តលាក់ផ្ទាំង

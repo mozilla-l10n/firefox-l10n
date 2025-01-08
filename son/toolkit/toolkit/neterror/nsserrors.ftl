@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -9,13 +10,11 @@
 
 psmerr-ssl-disabled = Ši hin ka ciyari saajante tee zama SSL berehawoo kayandi.
 psmerr-ssl2-disabled = Ši hin ka ciyari saajante tee zama nungoo ga goy nda SSL berehaw dumi ženna, kaŋ manti saajante.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     War duu tabatiyan-tiira laybante.  Taare wa feršikaw juwalkaa wala war bataga duukaa bayrandi, nda w'i noo alhabaroo woo:
     
     War tabatiyan-tiira goo nda fannu lanba follokaa, kaŋ tabatiyan-tiira-hinoo bay k'a noo tabatiyan-tiira foo. Taare tabatiyan-tiira taaga wiri kaŋ ra fannu lanba dumi-folloku goo.
-
 ssl-error-export-only-server = Ši hin ka toonandiyan saajante har. Ceroo ši tuguyan šenda kanbe.
 ssl-error-us-only-server = Ši hin ka toonandi saajante dam. Ceroo ga tuguyan šenda waažibandi, kaŋ ši nda gaakašinay.
 ssl-error-no-cypher-overlap = Ši hin ka toonandi nda ceroo: tuguyan kabu kul ši ihinkaa game.
@@ -152,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = TLS šilbay hinna-karfu gaakašinan
 ssl-error-unsupported-signature-algorithm = Ceroo goy nda šilbay marganteyaŋ nda dunbu hinna-karfu kaŋ šii nda gaakašinay.
 ssl-error-missing-extended-master-secret = Ceroo ceeci ka šintin taaga bila nda extended_master_secret extension henno.
 ssl-error-unexpected-extended-master-secret = Ceroo ceeci ka šintin taaga nda extended_master_secret extension kaŋ mana naatandi.
-
 sec-error-io = Huru/fatta firka bangay saajaw duɲeyanoo waate.
 sec-error-library-failure = saajaw tiirahugu kayyaŋ.
 sec-error-bad-data = saajaw tiirahugu: bayhayey duwante laalayaŋ.
@@ -319,7 +317,6 @@ sec-error-locked-password = Šennikufaloo daabandi.
 sec-error-unknown-pkcs11-error = PKCS #11 firka šibayante.
 sec-error-bad-crl-dp-url = URL laala wala ši kanbante CRL žemnayan nungu maa ra.
 sec-error-cert-signature-algorithm-disabled = Tabatiyan-tiira šilbandi nda mayray šilbay hinna-tenjiri kaŋ kay zama a ši nda saajaw.
-
 mozilla-pkix-error-key-pinning-failure = Feršikaa ga goy nda jamaa kufal kanjiyan (HPKP) amma tabatandiyan tiira tenjari kul kaŋ ši nda naanay ši hin ka tee ka sawa nda kanjimarga. Boro ši hin ka kufal kanjiyan hõoyaney daaru.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Feršikaa ga goy nda tabatandiyan tiira kaŋ ga dobuyan faala šendandi z'a ga cebe sanba tabatandiyan hini. Wo ši hima ka bangay nda tabantandi tiira alhakiikante no.
 mozilla-pkix-error-inadequate-key-size = Feršikaa na tabatandiyan tiira cebe nda kufal adadu kaŋ ga hansa ka kacca ka ciyari saajante tee.
@@ -332,11 +329,9 @@ mozilla-pkix-error-validity-too-long = Feršikaa na tabatiyan-tiira foo cebe ka�
 mozilla-pkix-error-required-tls-feature-missing = TLS alhaali ga waažibante ga kuma.
 mozilla-pkix-error-invalid-integer-encoding = Feršikaa na tabatiyan-tiira cebe kaŋ goo nda harfu-hawyan laybante hinna timmante se. Hankul daliley ra jaŋay fannu lanba, jaŋay RSA hinna tabatante nda harfu-hawyaŋ kaŋ šii nda nafaw koyne.
 mozilla-pkix-error-empty-issuer-name = Feršikaa na tabatiyan-tiira cebe kaŋ goo nda kaataraykaw maa šifante koonu.
-
 xp-java-remove-principal-error = Mana hin ka jinekoy dogu
 xp-java-delete-privilege-error = Mana hin ha fondo-suubari tuusu
 xp-java-cert-not-exists-error = Jinekoo woo ši nda tabatiyan-tiira
-
 xp-sec-fortezza-bad-card = Fortezza kattaa mana haŋakaari ka boori. Taare a kaa wal'a willi war jinay-kaataraykaa do.
 xp-sec-fortezza-no-card = Fortezza kattawey kul mana duwandi
 xp-sec-fortezza-none-selected = Fortezza kattaa kul mana suubandi

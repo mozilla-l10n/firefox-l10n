@@ -5,6 +5,8 @@
 label-disable = Desactivar
 label-enable = Activar
 label-interventions = Intervencións
+# Variables:
+#   $bug (string) - Bug number
 label-more-information = Máis información: erro { $bug }
 label-overrides = Substitucións do axente de usuario
 text-disabled-in-about-config = Esta característica desactivouse en about:config

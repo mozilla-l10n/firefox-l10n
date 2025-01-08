@@ -14,7 +14,7 @@ policy-DisableTelemetry = ଟେଲିମେଟ୍ରିକୁ ବନ୍ଦ କ�
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
+
 ##
 
 policy-Proxy = ପ୍ରକ୍ସି ସେଟିଙ୍ଗକୁ ଏପଟ ସେପଟ କରନ୍ତୁ
-

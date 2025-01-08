@@ -174,7 +174,7 @@ addon-page-options-button =
 ##   $name (string) - Name of the add-on.
 
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name } sitangamanifu na { -brand-short-name } { $version }.
 # Variables:
 #   $version (string) - Application version.
@@ -188,3 +188,6 @@ details-notification-softblocked = { $name } inajulikana kusababisha usalama au 
 details-notification-softblocked2 =
     .message = { $name } inajulikana kusababisha usalama au mambo ya uthabiti.
 details-notification-softblocked-link = Maelezo Zaidi
+
+## Gecko Media Plugins (GMPs)
+

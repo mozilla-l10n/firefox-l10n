@@ -6,11 +6,9 @@ config-toolbar-search =
     .placeholder = Pesquisar
 config-new-pref-name =
     .placeholder = Nome
-
 config-new-pref-value-boolean = Booleano
 config-new-pref-value-string = String
 config-new-pref-value-integer = Inteiro
-
 config-new-pref-string =
     .placeholder = Digite um texto
 config-new-pref-number =
@@ -18,12 +16,9 @@ config-new-pref-number =
 config-new-pref-cancel-button = Cancelar
 config-new-pref-create-button = Criar
 config-new-pref-change-button = Alterar
-
 config-pref-toggle-button = Alternar
 config-pref-reset-button = Resetar
-
 config-context-menu-copy-pref-name =
     .label = Copiar nome
 config-context-menu-copy-pref-value =
     .label = Copiar valor
-

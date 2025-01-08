@@ -279,3 +279,6 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Maskējiet savu īsto e-pastu un tālruni
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Aizsargājiet savas tiešsaistes aktivitātes
+
+## Profiles panel
+

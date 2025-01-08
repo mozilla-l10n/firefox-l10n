@@ -33,8 +33,6 @@ about-webrtc-aec-logging-toggled-off-state-msg = Zachytené záznamy je možné 
 
 # The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Automatické obnovovanie
-# Determines the default state of the Auto Refresh check boxes
-about-webrtc-auto-refresh-default-label = Automaticky obnovovať
 # A button which forces a refresh of displayed statistics
 about-webrtc-force-refresh-button = Obnoviť
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
@@ -98,8 +96,8 @@ about-webrtc-save-page-label = Uložiť stránku
 about-webrtc-debug-mode-msg-label = Režim ladenia
 about-webrtc-debug-mode-off-state-label = Spustiť režim ladenia
 about-webrtc-debug-mode-on-state-label = Zastaviť režim ladenia
-about-webrtc-enable-logging-label = Povoliť protokolovanie WebRTC
 about-webrtc-stats-heading = Štatistiky relácie
+about-webrtc-enable-logging-label = Povoliť protokolovanie WebRTC
 about-webrtc-peerconnections-section-heading = Štatistiky RTCPeerConnection
 about-webrtc-peerconnections-section-show-msg = Zobraziť štatistiky RTCPeerConnection
 about-webrtc-peerconnections-section-hide-msg = Skryť štatistiky RTCPeerConnection
@@ -229,10 +227,7 @@ about-webrtc-round-trip-time-ms = RTT ms
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Štatistika video snímkov - MediaStreamTrack ID: { $track-identifier }
 
-## These are paths used for saving the about:webrtc page or log files so
-## they can be attached to bug reports.
-## Variables:
-##  $path (String) - The path to which the file is saved.
+##
 
 about-webrtc-save-page-msg = stránka uložená do: { $path }
 about-webrtc-debug-mode-off-state-msg = denník sledovania je možné nájsť tu: { $path }

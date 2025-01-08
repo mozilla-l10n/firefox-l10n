@@ -20,3 +20,8 @@ default-browser-prompt-message-alt = Makakuha ng bilis, kaligtasan, at privacy t
 default-browser-prompt-button-primary-alt = Itakda bilang default browser
 default-browser-prompt-checkbox-not-again-label = Huwag ipakita sa akin ito ulit
 default-browser-prompt-button-secondary = Hindi ngayon
+
+## Strings for a Windows native guidance notification when the user is forced to
+## use Windows Settings to set the default browser. Instructions differ for
+## Windows 10 and 11.
+

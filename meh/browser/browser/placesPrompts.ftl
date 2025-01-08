@@ -4,7 +4,5 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (sin título)
-
 places-bookmarks-restore-filter-name = JSON
-
 places-bookmarks-import = Kuiso archivo da marcadores

@@ -15,18 +15,15 @@ about-unloads-intro =
     паказвае, як { -brand-short-name } прыярытэзуе карткі і якая картка
     будзе разгружана пры спрацоўванні функцыі.  Вы можаце запусціць 
     разгрузку картак уручную, націснуўшы кнопку <em>Разгрузіць</em> ніжэй.
-
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more =
     Наведайце старонку <a data-l10n-name="doc-link">Разгрузка картак</a>, 
     каб даведацца больш пра функцыю і гэту старонку.
-
 about-unloads-last-updated = Апошняе абнаўленне: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Разгрузіць
     .title = Разгрузка карткі з найвышэйшым прыярытэтам
 about-unloads-no-unloadable-tab = Няма картак для разгрузкі.
-
 about-unloads-column-priority = Прыярытэт
 about-unloads-column-host = Хост
 about-unloads-column-last-accessed = Апошні доступ
@@ -38,7 +35,6 @@ about-unloads-column-memory = Памяць
     .title = Разліковае выкарыстанне памяці карткаю
 about-unloads-column-processes = Ідэнтыфікатары працэсаў
     .title = Ідэнтыфікатары працэсаў, якія змяшчаюць змесціва картак
-
 about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } МБ
 about-unloads-memory-in-mb-tooltip =

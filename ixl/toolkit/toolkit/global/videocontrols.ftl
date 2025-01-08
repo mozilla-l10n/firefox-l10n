@@ -4,7 +4,6 @@
 
 videocontrols-pause-button =
     .aria-label = Tanb'a'
-
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -18,4 +17,3 @@ videocontrols-pause-button =
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
-

@@ -35,7 +35,7 @@ about-reader-estimated-read-time =
        *[other] { $range } tesdatin
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = Senɣes teɣzi n tsefsit
@@ -79,7 +79,7 @@ about-reader-custom-colors-foreground = Aḍris
 about-reader-custom-colors-background = Agilal
     .title = Ẓreg ini
 
-## Reader View improved text and layout menu
+## Reader View text and layout menu
 
 about-reader-text-header = Aḍris
 about-reader-text-size-label = Teɣzi n uḍris

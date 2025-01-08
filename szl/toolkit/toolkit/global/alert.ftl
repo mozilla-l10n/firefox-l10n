@@ -6,3 +6,6 @@ alert-close =
     .tooltiptext = Zawrzij te powiadōmiynie
 alert-settings-title =
     .tooltiptext = Nasztalowania
+
+## Reminder Notifications
+

@@ -47,10 +47,10 @@ address-capture-edit-address-button =
 autofill-add-address-title = Add address
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Edit address
-autofill-address-name = Name
 autofill-address-given-name = First Name
 autofill-address-additional-name = Middle Name
 autofill-address-family-name = Last Name
+autofill-address-name = Name
 autofill-address-organization = Organization
 autofill-address-street-address = Street Address
 autofill-address-street = Street Address
@@ -103,9 +103,6 @@ autofill-address-postal-code = Postal Code
 autofill-address-zip = Postal Code
 # Used in IE
 autofill-address-eircode = Eircode
-
-##
-
 
 ##
 

@@ -21,6 +21,7 @@ newtab-page-title = Nuwe Oortjie
 
 ## Top Sites - Sponsored label
 
+
 ## Context Menu - Action Tooltips.
 
 
@@ -77,10 +78,11 @@ newtab-pocket-read-more = Gewilde Onderwerpe:
 newtab-pocket-more-recommendations = Meer Aanbevelings
 newtab-pocket-cta-button = Kry { -pocket-brand-name }
 
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -88,4 +90,33 @@ newtab-pocket-cta-button = Kry { -pocket-brand-name }
 newtab-error-fallback-refresh-link = Verfris bladsy om weer te probeer.
 
 ## Customization Menu
+
+
+## New Tab Wallpapers
+
+
+## Solid Colors
+
+
+## Abstract
+
+
+## Photographs
+
+
+## New Tab Weather
+
+
+## Topic Labels
+
+
+## Topic Selection Modal
+
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Confirmation modal for blocking a section
 

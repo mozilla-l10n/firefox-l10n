@@ -453,3 +453,6 @@ newtab-topic-selection-button-pick-interests = Elekti viajn interesojn
 newtab-section-follow-button = Sekvi
 newtab-section-following-button = Sekvata
 newtab-section-unfollow-button = Ne plu sekvi
+
+## Confirmation modal for blocking a section
+

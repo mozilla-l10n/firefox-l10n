@@ -39,8 +39,6 @@ address-capture-manage-address-button =
     .label = Helbidearen ezarpenak
 address-capture-learn-more-button =
     .label = Argibide gehiago
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Gehitu helbide berria
 address-capture-open-menu-button =
     .aria-label = Ireki menua
 address-capture-edit-address-button =
@@ -49,10 +47,10 @@ address-capture-edit-address-button =
 autofill-add-address-title = Gehitu helbidea
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Editatu helbidea
-autofill-address-name = Izena
 autofill-address-given-name = Izena
 autofill-address-additional-name = Bigarren izena
 autofill-address-family-name = Abizenak
+autofill-address-name = Izena
 autofill-address-organization = Erakundea
 autofill-address-street-address = Helbidea
 autofill-address-street = Helbidea
@@ -108,9 +106,8 @@ autofill-address-eircode = Eircode
 
 ##
 
-
-##
-
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Gehitu helbide berria
 autofill-address-country = Herrialdea edo eskualdea
 autofill-address-country-only = Herrialdea
 autofill-address-tel = Telefonoa

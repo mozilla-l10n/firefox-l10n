@@ -19,7 +19,6 @@ open-location = ຄົ້ນຫາ ຫຼື ໃສ່ທີ່ຢູ່
 share = ແບ່ງປັນ
 close-window = ປິດວິນໂດ
 open-sidebar = ແຖບດ້ານຂ້າງ
-
 # This string describes shortcuts for search.
 search-popover = ຄົ້ນຫາທາງລັດ
 # Describes searches limited to a specific scope

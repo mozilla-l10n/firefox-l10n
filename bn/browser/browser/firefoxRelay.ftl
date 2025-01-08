@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = { -relay-brand-name } একটি নতুন মুখোশ তৈরি করতে পারেনি৷ HTTP ত্রুটি কোড: { $status }।
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } পুনরায় ব্যবহারযোগ্য মুখোশ খুঁজে পায়নি৷ HTTP ত্রুটি কোড: { $status }।
 
-##
+## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = { -relay-brand-name } ব্যবহার করার জন্য আপনাকে অবশ্যই { -fxaccount-brand-name }-এ লগ ইন করতে হবে।
 firefox-relay-get-unlimited-masks =
@@ -23,3 +23,15 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = এখন নয়
     .accesskey = N
+
+## The "control" variation of the Relay offer popup
+
+
+## The "basic-info" variation of the Relay offer popup
+
+
+## The "with-domain" variation of the Relay offer popup
+
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+

@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = ຕົວລາຍງານຂໍ້ຜິດພາດ
-crashreporter-crash-message = { -brand-short-name } ມີບັນຫາເກີດຂື້ນ ແລະ ໄດ້ຢຸດເຮັດວຽກ.
 crashreporter-plea = ເພື່ອຊ່ວຍພວກເຮົາວິນິດໄສ ແລະ ແກ້ໄຂບັັນຫານີ້ ທ່ານສາມາດສົ່ງລາຍງານຂໍ້ຜິດພາດນີ້ມາຫາພວກເຮົາ.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = ລາຍລະອຽດ: { $details }

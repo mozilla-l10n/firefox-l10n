@@ -4,9 +4,6 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Inicios de sesión y claus
-
-# "Google Play" and "App Store" are both branding and should not be translated
-
 fxaccounts-sign-in-text = Acceder a las claus dende totz los tuyos dispositivos
 fxaccounts-avatar-button =
     .title = Chestionar la cuenta
@@ -30,6 +27,8 @@ about-logins-menu-menuitem-help = Aduya
 
 login-list =
     .aria-label = Nombres d'usuario que coinciden con la busqueda
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count } nombre d'usuario
@@ -57,7 +56,6 @@ about-logins-list-item-vulnerable-password-icon =
 
 about-logins-login-intro-heading-logged-in = No s'ha trobau garra inicio de sesión sincronizau.
 login-intro-description = Si has alzau inicios de sesión en { -brand-product-name } en belatro dispositivo, esta ye la manera de tener-los tamién aquí:
-
 about-logins-intro-import2 = Si os tuyos inicios de sesión son guardaus defuera de { -brand-product-name }, puetz <a data-l10n-name="import-browser-link"> importar-los dende atro navegador</a> u <a data-l10n-name="import-file-link"> dende un archivo</a>
 
 ## Login
@@ -86,6 +84,7 @@ login-item-cancel-button = Cancelar
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+
 ## OS Authentication dialog
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }
@@ -99,21 +98,16 @@ about-logins-edit-login-os-auth-dialog-message-win = Pa editar tu inicio de sesi
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = editar l'inicio de sesión alzau
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Ta veyer a tuya clau, escribe las tuyas credencials d'acceso a Windows. Esto t'aduya a protecher la seguranza d'as tuyas cuentas.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = amostrar la clau alzada
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Pa veyer a tuya clau, escribe las tuyas credencials d'acceso a Windows. Esto t'aduya a protecher la seguranza d'as tuyas cuentas.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = copia la clau alzada
-
-## Master Password notification
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Pa exportar los tuyos inicios de sesión, escribe las tuyas credencials d'acceso a Windows. Esto t'aduya a protecher la seguranza d'as tuyas cuentas.
 # This message can be seen when attempting to export a password in about:logins
@@ -127,14 +121,11 @@ master-password-reload-button =
     .label = Iniciar sesión
     .accesskey = I
 
-## Password Sync notification
-
 ## Dialogs
 
 confirmation-dialog-cancel-button = Cancelar
 confirmation-dialog-dismiss-button =
     .title = Cancelar
-
 about-logins-confirm-remove-dialog-title = Eliminar este nombre d'usuario?
 confirm-delete-dialog-message = Esta acción no se puet desfer.
 about-logins-confirm-remove-dialog-confirm-button = Eliminar
@@ -142,12 +133,12 @@ about-logins-confirm-remove-dialog-confirm-button = Eliminar
 ## Variables
 ##   $count (number) - Number of items
 
+
 ##
 
 about-logins-confirm-export-dialog-title = Exportar inicios de sesión y claus
 about-logins-confirm-export-dialog-message = Las tuyas claus s'han alzau como testo lechible (exemplo, BadP@ssw0rd) asinas que qualsiquiera que pueda ubrir lo archivo alzau podrá leyer-las.
 about-logins-confirm-export-dialog-confirm-button = Exportar…
-
 confirm-discard-changes-dialog-title = Descartar los cambios sin alzar?
 confirm-discard-changes-dialog-message = Totz los cambios sin alzar se pueden perder.
 confirm-discard-changes-dialog-confirm-button = Escartar
@@ -177,10 +168,8 @@ about-logins-vulnerable-alert-learn-more-link = Saber-ne mas
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Ya existe una dentrada pa { $loginTitle } con ixe nombre d'usuario. <a data-l10n-name="duplicate-link">Quirs ir ta la dentrada existent?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = S'ha produciu una error quan se miraba d'alzar esta clau.
-
 
 ## Login Export Dialog
 
@@ -215,13 +204,16 @@ about-logins-import-file-picker-csv-filter-title =
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
+
 
 ## Logins import report page
 

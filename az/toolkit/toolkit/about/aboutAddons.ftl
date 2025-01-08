@@ -190,6 +190,8 @@ shortcuts-modifier-other = Ctrl və ya Alt istifadə edin
 shortcuts-invalid = Səhv kombinasiya
 shortcuts-letter = Hərf yazın
 shortcuts-system = { -brand-short-name } qısayolu dəyişdirilə bilməz
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Daha { $numberToShow } dənə göstər
@@ -241,7 +243,7 @@ addon-page-options-button =
 ##   $name (string) - Name of the add-on.
 
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name } əlavəsi { -brand-short-name } { $version } ile uyğun deyil.
 # Variables:
 #   $version (string) - Application version.

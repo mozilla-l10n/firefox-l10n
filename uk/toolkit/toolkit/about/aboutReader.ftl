@@ -12,20 +12,6 @@ about-reader-color-scheme-sepia = Сепія
     .title = Схема кольорів сепія
 about-reader-color-scheme-auto = Авто
     .title = Автоматична колірна схема
-about-reader-color-theme-light = Світла
-    .title = Світла колірна тема
-about-reader-color-theme-dark = Темна
-    .title = Темна колірна тема
-about-reader-color-theme-sepia = Сепія
-    .title = Колірна тема сепія
-about-reader-color-theme-auto = Авто
-    .title = Автоматична колірна тема
-about-reader-color-theme-gray = Сіра
-    .title = Сіра колірна тема
-about-reader-color-theme-contrast = Контраст
-    .title = Контрастна колірна тема
-about-reader-color-theme-custom = Власні кольори
-    .title = Власна колірна тема
 about-reader-color-light-theme = Світла
     .title = Світла тема
 about-reader-color-dark-theme = Темна
@@ -50,7 +36,7 @@ about-reader-estimated-read-time =
        *[many] { $range } хвилин
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = Зменшити розмір шрифту
@@ -75,7 +61,6 @@ about-reader-font-type-monospace = Моноширинний
 
 about-reader-toolbar-close = Закрити режим читача
 about-reader-toolbar-type-controls = Налаштування шрифтів
-about-reader-toolbar-color-controls = Кольори
 about-reader-toolbar-text-layout-controls = Текст і макет
 about-reader-toolbar-theme-controls = Тема
 about-reader-toolbar-savetopocket = Зберегти в { -pocket-brand-name }
@@ -100,10 +85,9 @@ about-reader-custom-colors-visited-links = Відвідані посилання
     .title = Редагувати колір
 about-reader-custom-colors-selection-highlight = Маркер для читання вголос
     .title = Редагувати колір
-about-reader-custom-colors-reset-button = Відновити типові
 about-reader-reset-button = Відновити типові
 
-## Reader View improved text and layout menu
+## Reader View text and layout menu
 
 about-reader-text-header = Текст
 about-reader-text-size-label = Розмір тексту
@@ -120,9 +104,6 @@ about-reader-content-width-label =
 about-reader-line-spacing-label =
     .label = Міжрядковий інтервал
 about-reader-advanced-layout-header = Додатково
-about-reader-slider-label-width-narrow = Вузький
-about-reader-slider-label-width-wide = Широкий
-about-reader-slider-label-spacing-narrow = Вузький
 about-reader-character-spacing-label =
     .label = Міжсимвольний інтервал
 about-reader-word-spacing-label =

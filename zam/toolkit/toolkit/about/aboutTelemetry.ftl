@@ -16,7 +16,7 @@ about-telemetry-slow-sql-section = Sentencias SQL lentas
 about-telemetry-raw = Raw JSON
 about-telemetry-full-sql-warning = NOTA: la depuración SQL lenta está activada. Pueden motrarse cadenas completas de SQL pero no se enviarán a Telemetry.
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Esta página muestra la información de rendimiento, hardware, uso y personalizaciones recopilada por Telemetry. Esta información se envía a { $telemetryServerOwner } para ayudar a mejorar { -brand-full-name }.
 # button label to copy the histogram
 about-telemetry-histogram-copy = Loo shog gaa
@@ -29,13 +29,13 @@ about-telemetry-slow-sql-average = Tiempo medio (ms)
 about-telemetry-addon-table-id = Tá ID ná ko kúb
 about-telemetry-addon-table-details = Xa níey
 # Variables:
-#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+#   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = { $addonProvider } Provider
 about-telemetry-keys-header = Xha níey
 about-telemetry-names-header = Xha mud leel
 about-telemetry-values-header = Plál ták ah
 # Variables:
-#   $lateWriteCount (Integer): the number of the late writes
+#   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = Late Write #{ $lateWriteCount }
 about-telemetry-stack-title = Sní:
 about-telemetry-time-stamp-header = timestamp

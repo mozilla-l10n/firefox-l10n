@@ -31,3 +31,7 @@ webext-perms-description-tabs = Acedi aes schedis dal navigadôr
 webext-perms-description-tabHide = Platâ e mostrâ schedis dal navigadôr
 webext-perms-description-topSites = Acedi ae cronologjie di navigazion
 webext-perms-description-webNavigation = Acedi ae ativitât dal navigadôr dulinvie la navigazion
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

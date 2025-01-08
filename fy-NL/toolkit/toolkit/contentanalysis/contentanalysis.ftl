@@ -41,21 +41,6 @@ contentanalysis-genericresponse-message = Ynhâldanalyse antwurde mei { $respons
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-block-message = Jo organisaasje brûkt software foar foarkommen fan gegevensferlies dy’t dizze ynhâld blokkearre hat: { $content }.
 # Variables:
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-error-message = Der is in flater bard by de kommunikaasje mei de software foar foarkommen fan gegevensferlies. Oerdracht wegere foar boarne: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-unspecified-error-message = Der is in flater bard by de kommunikaasje mei { $agent }. Oerdracht wegere foar boarne: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-no-agent-connected-message = Kin gjin ferbining meitsje mei { $agent }. Oerdracht wegere foar boarne: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-invalid-agent-signature-message = Undertekeningsferifikaaasje foar { $agent } mislearre.  Oerdracht wegere foar boarne: { $content }.
-# Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Localized text describing the content being blocked, such as "Paste denied."
 contentanalysis-unspecified-error-message-content = Der is in flater bard by de kommunikaasje mei { $agent }. { $content }

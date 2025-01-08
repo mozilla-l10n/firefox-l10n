@@ -7,6 +7,7 @@ pictureinpicture-player-title = ეკრანი-ეკრანში
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -21,30 +22,24 @@ pictureinpicture-pause-btn =
 pictureinpicture-play-btn =
     .aria-label = გაშვება
     .tooltip = გაშვება (ჰარი)
-
 pictureinpicture-mute-btn =
     .aria-label = დადუმება
     .tooltip = დადუმება ({ $shortcut })
 pictureinpicture-unmute-btn =
     .aria-label = ახმოვანება
     .tooltip = ახმოვანება ({ $shortcut })
-
 pictureinpicture-unpip-btn =
     .aria-label = დაბრუნება ჩანართში
     .tooltip = დაბრუნება ჩანართში
-
 pictureinpicture-close-btn =
     .aria-label = დახურვა
     .tooltip = დახურვა ({ $shortcut })
-
 pictureinpicture-subtitles-btn =
     .aria-label = ზედწარწერები
     .tooltip = სუბტიტრები
-
 pictureinpicture-fullscreen-btn2 =
     .aria-label = სრულ ეკრანზე
     .tooltip = სრულ ეკრანზე (ორმაგი წკაპი ან { $shortcut })
-
 pictureinpicture-exit-fullscreen-btn2 =
     .aria-label = სრული ეკრანიდან გამოსვლა
     .tooltip = სრული ეკრანიდან გამოსვლა (ორმაგი წკაპი ან { $shortcut })
@@ -63,7 +58,6 @@ pictureinpicture-toggle-fullscreen-shortcut =
 pictureinpicture-seekbackward-btn =
     .aria-label = უკუსვლა
     .tooltip = უკან გადახვევა (←)
-
 pictureinpicture-seekforward-btn =
     .aria-label = წინსვლა
     .tooltip = წინ გადახვევა (→)
@@ -74,13 +68,8 @@ pictureinpicture-seekforward-btn =
 # a screen reader whenever a user opens the subtitles settings panel
 # after selecting the subtitles button.
 pictureinpicture-subtitles-panel-accessible = ქვეწარწერების პარამეტრები
-
 pictureinpicture-subtitles-label = ზედწარწერა
-
 pictureinpicture-font-size-label = შრიფტის ზომა
-
 pictureinpicture-font-size-small = მცირე
-
 pictureinpicture-font-size-medium = საშუალო
-
 pictureinpicture-font-size-large = დიდი

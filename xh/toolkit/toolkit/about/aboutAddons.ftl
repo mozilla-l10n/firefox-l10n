@@ -190,7 +190,7 @@ addon-page-options-button =
 ##   $name (string) - Name of the add-on.
 
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = I-{ $name } ihambelana kunye ne-{ -brand-short-name } ne-{ $version }.
 # Variables:
 #   $version (string) - Application version.

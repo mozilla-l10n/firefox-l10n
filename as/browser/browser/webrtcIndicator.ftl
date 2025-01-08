@@ -3,17 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Note: This is currently placed under browser/base/content so that we can
-# get the strings to appear without having our localization community need
-# to go through and translate everything. Once these strings are ready for
-# translation, we'll move it to the locales folder.
-
-
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
-# This string is used so that the window has a title in tools that enumerate/look for window
-# titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - ইণ্ডিকেটৰ সহভাগ কৰি আছে
 webrtc-indicator-window =
     .title = { -brand-short-name } - ইণ্ডিকেটৰ সহভাগ কৰি আছে
@@ -30,7 +22,6 @@ webrtc-item-window = উইণ্ড'
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = অজ্ঞাত উৎস
-
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -39,7 +30,6 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = টেবসমূহ অংশীদাৰী কৰা ডিভাইচসমূহ
     .accesskey = d
-
 webrtc-sharing-window = আপুনি আন এটা এপ্লিকেশ্যন উইণ্ড' সহভাগ কৰি আছে।
 webrtc-sharing-browser-window = আপুনি { -brand-short-name } সহভাগ কৰি আছে।
 webrtc-sharing-screen = আপুনি আপোনাৰ গোটেই স্ক্ৰীণ সহভাগ কৰি আছে।
@@ -79,7 +69,6 @@ webrtc-indicator-menuitem-control-sharing =
     .label = নিয়ন্ত্ৰণ অংশীদাৰী
 webrtc-indicator-menuitem-control-sharing-on =
     .label = "{ $streamTitle }" ত নিয়ন্ত্ৰণৰ অংশীদাৰী
-
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = কেমেৰাক "{ $streamTitle }" ৰ সৈতে অংশীদাৰী কৰা
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -88,7 +77,6 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] কেমেৰাক { $tabCount } টেবৰ সৈতে অংশীদাৰী কৰা
            *[other] কেমেৰাক { $tabCount } টেবসমূহৰ সৈতে অংশীদাৰী কৰা
         }
-
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = মাইক্ৰফোনক "{ $streamTitle }" ৰ সৈতে অংশীদাৰী কৰা
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -97,7 +85,6 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] মাইক্ৰফোনক { $tabCount } টেবৰ সৈতে অংশীদাৰী কৰা
            *[other] মাইক্ৰফোনক { $tabCount } টেবসমূহৰ সৈতে অংশীদাৰী কৰা
         }
-
 webrtc-indicator-menuitem-sharing-application-with =
     .label = "{ $streamTitle }" ৰ সৈতে এটা এপ্লিকেচন অংশীদাৰী কৰা হৈছে
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -106,7 +93,6 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] { $tabCount } টেবৰ সৈতে এটা এপ্লিকেচন অংশীদাৰী কৰা হৈছে
            *[other] { $tabCount } টেবসমূহৰ সৈতে এটা এপ্লিকেচন অংশীদাৰী কৰা হৈছে
         }
-
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = পৰ্দাক "{ $streamTitle }" ৰ সৈতে অংশীদাৰী কৰা
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -115,7 +101,6 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] পৰ্দাক { $tabCount } টেবৰ সৈতে অংশীদাৰী কৰা
            *[other] পৰ্দাক { $tabCount } টেবসমূহৰ সৈতে অংশীদাৰী কৰা
         }
-
 webrtc-indicator-menuitem-sharing-window-with =
     .label = "{ $streamTitle }" ৰ সৈতে এটা উইণ্ড' অংশীদাৰী কৰা
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -124,7 +109,6 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] এটা উইণ্ড'ক { $tabCount } টেবৰ সৈতে অংশীদাৰী কৰা
            *[other] উইণ্ড'সমূহক { $tabCount } টেবসমূহৰ সৈতে অংশীদাৰী কৰা
         }
-
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = কেমেৰাক "{ $streamTitle }" ৰ সৈতে অংশীদাৰী কৰা
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -138,6 +122,9 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
+
+
+## Special phrasing for sharing devices when the origin is a file url.
 
 
 ## Variables:
@@ -170,4 +157,3 @@ webrtc-action-always-block =
 ##
 
 webrtc-mute-notifications-checkbox = ভাগ-বতৰা কৰাৰ সময়ত ৱেবছাইটৰ জাননীবোৰ নিমাত কৰিব
-

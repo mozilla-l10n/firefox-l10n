@@ -18,7 +18,7 @@ customize-menu-add-to-overflowmenu =
 
 ## Forget Button
 
-# The forget button can be added to the toolbar or overflow menu via the cutomization menu.
+# The forget button can be added to the toolbar or overflow menu via the customization menu.
 panic-button-thankyou-msg1 = Yer recent historie has been dichtit.
 panic-button-thankyou-msg2 = Stravaig awa!
 panic-button-thankyou-button =

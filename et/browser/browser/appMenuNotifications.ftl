@@ -37,7 +37,6 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Mitte praegu
     .secondarybuttonaccesskey = M
 appmenu-update-other-instance-message = { -brand-shorter-name }ile on saadaval uuendus, aga seda ei saa paigaldada, sest töötab veel üks versioon { -brand-shorter-name }ist. Uuendamiseks sulge see või vali uuendamine sellegipoolest (teine versioon võib vajada korrektselt töötamiseks taaskäivitamist).
-
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Sobib
     .buttonaccesskey = S
@@ -45,7 +44,6 @@ appmenu-addon-post-install-message3 = Halda lisasid ja teemasid rakenduse menü�
 appmenu-addon-post-install-incognito-checkbox =
     .label = Sellel laiendusel lubatakse käivituda privaatsetes akendes
     .accesskey = S
-
 appmenu-new-tab-controlled-changes =
     .label = Uue kaardi sisu on muutunud.
     .buttonlabel = Säilita muudatused

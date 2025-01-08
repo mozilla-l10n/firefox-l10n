@@ -10,6 +10,8 @@ safeb-blocked-phishing-page-short-desc = { -brand-short-name } memblokir laman i
 safeb-blocked-malware-page-short-desc = { -brand-short-name } memblokir laman ini karena mencoba memasang perangkat lunak jahat yang bisa mencuri atau menghapus informasi personal di komputer Anda.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } memblokir laman ini karena mencoba mengecoh Anda untuk memasang program yang membahayakan pengalaman menjelajah Anda (contohnya, mengganti beranda atau menampilkan iklan ekstra di situs yang Anda kunjungi).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } memblokir laman ini karena mencoba memasang aplikasi berbahaya yang dapat mencuri atau menghapus infomasi Anda (seperti foto, sandi, pesan, dan kartu kredit).
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Peringatan disediakan oleh <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Kembali
 safeb-palm-see-details-label = Lihat detail

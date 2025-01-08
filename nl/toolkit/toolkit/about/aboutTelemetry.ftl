@@ -42,7 +42,7 @@ about-telemetry-fetch-stack-symbols = Functienamen voor stacks ophalen
 about-telemetry-hide-stack-symbols = Onbewerkte stackgegevens tonen
 # Selects the correct release version
 # Variables:
-#   $channel (String): represents the corresponding release data string
+#   $channel (string) - Represents the corresponding release data string
 about-telemetry-data-type =
     { $channel ->
         [release] releasegegevens
@@ -50,7 +50,7 @@ about-telemetry-data-type =
     }
 # Selects the correct upload string
 # Variables:
-#   $uploadcase (String): represents a corresponding upload string
+#   $uploadcase (string) - Represents a corresponding upload string
 about-telemetry-upload-type =
     { $uploadcase ->
         [enabled] ingeschakeld
@@ -58,46 +58,46 @@ about-telemetry-upload-type =
     }
 # Example Output: 1 sample, average = 0, sum = 0
 # Variables:
-#   $sampleCount (Integer): amount of histogram samples
-#   $prettyAverage (Integer): average of histogram samples
-#   $sum (Integer): sum of histogram samples
+#   $sampleCount (number) - Amount of histogram samples
+#   $prettyAverage (number) - Average of histogram samples
+#   $sum (number) - Sum of histogram samples
 about-telemetry-histogram-stats =
     { $sampleCount ->
         [one] { $sampleCount } monster, gemiddelde = { $prettyAverage }, som = { $sum }
        *[other] { $sampleCount } monsters, gemiddelde = { $prettyAverage }, som = { $sum }
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Deze pagina toont de gegevens over prestaties, hardware, gebruik en aanpassingen die door Telemetry zijn verzameld. Deze gegevens worden naar { $telemetryServerOwner } verzonden om { -brand-full-name } te helpen verbeteren.
 about-telemetry-settings-explanation = Telemetry verzamelt { about-telemetry-data-type }, en uploaden is <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
-#   $name (String): ping name, e.g. “saved-session”
-#   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
+#   $name (string) - Ping name, e.g. “saved-session”
+#   $timestamp (string) - Ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Elk stukje gegevens wordt gebundeld in ‘<a data-l10n-name="ping-link">pings</a>’ verzonden. U kijkt naar de ping { $timestamp } van { $name }.
 about-telemetry-data-details-current = Elk stukje informatie wordt gebundeld verzonden in ‘<a data-l10n-name="ping-link">pings</a>’. U kijkt naar de actuele gegevens.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $selectedTitle (String): the section name from the structure of the ping.
+#   $selectedTitle (string) - The section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = Zoeken in { $selectedTitle }
 about-telemetry-filter-all-placeholder =
     .placeholder = Zoeken in alle secties
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-results-for-search = Resultaten voor ‘{ $searchTerms }’
 # More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $sectionName (String): the section name from the structure of the ping.
-#   $currentSearchText (String): the current text in the search input
+#   $sectionName (string) - The section name from the structure of the ping.
+#   $currentSearchText (string) - The current text in the search input
 about-telemetry-no-search-results = Sorry! Er zijn geen resultaten in { $sectionName } voor ‘{ $currentSearchText }’
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-no-search-results-all = Sorry! Er zijn geen secties met resultaten voor ‘{ $searchTerms }’
 # This message is displayed when a section is empty.
 # Variables:
-#   $sectionName (String): is replaced by the section name.
+#   $sectionName (string) - Is replaced by the section name.
 about-telemetry-no-data-to-display = Sorry! Er zijn momenteel geen gegevens beschikbaar in ‘{ $sectionName }’
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = huidige gegevens
@@ -115,13 +115,13 @@ about-telemetry-slow-sql-statement = Instructie
 about-telemetry-addon-table-id = Add-on-ID
 about-telemetry-addon-table-details = Details
 # Variables:
-#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+#   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = { $addonProvider }-provider
 about-telemetry-keys-header = Eigenschap
 about-telemetry-names-header = Naam
 about-telemetry-values-header = Waarde
 # Variables:
-#   $lateWriteCount (Integer): the number of the late writes
+#   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = Late schrijfactie #{ $lateWriteCount }
 about-telemetry-stack-title = Stack:
 about-telemetry-memory-map-title = Geheugentoewijzing:
@@ -132,5 +132,5 @@ about-telemetry-method-header = methode
 about-telemetry-object-header = object
 about-telemetry-extra-header = extra
 # Variables:
-#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+#  $process (string) - Type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = { $process }-proces

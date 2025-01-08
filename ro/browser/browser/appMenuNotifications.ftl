@@ -23,7 +23,6 @@ appmenu-update-other-instance =
     .buttonaccesskey = U
     .secondarybuttonlabel = Nu acum
     .secondarybuttonaccesskey = N
-
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = OK
     .buttonaccesskey = O
@@ -31,7 +30,6 @@ appmenu-addon-post-install-message3 = Gestionează-ți suplimentele și temele p
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permite acestei extensii să ruleze în ferestre private
     .accesskey = A
-
 appmenu-tab-hide-controlled =
     .label = Accesează filele ascunse
     .buttonlabel = Păstrează filele ascunse

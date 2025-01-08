@@ -32,8 +32,6 @@ about-webrtc-aec-logging-toggled-off-state-msg = Os ficheiros de rexistro poden 
 
 # The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Recargar automaticamente
-# Determines the default state of the Auto Refresh check boxes
-about-webrtc-auto-refresh-default-label = Actualización automática por defecto
 # A button which forces a refresh of displayed statistics
 about-webrtc-force-refresh-button = Actualizar
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
@@ -97,8 +95,8 @@ about-webrtc-save-page-label = Gardar páxina
 about-webrtc-debug-mode-msg-label = Modo de depuración
 about-webrtc-debug-mode-off-state-label = Iniciar modo de depuración
 about-webrtc-debug-mode-on-state-label = Deter o modo de depuración
-about-webrtc-enable-logging-label = Habilitar o registro preestablecido de WebRTC
 about-webrtc-stats-heading = Estatísticas da sesión
+about-webrtc-enable-logging-label = Habilitar o registro preestablecido de WebRTC
 about-webrtc-stats-clear = Borrar historial
 about-webrtc-log-heading = Rexistro de conexión
 about-webrtc-log-clear = Borrar rexistro
@@ -193,6 +191,13 @@ about-webrtc-configuration-element-provided = Fornecido
 about-webrtc-configuration-element-not-provided = Non fornecido
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Preferencias de WebRTC configuradas polo usuario
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+
+##
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Largo de banda estimado
 # The ID of the MediaStreamTrack
@@ -214,10 +219,7 @@ about-webrtc-round-trip-time-ms = Tempo de ida de volta (RTT, en ms)
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Estatísticas de fotogramas de vídeo - MediaStreamTrack ID: { $track-identifier }
 
-## These are paths used for saving the about:webrtc page or log files so
-## they can be attached to bug reports.
-## Variables:
-##  $path (String) - The path to which the file is saved.
+##
 
 about-webrtc-save-page-msg = gardouse a páxina en: { $path }
 about-webrtc-debug-mode-off-state-msg = o rexistro da traza pode atoparse en: { $path }
@@ -299,9 +301,6 @@ about-webrtc-sdp-set-timestamp = Marca de tempo { NUMBER($timestamp, useGrouping
 
 about-webrtc-show-msg-sdp = Mostrar o SDP
 about-webrtc-hide-msg-sdp = Agochar o SDP
-
-##
-
 
 ## These are displayed on the button that shows or hides the Media Context information disclosure.
 ## The Media Context is the set of preferences and detected capabilities that informs

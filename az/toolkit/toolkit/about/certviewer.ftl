@@ -20,5 +20,6 @@ certificate-viewer-export = İxrac et
 
 ##
 
+
 ## Labels for tabs displayed in stand-alone about:certificate page
 

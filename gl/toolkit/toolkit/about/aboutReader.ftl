@@ -4,7 +4,6 @@
 
 about-reader-loading = Cargando…
 about-reader-load-error = Produciuse un fallo ao cargar o artigo dende a páxina
-
 about-reader-color-scheme-light = Claro
     .title = Esquema de cores Claro
 about-reader-color-scheme-dark = Escuro
@@ -13,7 +12,6 @@ about-reader-color-scheme-sepia = Sepia
     .title = Esquema de cores Sepia
 about-reader-color-scheme-auto = Automático
     .title = Esquema de cores automático
-
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -25,7 +23,7 @@ about-reader-estimated-read-time =
        *[other] { $range } minutos
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = Reducir o tamaño do tipo de letra
@@ -50,3 +48,14 @@ about-reader-font-type-sans-serif = Sans-serif:
 about-reader-toolbar-close = Pechar vista de lectura
 about-reader-toolbar-type-controls = Controis de tipografía
 about-reader-toolbar-savetopocket = Gardar en { -pocket-brand-name }
+
+## Reader View colors menu
+
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+
+## Reader View text and layout menu
+

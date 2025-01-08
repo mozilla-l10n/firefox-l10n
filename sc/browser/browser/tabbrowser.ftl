@@ -104,6 +104,10 @@ tabbrowser-confirm-close-tabs-with-key-button = Essi de { -brand-short-name }
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Cunfirma prima de essire cun { $quitKey }
 
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+
 ## Confirmation dialog when opening multiple tabs simultaneously
 
 tabbrowser-confirm-open-multiple-tabs-title = Cunfirma s'abertura
@@ -185,3 +189,7 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Annulla
     .accesskey = A
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+

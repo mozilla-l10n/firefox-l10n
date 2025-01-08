@@ -71,6 +71,9 @@ permissions-exceptions-popup-desc = Можете да одредите кои м
 ## Exceptions - Saved Logins
 
 
+## Exceptions - Saved Passwords
+
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = Можете да одредите од кои мрежни места смее да се инсталираат додатоци. Внесете ја точната адреса за коja сакате да дозволите и кликнете на „Дозволи“.

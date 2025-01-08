@@ -7,7 +7,6 @@ page-subtitle =
     Оваа страна содржи технички информации кои може да Ви послужат кога се
     обидувате да решите некој проблем. Ако барате одговори на често поставувани прашања
     за { -brand-short-name }, појдете на нашиот <a data-l10n-name="support-link">веб сајт за поддршка</a>.
-
 support-addons-name = Име
 support-addons-version = Верзија
 support-addons-id = ID
@@ -23,7 +22,6 @@ app-basics-enabled-plugins = Овозможени приклучоци
 app-basics-build-config = Конфигурација на изданието
 app-basics-user-agent = Кориснички агент
 app-basics-memory-use = Искористеност на меморија
-
 modified-key-prefs-title = Важни променети параметри
 modified-prefs-name = Име
 modified-prefs-value = Вредност
@@ -41,6 +39,12 @@ copy-raw-data-to-clipboard-label = Копирај ги сировите пода
 
 
 ## Codec support table
+
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
 
 ##
 
@@ -70,7 +74,6 @@ blocked-os-version = Блокирано за верзијата на опера�
 try-newer-driver =
     Блокирано за верзијата на графичкиот драјвер. Пробајте да го надградите
     на верзија { $driverVersion } или понова.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Параметри за ClearType
@@ -81,12 +84,10 @@ clear-type-parameters = Параметри за ClearType
 
 min-lib-versions = Очекувана минимална верзија
 loaded-lib-versions = Верзија во употреба
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-
 drag-enabled = влечење на лизгач овозможено
 
 ## Variables
@@ -95,7 +96,18 @@ drag-enabled = влечење на лизгач овозможено
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+
 ## Printing section
 
+
+## Remote Settings sections
+
+
 ## Normandy sections
+
+
+## Pointing devices
+
+
+## Content Analysis (DLP)
 

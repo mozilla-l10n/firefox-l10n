@@ -15,6 +15,9 @@
 ## "Default Color Unit" options for the Inspector
 
 
+## Web Console section
+
+
 ## Style Editor section
 
 # The heading
@@ -28,7 +31,4 @@ options-styleeditor-label = စတိုင် အယ်ဒီတာ
 options-sourceeditor-keybinding-default-label = မူရင်းအခြေအနေ
 
 ## Advanced section
-
-
-##
 

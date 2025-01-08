@@ -390,8 +390,7 @@ choose-bookmark =
 home-prefs-search-header =
     .label = वेब खोज
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = { $provider } द्वारा अनुशंसित

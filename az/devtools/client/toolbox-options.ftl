@@ -11,7 +11,6 @@
 # The label for the heading of group of checkboxes corresponding to the developer tools
 # added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
 options-select-additional-tools-label = Əlavələr tərəfindən quraşdırılmış Tərtibatçı Alətləri
-
 # The label for the heading of the radiobox corresponding to the theme
 options-select-dev-tools-theme-label = Mövzular
 
@@ -19,7 +18,6 @@ options-select-dev-tools-theme-label = Mövzular
 
 # The heading
 options-context-inspector = İnspektor
-
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = Səyyah Stillərini Göstər
 options-show-user-agent-styles-tooltip =
@@ -31,6 +29,9 @@ options-default-color-unit-hex = Hex
 options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-name = Rəng Adları
+
+## Web Console section
+
 
 ## Style Editor section
 
@@ -44,25 +45,17 @@ options-styleeditor-label = Stil Redaktoru
 
 # The heading
 options-sourceeditor-label = Redaktor Nizamlamaları
-
 options-sourceeditor-keybinding-default-label = Standart
 
 ## Advanced section
 
-# The heading
+# The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = Təkmilləşmiş tənzimləmələr
-
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = JavaScript-i söndür *
-
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
 options-enable-chrome-label = Səyyah chrome-u və əlavə sazlama alət qutularını aktivləşdir
-
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Uzaq sazlamanı aktivləşdir
-
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Ancaq bu sessiyada, səhifəni yenidən yükləyir
-
-##
-

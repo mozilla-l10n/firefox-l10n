@@ -103,7 +103,6 @@ print-window =
     .title = In stanpa
 print-complete =
     .value = A stanpa l'é finia
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

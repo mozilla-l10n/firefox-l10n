@@ -37,7 +37,6 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Pas ara
     .secondarybuttonaccesskey = P
 appmenu-update-other-instance-message = Una version novèla de { -brand-shorter-name } es disponibla, mas una còpia ja en execucion de { -brand-shorter-name } empacha de l’installar. Tampatz-la per contunhar la mesa a jorn o causissètz de metre a jorn de tot biais (pòt arribar que l’autra còpia foncione pas mai abans reaviada).
-
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = D’acòrdi
     .buttonaccesskey = D
@@ -45,7 +44,6 @@ appmenu-addon-post-install-message3 = Gerissètz vòstres moduls complementaris 
 appmenu-addon-post-install-incognito-checkbox =
     .label = Autorizar aquesta extension en navegacion privada
     .accesskey = A
-    
 appmenu-new-tab-controlled-changes =
     .label = La pagina Onglet novèl a cambiat.
     .buttonlabel = Servar las modificacions

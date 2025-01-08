@@ -17,6 +17,9 @@
 options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = MHB(A)
 
+## Web Console section
+
+
 ## Style Editor section
 
 
@@ -27,7 +30,4 @@ options-default-color-unit-rgb = MHB(A)
 
 
 ## Advanced section
-
-
-##
 

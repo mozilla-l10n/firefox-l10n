@@ -290,9 +290,7 @@ main-context-menu-send-to-device =
     .label = पृष्ठलाई यन्त्रमा पठाउनुहोस्
     .accesskey = D
 
-## The access keys for "Use Saved Login" and "Use Saved Password"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
+##
 
 main-context-menu-use-saved-login =
     .label = सुरक्षित लगइन प्रयोग गर्नुहोस्

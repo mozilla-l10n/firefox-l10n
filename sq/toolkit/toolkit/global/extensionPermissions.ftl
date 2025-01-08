@@ -33,3 +33,7 @@ webext-perms-description-topSites = Të hyjë në historik shfletimesh
 webext-perms-description-trialML = Shkarkoni dhe xhironi modele IA në pajisjen tuaj
 webext-perms-description-userScripts = Lejo programthe të paverifikuar palësh të treta të hyjnë në të dhënat tuaja
 webext-perms-description-webNavigation = Të hyjë në veprimtarinë e shfletuesit gjatë lëvizjeve
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

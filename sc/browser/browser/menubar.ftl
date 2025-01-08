@@ -255,6 +255,9 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = Sinnalibros de su telèfonu mòbile
 
+## Profiles Menu
+
+
 ## Tools Menu
 
 menu-tools =

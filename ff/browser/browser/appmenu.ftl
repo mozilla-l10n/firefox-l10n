@@ -35,18 +35,14 @@ appmenuitem-fullscreen =
 
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Alaa tabbe udditiiɗe
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Hurmin cynkugol tabbe ngam yiyde tabbe iwɗe e kaɓirɗi maa goɗɗi.
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Aɗa yiyde tabbe maa iwɗe e kaɓirɗi goɗɗi?
-
 appmenu-remote-tabs-connectdevice =
     .label = Seŋ Masiŋ Goɗɗo
 appmenu-remote-tabs-unverified = Konte maa ina cokli ƴeewteede.
-
 appmenuitem-save-page =
     .label = Danndu Hello e Innde…
 
@@ -64,13 +60,14 @@ whatsnew-panel-header = Ko Hesɗi
 
 
 # Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/popup/background.jsm.js
+# devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
 
 # Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
+# devtools/client/performance-new/shared/background.sys.mjs
 # Please take care that the same values are also defined in devtools' perftools.ftl.
+
 
 ## History panel
 
@@ -119,4 +116,10 @@ appmenu-help-not-deceptive =
     .accesskey = d
 
 ## More Tools
+
+
+## Panel for privacy and security products
+
+
+## Profiles panel
 

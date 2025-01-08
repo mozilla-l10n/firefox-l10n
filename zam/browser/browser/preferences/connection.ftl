@@ -5,4 +5,3 @@
 connection-proxy-reload =
     .label = Mbì-rè
     .accesskey = b
-

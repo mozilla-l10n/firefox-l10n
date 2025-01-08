@@ -276,5 +276,11 @@ root-certificate-succession-infobar-secondary-button =
     .label = Diwezhatoc’h
     .accesskey = D
 
+## Root Certificate Succession Windows Background Notification
+
+
 ## FxA Menu Message variants
+
+
+## Multi-CTA Fox Doodle Spotlight
 

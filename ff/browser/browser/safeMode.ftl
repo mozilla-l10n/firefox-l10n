@@ -4,5 +4,5 @@
 
 refresh-profile =
     .label = Hesɗitin { -brand-short-name }
-# Shown on the safe mode dialog after multiple startup crashes. 
+# Shown on the safe mode dialog after multiple startup crashes.
 auto-safe-mode-description = { -brand-short-name } uddirii bettere tuma nde hurmata. Ɗum ena waawi wonde caɗe ɓeyditte walla goɗɗe. Aɗa waawi etaade peeje ngam ñawndude caɗeele ɗee so ñawndugol e Mbayka Kisal.

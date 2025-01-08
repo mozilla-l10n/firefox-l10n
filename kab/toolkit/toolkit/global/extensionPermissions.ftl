@@ -31,3 +31,7 @@ webext-perms-description-tabs = Kcem ɣer wacarren n yiminig
 webext-perms-description-tabHide = Sken-d neγ ffer iccaren n iminig
 webext-perms-description-topSites = Kcem ɣer umazray n yiminig
 webext-perms-description-webNavigation = Kcem ɣer urmud n yiminig mi ara tettinigeḍ
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

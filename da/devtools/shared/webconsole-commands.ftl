@@ -22,13 +22,3 @@ webconsole-commands-usage-unblock =
     Stop blokering af netværks-requests
     
       Acepterer kun et argument, nemlig præcis samme streng som tidligere blev sendt til :block.
-# Usage string for :trace command
-webconsole-commands-usage-trace =
-    :trace
-    
-    Slår JavaScript-tracer til og fra
-    
-      Understøtter følgende argumenter:
-        --logMethod indstilles til ‘console’ for at logge til web-konsollen (standard), eller ‘stdout’ for at logge til standard-output,
-        --prefix Valgfri streng, der vil blive føjet til i starten af alle trace-logs,
-        --help eller --usage for at vise denne besked.

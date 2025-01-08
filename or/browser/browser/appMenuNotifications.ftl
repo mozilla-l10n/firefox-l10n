@@ -5,7 +5,6 @@
 appmenu-addon-post-install-incognito-checkbox =
     .label = ଏକଷ୍ଟେନ୍ସନଟିକୁ ଗୋପନୀୟ ୱିଣ୍ଡୋରେ ଚାଲିବାର ଅନୁମତି ଦିଅନ୍ତୁ
     .accesskey = ଏ
-    
 appmenu-tab-hide-controlled =
     .label = ଆପଣଙ୍କର ଲୁକ୍କାୟିତ ଟ୍ୟାବଗୁଡ଼ିକରେ ପ୍ରବେଶ କରନ୍ତୁ
     .buttonlabel = ଟ୍ୟାବଗୁଡ଼ିକୁ ଲୁଚେଇ ରଖନ୍ତୁ

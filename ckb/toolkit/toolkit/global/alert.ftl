@@ -6,3 +6,6 @@ alert-close =
     .tooltiptext = ئەم ئاگانامەیە دابخە
 alert-settings-title =
     .tooltiptext = ڕێکخستنەکان
+
+## Reminder Notifications
+

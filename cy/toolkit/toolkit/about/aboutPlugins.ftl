@@ -6,8 +6,6 @@ title-label = Ynghylch Ategion
 installed-plugins-label = Ategion wedi eu gosod
 no-plugins-are-installed-label = Heb ganfod ategion wedi eu gosod
 deprecation-description = Colli rhywbeth? Nid yw rhai ategion yn cael eu cynnal. <a data-l10n-name="deprecation-link">Darllen Rhagor.</a>
-deprecation-description2 =
-    .message = Colli rhywbeth? Nid yw rhai ategion yn cael eu cynnal.
 
 ## The information of plugins
 ##

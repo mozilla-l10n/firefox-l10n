@@ -6,3 +6,6 @@ alert-close =
     .tooltiptext = Uddu ngol tintinol
 alert-settings-title =
     .tooltiptext = Teelte
+
+## Reminder Notifications
+

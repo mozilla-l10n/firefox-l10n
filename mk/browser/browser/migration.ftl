@@ -4,13 +4,11 @@
 
 migration-wizard =
     .title = Волшебник за увоз
-
 import-from =
     { PLATFORM() ->
         [windows] Увези опции, обележувачи, историја, лозинки и други податоци од:
        *[other] Увези поставки, обележувачи, историја, лозинки и други податоци од:
     }
-
 import-from-bookmarks = Увези обележувачи од:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -39,45 +37,20 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
-
 no-migration-sources = Не може да се пронајдат програми кои содржат обележувачи, историја или лозинки.
-
 import-source-page-title = Увезување на поставки и податоци
 import-items-page-title = Што ќе се увезе?
-
 import-items-description = Изберете што да се увезе:
-
 import-migrating-page-title = Увезување…
-
 import-migrating-description = Следниве елементи моментално се увезуваат…
-
 import-select-profile-page-title = Избор на профил
-
 import-select-profile-description = Увоз може да се направи од следниве профили:
-
 import-done-page-title = Увозот заврши
-
 import-done-description = Следниве елементи беа успешно увезени:
-
 import-close-source-browser = Ве молам, пред да продолжите, осигурајте се дека избраниот прелистувач е затворен.
-
 source-name-ie = Internet Explorer
 source-name-chrome = Google Chrome
-
 imported-safari-reading-list = Список за читање (од Safari)
-
-## Browser data types
-## All of these strings get a $browser variable passed in.
-## You can use the browser variable to differentiate the name of items,
-## which may have different labels in different browsers.
-## The supported values for the $browser variable are:
-## 360se
-## chrome
-## edge
-## firefox
-## safari
-## The various beta and development versions of edge and chrome all get
-## normalized to just "edge" and "chrome" for these strings.
 
 ## Browser data types
 ## All of these strings get a $browser variable passed in.

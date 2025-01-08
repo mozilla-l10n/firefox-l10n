@@ -4,7 +4,6 @@
 
 about-reader-loading = Įkeliama…
 about-reader-load-error = Iš tinklalapio įkelti straipsnio nepavyko
-
 about-reader-color-scheme-light = Šviesi
     .title = Šviesi spalvų schema
 about-reader-color-scheme-dark = Tamsi
@@ -13,7 +12,6 @@ about-reader-color-scheme-sepia = Sepija
     .title = Sepijos spalvų schema
 about-reader-color-scheme-auto = Automatinė
     .title = Automatinė spalvų schema
-
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -26,7 +24,7 @@ about-reader-estimated-read-time =
        *[other] { $range } minučių
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = Sumažinti šriftą
@@ -51,3 +49,14 @@ about-reader-font-type-sans-serif = Be užraitų
 about-reader-toolbar-close = Išjungti skaitymo rodinį
 about-reader-toolbar-type-controls = Tipų valdymas
 about-reader-toolbar-savetopocket = Įrašyti į „{ -pocket-brand-name }“
+
+## Reader View colors menu
+
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+
+## Reader View text and layout menu
+

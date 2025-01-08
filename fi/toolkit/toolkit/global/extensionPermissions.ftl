@@ -33,3 +33,7 @@ webext-perms-description-topSites = Käytä selaushistoriaa
 webext-perms-description-trialML = Lataa ja suorita tekoälymalleja laitteellasi
 webext-perms-description-userScripts = Salli vahvistamattomien kolmannen osapuolen komentosarjojen pääsy tietoihisi
 webext-perms-description-webNavigation = Tarkkaile selaimen toimintaa siirryttäessä sivulta toiselle
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

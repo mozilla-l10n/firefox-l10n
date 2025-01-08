@@ -39,11 +39,9 @@ compatibility-issue-occurrences =
         [one] { $number } tekrar
        *[other] { $number } tekrar
     }
-
 compatibility-no-issues-found = Uyumluluk sorunu bulunamadı.
 compatibility-close-settings-button =
     .title = Ayarları kapat
-
 # Text used in the element containing the browser icons for a given compatibility issue.
 # Line breaks are significant.
 # Variables:

@@ -41,21 +41,6 @@ contentanalysis-genericresponse-message = İçerik analizi, şu kaynak için { $
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-block-message = Kuruluşunuzun kullandığı veri kaybı önleme yazılımı şu içeriği engelledi: { $content }.
 # Variables:
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-error-message = Veri kaybı önleme yazılımıyla iletişim sırasında bir hata oluştu. Şu kaynak için aktarım reddedildi: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-unspecified-error-message = { $agent } ile iletişim sırasında bir hata oluştu. Şu kaynak için aktarım reddedildi: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-no-agent-connected-message = { $agent } ile bağlantı kurulamadı. Şu kaynak için aktarım reddedildi: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-invalid-agent-signature-message = { $agent } için imza doğrulaması başarısız oldu. Şu kaynak için aktarım reddedildi: { $content }.
-# Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Localized text describing the content being blocked, such as "Paste denied."
 contentanalysis-unspecified-error-message-content = { $agent } ile iletişim kurulurken bir hata oluştu. { $content }

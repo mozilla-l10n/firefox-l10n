@@ -5,7 +5,11 @@
 url-classifier-title = Informace o URL Classifier
 url-classifier-search-title = Hledat
 url-classifier-search-result-title = Výsledky
+# Variables:
+#   $uri (string) - URI of blocked page
 url-classifier-search-result-uri = URI: { $uri }
+# Variables:
+#   $list (string) - List of tables where the page is blocked
 url-classifier-search-result-list = Seznam tabulek: { $list }
 url-classifier-search-input = URL adresa
 url-classifier-search-error-invalid-url = Neplatná URL adresa
@@ -40,7 +44,6 @@ url-classifier-debug-sb-modules = Moduly protokolu pro službu Safe Browsing
 url-classifier-debug-modules = Současné moduly protokolu
 url-classifier-debug-sbjs-modules = Protokol JS pro službu Safe Browsing
 url-classifier-debug-file = Současný soubor protokolu
-
 url-classifier-trigger-update = Spustit aktualizaci
 url-classifier-not-available = nedostupný
 url-classifier-disable-sbjs-log = Zakázat protokol JS služby Safe Browsing

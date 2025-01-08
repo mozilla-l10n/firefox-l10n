@@ -3,5 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = دووبارە پێکردنەوە پێویستە
-
 restart-button-label = دووبارە پێکردنەوە { -brand-short-name }

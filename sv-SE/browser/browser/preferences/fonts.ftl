@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Teckensnitt
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Teckensnitt för
     .accesskey = T
-
 fonts-langgroup-arabic =
     .label = Arabiska
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proportionell
     .accesskey = P
-
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
-
 fonts-proportional-size = Storlek
     .accesskey = t
-
 fonts-serif = Serif
     .accesskey = S
-
 fonts-sans-serif = Sans-serif
     .accesskey = n
-
 fonts-monospace = Fast bredd
     .accesskey = F
-
 fonts-monospace-size = Storlek
     .accesskey = o
-
 fonts-minsize = Minsta teckensnittsstorlek
     .accesskey = n
-
 fonts-minsize-none =
     .label = Ingen
-
 fonts-allow-own =
     .label = Tillåt sidor använda egna teckensnitt, i stället för dina val ovan
     .accesskey = T
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

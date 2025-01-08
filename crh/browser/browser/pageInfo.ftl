@@ -4,19 +4,16 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
-
 copy =
     .key = C
 menu-copy =
     .label = Kopiyala
     .accesskey = o
-
 select-all =
     .key = A
 menu-select-all =
     .label = Episini Sayla
     .accesskey = e
-
 general-tab =
     .label = Umumiy
     .accesskey = U
@@ -40,7 +37,6 @@ general-meta-name =
     .label = Ad
 general-meta-content =
     .label = Münderice
-
 media-tab =
     .label = Vasat
     .accesskey = V
@@ -68,13 +64,11 @@ media-save-as =
 media-save-image-as =
     .label = Şöyle Saqla…
     .accesskey = e
-
 perm-tab =
     .label = Ruhsetler
     .accesskey = R
 permissions-for =
     .value = Ruhsetleri:
-
 security-tab =
     .label = Emniyet
     .accesskey = E
@@ -95,22 +89,17 @@ security-view-identity-validity =
     .value = Eskiriş Tarihi:
 security-view-privacy =
     .value = Hususiyat ve Keçmiş
-
 security-view-privacy-history-value = Bu ağ-saytını bugünden evvel ziyaret ettimmi?
 security-view-privacy-sitedata-value = Bu ağ-saytı bilgisayarım üzerinde malümat mağazlaymı?
-
 security-view-privacy-clearsitedata =
     .label = Çörekler ve Sayt Verilerini Temizle
     .accesskey = T
-
 security-view-privacy-passwords-value = Bu İnternet saytı içün er angi sır-sözlerni saqladımmı?
-
 security-view-privacy-viewpasswords =
     .label = Saqlanğan Sır-sözlerini Köster
     .accesskey = S
 security-view-technical =
     .value = Tehnik Tafsilât
-
 help-button =
     .label = Yardım
 
@@ -122,7 +111,6 @@ help-button =
 
 security-site-data-cookies = Ebet, çörekler ve { $value } { $unit } sayt verileri
 security-site-data-only = Ebet, sayt verileri içün { $value } { $unit }
-
 security-site-data-cookies-only = Ebet, çörekler
 security-site-data-no = Hayır
 
@@ -146,7 +134,6 @@ media-video = Video
 media-audio = Davuş
 saved-passwords-yes = Ebet
 saved-passwords-no = Hayır
-
 no-page-title =
     .value = Serlevasız Saife:
 general-quirks-mode =
@@ -161,7 +148,6 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Ögbelgilemeni Qullan
 security-no-visits = Hayır
-
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
@@ -172,7 +158,6 @@ general-meta-tags =
             [one] Meta (1 nişan)
            *[other] Meta ({ $tags } nişan)
         }
-
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -183,7 +168,6 @@ security-visits-number =
         [one] Ebet, bir kere
        *[other] Ebet, { $visits } kere
     }
-
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
@@ -194,7 +178,6 @@ properties-general-size =
             [one] { $kb } KB ({ $bytes } bayt)
            *[other] { $kb } KB ({ $bytes } bayt)
         }
-
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:
@@ -206,14 +189,12 @@ media-animated-image-type =
             [one] { $type } sureti (canlandırılğan, { $frames } kare)
            *[other] { $type } sureti (canlandırılğan, { $frames } kare)
         }
-
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } Sureti
-
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -223,14 +204,12 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx } piksel x { $dimy } piksel ({ $scaledx } piksel x { $scaledy } piksel olaraq miqyaslanğan)
-
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx } piksel x { $dimy } piksel
-
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
@@ -242,16 +221,11 @@ media-file-size = { $size } KB
 
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
-# Variables:
-#   $website (string) - The website name
 media-block-image =
     .label = { $website } Suretlerini Blokla
     .accesskey = B
-
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
-# Variables:
-#   $website (string) - The url of the website pageInfo is getting info for
 page-info-page =
     .title = Saife Malümatı - { $website }
 page-info-frame =

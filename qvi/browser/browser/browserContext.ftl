@@ -7,7 +7,6 @@
 
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
-
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
@@ -15,7 +14,6 @@ toolbar-button-back-2 =
 
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
-
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
 
@@ -36,19 +34,20 @@ toolbar-button-stop-reload =
 
 ## Firefox Account Button
 
+
+## Account toolbar Button
+
+
 ## Save Page
 
+
 ## Simple menu items
-
-
-## The access keys for "Copy Link Location" and "Copy Email Address"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
 
 
 ## The access keys for "Copy Link" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
+
 
 ## Media (video/audio) controls
 ##
@@ -66,9 +65,9 @@ toolbar-button-stop-reload =
 
 ##
 
-## The access keys for "Use Saved Login" and "Use Saved Password"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
+
+##
+
 
 ##
 

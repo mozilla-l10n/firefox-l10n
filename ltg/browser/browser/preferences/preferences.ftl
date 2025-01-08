@@ -114,7 +114,7 @@ containers-disable-alert-ok-button =
 containers-disable-alert-cancel-button = Patureit aktivātu
 containers-remove-alert-title = Nūjimt itū skreini?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [zero] Ja nūjimsi itū konteineru { $count } konteineru cilnes byus aizvārtas. Voi vyssvīns nūjimt itū konteineru?
@@ -206,11 +206,11 @@ applications-manage-app =
 applications-always-ask =
     .label = Vīnmār vaicuot
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Izmantuot { $plugin-name } (ar { -brand-short-name })
 
@@ -240,6 +240,8 @@ play-drm-content =
 play-drm-content-learn-more = Uzzynojit vairuok
 update-application-title = { -brand-short-name } atjaunynuojumi
 update-application-description = Vysod atjaunini { -brand-short-name }, kab dabōt lobōkū drūšeibu, stabilitati un ōtrdarbeibu.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Verseja { $version } <a data-l10n-name="learn-more">Kas jauns</a>
 update-history =
     .label = Paruodeit atjaunynuojumu viesturi…
@@ -274,7 +276,7 @@ performance-limit-content-process-option = Satura procesu limits
 performance-limit-content-process-enabled-desc = Papyldu satura procesi var uzlobōt veiktspieji, izmontojut vairōkys cilnes, bet prasēs papyldu atmiņu.
 performance-limit-content-process-blocked-desc = Modificeit satura procesu skaitu ir īspiejama tikai ar vairuoku procesu { -brand-short-name }. <a data-l10n-name="learn-more">Kai puorbaudeit, voi pīejams vairuoku procesu režyms</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (nūkluseitais)
 
@@ -343,11 +345,8 @@ choose-bookmark =
 home-prefs-search-header =
     .label = Mekliešona internetā
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
-# Variables:
-#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } īsaceitōs
 
@@ -369,6 +368,8 @@ home-prefs-highlights-option-saved-to-pocket =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Pīzeimes
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -415,7 +416,7 @@ search-find-more-link = Pīvīnuot meklietuojus
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Itaids atslāgi vuords jau eksistej
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Jius izavieliejatīs atslāgi vuordu, kū itūbreid jau izmontoj "{ $name }". Lyudzu, izavielit cytu.
 search-keyword-warning-bookmark = Jius izavieliejatīs atslāgi vuordu, kū jau izmontoj kaida gruomotzeime. Lyudzu, izavielit cytu.
 
@@ -530,6 +531,7 @@ privacy-header = Puorlūka privatums
 
 ## Privacy Section - Logins and Passwords
 
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Vaicōt, kab saglobōt lopu pīzasaciešonas informaceji
     .accesskey = i
@@ -542,6 +544,9 @@ forms-exceptions =
 forms-saved-logins =
     .label = Saglobuotuos paroles…
     .accesskey = l
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Nūmaineit golvonū paroli...
     .accesskey = m
@@ -599,8 +604,8 @@ history-clear-button =
 sitedata-header = Cookies un lopys dati
 sitedata-total-size-calculating = Aprieķina lopys datu un cache izmāru…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Tovys saglobōtōs seikdatnes un kešatmiņa itymā strāčī aizjem { $value } { $unit } vītys.
 sitedata-learn-more = Uzzynojit vairuok
 sitedata-allow-cookies-option =

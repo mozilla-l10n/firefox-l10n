@@ -104,6 +104,10 @@ tabbrowser-confirm-close-tabs-with-key-button = Surt del { -brand-short-name }
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Confirma abans de sortir amb { $quitKey }
 
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+
 ## Confirmation dialog when opening multiple tabs simultaneously
 
 tabbrowser-confirm-open-multiple-tabs-title = Confirmació d'obertura
@@ -168,3 +172,10 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = No silenciïs la pestanya
 tabbrowser-manager-close-tab =
     .tooltiptext = Tanca la pestanya
+
+## Tab Groups
+
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+

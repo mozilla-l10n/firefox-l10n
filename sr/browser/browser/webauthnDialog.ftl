@@ -12,7 +12,6 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = Нетачан PIN. Покушајте поново.
 webauthn-pin-required-prompt = Унесите PIN код за ваш уређај.
-
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =

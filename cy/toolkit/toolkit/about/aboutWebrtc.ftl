@@ -33,8 +33,6 @@ about-webrtc-aec-logging-toggled-off-state-msg = Mae'r ffeiliau cofnod y cipio y
 
 # The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Auto Adnewyddu
-# Determines the default state of the Auto Refresh check boxes
-about-webrtc-auto-refresh-default-label = Awto Adnewyddu Rhagosodedig
 # A button which forces a refresh of displayed statistics
 about-webrtc-force-refresh-button = Adnewyddu
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
@@ -98,8 +96,8 @@ about-webrtc-save-page-label = Cadw Tudalen
 about-webrtc-debug-mode-msg-label = Modd Dadfygio
 about-webrtc-debug-mode-off-state-label = Cychwyn y Modd Dadfygio
 about-webrtc-debug-mode-on-state-label = Atal y Modd Dadfygio
-about-webrtc-enable-logging-label = Galluogi Rhagosodiad Cofnod WebRTC
 about-webrtc-stats-heading = Ystadegau'r Sesiwn
+about-webrtc-enable-logging-label = Galluogi Rhagosodiad Cofnod WebRTC
 about-webrtc-peerconnections-section-heading = Ystadegau RTCPeerConnection
 about-webrtc-peerconnections-section-show-msg = Dangos Ystadegau RTCPeerConnection
 about-webrtc-peerconnections-section-hide-msg = Cuddio Ystadegau RTCPeerConnection
@@ -229,10 +227,7 @@ about-webrtc-round-trip-time-ms = RTT ms
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Ystadegau Ffrâm Fideo - MediaStreamTrack ID: { $track-identifier }
 
-## These are paths used for saving the about:webrtc page or log files so
-## they can be attached to bug reports.
-## Variables:
-##  $path (String) - The path to which the file is saved.
+##
 
 about-webrtc-save-page-msg = cadwyd y dudalen i: { $path }
 about-webrtc-debug-mode-off-state-msg = mae modd canfod y cofnod olrhain yn: { $path }

@@ -8,3 +8,7 @@
 ## must have a corresponding entry in the `PERMISSION_L10N_ID_OVERRIDES` map.
 
 webext-perms-description-browsingData = Borraen dagiti nabiit a pakarasritaan ti panagbasa, galietas ken maipapan a datos
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

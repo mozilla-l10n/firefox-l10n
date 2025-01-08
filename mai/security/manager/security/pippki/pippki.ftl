@@ -35,6 +35,9 @@ download-cert-view-text = CA प्रमाणपत्र जाँचू
 
 ## Client Authorization Ask dialog
 
+
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = प्रयोक्ता पहचान आग्रह
 client-auth-site-description = ई साइट ने आपसे एकटाटा प्रमाणपत्र सँ अपने केँ पहचानने क आग्रह कएल  अछि :
@@ -50,8 +53,6 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = प्रमाणपत्र बैकअप गुड़किल्ली (फेर):
 set-password-reminder = Important: जँ अहाँ अपन प्रमाणपत्र बैकअप गुड़किल्ली भूलि गेलहुँ, अहाँ एहि बैकअप केँ बाद मे फेर नहि लाबि सकब. कृप्या एकरा सुरक्षित स्थान मे रिकार्ड करू.
-
-## Protected Auth dialog
 
 ## Protected authentication alert
 

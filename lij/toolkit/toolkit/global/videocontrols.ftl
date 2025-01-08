@@ -16,16 +16,16 @@ videocontrols-exitfullscreen-button =
     .aria-label = Sciòrti dò-u mòddo a tutto schermo
 videocontrols-casting-button-label =
     .aria-label = Manda a schermo
+# .offlabel is processed by the video control custom element to be used
+# as a text-track label
 videocontrols-closed-caption-off =
     .offlabel = Asmòrta
-
 videocontrols-error-aborted = Caregamento do video fermou.
 videocontrols-error-network = Riproduçion video fermâ a caoza de 'n'erô da ræ.
 videocontrols-error-decode = Riproduçion video inposciblie a caoza de 'n schedaio aroinou.
 videocontrols-error-src-not-supported = Formou video ò tipo MIME no soportou.
 videocontrols-error-no-source = Niscun video con formato ò tipo MIME soportou.
 videocontrols-error-generic = Riproduçion video fermâ pe caxon de n'erô sconosciuo.
-
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -39,4 +39,3 @@ videocontrols-error-generic = Riproduçion video fermâ pe caxon de n'erô scono
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
-

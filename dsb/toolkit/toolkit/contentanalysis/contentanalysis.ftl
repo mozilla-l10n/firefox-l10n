@@ -41,21 +41,6 @@ contentanalysis-genericresponse-message = Analyza wopśimjeśa jo wótegroniła 
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-block-message = Waša organizacija software pśeśiwo tšuśeju datow wužywa, kótaraž jo blokěrowała toś to wopśimjeśe: { $content }.
 # Variables:
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-error-message = Pśi komunikaciji ze software pśeśiwo tšuśeju datow jo zmólka nastała. Pśenjasenje jo se wótpokazało za resursu: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-unspecified-error-message = Pśi komunikaciji z { $agent } jo zmólka nastała. Pśenjasenje jo se wótpokazało za resursu: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-no-agent-connected-message = Njejo móžno z { $agent } zwězaś. Pśenjasenje jo se wótpokazało za resursu: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-invalid-agent-signature-message = Pśeglědanje signatury za { $agent } njejo se raźiło. Pśenjasenje jo se wótpokazało za resursu: { $content }.
-# Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Localized text describing the content being blocked, such as "Paste denied."
 contentanalysis-unspecified-error-message-content = Zmólka jo nastała pśi komunicěrowanju z { $agent }. { $content }

@@ -98,7 +98,7 @@ places-delete-page =
            *[other] Slet sider
         }
     .accesskey = S
-# Managed bookmarks are created by an administrator and cannot be changed by the user.
+# Managed bookmarks are created by enterprise policy and cannot be changed by the user.
 managed-bookmarks =
     .label = Administrerede bogmærker
 # This label is used when a managed bookmarks folder doesn't have a name.

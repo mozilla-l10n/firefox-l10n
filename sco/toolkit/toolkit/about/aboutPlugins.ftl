@@ -6,8 +6,6 @@ title-label = Aboot Plugins
 installed-plugins-label = Instawed plugins
 no-plugins-are-installed-label = Nae instawed plugins fund
 deprecation-description = Sowt missin? Some plugins arenae supportit onie mair. <a data-l10n-name="deprecation-link">Learn More.</a>
-deprecation-description2 =
-    .message = Sowt missin? Some plugins arenae supportit onie mair.
 
 ## The information of plugins
 ##

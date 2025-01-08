@@ -16,11 +16,12 @@ downloads-cmd-cancel =
     .tooltiptext = Ofbriechen
 downloads-cmd-cancel-panel =
     .aria-label = Ofbriechen
-  
+
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
 ##   $handler (String) - The name of the mime type's default file handler.
 ##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
+
 
 ##
 
@@ -28,12 +29,10 @@ downloads-cmd-retry =
     .tooltiptext = Nach eng Kéier probéieren
 downloads-cmd-retry-panel =
     .aria-label = Nach eng Kéier probéieren
-
 # Displayed when hovering a blocked download, indicates that it's possible to
 # show more information for user to take the next action.
 downloads-show-more-information =
     .value = Méi Informatioune weisen
-
 # Displayed when hovering a complete download, indicates that it's possible to
 # open the file using an app available in the system.
 downloads-open-file =
@@ -47,6 +46,7 @@ downloads-open-file =
 ##   $seconds (number) - Amount of seconds left till the file opens.
 ##   $minutes (number) - Amount of minutes till the file opens.
 
+
 ##
 
 # Displayed when hovering a download which is able to be cancelled by users,
@@ -59,7 +59,9 @@ downloads-cancel-download =
 ##   $num (number) - Number of blocked downloads.
 ##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
 
+
 ##
+
 
 ## Download errors
 

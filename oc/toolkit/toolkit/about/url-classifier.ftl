@@ -5,7 +5,11 @@
 url-classifier-title = Informacion tocant la classificacion de las URL
 url-classifier-search-title = Recèrca
 url-classifier-search-result-title = Resultats
+# Variables:
+#   $uri (string) - URI of blocked page
 url-classifier-search-result-uri = URI : { $uri }
+# Variables:
+#   $list (string) - List of tables where the page is blocked
 url-classifier-search-result-list = Lista dels tablèus : { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = URL invalida
@@ -40,7 +44,6 @@ url-classifier-debug-sb-modules = Moduls de jornalizacion pel blocatge de sites 
 url-classifier-debug-modules = Moduls de jornalizacion actuals
 url-classifier-debug-sbjs-modules = Jornal JS del blocatge de sites malvolents
 url-classifier-debug-file = Fichièr de jornalizacion actual
-
 url-classifier-trigger-update = Desenclavar una mesa a jorn
 url-classifier-not-available = N/D
 url-classifier-disable-sbjs-log = Desactivar la jornalizaction JS del blocatge de sites malvolents

@@ -20,11 +20,9 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Kunchatu
     .accesskey = C
-
 webext-perms-sideload-cancel =
     .label = Kunchatu
     .accesskey = C
-
 webext-perms-optional-perms-deny =
     .label = Kasi
     .accesskey = D

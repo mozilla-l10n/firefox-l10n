@@ -2,8 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# Localized string used as the dialog window title (a new behavior locked
-# behind the "extensions.abuseReport.openDialog" preference).
+# Localized string used as the dialog window title.
 # "Report" is a noun in this case, "Report for AddonName".
 #
 # Variables:
@@ -16,8 +15,6 @@ abuse-report-subtitle = Ano ang problema?
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = ni <a data-l10n-name="author-name">{ $author-name }</a>
 abuse-report-learnmore = Hindi sigurado aling issue ang pipiliin? <a data-l10n-name="learnmore-link">Alamin ang tungkol sa pagsumbong sa mga extension at tema</a>
-abuse-report-learnmore-intro = Hindi sigurado aling issue ang pipiliin?
-abuse-report-learnmore-link = Alamin ang tungkol sa pagsumbong sa mga extension at tema
 abuse-report-submit-description = Ilarawan ang problema (opsyonal)
 abuse-report-textarea =
     .placeholder = Mas madali para sa amin matugunan ang problema kung mayroong mga detalye. Pakilarawan kung ano ang iyong nararanasan. Salamat sa pagtulong para mapanatiling maayos ang web.
@@ -43,22 +40,6 @@ abuse-report-messagebar-removed-extension = Salamat sa pagpasa ng ulat. Tinangga
 abuse-report-messagebar-removed-theme = Salamat sa pagpasa ng ulat. Tinanggal mo na ang tema na <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Nagkaproblema sa pagpasa ng ulat para sa <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Ang ulat para sa <span data-l10n-name="addon-name">{ $addon-name }</span> ay hindi naipadala dahil may isa nang naipadala kamakailan lang.
-abuse-report-messagebar-aborted2 =
-    .message = Nakansela ang pag-ulat sa { $addon-name }
-abuse-report-messagebar-submitting2 =
-    .message = Ipinapadala ang ulat para sa { $addon-name }.
-abuse-report-messagebar-submitted2 =
-    .message = Salamat sa pagpasa ng ulat. Gusto mo bang tanggalin ang { $addon-name }?
-abuse-report-messagebar-submitted-noremove2 =
-    .message = Salamat sa pagpasa ng ulat.
-abuse-report-messagebar-removed-extension2 =
-    .message = Salamat sa pagpasa ng ulat. Tinanggal mo na ang extension na { $addon-name }.
-abuse-report-messagebar-removed-theme2 =
-    .message = Salamat sa pagpasa ng ulat. Tinanggal mo na ang tema na { $addon-name }.
-abuse-report-messagebar-error2 =
-    .message = Nagkaproblema sa pagpasa ng ulat para sa { $addon-name }.
-abuse-report-messagebar-error-recent-submit2 =
-    .message = Ang ulat para sa { $addon-name } ay hindi naipadala dahil may isa nang naipadala kamakailan lang.
 
 ## Message bars actions.
 

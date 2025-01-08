@@ -39,8 +39,6 @@ address-capture-manage-address-button =
     .label = Адрес баптаулары
 address-capture-learn-more-button =
     .label = Көбірек білу
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Жаңа адресті қосу
 address-capture-open-menu-button =
     .aria-label = Мәзірді ашу
 address-capture-edit-address-button =
@@ -49,10 +47,10 @@ address-capture-edit-address-button =
 autofill-add-address-title = Адресті қосу
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Адресті түзету
-autofill-address-name = Аты
 autofill-address-given-name = Аты
 autofill-address-additional-name = Әкесінің аты
 autofill-address-family-name = Тегi
+autofill-address-name = Аты
 autofill-address-organization = Ұйым
 autofill-address-street-address = Көше адресі
 autofill-address-street = Адрес
@@ -108,9 +106,8 @@ autofill-address-eircode = Пошта индексі
 
 ##
 
-
-##
-
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Жаңа адресті қосу
 autofill-address-country = Ел немесе аймақ
 autofill-address-country-only = Ел
 autofill-address-tel = Телефон
@@ -122,11 +119,6 @@ autofill-country-warning-message = Формаларды автотолтыру �
 autofill-add-new-card-title = Жаңа несиелік картаны қосу
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Несиелік картаны түзету
-autofill-message-tooltip = Автоматты толтыру туралы хабарламаны қарау
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-card-title = Картаны қосу
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title2 = Картаны түзету
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -135,6 +127,11 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } сақталған несие карта ақпаратын қолданғысы келеді. Бұл Windows тіркелгісіне қатынау рұқсатын төменде растаңыз.
        *[other] { -brand-short-name } несие карта ақпаратын көрсеткісі келеді.
     }
+autofill-message-tooltip = Автоматты толтыру туралы хабарламаны қарау
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Картаны қосу
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Картаны түзету
 autofill-card-number = Карта нөмірі
 autofill-card-invalid-number = Жарамды карта нөмірін енгізіңіз
 autofill-card-name-on-card = Картадағы аты

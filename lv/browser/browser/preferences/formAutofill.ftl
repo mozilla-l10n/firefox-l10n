@@ -47,10 +47,10 @@ address-capture-edit-address-button =
 autofill-add-address-title = Pievienot adresi
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Rediģēt adresi
-autofill-address-name = Nosaukums
 autofill-address-given-name = Vārds
 autofill-address-additional-name = Otrs vārds
 autofill-address-family-name = Uzvārds
+autofill-address-name = Nosaukums
 autofill-address-organization = Uzņēmums
 autofill-address-street-address = Ielas adrese
 autofill-address-street = Adrese
@@ -103,9 +103,6 @@ autofill-address-postal-code = Pasta indekss
 autofill-address-zip = Pasta indekss
 # Used in IE
 autofill-address-eircode = Eirkode
-
-##
-
 
 ##
 

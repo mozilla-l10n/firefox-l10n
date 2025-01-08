@@ -41,7 +41,6 @@ account-single-tab-arriving-from-device-title = Ithebhu evela kwi-{ $deviceName 
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = IiThebhu ziFunyenwe
-
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =
@@ -60,3 +59,9 @@ account-multiple-tabs-arriving-from-unknown-device =
         [one] Ithebhu { $tabCount } ifikile
        *[other] iithebhu { $tabCount } zifikile
     }
+
+## These strings are used in notifications in which the user remotely closed
+## tabs from other devices
+## Variables:
+##   $closedCount (Number): the number of tabs closed
+

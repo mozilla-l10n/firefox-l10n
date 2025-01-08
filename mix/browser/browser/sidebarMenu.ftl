@@ -4,4 +4,3 @@
 
 sidebar-menu-history =
     .label = Ña ntsinu
-

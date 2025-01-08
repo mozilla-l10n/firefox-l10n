@@ -6,18 +6,13 @@
 ## These messages are used as headings in the recommendation doorhanger
 
 
-
-
 ##
 
 cfr-doorhanger-extension-cancel-button = दानो नङा
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = दानो दाजाबदेर
     .accesskey = A
-
 cfr-doorhanger-extension-learn-more-link = गोबां सोलों
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
@@ -43,9 +38,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } बाहायग्राफोर
     }
 
-## These messages are steps on how to use the feature and are shown together.
-
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = जेरावबो नोंथांनि बुकमार्कफोर सिनक खालाम
@@ -63,50 +55,14 @@ cfr-whatsnew-button =
     .label = मा गोदान
     .tooltiptext = मा गोदान
 
-## Search Bar
-
-## Picture-in-Picture
-
-
-## Permission Prompt
-
-
-## Fingerprinter Counter
-
-
-## Bookmark Sync
-
-## Login Sync
-
-## Send Tab
-
-## Firefox Send
-
-## Social Tracking Protection
-
 ## Enhanced Tracking Protection Milestones
 
-## What’s New Panel Content for Firefox 76
-
-## Lockwise message
-
-## Vulnerable Passwords message
-
-## Picture-in-Picture fullscreen message
-
-## Protections Dashboard message
-
-## Better PDF message
 
 ## DOH Message
 
-## What's new: Cookies message
-
-## Fission Experiment Message
 
 ## Full Video Support CFR message
 
-## Spotlight modal shared strings
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -114,9 +70,9 @@ cfr-whatsnew-button =
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
-## Total Cookie Protection Rollout
 
 ## Emotive Continuous Onboarding
+
 
 ## MR2022 Background Update Windows native toast notification strings.
 ##
@@ -131,19 +87,52 @@ cfr-whatsnew-button =
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+
 ## Firefox View CFR
+
 
 ## Firefox View Spotlight
 
+
 ## Colorways expiry reminder CFR
+
 
 ## Cookie Banner Handling CFR
 
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
+
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+
 ## FxA sync CFR
 
+
 ## Device Migration FxA Spotlight
+
+
+## Set as Default PDF Reader Infobar
+
+
+## Launch on login infobar notification
+
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+
+## Tail Fox Set Default Spotlight
+
+
+## Root Certificate Succession Infobar
+
+
+## Root Certificate Succession Windows Background Notification
+
+
+## FxA Menu Message variants
+
+
+## Multi-CTA Fox Doodle Spotlight
 

@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Tee etiquetas
-
 pocket-panel-saved-error-generic = Nkene iin tixi sa kuvi chuva'a nu { -pocket-brand-name }
 pocket-panel-saved-error-tag-length = Ntu xini 25 tu'un
 pocket-panel-saved-error-only-links = Ntuxini enlaces kuvi chuva'a
@@ -26,7 +25,6 @@ pocket-panel-saved-save-tags = Chuva´a
 pocket-panel-saved-saving-tags = Chuva'a...
 pocket-panel-saved-suggested-tags = Etiquetas sugeridas
 pocket-panel-saved-tags-saved = Etiquetas agregadas
-
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Tee etiquetas:
 

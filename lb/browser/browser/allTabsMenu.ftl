@@ -4,4 +4,3 @@
 
 all-tabs-menu-hidden-tabs =
     .label = Verstoppt Tabs
-

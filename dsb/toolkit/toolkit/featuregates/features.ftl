@@ -59,8 +59,6 @@ sidebar-description = Mějśo lažki pśistup k swójej historiji, rejtarikam z 
 vertical-tabs-title =
     .label = Wertikalne rejtariki
 vertical-tabs-description = Pśesuniśo swóje rejtariki wót górneje kšomy wobglědowaka na bok. Pomina se, až teke bocnicu wopytujośo. <a data-l10n-name="connect">Měnjenja źěliś</a>
-experimental-features-group-browsing =
-    .label = Pśeglědowanje
 experimental-features-group-developer-tools =
     .label = Wuwijaŕske rědy
 experimental-features-group-webpage-display =

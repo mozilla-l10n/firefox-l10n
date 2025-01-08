@@ -29,3 +29,7 @@ webext-perms-description-tabs = Accesso a-i feuggi do navegatô
 webext-perms-description-tabHide = Ascondi e mostra i feuggi do navegatô
 webext-perms-description-topSites = Accesso a-a stöia da navegaçion
 webext-perms-description-webNavigation = Accesso a-e ativitæ do navegatô inta navegaçion
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

@@ -5,7 +5,11 @@
 url-classifier-title = Nuguan' sa nagui URL
 url-classifier-search-title = Nanà'uì'
 url-classifier-search-result-title = Sa nari'ij
+# Variables:
+#   $uri (string) - URI of blocked page
 url-classifier-search-result-uri = URI: { $uri }
+# Variables:
+#   $list (string) - List of tables where the page is blocked
 url-classifier-search-result-list = Si listâ nej mêsa: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = Se URL huin
@@ -40,7 +44,6 @@ url-classifier-debug-sb-modules = Riña nu sà' navegación tna'uej rayi'ît
 url-classifier-debug-modules = Riña hua nakà nutà't nuguan'
 url-classifier-debug-sbjs-modules = Riña gache nu hue'êt Js
 url-classifier-debug-file = Riña màn sà' nej nuguan' nakàa
-
 url-classifier-trigger-update = Nahuin nakà aktibasiûn
 url-classifier-not-available = N/A
 url-classifier-disable-sbjs-log = Guxun riña aché nu huìt JS

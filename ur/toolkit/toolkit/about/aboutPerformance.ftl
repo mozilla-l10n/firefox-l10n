@@ -54,4 +54,3 @@ close-tab =
     .title = ٹیب بند کریں
 show-addon =
     .title = ایڈ اون مینیجر میں دکھائیں
-

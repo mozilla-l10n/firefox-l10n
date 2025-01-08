@@ -9,13 +9,18 @@
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
 opensearch-error-duplicate-title = Biddut ti Panagisimpa
-
 opensearch-error-format-desc = Saanna a naisimpa ti { -brand-short-name } ti makina pangbirok nga aggapu: { $location-url }
 
 ##
+
 
 ## Infobar shown when search engine is removed and replaced.
 ## Variables
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
+
+
+## Infobar shown when user is prompted to install search engine.
+## Variables
+## $engineName (String) - the name of the search engine to install.
 

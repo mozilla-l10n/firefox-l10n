@@ -7,10 +7,15 @@ screenshots-cancel-button = Vazgeç
 screenshots-save-visible-button = Körünirni saqla
 screenshots-save-page-button = Tam saifeni saqla
 screenshots-download-button = Endir
-
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
        *[other] Ctrl
     }
+
+## The below strings are used to capture keydown events so the strings should
+## not be changed unless the keyboard layout in the locale requires it.
+
+
+##
 

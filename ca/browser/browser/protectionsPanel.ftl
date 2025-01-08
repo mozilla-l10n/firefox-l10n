@@ -72,6 +72,9 @@ protections-panel-blocking-label = Blocat
 protections-panel-not-blocking-label = Permès
 protections-panel-not-found-label = Cap detectat
 
+## Smartblock strings
+
+
 ##
 
 protections-panel-settings-label = Paràmetres de protecció

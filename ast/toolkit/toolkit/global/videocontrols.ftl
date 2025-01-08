@@ -10,7 +10,6 @@ videocontrols-volume-control =
     .aria-label = Volume
 videocontrols-closed-caption-button =
     .aria-label = Sotítulos
-
 videocontrols-play-button =
     .aria-label = Reproducir
 videocontrols-pause-button =
@@ -25,13 +24,13 @@ videocontrols-exitfullscreen-button =
     .aria-label = Colar de pantalla completa
 videocontrols-casting-button-label =
     .aria-label = Tresmitir a una pantalla
+# .offlabel is processed by the video control custom element to be used
+# as a text-track label
 videocontrols-closed-caption-off =
     .offlabel = Non
-
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Imaxe sobre Imaxe
-
 videocontrols-error-aborted = Paró la carga del videu.
 videocontrols-error-network = Albortóse la reproducción de videu pola mor d'un fallu de la rede.
 videocontrols-error-decode = El videu nun pue reproducise porque'l ficheru ta toyíu.
@@ -39,7 +38,6 @@ videocontrols-error-src-not-supported = El formatu del videu o'l tipu MIME nun t
 videocontrols-error-no-source = Nun s'atopó nengún videu col formatu y tipu MIME sofitaos.
 videocontrols-error-generic = Albortóse la reproducción de videu pola mor d'un fallu desconocíu.
 videocontrols-status-picture-in-picture = Esti videu ta reproduciéndose nel mou Imaxe sobre Imaxe
-
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -53,7 +51,6 @@ videocontrols-status-picture-in-picture = Esti videu ta reproduciéndose nel mou
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
-
 # This is a plain text version of the videocontrols-position-and-duration-labels
 # string, used by screenreaders.
 #

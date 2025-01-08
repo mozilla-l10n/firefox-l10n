@@ -10,6 +10,12 @@
 ##
 
 
+## Text for the toggles shown when ETP is enabled/disabled for a given site.
+## .description is transferred into a separate paragraph by the moz-toggle
+## custom element code.
+##   $host (String): the hostname of the site that is being displayed.
+
+
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 
@@ -22,6 +28,9 @@
 ##   "Allowed" for categories detected but not blocked in the current page, and
 ##   "None Detected" for categories not detected in the current page.
 ##   These strings are used in the header labels of each of these sections.
+
+
+## Smartblock strings
 
 
 ##
@@ -39,4 +48,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
     .label = ផ្ញើ​របាយការណ៍
 
 # Cookie Banner Handling
+
+
+## Protections panel info message
 

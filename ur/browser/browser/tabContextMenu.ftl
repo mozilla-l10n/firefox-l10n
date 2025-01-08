@@ -81,4 +81,3 @@ tab-context-move-tabs =
            *[other] ٹیب منتقل کریں
         }
     .accesskey = v
-

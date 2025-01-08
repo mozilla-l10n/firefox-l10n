@@ -232,7 +232,6 @@ newtab-pocket-learn-more = Uzzināt vairāk
 newtab-pocket-cta-button = Izmēģiniet { -pocket-brand-name }
 newtab-pocket-cta-text = Saglabājiet interesantus stāstus { -pocket-brand-name } un barojiet savu prātu ar interesantu lasāmvielu.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } ir daļa no { -brand-product-name } saimes
-# A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Saglabāt
 newtab-pocket-saved = Saglabāts
 
@@ -435,3 +434,11 @@ newtab-topic-selection-button-maybe-later = Varbūt vēlāk
 newtab-topic-selection-privacy-link = Uzziniet, kā mēs aizsargājam un pārvaldām datus
 newtab-topic-selection-button-update-interests = Atjauniniet savas intereses
 newtab-topic-selection-button-pick-interests = Izvēlieties savas intereses
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Confirmation modal for blocking a section
+

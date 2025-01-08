@@ -5,53 +5,40 @@
 permissions-window2 =
     .title = અપવાદો
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = વેબ સાઈટનું સરનામું
     .accesskey = d
-
 permissions-block =
     .label = બ્લોક
     .accesskey = B
-
 permissions-session =
     .label = સત્ર માટે પરવાનગી આપો
     .accesskey = S
-
 permissions-allow =
     .label = પરવાનગી આપો
     .accesskey = A
-
 permissions-site-name =
     .label = વેબસાઇટ
-
 permissions-status =
     .label = પરિસ્થિતિ
-
 permissions-remove =
     .label = વેબસાઇટ દૂર કરો
     .accesskey = R
-
 permissions-remove-all =
     .label = બધી વેબસાઇટ્સને દૂર કરો
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = પરિવર્તનો સાચવો
     .buttonaccesskeyaccept = S
-
 permissions-searchbox =
     .placeholder = વેબસાઇટ શોધો
-
 permissions-capabilities-allow =
     .label = માન્યતા આપો
 permissions-capabilities-block =
     .label = બ્લોક
 permissions-capabilities-prompt =
     .label = હંમેશા પૂછો
-
 permissions-capabilities-listitem-allow =
     .value = માન્યતા આપો
 permissions-capabilities-listitem-block =
@@ -90,6 +77,9 @@ permissions-exceptions-saved-logins-window2 =
     .title = અપવાદો - સાચવેલા લોગિન
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = નીચેની વેબસાઇટ્સ માટેના લૉગિન્સ સંગ્રહાશે નહીં
+
+## Exceptions - Saved Passwords
+
 
 ## Exceptions - Add-ons
 

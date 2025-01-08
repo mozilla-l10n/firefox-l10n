@@ -35,7 +35,7 @@ about-reader-estimated-read-time =
        *[other] { $range } minutu
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = Txikiagotu letra-tipoaren tamaina
@@ -86,7 +86,7 @@ about-reader-custom-colors-selection-highlight = Ozen irakurtzeko nabarmengailua
     .title = Editatu kolorea
 about-reader-reset-button = Berrezarri lehenespenak
 
-## Reader View improved text and layout menu
+## Reader View text and layout menu
 
 about-reader-text-header = Testua
 about-reader-text-size-label = Testuaren tamaina

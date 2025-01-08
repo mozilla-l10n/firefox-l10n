@@ -5,10 +5,8 @@
 profiledowngrade-window2 =
     .title = آپ نے { -brand-product-name }کا پرانا ورژن لانچ کیا ہے
     .style = min-width: 490px
-
 profiledowngrade-window-create =
     .label = ایک نئی پروفائل بنائیں
-
 profiledowngrade-quit =
     .label =
         { PLATFORM() ->

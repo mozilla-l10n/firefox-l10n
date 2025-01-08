@@ -31,6 +31,3 @@ appmenu-update-other-instance =
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = ശരി
     .buttonaccesskey = O
-appmenu-addon-post-install-incognito-checkbox =
-    .label = സ്വകാര്യ വിൻഡോസിൽ പ്രവർത്തിക്കുന്നതിന് ഈ എക്സ്റ്റന്‍ഷനെ അനുവദിക്കുക
-    .accesskey = A

@@ -8,7 +8,6 @@
 videocontrols-buffer-bar-label = يُحمّل:
 videocontrols-volume-control =
     .aria-label = مستوى الصوت
-
 videocontrols-play-button =
     .aria-label = شغّل
 videocontrols-pause-button =
@@ -23,13 +22,13 @@ videocontrols-exitfullscreen-button =
     .aria-label = غادر ملء الشاشة
 videocontrols-casting-button-label =
     .aria-label = اعرض على الشاشة
+# .offlabel is processed by the video control custom element to be used
+# as a text-track label
 videocontrols-closed-caption-off =
     .offlabel = بدون
-
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = ڤديو معترِض
-
 videocontrols-error-aborted = توقف تحميل الفديو.
 videocontrols-error-network = توقف تشغيل الفديو بسبب عُطل شبكي.
 videocontrols-error-decode = تعذّر تشغيل الفديو لعطب في الملف.
@@ -37,7 +36,6 @@ videocontrols-error-src-not-supported = نسق أو نوع MIME الفديو غ�
 videocontrols-error-no-source = لم يُعثر على فديو بنسق أو نوع MIME مدعوم.
 videocontrols-error-generic = توقف تشغيل الفديو بسبب عُطل غير معروف.
 videocontrols-status-picture-in-picture = يعمل هذا الڤديو في وضع الڤديوهات المعترِضة.
-
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -51,7 +49,6 @@ videocontrols-status-picture-in-picture = يعمل هذا الڤديو في وض
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position }‏<span data-l10n-name="position-duration-format"> \‏ { $duration }</span>
-
 # This is a plain text version of the videocontrols-position-and-duration-labels
 # string, used by screenreaders.
 #

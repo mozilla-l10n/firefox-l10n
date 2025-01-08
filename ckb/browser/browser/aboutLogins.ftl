@@ -4,7 +4,6 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = چوونەژوورەوە و وشەی تێپەڕەکان
-
 fxaccounts-sign-in-text = وشەی تێپەڕەکەت لە ئامێرەکانی ترەوە بەدەستبهێنە
 fxaccounts-sign-in-sync-button = بۆ هاوکاتکردن بچۆژوورەوە
 fxaccounts-avatar-button =
@@ -30,6 +29,8 @@ about-logins-menu-menuitem-help = یارمەتی
 
 login-list =
     .aria-label = چوونەژوورەوە وەکو داواکردنی گەڕانە
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count } چوونەژوورەوە
@@ -99,6 +100,7 @@ login-item-cancel-button = پاشگەزبوونەوە
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+
 ## OS Authentication dialog
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }
@@ -112,19 +114,16 @@ about-logins-edit-login-os-auth-dialog-message-win = بۆ دەستکاریکرد
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = چوونەژوورەوەی هەڵگیراو دەستکاریبکە
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = بۆ بینینی وشەنهێنیەکانت، وشەنهێنی ویندۆزەکەت بنوسە. ئەمە یارمەتی ئەدات بۆ پاراستنی هەژمارەکانت.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = وشەی تێپەڕی هەڵگیراو پیشان بدە
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = بۆ کۆپیکردنی وشەنهێنیەکەت، زانیاری چوونەژووری ویندۆزەکەت بنوسە. ئەمە یارمەتیدەرە بۆ پاراستنی هەژمارەکانت.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = وشەی تێپەڕی هەڵگیراو لەبەربگرەوە
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = بۆ دەرهێنانی چوونەژوورەکانت، زانیاریەکانی چوونەژووری ویندۆز بنوسە. ئەمە یارمەتیدەرە بۆ پاراستنی هەژمارەکانت.
 # This message can be seen when attempting to export a password in about:logins
@@ -143,7 +142,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = پاشگەزبوونەوە
 confirmation-dialog-dismiss-button =
     .title = پاشگەزبوونەوە
-
 about-logins-confirm-remove-dialog-title = ئەم چوونەژورەوە دەسڕیتەوە؟
 confirm-delete-dialog-message = ئەم کارە پاشگەزبوونەوەی نیە.
 about-logins-confirm-remove-dialog-confirm-button = بیسڕەوە
@@ -157,13 +155,11 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
         [one] بەڵی، ئەم چوونەژورەوانە بسڕەوە
        *[other] بەڵی، ئەم چوونەژورەوانە بسڕەوە
     }
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] { $count } چوونەژوورەوە دەسڕیتەوە؟
        *[other] { $count } چوونەژوورەوە دەسڕیتەوە؟
     }
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] { $count } چوونەژوورەوە دەسڕیتەوە لە هەموو ئامێرەکان؟
@@ -175,10 +171,8 @@ about-logins-confirm-remove-all-sync-dialog-title =
 about-logins-confirm-export-dialog-title = چوونەژوورەوە و وشەی تێپەڕەکان دەربهێنە
 about-logins-confirm-export-dialog-message = وشەنهێنیەکانت پاشەکەوت ئەکرێن وەک دەقێکی خوێنراوە (نمونە BadP@ssw0rd) بەشێوەیەک هەموو کەسێک پەڕگە دەرکراوەکە بکاتەوە و بیان بینێت.
 about-logins-confirm-export-dialog-confirm-button = هەناردەکردن...
-
 about-logins-alert-import-title = هاوردەکردن تەواو بوو
 about-logins-alert-import-message = وردەکاریی پوختەی هاوردەکردن ببینە
-
 confirm-discard-changes-dialog-title = هەڵوەشاندنەوەی گۆڕانکارییە پاشەکەوت نەکراوەکان؟
 confirm-discard-changes-dialog-message = هەموو گۆڕانکارییە پاشەکەوتکراوەکان دەفەوتێت.
 confirm-discard-changes-dialog-confirm-button = هەڵیبوەشێنەوە
@@ -239,7 +233,6 @@ about-logins-import-file-picker-csv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-done = تەواو
-
 about-logins-import-dialog-error-learn-more = زیاتر بزانە
 about-logins-import-dialog-error-cancel = پاشگەزبوونەوە
 

@@ -188,6 +188,8 @@ shortcuts-letter = پیتێک بنووسە
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = { $addon } بەکاریدێنێت
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] { $numberToShow } زیاتر پیشان بدە
@@ -335,7 +337,7 @@ addon-page-options-button =
 ##   $name (string) - Name of the add-on.
 
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name } ناگونجێت لەگەڵ { -brand-short-name }{ $version }.
 # Variables:
 #   $version (string) - Application version.

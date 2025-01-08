@@ -5,4 +5,3 @@
 select-bookmark-window2 =
     .title = Set Home Page
     .style = min-width: 32em;
-

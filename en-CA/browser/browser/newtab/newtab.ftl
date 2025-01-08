@@ -460,3 +460,6 @@ newtab-topic-selection-button-pick-interests = Pick your interests
 newtab-section-follow-button = Follow
 newtab-section-following-button = Following
 newtab-section-unfollow-button = Unfollow
+
+## Confirmation modal for blocking a section
+

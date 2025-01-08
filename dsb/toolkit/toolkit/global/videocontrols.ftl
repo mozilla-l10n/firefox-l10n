@@ -10,7 +10,6 @@ videocontrols-volume-control =
     .aria-label = Głosnosć
 videocontrols-closed-caption-button =
     .aria-label = Pódtitele
-
 videocontrols-play-button =
     .aria-label = Wótgraś
 videocontrols-pause-button =
@@ -25,19 +24,20 @@ videocontrols-exitfullscreen-button =
     .aria-label = Połnu wobrazowku spušćiś
 videocontrols-casting-button-label =
     .aria-label = Na wobrazowku projicěrowaś
+# .offlabel is processed by the video control custom element to be used
+# as a text-track label
 videocontrols-closed-caption-off =
     .offlabel = Wušaltowany
-
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Wobraz-we-wobrazu
-
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = Wideo naprědk póraś
-
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer3 = Wěcej wobrazowkow jo wěcej wjasela. Wótgrajśo toś to wideo, gaž druge wěcy gótujośo.
-
 videocontrols-error-aborted = Zacytowanje wideo jo se zastajiło.
 videocontrols-error-network = Wótgrawanje wideo jo se seśoweje zmólki dla pśetergnuło.
 videocontrols-error-decode = Wideo njedajo se wótgraś, dokulaž dataja jo wobškóźona.
@@ -45,7 +45,6 @@ videocontrols-error-src-not-supported = Wideowy format abo MIME-typ se njepódp�
 videocontrols-error-no-source = Wideo z pódpěranym formatom a MIME-typom njejo so namakało.
 videocontrols-error-generic = Wotgrawanje wideo jo se njeznateje zmólki dla pśetergnuło.
 videocontrols-status-picture-in-picture = Toś to wideo se w modusu wobraz-we-wobrazu wótgrawa.
-
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -59,7 +58,6 @@ videocontrols-status-picture-in-picture = Toś to wideo se w modusu wobraz-we-wo
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
-
 # This is a plain text version of the videocontrols-position-and-duration-labels
 # string, used by screenreaders.
 #

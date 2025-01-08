@@ -4,7 +4,6 @@
 
 wizard-macos-button-finish =
     .label = Fatu
-
 wizard-macos-button-cancel =
     .label = Annulla
 wizard-linux-button-cancel =

@@ -4,5 +4,5 @@
 
 refresh-profile =
     .label = I-refresh ang { -brand-short-name }
-# Shown on the safe mode dialog after multiple startup crashes. 
+# Shown on the safe mode dialog after multiple startup crashes.
 auto-safe-mode-description = Ang { -brand-short-name } ay nagsara nang di-inaasahan habang nagbubukas. Ito ay maaring dahil sa mga add-on o iba pang mga problema. Maaari mong maresolba ang problema kapag nag-troubleshoot sa Safe Mode.

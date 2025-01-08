@@ -5,8 +5,6 @@
 abuse-report-learnmore =
     Qaysi muammoni tanlashni bilamayapsizmi?
     <a data-l10n-name="learnmore-link">Kengaytma va mavzular ustidan shikoyat qilish haqida batafsil</a>
-abuse-report-learnmore-intro = Qaysi muammoni tanlashni bilamayapsizmi?
-abuse-report-learnmore-link = Kengaytma va mavzular ustidan shikoyat qilish haqida batafsil
 
 ## Panel buttons.
 

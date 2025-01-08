@@ -3,12 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = പുതിയ റ്റാബ്
-
 tabbrowser-menuitem-close-tab =
     .label = റ്റാബ് അടയ്ക്കുക
 tabbrowser-menuitem-close =
     .label = അടയ്ക്കുക
-
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
@@ -32,10 +30,17 @@ tabbrowser-confirm-close-tabs-button = റ്റാബുകള്‍ അടയ�
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
 
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+
 ## Confirmation dialog when opening multiple tabs simultaneously
 
 
 ## Confirmation dialog for enabling caret browsing
+
+
+## Confirmation dialog for closing all duplicate tabs
 
 
 ##
@@ -59,4 +64,11 @@ tabbrowser-ctrl-tab-list-all-tabs =
     .label = എല്ലാ { $tabCount } ടാബുകളും ലഭ്യമാക്കുക
 
 ## Tab manager menu buttons
+
+
+## Tab Groups
+
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 

@@ -2,7 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = ڕاپۆرتی داخستنی لەناکاو
 crashreporter-button-details = وردەکاری...
 crashreporter-view-report-title = ناوەڕۆک ڕاپۆرت بکە
 crashreporter-comment-prompt = لێدوان زیاد بکە (لێدوانەکە لە گشتی دەردەکەون)

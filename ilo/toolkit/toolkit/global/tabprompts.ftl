@@ -4,7 +4,6 @@
 
 tabmodalprompt-password =
     .value = Kontrasenias:
-
 tabmodalprompt-ok-button =
     .label = OK
 tabmodalprompt-cancel-button =

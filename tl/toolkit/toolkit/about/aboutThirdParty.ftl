@@ -10,13 +10,10 @@ third-party-detail-duration = Avg. Blocking time (ms)
     .title = How long this module blocked the application.
 third-party-detail-app = Application
 third-party-detail-publisher = Publisher
-
 third-party-th-process = Process
 third-party-th-duration = Loading Duration (ms)
 third-party-th-status = Status
-
 third-party-tag-ime = IME
     .title = This type of module is loaded when you use a third-party IME.
 third-party-tag-shellex = Shell Extension
     .title = This type of module is loaded when you open the system file dialog.
-

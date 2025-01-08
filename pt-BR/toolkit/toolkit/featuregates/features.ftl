@@ -59,8 +59,6 @@ sidebar-description = Acessar facilmente o histórico, abas de outros dispositiv
 vertical-tabs-title =
     .label = Abas na vertical
 vertical-tabs-description = Mover abas do topo para o lado do navegador. Precisa do experimento “Painel lateral“. <a data-l10n-name="connect">Compartilhar opinião</a>
-experimental-features-group-browsing =
-    .label = Navegação
 experimental-features-group-developer-tools =
     .label = Ferramentas de desenvolvimento
 experimental-features-group-webpage-display =

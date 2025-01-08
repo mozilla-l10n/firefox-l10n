@@ -13,7 +13,6 @@ app-basics-name = Numm
 app-basics-version = Versioun
 app-basics-performance = Performance
 app-basics-profiles = Profiler
-
 modified-prefs-name = Numm
 modified-prefs-value = Wäert
 locked-prefs-name = Numm
@@ -32,6 +31,12 @@ media-device-group = Grupp
 media-device-format = Format
 
 ## Codec support table
+
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
 
 ##
 
@@ -60,14 +65,10 @@ no = Nee
 ## not found.
 
 found = Fonnt
-
 gpu-description = Beschreiwung
 gpu-active = Aktiv
-
 loaded-lib-versions = Benotzt Versioun
-
 sandbox-proc-type-content = Inhalt
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -79,7 +80,18 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+
 ## Printing section
 
+
+## Remote Settings sections
+
+
 ## Normandy sections
+
+
+## Pointing devices
+
+
+## Content Analysis (DLP)
 

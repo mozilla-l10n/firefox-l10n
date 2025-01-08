@@ -4,31 +4,23 @@
 
 languages-close-key =
     .key = w
-
 languages-description = No dadduma panid ti Web ket ipaay iti sagmamano a pagsassao. Pilienyo dagiti pagsassao a pangipadlaw kadagiti panid wit web, a kas kaykayat.
-
 languages-customize-spoof-english =
     .label = Ipadawat dagiti Ingles a panid-web maipaay kaimbagan a kapaknian
-
 languages-customize-moveup =
     .label = Ipangato
     .accesskey = o
-
 languages-customize-movedown =
     .label = Ipababa
     .accesskey = b
-
 languages-customize-remove =
     .label = Ikkaten
     .accesskey = k
-
 languages-customize-select-language =
     .placeholder = Pilienyo ti pagsaasao a manayonan...
-
 languages-customize-add =
     .label = Nayonan
     .accesskey = N
-
 # The pattern used to generate strings presented to the user in the
 # locale selection list.
 #
@@ -41,4 +33,3 @@ languages-customize-add =
 #   $code (String) - Locale code of the locale (for example: "is", "es-CL")
 languages-code-format =
     .label = { $locale }  [{ $code }]
-

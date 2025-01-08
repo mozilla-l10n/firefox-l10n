@@ -117,7 +117,7 @@ containers-disable-alert-ok-button =
 containers-disable-alert-cancel-button = Lascia abilitou
 containers-remove-alert-title = Scancelâ sto contegnitô?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Se ti ti scancelli sto Contegnitô òua, { $count } contegnitô de feuggi saiâ seròu. T'ê seguo de scancelâ sto Contegnitô?
@@ -211,11 +211,11 @@ applications-manage-app =
 applications-always-ask =
     .label = Domanda de longo
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Adeuvia { $plugin-name } (in { -brand-short-name })
 
@@ -245,6 +245,8 @@ play-drm-content =
 play-drm-content-learn-more = Atre informaçioin
 update-application-title = Agiornamenti de { -brand-short-name }
 update-application-description = Mantegni { -brand-short-name } agiornou pe de megio prestaçioin, stabilitæ e seguessa.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Verscion { $version } <a data-l10n-name="learn-more">Novitæ</a>
 update-history =
     .label = Fanni vedde a stöia di agiornamenti…
@@ -279,7 +281,7 @@ performance-limit-content-process-option = Limite de contegnuo do processo
 performance-limit-content-process-enabled-desc = Deuviâ ciù contegnui do processo o peu megiorâ e prestaçioin quande ti deuvi tanti feuggi insemme, ma te faiâ stragiâ ciù memöia.
 performance-limit-content-process-blocked-desc = Cangiâ o numero de contegnui de processo o l'é poscibile solo in { -brand-short-name } moltiprocesso. <a data-l10n-name="learn-more">Amia comme controlâ se o moltiprocesso o l'é ativo</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (predefinio)
 
@@ -357,11 +359,8 @@ choose-bookmark =
 home-prefs-search-header =
     .label = Çerca into Web
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
-# Variables:
-#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Consegiou da { $provider }
 
@@ -384,6 +383,8 @@ home-prefs-highlights-option-saved-to-pocket =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Snippet
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -429,7 +430,7 @@ search-find-more-link = Treuva ciù motoî de riçerca
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Sta paròlla ciave a gh'é za
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Ti æ çernuo 'na paròlla ciave ch'a l'é uzâ da "{ $name }". Pe piaxei che ti ne çerni 'n'atra.
 search-keyword-warning-bookmark = Ti æ çernuo 'na paròlla ciave che a l'é uzâ da un segnalibbro. Pe piaxei che ti ne çerni 'n'atra.
 
@@ -548,6 +549,7 @@ privacy-header = Privacy do navegatô
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = Login e Poule segrete
     .searchkeywords = { -lockwise-brand-short-name }
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Domanda se sarvâ acessi e poule segrete pe-i sciti
     .accesskey = r
@@ -560,6 +562,9 @@ forms-exceptions =
 forms-saved-logins =
     .label = Acessi sarvæ…
     .accesskey = s
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Cangia a paròlla segreta prinçipâ…
     .accesskey = C
@@ -617,8 +622,8 @@ history-clear-button =
 sitedata-header = Cookie e Dæti di Sciti
 sitedata-total-size-calculating = Conto a dimenscion di dæti e da cache…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = I cookie, dæti do scito e cache deuvian { $value } { $unit } de spaçion in sciô disco.
 sitedata-learn-more = Pe saveine de ciù
 sitedata-allow-cookies-option =

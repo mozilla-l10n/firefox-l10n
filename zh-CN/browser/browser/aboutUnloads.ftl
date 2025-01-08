@@ -8,16 +8,13 @@
 
 about-unloads-page-title = 标签页卸载
 about-unloads-intro = { -brand-short-name } 提供自动卸载标签页的功能，以防止应用程序在系统可用内存较低时，因内存不足而崩溃。标签页的卸载次序取决于多个属性。此页面显示的是 { -brand-short-name } 如何排序标签页的优先级，以及触发卸载时将卸载哪些标签页。您可点击下方的<em>卸载</em> 按钮手动触发此功能。
-
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more = 欲详细了解此功能，请参阅 <a data-l10n-name="doc-link">Tab Unloading</a> 一文。
-
 about-unloads-last-updated = 最后更新：{ DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = 卸载
     .title = 卸载最高优先级的标签页
 about-unloads-no-unloadable-tab = 无可卸载的标签页。
-
 about-unloads-column-priority = 优先级
 about-unloads-column-host = 主机
 about-unloads-column-last-accessed = 最后访问
@@ -29,7 +26,6 @@ about-unloads-column-memory = 内存
     .title = 标签页的内存估计用量
 about-unloads-column-processes = 进程 ID
     .title = 处理标签页内容的进程 ID
-
 about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } MB
 about-unloads-memory-in-mb-tooltip =

@@ -47,10 +47,10 @@ address-capture-edit-address-button =
 autofill-add-address-title = Pridanie adresy
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Úprava adresy
-autofill-address-name = Meno
 autofill-address-given-name = Krstné meno
 autofill-address-additional-name = Stredné meno
 autofill-address-family-name = Priezvisko
+autofill-address-name = Meno
 autofill-address-organization = Organizácia
 autofill-address-street-address = Ulica
 autofill-address-street = Ulica
@@ -103,9 +103,6 @@ autofill-address-postal-code = PSČ
 autofill-address-zip = PSČ
 # Used in IE
 autofill-address-eircode = Eircode
-
-##
-
 
 ##
 

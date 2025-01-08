@@ -6,8 +6,6 @@ title-label = Tietoja liitännäisistä
 installed-plugins-label = Asennetut liitännäiset
 no-plugins-are-installed-label = Ei löytynyt yhtään asennettua liitännäistä
 deprecation-description = Puuttuuko jotain? Joitain liitännäisiä ei enää tueta. <a data-l10n-name="deprecation-link">Lue lisää.</a>
-deprecation-description2 =
-    .message = Puuttuuko jotain? Joitain liitännäisiä ei enää tueta.
 
 ## The information of plugins
 ##

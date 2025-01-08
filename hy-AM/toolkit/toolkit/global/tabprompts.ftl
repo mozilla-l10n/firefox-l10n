@@ -6,7 +6,6 @@ tabmodalprompt-username =
     .value = Օգտվողի Անուն.
 tabmodalprompt-password =
     .value = Գաղտնաբառ.
-
 tabmodalprompt-ok-button =
     .label = Լավ
 tabmodalprompt-cancel-button =

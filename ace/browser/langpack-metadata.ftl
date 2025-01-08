@@ -7,4 +7,3 @@
 ## Only text elements and literals are supported for these strings.
 
 langpack-creator = mozilla.org
-

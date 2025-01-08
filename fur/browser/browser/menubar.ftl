@@ -254,6 +254,9 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = Segnelibris dispositîfs mobii
 
+## Profiles Menu
+
+
 ## Tools Menu
 
 menu-tools =

@@ -298,6 +298,9 @@ root-certificate-succession-infobar-secondary-button =
     .label = Plui indevant
     .accesskey = P
 
+## Root Certificate Succession Windows Background Notification
+
+
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
@@ -316,3 +319,6 @@ fxa-menu-message-backup-sync-collapsed-text = Sincronize e fâs il backup dai ti
 fxa-menu-message-mobile-primary-text = Mande schedis al to telefon
 fxa-menu-message-mobile-secondary-text = Ripie intun lamp di dulà che tu jeris restât sincronizant lis schedis cuntun dispositîf mobil.
 fxa-menu-message-mobile-collapsed-text = Sincronize cul to telefon
+
+## Multi-CTA Fox Doodle Spotlight
+

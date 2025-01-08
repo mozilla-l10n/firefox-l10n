@@ -59,8 +59,6 @@ sidebar-description = Durante a navegação, aceda facilmente ao seu histórico,
 vertical-tabs-title =
     .label = Separadores verticais
 vertical-tabs-description = Desloque os seus separadores do topo do navegador para o lado. É necessário que experimente também a barra lateral. <a data-l10n-name="connect">Partilhe a sua opinião</a>.
-experimental-features-group-browsing =
-    .label = Navegação
 experimental-features-group-developer-tools =
     .label = Ferramentas do programador
 experimental-features-group-webpage-display =

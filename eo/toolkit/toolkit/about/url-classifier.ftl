@@ -5,7 +5,11 @@
 url-classifier-title = Informo pri la klasifikilo de retadresoj
 url-classifier-search-title = Serĉi
 url-classifier-search-result-title = Rezultoj
+# Variables:
+#   $uri (string) - URI of blocked page
 url-classifier-search-result-uri = URI: { $uri }
+# Variables:
+#   $list (string) - List of tables where the page is blocked
 url-classifier-search-result-list = Listo de tabuloj: { $list }
 url-classifier-search-input = Retadreso
 url-classifier-search-error-invalid-url = Nevalida retadreso
@@ -40,7 +44,6 @@ url-classifier-debug-sb-modules = Registraj moduloj de sekura retumo
 url-classifier-debug-modules = Nunaj registraj moduloj
 url-classifier-debug-sbjs-modules = Registro de JS en sekura retumo
 url-classifier-debug-file = Nuna registra dosiero
-
 url-classifier-trigger-update = Okazigi ĝisdatigon
 url-classifier-not-available = Ne havebla
 url-classifier-disable-sbjs-log = Malaktivigi registron de JS dum sekura retumo

@@ -11,5 +11,3 @@ protocolhandler-mailto-os-handler-no-button = Agora non
 
 ##
 
-protocolhandler-mailto-handler-yes-button = Estabelecer como predeterminado
-protocolhandler-mailto-handler-no-button = Agora non

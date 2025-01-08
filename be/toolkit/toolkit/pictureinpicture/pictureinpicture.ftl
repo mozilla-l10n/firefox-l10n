@@ -7,6 +7,7 @@ pictureinpicture-player-title = Выява ў выяве
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -21,30 +22,24 @@ pictureinpicture-pause-btn =
 pictureinpicture-play-btn =
     .aria-label = Граць
     .tooltip = Прайграваць (Прабел)
-
 pictureinpicture-mute-btn =
     .aria-label = Заглушыць
     .tooltip = Адключыць гук ({ $shortcut })
 pictureinpicture-unmute-btn =
     .aria-label = Уключыць гук
     .tooltip = Уключыць гук ({ $shortcut })
-
 pictureinpicture-unpip-btn =
     .aria-label = Адправіць назад на картку
     .tooltip = Назад на картку
-
 pictureinpicture-close-btn =
     .aria-label = Закрыць
     .tooltip = Закрыць ({ $shortcut })
-
 pictureinpicture-subtitles-btn =
     .aria-label = Субцітры
     .tooltip = Субцітры
-
 pictureinpicture-fullscreen-btn2 =
     .aria-label = На ўвесь экран
     .tooltip = Увесь экран (націснуць двойчы або { $shortcut })
-
 pictureinpicture-exit-fullscreen-btn2 =
     .aria-label = Выйсці з поўнага экрана
     .tooltip = Выйсці з поўнага экрана (націснуць двойчы або { $shortcut })
@@ -63,7 +58,6 @@ pictureinpicture-toggle-fullscreen-shortcut =
 pictureinpicture-seekbackward-btn =
     .aria-label = Назад
     .tooltip = Назад (←)
-
 pictureinpicture-seekforward-btn =
     .aria-label = Наперад
     .tooltip = Наперад (→)
@@ -74,13 +68,8 @@ pictureinpicture-seekforward-btn =
 # a screen reader whenever a user opens the subtitles settings panel
 # after selecting the subtitles button.
 pictureinpicture-subtitles-panel-accessible = Налады субцітраў
-
 pictureinpicture-subtitles-label = Субцітры
-
 pictureinpicture-font-size-label = Памер шрыфту
-
 pictureinpicture-font-size-small = Малы
-
 pictureinpicture-font-size-medium = Сярэдні
-
 pictureinpicture-font-size-large = Вялікі

@@ -103,7 +103,6 @@ print-window =
     .title = Yn argraffu
 print-complete =
     .value = Argraffu wedi ei Gwblhau.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

@@ -15,7 +15,6 @@ options-select-dev-tools-theme-label = Теми
 
 # The heading
 options-context-inspector = Инспектор
-
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = Прикажи стилови на прелистувачот
 
@@ -27,6 +26,9 @@ options-default-color-unit-hex = Хексадецимален
 options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-name = Имиња на бои
+
+## Web Console section
+
 
 ## Style Editor section
 
@@ -41,11 +43,7 @@ options-screenshot-audio-tooltip =
 
 ## Advanced section
 
-# The heading
+# The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = Напредни поставки
-
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Само во текот на оваа сесија. Ја вчитува страницата одново.
-
-##
-

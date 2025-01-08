@@ -25,5 +25,6 @@ error-long-desc4 = មនុស្ស​យន្ត​មាន​លោហៈ�
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = ហើយ​ពួក​គេ​មាន​ផែនការណ៍។
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = ព្យាយាម​ម្តងទៀត
     .label2 = សូម​កុំ​ចុច​ប៊ូតុង​នេះ​ម្ដង​ទៀត។

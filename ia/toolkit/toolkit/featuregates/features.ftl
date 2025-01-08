@@ -59,8 +59,6 @@ sidebar-description = Facilemente accede tu chronologia, schedas de altere appar
 vertical-tabs-title =
     .label = Schedas vertical
 vertical-tabs-description = Move tu schedas ab le summitate del navigator al latere. <a data-l10n-name="connect">Comparti tu commentario</a>
-experimental-features-group-browsing =
-    .label = Navigar
 experimental-features-group-developer-tools =
     .label = Instrumentos de disveloppamento
 experimental-features-group-webpage-display =

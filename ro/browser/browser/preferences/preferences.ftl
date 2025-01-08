@@ -510,8 +510,7 @@ home-prefs-shortcuts-description = Site-uri pe care le salvezi sau le vizitezi
 home-prefs-shortcuts-by-option-sponsored =
     .label = Comenzi rapide sponsorizate
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Recomandat de { $provider }

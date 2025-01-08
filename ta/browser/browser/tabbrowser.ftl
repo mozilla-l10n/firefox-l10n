@@ -3,12 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = புதிய கீற்று
-
 tabbrowser-menuitem-close-tab =
     .label = கீற்றை மூடவும்
 tabbrowser-menuitem-close =
     .label = மூடு
-
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
@@ -32,6 +30,10 @@ tabbrowser-confirm-close-tabs-button = கீற்றுகளை மூடு
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
 
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+
 ## Confirmation dialog when opening multiple tabs simultaneously
 
 tabbrowser-confirm-open-multiple-tabs-title = திறத்தலை உறுதிப்படுத்து
@@ -45,6 +47,9 @@ tabbrowser-confirm-open-multiple-tabs-button = திறந்த கீற்�
 tabbrowser-confirm-open-multiple-tabs-checkbox = பல கீற்றுகளைத் திறக்கையில் { -brand-short-name } மெதுவாகையில் என்னை எச்சரி
 
 ## Confirmation dialog for enabling caret browsing
+
+
+## Confirmation dialog for closing all duplicate tabs
 
 
 ##
@@ -68,4 +73,11 @@ tabbrowser-ctrl-tab-list-all-tabs =
     .label = { $tabCount } இன் கீற்றுகளை பட்டியலிடு
 
 ## Tab manager menu buttons
+
+
+## Tab Groups
+
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 

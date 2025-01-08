@@ -33,8 +33,6 @@ about-webrtc-aec-logging-toggled-off-state-msg = Kartelat e regjistrimit të thi
 
 # The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Vetërifreskohu
-# Determines the default state of the Auto Refresh check boxes
-about-webrtc-auto-refresh-default-label = Vetërifreksim, Si Parazgjedhje
 # A button which forces a refresh of displayed statistics
 about-webrtc-force-refresh-button = Rifreskoje
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
@@ -215,10 +213,7 @@ about-webrtc-round-trip-time-ms = RTT ms
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Statistika Kuadrosh Video - ID MediaStreamTrack: { $track-identifier }
 
-## These are paths used for saving the about:webrtc page or log files so
-## they can be attached to bug reports.
-## Variables:
-##  $path (String) - The path to which the file is saved.
+##
 
 about-webrtc-save-page-msg = faqe e ruajtur te: { $path }
 about-webrtc-debug-mode-off-state-msg = regjistri i ndjekjes mund të gjendet te: { $path }

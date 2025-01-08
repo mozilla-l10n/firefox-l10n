@@ -38,4 +38,3 @@ close-tab =
     .title = Serra s'ischeda
 show-addon =
     .title = Ammustra su gestore de cumplementos
-

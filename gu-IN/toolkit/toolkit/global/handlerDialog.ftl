@@ -5,22 +5,12 @@
 
 ## Permission Dialog
 ## Variables:
-##  $host - the hostname that is initiating the request
-##  $scheme - the type of link that's being opened.
-##  $appName - Name of the application that will be opened.
-
-
-## Please keep the emphasis around the hostname and scheme (ie the
-## `<strong>` HTML tags). Please also keep the hostname as close to the start
-## of the sentence as your language's grammar allows.
-
-## Permission Dialog
-## Variables:
 ##  $host (string) - The hostname that is initiating the request
 ##  $scheme (string) - The type of link that's being opened.
 ##  $appName (string) - Name of the application that will be opened.
 ##  $extension (string) - Name of extension that initiated the request
 
+
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
 ## of the sentence as your language's grammar allows.
@@ -28,11 +18,9 @@
 ##  $host (string) - The hostname that is initiating the request
 ##  $scheme (string) - The type of link that's being opened.
 
+
 ##
 
-## Chooser dialog
-## Variables:
-##  $scheme - the type of link that's being opened.
 
 ## Chooser dialog
 ## Variables:
@@ -43,6 +31,5 @@ choose-app-btn =
     .label = પસંદ કરો...
     .accessKey = C
 choose-other-app-window-title = અન્ય કાર્યક્રમ...
-
 # Displayed under the name of a protocol handler in the Launch Application dialog.
 choose-dialog-privatebrowsing-disabled = ખાનગી વિંડોઝમાં નિષ્ક્રિય

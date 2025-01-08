@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = Ingxelo yokonakala
-crashreporter-crash-message = { -brand-short-name } ibe nengxaki yaza yacima.
 crashreporter-plea = Ukuze sikwazi ukufumanisa nokulungisa ingxaki, ungasithumela ingxelo yokonakala.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Iinkcukacha: { $details }

@@ -12,26 +12,19 @@ cfr-doorhanger-feature-heading = تایبەتمەندی پێشنیازکراو
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = بۆچی من ئەمە دەبینم؟
-
 cfr-doorhanger-extension-cancel-button = ئێستا نا
     .accesskey = ۆ
-
 cfr-doorhanger-extension-ok-button = ئێستا زیادی بکە
     .accesskey = ز
-
 cfr-doorhanger-extension-manage-settings-button = بەڕێوەبردنی ڕێکخستنی پێشنیازکراوەکان
     .accesskey = ب
-
 cfr-doorhanger-extension-never-show-recommendation = ئەوەم بۆ پێشنیاز مەکە
     .accesskey = پ
-
 cfr-doorhanger-extension-learn-more-link = زیاتر بزانە
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = لە لایەن { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = پێشنیازکراو
@@ -56,9 +49,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } بەکارهێنەر
     }
 
-## These messages are steps on how to use the feature and are shown together.
-
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = دڵخوازەکان لە هەموو شوێنێک هاوکاتگەری پێبکە.
@@ -78,81 +68,17 @@ cfr-protections-panel-link-text = زیاتر بزانە
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = تایبەتمەندیی نوێ:
-
 cfr-whatsnew-button =
     .label = چی نوێ هەیە
     .tooltiptext = چی نوێ هەیە
-
 cfr-whatsnew-release-notes-link-text = سەرنجەکانی وەشان بخوێنەوە
-
-## Search Bar
-
-
-## Search bar
-
-
-## Picture-in-Picture
-
-## Permission Prompt
-
-## Fingerprinter Counter
-
-## Bookmark Sync
-
-## Login Sync
-
-## Send Tab
-
-## Firefox Send
-
-## Social Tracking Protection
 
 ## Enhanced Tracking Protection Milestones
 
 cfr-doorhanger-milestone-ok-button = هەمووی ببینە
     .accesskey = S
 
-## What’s New Panel Content for Firefox 76
-
-
-## Lockwise message
-
-## Vulnerable Passwords message
-
-
-## Picture-in-Picture fullscreen message
-
-## Protections Dashboard message
-
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
-
-
-## Better PDF message
-
-
 ## DOH Message
-
-
-## Fission Experiment Message
-
-
-## What's new: Cookies message
-
-
-## What's new: Media controls message
-
-
-## What's new: Search shortcuts
-
-## What's new: Cookies protection
-
-
-## What's new: Better bookmarking
-
-
-## What's new: Cross-site cookie tracking
 
 
 ## Full Video Support CFR message
@@ -162,17 +88,15 @@ cfr-doorhanger-video-support-header = { -brand-short-name } نوێبکەرەوە
 cfr-doorhanger-video-support-primary-button = ئێستا نوێیبکەرەوە
     .accesskey = ئ
 
-## Spotlight modal shared strings
-
 ## VPN promotion dialog for public Wi-Fi users
 ##
 ## If a user is detected to be on a public Wi-Fi network, they are given a
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
-## Total Cookie Protection Rollout
 
 ## Emotive Continuous Onboarding
+
 
 ## MR2022 Background Update Windows native toast notification strings.
 ##
@@ -187,19 +111,52 @@ cfr-doorhanger-video-support-primary-button = ئێستا نوێیبکەرەوە
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+
 ## Firefox View CFR
+
 
 ## Firefox View Spotlight
 
+
 ## Colorways expiry reminder CFR
+
 
 ## Cookie Banner Handling CFR
 
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
+
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+
 ## FxA sync CFR
 
+
 ## Device Migration FxA Spotlight
+
+
+## Set as Default PDF Reader Infobar
+
+
+## Launch on login infobar notification
+
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+
+## Tail Fox Set Default Spotlight
+
+
+## Root Certificate Succession Infobar
+
+
+## Root Certificate Succession Windows Background Notification
+
+
+## FxA Menu Message variants
+
+
+## Multi-CTA Fox Doodle Spotlight
 

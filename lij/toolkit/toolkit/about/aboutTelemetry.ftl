@@ -39,7 +39,7 @@ about-telemetry-fetch-stack-symbols = Repiggia i nommi de fonçioin pe stack
 about-telemetry-hide-stack-symbols = Fanni vedde stack dæti sgreuzzi
 # Selects the correct release version
 # Variables:
-#   $channel (String): represents the corresponding release data string
+#   $channel (string) - Represents the corresponding release data string
 about-telemetry-data-type =
     { $channel ->
         [release] dæta publicaçion
@@ -47,43 +47,43 @@ about-telemetry-data-type =
     }
 # Selects the correct upload string
 # Variables:
-#   $uploadcase (String): represents a corresponding upload string
+#   $uploadcase (string) - Represents a corresponding upload string
 about-telemetry-upload-type =
     { $uploadcase ->
         [enabled] abilitou
        *[disabled] dizabilitou
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = In sta pagina gh'é di dæti in sce prestaçioin e l'uzo de carateristiche arecogeite co-a telemetria. Ste informaçioin vegnan mandæ a { $telemetryServerOwner } in mòddo anònimo pe megiorâ { -brand-full-name }.
 about-telemetry-settings-explanation = A telemetria a piggia { about-telemetry-data-type } e agiorna <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
-#   $name (String): ping name, e.g. “saved-session”
-#   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
+#   $name (string) - Ping name, e.g. “saved-session”
+#   $timestamp (string) - Ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Tutte e informaçioin en spedie drento “<a data-l10n-name="ping-link">ping</a>”. Ti veddi o ping a { $name }, { $timestamp }.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $selectedTitle (String): the section name from the structure of the ping.
+#   $selectedTitle (string) - The section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = Treuva in { $selectedTitle }
 about-telemetry-filter-all-placeholder =
     .placeholder = Treuva in tutte e seçioin
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-results-for-search = Exiti pe “{ $searchTerms }”
 # More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $sectionName (String): the section name from the structure of the ping.
-#   $currentSearchText (String): the current text in the search input
+#   $sectionName (string) - The section name from the structure of the ping.
+#   $currentSearchText (string) - The current text in the search input
 about-telemetry-no-search-results = Me spiaxe! No emmo trovou ninte in { $sectionName } pe “{ $currentSearchText }”
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-no-search-results-all = Me spiaxe! No emmo trovou ninte inte seçioin pe “{ $searchTerms }”
 # This message is displayed when a section is empty.
 # Variables:
-#   $sectionName (String): is replaced by the section name.
+#   $sectionName (string) - Is replaced by the section name.
 about-telemetry-no-data-to-display = Me spiaxe! No gh'emmo data in “{ $sectionName }”
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = tutto
@@ -99,13 +99,13 @@ about-telemetry-slow-sql-statement = Istruçion
 about-telemetry-addon-table-id = ID conponente azonto
 about-telemetry-addon-table-details = Detalli
 # Variables:
-#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+#   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = Fornio da { $addonProvider }
 about-telemetry-keys-header = Propietæ
 about-telemetry-names-header = Nomme
 about-telemetry-values-header = Valô
 # Variables:
-#   $lateWriteCount (Integer): the number of the late writes
+#   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = Scritua ritardâ #{ $lateWriteCount }
 about-telemetry-stack-title = Stack:
 about-telemetry-memory-map-title = Mappa memöia:

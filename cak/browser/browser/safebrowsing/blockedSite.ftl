@@ -10,6 +10,8 @@ safeb-blocked-phishing-page-short-desc = { -brand-short-name } Xuq'ät re ruxaq'
 safeb-blocked-malware-page-short-desc = { -brand-short-name } xuq'eleb'ej re ruxaq re' ruma chi nitikïr nuyäk tz'ilanel kema', ri nitikïr nreleq'aj o nuyüj awetamab'al pan akematz'ib'.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } xuq'üt re ruxaq re' ruma nitikïr yatruq'öl rik'in ri kiyakik taq kema' nikitz'ila' awetamab'al pa ruwi' ri okem pa k'amaya'l (achi'el, nujalwachij ri rutikirib'al ruxaq o yeruk'üt pe k'ïy taq eletzijolal pa ri taq ruxaq xke'atz'ët).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } xuq'ät re ruxaq re' ruma rik'in jub'a' yeruyäk kan itzel taq chokoy, ri nikeleq'aj o yekiyüj awetamab'al (achi'el, taq wachib'äl, taq ewan tzij, taq rutzijol chuqa' ch'utit'im pwäq).
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Ya'on na'oj ruma <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Titzolin
 safeb-palm-see-details-label = Ketz'et ri taq rub'anikil

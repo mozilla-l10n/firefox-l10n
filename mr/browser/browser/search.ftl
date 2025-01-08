@@ -10,10 +10,8 @@
 
 opensearch-error-duplicate-title = प्रतिष्ठापन त्रुटी
 opensearch-error-duplicate-desc = { -brand-short-name } शोध प्लगइन "{ $location-url }" पासून प्रतिष्ठापीत करू शकले नाही कारण त्याच नावाचे इंजीन आधीपासूनच अस्तित्वात आहे.
-
 opensearch-error-format-title = अवैध स्वरुप
 opensearch-error-format-desc = { -brand-short-name } ला { $location-url } मधून सर्च इंजिन प्रस्थापित करता आले नाही
-
 opensearch-error-download-title = डाऊनलोड त्रुटी
 opensearch-error-download-desc = { -brand-short-name } शोध प्लगइन डाऊनलोड करू शकले नाही, पासून: { $location-url }
 
@@ -21,11 +19,9 @@ opensearch-error-download-desc = { -brand-short-name } शोध प्लगइ
 
 searchbar-submit =
     .tooltiptext = शोध संकलित करा
-
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = शोधा
-
 searchbar-icon =
     .tooltiptext = शोधा
 
@@ -33,4 +29,9 @@ searchbar-icon =
 ## Variables
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
+
+
+## Infobar shown when user is prompted to install search engine.
+## Variables
+## $engineName (String) - the name of the search engine to install.
 

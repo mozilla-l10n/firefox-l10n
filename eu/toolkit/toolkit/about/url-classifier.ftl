@@ -5,7 +5,11 @@
 url-classifier-title = URL sailkatzaileari buruzko informazioa
 url-classifier-search-title = Bilatu
 url-classifier-search-result-title = Emaitzak
+# Variables:
+#   $uri (string) - URI of blocked page
 url-classifier-search-result-uri = URIa: { $uri }
+# Variables:
+#   $list (string) - List of tables where the page is blocked
 url-classifier-search-result-list = Taulen zerrenda: { $list }
 url-classifier-search-input = URLa
 url-classifier-search-error-invalid-url = URL baliogabea
@@ -40,7 +44,6 @@ url-classifier-debug-sb-modules = Nabigatze seguruko erregistro-moduluak
 url-classifier-debug-modules = Uneko erregistro-moduluak
 url-classifier-debug-sbjs-modules = Nabigatze seguruko JS erregistroa
 url-classifier-debug-file = Uneko erregistro-fitxategia
-
 url-classifier-trigger-update = Abiarazi eguneraketa
 url-classifier-not-available = E/E
 url-classifier-disable-sbjs-log = Desgaitu nabigatze seguruko JS erregistroa

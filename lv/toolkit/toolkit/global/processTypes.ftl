@@ -5,7 +5,6 @@
 
 ##
 ## Localization for remote types defined in RemoteType.h
-##
 
 process-type-web = Tīmekļa saturs
 # process used to run privileged about pages,
@@ -28,7 +27,6 @@ process-type-prealloc = Iepriekš piešķirts
 
 ##
 ## Localization for Gecko process types defined in GeckoProcessTypes.h
-##
 
 process-type-default = Galvenais
 process-type-tab = Cilne
@@ -42,7 +40,6 @@ process-type-rdd = RDD
 
 ##
 ## Other
-##
 
 # fallback
 process-type-unknown = Nezināms

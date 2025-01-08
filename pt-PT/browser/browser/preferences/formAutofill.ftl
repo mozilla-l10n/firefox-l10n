@@ -47,10 +47,10 @@ address-capture-edit-address-button =
 autofill-add-address-title = Adicionar morada
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Editar endereço
-autofill-address-name = Nome
 autofill-address-given-name = Primeiro nome
 autofill-address-additional-name = Nome do meio
 autofill-address-family-name = Último nome
+autofill-address-name = Nome
 autofill-address-organization = Organização
 autofill-address-street-address = Morada da rua
 autofill-address-street = Endereço da rua
@@ -103,9 +103,6 @@ autofill-address-postal-code = Código postal
 autofill-address-zip = Código postal
 # Used in IE
 autofill-address-eircode = Eircode
-
-##
-
 
 ##
 

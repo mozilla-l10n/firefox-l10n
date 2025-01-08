@@ -29,3 +29,7 @@ webext-perms-description-tabs = ligipääs kaartidele
 webext-perms-description-tabHide = brauseri kaartide peitmine ja kuvamine
 webext-perms-description-topSites = ligipääs veebilehitsemise ajaloole
 webext-perms-description-webNavigation = ligipääs brauseri tegevusele veebilehitsemise vältel
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

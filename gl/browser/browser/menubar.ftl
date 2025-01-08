@@ -253,6 +253,9 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = Marcadores do móbil
 
+## Profiles Menu
+
+
 ## Tools Menu
 
 menu-tools =

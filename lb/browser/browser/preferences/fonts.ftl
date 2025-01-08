@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Schrëftaarten
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Schrëftaarte fir
     .accesskey = F
-
 fonts-langgroup-arabic =
     .label = Arabesch
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proportional
     .accesskey = P
-
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
-
 fonts-proportional-size = Gréisst
     .accesskey = z
-
 fonts-serif = Serif
     .accesskey = S
-
 fonts-sans-serif = Sans Serif
     .accesskey = n
-
 fonts-monospace = Fest Breet:
     .accesskey = M
-
 fonts-monospace-size = Gréisst
     .accesskey = e
-
 fonts-minsize = Mindestschrëftgréisst:
     .accesskey = o
-
 fonts-minsize-none =
     .label = Keng
-
 fonts-allow-own =
     .label = De Säiten erlaben hir eege Schrëftaarten ze wielen, amplaz vun Denger Wiel hei driwwer
     .accesskey = A
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

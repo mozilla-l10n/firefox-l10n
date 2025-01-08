@@ -6,8 +6,6 @@
 ## These strings appear on the warning you see when first visiting about:config.
 
 
-
-
 ##
 
 about-config-pref-add-button =

@@ -42,7 +42,6 @@ about-processes-preloaded-tab = پہلے سے لوڈ شدہ نیا ٹیب
 
 ## Utility process actor names
 
-# Utility process actor names
 about-processes-utility-actor-unknown = نامعلوم اداکار
 
 ## Displaying CPU (percentage and total)

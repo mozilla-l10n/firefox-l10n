@@ -20,3 +20,7 @@ webext-perms-description-sessions = Toegang tot onlangs geslote oortjies
 webext-perms-description-tabs = Toegang tot blaaieroortjies
 webext-perms-description-topSites = Toegang tot blaaigeskiedenis
 webext-perms-description-webNavigation = Toegang tot blaaieraktiwiteit tydens rondblaai
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

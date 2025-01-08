@@ -6,8 +6,6 @@ title-label = Na'oj chi kij ri taq nak'ab'äl
 installed-plugins-label = Xeyak taq nak'ab'äl
 no-plugins-are-installed-label = Majun nak'ab'äl eyakon
 deprecation-description = ¿La k'o nanataj? Jujun taq nak'ab'äl man nikixïm ta chik ki'. <a data-l10n-name="deprecation-link">Tetamäx ch'aqa' chik.</a>
-deprecation-description2 =
-    .message = ¿La k'o nanataj? Jujun taq nak'ab'äl man nikixïm ta chik ki'.
 
 ## The information of plugins
 ##

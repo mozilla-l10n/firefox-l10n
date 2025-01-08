@@ -10,10 +10,8 @@
 
 opensearch-error-duplicate-title = Error d'instalación
 opensearch-error-duplicate-desc = { -brand-short-name } no ha puesto instalar o plugin de busca dende "{ $location-url }" porque ya existe un buscador con o mesmo nombre.
-
 opensearch-error-format-title = Formato invalido
 opensearch-error-format-desc = { -brand-short-name } no ha puesto instalar lo motor de busca dende: { $location-url }
-
 opensearch-error-download-title = Error en a descarga
 opensearch-error-download-desc = { -brand-short-name } no ha puesto descargar o plugin de busca dende: { $location-url }
 
@@ -21,11 +19,9 @@ opensearch-error-download-desc = { -brand-short-name } no ha puesto descargar o 
 
 searchbar-submit =
     .tooltiptext = Ninvia la busca
-
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = Mirar
-
 searchbar-icon =
     .tooltiptext = Mirar
 
@@ -33,4 +29,9 @@ searchbar-icon =
 ## Variables
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
+
+
+## Infobar shown when user is prompted to install search engine.
+## Variables
+## $engineName (String) - the name of the search engine to install.
 

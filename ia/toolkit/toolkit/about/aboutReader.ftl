@@ -12,20 +12,6 @@ about-reader-color-scheme-sepia = Sepia
     .title = Schema de colores sepia
 about-reader-color-scheme-auto = Auto
     .title = Schema de color Auto
-about-reader-color-theme-light = Clar
-    .title = Thema de color Clar
-about-reader-color-theme-dark = Obscur
-    .title = Thema de color Obscur
-about-reader-color-theme-sepia = Sepia
-    .title = Thema de color Sepia
-about-reader-color-theme-auto = Auto
-    .title = Thema de color Auto
-about-reader-color-theme-gray = Gris
-    .title = Thema de color Gris
-about-reader-color-theme-contrast = Contrastate
-    .title = Thema de color Contrastate
-about-reader-color-theme-custom = Colores personalisate
-    .title = Thema de color personalisate
 about-reader-color-light-theme = Clar
     .title = Thema clar
 about-reader-color-dark-theme = Obscur
@@ -49,7 +35,7 @@ about-reader-estimated-read-time =
        *[other] { $range } minutas
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = Reducer le dimension del litteras
@@ -74,7 +60,6 @@ about-reader-font-type-monospace = Largor fixe
 
 about-reader-toolbar-close = Clauder le vista de lectura
 about-reader-toolbar-type-controls = Controlos de typo
-about-reader-toolbar-color-controls = Colores
 about-reader-toolbar-text-layout-controls = Testo e disposition
 about-reader-toolbar-theme-controls = Thema
 about-reader-toolbar-savetopocket = Salvar in { -pocket-brand-name }
@@ -99,10 +84,9 @@ about-reader-custom-colors-visited-links = Ligamines visitate
     .title = Rediger color
 about-reader-custom-colors-selection-highlight = Evidentiator pro leger in alte voce
     .title = Rediger color
-about-reader-custom-colors-reset-button = Restablir parametros predefinite
 about-reader-reset-button = Restablir parametros predefinite
 
-## Reader View improved text and layout menu
+## Reader View text and layout menu
 
 about-reader-text-header = Texto
 about-reader-text-size-label = Dimension del texto
@@ -119,9 +103,6 @@ about-reader-content-width-label =
 about-reader-line-spacing-label =
     .label = Interlinea
 about-reader-advanced-layout-header = Avantiate
-about-reader-slider-label-width-narrow = Stricte
-about-reader-slider-label-width-wide = Large
-about-reader-slider-label-spacing-narrow = Stricte
 about-reader-character-spacing-label =
     .label = Distantia inter characteres
 about-reader-word-spacing-label =

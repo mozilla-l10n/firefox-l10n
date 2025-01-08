@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = ফন্ট
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = ভাষা
     .accesskey = F
-
 fonts-langgroup-arabic =
     .label = আরবি
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = আনুপাতিক
     .accesskey = P
-
 fonts-default-serif =
     .label = সেরিফ
 fonts-default-sans-serif =
     .label = সাণ্স শেরিফ
-
 fonts-proportional-size = আকার
     .accesskey = z
-
 fonts-serif = সেরিফ
     .accesskey = S
-
 fonts-sans-serif = সান্স-সেরিফ
     .accesskey = n
-
 fonts-monospace = মনোস্পেস
     .accesskey = M
-
 fonts-monospace-size = আকার
     .accesskey = e
-
 fonts-minsize = ফন্টের সর্বনিম্ন আকার
     .accesskey = o
-
 fonts-minsize-none =
     .label = কোনটি নয়
-
 fonts-allow-own =
     .label = উপরে নির্বাচিত ফন্ট উপেক্ষা করে, পাতাগুলো নিজস্ব ফন্ট ব্যবহার করতে পারবে
     .accesskey = A
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

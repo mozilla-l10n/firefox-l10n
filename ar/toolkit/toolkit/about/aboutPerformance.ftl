@@ -51,4 +51,3 @@ close-tab =
     .title = أغلِق اللسان
 show-addon =
     .title = اعرض في مدير الإضافات
-

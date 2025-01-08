@@ -22,13 +22,3 @@ webconsole-commands-usage-unblock =
     Stoppar blocada del requestas de rete
     
       Illo solo accepta un parametro, la mesme stringa passate antea al commando :block.
-# Usage string for :trace command
-webconsole-commands-usage-trace =
-    :trace
-    
-    Activa/disactiva le traciator de JavaScript
-    
-      Supporta le parametros sequente:
-        --logMethod Definir a “consola” pro registrar in le consola del web (predefinite), o “stdout” pro registrar in le egresso standard.
-        --prefix Stringa optional que sera anteponite a tote le registros del traciamento.
-        --help o --usage pro visualisar iste message.

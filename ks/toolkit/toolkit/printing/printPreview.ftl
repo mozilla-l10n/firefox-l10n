@@ -46,4 +46,3 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = پْتیم پیج{ " " }
-

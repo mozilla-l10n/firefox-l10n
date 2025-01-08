@@ -13,4 +13,3 @@
 # $row (integer) - The row index
 # $column (integer) - The column index
 grid-row-column-positions = Rinda { $row } / Kolona { $column }
-

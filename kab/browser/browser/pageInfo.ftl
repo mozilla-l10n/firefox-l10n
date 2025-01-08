@@ -4,22 +4,18 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
-
 copy =
     .key = C
 menu-copy =
     .label = Nɣel
     .accesskey = N
-
 select-all =
     .key = A
 menu-select-all =
     .label = Ffren Akk
     .accesskey = F
-
 close-dialog =
     .key = w
-
 general-tab =
     .label = Amatu
     .accesskey = G
@@ -43,7 +39,6 @@ general-meta-name =
     .label = Isem
 general-meta-content =
     .label = Agbur
-
 media-tab =
     .label = Allalen n teywalt
     .accesskey = M
@@ -74,13 +69,11 @@ media-save-as =
 media-save-image-as =
     .label = Sekles s yisem…
     .accesskey = y
-
 perm-tab =
     .label = Tisirag
     .accesskey = P
 permissions-for =
     .value = Tisirag i:
-
 security-tab =
     .label = Taɣellist
     .accesskey = S
@@ -101,22 +94,17 @@ security-view-identity-validity =
     .value = Ad yemmet di:
 security-view-privacy =
     .value = Tudert tusligt d umezgar
-
 security-view-privacy-history-value = Rziɣ yakan ɣer usmel-a web?
 security-view-privacy-sitedata-value = Asmel-agi yesseklas talɣut ɣef uselkim-iw?
-
 security-view-privacy-clearsitedata =
     .label = Sfeḍ inagan n tuqna akked isefka n usmel
     .accesskey = C
-
 security-view-privacy-passwords-value = Skelseɣ awal uffir i usmel-a web?
-
 security-view-privacy-viewpasswords =
     .label = Wali awalen uffiren yettwakelsen
     .accesskey = w
 security-view-technical =
     .value = Talqayt tatiknikt
-
 help-button =
     .label = Tallelt
 
@@ -128,7 +116,6 @@ help-button =
 
 security-site-data-cookies = Ih, inagan n tuqna akked{ $value } { $unit } seg isefka n usmel
 security-site-data-only = Ih, { $value } { $unit } seg isefka n usmel
-
 security-site-data-cookies-only = Ih, inagan n tuqna
 security-site-data-no = Ala
 
@@ -152,7 +139,6 @@ media-video = Tamwalit
 media-audio = Ameslaw
 saved-passwords-yes = Ih
 saved-passwords-no = Ala
-
 no-page-title =
     .value = Asebter war azwel:
 general-quirks-mode =
@@ -167,7 +153,6 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Tisirag n tazwara
 security-no-visits = Ala
-
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
@@ -178,7 +163,6 @@ general-meta-tags =
             [one] Aɣef aferdis (1 n tṛekkizt)
            *[other] Iɣef iferdisen ({ $tags } n tṛekkizt)
         }
-
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -189,7 +173,6 @@ security-visits-number =
         [one] Ih, tikkelt kan
        *[other] Ih, { $visits } n tikkal
     }
-
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
@@ -200,7 +183,6 @@ properties-general-size =
             [one] { $kb } KAṬ ( { $bytes } Atamḍan)
            *[other] { $kb } KAṬ ( { $bytes } Itamḍanen)
         }
-
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:
@@ -212,14 +194,12 @@ media-animated-image-type =
             [one] Tugna { $type } (tettḥerrik, { $frames } askar)
            *[other] Tugna { $type } (tettḥerrik, { $frames } iskaren)
         }
-
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = Tugna { $type }
-
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -229,14 +209,12 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (yuli ɣer { $scaledx }px × { $scaledy }px)
-
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px x { $dimy }px
-
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
@@ -248,16 +226,11 @@ media-file-size = { $size } KAṬ
 
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
-# Variables:
-#   $website (string) - The website name
 media-block-image =
     .label = Sewḥel tugniwin i d-yekkan seg { $website }
     .accesskey = u
-
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
-# Variables:
-#   $website (string) — The url of the website pageInfo is getting info for
 page-info-page =
     .title = Talɣut ɣef usebter -{ $website }
 page-info-frame =

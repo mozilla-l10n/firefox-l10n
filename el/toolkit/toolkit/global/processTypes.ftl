@@ -5,7 +5,6 @@
 
 ##
 ## Localization for remote types defined in RemoteType.h
-##
 
 process-type-web = Διαδικτυακό περιεχόμενο
 # process used to run privileged about pages,
@@ -30,7 +29,6 @@ process-type-prealloc = Προκατανεμημένο
 
 ##
 ## Localization for Gecko process types defined in GeckoProcessTypes.h
-##
 
 process-type-default = Κύριο
 process-type-tab = Καρτέλα
@@ -55,7 +53,6 @@ process-type-utility-actor-windows-file-dialog = Βοηθητικό πρόγρα
 
 ##
 ## Other
-##
 
 # fallback
 process-type-unknown = Άγνωστο

@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = កម្មវិធី​រាយការណ៍​អំពី​ការ​គាំង
-crashreporter-crash-message = { -brand-short-name } មាន​បញ្ហា និង​បាន​គាំង ។
 crashreporter-plea = ដើម្បី​ជួយ​ពួក​យើង​ក្នុង​ការ​ធ្វើ​រោគ​វិនិច្ឆ័យ និង​ដោះស្រាយ​បញ្ហា​ សូម​អ្នក​ផ្ញើ​របាយការណ៍​គាំង​នេះ​ឲ្យ​ពួក​យើង ។
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = សេចក្ដី​លម្អិត ៖ { $details }

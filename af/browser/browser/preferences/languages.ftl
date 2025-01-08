@@ -4,26 +4,20 @@
 
 languages-close-key =
     .key = w
-
 languages-customize-moveup =
     .label = Skuif op
     .accesskey = o
-
 languages-customize-movedown =
     .label = Skuif af
     .accesskey = a
-
 languages-customize-remove =
     .label = Verwyder
     .accesskey = V
-
 languages-customize-select-language =
     .placeholder = Kies 'n taal om by te voeg…
-
 languages-customize-add =
     .label = Voeg by
     .accesskey = V
-
 # The pattern used to generate strings presented to the user in the
 # locale selection list.
 #
@@ -36,4 +30,3 @@ languages-customize-add =
 #   $code (String) - Locale code of the locale (for example: "is", "es-CL")
 languages-code-format =
     .label = { $locale }  [{ $code }]
-

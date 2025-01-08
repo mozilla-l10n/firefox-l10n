@@ -46,10 +46,10 @@ address-capture-edit-address-button =
 autofill-add-address-title = Ավելացնել հասցե
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Խմբագրել հասցեն
-autofill-address-name = Անուն
 autofill-address-given-name = Անուն
 autofill-address-additional-name = Հայրանուն
 autofill-address-family-name = Ազգանուն
+autofill-address-name = Անուն
 autofill-address-organization = Կազմակերպություն
 autofill-address-street-address = Փողոցի հասցե
 autofill-address-street = Հասցե
@@ -102,9 +102,6 @@ autofill-address-postal-code = Փոստային կոդ
 autofill-address-zip = Zip կոդ
 # Used in IE
 autofill-address-eircode = Eircode
-
-##
-
 
 ##
 

@@ -10,10 +10,8 @@
 
 opensearch-error-duplicate-title = Ralat Pemasangan
 opensearch-error-duplicate-desc = { -brand-short-name } tidak dapat memasang plugin dikehendaki dari "{ $location-url }" kerana enjin yang bernama sama telah wujud.
-
 opensearch-error-format-title = Format Tidak Sah
 opensearch-error-format-desc = { -brand-short-name } tidak dapat memasang enjin carian daripada: { $location-url }
-
 opensearch-error-download-title = Ralat Memuat Turun
 opensearch-error-download-desc = { -brand-short-name } tidak dapat muat turun plugin yang dikehendaki dari: { $location-url }
 
@@ -21,11 +19,9 @@ opensearch-error-download-desc = { -brand-short-name } tidak dapat muat turun pl
 
 searchbar-submit =
     .tooltiptext = Hantar carian
-
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = Cari
-
 searchbar-icon =
     .tooltiptext = Cari
 
@@ -33,4 +29,9 @@ searchbar-icon =
 ## Variables
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
+
+
+## Infobar shown when user is prompted to install search engine.
+## Variables
+## $engineName (String) - the name of the search engine to install.
 

@@ -5,7 +5,6 @@
 appmenu-addon-post-install-incognito-checkbox =
     .label = या विस्तारास खाजगी पटलामध्ये चालविण्याची परवानगी द्या
     .accesskey = A
-
 appmenu-tab-hide-controlled =
     .label = आपले लपवलेले टॅब पहा
     .buttonlabel = टॅब लपवून ठेवा

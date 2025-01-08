@@ -545,8 +545,7 @@ home-prefs-shortcuts-description = Làraichean a shàbhail thu no a thadhail thu
 home-prefs-shortcuts-by-option-sponsored =
     .label = Ath-ghoiridean sponsairichte
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = ’Ga mholadh le { $provider }

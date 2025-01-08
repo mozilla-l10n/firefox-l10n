@@ -58,8 +58,13 @@ inactive-css-resize = <strong>{ $property }</strong> özelliği yalnızca visibl
 inactive-css-ruby-element = <strong>{ $property }</strong> bir ruby elemanı olduğundan bu eleman üzerinde hiçbir etkisi yoktur. Boyutu ruby metninin yazı tipi boyutuna göre belirlenir.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain how
-## the problem can be solved.
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
 
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> özelliği, vurgulanmış sözde elemanlarda desteklenmez.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> özelliği ::cue sözde elemanlarında desteklenmez.

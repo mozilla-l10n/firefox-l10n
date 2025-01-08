@@ -105,11 +105,11 @@ applications-manage-app =
 applications-always-ask =
     .label = Laaj saa su ne
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Jëfandikoo{ $plugin-name } (ci { -brand-short-name })
 
@@ -184,8 +184,7 @@ choose-bookmark =
 ## Home Section - Firefox Home Content Customization
 
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 
 ##
@@ -199,7 +198,7 @@ search-choose-keyword-column =
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Caabi baat bi dafa seex
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Tànn nga caabi baat bu « { $name } » di jëfandikoo, tànnal beneen.
 search-keyword-warning-bookmark = Tànn nga caabi baat bu benn mandarga xët di jëfandikoo, tànnal beneen.
 
@@ -253,6 +252,9 @@ sync-engine-history =
 forms-exceptions =
     .label = Seppi yi…
     .accesskey = S
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Soppi baatu jàll bi gëna am solo…
     .accesskey = o

@@ -29,3 +29,7 @@ webext-perms-description-tabs = Yetto tabbe wanngorde
 webext-perms-description-tabHide = Suuɗ tee hollir tabbe wanngorde ndee
 webext-perms-description-topSites = Yah to daartol kewe banngagol
 webext-perms-description-webNavigation = Yah to coftal wanngorde nde mbanngoto-ɗaa ndee
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

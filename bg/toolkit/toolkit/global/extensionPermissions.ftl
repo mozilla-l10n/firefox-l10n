@@ -29,3 +29,7 @@ webext-perms-description-tabs = Достъп до разделите
 webext-perms-description-tabHide = Скриване и показване на разделите на четеца
 webext-perms-description-topSites = Достъп до историята на разглеждане
 webext-perms-description-webNavigation = Достъп до действията на четеца по време на разглеждане
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

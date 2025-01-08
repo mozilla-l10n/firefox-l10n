@@ -7,11 +7,9 @@
 
 site-data-settings-window =
     .title = कुकिज आरो साइट दाटा मेनेज खालाम
-
 site-data-search-textbox =
     .placeholder = वेबसाइटफोर नागिर
     .accesskey = S
-
 site-data-column-host =
     .label = साइट
 site-data-column-cookies =
@@ -20,24 +18,19 @@ site-data-column-storage =
     .label = दोनथुमग्रा
 site-data-column-last-used =
     .label = जोबथा बाहायखानाय
-
 # This label is used in the "Host" column for local files, which have no host.
 site-data-local-file-host = (जायगानि फाइल)
-
 site-data-remove-selected =
     .label = सायखोनायखौ बोखार
     .accesskey = R
-
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 site-storage-usage =
     .value = { $value } { $unit }
-
 site-data-remove-all =
     .label = गासैखौ बोखार
     .accesskey = e
-
 site-data-remove-shown =
     .label = गासै दिन्थिनायखौ बोखार
     .accesskey = e
@@ -47,6 +40,4 @@ site-data-remove-shown =
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = बोखार
-
 site-data-removing-header = कुकिफोर आरो साइट दाटाफोरखौ बोखारगासिनो
-

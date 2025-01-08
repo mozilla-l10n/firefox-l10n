@@ -25,5 +25,6 @@ error-long-desc4 = Ռոբոտները ունեն փայլուն մետաղյա �
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = Եվ նրանք ունեն պլան:
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = Կրկին փորձել
     .label2 = Խնդրում եմ կրկին չսեղմել այս կոճակը:

@@ -12,20 +12,6 @@ about-reader-color-scheme-sepia = Seepia
     .title = Seepiamainen väriteema
 about-reader-color-scheme-auto = Automaattinen
     .title = Automaattinen väriteema
-about-reader-color-theme-light = Vaalea
-    .title = Väriteema vaalea
-about-reader-color-theme-dark = Tumma
-    .title = Väriteema tumma
-about-reader-color-theme-sepia = Seepia
-    .title = Väriteema seepia
-about-reader-color-theme-auto = Automaattinen
-    .title = Väriteema automaattinen
-about-reader-color-theme-gray = Harmaa
-    .title = Harmaa väriteema
-about-reader-color-theme-contrast = Kontrasti
-    .title = Väriteema kontrasti
-about-reader-color-theme-custom = Mukautetut värit
-    .title = Väriteema mukautettu
 about-reader-color-light-theme = Vaalea
     .title = Vaalea teema
 about-reader-color-dark-theme = Tumma
@@ -49,7 +35,7 @@ about-reader-estimated-read-time =
        *[other] { $range } minuuttia
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = Pienennä kirjasinkokoa
@@ -74,7 +60,6 @@ about-reader-font-type-monospace = Tasavälinen
 
 about-reader-toolbar-close = Sulje lukunäkymä
 about-reader-toolbar-type-controls = Kirjasinasetukset
-about-reader-toolbar-color-controls = Värit
 about-reader-toolbar-text-layout-controls = Teksti ja asettelu
 about-reader-toolbar-theme-controls = Teema
 about-reader-toolbar-savetopocket = Tallenna { -pocket-brand-name }iin
@@ -99,10 +84,9 @@ about-reader-custom-colors-visited-links = Avatut linkit
     .title = Muokkaa väriä
 about-reader-custom-colors-selection-highlight = Korostus ääneen lukua varten
     .title = Muokkaa väriä
-about-reader-custom-colors-reset-button = Palauta oletukset
 about-reader-reset-button = Palauta oletukset
 
-## Reader View improved text and layout menu
+## Reader View text and layout menu
 
 about-reader-text-header = Teksti
 about-reader-text-size-label = Tekstin koko
@@ -119,9 +103,6 @@ about-reader-content-width-label =
 about-reader-line-spacing-label =
     .label = Riviväli
 about-reader-advanced-layout-header = Lisäasetukset
-about-reader-slider-label-width-narrow = Kapea
-about-reader-slider-label-width-wide = Leveä
-about-reader-slider-label-spacing-narrow = Kapea
 about-reader-character-spacing-label =
     .label = Merkkien väli
 about-reader-word-spacing-label =

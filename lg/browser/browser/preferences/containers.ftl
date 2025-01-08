@@ -5,11 +5,9 @@
 containers-name-label = Erinya
     .accesskey = E
     .style = { -containers-labels-style }
-
 containers-color-label = Langi
     .accesskey = L
     .style = { -containers-labels-style }
-
 containers-color-blue =
     .label = Blue
 containers-color-turquoise =
@@ -26,7 +24,6 @@ containers-color-pink =
     .label = Pink
 containers-color-purple =
     .label = Purple
-
 containers-icon-fingerprint =
     .label = Lugalo
 # String represents a money sign but currently uses a dollar sign

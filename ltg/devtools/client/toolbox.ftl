@@ -15,20 +15,15 @@ toolbox-meatball-menu-dock-bottom-label = Pīstyprynōt apaškai
 toolbox-meatball-menu-dock-left-label = Pīstyprynōt pa kreisi
 toolbox-meatball-menu-dock-right-label = Pīstyprynōt pa labi
 toolbox-meatball-menu-dock-separate-window-label = Atseviškā lūgā
-
 toolbox-meatball-menu-splitconsole-label = Rōdēt daleitū konsoli
 toolbox-meatball-menu-hideconsole-label = Paslēpt daleitū konsoli
-
 toolbox-meatball-menu-settings-label = Īstatiejumi
 toolbox-meatball-menu-documentation-label = Dokumentaceja…
 toolbox-meatball-menu-community-label = Kūpīna…
-
 # This menu item is only available in the browser toolbox. It forces the popups/panels
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
 toolbox-meatball-menu-noautohide-label = Atslēgt uzlacūšū lūgu automatiskū apsliepšonu
-
-##
 
 ## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
 

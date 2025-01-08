@@ -6,7 +6,6 @@
 active-policies-tab = Dirante
 errors-tab = Firkawey
 documentation-tab = Bayraytiira
-
 policy-name = Alaada maa
 policy-value = Alaada hinna
 policy-errors = Alaada firkawey

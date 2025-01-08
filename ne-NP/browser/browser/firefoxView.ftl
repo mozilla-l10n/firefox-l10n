@@ -192,6 +192,9 @@ firefoxview-choose-browser-button = ब्राउजर छान्नुह�
 
 firefoxview-dont-remember-history-empty-header = देखाउन को लागी केहि छैन
 
+##
+
+
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
 

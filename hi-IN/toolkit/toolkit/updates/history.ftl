@@ -4,26 +4,24 @@
 
 history-title = इतिहास अद्यतन करें
 history-intro = निम्न अद्यतन संस्थापित किए गए हैं
-
 close-button-label =
     .buttonlabelcancel = बंद करें
     .title = इतिहास अद्यतन करें
-
 no-updates-label = कोई अद्यतन अबतक संस्थापित नहीं
 name-header = नाम अद्यतन करें
 date-header = तिथि संस्थापित करें
 type-header = प्रकार
 state-header = स्थिति
-
 # Used to display update history
 #
 # Variables:
-#   $name (String): name of the update
-#   $buildID (String): build identifier from the local updates.xml
+#   $name (string) - Name of the update
+#   $buildID (string) - Build identifier from the local updates.xml
 update-full-build-name = { $name } ({ $buildID })
-
 update-details = विवरण
-
+# Variables:
+#   $date (string) - Date the last update was installed
 update-installed-on = इस पर संस्थापित: { $date }
-
+# Variables:
+#   $status (string) - Status of the last update
 update-status = स्थिति: { $status }

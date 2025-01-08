@@ -31,3 +31,7 @@ webext-perms-description-tabs = براؤزر ٹیبز تائیں رسائی حا
 webext-perms-description-tabHide = براؤزر ٹیباں لکاؤ تے ݙکھاؤ
 webext-perms-description-topSites = براؤزنگ تاریخ تے اپڑو
 webext-perms-description-webNavigation = نیویگیشݨ دے دوران براوئزر دی سرگرمی تائیں رسائی
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

@@ -12,4 +12,3 @@ console-stacktrace-anonymous-function = <énka no mitinhanka>
 #   $name (String): user-defined name for the timer
 #   $duration (String): number of milliseconds
 console-timer-end = { $name }: { $duration }ms
-

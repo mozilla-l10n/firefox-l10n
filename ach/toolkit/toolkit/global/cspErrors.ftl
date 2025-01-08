@@ -6,4 +6,3 @@
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $source (String): the name of a CSP source, usually 'self'.
 csp-error-missing-source = ‘{ $directive }’ myero oket kama { $source } oaa iye
-

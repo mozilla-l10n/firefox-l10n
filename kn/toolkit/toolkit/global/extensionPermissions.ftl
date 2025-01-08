@@ -27,3 +27,7 @@ webext-perms-description-sessions = ಇತ್ತೀಚೆಗೆ ಮುಚ್ಚ�
 webext-perms-description-tabs = ವೀಕ್ಷಕದ ಹಾಳೆಗಳನ್ನು ಪ್ರವೇಶಿಸಿ
 webext-perms-description-topSites = ವೀಕ್ಷಣೆಯ ಇತಿಹಾಸವನ್ನು ಪಡೆಯಿರಿ
 webext-perms-description-webNavigation = ಸಂಚಾರಿಸುವ ಸಮಯದಲ್ಲಿ ವೀಕ್ಷಕ ಚಟುವಟಿಕೆಯನ್ನು ಪ್ರವೇಶಿಸಿ
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

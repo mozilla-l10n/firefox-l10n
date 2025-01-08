@@ -4,24 +4,18 @@
 
 certmgr-cert-host =
     .label = Host
-
 certmgr-cert-name =
     .label = Sivɨ certificado
-
 certmgr-cert-server =
     .label = Servidor
-
 certmgr-view =
     .label = Kune'ya...
     .accesskey = V
-
 certmgr-delete =
     .label = Xita…
     .accesskey = D
-
 exception-mgr-cert-location-url =
     .value = Nuu:
-
 exception-mgr-cert-status-view-cert =
     .label = Kune'ya...
     .accesskey = V
@@ -38,10 +32,8 @@ exception-mgr-cert-status-view-cert =
 ## For Deleting Certificates
 
 
-## Cert Viewer
-
-
 ## Used to show whether an override is temporary or permanent
+
 
 ## Add Security Exception dialog
 

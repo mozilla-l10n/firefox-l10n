@@ -22,7 +22,6 @@ about-private-browsing-not-private = បច្ចុប្បន្ន​អ្�
 about-private-browsing-info-description-private-window = ផ្ទាំងឯកជន៖ { -brand-short-name } សម្អាត​ការស្វែងរក​របស់អ្នក និង​ប្រវត្តិរុករក នៅពេល​អ្នក​បិទ​ផ្ទាំង​ឯកជន​ទាំងអស់។ វា​មិន​បង្ហាញអ្នក​ជាអនាមិកទេ។
 about-private-browsing-info-description-simplified = { -brand-short-name } សម្អាត​ការស្វែងរក​របស់អ្នក និង​ប្រវត្តិរុករក នៅពេល​អ្នក​បិទ​ផ្ទាំង​ឯកជន​ទាំងអស់ ប៉ុន្តែវា​មិន​បង្ហាញអ្នក​ជាអនាមិកទេ។
 about-private-browsing-learn-more-link = ស្វែងយល់​បន្ថែម
-
 about-private-browsing-hide-activity = លាក់​សកម្មភាព និង​ទីតាំង​របស់អ្នក គ្រប់កន្លែង​ដែលអ្នក​រុករក
 about-private-browsing-get-privacy = ទទួលបាន​ការការពារ​ឯកជនភាព​គ្រប់កន្លែង​ដែលអ្នក​រុករក
 about-private-browsing-hide-activity-1 = លាក់​សកម្មភាព​រុករក និង​ទីតាំង​ជាមួយ { -mozilla-vpn-brand-name }។ ចុច​មួយ​បង្កើត​ការតភ្ជាប់​សុវត្ថិភាព ទោះជា​នៅលើ Wi-Fi សាធារណៈក៏ដោយ។
@@ -45,5 +44,9 @@ about-private-browsing-search-banner-close-button =
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
+
 ## Strings used in a promotion message for cookie banner reduction
+
+
+## Strings for Felt Privacy v1 experiments in 119
 

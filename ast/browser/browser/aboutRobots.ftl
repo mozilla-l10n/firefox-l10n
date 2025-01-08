@@ -25,5 +25,6 @@ error-long-desc4 = Los robós tienen culeres de metal brillante que nun habríen
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = Y tienen un plan.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = Retentar
     .label2 = Nun vuelvas primir esti botón, por favor.

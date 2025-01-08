@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = { -relay-brand-name } nevarēja ģenerēt jaunu masku. HTTP kļūdas kods: { $status }.
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } nevarēja atrast atkārtoti lietojamas maskas. HTTP kļūdas kods: { $status }.
 
-##
+## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = Lai izmantotu { -relay-brand-name }, jums ir jāierakstās { -fxaccount-brand-name }.
 firefox-relay-must-login-to-account = Ierakstieties savā kontā, lai izmantotu savas { -relay-brand-name } e-pasta maskas.
@@ -33,3 +33,15 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Ne tagad
     .accesskey = N
+
+## The "control" variation of the Relay offer popup
+
+
+## The "basic-info" variation of the Relay offer popup
+
+
+## The "with-domain" variation of the Relay offer popup
+
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+

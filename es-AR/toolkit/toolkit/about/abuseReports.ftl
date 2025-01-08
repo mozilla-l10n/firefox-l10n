@@ -18,8 +18,6 @@ abuse-report-addon-authored-by = por <a data-l10n-name="author-name">{ $author-n
 abuse-report-learnmore =
     ¿No está seguro de qué problema seleccionar?
     <a data-l10n-name="learnmore-link"> Conozca más información acerca informes de extensiones y temas  </a>
-abuse-report-learnmore-intro = ¿No está seguro de qué problema seleccionar?
-abuse-report-learnmore-link = Conozca más información acerca informes de extensiones y temas
 abuse-report-submit-description = Describa el problema (opcional)
 abuse-report-textarea =
     .placeholder = Es más fácil para nosotros abordar un problema si tenemos detalles específicos. Por favor, describa lo que le está pasando. Gracias por ayudarnos a mantener la red saludable.
@@ -48,24 +46,6 @@ abuse-report-messagebar-removed-sitepermission = Gracias por enviar un informe. 
 abuse-report-messagebar-removed-theme = Gracias por enviar el informe. Eliminó el tema <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Hubo un error al enviar el informe sobre <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = No se envió el informe sobre <span data-l10n-name="addon-name">{ $addon-name }</span> porque recientemente se envió otro informe.
-abuse-report-messagebar-aborted2 =
-    .message = Se canceló el informe para { $addon-name }.
-abuse-report-messagebar-submitting2 =
-    .message = Enviando el informe para { $addon-name }.
-abuse-report-messagebar-submitted2 =
-    .message = Gracias por enviar el informe. ¿Quiere eliminar { $addon-name }?
-abuse-report-messagebar-submitted-noremove2 =
-    .message = Gracias por enviar el informe.
-abuse-report-messagebar-removed-extension2 =
-    .message = Gracias por enviar el informe. Elimiinó la extensión { $addon-name }.
-abuse-report-messagebar-removed-sitepermission2 =
-    .message = Gracias por enviar un informe. Eliminaste el complemento Permisos del sitio  { $addon-name }.
-abuse-report-messagebar-removed-theme2 =
-    .message = Gracias por enviar el informe. Eliminó el tema { $addon-name }.
-abuse-report-messagebar-error2 =
-    .message = Hubo un error al enviar el informe sobre { $addon-name }.
-abuse-report-messagebar-error-recent-submit2 =
-    .message = No se envió el informe sobre { $addon-name } porque recientemente se envió otro informe.
 
 ## Message bars actions.
 

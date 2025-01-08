@@ -33,8 +33,6 @@ about-webrtc-aec-logging-toggled-off-state-msg = קובצי יומן שנלכד�
 
 # The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = רענון אוטומטי
-# Determines the default state of the Auto Refresh check boxes
-about-webrtc-auto-refresh-default-label = רענון אוטומטי כברירת מחדל
 # A button which forces a refresh of displayed statistics
 about-webrtc-force-refresh-button = רענון
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
@@ -94,8 +92,8 @@ about-webrtc-save-page-label = שמירת דף
 about-webrtc-debug-mode-msg-label = מצב ניפוי שגיאות
 about-webrtc-debug-mode-off-state-label = הפעלת מצב ניפוי שגיאות
 about-webrtc-debug-mode-on-state-label = עצירת מצב ניפוי שגיאות
-about-webrtc-enable-logging-label = הפעלת ערכת רישום של WebRTC
 about-webrtc-stats-heading = סטטיסטיקת הפעלה
+about-webrtc-enable-logging-label = הפעלת ערכת רישום של WebRTC
 about-webrtc-stats-clear = ניקוי היסטוריה
 about-webrtc-log-heading = יומן חיבור
 about-webrtc-log-clear = ניקוי יומן רישום
@@ -170,13 +168,17 @@ about-webrtc-pc-configuration-hide-msg = הסתרת תצורה
 
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = העדפות WebRTC שהוגדרו על־ידי המשתמש
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+
+##
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = רוחב פס משוער
 
-## These are paths used for saving the about:webrtc page or log files so
-## they can be attached to bug reports.
-## Variables:
-##  $path (String) - The path to which the file is saved.
+##
 
 about-webrtc-save-page-msg = הדף נשמר אל: { $path }
 about-webrtc-debug-mode-off-state-msg = יומן מעקב זמין במיקום: { $path }
@@ -205,9 +207,6 @@ about-webrtc-trickle-caption-msg = מועמדים שהסתננו (הגיעו ל�
 
 about-webrtc-show-msg-sdp = הצגת SDP
 about-webrtc-hide-msg-sdp = הסתרת SDP
-
-##
-
 
 ## These are displayed on the button that shows or hides the Media Context information disclosure.
 ## The Media Context is the set of preferences and detected capabilities that informs

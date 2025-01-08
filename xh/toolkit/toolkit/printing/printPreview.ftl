@@ -54,4 +54,3 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Ikhasi lokugqibela
-

@@ -37,7 +37,6 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Inte nu
     .secondarybuttonaccesskey = n
 appmenu-update-other-instance-message = En ny { -brand-shorter-name }-uppdatering är tillgänglig, men den kan inte installeras eftersom en annan kopia av { -brand-shorter-name } körs. Stäng den för att fortsätta uppdateringen eller välj att uppdatera ändå (den andra kopian kanske inte fungerar korrekt förrän du startar om den).
-
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Okej
     .buttonaccesskey = O
@@ -45,7 +44,6 @@ appmenu-addon-post-install-message3 = Hantera dina tillägg och teman via applik
 appmenu-addon-post-install-incognito-checkbox =
     .label = Tillåt att detta tillägg körs i privata fönster
     .accesskey = T
-    
 appmenu-new-tab-controlled-changes =
     .label = Din nya flik har ändrats.
     .buttonlabel = Behåll ändringar

@@ -4,27 +4,21 @@
 
 permissions-close-key =
     .key = w
-
 permissions-block =
     .label = ବ୍ଲକ
     .accesskey = B
-
 permissions-session =
     .label = ଅଧିବେଶନ ପାଇଁ ଅନୁମତି ଦିଅନ୍ତୁ
     .accesskey = S
-
 permissions-allow =
     .label = ଅନୁମତି ଦିଅନ୍ତୁ
     .accesskey = A
-
 permissions-status =
     .label = ଅବସ୍ଥିତି
-
 permissions-capabilities-allow =
     .label = ଅନୁମତି ଦିଅନ୍ତୁ
 permissions-capabilities-block =
     .label = Block
-
 permissions-capabilities-listitem-allow =
     .value = ଅନୁମତି ଦିଅନ୍ତୁ
 permissions-capabilities-listitem-block =
@@ -45,6 +39,7 @@ permissions-invalid-uri-label = ଦୟାକରି ଗୋଟିଏ ବୈଧ ହ
 
 ## Exceptions - HTTPS-Only Mode
 
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = କେଉଁ ୱେବ ସାଇଟଗୁଡ଼ିକ ପପ୍-ଅପ୍ ୱିଣ୍ଡୋଗୁଡ଼ିକୁ ଖୋଲିବାକୁ ଅନୁମତିପ୍ରାପ୍ତ ତାହା ଆପଣ ଉଲ୍ଲେଖ କରିପାରିବେ.ଆପଣ ଅନୁମତି ଦେବାକୁ ଚାହୁଁଥିବା ସାଇଟର ସଠିକ ଠିକଣା ଟାଇପ କରନ୍ତୁ ଏବଂ ତାପରେ ଅନୁମତିଦିଅନ୍ତୁକୁ ଦବାନ୍ତୁ.
@@ -52,14 +47,15 @@ permissions-exceptions-popup-desc = କେଉଁ ୱେବ ସାଇଟଗୁଡ
 ## Exceptions - Saved Logins
 
 
+## Exceptions - Saved Passwords
+
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = କେଉଁ ୱେବ ସାଇଟଗୁଡ଼ିକ ଏଡ-ଅନଗୁଡ଼ିକୁ ସ୍ଥାପନ କରିବାକୁ ଅନୁମତିପ୍ରାପ୍ତ ତାହା ଆପଣ ଉଲ୍ଲେଖ କରିପାରିବେ. ଆପଣ ଅନୁମତି ଦେବାକୁ ଚାହୁଁଥିବା ସାଇଟର ସଠିକ ଠିକଣା ଟାଇପ କରନ୍ତୁ ଏବଂ ତାପରେ ଅନୁମତିଦିଅନ୍ତୁକୁ ଦବାନ୍ତୁ.
 
-## Exceptions - Autoplay Media
-
-
 ## Site Permissions - Autoplay
+
 
 ## Site Permissions - Notifications
 
@@ -69,10 +65,12 @@ permissions-exceptions-addons-desc = କେଉଁ ୱେବ ସାଇଟଗୁ�
 
 ## Site Permissions - Virtual Reality
 
+
 ## Site Permissions - Camera
 
 
 ## Site Permissions - Microphone
+
 
 ## Site Permissions - Speaker
 ##

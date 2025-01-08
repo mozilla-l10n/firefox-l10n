@@ -10,7 +10,6 @@ videocontrols-volume-control =
     .aria-label = ระดับเสียง
 videocontrols-closed-caption-button =
     .aria-label = คำบรรยายแบบปิด
-
 videocontrols-play-button =
     .aria-label = เล่น
 videocontrols-pause-button =
@@ -25,22 +24,20 @@ videocontrols-exitfullscreen-button =
     .aria-label = ออกจากภาพเต็มหน้าจอ
 videocontrols-casting-button-label =
     .aria-label = ฉายขึ้นหน้าจอ
+# .offlabel is processed by the video control custom element to be used
+# as a text-track label
 videocontrols-closed-caption-off =
     .offlabel = ปิด
-
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = ภาพที่เล่นควบคู่
-
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = เปิดหน้าต่างใหม่สำหรับวิดีโอนี้
-
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer3 = สนุกได้มากกว่าเดิมด้วยหน้าจอที่มากขึ้น เล่นวิดีโอนี้ในขณะที่คุณทำอย่างอื่นอยู่
-
 videocontrols-error-aborted = วิดีโอหยุดโหลด
 videocontrols-error-network = การเล่นวิดีโอถูกยกเลิกเนื่องจากข้อผิดพลาดทางเครือข่าย
 videocontrols-error-decode = ไม่สามารถเล่นวิดีโอได้เนื่องจากไฟล์เสียหาย
@@ -48,7 +45,6 @@ videocontrols-error-src-not-supported = ไม่สามารถเล่น�
 videocontrols-error-no-source = ไม่พบวิดีโอที่อยู่ในรูปแบบหรือชนิดของ MIME ที่เล่นได้
 videocontrols-error-generic = การเล่นวิดีโอถูกยกเลิกเนื่องจากข้อผิดพลาดที่ไม่ระบุไม่ได้
 videocontrols-status-picture-in-picture = วิดีโอนี้กำลังเล่นในโหมดภาพที่เล่นควบคู่
-
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -62,7 +58,6 @@ videocontrols-status-picture-in-picture = วิดีโอนี้กำล�
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
-
 # This is a plain text version of the videocontrols-position-and-duration-labels
 # string, used by screenreaders.
 #

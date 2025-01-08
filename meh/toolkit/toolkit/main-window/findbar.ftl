@@ -6,4 +6,3 @@
 ### This file contains the entities needed to use the Find Bar.
 
 findbar-not-found = Ntu nnani´i frase
-

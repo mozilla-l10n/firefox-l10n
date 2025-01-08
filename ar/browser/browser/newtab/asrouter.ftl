@@ -282,3 +282,15 @@ launch-on-login-infobar-final-reject-button = لا، شكرًا
 ## Tail Fox Set Default Spotlight
 
 tail-fox-spotlight-secondary-button = ليس الآن
+
+## Root Certificate Succession Infobar
+
+
+## Root Certificate Succession Windows Background Notification
+
+
+## FxA Menu Message variants
+
+
+## Multi-CTA Fox Doodle Spotlight
+

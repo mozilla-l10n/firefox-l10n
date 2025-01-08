@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Iifonti
-
 fonts-window-close =
     .key = w
 
@@ -76,19 +75,11 @@ fonts-default-serif =
     .label = Iserifu
 fonts-default-sans-serif =
     .label = I-sans serif
-
 fonts-minsize-none =
     .label = Akukho
-
 fonts-allow-own =
     .label = Vumela amaphepha akhethe iifonti zawo, endaweni yokhetho lwakho olungentla
     .accesskey = V
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

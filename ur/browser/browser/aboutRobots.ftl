@@ -25,5 +25,6 @@ error-long-desc4 = روباٹ کی چمکیلی دھات کی پشت ہوتی ہ
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = اور ان کے پاس ایک منصوبہ ہے۔
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = دوبارہ کوشش کریں
     .label2 = براہ مہربانی یہ بٹن دوبارہ نہیں دبائیں۔

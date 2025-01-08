@@ -49,6 +49,10 @@ tabbrowser-confirm-close-tabs-button = एकापेक्षा जास्�
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
 
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+
 ## Confirmation dialog when opening multiple tabs simultaneously
 
 tabbrowser-confirm-open-multiple-tabs-title = उघडणे निश्चित करा
@@ -96,4 +100,11 @@ tabbrowser-ctrl-tab-list-all-tabs =
     .label = सर्व { $tabCount } टॅब्स्ची सूची
 
 ## Tab manager menu buttons
+
+
+## Tab Groups
+
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 

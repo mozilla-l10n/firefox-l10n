@@ -10,6 +10,8 @@ safeb-blocked-phishing-page-short-desc = 此页面可能试图诱导您安装恶
 safeb-blocked-malware-page-short-desc = 此页面可能试图安装会窃取或删除您计算机上个人资料的恶意软件，{ -brand-short-name } 已拦截。
 safeb-blocked-unwanted-page-short-desc = 此页面可能试图诱导您安装损害上网体验的程序（例如说修改您的浏览器主页、展示扰人的广告），{ -brand-short-name } 已拦截。
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } 已拦截此页面，其可能会尝试安装危险的应用，从而窃取或删除您的信息（例如照片、密码、邮件、金融权证等）。
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = 安全信息由 <a data-l10n-name='advisory_provider'>{ $advisoryname }</a> 提供。
 safeb-palm-accept-label = 返回
 safeb-palm-see-details-label = 查阅详情

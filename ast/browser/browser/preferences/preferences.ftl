@@ -149,7 +149,7 @@ containers-disable-alert-ok-button =
 containers-disable-alert-cancel-button = Caltener n'activo
 containers-remove-alert-title = ¿Quitar esti contenedor?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Si quites esti contenedor agora, va zarrase { $count } llingüeta. ¿De xuru que quies quitar esti contenedor?
@@ -172,6 +172,8 @@ advanced-fonts =
 preferences-zoom-header = Zoom
 preferences-default-zoom = Zoom predetermináu
     .accesskey = Z
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
@@ -263,15 +265,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Entrugar siempres
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Usar { $plugin-name } (en { -brand-short-name })
 applications-open-inapp =
@@ -307,6 +309,8 @@ play-drm-content =
 play-drm-content-learn-more = Lleer más
 update-application-title = Anovamientos de { -brand-short-name }
 update-application-description = Caltén { -brand-short-name } anováu pal meyor rindimientu, estabilidá y seguranza.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Versión { $version } <a data-l10n-name="learn-more">Novedaes</a>
 update-history =
     .label = Amosar l'historial d'anovamientos…
@@ -351,7 +355,7 @@ performance-limit-content-process-option = Llende de procesos de conteníu
 performance-limit-content-process-enabled-desc = Más procesos de conteníu puen ameyorar el rindimientu al usar munches llingüetes, mas tamién van usar más memoria.
 performance-limit-content-process-blocked-desc = Modificar el númberu de procesos de conteníu namás ye posible col { -brand-short-name } multiprocesu. <a data-l10n-name="learn-more">Llei cómo comprobar si'l multiprocesu ta activáu</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (por defeutu)
 
@@ -442,8 +446,7 @@ home-prefs-shortcuts-description = Sitios que guardes o visites
 home-prefs-shortcuts-by-option-sponsored =
     .label = Atayos patrocinaos
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-description-new = Conteníu esceicional de la web esbilláu por { $provider }, parte de la familia de { -brand-product-name }
 
@@ -468,6 +471,8 @@ home-prefs-recent-activity-description = Una esbilla de los sitios y del conten�
 home-prefs-snippets-header =
     .label = Cachos d'información
 home-prefs-snippets-description-new = Conseyos y noticies de { -vendor-short-name } y { -brand-product-name }
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -527,7 +532,7 @@ search-find-more-link = Atopar más motores de busca
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Pallabra clave duplicada
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Escoyesti una pallabra clave qu'anguaño yá usa «{ $name }». Esbilla otra, por favor.
 search-keyword-warning-bookmark = Escoyesti una pallabra clave qu'anguaño yá usa otru marcador. Esbilla otra, por favor.
 
@@ -785,8 +790,8 @@ history-clear-button =
 sitedata-header = Cookies y datos de los sitios
 sitedata-total-size-calculating = Calcaulando'l tamañu de la caché y los datos de los sitios…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Anguaño les cookies, los datos de los sitios y la caché tán usando { $value } { $unit } d'espaciu nel discu.
 sitedata-learn-more = Lleer más
 sitedata-delete-on-close =

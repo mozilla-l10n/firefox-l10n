@@ -1,16 +1,9 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = લોગિન્સ અને પાસવર્ડ્સ
-
-# "Google Play" and "App Store" are both branding and should not be translated
-
 fxaccounts-sign-in-text = તમારા પાસવર્ડ્સ તમારા અન્ય ઉપકરણો પર મેળવો
 fxaccounts-avatar-button =
     .title = એકાઉન્ટ મેનેજ કરો
@@ -30,6 +23,8 @@ about-logins-menu-menuitem-help = મદદ કરો
 
 login-list =
     .aria-label = શોધ ક્વેરીથી મેળ ખાતા લોગિન્સ
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count } લોગિન
@@ -84,6 +79,7 @@ login-item-cancel-button = રદ કરો
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+
 ## OS Authentication dialog
 
 
@@ -91,15 +87,12 @@ login-item-cancel-button = રદ કરો
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen by attempting to reveal a password in about:logins
+# This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = સાચવેલા પાસવર્ડને જાહેર કરો
-
-# This message can be seen by attempting to copy a password in about:logins
+# This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = સાચવેલા પાસવર્ડની નકલ કરો
-
-## Master Password notification
 
 ## Primary Password notification
 
@@ -107,20 +100,18 @@ master-password-reload-button =
     .label = લોગિન
     .accesskey = L
 
-## Password Sync notification
-
 ## Dialogs
 
 confirmation-dialog-cancel-button = રદ કરો
 confirmation-dialog-dismiss-button =
     .title = રદ કરો
-
 about-logins-confirm-remove-dialog-title = આ લોગિન ને દૂર કરીએ?
 confirm-delete-dialog-message = આ ક્રિયા પૂર્વવત્ કરી શકાતી નથી.
 about-logins-confirm-remove-dialog-confirm-button = દૂર કરો
 
 ## Variables
 ##   $count (number) - Number of items
+
 
 ##
 
@@ -147,22 +138,26 @@ about-logins-vulnerable-alert-learn-more-link = વધુ જાણો
 # This is a generic error message.
 about-logins-error-message-default = આ પાસવર્ડને સાચવવાનો પ્રયાસ કરતી વખતે એક ભૂલ આવી.
 
-
 ## Login Export Dialog
 
+
 ## Login Import Dialog
+
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
+
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
+
 
 ## Logins import report page
 

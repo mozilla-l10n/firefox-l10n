@@ -10,14 +10,19 @@
 
 opensearch-error-duplicate-title = Hapichiypi pantay
 opensearch-error-duplicate-desc = { -brand-short-name } could not install the search plugin from “{ $location-url }” because an engine with the same name already exists nisqa
-
 opensearch-error-download-title = Taqtapaypi pantay
 opensearch-error-download-desc = { -brand-short-name } nisqan mana taqtayta atinchu  chay pligin machkaq umanchay nisqapi
 
 ##
 
+
 ## Infobar shown when search engine is removed and replaced.
 ## Variables
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
+
+
+## Infobar shown when user is prompted to install search engine.
+## Variables
+## $engineName (String) - the name of the search engine to install.
 

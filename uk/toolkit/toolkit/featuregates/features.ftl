@@ -59,8 +59,6 @@ sidebar-description = Легко отримуйте доступ до своєї
 vertical-tabs-title =
     .label = Вертикальні вкладки
 vertical-tabs-description = Перемістіть вкладки з верхньої до бічної частини браузера. Для цього також необхідно випробувати роботу з бічною панеллю. <a data-l10n-name="connect">Поділіться відгуком</a>
-experimental-features-group-browsing =
-    .label = Перегляд сайтів
 experimental-features-group-developer-tools =
     .label = Інструменти розробника
 experimental-features-group-webpage-display =

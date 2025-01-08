@@ -12,20 +12,6 @@ about-reader-color-scheme-sepia = 纸墨
     .title = 纸墨模式
 about-reader-color-scheme-auto = 自动
     .title = 自动颜色模式
-about-reader-color-theme-light = 明亮
-    .title = 明亮颜色主题
-about-reader-color-theme-dark = 深邃
-    .title = 深邃颜色主题
-about-reader-color-theme-sepia = 纸墨
-    .title = 纸墨颜色主题
-about-reader-color-theme-auto = 自动
-    .title = 自动颜色主题
-about-reader-color-theme-gray = 灰暗
-    .title = 灰暗颜色主题
-about-reader-color-theme-contrast = 对比度
-    .title = 对比度颜色主题
-about-reader-color-theme-custom = 自定义颜色
-    .title = 自定义颜色主题
 about-reader-color-light-theme = 明亮
     .title = 明亮主题
 about-reader-color-dark-theme = 深邃
@@ -45,7 +31,7 @@ about-reader-color-contrast-theme = 对比度
 #   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
 about-reader-estimated-read-time = { $range } 分钟
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = 缩小文字
@@ -70,7 +56,6 @@ about-reader-font-type-monospace = 等宽字体
 
 about-reader-toolbar-close = 关闭阅读模式
 about-reader-toolbar-type-controls = 字体调整
-about-reader-toolbar-color-controls = 颜色
 about-reader-toolbar-text-layout-controls = 文本和布局
 about-reader-toolbar-theme-controls = 主题
 about-reader-toolbar-savetopocket = 保存到 { -pocket-brand-name }
@@ -95,10 +80,9 @@ about-reader-custom-colors-visited-links = 访问过的链接
     .title = 编辑颜色
 about-reader-custom-colors-selection-highlight = 朗读功能的高亮标示
     .title = 编辑颜色
-about-reader-custom-colors-reset-button = 重置为默认设置
 about-reader-reset-button = 重置为默认设置
 
-## Reader View improved text and layout menu
+## Reader View text and layout menu
 
 about-reader-text-header = 文本
 about-reader-text-size-label = 字号
@@ -115,9 +99,6 @@ about-reader-content-width-label =
 about-reader-line-spacing-label =
     .label = 行距
 about-reader-advanced-layout-header = 高级
-about-reader-slider-label-width-narrow = 缩窄
-about-reader-slider-label-width-wide = 加宽
-about-reader-slider-label-spacing-narrow = 缩窄
 about-reader-character-spacing-label =
     .label = 字符间距
 about-reader-word-spacing-label =

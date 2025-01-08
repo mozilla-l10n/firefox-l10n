@@ -33,3 +33,7 @@ webext-perms-description-topSites = dostop do zgodovine brskanja
 webext-perms-description-trialML = prenos in uporabo modelov umetne inteligence na napravi
 webext-perms-description-userScripts = dovoljevanje dostopa do vaših podatkov nepotrjenim skriptom tretjih strani
 webext-perms-description-webNavigation = dostop do dejavnosti brskalnika
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

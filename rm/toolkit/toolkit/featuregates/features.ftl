@@ -59,8 +59,6 @@ sidebar-description = Acceda durant la navigaziun a moda simpla a tia cronologia
 vertical-tabs-title =
     .label = Tabs verticals
 vertical-tabs-description = Sposta tes tabs da la part sura dal navigatur en la part laterala. Per pudair utilisar questa funcziun sto la trav laterala esser activada. <a data-l10n-name="connect">Dar in resun</a>
-experimental-features-group-browsing =
-    .label = Navigaziun
 experimental-features-group-developer-tools =
     .label = Utensils per sviluppaders
 experimental-features-group-webpage-display =

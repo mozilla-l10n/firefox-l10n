@@ -5,6 +5,8 @@
 label-disable = निष्क्रिय करें
 label-enable = सक्रिय करें
 label-interventions = हस्तक्षेप
+# Variables:
+#   $bug (string) - Bug number
 label-more-information = अधिक जानकारी: बग { $bug }
 text-disabled-in-about-config = इस सुविधा को लगभग: config में अक्षम कर दिया गया है
 text-no-interventions = कोई हस्तक्षेप नहीं किया जा रहा है

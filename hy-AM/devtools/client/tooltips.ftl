@@ -14,6 +14,16 @@ learn-more = <span data-l10n-name="link">Իմանալ ավելին</span>
 ##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> չունի որևէ ազդեցություն այս տարրի վրա, քանզի այն սնուցիչ կամ ցանցային պահոց չէ։
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> չունի որևէ ազդեցություն այս տարրի վրա, քանզի այն սնուցիչ, ցանցային կամ բազմասյուն պահոց չէ։
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> չունի որևէ ազդեցություն այս տարրի վրա, քանզի այն ցանցային կամ սնուցիչ բաղադրիչ չէ։
@@ -29,8 +39,13 @@ inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</stro
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> չունի որևէ ազդեցություն այս տարրի վրա, քանզի <strong>overflow:hidden</strong>-ը կայված չէ:
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain how
-## the problem can be solved.
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
 
 
 ## In the Rule View when a CSS property cannot be successfully applied we display

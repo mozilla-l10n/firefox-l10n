@@ -6,7 +6,7 @@
 ## The address and credit card autofill management dialog in browser preferences
 
 
-##
+## The address capture doorhanger
 
 
 ## address-level-3 (Sublocality) names
@@ -24,7 +24,6 @@
 ##
 
 autofill-address-email = Korreo
-
 autofill-cancel-button = Kunchatu
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use

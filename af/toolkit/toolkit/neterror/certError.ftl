@@ -3,32 +3,23 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # Variables:
-# $hostname (String) - Hostname of the website with cert error.
+#   $hostname (string) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } gebruik 'n ongeldige sekuriteitsertifikaat.
-
 cert-error-trust-cert-invalid = Die sertifikaat word nie vertrou nie omdat dit deur 'n ongeldige SO-sertifikaat uitgereik is.
-
 cert-error-trust-untrusted-issuer = Die sertifikaat word nie vertrou nie omdat die uitreikersertifikaat nie vertrou word nie.
-
 cert-error-trust-signature-algorithm-disabled = Die sertifikaat word nie vertrou nie omdat dit geteken is met 'n handtekeningalgoritme wat gedeaktiveer is omdat daardie algoritme nie veilig is nie.
-
 cert-error-trust-expired-issuer = Die sertifikaat word nie vertrou nie omdat die uitreikersertifikaat verval het.
-
 cert-error-trust-self-signed = Die sertifikaat word nie vertrou nie omdat dit selfonderteken is.
-
 cert-error-untrusted-default = Die sertifikaat kom nie van 'n vertroude bron nie.
-
 # Variables:
-# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+#   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP streng oordragsekuriteit: { $hasHSTS }
-
 cert-error-details-cert-chain-label = Sertifikaaatketting:
 
 ## Messages used for certificate error titles
 
 connectionFailure-title = Kan nie koppel nie
 deniedPortAccess-title = Hierdie adres het beperkings op
-
 fileNotFound-title = Lêer nie gevind nie
 fileAccessDenied-title = Toegang tot die lêer is geweier
 generic-title = Oeps.
@@ -49,3 +40,10 @@ nssFailure2-title = Kon nie beveilig koppel nie
 corruptedContentError-title = Fout: inhoud korrup
 sslv3Used-title = Kan nie beveilig koppel nie
 inadequateSecurityError-title = Die verbinding is nie beveilig nie
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+

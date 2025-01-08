@@ -37,7 +37,6 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Non ora
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = Un nove edition de { -brand-shorter-name } es disponibile, ma non pote esser installate perque un altere exemplar de { -brand-shorter-name } es in execution. Claude lo pro continuar le actualisation, o opta pro actualisar totevia (le altere exemplar pote non functionar correctemente usque tu lo reinitia).
-
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = OK
     .buttonaccesskey = O
@@ -45,7 +44,6 @@ appmenu-addon-post-install-message3 = Gere tu additivos e themas con le menu del
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permitter que iste extension se executa in fenestras private
     .accesskey = P
-    
 appmenu-new-tab-controlled-changes =
     .label = Tu nove scheda cambiava.
     .buttonlabel = Mantener le cambios

@@ -6,7 +6,7 @@
 ## The address and credit card autofill management dialog in browser preferences
 
 
-##
+## The address capture doorhanger
 
 
 ## address-level-3 (Sublocality) names

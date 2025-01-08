@@ -25,7 +25,6 @@ webext-perms-add =
 webext-perms-cancel =
     .label = ألغِ
     .accesskey = غ
-
 webext-perms-sideload-text = نصّبَ برنامج آخر على حاسوبك إضافة قد تُؤثر على متصفحك. رجاء راجع طلبات صلاحية هذه الإضافة و اختر التفعيل أو الإلغاء (لإبقائها معطّلة).
 webext-perms-sideload-text-no-perms = نصّبَ برنامج آخر على حاسوبك إضافة قد تُؤثر على متصفحك. رجاء اختر التفعيل أو الإلغاء (لإبقائها معطّلة).
 webext-perms-sideload-enable =
@@ -34,14 +33,12 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = ألغِ
     .accesskey = ل
-
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = حُدّث { $extension }. يجب عليك الموافقة على الصلاحيات الجديدة لتنصيب النسخة المحدّثة. اختيار الإلغاء سيُبقي النسخة الحالية من الامتداد. لهذا الامتداد تصريح:
 webext-perms-update-accept =
     .label = حدّث
     .accesskey = ح
-
 webext-perms-optional-perms-list-intro = تُريدُ:
 webext-perms-optional-perms-allow =
     .label = اسمح
@@ -49,13 +46,10 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = ارفض
     .accesskey = ر
-
 webext-perms-host-description-all-urls = الوصول إلى بياناتك لكل المواقع
-
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = الوصول إلى بياناتك للمواقع في النطاق { $domain }
-
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -70,7 +64,6 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = الوصول إلى بياناتك لموقع { $domain }
-
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.

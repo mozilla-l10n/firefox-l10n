@@ -14,3 +14,5 @@ webext-default-search-no =
     .label = Не
     .accesskey = Н
 
+## A modal confirmation dialog to allow an extension on quarantined domains.
+

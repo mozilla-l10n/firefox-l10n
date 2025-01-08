@@ -31,7 +31,7 @@ about-reader-color-contrast-theme = Kontras
 #   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
 about-reader-estimated-read-time = { $range } menit
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = Kecilkan Ukuran Teks
@@ -82,7 +82,7 @@ about-reader-custom-colors-selection-highlight = Penyorot untuk dibacakan
     .title = Edit warna
 about-reader-reset-button = Pulihkan bawaan
 
-## Reader View improved text and layout menu
+## Reader View text and layout menu
 
 about-reader-text-header = Teks
 about-reader-text-size-label = Ukuran teks

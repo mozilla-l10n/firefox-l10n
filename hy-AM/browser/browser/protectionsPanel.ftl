@@ -64,6 +64,9 @@ protections-panel-blocking-label = Արգելափակված
 protections-panel-not-blocking-label = Թույլատրված
 protections-panel-not-found-label = Ոչ մեկը չի հայտնաբերվել
 
+## Smartblock strings
+
+
 ##
 
 protections-panel-settings-label = Պաշտպանության կարգավորումներ

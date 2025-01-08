@@ -59,8 +59,6 @@ sidebar-description = Få enkel åtkomst till din historik, flikar från andra e
 vertical-tabs-title =
     .label = Vertikala flikar
 vertical-tabs-description = Flytta dina flikar från toppen av webbläsaren till sidan. Kräver att du aktiverar sidofältet. <a data-l10n-name="connect">Dela feedback</a>
-experimental-features-group-browsing =
-    .label = Webbläsning
 experimental-features-group-developer-tools =
     .label = Utvecklarverktyg
 experimental-features-group-webpage-display =

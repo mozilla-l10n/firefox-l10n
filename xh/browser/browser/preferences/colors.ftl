@@ -4,23 +4,17 @@
 
 colors-close-key =
     .key = w
-
 colors-page-override-option-always =
     .label = Qho
 colors-page-override-option-auto =
     .label = Ezo zinemixholo engameleneyo kakhulu kuphela
 colors-page-override-option-never =
     .label = Ungaze
-
 colors-text-and-background = Umbhalo nokungasemva eskrinini
-
 colors-use-system =
     .label = Sebenzisa imibala yezixokelelwano
     .accesskey = b
-
 colors-underline-links =
     .label = Krwela umgca phantsi kwamakhonkco
     .accesskey = K
-
 colors-links-header = Nxulumanisa imibala
-

@@ -31,7 +31,6 @@ styleeditor-find-again =
 styleeditor-go-to-line =
     .label = Xhumela emgceni…
     .accesskey = X
-
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.

@@ -221,7 +221,6 @@ newtab-pocket-more-recommendations = مقترحات أخرى
 newtab-pocket-learn-more = اطّلع على المزيد
 newtab-pocket-cta-button = نزِّل { -pocket-brand-name }
 newtab-pocket-cta-text = احفظ القصص التي تحبّها في { -pocket-brand-name }، وزوّد عقلك بمقالات رائعة.
-# A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = احفظ
 newtab-pocket-saved = حُفظت
 
@@ -318,4 +317,12 @@ newtab-wallpaper-white-mountains = جبال بيضاء
 
 
 ## Topic Selection Modal
+
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Confirmation modal for blocking a section
 

@@ -4,6 +4,5 @@
 
 tabmodalprompt-password =
     .value = Miiukuantskuecha:
-
 tabmodalprompt-ok-button =
     .label = Jo

@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = सावधानी के साथ आगे बढ़ें
@@ -13,13 +14,10 @@ about-config-intro-warning-button = जोखिम को स्वीकार
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = इन प्राथमिकताओं को बदलने से { -brand-short-name } का प्रदर्शन या सुरक्षा प्रभावित हो सकती है।
-
 about-config-page-title = उन्नत प्राथमिकताएँ
-
 about-config-search-input1 =
     .placeholder = वरीयता नाम खोजें
 about-config-show-all = सभी दिखाएँ
-
 about-config-pref-add-button =
     .title = जोड़ें
 about-config-pref-toggle-button =

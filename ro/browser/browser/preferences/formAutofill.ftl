@@ -77,9 +77,6 @@ autofill-address-eircode = Eircode (Irlanda)
 
 ##
 
-
-##
-
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Adaugă o adresă nouă
 autofill-address-country = Țară sau regiune

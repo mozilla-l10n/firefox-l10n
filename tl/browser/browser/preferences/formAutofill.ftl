@@ -7,23 +7,18 @@
 
 autofill-manage-addresses-title = Naka-save na mga Tirahan
 autofill-manage-addresses-list-header = Mga tirahan
-
 autofill-manage-credit-cards-title = Mga Nai-save na Credit Card
 autofill-manage-credit-cards-list-header = Mga Credit Card
-
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Tanggalin
 autofill-manage-add-button = Magdagdag…
 autofill-manage-edit-button = Baguhin…
 
-##
+## The address capture doorhanger
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Magdagdag ng Bagong Tirahan
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Baguhin ang Tirahan
-
 autofill-address-given-name = Pangalan
 autofill-address-additional-name = Gitnang Pangalan
 autofill-address-family-name = Apelyido
@@ -81,19 +76,18 @@ autofill-address-eircode = Eircode
 
 ##
 
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Magdagdag ng Bagong Tirahan
 autofill-address-country = Bansa o Rehiyon
 autofill-address-tel = Telepono
 autofill-address-email = Email
-
 autofill-cancel-button = Kanselahin
 autofill-save-button = I-save
 autofill-country-warning-message = Ang Form Autofill ay limitado lamang sa iilang mga bansa.
-
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Magdagdag ng Bagong Credit Card
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = I-edit ang Credit Card
-
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -102,7 +96,6 @@ autofill-edit-card-password-prompt =
         [windows] Sinusubukan ng { -brand-short-name } na magpakita ng credit card information. I-confirm sa baba ang access sa Windows account na ito.
        *[other] Sinusubukan ng { -brand-short-name } na magpakita ng credit card information.
     }
-
 autofill-card-number = Card Number
 autofill-card-invalid-number = Magpasok ng tamang card number
 autofill-card-name-on-card = Pangalan sa Card

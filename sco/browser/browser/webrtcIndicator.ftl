@@ -3,17 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Note: This is currently placed under browser/base/content so that we can
-# get the strings to appear without having our localization community need
-# to go through and translate everything. Once these strings are ready for
-# translation, we'll move it to the locales folder.
-
-
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
-# This string is used so that the window has a title in tools that enumerate/look for window
-# titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } — Sharin Minder
 webrtc-indicator-window =
     .title = { -brand-short-name } — Sharin Minder
@@ -32,7 +24,6 @@ webrtc-item-browser = tab
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Unkent origin
-
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -41,7 +32,6 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Tabs sharin devices
     .accesskey = d
-
 webrtc-sharing-window = Ye're sharin anither application windae.
 webrtc-sharing-browser-window = Ye're sharin { -brand-short-name }.
 webrtc-sharing-screen = Ye're sharin yer hale screen.
@@ -61,9 +51,6 @@ webrtc-minimize =
 ## device sharing state in the OS notification area. We do not use these strings
 ## on macOS, as global menu bar items do not have native tooltips.
 
-# This string will display as a tooltip on supported systems where we show
-# device sharing state in the OS notification area. We do not use these strings
-# on macOS, as global menu bar items do not have native tooltips.
 webrtc-camera-system-menu =
     .label = Ye're sharin yer camera. Click tae control sharin.
 webrtc-microphone-system-menu =
@@ -98,7 +85,6 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Control Sharin
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Control Sharin on “{ $streamTitle }”
-
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Sharin Camera wi “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -107,7 +93,6 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Sharin Camera wi { $tabCount } tab
            *[other] Sharin Camera wi { $tabCount } tabs
         }
-
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Sharin Microphone wi “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -116,7 +101,6 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Sharin Microphone wi { $tabCount } tab
            *[other] Sharin Microphone wi { $tabCount } tabs
         }
-
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Sharin an Application wi “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -125,7 +109,6 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] Sharin an Application wi { $tabCount } tab
            *[other] Sharin Applications wi { $tabCount } tabs
         }
-
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Sharin Screen wi “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -134,7 +117,6 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Sharin Screen wi { $tabCount } tab
            *[other] Sharin Screen wi { $tabCount } tabs
         }
-
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Sharin a Windae wi “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -143,7 +125,6 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Sharin a Windae wi { $tabCount } tab
            *[other] Sharin Windaes wi { $tabCount } tabs
         }
-
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Sharin a Tab wi “{ $streamTitle }”
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -170,6 +151,9 @@ webrtc-allow-share-camera-and-audio-capture = Alloo { $origin } tae yaise yer ca
 webrtc-allow-share-screen-and-microphone = Alloo { $origin } tae yaise yer microphone and see yer screen?
 webrtc-allow-share-screen-and-audio-capture = Allow { $origin } tae lug-in tae this tab's soond and see yer screen?
 
+## Special phrasing for sharing devices when the origin is a file url.
+
+
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
@@ -189,7 +173,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Alloo { $origin 
 
 webrtc-share-screen-warning = Anely share screens wi sites ye trust. Sharin can alloo begowkin sites tae stravaig as you and pauchle yer private data.
 webrtc-share-browser-warning = Anely share { -brand-short-name } wi sites ye trust. Sharin can alloo begowkin sites tae stravaig as you and pauchle yer private data.
-
 webrtc-share-screen-learn-more = Lairn mair
 webrtc-pick-window-or-screen = Wale windae or screen
 webrtc-share-entire-screen = Hale screen
@@ -222,7 +205,6 @@ webrtc-action-always-block =
 
 webrtc-remember-allow-checkbox = Mind this deceesion
 webrtc-mute-notifications-checkbox = Wheesht wabsite notifications while sharin
-
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } cannae alloo ayebidin ingang tae yer screen.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } cannae alloo ayebidin ingang tae yer tab's soond wioot speirin which tab tae share.
 webrtc-reason-for-no-permanent-allow-insecure = Yer connection tae this site isnae siccar. Fur tae bield ye, { -brand-short-name } will anely alloo ingang fur this session.

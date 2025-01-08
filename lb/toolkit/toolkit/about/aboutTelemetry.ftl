@@ -8,7 +8,7 @@ about-telemetry-option-group-yesterday = Gëschter
 about-telemetry-option-group-older = Méi al
 # Selects the correct upload string
 # Variables:
-#   $uploadcase (String): represents a corresponding upload string
+#   $uploadcase (string) - Represents a corresponding upload string
 about-telemetry-upload-type =
     { $uploadcase ->
         [enabled] aktivéiert

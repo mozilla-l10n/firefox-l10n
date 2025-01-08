@@ -6,8 +6,6 @@ title-label = О додатним компонентама
 installed-plugins-label = Инсталиране додатне компоненте
 no-plugins-are-installed-label = Ниједна додатна компонента није инсталирана
 deprecation-description = Нешто недостаје? Неке додатне компоненте више нису подржане. <a data-l10n-name="deprecation-link">Сазнајте више</a>.
-deprecation-description2 =
-    .message = Нешто недостаје? Неке додатне компоненте више нису подржане.
 
 ## The information of plugins
 ##

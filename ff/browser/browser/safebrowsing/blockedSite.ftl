@@ -10,6 +10,8 @@ safeb-blocked-phishing-page-short-desc = { -brand-short-name } daaƴii ngo hello
 safeb-blocked-malware-page-short-desc = { -brand-short-name } daaƴii ngoo hello sabu ha ngo waawi etaade aafde topirde bonnoore waawnde wujjude walla momtude kabaruuji keeriiɗi e ordinateer maa.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } daaƴii ngoo hello sabu ha ngo waawi fuuntude ma e aafgol topirɗe bonnooje humpito banngagol maa (yeru, sa o waylii jaɓɓorgo maa walla a hollii ɓeyditte goɗɗe e lowe njillotoɗaa).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } daaƴii ngoo hello sabu ha ngo waawi etaade aafde jaaɓnirɗe bonɗe gujjooje walla momtooje humpito (yeru, nate, finndeeji, mesaasuuji e karte banke).
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Rokki yiyannde ko <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Rutto
 safeb-palm-see-details-label = Yiy silloor
@@ -27,7 +29,9 @@ safeb-blocked-phishing-page-learn-more = Ɓeydu humpito baɗte lowe puuntooje e 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
+
 ##
+
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page

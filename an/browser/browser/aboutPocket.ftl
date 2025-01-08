@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Anyader etiquetas
-
 pocket-panel-saved-error-generic = I ha habiu una error mirando d'alzar en { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Las etiquetas son limitadas a 25 caracters
 pocket-panel-saved-error-only-links = Nomás se puede alzar vinclos
@@ -48,6 +47,7 @@ pocket-panel-home-discover-more = Descubrir-ne mas
 pocket-panel-home-explore-more = Explorar
 
 ## Pocket panel header component
+
 
 ## Pocket panel buttons
 

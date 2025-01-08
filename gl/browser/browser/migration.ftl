@@ -4,13 +4,11 @@
 
 migration-wizard =
     .title = Asistente de importación
-
 import-from =
     { PLATFORM() ->
         [windows] Importar opcións, marcadores, historial, contrasinais e outros datos de:
        *[other] Importar preferencias, marcadores, historial, contrasinais e outros datos de:
     }
-
 import-from-bookmarks = Importar marcadores:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -63,37 +61,23 @@ import-from-360se =
 import-from-opera-gx =
     .label = Opera GX
     .accesskey = G
-
 no-migration-sources = Non se atoparon programas que conteñan marcadores, historiais ou contrasinais.
-
 import-source-page-title = Importar configuración e datos
 import-items-page-title = Elementos para importar
-
 import-items-description = Escolla os elementos que quere importar:
-
 import-permissions-page-title = Déalle permisos a { -brand-short-name }
-
 # Do not translate "Safari" (the name of the browser on Apple devices)
 import-safari-permissions-string = macOS necesita que permita de maneira explícita a { -brand-short-name } acceder aos datos de Safari. Prema «Continuar», seleccione o cartafol de «Safari» no diálogo de Finder que aparecerá e prema «Abrir».
-
 import-migrating-page-title = Importando…
-
 import-migrating-description = Estanse a importar os seguintes elementos…
-
 import-select-profile-page-title = Seleccionar perfil
-
 import-select-profile-description = Os seguintes perfís están dispoñíbeis para seren importados desde:
-
 import-done-page-title = Importación completa
-
 import-done-description = Importáronse correctamente os seguintes elementos:
-
 import-close-source-browser = Asegúrese de que o navegador seleccionado está pechado antes de continuar.
-
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-chrome = Google Chrome
-
 imported-safari-reading-list = Lista de lectura (de Safari)
 imported-edge-reading-list = Lista de lectura (de Edge)
 
@@ -115,7 +99,6 @@ browser-data-cookies-checkbox =
     .label = Cookies
 browser-data-cookies-label =
     .value = Cookies
-
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -128,12 +111,10 @@ browser-data-history-label =
             [firefox] Historial de navegación e marcadores
            *[other] Historial de navegación
         }
-
 browser-data-formdata-checkbox =
     .label = Historial de formularios gardados
 browser-data-formdata-label =
     .value = Historial de formularios gardados
-
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -142,7 +123,6 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Inicios de sesión e contrasinais gardados
-
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -157,17 +137,14 @@ browser-data-bookmarks-label =
             [edge] Favoritos
            *[other] Marcadores
         }
-
 browser-data-otherdata-checkbox =
     .label = Outros datos
 browser-data-otherdata-label =
     .label = Outros datos
-
 browser-data-session-checkbox =
     .label = Xanelas e lapelas
 browser-data-session-label =
     .value = Xanelas e lapelas
-
 browser-data-payment-methods-checkbox =
     .label = Métodos de pagamento
 browser-data-payment-methods-label =

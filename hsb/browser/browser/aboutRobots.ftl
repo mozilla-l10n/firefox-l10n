@@ -25,5 +25,6 @@ error-long-desc4 = Robots have shiny metal posteriors which should not be bitten
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = A woni maja plan.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = Hišće raz spytać
     .label2 = Prošu njeklikńće na tute tłóčatko hišće raz.

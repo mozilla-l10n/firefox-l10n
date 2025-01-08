@@ -9,7 +9,7 @@
 ##   $status (Number) - HTTP status code, for example 403
 
 
-##
+## The "control" variation of the Relay offer popup
 
 firefox-relay-opt-in-confirmation-disable =
     .label = దీన్ని మళ్ళీ నాకు చూపించకు
@@ -23,6 +23,9 @@ firefox-relay-and-fxa-opt-in-confirmation-disable =
 firefox-relay-and-fxa-opt-in-confirmation-postpone =
     .label = ఇప్పుడు వద్దు
     .accesskey = N
+
+## The "control" variation of the Relay offer popup
+
 
 ## The "basic-info" variation of the Relay offer popup
 

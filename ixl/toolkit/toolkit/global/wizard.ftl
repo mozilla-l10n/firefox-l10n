@@ -4,7 +4,6 @@
 
 wizard-macos-button-finish =
     .label = Tzojpiya
-
 wizard-macos-button-cancel =
     .label = Ya'sakan
 wizard-linux-button-cancel =

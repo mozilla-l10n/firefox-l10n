@@ -11,7 +11,6 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < دواوە
     .accesskey = B
-
 wizard-macos-button-next =
     .label = بەردەوام بە
     .accesskey = C
@@ -21,14 +20,12 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = دوواتر >
     .accesskey = N
-
 wizard-macos-button-finish =
     .label = تەواو
 wizard-linux-button-finish =
     .label = کۆتایی
 wizard-win-button-finish =
     .label = کۆتایی
-
 wizard-macos-button-cancel =
     .label = پاشگەزبوونەوە
 wizard-linux-button-cancel =

@@ -25,5 +25,6 @@ error-long-desc4 = Роботҳо суринҳои металии дурахшо
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = Ва онҳо нақша доранд.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = Аз нав кӯшиш кардан
     .label2 = Лутфан, ин тугмаро дубора зер накунед.

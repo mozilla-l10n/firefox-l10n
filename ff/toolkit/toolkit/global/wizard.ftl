@@ -11,7 +11,6 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Rutto
     .accesskey = R
-
 wizard-macos-button-next =
     .label = Jokku
     .accesskey = J
@@ -21,14 +20,12 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = Yeeso >
     .accesskey = Y
-
 wizard-macos-button-finish =
     .label = Gasii
 wizard-linux-button-finish =
     .label = Gaynu
 wizard-win-button-finish =
     .label = Gaynu
-
 wizard-macos-button-cancel =
     .label = Haaytu
 wizard-linux-button-cancel =

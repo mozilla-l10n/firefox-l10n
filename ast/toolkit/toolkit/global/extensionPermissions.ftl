@@ -28,3 +28,7 @@ webext-perms-description-tabs = Acceder a les llingüetes del restolador
 webext-perms-description-tabHide = Anubrir y amosar les llingüetes del restolador
 webext-perms-description-topSites = Acceder al historial de restolar
 webext-perms-description-webNavigation = Acceder a l'actividá del restolador al restolar
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

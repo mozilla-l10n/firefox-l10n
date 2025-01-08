@@ -11,7 +11,6 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Tilbake
     .accesskey = T
-
 wizard-macos-button-next =
     .label = Hald fram
     .accesskey = H
@@ -21,14 +20,12 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = Neste >
     .accesskey = N
-
 wizard-macos-button-finish =
     .label = Fullfør
 wizard-linux-button-finish =
     .label = Fullfør
 wizard-win-button-finish =
     .label = Fullfør
-
 wizard-macos-button-cancel =
     .label = Avbryt
 wizard-linux-button-cancel =

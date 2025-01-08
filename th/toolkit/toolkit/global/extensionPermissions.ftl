@@ -33,3 +33,7 @@ webext-perms-description-topSites = เข้าถึงประวัติ�
 webext-perms-description-trialML = ดาวน์โหลดและรันโมเดล AI บนอุปกรณ์ของคุณ
 webext-perms-description-userScripts = อนุญาตให้สคริปต์บุคคลที่สามที่ไม่ได้ยืนยันเข้าถึงข้อมูลของคุณ
 webext-perms-description-webNavigation = เข้าถึงกิจกรรมของเบราว์เซอร์ระหว่างการนำทาง
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

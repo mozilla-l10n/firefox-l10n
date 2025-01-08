@@ -4,6 +4,5 @@
 
 notification-learnmore-default-label =
     .value = Més informació
-
 close-notification-message =
     .tooltiptext = Tanca este missatge

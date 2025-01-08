@@ -23,17 +23,17 @@ protections-panel-etp-more-info =
     .aria-label = ຂໍ້ມູນເພີ່ມເຕີມກ່ຽວກັບການປົກປ້ອງການຕິດຕາມທີ່ປັບປຸງ
 protections-panel-etp-on-header = ການປົກປ້ອງການຕິດຕາມແບບປັບປຸງແມ່ນເປີດຢູ່ສຳລັບເວັບໄຊນີ້
 protections-panel-etp-off-header = ການ​ປົກ​ປ້ອງ​ການ​ຕິດ​ຕາມ​ທີ່​ປັບ​ປຸງ​ແມ່ນ​ປິດ​ສໍາ​ລັບ​ເວັບ​ໄຊ​ນີ້​
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = ເວັບໄຊບໍ່ເຮັດວຽກ?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = ເວັບໄຊບໍ່ເຮັດວຽກ?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = ເວັບໄຊບໍ່ເຮັດວຽກ?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = ເວັບໄຊບໍ່ເຮັດວຽກ?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -63,6 +63,9 @@ protections-panel-content-blocking-fingerprinters-label = ລາຍນິ້ວ�
 protections-panel-blocking-label = ບັອກ
 protections-panel-not-blocking-label = ອະນຸຍາດ
 protections-panel-not-found-label = ບໍ່ພົບ
+
+## Smartblock strings
+
 
 ##
 
@@ -100,7 +103,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = ລາຍງານເວັບໄຊທີ່ມີບັນຫາ
 protections-panel-content-blocking-breakage-report-view-description = ການຂັດຂວາງຕົວຕິດຕາມທີ່ແນ່ນອນສາມາດເຮັດໃຫ້ເກີດບັນຫາກັບບາງເວັບໄຊທ໌. ການລາຍງານບັນຫາເຫຼົ່ານີ້ຊ່ວຍເຮັດໃຫ້ { -brand-short-name } ດີຂຶ້ນສຳລັບທຸກຄົນ. ການສົ່ງບົດລາຍງານນີ້ຈະສົ່ງ URL ແລະຂໍ້ມູນກ່ຽວກັບການຕັ້ງຄ່າຕົວທ່ອງເວັບຂອງທ່ານໄປຫາ Mozilla. <label data-l10n-name="learn-more">ສຶກສາເພີ່ມເຕີມ</label>
-protections-panel-content-blocking-breakage-report-view-description2 = ການຂັດຂວາງຕົວຕິດຕາມທີ່ແນ່ນອນສາມາດເຮັດໃຫ້ເກີດບັນຫາກັບບາງເວັບໄຊທ໌. ການລາຍງານບັນຫາເຫຼົ່ານີ້ຊ່ວຍເຮັດໃຫ້ { -brand-short-name } ດີຂຶ້ນສຳລັບທຸກຄົນ. ການສົ່ງບົດລາຍງານນີ້ຈະສົ່ງ URL ແລະຂໍ້ມູນກ່ຽວກັບການຕັ້ງຄ່າຕົວທ່ອງເວັບຂອງທ່ານໄປຫາ { -vendor-short-name }.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL

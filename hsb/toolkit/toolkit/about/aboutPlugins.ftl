@@ -6,8 +6,6 @@ title-label = Wo tykačach
 installed-plugins-label = Instalowane tykače
 no-plugins-are-installed-label = Žane instalowane tykače namakane
 deprecation-description = Faluje něšto? Někotre tykače so wjace njepodpěruja. <a data-l10n-name="deprecation-link">Dalše informacije.</a>
-deprecation-description2 =
-    .message = Faluje něšto? Někotre tykače so wjace njepodpěruja.
 
 ## The information of plugins
 ##

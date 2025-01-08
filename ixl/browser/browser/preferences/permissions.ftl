@@ -4,14 +4,11 @@
 
 permissions-close-key =
     .key = w
-
 permissions-block =
     .label = Maja
     .accesskey = M
-
 permissions-capabilities-block =
     .label = Maja
-
 permissions-capabilities-listitem-block =
     .value = Maja
 
@@ -26,16 +23,17 @@ permissions-capabilities-listitem-block =
 
 ## Exceptions - HTTPS-Only Mode
 
+
 ## Exceptions - Pop-ups
 
 
 ## Exceptions - Saved Logins
 
 
+## Exceptions - Saved Passwords
+
+
 ## Exceptions - Add-ons
-
-
-## Exceptions - Autoplay Media
 
 
 ## Site Permissions - Autoplay
@@ -49,10 +47,12 @@ permissions-capabilities-listitem-block =
 
 ## Site Permissions - Virtual Reality
 
+
 ## Site Permissions - Camera
 
 
 ## Site Permissions - Microphone
+
 
 ## Site Permissions - Speaker
 ##

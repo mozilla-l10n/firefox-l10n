@@ -22,7 +22,6 @@ about-private-browsing-not-private = Actualment no esteu en una finestra privada
 about-private-browsing-info-description-private-window = Finestra privada: En tancar totes les finestres privades, el { -brand-short-name } esborra el vostre l'historial de navegació i de cerca. Això no vos fa anònim.
 about-private-browsing-info-description-simplified = En tancar totes les finestres privades, el { -brand-short-name } esborra el vostre l'historial de navegació i de cerca, tot i que això no vos fa anònim.
 about-private-browsing-learn-more-link = Més informació
-
 about-private-browsing-hide-activity = Oculteu la vostra activitat i ubicació, arreu on navegueu
 about-private-browsing-get-privacy = Protegiu la vostra privadesa arreu on navegueu
 about-private-browsing-hide-activity-1 = Oculteu l'activitat de navegació i la ubicació amb el { -mozilla-vpn-brand-name }. Creeu una connexió segura amb un sol clic, fins i tot en connexions Wi-Fi públiques.
@@ -45,5 +44,9 @@ about-private-browsing-search-banner-close-button =
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
+
 ## Strings used in a promotion message for cookie banner reduction
+
+
+## Strings for Felt Privacy v1 experiments in 119
 

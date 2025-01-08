@@ -14,18 +14,15 @@ about-unloads-intro =
     Denne siden viser hvordan { -brand-short-name } prioriterer mellom fanene, og hvilken faner som frigjøres
     når fanefrigjøring er nødvendig. Du kan manuelt frigjøre faner
     ved å klikke på <em>Frigjør</em>-knappen nedenfor.
-
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more =
     Se <a data-l10n-name="doc-link">Frigjør fane</a> for å lære mer om
     funksjonen og denne siden.
-
 about-unloads-last-updated = Sist oppdatert: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Frigjør
     .title = Frigjør fanen med høyeste prioritet
 about-unloads-no-unloadable-tab = Det finnes ingen faner som kan frigjøres.
-
 about-unloads-column-priority = Prioritet
 about-unloads-column-host = Server
 about-unloads-column-last-accessed = Sist åpnet
@@ -37,7 +34,6 @@ about-unloads-column-memory = Minne
     .title = Fanens estimerte minnebruk
 about-unloads-column-processes = Prosess-ID
     .title = ID for prosessene som er vert for fanens innhold
-
 about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } MB
 about-unloads-memory-in-mb-tooltip =

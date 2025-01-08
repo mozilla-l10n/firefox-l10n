@@ -23,12 +23,10 @@ newtab-topsites-edit-topsites-header = Уреди врвно мрежно мес
 newtab-topsites-title-label = Наслов
 newtab-topsites-title-input =
     .placeholder = Внесете наслов
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Внесете или вметнете URL
 newtab-topsites-url-validation = Потребен е валиден URL
-
 newtab-topsites-use-image-link = Користи сопствена слика…
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
@@ -54,10 +52,9 @@ newtab-confirm-delete-history-p2 = Ова дејство не може да се
 newtab-menu-section-tooltip =
     .title = Отвори мени
     .aria-label = Отвори мени
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
-#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+#   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .title = Отвори мени
     .aria-label = Отвори мени за констект за { $title }
@@ -136,16 +133,15 @@ newtab-section-menu-privacy-notice = Белешка за приватност
 
 newtab-section-header-topsites = Популарни мрежни места
 # Variables:
-#  $provider (String): Name of the corresponding content provider.
+#   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Препорачано од { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Започнете со прелистување и ние овде ќе ви прикажеме некои од одличните написи, видеа и други страници што неодамна сте ги поселите или обележале.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
-#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Имате видено сѐ! Навратете се подоцна за нови содржини од { $provider }. Не можете да чекате? Изберете популарна тема и откријте уште одлични содржини ширум Интернет.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
@@ -163,11 +159,11 @@ newtab-pocket-read-more = Популарни теми:
 newtab-pocket-more-recommendations = Повеќе препораки
 newtab-pocket-cta-button = Превземете го { -pocket-brand-name }
 
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
 
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -176,4 +172,33 @@ newtab-error-fallback-info = Упс, нешто отиде погрешно со
 newtab-error-fallback-refresh-link = Освежете ја страницата за да се обидете повторно.
 
 ## Customization Menu
+
+
+## New Tab Wallpapers
+
+
+## Solid Colors
+
+
+## Abstract
+
+
+## Photographs
+
+
+## New Tab Weather
+
+
+## Topic Labels
+
+
+## Topic Selection Modal
+
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Confirmation modal for blocking a section
 

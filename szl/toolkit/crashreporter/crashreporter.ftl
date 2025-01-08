@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = Posyłanie raportōw z awaryje
-crashreporter-crash-message = Pokozoł sie problym i aplikacyjo { -brand-short-name } sie zawarła.
 crashreporter-plea = Coby pomōc poznać tyn problym, możesz nōm posłać raport z awaryje.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Detajle: { $details }

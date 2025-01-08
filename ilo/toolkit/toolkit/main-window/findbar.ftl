@@ -6,7 +6,5 @@
 ### This file contains the entities needed to use the Find Bar.
 
 findbar-wrapped-to-bottom = Nakaleppas iti rugi ti panid, agtuloy manipud iti baba
-
 findbar-case-sensitive-status =
     .value = (Mailasin ti Kadakkel)
-

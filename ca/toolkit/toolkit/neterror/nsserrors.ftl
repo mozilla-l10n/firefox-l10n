@@ -10,13 +10,11 @@
 
 psmerr-ssl-disabled = No es pot connectar de forma segura perquè s'ha inhabilitat el protocol SSL.
 psmerr-ssl2-disabled = No es pot connectar de forma segura perquè el lloc utilitza una versió antiga i insegura del protocol SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Heu rebut un certificat que no és vàlid. Contacteu amb l'administrador del servidor o amb el remitent de correu electrònic i doneu-los aquesta informació:
     
     El certificat conté el mateix número de sèrie que un altre certificat emès per l'entitat certificadora. Obteniu un altre certificat que contingui un número de sèrie únic.
-
 ssl-error-export-only-server = No es pot comunicar de forma segura. L'altre extrem no admet el xifratge d'alt nivell.
 ssl-error-us-only-server = No es pot comunicar de forma segura. L'altre extrem requereix un xifratge d'alt nivell, que no és compatible.
 ssl-error-no-cypher-overlap = No es pot comunicar de forma segura amb l'altre extrem: no hi ha cap algorisme de xifratge comú.
@@ -153,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = No s'ha configurat cap algorisme de
 ssl-error-unsupported-signature-algorithm = L'altre extrem ha utilitzat una combinació incompatible d'algorisme de signatura i de hash.
 ssl-error-missing-extended-master-secret = L'altre extrem ha intentat continuar sense una extensió extended_master_secret correcta.
 ssl-error-unexpected-extended-master-secret = L'altre extrem ha intentat continuar amb una extensió extended_master_secret inesperada.
-
 sec-error-io = S'ha produït un error I/O durant l'autorització de seguretat.
 sec-error-library-failure = ha fallat la biblioteca de seguretat.
 sec-error-bad-data = biblioteca de seguretat: s'han rebut dades incorrectes.
@@ -320,7 +317,6 @@ sec-error-locked-password = La contrasenya s'ha blocat.
 sec-error-unknown-pkcs11-error = Error desconegut PKCS #11.
 sec-error-bad-crl-dp-url = URL no vàlida o no suportada al punt de distribució CRL.
 sec-error-cert-signature-algorithm-disabled = El certificat s'ha signat amb un algoritme que s'ha inhabilitat perquè no és segur.
-
 mozilla-pkix-error-key-pinning-failure = El servidor utilitza la fixació de claus (HPKP) però no s'ha pogut construir cap cadena de certificat que coincideixi amb el conjunt de claus fixes. Les infraccions de fixació de claus no es poden ometre.
 mozilla-pkix-error-ca-cert-used-as-end-entity = El servidor utilitza un certificat amb una extensió de restriccions bàsiques que l'identifica com a entitat certificadora. Això no hauria de passar amb un certificat que s'hagi emès correctament.
 mozilla-pkix-error-inadequate-key-size = El servidor ha presentat un certificat que té una mida de clau massa petita per establir una connexió segura.
@@ -335,11 +331,9 @@ mozilla-pkix-error-invalid-integer-encoding = El servidor ha presentat un certif
 mozilla-pkix-error-empty-issuer-name = El servidor ha presentat un certificat amb un nom distintiu de l'emissor buit.
 mozilla-pkix-error-additional-policy-constraint-failed = En validar aquest certificat, ha fallat una restricció de política addicional.
 mozilla-pkix-error-self-signed-cert = No es confia en el certificat perquè està signat per ell mateix.
-
 xp-java-remove-principal-error = No s'ha pogut eliminar el principal
 xp-java-delete-privilege-error = No s'ha pogut suprimir el privilegi
 xp-java-cert-not-exists-error = Aquest principal no té un certificat
-
 xp-sec-fortezza-bad-card = La targeta Fortezza no s'ha inicialitzat de forma adequada. Extraieu-la i torneu-la al vostre emissor.
 xp-sec-fortezza-no-card = No s'ha trobat cap targeta Fortezza
 xp-sec-fortezza-none-selected = No s'ha seleccionat cap targeta Fortezza

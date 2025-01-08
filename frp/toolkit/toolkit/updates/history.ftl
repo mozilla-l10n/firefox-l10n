@@ -5,4 +5,3 @@
 close-button-label =
     .buttonlabelcancel = Fèrmar
     .title = F
-

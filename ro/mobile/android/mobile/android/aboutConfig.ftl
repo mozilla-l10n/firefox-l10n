@@ -6,11 +6,9 @@ config-toolbar-search =
     .placeholder = Caută
 config-new-pref-name =
     .placeholder = Nume
-
 config-new-pref-value-boolean = Boolean
 config-new-pref-value-string = Text
 config-new-pref-value-integer = Număr
-
 config-new-pref-string =
     .placeholder = Introdu un text
 config-new-pref-number =
@@ -18,12 +16,9 @@ config-new-pref-number =
 config-new-pref-cancel-button = Renunță
 config-new-pref-create-button = Creează
 config-new-pref-change-button = Schimbă
-
 config-pref-toggle-button = Comută
 config-pref-reset-button = Resetează
-
 config-context-menu-copy-pref-name =
     .label = Copiază numele
 config-context-menu-copy-pref-value =
     .label = Copiază valoarea
-

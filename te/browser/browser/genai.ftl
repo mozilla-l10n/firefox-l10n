@@ -29,5 +29,4 @@ genai-onboarding-secondary = మూసివేయి
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
-genai-onboarding-huggingchat-price = ఉచితం; కొన్ని పనులకు ఖాతా తప్పనిసరి
 genai-onboarding-lechat-price = ఉచితం; ఖాతా తప్పనిసరి

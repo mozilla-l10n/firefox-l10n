@@ -2,21 +2,20 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## Variables
 ##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
 
 ##
 
 list-empty-button =
     .label = Ka´vi kue´eka jie´e ka̱a̱ chunta´an
-
 addons-settings-button = Ke´i { -brand-short-name }
 sidebar-settings-button-title =
     .title = Ke´i { -brand-short-name }
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository-value =
     .value = { detail-repository.label }
 
@@ -68,6 +67,7 @@ addon-detail-updates-radio-off = Xina´va
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
@@ -78,11 +78,11 @@ release-notes-loading = Kunetu…
 
 ## Page headings
 
-## Detail notifications
-## Variables:
-##   $name (String): name of the add-on.
 
 ## Detail notifications
 ## Variables:
 ##   $name (string) - Name of the add-on.
+
+
+## Gecko Media Plugins (GMPs)
 

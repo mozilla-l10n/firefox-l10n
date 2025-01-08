@@ -18,8 +18,6 @@ abuse-report-addon-authored-by = av <a data-l10n-name="author-name">{ $author-na
 abuse-report-learnmore =
     Er du usikker på kva for problem du skal velje?
     <a data-l10n-name="learnmore-link">Les meir om rapportering av utvidingar og tema</a>
-abuse-report-learnmore-intro = Er du usikker på kva for problem du skal velje?
-abuse-report-learnmore-link = Les meir om rapportering av utvidingar og tema
 abuse-report-submit-description = Beskriv problemet (valfritt)
 abuse-report-textarea =
     .placeholder = Det er lettare for oss å løyse eit problem viss vi har detaljar. Beskriv kva du opplever. Takk for at du hjelper oss med å gjere nettet til ein betre stad.
@@ -48,24 +46,6 @@ abuse-report-messagebar-removed-sitepermission = Takk for at du sende inn ein ra
 abuse-report-messagebar-removed-theme = Takk for at du sende inn ein rapport. Du har fjerna temaet <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Det oppsto ein feil ved sending av rapporten for <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Rapporten for <span data-l10n-name="addon-name">{ $addon-name }</span> vart ikkje sendt fordi ein annan rapport nettopp vart sendt inn.
-abuse-report-messagebar-aborted2 =
-    .message = Rapport for { $addon-name } vart anullert.
-abuse-report-messagebar-submitting2 =
-    .message = Sender rapport for { $addon-name }.
-abuse-report-messagebar-submitted2 =
-    .message = Takk for at du sende inn ein rapport. Vil du fjerne { $addon-name }?
-abuse-report-messagebar-submitted-noremove2 =
-    .message = Takk for at du sende inn ein rapport.
-abuse-report-messagebar-removed-extension2 =
-    .message = Takk for at du sende inn ein rapport. Du har fjerna utvidinga { $addon-name }.
-abuse-report-messagebar-removed-sitepermission2 =
-    .message = Takk for at du sende inn ein rapport. Du har fjerna dette tillegget for nettstadløyve { $addon-name }.
-abuse-report-messagebar-removed-theme2 =
-    .message = Takk for at du sende inn ein rapport. Du har fjerna temaet { $addon-name }.
-abuse-report-messagebar-error2 =
-    .message = Det oppsto ein feil ved sending av rapporten for { $addon-name }.
-abuse-report-messagebar-error-recent-submit2 =
-    .message = Rapporten for { $addon-name } vart ikkje sendt fordi ein annan rapport nettopp vart sendt inn.
 
 ## Message bars actions.
 

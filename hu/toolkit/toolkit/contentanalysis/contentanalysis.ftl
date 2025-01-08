@@ -41,21 +41,6 @@ contentanalysis-genericresponse-message = A tartalomelemzés a következővel v�
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-block-message = A szervezete olyan adatvesztés-megelőzési szoftvert használ, amely blokkolta ezt a tartalmat: { $content }.
 # Variables:
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-error-message = Hiba történt az adatvesztés-megelőzési szoftverrel való kommunikáció közben. A következő erőforrás átvitele megtagadva: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-unspecified-error-message = Hiba történt a(z) { $agent } ügynökkel való kommunikáció során. A következő erőforrás átvitele megtagadva: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-no-agent-connected-message = Nem lehet a következőhöz kapcsolódni: { $agent }. A következő erőforrás átvitele megtagadva: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-invalid-agent-signature-message = Nem sikerült az aláírás-ellenőrzés a következőnél: { $agent }. A következő erőforrás átvitele megtagadva: { $content }.
-# Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Localized text describing the content being blocked, such as "Paste denied."
 contentanalysis-unspecified-error-message-content = Hiba történt a(z) { $agent } ügynökkel történő kommunikáció során. { $content }

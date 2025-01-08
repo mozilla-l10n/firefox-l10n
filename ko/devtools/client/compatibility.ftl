@@ -38,11 +38,9 @@ compatibility-issue-occurrences =
     { $number ->
        *[other] { $number }회
     }
-
 compatibility-no-issues-found = 호환성 문제 없음.
 compatibility-close-settings-button =
     .title = 설정 닫기
-
 # Text used in the element containing the browser icons for a given compatibility issue.
 # Line breaks are significant.
 # Variables:

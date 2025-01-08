@@ -25,5 +25,6 @@ error-long-desc4 = Roboty mają lśniące, metalowe tyłki, których nie należy
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = I mają plan.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = Spróbuj ponownie
     .label2 = Proszę więcej nie naciskać tego przycisku.

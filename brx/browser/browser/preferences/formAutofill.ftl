@@ -7,16 +7,14 @@
 
 autofill-manage-addresses-title = थिखानाय थं
 autofill-manage-addresses-list-header = थं
-
 autofill-manage-credit-cards-list-header = क्रेदित कार्दफोर
-
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = बोखार
 autofill-manage-add-button = दाजाबदेर...
 autofill-manage-edit-button = सुजुनाय…
 
-##
+## The address capture doorhanger
 
 
 ## address-level-3 (Sublocality) names
@@ -39,7 +37,6 @@ autofill-address-zip = ZIP कोद
 
 autofill-address-tel = फोन
 autofill-address-email = इ-मेइल
-
 autofill-cancel-button = नेवसि
 autofill-save-button = थिना दोन
 

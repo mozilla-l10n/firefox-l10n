@@ -4,10 +4,8 @@
 
 all-tabs-menu-new-user-context =
     .label = འཇུག་སྣོད་ཡན་ལག་ངོས་གསར་བ
-
 all-tabs-menu-hidden-tabs =
     .label = མངོན་མེད་པའི་ཡན་ལག་ངོས
-
 all-tabs-menu-manage-user-context =
     .label = འཇུག་སྣོད་དོ་དམ་བྱེད་པ
     .accesskey = O

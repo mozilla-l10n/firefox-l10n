@@ -6,8 +6,6 @@ title-label = Maidir le Forlíontáin
 installed-plugins-label = Forlíontáin shuiteáilte
 no-plugins-are-installed-label = Níor aimsíodh aon fhorlíontáin shuiteáilte
 deprecation-description = Rud éigin ar iarraidh? Ní thacaítear le roinnt forlíontán a thuilleadh. <a data-l10n-name="deprecation-link">Tuilleadh Eolais.</a>
-deprecation-description2 =
-    .message = Rud éigin ar iarraidh? Ní thacaítear le roinnt forlíontán a thuilleadh.
 
 ## The information of plugins
 ##

@@ -57,8 +57,6 @@ sidebar-description = Łatwy dostęp do historii, kart z innych urządzeń, roz
 vertical-tabs-title =
     .label = Karty pionowe
 vertical-tabs-description = Przenosi karty z góry przeglądarki na bok. Wymaga włączenia panelu bocznego. <a data-l10n-name="connect">Podziel się opinią</a>
-experimental-features-group-browsing =
-    .label = Przeglądanie
 experimental-features-group-developer-tools =
     .label = Narzędzia dla programistów
 experimental-features-group-webpage-display =

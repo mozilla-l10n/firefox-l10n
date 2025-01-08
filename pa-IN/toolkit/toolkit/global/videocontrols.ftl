@@ -10,7 +10,6 @@ videocontrols-volume-control =
     .aria-label = ਆਵਾਜ਼
 videocontrols-closed-caption-button =
     .aria-label = ਸੀਮਿਤ ਸੁਰਖੀਆਂ
-
 videocontrols-play-button =
     .aria-label = ਚਲਾਓ
 videocontrols-pause-button =
@@ -25,19 +24,20 @@ videocontrols-exitfullscreen-button =
     .aria-label = ਪੂਰੀ ਸਕਰੀਨ ਤੋਂ ਬਾਹਰ ਜਾਓ
 videocontrols-casting-button-label =
     .aria-label = ਸਕਰੀਨ ਉੱਤੇ ਕਾਸਟ ਕਰੋ
+# .offlabel is processed by the video control custom element to be used
+# as a text-track label
 videocontrols-closed-caption-off =
     .offlabel = ਬੰਦ
-
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = ਤਸਵੀਰ-‘ਚ-ਤਸਵੀਰ
-
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = ਇਹ ਵੀਡੀਓ ਨੂੰ ਬਾਹਰ ਵੇਖੋ
-
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer3 = ਵੱਧ ਸਕਰੀਨ ਨਾਲ ਵੱਧ ਮਜ਼ਾ ਹੈ। ਜਦੋਂ ਤੁਸੀਂ ਹੋਰ ਕੰਮ ਕਰ ਰਹੇ ਹੋਵੋ ਤਾਂ ਇਹ ਵੀਡੀਓ ਚਲਾਓ।
-
 videocontrols-error-aborted = ਵੀਡੀਓ ਲੋਡ ਹੋਣ ਤੋਂ ਰੁਕ ਗਈ ਹੈ
 videocontrols-error-network = ਨੈੱਟਵਰਕ ਗਲਤੀ ਕਰਕੇ ਵਿਡੀਓ ਪਲੇਅਬੈਕ ਨੂੰ ਅਧੂਰਾ ਛੱਡਿਆ।
 videocontrols-error-decode = ਫਾਈਲ ਖਰਾਬ ਹੋਣ ਕਰਕੇ ਵਿਡੀਓ ਚਲਾਈ ਨਹੀਂ ਜਾ ਸਕਦੀ।
@@ -45,7 +45,6 @@ videocontrols-error-src-not-supported = ਵਿਡੀਓ ਫਾਰਮੈਟ ਜ�
 videocontrols-error-no-source = ਸਹਾਇਕ ਫਾਰਮੈਟ ਤੇ MIME ਕਿਸਮ ਵਾਲੀ ਕੋਈ ਵਿਡੀਓ ਨਹੀਂ ਲੱਭੀ।
 videocontrols-error-generic = ਵੀਡੀਓ ਪਲੇਅਬੈਕ ਨੂੰ ਅਣਜਾਣ ਕਾਰਨ ਕਰਕੇ ਛੱਡਿਆ ਗਿਆ।
 videocontrols-status-picture-in-picture = ਇਹ ਵਿਡੀਓ ਤਸਵੀਰ-'ਚ-ਤਸਵੀਰ ਢੰਗ ਚੱਲ ਰਿਹਾ ਹੈ।
-
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -59,7 +58,6 @@ videocontrols-status-picture-in-picture = ਇਹ ਵਿਡੀਓ ਤਸਵੀਰ
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
-
 # This is a plain text version of the videocontrols-position-and-duration-labels
 # string, used by screenreaders.
 #

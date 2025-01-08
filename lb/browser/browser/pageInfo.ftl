@@ -12,7 +12,6 @@ general-meta-name =
     .label = Numm
 general-meta-content =
     .label = Inhalt
-
 media-tab =
     .label = Medien
     .accesskey = M
@@ -59,13 +58,11 @@ media-video = Video
 media-audio = Audio
 saved-passwords-yes = Jo
 saved-passwords-no = Neen
-
 no-page-title =
     .value = Säit ouni Titel:
 media-unknown-not-cached =
     .value = Onbekannt (net am Tëschespäicher)
 security-no-visits = Neen
-
 # This string is used to display the type of
 # an image
 # Variables:
@@ -78,7 +75,5 @@ media-image-type =
 
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
-# Variables:
-#   $website (string) - The url of the website pageInfo is getting info for
 page-info-page =
     .title = Säitinformatiounen - { $website }

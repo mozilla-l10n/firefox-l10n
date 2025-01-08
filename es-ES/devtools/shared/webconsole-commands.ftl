@@ -22,13 +22,3 @@ webconsole-commands-usage-unblock =
     Dejar de bloquear solicitudes de red
     
       Acepta solamente un argumento, la misma cadena exacta que se pasó previamente a :block.
-# Usage string for :trace command
-webconsole-commands-usage-trace =
-    :trace
-    
-    Alternar el rastreador de JavaScript
-    
-      Admite los siguientes argumentos:
-        --logMethod debe establecerse a ‘console’ para registrar en la consola web (predeterminado), o ‘stdout’ para registrar en la salida estándar,
-        --prefix Cadena opcional que será registrada al principio de todos los registros de rastreo,
-        --help o --usage muestra este mensaje.

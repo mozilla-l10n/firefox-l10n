@@ -37,7 +37,7 @@ about-telemetry-fetch-stack-symbols = স্ট্যাকের জন্য �
 about-telemetry-hide-stack-symbols = অপরিশোধিত স্ট্যাক ডাটা দেখাও
 # Selects the correct release version
 # Variables:
-#   $channel (String): represents the corresponding release data string
+#   $channel (string) - Represents the corresponding release data string
 about-telemetry-data-type =
     { $channel ->
         [release] রিলিজ ডাটা
@@ -45,42 +45,42 @@ about-telemetry-data-type =
     }
 # Selects the correct upload string
 # Variables:
-#   $uploadcase (String): represents a corresponding upload string
+#   $uploadcase (string) - Represents a corresponding upload string
 about-telemetry-upload-type =
     { $uploadcase ->
         [enabled] সক্রিয়
        *[disabled] নিষ্ক্রিয়
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = এই পাতাটি টেলিমেট্রি কতৃক সংগৃহীত কার্যকারিতা,ব্যবহার,স্বনির্বাচনসমূহের তথ্য প্রদর্শন করে। এই তথ্য { $telemetryServerOwner } এর নিকট { -brand-full-name } এর উন্নতিতে সাহায্যের জন্য উপস্থাপিত হয়েছে।
 # Variables:
-#   $name (String): ping name, e.g. “saved-session”
-#   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
+#   $name (string) - Ping name, e.g. “saved-session”
+#   $timestamp (string) - Ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = তথ্যের প্রতিটি অংশ “<a data-l10n-name="ping-link">পিংস</a>” এ বান্ডেল করে পাঠানো হয়েছে। আপনি { $name }, { $timestamp } এ পিং করে দেখছেন।
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $selectedTitle (String): the section name from the structure of the ping.
+#   $selectedTitle (string) - The section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = { $selectedTitle } এ খুঁজুন
 about-telemetry-filter-all-placeholder =
     .placeholder = সব বিভাগে খুঁজুন
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-results-for-search = "{ $searchTerms }" এর ফলাফল
 # More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $sectionName (String): the section name from the structure of the ping.
-#   $currentSearchText (String): the current text in the search input
+#   $sectionName (string) - The section name from the structure of the ping.
+#   $currentSearchText (string) - The current text in the search input
 about-telemetry-no-search-results = দুঃখিত! "{ $currentSearchText }" এর জন্য { $sectionName } এ কোন ফলাফল নেই
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-no-search-results-all = দুঃখিত! "{ $searchTerms }" এর জন্য কোনও বিভাগে কোন ফলাফল নেই
 # This message is displayed when a section is empty.
 # Variables:
-#   $sectionName (String): is replaced by the section name.
+#   $sectionName (string) - Is replaced by the section name.
 about-telemetry-no-data-to-display = দুঃখিত! বর্তমানে "{ $sectionName }" এ কোন ডেটা উপলব্ধ নেই
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = সব
@@ -96,13 +96,13 @@ about-telemetry-slow-sql-statement = স্টেটমেন্ট
 about-telemetry-addon-table-id = অ্যাড-অন ID
 about-telemetry-addon-table-details = বিস্তারিত
 # Variables:
-#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+#   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = { $addonProvider } প্রোভাইডার
 about-telemetry-keys-header = বৈশিষ্ট্য
 about-telemetry-names-header = নাম
 about-telemetry-values-header = মান
 # Variables:
-#   $lateWriteCount (Integer): the number of the late writes
+#   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = #{ $lateWriteCount } দেরিতে লেখা
 about-telemetry-stack-title = স্তূপ:
 about-telemetry-memory-map-title = মেমরি ম্যাপ:

@@ -37,7 +37,6 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Chan ann an-dràsta
     .secondarybuttonaccesskey = c
 appmenu-update-other-instance-message = Tha ùrachadh air { -brand-shorter-name } ri fhaighinn ach cha ghabh a stàladh on a tha lethbhreac eile dhe { -brand-shorter-name } a’ ruith. Dùin esan airson leantainn ris an ùrachadh no cuir romhad gun dèan thu ùrachadh a dh’aindeoin sin (dh’fhaoidte nach obraich an lethbhreac eile mar bu chòir tuilleadh gus an ath-thòisich thu e).
-
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Ceart ma-thà
     .buttonaccesskey = C
@@ -45,7 +44,6 @@ appmenu-addon-post-install-message3 = Stiùirich na tuilleadain ’s na h-ùrlar
 appmenu-addon-post-install-incognito-checkbox =
     .label = Leig leis an leudachan seo ruith ann an uinneagan prìobhaideach
     .accesskey = a
-    
 appmenu-new-tab-controlled-changes =
     .label = Chaidh na chì thu air taba ùr atharrachadh.
     .buttonlabel = Cùm na h-atharraichean

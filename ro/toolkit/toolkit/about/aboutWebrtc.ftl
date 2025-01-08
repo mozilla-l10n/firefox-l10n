@@ -8,7 +8,6 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = Date interne WebRTC
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = salvează about:webrtc ca
@@ -22,14 +21,12 @@ about-webrtc-aec-logging-msg-label = Jurnalizare AEC
 about-webrtc-aec-logging-off-state-label = Pornește jurnalizarea AEC
 about-webrtc-aec-logging-on-state-label = Oprește jurnalizarea AEC
 about-webrtc-aec-logging-on-state-msg = Jurnalizare AEC activă (vorbește cu apelantul câteva minute și apoi oprește înregistrarea)
-
 about-webrtc-aec-logging-toggled-on-state-msg = Jurnalizare AEC activă (vorbește cu apelantul câteva minute și apoi oprește înregistrarea)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Fișierele de jurnal captate se găsesc în: { $path }
 
 ##
-
 
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
@@ -80,12 +77,10 @@ about-webrtc-type-remote = la distanță
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Numite
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Selectate
-
 about-webrtc-save-page-label = Salvează pagina
 about-webrtc-debug-mode-msg-label = Mod depanare
 about-webrtc-debug-mode-off-state-label = Pornește modul depanare
@@ -98,7 +93,6 @@ about-webrtc-log-show-msg = afișează jurnalul
     .title = clic pentru extinderea secțiunii
 about-webrtc-log-hide-msg = ascunde jurnalul
     .title = clic pentru restrângerea secțiunii
-
 about-webrtc-log-section-show-msg = Afișează jurnalul
     .title = Clic pentru extinderea secțiunii
 about-webrtc-log-section-hide-msg = Ascunde jurnalul
@@ -171,36 +165,35 @@ about-webrtc-remote-send-ssrc = SSRC de transmisie la distanță
 # An option whose value will not be displayed but instead noted as having been
 # provided
 about-webrtc-configuration-element-provided = Furnizat
-
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = Nefurnizat
-
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Preferințe WebRTC setate de utilizator
 
-## These are paths used for saving the about:webrtc page or log files so
-## they can be attached to bug reports.
-## Variables:
-##  $path (String) - The path to which the file is saved.
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+
+##
+
+
+##
 
 about-webrtc-save-page-msg = pagină salvată în: { $path }
 about-webrtc-debug-mode-off-state-msg = jurnalul de urmărire poate fi găsit la: { $path }
 about-webrtc-debug-mode-on-state-msg = mod de depanare activ, jurnalul de urmărire la: { $path }
 about-webrtc-aec-logging-off-state-msg = fișierele de jurnal captate se găsesc în: { $path }
-
+# This path is used for saving the about:webrtc page so it can be attached to
+# bug reports.
+# Variables:
+#  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Pagină salvată în: { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = Jurnalul de urmărire poate fi găsit la: { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = Mod de depanare activ, jurnalul de urmărire la: { $path }
-
-##
-
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
-
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
@@ -213,12 +206,10 @@ about-webrtc-trickle-caption-msg = Candidații prelingătoare (sosite după răs
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-local = Setează SDP local la marcajul temporal { NUMBER($timestamp, useGrouping: "false") }
-
 # This is used as a header for remote SDP.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-remote = Setează SDP de la distanță la marcajul temporal { NUMBER($timestamp, useGrouping: "false") }
-
 # This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.

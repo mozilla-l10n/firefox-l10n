@@ -25,5 +25,6 @@ error-long-desc4 = Roboteilla on kiiltävä metallinen takamus, jota ei saa purr
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = Ja heillä on suunnitelma.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = Yritä uudestaan
     .label2 = Älä paina tätä nappia uudestaan.

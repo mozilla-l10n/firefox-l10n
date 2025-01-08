@@ -31,3 +31,7 @@ webext-perms-description-tabs = Atzèdere a is ischedas de su navigadore
 webext-perms-description-tabHide = Cuare e ammustrare is ischedas de su navigadore
 webext-perms-description-topSites = Atzèdere a sa cronologia de navigatzione
 webext-perms-description-webNavigation = Atzèdere a s'atividade de su navigadore durante sa navigatzione
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

@@ -39,7 +39,7 @@ about-telemetry-fetch-stack-symbols = Awtano joowe ɗee inɗe gollirɗe
 about-telemetry-hide-stack-symbols = Hollir keɓe joowre mawnde ndee
 # Selects the correct release version
 # Variables:
-#   $channel (String): represents the corresponding release data string
+#   $channel (string) - Represents the corresponding release data string
 about-telemetry-data-type =
     { $channel ->
         [release] ñalngu bayyinal
@@ -47,43 +47,43 @@ about-telemetry-data-type =
     }
 # Selects the correct upload string
 # Variables:
-#   $uploadcase (String): represents a corresponding upload string
+#   $uploadcase (string) - Represents a corresponding upload string
 about-telemetry-upload-type =
     { $uploadcase ->
         [enabled] hurminaa
        *[disabled] ñifaa
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Ngoo hello hollata ko humpito baɗte moƴƴugol, masiŋeeri, kuutorgol e keertine ngo Telemeetiri roɓindii. Ngoon humpito naatnoytee ko to { $telemetryServerOwner } ngam wallude ƴellitede { -brand-full-name }.
 about-telemetry-settings-explanation = Telemetiri ndii woni ko e roɓindaade { about-telemetry-data-type } e gawtagol ngol ko <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
-#   $name (String): ping name, e.g. “saved-session”
-#   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
+#   $name (string) - Ping name, e.g. “saved-session”
+#   $timestamp (string) - Ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Heen kabaaru kala neldetee ko nder “<a data-l10n-name="ping-link">pinnge</a>”. Aɗa ƴeewa ping { $name }, { $timestamp }.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $selectedTitle (String): the section name from the structure of the ping.
+#   $selectedTitle (string) - The section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = Yiylo e { $selectedTitle }
 about-telemetry-filter-all-placeholder =
     .placeholder = Yiylo e doge fof
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-results-for-search = Njeñtudi “{ $searchTerms }”
 # More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $sectionName (String): the section name from the structure of the ping.
-#   $currentSearchText (String): the current text in the search input
+#   $sectionName (string) - The section name from the structure of the ping.
+#   $currentSearchText (string) - The current text in the search input
 about-telemetry-no-search-results = Yaafo ! Alaa njeñtudi “{ $currentSearchText }” woodi nder { $sectionName }
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-no-search-results-all = Yaafo ! Alaa njeñtudi “{ $searchTerms }” woodi e hay taƴre wootere
 # This message is displayed when a section is empty.
 # Variables:
-#   $sectionName (String): is replaced by the section name.
+#   $sectionName (string) - Is replaced by the section name.
 about-telemetry-no-data-to-display = Yaafo ! Alaa keɓal keɓingal jooni woodi nder “{ $sectionName }”
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = fof
@@ -99,13 +99,13 @@ about-telemetry-slow-sql-statement = Wowlaandu
 about-telemetry-addon-table-id = Ɓeydu e ID
 about-telemetry-addon-table-details = Cariiɗe
 # Variables:
-#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+#   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = Dokkiroowo { $addonProvider }
 about-telemetry-keys-header = Keertinal
 about-telemetry-names-header = Innde
 about-telemetry-values-header = Njaru
 # Variables:
-#   $lateWriteCount (Integer): the number of the late writes
+#   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = Winndaa Sakket #{ $lateWriteCount }
 about-telemetry-stack-title = Taakre:
 about-telemetry-memory-map-title = Kartal Teskorde:

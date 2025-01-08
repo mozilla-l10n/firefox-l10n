@@ -31,7 +31,7 @@ about-reader-color-contrast-theme = 高對比
 #   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
 about-reader-estimated-read-time = { $range } 分鐘
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = 縮小文字
@@ -82,7 +82,7 @@ about-reader-custom-colors-selection-highlight = 為閱讀功能加上強調效�
     .title = 編輯色彩
 about-reader-reset-button = 重設為預設值
 
-## Reader View improved text and layout menu
+## Reader View text and layout menu
 
 about-reader-text-header = 文字
 about-reader-text-size-label = 文字大小

@@ -3,12 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Note: This is currently placed under browser/base/content so that we can
-# get the strings to appear without having our localization community need
-# to go through and translate everything. Once these strings are ready for
-# translation, we'll move it to the locales folder.
-
-
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
@@ -27,7 +21,6 @@ webrtc-item-browser = ట్యాబు
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = తెలియని మూలం
-
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -69,7 +62,6 @@ webrtc-indicator-menuitem-control-sharing =
     .label = పంచుకోలు నియంత్రణ
 webrtc-indicator-menuitem-control-sharing-on =
     .label = “{ $streamTitle }”లో పంచుకోడాన్ని నియంత్రించు
-
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = “{ $streamTitle }”తో కేమెరా పంచుకుంటున్నారు
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -78,7 +70,6 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] { $tabCount } ట్యాబులో కేమెరా పంచుకుంటున్నారు
            *[other] { $tabCount } ట్యాబులలో కేమెరా పంచుకుంటున్నారు
         }
-
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = “{ $streamTitle }”తో మైక్రోఫోను పంచుకుంటున్నారు
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -87,7 +78,6 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] { $tabCount } ట్యాబులో మైక్రోఫోను పంచుకుంటున్నారు
            *[other] { $tabCount } ట్యాబులలో మైక్రోఫోను పంచుకుంటున్నారు
         }
-
 webrtc-indicator-menuitem-sharing-application-with =
     .label = “{ $streamTitle }”తో ఒక అనువర్తనాన్ని పంచుకుంటున్నారు
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -96,7 +86,6 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] { $tabCount } ట్యాబులో అనువర్తనాన్ని పంచుకుంటున్నారు
            *[other] { $tabCount } ట్యాబులలో అనువర్తనాలను పంచుకుంటున్నారు
         }
-
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = “{ $streamTitle }”తో తెరను పంచుకుంటున్నారు
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -105,7 +94,6 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] { $tabCount } ట్యాబులో తెరను పంచుకుంటున్నారు
            *[other] { $tabCount } ట్యాబులలో తెరను పంచుకుంటున్నారు
         }
-
 webrtc-indicator-menuitem-sharing-window-with =
     .label = “{ $streamTitle }”తో ఒక కిటికీని పంచుకుంటున్నారు
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -114,7 +102,6 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] { $tabCount } ట్యాబులో విండోను పంచుకుంటున్నారు
            *[other] { $tabCount } ట్యాబులలో విండోలను పంచుకుంటున్నారు
         }
-
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = “{ $streamTitle }”తో ఒక ట్యాబును పంచుకుంటున్నారు
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -128,6 +115,9 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
+
+
+## Special phrasing for sharing devices when the origin is a file url.
 
 
 ## Variables:
@@ -169,7 +159,6 @@ webrtc-action-always-block =
 
 webrtc-remember-allow-checkbox = ఈ నిర్ణయాన్ని గుర్తుంచుకో
 webrtc-mute-notifications-checkbox = పంచుకుంటున్నప్పుడు వెబ్‌సైటు గమనింపులను మౌనించు
-
 webrtc-reason-for-no-permanent-allow-screen = మీ తెరకు శాశ్వత ప్రాప్యతను { -brand-short-name } అనుమతించదు.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ఏ ట్యాబు పంచుకోవాలో అడగకుండా మీ ట్యాబు యొక్క ఆడియోను శాశ్వతంగా ప్రాప్యత చేసుటకు అనుమతించదు.
 webrtc-reason-for-no-permanent-allow-insecure = ఈ సైటుకు మీ అనుసంధానము సురక్షితమైనది కాదు. మిమ్మల్ని రక్షించుటకు, { -brand-short-name } కేవలం ఈ సెషన్ కు మాత్రమే ప్రాప్యతను అనుమతిస్తుంది.

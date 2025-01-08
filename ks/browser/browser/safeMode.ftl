@@ -4,5 +4,5 @@
 
 refresh-profile =
     .label = ریفریس &برانڈ شاٹ ناو؛
-# Shown on the safe mode dialog after multiple startup crashes. 
+# Shown on the safe mode dialog after multiple startup crashes.
 auto-safe-mode-description = &برانڈ شاٹ ناو؛ گو غیر متوقہ طریقس منز بند شروع گژھنس دوران۔ یہ ہیکِہ گْژھیتھ ایڈ۔آنو یا بدل پرابلیم سْیت۔ توہیہ ہیکیو کوشش کْرتھ پرابلیم حل کرنْچ سیف موڈس منز ٹربُل شوٹ کْرتھ۔

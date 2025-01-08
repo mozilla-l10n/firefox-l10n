@@ -10,13 +10,11 @@
 
 psmerr-ssl-disabled = Niy idzie sie bezpiecznie połōńczyć, bo protokōł SSL je zastawiōny.
 psmerr-ssl2-disabled = Niy idzie sie bezpiecznie połōnczyć, bo strōna używo starszyj, przedownionyj wersyje protokołu SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Prziszoł felerny certyfikat. Skōntaktuj sie ze administratorym serwera abo wystowcōm certyfikatu i przekoż ta informacyjo:
     
     Twōj certyfikat mo taki sōm nōmer seryje jak inkszy certyfikat, co je wystawiōny ôd wystowcy certyfikatōw. Trza dostać nowy certyfikat, co bydzie mieć unikatowy nōmer seryje.
-
 ssl-error-export-only-server = Niy idzie sie bezpiecznie kōmunikować. Serwer niy ôbsuguje szyfrowanio wysokigo poziōmu.
 ssl-error-us-only-server = Niy idzie sie bezpiecznie kōmunikować. Serwer potrzebuje szyfrowanio wysokigo poziōmu, co niy ma ôbsugiwane.
 ssl-error-no-cypher-overlap = Niy idzie sie bezpiecznie kōmunikować z partnerym: chybio spōlnych algorytmōw szyfrowanio.
@@ -124,4 +122,3 @@ ssl-error-certificate-unobtainable-alert = Partner protokołu SSL niy poradziō�
 ssl-error-unrecognized-name-alert = Partner protokołu SSL niy mo certyfikatu do proszōnego miana DSV.
 ssl-error-bad-cert-status-response-alert = Partner protokołu SSL niy poradziōł dostać ôdpowiedzi OCSP do tego certyfikatu.
 ssl-error-bad-cert-hash-value-alert = Partner protokołu SSL doł znać ô felernym wercie hash certyfikatu.
-

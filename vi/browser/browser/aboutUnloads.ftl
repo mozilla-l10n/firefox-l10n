@@ -15,18 +15,15 @@ about-unloads-intro =
     { -brand-short-name } đặt ưu tiên các thẻ và thẻ nào sẽ được dỡ xuống
     khi lệnh dỡ thẻ được kích hoạt. Bạn có thể kích hoạt dỡ thẻ theo cách
     thủ công bằng cách nhấp vào nút <em>Dỡ</em>.
-
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more =
     Xem <a data-l10n-name="doc-link">Quản lý dỡ thẻ</a> để tìm hiểu thêm
     về tính năng và trang này.
-
 about-unloads-last-updated = Cập nhật gần đây nhất: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Dỡ
     .title = Dỡ thẻ có mức độ ưu tiên cao nhất
 about-unloads-no-unloadable-tab = Không có thẻ nào có thể dỡ xuống.
-
 about-unloads-column-priority = Ưu tiên
 about-unloads-column-host = Máy chủ
 about-unloads-column-last-accessed = Lần truy cập cuối
@@ -38,7 +35,6 @@ about-unloads-column-memory = Bộ nhớ
     .title = Mức sử dụng bộ nhớ ước tính của thẻ
 about-unloads-column-processes = ID tiến trình
     .title = ID của các tiến trình lưu trữ nội dung của thẻ
-
 about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } MB
 about-unloads-memory-in-mb-tooltip =

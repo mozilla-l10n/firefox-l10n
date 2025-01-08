@@ -33,3 +33,8 @@ searchbar-icon =
 removed-search-engine-message = <strong>Ваш подразумевани претраживач је промењен.</strong> { $oldEngine } више није ваш подразумевани претраживач за { -brand-short-name }, већ { $newEngine }. Да бисте користили други претраживач, идите на подешавања. <label data-l10n-name="remove-search-engine-article">Сазнајте више</label>
 removed-search-engine-message2 = <strong>Ваш подразумевани претраживач је промењен.</strong> { $oldEngine } више није ваш подразумевани претраживач за { -brand-short-name }, већ { $newEngine }. Да бисте користили други претраживач, идите на подешавања.
 remove-search-engine-button = У реду
+
+## Infobar shown when user is prompted to install search engine.
+## Variables
+## $engineName (String) - the name of the search engine to install.
+

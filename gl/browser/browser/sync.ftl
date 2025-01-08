@@ -34,3 +34,6 @@ fxa-menu-send-tab-to-device-description = Envíe unha lapela ao instante a calqu
 fxa-menu-sign-out =
     .label = Saír…
 fxa-menu-sync-title = Sync
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+

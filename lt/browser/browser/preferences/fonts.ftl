@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Šriftai
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Šriftai, skirti
     .accesskey = f
-
 fonts-langgroup-arabic =
     .label = Arabų
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporcingas
     .accesskey = P
-
 fonts-default-serif =
     .label = Su užraitais
 fonts-default-sans-serif =
     .label = Be užraitų
-
 fonts-proportional-size = Dydis
     .accesskey = D
-
 fonts-serif = Su užraitais
     .accesskey = S
-
 fonts-sans-serif = Be užraitų
     .accesskey = B
-
 fonts-monospace = Lygiaplotis
     .accesskey = L
-
 fonts-monospace-size = Dydis
     .accesskey = y
-
 fonts-minsize = Minimalus šrifto dydis
     .accesskey = o
-
 fonts-minsize-none =
     .label = Nenurodyti
-
 fonts-allow-own =
     .label = Leisti tinklalapiams nurodyti šriftus, naudotinus vietoje jūsų parinktų
     .accesskey = t
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

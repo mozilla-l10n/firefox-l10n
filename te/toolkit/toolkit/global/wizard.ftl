@@ -11,7 +11,6 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < వెనుక
     .accesskey = B
-
 wizard-macos-button-next =
     .label = కొనసాగించు
     .accesskey = C
@@ -21,14 +20,12 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = తర్వాత>
     .accesskey = N
-
 wizard-macos-button-finish =
     .label = పూర్తయింది
 wizard-linux-button-finish =
     .label = ముగించు
 wizard-win-button-finish =
     .label = ముగించు
-
 wizard-macos-button-cancel =
     .label = రద్దుచేయి
 wizard-linux-button-cancel =

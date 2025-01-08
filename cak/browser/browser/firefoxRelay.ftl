@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = { -relay-brand-name } man xtikïr ta xutz'ük jun k'ak'a' k'oj. HTTP rusachoj b'itz: { $status }.
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } man xtikïr ta xerïl okisaxel taq k'oj. HTTP rusachoj b'itz: { $status }.
 
-##
+## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = K'o chi natikirisaj molojri'ïl pa { -fxaccount-brand-name } richin nawokisaj { -relay-brand-name }.
 firefox-relay-get-unlimited-masks =
@@ -32,3 +32,15 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Wakami mani
     .accesskey = n
+
+## The "control" variation of the Relay offer popup
+
+
+## The "basic-info" variation of the Relay offer popup
+
+
+## The "with-domain" variation of the Relay offer popup
+
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+

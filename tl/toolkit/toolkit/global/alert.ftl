@@ -6,3 +6,6 @@ alert-close =
     .tooltiptext = Isara ang abiso na ito
 alert-settings-title =
     .tooltiptext = Mga setting
+
+## Reminder Notifications
+

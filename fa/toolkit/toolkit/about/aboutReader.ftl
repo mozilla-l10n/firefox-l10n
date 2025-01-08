@@ -4,7 +4,6 @@
 
 about-reader-loading = در حال بارکردن...
 about-reader-load-error = بارگذاری مقاله از این صفحه ناموفق بود
-
 about-reader-color-scheme-light = نور
     .title = طرح رنگ روشن
 about-reader-color-scheme-dark = تیره
@@ -13,7 +12,6 @@ about-reader-color-scheme-sepia = سیاه و سفید با تون قهوه‌ا
     .title = طرح رنگ قرمز قهوه‌ای
 about-reader-color-scheme-auto = خودکار
     .title = Color Scheme Auto
-
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -25,7 +23,7 @@ about-reader-estimated-read-time =
        *[other] { $range } دقیقه
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = کاهش اندازه قلم
@@ -50,3 +48,14 @@ about-reader-font-type-sans-serif = Sans-serif
 about-reader-toolbar-close = بستن نمای مطالعه
 about-reader-toolbar-type-controls = کنترل انواع
 about-reader-toolbar-savetopocket = ذخیره در { -pocket-brand-name }
+
+## Reader View colors menu
+
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+
+## Reader View text and layout menu
+

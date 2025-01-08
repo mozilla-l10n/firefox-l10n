@@ -31,3 +31,7 @@ webext-perms-description-tabs = Cothrom fhaighinn air tabaichean a’ bhrabhsair
 webext-perms-description-tabHide = Falaich is seall tabaichean a’ bhrabhsair
 webext-perms-description-topSites = Cothrom fhaighinn air an eachdraidh bhrabhsaidh
 webext-perms-description-webNavigation = Cothrom fhaighinn air gnìomhachd a’ bhrabhsair rè seòladaireachd
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

@@ -33,3 +33,8 @@ searchbar-icon =
 removed-search-engine-message = <strong>O teu motor de busca predeterminado cambiou.</strong> { $oldEngine } xa non está dispoñíbel como motor de busca predeterminado en { -brand-short-name }. Agora { $newEngine } é o teu motor de busca predeterminado. Para cambiar a outro motor de busca predeterminado, accede á configuración. <label data-l10n-name="remove-search-engine-article">Máis información</label>
 removed-search-engine-message2 = <strong>O teu motor de busca predeterminado cambiou.</strong> { $oldEngine } xa non está dispoñíbel como motor de busca predeterminado en { -brand-short-name }. Agora { $newEngine } é o teu motor de busca predeterminado. Para cambiar a outro motor de busca predeterminado, accede á configuración.
 remove-search-engine-button = Aceptar
+
+## Infobar shown when user is prompted to install search engine.
+## Variables
+## $engineName (String) - the name of the search engine to install.
+

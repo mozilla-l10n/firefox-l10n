@@ -190,6 +190,8 @@ shortcuts-modifier-other = Ctrl અથવા Alt ને શામેલ કર�
 shortcuts-invalid = અમાન્ય સંયોજન
 shortcuts-letter = એક પત્ર લખો
 shortcuts-system = { -brand-short-name } શૉર્ટકટને ઓવરરાઇડ કરી શકતા નથી
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] { $numberToShow } વધુ બતાવો
@@ -240,7 +242,7 @@ addon-page-options-button =
 ##   $name (string) - Name of the add-on.
 
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name } એ { -brand-short-name } { $version } સાથે અસુસંગત છે.
 # Variables:
 #   $version (string) - Application version.

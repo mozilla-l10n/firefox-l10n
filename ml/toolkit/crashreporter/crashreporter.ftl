@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = തകരാര്‍ രേഖപ്പെടുത്തുന്ന പ്രയോഗം
-crashreporter-crash-message = { -brand-short-name }-നു് എന്തോ തകരാര്‍ കാരണം തടസ്സം നേരിട്ടിരിക്കുന്നു.
 crashreporter-plea = പ്രശ്നം മനസ്സിലാക്കി പരിഹാരം കണ്ടെത്തുന്നതിനായി നിങ്ങള്‍ക്കു് ക്രാഷ് റിപ്പേര്‍ട്ട് അയയ്ക്കാം.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = വിശദാംശങ്ങള്‍: { $details }

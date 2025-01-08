@@ -5,7 +5,11 @@
 url-classifier-title = Etamab'äl chi rij ri URL Cha'onel
 url-classifier-search-title = Tikanöx
 url-classifier-search-result-title = Taq q'i'oj
+# Variables:
+#   $uri (string) - URI of blocked page
 url-classifier-search-result-uri = URI: { $uri }
+# Variables:
+#   $list (string) - List of tables where the page is blocked
 url-classifier-search-result-list = Kicholajem taq kajtz'ik: { $list }
 url-classifier-search-input = JAY
 url-classifier-search-error-invalid-url = Me'okel URL
@@ -40,7 +44,6 @@ url-classifier-debug-sb-modules = Taq rujuperaj rutz'ibaxik ütz okem pa k'amaya
 url-classifier-debug-modules = Wakami taq rujuperaj tz'ib'anïk
 url-classifier-debug-sbjs-modules = Ütz okem pa k'amaya'l JS nitz'ib'äx
 url-classifier-debug-file = Ruyakb'al tz'ib'anïk k'o wakami
-
 url-classifier-trigger-update = Ruk'exïk K'aqob'äl
 url-classifier-not-available = M/O
 url-classifier-disable-sbjs-log = Tichup ütz okem pa K'amaya'l JS nitz'ib'äx

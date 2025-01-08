@@ -405,6 +405,9 @@ support-printing-modified-settings = Configuración de impresión modificada
 support-printing-prefs-name = Nome
 support-printing-prefs-value = Valor
 
+## Remote Settings sections
+
+
 ## Normandy sections
 
 support-remote-experiments-title = Experimentos remotos
@@ -421,3 +424,6 @@ pointing-device-mouse = Rato
 pointing-device-touchscreen = Pantalla táctil
 pointing-device-pen-digitizer = Bolígrafo dixitalizador
 pointing-device-none = Sen dispositivos apuntadores
+
+## Content Analysis (DLP)
+

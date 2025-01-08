@@ -29,3 +29,7 @@ webext-perms-description-tabs = Akses tab pelayar
 webext-perms-description-tabHide = Sorok dan papar tab pelayar
 webext-perms-description-topSites = Akses sejarah pelayaran
 webext-perms-description-webNavigation = Akses aktiviti pelayar semasa navigasi
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

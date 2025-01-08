@@ -225,7 +225,9 @@ mr2022-onboarding-set-default-subtitle = Bruk ein nettlesar støtta av ein ideel
 mr2022-onboarding-get-started-primary-subtitle = Den nyaste versjonen vår er laga for å møte dine behov og gjere det enklare å navigere på nettet. Han er fullpakka med funksjonar vi trur du kjem til like.
 mr2022-onboarding-get-started-primary-button-label = Snøgg konfigurering
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Lynrask konfigurering
 mr2022-onboarding-import-subtitle = Konfiguer { -brand-short-name } slik du likar han. Legg til bokmerke, passord, og meir, frå den gamle nettlesaren din.
@@ -410,3 +412,9 @@ onboarding-checklist-pin = Fest { -brand-short-name } til oppgåvelinja
 onboarding-checklist-import = Importer frå tidlegare nettlesar
 onboarding-checklist-extension = Legg til ei utviding
 onboarding-checklist-sign-up = Registrer deg eller logg inn på kontoen din
+
+## Tab Groups feature onboarding strings
+
+
+## Multi Profiles feature onboarding messages
+

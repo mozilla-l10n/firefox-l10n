@@ -72,6 +72,9 @@ protections-panel-blocking-label = بلاک تھی ڳیا
 protections-panel-not-blocking-label = اجازت ݙتے ہوئے
 protections-panel-not-found-label = کجھ نئیں لبھیا
 
+## Smartblock strings
+
+
 ##
 
 protections-panel-settings-label = تحفظات دیاں ترتیباں

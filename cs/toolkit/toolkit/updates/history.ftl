@@ -4,26 +4,24 @@
 
 history-title = Historie aktualizací
 history-intro = Byly nainstalovány následující aktualizace
-
 close-button-label =
     .buttonlabelcancel = Zavřít
     .title = Historie aktualizací
-
 no-updates-label = Doposud nebyly nainstalovány žádné aktualizace.
 name-header = Název aktualizace
 date-header = Datum instalace
 type-header = Typ
 state-header = Stav
-
 # Used to display update history
 #
 # Variables:
-#   $name (String): name of the update
-#   $buildID (String): build identifier from the local updates.xml
+#   $name (string) - Name of the update
+#   $buildID (string) - Build identifier from the local updates.xml
 update-full-build-name = { $name } ({ $buildID })
-
 update-details = Podrobnosti
-
+# Variables:
+#   $date (string) - Date the last update was installed
 update-installed-on = Nainstalováno dne: { $date }
-
+# Variables:
+#   $status (string) - Status of the last update
 update-status = Stav: { $status }

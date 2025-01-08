@@ -39,7 +39,7 @@ about-reader-estimated-read-time =
        *[other] { $range } munud
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = Lleihau Maint Testun
@@ -90,7 +90,7 @@ about-reader-custom-colors-selection-highlight = Amlygwr ar gyfer darllen yn uch
     .title = Golygu'r lliw
 about-reader-reset-button = Ailosod rhagosodiadau
 
-## Reader View improved text and layout menu
+## Reader View text and layout menu
 
 about-reader-text-header = Testun
 about-reader-text-size-label = Maint testun

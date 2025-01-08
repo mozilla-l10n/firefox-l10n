@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Gata Tag
-
 pocket-panel-saved-error-generic = Wabaddewo obuzibu nga tuteleka ku { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Bu tag bukoma ku buwandiko 25
 pocket-panel-saved-error-only-links = Teleka linki zoka
@@ -40,7 +39,9 @@ pocket-panel-signup-tagline-story-two = Labira mu pocket ku nkola yona, esawa yo
 
 ## about:pocket-home panel
 
+
 ## Pocket panel header component
+
 
 ## Pocket panel buttons
 

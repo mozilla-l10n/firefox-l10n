@@ -15,6 +15,9 @@
 ## "Default Color Unit" options for the Inspector
 
 
+## Web Console section
+
+
 ## Style Editor section
 
 # The heading
@@ -27,7 +30,4 @@ options-styleeditor-label = Kihariri Mtindo
 
 
 ## Advanced section
-
-
-##
 

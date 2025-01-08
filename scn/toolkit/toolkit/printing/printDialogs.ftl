@@ -82,7 +82,6 @@ print-progress =
     .value = Prugressu:
 print-window =
     .title = Staju stampannu
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

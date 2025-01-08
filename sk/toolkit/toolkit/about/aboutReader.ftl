@@ -12,20 +12,6 @@ about-reader-color-scheme-sepia = Sépia
     .title = Farebná schéma sépia
 about-reader-color-scheme-auto = Automatická
     .title = Automatická farebná schéma
-about-reader-color-theme-light = Svetlá
-    .title = Svetlá téma vzhľadu
-about-reader-color-theme-dark = Tmavá
-    .title = Tmavá téma vzhľadu
-about-reader-color-theme-sepia = Sépia
-    .title = Téma vzhľadu Sépia
-about-reader-color-theme-auto = Automatická
-    .title = Automatická téma vzhľadu
-about-reader-color-theme-gray = Sivá
-    .title = Sivá téma vzhľadu
-about-reader-color-theme-contrast = Kontrastná
-    .title = Kontrastná téma vzhľadu
-about-reader-color-theme-custom = Vlastné farby
-    .title = Vlastná téma vzhľadu
 about-reader-color-light-theme = Svetlá
     .title = Svetlá téma
 about-reader-color-dark-theme = Tmavá
@@ -50,7 +36,7 @@ about-reader-estimated-read-time =
        *[other] { $range } minút
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = Zmenšiť písmo
@@ -75,7 +61,6 @@ about-reader-font-type-monospace = Neproporcionálne
 
 about-reader-toolbar-close = Zavrieť zobrazenie Čítačka
 about-reader-toolbar-type-controls = Nastavenie vzhľadu
-about-reader-toolbar-color-controls = Farby
 about-reader-toolbar-text-layout-controls = Text a rozloženie
 about-reader-toolbar-theme-controls = Téma vzhľadu
 about-reader-toolbar-savetopocket = Uložiť do služby { -pocket-brand-name }
@@ -100,10 +85,9 @@ about-reader-custom-colors-visited-links = Navštívené odkazy
     .title = Úprava farby
 about-reader-custom-colors-selection-highlight = Zvýrazňovač na čítanie nahlas
     .title = Úprava farby
-about-reader-custom-colors-reset-button = Použiť predvolené
 about-reader-reset-button = Použiť predvolené
 
-## Reader View improved text and layout menu
+## Reader View text and layout menu
 
 about-reader-text-header = Text
 about-reader-text-size-label = Veľkosť textu
@@ -120,9 +104,6 @@ about-reader-content-width-label =
 about-reader-line-spacing-label =
     .label = Riadkovanie
 about-reader-advanced-layout-header = Rozšírené
-about-reader-slider-label-width-narrow = Úzke
-about-reader-slider-label-width-wide = Široké
-about-reader-slider-label-spacing-narrow = Úzke
 about-reader-character-spacing-label =
     .label = Rozostup znakov
 about-reader-word-spacing-label =

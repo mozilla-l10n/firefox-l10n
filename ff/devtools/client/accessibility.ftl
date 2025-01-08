@@ -6,21 +6,17 @@
 ### These strings are used inside the Accessibility panel.
 
 accessibility-learn-more = Ɓeydu humpito
-
 accessibility-keyboard-header = Tappirde
 
-## Text entries that are used as text alternative for icons that depict accessibility isses.
-
 ## These strings are used in the overlay displayed when running an audit in the accessibility panel
+
 
 ## Text entries that are used as text alternative for icons that depict accessibility issues.
 
 accessibility-warning =
     .alt = Deentingol
-
 accessibility-fail =
     .alt = Juumre
-
 accessibility-best-practices =
     .alt = Golle Ɓurɗe
 

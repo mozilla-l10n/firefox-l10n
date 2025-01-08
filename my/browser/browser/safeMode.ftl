@@ -4,5 +4,5 @@
 
 refresh-profile =
     .label = { -brand-short-name } ကို ပြန်စပါ
-# Shown on the safe mode dialog after multiple startup crashes. 
+# Shown on the safe mode dialog after multiple startup crashes.
 auto-safe-mode-description = { -brand-short-name } သည် စတင်နေစဉ်အတွင်း မမျှော်လင့်ပဲ ပိတ်သွားခဲ့သည်။ ဒီကိစ္စသည် အက်အွန် (သို့) အခြားပြဿနာများကြောင့် ဖြစ်နိုင်ပါသည်။ Safe Mode ထဲတွင် ပြဿနာကို ရှာဖွေကြည့်ရှုခြင်းဖြင့် ဖြေရှင်းကြည့်နိုင်ပါသည်။

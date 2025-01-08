@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Engadir etiquetas
-
 pocket-panel-saved-error-generic = Produciuse un erro ao tentar gardar en { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = As etiquetas está limitadas a 25 caracteres
 pocket-panel-saved-error-only-links = Só se poden gardar ligazóns
@@ -29,7 +28,6 @@ pocket-panel-saved-save-tags = Gardar
 pocket-panel-saved-saving-tags = Gardando…
 pocket-panel-saved-suggested-tags = Etiquetas suxeridas
 pocket-panel-saved-tags-saved = Engadíronse as etiquetas
-
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Engadir etiquetas:
 
@@ -44,7 +42,6 @@ pocket-panel-signup-signup-firefox = Rexístrese con { -brand-product-name }
 pocket-panel-signup-tagline = Garde artigos e vídeos dende { -brand-product-name } para velos en { -pocket-brand-name } en calquera dispositivo, en calquera momento.
 pocket-panel-signup-tagline-story-one = Prema no botón { -pocket-brand-name } para gardar calquera artigo, vídeo ou páxina dende { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Véxao en { -pocket-brand-name } en calquera dispositivo, en calquera momento.
-
 pocket-panel-signup-cta-a-fix = O seu botón de gardar para internet.
 pocket-panel-signup-cta-b-updated = Prema o botón de { -pocket-brand-name } para gardar artigos, vídeos, e ligazóns. Consulte o que gardou en calquera dispositivo, cando queira.
 pocket-panel-signup-cta-b-short = Prema o botón de { -pocket-brand-name } para gardar artigos, vídeos, e ligazóns.
@@ -57,7 +54,6 @@ pocket-panel-home-paragraph = Pode empregar { -pocket-brand-name } para explorar
 pocket-panel-home-explore-popular-topics = Explorar temas populares
 pocket-panel-home-discover-more = Descubrir máis
 pocket-panel-home-explore-more = Explorar
-
 pocket-panel-home-most-recent-saves = Velaquí o último que gardou:
 pocket-panel-home-most-recent-saves-loading = Cargando o gardado recentemente…
 pocket-panel-home-new-user-cta = Prema o botón de { -pocket-brand-name } para gardar artigos, vídeos, e ligazóns.

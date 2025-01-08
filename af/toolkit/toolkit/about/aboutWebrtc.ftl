@@ -9,6 +9,7 @@
 
 ## These labels are for a disclosure which contains the information for closed PeerConnection sections
 
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 
@@ -26,16 +27,12 @@
 ## is an IETF protocol, and should not normally be translated.
 
 
-## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
 ## connection.
 
 
 ##
-
 
 about-webrtc-save-page-label = Stoor bladsy
 
@@ -53,6 +50,7 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (gesluit
 ## Variables:
 ##  $codecs - a list of media codecs
 
+
 ##
 
 
@@ -62,12 +60,15 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (gesluit
 ## These are displayed on the button that shows or hides the
 ## PeerConnection configuration disclosure
 
+
 ##
 
-## These are paths used for saving the about:webrtc page or log files so
-## they can be attached to bug reports.
-## Variables:
-##  $path (String) - The path to which the file is saved.
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+
+##
 
 
 ##
@@ -79,15 +80,11 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (gesluit
 
 ## These are displayed on the button that shows or hides the SDP information disclosure
 
+
 ## These are displayed on the button that shows or hides the Media Context information disclosure.
 ## The Media Context is the set of preferences and detected capabilities that informs
 ## the negotiated CODEC settings.
 
-##
 
 ##
-
-
-##
-
 

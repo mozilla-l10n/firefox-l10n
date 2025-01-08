@@ -8,7 +8,6 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC ខាង​ក្នុង
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = រក្សា​ទុក about:webrtc ជា
@@ -22,14 +21,12 @@ about-webrtc-aec-logging-msg-label = ការ​ចុះ​កំណត់ហ�
 about-webrtc-aec-logging-off-state-label = ចាប់ផ្ដើម​ចុះ​កំណត់​ហេតុ AEC
 about-webrtc-aec-logging-on-state-label = ឈប់​ចុះ​កំណត់​ហេតុ AEC
 about-webrtc-aec-logging-on-state-msg = សកម្មភាព​ចុះ​កំណត់ហេតុ AEC (និយាយ​ជាមួយ​អ្នក​ហៅ​​ប៉ុន្មាន​នាទី និង​បន្ទាប់​មក​ឈប់​ថត)
-
 about-webrtc-aec-logging-toggled-on-state-msg = សកម្មភាព​ចុះ​កំណត់ហេតុ AEC (និយាយ​ជាមួយ​អ្នក​ហៅ​​ប៉ុន្មាន​នាទី និង​បន្ទាប់​មក​ឈប់​ថត)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = ឯកសារ​កំណត់​ហេតុ​ដែល​បាន​ថត​ អាច​រក​បាន​នៅ​ក្នុង៖ { $path }
 
 ##
-
 
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
@@ -67,12 +64,10 @@ about-webrtc-ice-stats-heading = សភាព ICE
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = បាន​ជ្រើស​តាំង
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = បាន​ជ្រើស
-
 about-webrtc-save-page-label = រក្សាទុក​ទំព័រ
 about-webrtc-debug-mode-msg-label = របៀប​កែ​កំហុស
 about-webrtc-debug-mode-off-state-label = ចាប់ផ្ដើម​របៀប​កែ​កំហុស
@@ -83,7 +78,6 @@ about-webrtc-log-show-msg = បង្ហាញ​កំណត់​ហេតុ�
     .title = ចុច​ដើម្បី​ពង្រីក​ផ្នែក​នេះ
 about-webrtc-log-hide-msg = លាក់​កំណត់​ហេតុ​
     .title = ចុច​ដើម្បី​បង្រួម​ផ្នែក​នេះ
-
 about-webrtc-log-section-show-msg = បង្ហាញ​កំណត់​ហេតុ​
     .title = ចុច​ដើម្បី​ពង្រីក​ផ្នែក​នេះ
 about-webrtc-log-section-hide-msg = លាក់​កំណត់​ហេតុ​
@@ -130,22 +124,24 @@ about-webrtc-encoder-label = កម្ម​វិធី​អុីន​កូ
 ##
 
 
-## These are paths used for saving the about:webrtc page or log files so
-## they can be attached to bug reports.
-## Variables:
-##  $path (String) - The path to which the file is saved.
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+
+##
+
+
+##
 
 about-webrtc-save-page-msg = បាន​រក្សា​​ទុក​ទំព័រ​ទៅ៖ { $path }
 about-webrtc-debug-mode-off-state-msg = កំណត់​ហេតុ​នៃ​ការ​តាម​ដាន​អាច​រក​បាន​នៅ៖ { $path }
 about-webrtc-debug-mode-on-state-msg = របៀប​កែ​កំហុស​សកម្ម កត់​ត្រា​កំណត់​ហេតុ​នៅ៖ { $path }
 about-webrtc-aec-logging-off-state-msg = ឯកសារ​កំណត់​ហេតុ​ដែល​បាន​ថត​ អាច​រក​បាន​នៅ​ក្នុង៖ { $path }
-
+# This path is used for saving the about:webrtc page so it can be attached to
+# bug reports.
+# Variables:
+#  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = បាន​រក្សា​​ទុក​ទំព័រ​ទៅ៖ { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = កំណត់​ហេតុ​នៃ​ការ​តាម​ដាន​អាច​រក​បាន​នៅ៖ { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = របៀប​កែ​កំហុស​សកម្ម កត់​ត្រា​កំណត់​ហេតុ​នៅ៖ { $path }
-
-##
-
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:

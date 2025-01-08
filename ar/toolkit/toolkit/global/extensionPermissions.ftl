@@ -29,3 +29,7 @@ webext-perms-description-tabs = الوصول إلى ألسنة المتصفح
 webext-perms-description-tabHide = إخفاء و إظهار ألسنة المتصفح
 webext-perms-description-topSites = الوصول إلى تأريخ التصفح
 webext-perms-description-webNavigation = الوصول إلى نشاط المتصفح أثناء التنقل
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Ga gudadû gan'anjt ne' ñaan
@@ -9,19 +10,14 @@ about-config-intro-warning-text = Sisi nadunat sa anïn ruhuât nan ni ga'ue ga'
 about-config-intro-warning-checkbox = Gunumà 'ngo nuguan'an gini'ia ngà gatu ñú riña nej sa hua dànanj
 about-config-intro-warning-button = Garayinaj sa gahuin ni yakà gan'àn ne'ñaa
 
-
-
 ##
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Sisi nadunat sa hua riña nan ni ga'ue ga'uì' yi'ìj dàj 'iaj sun asi sa huì hua { -brand-short-name }.
-
 about-config-page-title = Sa tàj ñaan doj sa garan' ruhuât
-
 about-config-search-input1 =
     .placeholder = Si yugui sa nana'ui' yitïnjt
 about-config-show-all = Nadigân Daran'anj
-
 about-config-pref-add-button =
     .title = Nutà'
 about-config-pref-toggle-button =

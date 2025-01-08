@@ -5,6 +5,8 @@
 label-disable = ปิดใช้งาน
 label-enable = เปิดใช้งาน
 label-interventions = การแทรกแซง
+# Variables:
+#   $bug (string) - Bug number
 label-more-information = ข้อมูลเพิ่มเติม: ข้อบกพร่อง { $bug }
 label-overrides = การแทนที่ตัวแทนผู้ใช้
 text-disabled-in-about-config = คุณลักษณะนี้ได้ถูกปิดใช้งานใน about:config

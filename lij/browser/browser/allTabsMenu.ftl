@@ -5,13 +5,10 @@
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Çerca inte schede
-
 all-tabs-menu-new-user-context =
     .label = Neuvo feuggio contenitô
-
 all-tabs-menu-hidden-tabs =
     .label = Feuggi ascozi
-
 all-tabs-menu-manage-user-context =
     .label = Gestisci contegnitoî
     .accesskey = O

@@ -26,7 +26,7 @@ about-reader-estimated-read-time =
        *[other] { $range } munutenn
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = Bihanaat ment an nodrezh
@@ -60,7 +60,7 @@ about-reader-toolbar-savetopocket = Enrollañ e { -pocket-brand-name }
 ## clear and give context for screen reader users.
 
 
-## Reader View improved text and layout menu
+## Reader View text and layout menu
 
 about-reader-text-header = Testenn
 about-reader-text-size-label = Ment an testennoù

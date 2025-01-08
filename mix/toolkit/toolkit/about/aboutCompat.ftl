@@ -5,6 +5,8 @@
 label-disable = Xitaá
 label-enable = Ndatuun
 label-interventions = Intervenciones
+# Variables:
+#   $bug (string) - Bug number
 label-more-information = Más información: error { $bug }
 label-overrides = Sama usuario
 text-disabled-in-about-config = Esta funcionalidad ha sido desactivada en about:config

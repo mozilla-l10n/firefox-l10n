@@ -22,7 +22,6 @@ about-private-browsing-not-private = Siz hozirda maxfiy oynada emassiz.
 about-private-browsing-info-description-private-window = Barcha maxfiy oynalarni yopsangiz, maxfiy oyna { -brand-short-name } qidiruv va tarixini tozalab tashlaydi. Bu sizni anonim qila olmaydi.
 about-private-browsing-info-description-simplified = Barcha maxfiy oynalarni yopsangiz, { -brand-short-name } qidiruv va brauzer tarixini tozalaydi, lekin bu bilan siz anonim boʻla olmaysiz.
 about-private-browsing-learn-more-link = Batafsil
-
 about-private-browsing-hide-activity = Qayerdan internetga kirsangiz ham bajargan amallaringiz va joylashuvingizni yashirishingiz mumkin
 about-private-browsing-get-privacy = Istalgan joyda internetda maxfiy qoling
 about-private-browsing-hide-activity-1 = Brauzerdagi faoliyatingiz va joylashuvingizni { -mozilla-vpn-brand-name } yordamida yashiring. Bir marta bosish yetarli. Hatto ochiq Wi-Fi boʻlsa ham, xavfsiz ulanish yaratiladi.
@@ -45,5 +44,9 @@ about-private-browsing-search-banner-close-button =
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
+
 ## Strings used in a promotion message for cookie banner reduction
+
+
+## Strings for Felt Privacy v1 experiments in 119
 

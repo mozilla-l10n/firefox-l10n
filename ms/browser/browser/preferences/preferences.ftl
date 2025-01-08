@@ -105,7 +105,7 @@ containers-disable-alert-ok-button = Tutup { $tabCount } Tab Penyimpan
 containers-disable-alert-cancel-button = Sentiasa didayakan
 containers-remove-alert-title = Buang Penyimpan Ini?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg = Jika anda mengalih keluar Penyimpan ini sekarang, { $count } tab penyimpan akan ditutup. Adakah anda pasti mahu mengalih keluar Penyimpan ini?
 containers-remove-ok-button = Buang Penyimpan Ini
 containers-remove-cancel-button = Jangan buang Penyimpan Ini
@@ -195,11 +195,11 @@ applications-manage-app =
 applications-always-ask =
     .label = Sentiasa tanya
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Guna { $plugin-name } (dalam { -brand-short-name })
 
@@ -229,6 +229,8 @@ play-drm-content =
 play-drm-content-learn-more = Ketahui selanjutnya
 update-application-title = Kemaskini { -brand-short-name }
 update-application-description = Pastikan { -brand-short-name } sentiasa dikemaskini untuk mendapatkan prestasi, kestabilan dan keselamatan yang terbaik.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Versi { $version } <a data-l10n-name="learn-more">Perkembangan terbaru</a>
 update-history =
     .label = Papar Sejarah Kemaskini…
@@ -263,7 +265,7 @@ performance-limit-content-process-option = Had proses kandungan
 performance-limit-content-process-enabled-desc = Proses kandungan tambahan boleh memperbaiki prestasi apabila menggunakan berbilang tab, tetapi juga akan menggunakan lebih banyak memori.
 performance-limit-content-process-blocked-desc = Mengubah bilangan proses kandungan hanya boleh dilakukan dengan multi proses { -brand-short-name }. <a data-l10n-name="learn-more">Ketahui cara untuk menyemak samada multi proses didayakan</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (piawai)
 
@@ -337,11 +339,8 @@ choose-bookmark =
 home-prefs-search-header =
     .label = Carian Web
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
-# Variables:
-#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Disyorkan oleh { $provider }
 
@@ -364,6 +363,8 @@ home-prefs-highlights-option-saved-to-pocket =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Cebisan
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label = { $num } baris
 
@@ -405,7 +406,7 @@ search-find-more-link = Cari lebih banyak enjin carian
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Kata kunci Duplikasi
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Anda telah memilih kata kunci yang sedang digunakan oleh "{ $name }". Sila pilih yang lain.
 search-keyword-warning-bookmark = Anda telah memilih kata kunci yang sedang digunakan oleh tandabuku. Sila pilih yang lain.
 
@@ -523,6 +524,7 @@ privacy-header = Privasi Pelayar
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = Log masuk & Kata laluan
     .searchkeywords = { -lockwise-brand-short-name }
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Tanya untuk simpan log masuk dan kata laluan laman web
     .accesskey = l
@@ -535,6 +537,9 @@ forms-exceptions =
 forms-saved-logins =
     .label = Log masuk Tersimpan…
     .accesskey = L
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Tukar Kata laluan Induk…
     .accesskey = T
@@ -592,8 +597,8 @@ history-clear-button =
 sitedata-header = Kuki dan Data Laman
 sitedata-total-size-calculating = Mengira saiz data dan cache laman…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Kuki, data laman dan cache yang disimpan kini menggunakan { $value } { $unit } daripada ruang cakera.
 sitedata-learn-more = Ketahui selanjutnya
 sitedata-delete-on-close =

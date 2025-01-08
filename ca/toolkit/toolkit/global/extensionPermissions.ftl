@@ -31,3 +31,7 @@ webext-perms-description-tabs = Accedir a les pestanyes del navegador
 webext-perms-description-tabHide = Amagar i mostrar pestanyes del navegador
 webext-perms-description-topSites = Accedir a l'historial de navegació
 webext-perms-description-webNavigation = Accedir a l'activitat durant la navegació
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

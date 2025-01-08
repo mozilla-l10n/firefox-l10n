@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Añadir etiquetas
-
 pocket-panel-saved-error-generic = Hubo un error al intentar guardarla en { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Las etiquetas están limitadas a 25 caracteres
 pocket-panel-saved-error-only-links = Solo se pueden guardar enlaces
@@ -29,7 +28,6 @@ pocket-panel-saved-save-tags = Guardar
 pocket-panel-saved-saving-tags = Guardando…
 pocket-panel-saved-suggested-tags = Etiquetas sugeridas
 pocket-panel-saved-tags-saved = Etiquetas añadidas
-
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Añadir etiquetas:
 
@@ -44,7 +42,6 @@ pocket-panel-signup-signup-firefox = Registrarse con { -brand-product-name }
 pocket-panel-signup-tagline = Guarda artículos y videos desde { -brand-product-name } para verlos en { -pocket-brand-name } en cualquier dispositivo y momento.
 pocket-panel-signup-tagline-story-one = Aprieta el botón { -pocket-brand-name } para guardar cualquier artículo, video o página de { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Mírala en { -pocket-brand-name } en cualquier dispositivo y momento.
-
 pocket-panel-signup-cta-a-fix = Tu botón de guardado para internet
 pocket-panel-signup-cta-b-updated = Haz clic en el botón de { -pocket-brand-name } para guardar artículos, videos y enlaces. Mira tus elementos guardados en cualquier dispositivo, en cualquier momento.
 pocket-panel-signup-cta-b-short = Haz clic en el botón { -pocket-brand-name } para guardar artículos, videos y enlaces.
@@ -57,7 +54,6 @@ pocket-panel-home-paragraph = Puedes usar { -pocket-brand-name } para explorar y
 pocket-panel-home-explore-popular-topics = Explorar temas populares
 pocket-panel-home-discover-more = Descubrir más
 pocket-panel-home-explore-more = Explorar
-
 pocket-panel-home-most-recent-saves = Aquí están tus guardados más recientes:
 pocket-panel-home-most-recent-saves-loading = Cargando lo guardado recientemente…
 pocket-panel-home-new-user-cta = Haz clic en el botón { -pocket-brand-name } para guardar artículos, videos y enlaces.

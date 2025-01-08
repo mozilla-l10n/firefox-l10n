@@ -33,3 +33,7 @@ webext-perms-description-topSites = Access browsing history
 webext-perms-description-trialML = Download and run AI models on your device
 webext-perms-description-userScripts = Allow unverified third-party scripts to access your data
 webext-perms-description-webNavigation = Access browser activity during navigation
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

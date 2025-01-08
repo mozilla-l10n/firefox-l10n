@@ -59,8 +59,6 @@ sidebar-description = Få enkel tilgang til historikken din, faner fra andre enh
 vertical-tabs-title =
     .label = Vertikale faner
 vertical-tabs-description = Flytt fanene fra toppen av nettleseren til siden. Dette krever at du aktiverer sidestolpen. <a data-l10n-name="connect">Del tilbakemelding</a>
-experimental-features-group-browsing =
-    .label = Nettlesing
 experimental-features-group-developer-tools =
     .label = Utviklerverktøy
 experimental-features-group-webpage-display =

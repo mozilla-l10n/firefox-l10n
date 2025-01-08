@@ -8,13 +8,10 @@
 # "Auto" is short for automatic. It can be localized without limitations.
 extension-default-theme-name-auto = Systemowa drasta – awtomatiska
 extension-default-theme-description = Nastajenje dźěłoweho systema za tłóčatka, menije a wokna wužiwać.
-
 extension-firefox-compact-light-name = Swětły
 extension-firefox-compact-light-description = Drasta ze swětłej barbowej šemu.
-
 extension-firefox-compact-dark-name = Ćmowy
 extension-firefox-compact-dark-description = Drasta z ćmowej barbowej šemu.
-
 extension-firefox-alpenglow-name = Firefox Alpenglow
 extension-firefox-alpenglow-description = Wužiwajće barbny napohlad za tłóčatka, menije a wokna.
 

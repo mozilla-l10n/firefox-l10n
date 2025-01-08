@@ -22,13 +22,3 @@ webconsole-commands-usage-unblock =
     Blokěrowanje seśowych napšašowanjow skóńcyś
     
       Akceptěrujo jano jaden argument, eksaktnje samski znamjenjowy rjeśazk jo se do togo pśepódał do :block.
-# Usage string for :trace command
-webconsole-commands-usage-trace =
-    :trace
-    
-    Pśešaltujo slědowak JavaScript
-    
-      Pódpěra slědujuce argumenty:
-        --logMethod, kótaryž musy se na ‘console’ nastajiś, aby se do webkonsole protokolěrował (standard), abo ‘stdout’, aby do standardnego wudaśa protokolěrował,
-        --prefix Znamjenjowy rjeśazk na žycenje, kótaryž se pśed wšymi protokolami slědowanja protokolěrujo,
-        --help abo --usage, aby se powěźeńka pokazała.

@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = Çökmə Məlumatçısı
-crashreporter-crash-message = { -brand-short-name } problemlə üzləşdi və çökdü.
 crashreporter-plea = Problemi təyin etməyimiz və həll etməyimizə kömək etmək üçün hesabat göndərə bilərsiniz.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Detallar: { $details }

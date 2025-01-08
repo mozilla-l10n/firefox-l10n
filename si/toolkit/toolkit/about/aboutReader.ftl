@@ -23,7 +23,7 @@ about-reader-estimated-read-time =
        *[other] විනාඩි { $range }
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = රුවකුර කුඩා කරන්න
@@ -48,3 +48,14 @@ about-reader-font-type-sans-serif = Sans-serif
 about-reader-toolbar-close = කියවීමේ දැක්ම වසන්න
 about-reader-toolbar-type-controls = පාලන වර්ග
 about-reader-toolbar-savetopocket = { -pocket-brand-name } වෙත සුරකින්න
+
+## Reader View colors menu
+
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+
+## Reader View text and layout menu
+

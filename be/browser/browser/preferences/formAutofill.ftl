@@ -39,8 +39,6 @@ address-capture-manage-address-button =
     .label = Налады адраса
 address-capture-learn-more-button =
     .label = Падрабязней
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Дадаць новы адрас
 address-capture-open-menu-button =
     .aria-label = Адкрыць меню
 address-capture-edit-address-button =
@@ -49,10 +47,10 @@ address-capture-edit-address-button =
 autofill-add-address-title = Дадаць адрас
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Змяніць адрас
-autofill-address-name = Імя
 autofill-address-given-name = Імя
 autofill-address-additional-name = Імя па бацьку
 autofill-address-family-name = Прозвішча
+autofill-address-name = Імя
 autofill-address-organization = Арганізацыя
 autofill-address-street-address = Вуліца
 autofill-address-street = Вуліца
@@ -108,9 +106,8 @@ autofill-address-eircode = Eircode
 
 ##
 
-
-##
-
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Дадаць новы адрас
 autofill-address-country = Краіна ці рэгіён
 autofill-address-country-only = Краіна
 autofill-address-tel = Тэлефон

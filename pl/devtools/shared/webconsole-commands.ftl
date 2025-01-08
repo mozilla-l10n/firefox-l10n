@@ -22,13 +22,3 @@ webconsole-commands-usage-unblock =
     Zatrzymuje blokowanie żądań sieciowych
     
       Przyjmuje tylko jeden parametr, dokładnie ten sam ciąg, co uprzednio przekazany do :block.
-# Usage string for :trace command
-webconsole-commands-usage-trace =
-    :trace
-    
-    Przełącza śledzenie JavaScript
-    
-      Obsługuje te parametry:
-        --logMethod ustawione na „console” będzie zapisywać do konsoli WWW (domyślnie), a ustawione na „stdout” będzie zapisywać do standardowego wyjścia,
-        --prefix Opcjonalny ciąg, który będzie zapisywany przed wszystkimi dziennikami śledzenia,
-        --help lub --usage wyświetla ten komunikat.

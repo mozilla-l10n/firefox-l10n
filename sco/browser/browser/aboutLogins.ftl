@@ -4,9 +4,6 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Logins & Passwirds
-
-# "Google Play" and "App Store" are both branding and should not be translated
-
 fxaccounts-sign-in-text = Get yer passwirds on yer ither devices
 fxaccounts-sign-in-sync-button = Sign in tae sync
 fxaccounts-avatar-button =
@@ -32,6 +29,8 @@ about-logins-menu-menuitem-help = Hauners
 
 login-list =
     .aria-label = Logins matchin sairch speirin
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count } login
@@ -56,7 +55,6 @@ about-logins-list-item-breach-icon =
     .title = Breached wabsite
 about-logins-list-item-vulnerable-password-icon =
     .title = Unsiccar passwird
-
 about-logins-list-section-breach = Breached wabsites
 about-logins-list-section-vulnerable = Unsiccar passwirds
 about-logins-list-section-nothing = Nae alert
@@ -100,6 +98,7 @@ login-item-cancel-button = Stap
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+
 ## OS Authentication dialog
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }
@@ -113,21 +112,16 @@ about-logins-edit-login-os-auth-dialog-message-win = Fur tae edit yer login, inp
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = edit the saved login
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Fur tae get a deek at yer passwird, inpit yer Windows login parteeculars. This helps bield the siccarness o yer accoonts.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = kythe the saved passwird
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Fur tae copy yer passwird, inpit yer Windows login parteeculars. This helps bield the siccarness o yer accoonts.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = copy the saved passwird
-
-## Master Password notification
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Fur tae ootgie yer logins, inpit yer Windows login parteeculars. This helps bield the siccarness o yer accoonts.
 # This message can be seen when attempting to export a password in about:logins
@@ -141,14 +135,11 @@ master-password-reload-button =
     .label = Log in
     .accesskey = L
 
-## Password Sync notification
-
 ## Dialogs
 
 confirmation-dialog-cancel-button = Stap
 confirmation-dialog-dismiss-button =
     .title = Stap
-
 about-logins-confirm-remove-dialog-title = Remuive this login?
 confirm-delete-dialog-message = This action cannae be unduin.
 about-logins-confirm-remove-dialog-confirm-button = Remuive
@@ -162,14 +153,12 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] Remuive
        *[other] Remuive Aw
     }
-
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Aye, remuive this login
         [one] Aye, remuive this login
        *[other] Aye, remuive these logins
     }
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Remuive { $count } login?
@@ -181,7 +170,6 @@ about-logins-confirm-remove-all-dialog-message =
         [one] This will remuive the login ye've saved tae { -brand-short-name } and onie breach alerts that kythe here. Ye'll no be able tae undae this action.
        *[other] This will remuive the logins ye've saved tae { -brand-short-name } and onie breach alerts that kythe here. Ye'll no be able tae undae this action.
     }
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Remuive { $count } login fae aw devices?
@@ -199,10 +187,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Ootgie logins and passwirds
 about-logins-confirm-export-dialog-message = Yer passwirds will be saved as readable text (e.g., BadP@ssw1rd) sae that oniebodie whae can open the exportit file can see them.
 about-logins-confirm-export-dialog-confirm-button = Ootgie…
-
 about-logins-alert-import-title = Inbringin Feenisht
 about-logins-alert-import-message = Luik at detailed Inbringin Summary
-
 confirm-discard-changes-dialog-title = Discaird unsaved chynges?
 confirm-discard-changes-dialog-message = Aw unsaved chynges will be tint.
 confirm-discard-changes-dialog-confirm-button = Discaird
@@ -232,7 +218,6 @@ about-logins-vulnerable-alert-learn-more-link = Lairn mair
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = An entry fur { $loginTitle } wi thon yaiser nemme awready exists. <a data-l10n-name="duplicate-link">Gang tae existin entry?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = A mishanter tuik place while ettlin fur tae save this passwird.
 
@@ -281,12 +266,10 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>New logins eikit:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-modified =
     { $count ->
        *[other] <span>Existin logins updatit:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Duplicate logins fund:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no inbrocht)</span>
@@ -296,7 +279,6 @@ about-logins-import-dialog-items-error =
        *[other] <span>Mishanters:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no inbrocht)</span>
     }
 about-logins-import-dialog-done = Duin
-
 about-logins-import-dialog-error-title = Inbringin Mishanter
 about-logins-import-dialog-error-conflicting-values-title = Multiple Conflictin Vailues fur Ane Login
 about-logins-import-dialog-error-conflicting-values-description = Fur exemple: multiple yaiser nemmes, passwirds, URLs, etc. fur ane login
@@ -310,10 +292,8 @@ about-logins-import-dialog-error-no-logins-imported = Nae logins hae been inbroc
 about-logins-import-dialog-error-learn-more = Lairn mair
 about-logins-import-dialog-error-try-import-again = Try Inbringin Aince Mair…
 about-logins-import-dialog-error-cancel = Stap
-
 about-logins-import-report-title = Inbringin Summary
 about-logins-import-report-description = Logins and passwirds inbrocht tae { -brand-short-name }.
-
 #
 # Variables:
 #  $number (number) - The number of the row

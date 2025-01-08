@@ -10,7 +10,7 @@
 
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name }-ը չկարողացավ գտնել բազմակի օգտագործման դիմակներ: HTTP սխալի կոդ՝ { $status }:
 
-##
+## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = Դուք պետք է մուտք գործեք { -fxaccount-brand-name }, որպեսզի օգտագործեք { -relay-brand-name }-ը:
 firefox-relay-must-login-to-account = Մուտք գործեք Ձեր հաշիվ՝ { -relay-brand-name } էլ. փոստի Ձեր դիմակներից օգտվելու համար:
@@ -32,3 +32,15 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Ոչ հիմա
     .accesskey = N
+
+## The "control" variation of the Relay offer popup
+
+
+## The "basic-info" variation of the Relay offer popup
+
+
+## The "with-domain" variation of the Relay offer popup
+
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+

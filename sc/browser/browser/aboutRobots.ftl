@@ -25,5 +25,6 @@ error-long-desc4 = Is robot tenent traseris de metallu lughente chi no si diant 
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = E tenent unu pranu.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = Torra a nche proare
     .label2 = No incarches prus custu butone.

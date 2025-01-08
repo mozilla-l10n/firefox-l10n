@@ -5,5 +5,4 @@
 select-bookmark-window2 =
     .title = Teereza Omuko Ogusoka
     .style = min-width: 32em;
-
 select-bookmark-desc = Londako Akalambe kulwo Muko Ogusoka. Bwolondako ebasa, Obulambe mu bbasa eyo bujjakugwawo mu Wandirira.

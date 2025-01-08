@@ -18,8 +18,6 @@ abuse-report-addon-authored-by = por <a data-l10n-name="author-name">{ $author-n
 abuse-report-learnmore =
     Não sabe qual problema selecionar?
     <a data-l10n-name="learnmore-link">Saber mais acerca de reportar extensões e temas</a>
-abuse-report-learnmore-intro = Não sabe qual problema selecionar?
-abuse-report-learnmore-link = Saber mais acerca de reportar extensões e temas
 abuse-report-submit-description = Descreva o problema (opcional)
 abuse-report-textarea =
     .placeholder = É mais fácil resolver um problema se tivermos detalhes específicos. Por favor descreva o que está a experienciar. Obrigado por nos ajudar a manter a web saudável.
@@ -48,24 +46,6 @@ abuse-report-messagebar-removed-sitepermission = Obrigado por reportar a situaç
 abuse-report-messagebar-removed-theme = Obrigado por enviar um relatório. Removeu o tema <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Ocorreu um erro ao enviar o relatório para <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = O relatório para <span data-l10n-name="addon-name">{ $addon-name }</span> não foi enviado porque outro relatório foi submetido recentemente.
-abuse-report-messagebar-aborted2 =
-    .message = Relatório para { $addon-name } cancelado.
-abuse-report-messagebar-submitting2 =
-    .message = A enviar relatório para { $addon-name }.
-abuse-report-messagebar-submitted2 =
-    .message = Obrigado por enviar um relatório. Pretende remover { $addon-name }?
-abuse-report-messagebar-submitted-noremove2 =
-    .message = Obrigado por submeter um relatório.
-abuse-report-messagebar-removed-extension2 =
-    .message = Obrigado por enviar um relatório. Removeu a extensão { $addon-name }.
-abuse-report-messagebar-removed-sitepermission2 =
-    .message = Obrigado por reportar a situação. Removeu o extra de permissões do site { $addon-name }.
-abuse-report-messagebar-removed-theme2 =
-    .message = Obrigado por enviar um relatório. Removeu o tema { $addon-name }.
-abuse-report-messagebar-error2 =
-    .message = Ocorreu um erro ao enviar o relatório para { $addon-name }.
-abuse-report-messagebar-error-recent-submit2 =
-    .message = O relatório para { $addon-name } não foi enviado porque outro relatório foi submetido recentemente.
 
 ## Message bars actions.
 

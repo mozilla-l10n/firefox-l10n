@@ -5,53 +5,40 @@
 permissions-window2 =
     .title = விதிவிலக்குகள்
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = வலைத்தளத்தின் முகவரி
     .accesskey = d
-
 permissions-block =
     .label = தடு
     .accesskey = B
-
 permissions-session =
     .label = அமர்வுக்கு அனுமதி
     .accesskey = S
-
 permissions-allow =
     .label = அனுமதி
     .accesskey = A
-
 permissions-site-name =
     .label = வலைத்தளம்
-
 permissions-status =
     .label = நிலை
-
 permissions-remove =
     .label = வலைத்தளத்தை நீக்கு
     .accesskey = R
-
 permissions-remove-all =
     .label = அனைத்து தளங்களையும் நீக்கு
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = மாற்றங்களைச் சேமிக்கவும்
     .buttonaccesskeyaccept = S
-
 permissions-searchbox =
     .placeholder = வலைத்தளத்தைத் தேடவும்
-
 permissions-capabilities-allow =
     .label = அனுமதி
 permissions-capabilities-block =
     .label = தடு
 permissions-capabilities-prompt =
     .label = எப்போதும் கேள்
-
 permissions-capabilities-listitem-allow =
     .value = அனுமதி
 permissions-capabilities-listitem-block =
@@ -89,6 +76,9 @@ permissions-exceptions-saved-logins-window2 =
     .title = விதிவிலக்குகள் - சேமிக்கப்பட்ட புகுபதிகைகள்
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = பின்வரும் தளங்களின் புகுபதிகைகள் சேமிக்கப்படாது
+
+## Exceptions - Saved Passwords
+
 
 ## Exceptions - Add-ons
 

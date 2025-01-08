@@ -5,4 +5,3 @@
 select-bookmark-window2 =
     .title = Chika  página nu kitsau
     .style = min-width: 32em;
-

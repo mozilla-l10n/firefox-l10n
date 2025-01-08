@@ -3,5 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = Da'ui nayi'ì ñunj
-
 restart-button-label = Nayi'ì nakà { -brand-short-name }

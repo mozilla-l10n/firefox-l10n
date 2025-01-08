@@ -4,7 +4,6 @@
 
 about-reader-loading = Учитавање…
 about-reader-load-error = Неуспешно учитавање чланка са странице
-
 about-reader-color-scheme-light = Светло
     .title = Светла тема
 about-reader-color-scheme-dark = Тамно
@@ -13,7 +12,6 @@ about-reader-color-scheme-sepia = Сепија
     .title = Тема „Сепија”
 about-reader-color-scheme-auto = Аутоматски
     .title = Аутоматска шема боја
-
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -26,7 +24,7 @@ about-reader-estimated-read-time =
        *[other] { $range } минута
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = Смањи величину фонта
@@ -51,3 +49,14 @@ about-reader-font-type-sans-serif = Sans-serif
 about-reader-toolbar-close = Затвори приказ читача
 about-reader-toolbar-type-controls = Контроле типова
 about-reader-toolbar-savetopocket = Сачувај у { -pocket-brand-name }-у
+
+## Reader View colors menu
+
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+
+## Reader View text and layout menu
+

@@ -18,8 +18,6 @@ abuse-report-addon-authored-by = аутор: <a data-l10n-name="author-name">{ $
 abuse-report-learnmore =
     Нисте сигурни шта да изаберете?
     <a data-l10n-name="learnmore-link">Сазнајте више о пријављивању додатака и тема</a>
-abuse-report-learnmore-intro = Нисте сигурни шта да изаберете?
-abuse-report-learnmore-link = Сазнајте више о пријављивању додатака и тема
 abuse-report-submit-description = Опишите проблем (опционално)
 abuse-report-textarea =
     .placeholder = Лакше ћемо решити проблем ако га детаљније опишете. Хвала вам на помоћи.
@@ -48,24 +46,6 @@ abuse-report-messagebar-removed-sitepermission = Хвала што сте под
 abuse-report-messagebar-removed-theme = Хвала вам на извештају. Уклонили сте тему <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Дошло је до грешке при слању извештаја о додатку <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Додатак <span data-l10n-name="addon-name">{ $addon-name }</span> није пријављен јер сте га недавно већ пријавили.
-abuse-report-messagebar-aborted2 =
-    .message = Пријава злоупотребе за { $addon-name } је отказана.
-abuse-report-messagebar-submitting2 =
-    .message = Слање извештаја за { $addon-name }.
-abuse-report-messagebar-submitted2 =
-    .message = Хвала вам на извештају. Желите ли да уклоните додатак { $addon-name }?
-abuse-report-messagebar-submitted-noremove2 =
-    .message = Хвала вам на извештају.
-abuse-report-messagebar-removed-extension2 =
-    .message = Хвала вам на извештају. Уклонили сте додатак { $addon-name }.
-abuse-report-messagebar-removed-sitepermission2 =
-    .message = Хвала што сте поднели пријаву. Уклонили сте додатак { $addon-name } за дозволе ове странице.
-abuse-report-messagebar-removed-theme2 =
-    .message = Хвала вам на извештају. Уклонили сте тему { $addon-name }.
-abuse-report-messagebar-error2 =
-    .message = Дошло је до грешке при слању извештаја о додатку { $addon-name }.
-abuse-report-messagebar-error-recent-submit2 =
-    .message = Додатак { $addon-name } није пријављен јер сте га недавно већ пријавили.
 
 ## Message bars actions.
 

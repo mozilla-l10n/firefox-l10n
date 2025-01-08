@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Teg kiritish
-
 pocket-panel-saved-error-generic = { -pocket-brand-name } xizmatiga saqlashda xatolik yuz berdi.
 pocket-panel-saved-error-tag-length = Teg uzunligi 25 ta belgidan oshmasin
 pocket-panel-saved-error-only-links = Faqat havolalarni saqlab olish mumkin
@@ -48,6 +47,7 @@ pocket-panel-home-discover-more = Koʻproq tanishish
 pocket-panel-home-explore-more = Tanishish
 
 ## Pocket panel header component
+
 
 ## Pocket panel buttons
 

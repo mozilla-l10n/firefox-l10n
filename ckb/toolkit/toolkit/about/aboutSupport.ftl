@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = زانیاری گەڕان بۆ کیشەکان
-
 crashes-title = ڕاپۆرتی داخستنی لەناکاو
 crashes-id = ناسنامەی ڕاپۆرت
 crashes-send-date = نێردرا
@@ -63,7 +62,6 @@ app-basics-location-service-key-google = کلیلی خزمەتگوزاری شو�
 app-basics-safebrowsing-key-google = کلیلی گەڕانی پارێزراوی گووگڵ
 app-basics-key-mozilla = کلیلی خزمەتگوزاری شوێنی Mozilla
 app-basics-safe-mode = دۆخی پارێزراو
-
 show-dir-label =
     { PLATFORM() ->
         [macos] لە شوێنەکەی بیکەرەوە
@@ -92,7 +90,6 @@ sandbox-sys-call-age = چرکە پێش ئێستا
 sandbox-sys-call-pid = PID
 sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = جۆری کردار
-
 restart-button-label = پێکردنەوە
 
 ## Media titles
@@ -100,6 +97,12 @@ restart-button-label = پێکردنەوە
 media-device-name = ناو
 
 ## Codec support table
+
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
 
 ##
 
@@ -134,5 +137,15 @@ media-device-name = ناو
 
 ## Printing section
 
+
+## Remote Settings sections
+
+
 ## Normandy sections
+
+
+## Pointing devices
+
+
+## Content Analysis (DLP)
 

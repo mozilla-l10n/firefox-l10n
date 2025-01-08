@@ -5,62 +5,47 @@
 permissions-window2 =
     .title = अपवाद
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = वेब साइट पता
     .accesskey = d
-
 permissions-block =
     .label = रोकें
     .accesskey = B
-
 permissions-session =
     .label = सत्र के लिए अनुमति दें
     .accesskey = S
-
 permissions-allow =
     .label = अनुमति दें
     .accesskey = A
-
 permissions-site-name =
     .label = वेबसाइट
-
 permissions-status =
     .label = स्थिति
-
 permissions-remove =
     .label = वेबसाइट हटाएँ
     .accesskey = R
-
 permissions-remove-all =
     .label = सभी वेबसाइटों को हटाएँ
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = परिवर्तन सहेजें
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = सभी वेबसाइटों के लिए डिफ़ॉल्ट:
-
 permissions-searchbox =
     .placeholder = वेबसाइट खोजें
-
 permissions-capabilities-autoplay-allow =
     .label = ऑडियो और वीडियो की अनुमति दें
 permissions-capabilities-autoplay-block =
     .label = ऑडियो ब्लॉक करें
 permissions-capabilities-autoplay-blockall =
     .label = ऑडियो और वीडियो ब्लॉक करें
-
 permissions-capabilities-allow =
     .label = अनुमति दें
 permissions-capabilities-block =
     .label = रोकें
 permissions-capabilities-prompt =
     .label = हमेशा पूछें
-
 permissions-capabilities-listitem-allow =
     .value = अनुमति दें
 permissions-capabilities-listitem-block =
@@ -74,6 +59,7 @@ permissions-invalid-uri-title = अवैध मेजबाननाम दि�
 permissions-invalid-uri-label = एक वैध मेजबाननाम डालें
 
 ## Exceptions - Tracking Protection
+
 
 ## Exceptions - Cookies
 
@@ -98,6 +84,9 @@ permissions-exceptions-saved-logins-window2 =
     .title = अपवाद - संग्रहित प्रवेश
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = निम्न वेबसाइटों के लिए लॉगिन सहेजे नहीं जाएंगे
+
+## Exceptions - Saved Passwords
+
 
 ## Exceptions - Add-ons
 

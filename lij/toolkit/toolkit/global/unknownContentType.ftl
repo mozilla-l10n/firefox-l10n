@@ -8,7 +8,6 @@ unknowncontenttype-settingschange =
             [windows] E inpostaçioin peuan ese cangiæ inte Preferense de { -brand-short-name }
            *[other] E inpostaçioin peuan ese cangiæ inte Preferense de { -brand-short-name }.
         }
-
 unknowncontenttype-intro = Ti t'æ çernuo de arvî
 unknowncontenttype-which-is = tipo:
 unknowncontenttype-from = da:

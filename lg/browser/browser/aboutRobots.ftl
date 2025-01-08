@@ -25,5 +25,6 @@ error-long-desc4 = Ebyuma birina obume obwaka nga ttebwagala kuwumwa.
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = Ne wana kutekateka.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = Gezako Nate
     .label2 = Osabirwa toddamu kunyiga epase lino era.

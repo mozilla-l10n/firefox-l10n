@@ -4,18 +4,15 @@
 
 password-not-set =
     .value = (tidak ditetapkan)
-
 pw-change-success-title = Kata laluan Berjaya Ditukar
 pw-change-failed-title = Kata laluan Gagal Ditukar
 pw-remove-button =
     .label = Buang
-
 set-password-old-password = Kata laluan semasa:
 set-password-new-password = Masukkan kata laluan baru:
 set-password-reenter-password = Masukkan semula kata laluan:
 set-password-meter = Meter kualiti kata laluan
 set-password-meter-loading = Memuatkan
-
 remove-info =
     .value = Anda mesti masukkan kata laluan semasa anda untuk meneruskannya:
 remove-password-old-password =

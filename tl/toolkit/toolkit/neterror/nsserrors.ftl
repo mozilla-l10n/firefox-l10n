@@ -10,13 +10,11 @@
 
 psmerr-ssl-disabled = Can’t connect securely because the SSL protocol has been disabled.
 psmerr-ssl2-disabled = Can’t connect securely because the site uses an older, insecure version of the SSL protocol.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     You have received an invalid certificate.  Please contact the server administrator or email correspondent and give them the following information:
     
     Your certificate contains the same serial number as another certificate issued by the certificate authority.  Please get a new certificate containing a unique serial number.
-
 ssl-error-export-only-server = Hindi makapag-communicate nang ligtas. Hindi suportado ng peer ang high-grade encryption.
 ssl-error-us-only-server = Hindi makapag-communicate nang ligtas. Nangangailangan ang peer ng high-grade encryption, na hindi suportado ngayon.
 ssl-error-no-cypher-overlap = Cannot communicate securely with peer: no common encryption algorithm(s).
@@ -153,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = Walang suportadong TLS signature al
 ssl-error-unsupported-signature-algorithm = Ang peer ay gumamit ng di-suportadong kombinasyon ng signature at hash algorithm.
 ssl-error-missing-extended-master-secret = Sinubukan ng peer na magpatuloy nang walang tamang extended_master_secret extension.
 ssl-error-unexpected-extended-master-secret = Sinubukan ng peer na magpatuloy na may di-inaasahang extended_master_secret extension.
-
 sec-error-io = May naganap na I/O error habang may security authorization.
 sec-error-library-failure = security library failure.
 sec-error-bad-data = security library: nakatanggap ng bad data.
@@ -320,7 +317,6 @@ sec-error-locked-password = Ang password ay naka-lock.
 sec-error-unknown-pkcs11-error = Di-kilalang PKCS #11 error.
 sec-error-bad-crl-dp-url = Di-wasto o di-suportadong URL sa CRL distribution point name.
 sec-error-cert-signature-algorithm-disabled = Naka-sign ang certificate gamit ang isang signature algorithm na naka-disable dahil hindi ito ligtas.
-
 mozilla-pkix-error-key-pinning-failure = Ang server ay gumagamit ng key pinning (HPKP) pero walang pinagkakatiwalaang certificate chain na maaaring buuing tumutugma sa pinset. Hindi pwedeng ma-override ang mga key pinning violation.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Ang server ay gumagamit ng certificate na may basic constraints extension na nagtutukoy dito bilang isang certificate authority. Hindi dapat ito ang kaso para sa isang certificate na may maayos na pagkakalathala.
 mozilla-pkix-error-inadequate-key-size = Ang server ay nagprisinta ng certificate na may key size na masyadong maliit para makapagtatag ng ligtas na koneksyon.
@@ -335,11 +331,9 @@ mozilla-pkix-error-invalid-integer-encoding = Ang server ay nagprisinta ng certi
 mozilla-pkix-error-empty-issuer-name = Ang server ay nagprisinta ng certificate na may bakanteng issuer distinguished name.
 mozilla-pkix-error-additional-policy-constraint-failed = May karagdagang policy constraint na nabigo habang vina-validate ang certificate na ito.
 mozilla-pkix-error-self-signed-cert = Ang certificate ay hindi pinagkakatiwalaan dahil ito ay self-signed.
-
 xp-java-remove-principal-error = Hindi kayang tanggalin ang principal
 xp-java-delete-privilege-error = Hindi kayang burahin ang privilege
 xp-java-cert-not-exists-error = Ang principal na ito ay walang certificate
-
 xp-sec-fortezza-bad-card = Ang Fortezza card ay hindi maayos na na-initialize. Mangyaring alisin ito at ibalik ito sa iyong issuer.
 xp-sec-fortezza-no-card = Walang Natagpuang mga Fortezza card
 xp-sec-fortezza-none-selected = Walang napiling Fortezza card

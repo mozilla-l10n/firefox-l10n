@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -9,13 +10,11 @@
 
 psmerr-ssl-disabled = सुरक्षित रूप से कनेक्ट नहीं कर सकता है क्योंकि SSL प्रोटोकॉल को निष्क्रिय किया गया है.
 psmerr-ssl2-disabled = सुरक्षित रूप से कनेक्ट नहीं कर सकता है क्योंकि साइट SSL प्रोटोकॉल के एक पुराने, असुरक्षित संस्करण का प्रयोग करता है.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     आपने एक अवैध प्रमाणपत्र पाया है.  कृपया सर्वर प्रशासक या ईमेल प्रतिनिधि से संपर्क करें और उन्हें निम्नलिखित सूचना दें:
     
     आपका प्रमाणपत्र दूसरे प्रमाणपत्र की तरह समान क्रम संख्या समाहित करता है जो कि प्रमाणपत्र प्राधिकार के द्वारा निर्गत किया गया है.  कृपया एक नया प्रमाणपत्र पाएँ जिसमें अद्वितीय क्रम संख्या शामिल हो.
-
 ssl-error-export-only-server = सुरक्षित रूप से संचार में असमर्थ. साथी उच्च श्रेणी के गोपन का समर्थन नहीं करता है.
 ssl-error-us-only-server = सुरक्षित रूप से संचार में असमर्थ. साथी के लिए उच्च श्रेणी के गोपन की जरुरत हैं जो समर्थित नहीं है.
 ssl-error-no-cypher-overlap = साथी के साथ सुरक्षित रूप से संचार में असमर्थ: कोई साझा गोपन अलगोरिथम नहीं.‌‌
@@ -152,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = कोई समर्थित ट
 ssl-error-unsupported-signature-algorithm = पीयर ने हस्ताक्षर और हैश अलगोरिद्म के असमर्थित संयोजन का उपयोग किया.
 ssl-error-missing-extended-master-secret = पीयर ने विस्तृत_मास्टर_गोपनीय विस्तारण के बिना पुनरारंभ की कोशिश की.
 ssl-error-unexpected-extended-master-secret = पीयर ने अप्रत्याशित विस्तृत_मास्टर_गोपनीय विस्तारण के साथ पुनरारंभ की कोशिश की.
-
 sec-error-io = एक I/O त्रुटि आई सुरक्षा सत्यापन के दौरान.
 sec-error-library-failure = सुरक्षा लाइब्रेरी विफल.
 sec-error-bad-data = सुरक्षा लाइब्रेरी: खराब आंकड़ा पाया.
@@ -319,7 +317,6 @@ sec-error-locked-password = कूटशब्द लॉक है.
 sec-error-unknown-pkcs11-error = अज्ञात PKCS #11 त्रुटि.
 sec-error-bad-crl-dp-url = CRL वितरण बिंदु नाम में अमान्य या असमर्थित URL.
 sec-error-cert-signature-algorithm-disabled = इस प्रमाणपत्र को हस्ताक्षर अलगोरिथम के उपयोग से हस्ताक्षरित किया गया जो निष्क्रिय है क्योंकि यह सुरक्षित नहीं है.
-
 mozilla-pkix-error-key-pinning-failure = इस सर्वर ने बीज पिनिंग (HPKP) का उपयोग किया है लेकिन कोई भरोसेमंद प्रमाणपत्र बनाया नहीं जा सका जो पिनसेट से मैच करता है. कुंजी पिनिंग उल्लंघन का अधिरोहन नहीं किया जा सका.
 mozilla-pkix-error-ca-cert-used-as-end-entity = यह सर्वर किसी प्रमाणपत्र का उपयोग करता है बेसिक निर्धारक विस्तार के साथ जो इसे प्रमाणपत्र प्राधिकार के रूप में पहचानता है. किसी उचित तरीके से निर्गत प्रमाणपत्र के लिए, यह मुद्दा नहीं होना चाहिए.
 mozilla-pkix-error-inadequate-key-size = इस सर्वर ने कुंजी आकार के साथ एक प्रमाणपत्र दिया है जो सुरक्षित कनेक्शन बनाने के लिए काफी छोटा है.
@@ -333,11 +330,9 @@ mozilla-pkix-error-required-tls-feature-missing = एक जरुरी TLS स
 mozilla-pkix-error-invalid-integer-encoding = सर्वर ने एक प्रमाण पत्र प्रस्तुत किया जिसमे पूर्णांक का एक अवैध कूटलेखन है. सामान्य कारणों में नकारात्मक क्रम संख्याएँ, नकारात्मक आरएसए मॉडयूल, और जरूरत से ज्यादा लम्बे कूटलेखन शामिल हैं.
 mozilla-pkix-error-empty-issuer-name = सर्वर ने खाली जारीकर्ता विशिष्ट नाम के साथ एक प्रमाण पत्र प्रस्तुत किया.
 mozilla-pkix-error-self-signed-cert = प्रमाणपत्र भरोसेमंद नहीं है क्योंकि यह स्व-हस्ताक्षरित है।
-
 xp-java-remove-principal-error = प्रधान के हटा नहीं सका
 xp-java-delete-privilege-error = अधिकार को मिटा नहीं सका
 xp-java-cert-not-exists-error = इस प्रधान के पास प्रमाणपत्र नहीं है
-
 xp-sec-fortezza-bad-card = फोरतेज्ज़ा कार्ड ठीक से आरंभीकृत नहीं हो सका है. कृपया इसे निकालें और अपने निर्गतकर्ता को इसे लौटाएँ.
 xp-sec-fortezza-no-card = कोई Fortezza कार्ड नहीं मिला
 xp-sec-fortezza-none-selected = कोई Fortezza कार्ड नहीं चुना गया

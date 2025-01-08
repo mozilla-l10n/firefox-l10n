@@ -4,7 +4,6 @@
 
 about-reader-loading = Laadimine…
 about-reader-load-error = Artikli laadimine lehelt ebaõnnestus
-
 about-reader-color-scheme-light = hele
     .title = Hele värvilahendus
 about-reader-color-scheme-dark = tume
@@ -13,7 +12,6 @@ about-reader-color-scheme-sepia = seepia
     .title = Seepia värvilahendus
 about-reader-color-scheme-auto = automaatne
     .title = Automaatne värvilahendus
-
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -25,7 +23,7 @@ about-reader-estimated-read-time =
        *[other] { $range } minutit
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = Vähenda fondi suurust
@@ -50,3 +48,14 @@ about-reader-font-type-sans-serif = seriifideta
 about-reader-toolbar-close = Sulge lugemisvaade
 about-reader-toolbar-type-controls = Fonditüübi juhtelemendid
 about-reader-toolbar-savetopocket = Salvesta { -pocket-brand-name }isse
+
+## Reader View colors menu
+
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+
+## Reader View text and layout menu
+

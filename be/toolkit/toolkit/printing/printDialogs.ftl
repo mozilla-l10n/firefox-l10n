@@ -103,7 +103,6 @@ print-window =
     .title = Друкаванне
 print-complete =
     .value = Друкаванне выканана.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

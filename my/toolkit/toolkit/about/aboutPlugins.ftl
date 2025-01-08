@@ -6,8 +6,6 @@ title-label = ပလတ်ဂင်များ အကြောင်း
 installed-plugins-label = အသုံးပြုဆော့ဝဲများ
 no-plugins-are-installed-label = တပ်ဆင်ထားသောဆော့ဝဲများမတွေ့ရ
 deprecation-description = တစ်ခုခုပျောက်နေသလား? အချို့သော ပလပ်အင်တွေကို ထောက်ပံ့မပေးတော့ပါ <a data-l10n-name="deprecation-link">ဆက်လက်လေ့လာပါ</a>
-deprecation-description2 =
-    .message = တစ်ခုခုပျောက်နေသလား? အချို့သော ပလပ်အင်တွေကို ထောက်ပံ့မပေးတော့ပါ
 
 ## The information of plugins
 ##

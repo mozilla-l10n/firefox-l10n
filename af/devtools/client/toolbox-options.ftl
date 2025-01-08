@@ -19,6 +19,9 @@ options-context-inspector = Inspekteur
 ## "Default Color Unit" options for the Inspector
 
 
+## Web Console section
+
+
 ## Style Editor section
 
 # The heading
@@ -32,7 +35,4 @@ options-styleeditor-label = Stylredigeerder
 options-sourceeditor-keybinding-default-label = Verstek
 
 ## Advanced section
-
-
-##
 

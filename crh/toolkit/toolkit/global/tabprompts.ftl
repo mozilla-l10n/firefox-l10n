@@ -6,7 +6,6 @@ tabmodalprompt-username =
     .value = Qullanıcı Adı:
 tabmodalprompt-password =
     .value = Sır-söz:
-
 tabmodalprompt-ok-button =
     .label = Tamam
 tabmodalprompt-cancel-button =

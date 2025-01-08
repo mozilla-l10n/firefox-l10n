@@ -6,4 +6,6 @@ close-window = Tôp Tingkap
 
 ## Various categories of shortcuts for search.
 
+
 ##
+

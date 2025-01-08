@@ -5,8 +5,7 @@
 
 ### These strings are used inside the Application panel which is available
 ### by setting the preference `devtools-application-enabled` to true.
-
-
+###
 ### The correct localization of this file might be to keep it in English, or another
 ### language commonly spoken among web developers. You want to make that choice consistent
 ### across the developer tools. A good criteria is the language in which you'd find the
@@ -14,22 +13,20 @@
 
 # Header for the list of Service Workers displayed in the application panel for the current page.
 serviceworker-list-header = Service Worker-ləri
-
 # Text displayed next to the list of Service Workers to encourage users to check out
 # about:debugging to see all registered Service Workers.
 serviceworker-list-aboutdebugging = Digər domenlərdən olan Service Worker-lər üçün <a>about:debugging</a> açın
-
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
 serviceworker-worker-unregister = Qeydiyyatdan çıxart
-
 # Text for the debug link displayed for an already started Service Worker. Clicking on the
 # link opens a new devtools toolbox for this service worker. The title attribute is only
 # displayed when the link is disabled.
 serviceworker-worker-debug = Sazla
     .title = Ancaq işləyən service worker-ləri sazlana bilər
-
 # Text displayed for the updated time of the service worker. The <time> element will
 # display the last update time of the service worker script.
+# Variables:
+#   $date (date) - Update date
 serviceworker-worker-updated = Yenilənib <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
 
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
@@ -38,7 +35,5 @@ serviceworker-worker-updated = Yenilənib <time>{ DATETIME($date, month: "long",
 # Service Worker status. A running service worker is registered, currently executed, can
 # be debugged and stopped.
 serviceworker-worker-status-running = İşləyir
-
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = Dayandırılıb
-

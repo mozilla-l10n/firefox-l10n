@@ -15,16 +15,13 @@ about-unloads-intro =
     kaarte prioriseerib ja milline kaart eemaldatakse mälust järgmisena, kui
     mälust eemaldamine muutub vajalikuks. Kaardi mälust eemaldamist saab alustada
     käsitsi alloleva nupu <em>Eemalda mälust</em> abil.
-
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more = Rohkema teabe saamiseks selle funktsionaalsuse kohta vaata <a data-l10n-name="doc-link">Kaardi mälust eemaldamine</a>.
-
 about-unloads-last-updated = Viimati uuendatud: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Eemalda mälust
     .title = Eemalda kõrgeima prioriteediga kaart mälust
 about-unloads-no-unloadable-tab = Mälust eemaldatavad kaardid puuduvad.
-
 about-unloads-column-priority = Prioriteet
 about-unloads-column-host = Aadress
 about-unloads-column-last-accessed = Viimati vaadati
@@ -36,7 +33,6 @@ about-unloads-column-memory = Mälu
     .title = Kaardi oletuslik mälukasutus
 about-unloads-column-processes = Protsessi ID'd
     .title = Protsesside ID'd, mis sisaldavad selle kaardi sisu
-
 about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } MiB
 about-unloads-memory-in-mb-tooltip =

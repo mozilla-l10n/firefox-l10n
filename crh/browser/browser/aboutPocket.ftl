@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Nişanlar Ekle
-
 pocket-panel-saved-error-generic = { -pocket-brand-name }’ke saqlamağa çalışqanda bir hata asıl oldı.
 pocket-panel-saved-error-tag-length = Nişanlar 25 remizge mahduttır
 pocket-panel-saved-error-only-links = Faqat ilişimler saqlanabilir
@@ -40,7 +39,9 @@ pocket-panel-signup-tagline-story-two = Er angi cihazda, er angi zamanda { -pock
 
 ## about:pocket-home panel
 
+
 ## Pocket panel header component
+
 
 ## Pocket panel buttons
 

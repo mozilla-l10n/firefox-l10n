@@ -38,7 +38,6 @@ printpreview-page-setup =
 printpreview-page =
     .value = Duilleag:
     .accesskey = a
-
 # Variables
 # $sheetNum (integer) - The current sheet number
 # $sheetCount (integer) - The total number of sheets to print
@@ -62,7 +61,6 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = An duilleag mu dheireadh
-
 printpreview-homearrow-button =
     .title = A’ chiad duilleag
 printpreview-previousarrow-button =

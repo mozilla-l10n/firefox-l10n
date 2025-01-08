@@ -445,3 +445,11 @@ newtab-topic-selection-button-maybe-later = ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼ�
 newtab-topic-selection-privacy-link = ᱵᱟᱰᱟᱭ ᱢᱮ ᱪᱮᱫ ᱞᱮᱠᱟ ᱟᱞᱮ ᱰᱟᱴᱟ ᱵᱚᱱ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱟᱨ ᱵᱚᱱ ᱪᱟᱞᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ
 newtab-topic-selection-button-update-interests = ᱟᱢᱟᱜ ᱠᱩᱥᱤ ᱠᱚ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮ
 newtab-topic-selection-button-pick-interests = ᱟᱢᱟᱜ ᱠᱩᱥᱤ ᱠᱚ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Confirmation modal for blocking a section
+

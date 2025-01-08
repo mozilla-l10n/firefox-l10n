@@ -6,8 +6,6 @@ title-label = Over plug-ins
 installed-plugins-label = Geïnstalleerde plug-ins
 no-plugins-are-installed-label = Er zijn geen geïnstalleerde plug-ins gevonden
 deprecation-description = Mist u iets? Sommige plug-ins worden niet meer ondersteund. <a data-l10n-name="deprecation-link">Meer info.</a>
-deprecation-description2 =
-    .message = Mist u iets? Sommige plug-ins worden niet meer ondersteund.
 
 ## The information of plugins
 ##

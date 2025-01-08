@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -9,13 +10,11 @@
 
 psmerr-ssl-disabled = Man tikirel ta nokisäx pa ütz rub'eyal ruma chi ri SSL rub'eyal samaj xchup.
 psmerr-ssl2-disabled = Man tikirel ta nok ütz, ruma chi ri ruxaq k'amaya'l tajin nrokisaj jun ojer chuqa' man ütz ta ruwäch chi SSL rub'eyal samaj.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Xak'ül jun ruwujil b'i'aj ri ma nokel ta.  Katzijon rik'in ri runuk'samajel ruk'u'x samaj o tataqa' jun taqoya'l rik'in re na'oj re':
     
     Ri ruwujil ab'i' junam ri rajilab'al rucholajil kik'in ri ch'aqa' chik taq ruwujil b'i'aj elesan kuma ri taqanel ya'öl ruwujil b'i'al.  Tak'ulu' jun k'ak'a' ruwujil b'i'aj, ri ruk'wan juyonil rajilab'al rucholajil.
-
 ssl-error-export-only-server = Man tikirel ta nib'an ütz chi ch'owen. Ri jun chik rutza'm okem, man nuk'ül ta chi ri ewan rusik'ixik nïm ruxak.
 ssl-error-us-only-server = Man tikirel ta nib'an ütz ch'owen. Ri jun chik rutza'm okem nrajo' ewan rusik'ixik ri nïm ruxaq, ri man yek'ulutäj ta.
 ssl-error-no-cypher-overlap = Man tikirel ta nib'an ütz ch'owen rik'in ri jun chik peraj: majun chi rub'eyal rujik'oj (taq) relik ewan rusik'ixik.
@@ -152,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = Man nuköch' ta TLS rujuch' rub'eya
 ssl-error-unsupported-signature-algorithm = Ri k'ulunel nrokisaj jun tunuj, akuchi' man nito'on ta ri juch' b'i'aj chuqa' ri hash rub'eyal jik'oj.
 ssl-error-missing-extended-master-secret = Ri k'ulaj xutojtob'ej xutikirisaj chik, akuchi' majun ütz extended_master_secret k'amal.
 ssl-error-unexpected-extended-master-secret = Ri k'ulaj xutojtob'ej xutikirisaj chik rik'in jun man oyob'en ta chi extended_master_secret k'amal.
-
 sec-error-io = Xk'ulwachitäj jun sachoj richin I/O toq nitajin ri ya'oj q'ij richin jikomal.
 sec-error-library-failure = rusachoj ruwujib'al jikomal.
 sec-error-bad-data = ruwujib'al jikomal: xek'ulutäj itzel taq tzij.
@@ -319,7 +317,6 @@ sec-error-locked-password = Q'aton ri ewan tzij.
 sec-error-unknown-pkcs11-error = Man etaman ta ruwäch ri PKCS #11 sachoj.
 sec-error-bad-crl-dp-url = Man okel ta o man nik'ul ta ri URL pa ri rub'i' ruk'ojlemal rujachik CRL.
 sec-error-cert-signature-algorithm-disabled = Ri ruwujil b'i'aj xjuch' rik'in jun rub'eyal rujik'oj juch'b'i'aj, ri chupül ruma chi man ütz ta.
-
 mozilla-pkix-error-key-pinning-failure = Re ruk'u'x samaj re' nrokisaj key pinning (HPKP) xa xe chi man tikirinäq ta ninuk' jun kicholajem kuqel k'u'x kiwujil b'i'aj, ri nuk'äm ri' rik'in ri pinset. Ri taq ritzelanik Key pinning man tikirel ta yechojmirisäx.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Ri ruk'u'x samaj nrokisaj jun ruwujil b'i'aj rik'in jun ruxe' k'amal richin taq q'aton samaj, ri nuya' retal achi'el jun taqonel ya'öl ruwujil b'i'aj. Re re' k' ta chi man ja ta ri' rub'eyal richin jun ruwujil b'i'aj, ri ütz tikirisan rutzij.
 mozilla-pkix-error-inadequate-key-size = Ri ruk'u'x samaj ruk'utun jun ruwujil b'i'aj, ri ruk'wan jun runimilem ewan tzij yalan ko'öl richin nijikib'äx jun ütz okem.
@@ -334,11 +331,9 @@ mozilla-pkix-error-invalid-integer-encoding = Ri ruk'u'x samaj xuk'üt jun ruwuj
 mozilla-pkix-error-empty-issuer-name = Ri ruk'u'x samaj xuk'üt jun iqitzijib'äl rik'in jun nimaläj b'i'aj  kowöl tikirisanel tzij.
 mozilla-pkix-error-additional-policy-constraint-failed = Jun rutz'aqat ruq'atoj rusamaj na'ojil xsach toq nujikib'a' re iqitzijib'äl re'.
 mozilla-pkix-error-self-signed-cert = Man ütz ta re jun ruwujil b'i'aj re' ruma chi yonijuch'un.
-
 xp-java-remove-principal-error = Man tikirel ta niyuj el ri nimaläj
 xp-java-delete-privilege-error = Man tikirel ta niyuj el ri ichinem
 xp-java-cert-not-exists-error = Re nimaläj re' majun ruwujil rub'i'
-
 xp-sec-fortezza-bad-card = Ri Fortezza ch'utiwuj man ütz ta xtikirisäx. Tawelesaj el chuqa' tatzolij chi re ri tikirisanel atzij.
 xp-sec-fortezza-no-card = Man e'ilon ta taq Fortezza ch'utiwuj
 xp-sec-fortezza-none-selected = Man jun Fortezza ch'utiwuj cha'on

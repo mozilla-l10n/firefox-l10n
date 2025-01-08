@@ -9,7 +9,6 @@ features-name = B'ii
 features-version = Tilax ivatz
 app-basics-name = B'ii
 app-basics-version = Tilax ivatz
-
 modified-prefs-name = B'ii
 user-js-title = users.js Uve' ni chit asa'
 locked-prefs-name = B'ii
@@ -19,6 +18,12 @@ locked-prefs-name = B'ii
 media-device-name = B'ii
 
 ## Codec support table
+
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
 
 ##
 
@@ -49,10 +54,8 @@ unknown = Ye' ootzimal
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-active = Ile' b'a'n ve'te'
-
 d3d11layers-crash-guard = Compositor D3D11
 glcontext-crash-guard = OpenGL
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -68,5 +71,15 @@ policies-active = Ile' b'a'n ve'te'
 
 ## Printing section
 
+
+## Remote Settings sections
+
+
 ## Normandy sections
+
+
+## Pointing devices
+
+
+## Content Analysis (DLP)
 

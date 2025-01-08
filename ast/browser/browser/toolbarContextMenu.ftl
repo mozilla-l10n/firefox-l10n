@@ -20,6 +20,8 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Esbillar toles llingüetes
     .accesskey = E
+# Variables
+#   $tabCount (number) - Number of tabs
 toolbar-context-menu-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -28,24 +30,21 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Volver abrir les llingüetes zarraes
         }
     .accesskey = a
-
 toolbar-context-menu-manage-extension =
     .label = Xestionar la estensión
     .accesskey = e
 toolbar-context-menu-remove-extension =
     .label = Quitar la estensión
     .accesskey = Q
-
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = Informar de la estensión
     .accesskey = I
-
-# Can appear on the same context menu as menubarCmd ("Menu Bar") and
-# personalbarCmd ("Bookmarks Toolbar"), so they should have different
-# access keys.
+# Can appear on the same context menu as toolbar-context-menu-menu-bar-cmd
+# ("Menu Bar") and personalbarCmd ("Bookmarks Toolbar"), so they should
+# have different access keys.
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Fixar nel menú flotante
     .accesskey = F
@@ -61,7 +60,6 @@ toolbar-context-menu-view-customize-toolbar =
 toolbar-context-menu-view-customize-toolbar-2 =
     .label = Personalizar la barra de ferramientes…
     .accesskey = P
-
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = Amosar siempres
     .accesskey = A
@@ -71,11 +69,9 @@ toolbar-context-menu-bookmarks-toolbar-never-show-2 =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab-2 =
     .label = Amosar namás en «Llingüeta nueva»
     .accesskey = n
-
 toolbar-context-menu-bookmarks-show-other-bookmarks =
     .label = Amosar «Otros marcadores»
     .accesskey = s
-
 toolbar-context-menu-menu-bar-cmd =
     .toolbarname = Barra de menús
     .accesskey = m

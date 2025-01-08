@@ -5,77 +5,59 @@
 permissions-window2 =
     .title = Mga Exception
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Address ng website
     .accesskey = d
-
 permissions-block =
     .label = Harangin
     .accesskey = H
-
 permissions-session =
     .label = Payagan para sa Session
     .accesskey = S
-
 permissions-allow =
     .label = Payagan
     .accesskey = a
-
 permissions-button-off =
     .label = Patayin
     .accesskey = P
-
 permissions-button-off-temporarily =
     .label = Pansamantalang patayin
     .accesskey = P
-
 permissions-site-name =
     .label = Website
-
 permissions-status =
     .label = Kalagayan
-
 permissions-remove =
     .label = Alisin ang Website
     .accesskey = R
-
 permissions-remove-all =
     .label = Alisin ang Lahat ng mga Website
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = i-Save ang mga Pagbabago
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = Ang default para sa lahat ng mga website:
-
 permissions-searchbox =
     .placeholder = Maghanap ng Website
-
 permissions-capabilities-autoplay-allow =
     .label = Payagan ang Audio at Video
 permissions-capabilities-autoplay-block =
     .label = Harangin ang Audio
 permissions-capabilities-autoplay-blockall =
     .label = Harangin ang Audio at Video
-
 permissions-capabilities-allow =
     .label = Payagan
 permissions-capabilities-block =
     .label = Harangin
 permissions-capabilities-prompt =
     .label = Palaging Magtanong
-
 permissions-capabilities-listitem-allow =
     .value = Payagan
 permissions-capabilities-listitem-block =
     .value = Harangin
 permissions-capabilities-listitem-allow-session =
     .value = Payagan ang Session
-
 permissions-capabilities-listitem-off =
     .value = Nakapatay
 permissions-capabilities-listitem-off-temporarily =
@@ -119,6 +101,9 @@ permissions-exceptions-saved-logins-window2 =
     .title = Mga Exception - Mga Naka-save na Login
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Ang mga login para sa mga sumusunod na website ay hindi ise-save
+
+## Exceptions - Saved Passwords
+
 
 ## Exceptions - Add-ons
 

@@ -13,7 +13,6 @@ navbar-tooltip-instruction =
 
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
-
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
@@ -21,7 +20,6 @@ toolbar-button-back-2 =
 
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
-
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
 
@@ -42,6 +40,10 @@ toolbar-button-stop-reload =
 
 ## Firefox Account Button
 
+
+## Account toolbar Button
+
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -53,19 +55,14 @@ main-context-menu-page-save =
 main-context-menu-open-link =
     .label = Mítani parhijtsïkutarakua
     .accesskey = M
-
 main-context-menu-save-link =
     .label = Patsani parhijtsïkutarakua esïka…
     .accesskey = P
 
-## The access keys for "Copy Link Location" and "Copy Email Address"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
-
-
 ## The access keys for "Copy Link" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
+
 
 ## Media (video/audio) controls
 ##
@@ -89,58 +86,45 @@ main-context-menu-media-unmute =
 main-context-menu-media-video-leave-fullscreen =
     .label = Sapinharhitant'ani
     .accesskey = S
-
 main-context-menu-image-reload =
     .label = Eratikuani uininharhitantsï
     .accesskey = E
-
 main-context-menu-image-save-as =
     .label = Arisï patsani p´itakatani…
     .accesskey = A
-
 main-context-menu-image-info =
     .label = Arhintsï í eratikueri ampe
     .accesskey = A
-
 main-context-menu-video-email =
     .label = Email Video…
     .accesskey = a
 
-## The access keys for "Use Saved Login" and "Use Saved Password"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
+##
+
 
 ##
 
 main-context-menu-frame =
     .label = Antiku anamutakua
     .accesskey = a
-
 main-context-menu-frame-reload =
     .label = Eratikuani uininharhitantsï
     .accesskey = E
-
 main-context-menu-frame-save-as =
     .label = Patsani anamutakua esïka…
     .accesskey = P
-
 main-context-menu-frame-print =
     .label = Uechatantani…
     .accesskey = U
-
 main-context-menu-frame-view-source =
     .label = Nanina ukata jarhaski i
     .accesskey = N
-
 main-context-menu-frame-view-info =
     .label = %Arhintsï iri ampe
     .accesskey = I
-
 main-context-menu-view-selection-source =
     .label = Exe i ampe nani ueraski
     .accesskey = e
-
 main-context-menu-view-page-source =
     .label = Nanina karakata jarhaski i
     .accesskey = V
-

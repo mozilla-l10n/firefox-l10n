@@ -11,3 +11,6 @@ fxviewtabrow-open-in-private-window = Deschide într-o fereastră privată nouă
 # “Bookmark” is a verb, as in "Bookmark this page" (add to bookmarks).
 fxviewtabrow-add-bookmark = Marchează…
     .accesskey = B
+
+## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+

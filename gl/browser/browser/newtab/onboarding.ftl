@@ -223,7 +223,9 @@ mr2022-onboarding-set-default-subtitle = Use un navegador apoiado por unha organ
 mr2022-onboarding-get-started-primary-subtitle = A nosa última versión está construída pensando en ti, polo que é máis fácil que nunca navegar pola web. Está chea de funcións que che encantarán.
 mr2022-onboarding-get-started-primary-button-label = Configurar en segundos
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Configuración ultrarrápida
 mr2022-onboarding-import-subtitle = Configura { -brand-short-name } como che guste. Engade os teus marcadores, contrasinais e moito máis desde o teu navegador anterior.
@@ -363,3 +365,15 @@ onboarding-new-user-survey-time-based-option-3 = Máis de 1 mes, regularmente
 onboarding-new-user-survey-familiarity-based-option-1 = Son novo
 onboarding-new-user-survey-familiarity-based-option-2 = Useino algo
 onboarding-new-user-survey-familiarity-based-option-3 = Estou moi familiarizado con iso
+
+## UI strings for the sidebar and vertical tabs
+
+
+## New user onboarding checklist
+
+
+## Tab Groups feature onboarding strings
+
+
+## Multi Profiles feature onboarding messages
+

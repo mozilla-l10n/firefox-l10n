@@ -106,7 +106,7 @@ containers-disable-alert-ok-button =
 containers-disable-alert-cancel-button = सक्षम राख्नुहोस्
 containers-remove-alert-title = यो कन्टेनर हटाउने हो ?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] यदि तपाईँ अहिले यो कन्टेनर हटाउनुहुन्छ भने, { $count } कन्टेनर ट्याब बन्द हुनेछ । के तपाईँ यो कन्टेनर हटाउन निश्चित हुनुहुन्छ ?
@@ -194,11 +194,11 @@ applications-manage-app =
 applications-always-ask =
     .label = सधै सोध्नुहोस्
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } ({ -brand-short-name } मा) प्रयोग गर्नुहोस्
 
@@ -228,6 +228,8 @@ play-drm-content =
 play-drm-content-learn-more = अझै जान्नुहोस्
 update-application-title = { -brand-short-name } अद्यावधिकहरू
 update-application-description = राम्रो कार्यसम्पादन, स्थायित्व र सुरक्षाको लागि { -brand-short-name } लाई अद्यावधिक राख्नुहोस् ।
+# Variables:
+# $version (string) - Firefox version
 update-application-version = संस्करण { $version } <a data-l10n-name="learn-more">नयाँ के छ</a>
 update-history =
     .label = अद्यावधिक इतिहास देखाउनुहोस्…
@@ -262,7 +264,7 @@ performance-limit-content-process-option = सामग्री प्रक्
 performance-limit-content-process-enabled-desc = थप सामग्री प्रक्रियाहरूले धेरै ट्याबहरू प्रयोग गर्दा कार्यसम्पादनमा सुधार ल्याऊँछ तर धेरै मेमोरी पनि प्रयोग गर्छ ।
 performance-limit-content-process-blocked-desc = सामग्री प्रक्रियाहरूको संख्या परिमार्जन बहुप्रक्रिया { -brand-short-name } सँग मात्र सम्भव छ । <a data-l10n-name="learn-more">बहुप्रक्रिया सक्षम छ कि छैन भनेर कसरि जाँच गर्ने हो जान्नुहोस्</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (पूर्वनिर्धारित)
 
@@ -331,8 +333,7 @@ choose-bookmark =
 home-prefs-search-header =
     .label = वेब खोजि
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = { $provider } द्वारा सिफारिस गरिएको
@@ -355,6 +356,8 @@ home-prefs-highlights-option-saved-to-pocket =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = स्निप्पेटस्
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -393,7 +396,7 @@ search-find-more-link = थप खोज इन्जिनहरू फेल�
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = नक्कली शब्दकुञ्जी
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = तपाईँले चयन गर्नु भएको खोज शब्द हाल "{ $name }" ले प्रयोग गरिरहेको छ। कृपया अर्को चयन गर्नुहोस्।
 search-keyword-warning-bookmark = तपाईँले चयन गर्नु भएको खोजशब्द हाल पुस्तकचिनोले प्रयोग गरिरहेको छ। कृपया अर्को चयन गर्नुहोस्।
 

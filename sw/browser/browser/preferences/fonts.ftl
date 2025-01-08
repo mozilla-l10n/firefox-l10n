@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Fonti
-
 fonts-window-close =
     .key = w
 
@@ -56,15 +55,8 @@ fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
-
 fonts-minsize-none =
     .label = Hakuna kitu
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

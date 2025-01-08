@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -9,13 +10,11 @@
 
 psmerr-ssl-disabled = Navar drūsais pīsasliegt, kam SSL protokols ir deaktiveits.
 psmerr-ssl2-disabled = Navar drūsais pīsasliegt, kam lopa izmontoj vacuoku, nadrūsu SSL protokola verseju.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Ir sajimts nadereigs sertifikats.  Lyudzu sasazynojit ar servera administratoru voi sovu eposta sarakstes bīdru i nūdūdit jam sekūjūšu informaceju:
     
     Jiusu sertifikata numurs sakreit ar kaida cyta sertifikata serejis numuru, kū izdevusi itei sertifikatu autoritate. Lyudzu īgiustit jaunu sertifikatu ar unikalu serejis numuru.
-
 ssl-error-export-only-server = Navar sasazynuot drūsais.  Komunikacejis partneris naatbolsta augstys raudzes šifriešonu.
 ssl-error-us-only-server = Navar sasazynuot drūsais.  Komunikacejis partneris pīprosa augstys raudzes šifriešonu, kas nav pīejama.
 ssl-error-no-cypher-overlap = Navar sasazynuot drūsais ar komunikacejis partneri : nav kūpeigu šifriešonys algoritmu.
@@ -152,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = No supported TLS signature algorith
 ssl-error-unsupported-signature-algorithm = The peer used an unsupported combination of signature and hash algorithm.
 ssl-error-missing-extended-master-secret = Savīnuojuma partneris raudzieja turpynuot bez korekta extended_master_secret paplošynuojuma.
 ssl-error-unexpected-extended-master-secret = Savīnuojuma partneris raudzieja turpynuot ar naatbaļsteitu extended_master_secret paplošynuojumu.
-
 sec-error-io = Drūseibys autorizacejis laikā nūtyka I/O klaida.
 sec-error-library-failure = drūšeibys bibliotekys klaida.
 sec-error-bad-data = drūšeibys biblioteka: sajimti švaki dati.
@@ -319,7 +317,6 @@ sec-error-locked-password = Parole ir blokeita.
 sec-error-unknown-pkcs11-error = Nazynuoma PKCS #11 klaida.
 sec-error-bad-crl-dp-url = Nadereiga voi naatbaļsteita URL CRL izplateišonys punkta nūsaukumā.
 sec-error-cert-signature-algorithm-disabled = Sertifikats tyka paraksteits ar paroksta algoritmu, kura izmontuošona ir deaktiveita, kam itys algoritmys nav drūss.
-
 mozilla-pkix-error-key-pinning-failure = The server uses key pinning (HPKP) but no trusted certificate chain could be constructed that matches the pinset. Key pinning violations cannot be overridden.
 mozilla-pkix-error-ca-cert-used-as-end-entity = The server uses a certificate with a basic constraints extension identifying it as a certificate authority. For a properly-issued certificate, this should not be the case.
 mozilla-pkix-error-inadequate-key-size = The server presented a certificate with a key size that is too small to establish a secure connection.
@@ -334,11 +331,9 @@ mozilla-pkix-error-invalid-integer-encoding = The server presented a certificate
 mozilla-pkix-error-empty-issuer-name = The server presented a certificate with an empty issuer distinguished name.
 mozilla-pkix-error-additional-policy-constraint-failed = Papyldu politikas īrūbežojuma porbaude naizadeve porbaudūt itū sertifikatu.
 mozilla-pkix-error-self-signed-cert = Itys sertifikats nav uztycams, par tū, ka ir poša paraksteits.
-
 xp-java-remove-principal-error = Navar aizvuokt direktoru
 xp-java-delete-privilege-error = Navar nūdziest privilegeju
 xp-java-cert-not-exists-error = Direktoram nav sertifikata
-
 xp-sec-fortezza-bad-card = Fortezza karte nav korekti inicializeita.  Lyudzu izjemit to i atgrīzit izdeviejam.
 xp-sec-fortezza-no-card = Nav atrosta nivīna Fortezza karte
 xp-sec-fortezza-none-selected = Nav izavālāta Fortezza karte

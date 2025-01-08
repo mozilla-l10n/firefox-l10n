@@ -12,17 +12,13 @@ cfr-doorhanger-feature-heading = Gné Mholta
 
 cfr-doorhanger-extension-cancel-button = Níl Anois
     .accesskey = N
-
 cfr-doorhanger-extension-never-show-recommendation = Ná taispeáin an moladh seo dom
     .accesskey = t
-
 cfr-doorhanger-extension-learn-more-link = Tuilleadh eolais
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = le { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Moladh
@@ -53,9 +49,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } úsáideoir
     }
 
-## These messages are steps on how to use the feature and are shown together.
-
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-link-text = Sioncronaigh leabharmharcanna anois…
@@ -69,58 +62,21 @@ cfr-protections-panel-link-text = Tuilleadh eolais
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Gné nua:
-
 cfr-whatsnew-button =
     .label = Gnéithe Nua
     .tooltiptext = Gnéithe Nua
-
 cfr-whatsnew-release-notes-link-text = Léigh na nótaí eisiúna
-
-## Search Bar
-
-## Picture-in-Picture
-
-## Permission Prompt
-
-## Fingerprinter Counter
-
-## Bookmark Sync
-
-## Login Sync
-
-## Send Tab
-
-
-## Firefox Send
-
-## Social Tracking Protection
 
 ## Enhanced Tracking Protection Milestones
 
 cfr-doorhanger-milestone-ok-button = Féach Uile
     .accesskey = F
 
-## What’s New Panel Content for Firefox 76
-
-## Lockwise message
-
-## Vulnerable Passwords message
-
-## Picture-in-Picture fullscreen message
-
-## Protections Dashboard message
-
-## Better PDF message
-
 ## DOH Message
 
-## What's new: Cookies message
-
-## Fission Experiment Message
 
 ## Full Video Support CFR message
 
-## Spotlight modal shared strings
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -128,9 +84,9 @@ cfr-doorhanger-milestone-ok-button = Féach Uile
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
-## Total Cookie Protection Rollout
 
 ## Emotive Continuous Onboarding
+
 
 ## MR2022 Background Update Windows native toast notification strings.
 ##
@@ -145,19 +101,52 @@ cfr-doorhanger-milestone-ok-button = Féach Uile
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+
 ## Firefox View CFR
+
 
 ## Firefox View Spotlight
 
+
 ## Colorways expiry reminder CFR
+
 
 ## Cookie Banner Handling CFR
 
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
+
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+
 ## FxA sync CFR
 
+
 ## Device Migration FxA Spotlight
+
+
+## Set as Default PDF Reader Infobar
+
+
+## Launch on login infobar notification
+
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+
+## Tail Fox Set Default Spotlight
+
+
+## Root Certificate Succession Infobar
+
+
+## Root Certificate Succession Windows Background Notification
+
+
+## FxA Menu Message variants
+
+
+## Multi-CTA Fox Doodle Spotlight
 

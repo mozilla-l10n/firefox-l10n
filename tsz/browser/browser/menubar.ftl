@@ -9,6 +9,12 @@
 # NOTE: For Engineers, please don't re-use these strings outside of the menubar.
 
 
+# NOTE: For English locales, strings in this file should be in APA-style Title Case.
+# See https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case
+#
+# NOTE: For Engineers, please don't reuse these strings outside of the menubar.
+
+
 ## Application Menu (macOS only)
 
 menu-application-services =
@@ -104,6 +110,7 @@ menu-view-full-screen =
 
 ## These menu items may use the same accesskey.
 
+
 ##
 
 menu-view-show-all-tabs =
@@ -127,6 +134,9 @@ menu-bookmarks-all-tabs =
     .label = &Arhukutarhakuechani kúparata arhistakuecharhu…
 menu-bookmarks-toolbar =
     .label = T'antsïratarakuaecha
+
+## Profiles Menu
+
 
 ## Tools Menu
 
@@ -152,14 +162,6 @@ menu-window-bring-all-to-front =
 
 ## Help Menu
 
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
 # also be reflected in the related strings in appmenu.ftl. Those strings, by

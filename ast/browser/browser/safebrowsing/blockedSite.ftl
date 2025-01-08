@@ -10,6 +10,8 @@ safeb-blocked-phishing-page-short-desc = { -brand-short-name } bloquió esta pá
 safeb-blocked-malware-page-short-desc = { -brand-short-name } bloquió esta páxina porque quiciabes tente d'instalar software maliciosu que pue robar o desaniciar la información personal del ordenador.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } bloquió esta páxina porque quiciabes tente d'engañate pa qu'instales software que perxudique la esperiencia de restolar (por exemplu, camudando la páxina d'aniciu o amosando más anuncios nos sitios que visites).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } bloquió esta páxina porque quiciabes tente d'instalar aplicaciones peligroses que roben o desanicien la información personal del ordenador (por exemplu, semeyes, contraseñes, mensaxes y tarxetes de creitu).
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Col asesoramientu de <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Dir p'atrás
 safeb-palm-see-details-label = Ver los detalles

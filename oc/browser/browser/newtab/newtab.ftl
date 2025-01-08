@@ -396,3 +396,11 @@ newtab-topic-selection-button-maybe-later = Benlèu mai tard
 newtab-topic-selection-privacy-link = Descobrissètz cossí protegissèm e gerissèm vòstras donadas
 newtab-topic-selection-button-update-interests = Metre a jorn vòstres interèsses
 newtab-topic-selection-button-pick-interests = Causir vòstres interèsses
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Confirmation modal for blocking a section
+

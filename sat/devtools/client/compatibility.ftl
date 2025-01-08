@@ -40,11 +40,9 @@ compatibility-issue-occurrences =
         [two] { $number } ᱜᱷᱚᱴᱚᱱᱠᱤᱱ
        *[other] { $number } ᱜᱷᱚᱴᱚᱱᱠᱚ
     }
-
 compatibility-no-issues-found = ᱪᱮᱫ ᱦᱚᱸ ᱵᱮᱡᱚᱲ ᱮᱴᱠᱮᱴᱚᱬᱮ ᱫᱚ ᱵᱟᱝ ᱧᱟᱢ ᱞᱮᱱᱟ ᱾
 compatibility-close-settings-button =
     .title = ᱥᱟᱡᱟᱣᱠᱚ ᱵᱚᱸᱫ ᱢᱮ
-
 # Text used in the element containing the browser icons for a given compatibility issue.
 # Line breaks are significant.
 # Variables:

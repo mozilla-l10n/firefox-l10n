@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = ٹیگ شامل کرو
-
 pocket-panel-saved-error-generic = جݙاں { -pocket-brand-name } وِچ محفوظ کرݨ دی کوشش کیتی ڳئی تاں ہک نقص آڳئے۔
 pocket-panel-saved-error-tag-length = ٹیگز 25 حرفاں تائیں محدود ہن
 pocket-panel-saved-error-only-links = صرف لنک محفوط تھی سڳدے ہن
@@ -29,7 +28,6 @@ pocket-panel-saved-save-tags = محفوظ
 pocket-panel-saved-saving-tags = محفوظ کریندا پئے۔۔۔
 pocket-panel-saved-suggested-tags = تجویز شدہ ٹیگز
 pocket-panel-saved-tags-saved = ٹیگ شامل تھئے
-
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = ٹیگ شامل کرو:
 
@@ -44,7 +42,6 @@ pocket-panel-signup-signup-firefox = { -brand-product-name } نال سائن ا�
 pocket-panel-signup-tagline = { -brand-product-name }  کنوں مضمون تے وڈیوذ کوں ہتھیکڑا کرو تاں جو { -pocket-brand-name }  وِچ کہیں وی آلہ تے کہیں وی وقت نظارہ کر سڳو
 pocket-panel-signup-tagline-story-one = { -brand-product-name } کنوں کہیں وی مضمون، وڈیو کوں ہتھیکڑا کرݨ کیتے { -pocket-brand-name } دے بٹن تے کلک کرو۔
 pocket-panel-signup-tagline-story-two = { -pocket-brand-name } وچ نظارہ کرو کہیں وی آلہ تے، کہیں وی ویلھے۔
-
 pocket-panel-signup-cta-a-fix = انٹرنیٹ کیتے تہاݙا save button
 pocket-panel-signup-cta-b-updated = مضمون، وڈیوز تے لنکس ہتھکڑے کرݨ سانگے { -pocket-brand-name } تے کلک کرو۔ کہیں وی ڈیوائس تے کہیں وی ویلھے اپݨے ہتھیکڑے ݙیکھو۔
 pocket-panel-signup-cta-b-short = مضمون، وڈیوز تے لنکس ہتھیکڑے کرݨ سانگے { -pocket-brand-name } بٹن تے کلک کرو
@@ -57,7 +54,6 @@ pocket-panel-home-paragraph = تساں ویب ورقے، مضمون، ویڈیو
 pocket-panel-home-explore-popular-topics = مشہور عنوانات دریافت کرو
 pocket-panel-home-discover-more = ٻیاں لبھو
 pocket-panel-home-explore-more = پھلورو
-
 pocket-panel-home-most-recent-saves = اتھاں تہاݙیاں ستتیاں ہتھیکڑیاں ہن
 pocket-panel-home-most-recent-saves-loading = ستتیاں ہتھیکڑیاں لوݙ تھین٘دیاں پیاں ہن …
 pocket-panel-home-new-user-cta = مضمون، وݙیوز تے لنکس ہتھیکڑے کرݨ سانگے { -pocket-brand-name } بٹن تے کلک کرو۔

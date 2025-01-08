@@ -16,8 +16,6 @@ abuse-report-subtitle = 有什么问题？
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = 作者：<a data-l10n-name="author-name">{ $author-name }</a>
 abuse-report-learnmore = 不确定要选择哪项？<a data-l10n-name="learnmore-link">详细了解举报扩展与主题</a>
-abuse-report-learnmore-intro = 不确定要选择哪项？
-abuse-report-learnmore-link = 详细了解举报扩展与主题
 abuse-report-submit-description = 描述问题（选填）
 abuse-report-textarea =
     .placeholder = 如果有更多细节，我们就能更容易找到问题根源。请描述您遇到了哪些问题，也非常感谢您帮助我们保持网络健康。
@@ -44,24 +42,6 @@ abuse-report-messagebar-removed-sitepermission = 感谢您提交举报。已移�
 abuse-report-messagebar-removed-theme = 感谢您提交举报。已移除 <span data-l10n-name="addon-name">{ $addon-name }</span> 主题。
 abuse-report-messagebar-error = 发送 <span data-l10n-name="addon-name">{ $addon-name }</span> 的举报时，发生错误。
 abuse-report-messagebar-error-recent-submit = 由于最近发送过另一份举报，并未发送 <span data-l10n-name="addon-name">{ $addon-name }</span> 的举报。
-abuse-report-messagebar-aborted2 =
-    .message = 已取消举报 { $addon-name }。
-abuse-report-messagebar-submitting2 =
-    .message = 正在发送 { $addon-name } 的举报。
-abuse-report-messagebar-submitted2 =
-    .message = 感谢您提交举报。您想要移除“{ $addon-name }”吗？
-abuse-report-messagebar-submitted-noremove2 =
-    .message = 感谢您提交举报！
-abuse-report-messagebar-removed-extension2 =
-    .message = 感谢您提交举报。已移除 { $addon-name } 扩展。
-abuse-report-messagebar-removed-sitepermission2 =
-    .message = 感谢您提交举报。已移除 { $addon-name } 网站权限附加组件。
-abuse-report-messagebar-removed-theme2 =
-    .message = 感谢您提交举报。已移除 { $addon-name } 主题。
-abuse-report-messagebar-error2 =
-    .message = 发送 { $addon-name } 的举报时，发生错误。
-abuse-report-messagebar-error-recent-submit2 =
-    .message = 由于最近发送过另一份举报，并未发送 { $addon-name } 的举报。
 
 ## Message bars actions.
 

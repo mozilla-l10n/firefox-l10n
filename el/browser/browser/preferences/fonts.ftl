@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Γραμματοσειρές
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Γραμματοσειρές για
     .accesskey = Γ
-
 fonts-langgroup-arabic =
     .label = Αραβικά
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Μεταβλητού πλάτους
     .accesskey = Μ
-
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
-
 fonts-proportional-size = Μέγεθος
     .accesskey = γ
-
 fonts-serif = Serif
     .accesskey = S
-
 fonts-sans-serif = Sans-serif
     .accesskey = n
-
 fonts-monospace = Σταθερού πλάτους
     .accesskey = Σ
-
 fonts-monospace-size = Μέγεθος
     .accesskey = θ
-
 fonts-minsize = Ελάχιστο μέγεθος γραμματοσειράς
     .accesskey = ρ
-
 fonts-minsize-none =
     .label = Κανένα
-
 fonts-allow-own =
     .label = Να επιτρέπεται στις σελίδες να επιλέγουν τις δικές τους γραμματοσειρές, αντί για τις παραπάνω
     .accesskey = Ν
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

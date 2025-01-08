@@ -3,5 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 fxa-qrcode-error-title = যোৰকৰণ বিফল হ'ল।
-
 fxa-qrcode-error-body = পুনৰ চেষ্টা কৰক।

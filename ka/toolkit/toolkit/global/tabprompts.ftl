@@ -6,7 +6,6 @@ tabmodalprompt-username =
     .value = სახელი:
 tabmodalprompt-password =
     .value = პაროლი:
-
 tabmodalprompt-ok-button =
     .label = კარგი
 tabmodalprompt-cancel-button =

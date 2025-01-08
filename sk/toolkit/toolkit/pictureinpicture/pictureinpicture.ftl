@@ -7,6 +7,7 @@ pictureinpicture-player-title = Obraz v obraze
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -21,30 +22,24 @@ pictureinpicture-pause-btn =
 pictureinpicture-play-btn =
     .aria-label = Prehrať
     .tooltip = Prehrať (medzerník)
-
 pictureinpicture-mute-btn =
     .aria-label = Stlmiť
     .tooltip = Stlmiť ({ $shortcut })
 pictureinpicture-unmute-btn =
     .aria-label = Zrušiť stlmenie
     .tooltip = Zrušiť stlmenie ({ $shortcut })
-
 pictureinpicture-unpip-btn =
     .aria-label = Odoslať späť na kartu
     .tooltip = Späť na kartu
-
 pictureinpicture-close-btn =
     .aria-label = Zavrieť
     .tooltip = Zavrieť ({ $shortcut })
-
 pictureinpicture-subtitles-btn =
     .aria-label = Titulky
     .tooltip = Titulky
-
 pictureinpicture-fullscreen-btn2 =
     .aria-label = Na celú obrazovku
     .tooltip = Na celú obrazovku (dvojité kliknutie alebo { $shortcut })
-
 pictureinpicture-exit-fullscreen-btn2 =
     .aria-label = Ukončiť režim Na celú obrazovku
     .tooltip = Ukončiť režim Na celú obrazovku (dvojité kliknutie alebo { $shortcut })
@@ -63,7 +58,6 @@ pictureinpicture-toggle-fullscreen-shortcut =
 pictureinpicture-seekbackward-btn =
     .aria-label = Dozadu
     .tooltip = Dozadu (←)
-
 pictureinpicture-seekforward-btn =
     .aria-label = Dopredu
     .tooltip = Dopredu (→)
@@ -74,13 +68,8 @@ pictureinpicture-seekforward-btn =
 # a screen reader whenever a user opens the subtitles settings panel
 # after selecting the subtitles button.
 pictureinpicture-subtitles-panel-accessible = Nastavenia titulkov
-
 pictureinpicture-subtitles-label = Titulky
-
 pictureinpicture-font-size-label = Veľkosť písma
-
 pictureinpicture-font-size-small = Malé
-
 pictureinpicture-font-size-medium = Stredné
-
 pictureinpicture-font-size-large = Veľké

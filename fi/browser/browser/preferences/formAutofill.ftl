@@ -39,8 +39,6 @@ address-capture-manage-address-button =
     .label = Osoiteasetukset
 address-capture-learn-more-button =
     .label = Lue lisää
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Lisää uusi osoite
 address-capture-open-menu-button =
     .aria-label = Avaa valikko
 address-capture-edit-address-button =
@@ -49,10 +47,10 @@ address-capture-edit-address-button =
 autofill-add-address-title = Lisää osoite
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Muokkaa osoitetta
-autofill-address-name = Nimi
 autofill-address-given-name = Etunimi
 autofill-address-additional-name = Toinen nimi
 autofill-address-family-name = Sukunimi
+autofill-address-name = Nimi
 autofill-address-organization = Organisaatio
 autofill-address-street-address = Katuosoite
 autofill-address-street = Katuosoite
@@ -108,9 +106,8 @@ autofill-address-eircode = Eircode
 
 ##
 
-
-##
-
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Lisää uusi osoite
 autofill-address-country = Maa tai alue
 autofill-address-country-only = Maa
 autofill-address-tel = Puhelin
@@ -122,11 +119,6 @@ autofill-country-warning-message = Lomakkeiden automaattitäyttö on tällä het
 autofill-add-new-card-title = Lisää uusi luottokortti
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Muokkaa luottokorttia
-autofill-message-tooltip = Näytä automaattista täyttöä koskeva viesti
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-card-title = Lisää kortti
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title2 = Muokkaa korttia
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -135,6 +127,11 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } yrittää näyttää luottokorttitietoja. Vahvista tämän Windows-tilin käyttöoikeus alla.
        *[other] { -brand-short-name } yrittää esittää luottokorttitietoja.
     }
+autofill-message-tooltip = Näytä automaattista täyttöä koskeva viesti
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Lisää kortti
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Muokkaa korttia
 autofill-card-number = Luottokortti
 autofill-card-invalid-number = Kirjoita kelvollinen luottokortin numero
 autofill-card-name-on-card = Nimi kortissa

@@ -11,10 +11,8 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < M-bì~rè
     .accesskey = b
-
 wizard-macos-button-finish =
     .label = Tee looy
-
 wizard-macos-button-cancel =
     .label = B-láɁ=y
 wizard-linux-button-cancel =

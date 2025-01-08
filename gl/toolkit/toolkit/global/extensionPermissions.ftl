@@ -31,3 +31,7 @@ webext-perms-description-tabs = Acceder ás lapelas do navegador
 webext-perms-description-tabHide = Agochar e amosar as lapelas do navegador
 webext-perms-description-topSites = Acceder ao historial de navegación
 webext-perms-description-webNavigation = Acceder á actividade do navegador mentres navega
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

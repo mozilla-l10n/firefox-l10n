@@ -25,5 +25,6 @@ error-long-desc4 = Roboty majōm wyglancowane, metalowe zadki, kerych niy zdo si
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = I majōm plan.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = Sprōbuj jeszcze roz
     .label2 = Niy prziciskej zaś tego knefla.

@@ -34,7 +34,6 @@ certificate-viewer-value = Ti tatine'
 certificate-viewer-version = Tilax ivatz
 certificate-viewer-subject-name = Ib'ii u aq'one'
 certificate-viewer-validity = Ti tatine'
-
 # This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
 # Variables:
 #   $boolean (String) - true/false value for the specific field
@@ -47,7 +46,9 @@ certificate-viewer-boolean =
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
 
+
 ##
+
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 

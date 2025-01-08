@@ -5,14 +5,11 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = Xinɨ'ɨ ke'i cuenta
-
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected2 = Cuenta desconectada
-
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = Chu´un ichi nuu ntaka ka̱a̱
-
 # Menu item that links to the Firefox Accounts settings for connected devices.
 account-manage-devices = Tetiñu da ka̱a̱…
 
@@ -32,10 +29,8 @@ account-manage-devices-titlecase = Tetiñu da ka̱a̱…
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = Na íyo ka̱a̱ conectado
-
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = Kuni jie chu'un íchi pestañas...
-
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = Chu´un inka ka̱a̱
 
@@ -57,7 +52,6 @@ account-connection-connected = Nkajie´enu sesión vatu
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = Sukua { $deviceName }
-
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -68,4 +62,10 @@ account-single-tab-arriving-truncated-url = { $url }…
 ## multiple tabs another device or devices sent us to display.
 ## Variables:
 ##   $tabCount (Number): the number of tabs received
+
+
+## These strings are used in notifications in which the user remotely closed
+## tabs from other devices
+## Variables:
+##   $closedCount (Number): the number of tabs closed
 

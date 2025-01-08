@@ -3,12 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Note: This is currently placed under browser/base/content so that we can
-# get the strings to appear without having our localization community need
-# to go through and translate everything. Once these strings are ready for
-# translation, we'll move it to the locales folder.
-
-
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
@@ -27,7 +21,6 @@ webrtc-item-browser = ilmek
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Namalüm menşe
-
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -69,7 +62,6 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Üleşimni Muraqabe Et
 webrtc-indicator-menuitem-control-sharing-on =
     .label = “{ $streamTitle }” üzerinde Üleşimni muraqabe et
-
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Kamera “{ $streamTitle }” ile üleşile
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -78,7 +70,6 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Kamera { $tabCount } ilmek ile üleşile
            *[other] Kamera { $tabCount } ilmek ile üleşile
         }
-
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Mikrofon “{ $streamTitle }” ile üleşile
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -87,7 +78,6 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Mikrofon { $tabCount } ilmek ile üleşile
            *[other] Mikrofon { $tabCount } ilmek ile üleşile
         }
-
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Bir Uyğulama “{ $streamTitle }” ile üleşile
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -96,7 +86,6 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] Bir uyğulama { $tabCount } ilmek ile üleşile
            *[other] Uyğulamalar { $tabCount } ilmek ile üleşile
         }
-
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Ekran “{ $streamTitle }” ile üleşile
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -105,7 +94,6 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Ekran { $tabCount } ilmek ile üleşile
            *[other] Ekran { $tabCount } ilmek ile üleşile
         }
-
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Bir Pencere “{ $streamTitle }” ile üleşile
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -114,7 +102,6 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Bir Pencere { $tabCount } ilmek ile üleşile
            *[other] Pencereler { $tabCount } ilmek ile üleşile
         }
-
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Bir İlmek “{ $streamTitle }” ile üleşile
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -128,6 +115,9 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
+
+
+## Special phrasing for sharing devices when the origin is a file url.
 
 
 ## Variables:
@@ -161,7 +151,6 @@ webrtc-action-allow =
 ##
 
 webrtc-remember-allow-checkbox = Bu qararnı hatırla
-
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ekranıñızğa payidar irişimge izin beralmaz.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name }, angi ilmekniñ üleşilecegini soramadan ilmegiñizniñ audiosına payidar irişim izni beralmaz.
 webrtc-reason-for-no-permanent-allow-insecure = Bu saytqa bağlantıñız emniyetli degildir. Sizni imaye etmek içün, { -brand-short-name } faqat bu oturım boyunca irişimge izin berecek.

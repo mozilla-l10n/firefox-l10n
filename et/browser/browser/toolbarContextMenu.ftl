@@ -20,6 +20,8 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Vali kõik kaardid
     .accesskey = k
+# Variables
+#   $tabCount (number) - Number of tabs
 toolbar-context-menu-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -28,21 +30,18 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Ava suletud kaardid uuesti
         }
     .accesskey = v
-
 toolbar-context-menu-manage-extension =
     .label = Halda laiendust
     .accesskey = l
 toolbar-context-menu-remove-extension =
     .label = Eemalda laiendus
     .accesskey = i
-
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = Raporteeri laiendusest
     .accesskey = R
-
 # Can appear on the same context menu as toolbar-context-menu-menu-bar-cmd
 # ("Menu Bar") and personalbarCmd ("Bookmarks Toolbar"), so they should
 # have different access keys.
@@ -64,7 +63,6 @@ toolbar-context-menu-view-customize-toolbar =
 toolbar-context-menu-view-customize-toolbar-2 =
     .label = Kohanda tööriistariba…
     .accesskey = K
-
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = Kuvatakse alati
     .accesskey = a
@@ -74,11 +72,9 @@ toolbar-context-menu-bookmarks-toolbar-never-show-2 =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab-2 =
     .label = Kuvatakse ainult uuel kaardil
     .accesskey = u
-
 toolbar-context-menu-bookmarks-show-other-bookmarks =
     .label = Kuvatakse muude järjehoidjate nuppu
     .accesskey = m
-
 toolbar-context-menu-menu-bar-cmd =
     .toolbarname = Menüüriba
     .accesskey = M

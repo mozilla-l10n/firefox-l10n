@@ -10,10 +10,8 @@
 
 opensearch-error-duplicate-title = Quraşdırma səhvi
 opensearch-error-duplicate-desc = { -brand-short-name }, "{ $location-url }" qaynağındakı axtarış mühərriki quraşdırıla bilinmədi, çünki eyni adda axtarış mühərriki mövcuddur.
-
 opensearch-error-format-title = Format yanlışdır
 opensearch-error-format-desc = { -brand-short-name } axtarış mühərrikini { $location-url } keçidindən quraşdıra bilmədi
-
 opensearch-error-download-title = Endirmə Səhvi
 opensearch-error-download-desc = { -brand-short-name }, axtarış mühərriki əlavəsi bu qaynaqdan yüklənə bilinmədi: { $location-url }
 
@@ -21,11 +19,9 @@ opensearch-error-download-desc = { -brand-short-name }, axtarış mühərriki ə
 
 searchbar-submit =
     .tooltiptext = Axtarışı göndər
-
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = Axtar
-
 searchbar-icon =
     .tooltiptext = Axtar
 
@@ -33,4 +29,9 @@ searchbar-icon =
 ## Variables
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
+
+
+## Infobar shown when user is prompted to install search engine.
+## Variables
+## $engineName (String) - the name of the search engine to install.
 

@@ -11,7 +11,6 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Slědk
     .accesskey = l
-
 wizard-macos-button-next =
     .label = Pókšacowaś
     .accesskey = P
@@ -21,14 +20,12 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = Dalej >
     .accesskey = D
-
 wizard-macos-button-finish =
     .label = Dokóńcony
 wizard-linux-button-finish =
     .label = Dokóńcyś
 wizard-win-button-finish =
     .label = Dokóńcyś
-
 wizard-macos-button-cancel =
     .label = Pśetergnuś
 wizard-linux-button-cancel =

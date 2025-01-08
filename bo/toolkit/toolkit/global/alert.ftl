@@ -6,3 +6,6 @@ alert-close =
     .tooltiptext = བརྡ་འཕྲིན་འདི་ཁ་རྒྱག
 alert-settings-title =
     .tooltiptext = སྒྲིག་འགོད།
+
+## Reminder Notifications
+

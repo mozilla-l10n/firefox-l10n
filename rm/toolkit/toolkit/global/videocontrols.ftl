@@ -10,7 +10,6 @@ videocontrols-volume-control =
     .aria-label = Volumen
 videocontrols-closed-caption-button =
     .aria-label = Suttitels
-
 videocontrols-play-button =
     .aria-label = Far ir
 videocontrols-pause-button =
@@ -25,19 +24,20 @@ videocontrols-exitfullscreen-button =
     .aria-label = Sortir dal maletg entir
 videocontrols-casting-button-label =
     .aria-label = Trametter al monitur
+# .offlabel is processed by the video control custom element to be used
+# as a text-track label
 videocontrols-closed-caption-off =
     .offlabel = Deactivà
-
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Maletg-en-maletg
-
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = Statgar quest video
-
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer3 = Plirs visurs fan dapli plaschair. Fa ir quest video durant che ti fas anc insatge auter.
-
 videocontrols-error-aborted = Fermà il chargiar dal video.
 videocontrols-error-network = La reproducziun dal video è interrutta pervia dad ina errur da rait.
 videocontrols-error-decode = Impussibel da far ir il video perquai che la datoteca è donnegiada.
@@ -45,7 +45,6 @@ videocontrols-error-src-not-supported = Il format dal video u tip da MIME na veg
 videocontrols-error-no-source = Betg chattà in video cun in format e tip da MIME sustegnì.
 videocontrols-error-generic = Interrut la reproducziun dal video pervia d'ina errur nunenconuschenta.
 videocontrols-status-picture-in-picture = Quest video vegn reproducì en il modus maletg-en-maletg.
-
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -59,7 +58,6 @@ videocontrols-status-picture-in-picture = Quest video vegn reproducì en il modu
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
-
 # This is a plain text version of the videocontrols-position-and-duration-labels
 # string, used by screenreaders.
 #

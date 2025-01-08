@@ -67,14 +67,6 @@ fxviewtabrow-unmute-tab = 取消静音标签页
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
     .title = { $tabTitle } - 标签页选项
-# Variables:
-#   $tabTitle (string) - Title of tab being muted
-fxviewtabrow-mute-tab-button =
-    .title = 静音“{ $tabTitle }”
-# Variables:
-#   $tabTitle (string) - Title of tab being unmuted
-fxviewtabrow-unmute-tab-button =
-    .title = 取消静音“{ $tabTitle }”
 
 ## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
 

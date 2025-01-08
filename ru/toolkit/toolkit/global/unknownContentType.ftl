@@ -5,14 +5,12 @@
 unknowncontenttype-handleinternally =
     .label = Открыть с помощью { -brand-short-name }
     .accesskey = ы
-
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
             [windows] Параметры могут быть изменены в настройках { -brand-short-name }.
            *[other] Параметры могут быть изменены в настройках { -brand-short-name }.
         }
-
 unknowncontenttype-intro = Вы собираетесь открыть:
 unknowncontenttype-which-is = являющийся:
 unknowncontenttype-from = из

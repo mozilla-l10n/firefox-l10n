@@ -4,5 +4,4 @@
 
 restart-required-title = Nejika nakajie´e tuku
 restart-required-heading = Nakajie´e saa kuvi ni'i { -brand-short-name }
-
 restart-button-label = Nakajie´e { -brand-short-name }

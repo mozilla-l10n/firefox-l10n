@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Letra
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Letra tava
     .accesskey = L
-
 fonts-langgroup-arabic =
     .label = Arabic
 fonts-langgroup-armenian =
@@ -77,38 +75,24 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporcional
     .accesskey = P
-
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
-
 fonts-proportional-size = Kua
     .accesskey = K
-
 fonts-serif = Serif
     .accesskey = S
-
 fonts-sans-serif = Sans-serif
     .accesskey = n
-
 fonts-monospace = Monospace
     .accesskey = M
-
 fonts-monospace-size = Kua
     .accesskey = K
-
 fonts-minsize = Kua luu koo letra
     .accesskey = o
-
 fonts-minsize-none =
     .label = ni in'an
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

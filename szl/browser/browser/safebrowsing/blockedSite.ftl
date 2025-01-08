@@ -10,6 +10,8 @@ safeb-blocked-phishing-page-short-desc = { -brand-short-name } zaszperowoł ta s
 safeb-blocked-malware-page-short-desc = { -brand-short-name } zaszperowoł ta strōna, bo może prōbować zainstalować ôszydne programy do kasowanio abo kradniyńcio ôsobistych danych z tego kōmputra.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } zaszperowoł ta strōna, co może cie prōbować ôszydzić, tak co zainstalujesz programy, kere bydōm szkodzić twojimu przeglōndaniu (bez przikłod pozmiyniajōm daōmowo strōna abo bydōm pokazować wiyncyj reklam na nawiydzanych strōnach).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } zaszperowoł ta strōna, bo mogła prōbować instalować niybezpieczne aplikacyje, co kradnōm abo kasujōm twoje dane (bez przikłod zdjyńcia, hasła, wiadōmości i nōmery kredytowych kart).
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Dorady sōm wystawiōne ôd <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Nazod
 safeb-palm-see-details-label = Pokoż detajle

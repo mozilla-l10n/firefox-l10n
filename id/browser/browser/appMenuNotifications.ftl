@@ -37,7 +37,6 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Jangan Sekarang
     .secondarybuttonaccesskey = J
 appmenu-update-other-instance-message = Versi baru { -brand-shorter-name } tersedia, namun tidak dapat dipasang karena salinan { -brand-shorter-name } yang lain sedang berjalan. Tutup untuk melanjutkan pembaruan, atau pilih untuk tetap memperbarui (salinan lainnya mungkin tidak bekerja dengan benar hingga Anda memulai ulang).
-
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Oke
     .buttonaccesskey = O
@@ -45,7 +44,6 @@ appmenu-addon-post-install-message3 = Kelola pengaya dan tema Anda melalui menu 
 appmenu-addon-post-install-incognito-checkbox =
     .label = Izinkan ekstensi ini untuk berjalan di Jendela Pribadi
     .accesskey = I
-    
 appmenu-new-tab-controlled-changes =
     .label = Tab baru Anda telah berubah.
     .buttonlabel = Pertahankan Perubahan

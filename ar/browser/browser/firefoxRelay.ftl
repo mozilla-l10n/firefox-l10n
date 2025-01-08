@@ -9,7 +9,7 @@
 ##   $status (Number) - HTTP status code, for example 403
 
 
-##
+## The "control" variation of the Relay offer popup
 
 firefox-relay-get-unlimited-masks =
     .label = أدِر الأقنعة
@@ -20,3 +20,15 @@ firefox-relay-opt-in-title-1 = احمِ عنوان بريدك الإلكترون
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = استخدم قناع بريد { -relay-brand-name }
 firefox-relay-use-mask-title = استخدم قناع بريد { -relay-brand-name }
+
+## The "control" variation of the Relay offer popup
+
+
+## The "basic-info" variation of the Relay offer popup
+
+
+## The "with-domain" variation of the Relay offer popup
+
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+

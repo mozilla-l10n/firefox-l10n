@@ -54,7 +54,6 @@ close-tab =
     .title = Dùin an taba
 show-addon =
     .title = Seall ann am manaidsear nan tuilleadan
-
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded

@@ -6,8 +6,7 @@
 ### These strings are used inside the Debugger which is available from the Web
 ### Developer sub-menu -> 'Debugger', as well as in the "Paused Debugger
 ### Overlay" that is displayed in the content page when it pauses.
-
-
+###
 ### The correct localization of this file might be to keep it in
 ### English, or another language commonly spoken among web developers.
 ### You want to make that choice consistent across the developer tools.
@@ -17,47 +16,37 @@
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused due to a `debugger` statement in the code
 whypaused-debugger-statement = Curtha ar sos ag ráiteas dífhabhtaithe
-
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a breakpoint
 whypaused-breakpoint = Curtha ar sos ag brisphointe
-
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an exception
 whypaused-exception = Curtha ar sos ag eisceacht
-
 # The text that is displayed to describe an added node which triggers a subtree
 # modification
 whypaused-mutation-breakpoint-added = Curtha leis:
-
 # The text that is displayed to describe a removed node which triggers a subtree
 # modification
 whypaused-mutation-breakpoint-removed = Bainte:
-
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused while stepping in or out of the stack
 whypaused-resume-limit = Curtha ar sos le linn céimnithe
-
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a dom event
 whypaused-pause-on-dom-events = Curtha ar sos ag éisteoir teagmhais
-
 # The text that is displayed in an info block when evaluating a conditional
 # breakpoint throws an error
 whypaused-breakpoint-condition-thrown = Earráid le brisphointe coinníollach
-
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a promise rejection
 whypaused-promise-rejection = Curtha ar sos mar gheall ar ghealltanas diúltaithe
-
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an assert
 whypaused-assert = Curtha ar sos ag dearbhú
-
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a debugger statement
 whypaused-debug-command = Curtha ar sos ag feidhm dhífhabhtaithe
-
-# The text that is displayed in a info block explaining how the debugger is
-# currently paused on an event listener breakpoint set
+# The text that is displayed in a info block saying that the debugger is currently paused
+# without other precision. This is also used in the overlay we show in the page when
+# the page is paused.
 whypaused-other = Cuireadh an dífhabhtóir ar sos

@@ -59,8 +59,6 @@ sidebar-description = Benader eenvoudig uw geschiedenis, tabbladen van andere ap
 vertical-tabs-title =
     .label = Verticale tabbladen
 vertical-tabs-description = Verplaats uw tabbladen van de bovenkant van de browser naar de zijkant. Vereist dat u ook de zijbalk probeert. <a data-l10n-name="connect">Feedback delen</a>
-experimental-features-group-browsing =
-    .label = Navigeren
 experimental-features-group-developer-tools =
     .label = Ontwikkelaarshulpmiddelen
 experimental-features-group-webpage-display =

@@ -6,8 +6,7 @@
 ### These strings are used inside the Debugger which is available from the Web
 ### Developer sub-menu -> 'Debugger', as well as in the "Paused Debugger
 ### Overlay" that is displayed in the content page when it pauses.
-
-
+###
 ### The correct localization of this file might be to keep it in
 ### English, or another language commonly spoken among web developers.
 ### You want to make that choice consistent across the developer tools.
@@ -17,8 +16,6 @@
 # The text that is displayed to describe an added node which triggers a subtree
 # modification
 whypaused-mutation-breakpoint-added = එක් කෙරිණි:
-
 # The text that is displayed to describe a removed node which triggers a subtree
 # modification
 whypaused-mutation-breakpoint-removed = ඉවත් කෙරිණි:
-

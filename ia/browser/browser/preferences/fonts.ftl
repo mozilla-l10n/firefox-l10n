@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Typos de litteras
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Typos de litteras pro
     .accesskey = T
-
 fonts-langgroup-arabic =
     .label = Arabe
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proportional
     .accesskey = P
-
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
-
 fonts-proportional-size = Dimension
     .accesskey = D
-
 fonts-serif = Serif
     .accesskey = S
-
 fonts-sans-serif = Sans-serif
     .accesskey = n
-
 fonts-monospace = Monospatio
     .accesskey = M
-
 fonts-monospace-size = Dimension
     .accesskey = i
-
 fonts-minsize = Dimension minime de litteras
     .accesskey = o
-
 fonts-minsize-none =
     .label = Nulle
-
 fonts-allow-own =
     .label = Permitter que le paginas elige lor proprie typos de litteras, in vice de tu selectiones supra
     .accesskey = A
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

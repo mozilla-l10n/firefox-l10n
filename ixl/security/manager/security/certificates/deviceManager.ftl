@@ -18,4 +18,3 @@ devinfo-hwversion =
     .label = Tilax ivatz HW
 devinfo-fwversion =
     .label = Tilax ivatz FW
-

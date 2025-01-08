@@ -4,18 +4,15 @@
 
 password-not-set =
     .value = (nije postavljeno)
-
 pw-change-success-title = Lozinka je uspješno promijenjena
 pw-change-failed-title = Neuspješna izmjena lozinke
 pw-remove-button =
     .label = Ukloni
-
 set-password-old-password = Trenutna lozinka:
 set-password-new-password = Unesite novu lozinku:
 set-password-reenter-password = Ponovo unesite lozinku:
 set-password-meter = Mjerač kvaliteta lozinke
 set-password-meter-loading = Učitavanje
-
 remove-info =
     .value = Za nastavak morate unijeti vašu trenutnu lozinku:
 remove-password-old-password =

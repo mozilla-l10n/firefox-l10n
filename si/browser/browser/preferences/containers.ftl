@@ -10,10 +10,8 @@ containers-window-new2 =
 containers-window-update-settings2 =
     .title = { $name } අඩංගුවේ සැකසුම්
     .style = min-width: 45em
-
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -24,26 +22,20 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-
 containers-name-label = නම
     .accesskey = N
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = අඩංගුවට නමක් යොදන්න
-
 containers-icon-label = නිරූපකය
     .accesskey = I
     .style = { -containers-labels-style }
-
 containers-color-label = වර්ණය
     .accesskey = o
     .style = { -containers-labels-style }
-
 containers-dialog =
     .buttonlabelaccept = අහවරයි
     .buttonaccesskeyaccept = D
-
 containers-color-blue =
     .label = නිල්
 containers-color-turquoise =
@@ -62,7 +54,6 @@ containers-color-purple =
     .label = දම්
 containers-color-toolbar =
     .label = මෙව. තීරුවට ගළපන්න
-
 containers-icon-fence =
     .label = වැට
 containers-icon-fingerprint =

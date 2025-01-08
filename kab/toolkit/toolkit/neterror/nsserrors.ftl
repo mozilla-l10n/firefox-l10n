@@ -10,13 +10,11 @@
 
 psmerr-ssl-disabled = Tuqqna taɣelsant d tawezɣit acku aneggaf SSL itturermed.
 psmerr-ssl2-disabled = Tuqqna taɣelsant d tawezɣit acku asmel-agi seqdac aneggaf SSL aqbuṛ u d araɣelsan.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Tremseḍ-d aselkin aruɣbil. Ma ulac aɣilif, nermes anedbal n uqeddac neɣ amneɣru n yimayl rnu mudd-asen talɣut-agi:
     
     Aselkin-inek igber uṭṭun n uzrir am uselkin nniḍen i d-yefka udabu n uselkin. Ma ulac aɣilif, awi-d aselkin amaynut s wuṭṭun n uzrir asuf.
-
 ssl-error-export-only-server = Ur izmir ara ad iselɣu s wudem aɣelsan. Ayugan ur isefrak ara awgelhen n uswir aɛlayan.
 ssl-error-us-only-server = Ur izmir ara ad iselɣu s wudem aɣelsan. Ayugan isra awgelhen n uswir aɛlayan ur nettusefrak ara.
 ssl-error-no-cypher-overlap = Ur izmir ara ad iselɣu s wudem aɣlsan d uyugan: Ulac alguritm n uwgelhen unmim.
@@ -153,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = Alguritm n uzmel TLS ur nettusefrak
 ssl-error-unsupported-signature-algorithm = Ayugan iseqdec tuddsa n ulguritm n uzmel akked udway.
 ssl-error-missing-extended-master-secret = Ayugan yettaɛraḍ ad ikemmel s war asiɣzef extended_master_secret ameɣtu.
 ssl-error-unexpected-extended-master-secret = Ayugan yettaɛraḍ ad ikemmel s usiɣzef arussin extended_master_secret.
-
 sec-error-io = Tuccḍa kcem/ffeɣ teḍra-d deg usireg n tɣellist.
 sec-error-library-failure = Tuccḍa n temkaṛḍit n tɣellist.
 sec-error-bad-data = tamkaṛḍit n tɣellist: iremsed yir isefka.
@@ -320,7 +317,6 @@ sec-error-locked-password = Awal uffir yeskweṛ.
 sec-error-unknown-pkcs11-error = Tuccḍa PKCS #11 tarussint.
 sec-error-bad-crl-dp-url = URL arameɣtu neɣ ur ittusefrak ara deg isem n wagaz n uwziwez CRL.
 sec-error-cert-signature-algorithm-disabled = Aselkin ittuzmel s ulguritm n uzmul yettwassens acku d araɣelsan.
-
 mozilla-pkix-error-key-pinning-failure = Aqeddac iseqdac "key pinning" (HPKp) acu kan ula d yiwen n izirig ur iger taflest deg iselkan
 mozilla-pkix-error-ca-cert-used-as-end-entity = Aqeddac yesseqdac aselkin s uziɣzef n tmara taḥerfit i t-id-yemmalen am udabu n uselken. Deg iselkan i d-ittunefken akken iwata, aya mačči d ameɣtu.
 mozilla-pkix-error-inadequate-key-size = Aqeddac imudd-d aselkin ideg teɣzi n tsarut meẓẓiyet aṭas akken ad yessenker tuqqna.
@@ -335,11 +331,9 @@ mozilla-pkix-error-invalid-integer-encoding = Aqeddac imudd-d aselkin igebren as
 mozilla-pkix-error-empty-issuer-name = Aqeddac imudd-d aselkin s yisem n udabu ilem.
 mozilla-pkix-error-additional-policy-constraint-failed = Tamara n testratijit-nniḍen tecceḍ deg usentem n uselkin-agi.
 mozilla-pkix-error-self-signed-cert = Aselkin-agi ur yettwaman ara acku d uzmilman.
-
 xp-java-remove-principal-error = Ur izmir ara ad yekkes agejdan.
 xp-java-delete-privilege-error = Ur izmir ara ad yekkes taseglut
 xp-java-cert-not-exists-error = Agejdan-agi ur ɣur-s ara aselkin
-
 xp-sec-fortezza-bad-card = Takarḍa Fortezza ur tettuwennez ara akken iwata. Ma ulac aɣilif, kkes-itt sakin rri-tt i win ik t-id-yefkan.
 xp-sec-fortezza-no-card = Ula d yiwet n takarḍa Fortezza ur tettwaf
 xp-sec-fortezza-none-selected = Ula d yiwet n takarḍa Fortezza ur tefrin

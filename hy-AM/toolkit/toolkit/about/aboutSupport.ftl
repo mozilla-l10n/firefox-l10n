@@ -334,6 +334,9 @@ policies-error = Սխալ
 support-printing-title = Տպում է
 support-printing-troubleshoot = Խափանաշտկում
 
+## Remote Settings sections
+
+
 ## Normandy sections
 
 

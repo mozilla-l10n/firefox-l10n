@@ -26,4 +26,3 @@ compatibility-target-browsers-header = ඉලක්කගත අතිරික�
 
 compatibility-close-settings-button =
     .title = සැකසුම් වසන්න
-

@@ -69,15 +69,8 @@ fonts-default-serif =
     .label = سیریف
 fonts-default-sans-serif =
     .label = سینس سیریف
-
 fonts-minsize-none =
     .label = كہین نئ
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

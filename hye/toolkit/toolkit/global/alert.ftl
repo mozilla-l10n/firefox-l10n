@@ -6,3 +6,6 @@ alert-close =
     .tooltiptext = Փակէք այս ծանուցումը
 alert-settings-title =
     .tooltiptext = Կարգաւորումներ
+
+## Reminder Notifications
+

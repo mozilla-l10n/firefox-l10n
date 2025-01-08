@@ -6,10 +6,6 @@
 ## The title and aria-label attributes are used by screen readers to describe
 ## the Downloads Panel.
 
-downloads-window =
-    .title = ഡൌണ്‍ലോടുകള്‍
-downloads-panel =
-    .aria-label = ഡൌണ്‍ലോടുകള്‍
 
 ##
 
@@ -50,15 +46,10 @@ downloads-cmd-show-description-2 =
             [macos] അറയിൽ കാണിക്കുക
            *[other] അറയിൽ കാണിക്കുക
         }
-downloads-cmd-show-downloads =
-    .label = ഡൌൺലോഡ്സ് ഫോൾഡർ കാണിക്കുക
 downloads-cmd-retry =
     .tooltiptext = വീണ്ടും ശ്രമിയ്ക്കുക
 downloads-cmd-retry-panel =
     .aria-label = വീണ്ടും ശ്രമിയ്ക്കുക
-downloads-cmd-go-to-download-page =
-    .label = ഡൌണ്‍ലോഡ് താളിലേക്കു് പോകുക
-    .accesskey = G
 downloads-cmd-copy-download-link =
     .label = ഡൌണ്‍ലോഡ് കണ്ണി പകര്‍ത്തുക
     .accesskey = L

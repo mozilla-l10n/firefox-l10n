@@ -207,7 +207,9 @@ mr2022-onboarding-set-default-subtitle = ලාභ නොලබන පිටු�
 mr2022-onboarding-get-started-primary-subtitle = අපගේ නවතම අනුවාදය ඔබ වෙනුවෙන්ම තනන ලදි. වියමන පුරා වේගයෙන් සැරිසැරීමට අන් කවරදාටත් වඩා පහසු කරයි. ඔබ ඇලුම් කරනු ඇතැයි සිතන විශේෂාංග වලින් පුරවා ඇත.
 mr2022-onboarding-get-started-primary-button-label = තත්පර කිහිපයකින් සකසන්න
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-subtitle = ඔබ කැමති ආකාරයට { -brand-short-name } සකසන්න. ඔබගේ පරණ අතිරික්සුවෙන් පොත්යොමු, මුරපද සහ තවත් දෑ එක් කරන්න.
 mr2022-onboarding-import-primary-button-label-no-attribution = කලින් අතිරික්සුවෙන් ආයාත කරන්න
@@ -326,4 +328,10 @@ onboarding-genai-sidebar-title = පැති තීරුවේ AI කතා �
 onboarding-genai-sidebar-primary-button = කතා ක්‍රමලේඛයක් තෝරන්න
 
 ## New user onboarding checklist
+
+
+## Tab Groups feature onboarding strings
+
+
+## Multi Profiles feature onboarding messages
 

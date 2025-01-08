@@ -21,7 +21,6 @@
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Mida de la memòria intermèdia:
-
 perftools-devtools-interval-label = Interval:
 perftools-devtools-settings-label = Paràmetres
 
@@ -49,20 +48,21 @@ perftools-button-edit-settings = Edita els paràmetres…
 
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
-## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
-## preferences are true.
-
-## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
+
 
 ## Profiler presets
 
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/popup/background.jsm.js
-# The same labels and descriptions are also defined in appmenu.ftl.
 
 # Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/shared/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+
 ##
+

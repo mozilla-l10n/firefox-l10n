@@ -5,53 +5,40 @@
 permissions-window2 =
     .title = İstisnalar
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Ağ-saytı adresi
     .accesskey = d
-
 permissions-block =
     .label = Blokla
     .accesskey = B
-
 permissions-session =
     .label = Oturım içün İzin Ber
     .accesskey = O
-
 permissions-allow =
     .label = İzin Ber
     .accesskey = z
-
 permissions-site-name =
     .label = Ağ-saytı
-
 permissions-status =
     .label = Status
-
 permissions-remove =
     .label = Saytnı Çetleştir
     .accesskey = S
-
 permissions-remove-all =
     .label = Saytlarnıñ Episini Çetleştir
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = Deñişikliklerni Saqla
     .buttonaccesskeyaccept = S
-
 permissions-searchbox =
     .placeholder = Ağ-saytı Qıdır
-
 permissions-capabilities-allow =
     .label = İzin Ber
 permissions-capabilities-block =
     .label = Blokla
 permissions-capabilities-prompt =
     .label = Er Zaman Sora
-
 permissions-capabilities-listitem-allow =
     .value = İzin Ber
 permissions-capabilities-listitem-block =
@@ -90,6 +77,9 @@ permissions-exceptions-saved-logins-window2 =
     .title = İstisnalar - Saqlanğan İçeri İmzalanışlar
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Aşağıdaki saytlar içün içeri-imzalanışlar saqlanmaycaq
+
+## Exceptions - Saved Passwords
+
 
 ## Exceptions - Add-ons
 

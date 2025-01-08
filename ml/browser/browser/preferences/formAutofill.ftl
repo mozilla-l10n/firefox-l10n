@@ -7,21 +7,16 @@
 
 autofill-manage-addresses-title = സംരക്ഷിച്ച വിലാസങ്ങള്‍
 autofill-manage-addresses-list-header = വിലാസങ്ങള്‍
-
 autofill-manage-credit-cards-title = സംരക്ഷിച്ച ക്രെഡിറ്റ് കാര്‍ഡുകള്‍
 autofill-manage-credit-cards-list-header = ക്രെഡിറ്റ് കാര്‍ഡുകള്‍
-
 autofill-manage-remove-button = നീക്കം ചെയ്യുക
 autofill-manage-add-button = ചേര്‍ക്കുക…
 autofill-manage-edit-button = തിരുത്തുക…
 
-##
+## The address capture doorhanger
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = പുതിയ വിലാസം ചേര്‍ക്കുക
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = വിലാസം തിരുത്തുക
-
 autofill-address-given-name = ആദ്യ പേര്
 autofill-address-additional-name = നടുവിലുള്ള പേര്
 autofill-address-family-name = അവസാന പേര്
@@ -47,18 +42,17 @@ autofill-address-zip = സിപ്പ് കോഡ്
 
 ##
 
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = പുതിയ വിലാസം ചേര്‍ക്കുക
 autofill-address-country = രാജ്യം അല്ലെങ്കില്‍ മേഖല
 autofill-address-tel = ഫോണ്‍
 autofill-address-email = ഇ-മെയില്‍
-
 autofill-cancel-button = റദ്ദാക്കുക
 autofill-save-button = സംരക്ഷിക്കുക
-
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = പുതിയ ക്രെഡിറ്റ് കാര്‍ഡ് ചേര്‍ക്കുക
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = ക്രെഡിറ്റ് കാര്‍ഡ് തിരുത്തുക
-
 autofill-card-number = കാര്‍ഡ് നമ്പര്‍
 autofill-card-name-on-card = കാര്‍ഡിലെ പേര്
 

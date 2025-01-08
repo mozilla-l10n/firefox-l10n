@@ -12,20 +12,6 @@ about-reader-color-scheme-sepia = Sepia
     .title = Esquema de color sepia
 about-reader-color-scheme-auto = Auto
     .title = Esquema de color automático
-about-reader-color-theme-light = Claro
-    .title = Tema de color claro
-about-reader-color-theme-dark = Oscuro
-    .title = Tema de color oscuro
-about-reader-color-theme-sepia = Sepia
-    .title = Tema de color sepia
-about-reader-color-theme-auto = Auto
-    .title = Tema de color automático
-about-reader-color-theme-gray = Gris
-    .title = Tema de color gris
-about-reader-color-theme-contrast = Contraste
-    .title = Tema con alto contraste
-about-reader-color-theme-custom = Colores personalizados
-    .title = Tema con colores personalizados
 about-reader-color-light-theme = Claro
     .title = Tema claro
 about-reader-color-dark-theme = Oscuro
@@ -49,7 +35,7 @@ about-reader-estimated-read-time =
        *[other] { $range } minutos
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = Disminuir tamaño de fuente
@@ -74,7 +60,6 @@ about-reader-font-type-monospace = Monoespaciado
 
 about-reader-toolbar-close = Cerrar vista de lectura
 about-reader-toolbar-type-controls = Controles de tipografía
-about-reader-toolbar-color-controls = Colores
 about-reader-toolbar-text-layout-controls = Texto y disposición
 about-reader-toolbar-theme-controls = Tema
 about-reader-toolbar-savetopocket = Guardar en { -pocket-brand-name }
@@ -99,10 +84,9 @@ about-reader-custom-colors-visited-links = Enlaces visitados
     .title = Editar color
 about-reader-custom-colors-selection-highlight = Resaltador para leer en voz alta
     .title = Editar color
-about-reader-custom-colors-reset-button = Restablecer predeterminados
 about-reader-reset-button = Restablecer predeterminados
 
-## Reader View improved text and layout menu
+## Reader View text and layout menu
 
 about-reader-text-header = Texto
 about-reader-text-size-label = Tamaño del texto
@@ -119,9 +103,6 @@ about-reader-content-width-label =
 about-reader-line-spacing-label =
     .label = Espaciado entre líneas
 about-reader-advanced-layout-header = Avanzado
-about-reader-slider-label-width-narrow = Estrecho
-about-reader-slider-label-width-wide = Ancho
-about-reader-slider-label-spacing-narrow = Estrecho
 about-reader-character-spacing-label =
     .label = Espaciado entre caracteres
 about-reader-word-spacing-label =

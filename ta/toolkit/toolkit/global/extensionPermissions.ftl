@@ -28,3 +28,7 @@ webext-perms-description-tabs = உலாவியின் கீற்று�
 webext-perms-description-tabHide = உலாவி கீற்றுகளை மறைத்து காண்பி
 webext-perms-description-topSites = உலாவல் வரலாற்றை அணுக
 webext-perms-description-webNavigation = வழிசெலுத்தும் போது உலாவி செயல்பாட்டை அணுகவும்
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

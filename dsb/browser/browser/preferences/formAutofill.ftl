@@ -39,8 +39,6 @@ address-capture-manage-address-button =
     .label = Adresowe nastajenja
 address-capture-learn-more-button =
     .label = Dalšne informacije
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Nowu adresu pśidaś
 address-capture-open-menu-button =
     .aria-label = Meni wócyniś
 address-capture-edit-address-button =
@@ -49,10 +47,10 @@ address-capture-edit-address-button =
 autofill-add-address-title = Adresu pśidaś
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Adresu wobźěłaś
-autofill-address-name = Mě
 autofill-address-given-name = Pśedmě
 autofill-address-additional-name = Druge pśedmě
 autofill-address-family-name = Familijowe mě
+autofill-address-name = Mě
 autofill-address-organization = Organizacija
 autofill-address-street-address = Adresa drogi
 autofill-address-street = Adresa drogi
@@ -108,9 +106,8 @@ autofill-address-eircode = Eircode
 
 ##
 
-
-##
-
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Nowu adresu pśidaś
 autofill-address-country = Kraj abo region
 autofill-address-country-only = Kraj
 autofill-address-tel = Telefon
@@ -122,11 +119,6 @@ autofill-country-warning-message = Awtomatiske wupołnjenje formularow jo tuchyl
 autofill-add-new-card-title = Nowu kreditowu kórtu pśidaś
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Kreditowu kórtu wobźěłaś
-autofill-message-tooltip = Powěźeńku wó awtomatiskem wupołnjenju pokazaś
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-card-title = Kórtu pśidaś
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title2 = Kórtu wobźěłaś
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -135,6 +127,11 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } wopytujo, daty kreditneje kórty pokazaś. Wobkšuśćo pśistup k Windowsowemu kontoju dołojce.
        *[other] { -brand-short-name } wopytujo, daty kreditneje kórty pokazaś.
     }
+autofill-message-tooltip = Powěźeńku wó awtomatiskem wupołnjenju pokazaś
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Kórtu pśidaś
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Kórtu wobźěłaś
 autofill-card-number = Numer kórty
 autofill-card-invalid-number = Pšosym zapódajśo płaśiwy kórtowy numer
 autofill-card-name-on-card = Mě na kórśe

@@ -30,8 +30,6 @@ about-webrtc-aec-logging-toggled-off-state-msg = Kapturatutako erregistro-fitxat
 
 # The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Automatikoki berritu
-# Determines the default state of the Auto Refresh check boxes
-about-webrtc-auto-refresh-default-label = Berritu automatikoki lehenespenez
 # A button which forces a refresh of displayed statistics
 about-webrtc-force-refresh-button = Berritu
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
@@ -184,6 +182,13 @@ about-webrtc-configuration-element-provided = Hornitua
 about-webrtc-configuration-element-not-provided = Ez hornitua
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Erabiltzaileak ezarritako WebRTC hobespenak
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+
+##
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Zenbatetsitako banda zabalera
 # The ID of the MediaStreamTrack
@@ -205,10 +210,7 @@ about-webrtc-round-trip-time-ms = RTT ms
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Bideoko markoen estatistikak - MediaStreamTrack IDa: { $track-identifier }
 
-## These are paths used for saving the about:webrtc page or log files so
-## they can be attached to bug reports.
-## Variables:
-##  $path (String) - The path to which the file is saved.
+##
 
 about-webrtc-save-page-msg = orria hona gordeta: { $path }
 about-webrtc-debug-mode-off-state-msg = trazaren erregistroa hemen aurki daiteke: { $path }
@@ -290,9 +292,6 @@ about-webrtc-sdp-set-timestamp = Denbora-marka { NUMBER($timestamp, useGrouping:
 
 about-webrtc-show-msg-sdp = Erakutsi SDPa
 about-webrtc-hide-msg-sdp = Ezkutatu SDPa
-
-##
-
 
 ## These are displayed on the button that shows or hides the Media Context information disclosure.
 ## The Media Context is the set of preferences and detected capabilities that informs

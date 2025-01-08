@@ -9,6 +9,7 @@
 
 ## These labels are for a disclosure which contains the information for closed PeerConnection sections
 
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = AEC Logging
@@ -16,7 +17,6 @@ about-webrtc-aec-logging-off-state-label = Start AEC Logging
 about-webrtc-aec-logging-on-state-label = Ngót~tòɁ AEC Logging
 
 ##
-
 
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
@@ -44,9 +44,6 @@ about-webrtc-ice-state = ICE State
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = ICE Stats
 
-## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
 ## connection.
@@ -54,12 +51,10 @@ about-webrtc-ice-stats-heading = ICE Stats
 
 ##
 
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = B-šèn
-
 about-webrtc-save-page-label = Mb-lòɁ sóg loo kúb
 about-webrtc-debug-mode-msg-label = Debug Mode
 about-webrtc-debug-mode-off-state-label = Start Debug Mode
@@ -82,6 +77,7 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (TòɁw=
 ## Variables:
 ##  $codecs - a list of media codecs
 
+
 ##
 
 
@@ -91,12 +87,15 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (TòɁw=
 ## These are displayed on the button that shows or hides the
 ## PeerConnection configuration disclosure
 
+
 ##
 
-## These are paths used for saving the about:webrtc page or log files so
-## they can be attached to bug reports.
-## Variables:
-##  $path (String) - The path to which the file is saved.
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+
+##
 
 
 ##
@@ -108,15 +107,11 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (TòɁw=
 
 ## These are displayed on the button that shows or hides the SDP information disclosure
 
+
 ## These are displayed on the button that shows or hides the Media Context information disclosure.
 ## The Media Context is the set of preferences and detected capabilities that informs
 ## the negotiated CODEC settings.
 
-##
 
 ##
-
-
-##
-
 

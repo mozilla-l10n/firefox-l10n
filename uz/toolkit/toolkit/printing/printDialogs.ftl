@@ -103,7 +103,6 @@ print-window =
     .title = Chop qilinmoqda
 print-complete =
     .value = Chop qilish tugadi.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

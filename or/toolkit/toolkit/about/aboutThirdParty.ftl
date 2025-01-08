@@ -4,4 +4,3 @@
 
 third-party-button-expand =
     .title = ବିସ୍ତୃତ ସୂଚନା ଦେଖାନ୍ତୁ
-

@@ -18,8 +18,6 @@ abuse-report-addon-authored-by = por <a data-l10n-name="author-name">{ $author-n
 abuse-report-learnmore =
     Non sabe que problema seleccionar?
     <a data-l10n-name="learnmore-link">Saiba máis sobre como denunciar extensións e temas</a>
-abuse-report-learnmore-intro = Non sabe que problema seleccionar?
-abuse-report-learnmore-link = Saiba máis sobre como denunciar extensións e temas
 abuse-report-submit-description = Describa o problema (opcional)
 abuse-report-textarea =
     .placeholder = É máis fácil para nós resolver un problema se contamos cos detalles. Describa o que está a experimentar. Grazas por axudarnos a manter o web san.
@@ -48,24 +46,6 @@ abuse-report-messagebar-removed-sitepermission = Grazas por enviar un informe. E
 abuse-report-messagebar-removed-theme = Grazas por enviar un informe. Eliminou o tema <span data-l10n-name = "addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Houbo un erro ao enviar o informe sobre <span data-l10n-name = "addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = O informe sobre <span data-l10n-name = "addon-name">{ $addon-name }</span> non foi enviado porque outro informe foi enviado recentemente.
-abuse-report-messagebar-aborted2 =
-    .message = Cancelouse o informe para <span data-l10n-name = "addon-name"> { $addon-name }.
-abuse-report-messagebar-submitting2 =
-    .message = Enviando un informe para <span data-l10n-name = "addon-name"> { $addon-name }.
-abuse-report-messagebar-submitted2 =
-    .message = Grazas por enviar un informe. Quere eliminar <span data-l10n-name = "addon-name">{ $addon-name }?
-abuse-report-messagebar-submitted-noremove2 =
-    .message = Grazas por enviar un informe.
-abuse-report-messagebar-removed-extension2 =
-    .message = Grazas por enviar un informe. Eliminou a extensión <span data-l10n-name = "addon-name">{ $addon-name }.
-abuse-report-messagebar-removed-sitepermission2 =
-    .message = Grazas por enviar un informe. Eliminou a extensión de permisos do sitio <span data-l10n-name = "addon-name">{ $addon-name }.
-abuse-report-messagebar-removed-theme2 =
-    .message = Grazas por enviar un informe. Eliminou o tema <span data-l10n-name = "addon-name">{ $addon-name }.
-abuse-report-messagebar-error2 =
-    .message = Houbo un erro ao enviar o informe sobre <span data-l10n-name = "addon-name">{ $addon-name }.
-abuse-report-messagebar-error-recent-submit2 =
-    .message = O informe sobre <span data-l10n-name = "addon-name">{ $addon-name } non foi enviado porque outro informe foi enviado recentemente.
 
 ## Message bars actions.
 

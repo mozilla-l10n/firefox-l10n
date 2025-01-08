@@ -5,62 +5,47 @@
 permissions-window2 =
     .title = ব্যতিক্রম
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = ওয়েবসাইটের ঠিকানা
     .accesskey = d
-
 permissions-block =
     .label = প্রতিরোধ করা হবে
     .accesskey = B
-
 permissions-session =
     .label = সেশনের জন্য অনুমোদন করা হবে
     .accesskey = S
-
 permissions-allow =
     .label = অনুমোদন
     .accesskey = A
-
 permissions-site-name =
     .label = ওয়েবসাইট
-
 permissions-status =
     .label = অবস্থা
-
 permissions-remove =
     .label = ওয়েবসাইট অপসারণ
     .accesskey = R
-
 permissions-remove-all =
     .label = সব ওয়েবসাইট অপসারণ কর
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = পরিবর্তন সংরক্ষণ
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = সব ওয়েবসাইটের জন্য ডিফল্ট:
-
 permissions-searchbox =
     .placeholder = ওয়েবসাইট খুঁজুন
-
 permissions-capabilities-autoplay-allow =
     .label = অডিও ও ভিডিও অনুমোদন দিন
 permissions-capabilities-autoplay-block =
     .label = অডিও ব্লক
 permissions-capabilities-autoplay-blockall =
     .label = অডিও ও ভিডিও ব্লক
-
 permissions-capabilities-allow =
     .label = অনুমোদন করা হবে
 permissions-capabilities-block =
     .label = প্রতিরোধ করা হবে
 permissions-capabilities-prompt =
     .label = সর্বদা জিজ্ঞাসা কর
-
 permissions-capabilities-listitem-allow =
     .value = অনুমোদন করা হবে
 permissions-capabilities-listitem-block =
@@ -102,6 +87,9 @@ permissions-exceptions-saved-logins-window2 =
     .title = ব্যতিক্রম - সংরক্ষিত লগইন
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = নিম্নলিখিত ওয়েবসাইটে লগইনগুলি সংরক্ষণ করা হবে না
+
+## Exceptions - Saved Passwords
+
 
 ## Exceptions - Add-ons
 

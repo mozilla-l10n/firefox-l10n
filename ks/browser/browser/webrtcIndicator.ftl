@@ -3,12 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Note: This is currently placed under browser/base/content so that we can
-# get the strings to appear without having our localization community need
-# to go through and translate everything. Once these strings are ready for
-# translation, we'll move it to the locales folder.
-
-
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
@@ -25,7 +19,6 @@ webrtc-item-window = (وینڈو%1$S
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = نامعلوم آریجن
-
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -65,37 +58,34 @@ webrtc-indicator-menuitem-control-sharing =
     .label = شییرینگ کْریو کنٹرول
 webrtc-indicator-menuitem-control-sharing-on =
     .label = پیٹھ کْریو کنٹرول شییر کرُن "{ $streamTitle }"
-
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = سْیت کیمرا شییر کران "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
     .label = ٹیبس سْیت کیمرا شییر کران؛ { $tabCount } ٹیبن سْیت کیمرا شییر کران { $tabCount }
-
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = سْیت مایکروفون شییر کران "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
     .label = ٹیبس سْیت مایکروفون شییر کران؛ { $tabCount } ٹیبن سْیت مایکروفون  شییر کران { $tabCount }
-
 webrtc-indicator-menuitem-sharing-application-with =
     .label = سْیت اکھ ایپلیکیشن شییر کران "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
     .label = ٹیبس سْیت اکھ ایپلیکیشن شییر کران؛ { $tabCount } ٹیبن سْیت ایپلیکیشنْہ شییر کران { $tabCount }
-
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = سْیت سکرین شییر کران "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
     .label = ٹیبس سْیت سکرین شییر کران؛ { $tabCount } ٹیبن سْیت سکرین شییر کران { $tabCount }
-
 webrtc-indicator-menuitem-sharing-window-with =
     .label = سْیت اکھ وینڈو شییر کران "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
     .label = ٹیبس سْیت اکھ وینڈو شییر کران؛ { $tabCount } ٹیبن سْیت وینڈو شییر کران { $tabCount }
-
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = سْیت کیمرا شییر کران "{ $streamTitle }"
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
+
+
+## Special phrasing for sharing devices when the origin is a file url.
 
 
 ## Variables:

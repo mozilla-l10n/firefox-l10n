@@ -6,7 +6,6 @@ tabmodalprompt-username =
     .value = Nomo de uzanto:
 tabmodalprompt-password =
     .value = Pasvorto:
-
 tabmodalprompt-ok-button =
     .label = Akcepti
 tabmodalprompt-cancel-button =

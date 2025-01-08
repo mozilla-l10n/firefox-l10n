@@ -10,6 +10,8 @@ safeb-blocked-phishing-page-short-desc = { -brand-short-name } blockit this page
 safeb-blocked-malware-page-short-desc = { -brand-short-name } blockit this page acause it micht ettle tae instaw uncannie saftware that micht dicht or pauchle personal information on yer computer.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } blockit this page acause it micht ettle tae begunk ye intae instawin programs that skaithe yer stravaigin experience (likesay, by chyngin yer hamepage or shawin mair ads on sites ye veesit).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } blockit this page acause it micht ettle tae instaw hairmfu apps that pauchle or dicht yer information (likesay, photies, passwirds, messages and credit cairds).
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Wysins providit by <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Gang back
 safeb-palm-see-details-label = See details

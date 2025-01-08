@@ -54,7 +54,6 @@ close-tab =
     .title = Fechar aba
 show-addon =
     .title = Mostrar no gerenciador de extensões
-
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded

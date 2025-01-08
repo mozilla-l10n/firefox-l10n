@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Nuk'unel wachb'äl
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Rochochib'al ri ruxaq k'amaya'l
     .accesskey = o
-
 permissions-block =
     .label = Tiq'eleb'ëx
     .accesskey = T
-
 permissions-disable-etp =
     .label = Titz'aqtisäx man relik ta
     .accesskey = r
-
 permissions-session =
     .label = Tiya' q'ij pa re molojri'ïl re'
     .accesskey = m
-
 permissions-allow =
     .label = Tiya' q'ij
     .accesskey = T
-
 permissions-button-off =
     .label = Tichup
     .accesskey = p
-
 permissions-button-off-temporarily =
     .label = Tichup Jumej
     .accesskey = T
-
 permissions-site-name =
     .label = Ruxaq Ajk'amaya'l
-
 permissions-status =
     .label = B'anikil:
-
 permissions-remove =
     .label = Tiyuj Ruxaq Ajk'amaya'l
     .accesskey = T
-
 permissions-remove-all =
     .label = Keyuj el Konojel ri taq Ruxaq Ajk'amaya'l
     .accesskey = y
-
 permission-dialog =
     .buttonlabelaccept = Keyak Jaloj
     .buttonaccesskeyaccept = K
-
 permissions-autoplay-menu = Kan k'o wi pa ronojel ajk'amaya'l:
-
 permissions-searchbox =
     .placeholder = Tikanöx K'amaya'l
-
 permissions-capabilities-autoplay-allow =
     .label = Tiya' q'ij chi ke ri K'oxom chuqa' Silowäch
 permissions-capabilities-autoplay-block =
     .label = Tiq'at K'oxom
 permissions-capabilities-autoplay-blockall =
     .label = Keq'at K'oxom chuqa' Silowäch
-
 permissions-capabilities-allow =
     .label = Tiya' q'ij
 permissions-capabilities-block =
     .label = Tiq'eleb'ëx
 permissions-capabilities-prompt =
     .label = Junelïk tik'utüx pe
-
 permissions-capabilities-listitem-allow =
     .value = Tiya' q'ij
 permissions-capabilities-listitem-block =
     .value = Tiq'eleb'ëx
 permissions-capabilities-listitem-allow-session =
     .value = Tiya' q'ij pa re molojri'ïl re'
-
 permissions-capabilities-listitem-off =
     .value = Tichup
 permissions-capabilities-listitem-off-temporarily =
@@ -123,6 +104,9 @@ permissions-exceptions-saved-logins-window2 =
     .title = Taq man relik ta - Yakon kitikirib'al taq molojri'ïl
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Man xkeyak ta kan ri kitikirib'al taq kimolojri'ïl re taq ajk'amaya'l ruxaq re'
+
+## Exceptions - Saved Passwords
+
 
 ## Exceptions - Add-ons
 
@@ -195,18 +179,14 @@ permissions-site-microphone-disable-desc = Re re' xtub'än chi ri taq ruxaq ajk'
 permissions-site-speaker-window =
     .title = Taq runuk'ulem - Taq Ruya'oj Q'ij Q'asäy Tzij
     .style = { permissions-window2.style }
-
 permissions-doh-add-exception =
     .label = Titz'aqatisäx
     .accesskey = t
-
 permissions-doh-col =
     .label = Ruk'ojlem b'ey
-
 permissions-doh-remove =
     .label = Tiyuj
     .accesskey = y
-
 permissions-doh-remove-all =
     .label = Keyuj Ronojel
     .accesskey = y

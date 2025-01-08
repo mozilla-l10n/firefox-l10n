@@ -37,7 +37,6 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Wakami Mani
     .secondarybuttonaccesskey = M
 appmenu-update-other-instance-message = K'o jun k'ak'a' ruk'exoj { -brand-shorter-name }, man tikirel ta nik'ëx ruma chi k'o chik jun ruwäch { -brand-shorter-name } nisamäj. Tatz'apij richin ri nik'ex o tacha' ri tik'ex (rik'in jub'a' ri jun chik man ütz ta nisamäj k'a jampe' xatatikirisaj chik).
-
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Ütz
     .buttonaccesskey = z
@@ -45,7 +44,6 @@ appmenu-addon-post-install-message3 = Ke'anuk'samajij ri taq atz'aqat chuqa' taq
 appmenu-addon-post-install-incognito-checkbox =
     .label = Tiya' q'ij chi re k'amal re' nisamäj pan Ichinan Tzuwäch
     .accesskey = T
-    
 appmenu-new-tab-controlled-changes =
     .label = Xjal ri k'ak'a' ruwi'.
     .buttonlabel = Kek'oje' ri Taq Jaloj

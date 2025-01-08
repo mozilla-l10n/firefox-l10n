@@ -86,4 +86,3 @@ tab-context-move-tabs =
            *[other] ຍ້າຍແຖບ
         }
     .accesskey = v
-

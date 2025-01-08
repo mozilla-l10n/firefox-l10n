@@ -5,7 +5,6 @@
 
 ##
 ## Localization for remote types defined in RemoteType.h
-##
 
 process-type-web = תוכן אינטרנט
 # process used to run privileged about pages,
@@ -23,7 +22,6 @@ process-type-webserviceworker = ‏Service Worker מבודד
 
 ##
 ## Localization for Gecko process types defined in GeckoProcessTypes.h
-##
 
 process-type-default = ראשי
 process-type-tab = לשונית
@@ -46,7 +44,6 @@ process-type-utility-actor-windows-file-dialog = Utility Windows File Dialog
 
 ##
 ## Other
-##
 
 # fallback
 process-type-unknown = לא ידוע

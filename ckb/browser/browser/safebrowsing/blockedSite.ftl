@@ -16,10 +16,13 @@ safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename
 
 ##
 
+
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
+
 ##
+
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
@@ -28,8 +31,10 @@ safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='siten
 
 ##
 
+
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
+
 
 ##
 

@@ -3,5 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = पुनः आरंभ करना जरुरी है|
-
 restart-button-label = { -brand-short-name } पुनः आरंभ करें

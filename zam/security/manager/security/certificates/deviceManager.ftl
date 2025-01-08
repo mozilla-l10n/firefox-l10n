@@ -8,7 +8,6 @@
 devmgr-button-changepw =
     .label = Xhé dizh ko lut ta nie
     .accesskey = X
-
 devmgr-button-unload =
     .label = Bla kue
     .accesskey = B
@@ -23,10 +22,7 @@ load-device-browse =
 
 devinfo-status =
     .label = Xha duy
-
 devinfo-status-disabled =
     .label = Naa tobb luy
-
 devinfo-modname =
     .label = Module
-

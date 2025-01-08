@@ -4,18 +4,15 @@
 
 password-not-set =
     .value = (nav iestatīts)
-
 pw-change-success-title = Parole sekmīgi nomainīta
 pw-change-failed-title = Neizdevās nomainīt paroli
 pw-remove-button =
     .label = Noņemt
-
 set-password-old-password = Pašreizējā parole:
 set-password-new-password = Ievadiet jaunu paroli:
 set-password-reenter-password = Vēlreiz ievadiet paroli:
 set-password-meter = Paroles kvalitātes mērītājs
 set-password-meter-loading = Ielādē
-
 remove-info =
     .value = Lai turpinātu, jāievada pašreizējā parole:
 remove-password-old-password =

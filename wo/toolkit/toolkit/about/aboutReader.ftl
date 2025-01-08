@@ -4,7 +4,6 @@
 
 about-reader-loading = Yeb...
 about-reader-load-error = Yebbug jukki bi ca xët wa antuwul
-
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -12,7 +11,7 @@ about-reader-load-error = Yebbug jukki bi ca xët wa antuwul
 #   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
 about-reader-estimated-read-time = { $range } simili
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 
 ## These are the styles of typeface that are options in the reader view controls.
@@ -24,3 +23,14 @@ about-reader-font-type-sans-serif = Sans serif
 
 about-reader-toolbar-close = Téj gisiinu jàng bi
 about-reader-toolbar-type-controls = Saytu loy yi
+
+## Reader View colors menu
+
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+
+## Reader View text and layout menu
+

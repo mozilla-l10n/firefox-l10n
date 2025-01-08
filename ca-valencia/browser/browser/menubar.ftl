@@ -9,6 +9,12 @@
 # NOTE: For Engineers, please don't re-use these strings outside of the menubar.
 
 
+# NOTE: For English locales, strings in this file should be in APA-style Title Case.
+# See https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case
+#
+# NOTE: For Engineers, please don't reuse these strings outside of the menubar.
+
+
 ## Application Menu (macOS only)
 
 menu-application-preferences =
@@ -38,11 +44,9 @@ menu-quit =
             [windows] x
            *[other] x
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Ix del { -brand-shorter-name }
-
 menu-about =
     .label = Quant al { -brand-shorter-name }
     .accesskey = Q
@@ -238,6 +242,9 @@ menu-bookmarks-other =
     .label = Altres adreces d'interés
 menu-bookmarks-mobile =
     .label = Adreces del mòbil
+
+## Profiles Menu
+
 
 ## Tools Menu
 

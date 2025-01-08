@@ -23,17 +23,17 @@ protections-panel-etp-more-info =
     .aria-label = বৰ্ধিত ট্ৰেকিং সুৰক্ষাৰ বিষয়ে অধিক তথ্য
 protections-panel-etp-on-header = এই ছাইটৰ বাবে বৰ্ধিত ট্ৰেকিং সুৰক্ষা চালু আছে
 protections-panel-etp-off-header = এই ছাইটৰ বাবে বৰ্ধিত ট্ৰেকিং সুৰক্ষা বন্ধ আছে
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = ছাইট কাম কৰি থকা নাইনে?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = ছাইট কাম কৰি থকা নাইনে?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = ছাইট কাম কৰি থকা নাইনে?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = ছাইট কাম কৰি থকা নাইনে?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -63,6 +63,9 @@ protections-panel-content-blocking-fingerprinters-label = ফিংগাৰপ�
 protections-panel-blocking-label = অৱৰুদ্ধ
 protections-panel-not-blocking-label = অনুমোদিত
 protections-panel-not-found-label = একো ধৰা পৰা নাই
+
+## Smartblock strings
+
 
 ##
 
@@ -99,7 +102,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = নষ্ট ছাইটৰ প্ৰতিবেদন দিয়ক
 protections-panel-content-blocking-breakage-report-view-description = কিছুমান ট্ৰেকাৰ অৱৰোধ কৰিলে কিছুমান ৱেবছাইটৰ সমস্যা হ'ব পাৰে। এই সমস্যাবোৰৰ প্ৰতিবেদন দিয়াটোৱে { -brand-short-name } সকলোৰে বাবে উন্নত কৰাত সহায় কৰে। এই প্ৰতিবেদন পঠিয়ালে Mozilla-লৈ এটা URL আৰু আপোনাৰ ব্ৰাউজাৰ ছেটিংছৰ বিষয়ে তথ্য পঠিওৱা হ'ব। <label data-l10n-name="learn-more">অধিক জানক</label>
-protections-panel-content-blocking-breakage-report-view-description2 = কিছুমান ট্ৰেকাৰ অৱৰোধ কৰিলে কিছুমান ৱেবছাইটৰ সমস্যা হ'ব পাৰে। এই সমস্যাবোৰৰ প্ৰতিবেদন দিয়াটোৱে { -brand-short-name } সকলোৰে বাবে উন্নত কৰাত সহায় কৰে। এই প্ৰতিবেদন পঠিয়ালে { -vendor-short-name }-লৈ এটা URL আৰু আপোনাৰ ব্ৰাউজাৰ ছেটিংছৰ বিষয়ে তথ্য পঠিওৱা হ'ব।
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL

@@ -23,11 +23,12 @@ downloads-cmd-cancel =
     .tooltiptext = Ya'sakan
 downloads-cmd-cancel-panel =
     .aria-label = Ya'sakan
-  
+
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
 ##   $handler (String) - The name of the mime type's default file handler.
 ##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
+
 
 ##
 
@@ -44,6 +45,7 @@ downloads-cmd-retry-panel =
 ##   $seconds (number) - Amount of seconds left till the file opens.
 ##   $minutes (number) - Amount of minutes till the file opens.
 
+
 ##
 
 # Displayed when hovering a download which is able to be retried by users,
@@ -56,7 +58,9 @@ downloads-retry-download =
 ##   $num (number) - Number of blocked downloads.
 ##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
 
+
 ##
+
 
 ## Download errors
 

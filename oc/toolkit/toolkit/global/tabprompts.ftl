@@ -6,7 +6,6 @@ tabmodalprompt-username =
     .value = Utilizaire :
 tabmodalprompt-password =
     .value = Senhal :
-
 tabmodalprompt-ok-button =
     .label = D'acòrdi
 tabmodalprompt-cancel-button =

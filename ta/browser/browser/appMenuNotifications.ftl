@@ -5,7 +5,6 @@
 appmenu-addon-post-install-incognito-checkbox =
     .label = இந்த நீட்டிப்பை கமுக்க சாளரத்தில் இயக்க அனுமதிக்கவும்
     .accesskey = A
-    
 appmenu-tab-hide-controlled =
     .label = உங்கள் மறைக்கப்பட்ட கீற்றுகளை அணுகவும்
     .buttonlabel = கீற்றுகளை மறைத்து வைக்கவும்

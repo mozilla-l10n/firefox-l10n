@@ -103,7 +103,6 @@ print-window =
     .title = چھپائی
 print-complete =
     .value = چھپائی مکمل تھی ڳئی ہے
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

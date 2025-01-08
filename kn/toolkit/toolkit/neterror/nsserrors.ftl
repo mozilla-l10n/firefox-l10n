@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -9,13 +10,11 @@
 
 psmerr-ssl-disabled = ಸುರಕ್ಷಿತ ಸಂಪರ್ಕವನ್ನು ಹೊಂದಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ ಏಕೆಂದರೆ SSL ಪ್ರೊಟೋಕಾಲ್ ಅಶಕ್ತಗೊಂಡಿದೆ.
 psmerr-ssl2-disabled = ಸುರಕ್ಷಿತ ಸಂಪರ್ಕವನ್ನು ಹೊಂದಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ ಏಕೆಂದರೆ ತಾಣವು ಹಳೆಯ, ಅಸುರಕ್ಷಿತವಾದ SSL ಪ್ರೊಟೋಕಾಲ್‌ ಆವೃತ್ತಿಯನ್ನು ಬಳಸುತ್ತದೆ.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     ನೀವು ಒಂದು ಸಮರ್ಪಕವಲ್ಲದ ಪ್ರಮಾಣಪತ್ರವನ್ನು ಪಡೆದುಕೊಂಡಿದ್ದೀರಿ.  ದಯವಿಟ್ಟು ಪರಿಚಾರಕ ನಿರ್ವಾಹಕರನ್ನು ಸಂಪರ್ಕಿಸಿ ಅಥವ ಇಮೈಲ್ ಮೂಲಕ ಈ ಕೆಳಗಿನ ಮಾಹಿತಿಯನ್ನು ಅವರಿಗೆ ಒದಗಿಸಿ:
     
     ನಿಮ್ಮ ಪ್ರಮಾಣಪತ್ರವು ಹೊಂದಿರುವ ಅನುಕ್ರಮ ಸಂಖ್ಯೆಯು ಹಾಗು  ಪ್ರಮಾಣಪತ್ರ ಅಥಾರಿಟಿಯು  ಒದಗಿಸಿದ ಇನ್ನೊಂದು ಪ್ರಮಾಣಪತ್ರದ ಅನುಕ್ರಮ ಸಂಖ್ಯೆಯು ಒಂದೆ ಆಗಿದೆ.  ದಯವಿಟ್ಟು ವಿಶಿಷ್ಟವಾದ ಅನುಕ್ರಮ ಸಂಖ್ಯೆಯನ್ನು ಹೊಂದಿದ ಒಂದು ಹೊಸ ಪ್ರಮಾಣಪತ್ರವನ್ನು ಒದಗಿಸಿ.
-
 ssl-error-export-only-server = ಸುರಕ್ಷಿತವಾಗಿ ಸಂಪರ್ಕಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ. ಜೊತೆಗಾರ ಅತ್ಯುನ್ನತ-ಮಟ್ಟದ ಎನ್‌ಕ್ರಿಪ್ಶನ್ ಬೆಂಬಲಿಸುವುದಿಲ್ಲ.
 ssl-error-us-only-server = ಸುರಕ್ಷಿತವಾಗಿ ಸಂಪರ್ಕಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ. ಜೊತೆಗಾರನಿಗೆ ಅತ್ಯುನ್ನತ-ಮಟ್ಟದ ಎನ್‌ಕ್ರಿಪ್ಶನ್ ಅಗತ್ಯವಿದೆ ಆದರೆ ಅದು ಬೆಂಬಲಿತವಾಗಿಲ್ಲ.
 ssl-error-no-cypher-overlap = ಪೀರ್ ನೊಂದಿಗೆ ಸುರಕ್ಷಿತವಾಗಿ ಸಂಪರ್ಕಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ: ಯಾವುದೆ ಸಾಮಾನ್ಯಎನ್‌ಕ್ರಿಪ್ಶನ್ ಅಲ್ಗಾರಿದಮ್(ಗಳು) ಇಲ್ಲ.
@@ -152,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = ಬೆಂಬಲಿತ TLS ಸಹಿ
 ssl-error-unsupported-signature-algorithm = ಪಿಯರ್ ಬೆಂಬಲಿತವಲ್ಲದ ಸಹಿ ಮತ್ತು ಅಲ್ಗಾರಿತಮ್‍‍ನ ಸಂಯೋಜನೆಯನ್ನು ಬಳಸಿದೆ.
 ssl-error-missing-extended-master-secret = ಸರಿಯಾದ extended_master_secret extension ನೊಂದಿಗೆ ಜೊತೆ ಪಿಯರ್ ಪುನರಾರಂಭಿಸಲು ಪ್ರಯತ್ನಿಸಿತು.
 ssl-error-unexpected-extended-master-secret = ಅನಿರೀಕ್ಷಿತ extended_master_secret extension ನೊಂದಿಗೆ ಜೊತೆ ಪಿಯರ್ ಪುನರಾರಂಭಿಸಲು ಪ್ರಯತ್ನಿಸಿತು.
-
 sec-error-io = ಸುರಕ್ಷತಾ ದೃಢೀಕರಣದ ಸಮಯದಲ್ಲಿ  ಒಂದು I/O ದೋಷ ಕಂಡುಬಂದಿದೆ.
 sec-error-library-failure = ಸುರಕ್ಷತಾ ಲೈಬ್ರರಿ ವಿಫಲತೆ.
 sec-error-bad-data = ಸುರಕ್ಷತಾ ಲೈಬ್ರರಿ: ಸರಿಯಲ್ಲದ ಮಾಹಿತಿಯು ಒದಗಿ ಬಂದಿದೆ.
@@ -319,7 +317,6 @@ sec-error-locked-password = ಗುಪ್ತಪದವನ್ನು ಬಂಧಿಸ
 sec-error-unknown-pkcs11-error = ಅಜ್ಞಾತ PKCS #11 ದೋಷ.
 sec-error-bad-crl-dp-url = URL in CRL ವಿತರಣೆ ಬಿಂದುವಿನ ಹೆಸರಿನಲ್ಲಿ ಅಮಾನ್ಯವಾದ ಅಥವ ಬೆಂಬಲವಿರದ URL.
 sec-error-cert-signature-algorithm-disabled = ಪ್ರಮಾಣಪತ್ರವನ್ನು ಒಂದು ಅಸುರಕ್ಷತೆಯ ಕಾರಣದಿಂದಾಗಿ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾದ ಒಂದು ಸಹಿಯ ಅಲ್ಗಾರಿತಮ್ ಇಂದ ಸಹಿ ಮಾಡಲಾಗಿದೆ.
-
 mozilla-pkix-error-key-pinning-failure = ಸರ್ವರ್‌ ಕೀ ಪಿನ್ನಿಂಗ್ (HPKP) ಅನ್ನು ಬಳಸುತ್ತದೆ ಆದರೆ ಪಿನ್‌ಸೆಟ್‌ಗೆ ಹೊಂದಿಕೆಯಾಗುವ ಯಾವುದೆ ನಂಬಿಕಸ್ತ ಪ್ರಮಾಣಪತ್ರವನ್ನು ರಚಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ಕೀ ಪಿನ್ನಿಂಗ್ ಉಲ್ಲಂಘನೆಯನ್ನು ಅತಿಕ್ರಮಿಸಲು ಆಗುವುದಿಲ್ಲ.
 mozilla-pkix-error-ca-cert-used-as-end-entity = ಮೂಲಭೂತ ನಿರ್ಬಂಧಗಳ ವಿಸ್ತರಣೆಯನ್ನು ಹೊಂದಿರುವ ಒಂದು ಪ್ರಮಾಣಪತ್ರವನ್ನು ಒಂದು ಪ್ರಮಾಣಪತ್ರ ಅತಾರಿಟಿ ಎಂದು ಗುರುತಿಸಲು ಬಳಸುತ್ತಿದೆ. ಸಮರ್ಪಕವಾಗಿ ನೀಡಲಾದ ಪ್ರಮಾಣಪತ್ರದ ಸಂದರ್ಭ ಹೀಗೆ ಇರುವಂತಿಲ್ಲ.
 mozilla-pkix-error-inadequate-key-size = ಒಂದು ಸುರಕ್ಷಿತ ಸಂಪರ್ಕವನ್ನು ಸಾಧಿಸಲು ಅಗತ್ಯವಿರುವುದಕ್ಕಿಂತಲೂ ಅತ್ಯಂತ ಚಿಕ್ಕದಾದ ಒಂದು ಪ್ರಮಾಣಪತ್ರ ಕೀಲಿಯನ್ನು ಸರ್ವರ್‌ ಒದಗಿಸಿದೆ.
@@ -331,11 +328,9 @@ mozilla-pkix-error-ocsp-response-for-cert-missing = ಪರಿಶೀಲನೆ ಮ
 mozilla-pkix-error-validity-too-long = ಸರ್ವರ್ ಮಾನ್ಯವಲ್ಲದ ಸರ್ಟಿಫಿಕೇಟ್ ಅನ್ನು ಪ್ರಸ್ತುತ ಪಡಿಸಿದೆ.
 mozilla-pkix-error-required-tls-feature-missing = ಒಂದು ಅವಶ್ಯ TLS ವೈಶಿಷ್ಟ್ಯ ಕಾಣೆಯಾಗಿದೆ.
 mozilla-pkix-error-invalid-integer-encoding = ಸರ್ವರ್ ಸಲ್ಲಿಸಿದೆ ಪ್ರಮಾಣಪತ್ರವ ಒಂದು ಪೂರ್ಣಾಂಕದ ಅಮಾನ್ಯ ಎನ್ಕೋಡಿಂಗ್ ಹೊಂದಿದೆ. ಸಾಮಾನ್ಯ ಕಾರಣಗಳು ಋಣಾತ್ಮಕ ಸರಣಿ ಸಂಖ್ಯೆಗಳು, ಋಣಾತ್ಮಕ RSA ಮಾಡ್ಯುಲಿ, ಮತ್ತು ಅಗತ್ಯಕ್ಕಿಂತ ಹೆಚ್ಚು ಉದ್ದವಾದ ಎನ್ಕೋಡಿಂಗ್ಗಳು.
-
 xp-java-remove-principal-error = ಪ್ರಮುಖವಾದುದನ್ನು(ಪ್ರಿನ್ಸಿಪಲ್) ತೆಗೆದು ಹಾಕಲಾಗಲಿಲ್ಲ
 xp-java-delete-privilege-error = ಸವಲತ್ತನ್ನು ಅಳಿಸಿ ಹಾಕಲಾಗಲಿಲ್ಲ
 xp-java-cert-not-exists-error = ಪ್ರಮುಖವಾದ(ಪ್ರಿನ್ಸಿಪಲ್) ಇದು ಒಂದು ಪ್ರಮಾಣಪತ್ರವನ್ನು ಹೊಂದಿಲ್ಲ
-
 xp-sec-fortezza-bad-card = ಫೊರ್ಟೆಝಾ ಕಾರ್ಡ್ ಅನ್ನು ಸಮರ್ಪಕವಾಗಿ ಆರಂಭಿಸಲಾಗಿಲ್ಲ. ದಯವಿಟ್ಟು ಅದನ್ನು ತೆಗೆದು ನಿಮಗೆ ಒದಗಿಸಿದವರಿಗೆ ಮರಳಿಸಿ.
 xp-sec-fortezza-no-card = ಯಾವುದೆ ಫೊರ್ಟೆಝಾ ಕಾರ್ಡುಗಳು ಕಂಡು ಬಂದಿಲ್ಲ
 xp-sec-fortezza-none-selected = ಯಾವುದೆ ಫೊರ್ಟೆಝಾ ಕಾರ್ಡುಗಳು ಆರಿಸಲ್ಪಟ್ಟಿಲ್ಲ

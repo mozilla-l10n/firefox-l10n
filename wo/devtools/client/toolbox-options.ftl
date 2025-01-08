@@ -19,6 +19,9 @@ options-context-inspector = Inspektëër
 ## "Default Color Unit" options for the Inspector
 
 
+## Web Console section
+
+
 ## Style Editor section
 
 # The heading
@@ -32,7 +35,4 @@ options-styleeditor-label = Defarkatu melin
 options-sourceeditor-keybinding-default-label = Ñakk ndigal
 
 ## Advanced section
-
-
-##
 

@@ -29,3 +29,7 @@ webext-perms-description-tabs = Pasiekti naršyklės korteles
 webext-perms-description-tabHide = Slėpti ir rodyti naršyklės kortelės
 webext-perms-description-topSites = Matyti naršymo istoriją
 webext-perms-description-webNavigation = Pasiekti naršyklės veiklą navigacijos metu
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

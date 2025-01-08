@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -9,7 +10,6 @@
 
 psmerr-ssl-disabled = Saan a makasilpo a nasaligned gapu ta nakaiddep ti protokol a SSL.
 psmerr-ssl2-disabled = Saan a makasilpo a nasaligned gapu ta ar-aramaten ti sitio ti daddaan ken di-nasaligned a bersion ti protokol a SSL.
-
 ssl-error-bad-client = Nakasarak ti serbidor iti naalas a datos aggapu iti kliente.
 ssl-error-bad-server = Nakasarak ti kliente iti naalas a datos aggapu iti serbidor.
 ssl-error-bad-cert-alert = Saan a mapaneknekan ti kapada nga SSL ti sertipikoyo.
@@ -75,7 +75,6 @@ ssl-error-rx-malformed-new-session-ticket = Inawat ti SSL ti pannakitulag a mens
 ssl-error-decompression-failure = Inawat ti SSL ti nakasensen a rehistro a saan a mawarwar.
 ssl-error-unsafe-negotiation = Pinadas ti kapada ti pannakitulag iti daan a wagas (madanarsa).
 ssl-error-rx-unexpected-uncompressed-record = Inawat ti SSL ti napettat a nakawarwar a rehistro.
-
 sec-error-library-failure = Napaay ti biblioteka ti seguridad.
 sec-error-bad-data = biblioteka ti seguridad: naawat ti madi a datos.
 sec-error-invalid-time = Madi ti pormato ti kawar ti panawen.
@@ -135,5 +134,4 @@ sec-error-libpkix-internal = Rimsua ti nayuneg a kammali ti Libpkix bayat ti pan
 sec-error-pkcs11-device-error = Nagsubli ti PKCS #11 a module iti CKR_DEVICE_ERROR. Kayat a sawen nga rimsua ti problema iti tanda wenno sawang.
 sec-error-bad-info-access-method = Adda di-naammuan a pamuspusan a pangaramat iti damdamag iti anay ti sertipiko.
 sec-error-crl-import-failed = Rimsua ti kammali itay pinadas ti pannakaiyangkat iti CRL.
-
 xp-sec-fortezza-bad-pin = Saan a maipateg ti PIN

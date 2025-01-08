@@ -226,7 +226,9 @@ mr2022-onboarding-set-default-subtitle = Dopre un navigadôr sostignût di une o
 mr2022-onboarding-get-started-primary-subtitle = La nestre ultime version e je costruide su misure par te, rindint plui facil che mai lâ ator pal web. E inclût funzionalitâts che o crodìn che tu adorarâs.
 mr2022-onboarding-get-started-primary-button-label = Configure in pôcs seconts
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Configurazion super-svelte
 mr2022-onboarding-import-subtitle = Configure { -brand-short-name } come che ti plâs. Zonte segnelibris, passwords e altri dal to vecjo navigadôr.
@@ -416,3 +418,12 @@ onboarding-genai-sidebar-title = Prove un chatbot IA te sbare laterâl
 onboarding-genai-sidebar-subtitle = Met in struc i contignûts dal web, gjenere ideis, bute jù stampons di messaç — dut intant che tu navighis. Sielç tra varis furnidôrs, cambilu cuant che tu vûs. <a data-l10n-name="learn-more">Plui informazions</a>
 onboarding-genai-sidebar-primary-button = Sielç un chatbot
 onboarding-genai-sidebar-secondary-button = Scomence a navigâ
+
+## New user onboarding checklist
+
+
+## Tab Groups feature onboarding strings
+
+
+## Multi Profiles feature onboarding messages
+

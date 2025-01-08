@@ -10,7 +10,6 @@ videocontrols-volume-control =
     .aria-label = Volumen
 videocontrols-closed-caption-button =
     .aria-label = Subtítulos
-
 videocontrols-play-button =
     .aria-label = Reproducir
 videocontrols-pause-button =
@@ -25,19 +24,20 @@ videocontrols-exitfullscreen-button =
     .aria-label = Salir de pantalla completa
 videocontrols-casting-button-label =
     .aria-label = Enviar a pantalla
+# .offlabel is processed by the video control custom element to be used
+# as a text-track label
 videocontrols-closed-caption-off =
     .offlabel = Desactivados
-
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Picture-in-Picture
-
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = Despegar este video
-
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer3 = Cuantas más pantallas más diversión. Reproduce este vídeo mientras haces otras cosas.
-
 videocontrols-error-aborted = Carga de video detenida.
 videocontrols-error-network = Reproducción de video abortada debido a un error de red.
 videocontrols-error-decode = El video no puede reproducirse porque el archivo está corrupto.
@@ -45,7 +45,6 @@ videocontrols-error-src-not-supported = El formato de video o el tipo MIME no es
 videocontrols-error-no-source = No se encontró el video con formato y tipo MIME soportados.
 videocontrols-error-generic = Reproducción de video abortada debido a un error desconocido.
 videocontrols-status-picture-in-picture = Este video se está reproduciendo en el modo Picture-in-Picture.
-
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -59,7 +58,6 @@ videocontrols-status-picture-in-picture = Este video se está reproduciendo en e
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
-
 # This is a plain text version of the videocontrols-position-and-duration-labels
 # string, used by screenreaders.
 #

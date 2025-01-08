@@ -23,17 +23,17 @@ protections-panel-etp-more-info =
     .aria-label = Karagdagang impormasyon tungkol sa Enhanced Tracking Protection
 protections-panel-etp-on-header = Nakabukas ang Enhanced Tracking Protection para sa site na ito
 protections-panel-etp-off-header = Sarado ang Enhanced Tracking Protection para sa site na ito
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Hindi gumagana ang site?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Hindi Gumagana ang Site?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Hindi gumagana ang site?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Hindi Gumagana ang Site?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -64,10 +64,12 @@ protections-panel-blocking-label = Hinarang
 protections-panel-not-blocking-label = Pinapayagan
 protections-panel-not-found-label = Walang Nakita
 
+## Smartblock strings
+
+
 ##
 
 protections-panel-settings-label = Mga Protection Setting
-# This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
 protections-panel-protectionsdashboard-label = Protections Dashboard
 
 ## In the Site Not Working? view, we suggest turning off protections if
@@ -96,7 +98,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Mag-ulat ng Sirang Site
 protections-panel-content-blocking-breakage-report-view-description = Ang pagharang ng ilang mga tracker ay maaaring maging dahilan ng problema sa ilang mga website. Ang pag-ulat ng mga problemang ito ay nakatutulong pahusayin ang { -brand-short-name } para sa lahat. Ang pagpapadala ng ulat na ito ay magpapadala ng URL at impormasyon tungkol sa iyong mga browser setting sa Mozilla. <label data-l10n-name="learn-more">Alamin</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Ang pagharang ng ilang mga tracker ay maaaring maging dahilan ng problema sa ilang mga website. Ang pag-ulat ng mga problemang ito ay nakatutulong pahusayin ang { -brand-short-name } para sa lahat. Ang pagpapadala ng ulat na ito ay magpapadala ng URL at impormasyon tungkol sa iyong mga browser setting sa { -vendor-short-name }.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL

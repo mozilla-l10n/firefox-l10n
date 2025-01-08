@@ -11,7 +11,6 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Emabega
     .accesskey = E
-
 wizard-macos-button-next =
     .label = Weyongereyo
     .accesskey = W
@@ -21,14 +20,12 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = Ekiddirira >
     .accesskey = E
-
 wizard-macos-button-finish =
     .label = Kiwedde
 wizard-linux-button-finish =
     .label = Maliriza
 wizard-win-button-finish =
     .label = Maliriza
-
 wizard-macos-button-cancel =
     .label = Sazaamu
 wizard-linux-button-cancel =

@@ -42,7 +42,7 @@ about-telemetry-fetch-stack-symbols = 스택에 대한 함수 이름 가져오�
 about-telemetry-hide-stack-symbols = 원시 스택 데이터 보기
 # Selects the correct release version
 # Variables:
-#   $channel (String): represents the corresponding release data string
+#   $channel (string) - Represents the corresponding release data string
 about-telemetry-data-type =
     { $channel ->
         [release] 정식판 데이터
@@ -50,7 +50,7 @@ about-telemetry-data-type =
     }
 # Selects the correct upload string
 # Variables:
-#   $uploadcase (String): represents a corresponding upload string
+#   $uploadcase (string) - Represents a corresponding upload string
 about-telemetry-upload-type =
     { $uploadcase ->
         [enabled] 활성화됨
@@ -58,45 +58,45 @@ about-telemetry-upload-type =
     }
 # Example Output: 1 sample, average = 0, sum = 0
 # Variables:
-#   $sampleCount (Integer): amount of histogram samples
-#   $prettyAverage (Integer): average of histogram samples
-#   $sum (Integer): sum of histogram samples
+#   $sampleCount (number) - Amount of histogram samples
+#   $prettyAverage (number) - Average of histogram samples
+#   $sum (number) - Sum of histogram samples
 about-telemetry-histogram-stats =
     { $sampleCount ->
        *[other] { $sampleCount } 샘플, 평균 = { $prettyAverage }, 합계 = { $sum }
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = 이 페이지는 원격 분석에 의해서 수집된 성능, 하드웨어, 사용 현황 및 사용자 정의에 대한 정보를 표시합니다. 이 정보는 { -brand-full-name }의 개선을 위해 { $telemetryServerOwner }에 제출됩니다.
 about-telemetry-settings-explanation = 원격 분석이 { about-telemetry-data-type }를 수집 중이며 업로드는 <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>입니다.
 # Variables:
-#   $name (String): ping name, e.g. “saved-session”
-#   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
+#   $name (string) - Ping name, e.g. “saved-session”
+#   $timestamp (string) - Ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = 각 정보 조각들은 “<a data-l10n-name="ping-link">핑</a>“로 번들되어 보내집니다. 지금은 { $name }, { $timestamp } 핑을 보고 있습니다.
 about-telemetry-data-details-current = 각 정보는 "<a data-l10n-name="ping-link">핑</a>"에 묶여 전송됩니다. 현재의 데이터를 보고 계십니다.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $selectedTitle (String): the section name from the structure of the ping.
+#   $selectedTitle (string) - The section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = { $selectedTitle }에서 찾기
 about-telemetry-filter-all-placeholder =
     .placeholder = 모든 섹션에서 찾기
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-results-for-search = “{ $searchTerms }”에 대한 결과
 # More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $sectionName (String): the section name from the structure of the ping.
-#   $currentSearchText (String): the current text in the search input
+#   $sectionName (string) - The section name from the structure of the ping.
+#   $currentSearchText (string) - The current text in the search input
 about-telemetry-no-search-results = 죄송합니다! { $sectionName }에 “{ $currentSearchText }”에 대한 결과가 없습니다.
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-no-search-results-all = 죄송합니다! “{ $searchTerms }”에 대한 섹션 결과가 없습니다.
 # This message is displayed when a section is empty.
 # Variables:
-#   $sectionName (String): is replaced by the section name.
+#   $sectionName (string) - Is replaced by the section name.
 about-telemetry-no-data-to-display = 죄송합니다! “{ $sectionName }”에 현재 데이터가 없습니다.
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = 현재 데이터
@@ -114,13 +114,13 @@ about-telemetry-slow-sql-statement = 문
 about-telemetry-addon-table-id = 부가 기능 ID
 about-telemetry-addon-table-details = 상세 정보
 # Variables:
-#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+#   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = { $addonProvider } 공급자
 about-telemetry-keys-header = 속성
 about-telemetry-names-header = 이름
 about-telemetry-values-header = 값
 # Variables:
-#   $lateWriteCount (Integer): the number of the late writes
+#   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = 최종 작성- #{ $lateWriteCount }번
 about-telemetry-stack-title = 스택:
 about-telemetry-memory-map-title = 메모리 맵:
@@ -131,5 +131,5 @@ about-telemetry-method-header = 메서드
 about-telemetry-object-header = 객체
 about-telemetry-extra-header = 추가
 # Variables:
-#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+#  $process (string) - Type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = { $process } 프로세스

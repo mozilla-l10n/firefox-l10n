@@ -8,7 +8,6 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC internali
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = spasi about:webrtc kao
@@ -22,14 +21,12 @@ about-webrtc-aec-logging-msg-label = AEC zapisivanje
 about-webrtc-aec-logging-off-state-label = Započni AEC zapisivanje
 about-webrtc-aec-logging-on-state-label = Zaustavi AEC zapisivanje
 about-webrtc-aec-logging-on-state-msg = AEC zapisivanje aktivno (razgovarajte s pozivaocem par minuta a zatim zaustavite snimanje)
-
 about-webrtc-aec-logging-toggled-on-state-msg = AEC zapisivanje aktivno (razgovarajte s pozivaocem par minuta a zatim zaustavite snimanje)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Snimljeni zapisnički fajlovi mogu biti pronađeni u: { $path }
 
 ##
-
 
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
@@ -78,12 +75,10 @@ about-webrtc-type-remote = Udaljeno
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Nominirani
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Izabrano
-
 about-webrtc-save-page-label = Spasi stranicu
 about-webrtc-debug-mode-msg-label = Režim debagiranja
 about-webrtc-debug-mode-off-state-label = Započni režim debagiranja
@@ -96,7 +91,6 @@ about-webrtc-log-show-msg = prikaži zapisnik
     .title = kliknite za proširenje ove sekcije
 about-webrtc-log-hide-msg = sakrij zapisnik
     .title = kliknite za skupljanje ove sekcije
-
 about-webrtc-log-section-show-msg = Prikaži zapisnik
     .title = Kliknite za proširenje ove sekcije
 about-webrtc-log-section-hide-msg = Sakrij zapisnik
@@ -154,28 +148,29 @@ about-webrtc-encoder-label = Enkoder
 ##
 
 
-## These are paths used for saving the about:webrtc page or log files so
-## they can be attached to bug reports.
-## Variables:
-##  $path (String) - The path to which the file is saved.
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+
+##
+
+
+##
 
 about-webrtc-save-page-msg = stranica spašena u: { $path }
 about-webrtc-debug-mode-off-state-msg = zapisnik praćenja možete pronaći na: { $path }
 about-webrtc-debug-mode-on-state-msg = aktivan režim debagiranja, zapisnik praćenja na: { $path }
 about-webrtc-aec-logging-off-state-msg = snimljeni zapisnički fajlovi mogu biti pronađeni u: { $path }
-
+# This path is used for saving the about:webrtc page so it can be attached to
+# bug reports.
+# Variables:
+#  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Stranica spašena u: { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = Zapisnik praćenja možete pronaći na: { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = Aktivan režim debagiranja, zapisnik praćenja na: { $path }
-
-##
-
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
-
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.

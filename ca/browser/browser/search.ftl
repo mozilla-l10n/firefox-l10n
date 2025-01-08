@@ -33,3 +33,8 @@ searchbar-icon =
 removed-search-engine-message = <strong>Ha canviat el motor de cerca per defecte.</strong> { $oldEngine } ja no està disponible com a motor de cerca per defecte del { -brand-short-name }. Ara el motor de cerca per defecte és { $newEngine }. Podeu canviar-lo per un altre motor de cerca per defecte en els paràmetres. <label data-l10n-name="remove-search-engine-article">Més informació</label>
 removed-search-engine-message2 = <strong>Ha canviat el motor de cerca per defecte.</strong> { $oldEngine } ja no està disponible com a motor de cerca per defecte del { -brand-short-name }. Ara el motor de cerca per defecte és { $newEngine }. Podeu canviar-lo per un altre motor de cerca per defecte en els paràmetres.
 remove-search-engine-button = D'acord
+
+## Infobar shown when user is prompted to install search engine.
+## Variables
+## $engineName (String) - the name of the search engine to install.
+

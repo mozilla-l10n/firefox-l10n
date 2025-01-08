@@ -33,3 +33,8 @@ searchbar-icon =
 removed-search-engine-message = <strong>Zure bilaketa-motor lehenetsia aldatu egin da.</strong> Hemendik aurrera { $oldEngine } ez dago erabilgarri { -brand-short-name }(r)en bilaketa-motor lehenetsi gisa. { $newEngine } da zure bilaketa-motor lehenetsia orain. Beste bilaketa-motor lehenetsi batera aldatzeko, zoaz ezarpenetara. <label data-l10n-name="remove-search-engine-article">Argibide gehiago</label>
 removed-search-engine-message2 = <strong>Zure bilaketa-motor lehenetsia aldatu egin da.</strong> Hemendik aurrera { $oldEngine } ez dago erabilgarri { -brand-short-name }(r)en bilaketa-motor lehenetsi gisa. { $newEngine } da zure bilaketa-motor lehenetsia orain. Beste bilaketa-motor lehenetsi batera aldatzeko, zoaz ezarpenetara.
 remove-search-engine-button = Ados
+
+## Infobar shown when user is prompted to install search engine.
+## Variables
+## $engineName (String) - the name of the search engine to install.
+

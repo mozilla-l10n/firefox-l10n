@@ -15,10 +15,8 @@ autofill-manage-remove-button = ᱚᱪᱚᱜᱽ ᱢᱮ
 autofill-manage-add-button = ᱥᱮᱞᱮᱫᱽ ᱢᱮ…
 autofill-manage-edit-button = ᱥᱟᱯᱲᱟᱣ ᱢᱮ…
 
-##
+## The address capture doorhanger
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = ᱱᱟᱶᱟ ᱴᱷᱤᱠᱬᱟᱹ ᱥᱮᱞᱮᱫ ᱢᱮ
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = ᱴᱷᱤᱠᱬᱟᱹ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
 autofill-address-given-name = ᱯᱩᱭᱞᱩ ᱧᱩᱛᱩᱢ
@@ -78,6 +76,8 @@ autofill-address-eircode = ᱤᱭᱮᱨᱠᱳᱰ
 
 ##
 
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = ᱱᱟᱶᱟ ᱴᱷᱤᱠᱬᱟᱹ ᱥᱮᱞᱮᱫ ᱢᱮ
 autofill-address-country = ᱫᱤᱥᱚᱢ ᱟᱨᱵᱟᱝ ᱡᱟᱭᱜᱟ
 autofill-address-tel = ᱯᱷᱚᱱ
 autofill-address-email = ᱤᱢᱮᱞ

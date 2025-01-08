@@ -25,5 +25,6 @@ error-long-desc4 = Mae gan robotiaid rhan ôl metel disglair na ddylid ei gnoi.
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = Ac mae ganddyn nhw gynllun.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = Ceisiwch eto
     .label2 = Paid pwyso'r botwm yma eto.

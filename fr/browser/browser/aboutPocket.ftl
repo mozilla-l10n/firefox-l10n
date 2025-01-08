@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Ajouter des étiquettes
-
 pocket-panel-saved-error-generic = Une erreur s’est produite lors de l’enregistrement dans { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Les étiquettes sont limitées à 25 caractères
 pocket-panel-saved-error-only-links = Seuls les liens peuvent être enregistrés
@@ -29,7 +28,6 @@ pocket-panel-saved-save-tags = Enregistrer
 pocket-panel-saved-saving-tags = Enregistrement…
 pocket-panel-saved-suggested-tags = Étiquettes suggérées
 pocket-panel-saved-tags-saved = Étiquettes ajoutées
-
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Ajouter des étiquettes :
 
@@ -44,7 +42,6 @@ pocket-panel-signup-signup-firefox = S’inscrire avec { -brand-product-name }
 pocket-panel-signup-tagline = Enregistrez des articles et des vidéos depuis { -brand-product-name } pour les visualiser dans { -pocket-brand-name } sur n’importe quel appareil, à tout moment.
 pocket-panel-signup-tagline-story-one = Cliquez sur le bouton { -pocket-brand-name } pour enregistrer depuis { -brand-product-name } n’importe quel article, vidéo ou page.
 pocket-panel-signup-tagline-story-two = Affichez vos pages dans { -pocket-brand-name } sur n’importe quel appareil, à tout moment.
-
 pocket-panel-signup-cta-a-fix = Votre bouton « enregistrer » pour Internet
 pocket-panel-signup-cta-b-updated = Cliquez sur le bouton { -pocket-brand-name } pour enregistrer des articles, des vidéos et des liens. Consultez votre liste sur n’importe quel appareil, à tout moment.
 pocket-panel-signup-cta-b-short = Cliquez sur le bouton { -pocket-brand-name } pour enregistrer des articles, des vidéos et des liens.
@@ -57,7 +54,6 @@ pocket-panel-home-paragraph = Vous pouvez utiliser { -pocket-brand-name } pour e
 pocket-panel-home-explore-popular-topics = Explorer les sujets populaires
 pocket-panel-home-discover-more = En découvrir davantage
 pocket-panel-home-explore-more = Explorer
-
 pocket-panel-home-most-recent-saves = Voici vos enregistrements les plus récents :
 pocket-panel-home-most-recent-saves-loading = Chargement des sauvegardes récentes…
 pocket-panel-home-new-user-cta = Cliquez sur le bouton { -pocket-brand-name } pour enregistrer des articles, des vidéos et des liens.

@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Tisefsiyin
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Tisefsiyin i
     .accesskey = S
-
 fonts-langgroup-arabic =
     .label = Taɛrabt
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Aẓunan
     .accesskey = D
-
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans serif
-
 fonts-proportional-size = Teɣzi
     .accesskey = T
-
 fonts-serif = Serif
     .accesskey = T
-
 fonts-sans-serif = Sans-serif
     .accesskey = l
-
 fonts-monospace = Tehri tusbuṭ
     .accesskey = F
-
 fonts-monospace-size = Teɣzi
     .accesskey = e
-
 fonts-minsize = Teɣzi taddayt n tsefsit
     .accesskey = w
-
 fonts-minsize-none =
     .label = Ulac
-
 fonts-allow-own =
     .label = Sireg isebtar web ad sqedcen tisefsiyin-nsen deg umḍiq n tidak ifernen daw-a
     .accesskey = S
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

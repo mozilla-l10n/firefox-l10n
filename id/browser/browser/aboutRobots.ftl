@@ -25,5 +25,6 @@ error-long-desc4 = Robot mempunyai kulit metal berkilau yang bukan untuk dirusak
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = Dan mereka punya rencana.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = Coba Lagi
     .label2 = Mohon tidak mengeklik tombol ini lagi.

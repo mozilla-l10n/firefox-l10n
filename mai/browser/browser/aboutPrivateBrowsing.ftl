@@ -22,21 +22,17 @@ about-private-browsing-not-private = अहाँ अखन निजी वि�
 about-private-browsing-info-description-private-window = प्राइवेट विंडो: { -brand-short-name } अहाँक खोज आओर ब्राउजिंग इतिहास के मेटाए देत अछि जखन अहाँ सभ प्राइवेट विंडो बन्न करैत छी. ई अहाँ केँ गुमनाम नहि बनाबैछ.
 about-private-browsing-info-description-simplified = { -brand-short-name } अहाँक खोज आओर ब्राउजिंग इतिहास के मेटाए देत अछि जखन अहाँ सभ प्राइवेट विंडो बन्न करैत छी, मुदा ई अहाँ केँ गुमनाम नहि बनाबैछ.
 about-private-browsing-learn-more-link = बेसी जानू
-
 about-private-browsing-hide-activity = सभे ठाम जतए अहाँ ब्राउज कएलहुँ , ओतए सँ अपन काज आओर स्थान नुकाबू
 about-private-browsing-get-privacy = जतए भी अहाँ ब्राउज करैत छी प्राइवेसी सुरक्षा सभे ठाम पाबू
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } सँग प्राइवेट होउ
-
 about-private-browsing-focus-promo-cta = डाउनलोडकरू { -focus-brand-name }
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
 about-private-browsing-focus-promo-header-b = अपन फ़ोन मे प्राइवेट ब्राउज़र पाबू
 about-private-browsing-focus-promo-header-c = मोबाइल पर अगिला स्तर केर प्राइवेसी पाबू
-
 about-private-browsing-search-banner-close-button =
     .aria-label = बन्न करू
-
 about-private-browsing-promo-close-button =
     .title = बन्न करू
 
@@ -56,3 +52,6 @@ about-private-browsing-pin-promo-title = अहाँक डेस्कटॉ�
 # in your language: `See fewer cookie requests`.
 about-private-browsing-cookie-banners-promo-header = कुकी बैनर आरंभ भेल!
 about-private-browsing-cookie-banners-promo-button = कुकी बैनर हटाए
+
+## Strings for Felt Privacy v1 experiments in 119
+

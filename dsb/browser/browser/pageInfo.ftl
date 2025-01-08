@@ -4,22 +4,18 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
-
 copy =
     .key = C
 menu-copy =
     .label = Kopěrowaś
     .accesskey = K
-
 select-all =
     .key = A
 menu-select-all =
     .label = Wšykno wubraś
     .accesskey = b
-
 close-dialog =
     .key = w
-
 general-tab =
     .label = Powšykne
     .accesskey = P
@@ -43,7 +39,6 @@ general-meta-name =
     .label = Mě
 general-meta-content =
     .label = Wopśimjeśe
-
 media-tab =
     .label = Medije
     .accesskey = M
@@ -74,13 +69,11 @@ media-save-as =
 media-save-image-as =
     .label = Składowaś ako…
     .accesskey = k
-
 perm-tab =
     .label = Pšawa
     .accesskey = P
 permissions-for =
     .value = Pšawa za:
-
 security-tab =
     .label = Wěstota
     .accesskey = W
@@ -101,22 +94,17 @@ security-view-identity-validity =
     .value = Spadnjo:
 security-view-privacy =
     .value = Priwatnosć a historija
-
 security-view-privacy-history-value = Som se k toś tomu websedłoju južo do togo woglědał?
 security-view-privacy-sitedata-value = Składujo toś to websedło informacije na mójo licadle?
-
 security-view-privacy-clearsitedata =
     .label = Cookieje a sedłowe daty wulašowaś
     .accesskey = C
-
 security-view-privacy-passwords-value = Su se gronidła za toś to websedło składowali?
-
 security-view-privacy-viewpasswords =
     .label = Składowane gronidła se woglědaś
     .accesskey = r
 security-view-technical =
     .value = Techniske drobnostki
-
 help-button =
     .label = Pomoc
 
@@ -128,7 +116,6 @@ help-button =
 
 security-site-data-cookies = Jo, cookieje a { $value } { $unit } sedłowych datow
 security-site-data-only = Jo, { $value } { $unit } sedłowych datow
-
 security-site-data-cookies-only = Jo, cookieje
 security-site-data-no = Ně
 
@@ -152,7 +139,6 @@ media-video = Wideo
 media-audio = Awdio
 saved-passwords-yes = Jo
 saved-passwords-no = Ně
-
 no-page-title =
     .value = Bok bźez titela:
 general-quirks-mode =
@@ -167,7 +153,6 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Standard wužywaś
 security-no-visits = Ně
-
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
@@ -180,7 +165,6 @@ general-meta-tags =
             [few] Meta ({ $tags } wobznamjenja)
            *[other] Meta ({ $tags } wobznamjenjow)
         }
-
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -193,7 +177,6 @@ security-visits-number =
         [few] Jo, { $visits } raze
        *[other] Jo, { $visits } razow
     }
-
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
@@ -206,7 +189,6 @@ properties-general-size =
             [few] { $kb } KB ({ $bytes } bajty)
            *[other] { $kb } KB ({ $bytes } bajtow)
         }
-
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:
@@ -220,14 +202,12 @@ media-animated-image-type =
             [few] Wobraz { $type } (animěrowany, { $frames } wobłuki)
            *[other] Wobraz { $type } (animěrowany, { $frames } wobłukow)
         }
-
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = Wobraz { $type }
-
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -237,14 +217,12 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (skalěrowany do { $scaledx }px × { $scaledy }px)
-
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
-
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
@@ -256,16 +234,11 @@ media-file-size = { $size } KB
 
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
-# Variables:
-#   $website (string) - The website name
 media-block-image =
     .label = Wobraze z { $website } blokěrowaś
     .accesskey = B
-
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
-# Variables:
-#   $website (string) — The url of the website pageInfo is getting info for
 page-info-page =
     .title = Info wó boku - { $website }
 page-info-frame =

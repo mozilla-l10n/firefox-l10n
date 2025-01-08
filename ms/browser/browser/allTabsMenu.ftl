@@ -4,10 +4,8 @@
 
 all-tabs-menu-new-user-context =
     .label = Tab Penyimpan Baru
-
 all-tabs-menu-hidden-tabs =
     .label = Tab Tersorok
-
 all-tabs-menu-manage-user-context =
     .label = Urus Penyimpan
     .accesskey = U

@@ -29,3 +29,7 @@ webext-perms-description-tabs = Să acceseze filele browserului
 webext-perms-description-tabHide = Să ascundă și să afișeze filele browserului
 webext-perms-description-topSites = Să acceseze istoricul de navigare
 webext-perms-description-webNavigation = Să acceseze activitatea browserului în timpul navigării
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

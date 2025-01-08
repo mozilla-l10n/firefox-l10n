@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = قلم‌ها
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = قلم‌ها برای
     .accesskey = F
-
 fonts-langgroup-arabic =
     .label = عربی
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = متناسب
     .accesskey = P
-
 fonts-default-serif =
     .label = سِریف
 fonts-default-sans-serif =
     .label = بدون سِریف
-
 fonts-proportional-size = اندازه
     .accesskey = z
-
 fonts-serif = Serif
     .accesskey = S
-
 fonts-sans-serif = Sans-serif
     .accesskey = n
-
 fonts-monospace = Monospace
     .accesskey = M
-
 fonts-monospace-size = اندازه
     .accesskey = e
-
 fonts-minsize = حداقل اندازه قلم
     .accesskey = o
-
 fonts-minsize-none =
     .label = هیچ‌کدام
-
 fonts-allow-own =
     .label = به صفحات اجازه داده شود که قلم‌هایشان را انتخاب کنند و مجبور به استفاده از انتخاب‌های بالا نباشند
     .accesskey = ج
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

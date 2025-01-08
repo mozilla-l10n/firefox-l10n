@@ -16,16 +16,16 @@ videocontrols-exitfullscreen-button =
     .aria-label = Verlaat volskerm
 videocontrols-casting-button-label =
     .aria-label = Stuur na skerm
+# .offlabel is processed by the video control custom element to be used
+# as a text-track label
 videocontrols-closed-caption-off =
     .offlabel = Af
-
 videocontrols-error-aborted = Laai van video gestop.
 videocontrols-error-network = Terugspeel van video gestaak weens netwerkfout.
 videocontrols-error-decode = Video kan nie gespeel word nie want die lêer is korrup.
 videocontrols-error-src-not-supported = Videoformaat of MIME-soort word nie ondersteun nie.
 videocontrols-error-no-source = Geen video met ondersteunde formaat en MIME-soort gevind nie.
 videocontrols-error-generic = Terugspeel van video gestaak weens onbekende fout.
-
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -39,4 +39,3 @@ videocontrols-error-generic = Terugspeel van video gestaak weens onbekende fout.
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
-

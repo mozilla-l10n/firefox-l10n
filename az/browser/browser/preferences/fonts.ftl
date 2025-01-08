@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Şriftlər
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Şriftlər:
     .accesskey = F
-
 fonts-langgroup-arabic =
     .label = Ərəbcə
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Mütənasib
     .accesskey = M
-
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
-
 fonts-proportional-size = Ölçü
     .accesskey = l
-
 fonts-serif = Serif
     .accesskey = S
-
 fonts-sans-serif = Sans-serif
     .accesskey = n
-
 fonts-monospace = Monospace
     .accesskey = M
-
 fonts-monospace-size = Ölçü
     .accesskey = l
-
 fonts-minsize = Ən kiçik şrift ölçüsü
     .accesskey = f
-
 fonts-minsize-none =
     .label = Yoxdur
-
 fonts-allow-own =
     .label = Saytlara yuxarıda seçdikləriniz şriftlərin yerinə öz şriftlərini işlətməyə icazə verin
     .accesskey = A
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

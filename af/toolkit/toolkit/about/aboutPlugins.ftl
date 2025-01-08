@@ -6,8 +6,6 @@ title-label = Aangaande inproppe
 installed-plugins-label = Geïnstalleerde inproppe
 no-plugins-are-installed-label = Geen geïnstalleerde inproppe gevind nie
 deprecation-description = Kort iets? Sommige inproppe word nie meer ondersteun nie. <a data-l10n-name="deprecation-link">Meer inligting.</a>
-deprecation-description2 =
-    .message = Kort iets? Sommige inproppe word nie meer ondersteun nie.
 
 ## The information of plugins
 ##

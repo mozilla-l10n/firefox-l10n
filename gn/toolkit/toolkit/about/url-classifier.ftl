@@ -5,7 +5,11 @@
 url-classifier-title = Marandu URL poravoha rehegua
 url-classifier-search-title = Heka
 url-classifier-search-result-title = Apopyre
+# Variables:
+#   $uri (string) - URI of blocked page
 url-classifier-search-result-uri = URI: { $uri }
+# Variables:
+#   $list (string) - List of tables where the page is blocked
 url-classifier-search-result-list = Tabla rysýi: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = URL oiko’ỹva
@@ -40,7 +44,6 @@ url-classifier-debug-sb-modules = Jehaipy ra’ãha jeikekatu rehegua
 url-classifier-debug-modules = Jehaipy ra’ãha ag̃agua
 url-classifier-debug-sbjs-modules = Jeikekatu rehegua JS log
 url-classifier-debug-file = Marandurenda rembiasakue ag̃agua
-
 url-classifier-trigger-update = Ñembohekopyahu mbojuaju’o
 url-classifier-not-available = N/A
 url-classifier-disable-sbjs-log = Eipe’aite jeikekatu rehegua JS log

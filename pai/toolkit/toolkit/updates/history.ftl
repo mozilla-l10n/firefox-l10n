@@ -5,4 +5,3 @@
 close-button-label =
     .buttonlabelcancel = Ŕ´amch
     .title = Ŕ´amch
-

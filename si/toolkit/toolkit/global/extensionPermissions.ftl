@@ -30,3 +30,7 @@ webext-perms-description-tabs = අතිරික්සුවේ පටිත�
 webext-perms-description-tabHide = අතිරික්සුවේ පටිති සැඟවීම හා පෙන්වීම
 webext-perms-description-topSites = පිරික්සුම් ඉතිහාසයට ප්‍රවේශය
 webext-perms-description-webNavigation = යාත්‍රණය අතරතුර අතිරික්සුවේ ක්‍රියාකාරකම් වෙත ප්‍රවේශය
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

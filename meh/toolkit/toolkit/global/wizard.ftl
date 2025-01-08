@@ -8,7 +8,6 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Niko yata
     .accesskey = B
-
 wizard-macos-button-cancel =
     .label = Nkuvi-ka
 wizard-linux-button-cancel =

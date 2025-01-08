@@ -23,12 +23,10 @@ newtab-topsites-edit-topsites-header = Nagi'io' sitio yitïnj in
 newtab-topsites-title-label = Rà ñanj
 newtab-topsites-title-input =
     .placeholder = Gachrun' rà ñanj
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Gachrun' 'ngo URL
 newtab-topsites-url-validation = 'Ngo URL ni'ñanj an
-
 newtab-topsites-image-url-label = Si URL ña du'ua ma
 newtab-topsites-use-image-link = Garasun' sa nagi'iaj mu'un'...
 newtab-topsites-image-validation = Nu nadusij ma. Garahue 'ngà a'ngo URL.
@@ -49,16 +47,16 @@ newtab-confirm-delete-history-p2 = Si ga'ue dure' sa 'ngà gahuin na
 
 ## Top Sites - Sponsored label
 
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
     .title = Na'nïn' menû
     .aria-label = Na'nïn' menû
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
-#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+#   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .title = Na'nïn' menû
     .aria-label = Na'ni' menu guenda { $title }
@@ -86,8 +84,6 @@ newtab-menu-show-privacy-info = Nej duguî' rugûñu'unj ni sa tna'uej rayi'ît
 newtab-privacy-modal-button-done = Gà' huaj
 newtab-privacy-modal-header = Ûta ña'an hua sa gaché nu huìt
 newtab-privacy-modal-link = Gini'in dàj 'iaj sun sa dugumîn sò' riña rakïj ñanj nakà nan
-
-
 
 ##
 
@@ -150,18 +146,16 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = Hiuj ni'iaj yitïnj rè'
 # Variables:
-#  $provider (String): Name of the corresponding content provider.
+#   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Sa hua hue'e taj { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Gayi’ì gachē nunt nī nadigân ñûnj nej sa huā hue’ê doj, gini’iājt nī a’ngô nej pajinâ ni’iāj nakàt doj hiūj nan.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
-#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Hua nakà ma. 'Ngà nanikaj ñunt ni nana'uit sa gahuin { $provider }. Si ga'ue gana'uij 'ngà a'. Ganahui 'ngo sa yitïnj doj da' nahuin hue'e si web.
-
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -180,10 +174,11 @@ newtab-pocket-more-recommendations = A'ngô ne nuguan ni'ñanj huaa
 newtab-pocket-cta-button = Girì' { -pocket-brand-name }
 newtab-pocket-cta-text = Na'nïnj sà' nej nuguan' 'ï ruhuât riña { -pocket-brand-name } ni gataj ni'ñanj rát ngà nej sa gahiat.
 
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -192,4 +187,33 @@ newtab-error-fallback-info = Hua 'ngo sa nu gahui hue'e 'nga gayi'ij na'nïnj ma
 newtab-error-fallback-refresh-link = Nagi'iaj nakà pagina nī garahue ñut
 
 ## Customization Menu
+
+
+## New Tab Wallpapers
+
+
+## Solid Colors
+
+
+## Abstract
+
+
+## Photographs
+
+
+## New Tab Weather
+
+
+## Topic Labels
+
+
+## Topic Selection Modal
+
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Confirmation modal for blocking a section
 

@@ -16,16 +16,17 @@ permissions-close-key =
 
 ## Exceptions - HTTPS-Only Mode
 
+
 ## Exceptions - Pop-ups
 
 
 ## Exceptions - Saved Logins
 
 
+## Exceptions - Saved Passwords
+
+
 ## Exceptions - Add-ons
-
-
-## Exceptions - Autoplay Media
 
 
 ## Site Permissions - Autoplay
@@ -44,6 +45,7 @@ permissions-close-key =
 
 
 ## Site Permissions - Microphone
+
 
 ## Site Permissions - Speaker
 ##

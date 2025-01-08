@@ -15,6 +15,9 @@
 ## "Default Color Unit" options for the Inspector
 
 
+## Web Console section
+
+
 ## Style Editor section
 
 
@@ -26,7 +29,4 @@
 options-sourceeditor-keybinding-default-label = Tamisï erakukata
 
 ## Advanced section
-
-
-##
 

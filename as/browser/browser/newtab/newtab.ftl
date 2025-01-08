@@ -20,13 +20,12 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = সন্ধান কৰক
     .aria-label = সন্ধান কৰক
-
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = { $engine }-এৰে সন্ধান কৰক নাইবা ঠিকনা লিখক
 newtab-search-box-handoff-text-no-engine = সন্ধান কৰক নাইবা ঠিকনা লিখক
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
     .placeholder = { $engine }-এৰে সন্ধান কৰক নাইবা ঠিকনা লিখক
     .title = { $engine }-এৰে সন্ধান কৰক নাইবা ঠিকনা লিখক
@@ -35,7 +34,6 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = সন্ধান কৰক নাইবা ঠিকনা লিখক
     .title = সন্ধান কৰক নাইবা ঠিকনা লিখক
     .aria-label = সন্ধান কৰক নাইবা ঠিকনা লিখক
-
 newtab-search-box-text = ৱেবত সন্ধান কৰক
 newtab-search-box-input =
     .placeholder = ৱেবত সন্ধান কৰক
@@ -48,12 +46,10 @@ newtab-topsites-edit-topsites-header = শীৰ্ষ ছাইট সম্প
 newtab-topsites-title-label = শীৰ্ষক
 newtab-topsites-title-input =
     .placeholder = শীৰ্ষক প্ৰবিষ্ট কৰক
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = URL টাইপ বা পে'ষ্ট কৰক
 newtab-topsites-url-validation = বৈধ URLৰ প্ৰয়োজন
-
 newtab-topsites-image-url-label = কাষ্টম ছবিৰ URL
 newtab-topsites-use-image-link = কাষ্টম ছবি ব্যৱহাৰ কৰক…
 newtab-topsites-image-validation = ছবি ল'ড হোৱা বিফল হ'ল। বেলেগ এটা URL পৰীক্ষা কৰক।
@@ -81,15 +77,13 @@ newtab-topsite-sponsored = পৃষ্ঠপোষকতা কৰা
 newtab-menu-section-tooltip =
     .title = মেন্যু খোলক
     .aria-label = মেন্যু খোলক
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = আঁতৰাওক
     .aria-label = আঁতৰাওক
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
-#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+#   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .title = মেন্যু খোলক
     .aria-label = { $title }-ৰ কণ্টেক্স্‌ট মেন্যু খোলক
@@ -147,15 +141,13 @@ newtab-label-removed-bookmark = বুকমাৰ্ক আঁতৰোৱা �
 newtab-label-recommended = ট্ৰেণ্ডিং
 newtab-label-saved = { -pocket-brand-name }-ত সাঁচি থোৱা হ'ল
 newtab-label-download = ডাউনল'ড কৰিছে
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
-#  $sponsorOrSource (String): This is the name of a company or their domain
+#   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · পৃষ্ঠপোষকতা কৰা
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
-#  $sponsor (String): This is the name of a sponsor
+#   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = { $sponsor }দ্বাৰা পৃষ্ঠপোষকতা কৰা হৈছে
 
 ## Section Menu: These strings are displayed in the section context menu and are
@@ -184,7 +176,7 @@ newtab-section-expand-section-label =
 newtab-section-header-topsites = শীৰ্ষ ছাইটসমূহ
 newtab-section-header-recent-activity = শেহতীয়া কাৰ্যকলাপ
 # Variables:
-#  $provider (String): Name of the corresponding content provider.
+#   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider }-ৰ দ্বাৰা পৰামৰ্শিত
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
@@ -204,10 +196,11 @@ newtab-discovery-empty-section-topstories-timed-out = উস্! আমি এ�
 newtab-pocket-learn-more = অধিক জানক
 newtab-pocket-cta-button = { -pocket-brand-name } পাওক
 
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -217,9 +210,40 @@ newtab-error-fallback-refresh-link = পুনৰ চেষ্টা কৰি�
 ## Customization Menu
 
 newtab-custom-shortcuts-subtitle = আপুনি সাঁচি থোৱা বা দৰ্শন কৰা ছাইটসমূহ
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [one] { $num }টা শাৰী
        *[other] { $num }টা শাৰী
     }
 newtab-custom-close-button = বন্ধ কৰক
+
+## New Tab Wallpapers
+
+
+## Solid Colors
+
+
+## Abstract
+
+
+## Photographs
+
+
+## New Tab Weather
+
+
+## Topic Labels
+
+
+## Topic Selection Modal
+
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Confirmation modal for blocking a section
+

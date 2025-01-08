@@ -296,8 +296,7 @@ home-prefs-search-header =
 home-prefs-shortcuts-header =
     .label = Кратенки
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Препорачано од { $provider }

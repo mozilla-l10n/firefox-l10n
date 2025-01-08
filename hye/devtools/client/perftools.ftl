@@ -42,9 +42,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Պահնակի չափը՝
-
 perftools-custom-threads-label = Աւելացնել կամայական շղթաներ ըստ անուան՝
-
 perftools-devtools-interval-label = Միջակայք՝
 perftools-devtools-threads-label = Շղթաներ՝
 perftools-devtools-settings-label = Կարգաւորումներ
@@ -98,19 +96,13 @@ perftools-thread-task-controller =
 ##
 
 perftools-record-all-registered-threads = Շրջանցէք վերոնշեալ ընտրութիւնները եւ ձայնագրէք բոլոր գրանցուած շղթաները
-
 perftools-tools-threads-input-label =
     .title = Շղթաների անունների ցանկն առանձնացուած է ստորակէտով, որը յատկագրիչի վրայ միացնում է շղթաների յատկագրումը։ Շղթայի անուան հետ մասնակի համընկնման դէպքում անունը կը ներառուի։ Բացատը կարեւոր է։
-
-## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
-## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
-## preferences are true.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b> Նոր </b>: { -profiler-brand-name }-ն այժմ ընդգրկուած է մշակողների գործիքներում: <a> Իմանալ աւելին </a> այս նոր հզաւր գործիքի մասին:
-
 perftools-onboarding-close-button =
     .aria-label = Փակէք անդամագրման ուղերձը
 
@@ -118,28 +110,24 @@ perftools-onboarding-close-button =
 
 
 # Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/popup/background.jsm.js
+# devtools/client/performance-new/shared/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
+
 # Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
+# devtools/client/performance-new/shared/background.sys.mjs
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = Ցանցային ծրագրաւորող
 perftools-presets-web-developer-description = Առաջարկուող թոյլ վերադրով նախատեղադրում, կայքերի վրիպազերծման համար։
-
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = { -brand-shorter-name }-ի հաշուեհաստատման համար առաջարկուող նախատեղադրում։
-
 perftools-presets-graphics-label = Գծապատկերներ
 perftools-presets-graphics-description = { -brand-shorter-name }-ի գծապատկերային սխալների յայտնաբերման նախատեղադրում։
-
 perftools-presets-media-label = Տեսադարան
 perftools-presets-media-description2 = { -brand-shorter-name }-ի ձայնային կամ տեսային սխալների յայտնաբերման նախատեղադրում։
-
 perftools-presets-networking-label = Ցանց
 perftools-presets-networking-description = { -brand-shorter-name }-ի ցանցային սխալների յայտնաբերման նախատեղադրում։
-
 perftools-presets-custom-label = Յարմարեցուած
 
 ##

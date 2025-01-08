@@ -6,3 +6,6 @@ alert-close =
     .tooltiptext = ಈ ಸೂಚನೆಯನ್ನು ಮುಚ್ಚು
 alert-settings-title =
     .tooltiptext = ಸಿದ್ಧತೆಗಳು
+
+## Reminder Notifications
+

@@ -59,8 +59,6 @@ sidebar-description = Greifen Sie beim Surfen einfach auf Ihre Chronik, Tabs von
 vertical-tabs-title =
     .label = Vertikale Tabs
 vertical-tabs-description = Verschieben Sie Ihre Tabs vom oberen Rand des Browsers an die Seite. Erfordert, dass Sie auch die Sidebar ausprobieren. <a data-l10n-name="connect">Feedback teilen</a>
-experimental-features-group-browsing =
-    .label = Surfen
 experimental-features-group-developer-tools =
     .label = Entwicklerwerkzeuge
 experimental-features-group-webpage-display =

@@ -105,7 +105,7 @@ containers-disable-alert-ok-button = បិទ​ផ្ទាំង​ឧបក�
 containers-disable-alert-cancel-button = បន្ត​បើក
 containers-remove-alert-title = លុប​ប្រអប់​នេះ​ចេញ?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg = បើ​អ្នក​លុប​​ឧបករណ៍​ផ្ទុក​​នេះ​ចេញ​ឥឡូវ​នេះ ឧបករណ៍​ផ្ទុក { $count } នឹង​ត្រូវបាន​​បិទ។ តើ​អ្នក​ពិត​ជា​ចង់​លុប​​ឧបករណ៍​ផ្ទុក​​នេះ​ចេញ​មែនទេ?
 containers-remove-ok-button = លុប​ប្រអប់​នេះ​ចេញ
 containers-remove-cancel-button = កុំ​លុប​ប្រអប់​នេះ​ចេញ​អី
@@ -191,11 +191,11 @@ applications-manage-app =
 applications-always-ask =
     .label = សួរ​ជានិច្ច
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = ប្រើ { $plugin-name } (ក្នុង { -brand-short-name })
 
@@ -225,6 +225,8 @@ play-drm-content =
 play-drm-content-learn-more = ស្វែងយល់​​បន្ថែម
 update-application-title = បច្ចុប្បន្នភាព { -brand-short-name }
 update-application-description = រក្សា { -brand-short-name } ឱ្យ​ថ្មីៗ​ជានិច្ច ដើម្បី​ដំណើរការ​​មាន​ប្រសិទ្ធភាព ស្ថេរភាព និងសុវត្ថិភាពបំផុត។
+# Variables:
+# $version (string) - Firefox version
 update-application-version = កំណែ { $version } <a data-l10n-name="learn-more">អ្វី​ដែល​ថ្មី</a>
 update-history =
     .label = បង្ហាញ​ប្រវត្តិ​បច្ចុប្បន្នភាព...
@@ -259,7 +261,7 @@ performance-limit-content-process-option = ដែនកំណត់​ដំណ�
 performance-limit-content-process-enabled-desc = ដំណើរការ​មាតិកា​បន្ថែម​អាច​ធ្វើឲ្យ​ដំណើរការ​ប្រសើរ​ឡើង​នៅពេល​ប្រើ​ផ្ទាំង​ច្រើន ប៉ុន្តែ​វា​នឹង​ប្រើ​អង្គ​ចងចាំ​ច្រើន​ដែរ។
 performance-limit-content-process-blocked-desc = ការ​កែប្រែ​ចំនួន​ដំណើរការ​មាតិកា គឺ​អាច​ធ្វើ​ទៅ​បានតែ​ជាមួយ { -brand-short-name } ពហុ​ដំណើរការ​ប៉ុណ្ណោះ។ <a data-l10n-name="learn-more">ស្វែងយល់​ពី​របៀប​ពិនិត្យមើល ប្រសិនបើ​បាន​បើក​ពហុ​ដំណើរការ</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (លំនាំដើម)
 
@@ -330,8 +332,7 @@ choose-bookmark =
 home-prefs-search-header =
     .label = ការស្វែងរកតាម​អ៊ីនធឺណិត
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = បានណែនាំដោយ { $provider }
@@ -355,6 +356,8 @@ home-prefs-highlights-option-saved-to-pocket =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = អត្ថបទសង្ខេប
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -399,7 +402,7 @@ search-find-more-link = រកម៉ាស៊ីនស្វែងរកបន�
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = ពាក្យ​គន្លឹះ​ស្ទួន
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = អ្នក​បានជ្រើស​រើស​ពាក្យ​គន្លឹះ ដែល​បច្ចុប្បន្ន​នេះ​​​​កំពុង​ប្រើ​ដោយ "{ $name }"។ សូម​ជ្រើសរើស​ពាក្យ​គន្លឹះ​ផ្សេង​ទៀត។
 search-keyword-warning-bookmark = អ្នក​បាន​ជ្រើសរើស​ពាក្យ​គន្លឹះ​ដែល​ត្រូវ​បាន​ប្រើ​បច្ចុប្បន្ន​ដោយ​ចំណាំ ។ សូម​ជ្រើស​មួយ​ផ្សេង​ទៀត ។
 
@@ -527,6 +530,9 @@ forms-exceptions =
 forms-saved-logins =
     .label = ការ​ចូល​ដែល​បាន​រក្សាទុក...
     .accesskey = L
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = ផ្លាស់ប្ដូរ​ពាក្យ​សម្ងាត់​មេ…
     .accesskey = M
@@ -584,8 +590,8 @@ history-clear-button =
 sitedata-header = ខូឃី និងទិន្នន័យ​គេហទំព័រ
 sitedata-total-size-calculating = កំពុងគណនាទិន្នន័យតំបន់បណ្តាញ និងទំហំឃ្លាំងសម្ងាត់…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = ខុកឃី ទិន្នន័យវិបសាយ និងឃ្លាំងសម្ងាត់ដែលបានផ្ទុករបស់អ្នកបច្ចុប្បន្នកំពុងប្រើទំហំថាស { $value } { $unit }។
 sitedata-learn-more = ស្វែងយល់​បន្ថែម
 # This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.

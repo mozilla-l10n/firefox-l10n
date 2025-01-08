@@ -6,15 +6,13 @@
 ## The address and credit card autofill management dialog in browser preferences
 
 autofill-manage-addresses-list-header = Direiciones
-
 autofill-manage-credit-cards-list-header = Tarxetes de creitu
-
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-add-button = Amestar…
 autofill-manage-edit-button = Editar…
 
-##
+## The address capture doorhanger
 
 autofill-address-organization = Organización
 
@@ -49,10 +47,8 @@ autofill-address-postal-code = Códigu postal
 
 autofill-address-country = País o rexón
 autofill-address-tel = Teléfonu
-
 autofill-cancel-button = Encaboxar
 autofill-save-button = Guardar
-
 autofill-card-name-on-card = Titular de la tarxeta
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use

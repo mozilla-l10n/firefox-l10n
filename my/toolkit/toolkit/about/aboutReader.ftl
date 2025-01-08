@@ -4,7 +4,6 @@
 
 about-reader-loading = ဆောင်ရွက်နေသည်…
 about-reader-load-error = ဆောင်းပါးကို စာမျက်နှာမှ ခေါ်တင်ရာတွင် မအောင်မြင်ပါ
-
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -12,7 +11,7 @@ about-reader-load-error = ဆောင်းပါးကို စာမျက�
 #   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
 about-reader-estimated-read-time = { $range } မိနစ်
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 
 ## These are the styles of typeface that are options in the reader view controls.
@@ -24,3 +23,14 @@ about-reader-font-type-sans-serif = Sans-serif
 
 about-reader-toolbar-close = စာဖတ်ပုံစံကို ပိတ်ရန်
 about-reader-toolbar-type-controls = စာရိုက်ခြင်း ထိန်းချုပ်ရန်များ
+
+## Reader View colors menu
+
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+
+## Reader View text and layout menu
+

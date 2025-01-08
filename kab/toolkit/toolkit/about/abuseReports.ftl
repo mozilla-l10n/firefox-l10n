@@ -18,8 +18,6 @@ abuse-report-addon-authored-by = sɣur <a data-l10n-name="author-name">{ $author
 abuse-report-learnmore =
     Ur tessineḍ ara ugur ara tferneḍ?
     <a data-l10n-name="learnmore-link">Issin ugar ɣef tummla n yisiɣzaf akked isental</a>
-abuse-report-learnmore-intro = Ur tessineḍ ara ugur ara tferneḍ?
-abuse-report-learnmore-link = Issin ugar ɣef tummla n yisiɣzaf akked isental
 abuse-report-submit-description = Seglem ugur( d afrayan)
 abuse-report-textarea =
     .placeholder = D ayen fessusen i nekni akken ad tazneḍ ugur ma nẓra talqayt. Ma ulac aɣilig, seglem-d ayen i twalaḍ. Tanemmirt imi i aɣ-d-muddeḍ yallelt ad neḥrez web s tezmert yelhan.
@@ -48,24 +46,6 @@ abuse-report-messagebar-removed-sitepermission = Tanemmirt ɣef uneqqis i d-tuzn
 abuse-report-messagebar-removed-theme = Tanmirt ɣef uneqqis id-tuzneḍ. Tekkseḍ asentel <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Tella tucḍa deg uzzna n uneqqis i <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Aneqqis n <span data-l10n-name="addon-name">{ $addon-name }</span> ur yettwazen ara acku aneqqis nniḍen yettwazen melmi kan.
-abuse-report-messagebar-aborted2 =
-    .message = Tummla n { $addon-name } tefsex.
-abuse-report-messagebar-submitting2 =
-    .message = Tuzna n uneqqis ɣef { $addon-name }.
-abuse-report-messagebar-submitted2 =
-    .message = Tanmirt ɣef uneqqis id-tuzneḍ. Tebɣiḑ ad tekkseḍ { $addon-name } ?
-abuse-report-messagebar-submitted-noremove2 =
-    .message = Tanmirt ɣef uneqqis id-tuzneḍ.
-abuse-report-messagebar-removed-extension2 =
-    .message = Tanmirt ɣef uneqqis id-tuzneḍ. Tekkseḍ asiɣzef { $addon-name }.
-abuse-report-messagebar-removed-sitepermission2 =
-    .message = Tanemmirt ɣef uneqqis i d-tuzneḍ. Tekkseḍ azegrir n usireg n usmel { $addon-name }.
-abuse-report-messagebar-removed-theme2 =
-    .message = Tanmirt ɣef uneqqis id-tuzneḍ. Tekkseḍ asentel { $addon-name }.
-abuse-report-messagebar-error2 =
-    .message = Tella tucḍa deg uzzna n uneqqis i { $addon-name }.
-abuse-report-messagebar-error-recent-submit2 =
-    .message = Aneqqis n { $addon-name } ur yettwazen ara acku aneqqis nniḍen yettwazen melmi kan.
 
 ## Message bars actions.
 

@@ -11,7 +11,6 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Inderê
     .accesskey = I
-
 wizard-macos-button-next =
     .label = Continoa
     .accesskey = C
@@ -21,14 +20,12 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = Pròscimo >
     .accesskey = r
-
 wizard-macos-button-finish =
     .label = Fæto
 wizard-linux-button-finish =
     .label = Finisci
 wizard-win-button-finish =
     .label = Finisci
-
 wizard-macos-button-cancel =
     .label = Anulla
 wizard-linux-button-cancel =

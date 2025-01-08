@@ -4,26 +4,20 @@
 
 languages-close-key =
     .key = w
-
 languages-customize-moveup =
     .label = Zijandi
     .accesskey = Z
-
 languages-customize-movedown =
     .label = Zumandi
     .accesskey = Z
-
 languages-customize-remove =
     .label = Kaa
     .accesskey = K
-
 languages-customize-select-language =
     .placeholder = Šenni foo suuba k'a tonton…
-
 languages-customize-add =
     .label = Tonton
     .accesskey = T
-
 # The pattern used to generate strings presented to the user in the
 # locale selection list.
 #
@@ -36,4 +30,3 @@ languages-customize-add =
 #   $code (String) - Locale code of the locale (for example: "is", "es-CL")
 languages-code-format =
     .label = { $locale }  [{ $code }]
-

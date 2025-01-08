@@ -4,7 +4,6 @@
 
 page-title = ट्राबलशुटिं फोरमायथिहोग्रा
 page-subtitle = बे बिलाइआव बिरोंदामिन फोरमायथिहोग्रा दं, नोंथाङा जेंनाखौ सुस्रांनाय समाव बेयो खामानिआव नांथाव जानो हागौ।नोंथाङा { -brand-short-name } नि सरासनस्रा सोंथिनि फिननायखौ नागिरोब्ला,जोंनि <a data-l10n-name="support-link">हेफाजाब वेबसाइट</a> आव थां।
-
 crashes-title = क्रेस रिपर्ट
 crashes-id = रिपर्ट ID
 crashes-send-date = गथायबाय
@@ -37,7 +36,6 @@ app-basics-user-agent = बाहायग्रा थान्दै
 app-basics-os = OS
 app-basics-memory-use = मेमरि बाहायनाय
 app-basics-multi-process-support = माल्टिप्रसेस उइन्ड'स
-
 modified-key-prefs-title = गोनांथार फोसाबनाय पसन्दफोर
 modified-prefs-name = मुं
 modified-prefs-value = बेसेन
@@ -68,6 +66,12 @@ media-device-group = हानजा
 
 ## Codec support table
 
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+
 ##
 
 
@@ -90,7 +94,6 @@ report-crash-for-days =
         [one] जोबथा { $days } साननि थाखाय क्रेस रिपर्ट
        *[other] जोबथा { $days } साननि थाखाय क्रेस रिपर्ट
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -98,7 +101,6 @@ crashes-time-minutes =
         [one] { $minutes } मिनिट सिगां
        *[other] { $minutes } मिनिट सिगां
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -106,7 +108,6 @@ crashes-time-hours =
         [one] { $hours } घन्टा सिगां
        *[other] { $hours } घन्टा सिगां
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -114,7 +115,6 @@ crashes-time-days =
         [one] { $days } सान सिगां
        *[other] { $days } सान सिगां
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -122,7 +122,6 @@ pending-reports =
         [one] गासै क्रेस रिपर्ट (होखानाय समनि सिङाव { $reports } थाबथानाय क्रेसखौ लाफानानै)
        *[other] गासै क्रेस रिपर्ट (होखानाय समनि सिङाव { $reports } थाबथानाय क्रेसखौ लाफानानै)
     }
-
 raw-data-copied = गोथां डाटाखौ क्लिपबर्डआव कपि खालामबाय
 text-copied = फराखौ क्लिपबर्डआव कपि खालामबाय
 
@@ -134,11 +133,9 @@ blocked-os-version = नोंथांनि अपारेटिं सिस
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = नोंथांनि ग्राफिक्स ड्राइभार बिसाननि थाखाय ब्लक खालामबाय। नोंथांनि ग्राफिक्स ड्राइभारखौ बिसान { $driverVersion } एबा गोदानसिन बिसानआव आपडेट खालामनो नाजा।
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType पेरामिटारफोर
-
 yes = नंगौ
 no = नङा
 unknown = मोनथिमोनै
@@ -155,25 +152,19 @@ gpu-ram = RAM
 gpu-driver-version = ड्राइभार बिसान
 gpu-driver-date = ड्राइभार अक्ट'
 gpu-active = मावथि
-
 glcontext-crash-guard = OpenGL
-
 min-lib-versions = खमसिन बिसान मिजिंथिबाय
 loaded-lib-versions = बाहायनाय बिसान
-
 has-seccomp-bpf = Seccomp-BPF (सिस्टेम कल फिल्टारिं)
 can-sandbox-content = कन्टेन्ट प्रचेस सेण्डबक्सिं
 can-sandbox-media = मेडिया प्लागिन सेण्डबक्सिं
 sandbox-proc-type-content = थानायआयदा
-
 launcher-process-status-0 = मावथि खालामबाय
 launcher-process-status-unknown = मिथिमोनै थाखोमान
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-
 apz-none = मोनसेबो नङा
 
 ## Variables
@@ -187,5 +178,15 @@ policies-error = गोरोन्थि
 
 ## Printing section
 
+
+## Remote Settings sections
+
+
 ## Normandy sections
+
+
+## Pointing devices
+
+
+## Content Analysis (DLP)
 

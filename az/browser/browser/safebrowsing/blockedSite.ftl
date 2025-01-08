@@ -10,6 +10,8 @@ safeb-blocked-phishing-page-short-desc = { -brand-short-name } bu səhifəni ən
 safeb-blocked-malware-page-short-desc = Bu səhifə kompüterinizdəki şəxsi məlumatları oğurlaya və ya silə biləcək təhlükəli tətbiqləri quraşdıra bilər deyə { -brand-short-name } səhifəni blokladı.
 safeb-blocked-unwanted-page-short-desc = Bu səhifə sizi səyahətinizə mane ola biləcək (məsələn, ana səhifənizi dəyişəcək və ya saytlarda sizə əlavə proqramlar göstərəcək) proqramları qurmaq üçün aldada bilər deyə { -brand-short-name } səhifəni blokladı.
 safeb-blocked-harmful-page-short-desc = Bu səhifə məlumatlarınızı (məsələn: şəkillər, parollar, mesajlar və kredit kartları) oğurlayacaq və ya siləcək təhlükəli tətbiqlər quraşdıra bilər deyə { -brand-short-name } səhifəni blokladı.
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Məsləhətlər <a data-l10n-name='advisory_provider'>{ $advisoryname }</a> tərəfindən təmin edilib.
 safeb-palm-accept-label = Geri get
 safeb-palm-see-details-label = Detalları göstər
@@ -27,7 +29,9 @@ safeb-blocked-phishing-page-learn-more = Aldadıcı saytlar və fişinq haqqınd
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
+
 ##
+
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page

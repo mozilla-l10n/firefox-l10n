@@ -74,9 +74,6 @@ autofill-address-eircode = Eircode
 
 ##
 
-
-##
-
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = नया पता जोड़ें
 autofill-address-country = देश या क्षेत्र

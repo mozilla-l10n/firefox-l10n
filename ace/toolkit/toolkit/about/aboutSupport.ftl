@@ -6,7 +6,6 @@ support-addons-name = Nan
 security-software-name = Nan
 features-name = Nan
 app-basics-name = Nan
-
 modified-prefs-name = Nan
 locked-prefs-name = Nan
 
@@ -15,6 +14,12 @@ locked-prefs-name = Nan
 media-device-name = Nan
 
 ## Codec support table
+
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
 
 ##
 
@@ -42,7 +47,6 @@ unknown = Hana Jituri
 ## not found.
 
 glcontext-crash-guard = OpenGL
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -54,7 +58,18 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+
 ## Printing section
 
+
+## Remote Settings sections
+
+
 ## Normandy sections
+
+
+## Pointing devices
+
+
+## Content Analysis (DLP)
 

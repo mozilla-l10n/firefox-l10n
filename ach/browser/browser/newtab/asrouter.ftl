@@ -129,5 +129,28 @@ fxa-sync-cfr-secondary = Poo wiya lacen
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-header = Itye ka tic ki nyonyo ma otii?
-device-migration-fxa-spotlight-link = Poo wiya lacen
+
+## Set as Default PDF Reader Infobar
+
+
+## Launch on login infobar notification
+
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+
+## Tail Fox Set Default Spotlight
+
+
+## Root Certificate Succession Infobar
+
+
+## Root Certificate Succession Windows Background Notification
+
+
+## FxA Menu Message variants
+
+
+## Multi-CTA Fox Doodle Spotlight
+

@@ -9,7 +9,6 @@ about-service-workers-title = Pri Service Workers
 about-service-workers-main-title = Registritaj Service Workers
 about-service-workers-warning-not-enabled = Service Workers ne estas aktivaj.
 about-service-workers-warning-no-service-workers = Neniu registrita Service Workers.
-
 # The original title of service workers' information
 #
 # Variables:
@@ -29,12 +28,8 @@ active-cache-name = <strong>Nomo de aktiva staplo:</strong> { $name }
 waiting-cache-name = <strong>Nomo de atendanta staplo:</strong> { $name }
 push-end-point-waiting = <strong>Flanko de «Push»:</strong> { waiting }
 push-end-point-result = <strong>Flanko de «Push»:</strong> { $name }
-
 # This term is used as a button label (verb, not noun).
 update-button = Ĝisdatigi
-
 unregister-button = Malregistri
-
 unregister-error = Malsukcesa malregistro de tiu ĉi Service Worker.
-
 waiting = Atendo…

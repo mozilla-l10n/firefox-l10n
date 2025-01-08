@@ -6,7 +6,6 @@ tabmodalprompt-username =
     .value = ناوی بەکارهێنەر:
 tabmodalprompt-password =
     .value = وشەی تێپەڕبوون:
-
 tabmodalprompt-ok-button =
     .label = باشە
 tabmodalprompt-cancel-button =

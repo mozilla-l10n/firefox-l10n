@@ -4,5 +4,5 @@
 
 refresh-profile =
     .label = { -brand-short-name } Tazertilsin
-# Shown on the safe mode dialog after multiple startup crashes. 
+# Shown on the safe mode dialog after multiple startup crashes.
 auto-safe-mode-description = { -brand-short-name }, başlağanda beklenmegen bir şekilde qapandı. Bunıñ müsebbibi eklentiler yaki başqa meseleler olabilir. Emin Tarz'da dert-ataraq meseleni çezmege deñeybilirsiñiz.

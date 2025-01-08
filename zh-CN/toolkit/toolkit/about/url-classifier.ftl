@@ -5,7 +5,11 @@
 url-classifier-title = URL 分类器信息
 url-classifier-search-title = 搜索
 url-classifier-search-result-title = 结果
+# Variables:
+#   $uri (string) - URI of blocked page
 url-classifier-search-result-uri = URI: { $uri }
+# Variables:
+#   $list (string) - List of tables where the page is blocked
 url-classifier-search-result-list = 表格列表: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = 无效 URL
@@ -40,7 +44,6 @@ url-classifier-debug-sb-modules = 安全浏览日志模块
 url-classifier-debug-modules = 当前日志模块
 url-classifier-debug-sbjs-modules = 安全浏览 JS 日志
 url-classifier-debug-file = 当前日志文件
-
 url-classifier-trigger-update = 触发更新
 url-classifier-not-available = 不可用
 url-classifier-disable-sbjs-log = 禁用安全浏览 JS 日志

@@ -50,8 +50,13 @@ inactive-css-border-image = <strong>{ $property }</strong> không ảnh hưởng
 inactive-css-ruby-element = <strong>{ $property }</strong> không ảnh hưởng đến phần tử này vì nó là phần tử ruby. Kích thước của nó được xác định bởi kích thước phông chữ của văn bản ruby.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain how
-## the problem can be solved.
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
 
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> không được hỗ trợ trên pseudo-elements được tô sáng.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> không được hỗ trợ trên ::cue pseudo-elements.

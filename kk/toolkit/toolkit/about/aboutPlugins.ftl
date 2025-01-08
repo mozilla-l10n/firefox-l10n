@@ -6,8 +6,6 @@ title-label = Плагиндер туралы
 installed-plugins-label = Орнатылған плагиндер
 no-plugins-are-installed-label = Ортатылған плагиндер табылмады
 deprecation-description = Бірнәрсе жетіспей ма? Кейбір плагиндерге қолдау енді жоқ. <a data-l10n-name="deprecation-link">Көбірек білу.</a>
-deprecation-description2 =
-    .message = Бірнәрсе жетіспей ма? Кейбір плагиндерге қолдау енді жоқ.
 
 ## The information of plugins
 ##

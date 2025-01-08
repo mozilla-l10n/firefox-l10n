@@ -175,11 +175,11 @@ applications-manage-app =
 applications-always-ask =
     .label = ಪ್ರತಿ ಬಾರಿಯೂ ಕೇಳು
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } ಅನ್ನು ಬಳಸು ({ -brand-short-name } ನಲ್ಲಿ)
 
@@ -204,6 +204,8 @@ applications-use-other-label =
 
 play-drm-content-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
 update-application-title = { -brand-short-name } ನವೀಕರಣಗಳು
+# Variables:
+# $version (string) - Firefox version
 update-application-version = ಆವೃತ್ತಿ{ $version } <a data-l10n-name="learn-more">ಹೊಸತೇನಿದೆ</a>
 update-history =
     .label = ಅಪ್ಡೇಟ್ ಇತಿಹಾಸವನ್ನು ತೋರಿಸು…
@@ -226,7 +228,7 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = ಪರಿವಿಡಿ ಪ್ರಕ್ರೀಯೆ ಮಟ್ಟ
     .accesskey = L
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (ಪೂರ್ವನಿಯೋಜಿತ)
 
@@ -285,11 +287,8 @@ choose-bookmark =
 home-prefs-search-header =
     .label = ಜಾಲದ ಹುಡುಕಾಟ
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
-# Variables:
-#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } ರಿಂದ ಶಿಫಾರಸುಮಾಡುಲಾಗಿದೆ
 
@@ -336,7 +335,7 @@ search-find-more-link = ಇನ್ನಷ್ಟು ಹುಡುಕು ಎಂಜಿ
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = ಬಳಸಲ್ಪಟ್ಟ ಕೀಲಿಪದ
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = "{ $name }" ನಿಂದ ಈಗಾಗಲೆ ಬಳಸಲ್ಪಡುತ್ತಿರುವ ಒಂದು ಕೀಲಿಪದವನ್ನು ಆಯ್ಕೆ ಮಾಡಿದ್ದೀರಿ. ದಯವಿಟ್ಟು ಬೇರೆಯದನ್ನು ಆಯ್ಕೆ ಮಾಡಿ.
 search-keyword-warning-bookmark = ಒಂದು ಬುಕ್‌ಮಾರ್ಕಿನಿಂದ ಈಗಾಗಲೆ ಬಳಸಲ್ಪಡುತ್ತಿರುವ ಒಂದು ಕೀಲಿಪದವನ್ನು ಆಯ್ಕೆ ಮಾಡಿದ್ದೀರಿ. ದಯವಿಟ್ಟು ಬೇರೆಯದನ್ನು ಆಯ್ಕೆ ಮಾಡಿ.
 
@@ -445,6 +444,9 @@ forms-exceptions =
 forms-saved-logins =
     .label = ಉಳಿಸಿದ ಲಾಗಿನ್‌ಗಳು...
     .accesskey = L
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = ಮಾಸ್ಟರ್ ಗುಪ್ತಪದವನ್ನು ಬದಲಾಯಿಸು...
     .accesskey = M

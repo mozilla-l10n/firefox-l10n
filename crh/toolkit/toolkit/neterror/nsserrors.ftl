@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -9,13 +10,11 @@
 
 psmerr-ssl-disabled = Güvenli olarak bağlanamıyor, çünkü SSL iletişim kuralı devre dışı bırakıldı.
 psmerr-ssl2-disabled = Güvenli olarak bağlanamıyor, çünkü site SSL iletişim kuralının eski ve güvensiz sürümünü qullana.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Keçersiz bir şeadetname aldıñız. Lütfen sunucı memurı ile temasqa keçip ya da muhbiriñizge e-poçta yazıp aşağıdaki malümatnı beriñiz:
     
     Şeadetnameñiz, bu şeadetname salâhiyeti tarafından ihrac etilgen başqa bir şeadetname ile aynı seriya nomerasını ihtiva ete. Lütfen emsalsiz bir seriya numarasına saip yañı bir şeadetname elde etiñiz.
-
 ssl-error-export-only-server = Güvenli iletişim kurulamadı. Karşı taraf yüksek düzeyde şifrelemeyi desteklemiyor.
 ssl-error-us-only-server = Güvenli iletişim kurulamadı. Karşı taraf şu an desteklenmeyen yüksek düzey şifreleme istiyor.
 ssl-error-no-cypher-overlap = Karşı tarafla güvenli iletişim kurulamadı: Ortak bir şifreleme çözüm yolu yok.
@@ -152,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = Desteklengen bir TLS imza algoritma
 ssl-error-unsupported-signature-algorithm = Aqran, desteklenmegen bir imza ve qıyım (hash) algoritması bileşkesini qullandı.
 ssl-error-missing-extended-master-secret = Aqran, doğru bir extended_master_secret uzantısı olmadan devam ettirmege çalıştı.
 ssl-error-unexpected-extended-master-secret = Aqran, beklenmegen bir extended_master_secret uzantısı ile devam ettirmege çalıştı.
-
 sec-error-io = Güvenlik doğrulaması sırasında giriş-çıkış hatası meydana geldi.
 sec-error-library-failure = Güvenlik kitaplığı hatası.
 sec-error-bad-data = Güvenlik kitaplığı: Kötü veri alındı.
@@ -319,7 +317,6 @@ sec-error-locked-password = Sır-söz kilitli.
 sec-error-unknown-pkcs11-error = Bilinmegen PKCS #11 hatası.
 sec-error-bad-crl-dp-url = CRL dağıtım noqtası isminde keçersiz yaki desteklenmegen URL.
 sec-error-cert-signature-algorithm-disabled = Şeadetname, emniyetli olmağanından dolayı ğayrıqabilleştirilgen bir imza algoritması qullanılaraq imzalandı.
-
 mozilla-pkix-error-key-pinning-failure = Sunucı anahtar tüyreme (HPKP) qullana amma tüyreme kümesi ile eşleşken itimatlı bir şeadetname zıncırı inşa etilamadı. Anahtar tüyreme ihlâlleri üstünden aydanalmaz.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Sunucı, kendisini şeadetname salâhiyeti olaraq kimliklendirgen temel qısıtlamalar uzantısı ile bir şeadetname qullana. Münasip-ihraclı şeadetname içün böyle olmaması lâzim.
 mozilla-pkix-error-inadequate-key-size = Sunucı, emniyetli bir bağlantı tesisi içün anahtar uzunlığı fazla qısqa olğan bir şeadetname ibraz etti.
@@ -334,11 +331,9 @@ mozilla-pkix-error-invalid-integer-encoding = Sunucı, keçersiz bir tamsayı ko
 mozilla-pkix-error-empty-issuer-name = Sunucı, boş bir ihraccı güzide adını (DN) muhteviy bir şeadetname ibraz etti.
 mozilla-pkix-error-additional-policy-constraint-failed = Bu şeadetnameni doğrulağanda ek bir siyaset qısıtlaması muvaffaqiyetsiz edi.
 mozilla-pkix-error-self-signed-cert = Şeadetnamege itimat etilmey çünki öz-imzalıdır.
-
 xp-java-remove-principal-error = Baş bölüm kaldırılamadı.
 xp-java-delete-privilege-error = Ayrıcalık ortadan kaldırılamadı
 xp-java-cert-not-exists-error = Bu baş bölümün onay belgesi yok
-
 xp-sec-fortezza-bad-card = Fortezza kartı düzgün olarak çalıştırılamadı. Lütfen çıkarıp dağıtıcınıza geri götürün.
 xp-sec-fortezza-no-card = Fortezza kartı bulunamadı
 xp-sec-fortezza-none-selected = Fortezza kartı seçilmedi

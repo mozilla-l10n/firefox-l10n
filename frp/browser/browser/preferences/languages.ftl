@@ -4,26 +4,19 @@
 
 languages-close-key =
     .key = w
-
 languages-customize-moveup =
     .label = Modar amont
     .accesskey = m
-
 languages-customize-movedown =
     .label = Modar aval
     .accesskey = v
-
 languages-customize-remove =
     .label = Garar
     .accesskey = G
-
 languages-customize-add =
     .label = Apondre
     .accesskey = A
-
 browser-languages-window2 =
     .title = Règllâjos de lengues de { -brand-short-name }
     .style = min-width: 40em
-
 browser-languages-search = Chèrchiér dʼâtres lengües...
-

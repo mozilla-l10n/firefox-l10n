@@ -59,8 +59,6 @@ sidebar-description = 輕鬆存取您的瀏覽紀錄、其他裝置上的分頁�
 vertical-tabs-title =
     .label = 垂直分頁標籤
 vertical-tabs-description = 將您的分頁從瀏覽器頂端移到側邊，需要您也試用側邊欄功能。<a data-l10n-name="connect">分享意見回饋</a>
-experimental-features-group-browsing =
-    .label = 瀏覽
 experimental-features-group-developer-tools =
     .label = 開發者工具
 experimental-features-group-webpage-display =

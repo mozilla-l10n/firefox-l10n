@@ -73,8 +73,6 @@ sidebar-callout-survey-privacy-notice-link = Avís de privadesa
 sidebar-callout-survey-very-satisfied = Molt satisfet/a
 sidebar-callout-survey-satisfied = Satisfet/a
 sidebar-callout-survey-neutral = Neutre/a
-sidebar-callout-survey-dissatisfied = Insatisfet/a
-sidebar-callout-survey-very-dissatisfied = Molt insatisfet/a
 sidebar-callout-survey-dont-use-it = No l’utilitzo
 sidebar-callout-survey-productive-question =
     Fins a quin punt esteu d'acord o en desacord amb aquesta afirmació:<br/>

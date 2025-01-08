@@ -231,6 +231,8 @@ shortcuts-duplicate-warning-message2 =
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Lisa { $addon } juba kasutab seda
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Näita veel ühte
@@ -395,6 +397,8 @@ addon-permissions-optional = Valikulised õigused täiendava funktsionaalsuse ja
 addon-permissions-learnmore = Rohkem teavet õiguste kohta
 recommended-extensions-heading = Soovitatavad laiendused
 recommended-themes-heading = Soovitatavad teemad
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
 addon-sitepermissions-required = Annab saidile <span data-l10n-name="hostname">{ $hostname }</span> järgmised võimekused:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
@@ -422,7 +426,7 @@ addon-page-options-button =
 ##   $name (string) - Name of the add-on.
 
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = Lisa { $name } ei ühildu { -brand-short-name }i versiooniga { $version }.
 # Variables:
 #   $version (string) - Application version.

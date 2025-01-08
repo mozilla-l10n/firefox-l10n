@@ -39,8 +39,6 @@ address-capture-manage-address-button =
     .label = Impostazions direzions
 address-capture-learn-more-button =
     .label = Plui informazions
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Zonte gnûf recapit
 address-capture-open-menu-button =
     .aria-label = Vierç menù
 address-capture-edit-address-button =
@@ -49,10 +47,10 @@ address-capture-edit-address-button =
 autofill-add-address-title = Zonte recapit
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Modifiche recapit
-autofill-address-name = Non
 autofill-address-given-name = Non
 autofill-address-additional-name = Secont non
 autofill-address-family-name = Cognon
+autofill-address-name = Non
 autofill-address-organization = Organizazion
 autofill-address-street-address = Direzion di cjase
 autofill-address-street = Direzion di cjase
@@ -108,9 +106,8 @@ autofill-address-eircode = Eircode
 
 ##
 
-
-##
-
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Zonte gnûf recapit
 autofill-address-country = Paîs o regjon
 autofill-address-country-only = Paîs
 autofill-address-tel = Telefon

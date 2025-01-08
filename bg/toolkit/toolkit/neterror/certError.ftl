@@ -107,3 +107,10 @@ networkProtocolError-title = Нарушение на мрежовия прото
 nssBadCert-title = Внимание: Вероятен риск за сигурността
 nssBadCert-sts-title = Неуспешно свързване: Евентуален проблем със сигурността
 certerror-mitm-title = Софтуер пречи на { -brand-short-name } да осъществи защитена връзка към страницата
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+

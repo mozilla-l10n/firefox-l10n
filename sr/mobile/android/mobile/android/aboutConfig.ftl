@@ -6,11 +6,9 @@ config-toolbar-search =
     .placeholder = Претрага
 config-new-pref-name =
     .placeholder = Име
-
 config-new-pref-value-boolean = Boolean
 config-new-pref-value-string = Стринг
 config-new-pref-value-integer = Број
-
 config-new-pref-string =
     .placeholder = Унесите стринг
 config-new-pref-number =
@@ -18,12 +16,9 @@ config-new-pref-number =
 config-new-pref-cancel-button = Откажи
 config-new-pref-create-button = Направи
 config-new-pref-change-button = Промени
-
 config-pref-toggle-button = Промени стање
 config-pref-reset-button = Ресетуј
-
 config-context-menu-copy-pref-name =
     .label = Копирај име
 config-context-menu-copy-pref-value =
     .label = Копирај вредност
-

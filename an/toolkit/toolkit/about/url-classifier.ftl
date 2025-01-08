@@ -5,7 +5,11 @@
 url-classifier-title = Información sobre lo clasificador d'URLs
 url-classifier-search-title = Buscar
 url-classifier-search-result-title = Resultaus
+# Variables:
+#   $uri (string) - URI of blocked page
 url-classifier-search-result-uri = URI: { $uri }
+# Variables:
+#   $list (string) - List of tables where the page is blocked
 url-classifier-search-result-list = Lista de tablas: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = URL invalida
@@ -40,7 +44,6 @@ url-classifier-debug-sb-modules = Modulos de log de navegación segura
 url-classifier-debug-modules = Modulos de log actuals
 url-classifier-debug-sbjs-modules = Log JS de navegación segura
 url-classifier-debug-file = Fichero de rechistro actual
-
 url-classifier-trigger-update = Actualización de disparador
 url-classifier-not-available = N/D
 url-classifier-disable-sbjs-log = Desactivar lo Log JS de navegación segura

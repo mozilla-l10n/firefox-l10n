@@ -4,6 +4,5 @@
 
 notification-learnmore-default-label =
     .value = Saznajte više
-
 close-notification-message =
     .tooltiptext = Zatvori ovu poruku

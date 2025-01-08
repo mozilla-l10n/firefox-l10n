@@ -484,8 +484,7 @@ home-prefs-shortcuts-description = وب‌سایت‌هایی که ذخیره ی
 home-prefs-shortcuts-by-option-sponsored =
     .label = میانبرهایی از حامیان مالی
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = پیشنهاد شده توسط { $provider }

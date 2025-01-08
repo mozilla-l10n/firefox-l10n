@@ -225,7 +225,6 @@ newtab-pocket-learn-more = Tetamäx ch'aqa' chik
 newtab-pocket-cta-button = Tik'ul { -pocket-brand-name }
 newtab-pocket-cta-text = Ke'ayaka' ri taq b'anob'äl ye'awajo' pa { -pocket-brand-name }, chuqa' taya' ruchuq'a' ajolom kik'in jeb'ël taq sik'inïk.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } jun { -brand-product-name } qach'alal
-# A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Tiyak
 newtab-pocket-saved = Xyak
 
@@ -288,4 +287,12 @@ newtab-custom-settings = Tinuk'samajïx ch'aqa' runuk'ulem
 
 
 ## Topic Selection Modal
+
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Confirmation modal for blocking a section
 

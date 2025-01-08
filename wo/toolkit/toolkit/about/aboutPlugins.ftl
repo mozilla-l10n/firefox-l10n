@@ -6,8 +6,6 @@ title-label = Ñeel lawal yi
 installed-plugins-label = Campéefi lawal
 no-plugins-are-installed-label = Giseesu fi genn campéefi lawal
 deprecation-description = Dafa am lu fi nekkul? Yenn lawal yi yoratuñleen fi. <a data-l10n-name="deprecation-link">Gën cee xam.</a>
-deprecation-description2 =
-    .message = Dafa am lu fi nekkul? Yenn lawal yi yoratuñleen fi.
 
 ## The information of plugins
 ##

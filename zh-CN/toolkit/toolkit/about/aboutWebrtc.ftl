@@ -33,8 +33,6 @@ about-webrtc-aec-logging-toggled-off-state-msg = 捕捉到的日志文件在这�
 
 # The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = 自动刷新
-# Determines the default state of the Auto Refresh check boxes
-about-webrtc-auto-refresh-default-label = 默认自动刷新
 # A button which forces a refresh of displayed statistics
 about-webrtc-force-refresh-button = 刷新
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
@@ -98,8 +96,8 @@ about-webrtc-save-page-label = 保存页面
 about-webrtc-debug-mode-msg-label = 调试模式
 about-webrtc-debug-mode-off-state-label = 开始调试模式
 about-webrtc-debug-mode-on-state-label = 停止调试模式
-about-webrtc-enable-logging-label = 启用 WebRTC 日志预设
 about-webrtc-stats-heading = 会话统计
+about-webrtc-enable-logging-label = 启用 WebRTC 日志预设
 about-webrtc-peerconnections-section-heading = RTCPeerConnection 统计信息
 about-webrtc-peerconnections-section-show-msg = 显示 RTCPeerConnection 统计信息
 about-webrtc-peerconnections-section-hide-msg = 隐藏 RTCPeerConnection 统计信息
@@ -229,10 +227,7 @@ about-webrtc-round-trip-time-ms = 往返时延（RTT | ms）
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = 视频帧统计信息 - MediaStreamTrack ID：{ $track-identifier }
 
-## These are paths used for saving the about:webrtc page or log files so
-## they can be attached to bug reports.
-## Variables:
-##  $path (String) - The path to which the file is saved.
+##
 
 about-webrtc-save-page-msg = 页面已保存到: { $path }
 about-webrtc-debug-mode-off-state-msg = 跟踪日志可以在这里找到: { $path }

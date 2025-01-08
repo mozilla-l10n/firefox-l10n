@@ -17,7 +17,9 @@ pocket-panel-signup-login = Ingia
 
 ## about:pocket-home panel
 
+
 ## Pocket panel header component
+
 
 ## Pocket panel buttons
 

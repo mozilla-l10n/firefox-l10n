@@ -4,6 +4,5 @@
 
 notification-learnmore-default-label =
     .value = Lairn mair
-
 close-notification-message =
     .tooltiptext = Sneck this message

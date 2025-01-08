@@ -226,7 +226,6 @@ newtab-pocket-learn-more = Barrachd fiosrachaidh
 newtab-pocket-cta-button = Faigh { -pocket-brand-name }
 newtab-pocket-cta-text = Sàbhail na sgeulachdan as fhearr leat ann am { -pocket-brand-name } is faigh toileachas inntinn san leughadh.
 newtab-pocket-pocket-firefox-family = Tha { -pocket-brand-name } ’na phàirt de theaghlach bathar { -brand-product-name }
-# A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Sàbhail
 newtab-pocket-saved = Air a shàbhaladh
 
@@ -292,4 +291,12 @@ newtab-custom-settings = Stiùirich barrachd roghainnean
 
 
 ## Topic Selection Modal
+
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Confirmation modal for blocking a section
 

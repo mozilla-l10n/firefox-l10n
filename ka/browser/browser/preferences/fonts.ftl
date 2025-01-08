@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = შრიფტები
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = შრიფტები
     .accesskey = შ
-
 fonts-langgroup-arabic =
     .label = არაბული
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = იერსახე
     .accesskey = ი
-
 fonts-default-serif =
     .label = ნაჭდევებიანი
 fonts-default-sans-serif =
     .label = უნაჭდევო
-
 fonts-proportional-size = ზომა
     .accesskey = ზ
-
 fonts-serif = ნაჭდევებიანი
     .accesskey = ნ
-
 fonts-sans-serif = უნაჭდევო
     .accesskey = ე
-
 fonts-monospace = თანაბარი სიგანის
     .accesskey = თ
-
 fonts-monospace-size = ზომა
     .accesskey = ო
-
 fonts-minsize = შრიფტის უმცირესი ზომა
     .accesskey = უ
-
 fonts-minsize-none =
     .label = შეუზღუდავი
-
 fonts-allow-own =
     .label = ნების დართვა ვებგვერდებისთვის, თავად აირჩიოს შრიფტები, ზემოთ მითითებულის მიუხედავად
     .accesskey = ნ
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

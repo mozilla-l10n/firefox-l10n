@@ -98,7 +98,7 @@ places-delete-page =
            *[other] 刪除頁面
         }
     .accesskey = D
-# Managed bookmarks are created by an administrator and cannot be changed by the user.
+# Managed bookmarks are created by enterprise policy and cannot be changed by the user.
 managed-bookmarks =
     .label = 受管理的書籤
 # This label is used when a managed bookmarks folder doesn't have a name.

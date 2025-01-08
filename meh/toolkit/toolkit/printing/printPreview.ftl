@@ -12,4 +12,3 @@ printpreview-close =
 
 printpreview-percentage-value =
     .label = { $percent }%
-

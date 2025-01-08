@@ -3,5 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = Ríquese'l reaniciu
-
 restart-button-label = Reaniciar { -brand-short-name }

@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = ပျက်ဆီးချက်တင်ပြသူ
-crashreporter-crash-message = { -brand-short-name }သည်ပြသာနာတစ်ခုဖြင့်ကြုံတွေ့ရပြီးပိတ်သိမ်းသွားသည်။
 crashreporter-plea = ကျွန်ုပ်တို့အားကူညီရန်ဤဖြစ်ရပ်အားတိုင်ကြားပေးနိုင်ပါသည်။
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = အသေးစိတ် { $details }

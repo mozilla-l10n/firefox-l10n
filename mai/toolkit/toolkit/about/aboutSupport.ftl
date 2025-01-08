@@ -4,7 +4,6 @@
 
 page-title = विघ्ननिवारण सूचना
 page-subtitle = एहि पृष्ठ मे तकनीकि जानकारी शामिल अछि जे अहॉंक मदद कए सकैत अछि जखनअहॉं कोनो समस्या क सामधान ताकि रहल होयब. जँ अहॉं समान्य प्रश्न लेल उत्तर ताकि रहल छी { -brand-short-name }, हमर <a data-l10n-name="support-link">समर्थि‍त वेबसाइट क जाँच करू.</a>
-
 crashes-title = क्रैश रिपोर्टर
 crashes-id = Report ID
 crashes-send-date = सौंपल
@@ -32,7 +31,6 @@ app-basics-memory-use = स्मृति के उपयोग
 app-basics-service-workers = पंजीकृत सर्विस वर्कर
 app-basics-multi-process-support = मल्टी प्रोसेस विंडोज़
 app-basics-safe-mode = सुरक्षित मोड
-
 modified-key-prefs-title = महत्वपूर्ण रूपांतरित वरीयता
 modified-prefs-name = नाम
 modified-prefs-value = मान
@@ -54,6 +52,12 @@ sandbox-title = सैंडबक्सा
 
 
 ## Codec support table
+
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
 
 ##
 
@@ -77,7 +81,6 @@ report-crash-for-days =
         [one] अंतिम { $days } दिवसक लेल क्रैश रिपोर्टर
        *[other] अंतिम { $days } दिनक लेल क्रैश रिपोर्टर
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -85,7 +88,6 @@ crashes-time-minutes =
         [one] { $minutes } मिनट आगाँ
        *[other] { $minutes } मिनटसभ आगाँ
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -93,7 +95,6 @@ crashes-time-hours =
         [one] { $hours } घंटा आगाँ
        *[other] { $hours } घंटा आगाँ
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -101,7 +102,6 @@ crashes-time-days =
         [one] { $days } दिवस पहिने
        *[other] { $days } दिवस पहिन
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -109,7 +109,6 @@ pending-reports =
         [one] सभ क्रैश रिपोर्ट (जकरा { $reports } स्थगित क्रैश अछि देल समय परिसरमे)
        *[other] सभ क्रैश रिपोर्ट (जकरा { $reports } स्थगित क्रैश अछि देल समय परिसरमे)
     }
-
 raw-data-copied = क्लिपबोर्ड मे पाठ नकल कएल गेल
 text-copied = क्लिपबोर्ड मे नकल कएल गेल पाठ
 
@@ -122,7 +121,6 @@ blocked-mismatched-version = रजिस्ट्री आओर DLL केर
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Blocked for your graphics driver version. Try updating your graphics driver to version { $driverVersion } or newer.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType Parameters
@@ -136,22 +134,18 @@ gpu-device-id = युक्ति ID
 gpu-subsys-id = उप सिस्टम ID
 gpu-driver-version = ड्राइवर संस्करण
 gpu-driver-date = ड्राइवर दिनांक
-
 min-lib-versions = प्रत्याशित न्यूनतम संस्करण
 loaded-lib-versions = उपयोग मे संस्करण
-
 has-seccomp-bpf = Seccomp - BPF (सिस्टम काल छनन )
 has-seccomp-tsync = Seccomp थ्रेड तुल्यकालन
 has-user-namespaces = उपयोक्ता नामस्थान
 has-privileged-user-namespaces = उपयोक्ता नेमस्पेस प्रिविलेज प्रक्रिया लेल
 can-sandbox-content = सामग्री प्रक्रिया सैंडबाक्सिंग
 can-sandbox-media = मीडिया प्लगइन सैंडबॉक्सिंग
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-
 async-pan-zoom = एसिंक्रोनस Pan/Zoom
 apz-none = किछु नहि
 wheel-enabled = पहिया इनपुट सक्षम
@@ -166,7 +160,18 @@ touch-warning = async टच इनपुट pref:{ $preferenceKey } द्व�
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+
 ## Printing section
 
+
+## Remote Settings sections
+
+
 ## Normandy sections
+
+
+## Pointing devices
+
+
+## Content Analysis (DLP)
 

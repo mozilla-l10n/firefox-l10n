@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Fontes
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Fontes pa
     .accesskey = F
-
 fonts-langgroup-arabic =
     .label = Árabe
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporcional
     .accesskey = P
-
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
-
 fonts-proportional-size = Tamañu
     .accesskey = T
-
 fonts-serif = Serif
     .accesskey = S
-
 fonts-sans-serif = Sans-serif
     .accesskey = n
-
 fonts-monospace = Monoespaciáu
     .accesskey = M
-
 fonts-monospace-size = Tamañu
     .accesskey = u
-
 fonts-minsize = Tamañu mínimu de la fonte
     .accesskey = o
-
 fonts-minsize-none =
     .label = Nengún
-
 fonts-allow-own =
     .label = Permitir que les páxines escueyan les sos fontes en cuentes d'esbillar les d'enriba
     .accesskey = P
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

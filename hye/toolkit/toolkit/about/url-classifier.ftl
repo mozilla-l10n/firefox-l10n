@@ -5,7 +5,11 @@
 url-classifier-title = URL դասակարգչի տեղեկատուութիւն
 url-classifier-search-title = Որոնում
 url-classifier-search-result-title = Արդիւնքներ
+# Variables:
+#   $uri (string) - URI of blocked page
 url-classifier-search-result-uri = URI: { $uri }
+# Variables:
+#   $list (string) - List of tables where the page is blocked
 url-classifier-search-result-list = Աղիւսակների ցուցակ․({ $list })
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = Անվավեր URL
@@ -40,7 +44,6 @@ url-classifier-debug-sb-modules = Անվտանգ դիտարկման մատեան
 url-classifier-debug-modules = Ընթացիկ տեղեկամատեանի մոդուլներ
 url-classifier-debug-sbjs-modules = Անվտանգ զննում JS մատեան
 url-classifier-debug-file = Ընթացիկ տեղեկամատեանի նիշք
-
 url-classifier-trigger-update = Ձգան թարմացում
 url-classifier-not-available = Ա/Ո
 url-classifier-disable-sbjs-log = Անջատել Անվտանգ դիտարկման JS մատեանը

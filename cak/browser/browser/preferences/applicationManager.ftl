@@ -5,15 +5,12 @@
 app-manager-window2 =
     .title = Taq kib'anikil chokoy
     .style = min-width: 30em; min-height: 20em;
-
 app-manager-remove =
     .label = Tiyuj
     .accesskey = y
-
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Re taq chokoy re' ütz ye'okisäx richin nisamajïx { $type } taq ximonel.
-
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Re taq chokoy re' ütz ye'okisäx richin nisamajïx { $type } rupam etamab'äl.

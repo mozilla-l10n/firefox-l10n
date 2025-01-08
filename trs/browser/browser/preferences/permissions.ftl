@@ -5,62 +5,47 @@
 permissions-window2 =
     .title = Sa huā gi'iát
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Si direksion sitio na
     .accesskey = d
-
 permissions-block =
     .label = Si ga'ni'
     .accesskey = S
-
 permissions-session =
     .label = Ga'ni' gi'iaj sun sesion
     .accesskey = S
-
 permissions-allow =
     .label = Ga'nin'
     .accesskey = A
-
 permissions-site-name =
     .label = Sitio web
-
 permissions-status =
     .label = Daj hua riñaj
-
 permissions-remove =
     .label = Guxun' sitio web
     .accesskey = G
-
 permissions-remove-all =
     .label = Guyun daran sitio web
     .accesskey = G
-
 permission-dialog =
     .buttonlabelaccept = Na’nïnj sà’ sa nadunat
     .buttonaccesskeyaccept = s
-
 permissions-autoplay-menu = Sa ngà hua niña guendâ nej sîtio:
-
 permissions-searchbox =
     .placeholder = Nana'ui' sitio web
-
 permissions-capabilities-autoplay-allow =
     .label = Ga'nïn sa gunïn' ngà sa ni'io'
 permissions-capabilities-autoplay-block =
     .label = Narán riña sa unïn'
 permissions-capabilities-autoplay-blockall =
     .label = Narán riña sa unïn' ngà sa ni'io'
-
 permissions-capabilities-allow =
     .label = Ga'nïn'
 permissions-capabilities-block =
     .label = Si ga'nïn'
 permissions-capabilities-prompt =
     .label = Gachinj na'anj yitïnj
-
 permissions-capabilities-listitem-allow =
     .value = Ga'nïn'
 permissions-capabilities-listitem-block =
@@ -102,6 +87,9 @@ permissions-exceptions-saved-logins-window2 =
     .title = Exsepsion - Nej sesión na'nîn so'
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Nej sesión gayi'i ñuna nī nitaj si nu sa'aj guenda a'ngò nej sitio web
+
+## Exceptions - Saved Passwords
+
 
 ## Exceptions - Add-ons
 

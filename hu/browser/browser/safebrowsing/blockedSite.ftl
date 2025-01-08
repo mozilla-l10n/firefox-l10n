@@ -10,6 +10,8 @@ safeb-blocked-phishing-page-short-desc = A { -brand-short-name } blokkolta ezt a
 safeb-blocked-malware-page-short-desc = A { -brand-short-name } blokkolta ezt az oldalt, mert lehet, hogy kártékony szoftvert próbál meg telepíteni, amely ellophatja vagy törölheti a személyes adatait a számítógépéről.
 safeb-blocked-unwanted-page-short-desc = A { -brand-short-name } blokkolta ezt az oldalt, mert megpróbálhatja olyan programok telepítésére rávenni, amelyek ártanak a böngészési élményének (például a kezdőoldala megváltoztatásával, vagy több reklám megjelenítésével az oldalakon, melyeket meglátogat).
 safeb-blocked-harmful-page-short-desc = A { -brand-short-name } blokkolta ezt az oldalt, mert lehet, hogy megpróbál veszélyes appokat telepíteni, amelyek ellopják vagy törlik az információit (például képek, üzenetek és bankkártyaadatok).
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = A tanácsadást biztosítja: <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Vissza
 safeb-palm-see-details-label = Részletek megtekintése

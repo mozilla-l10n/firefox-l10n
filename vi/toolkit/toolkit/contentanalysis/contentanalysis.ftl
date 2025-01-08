@@ -41,21 +41,6 @@ contentanalysis-genericresponse-message = Trình phân tích nội dung đã ph�
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-block-message = Tổ chức của bạn sử dụng phần mềm ngăn ngừa mất dữ liệu đã chặn nội dung này: { $content }.
 # Variables:
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-error-message = Đã xảy ra lỗi khi giao tiếp với phần mềm ngăn ngừa mất dữ liệu. Việc chuyển tiếp tài nguyên bị từ chối: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-unspecified-error-message = Đã xảy ra lỗi khi giao tiếp với { $agent }. Truyền dữ liệu bị từ chối cho tài nguyên: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-no-agent-connected-message = Không thể kết nối tới { $agent }. Truyền dữ liệu bị từ chối cho tài nguyên: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-invalid-agent-signature-message = Xác minh chữ ký không thành công cho { $agent }. Truyền dữ liệu bị từ chối cho tài nguyên: { $content }.
-# Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Localized text describing the content being blocked, such as "Paste denied."
 contentanalysis-unspecified-error-message-content = Đã xảy ra lỗi khi giao tiếp với { $agent }. { $content }

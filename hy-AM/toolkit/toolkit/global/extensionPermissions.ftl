@@ -29,3 +29,7 @@ webext-perms-description-tabs = Դիտարկիչի ներդիրների մատչ
 webext-perms-description-tabHide = Թաքցնել և ցուցադրել դիտարկիչի ներդիրները
 webext-perms-description-topSites = Դիտարկումների պատմության մատչում
 webext-perms-description-webNavigation = Նավիգացիայի ընթացքում մատչել դիտարկիչի ակտիվությանը
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

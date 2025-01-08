@@ -38,11 +38,9 @@ compatibility-issue-occurrences =
     { $number ->
        *[other] { $number } lần xuất hiện
     }
-
 compatibility-no-issues-found = Không tìm thấy vấn đề tương thích.
 compatibility-close-settings-button =
     .title = Đóng cài đặt
-
 # Text used in the element containing the browser icons for a given compatibility issue.
 # Line breaks are significant.
 # Variables:

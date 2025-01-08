@@ -9,17 +9,17 @@
 
 ##
 
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = ماڵپەڕ کار ناکات؟
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = ماڵپەڕ کار ناکات؟
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = ماڵپەڕ کار ناکات؟
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = ماڵپەڕ کار ناکات؟
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -43,10 +43,12 @@ protections-panel-blocking-label = بلۆککراوە
 protections-panel-not-blocking-label = ڕێگەپێدراوە
 protections-panel-not-found-label = هیچ نەدۆزرایەوە
 
+## Smartblock strings
+
+
 ##
 
 protections-panel-settings-label = ڕێکخستنەکانی پارێزگاری
-# This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
 protections-panel-protectionsdashboard-label = بۆردی پارێزگاری
 
 ## In the Site Not Working? view, we suggest turning off protections if

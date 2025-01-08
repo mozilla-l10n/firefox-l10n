@@ -11,7 +11,6 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Ne' rukùu
     .accesskey = B
-
 wizard-macos-button-next =
     .label = Guij ne' ñaan
     .accesskey = C
@@ -21,14 +20,12 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = Ne' ñaan >
     .accesskey = N
-
 wizard-macos-button-finish =
     .label = Dunahuij
 wizard-linux-button-finish =
     .label = Ngà nahui
 wizard-win-button-finish =
     .label = Ngà nahui
-
 wizard-macos-button-cancel =
     .label = Duyichin'
 wizard-linux-button-cancel =

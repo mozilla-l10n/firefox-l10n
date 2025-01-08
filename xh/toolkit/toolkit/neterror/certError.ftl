@@ -3,24 +3,19 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cert-error-trust-signature-algorithm-disabled = Isatifiketi asithenjwa ngenxa yokuba sisayinwe kusetyenziswa ialgorithimu yosayino ngenxa yokuba i-algorithimu ayikhuselekanga.
-
 cert-error-trust-self-signed = Isatifikethi asithenjwa kuba sisayinwe nguwe.
-
 # Variables:
-# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+#   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP Ukhuseleko Olungqongqo Lwesithuthi: { $hasHSTS }
-
 # Variables:
-# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+#   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Iqhosha Likawonkewonke Eliyintloko Lepinning: { $hasHPKP }
-
 cert-error-details-cert-chain-label = Ikhonkco lesatifikethi
 
 ## Messages used for certificate error titles
 
 connectionFailure-title = Ayikwazi kudibanisa
 deniedPortAccess-title = Le dilesi inemida
-
 fileNotFound-title = Ifayile ayifumaneki
 fileAccessDenied-title = Ufikelelo kule fayile lwalelwe
 generic-title = Oops.
@@ -41,3 +36,10 @@ nssFailure2-title = Unxibelelwano Ukhuseleko Aluphumelelanga
 corruptedContentError-title = Imposiso yomxholo owonakalisiweyo
 sslv3Used-title = Akunxibelelani ngokukhuselekileyo
 inadequateSecurityError-title = Uqhagamshelo lwakho alukhuselekanga
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+

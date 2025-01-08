@@ -4,4 +4,3 @@
 
 pw-remove-button =
     .label = Sampôh
-

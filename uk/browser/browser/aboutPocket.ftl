@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Додати мітки
-
 pocket-panel-saved-error-generic = При спробі збереження в { -pocket-brand-name } сталася помилка.
 pocket-panel-saved-error-tag-length = Мітки мають обмеження до 25 символів
 pocket-panel-saved-error-only-links = Можна зберігати лише посилання
@@ -29,7 +28,6 @@ pocket-panel-saved-save-tags = Зберегти
 pocket-panel-saved-saving-tags = Збереження…
 pocket-panel-saved-suggested-tags = Пропоновані мітки
 pocket-panel-saved-tags-saved = Мітки додано
-
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Додати мітки:
 
@@ -44,7 +42,6 @@ pocket-panel-signup-signup-firefox = Реєстрація з { -brand-product-na
 pocket-panel-signup-tagline = Зберігайте статті та відео з { -brand-product-name }, щоб переглядати їх в { -pocket-brand-name } на будь-якому пристрої та в будь-який час.
 pocket-panel-signup-tagline-story-one = Натисніть кнопку { -pocket-brand-name } для збереження будь-якої статті, відео чи сторінки з { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Переглядайте в { -pocket-brand-name } на будь-якому пристрої та в будь-який час.
-
 pocket-panel-signup-cta-a-fix = Ваша кнопка збереження з інтернету
 pocket-panel-signup-cta-b-updated = Зберігайте статті, відео та посилання за допомогою кнопки { -pocket-brand-name }. Переглядайте збережені матеріали коли завгодно на будь-якому пристрої.
 pocket-panel-signup-cta-b-short = Зберігайте статті, відео та посилання за допомогою кнопки { -pocket-brand-name }.
@@ -57,7 +54,6 @@ pocket-panel-home-paragraph = Ви можете застосовувати { -po
 pocket-panel-home-explore-popular-topics = Знайти популярні теми
 pocket-panel-home-discover-more = Відкрийте для себе більше
 pocket-panel-home-explore-more = Огляд
-
 pocket-panel-home-most-recent-saves = Ось, що ви недавно зберегли:
 pocket-panel-home-most-recent-saves-loading = Завантаження останніх збережених…
 pocket-panel-home-new-user-cta = Зберігайте статті, відео та посилання за допомогою кнопки { -pocket-brand-name }.

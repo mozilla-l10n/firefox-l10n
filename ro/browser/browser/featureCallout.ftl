@@ -14,3 +14,15 @@ callout-firefox-view-tab-pickup-title = Sari de pe un dispozitiv pe altul cu pre
 
 ## PDF.js Feature Tour Strings
 
+
+## Firefox View Discoverability Strings
+
+
+## Split Dismiss Button Labels
+
+
+## Sidebar Strings
+
+
+## Sidebar Callout Survey Strings
+

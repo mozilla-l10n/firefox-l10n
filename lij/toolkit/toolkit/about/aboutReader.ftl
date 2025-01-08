@@ -4,14 +4,12 @@
 
 about-reader-loading = Carego…
 about-reader-load-error = Inposcibile leze l’articolo da pagina
-
 about-reader-color-scheme-light = Ciæo
     .title = Conbinaçion de tinte ciæa
 about-reader-color-scheme-dark = Scuo
     .title = Conbinaçion de tinte scua
 about-reader-color-scheme-sepia = Sepia
     .title = Conbinaçion de tinte sepia
-
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -23,7 +21,7 @@ about-reader-estimated-read-time =
        *[other] { $range } menuti
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = Ridue dimenscion caratere
@@ -47,3 +45,14 @@ about-reader-font-type-sans-serif = Sans-serif
 
 about-reader-toolbar-close = Særa Modalitæ letua
 about-reader-toolbar-type-controls = Contròlli caratere
+
+## Reader View colors menu
+
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+
+## Reader View text and layout menu
+

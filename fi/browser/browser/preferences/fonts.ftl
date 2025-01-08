@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Kirjasinlajit
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Merkistö
     .accesskey = M
-
 fonts-langgroup-arabic =
     .label = Arabialainen
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Suhteellinen
     .accesskey = S
-
 fonts-default-serif =
     .label = Pääteviivallinen
 fonts-default-sans-serif =
     .label = Pääteviivaton
-
 fonts-proportional-size = Koko
     .accesskey = K
-
 fonts-serif = Pääteviivallinen
     .accesskey = P
-
 fonts-sans-serif = Pääteviivaton
     .accesskey = ä
-
 fonts-monospace = Tasavälinen
     .accesskey = T
-
 fonts-monospace-size = Koko
     .accesskey = o
-
 fonts-minsize = Pienin kirjasinkoko
     .accesskey = e
-
 fonts-minsize-none =
     .label = Ei ole
-
 fonts-allow-own =
     .label = Sivut saavat käyttää omia kirjasinlajejaan oletusten sijaan
     .accesskey = u
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

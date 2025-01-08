@@ -33,3 +33,7 @@ webext-perms-description-topSites = Kundaha rembiasakuépe jeike
 webext-perms-description-trialML = Emboguejy ha emongu’e IA rehegua ne mba’e’okápe
 webext-perms-description-userScripts = Emoneĩ scripts mbohapyháva ani hag̃ua oike ne mba’ekuaarãme
 webext-perms-description-webNavigation = Eike kundahára rembiapópe eikundaha aja
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

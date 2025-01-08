@@ -347,7 +347,6 @@ pdfjs-ink-canvas =
 
 ## Alt-text dialog
 
-# Alternative text (alt text) helps when people can't see the image.
 pdfjs-editor-alt-text-button-label = نص بديل
 pdfjs-editor-alt-text-edit-button-label = تحرير النص البديل
 pdfjs-editor-alt-text-dialog-label = اختر خيار
@@ -422,4 +421,7 @@ pdfjs-editor-highlight-show-all-button =
 
 
 ## Image alt-text settings
+
+
+## "Annotations removed" bar
 

@@ -103,7 +103,6 @@ print-window =
     .title = Tlačí sa
 print-complete =
     .value = Tlač je dokončená.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

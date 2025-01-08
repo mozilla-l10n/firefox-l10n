@@ -25,5 +25,6 @@ error-long-desc4 = Los rob√≤ts an de tafanaris de metal brilhant que devon pas √
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = E an un plan.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = Tornar ensajar
     .label2 = Quichetz pas sus aqueste boton tornarmai.

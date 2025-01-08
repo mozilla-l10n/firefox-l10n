@@ -111,7 +111,7 @@ containers-disable-alert-ok-button =
 containers-disable-alert-cancel-button = Peu udép sabē
 containers-remove-alert-title = Böh kontener nyôe?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
        *[other] Miseu neubëh kontener nyôe jinoe,{ $count } tab kontener geu tôb ju. Pue droeneuh neu keuneuk bëh kontener nyôe?
@@ -188,8 +188,8 @@ applications-action-save =
 applications-always-ask =
     .label = Tanyoeng sabe
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 
 ## The strings in this group are used to populate
@@ -218,6 +218,8 @@ play-drm-content =
 play-drm-content-learn-more = Meurunoë lom
 update-application-title = Seuneubarô { -brand-short-name }
 update-application-description = Peubiyeuë { -brand-short-name } Apdét peujrôh performen, seutabilitaih, ngon seukuriti.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Vèrsi { $version } <a data-l10n-name="learn-more"> Peuë nyang barô</a>
 update-history =
     .label = Peuleumah Riwayat Seubarô...
@@ -252,7 +254,7 @@ performance-limit-content-process-option = Bataih prosès kontèn
 performance-limit-content-process-enabled-desc = Prosès teunamah kontèn leubèh jröh keu performen watèë tangui lé tab, meutapi lheuëhnyan leubèh lé teungui mèmori.
 performance-limit-content-process-blocked-desc = Modifikasi leumboi dari proses asoe jih han keumah ta peulaku kecuali ngën multiproses { -brand-short-name }. <a data-l10n-name="learn-more"> i meurunoe kiban caea ta cek meunyô multiproses na udép
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (baku)
 
@@ -321,8 +323,7 @@ choose-bookmark =
 home-prefs-search-header =
     .label = Web Mita
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Geu-usui uléh { $provider }
@@ -345,6 +346,8 @@ home-prefs-highlights-option-saved-to-pocket =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Peunutôh
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label = { $num } baréh
 
@@ -386,7 +389,7 @@ search-find-more-link = Kalön meusén mita la'én
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Narit Gunci Ganda
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Droeneuh ka neupiléh narit gunci nyang jinoe jingui lé { $name }. Neupiléh narit gunci la'én.
 search-keyword-warning-bookmark = Droeneuh ka neupiléh narit gunci nyang jinoe jingui lé bookmark. Neupiléh nyang la'én.
 
@@ -573,8 +576,8 @@ history-clear-button =
 sitedata-header = Cookies ngön  Data Situs
 sitedata-total-size-calculating = Bileueng data situs nngön rayëk cache
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Cache, data situs ngon cookies nyang neukeubah jinoe jingui  { $value } { $unit } ruweueng keubah disk
 sitedata-learn-more = Meurunoë lom
 sitedata-allow-cookies-option =

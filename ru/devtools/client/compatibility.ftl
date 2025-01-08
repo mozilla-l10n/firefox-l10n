@@ -40,11 +40,9 @@ compatibility-issue-occurrences =
         [few] { $number } проблемы
        *[many] { $number } проблем
     }
-
 compatibility-no-issues-found = Проблем с совместимостью не найдено.
 compatibility-close-settings-button =
     .title = Закрыть настройки
-
 # Text used in the element containing the browser icons for a given compatibility issue.
 # Line breaks are significant.
 # Variables:

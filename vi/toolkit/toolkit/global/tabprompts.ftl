@@ -6,7 +6,6 @@ tabmodalprompt-username =
     .value = Tên đăng nhập:
 tabmodalprompt-password =
     .value = Mật khẩu:
-
 tabmodalprompt-ok-button =
     .label = OK
 tabmodalprompt-cancel-button =

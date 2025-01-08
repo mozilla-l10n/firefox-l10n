@@ -103,7 +103,6 @@ print-window =
     .title = साफाय गासिनो दङ
 print-complete =
     .value = साफायनाय आबुं जाबाय।
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

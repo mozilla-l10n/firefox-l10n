@@ -23,6 +23,11 @@ protections-panel-etp-more-info =
     .aria-label = Àteras informatziones a subra de s'amparu contra de sa sighidura megiorada
 protections-panel-etp-on-header = Sa protetzione megiorada contra sa sighidura est ATIVADA pro custu situ
 protections-panel-etp-off-header = Sa protetzione megiorada contra sa sighidura est DISATIVADA pro custu situ
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Su situ non funtzionat?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Su situ non funtzionat?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -37,11 +42,6 @@ protections-panel-etp-toggle-off =
     .label = Amparu megioradu contra sa sighidura
     .description = Disativadu pro custu situ
     .aria-label = Amparu megioradu contra sa sighidura: disativadu pro { $host }
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Su situ non funtzionat?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Su situ non funtzionat?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -71,6 +71,9 @@ protections-panel-content-blocking-fingerprinters-label = Generadores de imprent
 protections-panel-blocking-label = Blocadu
 protections-panel-not-blocking-label = Permìtidu
 protections-panel-not-found-label = Non rilevadu
+
+## Smartblock strings
+
 
 ##
 
@@ -108,7 +111,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Sinnala unu situ chi non funtzionat
 protections-panel-content-blocking-breakage-report-view-description = Blocare unos cantos sighidores podet causare problemas cun unos cantos sitos. Sinnalare custos problemas agiudat a megiorare { -brand-short-name } pro totus. Custu informe chi as a imbiare a Mozilla at a incluire s'URL de su situ e informatziones subra de is cunfiguratziones tuas pro su navigadore. <label data-l10n-name="learn-more">Àteras informatziones</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Blocare unos cantos sighidores podet causare problemas cun unos cantos sitos. Sinnalare custos problemas agiudat a megiorare { -brand-short-name } pro totus. Custu informe chi as a imbiare a { -vendor-short-name } at a incluire s'URL de su situ e informatziones subra de is cunfiguratziones tuas pro su navigadore.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL

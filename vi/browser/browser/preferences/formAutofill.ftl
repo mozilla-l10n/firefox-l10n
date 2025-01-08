@@ -39,8 +39,6 @@ address-capture-manage-address-button =
     .label = Cài đặt địa chỉ
 address-capture-learn-more-button =
     .label = Tìm hiểu thêm
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Thêm địa chỉ mới
 address-capture-open-menu-button =
     .aria-label = Mở menu
 address-capture-edit-address-button =
@@ -49,10 +47,10 @@ address-capture-edit-address-button =
 autofill-add-address-title = Thêm địa chỉ
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Sửa địa chỉ
-autofill-address-name = Tên
 autofill-address-given-name = Họ
 autofill-address-additional-name = Tên đệm
 autofill-address-family-name = Tên
+autofill-address-name = Tên
 autofill-address-organization = Tổ chức
 autofill-address-street-address = Địa chỉ đường phố
 autofill-address-street = Địa chỉ đường phố
@@ -108,9 +106,8 @@ autofill-address-eircode = Mã bưu chính
 
 ##
 
-
-##
-
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Thêm địa chỉ mới
 autofill-address-country = Quốc gia hoặc vùng
 autofill-address-country-only = Quốc gia
 autofill-address-tel = Điện thoại
@@ -122,11 +119,6 @@ autofill-country-warning-message = Tự động điền biểu mẫu hiện ch�
 autofill-add-new-card-title = Thêm thẻ tín dụng mới
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Sửa thẻ tín dụng
-autofill-message-tooltip = Xem thông báo về tự động điền
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-card-title = Thêm thẻ
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title2 = Chỉnh sửa thẻ
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -135,6 +127,11 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } đang cố gắng hiển thị thông tin thẻ tín dụng. Xác nhận quyền truy cập vào tài khoản Windows bên dưới.
        *[other] { -brand-short-name } đang cố gắng hiển thị thông tin thẻ tín dụng.
     }
+autofill-message-tooltip = Xem thông báo về tự động điền
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Thêm thẻ
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Chỉnh sửa thẻ
 autofill-card-number = Số thẻ
 autofill-card-invalid-number = Vui lòng nhập số thẻ hợp lệ
 autofill-card-name-on-card = Tên trên thẻ

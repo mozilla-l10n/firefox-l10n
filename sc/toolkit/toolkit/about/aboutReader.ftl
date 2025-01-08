@@ -12,18 +12,6 @@ about-reader-color-scheme-sepia = Sèpia
     .title = Ischema de colores sèpia
 about-reader-color-scheme-auto = Automàticu
     .title = Ischema de colores automàticu
-about-reader-color-theme-light = Craru
-    .title = Tema de colore craru
-about-reader-color-theme-dark = Iscuru
-    .title = Tema de colore iscuru
-about-reader-color-theme-sepia = Sèpia
-    .title = Tema de colore sèpia
-about-reader-color-theme-auto = Automàticu
-    .title = Tema de colore automàticu
-about-reader-color-theme-contrast = Cuntrastu
-    .title = Tema de colore de cuntrastu
-about-reader-color-theme-custom = Colores personalizados
-    .title = Tema de colore personalizadu
 about-reader-color-light-theme = Craru
     .title = Tema craru
 about-reader-color-dark-theme = Iscuru
@@ -45,7 +33,7 @@ about-reader-estimated-read-time =
        *[other] { $range } minutos
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = Mìnima sa mannària de sa tipografia
@@ -70,7 +58,6 @@ about-reader-font-type-monospace = Ispatziadura fissa
 
 about-reader-toolbar-close = Serra sa visualizatzione de letura
 about-reader-toolbar-type-controls = Controllos de sa tipografia
-about-reader-toolbar-color-controls = Colores
 about-reader-toolbar-text-layout-controls = Testu e dispositzione
 about-reader-toolbar-theme-controls = Tema
 about-reader-toolbar-savetopocket = Sarva in { -pocket-brand-name }
@@ -95,10 +82,9 @@ about-reader-custom-colors-visited-links = Ligòngios bisitados
     .title = Modìfica su colore
 about-reader-custom-colors-selection-highlight = Evidentziadura pro sa letura a boghe arta
     .title = Modìfica su colore
-about-reader-custom-colors-reset-button = Torra a is valores predefinidos
 about-reader-reset-button = Torra a is valores predefinidos
 
-## Reader View improved text and layout menu
+## Reader View text and layout menu
 
 about-reader-text-header = Testu
 about-reader-text-size-label = Mannària de su testu
@@ -114,9 +100,6 @@ about-reader-content-width-label =
 about-reader-line-spacing-label =
     .label = Ispatziadura intre lìnias
 about-reader-advanced-layout-header = Avantzadas
-about-reader-slider-label-width-narrow = Istrinta
-about-reader-slider-label-width-wide = Larga
-about-reader-slider-label-spacing-narrow = Istrinta
 about-reader-character-spacing-label =
     .label = Ispatziadura intre caràteres
 about-reader-word-spacing-label =

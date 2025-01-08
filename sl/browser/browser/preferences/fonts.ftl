@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Pisave
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Pisave za
     .accesskey = P
-
 fonts-langgroup-arabic =
     .label = arabsko
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Raznoširinska
     .accesskey = R
-
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
-
 fonts-proportional-size = Velikost
     .accesskey = V
-
 fonts-serif = Serif
     .accesskey = S
-
 fonts-sans-serif = Sans-serif
     .accesskey = a
-
 fonts-monospace = Enoširinska pisava
     .accesskey = E
-
 fonts-monospace-size = Velikost
     .accesskey = k
-
 fonts-minsize = Najmanjša velikost pisav
     .accesskey = N
-
 fonts-minsize-none =
     .label = Je ni
-
 fonts-allow-own =
     .label = Dovoli stranem, da uporabljajo lastne pisave namesto zgornjih izbir
     .accesskey = h
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

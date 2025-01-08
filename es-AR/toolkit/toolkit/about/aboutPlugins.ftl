@@ -6,8 +6,6 @@ title-label = Acerca de plugins
 installed-plugins-label = Plugins instalados
 no-plugins-are-installed-label = No se encontraron plugins instalados
 deprecation-description = ¿Falta algo? Algunos plugins ya no son soportados. <a data-l10n-name="deprecation-link">Conocer más.</a>
-deprecation-description2 =
-    .message = ¿Falta algo? Algunos plugins ya no son soportados.
 
 ## The information of plugins
 ##

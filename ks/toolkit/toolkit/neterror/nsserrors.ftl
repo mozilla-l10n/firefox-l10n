@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -9,13 +10,11 @@
 
 psmerr-ssl-disabled = ہیكئو نئ رئبطئ كریتھ حفاظت سان كیازئ كئ SSL پروٹوكال چھُ ناممكن بناونئ آموْت
 psmerr-ssl2-disabled = ہیکِہ نْہ کنیکٹْہ کْرتھ حفاظت۔ہ سان کیازِ کِہ سایِٹ چھ استعمال کران اکھ پرون، غیر محفوظ وْرجن ایس ایس ایل پروٹوکالُک۔
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     توہیہ چھیو حأصل کْرمْژ اکھ ناکار سرٹیفیکیٹ۔ مہربأنی کْرتھ کْریو کنٹیکٹْہ سْرور ایڈمینیسٹریٹر یا ایمیل نُمایند تْہ تِمن دِیو یہ جانکأری:
     
     تُہنزِ سرٹیفیکیٹ چُھ سوی سیریل نمبر  یوس ذن سرتیفیکیٹ ایتھارٹی ذریعہ ایشو بدل سرٹیفیکیٹ چُھ۔ مہربأنی کْرتھ کْریو أسل بدل سرتیفیکیت یتھ اکھ یونیک سیریل نمبر آسِہ۔
-
 ssl-error-no-cypher-overlap = ہیکہ نْہ کومنیکیٹ کرتھ پییرس سْیت حفاظت سان: کانہہ کامن اینکریپشن ایلگاردم چھ نْہ۔
 ssl-error-no-certificate = ہیك نئ لبیتھ سرٹئفیكیٹ یا كی یوْس ضرورتھ چھُ تصدیق خئطرئ
 ssl-error-bad-certificate = ہیکہ نْہ کومنیکیٹ کرتھ پییرس سْیت حفاظت سان:  پپیر سْنزسرتیفیکیٹ آیہ رد کرنْہ۔
@@ -143,7 +142,6 @@ ssl-error-incorrect-signature-algorithm = غلط سیگنیچر ایلگاردم
 ssl-error-next-protocol-no-callback = بیاکھ پروٹوکال اتفاق ایکْسٹینشن اوس اینیبلْڈ، مگر کال بک آو کْلیر کرنْہ ضرورت آسنْہ برونہہ۔
 ssl-error-next-protocol-no-protocol = یہ سْرور چُھ نْہ تعاون کران کونِہ تِہ پروٹوکالس یوس کْلاینٹ ایڈورٹایز کران چُھ اے ایل پی این ایکْستینشنس منز۔
 ssl-error-inappropriate-fallback-alert = یْم سْرورن کْر رد ہینڈ شیک کیازِ کْلاینٹن کور ڈاون گریڈ أکس کم ٹی ایل ایس وْرجنس کُن تمہ نِش یتھ سْرور تعاون کران چُھ۔
-
 sec-error-io = I/O  غلطی آی پیش حفئظتی تصدیق ویز۪ی
 sec-error-library-failure = حفئظتی لایبرئری ناكئمی
 sec-error-bad-data = حفئظتی لایبرئری: خراب ڈاٹا م۪یول
@@ -289,18 +287,15 @@ sec-error-locked-password = خُفیئ لفظ چھُ لاك كرمُت
 sec-error-unknown-pkcs11-error = نا مولوم PKCS #11 غلطی
 sec-error-bad-crl-dp-url = نا منظور یا تعاوُن رۄستوی URL ،  CRL  بئگران وٲلَس نقطئ ناوس منز
 sec-error-cert-signature-algorithm-disabled = یہ سرتیفیکیٹ أس ساین کرنْہ آمْژ استعمال کْرتھ اکھ سیگنیچر ایلگاردم یوس ڈیسیبلْڈ اوس کیازِ یہ اوس نْہ محفوظ۔
-
 mozilla-pkix-error-key-pinning-failure = یہ سرور چُھ استعمال کران کی پینینگ (ایچ پی کے پی) مگر کانہہ بھروس واجین سرٹیفیکیٹ  چین ہیکو نْہ بنأوِت یوس میچ گژھ پِن سیٹس۔ کی پینینگ وایلیشن ہیکو نْہ اوور رایِڈ کْرتھ۔
 mozilla-pkix-error-ca-cert-used-as-end-entity = یہ سْرور چُھ استعمال کران اکھ سرتیفیکیٹ یتھ ذن اکھ بُنیأدی  پابندی ایکْسٹینشن چُھ  یوس اتھ پریزناوان چُھ بطور اکھ سرتیفیکیٹ ایتھارٹی۔ أکس اصل پأٹھ ایشو کرنْہ آمژِ سرٹیفیکیٹ باپت گژھِ نْہ یہ کیس آسُن۔
 mozilla-pkix-error-inadequate-key-size = سْرورن کْر پیش اکھ سرٹیفیکیٹ یتھ کی سایز سُہ چُھ یوس ذن واریاہ لوکُٹ چُھ قأیم کرنْہ باپت اکھ محفوظ کنیکشن۔
 mozilla-pkix-error-v1-cert-used-as-ca = وْرجن۱ سرٹیفیکیٹ یوس نْہ اکھ بھروس اینکر چھ أس استعمال کرنْہ آمْژ سْرورچ سرٹیفیکیٹ ایشو کرنْہ باپت۔  ایکْس ڈاٹ ۵۰۹ وْرجن ۱ سرتیفیکیٹ چھ ناپسند کرنْہ یوان تْہ گژھن نْہ استعمال کرنِہ باقی سرتیفیکیٹ سایِن کرنْہ باپت۔ ایکْس ڈاٹ ۵۰۹
 mozilla-pkix-error-not-yet-valid-certificate = سْرورن کْر پیش اکھ سرٹیفیکیٹ یوس نْہ وْنی لایق چھ۔
 mozilla-pkix-error-not-yet-valid-issuer-certificate = اکھ سرٹیفیکیٹ یوس نْہ وْنئ ویلِ چھ آمْژ استعمال کرنْہ ایشو کرنْہ باپت سْرور سرٹیفیکیٹ۔
-
 xp-java-remove-principal-error = پرینسیپل ہیك نئ ہٹئویتھ
 xp-java-delete-privilege-error = حقوق ہیك نئ خئرج كریتھ
 xp-java-cert-not-exists-error = پرینسپلس چھئ نئ سرٹئفیكیٹ
-
 xp-sec-fortezza-no-card = كہین فورٹیزا كارڈ آی نئ اتھ۪ی
 xp-sec-fortezza-none-selected = كہین فورٹیزا كارڈ چھُ نئ ژارنئ آموْت
 xp-sec-fortezza-more-info = مہربئنی كریتھ ژئریو زات مزید مولومات خئطرئ

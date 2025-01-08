@@ -49,8 +49,6 @@ screenshots-too-large-error-details = Tagh raon a tha nas lugha na 32,700 piogsa
 screenshots-component-retry-button =
     .title = Feuch ri glacadh-sgrìn a thogail a-rithist
     .aria-label = Feuch ri glacadh-sgrìn a thogail a-rithist
-screenshots-component-copy-button-label = Dèan lethbhreac
-screenshots-component-download-button-label = Luchdaich a-nuas
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.

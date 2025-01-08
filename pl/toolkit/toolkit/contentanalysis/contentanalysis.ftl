@@ -41,21 +41,6 @@ contentanalysis-genericresponse-message = Odpowiedź narzędzia do analizy treś
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-block-message = Twoja organizacja korzysta z oprogramowania zapobiegającego utracie danych, które zablokowało tę treść: { $content }.
 # Variables:
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-error-message = Wystąpił błąd podczas komunikacji z oprogramowaniem zapobiegającym utracie danych. Odmowa przesłania zasobu: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-unspecified-error-message = Wystąpił błąd podczas komunikacji z agentem { $agent }. Odmowa przesłania zasobu: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-no-agent-connected-message = Nie można połączyć się z agentem { $agent }. Odmowa przesłania zasobu: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-invalid-agent-signature-message = Weryfikacja podpisu agenta { $agent } się nie powiodła. Odmowa przesłania zasobu: { $content }.
-# Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Localized text describing the content being blocked, such as "Paste denied."
 contentanalysis-unspecified-error-message-content = Wystąpił błąd podczas komunikacji z agentem { $agent }. { $content }

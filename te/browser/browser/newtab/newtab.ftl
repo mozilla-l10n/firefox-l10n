@@ -316,3 +316,6 @@ newtab-topic-selection-button-pick-interests = మీ ఆసక్తులన�
 ## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 ## e.g. Following the travel section of stories.
 
+
+## Confirmation modal for blocking a section
+

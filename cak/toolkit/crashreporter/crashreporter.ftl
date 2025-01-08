@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = Rutzijol taq sachoj
-crashreporter-crash-message = { -brand-short-name } xrïl jun k'ayewal, ruma ri' toq xtz'apitäj.
 crashreporter-plea = Richin yojato' richin niqanik'oj chuqa' niqachojmirisaj re k'ayewal re', ütz tataqa' jun rutzijol sachoj chi qe.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Taq b'anikil:{ $details }

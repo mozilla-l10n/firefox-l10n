@@ -46,6 +46,9 @@ protections-panel-content-blocking-tracking-protection = Dewindagol Loowdi
 protections-panel-blocking-label = Faddaama
 protections-panel-not-blocking-label = Yamiraama
 
+## Smartblock strings
+
+
 ##
 
 protections-panel-settings-label = Teelte Ndeenka

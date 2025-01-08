@@ -59,8 +59,6 @@ sidebar-description = Accede fácilmente a tu historial, pestañas de otros disp
 vertical-tabs-title =
     .label = Pestañas verticales
 vertical-tabs-description = Mueve las pestañas de la parte superior del navegador al costado. Requiere que también pruebes la barra lateral. <a data-l10n-name="connect">Comparte tus comentarios</a>
-experimental-features-group-browsing =
-    .label = Navegación
 experimental-features-group-developer-tools =
     .label = Herramientas de desarrollador
 experimental-features-group-webpage-display =

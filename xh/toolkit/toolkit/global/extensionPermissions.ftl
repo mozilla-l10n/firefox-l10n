@@ -22,3 +22,7 @@ webext-perms-description-sessions = Fikelela iithebhu ezisandul' ukuvalwa
 webext-perms-description-tabs = Fikelela iithebhu zebhrawza
 webext-perms-description-topSites = Fikelela kwimbali yokubhrawza
 webext-perms-description-webNavigation = Fikelela umsebenzi webhrawza ebudeni bokukhangela
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

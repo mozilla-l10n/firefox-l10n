@@ -37,7 +37,6 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Ei nyt
     .secondarybuttonaccesskey = E
 appmenu-update-other-instance-message = Uusi { -brand-shorter-name }-päivitys on saatavilla, mutta sitä ei voida asentaa, koska toinen { -brand-shorter-name }-kopio on käynnissä. Sulje se ennen päivittämistä tai valitse, että päivitetään silti (jolloin toinen kopio ei välttämättä toimi oikein ennen uudelleenkäynnistystä).
-
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = OK
     .buttonaccesskey = O
@@ -45,7 +44,6 @@ appmenu-addon-post-install-message3 = Hallitse omia lisäosia ja teemoja sovellu
 appmenu-addon-post-install-incognito-checkbox =
     .label = Salli laajennuksen suoritus yksityisissä ikkunoissa
     .accesskey = a
-    
 appmenu-new-tab-controlled-changes =
     .label = Uusi välilehti -sivu on vaihtunut.
     .buttonlabel = Säilytä muutokset

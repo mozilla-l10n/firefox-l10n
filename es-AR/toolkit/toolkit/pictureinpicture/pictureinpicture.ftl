@@ -7,6 +7,7 @@ pictureinpicture-player-title = Picture-in-picture
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -21,30 +22,24 @@ pictureinpicture-pause-btn =
 pictureinpicture-play-btn =
     .aria-label = Reproducir
     .tooltip = Reproducir (Barra de espacios)
-
 pictureinpicture-mute-btn =
     .aria-label = Silenciar
     .tooltip = Silenciar ({ $shortcut })
 pictureinpicture-unmute-btn =
     .aria-label = Activar el sonido
     .tooltip = Activar el sonido ({ $shortcut })
-
 pictureinpicture-unpip-btn =
     .aria-label = Enviar de vuelta a la pestaña
     .tooltip = De vuelta a la pestaña
-
 pictureinpicture-close-btn =
     .aria-label = Cerrar
     .tooltip = Cerrar ({ $shortcut })
-
 pictureinpicture-subtitles-btn =
     .aria-label = Subtítulos
     .tooltip = Subtítulos
-
 pictureinpicture-fullscreen-btn2 =
     .aria-label = Pantalla completa
     .tooltip = Pantalla completa (doble clic o { $shortcut })
-
 pictureinpicture-exit-fullscreen-btn2 =
     .aria-label = Salir de pantalla completa
     .tooltip = Salir de pantalla completa (doble clic o { $shortcut })
@@ -63,7 +58,6 @@ pictureinpicture-toggle-fullscreen-shortcut =
 pictureinpicture-seekbackward-btn =
     .aria-label = Atrás
     .tooltip = Atrás (←)
-
 pictureinpicture-seekforward-btn =
     .aria-label = Adelante
     .tooltip = Adelante (→)
@@ -74,13 +68,8 @@ pictureinpicture-seekforward-btn =
 # a screen reader whenever a user opens the subtitles settings panel
 # after selecting the subtitles button.
 pictureinpicture-subtitles-panel-accessible = Opciones de subtítulos
-
 pictureinpicture-subtitles-label = Subtítulos
-
 pictureinpicture-font-size-label = Tamaño de letra
-
 pictureinpicture-font-size-small = Chico
-
 pictureinpicture-font-size-medium = Mediano
-
 pictureinpicture-font-size-large = Grande

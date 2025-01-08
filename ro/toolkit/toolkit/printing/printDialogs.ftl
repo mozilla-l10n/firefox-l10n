@@ -103,7 +103,6 @@ print-window =
     .title = Tipărire
 print-complete =
     .value = Tipărire încheiată.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

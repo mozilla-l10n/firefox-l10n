@@ -5,4 +5,3 @@
 profiledowngrade-window2 =
     .title = আপুনি { -brand-product-name }-ৰ পুৰণি সংস্কৰণ ল'ঞ্চ কৰিছে
     .style = min-width: 490px;
-

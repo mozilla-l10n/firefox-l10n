@@ -10,6 +10,7 @@ about-logging-stop-logging = Juk gwoko rikod
 
 ## Logging presets
 
+
 ## Variables:
 ##   $k (String) - Variable name
 ##   $v (String) - Variable value

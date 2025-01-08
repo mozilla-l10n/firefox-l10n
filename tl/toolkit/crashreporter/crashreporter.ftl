@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = Crash Reporter
-crashreporter-crash-message = Nagkaproblema ang { -brand-short-name } at nag-crash ito.
 crashreporter-plea = Upang makatulong sa amin na ayusin ang problem, maari kayong magpadala ng ulat tungkol sa crash.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Mga detalye: { $details }

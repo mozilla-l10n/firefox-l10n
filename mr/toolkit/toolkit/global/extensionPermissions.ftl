@@ -29,3 +29,7 @@ webext-perms-description-tabs = ब्राउझरचे टॅब पहा
 webext-perms-description-tabHide = लपवा आणि ब्राउझर टॅब दाखवा
 webext-perms-description-topSites = ब्राऊझिंग इतिहास पहा
 webext-perms-description-webNavigation = संचारण सुरु असताना ब्राउझर कार्य पहा
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

@@ -566,8 +566,7 @@ home-prefs-shortcuts-description = المواقع التي حفظتها أو ز�
 home-prefs-shortcuts-by-option-sponsored =
     .label = الاختصارات المموّلة
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = ينصح به { $provider }

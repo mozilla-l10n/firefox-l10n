@@ -99,7 +99,6 @@ tab-context-move-tabs =
            *[other] Liiguta kaarte
         }
     .accesskey = L
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

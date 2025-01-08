@@ -5,7 +5,7 @@
 profile-window-title = { -brand-short-name } - Sielç il profîl utent
 profile-window-heading = Sielç un profîl di { -brand-short-name }
 profile-window-body = Manten separadis lis ativitâts lavorativis e chês personâls intant che tu navighis, includudis robis come passwords e segnelibris. Opûr cree profîi par ogni persone che e dopre chest dispositîf.
-# This checkbox appears in the choose profile window that appears when the browser is opened. "Show this" refers to choose profile window being shown when the checkbox is enabled.
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = Mostre ae viertidure di { -brand-short-name }
 profile-window-create-profile = Cree un profîl
@@ -32,7 +32,7 @@ new-profile-page-input-placeholder =
 new-profile-page-done-button =
     .label = Modifiche completade
 
-## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
+## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
 # Variables
 #   $profilename (String) - The name of the profile.
@@ -41,19 +41,21 @@ delete-profile-page-title = Elimine il profîl { $profilename }
 #   $profilename (String) - The name of the profile.
 delete-profile-header = Eliminâ il profîl { $profilename }?
 delete-profile-description = { -brand-short-name } al eliminarà par simpri, di chest dispositîf, chescj dâts:
-# Opened browser windows saved to a profile. This is followed by a column with the number of open windows associated to the profile.
+# Open is an adjective, as in "browser windows currently open".
 delete-profile-windows = Barcons vierts
-# Opened browser tabs saved to a profile. This is followed by a column with the number of open tabs associated to the profile.
+# Open is an adjective, as in "browser tabs currently open".
 delete-profile-tabs = Schedis viertis
-# Bookmarks saved to a profile. This is followed by a column with the number of bookmarks associated to the profile.
 delete-profile-bookmarks = Segnelibris
-# History saved to a profile. This is followed by a column with the number of visited pages / cookies / site data associated to the profile.
 delete-profile-history = Cronologjie (pagjinis visitadis, cookies, dâts dai sîts)
-# Autofill data saved to a profile. This is followed by a column with the number of addresses / payment methods associated to the profile.
 delete-profile-autofill = Dâts pe compilazion automatiche dai formularis (direzions, metodis di paiament)
-# Passwords saved to a profile. This is followed by a column with the number of saved passwords associated to the profile.
 delete-profile-logins = Passwords
+
+##
+
 # Button label
 delete-profile-cancel = Anule
 # Button label
 delete-profile-confirm = Elimine
+
+## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
+

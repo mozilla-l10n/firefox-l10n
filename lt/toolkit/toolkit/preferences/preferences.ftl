@@ -4,17 +4,14 @@
 
 password-not-set =
     .value = (nesukurtas)
-
 failed-pp-change = Nepavyko pakeisti pagrindinio slaptažodžio.
 incorrect-pp = Neteisingai surinkote dabartinį pagrindinį slaptažodį. Bandykite dar kartą.
 pp-change-ok = Pagrindinis slaptažodis sėkmingai pakeistas.
-
 pp-change2empty-in-fips-mode = Šiuo metu pasirinkta FIPS veiksena. Jai reikia pagrindinio slaptažodžio.
 pw-change-success-title = Slaptažodis pakeistas sėkmingai
 pw-change-failed-title = Slaptažodžio pakeisti nepavyko
 pw-remove-button =
     .label = Pašalinti
-
 primary-password-dialog =
     .title = Pagrindinis slaptažodis
 set-password-old-password = Dabartinis slaptažodis:
@@ -22,11 +19,9 @@ set-password-new-password = Surinkite naują slaptažodį:
 set-password-reenter-password = Dar kartą surinkite slaptažodį:
 set-password-meter = Slaptažodžio kokybės matuoklis
 set-password-meter-loading = Įkeliama
-
 primary-password-admin = Jūsų administratorius reikalauja, kad turėtumėte pagrindinį slaptažodį, norėdami įrašyti prisijungimus ir slaptažodžius.
 primary-password-description = Pagrindinis slaptažodis apsaugo kai kurią privačią informaciją šiame įrenginyje, pvz., prisijungimus ir slaptažodžius. Jeigu sukursite pagrindinį slaptažodį, tai jį pakaks surinkti vieną kartą visam „{ -brand-short-name }“ seansui ir turėsite prieigą prie jo saugomos informacijos.
 primary-password-warning = Labai svarbu nepamiršti pagrindinio slaptažodžio, nes nėra priemonių jo atkurti. Jį pamiršus nebebus galima prieiti prie jo saugomos informacijos.
-
 remove-primary-password =
     .title = Pašalinti pagrindinį slaptažodį
 remove-info =

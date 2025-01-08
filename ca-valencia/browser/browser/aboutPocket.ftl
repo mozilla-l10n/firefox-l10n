@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Afig etiquetes
-
 pocket-panel-saved-error-generic = S'ha produït un error en intentar guardar al { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Les etiquetes tenen un límit de 25 caràcters
 pocket-panel-saved-error-only-links = Només es poden guardar enllaços
@@ -48,6 +47,7 @@ pocket-panel-home-discover-more = Descobriu-ne més
 pocket-panel-home-explore-more = Explora
 
 ## Pocket panel header component
+
 
 ## Pocket panel buttons
 

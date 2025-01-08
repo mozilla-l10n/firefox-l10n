@@ -41,21 +41,6 @@ contentanalysis-genericresponse-message = 콘텐츠 분석이 { $content } 리�
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-block-message = 사용자의 조직에서는 { $content } 콘텐츠를 차단하는 데이터 손실 방지 소프트웨어를 사용하고 있습니다.
 # Variables:
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-error-message = 데이터 손실 방지 소프트웨어와 통신하는 동안 오류가 발생했습니다. { $content } 리소스에 대한 전송이 거부되었습니다.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-unspecified-error-message = { $agent }와(과) 통신하는 중 오류가 발생했습니다.  { $content } 리소스에 대한 전송이 거부되었습니다.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-no-agent-connected-message = { $agent }에 연결할 수 없습니다. { $content } 리소스에 대한 전송이 거부되었습니다.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-invalid-agent-signature-message = { $agent }에 대한 서명 확인에 실패했습니다. { $content } 리소스에 대한 전송이 거부되었습니다.
-# Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Localized text describing the content being blocked, such as "Paste denied."
 contentanalysis-unspecified-error-message-content = { $agent } 에이전트와 통신하는 중 오류가 발생했습니다. { $content }

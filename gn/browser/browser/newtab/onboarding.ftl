@@ -434,3 +434,6 @@ onboarding-checklist-sign-up = Eike térã eñemboheraguapy ne mba’etépe
 
 tab-groups-onboarding-feature-callout-title = Eiporu tendayke aty eime porãve ha epayve hag̃ua
 tab-groups-onboarding-feature-callout-subtitle = Eñeorganisa emoĩvo peteĩ tendayke ambuéva ári emoheñói hag̃ua aty peteĩha.
+
+## Multi Profiles feature onboarding messages
+

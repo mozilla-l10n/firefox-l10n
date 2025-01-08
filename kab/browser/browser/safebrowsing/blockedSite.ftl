@@ -10,6 +10,8 @@ safeb-blocked-phishing-page-short-desc = { -brand-short-name } isewḥel asebter
 safeb-blocked-malware-page-short-desc = { -brand-short-name } isewḥel asebter-agi acku izmer ad isebded iseɣẓan n ddiri izemren ad akren neɣ ad kksen isefka-inek deg uselkim.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } isewḥel asebter-agi acku izmer ad isebded iseɣẓan ad d-yawin ugur i iminig-inek ( amedya, abeddel n usebter agejdan neɣ taskant n izegrar deg ismal i ɣer terziḍ).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } isewḥel asebter-agi acku yezmer ad isbedd iseɣẓan imihawen yettakren neɣ yetteksen talɣut (amedya, tugniwin, awalen uffiren, izenan akked tkarḍiwin n usmad).
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Tamuɣli igga-t <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Uɣal
 safeb-palm-see-details-label = Wali talqayt

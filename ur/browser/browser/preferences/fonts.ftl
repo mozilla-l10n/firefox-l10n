@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = فانٹ
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = فانٹ برائے
     .accesskey = F
-
 fonts-langgroup-arabic =
     .label = عربی
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = متناسب
     .accesskey = P
-
 fonts-default-serif =
     .label = سیرف
 fonts-default-sans-serif =
     .label = سینس سیرف
-
 fonts-proportional-size = ماپ
     .accesskey = z
-
 fonts-serif = سیرف
     .accesskey = S
-
 fonts-sans-serif = سینس-سیرف
     .accesskey = n
-
 fonts-monospace = مونو سپیس
     .accesskey = M
-
 fonts-monospace-size = ماپ
     .accesskey = e
-
 fonts-minsize = کم سے کم فانٹ کا ماپ
     .accesskey = o
-
 fonts-minsize-none =
     .label = کوئی نہیں
-
 fonts-allow-own =
     .label = آپکے اوپر انتخاب بجائے، صفحات کو اپنے خود کے فونٹ چننے دے
     .accesskey = A
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

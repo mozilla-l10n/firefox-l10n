@@ -8,12 +8,12 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = Detàllios internos de WebRTC
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = Sarva about:webrtc comente
 
 ## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
@@ -23,10 +23,8 @@ about-webrtc-aec-logging-on-state-label = Firma su registru de AEC
 
 ##
 
-# The autorefresh checkbox causes the page to autorefresh its content when checked
+# The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Atualizatzione in automàticu
-
-
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -75,7 +73,6 @@ about-webrtc-type-remote = Remotu
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Seletzionadu
-
 about-webrtc-save-page-label = Sarva sa pàgina
 about-webrtc-debug-mode-msg-label = Modalidade de curretzione de faddinas
 about-webrtc-debug-mode-off-state-label = Avia sa modalidade de curretzione de faddinas
@@ -94,6 +91,7 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (serradu
 ## Variables:
 ##  $codecs - a list of media codecs
 
+
 ##
 
 about-webrtc-priority = Prioridade
@@ -104,13 +102,15 @@ about-webrtc-priority = Prioridade
 ## These are displayed on the button that shows or hides the
 ## PeerConnection configuration disclosure
 
+
 ##
 
 
-## These are paths used for saving the about:webrtc page or log files so
-## they can be attached to bug reports.
-## Variables:
-##  $path (String) - The path to which the file is saved.
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+
+##
 
 
 ##
@@ -122,9 +122,11 @@ about-webrtc-priority = Prioridade
 
 ## These are displayed on the button that shows or hides the SDP information disclosure
 
+
 ## These are displayed on the button that shows or hides the Media Context information disclosure.
 ## The Media Context is the set of preferences and detected capabilities that informs
 ## the negotiated CODEC settings.
+
 
 ##
 

@@ -42,7 +42,7 @@ about-telemetry-fetch-stack-symbols = Lấy tên hàm cho ngăn xếp
 about-telemetry-hide-stack-symbols = Hiển thị dữ liệu ngăn xếp thô
 # Selects the correct release version
 # Variables:
-#   $channel (String): represents the corresponding release data string
+#   $channel (string) - Represents the corresponding release data string
 about-telemetry-data-type =
     { $channel ->
         [release] dữ liệu phát hành
@@ -50,7 +50,7 @@ about-telemetry-data-type =
     }
 # Selects the correct upload string
 # Variables:
-#   $uploadcase (String): represents a corresponding upload string
+#   $uploadcase (string) - Represents a corresponding upload string
 about-telemetry-upload-type =
     { $uploadcase ->
         [enabled] đã bật
@@ -58,45 +58,45 @@ about-telemetry-upload-type =
     }
 # Example Output: 1 sample, average = 0, sum = 0
 # Variables:
-#   $sampleCount (Integer): amount of histogram samples
-#   $prettyAverage (Integer): average of histogram samples
-#   $sum (Integer): sum of histogram samples
+#   $sampleCount (number) - Amount of histogram samples
+#   $prettyAverage (number) - Average of histogram samples
+#   $sum (number) - Sum of histogram samples
 about-telemetry-histogram-stats =
     { $sampleCount ->
        *[other] { $sampleCount } mẫu, trung bình = { $prettyAverage }, tổng = { $sum }
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Trang này hiển thị thông tin về hiệu năng, phần cứng, việc sử dụng và các tùy chỉnh, được thu thập bởi Telemetry. Các thông tin này được gửi tới { $telemetryServerOwner } để giúp hoàn thiện { -brand-full-name }.
 about-telemetry-settings-explanation = Telemetry đang thu thập { about-telemetry-data-type } và tải lên là <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
-#   $name (String): ping name, e.g. “saved-session”
-#   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
+#   $name (string) - Ping name, e.g. “saved-session”
+#   $timestamp (string) - Ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Mỗi thông tin được gửi kèm theo vào “<a data-l10n-name="ping-link">ping</a>”. Bạn đang xem ping { $name }, { $timestamp }.
 about-telemetry-data-details-current = Mỗi thông tin được gửi kèm theo vào “<a data-l10n-name="ping-link">ping</a>”. Bạn đang xem dữ liệu hiện tại.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $selectedTitle (String): the section name from the structure of the ping.
+#   $selectedTitle (string) - The section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = Tìm trong { $selectedTitle }
 about-telemetry-filter-all-placeholder =
     .placeholder = Tìm trong tất cả các phần
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-results-for-search = Kết quả cho “{ $searchTerms }”
 # More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $sectionName (String): the section name from the structure of the ping.
-#   $currentSearchText (String): the current text in the search input
+#   $sectionName (string) - The section name from the structure of the ping.
+#   $currentSearchText (string) - The current text in the search input
 about-telemetry-no-search-results = Xin lỗi! Không có kết quả trong phần { $sectionName } cho “{ $currentSearchText }”
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-no-search-results-all = Xin lỗi! Không có kết quả trong bất kì phần nào cho “{ $searchTerms }”
 # This message is displayed when a section is empty.
 # Variables:
-#   $sectionName (String): is replaced by the section name.
+#   $sectionName (string) - Is replaced by the section name.
 about-telemetry-no-data-to-display = Xin lỗi! Hiện tại không có dữ liệu có sẵn trong “{ $sectionName }”
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = dữ liệu hiện tại
@@ -114,13 +114,13 @@ about-telemetry-slow-sql-statement = Câu lệnh
 about-telemetry-addon-table-id = ID tiện ích
 about-telemetry-addon-table-details = Chi tiết
 # Variables:
-#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+#   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = Nhà cung cấp { $addonProvider }
 about-telemetry-keys-header = Thuộc tính
 about-telemetry-names-header = Tên
 about-telemetry-values-header = Giá trị
 # Variables:
-#   $lateWriteCount (Integer): the number of the late writes
+#   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = Ghi trễ #{ $lateWriteCount } lần
 about-telemetry-stack-title = Ngăn xếp:
 about-telemetry-memory-map-title = Bản đồ bộ nhớ:
@@ -131,5 +131,5 @@ about-telemetry-method-header = phương thức
 about-telemetry-object-header = đối tượng
 about-telemetry-extra-header = thêm
 # Variables:
-#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+#  $process (string) - Type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = { $process } tiến trình

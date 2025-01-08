@@ -33,3 +33,7 @@ webext-perms-description-topSites = Шолу тарихына қатынау
 webext-perms-description-trialML = Құрылғыңызға ЖИ модельдерін жүктеп алыңыз және орындаңыз
 webext-perms-description-userScripts = Тексерілмеген үшінші тарап скрипттеріне деректеріңізге қол жеткізуге рұқсат беру
 webext-perms-description-webNavigation = Навигация кезіндегі браузер белсенділігіне қатынау
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

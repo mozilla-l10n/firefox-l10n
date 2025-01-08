@@ -380,3 +380,11 @@ newtab-topic-selection-cancel-button = Sefsex
 newtab-topic-selection-button-maybe-later = Ahat ticki
 newtab-topic-selection-privacy-link = Ẓer amek i nemmestan akked wamek i nessefrak isefka
 newtab-topic-selection-button-update-interests = Leqqem ismenyaf-ik
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Confirmation modal for blocking a section
+

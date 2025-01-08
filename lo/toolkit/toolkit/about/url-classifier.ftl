@@ -14,7 +14,6 @@ url-classifier-cache-refresh-btn = ຟື້ນຟູ
 url-classifier-cache-clear-btn = ລົບລ້າງ
 url-classifier-cache-table-name = ຊື່ຕາຕະລາງ
 url-classifier-cache-show-entries = ສະແດງລາຍລະອຽດ
-
 url-classifier-not-available = N/A
 url-classifier-enabled = ເປີດໃຊ້ງານ
 url-classifier-disabled = ປິດໃຊ້ງານ

@@ -22,30 +22,24 @@ pictureinpicture-pause-btn =
 pictureinpicture-play-btn =
     .aria-label = Ludi
     .tooltip = Ludi (spacoklavo)
-
 pictureinpicture-mute-btn =
     .aria-label = Silentigi
     .tooltip = Silentigi ({ $shortcut })
 pictureinpicture-unmute-btn =
     .aria-label = Malsilentigi
     .tooltip = Malsilentigi ({ $shortcut })
-
 pictureinpicture-unpip-btn =
     .aria-label = Sendi reen al langeto
     .tooltip = Reen al langeto
-
 pictureinpicture-close-btn =
     .aria-label = Fermi
     .tooltip = Fermi ({ $shortcut })
-
 pictureinpicture-subtitles-btn =
     .aria-label = Subtekstoj
     .tooltip = Subtekstoj
-
 pictureinpicture-fullscreen-btn2 =
     .aria-label = Plenekrane
     .tooltip = Plenekrane (duobla alklako aŭ { $shortcut })
-
 pictureinpicture-exit-fullscreen-btn2 =
     .aria-label = Eliri el plenekrana reĝimo
     .tooltip = Eliri el plenekrana reĝimo (duobla alklako aŭ { $shortcut })
@@ -64,7 +58,6 @@ pictureinpicture-toggle-fullscreen-shortcut =
 pictureinpicture-seekbackward-btn =
     .aria-label = Malantaŭen
     .tooltip = Malantaŭen (←)
-
 pictureinpicture-seekforward-btn =
     .aria-label = Antaŭen
     .tooltip = Antaŭen (→)
@@ -75,13 +68,8 @@ pictureinpicture-seekforward-btn =
 # a screen reader whenever a user opens the subtitles settings panel
 # after selecting the subtitles button.
 pictureinpicture-subtitles-panel-accessible = Agordoj de subteksto
-
 pictureinpicture-subtitles-label = Subtekstoj
-
 pictureinpicture-font-size-label = Tipara grando
-
 pictureinpicture-font-size-small = Eta
-
 pictureinpicture-font-size-medium = Mezgranda
-
 pictureinpicture-font-size-large = Granda

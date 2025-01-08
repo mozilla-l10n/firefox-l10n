@@ -12,35 +12,29 @@ cfr-doorhanger-feature-heading = Funció recomanada
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Per què veig això?
-
 cfr-doorhanger-extension-cancel-button = Ara no
     .accesskey = n
-
 cfr-doorhanger-extension-ok-button = Afig-la ara
     .accesskey = A
-
 cfr-doorhanger-extension-manage-settings-button = Gestiona els paràmetres de recomanacions
     .accesskey = G
-
 cfr-doorhanger-extension-never-show-recommendation = No em mostres esta recomanació
     .accesskey = m
-
 cfr-doorhanger-extension-learn-more-link = Més informació
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = per { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recomanació
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Recomanació
     .tooltiptext = Recomanació d'extensió
     .a11y-announcement = Recomanació d'extensió disponible
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Recomanació
     .tooltiptext = Recomanació de característica
     .a11y-announcement = Recomanació de característica disponible
@@ -85,11 +79,9 @@ cfr-protections-panel-link-text = Més informació
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Novetat:
-
 cfr-whatsnew-button =
     .label = Novetats
     .tooltiptext = Novetats
-
 cfr-whatsnew-release-notes-link-text = Llegiu les notes de la versió
 
 ## Enhanced Tracking Protection Milestones
@@ -115,16 +107,12 @@ cfr-doorhanger-doh-primary-button-2 = D'acord
 cfr-doorhanger-doh-secondary-button = Inhabilita
     .accesskey = h
 
-## Fission Experiment Message
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = És possible que els vídeos d'este lloc no es reproduïsquen correctament en esta versió del { -brand-short-name }. Per reproduir els vídeos correctament, actualitzeu el { -brand-short-name } ara.
 cfr-doorhanger-video-support-header = Actualitzeu el { -brand-short-name } per reproduir el vídeo
 cfr-doorhanger-video-support-primary-button = Actualitza ara
     .accesskey = A
-
-## Spotlight modal shared strings
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -140,9 +128,8 @@ spotlight-public-wifi-vpn-primary-button = Protegiu la vostra privadesa amb el {
 spotlight-public-wifi-vpn-link = Ara no
     .accesskey = n
 
-## Total Cookie Protection Rollout
-
 ## Emotive Continuous Onboarding
+
 
 ## MR2022 Background Update Windows native toast notification strings.
 ##
@@ -157,19 +144,52 @@ spotlight-public-wifi-vpn-link = Ara no
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+
 ## Firefox View CFR
+
 
 ## Firefox View Spotlight
 
+
 ## Colorways expiry reminder CFR
+
 
 ## Cookie Banner Handling CFR
 
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
+
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+
 ## FxA sync CFR
 
+
 ## Device Migration FxA Spotlight
+
+
+## Set as Default PDF Reader Infobar
+
+
+## Launch on login infobar notification
+
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+
+## Tail Fox Set Default Spotlight
+
+
+## Root Certificate Succession Infobar
+
+
+## Root Certificate Succession Windows Background Notification
+
+
+## FxA Menu Message variants
+
+
+## Multi-CTA Fox Doodle Spotlight
 

@@ -7,23 +7,18 @@
 
 autofill-manage-addresses-title = Alamat Disimpan
 autofill-manage-addresses-list-header = Alamat
-
 autofill-manage-credit-cards-title = Kad Kredit Disimpan
 autofill-manage-credit-cards-list-header = Kad Kredit
-
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Buang
 autofill-manage-add-button = Tambah…
 autofill-manage-edit-button = Edit…
 
-##
+## The address capture doorhanger
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Tambah Alamat Baru
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Edit Alamat
-
 autofill-address-given-name = Nama Pertama
 autofill-address-additional-name = Nama Tengah
 autofill-address-family-name = Nama Keluarga
@@ -81,19 +76,18 @@ autofill-address-eircode = Eircode
 
 ##
 
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Tambah Alamat Baru
 autofill-address-country = Negara atau Rantau
 autofill-address-tel = Telefon
 autofill-address-email = E-mel
-
 autofill-cancel-button = Batal
 autofill-save-button = Simpan
 autofill-country-warning-message = Auto-isi Borang buat masa ini hanya tersedia untuk negara tertentu.
-
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Tambah Kad Kredit Baru
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Edit Kad Kredit
-
 autofill-card-number = Nombor Kad
 autofill-card-invalid-number = Sila masukkan nombor kad yang sah
 autofill-card-name-on-card = Nama pada Kad

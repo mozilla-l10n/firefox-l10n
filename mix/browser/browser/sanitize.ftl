@@ -13,10 +13,8 @@
 
 clear-time-duration-value-today =
     .label = Vichi
-
 clear-time-duration-value-everything =
     .label = Ntii
-
 clear-time-duration-suffix =
     .value = { "" }
 
@@ -24,17 +22,12 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Ña niya'a
-
 item-cookies =
     .label = kookies
     .accesskey = k
-
 item-cache =
     .label = Kaché
     .accesskey = K
-
 data-section-label = Tutù
-
 window-close =
     .key = w
-

@@ -18,8 +18,6 @@ abuse-report-addon-authored-by = par <a data-l10n-name="author-name">{ $author-n
 abuse-report-learnmore =
     Vous ne savez pas quel problème choisir ?
     <a data-l10n-name="learnmore-link">Apprenez-en plus sur le signalement d’extensions et de thèmes</a>
-abuse-report-learnmore-intro = Vous ne savez pas quel problème choisir ?
-abuse-report-learnmore-link = Apprenez-en plus sur le signalement d’extensions et de thèmes
 abuse-report-submit-description = Décrivez le problème (facultatif)
 abuse-report-textarea =
     .placeholder = Il est plus facile pour nous de résoudre un problème si nous avons connaissance des détails. Veuillez décrire ce que vous avez constaté. Merci de nous aider à garder le Web en bonne santé.
@@ -48,24 +46,6 @@ abuse-report-messagebar-removed-sitepermission = Merci d’avoir soumis un rappo
 abuse-report-messagebar-removed-theme = Merci d’avoir soumis un rapport. Vous avez supprimé le thème <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Une erreur s’est produite lors de l’envoi du rapport pour <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Le rapport <span data-l10n-name="addon-name">{ $addon-name }</span> n’a pas été transmis car un autre rapport a été transmis récemment.
-abuse-report-messagebar-aborted2 =
-    .message = Signalement de { $addon-name } annulé.
-abuse-report-messagebar-submitting2 =
-    .message = Envoi du signalement concernant { $addon-name }.
-abuse-report-messagebar-submitted2 =
-    .message = Merci d’avoir soumis un rapport. Voulez-vous supprimer { $addon-name } ?
-abuse-report-messagebar-submitted-noremove2 =
-    .message = Merci d’avoir soumis un rapport.
-abuse-report-messagebar-removed-extension2 =
-    .message = Merci d’avoir soumis un rapport. Vous avez supprimé l’extension { $addon-name }.
-abuse-report-messagebar-removed-sitepermission2 =
-    .message = Merci d’avoir soumis un rapport. Vous avez supprimé le module complémentaire d’autorisations de site { $addon-name }.
-abuse-report-messagebar-removed-theme2 =
-    .message = Merci d’avoir soumis un rapport. Vous avez supprimé le thème { $addon-name }.
-abuse-report-messagebar-error2 =
-    .message = Une erreur s’est produite lors de l’envoi du rapport pour { $addon-name }.
-abuse-report-messagebar-error-recent-submit2 =
-    .message = Le rapport { $addon-name } n’a pas été transmis car un autre rapport a été transmis récemment.
 
 ## Message bars actions.
 

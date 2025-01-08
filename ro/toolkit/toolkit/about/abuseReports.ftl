@@ -2,8 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# Localized string used as the dialog window title (a new behavior locked
-# behind the "extensions.abuseReport.openDialog" preference).
+# Localized string used as the dialog window title.
 # "Report" is a noun in this case, "Report for AddonName".
 #
 # Variables:
@@ -16,8 +15,6 @@ abuse-report-subtitle = Care e problema?
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = de către <a data-l10n-name="author-name">{ $author-name }</a>
 abuse-report-learnmore = Nu ești sigur(ă) ce să selectezi? <a data-l10n-name="learnmore-link">Află mai multe despre raportarea extensiilor și a temelor</a>
-abuse-report-learnmore-intro = Nu ești sigur(ă) ce să selectezi?
-abuse-report-learnmore-link = Află mai multe despre raportarea extensiilor și a temelor
 abuse-report-submit-description = Descrie problema (opțional)
 abuse-report-textarea =
     .placeholder = Ne este mai ușor să abordăm o problemă dacă avem informații specifice. Te rugăm să descrii ce probleme ai întâmpinat. Îți mulțumim că ne ajuți să menținem webul sănătos.
@@ -43,22 +40,6 @@ abuse-report-messagebar-removed-extension = Îți mulțumim că ai trimis o rapo
 abuse-report-messagebar-removed-theme = Îți mulțumim că ai trimis o raportare. Ai eliminat tema <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = A apărut o problemă la transmiterea raportării pentru <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Raportarea pentru <span data-l10n-name="addon-name">{ $addon-name }</span> nu a fost transmisă deoarece a mai fost depusă recent altă raportare.
-abuse-report-messagebar-aborted2 =
-    .message = Raportare anulată pentru { $addon-name }.
-abuse-report-messagebar-submitting2 =
-    .message = Se transmite raportarea pentru { $addon-name }.
-abuse-report-messagebar-submitted2 =
-    .message = Îți mulțumim că ai trimis raportarea. Vrei să elimini { $addon-name }?
-abuse-report-messagebar-submitted-noremove2 =
-    .message = Îți mulțumim că ai transmis o raportare.
-abuse-report-messagebar-removed-extension2 =
-    .message = Îți mulțumim că ai trimis o raportare. Ai eliminat extensia { $addon-name }.
-abuse-report-messagebar-removed-theme2 =
-    .message = Îți mulțumim că ai trimis o raportare. Ai eliminat tema { $addon-name }.
-abuse-report-messagebar-error2 =
-    .message = A apărut o problemă la transmiterea raportării pentru { $addon-name }.
-abuse-report-messagebar-error-recent-submit2 =
-    .message = Raportarea pentru { $addon-name } nu a fost transmisă deoarece a mai fost depusă recent altă raportare.
 
 ## Message bars actions.
 

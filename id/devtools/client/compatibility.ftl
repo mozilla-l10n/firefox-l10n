@@ -38,11 +38,9 @@ compatibility-issue-occurrences =
     { $number ->
        *[other] { $number } kemunculan
     }
-
 compatibility-no-issues-found = Tidak ditemukan masalah kompatibilitas.
 compatibility-close-settings-button =
     .title = Pengaturan tertutup
-
 # Text used in the element containing the browser icons for a given compatibility issue.
 # Line breaks are significant.
 # Variables:

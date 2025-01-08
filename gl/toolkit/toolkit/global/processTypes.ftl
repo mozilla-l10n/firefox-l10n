@@ -5,7 +5,6 @@
 
 ##
 ## Localization for remote types defined in RemoteType.h
-##
 
 process-type-web = Contido web
 # process used to run privileged about pages,
@@ -28,7 +27,6 @@ process-type-prealloc = Preasignado
 
 ##
 ## Localization for Gecko process types defined in GeckoProcessTypes.h
-##
 
 process-type-default = Principal
 process-type-tab = Lapela
@@ -45,7 +43,6 @@ process-type-utility-actor-js-oracle = Utilidade de JavaScript Oracle
 
 ##
 ## Other
-##
 
 # fallback
 process-type-unknown = Descoñecido

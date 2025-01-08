@@ -43,3 +43,6 @@ sync-setup-verify-heading = Boles sighire cun s’atzessu pro sa sincronizatzion
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Un'àteru utente s’est giai identificadu in custu elaboradore pro fàghere sa sincronizatzione. Si t’identìficas, is sinnalibros, is craes e is àteras cunfiguratziones de custu navigadore s'ant a unire cun cussas de { $email }
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+

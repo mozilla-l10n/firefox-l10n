@@ -33,8 +33,6 @@ about-webrtc-aec-logging-toggled-off-state-msg = ᱨᱮ ᱦᱟᱛᱟᱣ ᱠᱟ�
 
 # The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = ᱟᱡ ᱛᱮ ᱟᱹᱨᱩ
-# Determines the default state of the Auto Refresh check boxes
-about-webrtc-auto-refresh-default-label = ᱢᱩᱞ ᱞᱮᱠᱷᱟᱛᱮ ᱟᱡ ᱛᱮ ᱟᱹᱨᱩᱭ ᱢᱮ
 # A button which forces a refresh of displayed statistics
 about-webrtc-force-refresh-button = ᱱᱟᱶᱟ ᱟᱹᱨᱩ
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
@@ -98,8 +96,8 @@ about-webrtc-save-page-label = ᱥᱟᱦᱴᱟ ᱥᱟᱸᱪᱟᱣ ᱢᱮ
 about-webrtc-debug-mode-msg-label = ᱰᱮᱵᱩᱜᱽ ᱢᱳᱰ
 about-webrtc-debug-mode-off-state-label = ᱰᱮᱵᱩᱜᱽ ᱢᱳᱰ ᱮᱛᱦᱚᱵ ᱢᱮ
 about-webrtc-debug-mode-on-state-label = ᱰᱮᱵᱩᱜᱽ ᱢᱳᱰ ᱵᱚᱸᱫ ᱢᱮ
-about-webrtc-enable-logging-label = WebRTC ᱞᱚᱜᱽ ᱯᱨᱮᱡᱚᱱᱴ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ
 about-webrtc-stats-heading = ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱟᱸᱠᱲᱟ
+about-webrtc-enable-logging-label = WebRTC ᱞᱚᱜᱽ ᱯᱨᱮᱡᱚᱱᱴ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ
 about-webrtc-stats-clear = ᱦᱤᱛᱟᱹᱞ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ
 about-webrtc-log-heading = ᱡᱚᱲᱟᱣ ᱞᱚᱜᱽ
 about-webrtc-log-clear = ᱞᱚᱜᱽ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ
@@ -194,6 +192,13 @@ about-webrtc-configuration-element-provided = ᱮᱢ ᱠᱟᱱᱟ
 about-webrtc-configuration-element-not-provided = ᱵᱟᱝ ᱮᱢ ᱠᱟᱱᱟ
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱫᱚ WebRTC ᱠᱩᱥᱤᱠᱚ ᱥᱮᱴ ᱠᱟᱫᱟᱭ
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+
+##
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = ᱚᱱᱩᱢᱟᱱ ᱠᱚᱱ ᱵᱮᱱᱰᱣᱤᱰᱛᱷ
 # The ID of the MediaStreamTrack
@@ -215,10 +220,7 @@ about-webrtc-round-trip-time-ms = RTT ms
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = ᱵᱷᱤᱰᱤᱭᱚ ᱯᱷᱮᱢ ᱟᱸᱠᱲᱟ - MediaStreamTrack ID: { $track-identifier }
 
-## These are paths used for saving the about:webrtc page or log files so
-## they can be attached to bug reports.
-## Variables:
-##  $path (String) - The path to which the file is saved.
+##
 
 about-webrtc-save-page-msg = ᱛᱮ ᱥᱟᱦᱴᱟ ᱥᱟᱺᱪᱟᱣ ᱮᱱᱟ: { $path }
 about-webrtc-debug-mode-off-state-msg = ᱨᱮ ᱯᱟᱧᱡᱟ ᱞᱚᱜᱽ ᱧᱟᱢᱚᱜᱼᱟ : { $path }
@@ -229,8 +231,6 @@ about-webrtc-aec-logging-off-state-msg = ᱨᱮ ᱦᱟᱛᱟᱣ ᱠᱟᱱ ᱞᱚ
 # Variables:
 #  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = ᱛᱮ ᱥᱟᱦᱴᱟ ᱥᱟᱺᱪᱟᱣ ᱮᱱᱟ: { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = ᱨᱮ ᱯᱟᱧᱡᱟ ᱞᱚᱜᱽ ᱧᱟᱢᱚᱜᱼᱟ : { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = ᱰᱮᱵᱩᱜ ᱢᱳᱰ ᱪᱚᱴᱠᱟᱨ ᱜᱮᱭᱟ, ᱯᱟᱧᱡᱟ ᱞᱚᱜᱽ : { $path }
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -315,9 +315,6 @@ about-webrtc-hide-msg-sdp = SDP ᱩᱠᱩ
 about-webrtc-media-context-show-msg = ᱢᱤᱰᱤᱭᱟ ᱵᱟᱵᱚᱛ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 about-webrtc-media-context-hide-msg = ᱢᱤᱰᱤᱭᱟ ᱵᱟᱵᱚᱛ ᱩᱠᱩᱭ ᱢᱮ
 about-webrtc-media-context-heading = ᱢᱤᱰᱤᱭᱟ ᱵᱟᱵᱚᱛ
-
-##
-
 
 ##
 

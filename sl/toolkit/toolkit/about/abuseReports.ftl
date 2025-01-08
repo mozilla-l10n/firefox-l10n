@@ -18,8 +18,6 @@ abuse-report-addon-authored-by = (<a data-l10n-name="author-name">{ $author-name
 abuse-report-learnmore =
     Niste prepričani, katero težavo izbrati?
     <a data-l10n-name="learnmore-link">Več o prijavljanju razširitev in tem</a>
-abuse-report-learnmore-intro = Niste prepričani, katero težavo izbrati?
-abuse-report-learnmore-link = Več o prijavljanju razširitev in tem
 abuse-report-submit-description = Opišite težavo (neobvezno)
 abuse-report-textarea =
     .placeholder = Težave lažje odpravimo, če imamo na voljo podrobnosti. Opišite težavo. Hvala, ker nam pomagate ohranjati splet zdrav.
@@ -48,24 +46,6 @@ abuse-report-messagebar-removed-sitepermission = Hvala, ker ste nam poslali prij
 abuse-report-messagebar-removed-theme = Hvala za prijavo. Temo <span data-l10n-name="addon-name">{ $addon-name }</span> ste odstranili.
 abuse-report-messagebar-error = Pri pošiljanju poročila za <span data-l10n-name="addon-name">{ $addon-name }</span> je prišlo do napake.
 abuse-report-messagebar-error-recent-submit = Poročilo za <span data-l10n-name="addon-name">{ $addon-name }</span> ni bilo poslano, ker je bilo pred kratkim poslano drugo poročilo.
-abuse-report-messagebar-aborted2 =
-    .message = Prijava dodatka { $addon-name } je preklicana.
-abuse-report-messagebar-submitting2 =
-    .message = Pošiljanje poročila za { $addon-name }.
-abuse-report-messagebar-submitted2 =
-    .message = Hvala za prijavo. Ali želite odstraniti { $addon-name }?
-abuse-report-messagebar-submitted-noremove2 =
-    .message = Hvala za prijavo.
-abuse-report-messagebar-removed-extension2 =
-    .message = Hvala, ker ste nam poslali prijavo. Razširitev { $addon-name } ste odstranili.
-abuse-report-messagebar-removed-sitepermission2 =
-    .message = Hvala, ker ste nam poslali prijavo. Dodatek za dovoljenja strani { $addon-name } ste odstranili.
-abuse-report-messagebar-removed-theme2 =
-    .message = Hvala za prijavo. Temo { $addon-name } ste odstranili.
-abuse-report-messagebar-error2 =
-    .message = Pri pošiljanju poročila za { $addon-name } je prišlo do napake.
-abuse-report-messagebar-error-recent-submit2 =
-    .message = Poročilo za { $addon-name } ni bilo poslano, ker je bilo pred kratkim poslano drugo poročilo.
 
 ## Message bars actions.
 

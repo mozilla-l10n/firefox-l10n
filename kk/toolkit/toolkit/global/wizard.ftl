@@ -11,7 +11,6 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Артқа
     .accesskey = А
-
 wizard-macos-button-next =
     .label = Жалғастыру
     .accesskey = Ж
@@ -21,14 +20,12 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = Әрі қарай >
     .accesskey = р
-
 wizard-macos-button-finish =
     .label = Дайын
 wizard-linux-button-finish =
     .label = Дайын
 wizard-win-button-finish =
     .label = Дайын
-
 wizard-macos-button-cancel =
     .label = Бас тарту
 wizard-linux-button-cancel =

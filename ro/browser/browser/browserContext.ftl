@@ -78,6 +78,9 @@ toolbar-button-fxaccount =
     .label = { -fxaccount-brand-name(case: "indefinite-article", capitalization: "upper") }
     .tooltiptext = { -fxaccount-brand-name(case: "indefinite-article", capitalization: "upper") }
 
+## Account toolbar Button
+
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -277,9 +280,7 @@ main-context-menu-send-to-device =
     .label = Trimite pagina unui dispozitiv
     .accesskey = n
 
-## The access keys for "Use Saved Login" and "Use Saved Password"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
+##
 
 
 ##

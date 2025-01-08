@@ -37,7 +37,6 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Nun ne
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = Nova { -brand-shorter-name } estas disponebla, sed ĝi ne povas esti instalita ĉar alia kopio de { -brand-shorter-name } nuntempe estas uzata. Fermu ĝin por daŭrigi la ĝisdatigon, aŭ elektu tamen daŭrigi la ĝisdatigon ĉi tiel (la alia kopio povus ne bone funkcii ĝis restarto).
-
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = En ordo
     .buttonaccesskey = o
@@ -45,7 +44,6 @@ appmenu-addon-post-install-message3 = Administru viajn aldonaĵojn kaj etosojn e
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permesi al tiu ĉi etendaĵo funkcii en privataj fenestroj
     .accesskey = P
-    
 appmenu-new-tab-controlled-changes =
     .label = Via paĝo de nova langeto ŝanĝiĝis.
     .buttonlabel = Gardi ŝanĝojn

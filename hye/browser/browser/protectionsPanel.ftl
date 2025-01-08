@@ -23,17 +23,17 @@ protections-panel-etp-more-info =
     .aria-label = Հետապնդումից ընդլայնուած պաշտպանութեան մասին լրացուցիչ տեղեկութիւններ
 protections-panel-etp-on-header = Ընդլայնուած հետագծման պաշտպանութիւնը միացուած է այս կայքի համար
 protections-panel-etp-off-header = Ընդլայնուած Հետագծման պաշտպանութիւնն Անջատուած է այս կայքի համար
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Կայքը չի՞ աշխատում։
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Կայքը չի՞ աշխատում։
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Կայքը չի՞ աշխատում։
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Կայքը չի՞ աշխատում։
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -63,6 +63,9 @@ protections-panel-content-blocking-fingerprinters-label = Մատնահետքեր
 protections-panel-blocking-label = Արգելափակուած
 protections-panel-not-blocking-label = Թոյլատրուած
 protections-panel-not-found-label = Ոչ մեկը չի յայտնաբերուել
+
+## Smartblock strings
+
 
 ##
 
@@ -99,7 +102,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Հաղորդել կոտրուած կայքի մասին
 protections-panel-content-blocking-breakage-report-view-description = Որոշ հետագծիչների արգելափակումը կարող է որոշ կայքերի հետ խնդիրների յանգեցնել։ Այս խնդիրների զեկուցումն աւգնում է բարելաւել { -brand-short-name }֊ը։ Այս զեկոյցի միջոցով Mozilla֊ին ուղարկուում է URL եւ ձեր դիտարկչի կարգաւորումների մասին տեղեկութիւններ։ <label data-l10n-name="learn-more"> Իմանալ աւելին </label>
-protections-panel-content-blocking-breakage-report-view-description2 = Որոշ հետագծիչների արգելափակումը կարող է որոշ կայքերի հետ խնդիրների յանգեցնել։ Այս խնդիրների զեկուցումն աւգնում է բարելաւել { -brand-short-name }֊ը։ Այս զեկոյցի միջոցով { -vendor-short-name }֊ին ուղարկուում է URL եւ ձեր դիտարկչի կարգաւորումների մասին տեղեկութիւններ։
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL

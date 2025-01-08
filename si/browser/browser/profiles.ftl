@@ -3,7 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
+## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
-# Autofill data saved to a profile. This is followed by a column with the number of addresses / payment methods associated to the profile.
 delete-profile-autofill = ස්වයං පිරවුම් දත්ත (ලිපින, ගෙවීම් ක්‍රම)
+
+##
+
+
+## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
+

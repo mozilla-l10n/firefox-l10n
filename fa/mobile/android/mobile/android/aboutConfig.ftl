@@ -6,11 +6,9 @@ config-toolbar-search =
     .placeholder = جست‌وجو
 config-new-pref-name =
     .placeholder = نام
-
 config-new-pref-value-boolean = بولی
 config-new-pref-value-string = رشته
 config-new-pref-value-integer = عدد صحیح
-
 config-new-pref-string =
     .placeholder = یک رشته وارد کنید
 config-new-pref-number =
@@ -18,12 +16,9 @@ config-new-pref-number =
 config-new-pref-cancel-button = انصراف
 config-new-pref-create-button = ایجاد
 config-new-pref-change-button = تغییر
-
 config-pref-toggle-button = تغییر وضعیت
 config-pref-reset-button = ایجاد مجدد
-
 config-context-menu-copy-pref-name =
     .label = رونوشت  از نام
 config-context-menu-copy-pref-value =
     .label = رونوشت  از مقدار
-

@@ -33,7 +33,6 @@ styleeditor-find-again =
 styleeditor-go-to-line =
     .label = লাইনে জাম্প করুন… J
     .accesskey = J
-
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.

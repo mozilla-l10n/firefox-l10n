@@ -36,7 +36,7 @@ about-telemetry-fetch-stack-symbols = ஸ்டேக்குகளுக்க
 about-telemetry-hide-stack-symbols = அடுக்கின் பதனிடாத தரவைக் காண்பி
 # Selects the correct release version
 # Variables:
-#   $channel (String): represents the corresponding release data string
+#   $channel (string) - Represents the corresponding release data string
 about-telemetry-data-type =
     { $channel ->
         [release] வெளியீட்டு தரவு
@@ -44,38 +44,38 @@ about-telemetry-data-type =
     }
 # Selects the correct upload string
 # Variables:
-#   $uploadcase (String): represents a corresponding upload string
+#   $uploadcase (string) - Represents a corresponding upload string
 about-telemetry-upload-type =
     { $uploadcase ->
         [enabled] செயல்படுத்தப்பட்டது
        *[disabled] முடக்கப்பட்டது
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = இந்தப் பக்கமானது, டெலிமெட்ரியின் மூலம் சேகரிக்கப்பட்ட செயல்திறன், வன்பொருள், பயன்பாடு மற்றும் தனிப்பயனாக்கங்கள் குறித்த தகவல்களைக் காண்பிக்கும். { -brand-full-name } ஐ மேம்படுத்துவதற்கு உதவியாக இந்த தகவல் { $telemetryServerOwner } க்கு சமர்ப்பிக்கப்படும்.
 # Variables:
-#   $name (String): ping name, e.g. “saved-session”
-#   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
+#   $name (string) - Ping name, e.g. “saved-session”
+#   $timestamp (string) - Ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = ஒவ்வொரு துண்டு தகவலும் “<a data-l10n-name="ping-link">பிங்குகள்</a>” பொட்டலத்தில் அனுப்பப்பட்டது. நீங்கள் பார்ப்பது { $name }, { $timestamp } பிங் ஆகும்.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $selectedTitle (String): the section name from the structure of the ping.
+#   $selectedTitle (string) - The section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = { $selectedTitle } விவரத்தில் கண்டுபிடி
 about-telemetry-filter-all-placeholder =
     .placeholder = அனைத்து பிரிவுகளிலும் தேடு
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-results-for-search = “{ $searchTerms }” என்பதற்கான முடிவுகள்
 # More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $sectionName (String): the section name from the structure of the ping.
-#   $currentSearchText (String): the current text in the search input
+#   $sectionName (string) - The section name from the structure of the ping.
+#   $currentSearchText (string) - The current text in the search input
 about-telemetry-no-search-results = மன்னிக்கவும்! “{ $currentSearchText }” என்பதற்கு { $sectionName } என்பதில் எந்த முடிவுகளும் இல்லை
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-no-search-results-all = மன்னிக்கவும்! “{ $searchTerms }” என்பதற்கு எந்த பிரிவுகளிலும் முடிவுகள் இல்லை
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = அனைத்தும்
@@ -91,13 +91,13 @@ about-telemetry-slow-sql-statement = கூற்று
 about-telemetry-addon-table-id = கூடுதல் இணைப்பின் அடையாள எண்
 about-telemetry-addon-table-details = விவரங்கள்
 # Variables:
-#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+#   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = { $addonProvider } வழங்குநர்
 about-telemetry-keys-header = பண்பு
 about-telemetry-names-header = பெயர்
 about-telemetry-values-header = மதிப்பு
 # Variables:
-#   $lateWriteCount (Integer): the number of the late writes
+#   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = தாமத எழுதுதல் #{ $lateWriteCount }
 about-telemetry-stack-title = ஸ்டேக்:
 about-telemetry-memory-map-title = நினைவக மேப்:

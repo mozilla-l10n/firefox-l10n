@@ -10,6 +10,8 @@ safeb-blocked-phishing-page-short-desc = { -brand-short-name } ha blocau esta pa
 safeb-blocked-malware-page-short-desc = { -brand-short-name } ha blocau esta pachina perque podría mirar d'instalar software perchudicial que puede rapar u borrar información personal d'o suyo ordinador.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } ha blocau esta pachina perque podría mirar d'enganyar-le pa que instale programas que pueden danyar la tuya experiencia de navegación (per eixemplo, cambiando la tuya pachina d'inicio u amostrando publicidat en os puestos que vesitas).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } ha blocau esta pachina ya que podría mirar d'instalar apps periglosas u rapar u borrar la suya información (per eixemplo, fotos, claus, mensaches u tarchetas de credito).
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Consello de <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Ir enta zaga
 safeb-palm-see-details-label = Veyer los detalles

@@ -30,6 +30,9 @@
 ##   These strings are used in the header labels of each of these sections.
 
 
+## Smartblock strings
+
+
 ##
 
 

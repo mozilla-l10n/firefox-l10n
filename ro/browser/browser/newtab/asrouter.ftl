@@ -12,35 +12,29 @@ cfr-doorhanger-feature-heading = Funcție recomandată
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = De ce văd asta
-
 cfr-doorhanger-extension-cancel-button = Nu acum
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = Adaugă acum
     .accesskey = A
-
 cfr-doorhanger-extension-manage-settings-button = Gestionează setările pentru recomandări
     .accesskey = M
-
 cfr-doorhanger-extension-never-show-recommendation = Nu-mi afișa această recomandare
     .accesskey = S
-
 cfr-doorhanger-extension-learn-more-link = Află mai multe
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = de { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recomandare
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Recomandare
     .tooltiptext = Recomandare extensie
     .a11y-announcement = Recomandare disponibilă pentru extensie
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Recomandare
     .tooltiptext = Recomandare funcționalitate
     .a11y-announcement = Recomandare disponibilă pentru funcționalitate
@@ -87,11 +81,9 @@ cfr-protections-panel-link-text = Află mai multe
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Funcționalitate nouă:
-
 cfr-whatsnew-button =
     .label = Ce este nou
     .tooltiptext = Ce este nou
-
 cfr-whatsnew-release-notes-link-text = Citește notele privind versiunea
 
 ## Enhanced Tracking Protection Milestones
@@ -110,12 +102,7 @@ cfr-doorhanger-doh-primary-button-2 = OK
 cfr-doorhanger-doh-secondary-button = Dezactivează
     .accesskey = D
 
-## Fission Experiment Message
-
 ## Full Video Support CFR message
-
-
-## Spotlight modal shared strings
 
 
 ## VPN promotion dialog for public Wi-Fi users
@@ -123,9 +110,6 @@ cfr-doorhanger-doh-secondary-button = Dezactivează
 ## If a user is detected to be on a public Wi-Fi network, they are given a
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
-
-
-## Total Cookie Protection Rollout
 
 
 ## Emotive Continuous Onboarding
@@ -172,4 +156,29 @@ spotlight-pin-primary-button =
 
 
 ## Device Migration FxA Spotlight
+
+
+## Set as Default PDF Reader Infobar
+
+
+## Launch on login infobar notification
+
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+
+## Tail Fox Set Default Spotlight
+
+
+## Root Certificate Succession Infobar
+
+
+## Root Certificate Succession Windows Background Notification
+
+
+## FxA Menu Message variants
+
+
+## Multi-CTA Fox Doodle Spotlight
 

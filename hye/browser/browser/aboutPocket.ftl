@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Աւելացնել պիտակներ
-
 pocket-panel-saved-error-generic = Սխալ՝ { -pocket-brand-name }-ում պահպանելիս։
 pocket-panel-saved-error-tag-length = Պիտակը սահմանափակուած է 25 գրանշանով
 pocket-panel-saved-error-only-links = Միայն յղումները կարող են պահուել
@@ -28,7 +27,6 @@ pocket-panel-saved-save-tags = Պահպանել
 pocket-panel-saved-saving-tags = Պահպանում…
 pocket-panel-saved-suggested-tags = Առաջարկուող պիտակներ
 pocket-panel-saved-tags-saved = Պիտակները աւելացուել են
-
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Աւելացնել պիտակներ․
 
@@ -43,7 +41,6 @@ pocket-panel-signup-signup-firefox = Գրանցուել { -brand-product-name }-
 pocket-panel-signup-tagline = Պահպանէք յաւդուածներ եւ տեսանիւթեր { -brand-product-name }-ից՝ դրանք յետագայում ցանկացած սարքից, ցանկացած ժամանակ { -pocket-brand-name }-ում դիտելու համար։
 pocket-panel-signup-tagline-story-one = Սեղմէք { -pocket-brand-name } կոճակը՝ { -brand-product-name }-ից ցանկացած յաւդուած, տեսանիւթ կամ էջ պահպանելու համար։
 pocket-panel-signup-tagline-story-two = Դիտէք { -pocket-brand-name }-ում ցանկացած սարքից, ցանկացած ժամանակ։
-
 pocket-panel-signup-cta-a-fix = Պահպանման կոճակ համացանցի համար։
 pocket-panel-signup-cta-b-short = Սեղմէք { -pocket-brand-name } կոճակը՝ յոդուածներ, տեսանիւթեր եւ յղումներ պահպանելու համար։
 
@@ -54,7 +51,6 @@ pocket-panel-home-paragraph = { -pocket-brand-name } -ն աւգտագործու�
 pocket-panel-home-explore-popular-topics = Բացայայտել հանրաճանաչ նիւթերը
 pocket-panel-home-discover-more = Բացայայտել աւելին
 pocket-panel-home-explore-more = Ուսումնասիրել․
-
 pocket-panel-home-most-recent-saves = Ահա ձեր ամենավերջին պահպանածները․
 pocket-panel-home-most-recent-saves-loading = Վերջին պահումների բեռնում…
 pocket-panel-home-new-user-cta = Սեղմէք { -pocket-brand-name } կոճակը՝ յաւդուածներ, տեսանիւթեր եւ յղումներ պահպանելու համար։

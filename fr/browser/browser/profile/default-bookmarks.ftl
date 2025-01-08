@@ -9,45 +9,31 @@
 
 default-bookmarks-title = Marque-pages
 default-bookmarks-heading = Marque-pages
-
 default-bookmarks-toolbarfolder = Barre personnelle
 default-bookmarks-toolbarfolder-description = Ajoutez des marque-pages dans ce dossier pour les voir apparaître sur votre barre personnelle
-
 # link title for https://www.mozilla.org/firefox/central/
 default-bookmarks-getting-started = Débuter avec Firefox
-
 # Firefox links folder name
 default-bookmarks-firefox-heading = Mozilla Firefox
-
 # link title for https://www.mozilla.org/firefox/help/
 default-bookmarks-firefox-get-help = Obtenir de l’aide
-
 # link title for https://www.mozilla.org/firefox/customize/
 default-bookmarks-firefox-customize = Personnaliser Firefox
-
 # link title for https://www.mozilla.org/contribute/
 default-bookmarks-firefox-community = Participer
-
 # link title for https://www.mozilla.org/about/
 default-bookmarks-firefox-about = À propos de Mozilla
-
 # Firefox Nightly links folder name
 default-bookmarks-nightly-heading = Ressources Firefox Nightly
-
 # Nightly builds only, link title for https://blog.nightly.mozilla.org/
 default-bookmarks-nightly-blog = Blog Firefox Nightly
-
 # Nightly builds only, link title for https://bugzilla.mozilla.org/
 default-bookmarks-bugzilla = Système de suivi de bugs de Mozilla
-
 # Nightly builds only, link title for https://developer.mozilla.org/
 default-bookmarks-mdn = Mozilla Developer Network
-
 # Nightly builds only, link title for https://addons.mozilla.org/firefox/addon/nightly-tester-tools/
 default-bookmarks-nightly-tester-tools = Nightly Tester Tools
-
 # Nightly builds only, link title for about:crashes
 default-bookmarks-crashes = Tous vos plantages
-
 # Nightly builds only, link title for https://planet.mozilla.org/
 default-bookmarks-planet = Planète Mozilla

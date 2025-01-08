@@ -25,5 +25,6 @@ error-long-desc4 = Miazkatu behar ez den metalezko ipurdi distiratsua dute robot
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = ...eta plan bat dute.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = Saiatu berriro
     .label2 = Ez sakatu botoi hau berriro.

@@ -4,7 +4,6 @@
 
 profiledowngrade-window-create =
     .label = नया प्रोफ़ाइल बनाएं
-
 profiledowngrade-quit =
     .label =
         { PLATFORM() ->

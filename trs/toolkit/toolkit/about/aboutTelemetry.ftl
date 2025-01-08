@@ -42,7 +42,7 @@ about-telemetry-fetch-stack-symbols = Nana'ui' si yugui sa 'iaj sun nga sa niko'
 about-telemetry-hide-stack-symbols = Digân nej datos hua ni' gachin gi'iaj sun
 # Selects the correct release version
 # Variables:
-#   $channel (String): represents the corresponding release data string
+#   $channel (string) - Represents the corresponding release data string
 about-telemetry-data-type =
     { $channel ->
         [release] Nuguan' nagi'iaj hìo
@@ -50,7 +50,7 @@ about-telemetry-data-type =
     }
 # Selects the correct upload string
 # Variables:
-#   $uploadcase (String): represents a corresponding upload string
+#   $uploadcase (string) - Represents a corresponding upload string
 about-telemetry-upload-type =
     { $uploadcase ->
         [enabled] huaj
@@ -58,45 +58,45 @@ about-telemetry-upload-type =
     }
 # Example Output: 1 sample, average = 0, sum = 0
 # Variables:
-#   $sampleCount (Integer): amount of histogram samples
-#   $prettyAverage (Integer): average of histogram samples
-#   $sum (Integer): sum of histogram samples
+#   $sampleCount (number) - Amount of histogram samples
+#   $prettyAverage (number) - Average of histogram samples
+#   $sum (number) - Sum of histogram samples
 about-telemetry-histogram-stats =
     { $sampleCount ->
         [one] { $sampleCount } dàj hua, antaj nìko huaj = { $prettyAverage }, da' huaj = { $sum }
        *[other] { $sampleCount } dàj hua, antaj nìko huaj = { $prettyAverage }, da' huaj = { $sum }
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Página na nariki nuguan an daj 'iaj sun, hardware, nuin saj raj sun' sa nara'ui' huin Telemetry. Nuguan' na ni ga'an riña { $telemetryServerOwner } da' rugujñu'un nahuin hue'e { -brand-full-name }.
 about-telemetry-settings-explanation = Nana'ui' nuguàn' telemetría { about-telemetry-data-type } ni kârga hua <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
-#   $name (String): ping name, e.g. “saved-session”
-#   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
+#   $name (string) - Ping name, e.g. “saved-session”
+#   $timestamp (string) - Ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Da' nuguan' nan' chre' nahuin "<a data-l10n-name="ping-link">pings</a>". Akuan' nïn nan ni'iajt { $name }, { $timestamp } ping.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $selectedTitle (String): the section name from the structure of the ping.
+#   $selectedTitle (string) - The section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = Narì't riña { $selectedTitle }
 about-telemetry-filter-all-placeholder =
     .placeholder = Narì' riña daran' seksiûn
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-results-for-search = Sa nari'ij guendâ "{ $searchTerms }"
 # More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $sectionName (String): the section name from the structure of the ping.
-#   $currentSearchText (String): the current text in the search input
+#   $sectionName (string) - The section name from the structure of the ping.
+#   $currentSearchText (string) - The current text in the search input
 about-telemetry-no-search-results = Si ga'man ruhuât! Nitaj nùnj nari'ij riña { $sectionName } guendâ "{ $currentSearchText }"
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-no-search-results-all = Si ga'man ruhuât. Nu nari'ij à'ngo nuguan' hiuj nan guendâ “{ $searchTerms }”
 # This message is displayed when a section is empty.
 # Variables:
-#   $sectionName (String): is replaced by the section name.
+#   $sectionName (string) - Is replaced by the section name.
 about-telemetry-no-data-to-display = Si ga'man ruhuât. Akuan' nïn nitaj nuguan'an guendâ “{ $sectionName }”
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = datô hua akuan' nïn
@@ -114,13 +114,13 @@ about-telemetry-slow-sql-statement = Sa girant
 about-telemetry-addon-table-id = ID sa nuto'
 about-telemetry-addon-table-details = A'ngô nej sa nika
 # Variables:
-#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+#   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = { $addonProvider } Sa ri rasuun
 about-telemetry-keys-header = Sa nikaj ñu'un ma
 about-telemetry-names-header = Si yugui
 about-telemetry-values-header = Dàj du'ue man
 # Variables:
-#   $lateWriteCount (Integer): the number of the late writes
+#   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = Sa gachrûn ràan #{ $lateWriteCount }
 about-telemetry-stack-title = Nagi'iaj chre'
 about-telemetry-memory-map-title = Riña nun sa' ma:
@@ -131,5 +131,5 @@ about-telemetry-method-header = daj ganiko'
 about-telemetry-object-header = rasuun
 about-telemetry-extra-header = sa tàj a
 # Variables:
-#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+#  $process (string) - Type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = Chrej ganikò' { $process }

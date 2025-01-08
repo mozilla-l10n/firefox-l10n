@@ -6,4 +6,3 @@
 active-policies-tab = Aktief
 errors-tab = Foute
 documentation-tab = Dokumentasie
-

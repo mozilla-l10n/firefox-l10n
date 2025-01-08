@@ -41,7 +41,6 @@ account-single-tab-arriving-from-device-title = Oortjie vanaf { $deviceName }
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = Oortjies ontvang
-
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =
@@ -60,3 +59,9 @@ account-multiple-tabs-arriving-from-unknown-device =
         [one] { $tabCount } oortjie het aangekom
        *[other] { $tabCount } oortjies het aangekom
     }
+
+## These strings are used in notifications in which the user remotely closed
+## tabs from other devices
+## Variables:
+##   $closedCount (Number): the number of tabs closed
+

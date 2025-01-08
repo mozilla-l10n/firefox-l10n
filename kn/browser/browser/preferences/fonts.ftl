@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = ಅಕ್ಷರ ಶೈಲಿಗಳು
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = ಇದಕ್ಕಾಗಿನ ಅಕ್ಷರಶೈಲಿಗಳು
     .accesskey = F
-
 fonts-langgroup-arabic =
     .label = ಅರೇಬಿಕ್‍
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = ಸಮಪ್ರಮಾಣದ
     .accesskey = P
-
 fonts-default-serif =
     .label = ಸೆರಿಫ್
 fonts-default-sans-serif =
     .label = ಸಾನ್ಸ್‍ ಸೆರಿಫ್
-
 fonts-proportional-size = ಗಾತ್ರ
     .accesskey = z
-
 fonts-serif = ಸೆರಿಫ್
     .accesskey = S
-
 fonts-sans-serif = ಸಾನ್ಸ್‍-ಸೆರಿಫ್
     .accesskey = n
-
 fonts-monospace = ಮೊನೊಸ್ಪೇಸ್
     .accesskey = M
-
 fonts-monospace-size = ಗಾತ್ರ
     .accesskey = e
-
 fonts-minsize = ಅಕ್ಷರದ ಕನಿಷ್ಠ ಗಾತ್ರ
     .accesskey = o
-
 fonts-minsize-none =
     .label = ಯಾವುದೂ ಇಲ್ಲ
-
 fonts-allow-own =
     .label = ಪುಟಗಳು ತಮ್ಮದೇ ಫಾಂಟುಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಲು ಅನುಮತಿಸಿ, ಈ ಮೇಲಿನ ನಿಮ್ಮ ಆಯ್ಕೆಗಳ ಹೊರತಾಗಿ
     .accesskey = A
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

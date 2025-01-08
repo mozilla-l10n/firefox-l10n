@@ -7,6 +7,7 @@ pictureinpicture-player-title = Картинка в картинке
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -21,30 +22,24 @@ pictureinpicture-pause-btn =
 pictureinpicture-play-btn =
     .aria-label = Воспроизвести
     .tooltip = Воспроизвести (Пробел)
-
 pictureinpicture-mute-btn =
     .aria-label = Отключить звук
     .tooltip = Отключить звук ({ $shortcut })
 pictureinpicture-unmute-btn =
     .aria-label = Включить звук
     .tooltip = Включить звук ({ $shortcut })
-
 pictureinpicture-unpip-btn =
     .aria-label = Отправить обратно во вкладку
     .tooltip = Обратно во вкладку
-
 pictureinpicture-close-btn =
     .aria-label = Закрыть
     .tooltip = Закрыть ({ $shortcut })
-
 pictureinpicture-subtitles-btn =
     .aria-label = Субтитры
     .tooltip = Субтитры
-
 pictureinpicture-fullscreen-btn2 =
     .aria-label = На весь экран
     .tooltip = На весь экран (двойной щелчок или { $shortcut })
-
 pictureinpicture-exit-fullscreen-btn2 =
     .aria-label = Выйти из полноэкранного режима
     .tooltip = Выйти из полноэкранного режима (двойной щелчок или { $shortcut })
@@ -63,7 +58,6 @@ pictureinpicture-toggle-fullscreen-shortcut =
 pictureinpicture-seekbackward-btn =
     .aria-label = Назад
     .tooltip = Назад (←)
-
 pictureinpicture-seekforward-btn =
     .aria-label = Вперёд
     .tooltip = Вперёд (→)
@@ -74,13 +68,8 @@ pictureinpicture-seekforward-btn =
 # a screen reader whenever a user opens the subtitles settings panel
 # after selecting the subtitles button.
 pictureinpicture-subtitles-panel-accessible = Настройки субтитров
-
 pictureinpicture-subtitles-label = Субтитры
-
 pictureinpicture-font-size-label = Размер шрифта
-
 pictureinpicture-font-size-small = Маленький
-
 pictureinpicture-font-size-medium = Средний
-
 pictureinpicture-font-size-large = Большой

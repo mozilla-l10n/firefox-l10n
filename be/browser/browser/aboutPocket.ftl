@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Дадаць тэгі
-
 pocket-panel-saved-error-generic = Узнікла памылка пры спробе захаваць у { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Тэгі абмежаваныя 25 сімваламі
 pocket-panel-saved-error-only-links = Можна захаваць толькі спасылкі
@@ -29,7 +28,6 @@ pocket-panel-saved-save-tags = Захаваць
 pocket-panel-saved-saving-tags = Захаванне…
 pocket-panel-saved-suggested-tags = Прапанаваныя тэгі
 pocket-panel-saved-tags-saved = Тэгі дададзены
-
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Дадаць тэгі:
 
@@ -44,7 +42,6 @@ pocket-panel-signup-signup-firefox = Рэгістрацыя праз { -brand-pr
 pocket-panel-signup-tagline = Захоўвайце артыкулы і відэа з { -brand-product-name }, каб глядзець іх у { -pocket-brand-name } на любой прыладзе, у любы час.
 pocket-panel-signup-tagline-story-one = Націсніце кнопку { -pocket-brand-name }, каб запісаць любы артыкул, відэа ці старонку з { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Праглядайце ў { -pocket-brand-name } на любой прыладзе, у любы час.
-
 pocket-panel-signup-cta-a-fix = Ваша кнопка захавання для інтэрнэту
 pocket-panel-signup-cta-b-updated = Націсніце кнопку { -pocket-brand-name }, каб захаваць артыкулы, відэа і спасылкі. Праглядайце свае захаванні на любой прыладзе ў любы час.
 pocket-panel-signup-cta-b-short = Націсніце кнопку { -pocket-brand-name }, каб захаваць артыкулы, відэа і спасылкі.
@@ -57,7 +54,6 @@ pocket-panel-home-paragraph = Вы можаце выкарыстоўваць { -
 pocket-panel-home-explore-popular-topics = Паглядзіце папулярныя тэмы
 pocket-panel-home-discover-more = Адкрыйце для сябе яшчэ больш
 pocket-panel-home-explore-more = Азнаёміцца
-
 pocket-panel-home-most-recent-saves = Вось вашы апошнія захаванні:
 pocket-panel-home-most-recent-saves-loading = Загрузка апошніх захаванняў…
 pocket-panel-home-new-user-cta = Націсніце кнопку { -pocket-brand-name }, каб захаваць артыкулы, відэа і спасылкі.

@@ -5,7 +5,11 @@
 url-classifier-title = Infurmaziuns davart la classificaziun dad URLs
 url-classifier-search-title = Tschertga
 url-classifier-search-result-title = Resultats
+# Variables:
+#   $uri (string) - URI of blocked page
 url-classifier-search-result-uri = URI: { $uri }
+# Variables:
+#   $list (string) - List of tables where the page is blocked
 url-classifier-search-result-list = Glista da tabellas: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = URL nunvalid
@@ -40,7 +44,6 @@ url-classifier-debug-sb-modules = Moduls da protocol per Safe Browsing
 url-classifier-debug-modules = Moduls da protocol actuals
 url-classifier-debug-sbjs-modules = Protocol JS da Safe Browsing
 url-classifier-debug-file = Datoteca da protocol actuala
-
 url-classifier-trigger-update = Exequir l'actualisaziun
 url-classifier-not-available = Betg disponibel
 url-classifier-disable-sbjs-log = Deactivar il protocol JS per Safe Browsing

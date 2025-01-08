@@ -20,10 +20,8 @@ account-send-to-all-devices-titlecase = Kirém keu mandum peukakah
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = Hana Peukakah Nyang Meuhubông
-
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = Meurunoe Cara Kirém Tab…
-
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = Sambông Peukakah Laen…
 
@@ -44,7 +42,6 @@ account-single-tab-arriving-title = Tab Teurimong
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = Tab dari { $deviceName }
-
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -57,10 +54,15 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = Tabs Teurimong
-
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device = { $tabCount } tab ka teuka nibak { $deviceName }
 account-multiple-tabs-arriving-from-multiple-devices = { $tabCount } tab ka teuka nibak peukakah droen laen nyang meuhubông
 # This version is used when we don't know any device names.
 account-multiple-tabs-arriving-from-unknown-device = { $tabCount } tab ka teuka
+
+## These strings are used in notifications in which the user remotely closed
+## tabs from other devices
+## Variables:
+##   $closedCount (Number): the number of tabs closed
+

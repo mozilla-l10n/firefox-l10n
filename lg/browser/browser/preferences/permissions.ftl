@@ -4,43 +4,33 @@
 
 permissions-close-key =
     .key = w
-
 permissions-block =
     .label = Buloka
     .accesskey = B
-
 permissions-session =
     .label = Kkiriza kulwo Embaga
     .accesskey = E
-
 permissions-allow =
     .label = Kkiriza
     .accesskey = K
-
 permissions-site-name =
     .label = Olutimbe
-
 permissions-status =
     .label = Embera
-
 permissions-remove =
     .label = Jjamu Olutimbe
     .accesskey = J
-
 permissions-remove-all =
     .label = Jjamu Entimbe zzona
     .accesskey = R
-
 permissions-searchbox =
     .placeholder = Nnonya ku Lutimbe
-
 permissions-capabilities-allow =
     .label = Kkiriza
 permissions-capabilities-block =
     .label = Zibikkira
 permissions-capabilities-prompt =
     .label = Buuza bulikasera
-
 permissions-capabilities-listitem-allow =
     .value = Kkiriza
 permissions-capabilities-listitem-block =
@@ -61,6 +51,7 @@ permissions-invalid-uri-label = Tukusaba oyingize erinnya ry'omukyaaza erituffu
 
 ## Exceptions - HTTPS-Only Mode
 
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = Oyinza okulondamu ebibanja ebikirizibbwa okugulawo obudirisa obweraga bwoka. Wandika engagiriro entuffu eyekyapa kyoyagala oku kkiriza bwomala okoone ku Kukkiriza.
@@ -68,14 +59,15 @@ permissions-exceptions-popup-desc = Oyinza okulondamu ebibanja ebikirizibbwa oku
 ## Exceptions - Saved Logins
 
 
+## Exceptions - Saved Passwords
+
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = Oyinza okulondamu ebibanja ebikkirizibwa okutekamu ebituusa. Wandika endagiriro entuffu eyomuko gwoyagala okukiriza bwo mala okoone ku Kkiriza.
 
-## Exceptions - Autoplay Media
-
-
 ## Site Permissions - Autoplay
+
 
 ## Site Permissions - Notifications
 
@@ -85,10 +77,12 @@ permissions-exceptions-addons-desc = Oyinza okulondamu ebibanja ebikkirizibwa ok
 
 ## Site Permissions - Virtual Reality
 
+
 ## Site Permissions - Camera
 
 
 ## Site Permissions - Microphone
+
 
 ## Site Permissions - Speaker
 ##

@@ -6,8 +6,6 @@ title-label = Despre pluginuri
 installed-plugins-label = Pluginuri instalate
 no-plugins-are-installed-label = Niciun plugin instalat găsit
 deprecation-description = Lipsește ceva? Unele pluginuri nu mai sunt suportate. <a data-l10n-name="deprecation-link">Află mai multe.</a>
-deprecation-description2 =
-    .message = Lipsește ceva? Unele pluginuri nu mai sunt suportate.
 
 ## The information of plugins
 ##

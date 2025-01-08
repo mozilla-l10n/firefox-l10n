@@ -103,7 +103,6 @@ print-window =
     .title = Po shtypet
 print-complete =
     .value = Shtypja u Plotësua.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

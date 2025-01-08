@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = ဖောင့်များ
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = ယခုအတွက် ဖောင့်
     .accesskey = F
-
 fonts-langgroup-arabic =
     .label = အာရဗီအက္ခရာ
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = အချိုးအစားမှန်သော
     .accesskey = P
-
 fonts-default-serif =
     .label = အစွန်းပါ စာလုံး
 fonts-default-sans-serif =
     .label = အစွန်းမဲ့ စာလုံး
-
 fonts-proportional-size = အရွယ်အစား
     .accesskey = z
-
 fonts-serif = အစွန်းပါ
     .accesskey = S
-
 fonts-sans-serif = အစွန်းမဲ့
     .accesskey = n
-
 fonts-monospace = အနံတူဖောင့်
     .accesskey = M
-
 fonts-monospace-size = အရွယ်အစား
     .accesskey = e
-
 fonts-minsize = အနည်းဆုံးဖောင့်ဆိုဒ်
     .accesskey = o
-
 fonts-minsize-none =
     .label = မရွေးပါ
-
 fonts-allow-own =
     .label = စာမျက်နှာများအား ၎င်းတို့ စတိုင်လ် ဖောင့်များရွေးခွင့်ပေးပါ
     .accesskey = A
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

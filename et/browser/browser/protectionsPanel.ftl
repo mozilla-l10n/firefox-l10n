@@ -23,17 +23,17 @@ protections-panel-etp-more-info =
     .aria-label = Rohkem teavet täiustatud jälitamisvastase kaitse kohta
 protections-panel-etp-on-header = Täiustatud jälitamisvastane kaitse on sellel saidil SEES
 protections-panel-etp-off-header = Täiustatud jälitamisvastane kaitse on sellel saidil VÄLJAS
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Sait ei tööta?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Sait ei tööta?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Sait ei tööta?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Sait ei tööta?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -63,6 +63,9 @@ protections-panel-content-blocking-fingerprinters-label = Seadmetuvastajad
 protections-panel-blocking-label = Blokitud
 protections-panel-not-blocking-label = Lubatud
 protections-panel-not-found-label = Ei tuvastatud
+
+## Smartblock strings
+
 
 ##
 
@@ -99,7 +102,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Raporteeri katkisest saidist
 protections-panel-content-blocking-breakage-report-view-description = Teatud jälitajate blokkimine võib põhjustada probleeme mõningate saitidega. Probleemidest raporteerimisega aitad sa teha { -brand-short-name }i paremaks kõigi jaoks. Selle raportiga saadetakse Mozillale nii külastatava saidi URL kui ka infot sinu brauseri sätete kohta. <label data-l10n-name="learn-more">Rohkem teavet</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Teatud jälitajate blokkimine võib põhjustada probleeme mõningate saitidega. Probleemidest raporteerimisega aitad sa teha { -brand-short-name }i paremaks kõigi jaoks. Selle raportiga saadetakse { -vendor-short-name }le nii külastatava saidi URL kui ka infot sinu brauseri sätete kohta.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL

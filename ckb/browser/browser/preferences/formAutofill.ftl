@@ -6,14 +6,13 @@
 ## The address and credit card autofill management dialog in browser preferences
 
 autofill-manage-addresses-list-header = ناونیشانەکان
-
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = بیسڕەوە
 autofill-manage-add-button = زیادکردن...
 autofill-manage-edit-button = دەستکاریکردن...
 
-##
+## The address capture doorhanger
 
 autofill-address-given-name = ناوی یەکەم
 autofill-address-additional-name = ناوی باوک
@@ -52,10 +51,8 @@ autofill-address-postal-code = کۆدی پۆستە
 
 autofill-address-tel = تەلەفۆن
 autofill-address-email = پۆستی ئەلکترۆنی
-
 autofill-cancel-button = پاشگەزبوونەوە
 autofill-save-button = پاشەکەوتکردن
-
 autofill-card-network = جۆری کارت
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use

@@ -20,10 +20,8 @@ account-send-to-all-devices-titlecase = Cihazlarnıñ episine yiber
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = Bağlanğan Cihazlar Yoq
-
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = İlmeklerniñ Yiberilüvi Aqqında Ögren…
-
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = Başqa bir Cihaznı Bağla…
 
@@ -44,7 +42,6 @@ account-single-tab-arriving-title = İlmek Qabul Etildi
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = { $deviceName } menşeli ilmek
-
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -57,7 +54,6 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = İlmekler Qabul Etildi
-
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =
@@ -76,3 +72,9 @@ account-multiple-tabs-arriving-from-unknown-device =
         [one] { $tabCount } ilmek ulaşqandır
        *[other] { $tabCount } ilmek ulaşqandır
     }
+
+## These strings are used in notifications in which the user remotely closed
+## tabs from other devices
+## Variables:
+##   $closedCount (Number): the number of tabs closed
+

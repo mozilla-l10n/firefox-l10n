@@ -6,3 +6,5 @@
 fxa-menu-send-tab-to-device-syncnotready =
     .label = កំពុង​ធ្វើ​សមកាលកម្ម​ឧបករណ៍…
 
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+

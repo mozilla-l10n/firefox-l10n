@@ -35,7 +35,7 @@ about-reader-estimated-read-time =
        *[other] { $range } منٹ
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = فونٹ دا سائز گھٹاؤ
@@ -86,7 +86,7 @@ about-reader-custom-colors-selection-highlight = اُچّی اَواز نال پ
     .title = رنگ وِچ ترمیم کرو
 about-reader-reset-button = طے شدہ ولا تازے کرو
 
-## Reader View improved text and layout menu
+## Reader View text and layout menu
 
 about-reader-text-header = متن
 about-reader-text-size-label = عبارت سائز

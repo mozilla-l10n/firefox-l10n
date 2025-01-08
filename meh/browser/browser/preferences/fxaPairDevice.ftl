@@ -3,5 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 fxa-qrcode-error-title = Ntu nkuvi chunta´an.
-
 fxa-qrcode-error-body = Nasá´á tuku

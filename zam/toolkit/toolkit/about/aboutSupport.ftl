@@ -4,7 +4,6 @@
 
 page-title = Guii xha mud thus kue liy
 page-subtitle = This page contains technical information that might be useful when you’re trying to solve a problem. If you are looking for answers to common questions about { -brand-short-name }, check out our <a data-l10n-name="support-link">support website</a>.
-
 crashes-title = Né re ko na re-xhínta
 crashes-id = Kúan mxhac
 crashes-send-date = Ndâ-lá
@@ -25,7 +24,6 @@ app-basics-os = OS
 app-basics-profiles = Chóy
 app-basics-multi-process-support = Lô Windows
 app-basics-safe-mode = Modo Seguro
-
 show-dir-label =
     { PLATFORM() ->
         [macos] Lô lo Finder
@@ -59,6 +57,12 @@ audio-backend = Audio Backend
 
 ## Codec support table
 
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+
 ##
 
 
@@ -87,7 +91,6 @@ pending-reports =
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Xá níe ClearType
-
 compositing = Sá thus kúey
 hardware-h264 = Hardware H264 Decoding
 main-thread-no-omtc = main thread, no OMTC
@@ -99,7 +102,6 @@ no = Yenta
 ## not found.
 
 missing = mdó gúan
-
 gpu-description = Xha nák ah
 gpu-vendor-id = Tá ID ná Vendor
 gpu-device-id = Chó lé Yíb ré
@@ -117,17 +119,13 @@ webgl2-renderer = WebGL 2 Driver Renderer
 webgl2-version = WebGL 2 Driver Version
 webgl2-driver-extensions = WebGL 2 Driver Extensions
 webgl2-extensions = WebGL 2 Extensions
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Blocklisted; failure code { $failureCode }
-
 d3d11layers-crash-guard = D3D11 Composito
 glcontext-crash-guard = OpenGL
-
 reset-on-next-restart = Bí~rè là kíy
 gpu-process-kill-button = Terminate GPU Process
-
 has-seccomp-bpf = Seccomp-BPF (System Call Filtering)
 has-seccomp-tsync = Seccomp Thread Synchronization
 can-sandbox-content = Content Process Sandboxing
@@ -135,12 +133,10 @@ can-sandbox-media = Media Plugin Sandboxing
 content-sandbox-level = Content Process Sandbox Level
 sandbox-proc-type-content = ko ndzò
 sandbox-proc-type-media-plugin = yíb ná media
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-
 async-pan-zoom = Encuadro/zoom asíncrono
 apz-none = Yent tí
 
@@ -150,7 +146,18 @@ apz-none = Yent tí
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+
 ## Printing section
 
+
+## Remote Settings sections
+
+
 ## Normandy sections
+
+
+## Pointing devices
+
+
+## Content Analysis (DLP)
 

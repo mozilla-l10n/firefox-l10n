@@ -9,4 +9,3 @@
 
 # link title for https://www.mozilla.org/firefox/central/
 default-bookmarks-getting-started = Tús Maith
-

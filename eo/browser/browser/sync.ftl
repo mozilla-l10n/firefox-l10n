@@ -43,3 +43,6 @@ sync-setup-verify-heading = Ĉu vi certe volas komenci seancon por speguli?
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Alia uzanto antaŭe komencis seancon por speguli en tiu ĉi komputilo. Komenci seancon faros ke la legosignoj, pasvortoj kaj aliaj agordoj en tiu ĉi retumilo estu kunigitaj kun { $email }
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+

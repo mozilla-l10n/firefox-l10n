@@ -111,6 +111,11 @@ media-device-latency = Aizture
 ## Codec support table
 
 
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+
 ##
 
 intl-title = Internacionalizācija un lokalizācija
@@ -273,8 +278,14 @@ policies-error = Kļūda
 ## Printing section
 
 
+## Remote Settings sections
+
+
 ## Normandy sections
 
 
 ## Pointing devices
+
+
+## Content Analysis (DLP)
 

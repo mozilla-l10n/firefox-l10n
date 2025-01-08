@@ -25,7 +25,7 @@ about-telemetry-events-section = Eventos
 about-telemetry-addon-details-section = Detàllios de su cumplementu
 # Selects the correct upload string
 # Variables:
-#   $uploadcase (String): represents a corresponding upload string
+#   $uploadcase (string) - Represents a corresponding upload string
 about-telemetry-upload-type =
     { $uploadcase ->
         [enabled] ativadu
@@ -35,7 +35,7 @@ about-telemetry-upload-type =
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $selectedTitle (String): the section name from the structure of the ping.
+#   $selectedTitle (string) - The section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = Chirca in { $selectedTitle }
 # button label to copy the histogram

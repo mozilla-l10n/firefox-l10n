@@ -4,18 +4,15 @@
 
 password-not-set =
     .value = (oʻrnatilmagan)
-
 pw-change-success-title = Parolni oʻzgartirish muvaffaqiyatli amalga oshirildi
 pw-change-failed-title = Parolni almashtirib boʻlmadi
 pw-remove-button =
     .label = Olib tashlash
-
 set-password-old-password = Joriy parol:
 set-password-new-password = Yangi parolni kiriting:
 set-password-reenter-password = Parolni qayta kiriting:
 set-password-meter = Parolning mustahkamlik darajasi
 set-password-meter-loading = Yuklanmoqda
-
 remove-info =
     .value = Amaldagi joriy parolingizni kiritishingiz kerak:
 remove-password-old-password =

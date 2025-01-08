@@ -39,8 +39,6 @@ address-capture-manage-address-button =
     .label = Adres ayarları
 address-capture-learn-more-button =
     .label = Daha fazla bilgi alın
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Yeni Adres Ekle
 address-capture-open-menu-button =
     .aria-label = Menüyü aç
 address-capture-edit-address-button =
@@ -49,10 +47,10 @@ address-capture-edit-address-button =
 autofill-add-address-title = Adres ekle
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Adresi Düzenle
-autofill-address-name = Ad
 autofill-address-given-name = Ad
 autofill-address-additional-name = İkinci ad
 autofill-address-family-name = Soyadı
+autofill-address-name = Ad
 autofill-address-organization = Şirket
 autofill-address-street-address = Sokak adresi
 autofill-address-street = Sokak adresi
@@ -108,9 +106,8 @@ autofill-address-eircode = Eircode
 
 ##
 
-
-##
-
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Yeni Adres Ekle
 autofill-address-country = Ülke
 autofill-address-country-only = Ülke
 autofill-address-tel = Telefon
@@ -122,11 +119,6 @@ autofill-country-warning-message = Otomatik form doldurma şimdilik yalnızca be
 autofill-add-new-card-title = Yeni Kredi Kartı Ekle
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Kredi Kartını Düzenle
-autofill-message-tooltip = Otomatik doldurma ile ilgili iletiyi görüntüle
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-card-title = Kart ekle
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title2 = Kartı düzenle
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -135,6 +127,11 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } kredi kartı bilgilerini göstermeye çalışıyor. Bu Windows hesabına erişimi onaylayın.
        *[other] { -brand-short-name } kredi kartı bilgilerini göstermeye çalışıyor.
     }
+autofill-message-tooltip = Otomatik doldurma ile ilgili iletiyi görüntüle
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Kart ekle
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Kartı düzenle
 autofill-card-number = Kart numarası
 autofill-card-invalid-number = Lütfen geçerli bir kart numarası yazın
 autofill-card-name-on-card = Kart üzerindeki ad

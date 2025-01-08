@@ -5,6 +5,8 @@
 url-classifier-title = Información del clasificador d'URLs
 url-classifier-search-title = Busca
 url-classifier-search-result-title = Resultaos
+# Variables:
+#   $uri (string) - URI of blocked page
 url-classifier-search-result-uri = URI: { $uri }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = La URL nun ye válida
@@ -21,7 +23,6 @@ url-classifier-cache-refresh-btn = Refrescar
 url-classifier-cache-clear-btn = Llimpiar
 url-classifier-cache-prefix = Prefixu
 url-classifier-debug-title = Depuración
-
 url-classifier-trigger-update = Aicionar l'anovamientu
 url-classifier-not-available = N/D
 url-classifier-cannot-update = nun pue anovase

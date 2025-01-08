@@ -39,8 +39,6 @@ address-capture-manage-address-button =
     .label = Налаштування адреси
 address-capture-learn-more-button =
     .label = Докладніше
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Додати нову адресу
 address-capture-open-menu-button =
     .aria-label = Відкрити меню
 address-capture-edit-address-button =
@@ -49,10 +47,10 @@ address-capture-edit-address-button =
 autofill-add-address-title = Додати адресу
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Змінити адресу
-autofill-address-name = Ім'я
 autofill-address-given-name = Ім'я
 autofill-address-additional-name = По батькові
 autofill-address-family-name = Прізвище
+autofill-address-name = Ім'я
 autofill-address-organization = Організація
 autofill-address-street-address = Вулиця
 autofill-address-street = Вулиця
@@ -108,9 +106,8 @@ autofill-address-eircode = Eircode
 
 ##
 
-
-##
-
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Додати нову адресу
 autofill-address-country = Країна
 autofill-address-country-only = Країна
 autofill-address-tel = Телефон
@@ -122,11 +119,6 @@ autofill-country-warning-message = Автозаповнення форм нар�
 autofill-add-new-card-title = Додати нову кредитну картку
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Змінити кредитну картку
-autofill-message-tooltip = Переглянути повідомлення про автозаповнення
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-card-title = Додати картку
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title2 = Редагувати картку
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -135,6 +127,11 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } намагається показати інформацію кредитної картки. Підтвердьте доступ до цього облікового запису Windows внизу.
        *[other] { -brand-short-name } намагається показати інформацію кредитної картки.
     }
+autofill-message-tooltip = Переглянути повідомлення про автозаповнення
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Додати картку
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Редагувати картку
 autofill-card-number = Номер картки
 autofill-card-invalid-number = Введіть правильний номер картки
 autofill-card-name-on-card = Ім'я на картці

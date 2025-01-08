@@ -5,7 +5,11 @@
 url-classifier-title = Talγut γef usefrek n tansiwin URL
 url-classifier-search-title = Nadi
 url-classifier-search-result-title = Igmaḍ
+# Variables:
+#   $uri (string) - URI of blocked page
 url-classifier-search-result-uri = URI: { $uri }
+# Variables:
+#   $list (string) - List of tables where the page is blocked
 url-classifier-search-result-list = Tabdart n tfelwiyin: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = URL mačči d tarameɣtut
@@ -40,7 +44,6 @@ url-classifier-debug-sb-modules = Izegrar n uγmis i iminig aγelsan
 url-classifier-debug-modules = Izegrar iɣmisen imiranen
 url-classifier-debug-sbjs-modules = Aγmis n tunigin taɣelsant
 url-classifier-debug-file = Afaylu aɣmis amiran
-
 url-classifier-trigger-update = Sker aleqem
 url-classifier-not-available = N/A
 url-classifier-disable-sbjs-log = Sens aγmis n tunigin taɣelsant

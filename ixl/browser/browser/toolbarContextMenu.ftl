@@ -5,4 +5,3 @@
 toolbar-context-menu-manage-extension =
     .label = Il isuuchil tikat ni q'axkat
     .accesskey = E
-

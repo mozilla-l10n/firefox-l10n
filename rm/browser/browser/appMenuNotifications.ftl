@@ -37,7 +37,6 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Betg ussa
     .secondarybuttonaccesskey = B
 appmenu-update-other-instance-message = Ina nova actualisaziun da { -brand-shorter-name } è disponibla, ma ella n'è betg vegnida installada perquai ch'ina autra copia da { -brand-shorter-name } vegn exequida. La serra per cuntinuar cun l'actualisaziun u tscherna da tuttina actualisar (tschella copia na funcziunescha eventualmain betg endretg enfin ch'ella vegn reaviada).
-
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = OK
     .buttonaccesskey = O
@@ -45,7 +44,6 @@ appmenu-addon-post-install-message3 = Administrescha tes supplements e designs v
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permetter a questa extensiun dad esser activa en fanestras privatas
     .accesskey = a
-    
 appmenu-new-tab-controlled-changes =
     .label = La pagina da novs tabs è vegnida midada.
     .buttonlabel = Mantegnair las midadas

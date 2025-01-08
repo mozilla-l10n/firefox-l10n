@@ -5,6 +5,8 @@
 label-disable = عطّل
 label-enable = فعّل
 label-interventions = التدخلات القصرية
+# Variables:
+#   $bug (string) - Bug number
 label-more-information = معلومات أكثر: العلّة { $bug }
 label-overrides = تجاوزات وكيل المستخدم
 text-disabled-in-about-config = عُطّلت هذه الميزة من about:config

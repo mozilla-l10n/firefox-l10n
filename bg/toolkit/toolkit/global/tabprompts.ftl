@@ -6,7 +6,6 @@ tabmodalprompt-username =
     .value = Потребителско име:
 tabmodalprompt-password =
     .value = Парола:
-
 tabmodalprompt-ok-button =
     .label = Добре
 tabmodalprompt-cancel-button =

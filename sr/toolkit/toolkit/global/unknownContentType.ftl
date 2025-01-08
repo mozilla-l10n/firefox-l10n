@@ -5,7 +5,6 @@
 unknowncontenttype-handleinternally =
     .label = Отвори преко { -brand-short-name }
     .accesskey = е
-
 unknowncontenttype-settingschange =
     .value =
         Параметре можете да промените у подешавањима { -brand-short-name.gender ->
@@ -14,7 +13,6 @@ unknowncontenttype-settingschange =
             [neuter] { -brand-short-name(case: "gen") }
            *[other] програма { -brand-short-name }
         }.
-
 unknowncontenttype-intro = Све је спремно за преузимање датотеке:
 unknowncontenttype-which-is = Тип:
 unknowncontenttype-from = Адреса:

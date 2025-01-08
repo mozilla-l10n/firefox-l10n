@@ -25,4 +25,3 @@ compatibility-target-browsers-header = లక్ష్యిత విహార�
 
 compatibility-close-settings-button =
     .title = అమరికలను మూసివేయి
-

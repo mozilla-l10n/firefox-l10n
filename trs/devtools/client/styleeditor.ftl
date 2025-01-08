@@ -30,4 +30,3 @@ styleeditor-find =
 styleeditor-find-again =
     .label = Nana'uì' Ñûn
     .accesskey = g
-

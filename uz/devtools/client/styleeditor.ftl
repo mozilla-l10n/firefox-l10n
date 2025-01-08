@@ -29,7 +29,6 @@ styleeditor-find-again =
 styleeditor-go-to-line =
     .label = Satrga oʻtish
     .accesskey = o
-
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.

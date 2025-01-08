@@ -6,3 +6,6 @@ alert-close =
     .tooltiptext = यो जानकारी बन्द गर्नुहोस्
 alert-settings-title =
     .tooltiptext = सेटिङहरू
+
+## Reminder Notifications
+

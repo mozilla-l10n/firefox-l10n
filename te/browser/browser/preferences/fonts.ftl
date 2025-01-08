@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = ఫాంట్లు
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = వీటికొరకు ఫాంట్లు
     .accesskey = F
-
 fonts-langgroup-arabic =
     .label = అరబిక్
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = అనులోమం
     .accesskey = P
-
 fonts-default-serif =
     .label = సెరీఫ్
 fonts-default-sans-serif =
     .label = సాన్స్ సెరీఫ్
-
 fonts-proportional-size = పరిమాణం
     .accesskey = z
-
 fonts-serif = సెరీఫ్
     .accesskey = S
-
 fonts-sans-serif = సాన్స్-సెరీఫ్
     .accesskey = n
-
 fonts-monospace = మోనోస్పేస్
     .accesskey = M
-
 fonts-monospace-size = పరిమాణం
     .accesskey = e
-
 fonts-minsize = కనీస ఫాంటు పరిమాణం
     .accesskey = o
-
 fonts-minsize-none =
     .label = ఏదీకాదు
-
 fonts-allow-own =
     .label = పైన మీ ఎంపికలకు బదులుగా, పేజీలు వాటి స్వంత ఫాంట్లను ఎంచుకోవడానికి అనుమతించు
     .accesskey = A
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

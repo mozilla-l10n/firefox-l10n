@@ -5,7 +5,6 @@
 appmenu-addon-post-install-incognito-checkbox =
     .label = Bu uzantıya Məxfi Pəncərələrdə işləməyə icazə ver.
     .accesskey = i
-    
 appmenu-tab-hide-controlled =
     .label = Gizlədilmiş vərəqləri görün
     .buttonlabel = Vərəqləri gizli saxla

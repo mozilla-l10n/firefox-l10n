@@ -210,7 +210,9 @@ mr2022-onboarding-set-default-subtitle = Lietojiet pārlūku, ko atbalsta bezpe�
 mr2022-onboarding-get-started-primary-subtitle = Mūsu jaunākā versija ir veidota jums, padarot to vienkāršāku nekā jebkad agrāk. Tas ir aprīkots ar funkcijām, kuras, mūsuprāt, jums patiks.
 mr2022-onboarding-get-started-primary-button-label = Iestatiet dažās sekundēs
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Zibens ātra iestatīšana
 mr2022-onboarding-import-subtitle = Iestatiet { -brand-short-name }, kā jums patīk. Pievienojiet savas grāmatzīmes, paroles un citu saturu no vecā pārlūka.
@@ -360,3 +362,15 @@ onboarding-new-user-survey-familiarity-based-option-1 = Esmu jauniņais
 onboarding-new-user-survey-familiarity-based-option-2 = Esmu to izmantojis
 onboarding-new-user-survey-familiarity-based-option-3 = Esmu ar to ļoti pazīstams
 onboarding-new-user-survey-familiarity-based-option-4 = Esmu to izmantojis, bet tas bija sen
+
+## UI strings for the sidebar and vertical tabs
+
+
+## New user onboarding checklist
+
+
+## Tab Groups feature onboarding strings
+
+
+## Multi Profiles feature onboarding messages
+

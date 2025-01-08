@@ -25,5 +25,6 @@ error-long-desc4 = Taatu robo yi weñ buy melax la, kenn waru ko maat.
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = Am nañu palaŋ.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = Jéemaatal
     .label2 = Bul bësaat ci butoŋ bii.

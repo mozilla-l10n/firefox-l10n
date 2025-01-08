@@ -12,20 +12,6 @@ about-reader-color-scheme-sepia = Sépiové
     .title = Zobrazení v sépiových barvách
 about-reader-color-scheme-auto = Automaticky
     .title = Automatický barevný vzhled
-about-reader-color-theme-light = Světlý
-    .title = Světle barevný motiv
-about-reader-color-theme-dark = Tmavý
-    .title = Tmavě barevný motiv
-about-reader-color-theme-sepia = Sépiový
-    .title = Sépiově barevný motiv
-about-reader-color-theme-auto = Automatický
-    .title = Automatický barevný motiv
-about-reader-color-theme-gray = Šedý
-    .title = Šedý barevný motiv
-about-reader-color-theme-contrast = Kontrastní
-    .title = Kontrastní barevný motiv
-about-reader-color-theme-custom = Vlastní barvy
-    .title = Vlastní barevný motiv
 about-reader-color-light-theme = Světlý
     .title = Světlý motiv
 about-reader-color-dark-theme = Tmavý
@@ -50,7 +36,7 @@ about-reader-estimated-read-time =
        *[other] { $range } minut
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = Zmenšit písmo
@@ -75,7 +61,6 @@ about-reader-font-type-monospace = Neproporcionální
 
 about-reader-toolbar-close = Zavřít zobrazení čtečky
 about-reader-toolbar-type-controls = Nastavení vzhledu
-about-reader-toolbar-color-controls = Barvy
 about-reader-toolbar-text-layout-controls = Text a rozložení
 about-reader-toolbar-theme-controls = Motiv vzhledu
 about-reader-toolbar-savetopocket = Uložit do { -pocket-brand-name(case: "gen") }
@@ -100,10 +85,9 @@ about-reader-custom-colors-visited-links = Navštívené odkazy
     .title = Upravit barvu
 about-reader-custom-colors-selection-highlight = Zvýrazňovač pro čtení nahlas
     .title = Upravit barvu
-about-reader-custom-colors-reset-button = Obnovit výchozí
 about-reader-reset-button = Obnovit výchozí
 
-## Reader View improved text and layout menu
+## Reader View text and layout menu
 
 about-reader-text-header = Text
 about-reader-text-size-label = Velikost textu
@@ -120,9 +104,6 @@ about-reader-content-width-label =
 about-reader-line-spacing-label =
     .label = Řádkování
 about-reader-advanced-layout-header = Rozšířené
-about-reader-slider-label-width-narrow = Úzké
-about-reader-slider-label-width-wide = Široké
-about-reader-slider-label-spacing-narrow = Úzké
 about-reader-character-spacing-label =
     .label = Rozestup znaků
 about-reader-word-spacing-label =

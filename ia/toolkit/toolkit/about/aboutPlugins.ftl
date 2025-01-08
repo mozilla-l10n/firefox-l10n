@@ -6,8 +6,6 @@ title-label = A proposito del plugins
 installed-plugins-label = Plugins installate
 no-plugins-are-installed-label = Nulle plugins installate trovate
 deprecation-description = Alco es mancante? Alcun plugins non es plus supportate. <a data-l10n-name="deprecation-link">Saper plus.</a>
-deprecation-description2 =
-    .message = Alco es mancante? Alcun plugins non es plus supportate.
 
 ## The information of plugins
 ##

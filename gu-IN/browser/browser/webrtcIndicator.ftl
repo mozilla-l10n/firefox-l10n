@@ -3,12 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Note: This is currently placed under browser/base/content so that we can
-# get the strings to appear without having our localization community need
-# to go through and translate everything. Once these strings are ready for
-# translation, we'll move it to the locales folder.
-
-
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
@@ -27,7 +21,6 @@ webrtc-item-browser = ટેબ
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = અજ્ઞાત ઉદ્ગમ
-
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -69,7 +62,6 @@ webrtc-indicator-menuitem-control-sharing =
     .label = વહેંચવાનુ નિયંત્રણ કરો
 webrtc-indicator-menuitem-control-sharing-on =
     .label = "{ $streamTitle }" પર વહેંચવાનું નિયંત્રણ કરો
-
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = "{ $streamTitle }" સાથે કૅમેરાને વહેંચી રહ્યા છે
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -78,7 +70,6 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] { $tabCount } ટૅબ સાથે કૅમેરાને વહેંચી રહ્યા છે
            *[other] { $tabCount } ટૅબ (ઓ) સાથે કૅમેરાને વહેંચી રહ્યા છે
         }
-
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = "{ $streamTitle }" સાથે માઇક્રોફોનને વહેંચી રહ્યા છે
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -87,7 +78,6 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] { $tabCount } ટૅબ સાથે માઇક્રોફોનને વહેંચી રહ્યા છે
            *[other] { $tabCount } ટૅબ (ઓ) સાથે માઇક્રોફોનને વહેંચી રહ્યા છે
         }
-
 webrtc-indicator-menuitem-sharing-application-with =
     .label = “{ $streamTitle }” સાથે એપ્લિકેશન વહેંચી રહ્યાં છીઅે
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -96,7 +86,6 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] { $tabCount } ટેબ સાથે એપ્લિકેશન શેર કરી
            *[other] { $tabCount } ટૅબ્સ સાથે શેરિંગ એપ્લિકેશન
         }
-
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = "{ $streamTitle }" સાથે સ્ક્રીનને વહેંચી રહ્યા છે
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -105,7 +94,6 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] { $tabCount } ટૅબ સાથે સ્ક્રીનને વહેંચી રહ્યા છે
            *[other] { $tabCount } ટૅબ (ઓ) સાથે સ્ક્રીનને વહેંચી રહ્યા છે
         }
-
 webrtc-indicator-menuitem-sharing-window-with =
     .label = "{ $streamTitle }" સાથે વિન્ડોને વહેંચી રહ્યા છે
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -114,7 +102,6 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] { $tabCount } ટૅબ સાથે વિન્ડોને વહેંચી રહ્યા છે
            *[other] { $tabCount } ટૅબ (ઓ) સાથે વિન્ડોને વહેંચી રહ્યા છે
         }
-
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = "{ $streamTitle }" સાથે કૅમેરાને વહેંચી રહ્યા છે
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -128,6 +115,9 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
+
+
+## Special phrasing for sharing devices when the origin is a file url.
 
 
 ## Variables:
@@ -161,7 +151,6 @@ webrtc-action-allow =
 ##
 
 webrtc-remember-allow-checkbox = આ નિર્ણય યાદ રાખો
-
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } તમારી સ્ક્રીન ને કાયમી ઍક્સેસ માટે પરવાનગી આપશે નહી.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } કયુ ટેબ શેર કરવાનુ છે તે પૂછ્યા વિના તમારા ટેબ ઓડીયો કાયમી હક માટે પરવાનગી આપશે નહી.
 webrtc-reason-for-no-permanent-allow-insecure = આ સાઇટ પરનું તમારું કનેક્શન સુરક્ષિત નથી. તેને સુરક્ષિત કરવા માટે, { -brand-short-name } ફક્ત આ સત્ર માટે હક પરવાનગી આપશે.

@@ -8,16 +8,10 @@
 abuse-report-cancel-button = Ya'sakan
 
 ## Message bars descriptions.
-
-
-## Variables:
-##   $addon-name (string) - Name of the add-on
-
-
-## Message bars descriptions.
 ##
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
+
 
 ## Message bars actions.
 

@@ -567,8 +567,7 @@ home-prefs-shortcuts-description = سائٹاں جہڑیاں تساں محفوظ
 home-prefs-shortcuts-by-option-sponsored =
     .label = سپانسر تھئے شارٹ کٹ
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = { $provider } دی طرفوں تجویز کردہ

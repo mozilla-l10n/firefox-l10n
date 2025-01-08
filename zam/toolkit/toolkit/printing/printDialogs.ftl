@@ -15,7 +15,6 @@ hf-custom =
     .label = Tùs kùe...
 print-preview-window =
     .title = Güi xha niey
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

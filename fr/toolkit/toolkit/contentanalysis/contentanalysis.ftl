@@ -41,21 +41,6 @@ contentanalysis-genericresponse-message = L’analyse de contenu a répondu { $r
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-block-message = Votre organisation utilise un logiciel de protection contre la perte de données qui a bloqué ce contenu : { $content }.
 # Variables:
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-error-message = Une erreur est survenue pendant la communication avec le logiciel de protection contre la perte de données. Transfert refusé pour la ressource : { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-unspecified-error-message = Une erreur est survenue pendant la communication avec { $agent }. Transfert refusé pour la ressource : { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-no-agent-connected-message = Impossible de se connecter à { $agent }. Transfert refusé pour la ressource : { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-invalid-agent-signature-message = Échec de la vérification de la signature pour { $agent }. Transfert refusé pour la ressource : { $content }.
-# Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Localized text describing the content being blocked, such as "Paste denied."
 contentanalysis-unspecified-error-message-content = Une erreur est survenue pendant la communication avec { $agent }. { $content }

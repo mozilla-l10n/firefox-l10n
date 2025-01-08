@@ -49,8 +49,6 @@ screenshots-too-large-error-details = ລອງເລືອກພື້ນທີ
 screenshots-component-retry-button =
     .title = ລອງພາບໜ້າຈໍຄືນໃໝ່
     .aria-label = ລອງພາບໜ້າຈໍຄືນໃໝ່
-screenshots-component-copy-button-label = ສຳເນົາ
-screenshots-component-download-button-label = ດາວໂຫລດ
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.

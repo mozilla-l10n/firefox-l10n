@@ -8,6 +8,7 @@ about-logging-stop-logging = ದಿನಚರಿ ಪೇರಿಸುವುದನ�
 
 ## Logging presets
 
+
 ## Variables:
 ##   $k (String) - Variable name
 ##   $v (String) - Variable value

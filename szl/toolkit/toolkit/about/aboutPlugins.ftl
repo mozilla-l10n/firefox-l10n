@@ -6,8 +6,6 @@ title-label = Ô rozszyrzyniach plugin
 installed-plugins-label = Zainstalowane rozszyrzynia plugin
 no-plugins-are-installed-label = Żodne zainstalowane rozszyrzynia plugin niy sōm znodniynte
 deprecation-description = Chybio czego? Niykere rozszyrzynia już niy sōm ôbsugowane. <a data-l10n-name="deprecation-link">Przewiydz sie wiyncyj.</a>
-deprecation-description2 =
-    .message = Chybio czego? Niykere rozszyrzynia już niy sōm ôbsugowane.
 
 ## The information of plugins
 ##

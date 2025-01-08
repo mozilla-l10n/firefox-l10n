@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Clófhoirne
-
 fonts-window-close =
     .key = w
 
@@ -74,42 +73,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Cló Il-Leithid
     .accesskey = L
-
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
-
 fonts-proportional-size = Clómhéid
     .accesskey = m
-
 fonts-serif = Serif
     .accesskey = S
-
 fonts-sans-serif = Sans-serif
     .accesskey = n
-
 fonts-monospace = Cló Aonleithid
     .accesskey = A
-
 fonts-monospace-size = Clómhéid
     .accesskey = d
-
 fonts-minsize = Clómhéid is lú
     .accesskey = l
-
 fonts-minsize-none =
     .label = Gan sonrú
-
 fonts-allow-own =
     .label = Tabhair cead do leathanaigh a gclónna féin a roghnú, in áit mo roghanna thuas
     .accesskey = b
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

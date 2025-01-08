@@ -4,7 +4,6 @@
 
 about-reader-loading = लोड हो रहा है...
 about-reader-load-error = पृष्ठ से आलेख लोड करने में विफल
-
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -16,7 +15,7 @@ about-reader-estimated-read-time =
        *[other] { $range } मिनट
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = फ़ॉन्ट आकार घटाएं
@@ -37,3 +36,14 @@ about-reader-font-type-sans-serif = सैंस-सेरिफ़
 about-reader-toolbar-close = रीडर दृश्य बंद करे|
 about-reader-toolbar-type-controls = प्रकार नियंत्रण
 about-reader-toolbar-savetopocket = { -pocket-brand-name } में सहेजें
+
+## Reader View colors menu
+
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+
+## Reader View text and layout menu
+

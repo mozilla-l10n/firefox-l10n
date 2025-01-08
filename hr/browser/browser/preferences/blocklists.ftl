@@ -5,19 +5,14 @@
 blocklist-window2 =
     .title = Popisi blokiranja
     .style = min-width: 55em
-
 blocklist-description = Odaberi popis koji će { -brand-short-name } koristiti za blokiranje programa za praćenje. Popise pruža <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
 blocklist-close-key =
     .key = w
-
 blocklist-treehead-list =
     .label = Popis
-
 blocklist-dialog =
     .buttonlabelaccept = Spremi promjene
     .buttonaccesskeyaccept = S
-
-
 # This template constructs the name of the block list in the block lists dialog.
 # It combines the list name and description.
 # e.g. "Standard (Recommended). This list does a pretty good job."
@@ -26,7 +21,6 @@ blocklist-dialog =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
-
 blocklist-item-moz-std-listName = Razina 1 popisa za blokiranje (preporučeno).
 blocklist-item-moz-std-description = Dozvoljava neke programe za praćenje, kako bi se smanjio broj pogrešno prikazanih web stranica.
 blocklist-item-moz-full-listName = Razina 2 popisa za blokiranje.

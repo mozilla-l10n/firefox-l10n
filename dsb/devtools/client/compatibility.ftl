@@ -41,11 +41,9 @@ compatibility-issue-occurrences =
         [few] { $number } wustupowanja
        *[other] { $number } wustupowanjow
     }
-
 compatibility-no-issues-found = Žedne problemy kompatibelnosći namakane.
 compatibility-close-settings-button =
     .title = Nastajenja zacyniś
-
 # Text used in the element containing the browser icons for a given compatibility issue.
 # Line breaks are significant.
 # Variables:

@@ -33,8 +33,6 @@ about-webrtc-aec-logging-toggled-off-state-msg = A rögzített naplófájlok meg
 
 # The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Automatikus frissítés
-# Determines the default state of the Auto Refresh check boxes
-about-webrtc-auto-refresh-default-label = Automatikus frissítés alapértelmezés szerint
 # A button which forces a refresh of displayed statistics
 about-webrtc-force-refresh-button = Frissítés
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
@@ -98,8 +96,8 @@ about-webrtc-save-page-label = Oldal mentése
 about-webrtc-debug-mode-msg-label = Hibakeresési mód
 about-webrtc-debug-mode-off-state-label = Hibakeresési mód indítása
 about-webrtc-debug-mode-on-state-label = Hibakeresési mód leállítása
-about-webrtc-enable-logging-label = WebRTC napló-előbeállítás engedélyezése
 about-webrtc-stats-heading = Munkamenet-statisztika
+about-webrtc-enable-logging-label = WebRTC napló-előbeállítás engedélyezése
 about-webrtc-peerconnections-section-heading = RTCPeerConnection statisztikák
 about-webrtc-peerconnections-section-show-msg = RTCPeerConnection statisztikák megjelenítése
 about-webrtc-peerconnections-section-hide-msg = RTCPeerConnection statisztikák elrejtése
@@ -229,10 +227,7 @@ about-webrtc-round-trip-time-ms = RTT (ms)
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Videókeret statisztikák – MediaStreamTrack azonosító: { $track-identifier }
 
-## These are paths used for saving the about:webrtc page or log files so
-## they can be attached to bug reports.
-## Variables:
-##  $path (String) - The path to which the file is saved.
+##
 
 about-webrtc-save-page-msg = oldal mentve ide: { $path }
 about-webrtc-debug-mode-off-state-msg = nyomkövetési napló helye: { $path }

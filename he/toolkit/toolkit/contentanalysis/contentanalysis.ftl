@@ -11,6 +11,3 @@ contentanalysis-warndialog-response-deny = ביטול
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-block-message = הארגון שלך משתמש בתוכנה למניעת אובדן נתונים שחסמה את התוכן הזה: { $content }.
-# Variables:
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-error-message = אירעה שגיאה בתקשורת עם התוכנה למניעת אובדן נתונים. העברה נדחתה עבור המשאב: { $content }.

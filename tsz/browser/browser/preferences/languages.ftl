@@ -4,26 +4,20 @@
 
 languages-close-key =
     .key = w
-
 languages-customize-moveup =
     .label = Karatan
     .accesskey = K
-
 languages-customize-movedown =
     .label = Keskuni
     .accesskey = K
-
 languages-customize-remove =
     .label = Kéntitani
     .accesskey = K
-
 languages-customize-select-language =
     .placeholder = Erakue ma untakua pari kuturutani…
-
 languages-customize-add =
     .label = Kuturani
     .accesskey = K
-
 # The pattern used to generate strings presented to the user in the
 # locale selection list.
 #
@@ -36,4 +30,3 @@ languages-customize-add =
 #   $code (String) - Locale code of the locale (for example: "is", "es-CL")
 languages-code-format =
     .label = { $locale }  [{ $code }]
-

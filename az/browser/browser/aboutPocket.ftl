@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Etiket əlavə et
-
 pocket-panel-saved-error-generic = { -pocket-brand-name }-ə saxlarkən xəta baş verdi.
 pocket-panel-saved-error-tag-length = Etiketlər 25 simvol ilə limitlidir
 pocket-panel-saved-error-only-links = Ancaq keçidlər saxlana bilər
@@ -40,7 +39,9 @@ pocket-panel-signup-tagline-story-two = İstənilən cihazda, istənilən vaxt {
 
 ## about:pocket-home panel
 
+
 ## Pocket panel header component
+
 
 ## Pocket panel buttons
 

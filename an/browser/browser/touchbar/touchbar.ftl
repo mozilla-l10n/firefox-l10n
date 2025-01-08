@@ -19,7 +19,6 @@ open-location = Mirar u escribir adreza
 share = Compartir
 close-window = Zarrar la finestra
 open-sidebar = Barras laterals
-
 # This string describes shortcuts for search.
 search-popover = Mirar alcorces
 # Describes searches limited to a specific scope

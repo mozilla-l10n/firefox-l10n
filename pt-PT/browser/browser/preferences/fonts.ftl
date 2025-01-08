@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Tipos de letra
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Tipos de letra para
     .accesskey = T
-
 fonts-langgroup-arabic =
     .label = Árabe
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporcional
     .accesskey = P
-
 fonts-default-serif =
     .label = Serifa
 fonts-default-sans-serif =
     .label = Sem serifa
-
 fonts-proportional-size = Tamanho
     .accesskey = m
-
 fonts-serif = Serifa
     .accesskey = S
-
 fonts-sans-serif = Sem serifa
     .accesskey = m
-
 fonts-monospace = Monoespaçada
     .accesskey = M
-
 fonts-monospace-size = Tamanho
     .accesskey = h
-
 fonts-minsize = Tamanho mínimo de tipo de letra
     .accesskey = o
-
 fonts-minsize-none =
     .label = Nenhum
-
 fonts-allow-own =
     .label = Permitir que as páginas escolham o seu tipo de letra
     .accesskey = P
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

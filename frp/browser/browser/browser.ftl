@@ -55,6 +55,7 @@ full-screen-autohide =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+
 ## Bookmark Panel
 
 # Width of the bookmark panel.
@@ -99,6 +100,9 @@ identity-remove-cert-exception =
 ## string or the url, like "result value - action text".
 
 
+## Strings used for buttons in the urlbar
+
+
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
@@ -109,17 +113,17 @@ identity-remove-cert-exception =
 
 ## Reader View toolbar buttons
 
+
 ## Picture-in-Picture urlbar button
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+
 ## Full Screen and Pointer Lock UI
 
 
-## Subframe crash notification
-
-
 ## Bookmarks panels, menus and toolbar
+
 
 ## Variables:
 ##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
@@ -140,7 +144,6 @@ bookmarks-tools-toolbar-visibility-menuitem =
 
 ##
 
-
 bookmarks-toolbar-menu =
     .label = Bârra de mârca pâges
 
@@ -156,19 +159,10 @@ bookmarks-toolbar-menu =
 ## Customize Toolbar Buttons
 
 
-## More items
-
-
 ## EME notification panel
 
 
 ## Password save/update panel
-
-
-## Add-on removal warning
-
-
-## Remote / Synced tabs
 
 
 ##
@@ -180,10 +174,13 @@ bookmarks-toolbar-menu =
 
 ##
 
+
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
 
+
 ##
+
 
 # Navigator Toolbox
 
@@ -193,21 +190,49 @@ tabs-toolbar-list-all-tabs =
 
 ## Infobar shown at startup to suggest session-restore
 
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+
 ## Unified extensions (toolbar) button
+
 
 ## Unified extensions button when permission(s) are needed.
 ## Note that the new line is intentionally part of the tooltip.
 
+
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
+
 
 ## Firefox Relay integration
 
+
 ## Add-on Pop-up Notifications
 
+
 ## Pop-up warning
+
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
 

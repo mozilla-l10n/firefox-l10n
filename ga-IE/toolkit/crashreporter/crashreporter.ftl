@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = Tuairisceoir Tuairteála
-crashreporter-crash-message = Tharla fadhb gan súil i { -brand-short-name } agus chlis air.
 crashreporter-plea = Chun cabhrú linn leis an bhfadhb seo a aithint agus a dheisiú, is féidir leat tuairisc tuairteála a sheoladh chugainn.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Mionsonraí: { $details }

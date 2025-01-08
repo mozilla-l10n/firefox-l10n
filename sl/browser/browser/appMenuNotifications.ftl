@@ -37,7 +37,6 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Ne zdaj
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = Na voljo je nova posodobitev za { -brand-shorter-name }, vendar je ni mogoče namestiti, ker se izvaja drug izvod { -brand-shorter-name }a. Za nadaljevanje posodobitve ga zaprite, lahko pa jo vseeno namestite, pri čemer drugi izvod morda ne bo deloval pravilno, dokler ga ne zaženete znova.
-
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = V redu
     .buttonaccesskey = V
@@ -45,7 +44,6 @@ appmenu-addon-post-install-message3 = Upravljajte dodatke in teme v meniju aplik
 appmenu-addon-post-install-incognito-checkbox =
     .label = Dovoli, da se ta razširitev izvaja v zasebnih oknih
     .accesskey = D
-    
 appmenu-new-tab-controlled-changes =
     .label = Stran novega zavihka se je spremenila.
     .buttonlabel = Obdrži spremembe

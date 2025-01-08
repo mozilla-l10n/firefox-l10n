@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Šigirawey
-
 fonts-window-close =
     .key = w
 
@@ -76,19 +75,11 @@ fonts-default-serif =
     .label = Delbu šigira
 fonts-default-sans-serif =
     .label = Šigira šerrante
-
 fonts-minsize-none =
     .label = Baffoo
-
 fonts-allow-own =
     .label = Moɲey noo fondo ka ngi boŋ šigirawey suuba, manti ay boŋ beene suubari
     .accesskey = M
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

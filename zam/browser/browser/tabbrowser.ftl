@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Loo kub
-
 tabbrowser-menuitem-close-tab =
     .label = TòɁw Loo yib
 tabbrowser-menuitem-close =
@@ -26,10 +25,17 @@ tabbrowser-confirm-close-tabs-button = TòɁw loo ree
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
 
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+
 ## Confirmation dialog when opening multiple tabs simultaneously
 
 
 ## Confirmation dialog for enabling caret browsing
+
+
+## Confirmation dialog for closing all duplicate tabs
 
 
 ##
@@ -41,5 +47,13 @@ tabbrowser-customizemode-tab-title = Tùs kùe { -brand-short-name }
 
 ## Ctrl-Tab dialog
 
+
 ## Tab manager menu buttons
+
+
+## Tab Groups
+
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
 

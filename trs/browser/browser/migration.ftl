@@ -4,13 +4,11 @@
 
 migration-wizard =
     .title = Ganukuo' ga'an
-
 import-from =
     { PLATFORM() ->
         [windows] Ganukuo' markador, riña gaché nu', da'ngà huìi ni a'ngò si dato:
        *[other] Ganukuo', preferensia, markador, riña gaché nu', da'ngà huìi ni a'ngò si dato:
     }
-
 import-from-bookmarks = Ganukuo' markador:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -45,47 +43,22 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
-
 no-migration-sources = Nū nari' ma nej programa nikaj markador, riña gaché nu' nej si da'ngà huìi.
-
 import-source-page-title = Ganukuo' konfigurasiôn ni nej dato
 import-items-page-title = Nej sa ganukuo'
-
 import-items-description = Ganahui nej sa hui ruat ganukuajt:
-
 import-migrating-page-title = 'Ngà anukuaj ma...
-
 import-migrating-description = Nej na huin sa 'ngà ganukuaj ma...
-
 import-select-profile-page-title = Nagui Perfil
-
 import-select-profile-description = Ga'ue ganukuo' nej sa ma ñuna:
-
 import-done-page-title = 'Ngà gisij ganukuaj ma
-
 import-done-description = Hue'ê chre ganukuaj ma:
-
 import-close-source-browser = Gi'iaj suntuj u ni gini'iaj si 'ngà arán navegador na hìaj ni gachin ga'anjt ne'ñaan.
-
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-chrome = Google Chrome
-
 imported-safari-reading-list = Nej sa ahio' (si'iaj Safari)
 imported-edge-reading-list = Nej sa ahio' (si'iaj Edge)
-
-## Browser data types
-## All of these strings get a $browser variable passed in.
-## You can use the browser variable to differentiate the name of items,
-## which may have different labels in different browsers.
-## The supported values for the $browser variable are:
-## 360se
-## chrome
-## edge
-## firefox
-## safari
-## The various beta and development versions of edge and chrome all get
-## normalized to just "edge" and "chrome" for these strings.
 
 ## Browser data types
 ## All of these strings get a $browser variable passed in.
@@ -105,4 +78,3 @@ browser-data-session-checkbox =
     .label = Ventana ni rakïj nanj
 browser-data-session-label =
     .value = Ventana ni rakïj nanj
-

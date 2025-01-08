@@ -22,13 +22,3 @@ webconsole-commands-usage-unblock =
     Atal rhwystro ceisiadau rhwydwaith
     
       Mae'n derbyn un ymresymiad yn unig, yr un llinyn yn union a basiwyd yn flaenorol i :block.
-# Usage string for :trace command
-webconsole-commands-usage-trace =
-    :trace
-    
-    Toglo'r olrhain JavaScript
-    
-      Mae’n cefnogi’r dadleuon canlynol:
-        --logMethod i'w osod i 'console' ar gyfer mewngofnodi i'r consol gwe (y rhagosodiad), neu 'stdout' ar gyfer mewngofnodi i'r allbwn safonol,
-        --prefix Llinyn dewisol a fydd yn cael ei gofnodi o flaen yr holl gofnodion olrhain,
-        --help neu --usage i ddangos y neges hon.

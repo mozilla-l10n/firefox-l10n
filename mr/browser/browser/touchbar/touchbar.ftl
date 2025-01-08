@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# Strings in this file are used to localize button titles displayed on the 
+# Strings in this file are used to localize button titles displayed on the
 # MacBook Touch Bar.
 back = मागे
 forward = पुढे
@@ -18,7 +18,6 @@ open-location = शोधा किंवा पत्ता द्या
 share = शेअर करा
 close-window = पटल बंद करा
 open-sidebar = बाजूच्या पट्ट्या
-
 # This string describes shortcuts for search.
 search-popover = शॉर्टकट शोधा
 # Describes searches limited to a specific scope
@@ -33,6 +32,5 @@ search-opentabs = उघडे टॅब
 search-tags = टॅग
 search-titles = शीर्षके
 
-
-
 ##
+

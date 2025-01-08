@@ -6,4 +6,3 @@ colors-page-override-option-always =
     .label = Reeta vez
 colors-page-override-option-never =
     .label = Yent ta
-

@@ -39,8 +39,6 @@ address-capture-manage-address-button =
     .label = Címbeállítások
 address-capture-learn-more-button =
     .label = További tudnivalók
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Új cím hozzáadása
 address-capture-open-menu-button =
     .aria-label = Menü megnyitása
 address-capture-edit-address-button =
@@ -49,10 +47,10 @@ address-capture-edit-address-button =
 autofill-add-address-title = Cím hozzáadása
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Cím szerkesztése
-autofill-address-name = Név
 autofill-address-given-name = Utónév
 autofill-address-additional-name = Egyéb név
 autofill-address-family-name = Vezetéknév
+autofill-address-name = Név
 autofill-address-organization = Szervezet
 autofill-address-street-address = Utca, házszám
 autofill-address-street = Utca, házszám
@@ -108,9 +106,8 @@ autofill-address-eircode = Eircode
 
 ##
 
-
-##
-
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Új cím hozzáadása
 autofill-address-country = Ország vagy régió
 autofill-address-country-only = Ország
 autofill-address-tel = Telefonszám

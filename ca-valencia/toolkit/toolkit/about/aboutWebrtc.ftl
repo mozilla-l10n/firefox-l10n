@@ -8,7 +8,6 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = Detalls interns de WebRTC
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = anomena i guarda l'eixida d'about:webrtc
@@ -22,14 +21,12 @@ about-webrtc-aec-logging-msg-label = Registre d'AEC
 about-webrtc-aec-logging-off-state-label = Inicia el registre d'AEC
 about-webrtc-aec-logging-on-state-label = Para el registre d'AEC
 about-webrtc-aec-logging-on-state-msg = Registre d'AEC actiu (parleu amb l'interlocutor uns minuts i després pareu la captura)
-
 about-webrtc-aec-logging-toggled-on-state-msg = Registre d'AEC actiu (parleu amb l'interlocutor uns minuts i després pareu la captura)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Els fitxers de registre capturats es troben a: { $path }
 
 ##
-
 
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
@@ -74,12 +71,10 @@ about-webrtc-type-remote = Remot
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Nominat
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Seleccionat
-
 about-webrtc-save-page-label = Guarda la pàgina
 about-webrtc-debug-mode-msg-label = Mode de depuració
 about-webrtc-debug-mode-off-state-label = Inicia el mode de depuració
@@ -92,7 +87,6 @@ about-webrtc-log-show-msg = mostra el registre
     .title = clic per ampliar esta secció
 about-webrtc-log-hide-msg = amaga el registre
     .title = clic per reduir esta secció
-
 about-webrtc-log-section-show-msg = Mostra el registre
     .title = Clic per ampliar esta secció
 about-webrtc-log-section-hide-msg = Amaga el registre
@@ -139,22 +133,24 @@ about-webrtc-encoder-label = Codificador
 ##
 
 
-## These are paths used for saving the about:webrtc page or log files so
-## they can be attached to bug reports.
-## Variables:
-##  $path (String) - The path to which the file is saved.
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+
+##
+
+
+##
 
 about-webrtc-save-page-msg = la pàgina s'ha guardat a: { $path }
 about-webrtc-debug-mode-off-state-msg = el registre de traça es troba a: { $path }
 about-webrtc-debug-mode-on-state-msg = mode de depuració actiu; el registre de traça és a: { $path }
 about-webrtc-aec-logging-off-state-msg = els fitxers de registre capturats es troben a: { $path }
-
+# This path is used for saving the about:webrtc page so it can be attached to
+# bug reports.
+# Variables:
+#  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = La pàgina s'ha guardat a: { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = El registre de traça es troba a: { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = Mode de depuració actiu; el registre de traça és a: { $path }
-
-##
-
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:

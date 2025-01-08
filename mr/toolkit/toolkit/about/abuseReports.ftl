@@ -12,16 +12,10 @@ abuse-report-goback-button = मागे जा
 abuse-report-submit-button = सादर करा
 
 ## Message bars descriptions.
-
-
-## Variables:
-##   $addon-name (string) - Name of the add-on
-
-
-## Message bars descriptions.
 ##
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
+
 
 ## Message bars actions.
 
@@ -33,4 +27,3 @@ abuse-report-messagebar-action-cancel = रद्द करा
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
 abuse-report-other-reason = इतर
-

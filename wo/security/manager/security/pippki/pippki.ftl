@@ -11,9 +11,8 @@ password-quality-meter = Nataayu baaxaayu caabi baat bi
 change-password-token = Wër ndombo kaarange: { $tokenName }
 change-password-old = Caabi baat bi teew:
 
-## Reset Password dialog
-
 ## Reset Primary Password dialog
+
 
 ## Downloading cert dialog
 
@@ -23,10 +22,11 @@ download-cert-view-cert =
 ## Client Authorization Ask dialog
 
 
+## Client Authentication Ask dialog
+
+
 ## Set password (p12) dialog
 
-
-## Protected Auth dialog
 
 ## Protected authentication alert
 

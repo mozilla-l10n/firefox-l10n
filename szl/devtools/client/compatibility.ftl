@@ -40,8 +40,6 @@ compatibility-issue-occurrences =
         [few] { $number } pokozania
        *[many] { $number } pokozań
     }
-
 compatibility-no-issues-found = Żodne problymy z kōmpatybilnościōm niy były znodniynte.
 compatibility-close-settings-button =
     .title = Zawrzij sztalōnki
-

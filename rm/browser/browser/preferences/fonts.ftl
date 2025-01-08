@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Scrittiras
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Scrittiras per
     .accesskey = p
-
 fonts-langgroup-arabic =
     .label = Arab
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporziunal
     .accesskey = P
-
 fonts-default-serif =
     .label = Cun serifas
 fonts-default-sans-serif =
     .label = Senza serifas
-
 fonts-proportional-size = Grondezza
     .accesskey = G
-
 fonts-serif = Serifas
     .accesskey = S
-
 fonts-sans-serif = Senza serifas
     .accesskey = z
-
 fonts-monospace = Largezza fixa
     .accesskey = f
-
 fonts-monospace-size = Grondezza
     .accesskey = r
-
 fonts-minsize = Grondezza minimala da la scrittira
     .accesskey = m
-
 fonts-minsize-none =
     .label = Nagina
-
 fonts-allow-own =
     .label = Permetter a paginas d'utilisar atgnas scrittiras empè da las scrittiras tschernidas survart
     .accesskey = P
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

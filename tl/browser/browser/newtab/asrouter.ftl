@@ -12,35 +12,29 @@ cfr-doorhanger-feature-heading = Inirerekomenda na Tampok
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Bakit ko nakikita ito
-
 cfr-doorhanger-extension-cancel-button = Hindi Ngayon
     .accesskey = H
-
 cfr-doorhanger-extension-ok-button = Idagdag Ngayon
     .accesskey = A
-
 cfr-doorhanger-extension-manage-settings-button = Mangasiwa sa Rekomendasyong Itinakda
     .accesskey = M
-
 cfr-doorhanger-extension-never-show-recommendation = Itago ang Rekomendasyong ito
     .accesskey = I
-
 cfr-doorhanger-extension-learn-more-link = Alamin
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = ni { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Rekomendasyon
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Rekomendasyon
     .tooltiptext = Rekomendasyon
     .a11y-announcement = Rekomendasyon
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Rekomendasyon
     .tooltiptext = Rekomendasyon
     .a11y-announcement = Rekomendasyon
@@ -85,11 +79,9 @@ cfr-protections-panel-link-text = Karagdagang kaalaman
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Bagong tampok:
-
 cfr-whatsnew-button =
     .label = Ano ang Bago
     .tooltiptext = Ano ang Bago
-
 cfr-whatsnew-release-notes-link-text = Basahin ang mga release note
 
 ## Enhanced Tracking Protection Milestones
@@ -113,17 +105,12 @@ cfr-doorhanger-doh-header = Mas secure at encrypted na DNS lookup
 cfr-doorhanger-doh-secondary-button = i-Disable
     .accesskey = D
 
-## Fission Experiment Message
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Ang mga video sa site na ito ay maaaring hindi mapanood nang tama sa bersyon na ito ng { -brand-short-name }. Para sa buong suporta sa video, i-update na ang { -brand-short-name }.
 cfr-doorhanger-video-support-header = I-update ang { -brand-short-name } upang mapanood ang video
 cfr-doorhanger-video-support-primary-button = Mag-update Na
     .accesskey = u
-
-## Spotlight modal shared strings
-
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -132,9 +119,8 @@ cfr-doorhanger-video-support-primary-button = Mag-update Na
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
 
-## Total Cookie Protection Rollout
-
 ## Emotive Continuous Onboarding
+
 
 ## MR2022 Background Update Windows native toast notification strings.
 ##
@@ -149,19 +135,52 @@ cfr-doorhanger-video-support-primary-button = Mag-update Na
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+
 ## Firefox View CFR
+
 
 ## Firefox View Spotlight
 
+
 ## Colorways expiry reminder CFR
+
 
 ## Cookie Banner Handling CFR
 
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
+
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+
 ## FxA sync CFR
 
+
 ## Device Migration FxA Spotlight
+
+
+## Set as Default PDF Reader Infobar
+
+
+## Launch on login infobar notification
+
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+
+## Tail Fox Set Default Spotlight
+
+
+## Root Certificate Succession Infobar
+
+
+## Root Certificate Succession Windows Background Notification
+
+
+## FxA Menu Message variants
+
+
+## Multi-CTA Fox Doodle Spotlight
 

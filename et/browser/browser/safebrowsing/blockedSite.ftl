@@ -10,6 +10,8 @@ safeb-blocked-phishing-page-short-desc = { -brand-short-name } blokkis selle leh
 safeb-blocked-malware-page-short-desc = { -brand-short-name } blokkis selle lehe, kuna see võib üritada paigaldada ohtlikke rakendusi, mis varastavad või kustutavad sinu isiklikke andmeid.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } blokkis selle lehe, sest see võib üritada sind üle kavaldada, et paigaldaksid tarkvara, mis kahjustab sinu veebilehitsemise kogemust (nt vahetab välja brauseri avalehe või kuvab reklaame lehtedel, mida külastad).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } blokkis selle lehe, kuna see võib üritada paigaldada ohtlikke rakendusi, mis varastavad või kustutavad sinu andmeid (nt fotosid, paroole, sõnumeid või krediitkaartide infot).
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Nõuande andja: <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Mine tagasi
 safeb-palm-see-details-label = Vaata üksikasju

@@ -23,12 +23,10 @@ newtab-topsites-edit-topsites-header = ସବୁଠାରୁ ଭଲ ସାଇଟ
 newtab-topsites-title-label = ଶୀର୍ଷକ
 newtab-topsites-title-input =
     .placeholder = ଏକ ଶୀର୍ଷକ ଭରନ୍ତୁ
-
 newtab-topsites-url-label = ୟୁଆର୍‌ଏଲ୍‌
 newtab-topsites-url-input =
     .placeholder = ଗୋଟିଏ ଯୁଆରଏଲ ଲେଖନ୍ତୁ କିମ୍ବା ଛାପନ୍ତୁ
 newtab-topsites-url-validation = ବୈଧ ଯୁଆରଏଲ ଆବଶ୍ୟକ
-
 newtab-topsites-image-url-label = ଇଚ୍ଛାରୁପି ଛବି ଯୁଆରଏଲ
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
@@ -53,7 +51,6 @@ newtab-confirm-delete-history-p2 = ଏହି କାର୍ଯ୍ୟର ପଦକ�
 newtab-menu-section-tooltip =
     .title = ତାଲିକା ଖୋଲନ୍ତୁ
     .aria-label = ତାଲିକା ଖୋଲନ୍ତୁ
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -168,11 +165,11 @@ newtab-pocket-more-recommendations = ଅଧିକ ସୁପାରିଶ
 newtab-pocket-learn-more = ଅଧିକ ଜାଣନ୍ତୁ
 newtab-pocket-cta-button = { -pocket-brand-name } ପାଆନ୍ତୁ
 
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
 
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -184,3 +181,32 @@ newtab-error-fallback-refresh-link = ପୃଷ୍ଠାଟିକୁ ରିଫ୍
 
 newtab-custom-recent-title = ସାମ୍ପ୍ରତିକ ଗତିବିଧି
 newtab-custom-close-button = ବନ୍ଦ କରନ୍ତୁ
+
+## New Tab Wallpapers
+
+
+## Solid Colors
+
+
+## Abstract
+
+
+## Photographs
+
+
+## New Tab Weather
+
+
+## Topic Labels
+
+
+## Topic Selection Modal
+
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Confirmation modal for blocking a section
+

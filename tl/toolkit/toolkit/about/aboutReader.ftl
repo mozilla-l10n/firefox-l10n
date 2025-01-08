@@ -4,14 +4,12 @@
 
 about-reader-loading = Naglo-load...
 about-reader-load-error = Nabigong i-load ang artikulo mula sa pahina
-
 about-reader-color-scheme-light = Banayad
     .title = Color Scheme Light
 about-reader-color-scheme-dark = Madilim
     .title = Color Scheme Dark
 about-reader-color-scheme-sepia = Sepia
     .title = Color Scheme Sepia
-
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -23,7 +21,7 @@ about-reader-estimated-read-time =
        *[other] { $range } mga minuto
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = Liitan ang Font
@@ -48,3 +46,14 @@ about-reader-font-type-sans-serif = Sans-serif
 about-reader-toolbar-close = Isara ang Reader View
 about-reader-toolbar-type-controls = Uri ng mga control
 about-reader-toolbar-savetopocket = I-save sa { -pocket-brand-name }
+
+## Reader View colors menu
+
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+
+## Reader View text and layout menu
+

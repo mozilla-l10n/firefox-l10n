@@ -20,6 +20,8 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Piliin ang lahat ng mga Tab
     .accesskey = S
+# Variables
+#   $tabCount (number) - Number of tabs
 toolbar-context-menu-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -28,24 +30,21 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Muling Buksan ang mga Naisarang Tab
         }
     .accesskey = M
-
 toolbar-context-menu-manage-extension =
     .label = I-manage ang Extension
     .accesskey = E
 toolbar-context-menu-remove-extension =
     .label = Alisin ang Extension
     .accesskey = v
-
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = i-Report ang Extension
     .accesskey = o
-
-# Can appear on the same context menu as menubarCmd ("Menu Bar") and
-# personalbarCmd ("Bookmarks Toolbar"), so they should have different
-# access keys.
+# Can appear on the same context menu as toolbar-context-menu-menu-bar-cmd
+# ("Menu Bar") and personalbarCmd ("Bookmarks Toolbar"), so they should
+# have different access keys.
 toolbar-context-menu-pin-to-overflow-menu =
     .label = i-Pin sa Overflow Menu
     .accesskey = P
@@ -58,7 +57,6 @@ toolbar-context-menu-view-customize-toolbar =
 toolbar-context-menu-view-customize-toolbar-2 =
     .label = i-Customize ang Toolbar…
     .accesskey = C
-
 toolbar-context-menu-menu-bar-cmd =
     .toolbarname = Menu Bar
     .accesskey = M

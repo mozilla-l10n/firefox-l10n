@@ -3,5 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = Restert Needit
-
 restart-button-label = Restert { -brand-short-name }

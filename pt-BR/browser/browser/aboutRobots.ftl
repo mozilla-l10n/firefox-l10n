@@ -25,5 +25,6 @@ error-long-desc4 = Robôs possuem traseiros de metal brilhantes que não devem s
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = E eles têm um plano.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = Tentar novamente
     .label2 = Não pressione este botão novamente.

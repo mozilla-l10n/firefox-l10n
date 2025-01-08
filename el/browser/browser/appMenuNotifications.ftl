@@ -37,7 +37,6 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Όχι τώρα
     .secondarybuttonaccesskey = Ό
 appmenu-update-other-instance-message = Μια νέα ενημέρωση του { -brand-shorter-name } είναι διαθέσιμη, αλλά δεν μπορεί να εγκατασταθεί επειδή εκτελείται ένα άλλο αντίγραφο του { -brand-shorter-name }. Κλείστε το για να συνεχίσετε την ενημέρωση, ή επιλέξετε να γίνει ούτως ή άλλως η ενημέρωση (το άλλο αντίγραφο δεν θα λειτουργεί σωστά μέχρι να το επανεκκινήσετε).
-
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Εντάξει
     .buttonaccesskey = Ε
@@ -45,7 +44,6 @@ appmenu-addon-post-install-message3 = Διαχειριστείτε τα πρόσ
 appmenu-addon-post-install-incognito-checkbox =
     .label = Να επιτρέπεται η εκτέλεσή του σε ιδιωτικά παράθυρα
     .accesskey = Ν
-    
 appmenu-new-tab-controlled-changes =
     .label = Η νέα σας καρτέλα έχει αλλάξει.
     .buttonlabel = Διατήρηση αλλαγών

@@ -6,8 +6,6 @@ title-label = Oer ynstekkers
 installed-plugins-label = Ynstallearre ynstekkers
 no-plugins-are-installed-label = Gjin ynstallearre ynstekkers fûn
 deprecation-description = Misse jo wat? Guon ynstekkers wurde net langer stipe. <a data-l10n-name="deprecation-link">Mear ynfo.</a>
-deprecation-description2 =
-    .message = Misse jo wat? Guon ynstekkers wurde net langer stipe.
 
 ## The information of plugins
 ##

@@ -6,8 +6,6 @@ title-label = عن الملحقات
 installed-plugins-label = الملحقات المنصّبة
 no-plugins-are-installed-label = لا يوجد ملحقات منصّبة
 deprecation-description = أهناك ما تفتقده؟ بعض الملحقات لم تعد مدعومة. <a data-l10n-name="deprecation-link">اطّلع على المزيد.</a>
-deprecation-description2 =
-    .message = أهناك ما تفتقده؟ بعض الملحقات لم تعد مدعومة.
 
 ## The information of plugins
 ##

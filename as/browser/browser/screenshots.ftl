@@ -34,8 +34,6 @@ screenshots-private-window-error-title = ব্যক্তিগত ব্ৰ�
 screenshots-private-window-error-details = অসুবিধাৰ বাবে ক্ষমা কৰিব। আমি ভৱিষ্যতৰ সংস্কৰণসমূহৰ বাবে এই সুবিধাৰ ওপৰত কাম কৰি আছোঁ।
 screenshots-generic-error-title = উস্‌! { -screenshots-brand-name }-এ খেলিমেলি কৰিছে।
 screenshots-generic-error-details = আমি ভালকৈ গম নাপাওঁ এইমাত্ৰ কি হ'ল। আকৌ চেষ্টা কৰিবলৈ বা বেলেগ এখন পৃষ্ঠাৰ শ্বট ল'বলৈ যত্ন কৰিবনে?
-screenshots-component-copy-button-label = কপি কৰক
-screenshots-component-download-button-label = ডাউনল’ড কৰক
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
@@ -43,9 +41,3 @@ screenshots-component-download-button-label = ডাউনল’ড কৰক
 
 ##
 
-# This string represents the selection size area
-# "x" here represents "by" (i.e 123 by 456)
-# Variables:
-#   $width (Number) - The width of the selection region in pixels
-#   $height (Number) - The height of the selection region in pixels
-screenshots-overlay-selection-region-size-2 = { $width } x { $height }

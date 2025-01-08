@@ -74,7 +74,9 @@ mr1-onboarding-theme-label-system = सिस्टम थीम
 ## when Firefox is already set to default and pinned.
 
 
-## MR2022 Import Settings screen strings
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
 
 
 ## If your language uses grammatical genders, in the description for the
@@ -106,8 +108,23 @@ mr1-onboarding-theme-label-system = सिस्टम थीम
 ## Device migration onboarding
 
 
+## Add-ons Picker screen
+
+
 ## The following screens have been updated to use security and privacy focused strings:
 
 
 ## New user time and familiarity survey strings
+
+
+## UI strings for the sidebar and vertical tabs
+
+
+## New user onboarding checklist
+
+
+## Tab Groups feature onboarding strings
+
+
+## Multi Profiles feature onboarding messages
 

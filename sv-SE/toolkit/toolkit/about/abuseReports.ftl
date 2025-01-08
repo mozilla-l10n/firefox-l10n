@@ -18,8 +18,6 @@ abuse-report-addon-authored-by = av <a data-l10n-name="author-name">{ $author-na
 abuse-report-learnmore =
     Är du osäker på vilket problem du vill välja?
     <a data-l10n-name="learnmore-link">Läs mer om rapportering av tillägg och teman</a>
-abuse-report-learnmore-intro = Är du osäker på vilket problem du vill välja?
-abuse-report-learnmore-link = Läs mer om rapportering av tillägg och teman
 abuse-report-submit-description = Beskriv problemet (valfritt)
 abuse-report-textarea =
     .placeholder = Det är lättare för oss att ta itu med ett problem om vi har detaljer. Beskriv vad du upplever. Tack för att du har hjälpt oss att hålla nätet hälsosamt.
@@ -48,24 +46,6 @@ abuse-report-messagebar-removed-sitepermission = Tack för att du skickade en ra
 abuse-report-messagebar-removed-theme = Tack för att du skickade in en rapport. Du har tagit bort temat <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Det gick inte att skicka rapporten för <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Rapporten för <span data-l10n-name="addon-name">{ $addon-name }</span> skickades inte eftersom en annan rapport skickades nyligen.
-abuse-report-messagebar-aborted2 =
-    .message = Rapport för { $addon-name } avbruten.
-abuse-report-messagebar-submitting2 =
-    .message = Skickar rapport för { $addon-name }.
-abuse-report-messagebar-submitted2 =
-    .message = Tack för att du skickade in en rapport. Vill du ta bort { $addon-name }?
-abuse-report-messagebar-submitted-noremove2 =
-    .message = Tack för att du skickade in en rapport.
-abuse-report-messagebar-removed-extension2 =
-    .message = Tack för att du skickade in en rapport. Du har tagit bort tillägget { $addon-name }.
-abuse-report-messagebar-removed-sitepermission2 =
-    .message = Tack för att du skickade en rapport. Du har tagit bort webbplatsbehörighetstillägget { $addon-name }.
-abuse-report-messagebar-removed-theme2 =
-    .message = Tack för att du skickade in en rapport. Du har tagit bort temat { $addon-name }.
-abuse-report-messagebar-error2 =
-    .message = Det gick inte att skicka rapporten för { $addon-name }.
-abuse-report-messagebar-error-recent-submit2 =
-    .message = Rapporten för { $addon-name } skickades inte eftersom en annan rapport skickades nyligen.
 
 ## Message bars actions.
 

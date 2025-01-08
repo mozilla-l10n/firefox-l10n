@@ -7,16 +7,13 @@ copy =
 menu-copy =
     .label = ନକଲ କରନ୍ତୁ
     .accesskey = C
-
 select-all =
     .key = A
 menu-select-all =
     .label = ସମସ୍ତଙ୍କୁ ଚୟନକରନ୍ତୁ
     .accesskey = A
-
 close-dialog =
     .key = w
-
 general-tab =
     .label = ସାଧାରଣ
     .accesskey = G
@@ -40,7 +37,6 @@ general-meta-name =
     .label = ନାମ
 general-meta-content =
     .label = ସୂଚୀ
-
 media-tab =
     .label = ସଞ୍ଚାର ମାଧ୍ୟମ
     .accesskey = M
@@ -68,13 +64,11 @@ media-save-as =
 media-save-image-as =
     .label = ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ…
     .accesskey = e
-
 perm-tab =
     .label = ଅନୁମତି
     .accesskey = P
 permissions-for =
     .value = ପାଇଁ ଅନୁମତି:
-
 security-tab =
     .label = ସୁରକ୍ଷା
     .accesskey = S
@@ -95,22 +89,17 @@ security-view-identity-validity =
     .value = ଅବଧି ସମାପ୍ତି ହେବ:
 security-view-privacy =
     .value = ଗୋପନୀୟତା ଏବଂ ପୁରୁଣା ତଥ୍ୟ
-
 security-view-privacy-history-value = ଏହା ପୂର୍ବରୁ ମୁଁ କେବେ ଏହି ୱେବ ସାଇଟକୁ ପରିଦର୍ଶନ କରିଥିଲି କି?
 security-view-privacy-sitedata-value = କଣ ଏହି ୱେବ ସାଇଟ ମୋର କମ୍ପୁଟରରେ ସୂଚନାକୁ ସଞ୍ଚୟ କରୁଅଛି?
-
 security-view-privacy-clearsitedata =
     .label = କୁକିଜ ଏବଂ ସାଇଟ ତଥ୍ୟ ବିଲୋପ କରନ୍ତୁ
     .accesskey = C
-
 security-view-privacy-passwords-value = ଏହି ୱେବ ସାଇଟ ପାଇଁ ମୁଁ କୌଣସି ପ୍ରବେଶ ସଂକେତ ସଂରକ୍ଷଣ କରିଅଛି କି?
-
 security-view-privacy-viewpasswords =
     .label = ସଂରକ୍ଷିତ ପ୍ରବେଶ ସଂକେତ ଦେଖନ୍ତୁ
     .accesskey = w
 security-view-technical =
     .value = ଯାନ୍ତ୍ରିକ ବିବରଣୀ
-
 help-button =
     .label = ସହାୟତା
 
@@ -143,7 +132,6 @@ media-video = ଭିଡିଓ
 media-audio = ଧ୍ୱନି
 saved-passwords-yes = ହଁ
 saved-passwords-no = ନା
-
 no-page-title =
     .value = ଶୀର୍ଷକ ବିହୀନ ପୃଷ୍ଠା:
 general-quirks-mode =
@@ -158,7 +146,6 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = ପୂର୍ବନିର୍ଦ୍ଧାରିତକୁ ବ୍ୟବହାର କରନ୍ତୁ
 security-no-visits = ନା
-
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -169,14 +156,12 @@ security-visits-number =
         [one] ହଁ, ଥରେ
        *[other] ହଁ, { $visits } ଥର
     }
-
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } ପ୍ରତିଛବି
-
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -186,14 +171,12 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px ({ $scaledx }px × { $scaledy }px ରେ ମପାହୋଇଥିବା)
-
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
-
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
@@ -205,16 +188,11 @@ media-file-size = { $size } KB
 
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
-# Variables:
-#   $website (string) - The website name
 media-block-image =
     .label = { $website } ରୁ ପ୍ରତିଛବିଗୁଡ଼ିକୁ ଅଟକାନ୍ତୁ
     .accesskey = B
-
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
-# Variables:
-#   $website (string) - The url of the website pageInfo is getting info for
 page-info-page =
     .title = ପୃଷ୍ଠା ସୂଚନା - { $website }
 page-info-frame =

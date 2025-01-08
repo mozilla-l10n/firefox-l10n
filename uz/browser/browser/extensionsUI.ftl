@@ -7,7 +7,9 @@
 #   $currentEngine (String): name of the current search engine.
 #   $newEngine (String): name of the new search engine.
 webext-default-search-description = { $addonName } asosiy qidiruv tizimingizni { $currentEngine }dan { $newEngine }ga oʻzgartirishni xohlaydi. Rozimisiz?
-
 # Variables:
 #   $addonName (String): localized named of the extension that was just installed.
 addon-post-install-message = { $addonName } qoʻshildi.
+
+## A modal confirmation dialog to allow an extension on quarantined domains.
+

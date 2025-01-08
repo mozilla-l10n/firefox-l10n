@@ -59,8 +59,6 @@ sidebar-description = 在浏览时轻松访问历史记录、其他设备上的�
 vertical-tabs-title =
     .label = 垂直标签页
 vertical-tabs-description = 将标签页栏从浏览器顶部移到侧边。需要同时试用侧栏功能。<a data-l10n-name="connect">分享反馈</a>
-experimental-features-group-browsing =
-    .label = 浏览
 experimental-features-group-developer-tools =
     .label = 开发者工具
 experimental-features-group-webpage-display =

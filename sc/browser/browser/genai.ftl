@@ -93,6 +93,5 @@ genai-onboarding-gemini-price = Optziones de badas e de pagamentu; contu rechest
 genai-onboarding-huggingchat-generate = Gènera testu e còdighe
 genai-onboarding-huggingchat-switch = Sèbera intre una sèrie de modellos abertos
 genai-onboarding-huggingchat-price-2 = De badas; contu rechestu a pustis de unu nùmeru de rechestas
-genai-onboarding-huggingchat-price = De badas; contu rechestu pro tzertas tareas
 genai-onboarding-lechat-generate = Gènera testu e còdighe
 genai-onboarding-lechat-price = De badas; contu rechestu

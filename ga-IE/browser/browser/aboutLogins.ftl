@@ -4,7 +4,6 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Focail Fhaire
-
 fxaccounts-sign-in-text = Faigh do chuid focal faire ar ghléasanna eile
 fxaccounts-avatar-button =
     .title = Bainistigh an cuntas
@@ -71,6 +70,7 @@ login-item-cancel-button = Cealaigh
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+
 ## OS Authentication dialog
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }
@@ -91,7 +91,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Cealaigh
 confirmation-dialog-dismiss-button =
     .title = Cealaigh
-
 about-logins-confirm-remove-dialog-title = Bain an Focal Faire seo?
 confirm-delete-dialog-message = Ní féidir an gníomh seo a chur ar ceal.
 about-logins-confirm-remove-dialog-confirm-button = Bain
@@ -99,10 +98,10 @@ about-logins-confirm-remove-dialog-confirm-button = Bain
 ## Variables
 ##   $count (number) - Number of items
 
+
 ##
 
 about-logins-confirm-export-dialog-confirm-button = Easpórtáil…
-
 confirm-discard-changes-dialog-confirm-button = Cuileáil
 
 ## Breach Alert notification

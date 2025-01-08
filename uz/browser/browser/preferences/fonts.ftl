@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Shriftlar
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Shriftlar:
     .accesskey = f
-
 fonts-langgroup-arabic =
     .label = Arabcha
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporsional
     .accesskey = P
-
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
-
 fonts-proportional-size = Hajmi
     .accesskey = j
-
 fonts-serif = Serif
     .accesskey = S
-
 fonts-sans-serif = Sans-serif
     .accesskey = n
-
 fonts-monospace = Monospace
     .accesskey = M
-
 fonts-monospace-size = Hajmi
     .accesskey = m
-
 fonts-minsize = Shriftning minimal hajmi
     .accesskey = h
-
 fonts-minsize-none =
     .label = Yoʻq
-
 fonts-allow-own =
     .label = Sahifalarga oʻzlarining shriftlarini tanlashga ruxst berilsin
     .accesskey = t
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

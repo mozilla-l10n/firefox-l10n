@@ -7,7 +7,6 @@
 
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
-
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
@@ -15,7 +14,6 @@ toolbar-button-back-2 =
 
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
-
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
 
@@ -29,12 +27,10 @@ toolbar-button-reload =
 main-context-menu-stop =
     .aria-label = Tsi kui'n
     .accesskey = S
-
 # This menuitem is only visible on macOS
 main-context-menu-stop-mac =
     .label = Tsi kui'n
     .accesskey = S
-
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -45,18 +41,18 @@ toolbar-button-stop-reload =
 
 ## Firefox Account Button
 
+
+## Account toolbar Button
+
+
 ## Save Page
+
 
 ## Simple menu items
 
 main-context-menu-open-link =
     .label = Kuna enlace
     .accesskey = O
-
-## The access keys for "Copy Link Location" and "Copy Email Address"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
-
 
 ## The access keys for "Copy Link" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -72,7 +68,6 @@ main-context-menu-open-link =
 main-context-menu-media-play =
     .label = Kitsa'a
     .accesskey = P
-
 main-context-menu-media-pause =
     .label = Kunchatu
     .accesskey = P
@@ -82,11 +77,9 @@ main-context-menu-media-pause =
 main-context-menu-media-mute =
     .label = Taxi'in
     .accesskey = M
-
 main-context-menu-media-unmute =
     .label = Kuchaa soo n'dusu
     .accesskey = m
-
 main-context-menu-media-loop =
     .label = Kitsa tuku
     .accesskey = L
@@ -100,14 +93,11 @@ main-context-menu-media-loop =
 main-context-menu-image-copy =
     .label = Ndatava tutu
     .accesskey = y
-
 main-context-menu-image-info =
     .label = Kunchee tu'un tsa tutu ndatavana
     .accesskey = f
 
-## The access keys for "Use Saved Login" and "Use Saved Password"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
+##
 
 
 ##

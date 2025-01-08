@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Urhaku miukuecheri
-
 fonts-window-close =
     .key = w
 
@@ -56,12 +55,5 @@ fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
-
 fonts-minsize-none =
     .label = No ma
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-

@@ -290,9 +290,7 @@ main-context-menu-send-to-device =
     .label = Mande pagjine a dispositîf
     .accesskey = d
 
-## The access keys for "Use Saved Login" and "Use Saved Password"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
+##
 
 main-context-menu-use-saved-login =
     .label = Dopre credenziâl salvade

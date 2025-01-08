@@ -5,7 +5,11 @@
 url-classifier-title = URL درجہ بندی دی معلومات
 url-classifier-search-title = ڳولو
 url-classifier-search-result-title = نتیجے
+# Variables:
+#   $uri (string) - URI of blocked page
 url-classifier-search-result-uri = یوآرایل: { $uri }
+# Variables:
+#   $list (string) - List of tables where the page is blocked
 url-classifier-search-result-list = جدولاں دی فہرست: { $list }
 url-classifier-search-input = یوآرایل
 url-classifier-search-error-invalid-url = غلط یوآرایل
@@ -40,7 +44,6 @@ url-classifier-debug-sb-modules = محفوظ براؤزانگ لاگ ماڈیو�
 url-classifier-debug-modules = موجودہ لاگ ماڈیولز
 url-classifier-debug-sbjs-modules = محفوظ براوزنگ JS لاگ
 url-classifier-debug-file = موجودہ لاگ فائلاں
-
 url-classifier-trigger-update = ٹرگر اپ ڈیٹ
 url-classifier-not-available = دستیاب کائنی
 url-classifier-disable-sbjs-log = محفوظ براؤزنگ JS  لاگ کوں غیر فعال بݨاؤ

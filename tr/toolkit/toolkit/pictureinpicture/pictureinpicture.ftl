@@ -7,6 +7,7 @@ pictureinpicture-player-title = Görüntü içinde görüntü
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -21,30 +22,24 @@ pictureinpicture-pause-btn =
 pictureinpicture-play-btn =
     .aria-label = Oynat
     .tooltip = Oynat (Boşluk)
-
 pictureinpicture-mute-btn =
     .aria-label = Sesi kapat
     .tooltip = Sesi kapat ({ $shortcut })
 pictureinpicture-unmute-btn =
     .aria-label = Sesi aç
     .tooltip = Sesi aç ({ $shortcut })
-
 pictureinpicture-unpip-btn =
     .aria-label = Sekmeye geri gönder
     .tooltip = Geri gönder
-
 pictureinpicture-close-btn =
     .aria-label = Kapat
     .tooltip = Kapat ({ $shortcut })
-
 pictureinpicture-subtitles-btn =
     .aria-label = Altyazı
     .tooltip = Altyazı
-
 pictureinpicture-fullscreen-btn2 =
     .aria-label = Tam ekran
     .tooltip = Tam ekran (çift tıklayın veya { $shortcut })
-
 pictureinpicture-exit-fullscreen-btn2 =
     .aria-label = Tam ekrandan çık
     .tooltip = Tam ekrandan çık (çift tıklayın veya { $shortcut })
@@ -63,7 +58,6 @@ pictureinpicture-toggle-fullscreen-shortcut =
 pictureinpicture-seekbackward-btn =
     .aria-label = Geri sar
     .tooltip = Geri sar (←)
-
 pictureinpicture-seekforward-btn =
     .aria-label = İleri sar
     .tooltip = İleri sar (→)
@@ -74,13 +68,8 @@ pictureinpicture-seekforward-btn =
 # a screen reader whenever a user opens the subtitles settings panel
 # after selecting the subtitles button.
 pictureinpicture-subtitles-panel-accessible = Altyazı ayarları
-
 pictureinpicture-subtitles-label = Altyazı
-
 pictureinpicture-font-size-label = Yazı tipi boyutu
-
 pictureinpicture-font-size-small = Küçük
-
 pictureinpicture-font-size-medium = Orta
-
 pictureinpicture-font-size-large = Büyük

@@ -5,6 +5,8 @@
 label-disable = Gera óvirkt
 label-enable = Virkja
 label-interventions = Inngrip
+# Variables:
+#   $bug (string) - Bug number
 label-more-information = Frekari upplýsingar: Villa { $bug }
 label-overrides = Rétthærri kennistrengir (User Agent)
 text-disabled-in-about-config = Þessi eiginleiki hefur verið gerður óvirkur í about:config

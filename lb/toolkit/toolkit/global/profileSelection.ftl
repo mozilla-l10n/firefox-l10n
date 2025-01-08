@@ -4,7 +4,6 @@
 
 profile-selection-button-accept =
     .label = { -brand-short-name } starten
-
 profile-selection-button-cancel =
     .label = Verloossen
 

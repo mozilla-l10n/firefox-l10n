@@ -47,10 +47,10 @@ address-capture-edit-address-button =
 autofill-add-address-title = Ychwanegu cyfeiriad
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Golygu cyfeiriad
-autofill-address-name = Enw
 autofill-address-given-name = Enw Cyntaf
 autofill-address-additional-name = Enw Canol
 autofill-address-family-name = Enw Olaf
+autofill-address-name = Enw
 autofill-address-organization = Corff
 autofill-address-street-address = Cyfeiriad Stryd
 autofill-address-street = Cyfeiriad Stryd
@@ -103,9 +103,6 @@ autofill-address-postal-code = Cod Post
 autofill-address-zip = Cod Zip
 # Used in IE
 autofill-address-eircode = Eircode
-
-##
-
 
 ##
 

@@ -25,7 +25,6 @@ print-window =
     .title = Drécken
 print-complete =
     .value = Drécken ass ofgeschloss.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

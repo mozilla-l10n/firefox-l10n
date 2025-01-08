@@ -10,6 +10,8 @@ safeb-blocked-phishing-page-short-desc = { -brand-short-name } a blocat aqueste 
 safeb-blocked-malware-page-short-desc = { -brand-short-name } a blocat aquesta pagina, perque poiriá ensajar d’installar un logicial malvolent capable de raubar o suprimir de donadas personalas sus vòstre ordinator.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } a blocat aquesta pagina perque poiriá vos far installar de programas capables de nòser vòstra experiéncia de navegacion (per exemple en cambiant vòstra pagina d’acuèlh o en ajustant de publicitat suls sites que visitatz).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } a blocat aquesta pagina qu'auriá pogut installar d'aplicacions dangierosas capablas de raubar o suprimir vòstras donadas (per exemple, fotografias, senhals, messatges e cartas de crèdit).
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Avís emés per <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Retorn
 safeb-palm-see-details-label = Afichar los detalhs

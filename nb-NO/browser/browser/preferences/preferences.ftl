@@ -569,8 +569,7 @@ home-prefs-shortcuts-description = Nettsteder du lagrer eller besøker
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsede snarveier
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Anbefalt av { $provider }

@@ -5,13 +5,10 @@
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = টেবসমূহত সন্ধান কৰক
-
 all-tabs-menu-new-user-context =
     .label = নতুন কণ্টেইনাৰ টেব
-
 all-tabs-menu-hidden-tabs =
     .label = লুকুৱাই ৰখা টেবসমূহ
-
 all-tabs-menu-manage-user-context =
     .label = কণ্টেইনাৰ পৰিচালনা কৰক
     .accesskey = o

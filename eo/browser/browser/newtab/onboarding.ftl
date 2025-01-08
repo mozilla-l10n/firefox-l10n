@@ -432,3 +432,9 @@ onboarding-checklist-pin = Alpingli { -brand-short-name } al via Dock
 onboarding-checklist-import = Enporti el antaŭa retumilo
 onboarding-checklist-extension = Aldoni etendaĵon
 onboarding-checklist-sign-up = Registriĝu aŭ komencu seancon per via konto
+
+## Tab Groups feature onboarding strings
+
+
+## Multi Profiles feature onboarding messages
+

@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = செயலிழப்பு அறிக்கையாளர்
-crashreporter-crash-message = { -brand-short-name } இல் ஒரு சிக்கல் ஏற்பட்டு செயலிழந்துவிட்டது.
 crashreporter-plea = சிக்கலைக் கண்டறிந்து தீர்க்க எங்களுக்கு உதவும் வகையில் நீங்கள் ஒரு செயலிழப்பு அறிக்கையை எங்களுக்கு அனுப்பலாம்.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Details: { $details }

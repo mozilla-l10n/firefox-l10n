@@ -383,3 +383,11 @@ newtab-topic-label-travel = Beajiñ
 newtab-topic-selection-save-button = Enrollañ
 newtab-topic-selection-cancel-button = Nullañ
 newtab-topic-selection-button-maybe-later = Diwezhatoc’h marteze
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Confirmation modal for blocking a section
+

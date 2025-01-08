@@ -11,18 +11,20 @@ screenshots-copy-button = Tɨɨn
 screenshots-copy-button-tooltip = Tɨɨn captura pantalla nuu portapapeles
 screenshots-cancel-button-title =
     .title = Nkuvi-ka
-
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
        *[other] Ctrl
     }
 screenshots-notification-link-copied-title = Ntɨɨ enlace
-
 screenshots-notification-image-copied-title = Ntɨɨn captura
-
 screenshots-request-error-title = Fuera de orden.
 screenshots-request-error-details = ¡Nei koo ini-nu! Ntu nkuvi chuva'a captura noo'o. Nakei'i tuku kunuka.
-
 screenshots-generic-error-title = ¡Ey! { -screenshots-brand-name } jiko xini.
+
+## The below strings are used to capture keydown events so the strings should
+## not be changed unless the keyboard layout in the locale requires it.
+
+
+##
 

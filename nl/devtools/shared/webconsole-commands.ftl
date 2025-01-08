@@ -22,13 +22,3 @@ webconsole-commands-usage-unblock =
     Blokkeren van netwerkaanvragen stoppen
     
       Het accepteert slechts één argument, exact dezelfde tekenreeks die eerder aan :block is doorgegeven.
-# Usage string for :trace command
-webconsole-commands-usage-trace =
-    :trace
-    
-    Schakelt de JavaScript-tracer in of uit
-    
-      Het ondersteunt de volgende argumenten:
-        --logMethod moet worden ingesteld op ‘console’ voor loggen naar de webconsole (de standaard), of ‘stdout’ voor loggen naar de standaarduitvoer,
-        --prefix Optionele tekenreeks die vóór alle traceerlogboeken zal worden vastgelegd,
-        --help of --usage om dit bericht te tonen.

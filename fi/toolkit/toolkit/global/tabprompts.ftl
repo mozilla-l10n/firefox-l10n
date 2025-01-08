@@ -6,7 +6,6 @@ tabmodalprompt-username =
     .value = Käyttäjätunnus:
 tabmodalprompt-password =
     .value = Salasana:
-
 tabmodalprompt-ok-button =
     .label = OK
 tabmodalprompt-cancel-button =

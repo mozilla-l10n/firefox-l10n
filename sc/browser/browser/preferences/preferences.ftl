@@ -569,8 +569,7 @@ home-prefs-shortcuts-description = Sitos chi as sarvadu o bisitadu
 home-prefs-shortcuts-by-option-sponsored =
     .label = Curtzadòrgios patrotzinados
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Cussigiados dae { $provider }

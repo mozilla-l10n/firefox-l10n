@@ -11,7 +11,7 @@ about-telemetry-addon-details-section = Byvoegingbesonderhede
 about-telemetry-late-writes-section = Laat geskryf
 about-telemetry-full-sql-warning = LET WEL: Ontvouting van stadige SQL is geaktiveer. Volledige SQL-stringe word dalk hier onder vertoon, maar sal nie ingedien word aan Telemetry nie.
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Dié bladsy wys die inligting wat Telemetry versamel oor werkverrigting, hardeware, gebruik en aanpassings. Dié inligting word ingedien by { $telemetryServerOwner } om { -brand-full-name } te help verbeter.
 # button label to copy the histogram
 about-telemetry-histogram-copy = Kopieer
@@ -25,11 +25,11 @@ about-telemetry-slow-sql-statement = Stelling
 about-telemetry-addon-table-id = Byvoeging-ID
 about-telemetry-addon-table-details = Besonderhede
 # Variables:
-#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+#   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = { $addonProvider }-verskaffer
 about-telemetry-keys-header = Eienskap
 # Variables:
-#   $lateWriteCount (Integer): the number of the late writes
+#   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = Laat geskryf #{ $lateWriteCount }
 about-telemetry-stack-title = Stapel:
 about-telemetry-error-fetching-symbols = Simbole kon nie verkry word nie. Kontroleer die internetverbinding en probeer weer.

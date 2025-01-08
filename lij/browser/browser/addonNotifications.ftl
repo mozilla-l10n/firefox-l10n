@@ -39,7 +39,6 @@ xpinstall-disabled = L'instalaçion do software a l'é dizabilita. Sciacca Abili
 xpinstall-disabled-button =
     .label = Abilita
     .accesskey = A
-
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } azonto a { -brand-short-name }
@@ -53,7 +52,6 @@ webext-perms-update-menu-item = { $addonName } o l'à bezeugno de neuvi permissi
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = Scancelâ { $name } da { -brand-shorter-name }?
 addon-removal-button = Scancella
-
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -62,7 +60,6 @@ addon-downloading-and-verifying =
        *[other] Descaregamento e verifica { $addonCount } conp. azonti…
     }
 addon-download-verifying = Verifica in corso
-
 addon-install-cancel-button =
     .label = Anulla
     .accesskey = A

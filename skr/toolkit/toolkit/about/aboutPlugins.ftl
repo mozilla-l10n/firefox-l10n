@@ -6,8 +6,6 @@ title-label = پلگ انز دے متعلق
 installed-plugins-label = انسٹال تھئے پلگ انز
 no-plugins-are-installed-label = کوئی انسٹال تھئے پلگ انز نئیں لبھئے
 deprecation-description = کجھ یاد آندا پیا ہے؟ کجھ پلگ ان ہݨ تعاون یافتہ کائنی۔ <a data-l10n-name="deprecation-link">ودھیک ڄاݨو۔</a>
-deprecation-description2 =
-    .message = کجھ یاد آندا پیا ہے؟ کجھ پلگ ان ہݨ تعاون یافتہ کائنی۔
 
 ## The information of plugins
 ##

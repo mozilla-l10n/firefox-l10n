@@ -27,3 +27,7 @@ webext-perms-description-sessions = Kivu nuu pestañas skuata nnakasɨ nuu ka̱a
 webext-perms-description-tabs = Kivu nuu pestañas ka̱a̱ nánuku
 webext-perms-description-topSites = Kivu nuu sɨ´ɨ nsa´anu
 webext-perms-description-webNavigation = Kivu nuu satiñu ka̱a̱ nánuku saa nánukunu
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

@@ -3,12 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Note: This is currently placed under browser/base/content so that we can
-# get the strings to appear without having our localization community need
-# to go through and translate everything. Once these strings are ready for
-# translation, we'll move it to the locales folder.
-
-
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
@@ -27,7 +21,6 @@ webrtc-item-browser = ടാബ്
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = അപരിചിതമായ ഉറവിടം
-
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -69,7 +62,6 @@ webrtc-indicator-menuitem-control-sharing =
     .label = പങ്കിടല്‍ നിയന്ത്രിയ്ക്കുക
 webrtc-indicator-menuitem-control-sharing-on =
     .label = "{ $streamTitle }"-ല്‍ പങ്കിടല്‍ നിയന്ത്രിയ്ക്കുക
-
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = "{ $streamTitle }"-മായി ക്യാമറ പങ്കിടുന്നു
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -78,7 +70,6 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] { $tabCount } ടാബിനൊപ്പം ക്യാമറ പങ്കിടുന്നു
            *[other] { $tabCount } ടാബുകള്‍ക്കൊപ്പം ക്യാമറ പങ്കിടുന്നു
         }
-
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = "{ $streamTitle }"-മായി മൈക്രോഫോണ്‍ പങ്കിടുന്നു
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -87,7 +78,6 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] { $tabCount } ടാബിനൊപ്പം മൈക്രോഫോണ്‍ പങ്കിടുന്നു
            *[other] { $tabCount } ടാബുകള്‍ക്കൊപ്പം മൈക്രോഫോണ്‍ പങ്കിടുന്നു
         }
-
 webrtc-indicator-menuitem-sharing-application-with =
     .label = "{ $streamTitle }"-മായി ഒരു പ്രയോഗം പങ്കിടുന്നു
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -96,7 +86,6 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] { $tabCount } ടാബില്‍ ഒരു പ്രയോഗം പങ്കിടുന്നു
            *[other] { " " }{ $tabCount } ടാബുകളുമായി പ്രയോഗങ്ങള്‍ പങ്കിടുന്നു
         }
-
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = "{ $streamTitle }"-മായി സ്ക്രീന്‍ പങ്കിടുന്നു
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -105,7 +94,6 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] { $tabCount } ടാബിനൊപ്പം സ്ക്രീന്‍ പങ്കിടുന്നു
            *[other] { $tabCount } ടാബുകള്‍ക്കൊപ്പം സ്ക്രീന്‍ പങ്കിടുന്നു
         }
-
 webrtc-indicator-menuitem-sharing-window-with =
     .label = "{ $streamTitle }"-മായി ജാലകം പങ്കിടുന്നു
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -114,7 +102,6 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] { $tabCount } ടാബിനൊപ്പം ജാലകം പങ്കിടുന്നു
            *[other] { $tabCount } ടാബുകള്‍ക്കൊപ്പം ജാലകങ്ങള്‍ പങ്കിടുന്നു
         }
-
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = "{ $streamTitle }"-മായി ടാബ് പങ്കിടുന്നു
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -128,6 +115,9 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
+
+
+## Special phrasing for sharing devices when the origin is a file url.
 
 
 ## Variables:
@@ -160,7 +150,6 @@ webrtc-action-allow =
 ##
 
 webrtc-remember-allow-checkbox = ഈ തീരുമാനം ഓര്‍ത്തു്വയ്ക്കുക
-
 webrtc-reason-for-no-permanent-allow-screen = നിങ്ങളുടെ സ്ക്രീനിലേക്ക് ശാശ്വതമായ ആക്സസ്സ് { -brand-short-name } നു അനുവദിക്കാനാവില്ല.
 webrtc-reason-for-no-permanent-allow-audio = ഏതാണ് ടാബാണ് പങ്കിടുന്നത് എന്ന് ചോദിക്കാതെ { -brand-short-name } നു നിങ്ങളുടെ ടാബിന്റെ ഓഡിയോയിലേക്ക് ശാശ്വതമായ ആക്സസ്സ് അനുവദിക്കാനാവില്ല.
 webrtc-reason-for-no-permanent-allow-insecure = ഈ സൈറ്റിലേക്കുള്ള നിങ്ങളുടെ കണക്ഷൻ സുരക്ഷിതമല്ല. നിങ്ങളെ സംരക്ഷിക്കുന്നതിനായി, { -brand-short-name } ഈ സെഷനിലേക്കുള്ള പ്രവേശനം മാത്രമേ അനുവദിക്കുകയുള്ളൂ.

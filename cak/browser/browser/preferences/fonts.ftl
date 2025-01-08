@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Ruwäch tz'ib'
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Ruwäch tz'ib' richin
     .accesskey = R
-
 fonts-langgroup-arabic =
     .label = Aj Arabia
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Junamil
     .accesskey = J
-
 fonts-default-serif =
     .label = Seriw
 fonts-default-sans-serif =
     .label = Sans Serif
-
 fonts-proportional-size = Nimilem
     .accesskey = l
-
 fonts-serif = Seriw
     .accesskey = S
-
 fonts-sans-serif = Sans-serif
     .accesskey = n
-
 fonts-monospace = Rujukojol cholaj
     .accesskey = R
-
 fonts-monospace-size = Nimilem
     .accesskey = e
-
 fonts-minsize = Ko'öl runimilem tz'ib'
     .accesskey = o
-
 fonts-minsize-none =
     .label = Majun
-
 fonts-allow-own =
     .label = Tiya' q'ij chi ke ri taq ruxaq tikicha' ri ruwäch kitz'ib', pa ruk'exel ri jun rucha'oj kan
     .accesskey = T
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

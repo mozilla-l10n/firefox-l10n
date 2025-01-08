@@ -43,3 +43,6 @@ sync-setup-verify-heading = Continuâ cu l'acès par sincronizâ?
 # Variables:
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Un altri utent al è jentrât prime par sincronizâsi su chest computer. Jentrant a vignaran unîts i segnelibris, lis passwords e altris impostazions di chest navigadôr cun { $email }
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+

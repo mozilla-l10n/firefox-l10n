@@ -10,6 +10,8 @@ safeb-blocked-phishing-page-short-desc = { -brand-short-name } esti tämän sivu
 safeb-blocked-malware-page-short-desc = { -brand-short-name } esti tämän sivun, koska se yritti asentaa haittaohjelmaa, joka voi varastaa tai poistaa tietokoneellasi olevia tietoja.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } esti tämän sivun, koska se saattaa huijata sinut asentamaan ohjelmia, jotka voivat haitata verkon selaamista, esimerkiksi vaihtamalla aloitussivun tai näyttämällä ylimääräisiä mainoksia vierailemillasi sivustoilla.
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } esti tämän sivun, koska se saattaa yrittää asentaa vaarallisia ohjelmia, jotka varastavat tai poistavat tietoja, esimerkiksi kuvia, salasanoja, viestejä ja luottokorttitietoja.
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Varoituksen antoi <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Takaisin
 safeb-palm-see-details-label = Näytä yksityiskohdat

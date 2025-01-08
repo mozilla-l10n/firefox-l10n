@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = ཡིག་གཟུགས
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = ཡིག་གཟུགས
     .accesskey = F
-
 fonts-langgroup-arabic =
     .label = ཨ་རབ་སྐད
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = འོས་སྒྲིག་གི་ཆ་ཚད
     .accesskey = P
-
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
-
 fonts-proportional-size = ཆེ་ཆུང
     .accesskey = z
-
 fonts-serif = Serif
     .accesskey = S
-
 fonts-sans-serif = Sans Serif
     .accesskey = n
-
 fonts-monospace = Monospace
     .accesskey = M
-
 fonts-monospace-size = ཆེ་ཆུང
     .accesskey = e
-
 fonts-minsize = ཡིག་གཟུགས་ཀྱི་ཆ་ཚད་ཆུང་ཤོས
     .accesskey = o
-
 fonts-minsize-none =
     .label = མེད་པ
-
 fonts-allow-own =
     .label = དྲ་ངོས་སོ་སོས་རང་འགུལ་གྱིས་བདམས་ཆོག་པ། གོང་གི་གདམ་སེལ་བེད་སྤྱོད་མི་བྱེད།
     .accesskey = A
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

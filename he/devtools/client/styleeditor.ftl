@@ -39,7 +39,6 @@ styleeditor-go-to-line =
     .accesskey = ק
 # Label displayed when searching a term that is not found in any stylesheet path
 styleeditor-stylesheet-all-filtered = לא נמצא גיליון סגנונות תואם.
-
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.

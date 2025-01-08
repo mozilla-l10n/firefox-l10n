@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = کریش رپورٹر
-crashreporter-crash-message = { -brand-short-name } کو کچھ مسلہ تھا اور کریش کر گیؑ۔
 crashreporter-plea = ہمیں تشخیص اور مسئلہ کو حل کرنے میں مدد کرنے کے لئے، آپ ہمیں حادثے کی رپورٹ بھیج سکتے ہیں.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = تفاصیل: { $details }

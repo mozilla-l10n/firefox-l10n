@@ -15,4 +15,3 @@ devmgr-header-value =
 
 devinfo-desc =
     .label = Description
-

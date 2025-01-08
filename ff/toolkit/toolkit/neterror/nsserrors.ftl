@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -9,13 +10,11 @@
 
 psmerr-ssl-disabled = Waawaa seŋaade e kisal sabu jaɓɓitorde SSL ndee ko daaƴaande.
 psmerr-ssl2-disabled = Waawaa seŋaade e kisal sabu ndee lowre huutortoo ko yamre ɓooynde, nde hisaani jaɓɓitorde SSL ndee.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Keɓ-ɗaa ko seedamfaagu ngu moƴƴaani.  Tiiɗno jokkondir e jiiloowo sarworde oo walla jokkondiral iimeel oo ngam hokkude-ɓe ngoo humpito:
     
     Seedamfaagu maajogii ko tonngoode degginol nandugole seedamfaagu ngonɗngu ngu kohowo seedamfaagu bayyini.  Tiiɗno heɓ seedamfaagu kesu njogiingu tonngoode degginol gootol.
-
 ssl-error-export-only-server = Waawaa jokkondireede e kisal. Peer tammbaaki gangol dowrowol.
 ssl-error-us-only-server = Waawaa jokkondireede e kisal. Peer ina ɗaɓɓi gangol dowrowol ngol tammbaaka ɗoo.
 ssl-error-no-cypher-overlap = Waawaa jokkondirde Peer nder kisal: alaa algoritma goowaaɗo woni ɗoo.
@@ -152,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = Alaa algoritma siifannde TLS tammba
 ssl-error-unsupported-signature-algorithm = Peer oo huutorii ko nawdugol ngol tambmbaaka siifannde e algoritma hashgol.
 ssl-error-missing-extended-master-secret = Peer etiima ɓamtude ko aldaa e jokkel moƴƴel extended_master_secret.
 ssl-error-unexpected-extended-master-secret = Peer etiima ɓamtude wondude e jokkel moƴƴel extended_master_secret.
-
 sec-error-io = Juumre I/O kewii tuma jamirgol kisal.
 sec-error-library-failure = juumre faawru kisal.
 sec-error-bad-data = faawru kisal: keɓe ɗe moƴƴaani keɓaama.
@@ -319,7 +317,6 @@ sec-error-locked-password = Finnde ndee ko sokaande.
 sec-error-unknown-pkcs11-error = Juumre PKCS #11nde anndaaka.
 sec-error-bad-crl-dp-url = URL mo moƴƴaani walla tammbaaka e nokku dokkirgol CRL.
 sec-error-cert-signature-algorithm-disabled = Sartifikaa kaa siifiraa ko algoritma ciifgol ñifaaɗo sibu hisnaaka.
-
 mozilla-pkix-error-key-pinning-failure = Carwo oo huutorii ko ɗisgol coktirɗe (HPKP) kono alaa callalal sartifikaaji koolningal waawi maheede ngam tolnondirde e pins ɗee. Luutndagol cokgol coktirɗe ɗee lomtintaako.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Carwo oo huutorii sartifikaa baɗɗo jokkel baawne leslese kollirooje omo jogii mbaawka yaltinde sartifikaaji. Wonaa noon fotnoo wonde wonande sartifikaa jaltirɗo laawol.
 mozilla-pkix-error-inadequate-key-size = Carwo oo hollitii sartifikaa ka coktiragal pamaral no feewi ngam seŋol kisnangol.
@@ -333,11 +330,9 @@ mozilla-pkix-error-required-tls-feature-missing = Gollirgel TLS katojinangal ina
 mozilla-pkix-error-invalid-integer-encoding = Carwo oo hollitii sartifikaa baɗɗo kodgol limre timmunde ngol moƴƴaani. Sababuuji gaadoraaɗi ina mbaɗa tonngooɗe callalal uste, gulle RSA uste kam e kode ɓurɗe ko soklaa koo juutde.
 mozilla-pkix-error-empty-issuer-name = Carwo oo hollitii sartifikaa baɗɗo innde seerndirde jaltinoowo mehre.
 mozilla-pkix-error-self-signed-cert = Seedamfaagu nguu hoolaaka sabu ko siifnde hoore mayre.
-
 xp-java-remove-principal-error = Waawaa momtude dowrowel ngel
 xp-java-delete-privilege-error = Waawaa momtude ɓurnaari ndii
 xp-java-cert-not-exists-error = Dowrowel ngel waawaa jogaade sartifikaa
-
 xp-sec-fortezza-bad-card = Kartal Fortezza hurminiraaka no moƴƴi. Ittu ngal neltiraa ngal peewnunooɗo oo.
 xp-sec-fortezza-no-card = Karat Fortezza yiytaaka
 xp-sec-fortezza-none-selected = Alaa kartal Fortezza suɓaa

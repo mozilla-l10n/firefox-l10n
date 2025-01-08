@@ -5,6 +5,8 @@
 label-disable = Vô hiệu hóa
 label-enable = Kích hoạt
 label-interventions = Can thiệp
+# Variables:
+#   $bug (string) - Bug number
 label-more-information = Thông tin chi tiết: Lỗi { $bug }
 label-overrides = Ghi đè chuỗi đại diện người dùng
 text-disabled-in-about-config = Tính năng này đã bị vô hiệu hóa trong about:config

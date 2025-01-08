@@ -5,6 +5,8 @@
 url-classifier-title = פרטי מסווג כתובות
 url-classifier-search-title = חיפוש
 url-classifier-search-result-title = תוצאות
+# Variables:
+#   $list (string) - List of tables where the page is blocked
 url-classifier-search-result-list = רשימת טבלאות: { $list }
 url-classifier-search-input = כתובת
 url-classifier-search-error-invalid-url = כתובת לא תקנית
@@ -39,7 +41,6 @@ url-classifier-debug-sb-modules = מודולי רישום לגלישה בטוח�
 url-classifier-debug-modules = המודולים הנוכחיים לרישום
 url-classifier-debug-sbjs-modules = רישום JS לגלישה בטוחה
 url-classifier-debug-file = קובץ הרישום הנוכחי
-
 url-classifier-trigger-update = בקשת עדכון
 url-classifier-not-available = לא זמין
 url-classifier-disable-sbjs-log = נטרול רישום JS לגלישה בטוחה

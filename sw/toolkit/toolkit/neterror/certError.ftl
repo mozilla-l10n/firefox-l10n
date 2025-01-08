@@ -3,16 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # Variables:
-# $hostname (String) - Hostname of the website with cert error.
+#   $hostname (string) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } inatumia cheti batili cha usalama
-
 cert-error-trust-unknown-issuer-intro = Mtu anaweza kuwa anajaribu kuiga tovuti na haufai kuendelea.
 
 ## Messages used for certificate error titles
 
 connectionFailure-title = Imeshindwa kuunganisha
 deniedPortAccess-title = Anwani hii imezuiliwa
-
 fileNotFound-title = Faili haipatikani
 generic-title = Lo.
 netInterrupt-title = Muunganisho ulisitishwa
@@ -28,3 +26,10 @@ proxyResolveFailure-title = Imeshindwa kupata seva mbadala
 redirectLoop-title = Ukurasa huu hauelekezi tena vizuri
 unknownSocketType-title = Mwitikio usiotarajiwa kutoka kwa seva
 corruptedContentError-title = Kosa la Kuharibika kwa Maudhui
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+

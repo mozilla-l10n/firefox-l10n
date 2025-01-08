@@ -556,8 +556,7 @@ home-prefs-shortcuts-description = Sitios gardados ou visitados
 home-prefs-shortcuts-by-option-sponsored =
     .label = Atallos patrocinados
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Recomendado por { $provider }

@@ -6,3 +6,6 @@ alert-close =
     .tooltiptext = ఈ గమనింపుని మూసివేయి
 alert-settings-title =
     .tooltiptext = అమరికలు
+
+## Reminder Notifications
+

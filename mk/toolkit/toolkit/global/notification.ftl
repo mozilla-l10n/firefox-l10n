@@ -4,6 +4,5 @@
 
 notification-learnmore-default-label =
     .value = Дознајте повеќе
-
 close-notification-message =
     .tooltiptext = Затвори ја оваа порака

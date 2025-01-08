@@ -18,8 +18,6 @@ abuse-report-addon-authored-by = 제작: <a data-l10n-name="author-name">{ $auth
 abuse-report-learnmore =
     어떤 걸 선택해야 할지 잘 모르시겠습니까?
     <a data-l10n-name="learnmore-link">확장 기능 및 테마의 신고에 대해 더 알아보기</a>
-abuse-report-learnmore-intro = 어떤 걸 선택해야 할지 잘 모르시겠습니까?
-abuse-report-learnmore-link = 확장 기능 및 테마의 신고에 대해 더 알아보기
 abuse-report-submit-description = 문제를 설명해 주세요 (선택 사항)
 abuse-report-textarea =
     .placeholder = 구체적인 사항이 있으면 문제를 해결하는 것이 더 쉬워집니다. 지금 어떤 상황인지 설명해 주세요. 웹을 건강하게 유지하도록 도와 주셔서 감사합니다.
@@ -48,24 +46,6 @@ abuse-report-messagebar-removed-sitepermission = 신고해 주셔서 감사합�
 abuse-report-messagebar-removed-theme = 신고해 주셔서 감사합니다. <span data-l10n-name="addon-name">{ $addon-name }</span> 테마를 제거했습니다.
 abuse-report-messagebar-error = <span data-l10n-name="addon-name">{ $addon-name }</span>에 대한 신고를 보내는 중에 오류가 발생했습니다.
 abuse-report-messagebar-error-recent-submit = 최근 다른 신고가 제출되었으므로 <span data-l10n-name="addon-name">{ $addon-name }</span>에 대한 신고를 보내지 않았습니다.
-abuse-report-messagebar-aborted2 =
-    .message = { $addon-name }에 대한 신고가 취소되었습니다.
-abuse-report-messagebar-submitting2 =
-    .message = { $addon-name }에 대한 신고를 보내는 중입니다.
-abuse-report-messagebar-submitted2 =
-    .message = 신고해 주셔서 감사합니다. { $addon-name } 부가 기능을 제거하시겠습니까?
-abuse-report-messagebar-submitted-noremove2 =
-    .message = 보고서를 제출해 주셔서 감사합니다.
-abuse-report-messagebar-removed-extension2 =
-    .message = 신고해 주셔서 감사합니다. { $addon-name } 확장 기능을 제거했습니다.
-abuse-report-messagebar-removed-sitepermission2 =
-    .message = 신고해 주셔서 감사합니다. { $addon-name } 사이트 권한 부가 기능을 제거했습니다.
-abuse-report-messagebar-removed-theme2 =
-    .message = 신고해 주셔서 감사합니다. { $addon-name } 테마를 제거했습니다.
-abuse-report-messagebar-error2 =
-    .message = { $addon-name }에 대한 신고를 보내는 중에 오류가 발생했습니다.
-abuse-report-messagebar-error-recent-submit2 =
-    .message = 최근 다른 신고가 제출되었으므로 { $addon-name }에 대한 신고를 보내지 않았습니다.
 
 ## Message bars actions.
 

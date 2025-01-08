@@ -9,7 +9,6 @@ about-service-workers-title = Zerbitzu-langileei buruz
 about-service-workers-main-title = Erregistratutako zerbitzu-langileak
 about-service-workers-warning-not-enabled = Zerbitzu-langileak ez daude gaituta.
 about-service-workers-warning-no-service-workers = Ez da zerbitzu-langilerik erregistratu.
-
 # The original title of service workers' information
 #
 # Variables:
@@ -29,12 +28,8 @@ active-cache-name = <strong>Cache aktiboaren izena:</strong> { $name }
 waiting-cache-name = <strong>Zain dagoen cachearen izena:</strong> { $name }
 push-end-point-waiting = <strong>Push amaiera-puntua:</strong> { waiting }
 push-end-point-result = <strong>Push amaiera-puntua:</strong> { $name }
-
 # This term is used as a button label (verb, not noun).
 update-button = Eguneratu
-
 unregister-button = Kendu erregistroa
-
 unregister-error = Huts egin du zerbitzu-langile hau erregistrotik kentzean.
-
 waiting = Itxaroten…

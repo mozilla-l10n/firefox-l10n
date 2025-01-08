@@ -37,7 +37,6 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Ara no
     .secondarybuttonaccesskey = n
 appmenu-update-other-instance-message = Hi ha disponible una actualització del { -brand-shorter-name }, però no es pot instal·lar perquè hi ha una altra còpia del { -brand-shorter-name } en execució. Tanqueu-la per a continuar l'actualització, o trieu actualitzar-la igualment (és possible que l'altra còpia no funcione correctament fins que no la reinicieu).
-
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = D'acord
     .buttonaccesskey = D
@@ -45,7 +44,6 @@ appmenu-addon-post-install-message3 = Gestioneu els vostres complements i temes 
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permet que esta extensió s'execute en finestres privades
     .accesskey = P
-    
 appmenu-new-tab-controlled-changes =
     .label = La pàgina de «Pestanya nova» ha canviat.
     .buttonlabel = Mantén els canvis

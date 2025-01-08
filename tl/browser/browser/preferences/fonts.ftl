@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Mga font
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Mga font para sa
     .accesskey = F
-
 fonts-langgroup-arabic =
     .label = Arabo
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporsyonal
     .accesskey = P
-
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
-
 fonts-proportional-size = Sukat
     .accesskey = z
-
 fonts-serif = Serif
     .accesskey = S
-
 fonts-sans-serif = Sans-serif
     .accesskey = n
-
 fonts-monospace = Monospace
     .accesskey = M
-
 fonts-monospace-size = Sukat
     .accesskey = e
-
 fonts-minsize = Minimum na laki ng font
     .accesskey = o
-
 fonts-minsize-none =
     .label = Wala
-
 fonts-allow-own =
     .label = Payagan ang mga pahina na pumili ng kanilang sariling mga font, sa halip ng iyong mga pinili sa itaas
     .accesskey = A
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

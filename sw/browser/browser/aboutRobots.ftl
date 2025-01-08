@@ -25,5 +25,6 @@ error-long-desc4 = Roboti wana miondoko ya mabati yanayong'ara ambayo haifai kuh
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = Na wana mpango.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = Jaribu Tena
     .label2 = Tafadhali usibonyeze kichupo hiki tena.

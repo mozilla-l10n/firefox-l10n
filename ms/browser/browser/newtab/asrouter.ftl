@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## These messages are used as headings in the recommendation doorhanger
 
 cfr-doorhanger-extension-heading = Ekstensi Disyorkan
@@ -10,26 +11,19 @@ cfr-doorhanger-extension-heading = Ekstensi Disyorkan
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Kenapa saya lihat ini
-
 cfr-doorhanger-extension-cancel-button = Bukan Sekarang
     .accesskey = S
-
 cfr-doorhanger-extension-ok-button = Tambah Sekarang
     .accesskey = T
-
 cfr-doorhanger-extension-manage-settings-button = Urus Tetapan Rekomendasi
     .accesskey = U
-
 cfr-doorhanger-extension-never-show-recommendation = Jangan Papar Rekomendasi ini
     .accesskey = J
-
 cfr-doorhanger-extension-learn-more-link = Ketahui selanjutnya
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = oleh { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Saranan
@@ -52,56 +46,23 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } pengguna
     }
 
-## These messages are steps on how to use the feature and are shown together.
-
-
 ## Firefox Accounts Message
+
 
 ## Protections panel
 
+
 ## What's New toolbar button and panel
 
-## Search Bar
-
-## Picture-in-Picture
-
-## Permission Prompt
-
-## Fingerprinter Counter
-
-## Bookmark Sync
-
-## Login Sync
-
-## Send Tab
-
-## Firefox Send
-
-## Social Tracking Protection
 
 ## Enhanced Tracking Protection Milestones
 
-## What’s New Panel Content for Firefox 76
-
-## Lockwise message
-
-## Vulnerable Passwords message
-
-## Picture-in-Picture fullscreen message
-
-## Protections Dashboard message
-
-## Better PDF message
 
 ## DOH Message
 
-## What's new: Cookies message
-
-## Fission Experiment Message
 
 ## Full Video Support CFR message
 
-## Spotlight modal shared strings
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -109,9 +70,9 @@ cfr-doorhanger-extension-total-users =
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
-## Total Cookie Protection Rollout
 
 ## Emotive Continuous Onboarding
+
 
 ## MR2022 Background Update Windows native toast notification strings.
 ##
@@ -126,19 +87,52 @@ cfr-doorhanger-extension-total-users =
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+
 ## Firefox View CFR
+
 
 ## Firefox View Spotlight
 
+
 ## Colorways expiry reminder CFR
+
 
 ## Cookie Banner Handling CFR
 
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
+
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+
 ## FxA sync CFR
 
+
 ## Device Migration FxA Spotlight
+
+
+## Set as Default PDF Reader Infobar
+
+
+## Launch on login infobar notification
+
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+
+## Tail Fox Set Default Spotlight
+
+
+## Root Certificate Succession Infobar
+
+
+## Root Certificate Succession Windows Background Notification
+
+
+## FxA Menu Message variants
+
+
+## Multi-CTA Fox Doodle Spotlight
 

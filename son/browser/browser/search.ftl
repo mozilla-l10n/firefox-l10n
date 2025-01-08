@@ -10,7 +10,6 @@
 
 opensearch-error-duplicate-title = Sinji firka
 opensearch-error-duplicate-desc = { -brand-short-name } mana hin ka ceeci sukaroo sinji ka hun "{ $location-url }" do zama maršin foo nda maa follokaa ga bara ne.
-
 opensearch-error-download-title = Zumandi firka
 opensearch-error-download-desc = { -brand-short-name } mana hin ka ceeci sukaroo zumandi ka hun: { $location-url } do
 
@@ -23,4 +22,9 @@ searchbar-submit =
 ## Variables
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
+
+
+## Infobar shown when user is prompted to install search engine.
+## Variables
+## $engineName (String) - the name of the search engine to install.
 

@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Gehitu etiketak
-
 pocket-panel-saved-error-generic = Errorea gertatu da { -pocket-brand-name }-en gordetzen saiatzean.
 pocket-panel-saved-error-tag-length = Etiketak 25 karakterera daude mugatuta
 pocket-panel-saved-error-only-links = Loturak gorde daitezke soilik
@@ -29,7 +28,6 @@ pocket-panel-saved-save-tags = Gorde
 pocket-panel-saved-saving-tags = Gordetzen…
 pocket-panel-saved-suggested-tags = Iradokitako etiketak
 pocket-panel-saved-tags-saved = Etiketak gehituta
-
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Gehitu etiketak:
 
@@ -44,7 +42,6 @@ pocket-panel-signup-signup-firefox = Eman izena { -brand-product-name }ekin
 pocket-panel-signup-tagline = Gorde { -brand-product-name }etik artikuluak eta bideoak edozein gailutan { -pocket-brand-name }-en ikusteko, noiznahi.
 pocket-panel-signup-tagline-story-one = Egin klik { -pocket-brand-name } botoian { -brand-product-name }etik edozein artikulu, bideo edo orri gordetzeko.
 pocket-panel-signup-tagline-story-two = Ikusi edozein gailutan { -pocket-brand-name }-en, noiznahi.
-
 pocket-panel-signup-cta-a-fix = Internet gordetzeko zure botoia
 pocket-panel-signup-cta-b-updated = Egin klik { -pocket-brand-name } botoian artikuluak, bideoak eta loturak gordetzeko. Ikusi gordetakoak edonon, edonoiz.
 pocket-panel-signup-cta-b-short = Egin klik { -pocket-brand-name } botoian artikuluak, bideoak eta loturak gordetzeko.
@@ -57,7 +54,6 @@ pocket-panel-home-paragraph = { -pocket-brand-name } erabil dezakezu webguneak, 
 pocket-panel-home-explore-popular-topics = Arakatu puri-purian dauden gaiak
 pocket-panel-home-discover-more = Aurkitu gehiago
 pocket-panel-home-explore-more = Arakatu
-
 pocket-panel-home-most-recent-saves = Hona hemen gorde dituzun azkenak:
 pocket-panel-home-most-recent-saves-loading = Gordetako azkenak kargatzen…
 pocket-panel-home-new-user-cta = Egin klik { -pocket-brand-name } botoian artikuluak, bideoak eta loturak gordetzeko.

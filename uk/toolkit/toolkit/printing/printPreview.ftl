@@ -38,7 +38,6 @@ printpreview-page-setup =
 printpreview-page =
     .value = Сторінка:
     .accesskey = С
-
 # Variables
 # $sheetNum (integer) - The current sheet number
 # $sheetCount (integer) - The total number of sheets to print
@@ -62,7 +61,6 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Остання сторінка
-
 printpreview-homearrow-button =
     .title = Перша сторінка
 printpreview-previousarrow-button =

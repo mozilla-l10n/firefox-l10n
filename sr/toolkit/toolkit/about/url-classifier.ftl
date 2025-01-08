@@ -5,7 +5,11 @@
 url-classifier-title = URL класификатор информација
 url-classifier-search-title = Тражи
 url-classifier-search-result-title = Резултати
+# Variables:
+#   $uri (string) - URI of blocked page
 url-classifier-search-result-uri = URI: { $uri }
+# Variables:
+#   $list (string) - List of tables where the page is blocked
 url-classifier-search-result-list = Листа табела: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = Неважећи URL
@@ -40,7 +44,6 @@ url-classifier-debug-sb-modules = Модули записника безбедн
 url-classifier-debug-modules = Тренутни модули записника
 url-classifier-debug-sbjs-modules = JS запис безбедног прегледања
 url-classifier-debug-file = Тренутни запис података
-
 url-classifier-trigger-update = Покрени ажурирање
 url-classifier-not-available = N/A
 url-classifier-disable-sbjs-log = Онемогући JS запис безбедног прегледања

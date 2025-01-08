@@ -9,10 +9,13 @@ update-checkForUpdatesButton =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
+
 ##
+
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
 
 ##
 

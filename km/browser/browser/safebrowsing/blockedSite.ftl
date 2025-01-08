@@ -6,6 +6,8 @@ safeb-blocked-phishing-page-title = គេហទំព័រ​បញ្ឆោ�
 safeb-blocked-malware-page-title = ការទស្សនាវិបសាយនេះ​​អាច​អាម​ឃាត់​កុំព្យូទ័រ​របស់​អ្នក
 safeb-blocked-unwanted-page-title = វិបសាយ​ខាង​មុខ​អាច​មានកម្មវិធីបង្កគ្រោះថ្នាក់
 safeb-blocked-harmful-page-title = វិបសាយ​​ខាង​មុខ​អាច​មាន​ផ្ទុក​មេរោគ
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = សេចក្ដីណែនាំដោយ <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>។
 safeb-palm-accept-label = ថយ​ក្រោយ
 safeb-palm-see-details-label = មើលព័ត៌មានលម្អិត
@@ -13,20 +15,27 @@ safeb-palm-see-details-label = មើលព័ត៌មានលម្អិត
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
+
 ##
+
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
+
 ##
+
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
+
 ##
+
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
+
 
 ##
 

@@ -12,26 +12,19 @@ cfr-doorhanger-feature-heading = Lochb'al aq'on uva' la chit txakoni
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Kam q'ii ni kuxh vil uk vaa'
-
 cfr-doorhanger-extension-cancel-button = Jit Cheel
     .accesskey = J
-
 cfr-doorhanger-extension-ok-button = Aq'o'k cheel
     .accesskey = A
-
 cfr-doorhanger-extension-manage-settings-button = Taq'omal unq'a ib'anax tuche' uve' ni taltziile'
     .accesskey = T
-
 cfr-doorhanger-extension-never-show-recommendation = Ye' Nunsaa' la K'uchpu vaa' svej uva' ni taltziile'
     .accesskey = K
-
 cfr-doorhanger-extension-learn-more-link = Ootzi ka'te
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = Ta'n { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Uve ni taltziile'.
@@ -56,9 +49,6 @@ cfr-doorhanger-extension-total-users =
        *[other] Xo'l b'anb'en tetz
     }
 
-## These messages are steps on how to use the feature and are shown together.
-
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = B'an eela vatz  unq'a marcadore' ye kuxh eetza   tikat atkat.
@@ -79,56 +69,16 @@ cfr-protections-panel-link-text = Ootzi ka'te
 cfr-whatsnew-button =
     .label = Kam ak' at ve'te'
     .tooltiptext = Kam ak' at ve'te'
-
 cfr-whatsnew-release-notes-link-text = Sik'le unq'a yole' at ti' unq'a vee' ni telch'u'l
-
-## Search Bar
-
-
-## Picture-in-Picture
-
-## Permission Prompt
-
-## Fingerprinter Counter
-
-
-## Bookmark Sync
-
-## Login Sync
-
-## Send Tab
-
-## Firefox Send
-
-## Social Tracking Protection
 
 ## Enhanced Tracking Protection Milestones
 
 
-## What’s New Panel Content for Firefox 76
-
-
-## Lockwise message
-
-
-## Vulnerable Passwords message
-
-
-## Picture-in-Picture fullscreen message
-
-## Protections Dashboard message
-
-## Better PDF message
-
 ## DOH Message
 
-## What's new: Cookies message
-
-## Fission Experiment Message
 
 ## Full Video Support CFR message
 
-## Spotlight modal shared strings
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -136,9 +86,9 @@ cfr-whatsnew-release-notes-link-text = Sik'le unq'a yole' at ti' unq'a vee' ni t
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
-## Total Cookie Protection Rollout
 
 ## Emotive Continuous Onboarding
+
 
 ## MR2022 Background Update Windows native toast notification strings.
 ##
@@ -153,19 +103,52 @@ cfr-whatsnew-release-notes-link-text = Sik'le unq'a yole' at ti' unq'a vee' ni t
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+
 ## Firefox View CFR
+
 
 ## Firefox View Spotlight
 
+
 ## Colorways expiry reminder CFR
+
 
 ## Cookie Banner Handling CFR
 
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
+
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+
 ## FxA sync CFR
 
+
 ## Device Migration FxA Spotlight
+
+
+## Set as Default PDF Reader Infobar
+
+
+## Launch on login infobar notification
+
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+
+## Tail Fox Set Default Spotlight
+
+
+## Root Certificate Succession Infobar
+
+
+## Root Certificate Succession Windows Background Notification
+
+
+## FxA Menu Message variants
+
+
+## Multi-CTA Fox Doodle Spotlight
 

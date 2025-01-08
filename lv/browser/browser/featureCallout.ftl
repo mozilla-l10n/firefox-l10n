@@ -43,3 +43,15 @@ callout-pdfjs-draw-body-a = Marķējiet PDF datnes un pēc tam saglabājiet izma
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
 callout-pdfjs-draw-body-b = Vairs nekādas drukāšanas un skenēšanas. Marķējiet PDF datnes un pēc tam saglabājiet izmaiņas.
 callout-pdfjs-draw-button = Viss skaidrs!
+
+## Firefox View Discoverability Strings
+
+
+## Split Dismiss Button Labels
+
+
+## Sidebar Strings
+
+
+## Sidebar Callout Survey Strings
+

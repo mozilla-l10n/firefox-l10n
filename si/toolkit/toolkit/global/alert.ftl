@@ -6,3 +6,6 @@ alert-close =
     .tooltiptext = මෙම දැනුම්දීම වසන්න
 alert-settings-title =
     .tooltiptext = සැකසුම්
+
+## Reminder Notifications
+

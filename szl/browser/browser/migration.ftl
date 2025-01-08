@@ -4,13 +4,11 @@
 
 migration-wizard =
     .title = Pōmager importowanio
-
 import-from =
     { PLATFORM() ->
         [windows] Importuj ôpcyje, zokłodki, historyjo, hasła i inksze dane ze:
        *[other] Importuj preferyncyje, zokłodki, historyjo, hasła i inksze dane ze:
     }
-
 import-from-bookmarks = Importuj zokłodki ze:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -54,34 +52,21 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
-
 no-migration-sources = Niy szło znojś żodnych programōw ze zokłodkami, historyjōm abo hasłami.
-
 import-source-page-title = Importuj nasztalowania i dane
 import-items-page-title = Elymynta do importowanio
-
 import-items-description = Ôbier, jakie elymynta chcesz importować:
-
 import-permissions-page-title = Dej zgoda aplikacyji { -brand-short-name }
-
 import-migrating-page-title = Import…
-
 import-migrating-description = Te elymynta sōm prawie importowane…
-
 import-select-profile-page-title = Ôbier profil
-
 import-select-profile-description = Te profile idzie importować:
-
 import-done-page-title = Import je skōńczōny
-
 import-done-description = Import tych elymyntōw sie podarził:
-
 import-close-source-browser = Podwiela pudziesz dalij, dej pozōr, jeźli ôbrano przeglōndarka je zawarto.
-
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-chrome = Google Chrome
-
 imported-safari-reading-list = Wykoz do czytanio (ze Safari)
 imported-edge-reading-list = Wykoz do czytanio (z Edge)
 
@@ -103,7 +88,6 @@ browser-data-cookies-checkbox =
     .label = Cookies
 browser-data-cookies-label =
     .value = Cookies
-
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -116,12 +100,10 @@ browser-data-history-label =
             [firefox] Historyjo przeglōndanio i zokłodki
            *[other] Historyjo przeglōndanio
         }
-
 browser-data-formdata-checkbox =
     .label = Spamiyntane formulary
 browser-data-formdata-label =
     .value = Spamiyntane formulary
-
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -130,7 +112,6 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Spamiyntane dane logowanio i hasła
-
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -145,14 +126,11 @@ browser-data-bookmarks-label =
             [edge] Ôblubiōne
            *[other] Zokłodki
         }
-
 browser-data-otherdata-checkbox =
     .label = Inksze dane
 browser-data-otherdata-label =
     .label = Inksze dane
-
 browser-data-session-checkbox =
     .label = Ôkna i karty
 browser-data-session-label =
     .value = Ôkna i karty
-

@@ -6,7 +6,6 @@ tabmodalprompt-username =
     .value = استیمال كرن وۄل سُند ناو:
 tabmodalprompt-password =
     .value = خفیہ لفظ
-
 tabmodalprompt-ok-button =
     .label = OK
 tabmodalprompt-cancel-button =

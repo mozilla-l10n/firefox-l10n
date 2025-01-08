@@ -12,35 +12,29 @@ cfr-doorhanger-feature-heading = Recommendit Featur
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Whit fur am I seein this
-
 cfr-doorhanger-extension-cancel-button = No Jist Noo
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = Eik On Noo
     .accesskey = E
-
 cfr-doorhanger-extension-manage-settings-button = Manage Recommendation Settins
     .accesskey = M
-
 cfr-doorhanger-extension-never-show-recommendation = Dinnae Kythe This Recommendation
     .accesskey = S
-
 cfr-doorhanger-extension-learn-more-link = Lairn mair
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = by { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recommendation
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Recommendation
     .tooltiptext = Extension recommendation
     .a11y-announcement = Extension recommendation redd
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Recommendation
     .tooltiptext = Featur recommendation
     .a11y-announcement = Featur recommendation redd
@@ -85,11 +79,9 @@ cfr-protections-panel-link-text = Lairn mair
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = New featur:
-
 cfr-whatsnew-button =
     .label = Whit's New
     .tooltiptext = Whit's New
-
 cfr-whatsnew-release-notes-link-text = Read the roll-oot notes
 
 ## Enhanced Tracking Protection Milestones
@@ -115,16 +107,12 @@ cfr-doorhanger-doh-primary-button-2 = Awricht
 cfr-doorhanger-doh-secondary-button = Disable
     .accesskey = D
 
-## Fission Experiment Message
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Videos on this site micht no wirk richt on this version o { -brand-short-name }. Fur full video support, update { -brand-short-name } noo.
 cfr-doorhanger-video-support-header = Update { -brand-short-name } fur tae pley video
 cfr-doorhanger-video-support-primary-button = Update Noo
     .accesskey = U
-
-## Spotlight modal shared strings
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -140,9 +128,8 @@ spotlight-public-wifi-vpn-primary-button = Stey private wi { -mozilla-vpn-brand-
 spotlight-public-wifi-vpn-link = No Jist Noo
     .accesskey = N
 
-## Total Cookie Protection Rollout
-
 ## Emotive Continuous Onboarding
+
 
 ## MR2022 Background Update Windows native toast notification strings.
 ##
@@ -157,19 +144,52 @@ spotlight-public-wifi-vpn-link = No Jist Noo
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+
 ## Firefox View CFR
+
 
 ## Firefox View Spotlight
 
+
 ## Colorways expiry reminder CFR
+
 
 ## Cookie Banner Handling CFR
 
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
+
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+
 ## FxA sync CFR
 
+
 ## Device Migration FxA Spotlight
+
+
+## Set as Default PDF Reader Infobar
+
+
+## Launch on login infobar notification
+
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+
+## Tail Fox Set Default Spotlight
+
+
+## Root Certificate Succession Infobar
+
+
+## Root Certificate Succession Windows Background Notification
+
+
+## FxA Menu Message variants
+
+
+## Multi-CTA Fox Doodle Spotlight
 

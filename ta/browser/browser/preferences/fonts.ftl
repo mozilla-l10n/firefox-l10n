@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = எழுத்துருக்கள்
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = என்பதற்கான எழுத்துருக்கள்
     .accesskey = F
-
 fonts-langgroup-arabic =
     .label = அரபு
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = விகிதமாக
     .accesskey = P
-
 fonts-default-serif =
     .label = ஷெரிஃப்
 fonts-default-sans-serif =
     .label = ஸான்ஸ் ஷெரிஃப்
-
 fonts-proportional-size = அளவு
     .accesskey = z
-
 fonts-serif = ஷெரிஃப்
     .accesskey = S
-
 fonts-sans-serif = ஸான்ஸ்-ஷெரிஃப்
     .accesskey = n
-
 fonts-monospace = மோனோஸ்பேஸ்
     .accesskey = M
-
 fonts-monospace-size = அளவு
     .accesskey = e
-
 fonts-minsize = குறைந்தபட்ச எழுத்துருவின் அளவு
     .accesskey = o
-
 fonts-minsize-none =
     .label = ஒன்றுமில்லை
-
 fonts-allow-own =
     .label = உங்கள் தேர்வுகளுக்குப் பதிலாக பக்கங்கள் அதன் சொந்த எழுத்துருக்களைத் தேர்வு செய்ய அனுமதிக்கவும்
     .accesskey = A
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

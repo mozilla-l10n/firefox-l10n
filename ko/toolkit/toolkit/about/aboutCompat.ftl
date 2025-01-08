@@ -5,6 +5,8 @@
 label-disable = 비활성화
 label-enable = 활성화
 label-interventions = 개입
+# Variables:
+#   $bug (string) - Bug number
 label-more-information = 추가 정보: Bug { $bug }
 label-overrides = 사용자 에이전트 재정의
 text-disabled-in-about-config = 이 기능은 about:config에서 비활성화되었습니다.

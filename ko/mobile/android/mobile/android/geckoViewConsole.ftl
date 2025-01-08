@@ -20,4 +20,3 @@ console-timer-start = { $name }: 타이머 개시
 #   $name (String): user-defined name for the timer
 #   $duration (String): number of milliseconds
 console-timer-end = { $name } : { $duration }ms
-

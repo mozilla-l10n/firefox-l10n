@@ -314,7 +314,7 @@ addon-page-options-button =
 ##   $name (string) - Name of the add-on.
 
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name } असंगत है { -brand-short-name } { $version } के साथ.
 # Variables:
 #   $version (string) - Application version.

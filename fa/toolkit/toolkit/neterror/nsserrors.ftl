@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -9,13 +10,11 @@
 
 psmerr-ssl-disabled = قادر به برقراری اتصال ایمن نبود، زیرا قرارداد SSL غیرفعال شده است.
 psmerr-ssl2-disabled = قادر به برقراری اتصال امن نیست، زیرا این پایگاه از نسخه‌ای قدیمی و غیر امن از قرارداد SSL استفاده می‌کند.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     گواهی دریافت شده نامعتبر است.  لطفاً با مدیر کارگزار یا نشانی پست الکترونیک پابگاه تماس بگیرید و این اطلاعات را به آنها بدهید:
     
     گواهی شما دارای شمارهٔ مسلسل یکسانی با یک گواهی دیگر که توسط مرجع گواهی صادر شده است می‌باشد.  لطفاً گواهی دیگری حاوی شمارهٔ مسلسل یکتا تهیه کنید.
-
 ssl-error-export-only-server = برقراری ارتباط امن ممکن نیست. طرف ارتباط از رمزنگاری سطح بالا پشتیبانی نمی‌کند.
 ssl-error-us-only-server = برقراری ارتباط امن ممکن نیست. طرف ارتباط نیاز به رمزنگاری سطح بالا دارد که این نرم‌افزار از آن پشتیبانی نمی‌کند.
 ssl-error-no-cypher-overlap = ارتباط امن با طرف مقابل ممکن نیست: هیچ الگوریتم رمزنگاری مشترکی وجود ندارد.
@@ -152,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = الگوریتم امضا های TL
 ssl-error-unsupported-signature-algorithm = جفت استفاده شده در الگوریتم هش و امضا ترکیب پشتیبانی نشده.
 ssl-error-missing-extended-master-secret = جفت تلاش می‌کند بدون correct extended_master_secret extension ادامه دهد.
 ssl-error-unexpected-extended-master-secret = جفت تلاش می‌کند بدون unexpected extended_master_secret extension ادامه دهد.
-
 sec-error-io = یک خطای ورودی/خروجی در هنگام مجازشماری امنیتی رخ داد.
 sec-error-library-failure = شکست کتابخانهٔ امنیتی.
 sec-error-bad-data = کتابخانهٔ امنیتی: اطلاعات نامعتبری دریافت شد.
@@ -319,7 +317,6 @@ sec-error-locked-password = گذرواژه قفل شده است.
 sec-error-unknown-pkcs11-error = خطای نامشخص PKCS #11.
 sec-error-bad-crl-dp-url = آدرس اشتباه یا پشتیبانی نشده در نام نقطهٔ توزیع CRL وجود دارد.
 sec-error-cert-signature-algorithm-disabled = مدرک توسط نوعی الگوریتم نا امن امضا شده، به همین دلیل غیر فعال شده است.
-
 mozilla-pkix-error-key-pinning-failure = سرور از کلید متصل شده استفاده می کند(HPKP) اما زنجیره گواهینامه معتبری نمی‌تواند با این کلید های متصل سازگار شود. نقص کلید متصل شده نمی‌تواند دوباره بازنویسی شود.
 mozilla-pkix-error-ca-cert-used-as-end-entity = سرور از گواهینامه استفاده می کند که محدودیت های اولیه‌ای شناسایی را به عنوان یک صدور گواهی بسط می دهد یک مورد درست گواهینامه این شکلی نیست.
 mozilla-pkix-error-inadequate-key-size = کلیدگواهینامه صادر شده از طرف سرور به اندازه ای کوچک است که یک اتصال را برقرار نمی‌کند.
@@ -334,11 +331,9 @@ mozilla-pkix-error-invalid-integer-encoding = سرور امضا را ارائه 
 mozilla-pkix-error-empty-issuer-name = این سرور گواهینامه‌ای را ارائه می‌کند که نام صادرکننده برجسته‌ آن خالی می‌ باشد.
 mozilla-pkix-error-additional-policy-constraint-failed = علاوه بر این محدودیت مقررات در هنگام ارزیابی این گواهینامه با خطا مواجه شد.
 mozilla-pkix-error-self-signed-cert = این گواهینامه مورد اعتماد نیست زیرا بدون امضا است.
-
 xp-java-remove-principal-error = قادر به حذف مجوز نیست
 xp-java-delete-privilege-error = قادر به حذف امتیاز نیست
 xp-java-cert-not-exists-error = گواهی موجود نیست
-
 xp-sec-fortezza-bad-card = کارت فورتزا به درستی مقداردهی اولیه نشده است. لطفاً آن را حذف کرده و به صادرکنندهٔ آن بازگردانید.
 xp-sec-fortezza-no-card = کارت فورتزایی وجود ندارد
 xp-sec-fortezza-none-selected = کارت فورتزایی انتخاب نشده است

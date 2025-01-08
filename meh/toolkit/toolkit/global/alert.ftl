@@ -4,3 +4,6 @@
 
 alert-settings-title =
     .tooltiptext = Ke´i
+
+## Reminder Notifications
+

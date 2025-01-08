@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## Variables:
 ## $timeValue (number) - Number of units of time
 
@@ -35,72 +36,67 @@ download-utils-short-days =
 # — is the "em dash" (long dash)
 # example: 4 minutes left — 1.1 of 11.1 GB (2.2 MB/sec)
 # Variables:
-#   $timeLeft (String): time left.
-#   $transfer (String): transfer progress.
-#   $rate (String): rate number.
-#   $unit (String): rate unit.
+#   $timeLeft (string) - Time left.
+#   $transfer (string) - Transfer progress.
+#   $rate (string) - Rate number.
+#   $unit (string) - Rate unit.
 download-utils-status = { $timeLeft } — { $transfer } ({ $rate } { $unit }/s)
 # If download speed is a JavaScript Infinity value, this phrase is used
 # — is the "em dash" (long dash)
 # example: 4 minutes left — 1.1 of 11.1 GB (Really fast)
 # Variables:
-#   $timeLeft (String): time left.
-#   $transfer (String): transfer progress.
+#   $timeLeft (string) - Time left.
+#   $transfer (string) - Transfer progress.
 download-utils-status-infinite-rate = { $timeLeft } — { $transfer } (Très rapide)
 # — is the "em dash" (long dash)
 # example: 4 minutes left — 1.1 of 11.1 GB
 # Variables:
-#   $timeLeft (String): time left.
-#   $transfer (String): transfer progress.
+#   $timeLeft (string) - Time left.
+#   $transfer (string) - Transfer progress.
 download-utils-status-no-rate = { $timeLeft } — { $transfer }
-
 download-utils-bytes = octets
 download-utils-kilobyte = Ko
 download-utils-megabyte = Mo
 download-utils-gigabyte = Go
-
 # example: 1.1 of 333 MB
 # Variables:
-#   $progress (String): progress number.
-#   $total (String): total number.
-#   $totalUnits (String): total unit.
+#   $progress (string) - Progress number.
+#   $total (string) - Total number.
+#   $totalUnits (string) - Total unit.
 download-utils-transfer-same-units = { $progress } sur { $total } { $totalUnits }
 # example: 11.1 MB of 3.3 GB
 # Variables:
-#   $progress (String): progress number.
-#   $progressUnits (String): progress unit.
-#   $total (String): total number.
-#   $totalUnits (String): total unit.
+#   $progress (string) - Progress number.
+#   $progressUnits (string) - Progress unit.
+#   $total (string) - Total number.
+#   $totalUnits (string) - Total unit.
 download-utils-transfer-diff-units = { $progress } { $progressUnits } sur { $total } { $totalUnits }
 # example: 111 KB
 # Variables:
-#   $progress (String): progress number.
-#   $progressUnits (String): unit.
+#   $progress (string) - Progress number.
+#   $progressUnits (string) - Unit.
 download-utils-transfer-no-total = { $progress } { $progressUnits }
-
 # examples: 1m; 11h
 # Variables:
-#   $time (String): time number.
-#   $unit (String): time unit.
+#   $time (string) - Time number.
+#   $unit (string) - Time unit.
 download-utils-time-pair = { $time } { $unit }
 # examples: 1m left; 11h left
 # Variables:
-#   $time (String): time left, including a unit
+#   $time (string) - Time left, including a unit
 download-utils-time-left-single = Temps restant : { $time }
 # examples: 11h 2m left; 1d 22h left
 # Variables:
-#   $time1 (String): time left, including a unit
-#   $time2 (String): smaller measure of time left, including a unit
+#   $time1 (string) - Time left, including a unit
+#   $time2 (string) - Smaller measure of time left, including a unit
 download-utils-time-left-double = Temps restant : { $time1 } { $time2 }
 download-utils-time-few-seconds = Quelques secondes restantes
 download-utils-time-unknown = Temps restant indéterminé
-
 # Variables:
-#   $scheme (String): URI scheme like data: jar: about:
+#   $scheme (string) - URI scheme like data: jar: about:
 download-utils-done-scheme = Ressource { $scheme }
 # Special case of done-scheme for file:
 # This is used as an eTLD replacement for local files, so make it lower case
 download-utils-done-file-scheme = fichier local
-
 # Displayed time for files finished yesterday
 download-utils-yesterday = Hier

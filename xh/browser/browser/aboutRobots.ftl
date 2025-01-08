@@ -25,5 +25,6 @@ error-long-desc4 = Iirhobhothi zinentsimbi ezimenyezelayo ezinomva ekungafanelan
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = Kwaye zinecebo.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = Zama Kwakhona
     .label2 = Nceda musa ulikucofa eli qhosha kwakhona.

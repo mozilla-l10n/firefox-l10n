@@ -4,27 +4,21 @@
 
 permissions-close-key =
     .key = w
-
 permissions-block =
     .label = ৰোধ কৰক
     .accesskey = B
-
 permissions-session =
     .label = অধিবেশনৰ বাবে অনুমতি দিয়ক
     .accesskey = S
-
 permissions-allow =
     .label = অনুমতি দিয়ক
     .accesskey = A
-
 permissions-status =
     .label = অৱস্থা
-
 permissions-capabilities-allow =
     .label = আজ্ঞা দিয়ক
 permissions-capabilities-block =
     .label = ৰোধ কৰক
-
 permissions-capabilities-listitem-allow =
     .value = আজ্ঞা দিয়ক
 permissions-capabilities-listitem-block =
@@ -45,11 +39,15 @@ permissions-invalid-uri-label = এটা বৈধ হস্টনাম দি
 
 ## Exceptions - HTTPS-Only Mode
 
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = কোনবোৰ ৱেব ছাইটে প'প-আপ উইণ্ড' খুলিব পাৰে আপুনি সেইটো নিৰ্ধাৰিত কৰিব পাৰে। আপুনি আজ্ঞা দিব খোজা ছাইটৰ সঠিক ঠিকনা দিয়ক আৰু আজ্ঞা দিয়কত টিপক।
 
 ## Exceptions - Saved Logins
+
+
+## Exceptions - Saved Passwords
 
 
 ## Exceptions - Add-ons
@@ -72,6 +70,7 @@ permissions-exceptions-addons-desc = কোনবোৰ ৱেব ছাইট�
 
 
 ## Site Permissions - Microphone
+
 
 ## Site Permissions - Speaker
 ##

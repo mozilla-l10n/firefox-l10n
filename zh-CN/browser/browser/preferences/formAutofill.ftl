@@ -106,9 +106,6 @@ autofill-address-eircode = Eircode 邮政编码
 
 ##
 
-
-##
-
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = 添加新地址
 autofill-address-country = 国家/地区

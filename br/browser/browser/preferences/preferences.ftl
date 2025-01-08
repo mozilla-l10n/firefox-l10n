@@ -532,8 +532,7 @@ home-prefs-shortcuts-description = Lec’hiennoù a enrollit pe a weladennit
 home-prefs-shortcuts-by-option-sponsored =
     .label = Berradennoù paeroniet
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 home-prefs-recommended-by-header =
     .label = Erbedet gant { $provider }

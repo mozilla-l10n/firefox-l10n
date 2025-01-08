@@ -35,7 +35,7 @@ about-reader-estimated-read-time =
        *[other] { $range } minutos
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = Disminuir tamaño de fuente
@@ -86,7 +86,7 @@ about-reader-custom-colors-selection-highlight = Resaltador para lectura en voz 
     .title = Editar color
 about-reader-reset-button = Restablecer predeterminados
 
-## Reader View improved text and layout menu
+## Reader View text and layout menu
 
 about-reader-text-header = Texto
 about-reader-text-size-label = Tamaño del texto

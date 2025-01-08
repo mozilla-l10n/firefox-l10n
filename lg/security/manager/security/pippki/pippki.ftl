@@ -35,6 +35,9 @@ download-cert-view-text = Kenenya Satifiketi ya CA
 
 ## Client Authorization Ask dialog
 
+
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = Ebikwata ku Mukozesa Bisabwa
 client-auth-site-description = Omuko guno gusabye ebikukwatako ne satifiketi yo:
@@ -50,8 +53,6 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Certificate backup password (again):
 set-password-reminder = Important: If you forget your certificate backup password, you will not be able to restore this backup later.  Please record it in a safe location.
-
-## Protected Auth dialog
 
 ## Protected authentication alert
 

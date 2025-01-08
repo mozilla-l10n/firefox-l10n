@@ -5,13 +5,10 @@
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Խնդրել զներդիրս
-
 all-tabs-menu-new-user-context =
     .label = Նոր պարունակ ներդիր
-
 all-tabs-menu-hidden-tabs =
     .label = Թաքուցեալ ներդիրք
-
 all-tabs-menu-manage-user-context =
     .label = Կառավարել զպարունակս
     .accesskey = O

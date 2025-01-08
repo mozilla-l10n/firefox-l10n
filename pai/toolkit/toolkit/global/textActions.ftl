@@ -5,4 +5,3 @@
 text-action-delete =
     .label = Ujiñ
     .accesskey = U
-

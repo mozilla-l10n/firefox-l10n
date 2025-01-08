@@ -15,8 +15,6 @@ abuse-report-subtitle = موضوع چیست؟
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = توسط <a data-l10n-name="author-name">{ $author-name }</a>
 abuse-report-learnmore = مطمئن نیستید چه مسئله ای را انتخاب کنید؟<a data-l10n-name="learnmore-link"> درباره گزارش افزونه‌ها و مضامین بیشتر بیاموزید</a>
-abuse-report-learnmore-intro = مطمئن نیستید چه مسئله ای را انتخاب کنید؟
-abuse-report-learnmore-link = درباره گزارش افزونه‌ها و مضامین بیشتر بیاموزید
 abuse-report-submit-description = توضیح مسئله (اختیاری)
 abuse-report-textarea =
     .placeholder = اگر مشخصات دقیق را داشته باشیم حل مشکل برای ما ساده‌تر می‌گردد. لطفا چیزی که تجربه می‌کنید را با ما در میان بگذارید. از کمک شما برای سالم نگه‌داشتن وب تشکر می‌کنیم.
@@ -44,22 +42,6 @@ abuse-report-messagebar-removed-extension = با تشکر از شما برای �
 abuse-report-messagebar-removed-theme = با تشکر از شما برای ثبت گزارش. شما تم <span data-l10n-name="addon-name">{ $addon-name }</span> را حذف کرده اید.
 abuse-report-messagebar-error = هنگام ارسال گزارش برای <span data-l10n-name="addon-name">{ $addon-name }</span> خطایی رخ داد.
 abuse-report-messagebar-error-recent-submit = گزارش<span data-l10n-name="addon-name">{ $addon-name }</span> ارسال نشده است زیرا اخیراً گزارش دیگری ارسال شده است.
-abuse-report-messagebar-aborted2 =
-    .message = گزارش برای { $addon-name } لغو شد.
-abuse-report-messagebar-submitting2 =
-    .message = ارسال گزارش برای { $addon-name }.
-abuse-report-messagebar-submitted2 =
-    .message = با تشکر از شما برای ثبت گزارش. آیا می خواهید { $addon-name } را حذف کنید؟
-abuse-report-messagebar-submitted-noremove2 =
-    .message = با تشکر از شما برای ثبت گزارش.
-abuse-report-messagebar-removed-extension2 =
-    .message = با تشکر از شما برای ثبت گزارش. شما افزونه { $addon-name } را حذف کرده اید.
-abuse-report-messagebar-removed-theme2 =
-    .message = با تشکر از شما برای ثبت گزارش. شما تم { $addon-name } را حذف کرده اید.
-abuse-report-messagebar-error2 =
-    .message = هنگام ارسال گزارش برای { $addon-name } خطایی رخ داد.
-abuse-report-messagebar-error-recent-submit2 =
-    .message = گزارش{ $addon-name } ارسال نشده است زیرا اخیراً گزارش دیگری ارسال شده است.
 
 ## Message bars actions.
 

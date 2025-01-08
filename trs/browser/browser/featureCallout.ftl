@@ -43,3 +43,15 @@ callout-pdfjs-draw-body-a = Gachrun sa garan' ruhuât riña PDF nī na'ninj sat.
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
 callout-pdfjs-draw-body-b = Si giri' ñan du'hua man. Narán riña PDF nī na'nïj sa'.
 callout-pdfjs-draw-button = Ngà nikà man
+
+## Firefox View Discoverability Strings
+
+
+## Split Dismiss Button Labels
+
+
+## Sidebar Strings
+
+
+## Sidebar Callout Survey Strings
+

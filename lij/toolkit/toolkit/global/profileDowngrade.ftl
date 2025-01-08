@@ -5,10 +5,8 @@
 profiledowngrade-window2 =
     .title = Ti deuvi 'na vegia verscion de { -brand-product-name }
     .style = min-width: 490px;
-
 profiledowngrade-window-create =
     .label = Crea 'n neuvo profî
-
 profiledowngrade-quit =
     .label =
         { PLATFORM() ->

@@ -25,5 +25,6 @@ error-long-desc4 = Robotların ısırılmaması gereken parlak metal popoları v
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = Ve bir planları var.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = Yeniden dene
     .label2 = Lütfen bir daha bu düğmeye basmayın.

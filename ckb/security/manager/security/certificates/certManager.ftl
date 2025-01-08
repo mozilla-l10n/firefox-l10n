@@ -4,108 +4,78 @@
 
 certmgr-title =
     .title = بەڕێوەبردنی بڕوانامەکان
-
 certmgr-tab-mine =
     .label = بڕوانامەکانت
-
 certmgr-tab-remembered =
     .label = بڕیارەکانی ڕێگەپێدان
-
 certmgr-tab-people =
     .label = خەڵک
-
 certmgr-tab-servers =
     .label = ڕاژەکان
-
 certmgr-tab-ca =
     .label = دەسەڵاتەکان
-
 certmgr-mine = تۆ بڕوانامەت لەم ڕێکخراوانە هەیە کە تۆ دەناسن
 certmgr-people = بڕوانامەت هەیە لە پەڕگە کە ئەو خەڵکانە دەناسێتەوە
 certmgr-ca = بڕوانامەت هەیە لە پەڕگە کە دەسەڵاتدارانی بڕەوانامە دەناسێتەوە
-
 certmgr-cert-host =
     .label = خانەخوێ
-
 certmgr-cert-name =
     .label = ناوی بڕوانامە
-
 certmgr-cert-server =
     .label = ڕاژەکان
-
 certmgr-token-name =
     .label = ئامێری پاراستن
-
 certmgr-begins-label =
     .label = دەستپێدەکات لە
-
 certmgr-expires-label =
     .label = بەسەردەچێت لە
-
 certmgr-email =
     .label = ناونیشانی پۆستی ئەلیکترۆنی
-
 certmgr-serial =
     .label = ژمارەی زنجیرە
-
 certmgr-view =
     .label = پیشاندان
     .accesskey = پ
-
 certmgr-edit =
     .label = متمانەکانی دەستکاریبکە...
     .accesskey = م
-
 certmgr-export =
     .label = هەناردەکردن...
     .accesskey = ه
-
 certmgr-delete =
     .label = سڕینەوە...
     .accesskey = س
-
 certmgr-delete-builtin =
     .label = سڕینەوە یان متمانە لێسەندن
     .accesskey = م
-
 certmgr-backup =
     .label = پاڵپشتی...
     .accesskey = پ
-
 certmgr-backup-all =
     .label = هەمووی پاڵپشتی بکە...
     .accesskey = ه
-
 certmgr-restore =
     .label = هاوردەکردن...
     .accesskey = و
-
 certmgr-add-exception =
     .label = هەڵاوێردی زیادبکە...
     .accesskey = ه
-
 exception-mgr =
     .title = ڕێگەپێدانی ئاسایش زیادبکە
-
 exception-mgr-extra-button =
     .label = ڕێگەپێدانی ئاسایش پەسەندبکە
     .accesskey = ڕ
-
 exception-mgr-cert-location-url =
     .value = شوێن:
-
 exception-mgr-cert-location-download =
     .label = بڕوانامە بەدەستبێنە
     .accesskey = ب
-
 exception-mgr-cert-status-view-cert =
     .label = پیشاندان...
     .accesskey = پ
-
 exception-mgr-permanent =
     .label = ئەم ڕێگە پێدانە هەڵبگرە
     .accesskey = گ
-
 pk11-bad-password = ئەو وشەی تێپەڕبووە نووسیوتە هەڵەیە.
 
 ## PKCS#12 file dialogs
@@ -129,11 +99,6 @@ delete-user-cert-title =
     .title = سڕینەوەی بڕوانامەکانت
 delete-user-cert-confirm = ئایا تۆ دڵنیایت کە دەتەوێ بڕوانامە بسڕیتەوە؟
 delete-user-cert-impact = ئەگەر یەکێک لە بڕوانامەکان بسڕیتەوە، ئیتر ناتوانیت بەکاریبێنی بۆ ناساندنی خۆت.
-
-
-## Cert Viewer
-
-
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (هەڵنەگیراوە )
 

@@ -471,3 +471,6 @@ pdfjs-editor-alt-text-settings-editor-title = Uređivač alternativnog teksta
 pdfjs-editor-alt-text-settings-show-dialog-button-label = Prikaži uređivač alternativnog teksta odmah pri dodavanju slike
 pdfjs-editor-alt-text-settings-show-dialog-description = Pomaže osigurati da sve tvoje slike imaju alternativni tekst.
 pdfjs-editor-alt-text-settings-close-button = Zatvori
+
+## "Annotations removed" bar
+

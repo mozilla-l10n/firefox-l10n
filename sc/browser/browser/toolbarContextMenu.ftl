@@ -20,6 +20,8 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Seletziona totu is ischedas
     .accesskey = S
+# Variables
+#   $tabCount (number) - Number of tabs
 toolbar-context-menu-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -28,21 +30,18 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Torra a abèrrere is ischedas serradas
         }
     .accesskey = o
-
 toolbar-context-menu-manage-extension =
     .label = Gesti s'estensione
     .accesskey = G
 toolbar-context-menu-remove-extension =
     .label = Boga s'estensione
     .accesskey = B
-
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = Sinnala s'estensione
     .accesskey = S
-
 # Can appear on the same context menu as toolbar-context-menu-menu-bar-cmd
 # ("Menu Bar") and personalbarCmd ("Bookmarks Toolbar"), so they should
 # have different access keys.
@@ -69,7 +68,6 @@ toolbar-context-menu-view-customize-toolbar-2 =
 toolbar-context-menu-pin-to-toolbar =
     .label = Apica a sa barra de ainas
     .accesskey = A
-
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = Ammustra semper
     .accesskey = m
@@ -79,11 +77,9 @@ toolbar-context-menu-bookmarks-toolbar-never-show-2 =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab-2 =
     .label = Ammustra isceti in un'ischeda noa
     .accesskey = i
-
 toolbar-context-menu-bookmarks-show-other-bookmarks =
     .label = Ammustra Àteros sinnalibros
     .accesskey = u
-
 toolbar-context-menu-menu-bar-cmd =
     .toolbarname = Barra de menù
     .accesskey = B

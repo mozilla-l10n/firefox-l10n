@@ -39,11 +39,9 @@ compatibility-issue-occurrences =
         [one] { $number } forekomst
        *[other] { $number } forekomster
     }
-
 compatibility-no-issues-found = Der blev ikke fundet problemer med kompatibilitet.
 compatibility-close-settings-button =
     .title = Luk indstillinger
-
 # Text used in the element containing the browser icons for a given compatibility issue.
 # Line breaks are significant.
 # Variables:

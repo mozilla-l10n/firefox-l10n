@@ -36,8 +36,6 @@ screenshots-private-window-error-title = Naka-disable ang { -screenshots-brand-n
 screenshots-private-window-error-details = Pasensya na sa abala. Inaayos namin ang feature na ito para sa mga susunod na release.
 screenshots-generic-error-title = Aba! Nagkagulo na sa { -screenshots-brand-name }.
 screenshots-generic-error-details = Hindi kami sigurado kung ano ang nangyari. Nais mo bang subukan uli o kumuha ng shot ng ibang pahina?
-screenshots-component-copy-button-label = Kopyahin
-screenshots-component-download-button-label = i-Download
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.

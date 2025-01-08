@@ -39,8 +39,6 @@ address-capture-manage-address-button =
     .label = Parameters dad adressas
 address-capture-learn-more-button =
     .label = Ulteriuras infurmaziuns
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Agiuntar ina nova adressa
 address-capture-open-menu-button =
     .aria-label = Avrir il menu
 address-capture-edit-address-button =
@@ -49,10 +47,10 @@ address-capture-edit-address-button =
 autofill-add-address-title = Agiuntar ina adressa
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Modifitgar l'adressa
-autofill-address-name = Num
 autofill-address-given-name = Prenum
 autofill-address-additional-name = Segund prenum
 autofill-address-family-name = Num
+autofill-address-name = Num
 autofill-address-organization = Organisaziun
 autofill-address-street-address = Adressa postala
 autofill-address-street = Adressa postala
@@ -108,9 +106,8 @@ autofill-address-eircode = Eircode
 
 ##
 
-
-##
-
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Agiuntar ina nova adressa
 autofill-address-country = Pajais u regiun
 autofill-address-country-only = Pajais
 autofill-address-tel = Telefon

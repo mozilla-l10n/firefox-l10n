@@ -4,7 +4,6 @@
 
 page-title = Ebikwata ku kugonjoola obuzibu
 page-subtitle = Omuko gunno gulina ebiwandiko ebyo'omugaso byo yinza okwetaga bwoba ogezako okujjawo obuzibu obuguddwo. Bwoba ononoonya ebyokudamu eri emitaawana ejjabulijo ku { -brand-short-name }, keberako ku <a data-l10n-name="support-link">muko ogwo'obuyambi</a>.
-
 crashes-id = Alipoota ya ID
 support-addons-name = Erinnya
 support-addons-version = Enkola
@@ -21,7 +20,6 @@ app-basics-build-config = Zzimba Entekateka
 app-basics-user-agent = Akayamba Omukozesa
 app-basics-memory-use = Enkozesa Memory
 app-basics-safe-mode = Modi Enddamu
-
 modified-key-prefs-title = Ebyokwerobozaa Ebyoomugaso Ebikyusiddwa
 modified-prefs-name = Erinnya
 graphics-title = Ebifananyi
@@ -34,6 +32,12 @@ library-version-title = Enkola eyomu Terekero
 
 
 ## Codec support table
+
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
 
 ##
 
@@ -60,7 +64,6 @@ blocked-os-version = Kiziyiziddwa kulwe enkola ya operating system yo.
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Kiziyiziddwa pulogulamu edukanya ebifananyi. Gezako okutuusa pulogulamu ku nkola eya { $driverVersion } oba okusuuka awo.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Jjawo Ebigendamu ebye Kika
@@ -73,10 +76,8 @@ gpu-vendor-id = ID yo'Omusubuzi
 gpu-device-id = ID ye'Ekyuma
 gpu-driver-version = Enkola ya Pulogulamu Edukanya
 gpu-driver-date = Enakuzomwezi eza Driver
-
 min-lib-versions = Enkola esingayo okuba entono esubirwa
 loaded-lib-versions = Enkola esubirwa
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -88,7 +89,18 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+
 ## Printing section
 
+
+## Remote Settings sections
+
+
 ## Normandy sections
+
+
+## Pointing devices
+
+
+## Content Analysis (DLP)
 

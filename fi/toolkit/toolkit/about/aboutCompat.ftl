@@ -5,6 +5,8 @@
 label-disable = Poista käytöstä
 label-enable = Ota käyttöön
 label-interventions = Väliintulot
+# Variables:
+#   $bug (string) - Bug number
 label-more-information = Lisätietoja: Vika { $bug }
 label-overrides = Selaintunnisteen korvaukset
 text-disabled-in-about-config = Tämä ominaisuus on poistettu käytöstä about:config-sivulla

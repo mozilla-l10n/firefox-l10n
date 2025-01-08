@@ -10,7 +10,6 @@ videocontrols-volume-control =
     .aria-label = Helitugevus
 videocontrols-closed-caption-button =
     .aria-label = Subtiitrid suletud
-
 videocontrols-play-button =
     .aria-label = Esita
 videocontrols-pause-button =
@@ -25,17 +24,16 @@ videocontrols-exitfullscreen-button =
     .aria-label = Välju täisekraanirežiimist
 videocontrols-casting-button-label =
     .aria-label = Edasta ekraanile
+# .offlabel is processed by the video control custom element to be used
+# as a text-track label
 videocontrols-closed-caption-off =
     .offlabel = Välja lülitatud
-
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Pilt-pildis
-
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = Tõsta see video välja
-
 videocontrols-error-aborted = Video laadimine peatati.
 videocontrols-error-network = Video esitamine katkestati võrguvea tõttu.
 videocontrols-error-decode = Videot pole võimalik esitada, kuna fail on vigane.
@@ -43,7 +41,6 @@ videocontrols-error-src-not-supported = Video vorming või MIME tüüp pole toet
 videocontrols-error-no-source = Ei leitud ühtki toetatud vormingus või toetatud MIME tüübiga videot.
 videocontrols-error-generic = Video esitamine katkestati tundmatu vea tõttu.
 videocontrols-status-picture-in-picture = Seda videot esitatakse pilt-pildis režiimis.
-
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -57,7 +54,6 @@ videocontrols-status-picture-in-picture = Seda videot esitatakse pilt-pildis re�
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
-
 # This is a plain text version of the videocontrols-position-and-duration-labels
 # string, used by screenreaders.
 #

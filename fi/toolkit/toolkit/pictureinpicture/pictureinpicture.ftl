@@ -7,6 +7,7 @@ pictureinpicture-player-title = Kuva kuvassa
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -21,30 +22,24 @@ pictureinpicture-pause-btn =
 pictureinpicture-play-btn =
     .aria-label = Toista
     .tooltip = Toista (välilyönti)
-
 pictureinpicture-mute-btn =
     .aria-label = Vaimenna ääni
     .tooltip = Vaimenna ääni ({ $shortcut })
 pictureinpicture-unmute-btn =
     .aria-label = Palauta ääni
     .tooltip = Palauta ääni ({ $shortcut })
-
 pictureinpicture-unpip-btn =
     .aria-label = Lähetä takaisin välilehteen
     .tooltip = Takaisin välilehteen
-
 pictureinpicture-close-btn =
     .aria-label = Sulje
     .tooltip = Sulje ({ $shortcut })
-
 pictureinpicture-subtitles-btn =
     .aria-label = Tekstitykset
     .tooltip = Tekstitykset
-
 pictureinpicture-fullscreen-btn2 =
     .aria-label = Koko näyttö
     .tooltip = Koko näyttö (kaksoisnapsauta tai { $shortcut })
-
 pictureinpicture-exit-fullscreen-btn2 =
     .aria-label = Poistu koko näytöstä
     .tooltip = Poistu koko näytön tilasta (kaksoisnapsauta tai { $shortcut })
@@ -63,7 +58,6 @@ pictureinpicture-toggle-fullscreen-shortcut =
 pictureinpicture-seekbackward-btn =
     .aria-label = Taaksepäin
     .tooltip = Taaksepäin (←)
-
 pictureinpicture-seekforward-btn =
     .aria-label = Eteenpäin
     .tooltip = Eteenpäin (→)
@@ -74,13 +68,8 @@ pictureinpicture-seekforward-btn =
 # a screen reader whenever a user opens the subtitles settings panel
 # after selecting the subtitles button.
 pictureinpicture-subtitles-panel-accessible = Tekstitysasetukset
-
 pictureinpicture-subtitles-label = Tekstitykset
-
 pictureinpicture-font-size-label = Kirjasinkoko
-
 pictureinpicture-font-size-small = Pieni
-
 pictureinpicture-font-size-medium = Keskikokoinen
-
 pictureinpicture-font-size-large = Suuri

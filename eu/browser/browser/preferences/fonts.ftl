@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Letra-tipoak
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Letra-tipoa
     .accesskey = r
-
 fonts-langgroup-arabic =
     .label = Arabiera
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proportzionala
     .accesskey = P
-
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans-serif
-
 fonts-proportional-size = Tamaina
     .accesskey = T
-
 fonts-serif = Serif
     .accesskey = S
-
 fonts-sans-serif = Sans-serif
     .accesskey = n
-
 fonts-monospace = Tarte bakarrekoa
     .accesskey = e
-
 fonts-monospace-size = Tamaina
     .accesskey = a
-
 fonts-minsize = Gutxieneko letra tamaina
     .accesskey = x
-
 fonts-minsize-none =
     .label = Ezer ez
-
 fonts-allow-own =
     .label = Baimendu orriak beraien letra-tipoak aukeratzea goiko nire aukeren ordez
     .accesskey = B
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

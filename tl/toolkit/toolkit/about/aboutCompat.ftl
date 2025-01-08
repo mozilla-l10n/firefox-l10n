@@ -5,6 +5,8 @@
 label-disable = i-Disable
 label-enable = Paganahin
 label-interventions = Mga Intervention
+# Variables:
+#   $bug (string) - Bug number
 label-more-information = Dagdag na Impormasyon: Bug { $bug }
 label-overrides = Mga User Agent Override
 text-disabled-in-about-config = Ang feature na ito ay hindi naka-enable sa about:config

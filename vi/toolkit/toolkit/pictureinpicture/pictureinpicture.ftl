@@ -7,6 +7,7 @@ pictureinpicture-player-title = Hình trong hình
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -21,30 +22,24 @@ pictureinpicture-pause-btn =
 pictureinpicture-play-btn =
     .aria-label = Phát
     .tooltip = Phát (Phím cách)
-
 pictureinpicture-mute-btn =
     .aria-label = Tắt tiếng
     .tooltip = Tắt tiếng ({ $shortcut })
 pictureinpicture-unmute-btn =
     .aria-label = Bật tiếng
     .tooltip = Bật tiếng ({ $shortcut })
-
 pictureinpicture-unpip-btn =
     .aria-label = Quay trở lại thẻ
     .tooltip = Quay lại thẻ
-
 pictureinpicture-close-btn =
     .aria-label = Đóng
     .tooltip = Đóng ({ $shortcut })
-
 pictureinpicture-subtitles-btn =
     .aria-label = Phụ đề
     .tooltip = Phụ đề
-
 pictureinpicture-fullscreen-btn2 =
     .aria-label = Toàn màn hình
     .tooltip = Toàn màn hình (nhấp đúp chuột hoặc { $shortcut })
-
 pictureinpicture-exit-fullscreen-btn2 =
     .aria-label = Thoát toàn màn hình
     .tooltip = Thoát toàn màn hình (nhấp đúp chuột hoặc { $shortcut })
@@ -63,7 +58,6 @@ pictureinpicture-toggle-fullscreen-shortcut =
 pictureinpicture-seekbackward-btn =
     .aria-label = Quay lại
     .tooltip = Quay lại (←)
-
 pictureinpicture-seekforward-btn =
     .aria-label = Tiến
     .tooltip = Tiến (→)
@@ -74,13 +68,8 @@ pictureinpicture-seekforward-btn =
 # a screen reader whenever a user opens the subtitles settings panel
 # after selecting the subtitles button.
 pictureinpicture-subtitles-panel-accessible = Cài đặt phụ đề
-
 pictureinpicture-subtitles-label = Phụ đề
-
 pictureinpicture-font-size-label = Cỡ chữ
-
 pictureinpicture-font-size-small = Nhỏ
-
 pictureinpicture-font-size-medium = Trung bình
-
 pictureinpicture-font-size-large = Lớn

@@ -11,7 +11,7 @@ autofill-manage-remove-button = Sampoh
 autofill-manage-add-button = Tamah…
 autofill-manage-edit-button = Andam
 
-##
+## The address capture doorhanger
 
 autofill-address-given-name = Nan Phoen
 

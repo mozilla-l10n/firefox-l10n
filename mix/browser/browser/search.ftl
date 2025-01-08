@@ -14,7 +14,6 @@
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = Ntuku
-
 searchbar-icon =
     .tooltiptext = Ntuku
 
@@ -22,4 +21,9 @@ searchbar-icon =
 ## Variables
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
+
+
+## Infobar shown when user is prompted to install search engine.
+## Variables
+## $engineName (String) - the name of the search engine to install.
 

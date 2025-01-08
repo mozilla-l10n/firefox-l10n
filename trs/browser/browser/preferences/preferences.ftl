@@ -118,7 +118,7 @@ containers-disable-alert-ok-button =
 containers-disable-alert-cancel-button = Ga ra'nga' ma
 containers-remove-alert-title = Guxunt markador na anj?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] Si sa' naduret markador na ni ganarrân daran' markador hua ni'ninj { $count }. Gani yitinj ruhuat si duret markador na anj?.
@@ -212,15 +212,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Yitïnj gachinj nu'un'
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Garasun' { $plugin-name } (riña { -brand-short-name })
 
@@ -250,6 +250,8 @@ play-drm-content =
 play-drm-content-learn-more = Gahuin chrūn doj
 update-application-title = { -brand-short-name } Nagi'iaj nakà
 update-application-description = Nagi'iaj { -brand-short-name } nakà da' gi'iaj sun hue'é ma.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Versiun { $version } <a data-l10n-name="learn-more">Sa nia' doj </a>
 update-history =
     .label = Digun' riña ma sa nagui'iaj nako'
@@ -291,7 +293,7 @@ performance-limit-content-process-option = Si ga'ue giman doj
 performance-limit-content-process-enabled-desc = Ga'ue gi'iaj sun hue'e ma 'ngà na'nit a'ngo rakïj ñanj, sani raj sun doj rà ma
 performance-limit-content-process-blocked-desc = Ga'ue nagi'iaj nikot 'ngà multiproseso{ -brand-short-name }.<a data-l10n-name="learn-more">Gahuin chrun' garasun' multiproseso</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (dànj hua nianj)
 
@@ -372,11 +374,8 @@ choose-bookmark =
 home-prefs-search-header =
     .label = Nana'uì' web
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
-# Variables:
-#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Sa hua hue'e taj { $provider }
 
@@ -399,6 +398,8 @@ home-prefs-highlights-option-saved-to-pocket =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = 'Ngò dajsu
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -453,7 +454,7 @@ search-find-more-link = Nadure' sa nana'ui'
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Dà hua' nanikaj ma
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Ganahuit 'ngo nuguan' 'ngà rajsun “{ $name }”. Gi'iaj suntuj u nī gànahuit a'ngoj.
 search-keyword-warning-bookmark = Nuguan' na nī 'ngà rajsun 'ngo markador. Ganahui a'ngoj.
 
@@ -631,6 +632,9 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Sa gayi'ìt sesión ngà naginu sà'
     .accesskey = S
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Nadunā Da’nga’ Huì A’nïn’ïn
     .accesskey = N
@@ -688,8 +692,8 @@ history-clear-button =
 sitedata-header = Kookies nī si dato sitio
 sitedata-total-size-calculating = Si riña ma daj yachij nej sa ma riña sitio nī kaché...
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Si kookies, sa rajsun sitio nī kaché ma sa' ni raj sun ma { $value }{ $unit } riña na'ní sat.
 sitedata-learn-more = Gahuin chrūn doj
 sitedata-delete-on-close =

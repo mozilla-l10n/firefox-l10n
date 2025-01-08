@@ -103,7 +103,6 @@ print-window =
     .title = Ćišćenje
 print-complete =
     .value = Ćišćenje je zakónčene.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

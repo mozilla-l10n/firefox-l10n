@@ -6,7 +6,6 @@ tabmodalprompt-username =
     .value = ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹᱜ ᱧᱩᱛᱩᱢ :
 tabmodalprompt-password =
     .value = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ :
-
 tabmodalprompt-ok-button =
     .label = ᱴᱷᱤᱠ
 tabmodalprompt-cancel-button =

@@ -5,12 +5,8 @@
 third-party-detail-vendor = فروش سے متعلق معلومات
 third-party-detail-app = ایپلیکیشن
 third-party-detail-publisher = شائع کرنے والا
-
 third-party-th-process = عمل
 third-party-th-status = حالت
-
 third-party-status-loaded = لوڈ کر دیا گیا
 third-party-status-blocked = بلاک شدہ
-
 third-party-button-copy-to-clipboard = تختہ تراشہ پر خام کوائف نقل کریں
-

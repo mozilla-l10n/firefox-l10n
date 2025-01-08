@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Amestar etiquetes
-
 pocket-panel-saved-error-generic = Hebo un fallu al tentar de guardar en { -pocket-brand-name }.
 pocket-panel-saved-error-only-links = Namás puen guardase enllaces
 pocket-panel-saved-error-not-saved = Nun se guardó la páxina
@@ -42,6 +41,7 @@ pocket-panel-home-welcome-back = Volvi afayate
 pocket-panel-home-paragraph = Pues usar { -pocket-brand-name } pa esplorar y guardar páxines web, artículos, vídeos, podcasts o volver a lo que tabes lleendo.
 
 ## Pocket panel header component
+
 
 ## Pocket panel buttons
 

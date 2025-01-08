@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = Omvalrapporteerder
-crashreporter-crash-message = { -brand-short-name } het 'n probleem gehad en het omgeval.
 crashreporter-plea = Om ons die probleem te help diagnoseer en regstel, kan u 'n omvalverslag indien.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Details: { $details }

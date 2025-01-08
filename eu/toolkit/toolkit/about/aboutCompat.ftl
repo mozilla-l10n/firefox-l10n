@@ -5,6 +5,8 @@
 label-disable = Desgaitu
 label-enable = Gaitu
 label-interventions = Esku-hartzeak
+# Variables:
+#   $bug (string) - Bug number
 label-more-information = Informazio gehiago: { $bug } buga
 label-overrides = Erabiltzaile-Agentea gainidaztea
 text-disabled-in-about-config = Eginbide hau desgaitu egin da about:config-en

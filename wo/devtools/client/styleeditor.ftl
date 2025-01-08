@@ -8,4 +8,3 @@ styleeditor-find =
 styleeditor-find-again =
     .label = Wut li topp
     .accesskey = t
-

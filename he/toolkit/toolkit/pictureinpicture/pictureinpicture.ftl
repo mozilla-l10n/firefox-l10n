@@ -7,6 +7,7 @@ pictureinpicture-player-title = תמונה בתוך תמונה
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -21,30 +22,24 @@ pictureinpicture-pause-btn =
 pictureinpicture-play-btn =
     .aria-label = ניגון
     .tooltip = ניגון (מקש הרווח)
-
 pictureinpicture-mute-btn =
     .aria-label = השתקה
     .tooltip = השתקה ({ $shortcut })
 pictureinpicture-unmute-btn =
     .aria-label = ביטול השתקה
     .tooltip = ביטול השתקה ({ $shortcut })
-
 pictureinpicture-unpip-btn =
     .aria-label = חזרה ללשונית
     .tooltip = חזרה ללשונית
-
 pictureinpicture-close-btn =
     .aria-label = סגירה
     .tooltip = סגירה ({ $shortcut })
-
 pictureinpicture-subtitles-btn =
     .aria-label = כתוביות
     .tooltip = כתוביות
-
 pictureinpicture-fullscreen-btn2 =
     .aria-label = מסך מלא
     .tooltip = מסך מלא (לחיצה כפולה או { $shortcut })
-
 pictureinpicture-exit-fullscreen-btn2 =
     .aria-label = יציאה ממסך מלא
     .tooltip = יציאה ממסך מלא (לחיצה כפולה או { $shortcut })
@@ -63,7 +58,6 @@ pictureinpicture-toggle-fullscreen-shortcut =
 pictureinpicture-seekbackward-btn =
     .aria-label = אחורה
     .tooltip = אחורה (←)
-
 pictureinpicture-seekforward-btn =
     .aria-label = קדימה
     .tooltip = קדימה (→)
@@ -74,13 +68,8 @@ pictureinpicture-seekforward-btn =
 # a screen reader whenever a user opens the subtitles settings panel
 # after selecting the subtitles button.
 pictureinpicture-subtitles-panel-accessible = הגדרות כתוביות
-
 pictureinpicture-subtitles-label = כתוביות
-
 pictureinpicture-font-size-label = גודל גופן
-
 pictureinpicture-font-size-small = קטן
-
 pictureinpicture-font-size-medium = בינוני
-
 pictureinpicture-font-size-large = גדול

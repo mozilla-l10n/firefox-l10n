@@ -39,8 +39,6 @@ address-capture-manage-address-button =
     .label = 地址設定
 address-capture-learn-more-button =
     .label = 了解更多
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = 新增地址
 address-capture-open-menu-button =
     .aria-label = 開啟選單
 address-capture-edit-address-button =
@@ -49,10 +47,10 @@ address-capture-edit-address-button =
 autofill-add-address-title = 新增地址
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = 編輯地址
-autofill-address-name = 姓名
 autofill-address-given-name = 名字
 autofill-address-additional-name = 中間名
 autofill-address-family-name = 姓氏
+autofill-address-name = 姓名
 autofill-address-organization = 公司
 autofill-address-street-address = 街道地址
 autofill-address-street = 街道地址
@@ -108,9 +106,8 @@ autofill-address-eircode = Eircode 郵遞區號
 
 ##
 
-
-##
-
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = 新增地址
 autofill-address-country = 國家或地區
 autofill-address-country-only = 國家
 autofill-address-tel = 電話號碼
@@ -122,11 +119,6 @@ autofill-country-warning-message = 目前僅能在表單中自動填寫部分國
 autofill-add-new-card-title = 新增信用卡
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = 編輯信用卡
-autofill-message-tooltip = 檢視有關自動填寫的訊息
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-card-title = 新增付款卡片
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title2 = 編輯卡片資訊
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -135,6 +127,11 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } 正嘗試顯示信用卡資訊。請在下方登入此 Windows 帳號確認。
        *[other] { -brand-short-name } 正嘗試顯示信用卡資訊。
     }
+autofill-message-tooltip = 檢視有關自動填寫的訊息
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = 新增付款卡片
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = 編輯卡片資訊
 autofill-card-number = 卡號
 autofill-card-invalid-number = 請輸入有效的卡號
 autofill-card-name-on-card = 持卡人姓名

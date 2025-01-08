@@ -28,3 +28,7 @@ webext-perms-description-sessions = സമീപകാലത്ത് അടച�
 webext-perms-description-tabs = ബ്രൌസര്‍ ടാബുകള്‍ പരിശോധിക്കുക
 webext-perms-description-topSites = ബ്രൌസിങ് നാള്‍വഴി പരിശോധിക്കുക
 webext-perms-description-webNavigation = നാവിഗേഷൻ ചെയ്യുമ്പോൾ ബ്രൗസർ പ്രവർത്തനം ആക്സസ്സുചെയ്യുക
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

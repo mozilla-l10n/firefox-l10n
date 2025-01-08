@@ -33,8 +33,6 @@ about-webrtc-aec-logging-toggled-off-state-msg = I files regjistrâts a si cjati
 
 # The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Inzorne in automatic
-# Determines the default state of the Auto Refresh check boxes
-about-webrtc-auto-refresh-default-label = Inzorne in automatic par impostazion predefinide
 # A button which forces a refresh of displayed statistics
 about-webrtc-force-refresh-button = Inzorne
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
@@ -98,8 +96,8 @@ about-webrtc-save-page-label = Salve la pagjne
 about-webrtc-debug-mode-msg-label = Modalitât debug
 about-webrtc-debug-mode-off-state-label = Comence modalitât debug
 about-webrtc-debug-mode-on-state-label = Ferme modalitât debug
-about-webrtc-enable-logging-label = Ative la pre-configurazion di regjistrazion par WebRTC
 about-webrtc-stats-heading = Statistichis session
+about-webrtc-enable-logging-label = Ative la pre-configurazion di regjistrazion par WebRTC
 about-webrtc-peerconnections-section-heading = Statistichis RTCPeerConnection
 about-webrtc-peerconnections-section-show-msg = Mostre statistichis RTCPeerConnection
 about-webrtc-peerconnections-section-hide-msg = Plate statistichis RTCPeerConnection
@@ -229,10 +227,7 @@ about-webrtc-round-trip-time-ms = RTT ms
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Statistichis fotograms video - iD MediaStreamTrack: { $track-identifier }
 
-## These are paths used for saving the about:webrtc page or log files so
-## they can be attached to bug reports.
-## Variables:
-##  $path (String) - The path to which the file is saved.
+##
 
 about-webrtc-save-page-msg = pagjine salvade in:{ $path }
 about-webrtc-debug-mode-off-state-msg = regjistri de rie disponibil in: { $path }

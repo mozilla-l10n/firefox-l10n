@@ -6,3 +6,6 @@ alert-close =
     .tooltiptext = Aiztaiseit itū paziņuojumu
 alert-settings-title =
     .tooltiptext = Īstatiejumi
+
+## Reminder Notifications
+

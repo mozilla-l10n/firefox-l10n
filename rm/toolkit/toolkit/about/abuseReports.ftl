@@ -18,8 +18,6 @@ abuse-report-addon-authored-by = da(d) <a data-l10n-name="author-name">{ $author
 abuse-report-learnmore =
     N'es ti betg segir tge tscherner?
     <a data-l10n-name="learnmore-link">Ulteriuras infurmaziuns davart rapportar extensiuns e designs</a>
-abuse-report-learnmore-intro = N'es ti betg segir tge tscherner?
-abuse-report-learnmore-link = Ulteriuras infurmaziuns davart rapportar extensiuns e designs
 abuse-report-submit-description = Descriva il problem (facultativ)
 abuse-report-textarea =
     .placeholder = Igl è pli simpel da schliar il problem sche nus enconuschain ils detagls. Descriva per plaschair il problem che ti has chattà. Grazia fitg per gidar a mantegnair il web da buna sanadad.
@@ -46,24 +44,6 @@ abuse-report-messagebar-removed-sitepermission = Grazia per trametter in rapport
 abuse-report-messagebar-removed-theme = Grazia per trametter in rapport. Ti has allontanà il design <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Ina errur è succedida cun trametter il rapport per <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Il rapport per <span data-l10n-name="addon-name">{ $addon-name }</span> n'è betg vegnì tramess perquai ch'in auter rapport è vegnì tramess dacurt.
-abuse-report-messagebar-aborted2 =
-    .message = Annullà il rapport per { $addon-name }.
-abuse-report-messagebar-submitting2 =
-    .message = Trametter il rapport per { $addon-name }...
-abuse-report-messagebar-submitted2 =
-    .message = Grazia per trametter in rapport. Vuls ti allontanar { $addon-name }?
-abuse-report-messagebar-submitted-noremove2 =
-    .message = Grazia per trametter in rapport.
-abuse-report-messagebar-removed-extension2 =
-    .message = Grazia per trametter in rapport. Ti has allontanà l'extensiun { $addon-name }.
-abuse-report-messagebar-removed-sitepermission2 =
-    .message = Grazia per trametter in rapport. Ti has allontanà il supplement dad autorisaziuns per websites { $addon-name }.
-abuse-report-messagebar-removed-theme2 =
-    .message = Grazia per trametter in rapport. Ti has allontanà il design { $addon-name }.
-abuse-report-messagebar-error2 =
-    .message = Ina errur è succedida cun trametter il rapport per { $addon-name }.
-abuse-report-messagebar-error-recent-submit2 =
-    .message = Il rapport per { $addon-name } n'è betg vegnì tramess perquai ch'in auter rapport è vegnì tramess dacurt.
 
 ## Message bars actions.
 

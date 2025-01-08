@@ -4,5 +4,5 @@
 
 refresh-profile =
     .label = Seta kwakhona i-{ -brand-short-name }
-# Shown on the safe mode dialog after multiple startup crashes. 
+# Shown on the safe mode dialog after multiple startup crashes.
 auto-safe-mode-description = I-{ -brand-short-name } ivale ingalindelekanga xa iqalisa. Oku kungabangelwa zizongezelelo okanye zezinye iingxaki. Ungazama ukuyisombulula ingxaki ngokuseta kusombululo-ngxaki kwiMo Ekhuselekileyo.

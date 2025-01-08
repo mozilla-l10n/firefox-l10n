@@ -3,17 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Note: This is currently placed under browser/base/content so that we can
-# get the strings to appear without having our localization community need
-# to go through and translate everything. Once these strings are ready for
-# translation, we'll move it to the locales folder.
-
-
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
-# This string is used so that the window has a title in tools that enumerate/look for window
-# titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Informacyje ô udostympnianiu
 webrtc-indicator-window =
     .title = { -brand-short-name } - Informacyje ô udostympnianiu
@@ -32,7 +24,6 @@ webrtc-item-browser = karta
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Niypoznane zdrzōdło
-
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -41,7 +32,6 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Karty z dostympym do maszin
     .accesskey = m
-
 webrtc-sharing-window = Inksze ôkno aplikacyje je udostympniane.
 webrtc-sharing-browser-window = Udostympniosz aplikacyjo { -brand-short-name }.
 webrtc-sharing-screen = Udostympniosz cołki ekran.
@@ -61,9 +51,6 @@ webrtc-minimize =
 ## device sharing state in the OS notification area. We do not use these strings
 ## on macOS, as global menu bar items do not have native tooltips.
 
-# This string will display as a tooltip on supported systems where we show
-# device sharing state in the OS notification area. We do not use these strings
-# on macOS, as global menu bar items do not have native tooltips.
 webrtc-camera-system-menu =
     .label = Udostympniosz kamera. Kliknij, coby regiyrować udostympnianiym.
 webrtc-microphone-system-menu =
@@ -98,7 +85,6 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Regiyruj udostympnianiym
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Regiyruj udostympnianiym na „{ $streamTitle }”
-
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Udostympnianie kamery karcie „{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -108,7 +94,6 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [few] Udostympnianie kamery { $tabCount } kartōm
            *[many] Udostympnianie kamery { $tabCount } kartōm
         }
-
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Udostympnianie mikrofōnu karcie „{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -118,7 +103,6 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [few] Udostympnianie mikrofōnu { $tabCount } kartōm
            *[many] Udostympnianie mikrofōnu { $tabCount } kartōm
         }
-
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Udostympnianie aplikacyje karcie „{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -128,7 +112,6 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [few] Udostympnianie aplikacyje { $tabCount } kartōm
            *[many] Udostympnianie aplikacyje { $tabCount } kartōm
         }
-
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Udostympnianie ekranu karcie „{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -138,7 +121,6 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [few] Udostympnianie ekranu { $tabCount } kartōm
            *[many] Udostympnianie ekranu { $tabCount } kartōm
         }
-
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Udostympnianie ôkna karcie „{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -148,7 +130,6 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [few] Udostympnianie ôkna { $tabCount } kartōm
            *[many] Udostympnianie ôkna { $tabCount } kartōm
         }
-
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Udostympnianie karty karcie „{ $streamTitle }”
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -176,6 +157,9 @@ webrtc-allow-share-camera-and-audio-capture = Dać serwerowi { $origin } używa�
 webrtc-allow-share-screen-and-microphone = Dać serwerowi { $origin } używać mikrofōnu i widzieć twōj ekran?
 webrtc-allow-share-screen-and-audio-capture = Dać serwerowi { $origin } suchać źwiynku z tyj karty i widzieć twōj ekran?
 
+## Special phrasing for sharing devices when the origin is a file url.
+
+
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
@@ -195,7 +179,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Dać serwerowi {
 
 webrtc-share-screen-warning = Udostympniej ekran ino strōnōm, kerym wierzisz. Skuli udostympniynio ôszydne strōny poradzōm przeglōndać nec choby ty i kraść twoje prywatne dane.
 webrtc-share-browser-warning = Udostympniej { -brand-short-name } ino strōnōm, kerym wierzisz. Skuli udostympniynio ôszydne strōny poradzōm przeglōndać nec choby ty i kraść twoje prywatne dane.
-
 webrtc-share-screen-learn-more = Przewiydz sie wiyncyj
 webrtc-pick-window-or-screen = Ôbier ôkno abo ekran
 webrtc-share-entire-screen = Cołki ekran
@@ -229,7 +212,6 @@ webrtc-action-always-block =
 
 webrtc-remember-allow-checkbox = Pamiyntej te rozwiōnzanie
 webrtc-mute-notifications-checkbox = Wyłōncz powiadōmiynia ze strōn przi udostympnianiu
-
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } niy śmiy przizwolić na ôbstōny dostymp do twojigo ekranu.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } niy śmiy przizwolić na ôbstōny dostymp do klangōw z twojij karty bez spytanio, kero karta udostympniać.
 webrtc-reason-for-no-permanent-allow-insecure = Twoje połōnczynie z tym serwerym niy ma zabezpieczōne. Coby ci ôchrōnić, { -brand-short-name } do dostymp ino na ta sesyjo.

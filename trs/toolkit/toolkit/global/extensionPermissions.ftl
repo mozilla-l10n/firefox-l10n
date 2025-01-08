@@ -29,3 +29,7 @@ webext-perms-description-tabs = Gatū riña nej rakïj ñanj huā ‘iaj navegad
 webext-perms-description-tabHide = Gachī huì' nī dingen' rakïj ñanj aché nu'
 webext-perms-description-topSites = Gatū riña sa gahuin nga gaché nunt
 webext-perms-description-webNavigation = Gatū riña sun ‘iaj navegador nga aché nunt
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

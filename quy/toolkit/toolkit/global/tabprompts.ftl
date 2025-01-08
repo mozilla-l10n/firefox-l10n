@@ -6,4 +6,3 @@ tabmodalprompt-username =
     .value = Haykuqpasutin
 tabmodalprompt-password =
     .value = Payllapa
-

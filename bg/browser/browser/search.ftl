@@ -31,3 +31,8 @@ searchbar-icon =
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
 removed-search-engine-message = <strong>Вашата търсеща машина по подразбиране е променена.</strong> { $oldEngine } вече не е налична като търсеща машина по подразбиране в { -brand-short-name }. Вашата търсеща машина по подразбиране вече е { $newEngine } . За да преминете към друга търсеща машина по подразбиране, отидете в настройките. <label data-l10n-name="remove-search-engine-article">Научете повече</label>
+
+## Infobar shown when user is prompted to install search engine.
+## Variables
+## $engineName (String) - the name of the search engine to install.
+

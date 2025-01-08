@@ -242,3 +242,15 @@ launch-on-login-infobar-reject-button = Wakami mani
 ## Tail Fox Set Default Spotlight
 
 tail-fox-spotlight-secondary-button = Wakami mani
+
+## Root Certificate Succession Infobar
+
+
+## Root Certificate Succession Windows Background Notification
+
+
+## FxA Menu Message variants
+
+
+## Multi-CTA Fox Doodle Spotlight
+

@@ -6,7 +6,6 @@ tabmodalprompt-username =
     .value = Uživatelské jméno:
 tabmodalprompt-password =
     .value = Heslo:
-
 tabmodalprompt-ok-button =
     .label = OK
 tabmodalprompt-cancel-button =

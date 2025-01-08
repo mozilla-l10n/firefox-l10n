@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = 字型
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = 對應此種語言
     .accesskey = F
-
 fonts-langgroup-arabic =
     .label = 阿拉伯文
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = 比例字型
     .accesskey = P
-
 fonts-default-serif =
     .label = 襯線字型 (Serif)
 fonts-default-sans-serif =
     .label = 無襯線字型 (Sans Serif)
-
 fonts-proportional-size = 大小
     .accesskey = z
-
 fonts-serif = 襯線字型
     .accesskey = S
-
 fonts-sans-serif = 無襯線字型
     .accesskey = n
-
 fonts-monospace = 等寬字型
     .accesskey = M
-
 fonts-monospace-size = 大小
     .accesskey = e
-
 fonts-minsize = 最小字型大小
     .accesskey = o
-
 fonts-minsize-none =
     .label = 無
-
 fonts-allow-own =
     .label = 忽略您上面的選擇，優先使用頁面指定的字型
     .accesskey = A
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

@@ -8,10 +8,11 @@
 more-from-moz-title = Mai multe de la { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Mai multe de la { -vendor-short-name }
-
 more-from-moz-subtitle = Vezi alte produse { -vendor-short-name } care funcționează pentru a sprijini un internet sănătos.
-
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
+
+
+## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 

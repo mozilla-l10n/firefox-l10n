@@ -4,7 +4,6 @@
 
 page-title = Humpito ñawndugol caɗeele
 page-subtitle = Ngoo hello ena waɗi humpito karallaagal baawngol nafde so aɗaetoo safrude caɗeele. So aɗa yiyloo jaabawuuji naamne ganndaaɗe  baɗte { -brand-short-name }, ƴeewto wallitorde amen <a data-l10n-name="support-link">lowre wallitorde</a>.
-
 crashes-title = Jaŋtol Kooke
 crashes-id = ID Jaŋtol
 crashes-send-date = Neldaaɗe
@@ -40,7 +39,6 @@ app-basics-profiles = Keftinirɗe
 app-basics-multi-process-support = Kenorɗe Cili Keewɗi
 app-basics-key-mozilla = Nokkuje Coktirɗe Mozilla
 app-basics-safe-mode = Mbayka Hoolno
-
 show-dir-label =
     { PLATFORM() ->
         [macos] Hollir e Yiytirde
@@ -105,6 +103,12 @@ media-device-latency = Deeƴtal
 
 ## Codec support table
 
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+
 ##
 
 intl-app-title = Teelte Jaaɓnirɗe
@@ -135,7 +139,6 @@ report-crash-for-days =
         [one] Jaŋtol Kooke e ñalngu { $days } battiniingu
        *[other] Jaŋtol Kooke e ñalɗi { $days } battindiiɗi
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -143,7 +146,6 @@ crashes-time-minutes =
         [one] Gila hojom { $minutes }
        *[other] Gila hojomaaji { $minutes }
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -151,7 +153,6 @@ crashes-time-hours =
         [one] Gila njamndi { $hours }
        *[other] Gila jamɗe { $hours }.
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -159,7 +160,6 @@ crashes-time-days =
         [one] Gila ñalawma { $days }
        *[other] Gila ñalɗi { $days }.
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -167,7 +167,6 @@ pending-reports =
         [one] Jaŋte Kooke fof (ena jeyaa heen { $reports } hookre sabbiinde e dumunno taƴaaɗo)
        *[other] Jaŋte Kooke fof (ena jeyaa heen { $reports } kooke cabbiiɗe e dumunna taƴaaɗo)
     }
-
 raw-data-copied = Keɓe kecce nattaama to ɗakkitorde
 text-copied = Natto e ɗakkitorde
 
@@ -180,11 +179,9 @@ blocked-mismatched-version = Fakaama ngam pilot jaytino maa ena luurdi e diiñor
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Ena daaƴaa ngam yamre pilot jaytino maa. Eto hesɗitde pilot jaytino maa to yamre { $driverVersion } walla ɓurnde hesɗitde.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Teelte ClearType
-
 compositing = Compositing
 hardware-h264 = Dokkitagol Masiŋeeri H264
 main-thread-no-omtc = ɓoggol arwanol, alaa OMTC
@@ -197,7 +194,6 @@ no = Alaa
 
 found = Yiytaama
 missing = Ŋakki
-
 gpu-description = Cifagol
 gpu-vendor-id = ID Julanke
 gpu-device-id = ID Kaɓirgol
@@ -217,22 +213,17 @@ webgl2-renderer = Renderer pilot WebGL 2
 webgl2-version = Yamre Pilot WebGL 2
 webgl2-driver-extensions = Jokke pilot WebGL 2
 webgl2-extensions = Jokke WebGL 2
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Ɓeydaama e doggol falo: dokkol { $failureCode }
-
 d3d11layers-crash-guard = D3D11 Compositor
 glcontext-crash-guard = OpenGL
-
 reset-on-next-restart = Waklit tuma kurmal garowal
 gpu-process-kill-button = Dartin Cilol GPU
 gpu-device-reset-button = Puɗɗitgol ñiklowel pilot
 off-main-thread-paint-enabled = Off Main Thread Painting hurminaama
-
 min-lib-versions = Yamre lesiire tijjaande
 loaded-lib-versions = Yamre huutorteende
-
 has-seccomp-bpf = Seccomp-BPF (System Call Filtering)
 has-seccomp-tsync = Canngoɗinal Ɓoggol Seccomp
 has-user-namespaces = Namespace kuutoro
@@ -244,12 +235,10 @@ effective-content-sandbox-level = Tolno silsil loowdi sandbox
 sandbox-proc-type-content = loowdi
 sandbox-proc-type-file = loowdi fiilde
 sandbox-proc-type-media-plugin = jokkel mejaa
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-
 async-pan-zoom = Asynchronous Pan/Zoom
 apz-none = ndiga
 wheel-enabled = naatnal mbiifu hurminaama
@@ -266,7 +255,18 @@ touch-warning = async touch input disabled due to unsupported pref: { $preferenc
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+
 ## Printing section
 
+
+## Remote Settings sections
+
+
 ## Normandy sections
+
+
+## Pointing devices
+
+
+## Content Analysis (DLP)
 

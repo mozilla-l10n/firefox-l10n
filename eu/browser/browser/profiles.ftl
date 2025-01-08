@@ -37,7 +37,7 @@ new-profile-page-learn-more = Argibide gehiago
 new-profile-page-input-placeholder =
     .placeholder = Hautatu izen bat, adibidez "Lana" edo "Pertsonala"
 
-## Delete profile page that allows users to review what they will lose if they choose to delete their profile.
+## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
 # Open is an adjective, as in "browser windows currently open".
 delete-profile-windows = Irekitako leihoak
@@ -46,6 +46,9 @@ delete-profile-tabs = Irekitako fitxak
 delete-profile-bookmarks = Laster-markak
 delete-profile-history = Historia (bisitatutako orriak, cookieak, guneen datuak)
 delete-profile-logins = Pasahitzak
+
+##
+
 # Button label
 delete-profile-cancel = Utzi
 # Button label

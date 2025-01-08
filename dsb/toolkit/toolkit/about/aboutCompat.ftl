@@ -5,6 +5,8 @@
 label-disable = Znjemóžniś
 label-enable = Zmóžniś
 label-interventions = Interwencije
+# Variables:
+#   $bug (string) - Bug number
 label-more-information = Dalšne informacije: Zmólkowa rozpšawa { $bug }
 label-overrides = Pśepisanja identifikatora wobglědowaka
 text-disabled-in-about-config = Toś ta funkcija jo se w about:config znjemóžniła

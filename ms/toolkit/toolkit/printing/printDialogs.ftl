@@ -103,7 +103,6 @@ print-window =
     .title = Mencetak
 print-complete =
     .value = Mencetak Selesai.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

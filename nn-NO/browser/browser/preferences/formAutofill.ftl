@@ -106,9 +106,6 @@ autofill-address-eircode = Eircode
 
 ##
 
-
-##
-
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Legg til ny adresse
 autofill-address-country = Land eller region

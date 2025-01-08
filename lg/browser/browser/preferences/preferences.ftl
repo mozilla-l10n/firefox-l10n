@@ -108,11 +108,11 @@ applications-manage-app =
 applications-always-ask =
     .label = Sambaa nga
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Kozesa { $plugin-name } (mu { -brand-short-name })
 
@@ -187,8 +187,7 @@ choose-bookmark =
 ## Home Section - Firefox Home Content Customization
 
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
 
 ##
@@ -202,7 +201,7 @@ search-choose-keyword-column =
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Ekigambo ekikulu Kiddiddwamu
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Olonze ekigambo ekikulu ekiri mukukozesebwa "{ $name }". Bambi funayo ekirala.
 search-keyword-warning-bookmark = Olonze ekigambo ekikulu ekiri mu kukozesebwa akalambe. Bambi funayo ekirala.
 
@@ -256,6 +255,9 @@ sync-engine-history =
 forms-exceptions =
     .label = Okujjako…
     .accesskey = k
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Kyuusa Ekisumuluzo Ekifuga byonna…
     .accesskey = E

@@ -6,8 +6,6 @@ title-label = Pluginei buruz
 installed-plugins-label = Instalatutako pluginak
 no-plugins-are-installed-label = Ez da instalatutako pluginik aurkitu
 deprecation-description = Zerbait falta da? Zenbait plugin ez dira dagoeneko onartzen. <a data-l10n-name="deprecation-link">Argibide gehiago.</a>
-deprecation-description2 =
-    .message = Zerbait falta da? Zenbait plugin ez dira dagoeneko onartzen.
 
 ## The information of plugins
 ##

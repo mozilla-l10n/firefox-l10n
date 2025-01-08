@@ -35,6 +35,9 @@ download-cert-view-text = ត្រួត​ពិនិត្យ​វិញ្
 
 ## Client Authorization Ask dialog
 
+
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = ស្នើ​សុំ​អត្ត​សញ្ញាណ​អ្នក​ប្រើ
 client-auth-site-description = តំបន់បណ្ដាញ​នេះ​បាន​ស្នើសុំ​ឲ្យ​អ្នក​បញ្ជាក់​ប្រាប់​អំពី​អត្តសញ្ញាណ​របស់​អ្នក​ជាមួយ​នឹង​វិញ្ញាបនបត្រ ៖
@@ -51,8 +54,6 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = ពាក្យសម្ងាត់​សម្រាប់​បម្រុងទុក​វិញ្ញាបនបត្រ (ម្ដងទៀត)៖
 set-password-reminder = សំខាន់ ៖ ប្រសិនបើ​អ្នក​ភ្លេច​ពាក្យសម្ងាត់​សម្រាប់​បម្រុងទុក​វិញ្ញាបនបត្រ​របស់​អ្នក អ្នក​នឹង​មិន​អាច​ស្ដារ​ឯកសារ​បម្រុង​ទុក​នេះ​នៅ​ពេល​ក្រោយ​បាន​ទេ ។  សូម​ចម្លង​វា​ទុក​នៅ​ក្នុង​ទីតាំង​សុវត្ថិភាព ។
-
-## Protected Auth dialog
 
 ## Protected authentication alert
 

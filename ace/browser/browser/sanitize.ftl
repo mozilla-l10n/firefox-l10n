@@ -15,13 +15,10 @@ sanitize-prefs-style =
 
 clear-time-duration-value-last-hour =
     .label = Akhe Jeum
-
 clear-time-duration-value-today =
     .label = Uroë Nyoë
-
 clear-time-duration-value-everything =
     .label = Beurangkapeu
-
 clear-time-duration-suffix =
     .value = { "" }
 
@@ -29,18 +26,13 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Riwayat
-
 item-cookies =
     .label = Kuki
     .accesskey = C
-
 data-section-label = Data
-
 sanitize-button-ok =
     .label = Peugléh Jinoë
-
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
     .label = Meupeugléh
-

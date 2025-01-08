@@ -21,7 +21,7 @@ about-reader-estimated-read-time =
        *[other] { $range } минути
     }
 
-## These are used as tooltips in Type Control
+## Reader View text and layout menu
 
 about-reader-toolbar-minus =
     .title = Намалява размера на текста
@@ -55,5 +55,5 @@ about-reader-toolbar-savetopocket = Запазване в { -pocket-brand-name }
 ## clear and give context for screen reader users.
 
 
-## Reader View improved text and layout menu
+## Reader View text and layout menu
 

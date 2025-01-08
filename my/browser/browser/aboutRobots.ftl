@@ -25,5 +25,6 @@ error-long-desc4 = စက်ရုပ်များမှာ ထိခိုက
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = နောက်ပြီး သူတို့မှာ အစီအစဉ်တခု ရှိတယ်။
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = ထပ်ကြိုးစားပါ
     .label2 = ကျေးဇူးပြု၍ ဒီခလုတ်ကို ထပ် မနှိပ်ပါနဲ့။

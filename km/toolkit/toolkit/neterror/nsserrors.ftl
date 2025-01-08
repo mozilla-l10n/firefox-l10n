@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -9,13 +10,11 @@
 
 psmerr-ssl-disabled = មិន​អាច​តភ្ជាប់​សុវត្ថិភាព​បាន​ទេ ពីព្រោះ​ពិធីការ​​របស់ SSL ត្រូវ​បាន​បិទ ។
 psmerr-ssl2-disabled = មិន​អាច​តភ្ជាប់​ដោយ​សុវត្ថិភាព​បាន​ទេ ពីព្រោះ​ប្រើ​​តំបន់​បណ្ដាញ​ចាស់​ជាង កំណែ​របស់​ពិធីការ​របស់ SSL គ្មាន​សុវត្ថិភាព​ឡើយ ។
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     អ្នក​បាន​ទទួល​វិញ្ញាបនបត្រ​មិន​ត្រឹមត្រូវ ។ សូម​ទាក់ទង​អ្នក​គ្រប់គ្រង​ម៉ាស៊ីន​បម្រើ ឬ​អ៊ីមែល​ដោយ​ផ្ញើ​នូវ​ព័ត៌មាន​ដូច​ខាងក្រោម​ដល់​ពួកគេ ៖
     
      វិញ្ញាបនបត្រ​របស់​អ្នក​មាន​លេខ​សម្គាល់​ដូច​គ្នា​នឹង​វិញ្ញាបនបត្រ​មួយ​ផ្សេងទៀត​ដែល​បាន​ចេញ​ដោយ​ប្រភព​វិញ្ញាបនបត្រ ។ សូម​ទទួល​យក​វិញ្ញាបនបត្រ​ថ្មី​ដែល​មាន​នូវ​លេខ​សម្គាល់​តែមួយ ។
-
 ssl-error-export-only-server = មិន​អាច​​ទាក់ទង​​ដោយ​សុវត្ថិភាព​បាន​ទេ ។  ម៉ាស៊ីន​ដូច​គ្នា​មិន​គាំទ្រ​ការ​អ៊ិនគ្រីប​កម្រិត​ខ្ពស់​ឡើយ ។​
 ssl-error-us-only-server = មិន​អាច​ទាក់ទង​ដោយ​សុវត្ថិភាព​បាន​ទេ ។  ម៉ាស៊ីន​ដូចគ្នា​ទាមទារ​ការ​អ៊ិនគ្រីប​កម្រិត​ខ្ពស់​ដែល​មិន​ត្រូវ​បាន​គាំទ្រ ។
 ssl-error-no-cypher-overlap = មិន​អាច​ទាក់ទង​ជាមួយ​ម៉ាស៊ីន​ដូច​គ្នា​ដោយ​សុវត្ថិភាព​បាន​ទេ ៖ គ្មាន​ក្បួន​ដោះស្រាយ​ការ​អ៊ិនគ្រីប​ទូទៅ​ឡើយ ។
@@ -152,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = គ្មានក្បួនដ�
 ssl-error-unsupported-signature-algorithm = Peer បានប្រើការបន្សំក្បួនដោះស្រាយហត្ថលេខានិងហាដែលមិនគាំទ្រ។
 ssl-error-missing-extended-master-secret = Peer បានព្យាយាមបន្តដោយគ្មានផ្នែកបន្ថែម extended_master_secret ដែលត្រឹមត្រូវ។
 ssl-error-unexpected-extended-master-secret = Peer បានព្យាយាមបន្តដោយមានផ្នែកបន្ថែម extended_master_secret ដែលមិនបានរំពឹងទុក។
-
 sec-error-io = កំហុស I/O បាន​កើតឡើង​អំឡុង​ពេល​ផ្ទៀងផ្ទាត់​ភាព​ត្រឹមត្រូវ​សុវត្ថិភាព ។
 sec-error-library-failure = បរាជ័យ​បណ្ណាល័យ​សុវត្ថិភាព ។
 sec-error-bad-data = បណ្ណាល័យ​សុវត្ថិភាព ៖ បាន​ទទួល​ទិន្នន័យ​​ដែល​ខូច ។
@@ -319,7 +317,6 @@ sec-error-locked-password = ពាក្យសម្ងាត់​ត្រូ�
 sec-error-unknown-pkcs11-error = មិន​ស្គាល់​កំហុស PKCS #11 ។
 sec-error-bad-crl-dp-url = URL មិន​ត្រឹមត្រូវ ឬ​មិន​បាន​គាំទ្រ​នៅ​ក្នុង​ឈ្មោះ​ចំណុច​ការបែងចែក CRL ។
 sec-error-cert-signature-algorithm-disabled = វិញ្ញាបនបត្រ​ត្រូវ​បាន​ចុះហត្ថលេខា​ដោយ​ក្បួន​ដោះស្រាយ​ ដែល​ត្រូវ​បាន​បិទ ដោយ​សារ​តែ​វា​គ្មាន​សុវត្ថិភាព ។
-
 mozilla-pkix-error-key-pinning-failure = ម៉ាស៊ីន​មេ​ប្រើ​គន្លឹះ​ខ្ទាស់ (HPKP) ប៉ុន្តែ​មិន​អាច​បង្កើត​​វិញ្ញាបនបត្រ​គាំទ្រ​ដែល​ផ្គូផ្គង​សំណុំ​ខ្ទាស់​បាន​ទេ។ ការ​បំពាន​គន្លឹះ​ខ្ទាស់​មិន​អាច​បដិសេធ​បាន។
 mozilla-pkix-error-ca-cert-used-as-end-entity = ម៉ាស៊ីន​មេ​ប្រើ​វិញ្ញាបនបត្រ​ដែល​មាន​ផ្នែក​បន្ថែម​ដាក់​កម្រិត​មូលដ្ឋាន​បញ្ជាក់​ថា​វា​ជា​ប្រភព​វិញ្ញាបនបត្រ។ សម្រាប់​វិញ្ញាបនបត្រ​ដែល​បាន​ចេញ​ត្រឹមត្រូវ វា​នឹង​មិន​មាន​បញ្ហា​ទេ។
 mozilla-pkix-error-inadequate-key-size = ម៉ាស៊ីន​មេ​បាន​បង្ហាញ​ថា​វិញ្ញាបនបត្រ​មាន​ទំហំ​ពាក្យគន្លឹះ​​តូច​ពេក​មិន​អាច​បង្កើត​ការ​តភ្ជាប់​សុវត្ថិភាព​បាន​ទេ។
@@ -330,11 +327,9 @@ mozilla-pkix-error-signature-algorithm-mismatch = វិធីសាស្ត្
 mozilla-pkix-error-ocsp-response-for-cert-missing = ការ​ឆ្លើយតប OCSP មិន​មាន​បញ្ចូល​ស្ថានភាព​សម្រាប់​វិញ្ញាបនបត្រ​​ដែល​​កំពុង​ត្រូវ​បាន​បញ្ជាក់។
 mozilla-pkix-error-validity-too-long = ម៉ាស៊ីន​មេ​ប្រាប់​ថា​វិញ្ញាបនបត្រ​​ដែល​ត្រឹមត្រូវ​វែង​ពេក។
 mozilla-pkix-error-required-tls-feature-missing = បាត់លក្ខណៈពិសេស TLS ដែលត្រូវការ។
-
 xp-java-remove-principal-error = មិន​អាច​យក​គោលការណ៍​ចេញ​បាន​ទេ
 xp-java-delete-privilege-error = មិន​អាច​លុប​សិទ្ធិ​បាន​ទេ
 xp-java-cert-not-exists-error = គោលការណ៍​នេះ​គ្មាន​វិញ្ញាបនបត្រ​ឡើយ
-
 xp-sec-fortezza-bad-card = កាត​របស់ Fortezza មិន​ត្រូវ​បាន​​ចាប់ផ្ដើម​​បាន​​ត្រឹមត្រូវ​ឡើយ ។ សូម​យក​វា​ចេញ ហើយ​ត្រឡប់​​វា​ទៅកាន់​​​​អ្នក​ចេញ​ផ្សាយ​​​របស់​អ្នក ។
 xp-sec-fortezza-no-card = រក​មិន​ឃើញ​កាត​របស់ Fortezza ឡើយ
 xp-sec-fortezza-none-selected = មិន​បាន​ជ្រើស​កាត Fortezza ឡើយ

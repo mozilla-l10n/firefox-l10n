@@ -67,14 +67,6 @@ fxviewtabrow-unmute-tab = ٹیب کوں چالو کرو
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
     .title = { $tabTitle } کیتے آپشناں
-# Variables:
-#   $tabTitle (string) - Title of tab being muted
-fxviewtabrow-mute-tab-button =
-    .title = { $tabTitle } دی اواز گھٹو
-# Variables:
-#   $tabTitle (string) - Title of tab being unmuted
-fxviewtabrow-unmute-tab-button =
-    .title = { $tabTitle } دی اواز کھولو
 
 ## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
 

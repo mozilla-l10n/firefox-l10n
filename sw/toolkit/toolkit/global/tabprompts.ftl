@@ -6,7 +6,6 @@ tabmodalprompt-username =
     .value = Jina Tumizi:
 tabmodalprompt-password =
     .value = Nywila:
-
 tabmodalprompt-ok-button =
     .label = OK
 tabmodalprompt-cancel-button =

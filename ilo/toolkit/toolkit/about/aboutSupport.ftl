@@ -10,7 +10,6 @@ app-basics-name = Nagan
 app-basics-version = Bersion
 app-basics-enabled-plugins = Agtartaray nga Anay
 app-basics-memory-use = Panangaramat ti Memoria
-
 modified-prefs-name = Nagan
 a11y-title = Aksesibilidad
 
@@ -18,6 +17,12 @@ a11y-title = Aksesibilidad
 
 
 ## Codec support table
+
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
 
 ##
 
@@ -49,7 +54,6 @@ try-newer-driver = Linapdan agsipud iti bersion ti grapiko a driver. Padasenyo n
 ## not found.
 
 gpu-device-id = ID ti aparato
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -61,7 +65,18 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+
 ## Printing section
 
+
+## Remote Settings sections
+
+
 ## Normandy sections
+
+
+## Pointing devices
+
+
+## Content Analysis (DLP)
 

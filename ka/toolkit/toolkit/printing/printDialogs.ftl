@@ -103,7 +103,6 @@ print-window =
     .title = ბეჭდვა
 print-complete =
     .value = ბეჭდვა დასრულდა.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

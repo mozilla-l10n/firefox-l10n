@@ -5,30 +5,23 @@
 permissions-window2 =
     .title = Izinxaxhi
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-block =
     .label = Nqanda
     .accesskey = N
-
 permissions-session =
     .label = Vumela Iseshoni
     .accesskey = I
-
 permissions-allow =
     .label = Vumela
     .accesskey = V
-
 permissions-status =
     .label = Isimo
-
 permissions-capabilities-allow =
     .label = Vumela
 permissions-capabilities-block =
     .label = Nqanda
-
 permissions-capabilities-listitem-allow =
     .value = Vumela
 permissions-capabilities-listitem-block =
@@ -60,6 +53,9 @@ permissions-exceptions-saved-logins-window2 =
     .title = Ezikhethekileyo - IiLogini Ezigciniweyo
     .style = { permissions-window2.style }
 
+## Exceptions - Saved Passwords
+
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = Ungabalula ukuba zeziphi na iiwebhusayithi ezivumeleke ukufakela izongezelelo. Tayipha idilesi yokwenene yesayithi ofuna ukuyivumela uze ucofe Vumela.
@@ -80,6 +76,7 @@ permissions-exceptions-addons-desc = Ungabalula ukuba zeziphi na iiwebhusayithi 
 
 
 ## Site Permissions - Microphone
+
 
 ## Site Permissions - Speaker
 ##

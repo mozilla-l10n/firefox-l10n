@@ -81,7 +81,6 @@ certificate-viewer-authority-info-aia = Πληροφορίες αρχής (AIA)
 certificate-viewer-certificate-policies = Πολιτικές πιστοποιητικού
 certificate-viewer-embedded-scts = Ενσωματωμένα SCT
 certificate-viewer-crl-endpoints = Τελικά σημεία CRL
-
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Λήψη
@@ -101,7 +100,6 @@ certificate-viewer-download-pem = PEM (πιστοποιητικό)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (αλυσίδα)
     .download = { $fileName }-chain.pem
-
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = Αυτή η επέκταση έχει επισημανθεί ως κρίσιμη, πράγμα που σημαίνει ότι οι πελάτες πρέπει να απορρίψουν το πιστοποιητικό εάν δεν το καταλαβαίνουν.

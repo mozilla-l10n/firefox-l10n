@@ -5,6 +5,8 @@
 label-disable = Naqabilleştir
 label-enable = Qabilleştir
 label-interventions = Müdahaleler
+# Variables:
+#   $bug (string) - Bug number
 label-more-information = Daha Çoq Malümat: İllet { $bug }
 label-overrides = Qullanıcı-Vekili Üst-aydamaları
 text-disabled-in-about-config = Bu hususiyet about:config içinde naqabilleştirilgendir

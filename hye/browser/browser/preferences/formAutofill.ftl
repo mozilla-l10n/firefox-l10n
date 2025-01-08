@@ -7,23 +7,18 @@
 
 autofill-manage-addresses-title = Պահպանուած հասցէներ
 autofill-manage-addresses-list-header = Հասցէներ
-
 autofill-manage-credit-cards-title = Պահպանուած բանկային քարտեր
 autofill-manage-credit-cards-list-header = Բանկային քարտեր
-
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Հեռացնել
 autofill-manage-add-button = Աւելացնել…
 autofill-manage-edit-button = Խմբագրել…
 
-##
+## The address capture doorhanger
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Աւելացնել նոր հասցէներ
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Խմբագրել հասցէները
-
 autofill-address-given-name = Անուն
 autofill-address-additional-name = Հայրանուն
 autofill-address-family-name = Ազգանուն
@@ -81,19 +76,18 @@ autofill-address-eircode = Eircode
 
 ##
 
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Աւելացնել նոր հասցէներ
 autofill-address-country = Երկիր կամ տարածաշրջան
 autofill-address-tel = Հեռախաւս
 autofill-address-email = Էլ֊փոստ
-
 autofill-cancel-button = Չեղարկել
 autofill-save-button = Պահպանել
 autofill-country-warning-message = Ինքնալրացման ձեւը այժմ մատչելի է միայն որոշ երկրների համար։
-
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Աւելացնել նոր բանկային քարտ
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Խմբագրել բանկային քարտը
-
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -102,7 +96,6 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name }-ը փորձում է ցուցադրել վարկային քարտի տեղեկութիւն։ Ստորեւ հաստատէք մուտքը Windows-ի սոյն հաշիւ։
        *[other] { -brand-short-name }-ը փորձում է ցուցադրել վարկային քարտի տեղեկութիւնը։
     }
-
 autofill-card-number = Քատի համարը
 autofill-card-invalid-number = Գրանցէք վաւեր քարտի համար
 autofill-card-name-on-card = Անունը քարտի վրա

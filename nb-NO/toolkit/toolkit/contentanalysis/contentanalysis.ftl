@@ -41,21 +41,6 @@ contentanalysis-genericresponse-message = Innholdsanalyse svarte med { $response
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-block-message = Organisasjonen din bruker programvare for å forhindre tap av data som har blokkert dette innholdet: { $content }.
 # Variables:
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-error-message = Det oppsto en feil under kommunikasjonen med programvaren for å forhindre tap av data. Overføring avvist for ressurs: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-unspecified-error-message = Det oppsto en feil under kommunikasjonen med { $agent }. Overføring avvist for ressurs: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-no-agent-connected-message = Kan ikke koble til { $agent }. Overføring avvist for ressurs: { $content }.
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-invalid-agent-signature-message = Mislykket signaturverifisering for { $agent }. Overføring avvist for ressurs: { $content }.
-# Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Localized text describing the content being blocked, such as "Paste denied."
 contentanalysis-unspecified-error-message-content = Det oppsto en feil under kommunikasjonen med { $agent }. { $content }

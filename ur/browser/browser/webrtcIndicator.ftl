@@ -3,12 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Note: This is currently placed under browser/base/content so that we can
-# get the strings to appear without having our localization community need
-# to go through and translate everything. Once these strings are ready for
-# translation, we'll move it to the locales folder.
-
-
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
@@ -27,7 +21,6 @@ webrtc-item-browser = ٹیب
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = نامعلوم نقطہ آغاز
-
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -36,7 +29,6 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = ٹیبیں حصہ داری کر رہا ہے ڈیوائس
     .accesskey = ڈ
-
 webrtc-sharing-window = آپ ایک اور ایپلیکیشن ونڈو کو شیر کر رہے ہیں۔
 webrtc-sharing-browser-window = اپ { -brand-short-name } کا اشتراک کر رہے ہیں
 webrtc-sharing-screen = آپ اپنی پوری اسکرین شیئر کر رہے ہیں۔
@@ -80,7 +72,6 @@ webrtc-indicator-menuitem-control-sharing =
     .label = کنٹرول حصہ داری کر رہا ہے
 webrtc-indicator-menuitem-control-sharing-on =
     .label = کنٹرول حصہ داری کر رہا ہے "{ $streamTitle }" سے
-
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = کیمرہ مع "{ $streamTitle }" کے ساتھ حصہ داری کر رہا ہے
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -89,7 +80,6 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] کیمرہ حصہ داری { $tabCount } ٹیب کے ساتھ
            *[other] کیمرہ حصہ داری { $tabCount } ٹیب کے ساتھ
         }
-
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = مائیکروفون مع "{ $streamTitle }" کے ساتھ حصہ داری کر رہا ہے
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -98,7 +88,6 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] مائیکروفون حصہ داری { $tabCount } ٹیب کے ساتھ
            *[other] مائیکروفون حصہ داری { $tabCount } ٹیب کے ساتھ
         }
-
 webrtc-indicator-menuitem-sharing-application-with =
     .label = ایپلی کیشن مع "{ $streamTitle }" کے ساتھ حصہ داری کر رہا ہے
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -107,7 +96,6 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] ایپلی کیشن میں حصہ داری { $tabCount } ٹیب کے ساتھ
            *[other] ایپلی کیشن میں حصہ داری { $tabCount } ٹیب کے ساتھ
         }
-
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = سکرین مع "{ $streamTitle }" کے ساتھ حصہ داری کر رہا ہے
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -116,7 +104,6 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] { $tabCount } ٹیب کے ساتھ سکرین میں حصہ داری کر رہا ہے
            *[other] { $tabCount } ٹیب کے ساتھ سکرین میں حصہ داری کر رہا ہے
         }
-
 webrtc-indicator-menuitem-sharing-window-with =
     .label = ونڈوں مع "{ $streamTitle }" کے ساتھ حصہ داری کر رہا ہے
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -125,7 +112,6 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] ونڈوں حصہ داری { $tabCount } ٹیب کے ساتھ
            *[other] ونڈوں حصہ داری { $tabCount } ٹیب کے ساتھ
         }
-
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = ٹیب مع "{ $streamTitle }" کے ساتھ حصہ داری کر رہا ہے
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -139,6 +125,9 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
+
+
+## Special phrasing for sharing devices when the origin is a file url.
 
 
 ## Variables:
@@ -179,6 +168,5 @@ webrtc-action-always-block =
 
 webrtc-remember-allow-checkbox = یہ فیصلہ یاد رکھیں
 webrtc-mute-notifications-checkbox = شیئر کرتے وقت ویب سائٹ کی اطلاعات کو خاموش کریں
-
 webrtc-reason-for-no-permanent-allow-audio = بغیر پچھیں کس ٹیب کی اپکو شیئر کرنی ہے { -brand-short-name } آپ کو ٹیب کے آڈیو کی مستقل رسائی کی اجازت نہیں دے سکتا۔
 webrtc-reason-for-no-permanent-allow-insecure = اس سائٹ کے ساتھ آپکا کنکشن محفوظ نہیں ہے۔ آپ کی حفاظت کے لیئے، { -brand-short-name } صرف اس سیشن کے لیئے رسائی فراہم کرے گا۔

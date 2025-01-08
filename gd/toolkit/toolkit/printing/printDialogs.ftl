@@ -103,7 +103,6 @@ print-window =
     .title = 'Ga chlò-bhualadh
 print-complete =
     .value = Tha an clò-bhualadh deiseil.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

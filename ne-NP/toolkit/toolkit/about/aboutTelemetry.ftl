@@ -39,7 +39,7 @@ about-telemetry-fetch-stack-symbols = स्ट्याकहरूको ल�
 about-telemetry-hide-stack-symbols = कच्चा स्ट्याक डाटा देखाउनुहोस्
 # Selects the correct release version
 # Variables:
-#   $channel (String): represents the corresponding release data string
+#   $channel (string) - Represents the corresponding release data string
 about-telemetry-data-type =
     { $channel ->
         [release] जारी डेटा
@@ -47,43 +47,43 @@ about-telemetry-data-type =
     }
 # Selects the correct upload string
 # Variables:
-#   $uploadcase (String): represents a corresponding upload string
+#   $uploadcase (string) - Represents a corresponding upload string
 about-telemetry-upload-type =
     { $uploadcase ->
         [enabled] सक्षम गरियो
        *[disabled] अक्षम गरियो
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = यो पेज टेलीमेटरी सङ्कलन प्रदर्शन, हार्डवेयर, उपयोग र अनुकुल गर्न बारेमा जानकारी देखाउँछ। यो जानकारी { -brand-full-name } सुधार्न { $telemetryServerOwner } पेश छ।
 about-telemetry-settings-explanation = टेलिमेट्री { about-telemetry-data-type } सङ्कलन गरिरहेको छ र अपलोड <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a> छ।
 # Variables:
-#   $name (String): ping name, e.g. “saved-session”
-#   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
+#   $name (string) - Ping name, e.g. “saved-session”
+#   $timestamp (string) - Ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = जानकारीको प्रत्येक टुक्रालाई बन्डल गरेर “<a data-l10n-name="ping-link">पिङहरू</a>” मा पठाइएको छ । तपाईँ { $name }, { $timestamp } पिङ हेर्दै हुनुहुन्छ ।
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $selectedTitle (String): the section name from the structure of the ping.
+#   $selectedTitle (string) - The section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = { $selectedTitle } मा खोज्नुहोस्
 about-telemetry-filter-all-placeholder =
     .placeholder = सबै खण्डहरूमा फेला पार्नुहोस्
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-results-for-search = “{ $searchTerms }” को लागि नतिजाहरू
 # More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $sectionName (String): the section name from the structure of the ping.
-#   $currentSearchText (String): the current text in the search input
+#   $sectionName (string) - The section name from the structure of the ping.
+#   $currentSearchText (string) - The current text in the search input
 about-telemetry-no-search-results = माफ गर्नुहोस्! त्यहाँ “{ $currentSearchText }” को लागि { $sectionName } मा कुनै नतिजा छैन
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-no-search-results-all = माफ गर्नुहोस्! त्यहाँ “{ $searchTerms }” को लागि कुनैपनि खण्डहरूमा नतिजा छैन
 # This message is displayed when a section is empty.
 # Variables:
-#   $sectionName (String): is replaced by the section name.
+#   $sectionName (string) - Is replaced by the section name.
 about-telemetry-no-data-to-display = माफ गर्नुहोस्! त्यहाँ “{ $sectionName }” मा हाल कुनै डाटा उपलब्ध छैन
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = सबै
@@ -99,13 +99,13 @@ about-telemetry-slow-sql-statement = कथन
 about-telemetry-addon-table-id = Add-on आइडी
 about-telemetry-addon-table-details = विवरणहरू
 # Variables:
-#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+#   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = { $addonProvider } प्रदायक
 about-telemetry-keys-header = गुण
 about-telemetry-names-header = नाम
 about-telemetry-values-header = मान
 # Variables:
-#   $lateWriteCount (Integer): the number of the late writes
+#   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = ढिलो लेखन #{ $lateWriteCount }
 about-telemetry-stack-title = थाक:
 about-telemetry-memory-map-title = स्मृति मानचित्र:

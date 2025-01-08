@@ -18,8 +18,6 @@ abuse-report-addon-authored-by = egilea: <a data-l10n-name="author-name">{ $auth
 abuse-report-learnmore =
     Ez zaude ziur zein arazo hautatu?
     <a data-l10n-name="learnmore-link">Hedapen eta itxurak salatzeko argibide gehiago</a>
-abuse-report-learnmore-intro = Ez zaude ziur zein arazo hautatu?
-abuse-report-learnmore-link = Hedapen eta itxurak salatzeko argibide gehiago
 abuse-report-submit-description = Azaldu arazoa (aukerakoa)
 abuse-report-textarea =
     .placeholder = Guretzat errazagoa da arazoari irtenbidea ematea datu zehatzak baditugu. Azaldu mesedez zein den izan duzun arazoa. Eskerrik asko weba osasuntsu mantentzen laguntzeagatik.
@@ -46,24 +44,6 @@ abuse-report-messagebar-removed-sitepermission = Eskerrik asko salaketa bidaltze
 abuse-report-messagebar-removed-theme = Eskerrik asko salaketa bidaltzeagatik. <span data-l10n-name="addon-name">{ $addon-name }</span> itxura kendu egin duzu.
 abuse-report-messagebar-error = Errorea gertatu da <span data-l10n-name="addon-name">{ $addon-name }</span> gehigarrirako salaketa bidaltzerakoan.
 abuse-report-messagebar-error-recent-submit = <span data-l10n-name="addon-name">{ $addon-name }</span> gehigarrirako salaketa ez da bidali orain dela gutxi beste salaketa bat bidali delako.
-abuse-report-messagebar-aborted2 =
-    .message = Bertan behera utzi da { $addon-name } gehigarrirako salaketa.
-abuse-report-messagebar-submitting2 =
-    .message = Salaketa bidaltzen { $addon-name } gehigarrirako.
-abuse-report-messagebar-submitted2 =
-    .message = Eskerrik asko salaketa bidaltzeagatik. { $addon-name } gehigarria kendu egin nahi duzu?
-abuse-report-messagebar-submitted-noremove2 =
-    .message = Eskerrik asko salaketa bidaltzeagatik.
-abuse-report-messagebar-removed-extension2 =
-    .message = Eskerrik asko salaketa bidaltzeagatik. { $addon-name } hedapena kendu egin duzu.
-abuse-report-messagebar-removed-sitepermission2 =
-    .message = Eskerrik asko salaketa bidaltzeagatik. Guneei baimenak ematen dizkion { $addon-name } hedapena kendu egin duzu.
-abuse-report-messagebar-removed-theme2 =
-    .message = Eskerrik asko salaketa bidaltzeagatik. { $addon-name } itxura kendu egin duzu.
-abuse-report-messagebar-error2 =
-    .message = Errorea gertatu da { $addon-name } gehigarrirako salaketa bidaltzerakoan.
-abuse-report-messagebar-error-recent-submit2 =
-    .message = { $addon-name } gehigarrirako salaketa ez da bidali orain dela gutxi beste salaketa bat bidali delako.
 
 ## Message bars actions.
 

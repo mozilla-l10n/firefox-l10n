@@ -18,8 +18,6 @@ abuse-report-addon-authored-by = door <a data-l10n-name="author-name">{ $author-
 abuse-report-learnmore =
     Weet u niet zeker welk probleem u moet selecteren?
     <a data-l10n-name="learnmore-link">Meer info over het rapporteren van extensies en thema’s</a>
-abuse-report-learnmore-intro = Weet u niet zeker welk probleem u moet selecteren?
-abuse-report-learnmore-link = Meer info over het rapporteren van extensies en thema’s
 abuse-report-submit-description = Beschrijf het probleem (optioneel)
 abuse-report-textarea =
     .placeholder = Het is makkelijker voor ons om een probleem te behandelen als we details hebben. Beschrijf het probleem dat u ondervindt. Bedankt voor uw hulp bij het gezond houden van het web.
@@ -48,24 +46,6 @@ abuse-report-messagebar-removed-sitepermission = Bedankt voor het indienen van e
 abuse-report-messagebar-removed-theme = Bedankt voor het indienen van een rapport. U hebt het thema <span data-l10n-name="addon-name">{ $addon-name }</span> verwijderd.
 abuse-report-messagebar-error = Er is een fout opgetreden bij het verzenden van een rapport voor <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Het rapport voor <span data-l10n-name="addon-name">{ $addon-name }</span> is niet verzonden, omdat u recent een ander rapport hebt verzonden.
-abuse-report-messagebar-aborted2 =
-    .message = Rapport voor { $addon-name } geannuleerd.
-abuse-report-messagebar-submitting2 =
-    .message = Rapport verzenden voor { $addon-name }.
-abuse-report-messagebar-submitted2 =
-    .message = Bedankt voor het indienen van een rapport. Wilt u { $addon-name } verwijderen?
-abuse-report-messagebar-submitted-noremove2 =
-    .message = Bedankt voor het indienen van een rapport.
-abuse-report-messagebar-removed-extension2 =
-    .message = Bedankt voor het indienen van een rapport. U hebt de extensie { $addon-name } verwijderd.
-abuse-report-messagebar-removed-sitepermission2 =
-    .message = Bedankt voor het indienen van een rapport. U hebt de extensie voor websitemachtigingen { $addon-name } verwijderd.
-abuse-report-messagebar-removed-theme2 =
-    .message = Bedankt voor het indienen van een rapport. U hebt het thema { $addon-name } verwijderd.
-abuse-report-messagebar-error2 =
-    .message = Er is een fout opgetreden bij het verzenden van een rapport voor { $addon-name }.
-abuse-report-messagebar-error-recent-submit2 =
-    .message = Het rapport voor { $addon-name } is niet verzonden, omdat u recent een ander rapport hebt verzonden.
 
 ## Message bars actions.
 

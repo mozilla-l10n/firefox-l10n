@@ -18,8 +18,6 @@ abuse-report-addon-authored-by = sukūrė <a data-l10n-name="author-name">{ $aut
 abuse-report-learnmore =
     Nežinote, kurią problemą pasirinkti?
     <a data-l10n-name="learnmore-link">Sužinokite daugiau, kaip geriau pranešti apie priedus ir grafinius apvalkalus</a>
-abuse-report-learnmore-intro = Nežinote, kurią problemą pasirinkti?
-abuse-report-learnmore-link = Sužinokite daugiau, kaip geriau pranešti apie priedus ir grafinius apvalkalus
 abuse-report-submit-description = Apibūdinkite problemą (neprivaloma)
 abuse-report-textarea =
     .placeholder = Mums lengviau reaguoti į problemas, kai turime daugiau detalių. Aprašykite, kokia esama situacija. Ačiū, kad padedate palaikyti saityno kokybę.
@@ -48,24 +46,6 @@ abuse-report-messagebar-removed-sitepermission = Ačiū už patetiką pranešim�
 abuse-report-messagebar-removed-theme = Ačiū už pranešimą. Pašalinote <span data-l10n-name="addon-name">„{ $addon-name }“</span> grafinį apvalkalą.
 abuse-report-messagebar-error = Siunčiant pranešimą apie <span data-l10n-name="addon-name">„{ $addon-name }“</span> įvyko klaida.
 abuse-report-messagebar-error-recent-submit = Pranešimas apie <span data-l10n-name="addon-name">„{ $addon-name }“</span> nebuvo išsiųstas, nes neseniai buvo pateiktas kitas pranešimas.
-abuse-report-messagebar-aborted2 =
-    .message = Pranešimas apie { $addon-name } atšauktas.
-abuse-report-messagebar-submitting2 =
-    .message = Siunčiamas pranešimas apie { $addon-name }.
-abuse-report-messagebar-submitted2 =
-    .message = Ačiū už pateiktą pranešimą. Ar norėtumėte pašalinti { $addon-name }?
-abuse-report-messagebar-submitted-noremove2 =
-    .message = Ačiū už pateiktą pranešimą.
-abuse-report-messagebar-removed-extension2 =
-    .message = Ačiū už patetiką pranešimą. Pašalinote priedą { $addon-name }.
-abuse-report-messagebar-removed-sitepermission2 =
-    .message = Ačiū už patetiką pranešimą. Pašalinote svetainių leidimų priedą { $addon-name }.
-abuse-report-messagebar-removed-theme2 =
-    .message = Ačiū už pranešimą. Pašalinote { $addon-name } grafinį apvalkalą.
-abuse-report-messagebar-error2 =
-    .message = Siunčiant pranešimą apie { $addon-name } įvyko klaida.
-abuse-report-messagebar-error-recent-submit2 =
-    .message = Pranešimas apie { $addon-name } nebuvo išsiųstas, nes neseniai buvo pateiktas kitas pranešimas.
 
 ## Message bars actions.
 

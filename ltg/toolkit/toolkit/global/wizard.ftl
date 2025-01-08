@@ -11,7 +11,6 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Atpakaļ
     .accesskey = A
-
 wizard-macos-button-next =
     .label = Iz prīšku
     .accesskey = I
@@ -21,14 +20,12 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = Iz prīšku >
     .accesskey = I
-
 wizard-macos-button-finish =
     .label = Gotovs
 wizard-linux-button-finish =
     .label = Pabeigt
 wizard-win-button-finish =
     .label = Pabeigt
-
 wizard-macos-button-cancel =
     .label = Atceļt
 wizard-linux-button-cancel =

@@ -220,6 +220,8 @@ shortcuts-duplicate-warning-message2 =
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Ginagamit na ng { $addon }
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Magpakita ng { $numberToShow } Pa
@@ -390,7 +392,7 @@ addon-page-options-button =
 ##   $name (string) - Name of the add-on.
 
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = Ang { $name } ay di akma para sa { -brand-short-name } { $version }.
 # Variables:
 #   $version (string) - Application version.

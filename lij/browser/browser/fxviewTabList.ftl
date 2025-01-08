@@ -4,15 +4,12 @@
 
 fxviewtabrow-open-menu-button =
     .title = Arvi menû
-
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 fxviewtabrow-date = { DATETIME($date, dateStyle: "short") }
-
 # Variables:
 #   $time (string) - Time to be formatted based on locale
 fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
-
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = Oua
 
@@ -34,3 +31,6 @@ fxviewtabrow-save-to-pocket = Sarva in { -pocket-brand-name }
     .accesskey = S
 fxviewtabrow-copy-link = Còpia colegamento
     .accesskey = l
+
+## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+

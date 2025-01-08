@@ -6,8 +6,6 @@ title-label = Pri kromprogramoj
 installed-plugins-label = Instalitaj kromprogramoj
 no-plugins-are-installed-label = Neniu instalita kromprogramo estis trovita
 deprecation-description = Ĉu io mankas? Kelkaj kromprogramoj ne plu estas subtenataj. <a data-l10n-name="deprecation-link">Pli da informo.</a>
-deprecation-description2 =
-    .message = Ĉu io mankas? Kelkaj kromprogramoj ne plu estas subtenataj.
 
 ## The information of plugins
 ##

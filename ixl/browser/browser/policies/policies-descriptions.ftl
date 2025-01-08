@@ -14,5 +14,6 @@ policy-3rdparty = Al isuuchil unq'a b'eke' aq'al WebExtensions jik tok chajaaki 
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
+
 ##
 

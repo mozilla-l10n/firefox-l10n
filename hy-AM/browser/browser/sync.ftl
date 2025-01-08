@@ -34,3 +34,6 @@ fxa-menu-sign-out =
     .label = Դուրս գալ…
 fxa-menu-sync-title = Համաժամեցնել
 fxa-menu-sync-description = Համացանցային հասանելիություն՝ ամեն վայրից
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+

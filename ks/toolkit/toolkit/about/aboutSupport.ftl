@@ -4,7 +4,6 @@
 
 page-title = مولومات ہیوند مثلئ ہل كران
 page-subtitle = یتھ پیجس منز چھ تکنیکی انفارمیشن یوس ذن فأیدْ مند ہیکہ أسِتھ ییلہ توہیہ کوشش کْریو پرابلیم حل کرنْچ۔ اگر توہیہ جواب ژھانڈان چھیو عام سوالن &برانڈ شاٹ ناوس؛ مُتلق، چک آوٹ کْریو <a data-l10n-name="support-link">امدأدی ویب سایِٹ</a>۔
-
 crashes-title = كریش بیان
 crashes-id = بیان ID
 crashes-send-date = سبمِٹ کرنْہ آمُت
@@ -30,7 +29,6 @@ app-basics-build-config = كنفیوگریشن بنٲویو
 app-basics-user-agent = استیمال كرن وۄل ایجینٹ
 app-basics-memory-use = میمری ہیوند  استیمال
 app-basics-multi-process-support = ملٹی پراسیس وینڈوز
-
 modified-key-prefs-title = ضروری بدلیمِت ترجیحات
 modified-prefs-name = ناو
 modified-prefs-value = قئمتھ
@@ -53,6 +51,12 @@ sandbox-title = سینڈ بوکْس
 
 ## Codec support table
 
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+
 ##
 
 
@@ -71,7 +75,6 @@ sandbox-title = سینڈ بوکْس
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days = کریش رپورٹ پْتمِس { $days }  دوہس باپت؛ کریش رپورٹ پْتمین  { $days } دوہن باپت
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -79,7 +82,6 @@ crashes-time-minutes =
         [one] منٹ برونہہ{ $minutes }
        *[other] منٹ برونہہ{ $minutes }
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -87,7 +89,6 @@ crashes-time-hours =
         [one] گھنٹہ برونہہ{ $hours }
        *[other] گھنٹہ برونہہ{ $hours }
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -95,11 +96,9 @@ crashes-time-days =
         [one] دوہ برونہہ{ $days }
        *[other] دوہ برونہہ{ $days }
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports = تمام کریش رپورٹ ( یتھ منز شأمل چُھ { $reports } پینڈینگ کریش دِنْہ آمتِس ٹایم رینجس منز)؛ تمام کریش رپورٹ ( یتھ منز شأمل چھ { $reports } پینڈینگ کریش دِنْ آمتِس ٹایم رینجس منز)
-
 raw-data-copied = را ڈاٹا آو کاپی کرنْہ کْلپ بورڈس کُن
 text-copied = متن آیہ  کاپی کرنْہ کْلپ بورڈس کُن
 
@@ -111,7 +110,6 @@ blocked-os-version = بُلاک کرنْہ آمُت  تُہندِ آپریٹین
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = بُلاک کرنْہ آمُت تُہندس گرافِک ڈرایور وْرجنس باپت۔ کوشش کْریو اپڈیٹ کرنُک پنُن گرافِک ڈرایور وْرجن { $driverVersion }  یا نْوِس کُن۔
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = کْلیر ٹایِپ پیرامیٹر
@@ -125,14 +123,11 @@ gpu-device-id = ڈیوایِس آی ڈی
 gpu-subsys-id = سب سِس آی ڈی
 gpu-driver-version = ڈرایور وْرجن
 gpu-driver-date = ڈرایور تأریخ
-
 min-lib-versions = متوقع مینیمم وْرجن
 loaded-lib-versions = وْرجن چُھ استعمالس منز
-
 has-seccomp-bpf = ( سسٹم کال فلٹرینگ)Seccomp-BPF
 can-sandbox-content = کنٹینٹ پراسیس سینڈ بوکسینگ
 can-sandbox-media = میڈیا پْلگ اِن سینڈ بوکسینگ
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -144,7 +139,18 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+
 ## Printing section
 
+
+## Remote Settings sections
+
+
 ## Normandy sections
+
+
+## Pointing devices
+
+
+## Content Analysis (DLP)
 

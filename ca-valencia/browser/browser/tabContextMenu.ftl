@@ -97,7 +97,6 @@ tab-context-move-tabs =
            *[other] Mou les pestanyes
         }
     .accesskey = M
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

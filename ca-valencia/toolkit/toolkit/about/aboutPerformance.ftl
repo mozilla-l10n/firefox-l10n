@@ -51,4 +51,3 @@ close-tab =
     .title = Tanca la pestanya
 show-addon =
     .title = Mostra en el gestor de complements
-

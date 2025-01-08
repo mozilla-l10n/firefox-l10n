@@ -31,3 +31,7 @@ webext-perms-description-tabs = Pristup karticama preglednika
 webext-perms-description-tabHide = Sakrij i prikaži kartice preglednika
 webext-perms-description-topSites = Pristupi povijesti pregledavanja
 webext-perms-description-webNavigation = Pristup aktivnostima preglednika tijekom korištenja navigacije
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+

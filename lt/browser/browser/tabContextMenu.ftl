@@ -103,7 +103,6 @@ tab-context-move-tabs =
            *[other] Perkelti kortelių
         }
     .accesskey = k
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

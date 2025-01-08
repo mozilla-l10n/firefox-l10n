@@ -9,7 +9,6 @@ about-service-workers-title = Жұмыс үрдістері жөнінде
 about-service-workers-main-title = Тіркелген жұмыс үрдістері
 about-service-workers-warning-not-enabled = Жұмыс үрдістері іске қосылмаған.
 about-service-workers-warning-no-service-workers = Тіркелген жұмыс үрдістері жоқ.
-
 # The original title of service workers' information
 #
 # Variables:
@@ -29,12 +28,8 @@ active-cache-name = <strong>Белсенді кэш аты:</strong> { $name }
 waiting-cache-name = <strong>Күту кэш аты:</strong> { $name }
 push-end-point-waiting = <strong>Push түпкі нүктесі:</strong> { waiting }
 push-end-point-result = <strong>Push түпкі нүктесі:</strong> { $name }
-
 # This term is used as a button label (verb, not noun).
 update-button = Жаңарту
-
 unregister-button = Тіркеуден шығару
-
 unregister-error = Бұл Service Worker тіркеуден шығару сәтсіз аяқталды.
-
 waiting = Күту…

@@ -115,7 +115,7 @@ containers-disable-alert-ok-button =
 containers-disable-alert-cancel-button = Woppu hurma
 containers-remove-alert-title = Itta ngal baɗirgal ?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [one] So a daaƴii Tabbe Mooftirɗe jooni, tabbere mooftirde { $count } maa udde. Aɗa yenanaa yiɗde daaƴde Tabbe Mooftirɗe?
@@ -134,6 +134,8 @@ default-font-size = Ɓetol:
 advanced-fonts =
     .label = Ceeɓtore…
     .accesskey = C
+# Variables:
+#   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }
 language-header = Ɗemngal
@@ -211,15 +213,15 @@ applications-manage-app =
 applications-always-ask =
     .label = Naamno sahaa kala
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending }{ $type }
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Huutoro { $plugin-name } (nder { -brand-short-name })
 applications-open-inapp =
@@ -255,6 +257,8 @@ play-drm-content =
 play-drm-content-learn-more = Ɓeydu humpito
 update-application-title = Kesɗitine { -brand-short-name }:
 update-application-description = Hesɗitin { -brand-short-name } ngam jaawgol golle dowrowol, jamɗugol e kisal.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Yamre { $version } <a data-l10n-name="learn-more">Hol ko hesɗi</a>
 update-history =
     .label = Hollu Daartol Kesɗitine
@@ -295,7 +299,7 @@ performance-limit-content-process-option = Kaaɗtudi silsil loowdi
 performance-limit-content-process-enabled-desc = Silsilaaji loowdi ɓeydaaɗi ina mbaawi ɓeydude kattanɗe golle so tabbe keewɗe ina kuutoree, kono ina kuutoroo teskorde ɓurnde heewde.
 performance-limit-content-process-blocked-desc = Baylugol keeweendi silsilaaji loowdi aaɓnodtoo tan ko e keewal silsilaaji { -brand-short-name }. <a data-l10n-name="learn-more">Humpito hol no hoolkisortee keewal silsilaaji koko hurminaa</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = Huutoro { $num } (goowaaɗo)
 
@@ -373,11 +377,8 @@ choose-bookmark =
 home-prefs-search-header =
     .label = Njiilaw Geese
 
-## Variables:
-##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+## Home Section - Firefox Home Content Customization
 
-# Variables:
-#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Waggini ɗum ko { $provider }
 
@@ -400,6 +401,8 @@ home-prefs-highlights-option-saved-to-pocket =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Taƴitine
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -446,7 +449,7 @@ search-find-more-link = Yiylo jiylorɗe goɗɗe
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Sowto Helmede
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = A suɓiima helmere yiylorde wonnde e huutoreede e oo sahaa e "{ $name }". Tiiɗno labo woɗnde.
 search-keyword-warning-bookmark = A suɓiima helmere yiylorde wonnde e huutoreede e oo sahaa e maantorol. Tiiɗno labo woɗnde.
 
@@ -599,6 +602,9 @@ forms-breach-alerts-learn-more-link = Ɓeydu humpito
 forms-saved-logins =
     .label = Ceŋorɗe Danndaaɗe…
     .accesskey = D
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Waylu Finnde Baabaare…
     .accesskey = B
@@ -657,8 +663,8 @@ history-clear-button =
 sitedata-header = Kuukiije kam e Keɓe Lowre
 sitedata-total-size-calculating = Nana hiisoo keɓe lowre kam e ɓetol moggon…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = A mooftii kuukiije, lowre kañum moggel kuutortoo jooni ko { $value } { $unit } boowal mbeɗu nguu.
 sitedata-learn-more = Jokku taro
 sitedata-delete-on-close =

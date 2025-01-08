@@ -19,6 +19,9 @@ options-context-inspector = Omukebeezi
 ## "Default Color Unit" options for the Inspector
 
 
+## Web Console section
+
+
 ## Style Editor section
 
 # The heading
@@ -31,7 +34,4 @@ options-styleeditor-label = Wokyusiza Enfanana
 
 
 ## Advanced section
-
-
-##
 

@@ -7,7 +7,6 @@
 
 devmgr-header-details =
     .label = Detailer
-
 devmgr-header-value =
     .label = Wäert
 

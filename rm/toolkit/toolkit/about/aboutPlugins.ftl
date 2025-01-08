@@ -6,8 +6,6 @@ title-label = Davart ils plug-ins
 installed-plugins-label = Plug-ins installads
 no-plugins-are-installed-label = Chattà nagins plug-ins installads
 deprecation-description = Manca insatge? Il program na sustegna betg pli tut ils plug-ins. <a data-l10n-name="deprecation-link">Ulteriuras infurmaziuns.</a>
-deprecation-description2 =
-    .message = Manca insatge? Il program na sustegna betg pli tut ils plug-ins.
 
 ## The information of plugins
 ##

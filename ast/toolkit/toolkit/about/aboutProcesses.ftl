@@ -4,7 +4,6 @@
 
 # Page title
 about-processes-title = Xestor de procesos
-
 # The Actions column
 about-processes-column-action =
     .title = Aiciones
@@ -23,17 +22,13 @@ about-processes-column-cpu-total = CPU
 ## Process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-##    $type (String) The raw type for this process. Used for unknown processes.
 
-## Process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
 
 ## Isolated process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
 ##    $origin (String) The domain name for this process.
+
 
 ## Details within processes
 
@@ -43,6 +38,7 @@ about-processes-column-cpu-total = CPU
 about-processes-tab-name = Llingüeta: { $name }
 
 ## Utility process actor names
+
 
 ## Displaying CPU (percentage and total)
 ## Variables:

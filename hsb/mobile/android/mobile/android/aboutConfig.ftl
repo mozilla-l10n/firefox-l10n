@@ -6,11 +6,9 @@ config-toolbar-search =
     .placeholder = Pytać
 config-new-pref-name =
     .placeholder = Mjeno
-
 config-new-pref-value-boolean = Boolean
 config-new-pref-value-string = String
 config-new-pref-value-integer = Integer
-
 config-new-pref-string =
     .placeholder = Znamješkowy rjećazk zapodać
 config-new-pref-number =
@@ -18,12 +16,9 @@ config-new-pref-number =
 config-new-pref-cancel-button = Přetorhnyć
 config-new-pref-create-button = Wutworić
 config-new-pref-change-button = Změnić
-
 config-pref-toggle-button = Přepinać
 config-pref-reset-button = Wróćo stajić
-
 config-context-menu-copy-pref-name =
     .label = Mjeno kopěrować
 config-context-menu-copy-pref-value =
     .label = Hódnotu kopěrować
-

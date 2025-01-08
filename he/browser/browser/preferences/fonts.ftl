@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = גופנים
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = גופנים עבור
     .accesskey = נ
-
 fonts-langgroup-arabic =
     .label = ערבית
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = יחסי
     .accesskey = ח
-
 fonts-default-serif =
     .label = סריף
 fonts-default-sans-serif =
     .label = סאן־סריף
-
 fonts-proportional-size = גודל
     .accesskey = ג
-
 fonts-serif = סריף
     .accesskey = ס
-
 fonts-sans-serif = סאן־סריף
     .accesskey = ר
-
 fonts-monospace = רוחב קבוע
     .accesskey = ב
-
 fonts-monospace-size = גודל
     .accesskey = ד
-
 fonts-minsize = גודל גופן מינימלי
     .accesskey = פ
-
 fonts-minsize-none =
     .label = ללא
-
 fonts-allow-own =
     .label = לאפשר לדפים לבחור בגופנים שלהם במקום בחירתי למעלה
     .accesskey = ג
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

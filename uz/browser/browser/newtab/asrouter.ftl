@@ -12,35 +12,29 @@ cfr-doorhanger-feature-heading = Tavsiya qilingan funksiya
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Bu menga nega chiqyapti
-
 cfr-doorhanger-extension-cancel-button = Hozir emas
     .accesskey = e
-
 cfr-doorhanger-extension-ok-button = Hozir qoʻshish
     .accesskey = q
-
 cfr-doorhanger-extension-manage-settings-button = Tavsiya sozlamalarini boshqarish
     .accesskey = T
-
 cfr-doorhanger-extension-never-show-recommendation = Bu tavsiya menga koʻrsatilmasin
     .accesskey = k
-
 cfr-doorhanger-extension-learn-more-link = Batafsil
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = { $name } boʻyicha
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Tavsiya
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Tavsiya
     .tooltiptext = Kengaytma taklifi
     .a11y-announcement = Kengaytma taklifi mavjud
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Tavsiya
     .tooltiptext = Funksiya tavsiyasi
     .a11y-announcement = Funksiya tavsiyasi mavjud
@@ -85,11 +79,9 @@ cfr-protections-panel-link-text = Batafsil
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Yangi funksiya:
-
 cfr-whatsnew-button =
     .label = Yangi xususiyatlar
     .tooltiptext = Yangi xususiyatlar
-
 cfr-whatsnew-release-notes-link-text = Reliz qaydlarini oʻqish
 
 ## Enhanced Tracking Protection Milestones
@@ -100,18 +92,12 @@ cfr-doorhanger-milestone-ok-button = Barchasini koʻrish
 ## DOH Message
 
 
-## Fission Experiment Message
-
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Bu saytdagi videolar { -brand-short-name }ning bu versiyasida koʻrsatilmasligi mumkin. Bu videolarni tomosha qilish uchun { -brand-short-name }ni hoziroq yangilang.
 cfr-doorhanger-video-support-header = Videolarni tomosha qilish uchun { -brand-short-name }ni yangilang
 cfr-doorhanger-video-support-primary-button = Hozir yangilash
     .accesskey = H
-
-## Spotlight modal shared strings
-
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -126,9 +112,8 @@ spotlight-public-wifi-vpn-primary-button = { -mozilla-vpn-brand-name } bilan max
 spotlight-public-wifi-vpn-link = Hozir emas
     .accesskey = H
 
-## Total Cookie Protection Rollout
-
 ## Emotive Continuous Onboarding
+
 
 ## MR2022 Background Update Windows native toast notification strings.
 ##
@@ -143,19 +128,52 @@ spotlight-public-wifi-vpn-link = Hozir emas
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+
 ## Firefox View CFR
+
 
 ## Firefox View Spotlight
 
+
 ## Colorways expiry reminder CFR
+
 
 ## Cookie Banner Handling CFR
 
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
+
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+
 ## FxA sync CFR
 
+
 ## Device Migration FxA Spotlight
+
+
+## Set as Default PDF Reader Infobar
+
+
+## Launch on login infobar notification
+
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+
+## Tail Fox Set Default Spotlight
+
+
+## Root Certificate Succession Infobar
+
+
+## Root Certificate Succession Windows Background Notification
+
+
+## FxA Menu Message variants
+
+
+## Multi-CTA Fox Doodle Spotlight
 

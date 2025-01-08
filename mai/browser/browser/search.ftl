@@ -10,7 +10,6 @@
 
 opensearch-error-duplicate-title = त्रुटि संस्थापित करू
 opensearch-error-duplicate-desc = { -brand-short-name } could not install the search plugin from "{ $location-url }" because an engine with the same name already exists.
-
 opensearch-error-download-title = त्रुटि डाउनलोड करू
 opensearch-error-download-desc = { -brand-short-name } could not download the search plugin from: { $location-url }
 
@@ -23,4 +22,9 @@ searchbar-submit =
 ## Variables
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
+
+
+## Infobar shown when user is prompted to install search engine.
+## Variables
+## $engineName (String) - the name of the search engine to install.
 

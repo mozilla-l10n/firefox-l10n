@@ -18,8 +18,6 @@ abuse-report-addon-authored-by = bởi <a data-l10n-name="author-name">{ $author
 abuse-report-learnmore =
     Không chắc chắn vấn đề cần chọn?
     <a data-l10n-name="learnmore-link">Tìm hiểu thêm về việc báo cáo tiện ích mở rộng và chủ đề</a>
-abuse-report-learnmore-intro = Không chắc chắn vấn đề cần chọn?
-abuse-report-learnmore-link = Tìm hiểu thêm về việc báo cáo tiện ích mở rộng và chủ đề
 abuse-report-submit-description = Mô tả vấn đề (tùy chọn)
 abuse-report-textarea =
     .placeholder = Chúng tôi dễ dàng giải quyết vấn đề hơn nếu chúng tôi có thông tin cụ thể. Hãy mô tả những gì bạn đã trải qua. Cảm ơn bạn đã giúp chúng tôi giữ cho web lành mạnh.
@@ -48,24 +46,6 @@ abuse-report-messagebar-removed-sitepermission = Cảm ơn bạn đã gửi báo
 abuse-report-messagebar-removed-theme = Cảm ơn bạn đã gửi báo cáo. Bạn đã xóa chủ đề <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Đã xảy ra lỗi khi gửi báo cáo về <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Báo cáo về <span data-l10n-name="addon-name">{ $addon-name }</span> không thể gửi do đã có một báo cáo khác đã được gửi gần đây.
-abuse-report-messagebar-aborted2 =
-    .message = Báo cáo về { $addon-name } đã bị hủy.
-abuse-report-messagebar-submitting2 =
-    .message = Đang gửi báo cáo về { $addon-name }.
-abuse-report-messagebar-submitted2 =
-    .message = Cám ơn bạn đã gửi báo cáo. Bạn có muốn xóa { $addon-name } không?
-abuse-report-messagebar-submitted-noremove2 =
-    .message = Cảm ơn bạn đã gửi báo cáo.
-abuse-report-messagebar-removed-extension2 =
-    .message = Cảm ơn bạn đã gửi báo cáo. Bạn đã xóa tiện ích mở rộng { $addon-name }.
-abuse-report-messagebar-removed-sitepermission2 =
-    .message = Cảm ơn bạn đã gửi báo cáo. Bạn đã xóa tiện ích mở rộng Quyền hạn trang web { $addon-name }.
-abuse-report-messagebar-removed-theme2 =
-    .message = Cảm ơn bạn đã gửi báo cáo. Bạn đã xóa chủ đề { $addon-name }.
-abuse-report-messagebar-error2 =
-    .message = Đã xảy ra lỗi khi gửi báo cáo về { $addon-name }.
-abuse-report-messagebar-error-recent-submit2 =
-    .message = Báo cáo về { $addon-name } không thể gửi do đã có một báo cáo khác đã được gửi gần đây.
 
 ## Message bars actions.
 

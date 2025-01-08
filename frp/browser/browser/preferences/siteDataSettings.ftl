@@ -8,16 +8,13 @@
 site-data-search-textbox =
     .placeholder = Malyajos de rechèrche
     .accesskey = R
-
 site-data-column-host =
     .label = Malyajo
 site-data-column-storage =
     .label = Magasinajo
-
 site-data-remove-selected =
     .label = Garar la sèlèccion
     .accesskey = G
-
 site-data-remove-all =
     .label = Tot garar
     .accesskey = T

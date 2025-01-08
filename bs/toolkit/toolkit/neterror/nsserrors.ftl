@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -9,13 +10,11 @@
 
 psmerr-ssl-disabled = Nije moguće sigurno povezivanje jer je SSL protokol isključen.
 psmerr-ssl2-disabled = Nije moguće sigurno povezivanje jer stranica koristi stariju, nesigurnu verziju SSL protokola.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Primili ste neispravan certifikat. Molimo da kontaktirate administratora servera ili nadležnu osobu i navedete sljedeće informacije:
     
     Vaš certifikat sadrži isti serijski broj kao neki drugi izdati certifikat. Molim vas da nabavite novi certifikat sa jedinstvenim serijskim brojem.
-
 ssl-error-export-only-server = Sigurna komunikacija nije moguća. Ravnopravni uređaj ne podržava enkripciju visokog stepena.
 ssl-error-us-only-server = Sigurna komunikacija nije moguća. Ravnopravni uređaj zahtijeva visoki stepen enkripcije koji nije podržan.
 ssl-error-no-cypher-overlap = Nemoguća sigurna komunikacija sa ravnopravnim uređajem: nema zajedničkog enkripcijskog algoritma.
@@ -152,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = Niti jedan podržani algoritam TLS 
 ssl-error-unsupported-signature-algorithm = Peer je koristio nepodržanu kombinaciju algoritma potpisa i hasha.
 ssl-error-missing-extended-master-secret = Peer je pokušao nastaviti bez ispravne extended_master_secret ekstenzije.
 ssl-error-unexpected-extended-master-secret = Peer je pokušao nastaviti s neočekivanom extended_master_secret ekstenzijom.
-
 sec-error-io = Došlo je do U/I greške tokom sigurnosne autorizacije.
 sec-error-library-failure = greška u sigurnosnoj biblioteci.
 sec-error-bad-data = sigurnosna biblioteka: primljeni su loši podaci.
@@ -319,7 +317,6 @@ sec-error-locked-password = Lozinka je zaključana.
 sec-error-unknown-pkcs11-error = Nepoznata PKCS #11 greška.
 sec-error-bad-crl-dp-url = Neispravan ili nepodržan URL u CRL nazivu distribucijske tačke.
 sec-error-cert-signature-algorithm-disabled = Certifikat je potpisan upotrebom algoritma koji je onemogućen jer nije siguran.
-
 mozilla-pkix-error-key-pinning-failure = Server koristi "key pinning" (HPKP), ali nije moguće sastaviti nijedan lanac certifikata koji odgovara pinsetu. "Key pinning" prekršaji se ne mogu zaobići.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Server koristi certifikat s proširenjem osnovnih uvjeta koji ga identificiraju kao certifikacijski autoritet. Za ispravno izdat certifikat, ovo ne bi smio biti slučaj.
 mozilla-pkix-error-inadequate-key-size = Server je prezentirao certifikat s ključem premale dužine za uspostavljanje sigurne veze.
@@ -333,11 +330,9 @@ mozilla-pkix-error-required-tls-feature-missing = Nedostaje potrebna TLS funkcio
 mozilla-pkix-error-invalid-integer-encoding = Server je prezentovao certifikat koji sadrži neispravno kodiranje cijelog broja. Uobičajeni uzroci za ovo uključuju negativne serijske brojeve, negativne RSA module i kodiranja koja su duža nego što je potrebno.
 mozilla-pkix-error-empty-issuer-name = Server je prezentovao certifikat sa praznim nazivom izdavača.
 mozilla-pkix-error-self-signed-cert = Certifikat nije od povjerenja jer je samopotpisan.
-
 xp-java-remove-principal-error = Glavnica nije mogla biti uklonjena
 xp-java-delete-privilege-error = Nije moguće ukloniti privilegiju
 xp-java-cert-not-exists-error = Ova glavnica nema certifikat
-
 xp-sec-fortezza-bad-card = Fortezza karta nije propisno inicijalizirana. Molimo da je uklonite i vratite izdavaču.
 xp-sec-fortezza-no-card = Nije pronađena niti jedna Fortezza karta
 xp-sec-fortezza-none-selected = Nije izabrana nijedna Fortezza karta

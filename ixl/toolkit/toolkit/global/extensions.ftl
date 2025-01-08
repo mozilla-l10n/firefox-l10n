@@ -20,7 +20,6 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Ya'sakan
     .accesskey = C
-
 webext-perms-sideload-cancel =
     .label = Ya'sakan
     .accesskey = C
