@@ -196,6 +196,7 @@ shopping-survey-opted-out-hard-to-understand = Težko ga je razumeti
 shopping-survey-opted-out-too-slow = Je prepočasen
 shopping-survey-opted-out-not-accurate = Ne daje točnih rezultatov
 shopping-survey-opted-out-not-helpful = Ni mi v pomoč
+shopping-survey-opted-out-check-myself = Ocene raje preverjam sam/-a
 shopping-survey-opted-out-other = Drugo
 
 ## Shopping Feature Callout strings.
