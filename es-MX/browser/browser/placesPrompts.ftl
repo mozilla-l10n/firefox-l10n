@@ -15,3 +15,5 @@ places-bookmarks-restore-format-error = Tipo de archivo no soportado.
 places-bookmarks-restore-parse-error = Incapaz de procesar la copia de seguridad de este archivo.
 places-bookmarks-import = Importar archivo de marcadores
 places-bookmarks-export = Exportar archivo de marcadores
+places-bookmarks-paste-error-title = Se encontraron URLs no válidas
+places-bookmarks-paste-error-message-header = Las siguientes URLs no se pudieron agregar a tus marcadores. Intenta revisando el formato y agregarlas de nuevo.
