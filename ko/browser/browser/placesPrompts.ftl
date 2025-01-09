@@ -15,3 +15,5 @@ places-bookmarks-restore-format-error = 지원하지 않는 파일 형식.
 places-bookmarks-restore-parse-error = 백업 파일을 처리할 수 없습니다.
 places-bookmarks-import = 북마크 파일 가져오기
 places-bookmarks-export = 북마크 파일 내보내기
+places-bookmarks-paste-error-title = 잘못된 URL 찾음
+places-bookmarks-paste-error-message-header = 다음 URL을 북마크에 추가할 수 없습니다. 서식을 확인하고 다시 추가해 보세요.
