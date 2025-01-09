@@ -187,6 +187,9 @@ about-logins-export-password-os-auth-dialog-message-win = أدخِل معلوم�
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = صدّر جلسات الولوج وكلمات السر المحفوظة
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = صدّر كلمات السر المحفوظة
 
 ## Primary Password notification
 
@@ -271,6 +274,9 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = صدّر جلسات الولوج وكلمات السر
 about-logins-confirm-export-dialog-message = ستُحفظ جلسات الولوج على هيئة نص مقروء (مثلا 12345 أو BadP@ssw0rd) وبهذا يستطيع أيّ شخص معاينتها لو فتح الملف المصدّر.
 about-logins-confirm-export-dialog-confirm-button = صدّر…
+about-logins-confirm-export-dialog-message2 =
+    عند التصدير، تُحفظ كلمات سرك في ملف نصي قابل للقراءة.
+    عند الانتهاء من استخدام الملف، نوصي بحذفه حتى لا يتمكن المستخدمون الأخرون لهذا الجهاز من رؤية كلمات سرك.
 about-logins-alert-import-title = تمّ الاستيراد
 about-logins-alert-import-message = اعرض ملخص الاستيراد التفصيلي
 confirm-discard-changes-dialog-title = أتريد إهمال التغييرات غير المحفوظة؟
