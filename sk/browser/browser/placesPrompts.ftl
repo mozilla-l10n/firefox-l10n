@@ -15,3 +15,5 @@ places-bookmarks-restore-format-error = Nepodporovaný typ súboru.
 places-bookmarks-restore-parse-error = Nie je možné spracovať súbor zálohy.
 places-bookmarks-import = Import súboru záložiek
 places-bookmarks-export = Export súboru záložiek
+places-bookmarks-paste-error-title = Našli sa neplatné adresy URL
+places-bookmarks-paste-error-message-header = Nasledujúce adresy URL sa nepodarilo pridať do vašich záložiek. Skúste skontrolovať formátovanie a znova ich pridať.
