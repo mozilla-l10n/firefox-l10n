@@ -15,3 +15,5 @@ places-bookmarks-restore-format-error = Kiểu tập tin không hỗ trợ.
 places-bookmarks-restore-parse-error = Không thể xử lí tập tin sao lưu.
 places-bookmarks-import = Nhập tập tin chứa dấu trang
 places-bookmarks-export = Xuất dấu trang sang tập tin
+places-bookmarks-paste-error-title = Đã tìm thấy (các) URL không hợp lệ
+places-bookmarks-paste-error-message-header = Không thể thêm (các) URL sau vào dấu trang của bạn. Hãy thử kiểm tra định dạng và thêm lại chúng.
