@@ -15,3 +15,5 @@ places-bookmarks-restore-format-error = Filtypen stöds inte.
 places-bookmarks-restore-parse-error = Det gick inte att bearbeta säkerhetskopian.
 places-bookmarks-import = Importera bokmärkesfil
 places-bookmarks-export = Exportera bokmärkesfil
+places-bookmarks-paste-error-title = Ogiltig webbadress hittades
+places-bookmarks-paste-error-message-header = Följande webbadresser kunde inte läggas till i dina bokmärken. Prova att kontrollera formateringen och lägg till dem igen.
