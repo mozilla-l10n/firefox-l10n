@@ -153,13 +153,13 @@ downloads-list-empty =
     .value = ഒരു ഇറക്കിവയ്യിപ്പുമില്ല
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
-    .value = ഈ സെഷനിൽ ഡൗൺലോഡുകളൊന്നുമില്ല.
+    .value = ഈ സെഷനിൽ ഒന്നും ഇറക്കിവച്ചിട്ടില്ല
 
 ## Download errors
 
 downloads-error-alert-title = ഇറക്കിവയ്ക്കൽപിശകു്
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
-    അജ്ഞാതമായ ഒരു എറര്‍ സംഭവിച്ചതിനാല്‍ ഈ ഡൗണ്‍ലോഡ് തുടരുക സാദ്ധ്യമല്ല.
+    അറിയപ്പെടാത്ത പിഴവുകാരണം ഈ ഇറക്കിവയ്ക്കലിനെ കരുതിവയ്ക്കാൻ പറ്റിയില്ല
     
-    വീണ്ടും ശ്രമിക്കുക.
+    ദയവായി പിന്നെയും ശ്രമിക്കുക

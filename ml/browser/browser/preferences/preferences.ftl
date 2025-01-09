@@ -245,7 +245,7 @@ update-application-manual =
 update-application-use-service =
     .label = പരിഷ്കരണങ്ങള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുന്നതിനായി ഒരു പശ്ചാത്തല സര്‍വീസ് ഉപയോഗിയ്ക്കുക
     .accesskey = b
-update-in-progress-title = അപ്‌ഡേറ്റ് പുരോഗതിയിലാണ്
+update-in-progress-title = പുതുക്കൽ നടപ്പിലാണു്
 
 ## General Section - Performance
 
