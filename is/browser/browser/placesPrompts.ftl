@@ -15,3 +15,5 @@ places-bookmarks-restore-format-error = Óstudd skráartegund.
 places-bookmarks-restore-parse-error = Get ekki hlaðið inn afritunarskrá.
 places-bookmarks-import = Flytja inn bókamerkjaskrá
 places-bookmarks-export = Flytja út bókamerkjaskrá
+places-bookmarks-paste-error-title = Ógildar vefslóðir fundust
+places-bookmarks-paste-error-message-header = Ekki var hægt að bæta eftirfarandi vefslóð(um) í bókamerkin þín. Prófaðu að athuga snið þeirra og bæta þeim við aftur.
