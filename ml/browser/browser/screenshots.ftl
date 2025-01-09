@@ -6,10 +6,10 @@ screenshots-instructions = ഒരു പ്രദേശം തിരഞ്ഞെ
 screenshots-cancel-button = റദ്ദാക്കുക
 screenshots-save-visible-button = കാണുന്നതു സംരക്ഷിക്കുക
 screenshots-save-page-button = താള്‍ മുഴുവന്‍ സംരക്ഷിക്കുക
-screenshots-download-button = ഡൗണ്‍ലോഡ് ചെയ്യുക
-screenshots-download-button-tooltip = സ്ക്രീൻഷോട്ട് ഡൗൺലോഡ് ചെയ്യുക
+screenshots-download-button = ഇറക്കിവയ്ക്കുക
+screenshots-download-button-tooltip = പ്രതലപ്പിളൎപ്പിനെ ഇറക്കിവയ്ക്കുക
 screenshots-copy-button = പകര്‍ത്തുക
-screenshots-copy-button-tooltip = ക്ലിപ്പ്ബോർഡിലേക്ക് സ്ക്രീൻഷോട്ട് പകർത്തുക
+screenshots-copy-button-tooltip = പകർത്തൽപെട്ടിയിലോട്ടു് പ്രതലപ്പിളൎപ്പിനെ പകൎത്തുക
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
