@@ -101,4 +101,4 @@ fonts-allow-own =
 fonts-label-default =
     .label = ഡിഫോള്‍ട്ട്‌ ({ $name })
 fonts-label-default-unnamed =
-    .label = ഡിഫള്‍ട്ട്
+    .label = തനിമട്ടു്

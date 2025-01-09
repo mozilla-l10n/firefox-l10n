@@ -372,7 +372,7 @@ search-one-click-desc = നിങ്ങൾ കീവേഡ് നൽകുന്
 search-choose-engine-column =
     .label = തെരച്ചില്‍ എഞ്ചിന്‍
 search-choose-keyword-column =
-    .label = കീവേര്‍ഡ്
+    .label = മുഖ്യപദം
 search-restore-default =
     .label = സ്വതവേയുള്ള തെരച്ചില്‍ എഞ്ചിനുകള്‍ വീണ്ടെടുക്കുക
     .accesskey = D
@@ -382,7 +382,7 @@ search-remove-engine =
 search-find-more-link = കൂടുതൽ സെര്‍ച്ച് എഞ്ചിനുകൾ കണ്ടെത്തുക
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
-search-keyword-warning-title = കീവേര്‍ഡ് ആവര്‍ത്തിക്കുന്നു
+search-keyword-warning-title = മുഖ്യപദം ഇരട്ടുക
 # Variables:
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = നിലവില്‍ "{ $name }" ഉപയോഗിക്കുന്ന ഒരു കീവേര്‍ഡ് ആണു് നിങ്ങള്‍ നല്‍കിയതു്. ദയവായി മറ്റൊന്നു് തെരഞ്ഞെടുക്കുക.
@@ -464,7 +464,7 @@ sync-engine-creditcards =
 
 ## The device name controls.
 
-sync-device-name-header = ഡിവൈസ് പേര്
+sync-device-name-header = ഉപകരണപ്പേരു്
 sync-device-name-change =
     .label = ഉപകരണത്തിന്റെ പേര് മാറ്റുക…
     .accesskey = h
@@ -507,9 +507,9 @@ forms-saved-logins =
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
-    .label = പ്രധാന പാസ്‌വേര്‍ഡ് മാറ്റുക…
+    .label = പ്രധാന രഹസ്യവാക്കു് മാറ്റുക…
     .accesskey = M
-forms-master-pw-fips-desc = പാസ്‌വേര്‍ഡ് മാറ്റം പരാജയപ്പെട്ടിരിക്കുന്നു
+forms-master-pw-fips-desc = രഹസ്യവാക്കുമാറ്റം പരാജയപ്പെട്ടിരിക്കുന്നു
 
 ## OS Authentication dialog
 
@@ -573,8 +573,8 @@ sitedata-settings =
 
 ## Privacy Section - Address Bar
 
-addressbar-header = അഡ്രസ്സ് ബാര്‍
-addressbar-suggest = അഡ്രസ്സ് ബാര്‍ ഉപയോഗിക്കുമ്പോള്‍ സജ്ജസ്റ്റ് ചെയ്യുക
+addressbar-header = വിലാസപ്പട്ട
+addressbar-suggest = വിലാസപ്പട്ട ഉപയോഗിക്കുമ്പോഴു് നിൎദ്ദേശിക്കുക
 addressbar-locbar-history-option =
     .label = ബ്രൌസിങ്ങിന്റെ നാള്‍വഴി
     .accesskey = H
@@ -706,6 +706,6 @@ certs-devices =
 
 ## The following strings are used in the Download section of settings
 
-desktop-folder-name = ഡെസ്ക്ടോപ്പ്‌
-downloads-folder-name = ഡൌണ്‍ലോടുകള്‍
-choose-download-folder-title = ഡൌണ്‍ലോഡ്‌ ഫോള്‍ഡര്‍ തെരഞ്ഞെടുക്കുക
+desktop-folder-name = ഉപരിഫലകം
+downloads-folder-name = ഇറക്കിവയ്ക്കലുകൾ
+choose-download-folder-title = ഇറക്കിവയ്പ്പറ തിരഞ്ഞെടുക്കുക
