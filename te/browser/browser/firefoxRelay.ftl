@@ -11,6 +11,8 @@
 
 ## The "control" variation of the Relay offer popup
 
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
+firefox-relay-opt-in-title-1 = మీ ఈమెయిలు చిరునామాను సంరక్షించుకోండి:
 # This is preceded by firefox-relay-opt-in-title-a (on a different line)
 firefox-relay-opt-in-subtitle-a = మీ అసలు ఈమెయిల్ చిరునామాను దాచిపెట్టండి
 firefox-relay-opt-in-confirmation-disable =
