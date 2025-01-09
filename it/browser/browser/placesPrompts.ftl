@@ -15,5 +15,3 @@ places-bookmarks-restore-format-error = Tipo di file non supportato.
 places-bookmarks-restore-parse-error = Impossibile elaborare il file di backup.
 places-bookmarks-import = Importa file dei segnalibri
 places-bookmarks-export = Esporta file dei segnalibri
-places-bookmarks-paste-error-title = Sono stati trovati URL non validi
-places-bookmarks-paste-error-message-header = Impossibile aggiungere i seguenti URL ai segnalibri. Prova a controllare la formattazione e ad aggiungerli di nuovo.
