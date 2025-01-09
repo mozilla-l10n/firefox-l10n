@@ -16,3 +16,4 @@ places-bookmarks-restore-parse-error = Incapace de processar le file de salvegua
 places-bookmarks-import = Importar file de marcapaginas
 places-bookmarks-export = Exportar file de marcapaginas
 places-bookmarks-paste-error-title = URL(s) non valide trovate
+places-bookmarks-paste-error-message-header = Impossibile adder le URL(s) sequente al marcapaginas. Prova a controlar le formattation e adder los de novo.
