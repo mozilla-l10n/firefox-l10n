@@ -16,3 +16,4 @@ places-bookmarks-restore-parse-error = Татбиқи файли нусхаи э
 places-bookmarks-import = Ворид кардани файли хатбаракҳо
 places-bookmarks-export = Содир кардани файли хатбаракҳо
 places-bookmarks-paste-error-title = Нишони(ҳо)и URL-и нодуруст ёфт шуд
+places-bookmarks-paste-error-message-header = Нишони(ҳо)и URL-и зерин ба хатбаракҳои шумо илова карда намешаванд. Кӯшиш кунед, ки шаклсозиро тафтиш карда, онҳоро аз нав илова намоед.
