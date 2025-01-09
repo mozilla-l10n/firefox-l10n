@@ -35,6 +35,7 @@ callout-pdfjs-draw-button = అర్థమైంది!
 
 ## Sidebar Callout Survey Strings
 
+sidebar-callout-survey-privacy-notice-link = గోప్యతా విధానం
 sidebar-callout-survey-none-of-above = పైవేవీ కాదు
 sidebar-callout-survey-submit = సమర్పించు
 sidebar-callout-survey-thank-you = మీ ప్రతిస్పందనకు కృతజ్ఞతలు!
