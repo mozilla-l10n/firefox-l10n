@@ -15,3 +15,4 @@ places-bookmarks-restore-format-error = Навъи файл дастгирӣ н�
 places-bookmarks-restore-parse-error = Татбиқи файли нусхаи эҳтиётӣ иҷро нашуд.
 places-bookmarks-import = Ворид кардани файли хатбаракҳо
 places-bookmarks-export = Содир кардани файли хатбаракҳо
+places-bookmarks-paste-error-title = Нишони(ҳо)и URL-и нодуруст ёфт шуд
