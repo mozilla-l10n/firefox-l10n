@@ -15,3 +15,5 @@ places-bookmarks-restore-format-error = Net stipe bestânstype.
 places-bookmarks-restore-parse-error = Ferwurkjen fan it reservekopybestân is net mooglik.
 places-bookmarks-import = Blêdwizerbestân ymportearje
 places-bookmarks-export = Blêdwizerbestân eksportearje
+places-bookmarks-paste-error-title = Unjildige URL(’s) fûn
+places-bookmarks-paste-error-message-header = De folgjende URL(’s) koene net oan jo blêdwizers tafoege wurde. Probearje de opmaak te kontrolearjen en opnij ta te foegjen.

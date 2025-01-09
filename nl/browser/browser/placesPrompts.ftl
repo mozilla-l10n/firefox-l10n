@@ -15,3 +15,5 @@ places-bookmarks-restore-format-error = Niet-ondersteund bestandstype.
 places-bookmarks-restore-parse-error = Verwerken van reservekopiebestand is niet mogelijk.
 places-bookmarks-import = Bladwijzerbestand importeren
 places-bookmarks-export = Bladwijzerbestand exporteren
+places-bookmarks-paste-error-title = Ongeldige URL(’s) gevonden
+places-bookmarks-paste-error-message-header = De volgende URL(’s) kunnen niet aan uw bladwijzers worden toegevoegd. Probeer de opmaak te controleren en opnieuw toe te voegen.
