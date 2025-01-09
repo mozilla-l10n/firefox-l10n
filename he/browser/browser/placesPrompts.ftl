@@ -15,3 +15,5 @@ places-bookmarks-restore-format-error = סוג קובץ לא נתמך.
 places-bookmarks-restore-parse-error = לא ניתן לעבד את קובץ הגיבוי.
 places-bookmarks-import = ייבוא קובץ סימניות
 places-bookmarks-export = ייצוא קובץ סימניות
+places-bookmarks-paste-error-title = נמצאו כתובות אתרים לא חוקיות
+places-bookmarks-paste-error-message-header = לא ניתן היה להוסיף את כתובות האתרים הבאות לסימניות שלך. ניתן לנסות לבדוק את התבנית של הכתובות ולהוסיף אותם שוב.
