@@ -7,7 +7,7 @@ certificate-viewer-certificate-section-title = 证书
 ## Error messages
 
 certificate-viewer-error-message = 找不到证书信息，或该证书已损坏。请再试一次。
-certificate-viewer-error-title = 出问题了。
+certificate-viewer-error-title = 出了点问题。
 
 ## Certificate information labels
 
