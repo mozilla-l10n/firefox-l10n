@@ -15,3 +15,5 @@ places-bookmarks-restore-format-error = 檔案類型不支援。
 places-bookmarks-restore-parse-error = 無法處理此備份檔。
 places-bookmarks-import = 匯入書籤檔案
 places-bookmarks-export = 匯出書籤檔案
+places-bookmarks-paste-error-title = 找到無效的網址
+places-bookmarks-paste-error-message-header = 無法將下列網址加入您的書籤。請確認格式後再重新加入。
