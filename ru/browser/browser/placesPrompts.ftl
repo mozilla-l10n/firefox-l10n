@@ -15,3 +15,5 @@ places-bookmarks-restore-format-error = Неподдерживаемый тип 
 places-bookmarks-restore-parse-error = Не удалось обработать файл резервной копии.
 places-bookmarks-import = Импорт файла закладок
 places-bookmarks-export = Экспорт файла закладок
+places-bookmarks-paste-error-title = Найдены некорректные URL
+places-bookmarks-paste-error-message-header = Не удалось добавить следующие URL в ваши закладки. Попробуйте проверить форматирование и добавить их снова.
