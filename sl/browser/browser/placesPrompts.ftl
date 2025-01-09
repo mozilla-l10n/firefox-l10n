@@ -15,3 +15,5 @@ places-bookmarks-restore-format-error = Vrsta datoteke ni podprta.
 places-bookmarks-restore-parse-error = Varnostne kopije ni mogoče obdelati.
 places-bookmarks-import = Uvozi datoteko z zaznamki
 places-bookmarks-export = Izvozi datoteko zaznamkov
+places-bookmarks-paste-error-title = Najdeni neveljavni spletni naslovi
+places-bookmarks-paste-error-message-header = Naslednjih URL-jev ni bilo mogoče dodati med zaznamke. Preverite, ali so pravilno oblikovani, in jih poskusite ponovno dodati.
