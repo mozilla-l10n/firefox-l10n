@@ -15,3 +15,5 @@ places-bookmarks-restore-format-error = Njepódpěrany datajowy typ.
 places-bookmarks-restore-parse-error = Njejo móžno, zawěsćeńsku dataju pśeźěłaś.
 places-bookmarks-import = Dataju cytańskich znamjenjow importěrowaś
 places-bookmarks-export = Dataju cytańskich znamjenjow eksportěrowaś
+places-bookmarks-paste-error-title = Njepłaśiwy URL namakany
+places-bookmarks-paste-error-message-header = Slědujuce URL njedaju se wašym cytańskim znamjenjam pśidaś. Pśeglědujśo formatěrowanje a pśidajśo je znowego.

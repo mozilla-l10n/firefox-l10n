@@ -16,3 +16,4 @@ places-bookmarks-restore-parse-error = Njeje móžno, zawěsćensku dataju před
 places-bookmarks-import = Dataju zapołožkow importować
 places-bookmarks-export = Dataju zapołožkow eksportować
 places-bookmarks-paste-error-title = Njepłaćiwy URL namakany
+places-bookmarks-paste-error-message-header = Slědowace URL njedadźa so wašim zapołožkam přidać. Přepruwujće formatěrowanje a přidajće je znowa.

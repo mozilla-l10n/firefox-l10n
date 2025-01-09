@@ -111,6 +111,7 @@ firefoxview-choose-browser-button = أختر متصفح
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-description-two = بناءً على إعداداتك الحالية، لا يتذكر { -brand-short-name } نشاطك أثناء التصفح. لتغيير ذلك، <a data-l10n-name="history-settings-url-two">غيّر إعدادات التأريخ الخاص بك لتذكر تأريخك</a>.
 
 ##
 
