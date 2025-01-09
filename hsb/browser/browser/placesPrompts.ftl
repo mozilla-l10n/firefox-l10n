@@ -15,3 +15,4 @@ places-bookmarks-restore-format-error = Njepodpěrowany datajowy typ.
 places-bookmarks-restore-parse-error = Njeje móžno, zawěsćensku dataju předźěłać.
 places-bookmarks-import = Dataju zapołožkow importować
 places-bookmarks-export = Dataju zapołožkow eksportować
+places-bookmarks-paste-error-title = Njepłaćiwy URL namakany
