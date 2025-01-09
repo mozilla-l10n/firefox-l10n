@@ -107,6 +107,7 @@ appmenu-fxa-setup-sync =
 appmenu-fxa-setup-sync-new = فعّل
 appmenuitem-save-page =
     .label = احفظ الصفحة باسم…
+appmenuitem-fxa-sync-off-description = احمِ و اطلع على علاماتك وكلمات سرك والمزيد في أي مكان.
 
 ## What's New panel in App menu.
 

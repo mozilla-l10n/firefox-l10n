@@ -109,6 +109,7 @@ migration-bookmarks-from-file-picker-title = استورد ملف علامات
 migration-bookmarks-from-file-progress-header = استيراد العلامات
 migration-bookmarks-from-file = العلامات
 migration-bookmarks-from-file-success-header = استوردت العلامات بنجاح
+migration-bookmarks-from-file-no-valid-data = لا يحتوي الملف على أي بيانات علامة. أختر ملفا آخر.
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = ملف JSON
