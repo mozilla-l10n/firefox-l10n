@@ -22,13 +22,29 @@ date-picker-clear-button = മായ്ക്കുക
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the purpose of buttons that leaf through months of a calendar
 
+date-picker-previous =
+    .aria-label = കഴിഞ്ഞ മാസം
+date-picker-next =
+    .aria-label = അടുത്ത മാസം
 
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the type of a value/unit that is being selected within a
 ## Month/Year date spinner dialogs on a datepicker calendar dialog
 
+date-spinner-month =
+    .aria-label = മാസം
+date-spinner-year =
+    .aria-label = വർഷം
 
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the purpose of buttons that leaf through either months
 ## or years of a Month/Year date spinner on a datepicker calendar dialog
 
+date-spinner-month-previous =
+    .aria-label = കഴിഞ്ഞ മാസം
+date-spinner-month-next =
+    .aria-label = അടുത്ത മാസം
+date-spinner-year-previous =
+    .aria-label = കഴിഞ്ഞ വർഷം
+date-spinner-year-next =
+    .aria-label = അടുത്ത വർഷം

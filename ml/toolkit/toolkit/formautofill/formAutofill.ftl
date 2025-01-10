@@ -28,8 +28,8 @@ autofill-phishing-warningmessage-extracategory = { $categories } നേയും
 #   $categories - one or more of the categories
 autofill-phishing-warningmessage = { $categories } നെ ഓട്ടോഫില്‍ ചെയ്യും
 # Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
-autofill-category-address = address
-autofill-category-name = name
-autofill-category-organization = organization
-autofill-category-tel = phone
-autofill-category-email = email
+autofill-category-address = വിലാസം
+autofill-category-name = പേരു്
+autofill-category-organization = സ്ഥാപനം
+autofill-category-tel = ഫോണ്‍
+autofill-category-email = ഇ-തപാൽ

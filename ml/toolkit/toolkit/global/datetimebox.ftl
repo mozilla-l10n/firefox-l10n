@@ -12,9 +12,25 @@ datetime-time-placeholder = --
 
 ## Field labels for input type=date
 
+datetime-year =
+    .aria-label = വർഷം
+datetime-month =
+    .aria-label = മാസം
+datetime-day =
+    .aria-label = ദിവസം
 
 ## Field labels for input type=time
 
+datetime-hour =
+    .aria-label = മണിക്കൂ‌ർ
+datetime-minute =
+    .aria-label = മിനിറ്റുകൾ
+datetime-second =
+    .aria-label = സെക്കണ്ടുകൾ
+datetime-millisecond =
+    .aria-label = മില്ലിസെക്കണ്ടുകൾ
+datetime-dayperiod =
+    .aria-label = AM/PM
 
 ## Calendar button for input type=date
 
@@ -23,3 +39,5 @@ datetime-time-placeholder = --
 # to indicate the purpose of a toggle button inside of the <input type="date">
 # field that opens/closes a date picker calendar dialog
 
+datetime-calendar =
+    .aria-label = പഞ്ചാംഗം
