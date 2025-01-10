@@ -61,4 +61,6 @@ show-addon =
 #   $dispatchesSincePrevious (Number) - how many dispatches occurred in the last 2 seconds
 #   $durationSincePrevious (Number) - how much CPU time was used in the last 2 seconds
 item =
-    .title = Wywołania od wczytania: { $totalDispatches } ({ $totalDuration } ms){ "\u000A" }Wywołania w ostatnich sekundach: { $dispatchesSincePrevious } ({ $durationSincePrevious } ms)
+    .title =
+        Wywołania od wczytania: { $totalDispatches } ({ $totalDuration } ms)
+        Wywołania w ostatnich sekundach: { $dispatchesSincePrevious } ({ $durationSincePrevious } ms)

@@ -10,9 +10,14 @@
 ## to indicate the purpose of a date picker calendar and a month-year selection
 ## spinner dialogs for HTML's <input type="date">
 
+date-picker-label =
+    .aria-label = ഒരു തീയതി തിരഞ്ഞെടുക്കുക
+date-spinner-label =
+    .aria-label = ഒരു മാസവും വർഷവും തിരഞ്ഞെടുക്കുക
 
 ## Text of the clear button
 
+date-picker-clear-button = മായ്ക്കുക
 
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the purpose of buttons that leaf through months of a calendar
