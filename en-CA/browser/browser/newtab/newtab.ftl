@@ -463,3 +463,7 @@ newtab-section-unfollow-button = Unfollow
 
 ## Confirmation modal for blocking a section
 
+newtab-section-confirm-block-section-p1 = Are you sure you want to block this section?
+newtab-section-confirm-block-section-p2 = Blocked section will no longer appear in your feed.
+newtab-section-block-section-button = Block this section
+newtab-section-cancel-button = Not now
