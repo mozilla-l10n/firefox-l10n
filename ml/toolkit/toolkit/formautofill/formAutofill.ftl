@@ -5,6 +5,15 @@
 
 ## OS Prompt Dialog
 
+# The macos string is preceded by the operating system (macOS) with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-use-payment-method-os-prompt-macos = കരുതിവച്ച പണമടക്കൽമുറ വിവരങ്ങളെ ഉപയോഗിക്കുക
+autofill-use-payment-method-os-prompt-windows = { -brand-short-name } താങ്ങളുടെ കരുതിവച്ച പണമടക്കൽമുറ വിവരം ഉപയോഗിക്കാൻ ശ്രമിക്കുന്നു. താഴെ കൊടുത്തിരിക്കുന്ന വിണ്ടോസ് അക്കൗണ്ടിലേക്കു് പ്രവേശനം ഉറപ്പിക്കുക
+autofill-use-payment-method-os-prompt-other = { -brand-short-name } കരുതിവച്ച പണമടക്കൽമുറ വിവരം ഉപയോഗിക്കാൻ ശ്രമിക്കുന്നു.
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-payment-method-os-prompt-macos = പണമടക്കൽമുറ വിവരം കാണിക്കുക
+autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } താങ്ങളുടെ കരുതിവച്ച പണമടക്കൽമുറ വിവരം കാണിപ്പിക്കാൻ ശ്രമിക്കുന്നു. താഴെ കൊടുത്തിരിക്കുന്ന വിണ്ടോസ് അക്കൗണ്ടിലേക്കു് പ്രവേശനം ഉറപ്പിക്കുക
 # The links lead users to Form Autofill browser preferences.
 autofill-options-link = ഫോം ഓട്ടോഫിൽ ഓപ്ഷനുകൾ
 autofill-options-link-osx = ഫോം ഓട്ടോഫിൽ മുൻഗണനകൾ
