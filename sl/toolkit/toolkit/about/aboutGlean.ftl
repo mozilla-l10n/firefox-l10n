@@ -24,6 +24,7 @@ about-glean-interface-description =
     je knjižnica za zbiranje podatkov, ki se uporablja v projektih { -vendor-short-name }.
     Ta vmesnik je namenjen razvijalcem in preskuševalcem za ročno
     <a data-l10n-name="fog-link">preskušanje inštrumentacije</a>.
+about-glean-category-about-glean = O { -glean-brand-name(sklon: "mestnik") }
 about-glean-upload-enabled = Pošiljanje podatkov je omogočeno.
 about-glean-upload-disabled = Pošiljanje podatkov ni omogočeno.
 about-glean-upload-enabled-local = Omogočeno je samo pošiljanje podatkov na krajevni strežnik.
