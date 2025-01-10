@@ -16,3 +16,4 @@ places-bookmarks-restore-parse-error = Soubor zálohy se nepodařilo zpracovat.
 places-bookmarks-import = Importovat soubor záložek
 places-bookmarks-export = Exportovat soubor záložek
 places-bookmarks-paste-error-title = Nalezeny neplatné adresy URL
+places-bookmarks-paste-error-message-header = Následující adresy URL se nepodařilo přidat do záložek. Zkuste zkontrolovat formátování a přidat je znovu.
