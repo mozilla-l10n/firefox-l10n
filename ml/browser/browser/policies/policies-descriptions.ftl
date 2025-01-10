@@ -11,7 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Chrome.storage.managed വഴി WebExtensions ആക്സസ് ചെയ്യാൻ കഴിയുന്ന നയങ്ങൾ സജ്ജീകരിക്കുക.
-policy-AppUpdateURL = ഇഷ്ടാനുസൃത അപ്ലിക്കേഷൻ അപ്ഡേറ്റ് URL സജ്ജമാക്കുക.
+policy-AppUpdateURL = ഇഷ്ടാനുസൃത പ്രയോഗ പുതുക്കൽ URL സജ്ജമാക്കുക.
 policy-Authentication = പിന്തുണയ്ക്കുന്ന വെബ്സൈറ്റുകളിൽ സംയോജിത പ്രാമാണീകരണം സജ്ജമാക്കുക.
 policy-BlockAboutAddons = ആഡ്-ഓൺ മാനേജര്‍ കൈകാര്യം ചെയ്യുന്നത് തടയുക (about:addons).
 policy-BlockAboutConfig = about:config താളിലേക്കുള്ല പ്രവേശനം തടയുക.
@@ -21,10 +21,10 @@ policy-Bookmarks = ബുക്ക്മാർക്കുകളുടെ ടൂ
 policy-CaptivePortal = ക്യാപ്റ്റീവ് പോർട്ടൽ പിന്തുണ പ്രാപ്തമാക്കുക അല്ലെങ്കിൽ അപ്രാപ്തമാക്കുക.
 policy-CertificatesDescription = സർട്ടിഫിക്കറ്റുകൾ ചേർക്കുക അല്ലെങ്കിൽ സ്വയം സൃഷ്ടിച്ച സർട്ടിഫിക്കറ്റുകൾ ഉപയോഗിക്കുക.
 policy-Cookies = കുക്കികൾ സജ്ജമാക്കുന്നതിന് വെബ്സൈറ്റുകളെ അനുവദിക്കുകയോ നിരസിക്കുകയോ ചെയ്യുക.
-policy-DefaultDownloadDirectory = ഡിഫൊള്‍ട്  ഡൗൺലോഡ് ഡയറക്‌ടറി സജ്ജമാക്കുക.
+policy-DefaultDownloadDirectory = തനതു ഇറക്കിവയ്ക്കൽനിർദ്ദേശകം സജ്ജമാക്കുക
 policy-DisableAppUpdate = പുതുക്കുന്നതില്‍ നിന്നും ബ്രൌസറിനെ തടയുക.
 policy-DisableBuiltinPDFViewer = { -brand-short-name }ലെ അന്തർനിർമ്മിത പിഡിഎഫ് വ്യൂവർ PDF.js അപ്രാപ്‌തമാക്കുക.
-policy-DisableDeveloperTools = ഡവലപ്പര്‍ പ്രയോഗങ്ങളിലേയ്ക്കുള്ല പ്രവേശനം തടയുക
+policy-DisableDeveloperTools = വികസനാക്താവു് ഉപകരണങ്ങളിലേക്കുള്ള പ്രവേശണം തടയുക
 policy-DisableFeedbackCommands = സഹായ മെനുവിൽ നിന്ന് ഫീഡ്‌ബാക്ക് അയയ്‌ക്കുന്നതിന് കമാൻഡുകൾ പ്രവർത്തനരഹിതമാക്കുക (ഫീഡ്‌ബാക്ക് സമർപ്പിക്കുക, വഞ്ചനാപരമായ സൈറ്റ് റിപ്പോർട്ടുചെയ്യുക).
 policy-DisableFirefoxAccounts = സമന്വയം ഉൾപ്പെടെ { -fxaccount-brand-name } അടിസ്ഥാനമാക്കിയുള്ള സേവനങ്ങൾ അപ്രാപ്‌തമാക്കുക.
 # Firefox Screenshots is the name of the feature, and should not be translated.
