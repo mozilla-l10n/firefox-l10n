@@ -232,6 +232,11 @@ about-logins-confirm-remove-all-dialog-title =
         [one] { $count } പ്രവേശണങ്ങൾ മാറ്റണോ?
        *[other] എല്ലാ { $count } പ്രവേശണങ്ങൾ മാറ്റണോ?
     }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] എല്ലാ ഉപകരണങ്ങളിൽ നിന്നും { $count } പ്രവേശണം മാറ്റണോ?
+       *[other] എല്ലാ ഉപകരണങ്ങളിൽ നിന്നും എല്ലാ { $count } പ്രവേശണങ്ങൾ മാറ്റണോ?
+    }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
@@ -244,6 +249,12 @@ about-logins-confirm-remove-all-dialog-title2 =
     { $count ->
         [one] { $count } രഹസ്യാവാക്കു് മാറ്റണോ?
        *[other] എല്ലാ { $count } രഹസ്യാവാക്കുകൾ മാറ്റണോ?
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] എല്ലാ ഉപകരണങ്ങളിൽ നിന്നു് { $count } രഹസ്യവാക്കു് മാറ്റട്ടെ?
+       *[other] എല്ലാ ഉപകരണങ്ങളിൽ നിന്നു് { $count } രഹസ്യവാക്കുകൾ മാറ്റട്ടെ?
     }
 
 ##
