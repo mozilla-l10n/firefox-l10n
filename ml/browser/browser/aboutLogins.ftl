@@ -249,6 +249,7 @@ about-logins-confirm-remove-all-dialog-title2 =
 ##
 
 about-logins-confirm-export-dialog-title = പ്രവേശിക്കലുകളും രഹസ്യവാക്കുകളും കയറ്റുമതിക്കുക.
+about-logins-confirm-export-dialog-message = താങ്ങളുടെ രഹസ്യവാക്കുകൾ വായിക്കാവുന്ന എഴുതായി (ഉദ: BadP@ssw0rd) കരുതിവയ്ക്കപ്പെടും, അതിനാൽ കയറ്റുമതിച്ച ഫയൽ തുറക്കുന്ന ആൎക്കും അവയെ കാണാനാവും.
 about-logins-confirm-export-dialog-confirm-button = കയറ്റുമതി ചെയ്യുക…
 about-logins-confirm-export-dialog-title2 = രഹസ്യവാക്കുകൾ കയറ്റുമതി ചെയ്യുന്നതിനെക്കുറിച്ചു് ഒരു കുറിപ്പ്
 about-logins-confirm-export-dialog-confirm-button2 = കയറ്റുമതി തുടരുക
