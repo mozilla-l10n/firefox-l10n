@@ -67,7 +67,7 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Catena di certificati:
-open-in-new-window-for-csp-or-xfo-error = Apri sito in una nuova finestra
+open-in-new-window-for-csp-or-xfo-error = Apri sito in nuova finestra
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Per proteggere la tua sicurezza, { $hostname } non consente a { -brand-short-name } di visualizzare la pagina quando è inclusa all’interno di un altro sito. Per visualizzare questa pagina è necessario aprirla in una nuova finestra.
