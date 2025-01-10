@@ -15,3 +15,5 @@ places-bookmarks-restore-format-error = Tipo de arquivo não suportado.
 places-bookmarks-restore-parse-error = Não foi possível processar o arquivo de backup.
 places-bookmarks-import = Importar arquivo de favoritos
 places-bookmarks-export = Exportar arquivo de favoritos
+places-bookmarks-paste-error-title = Foram encontradas URLs inválidas
+places-bookmarks-paste-error-message-header = As URLs a seguir não puderam ser adicionadas aos seus favoritos. Verifique a formatação e tente adicionar novamente.
