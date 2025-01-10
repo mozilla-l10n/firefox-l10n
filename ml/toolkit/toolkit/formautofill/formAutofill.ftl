@@ -24,6 +24,9 @@ autofill-options-link-osx = രൂപ തനുപ്പൂരിപ്പിക
 # If Sync is enabled and credit card sync is available,
 # this checkbox is displayed on the doorhanger shown when saving credit card.
 credit-card-doorhanger-credit-cards-sync-checkbox = ഉപകരണങ്ങൾ കുറുകെ കരുതിവച്ച ചീട്ടുകളെ സമന്വയിപ്പിക്കുക
+# Used on the doorhanger when users submit payment with credit card.
+credit-card-save-doorhanger-header = ഈ ചീട്ടു് സുരക്ഷിതമായി കരുതിവയ്ക്കട്ടെ?
+credit-card-save-doorhanger-description = { -brand-short-name } താങ്ങളുടെ ചീട്ടക്കം രൂപമാറ്റം ചെയ്യും. താങ്ങളുടെ സുരക്ഷസങ്കേതം കരുതിവയ്ക്കപ്പെടില്ല.
 credit-card-capture-save-button =
     .label = കരുതിവയ്ക്കുക
     .accessKey = ക
@@ -44,6 +47,8 @@ credit-card-capture-save-new-button =
 credit-card-capture-update-button =
     .label = നിലവിലുള്ള ചീട്ടിനെ പുതുക്കുക
     .accessKey = പ
+# Label for the button in the dropdown menu used to clear the populated form.
+autofill-clear-form-label = തനുപ്പൂരിപ്പിക്കൽ രൂപമിനെ മായ്ക്കുക
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-addresses-label = വിലാസങ്ങൾ കൈകാര്യം ചെയ്യുക
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
