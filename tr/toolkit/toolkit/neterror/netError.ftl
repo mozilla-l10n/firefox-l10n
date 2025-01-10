@@ -41,6 +41,8 @@ neterror-generic-error = { -brand-short-name } bilinmeyen bir nedenden dolayı b
 neterror-load-error-try-again = Site geçici olarak kapalı veya çok meşgul olabilir. Biraz bekleyip yeniden deneyin.
 neterror-load-error-connection = Hiçbir sayfayı açamıyorsanız bilgisayarınızın ağ bağlantısını kontrol edin.
 neterror-load-error-firewall = Bilgisayarınız veya ağınız güvenlik duvarı veya vekil sunucu ile korunuyorsa { -brand-short-name } uygulamasının web’e erişim izni olduğundan emin olun.
+# This warning is only shown on macOS Sequoia and later (see bug 1929377)
+neterror-load-osx-permission = Bir yerel ağ sayfasını yüklemeye çalışıyorsanız lütfen macOS Gizlilik ve Güvenlik ayarlarından { -brand-short-name } uygulamasına Yerel Ağ izinlerinin verildiğini kontrol edin.
 neterror-captive-portal = İnternete erişebilmek için önce bu ağa giriş yapmalısınız.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
