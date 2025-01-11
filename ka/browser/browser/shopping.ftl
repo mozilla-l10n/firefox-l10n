@@ -195,6 +195,9 @@ shopping-survey-thanks-title = გმადლობთ გამოხმაუ
 shopping-survey-opted-out-hard-to-understand = ძნელად გასაგებია
 shopping-survey-opted-out-too-slow = ზედმეტად ნელია
 shopping-survey-opted-out-not-accurate = არაზუსტია
+shopping-survey-opted-out-not-helpful = არ გამომადგა
+shopping-survey-opted-out-check-myself = მირჩევნია თავად გადავამოწმო მიმოხივლები
+shopping-survey-opted-out-other = სხვა
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to

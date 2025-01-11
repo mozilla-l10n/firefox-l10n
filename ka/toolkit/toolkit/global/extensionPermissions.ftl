@@ -37,3 +37,6 @@ webext-perms-description-webNavigation = გვერდებზე გად�
 ## The userScripts permission includes an additional explanation that is
 ## displayed prominently near the usual permission description.
 
+webext-perms-extra-warning-userScripts-long = გადაუმოწმებელ სკრიპტებს შეუძლია საფრთხე შეუქმნას უსაფრთხოებასა და პირადულობას, სახიფათო კოდის გაშვებით ან ვებსაიტზე მოქმედებების თვალის დევნებით. სკრიპტების გაშვების ნება დართეთ მხოლოდ იმ გაფართოებებსა თუ წყაროებს, რომელთაც ენდობით.
+# A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
+webext-perms-extra-warning-userScripts-short = გადაუმოწმებელ სკრიპტებს შეუძლია საფრთხე შეუქმნას უსაფრთხოებასა და პირადულობას. სკრიპტების გაშვების ნება დართეთ მხოლოდ იმ გაფართოებებსა თუ წყაროებს, რომელთაც ენდობით.
