@@ -392,8 +392,12 @@ onboarding-new-tabs-title = Missä haluat välilehtien sijaitsevan?
 onboarding-new-tabs-subtitle = Voit vaihtaa tätä asetusta milloin vain sivupalkin asetuksista.
 # Setup screen for vertical tabs - too many tabs variation
 onboarding-many-tabs-title = Välilehdet haluamallasi tavalla
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Pidätkö paljon välilehtiä avoinna? Kokeile sivulla olevia välilehtiä saadaksesi virtaviivaisemman näkymän. Tai pidä välilehdet yläosassa kuten tähän asti. Vaihda milloin tahansa.
 # Setup screen for vertical tabs - focused variation
 onboarding-focused-tabs-title = Valitse välilehtien asettelu
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Jos haluat keskittymistä helpottavan virtaviivaistetun näkymän, kokeile sivussa olevia välilehtiä. Tai pidä välilehdet yläosassa kuten tähän asti. Vaihda milloin tahansa.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Välilehdet reunassa
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -440,10 +444,13 @@ onboarding-checklist-sign-up = Rekisteröidy tai kirjaudu sisään tilillesi
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-feature-callout-title = Kokeile välilehtiryhmiä vähentääksesi sotkua ja keskittyäksesi paremmin
+tab-groups-onboarding-feature-callout-subtitle = Järjestäydy vetämällä välilehti toisen päälle ja luo siten ensimmäinen ryhmä.
 
 ## Multi Profiles feature onboarding messages
 
 multi-profile-spotlight-title = Tervehdi { -brand-product-name }-profiileja
+multi-profile-spotlight-body = Vaihda helposti työn ja huvin välillä selatessasi. Profiilit pitävät selaustietosi, mukaan lukien hakuhistorian ja salasanat, täysin erillään, jotta pysyt järjestyksessä.
 multi-profile-spotlight-cta = Luo profiili
 multi-profile-callout-title = Luo eri profiilit työtä ja vapaa-aikaa varten
 multi-profile-callout-subtitle = Profiilien avulla voit pitää selaustietosi, kuten hakuhistorian ja salasanat, täysin erillään.

@@ -15,3 +15,5 @@ places-bookmarks-restore-format-error = Tiedostomuotoa ei tueta.
 places-bookmarks-restore-parse-error = Varmuuskopiota ei voitu käsitellä.
 places-bookmarks-import = Tuo kirjanmerkkitiedosto
 places-bookmarks-export = Vie kirjanmerkkitiedosto
+places-bookmarks-paste-error-title = Virheellisiä URL-osoitteita löytynyt
+places-bookmarks-paste-error-message-header = Seuraavia URL-osoitteita ei voitu lisätä kirjanmerkkeihin. Tarkista muotoilu ja yritä lisätä ne uudelleen.

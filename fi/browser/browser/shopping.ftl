@@ -187,6 +187,13 @@ shopping-survey-thanks =
 ## Shopping opted-out survey strings
 ## Opt-out survey options are displayed as checkboxes and the user can select one or many.
 
+shopping-survey-thanks-title = Kiitos palautteestasi!
+shopping-survey-opted-out-hard-to-understand = Sitä on vaikea ymmärtää
+shopping-survey-opted-out-too-slow = Se on liian hidas
+shopping-survey-opted-out-not-accurate = Se ei ole tarkka
+shopping-survey-opted-out-not-helpful = Siitä ei ole minulle hyötyä
+shopping-survey-opted-out-check-myself = Tarkistan arvostelut mieluummin itse
+shopping-survey-opted-out-other = Muu
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
