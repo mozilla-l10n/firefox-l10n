@@ -58,6 +58,10 @@ webext-perms-sideload-menu-item = { $addonName } { -brand-short-name } ലേക
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } ന് പുതിയ അനുമതികള്‍ വേണം
+# This message is shown when one or more extensions have been imported from a
+# different browser into Firefox, and the user needs to complete the import to
+# start these extensions. This message is shown in the appmenu.
+webext-imported-addons = { -brand-short-name }-ലേക്കു് ഇറക്കുമതിച്ച വിപുലീകരണങ്ങളുടെ സ്ഥാപിക്കൽ തീരുമാനിക്കുക
 
 ## Add-on removal warning
 
@@ -68,6 +72,7 @@ addon-removal-title = { $name } മാറ്റട്ടെ?
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = { -brand-shorter-name } നിന്നു { $name } മാറ്റുണോ?
 addon-removal-button = മാറ്റുക
+addon-removal-abuse-report-checkbox = ഈ വിപുലീകരണം { -vendor-short-name } എന്നതിലേക്ക് റിപ്പോർട്ടുചെയ്യുക
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -109,6 +114,7 @@ addon-install-error-incorrect-hash = { -brand-short-name } ആഡ്ഓണുമ
 addon-install-error-corrupt-file = സെറ്റില്‍ നിന്നും ഇറക്കിവച്ച ആഡ്-ഓണില്‍ തകരാറുള്ളതിനാല്‍, ഇതു് സ്ഥാപിക്കാൻ പറ്റിയില്ല.
 addon-install-error-file-access = ആവശ്യമായ ഫയലില്‍ { -brand-short-name }-ന് മാറ്റം വരുത്തുവാന്‍ പറ്റാത്തത് കൊണ്ട്, { $addonName } ഇന്‍സ്റ്റാള്‍ ചെയ്യാന്‍ സാധ്യമായില്ല.
 addon-install-error-not-signed = { -brand-short-name } പരിശോധിക്കപ്പെട്ടിട്ടില്ലാത്ത ഒരു് ആഡ്-ഓണ്‍ സ്ഥാപിക്കുന്നതിൽ നിന്നും ഈ സൈറ്റിനെ തടഞ്ഞിരിക്കുന്നു.
+addon-install-error-invalid-domain = ഈ ഇടത്തിൽ നിന്നു് { $addonName } ആഡോണിനെ സ്ഥാപിക്കാൻ കഴിയില്ല.
 addon-local-install-error-network-failure = ഒരു ഫയല്വവസ്ഥ പിശക് കാരണം ഈ ആഡ് സ്ഥാപിക്കാൻ പറ്റത്തില്ല.
 addon-local-install-error-incorrect-hash = { -brand-short-name } ആഡ്-ഓണുമായി പൊരുത്തപ്പെടാഞ്ഞതിനാല്‍, ഈ ആഡ്-ഓണ്‍ സ്ഥാപിക്കാൻ സാധ്യമായില്ല.
 addon-local-install-error-corrupt-file = ഈ ആഡ്-ഓണില്‍ തകരാറുള്ളതിനാല്‍, ഇതു് സ്ഥാപിക്കാൻ പറ്റിയില്ല.
