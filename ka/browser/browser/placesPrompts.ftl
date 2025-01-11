@@ -15,3 +15,5 @@ places-bookmarks-restore-format-error = მიუღებელი სახი
 places-bookmarks-restore-parse-error = ვერ ხერხდება მარქაფის ფაილის დამუშავება.
 places-bookmarks-import = სანიშნების ფაილის შემოტანა
 places-bookmarks-export = სანიშნების ფაილის გატანა
+places-bookmarks-paste-error-title = ნაპოვნია უმართებულო URL-ბმულ(ებ)ი
+places-bookmarks-paste-error-message-header = მოცემული URL-ბმულ(ებ)ი ვერ დაემატება თქვენს სანიშნებს. გადაამოწმეთ, გამართულია თუ არა და კვლავ სცადეთ დამატება.
