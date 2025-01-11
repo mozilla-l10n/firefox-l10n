@@ -190,6 +190,14 @@ shopping-survey-thanks =
 ## Shopping opted-out survey strings
 ## Opt-out survey options are displayed as checkboxes and the user can select one or many.
 
+shopping-survey-opted-out-multiselect-label = Будь ласка, повідомте нам, чому ви вимкнули засіб перевірки відгуків. Можна вибрати декілька варіантів.
+shopping-survey-thanks-title = Дякуємо за ваш відгук!
+shopping-survey-opted-out-hard-to-understand = Він незрозумілий
+shopping-survey-opted-out-too-slow = Занадто повільний
+shopping-survey-opted-out-not-accurate = Неточні результати
+shopping-survey-opted-out-not-helpful = Мені це не потрібно
+shopping-survey-opted-out-check-myself = Краще перевірятиму відгуки особисто
+shopping-survey-opted-out-other = Інше
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
