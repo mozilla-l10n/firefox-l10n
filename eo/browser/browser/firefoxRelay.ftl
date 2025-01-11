@@ -44,6 +44,9 @@ firefox-relay-opt-in-confirmation-postpone =
 firefox-relay-and-fxa-opt-in-confirmation-enable-button =
     .label = Komenci seancon en { -brand-product-name } kaj uzi repoŝtan maskon
     .accesskey = K
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
+    .label = Krei konton
+    .accesskey = K
 firefox-relay-and-fxa-opt-in-confirmation-disable =
     .label = Ne montri tion ĉi al mi denove
     .accesskey = N
@@ -53,6 +56,8 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 
 ## The "control" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-second-sentence-control = Unue kreu konton aŭ komencu seancon por uzi retpoŝtan maskon
+firefox-relay-offer-legal-notice-control = Se vi kreas konton kaj retpoŝtan maskon vi akceptas la <label data-l10n-name="tos-url">kondiĉojn de uzo</label> kaj <label data-l10n-name="privacy-url">rimarkon pri privateco</label>.
 
 ## The "basic-info" variation of the Relay offer popup
 

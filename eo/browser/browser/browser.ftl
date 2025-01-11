@@ -51,6 +51,11 @@ browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = Privata retumo de { -brand-shortcut-name }
+# This gets set as the initial title, and is overridden as soon as we start
+# updating the titlebar based on loaded tabs or private browsing state.
+# This should match the `data-title-default` attribute in both
+# `browser-main-window` and `browser-main-window-mac`.
+browser-main-window-default-title = { -brand-full-name }
 
 ##
 
@@ -650,6 +655,12 @@ urlbar-result-action-search-bookmarks = Serĉi en legosignoj
 urlbar-result-action-search-history = Serĉi en historio
 urlbar-result-action-search-tabs = Serĉi en la langetoj
 urlbar-result-action-search-actions = Serĉaj agoj
+# Label for a quickaction result used to switch to an open tab group.
+#  $group (String): the name of the tab group to switch to
+urlbar-result-action-switch-to-tabgroup = Iri al { $group }
+# Label for a quickaction result used to re-opan a saved tab group.
+#  $group (String): the name of the tab group to re-open
+urlbar-result-action-open-saved-tabgroup = Malfermi { $group }
 
 ## Labels shown above groups of urlbar results
 
