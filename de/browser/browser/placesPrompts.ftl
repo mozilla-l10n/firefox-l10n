@@ -15,3 +15,5 @@ places-bookmarks-restore-format-error = Nichtunterstützter Dateityp.
 places-bookmarks-restore-parse-error = Die Backup-Datei konnte nicht verarbeitet werden.
 places-bookmarks-import = Lesezeichendatei importieren
 places-bookmarks-export = Lesezeichendatei exportieren
+places-bookmarks-paste-error-title = Ungültige URL(s) gefunden
+places-bookmarks-paste-error-message-header = Die folgenden URLs konnten nicht zu Ihren Lesezeichen hinzugefügt werden. Versuchen Sie, die Formatierung zu überprüfen und sie erneut hinzuzufügen.
