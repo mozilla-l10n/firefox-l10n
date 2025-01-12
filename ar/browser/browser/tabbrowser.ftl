@@ -108,6 +108,7 @@ tabbrowser-confirm-close-tabs-title =
        *[other] أتريد إغلاق { $tabCount } لسان؟
     }
 tabbrowser-confirm-close-tabs-button = أغلق الألسنة
+tabbrowser-ask-close-tabs-checkbox = اسأل قبل محاولة إغلاق عدّة ألسنة
 tabbrowser-confirm-close-tabs-checkbox = أكّد علي عند محاولة إغلاق عدّة ألسنة
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
@@ -221,3 +222,8 @@ tabbrowser-manager-close-tab =
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-group-editor-action-delete =
+    .label = احذف المجموعة
+tab-group-editor-done =
+    .label = تمّ
+    .accessKey = م
