@@ -58,7 +58,7 @@ sidebar-title =
 sidebar-description = Acceda fácilmente al historial, pestañas de otros dispositivos, extensiones de la barra lateral y más al navegar. <a data-l10n-name="connect">Compartir opinión</a>
 vertical-tabs-title =
     .label = Pestañas verticales
-vertical-tabs-description = Mueva las pestañas de la parte superior del navegador al lateral. También requiere probar la barra lateral. <a data-l10n-name="connect">Compartir opinións</a>
+vertical-tabs-description = Mueva las pestañas de la parte superior del navegador al lateral. También requiere probar la barra lateral. <a data-l10n-name="connect">Compartir opinión</a>
 experimental-features-group-developer-tools =
     .label = Herramientas para desarrolladores
 experimental-features-group-webpage-display =

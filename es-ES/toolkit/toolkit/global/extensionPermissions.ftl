@@ -37,3 +37,6 @@ webext-perms-description-webNavigation = Acceder a la actividad del navegador du
 ## The userScripts permission includes an additional explanation that is
 ## displayed prominently near the usual permission description.
 
+webext-perms-extra-warning-userScripts-long = Los scripts no verificados pueden representar riesgos de seguridad y privacidad, como ejecutar código dañino o rastrear la actividad del sitio web. Solo ejecute scripts de extensiones o fuentes en las que confíe.
+# A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
+webext-perms-extra-warning-userScripts-short = Los scripts no verificados pueden representar riesgos de seguridad y privacidad. Solo ejecute scripts de extensiones o fuentes en las que confíe.
