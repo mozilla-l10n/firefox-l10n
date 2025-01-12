@@ -190,6 +190,13 @@ shopping-survey-thanks =
 ## Shopping opted-out survey strings
 ## Opt-out survey options are displayed as checkboxes and the user can select one or many.
 
+shopping-survey-thanks-title = Пікіріңізге рахмет!
+shopping-survey-opted-out-hard-to-understand = Бұны түсіну қиын
+shopping-survey-opted-out-too-slow = Бұл тым баяу
+shopping-survey-opted-out-not-accurate = Бұл дәл емес
+shopping-survey-opted-out-not-helpful = Бұл маған пайдалы емес
+shopping-survey-opted-out-check-myself = Мен пікірлерді өзім тексергім келеді
+shopping-survey-opted-out-other = Басқа
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
