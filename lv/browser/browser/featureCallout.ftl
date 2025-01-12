@@ -33,7 +33,7 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Ar ko sākt
 
 ## PDF.js Feature Tour Strings
 
-callout-pdfjs-edit-title = Rediģējiet PDF datnes, izmantojot mūsu jauno teksta rīku
+callout-pdfjs-edit-title = Rediģējiet PDF datnes ar mūsu jauno teksta rīku
 callout-pdfjs-edit-body-a = Aizpildiet veidlapas, pievienojiet komentārus vai veiciet piezīmes pašā { -brand-short-name }.
 callout-pdfjs-edit-body-b = Jums vairs nevajadzēs meklēt bezmaksas tiešsaistes redaktors. Aizpildiet veidlapas, pievienojiet komentārus vai veiciet piezīmes pašā { -brand-short-name }.
 callout-pdfjs-edit-button = Nākamais
