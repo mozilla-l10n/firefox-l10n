@@ -97,7 +97,7 @@ pkcs12-decode-err = 解码该文件失败。它可能不是 PKCS #12 格式，�
 pkcs12-unknown-err-restore = 恢复 PKCS #12 文件失败，原因未知。
 pkcs12-unknown-err-backup = 创建 PKCS #12 备份文件失败，原因未知。
 pkcs12-unknown-err = PKCS #12 操作失败，原因未知。
-pkcs12-info-no-smartcard-backup = 不可能备份硬件安全设备（如智能卡）中的证书。
+pkcs12-info-no-smartcard-backup = 不能备份硬件安全设备（如智能卡）中的证书。
 pkcs12-dup-data = 证书和私钥已经存在于此安全设备中了。
 
 ## PKCS#12 file dialogs
