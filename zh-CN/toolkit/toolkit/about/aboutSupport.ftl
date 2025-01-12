@@ -54,8 +54,8 @@ app-basics-show-update-history = 显示更新历史
 app-basics-binary = 应用程序二进制文件
 app-basics-profile-dir =
     { PLATFORM() ->
-        [linux] 配置文件夹
-       *[other] 配置文件夹
+        [linux] 配置文件文件夹
+       *[other] 配置文件文件夹
     }
 app-basics-enabled-plugins = 已启用的插件
 app-basics-build-config = 构建配置
