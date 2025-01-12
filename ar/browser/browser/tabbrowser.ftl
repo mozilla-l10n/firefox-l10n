@@ -163,6 +163,8 @@ tabbrowser-confirm-caretbrowsing-checkbox = لا تعرض هذا الحوار م
 
 ## Confirmation dialog for closing all duplicate tabs
 
+tabbrowser-confirm-close-all-duplicate-tabs-title = أغلِق الألسنة المتكررة؟
+tabbrowser-confirm-close-all-duplicate-tabs-text = سنقوم بإغلاق الألسنة المتكررة في هذه النافذة. وستظل الألسنة النشطة الأخيرة مفتوحة.
 
 ##
 
