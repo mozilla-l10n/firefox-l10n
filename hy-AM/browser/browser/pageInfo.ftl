@@ -126,14 +126,14 @@ page-info-not-specified =
     .value = Նշված չէ
 not-set-alternative-text = Նշված չէ
 not-set-date = Նշված չէ
-media-img = Նկար
+media-img = Պատկեր
 media-bg-img = Խորապատկեր
 media-border-img = Եզրագիծը
 media-list-img = Կետանիշերով
 media-cursor = Կուրսորը
 media-object = Օբյեկտ
 media-embed = Ներփակված
-media-link = Մանրանկար
+media-link = Պատկերակ
 media-input = Մուտքագրում
 media-video = Տեսաֆայլ
 media-audio = Աուդիո
@@ -199,7 +199,7 @@ media-animated-image-type =
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
-    .value = Նկար { $type }
+    .value = Պատկեր { $type }
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -227,7 +227,7 @@ media-file-size = { $size } ԿԲ
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 media-block-image =
-    .label = Փակել Նկարները { $website }-ից
+    .label = Փակել պատկերները { $website }-ից
     .accesskey = B
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box

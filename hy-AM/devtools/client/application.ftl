@@ -78,7 +78,7 @@ manifest-icon-purpose = Նպատակը՝<code>{ $purpose }</code>
 # Text displayed as the alt attribute for <img> tags showing the icons in the
 # manifest.
 manifest-icon-img =
-    .alt = Մանրանկար
+    .alt = Պատկերակ
 # Text displayed as the title attribute for <img> tags showing the icons in the
 # manifest.
 # Variables:

@@ -53,8 +53,8 @@ newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Մուտքագրեք կամ տեղադրեք URL
 newtab-topsites-url-validation = Անհրաժեշտ է վավեր URL
-newtab-topsites-image-url-label = Հարմարեցված նկարի URL
-newtab-topsites-use-image-link = Օգտագործել հարմարեցված նկար...
+newtab-topsites-image-url-label = Հարմարեցված պատկերի URL
+newtab-topsites-use-image-link = Օգտագործել հարմարեցված պատկեր...
 newtab-topsites-image-validation = Նկարը չհաջողվեց բեռնել: Փորձեք այլ URL.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
