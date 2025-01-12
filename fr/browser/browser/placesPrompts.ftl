@@ -15,3 +15,5 @@ places-bookmarks-restore-format-error = Type de fichier non géré.
 places-bookmarks-restore-parse-error = Impossible de traiter le fichier de sauvegarde.
 places-bookmarks-import = Importer des marque-pages
 places-bookmarks-export = Exporter les marque-pages
+places-bookmarks-paste-error-title = URL invalide(s) trouvée(s)
+places-bookmarks-paste-error-message-header = Les URL suivantes n’ont pas pu être ajoutées à vos marque-pages. Essayez d’en vérifier le format et ajoutez-les à nouveau.

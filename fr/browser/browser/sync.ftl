@@ -54,6 +54,10 @@ sync-profile-different-account-header = Ce profil a été précédemment synchro
 sync-profile-different-account-description = Pour que vos données restent organisées et en sécurité, chaque profil { -brand-product-name } ne peut être synchronisé qu’avec un seul compte. Pour vous connecter via { $acctEmail }, veuillez créer un nouveau profil.
 # Dialog 1 - different account signing in with merge option
 sync-profile-different-account-title-merge = Profil synchronisé avec un autre compte
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $profileName (String) - Name of the current profile
+sync-profile-different-account-description-merge = Pour conserver vos données organisées et en sécurité, nous vous recommandons de créer un nouveau profil pour vous connecter en utilisant l’adresse { $acctEmail }. Si vous choisissez de continuer la synchronisation avec ce profil, les données des deux comptes seront définitivement fusionnées dans « { $profileName } ».
 # Dialog 2 - account signed in on another profile without option to merge
 sync-account-in-use-header = Ce compte est déjà utilisé
 # Variables:
