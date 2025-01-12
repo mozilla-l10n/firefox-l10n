@@ -11,7 +11,7 @@ callout-primary-complete-button-label = Viss skaidrs!
 
 # "Tab pickup" refers to the section in Firefox View that displays open
 # tabs from other devices
-callout-firefox-view-tab-pickup-title = Pārleciet starp ierīcēm, izmantojot cilņu paņemšanu
+callout-firefox-view-tab-pickup-title = Pārleciet starp ierīcēm ar cilņu paņemšanu
 callout-firefox-view-tab-pickup-subtitle = Ātri paņemiet tālrunī atvērtās cilnes un atveriet tās šeit, lai ātri pārslēgtos.
 callout-firefox-view-recently-closed-title = Vienā mirklī atgūstiet aizvērtās cilnes
 callout-firefox-view-recently-closed-subtitle = Šeit parādīsies visas jūsu aizvērtās cilnes. Jums vairs nebūs jāuztraucas par nejaušu vietnes aizvēršanu.
@@ -27,7 +27,7 @@ callout-firefox-view-colorways-reminder-subtitle = Iekrāsojiet savu pārlūkpro
 # “Boost your browsing” refers to the added benefit the user receives from having
 # access to the same browsing experience when moving from one browser to another.
 # Alternative: ”Improve your browsing experience with tab pickup”
-continuous-onboarding-firefox-view-tab-pickup-title = Uzlabojiet pārlūkošanu, izmantojot ciļņu paņemšanu
+continuous-onboarding-firefox-view-tab-pickup-title = Uzlabojiet pārlūkošanu ar ciļņu paņemšanu
 continuous-onboarding-firefox-view-tab-pickup-subtitle = Piekļūstiet atvērtajām cilnēm no jebkuras ierīces. Turklāt sinhronizējiet savas grāmatzīmes, paroles un daudz ko citu.
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Ar ko sākt
 
@@ -37,7 +37,7 @@ callout-pdfjs-edit-title = Rediģējiet PDF datnes ar mūsu jauno teksta rīku
 callout-pdfjs-edit-body-a = Aizpildiet veidlapas, pievienojiet komentārus vai veiciet piezīmes pašā { -brand-short-name }.
 callout-pdfjs-edit-body-b = Jums vairs nevajadzēs meklēt bezmaksas tiešsaistes redaktors. Aizpildiet veidlapas, pievienojiet komentārus vai veiciet piezīmes pašā { -brand-short-name }.
 callout-pdfjs-edit-button = Nākamais
-callout-pdfjs-draw-title = Parakstiet dokumentus, izmantojot mūsu jauno zīmēšanas rīku
+callout-pdfjs-draw-title = Parakstiet dokumentus ar mūsu jauno zīmēšanas rīku
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
 callout-pdfjs-draw-body-a = Marķējiet PDF datnes un pēc tam saglabājiet izmaiņas.
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
@@ -46,6 +46,7 @@ callout-pdfjs-draw-button = Viss skaidrs!
 
 ## Firefox View Discoverability Strings
 
+fx-view-discoverability-title = Aizvērāt cilni netīšām?
 
 ## Split Dismiss Button Labels
 
