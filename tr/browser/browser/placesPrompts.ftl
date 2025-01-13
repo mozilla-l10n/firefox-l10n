@@ -15,3 +15,5 @@ places-bookmarks-restore-format-error = Desteklenmeyen dosya türü.
 places-bookmarks-restore-parse-error = Yedek dosyası işlenemiyor.
 places-bookmarks-import = Yer imi dosyasını içe aktar
 places-bookmarks-export = Yer imi dosyasını dışa aktar
+places-bookmarks-paste-error-title = Geçersiz adres(ler) bulundu
+places-bookmarks-paste-error-message-header = Aşağıdaki URL(ler) yer imlerinize eklenemedi. Biçimlendirmeyi kontrol edip yeniden eklemeyi deneyin.
