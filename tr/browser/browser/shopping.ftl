@@ -190,6 +190,7 @@ shopping-survey-thanks =
 ## Shopping opted-out survey strings
 ## Opt-out survey options are displayed as checkboxes and the user can select one or many.
 
+shopping-survey-opted-out-multiselect-label = Değerlendirme Kontrolcüsü’nü neden kapattığınızı bize söyler misiniz? İsterseniz birden çok seçim yapabilirsiniz.
 shopping-survey-thanks-title = Geri bildiriminiz için teşekkürler!
 shopping-survey-opted-out-hard-to-understand = Anlaması zor
 shopping-survey-opted-out-too-slow = Çok yavaş
