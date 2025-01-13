@@ -15,3 +15,5 @@ places-bookmarks-restore-format-error = サポートされていないファイ�
 places-bookmarks-restore-parse-error = バックアップファイルを処理できませんでした
 places-bookmarks-import = ブックマークファイルを読み込む
 places-bookmarks-export = ブックマークファイルを書き出す
+places-bookmarks-paste-error-title = 不正な URL が見つかりました
+places-bookmarks-paste-error-message-header = 以下の URL はブックマークに追加できません。書式を確認してから追加してみてください。
