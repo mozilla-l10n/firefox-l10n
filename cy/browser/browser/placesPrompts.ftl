@@ -15,3 +15,5 @@ places-bookmarks-restore-format-error = Math ffeil nad yw'n cael ei chynnal.
 places-bookmarks-restore-parse-error = Methu prosesu'r ffeil wrth gefn.
 places-bookmarks-import = Mewnforio Ffeil Nodau Tudalen
 places-bookmarks-export = Allforio Ffeil Nodau Tudalen
+places-bookmarks-paste-error-title = Wedi canfod URL(au) annilys
+places-bookmarks-paste-error-message-header = Nid oedd modd ychwanegu'r URL(au) canlynol at eich nodau tudalen. Ceisiwch wirio'r fformatio a'u hychwanegu eto.
