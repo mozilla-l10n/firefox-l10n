@@ -15,12 +15,16 @@ appmenu-update-manual2 =
     .buttonaccesskey = ഇ
     .secondarybuttonlabel = നിരാകരിക്കുക
     .secondarybuttonaccesskey = ക
+appmenu-update-manual-message2 =
+    { -brand-shorter-name }-നു് തന്നെതാനെ പുതുക്കാൻ പറ്റിയില്ല. 
+    പുതിയ പതിപ്പു് ഇറക്കിവയ്ക്കുക — താങ്ങൾ കരുതിവച്ച വിവരങ്ങളോ ഇഷ്ടാനുസൃതമാക്കലുകളോ ഒന്നും നഷ്ടമാവത്തില്ല
 appmenu-update-unsupported2 =
     .label = പുതുക്കാൻ പറ്റുന്നില്ല
     .buttonlabel = കൂടുതലറിയുക
     .buttonaccesskey = L
     .secondarybuttonlabel = നിരാകരിക്കുക
     .secondarybuttonaccesskey = m
+appmenu-update-unsupported-message2 = { -brand-shorter-name }-ന്റെ ഏറ്റവും പുതിയ പതിപ്പിന്റെ കൂടെ താങ്ങളുടെ പ്രയോഗവ്യവസ്ഥ പൊരുത്തപ്പെടത്തില്ല.
 appmenu-update-restart2 =
     .label = പുതുപ്പതിപ്പു് ലഭ്യമാണു്
     .buttonlabel = പുതുച്ചു് പുനർാരംഭിക്കുക
@@ -34,6 +38,7 @@ appmenu-update-other-instance =
     .buttonaccesskey = പ
     .secondarybuttonlabel = ഇപ്പോൾ വേണ്ട
     .secondarybuttonaccesskey = വ
+appmenu-update-other-instance-message = ഒരു പുതിയ { -brand-shorter-name } പുതുപ്പതിപ്പു് ലഭ്യമാണ്, എന്നാൽ { -brand-shorter-name } എന്നതിന്റെ മറ്റൊരു പകർപ്പ് പ്രവർത്തിക്കുന്നതിനാൽ ഇതു് സ്ഥാപിക്കാൻ കഴിയില്ല. പുതുക്കൽ തുടരാൻ ഇതു് അടയ്ക്കക, അല്ലെങ്കിൽ എന്തായാലും പുതുക്കാൻ തിരഞ്ഞെടുക്കുക (നിങ്ങൾ പുനരാരംഭിക്കുന്നതുവരെ മറ്റേ പകർപ്പ് ശരിയായി പ്രവർത്തിച്ചേക്കില്ല).
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = ശരി
     .buttonaccesskey = O
