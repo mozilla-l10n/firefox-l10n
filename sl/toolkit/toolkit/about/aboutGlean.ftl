@@ -25,6 +25,10 @@ about-glean-interface-description =
     Ta vmesnik je namenjen razvijalcem in preskuševalcem za ročno
     <a data-l10n-name="fog-link">preskušanje inštrumentacije</a>.
 about-glean-category-about-glean = O { -glean-brand-name(sklon: "mestnik") }
+about-glean-category-manual-testing = Ročno preizkušanje
+about-glean-category-adhoc-testing = Ad hoc preizkušanje
+about-glean-category-profiler = Uporaba profilerja
+about-glean-category-about-data = O podatkih
 about-glean-upload-enabled = Pošiljanje podatkov je omogočeno.
 about-glean-upload-disabled = Pošiljanje podatkov ni omogočeno.
 about-glean-upload-enabled-local = Omogočeno je samo pošiljanje podatkov na krajevni strežnik.
@@ -52,6 +56,9 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-additional-links =
+    Za pojasnilo različnih načinov beleženja in iskanja podatkov si oglejte
+    zavihek <strong>O podatkih</strong>.
 about-glean-about-testing-header = O preizkušanju
 # This message is followed by a numbered list.
 about-glean-manual-testing = V celoti so navodila objavljena v <a data-l10n-name="fog-instrumentation-test-doc-link">dokumentaciji za preskušanje inštrumentacije { -fog-brand-name }</a> in v <a data-l10n-name="glean-sdk-doc-link">dokumentaciji za { glean-sdk-brand-name }</a>, v glavnem pa morate za preizkus delovanja svoje inštrumentacije:
@@ -63,7 +70,14 @@ about-glean-adhoc-note =
     To pomeni, da sta kategorija in ime metrike oblikovana v
     <code>camelCase</code> za razliko od API-jev Rust in C++.
 controls-button-label-verbose = Uporabi nastavitve in pošlji ping
+about-glean-feedback-settings-only =
+    .message = Nastavitve uveljavljene!
+about-glean-feedback-settings-and-ping =
+    .message = Nastavitve uveljavljene in ping poslan!
 about-glean-about-data-header = O podatkih
+about-glean-about-data-description =
+    Za ogled podatkov so vam na voljo različna orodja, odvisno od tega,
+    kaj iščete.
 about-glean-about-data-explanation =
     Za brskanje po seznamu zbranih podatkov si oglejte
     <a data-l10n-name="glean-dictionary-link">slovar { -glean-brand-name(sklon: "rodilnik") }</a>.
