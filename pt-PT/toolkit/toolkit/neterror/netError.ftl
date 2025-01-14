@@ -154,4 +154,4 @@ cert-error-trust-certificate-transparency-what-can-you-do-about-it = Provavelmen
 # Variables:
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
-neterror-response-status-code = Código de erro: { $responsstatus } { $responsstatustext }
+neterror-response-status-code = Código de erro: { $responsestatus } { $responsestatustext }
