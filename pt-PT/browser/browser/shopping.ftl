@@ -190,6 +190,14 @@ shopping-survey-thanks =
 ## Shopping opted-out survey strings
 ## Opt-out survey options are displayed as checkboxes and the user can select one or many.
 
+shopping-survey-opted-out-multiselect-label = Por favor, diga-nos porque desativou o Verificador de avaliações. Selecione múltiplas opções, se necessário.
+shopping-survey-thanks-title = Obrigado pela sua opinião!
+shopping-survey-opted-out-hard-to-understand = É difícil de compreender
+shopping-survey-opted-out-too-slow = É demasiado lento
+shopping-survey-opted-out-not-accurate = Não é exato.
+shopping-survey-opted-out-not-helpful = Não me é útil
+shopping-survey-opted-out-check-myself = Prefiro verificar as avaliações por mim próprio
+shopping-survey-opted-out-other = Outra
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
