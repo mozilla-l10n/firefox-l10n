@@ -24,15 +24,15 @@ learn-more = <span data-l10n-name="link">เรียนรู้เพิ่ม
 ##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
-inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้เนื่องจากไม่ใช่ตัวบรรจุแบบ flex หรือแบบ grid
-inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้เนื่องจากไม่ใช่ทั้งคอนเทนเนอร์แบบยืดหยุ่น คอนเทนเนอร์แบบเส้นตาราง หรือคอนเทนเนอร์แบบหลายคอลัมน์
-inactive-css-not-multicol-container = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้เนื่องจากไม่ใช่คอนเทนเนอร์แบบหลายคอลัมน์
-inactive-css-column-span = <strong>{ $property }</strong> ไม่มีผลการ span กับอิลิเมนต์นี้เนื่องจากไม่ได้อยู่ภายในคอนเทนเนอร์แบบหลายคอลัมน์
+inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้เนื่องจากไม่ใช่ตัวบรรจุแบบยืดหยุ่นหรือแบบเส้นตาราง
+inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้เนื่องจากไม่ใช่ตัวบรรจุแบบยืดหยุ่น แบบเส้นตาราง หรือแบบหลายคอลัมน์
+inactive-css-not-multicol-container = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้เนื่องจากไม่ใช่ตัวบรรจุแบบหลายคอลัมน์
+inactive-css-column-span = <strong>{ $property }</strong> ไม่มีผลการ span กับอิลิเมนต์นี้เนื่องจากไม่ได้อยู่ภายในตัวบรรจุแบบหลายคอลัมน์
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้เนื่องจากไม่ใช่รายการแบบเส้นตารางหรือแบบยืดหยุ่น
 inactive-css-not-grid-item = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้เนื่องจากไม่ใช่รายการแบบเส้นตาราง
-inactive-css-not-grid-container = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้เนื่องจากไม่ใช่คอนเทนเนอร์แบบเส้นตาราง
+inactive-css-not-grid-container = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้เนื่องจากไม่ใช่ตัวบรรจุแบบเส้นตาราง
 inactive-css-not-flex-item = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้เนื่องจากไม่ใช่รายการแบบยืดหยุ่น
-inactive-css-not-flex-container = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้เนื่องจากไม่ใช่คอนเทนเนอร์แบบยืดหยุ่น
+inactive-css-not-flex-container = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้เนื่องจากไม่ใช่ตัวบรรจุแบบยืดหยุ่น
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้เนื่องจากไม่ใช่อิลิเมนต์แบบอินไลน์หรือแบบเซลล์ตาราง
 inactive-css-first-line-pseudo-element-not-supported = ไม่รองรับ <strong>{ $property }</strong> บนอิลิเมนต์แฝง ::first-line
 inactive-css-first-letter-pseudo-element-not-supported = ไม่รองรับ <strong>{ $property }</strong> บนอิลิเมนต์แฝง ::first-letter
@@ -94,7 +94,7 @@ inactive-css-not-inline-or-tablecell-fix = ลองเพิ่ม <strong>disp
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = ลองเพิ่ม <strong>display:inline-block</strong> หรือ <strong>display:block</strong> { learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = ลองเพิ่ม <strong>display:inline-block</strong> { learn-more }
 inactive-css-not-display-block-on-floated-fix = ลองเอา <strong>float</strong> ออกหรือเพิ่ม <strong>display:block</strong> { learn-more }
-inactive-css-only-non-grid-or-flex-item-fix = ลองเปลี่ยนค่าของ <strong>display</strong> ของคอนเทนเนอร์ของอิลิเมนต์ให้เป็นค่าอื่นที่ไม่ใช่ <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong> หรือ <strong>inline-grid</strong> หรือเอา <strong>float</strong> ออก { learn-more }
+inactive-css-only-non-grid-or-flex-item-fix = ลองเปลี่ยนค่าของ <strong>display</strong> ของตัวบรรจุของอิลิเมนต์ให้เป็นค่าอื่นที่ไม่ใช่ <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong> หรือ <strong>inline-grid</strong> หรือเอา <strong>float</strong> ออก { learn-more }
 inactive-css-not-block-fix = ลองเพิ่มคุณสมบัติอย่างเช่น <strong>display:block</strong> หรือ <strong>float:left</strong> { learn-more }
 inactive-css-not-floated-fix = ลองเพิ่มคุณสมบัติ <strong>float</strong> ด้วยค่าอื่นที่ไม่ใช่ <strong>none</strong> { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = ลองตั้งค่าคุณสมบัติ <strong>position</strong> เป็นอย่างอื่นนอกจาก <strong>static</strong> { learn-more }
