@@ -193,23 +193,23 @@ browser-containers-learn-more = เรียนรู้เพิ่มเติ
 browser-containers-settings =
     .label = การตั้งค่า…
     .accesskey = ต
-containers-disable-alert-title = ปิดแท็บแยกข้อมูลทั้งหมด?
+containers-disable-alert-title = ปิดแท็บแยกข้อมูลทั้งหมดหรือไม่?
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
 
-containers-disable-alert-desc = ถ้าคุณปิดใช้งานแท็บแยกข้อมูลตอนนี้ { $tabCount } แท็บแยกข้อมูลจะถูกปิด คุณแน่ใจหรือไม่ว่าต้องการปิดใช้งานแท็บแยกข้อมูล?
+containers-disable-alert-desc = ถ้าคุณปิดใช้งานแท็บแยกข้อมูลตอนนี้ ก็จะปิดแท็บแยกข้อมูล { $tabCount } แท็บ คุณแน่ใจหรือไม่ว่าต้องการปิดใช้งานแท็บแยกข้อมูล?
 containers-disable-alert-ok-button = ปิด { $tabCount } แท็บแยกข้อมูล
 
 ##
 
 containers-disable-alert-cancel-button = เปิดใช้งานต่อไป
-containers-remove-alert-title = เอาการแยกข้อมูลนี้ออก?
+containers-remove-alert-title = เอาที่แยกข้อมูลนี้ออกหรือไม่?
 # Variables:
 #   $count (number) - Number of tabs that will be closed.
-containers-remove-alert-msg = ถ้าคุณเอาการแยกข้อมูลนี้ออกตอนนี้ { $count } แท็บแยกข้อมูลจะถูกปิด คุณแน่ใจหรือไม่ว่าต้องการเอาการแยกข้อมูลนี้ออก?
-containers-remove-ok-button = เอาการแยกข้อมูลนี้ออก
-containers-remove-cancel-button = ไม่เอาการแยกข้อมูลนี้ออก
+containers-remove-alert-msg = ถ้าคุณเอาที่แยกข้อมูลนี้ออกตอนนี้ ก็จะปิดแท็บแยกข้อมูล { $count } แท็บ คุณแน่ใจหรือไม่ว่าต้องการเอาที่แยกข้อมูลนี้ออก?
+containers-remove-ok-button = เอาที่แยกข้อมูลนี้ออก
+containers-remove-cancel-button = ไม่เอาที่แยกข้อมูลนี้ออก
 settings-tabs-show-image-in-preview =
     .label = แสดงตัวอย่างภาพเมื่อคุณวางเมาส์เหนือแท็บ
     .accessKey = แ
@@ -686,10 +686,10 @@ containers-back-button2 =
     .aria-label = กลับไปที่การตั้งค่า
 containers-header = แท็บแยกข้อมูล
 containers-add-button =
-    .label = เพิ่มการแยกข้อมูลใหม่
+    .label = เพิ่มที่แยกข้อมูลใหม่
     .accesskey = พ
 containers-new-tab-check =
-    .label = เลือกการแยกข้อมูลสำหรับแต่ละแท็บใหม่
+    .label = เลือกที่แยกข้อมูลสำหรับแต่ละแท็บใหม่
     .accesskey = ล
 containers-settings-button =
     .label = การตั้งค่า

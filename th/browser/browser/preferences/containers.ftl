@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 containers-window-new2 =
-    .title = เพิ่มการแยกข้อมูลใหม่
+    .title = เพิ่มที่แยกข้อมูลใหม่
     .style = min-width: 45em
 # Variables
 #   $name (String) - Name of the container
 containers-window-update-settings2 =
-    .title = การตั้งค่าการแยกข้อมูล { $name }
+    .title = การตั้งค่าที่แยกข้อมูล { $name }
     .style = min-width: 45em
 containers-window-close =
     .key = w
@@ -26,7 +26,7 @@ containers-name-label = ชื่อ
     .accesskey = ช
     .style = { -containers-labels-style }
 containers-name-text =
-    .placeholder = ป้อนชื่อการแยกข้อมูล
+    .placeholder = ป้อนชื่อที่แยกข้อมูล
 containers-icon-label = ไอคอน
     .accesskey = อ
     .style = { -containers-labels-style }

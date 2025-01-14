@@ -24,7 +24,7 @@ learn-more = <span data-l10n-name="link">เรียนรู้เพิ่ม
 ##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
-inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้เนื่องจากไม่ใช่ทั้งคอนเทนเนอร์แบบยืดหยุ่นหรือคอนเทนเนอร์แบบเส้นตาราง
+inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้เนื่องจากไม่ใช่ตัวบรรจุแบบ flex หรือแบบ grid
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้เนื่องจากไม่ใช่ทั้งคอนเทนเนอร์แบบยืดหยุ่น คอนเทนเนอร์แบบเส้นตาราง หรือคอนเทนเนอร์แบบหลายคอลัมน์
 inactive-css-not-multicol-container = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้เนื่องจากไม่ใช่คอนเทนเนอร์แบบหลายคอลัมน์
 inactive-css-column-span = <strong>{ $property }</strong> ไม่มีผลการ span กับอิลิเมนต์นี้เนื่องจากไม่ได้อยู่ภายในคอนเทนเนอร์แบบหลายคอลัมน์
