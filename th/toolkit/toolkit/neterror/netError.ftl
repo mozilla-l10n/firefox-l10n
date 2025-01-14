@@ -151,3 +151,7 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = ถ้าคุณไม่
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> มีนโยบายการรักษาความปลอดภัยที่เรียกว่า HTTP Strict Transport Security (HSTS) ซึ่งหมายความว่า { -brand-short-name } สามารถทำการเชื่อมต่อได้อย่างปลอดภัยเท่านั้น คุณไม่สามารถเพิ่มข้อยกเว้นเพื่อเยี่ยมชมไซต์นี้ได้
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = น่าจะไม่ต้องทำอะไร เนื่องจากน่าจะเป็นเพราะมีปัญหากับตัวไซต์มากกว่า
+# Variables:
+#   $responsestatus (string) - HTTP response status code (e.g., 500).
+#   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
+neterror-response-status-code = รหัสข้อผิดพลาด: { $responsestatus } { $responsestatustext }
