@@ -5,6 +5,8 @@
 
 ## App Menu
 
+appmenuitem-banner-update-downloading =
+    .label = { -brand-shorter-name } പരിഷ്കരണം ഇറക്കിവയ്ക്കുന്നു
 appmenuitem-banner-update-available =
     .label = പുതുപ്പതിപ്പു് ലഭ്യം — ഇറക്കിവയ്ക്കുക
 appmenuitem-banner-update-manual =
@@ -261,7 +263,11 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = ദത്ത ലംഘന അറിയിപ്പുകൾ നേടുക
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = താങ്ങളുടെ യഥാർത്ഥ ഇ-തപാലും ഫോണും മറയ്ക്കുക
+appmenuitem-services-relay-description = ഇ-തപാൽ പൊയ്മുഖ ഡാഷ്പോർടു് വിപേക്ഷിക്കുക
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = താങ്ങളുടെ തൽസമയ പ്രവൎത്തനങ്ങളെ പരിരക്ഷിക്കുക
 appmenu-services-header = ഞാൻ ഉപയോഗിക്കുന്ന സേവണങ്ങൾ
+appmenu-other-protection-header = { -vendor-short-name } നിന്നുള്ള മറ്റു് സംരക്ഷണക്കരുകൾ പ്രയോഗിച്ചു് നോക്കുക
 
 ## Profiles panel
 

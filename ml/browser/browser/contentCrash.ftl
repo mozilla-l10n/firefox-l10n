@@ -5,6 +5,11 @@
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>ഈ താളിന്റെ ഒരു ഭിന്നം തകൎന്നു.</strong> ഈ കുഴപ്പമിനെ പറ്റി { -brand-product-name }-നെ അറിയിക്കാനും ഈ പ്രശ്നം വേഗം പരിഹരിക്കാനും ദയവായിയൊരു റിപ്പോൎട്ടു് സമൎപ്പിക്കുക.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = ഈ താളിന്റെ ഒരു ഭിന്നം തകൎന്നു. ഈ കുഴപ്പമിനെ പറ്റി { -brand-product-name }-നെ അറിയിക്കാനും ഈ പ്രശ്നം വേഗം പരിഹരിക്കാനും ദയവായിയൊരു റിപ്പോൎട്ടു് സമൎപ്പിക്കുക.
 crashed-subframe-learnmore-link =
     .value = കൂടുതല്‍ അറിയുക
 crashed-subframe-submit =
