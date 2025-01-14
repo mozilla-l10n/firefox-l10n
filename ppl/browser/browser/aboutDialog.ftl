@@ -11,10 +11,12 @@ update-checkForUpdatesButton =
 update-updateButton =
     .label = Shikpewalti pal muyankwili { -brand-shorter-name }
     .accesskey = R
+update-checkingForUpdates = Kipepeta su muyankwilia…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
+settings-update-downloading = <img data-l10n-name="icon"/>Mutemultia ne tayankwililis — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
