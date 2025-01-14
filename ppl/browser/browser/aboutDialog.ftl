@@ -8,6 +8,9 @@ releaseNotes-link = Tay yankwik
 update-checkForUpdatesButton =
     .label = Shikpepeta su nemi tayanwililis
     .accesskey = C
+update-updateButton =
+    .label = Shikpewalti pal muyankwili { -brand-shorter-name }
+    .accesskey = R
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
