@@ -250,3 +250,6 @@ tab-context-ungroup-tab =
            *[other] Премахване от групи
         }
     .accesskey = г
+
+## Open/saved tab group context menu
+

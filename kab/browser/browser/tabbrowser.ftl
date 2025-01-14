@@ -223,3 +223,6 @@ tab-context-ungroup-tab =
            *[other] Kkes seg yigrawen
         }
     .accesskey = K
+
+## Open/saved tab group context menu
+

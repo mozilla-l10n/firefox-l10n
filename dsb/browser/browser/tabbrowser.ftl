@@ -287,3 +287,6 @@ tab-context-ungroup-tab =
            *[other] Z { $groupCount } kupkow wótwónoźeś
         }
     .accesskey = Z
+
+## Open/saved tab group context menu
+

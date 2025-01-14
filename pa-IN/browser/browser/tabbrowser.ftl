@@ -247,3 +247,6 @@ tab-context-ungroup-tab =
            *[other] ਗਰੁੱਪਾਂ ਵਿੱਚ ਹਟਾਓ
         }
     .accesskey = R
+
+## Open/saved tab group context menu
+

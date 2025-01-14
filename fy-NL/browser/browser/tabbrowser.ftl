@@ -249,3 +249,6 @@ tab-context-ungroup-tab =
            *[other] Fuortsmite út groepen
         }
     .accesskey = F
+
+## Open/saved tab group context menu
+

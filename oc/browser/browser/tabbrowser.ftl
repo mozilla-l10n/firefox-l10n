@@ -230,3 +230,6 @@ tab-context-ungroup-tab =
            *[other] Tirar del grop
         }
     .accesskey = T
+
+## Open/saved tab group context menu
+

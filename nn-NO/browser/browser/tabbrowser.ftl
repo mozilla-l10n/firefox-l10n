@@ -206,3 +206,6 @@ tab-group-editor-action-delete =
 tab-group-editor-done =
     .label = Ferdig
     .accessKey = F
+
+## Open/saved tab group context menu
+

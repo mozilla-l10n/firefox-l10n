@@ -218,3 +218,6 @@ tab-context-ungroup-tab =
            *[other] 그룹에서 제거
         }
     .accesskey = R
+
+## Open/saved tab group context menu
+

@@ -202,3 +202,6 @@ tab-group-editor-cancel =
 tab-group-editor-done =
     .label = تھی ڳیا
     .accessKey = D
+
+## Open/saved tab group context menu
+

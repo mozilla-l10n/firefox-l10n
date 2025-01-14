@@ -287,3 +287,6 @@ tab-context-ungroup-tab =
            *[other] Z { $groupCount } skupinow wotstronić
         }
     .accesskey = t
+
+## Open/saved tab group context menu
+

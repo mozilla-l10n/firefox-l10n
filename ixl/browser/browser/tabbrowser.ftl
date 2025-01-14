@@ -79,3 +79,6 @@ tabbrowser-confirm-close-tabs-button = Jup unq'a ilb'al tetze'
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+
+## Open/saved tab group context menu
+

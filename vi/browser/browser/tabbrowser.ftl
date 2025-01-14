@@ -218,3 +218,6 @@ tab-context-ungroup-tab =
            *[other] Xoá khỏi các nhóm
         }
     .accesskey = R
+
+## Open/saved tab group context menu
+

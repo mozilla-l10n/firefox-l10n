@@ -247,3 +247,6 @@ tab-context-ungroup-tab =
            *[other] Eliminar de los grupos
         }
     .accesskey = R
+
+## Open/saved tab group context menu
+

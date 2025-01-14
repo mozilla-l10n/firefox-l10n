@@ -58,3 +58,6 @@ tabbrowser-confirm-open-multiple-tabs-button = Tabs opmaachen
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+
+## Open/saved tab group context menu
+

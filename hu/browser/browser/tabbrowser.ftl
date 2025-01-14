@@ -249,3 +249,6 @@ tab-context-ungroup-tab =
            *[other] Eltávolítás a csoportokból
         }
     .accesskey = E
+
+## Open/saved tab group context menu
+

@@ -274,3 +274,6 @@ tab-context-ungroup-tab =
            *[many] Выдаліць з груп
         }
     .accesskey = В
+
+## Open/saved tab group context menu
+

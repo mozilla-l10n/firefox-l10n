@@ -234,3 +234,6 @@ tab-group-editor-action-ungroup =
     .label = Atera multzotik fitxak
 tab-group-editor-action-delete =
     .label = Ezabatu multzoa
+
+## Open/saved tab group context menu
+

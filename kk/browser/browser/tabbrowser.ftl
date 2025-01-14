@@ -249,3 +249,6 @@ tab-context-ungroup-tab =
            *[other] Топтардан өшіру
         }
     .accesskey = р
+
+## Open/saved tab group context menu
+

@@ -246,3 +246,6 @@ tab-context-ungroup-tab =
            *[other] Тоза кардан аз гурӯҳ
         }
     .accesskey = Т
+
+## Open/saved tab group context menu
+

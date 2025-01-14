@@ -304,3 +304,6 @@ tab-context-ungroup-tab =
            *[other] Odebrat ze skupin
         }
     .accesskey = d
+
+## Open/saved tab group context menu
+

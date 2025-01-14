@@ -227,3 +227,6 @@ tab-group-editor-action-delete =
 tab-group-editor-done =
     .label = تمّ
     .accessKey = م
+
+## Open/saved tab group context menu
+

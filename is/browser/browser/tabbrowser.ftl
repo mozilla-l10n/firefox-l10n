@@ -253,3 +253,6 @@ tab-context-ungroup-tab =
            *[other] Fjarlægja úr hópum
         }
     .accesskey = r
+
+## Open/saved tab group context menu
+

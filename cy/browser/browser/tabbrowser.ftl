@@ -313,3 +313,6 @@ tab-context-ungroup-tab =
            *[other] Tynnu o'r Grwpiau
         }
     .accesskey = T
+
+## Open/saved tab group context menu
+

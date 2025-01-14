@@ -218,3 +218,6 @@ tab-context-ungroup-tab =
            *[other] เอาออกจากกลุ่ม
         }
     .accesskey = อ
+
+## Open/saved tab group context menu
+

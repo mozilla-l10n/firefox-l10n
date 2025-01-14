@@ -53,3 +53,6 @@ tabbrowser-menuitem-close =
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+
+## Open/saved tab group context menu
+

@@ -242,3 +242,6 @@ tab-context-ungroup-tab =
            *[other] Forigi el grupoj
         }
     .accesskey = F
+
+## Open/saved tab group context menu
+
