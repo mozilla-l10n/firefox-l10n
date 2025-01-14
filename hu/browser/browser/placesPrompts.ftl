@@ -15,3 +15,5 @@ places-bookmarks-restore-format-error = Nem támogatott fájltípus.
 places-bookmarks-restore-parse-error = Nem sikerült feldolgozni a mentésfájlt
 places-bookmarks-import = Könyvjelzőfájl importálása
 places-bookmarks-export = Könyvjelzőfájl exportálása
+places-bookmarks-paste-error-title = Érvénytelen webcímek találhatók
+places-bookmarks-paste-error-message-header = A következő webcímek nem adhatók hozzá a könyvjelzőihez. Próbálja meg ellenőrizni a formázást, és adja hozzá őket újra.
