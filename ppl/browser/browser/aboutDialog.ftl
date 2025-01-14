@@ -5,6 +5,9 @@
 aboutDialog-title =
     .title = Ipanpa { -brand-full-name }
 releaseNotes-link = Tay yankwik
+update-checkForUpdatesButton =
+    .label = Shikpepeta su nemi tayanwililis
+    .accesskey = C
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
