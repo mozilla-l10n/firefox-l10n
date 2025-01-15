@@ -367,6 +367,10 @@ quickactions-cmd-viewsource = 查看源代码, 源代码, view source, source
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = 详细了解“快捷操作”
+# Will be shown to users the first configurable number of times
+# they experience actions giving them instructions on how to
+# select the action shown by pressing the tab key.
+press-tab-label = 按 Tab 键选择：
 
 ## Bookmark Panel
 
