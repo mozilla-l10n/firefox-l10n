@@ -30,6 +30,12 @@ fx-view-discoverability-secondary-button-label = విస్మరించు
 
 ## Split Dismiss Button Labels
 
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option-label = ఈ సిఫార్సును నాకు మళ్లీ చూపించకు
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option-label = కొన్ని సిఫారసులనే చూపించు
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option-label = అమరికల నిర్వహణ
 
 ## Sidebar Strings
 
@@ -37,6 +43,7 @@ fx-view-discoverability-secondary-button-label = విస్మరించు
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-privacy-notice-link = గోప్యతా విధానం
+sidebar-callout-survey-dont-use-it = నేను దానిని వాడను
 sidebar-callout-survey-none-of-above = పైవేవీ కాదు
 sidebar-callout-survey-submit = సమర్పించు
 sidebar-callout-survey-thank-you = మీ ప్రతిస్పందనకు కృతజ్ఞతలు!
