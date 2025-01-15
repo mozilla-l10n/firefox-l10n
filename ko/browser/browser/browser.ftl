@@ -367,6 +367,10 @@ quickactions-cmd-viewsource = 소스 보기, 소스, view source, source
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = 빠른 작업 더 알아보기
+# Will be shown to users the first configurable number of times
+# they experience actions giving them instructions on how to
+# select the action shown by pressing the tab key.
+press-tab-label = 탭 키를 눌러서 선택:
 
 ## Bookmark Panel
 
