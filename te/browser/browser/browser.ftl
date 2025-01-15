@@ -301,12 +301,17 @@ quickactions-cmd-downloads = దింపుకోళ్ళు
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = పేజీని PDFగా భద్రపరుచు
 quickactions-cmd-private = అంతరంగిక విహారణ
+# Restarts the browser
+quickactions-restart = { -brand-short-name }‌ను పునఃప్రారంభించు
 # Opens the screenshot tool
 quickactions-screenshot3 = తెరపట్టు తీసుకోండి
 quickactions-cmd-settings = అమరికలు, ప్రాధాన్యతలు, ఎంపికలు
 # Opens about:addons page in the themes section
 quickactions-themes = అలంకారాల నిర్వహణ
 quickactions-cmd-themes = అలంకారాలు
+quickactions-cmd-update = తాజాకరించు
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = పేజీ మూలాన్ని చూడండి
 
 ## Bookmark Panel
 
@@ -349,6 +354,7 @@ identity-connection-secure = సురక్షిత అనుసంధాన�
 identity-connection-failure = అనుసంధాన వైఫల్యం
 identity-connection-internal = ఇది సురక్షిత { -brand-short-name } పేజీ.
 identity-connection-file = ఈ పేజీ మీ కంప్యూటర్లో భద్రమైవుంది.
+identity-connection-associated = ఈ పేజీ వేరొక పేజీ నుండి తెరవబడింది.
 identity-extension-page = ఈ పేజీ ఒక పొడగింత నుండి తెరవబడింది.
 identity-active-blocked = ఈ పేజీలో సురక్షితంకాని భాగాలను { -brand-short-name } నిరోధించింది.
 identity-custom-root = మొజిల్లాచే గుర్తించబడని ధ్రువపత్ర జారీదారు అనుసంధానాన్ని నిర్ధారించారు.

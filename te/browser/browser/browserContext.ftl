@@ -245,6 +245,12 @@ main-context-menu-use-saved-password =
 
 ##
 
+main-context-menu-manage-logins2 =
+    .label = ప్రవేశాల నిర్వహణ
+    .accesskey = M
+main-context-menu-manage-passwords =
+    .label = సంకేతపదాల నిర్వహణ
+    .accesskey = M
 main-context-menu-keyword =
     .label = ఈ శోధనకు కీలక పదాన్ని చేర్చండి…
     .accesskey = K
@@ -278,6 +284,9 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = ఫ్రేము సమాచారాన్ని చూడండి
     .accesskey = I
+main-context-menu-print-selection-2 =
+    .label = ఎంపికను ముద్రించు…
+    .accesskey = r
 main-context-menu-view-selection-source =
     .label = ఎంపిక మూలాన్ని చూడండి
     .accesskey = e
@@ -296,6 +305,9 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = పేజీ దిశను మార్చు
     .accesskey = D
+main-context-menu-inspect =
+    .label = పరిశీలించు
+    .accesskey = Q
 main-context-menu-inspect-a11y-properties =
     .label = ప్రాప్యత లక్షణాలను పరిశీలించండి
 main-context-menu-eme-learn-more =

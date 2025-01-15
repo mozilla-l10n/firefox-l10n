@@ -26,6 +26,7 @@ callout-pdfjs-draw-button = అర్థమైంది!
 
 ## Firefox View Discoverability Strings
 
+fx-view-discoverability-secondary-button-label = విస్మరించు
 
 ## Split Dismiss Button Labels
 

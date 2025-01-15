@@ -29,6 +29,7 @@ about-private-browsing-focus-promo-header = { -focus-brand-name }: ప్రయ�
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
+about-private-browsing-focus-promo-header-b = ఆంతరంగిక విహరణను మీ ఫొన్లోకి తీసుకెళ్ళండి
 about-private-browsing-focus-promo-header-c = మొబైలులో తర్వాతి-స్థాయి అంతరంగికత
 # This string is the title for the banner for search engine selection
 # in a private window.

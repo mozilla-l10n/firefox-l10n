@@ -19,6 +19,7 @@ pocket-panel-saved-error-remove = ఈ పేజీని తీసివేయ�
 pocket-panel-saved-page-removed = పేజీ తీసివేయబడెను
 pocket-panel-saved-page-saved = { -pocket-brand-name }కు భద్రపరచబడింది
 pocket-panel-saved-processing-remove = పేజీని తొలగించు…
+pocket-panel-saved-removed-updated = భద్రపరిచిన వాటి నుండి పేజీ తీసివేయబడింది
 pocket-panel-saved-processing-tags = టాగ్లు జోడిస్తోంది...
 pocket-panel-saved-remove-page = పేజీని తొలగించు
 pocket-panel-saved-save-tags = భద్రపరచు
