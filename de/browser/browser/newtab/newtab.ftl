@@ -415,7 +415,7 @@ newtab-weather-error-not-available = Wetterdaten sind derzeit nicht verfügbar.
 
 ## Topic Labels
 
-newtab-topic-label-business = Geschäftliches
+newtab-topic-label-business = Wirtschaft
 newtab-topic-label-career = Karriere
 newtab-topic-label-education = Bildung
 newtab-topic-label-arts = Unterhaltung
