@@ -102,6 +102,7 @@ item-site-prefs =
 item-formdata-prefs =
     .label = 保存的表单信息
     .accesskey = o
+item-formdata-description = 清除在表单中输入的姓名、邮箱地址等信息
 item-site-prefs-description = 将权限和网站首选项还原为初始设置
 data-section-label = 数据
 item-site-settings =
