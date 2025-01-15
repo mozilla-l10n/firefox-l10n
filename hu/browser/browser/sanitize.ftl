@@ -102,6 +102,7 @@ item-site-prefs =
 item-formdata-prefs =
     .label = Mentett űrlap-információk
     .accesskey = o
+item-formdata-description = Törli a neveket, e-mail-címeket és az űrlapokon beírt egyéb elemeket
 item-site-prefs-description = Visszaállítja az engedélyeket és a webhely beállításait az eredeti beállításokra
 data-section-label = Adatok
 item-site-settings =
