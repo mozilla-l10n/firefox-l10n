@@ -367,6 +367,10 @@ quickactions-cmd-viewsource = bron bekijken, bron
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Meer info over Snelle acties
+# Will be shown to users the first configurable number of times
+# they experience actions giving them instructions on how to
+# select the action shown by pressing the tab key.
+press-tab-label = Druk op Tab om te selecteren:
 
 ## Bookmark Panel
 
