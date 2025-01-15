@@ -295,3 +295,7 @@ tab-group-context-delete =
 # in the user's current window.
 tab-group-context-open-saved-group-in-this-window =
     .label = Открыть группу в этом окне
+# For a saved tab group that is not open in any window, create a new window and
+# open the tab group in that window.
+tab-group-context-open-saved-group-in-new-window =
+    .label = Открыть группу в новом окне
