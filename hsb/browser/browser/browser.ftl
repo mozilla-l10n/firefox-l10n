@@ -367,6 +367,10 @@ quickactions-cmd-viewsource = žórło pokazać, žórło
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Zhońće wjace wo spěšnych akcijach
+# Will be shown to users the first configurable number of times
+# they experience actions giving them instructions on how to
+# select the action shown by pressing the tab key.
+press-tab-label = Tłóčće tabulatorowu tastu, zo byšće wubrał:
 
 ## Bookmark Panel
 
