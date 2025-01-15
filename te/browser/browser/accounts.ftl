@@ -52,6 +52,8 @@ account-connection-title-2 = ఖాతా
 account-connection-connected-with-noname = ఈ కంప్యూటరు ఇప్పుడు ఒక కొత్త పరికరంతో అనుసంధానమయ్యింది.
 # Used in a notification shown after a Firefox account is connected to the current device.
 account-connection-connected = మీరు విజయవంతంగా ప్రవేశించారు
+# Used in a notification shown after the Firefox account was disconnected remotely.
+account-connection-disconnected = ఈ కంప్యూటర్ అనుసంధానం తెంచబడింది.
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
