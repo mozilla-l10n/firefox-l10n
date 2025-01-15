@@ -102,6 +102,7 @@ item-site-prefs =
 item-formdata-prefs =
     .label = Маълумот дар бораи шакли нигоҳдошташуда
     .accesskey = М
+item-formdata-description = Чизҳоро ба монанди номҳо, нишонии почтаи электронӣ ва унсурҳои дигареро, ки шумо дар шаклҳо ворид мекунед, тоза мекунад
 item-site-prefs-description = Иҷозатҳо ва хусусиятҳои сомонаҳои шумо ба танзимоти аслӣ барқарор карда мешаванд
 data-section-label = Иттилоот
 item-site-settings =
