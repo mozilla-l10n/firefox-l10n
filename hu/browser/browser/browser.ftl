@@ -367,6 +367,10 @@ quickactions-cmd-viewsource = forrás megtekintése, forrás, forráskód
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = További információ a gyors műveletekről
+# Will be shown to users the first configurable number of times
+# they experience actions giving them instructions on how to
+# select the action shown by pressing the tab key.
+press-tab-label = Nyomja meg a Tabot a kiválasztáshoz:
 
 ## Bookmark Panel
 
