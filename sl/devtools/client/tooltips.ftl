@@ -27,6 +27,7 @@ learn-more = <span data-l10n-name="link">Več o tem</span>
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> ne vpliva na ta element, ker ni niti vsebnik flex niti vsebnik grid.
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> ne vpliva na ta element, ker ni vsebnik flex, vsebnik grid ali vsebnik z več stolpci.
 inactive-css-not-multicol-container = <strong>{ $property }</strong> ne vpliva na ta element, ker ni vsebnik z več stolpci.
+inactive-css-column-span = <strong>{ $property }</strong> ne vpliva na ta element, ker ne leži znotraj vsebnika z več stolpci.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> ne vpliva na ta element, ker ni vsebnik grid ali flex.
 inactive-css-not-grid-item = <strong>{ $property }</strong> ne vpliva na ta element, ker ni element grid.
 inactive-css-not-grid-container = <strong>{ $property }</strong> ne vpliva na ta element, ker ni vsebnik grid.
@@ -46,6 +47,7 @@ inactive-css-property-is-impossible-to-override-in-visited = <strong>{ $property
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> ne vpliva na ta element, ker element ni postavljen.
 inactive-css-only-replaced-elements = <strong>{ $property }</strong> nima vpliva na ta element, ker lahko deluje samo na zamenjane elemente.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> ne vpliva na ta element, ker <strong>overflow:hidden</strong> ni nastavljen.
+inactive-css-no-size-containment = <strong>{ $property }</strong> ne vpliva na ta element, ker nima omejitve velikosti.
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> ne vpliva na notranje elemente tabele.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> ne vpliva na notranje elemente tabele, razen na celice.
 inactive-css-not-table = <strong>{ $property }</strong> ne vpliva na ta element, ker ni tabela.

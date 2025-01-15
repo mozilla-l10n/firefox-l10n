@@ -12,8 +12,22 @@ about-processes-column-action =
 
 about-processes-shutdown-process =
     .title = Zavrzi vsebino zavihkov in končaj proces
+about-processes-kill-process =
+    .title = Končaj proces
 about-processes-shutdown-tab =
     .title = Zapri zavihek
+# Profiler icons
+# Variables:
+#    $duration (Number) The time in seconds during which the profiler will be running.
+#                       The value will be an integer, typically less than 10.
+about-processes-profile-process =
+    .title =
+        { $duration ->
+            [one] { $duration } sekundo analiziraj vse niti tega procesa s profilerjem
+            [two] { $duration } sekundi analiziraj vse niti tega procesa s profilerjem
+            [few] { $duration } sekunde analiziraj vse niti tega procesa s profilerjem
+           *[other] { $duration } sekund analiziraj vse niti tega procesa s profilerjem
+        }
 
 ## Column headers
 

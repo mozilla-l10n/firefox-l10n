@@ -24,6 +24,8 @@ toolbox-meatball-menu-community-label = Skupnost …
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
 toolbox-meatball-menu-noautohide-label = Onemogoči samodejno skrivanje pojavnih oken
+toolbox-meatball-menu-pseudo-locale-accented = Omogoči območno nastavitev "accented"
+toolbox-meatball-menu-pseudo-locale-bidi = Omogoči območno nastavitev "bidi"
 
 ## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
 
