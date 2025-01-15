@@ -240,7 +240,7 @@ migration-wizard-progress-success-passwords = { $quantity } 筆密碼
 migration-wizard-progress-success-history =
     { $maxAgeInDays ->
         [one] 昨天以來
-       *[other] 過去 { $maxAgeInDays } 來
+       *[other] 過去 { $maxAgeInDays } 天以來的資料
     }
 migration-wizard-progress-success-formdata = 表單填寫紀錄
 # Shown in the migration wizard after importing payment methods from another
