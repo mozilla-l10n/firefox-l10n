@@ -45,7 +45,7 @@ options-inspector-simplified-highlighters-tooltip =
     .title = Omogoči poenostavljene označevalnike, ko je vključena možnost prefers-reduced-motion. Okoli označenih elementov se bo izrisal očrtan pravokotnik namesto izpolnjenega, da prepreči pojav utripanja.
 # The label for the checkbox option to make the Enter key move the focus to the next input
 # when editing a property name or value in the Inspector rules view
-options-inspector-rules-focus-next-on-enter-label = Osredotoči se na naslednji vnos ob pritisku tipke <kbd>Enter</kbd>
+options-inspector-rules-focus-next-on-enter-label = Ob pritisku tipke <kbd>Enter</kbd> se osredotoči na naslednji vnos
 options-inspector-rules-focus-next-on-enter-tooltip =
     .title = Ko je omogočeno, s pritiskom na tipko Enter med urejanjem izbirnika, imena ali vrednosti lastnosti premaknete žarišče na naslednji vnos.
 
