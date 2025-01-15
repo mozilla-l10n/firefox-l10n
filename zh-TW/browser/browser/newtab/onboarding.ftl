@@ -288,7 +288,7 @@ mr2022-onboarding-privacy-segmentation-button-secondary-label = 顯示詳細資�
 ## MR2022 Multistage Gratitude screen strings
 
 mr2022-onboarding-gratitude-title = 您正在幫助我們打造更好的網路環境
-mr2022-onboarding-gratitude-subtitle = 感謝您使用由 Mozilla Foundation 所支持開發的 { -brand-short-name }。透過您的支援，我們努力讓網路環境變得更好、更開放、更可被所有人使用。
+mr2022-onboarding-gratitude-subtitle = 感謝您使用由 Mozilla 基金會開發的 { -brand-short-name }。透過您的支援，我們努力讓網路環境變得更好、更開放、更可被所有人使用。
 mr2022-onboarding-gratitude-primary-button-label = 看看有什麼新鮮事
 mr2022-onboarding-gratitude-secondary-button-label = 開始上網
 
@@ -345,7 +345,7 @@ onboarding-mobile-download-security-and-privacy-title = 在不同裝置間切換
 onboarding-mobile-download-security-and-privacy-subtitle = 資料同步完成後，{ -brand-short-name } 即可加密您的網站密碼、書籤與更多資料。另外還可以直接取得您在其他裝置上開啟的分頁。
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } 是您的堅強後盾
-onboarding-gratitude-security-and-privacy-subtitle = 感謝您使用由 Mozilla Foundation 所支持開發的 { -brand-short-name }。透過您的支援，我們努力讓網路環境變得更安全、更可被所有人使用。
+onboarding-gratitude-security-and-privacy-subtitle = 感謝您使用由 Mozilla 基金會開發的 { -brand-short-name }。透過您的支援，我們努力讓網路環境變得更安全、更可被所有人使用。
 # Sign up or Sign in screen
 onboarding-sign-up-title = 在不同裝置間同步資料
 onboarding-sign-up-description = 註冊一組帳號，即可將您的所有重要資訊（密碼、書籤等資訊）安全地儲存下來，並且在登入的裝置中同步使用。
