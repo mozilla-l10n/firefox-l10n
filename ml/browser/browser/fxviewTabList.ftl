@@ -25,7 +25,19 @@ fxviewtabrow-open-in-private-window = പുതിയ സ്വകാര്യ �
 # “Bookmark” is a verb, as in "Bookmark this page" (add to bookmarks).
 fxviewtabrow-add-bookmark = കുറിച്ചിടുക
     .accesskey = ക
+fxviewtabrow-save-to-pocket = { -pocket-brand-name }-ൽ കരുതിവയ്ക്കുക
+    .accesskey = വ
 fxviewtabrow-copy-link = കണ്ണി പകര്‍ത്തുക
+    .accesskey = ക
+fxviewtabrow-close-tab = ടാബ് അടയ്ക്കുക
+    .accesskey = അ
+fxviewtabrow-move-tab = ടാബ് നീക്കുക
+    .accesskey = ന
+fxviewtabrow-move-tab-start = മുൻപിലോട്ടു് നീക്കുക
+    .accesskey = മ
+fxviewtabrow-move-tab-end = അവസാനത്തിലേക്ക് നീക്കുക
+    .accesskey = അ
+fxviewtabrow-pin-tab = ടാബിനെ കുത്തിവയ്ക്കുക
     .accesskey = ക
 
 ## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
