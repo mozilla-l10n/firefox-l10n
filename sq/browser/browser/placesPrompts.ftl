@@ -15,3 +15,5 @@ places-bookmarks-restore-format-error = Lloj kartele i pambuluar.
 places-bookmarks-restore-parse-error = S’arrihet të përpunohet kartela kopjeruajtjeje.
 places-bookmarks-import = Importoni Kartelë Faqerojtësish
 places-bookmarks-export = Eksportoni Kartelë Faqerojtësish
+places-bookmarks-paste-error-title = U gjet URL(ra) të pavlefshme
+places-bookmarks-paste-error-message-header = URL-ja(të) vijuese s’u shtua dot te faqerojtësit tuaj. Provoni të kontrolloni formatimin dhe të riprovoni.

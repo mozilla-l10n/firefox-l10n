@@ -38,3 +38,5 @@ webext-perms-description-webNavigation = Të hyjë në veprimtarinë e shfletues
 ## displayed prominently near the usual permission description.
 
 webext-perms-extra-warning-userScripts-long = Programthet e paverifikuar mund të përbëjnë rreziqe sigurie dhe privatësie, f.v., xhirim kodi të dëmshëm, ose ndjekje veprimtarie sajti. Xhironi vetëm programthe nga zgjerime apo burime të cilëve u zini besë.
+# A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
+webext-perms-extra-warning-userScripts-short = Programthet e paverifikuar mund të përbëjnë rreziqe sigurie dhe privatësie. Xhironi vetëm programthe nga zgjerime apo burime të cilëve u zini besë.
