@@ -294,6 +294,8 @@ quickactions-cmd-downloads = ഇറക്കിവയ്ക്കലുകൾ
 # Opens about:addons page in the extensions section
 quickactions-extensions = വിപുലീകരണങ്ങൾ കൈകാര്യം ചെയ്യുക
 quickactions-cmd-extensions = വിപുലീകരണങ്ങൾ
+# Opens the devtools web inspector
+quickactions-inspector2 = വികസനാക്താവുപകരണങ്ങൾ തുറക്കുക
 # Opens about:logins
 quickactions-logins2 = രഹസ്യവാക്കുകളുടെ കൈകാര്യം ചെയ്യുക
 quickactions-cmd-logins = രഹസ്യവാക്കുകളും പ്രവേശനങ്ങളും
@@ -367,6 +369,8 @@ identity-https-only-dropdown-on =
     .label = തുടങ്ങിയതു്
 identity-https-only-dropdown-off =
     .label = അണച്ചതു്
+identity-https-only-dropdown-off-temporarily =
+    .label = തല്ക്കാലം അണച്ചിരിക്കുന്നു
 identity-permissions-storage-access-learn-more = കൂടുതല്‍ അറിയുക
 identity-permissions-reload-hint = മാറ്റങ്ങൾ പ്രയോഗത്തിൽ വരുവാൻ പേജ് വീണ്ടും ലോഡുചെയ്യേണ്ടി വന്നേക്കാം.
 identity-clear-site-data =
@@ -405,6 +409,8 @@ browser-window-close-button =
 
 ## Tab actions
 
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = പ്ലേ ചെയ്യുന്നു
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-muted2 = മൂക്കമായിവച്ചിരിക്കുന്നു
 # This label should be written in all capital letters if your locale supports them.

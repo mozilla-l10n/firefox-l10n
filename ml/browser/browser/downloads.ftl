@@ -23,6 +23,13 @@ downloads-cmd-cancel =
     .tooltiptext = റദ്ദാക്കുക
 downloads-cmd-cancel-panel =
     .aria-label = റദ്ദാക്കുക
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] അറയിൽ കാണിക്കുക
+           *[other] അറയിൽ കാണിക്കുക
+        }
+    .accesskey = ക
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
