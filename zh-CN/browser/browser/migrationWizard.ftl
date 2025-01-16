@@ -239,8 +239,8 @@ migration-wizard-progress-success-passwords = { $quantity } 个密码
 #  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
 migration-wizard-progress-success-history =
     { $maxAgeInDays ->
-        [one] 昨天以来
-       *[other] 过去 { $maxAgeInDays } 天
+        [one] 昨天以来的数据
+       *[other] 过去 { $maxAgeInDays } 天内的数据
     }
 migration-wizard-progress-success-formdata = 表单历史记录
 # Shown in the migration wizard after importing payment methods from another
