@@ -74,6 +74,13 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = Attiva audio nella scheda
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = Disattiva audio nella scheda
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = Riproduci audio nella scheda
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.

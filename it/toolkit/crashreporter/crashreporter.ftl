@@ -8,6 +8,7 @@ crashreporter-crashed-and-restore = { -brand-short-name } ha riscontrato un prob
 crashreporter-plea = Per aiutare a individuare e risolvere il problema, è possibile inviare una segnalazione per questo blocco.
 crashreporter-information = Questa applicazione viene eseguita dopo un arresto anomalo per segnalare il problema a { -vendor-short-name }. Non dovrebbe essere eseguita direttamente.
 crashreporter-error = Si è verificato un problema in { -brand-short-name } che ha provocato un arresto anomalo. Purtroppo non è stato possibile inviare una segnalazione per questo errore.
+crashreporter-error-details-header = Dettagli:
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Dettagli: { $details }
 crashreporter-no-run-message = Questa applicazione viene eseguita dopo un arresto anomalo per segnalare il problema al produttore dell’applicazione, non dovrebbe essere lanciata direttamente.
