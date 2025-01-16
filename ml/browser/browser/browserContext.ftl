@@ -142,6 +142,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = കണ്ണി ഇങ്ങനെ സൂക്ഷിക്കുക...
     .accesskey = k
+main-context-menu-save-link-to-pocket =
+    .label = കണ്ണി { -pocket-brand-name }ലേക്ക് സൂക്ഷിച്ചു് വയ്ക്കുക
+    .accesskey = o
 
 ## The access keys for "Copy Link" and "Copy Email Address"
 ## should be the same if possible; the two context menu items

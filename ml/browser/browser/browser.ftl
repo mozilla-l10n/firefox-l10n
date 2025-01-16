@@ -281,6 +281,7 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+quickactions-cmd-addons2 = ആഡ് ഓൺ
 # Opens the bookmarks library window
 quickactions-bookmarks2 = അടയാളക്കുറിപ്പുകളെ കൈകാര്യം ചെയ്യുക
 quickactions-cmd-bookmarks = അടയാളക്കുറിപ്പുകള്‍
