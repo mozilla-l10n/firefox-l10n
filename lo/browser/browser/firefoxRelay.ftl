@@ -23,6 +23,10 @@ firefox-relay-opt-in-title-1 = ປົກປ້ອງທີ່ຢູ່ອີເ�
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = ໃຊ້ໜ້າກາກອີເມວ { -relay-brand-name }
 firefox-relay-use-mask-title = ໃຊ້ໜ້າກາກອີເມວ { -relay-brand-name }
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
+firefox-relay-opt-in-title-a = ປ້ອງກັນສະແປມດ້ວຍໂຕປົກປິດອີເມວຟຣີ
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
+firefox-relay-opt-in-title-b = ຮັບໂຕປົກປິດອີເມວຟຣີ
 firefox-relay-opt-in-confirmation-enable-button =
     .label = ໃຊ້ຫນ້າກາກອີເມວ
     .accesskey = U
