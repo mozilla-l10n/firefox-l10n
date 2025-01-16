@@ -367,6 +367,10 @@ quickactions-cmd-viewsource = shihni burimin, burim
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Mësoni më tepër rreth Veprimesh të shpejta
+# Will be shown to users the first configurable number of times
+# they experience actions giving them instructions on how to
+# select the action shown by pressing the tab key.
+press-tab-label = Shtypni tastin tab, që të përzgjidhet:
 
 ## Bookmark Panel
 
