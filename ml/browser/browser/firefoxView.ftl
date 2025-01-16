@@ -32,11 +32,17 @@ firefoxview-tabpickup-step-signin-primarybutton = തുടരുക
 firefoxview-syncedtabs-signin-primarybutton-2 = പ്രവേശിക്കുക
 firefoxview-syncedtabs-signin-header = എവിടെനിന്നും ടാബുകൾ എടുക്കുക
 firefoxview-tabpickup-adddevice-learn-how = എങ്ങനെയെന്നറിയാം
+firefoxview-tabpickup-adddevice-primarybutton = താങ്ങളുടെ ഫോണിൽ { -brand-product-name } നേടുക
 firefoxview-syncedtabs-adddevice-header-2 = എവിടെനിന്നും ടാബുകൾ എടുക്കുക
+firefoxview-tabpickup-synctabs-learn-how = എങ്ങനെയെന്നറിയാം
+firefoxview-tabpickup-synctabs-primarybutton = തുറന്ന ടാബുകളെ സമന്വയിപ്പിക്കുക
+firefoxview-syncedtabs-synctabs-checkbox = തുറന്ന ടാബുകളെ സമന്വയിപ്പിക്കാൻ അനുവദിക്കുക
 firefoxview-tabpickup-network-offline-primarybutton = വീണ്ടും ശ്രമിയ്ക്കുക
 firefoxview-tabpickup-sync-error-primarybutton = വീണ്ടും ശ്രമിയ്ക്കുക
 firefoxview-tabpickup-signed-out-primarybutton = പ്രവേശിക്കുക
 firefoxview-closed-tabs-title = അടുത്തിടെ അടച്ചതു്
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = അവസാനം ഉപയോഗിച്ചതു്
 firefoxview-collapse-button-show =
     .title = പട്ടിക കാണിക്കുക
 firefoxview-collapse-button-hide =
@@ -67,6 +73,10 @@ firefoxview-recently-closed-header = അടുത്തിടെ അടച്ച
 
 ##
 
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
+firefoxview-view-all-link = എല്ലാം കാഴ്ചപ്പെടുക
+firefoxview-show-more = കൂടുതൽ കാണിക്കുക
+firefoxview-show-less = കുറച്ച് കാണിക്കുക
 firefoxview-show-all = എല്ലാം കാണിക്കുക
 firefoxview-search-text-box-clear-button =
     .title = മായ്ക്കുക
@@ -99,18 +109,27 @@ firefoxview-search-results-header = { $query } എന്നതിനായുള
 
 ##
 
+firefoxview-show-all-history = നാൾവഴി മൊത്തം കാണിക്കുക
 
 ## Message displayed in Firefox View when the user has no history data
 
 
 ##
 
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = അന്വേഷിയന്ത്രം തിരഞ്ഞെടുക്കുക
+    .title = അന്വേഷിയന്ത്രം തിരഞ്ഞെടുക്കുക
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = കാണിക്കാനൊന്നുമില്ല
 
 ##
 
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = അടയ്ക്കുക
+    .title = അടയ്ക്കുക
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
@@ -120,6 +139,11 @@ firefoxview-search-results-header = { $query } എന്നതിനായുള
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
+firefoxview-syncedtabs-connect-another-device = മറ്റൊരു ഉപകരണം ബന്ധിപ്പിക്കുക.
+firefoxview-pinned-tabs =
+    .title = കുത്തിസൂചിയിട്ട ടാബുകൾ
+firefoxview-tabs =
+    .title = ടാബുകൾ
 
 ## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
 ## Variables:

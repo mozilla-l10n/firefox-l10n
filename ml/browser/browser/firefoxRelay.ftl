@@ -37,6 +37,9 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = ഇപ്പോഴല്ല
     .accesskey = ഴ
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
+    .label = ഇപ്പോഴല്ല
+    .accesskey = ഇ
 
 ## The "control" variation of the Relay offer popup
 

@@ -22,10 +22,14 @@ callout-pdfjs-draw-button = പിടി കിട്ടി!
 
 ## Firefox View Discoverability Strings
 
+fx-view-discoverability-title = ആ ടാബു് അടയ്ക്കാൻ ഉദ്ദേശിച്ചില്ലേ?
+fx-view-discoverability-primary-button-label = { -firefoxview-brand-name } തുറക്കുക
 fx-view-discoverability-secondary-button-label = കളയുക
 
 ## Split Dismiss Button Labels
 
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option-label = ഈ ശുപാൎശ ഇനിയും കാണിക്കരുതു്
 
 ## Sidebar Strings
 
