@@ -66,7 +66,16 @@ genai-shortcuts-selected-warning-generic =
     .heading = Το AI chatbot δεν θα λάβει την πλήρη επιλογή σας
     .message =
         { $selectionLength ->
-           *[other] You’ve selected about { $selectionLength } characters. The number of characters we can send to the AI chatbot is about { $maxLength }.
+           *[other] Έχετε επιλέξει περίπου { $selectionLength } χαρακτήρες. Ο αριθμός των χαρακτήρων που μπορούμε να στείλουμε στο AI chatbot είναι περίπου { $maxLength }.
+        }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = Το { $provider } δεν θα λάβει την πλήρη επιλογή σας
+    .message =
+        { $selectionLength ->
+           *[other] Έχετε επιλέξει περίπου { $selectionLength } χαρακτήρες. Ο αριθμός των χαρακτήρων που μπορούμε να στείλουμε στο { $provider } είναι περίπου { $maxLength }.
         }
 genai-shortcuts-hide =
     .label = Απόκρυψη συντόμευσης chatbot

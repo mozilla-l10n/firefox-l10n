@@ -391,6 +391,8 @@ onboarding-new-tabs-title = Πείτε μας πού θα θέλετε τις κ
 onboarding-new-tabs-subtitle = Αλλάξτε την επιλογή ανά πάσα στιγμή από τις ρυθμίσεις της πλαϊνής γραμμής.
 # Setup screen for vertical tabs - too many tabs variation
 onboarding-many-tabs-title = Οι καρτέλες σας, με τον δικό σας τρόπο
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Επιλέξτε τη διάταξη καρτελών σας
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Καρτέλες στο πλάι
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -441,4 +443,5 @@ onboarding-checklist-sign-up = Εγγραφή ή σύνδεση σε λογαρ�
 ## Multi Profiles feature onboarding messages
 
 multi-profile-spotlight-cta = Δημιουργία προφίλ
+multi-profile-callout-title = Δημιουργήστε διαφορετικά προφίλ για εργασία και διασκέδαση
 multi-profile-callout-cta = Δημιουργία προφίλ

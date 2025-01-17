@@ -16,3 +16,4 @@ places-bookmarks-restore-parse-error = Αποτυχία επεξεργασίας
 places-bookmarks-import = Εισαγωγή αρχείου σελιδοδεικτών
 places-bookmarks-export = Εξαγωγή αρχείου σελιδοδεικτών
 places-bookmarks-paste-error-title = Βρέθηκε(αν) μη έγκυρο(α) URL
+places-bookmarks-paste-error-message-header = Δεν ήταν δυνατή η προσθήκη των εξής URL στους σελιδοδείκτες σας. Δοκιμάστε να ελέγξετε τη μορφοποίηση και να τα προσθέσετε ξανά.

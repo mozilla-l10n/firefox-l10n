@@ -37,3 +37,6 @@ webext-perms-description-webNavigation = Πρόσβαση στη δραστηρ�
 ## The userScripts permission includes an additional explanation that is
 ## displayed prominently near the usual permission description.
 
+webext-perms-extra-warning-userScripts-long = Τα μη επαληθευμένα σενάρια μπορούν να θέσουν σε κίνδυνο την ασφάλεια και το απόρρητό σας, με ενέργειες όπως η εκτέλεση επιβλαβή κώδικα ή η καταγραφή της δραστηριότητάς σας σε ιστοτόπους. Να εκτελείτε σενάρια μόνο από επεκτάσεις ή πηγές που εμπιστεύεστε.
+# A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
+webext-perms-extra-warning-userScripts-short = Τα μη επαληθευμένα σενάρια μπορούν να θέσουν σε κίνδυνο την ασφάλεια και το απόρρητό σας. Να εκτελείτε σενάρια μόνο από επεκτάσεις ή πηγές που εμπιστεύεστε.
