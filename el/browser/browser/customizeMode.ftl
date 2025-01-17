@@ -5,7 +5,7 @@
 customize-mode-restore-defaults =
     .label = Επαναφορά προεπιλογών
 customize-mode-menu-and-toolbars-header = Σύρετε τα αγαπημένα σας στοιχεία στη γραμμή εργαλείων ή το μενού υπερχείλισης.
-customize-mode-overflow-list-title = Αναδυόμενο μενού
+customize-mode-overflow-list-title = Μενού υπερχείλισης
 customize-mode-uidensity =
     .label = Πυκνότητα
 customize-mode-done =

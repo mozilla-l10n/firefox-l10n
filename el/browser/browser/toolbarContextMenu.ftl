@@ -45,7 +45,7 @@ toolbar-context-menu-report-extension =
 # ("Menu Bar") and personalbarCmd ("Bookmarks Toolbar"), so they should
 # have different access keys.
 toolbar-context-menu-pin-to-overflow-menu =
-    .label = Καρφίτσωμα στο αναδυόμενο μενού
+    .label = Καρφίτσωμα στο μενού υπερχείλισης
     .accesskey = Κ
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Απόκρυψη κουμπιού όταν είναι κενό

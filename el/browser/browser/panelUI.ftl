@@ -7,14 +7,14 @@
 
 # The overflow menu is the menu that appears if you click the chevron (>> button) in the location bar.
 customize-menu-unpin-from-overflowmenu =
-    .label = Ξεκαρφίτσωμα από το αναδυόμενο μενού
+    .label = Ξεκαρφίτσωμα από το μενού υπερχείλισης
     .accesskey = Ξ
 customize-menu-add-to-toolbar =
     .label = Προσθήκη στη γραμμή εργαλείων
     .accesskey = Α
 customize-menu-add-to-overflowmenu =
-    .label = Προσθήκη στο αναδυόμενο μενού
-    .accesskey = Μ
+    .label = Προσθήκη στο μενού υπερχείλισης
+    .accesskey = μ
 
 ## Forget Button
 
