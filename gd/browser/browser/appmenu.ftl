@@ -280,8 +280,11 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Faigh caismeachdan mu dhàta air an deach briseadh a-steach
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Cùm am fìor-phost-d is am fìor-fhòn agad am falach
+appmenuitem-services-relay-description = Cuir gu dol deas-bhòrd masgan a’ phuist-d
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Dìon do ghnìomhachd air loidhne
+appmenu-services-header = Na seirbheisean agam
+appmenu-other-protection-header = Feuch na h-innealan dìon eile o { -vendor-short-name }:
 
 ## Profiles panel
 
