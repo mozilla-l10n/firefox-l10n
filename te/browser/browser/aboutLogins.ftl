@@ -113,6 +113,8 @@ login-intro-instructions-fxa-passwords-help = మరింత సహాయం �
 ## Login
 
 login-item-new-login-title = కొత్త ప్రవేశాన్ని సృష్టించు
+# Header for adding a password
+about-logins-login-item-new-login-title = సంకేతపదం చేర్పు
 login-item-edit-button = మార్చు
 about-logins-login-item-remove-button = తొలగించు
 login-item-origin-label = వెబ్‌సైటు చిరునామా
@@ -331,6 +333,7 @@ about-logins-import-report-title = దిగుమతి సారాంశం
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = అడ్డువరుస{ $number }
 about-logins-import-report-row-description-added = కొత్త ప్రవేశం చేర్చబడింది
+about-logins-import-report-row-description-added2 = కొత్త సంకేతపదం చేర్చబడింది
 
 ##
 ## Variables:
