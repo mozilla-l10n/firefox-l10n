@@ -15,3 +15,4 @@ places-bookmarks-restore-format-error = Μη υποστηριζόμενος τύ
 places-bookmarks-restore-parse-error = Αποτυχία επεξεργασίας του αντίγραφου ασφαλείας.
 places-bookmarks-import = Εισαγωγή αρχείου σελιδοδεικτών
 places-bookmarks-export = Εξαγωγή αρχείου σελιδοδεικτών
+places-bookmarks-paste-error-title = Βρέθηκε(αν) μη έγκυρο(α) URL

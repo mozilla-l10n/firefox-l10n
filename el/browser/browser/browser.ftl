@@ -708,6 +708,12 @@ urlbar-result-action-search-bookmarks = Αναζήτηση σελιδοδεικ�
 urlbar-result-action-search-history = Αναζήτηση ιστορικού
 urlbar-result-action-search-tabs = Αναζήτηση καρτελών
 urlbar-result-action-search-actions = Αναζήτηση ενεργειών
+# Label for a quickaction result used to switch to an open tab group.
+#  $group (String): the name of the tab group to switch to
+urlbar-result-action-switch-to-tabgroup = Εναλλαγή σε «{ $group }»
+# Label for a quickaction result used to re-opan a saved tab group.
+#  $group (String): the name of the tab group to re-open
+urlbar-result-action-open-saved-tabgroup = Άνοιγμα «{ $group }»
 
 ## Labels shown above groups of urlbar results
 
