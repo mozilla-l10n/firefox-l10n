@@ -1452,4 +1452,4 @@ preferences-doh-manage-exceptions =
 
 desktop-folder-name = 桌面
 downloads-folder-name = 下載
-choose-download-folder-title = 選取下載目錄:
+choose-download-folder-title = 選取下載目錄：

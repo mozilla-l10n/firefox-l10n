@@ -48,8 +48,8 @@ app-basics-update-dir =
         [linux] 更新目錄
        *[other] 更新資料夾
     }
-app-basics-update-history = 更新記錄
-app-basics-show-update-history = 顯示更新記錄
+app-basics-update-history = 更新紀錄
+app-basics-show-update-history = 顯示更新紀錄
 # Represents the path to the binary used to start the application.
 app-basics-binary = 應用程式二進位檔案
 app-basics-profile-dir =
