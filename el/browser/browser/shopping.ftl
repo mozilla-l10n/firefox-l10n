@@ -191,6 +191,11 @@ shopping-survey-thanks =
 ## Opt-out survey options are displayed as checkboxes and the user can select one or many.
 
 shopping-survey-thanks-title = Ευχαριστούμε για τα σχόλιά σας!
+shopping-survey-opted-out-hard-to-understand = Είναι δύσκολο στην κατανόηση
+shopping-survey-opted-out-too-slow = Είναι πολύ αργό
+shopping-survey-opted-out-not-accurate = Δεν είναι ακριβές
+shopping-survey-opted-out-not-helpful = Δεν μου είναι χρήσιμο
+shopping-survey-opted-out-check-myself = Προτιμώ να ελέγχω τις κριτικές μόνος/-η μου
 shopping-survey-opted-out-other = Άλλο
 
 ## Shopping Feature Callout strings.
