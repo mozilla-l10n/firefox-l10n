@@ -75,6 +75,40 @@ browser-main-window-titles =
     .data-content-title-private = Brabhsadh prìobhaideach { $content-title } – { -brand-full-name }
     .data-content-title-default-with-profile = { $content-title } – { $profile-name } – { -brand-full-name }
     .data-content-title-private-with-profile = { $content-title } – { $profile-name } – Brabhsadh prìobhaideach { -brand-full-name }
+# These are the default window titles on macOS.
+# .data-title-default and .data-title-private are used when the web content
+# opened has no title:
+#
+#
+# "default" - "Mozilla Firefox"
+# "private" - "Mozilla Firefox — (Private Browsing)"
+#
+# .data-content-title-default and .data-content-title-private are for use when
+# there *is* a content title.
+# Do not use the brand name in these, as we do on non-macOS.
+#
+# .*-with-profile are for use when there a SelectableProfileService.current profile exists.
+#
+# Also note the other subtle difference here: we use a `-` to separate the
+# brand name from `(Private Browsing)`, which does not happen on other OSes.
+#
+# Variables:
+#  $content-title (String): the title of the web content.
+#  $profile-name (String): the name of the current profile.
+browser-main-window-titles-mac =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = Brabhsadh prìobhaideach – { -brand-full-name }
+    .data-title-default-with-profile = { $profile-name } – { -brand-full-name }
+    .data-title-private-with-profile = { $profile-name } – Brabhsadh prìobhaideach – { -brand-full-name }
+    .data-content-title-default = { $content-title }
+    .data-content-title-private = { $content-title } – Brabhsadh prìobhaideach
+    .data-content-title-default-with-profile = { $content-title } – { $profile-name }
+    .data-content-title-private-with-profile = { $content-title } – { $profile-name } – Brabhsadh prìobhaideach
+# This gets set as the initial title, and is overridden as soon as we start
+# updating the titlebar based on loaded tabs or private browsing state.
+# This should match the `data-title-default` attribute in both
+# `browser-main-window` and `browser-main-window-mac`.
+browser-main-window-default-title = { -brand-full-name }
 
 ##
 
@@ -333,6 +367,10 @@ quickactions-cmd-viewsource = seall am bun-tùs
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Barrachd fiosrachaidh mu na grad-ghnìomhan
+# Will be shown to users the first configurable number of times
+# they experience actions giving them instructions on how to
+# select the action shown by pressing the tab key.
+press-tab-label = Brùth Tab airson taghadh a dhèanamh:
 
 ## Bookmark Panel
 
@@ -685,6 +723,12 @@ urlbar-result-action-search-bookmarks = Lorg sna comharran-lìn
 urlbar-result-action-search-history = Lorg san eachdraidh
 urlbar-result-action-search-tabs = Lorg sna tabaichean
 urlbar-result-action-search-actions = Gnìomhan luirg
+# Label for a quickaction result used to switch to an open tab group.
+#  $group (String): the name of the tab group to switch to
+urlbar-result-action-switch-to-tabgroup = Leum gu { $group }
+# Label for a quickaction result used to re-opan a saved tab group.
+#  $group (String): the name of the tab group to re-open
+urlbar-result-action-open-saved-tabgroup = Fosgail { $group }
 
 ## Labels shown above groups of urlbar results
 
@@ -718,6 +762,9 @@ urlbar-result-menu-trending-dont-show =
 urlbar-result-menu-trending-why =
     .label = Carson a tha mi a’ faicinn seo?
     .accesskey = C
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = Mòran taing airson do bheachdan. Chan fhaic thu luirg a tha a’ treandadh tuilleadh.
 
 ## Reader View toolbar buttons
 
@@ -736,6 +783,8 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = Fosgail an dealbh ann an dealbh ({ $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Fùin an dealbh ann an dealbh ({ $shortcut })
+picture-in-picture-panel-header = Dealbh am broinn deilbh
+picture-in-picture-panel-headline = Cha mhol an làrach-lìn seo dhut dealbh am broinn deilbh
 
 ## Full Screen and Pointer Lock UI
 
