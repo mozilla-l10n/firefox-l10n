@@ -102,6 +102,7 @@ item-site-prefs =
 item-formdata-prefs =
     .label = Kayıtlı form bilgileri
     .accesskey = f
+item-formdata-description = Formlara girdiğiniz adları, e-postaları ve diğer kayıtları temizler
 item-site-prefs-description = İzinlerinizi ve site tercihlerinizi orijinal ayarlarına sıfırlar
 data-section-label = Veri
 item-site-settings =
