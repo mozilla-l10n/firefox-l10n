@@ -32,10 +32,13 @@ genai-header-close-button =
 
 genai-onboarding-primary = തുടരുക
 genai-onboarding-secondary = അടയ്ക്കുക
+genai-onboarding-select-primary = നൎമ്മസല്ലാപം നടത്തുക
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = സങ്കേതവും വാചകവും ഉൽപാദിപ്പിക്കുക
+genai-onboarding-gemini-generate = സങ്കേതവും ചിത്രങ്ങളും വാചകവും ഉൽപാദിപ്പിക്കുക
 genai-onboarding-huggingchat-generate = സങ്കേതവും വാചകവും ഉൽപാദിപ്പിക്കുക
 genai-onboarding-lechat-generate = സങ്കേതവും വാചകവും ഉൽപാദിപ്പിക്കുക
 genai-onboarding-lechat-price = സൗജന്യം; അക്കൗണ്ട് ആവശ്യമാണു്
