@@ -367,6 +367,10 @@ quickactions-cmd-viewsource = ดูต้นฉบับ, ต้นฉบับ
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = เรียนรู้เพิ่มเติมเกี่ยวกับคำสั่งด่วน
+# Will be shown to users the first configurable number of times
+# they experience actions giving them instructions on how to
+# select the action shown by pressing the tab key.
+press-tab-label = กดแท็บเพื่อเลือก:
 
 ## Bookmark Panel
 
