@@ -13,7 +13,7 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = Πάντα
 global-privacy-control-description =
-    .label = Αποστολή αιτήματος μη πώλησης ή κοινοποίησης των δεδομένων μου στους ιστοτόπους
+    .label = Αποστολή αιτήματος μη πώλησης ή κοινοποίησης δεδομένων στους ιστοτόπους
     .accesskey = σ
 non-technical-privacy-header = Προτιμήσεις απορρήτου ιστοτόπων
 # Do not translate.
