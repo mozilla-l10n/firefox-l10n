@@ -120,6 +120,9 @@ newtab-menu-about-fakespot = Σχετικά με το { -fakespot-brand-name }
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Φραγή
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
+newtab-menu-section-unfollow = Άρση παρακολούθησης θέματος
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -456,7 +459,11 @@ newtab-topic-selection-button-pick-interests = Επιλέξτε τα ενδια�
 
 newtab-section-follow-button = Ακολουθήστε
 newtab-section-following-button = Ακολουθείται
+newtab-section-unfollow-button = Άρση παρακολούθησης
 
 ## Confirmation modal for blocking a section
 
+newtab-section-confirm-block-section-p1 = Θέλετε σίγουρα να αποκλείσετε αυτήν την ενότητα;
+newtab-section-confirm-block-section-p2 = Η αποκλεισμένη ενότητα δεν θα εμφανίζεται πλέον στη ροή σας.
+newtab-section-block-section-button = Αποκλεισμός ενότητας
 newtab-section-cancel-button = Όχι τώρα

@@ -190,6 +190,7 @@ shopping-survey-thanks =
 ## Shopping opted-out survey strings
 ## Opt-out survey options are displayed as checkboxes and the user can select one or many.
 
+shopping-survey-opted-out-multiselect-label = Πείτε μας γιατί απενεργοποιήσατε τον έλεγχο κριτικών. Επιλέξτε πολλαπλούς λόγους εάν χρειάζεται.
 shopping-survey-thanks-title = Ευχαριστούμε για τα σχόλιά σας!
 shopping-survey-opted-out-hard-to-understand = Είναι δύσκολο στην κατανόηση
 shopping-survey-opted-out-too-slow = Είναι πολύ αργό

@@ -60,6 +60,14 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Ερώτηση στο { $provider }…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = Το AI chatbot δεν θα λάβει την πλήρη επιλογή σας
+    .message =
+        { $selectionLength ->
+           *[other] You’ve selected about { $selectionLength } characters. The number of characters we can send to the AI chatbot is about { $maxLength }.
+        }
 genai-shortcuts-hide =
     .label = Απόκρυψη συντόμευσης chatbot
 
