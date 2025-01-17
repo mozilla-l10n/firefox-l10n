@@ -828,6 +828,10 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = ຍົກເລີກ
     .accesskey = C
+reset-pbm-panel-confirm-button =
+    .label = ລຶບຂໍ້ມູນເຊດຊັນ
+    .accesskey = D
+reset-pbm-panel-complete = ລຶບຂໍ້ມູນເຊສຊັນສ່ວນຕົວແລ້ວ
 
 ## Autorefresh blocker
 
