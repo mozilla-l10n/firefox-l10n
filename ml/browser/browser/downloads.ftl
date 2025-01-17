@@ -13,6 +13,11 @@ downloads-panel =
 
 ##
 
+# The style attribute has the width of the Downloads Panel expressed using
+# a CSS unit. The longest labels that should fit are usually those of
+# in-progress and blocked downloads.
+downloads-panel-items =
+    .style = width: 35em
 downloads-cmd-pause =
     .label = തല്‍ക്കാലത്തേക്ക് നിര്‍ത്തുക
     .accesskey = P
@@ -131,6 +136,18 @@ downloads-open-file =
 ##   $seconds (number) - Amount of seconds left till the file opens.
 ##   $minutes (number) - Amount of minutes till the file opens.
 
+downloading-file-opens-in-hours-and-minutes-2 =
+    .value = { $hours }മണിക്കൂ‌ർ { $minutes } മിനിറ്റിൽ തുറക്കും
+downloading-file-opens-in-minutes-2 =
+    .value = { $minutes } മിനിറ്റിൽ തുറക്കും
+downloading-file-opens-in-minutes-and-seconds-2 =
+    .value = { $minutes } മിനിറ്റു് { $seconds } സെക്കണ്ടിൽ തുറക്കും
+downloading-file-opens-in-seconds-2 =
+    .value = { $seconds } നിമിഷങ്ങളിൽ തുറക്കും...
+downloading-file-opens-in-some-time-2 =
+    .value = പൂർത്തിയാകുമ്പോൾ തുറക്കും...
+downloading-file-click-to-open =
+    .value = പൂർത്തിയാകുമ്പോൾ തുറക്കുക
 
 ##
 
@@ -158,6 +175,7 @@ downloads-details =
 ##   $num (number) - Number of blocked downloads.
 ##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
 
+downloads-blocked-from-url = { $url }-ൽ നിന്ന ഇറക്കിവയ്ക്കലുകൾ തടഞ്ഞു
 
 ##
 
@@ -171,10 +189,22 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = ഈ സെഷനിൽ ഒന്നും ഇറക്കിവച്ചിട്ടില്ല
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+        [one] { $count } ഫയലുകൾക്കൂടി ഇറക്കിവയ്ക്കുന്നു
+       *[other] { $count } ഫയലുകൾക്കൂടി ഇറക്കിവയ്ക്കുന്നു
+    }
 
 ## Download errors
 
 downloads-error-alert-title = ഇറക്കിവയ്ക്കൽപിശകു്
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = { $extension } വഴി ഇറക്കിവയ്ക്കൽ തടഞ്ഞതിനാൽ അതു് കരുതിവയ്ക്കാൻ കഴിയില്ല.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     അറിയപ്പെടാത്ത പിഴവുകാരണം ഈ ഇറക്കിവയ്ക്കലിനെ കരുതിവയ്ക്കാൻ പറ്റിയില്ല
