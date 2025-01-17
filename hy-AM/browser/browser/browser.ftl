@@ -423,7 +423,7 @@ browser-tab-audio-muted2 = ԼՌԵՑՎԱԾ
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-blocked = ԻՆՔՆԱՆՎԱԳԱՐԿՈՒՄՆ ԱՐԳԵԼԱՓԱԿՎԱԾ Է
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = ՆԿԱՐ ՆԿԱՐՈՒՄ
+browser-tab-audio-pip = ՆԿԱՐԸ ՆԿԱՐՈՒՄ
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
@@ -647,6 +647,12 @@ urlbar-result-action-search-bookmarks = Որոնել էջանիշեր
 urlbar-result-action-search-history = Որոնման պատմություն
 urlbar-result-action-search-tabs = Որոնել ներդիրներ
 urlbar-result-action-search-actions = Որոնման գործողություններ
+# Label for a quickaction result used to switch to an open tab group.
+#  $group (String): the name of the tab group to switch to
+urlbar-result-action-switch-to-tabgroup = Փոխարկվել { $group }-ին
+# Label for a quickaction result used to re-opan a saved tab group.
+#  $group (String): the name of the tab group to re-open
+urlbar-result-action-open-saved-tabgroup = Բացել { $group }
 
 ## Labels shown above groups of urlbar results
 
@@ -701,8 +707,9 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = Բացեք նկարը նկարում ({ $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Փակել նկարը նկարում ({ $shortcut })
-picture-in-picture-panel-header = Նկար-նկարում
+picture-in-picture-panel-header = Նկարը նկարում
 picture-in-picture-panel-headline = Այս կայքը խորհուրդ չի տալիս «Նկարը նկարում»:
+picture-in-picture-panel-body = Տեսանյութերը կարող են չցուցադրվել այնպես, ինչպես մշակողը նախատեսել է, մինչ «Պատկերը նկարում» միացված է:
 picture-in-picture-enable-toggle =
     .label = Միացնել ամեն դեպքում
 
@@ -949,6 +956,7 @@ restore-session-startup-suggestion-button = Ցույց տուր ինձ, թե ի�
 
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
+filepicker-blocked-infobar = Ձեր կազմակերպությունն արգելափակել է մատչումը տեղային ֆայլերին այս համակարգչում
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -961,7 +969,15 @@ private-browsing-indicator-label = Գաղտնի դիտարկում
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = Գաղտնի դիտարկում
+# Tooltip for the indicator shown in the window titlebar when content analysis is active.
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-indicator-tooltip =
+    .tooltiptext = Տվյալների կորստի կանխարգելում (DLP) { $agentName }-ի կողմից: Սեղմեք՝ լրացուցիչ տեղեկությունների համար:
 content-analysis-panel-title = Տվյալների պաշտպանություն
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = Ձեր կազմակերպությունն օգտագործում է <b>{ $agentName }</b> տվյալների կորստից պաշտպանվելու համար: <a data-l10n-name="info">Իմանալ ավելին</a>
 
 ## Unified extensions (toolbar) button
 
@@ -1022,6 +1038,7 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
+firefox-relay-offer-why-to-use-relay = Մեր անվտանգ, հեշտ օգտագործման դիմակները պաշտպանում են ձեր ինքնությունը և կանխում թափոնը՝ թաքցնելով ձեր էլ.փոստի հասցեն:
 
 ## Add-on Pop-up Notifications
 
@@ -1040,13 +1057,13 @@ popup-notification-addon-privatebrowsing-checkbox =
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-message =
     { $popupCount ->
-        [one] { -brand-short-name } կանխվել է Pop-up-ի բացումը այս կայքից:
-       *[other] { -brand-short-name } կանխել է { $popupCount } Pop-up պատուհանների բացումը:
+        [one] { -brand-short-name } կանխվել է թռուցիկի բացումը այս կայքից:
+       *[other] { -brand-short-name } կանխել է { $popupCount } թռուցիկի բացումը:
     }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
-popup-warning-exceeded-message = { -brand-short-name } արգելափակեց այս կայքը ավելի բացելու քան { $popupCount } ելնող պատուհաններ։
+popup-warning-exceeded-message = { -brand-short-name } արգելափակեց այս կայքը ավելի բացելու քան { $popupCount } թռուցիկ պատուհաններ։
 popup-warning-button =
     .label =
         { PLATFORM() ->

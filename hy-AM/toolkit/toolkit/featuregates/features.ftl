@@ -7,3 +7,7 @@ experimental-features-css-masonry-description = Միացնում է փորձար
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API. WebGPU
+# Auto Picture-in-Picture
+experimental-features-auto-pip =
+    .label = Նկարը նկարում. ինքնաշխատ բացում է ներդիրը փոխարկելիս
+experimental-features-auto-pip-description = Միացրեք Նատկերը նկարում ակտիվ տեսանյութերի վրա՝ ներդիրները փոխելիս:

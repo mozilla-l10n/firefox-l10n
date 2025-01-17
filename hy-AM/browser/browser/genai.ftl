@@ -85,3 +85,4 @@ genai-onboarding-select-primary = Սկսել զրուցել
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
 genai-onboarding-claude-generate = Ստեղծեք գրվածք և կոդ
+genai-onboarding-lechat-price = Անվճար; անհրաժեշտ է հաշիվ

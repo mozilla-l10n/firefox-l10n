@@ -8,11 +8,18 @@
 newtab-page-title = Նոր ներդիր
 newtab-settings-button =
     .title = Հարմարեցրեք ձեր Նոր Ներդիր էջը
+newtab-personalize-settings-icon-label =
+    .title = Անհատականացնել նոր ներդիրը
+    .aria-label = Կարգավորումներ
+newtab-settings-dialog-label =
+    .aria-label = Կարգավորումներ
 newtab-personalize-icon-label =
     .title = Անհատականացնել նոր ներդիրը
     .aria-label = Անհատականացնել նոր ներդիրը
 newtab-personalize-dialog-label =
     .aria-label = Անհատականացնել
+newtab-logo-and-wordmark =
+    .aria-label = { -brand-full-name }
 
 ## Search box component.
 
@@ -109,6 +116,7 @@ newtab-menu-save-to-pocket = Պահպանել { -pocket-brand-name }-ում
 newtab-menu-delete-pocket = Ջնջել { -pocket-brand-name }-ից
 newtab-menu-archive-pocket = Արխիվացնել { -pocket-brand-name }-ում
 newtab-menu-show-privacy-info = Մեր հովանավորները և ձեր գաղտնիությունը
+newtab-menu-about-fakespot = { -fakespot-brand-name }-ի մասին
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -197,6 +205,9 @@ newtab-section-header-recent-activity = Վերջին ակտիվություն
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Առաջարկվում է { $provider }
+newtab-section-header-stories = Մտահանգման պատմություններով
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = Այսօրվա ընտրությունը ձեզ համար
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -337,9 +348,28 @@ newtab-wallpaper-beach-at-sunset = Լողափ մայրամուտին
 newtab-wallpaper-storm-sky = Փոթորիկ երկինք
 newtab-wallpaper-sky-with-pink-clouds = Երկինք վարդագույն ամպերով
 newtab-wallpaper-red-panda-yawns-in-a-tree = Կարմիր պանդան հորանջում է ծառի վրա
+newtab-wallpaper-white-mountains = Սպիտակ լեռներ
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Լուսանկարի հեղինակ՝ <a data-l10n-name="name-link">{ $author_string }</a>, <a data-l10n-name="webpage-link">{ $webpage_string }</a>-ում
+newtab-wallpaper-feature-highlight-header = Փորձեք գույն շաղ տալ
+newtab-wallpaper-feature-highlight-content = Ձեր նոր ներդիրին թարմ տեսք տվեք պաստառներով:
+newtab-wallpaper-feature-highlight-button = Հասկացա
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Բաց թողնել
+    .aria-label = Փակել թռուցիկը
 
 ## New Tab Weather
 
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = Տեսեք կանխատեսումը { $provider }-ում
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ Հովանավորվում է
 newtab-weather-menu-change-location = Փոխել գտնվելու վայրը
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Որոնել գտնվելու վայրը
@@ -350,6 +380,12 @@ newtab-weather-menu-weather-display = Եղանակի ցուցադրում
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
 newtab-weather-menu-weather-display-option-simple = Պարզ
+newtab-weather-menu-change-weather-display-simple = Փոխել պարզ տեսքի
+newtab-weather-menu-weather-display-option-detailed = Մանրամասներ
+newtab-weather-menu-change-weather-display-detailed = Անցնել մանրամասն դիտմանը
+newtab-weather-menu-temperature-units = Ջերմաստիճանի միավորներ
+newtab-weather-menu-temperature-option-fahrenheit = Ֆարենհեյթ
+newtab-weather-menu-temperature-option-celsius = Ցելսիուս
 newtab-weather-menu-change-temperature-units-fahrenheit = Փոխարկել ֆարենհեյթին
 newtab-weather-menu-change-temperature-units-celsius = Փոխարկել ցելսիուսին
 

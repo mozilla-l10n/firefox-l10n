@@ -210,6 +210,7 @@ device-migration-fxa-spotlight-older-device-header = Մտքի խաղաղությ
 device-migration-fxa-spotlight-older-device-primary-button = Ստեղծել հաշիվ
 device-migration-fxa-spotlight-getting-new-device-header-2 = Ձեր ապագայում նոր սարք:
 device-migration-fxa-spotlight-getting-new-device-primary-button = Ինչպես պահուստավորել իմ տվյալները
+device-migration-fxa-spotlight-sync-primary-button = Սկսեք
 
 ## Set as Default PDF Reader Infobar
 
@@ -243,12 +244,19 @@ tail-fox-spotlight-secondary-button = Ոչ հիմա
 
 ## Root Certificate Succession Infobar
 
+root-certificate-succession-infobar-link = Ինչո՞ւ է պետք արդիացնել:
+root-certificate-succession-infobar-primary-button =
+    .label = Արդիացնել հիմա
+    .accesskey = U
 root-certificate-succession-infobar-secondary-button =
     .label = Ավելի ուշ
     .accesskey = L
 
 ## Root Certificate Succession Windows Background Notification
 
+root-certificate-windows-background-notification-title = Դուք բաց եք թողել կարևոր { -brand-short-name } թարմացումը
+root-certificate-windows-background-notification-learn-more-button = Իմանալ ավելին
+root-certificate-windows-background-notification-update-button = Արդիացնել { -brand-short-name }­-ը
 
 ## FxA Menu Message variants
 
@@ -258,6 +266,15 @@ fxa-menu-message-close-button =
 fxa-menu-message-sign-up-button = Գրանցվել
 fxa-menu-message-sync-devices-primary-text = Համաժամացրեք ձեր բոլոր սարքերը
 fxa-menu-message-sync-devices-collapsed-text = Համաժամացրեք ձեր բոլոր սարքերը
+fxa-menu-message-backup-data-collapsed-text = Պահուստավորել դիտարկիչի տվյալները
+fxa-menu-message-backup-sync-primary-text = Պահպանեք ձեր տվյալները ապահով և համաժամեցված
+fxa-menu-message-backup-sync-collapsed-text = Համաժամեցնել և պահուստավորել տվյալները
+fxa-menu-message-mobile-primary-text = Ուղարկեք ներդիրները ձեր հեռախոսին
+fxa-menu-message-mobile-collapsed-text = Համաժամեցեք ձեր հեռախոսի հետ
 
 ## Multi-CTA Fox Doodle Spotlight
 
+multi-cta-fox-doodle-title = Բարի վերադարձ
+multi-cta-fox-doodle-set-default-checkbox = Կայել { -brand-short-name }-ը որպես սկզբնադիր
+multi-cta-fox-doodle-pin-startmenu-checkbox = Ամրացրեք { -brand-short-name }-ը Մեկնարկ ցանկին
+multi-cta-fox-doodle-start-browsing-primary-button-label = Սկսել դիտարկումը

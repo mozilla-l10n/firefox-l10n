@@ -257,6 +257,12 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
+menu-profiles =
+    .label = Պրոֆիլներ
+menu-profiles-manage-profiles =
+    .label = Կառավարել պրոֆիլները
+menu-profiles-new-profile =
+    .label = Նոր պրոֆիլ
 
 ## Tools Menu
 
