@@ -24,6 +24,8 @@ firefox-relay-opt-in-title-1 = Προστασία διεύθυνσης email:
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Χρήση μάσκας email του { -relay-brand-name }
 firefox-relay-use-mask-title = Χρήση μάσκας email του { -relay-brand-name }
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
+firefox-relay-opt-in-title-b = Αποκτήστε μια δωρεάν μάσκα email
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Χρήση μάσκας email
     .accesskey = Χ
@@ -49,6 +51,7 @@ firefox-relay-and-fxa-popup-notification-second-sentence-control = Αρχικά,
 
 ## The "basic-info" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-basic-info = Αποτρέψτε τα ανεπιθύμητα μηνύματα με μια δωρεάν μάσκα email
 firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = Αποτρέψτε ανεπιθύμητα μηνύματα κρύβοντας την πραγματική διεύθυνση email σας με μια δωρεάν <label data-l10n-name="firefox-relay-learn-more-url">μάσκα email</label>. Τα email από <label data-l10n-name="firefox-fxa-and-relay-offer-domain">αυτόν τον ιστότοπο</label> θα εξακολουθούν να έρχονται στα εισερχόμενά σας, αλλά αποκρύπτοντας το πραγματικό email σας.
 firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = Αρχικά, εγγραφείτε ή συνδεθείτε στον λογαριασμό σας για να χρησιμοποιήσετε μια μάσκα email
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
@@ -66,6 +69,8 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Προστατευτείτε από ανεπιθύμητα μηνύματα με μια μάσκα email
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Προστατευτείτε από ανεπιθύμητα μηνύματα αποκρύπτοντας την πραγματική σας διεύθυνση με μια <label data-l10n-name="firefox-relay-learn-more-url">μάσκα email</label>. Θα εξακολουθείτε να λαμβάνετε email από <label data-l10n-name="firefox-fxa-and-relay-offer-domain">αυτόν τον ιστότοπο</label> στα κανονικά σας εισερχόμενα, χωρίς να αποκαλυφθεί η διεύθυνσή σας.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Αρχικά, εγγραφείτε ή συνδεθείτε στον λογαριασμό σας για να χρησιμοποιήσετε μια μάσκα email
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Επόμενο

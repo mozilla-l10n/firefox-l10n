@@ -439,9 +439,11 @@ onboarding-checklist-sign-up = Εγγραφή ή σύνδεση σε λογαρ�
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-feature-callout-title = Δοκιμάστε τις ομάδες καρτελών για λιγότερη ακαταστασία, περισσότερη συγκέντρωση
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-title = Πείτε «γεια» στα προφίλ του { -brand-product-name }
 multi-profile-spotlight-cta = Δημιουργία προφίλ
 multi-profile-callout-title = Δημιουργήστε διαφορετικά προφίλ για εργασία και διασκέδαση
 multi-profile-callout-cta = Δημιουργία προφίλ

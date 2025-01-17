@@ -48,10 +48,22 @@ sync-setup-verify-description = Κάποιος άλλος χρήστης έχε�
 
 # Dialog 1 - different account signing in without option to merge
 sync-profile-different-account-title = Έχετε φτάσει το όριο λογαριασμών για αυτό το προφίλ
+# Dialog 1 - different account signing in with merge option
+sync-profile-different-account-title-merge = Το προφίλ έχει συγχρονιστεί με διαφορετικό λογαριασμό
 # Dialog 2 - account signed in on another profile without option to merge
 sync-account-in-use-header = Ο λογαριασμός χρησιμοποιείται ήδη
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $otherProfile (String) - Name of the other profile that is associated with the account
+sync-account-in-use-header-merge = Το { $acctEmail } είναι ήδη συνδεδεμένο με το προφίλ «{ $otherProfile }»
+sync-account-in-use-description = Μπορείτε να συσχετίσετε αυτόν τον λογαριασμό με ένα μόνο προφίλ σε αυτόν τον υπολογιστή.
 # Dialog 2 - account signed in on another profile with merge option
 sync-account-already-signed-in-header = Αυτός ο λογαριασμός έχει συνδεθεί σε άλλο προφίλ. Συγχρονισμός και των δύο προφίλ;
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $currentProfile (String): Name of the current profile signing in
+#   $otherProfile (String): Name of the profile that is already signed in
+sync-account-in-use-description-merge = Το { $acctEmail } είναι συνδεδεμένο με το προφίλ «{ $otherProfile }» σε αυτόν τον υπολογιστή. Ο συγχρονισμός του προφίλ «{ $currentProfile }» θα συνδυάσει οριστικά τα δεδομένα, όπως τους κωδικούς πρόσβασης και τους σελιδοδείκτες, των δύο προφίλ.
 # Variables:
 #   $profileName (String) - Name of the profile to switch to
 sync-button-switch-profile = Εναλλαγή σε «{ $profileName }»
