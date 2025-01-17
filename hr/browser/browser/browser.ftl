@@ -367,6 +367,10 @@ quickactions-cmd-viewsource = pogledaj izvorni kod, izvorni kod
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Saznaj više o brzim radnjama
+# Will be shown to users the first configurable number of times
+# they experience actions giving them instructions on how to
+# select the action shown by pressing the tab key.
+press-tab-label = Pritisni tipku tabulatora za biranje:
 
 ## Bookmark Panel
 
