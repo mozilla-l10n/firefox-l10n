@@ -463,9 +463,17 @@ newtab-section-follow-button = Segui
 newtab-section-following-button = Stai seguendo
 newtab-section-unfollow-button = Smetti di seguire
 
+## Button to block/unblock listed topics
+## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
+## e.g. Blocked the politics section of stories.
+
+
 ## Confirmation modal for blocking a section
 
 newtab-section-confirm-block-section-p1 = Bloccare questa sezione?
 newtab-section-confirm-block-section-p2 = Una volta bloccata, la sezione non verrà più visualizzata nel feed.
 newtab-section-block-section-button = Blocca questa sezione
 newtab-section-cancel-button = Non adesso
+
+## Panel in the Customize menu section to manage followed and blocked topics
+
