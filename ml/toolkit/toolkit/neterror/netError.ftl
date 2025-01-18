@@ -47,6 +47,8 @@ neterror-dns-not-found-hint-try-again = പിന്നീട് വീണ്ട
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-bad-trr-url = URL അസാധുവാണ്
+neterror-dns-not-found-trr-unknown-problem = പ്രതീക്ഷിക്കാത്ത കുഴപ്പം
 
 ## Native fallback specific messages
 ## Variables:
@@ -78,6 +80,7 @@ neterror-corrupted-content-intro = ഡേറ്റാ അയയ്ക്കു�
 neterror-corrupted-content-contact-website = ഈ പ്രശ്നത്തെപ്പറ്റി ദയവായി വെബ്സൈറ്റിന്റെ ഉടമസ്ഥരെ അറിയിയ്ക്കുക.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
 neterror-sslv3-used = വിപുലമായ വിവരം: SSL_ERROR_UNSUPPORTED_VERSION
+certerror-what-can-you-do-about-it-title = അതിനെപ്പറ്റി താങ്ങൾക്കു് എന്തു ചെയ്യാം?
 # Variables:
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
