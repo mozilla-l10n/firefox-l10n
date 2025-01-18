@@ -5,19 +5,24 @@
 
 ## Error page titles
 
-neterror-page-title = താള്‍ ലോഡ്‌ ചെയ്യുന്നതില്‍ തകരാര്‍
-neterror-captive-portal-page-title = നെറ്റ്‍വർക്കിൽ പ്രവേശിക്കുക
+neterror-page-title = താള്‍ ലഭ്യമാക്കുന്നതിൽ തകരാര്‍
+neterror-blocked-by-policy-page-title = തടഞ്ഞ താൾ
+neterror-captive-portal-page-title = ശ്യംഖലയിലോട്ടു് പ്രവേശിക്കുക
 neterror-dns-not-found-title = സെർവർ കണ്ടെത്താനായില്ല
 neterror-malformed-uri-page-title = അസാധുവായ URL
 
 ## Error page actions
 
-neterror-copy-to-clipboard-button = ക്ലിപ്പ്ബോര്‍ഡിലേക്കു് വാചകം പകര്‍ത്തുക
+neterror-advanced-button = സങ്കീര്‍ണ്ണമായവ...
+neterror-copy-to-clipboard-button = പകർത്തൽപെട്ടിയിലേക്കു് വാചകം പകര്‍ത്തുക
 neterror-learn-more-link = കൂടുതല്‍ അറിയുക...
 neterror-open-portal-login-page-button = നെറ്റ്‍വർക്ക് ലോഗിൻ പേജ് തുറക്കുക
 neterror-pref-reset-button = സ്വതേയുള്ള സജ്ജീകരണങ്ങള്‍ വീണ്ടെടുക്കുക
 neterror-return-to-previous-page-button = തിരികെ പോകൂ
+neterror-return-to-previous-page-recommended-button = തിരികെ പോവുക (ശുപാർശചെയ്തതു്)
 neterror-try-again-button = വീണ്ടും ശ്രമിക്കുക
+neterror-trr-continue-this-time = ഈ പ്രാവിശ്യം തുടരുക
+neterror-disable-native-feedback-warning = എപ്പോഴും തുടരുക
 
 ##
 
