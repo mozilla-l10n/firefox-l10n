@@ -37,3 +37,6 @@ webext-perms-description-webNavigation = Auf Browseraktivität während Seitenwe
 ## The userScripts permission includes an additional explanation that is
 ## displayed prominently near the usual permission description.
 
+webext-perms-extra-warning-userScripts-long = Nicht verifizierte Skripte können ein Risiko für Sicherheit und Datenschutz darstellen, z.B. schädlichen Quelltext ausführen oder Website-Aktivitäten verfolgen. Führen Sie nur Skripte von Erweiterungen oder Quellen aus, denen Sie vertrauen.
+# A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
+webext-perms-extra-warning-userScripts-short = Nicht verifizierte Skripte können Risiken für Sicherheit und Datenschutz darstellen. Führen Sie nur Skripte von Erweiterungen oder Quellen aus, denen Sie vertrauen.

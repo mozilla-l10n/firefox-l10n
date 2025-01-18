@@ -151,3 +151,7 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Falls Sie mit <b>{ $mitm }<
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> verwendet eine Sicherheitstechnologie namens "HTTP Strict Transport Security (HSTS)", durch welche { -brand-short-name } nur über gesicherte Verbindungen mit der Website verbinden darf. Daher kann keine Ausnahme für die Website hinzugefügt werden.
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = Wahrscheinlich nichts, da es wahrscheinlich ein Problem mit der Website selbst gibt.
+# Variables:
+#   $responsestatus (string) - HTTP response status code (e.g., 500).
+#   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
+neterror-response-status-code = Fehlercode: { $responsestatus } { $responsestatustext }
