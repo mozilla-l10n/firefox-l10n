@@ -367,6 +367,10 @@ quickactions-cmd-viewsource = vider fonte, fonte
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Saper plus sur le actiones rapide
+# Will be shown to users the first configurable number of times
+# they experience actions giving them instructions on how to
+# select the action shown by pressing the tab key.
+press-tab-label = Pulsar clave tab pro seliger:
 
 ## Bookmark Panel
 
