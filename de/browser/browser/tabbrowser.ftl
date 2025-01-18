@@ -258,3 +258,16 @@ tab-group-context-move-to-new-window =
 # user's current window.
 tab-group-context-move-to-this-window =
     .label = Gruppe in dieses Fenster verschieben
+# For a tab group that is open in any window, close the tab group and
+# do not save it. For a tab group that is closed but saved by the user, clicking
+# this will forget the saved tab group.
+tab-group-context-delete =
+    .label = Gruppe löschen
+# For a saved tab group that is not open in any window, open the tab group
+# in the user's current window.
+tab-group-context-open-saved-group-in-this-window =
+    .label = Gruppe in diesem Fenster öffnen
+# For a saved tab group that is not open in any window, create a new window and
+# open the tab group in that window.
+tab-group-context-open-saved-group-in-new-window =
+    .label = Gruppe in neuem Fenster öffnen
