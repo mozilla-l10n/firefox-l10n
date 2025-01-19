@@ -37,6 +37,12 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = ഇപ്പോഴല്ല
     .accesskey = ഴ
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
+    .label = അംഗത്വമെടുക്കുക
+    .accesskey = അ
+firefox-relay-and-fxa-opt-in-confirmation-disable =
+    .label = ഇതു് എന്നേ വീണ്ടും കാണിക്കരുതു്
+    .accesskey = ക
 firefox-relay-and-fxa-opt-in-confirmation-postpone =
     .label = ഇപ്പോഴല്ല
     .accesskey = ഇ
@@ -46,6 +52,7 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 
 ## The "basic-info" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-basic-info = സൗജന്യമുള്ള ഇ-തപാൽ പൊയ്മുഖത്തിന്റെ കൂടെ പാഴ്തപാലിനെ മുടക്കുക.
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = അംഗത്വമെടുക്കുക
     .accesskey = അ

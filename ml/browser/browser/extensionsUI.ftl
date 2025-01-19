@@ -14,6 +14,9 @@ webext-default-search-yes =
 webext-default-search-no =
     .label = ഇല്ല
     .accesskey = N
+# Variables:
+#   $addonName (String): localized named of the extension that was just installed.
+addon-post-install-message = { $addonName }-നെ ചേൎത്തു
 
 ## A modal confirmation dialog to allow an extension on quarantined domains.
 
