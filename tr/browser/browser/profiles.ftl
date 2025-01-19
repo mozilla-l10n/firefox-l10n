@@ -4,9 +4,10 @@
 
 profile-window-title = { -brand-short-name } - Kullanıcı profilini seçin
 profile-window-heading = Bir { -brand-short-name } profili seçin
+profile-window-body = Kişisel ve iş amaçlı gezintilerinizi, parolalarınızı ve yer imlerinizi birbirinden tamamen ayrı tutabilirsiniz veya isterseniz bu cihazı kullanan herkes için ayrı profiller oluşturabilirsiniz.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
-    .label = { -brand-short-name } açıldığında bir profil seç
+    .label = { -brand-short-name } açıldığında profil seç
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = { -brand-short-name } açıldığında bu pencereyi göster
@@ -40,6 +41,7 @@ edit-profile-page-duplicate-name = Bu profil adı zaten kullanılıyor. Yeni bir
 edit-profile-page-profile-saved = Kaydedildi
 new-profile-page-title = Yeni profil
 new-profile-page-header = Yeni profilinizi özelleştirin
+new-profile-page-header-description = Her profilin kendi gezinti geçmişi ve ayarları diğer profillerinizden ayrı tutulur. Ayrıca { -brand-short-name } tarayıcısının güçlü gizlilik korumaları varsayılan olarak açık gelir.
 new-profile-page-learn-more = Daha fazla bilgi alın
 new-profile-page-input-placeholder =
     .placeholder = “İş” veya “Kişisel” gibi bir ad seçin
