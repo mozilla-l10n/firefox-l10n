@@ -357,8 +357,10 @@ bookmark-panel-save-button =
 
 identity-connection-not-secure = സമ്പർക്കം സുരക്ഷിതമല്ല
 identity-connection-secure = സമ്പമർക്കം സുരക്ഷിതമാണു്
+identity-connection-failure = സമ്പൎക്ക തകരാർ
 identity-connection-internal = ഇതു് സുരക്ഷിതമായൊരു { -brand-short-name } താള്‍ ആകുന്നു.
 identity-connection-file = ഈ താള്‍ താങ്കളുടെ കമ്പ്യൂട്ടറില്‍ ശേഖരിച്ചിട്ടുണ്ട്.
+identity-connection-associated = ഈ താൾ വേറൊരു താളിൽ നിന്നു് ലഭ്യമാക്കിയതാണു്
 identity-extension-page = ഒരു എക്സ്റ്റന്‍ഷനില്‍നിന്നാണ് ഈ പേജ് ലോഡ് ചെയ്തിരിക്കുന്നത്.
 identity-active-blocked = ഈ താളിന്റെ ചില ഭാഗങ്ങള്‍ സുരക്ഷിതമല്ലാത്തതിനാല്‍ { -brand-short-name } അത് തടഞ്ഞിട്ടുണ്ട്.
 identity-passive-loaded = ഈ താളിന്റെ ചില ഭാഗങ്ങള്‍ സുരക്ഷിതമല്ല (ചിത്രങ്ങള്‍ പോലുള്ളവ).
