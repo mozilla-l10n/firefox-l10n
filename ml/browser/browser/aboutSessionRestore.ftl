@@ -5,8 +5,8 @@
 restore-page-tab-title = സെഷന്‍ വീണ്ടെടുക്കുക
 # The title is intended to be apologetic and disarming, expressing dismay
 # and regret that we are unable to restore the session for the user
-restore-page-error-title = ക്ഷമിക്കണം. നിങ്ങൾ ബ്രൗസ് ചെയ്തുകൊണ്ടിരുന്ന താളുകൾ തിരികെ ലഭ്യമാക്കുവാൻ സാധിക്കുന്നില്ല.
-restore-page-problem-desc = ഒടുവിലത്തെ ബ്രൗസിങ് സെഷൻ വീണ്ടെടുക്കുവാൻ സാധിക്കുന്നില്ല. വീണ്ടും ശ്രമിക്കുന്നതിന് സെഷൻ വീണ്ടെടുക്കുക തെരഞ്ഞടുക്കുക.
+restore-page-error-title = ക്ഷമിക്കണം. താങ്ങൾ പരതുകൊണ്ടിരുന്ന താളുകൾ തിരികെ ലഭ്യമാക്കുവാൻ സാധിക്കുന്നില്ല.
+restore-page-problem-desc = ഒടുവിലത്തെ തിരച്ചിൽകാലം വീണ്ടെടുക്കുവാൻ സാധിക്കുന്നില്ല. വീണ്ടും ശ്രമിക്കുന്നതിന് സെഷൻ വീണ്ടെടുക്കുക തിരഞ്ഞെടുക്കുക.
 restore-page-try-this = സെഷൻ വീണ്ടെടുക്കുവാൻ സാധിക്കുന്നില്ല? നിങ്ങളുടെ ടാബുകൾ പരിശോധിക്കുക. വീണ്ടെടുക്കുവാൻ ആവശ്യമില്ലാത്ത ടാബുകൾ നിക്കം ചെയ്തശേഷം വീണ്ടും ശ്രമിക്കുക.
 restore-page-hide-tabs = മുമ്പത്തെ ടാബ് മറയ്ക്കുക
 restore-page-show-tabs = മുമ്പത്തെ ടാബുകൾ കാണുക

@@ -11,7 +11,7 @@
 ## Welcome page strings
 
 onboarding-welcome-header = { -brand-short-name } ലേക്ക് സ്വാഗതം
-onboarding-start-browsing-button-label = ബ്രൗസിംഗ് ആരംഭിക്കുക
+onboarding-start-browsing-button-label = തിരയാൻ ആരംഭിക്കുക
 
 ## Custom Return To AMO onboarding strings
 

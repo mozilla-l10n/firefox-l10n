@@ -20,6 +20,6 @@ customize-menu-add-to-overflowmenu =
 
 # The forget button can be added to the toolbar or overflow menu via the customization menu.
 panic-button-thankyou-msg1 = സമീപകാല നാള്‍വഴി മായ്ച്ചിരിക്കുന്നു
-panic-button-thankyou-msg2 = സുരക്ഷിത ബ്രൗസിങ്ങ്!
+panic-button-thankyou-msg2 = സുരക്ഷിത തിരച്ചിൽ!
 panic-button-thankyou-button =
     .label = നന്ദി!

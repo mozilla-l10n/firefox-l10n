@@ -867,7 +867,7 @@ navbar-search =
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
-    .aria-label = ബ്രൌസര്‍ റ്റാബുകള്‍
+    .aria-label = അന്വേഷിയന്ത്ര ടാബുകൾ
 tabs-toolbar-new-tab =
     .label = പുതിയ റ്റാബ്‌
 tabs-toolbar-list-all-tabs =
