@@ -47,7 +47,7 @@ containers-color-purple =
 containers-icon-fingerprint =
     .label = വിരലടയാളം
 containers-icon-briefcase =
-    .label = ബ്രീഫ്കേസ്
+    .label = പെട്ടി
 # String represents a money sign but currently uses a dollar sign
 # so don't change to local currency. See Bug 1291672.
 containers-icon-dollar =

@@ -45,7 +45,7 @@ clear-time-duration-suffix =
 
 history-section-label = നാള്‍വഴി
 item-history-and-downloads =
-    .label = ബ്രൗ&സിങ്ങും ഡൗണ്‍ലോഡ് നാള്‍വഴിയും
+    .label = തിരച്ചിലും ഇറക്കിവയ്ക്കൽ നാള്‍വഴിയും
     .accesskey = ഡ
 item-cookies =
     .label = കുക്കികള്‍
