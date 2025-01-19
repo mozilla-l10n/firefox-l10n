@@ -459,5 +459,6 @@ newtab-section-unfollow-button = Berhenti mengikuti
 ## Confirmation modal for blocking a section
 
 newtab-section-confirm-block-section-p1 = Yakin ingin memblokir bagian ini?
+newtab-section-confirm-block-section-p2 = Bagian yang diblokir tidak akan muncul lagi di asupan Anda.
 newtab-section-block-section-button = Blokir bagian ini
 newtab-section-cancel-button = Jangan sekarang

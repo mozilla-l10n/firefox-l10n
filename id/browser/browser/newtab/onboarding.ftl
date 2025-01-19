@@ -332,6 +332,8 @@ mr2022-onboarding-colorways-image-alt =
 
 ## Device migration onboarding
 
+onboarding-device-migration-image-alt =
+    .aria-label = Seekor rubah di layar komputer laptop melambai. Laptop memiliki mouse yang dicolokkan ke sana.
 onboarding-device-migration-title = Selamat datang kembali!
 onboarding-device-migration-subtitle = Masuk ke { -fxaccount-brand-name(capitalization: "sentence") } Anda untuk membawa markah, kata sandi, dan riwayat Anda ke perangkat baru.
 onboarding-device-migration-subtitle2 = Masuk ke akun Anda untuk membawa markah, kata sandi, dan riwayat Anda di perangkat baru.
@@ -340,6 +342,7 @@ onboarding-device-migration-primary-button-label = Masuk
 ## Add-ons Picker screen
 
 amo-picker-title = Ubahsuai { -brand-short-name } Anda
+amo-picker-subtitle = Ekstensi adalah seperti aplikasi untuk browser Anda, dan mereka memungkinkan Anda melindungi kata sandi, mengunduh video, menemukan penawaran, memblokir iklan yang mengganggu, mengubah tampilan browser, dan banyak lagi.
 amo-picker-install-button-label = Tambahkan ke { -brand-short-name }
 amo-picker-install-complete-label = Terinstal
 amo-picker-collection-link = Jelajahi lebih banyak pengaya
@@ -348,9 +351,12 @@ amo-picker-collection-link = Jelajahi lebih banyak pengaya
 
 # Easy setup screen
 onboarding-easy-setup-security-and-privacy-title = Kami senang menjaga Anda tetap aman
+onboarding-easy-setup-security-and-privacy-subtitle = Peramban nirlaba kami membantu menghentikan perusahaan secara diam-diam mengikuti Anda di web.
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = Selalu terenkripsi saat Anda berpindah antar perangkat
 onboarding-mobile-download-security-and-privacy-subtitle = Saat disinkronkan, { -brand-short-name } mengenkripsi kata sandi, markah, dan lainnya. Selain itu, Anda dapat mengambil tab dari perangkat lainnya.
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } mendukung Anda
 onboarding-gratitude-security-and-privacy-subtitle = Terima kasih telah menggunakan { -brand-short-name }, yang didukung oleh Mozilla Foundation. Dengan dukungan Anda, kami berupaya membuat internet lebih aman dan lebih mudah diakses oleh semua orang.
 # Sign up or Sign in screen
 onboarding-sign-up-title = Sinkronkan data Anda di seluruh perangkat
@@ -383,6 +389,12 @@ onboarding-new-user-survey-familiarity-based-option-4 = Dulu pernah menggunakan,
 onboarding-new-tabs-title = Beri tahu kami di sisi mana Anda ingin meletakkan daftar tab
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Ganti posisinya kapan saja di pengaturan bilah sisi.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Tab Anda, cara Anda
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Membiarkan banyak tab terbuka? Coba tab di samping untuk tampilan yang lebih ramping. Atau tetap klasik dengan tab di bagian atas. Beralih kapan saja.
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Pilih tata letak tab Anda
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Tab di samping
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
