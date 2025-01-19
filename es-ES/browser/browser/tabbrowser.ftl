@@ -250,3 +250,7 @@ tab-context-ungroup-tab =
 
 ## Open/saved tab group context menu
 
+# For a tab group open in any window, clicking this will create a new
+# window and move this tab group to that new window.
+tab-group-context-move-to-new-window =
+    .label = Mover grupo a una nueva ventana
