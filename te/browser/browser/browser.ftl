@@ -69,12 +69,12 @@ private-browsing-shortcut-text-2 = { -brand-shortcut-name } అంతరంగ�
 browser-main-window-titles =
     .data-title-default = { -brand-full-name }
     .data-title-private = { -brand-full-name } ఆంతరంగిక విహారణ
-    .data-title-default-with-profile = { $profile-name }—{ -brand-full-name }
-    .data-title-private-with-profile = { $profile-name }—{ -brand-full-name } ఆంతరంగిక విహారణ
-    .data-content-title-default = { $content-title }—{ -brand-full-name }
-    .data-content-title-private = { $profile-name }—{ -brand-full-name } ఆంతరంగిక విహారణ
-    .data-content-title-default-with-profile = { $content-title }—{ $profile-name }—{ -brand-full-name }
-    .data-content-title-private-with-profile = { $content-title }—{ $profile-name }—{ -brand-full-name } ఆంతరంగిక విహారణ
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } ఆంతరంగిక విహారణ
+    .data-content-title-default = { $content-title } — { -brand-full-name }
+    .data-content-title-private = { $content-title } — { -brand-full-name } ఆంతరంగిక విహారణ
+    .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
+    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } ఆంతరంగిక విహారణ
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
