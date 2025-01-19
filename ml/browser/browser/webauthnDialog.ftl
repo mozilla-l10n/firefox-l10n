@@ -2,3 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+webauthn-pin-invalid-short-prompt = തെറ്റിയ പിൻ. പിന്നെയും ശ്രമിക്കുക
+webauthn-pin-required-prompt = ഉപരണത്തിനു് ശരിയായ പിൻ നല്കുക
+webauthn-select-sign-result-unknown-account = അറിയാത്ത അക്കൗണ്ടു്
