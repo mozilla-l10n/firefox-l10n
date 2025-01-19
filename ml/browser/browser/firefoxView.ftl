@@ -44,8 +44,19 @@ firefoxview-syncedtabs-loading-header = സമന്വയം നടപ്പി
 firefoxview-tabpickup-fxa-admin-disabled-header = താങ്ങളുടെ സ്ഥാപനം സമന്വയത്തിനെ പ്രവൎത്തനരഹിതമാക്കി വച്ചിരിക്കുന്നു
 firefoxview-tabpickup-network-offline-primarybutton = വീണ്ടും ശ്രമിയ്ക്കുക
 firefoxview-tabpickup-sync-error-primarybutton = വീണ്ടും ശ്രമിയ്ക്കുക
+firefoxview-tabpickup-sync-disconnected-header = തുടരാൻ വേണ്ടി സമന്വയം തുടങ്ങിവയ്ക്കുക
+firefoxview-tabpickup-sync-disconnected-primarybutton = ക്രമീകരണങ്ങളിൽ സമന്വയത്തിനെ തുടങ്ങിവയ്ക്കുക
+firefoxview-tabpickup-password-locked-link = കൂടുതലറിയുക
+firefoxview-tabpickup-password-locked-primarybutton = പ്രധാനരഹസ്യവാക്കു് നല്കുക
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">കൂടുതൽ അറിയുക</a>
+firefoxview-tabpickup-signed-out-header = വീണ്ടും ബന്ധിപ്പിക്കുന്നതിന് പ്രവേശിക്കുക
 firefoxview-tabpickup-signed-out-primarybutton = പ്രവേശിക്കുക
 firefoxview-closed-tabs-title = അടുത്തിടെ അടച്ചതു്
+firefoxview-closed-tabs-placeholder-header = അടുത്തിടെ അടച്ച ടാബുകളൊന്നുമില്ല
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = { $tabTitle } കളയുക
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = അവസാനം ഉപയോഗിച്ചതു്
 firefoxview-collapse-button-show =
@@ -107,6 +118,9 @@ firefoxview-search-text-box-opentabs =
 # Variables:
 #   $query (String) - The search query used for searching through browser history.
 firefoxview-search-results-header = { $query } എന്നതിനായുള്ള തിരയൽഫലങ്ങൾ
+firefoxview-sort-history-by-date-label = തീയതി അനുസരിച്ചു് ക്രമത്തിലാക്കുക
+firefoxview-sort-history-by-site-label = സൈറ്റു് അനുസരിച്ചു് ക്രമത്തിലാക്കുക
+firefoxview-sort-open-tabs-by-order-label = ടാബുക്രമം അനുസരിച്ചു് ക്രമത്തിലാക്കുക
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
