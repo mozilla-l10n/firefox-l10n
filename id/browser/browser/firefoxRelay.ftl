@@ -37,6 +37,9 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Jangan sekarang
     .accesskey = J
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
+    .label = Daftar
+    .accesskey = D
 firefox-relay-and-fxa-opt-in-confirmation-disable =
     .label = Jangan tampilkan ini lagi
     .accesskey = J
@@ -49,9 +52,15 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 
 ## The "basic-info" variation of the Relay offer popup
 
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
+    .label = Daftar
+    .accesskey = D
 
 ## The "with-domain" variation of the Relay offer popup
 
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
+    .label = Daftar
+    .accesskey = D
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 

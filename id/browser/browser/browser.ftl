@@ -314,6 +314,10 @@ quickactions-cmd-viewsource = lihat kode sumber, sumber
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Pelajari lebih lanjut tentang Tindakan Cepat
+# Will be shown to users the first configurable number of times
+# they experience actions giving them instructions on how to
+# select the action shown by pressing the tab key.
+press-tab-label = Tekan tab untuk memilih:
 
 ## Bookmark Panel
 

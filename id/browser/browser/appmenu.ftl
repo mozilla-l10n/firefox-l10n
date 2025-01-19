@@ -283,6 +283,7 @@ appmenuitem-relay-description = Tutupi surel dan telepon asli Anda
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Lindungi aktivitas daring Anda
 appmenu-services-header = Layanan saya
+appmenu-other-protection-header = Coba alat perlindungan lain dari { -vendor-short-name }:
 
 ## Profiles panel
 
