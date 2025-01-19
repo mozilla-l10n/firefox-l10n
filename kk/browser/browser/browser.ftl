@@ -367,6 +367,10 @@ quickactions-cmd-viewsource = бастапқы кодын қарау, баста
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Жылдам әрекеттер туралы көбірек біліңіз
+# Will be shown to users the first configurable number of times
+# they experience actions giving them instructions on how to
+# select the action shown by pressing the tab key.
+press-tab-label = Таңдау үшін бетті басыңыз:
 
 ## Bookmark Panel
 
