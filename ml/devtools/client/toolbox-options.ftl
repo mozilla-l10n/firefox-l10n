@@ -25,7 +25,7 @@ options-select-dev-tools-theme-label = പ്രമേയങ്ങള്‍
 # The heading
 options-context-inspector = നിരീക്ഷകന്‍
 # The label for the checkbox option to show user agent styles
-options-show-user-agent-styles-label = ബ്രൌസര്‍ ശൈലികള്‍ കാണിയ്ക്കുക
+options-show-user-agent-styles-label = അന്വേഷിയന്ത്ര ശൈലികള്‍ കാണിയ്ക്കുക
 options-show-user-agent-styles-tooltip =
     .title = ഇതു് ഓണ്‍ ചെയ്താല്‍ ബ്രൌസര്‍ ലഭ്യമാക്കുന്ന സ്വതവേയുള്ള ശൈലികള്‍ കാണിയ്ക്കുന്നു.
 
@@ -62,7 +62,7 @@ options-sourceeditor-detectindentation-tooltip =
 options-sourceeditor-detectindentation-label = ഇൻഡന്റേഷൻ തിരിച്ചറിയുക
 options-sourceeditor-autoclosebrackets-tooltip =
     .title = അടയ്ക്കാനുള്ള ബ്രാക്കറ്റുകൾ തനിയേ ചേർക്കുക
-options-sourceeditor-autoclosebrackets-label = ബ്രാക്കറ്റുകൾ തനിയേ അടയ്ക്കുക
+options-sourceeditor-autoclosebrackets-label = വലയം തനിയേ അടയ്ക്കുക
 options-sourceeditor-expandtab-tooltip =
     .title = ടാബിനു് പകരം സ്പേസുകൾ ഉപയോഗിക്കുക
 options-sourceeditor-expandtab-label = സ്പേസുകൾ ഉപയോഗിച്ച് ഇൻഡന്റ് ചെയ്യുക
