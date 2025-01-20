@@ -441,9 +441,13 @@ onboarding-checklist-sign-up = Daftar atau masuk ke akun Anda
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-feature-callout-title = Coba grup tab untuk mengurangi tercecer, lebih fokus
+tab-groups-onboarding-feature-callout-subtitle = Atur dengan menyeret satu tab di atas tab lainnya untuk membuat grup pertama Anda.
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-title = Kenali profil { -brand-product-name }
+multi-profile-spotlight-body = Beralih dengan mudah antara penjelajahan untuk bekerja dan bersenang-senang. Profil menjaga info penjelajahan Anda, termasuk riwayat pencarian dan kata sandi, benar-benar terpisah sehingga Anda dapat tetap teratur.
 multi-profile-spotlight-cta = Buat profil
 multi-profile-callout-title = Buat profil berbeda untuk bekerja dan bersenang-senang
 multi-profile-callout-subtitle = Profil memungkinkan Anda menyimpan info penjelajahan Anda, seperti riwayat pencarian dan kata sandi, benar-benar terpisah.

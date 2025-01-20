@@ -15,3 +15,5 @@ places-bookmarks-restore-format-error = Format berkas tidak didukung.
 places-bookmarks-restore-parse-error = Gagal memproses berkas cadangan.
 places-bookmarks-import = Impor Berkas Markah
 places-bookmarks-export = Ekspor Berkas Markah
+places-bookmarks-paste-error-title = URL tidak valid ditemukan
+places-bookmarks-paste-error-message-header = URL berikut tidak dapat ditambahkan ke markah Anda. Coba periksa pemformatan dan tambahkan lagi.
