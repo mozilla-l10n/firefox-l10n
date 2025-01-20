@@ -185,11 +185,12 @@ shopping-survey-next-button-label = Dalje
 shopping-survey-submit-button-label = Pošalji
 shopping-survey-terms-link = Uvjeti korištenja
 shopping-survey-thanks =
-    .heading = Hvala Vam na Vašim povratnim informacijama!
+    .heading = Hvala ti na povratnim informacijama!
 
 ## Shopping opted-out survey strings
 ## Opt-out survey options are displayed as checkboxes and the user can select one or many.
 
+shopping-survey-opted-out-multiselect-label = Reci nam zašto si isključio/la provjeru recenzija. Ako trebaš, odaberi više odgovora.
 shopping-survey-thanks-title = Hvala ti na povratnim informacijama!
 shopping-survey-opted-out-hard-to-understand = Teško je razumjeti
 shopping-survey-opted-out-too-slow = Presporo je
