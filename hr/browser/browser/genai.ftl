@@ -70,6 +70,17 @@ genai-shortcuts-selected-warning-generic =
             [few] Odabrao/la si { $selectionLength } znaka. Broj znakova koje možemo poslati UI chatbotu je oko { $maxLength }.
            *[other] Odabrao/la si { $selectionLength } znakova. Broj znakova koje možemo poslati UI chatbotu je oko { $maxLength }.
         }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } neće dobiti tvoj potpuni odabir
+    .message =
+        { $selectionLength ->
+            [one] Odabrao/la si { $selectionLength } znak. Broj znakova koje možemo poslati usluzi { $provider } je oko { $maxLength }.
+            [few] Odabrao/la si { $selectionLength } znaka. Broj znakova koje možemo poslati usluzi { $provider } je oko { $maxLength }.
+           *[other] Odabrao/la si { $selectionLength } znakova. Broj znakova koje možemo poslati usluzi { $provider } je oko { $maxLength }.
+        }
 genai-shortcuts-hide =
     .label = Sakrij prečac chatbota
 

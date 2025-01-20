@@ -6,6 +6,9 @@ profile-window-title = { -brand-short-name } - انتخاب نمایه کارب�
 profile-window-heading = انتخاب نمایه { -brand-short-name }
 profile-window-body = مرورگری‌های کاری و شخصی خود، شامل گذرواژه‌ها و نشانک‌ها را کاملا جدا نگه دارید. یا نمایه‌هایی متفاوتی برای هر فردی که از این دستگاه استفاده می‌کند، ایجاد کنید.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label-2 =
+    .label = هنگامی که { -brand-short-name } باز می‌شود، یک نمایه انتخاب کنید.
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label =
     .label = هنگامی که { -brand-short-name } باز می‌شود، این را باز کنید
 profile-window-create-profile = ایجاد نمایه
@@ -44,6 +47,7 @@ new-profile-page-input-placeholder =
     .placeholder = یک نام مانند «کار» یا «شخصی» انتخاب کنید
 new-profile-page-done-button =
     .label = ویرایش‌ها انجام شد
+profile-window-title-2 = { -brand-short-name } - انتخاب یک نمایه
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
