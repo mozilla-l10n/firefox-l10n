@@ -5,11 +5,35 @@
 places-open =
     .label = തുറക്കുക
     .accesskey = O
+places-open-in-tab =
+    .label = പുതിയ ടാബില്‍ തുറക്കുക
+    .accesskey = പ
+places-open-all-bookmarks =
+    .label = എല്ലാ അടയാളക്കുറിപ്പുകളെ തുറക്കുക
+    .accesskey = ത
 places-open-all-in-tabs =
     .label = എല്ലാം ടാബുകളില്‍ തുറക്കുക
     .accesskey = O
+places-open-in-window =
+    .label = പുതിയ ജാലകത്തില്‍ തുറക്കുക
+    .accesskey = പ
+places-open-in-private-window =
+    .label = പുതിയ സ്വകാര്യ ജാലകത്തില്‍ തുറക്കുക
+    .accesskey = പ
 places-empty-bookmarks-folder =
     .label = (ശൂന്യം)
+places-add-bookmark =
+    .label = അടയാളകുറിപ്പു് ചേർക്കുക
+    .accesskey = അ
+places-add-folder-contextmenu =
+    .label = അറ ചേർക്കുക…
+    .accesskey = അ
+places-add-folder =
+    .label = അറ ചേർക്കുക…
+    .accesskey = അ
+places-add-separator =
+    .label = വിടവടയാളം ചേർക്കുക
+    .accesskey = വ
 places-view =
     .label = കാഴ്ച
     .accesskey = w
@@ -37,9 +61,61 @@ places-bookmarks-search =
 places-delete-domain-data =
     .label = ഈ സൈറ്റ് സംബന്ധിച്ചുള്ള വിവരങ്ങള്‍ ഉപേക്ഷിക്കുക
     .accesskey = F
+places-forget-domain-data =
+    .label = ഈ സൈറ്റ് സംബന്ധിച്ചുള്ള വിവരങ്ങള്‍ മറക്കുക
+    .accesskey = മ
 places-sortby-name =
     .label = പേരു് അനുസരിച്ചു് ക്രമത്തിലാക്കുക
     .accesskey = r
+# places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
+places-edit-bookmark =
+    .label = അടയാളക്കുറിപ്പു് തിരുത്തുക…
+    .accesskey = അ
+places-edit-generic =
+    .label = തിരുത്തുക…
+    .accesskey = ത
+places-edit-folder2 =
+    .label = അറ തിരുത്തുക…
+    .accesskey = ത
+# Variables
+#   $count (number) - Number of folders to delete
+places-delete-folder =
+    .label =
+        { $count ->
+            [1] അറ മായ്ക്കുക
+            [one] അറ മായ്ക്കുക
+           *[other] അറ മായ്ക്കുക
+        }
+    .accesskey = അ
+# Variables:
+#   $count (number) - The number of pages selected for removal.
+places-delete-page =
+    .label =
+        { $count ->
+            [1] താളിനെ മായ്ക്കുക
+            [one] താളുകളെ മായ്ക്കുക
+           *[other] താളുകളെ മായ്ക്കുക
+        }
+    .accesskey = മ
+# This label is used when a managed bookmarks folder doesn't have a name.
+managed-bookmarks-subfolder =
+    .label = ഉപരിയറ
+# This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
+other-bookmarks-folder =
+    .label = മറ്റു് അടയാളക്കുറിപ്പുകള്‍
+places-show-in-folder =
+    .label = അറയിൽ കാണിക്കുക
+    .accesskey = അ
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-delete-bookmark =
+    .label =
+        { $count ->
+            [1] അടയാളക്കുറിപ്പുകളെ മായ്ക്കുക
+            [one] അടയാളക്കുറിപ്പുകളെ മായ്ക്കുക
+           *[other] അടയാളക്കുറിപ്പുകളെ മായ്ക്കുക
+        }
+    .accesskey = മ
 places-library3 =
     .title = സംഭരണി
 places-organize-button =
@@ -143,24 +219,14 @@ places-back-button =
 places-forward-button =
     .tooltiptext = മുമ്പോട്ടു് പോകുക
 places-details-pane-select-an-item-description = ഒരു വസ്തു തെരഞ്ഞെടുത്തു് ഗുണഗണങ്ങള്‍ ചിട്ടപ്പെടുത്തുക
-places-details-pane-no-items =
-    .value = വസ്തുക്കള്‍ ലഭ്യമല്ല
-# Variables:
-#   $count (Number): number of items
-places-details-pane-items-count =
-    .value =
-        { $count ->
-            [one] ഒരു വസ്തു
-           *[other] { $count } വസ്തു
-        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
 places-search-bookmarks =
-    .placeholder = അടയാളക്കുറിപ്പുകള്‍ തെരയുക
+    .placeholder = അടയാളക്കുറിപ്പുകള്‍ തിരയുക
 places-search-history =
-    .placeholder = ചരിത്രം തെരയുക
+    .placeholder = നാൾവഴി തിരയുക
 places-search-downloads =
     .placeholder = ഇറക്കിവയ്ക്കലുകളിൽ തിരയുക
 

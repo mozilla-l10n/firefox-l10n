@@ -44,10 +44,42 @@ screenshots-private-window-error-title = സ്വകാര്യ തിരച�
 screenshots-private-window-error-details = അസൗകര്യം നേരിടേണ്ടി വന്നതിൽ ഖേദിക്കുന്നു. ഈ സവിശേഷതയുള്ള ഭാവിയിലെ പ്രകാശനങ്ങൾക്കായി ഞങ്ങൾ പ്രവർത്തിക്കുന്നു.
 screenshots-generic-error-title = അയ്യോ! { -screenshots-brand-name }-ക്കു് എന്തോ പറ്റി.
 screenshots-generic-error-details = എന്താ സംഭവിച്ചതെന്ന് വല്യ പിടി ഇല്ല. ഒന്നുകൂടി നോക്കുകയോ അല്ലെങ്കില്‍ വേറെ താളിന്റെ പ്രതലപ്പിളൎപ്പു് എടുക്കുകയോ ചെയ്യുന്നോ?
+screenshots-too-large-error-title = താങ്ങളുടെ പ്രതലപ്പിളൎപ്പു് ഒരുപാടു് വലുതായതുകൊണ്ടു അതിനെ വെട്ടണ്ടിവന്നു
+screenshots-too-large-error-details = ഏറ്റവും നീളമുള്ള വശത്തു് 32,700 ചിത്രമാത്രയേക്കാൾ ചെറുതോ 124,900,000 ചിത്രമാത്ര പരപ്പളവോ തിരഞ്ഞെടുക്കാൻ ശ്രമിക്കുക.
+screenshots-component-retry-button =
+    .title = പ്രതലപ്പിളൎപ്പു് എടുക്കാൻ വീണ്ടും ശ്രമിക്കുക
+    .aria-label = പ്രതലപ്പിളൎപ്പു് എടുക്കാൻ വീണ്ടും ശ്രമിക്കുക
+screenshots-component-cancel-button =
+    .title =
+        { PLATFORM() ->
+            [macos] റദ്ദാക്കുക (Esc)
+           *[other] റദ്ദാക്കുക (Esc)
+        }
+    .aria-label = റദ്ദാക്കുക (Esc)
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button-2 = പകര്‍ത്തുക
+    .title = പകര്‍ത്തുക ({ $shortcut })
+    .aria-label = പകര്‍ത്തുക
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button-2 = ഇറക്കിവയ്ക്കുക
+    .title = ഇറക്കിവയ്ക്കുക ({ $shortcut })
+    .aria-label = ഇറക്കിവയ്ക്കുക
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
 
+screenshots-component-download-key = S
+screenshots-component-copy-key = C
 
 ##
 
+# This string represents the selection size area
+# "×" here represents "by" (i.e 123 by 456)
+# Variables:
+#   $width (Number) - The width of the selection region in pixels
+#   $height (Number) - The height of the selection region in pixels
+screenshots-overlay-selection-region-size-3 = { $width } × { $height }
+screenshots-overlay-preview-face-label =
+    .aria-label = ഈ പരപ്പളവു് തിരഞ്ഞെടുക്കുക
