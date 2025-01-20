@@ -2,7 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-instructions = ഒരു പ്രദേശം തിരഞ്ഞെടുക്കാൻ താളില്‍ ഡ്രാഗ് ചെയ്യുക അല്ലെങ്കിൽ ക്ലിക്കുചെയ്യുക. റദ്ദാക്കാൻ ESC അമർത്തുക.
+screenshot-toolbarbutton =
+    .label = പ്രതലപ്പിളൎപ്പു്
+    .tooltiptext = പ്രതലപ്പിളൎപ്പു് എടുക്കുക
+screenshot-shortcut =
+    .key = S
 screenshots-cancel-button = റദ്ദാക്കുക
 screenshots-save-visible-button = കാണുന്നതു സംരക്ഷിക്കുക
 screenshots-save-page-button = താള്‍ മുഴുവന്‍ സംരക്ഷിക്കുക
