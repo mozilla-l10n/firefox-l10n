@@ -315,7 +315,27 @@ feature-highlight-dismiss-button =
 ## New Tab Weather
 
 newtab-weather-menu-change-location = സ്ഥാനം മാറ്റുക
+newtab-weather-change-location-search-input-placeholder =
+    .placeholder = സ്ഥാനം തപ്പുക
+    .aria-label = സ്ഥാനം തപ്പുക
+newtab-weather-change-location-search-input = സ്ഥാനം തപ്പുക
+newtab-weather-menu-weather-display = കാലാവസ്ഥ പ്രദർശകം
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = എളുപ്പം
+newtab-weather-menu-change-weather-display-simple = എളുപ്പ കാഴ്ചയിലേക്ക് മാറുക
+newtab-weather-menu-weather-display-option-detailed = വിശദമായി
+newtab-weather-menu-change-weather-display-detailed = വിശദമായ കാഴ്ചയിലേക്ക് മാറുക
+newtab-weather-menu-temperature-units = താപനില ഏകകങ്ങൾ
+newtab-weather-menu-temperature-option-fahrenheit = ഫാരൻഹീറ്റു്
+newtab-weather-menu-temperature-option-celsius = സെൽഷ്യസു്
+newtab-weather-menu-change-temperature-units-fahrenheit = ഫാരൻഹീറ്റിലേക്കു് മാറുക
+newtab-weather-menu-change-temperature-units-celsius = സെൽഷ്യസിലേക്കു് മാറുക
+newtab-weather-menu-hide-weather = പുതിയ ടാബിൽ കാലാവസ്ഥ ഒളിപ്പിച്ചു വയ്ക്കുക
 newtab-weather-menu-learn-more = കൂടുതല്‍ അറിയുക
+# This message is shown if user is working offline
+newtab-weather-error-not-available = കാലാവസ്ഥാ ദത്ത ഇപ്പോൾ ലഭ്യമല്ല.
 
 ## Topic Labels
 
@@ -330,11 +350,13 @@ newtab-topic-label-hobbies = ഗെയിമിംഗ്
 # and understand their personal finances – from saving money to buying a home. See the
 # “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
 newtab-topic-label-finance = പണവും സമ്പാദ്യവും
+newtab-topic-label-society-parenting = കുട്ടിവളർത്തൽ
 newtab-topic-label-government = രാഷ്ട്രീയം
 newtab-topic-label-education-science = ശാസ്ത്രം
 newtab-topic-label-sports = കായികം
 newtab-topic-label-tech = സാങ്കേതികവിദ്യ
 newtab-topic-label-travel = സഞ്ചാരം
+newtab-topic-label-home = വീടും പുന്തോട്ടവും
 
 ## Topic Selection Modal
 
@@ -346,8 +368,12 @@ newtab-topic-selection-button-maybe-later = പിന്നെ പറയാം
 ## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 ## e.g. Following the travel section of stories.
 
+newtab-section-follow-button = പിന്തുടരുക
+newtab-section-following-button = പിന്തുടരുന്നു
+newtab-section-unfollow-button = പിന്തുടരാൻ നിരുത്തുക
 
 ## Confirmation modal for blocking a section
 
+newtab-section-confirm-block-section-p1 = ഈ വിഭാഗം തടയണമെന്നു് താങ്ങൾക്കു് ഉറപ്പാണോ?
 newtab-section-block-section-button = ഈ വിഭാഗം തടയുക
 newtab-section-cancel-button = ഇപ്പോഴല്ല
