@@ -18,6 +18,7 @@ about-config-page-title = التفضيلات المتقدمة
 about-config-search-input1 =
     .placeholder = ابحث عن اسم التفضيل
 about-config-show-all = أظهر الكل
+about-config-show-only-modified = أظهِر التفضيلات المعدّلة فقط
 about-config-pref-add-button =
     .title = أضِف
 about-config-pref-toggle-button =
