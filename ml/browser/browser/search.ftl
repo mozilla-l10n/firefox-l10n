@@ -8,9 +8,9 @@
 ## Variables
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
-opensearch-error-duplicate-title = ഇന്‍സ്റ്റോള്‍ പിശക്
+opensearch-error-duplicate-title = സ്ഥാപിക്കൽ പിശകു്
 opensearch-error-duplicate-desc = { -brand-short-name }-നു് "{ $location-url }"-ല്‍ നിന്നും തെരച്ചിലിനുള്ള പ്ലഗിന്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുവാന്‍ സാധ്യമായില്ല, കാരണം ഇതേപേരില്‍ മറ്റൊരു എഞ്ചിന്‍ നിലവിലുണ്ടു്.
-opensearch-error-format-title = തെറ്റായ രീതി
+opensearch-error-format-title = തെറ്റായ ഘടന
 opensearch-error-format-desc = { -brand-short-name }-ന് ഇവിടെ നിന്നും തെരച്ചിലിനുള്ള പ്രയോഗം ഇൻസ്റ്റോൾ ചെയ്യുവാനായില്ല: { $location-url }
 opensearch-error-download-title = ഇറക്കിവയ്ക്കൽ പിഴവു്
 opensearch-error-download-desc = { -brand-short-name } ഇവിടെ നിന്നും തെരച്ചിലിനുള്ള പ്ലഗിന്‍ ഡൌണ്‍ലോഡ് ചെയ്യുവാന്‍ സാധ്യമല്ല: { $location-url }
@@ -30,8 +30,11 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
+remove-search-engine-button = ശരി
 
 ## Infobar shown when user is prompted to install search engine.
 ## Variables
 ## $engineName (String) - the name of the search engine to install.
 
+install-search-engine-add = ചേര്‍ക്കുക
+install-search-engine-no = ഇല്ല

@@ -160,13 +160,13 @@ places-maintenance-button-mac =
     .label = ഇംപോര്‍ട്ടും ബാക്കപ്പും
     .tooltiptext = അടയാളക്കുറിപ്പുകള്‍ ഇംപോര്‍ട്ട് ചെയ്തു് ബാക്കപ്പെടുക്കുക
 places-cmd-backup =
-    .label = ബാക്കപ്പ്…
+    .label = കരുതൽപകര്‍പ്പ് ഉണ്ടാക്കുക…
     .accesskey = B
 places-cmd-restore =
     .label = വീണ്ടെടുക്കുക
     .accesskey = R
 places-cmd-restore-from-file =
-    .label = ഫയല്‍ തെരഞ്ഞെടുക്കുക…
+    .label = ഫയല്‍ തിരഞ്ഞെടുക്കുക…
     .accesskey = C
 places-import-bookmarks-from-html =
     .label = എച്ടിഎംഎല്ലില്‍ നിന്നും അടയാളക്കുറിപ്പുകള്‍ ഇംപോര്‍ട്ട് ചെയ്യുക…
@@ -219,6 +219,16 @@ places-back-button =
 places-forward-button =
     .tooltiptext = മുമ്പോട്ടു് പോകുക
 places-details-pane-select-an-item-description = ഒരു വസ്തു തെരഞ്ഞെടുത്തു് ഗുണഗണങ്ങള്‍ ചിട്ടപ്പെടുത്തുക
+places-details-pane-no-items =
+    .value = ഇനങ്ങളൊന്നുമില്ല
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] ഒരു ഇനം
+           *[other] { $count } ഇനങ്ങൾ
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
