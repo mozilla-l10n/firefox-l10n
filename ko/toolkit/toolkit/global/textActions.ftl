@@ -26,7 +26,7 @@ text-action-copy-shortcut =
 # copied, like items that identify you for advertising purposes, and other items
 # sites add into URLs to help them deliver a certain browsing experience.
 text-action-copy-clean-link =
-    .label = 깨끗한 링크 복사
+    .label = 링크 클린 복사
     .accesskey = n
 # This command copies the link, removing additional
 # query parameters used to track users across sites.
