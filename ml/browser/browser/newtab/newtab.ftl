@@ -260,21 +260,61 @@ newtab-custom-shortcuts-subtitle = താങ്ങൾ കരുതിവയ്�
 newtab-custom-shortcuts-toggle =
     .label = കുറുക്കുവഴികൾ
     .description = താങ്ങൾ കരുതിവയ്ക്കുന്ന അല്ലെങ്കിൽ സന്ദൎശിക്കുന്ന വെബ്സ്ഥാനങ്ങൾ
+# Variables
+#   $num (number) - Number of rows to display
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } വരികൾ
+       *[other] { $num } വരികൾ
+    }
+newtab-custom-sponsored-sites = പണം കൊണ്ടു് പ്രസരിപ്പിച്ച കുറുക്കുവഴികൾ
+newtab-custom-pocket-title = { -pocket-brand-name } ശുപാൎശ ചെയ്ത
+newtab-custom-pocket-show-recent-saves = അടുത്തിടെ കരുതിവയ്ക്കലുകൾ കാണിക്കുക
+newtab-custom-recent-title = ഒടുവിലുള്ള പ്രവർത്തനം
+newtab-custom-recent-toggle =
+    .label = ഒടുവിലുള്ള പ്രവർത്തനം
+    .description = ഒടുവിൽ സന്ദൎശിച്ച വെബ്സ്ഥാനങ്ങളുടെയും ഉള്ളടക്കത്തിന്റെയും ഒരു തിരഞ്ഞെടുപ്പു്
+newtab-custom-weather-toggle =
+    .label = കാലാവസ്ഥ
+    .description = ഒരു നോട്ടത്തിൽ ഇന്നത്തെ കാലാവസ്ഥ
+newtab-custom-close-button = അടയ്ക്കുക
 
 ## New Tab Wallpapers
 
+newtab-wallpaper-title = ചുവർകടലാസുകൾ
+newtab-wallpaper-reset = തനിമട്ടിലാക്കുക
 
 ## Solid Colors
 
+newtab-wallpaper-blue = നീല
+newtab-wallpaper-light-blue = ഇളം നീല
+newtab-wallpaper-light-green = ഇളം പച്ച
+newtab-wallpaper-green = പച്ച
+newtab-wallpaper-beige = ഇളം തവിട്ടുനിറം
+newtab-wallpaper-yellow = മഞ്ഞ
+newtab-wallpaper-orange = ഓറഞ്ച്
+newtab-wallpaper-pink = ഇളം ചുവപ്പു്
+newtab-wallpaper-red = ചുവപ്പ്
+newtab-wallpaper-dark-blue = കടും നീല
+newtab-wallpaper-dark-green = കടും പച്ച
+newtab-wallpaper-brown = തവിട്ടുനിറം
 
 ## Abstract
 
 
 ## Photographs
 
+newtab-wallpaper-category-title-photographs = ചിത്രങ്ങൾ
+newtab-wallpaper-feature-highlight-header = നിറത്തിന്റെ നീർത്തെറിപ്പ് ഉരച്ചുനോക്കുക
+newtab-wallpaper-feature-highlight-button = മനസ്സിലായി
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = കളയുക
+    .aria-label = പൊന്തുവരൽ അടയ്ക്കുക
 
 ## New Tab Weather
 
+newtab-weather-menu-change-location = സ്ഥാനം മാറ്റുക
 newtab-weather-menu-learn-more = കൂടുതല്‍ അറിയുക
 
 ## Topic Labels

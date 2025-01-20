@@ -367,6 +367,10 @@ quickactions-cmd-viewsource = переглянути джерело, джере�
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Докладніше про швидкі дії
+# Will be shown to users the first configurable number of times
+# they experience actions giving them instructions on how to
+# select the action shown by pressing the tab key.
+press-tab-label = Натисніть вкладку, щоб вибрати:
 
 ## Bookmark Panel
 
