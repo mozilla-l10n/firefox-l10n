@@ -38,6 +38,10 @@ protections-panel-etp-toggle-on =
     .label = محافظت پیشرفته در برابر ردیابی
     .description = فعال برای این وبگاه
     .aria-label = محافظت پیشرفته در برابر ردیابی: فعال برای { $host }
+protections-panel-etp-toggle-off =
+    .label = محافظت پیشرفته در برابر ردیابی
+    .description = غیرفعال برای این وبگاه
+    .aria-label = محافظت پیشرفته در برابر ردیابی: غیرفعال برای { $host }
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -70,6 +74,7 @@ protections-panel-not-found-label = موردی پیدا نشد
 
 ## Smartblock strings
 
+protections-panel-smartblock-desc-label = { -brand-short-name } محتوای ردیابی را مسدود می‌کند، مگر این که شما اجازه دهید.
 
 ##
 
@@ -120,6 +125,9 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 # Cookie Banner Handling
 
+protections-panel-cookie-banner-blocker-header = مسدودکننده برنمای کلوچک
+protections-panel-cookie-banner-handling-enabled = فعال برای این وبگاه
+protections-panel-cookie-banner-handling-disabled = غیرفعال برای این وبگاه
 protections-panel-cookie-banner-view-cancel = انصراف
 protections-panel-cookie-banner-view-turn-off = خاموش کردن
 protections-panel-cookie-banner-view-turn-on = روشن کردن
