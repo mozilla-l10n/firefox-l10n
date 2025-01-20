@@ -525,6 +525,9 @@ urlbar-result-action-search-bookmarks = ຊອກຫາບຸກມາກ
 urlbar-result-action-search-history = ຊອກຫາປະຫວັດການໃຊ້ງານ
 urlbar-result-action-search-tabs = ຄົ້ນຫາແທັບ
 urlbar-result-action-search-actions = ຄຳສັ່ງການຄົ້ນຫາ
+# Label for a quickaction result used to switch to an open tab group.
+#  $group (String): the name of the tab group to switch to
+urlbar-result-action-switch-to-tabgroup = ປ່ຽນເປັນ { $group }
 
 ## Labels shown above groups of urlbar results
 
