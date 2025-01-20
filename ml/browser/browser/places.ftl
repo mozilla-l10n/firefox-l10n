@@ -116,8 +116,26 @@ places-delete-bookmark =
            *[other] അടയാളക്കുറിപ്പുകളെ മായ്ക്കുക
         }
     .accesskey = മ
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] താളിനെ കുറിച്ചിടുക…
+            [one] താളുകളെ കുറിച്ചിടുക…
+           *[other] താളുകളെ കുറിച്ചിടുക…
+        }
+    .accesskey = ക
+places-untag-bookmark =
+    .label = ടാഗു് മാറ്റുക
+    .accesskey = മ
+places-manage-bookmarks =
+    .label = അടയാളക്കുറിപ്പുകളെ കൈകാര്യം ചെയ്യുക
+    .accesskey = ക
+places-forget-about-this-site-confirmation-title = ഈ സൈറ്റ് സംബന്ധിച്ചുള്ള വിവരങ്ങള്‍ മറക്കുക
+places-forget-about-this-site-forget = മറക്കുക
 places-library3 =
-    .title = സംഭരണി
+    .title = ഗ്രന്ഥപ്പുര
 places-organize-button =
     .label = സജ്ജമാക്കുക
     .tooltiptext = അടയാളക്കുറിപ്പുകള്‍ ചിട്ടപ്പെടുത്തുക

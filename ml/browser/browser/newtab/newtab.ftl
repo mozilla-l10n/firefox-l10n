@@ -229,9 +229,20 @@ newtab-pocket-read-more = ജനപ്രിയ വിഷയങ്ങൾ:
 newtab-pocket-more-recommendations = കൂടുതൽ ശുപാർശകൾ
 newtab-pocket-learn-more = കൂടുതല്‍ അറിയുക
 newtab-pocket-cta-button = { -pocket-brand-name } ലഭ്യമാക്കുക
+newtab-pocket-save = കരുതിവയ്ക്കുക
+newtab-pocket-saved = കരുതിവച്ച
 
 ## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
 
+# Clicking the thumbs up button for this story will result in more stories like this one being recommended
+newtab-pocket-thumbs-up-tooltip =
+    .title = ഇതുപോലെ ഇനിയും
+# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
+newtab-pocket-thumbs-down-tooltip =
+    .title = എനിക്കു് വേണ്ടിയല്ല ഇതു്
+newtab-toast-dismiss-button =
+    .title = കളയുക
+    .aria-label = കളയുക
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -244,6 +255,11 @@ newtab-error-fallback-refresh-link = വീണ്ടും ശ്രമിക്
 
 ## Customization Menu
 
+newtab-custom-shortcuts-title = കുറുക്കുവഴികൾ
+newtab-custom-shortcuts-subtitle = താങ്ങൾ കരുതിവയ്ക്കുന്ന അല്ലെങ്കിൽ സന്ദൎശിക്കുന്ന വെബ്സ്ഥാനങ്ങൾ
+newtab-custom-shortcuts-toggle =
+    .label = കുറുക്കുവഴികൾ
+    .description = താങ്ങൾ കരുതിവയ്ക്കുന്ന അല്ലെങ്കിൽ സന്ദൎശിക്കുന്ന വെബ്സ്ഥാനങ്ങൾ
 
 ## New Tab Wallpapers
 

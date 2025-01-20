@@ -36,5 +36,6 @@ remove-search-engine-button = ശരി
 ## Variables
 ## $engineName (String) - the name of the search engine to install.
 
+install-search-engine = { $engineName }-നെ ഒരു തിരയൽയന്ത്രമായി ചേർക്കട്ടെ?
 install-search-engine-add = ചേര്‍ക്കുക
 install-search-engine-no = ഇല്ല
