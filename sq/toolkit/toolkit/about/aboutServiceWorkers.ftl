@@ -22,7 +22,6 @@ origin-title = Origjinë: { $originTitle }
 ##  $url: the url of script specification and current worker.
 
 scope = <strong>Objekt:</strong> { $name }
-script-spec = <strong>Specifikime Skriptimic:</strong> <a data-l10n-name="link">{ $url }</a>
 current-worker-url = <strong>URL Worker-i të Tanishëm:</strong> <a data-l10n-name="link">{ $url }</a>
 active-cache-name = <strong>Emër Fshehtine Aktive:</strong> { $name }
 waiting-cache-name = <strong>Emër Fshehtine në Pritje:</strong> { $name }
