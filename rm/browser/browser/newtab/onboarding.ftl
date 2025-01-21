@@ -390,6 +390,14 @@ onboarding-new-user-survey-familiarity-based-option-4 = Jau al hai utilisà en i
 onboarding-new-tabs-title = Tscherna nua che ti vuls avair tes tabs
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Ti pos mintga mument midar idea ed adattar ils parameters da la trav laterala.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Tes tabs, en tia moda e maniera
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Has ti adina avert blers tabs? Emprova da plazzar ils tabs da la vart per avair ina vista pli survesaivla. U che ti restas tar la vista classica cun ils tabs survart. Mida da tut temp.
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Tscherna la disposiziun per tes tabs
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Per ina vista survesaivla che gida da sa concentrar, emprova da spustar ils tabs da la vart. U resta tar la vista classica cun ils tabs survart. Mida da tut temp.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Tabs da la vart
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -441,3 +449,9 @@ tab-groups-onboarding-feature-callout-subtitle = Optimescha l’organisaziun cun
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-title = Voilà: ils profils da { -brand-product-name }
+multi-profile-spotlight-body = Mida simplamain tranter la navigaziun per la lavur e quella dal temp liber. Ils profils preservan tias datas da navigaziun, inclusivamain la cronologia da tschertga ed ils pleds-clav, cumplettamain separà – per che ti possias t’organisar optimalmain.
+multi-profile-spotlight-cta = Crear in profil
+multi-profile-callout-title = Crear differents profils per la lavur ed il temp liber
+multi-profile-callout-subtitle = Profils ta permettan da separar cumplettamain tias datas da navigaziun, sco la cronologia da tschertga ed ils pleds-clav.
+multi-profile-callout-cta = Crear in profil

@@ -463,3 +463,7 @@ newtab-section-unfollow-button = Chalar da suandar
 
 ## Confirmation modal for blocking a section
 
+newtab-section-confirm-block-section-p1 = Vuls ti propi bloccar questa secziun?
+newtab-section-confirm-block-section-p2 = La secziun bloccada na vegn pli a cumparair en tes feed.
+newtab-section-block-section-button = Bloccar questa secziun
+newtab-section-cancel-button = Betg ussa

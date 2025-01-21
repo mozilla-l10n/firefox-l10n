@@ -15,3 +15,5 @@ places-bookmarks-restore-format-error = Tip da datoteca betg cumpatibel.
 places-bookmarks-restore-parse-error = Impussibel d'elavurar la datoteca da segirezza.
 places-bookmarks-import = Importar la datoteca da segnapaginas
 places-bookmarks-export = Exportar la datoteca da segnapaginas
+places-bookmarks-paste-error-title = Chattà URL(s) nunvalid(s)
+places-bookmarks-paste-error-message-header = I n’è betg reussì d’agiuntar il(s) suandant(s) URL(s) a tes segnapaginas. Emprova da controllar la formataziun ed als agiuntar danovamain.

@@ -280,8 +280,11 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Retschaiva avertiments en cas da sperditas da datas
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Zuppenta tia adressa dad e-mail e tes numer da telefon
+appmenuitem-services-relay-description = Avrir la survista dals alias dad e-mail
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Protegia tias activitads online
+appmenu-services-header = Mes servetschs
+appmenu-other-protection-header = Emprova era auters utensils da protecziun da { -vendor-short-name }:
 
 ## Profiles panel
 

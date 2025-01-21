@@ -37,3 +37,6 @@ webext-perms-description-webNavigation = Acceder a l'activitad dal navigatur dur
 ## The userScripts permission includes an additional explanation that is
 ## displayed prominently near the usual permission description.
 
+webext-perms-extra-warning-userScripts-long = Scripts betg verifitgads pon periclitar la segirezza e la protecziun da datas, p.ex. cun exequir code donnegius u fastizar activitads sin websites. Exequescha sulettamain scripts dad extensiuns u funtaunas da las qualas ti ta fidas.
+# A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
+webext-perms-extra-warning-userScripts-short = Scripts betg verifitgads pon periclitar la segirezza e la protecziun da datas. Exequescha sulettamain scripts dad extensiuns u funtaunas da las qualas ti ta fidas.
