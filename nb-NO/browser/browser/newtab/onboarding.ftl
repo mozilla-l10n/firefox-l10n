@@ -414,9 +414,15 @@ onboarding-genai-sidebar-secondary-button = Begynn å surfe
 
 ## New user onboarding checklist
 
+onboarding-checklist-set-default = Gjør { -brand-short-name } til standardnettleser
+onboarding-checklist-pin = Fest { -brand-short-name } til oppgavelinjen
+onboarding-checklist-import = Importer fra tidligere nettleser
+onboarding-checklist-extension = Legg til en utvidelse
+onboarding-checklist-sign-up = Registrer deg eller logg inn på kontoen din
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-feature-callout-title = Prøv fanegrupper for mindre rot, mer fokus
 
 ## Multi Profiles feature onboarding messages
 

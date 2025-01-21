@@ -8,6 +8,9 @@
 newtab-page-title = Ny fane
 newtab-settings-button =
     .title = Tilpass siden for Ny fane
+newtab-personalize-settings-icon-label =
+    .title = Tilpass ny fane
+    .aria-label = Innstillinger
 newtab-settings-dialog-label =
     .aria-label = Innstillinger
 newtab-personalize-icon-label =

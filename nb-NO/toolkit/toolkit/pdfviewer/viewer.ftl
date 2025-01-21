@@ -496,3 +496,9 @@ pdfjs-editor-alt-text-settings-close-button = Lukk
 
 ## "Annotations removed" bar
 
+pdfjs-editor-undo-bar-undo-button =
+    .title = Angre
+pdfjs-editor-undo-bar-undo-button-label = Angre
+pdfjs-editor-undo-bar-close-button =
+    .title = Lukk
+pdfjs-editor-undo-bar-close-button-label = Lukk
