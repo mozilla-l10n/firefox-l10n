@@ -46,15 +46,32 @@ callout-pdfjs-draw-button = Tha mi agaibh!
 
 ## Firefox View Discoverability Strings
 
+fx-view-discoverability-title = Nach robh thu airson an taba sin a dhùnadh?
+fx-view-discoverability-subtitle = Faigh lorg air is ath-fhosgail e gu luath an-seo. Glèidhidh sinn eachdraidh nan tabaichean a dhùin thu o chionn goirid dhut.
+fx-view-discoverability-primary-button-label = Fosgail { -firefoxview-brand-name }
+fx-view-discoverability-secondary-button-label = Leig seachad
 
 ## Split Dismiss Button Labels
 
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option-label = Na seall am moladh seo a-rithist
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option-label = Seall nas lugha de mholaidhean
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option-label = Stiùirich na roghainnean
 
 ## Sidebar Strings
 
+sidebar-button-callout-title = Seall ainmean nan tabaichean air a’ bhàr-taoibh
+sidebar-button-callout-subtitle = Cleachd putan a’ bhàr-taoibh airson am bàr-taoibh a leudachadh ach am faic thu ainmean nan tabaichean.
 
 ## Sidebar Callout Survey Strings
 
+sidebar-callout-survey-title = Cuidich leinn a’ toirt piseach air { -brand-short-name }
+sidebar-callout-survey-satisfaction-question = Dè cho riaraichte ’s a tha thu leis a’ bhàr-taoibh ann am { -brand-short-name }?
+sidebar-callout-survey-privacy-notice-link = Sanas prìobhaideachd
+sidebar-callout-survey-very-satisfied = Glè riaraichte
+sidebar-callout-survey-satisfied = Riaraichte
 sidebar-callout-survey-neutral = Neodrach
 sidebar-callout-survey-dissatisfied-2 = Mì-riaraichte
 sidebar-callout-survey-very-dissatisfied-2 = Glè mhì-riaraichte

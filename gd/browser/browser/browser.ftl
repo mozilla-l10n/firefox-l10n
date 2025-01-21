@@ -1090,6 +1090,14 @@ unified-extensions-button-blocklisted =
 
 ## Private browsing reset button
 
+reset-pbm-toolbar-button =
+    .label = Cuir crìoch air an t-seisean phrìobhaideach
+    .tooltiptext = Cuir crìoch air an t-seisean phrìobhaideach
+reset-pbm-panel-heading = A bheil thu airson crìoch a chur air an t-seisean phrìobhaideach agad?
+reset-pbm-panel-description = Dùin gach taba prìobhaideach is sguab às an eachdraidh, na briosgaidean is dàta nan làraichean air fad.
+reset-pbm-panel-always-ask-checkbox =
+    .label = Faighnich dhìom an-còmhnaidh
+    .accesskey = F
 reset-pbm-panel-cancel-button =
     .label = Sguir dheth
     .accesskey = S
@@ -1119,6 +1127,11 @@ firefox-relay-offer-legal-notice = Le bith a’ briogadh air “Cleachd masg pui
 popup-notification-addon-install-unsigned =
     .value = (Gun dearbhadh)
 popup-notification-xpinstall-prompt-learn-more = Barrachd fiosrachaidh mu stàladh tèarainte de thuilleadain
+popup-notification-xpinstall-prompt-block-url = Faic am mion-fhiosrachadh
+# Note: Access key is set to P to match "Private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox =
+    .label = Ruith ann an uinneagan prìobhaideach
+    .accesskey = R
 
 ## Pop-up warning
 
@@ -1159,6 +1172,14 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+file-picker-failed-open = Cha b’ urrainn dhuinn còmhradh faidhle Windows fhosgladh. Cha b’ urrainn dhuinn faidhle no pasgan a thaghadh.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = Cha b’ urrainn dhuinn còmhradh faidhle Windows fhosgladh. Thèid am faidhle a shàbhaladh an-seo: { $path }.
+file-picker-failed-save-nowhere = Cha b’ urrainn dhuinn còmhradh faidhle Windows fhosgladh. Cha d’fhuair sinn lorg air pasgan bunaiteach; cha tèid am faidhle a shàbhaladh.
+file-picker-crashed-open = Thuislich  còmhradh faidhle Windows. Cha b’ urrainn dhuinn faidhle no pasgan a thaghadh.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = Thuislich còmhradh faidhle Windows. Thèid am faidhle a shàbhaladh an-seo: { $path }.
+file-picker-crashed-save-nowhere = Thuislich còmhradh faidhle Windows. Cha d’fhuair sinn lorg air pasgan bunaiteach; cha tèid am faidhle a shàbhaladh.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
@@ -1166,3 +1187,6 @@ popup-show-popup-menuitem =
 # The wording here should be consistent with the Windows variant of
 # `downloads-cmd-show-menuitem-2` and similar messages.
 
+file-picker-crashed-show-in-folder =
+    .label = Seall sa phasgan
+    .accessKey = S
