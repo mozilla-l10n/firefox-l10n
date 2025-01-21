@@ -23,6 +23,9 @@ bookmark-overlay-folders-expander2 =
     .tooltiptext = ສະແດງທີ່ຂັ້ນໜ້າໂຟເດີທັງໝົດ
 bookmark-overlay-folders-expander-hide =
     .tooltiptext = ເຊື່ອງ
+# bookmark-overlay-folders-tree is used to provide an accessible name to the tree view of the Bookmarks directory, when it is expanded
+bookmark-overlay-folders-tree =
+    .aria-label = ໂຟນເດີ
 bookmark-overlay-new-folder-button =
     .label = ໂຟນເດີໃຫມ່
     .accesskey = o

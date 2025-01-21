@@ -36,6 +36,9 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = ບໍ່ແມ່ນຕອນນີ້
     .accesskey = N
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
+    .label = ລົງ​ທະ​ບຽນ
+    .accesskey = S
 
 ## The "control" variation of the Relay offer popup
 

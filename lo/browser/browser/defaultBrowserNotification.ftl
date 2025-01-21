@@ -26,4 +26,5 @@ default-browser-prompt-button-secondary = ບໍ່ແມ່ນຕອນນີ�
 ## use Windows Settings to set the default browser. Instructions differ for
 ## Windows 10 and 11.
 
+default-browser-guidance-notification-info-page = ສະແດງໃຫ້ຂ້ອຍເຫັນ
 default-browser-guidance-notification-dismiss = ສຳເລັດ
