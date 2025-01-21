@@ -367,6 +367,10 @@ quickactions-cmd-viewsource = zobraziť zdrojový kód, zdrojový kód
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Ďalšie informácie o Rýchlych akciách
+# Will be shown to users the first configurable number of times
+# they experience actions giving them instructions on how to
+# select the action shown by pressing the tab key.
+press-tab-label = Stlačením klávesu Tab vyberte:
 
 ## Bookmark Panel
 

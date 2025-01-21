@@ -280,6 +280,15 @@ tab-context-ungroup-tab =
 
 ## Open/saved tab group context menu
 
+# For a tab group open in any window, clicking this will create a new
+# window and move this tab group to that new window.
+tab-group-context-move-to-new-window =
+    .label = Presunúť skupinu do nového okna
+# For a tab group open in a different window from the one that the
+# user is using to access the tab group menu, move that tab group into the
+# user's current window.
+tab-group-context-move-to-this-window =
+    .label = Presunúť skupinu do tohto okna
 # For a tab group that is open in any window, close the tab group and
 # do not save it. For a tab group that is closed but saved by the user, clicking
 # this will forget the saved tab group.
