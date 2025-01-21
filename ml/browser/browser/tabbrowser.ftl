@@ -2,9 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-tabbrowser-empty-tab-title = പുതിയ റ്റാബ്
+tabbrowser-empty-tab-title = പുതിയ ടാബു്
+tabbrowser-empty-private-tab-title = പുതിയ സ്വകാര്യ ടാബു്
 tabbrowser-menuitem-close-tab =
-    .label = റ്റാബ് അടയ്ക്കുക
+    .label = ടാബു് അടയ്ക്കുക
 tabbrowser-menuitem-close =
     .label = അടയ്ക്കുക
 # Displayed as a tooltip on container tabs
@@ -65,9 +66,13 @@ tabbrowser-ctrl-tab-list-all-tabs =
 
 ## Tab manager menu buttons
 
+tabbrowser-manager-close-tab =
+    .tooltiptext = ടാബു് അടയ്ക്കുക
 
 ## Tab Groups
 
+tab-group-editor-title-create = ടാബുക്കൂട്ടം ഉണ്ടാക്കുക
+tab-group-editor-name-label = പേരു്
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -75,3 +80,8 @@ tabbrowser-ctrl-tab-list-all-tabs =
 
 ## Open/saved tab group context menu
 
+# For a tab group that is open in any window, close the tab group and
+# do not save it. For a tab group that is closed but saved by the user, clicking
+# this will forget the saved tab group.
+tab-group-context-delete =
+    .label = കൂട്ടം മായ്ക്കുക
