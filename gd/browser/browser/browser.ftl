@@ -785,6 +785,9 @@ picture-in-picture-urlbar-button-close =
     .tooltiptext = Fùin an dealbh ann an dealbh ({ $shortcut })
 picture-in-picture-panel-header = Dealbh am broinn deilbh
 picture-in-picture-panel-headline = Cha mhol an làrach-lìn seo dhut dealbh am broinn deilbh
+picture-in-picture-panel-body = Dh’fhaoidte nach tèid videothan a thaisbeanadh mar a bhiodh dùil aig an luchd-leasachaidh fhad ’s a bhios gleus dealbh am broinn deilbh an comas.
+picture-in-picture-enable-toggle =
+    .label = Cuir an comas co-dhiù
 
 ## Full Screen and Pointer Lock UI
 
@@ -1029,6 +1032,7 @@ restore-session-startup-suggestion-button = Seall dhomh mar a nì mi seo
 
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
+filepicker-blocked-infobar = Bhac am buidheann agad cothrom air faidhlichean ionadail air a’ choimpiutair seo
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1038,6 +1042,18 @@ data-reporting-notification-button =
     .accesskey = C
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Brabhsadh prìobhaideach
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = Brabhsadh prìobhaideach
+# Tooltip for the indicator shown in the window titlebar when content analysis is active.
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-indicator-tooltip =
+    .tooltiptext = Ro-chasg call dàta (DLP) le { $agentName }. Dèan briogadh airson barrachd fiosrachaidh.
+content-analysis-panel-title = Dìon dàta
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = Tha am buidheann agad a’ cleachdadh <b>{ $agentName }</b> mar ghleus dìon an aghaidh call dàta. <a data-l10n-name="info">Barrachd fiosrachaidh</a>
 
 ## Unified extensions (toolbar) button
 
@@ -1057,10 +1073,20 @@ unified-extensions-button-permissions-needed =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-quarantined =
+    .label = Leudachain
+    .tooltiptext =
+        Leudachain
+        Tha cuid a leudachain ann nach eil ceadaichte
 
 ## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-blocklisted =
+    .label = Leudachain
+    .tooltiptext =
+        Leudachain
+        Tha cuid a leudachain à comas
 
 ## Private browsing reset button
 
