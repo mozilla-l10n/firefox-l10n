@@ -12,7 +12,7 @@ shopping-beta-marker = Beta
 # Any changes to shopping-main-container-title and
 # shopping-beta-marker should also be reflected here.
 shopping-a11y-header =
-    .aria-label = Recesionsgranskaren - beta
+    .aria-label = Recensionsgranskaren - beta
 shopping-close-button =
     .title = Stäng
 # This string is for notifying screen reader users that the
