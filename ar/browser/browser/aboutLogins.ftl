@@ -176,6 +176,8 @@ about-logins-edit-login-os-auth-dialog-message-win = أدخِل معلومات �
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = تحرير جلسة الولوج المحفوظة
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = لتحرير كلمة سرك، أدخل بيانات ولوجك بنظام ويندوز. يساعد هذا في حماية أمان حساباتك.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message2-macosx = تحرير كلمة المرور المحفوظة
@@ -194,6 +196,8 @@ about-logins-export-password-os-auth-dialog-message-win = أدخِل معلوم�
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = صدّر جلسات الولوج وكلمات السر المحفوظة
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = لتصدير كلمات سرك، أدخل بيانات ولوجك بنظام ويندوز. يساعد هذا في حماية أمان حساباتك.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message2-macosx = صدّر كلمات السر المحفوظة
@@ -212,6 +216,10 @@ confirmation-dialog-dismiss-button =
     .title = ألغِ
 about-logins-confirm-remove-dialog-title = أنُزيل هذا الولوج؟
 confirm-delete-dialog-message = هذا إجراء لا عودة فيه.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = إزالة كلمة السر؟
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = لا يمكنك التراجع عن هذا الإجراء.
 about-logins-confirm-remove-dialog-confirm-button = أزِل
 
 ## Variables
@@ -345,6 +353,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = استورِد ملف جلسات الولوج
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = استورد كلمات السر إلى { -brand-short-name }
 about-logins-import-file-picker-import-button = استورِد
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -418,6 +428,7 @@ about-logins-import-dialog-error-try-import-again = حاوِل الاستيرا�
 about-logins-import-dialog-error-cancel = ألغِ
 about-logins-import-report-title = ملخص الاستيراد
 about-logins-import-report-description = استوردت جلسات الولوج وكلمات السر إلى { -brand-short-name }.
+about-logins-import-report-description2 = استوردت كلمات السر إلى { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
