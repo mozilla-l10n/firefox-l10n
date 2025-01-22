@@ -128,6 +128,11 @@ login-item-edit-button = حرِّر
 about-logins-login-item-remove-button = أزِل
 login-item-origin-label = عنوان الموقع
 login-item-tooltip-message = تأكّد من تطابق هذا العنوان مع عنوان الموقع الذي تريد الولوج إليه.
+about-logins-origin-tooltip2 = أدخل العنوان بالكامل وتأكد من أنه مطابق تمامًا للمكان الذي تسجل الدخول فيه.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = تأكد من حفظ كلمة السر الحالية لهذا الموقع. تغيير كلمة السر هنا لا يغيرها باستخدام { $webTitle }.
+about-logins-add-password-tooltip = تأكد من حفظ كلمة السر الحالية لهذا الموقع.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = اسم المستخدم
@@ -138,6 +143,8 @@ login-item-copied-username-button-text = نُسخ.
 login-item-password-label = كلمة السر
 login-item-password-reveal-checkbox =
     .aria-label = أظهِر كلمة السر
+login-item-password-conceal-checkbox =
+    .aria-label = أخفِ كلمة السر
 login-item-copy-password-button-text = انسخ
 login-item-copied-password-button-text = نُسخ.
 login-item-save-changes-button = احفظ التغييرات
@@ -274,9 +281,11 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = صدّر جلسات الولوج وكلمات السر
 about-logins-confirm-export-dialog-message = ستُحفظ جلسات الولوج على هيئة نص مقروء (مثلا 12345 أو BadP@ssw0rd) وبهذا يستطيع أيّ شخص معاينتها لو فتح الملف المصدّر.
 about-logins-confirm-export-dialog-confirm-button = صدّر…
+about-logins-confirm-export-dialog-title2 = ملاحظة حول تصدير كلمات السر
 about-logins-confirm-export-dialog-message2 =
     عند التصدير، تُحفظ كلمات سرك في ملف نصي قابل للقراءة.
     عند الانتهاء من استخدام الملف، نوصي بحذفه حتى لا يتمكن المستخدمون الأخرون لهذا الجهاز من رؤية كلمات سرك.
+about-logins-confirm-export-dialog-confirm-button2 = متابعة التصدير
 about-logins-alert-import-title = تمّ الاستيراد
 about-logins-alert-import-message = اعرض ملخص الاستيراد التفصيلي
 confirm-discard-changes-dialog-title = أتريد إهمال التغييرات غير المحفوظة؟
@@ -318,6 +327,11 @@ about-logins-export-file-picker-title = صدّر ملف جلسات الولوج
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = جلسات_الولوج.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = صدّر كلمات السر من { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = passwords.csv
 about-logins-export-file-picker-export-button = صدّر
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
