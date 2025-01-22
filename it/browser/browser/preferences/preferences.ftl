@@ -1315,19 +1315,36 @@ collection-usage-ping =
     .label = Invia ping di utilizzo giornaliero a { -vendor-short-name }
     .accesskey = u
 collection-usage-ping-description = Questo consente a { -vendor-short-name } di stimare il numero di utenti attivi.
+collection-health-report2 =
+    .label = Invia dati tecnici e di interazione a { -vendor-short-name }
+    .accesskey = v
 collection-health-report =
     .label = Consenti a { -brand-short-name } di inviare a { -vendor-short-name } dati tecnici e relativi all’interazione con il browser
     .accesskey = v
 collection-health-report-link = Ulteriori informazioni
+collection-health-report-description = Questo ci aiuta a migliorare caratteristiche, prestazioni e stabilità di { -brand-product-name }.
+collection-studies2 =
+    .label = Installa e conduci studi
+collection-studies-description = Prova funzionalità e idee prima che diventino disponibili per tutti.
 collection-studies =
     .label = Consenti a { -brand-short-name } di installare e condurre studi
 collection-studies-link = Visualizza studi di { -brand-short-name }
+addon-recommendations2 =
+    .label = Consenti consigli personalizzati sulle estensioni
+addon-recommendations-description = Ricevi consigli sulle estensioni per migliorare la tua esperienza di navigazione.
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled2 = L’invio dei dati è stato disattivato nella configurazione utilizzata per questa versione.
+collection-backlogged-crash-reports2 =
+    .label = Invia automaticamente rapporti sugli arresti anomali
+    .accesskey = u
+collection-backlogged-crash-reports-description = Questo aiuta { -vendor-short-name } a diagnosticare e risolvere problemi con il browser. Le segnalazioni possono includere dati personali o sensibili.
 addon-recommendations =
     .label = Consenti a { -brand-short-name } di visualizzare suggerimenti personalizzati relativi alle estensioni
 addon-recommendations-link = Ulteriori informazioni
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
-collection-health-report-disabled = L’invio dei dati è stato disattivato nella configurazione utilizzata per questa build
+collection-health-report-disabled = L’invio dei dati è stato disattivato nella configurazione utilizzata per questa versione
 collection-backlogged-crash-reports-with-link = Consenti a { -brand-short-name } di inviare segnalazioni di arresto anomalo in sospeso <a data-l10n-name="crash-reports-link">Ulteriori informazioni</a>
     .accesskey = C
 collection-backlogged-crash-reports = Consenti a { -brand-short-name } di inviare segnalazioni di arresto anomalo in sospeso

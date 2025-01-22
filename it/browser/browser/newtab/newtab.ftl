@@ -262,6 +262,9 @@ newtab-pocket-thumbs-up-tooltip =
 # Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
 newtab-pocket-thumbs-down-tooltip =
     .title = Non mi interessa
+# Used to show the user a message upon clicking the thumbs up or down buttons
+newtab-toast-thumbs-up-or-down2 =
+    .message = Grazie. Conoscere la tua opinione ci aiuta a migliorare il tuo feed.
 newtab-toast-thumbs-up-or-down = Grazie. Conoscere la tua opinione ci aiuta a migliorare il tuo feed.
 newtab-toast-dismiss-button =
     .title = Chiudi

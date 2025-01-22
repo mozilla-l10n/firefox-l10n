@@ -4,6 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = Segnalibri
+sidebar-menu-bookmarks-2 = Segnalibri
 sidebar-menu-history =
     .label = Cronologia
 sidebar-menu-synced-tabs =
