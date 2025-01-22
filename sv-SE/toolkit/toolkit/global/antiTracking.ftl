@@ -16,4 +16,4 @@ btp-warning-tracker-classified =
 # cookies, storage and caches. Do not translate "bounce tracker".
 # Variables:
 #   $siteHost (string): The host portion of the site which has been purged.
-btp-warning-tracker-purged = Tillståndet för "{ $siteHost }" raderades nyligen eftersom den upptäcktes som en avvisningsspårare.
+btp-warning-tracker-purged = Tillståndet för "{ $siteHost }" raderades nyligen eftersom den upptäcktes som en bounce tracker.
