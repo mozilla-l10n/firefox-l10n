@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-page-title = Informationes de diagnostico
+page-title = Informationes diagnostic
 page-subtitle =
     Iste pagina contine informationes technic que pote servir quando tu
     tenta de resolver un problema. Si tu cerca responsas a questiones commun

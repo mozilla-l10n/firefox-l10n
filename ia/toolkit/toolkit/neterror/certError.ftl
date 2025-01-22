@@ -109,7 +109,7 @@ fp-cert-error-code = Codice de error: { $error }
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 fp-learn-more-about-secure-connection-failures = Pro saper plus re insuccessos de connexion secur
 fp-learn-more-about-cert-issues = Pro saper plus re iste sortas de problemas de certificato
-fp-learn-more-about-time-related-errors = Pro saper plus re errores de diagnostico correlate al tempore
+fp-learn-more-about-time-related-errors = Pro saper plus re errores diagnostic correlate al tempore
 
 ## Messages used for certificate error titles
 

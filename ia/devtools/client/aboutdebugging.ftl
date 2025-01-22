@@ -119,7 +119,7 @@ about-debugging-setup-usb-step-enable-debug-firefox2 = Activar le Depuration USB
 about-debugging-setup-usb-step-plug-device = Connecte le apparato Android a tu computator.
 # Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
 # The link goes to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#connecting-to-a-remote-device
-about-debugging-setup-usb-troubleshoot = Problemas de connexion al apparato USB?  <a>Remediar</a>
+about-debugging-setup-usb-troubleshoot = Problemas de connexion al apparato USB?  <a>Solver</a>
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = Position del rete
