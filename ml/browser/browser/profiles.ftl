@@ -35,9 +35,18 @@ new-profile-page-header = താങ്ങളുടെ രൂപരേഖ ഇഷ�
 new-profile-page-learn-more = കൂടുതല്‍ അറിയുക
 new-profile-page-done-button =
     .label = തിരുത്തിക്കഴിഞ്ഞു
+profile-window-title-2 = { -brand-short-name } - രൂപരേഖ തിരഞ്ഞെടുക്കുക
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title = { $profilename } രൂപരേഖ മായ്ക്കുക
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header = { $profilename } രൂപരേഖ മായ്ക്കണോ?
+# Open is an adjective, as in "browser windows currently open".
+delete-profile-windows = ജാലകങ്ങൾ തുറക്കുക
 # Open is an adjective, as in "browser tabs currently open".
 delete-profile-tabs = തുറന്ന ടാബുകള്‍
 delete-profile-bookmarks = അടയാളക്കുറിപ്പുകള്‍
@@ -52,6 +61,8 @@ delete-profile-confirm = മായ്ക്കുക
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
+# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-marigold-theme = ചെട്ടിപൂവു്
 # The default light theme
 profiles-light-theme = ഇളം
 # The default dark theme
