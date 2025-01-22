@@ -46,6 +46,8 @@ callout-pdfjs-draw-button = ເຂົ້າໃຈແລ້ວ!
 
 ## Firefox View Discoverability Strings
 
+fx-view-discoverability-title = ບໍ່ໄດ້ຫມາຍຄວາມວ່າຈະປິດແຖບນັ້ນບໍ?
+fx-view-discoverability-subtitle = ຄົ້ນຫາ ແລະ ເປີດມັນຄືນໃໝ່ໄດ້ຢ່າງວ່ອງໄວທີ່ນີ້. ພວກເຮົາຮັກສາປະຫວັດຂອງແຖບທີ່ປິດຫຼ້າສຸດຂອງທ່ານໄວ້ໃຫ້ທ່ານ.
 
 ## Split Dismiss Button Labels
 

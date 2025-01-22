@@ -23,3 +23,6 @@ addon-post-install-message = ເພີ່ມ { $addonName } ແລ້ວ.
 webext-quarantine-confirmation-allow =
     .label = ອະນຸຍາດ
     .accesskey = A
+webext-quarantine-confirmation-deny =
+    .label = ບໍ່ອະນຸຍາດ
+    .accesskey = D

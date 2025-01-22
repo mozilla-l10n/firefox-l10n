@@ -891,6 +891,7 @@ popup-show-popup-menuitem =
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
 file-picker-failed-open = Windows file-dialog ບໍ່ສາມາດເປີດໄດ້. ບໍ່ມີໄຟລ໌ ຫຼື ໂຟນເດີໃດສາມາດເລືອກໄດ້.
+file-picker-crashed-open = Windows file-dialog ໄດ້ຂັດຂ້ອງ. ບໍ່ມີໄຟລ໌ ຫຼື ໂຟນເດີໃດສາມາດເລືອກໄດ້.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.
