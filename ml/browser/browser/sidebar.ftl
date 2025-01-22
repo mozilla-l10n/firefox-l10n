@@ -7,6 +7,16 @@ sidebar-options-menu-button =
 
 ## Labels for sidebar history panel
 
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+sidebar-history-date-today =
+    .heading = ഇന്നു് - { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-yesterday =
+    .heading = ഇന്നലെ - { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-this-month =
+    .heading = { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-prev-month =
+    .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = നാള്‍വഴിയിൽ നിന്നു് മായ്ക്കുക
 sidebar-history-sort-by-date =
@@ -27,15 +37,33 @@ sidebar-search-results-header =
 ## Labels for sidebar customize panel
 
 sidebar-customize-extensions-header = തീരപ്പട്ട വിപുലീകരണങ്ങൾ
+sidebar-customize-firefox-tools-header =
+    .label = { -brand-product-name } കരുകൾ
 sidebar-position-left =
     .label = ഇടതുവശത്തു് കാണിക്കുക
 sidebar-position-right =
     .label = വലതുവശത്തു് കാണിക്കുക
 sidebar-customize-tabs-header =
     .label = ടാബു് ക്രമീകരണങ്ങൾ
+sidebar-customize-button-header =
+    .label = തീരപ്പട്ട ബട്ടൺ
+sidebar-customize-position-header =
+    .label = തീരപ്പട്ടസ്ഥാനം
+sidebar-visibility-setting-always-show =
+    .label = തീരപ്പട്ടയെ വലുതാക്കാണും ചുരുക്കാണും പറ്റണം
+sidebar-visibility-setting-hide-sidebar =
+    .label = തീരപ്പട്ടയെ കാണിക്കാനും ഒളിപ്പിക്കാനും പറ്റണം
 
 ## Labels for sidebar context menu items
 
+sidebar-context-menu-manage-extension =
+    .label = വിപുലീകരണങ്ങളെ കൈകാര്യം ചെയ്യുക
+sidebar-context-menu-remove-extension =
+    .label = വിപുലീകരണം മാറ്റുക
+sidebar-context-menu-open-in-window =
+    .label = പുതിയ ജാലകത്തില്‍ തുറക്കുക
+sidebar-context-menu-open-in-private-window =
+    .label = പുതിയ സ്വകാര്യ ജാലകത്തില്‍ തുറക്കുക
 sidebar-context-menu-bookmark-tab =
     .label = ടാബു് കുറിച്ചിടുക
 sidebar-context-menu-copy-link =
@@ -47,24 +75,99 @@ sidebar-context-menu-close-remote-tab =
 
 ## Labels for sidebar history context menu items
 
+sidebar-history-context-menu-delete-page =
+    .label = നാള്‍വഴിയിൽ നിന്നു് മായ്ക്കുക
 
 ## Labels for sidebar menu items.
 
+sidebar-menu-history-label =
+    .label = നാള്‍വഴി
+sidebar-menu-synced-tabs-label =
+    .label = മറ്റു് ഉപകരണങ്ങളിൽ നിന്നുള്ള ടാബുകൾ
+sidebar-menu-bookmarks-label =
+    .label = അടയാളക്കുറിപ്പുകള്‍
+sidebar-menu-customize-label =
+    .label = തീരപ്പട്ട ഇഷ്ടമ്പോലെയാക്കുക
 
 ## Tooltips for sidebar menu items.
 
+# The tooltip to show over the history icon, when history is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-history-tooltip = നാൾവഴി തുറക്കുക ({ $shortcut })
+# The tooltip to show over the history icon, when history is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-history-tooltip = നാൾവഴി അടയ്ക്കുക ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-bookmarks-tooltip = അടയാളക്കുറിപ്പുകളെ തുറക്കുക ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-bookmarks-tooltip = അടയാളക്കുറിപ്പുകളെ അടയ്ക്കുക ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 
+sidebar-menu-customize-header =
+    .heading = തീരപ്പട്ട ഇഷ്ടമ്പോലെയാക്കുക
+sidebar-menu-history-header =
+    .heading = നാള്‍വഴി
+sidebar-menu-syncedtabs-header =
+    .heading = മറ്റു് ഉപകരണങ്ങളിൽ നിന്നുള്ള ടാബുകൾ
+sidebar-panel-header-close-button =
+    .tooltiptext = അടയ്ക്കുക
 
 ## Titles for sidebar menu panels.
 
+sidebar-customize-title = തീരപ്പട്ട ഇഷ്ടമ്പോലെയാക്കുക
+sidebar-history-title = നാൾവഴി
+sidebar-syncedtabs-title = മറ്റു് ഉപകരണങ്ങളിൽ നിന്നുള്ള ടാബുകൾ
 
 ## Context for closing synced tabs when hovering over the items
 
+# Context for hovering over the close tab button that will
+# send a push to the device to close said tab
+# Variables:
+#   $deviceName (String) - the name of the device the user is closing a tab for
+synced-tabs-context-close-tab-title =
+    .title = { $deviceName }-ൽ ടാബു് അടയ്ക്കുക
 show-sidebars =
-    .tooltiptext = വശത്തുള്ള പാനല്‍ കാണിയ്ക്കുക
-    .label = സൈഡ്ബാറുകള്‍
+    .tooltiptext = വശത്തുള്ള തീരപ്പട്ട കാണിക്കുക
+    .label = തീരപ്പട്ടകൾ
 
 ## Tooltips for the sidebar toolbar widget.
 
+sidebar-widget-expand-sidebar =
+    .tooltiptext = തീരപ്പട്ട വലുതാക്കുക
+    .label = തീരപ്പട്ടകൾ
+sidebar-widget-collapse-sidebar =
+    .tooltiptext = തീരപ്പട്ട ചുരുക്കുക
+    .label = തീരപ്പട്ടകൾ
+sidebar-widget-show-sidebar =
+    .tooltiptext = തീരപ്പട്ട കാണിക്കുക
+    .label = തീരപ്പട്ടകൾ
+sidebar-widget-hide-sidebar =
+    .tooltiptext = തീരപ്പട്ട ഒളിപ്പിക്കുക
+    .label = തീരപ്പട്ടകൾ
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = തീരപ്പട്ട വലുതാക്കുക ({ $shortcut })
+    .label = തീരപ്പട്ടകൾ
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = തീരപ്പട്ട ചുരുക്കുക ({ $shortcut })
+    .label = തീരപ്പട്ടകൾ
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = തീരപ്പട്ട കാണിക്കുക ({ $shortcut })
+    .label = തീരപ്പട്ടകൾ
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = തീരപ്പട്ട ഒളിപ്പിക്കുക ({ $shortcut })
+    .label = തീരപ്പട്ടകൾ
