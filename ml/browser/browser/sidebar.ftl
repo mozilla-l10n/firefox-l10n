@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+menu-view-genai-chat =
+    .label = നിൎമിതബുദ്ധി സല്ലാപയന്ത്രമനുഷ്യൻ
 sidebar-options-menu-button =
     .title = കുറിപ്പടികട്ട തുറക്കുക
 
@@ -80,6 +82,8 @@ sidebar-history-context-menu-delete-page =
 
 ## Labels for sidebar menu items.
 
+sidebar-menu-genai-chat-label =
+    .label = നിൎമിതബുദ്ധി സല്ലാപയന്ത്രമനുഷ്യൻ
 sidebar-menu-history-label =
     .label = നാള്‍വഴി
 sidebar-menu-synced-tabs-label =
@@ -107,6 +111,8 @@ sidebar-menu-open-bookmarks-tooltip = അടയാളക്കുറിപ്പ
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = അടയാളക്കുറിപ്പുകളെ അടയ്ക്കുക ({ $shortcut })
+sidebar-menu-open-ai-chatbot-tooltip = നിൎമിതബുദ്ധി സല്ലാപയന്ത്രമനുഷ്യൻ തുടങ്ങുക
+sidebar-menu-close-ai-chatbot-tooltip = നിൎമിതബുദ്ധി സല്ലാപയന്ത്രമനുഷ്യനെ അണക്കുക
 
 ## Headings for sidebar menu panels.
 
