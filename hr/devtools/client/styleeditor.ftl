@@ -54,4 +54,4 @@ styleeditor-pretty-print-button =
     .title = Formatiran stilski predložak
 # Title for the pretty print button in the editor footer, when it's disabled
 styleeditor-pretty-print-button-disabled =
-    .title = Samo CSS datoteke se mogu formatirati
+    .title = Formatirati se mogu samo CSS datoteke
