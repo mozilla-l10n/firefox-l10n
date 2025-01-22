@@ -31,9 +31,19 @@ sidebar-position-left =
     .label = ഇടതുവശത്തു് കാണിക്കുക
 sidebar-position-right =
     .label = വലതുവശത്തു് കാണിക്കുക
+sidebar-customize-tabs-header =
+    .label = ടാബു് ക്രമീകരണങ്ങൾ
 
 ## Labels for sidebar context menu items
 
+sidebar-context-menu-bookmark-tab =
+    .label = ടാബു് കുറിച്ചിടുക
+sidebar-context-menu-copy-link =
+    .label = കണ്ണി പകൎത്തുക
+# Variables:
+#   $deviceName (String) - The name of the device the user is closing a tab for
+sidebar-context-menu-close-remote-tab =
+    .label = { $deviceName }-ൽ ടാബു് അടയ്ക്കുക
 
 ## Labels for sidebar history context menu items
 
