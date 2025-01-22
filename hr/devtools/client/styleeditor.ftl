@@ -51,7 +51,7 @@ styleeditor-stylesheet-rule-count =
     }
 # Title for the pretty print button in the editor footer.
 styleeditor-pretty-print-button =
-    .title = Formatiran stilski predložak
+    .title = Formatiranje stilskog predloška
 # Title for the pretty print button in the editor footer, when it's disabled
 styleeditor-pretty-print-button-disabled =
     .title = Formatirati se mogu samo CSS datoteke
