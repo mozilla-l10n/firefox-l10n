@@ -8,6 +8,8 @@
 videocontrols-buffer-bar-label = يُحمّل:
 videocontrols-volume-control =
     .aria-label = مستوى الصوت
+videocontrols-closed-caption-button =
+    .aria-label = نصوص توضيحية مُغلقة
 videocontrols-play-button =
     .aria-label = شغّل
 videocontrols-pause-button =
@@ -29,6 +31,13 @@ videocontrols-closed-caption-off =
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = ڤديو معترِض
+# This string is used as the label for a variation of the Picture-in-Picture video
+# toggle button when the mouse is hovering over the video.
+videocontrols-picture-in-picture-toggle-label2 = أخرج هذا الفيديو
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer3 = كلما زاد عدد الشاشات، زادت المتعة. شغّل هذا الفيديو أثناء قيامك بأشياء أخرى.
 videocontrols-error-aborted = توقف تحميل الفديو.
 videocontrols-error-network = توقف تشغيل الفديو بسبب عُطل شبكي.
 videocontrols-error-decode = تعذّر تشغيل الفديو لعطب في الملف.

@@ -34,6 +34,12 @@ permission-dialog-remember-extension = السماح دائمًا لهذا الا
 
 ##
 
+permission-dialog-btn-open-link =
+    .label = افتح الرابط
+    .accessKey = ف
+permission-dialog-btn-choose-app =
+    .label = اختر تطبيقا
+    .accessKey = ا
 permission-dialog-unset-description = عليك اختيار تطبيق.
 permission-dialog-set-change-app-link = اختر تطبيقا مختلفا.
 
@@ -44,6 +50,9 @@ permission-dialog-set-change-app-link = اختر تطبيقا مختلفا.
 chooser-window =
     .title = اختر تطبيقا
     .style = min-width: 26em; min-height: 26em;
+chooser-dialog =
+    .buttonlabelaccept = افتح الرابط
+    .buttonaccesskeyaccept = ف
 chooser-dialog-description = اختر تطبيقا لفتح رابط { $scheme }.
 # Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
 chooser-dialog-remember = استخدم هذا التطبيق دائما لفتح روابط <strong>{ $scheme }</strong>
