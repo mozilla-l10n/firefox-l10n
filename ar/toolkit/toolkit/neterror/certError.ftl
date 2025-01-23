@@ -68,6 +68,11 @@ open-in-new-window-for-csp-or-xfo-error = افتح الموقع في نافذة 
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = لحماية أمنك لن يسمح { $hostname } أن يعرض { -brand-short-name } الصفحة إن ضمّنها موقع آخر. لترى هذه الصفحة عليك فتحها في نافذة جديدة.
+fp-certerror-view-certificate-link = اعرض شهادة الموقع
+fp-certerror-return-to-previous-page-recommended-button = عُد للخلف (يُنصح به)
+# Variables:
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+fp-cert-error-code = رمز الخطأ: { $error }
 
 ## Messages used for certificate error titles
 
@@ -111,7 +116,12 @@ certerror-mitm-title = تمنع البرمجية { -brand-short-name } من ال
 
 ## Felt Privacy V1 Strings
 
+fp-certerror-page-title = تحذير: خطر أمني
+fp-certerror-advanced-title = متقدم
+fp-certerror-advanced-button = متقدم
+fp-certerror-hide-advanced-button = أخفِ المتقدم
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
+fp-certerror-override-exception-button = واصِل إلى { $hostname } (خطر)

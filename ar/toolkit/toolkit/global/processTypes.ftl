@@ -16,6 +16,8 @@ process-type-privilegedmozilla = محتوى موزيلا ذو الامتياز
 process-type-extension = امتداد
 # process used to open file:// URLs
 process-type-file = ملف محلي
+# process used to instantiate new child processes
+process-type-forkserver = خادم الاشتقاق
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = محتوى وِب معزول
@@ -39,7 +41,9 @@ process-type-socket = مقبس
 process-type-rdd = RDD
 # process used to run inference
 process-type-inference = الاستدلال
-process-type-utility-actor-audio-decoder-generic = أداة فك تشفير الصوت العامة
+# process used to run some IPC actor in their own sandbox
+process-type-utility = IPC Actor معزول
+process-type-utility-actor-audio-decoder-generic = أداة فك ترميز الصوت العامة
 process-type-utility-actor-audio-decoder-applemedia = أداة AppleMedia
 process-type-utility-actor-audio-decoder-wmf = أداة Windows Media Foundation
 
