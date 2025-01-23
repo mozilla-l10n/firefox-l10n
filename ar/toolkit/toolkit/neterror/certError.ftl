@@ -73,6 +73,9 @@ fp-certerror-return-to-previous-page-recommended-button = عُد للخلف (ي�
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = رمز الخطأ: { $error }
+fp-learn-more-about-secure-connection-failures = اعرف المزيد عن حالات فشل الاتصال الآمن
+fp-learn-more-about-cert-issues = اعرف المزيد عن هذه الأنواع من مشكلات الشهادات
+fp-learn-more-about-time-related-errors = اعرف المزيد عن مواجهة الأعطال المتعلقة بالوقت وإصلاحها
 
 ## Messages used for certificate error titles
 
@@ -97,6 +100,7 @@ contentEncodingError-title = خطأ في ترميز المحتوى
 unsafeContentType-title = نوع ملف غير آمن
 netReset-title = صُفِّر الاتصال
 netTimeout-title = انتهت مهلة الاتصال
+serverError-title = يبدو أن هناك مشكلة في هذا الموقع
 unknownProtocolFound-title = لم يُفهم العنوان
 proxyConnectFailure-title = يرفض الخادوم الوسيط الاتصالات
 proxyResolveFailure-title = تعذر العثور على الخادوم الوسيط
@@ -117,6 +121,9 @@ certerror-mitm-title = تمنع البرمجية { -brand-short-name } من ال
 ## Felt Privacy V1 Strings
 
 fp-certerror-page-title = تحذير: خطر أمني
+fp-certerror-body-title = كن حذرا، هناك شيء لا يبدو على ما يرام.
+fp-certerror-why-site-dangerous = ما الذي يجعل الموقع يبدو خطيرًا؟
+fp-certerror-what-can-you-do = إليك ما تستطيع فعله حيال هذا
 fp-certerror-advanced-title = متقدم
 fp-certerror-advanced-button = متقدم
 fp-certerror-hide-advanced-button = أخفِ المتقدم

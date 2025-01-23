@@ -126,6 +126,13 @@ translations-manage-description = تنزيل اللغات من أجل الترج
 translations-manage-all-language = كل اللغات
 translations-manage-download-button = نزّل
 translations-manage-delete-button = احذف
+translations-manage-intro-2 = عيّن تفضيلات اللغة وترجمة الموقع وإدارة اللغات المُنزلة للترجمة في وضع عدم الاتصال.
+translations-manage-download-description = نزّل اللغات من أجل الترجمة بلا إنترنت
+translations-manage-language-download-button =
+    .label = نزّل
+translations-manage-language-download-all-button =
+    .label = نزّل الكل
+    .accesskey = ز
 translations-manage-language-remove-button =
     .label = أزِل
 translations-manage-language-remove-all-button =
@@ -162,8 +169,31 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = أغلِق
     .buttonaccesskeyaccept = ق
+# Text displayed in the right-click context menu for translating
+# selected text to a yet-to-be-determined language.
+main-context-menu-translate-selection =
+    .label = ترجم المحدّد…
+    .accesskey = م
+# Text displayed in the select translations panel header.
+select-translations-panel-header = الترجمة
+# Text displayed above the from-language dropdown menu.
+select-translations-panel-from-label = من
+# Text displayed above the to-language dropdown menu.
+select-translations-panel-to-label = إلى
+# Text displayed above the try-another-source-language dropdown menu.
+select-translations-panel-try-another-language-label = حاول استخدام لغة مصدر أخرى
 select-translations-panel-cancel-button =
     .label = ألغِ
+# Text displayed on the copy button before it is clicked.
+select-translations-panel-copy-button =
+    .label = انسخ
+# Text displayed on the copy button after it is clicked.
+select-translations-panel-copy-button-copied =
+    .label = نُسخ
+select-translations-panel-done-button =
+    .label = تمّ
+select-translations-panel-translate-full-page-button =
+    .label = ترجم الصفحة كاملة
 select-translations-panel-translate-button =
     .label = ترجم
 select-translations-panel-try-again-button =

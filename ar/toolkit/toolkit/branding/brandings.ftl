@@ -30,9 +30,20 @@
 -focus-brand-name = Firefox Focus
 -relay-brand-name = Firefox Relay
 -relay-brand-short-name = Relay
+-fakespot-brand-name = بقعة وهمية
+# Note the name of the website is capitalized.
+-fakespot-website-name = Fakespot.com
+# The particle "by" can be localized, "Fakespot" and "Mozilla" should not be localized or transliterated.
+-fakespot-brand-full-name = Fakespot من شركة Mozilla
 # “Suggest” can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefox-suggest-brand-name = يقترح Firefox
+# ”Home" can be localized, “Firefox” must be treated as a brand
+# and kept in English.
+-firefox-home-brand-name = شاشة بداية Firefox
+# View" can be localized, “Firefox” must be treated as a brand
+# and kept in English.
+-firefoxview-brand-name = واجهة عرض Firefox
 # Firefox Labs is the name for a page in Settings to allow users to learn about
 # experimental and in-development features, and turn those features on and off.
 # The "Labs" portion can be localized, “Firefox” must be treated as a brand

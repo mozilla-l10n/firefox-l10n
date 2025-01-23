@@ -287,6 +287,7 @@ tail-fox-spotlight-secondary-button = ليس الآن
 
 ## Root Certificate Succession Infobar
 
+root-certificate-succession-infobar-link = لماذا أحتاج إلى التحديث؟
 root-certificate-succession-infobar-primary-button =
     .label = حدّث الآن
     .accesskey = د
@@ -306,10 +307,12 @@ fxa-menu-message-close-button =
     .aria-label = أغلق
 fxa-menu-message-sign-up-button = سجّل حسابًا
 fxa-menu-message-sync-devices-primary-text = زامِن كل أجهزتك
+fxa-menu-message-sync-devices-collapsed-text = زامِن كل أجهزتك
 fxa-menu-message-mobile-collapsed-text = زامِن مع هاتفك
 
 ## Multi-CTA Fox Doodle Spotlight
 
 multi-cta-fox-doodle-title = مرحبا بعودتك
+multi-cta-fox-doodle-set-default-checkbox = اضبط { -brand-short-name } ليكون المبدئي
 multi-cta-fox-doodle-start-browsing-primary-button-label = ابدأ التصفح
 multi-cta-fox-doodle-main-browser-primary-button-label = اضبط { -brand-short-name } ليكون متصفّحي الرئيسي
