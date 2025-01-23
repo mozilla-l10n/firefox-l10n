@@ -284,6 +284,15 @@ appmenuitem-services-relay-description = Atvērt e-pasta masku informācijas pan
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Aizsargājiet savas tiešsaistes aktivitātes
 appmenu-services-header = Mani pakalpojumi
+appmenu-other-protection-header = Izmēģiniet citus aizsardzības rīkus no { -vendor-short-name }:
 
 ## Profiles panel
 
+appmenu-profiles = Profili
+appmenu-other-profiles = Citi profili
+appmenu-manage-profiles =
+    .label = Pārvaldīt profilus
+appmenu-create-profile =
+    .label = Jauns profils
+appmenu-edit-profile =
+    .aria-label = Rediģēt profilu
