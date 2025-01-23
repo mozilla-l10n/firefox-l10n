@@ -77,8 +77,23 @@ tab-group-editor-name-label = പേരു്
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-group-editor-action-delete =
+    .label = കൂട്ടം മായ്ക്കുക
+tab-group-editor-done =
+    .label = കഴിഞ്ഞു
+    .accessKey = ക
 tab-context-reopen-tab-group =
     .label = ടാബുക്കൂട്ടം വീണ്ടും തുറക്കുക
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] ടാബുക്കൂട്ടത്തിൽ നിന്നു് മാറ്റുക
+            [one] ടാബുക്കൂട്ടങ്ങളിൽ നിന്നു് മാറ്റുക
+           *[other] ടാബുക്കൂട്ടങ്ങളിൽ നിന്നു് മാറ്റുക
+        }
+    .accesskey = മ
 
 ## Open/saved tab group context menu
 
