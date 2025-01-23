@@ -8,11 +8,18 @@
 newtab-page-title = Jauna cilne
 newtab-settings-button =
     .title = Pielāgojiet jaunās cilnes lapu
+newtab-personalize-settings-icon-label =
+    .title = Personalizēt jauno cilni
+    .aria-label = Iestatījumi
+newtab-settings-dialog-label =
+    .aria-label = Iestatījumi
 newtab-personalize-icon-label =
     .title = Personalizēt jauno cilni
     .aria-label = Personalizēt jauno cilni
 newtab-personalize-dialog-label =
     .aria-label = Personalizēt
+newtab-logo-and-wordmark =
+    .aria-label = { -brand-full-name }
 
 ## Search box component.
 
@@ -109,6 +116,13 @@ newtab-menu-save-to-pocket = Saglabāt { -pocket-brand-name }
 newtab-menu-delete-pocket = Dzēst no { -pocket-brand-name }
 newtab-menu-archive-pocket = Arhivēt { -pocket-brand-name }
 newtab-menu-show-privacy-info = Mūsu sponsori un jūsu privātums
+newtab-menu-about-fakespot = Par { -fakespot-brand-name }
+# Context menu option to personalize New Tab recommended stories by blocking a section of stories,
+# e.g. "Sports". "Block" is a verb here.
+newtab-menu-section-block = Bloķēt
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
+newtab-menu-section-unfollow = Pārtraukt sekot tēmai
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -232,6 +246,9 @@ newtab-pocket-learn-more = Uzzināt vairāk
 newtab-pocket-cta-button = Izmēģiniet { -pocket-brand-name }
 newtab-pocket-cta-text = Saglabājiet interesantus stāstus { -pocket-brand-name } un barojiet savu prātu ar interesantu lasāmvielu.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } ir daļa no { -brand-product-name } saimes
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-image =
+    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = Saglabāt
 newtab-pocket-saved = Saglabāts
 
@@ -309,6 +326,8 @@ newtab-wallpaper-dark-panda = Sarkanā panda paslēpta mežā
 newtab-wallpaper-dark-sky = Pilsētas ainava ar nakts debesīm
 newtab-wallpaper-dark-mountain = Ainavisks kalns
 newtab-wallpaper-dark-city = Violeta pilsētas ainava
+newtab-wallpaper-dark-fox-anniversary = Lapsa uz ceļa pie meža
+newtab-wallpaper-light-fox-anniversary = Lapsa pļavā ar dūmakainu kalnu ainavu
 
 ## Solid Colors
 
@@ -439,6 +458,13 @@ newtab-topic-selection-button-pick-interests = Izvēlieties savas intereses
 ## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 ## e.g. Following the travel section of stories.
 
+newtab-section-follow-button = Sekot
+newtab-section-following-button = Seko
+newtab-section-unfollow-button = Pārtraukt sekošanu
 
 ## Confirmation modal for blocking a section
 
+newtab-section-confirm-block-section-p1 = Vai tiešām vēlaties bloķēt šo sadaļu?
+newtab-section-confirm-block-section-p2 = Bloķētā sadaļa vairs neparādīsies jūsu plūsmā.
+newtab-section-block-section-button = Bloķēt šo sadaļu
+newtab-section-cancel-button = Ne tagad
