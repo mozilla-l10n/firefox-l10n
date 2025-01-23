@@ -61,6 +61,15 @@ item-history-form-data-downloads =
 item-cookies =
     .label = الكعكات
     .accesskey = ت
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cookies-site-data-with-size =
+    .label = الكعكات وبيانات المواقع ({ $amount } ‏{ $unit })
+    .accesskey = م
+item-cookies-site-data =
+    .label = الكعكات وبيانات المواقع
+    .accesskey = م
 item-active-logins =
     .label = جلسات الدخول النشِطة
     .accesskey = ش

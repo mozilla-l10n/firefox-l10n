@@ -8,11 +8,15 @@
 newtab-page-title = لسان جديد
 newtab-settings-button =
     .title = خصص صفحة اللسان الجديد
+newtab-settings-dialog-label =
+    .aria-label = الإعدادات
 newtab-personalize-icon-label =
     .title = خصّص صفحة اللسان الجديد
     .aria-label = خصّص صفحة اللسان الجديد
 newtab-personalize-dialog-label =
     .aria-label = خصّص
+newtab-logo-and-wordmark =
+    .aria-label = { -brand-full-name }
 
 ## Search box component.
 
@@ -45,6 +49,7 @@ newtab-topsites-add-search-engine-header = أضِف محرك بحث
 newtab-topsites-add-shortcut-header = اختصار جديد
 newtab-topsites-edit-topsites-header = حرّر الموقع الشائع
 newtab-topsites-edit-shortcut-header = حرّر الاختصار
+newtab-topsites-add-shortcut-label = أضِف اختصارًا
 newtab-topsites-title-label = العنوان
 newtab-topsites-title-input =
     .placeholder = أدخل عنوانًا
@@ -108,6 +113,13 @@ newtab-menu-save-to-pocket = احفظ في { -pocket-brand-name }
 newtab-menu-delete-pocket = احذف من { -pocket-brand-name }
 newtab-menu-archive-pocket = أرشِف في { -pocket-brand-name }
 newtab-menu-show-privacy-info = رُعاتنا الرسميّون وخصوصيّتك
+newtab-menu-about-fakespot = عن { -fakespot-brand-name }
+# Context menu option to personalize New Tab recommended stories by blocking a section of stories,
+# e.g. "Sports". "Block" is a verb here.
+newtab-menu-section-block = احجب
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
+newtab-menu-section-unfollow = ألغِ متابعة الموضوع
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -194,6 +206,9 @@ newtab-section-header-recent-activity = أحدث الأنشطة
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = ينصح به { $provider }
+newtab-section-header-stories = قصص تدعو للتأمل
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = اختياراتنا لك اليوم
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -221,14 +236,24 @@ newtab-pocket-more-recommendations = مقترحات أخرى
 newtab-pocket-learn-more = اطّلع على المزيد
 newtab-pocket-cta-button = نزِّل { -pocket-brand-name }
 newtab-pocket-cta-text = احفظ القصص التي تحبّها في { -pocket-brand-name }، وزوّد عقلك بمقالات رائعة.
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-image =
+    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = احفظ
 newtab-pocket-saved = حُفظت
 
 ## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
 
+# Clicking the thumbs up button for this story will result in more stories like this one being recommended
+newtab-pocket-thumbs-up-tooltip =
+    .title = المزيد من هذا القبيل
 # Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
 newtab-pocket-thumbs-down-tooltip =
     .title = ليس لي
+newtab-toast-thumbs-up-or-down = شكرًا لك. ستساعدنا تعليقاتك في تحسين خلاصتك.
+newtab-toast-dismiss-button =
+    .title = أهمِل
+    .aria-label = أهمِل
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
@@ -274,15 +299,26 @@ newtab-custom-settings = أدِر المزيد من الإعدادات
 
 ## New Tab Wallpapers
 
+newtab-wallpaper-title = الخلفيات
+newtab-wallpaper-reset = صفّر إلى المبدئي
 newtab-wallpaper-light-red-panda = باندا أحمر
 newtab-wallpaper-light-mountain = جبل ابيض
 newtab-wallpaper-light-sky = سماء مع غيوم أرجوانية ووردية
+newtab-wallpaper-light-color = الأشكال الزرقاء والوردية والصفراء
+newtab-wallpaper-light-landscape = منظر جبلي ضبابي أزرق
 newtab-wallpaper-light-beach = شاطئ مع شجرة نخيل
 newtab-wallpaper-dark-aurora = شفق قطبي
 newtab-wallpaper-dark-color = أشكال حمراء وزرقاء
+newtab-wallpaper-dark-panda = باندا حمراء مختبئة في الغابة
+newtab-wallpaper-dark-sky = منظر المدينة مع سماء الليل
+newtab-wallpaper-dark-mountain = منظر جبلي
+newtab-wallpaper-dark-city = منظر المدينة الأرجواني
+newtab-wallpaper-dark-fox-anniversary = ثعلب على الرصيف بالقرب من الغابة
+newtab-wallpaper-light-fox-anniversary = ثعلب في حقل عشبي مع منظر جبلي ضبابي
 
 ## Solid Colors
 
+newtab-wallpaper-category-title-colors = الألوان الصلبة
 newtab-wallpaper-blue = أزرق
 newtab-wallpaper-light-blue = أزرق فاتح
 newtab-wallpaper-light-purple = ارجواني فاتح
@@ -301,23 +337,39 @@ newtab-wallpaper-brown = بني
 
 ## Abstract
 
+newtab-wallpaper-category-title-abstract = مجرّدة
 newtab-wallpaper-abstract-green = أشكال خضراء
 newtab-wallpaper-abstract-blue = أشكال زرقاء
 newtab-wallpaper-abstract-purple = أشكال أرجوانية
 newtab-wallpaper-abstract-orange = أشكال برتقالية
+newtab-wallpaper-gradient-orange = تدرج اللون البرتقالي والوردي
+newtab-wallpaper-abstract-blue-purple = الأشكال الزرقاء والأرجوانية
 
 ## Photographs
 
 newtab-wallpaper-white-mountains = جبال بيضاء
+newtab-wallpaper-feature-highlight-header = جرب دفقة من الألوان
+newtab-wallpaper-feature-highlight-button = فهمت
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = أظهِر التوقعات في { $provider }
+newtab-weather-menu-change-location = غيّر المكان
 
 ## Topic Labels
 
 
 ## Topic Selection Modal
 
+newtab-topic-selection-save-button = احفظ
+newtab-topic-selection-cancel-button = ألغِ
+newtab-topic-selection-button-maybe-later = ربما لاحقا
 
 ## Content Feed Sections
 ## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
