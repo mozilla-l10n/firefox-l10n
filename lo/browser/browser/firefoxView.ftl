@@ -126,6 +126,21 @@ firefoxview-show-less = ສະແດງນ້ອຍລົງ
 firefoxview-show-all = ສະແດງທັງໝົດ
 firefoxview-search-text-box-clear-button =
     .title = ລົບລ້າງ
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = ຄົ້ນຫາ
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = ຄົ້ນຫາປະຫວັດ
+# Placeholder for the input field to search in recently closed tabs ("search" is a verb).
+firefoxview-search-text-box-recentlyclosed =
+    .placeholder = ຄົ້ນຫາແຖບທີ່ປິດບໍ່ດົນມານີ້
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-tabs =
+    .placeholder = ຄົ້ນຫາແທັບ
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-syncedtabs =
+    .placeholder = ຄົ້ນຫາແທັບທີ່ຊິງຄ໌ແລ້ວ
 firefoxview-sort-history-by-date-label = ຈັດຮຽງຕາມວັນທີ
 firefoxview-sort-history-by-site-label = ຈັດຮຽງຕາມເວັບໄຊ
 

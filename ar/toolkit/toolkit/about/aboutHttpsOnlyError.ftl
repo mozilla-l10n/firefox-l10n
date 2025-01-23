@@ -11,6 +11,7 @@ about-httpsonly-explanation-question = ماذا قد يكون السبب؟
 about-httpsonly-explanation-nosupport = على الأغلب أن الموقع لا يدعم HTTPS.
 about-httpsonly-explanation-risk = هناك احتمال بأن أحد المُخترقين ينتظر دخولك الموقع. عليك التزام الحرص بألا تُدخل أيّ معلومات حساسة مثل كلمات السر أو عناوين البريد أو تفاصيل البطاقات الائتمانية في حال قرّرت زيارة هذا الموقع.
 about-httpsonly-explanation-continue = إن واصلت، سيغلق وضع HTTPS-فقط مؤقتًا لهذا الموقع.
+about-httpsonly-explanation-iframe = بسبب حظر المحتوى المختلط، ليس من الممكن السماح بتحميل هذا الإطار يدويًا.
 about-httpsonly-button-continue-to-site = واصِل نحو نسخة HTTP
 about-httpsonly-button-go-back = عُد للخلف
 about-httpsonly-link-learn-more = اطّلع على المزيد…
