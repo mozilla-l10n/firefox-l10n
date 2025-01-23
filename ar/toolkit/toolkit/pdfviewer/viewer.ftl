@@ -105,6 +105,14 @@ pdfjs-document-properties-button-label = خصائص المستند…
 pdfjs-document-properties-file-name = اسم الملف:
 pdfjs-document-properties-file-size = حجم الملف:
 # Variables:
+#   $kb (Number) - the PDF file size in kilobytes
+#   $b (Number) - the PDF file size in bytes
+pdfjs-document-properties-size-kb = { NUMBER($kb, maximumSignificantDigits: 3) } ك.بايت ({ $b } بايتات)
+# Variables:
+#   $mb (Number) - the PDF file size in megabytes
+#   $b (Number) - the PDF file size in bytes
+pdfjs-document-properties-size-mb = { NUMBER($kb, maximumSignificantDigits: 3) } م.بايت ({ $b } بايتات)
+# Variables:
 #   $size_kb (Number) - the PDF file size in kilobytes
 #   $size_b (Number) - the PDF file size in bytes
 pdfjs-document-properties-kb = { $size_kb } ك.بايت ({ $size_b } بايت)
@@ -118,6 +126,9 @@ pdfjs-document-properties-subject = الموضوع:
 pdfjs-document-properties-keywords = الكلمات الأساسية:
 pdfjs-document-properties-creation-date = تاريخ الإنشاء:
 pdfjs-document-properties-modification-date = تاريخ التعديل:
+# Variables:
+#   $dateObj (Date) - the creation/modification date and time of the PDF file
+pdfjs-document-properties-date-time-string = { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
 # Variables:
 #   $date (Date) - the creation/modification date of the PDF file
 #   $time (Time) - the creation/modification time of the PDF file
@@ -283,6 +294,9 @@ pdfjs-annotation-date-string = { $date }، { $time }
 # Some common types are e.g.: "Check", "Text", "Comment", "Note"
 pdfjs-text-annotation-type =
     .alt = [تعليق { $type }]
+# Variables:
+#   $dateObj (Date) - the modification date and time of the annotation
+pdfjs-annotation-date-time-string = { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
 
 ## Password
 
@@ -436,12 +450,20 @@ pdfjs-editor-new-alt-text-textarea =
     .placeholder = اكتب وصفك هنا…
 # This text refers to the alt text box above this description. It offers a definition of alt text.
 pdfjs-editor-new-alt-text-description = وصف مختصر للأشخاص الذين لا يستطيعون رؤية الصورة أو عندما لا يتم تحميل الصورة.
+# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
+pdfjs-editor-new-alt-text-disclaimer1 = أُنشئ هذا النص البديل تلقائيًا وقد يكون غير دقيق.
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = اطّلع على المزيد
 pdfjs-editor-new-alt-text-create-automatically-button-label = أنشئ نص بديل تلقائيًا
 pdfjs-editor-new-alt-text-not-now-button = ليس الآن
 pdfjs-editor-new-alt-text-error-title = لم يتمكن من إنشاء نص بديل تلقائيًا
 pdfjs-editor-new-alt-text-error-description = يُرجى كتابة نص بديلك أو المحاولة مرة أخرى لاحقًا.
 pdfjs-editor-new-alt-text-error-close-button = أغلق
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+#   $downloadedSize (Number) - the downloaded size (in MB) of the AI model.
+#   $percent (Number) - the percentage of the downloaded size.
+pdfjs-editor-new-alt-text-ai-model-downloading-progress = يُنزّل نموذج الذكاء الاصطناعي للنص البديل ({ $downloadedSize } من { $totalSize } م.بايت)
+    .aria-valuetext = يُنزّل نموذج الذكاء الاصطناعي للنص البديل ({ $downloadedSize } من { $totalSize } م.بايت)
 # This is a button that users can click to edit the alt text they have already added.
 pdfjs-editor-new-alt-text-added-button =
     .aria-label = أُضِيف نص بديل

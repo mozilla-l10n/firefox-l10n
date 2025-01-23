@@ -54,6 +54,8 @@ import-source-page-title = استورد الإعدادات و البيانات
 import-items-page-title = العناصر المراد استيرادها
 import-items-description = اختر أي العناصر تريد استيرادها:
 import-permissions-page-title = من فضلك امنح { -brand-short-name } الصلاحيات اللازمة
+# Do not translate "Safari" (the name of the browser on Apple devices)
+import-safari-permissions-string = يتطلب نظام التشغيل macOS منك السماح صراحةً لـ { -brand-short-name } بالوصول إلى بيانات Safari. انقر فوق "متابعة"، وحدد مجلد "Safari" في مربع الحوار Finder الذي يظهر، ثم انقر فوق "فتح".
 import-migrating-page-title = يستورد…
 import-migrating-description = يجري استيراد العناصر التالية…
 import-select-profile-page-title = اختر الملفّ الشّخصيّ
