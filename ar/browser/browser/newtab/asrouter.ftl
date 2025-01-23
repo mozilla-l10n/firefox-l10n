@@ -216,6 +216,7 @@ cfr-cbh-confirm-button = أرفض لافتات الكعكات
     .accesskey = ض
 cfr-cbh-dismiss-button = ليس الآن
     .accesskey = آ
+cookie-banner-blocker-onboarding-learn-more = اطّلع على المزيد
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -253,6 +254,7 @@ device-migration-fxa-spotlight-older-device-primary-button = أنشئ حسابً
 device-migration-fxa-spotlight-getting-new-device-header-2 = جهاز جديد في مستقبلك؟
 device-migration-fxa-spotlight-getting-new-device-body-2 = اتبع بعض الخطوات البسيطة لجلب العلامات والتأريخ وكلمات السر معك عند البدء على جهاز جديد.
 device-migration-fxa-spotlight-getting-new-device-primary-button = كيفية عمل نسخة احتياطية من بياناتي
+device-migration-fxa-spotlight-sync-primary-button = ابدأ
 
 ## Set as Default PDF Reader Infobar
 
@@ -285,12 +287,29 @@ tail-fox-spotlight-secondary-button = ليس الآن
 
 ## Root Certificate Succession Infobar
 
+root-certificate-succession-infobar-primary-button =
+    .label = حدّث الآن
+    .accesskey = د
+root-certificate-succession-infobar-secondary-button =
+    .label = لاحقًا
+    .accesskey = ا
 
 ## Root Certificate Succession Windows Background Notification
 
+root-certificate-windows-background-notification-learn-more-button = اطّلع على المزيد
+root-certificate-windows-background-notification-update-button = حدِّث { -brand-short-name }
 
 ## FxA Menu Message variants
 
+fxa-menu-message-close-button =
+    .title = أغلق
+    .aria-label = أغلق
+fxa-menu-message-sign-up-button = سجّل حسابًا
+fxa-menu-message-sync-devices-primary-text = زامِن كل أجهزتك
+fxa-menu-message-mobile-collapsed-text = زامِن مع هاتفك
 
 ## Multi-CTA Fox Doodle Spotlight
 
+multi-cta-fox-doodle-title = مرحبا بعودتك
+multi-cta-fox-doodle-start-browsing-primary-button-label = ابدأ التصفح
+multi-cta-fox-doodle-main-browser-primary-button-label = اضبط { -brand-short-name } ليكون متصفّحي الرئيسي
