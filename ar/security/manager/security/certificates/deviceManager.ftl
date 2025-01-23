@@ -86,6 +86,7 @@ devinfo-label =
     .label = الاسم
 devinfo-serialnum =
     .label = الرّقم التّسلسلي
+fips-nonempty-primary-password-required = يتطلّب وضع FIPS وجود كلمة سر أساسية لكلّ جهاز أمن. رجاءً ضع كلمة سر قبل تفعيل وضع FIPS.
 unable-to-toggle-fips = تعذر تغيير نمط FIPS للجهاز الأمني. ننصحك بالخروج من هذا البرنامج و إعادة تشغيله.
 load-pk11-module-file-picker-title = اختر مشغّل جهاز PKCS#11 ليحمّل
 # Load Module Dialog

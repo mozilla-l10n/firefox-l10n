@@ -331,6 +331,7 @@ mozilla-pkix-error-invalid-integer-encoding = قدّم الخادوم شهادة
 mozilla-pkix-error-empty-issuer-name = قدّم الخادوم شهادة تحتوي اسم مُصْدِر مميز خالٍ.
 mozilla-pkix-error-additional-policy-constraint-failed = فشل قيد سياسة إضافي أثناء التحقق من الشهادة.
 mozilla-pkix-error-self-signed-cert = الشهادة غير موثوقة لأنها موقعّة ذاتيًا.
+mozilla-pkix-error-issuer-no-longer-trusted = كانت سُلطة الشهادات التي أصدرت الشهادة غير موثوقة قبل إصدار الشهادة.
 xp-java-remove-principal-error = تعذرت إزالة الرئيس
 xp-java-delete-privilege-error = تعذرت إزالة الامتياز
 xp-java-cert-not-exists-error = هذا الرئيس لا يملك شهادة
