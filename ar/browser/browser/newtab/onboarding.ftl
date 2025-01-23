@@ -273,21 +273,31 @@ onboarding-device-migration-primary-button-label = لِج
 
 ## Add-ons Picker screen
 
+amo-picker-install-button-label = أضِف إلى { -brand-short-name }
+amo-picker-install-complete-label = مُثبت
 
 ## The following screens have been updated to use security and privacy focused strings:
 
 
 ## New user time and familiarity survey strings
 
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-time-based-option-1 = أنا جديد تمامًا
 
 ## UI strings for the sidebar and vertical tabs
 
+onboarding-flair-text = جديد!
+onboarding-genai-sidebar-secondary-button = ابدأ التصفح
 
 ## New user onboarding checklist
 
+onboarding-checklist-set-default = اضبط { -brand-short-name } ليكون متصفّحي المبدئي
+onboarding-checklist-extension = أضِف امتدادة
 
 ## Tab Groups feature onboarding strings
 
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-cta = أنشئ ملفًا شخصيًا
+multi-profile-callout-cta = أنشئ ملفًا شخصيًا

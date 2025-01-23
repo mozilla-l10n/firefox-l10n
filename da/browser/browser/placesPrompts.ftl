@@ -16,3 +16,4 @@ places-bookmarks-restore-parse-error = Kunne ikke behandle sikkerhedskopien.
 places-bookmarks-import = Importer bogmærkefil
 places-bookmarks-export = Eksporter bogmærkefil
 places-bookmarks-paste-error-title = Ugyldig(e) URL(er) fundet
+places-bookmarks-paste-error-message-header = De(n) følgende URL(er) kunne ikke føjes til dine bogmærker. Prøv at kontrollere formateringen og tilføje dem igen.
