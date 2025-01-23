@@ -47,12 +47,31 @@ callout-pdfjs-draw-button = Viss skaidrs!
 ## Firefox View Discoverability Strings
 
 fx-view-discoverability-title = Aizvērāt cilni netīšām?
+fx-view-discoverability-subtitle = Atrodiet un ātri atveriet to šeit. Mēs saglabājam jūsu nesen aizvērto cilņu vēsturi.
+fx-view-discoverability-primary-button-label = Atvērt { -firefoxview-brand-name }
+fx-view-discoverability-secondary-button-label = Noraidīt
 
 ## Split Dismiss Button Labels
 
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option-label = Vairs nerādīt šo ieteikumu
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option-label = Rādīt mazāk ieteikumu
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option-label = Pārvaldīt iestatījumus
 
 ## Sidebar Strings
 
+sidebar-button-callout-title = Sānjoslā rādīt ciļņu virsrakstus
+sidebar-button-callout-subtitle = Izmantojiet sānjoslas pogu, lai izvērstu sānjoslu, lai varētu redzēt ciļņu virsrakstus.
 
 ## Sidebar Callout Survey Strings
 
+sidebar-callout-survey-title = Palīdziet uzlabot { -brand-short-name }
+sidebar-callout-survey-satisfaction-question = Cik apmierināts esat ar { -brand-short-name } sānjoslu?
+sidebar-callout-survey-privacy-notice-link = Privātuma paziņojums
+sidebar-callout-survey-very-satisfied = Ļoti apmierināts
+sidebar-callout-survey-satisfied = Apmierināts
+sidebar-callout-survey-neutral = Neitrāls
+sidebar-callout-survey-dissatisfied-2 = Neapmierināts
+sidebar-callout-survey-very-dissatisfied-2 = Ļoti neapmierināts
