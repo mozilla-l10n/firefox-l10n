@@ -28,6 +28,7 @@ return-to-amo-add-theme-label = أضِف السمة
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
+mr1-return-to-amo-subtitle = رحّب بـ{ -brand-short-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
@@ -48,12 +49,15 @@ mr1-onboarding-import-primary-button-label-attribution = استورِد من { $
 mr1-onboarding-theme-header = طوّعه كما ترغب
 mr1-onboarding-theme-subtitle = خصّص { -brand-short-name } باستعمال سمة.
 mr1-onboarding-theme-secondary-button-label = ليس الآن
+newtab-wallpaper-onboarding-title = جرب دفقة من الألوان
+newtab-wallpaper-onboarding-primary-button-label = عيّن خلفية
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = سمة النظام
 mr1-onboarding-theme-label-light = فاتحة
 mr1-onboarding-theme-label-dark = داكنة
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = شفق ألبي (Alpenglow)
+onboarding-theme-primary-button-label = تمّ
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
@@ -132,11 +136,13 @@ onboarding-live-language-skip-button-label = تخطَّ
 ## Firefox 100 Thank You screens
 
 fx100-thank-you-subtitle = هذا الإصدار رقم 100! شكرا لمساعدتنا في بناء إنترنت أفضل وأكثر صحة.
+fx100-upgrade-thanks-header = 100 شكرا لكم
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
 fx100-upgrade-thank-you-body = هذا الإصدار 100 من { -brand-short-name } لدينا . شكرا <em> لك </em> على مساعدتنا في بناء إنترنت أفضل وأكثر صحة.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = هذا الإصدار  رفم 100! شكرا لكونك طرفا في مجتمعنا. أبق { -brand-short-name } بعيدا بنقرة واحدة لأجل ال100 القادمة.
+mr2022-onboarding-secondary-skip-button-label = تجاوز هذه الخُطوة
 
 ## MR2022 New User Easy Setup screen strings
 
@@ -176,6 +182,7 @@ mr2022-onboarding-set-default-subtitle = استخدم متصفحًا مدعوم�
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = أحدث نسخة منا تدور حولك، مما يجعلها أسهل من أي وقت مضى في جميع أنحاء الويب. إنه مليء بالمزايا التي نعتقد أنك ستحبها.
+mr2022-onboarding-get-started-primary-button-label = أعدّه في ثوانٍ
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page

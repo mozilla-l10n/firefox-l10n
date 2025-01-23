@@ -8,6 +8,9 @@
 newtab-page-title = لسان جديد
 newtab-settings-button =
     .title = خصص صفحة اللسان الجديد
+newtab-personalize-settings-icon-label =
+    .title = خصّص صفحة اللسان الجديد
+    .aria-label = إعدادات
 newtab-settings-dialog-label =
     .aria-label = الإعدادات
 newtab-personalize-icon-label =
@@ -375,6 +378,9 @@ newtab-topic-selection-button-maybe-later = ربما لاحقا
 ## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 ## e.g. Following the travel section of stories.
 
+newtab-section-unfollow-button = ألغِ المتابعة
 
 ## Confirmation modal for blocking a section
 
+newtab-section-block-section-button = احجب هذا القسم
+newtab-section-cancel-button = ليس الآن

@@ -164,8 +164,10 @@ tabbrowser-confirm-caretbrowsing-checkbox = لا تعرض هذا الحوار م
 
 ## Confirmation dialog for closing all duplicate tabs
 
+tabbrowser-confirm-close-duplicate-tabs-title = انتبه
 tabbrowser-confirm-close-all-duplicate-tabs-title = أغلِق الألسنة المتكررة؟
 tabbrowser-confirm-close-all-duplicate-tabs-text = سنقوم بإغلاق الألسنة المتكررة في هذه النافذة. وستظل الألسنة النشطة الأخيرة مفتوحة.
+tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = أغلق الألسنة
 
 ##
 
@@ -218,6 +220,10 @@ tabbrowser-manager-close-tab =
 
 ## Tab Groups
 
+tab-group-editor-name-label = الاسم
+tab-group-editor-cancel =
+    .label = ألغ
+    .accesskey = غ
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -230,3 +236,8 @@ tab-group-editor-done =
 
 ## Open/saved tab group context menu
 
+# For a tab group that is open in any window, close the tab group and
+# do not save it. For a tab group that is closed but saved by the user, clicking
+# this will forget the saved tab group.
+tab-group-context-delete =
+    .label = احذف المجموعة
