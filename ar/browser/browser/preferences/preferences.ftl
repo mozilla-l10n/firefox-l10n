@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = أرسل للمواقع إشارة ”لا تتعقبني“ بأنك لا تريد أن يتعقبوك
+do-not-track-removal = لم نعد ندعم إشارة "لا تتعقبني"
 do-not-track-description2 =
     .label = أرسل للمواقع طلب"لا تتعقبني"
     .accesskey = س

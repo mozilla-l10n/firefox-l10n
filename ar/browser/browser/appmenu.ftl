@@ -284,7 +284,11 @@ appmenu-services-header = خدماتي
 
 ## Profiles panel
 
+appmenu-profiles = ملفات تعريف
+appmenu-other-profiles = ملفات تعريف أخرى
 appmenu-manage-profiles =
     .label = أدِر ملفات التعريف
 appmenu-create-profile =
-    .label = ملف تعريف جديد
+    .label = ملف شخصي جديد
+appmenu-edit-profile =
+    .aria-label = حرّر الملف الشخصي

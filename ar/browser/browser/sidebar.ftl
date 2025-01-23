@@ -4,6 +4,8 @@
 
 menu-view-review-checker =
     .label = مدقق المراجعة
+sidebar-options-menu-button =
+    .title = افتح القائمة
 
 ## Labels for sidebar history panel
 
@@ -100,6 +102,22 @@ sidebar-menu-review-checker-label =
 
 ## Tooltips for sidebar menu items.
 
+# The tooltip to show over the history icon, when history is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-history-tooltip = افتح التأريخ ({ $shortcut })
+# The tooltip to show over the history icon, when history is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-history-tooltip = أغلق التأريخ ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-bookmarks-tooltip = افتح العلامات ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-bookmarks-tooltip = أغلق العلامات ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 
