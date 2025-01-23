@@ -40,6 +40,16 @@ screenshots-private-window-error-title = ‏{ -screenshots-brand-name } معطّ
 screenshots-private-window-error-details = نأسف على الإزعاج. نعمل على هذه الخاصية للإصدارات اللاحقة.
 screenshots-generic-error-title = هناك عطل في { -screenshots-brand-name }.
 screenshots-generic-error-details = لسنا متأكدين ما المشكلة. أتمانع إعادة المحاولة أو أخذ لقطة لصفحة أخرى؟
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button-2 = انسخ
+    .title = انسخ ({ $shortcut })
+    .aria-label = انسخ
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button-2 = نزّل
+    .title = نزّل ({ $shortcut })
+    .aria-label = نزّل
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
@@ -47,3 +57,9 @@ screenshots-generic-error-details = لسنا متأكدين ما المشكلة.
 
 ##
 
+# This string represents the selection size area
+# "×" here represents "by" (i.e 123 by 456)
+# Variables:
+#   $width (Number) - The width of the selection region in pixels
+#   $height (Number) - The height of the selection region in pixels
+screenshots-overlay-selection-region-size-3 = { $width } × { $height }

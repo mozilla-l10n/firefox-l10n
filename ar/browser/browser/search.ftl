@@ -36,3 +36,6 @@ remove-search-engine-button = حسنًا
 ## Variables
 ## $engineName (String) - the name of the search engine to install.
 
+install-search-engine = أضِف { $engineName } كمحرك بحث؟
+install-search-engine-add = أضِف
+install-search-engine-no = لا

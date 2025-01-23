@@ -174,6 +174,27 @@ translations-settings-close-dialog =
 main-context-menu-translate-selection =
     .label = ترجم المحدّد…
     .accesskey = م
+# Text displayed in the right-click context menu for translating
+# selected text to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-selection-to-language =
+    .label = ترجم المحدّد إلى { $language }
+    .accesskey = م
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a yet-to-be-determined language.
+main-context-menu-translate-link-text =
+    .label = ترجم نص الرابط…
+    .accesskey = ن
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-link-text-to-language =
+    .label = ترجم نص الرابط إلى { $language }
+    .accesskey = ن
 # Text displayed in the select translations panel header.
 select-translations-panel-header = الترجمة
 # Text displayed above the from-language dropdown menu.
@@ -202,6 +223,8 @@ select-translations-panel-try-again-button =
 select-translations-panel-idle-placeholder-text = سيظهر النص المترجم هنا.
 # Text displayed as a placeholder when the panel is actively translating.
 select-translations-panel-translating-placeholder-text = نترجم…
+select-translations-panel-init-failure-message =
+    .message = تعذر تحميل اللغات. تحقق من اتصالك بالإنترنت وحاول مرة أخرى.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = حدثت مشكلة أثناء الترجمة. من فضلك حاول ثانية.
@@ -218,3 +241,5 @@ select-translations-panel-unsupported-language-message-unknown =
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = إعدادات الترجمة
+# An announcement made to assistive technology when the translation is complete
+select-translations-panel-translation-complete-announcement = اكتمل الترجمة
