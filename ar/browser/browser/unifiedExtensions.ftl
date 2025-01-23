@@ -14,6 +14,8 @@
 
 ## Extension's context menu
 
+unified-extensions-context-menu-pin-to-toolbar =
+    .label = ثبّته في شريط الأدوات
 unified-extensions-context-menu-move-widget-up =
     .label = انقل لأعلى
 unified-extensions-context-menu-move-widget-down =

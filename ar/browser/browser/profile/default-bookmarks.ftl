@@ -10,7 +10,7 @@
 default-bookmarks-title = العلامات
 default-bookmarks-heading = العلامات
 default-bookmarks-toolbarfolder = مجلّد شريط العلامات
-default-bookmarks-toolbarfolder-description = أضِف العلامات إلى هذا المجلد لرؤيتها معروضة في شريط الأدوات
+default-bookmarks-toolbarfolder-description = أضِف العلامات إلى هذا المجلد الذي تريد ظهورها في شريط العلامات
 # link title for https://www.mozilla.org/firefox/central/
 default-bookmarks-getting-started = البداية
 # Firefox links folder name
