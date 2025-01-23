@@ -123,6 +123,9 @@ firefoxview-opentabs-focus-tab =
     .title = ສະຫຼັບໄປແຖບນີ້
 firefoxview-show-more = ສະແດງເພີ່ມເຕີມ
 firefoxview-show-less = ສະແດງນ້ອຍລົງ
+firefoxview-show-all = ສະແດງທັງໝົດ
+firefoxview-search-text-box-clear-button =
+    .title = ລົບລ້າງ
 firefoxview-sort-history-by-date-label = ຈັດຮຽງຕາມວັນທີ
 firefoxview-sort-history-by-site-label = ຈັດຮຽງຕາມເວັບໄຊ
 

@@ -824,6 +824,10 @@ unified-extensions-button-permissions-needed =
 
 ## Private browsing reset button
 
+reset-pbm-toolbar-button =
+    .label = ສິ້ນສຸດເຊດຊັນສ່ວນຕົວ
+    .tooltiptext = ສິ້ນສຸດເຊດຊັນສ່ວນຕົວ
+reset-pbm-panel-heading = ສິ້ນສຸດເຊດຊັນສ່ວນຕົວຂອງທ່ານບໍ່?
 reset-pbm-panel-description = ປິດແຖບສ່ວນຕົວທັງໝົດ ແລະ ລຶບປະຫວັດ, ຄຸກກີ້ ແລະ ຂໍ້ມູນເວັບໄຊທ໌ອື່ນໆທັງໝົດ.
 reset-pbm-panel-always-ask-checkbox =
     .label = ຖາມຂ້ອຍສະເໝີ

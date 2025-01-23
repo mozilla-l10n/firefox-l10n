@@ -70,6 +70,9 @@ item-cache =
 item-form-search-history =
     .label = تأريخ البحث و النماذج
     .accesskey = ث
+item-site-prefs =
+    .label = إعدادات الموقع
+    .accesskey = ق
 item-site-prefs-description = إعادة تعيين أذوناتك وتفضيلات الموقع إلى الإعدادات الأصلية
 data-section-label = البيانات
 item-site-settings =
@@ -83,6 +86,10 @@ window-close =
     .key = w
 sanitize-button-ok =
     .label = امسح الآن
+sanitize-button-ok2 =
+    .label = امسح
+sanitize-button-ok-on-shutdown =
+    .label = احفظ التغييرات
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
