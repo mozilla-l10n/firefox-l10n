@@ -111,7 +111,7 @@ pdfjs-document-properties-size-kb = { NUMBER($kb, maximumSignificantDigits: 3) }
 # Variables:
 #   $mb (Number) - the PDF file size in megabytes
 #   $b (Number) - the PDF file size in bytes
-pdfjs-document-properties-size-mb = { NUMBER($kb, maximumSignificantDigits: 3) } م.بايت ({ $b } بايتات)
+pdfjs-document-properties-size-mb = { NUMBER($mb, maximumSignificantDigits: 3) } م.بايت ({ $b } بايتات)
 # Variables:
 #   $size_kb (Number) - the PDF file size in kilobytes
 #   $size_b (Number) - the PDF file size in bytes
