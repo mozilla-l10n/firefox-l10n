@@ -676,6 +676,13 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = عمليات البحث الأخيرة
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = لا تعرض عمليات البحث الشائعة
+    .accesskey = م
+urlbar-result-menu-trending-why =
+    .label = لماذا أرى هذا؟
+    .accesskey = ل
 
 ## Reader View toolbar buttons
 
@@ -953,6 +960,10 @@ data-reporting-notification-button =
     .accesskey = خ
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = التصفح الخاص
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = التصفح الخاص
+content-analysis-panel-title = حماية البيانات
 
 ## Unified extensions (toolbar) button
 
@@ -1021,6 +1032,7 @@ firefox-relay-offer-legal-notice = بالنقر على"أستخدم قناع ا�
 popup-notification-addon-install-unsigned =
     .value = (لم يُتحقق منها)
 popup-notification-xpinstall-prompt-learn-more = اطّلع على المزيد حول طريقة تثبيت الإضافات بأمان تام
+popup-notification-xpinstall-prompt-block-url = اعرض التفاصيل
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = تشغيله في النوافذ الخاصة
@@ -1073,3 +1085,6 @@ popup-show-popup-menuitem =
 # The wording here should be consistent with the Windows variant of
 # `downloads-cmd-show-menuitem-2` and similar messages.
 
+file-picker-crashed-show-in-folder =
+    .label = اعرض في المجلد
+    .accessKey = م

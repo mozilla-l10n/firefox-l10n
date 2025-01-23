@@ -597,6 +597,10 @@ home-prefs-recent-activity-description = مختارات من المواقع وا
 home-prefs-snippets-header =
     .label = المقتطفات
 home-prefs-snippets-description-new = فوائد وأخبار من { -vendor-short-name } و{ -brand-product-name }
+home-prefs-weather-header =
+    .label = الطقس
+home-prefs-weather-description = لمحة عامة عن توقعات الطقس اليوم
+home-prefs-weather-learn-more-link = اطّلع على المزيد
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -634,6 +638,10 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = أظهر اقتراحات البحث في نتائج شريط العناوين
     .accesskey = ت
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar.
+search-show-search-term-option-2 =
+    .label = أظهِر مصطلحات البحث في شريط العناوين على صفحات النتائج
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -715,6 +723,10 @@ sync-profile-picture =
 sync-profile-picture-with-alt =
     .tooltiptext = غيّر صورة الحساب
     .alt = غيّر صورة الحساب
+sync-profile-picture-account-problem =
+    .alt = صورة الملف الشخصي للحساب
+fxa-login-rejected-warning =
+    .alt = تحذير
 sync-sign-out =
     .label = اخرج…
     .accesskey = خ
@@ -934,6 +946,7 @@ primary-password-os-auth-dialog-message-win = أدخِل معلومات ولوج
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = أنشِئ كلمة سر رئيسية
 master-password-os-auth-dialog-caption = { -brand-full-name }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
@@ -1034,10 +1047,16 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Cookie Banner Handling
 
+cookie-banner-handling-header = تقليل لافتات ملفات تعريف الارتباط
 
 ## Privacy Section - Cookie Banner Blocking
 
+cookie-banner-blocker-header = مانع لافتة ملفات تعريف الارتباط
 cookie-banner-learn-more = اطّلع على المزيد
+forms-handle-cookie-banners =
+    .label = قلّل لافتات ملفات تعريف الارتباط
+cookie-banner-blocker-checkbox-label =
+    .label = رفض لافتات ملفات تعريف الارتباط تلقائيًا
 
 ## Privacy Section - Address Bar
 
@@ -1069,6 +1088,9 @@ addressbar-locbar-quickactions-option =
     .label = إجراءات سريعة
     .accesskey = س
 addressbar-suggestions-settings = غيّر تفضيلات اقتراحات محرّك البحث
+addressbar-locbar-showrecentsearches-option =
+    .label = أظهر عمليات البحث الأخيرة
+    .accesskey = ه
 addressbar-quickactions-learn-more = اطّلع على المزيد
 
 ## Privacy Section - Content Blocking
@@ -1291,21 +1313,35 @@ httpsonly-description = يقدّم بروتوكول HTTPS اتصالًا آمن�
 httpsonly-learn-more = اطّلع على المزيد
 httpsonly-radio-enabled =
     .label = فعّل وضع HTTPS فقط في كل النوافذ
+httpsonly-radio-enabled2 =
+    .label = استخدم HTTPS فقط في كافة النوافذ
 httpsonly-radio-enabled-pbm =
     .label = فعّل وضع HTTPS فقط في النوافذ الخاصة فقط
+httpsonly-radio-enabled-pbm2 =
+    .label = استخدم HTTPS فقط في النوافذ الخاصة
 httpsonly-radio-disabled =
     .label = لا تفعّل وضع HTTPS فقط
+httpsonly-radio-disabled2 =
+    .label = حاول استخدام HTTPS أولاً، ولكن اسمح بالاتصالات غير الآمنة
 
 ## DoH Section
 
 preferences-doh-header = DNS عبر HTTPS
 preferences-doh-description = يرسل نظام اسم المجال (DNS) عبر HTTPS طلبك للحصول على اسم المجال من خلال اتصال مُعمّى، مما يؤدي إلى إنشاء DNS آمن ويجعل من الصعب على الآخرين معرفة موقع الوب الذي أنت على وشك الوصول إليه.
 # Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = الحالة: { $status }
+# Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-resolver = المزود: { $name }
 # This is displayed instead of $name in preferences-doh-resolver
 # when the DoH URL is not a valid URL
 preferences-doh-bad-url = مسار غير صحيح
+preferences-doh-status-active = نشط
+preferences-doh-status-disabled = معطّل
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = غير نشط ({ $reason })
 preferences-doh-group-message = تفعيل DNS آمن باستخدام:
 preferences-doh-group-message2 = فعّل DNS عبر HTTPS باستخدام:
 preferences-doh-expand-section =
