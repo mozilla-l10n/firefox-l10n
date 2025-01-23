@@ -70,10 +70,10 @@ connection-proxy-autologin-checkbox =
     .accesskey = g
     .tooltiptext = Denne indstilling godkender dig automatisk overfor proxy-servere, når du har gemt login-informationer til dem. Du bliver spurgt, hvis godkendelsen slår fejl.
 connection-proxy-socks4-remote-dns =
-    .label = Proxy-DNS ved brug af SOCKS v4
+    .label = Brug en proxy til DNS-forespørgsler, når SOCKS v4 anvendes
     .accesskey = x
 connection-proxy-socks-remote-dns =
-    .label = Proxy-DNS ved brug af SOCKS v5
+    .label = Brug en proxy til DNS-forespørgsler, når SOCKS v5 anvendes
     .accesskey = D
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
