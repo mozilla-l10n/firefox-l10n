@@ -76,6 +76,9 @@ sidebar-callout-survey-neutral = Neitrāls
 sidebar-callout-survey-dissatisfied-2 = Neapmierināts
 sidebar-callout-survey-very-dissatisfied-2 = Ļoti neapmierināts
 sidebar-callout-survey-dont-use-it = Es to neizmantoju
+sidebar-callout-survey-productive-question =
+    Cik lielā mērā piekrītat vai nepiekrītat šim apgalvojumam:<br/>
+    “Sānjosla { -brand-short-name } palīdz man būt produktīvākam”?
 sidebar-callout-survey-strongly-agree = Pilnīgi piekrītu
 sidebar-callout-survey-agree = Piekrītu
 sidebar-callout-survey-disagree = Nepiekrītu
@@ -88,3 +91,6 @@ sidebar-callout-survey-none-of-above = Neviens no iepriekšminētajiem
 sidebar-callout-survey-submit = Iesniegt
 sidebar-callout-survey-thank-you = Paldies par atsauksmi!
 sidebar-genai-survey-satisfaction-question = Cik apmierināts esat ar piekļuvi MI tērzēšanas robotam sānjoslā?
+sidebar-genai-survey-productive-question =
+    Cik lielā mērā piekrītat vai nepiekrītat šim apgalvojumam:<br/>
+    “MI tērzēšanas robots sānjoslā palīdz man būt produktīvākam”?

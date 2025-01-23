@@ -262,10 +262,10 @@ newtab-error-fallback-refresh-link = Pārlādējiet lapu, lai mēģinātu vēlre
 ## Customization Menu
 
 newtab-custom-shortcuts-title = Saīsnes
-newtab-custom-shortcuts-subtitle = Vietnes, kuras saglabājat vai apmeklējat
+newtab-custom-shortcuts-subtitle = Saglabātās vai apmeklētās vietnes
 newtab-custom-shortcuts-toggle =
     .label = Saīsnes
-    .description = Vietnes, kuras saglabājat vai apmeklējat
+    .description = Saglabātās vai apmeklētās vietnes
 # Variables
 #   $num (number) - Number of rows to display
 newtab-custom-row-selector =
@@ -291,12 +291,12 @@ newtab-custom-weather-toggle =
     .label = Laikapstākļi
     .description = Šodienas prognoze ātrā acu uzmetienā
 newtab-custom-close-button = Aizvērt
-newtab-custom-settings = Pārvaldīt vēl iestatījumu
+newtab-custom-settings = Pārvaldīt vairāk iestatījumu
 
 ## New Tab Wallpapers
 
 newtab-wallpaper-title = Tapetes
-newtab-wallpaper-reset = Atiestatīt uz noklusējuma
+newtab-wallpaper-reset = Atiestatīt uz noklusējumu
 newtab-wallpaper-light-red-panda = Sarkana panda
 newtab-wallpaper-light-mountain = Balts kalns
 newtab-wallpaper-light-sky = Debesis ar violetiem un rozā mākoņiem
