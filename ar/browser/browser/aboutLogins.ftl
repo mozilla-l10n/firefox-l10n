@@ -436,6 +436,8 @@ about-logins-import-report-row-index = صف { $number }
 about-logins-import-report-row-description-no-change = متكرّر: مطابقة تامة لجلسة ولوج موجودة
 about-logins-import-report-row-description-modified = حُدّثت جلسة الولوج الموجودة
 about-logins-import-report-row-description-added = أُضيفت جلسة ولوج جديدة
+about-logins-import-report-row-description-no-change2 = متكرّر: مطابقة تامة للولوج الحالي
+about-logins-import-report-row-description-modified2 = حُدّثت الولوج الموجودة
 about-logins-import-report-row-description-error = خطأ: حقل مفقود
 
 ##
