@@ -284,6 +284,7 @@ appmenuitem-services-relay-description = Käynnistä sähköpostimaskien hallint
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Suojaa toimintaasi verkossa
 appmenu-services-header = Omat palvelut
+appmenu-other-protection-header = Kokeile muita { -vendor-short-name }n suojaustyökaluja:
 
 ## Profiles panel
 
