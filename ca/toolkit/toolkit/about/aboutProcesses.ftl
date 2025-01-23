@@ -10,6 +10,8 @@ about-processes-column-action =
 
 ## Tooltips
 
+about-processes-shutdown-process =
+    .title = Descarrega les pestanyes i finalitza el procés
 about-processes-shutdown-tab =
     .title = Tanca la pestanya
 
