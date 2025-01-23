@@ -434,20 +434,61 @@ pdfjs-editor-new-alt-text-dialog-edit-label = حرّر النص البديل (و
 pdfjs-editor-new-alt-text-dialog-add-label = أضِف النص البديل (وصف الصورة)
 pdfjs-editor-new-alt-text-textarea =
     .placeholder = اكتب وصفك هنا…
+# This text refers to the alt text box above this description. It offers a definition of alt text.
+pdfjs-editor-new-alt-text-description = وصف مختصر للأشخاص الذين لا يستطيعون رؤية الصورة أو عندما لا يتم تحميل الصورة.
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = اطّلع على المزيد
+pdfjs-editor-new-alt-text-create-automatically-button-label = أنشئ نص بديل تلقائيًا
 pdfjs-editor-new-alt-text-not-now-button = ليس الآن
+pdfjs-editor-new-alt-text-error-title = لم يتمكن من إنشاء نص بديل تلقائيًا
+pdfjs-editor-new-alt-text-error-description = يُرجى كتابة نص بديلك أو المحاولة مرة أخرى لاحقًا.
 pdfjs-editor-new-alt-text-error-close-button = أغلق
+# This is a button that users can click to edit the alt text they have already added.
+pdfjs-editor-new-alt-text-added-button =
+    .aria-label = أُضِيف نص بديل
+pdfjs-editor-new-alt-text-added-button-label = أُضِيف نص بديل
+# This is a button that users can click to open the alt text editor and add alt text when it is not present.
+pdfjs-editor-new-alt-text-missing-button =
+    .aria-label = نص بديل مفقود
+pdfjs-editor-new-alt-text-missing-button-label = نص بديل مفقود
+# This is a button that opens up the alt text modal where users should review the alt text that was automatically generated.
+pdfjs-editor-new-alt-text-to-review-button =
+    .aria-label = راجع النص البديل
+pdfjs-editor-new-alt-text-to-review-button-label = راجع النص البديل
+# "Created automatically" is a prefix that will be added to the beginning of any alt text that has been automatically generated. After the colon, the user will see/hear the actual alt text description. If the alt text has been edited by a human, this prefix will not appear.
+# Variables:
+#   $generatedAltText (String) - the generated alt-text.
+pdfjs-editor-new-alt-text-generated-alt-text-with-disclaimer = أُنشئ تلقائيًا: { $generatedAltText }
 
 ## Image alt-text settings
 
+pdfjs-image-alt-text-settings-button =
+    .title = إعدادات النص البديل للصورة
+pdfjs-image-alt-text-settings-button-label = إعدادات النص البديل للصورة
+pdfjs-editor-alt-text-settings-dialog-label = إعدادات النص البديل للصورة
+pdfjs-editor-alt-text-settings-automatic-title = نص بديل تلقائي
+pdfjs-editor-alt-text-settings-create-model-button-label = أنشئ نص بديل تلقائيًا
+pdfjs-editor-alt-text-settings-create-model-description = يقترح أوصافًا لمساعدة الأشخاص الذين لا يستطيعون رؤية الصورة أو عندما لا يتم تحميل الصورة.
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+pdfjs-editor-alt-text-settings-download-model-label = نموذج الذكاء الاصطناعي للنص البديل ({ $totalSize } م.بايت)
+pdfjs-editor-alt-text-settings-ai-model-description = يتم تشغيله محليًا على جهازك حتى تظل بياناتك خاصة. مطلوب للنص البديل التلقائي.
 pdfjs-editor-alt-text-settings-delete-model-button = احذف
 pdfjs-editor-alt-text-settings-download-model-button = نزّل
 pdfjs-editor-alt-text-settings-downloading-model-button = يُنزل…
 pdfjs-editor-alt-text-settings-editor-title = مُحرِّر النص البديل
+pdfjs-editor-alt-text-settings-show-dialog-button-label = أظهِر مُحرِّر النص البديل على الفور عند إضافة صورة
+pdfjs-editor-alt-text-settings-show-dialog-description = يساعدك على التأكد من أن جميع صورك تحتوي على نص بديل.
 pdfjs-editor-alt-text-settings-close-button = أغلق
 
 ## "Annotations removed" bar
 
+pdfjs-editor-undo-bar-message-highlight = أُزِيل البرز
+pdfjs-editor-undo-bar-message-freetext = أُزيل النص
+pdfjs-editor-undo-bar-message-ink = أُزِيلت الرسمة
+pdfjs-editor-undo-bar-message-stamp = أُزيلت الصورة
 pdfjs-editor-undo-bar-undo-button =
     .title = تراجع
 pdfjs-editor-undo-bar-undo-button-label = تراجع
+pdfjs-editor-undo-bar-close-button =
+    .title = أغلق
+pdfjs-editor-undo-bar-close-button-label = أغلق
