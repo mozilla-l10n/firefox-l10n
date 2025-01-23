@@ -8,14 +8,22 @@ about-reader-color-scheme-light = فاتح
     .title = مخطّط الألوان فاتح
 about-reader-color-scheme-dark = داكن
     .title = مخطّط الألوان داكن
+about-reader-color-scheme-sepia = بني داكن
+    .title = مخطّط ألوان بني داكن
+about-reader-color-scheme-auto = تلقائي
+    .title = مخطّط ألوان تلقائي
 about-reader-color-light-theme = فاتح
     .title = سمة فاتحة
 about-reader-color-dark-theme = داكن
     .title = سمة داكنة
+about-reader-color-sepia-theme = بني داكن
+    .title = مخطّط ألوان بني داكن
 about-reader-color-auto-theme = تلقائي
     .title = سمة تلقائية
 about-reader-color-gray-theme = رمادي
     .title = سمة رمادية
+about-reader-color-contrast-theme = التباين
+    .title = سمة التباين
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -50,11 +58,13 @@ about-reader-toolbar-lineheightplus =
 
 about-reader-font-type-serif = مذيّل
 about-reader-font-type-sans-serif = غير مذيّل
+about-reader-font-type-monospace = ثابت العرض
 
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = أغلق منظور القارئ
 about-reader-toolbar-type-controls = أزرار الخطوط
+about-reader-toolbar-text-layout-controls = النص والتخطيط
 about-reader-toolbar-theme-controls = السمة
 about-reader-toolbar-savetopocket = احفظ في { -pocket-brand-name }
 
@@ -106,3 +116,5 @@ about-reader-text-alignment-left =
     .title = حاذِ النص لليسار
 about-reader-text-alignment-center =
     .title = حاذِ النص للمنتصف
+about-reader-text-alignment-right =
+    .title = حاذِ النص لليمين
