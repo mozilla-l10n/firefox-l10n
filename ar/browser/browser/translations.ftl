@@ -198,6 +198,10 @@ select-translations-panel-translate-button =
     .label = ترجم
 select-translations-panel-try-again-button =
     .label = حاول مجددًا
+# Text displayed as a placeholder when the panel is idle.
+select-translations-panel-idle-placeholder-text = سيظهر النص المترجم هنا.
+# Text displayed as a placeholder when the panel is actively translating.
+select-translations-panel-translating-placeholder-text = نترجم…
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = حدثت مشكلة أثناء الترجمة. من فضلك حاول ثانية.
@@ -211,3 +215,6 @@ select-translations-panel-unsupported-language-message-known =
     .message = للأسف، لا ندعم { $language } بعد.
 select-translations-panel-unsupported-language-message-unknown =
     .message = معذرةً، لا ندعم هذه اللغة بعد.
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = إعدادات الترجمة
