@@ -8,6 +8,7 @@ protocolhandler-mailto-os-handler-no-button = ليس الآن
 ## Variables:
 ##  $url (String): The url of a webmailer, but only its full domain name.
 
+protocolhandler-mailto-handler-set = استخدم <strong>{ -brand-short-name } لفتح { $url }</strong> في كل مرة تنقر فيها على رابط يفتح بريدك الإلكتروني؟
 
 ##
 
