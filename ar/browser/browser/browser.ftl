@@ -655,6 +655,9 @@ urlbar-result-action-search-bookmarks = ابحث في العلامات
 urlbar-result-action-search-history = ابحث في التأريخ
 urlbar-result-action-search-tabs = ابحث في الألسنة
 urlbar-result-action-search-actions = إجراءات البحث
+# Label for a quickaction result used to re-opan a saved tab group.
+#  $group (String): the name of the tab group to re-open
+urlbar-result-action-open-saved-tabgroup = افتح { $group }
 
 ## Labels shown above groups of urlbar results
 

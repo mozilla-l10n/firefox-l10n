@@ -279,6 +279,7 @@ appmenuitem-sign-in-account = لِج إلى حسابك
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = احصل على تنبيهات تسريب البيانات
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = احمِ نشاطك على الإنترنت
 appmenu-services-header = خدماتي
 

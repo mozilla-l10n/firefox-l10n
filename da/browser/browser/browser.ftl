@@ -367,6 +367,10 @@ quickactions-cmd-viewsource = vis kildekode, kildekode
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Læs mere om Hurtige handlinger
+# Will be shown to users the first configurable number of times
+# they experience actions giving them instructions on how to
+# select the action shown by pressing the tab key.
+press-tab-label = Tryk på tabulator-tasten for at vælge:
 
 ## Bookmark Panel
 
