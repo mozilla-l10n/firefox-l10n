@@ -201,7 +201,7 @@ full-screen-exit =
 
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
-search-one-offs-with-title = الآن فقط ابحث باستعمال:
+search-one-offs-with-title = ابحث هذه المرة ب:
 search-one-offs-change-settings-compact-button =
     .tooltiptext = غيّر إعدادات البحث
 search-one-offs-context-open-new-tab =
@@ -626,6 +626,10 @@ urlbar-result-action-calculator-result = = { $result }
 # Label prompting user to search with a particular search engine.
 #  $engine (String): the name of a search engine that searches a specific site
 urlbar-result-search-with = ابحث مستخدمًا { $engine }
+# Label for the urlbar result row, prompting the user to use engine keywords to enter search mode.
+#  $keywords (String): the default keyword and user's set keyword if available
+#  $engine (String): the name of a search engine
+urlbar-result-search-with-engine-keywords = { $keywords } - ابحث مستعملًا { $engine }
 urlbar-searchmode-dropmarker =
     .tooltiptext = اختر محرك بحث
 urlbar-searchmode-bookmarks =
@@ -638,7 +642,7 @@ urlbar-searchmode-actions =
     .label = الإجراءات
 urlbar-searchmode-exit-button =
     .tooltiptext = أغلق
-urlbar-searchmode-popup-description = الآن فقط ابحث باستعمال:
+urlbar-searchmode-popup-description = ابحث هذه المرة ب:
 urlbar-searchmode-popup-search-settings = إعدادات البحث
 # Searchmode Switcher button
 # Variables:
