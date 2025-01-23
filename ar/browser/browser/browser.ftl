@@ -549,7 +549,7 @@ urlbar-placeholder-search-mode-other-actions =
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
-    .placeholder = ‫ابحث مستعملًا { $name } أو أدخِل عنوانا
+    .placeholder = ‫ابحث ب { $name } أو أدخِل عنوانا
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -575,14 +575,14 @@ urlbar-page-action-button =
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
 #  $engine (String): the name of a search engine
-urlbar-result-action-search-in-private-w-engine = ابحث مستعملًا { $engine } في نافذة خاصة
+urlbar-result-action-search-in-private-w-engine = ابحث ب { $engine } في نافذة خاصة
 # Used when the private browsing engine is the same as the default engine.
 urlbar-result-action-search-in-private = ابحث في نافذةٍ خاصة
 # The "with" format was chosen because the search engine name can end with
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
 #  $engine (String): the name of a search engine
-urlbar-result-action-search-w-engine = ابحث مستخدمًا { $engine }
+urlbar-result-action-search-w-engine = ابحث ب { $engine }
 urlbar-result-action-sponsored = نتيجة مموّلة
 urlbar-result-action-switch-tab = انتقل إلى اللسان
 urlbar-result-action-visit = زُر
@@ -598,7 +598,7 @@ urlbar-result-action-visit-from-clipboard = زر من الحافظة
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
-urlbar-result-action-before-tabtosearch-web = اضغط Tab للبحث باستعمال { $engine }
+urlbar-result-action-before-tabtosearch-web = اضغط Tab للبحث ب { $engine }
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
@@ -608,7 +608,7 @@ urlbar-result-action-before-tabtosearch-other = اضغط Tab للبحث عبر {
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
-urlbar-result-action-tabtosearch-web = ابحث مستعملًا { $engine } مباشرة من شريط العنوان
+urlbar-result-action-tabtosearch-web = ابحث ب { $engine } مباشرة من شريط العنوان
 # Variables
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
@@ -625,11 +625,11 @@ urlbar-result-action-calculator-result = = { $result }
 
 # Label prompting user to search with a particular search engine.
 #  $engine (String): the name of a search engine that searches a specific site
-urlbar-result-search-with = ابحث مستخدمًا { $engine }
+urlbar-result-search-with = ابحث ب { $engine }
 # Label for the urlbar result row, prompting the user to use engine keywords to enter search mode.
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
-urlbar-result-search-with-engine-keywords = { $keywords } - ابحث مستعملًا { $engine }
+urlbar-result-search-with-engine-keywords = { $keywords } - ابحث ب { $engine }
 urlbar-searchmode-dropmarker =
     .tooltiptext = اختر محرك بحث
 urlbar-searchmode-bookmarks =

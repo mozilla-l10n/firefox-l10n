@@ -11,12 +11,12 @@ about-private-browsing-search-btn =
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =
-    .title = ‫ابحث مستعملًا { $engine } أو أدخِل عنوانا
+    .title = ‫ابحث ب { $engine } أو أدخِل عنوانا
 about-private-browsing-handoff-no-engine =
     .title = ابحث أو أدخِل عنوانا
 # Variables
 #  $engine (String): the name of the user's default search engine
-about-private-browsing-handoff-text = ‫ابحث مستعملًا { $engine } أو أدخِل عنوانا
+about-private-browsing-handoff-text = ‫ابحث ب { $engine } أو أدخِل عنوانا
 about-private-browsing-handoff-text-no-engine = ابحث أو أدخِل عنوانا
 about-private-browsing-not-private = لستَ حاليا في نافذة خاصة.
 about-private-browsing-info-description-private-window = نافذة خاصة: يمسح { -brand-short-name } تأريخ البحث والتصفح عند إغلاق جميع النوافذ الخاصة. هذا لا يجعلك مجهول الهوية.
