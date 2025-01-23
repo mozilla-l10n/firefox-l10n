@@ -337,6 +337,10 @@ pdfjs-editor-stamp-add-image-button-label = أضِف صورة
 pdfjs-editor-free-highlight-thickness-input = السماكة
 pdfjs-editor-free-highlight-thickness-title =
     .title = غيّر السُمك عند إبراز عناصر أُخرى غير النص
+# .default-content is used as a placeholder in an empty text editor.
+pdfjs-free-text2 =
+    .aria-label = محرِّر النص
+    .default-content = ابدأ في كتابة…
 pdfjs-free-text =
     .aria-label = محرِّر النص
 pdfjs-free-text-default-content = ابدأ الكتابة…
@@ -348,6 +352,8 @@ pdfjs-ink-canvas =
 ## Alt-text dialog
 
 pdfjs-editor-alt-text-button-label = نص بديل
+pdfjs-editor-alt-text-edit-button =
+    .aria-label = حرّر النص البديل
 pdfjs-editor-alt-text-edit-button-label = تحرير النص البديل
 pdfjs-editor-alt-text-dialog-label = اختر خيار
 pdfjs-editor-alt-text-dialog-description = يساعد النص البديل عندما لا يتمكن الأشخاص من رؤية الصورة أو عندما لا يتم تحميلها.
@@ -361,6 +367,9 @@ pdfjs-editor-alt-text-decorative-tooltip = عُلّمت على أنها زخرف
 # .placeholder: This is a placeholder for the alt text input area
 pdfjs-editor-alt-text-textarea =
     .placeholder = على سبيل المثال، "يجلس شاب على الطاولة لتناول وجبة"
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button =
+    .aria-label = نص بديل
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
@@ -419,9 +428,26 @@ pdfjs-editor-highlight-show-all-button =
 ## New alt-text dialog
 ## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
 
+# Modal header positioned above a text box where users can edit the alt text.
+pdfjs-editor-new-alt-text-dialog-edit-label = حرّر النص البديل (وصف الصورة)
+# Modal header positioned above a text box where users can add the alt text.
+pdfjs-editor-new-alt-text-dialog-add-label = أضِف النص البديل (وصف الصورة)
+pdfjs-editor-new-alt-text-textarea =
+    .placeholder = اكتب وصفك هنا…
+pdfjs-editor-new-alt-text-disclaimer-learn-more-url = اطّلع على المزيد
+pdfjs-editor-new-alt-text-not-now-button = ليس الآن
+pdfjs-editor-new-alt-text-error-close-button = أغلق
 
 ## Image alt-text settings
 
+pdfjs-editor-alt-text-settings-delete-model-button = احذف
+pdfjs-editor-alt-text-settings-download-model-button = نزّل
+pdfjs-editor-alt-text-settings-downloading-model-button = يُنزل…
+pdfjs-editor-alt-text-settings-editor-title = مُحرِّر النص البديل
+pdfjs-editor-alt-text-settings-close-button = أغلق
 
 ## "Annotations removed" bar
 
+pdfjs-editor-undo-bar-undo-button =
+    .title = تراجع
+pdfjs-editor-undo-bar-undo-button-label = تراجع
