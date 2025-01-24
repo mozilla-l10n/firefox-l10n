@@ -133,6 +133,8 @@ sidebar-menu-history-header =
     .heading = Ιστορικό
 sidebar-menu-syncedtabs-header =
     .heading = Καρτέλες από άλλες συσκευές
+sidebar-menu-bookmarks-header =
+    .heading = Σελιδοδείκτες
 sidebar-panel-header-close-button =
     .tooltiptext = Κλείσιμο
 

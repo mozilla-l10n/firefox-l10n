@@ -468,6 +468,9 @@ newtab-section-unfollow-button = Άρση παρακολούθησης
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
 ## e.g. Blocked the politics section of stories.
 
+newtab-section-block-button = Φραγή
+newtab-section-blocked-button = Φραγή
+newtab-section-unblock-button = Άρση φραγής
 
 ## Confirmation modal for blocking a section
 
@@ -478,3 +481,10 @@ newtab-section-cancel-button = Όχι τώρα
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+newtab-section-mangage-topics-title = Θέματα
+newtab-section-mangage-topics-button =
+    .label = Παρακολουθούμενα και αποκλεισμένα θέματα
+newtab-section-mangage-topics-followed-topics-subtitle = Παρακολουθούμενα θέματα
+newtab-section-mangage-topics-followed-topics-empty-state = Δεν έχετε παρακολουθήσει κανένα θέμα ακόμα.
+newtab-section-mangage-topics-blocked-topics-subtitle = Αποκλεισμένα θέματα
+newtab-section-mangage-topics-blocked-topics-empty-state = Δεν έχετε αποκλείσει κανένα θέμα ακόμα.

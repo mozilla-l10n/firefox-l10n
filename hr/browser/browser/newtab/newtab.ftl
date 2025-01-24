@@ -469,6 +469,9 @@ newtab-section-unfollow-button = Prestani pratiti
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
 ## e.g. Blocked the politics section of stories.
 
+newtab-section-block-button = Blokiraj
+newtab-section-blocked-button = Blokirano
+newtab-section-unblock-button = Odblokiraj
 
 ## Confirmation modal for blocking a section
 
@@ -479,3 +482,10 @@ newtab-section-cancel-button = Ne sada
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+newtab-section-mangage-topics-title = Teme
+newtab-section-mangage-topics-button =
+    .label = Praćene i blokirane teme
+newtab-section-mangage-topics-followed-topics-subtitle = Praćene teme
+newtab-section-mangage-topics-followed-topics-empty-state = Još nisi pratio/la nijednu temu.
+newtab-section-mangage-topics-blocked-topics-subtitle = Blokirane teme
+newtab-section-mangage-topics-blocked-topics-empty-state = Još nisi blokirao/la nijednu temu.

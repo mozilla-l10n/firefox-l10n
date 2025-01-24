@@ -24,8 +24,14 @@ firefox-relay-opt-in-title-1 = Προστασία διεύθυνσης email:
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Χρήση μάσκας email του { -relay-brand-name }
 firefox-relay-use-mask-title = Χρήση μάσκας email του { -relay-brand-name }
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
+firefox-relay-opt-in-title-a = Αποτρέψτε ανεπιθύμητα μηνύματα με μια δωρεάν μάσκα email
+# This is preceded by firefox-relay-opt-in-title-a (on a different line)
+firefox-relay-opt-in-subtitle-a = Αποκρύψτε την πραγματική διεύθυνση email σας
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
 firefox-relay-opt-in-title-b = Αποκτήστε μια δωρεάν μάσκα email
+# This is preceded by firefox-relay-opt-in-title-b (on a different line)
+firefox-relay-opt-in-subtitle-b = Προστατέψτε τα εισερχόμενά σας από ανεπιθύμητα μηνύματα
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Χρήση μάσκας email
     .accesskey = Χ
@@ -35,6 +41,9 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Όχι τώρα
     .accesskey = χ
+firefox-relay-and-fxa-opt-in-confirmation-enable-button =
+    .label = Σύνδεση στο { -brand-product-name } και χρήση μάσκας
+    .accesskey = Σ
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
     .label = Εγγραφή
     .accesskey = Ε

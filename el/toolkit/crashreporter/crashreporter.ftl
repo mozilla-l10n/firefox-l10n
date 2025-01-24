@@ -8,6 +8,7 @@ crashreporter-crashed-and-restore = Το { -brand-short-name } αντιμετώ�
 crashreporter-plea = Για να μας βοηθήσετε στη διάγνωση και την επίλυση του προβλήματος, μπορείτε να μας στείλετε μια αναφορά κατάρρευσης.
 crashreporter-information = Αυτή η εφαρμογή εκτελείται μετά από μια κατάρρευση για την αναφορά του προβλήματος στη { -vendor-short-name }. Δεν θα πρέπει να εκτελείται χειροκίνητα.
 crashreporter-error = Το { -brand-short-name } αντιμετώπισε ένα πρόβλημα και κατέρρευσε. Δυστυχώς, η εφαρμογή αναφοράς καταρρεύσεων δεν μπορεί να υποβάλει αναφορά για αυτήν την κατάρρευση.
+crashreporter-error-details-header = Λεπτομέρειες:
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Λεπτομέρειες: { $details }
 crashreporter-no-run-message = Αυτή η εφαρμογή εκτελείται μετά από μια κατάρρευση για την αναφορά του προβλήματος στον δημιουργό της εφαρμογής. Δεν θα πρέπει να εκτελείται χειροκίνητα.
