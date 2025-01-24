@@ -1332,6 +1332,13 @@ collection-studies-link = Ver estudos do { -brand-short-name }
 addon-recommendations2 =
     .label = Permitir recomendações personalizadas de extensões
 addon-recommendations-description = Receber recomendações de extensões para melhorar sua experiência de navegação.
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled2 = O relatório de dados está desativado na configuração desta versão.
+collection-backlogged-crash-reports2 =
+    .label = Enviar relatórios de falhas automaticamente
+    .accesskey = f
+collection-backlogged-crash-reports-description = Isso ajuda a { -vendor-short-name } a diagnosticar e resolver problemas relacionados ao navegador. Os relatórios podem conter dados pessoais ou sensíveis.
 addon-recommendations =
     .label = Permitir que o { -brand-short-name } faça recomendações personalizadas de extensões
 addon-recommendations-link = Saiba mais

@@ -133,6 +133,8 @@ sidebar-menu-history-header =
     .heading = היסטוריה
 sidebar-menu-syncedtabs-header =
     .heading = לשוניות ממכשירים אחרים
+sidebar-menu-bookmarks-header =
+    .heading = סימניות
 sidebar-panel-header-close-button =
     .tooltiptext = סגירה
 

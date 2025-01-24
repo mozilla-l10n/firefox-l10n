@@ -74,6 +74,13 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = ביטול השתקת לשונית
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = השתקת לשונית
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = ניגון לשונית
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -201,6 +208,17 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = ביטול
     .accesskey = ב
+tab-group-editor-color-selector =
+    .aria-label = צבע קבוצת לשוניות
+tab-group-editor-color-selector-blue = כחול
+tab-group-editor-color-selector-purple = סגול
+tab-group-editor-color-selector-cyan = ציאן
+tab-group-editor-color-selector-orange = כתום
+tab-group-editor-color-selector-yellow = צהוב
+tab-group-editor-color-selector-pink = ורוד
+tab-group-editor-color-selector-green = ירוק
+tab-group-editor-color-selector-gray = אפור
+tab-group-editor-color-selector-red = אדום
 tab-group-menu-header = קבוצות לשוניות
 tab-context-unnamed-group =
     .label = קבוצה ללא שם

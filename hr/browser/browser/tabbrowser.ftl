@@ -81,6 +81,13 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = Uključi zvuk kartice
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = Isključi zvuk kartice
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = Reproduciraj karticu
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -225,6 +232,17 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Odustani
     .accesskey = O
+tab-group-editor-color-selector =
+    .aria-label = Boja grupe kartica
+tab-group-editor-color-selector-blue = Plava
+tab-group-editor-color-selector-purple = Ljubičasta
+tab-group-editor-color-selector-cyan = Cijan
+tab-group-editor-color-selector-orange = Narančasta
+tab-group-editor-color-selector-yellow = Žuta
+tab-group-editor-color-selector-pink = Ružičasta
+tab-group-editor-color-selector-green = Zelena
+tab-group-editor-color-selector-gray = Siva
+tab-group-editor-color-selector-red = Crvena
 tab-group-menu-header = Grupe kartica
 tab-context-unnamed-group =
     .label = Neimenovana grupa

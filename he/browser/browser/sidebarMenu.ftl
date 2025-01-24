@@ -4,6 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = סימניות
+sidebar-menu-bookmarks-2 = סימניות
 sidebar-menu-history =
     .label = היסטוריה
 sidebar-menu-synced-tabs =
