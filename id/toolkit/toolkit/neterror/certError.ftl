@@ -18,6 +18,9 @@ cert-error-trust-signature-algorithm-disabled = Sertifikat tidak dapat dipercaya
 cert-error-trust-expired-issuer = Sertifikat tidak dapat dipercaya karena sertifikat penerbit telah kedaluwarsa.
 cert-error-trust-self-signed = Sertifikat tidak dapat dipercaya karena hanya ditandatangani sendiri.
 cert-error-trust-symantec = Sertifikat yang diterbitkan oleh GeoTrust, RapidSSL, Symantec, Thawte, dan VeriSign tidak lagi dianggap aman karena dahulu pewenang sertifikat tersebut gagal mematuhi praktik keamanan.
+# Variables:
+#   $hostname (string) - Hostname of the website with cert error.
+cert-error-trust-certificate-transparency = { -brand-short-name } tidak mempercayai { $hostname } karena tidak dapat membuktikan bahwa itu memenuhi persyaratan transparansi sertifikat publik.
 cert-error-untrusted-default = Sertifikat tidak didapat dari sumber yang terpercaya.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -68,6 +71,8 @@ open-in-new-window-for-csp-or-xfo-error = Buka Situs di Jendela Baru
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Untuk melindungi keamanan Anda, { $hostname } tidak akan mengizinkan { -brand-short-name } untuk menampilkan laman jika situs lain telah menyematkannya. Untuk melihat laman ini, Anda harus membukanya di jendela baru.
+fp-certerror-view-certificate-link = Lihat sertifikat situs
+fp-certerror-return-to-previous-page-recommended-button = Kembali (Disarankan)
 
 ## Messages used for certificate error titles
 

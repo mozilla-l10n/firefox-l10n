@@ -354,6 +354,7 @@ pdfjs-editor-alt-text-edit-button =
     .aria-label = Edit teks alternatif
 pdfjs-editor-alt-text-edit-button-label = Edit teks alternatif
 pdfjs-editor-alt-text-dialog-label = Pilih opsi
+pdfjs-editor-alt-text-dialog-description = Teks alternatif membantu ketika orang tidak dapat melihat gambar atau ketika tidak termuat.
 pdfjs-editor-alt-text-add-description-label = Tambahkan deskripsi
 pdfjs-editor-alt-text-add-description-description = Upayakan 1-2 kalimat yang menggambarkan subjek, latar, atau tindakan.
 pdfjs-editor-alt-text-mark-decorative-label = Tandai sebagai dekoratif
@@ -472,6 +473,11 @@ pdfjs-image-alt-text-settings-button-label = Pengaturan teks alternatif gambar
 pdfjs-editor-alt-text-settings-dialog-label = Pengaturan teks alternatif gambar
 pdfjs-editor-alt-text-settings-automatic-title = Teks alternatif otomatis
 pdfjs-editor-alt-text-settings-create-model-button-label = Buat teks alternatif secara otomatis
+pdfjs-editor-alt-text-settings-create-model-description = Menyarankan deskripsi untuk membantu orang yang tidak dapat melihat gambar atau ketika gambar tidak termuat.
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+pdfjs-editor-alt-text-settings-download-model-label = Model AI teks alternatif ({ $totalSize } MB)
+pdfjs-editor-alt-text-settings-ai-model-description = Berjalan secara lokal di perangkat Anda sehingga data Anda tetap pribadi. Diperlukan untuk teks alternatif otomatis.
 pdfjs-editor-alt-text-settings-delete-model-button = Hapus
 pdfjs-editor-alt-text-settings-download-model-button = Unduh
 pdfjs-editor-alt-text-settings-downloading-model-button = Mengunduh…
