@@ -98,6 +98,13 @@ tab-group-editor-name-label = പേരു്
 tab-group-editor-cancel =
     .label = റദ്ദാക്കുക
     .accesskey = റ
+tab-group-editor-color-selector-purple = പര്‍പ്പിള്‍
+tab-group-editor-color-selector-orange = ഓറഞ്ച്
+tab-group-editor-color-selector-yellow = മഞ്ഞ
+tab-group-editor-color-selector-pink = ഇളം ചുവപ്പു്
+tab-group-editor-color-selector-green = പച്ച
+tab-group-editor-color-selector-gray = ചാരം
+tab-group-editor-color-selector-red = ചുവപ്പ്
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
