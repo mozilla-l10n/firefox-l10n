@@ -12,6 +12,7 @@ neterror-blocked-by-policy-page-title = Саҳифаи манъшуда
 neterror-captive-portal-page-title = Ворид шудан ба шабака
 neterror-dns-not-found-title = Сервер ёфт нашуд
 neterror-malformed-uri-page-title = Нишонии URL беэътибор аст
+general-body-title = Эҳтиёт шавед. Чизе нодуруст ба назар мерасад.
 
 ## Error page actions
 

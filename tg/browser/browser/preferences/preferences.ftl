@@ -1321,9 +1321,18 @@ collection-health-report =
     .label = Иҷозат додан ба «{ -brand-short-name }» барои фиристодани маълумоти техникӣ ва якҷояамалкунӣ ба «{ -vendor-short-name }»
     .accesskey = r
 collection-health-report-link = Маълумоти бештар
+collection-studies2 =
+    .label = Насб ва иҷро кардани омӯзишҳо
 collection-studies =
     .label = Иҷозат додан ба «{ -brand-short-name }» барои насб ва иҷро кардани таҳқиқот
 collection-studies-link = Дидани таҳқиқоти «{ -brand-short-name }»
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled2 = Гузоришдиҳии маълумот барои ин танзими сохт ғайрифаъол карда шуд.
+collection-backlogged-crash-reports2 =
+    .label = Ба таври худкор фиристодани гузоришҳо дар бораи вайронӣ
+    .accesskey = Б
+collection-backlogged-crash-reports-description = Ин ба «{ -vendor-short-name }» барои ташхис ва ислоҳ кардани хатоҳои браузер кумак мекунад. Гузоришҳо метавонанд маълумоти шахсӣ ва махфиро дар бар гиранд.
 addon-recommendations =
     .label = Иҷозат додан ба «{ -brand-short-name }» барои пешниҳод кардани тавсияҳои шахсӣ оид ба васеъшавиҳо
 addon-recommendations-link = Маълумоти бештар
