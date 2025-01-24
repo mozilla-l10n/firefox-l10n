@@ -73,6 +73,8 @@ sidebar-callout-survey-privacy-notice-link = Avís de privadesa
 sidebar-callout-survey-very-satisfied = Molt satisfet/a
 sidebar-callout-survey-satisfied = Satisfet/a
 sidebar-callout-survey-neutral = Neutre/a
+sidebar-callout-survey-dissatisfied-2 = Insatisfet/a
+sidebar-callout-survey-very-dissatisfied-2 = Molt insatisfet/a
 sidebar-callout-survey-dont-use-it = No l’utilitzo
 sidebar-callout-survey-productive-question =
     Fins a quin punt esteu d'acord o en desacord amb aquesta afirmació:<br/>
@@ -82,3 +84,4 @@ sidebar-callout-survey-agree = Hi estic d’acord
 sidebar-callout-survey-disagree = Hi estic en desacord
 sidebar-callout-survey-strongly-disagree = Hi estic molt en desacord
 sidebar-callout-survey-features-question = Les següents són funcions potencials de la barra lateral. Què milloraria més la vostra productivitat al { -brand-short-name }?
+sidebar-callout-survey-submit = Envia

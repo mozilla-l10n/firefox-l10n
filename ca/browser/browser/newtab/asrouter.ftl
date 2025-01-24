@@ -274,12 +274,27 @@ tail-fox-spotlight-secondary-button = Ara no
 
 ## Root Certificate Succession Infobar
 
+root-certificate-succession-infobar-primary-button =
+    .label = Actualitza ara
+    .accesskey = u
+root-certificate-succession-infobar-secondary-button =
+    .label = Més tard
+    .accesskey = M
 
 ## Root Certificate Succession Windows Background Notification
 
+root-certificate-windows-background-notification-learn-more-button = Més informació
+root-certificate-windows-background-notification-update-button = Actualitza el { -brand-short-name }
 
 ## FxA Menu Message variants
 
+fxa-menu-message-close-button =
+    .title = Tanca
+    .aria-label = Tanca
+fxa-menu-message-sign-up-button = Registre
+fxa-menu-message-sync-devices-primary-text = Sincronitzeu tots els dispositius
 
 ## Multi-CTA Fox Doodle Spotlight
 
+multi-cta-fox-doodle-title = Ben tornat
+multi-cta-fox-doodle-set-default-checkbox = Defineix el { -brand-short-name } com a navegador per defecte
