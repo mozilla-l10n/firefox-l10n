@@ -133,6 +133,8 @@ sidebar-menu-history-header =
     .heading = Historija
 sidebar-menu-syncedtabs-header =
     .heading = Rejtariki z drugich rědow
+sidebar-menu-bookmarks-header =
+    .heading = Cytańske znamjenja
 sidebar-panel-header-close-button =
     .tooltiptext = Zacyniś
 

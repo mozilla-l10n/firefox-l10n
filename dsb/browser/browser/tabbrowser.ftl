@@ -88,6 +88,13 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = Rejtarik głosny cyniś
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = Rejtarik nimy cyniś
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = Rejtarik wótgraś
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -235,6 +242,17 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Pśetergnuś
     .accesskey = P
+tab-group-editor-color-selector =
+    .aria-label = Barwa kupki rejtarikow
+tab-group-editor-color-selector-blue = Módry
+tab-group-editor-color-selector-purple = Purpurowy
+tab-group-editor-color-selector-cyan = Cyan
+tab-group-editor-color-selector-orange = Oranžowy
+tab-group-editor-color-selector-yellow = Žołty
+tab-group-editor-color-selector-pink = Pink
+tab-group-editor-color-selector-green = Zeleny
+tab-group-editor-color-selector-gray = Šery
+tab-group-editor-color-selector-red = Cerwjeny
 tab-group-menu-header = Kupki rejtarikow
 tab-context-unnamed-group =
     .label = Kupka bźez mjenja

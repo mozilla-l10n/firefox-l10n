@@ -468,6 +468,9 @@ newtab-section-unfollow-button = Unfollow
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
 ## e.g. Blocked the politics section of stories.
 
+newtab-section-block-button = Block
+newtab-section-blocked-button = Blocked
+newtab-section-unblock-button = Unblock
 
 ## Confirmation modal for blocking a section
 

@@ -12,6 +12,7 @@ neterror-blocked-by-policy-page-title = Zablokěrowany bok
 neterror-captive-portal-page-title = Se pla seśi pśizjawiś
 neterror-dns-not-found-title = Serwer njejo se namakał
 neterror-malformed-uri-page-title = Njepłaśiwy URL
+general-body-title = Buźćo wobglědniwy. Něco njejo w pórěźe.
 
 ## Error page actions
 

@@ -8,6 +8,7 @@ crashreporter-crashed-and-restore = { -brand-short-name } jo měł problem a jo 
 crashreporter-plea = Aby nam pomagał problem diagnosticěrowaś a rozwězaś, móžośo nam rozpšawu wó wowalenju pósłaś.
 crashreporter-information = Toś to nałoženje jo pó wowalenju běžało, aby { -vendor-short-name } problem k wěsći dało. Njeby měło direktnje běžaś.
 crashreporter-error = { -brand-short-name } jo měło problem a jo se wowaliło. Bóžko rozpšawjak wowalenjow njejo mógał rozpšawu wó toś tom wowalenju pósłaś.
+crashreporter-error-details-header = Drobnostki:
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Drobnostki: { $details }
 crashreporter-no-run-message = Toś to nałoženje jo pó wowalenju běžało, aby zgótowarjeju nałoženja problem k wěsći dało. Njeby měło direktnje běžaś.

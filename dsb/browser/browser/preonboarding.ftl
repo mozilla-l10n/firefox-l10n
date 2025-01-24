@@ -1,0 +1,20 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+## Preonboarding modal screen strings
+
+preonboarding-title = Witajśo k { -brand-product-name }
+preonboarding-primary-cta = Wobkšuśiś a pókšacowaś
+# Label for header style button that toggles showing the Terms of Use
+preonboarding-terms-of-use-header-button-title = Cytajśo naše wužywańske wuměnjenja
+# Label for header style button that toggles showing the Privacy Notice
+preonboarding-privacy-notice-header-button-title = Cytajśo našu powěźeńku priwatnosći
+# Label for header style button that toggles showing the data preference checklist
+preonboarding-manage-data-header-button-title = Diagnostiske daty a daty interakcije zastojaś
+# New user onboarding checklist
+preonboarding-checklist-interaction-data-label = Techniske daty a daty interakcije na { -vendor-short-name } pósłaś
+preonboarding-checklist-interaction-data-description = Daty wó wašom rěźe, wašej hardwarowej konfiguraciji a wó tom, kak { -brand-product-name } wužywaśo, wšuźi pomagaju, funkcije, wugbaśe a stabilnosć za wužywarjow pólěpšyś.
+preonboarding-checklist-crash-reports-label = Rozpšawy wowalenjow awtomatiski pósłaś
+preonboarding-checklist-crash-reports-description = Rozpšawy wowalenjow wam zmóžnjaju, problemy z wobglědowakom diagnosticěrowaś a rozwězaś. Rozpšawy mógu wósobinske abo sensibelne daty wopśimowaś.

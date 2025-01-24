@@ -6,7 +6,7 @@
 ## Preonboarding modal screen strings
 
 preonboarding-title = Witajće k { -brand-product-name }
-preonboarding-primary-cta = Wobkročować a pokročować
+preonboarding-primary-cta = Wobkrućić a pokročować
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Čitajće naše wužiwanske wuměnjenja
 # Label for header style button that toggles showing the Privacy Notice

@@ -1320,13 +1320,26 @@ collection-privacy-notice = Powěźeńka priwatnosći
 collection-health-report-telemetry-disabled = Sćo zajmjeł { -vendor-short-name } dowólnosć, techniske a interakciske daty gromaźiś. Wšykne dotychměst zgromaźone daty se w běgu 30 dnjow wulašuju.
 collection-health-report-telemetry-disabled-link = Dalšne informacije
 collection-usage-ping-description = To { -vendor-short-name } pomaga, se aktiwne wužywarje wažyś.
+collection-health-report2 =
+    .label = Techniske daty a daty interakcije na { -vendor-short-name } pósłaś
+    .accesskey = T
 collection-health-report =
     .label = { -brand-short-name } zmóžniś, techniske a interakciske daty na { -vendor-short-name } pósłaś
     .accesskey = t
 collection-health-report-link = Dalšne informacije
+collection-studies2 =
+    .label = Studije instalěrowaś a pśewjasć
+collection-studies-description = Testujśo funkcije a ideje, nježli až se za wše wózjawjaju.
 collection-studies =
     .label = { -brand-short-name } dowóliś, studije instalěrowaś a pśewjasć
 collection-studies-link = Studije { -brand-short-name } pokazaś
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled2 = Datowe rozpšawjenje jo znjemóžnjone za toś tu programowu konfiguraciju.
+collection-backlogged-crash-reports2 =
+    .label = Rozpšawy wowalenjow awtomatiski pósłaś
+    .accesskey = z
+collection-backlogged-crash-reports-description = To { -vendor-short-name } pomaga problemy z wobglědowakom diagnosticěrowaś a rozwězaś. Rozpšawy mógu wósobinske abo sensibelne daty wopśimowaś.
 addon-recommendations =
     .label = { -brand-short-name } dowóliś, personalizěrowane pśiraźenja za rozšyrjenja daś
 addon-recommendations-link = Dalšne informacije

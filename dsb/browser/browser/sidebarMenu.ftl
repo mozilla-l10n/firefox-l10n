@@ -4,6 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = Cytańske znamjenja
+sidebar-menu-bookmarks-2 = Cytańske znamjenja
 sidebar-menu-history =
     .label = Historija
 sidebar-menu-synced-tabs =
