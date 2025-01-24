@@ -260,6 +260,9 @@ newtab-pocket-thumbs-up-tooltip =
 # Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
 newtab-pocket-thumbs-down-tooltip =
     .title = Neat foar my
+# Used to show the user a message upon clicking the thumbs up or down buttons
+newtab-toast-thumbs-up-or-down2 =
+    .message = Tank. Jo feedback sil ús helpe om jo feed te ferbetterjen.
 newtab-toast-thumbs-up-or-down = Tank. Jo feedback sil ús helpe om jo feed te ferbetterjen.
 newtab-toast-dismiss-button =
     .title = Slute
@@ -461,9 +464,17 @@ newtab-section-follow-button = Folgje
 newtab-section-following-button = Folgjend
 newtab-section-unfollow-button = Untfolgje
 
+## Button to block/unblock listed topics
+## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
+## e.g. Blocked the politics section of stories.
+
+
 ## Confirmation modal for blocking a section
 
 newtab-section-confirm-block-section-p1 = Binne jo wis dat jo dizze seksje blokkearje wolle?
 newtab-section-confirm-block-section-p2 = Blokkearre seksje sil net mear yn jo feed. ferskine
 newtab-section-block-section-button = Dizze seksje blokkearje
 newtab-section-cancel-button = No net
+
+## Panel in the Customize menu section to manage followed and blocked topics
+

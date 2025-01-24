@@ -249,6 +249,9 @@ newtab-pocket-thumbs-up-tooltip =
 # Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
 newtab-pocket-thumbs-down-tooltip =
     .title = Није за мене
+# Used to show the user a message upon clicking the thumbs up or down buttons
+newtab-toast-thumbs-up-or-down2 =
+    .message = Хвала. Ваше повратне информације помоћи ће нам да побољшамо предлоге.
 newtab-toast-thumbs-up-or-down = Хвала. Ваше повратне информације помоћи ће нам да побољшамо предлоге.
 newtab-toast-dismiss-button =
     .title = Одбаци
@@ -448,5 +451,13 @@ newtab-topic-selection-button-pick-interests = Одаберите ваша ин�
 ## e.g. Following the travel section of stories.
 
 
+## Button to block/unblock listed topics
+## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
+## e.g. Blocked the politics section of stories.
+
+
 ## Confirmation modal for blocking a section
+
+
+## Panel in the Customize menu section to manage followed and blocked topics
 

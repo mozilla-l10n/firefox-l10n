@@ -261,6 +261,9 @@ newtab-pocket-thumbs-up-tooltip =
 # Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
 newtab-pocket-thumbs-down-tooltip =
     .title = Ikke noget for mig
+# Used to show the user a message upon clicking the thumbs up or down buttons
+newtab-toast-thumbs-up-or-down2 =
+    .message = Tak. Din tilbagemelding hjælper os med at forbedre dit feed.
 newtab-toast-thumbs-up-or-down = Tak. Din tilbagemelding hjælper os med at forbedre dit feed.
 newtab-toast-dismiss-button =
     .title = Afvis
@@ -462,9 +465,17 @@ newtab-section-follow-button = Følg
 newtab-section-following-button = Følger
 newtab-section-unfollow-button = Stop med at følge
 
+## Button to block/unblock listed topics
+## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
+## e.g. Blocked the politics section of stories.
+
+
 ## Confirmation modal for blocking a section
 
 newtab-section-confirm-block-section-p1 = Er du sikker på, at du vil blokere dette afsnit
 newtab-section-confirm-block-section-p2 = Det blokerede afsnit vil ikke længere blive vist i dit feed.
 newtab-section-block-section-button = Bloker dette afsnit
 newtab-section-cancel-button = Ikke nu
+
+## Panel in the Customize menu section to manage followed and blocked topics
+

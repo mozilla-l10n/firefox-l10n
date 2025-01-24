@@ -259,6 +259,9 @@ newtab-pocket-thumbs-up-tooltip =
 # Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
 newtab-pocket-thumbs-down-tooltip =
     .title = ਮੇਰੇ ਲਈ ਨਹੀਂ
+# Used to show the user a message upon clicking the thumbs up or down buttons
+newtab-toast-thumbs-up-or-down2 =
+    .message = ਧੰਨਵਾਦ! ਤੁਹਾਡਾ ਸੁਝਾਅ ਸਾਡੀ ਫੀਡ ਸੁਧਾਰਨ ਲਈ ਮਦਦਗਾਰ ਹੋਵੇਗਾ।
 newtab-toast-thumbs-up-or-down = ਧੰਨਵਾਦ! ਤੁਹਾਡਾ ਸੁਝਾਅ ਸਾਡੀ ਫੀਡ ਸੁਧਾਰਨ ਲਈ ਮਦਦਗਾਰ ਹੋਵੇਗਾ।
 newtab-toast-dismiss-button =
     .title = ਖ਼ਾਰਜ ਕਰੋ
@@ -460,9 +463,17 @@ newtab-section-follow-button = ਫ਼ਾਲੋ ਕਰੋ
 newtab-section-following-button = ਫ਼ਾਲੋ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
 newtab-section-unfollow-button = ਅਣ-ਫ਼ਾਲੋ ਕਰੋ
 
+## Button to block/unblock listed topics
+## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
+## e.g. Blocked the politics section of stories.
+
+
 ## Confirmation modal for blocking a section
 
 newtab-section-confirm-block-section-p1 = ਕੀ ਤੁਸੀਂ ਇਸ ਭਾਗ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?
 newtab-section-confirm-block-section-p2 = ਪਾਬੰਦੀ ਲਗਾਇਆ ਭਾਗ ਤੁਹਾਡੀ ਫੀਡ ਵਿੱਚ ਦਿਕਾਈ ਨਹੀਂ ਦੇਵੇਗਾ।
 newtab-section-block-section-button = ਇਸ ਭਾਗ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਓ
 newtab-section-cancel-button = ਹੁਣੇ ਨਹੀਂ
+
+## Panel in the Customize menu section to manage followed and blocked topics
+

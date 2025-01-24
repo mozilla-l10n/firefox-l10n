@@ -258,6 +258,9 @@ newtab-pocket-thumbs-up-tooltip =
 # Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
 newtab-pocket-thumbs-down-tooltip =
     .title = Ман ҳавасманд нестам
+# Used to show the user a message upon clicking the thumbs up or down buttons
+newtab-toast-thumbs-up-or-down2 =
+    .message = Ташаккур. Фикру мулоҳизаҳои шумо ба мо барои беҳтар кардани навори хабарҳои шумо ёрӣ медиҳанд.
 newtab-toast-thumbs-up-or-down = Ташаккур. Фикру мулоҳизаҳои шумо ба мо барои беҳтар кардани навори хабарҳои шумо ёрӣ медиҳанд.
 newtab-toast-dismiss-button =
     .title = Нодида гузарондан
@@ -459,9 +462,17 @@ newtab-section-follow-button = Обуна шавед
 newtab-section-following-button = Обуна шуд
 newtab-section-unfollow-button = Бекор кардани обуна
 
+## Button to block/unblock listed topics
+## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
+## e.g. Blocked the politics section of stories.
+
+
 ## Confirmation modal for blocking a section
 
 newtab-section-confirm-block-section-p1 = Шумо мутмаин ҳастед, ки мехоҳед ин қисматро манъ кунед?
 newtab-section-confirm-block-section-p2 = Қисмати манъшуда дигар дар навори хабарҳои шумо пайдо намешавад.
 newtab-section-block-section-button = Манъ кардани ин қисмат
 newtab-section-cancel-button = Ҳоло не
+
+## Panel in the Customize menu section to manage followed and blocked topics
+

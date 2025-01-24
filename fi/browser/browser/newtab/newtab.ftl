@@ -260,6 +260,9 @@ newtab-pocket-thumbs-up-tooltip =
 # Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
 newtab-pocket-thumbs-down-tooltip =
     .title = Ei minulle
+# Used to show the user a message upon clicking the thumbs up or down buttons
+newtab-toast-thumbs-up-or-down2 =
+    .message = Kiitos. Palautteesi auttaa meitä parantamaan syötettäsi.
 newtab-toast-thumbs-up-or-down = Kiitos. Palautteesi auttaa meitä parantamaan syötettäsi.
 newtab-toast-dismiss-button =
     .title = Hylkää
@@ -461,9 +464,17 @@ newtab-section-follow-button = Seuraa
 newtab-section-following-button = Seurataan
 newtab-section-unfollow-button = Lopeta seuraaminen
 
+## Button to block/unblock listed topics
+## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
+## e.g. Blocked the politics section of stories.
+
+
 ## Confirmation modal for blocking a section
 
 newtab-section-confirm-block-section-p1 = Haluatko varmasti estää tämän osion?
 newtab-section-confirm-block-section-p2 = Estetty osio ei enää näy syötteessäsi.
 newtab-section-block-section-button = Estä tämä osio
 newtab-section-cancel-button = Ei nyt
+
+## Panel in the Customize menu section to manage followed and blocked topics
+

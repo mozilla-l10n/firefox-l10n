@@ -260,6 +260,9 @@ newtab-pocket-thumbs-up-tooltip =
 # Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
 newtab-pocket-thumbs-down-tooltip =
     .title = Nic za mnje
+# Used to show the user a message upon clicking the thumbs up or down buttons
+newtab-toast-thumbs-up-or-down2 =
+    .message = Dźakujemy so. Waše měnjenje budźe nam pomhać, waš kanal polěpšić.
 newtab-toast-thumbs-up-or-down = Dźakujemy so. Waše měnjenje budźe nam pomhać, waš kanal polěpšić.
 newtab-toast-dismiss-button =
     .title = Zaćisnyć
@@ -463,9 +466,17 @@ newtab-section-follow-button = Slědować
 newtab-section-following-button = Slědowacy
 newtab-section-unfollow-button = Hižo njeslědować
 
+## Button to block/unblock listed topics
+## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
+## e.g. Blocked the politics section of stories.
+
+
 ## Confirmation modal for blocking a section
 
 newtab-section-confirm-block-section-p1 = Chceće woprawdźe tutón wotrězk blokować?
 newtab-section-confirm-block-section-p2 = Zablokowany wotrězk so hižo we wašim kanalu njejewi.
 newtab-section-block-section-button = Tutón wotrězk blokować
 newtab-section-cancel-button = Nic nětko
+
+## Panel in the Customize menu section to manage followed and blocked topics
+
