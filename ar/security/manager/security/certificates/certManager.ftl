@@ -6,6 +6,8 @@ certmgr-title =
     .title = مدير الشّهادات
 certmgr-tab-mine =
     .label = شهاداتك
+certmgr-tab-remembered =
+    .label = قرارات الاستيثاق
 certmgr-tab-people =
     .label = الناس
 certmgr-tab-servers =
@@ -44,6 +46,8 @@ certmgr-email =
     .label = عنوان البريد الإلكتروني
 certmgr-serial =
     .label = الرّقم التّسلسلي
+certmgr-fingerprint-sha-256 =
+    .label = بصمة SHA-256
 certmgr-view =
     .label = اعرض…
     .accesskey = ع
@@ -120,6 +124,10 @@ delete-user-cert-title =
     .title = احذف شهاداتك
 delete-user-cert-confirm = أمتأكّد أنّك تريد حذف هذه الشّهادات؟
 delete-user-cert-impact = إذا حذفت واحدة من شهاداتك، لن تكون قادرًا على استخدامها لتعريف نفسك بعد الآن.
+delete-ssl-override-title =
+    .title = احذف استثناء شهادة الخادوم
+delete-ssl-override-confirm = أمتأكد بأنك تريد حذف استثناء الخادوم هذا؟
+delete-ssl-override-impact = إذا حذفت استثناء خادوم، فستستعيد اختبارات الأمن المعتادة لهذا الموقع وسيحتاج إلى استخدام شهادة مقبولة.
 delete-ca-cert-title =
     .title = حذف أو نزع الثقة من شهادة تابعة لسلطة شهادات
 delete-ca-cert-confirm = لقد طلبت حذف الشهادات من سلطة الشهادات هذه. بالنسبة للشهادات المضمنة، ستنزع منها الثقة جميعها، وهو التأثير نفسه. أمتأكد من أنك تريد الحذف أو نزع الثقة؟
@@ -134,9 +142,17 @@ delete-email-cert-impact = إن حذفت شهادة بريد لشخص، فلن �
 #   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
 cert-with-serial =
     .value = شهادة بالرقم التسلسلي: { $serialNumber }
+# Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
+send-no-client-certificate = أرسل لا شهادة العميل
+# Used when no cert is stored for an override
+no-cert-stored-for-override = (غير مخزّن)
+# When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
+certificate-not-available = (غير متاح)
 
 ## Used to show whether an override is temporary or permanent
 
+permanent-override = دائم
+temporary-override = مؤقت
 
 ## Add Security Exception dialog
 

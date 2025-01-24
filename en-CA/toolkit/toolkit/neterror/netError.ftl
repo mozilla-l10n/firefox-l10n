@@ -12,6 +12,7 @@ neterror-blocked-by-policy-page-title = Blocked Page
 neterror-captive-portal-page-title = Log in to network
 neterror-dns-not-found-title = Server Not Found
 neterror-malformed-uri-page-title = Invalid URL
+general-body-title = Be careful. Something doesn’t look right.
 
 ## Error page actions
 
@@ -151,6 +152,9 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = If you are not familiar wit
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> has a security policy called HTTP Strict Transport Security (HSTS), which means that { -brand-short-name } can only connect to it securely. You can’t add an exception to visit this site.
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = Probably nothing, since it’s likely there’s a problem with the site itself.
+certerror-blocked-by-corp-headers-description = Sometimes websites set up protections for themselves and people like you from unwanted interactions with other sites.
+certerror-coop-learn-more = Learn more about Cross Origin Opener Policies (COOP)
+certerror-coep-learn-more = Learn more about Cross Origin Embedder Policies (COEP)
 # Variables:
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
