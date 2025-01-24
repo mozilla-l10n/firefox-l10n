@@ -6,6 +6,7 @@
 ## Preonboarding modal screen strings
 
 preonboarding-title = Хуш омадед ба «{ -brand-product-name }»
+preonboarding-subtitle = Бо идома додан, шумо бо Шартҳои истифода ва Огоҳномаи махфият барои «{ -brand-product-name }» розӣ мешавед. Барои беҳтар кардани браузер, «{ -brand-product-name }» маълумоти ташхисӣ ва ҳамкориро ба «{ -vendor-short-name }» ирсол мекунад.
 preonboarding-primary-cta = Тасдиқ кунед ва идома диҳед
 # Label for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Танзимоти ҷамъоварии маълумотро идора кунед ва ҳуҷҷатҳои моро дар бахши «Шартҳои истифода» ва «Огоҳномаи махфият» мутолиа намоед.

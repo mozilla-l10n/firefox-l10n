@@ -1324,6 +1324,7 @@ collection-health-report-link = Маълумоти бештар
 collection-health-report-description = Ин ба мо барои беҳтар кардани хусусиятҳо, самаранокӣ ва устувории браузери «{ -brand-product-name }» кумак мекунад.
 collection-studies2 =
     .label = Насб ва иҷро кардани омӯзишҳо
+collection-studies-description = Хусусиятҳо ва ғояҳои моро пеш аз он ки онҳо дар версияи нав ба ҳамаи корбарон дастрас шаванд, озмоиш кунед.
 collection-studies =
     .label = Иҷозат додан ба «{ -brand-short-name }» барои насб ва иҷро кардани таҳқиқот
 collection-studies-link = Дидани таҳқиқоти «{ -brand-short-name }»
