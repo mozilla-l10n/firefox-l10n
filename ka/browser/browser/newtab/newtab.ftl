@@ -259,6 +259,9 @@ newtab-pocket-thumbs-up-tooltip =
 # Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
 newtab-pocket-thumbs-down-tooltip =
     .title = ჩემთვის არაა
+# Used to show the user a message upon clicking the thumbs up or down buttons
+newtab-toast-thumbs-up-or-down2 =
+    .message = გმადლობთ. თქვენი გამოხმაურება დაგვეხმარება სიახლეების არხის გაუმჯობესებაში.
 newtab-toast-thumbs-up-or-down = გმადლობთ. თქვენი გამოხმაურება დაგვეხმარება სიახლეების არხის გაუმჯობესებაში.
 newtab-toast-dismiss-button =
     .title = აცილება
@@ -460,9 +463,17 @@ newtab-section-follow-button = თვალის მიდევნება
 newtab-section-following-button = გამოწერილი
 newtab-section-unfollow-button = თვალის მიდევნების შეწყვეტა
 
+## Button to block/unblock listed topics
+## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
+## e.g. Blocked the politics section of stories.
+
+
 ## Confirmation modal for blocking a section
 
 newtab-section-confirm-block-section-p1 = გსურთ ამ ნაწილის შეზღუდვა?
 newtab-section-confirm-block-section-p2 = შეზღუდული ნაწილები აღარ გამოჩნდება თქვენს არხში.
 newtab-section-block-section-button = ამ ნაწილის შეზღუდვა
 newtab-section-cancel-button = ახლა არა
+
+## Panel in the Customize menu section to manage followed and blocked topics
+
