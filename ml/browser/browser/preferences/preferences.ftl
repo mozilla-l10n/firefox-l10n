@@ -444,6 +444,7 @@ sync-sign-in =
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-history = നാള്‍വഴി
 
 ## The "Choose what to sync" dialog.
 

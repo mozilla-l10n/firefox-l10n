@@ -17,6 +17,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = മുന്‍ഗണനകള്‍
 menu-application-services =
     .label = സേവനങ്ങള്‍
 menu-application-hide-this =
@@ -158,6 +160,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = അടിസ്ഥാന താള്‍ ശൈലി
     .accesskey = B
+menu-view-repair-text-encoding =
+    .label = പദാവലിയുടെ ഇഴചേ‌ർച്ചയെ നന്നാക്കുക
+    .accesskey = പ
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -255,6 +260,9 @@ menu-tools =
 menu-tools-downloads =
     .label = ഇറക്കിവയ്ക്കലുകൾ
     .accesskey = D
+menu-tools-addons-and-themes =
+    .label = ആഡ്-ഓണുകളും അലങ്കാരുകളും
+    .accesskey = ആ
 menu-tools-fxa-sign-in2 =
     .label = പ്രവേശിക്കുക
     .accesskey = പ
@@ -264,6 +272,9 @@ menu-tools-turn-on-sync2 =
 menu-tools-sync-now =
     .label = ഉടന്‍ സിന്‍ക് ചെയ്യുക
     .accesskey = S
+menu-tools-browser-tools =
+    .label = അന്വേഷിയന്ത്രക്കരുകൾ
+    .accesskey = അ
 menu-tools-page-source =
     .label = താളിന്റെ സ്രോതസ്സ്‌
     .accesskey = o

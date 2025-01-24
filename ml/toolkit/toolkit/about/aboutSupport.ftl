@@ -215,6 +215,7 @@ touch-warning = പിന്തുണയില്ലാത്ത pref: { $prefer
 
 ## Remote Settings sections
 
+support-remote-settings-sync-history = നാള്‍വഴി
 
 ## Normandy sections
 

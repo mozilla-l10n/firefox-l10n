@@ -31,6 +31,21 @@ migration-imported-edge-reading-list = വായനയ്ക്കുള്ള �
 
 ##
 
+migration-select-all-option-label = എല്ലാം തിരഞ്ഞെടുക്കുക
+migration-bookmarks-option-label = അടയാളക്കുറിപ്പുകള്‍
+# Favorites is used for Bookmarks when importing from Internet Explorer or
+# Edge, as this is the terminology for bookmarks on those browsers.
+migration-favorites-option-label = പ്രിയപ്പെട്ടവ
+migration-logins-and-passwords-option-label = കരുതിവച്ച രഹസ്യവാക്കുകളും പ്രവേശിക്കലുകളും
+migration-passwords-option-label = കരുതിവച്ച രഹസ്യവാക്കുകൾ
+migration-history-option-label = പരതൽ നാൾവഴി
+migration-extensions-option-label = വിപുലീകരണങ്ങൾ
+migration-payment-methods-option-label = പണമടക്കൽ മുറകൾ
+migration-cookies-option-label = കുക്കികള്‍
+migration-otherdata-option-label = മറ്റു വിവരങ്ങള്‍
+migration-passwords-new = പുതിയ രഹസ്യവാക്കുകൾ
+migration-passwords-updated = നിലവിലുള്ള രഹസ്യവാക്കുകൾ
+migration-bookmarks-from-file = അടയാളക്കുറിപ്പുകള്‍
 migration-cancel-button-label = റദ്ദാക്കുക
 migration-done-button-label = കഴിഞ്ഞിരിക്കുന്നു
 migration-continue-button-label = തുടരുക

@@ -78,7 +78,21 @@ browser-data-cookies-checkbox =
     .label = കുക്കികൾ
 browser-data-cookies-label =
     .value = കുക്കികൾ
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] തിരച്ചിൽ നാൾവഴിയും അടയാളക്കുറിപ്പുകളും
+           *[other] തിരച്ചിൽ നാൾവഴി
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] തിരച്ചിൽ നാൾവഴിയും അടയാളക്കുറിപ്പുകളും
+           *[other] തിരച്ചിൽ നാൾവഴി
+        }
 browser-data-session-checkbox =
     .label = ടാബുകളും ജാലകങ്ങളും
 browser-data-session-label =
     .value = ടാബുകളും ജാലകങ്ങളും
+browser-data-payment-methods-label =
+    .value = പണമടക്കൽ മുറകൾ

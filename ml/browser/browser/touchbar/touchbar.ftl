@@ -19,6 +19,7 @@ close-window = ജാലകം അടയ്ക്കുക
 
 ## Various categories of shortcuts for search.
 
+search-history = നാള്‍വഴി
 
 ##
 
