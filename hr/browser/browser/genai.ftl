@@ -112,6 +112,8 @@ genai-options-about-chatbot =
 ## Chatbot onboarding
 
 genai-onboarding-header = Sažimaj, skupljaj ideje i još mnogo toga dok pregledavaš
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = Odaberi UI chatbot u bočnoj traci { -brand-short-name(case: "gen") }. Prikazat ćemo detalje o svakom chatbotu kada ga odabereš. Promijeni bilo kada. <a data-l10n-name="learn-more">Saznaj više</a>
 genai-onboarding-primary = Nastavi
 genai-onboarding-secondary = Zatvori
 genai-onboarding-claude-tooltip =
@@ -133,6 +135,8 @@ genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = Saznaj više o Le Chat
 genai-onboarding-select-header = Odaberi tekst za prikaz prijedloga
+genai-onboarding-select-description = Kada odabereš tekst, predložit ćemo upite koje možeš poslati chatbotu. Ako želiš, možeš upisati i vlastite upite.
+genai-onboarding-select-primary = Započni chat
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
