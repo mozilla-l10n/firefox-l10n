@@ -5,8 +5,10 @@
 refresh-profile-dialog-title = أنعش { -brand-short-name } إلى إعداداته الافتراضية؟
 refresh-profile-dialog-button =
     .label = أنعش { -brand-short-name }
+refresh-profile-dialog-description = ابدأ من جديد لإصلاح مشكلات الأداء. سيؤدي ذلك إلى إزالة الامتدادات وتخصيصاتك. لن تفقد المعلومات اللّازمة مثل العلامات وكلمات السر.
 refresh-profile = حسّن أداء { -brand-short-name }
 refresh-profile-button = أنعش { -brand-short-name }…
+refresh-profile-learn-more = اطّلع على المزيد
 refresh-profile-progress =
     .title = أنعش { -brand-short-name }
 refresh-profile-progress-description = أوشكنا على الانتهاء…

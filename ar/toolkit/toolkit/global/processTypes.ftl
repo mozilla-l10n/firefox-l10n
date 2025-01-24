@@ -46,6 +46,10 @@ process-type-utility = IPC Actor معزول
 process-type-utility-actor-audio-decoder-generic = أداة فك ترميز الصوت العامة
 process-type-utility-actor-audio-decoder-applemedia = أداة AppleMedia
 process-type-utility-actor-audio-decoder-wmf = أداة Windows Media Foundation
+process-type-utility-actor-mf-media-engine = محرك مؤسسة الوسائط المتعددة
+process-type-utility-actor-js-oracle = أداة JavaScript Oracle
+process-type-utility-actor-windows-utils = أدوات مساعدة لنظام التشغيل ونيدوز
+process-type-utility-actor-windows-file-dialog = مربع حوار ملف أداة ويندوز
 
 ##
 ## Other
