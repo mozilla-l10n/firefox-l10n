@@ -71,6 +71,7 @@ perftools-thread-dom-worker =
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
+perftools-onboarding-message = <b>Novo</b>: { -profiler-brand-name } je sada integriran u alate za programere. <a>Saznaj više</a> o ovom moćnom novom alatu.
 
 ## Profiler presets
 
