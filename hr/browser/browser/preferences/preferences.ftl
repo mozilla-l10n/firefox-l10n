@@ -1336,6 +1336,13 @@ collection-studies-link = Pregledaj { -brand-short-name } istraživanja
 addon-recommendations2 =
     .label = Dozvoli personalizirane preporuke za proširenja
 addon-recommendations-description = Dobij preporuke za proširenja i poboljšaj svoj način pregledavanja interneta.
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled2 = Izvještavanje podataka je deaktivirano za ovu konfiguraciju izgradnje.
+collection-backlogged-crash-reports2 =
+    .label = Automatski šalji izvještaje o prekidu programa
+    .accesskey = A
+collection-backlogged-crash-reports-description = To pomaže da { -vendor-short-name } dijagnosticira i riješi probleme s preglednikom. Izvještaji mogu uključivati osobne ili osjetljive podatke.
 addon-recommendations =
     .label = Dozvoli { -brand-short-name(case: "dat") } izraditi personalizirane preporuke dodataka
 addon-recommendations-link = Saznaj više
