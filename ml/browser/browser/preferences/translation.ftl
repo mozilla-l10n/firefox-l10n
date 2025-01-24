@@ -25,3 +25,6 @@ translation-sites-button-remove =
 translation-sites-button-remove-all =
     .label = എല്ലാ സൈറ്റുകളും നീക്കം ചെയ്യുക
     .accesskey = ക
+translation-dialog =
+    .buttonlabelaccept = അടയ്ക്കുക
+    .buttonaccesskeyaccept = അ

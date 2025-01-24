@@ -46,6 +46,7 @@ onboarding-start-browsing-button-label = തിരയാൻ ആരംഭിക�
 ##   $systemLanguage (String) - The name of the system language, e.g "Español (ES)"
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
+onboarding-live-language-secondary-cancel-download = റദ്ദാക്കുക
 
 ## Firefox 100 Thank You screens
 

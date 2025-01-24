@@ -15,6 +15,9 @@ autofill-manage-edit-button = തിരുത്തുക…
 
 ## The address capture doorhanger
 
+address-capture-cancel-button =
+    .label = റദ്ദാക്കുക
+    .accessKey = റ
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = വിലാസം തിരുത്തുക
 autofill-address-given-name = ആദ്യ പേര്

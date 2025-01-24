@@ -441,9 +441,57 @@ pdfjs-editor-new-alt-text-not-now-button = Jangan sekarang
 pdfjs-editor-new-alt-text-error-title = Tidak bisa membuat teks alternatif secara otomatis
 pdfjs-editor-new-alt-text-error-description = Silakan tulis teks alternatif Anda sendiri atau coba lagi nanti.
 pdfjs-editor-new-alt-text-error-close-button = Tutup
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+#   $downloadedSize (Number) - the downloaded size (in MB) of the AI model.
+#   $percent (Number) - the percentage of the downloaded size.
+pdfjs-editor-new-alt-text-ai-model-downloading-progress = Mengunduh model AI teks alternatif ({ $downloadedSize } dari { $totalSize } MB)
+    .aria-valuetext = Mengunduh model AI teks alternatif ({ $downloadedSize } dari { $totalSize } MB)
+# This is a button that users can click to edit the alt text they have already added.
+pdfjs-editor-new-alt-text-added-button =
+    .aria-label = Teks alternatif ditambahkan
+pdfjs-editor-new-alt-text-added-button-label = Teks alternatif ditambahkan
+# This is a button that users can click to open the alt text editor and add alt text when it is not present.
+pdfjs-editor-new-alt-text-missing-button =
+    .aria-label = Teks alternatif hilang
+pdfjs-editor-new-alt-text-missing-button-label = Teks alternatif hilang
+# This is a button that opens up the alt text modal where users should review the alt text that was automatically generated.
+pdfjs-editor-new-alt-text-to-review-button =
+    .aria-label = Tinjau teks alternatif
+pdfjs-editor-new-alt-text-to-review-button-label = Tinjau teks alternatif
+# "Created automatically" is a prefix that will be added to the beginning of any alt text that has been automatically generated. After the colon, the user will see/hear the actual alt text description. If the alt text has been edited by a human, this prefix will not appear.
+# Variables:
+#   $generatedAltText (String) - the generated alt-text.
+pdfjs-editor-new-alt-text-generated-alt-text-with-disclaimer = Dibuat secara otomatis: { $generatedAltText }
 
 ## Image alt-text settings
 
+pdfjs-image-alt-text-settings-button =
+    .title = Pengaturan teks alternatif gambar
+pdfjs-image-alt-text-settings-button-label = Pengaturan teks alternatif gambar
+pdfjs-editor-alt-text-settings-dialog-label = Pengaturan teks alternatif gambar
+pdfjs-editor-alt-text-settings-automatic-title = Teks alternatif otomatis
+pdfjs-editor-alt-text-settings-create-model-button-label = Buat teks alternatif secara otomatis
+pdfjs-editor-alt-text-settings-delete-model-button = Hapus
+pdfjs-editor-alt-text-settings-download-model-button = Unduh
+pdfjs-editor-alt-text-settings-downloading-model-button = Mengunduh…
+pdfjs-editor-alt-text-settings-editor-title = Editor teks alternatif
+pdfjs-editor-alt-text-settings-show-dialog-button-label = Tampilkan editor teks alternatif segera saat menambahkan gambar
+pdfjs-editor-alt-text-settings-show-dialog-description = Membantu Anda memastikan semua gambar Anda memiliki teks alternatif.
+pdfjs-editor-alt-text-settings-close-button = Tutup
 
 ## "Annotations removed" bar
 
+pdfjs-editor-undo-bar-message-highlight = Sorotan dihapus
+pdfjs-editor-undo-bar-message-freetext = Teks dihapus
+pdfjs-editor-undo-bar-message-ink = Gambar dihapus
+pdfjs-editor-undo-bar-message-stamp = Gambar dihapus
+# Variables:
+#   $count (Number) - the number of removed annotations.
+pdfjs-editor-undo-bar-message-multiple = { $count } anotasi dihapus
+pdfjs-editor-undo-bar-undo-button =
+    .title = Urungkan
+pdfjs-editor-undo-bar-undo-button-label = Urungkan
+pdfjs-editor-undo-bar-close-button =
+    .title = Tutup
+pdfjs-editor-undo-bar-close-button-label = Tutup

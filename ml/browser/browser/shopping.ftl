@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+shopping-close-button =
+    .title = അടയ്ക്കുക
 
 ## Strings for the letter grade component.
 ## For now, we only support letter grades A, B, C, D and F.
@@ -58,3 +60,6 @@
 
 ## Onboarding message strings.
 
+shopping-onboarding-dialog-close-button =
+    .title = അടയ്ക്കുക
+    .aria-label = അടയ്ക്കുക

@@ -8,6 +8,7 @@
 
 ## Special values for the Name column
 
+ghost-windows = അടുത്തിടെ അടച്ച ടാബുകള്‍
 
 ## Values for the Type column
 
@@ -27,3 +28,5 @@
 
 ## Tooltips for the action buttons
 
+close-tab =
+    .title = ടാബു് അടയ്ക്കുക

@@ -172,6 +172,9 @@ root-certificate-succession-infobar-secondary-button =
 
 ## FxA Menu Message variants
 
+fxa-menu-message-close-button =
+    .title = അടയ്ക്കുക
+    .aria-label = അടയ്ക്കുക
 
 ## Multi-CTA Fox Doodle Spotlight
 

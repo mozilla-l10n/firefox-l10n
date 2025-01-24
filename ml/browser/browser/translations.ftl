@@ -69,3 +69,11 @@ translations-manage-settings-button =
 translations-manage-all-language = എല്ലാ ഭാഷകൾ
 translations-manage-download-button = ഇറക്കിവയ്ക്കുക
 translations-manage-delete-button = മായ്ക്കുക
+translations-settings-close-dialog =
+    .buttonlabelaccept = അടയ്ക്കുക
+    .buttonaccesskeyaccept = അ
+select-translations-panel-cancel-button =
+    .label = റദ്ദാക്കുക
+# Text displayed on the copy button before it is clicked.
+select-translations-panel-copy-button =
+    .label = പകൎത്തുക

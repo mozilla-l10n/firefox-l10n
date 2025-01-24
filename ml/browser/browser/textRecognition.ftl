@@ -6,3 +6,4 @@
 ## Text recognition works through a modal that presents the text that is found
 ## in an image, and copies the results to the clipboard.
 
+text-recognition-modal-close-button = അടയ്ക്കുക
