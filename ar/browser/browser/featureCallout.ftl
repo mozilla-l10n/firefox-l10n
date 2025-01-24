@@ -77,3 +77,5 @@ sidebar-callout-survey-strongly-agree = أوافق بشدة
 sidebar-callout-survey-agree = أوافق
 sidebar-callout-survey-disagree = لا أوافق
 sidebar-callout-survey-strongly-disagree = لا أوافق أبدًا
+sidebar-callout-survey-submit = أرسِل
+sidebar-callout-survey-thank-you = شكرًا على تعليقك!

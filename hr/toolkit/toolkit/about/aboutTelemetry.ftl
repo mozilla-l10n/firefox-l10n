@@ -14,11 +14,12 @@ about-telemetry-option-group-yesterday = Jučer
 about-telemetry-option-group-older = Starije
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
-about-telemetry-page-title = Telemetrija
+about-telemetry-page-title = Telemetrijski podaci
 about-telemetry-current-store = Trenutačna trgovina:
 about-telemetry-more-information = Tražiš više informacija?
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefoxova dokumentacija podataka</a> sadrži upute za rad s našim podatkovnim alatima.
-about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Nadzorne ploče telemetrije</a> omogućuju vizualizaciju podataka koje Mozilla prima putem Telemetrije.
+about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Nadzorne ploče telemetrije</a> omogućuju vizualizaciju podataka koje Mozilla prima putem telemetrije.
+about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">Rječnik proba</a> pruža detalje i opise proba koje je prikupila telemetrija.
 about-telemetry-show-in-Firefox-json-viewer = Otvori u JSON pregledniku
 about-telemetry-home-section = Početna stranica
 about-telemetry-general-data-section = Opći podaci
@@ -34,7 +35,7 @@ about-telemetry-slow-sql-section = Spore SQL izjave
 about-telemetry-addon-details-section = Detalji dodatka
 about-telemetry-late-writes-section = Zakašnjela zapisivanja
 about-telemetry-raw = Neobrađeni JSON
-about-telemetry-full-sql-warning = NAPOMENA: Detaljno praćenje sporih SQL upita je uključeno. Potpuni SQL upiti mogu biti prikazani ispod, međutim oni neće biti poslali Telemetriji.
+about-telemetry-full-sql-warning = NAPOMENA: Detaljno praćenje sporih SQL upita je uključeno. Potpuni SQL upiti mogu biti prikazani ispod, međutim oni se neće poslati telemetriji.
 about-telemetry-fetch-stack-symbols = Prikupi imena funkcija za stogove
 about-telemetry-hide-stack-symbols = Prikaži sirove podatke stogova
 # Selects the correct release version
