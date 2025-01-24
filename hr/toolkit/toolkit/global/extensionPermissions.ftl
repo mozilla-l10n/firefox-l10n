@@ -31,8 +31,12 @@ webext-perms-description-tabs = Pristup karticama preglednika
 webext-perms-description-tabHide = Sakrij i prikaži kartice preglednika
 webext-perms-description-topSites = Pristupi povijesti pregledavanja
 webext-perms-description-trialML = Preuzmi i pokreni UI modele na tvom uređaju
+webext-perms-description-userScripts = Dozvoli neprovjerenim skriptama trećih strana pristup tvojim podacima
 webext-perms-description-webNavigation = Pristup aktivnostima preglednika tijekom korištenja navigacije
 
 ## The userScripts permission includes an additional explanation that is
 ## displayed prominently near the usual permission description.
 
+webext-perms-extra-warning-userScripts-long = Neprovjerena skripta mogu predstavljati rizike za sigurnost i privatnost, poput pokretanja štetnog koda ili praćenja aktivnosti na web stranicama. Pokreći samo skripta iz proširenja ili izvora kojima vjeruješ.
+# A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
+webext-perms-extra-warning-userScripts-short = Neprovjerena skripta mogu predstavljati rizike za sigurnost i privatnost. Pokreći samo skripta iz proširenja ili izvora kojima vjeruješ.
