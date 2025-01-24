@@ -256,6 +256,9 @@ newtab-pocket-thumbs-up-tooltip =
 # Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
 newtab-pocket-thumbs-down-tooltip =
     .title = Jo për mua
+# Used to show the user a message upon clicking the thumbs up or down buttons
+newtab-toast-thumbs-up-or-down2 =
+    .message = Faleminderit. Përshtypjet tuaja do të na ndihmojnë të përmirësojmë prurjen për ju.
 newtab-toast-thumbs-up-or-down = Faleminderit. Përshtypjet tuaja do të na ndihmojnë të përmirësojmë prurjen për ju.
 newtab-toast-dismiss-button =
     .title = Hidhe tej
@@ -456,9 +459,17 @@ newtab-section-follow-button = Ndiqe
 newtab-section-following-button = Po e Ndiqni
 newtab-section-unfollow-button = Hiqi Ndjekjen
 
+## Button to block/unblock listed topics
+## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
+## e.g. Blocked the politics section of stories.
+
+
 ## Confirmation modal for blocking a section
 
 newtab-section-confirm-block-section-p1 = Jeni i sigurt se doni të bllokohet kjo ndarje?
 newtab-section-confirm-block-section-p2 = Pjesa e bllokuar s’do të shfaqet më në prurjen tuaj.
 newtab-section-block-section-button = Bllokoje këtë pjesë
 newtab-section-cancel-button = Jo tani
+
+## Panel in the Customize menu section to manage followed and blocked topics
+
