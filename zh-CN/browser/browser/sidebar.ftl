@@ -133,6 +133,8 @@ sidebar-menu-history-header =
     .heading = 历史记录
 sidebar-menu-syncedtabs-header =
     .heading = 其他设备上的标签页
+sidebar-menu-bookmarks-header =
+    .heading = 书签
 sidebar-panel-header-close-button =
     .tooltiptext = 关闭
 
