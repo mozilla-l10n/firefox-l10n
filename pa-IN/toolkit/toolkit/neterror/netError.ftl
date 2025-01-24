@@ -12,6 +12,7 @@ neterror-blocked-by-policy-page-title = ਪਾਬੰਦੀ ਲਗਾਇਆ ਸ�
 neterror-captive-portal-page-title = ਨੈੱਟਵਰਕ ਲਈ ਲਾਗਇਨ ਕਰੋ
 neterror-dns-not-found-title = ਸਰਵਰ ਨਹੀਂ ਲੱਭਿਆ
 neterror-malformed-uri-page-title = ਅਢੁੱਕਵਾਂ URL
+general-body-title = ਧਿਆਨ ਰੱਖੋ। ਕੁਝ ਸਹੀ ਨਹੀਂ ਜਾਪਦਾ ਹੈ।
 
 ## Error page actions
 
@@ -151,3 +152,7 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = ਜੇ ਤੁਸੀਂ <b>{
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> ਕੋਲ ਸੁਰੱਖਿਆ ਪਾਲਸੀ ਹੈ, ਜਿਸ ਨੂੰ HTTP ਸਟਰਿਕਟ ਟਰਾਂਸਪੋਰਟ ਸਕਿਉਰਟੀ (HSTS) ਕਹਿੰਦੇ ਹਨ, ਜਿਸ ਦਾ ਅਰਥ ਹੈ ਕਿ { -brand-short-name } ਇਸ ਨਾਲ ਸਿਰਫ਼ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਹੀ ਕਨੈਕਟ ਹੋ ਸਕਦਾ ਹੈ। ਤੁਸੀਂ ਇਸ ਸਾਈਟ ਨੂੰ ਖੋਲ੍ਹਣ ਲਈ ਛੋਟ ਨਹੀਂ ਦੇ ਸਕਦੇ ਹੋ।
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = ਸ਼ਾਇਦ ਕੁਝ ਵੀ ਨਹੀਂ, ਕਿਉਂਕਿ ਸ਼ਾਇਦ ਇਹ ਸਮੱਸਿਆ ਤਾਂ ਸਾਈਟ ਨਾਲ ਹੈ।
+# Variables:
+#   $responsestatus (string) - HTTP response status code (e.g., 500).
+#   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
+neterror-response-status-code = ਗਲਤੀ ਕੋਡ: { $responsestatus } { $responsestatustext }

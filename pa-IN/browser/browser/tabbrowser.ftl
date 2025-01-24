@@ -212,6 +212,7 @@ tab-group-editor-color-selector =
     .aria-label = ਟੈਬ ਗਰੁੱਪ ਦਾ ਰੰਗ
 tab-group-editor-color-selector-blue = ਨੀਲਾ
 tab-group-editor-color-selector-purple = ਵੈਂਗਣੀ
+tab-group-editor-color-selector-cyan = ਸਿਯਾਨ
 tab-group-editor-color-selector-orange = ਸੰਤਰੀ
 tab-group-editor-color-selector-yellow = ਪੀਲਾ
 tab-group-editor-color-selector-pink = ਗੁਲਾਬੀ

@@ -8,6 +8,7 @@ crashreporter-crashed-and-restore = { -brand-short-name } ਨੂੰ ਸਮੱਸ
 crashreporter-plea = ਸਾਨੂੰ ਇਹ ਦੀ ਜਾਂਚ ਕਰਨ ਅਤੇ ਸਮੱਸਿਆ ਠੀਕ ਕਰਨ ਲਈ ਤੁਸੀਂ ਸਾਨੂੰ ਇੱਕ ਕਰੈਸ਼ ਰਿਪੋਰਟ ਭੇਜ ਸਕਦੇ ਹੋ।
 crashreporter-information = ਇਹ ਐਪਲੀਕੇਸ਼ਨ { -vendor-short-name } ਨੂੰ ਸਮੱਸਿਆ ਬਾਰੇ ਇੱਕ ਕਰੈਸ਼ ਰਿਪੋਰਟ ਦੇ ਬਾਅਦ ਕਰੈਸ਼ ਹੋਈ ਹੈ। ਕੀ ਇਸ ਨੂੰ ਸਿੱਧਾ ਨਹੀਂ ਚਲਾਉਣਾ ਚਾਹੀਦਾ।
 crashreporter-error = { -brand-short-name } ਨੂੰ ਸਮੱਸਿਆ ਆਈ ਅਤੇ ਕਰੈਸ਼ ਹੋ ਗਿਆ। ਅਫ਼ਸੋਸ ਹੈ ਕਿ ਕਰੈਸ਼ ਰਿਪੋਰਟਰ ਇਸ ਕਰੈਸ਼ ਵਾਸਤੇ ਰਿਪੋਰਟ ਭੇਜਣ ਲਈ ਅਸਮਰੱਥ ਹੈ।
+crashreporter-error-details-header = ਵੇਰਵੇ:
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = ਵੇਰਵਾ: { $details }
 crashreporter-no-run-message = ਇਹ ਐਪਲੀਕੇਸ਼ਨ ਐਪਲੀਕੇਸ਼ਨ ਵੇਂਡਰ ਨੂੰ ਸਮੱਸਿਆ ਬਾਰੇ ਇੱਕ ਕਰੈਸ਼ ਰਿਪੋਰਟ ਦੇ ਬਾਅਦ ਕਰੈਸ਼ ਹੋਈ ਹੈ। ਕੀ ਇਸ ਨੂੰ ਸਿੱਧਾ ਨਹੀਂ ਚਲਾਉਣਾ ਚਾਹੀਦਾ।
