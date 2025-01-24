@@ -125,7 +125,7 @@ about-debugging-setup-network =
     .title = Position del rete
 # Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
 # The link goes to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#connecting-over-the-network
-about-debugging-setup-network-troubleshoot = Problemas de connexion via un loco de rete?  <a>Remediar</a>
+about-debugging-setup-network-troubleshoot = Problemas de connexion via un loco de rete?  <a>Solver</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Adder
