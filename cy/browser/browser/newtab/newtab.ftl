@@ -261,6 +261,9 @@ newtab-pocket-thumbs-up-tooltip =
 # Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
 newtab-pocket-thumbs-down-tooltip =
     .title = Nid i mi
+# Used to show the user a message upon clicking the thumbs up or down buttons
+newtab-toast-thumbs-up-or-down2 =
+    .message = Diolch. Bydd eich adborth yn ein helpu i wella'ch llif.
 newtab-toast-thumbs-up-or-down = Diolch. Bydd eich adborth yn ein helpu i wella'ch llif.
 newtab-toast-dismiss-button =
     .title = Cau
@@ -466,9 +469,17 @@ newtab-section-follow-button = Dilyn
 newtab-section-following-button = Yn dilyn
 newtab-section-unfollow-button = Dad-ddilyn
 
+## Button to block/unblock listed topics
+## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
+## e.g. Blocked the politics section of stories.
+
+
 ## Confirmation modal for blocking a section
 
 newtab-section-confirm-block-section-p1 = Ydych chi'n siŵr eich bod am rwystro'r adran hon?
 newtab-section-confirm-block-section-p2 = Ni fydd adran sydd wedi'i rwystro'n ymddangos yn eich llif bellach.
 newtab-section-block-section-button = Rhwystro'r adran hon
 newtab-section-cancel-button = Nid nawr
+
+## Panel in the Customize menu section to manage followed and blocked topics
+
