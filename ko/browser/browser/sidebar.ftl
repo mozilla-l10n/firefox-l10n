@@ -133,6 +133,8 @@ sidebar-menu-history-header =
     .heading = 기록
 sidebar-menu-syncedtabs-header =
     .heading = 다른 기기의 탭
+sidebar-menu-bookmarks-header =
+    .heading = 북마크
 sidebar-panel-header-close-button =
     .tooltiptext = 닫기
 

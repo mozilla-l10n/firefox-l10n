@@ -4,6 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = 북마크
+sidebar-menu-bookmarks-2 = 북마크
 sidebar-menu-history =
     .label = 기록
 sidebar-menu-synced-tabs =

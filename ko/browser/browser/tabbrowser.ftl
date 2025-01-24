@@ -46,6 +46,13 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = 탭 음소거 해제
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = 탭 음소거
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = 탭 재생
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -175,6 +182,17 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = 취소
     .accesskey = C
+tab-group-editor-color-selector =
+    .aria-label = 탭 그룹 색상
+tab-group-editor-color-selector-blue = 파란색
+tab-group-editor-color-selector-purple = 보라색
+tab-group-editor-color-selector-cyan = 청록색
+tab-group-editor-color-selector-orange = 주황색
+tab-group-editor-color-selector-yellow = 노란색
+tab-group-editor-color-selector-pink = 분홍색
+tab-group-editor-color-selector-green = 초록색
+tab-group-editor-color-selector-gray = 회색
+tab-group-editor-color-selector-red = 빨간색
 tab-group-menu-header = 탭 그룹
 tab-context-unnamed-group =
     .label = 익명 그룹
