@@ -20,3 +20,4 @@ preonboarding-manage-data-header-button-title = Gerenciar dados de diagnóstico 
 preonboarding-checklist-interaction-data-label = Enviar dados técnicos e de interação para a { -vendor-short-name }
 preonboarding-checklist-interaction-data-description = Dados sobre seu dispositivo, configurações de hardware e como você usa o { -brand-product-name } ajudam a melhorar funcionalidades, desempenho e estabilidade para usuários do mundo todo.
 preonboarding-checklist-crash-reports-label = Enviar relatórios de falhas automaticamente
+preonboarding-checklist-crash-reports-description = Relatórios de falhas nos permitem diagnosticar e resolver problemas relacionados ao navegador. Os relatórios podem conter dados pessoais ou sensíveis.

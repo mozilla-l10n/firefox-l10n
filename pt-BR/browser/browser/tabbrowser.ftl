@@ -74,6 +74,13 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = Ativar som da aba
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = Silenciar aba
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = Reproduzir som na aba
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -206,6 +213,17 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Cancelar
     .accesskey = C
+tab-group-editor-color-selector =
+    .aria-label = Cor do grupo de abas
+tab-group-editor-color-selector-blue = Azul
+tab-group-editor-color-selector-purple = Roxo
+tab-group-editor-color-selector-cyan = Ciano
+tab-group-editor-color-selector-orange = Laranja
+tab-group-editor-color-selector-yellow = Amarelo
+tab-group-editor-color-selector-pink = Rosa
+tab-group-editor-color-selector-green = Verde
+tab-group-editor-color-selector-gray = Cinza
+tab-group-editor-color-selector-red = Vermelho
 tab-group-menu-header = Grupos de abas
 tab-context-unnamed-group =
     .label = Grupo sem nome

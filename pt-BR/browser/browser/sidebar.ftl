@@ -133,6 +133,8 @@ sidebar-menu-history-header =
     .heading = Histórico
 sidebar-menu-syncedtabs-header =
     .heading = Abas de outros dispositivos
+sidebar-menu-bookmarks-header =
+    .heading = Favoritos
 sidebar-panel-header-close-button =
     .tooltiptext = Fechar
 
