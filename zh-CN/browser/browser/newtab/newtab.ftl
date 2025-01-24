@@ -463,6 +463,9 @@ newtab-section-unfollow-button = 取消关注
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
 ## e.g. Blocked the politics section of stories.
 
+newtab-section-block-button = 屏蔽
+newtab-section-blocked-button = 已屏蔽
+newtab-section-unblock-button = 取消屏蔽
 
 ## Confirmation modal for blocking a section
 
@@ -473,3 +476,8 @@ newtab-section-cancel-button = 暂时不要
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+newtab-section-mangage-topics-title = 主题
+newtab-section-mangage-topics-followed-topics-subtitle = 关注的主题
+newtab-section-mangage-topics-followed-topics-empty-state = 没有已关注的主题。
+newtab-section-mangage-topics-blocked-topics-subtitle = 屏蔽的主题
+newtab-section-mangage-topics-blocked-topics-empty-state = 没有已屏蔽的主题
