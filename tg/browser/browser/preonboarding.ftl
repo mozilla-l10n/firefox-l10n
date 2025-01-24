@@ -11,6 +11,8 @@ preonboarding-primary-cta = Тасдиқ кунед ва идома диҳед
 preonboarding-terms-of-use-header-button-title = Шартҳои моро барои истифодабарӣ хонед
 # Label for header style button that toggles showing the Privacy Notice
 preonboarding-privacy-notice-header-button-title = Огоҳномаи махфияти моро хонед
+# Label for header style button that toggles showing the data preference checklist
+preonboarding-manage-data-header-button-title = Идоракунии маълумоти ташхисӣ ва ҳамкорӣ
 # New user onboarding checklist
 preonboarding-checklist-interaction-data-label = Фиристодани маълумоти техникӣ ва ҳамкорӣ ба «{ -vendor-short-name }»
 preonboarding-checklist-interaction-data-description = Маълумот дар бораи дастгоҳи шумо, танзимоти сахтафзор ва тарзи истифодаи «{ -brand-product-name }» барои беҳтар кардани хусусиятҳо, самаранокӣ ва устуворӣ барои ҳамаи корбарони браузер новобаста аз ҷойгиршавӣ кумак мекунад.
