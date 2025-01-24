@@ -12,6 +12,7 @@ neterror-blocked-by-policy-page-title = გვერდი შეზღუდუ
 neterror-captive-portal-page-title = ქსელში შესვლა
 neterror-dns-not-found-title = გვერდი ვერ მოიძებნა
 neterror-malformed-uri-page-title = არასწორი URL
+general-body-title = სიფრთხილე გამოიჩინეთ. რაღაც რიგზე ვერაა.
 
 ## Error page actions
 

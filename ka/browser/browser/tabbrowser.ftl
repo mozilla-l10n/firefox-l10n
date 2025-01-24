@@ -74,6 +74,13 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = ჩანართის ახმოვანება
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = ჩანართის დადუმება
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = ჩანართში გაშვება
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -203,6 +210,17 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = გაუქმება
     .accesskey = ქ
+tab-group-editor-color-selector =
+    .aria-label = ჩანართის ჯგუფის ფერი
+tab-group-editor-color-selector-blue = ლურჯი
+tab-group-editor-color-selector-purple = იისფერი
+tab-group-editor-color-selector-cyan = მოცისფრო
+tab-group-editor-color-selector-orange = ნარინჯისფერი
+tab-group-editor-color-selector-yellow = ყვითელი
+tab-group-editor-color-selector-pink = ვარდისფერი
+tab-group-editor-color-selector-green = მწვანე
+tab-group-editor-color-selector-gray = რუხი
+tab-group-editor-color-selector-red = წითელი
 tab-group-menu-header = ჩანართის ჯგუფები
 tab-context-unnamed-group =
     .label = უსახელო ჯგუფი

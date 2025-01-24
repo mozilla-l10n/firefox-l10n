@@ -4,6 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = სანიშნები
+sidebar-menu-bookmarks-2 = სანიშნები
 sidebar-menu-history =
     .label = ისტორია
 sidebar-menu-synced-tabs =
