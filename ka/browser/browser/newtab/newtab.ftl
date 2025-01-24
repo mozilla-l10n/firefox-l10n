@@ -467,6 +467,9 @@ newtab-section-unfollow-button = თვალის მიდევნები�
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
 ## e.g. Blocked the politics section of stories.
 
+newtab-section-block-button = შეზღუდვა
+newtab-section-blocked-button = შეზღუდულია
+newtab-section-unblock-button = შეზღუდვის მოხსნა
 
 ## Confirmation modal for blocking a section
 
@@ -477,3 +480,10 @@ newtab-section-cancel-button = ახლა არა
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+newtab-section-mangage-topics-title = თემები
+newtab-section-mangage-topics-button =
+    .label = მიდევნებული და შეზღუდული თემები
+newtab-section-mangage-topics-followed-topics-subtitle = მიდევნებული თემები
+newtab-section-mangage-topics-followed-topics-empty-state = თქვენ ჯერ არცერთ თემას არ ადევნებთ თვალს.
+newtab-section-mangage-topics-blocked-topics-subtitle = შეზღუდული თემები
+newtab-section-mangage-topics-blocked-topics-empty-state = თქვენ ჯერ არცერთი თემა არ შეგიზღუდავთ.

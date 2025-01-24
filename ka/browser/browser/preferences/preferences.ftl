@@ -1332,6 +1332,13 @@ collection-studies-link = იხილეთ { -brand-short-name } – კვლ
 addon-recommendations2 =
     .label = გაფართოებების მორგებული შემოთავაზებების ნებართვა
 addon-recommendations-description = მიიღეთ გაფართოებების შემოთავაზებები გვერდების თვალიერების გასაუმჯობესებლად.
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled2 = მოხსენებები გათიშული ამ გამართვის მქონე ანაწყობისთვის.
+collection-backlogged-crash-reports2 =
+    .label = უეცარი გათიშვის მოხსენებების თვითგაგზავნა
+    .accesskey = ც
+collection-backlogged-crash-reports-description = მისი მეშვეობით { -vendor-short-name } მოახერხებს ხარვეზების გამოვლენასა და მოგვარებას ბრაუზერში. მოხსენებები შეიძლება შეიცავდეს პირად ან საფრთხილო მონაცემებს.
 addon-recommendations =
     .label = ნებართვა, რომ { -brand-short-name } შემოგთავაზებთ მორგებულ გაფართოებებს
 addon-recommendations-link = ვრცლად

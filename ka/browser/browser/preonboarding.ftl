@@ -5,4 +5,4 @@
 
 ## Preonboarding modal screen strings
 
-preonboarding-title = Welcome to { -brand-product-name }
+preonboarding-title = მოგესალმებათ { -brand-product-name }

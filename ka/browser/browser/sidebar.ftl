@@ -133,6 +133,8 @@ sidebar-menu-history-header =
     .heading = ისტორია
 sidebar-menu-syncedtabs-header =
     .heading = ჩანართები სხვა მოწყობილობებიდან
+sidebar-menu-bookmarks-header =
+    .heading = სანიშნები
 sidebar-panel-header-close-button =
     .tooltiptext = დახურვა
 
