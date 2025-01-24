@@ -67,9 +67,9 @@ about-processes-unknown-process = სხვა: { $type } ({ $pid })
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
 about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
-about-processes-with-coop-coep-process = { $origin } ({ $pid }, საიტთაშორისი გამიჯნული)
+about-processes-with-coop-coep-process = { $origin } ({ $pid }, წარმომავლობით გამიჯნული)
 about-processes-web-isolated-process-private = { $origin } — პირადი ({ $pid })
-about-processes-with-coop-coep-process-private = { $origin } — პირადი ({ $pid }, საიტთაშორისი გამიჯნული)
+about-processes-with-coop-coep-process-private = { $origin } — პირადი ({ $pid }, წარმომავლობით გამიჯნული)
 
 ## Details within processes
 

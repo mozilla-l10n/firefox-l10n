@@ -152,6 +152,8 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = თუ არ გეცნ�
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> იყენებს უსაფრთხოების დებულებას სახელწოდებით HTTP Strict Transport Security (HSTS), ეს კი ნიშნავს, რომ { -brand-short-name } მას მხოლოდ უსაფრთხო შეერთებით შეიძლება დაუკავშირდეს. გამონაკლისს ვერ დაამატებთ ამ საიტის მოსანახულებლად.
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = შესაძლოა, არც არაფრის და თავად საიტს ჰქონდეს ხარვეზი.
+certerror-coop-learn-more = იხილეთ ვრცლად განსხვავებული წარმომავლობის მასალის გახსნის დებულებები (COOP)
+certerror-coep-learn-more = იხილეთ ვრცლად განსხვავებული წარმომავლობის მასალის ჩაშენების დებულებები (COOP)
 # Variables:
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
