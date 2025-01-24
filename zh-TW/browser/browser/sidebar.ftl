@@ -133,6 +133,8 @@ sidebar-menu-history-header =
     .heading = 瀏覽紀錄
 sidebar-menu-syncedtabs-header =
     .heading = 來自其他裝置的分頁
+sidebar-menu-bookmarks-header =
+    .heading = 書籤
 sidebar-panel-header-close-button =
     .tooltiptext = 關閉
 

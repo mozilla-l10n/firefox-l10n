@@ -46,6 +46,13 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = 取消分頁靜音
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = 分頁靜音
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = 播放分頁
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -173,6 +180,14 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = 取消
     .accesskey = C
+tab-group-editor-color-selector =
+    .aria-label = 分頁群組色彩
+tab-group-editor-color-selector-blue = 藍色
+tab-group-editor-color-selector-purple = 紫色
+tab-group-editor-color-selector-cyan = 青色
+tab-group-editor-color-selector-orange = 橘色
+tab-group-editor-color-selector-yellow = 黃色
+tab-group-editor-color-selector-pink = 粉紅色
 tab-group-menu-header = 分頁群組
 tab-context-unnamed-group =
     .label = 未命名群組

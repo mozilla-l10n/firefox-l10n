@@ -4,6 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = 書籤
+sidebar-menu-bookmarks-2 = 書籤
 sidebar-menu-history =
     .label = 歷史
 sidebar-menu-synced-tabs =
