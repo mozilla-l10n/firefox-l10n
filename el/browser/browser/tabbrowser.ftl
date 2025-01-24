@@ -74,6 +74,13 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = Άρση σίγασης καρτέλας
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = Σίγαση καρτέλας
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = Αναπαραγωγή καρτέλας
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -203,6 +210,17 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Ακύρωση
     .accesskey = Α
+tab-group-editor-color-selector =
+    .aria-label = Χρώμα ομάδας καρτελών
+tab-group-editor-color-selector-blue = Μπλε
+tab-group-editor-color-selector-purple = Μοβ
+tab-group-editor-color-selector-cyan = Κυανό
+tab-group-editor-color-selector-orange = Πορτοκαλί
+tab-group-editor-color-selector-yellow = Κίτρινο
+tab-group-editor-color-selector-pink = Ροζ
+tab-group-editor-color-selector-green = Πράσινο
+tab-group-editor-color-selector-gray = Γκρι
+tab-group-editor-color-selector-red = Κόκκινο
 tab-group-menu-header = Ομάδες καρτελών
 tab-context-unnamed-group =
     .label = Ανώνυμη ομάδα
