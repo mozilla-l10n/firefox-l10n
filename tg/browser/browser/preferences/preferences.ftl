@@ -1321,11 +1321,15 @@ collection-health-report =
     .label = Иҷозат додан ба «{ -brand-short-name }» барои фиристодани маълумоти техникӣ ва якҷояамалкунӣ ба «{ -vendor-short-name }»
     .accesskey = r
 collection-health-report-link = Маълумоти бештар
+collection-health-report-description = Ин ба мо барои беҳтар кардани хусусиятҳо, самаранокӣ ва устувории браузери «{ -brand-product-name }» кумак мекунад.
 collection-studies2 =
     .label = Насб ва иҷро кардани омӯзишҳо
 collection-studies =
     .label = Иҷозат додан ба «{ -brand-short-name }» барои насб ва иҷро кардани таҳқиқот
 collection-studies-link = Дидани таҳқиқоти «{ -brand-short-name }»
+addon-recommendations2 =
+    .label = Иҷозат додан ба тавсияҳои шахсӣ барои васеъшавиҳо
+addon-recommendations-description = Барои беҳтар кардани таҷрибаи тамошобинии худ, тавсияҳои васеъшавиҳоро ба даст оред.
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled2 = Гузоришдиҳии маълумот барои ин танзими сохт ғайрифаъол карда шуд.
