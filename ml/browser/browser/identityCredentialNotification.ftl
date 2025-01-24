@@ -12,3 +12,15 @@
 ##  $host (String): the hostname of the site that is being displayed.
 ##  $provider (String): the hostname of another website you are using to log in to the site being displayed
 
+identity-credential-urlbar-anchor =
+    .tooltiptext = പ്രവേശിക്കൽകവാടഫലകം തുറക്കുക
+identity-credential-cancel-button =
+    .label = റദ്ദാക്കുക
+    .accesskey = റ
+identity-credential-accept-button =
+    .label = തുടരുക
+    .accesskey = ത
+identity-credential-sign-in-button =
+    .label = പ്രവേശിക്കുക
+    .accesskey = പ
+identity-credential-policy-title = { $provider }-നു് പ്രവേശിക്കൽ ദാതാവായി  ഉപയോഗിക്കുക

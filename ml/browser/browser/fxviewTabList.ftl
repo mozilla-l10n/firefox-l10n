@@ -5,6 +5,20 @@
 fxviewtabrow-open-menu-button =
     .title = കുറിപ്പടികട്ട തുറക്കുക
 # Variables:
+#   $date (string) - Date to be formatted based on locale
+fxviewtabrow-date = { DATETIME($date, dateStyle: "short") }
+# Variables:
+#   $time (string) - Time to be formatted based on locale
+fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
+# Variables:
+#   $targetURI (string) - URL of tab that will be opened in the new tab
+fxviewtabrow-tabs-list-tab =
+    .title = { $targetURI }-നെ പുതിയ ടാബിൽ തുറക്കുക
+# Variables:
+#   $tabTitle (string) - Title of tab being closed
+fxviewtabrow-close-tab-button =
+    .title = { $tabTitle } അടയ്ക്കുക
+# Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = { $tabTitle } കളയുക
@@ -37,8 +51,14 @@ fxviewtabrow-move-tab-start = മുൻപിലോട്ടു് നീക്�
     .accesskey = മ
 fxviewtabrow-move-tab-end = അവസാനത്തിലേക്ക് നീക്കുക
     .accesskey = അ
+fxviewtabrow-move-tab-window = പുതിയ ജാലകത്തിലേക്ക് നീക്കുക
+    .accesskey = ന
+fxviewtabrow-send-tab = ഉപകരണത്തിലേക്കു് ടാബു് അയയ്ക്കുക
+    .accesskey = അ
 fxviewtabrow-pin-tab = ടാബിനെ കുത്തിവയ്ക്കുക
     .accesskey = ക
+fxviewtabrow-unpin-tab = കുത്തിസൂചി മാറ്റുക
+    .accesskey = മ
 
 ## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
 

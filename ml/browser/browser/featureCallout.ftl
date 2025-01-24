@@ -30,12 +30,16 @@ fx-view-discoverability-secondary-button-label = കളയുക
 
 # Blocks the message from showing again
 split-dismiss-button-dont-show-option-label = ഈ ശുപാൎശ ഇനിയും കാണിക്കരുതു്
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option-label = ക്രമീകരണങ്ങളെ നിയന്ത്രിക്കുക
 
 ## Sidebar Strings
 
+sidebar-button-callout-title = തീരപ്പട്ടയിൽ ടാബുതലക്കെട്ടുകൾ കാണിക്കുക
 
 ## Sidebar Callout Survey Strings
 
+sidebar-callout-survey-title = { -brand-short-name } മെച്ചപ്പെടുത്താൻ സഹായിക്കുക
 sidebar-callout-survey-privacy-notice-link = സ്വകാര്യതാ അറിയിപ്പ്
 sidebar-callout-survey-very-satisfied = വളരെ സന്തുഷ്ടമായി
 sidebar-callout-survey-satisfied = സന്തുഷ്ടമായി

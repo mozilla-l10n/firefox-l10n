@@ -130,6 +130,10 @@ firefoxview-sort-open-tabs-by-order-label = ടാബുക്രമം അന�
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
 
+firefoxview-history-date-today = ഇന്നു് - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = ഇന്നലെ - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 
 ##
 
@@ -160,9 +164,11 @@ firefoxview-import-history-close-button =
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = വളരെ പെട്ടെന്നു് ഒരു ടാബു് അടച്ചോ?
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
+firefoxview-syncedtabs-device-notabs = ഈ ഉപകരണത്തിൽ ടാബുകളൊന്നും തുറന്നിരിപ്പുണ്ടില്ല
 firefoxview-syncedtabs-connect-another-device = മറ്റൊരു ഉപകരണം ബന്ധിപ്പിക്കുക.
 firefoxview-pinned-tabs =
     .title = കുത്തിസൂചിയിട്ട ടാബുകൾ
@@ -173,8 +179,16 @@ firefoxview-tabs =
 ## Variables:
 ##  $tabTitle (string) - Title of pinned tab that will be opened when selected
 
+firefoxview-opentabs-pinned-tab =
+    .title = { $tabTitle }-ലേക്കു് മാറുക
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = (കുറിച്ചിട്ട) { $tabTitle }-ലേക്കു് മാറുക
 
 ## These tooltips will be displayed when hovering over an unpinned Open Tab
 ## Variables:
 ##   $url (string) - URL of tab that will be opened when selected
 
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = (കുറിച്ചിട്ടു) { $url }

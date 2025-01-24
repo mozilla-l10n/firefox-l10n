@@ -482,3 +482,5 @@ newtab-section-mangage-topics-button =
     .label = 已關注並封鎖的主題
 newtab-section-mangage-topics-followed-topics-subtitle = 關注的主題
 newtab-section-mangage-topics-followed-topics-empty-state = 您並未關注任何主題。
+newtab-section-mangage-topics-blocked-topics-subtitle = 封鎖的主題
+newtab-section-mangage-topics-blocked-topics-empty-state = 您並未封鎖任何主題。

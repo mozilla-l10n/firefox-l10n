@@ -38,7 +38,9 @@ genai-onboarding-select-primary = നൎമ്മസല്ലാപം നടത
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
 genai-onboarding-claude-generate = സങ്കേതവും വാചകവും ഉൽപാദിപ്പിക്കുക
+genai-onboarding-copilot-analyze = ചിത്രങ്ങളെ വിശകലിക്കുക
 genai-onboarding-gemini-generate = സങ്കേതവും ചിത്രങ്ങളും വാചകവും ഉൽപാദിപ്പിക്കുക
+genai-onboarding-gemini-analyze = ചിത്രങ്ങളും (സൗജന്യവും) രേഖകളും (പണമടച്ചത്) വിശകലിക്കുക
 genai-onboarding-huggingchat-generate = സങ്കേതവും വാചകവും ഉൽപാദിപ്പിക്കുക
 genai-onboarding-lechat-generate = സങ്കേതവും വാചകവും ഉൽപാദിപ്പിക്കുക
 genai-onboarding-lechat-price = സൗജന്യം; അക്കൗണ്ട് ആവശ്യമാണു്
