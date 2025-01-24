@@ -487,3 +487,4 @@ newtab-section-mangage-topics-button =
 newtab-section-mangage-topics-followed-topics-subtitle = Gefolgte Themen
 newtab-section-mangage-topics-followed-topics-empty-state = Sie folgen noch keinen Themen.
 newtab-section-mangage-topics-blocked-topics-subtitle = Blockierte Themen
+newtab-section-mangage-topics-blocked-topics-empty-state = Sie haben noch keine Themen blockiert.
