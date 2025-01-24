@@ -8,6 +8,7 @@ crashreporter-crashed-and-restore = { -brand-short-name } heeft een probleem ond
 crashreporter-plea = Om ons te helpen het probleem te onderzoeken en op te lossen, kunt u ons een crashrapport toesturen.
 crashreporter-information = De crashreporter wordt na een crash uitgevoerd om het probleem aan { -vendor-short-name } te rapporteren. Deze dient niet direct te worden gestart.
 crashreporter-error = { -brand-short-name } ondervond een probleem en is vastgelopen. Helaas kan de crashreporter geen rapport voor deze crash verzenden.
+crashreporter-error-details-header = Details:
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Details: { $details }
 crashreporter-no-run-message = De crashreporter wordt na een crash uitgevoerd om het probleem aan de maker van de toepassing te rapporteren. Deze dient niet direct te worden gestart.
