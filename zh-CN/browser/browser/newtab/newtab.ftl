@@ -477,6 +477,8 @@ newtab-section-cancel-button = 暂时不要
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = 主题
+newtab-section-mangage-topics-button =
+    .label = 关注和屏蔽的主题
 newtab-section-mangage-topics-followed-topics-subtitle = 关注的主题
 newtab-section-mangage-topics-followed-topics-empty-state = 没有已关注的主题。
 newtab-section-mangage-topics-blocked-topics-subtitle = 屏蔽的主题

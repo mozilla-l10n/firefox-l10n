@@ -1323,6 +1323,9 @@ collection-studies-link = 查看 { -brand-short-name } 在进行的实验
 addon-recommendations2 =
     .label = 允许进行个性化扩展推荐
 addon-recommendations-description = 获取扩展推荐，改进浏览体验。
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled2 = 在此构建配置下数据反馈被禁用。
 collection-backlogged-crash-reports2 =
     .label = 自动发送崩溃报告
     .accesskey = c
