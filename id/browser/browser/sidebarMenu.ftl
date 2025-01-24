@@ -4,6 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = Markah
+sidebar-menu-bookmarks-2 = Markah
 sidebar-menu-history =
     .label = Riwayat
 sidebar-menu-synced-tabs =

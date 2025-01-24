@@ -102,6 +102,7 @@ item-site-prefs =
 item-formdata-prefs =
     .label = Info formulir tersimpan
     .accesskey = o
+item-formdata-description = Membersihkan hal-hal seperti nama, surel, dan item lain yang Anda masukkan dalam formulir
 item-site-prefs-description = Setel ulang izin dan preferensi situs Anda ke pengaturan bawaan
 data-section-label = Data
 item-site-settings =

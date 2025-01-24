@@ -64,6 +64,11 @@ sync-account-in-use-description = Anda hanya dapat mengaitkan akun ini dengan sa
 # Dialog 2 - account signed in on another profile with merge option
 sync-account-already-signed-in-header = Akun ini masuk ke profil lain. Sinkronkan kedua profil?
 # Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $currentProfile (String): Name of the current profile signing in
+#   $otherProfile (String): Name of the profile that is already signed in
+sync-account-in-use-description-merge = { $acctEmail } masuk ke profil “{ $otherProfile }” di komputer ini. Menyinkronkan profil “{ $currentProfile }” akan menggabungkan data dari kedua profil secara permanen, seperti kata sandi dan markah.
+# Variables:
 #   $profileName (String) - Name of the profile to switch to
 sync-button-switch-profile = Beralih ke “{ $profileName }”
 sync-button-create-profile = Buat profil baru

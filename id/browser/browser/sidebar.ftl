@@ -133,6 +133,8 @@ sidebar-menu-history-header =
     .heading = Riwayat
 sidebar-menu-syncedtabs-header =
     .heading = Tab dari perangkat lain
+sidebar-menu-bookmarks-header =
+    .heading = Markah
 sidebar-panel-header-close-button =
     .tooltiptext = Tutup
 

@@ -354,21 +354,93 @@ pdfjs-editor-alt-text-edit-button =
     .aria-label = Edit teks alternatif
 pdfjs-editor-alt-text-edit-button-label = Edit teks alternatif
 pdfjs-editor-alt-text-dialog-label = Pilih opsi
+pdfjs-editor-alt-text-add-description-label = Tambahkan deskripsi
+pdfjs-editor-alt-text-add-description-description = Upayakan 1-2 kalimat yang menggambarkan subjek, latar, atau tindakan.
+pdfjs-editor-alt-text-mark-decorative-label = Tandai sebagai dekoratif
+pdfjs-editor-alt-text-mark-decorative-description = Ini digunakan untuk gambar hias, seperti batas atau tanda air.
+pdfjs-editor-alt-text-cancel-button = Batal
+pdfjs-editor-alt-text-save-button = Simpan
+pdfjs-editor-alt-text-decorative-tooltip = Ditandai sebagai dekoratif
+# .placeholder: This is a placeholder for the alt text input area
+pdfjs-editor-alt-text-textarea =
+    .placeholder = Misalnya, “Seorang pemuda duduk di meja untuk makan”
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button =
+    .aria-label = Teks alternatif
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
 
+pdfjs-editor-resizer-label-top-left = Pojok kiri atas — ubah ukuran
+pdfjs-editor-resizer-label-top-middle = Tengah atas — ubah ukuran
+pdfjs-editor-resizer-label-top-right = Pojok kanan atas — ubah ukuran
+pdfjs-editor-resizer-label-middle-right = Kanan tengah — ubah ukuran
+pdfjs-editor-resizer-label-bottom-right = Pojok kanan bawah — ubah ukuran
+pdfjs-editor-resizer-label-bottom-middle = Tengah bawah — ubah ukuran
+pdfjs-editor-resizer-label-bottom-left = Pojok kiri bawah — ubah ukuran
+pdfjs-editor-resizer-label-middle-left = Kiri tengah — ubah ukuran
+pdfjs-editor-resizer-top-left =
+    .aria-label = Pojok kiri atas — ubah ukuran
+pdfjs-editor-resizer-top-middle =
+    .aria-label = Tengah atas — ubah ukuran
+pdfjs-editor-resizer-top-right =
+    .aria-label = Pojok kanan atas — ubah ukuran
+pdfjs-editor-resizer-middle-right =
+    .aria-label = Kanan tengah — ubah ukuran
+pdfjs-editor-resizer-bottom-right =
+    .aria-label = Pojok kanan bawah — ubah ukuran
+pdfjs-editor-resizer-bottom-middle =
+    .aria-label = Tengah bawah — ubah ukuran
+pdfjs-editor-resizer-bottom-left =
+    .aria-label = Pojok kiri bawah — ubah ukuran
+pdfjs-editor-resizer-middle-left =
+    .aria-label = Kiri tengah — ubah ukuran
 
 ## Color picker
 
+# This means "Color used to highlight text"
+pdfjs-editor-highlight-colorpicker-label = Warna sorot
+pdfjs-editor-colorpicker-button =
+    .title = Ubah warna
+pdfjs-editor-colorpicker-dropdown =
+    .aria-label = Pilihan warna
+pdfjs-editor-colorpicker-yellow =
+    .title = Kuning
+pdfjs-editor-colorpicker-green =
+    .title = Hijau
+pdfjs-editor-colorpicker-blue =
+    .title = Biru
+pdfjs-editor-colorpicker-pink =
+    .title = Merah Jambu
+pdfjs-editor-colorpicker-red =
+    .title = Merah
 
 ## Show all highlights
 ## This is a toggle button to show/hide all the highlights.
 
+pdfjs-editor-highlight-show-all-button-label = Tampilkan semua
+pdfjs-editor-highlight-show-all-button =
+    .title = Tampilkan semua
 
 ## New alt-text dialog
 ## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
 
+# Modal header positioned above a text box where users can edit the alt text.
+pdfjs-editor-new-alt-text-dialog-edit-label = Edit teks alternatif (deskripsi gambar)
+# Modal header positioned above a text box where users can add the alt text.
+pdfjs-editor-new-alt-text-dialog-add-label = Tambahkan teks alternatif (deskripsi gambar)
+pdfjs-editor-new-alt-text-textarea =
+    .placeholder = Tulis deskripsi Anda di sini…
+# This text refers to the alt text box above this description. It offers a definition of alt text.
+pdfjs-editor-new-alt-text-description = Deskripsi singkat untuk orang yang tidak dapat melihat gambar atau saat gambar tidak termuat.
+# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
+pdfjs-editor-new-alt-text-disclaimer1 = Teks alternatif ini dibuat secara otomatis dan mungkin tidak akurat.
+pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Pelajari lebih lanjut
+pdfjs-editor-new-alt-text-create-automatically-button-label = Buat teks alternatif secara otomatis
+pdfjs-editor-new-alt-text-not-now-button = Jangan sekarang
+pdfjs-editor-new-alt-text-error-title = Tidak bisa membuat teks alternatif secara otomatis
+pdfjs-editor-new-alt-text-error-description = Silakan tulis teks alternatif Anda sendiri atau coba lagi nanti.
+pdfjs-editor-new-alt-text-error-close-button = Tutup
 
 ## Image alt-text settings
 

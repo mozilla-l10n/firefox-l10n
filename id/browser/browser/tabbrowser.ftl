@@ -46,6 +46,13 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = Suarakan tab
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = Bisukan tab
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = Mainkan tab
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -173,6 +180,17 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Batal
     .accesskey = B
+tab-group-editor-color-selector =
+    .aria-label = Warna grup tab
+tab-group-editor-color-selector-blue = Biru
+tab-group-editor-color-selector-purple = Ungu
+tab-group-editor-color-selector-cyan = Sian
+tab-group-editor-color-selector-orange = Jingga
+tab-group-editor-color-selector-yellow = Kuning
+tab-group-editor-color-selector-pink = Merah Jambu
+tab-group-editor-color-selector-green = Hijau
+tab-group-editor-color-selector-gray = Kelabu
+tab-group-editor-color-selector-red = Merah
 tab-group-menu-header = Grup tab
 tab-context-unnamed-group =
     .label = Grup tanpa nama
@@ -222,3 +240,25 @@ tab-context-ungroup-tab =
 
 ## Open/saved tab group context menu
 
+# For a tab group open in any window, clicking this will create a new
+# window and move this tab group to that new window.
+tab-group-context-move-to-new-window =
+    .label = Pindahkan Grup ke Jendela Baru
+# For a tab group open in a different window from the one that the
+# user is using to access the tab group menu, move that tab group into the
+# user's current window.
+tab-group-context-move-to-this-window =
+    .label = Pindahkan Grup ke Jendela Ini
+# For a tab group that is open in any window, close the tab group and
+# do not save it. For a tab group that is closed but saved by the user, clicking
+# this will forget the saved tab group.
+tab-group-context-delete =
+    .label = Hapus Grup
+# For a saved tab group that is not open in any window, open the tab group
+# in the user's current window.
+tab-group-context-open-saved-group-in-this-window =
+    .label = Buka Grup di Jendela Ini
+# For a saved tab group that is not open in any window, create a new window and
+# open the tab group in that window.
+tab-group-context-open-saved-group-in-new-window =
+    .label = Buka Grup di Jendela Baru
