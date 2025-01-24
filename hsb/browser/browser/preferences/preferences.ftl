@@ -1319,6 +1319,7 @@ collection-description = Chcemy was z wuběrami wobstarać a jenož to zběrać,
 collection-privacy-notice = Zdźělenka priwatnosće
 collection-health-report-telemetry-disabled = Sće { -vendor-short-name } dowolnosć zebrał, techniske a interakciske daty hromadźić. Wšě dotal zhromadźene daty so w běhu 30 dnjow zhašeja.
 collection-health-report-telemetry-disabled-link = Dalše informacije
+collection-usage-ping-description = To { -vendor-short-name } pomha, sej aktiwnych wužiwarjow wažić.
 collection-health-report2 =
     .label = Techniske daty a daty interakcije na { -vendor-short-name } pósłać
     .accesskey = T

@@ -29,6 +29,7 @@ reset-primary-password-window2 =
     .style = min-width: 40em
 reset-password-button-label =
     .label = Poništi
+reset-primary-password-text = Ako resetiraš primarnu lozinku, zaboravit će se sve spremljene lozinke web stranica i e-pošte te spremljeni formulari, osobni certifikati i privatni ključevi. Zaista želiš poništiti svoju primarnu lozinku?
 pippki-reset-password-confirmation-title = Ponovno postavljanje primarne lozinke
 pippki-reset-password-confirmation-message = Tvoja primarna lozinka ponovno je postavljena.
 

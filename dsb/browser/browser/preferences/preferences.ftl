@@ -1319,6 +1319,7 @@ collection-description = Comy was z wuběrkami wobstaraś a janož to zběraś, 
 collection-privacy-notice = Powěźeńka priwatnosći
 collection-health-report-telemetry-disabled = Sćo zajmjeł { -vendor-short-name } dowólnosć, techniske a interakciske daty gromaźiś. Wšykne dotychměst zgromaźone daty se w běgu 30 dnjow wulašuju.
 collection-health-report-telemetry-disabled-link = Dalšne informacije
+collection-usage-ping-description = To { -vendor-short-name } pomaga, se aktiwne wužywarje wažyś.
 collection-health-report =
     .label = { -brand-short-name } zmóžniś, techniske a interakciske daty na { -vendor-short-name } pósłaś
     .accesskey = t

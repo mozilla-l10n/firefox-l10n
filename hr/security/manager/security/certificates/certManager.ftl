@@ -142,6 +142,8 @@ delete-email-cert-impact = Ako izbrišete certifikat e-pošte određene osobe, v
 #   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
 cert-with-serial =
     .value = Certifikat sa serijskim brojem: { $serialNumber }
+# Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
+send-no-client-certificate = Ne šalji certifikat klijenta
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (nije pohranjeno)
 # When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
