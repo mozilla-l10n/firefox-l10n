@@ -345,6 +345,10 @@ pdfjs-editor-stamp-add-image-button-label = Dodaj sliku
 pdfjs-editor-free-highlight-thickness-input = Debljina
 pdfjs-editor-free-highlight-thickness-title =
     .title = Promjeni debljinu pri isticanju drugih stavki osim teksta
+# .default-content is used as a placeholder in an empty text editor.
+pdfjs-free-text2 =
+    .aria-label = Uređivač teksta
+    .default-content = Počni tipkati …
 pdfjs-free-text =
     .aria-label = Uređivač teksta
 pdfjs-free-text-default-content = Počni tipkati …
@@ -438,12 +442,16 @@ pdfjs-editor-new-alt-text-dialog-edit-label = Uredi alternativni tekst (opis sli
 pdfjs-editor-new-alt-text-dialog-add-label = Dodaj alternativni tekst (opis slike)
 pdfjs-editor-new-alt-text-textarea =
     .placeholder = Ovdje upiši tvoj opis …
+# This text refers to the alt text box above this description. It offers a definition of alt text.
+pdfjs-editor-new-alt-text-description = Kratki opis koji pomažu osobama koji ne mogu vidjeti sliku ili kada se slika ne učita.
 # This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
 pdfjs-editor-new-alt-text-disclaimer1 = Ovaj je alternativni tekst stvoren automatski i može biti netočan.
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Saznaj više
 pdfjs-editor-new-alt-text-create-automatically-button-label = Automatski stvori alternativni tekst
+pdfjs-editor-new-alt-text-not-now-button = Ne sada
 pdfjs-editor-new-alt-text-error-title = Nije bilo moguće automatski izraditi alternativni tekst
 pdfjs-editor-new-alt-text-error-description = Napiši vlastiti alternativni tekst ili pokušaj kasnije ponovo.
+pdfjs-editor-new-alt-text-error-close-button = Zatvori
 # Variables:
 #   $totalSize (Number) - the total size (in MB) of the AI model.
 #   $downloadedSize (Number) - the downloaded size (in MB) of the AI model.
@@ -490,3 +498,21 @@ pdfjs-editor-alt-text-settings-close-button = Zatvori
 
 ## "Annotations removed" bar
 
+pdfjs-editor-undo-bar-message-highlight = Isticanje uklonjeno
+pdfjs-editor-undo-bar-message-freetext = Tekst uklonjen
+pdfjs-editor-undo-bar-message-ink = Crtež uklonjen
+pdfjs-editor-undo-bar-message-stamp = Slika uklonjena
+# Variables:
+#   $count (Number) - the number of removed annotations.
+pdfjs-editor-undo-bar-message-multiple =
+    { $count ->
+        [one] { $count } pribilješka uklonjena
+        [few] { $count } pribilješke uklonjene
+       *[other] { $count } pribilješki uklonjeno
+    }
+pdfjs-editor-undo-bar-undo-button =
+    .title = Poništi
+pdfjs-editor-undo-bar-undo-button-label = Poništi
+pdfjs-editor-undo-bar-close-button =
+    .title = Zatvori
+pdfjs-editor-undo-bar-close-button-label = Zatvori
