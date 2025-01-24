@@ -253,6 +253,9 @@ newtab-pocket-thumbs-up-tooltip =
 # Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
 newtab-pocket-thumbs-down-tooltip =
     .title = Ikkje for meg
+# Used to show the user a message upon clicking the thumbs up or down buttons
+newtab-toast-thumbs-up-or-down2 =
+    .message = Takk. Tilbakemeldinga di  vil hjelpe oss med å gjere kjelda di betre.
 newtab-toast-thumbs-up-or-down = Takk. Tilbakemeldinga di  vil hjelpe oss med å gjere kjelda di betre.
 newtab-toast-dismiss-button =
     .title = Avvis
@@ -451,6 +454,14 @@ newtab-topic-selection-button-pick-interests = Vel interessene dine
 newtab-section-follow-button = Følg
 newtab-section-following-button = Følgjer
 
+## Button to block/unblock listed topics
+## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
+## e.g. Blocked the politics section of stories.
+
+
 ## Confirmation modal for blocking a section
 
 newtab-section-cancel-button = Ikkje no
+
+## Panel in the Customize menu section to manage followed and blocked topics
+
