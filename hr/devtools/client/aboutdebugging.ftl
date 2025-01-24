@@ -278,6 +278,13 @@ about-debugging-extension-backgroundscript =
 about-debugging-extension-backgroundscript-status-running = Izvodi se
 # Displayed for extension using a non-persistent background page when is currently stopped.
 about-debugging-extension-backgroundscript-status-stopped = Zaustavljeno
+# This string is displayed as a label of the button that pushes a test payload
+# to a service worker.
+# Note this relates to the "Push" API, which is normally not localized so it is
+# probably better to not localize it.
+# .disabledTitle is processed by the fluent-react / ActionButton code.
+about-debugging-worker-action-push2 = Push
+    .disabledTitle = Push obavijesti Service Workera su trenutačno deaktivirane za multiprocesni { -brand-shorter-name }
 # This string is displayed as a label of the button that starts a service worker.
 # .disabledTitle is processed by the fluent-react / ActionButton code.
 about-debugging-worker-action-start2 = Pokreni
@@ -302,6 +309,10 @@ about-debugging-worker-status-registering = Registriranje
 # Displayed for service workers in runtime pages, to label the scope of a worker
 about-debugging-worker-scope =
     .label = Opseg
+# Displayed for service workers in runtime pages, to label the push service endpoint (url)
+# of a worker
+about-debugging-worker-push-service =
+    .label = Push usluga
 # Displayed for service workers in runtime pages, to label the origin of a worker.
 about-debugging-worker-origin =
     .label = Izvor

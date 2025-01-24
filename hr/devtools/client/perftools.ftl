@@ -62,6 +62,8 @@ perftools-button-edit-settings = Uredi postavke…
 
 perftools-thread-compositor =
     .title = Spaja različite obojene elemente na stranici
+perftools-thread-dom-worker =
+    .title = Ovo upravlja web workerima i service workerima
 
 ##
 

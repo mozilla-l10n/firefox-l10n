@@ -8,6 +8,7 @@ crashreporter-crashed-and-restore = ל־{ -brand-short-name } הייתה בעי�
 crashreporter-plea = כדי לעזור לנו לאבחן ולתקן את הבעיה, באפשרותך לשלוח לנו דיווח קריסה.
 crashreporter-information = יישום זה מופעל לאחר קריסה כדי לדווח על הבעיה ל־{ -vendor-short-name }.  אין להריץ אותו ישירות.
 crashreporter-error = ‏{ -brand-short-name } נתקל בבעיה וקרס. לרוע המזל, מדווח הקריסות לא יכול לשלוח את הדיווח עבור קריסה זו.
+crashreporter-error-details-header = פרטים:
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = פרטים: { $details }
 crashreporter-no-run-message = יישום זה מופעל לאחר קריסה כדי לדווח על הבעיה ליצרן היישום.  אין צורך להריץ אותו ישירות.

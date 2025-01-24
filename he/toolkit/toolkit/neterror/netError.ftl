@@ -12,6 +12,7 @@ neterror-blocked-by-policy-page-title = עמוד חסום
 neterror-captive-portal-page-title = כניסה לרשת
 neterror-dns-not-found-title = השרת לא נמצא
 neterror-malformed-uri-page-title = כתובת לא תקנית
+general-body-title = נא להיזהר. משהו לא נראה תקין.
 
 ## Error page actions
 
@@ -151,6 +152,9 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = אם <b>{ $mitm }</b> אי�
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = ל־<b>{ $hostname }</b> יש מדיניות אבטחה בשם אבטחת תעבורה מחמירה של HTTP ‏(HSTS), כלומר { -brand-short-name } יכול להתחבר לאתר באופן מאובטח בלבד. לא ניתן להוסיף חריגה כדי לבקר באתר זה.
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = כנראה שכלום, מכיוון שסביר להניח שיש בעיה באתר עצמו.
+certerror-blocked-by-corp-headers-description = לפעמים אתרים מגדירים הגנות לעצמם ולאנשים כמוך מפני אינטראקציות לא רצויות עם אתרים אחרים.
+certerror-coop-learn-more = מידע נוסף על Cross Origin Opener Policies ‏(COOP)
+certerror-coep-learn-more = מידע נוסף על Cross Origin Embedder Policies ‏(COEP)
 # Variables:
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
