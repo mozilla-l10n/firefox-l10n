@@ -229,6 +229,9 @@ newtab-pocket-read-more = ജനപ്രിയ വിഷയങ്ങൾ:
 newtab-pocket-more-recommendations = കൂടുതൽ ശുപാർശകൾ
 newtab-pocket-learn-more = കൂടുതല്‍ അറിയുക
 newtab-pocket-cta-button = { -pocket-brand-name } ലഭ്യമാക്കുക
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-image =
+    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = കരുതിവയ്ക്കുക
 newtab-pocket-saved = കരുതിവച്ച
 
@@ -376,6 +379,9 @@ newtab-section-unfollow-button = പിന്തുടരാൻ നിരുത�
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
 ## e.g. Blocked the politics section of stories.
 
+newtab-section-block-button = തടയുക
+newtab-section-blocked-button = തടഞ്ഞവ
+newtab-section-unblock-button = തടയാൻ നിൎത്തുക
 
 ## Confirmation modal for blocking a section
 
@@ -385,3 +391,8 @@ newtab-section-cancel-button = ഇപ്പോഴല്ല
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+newtab-section-mangage-topics-title = വിഷയങ്ങൾ
+newtab-section-mangage-topics-button =
+    .label = പിന്തുടരുന്നയും തടഞ്ഞതും വിഷയങ്ങൾ
+newtab-section-mangage-topics-followed-topics-subtitle = പിന്തുടരുന്ന വിഷയങ്ങൾ
+newtab-section-mangage-topics-blocked-topics-subtitle = തടഞ്ഞ വിഷയങ്ങൾ
