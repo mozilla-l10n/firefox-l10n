@@ -284,5 +284,13 @@ newtab-custom-settings = আরও সেটিং পরিচালনা ক�
 ## e.g. Following the travel section of stories.
 
 
+## Button to block/unblock listed topics
+## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
+## e.g. Blocked the politics section of stories.
+
+
 ## Confirmation modal for blocking a section
+
+
+## Panel in the Customize menu section to manage followed and blocked topics
 

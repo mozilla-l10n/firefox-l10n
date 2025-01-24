@@ -44,6 +44,9 @@ tabbrowser-unmute-tab-audio-background-tooltip =
 tabbrowser-unblock-tab-audio-tooltip =
     .label = 탭 { $tabCount }개 재생
 
+## Tooltips for tab audio control
+
+
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 

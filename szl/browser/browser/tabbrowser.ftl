@@ -78,6 +78,9 @@ tabbrowser-unblock-tab-audio-tooltip =
            *[many] Puść klang na { $tabCount } kartach
         }
 
+## Tooltips for tab audio control
+
+
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 

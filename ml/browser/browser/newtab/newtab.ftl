@@ -372,8 +372,16 @@ newtab-section-follow-button = പിന്തുടരുക
 newtab-section-following-button = പിന്തുടരുന്നു
 newtab-section-unfollow-button = പിന്തുടരാൻ നിരുത്തുക
 
+## Button to block/unblock listed topics
+## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
+## e.g. Blocked the politics section of stories.
+
+
 ## Confirmation modal for blocking a section
 
 newtab-section-confirm-block-section-p1 = ഈ വിഭാഗം തടയണമെന്നു് താങ്ങൾക്കു് ഉറപ്പാണോ?
 newtab-section-block-section-button = ഈ വിഭാഗം തടയുക
 newtab-section-cancel-button = ഇപ്പോഴല്ല
+
+## Panel in the Customize menu section to manage followed and blocked topics
+

@@ -72,6 +72,9 @@ tabbrowser-unblock-tab-audio-tooltip =
            *[other] Ketzij { $tabCount } ruwi'
         }
 
+## Tooltips for tab audio control
+
+
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
