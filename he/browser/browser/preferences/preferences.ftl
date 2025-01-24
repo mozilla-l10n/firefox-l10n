@@ -1314,6 +1314,14 @@ collection-health-report-link = מידע נוסף
 collection-studies =
     .label = לאפשר ל־{ -brand-short-name } להתקין ולהריץ מחקרים
 collection-studies-link = הצגת המחקרים של { -brand-short-name }
+addon-recommendations-description = קבלת המלצות על הרחבות לשיפור חווית הגלישה שלך.
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled2 = דיווח נתונים מושבת עבור תצורת בנייה זו.
+collection-backlogged-crash-reports2 =
+    .label = שליחת דיווחי קריסה באופן אוטומטי
+    .accesskey = ש
+collection-backlogged-crash-reports-description = זה מסייע ל־{ -vendor-short-name } לאבחן ולתקן בעיות בדפדפן. דיווחים עשויים לכלול נתונים אישיים או רגישים.
 addon-recommendations =
     .label = לאפשר ל־{ -brand-short-name } להציע הרחבות מותאמות אישית
 addon-recommendations-link = מידע נוסף

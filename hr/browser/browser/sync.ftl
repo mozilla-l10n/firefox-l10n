@@ -58,7 +58,7 @@ sync-profile-different-account-title-merge = Profil je sinkroniziran s jednim dr
 # Variables:
 #   $acctEmail (String) - Email of the account signing into sync.
 #   $profileName (String) - Name of the current profile
-sync-profile-different-account-description-merge = Kako bi tvoji podaci bili organizirani i sigurni, preporučujemo da izradiš novi profil za prijavu koristeći { $acctEmail }. Ako odlučiš nastaviti sinkronizirati na ovom profilu, podaci s oba računa će se trajno spojiti u profil „{ $profileName }”.
+sync-profile-different-account-description-merge = Kako bi tvoji podaci bili organizirani i sigurni, preporučujemo da izradiš novi profil za prijavu pomoću { $acctEmail }. Ako odlučiš nastaviti sinkronizirati na ovom profilu, podaci s oba računa će se trajno spojiti u profil „{ $profileName }”.
 # Dialog 2 - account signed in on another profile without option to merge
 sync-account-in-use-header = Račun se već koristi
 # Variables:
@@ -68,6 +68,11 @@ sync-account-in-use-header-merge = E-mail adresa { $acctEmail } je već prijavlj
 sync-account-in-use-description = Ovaj račun možeš povezati samo s jednim profilom na ovom računalu.
 # Dialog 2 - account signed in on another profile with merge option
 sync-account-already-signed-in-header = Ovaj račun je prijavljen na jednom drugom profilu. Sinkronizirati oba profila?
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $currentProfile (String): Name of the current profile signing in
+#   $otherProfile (String): Name of the profile that is already signed in
+sync-account-in-use-description-merge = E-mail adresa { $acctEmail } je prijavljena na profil „{ $otherProfile }” na ovom računalu. Sinkronizacija profila „{ $currentProfile }” će trajno povezati podatke iz oba profila, kao što su lozinke i zabilješke.
 # Variables:
 #   $profileName (String) - Name of the profile to switch to
 sync-button-switch-profile = Prebaci na „{ $profileName }”

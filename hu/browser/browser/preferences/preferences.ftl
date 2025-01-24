@@ -1335,6 +1335,9 @@ addon-recommendations-description = Kapjon kiegészítőjavaslatokat a böngész
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled2 = Az adatjelentés le van tiltva ennél az összeállítási konfigurációnál.
+collection-backlogged-crash-reports2 =
+    .label = Összeomlás-jelentések automatikus elküldése
+    .accesskey = j
 addon-recommendations =
     .label = Engedélyezés, hogy a { -brand-short-name } személyre szabott kiegészítő ajánlásokat tegyen
 addon-recommendations-link = További tudnivalók
