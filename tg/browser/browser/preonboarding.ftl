@@ -7,6 +7,8 @@
 
 preonboarding-title = Хуш омадед ба «{ -brand-product-name }»
 preonboarding-primary-cta = Тасдиқ кунед ва идома диҳед
+# Label for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
+preonboarding-manage-and-read-header = Танзимоти ҷамъоварии маълумотро идора кунед ва ҳуҷҷатҳои моро дар бахши «Шартҳои истифода» ва «Огоҳномаи махфият» мутолиа намоед.
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Шартҳои моро барои истифодабарӣ хонед
 # Label for header style button that toggles showing the Privacy Notice
