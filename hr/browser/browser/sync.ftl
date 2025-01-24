@@ -39,9 +39,17 @@ fxa-menu-sync-description = Pristupite svom webu bilo gdje
 sync-setup-verify-continue = Nastavi
 sync-setup-verify-title = Upozorenje o spajanju
 sync-setup-verify-heading = Stvarno se želiš prijaviti za sinkronizaciju?
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = Na ovom računalu je prije bio prijavljen jedan drugi korisnik. Prijava će spojiti zabilješke, lozinke i ostale postavke na ovom računalu sa { $email }
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
+# Dialog 1 - different account signing in without option to merge
+sync-profile-different-account-title = Dosegnuto je ograničenje računa za ovaj profil
+sync-profile-different-account-header = Ovaj je profil prethodno bio sinkroniziran s jednim drugim računom
 # Dialog 2 - account signed in on another profile without option to merge
 sync-account-in-use-header = Račun se već koristi
 # Variables:

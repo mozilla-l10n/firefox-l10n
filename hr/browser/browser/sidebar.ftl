@@ -133,6 +133,8 @@ sidebar-menu-history-header =
     .heading = Povijest
 sidebar-menu-syncedtabs-header =
     .heading = Kartice s drugih uređaja
+sidebar-menu-bookmarks-header =
+    .heading = Zabilješke
 sidebar-panel-header-close-button =
     .tooltiptext = Zatvori
 

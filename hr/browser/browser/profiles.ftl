@@ -4,6 +4,7 @@
 
 profile-window-title = { -brand-short-name } – Odaberi korisnički profil
 profile-window-heading = Odaberi { -brand-short-name } profil
+profile-window-body = Zadrži svoj rad i osobno pregledavanje, uključujući stvari poput lozinki i zabilješki, potpuno odvojene. Ili izradi profile za svakoga tko koristi ovaj uređaj.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Odaberi profil kada se { -brand-short-name } otvori
@@ -40,6 +41,7 @@ edit-profile-page-duplicate-name = Ime profila se već koristi. Pokušaj s novim
 edit-profile-page-profile-saved = Spremljeno
 new-profile-page-title = Novi profil
 new-profile-page-header = Prilagodi tvoj novi profil
+new-profile-page-header-description = Svaki profil čuva svoju jedinstvenu povijest pregledavanja i postavke odvojene od tvojih ostalih profila. Osim toga je jaka zaštita privatnosti { -brand-short-name(case: "gen") } standardno uključena.
 new-profile-page-learn-more = Saznaj više
 new-profile-page-input-placeholder =
     .placeholder = Odaberi ime poput „Posao” ili „Osobno”

@@ -18,5 +18,6 @@ preonboarding-privacy-notice-header-button-title = Pročitaj našu napomenu o pr
 preonboarding-manage-data-header-button-title = Upravljaj podacima o dijagnostici i interakciji
 # New user onboarding checklist
 preonboarding-checklist-interaction-data-label = Šalji tehničke podatke i podatke o interakciji na { -vendor-short-name }
+preonboarding-checklist-interaction-data-description = Podaci o tvom uređaju, hardverskoj konfiguraciji i načinu na koji koristiš { -brand-product-name } pomažu poboljšati funkcije, performansu i stabilnost za sve.
 preonboarding-checklist-crash-reports-label = Automatski šalji izvještaje o prekidu programa
 preonboarding-checklist-crash-reports-description = Izvještaji o prekidu programa nam pomažu dijagnosticirati i riješiti probleme s preglednikom. Izvještaji mogu uključivati osobne ili osjetljive podatke.
