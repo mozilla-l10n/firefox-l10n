@@ -30,6 +30,7 @@ webext-perms-description-sessions = Pristup nedavno zatvorenim karticama
 webext-perms-description-tabs = Pristup karticama preglednika
 webext-perms-description-tabHide = Sakrij i prikaži kartice preglednika
 webext-perms-description-topSites = Pristupi povijesti pregledavanja
+webext-perms-description-trialML = Preuzmi i pokreni UI modele na tvom uređaju
 webext-perms-description-webNavigation = Pristup aktivnostima preglednika tijekom korištenja navigacije
 
 ## The userScripts permission includes an additional explanation that is

@@ -32,4 +32,7 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
 about-glean-about-testing-header = O testiranju
 about-glean-about-data-header = O podacima
+about-glean-about-data-list-item-about-telemetry =
+    Za pregledavanje podataka koji se prikupljaju starom telemetrijom, pogledaj
+    <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
 about-glean-about-data-explanation = Za pregledavanje popisa prikupljenih podataka, pogledaj<a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }Rječnik</a>.
