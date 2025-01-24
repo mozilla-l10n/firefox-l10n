@@ -260,6 +260,9 @@ newtab-pocket-thumbs-up-tooltip =
 # Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
 newtab-pocket-thumbs-down-tooltip =
     .title = Nem nekem való
+# Used to show the user a message upon clicking the thumbs up or down buttons
+newtab-toast-thumbs-up-or-down2 =
+    .message = Köszönjük. Visszajelzése segít nekünk a hírforrás fejlesztésében.
 newtab-toast-thumbs-up-or-down = Köszönjük. Visszajelzése segít nekünk a hírforrás fejlesztésében.
 newtab-toast-dismiss-button =
     .title = Eltüntetés
@@ -461,9 +464,17 @@ newtab-section-follow-button = Követés
 newtab-section-following-button = Követés
 newtab-section-unfollow-button = Követés megszüntetése
 
+## Button to block/unblock listed topics
+## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
+## e.g. Blocked the politics section of stories.
+
+
 ## Confirmation modal for blocking a section
 
 newtab-section-confirm-block-section-p1 = Biztos, hogy blokkolja ezt a szakaszt?
 newtab-section-confirm-block-section-p2 = A blokkolt szakasz nem fog megjelenni a hírfolyamában.
 newtab-section-block-section-button = Szakasz blokkolása
 newtab-section-cancel-button = Most nem
+
+## Panel in the Customize menu section to manage followed and blocked topics
+
