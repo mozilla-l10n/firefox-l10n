@@ -74,6 +74,13 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = Ljud på för flik
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = Ljud av för flik
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = Spela flik
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -201,6 +208,17 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Avbryt
     .accesskey = A
+tab-group-editor-color-selector =
+    .aria-label = Färg på flikgrupp
+tab-group-editor-color-selector-blue = Blå
+tab-group-editor-color-selector-purple = Lila
+tab-group-editor-color-selector-cyan = Cyan
+tab-group-editor-color-selector-orange = Orange
+tab-group-editor-color-selector-yellow = Gul
+tab-group-editor-color-selector-pink = Rosa
+tab-group-editor-color-selector-green = Grön
+tab-group-editor-color-selector-gray = Grå
+tab-group-editor-color-selector-red = Röd
 tab-group-menu-header = Flikgrupper
 tab-context-unnamed-group =
     .label = Namnlös grupp

@@ -133,6 +133,8 @@ sidebar-menu-history-header =
     .heading = Historik
 sidebar-menu-syncedtabs-header =
     .heading = Flikar från andra enheter
+sidebar-menu-bookmarks-header =
+    .heading = Bokmärken
 sidebar-panel-header-close-button =
     .tooltiptext = Stäng
 

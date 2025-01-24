@@ -8,6 +8,7 @@ crashreporter-crashed-and-restore = { -brand-short-name } hade ett problem och k
 crashreporter-plea = För att hjälpa oss att diagnostisera och lösa problemet kan du skicka oss en kraschrapport.
 crashreporter-information = Det här programmet körs efter en krasch för att rapportera problemet till { -vendor-short-name }. Det ska inte köras direkt.
 crashreporter-error = { -brand-short-name } hade ett problem och kraschade. Tyvärr kan inte kraschrapportören skicka en rapport för denna krasch.
+crashreporter-error-details-header = Detaljer:
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Detaljer: { $details }
 crashreporter-no-run-message = Det här programmet körs efter en krasch för att rapportera problemet till programmakaren.  Det ska inte köras på egen hand.

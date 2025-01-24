@@ -12,6 +12,7 @@ neterror-blocked-by-policy-page-title = Blockerad sida
 neterror-captive-portal-page-title = Logga in till nätverk
 neterror-dns-not-found-title = Servern hittades inte
 neterror-malformed-uri-page-title = Ogiltig URL
+general-body-title = Var försiktig. Något ser inte rätt ut.
 
 ## Error page actions
 
@@ -151,6 +152,9 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Om du inte känner till <b>
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> har en säkerhetspolicy som heter HTTP Strict Transport Security (HSTS), vilket innebär att { -brand-short-name } kan endast anslutas säkert till den. Du kan inte lägga till ett undantag för att besöka denna webbplats.
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = Förmodligen ingenting, eftersom det troligtvis finns ett problem med själva webbplatsen.
+certerror-blocked-by-corp-headers-description = Ibland sätter webbplatser in skydd för sig själva och personer som du från oönskade interaktioner med andra webbplatser.
+certerror-coop-learn-more = Läs mer om Cross Origin Opener Policyer (COOP)
+certerror-coep-learn-more = Läs mer om Cross Origin Embedder Policies (COEP)
 # Variables:
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").

@@ -468,6 +468,9 @@ newtab-section-unfollow-button = Sluta följa
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
 ## e.g. Blocked the politics section of stories.
 
+newtab-section-block-button = Blockera
+newtab-section-blocked-button = Blockerad
+newtab-section-unblock-button = Blockera inte
 
 ## Confirmation modal for blocking a section
 
@@ -478,3 +481,10 @@ newtab-section-cancel-button = Inte nu
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+newtab-section-mangage-topics-title = Ämnen
+newtab-section-mangage-topics-button =
+    .label = Följda och blockerade ämnen
+newtab-section-mangage-topics-followed-topics-subtitle = ämnen som följs
+newtab-section-mangage-topics-followed-topics-empty-state = Du har inte följt några ämnen än.
+newtab-section-mangage-topics-blocked-topics-subtitle = Blockerade ämnen
+newtab-section-mangage-topics-blocked-topics-empty-state = Du har inte blockerat några ämnen än.
