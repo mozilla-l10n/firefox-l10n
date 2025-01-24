@@ -10,7 +10,7 @@
 
 ## Welcome page strings
 
-onboarding-welcome-header = { -brand-short-name }에 오신 것을 환영합니다
+onboarding-welcome-header = { -brand-short-name } 사용을 환영합니다
 onboarding-start-browsing-button-label = 탐색 시작
 onboarding-not-now-button-label = 나중에
 mr1-onboarding-get-started-primary-button-label = 시작하기

@@ -1322,6 +1322,7 @@ collection-health-report-disabled2 = 이 빌드 구성에서는 데이터 보고
 collection-backlogged-crash-reports2 =
     .label = 자동으로 충돌 보고서 제출
     .accesskey = c
+collection-backlogged-crash-reports-description = { -vendor-short-name }가 브라우저의 문제를 진단하고 해결하는데 도움이 됩니다. 보고서에는 개인 정보나 민감한 정보가 포함되어 있을 수 있습니다.
 addon-recommendations =
     .label = { -brand-short-name }가 개인화된 확장 기능 추천을 할 수 있도록 허용
 addon-recommendations-link = 더 알아보기
