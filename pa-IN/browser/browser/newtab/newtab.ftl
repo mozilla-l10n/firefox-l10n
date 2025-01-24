@@ -467,6 +467,9 @@ newtab-section-unfollow-button = ਅਣ-ਫ਼ਾਲੋ ਕਰੋ
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
 ## e.g. Blocked the politics section of stories.
 
+newtab-section-block-button = ਪਾਬੰਦੀ ਲਾਓ
+newtab-section-blocked-button = ਪਾਬੰਦੀ ਲਗਾਈ
+newtab-section-unblock-button = ਪਾਬੰਦੀ ਹਟਾਓ
 
 ## Confirmation modal for blocking a section
 
@@ -477,3 +480,10 @@ newtab-section-cancel-button = ਹੁਣੇ ਨਹੀਂ
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+newtab-section-mangage-topics-title = ਵਿਸ਼ੇ:
+newtab-section-mangage-topics-button =
+    .label = ਫ਼ਾਲੋ ਅਤੇ ਪਾਬੰਦੀ ਲਾਏ ਵਿਸ਼ੇ
+newtab-section-mangage-topics-followed-topics-subtitle = ਫ਼ਾਲੋ ਕੀਤੇ ਵਿਸ਼ੇ
+newtab-section-mangage-topics-followed-topics-empty-state = ਤੁਸੀਂ ਹਾਲੇ ਕਿਸੇ ਵੀ ਵਿਸ਼ੇ ਨੂੰ ਫ਼ਾਲੋ ਨਹੀਂ ਕੀਤਾ ਹੈ।
+newtab-section-mangage-topics-blocked-topics-subtitle = ਪਾਬੰਦੀ ਲਾਏ ਵਿਸ਼ੇ
+newtab-section-mangage-topics-blocked-topics-empty-state = ਤੁਸੀਂ ਹਾਲੇ ਕਿਸੇ ਵੀ ਵਿਸ਼ੇ ਉੱਤੇ ਪਾਬੰਦੀ ਨਹੀਂ ਲਾਈ ਹੈ।

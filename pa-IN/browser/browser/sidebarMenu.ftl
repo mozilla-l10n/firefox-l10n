@@ -4,6 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = ਬੁੱਕਮਾਰਕ
+sidebar-menu-bookmarks-2 = ਬੁੱਕਮਾਰਕ
 sidebar-menu-history =
     .label = ਅਤੀਤ
 sidebar-menu-synced-tabs =

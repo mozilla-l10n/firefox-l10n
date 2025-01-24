@@ -190,6 +190,14 @@ shopping-survey-thanks =
 ## Shopping opted-out survey strings
 ## Opt-out survey options are displayed as checkboxes and the user can select one or many.
 
+shopping-survey-opted-out-multiselect-label = ਕਿਰਪਾ ਕਰਕੇ ਸਾਨੂੰ ਦੱਸੋ ਕਿ ਤੁਸੀਂ ਰੀਵਿਊ ਚੈਕਰ ਨੂੰ ਬੰਦ ਕਿਉਂ ਕੀਤਾ ਹੈ। ਜੇ ਲੋੜ ਪਵੇ ਤਾਂ ਕਈ ਸਾਰਿਆਂ ਦੀ ਚੋਣ ਕਰੋ।
+shopping-survey-thanks-title = ਤੁਹਾਡੇ ਸੁਝਾਅ ਲਈ ਧੰਨਵਾਦ ਹੈ!
+shopping-survey-opted-out-hard-to-understand = ਇਸ ਨੂੰ ਸਮਝਣਾ ਔਖਾ ਹੈ
+shopping-survey-opted-out-too-slow = ਇਹ ਬਹੁਤ ਹੌਲੀ ਹੈ
+shopping-survey-opted-out-not-accurate = ਇਹ ਦਰੁਸਤ ਨਹੀਂ ਹੈ
+shopping-survey-opted-out-not-helpful = ਇਹ ਮੇਰੇ ਲਈ ਮਦਦਗਾਰ ਨਹੀਂ ਹੈ
+shopping-survey-opted-out-check-myself = ਮੈਂ ਖੁਦ ਰੀਵਿਊ ਵੇਖਣਾ ਚਾਹੁੰਦਾ/ਚਾਹੁੰਦੀ ਹਾਂ
+shopping-survey-opted-out-other = ਹੋਰ
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to

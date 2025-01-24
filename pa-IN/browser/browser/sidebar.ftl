@@ -133,6 +133,8 @@ sidebar-menu-history-header =
     .heading = ਅਤੀਤ
 sidebar-menu-syncedtabs-header =
     .heading = ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ
+sidebar-menu-bookmarks-header =
+    .heading = ਬੁੱਕਮਾਰਕ
 sidebar-panel-header-close-button =
     .tooltiptext = ਬੰਦ ਕਰੋ
 

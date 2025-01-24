@@ -152,6 +152,7 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Агар шумо бо <b>{
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> дорои сиёсати амниятӣ бо номи «Амнияти интиқоли қатъии HTTP» (HSTS) мебошад, ва ин маънои онро дорад, ки «{ -brand-short-name }» метавонад ба он танҳо тавассути алоқаи бехатар пайваст шавад. Шумо барои ворид шудан ба ин сомона истисноро илова карда наметавонед.
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = Эҳтимол аст, ки ҳеҷ чиз, зеро чунин ба назар мерасад, ки худи сомона дорои мушкилӣ мебошад.
+certerror-blocked-by-corp-headers-description = Дар баъзе мавридҳо, сомонаҳо барои худ ва одамоне, ки ба шумо монанданд, муҳофизати махсусро бар зидди муоширати номатлуб бо сомонаҳои дигар таъмин мекунанд.
 certerror-coop-learn-more = Маълумоти бештар дар бораи сиёсатҳои кушоиши сомонаҳо аз манбаъҳои гуногун (COOP)
 certerror-coep-learn-more = Маълумоти бештар дар бораи сиёсатҳои дарунсохти сомонаҳо аз манбаъҳои гуногун (COEP)
 # Variables:
