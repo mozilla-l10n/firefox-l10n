@@ -12,6 +12,7 @@ neterror-blocked-by-policy-page-title = Blokkearre side
 neterror-captive-portal-page-title = Oanmelde by netwurk
 neterror-dns-not-found-title = Server net fûn
 neterror-malformed-uri-page-title = Unjildige URL
+general-body-title = Wês foarsichtich. Eatwat sjocht der net goed út.
 
 ## Error page actions
 
@@ -151,6 +152,9 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = As jo net bekend binne mei 
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> hat in befeiligingsbelied mei de namme HTTP Strict Transport Security (HSTS), wat betsjut dat { -brand-short-name } allinnich in befeilige ferbining dêrmei meitsje kin. Jo kinne gjin útsûndering tafoegje om dizze website te besykjen.
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = Wierskynlik neat, omdat der wierskynlik in probleem mei de website sels is.
+certerror-blocked-by-corp-headers-description = Somtiden stelle websites beskerming foar harsels en minsken lykas jo tsjin net-winske ynteraksjes mei oare websites.
+certerror-coop-learn-more = Mear ynfo oer Cross Origin Opener-belied (COOP)
+certerror-coep-learn-more = Mear ynfo oer Cross Origin Embedder-belied (COEP)
 # Variables:
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").

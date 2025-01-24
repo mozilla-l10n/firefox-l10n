@@ -8,6 +8,7 @@ crashreporter-crashed-and-restore = { -brand-short-name } hat in probleem ûnder
 crashreporter-plea = Om ús te helpen mei in diagnose en in oplossing foar it probleem, kinne jo ús in ûngelokrapport stjoere.
 crashreporter-information = De crashreporter wurdt starten nei in ûngelok om it probleem te rapportearjen oan { -vendor-short-name }. It moat net daliks starten wurde.
 crashreporter-error = { -brand-short-name } hie in probleem en is fêstrûn. Spitigernôch kin de ûngelokrapportearder gjin rapport foar dit ûngelok ferstjoere.
+crashreporter-error-details-header = Details:
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Details: { $details }
 crashreporter-no-run-message = Dizze applikaasje wurdt starten nei in ûngelok om it probleem te rapportearjen oan de applikaasjemakker. It moat net daliks starten wurde.

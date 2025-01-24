@@ -1332,6 +1332,13 @@ collection-studies-link = { -brand-short-name }-ûndersiken werjaan
 addon-recommendations2 =
     .label = Personalisearre útwreidingsoanrekommandaasjes tastean
 addon-recommendations-description = Untfang útwreidingsoanrekommandaasjes om jo sneupûnderfining te ferbetterjen.
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled2 = Gegevensrapportaazje is útskeakele foar dizze buildkonfiguraasje.
+collection-backlogged-crash-reports2 =
+    .label = Automatysk ûngelokrapporten ferstjoere
+    .accesskey = r
+collection-backlogged-crash-reports-description = Dit helpt { -vendor-short-name } problemen mei de browser analysearjen en op te lossen. Rapporten kinne persoanlike of gefoelige gegevens befetsje.
 addon-recommendations =
     .label = { -brand-short-name } tastean om personalisearre útrweidingsrekommandaasjes te dwaan
 addon-recommendations-link = Mear ynfo

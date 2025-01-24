@@ -6,7 +6,7 @@
 ## Preonboarding modal screen strings
 
 preonboarding-title = Welkom bij { -brand-product-name }
-preonboarding-subtitle = Door verder te gaan, gaat u akkoord met de gebruiksvoorwaarden van { -brand-product-name } en onze Privacyverklaring. Om de browser te helpen verbeteren, verzendt { -brand-product-name } diagnostische en interactiegegevens naar { -vendor-short-name }.
+preonboarding-subtitle = Door verder te gaan, gaat u akkoord met de Gebruiksvoorwaarden van { -brand-product-name } en onze Privacyverklaring. Om de browser te helpen verbeteren, verzendt { -brand-product-name } diagnostische en interactiegegevens naar { -vendor-short-name }.
 preonboarding-primary-cta = Bevestigen en doorgaan
 # Label for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Instellingen voor gegevensverzameling beheren en onze Gebruiksvoorwaarden en Privacyverklaring lezen

@@ -74,6 +74,13 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = Ljepblêd dempe opheffe
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = Ljepblêd dempe
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = Ljepblêd ôfspylje
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -203,6 +210,17 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Annulearje
     .accesskey = A
+tab-group-editor-color-selector =
+    .aria-label = Ljepblêdgroepkleur
+tab-group-editor-color-selector-blue = Blau
+tab-group-editor-color-selector-purple = Pears
+tab-group-editor-color-selector-cyan = Syaan
+tab-group-editor-color-selector-orange = Oranje
+tab-group-editor-color-selector-yellow = Giel
+tab-group-editor-color-selector-pink = Roze
+tab-group-editor-color-selector-green = Grien
+tab-group-editor-color-selector-gray = Griis
+tab-group-editor-color-selector-red = Read
 tab-group-menu-header = Ljepblêdgroepen
 tab-context-unnamed-group =
     .label = Nammeleaze groep

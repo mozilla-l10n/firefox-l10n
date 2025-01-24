@@ -133,6 +133,8 @@ sidebar-menu-history-header =
     .heading = Skiednis
 sidebar-menu-syncedtabs-header =
     .heading = Ljepblêden fan oare apparaten
+sidebar-menu-bookmarks-header =
+    .heading = Blêdwizers
 sidebar-panel-header-close-button =
     .tooltiptext = Slute
 

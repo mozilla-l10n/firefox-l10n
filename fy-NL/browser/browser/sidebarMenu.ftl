@@ -4,6 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = Blêdwizers
+sidebar-menu-bookmarks-2 = Blêdwizers
 sidebar-menu-history =
     .label = Skiednis
 sidebar-menu-synced-tabs =
