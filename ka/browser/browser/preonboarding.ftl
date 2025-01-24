@@ -6,3 +6,18 @@
 ## Preonboarding modal screen strings
 
 preonboarding-title = მოგესალმებათ { -brand-product-name }
+preonboarding-subtitle = თუ განაგრძობთ, ამით ეთანხმებით მომსახურების პირობებსა და პირადულობის დებულებას, რომელთაც გთავაზობთ { -brand-product-name }. ბრაუზერის გასაუმჯობესებლად, { -brand-product-name } გზავნის შემოწმებისა და გამოყენების მონაცემებს, რომელთაც მიიღებს { -vendor-short-name }.
+preonboarding-primary-cta = თანხმობა და გაგრძელება
+# Label for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
+preonboarding-manage-and-read-header = მართეთ მონაცემთა აღრიცხვის პარამეტრები, აგრეთვე გაეცანით გამოყენების პირობებსა და პირადულობის დებულებას
+# Label for header style button that toggles showing the Terms of Use
+preonboarding-terms-of-use-header-button-title = წაიკითხეთ ჩვენი მომსახურების პირობები
+# Label for header style button that toggles showing the Privacy Notice
+preonboarding-privacy-notice-header-button-title = წაიკითხეთ ჩვენი პირადულობის განაცხადი
+# Label for header style button that toggles showing the data preference checklist
+preonboarding-manage-data-header-button-title = მართეთ ტექნიკური და გამოყენების მონაცემები
+# New user onboarding checklist
+preonboarding-checklist-interaction-data-label = გაიგზავნოს ტექნიკური და გამოყენების მონაცემები, რომელთაც მიიღებს { -vendor-short-name }
+preonboarding-checklist-interaction-data-description = მონაცემები თქვენი მოწყობილობის, აპარატურული გაწყობისა და იმის შესახებ, თუ როგორ გამოიყენება { -brand-product-name }, გვეხმარება შესაძლებლობების, წარმადობისა და მდგრადობის გაუმჯობესებაში ყველა მომხმარებლისთვის.
+preonboarding-checklist-crash-reports-label = უეცარი გათიშვის მოხსენებების თვითგაგზავნა
+preonboarding-checklist-crash-reports-description = უეცარი გათიშვის მოხსენებები საშუალებას გვაძლევს, გამოვავლინოთ და მოვაგვაროთ ბრაუზერის ხარვეზები. მოხსენებები შეიძლება შეიცავდეს პირად ან საფრთხილო მონაცემებს.
