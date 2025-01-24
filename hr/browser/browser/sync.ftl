@@ -50,12 +50,24 @@ sync-setup-verify-description = Na ovom računalu je prije bio prijavljen jedan 
 # Dialog 1 - different account signing in without option to merge
 sync-profile-different-account-title = Dosegnuto je ograničenje računa za ovaj profil
 sync-profile-different-account-header = Ovaj je profil prethodno bio sinkroniziran s jednim drugim računom
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+sync-profile-different-account-description = Kako bi tvoji podaci bili organizirani i sigurni, svaki se { -brand-product-name } profil može sinkronizirati samo s jednim računom. Za prijavu pomoću { $acctEmail } izradi novi profil.
+# Dialog 1 - different account signing in with merge option
+sync-profile-different-account-title-merge = Profil je sinkroniziran s jednim drugim računom
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $profileName (String) - Name of the current profile
+sync-profile-different-account-description-merge = Kako bi tvoji podaci bili organizirani i sigurni, preporučujemo da izradiš novi profil za prijavu koristeći { $acctEmail }. Ako odlučiš nastaviti sinkronizirati na ovom profilu, podaci s oba računa će se trajno spojiti u profil „{ $profileName }”.
 # Dialog 2 - account signed in on another profile without option to merge
 sync-account-in-use-header = Račun se već koristi
 # Variables:
 #   $acctEmail (String) - Email of the account signing into sync.
 #   $otherProfile (String) - Name of the other profile that is associated with the account
 sync-account-in-use-header-merge = E-mail adresa { $acctEmail } je već prijavljena na profil „{ $otherProfile }”.
+sync-account-in-use-description = Ovaj račun možeš povezati samo s jednim profilom na ovom računalu.
+# Dialog 2 - account signed in on another profile with merge option
+sync-account-already-signed-in-header = Ovaj račun je prijavljen na jednom drugom profilu. Sinkronizirati oba profila?
 # Variables:
 #   $profileName (String) - Name of the profile to switch to
 sync-button-switch-profile = Prebaci na „{ $profileName }”

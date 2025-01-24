@@ -1311,19 +1311,36 @@ collection-description = Arra törekszünk, hogy választást biztosítsunk, és
 collection-privacy-notice = Adatvédelmi nyilatkozat
 collection-health-report-telemetry-disabled = Már nem engedélyezi, hogy a { -vendor-short-name } műszaki és interakciós adatokat rögzítsen. A múltbeli adatai 30 napon belül törölve lesznek.
 collection-health-report-telemetry-disabled-link = További tudnivalók
+collection-usage-ping =
+    .label = Napi használati ping küldése a { -vendor-short-name(ending: "accented") }nak
+    .accesskey = h
+collection-usage-ping-description = Ez segít a { -vendor-short-name(ending: "accented") }nak az aktív felhasználók megbecslésében.
+collection-health-report2 =
+    .label = Műszaki és interakciós adatok küldése a { -vendor-short-name(ending: "accented") }nak
+    .accesskey = r
 collection-health-report =
     .label = Engedélyezés, hogy a { -brand-short-name } műszaki és interakciós adatokat küldjön a { -vendor-short-name } számára
     .accesskey = E
 collection-health-report-link = További tudnivalók
+collection-health-report-description = Ez segít a { -brand-product-name } funkcióinak, teljesítményének és stabilitásának fejlesztésében.
+collection-studies2 =
+    .label = Tanulmányok telepítése és futtatása
+collection-studies-description = Próbálja ki a funkciókat és az ötleteket, mielőtt mindenki számára hozzáférhetővé válnak.
 collection-studies =
     .label = Engedélyezés, hogy a { -brand-short-name } tanulmányokat telepítsen és futtasson
 collection-studies-link = { -brand-short-name } tanulmányok megtekintése
+addon-recommendations2 =
+    .label = Személyre szabott kiegészítőjavaslatok engedélyezése
+addon-recommendations-description = Kapjon kiegészítőjavaslatokat a böngészési élmény javítása érdekében.
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled2 = Az adatjelentés le van tiltva ennél az összeállítási konfigurációnál.
 addon-recommendations =
     .label = Engedélyezés, hogy a { -brand-short-name } személyre szabott kiegészítő ajánlásokat tegyen
 addon-recommendations-link = További tudnivalók
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
-collection-health-report-disabled = Az adatjelentést letiltották ehhez a binárishoz
+collection-health-report-disabled = Az adatjelentés le van tiltva ennél az összeállítási konfigurációnál
 collection-backlogged-crash-reports-with-link = Engedélyezés, hogy a { -brand-short-name } elküldje az elmaradt összeomlás-jelentéseket az Ön nevében <a data-l10n-name="crash-reports-link">További tudnivalók</a>
     .accesskey = o
 collection-backlogged-crash-reports = Engedélyezés, hogy a { -brand-short-name } elküldje az elmaradt összeomlás-jelentéseket az Ön nevében

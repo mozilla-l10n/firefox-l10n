@@ -468,6 +468,9 @@ newtab-section-unfollow-button = Követés megszüntetése
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
 ## e.g. Blocked the politics section of stories.
 
+newtab-section-block-button = Blokkolás
+newtab-section-blocked-button = Blokkolva
+newtab-section-unblock-button = Blokkolás feloldása
 
 ## Confirmation modal for blocking a section
 
@@ -478,3 +481,10 @@ newtab-section-cancel-button = Most nem
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+newtab-section-mangage-topics-title = Témák
+newtab-section-mangage-topics-button =
+    .label = Követett és blokkolt témák
+newtab-section-mangage-topics-followed-topics-subtitle = Követett témák
+newtab-section-mangage-topics-followed-topics-empty-state = Még nem követ egyetlen témát sem.
+newtab-section-mangage-topics-blocked-topics-subtitle = Blokkolt témák
+newtab-section-mangage-topics-blocked-topics-empty-state = Még nem blokkol egyetlen témát sem.
