@@ -88,6 +88,13 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = Rajtark hižo njezněmić
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = Rajtark zněmić
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = Rajtark wothrać
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -235,6 +242,17 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Přetorhnyć
     .accesskey = P
+tab-group-editor-color-selector =
+    .aria-label = Barba skupiny rajtarkow
+tab-group-editor-color-selector-blue = Módry
+tab-group-editor-color-selector-purple = Purpurny
+tab-group-editor-color-selector-cyan = Cyan
+tab-group-editor-color-selector-orange = Oranžowy
+tab-group-editor-color-selector-yellow = Žołty
+tab-group-editor-color-selector-pink = Pink
+tab-group-editor-color-selector-green = Zeleny
+tab-group-editor-color-selector-gray = Šěry
+tab-group-editor-color-selector-red = Čerwjeny
 tab-group-menu-header = Skupiny rajtarkow
 tab-context-unnamed-group =
     .label = Skupina bjez mjena

@@ -133,6 +133,8 @@ sidebar-menu-history-header =
     .heading = Historija
 sidebar-menu-syncedtabs-header =
     .heading = Rajtarki z druhich gratow
+sidebar-menu-bookmarks-header =
+    .heading = Zapołožki
 sidebar-panel-header-close-button =
     .tooltiptext = Začinić
 
