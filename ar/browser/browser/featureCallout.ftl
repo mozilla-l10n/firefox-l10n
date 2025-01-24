@@ -65,3 +65,15 @@ split-dismiss-button-manage-settings-option-label = أدِر الإعدادات
 
 ## Sidebar Callout Survey Strings
 
+sidebar-callout-survey-title = ساعد في تحسين { -brand-short-name }
+sidebar-callout-survey-privacy-notice-link = تنويه الخصوصية
+sidebar-callout-survey-very-satisfied = راضٍ جدًا
+sidebar-callout-survey-satisfied = راضٍ
+sidebar-callout-survey-neutral = محايد
+sidebar-callout-survey-dissatisfied-2 = غير راضٍ
+sidebar-callout-survey-very-dissatisfied-2 = غير راضٍ أبدًا
+sidebar-callout-survey-dont-use-it = أنا لا أستخدمه
+sidebar-callout-survey-strongly-agree = أوافق بشدة
+sidebar-callout-survey-agree = أوافق
+sidebar-callout-survey-disagree = لا أوافق
+sidebar-callout-survey-strongly-disagree = لا أوافق أبدًا

@@ -294,6 +294,14 @@ find-more-themes = Pronađi više tema
 # used for screen readers.
 addon-options-button =
     .aria-label = Više mogućnosti
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro2 =
+    Proširenja i teme omogućuju da prilagodiš { -brand-product-name }. Mogu poboljšati privatnost,
+    povećati produktivnost, poboljšati medije, promijeniti način { -brand-product-name } izgleda i
+    još više. Ove male softverske programe često razvija treća strana. Ovo je
+    odabir koji { -brand-product-name } <a data-l10n-name="learn-more-trigger">preporučuje</a>
+    za iznimnu sigurnost, performansu i funkcionalnost.
 
 ## Add-on actions
 

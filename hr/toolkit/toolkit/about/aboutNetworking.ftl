@@ -29,6 +29,7 @@ about-networking-trr = TRR
 about-networking-addresses = Adrese
 about-networking-expires = Ističe (sekunde)
 about-networking-originAttributesSuffix = Ključ izolacije
+about-networking-flags = Dodatne zastavice
 about-networking-messages-sent = Poruka poslana
 about-networking-messages-received = Poruka primljena
 about-networking-bytes-sent = Poslano bajtova
@@ -56,6 +57,8 @@ about-networking-rcwn-cache-slow = Broj spore predmemorije
 about-networking-rcwn-cache-not-slow = Broj ne-spore predmemorije
 about-networking-networkid = ID mreže
 about-networking-networkid-id = ID mreže
+# Note: do not translate about:logging, as it is a URL.
+about-networking-moved-about-logging = Ova je stranica premještena na <a data-l10n-name="about-logging-url">about:logging</a>.
 
 ## Link is intended as "network link"
 

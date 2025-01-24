@@ -87,6 +87,8 @@ webext-perms-host-description-one-domain = الوصول إلى بياناتك ل
 ## Variables:
 ##   $hostname (String): the hostname of the site the add-on is being installed from.
 
+webext-site-perms-header-with-gated-perms-midi = تمنح هذه الإضافة { $hostname } الوصول إلى أجهزة MIDI الخاصة بك.
+webext-site-perms-header-with-gated-perms-midi-sysex = تمنح هذه الإضافة { $hostname } الوصول إلى أجهزة MIDI الخاصة بك (مع دعم SysEx).
 
 ##
 

@@ -17,6 +17,7 @@ about-telemetry-next-ping = >>
 about-telemetry-page-title = Telemetrija
 about-telemetry-current-store = Trenutačna trgovina:
 about-telemetry-more-information = Tražiš više informacija?
+about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefoxova dokumentacija podataka</a> sadrži upute za rad s našim podatkovnim alatima.
 about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Nadzorne ploče telemetrije</a> omogućuju vizualizaciju podataka koje Mozilla prima putem Telemetrije.
 about-telemetry-show-in-Firefox-json-viewer = Otvori u JSON pregledniku
 about-telemetry-home-section = Početna stranica

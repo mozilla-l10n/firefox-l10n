@@ -11,6 +11,7 @@ about-httpsonly-explanation-question = Što bi mogao biti uzrok?
 about-httpsonly-explanation-nosupport = Web-stranica najvjerojatnije ne podržava HTTPS.
 about-httpsonly-explanation-risk = Moguće je i da je u pitanju napadač. Ako odlučite posjetiti web-stranicu, ne biste trebali unositi nikakve osjetljive podatke, poput lozinki, e-pošte ili podataka o kreditnoj kartici.
 about-httpsonly-explanation-continue = Ako nastaviš, „Samo HTTPS” modus će se privremeno isključiti za ovu web stranicu.
+about-httpsonly-explanation-iframe = Zbog blokiranja miješanog sadržaja nije moguće ručno dozvoliti učitavanje ovog okvira.
 about-httpsonly-button-continue-to-site = Nastavi s HTTP stranicom
 about-httpsonly-button-go-back = Idi natrag
 about-httpsonly-link-learn-more = Saznaj više…
