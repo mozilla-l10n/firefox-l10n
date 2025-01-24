@@ -74,6 +74,13 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = ਟੈਬ ਨੂੰ ਸੁਣਾਓ
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = ਟੈਬ ਨੂੰ ਮੌਨ ਕਰੋ
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = ਟੈਬ ਚਲਾਓ
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -201,6 +208,16 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = ਰੱਦ ਕਰੋ
     .accesskey = C
+tab-group-editor-color-selector =
+    .aria-label = ਟੈਬ ਗਰੁੱਪ ਦਾ ਰੰਗ
+tab-group-editor-color-selector-blue = ਨੀਲਾ
+tab-group-editor-color-selector-purple = ਵੈਂਗਣੀ
+tab-group-editor-color-selector-orange = ਸੰਤਰੀ
+tab-group-editor-color-selector-yellow = ਪੀਲਾ
+tab-group-editor-color-selector-pink = ਗੁਲਾਬੀ
+tab-group-editor-color-selector-green = ਹਰਾ
+tab-group-editor-color-selector-gray = ਸਲੇਟੀ
+tab-group-editor-color-selector-red = ਲਾਲ
 tab-group-menu-header = ਟੈਬ ਗਰੁੱਪ
 tab-context-unnamed-group =
     .label = ਬੇਨਾਮਾ ਗਰੁੱਪ
@@ -253,3 +270,25 @@ tab-context-ungroup-tab =
 
 ## Open/saved tab group context menu
 
+# For a tab group open in any window, clicking this will create a new
+# window and move this tab group to that new window.
+tab-group-context-move-to-new-window =
+    .label = ਗਰੁੱਪ ਨੂੰ ਨਵੀਂ ਵਿੰਡੋ ਵਿੱਚ ਭੇਜੋ
+# For a tab group open in a different window from the one that the
+# user is using to access the tab group menu, move that tab group into the
+# user's current window.
+tab-group-context-move-to-this-window =
+    .label = ਗਰੁੱਪ ਨੂੰ ਇਸ ਵਿੰਡੋ ਵਿੱਚ ਭੇਜੋ
+# For a tab group that is open in any window, close the tab group and
+# do not save it. For a tab group that is closed but saved by the user, clicking
+# this will forget the saved tab group.
+tab-group-context-delete =
+    .label = ਗਰੁੱਪ ਨੂੰ ਹਟਾਓ
+# For a saved tab group that is not open in any window, open the tab group
+# in the user's current window.
+tab-group-context-open-saved-group-in-this-window =
+    .label = ਗਰੁੱਪ ਨੂੰ ਇਸ ਵਿੰਡੋ ਵਿੱਚ ਖੋਲ੍ਹੋ
+# For a saved tab group that is not open in any window, create a new window and
+# open the tab group in that window.
+tab-group-context-open-saved-group-in-new-window =
+    .label = ਗਰੁੱਪ ਨੂੰ ਨਵੀਂ ਵਿੰਡੋ ਵਿੱਚ ਖੋਲ੍ਹੋ
