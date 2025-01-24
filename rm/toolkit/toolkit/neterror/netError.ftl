@@ -12,6 +12,7 @@ neterror-blocked-by-policy-page-title = Pagina bloccada
 neterror-captive-portal-page-title = S'annunziar tar la rait
 neterror-dns-not-found-title = Betg chattà il server
 neterror-malformed-uri-page-title = URL nunvalid
+general-body-title = Sajas precaut. I para da dar in problem.
 
 ## Error page actions
 
@@ -159,6 +160,9 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Sche ti n'enconuschas betg 
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> ha ina directiva da segirezza che sa numna HTTP Strict Transport Security (HSTS). Quai munta che { -brand-short-name } po mo connectar a moda segirada. Igl è impussibel dad agiuntar ina excepziun per visitar questa website.
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = Probablamain nagut cunquai ch’i sa tracta pli probabel dad in problem cun la website sezza.
+certerror-blocked-by-corp-headers-description = Mintgatant protegian websites sasezzas ed autras persunas sco tai dad interacziuns nungiavischadas cun autras websites.
+certerror-coop-learn-more = Ulteriuras infurmaziuns davart directivas COOP (Cross Origin Opener Policies)
+certerror-coep-learn-more = Ulteriuras infurmaziuns davart directivas COEP (Cross Origin Embedder Policies)
 # Variables:
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").

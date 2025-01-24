@@ -8,6 +8,7 @@ crashreporter-crashed-and-restore = { -brand-short-name } ha gì in problem ed �
 crashreporter-plea = Per ans gidar da diagnostitgar e curreger il problem ans pos ti trametter in rapport davart il collaps.
 crashreporter-information = Questa applicaziun vegn exequida suenter in collaps per annunziar il problem a { -vendor-short-name }. Ella na duess betg vegnir exequida directamain.
 crashreporter-error = { -brand-short-name } ha gì in problem ed è collabà. Deplorablamain n’è il rapportader da collaps betg abel da trametter in rapport per quest collaps.
+crashreporter-error-details-header = Detagls:
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Detagls: { $details }
 crashreporter-no-run-message = Questa applicaziun vegn exequida suenter in collaps per annunziar il problem al producent da l'applicaziun. Ins na duess mai exequir ella directamain.

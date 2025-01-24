@@ -133,6 +133,8 @@ sidebar-menu-history-header =
     .heading = Cronologia
 sidebar-menu-syncedtabs-header =
     .heading = Tabs dad auters apparats
+sidebar-menu-bookmarks-header =
+    .heading = Segnapaginas
 sidebar-panel-header-close-button =
     .tooltiptext = Serrar
 

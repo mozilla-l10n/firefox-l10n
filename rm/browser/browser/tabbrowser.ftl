@@ -74,6 +74,13 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = Reactivar il tun dal tab
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = Deactivar il tun dal tab
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = Far ir il tun dal tab
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -203,6 +210,17 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Interrumper
     .accesskey = I
+tab-group-editor-color-selector =
+    .aria-label = Colur da la gruppa da tabs
+tab-group-editor-color-selector-blue = Blau
+tab-group-editor-color-selector-purple = Violet
+tab-group-editor-color-selector-cyan = Cian
+tab-group-editor-color-selector-orange = Oransch
+tab-group-editor-color-selector-yellow = Mellen
+tab-group-editor-color-selector-pink = Rosa
+tab-group-editor-color-selector-green = Verd
+tab-group-editor-color-selector-gray = Grisch
+tab-group-editor-color-selector-red = Cotschen
 tab-group-menu-header = Gruppas da tabs
 tab-context-unnamed-group =
     .label = Gruppa senza num

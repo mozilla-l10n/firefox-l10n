@@ -468,6 +468,9 @@ newtab-section-unfollow-button = Chalar da suandar
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
 ## e.g. Blocked the politics section of stories.
 
+newtab-section-block-button = Bloccar
+newtab-section-blocked-button = Bloccà
+newtab-section-unblock-button = Debloccar
 
 ## Confirmation modal for blocking a section
 
@@ -478,3 +481,10 @@ newtab-section-cancel-button = Betg ussa
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+newtab-section-mangage-topics-title = Temas
+newtab-section-mangage-topics-button =
+    .label = Temas suandads e bloccads
+newtab-section-mangage-topics-followed-topics-subtitle = Temas suandads
+newtab-section-mangage-topics-followed-topics-empty-state = Ti na suondas anc nagins temas.
+newtab-section-mangage-topics-blocked-topics-subtitle = Temas bloccads
+newtab-section-mangage-topics-blocked-topics-empty-state = Ti n’has anc bloccà nagins temas.
