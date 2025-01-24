@@ -339,6 +339,7 @@ onboarding-device-migration-primary-button-label = Inicia la sessió
 
 ## Add-ons Picker screen
 
+amo-picker-title = Personalitzeu el { -brand-short-name }
 
 ## The following screens have been updated to use security and privacy focused strings:
 

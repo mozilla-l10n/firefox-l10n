@@ -298,3 +298,7 @@ fxa-menu-message-sync-devices-primary-text = Sincronitzeu tots els dispositius
 
 multi-cta-fox-doodle-title = Ben tornat
 multi-cta-fox-doodle-set-default-checkbox = Defineix el { -brand-short-name } com a navegador per defecte
+multi-cta-fox-doodle-pin-startmenu-checkbox = Fixa el { -brand-short-name } al menú d'inici
+multi-cta-fox-doodle-start-browsing-primary-button-label = Comença a navegar
+multi-cta-fox-doodle-main-browser-primary-button-label = Fes que el { -brand-short-name } sigui el meu navegador principal
+multi-cta-fox-doodle-quick-reminder-subtitle = Us volem recordar que podeu tenir el vostre navegador centrat en la privadesa preferit a un sol clic.

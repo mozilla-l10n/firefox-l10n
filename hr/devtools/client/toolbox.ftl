@@ -24,9 +24,14 @@ toolbox-meatball-menu-community-label = Zajednica…
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
 toolbox-meatball-menu-noautohide-label = Onemogući automatsko skrivanje skočnog prozora
+toolbox-meatball-menu-pseudo-locale-accented = Aktiviraj “accented” jezik
+toolbox-meatball-menu-pseudo-locale-bidi = Aktiviraj “bidi” jezik
 
 ## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
 
+toolbox-mode-browser-toolbox-label = Modus alata preglednika
+toolbox-mode-browser-console-label = Modus konzole preglednika
+toolbox-mode-everything-label = Višeprocesni
 toolbox-mode-everything-sub-label = (Sporije)
 toolbox-mode-everything-container =
     .title = Otklanjaj greške u svim procesima
