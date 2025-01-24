@@ -260,6 +260,9 @@ newtab-pocket-thumbs-up-tooltip =
 # Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
 newtab-pocket-thumbs-down-tooltip =
     .title = Όχι για μένα
+# Used to show the user a message upon clicking the thumbs up or down buttons
+newtab-toast-thumbs-up-or-down2 =
+    .message = Ευχαριστούμε. Τα σχόλιά σας θα μας βοηθήσουν να βελτιώσουμε τη ροή σας.
 newtab-toast-thumbs-up-or-down = Ευχαριστούμε. Τα σχόλιά σας θα μας βοηθήσουν να βελτιώσουμε τη ροή σας.
 newtab-toast-dismiss-button =
     .title = Απόρριψη
@@ -461,9 +464,17 @@ newtab-section-follow-button = Ακολουθήστε
 newtab-section-following-button = Ακολουθείται
 newtab-section-unfollow-button = Άρση παρακολούθησης
 
+## Button to block/unblock listed topics
+## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
+## e.g. Blocked the politics section of stories.
+
+
 ## Confirmation modal for blocking a section
 
 newtab-section-confirm-block-section-p1 = Θέλετε σίγουρα να αποκλείσετε αυτήν την ενότητα;
 newtab-section-confirm-block-section-p2 = Η αποκλεισμένη ενότητα δεν θα εμφανίζεται πλέον στη ροή σας.
 newtab-section-block-section-button = Αποκλεισμός ενότητας
 newtab-section-cancel-button = Όχι τώρα
+
+## Panel in the Customize menu section to manage followed and blocked topics
+
