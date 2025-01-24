@@ -27,3 +27,4 @@ preonboarding-checklist-interaction-data-label = Invia dati tecnici e di interaz
 preonboarding-checklist-interaction-data-description = I dati sul tuo dispositivo, sulla configurazione hardware e sulle modalità di utilizzo di { -brand-product-name } aiutano a migliorare funzionalità, prestazioni e stabilità per gli utenti di tutto il mondo.
 preonboarding-checklist-crash-reports-label = Invia automaticamente rapporti sugli arresti anomali
 preonboarding-checklist-crash-reports-description = I rapporti sugli arresti anomali ci consentono di diagnosticare e risolvere problemi con il browser. Le segnalazioni possono includere dati personali o sensibili.
+
