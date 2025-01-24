@@ -154,6 +154,7 @@ certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> 사�
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = 사이트 자체에 문제가 있을 수 있기 때문에 별것 아닙니다.
 certerror-blocked-by-corp-headers-description = 때때로 웹 사이트는 다른 사이트와의 원치 않는 상호 작용으로부터 사용자와 웹 사이트를 보호합니다.
 certerror-coop-learn-more = COOP(Cross Origin Opener Policy)에 대해 더 알아보기
+certerror-coep-learn-more = COEP(Cross Origin Embedder Policy)에 대해 더 알아보기
 # Variables:
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").

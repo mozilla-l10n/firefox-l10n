@@ -1309,9 +1309,19 @@ collection-health-report-link = 더 알아보기
 collection-health-report-description = { -brand-product-name }의 기능, 성능, 안정성을 개선하는 데 도움이 됩니다.
 collection-studies2 =
     .label = 연구 설치 및 실행
+collection-studies-description = 기능과 아이디어가 공개되기 전에 미리 사용해 보세요.
 collection-studies =
     .label = { -brand-short-name }가 연구를 설치하고 실행하도록 허용
 collection-studies-link = { -brand-short-name } 연구 보기
+addon-recommendations2 =
+    .label = 개인화된 확장 기능 추천 허용
+addon-recommendations-description = 탐색 경험을 향상시키기 위한 확장 기능 추천을 받으세요.
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled2 = 이 빌드 구성에서는 데이터 보고를 하지 않습니다.
+collection-backlogged-crash-reports2 =
+    .label = 자동으로 충돌 보고서 제출
+    .accesskey = c
 addon-recommendations =
     .label = { -brand-short-name }가 개인화된 확장 기능 추천을 할 수 있도록 허용
 addon-recommendations-link = 더 알아보기
