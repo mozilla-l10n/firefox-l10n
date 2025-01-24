@@ -903,3 +903,6 @@ file-picker-crashed-open = Windows file-dialog ໄດ້ຂັດຂ້ອງ. �
 # The wording here should be consistent with the Windows variant of
 # `downloads-cmd-show-menuitem-2` and similar messages.
 
+file-picker-crashed-show-in-folder =
+    .label = ສະແດງໃນ Finder
+    .accessKey = F
