@@ -4,6 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = Bladwijzers
+sidebar-menu-bookmarks-2 = Bladwijzers
 sidebar-menu-history =
     .label = Geschiedenis
 sidebar-menu-synced-tabs =

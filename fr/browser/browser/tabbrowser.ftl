@@ -74,6 +74,13 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = Réactiver le son de l’onglet
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = Couper le son de l’onglet
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = Lancer la lecture
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -197,6 +204,17 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Annuler
     .accesskey = A
+tab-group-editor-color-selector =
+    .aria-label = Couleur du groupe d’onglets
+tab-group-editor-color-selector-blue = Bleu
+tab-group-editor-color-selector-purple = Violet
+tab-group-editor-color-selector-cyan = Cyan
+tab-group-editor-color-selector-orange = Orange
+tab-group-editor-color-selector-yellow = Jaune
+tab-group-editor-color-selector-pink = Rose
+tab-group-editor-color-selector-green = Vert
+tab-group-editor-color-selector-gray = Gris
+tab-group-editor-color-selector-red = Rouge
 tab-group-menu-header = Groupes d’onglets
 tab-context-unnamed-group =
     .label = Groupe sans nom

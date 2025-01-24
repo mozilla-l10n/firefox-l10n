@@ -133,6 +133,8 @@ sidebar-menu-history-header =
     .heading = Geschiedenis
 sidebar-menu-syncedtabs-header =
     .heading = Tabbladen van andere apparaten
+sidebar-menu-bookmarks-header =
+    .heading = Bladwijzers
 sidebar-panel-header-close-button =
     .tooltiptext = Sluiten
 

@@ -133,6 +133,8 @@ sidebar-menu-history-header =
     .heading = Historique
 sidebar-menu-syncedtabs-header =
     .heading = Onglets d’autres appareils
+sidebar-menu-bookmarks-header =
+    .heading = Marque-pages
 sidebar-panel-header-close-button =
     .tooltiptext = Fermer
 

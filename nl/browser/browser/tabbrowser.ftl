@@ -74,6 +74,13 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = Tabblad dempen opheffen
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = Tabblad dempen
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = Tabblad afspelen
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -203,6 +210,17 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Annuleren
     .accesskey = A
+tab-group-editor-color-selector =
+    .aria-label = Tabbladgroepskleur
+tab-group-editor-color-selector-blue = Blauw
+tab-group-editor-color-selector-purple = Paars
+tab-group-editor-color-selector-cyan = Cyaan
+tab-group-editor-color-selector-orange = Oranje
+tab-group-editor-color-selector-yellow = Geel
+tab-group-editor-color-selector-pink = Roze
+tab-group-editor-color-selector-green = Groen
+tab-group-editor-color-selector-gray = Grijs
+tab-group-editor-color-selector-red = Rood
 tab-group-menu-header = Tabbladgroepen
 tab-context-unnamed-group =
     .label = Naamloze groep
