@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+unknowncontenttype-handleinternally =
+    .label = { -brand-short-name } കൂടെ തുറക്കുക
+    .accesskey = e
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
@@ -14,10 +17,10 @@ unknowncontenttype-from = ഇവിടെ നിന്നും:
 unknowncontenttype-prompt = ഈ ഫയല്‍ സൂക്ഷിക്കുവാന്‍ താല്‍പര്യം ഉണ്ടോ?
 unknowncontenttype-action-question = { -brand-short-name } ഈ ഫയല്‍ കൊണ്ട്‌ എന്തു ചെയ്യും?
 unknowncontenttype-open-with =
-    .label = തുറക്കേണ്ട പ്റയോഗം
+    .label = തുറക്കേണ്ട പ്രയോഗം
     .accesskey = O
 unknowncontenttype-other =
-    .label = Other...
+    .label = മറ്റുള്ളവ…
 unknowncontenttype-choose-handler =
     .label =
         { PLATFORM() ->
@@ -30,7 +33,7 @@ unknowncontenttype-choose-handler =
            *[other] B
         }
 unknowncontenttype-save-file =
-    .label = ഫയല്‍ സൂക്ഷിക്കുക
+    .label = ഫയല്‍ കരുതിവയ്ക്കുക
     .accesskey = ക
 unknowncontenttype-remember-choice =
     .label = ഈ തരത്തില്‍ പെട്ട ഫയലുകള്‍ക്ക്‌ ഇനി മുതല്‍ തനിയെ ഇങ്ങനെ ചെയ്യുക

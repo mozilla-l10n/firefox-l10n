@@ -17,6 +17,9 @@ storage-context-menu-delete-all =
 # Context menu action to delete all session cookies
 storage-context-menu-delete-all-session-cookies =
     .label = എല്ലാ സെഷൻ കുക്കികളും നീക്കം ചെയ്യുക
+# Context menu action to copy a storage item
+storage-context-menu-copy =
+    .label = പകൎത്തുക
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
