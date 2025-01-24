@@ -468,6 +468,7 @@ newtab-section-unfollow-button = Бекор кардани обуна
 
 newtab-section-block-button = Манъ кардан
 newtab-section-blocked-button = Манъ карда шуд
+newtab-section-unblock-button = Кушодан
 
 ## Confirmation modal for blocking a section
 
@@ -478,3 +479,10 @@ newtab-section-cancel-button = Ҳоло не
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+newtab-section-mangage-topics-title = Мавзуъҳо
+newtab-section-mangage-topics-button =
+    .label = Мавзуъҳои пайгиришуда ва манъшуда
+newtab-section-mangage-topics-followed-topics-subtitle = Мавзуъҳои пайгиришуда
+newtab-section-mangage-topics-followed-topics-empty-state = Шумо то ҳол ягон мавзуъро пайгирӣ накардаед.
+newtab-section-mangage-topics-blocked-topics-subtitle = Мавзуъҳои пайгиришуда
+newtab-section-mangage-topics-blocked-topics-empty-state = Шумо то ҳол ягон мавзуъро манъ накардаед.

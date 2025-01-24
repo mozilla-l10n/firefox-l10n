@@ -74,6 +74,13 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = Фаъол кардани садо дар варақа
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = Хомӯш кардани садо дар варақа
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = Пахш кардани варақа
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -203,6 +210,15 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Бекор кардан
     .accesskey = Б
+tab-group-editor-color-selector =
+    .aria-label = Ранги гурӯҳи варақа
+tab-group-editor-color-selector-blue = Кабуд
+tab-group-editor-color-selector-purple = Лоҷувард
+tab-group-editor-color-selector-cyan = Осмонӣ
+tab-group-editor-color-selector-orange = Норинҷӣ
+tab-group-editor-color-selector-yellow = Зард
+tab-group-editor-color-selector-pink = Гулобӣ
+tab-group-editor-color-selector-green = Сабз
 tab-group-menu-header = Гурӯҳҳои варақаҳо
 tab-context-unnamed-group =
     .label = Гурӯҳи беном

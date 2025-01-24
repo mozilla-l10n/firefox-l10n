@@ -133,6 +133,8 @@ sidebar-menu-history-header =
     .heading = Таърих
 sidebar-menu-syncedtabs-header =
     .heading = Варақаҳо аз дастгоҳҳои дигар
+sidebar-menu-bookmarks-header =
+    .heading = Хатбаракҳо
 sidebar-panel-header-close-button =
     .tooltiptext = Пӯшидан
 
