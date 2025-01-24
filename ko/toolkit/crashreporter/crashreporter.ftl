@@ -8,6 +8,7 @@ crashreporter-crashed-and-restore = { -brand-short-name }에 문제가 있어 �
 crashreporter-plea = 문제를 진단하고 해결하는데 도움이 되도록 충돌 보고서를 보낼 수 있습니다.
 crashreporter-information = 이 애플리케이션은 충돌 후 실행되어 { -vendor-short-name }에 문제를 보고합니다.  직접 실행해서는 안 됩니다.
 crashreporter-error = { -brand-short-name }에 문제가 있어 충돌이 발생했습니다. 불행하게도 충돌 보고서는 이 충돌에 대한 보고서를 제출할 수 없습니다.
+crashreporter-error-details-header = 상세 정보:
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = 상세 정보: { $details }
 crashreporter-no-run-message = 이 애플리케이션은 충돌 후 실행되어 애플리케이션 공급업체에 문제를 보고합니다.  직접 실행해서는 안 됩니다.
