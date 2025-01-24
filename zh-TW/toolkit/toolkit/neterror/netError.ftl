@@ -12,6 +12,7 @@ neterror-blocked-by-policy-page-title = 已封鎖頁面
 neterror-captive-portal-page-title = 登入到網路
 neterror-dns-not-found-title = 找不到伺服器
 neterror-malformed-uri-page-title = 網址無效
+general-body-title = 請小心，有些東西不對勁。
 
 ## Error page actions
 
@@ -151,6 +152,9 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = 若您不了解 <b>{ $mitm 
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> 有一條稱為 HTTP Strict Transport Security (HSTS) 的安全性政策，讓 { -brand-short-name } 僅能與其進行安全連線。您無法加入例外，手動排除此政策。
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = 可能無法由您解決，因為這通常是網站本身的問題。
+certerror-blocked-by-corp-headers-description = 有時網站會設定一些保護機制，避免網站本身與像您這樣的使用者，受到與其他網站間不必要的互動影響。
+certerror-coop-learn-more = 了解 Cross Origin Opener Policies（COOP）的更多資訊
+certerror-coep-learn-more = 了解 Cross Origin Embedder Policies（COEP）的更多資訊
 # Variables:
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").

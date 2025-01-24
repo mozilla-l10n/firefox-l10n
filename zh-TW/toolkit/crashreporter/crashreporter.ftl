@@ -8,6 +8,7 @@ crashreporter-crashed-and-restore = { -brand-short-name } 意外碰上問題而�
 crashreporter-plea = 為了協助我們修正相關錯誤，煩請傳回錯誤關閉的資訊報表。
 crashreporter-information = 本程式是為軟體發生錯誤、自行關閉後，回傳錯誤資訊給 { -vendor-short-name } 之用，不應直接執行。
 crashreporter-error = { -brand-short-name } 發生錯誤而自行關閉。可惜，錯誤回報員無法回傳關於這次錯誤的資訊。
+crashreporter-error-details-header = 詳細資訊：
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = 細節如下: { $details }
 crashreporter-no-run-message = 本程式是為軟體出現錯誤、自行關閉時回傳錯誤資訊之用，不應直接執行。
