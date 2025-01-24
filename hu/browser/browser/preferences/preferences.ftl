@@ -1338,6 +1338,7 @@ collection-health-report-disabled2 = Az adatjelentés le van tiltva ennél az ö
 collection-backlogged-crash-reports2 =
     .label = Összeomlás-jelentések automatikus elküldése
     .accesskey = j
+collection-backlogged-crash-reports-description = Ez segít a { -vendor-short-name(ending: "accented") }nak diagnosztizálni és megoldani a böngésző problémáit. A jelentések személyes vagy bizalmas adatokat tartalmazhatnak.
 addon-recommendations =
     .label = Engedélyezés, hogy a { -brand-short-name } személyre szabott kiegészítő ajánlásokat tegyen
 addon-recommendations-link = További tudnivalók
