@@ -4,6 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = Закладки
+sidebar-menu-bookmarks-2 = Закладки
 sidebar-menu-history =
     .label = Журнал
 sidebar-menu-synced-tabs =

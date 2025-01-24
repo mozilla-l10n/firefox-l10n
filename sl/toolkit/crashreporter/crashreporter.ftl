@@ -8,6 +8,7 @@ crashreporter-crashed-and-restore = { -brand-short-name } je naletel na težavo 
 crashreporter-plea = Če nam želite pomagati pri odkrivanju in odpravljanju težave, nam lahko pošljete poročilo o sesutju.
 crashreporter-information = Program se zažene po sesutju in omogoča, da se { -vendor-short-name(sklon: "tozilnik") } obvesti o težavi. Ni namenjen neposrednemu zaganjanju.
 crashreporter-error = { -brand-short-name } je naletel na težavo in se je sesul. Žal poročevalec o sesutjih ne more poslati poročila za to sesutje.
+crashreporter-error-details-header = Podrobnosti:
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Podrobnosti: { $details }
 crashreporter-no-run-message = Program se zažene po sesutju in ponudnika programa obvesti o težavi.  Ni namenjen neposrednemu zaganjanju.

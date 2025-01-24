@@ -75,6 +75,10 @@ webext-perms-host-description-too-many-sites =
         [many] الوصول إلى بياناتك في { $domainCount } موقعًا آخر
        *[other] الوصول إلى بياناتك في { $domainCount } موقع آخر
     }
+# Variables:
+#   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
+#     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).
+webext-perms-host-description-one-domain = الوصول إلى بياناتك للمواقع في نطاق { $domain }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
@@ -83,9 +87,18 @@ webext-perms-host-description-too-many-sites =
 ## Variables:
 ##   $hostname (String): the hostname of the site the add-on is being installed from.
 
+webext-site-perms-header-with-gated-perms-midi = تتيح لك هذه الإضافة الوصول إلى أجهزة MIDI الخاصة بك.
+webext-site-perms-header-with-gated-perms-midi-sysex = تتيح لك هذه الإضافة الوصول إلى أجهزة MIDI الخاصة بك (مع دعم SysEx).
 
 ##
 
+# This string is used as description in the webextension permissions dialog for synthetic add-ons.
+# Note, the empty line is used to create a line break between the two sections.
+# Note, this string will be used as raw markup. Avoid characters like <, >, &
+webext-site-perms-description-gated-perms-midi =
+    عادةً ما تكون هذه الأجهزة عبارة عن أجهزة إضافية مثل أجهزة توليف الصوت، ولكن قد تكون مدمجة أيضًا في جهاز حاسوبك.
+    
+    لا يُسمح عادةً لمواقع الويب بالوصول إلى أجهزة MIDI. قد يؤدي الاستخدام غير السليم إلى حدوث تلف أو تعريض الأمان للخطر.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &

@@ -12,3 +12,12 @@ preonboarding-primary-cta = Подтвердить и продолжить
 preonboarding-manage-and-read-header = Управляйте настройками сбора данных, а также прочитайте наши Условия использования и Уведомление о конфиденциальности
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Прочитайте наши Условия использования
+# Label for header style button that toggles showing the Privacy Notice
+preonboarding-privacy-notice-header-button-title = Прочитайте наше Уведомление о конфиденциальности
+# Label for header style button that toggles showing the data preference checklist
+preonboarding-manage-data-header-button-title = Управление данными диагностики и взаимодействия
+# New user onboarding checklist
+preonboarding-checklist-interaction-data-label = Отправлять технические данные и данные взаимодействия в { -vendor-short-name }
+preonboarding-checklist-interaction-data-description = Данные о вашем устройстве, конфигурации оборудования и том, как вы используете { -brand-product-name }, помогают улучшать функциональность, производительность и стабильность для пользователей по всему миру.
+preonboarding-checklist-crash-reports-label = Автоматически отправлять сообщения о падениях
+preonboarding-checklist-crash-reports-description = Сообщения о падении позволяют нам диагностировать и устранять проблемы с браузером. Отчёты могут содержать личные или конфиденциальные данные.

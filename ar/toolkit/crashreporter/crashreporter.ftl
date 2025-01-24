@@ -26,3 +26,10 @@ crashreporter-crash-identifier = معرّف الانهيار: { $id }
 
 # Error strings
 
+# $path (String) - the file path
+crashreporter-error-opening-file = فشل فتح ملف ({ $path })
+# $path (String) - the file path
+crashreporter-error-loading-file = فشل تحميل ملف ({ $path })
+# $from (String) - the source path
+# $to (String) - the destination path
+crashreporter-error-moving-path = فشل نقل { $from } إلى { $to }

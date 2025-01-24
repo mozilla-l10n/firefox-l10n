@@ -12,6 +12,7 @@ neterror-blocked-by-policy-page-title = Заблокированная стра�
 neterror-captive-portal-page-title = Вход в сеть
 neterror-dns-not-found-title = Сервер не найден
 neterror-malformed-uri-page-title = Некорректный URL
+general-body-title = Будьте осторожны. Что-то выглядит неправильно.
 
 ## Error page actions
 
@@ -151,6 +152,9 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Если вы не знак
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> имеет политику безопасности называемую Форсированное защищённое соединение HTTP (HSTS), что означает, что { -brand-short-name } может подключиться к нему только через защищённое соединение. Вы не можете добавить исключение, чтобы посетить этот сайт.
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = Вероятно, ничего, так как, вероятно, возникла проблема с самим сайтом.
+certerror-blocked-by-corp-headers-description = Иногда веб-сайты устанавливают защиту для себя и для людей, таких как вы, от нежелательного взаимодействия с другими сайтами.
+certerror-coop-learn-more = Подробнее о Политиках открытия сайтов из разных источников (COOP)
+certerror-coep-learn-more = Подробнее о Политиках встраивания из разных источников (COER)
 # Variables:
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
