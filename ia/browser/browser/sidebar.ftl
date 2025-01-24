@@ -133,6 +133,8 @@ sidebar-menu-history-header =
     .heading = Chronologia
 sidebar-menu-syncedtabs-header =
     .heading = Schedas ab altere apparatos
+sidebar-menu-bookmarks-header =
+    .heading = Marcapaginas
 sidebar-panel-header-close-button =
     .tooltiptext = Clauder
 

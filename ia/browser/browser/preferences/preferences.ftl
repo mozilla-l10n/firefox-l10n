@@ -1315,9 +1315,16 @@ collection-health-report =
     .label = Permitter que { -brand-short-name } invia datos technic e de interaction a { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Saper plus
+collection-studies-description = Prova functiones e ideas ante que illos es publicate pro totes.
 collection-studies =
     .label = Autorisar { -brand-short-name } a installar e a lancear studios
 collection-studies-link = Consultar le studios de { -brand-short-name }
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled2 = Le reporto de datos es inactive pro iste configuration de compilation.
+collection-backlogged-crash-reports2 =
+    .label = Automaticamente inviar reportos de crash
+    .accesskey = c
 addon-recommendations =
     .label = Permitte { -brand-short-name } de facer recommendationes personalisate pro le extensiones
 addon-recommendations-link = Saper plus

@@ -8,6 +8,7 @@ crashreporter-crashed-and-restore = { -brand-short-name } ha incontrate un probl
 crashreporter-plea = Pro adjutar nos a diagnosticar e corriger le problema, tu pote inviar nos un reporto de collapso.
 crashreporter-information = Iste application es exequite post un crash pro reportar le problema a { -vendor-short-name }. Illo non deberea esser exequite directemente.
 crashreporter-error = { -brand-short-name } habeva un problema e collabeva. Infortunatemente, le reporter de crash  non pote inviar un reporto pro iste crash.
+crashreporter-error-details-header = Detalios:
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Detalios: { $details }
 crashreporter-no-run-message = Iste application es exequite post un collapso pro reportar le problema al venditor del application. Illo non deberea esser exequite directemente.

@@ -12,6 +12,7 @@ neterror-blocked-by-policy-page-title = Pagina blocate
 neterror-captive-portal-page-title = Aperir session in le rete
 neterror-dns-not-found-title = Servitor non trovate
 neterror-malformed-uri-page-title = URL invalide
+general-body-title = Attention! Alco non pare correcte.
 
 ## Error page actions
 

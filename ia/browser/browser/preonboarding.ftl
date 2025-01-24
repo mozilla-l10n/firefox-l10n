@@ -1,0 +1,12 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+## Preonboarding modal screen strings
+
+preonboarding-title = Benvenite a { -brand-product-name }
+# Label for header style button that toggles showing the Privacy Notice
+preonboarding-privacy-notice-header-button-title = Lege nostre aviso de confidentialitate
+preonboarding-checklist-crash-reports-label = Automaticamente inviar reportos de crash
+preonboarding-checklist-crash-reports-description = Le reportos de crash nos permitte de diagnosticar e corriger problemas del navigator, ma pote includer datos personal o sensibile.
