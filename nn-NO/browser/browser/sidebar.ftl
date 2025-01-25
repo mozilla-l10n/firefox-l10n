@@ -131,6 +131,8 @@ sidebar-menu-history-header =
     .heading = Historikk
 sidebar-menu-syncedtabs-header =
     .heading = Faner frå andre einingar
+sidebar-menu-bookmarks-header =
+    .heading = Bokmerke
 sidebar-panel-header-close-button =
     .tooltiptext = Lat att
 

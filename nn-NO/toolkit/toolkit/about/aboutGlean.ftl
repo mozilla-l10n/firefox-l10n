@@ -18,6 +18,7 @@ about-glean-interface-description =
     <a data-l10n-name="fog-link">teste instrumentering</a>.
 about-glean-category-about-glean = Om { -glean-brand-name }
 about-glean-category-manual-testing = Manuell testing
+about-glean-category-about-data = Om data
 about-glean-upload-enabled = Dataopplasting er aktivert.
 about-glean-upload-disabled = Dataopplasting er deaktivert.
 about-glean-upload-enabled-local = Dataopplasting er berre aktivert for sending til ein lokal server.

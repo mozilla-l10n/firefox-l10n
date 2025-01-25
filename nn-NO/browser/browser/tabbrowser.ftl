@@ -74,6 +74,13 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = Lyd på i fane
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = Lyd av i fane
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = Spel fane
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -198,8 +205,16 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Avbryt
     .accesskey = A
+tab-group-editor-color-selector-blue = Blå
+tab-group-editor-color-selector-purple = Lilla
+tab-group-editor-color-selector-pink = Rosa
+tab-group-editor-color-selector-green = Grøn
+tab-group-editor-color-selector-gray = Grå
+tab-group-editor-color-selector-red = Raud
+tab-group-menu-header = Fanegrupper
 tab-context-unnamed-group =
     .label = Namnlaus gruppe
+tab-group-name-default = Namnlaus gruppe
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -212,3 +227,8 @@ tab-group-editor-done =
 
 ## Open/saved tab group context menu
 
+# For a tab group that is open in any window, close the tab group and
+# do not save it. For a tab group that is closed but saved by the user, clicking
+# this will forget the saved tab group.
+tab-group-context-delete =
+    .label = Slett gruppe

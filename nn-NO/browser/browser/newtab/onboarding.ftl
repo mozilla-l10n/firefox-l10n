@@ -418,3 +418,4 @@ onboarding-checklist-sign-up = Registrer deg eller logg inn på kontoen din
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-callout-cta = Opprett ein profil
