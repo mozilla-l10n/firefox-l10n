@@ -4,7 +4,7 @@
 
 profile-window-title = { -brand-short-name } – პროფილის არჩევა
 profile-window-heading = აირჩიეთ პროფილი – { -brand-short-name }
-profile-window-body = გამიჯნეთ საქმიანობა და პირადი მოხმარება საჭირო მონაცემების განცალკევებით, მათ შორის პაროლებისა და სანიშნების. ან შექმენით პროფილები თითოეული მომხმარებლისთვის, ვინც თქვენი მოწყობილობით სარგებლობს.
+profile-window-body = გამიჯნეთ საქმიანობა და პირადი მოხმარება საჭირო მონაცემების განცალკევებით, როგორიცაა პაროლები და სანიშნები. ან შექმენით პროფილები თითოეული მომხმარებლისთვის, რომლებიც თქვენი მოწყობილობით სარგებლობენ.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = პროფილის არჩევა, როცა { -brand-short-name } გაეშვება

@@ -13,7 +13,7 @@ about-unloads-intro =
     გამო ოპერატიული მეტად დაიტვირთება. განსატვირთი ჩანართი შეირჩევა
     სხვადასხვა მახასიათებლით. ამ გვერდზე ნაჩვენებია, რა უპირატესობით
     ალაგებს { -brand-short-name } ჩანართებს და რომელი მათგანი განიტვირთება
-    საჭიროების დადგომისას. ხელითაც შეგიძლიათ <em>განტვირთვის</em> ღილაკზე დაჭერით.
+    საჭიროების დადგომისას. ხელითაც შეგიძლიათ დააჭიროთ <em>განტვირთვის</em> ღილაკს.
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more =
