@@ -8,6 +8,7 @@ crashreporter-crashed-and-restore = { -brand-short-name } 遇到问题并崩溃�
 crashreporter-plea = 您可以向我们发送崩溃报告，以协助我们诊断并修正该问题。
 crashreporter-information = 此应用程序会在发生崩溃后运行并向 { -vendor-short-name } 报告相应问题，无法被直接运行。
 crashreporter-error = { -brand-short-name } 碰到一个问题而崩溃了，且崩溃报告器无法提交相应的崩溃报告。
+crashreporter-error-details-header = 详细信息：
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = 详细信息：{ $details }
 crashreporter-no-run-message = 此应用程序在崩溃后运行并向程序发行商报告相应问题。无法被直接运行。

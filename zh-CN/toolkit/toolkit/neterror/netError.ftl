@@ -12,6 +12,7 @@ neterror-blocked-by-policy-page-title = 页面已封锁
 neterror-captive-portal-page-title = 请登录网络
 neterror-dns-not-found-title = 找不到服务器
 neterror-malformed-uri-page-title = 无效网址
+general-body-title = 当心，看来有异常情况。
 
 ## Error page actions
 
@@ -151,6 +152,9 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = 如果您并不熟悉 <b>{ 
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> 启用了被称为 HTTP 严格传输安全（HSTS）的安全策略，{ -brand-short-name } 只能与其建立安全连接。您无法为此网站添加例外，以访问此网站。
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = 这很可能是网站自身存在问题，无法通过您的操作解决。
+certerror-blocked-by-corp-headers-description = 有时网站会为自身及用户设置保护措施，阻止与其他网站进行非预期的交互。
+certerror-coop-learn-more = 详细了解跨源打开程序策略（COOP）
+certerror-coep-learn-more = 详细了解跨源嵌入程序策略（COEP）
 # Variables:
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
