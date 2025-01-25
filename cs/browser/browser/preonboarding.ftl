@@ -5,12 +5,19 @@
 
 ## Preonboarding modal screen strings
 
+preonboarding-title = Vítá vás { -brand-product-name }
+preonboarding-subtitle = Pokračováním souhlasíte s Podmínkami používání { -brand-product-name(case: "gen") } a našimi Zásadami ochrany osobních údajů. Za účelem vylepšení prohlížeče { -brand-product-name } odesílá diagnostické údaje a údaje o interakcích organizaci { -vendor-short-name }.
 preonboarding-primary-cta = Potvrdit a pokračovat
+# Label for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
+preonboarding-manage-and-read-header = Správa nastavení shromažďování dat a přečtení našich podmínek používání a oznámení o ochraně osobních údajů
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Přečtěte si naše Podmínky používání
 # Label for header style button that toggles showing the Privacy Notice
 preonboarding-privacy-notice-header-button-title = Přečtěte si naše Zásady ochrany osobních údajů
 # Label for header style button that toggles showing the data preference checklist
 preonboarding-manage-data-header-button-title = Správa diagnostických dat a dat o interakcích
+# New user onboarding checklist
+preonboarding-checklist-interaction-data-label = Odesílat technická data a data o interakcích organizaci { -vendor-short-name }
+preonboarding-checklist-interaction-data-description = Data o vašem zařízení, konfiguraci hardwaru a o tom, jak { -brand-product-name } používáte, pomáhají vylepšovat funkce, výkon a stabilitu pro běžné uživatele.
 preonboarding-checklist-crash-reports-label = Automaticky odesílat hlášení o pádech
 preonboarding-checklist-crash-reports-description = Hlášení o pádech nám umožňují diagnostikovat a opravit problémy s prohlížečem. Zprávy mohou obsahovat osobní nebo citlivé údaje.
