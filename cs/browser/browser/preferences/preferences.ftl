@@ -1463,6 +1463,13 @@ collection-health-report-telemetry-disabled =
        *[no-cases] Odesílat organizaci { -vendor-short-name } technická data a data o interakcích není nadále povoleno. Všechna historická data budou smazána během 30 dnů.
     }
 collection-health-report-telemetry-disabled-link = Zjistit více
+collection-usage-ping =
+    .label = Odeslat ping o denní frekvenci organizaci { -vendor-short-name }
+    .accesskey = p
+collection-usage-ping-description = To organizaci { -vendor-short-name } pomáhá odhadnout počet aktivních uživatelů.
+collection-health-report2 =
+    .label = Odesílat technická data a data o interakcích organizaci { -vendor-short-name }
+    .accesskey = t
 collection-health-report =
     .label =
         { -vendor-short-name.case-status ->
@@ -1471,6 +1478,11 @@ collection-health-report =
         }
     .accesskey = r
 collection-health-report-link = Zjistit více
+collection-health-report-description =
+    { -brand-product-name.case-status ->
+        [with-cases] To nám pomáhá vylepšovat funkce, výkon a stabilitu { -brand-product-name(case: "gen") }.
+       *[no-cases] To nám pomáhá vylepšovat funkce, výkon a stabilitu aplikace { -brand-product-name }.
+    }
 collection-studies2 =
     .label = Instalovat a spouštět studie
 collection-studies-description = Vyzkoušejte funkce a nápady dříve, než budou veřejně dostupné.
@@ -1488,6 +1500,13 @@ collection-studies-link =
 addon-recommendations2 =
     .label = Povolit personalizovaná doporučení rozšíření
 addon-recommendations-description = Nechte si doporučovat rozšíření pro zlepšení vašeho prohlížení.
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled2 = Pro tuto konfiguraci sestavení je hlášení dat vypnuto.
+collection-backlogged-crash-reports2 =
+    .label = Automaticky odesílat hlášení o pádech
+    .accesskey = m
+collection-backlogged-crash-reports-description = To pomáhá organizaci { -vendor-short-name } diagnostikovat a opravovat problémy s prohlížečem. Hlášení mohou obsahovat osobní nebo citlivé údaje.
 addon-recommendations =
     .label =
         { -brand-short-name.case-status ->
