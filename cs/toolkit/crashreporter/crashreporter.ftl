@@ -24,6 +24,7 @@ crashreporter-error =
         [neuter] { -brand-short-name } zaznamenalo problém a spadlo. Hlášení pádu se bohužel nepodařilo odeslat.
        *[other] Aplikace { -brand-short-name } zaznamenala problém a spadla. Hlášení pádu se bohužel nepodařilo odeslat.
     }
+crashreporter-error-details-header = Podrobnosti:
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Podrobnosti: { $details }
 crashreporter-no-run-message = Tato aplikace je spuštěna po pádu jiné aplikace a jejím účelem je zaslat hlášení o pádu vývojářům aplikace. Není ji proto možné spustit samostatně.

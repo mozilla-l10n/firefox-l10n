@@ -204,6 +204,7 @@ certerror-what-should-i-do-bad-sts-cert-explanation = Server <b>{ $hostname }</b
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = Pravděpodobně nic, protože je pravděpodobné, že problém je se samotným webem.
 certerror-blocked-by-corp-headers-description = Někdy webové stránky nastaví ochranu pro sebe a pro lidi, jako jste vy, před nežádoucími interakcemi s jinými stránkami.
 certerror-coop-learn-more = Zjistit více o Cross Origin Opener Policy (COOP)
+certerror-coep-learn-more = Zjistit více o Cross Origin Embedder Policies (COEP)
 # Variables:
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
