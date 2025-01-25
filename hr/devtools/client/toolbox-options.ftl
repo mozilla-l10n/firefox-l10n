@@ -41,6 +41,8 @@ options-inspector-draggable-properties-tooltip =
 # The label for the checkbox option to enable simplified highlighting on page elements
 # within the inspector for users who enabled prefers-reduced-motion = reduce
 options-inspector-simplified-highlighters-label = Koristi jednostavnija isticanja s funkcijom prefers-reduced-motion
+options-inspector-simplified-highlighters-tooltip =
+    .title = Aktivira pojednostavljena isticanja kada je funkcija prefers-reduced-motion aktivirana. Iscrtava crte umjesto ispunjenih pravokutnika oko istaknutih elemenata kako bi se izbjegli efekti treperenja.
 # The label for the checkbox option to make the Enter key move the focus to the next input
 # when editing a property name or value in the Inspector rules view
 options-inspector-rules-focus-next-on-enter-label = Fokusiraj sljedeći unos nakon pritiskanja tipke <kbd>Enter</kbd>
