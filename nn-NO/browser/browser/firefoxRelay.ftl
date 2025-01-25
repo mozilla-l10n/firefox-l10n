@@ -26,6 +26,8 @@ firefox-relay-opt-in-subtitle-1 = Bruk { -relay-brand-name } e-postalias
 firefox-relay-use-mask-title = Bruk { -relay-brand-name } e-postalias
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = Hindre spam med ei gratis e-postmaske
+# This is preceded by firefox-relay-opt-in-title-a (on a different line)
+firefox-relay-opt-in-subtitle-a = Skjul den verkelege e-postadressa di.
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Bruk e-postmaske
     .accesskey = B
