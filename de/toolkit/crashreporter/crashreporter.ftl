@@ -8,6 +8,7 @@ crashreporter-crashed-and-restore = { -brand-short-name } ist aufgrund eines Pro
 crashreporter-plea = Um uns zu helfen, dieses Problem zu erkennen und zu reparieren, können Sie uns einen Absturzbericht schicken.
 crashreporter-information = Diese Anwendung wird nach einem Absturz ausgeführt, um das Problem an { -vendor-short-name } zu melden. Sie sollte nicht direkt ausgeführt werden.
 crashreporter-error = Ein Problem ist aufgetreten, und { -brand-short-name } ist abgestürzt. Leider kann der Absturzmelder diesen Absturz nicht melden.
+crashreporter-error-details-header = Details:
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Details: { $details }
 crashreporter-no-run-message = Diese Anwendung wird nach einem Absturz ausgeführt, um das Problem an den Anwendungs-Hersteller zu melden.  Sie sollte nie direkt ausgeführt werden.
