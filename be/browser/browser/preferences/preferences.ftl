@@ -1335,6 +1335,14 @@ collection-studies =
 collection-studies-link = Прагляд даследаванняў { -brand-short-name }
 addon-recommendations2 =
     .label = Дазволіць персаналізаваныя рэкамендацыі пашырэнняў
+addon-recommendations-description = Атрымлівайце рэкамендацыі пашырэнняў для палепшанага аглядання.
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled2 = Адпраўка дадзеных адключана для гэтай канфігурацыі зборкі.
+collection-backlogged-crash-reports2 =
+    .label = Аўтаматычна адпраўляць справаздачы аб збоях
+    .accesskey = с
+collection-backlogged-crash-reports-description = Гэта дапамагае { -vendor-short-name } дыягнаставаць і выпраўляць праблемы з браўзерам. Справаздачы могуць уключаць асабістыя або канфідэнцыяльныя звесткі.
 addon-recommendations =
     .label = Дазволіць { -brand-short-name } рабіць персаналізаваныя рэкамендацыі пашырэнняў
 addon-recommendations-link = Падрабязней

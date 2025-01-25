@@ -8,6 +8,7 @@ crashreporter-crashed-and-restore = У { -brand-short-name } узнікла пр
 crashreporter-plea = Каб дапамагчы вызначыць і выправіць праблему, вы можаце падаць справаздачу пра крах.
 crashreporter-information = Гэта праграма запускаецца пасля краху, каб паведаміць { -vendor-short-name } аб праблеме.  Яна не павінна запускацца непасрэдна.
 crashreporter-error = { -brand-short-name } пацярпеў крах ад нечаканай праблемы. На жаль, паведамляльнік пра крах не здольны падаць справаздачу пра гэты збой.
+crashreporter-error-details-header = Падрабязнасці:
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Падрабязнасці: { $details }
 crashreporter-no-run-message = Гэта праграма запускаецца пасля краху, каб паведаміць распрацоўшчыку праграмы пра праблему.  Яна не павінна запускацца непасрэдна.
