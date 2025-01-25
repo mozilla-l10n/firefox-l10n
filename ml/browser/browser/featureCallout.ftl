@@ -9,6 +9,7 @@ callout-primary-complete-button-label = കിട്ടി!
 
 ## Firefox View feature tour strings
 
+callout-firefox-view-recently-closed-title = താങ്ങളുടെ അടച്ച ടാബുകൾ ഒറ്റയടിക്കു് തിരികെ നേടുക
 callout-firefox-view-colorways-title = നിറത്തിന്റെ നീർത്തെറിപ്പ് ഉരച്ചുനോക്കുക
 
 ## Continuous Onboarding - Firefox View: Tab pick up

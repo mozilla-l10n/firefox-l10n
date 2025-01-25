@@ -91,6 +91,8 @@ firefoxview-recently-closed-header = അടുത്തിടെ അടച്ച
 
 # Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = എല്ലാം കാഴ്ചപ്പെടുക
+firefoxview-opentabs-focus-tab =
+    .title = ഈ ടാബിലേക്കു് മാറുക
 firefoxview-show-more = കൂടുതൽ കാണിക്കുക
 firefoxview-show-less = കുറച്ച് കാണിക്കുക
 firefoxview-show-all = എല്ലാം കാണിക്കുക
@@ -118,6 +120,13 @@ firefoxview-search-text-box-opentabs =
 # Variables:
 #   $query (String) - The search query used for searching through browser history.
 firefoxview-search-results-header = { $query } എന്നതിനായുള്ള തിരയൽഫലങ്ങൾ
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] { $count } വെബ്സ്ഥാനം
+       *[other] { $count } വെബ്സ്ഥാനങ്ങൾ
+    }
 # Message displayed when a search is performed and no matching results were found.
 # Variables:
 #   $query (String) - The search query.
@@ -126,6 +135,10 @@ firefoxview-sort-history-by-date-label = തീയതി അനുസരിച�
 firefoxview-sort-history-by-site-label = സൈറ്റു് അനുസരിച്ചു് ക്രമത്തിലാക്കുക
 firefoxview-sort-open-tabs-by-recency-label = അടുത്തിടെപ്രവൎത്തനം അനുസരിച്ചു് ക്രമത്തിലാക്കുക
 firefoxview-sort-open-tabs-by-order-label = ടാബുക്രമം അനുസരിച്ചു് ക്രമത്തിലാക്കുക
+# Variables:
+#   $url (string) - URL that will be opened in the new tab
+firefoxview-opentabs-tab-row =
+    .title = { $url } -ലേക്കു് മാറുക
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -138,6 +151,7 @@ firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "nu
 ##
 
 firefoxview-show-all-history = നാൾവഴി മൊത്തം കാണിക്കുക
+firefoxview-view-more-browsing-history = ഇനിയും തിരച്ചിൽ നാൾവഴി കാണുക
 
 ## Message displayed in Firefox View when the user has no history data
 

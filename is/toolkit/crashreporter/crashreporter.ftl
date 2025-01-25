@@ -8,6 +8,7 @@ crashreporter-crashed-and-restore = { -brand-short-name } átti í vandræðum o
 crashreporter-plea = Til að hjálpa okkur að greina vandamálið, geturðu sent okkur hrun skýrslu.
 crashreporter-information = Þetta forrit er keyrt eftir hvert hrun og tilkynnir vandamálið til { -vendor-short-name }.  Þetta forrit ætti ekki að keyra beint.
 crashreporter-error = { -brand-short-name } lenti í vandræðum og hrundi. Því miður gat forritið ekki sent skýrslu fyrir þetta hrun.
+crashreporter-error-details-header = Nánar:
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Upplýsingar: { $details }
 crashreporter-no-run-message = Þetta forrit er keyrt eftir hvert hrun og tilkynnir vandamálið til framleiðanda forrits.  Þetta forrit ætti ekki að keyra beint.

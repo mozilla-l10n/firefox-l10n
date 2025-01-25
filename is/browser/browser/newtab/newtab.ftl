@@ -468,6 +468,9 @@ newtab-section-unfollow-button = Hætta að fylgjast með
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
 ## e.g. Blocked the politics section of stories.
 
+newtab-section-block-button = Loka á
+newtab-section-blocked-button = Lokað á
+newtab-section-unblock-button = Opna fyrir
 
 ## Confirmation modal for blocking a section
 
@@ -478,3 +481,10 @@ newtab-section-cancel-button = Ekki núna
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+newtab-section-mangage-topics-title = Umfjöllunarefni
+newtab-section-mangage-topics-button =
+    .label = Efni sem fylgst er með og lokað á
+newtab-section-mangage-topics-followed-topics-subtitle = Efni sem fylgst er með
+newtab-section-mangage-topics-followed-topics-empty-state = Þú hefur ekki fylgst með neinu umfjöllunarefni ennþá.
+newtab-section-mangage-topics-blocked-topics-subtitle = Umfjöllunarefni sem lokað er á
+newtab-section-mangage-topics-blocked-topics-empty-state = Þú hefur ekki lokað á neitt umfjöllunarefni ennþá.
