@@ -1314,6 +1314,7 @@ collection-health-report =
     .label = 允许 { -brand-short-name } 向 { -vendor-short-name } 发送技术信息及交互数据
     .accesskey = r
 collection-health-report-link = 详细了解
+collection-health-report-description = 此数据可帮助我们改进 { -brand-product-name } 的功能、性能和稳定性。
 collection-studies2 =
     .label = 安装并运行研究
 collection-studies-description = 抢先体验尚未全面推出的功能和概念。

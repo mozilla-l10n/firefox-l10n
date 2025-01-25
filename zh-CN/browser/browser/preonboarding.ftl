@@ -6,3 +6,18 @@
 ## Preonboarding modal screen strings
 
 preonboarding-title = 欢迎使用 { -brand-product-name }
+preonboarding-subtitle = 继续即表示您同意 { -brand-product-name } 使用条款和我们的隐私声明。为帮助改进浏览器，{ -brand-product-name } 会向 { -vendor-short-name } 发送诊断和交互数据。
+preonboarding-primary-cta = 确认并继续
+# Label for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
+preonboarding-manage-and-read-header = 管理数据收集设置，并阅读我们的使用条款和隐私声明
+# Label for header style button that toggles showing the Terms of Use
+preonboarding-terms-of-use-header-button-title = 阅读我们的使用条款
+# Label for header style button that toggles showing the Privacy Notice
+preonboarding-privacy-notice-header-button-title = 阅读我们的隐私声明
+# Label for header style button that toggles showing the data preference checklist
+preonboarding-manage-data-header-button-title = 管理诊断和交互数据
+# New user onboarding checklist
+preonboarding-checklist-interaction-data-label = 向 { -vendor-short-name } 发送技术与交互数据
+preonboarding-checklist-interaction-data-description = 与您的设备、硬件配置、{ -brand-product-name } 使用方式相关的数据，有助于为全体用户改进功能、性能和稳定性。
+preonboarding-checklist-crash-reports-label = 自动发送崩溃报告
+preonboarding-checklist-crash-reports-description = 我们可借助崩溃报告来诊断和修复浏览器的问题。报告中可能包含个人或敏感数据。
