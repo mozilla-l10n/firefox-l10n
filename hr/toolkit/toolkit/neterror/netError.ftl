@@ -12,6 +12,7 @@ neterror-blocked-by-policy-page-title = Blokirana stranica
 neterror-captive-portal-page-title = Prijava na mrežu
 neterror-dns-not-found-title = Server nije pronađen
 neterror-malformed-uri-page-title = Neispravan URL
+general-body-title = Oprez. Nešto nije u redu.
 
 ## Error page actions
 

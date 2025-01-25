@@ -31,6 +31,13 @@ flextype-item = Flex element
 # The layout type of an element shown in the infobar when hovering over a DOM element and
 # it is both a flex container and a flex item.
 flextype-dual = Flex-kontejner/-element
+# The message displayed in the content page when the user clicks on the
+# "Pick an element from the page" in about:devtools-toolbox inspector panel, when
+# debugging a remote page.
+# Variables
+# $action (string) - Will either be remote-node-picker-notice-action-desktop or
+#                    remote-node-picker-notice-action-touch
+remote-node-picker-notice = Programerski alat za biranje čvorova je aktiviran. { $action }
 # Text displayed in `remote-node-picker-notice`, when the remote page is on desktop
 remote-node-picker-notice-action-desktop = Pritisni jedan element za biranje u Inspektoru
 # Text displayed in `remote-node-picker-notice`, when the remote page is on Android
