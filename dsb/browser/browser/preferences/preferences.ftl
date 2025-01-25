@@ -1319,6 +1319,9 @@ collection-description = Comy was z wuběrkami wobstaraś a janož to zběraś, 
 collection-privacy-notice = Powěźeńka priwatnosći
 collection-health-report-telemetry-disabled = Sćo zajmjeł { -vendor-short-name } dowólnosć, techniske a interakciske daty gromaźiś. Wšykne dotychměst zgromaźone daty se w běgu 30 dnjow wulašuju.
 collection-health-report-telemetry-disabled-link = Dalšne informacije
+collection-usage-ping =
+    .label = Ping za wšedne wužywanje na { -vendor-short-name } pósłaś
+    .accesskey = P
 collection-usage-ping-description = To { -vendor-short-name } pomaga, se aktiwne wužywarje wažyś.
 collection-health-report2 =
     .label = Techniske daty a daty interakcije na { -vendor-short-name } pósłaś
@@ -1327,12 +1330,15 @@ collection-health-report =
     .label = { -brand-short-name } zmóžniś, techniske a interakciske daty na { -vendor-short-name } pósłaś
     .accesskey = t
 collection-health-report-link = Dalšne informacije
+collection-health-report-description = To nam pomaga, funkcije, wugbaśe a stabilnosć { -brand-product-name } pólěpyś.
 collection-studies2 =
     .label = Studije instalěrowaś a pśewjasć
 collection-studies-description = Testujśo funkcije a ideje, nježli až se za wše wózjawjaju.
 collection-studies =
     .label = { -brand-short-name } dowóliś, studije instalěrowaś a pśewjasć
 collection-studies-link = Studije { -brand-short-name } pokazaś
+addon-recommendations2 =
+    .label = Personalizěrowane dopórucenja za rozšyrjenja dowóliś
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled2 = Datowe rozpšawjenje jo znjemóžnjone za toś tu programowu konfiguraciju.

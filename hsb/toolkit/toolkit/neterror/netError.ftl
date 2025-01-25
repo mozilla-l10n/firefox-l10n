@@ -152,6 +152,9 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Jeli so z <b>{ $mitm }</b> 
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> ma wěstotne prawidło z mjenom HTTP Strict Transport Security (HSTS), kotrež woznamjenja, zo { -brand-short-name } móže so jenož wěsće zwjazać. Njemóžeće wuwzaće přidać, zo byšće tute sydło wopytał.
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = Najskerje ničo, dokelž je prawdźepodobnje, zo problem je ze sydłom samym.
+certerror-blocked-by-corp-headers-description = Druhdy websydła same a ludźi kaž wy před njewitanymi interakcijemi z druhimi sydłami škitaja.
+certerror-coop-learn-more = Dalše informacije wo Cross Origin Opener Policies (COOP)
+certerror-coep-learn-more = Dalše informacije wo Cross Origin Embedder Policies (COEP)
 # Variables:
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
