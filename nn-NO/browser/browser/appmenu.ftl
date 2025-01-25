@@ -283,6 +283,7 @@ appmenuitem-relay-description = Skjul ekte e-postadresse og telefonnummer
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Vern nettaktiviteten din
 appmenu-services-header = Mine tenester
+appmenu-other-protection-header = Prøv andre verneverktøy frå { -vendor-short-name }:
 
 ## Profiles panel
 
