@@ -158,4 +158,4 @@ certerror-coep-learn-more = Pelajari lebih lanjut tentang Cross Origin Embedder 
 # Variables:
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
-neterror-response-status-code = Kode kesalahan: { $responsstatus } { $responsstatustext }
+neterror-response-status-code = Kode kesalahan: { $responsestatus } { $responsestatustext }
