@@ -130,6 +130,10 @@ sidebar-menu-close-ai-chatbot-tooltip = Chiudi chatbot AI
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
+sidebar-menu-open-ai-chatbot-tooltip-generic = Apri chatbot IA ({ $shortcut })
+sidebar-menu-open-ai-chatbot-provider-tooltip = Apri { $provider } ({ $shortcut })
+sidebar-menu-close-ai-chatbot-tooltip-generic = Chiudi chatbot IA ({ $shortcut })
+sidebar-menu-close-ai-chatbot-provider-tooltip = Chiudi { $provider } ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 
