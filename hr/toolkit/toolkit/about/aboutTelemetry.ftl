@@ -18,6 +18,7 @@ about-telemetry-page-title = Telemetrijski podaci
 about-telemetry-current-store = Trenutačna trgovina:
 about-telemetry-more-information = Tražiš više informacija?
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefoxova dokumentacija podataka</a> sadrži upute za rad s našim podatkovnim alatima.
+about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Klijentska dokumentacija Firefox telemetrije</a> uključuje definicije za koncepte, API dokumentaciju i reference podataka.
 about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Nadzorne ploče telemetrije</a> omogućuju vizualizaciju podataka koje Mozilla prima putem telemetrije.
 about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">Rječnik proba</a> pruža detalje i opise proba koje je prikupila telemetrija.
 about-telemetry-show-in-Firefox-json-viewer = Otvori u JSON pregledniku
