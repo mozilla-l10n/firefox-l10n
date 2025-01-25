@@ -1120,6 +1120,10 @@ content-blocking-enhanced-tracking-protection = الحماية الموسّعة 
 content-blocking-section-top-level-description = تحاول المتعقّبات معرفة ما تفعل على الشبكة دومًا وجمع المعلومات التي تخصّ عاداتك في التصفّح كما واهتماماتك. يحجب { -brand-short-name } أكثر هذه المتعقّبات وغيرها من سكربتات ضارة.
 content-blocking-learn-more = اطّلع على المزيد
 content-blocking-fpi-incompatibility-warning = أنت تستخدم عزل الطرف الأول (FPI)، والذي يتخطى بعض إعدادات كعكات { -brand-short-name }.
+# There is no need to translate "Resist Fingerprinting (RFP)". This is a
+# feature that can only be enabled via about:config, and it's not exposed to
+# standard users (e.g. via Settings).
+content-blocking-rfp-incompatibility-warning = أنت تستخدم ميزة Resist Fingerprinting (RFP)، والتي تحل محل بعض إعدادات حماية التبصيم في { -brand-short-name }. قد يتسبب هذا في تعطل بعض المواقع.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -1151,6 +1155,10 @@ content-blocking-unvisited-cookies = الكعكات من المواقع غير �
 content-blocking-all-windows-tracking-content = المحتوى الذي يتعقّبك في كل النوافذ
 content-blocking-cryptominers = المُعدّنات المعمّاة
 content-blocking-fingerprinters = مسجّلات البصمات
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
+# the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-known-and-suspected-fingerprinters = المسجّلات المشتبه بها والمعروفة
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
