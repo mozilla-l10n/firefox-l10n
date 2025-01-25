@@ -73,6 +73,13 @@ open-in-new-window-for-csp-or-xfo-error = Buka Situs di Jendela Baru
 csp-xfo-blocked-long-desc = Untuk melindungi keamanan Anda, { $hostname } tidak akan mengizinkan { -brand-short-name } untuk menampilkan laman jika situs lain telah menyematkannya. Untuk melihat laman ini, Anda harus membukanya di jendela baru.
 fp-certerror-view-certificate-link = Lihat sertifikat situs
 fp-certerror-return-to-previous-page-recommended-button = Kembali (Disarankan)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $validHosts (String) - Valid hostnames.
+fp-certerror-bad-domain-why-dangerous-body = Situs disiapkan untuk hanya mengizinkan sambungan aman, tetapi ada masalah dengan sertifikat situs. Ada kemungkinan aktor jahat mencoba menyamar sebagai situs. Situs menggunakan sertifikat yang dikeluarkan oleh otoritas sertifikat untuk membuktikan bahwa mereka benar-benar seperti yang mereka katakan. { -brand-short-name } tidak mempercayai situs ini karena sertifikatnya tidak valid untuk { $hostname }. Sertifikat hanya valid untuk: { $validHosts }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-bad-domain-what-can-you-do-body = Mungkin tidak ada apa-apa, karena kemungkinan ada masalah dengan situs itu sendiri. Situs menggunakan sertifikat yang dikeluarkan oleh otoritas sertifikat untuk membuktikan bahwa mereka benar-benar seperti yang mereka katakan. Tetapi jika Anda berada di jaringan perusahaan, tim dukungan Anda mungkin memiliki info lebih lanjut. Jika Anda menggunakan perangkat lunak antivirus, coba cari potensi konflik atau masalah yang diketahui.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Kode Kesalahan: { $error }

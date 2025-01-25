@@ -451,6 +451,8 @@ urlbar-go-button =
     .tooltiptext = ໄປຫາທີ່ຢູ່ໃນແຖບຕຳແຫນ່ງທີ່ຢູ່
 urlbar-page-action-button =
     .tooltiptext = ການກະທຳຂອງຫນ້າ
+urlbar-revert-button =
+    .tooltiptext = ສະແດງທີ່ຢູ່ໃນແຖບສະຖານທີ່
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -471,6 +473,11 @@ urlbar-result-action-search-w-engine = ຄົ້ນຫາດ້ວຍ { $engine 
 urlbar-result-action-sponsored = ໄດ້ຮັບການສະຫນັບສະຫນູນ
 urlbar-result-action-switch-tab = ປ່ຽນໄປຫາແທັບ
 urlbar-result-action-visit = ຢ້ຽມຢາມ
+# "Switch to tab with container" is used when the target tab is located in a
+# different container.
+# Variables
+# $container (String): the name of the target container
+urlbar-result-action-switch-tab-with-container = ສະຫຼັບໄປແຖບ · <span>{ $container }</span>
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = ເຂົ້າເບິ່ງຈາກຄລິບບອດ
 # Directs a user to press the Tab key to perform a search with the specified
@@ -506,6 +513,11 @@ urlbar-result-action-calculator-result = = { $result }
 # Label prompting user to search with a particular search engine.
 #  $engine (String): the name of a search engine that searches a specific site
 urlbar-result-search-with = ຄົ້ນຫາດ້ວຍ { $engine }
+# Label for the urlbar result row, prompting the user to use a local keyword to enter search mode.
+#  $keywords (String): the restrict keyword to enter search mode.
+#  $localSearchMode (String): the local search mode (history, tabs, bookmarks,
+#  or actions) to search with.
+urlbar-result-search-with-local-search-mode = { $keywords } - ຄົ້ນຫາ { $localSearchMode }
 urlbar-searchmode-tabs =
     .label = ແທັບ
 urlbar-searchmode-history =
@@ -800,6 +812,10 @@ data-reporting-notification-button =
     .accesskey = C
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = ການທ່ອງເວັບແບບສ່ວນຕົວ
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = ການທ່ອງເວັບແບບສ່ວນຕົວ
+content-analysis-panel-title = ການປົກປ້ອງຂໍ້ມູນ
 
 ## Unified extensions (toolbar) button
 
@@ -895,6 +911,9 @@ popup-show-popup-menuitem =
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
 file-picker-failed-open = Windows file-dialog ບໍ່ສາມາດເປີດໄດ້. ບໍ່ມີໄຟລ໌ ຫຼື ໂຟນເດີໃດສາມາດເລືອກໄດ້.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = Windows file-dialog ບໍ່ສາມາດເປີດໄດ້. ໄຟລ໌ດັ່ງກ່າວຈະຖືກບັນທຶກໄວ້ໃນ { $path }.
+file-picker-failed-save-nowhere = Windows file-dialog ບໍ່ສາມາດເປີດໄດ້. ບໍ່ພົບໂຟນເດີເລີ່ມຕົ້ນ; ໄຟລ໌ຈະບໍ່ຖືກບັນທຶກໄວ້.
 file-picker-crashed-open = Windows file-dialog ໄດ້ຂັດຂ້ອງ. ບໍ່ມີໄຟລ໌ ຫຼື ໂຟນເດີໃດສາມາດເລືອກໄດ້.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
