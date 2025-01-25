@@ -1471,6 +1471,9 @@ collection-health-report =
         }
     .accesskey = r
 collection-health-report-link = Zjistit více
+collection-studies2 =
+    .label = Instalovat a spouštět studie
+collection-studies-description = Vyzkoušejte funkce a nápady dříve, než budou veřejně dostupné.
 collection-studies =
     .label =
         { -brand-short-name.case-status ->
@@ -1482,6 +1485,9 @@ collection-studies-link =
         [with-cases] Zobrazit studie { -brand-short-name(case: "gen") }
        *[no-cases] Zobrazit studie aplikace { -brand-short-name }
     }
+addon-recommendations2 =
+    .label = Povolit personalizovaná doporučení rozšíření
+addon-recommendations-description = Nechte si doporučovat rozšíření pro zlepšení vašeho prohlížení.
 addon-recommendations =
     .label =
         { -brand-short-name.case-status ->
