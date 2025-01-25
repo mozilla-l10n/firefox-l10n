@@ -81,6 +81,7 @@ about-webauthn-auth-option-up = ਵਰਤੋਂਕਾਰ ਦੀ ਮੌਜੂਦ�
 about-webauthn-auth-option-clientpin = ਕਲਾਈਂਟ ਪਿੰਨ
 about-webauthn-auth-option-plat = ਪਲੇਟਫਾਰਮ ਡਿਵਾਈਸ
 about-webauthn-auth-option-bioenroll = ਬਾਇਓਮੈਟਰਿਕ ਦਾਖਲਾ
+about-webauthn-auth-option-uvbioenroll = ਬਾਇਓਮੈਟਰਿਕ ਦਾਖਲੇ ਦੀ ਮਨਜ਼ੂਰੀ
 about-webauthn-auth-option-authnrcfg = ਪਰਮਾਣਿਕਰਤਾ ਸੰਰਚਨਾ
 about-webauthn-auth-option-uvacfg = ਪਰਮਾਣੀਕਰਨ ਸੰਰਚਨਾ ਇਜਾਜ਼ਤ
 about-webauthn-auth-option-credmgmt = ਸਨਦ ਇੰਤਜ਼ਾਮ
