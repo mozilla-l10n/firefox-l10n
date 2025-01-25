@@ -145,6 +145,17 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = افتح الروابط في ألسنة بدل فتح نوافذ جديدة
     .accesskey = ن
+ask-on-close-multiple-tabs =
+    .label = اسأل قبل محاولة إغلاق عدّة ألسنة
+    .accesskey = د
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = اسأل قبل المغادرة باستعمال { $quitKey }
+    .accesskey = ت
 confirm-on-close-multiple-tabs =
     .label = أكّد علي عند محاولة إغلاق عدّة ألسنة
     .accesskey = ك
@@ -572,6 +583,8 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = ينصح به { $provider }
 home-prefs-recommended-by-description-new = محتوى مميّز جمعه لك { $provider }، وهو جزء من عائلة { -brand-product-name }
+home-prefs-recommended-by-header-generic =
+    .label = القصص المُقترحة
 
 ##
 
@@ -786,6 +799,9 @@ sync-currently-syncing-creditcards = بطاقات الائتمان
 sync-currently-syncing-payment-methods = طرق الدفع
 sync-currently-syncing-addons = الإضافات
 sync-currently-syncing-settings = الإعدادات
+sync-manage-options =
+    .label = أدر المزامنة…
+    .accesskey = د
 sync-change-options =
     .label = غيّرها…
     .accesskey = غ
@@ -1250,9 +1266,14 @@ collection-health-report =
     .label = اسمح أن يُرسل { -brand-short-name } بيانات تقنية و بيانات التفاعل إلى { -vendor-short-name }
     .accesskey = ح
 collection-health-report-link = اطّلع على المزيد
+collection-studies2 =
+    .label = تثبيت الدراسات وتشغيلها
 collection-studies =
     .label = اسمح أن ينصّب { -brand-short-name } ويشغل الدراسات
 collection-studies-link = اعرض دراسات { -brand-short-name }
+collection-backlogged-crash-reports2 =
+    .label = أرسل تقارير الإنهيار تلقائيًا
+    .accesskey = س
 addon-recommendations =
     .label = اسمح بأن يقترح { -brand-short-name } الامتدادات المخصّصة لك
 addon-recommendations-link = اطّلع على المزيد
