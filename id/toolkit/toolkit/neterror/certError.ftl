@@ -80,12 +80,33 @@ fp-certerror-return-to-previous-page-recommended-button = Kembali (Disarankan)
 fp-certerror-bad-domain-why-dangerous-body = Situs disiapkan untuk hanya mengizinkan sambungan aman, tetapi ada masalah dengan sertifikat situs. Ada kemungkinan aktor jahat mencoba menyamar sebagai situs. Situs menggunakan sertifikat yang dikeluarkan oleh otoritas sertifikat untuk membuktikan bahwa mereka benar-benar seperti yang mereka katakan. { -brand-short-name } tidak mempercayai situs ini karena sertifikatnya tidak valid untuk { $hostname }. Sertifikat hanya valid untuk: { $validHosts }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-bad-domain-what-can-you-do-body = Mungkin tidak ada apa-apa, karena kemungkinan ada masalah dengan situs itu sendiri. Situs menggunakan sertifikat yang dikeluarkan oleh otoritas sertifikat untuk membuktikan bahwa mereka benar-benar seperti yang mereka katakan. Tetapi jika Anda berada di jaringan perusahaan, tim dukungan Anda mungkin memiliki info lebih lanjut. Jika Anda menggunakan perangkat lunak antivirus, coba cari potensi konflik atau masalah yang diketahui.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-unknown-issuer-why-dangerous-body = Ada masalah dengan sertifikat situs. Ada kemungkinan aktor jahat mencoba menyamar sebagai situs. Situs menggunakan sertifikat yang dikeluarkan oleh otoritas sertifikat untuk membuktikan bahwa mereka benar-benar seperti yang mereka katakan. { -brand-short-name } tidak mempercayai situs ini karena kami tidak tahu siapa yang mengeluarkan sertifikat, itu ditandatangani mandiri, atau situs tidak mengirim sertifikat perantara yang kami percayai.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-unknown-issuer-what-can-you-do-body = Mungkin tidak ada apa-apa, karena kemungkinan ada masalah dengan situs itu sendiri. Tetapi jika Anda berada di jaringan perusahaan, tim dukungan Anda mungkin memiliki info lebih lanjut. Jika Anda menggunakan perangkat lunak antivirus, mungkin perlu dikonfigurasi untuk bekerja dengan { -brand-short-name }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-self-signed-why-dangerous-body = Karena ada masalah dengan sertifikat situs. Situs menggunakan sertifikat yang dikeluarkan oleh otoritas sertifikat untuk membuktikan bahwa mereka benar-benar seperti yang mereka katakan. Sertifikat situs ini ditandatangani mandiri. Itu tidak dikeluarkan oleh otoritas sertifikat yang dikenal – jadi kami tidak mempercayainya secara baku.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-self-signed-what-can-you-do-body = Tidak banyak. Kemungkinan ada masalah dengan situs itu sendiri.
+fp-certerror-self-signed-important-note = CATATAN PENTING: Jika Anda mencoba mengunjungi situs ini di intranet perusahaan, staf TI Anda mungkin menggunakan sertifikat yang ditandatangani mandiri. Mereka dapat membantu Anda memeriksa keasliannya.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate expiration date.
+fp-certerror-expired-why-dangerous-body = Situs menggunakan sertifikat yang dikeluarkan oleh otoritas sertifikat untuk membuktikan bahwa mereka benar-benar seperti yang mereka katakan. { -brand-short-name } tidak mempercayai situs ini karena sepertinya sertifikat kedaluwarsa pada { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate start date.
+fp-certerror-not-yet-valid-why-dangerous-body = Situs menggunakan sertifikat yang dikeluarkan oleh otoritas sertifikat untuk membuktikan bahwa mereka benar-benar seperti yang mereka katakan. { -brand-short-name } tidak mempercayai situs ini karena sepertinya sertifikat tidak akan valid sebelum { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } .
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Clock date.
+fp-certerror-expired-what-can-you-do-body = Jam perangkat Anda disetel ke { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. Jika ini benar, masalah keamanan mungkin ada pada situs itu sendiri. Jika salah, Anda dapat mengubahnya di pengaturan sistem perangkat Anda.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Kode Kesalahan: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
-fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-datetime = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 fp-learn-more-about-secure-connection-failures = Pelajari lebih lanjut tentang kegagalan sambungan aman
 fp-learn-more-about-cert-issues = Pelajari lebih lanjut tentang jenis masalah sertifikat ini
 fp-learn-more-about-time-related-errors = Pelajari lebih lanjut tentang pemecahan masalah kesalahan terkait waktu
@@ -145,3 +166,5 @@ fp-certerror-hide-advanced-button = Sembunyikan tingkat lanjut
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-certerror-override-exception-button = Lanjutkan ke { $hostname } (Berrisiko)
+fp-certerror-intro = { -brand-short-name } menemukan masalah keamanan yang berpotensi serius dengan <strong>{ $hostname }</strong>. Seseorang yang berpura-pura menjadi situs dapat mencoba mencuri hal-hal seperti info kartu kredit, kata sandi, atau surel.
+fp-certerror-expired-into = { -brand-short-name } menemukan masalah keamanan dengan <strong>{ $hostname }</strong>. Situs tidak diatur dengan benar atau jam perangkat Anda disetel ke tanggal/waktu yang salah.
