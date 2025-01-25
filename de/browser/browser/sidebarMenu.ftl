@@ -4,6 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = Lesezeichen
+sidebar-menu-bookmarks-2 = Lesezeichen
 sidebar-menu-history =
     .label = Chronik
 sidebar-menu-synced-tabs =

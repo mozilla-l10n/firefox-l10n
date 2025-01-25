@@ -133,6 +133,8 @@ sidebar-menu-history-header =
     .heading = Chronik
 sidebar-menu-syncedtabs-header =
     .heading = Tabs von anderen Geräten
+sidebar-menu-bookmarks-header =
+    .heading = Lesezeichen
 sidebar-panel-header-close-button =
     .tooltiptext = Schließen
 
