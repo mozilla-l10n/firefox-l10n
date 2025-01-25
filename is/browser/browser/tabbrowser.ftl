@@ -74,6 +74,13 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = Kveikja á hljóði í flipa
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = Slökkva á hljóði flipa
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = Spila flipa
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -207,6 +214,17 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Hætta við
     .accesskey = H
+tab-group-editor-color-selector =
+    .aria-label = Litur flipahóps
+tab-group-editor-color-selector-blue = Blátt
+tab-group-editor-color-selector-purple = Fjólublátt
+tab-group-editor-color-selector-cyan = Blágrænt
+tab-group-editor-color-selector-orange = Appelsínugult
+tab-group-editor-color-selector-yellow = Gult
+tab-group-editor-color-selector-pink = Bleikt
+tab-group-editor-color-selector-green = Grænt
+tab-group-editor-color-selector-gray = Grátt
+tab-group-editor-color-selector-red = Rautt
 tab-group-menu-header = Flipahópar
 tab-context-unnamed-group =
     .label = Ónefndur hópur

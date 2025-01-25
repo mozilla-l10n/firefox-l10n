@@ -1322,9 +1322,22 @@ collection-health-report =
     .label = Leyfa { -brand-short-name } að senda sjálkrafa tæknilegar og notkunar upplýsingar til { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Fræðast meira
+collection-health-report-description = Þetta hjálpar okkur að bæta eiginleika, afköst og stöðugleika í { -brand-product-name }.
+collection-studies2 =
+    .label = Settu upp og keyrðu rannsóknir
+collection-studies-description = Prófaðu eiginleika og hugmyndir áður en þær eru settar í dreifingu.
 collection-studies =
     .label = Leyfa { -brand-short-name } að setja upp og keyra rannsóknir
 collection-studies-link = Skoða rannsóknir frá { -brand-short-name }
+addon-recommendations2 =
+    .label = Leyfa persónusniðnar ráðleggingar um forritsauka
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled2 = Gagna skýrsla er óvirk í þessari útgáfu.
+collection-backlogged-crash-reports2 =
+    .label = Senda hrunskýrslur inn sjálfkrafa
+    .accesskey = h
+collection-backlogged-crash-reports-description = Þetta gerir { -vendor-short-name } kleift að greina og laga vandamál með vafrann. Slíkar skýrslur geta innihaldið persónuleg eða viðkvæm gögn.
 addon-recommendations =
     .label = Leyfa { -brand-short-name } að gera sérsniðnar tillögur um viðbætur.
 addon-recommendations-link = Fræðast meira

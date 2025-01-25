@@ -4,6 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = Bókamerki
+sidebar-menu-bookmarks-2 = Bókamerki
 sidebar-menu-history =
     .label = Ferill
 sidebar-menu-synced-tabs =

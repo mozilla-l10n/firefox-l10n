@@ -133,6 +133,8 @@ sidebar-menu-history-header =
     .heading = Ferill
 sidebar-menu-syncedtabs-header =
     .heading = Flipar frá öðrum tækjum
+sidebar-menu-bookmarks-header =
+    .heading = Bókamerki
 sidebar-panel-header-close-button =
     .tooltiptext = Loka
 
