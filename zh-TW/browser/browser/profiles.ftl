@@ -33,7 +33,7 @@ edit-profile-page-header = 編輯您的設定檔
 edit-profile-page-profile-name-label = 設定檔名稱
 edit-profile-page-theme-header = 佈景主題
 edit-profile-page-explore-themes = 探索更多佈景主題
-edit-profile-page-avatar-header = 頭像
+edit-profile-page-avatar-header = 圖示
 edit-profile-page-delete-button =
     .label = 刪除
 edit-profile-page-no-name = 為此設定檔命名，方便之後尋找，可以隨時再更名。
@@ -59,9 +59,9 @@ delete-profile-page-title = 刪除 { $profilename } 設定檔
 delete-profile-header = 要刪除 { $profilename } 設定檔嗎？
 delete-profile-description = { -brand-short-name } 將從此裝置永久刪除下列資料：
 # Open is an adjective, as in "browser windows currently open".
-delete-profile-windows = 開啟視窗
+delete-profile-windows = 開啟的視窗
 # Open is an adjective, as in "browser tabs currently open".
-delete-profile-tabs = 開啟分頁
+delete-profile-tabs = 開啟的分頁
 delete-profile-bookmarks = 書籤
 delete-profile-history = 瀏覽紀錄（造訪過的網頁、Cookie、網站資料等）
 delete-profile-autofill = 表單自動填寫資料（地址、付款方式等）
