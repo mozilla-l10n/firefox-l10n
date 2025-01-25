@@ -1331,6 +1331,7 @@ collection-studies =
 collection-studies-link = Skoða rannsóknir frá { -brand-short-name }
 addon-recommendations2 =
     .label = Leyfa persónusniðnar ráðleggingar um forritsauka
+addon-recommendations-description = Fáðu ráðleggingar um forritsauka til að bæta notkun þína við vafur.
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled2 = Gagna skýrsla er óvirk í þessari útgáfu.
