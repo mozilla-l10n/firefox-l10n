@@ -189,6 +189,13 @@ shopping-survey-thanks =
 ## Shopping opted-out survey strings
 ## Opt-out survey options are displayed as checkboxes and the user can select one or many.
 
+shopping-survey-thanks-title = Terima kasih atas masukan Anda!
+shopping-survey-opted-out-hard-to-understand = Sulit dimengerti
+shopping-survey-opted-out-too-slow = Terlalu lambat
+shopping-survey-opted-out-not-accurate = Tidak akurat
+shopping-survey-opted-out-not-helpful = Tidak membantu saya
+shopping-survey-opted-out-check-myself = Saya lebih suka memeriksa ulasan sendiri
+shopping-survey-opted-out-other = Lainnya
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to

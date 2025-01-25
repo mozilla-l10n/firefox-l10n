@@ -1319,6 +1319,10 @@ addon-recommendations-description = Dapatkan rekomendasi ekstensi untuk meningka
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled2 = Pelaporan data dinonaktifkan untuk konfigurasi build ini.
+collection-backlogged-crash-reports2 =
+    .label = Kirim laporan kerusakan secara otomatis
+    .accesskey = c
+collection-backlogged-crash-reports-description = Ini membantu { -vendor-short-name } mendiagnosis dan memperbaiki masalah pada peramban. Laporan mungkin mengandung data pribadi atau sensitif.
 addon-recommendations =
     .label = Memungkinkan { -brand-short-name } membuat rekomendasi ekstensi pribadi.
 addon-recommendations-link = Pelajari lebih lanjut

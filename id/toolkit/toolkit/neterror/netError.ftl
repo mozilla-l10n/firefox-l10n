@@ -12,6 +12,7 @@ neterror-blocked-by-policy-page-title = Laman Diblokir
 neterror-captive-portal-page-title = Masuk ke jaringan
 neterror-dns-not-found-title = Server Tidak Ditemukan
 neterror-malformed-uri-page-title = URL tidak valid
+general-body-title = Hati-hati. Ada yang tidak beres.
 
 ## Error page actions
 
@@ -151,3 +152,10 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Jika Anda tidak akrab denga
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> memiliki kebijakan keamanan yang disebut sebagai HTTP Strict Transport Security (HSTS), yang berarti { -brand-short-name } hanya bisa tersambung dengannya secara aman. Anda tidak bisa menambahkan pengecualian untuk mengunjungi situs.
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = Mungkin tidak ada yang bisa dilakukan, karena kemungkinan situsnya sendiri yang bermasalah.
+certerror-blocked-by-corp-headers-description = Terkadang situs web menyiapkan perlindungan untuk diri mereka sendiri dan orang-orang seperti Anda dari interaksi yang tidak diinginkan dengan situs lain.
+certerror-coop-learn-more = Pelajari lebih lanjut tentang Cross Origin Opener Policies (COOP)
+certerror-coep-learn-more = Pelajari lebih lanjut tentang Cross Origin Embedder Policies (COEP)
+# Variables:
+#   $responsestatus (string) - HTTP response status code (e.g., 500).
+#   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
+neterror-response-status-code = Kode kesalahan: { $responsstatus } { $responsstatustext }
