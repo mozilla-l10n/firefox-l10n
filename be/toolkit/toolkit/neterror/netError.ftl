@@ -12,6 +12,7 @@ neterror-blocked-by-policy-page-title = Заблакаваная старонк�
 neterror-captive-portal-page-title = Злучыцца з сеткай
 neterror-dns-not-found-title = Сервер не знойдзены
 neterror-malformed-uri-page-title = Несапраўдны URL
+general-body-title = Будзьце асцярожныя. Нешта выглядае не так.
 
 ## Error page actions
 
@@ -151,6 +152,9 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Калі вы не знаё
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> мае палітыку бяспекі, што называецца HTTP Strict Transport Security (HSTS), і гэта азначае, што { -brand-short-name } можа звязвацца з ім толькі абароненым злучэннем. Вы не можаце дадаць выключэнне для наведвання гэтага сайта.
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = Хутчэй за ўсё, нічога, таму што, выглядае на тое, праблема з самім сайтам.
+certerror-blocked-by-corp-headers-description = Часам сайты ўсталёўваюць абарону для сябе і такіх людзей, як вы, ад непажаданага ўзаемадзеяння з іншымі сайтамі.
+certerror-coop-learn-more = Даведацца больш пра Палітыку адкрыцця крос-паходжання (Cross Origin Opener Policies, COOP)
+certerror-coep-learn-more = Даведацца больш пра Палітыку ўбудоўвання крос-паходжання (Cross Origin Embedder Policies, COEP)
 # Variables:
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").

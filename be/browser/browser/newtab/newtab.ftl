@@ -488,3 +488,4 @@ newtab-section-mangage-topics-button =
 newtab-section-mangage-topics-followed-topics-subtitle = Тэмы, на якія вы падпісаліся
 newtab-section-mangage-topics-followed-topics-empty-state = Вы яшчэ не падпісаліся ні на адну тэму.
 newtab-section-mangage-topics-blocked-topics-subtitle = Заблакаваныя тэмы
+newtab-section-mangage-topics-blocked-topics-empty-state = Вы яшчэ не заблакавалі ніводнай тэмы.
