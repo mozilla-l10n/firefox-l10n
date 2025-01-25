@@ -10,3 +10,14 @@ preonboarding-subtitle = ਜਾਰੀ ਰੱਖ ਕੇ ਤੁਸੀਂ { -brand-
 preonboarding-primary-cta = ਤਸਦੀਕ ਕਰੋ ਅਤੇ ਜਾਰੀ ਰੱਖੋ
 # Label for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = ਡਾਟਾ ਭੰਡਾਰ ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ ਅਤੇ ਸਾਡੀਆਂ ਵਰਤਣ ਦੀਆਂ ਸ਼ਰਤਾਂ ਤੇ ਪਰਦੇਦਾਰੀ ਨੀਤੀ ਨੂੰ ਪੜ੍ਹੋ
+# Label for header style button that toggles showing the Terms of Use
+preonboarding-terms-of-use-header-button-title = ਸਾਡੀਆਂ ਵਰਤਣ ਦੀਆਂ ਸ਼ਰਤਾਂ ਨੂੰ ਪੜ੍ਹੋ
+# Label for header style button that toggles showing the Privacy Notice
+preonboarding-privacy-notice-header-button-title = ਸਾਡੀ ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ ਨੂੰ ਪੜ੍ਹੋ
+# Label for header style button that toggles showing the data preference checklist
+preonboarding-manage-data-header-button-title = ਜਾਂਚ ਪੜਤਾਲ ਅਤੇ ਤਾਲਮੇਲ ਡਾਟੇ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+# New user onboarding checklist
+preonboarding-checklist-interaction-data-label = { -vendor-short-name } ਤਕਨੀਕੀ ਅਤੇ ਤਾਲਮੇਲ ਡਾਟਾ ਭੇਜੋ
+preonboarding-checklist-interaction-data-description = ਤੁਹਾਡੇ ਡਿਵਾਈਸ, ਹਾਰਡਵੇਅਰ ਸੰਰਚਨਾ ਅਤੇ { -brand-product-name } ਨੂੰ ਤੁਸੀਂ ਕਿਵੇਂ ਵਰਤਦੇ ਹੋ ਦੇ ਬਾਰੇ ਡਾਟਾ ਹਰ ਥਾਂ ਦੇ ਵਰਤੋਂਕਾਰਾਂ ਲਈ ਫ਼ੀਚਰਾਂ, ਕਾਰਗੁਜ਼ਾਰੀ ਅਤੇ ਸਥਿਰਤਾਂ ਵਿੱਚ ਸੁਧਾਰ ਕਰਨ ਲਈ ਮਦਦ ਕਰਦਾ ਹੈ।
+preonboarding-checklist-crash-reports-label = ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ ਨੂੰ ਆਪਣੇ-ਆਪ ਭੇਜੋ
+preonboarding-checklist-crash-reports-description = ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ ਸਾਨੂੰ ਬਰਾਊਜ਼ਰ ਦੀ ਜਾਂਚ ਪੜਤਾਲ ਕਰਨ ਅਤੇ ਮਸਲਿਆਂ ਨੂੰ ਠੀਕ ਕਰਨ ਮਦਦ ਕਰਦੀਆਂ ਹਨ। ਰਿਪੋਰਟਾਂ ਵਿੱਚ ਨਿੱਜੀ ਜਾਂ ਸੰਵੇਦਨਸ਼ੀਲ ਡਾਟਾ ਸ਼ਾਮਲ ਹੋ ਸਕਦਾ ਹੈ।
