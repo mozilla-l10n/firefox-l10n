@@ -141,6 +141,8 @@ sidebar-menu-history-header =
     .heading = Historie
 sidebar-menu-syncedtabs-header =
     .heading = Panely z jiných zařízení
+sidebar-menu-bookmarks-header =
+    .heading = Záložky
 sidebar-panel-header-close-button =
     .tooltiptext = Zavřít
 

@@ -81,6 +81,13 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = Zapne zvuk panelu
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = Vypne zvuk panelu
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = Spustí v panelu přehrávání
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -252,6 +259,17 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Zrušit
     .accesskey = Z
+tab-group-editor-color-selector =
+    .aria-label = Barva skupiny panelů
+tab-group-editor-color-selector-blue = Modrá
+tab-group-editor-color-selector-purple = Fialová
+tab-group-editor-color-selector-cyan = Azurová
+tab-group-editor-color-selector-orange = Oranžová
+tab-group-editor-color-selector-yellow = Žlutá
+tab-group-editor-color-selector-pink = Růžová
+tab-group-editor-color-selector-green = Zelená
+tab-group-editor-color-selector-gray = Šedivý
+tab-group-editor-color-selector-red = Červená
 tab-group-menu-header = Skupiny panelů
 tab-context-unnamed-group =
     .label = Nepojmenovaná skupina
