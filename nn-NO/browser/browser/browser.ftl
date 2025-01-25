@@ -367,6 +367,10 @@ quickactions-cmd-viewsource = vis kjelde, kjelde
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Les meir om snøgghandlingar
+# Will be shown to users the first configurable number of times
+# they experience actions giving them instructions on how to
+# select the action shown by pressing the tab key.
+press-tab-label = Trykk på fane for å velje:
 
 ## Bookmark Panel
 
@@ -1067,6 +1071,11 @@ unified-extensions-button-quarantined =
 ## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-blocklisted =
+    .label = Utvidingar
+    .tooltiptext =
+        Utvidingar
+        Nokre utvidingar er deaktiverte
 
 ## Private browsing reset button
 
