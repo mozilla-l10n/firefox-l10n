@@ -133,6 +133,8 @@ sidebar-menu-history-header =
     .heading = Гісторыя
 sidebar-menu-syncedtabs-header =
     .heading = Карткі з іншых прылад
+sidebar-menu-bookmarks-header =
+    .heading = Закладкі
 sidebar-panel-header-close-button =
     .tooltiptext = Закрыць
 
