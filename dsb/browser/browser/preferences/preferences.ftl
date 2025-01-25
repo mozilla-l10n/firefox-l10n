@@ -1339,6 +1339,7 @@ collection-studies =
 collection-studies-link = Studije { -brand-short-name } pokazaś
 addon-recommendations2 =
     .label = Personalizěrowane dopórucenja za rozšyrjenja dowóliś
+addon-recommendations-description = Wobstarajśo se dopórucenja za rozšyrjenja, aby swóje pśeglědowańske dožywjenje pólěpšył.
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled2 = Datowe rozpšawjenje jo znjemóžnjone za toś tu programowu konfiguraciju.
