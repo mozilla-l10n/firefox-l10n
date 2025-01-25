@@ -133,6 +133,8 @@ sidebar-menu-history-header =
     .heading = Zgodovina
 sidebar-menu-syncedtabs-header =
     .heading = Zavihki z drugih naprav
+sidebar-menu-bookmarks-header =
+    .heading = Zaznamki
 sidebar-panel-header-close-button =
     .tooltiptext = Zapri
 

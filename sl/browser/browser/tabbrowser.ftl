@@ -88,6 +88,13 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = Povrni glasnost zavihka
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = Utišaj zavihek
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = Predvajaj zavihek
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -232,6 +239,17 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Prekliči
     .accesskey = P
+tab-group-editor-color-selector =
+    .aria-label = Barva skupine zavihkov
+tab-group-editor-color-selector-blue = Modra
+tab-group-editor-color-selector-purple = Vijolična
+tab-group-editor-color-selector-cyan = Cian
+tab-group-editor-color-selector-orange = Oranžna
+tab-group-editor-color-selector-yellow = Rumena
+tab-group-editor-color-selector-pink = Roza
+tab-group-editor-color-selector-green = Zelena
+tab-group-editor-color-selector-gray = Siva
+tab-group-editor-color-selector-red = Rdeča
 tab-group-menu-header = Skupine zavihkov
 tab-context-unnamed-group =
     .label = Neimenovana skupina

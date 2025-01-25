@@ -152,6 +152,9 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Če <b>{ $mitm }</b> ne poz
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> uporablja varnostni pravilnik, imenovan HTTP Strict Transport Security (HSTS), kar pomeni, da se lahko { -brand-short-name } nanjo poveže zgolj varno. Za obisk te strani ne morete dodati izjeme.
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = Najverjetneje ničesar, saj je težava verjetno v samem spletnem mestu.
+certerror-blocked-by-corp-headers-description = Spletna mesta včasih nastavijo zaščito zase in za obiskovalce pred nehotenimi interakcijami z drugimi mesti.
+certerror-coop-learn-more = Več o pravilnikih odpiranja navzkrižnih izvorov (COOP)
+certerror-coep-learn-more = Več o pravilnikih vdelave navzkrižnih izvorov (COEP)
 # Variables:
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
