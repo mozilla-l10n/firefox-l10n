@@ -73,6 +73,15 @@ open-in-new-window-for-csp-or-xfo-error = Buka Situs di Jendela Baru
 csp-xfo-blocked-long-desc = Untuk melindungi keamanan Anda, { $hostname } tidak akan mengizinkan { -brand-short-name } untuk menampilkan laman jika situs lain telah menyematkannya. Untuk melihat laman ini, Anda harus membukanya di jendela baru.
 fp-certerror-view-certificate-link = Lihat sertifikat situs
 fp-certerror-return-to-previous-page-recommended-button = Kembali (Disarankan)
+# Variables:
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+fp-cert-error-code = Kode Kesalahan: { $error }
+# Variables:
+#   $datetime (Date) - Current datetime.
+fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-learn-more-about-secure-connection-failures = Pelajari lebih lanjut tentang kegagalan sambungan aman
+fp-learn-more-about-cert-issues = Pelajari lebih lanjut tentang jenis masalah sertifikat ini
+fp-learn-more-about-time-related-errors = Pelajari lebih lanjut tentang pemecahan masalah kesalahan terkait waktu
 
 ## Messages used for certificate error titles
 
@@ -82,6 +91,7 @@ deniedPortAccess-title = Penggunaan alamat ini dibatasi
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm. Kami kesulitan menemukan situsnya.
 dns-not-found-trr-only-title2 = Kemungkinan risiko keamanan mencari domain ini
+dns-not-found-native-fallback-title2 = Kemungkinan risiko keamanan mencari domain ini
 fileNotFound-title = Berkas tidak ditemukan
 fileAccessDenied-title = Akses terhadap berkas ditolak
 generic-title = Ups.
@@ -96,6 +106,7 @@ contentEncodingError-title = Kesalahan Pengodean Isi (Content Encoding)
 unsafeContentType-title = Jenis Berkas Tidak Aman
 netReset-title = Sambungan diputus
 netTimeout-title = Tenggang waktu tersambung habis
+serverError-title = Sepertinya ada masalah dengan situs ini
 unknownProtocolFound-title = Alamat tidak dipahami
 proxyConnectFailure-title = Server proksi menolak sambungan
 proxyResolveFailure-title = Tidak dapat menemukan server proksi
@@ -115,7 +126,15 @@ certerror-mitm-title = Perangkat Lunak Menghalangi { -brand-short-name } untuk T
 
 ## Felt Privacy V1 Strings
 
+fp-certerror-page-title = Peringatan: Risiko Keamanan
+fp-certerror-body-title = Hati-hati. Ada yang tidak beres.
+fp-certerror-why-site-dangerous = Apa yang membuat situs ini terlihat berbahaya?
+fp-certerror-what-can-you-do = Apa yang dapat Anda lakukan?
+fp-certerror-advanced-title = Tingkat Lanjut
+fp-certerror-advanced-button = Tingkat Lanjut
+fp-certerror-hide-advanced-button = Sembunyikan tingkat lanjut
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
+fp-certerror-override-exception-button = Lanjutkan ke { $hostname } (Berrisiko)
