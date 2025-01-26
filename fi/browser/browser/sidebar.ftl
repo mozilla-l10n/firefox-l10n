@@ -133,6 +133,8 @@ sidebar-menu-history-header =
     .heading = Historia
 sidebar-menu-syncedtabs-header =
     .heading = Välilehdet muista laitteista
+sidebar-menu-bookmarks-header =
+    .heading = Kirjanmerkit
 sidebar-panel-header-close-button =
     .tooltiptext = Sulje
 

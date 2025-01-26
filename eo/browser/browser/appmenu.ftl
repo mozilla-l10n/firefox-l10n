@@ -280,8 +280,11 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Ricevu atentigojn pri datumfuĝoj
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Maski vian veran retpoŝton kaj telefonnumeron
+appmenuitem-services-relay-description = Malfermi la panelon pri retpoŝtaj maskoj
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Protektu vian retumon
+appmenu-services-header = Miaj servoj
+appmenu-other-protection-header = Testu aliajn protektajn ilojn de { -vendor-short-name }:
 
 ## Profiles panel
 

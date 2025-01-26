@@ -1325,9 +1325,20 @@ collection-health-report-link = Pli da informo
 collection-health-report-description = Tio helpas nin plibonigi la trajtojn, efikecon kaj stabilecon de { -brand-product-name }.
 collection-studies2 =
     .label = Instali kaj ruli esplorojn
+collection-studies-description = Testu trajtojn kaj ideojn antaŭ ol ili estos liveritaj al ĉiuj.
 collection-studies =
     .label = Permesi al { -brand-short-name } instali kaj fari studojn
 collection-studies-link = Vidi studojn de { -brand-short-name }
+addon-recommendations2 =
+    .label = Permesi personecigitajn rekomendojn pri etendaĵoj
+addon-recommendations-description = Ricevu rekomendojn pri etendaĵoj por plibonigi vian retuman sperton.
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled2 = La raporto de datumoj estas malŝaltita pro la agordoj de konstruo.
+collection-backlogged-crash-reports2 =
+    .label = Aŭtomate sendi raportojn pri paneoj
+    .accesskey = p
+collection-backlogged-crash-reports-description = Tio ĉi helpas { -vendor-short-name } diagnozi kaj solvi problemojn en la retumilo. Raportoj povus inkluzivi personajn aŭ delikatajn datumojn.
 addon-recommendations =
     .label = Permesi al { -brand-short-name } fari personecigitajn proponojn pri etendaĵoj
 addon-recommendations-link = Pli da informo

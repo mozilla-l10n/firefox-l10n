@@ -468,6 +468,9 @@ newtab-section-unfollow-button = Lopeta seuraaminen
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
 ## e.g. Blocked the politics section of stories.
 
+newtab-section-block-button = Estä
+newtab-section-blocked-button = Estetty
+newtab-section-unblock-button = Poista esto
 
 ## Confirmation modal for blocking a section
 
@@ -478,3 +481,10 @@ newtab-section-cancel-button = Ei nyt
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+newtab-section-mangage-topics-title = Aiheet
+newtab-section-mangage-topics-button =
+    .label = Seuratut ja estetyt aiheet
+newtab-section-mangage-topics-followed-topics-subtitle = Seuratut aiheet
+newtab-section-mangage-topics-followed-topics-empty-state = Et ole vielä seurannut yhtäkään aihetta.
+newtab-section-mangage-topics-blocked-topics-subtitle = Estetyt aiheet
+newtab-section-mangage-topics-blocked-topics-empty-state = Et ole vielä estänyt yhtäkään aihetta.

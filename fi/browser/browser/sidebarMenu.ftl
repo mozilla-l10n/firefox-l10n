@@ -4,6 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = Kirjanmerkit
+sidebar-menu-bookmarks-2 = Kirjanmerkit
 sidebar-menu-history =
     .label = Sivuhistoria
 sidebar-menu-synced-tabs =

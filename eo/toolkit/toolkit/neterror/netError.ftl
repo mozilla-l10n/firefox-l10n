@@ -12,6 +12,7 @@ neterror-blocked-by-policy-page-title = Blokita paĝo
 neterror-captive-portal-page-title = Komenci seancon en tiu ĉi reto
 neterror-dns-not-found-title = Servilo ne trovita
 neterror-malformed-uri-page-title = Nevalida retadreso
+general-body-title = Estu singarda. Io ne ĝustas.
 
 ## Error page actions
 
@@ -151,6 +152,8 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Se vi ne rekonas la nomon <
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> uzas sekurecan politikon, kiun oni nomas HTTP Strict Transport Security (HSTS), kiu devigas { -brand-short-name } konektiĝi sekure. Vi ne povas aldoni escepton por viziti tiun ĉi retejon.
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = Verŝajne temas pri nenio grava, sed eble estas problemo en la retejo.
+certerror-blocked-by-corp-headers-description = Kelkefoje retejoj agordas, por si mem kaj por personoj kiel vi, protektojn kontraŭ nedezirataj interagoj kun aliaj retejoj.
+certerror-coop-learn-more = Pli da informo pri la politikoj de malfermo el malsamaj originoj (Cross Origin Opener Policies, COOP)
 # Variables:
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").

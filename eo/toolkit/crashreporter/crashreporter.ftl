@@ -8,6 +8,7 @@ crashreporter-crashed-and-restore = { -brand-short-name } havis problemon kaj pa
 crashreporter-plea = Por helpi nin diagnozi kaj solvi la problemon, vi povas sendi al ni raporton de paneo.
 crashreporter-information = Tiu ĉi programo estas funkciigita post paneo por raporti la problemon al { -vendor-short-name }. Ĝi ne devus esti rekte funkciigita.
 crashreporter-error = { -brand-short-name } havis problemon kaj paneis. Bedaŭrinde ne eblas sendi raporton pri tiu ĉi paneo.
+crashreporter-error-details-header = Detaloj:
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Details: { $details }
 crashreporter-no-run-message = Tiu ĉi programo estas funkciigita post paneo por raporti la problemon al la provizanto de la programo. Ĝi ne devus esti rekte funkciigita.

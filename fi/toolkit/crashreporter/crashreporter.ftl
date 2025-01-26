@@ -8,6 +8,7 @@ crashreporter-crashed-and-restore = { -brand-short-name } kohtasi ongelman ja se
 crashreporter-plea = Lähettämällä kaatumisilmoituksen autat meitä tunnistamaan ja korjaamaan ongelman.
 crashreporter-information = Tämä ohjelma suoritetaan kaatumisen jälkeen, ja se ilmoittaa kaatumiseen johtaneesta ongelmasta { -vendor-short-name }lle. Tätä ohjelmaa ei pidä käynnistää erikseen.
 crashreporter-error = { -brand-short-name } kohtasi ongelman ja se kaatui. Valitettavasti kaatumisraportointi ei voi lähettää raporttia tästä kaatumisesta.
+crashreporter-error-details-header = Yksityiskohdat:
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Lisätietoja: { $details }
 crashreporter-no-run-message = Tämä ohjelma ilmoittaa kaatumiseen johtaneesta ohjelmavirheestä ohjelman jakelijalle. Tätä ohjelmaa ei pidä käynnistää erikseen.
