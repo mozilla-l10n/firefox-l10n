@@ -111,6 +111,30 @@ migration-wizard-progress-success-updated-passwords =
 migration-bookmarks-from-file-picker-title = അടയാളക്കുറിപ്പുകളുടെ ഫയല്‍ ഇറക്കുമതിക്കുക
 migration-bookmarks-from-file-progress-header = അടയാളക്കുറിപ്പുകളെ ഇറക്കുമതിക്കുന്നു
 migration-bookmarks-from-file = അടയാളക്കുറിപ്പുകള്‍
+migration-bookmarks-from-file-success-header = അടയാളക്കുറിപ്പുകളെ വിജയകരമായി ഇറക്കുമതി ചെയ്തു
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] HTML പ്രമാണം
+       *[other] HTML ഫയൽ
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = JSON ഫയൽ
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } അടയാളക്കുറിപ്പു്
+       *[other] { $newEntries } അടയാളക്കുറിപ്പുകൾ
+    }
+migration-import-button-label = ഇറക്കുമതി ചെയ്യുക
+migration-choose-to-import-from-file-button-label = ഒരു ഫയലിൽ നിന്ന്  ഇറക്കുമതി ചെയ്യുക
+migration-import-from-file-button-label = ഫയൽ തിരഞ്ഞെടുക്കുക
 migration-cancel-button-label = റദ്ദാക്കുക
 migration-done-button-label = കഴിഞ്ഞിരിക്കുന്നു
 migration-continue-button-label = തുടരുക
@@ -143,12 +167,80 @@ migration-wizard-progress-done-header = ദത്ത വിജയകരമായ
 migration-wizard-progress-done-with-warnings-header = ദത്ത ഇറക്കുമതി കഴിഞ്ഞു
 migration-wizard-progress-icon-in-progress =
     .aria-label = ഇറക്കുമതിച്ചുകൊണ്ടിരിക്കുന്നു…
+migration-wizard-progress-icon-completed =
+    .aria-label = കഴിഞ്ഞു
 migration-safari-password-import-skip-button = ഒഴിവാക്കുക
+migration-safari-password-import-select-button = ഫയൽ തിരഞ്ഞെടുക്കുക
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks =
+    { $quantity ->
+        [one] { $quantity } അടയാളക്കുറിപ്പു്
+       *[other] { $quantity } അടയാളക്കുറിപ്പുകൾ
+    }
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { $quantity ->
+        [one] { $quantity } പ്രിയപ്പെട്ടവ
+       *[other] { $quantity } പ്രയപ്പെട്ടവ
+    }
 
 ## The import process identifies extensions installed in other supported
 ## browsers and installs the corresponding (matching) extensions compatible
 ## with Firefox, if available.
 
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [one] { $quantity } വിപുലീകരണം
+       *[other] { $quantity } വിപുലീകരണങ്ങൾ
+    }
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = { $quantity } വിപുലീകരണങ്ങളിൽ { $matched }
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = പൊരുത്തപ്പെടുന്ന വിപുലീകരണങ്ങളൊന്നുമില്ല
+migration-wizard-progress-extensions-addons-link = { -brand-short-name }-ഇനായി വിപുലീകരണങ്ങൾക്കായി തപ്പുക
 
 ##
 
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords =
+    { $quantity ->
+        [one] { $quantity } രഹസ്യവാക്കു്
+       *[other] { $quantity } രഹസ്യവാക്കുകൾ
+    }
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } പണമടക്കൽമുറ
+       *[other] { $quantity } പണമടക്കൽമുറകൾ
+    }
+migration-wizard-safari-permissions-sub-header = സഫാരി അടയാളക്കുറിപ്പുകളും തിരച്ചിൽ നാൾവഴിയും ഇറക്കുമതി ചെയ്യാൻ വേണ്ടി:
+migration-wizard-safari-instructions-continue = “തുടരുക” എന്നു് തിരഞ്ഞെടുക്കുക

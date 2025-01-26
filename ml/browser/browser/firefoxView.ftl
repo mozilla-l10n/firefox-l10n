@@ -86,11 +86,22 @@ firefoxview-recently-closed-header = അടുത്തിടെ അടച്ച
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = മറ്റു് ഉപകരണങ്ങളിൽ നിന്നുള്ള ടാബുകൾ
+    .title = മറ്റു് ഉപകരണങ്ങളിൽ നിന്നുള്ള ടാബുകൾ
+firefoxview-synced-tabs-header = മറ്റു് ഉപകരണങ്ങളിൽ നിന്നുള്ള ടാബുകൾ
 
 ##
 
 # Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = എല്ലാം കാഴ്ചപ്പെടുക
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = ജാലകം { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = ജാലകം { $winID } (നിലവിലെ)
 firefoxview-opentabs-focus-tab =
     .title = ഈ ടാബിലേക്കു് മാറുക
 firefoxview-show-more = കൂടുതൽ കാണിക്കുക
@@ -147,6 +158,10 @@ firefoxview-history-date-today = ഇന്നു് - { DATETIME($date, dateStyl
 firefoxview-history-date-yesterday = ഇന്നലെ - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (ചുറ്റുപാടു് ഫയലുകള്‍)
 
 ##
 
