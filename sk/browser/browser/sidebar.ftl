@@ -133,6 +133,8 @@ sidebar-menu-history-header =
     .heading = História
 sidebar-menu-syncedtabs-header =
     .heading = Karty z ďalších zariadení
+sidebar-menu-bookmarks-header =
+    .heading = Záložky
 sidebar-panel-header-close-button =
     .tooltiptext = Zavrieť
 

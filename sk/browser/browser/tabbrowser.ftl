@@ -81,6 +81,13 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = Zapnúť zvuk na tejto karte
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = Stlmiť zvuk na tejto karte
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = Prehrať kartu
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -225,6 +232,17 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Zrušiť
     .accesskey = Z
+tab-group-editor-color-selector =
+    .aria-label = Farba skupiny kariet
+tab-group-editor-color-selector-blue = Modrá
+tab-group-editor-color-selector-purple = Fialová
+tab-group-editor-color-selector-cyan = Azúrová
+tab-group-editor-color-selector-orange = Oranžová
+tab-group-editor-color-selector-yellow = Žltá
+tab-group-editor-color-selector-pink = Ružová
+tab-group-editor-color-selector-green = Zelená
+tab-group-editor-color-selector-gray = Sivá
+tab-group-editor-color-selector-red = Červená
 tab-group-menu-header = Skupiny kariet
 tab-context-unnamed-group =
     .label = Nepomenovaná skupina
