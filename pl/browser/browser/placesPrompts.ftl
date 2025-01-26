@@ -15,3 +15,5 @@ places-bookmarks-restore-format-error = Nieobsługiwany typ pliku.
 places-bookmarks-restore-parse-error = Nie udało się przetworzyć pliku kopii zapasowej.
 places-bookmarks-import = Importuj plik zakładek
 places-bookmarks-export = Eksportuj plik zakładek
+places-bookmarks-paste-error-title = Odnaleziono nieprawidłowe adresy
+places-bookmarks-paste-error-message-header = Poniższych adresów nie można dodać do zakładek. Spróbuj sprawdzić poprawność formatowania i dodać je ponownie.

@@ -4,6 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = Zakładki
+sidebar-menu-bookmarks-2 = Zakładki
 sidebar-menu-history =
     .label = Historia
 sidebar-menu-synced-tabs =

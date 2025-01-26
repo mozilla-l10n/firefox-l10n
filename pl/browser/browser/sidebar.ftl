@@ -123,6 +123,8 @@ sidebar-menu-history-header =
     .heading = Historia
 sidebar-menu-syncedtabs-header =
     .heading = Karty z innych urządzeń
+sidebar-menu-bookmarks-header =
+    .heading = Zakładki
 sidebar-panel-header-close-button =
     .tooltiptext = Zamknij
 
