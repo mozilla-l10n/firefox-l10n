@@ -133,6 +133,8 @@ sidebar-menu-history-header =
     .heading = Historio
 sidebar-menu-syncedtabs-header =
     .heading = Langetoj el aliaj aparatoj
+sidebar-menu-bookmarks-header =
+    .heading = Legosignoj
 sidebar-panel-header-close-button =
     .tooltiptext = Fermi
 
