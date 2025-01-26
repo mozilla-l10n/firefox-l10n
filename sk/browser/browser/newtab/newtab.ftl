@@ -465,6 +465,9 @@ newtab-section-unfollow-button = Prestať sledovať
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
 ## e.g. Blocked the politics section of stories.
 
+newtab-section-block-button = Zablokovať
+newtab-section-blocked-button = Zablokované
+newtab-section-unblock-button = Odblokovať
 
 ## Confirmation modal for blocking a section
 
@@ -475,3 +478,10 @@ newtab-section-cancel-button = Teraz nie
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+newtab-section-mangage-topics-title = Témy
+newtab-section-mangage-topics-button =
+    .label = Sledované a zablokované témy
+newtab-section-mangage-topics-followed-topics-subtitle = Sledované témy
+newtab-section-mangage-topics-followed-topics-empty-state = Zatiaľ nesledujete žiadne témy.
+newtab-section-mangage-topics-blocked-topics-subtitle = Zablokované témy
+newtab-section-mangage-topics-blocked-topics-empty-state = Zatiaľ ste nezablokovali žiadne témy.
