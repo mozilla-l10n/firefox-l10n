@@ -27,10 +27,14 @@ migration-wizard-selection-option-with-profile = { $sourceBrowser } — { $profi
 migration-wizard-migrator-display-name-brave = ബ്രേവു്
 migration-wizard-migrator-display-name-canary = ക്രോം കാനറി
 migration-wizard-migrator-display-name-chrome = ക്രോം
+migration-wizard-migrator-display-name-chrome-beta = ക്രോം ബീറ്റ
+migration-wizard-migrator-display-name-chrome-dev = ക്രോം ഡെവു്
 migration-wizard-migrator-display-name-chromium = ക്രോമിയം
 migration-wizard-migrator-display-name-chromium-360se = 360 സുരക്ഷിത അന്വേഷിയന്ത്രം
 migration-wizard-migrator-display-name-chromium-edge = മൈക്രോസോഫ്റ്റ്‍ എഡ്ജ്
 migration-wizard-migrator-display-name-firefox = Firefox
+migration-wizard-migrator-display-name-file-password-csv = CSV ഫയലിൽ നിന്നുള്ള രഹസ്യവാക്കുകൾ
+migration-wizard-migrator-display-name-file-bookmarks = HTML ഫയലിൽ നിന്നുള്ള അടയാളക്കുറിപ്പുകൾ
 migration-wizard-migrator-display-name-ie = മൈക്രൊസോഫ്റ്റ്‌ ഇന്റര്‍നെറ്റ്‌ എക്സ്പ്ലോറര്‍
 migration-wizard-migrator-display-name-safari = സഫാരി
 migration-source-name-ie = ഇന്റര്‍നെറ്റ്‌ എക്സ്പ്ലോറര്‍
@@ -43,9 +47,13 @@ migration-imported-edge-reading-list = വായനയ്ക്കുള്ള �
 ## In practice, this tends to only occur on Linux when Firefox
 ## is installed as a Snap.
 
+migration-no-permissions-instructions-step1 = “തുടരുക” എന്നു് തിരഞ്ഞെടുക്കുക
 
 ## These strings will be displayed based on how many resources are selected to import
 
+migration-all-available-data-label = ലഭ്യമായ എല്ലാ ദത്തയും ഇറക്കുമതിക്കുക
+migration-no-selected-data-label = ഇറക്കുമതിപ്പിനു് ഒരു ദത്തയെങ്കിലും തിരഞ്ഞെടുത്തിട്ടില്ല
+migration-selected-data-label = തിരഞ്ഞെടുത്ത ദത്തയെ ഇറക്കുമതി ചെയ്യുക
 
 ##
 
@@ -60,9 +68,48 @@ migration-history-option-label = പരതൽ നാൾവഴി
 migration-extensions-option-label = വിപുലീകരണങ്ങൾ
 migration-payment-methods-option-label = പണമടക്കൽ മുറകൾ
 migration-cookies-option-label = കുക്കികള്‍
+migration-session-option-label = ടാബുകളും ജാലകങ്ങളും
 migration-otherdata-option-label = മറ്റു വിവരങ്ങള്‍
+migration-passwords-from-file-progress-header = രഹസ്യവാക്കുഫയലിനു് ഇറക്കുമതിക്കുക
 migration-passwords-new = പുതിയ രഹസ്യവാക്കുകൾ
 migration-passwords-updated = നിലവിലുള്ള രഹസ്യവാക്കുകൾ
+migration-passwords-from-file-picker-title = രഹസ്യവാക്കുഫയലിനു് ഇറക്കുമതിക്കുക
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+migration-passwords-from-file-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV പ്രമാണം
+       *[other] CSV ഫയൽ
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+migration-passwords-from-file-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV പ്രമാണം
+       *[other] TSV ഫയൽ
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords =
+    { $newEntries ->
+        [one] { $newEntries } ചേൎത്തു
+       *[other] { $newEntries } ചേൎത്തു
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords =
+    { $updatedEntries ->
+        [one] { $updatedEntries } പരിഷ്കരിച്ചു
+       *[other] { $updatedEntries } പരിഷ്കരിച്ചു
+    }
+migration-bookmarks-from-file-picker-title = അടയാളക്കുറിപ്പുകളുടെ ഫയല്‍ ഇറക്കുമതിക്കുക
+migration-bookmarks-from-file-progress-header = അടയാളക്കുറിപ്പുകളെ ഇറക്കുമതിക്കുന്നു
 migration-bookmarks-from-file = അടയാളക്കുറിപ്പുകള്‍
 migration-cancel-button-label = റദ്ദാക്കുക
 migration-done-button-label = കഴിഞ്ഞിരിക്കുന്നു
