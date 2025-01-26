@@ -152,6 +152,7 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Jeśli nie rozpoznajesz naz
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = Witryna „<b>{ $hostname }</b>” określa poprzez HSTS (HTTP Strict Transport Security), że { -brand-short-name } ma się z nią łączyć jedynie w sposób zabezpieczony. Dodanie wyjątku w celu odwiedzenia tej witryny jest niemożliwe.
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = Prawdopodobnie nic, ponieważ problem najpewniej dotyczy samej witryny.
+certerror-blocked-by-corp-headers-description = Czasami witryny stosują zabezpieczenia chroniące siebie i inne osoby przed niepożądanymi interakcjami z innymi witrynami.
 certerror-coop-learn-more = Więcej informacji o COOP (Cross-Origin-Opener-Policy)
 certerror-coep-learn-more = Więcej informacji o COEP (Cross-Origin-Embedder-Policy)
 # Variables:
