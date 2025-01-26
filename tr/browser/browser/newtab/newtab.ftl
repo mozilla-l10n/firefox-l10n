@@ -464,6 +464,9 @@ newtab-section-unfollow-button = Takibi bırak
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
 ## e.g. Blocked the politics section of stories.
 
+newtab-section-block-button = Engelle
+newtab-section-blocked-button = Engellendi
+newtab-section-unblock-button = Engeli kaldırın
 
 ## Confirmation modal for blocking a section
 
@@ -474,3 +477,10 @@ newtab-section-cancel-button = Şimdi değil
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+newtab-section-mangage-topics-title = Konular
+newtab-section-mangage-topics-button =
+    .label = Takip edilen ve engellenen konular
+newtab-section-mangage-topics-followed-topics-subtitle = Takip edilen konular
+newtab-section-mangage-topics-followed-topics-empty-state = Henüz hiçbir konuyu takip etmiyorsunuz.
+newtab-section-mangage-topics-blocked-topics-subtitle = Engellenen konular
+newtab-section-mangage-topics-blocked-topics-empty-state = Henüz hiçbir konuyu engellemediniz.
