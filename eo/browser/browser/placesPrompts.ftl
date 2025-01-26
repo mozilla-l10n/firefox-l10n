@@ -15,3 +15,5 @@ places-bookmarks-restore-format-error = Tipo de dosiero ne subtenata.
 places-bookmarks-restore-parse-error = Ne eblas procezi la sekurkopian dosieron.
 places-bookmarks-import = Importi dosieron de legosignoj
 places-bookmarks-export = Eksporti dosieron de legosignoj
+places-bookmarks-paste-error-title = Nevalida(j) retadreso(j) trovita(j)
+places-bookmarks-paste-error-message-header = Ne eblis aldoni la jena(j)n retadreso(j)n al viaj legosignoj. Kontrolu ilian formon kaj provu aldoni ilin denove.

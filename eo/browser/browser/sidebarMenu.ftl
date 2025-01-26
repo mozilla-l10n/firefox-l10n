@@ -4,6 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = Legosignoj
+sidebar-menu-bookmarks-2 = Legosignoj
 sidebar-menu-history =
     .label = Historio
 sidebar-menu-synced-tabs =

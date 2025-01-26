@@ -37,3 +37,6 @@ webext-perms-description-webNavigation = Aliri la agojn de la retumilo dum retum
 ## The userScripts permission includes an additional explanation that is
 ## displayed prominently near the usual permission description.
 
+webext-perms-extra-warning-userScripts-long = Nekontrolitaj skriptoj povas prezenti sekurecajn kaj privatecajn riskojn, kiel la ruladon de danĝera kodo aŭ la spurado de agado en retejoj. Nur rulu skriptojn de etendaĵoj aŭ fontoj, kiujn vi fidas.
+# A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
+webext-perms-extra-warning-userScripts-short = Nekontrolitaj skriptoj povas prezenti sekurecajn kaj privatecajn riskojn. Nur rulu skriptojn de etendaĵoj aŭ fontoj, kiujn vi fidas.

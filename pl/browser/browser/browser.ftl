@@ -367,6 +367,10 @@ quickactions-cmd-viewsource = pokaż źródło, źródło, wyświetl źródło
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Więcej informacji o szybkich działaniach
+# Will be shown to users the first configurable number of times
+# they experience actions giving them instructions on how to
+# select the action shown by pressing the tab key.
+press-tab-label = Naciśnij klawisz Tab, aby wybrać:
 
 ## Bookmark Panel
 

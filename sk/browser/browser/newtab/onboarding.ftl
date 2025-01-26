@@ -443,7 +443,7 @@ onboarding-checklist-sign-up = Zaregistrujte sa alebo sa prihláste do svojho ú
 
 ## Tab Groups feature onboarding strings
 
-tab-groups-onboarding-feature-callout-title = Vyskúšajte skupiny kariet pre menej neporiadku a viac pozornosti
+tab-groups-onboarding-feature-callout-title = Vyskúšajte skupiny kariet a získate menej neporiadku a viac pozornosti
 tab-groups-onboarding-feature-callout-subtitle = Urobte si poriadok presunutím jednej karty na druhú, čím vytvoríte svoju prvú skupinu.
 
 ## Multi Profiles feature onboarding messages
