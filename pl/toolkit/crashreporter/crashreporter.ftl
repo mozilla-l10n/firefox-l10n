@@ -8,6 +8,7 @@ crashreporter-crashed-and-restore = { -brand-short-name } uległ awarii w wynik
 crashreporter-plea = Aby pomóc nam zdiagnozować i naprawić ten problem, można przesłać zgłoszenie awarii.
 crashreporter-information = To narzędzie jest uruchamiane po wystąpieniu awarii w celu zgłoszenia problemu { -vendor-short-name(case: "dat") }. Nie powinno być uruchamiane bezpośrednio.
 crashreporter-error = { -brand-short-name } uległ awarii w wyniku błędu. Niestety, to narzędzie nie jest w stanie przesłać zgłoszenia awarii.
+crashreporter-error-details-header = Szczegóły:
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Szczegóły: { $details }
 crashreporter-no-run-message = To narzędzie jest uruchamiane po wystąpieniu awarii w celu zgłoszenia problemu twórcom programu. Nie powinno być uruchamiane bezpośrednio.
