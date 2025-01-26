@@ -81,6 +81,13 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = Увімкнути звук вкладки
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = Вимкнути звук вкладки
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = Відтворити вкладку
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -225,6 +232,17 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Скасувати
     .accesskey = С
+tab-group-editor-color-selector =
+    .aria-label = Колір групи вкладок
+tab-group-editor-color-selector-blue = Блакитний
+tab-group-editor-color-selector-purple = Бузковий
+tab-group-editor-color-selector-cyan = Бірюзовий
+tab-group-editor-color-selector-orange = Помаранчевий
+tab-group-editor-color-selector-yellow = Жовтий
+tab-group-editor-color-selector-pink = Рожевий
+tab-group-editor-color-selector-green = Зелений
+tab-group-editor-color-selector-gray = Сірий
+tab-group-editor-color-selector-red = Червоний
 tab-group-menu-header = Групи вкладок
 tab-context-unnamed-group =
     .label = Група без назви

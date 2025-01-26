@@ -8,6 +8,7 @@ crashreporter-crashed-and-restore = У { -brand-short-name } виникла пр
 crashreporter-plea = Щоб допомогти нам розібратись і виправити проблему, ви можете надіслати звіт про цей збій.
 crashreporter-information = Ця програма запускається після збою, щоб повідомити { -vendor-short-name } про проблему. Вона не повинна запускатися безпосередньо.
 crashreporter-error = У { -brand-short-name } виникла проблема, і він аварійно завершив роботу. На жаль, засіб звітування про збої не може надіслати звіт про цей збій.
+crashreporter-error-details-header = Подробиці:
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Подробиці: { $details }
 crashreporter-no-run-message = Ця програма запускається після збою, щоб повідомити розробника програми про проблему.  Її не слід запускати напряму.
