@@ -46,3 +46,37 @@ sync-setup-verify-description = Alia uzanto antaŭe komencis seancon por speguli
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
+# Dialog 1 - different account signing in without option to merge
+sync-profile-different-account-title = Maksimuma nombro de kontoj atingita por tiu ĉi profilo
+sync-profile-different-account-header = Tiu ĉi profilo estis antaŭe spegulita de alia konto
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+sync-profile-different-account-description = Por ke viaj datumoj estu organizitaj kaj sekuraj, ĉiu profilo de { -brand-product-name } povas esti spegulita de unu konto. Por komenci seancon per { $acctEmail }, kreu novan profilon.
+# Dialog 1 - different account signing in with merge option
+sync-profile-different-account-title-merge = Profilo spegulita de malsamaj kontoj
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $profileName (String) - Name of the current profile
+sync-profile-different-account-description-merge = Por ke viaj datumoj estu organizitaj kaj sekuraj, ni rekomendas krei novan profilon por komenci seancon per { $acctEmail }. Se vi decidas plu speguli en tiu ĉi profilo, la datumoj de ambaŭ kontoj estos definitive kunigitaj en { $profileName }”.
+# Dialog 2 - account signed in on another profile without option to merge
+sync-account-in-use-header = Konto jam uzata
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $otherProfile (String) - Name of the other profile that is associated with the account
+sync-account-in-use-header-merge = { $acctEmail } jam komencis seancon en la profilo “{ $otherProfile }”
+sync-account-in-use-description = Vi povas asocii tiun ĉi konton kun nur unu profilo en tiu ĉi komputilo.
+# Dialog 2 - account signed in on another profile with merge option
+sync-account-already-signed-in-header = Tiu ĉi konto komencis seancon en alia profilo. Ĉu speguli ambaŭ profilojn?
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $currentProfile (String): Name of the current profile signing in
+#   $otherProfile (String): Name of the profile that is already signed in
+sync-account-in-use-description-merge = { $acctEmail } komencis seancon en la profilo “{ $otherProfile }” en tiu ĉi komputilo. Spegulado de la profilo “{ $currentProfile }” definitive kombinos datumojn el la du profiloj, ekzemple pasvortojn kaj legosignojn.
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-switch-profile = Iri al “{ $profileName }”
+sync-button-create-profile = Krei novan profilon
+sync-button-sync-and-merge = Speguli kaj kunigi datumojn
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-sync-profile = Speguli “{ $profileName }”
