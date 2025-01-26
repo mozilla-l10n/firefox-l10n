@@ -18,3 +18,6 @@ preonboarding-privacy-notice-header-button-title = Przeczytaj nasze zasady ochro
 preonboarding-manage-data-header-button-title = Zarządzaj danymi diagnostycznymi i o interakcjach
 # New user onboarding checklist
 preonboarding-checklist-interaction-data-label = Wysyłaj dane techniczne i o interakcjach do { -vendor-short-name(case: "gen") }
+preonboarding-checklist-interaction-data-description = Informacje o Twoim urządzeniu, konfiguracji sprzętowej i sposobu korzystania z { -brand-product-name(case: "gen") } pomagają ulepszać jego funkcje oraz zwiększać wydajność i stabilność dla wszystkich użytkowników.
+preonboarding-checklist-crash-reports-label = Automatycznie wysyłaj zgłoszenia awarii
+preonboarding-checklist-crash-reports-description = Zgłoszenia awarii umożliwiają nam diagnozowanie i naprawianie problemów z przeglądarką. Mogą one zawierać dane osobowe lub prywatne informacje.

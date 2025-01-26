@@ -153,7 +153,7 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Jeśli nie rozpoznajesz naz
 certerror-what-should-i-do-bad-sts-cert-explanation = Witryna „<b>{ $hostname }</b>” określa poprzez HSTS (HTTP Strict Transport Security), że { -brand-short-name } ma się z nią łączyć jedynie w sposób zabezpieczony. Dodanie wyjątku w celu odwiedzenia tej witryny jest niemożliwe.
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = Prawdopodobnie nic, ponieważ problem najpewniej dotyczy samej witryny.
 certerror-coop-learn-more = Więcej informacji o COOP (Cross-Origin-Opener-Policy)
-certerror-coep-learn-more = Więcej informacji o Cross-Origin-Embedder-Policy (COEP)
+certerror-coep-learn-more = Więcej informacji o COEP (Cross-Origin-Embedder-Policy)
 # Variables:
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").

@@ -1316,14 +1316,14 @@ collection-privacy-notice = Prywatność
 collection-health-report-telemetry-disabled = { -vendor-short-name } nie ma już zezwolenia na zbieranie danych technicznych i o interakcjach z przeglądarką. Wszystkie wcześniej zebrane dane zostaną usunięte w ciągu 30 dni.
 collection-health-report-telemetry-disabled-link = Więcej informacji
 collection-usage-ping =
-    .label = Przesyłanie dziennego sygnału o użyciu do { -vendor-short-name(case: "gen") }
+    .label = Wysyłanie dziennego sygnału o użyciu do { -vendor-short-name(case: "gen") }
     .accesskey = d
 collection-usage-ping-description = To pomaga { -vendor-short-name(case: "dat") } oszacować liczbę aktywnych użytkowników.
 collection-health-report2 =
-    .label = Przesyłanie danych technicznych i o interakcjach do { -vendor-short-name(case: "gen") }
+    .label = Wysyłanie danych technicznych i o interakcjach do { -vendor-short-name(case: "gen") }
     .accesskey = z
 collection-health-report =
-    .label = Przesyłanie do { -vendor-short-name(case: "gen") } danych technicznych i o interakcjach z przeglądarką { -brand-short-name }.
+    .label = Wysyłanie do { -vendor-short-name(case: "gen") } danych technicznych i o interakcjach z przeglądarką { -brand-short-name }.
     .accesskey = z
 collection-health-report-link = Więcej informacji
 collection-health-report-description = To pomaga nam ulepszać funkcje, wydajność i stabilność { -brand-product-name(case: "gen") }.
@@ -1340,7 +1340,7 @@ addon-recommendations-description = Polecenia rozszerzeń, które usprawnią prz
 # or builds with no Telemetry support available.
 collection-health-report-disabled2 = Przesyłanie danych jest wyłączone przy tej konfiguracji programu.
 collection-backlogged-crash-reports2 =
-    .label = Automatyczne przesyłanie zgłoszeń awarii
+    .label = Automatyczne wysyłanie zgłoszeń awarii
     .accesskey = o
 collection-backlogged-crash-reports-description = Umożliwia to { -vendor-short-name(case: "dat") } diagnozowanie i naprawianie problemów z przeglądarką. Zgłoszenia mogą zawierać dane osobowe lub prywatne informacje.
 addon-recommendations =
@@ -1349,9 +1349,9 @@ addon-recommendations-link = Więcej informacji
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Przesyłanie danych jest wyłączone przy tej konfiguracji programu
-collection-backlogged-crash-reports-with-link = Przesyłanie zgromadzonych zgłoszeń awarii przeglądarki { -brand-short-name }. <a data-l10n-name="crash-reports-link">Więcej informacji</a>
+collection-backlogged-crash-reports-with-link = Wysyłanie zgromadzonych zgłoszeń awarii przeglądarki { -brand-short-name }. <a data-l10n-name="crash-reports-link">Więcej informacji</a>
     .accesskey = o
-collection-backlogged-crash-reports = Przesyłanie zgromadzonych zgłoszeń awarii przeglądarki { -brand-short-name }.
+collection-backlogged-crash-reports = Wysyłanie zgromadzonych zgłoszeń awarii przeglądarki { -brand-short-name }.
     .accesskey = o
 privacy-segmentation-section-header = Nowe funkcje usprawniające przeglądanie
 privacy-segmentation-section-description = Kiedy oferujemy funkcje wykorzystujące Twoje dane do zapewniania bardziej spersonalizowanej przeglądarki:
