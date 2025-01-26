@@ -389,6 +389,14 @@ onboarding-new-user-survey-familiarity-based-option-4 = Mi antaŭe uzis ĝin, se
 onboarding-new-tabs-title = Bonvolu diri al ni kie vi ŝatus havi viajn langetojn
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = En la agordoj de la flanka strio vi povas ŝanĝi tion iam ajn.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Viaj langetoj, laŭ via maniero
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Ĉu vi havas multajn malfermitajn langetojn? Provu meti ilin flanken por pli simpla vido. Aŭ lasu ilin supre, laŭ la klasika maniero. Ŝanĝu tion kiam ajn vi volas.
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Elektu la aranĝon de viaj langetoj
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Por pli simpla vido, kiu povas vin resti fokusigita, provi meti viajn langetojn flanken. Aŭ lasu ilin supre, laŭ la klasika maniero. Ŝanĝu tion kiam ajn vi volas.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Langetoj flanke
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -435,6 +443,7 @@ onboarding-checklist-sign-up = Registriĝu aŭ komencu seancon per via konto
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-feature-callout-title = Provu la grupojn de langetoj, por pli da ordo kaj fokuso.
 
 ## Multi Profiles feature onboarding messages
 

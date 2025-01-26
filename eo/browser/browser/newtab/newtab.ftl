@@ -483,3 +483,4 @@ newtab-section-mangage-topics-button =
 newtab-section-mangage-topics-followed-topics-subtitle = Sekvataj temoj
 newtab-section-mangage-topics-followed-topics-empty-state = Vi ankoraŭ sekvas neniun temon.
 newtab-section-mangage-topics-blocked-topics-subtitle = Blokitaj temoj
+newtab-section-mangage-topics-blocked-topics-empty-state = Vi ankoraŭ blokas neniun temon.
