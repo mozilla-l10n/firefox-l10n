@@ -120,6 +120,9 @@ newtab-menu-about-fakespot = Pri { -fakespot-brand-name }
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Bloki
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
+newtab-menu-section-unfollow = Ne plu sekvi temon
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -461,9 +464,22 @@ newtab-section-unfollow-button = Ne plu sekvi
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
 ## e.g. Blocked the politics section of stories.
 
+newtab-section-block-button = Bloki
+newtab-section-blocked-button = Blokita
+newtab-section-unblock-button = Malbloki
 
 ## Confirmation modal for blocking a section
 
+newtab-section-confirm-block-section-p1 = Ĉu vi certe volas bloki tiun ĉi sekcion?
+newtab-section-confirm-block-section-p2 = Blokitaj sekcioj ne plu aperos en via informa fonto
+newtab-section-block-section-button = Bloki tiun ĉi sekcion
+newtab-section-cancel-button = Ne nun
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+newtab-section-mangage-topics-title = Temoj
+newtab-section-mangage-topics-button =
+    .label = Sekvataj kaj blokitaj temoj
+newtab-section-mangage-topics-followed-topics-subtitle = Sekvataj temoj
+newtab-section-mangage-topics-followed-topics-empty-state = Vi ankoraŭ sekvas neniun temon.
+newtab-section-mangage-topics-blocked-topics-subtitle = Blokitaj temoj
