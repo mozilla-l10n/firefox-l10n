@@ -7,9 +7,14 @@
 
 preonboarding-title = Víta vás { -brand-product-name }
 preonboarding-primary-cta = Súhlasím a pokračovať
+# Label for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
+preonboarding-manage-and-read-header = Spravujte nastavenia zhromažďovania údajov a prečítajte si naše Podmienky používania a Vyhlásenie o ochrane osobných údajov
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Prečítajte si naše Podmienky používania
 # Label for header style button that toggles showing the Privacy Notice
 preonboarding-privacy-notice-header-button-title = Prečítajte si naše Vyhlásenie o ochrane osobných údajov
+# New user onboarding checklist
+preonboarding-checklist-interaction-data-label = Odosielať { -vendor-short-name(case: "dat") } technické údaje a údaje o interakciách
+preonboarding-checklist-interaction-data-description = Údaje o vašom zariadení, konfigurácii hardvéru a spôsobe používania { -brand-product-name(case: "gen") } pomáhajú zlepšovať funkcie, výkon a stabilitu pre ostatných používateľov.
 preonboarding-checklist-crash-reports-label = Automaticky odosielať správy o zlyhaní
 preonboarding-checklist-crash-reports-description = Správy o zlyhaní nám umožňujú diagnostikovať a opraviť problémy s prehliadačom. Hlásenia môžu obsahovať osobné alebo citlivé údaje.

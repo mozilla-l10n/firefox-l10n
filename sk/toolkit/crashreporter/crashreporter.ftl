@@ -8,6 +8,7 @@ crashreporter-crashed-and-restore = { -brand-short-name } sa stretol s neočaká
 crashreporter-plea = Ak nám chcete pomôcť diagnostikovať a vyriešiť problém, môžete nám odoslať správu o zlyhaní.
 crashreporter-information = Táto aplikácia sa spúšťa po zlyhaní za účelom nahlásenia problému { -vendor-short-name(case: "dat") }. Nemala by sa spúšťať priamo.
 crashreporter-error = { -brand-short-name } sa stretol s neočakávaným problémom a zlyhal. Funkcia Oznamovateľ zlyhania bohužiaľ nemohla odoslať správu o tejto chybe.
+crashreporter-error-details-header = Podrobnosti:
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Podrobnosti: { $details }
 crashreporter-no-run-message = Táto aplikácia sa spúšťa po zlyhaní za účelom hlásenia problému vydavateľovi aplikácie. Nemala by sa spúšťať priamo.
