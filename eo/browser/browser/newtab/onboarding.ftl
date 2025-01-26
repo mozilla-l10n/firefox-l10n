@@ -444,6 +444,13 @@ onboarding-checklist-sign-up = Registriĝu aŭ komencu seancon per via konto
 ## Tab Groups feature onboarding strings
 
 tab-groups-onboarding-feature-callout-title = Provu la grupojn de langetoj, por pli da ordo kaj fokuso.
+tab-groups-onboarding-feature-callout-subtitle = Ordigu viajn langetojn per treno de unu sur alia, por krei vian unuan grupon.
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-title = Bonvenon al la profiloj de { -brand-product-name }
+multi-profile-spotlight-body = Facile ŝanĝi inter laboreja kaj libertempa retumo. Profiloj plene izolas viajn retumajn datumojn, kiuj inkluzivas la serĉan historion kaj pasvortojn, tiel ke vi povas resti bone organizita.
+multi-profile-spotlight-cta = Krei profilon
+multi-profile-callout-title = Krei malsamajn profilojn por laboro kaj libertempo
+multi-profile-callout-subtitle = Profiloj permesas al vi plene izolas viajn retumajn datumojn, kiel serĉan historion kaj pasvortojn.
+multi-profile-callout-cta = Krei profilon
