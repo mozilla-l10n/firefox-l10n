@@ -8,6 +8,7 @@ crashreporter-crashed-and-restore = { -brand-short-name } bir sorunla karşıla�
 crashreporter-plea = Sorunu tanılayıp çözmemize yardımcı olmak için bize bir çökme raporu gönderebilirsiniz.
 crashreporter-information = Bu uygulama, çökmeden sonra sorunu { -vendor-short-name }’ya bildirmek için çalışır. Doğrudan çalıştırılmamalıdır.
 crashreporter-error = { -brand-short-name } bir sorun yaşadı ve çöktü. Ne yazık ki çökme raporcusu bu çöküşle ilgili rapor gönderemiyor.
+crashreporter-error-details-header = Ayrıntılar:
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Ayrıntılar: { $details }
 crashreporter-no-run-message = Bu uygulama, çökmeden sonra sorunu uygulamanın üreticisine bildirmek için çalışır. Doğrudan çalıştırılmamalıdır.

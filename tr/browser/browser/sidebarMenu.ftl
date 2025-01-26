@@ -4,6 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = Yer imleri
+sidebar-menu-bookmarks-2 = Yer imleri
 sidebar-menu-history =
     .label = Geçmiş
 sidebar-menu-synced-tabs =

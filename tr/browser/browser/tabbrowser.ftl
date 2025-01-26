@@ -74,6 +74,13 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = Sekmenin sesini aç
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = Sekmenin sesini kapat
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = Sekmeyi oynat
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -211,6 +218,17 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Vazgeç
     .accesskey = V
+tab-group-editor-color-selector =
+    .aria-label = Sekme grubu rengi
+tab-group-editor-color-selector-blue = Mavi
+tab-group-editor-color-selector-purple = Mor
+tab-group-editor-color-selector-cyan = Açık mavi
+tab-group-editor-color-selector-orange = Turuncu
+tab-group-editor-color-selector-yellow = Sarı
+tab-group-editor-color-selector-pink = Pembe
+tab-group-editor-color-selector-green = Yeşil
+tab-group-editor-color-selector-gray = Gri
+tab-group-editor-color-selector-red = Kırmızı
 tab-group-menu-header = Sekme grupları
 tab-context-unnamed-group =
     .label = Adsız grup

@@ -12,6 +12,7 @@ neterror-blocked-by-policy-page-title = Engellenmiş sayfa
 neterror-captive-portal-page-title = Ağa giriş yap
 neterror-dns-not-found-title = Sunucu bulunamadı
 neterror-malformed-uri-page-title = Geçersiz URL
+general-body-title = Dikkatli olun. Doğru görünmeyen bir şeyler var.
 
 ## Error page actions
 

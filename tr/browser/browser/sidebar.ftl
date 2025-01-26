@@ -133,6 +133,8 @@ sidebar-menu-history-header =
     .heading = Geçmiş
 sidebar-menu-syncedtabs-header =
     .heading = Diğer cihazlardaki sekmeler
+sidebar-menu-bookmarks-header =
+    .heading = Yer imleri
 sidebar-panel-header-close-button =
     .tooltiptext = Kapat
 
