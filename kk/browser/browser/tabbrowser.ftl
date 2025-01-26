@@ -74,6 +74,13 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = Бет дыбысын іске қосу
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = Бет дыбысын басу
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = Бетті ойнату
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -203,6 +210,17 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Бас тарту
     .accesskey = с
+tab-group-editor-color-selector =
+    .aria-label = Беттер тобының түсі
+tab-group-editor-color-selector-blue = Көк
+tab-group-editor-color-selector-purple = Күлгін
+tab-group-editor-color-selector-cyan = Көгілдір
+tab-group-editor-color-selector-orange = Қызғылт сары
+tab-group-editor-color-selector-yellow = Сары
+tab-group-editor-color-selector-pink = Қызғылт
+tab-group-editor-color-selector-green = Жасыл
+tab-group-editor-color-selector-gray = Сұр
+tab-group-editor-color-selector-red = Қызыл
 tab-group-menu-header = Беттер топтары
 tab-context-unnamed-group =
     .label = Атаусыз топ
@@ -255,3 +273,25 @@ tab-context-ungroup-tab =
 
 ## Open/saved tab group context menu
 
+# For a tab group open in any window, clicking this will create a new
+# window and move this tab group to that new window.
+tab-group-context-move-to-new-window =
+    .label = Топты жаңа терезеге жылжыту
+# For a tab group open in a different window from the one that the
+# user is using to access the tab group menu, move that tab group into the
+# user's current window.
+tab-group-context-move-to-this-window =
+    .label = Топты осы терезеге жылжыту
+# For a tab group that is open in any window, close the tab group and
+# do not save it. For a tab group that is closed but saved by the user, clicking
+# this will forget the saved tab group.
+tab-group-context-delete =
+    .label = Топты өшіру
+# For a saved tab group that is not open in any window, open the tab group
+# in the user's current window.
+tab-group-context-open-saved-group-in-this-window =
+    .label = Топты осы терезеде ашу
+# For a saved tab group that is not open in any window, create a new window and
+# open the tab group in that window.
+tab-group-context-open-saved-group-in-new-window =
+    .label = Топты жаңа терезеде ашу
