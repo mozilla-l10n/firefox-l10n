@@ -127,7 +127,7 @@ firefoxview-history-context-delete = Usuń z historii
 
 firefoxview-opentabs-nav = Otwarte karty
     .title = Otwarte karty
-firefoxview-opentabs-header = Otwórz karty
+firefoxview-opentabs-header = Otwarte karty
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
