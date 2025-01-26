@@ -1,0 +1,20 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+## Preonboarding modal screen strings
+
+preonboarding-title = Witamy w przeglądarce { -brand-product-name }
+preonboarding-subtitle = Kontynuując, zgadzasz się na warunki korzystania z { -brand-product-name(case: "gen") } i nasze zasady ochrony prywatności. Aby pomóc w ulepszaniu przeglądarki, { -brand-product-name } wysyła dane diagnostyczne i o interakcjach do { -vendor-short-name(case: "gen") }.
+preonboarding-primary-cta = Potwierdź i kontynuuj
+# Label for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
+preonboarding-manage-and-read-header = Zarządzaj ustawieniami zbierania danych i przeczytaj nasze warunki korzystania i zasady ochrony prywatności
+# Label for header style button that toggles showing the Terms of Use
+preonboarding-terms-of-use-header-button-title = Przeczytaj nasze warunki korzystania
+# Label for header style button that toggles showing the Privacy Notice
+preonboarding-privacy-notice-header-button-title = Przeczytaj nasze zasady ochrony prywatności
+# Label for header style button that toggles showing the data preference checklist
+preonboarding-manage-data-header-button-title = Zarządzaj danymi diagnostycznymi i o interakcjach
+# New user onboarding checklist
+preonboarding-checklist-interaction-data-label = Wysyłaj dane techniczne i o interakcjach do { -vendor-short-name(case: "gen") }
