@@ -1,0 +1,20 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+## Preonboarding modal screen strings
+
+preonboarding-title = Te damos la bienvenida a { -brand-product-name }
+preonboarding-primary-cta = Confirmar y continuar
+# Label for header style button that toggles showing the Terms of Use
+preonboarding-terms-of-use-header-button-title = Lee nuestros Términos de uso
+# Label for header style button that toggles showing the Privacy Notice
+preonboarding-privacy-notice-header-button-title = Lee nuestra política de privacidad
+# Label for header style button that toggles showing the data preference checklist
+preonboarding-manage-data-header-button-title = Gestionar datos de diagnóstico e interacción
+# New user onboarding checklist
+preonboarding-checklist-interaction-data-label = Enviar datos técnicos y de interacción a { -vendor-short-name }
+preonboarding-checklist-interaction-data-description = Los datos acerca de tu dispositivo, la configuración del hardware y cómo utilizas { -brand-product-name } ayudan a mejorar las funcionalidades, el rendimiento y la estabilidad para los usuarios en todo el mundo.
+preonboarding-checklist-crash-reports-label = Enviar automáticamente reportes de fallos
+preonboarding-checklist-crash-reports-description = Los informes de fallos nos permiten diagnosticar y solucionar problemas con el navegador. Los informes pueden incluir datos personales o confidenciales.

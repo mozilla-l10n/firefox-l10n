@@ -74,6 +74,13 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = Desilenciar pestaña
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = Silenciar pestaña
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = Reproducir pestaña
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -201,6 +208,17 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Cancelar
     .accesskey = C
+tab-group-editor-color-selector =
+    .aria-label = Color del grupo de pestañas
+tab-group-editor-color-selector-blue = Azul
+tab-group-editor-color-selector-purple = Morado
+tab-group-editor-color-selector-cyan = Celeste
+tab-group-editor-color-selector-orange = Naranjo
+tab-group-editor-color-selector-yellow = Amarillo
+tab-group-editor-color-selector-pink = Rosado
+tab-group-editor-color-selector-green = Verde
+tab-group-editor-color-selector-gray = Gris
+tab-group-editor-color-selector-red = Rojo
 tab-group-menu-header = Grupos de pestañas
 tab-context-unnamed-group =
     .label = Grupo sin nombre
