@@ -8,6 +8,7 @@ crashreporter-crashed-and-restore = O { -brand-short-name } teve um problema e t
 crashreporter-plea = Para ajudar a diagnosticar e reparar o problema, você pode enviar um relatório do travamento.
 crashreporter-information = Este aplicativo é executado depois de um travamento para informar o problema para a { -vendor-short-name }. Não deve ser executado diretamente.
 crashreporter-error = O { -brand-short-name } teve um problema e travou. Infelizmente o relator de travamentos não conseguiu enviar um relatório deste travamento.
+crashreporter-error-details-header = Detalhes:
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Detalhes: { $details }
 crashreporter-no-run-message = Este aplicativo é executado depois de um travamento para informar o problema para o fornecedor do aplicativo. Não deve ser executado diretamente.
