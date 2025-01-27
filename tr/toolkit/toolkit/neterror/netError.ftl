@@ -152,6 +152,8 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = <b>{ $mitm }</b> size tanı
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b>, HTTP Sıkı Aktarım Güvenliği (HSTS) denilen bir güvenlik ilkesi uyguluyor. Bu nedenle { -brand-short-name } bu siteye yalnızca güvenli bir şekilde bağlanabilir. Bu siteye ayrıcalık tanıyarak siteyi ziyaret edemezsiniz.
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = Sorun büyük ihtimalle sitenin kendisinden kaynaklandığı için sizin yapabileceğiniz bir şey yok.
+certerror-coop-learn-more = Cross Origin Opener İlkeleri (COOP) hakkında daha fazla bilgi alın
+certerror-coep-learn-more = Cross Origin Embedder İlkeleri (COEP) hakkında daha fazla bilgi alın
 # Variables:
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").

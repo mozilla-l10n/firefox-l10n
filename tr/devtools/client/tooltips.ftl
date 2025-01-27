@@ -103,6 +103,7 @@ inactive-css-not-floated-fix = <strong>float</strong> özelliğini <strong>none<
 inactive-css-position-property-on-unpositioned-box-fix = <strong>position</strong> özelliğini <strong>static</strong> dışında bir şey yapmayı deneyin. { learn-more }
 inactive-css-only-replaced-elements-fix = Bu özelliği, değiştirilen bir elemana eklediğinizden emin olun. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = <strong>overflow:hidden</strong> eklemeyi deneyin. { learn-more }
+inactive-css-no-size-containment-fix = <strong>display</strong> özelliğini <strong>none</strong>, <strong>contents</strong>, <strong>table</strong> ya da <strong>inline-table</strong> dışında bir değer yapmayı deneyin ve bir tablo veya ruby segmenti içinde olmadığından emin olun. { learn-more }
 inactive-css-not-for-internal-table-elements-fix = <strong>display</strong> özelliğini <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ve <strong>table-footer-group</strong> dışında bir şey yapmayı deneyin. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = <strong>display</strong> özelliğini <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ve <strong>table-footer-group</strong> dışında bir şey yapmayı deneyin. { learn-more }
 inactive-css-not-table-fix = <strong>display:table</strong> veya <strong>display:inline-table</strong> eklemeyi deneyin. { learn-more }
