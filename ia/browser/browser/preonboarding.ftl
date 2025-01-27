@@ -6,6 +6,8 @@
 ## Preonboarding modal screen strings
 
 preonboarding-title = Benvenite a { -brand-product-name }
+# Label for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
+preonboarding-manage-and-read-header = Gere le parametros de collecta de datos e lege nostre Conditiones de uso e Aviso de confidentialitate
 # Label for header style button that toggles showing the Privacy Notice
 preonboarding-privacy-notice-header-button-title = Lege nostre aviso de confidentialitate
 preonboarding-checklist-crash-reports-label = Automaticamente inviar reportos de crash
