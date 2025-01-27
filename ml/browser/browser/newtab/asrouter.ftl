@@ -89,9 +89,17 @@ cfr-doorhanger-doh-primary-button-2 = ശരി
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+spotlight-public-wifi-vpn-link = ഇപ്പോഴല്ല
+    .accesskey = ഇ
 
 ## Emotive Continuous Onboarding
 
+spotlight-better-internet-header = താങ്ങളോടൊപ്പമാണു് ഒരു മികച്ച ഗോളാന്തരവല ആരംഭിക്കുന്നതു്
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] കാര്യപ്പട്ടയിൽ കുത്തിവയ്ക്കുക
+       *[other] കാര്യപ്പട്ടയിൽ കുത്തിവയ്ക്കുക
+    }
 spotlight-pin-secondary-button = ഇപ്പോഴല്ല
 
 ## MR2022 Background Update Windows native toast notification strings.
@@ -110,9 +118,14 @@ spotlight-pin-secondary-button = ഇപ്പോഴല്ല
 
 ## Firefox View CFR
 
+firefoxview-cfr-primarybutton = ഉപയോഗിച്ചു് നോക്കൂ
+    .accesskey = ഉ
+firefoxview-cfr-secondarybutton = ഇപ്പോഴല്ല
+    .accesskey = ഇ
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-secondarybutton = ഒഴിവാക്കുക
 
 ## Colorways expiry reminder CFR
 
@@ -125,6 +138,7 @@ cookie-banner-blocker-onboarding-learn-more = കൂടുതല്‍ അറി
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+fox-doodle-pin-secondary = ഇപ്പോഴല്ല
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
@@ -148,6 +162,8 @@ pdf-default-notification-decline-button =
 ## Launch on login infobar notification
 
 launch-on-login-learnmore = കൂടുതലറിയുക
+launch-on-login-infobar-confirm-button = അതെ, { -brand-short-name }-നെ തുറക്കുക
+    .accesskey = അ
 launch-on-login-infobar-reject-button = ഇപ്പോഴല്ല
     .accesskey = ഇ
 

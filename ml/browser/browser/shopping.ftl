@@ -60,6 +60,7 @@ shopping-close-button =
 
 ## Onboarding message strings.
 
+shopping-onboarding-not-now-button = ഇപ്പോഴല്ല
 shopping-onboarding-dialog-close-button =
     .title = അടയ്ക്കുക
     .aria-label = അടയ്ക്കുക

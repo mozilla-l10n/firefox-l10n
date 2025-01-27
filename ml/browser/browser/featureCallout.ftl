@@ -18,6 +18,7 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = ഉപയ�
 
 ## PDF.js Feature Tour Strings
 
+callout-pdfjs-edit-title = ഞങ്ങളുടെ പുതിയ പാഠക്കരുയുടെയൊപ്പം പി.ഡി.എഫുകളെ തിരുത്തുക
 callout-pdfjs-edit-button = അടുത്തതു്
 callout-pdfjs-draw-button = പിടി കിട്ടി!
 

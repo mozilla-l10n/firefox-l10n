@@ -28,12 +28,27 @@ import-from-nothing =
 import-from-safari =
     .label = സഫാരി
     .accesskey = S
+import-from-opera =
+    .label = ഓപ്പറ
+    .accesskey = O
+import-from-vivaldi =
+    .label = വിവാൾടി
+    .accesskey = വ
+import-from-brave =
+    .label = ബ്രേവു്
+    .accesskey = ബ
 import-from-canary =
     .label = ക്രോം കാനറി
     .accesskey = n
 import-from-chrome =
     .label = ക്രോം
     .accesskey = C
+import-from-chrome-beta =
+    .label = ക്രോം ബീറ്റ
+    .accesskey = ബ
+import-from-chrome-dev =
+    .label = ക്രോം ഡെവു്
+    .accesskey = ഡ
 import-from-chromium =
     .label = ക്രോമിയം
     .accesskey = u
@@ -43,6 +58,9 @@ import-from-firefox =
 import-from-360se =
     .label = 360 സുരക്ഷിത അന്വേഷിയന്ത്രം
     .accesskey = 3
+import-from-opera-gx =
+    .label = ഓപ്പറ GX
+    .accesskey = ഓ
 no-migration-sources = അടയാളങ്ങളോ, ചരിത്രമോ പാസ്‌വേഡുകളോ അടങ്ങിയ ഒരു program പോലും കണ്ടെത്താനായില്ല
 import-source-page-title = സെറ്റിങ്ങുകളും വിവരങ്ങളും ഇറക്കുമതി ചെയ്യുക
 import-items-page-title = Import ചെയ്യേണ്ട വസ്തുക്കള്‍
@@ -90,9 +108,37 @@ browser-data-history-label =
             [firefox] തിരച്ചിൽ നാൾവഴിയും അടയാളക്കുറിപ്പുകളും
            *[other] തിരച്ചിൽ നാൾവഴി
         }
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = കരുതിവച്ച ഉപയോക്തൃനാമങ്ങളും രഹസ്യവാക്കുകളും
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = കരുതിവച്ച ഉപയോക്തൃനാമങ്ങളും രഹസ്യവാക്കുകളും
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] പ്രിയപ്പെട്ടവ
+            [edge] പ്രിയപ്പെട്ടവ
+           *[other] അടയാളക്കുറിപ്പുകൾ
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] പ്രിയപ്പെട്ടവ
+            [edge] പ്രിയപ്പെട്ടവ
+           *[other] അടയാളക്കുറിപ്പുകൾ
+        }
+browser-data-otherdata-checkbox =
+    .label = മറ്റു് വിവരങ്ങൾ
+browser-data-otherdata-label =
+    .label = മറ്റു് വിവരങ്ങള്‍
 browser-data-session-checkbox =
     .label = ടാബുകളും ജാലകങ്ങളും
 browser-data-session-label =
     .value = ടാബുകളും ജാലകങ്ങളും
+browser-data-payment-methods-checkbox =
+    .label = പണമടക്കൽമുറകൾ
 browser-data-payment-methods-label =
     .value = പണമടക്കൽ മുറകൾ

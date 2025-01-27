@@ -310,8 +310,14 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = സഹായം
     .accesskey = H
+menu-get-help =
+    .label = സഹായം നേടുക
+    .accesskey = സ
 menu-help-report-site-issue =
     .label = സൈറ്റ് ഇഷ്യു റിപ്പോർട്ട് ചെയ്യുക…
+menu-help-switch-device =
+    .label = പുതിയ ഉപകരണത്തിലേക്കു് മാറുന്നു
+    .accesskey = പ
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
@@ -320,3 +326,5 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = ഇത് വഞ്ചനാപരമായ സൈറ്റല്ല…
     .accesskey = d
+menu-report-broken-site =
+    .label = പൊട്ടിയയൊരു വെബ്സ്ഥാനത്തിന്റെ വിവരം അറിയിക്കുക

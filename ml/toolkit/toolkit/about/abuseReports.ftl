@@ -32,6 +32,7 @@ abuse-report-submit-button = സമര്‍പ്പിയ്ക്കുക
 
 abuse-report-messagebar-action-remove-extension = അതെ, ഇത് നീക്കംചെയ്യുക
 abuse-report-messagebar-action-keep-extension = അല്ല, ഞാൻ ഇത് സൂക്ഷിക്കും
+abuse-report-messagebar-action-remove-sitepermission = അതെ, ഇതിനെ മായ്ക്കുക
 abuse-report-messagebar-action-remove-theme = അതെ, ഇത് നീക്കംചെയ്യുക
 abuse-report-messagebar-action-keep-theme = അല്ല, ഞാൻ ഇത് സൂക്ഷിക്കും
 abuse-report-messagebar-action-retry = വീണ്ടും ശ്രമിയ്ക്കുക

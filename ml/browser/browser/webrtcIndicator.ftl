@@ -146,6 +146,9 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = അനുവദിക്കുക
     .accesskey = A
+webrtc-action-not-now =
+    .label = ഇപ്പോഴല്ല
+    .accesskey = ഇ
 
 ##
 

@@ -15,6 +15,9 @@ autofill-manage-edit-button = തിരുത്തുക…
 
 ## The address capture doorhanger
 
+address-capture-not-now-button =
+    .label = ഇപ്പോഴല്ല
+    .accessKey = ഇ
 address-capture-cancel-button =
     .label = റദ്ദാക്കുക
     .accessKey = റ

@@ -12,6 +12,7 @@
 
 onboarding-welcome-header = { -brand-short-name } ലേക്ക് സ്വാഗതം
 onboarding-start-browsing-button-label = തിരയാൻ ആരംഭിക്കുക
+onboarding-not-now-button-label = ഇപ്പോഴല്ല
 
 ## Custom Return To AMO onboarding strings
 
@@ -27,6 +28,7 @@ onboarding-start-browsing-button-label = തിരയാൻ ആരംഭിക�
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 
+mr1-onboarding-theme-secondary-button-label = ഇപ്പോഴല്ല
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip

@@ -43,6 +43,7 @@ firefoxview-syncedtabs-synctabs-checkbox = തുറന്ന ടാബുകള
 firefoxview-syncedtabs-loading-header = സമന്വയം നടപ്പിലാണു്
 firefoxview-tabpickup-fxa-admin-disabled-header = താങ്ങളുടെ സ്ഥാപനം സമന്വയത്തിനെ പ്രവൎത്തനരഹിതമാക്കി വച്ചിരിക്കുന്നു
 firefoxview-tabpickup-network-offline-primarybutton = വീണ്ടും ശ്രമിയ്ക്കുക
+firefoxview-tabpickup-sync-error-header = സമന്വയിപ്പിക്കുന്നതിൽ ഞങ്ങൾക്കു് പ്രശ്നമുണ്ടാവുന്നു.
 firefoxview-tabpickup-sync-error-primarybutton = വീണ്ടും ശ്രമിയ്ക്കുക
 firefoxview-tabpickup-sync-disconnected-header = തുടരാൻ വേണ്ടി സമന്വയം തുടങ്ങിവയ്ക്കുക
 firefoxview-tabpickup-sync-disconnected-primarybutton = ക്രമീകരണങ്ങളിൽ സമന്വയത്തിനെ തുടങ്ങിവയ്ക്കുക
