@@ -79,6 +79,8 @@ cfr-doorhanger-milestone-close-button = അടയ്ക്കുക
 
 cfr-doorhanger-doh-primary-button-2 = ശരി
     .accesskey = ശ
+cfr-doorhanger-doh-secondary-button = പ്രവര്‍ത്തനരഹിതമാക്കുക
+    .accesskey = പ
 
 ## Full Video Support CFR message
 
@@ -153,9 +155,13 @@ fxa-sync-cfr-secondary = എന്നെ പിന്നീടു് ഓർമ�
 
 ## Device Migration FxA Spotlight
 
+device-migration-fxa-spotlight-older-device-primary-button = അക്കൗണ്ടുണ്ടാക്കുക
+device-migration-fxa-spotlight-sync-primary-button = തുടങ്ങാം
 
 ## Set as Default PDF Reader Infobar
 
+pdf-default-notification-set-default-button =
+    .label = തനതായി വയ്ക്കുക
 pdf-default-notification-decline-button =
     .label = ഇപ്പോഴല്ല
 
@@ -179,18 +185,25 @@ tail-fox-spotlight-secondary-button = ഇപ്പോഴല്ല
 
 ## Root Certificate Succession Infobar
 
+root-certificate-succession-infobar-primary-button =
+    .label = ഉടന്‍ പുതുക്കുക
+    .accesskey = പ
 root-certificate-succession-infobar-secondary-button =
     .label = പിന്നീടു്
     .accesskey = പ
 
 ## Root Certificate Succession Windows Background Notification
 
+root-certificate-windows-background-notification-learn-more-button = കൂടുതല്‍ അറിയുക
+root-certificate-windows-background-notification-update-button = { -brand-short-name } പുതുക്കുക
 
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
     .title = അടയ്ക്കുക
     .aria-label = അടയ്ക്കുക
+fxa-menu-message-sign-up-button = അംഗത്വമെടുക്കുക
 
 ## Multi-CTA Fox Doodle Spotlight
 
+multi-cta-fox-doodle-title = തിരികെ സ്വാഗതം
