@@ -153,6 +153,8 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Se você não está familia
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> tem uma diretiva de segurança chamada HTTP Strict Transport Security (HSTS), que significa que o { -brand-short-name } só pode se conectar a ele com segurança. Você não pode adicionar uma exceção para acessar este site.
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = Provavelmente nada, pois parece ser um problema no próprio site.
 certerror-blocked-by-corp-headers-description = Às vezes, sites configuram proteções para si mesmos e para pessoas como você contra interações indesejadas com outros sites.
+certerror-coop-learn-more = Saiba mais sobre Cross Origin Opener Policies (COOP)
+certerror-coep-learn-more = Saiba mais sobre Cross Origin Embedder Policies (COEP)
 # Variables:
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
