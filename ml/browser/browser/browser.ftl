@@ -196,6 +196,8 @@ urlbar-search-mode-actions = പ്രവര്‍ത്തികൾ
 
 urlbar-geolocation-blocked =
     .tooltiptext = ഈ വെബ് സൈറ്റിന് നിങ്ങൾ എവിടെയെന്നുള്ള വിവരം ലഭ്യമല്ല.
+urlbar-xr-blocked =
+    .tooltiptext = ഈ വെബ് സൈറ്റിന് മിഥ്യുണ്മ ഉപയോഗിയ്ക്കുവാൻ സാധ്യമല്ല.
 urlbar-web-notifications-blocked =
     .tooltiptext = ഈ വെബ് സൈറ്റിന് അറിയിപ്പുകൾ ലഭ്യമല്ല.
 urlbar-camera-blocked =
