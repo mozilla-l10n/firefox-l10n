@@ -248,6 +248,12 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = സ്വതവേയുള്ള തിരച്ചില്‍ യന്ത്രമാക്കി മാറ്റുക
     .accesskey = D
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -281,6 +287,8 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+# Opens the about:addons page in the home / recommendations section
+quickactions-addons = ആഡ്-ഓണുകള്‍ കാണാം
 quickactions-cmd-addons2 = ആഡ് ഓൺ
 # Opens the bookmarks library window
 quickactions-bookmarks2 = അടയാളക്കുറിപ്പുകളെ കൈകാര്യം ചെയ്യുക
@@ -329,6 +337,10 @@ quickactions-cmd-update = പുതുക്കുക
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = താളിന്റെ ഉറവിടം കാണുക
 quickactions-cmd-viewsource = ഉറവിടം കാണുക, ഉറവിടം
+# Will be shown to users the first configurable number of times
+# they experience actions giving them instructions on how to
+# select the action shown by pressing the tab key.
+press-tab-label = തിരഞ്ഞെടുക്കാൻ ടാബുക്കട്ടയിൽ അമർത്തുക:
 
 ## Bookmark Panel
 
@@ -352,6 +364,11 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = ക
 bookmark-panel-save-button =
     .label = കരുതിവയ്ക്കുക
+# Width of the bookmark panel.
+# Should be large enough to fully display the Done and
+# Cancel/Remove Bookmark buttons.
+bookmark-panel =
+    .style = min-width: 23em
 
 ## Identity Panel
 
@@ -367,6 +384,7 @@ identity-passive-loaded = ഈ താളിന്റെ ചില ഭാഗങ്
 identity-active-loaded = താങ്കള്‍ ഈ താളില്‍ സംരക്ഷണം നിര്‍വീര്യമാക്കിയിരിക്കുന്നു.
 identity-weak-encryption = ഈ താള്‍ ദുര്‍ബലമായ എന്‍ക്രിപ്ഷന്‍ ഉപയോഗിക്കുന്നു.
 identity-insecure-login-forms = ഈ പേജില്‍ എന്റര്‍ചെയ്യുന്ന ലോഗിനുകള്‍ വീഴ്ചകള്‍ക്കുവിധേയമായേക്കാം.
+identity-https-only-label = HTTPS-മാത്രം രീതി
 identity-https-only-dropdown-on =
     .label = തുടങ്ങിയതു്
 identity-https-only-dropdown-off =
@@ -544,6 +562,18 @@ urlbar-result-action-switch-tab = ടാബിലേക്ക് മാറുക
 urlbar-result-action-visit = സന്ദര്‍ശിക്കുക
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = പകർത്തൽപെട്ടിയിൽ അവസാന പക‌‍ർത്തിയ കണ്ണിയിലേക്കു് ചെല്ലുക
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = { $engine }-ന്റെ കൂടെ പരതുകാൻ വേണ്ടി ടാബുക്കട്ടയിൽ അമൎത്തുക
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = { $engine } തിരയുകാൻ വേണ്ടി ടാബുക്കട്ടയിൽ അമൎത്തുക
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = പകര്‍ത്തുക
 # Shows the result of a formula expression being calculated, the last = sign will be shown
