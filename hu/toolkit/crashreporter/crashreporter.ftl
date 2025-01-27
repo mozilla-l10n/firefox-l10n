@@ -8,6 +8,7 @@ crashreporter-crashed-and-restore = A { -brand-short-name } problémába ütköz
 crashreporter-plea = Segítsen diagnosztizálni és megoldani a problémát, küldje el az összeomlási jelentést.
 crashreporter-information = Ez az alkalmazás egy összeomlás után fut le, hogy jelentse a problémát a { -vendor-short-name(ending: "accented") }nak. Közvetlenül nem futtatandó.
 crashreporter-error = A { -brand-short-name } problémába ütközött és összeomlott. Sajnos a hibajelentő nem tudta elküldeni a jelentést az összeomlásról.
+crashreporter-error-details-header = Részletek:
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Részletek: { $details }
 crashreporter-no-run-message = Ez az alkalmazás egy összeomlás után fut le, hogy értesítse a problémáról az alkalmazás fejlesztőjét. Közvetlenül nem futtatható.

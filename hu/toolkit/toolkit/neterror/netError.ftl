@@ -12,6 +12,7 @@ neterror-blocked-by-policy-page-title = Blokkolt oldal
 neterror-captive-portal-page-title = Bejelentkezés a hálózatba
 neterror-dns-not-found-title = A kiszolgáló nem található
 neterror-malformed-uri-page-title = Érvénytelen webcím
+general-body-title = Legyen óvatos. Úgy tűnik, hogy valami nincs rendben.
 
 ## Error page actions
 
