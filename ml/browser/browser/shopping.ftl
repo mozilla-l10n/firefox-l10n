@@ -13,6 +13,7 @@ shopping-close-button =
 
 ## Strings for the shopping message-bar
 
+shopping-message-bar-keep-closed-accept-button = അതെ, അടച്ചിടുക
 
 ## Strings for the product review snippets card
 
@@ -48,6 +49,7 @@ shopping-close-button =
 
 ## Shopping survey strings.
 
+shopping-survey-q2-radio-1-label = അതെ
 
 ## Shopping opted-out survey strings
 ## Opt-out survey options are displayed as checkboxes and the user can select one or many.
@@ -60,6 +62,7 @@ shopping-close-button =
 
 ## Onboarding message strings.
 
+shopping-onboarding-opt-in-button = അതെ, ശ്രമിച്ചു് നോക്കൂ
 shopping-onboarding-not-now-button = ഇപ്പോഴല്ല
 shopping-onboarding-dialog-close-button =
     .title = അടയ്ക്കുക

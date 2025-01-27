@@ -13,12 +13,17 @@
 onboarding-welcome-header = { -brand-short-name } ലേക്ക് സ്വാഗതം
 onboarding-start-browsing-button-label = തിരയാൻ ആരംഭിക്കുക
 onboarding-not-now-button-label = ഇപ്പോഴല്ല
+mr1-onboarding-get-started-primary-button-label = തുടങ്ങാം
 
 ## Custom Return To AMO onboarding strings
 
+return-to-amo-subtitle = അടിപൊളി, താങ്ങൾക്കു് { -brand-short-name } ലഭിച്ചു
+return-to-amo-add-extension-label = വിപുലീകരണം ചേർക്കുക
+return-to-amo-add-theme-label = അലങ്കാരം ചേൎക്കുക
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
+mr1-return-to-amo-subtitle = { -brand-short-name }-നോടു് ഹലോ പറയാം
 
 ## Multistage onboarding strings (about:welcome pages)
 
@@ -28,7 +33,20 @@ onboarding-not-now-button-label = ഇപ്പോഴല്ല
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 
+# String for the Firefox Accounts button
+mr1-onboarding-sign-in-button-label = പ്രവേശിക്കുക
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = { $previous } നിന്നു് ഇറക്കുമതി ചെയ്യുക
+mr1-onboarding-theme-header = താങ്ങളുടെ സ്വന്തമാക്കുക
+mr1-onboarding-theme-subtitle = ഒരു അലങ്കാരം കൂടെ { -brand-short-name } വ്യക്തിപരമാക്കുക
 mr1-onboarding-theme-secondary-button-label = ഇപ്പോഴല്ല
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = വ്യവസ്ഥ അലങ്കാരം
+mr1-onboarding-theme-label-light = ഇളം
+mr1-onboarding-theme-label-dark = ഇരുണ്ടത്
+onboarding-theme-primary-button-label = കഴിഞ്ഞു
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
@@ -38,6 +56,8 @@ mr1-onboarding-theme-secondary-button-label = ഇപ്പോഴല്ല
 
 ## Strings for Thank You page
 
+mr2-onboarding-thank-you-header = ഞങ്ങളെ തിരഞ്ഞെടുത്തതിനു് നന്ദി
+mr2-onboarding-start-browsing-button-label = തിരയാൻ തുടങ്ങുക.
 
 ## Multistage live language reloading onboarding strings (about:welcome pages)
 ##
@@ -48,7 +68,10 @@ mr1-onboarding-theme-secondary-button-label = ഇപ്പോഴല്ല
 ##   $systemLanguage (String) - The name of the system language, e.g "Español (ES)"
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
+onboarding-live-language-header = ഭാഷ തിഞ്ഞെടുക്കുക
+mr2022-onboarding-live-language-text = { -brand-short-name } താങ്ങളുടെ ഭാഷയിൽ സംസാരിക്കാരുണ്ടു്.
 onboarding-live-language-secondary-cancel-download = റദ്ദാക്കുക
+onboarding-live-language-skip-button-label = ഒഴിവാക്കുക
 
 ## Firefox 100 Thank You screens
 
@@ -80,6 +103,7 @@ onboarding-live-language-secondary-cancel-download = റദ്ദാക്കു
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-label-default = തനിമട്ട്
 
 ## MR2022 Multistage Mobile Download screen strings
 
@@ -93,9 +117,11 @@ onboarding-live-language-secondary-cancel-download = റദ്ദാക്കു
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-secondary-button-label = തിരയാൻ തുടങ്ങുക.
 
 ## Onboarding spotlight for infrequent users
 
+onboarding-infrequent-import-primary-button = { -brand-short-name }-ലോട്ടു് ഇറക്കുമതി ചെയ്യുക
 
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
@@ -103,24 +129,36 @@ onboarding-live-language-secondary-cancel-download = റദ്ദാക്കു
 
 ## Device migration onboarding
 
+onboarding-device-migration-primary-button-label = പ്രവേശിക്കുക
 
 ## Add-ons Picker screen
 
+amo-picker-title = { -brand-short-name } ഇഷ്ടാനുസൃതമാക്കുക
+amo-picker-install-complete-label = സ്ഥാപിച്ചതു്
 
 ## The following screens have been updated to use security and privacy focused strings:
 
+onboarding-sign-up-button = പ്രവേശിക്കുക അല്ലെങ്കിൽ അംഗത്വം എടുക്കുക
+onboarding-sign-up-secondary-button = തിരയാൻ തുടങ്ങുക.
 
 ## New user time and familiarity survey strings
 
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = അടുത്തതു്
 
 ## UI strings for the sidebar and vertical tabs
 
+onboarding-flair-text = പുതിയതു്!
+onboarding-genai-sidebar-secondary-button = തിരയാൻ തുടങ്ങുക.
 
 ## New user onboarding checklist
 
+onboarding-checklist-extension = വിപുലീകരണം ചേൎക്കുക
 
 ## Tab Groups feature onboarding strings
 
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-cta = രൂപരേഖയുണ്ടാക്കുക
+multi-profile-callout-cta = രൂപരേഖയുണ്ടാക്കുക

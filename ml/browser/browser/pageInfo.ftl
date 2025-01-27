@@ -148,6 +148,16 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = സ്വതവേയുള്ളതു് ഉപയോഗിക്കുക
 security-no-visits = ഇല്ല
+# This string is used to display the number of times
+# the user has visited the website prior
+# Variables:
+#   $visits (number) - The number of previous visits
+security-visits-number =
+    { $visits ->
+        [0] ഇല്ല
+        [one] അതെ, ഒരു തവണം
+       *[other] അതെ, { $visits } തവണ
+    }
 # This string is used to display the type of
 # an image
 # Variables:
