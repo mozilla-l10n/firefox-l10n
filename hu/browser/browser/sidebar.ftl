@@ -133,6 +133,8 @@ sidebar-menu-history-header =
     .heading = Előzmények
 sidebar-menu-syncedtabs-header =
     .heading = Lapok más eszközökről
+sidebar-menu-bookmarks-header =
+    .heading = Könyvjelzők
 sidebar-panel-header-close-button =
     .tooltiptext = Bezárás
 

@@ -74,6 +74,13 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = Lap visszahangosítása
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = Lap némítása
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = Lap lejátszása
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -203,6 +210,17 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Mégse
     .accesskey = M
+tab-group-editor-color-selector =
+    .aria-label = Lapcsoport színe
+tab-group-editor-color-selector-blue = Kék
+tab-group-editor-color-selector-purple = Lila
+tab-group-editor-color-selector-cyan = Cián
+tab-group-editor-color-selector-orange = Narancs
+tab-group-editor-color-selector-yellow = Sárga
+tab-group-editor-color-selector-pink = Rózsaszín
+tab-group-editor-color-selector-green = Zöld
+tab-group-editor-color-selector-gray = Szürke
+tab-group-editor-color-selector-red = Vörös
 tab-group-menu-header = Lapcsoportok
 tab-context-unnamed-group =
     .label = Névtelen csoport

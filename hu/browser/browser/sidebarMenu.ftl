@@ -4,6 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = Könyvjelzők
+sidebar-menu-bookmarks-2 = Könyvjelzők
 sidebar-menu-history =
     .label = Előzmények
 sidebar-menu-synced-tabs =
