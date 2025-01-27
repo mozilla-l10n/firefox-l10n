@@ -6,9 +6,17 @@
 ## Preonboarding modal screen strings
 
 preonboarding-title = Benvenite a { -brand-product-name }
+preonboarding-subtitle = Continuante, tu accepta le Conditiones de uso { -brand-product-name } e nostre Aviso de confidentialitate. Pro adjutar a meliorar le navigator, { -brand-product-name } invia datos diagnostic e de interaction a { -vendor-short-name }.
+preonboarding-primary-cta = Confirmar e continuar
 # Label for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Gere le parametros de collecta de datos e lege nostre Conditiones de uso e Aviso de confidentialitate
+# Label for header style button that toggles showing the Terms of Use
+preonboarding-terms-of-use-header-button-title = Leger nostre Conditiones de uso
 # Label for header style button that toggles showing the Privacy Notice
 preonboarding-privacy-notice-header-button-title = Lege nostre aviso de confidentialitate
+# Label for header style button that toggles showing the data preference checklist
+preonboarding-manage-data-header-button-title = Gerer datos diagnostic e de interaction
+# New user onboarding checklist
+preonboarding-checklist-interaction-data-label = Inviar datos technic e de interaction a { -vendor-short-name }
 preonboarding-checklist-crash-reports-label = Automaticamente inviar reportos de crash
 preonboarding-checklist-crash-reports-description = Le reportos de crash nos permitte de diagnosticar e corriger problemas del navigator, ma pote includer datos personal o sensibile.
