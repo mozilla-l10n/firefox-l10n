@@ -168,18 +168,6 @@ show-sidebars =
 
 ## Tooltips for the sidebar toolbar widget.
 
-sidebar-widget-expand-sidebar =
-    .tooltiptext = Espandi la barra laterale
-    .label = Barre laterali
-sidebar-widget-collapse-sidebar =
-    .tooltiptext = Comprimi la barra laterale
-    .label = Barre laterali
-sidebar-widget-show-sidebar =
-    .tooltiptext = Mostra la barra laterale
-    .label = Barre laterali
-sidebar-widget-hide-sidebar =
-    .tooltiptext = Nascondi la barra laterale
-    .label = Barre laterali
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
