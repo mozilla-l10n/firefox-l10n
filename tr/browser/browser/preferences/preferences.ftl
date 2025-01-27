@@ -1332,6 +1332,9 @@ collection-studies-link = { -brand-short-name } araştırmalarını göster
 addon-recommendations2 =
     .label = Kişiselleştirilmiş uzantı önerilerine izin ver
 addon-recommendations-description = Gezinti deneyiminizi geliştirmek için uzantı önerileri alın.
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled2 = Bu sürümün yapılandırmasında veri raporlama devre dışı bırakılmış.
 collection-backlogged-crash-reports2 =
     .label = Çökme raporlarını otomatik olarak gönder
     .accesskey = m
