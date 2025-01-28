@@ -459,3 +459,4 @@ multi-profile-spotlight-cta = Crea un profilo
 multi-profile-callout-title = Crea profili diversi per lavoro e divertimento
 multi-profile-callout-subtitle = I profili ti consentono di mantenere le informazioni relative alla navigazione, come la cronologia delle ricerche e le password, completamente separate.
 multi-profile-callout-cta = Crea un profilo
+
