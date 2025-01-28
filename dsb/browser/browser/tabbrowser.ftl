@@ -224,6 +224,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
         }
 
 ## Tab manager menu buttons
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
 
 tabbrowser-manager-mute-tab =
     .tooltiptext = Rejtarik nimy cyniś
@@ -244,15 +247,24 @@ tab-group-editor-cancel =
     .accesskey = P
 tab-group-editor-color-selector =
     .aria-label = Barwa kupki rejtarikow
-tab-group-editor-color-selector-blue = Módry
-tab-group-editor-color-selector-purple = Purpurowy
-tab-group-editor-color-selector-cyan = Cyan
-tab-group-editor-color-selector-orange = Oranžowy
-tab-group-editor-color-selector-yellow = Žołty
-tab-group-editor-color-selector-pink = Pink
-tab-group-editor-color-selector-green = Zeleny
-tab-group-editor-color-selector-gray = Šery
-tab-group-editor-color-selector-red = Cerwjeny
+tab-group-editor-color-selector2-blue = Módry
+    .title = Módry
+tab-group-editor-color-selector2-purple = Purpurowy
+    .title = Purpurowy
+tab-group-editor-color-selector2-cyan = Cyan
+    .title = Cyan
+tab-group-editor-color-selector2-orange = Oranžowy
+    .title = Oranžowy
+tab-group-editor-color-selector2-yellow = Žołty
+    .title = Žołty
+tab-group-editor-color-selector2-pink = Pink
+    .title = Pink
+tab-group-editor-color-selector2-green = Zeleny
+    .title = Zeleny
+tab-group-editor-color-selector2-gray = Šery
+    .title = Šery
+tab-group-editor-color-selector2-red = Cerwjeny
+    .title = Cerwjeny
 tab-group-menu-header = Kupki rejtarikow
 tab-context-unnamed-group =
     .label = Kupka bźez mjenja
