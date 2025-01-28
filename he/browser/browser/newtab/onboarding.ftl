@@ -401,6 +401,8 @@ onboarding-checklist-sign-up = הרשמה או התחברות לחשבון של�
 
 tab-groups-onboarding-feature-callout-title = ניתן לנסות קבוצות לשוניות עבור עומס מופחת וקבלת מיקוד טוב יותר
 tab-groups-onboarding-feature-callout-subtitle = ניתן לעשות סדר בבלאגן על־ידי גרירת לשונית אחת על גבי לשונית אחרת כדי ליצור את הקבוצה הראשונה שלך.
+tab-groups-onboarding-saved-groups-title = לאחר סגירת קבוצת לשוניות, באפשרותך לפתוח אותה מחדש כאן בכל עת.
+tab-groups-onboarding-dismiss = אישור
 
 ## Multi Profiles feature onboarding messages
 
