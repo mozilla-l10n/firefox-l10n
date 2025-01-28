@@ -210,6 +210,10 @@ tabbrowser-manager-closed-tab-group =
 tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } – Aktueel finster
+# "Show more" is for showing all open groups from other windows, as well as saved groups. Initially,
+# we only show up to six of these groups.
+tabbrowser-manager-tab-groups-show-more =
+    .label = Mear toane
 
 ## Tab Groups
 

@@ -44,6 +44,7 @@ neterror-load-error-connection = As jo gjin inkelde side lade kinne, kontrolearj
 neterror-load-error-firewall = As jo kompjûter of netwurk befeilige wurdt troch in firewall of proxy, soargje der dan foar dat { -brand-short-name } tagong hat ta it web.
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = As jo in lokale netwurkside probearje te laden, kontrolearje dan yn de privacy- en befeiligingsynstellingen fan macOS of { -brand-short-name } tastimming hat foar in Lokaal netwurk.
+neterror-http-error-page = Kontrolearje oft jo it websiteadres krekt ynfierd hawwe.
 neterror-captive-portal = Jo moatte jo oanmelde by dit netwurk eardat jo tagong krije ta it ynternet.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -99,6 +100,9 @@ neterror-proxy-connect-failure-settings = Kontrolearje oft jo proxy-ynstellingen
 neterror-proxy-connect-failure-contact-admin = Nim kontakt op mei jo netwurkbehearder om te kontrolearjen oft de proxyserver wurket.
 neterror-content-encoding-error = Nim kontakt op mei de website-eigeners om se oer dit probleem te ynformearjen.
 neterror-unsafe-content-type = Nim kontakt op mei de website-eigeners om se oer dit probleem te ynformearjen.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-basic-http-auth = { -brand-short-name } fertrout { $hostname } net, omdat de ferbining net befeilige is. Probearje de URL nei HTTPS te wizigjen.
 neterror-nss-failure-not-verified = De side dy’t jo besjen wolle kin net toand wurde, omdat de echtheid fan de ûntfongen gegevens net ferifiearre wurde kin.
 neterror-nss-failure-contact-website = Nim kontakt op mei de website-eigeners om se oer dit probleem te ynformearjen.
 # Variables:

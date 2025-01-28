@@ -130,6 +130,10 @@ sidebar-menu-close-ai-chatbot-tooltip = KI chatbot začinić
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
+sidebar-menu-open-ai-chatbot-tooltip-generic = AI chatbot ({ $shortcut }) wočinić
+sidebar-menu-open-ai-chatbot-provider-tooltip = { $provider } ({ $shortcut }) wočinić
+sidebar-menu-close-ai-chatbot-tooltip-generic = AI chatbot ({ $shortcut }) začinić
+sidebar-menu-close-ai-chatbot-provider-tooltip = { $provider } ({ $shortcut }) začinić
 
 ## Headings for sidebar menu panels.
 

@@ -134,6 +134,7 @@ contentEncodingError-title = Ynhâldkodearringsflater
 unsafeContentType-title = Unfeilich bestânstype
 netReset-title = De ferbining waard opnij inisjalisearre
 netTimeout-title = De wachttiid foar de ferbining is ferstrutsen
+httpErrorPage-title = It liket derop dat der in probleem mei dizze website is
 serverError-title = It liket derop dat der in probleem mei dizze website is
 unknownProtocolFound-title = It adres waard net begrepen
 proxyConnectFailure-title = De proxyserver wegeret ferbiningen
