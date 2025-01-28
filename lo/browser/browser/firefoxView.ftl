@@ -32,6 +32,7 @@ firefoxview-tabpickup-synctabs-description = ອະນຸຍາດໃຫ້ { -b
 firefoxview-tabpickup-synctabs-learn-how = ຮຽນຮູ້ວິທີການ
 firefoxview-tabpickup-synctabs-primarybutton = Sync ແຖບເປີດ
 firefoxview-syncedtabs-synctabs-checkbox = ອະນຸຍາດໃຫ້ແຖບເປີດເພື່ອຊິງຄ໌
+firefoxview-syncedtabs-loading-header = ກຳລັງຊິ້ງຂໍ້ມູນຢູ່
 firefoxview-tabpickup-fxa-admin-disabled-header = ອົງການຂອງທ່ານໄດ້ປິດການຊິ້ງຂໍ້ມູນ
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ບໍ່ສາມາດຊິງຄ໌ແຖບລະຫວ່າງອຸປະກອນໄດ້ເນື່ອງຈາກຜູ້ເບິ່ງແຍງລະບົບຂອງທ່ານໄດ້ປິດການຊິງຄ໌.
 firefoxview-tabpickup-network-offline-header = ກວດເບິ່ງການເຊື່ອມຕໍ່ອິນເຕີເນັດຂອງທ່ານ

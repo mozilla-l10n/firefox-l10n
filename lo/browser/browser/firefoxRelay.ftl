@@ -45,9 +45,13 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
 
 ## The "basic-info" variation of the Relay offer popup
 
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
+    .label = ລົງ​ທະ​ບຽນ
+    .accesskey = S
 
 ## The "with-domain" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain = ຮັບໂຕປົກປິດອີເມວຟຣີ
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
