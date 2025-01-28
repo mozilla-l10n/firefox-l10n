@@ -67,6 +67,15 @@ login-list-count2 =
         [few] { $count } lozinke
        *[other] { $count } lozinki
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } od { $total } lozinka
+        [few] { $count } od { $total } lozinke
+       *[other] { $count } od { $total } lozinki
+    }
 login-list-sort-label-text = Sortiraj po:
 login-list-name-option = Nazivu (A-Z)
 login-list-name-reverse-option = Naziv (A-Z)
