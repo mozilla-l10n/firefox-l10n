@@ -192,6 +192,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
     .label = Барлық { $tabCount } бетті тізіп шығару
 
 ## Tab manager menu buttons
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
 
 tabbrowser-manager-mute-tab =
     .tooltiptext = Бет дыбысын басу
@@ -212,15 +215,24 @@ tab-group-editor-cancel =
     .accesskey = с
 tab-group-editor-color-selector =
     .aria-label = Беттер тобының түсі
-tab-group-editor-color-selector-blue = Көк
-tab-group-editor-color-selector-purple = Күлгін
-tab-group-editor-color-selector-cyan = Көгілдір
-tab-group-editor-color-selector-orange = Қызғылт сары
-tab-group-editor-color-selector-yellow = Сары
-tab-group-editor-color-selector-pink = Қызғылт
-tab-group-editor-color-selector-green = Жасыл
-tab-group-editor-color-selector-gray = Сұр
-tab-group-editor-color-selector-red = Қызыл
+tab-group-editor-color-selector2-blue = Көк
+    .title = Көк
+tab-group-editor-color-selector2-purple = Күлгін
+    .title = Күлгін
+tab-group-editor-color-selector2-cyan = Көгілдір
+    .title = Көгілдір
+tab-group-editor-color-selector2-orange = Қызғылт сары
+    .title = Қызғылт сары
+tab-group-editor-color-selector2-yellow = Сары
+    .title = Сары
+tab-group-editor-color-selector2-pink = Қызғылт
+    .title = Қызғылт
+tab-group-editor-color-selector2-green = Жасыл
+    .title = Жасыл
+tab-group-editor-color-selector2-gray = Сұр
+    .title = Сұр
+tab-group-editor-color-selector2-red = Қызыл
+    .title = Қызыл
 tab-group-menu-header = Беттер топтары
 tab-context-unnamed-group =
     .label = Атаусыз топ
