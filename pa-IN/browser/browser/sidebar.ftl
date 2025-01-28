@@ -125,6 +125,12 @@ sidebar-menu-close-bookmarks-tooltip = ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ 
 sidebar-menu-open-ai-chatbot-tooltip = AI ਚੈਟ-ਬੋਟ ਨੂੰ ਖੋਲ੍ਹੋ
 sidebar-menu-close-ai-chatbot-tooltip = AI ਚੈਟ-ਬੋਟ ਨੂੰ ਬੰਦ ਕਰੋ
 
+## Tooltips displayed over the AI chatbot icon.
+## Variables:
+##   $shortcut (String) - The OS specific keyboard shortcut.
+##   $provider (String) - The name of the AI chatbot provider (if available).
+
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -158,18 +164,6 @@ show-sidebars =
 
 ## Tooltips for the sidebar toolbar widget.
 
-sidebar-widget-expand-sidebar =
-    .tooltiptext = ਬਾਹੀ ਨੂੰ ਫੈਲਾਓ
-    .label = ਬਾਹੀਆਂ
-sidebar-widget-collapse-sidebar =
-    .tooltiptext = ਬਾਹੀ ਨੂੰ ਸਮੇਟੋ
-    .label = ਬਾਹੀਆਂ
-sidebar-widget-show-sidebar =
-    .tooltiptext = ਬਾਹੀ ਨੂੰ ਵੇਖਾਓ
-    .label = ਬਾਹੀਆਂ
-sidebar-widget-hide-sidebar =
-    .tooltiptext = ਬਾਹੀ ਨੂੰ ਓਹਲੇ ਕਰੋ
-    .label = ਬਾਹੀਆਂ
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =

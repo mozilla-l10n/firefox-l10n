@@ -125,6 +125,12 @@ sidebar-menu-close-bookmarks-tooltip = Zapołožki začinić ({ $shortcut })
 sidebar-menu-open-ai-chatbot-tooltip = KI chatbot wočinić
 sidebar-menu-close-ai-chatbot-tooltip = KI chatbot začinić
 
+## Tooltips displayed over the AI chatbot icon.
+## Variables:
+##   $shortcut (String) - The OS specific keyboard shortcut.
+##   $provider (String) - The name of the AI chatbot provider (if available).
+
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -158,18 +164,6 @@ show-sidebars =
 
 ## Tooltips for the sidebar toolbar widget.
 
-sidebar-widget-expand-sidebar =
-    .tooltiptext = Bóčnicu pokazać
-    .label = Bóčnicy
-sidebar-widget-collapse-sidebar =
-    .tooltiptext = Bóčnicu schować
-    .label = Bóčnicy
-sidebar-widget-show-sidebar =
-    .tooltiptext = Bóčnicu pokazać
-    .label = Bóčnicy
-sidebar-widget-hide-sidebar =
-    .tooltiptext = Bóčnicu schować
-    .label = Bóčnicy
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =

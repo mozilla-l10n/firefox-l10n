@@ -104,6 +104,12 @@ sidebar-menu-review-checker-label =
 
 sidebar-menu-close-ai-chatbot-tooltip = Mdel AI chatbot
 
+## Tooltips displayed over the AI chatbot icon.
+## Variables:
+##   $shortcut (String) - The OS specific keyboard shortcut.
+##   $provider (String) - The name of the AI chatbot provider (if available).
+
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -135,15 +141,6 @@ show-sidebars =
 
 ## Tooltips for the sidebar toolbar widget.
 
-sidebar-widget-collapse-sidebar =
-    .tooltiptext = Fneẓ afeggag adisan
-    .label = Igalisen idisanen
-sidebar-widget-show-sidebar =
-    .tooltiptext = Sken afeggag adisan
-    .label = Igalisen idisanen
-sidebar-widget-hide-sidebar =
-    .tooltiptext = Ffer afeggag adisan
-    .label = Igalisen idisanen
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-collapse-sidebar2 =

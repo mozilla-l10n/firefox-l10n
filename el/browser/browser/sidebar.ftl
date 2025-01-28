@@ -125,6 +125,12 @@ sidebar-menu-close-bookmarks-tooltip = Κλείσιμο σελιδοδεικτώ
 sidebar-menu-open-ai-chatbot-tooltip = Άνοιγμα AI chatbot
 sidebar-menu-close-ai-chatbot-tooltip = Κλείσιμο AI chatbot
 
+## Tooltips displayed over the AI chatbot icon.
+## Variables:
+##   $shortcut (String) - The OS specific keyboard shortcut.
+##   $provider (String) - The name of the AI chatbot provider (if available).
+
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -158,18 +164,6 @@ show-sidebars =
 
 ## Tooltips for the sidebar toolbar widget.
 
-sidebar-widget-expand-sidebar =
-    .tooltiptext = Ανάπτυξη πλαϊνής γραμμής
-    .label = Πλαϊνές γραμμές
-sidebar-widget-collapse-sidebar =
-    .tooltiptext = Σύμπτυξη πλαϊνής γραμμής
-    .label = Πλαϊνές γραμμές
-sidebar-widget-show-sidebar =
-    .tooltiptext = Εμφάνιση πλαϊνής γραμμής
-    .label = Πλαϊνές γραμμές
-sidebar-widget-hide-sidebar =
-    .tooltiptext = Απόκρυψη πλαϊνής γραμμής
-    .label = Πλαϊνές γραμμές
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =

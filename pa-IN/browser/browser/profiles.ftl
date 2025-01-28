@@ -2,15 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-profile-window-title = { -brand-short-name } - ਵਰਤੋਂਕਾਰ ਪਰੋਫਾਈਲ ਚੁਣੋ
 profile-window-heading = { -brand-short-name } ਪਰੋਫਾਈਲ ਚੁਣੋ
 profile-window-body = ਆਪਣੇ ਕੰਮ ਅਤੇ ਨਿੱਜੀ ਬਰਾਊਜ਼ ਕਰਨ ਨੂੰ ਬਿਲਕੁਲ ਵੱਖੋ-ਵੱਖਰਾ ਰੱਖੋ, ਜਿਸ ਵਿੱਚ ਪਾਸਵਰਡ ਅਤੇ ਬੁੱਕਮਾਰਕ ਸ਼ਾਮਲ ਹਨ। ਜਾਂ ਇਸ ਡਿਵਾਈਸ ਵਰਤਣ ਵਾਲੇ ਹਰੇਕ ਵਾਪਸੇ ਵੱਖਰਾ ਪਰੋਫਾਈਲ ਬਣਾਓ।
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = ਜਦੋਂ { -brand-short-name } ਖੁੱਲ੍ਹਦਾ ਹੈ ਤਾਂ ਇੱਕ ਪਰੋਫ਼ਾਈਲ ਚੁਣੋ
-# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
-profile-window-checkbox-label =
-    .label = ਜਦੋਂ { -brand-short-name } ਖੁੱਲ੍ਹਾ ਹੋਵੇ ਤਾਂ ਇਹ ਵੇਖਾਓ
 profile-window-create-profile = ਪਰੋਫਾਈਲ ਬਣਾਓ
 profile-card-edit-button =
     .title = ਪਰੋਫਾਈਲ ਨੂੰ ਸੋਧੋ

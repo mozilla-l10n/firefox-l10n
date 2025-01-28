@@ -107,6 +107,12 @@ sidebar-menu-review-checker-label =
 ## Tooltips for sidebar menu items.
 
 
+## Tooltips displayed over the AI chatbot icon.
+## Variables:
+##   $shortcut (String) - The OS specific keyboard shortcut.
+##   $provider (String) - The name of the AI chatbot provider (if available).
+
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -138,18 +144,6 @@ show-sidebars =
 
 ## Tooltips for the sidebar toolbar widget.
 
-sidebar-widget-expand-sidebar =
-    .tooltiptext = سائیڈ بار کھنڈاؤ
-    .label = بغلی بار
-sidebar-widget-collapse-sidebar =
-    .tooltiptext = سائیڈ بار ولھیٹو
-    .label = بغلی بار
-sidebar-widget-show-sidebar =
-    .tooltiptext = سائیڈ بار ݙکھاؤ
-    .label = بغلی بار
-sidebar-widget-hide-sidebar =
-    .tooltiptext = سائیڈ بار لکاؤ
-    .label = بغلی بار
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =

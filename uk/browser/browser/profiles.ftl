@@ -2,15 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-profile-window-title = { -brand-short-name } – вибір профілю користувача
 profile-window-heading = Виберіть профіль { -brand-short-name }
 profile-window-body = Відокремте робочий та особистий простір, зокрема паролі й закладки. Або створіть профілі для всіх, хто використовує цей пристрій.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Вибирати профіль під час відкриття { -brand-short-name }
-# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
-profile-window-checkbox-label =
-    .label = Показувати це вікно під час відкриття { -brand-short-name }
 profile-window-create-profile = Створити профіль
 profile-card-edit-button =
     .title = Редагувати профіль

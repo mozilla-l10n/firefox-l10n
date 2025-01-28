@@ -76,6 +76,12 @@ sidebar-menu-review-checker-label =
 ## Tooltips for sidebar menu items.
 
 
+## Tooltips displayed over the AI chatbot icon.
+## Variables:
+##   $shortcut (String) - The OS specific keyboard shortcut.
+##   $provider (String) - The name of the AI chatbot provider (if available).
+
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -107,18 +113,6 @@ show-sidebars =
 
 ## Tooltips for the sidebar toolbar widget.
 
-sidebar-widget-expand-sidebar =
-    .tooltiptext = Dispakañ ar varrenn gostez
-    .label = Barrennoù kostez
-sidebar-widget-collapse-sidebar =
-    .tooltiptext = Serriñ ar varrenn gostez
-    .label = Barrennoù kostez
-sidebar-widget-show-sidebar =
-    .tooltiptext = Diskouez ar varrenn gostez
-    .label = Barrennoù kostez
-sidebar-widget-hide-sidebar =
-    .tooltiptext = Kuzhat ar varrenn gostez
-    .label = Barrennoù kostez
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =

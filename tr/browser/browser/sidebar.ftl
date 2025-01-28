@@ -125,6 +125,12 @@ sidebar-menu-close-bookmarks-tooltip = Yer imlerini kapat ({ $shortcut })
 sidebar-menu-open-ai-chatbot-tooltip = Yapay zekâ sohbet botunu aç
 sidebar-menu-close-ai-chatbot-tooltip = Yapay zekâ sohbet botunu kapat
 
+## Tooltips displayed over the AI chatbot icon.
+## Variables:
+##   $shortcut (String) - The OS specific keyboard shortcut.
+##   $provider (String) - The name of the AI chatbot provider (if available).
+
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -158,18 +164,6 @@ show-sidebars =
 
 ## Tooltips for the sidebar toolbar widget.
 
-sidebar-widget-expand-sidebar =
-    .tooltiptext = Kenar çubuğunu genişlet
-    .label = Kenar çubukları
-sidebar-widget-collapse-sidebar =
-    .tooltiptext = Kenar çubuğunu daralt
-    .label = Kenar çubukları
-sidebar-widget-show-sidebar =
-    .tooltiptext = Kenar çubuğunu göster
-    .label = Kenar çubukları
-sidebar-widget-hide-sidebar =
-    .tooltiptext = Kenar çubuğunu gizle
-    .label = Kenar çubukları
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =

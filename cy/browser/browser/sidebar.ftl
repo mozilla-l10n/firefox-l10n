@@ -125,6 +125,12 @@ sidebar-menu-close-bookmarks-tooltip = Cau nodau tudalen ( { $shortcut } )
 sidebar-menu-open-ai-chatbot-tooltip = Agor sgwrsfot AI
 sidebar-menu-close-ai-chatbot-tooltip = Cau sgwrsfot AI
 
+## Tooltips displayed over the AI chatbot icon.
+## Variables:
+##   $shortcut (String) - The OS specific keyboard shortcut.
+##   $provider (String) - The name of the AI chatbot provider (if available).
+
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -156,18 +162,6 @@ show-sidebars =
 
 ## Tooltips for the sidebar toolbar widget.
 
-sidebar-widget-expand-sidebar =
-    .tooltiptext = Ehangu'r bar ochr
-    .label = Barrau Ochr
-sidebar-widget-collapse-sidebar =
-    .tooltiptext = Cau'r bar ochr
-    .label = Barrau Ochr
-sidebar-widget-show-sidebar =
-    .tooltiptext = Dangos y bar ochr
-    .label = Barrau Ochr
-sidebar-widget-hide-sidebar =
-    .tooltiptext = Cuddio'r bar ochr
-    .label = Barrau Ochr
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =

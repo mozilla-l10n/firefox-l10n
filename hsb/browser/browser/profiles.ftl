@@ -2,15 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-profile-window-title = { -brand-short-name } - Wužiwarski profil wubrać
 profile-window-heading = Wubjerće profil { -brand-short-name }
 profile-window-body = Dźeržće swoje dźěło a wosobinske přehladowanje, mjez nimi na přikład hesła a zapołožki, cyle separatne. Abo załožće profile za kóždeho, kiž tutón grat wužiwa.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Wubjerće profil, hdyž so { -brand-short-name } wočinja
-# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
-profile-window-checkbox-label =
-    .label = To pokazać, hdyž so { -brand-short-name } wočinja
 profile-window-create-profile = Profil załožić
 profile-card-edit-button =
     .title = Profil wobdźěłać

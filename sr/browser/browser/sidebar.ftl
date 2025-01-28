@@ -121,6 +121,12 @@ sidebar-menu-close-bookmarks-tooltip = Затвори облеживаче ({ $s
 sidebar-menu-open-ai-chatbot-tooltip = Отвори AI чет-бот
 sidebar-menu-close-ai-chatbot-tooltip = Затвори AI чет-бот
 
+## Tooltips displayed over the AI chatbot icon.
+## Variables:
+##   $shortcut (String) - The OS specific keyboard shortcut.
+##   $provider (String) - The name of the AI chatbot provider (if available).
+
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -152,18 +158,6 @@ show-sidebars =
 
 ## Tooltips for the sidebar toolbar widget.
 
-sidebar-widget-expand-sidebar =
-    .tooltiptext = Прошири бочни панел
-    .label = Бочни панели
-sidebar-widget-collapse-sidebar =
-    .tooltiptext = Скупи бочни панел
-    .label = Бочни панели
-sidebar-widget-show-sidebar =
-    .tooltiptext = Прикажи бочни панел
-    .label = Бочни панели
-sidebar-widget-hide-sidebar =
-    .tooltiptext = Сакриј бочни панел
-    .label = Бочни панели
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =

@@ -125,6 +125,12 @@ sidebar-menu-close-bookmarks-tooltip = Bladwijzers sluiten ({ $shortcut })
 sidebar-menu-open-ai-chatbot-tooltip = AI-chatbot openen
 sidebar-menu-close-ai-chatbot-tooltip = AI-chatbot sluiten
 
+## Tooltips displayed over the AI chatbot icon.
+## Variables:
+##   $shortcut (String) - The OS specific keyboard shortcut.
+##   $provider (String) - The name of the AI chatbot provider (if available).
+
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -158,18 +164,6 @@ show-sidebars =
 
 ## Tooltips for the sidebar toolbar widget.
 
-sidebar-widget-expand-sidebar =
-    .tooltiptext = Zijbalk uitvouwen
-    .label = Zijbalken
-sidebar-widget-collapse-sidebar =
-    .tooltiptext = Zijbalk samenvouwen
-    .label = Zijbalken
-sidebar-widget-show-sidebar =
-    .tooltiptext = Zijbalk tonen
-    .label = Zijbalken
-sidebar-widget-hide-sidebar =
-    .tooltiptext = Zijbalk verbergen
-    .label = Zijbalken
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =

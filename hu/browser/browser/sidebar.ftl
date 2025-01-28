@@ -125,6 +125,12 @@ sidebar-menu-close-bookmarks-tooltip = Könyvjelzők bezárása ({ $shortcut })
 sidebar-menu-open-ai-chatbot-tooltip = MI csevegőbot megnyitása
 sidebar-menu-close-ai-chatbot-tooltip = MI csevegőbot bezárása
 
+## Tooltips displayed over the AI chatbot icon.
+## Variables:
+##   $shortcut (String) - The OS specific keyboard shortcut.
+##   $provider (String) - The name of the AI chatbot provider (if available).
+
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -158,18 +164,6 @@ show-sidebars =
 
 ## Tooltips for the sidebar toolbar widget.
 
-sidebar-widget-expand-sidebar =
-    .tooltiptext = Oldalsáv kibontása
-    .label = Oldalsávok
-sidebar-widget-collapse-sidebar =
-    .tooltiptext = Oldalsáv összecsukása
-    .label = Oldalsávok
-sidebar-widget-show-sidebar =
-    .tooltiptext = Oldalsáv megjelenítése
-    .label = Oldalsávok
-sidebar-widget-hide-sidebar =
-    .tooltiptext = Oldalsáv elrejtése
-    .label = Oldalsávok
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =

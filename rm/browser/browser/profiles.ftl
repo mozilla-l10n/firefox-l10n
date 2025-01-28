@@ -2,15 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-profile-window-title = { -brand-short-name } – Tscherner in profil d’utilisader
 profile-window-heading = Tscherna in profil da { -brand-short-name }
 profile-window-body = Tegna dapart tia navigaziun persunala e quella professiunala, era quai che pertutga pleds-clav e segnapaginas. U creescha in profil per mintgin che utilisescha quest apparat.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Tscherner in profil cura che { -brand-short-name } s’avra
-# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
-profile-window-checkbox-label =
-    .label = Mussar cun avrir { -brand-short-name }
 profile-window-create-profile = Crear in profil
 profile-card-edit-button =
     .title = Modifitgar il profil

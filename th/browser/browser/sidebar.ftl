@@ -125,6 +125,12 @@ sidebar-menu-close-bookmarks-tooltip = ปิดที่คั่นหน้�
 sidebar-menu-open-ai-chatbot-tooltip = เปิดบอตสนทนา AI
 sidebar-menu-close-ai-chatbot-tooltip = ปิดบอตสนทนา AI
 
+## Tooltips displayed over the AI chatbot icon.
+## Variables:
+##   $shortcut (String) - The OS specific keyboard shortcut.
+##   $provider (String) - The name of the AI chatbot provider (if available).
+
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -158,18 +164,6 @@ show-sidebars =
 
 ## Tooltips for the sidebar toolbar widget.
 
-sidebar-widget-expand-sidebar =
-    .tooltiptext = ขยายแถบข้าง
-    .label = แถบข้าง
-sidebar-widget-collapse-sidebar =
-    .tooltiptext = ยุบแถบข้าง
-    .label = แถบข้าง
-sidebar-widget-show-sidebar =
-    .tooltiptext = แสดงแถบข้าง
-    .label = แถบข้าง
-sidebar-widget-hide-sidebar =
-    .tooltiptext = ซ่อนแถบข้าง
-    .label = แถบข้าง
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =

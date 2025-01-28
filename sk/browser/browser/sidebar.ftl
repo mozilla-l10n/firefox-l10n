@@ -125,6 +125,12 @@ sidebar-menu-close-bookmarks-tooltip = Zavrieť záložky ({ $shortcut })
 sidebar-menu-open-ai-chatbot-tooltip = Otvoriť AI chatbota
 sidebar-menu-close-ai-chatbot-tooltip = Zavrieť AI chatbota
 
+## Tooltips displayed over the AI chatbot icon.
+## Variables:
+##   $shortcut (String) - The OS specific keyboard shortcut.
+##   $provider (String) - The name of the AI chatbot provider (if available).
+
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -158,18 +164,6 @@ show-sidebars =
 
 ## Tooltips for the sidebar toolbar widget.
 
-sidebar-widget-expand-sidebar =
-    .tooltiptext = Rozbaliť bočný panel
-    .label = Bočné panely
-sidebar-widget-collapse-sidebar =
-    .tooltiptext = Zbaliť bočný panel
-    .label = Bočné panely
-sidebar-widget-show-sidebar =
-    .tooltiptext = Zobraziť bočný panel
-    .label = Bočné panely
-sidebar-widget-hide-sidebar =
-    .tooltiptext = Skryť bočný panel
-    .label = Bočné panely
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =

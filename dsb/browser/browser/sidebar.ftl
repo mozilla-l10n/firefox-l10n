@@ -125,6 +125,12 @@ sidebar-menu-close-bookmarks-tooltip = Cytańske znamjenja zacyniś ({ $shortcut
 sidebar-menu-open-ai-chatbot-tooltip = Chatbot KI wócyniś
 sidebar-menu-close-ai-chatbot-tooltip = Chatbot KI zacyniś
 
+## Tooltips displayed over the AI chatbot icon.
+## Variables:
+##   $shortcut (String) - The OS specific keyboard shortcut.
+##   $provider (String) - The name of the AI chatbot provider (if available).
+
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -158,18 +164,6 @@ show-sidebars =
 
 ## Tooltips for the sidebar toolbar widget.
 
-sidebar-widget-expand-sidebar =
-    .tooltiptext = Bocnicu pokazaś
-    .label = Bócnice
-sidebar-widget-collapse-sidebar =
-    .tooltiptext = Bocnicu schowaś
-    .label = Bócnice
-sidebar-widget-show-sidebar =
-    .tooltiptext = Bocnicu pokazaś
-    .label = Bócnice
-sidebar-widget-hide-sidebar =
-    .tooltiptext = Bocnicu schowaś
-    .label = Bócnice
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =

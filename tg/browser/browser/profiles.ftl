@@ -2,15 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-profile-window-title = «{ -brand-short-name }» - Интихоби профили корбар
 profile-window-heading = Интихоби профили «{ -brand-short-name }»
 profile-window-body = Тамошобинии худро барои фаъолияти корӣ ё шахсӣ, аз он ҷумла чизҳои дигар ба монанди ниҳонвожаҳо ё хатбаракҳо, комилан ҷудо нигоҳ доред. Ё барои ҳар касе, ки ин дастгоҳро истифода мебарад, профилҳои алоҳидаро эҷод намоед.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Интихоб кардани профил ҳангоми кушодани «{ -brand-short-name }»
-# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
-profile-window-checkbox-label =
-    .label = Вақте ки «{ -brand-short-name }» кушода мешавад, инро нишон диҳед
 profile-window-create-profile = Эҷод кардани профил
 profile-card-edit-button =
     .title = Таҳрир кардани профил

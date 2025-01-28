@@ -2,15 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-profile-window-title = { -brand-short-name } – Felhasználói profil kiválasztása
 profile-window-heading = Válasszon egy { -brand-short-name }-profilt
 profile-window-body = Tartsa teljesen külön a munkahelyi és a személyes böngészését, beleértve a jelszavait és a könyvjelzőit. Vagy hozzon létre profilt mindenki számára, aki ezt az eszközt használja.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Profil kiválasztása a { -brand-short-name } megnyitásakor
-# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
-profile-window-checkbox-label =
-    .label = Megjelenítés a { -brand-short-name } megnyitásakor
 profile-window-create-profile = Profil létrehozása
 profile-card-edit-button =
     .title = Profil szerkesztése

@@ -2,7 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-profile-window-title = { -brand-short-name } - Výběr profilu uživatele
 profile-window-heading =
     { -brand-short-name.case-status ->
         [with-cases] Vyberte profil { -brand-short-name(case: "gen") }
@@ -15,13 +14,6 @@ profile-window-checkbox-label-2 =
         { -brand-short-name.case-status ->
             [with-cases] Zvolit profil při spuštění { -brand-short-name(case: "gen") }
            *[no-cases] Zvolit profil při spuštění aplikace { -brand-short-name }
-        }
-# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
-profile-window-checkbox-label =
-    .label =
-        { -brand-short-name.case-status ->
-            [with-cases] Zobrazit vždy při spuštění { -brand-short-name(case: "gen") }
-           *[no-cases] Zobrazit vždy při spuštění aplikace { -brand-short-name }
         }
 profile-window-create-profile = Vytvořit profil
 profile-card-edit-button =

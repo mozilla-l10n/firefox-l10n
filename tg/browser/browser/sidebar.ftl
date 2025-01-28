@@ -125,6 +125,12 @@ sidebar-menu-close-bookmarks-tooltip = Пӯшидани хатбаракҳо ({ 
 sidebar-menu-open-ai-chatbot-tooltip = Кушодани чат-боти зеҳни сунъӣ «AI»
 sidebar-menu-close-ai-chatbot-tooltip = Пӯшидани чат-боти зеҳни сунъӣ «AI»
 
+## Tooltips displayed over the AI chatbot icon.
+## Variables:
+##   $shortcut (String) - The OS specific keyboard shortcut.
+##   $provider (String) - The name of the AI chatbot provider (if available).
+
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -158,18 +164,6 @@ show-sidebars =
 
 ## Tooltips for the sidebar toolbar widget.
 
-sidebar-widget-expand-sidebar =
-    .tooltiptext = Баркушодани навори ҷонибӣ
-    .label = Наворҳои ҷонибӣ
-sidebar-widget-collapse-sidebar =
-    .tooltiptext = Печондани навори ҷонибӣ
-    .label = Наворҳои ҷонибӣ
-sidebar-widget-show-sidebar =
-    .tooltiptext = Намоиш додани навори ҷонибӣ
-    .label = Наворҳои ҷонибӣ
-sidebar-widget-hide-sidebar =
-    .tooltiptext = Пинҳон кардани навори ҷонибӣ
-    .label = Наворҳои ҷонибӣ
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =

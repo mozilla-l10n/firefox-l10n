@@ -119,6 +119,12 @@ sidebar-menu-open-bookmarks-tooltip = افتح العلامات ({ $shortcut })
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = أغلق العلامات ({ $shortcut })
 
+## Tooltips displayed over the AI chatbot icon.
+## Variables:
+##   $shortcut (String) - The OS specific keyboard shortcut.
+##   $provider (String) - The name of the AI chatbot provider (if available).
+
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -150,18 +156,6 @@ show-sidebars =
 
 ## Tooltips for the sidebar toolbar widget.
 
-sidebar-widget-expand-sidebar =
-    .tooltiptext = توسيع الشريط الجانبي
-    .label = الأشرطة الجانبية
-sidebar-widget-collapse-sidebar =
-    .tooltiptext = تقليص الشريط الجانبي
-    .label = الأشرطة الجانبية
-sidebar-widget-show-sidebar =
-    .tooltiptext = إظهار الشريط الجانبي
-    .label = الأشرطة الجانبية
-sidebar-widget-hide-sidebar =
-    .tooltiptext = إخفاء الشريط الجانبي
-    .label = الأشرطة الجانبية
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =

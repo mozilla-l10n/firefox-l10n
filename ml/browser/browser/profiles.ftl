@@ -2,7 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-profile-window-title = { -brand-short-name } - ഉപയോക്തൃ രൂപരേഖ തിരഞ്ഞെടുക്കുക
 profile-window-heading = ഒരു { -brand-short-name } രൂപരേഖ തിരഞ്ഞെടുക്കുക
 profile-window-create-profile = രൂപരേഖയുണ്ടാക്കുക
 profile-card-edit-button =

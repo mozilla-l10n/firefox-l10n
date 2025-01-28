@@ -125,6 +125,12 @@ sidebar-menu-close-bookmarks-tooltip = Fermer les marque-pages ({ $shortcut })
 sidebar-menu-open-ai-chatbot-tooltip = Ouvrir le chatbot IA
 sidebar-menu-close-ai-chatbot-tooltip = Fermer le chatbot IA
 
+## Tooltips displayed over the AI chatbot icon.
+## Variables:
+##   $shortcut (String) - The OS specific keyboard shortcut.
+##   $provider (String) - The name of the AI chatbot provider (if available).
+
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -158,18 +164,6 @@ show-sidebars =
 
 ## Tooltips for the sidebar toolbar widget.
 
-sidebar-widget-expand-sidebar =
-    .tooltiptext = Développer le panneau latéral
-    .label = Panneau latéral
-sidebar-widget-collapse-sidebar =
-    .tooltiptext = Réduire le panneau latéral
-    .label = Panneau latéral
-sidebar-widget-show-sidebar =
-    .tooltiptext = Afficher le panneau latéral
-    .label = Panneau latéral
-sidebar-widget-hide-sidebar =
-    .tooltiptext = Masquer le panneau latéral
-    .label = Panneau latéral
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =

@@ -2,15 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-profile-window-title = { -brand-short-name } - Vælg din brugerprofil
 profile-window-heading = Vælg en { -brand-short-name }-profil
 profile-window-body = Hold dit arbejde og dit privatliv helt adskilt på nettet ved at gemme adgangskoder, bogmærker mv. separat. Eller opret profiler til alle, der bruger enheden.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Vælg en profil, når { -brand-short-name } starter
-# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
-profile-window-checkbox-label =
-    .label = Vis dette, når { -brand-short-name } startes
 profile-window-create-profile = Opret en profil
 profile-card-edit-button =
     .title = Rediger profil

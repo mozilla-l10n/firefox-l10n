@@ -125,6 +125,12 @@ sidebar-menu-close-bookmarks-tooltip = Tutup markah ({ $shortcut })
 sidebar-menu-open-ai-chatbot-tooltip = Buka obrolan AI
 sidebar-menu-close-ai-chatbot-tooltip = Tutup obrolan AI
 
+## Tooltips displayed over the AI chatbot icon.
+## Variables:
+##   $shortcut (String) - The OS specific keyboard shortcut.
+##   $provider (String) - The name of the AI chatbot provider (if available).
+
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -158,18 +164,6 @@ show-sidebars =
 
 ## Tooltips for the sidebar toolbar widget.
 
-sidebar-widget-expand-sidebar =
-    .tooltiptext = Bentangkan bilah sisi
-    .label = Bilah sisi
-sidebar-widget-collapse-sidebar =
-    .tooltiptext = Ciutkan bilah sisi
-    .label = Bilah sisi
-sidebar-widget-show-sidebar =
-    .tooltiptext = Tampilkan bilah sisi
-    .label = Bilah sisi
-sidebar-widget-hide-sidebar =
-    .tooltiptext = Sembunyikan bilah samping
-    .label = Bilah samping
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =

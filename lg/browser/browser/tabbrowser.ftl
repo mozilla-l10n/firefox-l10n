@@ -51,6 +51,9 @@ tabbrowser-confirm-close-tabs-button = Ggalawo awaddirira
 
 
 ## Tab manager menu buttons
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
 
 
 ## Tab Groups

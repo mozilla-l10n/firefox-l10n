@@ -169,6 +169,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
     .label = Listar los { $tabCount } onglets
 
 ## Tab manager menu buttons
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
 
 tabbrowser-manager-mute-tab =
     .tooltiptext = Rendre l'onglet mut

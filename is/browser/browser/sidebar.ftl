@@ -125,6 +125,12 @@ sidebar-menu-close-bookmarks-tooltip = Loka bókamerkjum ({ $shortcut })
 sidebar-menu-open-ai-chatbot-tooltip = Opna AI-gervigreindarspjallkerfi
 sidebar-menu-close-ai-chatbot-tooltip = Loka AI-gervigreindarspjallkerfi
 
+## Tooltips displayed over the AI chatbot icon.
+## Variables:
+##   $shortcut (String) - The OS specific keyboard shortcut.
+##   $provider (String) - The name of the AI chatbot provider (if available).
+
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -158,18 +164,6 @@ show-sidebars =
 
 ## Tooltips for the sidebar toolbar widget.
 
-sidebar-widget-expand-sidebar =
-    .tooltiptext = Fella út hliðarstikuna
-    .label = Hliðarstikur
-sidebar-widget-collapse-sidebar =
-    .tooltiptext = Fella saman hliðarstikuna
-    .label = Hliðarstikur
-sidebar-widget-show-sidebar =
-    .tooltiptext = Sýna hliðarstiku
-    .label = Hliðarstikur
-sidebar-widget-hide-sidebar =
-    .tooltiptext = Fela hliðarstiku
-    .label = Hliðarstikur
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =

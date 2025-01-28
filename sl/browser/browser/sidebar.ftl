@@ -125,6 +125,12 @@ sidebar-menu-close-bookmarks-tooltip = Zapri zaznamke ({ $shortcut })
 sidebar-menu-open-ai-chatbot-tooltip = Odpri UI-klepetalnik
 sidebar-menu-close-ai-chatbot-tooltip = Zapri UI-klepetalnik
 
+## Tooltips displayed over the AI chatbot icon.
+## Variables:
+##   $shortcut (String) - The OS specific keyboard shortcut.
+##   $provider (String) - The name of the AI chatbot provider (if available).
+
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -158,18 +164,6 @@ show-sidebars =
 
 ## Tooltips for the sidebar toolbar widget.
 
-sidebar-widget-expand-sidebar =
-    .tooltiptext = Razširi stransko vrstico
-    .label = Stranske vrstice
-sidebar-widget-collapse-sidebar =
-    .tooltiptext = Skrči stransko vrstico
-    .label = Stranske vrstice
-sidebar-widget-show-sidebar =
-    .tooltiptext = Prikaži stransko vrstico
-    .label = Stranske vrstice
-sidebar-widget-hide-sidebar =
-    .tooltiptext = Skrij stransko vrstico
-    .label = Stranske vrstice
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =

@@ -125,6 +125,12 @@ sidebar-menu-close-bookmarks-tooltip = 북마크 닫기 ({ $shortcut })
 sidebar-menu-open-ai-chatbot-tooltip = AI 챗봇 열기
 sidebar-menu-close-ai-chatbot-tooltip = AI 챗봇 닫기
 
+## Tooltips displayed over the AI chatbot icon.
+## Variables:
+##   $shortcut (String) - The OS specific keyboard shortcut.
+##   $provider (String) - The name of the AI chatbot provider (if available).
+
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -158,18 +164,6 @@ show-sidebars =
 
 ## Tooltips for the sidebar toolbar widget.
 
-sidebar-widget-expand-sidebar =
-    .tooltiptext = 사이드바 펼치기
-    .label = 사이드바
-sidebar-widget-collapse-sidebar =
-    .tooltiptext = 사이드바 접기
-    .label = 사이드바
-sidebar-widget-show-sidebar =
-    .tooltiptext = 사이드바 표시
-    .label = 사이드바
-sidebar-widget-hide-sidebar =
-    .tooltiptext = 사이드바 숨기기
-    .label = 사이드바
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =

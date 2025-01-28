@@ -125,6 +125,12 @@ sidebar-menu-close-bookmarks-tooltip = Mbyllni faqerojtësit ({ $shortcut })
 sidebar-menu-open-ai-chatbot-tooltip = Hapni robot IA
 sidebar-menu-close-ai-chatbot-tooltip = Mbyllni robot IA
 
+## Tooltips displayed over the AI chatbot icon.
+## Variables:
+##   $shortcut (String) - The OS specific keyboard shortcut.
+##   $provider (String) - The name of the AI chatbot provider (if available).
+
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -156,18 +162,6 @@ show-sidebars =
 
 ## Tooltips for the sidebar toolbar widget.
 
-sidebar-widget-expand-sidebar =
-    .tooltiptext = Zgjeroje anështyllën
-    .label = Anështylla
-sidebar-widget-collapse-sidebar =
-    .tooltiptext = Tkurre anështyllën
-    .label = Anështylla
-sidebar-widget-show-sidebar =
-    .tooltiptext = Shfaqe anështyllën
-    .label = Anështylla
-sidebar-widget-hide-sidebar =
-    .tooltiptext = Fshihe anështyllën
-    .label = Anështylla
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =

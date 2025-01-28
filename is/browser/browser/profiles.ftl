@@ -2,15 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-profile-window-title = { -brand-short-name } - Veldu notandasnið
 profile-window-heading = Veldu { -brand-short-name } notkunarsnið
 profile-window-body = Haltu vinnu þinni og persónulegu vafri, þar á meðal atriðum eins og lykilorðum og bókamerkjum, algjörlega aðskildum. Eða búðu til notkunarsnið fyrir alla sem nota þetta tæki.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Velja notkunarsnið þegar { -brand-short-name } opnast
-# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
-profile-window-checkbox-label =
-    .label = Birta þetta þegar { -brand-short-name } opnast
 profile-window-create-profile = Búa til notkunarsnið
 profile-card-edit-button =
     .title = Breyta notkunarsniði

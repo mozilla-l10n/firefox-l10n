@@ -2,15 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-profile-window-title = { -brand-short-name } - Pilih Profil Pengguna
 profile-window-heading = Pilih profil { -brand-short-name }
 profile-window-body = Jaga pekerjaan dan penjelajahan pribadi Anda, termasuk hal-hal seperti kata sandi dan markah, agar benar-benar terpisah. Atau buat profil untuk semua orang yang menggunakan perangkat ini.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Pilih profil saat { -brand-short-name } terbuka
-# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
-profile-window-checkbox-label =
-    .label = Tampilkan ini saat { -brand-short-name } dibuka
 profile-window-create-profile = Buat profil
 profile-card-edit-button =
     .title = Edit Profil

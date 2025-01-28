@@ -114,6 +114,12 @@ sidebar-menu-close-bookmarks-tooltip = അടയാളക്കുറിപ്�
 sidebar-menu-open-ai-chatbot-tooltip = നിൎമിതബുദ്ധി സല്ലാപയന്ത്രമനുഷ്യൻ തുടങ്ങുക
 sidebar-menu-close-ai-chatbot-tooltip = നിൎമിതബുദ്ധി സല്ലാപയന്ത്രമനുഷ്യനെ അണക്കുക
 
+## Tooltips displayed over the AI chatbot icon.
+## Variables:
+##   $shortcut (String) - The OS specific keyboard shortcut.
+##   $provider (String) - The name of the AI chatbot provider (if available).
+
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -145,18 +151,6 @@ show-sidebars =
 
 ## Tooltips for the sidebar toolbar widget.
 
-sidebar-widget-expand-sidebar =
-    .tooltiptext = തീരപ്പട്ട വലുതാക്കുക
-    .label = തീരപ്പട്ടകൾ
-sidebar-widget-collapse-sidebar =
-    .tooltiptext = തീരപ്പട്ട ചുരുക്കുക
-    .label = തീരപ്പട്ടകൾ
-sidebar-widget-show-sidebar =
-    .tooltiptext = തീരപ്പട്ട കാണിക്കുക
-    .label = തീരപ്പട്ടകൾ
-sidebar-widget-hide-sidebar =
-    .tooltiptext = തീരപ്പട്ട ഒളിപ്പിക്കുക
-    .label = തീരപ്പട്ടകൾ
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =

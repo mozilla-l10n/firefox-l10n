@@ -125,6 +125,12 @@ sidebar-menu-close-bookmarks-tooltip = Закрити закладки ({ $short
 sidebar-menu-open-ai-chatbot-tooltip = Відкрити чат-бот з ШІ
 sidebar-menu-close-ai-chatbot-tooltip = Закрити чат-бот з ШІ
 
+## Tooltips displayed over the AI chatbot icon.
+## Variables:
+##   $shortcut (String) - The OS specific keyboard shortcut.
+##   $provider (String) - The name of the AI chatbot provider (if available).
+
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -158,18 +164,6 @@ show-sidebars =
 
 ## Tooltips for the sidebar toolbar widget.
 
-sidebar-widget-expand-sidebar =
-    .tooltiptext = Розгорнути бічну панель
-    .label = Бічні панелі
-sidebar-widget-collapse-sidebar =
-    .tooltiptext = Згорнути бічну панель
-    .label = Бічні панелі
-sidebar-widget-show-sidebar =
-    .tooltiptext = Показати бічну панель
-    .label = Бічні панелі
-sidebar-widget-hide-sidebar =
-    .tooltiptext = Сховати бічну панель
-    .label = Бічні панелі
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =

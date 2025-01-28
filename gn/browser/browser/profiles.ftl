@@ -2,14 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-profile-window-title = { -brand-short-name } - Eiporavo poruhára mba’ete
 profile-window-heading = Eiporavo poruhára mba’ete { -brand-short-name }
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Eiporavo mba’ete ijurujávo { -brand-short-name }
-# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
-profile-window-checkbox-label =
-    .label = Ehechauka kóva ijurujávo { -brand-short-name }
 profile-window-create-profile = Emoheñói mba’ete
 profile-card-edit-button =
     .title = Embosako’i mba’ete

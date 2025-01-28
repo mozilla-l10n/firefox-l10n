@@ -2,15 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-profile-window-title = { -brand-short-name } - Επιλογή προφίλ χρήστη
 profile-window-heading = Επιλέξτε ένα προφίλ του { -brand-short-name }
 profile-window-body = Διαχωρίστε την επαγγελματική από την προσωπική περιήγηση, συμπεριλαμβανομένων των κωδικών πρόσβασης και των σελιδοδεικτών. Ή δημιουργήστε προφίλ για όλους τους χρήστες αυτής της συσκευής.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Επιλέξτε ένα προφίλ κατά το άνοιγμα του { -brand-short-name }
-# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
-profile-window-checkbox-label =
-    .label = Εμφάνιση κατά το άνοιγμα του { -brand-short-name }
 profile-window-create-profile = Δημιουργία προφίλ
 profile-card-edit-button =
     .title = Επεξεργασία προφίλ

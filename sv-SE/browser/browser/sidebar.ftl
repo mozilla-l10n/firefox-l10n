@@ -125,6 +125,12 @@ sidebar-menu-close-bookmarks-tooltip = Stäng bokmärken ({ $shortcut })
 sidebar-menu-open-ai-chatbot-tooltip = Öppna AI chatbot
 sidebar-menu-close-ai-chatbot-tooltip = Stäng AI chatbot
 
+## Tooltips displayed over the AI chatbot icon.
+## Variables:
+##   $shortcut (String) - The OS specific keyboard shortcut.
+##   $provider (String) - The name of the AI chatbot provider (if available).
+
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -158,18 +164,6 @@ show-sidebars =
 
 ## Tooltips for the sidebar toolbar widget.
 
-sidebar-widget-expand-sidebar =
-    .tooltiptext = Expandera sidofältet
-    .label = Sidofält
-sidebar-widget-collapse-sidebar =
-    .tooltiptext = Komprimera sidofältet
-    .label = Sidofält
-sidebar-widget-show-sidebar =
-    .tooltiptext = Visa sidofält
-    .label = Sidofält
-sidebar-widget-hide-sidebar =
-    .tooltiptext = Dölj sidofält
-    .label = Sidofält
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =

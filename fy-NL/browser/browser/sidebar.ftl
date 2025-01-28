@@ -125,6 +125,12 @@ sidebar-menu-close-bookmarks-tooltip = Blêdwizers slute ({ $shortcut })
 sidebar-menu-open-ai-chatbot-tooltip = AI-chatbot iepenje
 sidebar-menu-close-ai-chatbot-tooltip = AI-chatbot slute
 
+## Tooltips displayed over the AI chatbot icon.
+## Variables:
+##   $shortcut (String) - The OS specific keyboard shortcut.
+##   $provider (String) - The name of the AI chatbot provider (if available).
+
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -158,18 +164,6 @@ show-sidebars =
 
 ## Tooltips for the sidebar toolbar widget.
 
-sidebar-widget-expand-sidebar =
-    .tooltiptext = Sidebalke útklappe
-    .label = Sidebalken
-sidebar-widget-collapse-sidebar =
-    .tooltiptext = Sidebalke ynklappe
-    .label = Sidebalken
-sidebar-widget-show-sidebar =
-    .tooltiptext = Sidebalke toane
-    .label = Sidebalken
-sidebar-widget-hide-sidebar =
-    .tooltiptext = Sidebalke ferstopje
-    .label = Sidebalken
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =

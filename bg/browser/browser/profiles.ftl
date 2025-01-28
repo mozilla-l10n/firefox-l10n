@@ -2,7 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-profile-window-title = { -brand-short-name } – Избор на потребителски профил
 profile-window-heading = Изберете профил на { -brand-short-name }
 profile-window-create-profile = Създаване на профил
 profile-card-edit-button =

@@ -2,15 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-profile-window-title = { -brand-short-name } - 選取使用者設定檔
 profile-window-heading = 選擇一份 { -brand-short-name } 設定檔
 profile-window-body = 讓您工作與個人使用的上網紀錄（包含網站密碼、書籤等）完全拆開；也可以幫使用這台裝置的每個人建立自己的設定檔。
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = 於 { -brand-short-name } 啟動時選擇設定檔
-# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
-profile-window-checkbox-label =
-    .label = { -brand-short-name } 啟動時顯示本視窗
 profile-window-create-profile = 建立設定檔
 profile-card-edit-button =
     .title = 編輯設定檔

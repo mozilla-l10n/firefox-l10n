@@ -2,15 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-profile-window-title = { -brand-short-name } — wybierz profil użytkownika
 profile-window-heading = Wybierz profil { -brand-short-name(case: "gen") }
 profile-window-body = Całkowicie oddziel przeglądanie służbowe od prywatnego, łącznie z hasłami i zakładkami. Możesz też utworzyć profile dla wszystkich osób korzystających z tego urządzenia.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Wybieraj profil po włączeniu { -brand-short-name(case: "gen") }
-# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
-profile-window-checkbox-label =
-    .label = Pokazuj po włączeniu { -brand-short-name(case: "gen") }
 profile-window-create-profile = Utwórz profil
 profile-card-edit-button =
     .title = Edytuj profil

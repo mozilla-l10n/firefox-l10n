@@ -2,12 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-profile-window-title = { -brand-short-name } - Одабери кориснички профил
 profile-window-heading = Одабери { -brand-short-name } профил
 profile-window-body = Да ваше радно и лично прегледање буду потпуно одвојени, укључујући лозинке и обележиваче. Или направите профил за све који користе овај уређај.
-# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
-profile-window-checkbox-label =
-    .label = Прикажи ово када се { -brand-short-name } отвори
 profile-window-create-profile = Направи профил
 profile-card-edit-button =
     .title = Уреди профил

@@ -125,6 +125,12 @@ sidebar-menu-close-bookmarks-tooltip = Itxi laster-markak ({ $shortcut })
 sidebar-menu-open-ai-chatbot-tooltip = Ireki AA txaterako bota
 sidebar-menu-close-ai-chatbot-tooltip = Itxi AA txaterako bota
 
+## Tooltips displayed over the AI chatbot icon.
+## Variables:
+##   $shortcut (String) - The OS specific keyboard shortcut.
+##   $provider (String) - The name of the AI chatbot provider (if available).
+
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -156,18 +162,6 @@ show-sidebars =
 
 ## Tooltips for the sidebar toolbar widget.
 
-sidebar-widget-expand-sidebar =
-    .tooltiptext = Zabaldu alboko barra
-    .label = Alboko barrak
-sidebar-widget-collapse-sidebar =
-    .tooltiptext = Tolestu alboko barra
-    .label = Alboko barrak
-sidebar-widget-show-sidebar =
-    .tooltiptext = Erakutsi alboko barra
-    .label = Alboko barrak
-sidebar-widget-hide-sidebar =
-    .tooltiptext = Ezkutatu alboko barra
-    .label = Alboko barrak
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =

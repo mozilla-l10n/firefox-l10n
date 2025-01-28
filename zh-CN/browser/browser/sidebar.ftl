@@ -125,6 +125,12 @@ sidebar-menu-close-bookmarks-tooltip = 关闭书签 ({ $shortcut })
 sidebar-menu-open-ai-chatbot-tooltip = 打开 AI 聊天机器人
 sidebar-menu-close-ai-chatbot-tooltip = 关闭 AI 聊天机器人
 
+## Tooltips displayed over the AI chatbot icon.
+## Variables:
+##   $shortcut (String) - The OS specific keyboard shortcut.
+##   $provider (String) - The name of the AI chatbot provider (if available).
+
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -158,18 +164,6 @@ show-sidebars =
 
 ## Tooltips for the sidebar toolbar widget.
 
-sidebar-widget-expand-sidebar =
-    .tooltiptext = 展开侧栏
-    .label = 侧栏
-sidebar-widget-collapse-sidebar =
-    .tooltiptext = 收起侧栏
-    .label = 侧栏
-sidebar-widget-show-sidebar =
-    .tooltiptext = 显示侧栏
-    .label = 侧栏
-sidebar-widget-hide-sidebar =
-    .tooltiptext = 隐藏侧栏
-    .label = 侧栏
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =

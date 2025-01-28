@@ -55,6 +55,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
     .label = ؛لِسٹْہ کریو تمام { $tabCount } ٹیب
 
 ## Tab manager menu buttons
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
 
 
 ## Tab Groups

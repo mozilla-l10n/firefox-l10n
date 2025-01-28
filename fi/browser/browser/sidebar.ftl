@@ -125,6 +125,12 @@ sidebar-menu-close-bookmarks-tooltip = Sulje kirjanmerkit ({ $shortcut })
 sidebar-menu-open-ai-chatbot-tooltip = Avaa AI-chatbotti
 sidebar-menu-close-ai-chatbot-tooltip = Sulje AI-chatbotti
 
+## Tooltips displayed over the AI chatbot icon.
+## Variables:
+##   $shortcut (String) - The OS specific keyboard shortcut.
+##   $provider (String) - The name of the AI chatbot provider (if available).
+
+
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
@@ -158,18 +164,6 @@ show-sidebars =
 
 ## Tooltips for the sidebar toolbar widget.
 
-sidebar-widget-expand-sidebar =
-    .tooltiptext = Laajenna sivupalkki
-    .label = Sivupaneelit
-sidebar-widget-collapse-sidebar =
-    .tooltiptext = Supista sivupalkki
-    .label = Sivupaneelit
-sidebar-widget-show-sidebar =
-    .tooltiptext = Näytä sivupalkki
-    .label = Sivupaneelit
-sidebar-widget-hide-sidebar =
-    .tooltiptext = Piilota sivupalkki
-    .label = Sivupaneelit
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =

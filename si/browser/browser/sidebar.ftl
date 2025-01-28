@@ -34,6 +34,12 @@ sidebar-menu-genai-chat-label =
 sidebar-menu-open-ai-chatbot-tooltip = AI කතා ක්‍රමලේඛය අරින්න
 sidebar-menu-close-ai-chatbot-tooltip = AI කතා ක්‍රමලේඛය අරින්න
 
+## Tooltips displayed over the AI chatbot icon.
+## Variables:
+##   $shortcut (String) - The OS specific keyboard shortcut.
+##   $provider (String) - The name of the AI chatbot provider (if available).
+
+
 ## Headings for sidebar menu panels.
 
 
