@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profile-window-heading = Escolha um perfil do { -brand-short-name }
-profile-window-body = Mantenha sua navegação profissional e pessoal totalmente separadas, incluindo coisas como senhas e favoritos. Ou crie um perfil para cada pessoa que usa este dispositivo.
+profile-window-body = Mantenha totalmente separada sua navegação profissional da pessoal, inclusive senhas e favoritos. Ou crie um perfil para cada pessoa que usa este dispositivo.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Escolher um perfil ao abrir o { -brand-short-name }
