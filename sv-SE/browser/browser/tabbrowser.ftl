@@ -190,6 +190,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
     .label = Lista alla { $tabCount } flikar
 
 ## Tab manager menu buttons
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
 
 tabbrowser-manager-mute-tab =
     .tooltiptext = Ljud av för flik
@@ -210,15 +213,6 @@ tab-group-editor-cancel =
     .accesskey = A
 tab-group-editor-color-selector =
     .aria-label = Färg på flikgrupp
-tab-group-editor-color-selector-blue = Blå
-tab-group-editor-color-selector-purple = Lila
-tab-group-editor-color-selector-cyan = Cyan
-tab-group-editor-color-selector-orange = Orange
-tab-group-editor-color-selector-yellow = Gul
-tab-group-editor-color-selector-pink = Rosa
-tab-group-editor-color-selector-green = Grön
-tab-group-editor-color-selector-gray = Grå
-tab-group-editor-color-selector-red = Röd
 tab-group-menu-header = Flikgrupper
 tab-context-unnamed-group =
     .label = Namnlös grupp
