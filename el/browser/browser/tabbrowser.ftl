@@ -192,6 +192,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
     .label = Παράθεση και των { $tabCount } καρτελών
 
 ## Tab manager menu buttons
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
 
 tabbrowser-manager-mute-tab =
     .tooltiptext = Σίγαση καρτέλας
@@ -212,15 +215,6 @@ tab-group-editor-cancel =
     .accesskey = Α
 tab-group-editor-color-selector =
     .aria-label = Χρώμα ομάδας καρτελών
-tab-group-editor-color-selector-blue = Μπλε
-tab-group-editor-color-selector-purple = Μοβ
-tab-group-editor-color-selector-cyan = Κυανό
-tab-group-editor-color-selector-orange = Πορτοκαλί
-tab-group-editor-color-selector-yellow = Κίτρινο
-tab-group-editor-color-selector-pink = Ροζ
-tab-group-editor-color-selector-green = Πράσινο
-tab-group-editor-color-selector-gray = Γκρι
-tab-group-editor-color-selector-red = Κόκκινο
 tab-group-menu-header = Ομάδες καρτελών
 tab-context-unnamed-group =
     .label = Ανώνυμη ομάδα
