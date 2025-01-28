@@ -16,6 +16,12 @@ preonboarding-terms-of-use-header-button-title = Felhasználási feltételek elo
 preonboarding-privacy-notice-header-button-title = Adatvédelmi nyilatkozat felolvasása
 # Label for header style button that toggles showing the data preference checklist
 preonboarding-manage-data-header-button-title = Diagnosztikai és interakciós adatok kezelése
+# Label for header style button that toggles showing the Terms of Use (Variant B)
+preonboarding-terms-of-use-header-button-title-b = A { -brand-product-name } felhasználási feltételei
+# Label for header style button that toggles showing the Privacy Notice (Variant B)
+preonboarding-privacy-notice-header-button-title-b = A { -brand-product-name } adatvédelmi nyilatkozata
+# Description under label for header style buttons
+preonboarding-header-button-description = Bővebben
 # New user onboarding checklist
 preonboarding-checklist-interaction-data-label = Műszaki és interakciós adatok küldése a { -vendor-short-name(ending: "accented") }nak
 preonboarding-checklist-interaction-data-description = Az eszközre, a hardverbeállításokra és a { -brand-product-name } használatára vonatkozó adatok segítenek abban, hogy a funkciók, a teljesítmény és a stabilitás minden felhasználó számára jobb legyen.
