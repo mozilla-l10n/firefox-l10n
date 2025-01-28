@@ -44,6 +44,7 @@ neterror-load-error-connection = Si tu non pote cargar alcun pagina, verifica le
 neterror-load-error-firewall = Si tu computator o rete es protegite per un firewall o proxy, assecura te que { -brand-short-name } es autorisate a acceder al Web.
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Si tu tenta cargar un pagina de rete local, verifica que a { -brand-short-name } ha essite concedite le permissos de Rete local in le macOS Privacy e le Parametros de securitate.
+neterror-http-error-page = Verifica que tu ha scribite le adresse del sito web correctemente.
 neterror-captive-portal = Tu debe aperir session in iste rete ante que tu pote acceder a internet.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -99,6 +100,9 @@ neterror-proxy-connect-failure-settings = Controla que le parametros del proxy e
 neterror-proxy-connect-failure-contact-admin = Contacta tu administrator de rete pro saper si le servitor del proxy functiona.
 neterror-content-encoding-error = Contacta le proprietarios del sito web pro informar les de iste problema.
 neterror-unsafe-content-type = Contacta le proprietarios del sito web pro informar les de iste problema.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-basic-http-auth = { -brand-short-name } non se fide a { $hostname } perque le connexion non es secur. Tenta cambiar le URL a HTTPS.
 neterror-nss-failure-not-verified = Le pagina que tu tenta vider non pote esser monstrate perque le authenticitate del datos recipite non poteva esser verificate.
 neterror-nss-failure-contact-website = Contacta le proprietarios del sito web pro informar les de iste problema.
 # Variables:
@@ -152,6 +156,9 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Si tu non cognosce <b>{ $mi
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> ha un politica de securitate appellate HTTP Strict Transport Security (HSTS), le qual vole dicer que { -brand-short-name } solmente pote connecter se a illo de maniera secur. Tu pote adder un exception pro visitar iste sito.
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = Probabilemente nihil, pois que il es probabile que il ha un problema con le sito mesme.
+certerror-blocked-by-corp-headers-description = Aliquando le sitos web implementa protectiones, pro se mesme e le personas como te, contra interactiones indesirate con altere sitos.
+certerror-coop-learn-more = Discoperi Cross Origin Opener Policies (COOP)
+certerror-coep-learn-more = Discoperi Cross Origin Embedder Policies (COEP)
 # Variables:
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
