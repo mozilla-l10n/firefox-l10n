@@ -192,6 +192,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
     .label = Minden lap ({ $tabCount }) felsorolása
 
 ## Tab manager menu buttons
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
 
 tabbrowser-manager-mute-tab =
     .tooltiptext = Lap némítása
@@ -212,15 +215,24 @@ tab-group-editor-cancel =
     .accesskey = M
 tab-group-editor-color-selector =
     .aria-label = Lapcsoport színe
-tab-group-editor-color-selector-blue = Kék
-tab-group-editor-color-selector-purple = Lila
-tab-group-editor-color-selector-cyan = Cián
-tab-group-editor-color-selector-orange = Narancs
-tab-group-editor-color-selector-yellow = Sárga
-tab-group-editor-color-selector-pink = Rózsaszín
-tab-group-editor-color-selector-green = Zöld
-tab-group-editor-color-selector-gray = Szürke
-tab-group-editor-color-selector-red = Vörös
+tab-group-editor-color-selector2-blue = Kék
+    .title = Kék
+tab-group-editor-color-selector2-purple = Lila
+    .title = Lila
+tab-group-editor-color-selector2-cyan = Cián
+    .title = Cián
+tab-group-editor-color-selector2-orange = Narancs
+    .title = Narancs
+tab-group-editor-color-selector2-yellow = Sárga
+    .title = Sárga
+tab-group-editor-color-selector2-pink = Rózsaszín
+    .title = Rózsaszín
+tab-group-editor-color-selector2-green = Zöld
+    .title = Zöld
+tab-group-editor-color-selector2-gray = Szürke
+    .title = Szürke
+tab-group-editor-color-selector2-red = Vörös
+    .title = Vörös
 tab-group-menu-header = Lapcsoportok
 tab-context-unnamed-group =
     .label = Névtelen csoport
