@@ -87,6 +87,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
     .label = എല്ലാ { $tabCount } ടാബുകളും ലഭ്യമാക്കുക
 
 ## Tab manager menu buttons
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
 
 tabbrowser-manager-close-tab =
     .tooltiptext = ടാബു് അടയ്ക്കുക
@@ -100,15 +103,6 @@ tab-group-editor-cancel =
     .accesskey = റ
 tab-group-editor-color-selector =
     .aria-label = ടാബുക്കൂട്ടനിറം
-tab-group-editor-color-selector-blue = നീല
-tab-group-editor-color-selector-purple = പര്‍പ്പിള്‍
-tab-group-editor-color-selector-cyan = സിയാൻ
-tab-group-editor-color-selector-orange = ഓറഞ്ച്
-tab-group-editor-color-selector-yellow = മഞ്ഞ
-tab-group-editor-color-selector-pink = ഇളം ചുവപ്പു്
-tab-group-editor-color-selector-green = പച്ച
-tab-group-editor-color-selector-gray = ചാരം
-tab-group-editor-color-selector-red = ചുവപ്പ്
 tab-group-menu-header = ടാബുകൂട്ടങ്ങൾ
 tab-context-unnamed-group =
     .label = പേരില്ലാത്ത കൂട്ടം
