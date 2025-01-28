@@ -162,6 +162,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
     .label = 列出全部 { $tabCount } 個分頁
 
 ## Tab manager menu buttons
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
 
 tabbrowser-manager-mute-tab =
     .tooltiptext = 分頁靜音
@@ -182,15 +185,6 @@ tab-group-editor-cancel =
     .accesskey = C
 tab-group-editor-color-selector =
     .aria-label = 分頁群組色彩
-tab-group-editor-color-selector-blue = 藍色
-tab-group-editor-color-selector-purple = 紫色
-tab-group-editor-color-selector-cyan = 青色
-tab-group-editor-color-selector-orange = 橘色
-tab-group-editor-color-selector-yellow = 黃色
-tab-group-editor-color-selector-pink = 粉紅色
-tab-group-editor-color-selector-green = 綠色
-tab-group-editor-color-selector-gray = 灰色
-tab-group-editor-color-selector-red = 紅色
 tab-group-menu-header = 分頁群組
 tab-context-unnamed-group =
     .label = 未命名群組
