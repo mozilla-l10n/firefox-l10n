@@ -130,6 +130,8 @@ sidebar-menu-close-ai-chatbot-tooltip = Loka AI-gervigreindarspjallkerfi
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
+sidebar-menu-open-ai-chatbot-provider-tooltip = Opna { $provider } ({ $shortcut })
+sidebar-menu-close-ai-chatbot-provider-tooltip = Loka { $provider } ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 
