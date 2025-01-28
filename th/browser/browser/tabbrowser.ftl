@@ -164,6 +164,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
     .label = แสดงรายการ { $tabCount } แท็บทั้งหมด
 
 ## Tab manager menu buttons
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
 
 tabbrowser-manager-mute-tab =
     .tooltiptext = ปิดเสียงแท็บ
@@ -184,13 +187,6 @@ tab-group-editor-cancel =
     .accesskey = ย
 tab-group-editor-color-selector =
     .aria-label = สีกลุ่มแท็บ
-tab-group-editor-color-selector-purple = สีม่วง
-tab-group-editor-color-selector-orange = สีส้ม
-tab-group-editor-color-selector-yellow = สีเหลือง
-tab-group-editor-color-selector-pink = สีชมพู
-tab-group-editor-color-selector-green = สีเขียว
-tab-group-editor-color-selector-gray = สีเทา
-tab-group-editor-color-selector-red = สีแดง
 tab-group-menu-header = กลุ่มแท็บ
 tab-context-unnamed-group =
     .label = กลุ่มที่ไม่มีชื่อ
