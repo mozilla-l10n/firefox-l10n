@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 menu-view-genai-chat =
-    .label = AI-gervigreindarspjall
+    .label = Gervigreindarspjallkerfi
 menu-view-review-checker =
     .label = Umsagnaskoðun
 sidebar-options-menu-button =
@@ -92,7 +92,7 @@ sidebar-history-context-menu-delete-page =
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
-    .label = AI-gervigreindarspjall
+    .label = Gervigreindarspjallkerfi
 sidebar-menu-history-label =
     .label = Ferill
 sidebar-menu-synced-tabs-label =
@@ -122,15 +122,17 @@ sidebar-menu-open-bookmarks-tooltip = Opna bókamerki ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Loka bókamerkjum ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = Opna AI-gervigreindarspjallkerfi
-sidebar-menu-close-ai-chatbot-tooltip = Loka AI-gervigreindarspjallkerfi
+sidebar-menu-open-ai-chatbot-tooltip = Opna gervigreindarspjallkerfi
+sidebar-menu-close-ai-chatbot-tooltip = Loka gervigreindarspjallkerfi
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
+sidebar-menu-open-ai-chatbot-tooltip-generic = Opna gervigreindarspjallkerfi ({ $shortcut })
 sidebar-menu-open-ai-chatbot-provider-tooltip = Opna { $provider } ({ $shortcut })
+sidebar-menu-close-ai-chatbot-tooltip-generic = Loka gervigreindarspjallkerfi ({ $shortcut })
 sidebar-menu-close-ai-chatbot-provider-tooltip = Loka { $provider } ({ $shortcut })
 
 ## Headings for sidebar menu panels.

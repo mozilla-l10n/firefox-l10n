@@ -44,6 +44,7 @@ neterror-load-error-connection = Ef þú getur ekki hlaðið inn neinni síðu, 
 neterror-load-error-firewall = Ef tölvan eða netið er varið af eldvegg eða milliþjóni, athugaðu þá hvort { -brand-short-name } hafi aðgang til þess að fara á netið.
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Ef þú ert að reyna að hlaða inn vefsíðu af staðarneti, skaltu athuga hvort { -brand-short-name } hafi fengið heimildir fyrir staðarnet í persónuverndar- og öryggisstillingum macOS.
+neterror-http-error-page = Gakktu úr skugga um að þú hafir sett vistfang vefsvæðisins rétt inn.
 neterror-captive-portal = Þú verður að skrá þig inn á þetta netkerfi áður en þú færð aðgang að Internetinu.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -99,6 +100,9 @@ neterror-proxy-connect-failure-settings = Athugaðu milliþjónastillingar netþ
 neterror-proxy-connect-failure-contact-admin = Hafðu samband við netkerfisstjóra til að athuga hvort milliþjónn sé virkur.
 neterror-content-encoding-error = Hafðu samband við eigendur vefsvæðisins og láttu þá vita af þessu vandamáli.
 neterror-unsafe-content-type = Hafðu samband við eigendur vefsvæðisins og láttu þá vita af þessu vandamáli.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-basic-http-auth = { -brand-short-name } treystir ekki { $hostname } vegna þess að tengingin er ekki örugg. Prófaðu að breyta slóðinni í HTTPS.
 neterror-nss-failure-not-verified = Ekki er hægt að sýna síðuna vegna þess að ekki var hægt að auðkenna gögnin.
 neterror-nss-failure-contact-website = Hafið samband við vefstjóra svæðisins til að láta hann vita af þessu vandamáli.
 # Variables:

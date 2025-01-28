@@ -134,6 +134,7 @@ contentEncodingError-title = Kóðunarvilla í efni
 unsafeContentType-title = Óörugg skráartegund
 netReset-title = Tenging slitnaði
 netTimeout-title = Tengingin svaraði ekki tímanlega
+httpErrorPage-title = Það virðist vera vandamál með þetta vefsvæði
 serverError-title = Það virðist vera vandamál með þetta vefsvæði
 unknownProtocolFound-title = Vistfangið skildist ekki
 proxyConnectFailure-title = Milliþjónninn neitar tengingum

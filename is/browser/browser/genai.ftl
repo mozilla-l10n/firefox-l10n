@@ -55,19 +55,19 @@ genai-prompt-prefix-selection = Ég er á síðunni „{ $tabTitle }“ með „
 ## Chatbot menu shortcuts
 
 genai-menu-ask-generic =
-    .label = Spyrja AI-gervigreindarspjallkerfi
+    .label = Spyrja gervigreindarspjallkerfi
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Spyrja { $provider }
 genai-input-ask-generic =
-    .placeholder = Spyrja AI-gervigreindarspjallkerfi…
+    .placeholder = Spyrja gervigreindarspjallkerfi…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Spyrja { $provider }…
 # $selectionLength (number) - selected text length
 # $maxLength (number) - max length of what can be selected
 genai-shortcuts-selected-warning-generic =
-    .heading = Gervigreindar-spjallkerfið mun ekki fá allt sem þú valdir
+    .heading = Gervigreindarspjallkerfið mun ekki fá allt sem þú valdir
     .message =
         { $selectionLength ->
             [one] Þú valdir um það bil { $selectionLength } staf. Fjöldi stafa sem hægt er að senda á gervigreindarkerfið er { $maxLength }.
@@ -88,7 +88,7 @@ genai-shortcuts-hide =
 
 ## Chatbot header
 
-genai-chatbot-title = AI-gervigreindarspjall
+genai-chatbot-title = Gervigreindarspjallkerfi
 genai-header-provider-menu =
     .title = Veldu spjallkerfi
 genai-header-options-button =
@@ -100,7 +100,7 @@ genai-provider-view-details =
 genai-provider-about-chatbots =
     .label = Um þessi spjallkerfi
 genai-options-reload-generic =
-    .label = Endurhlaða AI-gervigreindarspjallkerfi
+    .label = Endurhlaða gervigreindarspjallkerfi
 # $provider (string) - name of the provider
 genai-options-reload-provider =
     .label = Endurhlaða { $provider }
