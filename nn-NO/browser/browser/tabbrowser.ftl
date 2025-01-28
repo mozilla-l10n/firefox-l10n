@@ -228,6 +228,12 @@ tab-group-name-default = Namnlaus gruppe
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-group-editor-action-new-tab =
+    .label = Ny fane i gruppe
+tab-group-editor-action-new-window =
+    .label = Flytt gruppe til nytt vindauge
+tab-group-editor-action-save =
+    .label = Lagre og lat att gruppe
 tab-group-editor-action-delete =
     .label = Slett gruppe
 tab-group-editor-done =
@@ -236,6 +242,10 @@ tab-group-editor-done =
 
 ## Open/saved tab group context menu
 
+# For a tab group open in any window, clicking this will create a new
+# window and move this tab group to that new window.
+tab-group-context-move-to-new-window =
+    .label = Flytt gruppe til nytt vindauge
 # For a tab group that is open in any window, close the tab group and
 # do not save it. For a tab group that is closed but saved by the user, clicking
 # this will forget the saved tab group.

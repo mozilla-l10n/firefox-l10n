@@ -134,6 +134,7 @@ contentEncodingError-title = 內容編碼錯誤
 unsafeContentType-title = 不安全的檔案格式
 netReset-title = 連線被重設
 netTimeout-title = 連線已逾時
+httpErrorPage-title = 看來此網站有點問題
 serverError-title = 看來此網站有點問題
 unknownProtocolFound-title = 無法理解的網址
 proxyConnectFailure-title = Proxy 伺服器拒絕連線

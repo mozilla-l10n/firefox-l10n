@@ -16,6 +16,12 @@ preonboarding-terms-of-use-header-button-title = Прочитайте наши �
 preonboarding-privacy-notice-header-button-title = Прочитайте наше Уведомление о конфиденциальности
 # Label for header style button that toggles showing the data preference checklist
 preonboarding-manage-data-header-button-title = Управление данными диагностики и взаимодействия
+# Label for header style button that toggles showing the Terms of Use (Variant B)
+preonboarding-terms-of-use-header-button-title-b = Условия использования { -brand-product-name }
+# Label for header style button that toggles showing the Privacy Notice (Variant B)
+preonboarding-privacy-notice-header-button-title-b = Уведомление о конфиденциальности { -brand-product-name }
+# Description under label for header style buttons
+preonboarding-header-button-description = Подробнее
 # New user onboarding checklist
 preonboarding-checklist-interaction-data-label = Отправлять технические данные и данные взаимодействия в { -vendor-short-name }
 preonboarding-checklist-interaction-data-description = Данные о вашем устройстве, конфигурации оборудования и том, как вы используете { -brand-product-name }, помогают улучшать функциональность, производительность и стабильность для пользователей по всему миру.

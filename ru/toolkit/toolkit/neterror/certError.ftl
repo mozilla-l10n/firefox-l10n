@@ -134,6 +134,7 @@ contentEncodingError-title = Ошибка в типе содержимого
 unsafeContentType-title = Небезопасный тип файла
 netReset-title = Соединение было сброшено
 netTimeout-title = Время ожидания соединения истекло
+httpErrorPage-title = Похоже, на этом сайте есть проблема
 serverError-title = Похоже, на этом сайте есть проблема
 unknownProtocolFound-title = Неизвестный тип адреса
 proxyConnectFailure-title = Прокси-сервер отказывается принимать соединения

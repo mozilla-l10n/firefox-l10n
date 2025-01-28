@@ -44,6 +44,7 @@ neterror-load-error-connection = 若無法載入任何網站，請檢查您的�
 neterror-load-error-firewall = 若電腦或網路被防火牆或 Proxy 保護，請確定 { -brand-short-name } 被允許存取網路。
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = 若您要開啟的本地區域網路頁面，請確認已經在 macOS 的「隱私權與安全性」選項當中，授權 { -brand-short-name } 存取本地網路權限。
+neterror-http-error-page = 請檢查是否正確輸入網址。
 neterror-captive-portal = 您必須先登入才能存取網際網路。
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
