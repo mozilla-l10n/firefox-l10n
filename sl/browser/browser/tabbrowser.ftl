@@ -231,6 +231,14 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Povrni glasnost zavihka
 tabbrowser-manager-close-tab =
     .tooltiptext = Zapri zavihek
+# This is for tab groups that have been "saved and closed" (see tab-group-editor-action-save). It does
+# not include "deleted" tab groups (see tab-group-editor-action-delete).
+tabbrowser-manager-closed-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } – Zaprta
+tabbrowser-manager-current-window-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } – Trenutno okno
 
 ## Tab Groups
 
