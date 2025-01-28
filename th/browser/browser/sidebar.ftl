@@ -133,6 +133,8 @@ sidebar-menu-history-header =
     .heading = ประวัติ
 sidebar-menu-syncedtabs-header =
     .heading = แท็บจากอุปกรณ์อื่น ๆ
+sidebar-menu-bookmarks-header =
+    .heading = ที่คั่นหน้า
 sidebar-panel-header-close-button =
     .tooltiptext = ปิด
 

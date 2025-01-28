@@ -1299,6 +1299,7 @@ collection-health-report =
     .label = อนุญาตให้ { -brand-short-name } ส่งข้อมูลทางเทคนิคและการโต้ตอบไปยัง { -vendor-short-name }
     .accesskey = อ
 collection-health-report-link = เรียนรู้เพิ่มเติม
+collection-studies-description = ทดลองใช้คุณสมบัติและไอเดียต่างๆ ก่อนที่จะเผยแพร่ให้ทุกคนได้ใช้งานจริง
 collection-studies =
     .label = อนุญาตให้ { -brand-short-name } ติดตั้งและเรียกใช้การศึกษา
 collection-studies-link = ดูการศึกษาของ { -brand-short-name }

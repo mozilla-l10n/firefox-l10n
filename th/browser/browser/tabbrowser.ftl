@@ -46,6 +46,13 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = เปิดเสียงแท็บ
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = ปิดเสียงแท็บ
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = เล่นแท็บ
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -175,6 +182,15 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = ยกเลิก
     .accesskey = ย
+tab-group-editor-color-selector =
+    .aria-label = สีกลุ่มแท็บ
+tab-group-editor-color-selector-purple = สีม่วง
+tab-group-editor-color-selector-orange = สีส้ม
+tab-group-editor-color-selector-yellow = สีเหลือง
+tab-group-editor-color-selector-pink = สีชมพู
+tab-group-editor-color-selector-green = สีเขียว
+tab-group-editor-color-selector-gray = สีเทา
+tab-group-editor-color-selector-red = สีแดง
 tab-group-menu-header = กลุ่มแท็บ
 tab-context-unnamed-group =
     .label = กลุ่มที่ไม่มีชื่อ

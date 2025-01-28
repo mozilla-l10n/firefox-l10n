@@ -4,6 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = ที่คั่นหน้า
+sidebar-menu-bookmarks-2 = ที่คั่นหน้า
 sidebar-menu-history =
     .label = ประวัติ
 sidebar-menu-synced-tabs =
