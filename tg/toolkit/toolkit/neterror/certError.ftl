@@ -134,6 +134,7 @@ contentEncodingError-title = Хатои рамзгузории муҳтаво
 unsafeContentType-title = Навъи файли беэътимод
 netReset-title = Пайвастшавӣ аз нав танзим карда шуд
 netTimeout-title = Вақти пайвастшавӣ ба анҷом расид
+httpErrorPage-title = Чунин ба назар мерасад, ки дар ин сомона мушкилӣ вуҷуд дорад
 serverError-title = Чунин ба назар мерасад, ки дар ин сомона мушкилӣ вуҷуд дорад
 unknownProtocolFound-title = Нишонӣ фаҳмида нашудааст
 proxyConnectFailure-title = Сервери прокси пайвастҳоро рад мекунад

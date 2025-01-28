@@ -29,7 +29,7 @@ edit-profile-page-header = Editar seu perfil
 edit-profile-page-profile-name-label = Nome do perfil
 edit-profile-page-theme-header = Tema
 edit-profile-page-explore-themes = Mais temas
-edit-profile-page-avatar-header = Avatar
+edit-profile-page-avatar-header = Símbolo
 edit-profile-page-delete-button =
     .label = Excluir
 edit-profile-page-no-name = Dê um nome a este perfil para ajudar a encontrar mais tarde. Renomeie quando quiser.
@@ -42,7 +42,7 @@ new-profile-page-learn-more = Saiba mais
 new-profile-page-input-placeholder =
     .placeholder = Escolha um nome como “Trabalho” ou “Pessoal”
 new-profile-page-done-button =
-    .label = Edição concluída
+    .label = Concluir edição
 profile-window-title-2 = { -brand-short-name } - Escolha um perfil
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
