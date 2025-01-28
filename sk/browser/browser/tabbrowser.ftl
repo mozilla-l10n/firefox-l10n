@@ -224,6 +224,18 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Zapnúť zvuk na tejto karte
 tabbrowser-manager-close-tab =
     .tooltiptext = Zavrieť kartu
+# This is for tab groups that have been "saved and closed" (see tab-group-editor-action-save). It does
+# not include "deleted" tab groups (see tab-group-editor-action-delete).
+tabbrowser-manager-closed-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — zatvorená
+tabbrowser-manager-current-window-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — aktuálne okno
+# "Show more" is for showing all open groups from other windows, as well as saved groups. Initially,
+# we only show up to six of these groups.
+tabbrowser-manager-tab-groups-show-more =
+    .label = Zobraziť ďalšie
 
 ## Tab Groups
 

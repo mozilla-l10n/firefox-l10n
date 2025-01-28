@@ -445,6 +445,8 @@ onboarding-checklist-sign-up = Zaregistrujte sa alebo sa prihláste do svojho ú
 
 tab-groups-onboarding-feature-callout-title = Vyskúšajte skupiny kariet a získate menej neporiadku a viac pozornosti
 tab-groups-onboarding-feature-callout-subtitle = Urobte si poriadok presunutím jednej karty na druhú, čím vytvoríte svoju prvú skupinu.
+tab-groups-onboarding-saved-groups-title = Ak zatvoríte skupinu kariet, môžete ju tu kedykoľvek znova otvoriť.
+tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages
 
