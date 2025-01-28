@@ -192,6 +192,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
     .label = Alle { $tabCount } Tabs anzeigen
 
 ## Tab manager menu buttons
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
 
 tabbrowser-manager-mute-tab =
     .tooltiptext = Tab stummschalten
@@ -212,15 +215,24 @@ tab-group-editor-cancel =
     .accesskey = A
 tab-group-editor-color-selector =
     .aria-label = Farbe der Tap-Gruppe
-tab-group-editor-color-selector-blue = Blau
-tab-group-editor-color-selector-purple = Lila
-tab-group-editor-color-selector-cyan = Cyan
-tab-group-editor-color-selector-orange = Orange
-tab-group-editor-color-selector-yellow = Gelb
-tab-group-editor-color-selector-pink = Pink
-tab-group-editor-color-selector-green = Grün
-tab-group-editor-color-selector-gray = Grau
-tab-group-editor-color-selector-red = Rot
+tab-group-editor-color-selector2-blue = Blau
+    .title = Blau
+tab-group-editor-color-selector2-purple = Lila
+    .title = Lila
+tab-group-editor-color-selector2-cyan = Cyan
+    .title = Cyan
+tab-group-editor-color-selector2-orange = Orange
+    .title = Orange
+tab-group-editor-color-selector2-yellow = Gelb
+    .title = Gelb
+tab-group-editor-color-selector2-pink = Pink
+    .title = Pink
+tab-group-editor-color-selector2-green = Grün
+    .title = Grün
+tab-group-editor-color-selector2-gray = Grau
+    .title = Grau
+tab-group-editor-color-selector2-red = Rot
+    .title = Rot
 tab-group-menu-header = Tab-Gruppen
 tab-context-unnamed-group =
     .label = Unbenannte Gruppe

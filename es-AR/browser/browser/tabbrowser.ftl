@@ -190,6 +190,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
     .label = Listar todas las { $tabCount } pestañas
 
 ## Tab manager menu buttons
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
 
 tabbrowser-manager-mute-tab =
     .tooltiptext = Enmudecer pestaña
@@ -210,15 +213,24 @@ tab-group-editor-cancel =
     .accesskey = C
 tab-group-editor-color-selector =
     .aria-label = Color del grupo de pestañas
-tab-group-editor-color-selector-blue = Azul
-tab-group-editor-color-selector-purple = Púrpura
-tab-group-editor-color-selector-cyan = Cian
-tab-group-editor-color-selector-orange = Naranja
-tab-group-editor-color-selector-yellow = Amarillo
-tab-group-editor-color-selector-pink = Rosa
-tab-group-editor-color-selector-green = Verde
-tab-group-editor-color-selector-gray = Gris
-tab-group-editor-color-selector-red = Rojo
+tab-group-editor-color-selector2-blue = Azul
+    .title = Azul
+tab-group-editor-color-selector2-purple = Púrpura
+    .title = Púrpura
+tab-group-editor-color-selector2-cyan = Cian
+    .title = Cian
+tab-group-editor-color-selector2-orange = Naranja
+    .title = Naranja
+tab-group-editor-color-selector2-yellow = Amarillo
+    .title = Amarillo
+tab-group-editor-color-selector2-pink = Rosa
+    .title = Rosa
+tab-group-editor-color-selector2-green = Verde
+    .title = Verde
+tab-group-editor-color-selector2-gray = Gris
+    .title = Gris
+tab-group-editor-color-selector2-red = Rojo
+    .title = Rojo
 tab-group-menu-header = Grupos de pestañas
 tab-context-unnamed-group =
     .label = Grupo sin nombre

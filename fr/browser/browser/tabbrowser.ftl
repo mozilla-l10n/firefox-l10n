@@ -186,6 +186,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
     .label = Lister les { $tabCount } onglets
 
 ## Tab manager menu buttons
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
 
 tabbrowser-manager-mute-tab =
     .tooltiptext = Rendre l’onglet muet
@@ -206,15 +209,24 @@ tab-group-editor-cancel =
     .accesskey = A
 tab-group-editor-color-selector =
     .aria-label = Couleur du groupe d’onglets
-tab-group-editor-color-selector-blue = Bleu
-tab-group-editor-color-selector-purple = Violet
-tab-group-editor-color-selector-cyan = Cyan
-tab-group-editor-color-selector-orange = Orange
-tab-group-editor-color-selector-yellow = Jaune
-tab-group-editor-color-selector-pink = Rose
-tab-group-editor-color-selector-green = Vert
-tab-group-editor-color-selector-gray = Gris
-tab-group-editor-color-selector-red = Rouge
+tab-group-editor-color-selector2-blue = Bleu
+    .title = Bleu
+tab-group-editor-color-selector2-purple = Violet
+    .title = Violet
+tab-group-editor-color-selector2-cyan = Cyan
+    .title = Cyan
+tab-group-editor-color-selector2-orange = Orange
+    .title = Orange
+tab-group-editor-color-selector2-yellow = Jaune
+    .title = Jaune
+tab-group-editor-color-selector2-pink = Rose
+    .title = Rose
+tab-group-editor-color-selector2-green = Vert
+    .title = Vert
+tab-group-editor-color-selector2-gray = Gris
+    .title = Gris
+tab-group-editor-color-selector2-red = Rouge
+    .title = Rouge
 tab-group-menu-header = Groupes d’onglets
 tab-context-unnamed-group =
     .label = Groupe sans nom

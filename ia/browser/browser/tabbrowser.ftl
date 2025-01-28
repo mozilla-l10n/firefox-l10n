@@ -190,6 +190,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
     .label = Listar tote le { $tabCount } schedas
 
 ## Tab manager menu buttons
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
 
 tabbrowser-manager-mute-tab =
     .tooltiptext = Tacer le scheda
@@ -210,15 +213,24 @@ tab-group-editor-cancel =
     .accesskey = C
 tab-group-editor-color-selector =
     .aria-label = Color del gruppo de schedas
-tab-group-editor-color-selector-blue = Blau
-tab-group-editor-color-selector-purple = Violette
-tab-group-editor-color-selector-cyan = Cyano
-tab-group-editor-color-selector-orange = Orange
-tab-group-editor-color-selector-yellow = Jalne
-tab-group-editor-color-selector-pink = Rosate
-tab-group-editor-color-selector-green = Verde
-tab-group-editor-color-selector-gray = Gris
-tab-group-editor-color-selector-red = Rubie
+tab-group-editor-color-selector2-blue = Blau
+    .title = Blau
+tab-group-editor-color-selector2-purple = Violette
+    .title = Violette
+tab-group-editor-color-selector2-cyan = Cyano
+    .title = Cyano
+tab-group-editor-color-selector2-orange = Orange
+    .title = Orange
+tab-group-editor-color-selector2-yellow = Jalne
+    .title = Jalne
+tab-group-editor-color-selector2-pink = Rosate
+    .title = Rosate
+tab-group-editor-color-selector2-green = Verde
+    .title = Verde
+tab-group-editor-color-selector2-gray = Gris
+    .title = Gris
+tab-group-editor-color-selector2-red = Rubie
+    .title = Rubie
 tab-group-menu-header = Gruppos de scheda
 tab-context-unnamed-group =
     .label = Gruppo sin nomine

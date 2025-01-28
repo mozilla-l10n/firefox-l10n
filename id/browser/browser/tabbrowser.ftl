@@ -162,6 +162,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
     .label = Tampilkan Daftar Semua { $tabCount } Tab
 
 ## Tab manager menu buttons
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
 
 tabbrowser-manager-mute-tab =
     .tooltiptext = Senyapkan tab
@@ -182,15 +185,24 @@ tab-group-editor-cancel =
     .accesskey = B
 tab-group-editor-color-selector =
     .aria-label = Warna grup tab
-tab-group-editor-color-selector-blue = Biru
-tab-group-editor-color-selector-purple = Ungu
-tab-group-editor-color-selector-cyan = Sian
-tab-group-editor-color-selector-orange = Jingga
-tab-group-editor-color-selector-yellow = Kuning
-tab-group-editor-color-selector-pink = Merah Jambu
-tab-group-editor-color-selector-green = Hijau
-tab-group-editor-color-selector-gray = Kelabu
-tab-group-editor-color-selector-red = Merah
+tab-group-editor-color-selector2-blue = Biru
+    .title = Biru
+tab-group-editor-color-selector2-purple = Ungu
+    .title = Ungu
+tab-group-editor-color-selector2-cyan = Sian
+    .title = Sian
+tab-group-editor-color-selector2-orange = Jingga
+    .title = Jingga
+tab-group-editor-color-selector2-yellow = Kuning
+    .title = Kuning
+tab-group-editor-color-selector2-pink = Merah Jambu
+    .title = Merah Jambu
+tab-group-editor-color-selector2-green = Hijau
+    .title = Hijau
+tab-group-editor-color-selector2-gray = Kelabu
+    .title = Kelabu
+tab-group-editor-color-selector2-red = Merah
+    .title = Merah
 tab-group-menu-header = Grup tab
 tab-context-unnamed-group =
     .label = Grup tanpa nama

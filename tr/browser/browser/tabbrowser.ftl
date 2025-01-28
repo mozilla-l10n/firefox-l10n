@@ -200,6 +200,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
     .label = { $tabCount } sekmenin tümünü listele
 
 ## Tab manager menu buttons
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
 
 tabbrowser-manager-mute-tab =
     .tooltiptext = Sekmenin sesini kapat
@@ -220,15 +223,24 @@ tab-group-editor-cancel =
     .accesskey = V
 tab-group-editor-color-selector =
     .aria-label = Sekme grubu rengi
-tab-group-editor-color-selector-blue = Mavi
-tab-group-editor-color-selector-purple = Mor
-tab-group-editor-color-selector-cyan = Açık mavi
-tab-group-editor-color-selector-orange = Turuncu
-tab-group-editor-color-selector-yellow = Sarı
-tab-group-editor-color-selector-pink = Pembe
-tab-group-editor-color-selector-green = Yeşil
-tab-group-editor-color-selector-gray = Gri
-tab-group-editor-color-selector-red = Kırmızı
+tab-group-editor-color-selector2-blue = Mavi
+    .title = Mavi
+tab-group-editor-color-selector2-purple = Mor
+    .title = Mor
+tab-group-editor-color-selector2-cyan = Açık mavi
+    .title = Açık mavi
+tab-group-editor-color-selector2-orange = Turuncu
+    .title = Turuncu
+tab-group-editor-color-selector2-yellow = Sarı
+    .title = Sarı
+tab-group-editor-color-selector2-pink = Pembe
+    .title = Pembe
+tab-group-editor-color-selector2-green = Yeşil
+    .title = Yeşil
+tab-group-editor-color-selector2-gray = Gri
+    .title = Gri
+tab-group-editor-color-selector2-red = Kırmızı
+    .title = Kırmızı
 tab-group-menu-header = Sekme grupları
 tab-context-unnamed-group =
     .label = Adsız grup

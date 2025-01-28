@@ -190,6 +190,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
     .label = Listigi ĉiujn { $tabCount } langetojn
 
 ## Tab manager menu buttons
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
 
 tabbrowser-manager-mute-tab =
     .tooltiptext = Silentigi langeton
@@ -210,15 +213,24 @@ tab-group-editor-cancel =
     .accesskey = N
 tab-group-editor-color-selector =
     .aria-label = Koloro de grupo de langetoj
-tab-group-editor-color-selector-blue = Blua
-tab-group-editor-color-selector-purple = Purpura
-tab-group-editor-color-selector-cyan = Cejanblua
-tab-group-editor-color-selector-orange = Oranĝa
-tab-group-editor-color-selector-yellow = Flava
-tab-group-editor-color-selector-pink = Roza
-tab-group-editor-color-selector-green = Verda
-tab-group-editor-color-selector-gray = Griza
-tab-group-editor-color-selector-red = Ruĝa
+tab-group-editor-color-selector2-blue = Blua
+    .title = Blua
+tab-group-editor-color-selector2-purple = Purpura
+    .title = Purpura
+tab-group-editor-color-selector2-cyan = Cejanblua
+    .title = Cejanblua
+tab-group-editor-color-selector2-orange = Oranĝa
+    .title = Oranĝa
+tab-group-editor-color-selector2-yellow = Flava
+    .title = Flava
+tab-group-editor-color-selector2-pink = Roza
+    .title = Roza
+tab-group-editor-color-selector2-green = Verda
+    .title = Verda
+tab-group-editor-color-selector2-gray = Griza
+    .title = Griza
+tab-group-editor-color-selector2-red = Ruĝa
+    .title = Ruĝa
 tab-group-menu-header = Grupoj de langetoj
 tab-context-unnamed-group =
     .label = Grupo sen nomo

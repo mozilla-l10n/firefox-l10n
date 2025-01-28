@@ -192,6 +192,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
     .label = Enumerar tut ils { $tabCount } tabs
 
 ## Tab manager menu buttons
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
 
 tabbrowser-manager-mute-tab =
     .tooltiptext = Deactivar il tun dal tab
@@ -212,15 +215,24 @@ tab-group-editor-cancel =
     .accesskey = I
 tab-group-editor-color-selector =
     .aria-label = Colur da la gruppa da tabs
-tab-group-editor-color-selector-blue = Blau
-tab-group-editor-color-selector-purple = Violet
-tab-group-editor-color-selector-cyan = Cian
-tab-group-editor-color-selector-orange = Oransch
-tab-group-editor-color-selector-yellow = Mellen
-tab-group-editor-color-selector-pink = Rosa
-tab-group-editor-color-selector-green = Verd
-tab-group-editor-color-selector-gray = Grisch
-tab-group-editor-color-selector-red = Cotschen
+tab-group-editor-color-selector2-blue = Blau
+    .title = Blau
+tab-group-editor-color-selector2-purple = Violet
+    .title = Violet
+tab-group-editor-color-selector2-cyan = Cian
+    .title = Cian
+tab-group-editor-color-selector2-orange = Oransch
+    .title = Oransch
+tab-group-editor-color-selector2-yellow = Mellen
+    .title = Mellen
+tab-group-editor-color-selector2-pink = Rosa
+    .title = Rosa
+tab-group-editor-color-selector2-green = Verd
+    .title = Verd
+tab-group-editor-color-selector2-gray = Grisch
+    .title = Grisch
+tab-group-editor-color-selector2-red = Cotschen
+    .title = Cotschen
 tab-group-menu-header = Gruppas da tabs
 tab-context-unnamed-group =
     .label = Gruppa senza num

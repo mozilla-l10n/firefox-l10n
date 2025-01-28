@@ -214,6 +214,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
         }
 
 ## Tab manager menu buttons
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
 
 tabbrowser-manager-mute-tab =
     .tooltiptext = Isključi zvuk kartice
@@ -234,15 +237,24 @@ tab-group-editor-cancel =
     .accesskey = O
 tab-group-editor-color-selector =
     .aria-label = Boja grupe kartica
-tab-group-editor-color-selector-blue = Plava
-tab-group-editor-color-selector-purple = Ljubičasta
-tab-group-editor-color-selector-cyan = Cijan
-tab-group-editor-color-selector-orange = Narančasta
-tab-group-editor-color-selector-yellow = Žuta
-tab-group-editor-color-selector-pink = Ružičasta
-tab-group-editor-color-selector-green = Zelena
-tab-group-editor-color-selector-gray = Siva
-tab-group-editor-color-selector-red = Crvena
+tab-group-editor-color-selector2-blue = Plava
+    .title = Plava
+tab-group-editor-color-selector2-purple = Ljubičasta
+    .title = Ljubičasta
+tab-group-editor-color-selector2-cyan = Cijan
+    .title = Cijan
+tab-group-editor-color-selector2-orange = Narančasta
+    .title = Narančasta
+tab-group-editor-color-selector2-yellow = Žuta
+    .title = Žuta
+tab-group-editor-color-selector2-pink = Ružičasta
+    .title = Ružičasta
+tab-group-editor-color-selector2-green = Zelena
+    .title = Zelena
+tab-group-editor-color-selector2-gray = Siva
+    .title = Siva
+tab-group-editor-color-selector2-red = Crvena
+    .title = Crvena
 tab-group-menu-header = Grupe kartica
 tab-context-unnamed-group =
     .label = Neimenovana grupa

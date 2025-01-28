@@ -87,6 +87,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
     .label = എല്ലാ { $tabCount } ടാബുകളും ലഭ്യമാക്കുക
 
 ## Tab manager menu buttons
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
 
 tabbrowser-manager-close-tab =
     .tooltiptext = ടാബു് അടയ്ക്കുക
@@ -100,15 +103,24 @@ tab-group-editor-cancel =
     .accesskey = റ
 tab-group-editor-color-selector =
     .aria-label = ടാബുക്കൂട്ടനിറം
-tab-group-editor-color-selector-blue = നീല
-tab-group-editor-color-selector-purple = പര്‍പ്പിള്‍
-tab-group-editor-color-selector-cyan = സിയാൻ
-tab-group-editor-color-selector-orange = ഓറഞ്ച്
-tab-group-editor-color-selector-yellow = മഞ്ഞ
-tab-group-editor-color-selector-pink = ഇളം ചുവപ്പു്
-tab-group-editor-color-selector-green = പച്ച
-tab-group-editor-color-selector-gray = ചാരം
-tab-group-editor-color-selector-red = ചുവപ്പ്
+tab-group-editor-color-selector2-blue = നീല
+    .title = നീല
+tab-group-editor-color-selector2-purple = പര്‍പ്പിള്‍
+    .title = പര്‍പ്പിള്‍
+tab-group-editor-color-selector2-cyan = സിയാൻ
+    .title = സിയാൻ
+tab-group-editor-color-selector2-orange = ഓറഞ്ച്
+    .title = ഓറഞ്ച്
+tab-group-editor-color-selector2-yellow = മഞ്ഞ
+    .title = മഞ്ഞ
+tab-group-editor-color-selector2-pink = ഇളം ചുവപ്പു്
+    .title = ഇളം ചുവപ്പു്
+tab-group-editor-color-selector2-green = പച്ച
+    .title = പച്ച
+tab-group-editor-color-selector2-gray = ചാരം
+    .title = ചാരം
+tab-group-editor-color-selector2-red = ചുവപ്പ്
+    .title = ചുവപ്പ്
 tab-group-menu-header = ടാബുകൂട്ടങ്ങൾ
 tab-context-unnamed-group =
     .label = പേരില്ലാത്ത കൂട്ടം

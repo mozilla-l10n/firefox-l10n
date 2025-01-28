@@ -214,6 +214,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
         }
 
 ## Tab manager menu buttons
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
 
 tabbrowser-manager-mute-tab =
     .tooltiptext = Убрать звук во вкладке
@@ -234,15 +237,24 @@ tab-group-editor-cancel =
     .accesskey = С
 tab-group-editor-color-selector =
     .aria-label = Цвет группы вкладок
-tab-group-editor-color-selector-blue = Синий
-tab-group-editor-color-selector-purple = Фиолетовый
-tab-group-editor-color-selector-cyan = Бирюзовый
-tab-group-editor-color-selector-orange = Оранжевый
-tab-group-editor-color-selector-yellow = Жёлтый
-tab-group-editor-color-selector-pink = Розовый
-tab-group-editor-color-selector-green = Зелёный
-tab-group-editor-color-selector-gray = Серый
-tab-group-editor-color-selector-red = Красный
+tab-group-editor-color-selector2-blue = Синий
+    .title = Синий
+tab-group-editor-color-selector2-purple = Фиолетовый
+    .title = Фиолетовый
+tab-group-editor-color-selector2-cyan = Бирюзовый
+    .title = Бирюзовый
+tab-group-editor-color-selector2-orange = Оранжевый
+    .title = Оранжевый
+tab-group-editor-color-selector2-yellow = Жёлтый
+    .title = Жёлтый
+tab-group-editor-color-selector2-pink = Розовый
+    .title = Розовый
+tab-group-editor-color-selector2-green = Зелёный
+    .title = Зелёный
+tab-group-editor-color-selector2-gray = Серый
+    .title = Серый
+tab-group-editor-color-selector2-red = Красный
+    .title = Красный
 tab-group-menu-header = Группы вкладок
 tab-context-unnamed-group =
     .label = Безымянная группа

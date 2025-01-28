@@ -190,6 +190,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
     .label = הצגת כל { $tabCount } הלשוניות
 
 ## Tab manager menu buttons
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
 
 tabbrowser-manager-mute-tab =
     .tooltiptext = השתקת לשונית
@@ -210,15 +213,24 @@ tab-group-editor-cancel =
     .accesskey = ב
 tab-group-editor-color-selector =
     .aria-label = צבע קבוצת לשוניות
-tab-group-editor-color-selector-blue = כחול
-tab-group-editor-color-selector-purple = סגול
-tab-group-editor-color-selector-cyan = ציאן
-tab-group-editor-color-selector-orange = כתום
-tab-group-editor-color-selector-yellow = צהוב
-tab-group-editor-color-selector-pink = ורוד
-tab-group-editor-color-selector-green = ירוק
-tab-group-editor-color-selector-gray = אפור
-tab-group-editor-color-selector-red = אדום
+tab-group-editor-color-selector2-blue = כחול
+    .title = כחול
+tab-group-editor-color-selector2-purple = סגול
+    .title = סגול
+tab-group-editor-color-selector2-cyan = ציאן
+    .title = ציאן
+tab-group-editor-color-selector2-orange = כתום
+    .title = כתום
+tab-group-editor-color-selector2-yellow = צהוב
+    .title = צהוב
+tab-group-editor-color-selector2-pink = ורוד
+    .title = ורוד
+tab-group-editor-color-selector2-green = ירוק
+    .title = ירוק
+tab-group-editor-color-selector2-gray = אפור
+    .title = אפור
+tab-group-editor-color-selector2-red = אדום
+    .title = אדום
 tab-group-menu-header = קבוצות לשוניות
 tab-context-unnamed-group =
     .label = קבוצה ללא שם

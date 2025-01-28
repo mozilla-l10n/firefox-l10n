@@ -192,6 +192,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
     .label = Рӯйхати пурра бо { $tabCount } варақа
 
 ## Tab manager menu buttons
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
 
 tabbrowser-manager-mute-tab =
     .tooltiptext = Хомӯш кардани садо дар варақа
@@ -212,15 +215,24 @@ tab-group-editor-cancel =
     .accesskey = Б
 tab-group-editor-color-selector =
     .aria-label = Ранги гурӯҳи варақа
-tab-group-editor-color-selector-blue = Кабуд
-tab-group-editor-color-selector-purple = Лоҷувард
-tab-group-editor-color-selector-cyan = Осмонӣ
-tab-group-editor-color-selector-orange = Норинҷӣ
-tab-group-editor-color-selector-yellow = Зард
-tab-group-editor-color-selector-pink = Гулобӣ
-tab-group-editor-color-selector-green = Сабз
-tab-group-editor-color-selector-gray = Хокистарӣ
-tab-group-editor-color-selector-red = Сурх
+tab-group-editor-color-selector2-blue = Кабуд
+    .title = Кабуд
+tab-group-editor-color-selector2-purple = Лоҷувард
+    .title = Лоҷувард
+tab-group-editor-color-selector2-cyan = Осмонӣ
+    .title = Осмонӣ
+tab-group-editor-color-selector2-orange = Норинҷӣ
+    .title = Норинҷӣ
+tab-group-editor-color-selector2-yellow = Зард
+    .title = Зард
+tab-group-editor-color-selector2-pink = Гулобӣ
+    .title = Гулобӣ
+tab-group-editor-color-selector2-green = Сабз
+    .title = Сабз
+tab-group-editor-color-selector2-gray = Хокистарӣ
+    .title = Хокистарӣ
+tab-group-editor-color-selector2-red = Сурх
+    .title = Сурх
 tab-group-menu-header = Гурӯҳҳои варақаҳо
 tab-context-unnamed-group =
     .label = Гурӯҳи беном

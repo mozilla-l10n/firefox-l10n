@@ -214,6 +214,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
         }
 
 ## Tab manager menu buttons
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
 
 tabbrowser-manager-mute-tab =
     .tooltiptext = Сцішыць картку
@@ -234,15 +237,24 @@ tab-group-editor-cancel =
     .accesskey = С
 tab-group-editor-color-selector =
     .aria-label = Колер групы картак
-tab-group-editor-color-selector-blue = Сіні
-tab-group-editor-color-selector-purple = Фіялетавы
-tab-group-editor-color-selector-cyan = Блакітны
-tab-group-editor-color-selector-orange = Аранжавы
-tab-group-editor-color-selector-yellow = Жоўты
-tab-group-editor-color-selector-pink = Ружовы
-tab-group-editor-color-selector-green = Зялёны
-tab-group-editor-color-selector-gray = Шэры
-tab-group-editor-color-selector-red = Чырвоны
+tab-group-editor-color-selector2-blue = Сіні
+    .title = Сіні
+tab-group-editor-color-selector2-purple = Фіялетавы
+    .title = Фіялетавы
+tab-group-editor-color-selector2-cyan = Блакітны
+    .title = Блакітны
+tab-group-editor-color-selector2-orange = Аранжавы
+    .title = Аранжавы
+tab-group-editor-color-selector2-yellow = Жоўты
+    .title = Жоўты
+tab-group-editor-color-selector2-pink = Ружовы
+    .title = Ружовы
+tab-group-editor-color-selector2-green = Зялёны
+    .title = Зялёны
+tab-group-editor-color-selector2-gray = Шэры
+    .title = Шэры
+tab-group-editor-color-selector2-red = Чырвоны
+    .title = Чырвоны
 tab-group-menu-header = Групы картак
 tab-context-unnamed-group =
     .label = Група без назвы

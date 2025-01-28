@@ -192,6 +192,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
     .label = Alle { $tabCount } ljepblêdtitels toane
 
 ## Tab manager menu buttons
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
 
 tabbrowser-manager-mute-tab =
     .tooltiptext = Ljepblêd dôvje
@@ -212,15 +215,24 @@ tab-group-editor-cancel =
     .accesskey = A
 tab-group-editor-color-selector =
     .aria-label = Ljepblêdgroepkleur
-tab-group-editor-color-selector-blue = Blau
-tab-group-editor-color-selector-purple = Pears
-tab-group-editor-color-selector-cyan = Syaan
-tab-group-editor-color-selector-orange = Oranje
-tab-group-editor-color-selector-yellow = Giel
-tab-group-editor-color-selector-pink = Roze
-tab-group-editor-color-selector-green = Grien
-tab-group-editor-color-selector-gray = Griis
-tab-group-editor-color-selector-red = Read
+tab-group-editor-color-selector2-blue = Blau
+    .title = Blau
+tab-group-editor-color-selector2-purple = Pears
+    .title = Pears
+tab-group-editor-color-selector2-cyan = Syaan
+    .title = Syaan
+tab-group-editor-color-selector2-orange = Oranje
+    .title = Oranje
+tab-group-editor-color-selector2-yellow = Giel
+    .title = Giel
+tab-group-editor-color-selector2-pink = Roze
+    .title = Roze
+tab-group-editor-color-selector2-green = Grien
+    .title = Grien
+tab-group-editor-color-selector2-gray = Griis
+    .title = Griis
+tab-group-editor-color-selector2-red = Read
+    .title = Read
 tab-group-menu-header = Ljepblêdgroepen
 tab-context-unnamed-group =
     .label = Nammeleaze groep

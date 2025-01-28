@@ -241,6 +241,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
         }
 
 ## Tab manager menu buttons
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
 
 tabbrowser-manager-mute-tab =
     .tooltiptext = Vypne zvuk panelu
@@ -261,15 +264,24 @@ tab-group-editor-cancel =
     .accesskey = Z
 tab-group-editor-color-selector =
     .aria-label = Barva skupiny panelů
-tab-group-editor-color-selector-blue = Modrá
-tab-group-editor-color-selector-purple = Fialová
-tab-group-editor-color-selector-cyan = Azurová
-tab-group-editor-color-selector-orange = Oranžová
-tab-group-editor-color-selector-yellow = Žlutá
-tab-group-editor-color-selector-pink = Růžová
-tab-group-editor-color-selector-green = Zelená
-tab-group-editor-color-selector-gray = Šedivý
-tab-group-editor-color-selector-red = Červená
+tab-group-editor-color-selector2-blue = Modrá
+    .title = Modrá
+tab-group-editor-color-selector2-purple = Fialová
+    .title = Fialová
+tab-group-editor-color-selector2-cyan = Azurová
+    .title = Azurová
+tab-group-editor-color-selector2-orange = Oranžová
+    .title = Oranžová
+tab-group-editor-color-selector2-yellow = Žlutá
+    .title = Žlutá
+tab-group-editor-color-selector2-pink = Růžová
+    .title = Růžová
+tab-group-editor-color-selector2-green = Zelená
+    .title = Zelená
+tab-group-editor-color-selector2-gray = Šedivý
+    .title = Šedivý
+tab-group-editor-color-selector2-red = Červená
+    .title = Červená
 tab-group-menu-header = Skupiny panelů
 tab-context-unnamed-group =
     .label = Nepojmenovaná skupina

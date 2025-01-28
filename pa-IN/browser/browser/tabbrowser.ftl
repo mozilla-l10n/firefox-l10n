@@ -190,6 +190,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
     .label = ਸਭ { $tabCount } ਟੈਬਾਂ ਦੀ ਸੂਚੀ ਦਿਖਾਓ
 
 ## Tab manager menu buttons
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
 
 tabbrowser-manager-mute-tab =
     .tooltiptext = ਟੈਬ ਨੂੰ ਮੌਨ ਕਰੋ
@@ -210,15 +213,24 @@ tab-group-editor-cancel =
     .accesskey = C
 tab-group-editor-color-selector =
     .aria-label = ਟੈਬ ਗਰੁੱਪ ਦਾ ਰੰਗ
-tab-group-editor-color-selector-blue = ਨੀਲਾ
-tab-group-editor-color-selector-purple = ਵੈਂਗਣੀ
-tab-group-editor-color-selector-cyan = ਸਿਯਾਨ
-tab-group-editor-color-selector-orange = ਸੰਤਰੀ
-tab-group-editor-color-selector-yellow = ਪੀਲਾ
-tab-group-editor-color-selector-pink = ਗੁਲਾਬੀ
-tab-group-editor-color-selector-green = ਹਰਾ
-tab-group-editor-color-selector-gray = ਸਲੇਟੀ
-tab-group-editor-color-selector-red = ਲਾਲ
+tab-group-editor-color-selector2-blue = ਨੀਲਾ
+    .title = ਨੀਲਾ
+tab-group-editor-color-selector2-purple = ਵੈਂਗਣੀ
+    .title = ਵੈਂਗਣੀ
+tab-group-editor-color-selector2-cyan = ਸਿਯਾਨ
+    .title = ਸਿਯਾਨ
+tab-group-editor-color-selector2-orange = ਸੰਤਰੀ
+    .title = ਸੰਤਰੀ
+tab-group-editor-color-selector2-yellow = ਪੀਲਾ
+    .title = ਪੀਲਾ
+tab-group-editor-color-selector2-pink = ਗੁਲਾਬੀ
+    .title = ਗੁਲਾਬੀ
+tab-group-editor-color-selector2-green = ਹਰਾ
+    .title = ਹਰਾ
+tab-group-editor-color-selector2-gray = ਸਲੇਟੀ
+    .title = ਸਲੇਟੀ
+tab-group-editor-color-selector2-red = ਲਾਲ
+    .title = ਲਾਲ
 tab-group-menu-header = ਟੈਬ ਗਰੁੱਪ
 tab-context-unnamed-group =
     .label = ਬੇਨਾਮਾ ਗਰੁੱਪ

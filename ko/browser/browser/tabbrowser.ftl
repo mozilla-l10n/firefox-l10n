@@ -164,6 +164,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
     .label = 전체 탭 { $tabCount }개 목록
 
 ## Tab manager menu buttons
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
 
 tabbrowser-manager-mute-tab =
     .tooltiptext = 탭 음소거
@@ -184,15 +187,24 @@ tab-group-editor-cancel =
     .accesskey = C
 tab-group-editor-color-selector =
     .aria-label = 탭 그룹 색상
-tab-group-editor-color-selector-blue = 파란색
-tab-group-editor-color-selector-purple = 보라색
-tab-group-editor-color-selector-cyan = 청록색
-tab-group-editor-color-selector-orange = 주황색
-tab-group-editor-color-selector-yellow = 노란색
-tab-group-editor-color-selector-pink = 분홍색
-tab-group-editor-color-selector-green = 초록색
-tab-group-editor-color-selector-gray = 회색
-tab-group-editor-color-selector-red = 빨간색
+tab-group-editor-color-selector2-blue = 파란색
+    .title = 파란색
+tab-group-editor-color-selector2-purple = 보라색
+    .title = 보라색
+tab-group-editor-color-selector2-cyan = 청록색
+    .title = 청록색
+tab-group-editor-color-selector2-orange = 주황색
+    .title = 주황색
+tab-group-editor-color-selector2-yellow = 노란색
+    .title = 노란색
+tab-group-editor-color-selector2-pink = 분홍색
+    .title = 분홍색
+tab-group-editor-color-selector2-green = 초록색
+    .title = 초록색
+tab-group-editor-color-selector2-gray = 회색
+    .title = 회색
+tab-group-editor-color-selector2-red = 빨간색
+    .title = 빨간색
 tab-group-menu-header = 탭 그룹
 tab-context-unnamed-group =
     .label = 익명 그룹
