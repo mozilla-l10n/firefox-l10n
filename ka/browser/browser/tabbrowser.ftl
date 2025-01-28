@@ -192,6 +192,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
     .label = ყველა ({ $tabCount }) ჩანართი
 
 ## Tab manager menu buttons
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
 
 tabbrowser-manager-mute-tab =
     .tooltiptext = ჩანართის დადუმება
@@ -212,15 +215,6 @@ tab-group-editor-cancel =
     .accesskey = ქ
 tab-group-editor-color-selector =
     .aria-label = ჩანართის ჯგუფის ფერი
-tab-group-editor-color-selector-blue = ლურჯი
-tab-group-editor-color-selector-purple = იისფერი
-tab-group-editor-color-selector-cyan = მოცისფრო
-tab-group-editor-color-selector-orange = ნარინჯისფერი
-tab-group-editor-color-selector-yellow = ყვითელი
-tab-group-editor-color-selector-pink = ვარდისფერი
-tab-group-editor-color-selector-green = მწვანე
-tab-group-editor-color-selector-gray = რუხი
-tab-group-editor-color-selector-red = წითელი
 tab-group-menu-header = ჩანართის ჯგუფები
 tab-context-unnamed-group =
     .label = უსახელო ჯგუფი
