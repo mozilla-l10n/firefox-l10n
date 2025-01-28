@@ -16,6 +16,12 @@ preonboarding-terms-of-use-header-button-title = קריאת תנאי השימו�
 preonboarding-privacy-notice-header-button-title = קריאת הצהרת הפרטיות שלנו
 # Label for header style button that toggles showing the data preference checklist
 preonboarding-manage-data-header-button-title = ניהול נתוני אבחון ונתוני אינטראקציה
+# Label for header style button that toggles showing the Terms of Use (Variant B)
+preonboarding-terms-of-use-header-button-title-b = תנאי השימוש של { -brand-product-name }
+# Label for header style button that toggles showing the Privacy Notice (Variant B)
+preonboarding-privacy-notice-header-button-title-b = הצהרת הפרטיות של { -brand-product-name }
+# Description under label for header style buttons
+preonboarding-header-button-description = מידע נוסף
 # New user onboarding checklist
 preonboarding-checklist-interaction-data-label = שליחת נתונים טכניים ונתוני אינטראקציה אל { -vendor-short-name }
 preonboarding-checklist-interaction-data-description = נתונים על המכשיר שלך, תצורת החומרה והאופן שבו { -brand-product-name } משמש אותך עוזרים לשפר את היכולות, הביצועים והיציבות עבור משתמשים בכל מקום.

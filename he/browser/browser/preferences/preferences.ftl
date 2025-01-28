@@ -1321,9 +1321,12 @@ collection-health-report-link = מידע נוסף
 collection-health-report-description = זה מסייע לנו לשפר את היכולות, הביצועים והיציבות של { -brand-product-name }.
 collection-studies2 =
     .label = התקנה והרצת מחקרים
+collection-studies-description = נסו תכונות ורעיונות לפני שהם משוחררים לכולם.
 collection-studies =
     .label = לאפשר ל־{ -brand-short-name } להתקין ולהריץ מחקרים
 collection-studies-link = הצגת המחקרים של { -brand-short-name }
+addon-recommendations2 =
+    .label = לאפשר המלצות מותאמות אישית על הרחבות
 addon-recommendations-description = קבלת המלצות על הרחבות לשיפור חווית הגלישה שלך.
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
