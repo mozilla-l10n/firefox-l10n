@@ -196,6 +196,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
         }
 
 ## Tab manager menu buttons
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
 
 tabbrowser-manager-mute-tab =
     .tooltiptext = Slökkva á hljóði í flipa
@@ -216,15 +219,24 @@ tab-group-editor-cancel =
     .accesskey = H
 tab-group-editor-color-selector =
     .aria-label = Litur flipahóps
-tab-group-editor-color-selector-blue = Blátt
-tab-group-editor-color-selector-purple = Fjólublátt
-tab-group-editor-color-selector-cyan = Blágrænt
-tab-group-editor-color-selector-orange = Appelsínugult
-tab-group-editor-color-selector-yellow = Gult
-tab-group-editor-color-selector-pink = Bleikt
-tab-group-editor-color-selector-green = Grænt
-tab-group-editor-color-selector-gray = Grátt
-tab-group-editor-color-selector-red = Rautt
+tab-group-editor-color-selector2-blue = Blátt
+    .title = Blátt
+tab-group-editor-color-selector2-purple = Fjólublátt
+    .title = Fjólublátt
+tab-group-editor-color-selector2-cyan = Blágrænt
+    .title = Blágrænt
+tab-group-editor-color-selector2-orange = Appelsínugult
+    .title = Appelsínugult
+tab-group-editor-color-selector2-yellow = Gult
+    .title = Gult
+tab-group-editor-color-selector2-pink = Bleikt
+    .title = Bleikt
+tab-group-editor-color-selector2-green = Grænt
+    .title = Grænt
+tab-group-editor-color-selector2-gray = Grátt
+    .title = Grátt
+tab-group-editor-color-selector2-red = Rautt
+    .title = Rautt
 tab-group-menu-header = Flipahópar
 tab-context-unnamed-group =
     .label = Ónefndur hópur
