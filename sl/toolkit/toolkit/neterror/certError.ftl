@@ -134,6 +134,7 @@ contentEncodingError-title = Napaka pri kodiranju vsebine
 unsafeContentType-title = Nevarna vrsta datoteke
 netReset-title = Povezava je bila ponastavljena
 netTimeout-title = Dovoljeni čas pretekel
+httpErrorPage-title = Na tem spletnem mestu se je pojavila težava
 serverError-title = Na tem spletnem mestu se je pojavila težava
 unknownProtocolFound-title = Naslova ni bilo mogoče razumeti
 proxyConnectFailure-title = Posrednik zavrača povezave

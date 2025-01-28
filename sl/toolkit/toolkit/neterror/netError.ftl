@@ -44,6 +44,7 @@ neterror-load-error-connection = Če ne uspete naložiti nobene strani, preverit
 neterror-load-error-firewall = Če uporabljate posrednika ali požarni zid, se prepričajte, da ima { -brand-short-name } dovoljenja za dostop do spleta.
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Če poskušate naložiti stran lokalnega omrežja, preverite, ali ima { -brand-short-name } v nastavitvah zasebnosti in varnosti sistema macOS dovoljenja za lokalno omrežje.
+neterror-http-error-page = Preverite, ali ste naslov spletnega mesta vnesli pravilno.
 neterror-captive-portal = Za dostop do interneta se morate prijaviti v to omrežje.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -99,6 +100,9 @@ neterror-proxy-connect-failure-settings = Preverite nastavitve posrednika in se 
 neterror-proxy-connect-failure-contact-admin = Pri skrbniku svojega omrežja preverite, da posrednik deluje.
 neterror-content-encoding-error = O napaki obvestite lastnike spletnega mesta.
 neterror-unsafe-content-type = O napaki obvestite lastnike spletnega mesta.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-basic-http-auth = { -brand-short-name } ne zaupa spletnemu mestu { $hostname }, ker povezava ni zavarovana. Poskusite začetek spletnega naslova spremeniti v HTTPS.
 neterror-nss-failure-not-verified = Strani, ki si jo želite ogledati, ni mogoče prikazati, ker ni mogoče preveriti pristnosti sprejetih podatkov.
 neterror-nss-failure-contact-website = O napaki obvestite lastnike spletnega mesta.
 # Variables:
