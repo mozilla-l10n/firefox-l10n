@@ -134,6 +134,7 @@ contentEncodingError-title = Kodningsfel av innehållet
 unsafeContentType-title = Osäker filtyp
 netReset-title = Anslutningen avbröts
 netTimeout-title = Anslutningen avbröts
+httpErrorPage-title = Det verkar finnas ett problem med den här sidan
 serverError-title = Det verkar finnas ett problem med den här sidan
 unknownProtocolFound-title = Adressen kan inte tolkas
 proxyConnectFailure-title = Proxyservern avvisar anslutningen

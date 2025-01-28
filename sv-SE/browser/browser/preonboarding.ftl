@@ -16,6 +16,12 @@ preonboarding-terms-of-use-header-button-title = Läs våra användarvillkor
 preonboarding-privacy-notice-header-button-title = Läs vårt sekretessmeddelande
 # Label for header style button that toggles showing the data preference checklist
 preonboarding-manage-data-header-button-title = Hantera diagnostik- och interaktionsdata
+# Label for header style button that toggles showing the Terms of Use (Variant B)
+preonboarding-terms-of-use-header-button-title-b = Användarvillkor för { -brand-product-name }
+# Label for header style button that toggles showing the Privacy Notice (Variant B)
+preonboarding-privacy-notice-header-button-title-b = { -brand-product-name } sekretesspolicy
+# Description under label for header style buttons
+preonboarding-header-button-description = Läs mer
 # New user onboarding checklist
 preonboarding-checklist-interaction-data-label = Skicka teknisk data och interaktionsdata till { -vendor-short-name }
 preonboarding-checklist-interaction-data-description = Data om din enhet, hårdvarukonfiguration och hur du använder { -brand-product-name } hjälper till att förbättra funktioner, prestanda och stabilitet för användare överallt.
