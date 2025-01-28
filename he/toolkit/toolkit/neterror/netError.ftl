@@ -44,6 +44,7 @@ neterror-load-error-connection = אם אינך מצליח לטעון שום דף
 neterror-load-error-firewall = אם המחשב או הרשת שלך מוגנים באמצעות חומת אש או שרת מתווך, יש לוודא כי { -brand-short-name } מורשה לגישה לרשת.
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = אם הינך מנסה לטעון דף אינטרנט מקומי, נא לבדוק של־{ -brand-short-name } הוענקה הרשאות לרשת המקומית בהגדרות הפרטיות והאבטחה של macOS.
+neterror-http-error-page = כדאי לבדוק שהקלדת את כתובת האתר בצורה נכונה.
 neterror-captive-portal = עליך להתחבר לרשת זו כדי לגלוש באינטרנט.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -99,6 +100,9 @@ neterror-proxy-connect-failure-settings = נא לבדוק כי הגדרות הש
 neterror-proxy-connect-failure-contact-admin = נא ליצור קשר עם מנהל הרשת שלך כדי לוודא כי השרת המתווך מתפקד.
 neterror-content-encoding-error = נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.
 neterror-unsafe-content-type = נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-basic-http-auth = ‏{ -brand-short-name } אינו נותן אמון ב־{ $hostname } מכיוון שהחיבור אינו מאובטח. ניתן לנסות לשנות את כתובת האתר ל־HTTPS.
 neterror-nss-failure-not-verified = לא ניתן להציג את הדף המבוקש מכיוון שאין אפשרות לאמת את אמינות הנתונים שהתקבלו.
 neterror-nss-failure-contact-website = נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.
 # Variables:

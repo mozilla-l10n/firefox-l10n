@@ -134,6 +134,7 @@ contentEncodingError-title = שגיאה בקידוד תוכן
 unsafeContentType-title = סוג קובץ מסוכן
 netReset-title = החיבור הופסק
 netTimeout-title = תם הזמן המוקצב לחיבור
+httpErrorPage-title = נראה שיש בעיה באתר הזה
 serverError-title = נראה שיש בעיה באתר הזה
 unknownProtocolFound-title = כתובת זו אינה מובנת
 proxyConnectFailure-title = השרת המתווך דחה את ההתחברות
