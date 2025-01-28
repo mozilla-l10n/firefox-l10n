@@ -130,6 +130,10 @@ sidebar-menu-close-ai-chatbot-tooltip = Пӯшидани чат-боти зеҳ�
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
+sidebar-menu-open-ai-chatbot-tooltip-generic = Кушодани чат-боти зеҳни сунъӣ «AI» ({ $shortcut })
+sidebar-menu-open-ai-chatbot-provider-tooltip = Кушодани «{ $provider }» ({ $shortcut })
+sidebar-menu-close-ai-chatbot-tooltip-generic = Пӯшидани чат-боти зеҳни сунъӣ «AI» ({ $shortcut })
+sidebar-menu-close-ai-chatbot-provider-tooltip = Пӯшидани «{ $provider }» ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 

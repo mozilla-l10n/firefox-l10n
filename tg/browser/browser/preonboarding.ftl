@@ -16,6 +16,12 @@ preonboarding-terms-of-use-header-button-title = Шартҳои моро бар�
 preonboarding-privacy-notice-header-button-title = Огоҳномаи махфияти моро хонед
 # Label for header style button that toggles showing the data preference checklist
 preonboarding-manage-data-header-button-title = Идоракунии маълумоти ташхисӣ ва ҳамкорӣ
+# Label for header style button that toggles showing the Terms of Use (Variant B)
+preonboarding-terms-of-use-header-button-title-b = Шартҳои истифодаи «{ -brand-product-name }»
+# Label for header style button that toggles showing the Privacy Notice (Variant B)
+preonboarding-privacy-notice-header-button-title-b = Огоҳномаи махфияти «{ -brand-product-name }»
+# Description under label for header style buttons
+preonboarding-header-button-description = Бештар хондан
 # New user onboarding checklist
 preonboarding-checklist-interaction-data-label = Фиристодани маълумоти техникӣ ва ҳамкорӣ ба «{ -vendor-short-name }»
 preonboarding-checklist-interaction-data-description = Маълумот дар бораи дастгоҳи шумо, танзимоти сахтафзор ва тарзи истифодаи «{ -brand-product-name }» барои беҳтар кардани хусусиятҳо, самаранокӣ ва устуворӣ барои ҳамаи корбарони браузер новобаста аз ҷойгиршавӣ кумак мекунад.
