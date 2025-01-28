@@ -197,6 +197,18 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Lyd på i fane
 tabbrowser-manager-close-tab =
     .tooltiptext = Lat att fane
+# This is for tab groups that have been "saved and closed" (see tab-group-editor-action-save). It does
+# not include "deleted" tab groups (see tab-group-editor-action-delete).
+tabbrowser-manager-closed-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — Attlaten
+tabbrowser-manager-current-window-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — Gjeldande vindauge
+# "Show more" is for showing all open groups from other windows, as well as saved groups. Initially,
+# we only show up to six of these groups.
+tabbrowser-manager-tab-groups-show-more =
+    .label = Vis meir
 
 ## Tab Groups
 
@@ -208,6 +220,8 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Avbryt
     .accesskey = A
+tab-group-editor-color-selector =
+    .aria-label = Farge på fanegruppe
 tab-group-editor-color-selector2-blue = Blå
     .title = Blå
 tab-group-editor-color-selector2-purple = Lilla
@@ -228,6 +242,20 @@ tab-group-name-default = Namnlaus gruppe
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Legg til fane i ny gruppe
+           *[other] Add Tabs to New Group
+        }
+    .accesskey = g
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Legg til fane i gruppe
+           *[other] Add Tabs to Group
+        }
+    .accesskey = g
 tab-group-editor-action-new-tab =
     .label = Ny fane i gruppe
 tab-group-editor-action-new-window =
