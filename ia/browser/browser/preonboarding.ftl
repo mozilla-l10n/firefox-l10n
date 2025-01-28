@@ -16,6 +16,12 @@ preonboarding-terms-of-use-header-button-title = Leger nostre Conditiones de uso
 preonboarding-privacy-notice-header-button-title = Lege nostre aviso de confidentialitate
 # Label for header style button that toggles showing the data preference checklist
 preonboarding-manage-data-header-button-title = Gerer datos diagnostic e de interaction
+# Label for header style button that toggles showing the Terms of Use (Variant B)
+preonboarding-terms-of-use-header-button-title-b = Conditiones de uso de { -brand-product-name }
+# Label for header style button that toggles showing the Privacy Notice (Variant B)
+preonboarding-privacy-notice-header-button-title-b = Aviso de confidentialitate de { -brand-product-name }
+# Description under label for header style buttons
+preonboarding-header-button-description = Pro leger plus
 # New user onboarding checklist
 preonboarding-checklist-interaction-data-label = Inviar datos technic e de interaction a { -vendor-short-name }
 preonboarding-checklist-interaction-data-description = Le datos re tu apparato, le configuration hardware, e tu uso de { -brand-product-name } adjuta a meliorar le functiones, le prestationes, e le stabilitate pro le usatores ubique.

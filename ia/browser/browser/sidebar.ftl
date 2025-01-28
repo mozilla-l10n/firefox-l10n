@@ -130,6 +130,7 @@ sidebar-menu-close-ai-chatbot-tooltip = Clauder AI chatbot
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
+sidebar-menu-close-ai-chatbot-provider-tooltip = Clauder { $provider } ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 
