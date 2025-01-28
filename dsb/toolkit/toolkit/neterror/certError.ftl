@@ -134,6 +134,7 @@ contentEncodingError-title = Zmólka pśi koděrowanju wopśimjeśa
 unsafeContentType-title = Njewěsty datajowy typ
 netReset-title = Zwisk jo se slědk stajił
 netTimeout-title = Zwisk jo cas pśekšocył
+httpErrorPage-title = Zda se, až jo problem z toś tym sedłom
 serverError-title = Zda se, až jo problem z toś tym sedłom
 unknownProtocolFound-title = Adresa njejo se zrozměła
 proxyConnectFailure-title = Proksy-serwer wótpokazujo zwiski

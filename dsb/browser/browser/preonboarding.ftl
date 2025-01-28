@@ -16,6 +16,12 @@ preonboarding-terms-of-use-header-button-title = Cytajśo naše wužywańske wum
 preonboarding-privacy-notice-header-button-title = Cytajśo našu powěźeńku priwatnosći
 # Label for header style button that toggles showing the data preference checklist
 preonboarding-manage-data-header-button-title = Diagnostiske daty a daty interakcije zastojaś
+# Label for header style button that toggles showing the Terms of Use (Variant B)
+preonboarding-terms-of-use-header-button-title-b = Wužywańske wuměnjenja { -brand-product-name }
+# Label for header style button that toggles showing the Privacy Notice (Variant B)
+preonboarding-privacy-notice-header-button-title-b = Powěźeńka priwatnosći { -brand-product-name }
+# Description under label for header style buttons
+preonboarding-header-button-description = Dalšne informacije
 # New user onboarding checklist
 preonboarding-checklist-interaction-data-label = Techniske daty a daty interakcije na { -vendor-short-name } pósłaś
 preonboarding-checklist-interaction-data-description = Daty wó wašom rěźe, wašej hardwarowej konfiguraciji a wó tom, kak { -brand-product-name } wužywaśo, wšuźi pomagaju, funkcije, wugbaśe a stabilnosć za wužywarjow pólěpšyś.

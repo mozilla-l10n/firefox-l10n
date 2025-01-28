@@ -446,6 +446,8 @@ onboarding-checklist-sign-up = Registrěrujśo se abo pśizjawśo se pla swójog
 
 tab-groups-onboarding-feature-callout-title = Wopytajśo kupki rejtarikow za mjenjej njepórěda a wěcej fokusa
 tab-groups-onboarding-feature-callout-subtitle = Organizěrujśo se, śěgniśo jaden rejtarik górjejce na drugi, aby wašu prědnu kupku napórał.
+tab-groups-onboarding-saved-groups-title = Jolic kupku rejtarikow zacynjaśo, móžośo ju how kuždy cas zasej wócyniś.
+tab-groups-onboarding-dismiss = W pórěźe
 
 ## Multi Profiles feature onboarding messages
 
