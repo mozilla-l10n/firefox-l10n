@@ -415,6 +415,8 @@ onboarding-checklist-sign-up = Registrer deg eller logg inn på kontoen din
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-feature-callout-title = Prøv fanegrupper for mindre rot, og meir fokus
+tab-groups-onboarding-feature-callout-subtitle = Bli organisert ved å dra ei fane oppå ei anna for å opprette den første gruppa di.
 
 ## Multi Profiles feature onboarding messages
 
