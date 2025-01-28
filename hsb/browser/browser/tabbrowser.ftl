@@ -234,6 +234,18 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Zněmjenje rajtarka anulować
 tabbrowser-manager-close-tab =
     .tooltiptext = Rajtark začinić
+# This is for tab groups that have been "saved and closed" (see tab-group-editor-action-save). It does
+# not include "deleted" tab groups (see tab-group-editor-action-delete).
+tabbrowser-manager-closed-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } – Začinjeny
+tabbrowser-manager-current-window-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } – Aktualne wokno
+# "Show more" is for showing all open groups from other windows, as well as saved groups. Initially,
+# we only show up to six of these groups.
+tabbrowser-manager-tab-groups-show-more =
+    .label = Wjace pokazać
 
 ## Tab Groups
 

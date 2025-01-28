@@ -446,6 +446,7 @@ onboarding-checklist-sign-up = Registrujće so abo přizjewće so pola swojeho k
 
 tab-groups-onboarding-feature-callout-title = Wupruwujće skupiny rajtarkow za mjenje njeporjada a wjace fokusa
 tab-groups-onboarding-feature-callout-subtitle = Organizujće so, ćehńće jedyn rajtark horjeka na druhi, zo byšće wašu prěnju skupinu wutworił.
+tab-groups-onboarding-dismiss = W porjadku
 
 ## Multi Profiles feature onboarding messages
 
