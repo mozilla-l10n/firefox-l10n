@@ -224,6 +224,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
         }
 
 ## Tab manager menu buttons
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
 
 tabbrowser-manager-mute-tab =
     .tooltiptext = Rajark zněmić
@@ -244,15 +247,6 @@ tab-group-editor-cancel =
     .accesskey = P
 tab-group-editor-color-selector =
     .aria-label = Barba skupiny rajtarkow
-tab-group-editor-color-selector-blue = Módry
-tab-group-editor-color-selector-purple = Purpurny
-tab-group-editor-color-selector-cyan = Cyan
-tab-group-editor-color-selector-orange = Oranžowy
-tab-group-editor-color-selector-yellow = Žołty
-tab-group-editor-color-selector-pink = Pink
-tab-group-editor-color-selector-green = Zeleny
-tab-group-editor-color-selector-gray = Šěry
-tab-group-editor-color-selector-red = Čerwjeny
 tab-group-menu-header = Skupiny rajtarkow
 tab-context-unnamed-group =
     .label = Skupina bjez mjena
