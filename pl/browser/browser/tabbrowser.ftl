@@ -214,6 +214,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
         }
 
 ## Tab manager menu buttons
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
 
 tabbrowser-manager-mute-tab =
     .tooltiptext = Wycisz kartę
@@ -234,15 +237,6 @@ tab-group-editor-cancel =
     .accesskey = A
 tab-group-editor-color-selector =
     .aria-label = Kolor grupy kart
-tab-group-editor-color-selector-blue = Niebieski
-tab-group-editor-color-selector-purple = Fioletowy
-tab-group-editor-color-selector-cyan = Turkusowy
-tab-group-editor-color-selector-orange = Pomarańczowy
-tab-group-editor-color-selector-yellow = Żółty
-tab-group-editor-color-selector-pink = Różowy
-tab-group-editor-color-selector-green = Zielony
-tab-group-editor-color-selector-gray = Szary
-tab-group-editor-color-selector-red = Czerwony
 tab-group-menu-header = Grupy kart
 tab-context-unnamed-group =
     .label = Grupa bez nazwy
