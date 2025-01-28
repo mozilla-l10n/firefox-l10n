@@ -44,6 +44,7 @@ neterror-load-error-connection = Als u geen enkele pagina kunt laden, controleer
 neterror-load-error-firewall = Als uw computer of netwerk wordt beveiligd door een firewall of proxy, zorg er dan voor dat { -brand-short-name } toegang heeft tot het web.
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Als u een lokale netwerkpagina probeert te laden, controleer dan in de privacy- en beveiligingsinstellingen van macOS of { -brand-short-name } toestemming heeft voor een Lokaal netwerk.
+neterror-http-error-page = Controleer of u het websiteadres juist hebt ingetypt.
 neterror-captive-portal = U moet zich aanmelden bij dit netwerk voordat u toegang hebt tot het internet.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -99,6 +100,9 @@ neterror-proxy-connect-failure-settings = Controleer of uw proxyinstellingen jui
 neterror-proxy-connect-failure-contact-admin = Neem contact op met uw netwerkbeheerder om te controleren of de proxyserver werkt.
 neterror-content-encoding-error = Neem contact op met de website-eigenaars om ze over dit probleem te informeren.
 neterror-unsafe-content-type = Neem contact op met de website-eigenaars om ze over dit probleem te informeren.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-basic-http-auth = { -brand-short-name } vertrouwt { $hostname } niet, omdat de verbinding niet is beveiligd. Probeer de URL naar HTTPS te wijzigen.
 neterror-nss-failure-not-verified = De pagina die u wilt bekijken kan niet worden weergegeven, omdat de echtheid van de ontvangen gegevens niet kon worden geverifieerd.
 neterror-nss-failure-contact-website = Neem contact op met de website-eigenaars om ze over dit probleem te informeren.
 # Variables:

@@ -202,6 +202,14 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Ljepblêd dôvje opheffe
 tabbrowser-manager-close-tab =
     .tooltiptext = Ljepblêd slute
+# This is for tab groups that have been "saved and closed" (see tab-group-editor-action-save). It does
+# not include "deleted" tab groups (see tab-group-editor-action-delete).
+tabbrowser-manager-closed-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } – Sluten
+tabbrowser-manager-current-window-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } – Aktueel finster
 
 ## Tab Groups
 

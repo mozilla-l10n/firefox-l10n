@@ -134,6 +134,7 @@ contentEncodingError-title = Inhoudcoderingsfout
 unsafeContentType-title = Onveilig bestandstype
 netReset-title = De verbinding werd geherinitialiseerd
 netTimeout-title = De wachttijd voor de verbinding is verstreken
+httpErrorPage-title = Het lijkt erop dat er een probleem met deze website is
 serverError-title = Het lijkt erop dat er een probleem met deze website is
 unknownProtocolFound-title = Het adres werd niet begrepen
 proxyConnectFailure-title = De proxyserver weigert verbindingen

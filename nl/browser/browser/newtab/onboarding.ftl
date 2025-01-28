@@ -446,6 +446,8 @@ onboarding-checklist-sign-up = Registreren of aanmelden bij uw account
 
 tab-groups-onboarding-feature-callout-title = Probeer tabbladgroepen voor minder rommel, meer focus
 tab-groups-onboarding-feature-callout-subtitle = Orden door het ene tabblad op het andere te slepen om uw eerste groep aan te maken.
+tab-groups-onboarding-saved-groups-title = Als u een tabbladgroep sluit, kunt u deze hier altijd opnieuw openen.
+tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages
 

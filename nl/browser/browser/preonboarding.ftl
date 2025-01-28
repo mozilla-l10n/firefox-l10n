@@ -16,6 +16,12 @@ preonboarding-terms-of-use-header-button-title = Onze Gebruiksvoorwaarden lezen
 preonboarding-privacy-notice-header-button-title = Onze Privacyverklaring lezen
 # Label for header style button that toggles showing the data preference checklist
 preonboarding-manage-data-header-button-title = Diagnostische en interactiegegevens beheren
+# Label for header style button that toggles showing the Terms of Use (Variant B)
+preonboarding-terms-of-use-header-button-title-b = { -brand-product-name }-gebruiksvoorwaarden
+# Label for header style button that toggles showing the Privacy Notice (Variant B)
+preonboarding-privacy-notice-header-button-title-b = { -brand-product-name }-privacyverklaring
+# Description under label for header style buttons
+preonboarding-header-button-description = Meer info
 # New user onboarding checklist
 preonboarding-checklist-interaction-data-label = Technische en interactiegegevens naar { -vendor-short-name } verzenden
 preonboarding-checklist-interaction-data-description = Gegevens over uw apparaat, hardwareconfiguratie en hoe u { -brand-product-name } gebruikt helpen bij het verbeteren van functies, prestaties en stabiliteit voor gebruikers overal.
