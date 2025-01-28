@@ -192,6 +192,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
     .label = List All { $tabCount } Tabs
 
 ## Tab manager menu buttons
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
 
 tabbrowser-manager-mute-tab =
     .tooltiptext = Mute tab
@@ -212,15 +215,6 @@ tab-group-editor-cancel =
     .accesskey = C
 tab-group-editor-color-selector =
     .aria-label = Tab group colour
-tab-group-editor-color-selector-blue = Blue
-tab-group-editor-color-selector-purple = Purple
-tab-group-editor-color-selector-cyan = Cyan
-tab-group-editor-color-selector-orange = Orange
-tab-group-editor-color-selector-yellow = Yellow
-tab-group-editor-color-selector-pink = Pink
-tab-group-editor-color-selector-green = Green
-tab-group-editor-color-selector-gray = Grey
-tab-group-editor-color-selector-red = Red
 tab-group-menu-header = Tab groups
 tab-context-unnamed-group =
     .label = Unnamed group
