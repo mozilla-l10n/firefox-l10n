@@ -100,6 +100,9 @@ neterror-proxy-connect-failure-settings = 請檢查 Proxy 設定是否正確。
 neterror-proxy-connect-failure-contact-admin = 與您的網路管理員聯絡，確定 Proxy 伺服器正常運作。
 neterror-content-encoding-error = 請向網站擁有者回報此問題。
 neterror-unsafe-content-type = 請向網站擁有者回報此問題。
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-basic-http-auth = 由於連線不安全，{ -brand-short-name } 無法信任 { $hostname }。可將網址更改為 HTTPS 網址再試試看。
 neterror-nss-failure-not-verified = 因為無法驗證已接收資料的真實性，無法顯示您嘗試檢視的頁面。
 neterror-nss-failure-contact-website = 請向網站擁有者回報此問題。
 # Variables:
