@@ -18,5 +18,6 @@ preonboarding-privacy-notice-header-button-title = Lege nostre aviso de confiden
 preonboarding-manage-data-header-button-title = Gerer datos diagnostic e de interaction
 # New user onboarding checklist
 preonboarding-checklist-interaction-data-label = Inviar datos technic e de interaction a { -vendor-short-name }
+preonboarding-checklist-interaction-data-description = Le datos re tu apparato, le configuration hardware, e tu uso de { -brand-product-name } adjuta a meliorar le functiones, le prestationes, e le stabilitate pro le usatores ubique.
 preonboarding-checklist-crash-reports-label = Automaticamente inviar reportos de crash
 preonboarding-checklist-crash-reports-description = Le reportos de crash nos permitte de diagnosticar e corriger problemas del navigator, ma pote includer datos personal o sensibile.
