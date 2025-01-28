@@ -134,6 +134,7 @@ contentEncodingError-title = Errore di codifica del contenuto
 unsafeContentType-title = Tipo di file non sicuro
 netReset-title = La connessione è stata annullata
 netTimeout-title = Tempo per la connessione esaurito
+httpErrorPage-title = Sembra che ci sia un problema con questo sito
 serverError-title = Sembra che ci sia un problema con questo sito
 unknownProtocolFound-title = Indirizzo non interpretabile
 proxyConnectFailure-title = Connessione rifiutata dal server proxy
@@ -166,5 +167,5 @@ fp-certerror-hide-advanced-button = Nascondi avanzate
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-certerror-override-exception-button = Procedi su { $hostname } (rischioso)
-fp-certerror-intro = { -brand-short-name } ha rilevato un potenziale problema di sicurezza con <strong>{ $hostname }</strong>. Un soggetto che finge di essere il sito potrebbe tentare di rubare informazioni su carte di credito, password o email.
+fp-certerror-intro = { -brand-short-name } ha rilevato un potenziale problema di sicurezza con <strong>{ $hostname }</strong>. Un soggetto che finge di essere il sito potrebbe cercare di rubare informazioni su carte di credito, password o email.
 fp-certerror-expired-into = { -brand-short-name } ha rilevato un problema di sicurezza con <strong>{ $hostname }</strong>. Il sito non è configurato correttamente o l’orologio del dispositivo è impostato su una data/ora sbagliata.
