@@ -221,6 +221,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
         }
 
 ## Tab manager menu buttons
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
 
 tabbrowser-manager-mute-tab =
     .tooltiptext = Utišaj zavihek
@@ -241,15 +244,6 @@ tab-group-editor-cancel =
     .accesskey = P
 tab-group-editor-color-selector =
     .aria-label = Barva skupine zavihkov
-tab-group-editor-color-selector-blue = Modra
-tab-group-editor-color-selector-purple = Vijolična
-tab-group-editor-color-selector-cyan = Cian
-tab-group-editor-color-selector-orange = Oranžna
-tab-group-editor-color-selector-yellow = Rumena
-tab-group-editor-color-selector-pink = Roza
-tab-group-editor-color-selector-green = Zelena
-tab-group-editor-color-selector-gray = Siva
-tab-group-editor-color-selector-red = Rdeča
 tab-group-menu-header = Skupine zavihkov
 tab-context-unnamed-group =
     .label = Neimenovana skupina
