@@ -16,6 +16,12 @@ preonboarding-terms-of-use-header-button-title = 閱讀我們的使用條款
 preonboarding-privacy-notice-header-button-title = 閱讀我們的隱私權公告
 # Label for header style button that toggles showing the data preference checklist
 preonboarding-manage-data-header-button-title = 管理除錯用與互動資料
+# Label for header style button that toggles showing the Terms of Use (Variant B)
+preonboarding-terms-of-use-header-button-title-b = { -brand-product-name } 使用條款
+# Label for header style button that toggles showing the Privacy Notice (Variant B)
+preonboarding-privacy-notice-header-button-title-b = { -brand-product-name } 隱私權公告
+# Description under label for header style buttons
+preonboarding-header-button-description = 閱讀更多
 # New user onboarding checklist
 preonboarding-checklist-interaction-data-label = 傳送技術與互動資料給 { -vendor-short-name }
 preonboarding-checklist-interaction-data-description = 關於您的裝置、硬體設定，以及您如何使用 { -brand-product-name } 的方式，可幫助我們為所有使用者改進功能、效能與穩定度。
