@@ -38,7 +38,7 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = തീരപ്പട്ട വിപുലീകരണങ്ങൾ
+sidebar-customize-extensions-header = അണിവക്ക വിപുലീകരണങ്ങൾ
 sidebar-customize-firefox-tools-header =
     .label = { -brand-product-name } കരുകൾ
 sidebar-position-left =
@@ -48,13 +48,13 @@ sidebar-position-right =
 sidebar-customize-tabs-header =
     .label = ടാബു് ക്രമീകരണങ്ങൾ
 sidebar-customize-button-header =
-    .label = തീരപ്പട്ട ബട്ടൺ
+    .label = അണിവക്ക ബട്ടൺ
 sidebar-customize-position-header =
-    .label = തീരപ്പട്ടസ്ഥാനം
+    .label = അണിവക്കസ്ഥാനം
 sidebar-visibility-setting-always-show =
-    .label = തീരപ്പട്ടയെ വലുതാക്കാണും ചുരുക്കാണും പറ്റണം
+    .label = അണിവക്കമിനെ വലുതാക്കാണും ചുരുക്കാണും പറ്റണം
 sidebar-visibility-setting-hide-sidebar =
-    .label = തീരപ്പട്ടയെ കാണിക്കാനും ഒളിപ്പിക്കാനും പറ്റണം
+    .label = അണിവക്കമിനെ കാണിക്കാനും ഒളിപ്പിക്കാനും പറ്റണം
 
 ## Labels for sidebar context menu items
 
@@ -91,7 +91,7 @@ sidebar-menu-synced-tabs-label =
 sidebar-menu-bookmarks-label =
     .label = അടയാളക്കുറിപ്പുകള്‍
 sidebar-menu-customize-label =
-    .label = തീരപ്പട്ട ഇഷ്ടമ്പോലെയാക്കുക
+    .label = അണിവക്കം ഇഷ്ടമ്പോലെയാക്കുക
 
 ## Tooltips for sidebar menu items.
 
@@ -123,7 +123,7 @@ sidebar-menu-close-ai-chatbot-tooltip = നിൎമിതബുദ്ധി സ
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
-    .heading = തീരപ്പട്ട ഇഷ്ടമ്പോലെയാക്കുക
+    .heading = അണിവക്കത്തിനെ ഇഷ്ടമ്പോലെയാക്കുക
 sidebar-menu-history-header =
     .heading = നാള്‍വഴി
 sidebar-menu-syncedtabs-header =
@@ -133,7 +133,7 @@ sidebar-panel-header-close-button =
 
 ## Titles for sidebar menu panels.
 
-sidebar-customize-title = തീരപ്പട്ട ഇഷ്ടമ്പോലെയാക്കുക
+sidebar-customize-title = അണിവക്കത്തിനെ ഇഷ്ടമ്പോലെയാക്കുക
 sidebar-history-title = നാൾവഴി
 sidebar-syncedtabs-title = മറ്റു് ഉപകരണങ്ങളിൽ നിന്നുള്ള ടാബുകൾ
 
@@ -146,28 +146,13 @@ sidebar-syncedtabs-title = മറ്റു് ഉപകരണങ്ങളിൽ 
 synced-tabs-context-close-tab-title =
     .title = { $deviceName }-ൽ ടാബു് അടയ്ക്കുക
 show-sidebars =
-    .tooltiptext = വശത്തുള്ള തീരപ്പട്ട കാണിക്കുക
-    .label = തീരപ്പട്ടകൾ
+    .tooltiptext = വശത്തുള്ള അണിവക്കം കാണിക്കുക
+    .label = അണിവക്കങ്ങൾ
 
 ## Tooltips for the sidebar toolbar widget.
 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-expand-sidebar2 =
-    .tooltiptext = തീരപ്പട്ട വലുതാക്കുക ({ $shortcut })
-    .label = തീരപ്പട്ടകൾ
-# Variables:
-#   $shortcut (String) - The OS specific keyboard shortcut.
-sidebar-widget-collapse-sidebar2 =
-    .tooltiptext = തീരപ്പട്ട ചുരുക്കുക ({ $shortcut })
-    .label = തീരപ്പട്ടകൾ
-# Variables:
-#   $shortcut (String) - The OS specific keyboard shortcut.
-sidebar-widget-show-sidebar2 =
-    .tooltiptext = തീരപ്പട്ട കാണിക്കുക ({ $shortcut })
-    .label = തീരപ്പട്ടകൾ
-# Variables:
-#   $shortcut (String) - The OS specific keyboard shortcut.
-sidebar-widget-hide-sidebar2 =
-    .tooltiptext = തീരപ്പട്ട ഒളിപ്പിക്കുക ({ $shortcut })
-    .label = തീരപ്പട്ടകൾ
+    .tooltiptext = അണിവക്കം വലുതാക്കുക ({ $shortcut })
+    .label = അണിവക്കങ്ങൾ

@@ -37,7 +37,7 @@ split-dismiss-button-manage-settings-option-label = ക്രമീകരണങ�
 
 ## Sidebar Strings
 
-sidebar-button-callout-title = തീരപ്പട്ടയിൽ ടാബുതലക്കെട്ടുകൾ കാണിക്കുക
+sidebar-button-callout-title = അണിവക്കത്തിൽ ടാബുതലക്കെട്ടുകൾ കാണിക്കുക
 
 ## Sidebar Callout Survey Strings
 

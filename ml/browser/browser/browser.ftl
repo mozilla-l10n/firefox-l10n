@@ -719,8 +719,8 @@ bookmarks-mobile-bookmarks-menu =
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
-            [true] അടയാളക്കുറിപ്പുതീരപ്പട്ട മറയ്ക്കുക
-           *[other] അടയാളക്കുറിപ്പുതീരപ്പട്ട കാഴ്ചപ്പെടുക
+            [true] അടയാളക്കുറിപ്പണിവക്കം മറയ്ക്കുക
+           *[other] അടയാളക്കുറിപ്പണിവക്കം കാഴ്ചപ്പെടുക
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
