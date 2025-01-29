@@ -182,6 +182,10 @@ tabbrowser-manager-closed-tab-group =
 tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — หน้าต่างปัจจุบัน
+# "Show more" is for showing all open groups from other windows, as well as saved groups. Initially,
+# we only show up to six of these groups.
+tabbrowser-manager-tab-groups-show-more =
+    .label = แสดงเพิ่มเติม
 
 ## Tab Groups
 
@@ -195,8 +199,12 @@ tab-group-editor-cancel =
     .accesskey = ย
 tab-group-editor-color-selector =
     .aria-label = สีกลุ่มแท็บ
+tab-group-editor-color-selector2-blue = น้ำเงิน
+    .title = น้ำเงิน
 tab-group-editor-color-selector2-purple = สีม่วง
     .title = สีม่วง
+tab-group-editor-color-selector2-cyan = น้ำเงินเขียว
+    .title = น้ำเงินเขียว
 tab-group-editor-color-selector2-orange = สีส้ม
     .title = สีส้ม
 tab-group-editor-color-selector2-yellow = สีเหลือง

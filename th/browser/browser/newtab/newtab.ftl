@@ -468,6 +468,8 @@ newtab-section-unfollow-button = เลิกติดตาม
 ## e.g. Blocked the politics section of stories.
 
 newtab-section-block-button = ปิดกั้น
+newtab-section-blocked-button = ปิดกั้นแล้ว
+newtab-section-unblock-button = เลิกปิดกั้น
 
 ## Confirmation modal for blocking a section
 
@@ -478,3 +480,10 @@ newtab-section-cancel-button = ยังไม่ทำตอนนี้
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+newtab-section-mangage-topics-title = หัวข้อ
+newtab-section-mangage-topics-button =
+    .label = หัวข้อที่ติดตามและปิดกั้น
+newtab-section-mangage-topics-followed-topics-subtitle = หัวข้อที่ติดตาม
+newtab-section-mangage-topics-followed-topics-empty-state = คุณยังไม่ได้ติดตามหัวข้อใดๆ
+newtab-section-mangage-topics-blocked-topics-subtitle = หัวข้อที่ปิดกั้น
+newtab-section-mangage-topics-blocked-topics-empty-state = คุณยังไม่ได้ปิดกั้นหัวข้อใดๆ
