@@ -20,6 +20,8 @@ preonboarding-manage-data-header-button-title = 진단 및 상호 작용 데이�
 preonboarding-terms-of-use-header-button-title-b = { -brand-product-name } 이용 약관
 # Label for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = { -brand-product-name } 개인정보처리방침
+# Description under label for header style buttons
+preonboarding-header-button-description = 더 알아보기
 # New user onboarding checklist
 preonboarding-checklist-interaction-data-label = { -vendor-short-name }로 기술 및 상호 작용 데이터 보내기
 preonboarding-checklist-interaction-data-description = 기기, 하드웨어 구성 및 { -brand-product-name } 사용 방식에 대한 데이터는 모든 사용자를 위해 기능, 성능, 안정성을 개선하는 데 도움이 됩니다.

@@ -44,6 +44,7 @@ neterror-load-error-connection = 어떤 페이지도 열 수 없다면, 컴퓨�
 neterror-load-error-firewall = 사용자의 컴퓨터나 네트워크가 방화벽 또는 프록시로 보호되고 있다면, { -brand-short-name }가 웹에 접근할 수 있도록 허용되어 있는지 확인해 보세요.
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = 로컬 네트워크 페이지를 로드하려고 하는 경우, macOS 개인정보 보호 및 보안 설정에서 { -brand-short-name }에 로컬 네트워크 권한이 부여되었는지 확인하세요.
+neterror-http-error-page = 웹 사이트 주소를 올바르게 입력했는지 확인하세요.
 neterror-captive-portal = 인터넷을 사용하기 위해서 반드시 이 네트워크에 로그인해야 합니다.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -99,6 +100,9 @@ neterror-proxy-connect-failure-settings = 프록시 설정이 올바로 되어�
 neterror-proxy-connect-failure-contact-admin = 프록시 서버가 확실히 작동 중인지 네트워크 관리자에게 문의하세요.
 neterror-content-encoding-error = 웹 사이트 관리자에게 연락하여 이 문제를 알려주실 수 있습니다.
 neterror-unsafe-content-type = 웹 사이트 관리자에게 연락하여 이 문제를 알려주실 수 있습니다.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-basic-http-auth = 연결이 안전하지 않아 { -brand-short-name }는 { $hostname } 사이트를 신뢰하지 않습니다. URL을 HTTPS로 변경해 보세요.
 neterror-nss-failure-not-verified = 받은 데이터의 신뢰성을 확인할 수 없으므로 보시려는 페이지를 표시할 수 없습니다.
 neterror-nss-failure-contact-website = 웹 사이트 관리자에게 연락하여 이 문제를 알려주실 수 있습니다.
 # Variables:

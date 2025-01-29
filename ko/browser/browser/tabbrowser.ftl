@@ -174,6 +174,18 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = 탭 음소거 해제
 tabbrowser-manager-close-tab =
     .tooltiptext = 탭 닫기
+# This is for tab groups that have been "saved and closed" (see tab-group-editor-action-save). It does
+# not include "deleted" tab groups (see tab-group-editor-action-delete).
+tabbrowser-manager-closed-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — 닫힘
+tabbrowser-manager-current-window-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — 현재 창
+# "Show more" is for showing all open groups from other windows, as well as saved groups. Initially,
+# we only show up to six of these groups.
+tabbrowser-manager-tab-groups-show-more =
+    .label = 더 보기
 
 ## Tab Groups
 
