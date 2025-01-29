@@ -444,7 +444,7 @@ onboarding-checklist-sign-up = Cofrestrwch neu mewngofnodwch i'ch cyfrif
 
 ## Tab Groups feature onboarding strings
 
-tab-groups-onboarding-feature-callout-title = Rhowch gynnig ar grwpiau tabiau am lai o flerwch, mwy o drefn
+tab-groups-onboarding-feature-callout-title = Rhowch gynnig ar grwpio tabiau am lai o flerwch, gwell trefn
 tab-groups-onboarding-feature-callout-subtitle = Byddwch yn drefnus trwy lusgo un tab ar ben un arall i greu eich grŵp cyntaf.
 
 ## Multi Profiles feature onboarding messages
