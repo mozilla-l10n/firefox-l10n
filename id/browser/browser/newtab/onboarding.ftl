@@ -395,6 +395,8 @@ onboarding-many-tabs-title = Tab Anda, cara Anda
 onboarding-many-tabs-subtitle = Membiarkan banyak tab terbuka? Coba tab di samping untuk tampilan yang lebih ramping. Atau tetap klasik dengan tab di bagian atas. Beralih kapan saja.
 # Setup screen for vertical tabs - focused variation
 onboarding-focused-tabs-title = Pilih tata letak tab Anda
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Untuk tampilan yang diringkas yang dapat membantu Anda tetap fokus, coba tab di samping. Atau tetap klasik dengan tab di bagian atas. Beralih kapan saja.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Tab di samping
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -443,6 +445,8 @@ onboarding-checklist-sign-up = Daftar atau masuk ke akun Anda
 
 tab-groups-onboarding-feature-callout-title = Coba grup tab untuk mengurangi tercecer, lebih fokus
 tab-groups-onboarding-feature-callout-subtitle = Atur dengan menyeret satu tab di atas tab lainnya untuk membuat grup pertama Anda.
+tab-groups-onboarding-saved-groups-title = Jika Anda menutup grup tab, Anda dapat membukanya kembali di sini kapan saja.
+tab-groups-onboarding-dismiss = Oke
 
 ## Multi Profiles feature onboarding messages
 
