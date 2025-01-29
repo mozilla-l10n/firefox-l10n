@@ -142,8 +142,8 @@ pdfjs-printing-not-ready = മുന്നറിയിപ്പു്: പ്ര
 ## Tooltips and alt text for side panel toolbar buttons
 
 pdfjs-toggle-sidebar-button =
-    .title = സൈഡ് ബാറിലേക്കു് മാറ്റുക
-pdfjs-toggle-sidebar-button-label = സൈഡ് ബാറിലേക്കു് മാറ്റുക
+    .title = അണിവക്കം ടോഗിൾ ചെയ്യുക
+pdfjs-toggle-sidebar-button-label = അണിവക്കം ടോഗിൾ ചെയ്യുക
 pdfjs-document-outline-button =
     .title = ഡോക്യുമെന്റിന്റെ ബാഹ്യരേഖ കാണിക്കുക (എല്ലാ ഇനങ്ങളും വിപുലീകരിക്കാനും ചുരുക്കാനും ഇരട്ട ക്ലിക്കുചെയ്യുക)
 pdfjs-document-outline-button-label = രേഖയുടെ ഔട്ട്ലൈന്‍

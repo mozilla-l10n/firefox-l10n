@@ -160,6 +160,7 @@ addon-open-about-debugging = ആഡ്-ഓണുകള്‍ ഡീബഗ് ച
 
 ## Extension shortcut management
 
+shortcuts-sidebarAction = അണിവക്കം ടോഗിൾ ചെയ്യുക
 
 ## Recommended add-ons page
 

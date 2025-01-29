@@ -156,3 +156,18 @@ show-sidebars =
 sidebar-widget-expand-sidebar2 =
     .tooltiptext = അണിവക്കം വലുതാക്കുക ({ $shortcut })
     .label = അണിവക്കങ്ങൾ
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-collapse-sidebar2 =
+    .tooltiptext = അണിവക്കം ചുരുക്കുക ({ $shortcut })
+    .label = അണിവക്കങ്ങൾ
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = അണിവക്കം കാണിക്കുക ({ $shortcut })
+    .label = അണിവക്കങ്ങൾ
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = അണിവക്കം ഒളിപ്പിക്കുക ({ $shortcut })
+    .label = അണിവക്കങ്ങൾ
