@@ -446,6 +446,8 @@ onboarding-checklist-sign-up = Sign up or sign in to your account
 
 tab-groups-onboarding-feature-callout-title = Try tab groups for less clutter, more focus
 tab-groups-onboarding-feature-callout-subtitle = Get organised by dragging one tab on top of another to create your first group.
+tab-groups-onboarding-saved-groups-title = If you close a tab group, you can reopen it here anytime.
+tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages
 
