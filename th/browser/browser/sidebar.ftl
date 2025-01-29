@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 menu-view-genai-chat =
-    .label = บอตสนทนา AI
+    .label = แชทบอต AI
 menu-view-review-checker =
     .label = เครื่องมือตรวจสอบบทวิจารณ์
 sidebar-options-menu-button =
@@ -92,7 +92,7 @@ sidebar-history-context-menu-delete-page =
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
-    .label = บอตสนทนา AI
+    .label = แชทบอต AI
 sidebar-menu-history-label =
     .label = ประวัติ
 sidebar-menu-synced-tabs-label =
@@ -122,14 +122,18 @@ sidebar-menu-open-bookmarks-tooltip = เปิดที่คั่นหน้
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = ปิดที่คั่นหน้า ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = เปิดบอตสนทนา AI
-sidebar-menu-close-ai-chatbot-tooltip = ปิดบอตสนทนา AI
+sidebar-menu-open-ai-chatbot-tooltip = เปิดแชทบอต AI
+sidebar-menu-close-ai-chatbot-tooltip = ปิดแชทบอต AI
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
+sidebar-menu-open-ai-chatbot-tooltip-generic = เปิดแชทบอต AI ({ $shortcut })
+sidebar-menu-open-ai-chatbot-provider-tooltip = เปิด { $provider } ({ $shortcut })
+sidebar-menu-close-ai-chatbot-tooltip-generic = ปิดแชทบอต AI ({ $shortcut })
+sidebar-menu-close-ai-chatbot-provider-tooltip = ปิด { $provider } ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 

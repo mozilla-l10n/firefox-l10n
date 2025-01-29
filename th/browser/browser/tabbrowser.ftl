@@ -174,6 +174,14 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = เปิดเสียงแท็บ
 tabbrowser-manager-close-tab =
     .tooltiptext = ปิดแท็บ
+# This is for tab groups that have been "saved and closed" (see tab-group-editor-action-save). It does
+# not include "deleted" tab groups (see tab-group-editor-action-delete).
+tabbrowser-manager-closed-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — ปิดแล้ว
+tabbrowser-manager-current-window-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — หน้าต่างปัจจุบัน
 
 ## Tab Groups
 
