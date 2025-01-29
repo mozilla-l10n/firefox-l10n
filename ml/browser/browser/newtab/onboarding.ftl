@@ -92,11 +92,13 @@ onboarding-live-language-skip-button-label = ഒഴിവാക്കുക
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+mr2022-onboarding-get-started-primary-button-label = നിമിഷങ്ങൾക്കുള്ളിൽ സജ്ജമാക്കുക
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+mr2022-onboarding-import-primary-button-label-no-attribution = മുമ്പത്തെ അന്വേഷിയന്ത്രം നിന്നു് ഇറക്കുമതി ചെയ്യുക
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
@@ -153,10 +155,12 @@ onboarding-genai-sidebar-secondary-button = തിരയാൻ തുടങ്�
 
 ## New user onboarding checklist
 
+onboarding-checklist-import = മുമ്പത്തെ അന്വേഷിയന്ത്രം നിന്നു് ഇറക്കുമതി ചെയ്യുക
 onboarding-checklist-extension = വിപുലീകരണം ചേൎക്കുക
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-dismiss = ശരി
 
 ## Multi Profiles feature onboarding messages
 

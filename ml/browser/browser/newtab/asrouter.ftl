@@ -243,4 +243,9 @@ fxa-menu-message-backup-data-primary-text = അന്വേഷിയന്ത്
 multi-cta-fox-doodle-title = തിരികെ സ്വാഗതം
 multi-cta-fox-doodle-set-default-checkbox = { -brand-short-name } തനിമിട്ടമാക്കി വയ്ക്കുക
 multi-cta-fox-doodle-pin-startmenu-checkbox = { -brand-short-name }-നെ തുടക്കക്കുറിപ്പടിയിലോട്ടു് കുത്തിവയ്ക്കുക
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] { -brand-short-name }-നെ കാര്യപ്പട്ടയിൽ കുത്തിവയ്ക്കുക
+       *[other] { -brand-short-name }-നെ കാര്യപ്പട്ടയിൽ കുത്തിവയ്ക്കുക
+    }
 multi-cta-fox-doodle-start-browsing-primary-button-label = തിരയാൻ തുടങ്ങുക
