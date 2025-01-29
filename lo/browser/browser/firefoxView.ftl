@@ -23,10 +23,12 @@ firefoxview-tabpickup-progress-label = { $percentValue }% ສຳເລັດ
 firefoxview-tabpickup-step-signin-header = ສະຫຼັບລະຫວ່າງອຸປະກອນຢ່າງບໍ່ຕິດຂັດ
 firefoxview-tabpickup-step-signin-description = ເພື່ອຈັບແຖບໂທລະສັບຂອງທ່ານຢູ່ທີ່ນີ້, ກ່ອນອື່ນໃຫ້ເຂົ້າສູ່ລະບົບ ຫຼືສ້າງບັນຊີກ່ອນ.
 firefoxview-tabpickup-step-signin-primarybutton = ສືບຕໍ່
+firefoxview-syncedtabs-signin-primarybutton = ເຂົ້າສູ່ລະບົບ ຫຼື ລົງທະບຽນ
 firefoxview-tabpickup-adddevice-header = ຊິ້ງຂໍ້ມູນ { -brand-product-name } ໃນໂທລະສັບ ຫຼືແທັບເລັດຂອງທ່ານ
 firefoxview-tabpickup-adddevice-description = ດາວໂຫລດ { -brand-product-name } ສໍາລັບມືຖື ແລະເຂົ້າສູ່ລະບົບຢູ່ທີ່ນັ້ນ.
 firefoxview-tabpickup-adddevice-learn-how = ຮຽນຮູ້ວິທີການ
 firefoxview-tabpickup-adddevice-primarybutton = ເອົາ { -brand-product-name } ສໍາລັບມືຖື
+firefoxview-syncedtabs-adddevice-header-2 = ເອົາແຖບຈາກທຸກບ່ອນ
 firefoxview-tabpickup-synctabs-header = ເປີດການຊິງຄ໌ແຖບ
 firefoxview-tabpickup-synctabs-description = ອະນຸຍາດໃຫ້ { -brand-short-name } ແບ່ງປັນແຖບລະຫວ່າງອຸປະກອນ.
 firefoxview-tabpickup-synctabs-learn-how = ຮຽນຮູ້ວິທີການ
@@ -177,6 +179,9 @@ firefoxview-show-all-history = ສະແດງປະຫວັດທັງໝົ�
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
+firefoxview-syncedtabs-connect-another-device = ເຊື່ອມຕໍ່ກັບອຸປະກອນອື່ນ
+firefoxview-pinned-tabs =
+    .title = ແຖບທີ່ປັກໝຸດໄວ້
 
 ## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
 ## Variables:
