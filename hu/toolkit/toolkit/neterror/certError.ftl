@@ -134,6 +134,7 @@ contentEncodingError-title = Tartalomkódolási hiba
 unsafeContentType-title = Nem biztonságos fájltípus
 netReset-title = A kapcsolat alaphelyzetbe állt
 netTimeout-title = A kapcsolat időtúllépés miatt megszakadt
+httpErrorPage-title = Úgy néz ki, hogy probléma van ezzel a webhellyel
 serverError-title = Úgy néz ki, hogy probléma van ezzel a webhellyel
 unknownProtocolFound-title = A cím nem volt érthető
 proxyConnectFailure-title = A proxykiszolgáló visszautasította a kapcsolatokat

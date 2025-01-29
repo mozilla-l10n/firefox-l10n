@@ -44,6 +44,7 @@ neterror-load-error-connection = Ha semmilyen oldalt nem tud letölteni, ellenő
 neterror-load-error-firewall = Ha a számítógépet vagy a hálózatot tűzfal vagy proxy védi, ellenőrizze, hogy a { -brand-short-name } számára engedélyezett-e a webhozzáférés.
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Ha egy helyi hálózati oldalt próbál betölteni, akkor ellenőrizze, hogy a { -brand-short-name } megkapta-e a helyi hálózati engedélyeket a macOS adatvédelmi és biztonsági beállításaiban.
+neterror-http-error-page = Ellenőrizze, hogy helyesen írta-e be a webhely címét.
 neterror-captive-portal = Az internet elérése előtt be kell jelentkezni a hálózatra.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -99,6 +100,9 @@ neterror-proxy-connect-failure-settings = Ellenőrizze a proxybeállításokat, 
 neterror-proxy-connect-failure-contact-admin = Kérdezze meg a hálózati rendszergazdától, hogy a proxykiszolgáló működik-e.
 neterror-content-encoding-error = Értesítse a webhely tulajdonosait erről a problémáról.
 neterror-unsafe-content-type = Értesítse a webhely tulajdonosait erről a problémáról.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-basic-http-auth = A { -brand-short-name } nem bízik a(z) { $hostname } webhelyben, mert a kapcsolat nem biztonságos. Próbálja meg HTTPS-re változtatni a webcímet.
 neterror-nss-failure-not-verified = A megtekinteni kívánt oldal nem jeleníthető meg, mert a kapott adatok hitelessége nem ellenőrizhető.
 neterror-nss-failure-contact-website = Lépjen kapcsolatba a webhely üzemeltetőjével, és értesítse a problémáról.
 # Variables:
