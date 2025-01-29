@@ -5,6 +5,9 @@
 toolbar-button-firefox-view =
     .label = { -firefoxview-brand-name }
     .tooltiptext = { -firefoxview-brand-name }
+toolbar-button-firefox-view-2 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = ജാലകങ്ങളും ഉപകരണങ്ങളും കുറുകെ താങ്ങൾ ഒടുവിലുള്ള തിച്ചിലിനെ കാണുക
 menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = ഫ
@@ -29,6 +32,7 @@ firefoxview-tabpickup-progress-label = % കഴിഞ്ഞു
 firefoxview-tabpickup-step-signin-header = ഉപകരണങ്ങൾക്കിടയിൽ തടസ്സമില്ലാതെ മാറുക
 firefoxview-tabpickup-step-signin-description = നിങ്ങളുടെ ഫോൺ ടാബുകൾ ഇവിടെ നേടുന്നതിന്, ആദ്യം പ്രവേശിക്കൽ ചെയ്യുക അല്ലെങ്കിൽ ഒരു അക്കൗണ്ട് ഉണ്ടാക്കുക
 firefoxview-tabpickup-step-signin-primarybutton = തുടരുക
+firefoxview-syncedtabs-signin-header-2 = എല്ലാ ഉപകരണങ്ങളിലും താങ്ങളുടെ { -brand-product-name }
 firefoxview-syncedtabs-signin-primarybutton-2 = പ്രവേശിക്കുക
 firefoxview-syncedtabs-signin-header = എവിടെനിന്നും ടാബുകൾ എടുക്കുക
 firefoxview-syncedtabs-signin-primarybutton = പ്രവേശിക്കുക അല്ലെങ്കിൽ അംഗത്വം എടുക്കുക
@@ -64,6 +68,10 @@ firefoxview-collapse-button-show =
     .title = പട്ടിക കാണിക്കുക
 firefoxview-collapse-button-hide =
     .title = പട്ടിക മരയ്ക്കുക
+firefoxview-overview-nav = അടുത്തിടെ തിരഞ്ഞവ
+    .title = അടുത്തിടെ തിരഞ്ഞവ
+firefoxview-overview-header = അടുത്തിടെ തിരഞ്ഞവ
+    .title = അടുത്തിടെ തിരഞ്ഞവ
 
 ## History in this context refers to browser history
 
@@ -191,6 +199,7 @@ firefoxview-import-history-close-button =
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = മറ്റൊരു അന്വേഷിയന്ത്രം നിന്നു് നാൾവഴിയെ ഇറക്കുമതി ചെയ്യുക
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 

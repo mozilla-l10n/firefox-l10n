@@ -28,6 +28,16 @@ cfr-doorhanger-extension-author = { $name } നാല്‍
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = ശുപാർശ
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
+cfr-doorhanger-extension-notification2 = ശുപാൎശ
+    .tooltiptext = വിപുലീകരണശുപാൎശ
+    .a11y-announcement = വിപുലീകരണശുപാൎശ ലഭ്യം
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
+cfr-doorhanger-feature-notification = ശുപാൎശ
+    .tooltiptext = സവിശേഷതശുപാൎശ
+    .a11y-announcement = സവിശേഷതശുപാൎശ ലഭ്യം
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -84,6 +94,8 @@ cfr-doorhanger-doh-secondary-button = പ്രവര്‍ത്തനരഹി
 
 ## Full Video Support CFR message
 
+cfr-doorhanger-video-support-primary-button = ഉടന്‍ പരിഷ്കരിയ്ക്കുക
+    .accesskey = ഉ
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -117,6 +129,16 @@ spotlight-pin-secondary-button = ഇപ്പോഴല്ല
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it
+# using a variable font like Arial): the button can only fit 1-2
+# additional characters, exceeding characters will be truncated.
+mr2022-background-update-toast-primary-button-label = { -brand-shorter-name } ഉടനെ തുറക്കുക
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it using a
+# variable font like Arial): the button can only fit 1-2 additional characters,
+# exceeding characters will be truncated.
+mr2022-background-update-toast-secondary-button-label = എന്നെ പിന്നീടു് ഓർമ്മിപ്പിക്കുക
 
 ## Firefox View CFR
 
@@ -127,6 +149,7 @@ firefoxview-cfr-secondarybutton = ഇപ്പോഴല്ല
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-primarybutton = എങ്ങനെ ഇത് പ്രവര്‍ത്തിക്കുന്നു എന്ന് കാണുക
 firefoxview-spotlight-promo-secondarybutton = ഒഴിവാക്കുക
 
 ## Colorways expiry reminder CFR
@@ -140,6 +163,9 @@ cookie-banner-blocker-onboarding-learn-more = കൂടുതല്‍ അറി
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+july-jam-set-default-primary = കണ്ണികളെ { -brand-short-name } വഴി തുറക്കുക
+fox-doodle-pin-headline = തിരികെ സ്വാഗതം
+fox-doodle-pin-primary = കണ്ണികളെ { -brand-short-name } വഴി തുറക്കുക
 fox-doodle-pin-secondary = ഇപ്പോഴല്ല
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
@@ -148,6 +174,7 @@ set-default-pdf-handler-primary = മനസ്സിലായി
 
 ## FxA sync CFR
 
+fxa-sync-cfr-header = വരുംകാലത്തിൽ പുതിയ ഉപകരണം?
 fxa-sync-cfr-primary = കൂടുതല്‍ അറിയുക
     .accesskey = അ
 fxa-sync-cfr-secondary = എന്നെ പിന്നീടു് ഓർമ്മിപ്പിക്കുക
@@ -155,7 +182,10 @@ fxa-sync-cfr-secondary = എന്നെ പിന്നീടു് ഓർമ�
 
 ## Device Migration FxA Spotlight
 
+device-migration-fxa-spotlight-heavy-user-primary-button = തുടങ്ങാം
 device-migration-fxa-spotlight-older-device-primary-button = അക്കൗണ്ടുണ്ടാക്കുക
+device-migration-fxa-spotlight-getting-new-device-header-2 = വരുംകാലത്തിൽ പുതിയ ഉപകരണം?
+device-migration-fxa-spotlight-sync-header = ഒരു താളമ്പോലെ തെറ്റാതെ തിരയുക
 device-migration-fxa-spotlight-sync-primary-button = തുടങ്ങാം
 
 ## Set as Default PDF Reader Infobar
@@ -185,6 +215,7 @@ tail-fox-spotlight-secondary-button = ഇപ്പോഴല്ല
 
 ## Root Certificate Succession Infobar
 
+root-certificate-succession-infobar-link = ഞാൻ എന്തിനു ഇത് പുതുക്കണംം?
 root-certificate-succession-infobar-primary-button =
     .label = ഉടന്‍ പുതുക്കുക
     .accesskey = പ
@@ -203,7 +234,13 @@ fxa-menu-message-close-button =
     .title = അടയ്ക്കുക
     .aria-label = അടയ്ക്കുക
 fxa-menu-message-sign-up-button = അംഗത്വമെടുക്കുക
+fxa-menu-message-sync-devices-primary-text = താങ്ങളുടെ എല്ലാ ഉപകരണങ്ങളെ സമന്വയിപ്പിക്കുക
+fxa-menu-message-sync-devices-collapsed-text = താങ്ങളുടെ എല്ലാ ഉപകരണങ്ങളെ സമന്വയിപ്പിക്കുക
+fxa-menu-message-backup-data-primary-text = അന്വേഷിയന്ത്രദത്തയുടെ കരുതൽപകൎപ്പു് സൂക്ഷിച്ചു് വയ്ക്കുക
 
 ## Multi-CTA Fox Doodle Spotlight
 
 multi-cta-fox-doodle-title = തിരികെ സ്വാഗതം
+multi-cta-fox-doodle-set-default-checkbox = { -brand-short-name } തനിമിട്ടമാക്കി വയ്ക്കുക
+multi-cta-fox-doodle-pin-startmenu-checkbox = { -brand-short-name }-നെ തുടക്കക്കുറിപ്പടിയിലോട്ടു് കുത്തിവയ്ക്കുക
+multi-cta-fox-doodle-start-browsing-primary-button-label = തിരയാൻ തുടങ്ങുക
