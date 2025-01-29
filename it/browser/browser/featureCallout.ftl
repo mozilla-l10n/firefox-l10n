@@ -90,3 +90,19 @@ sidebar-callout-survey-submit = Invia
 sidebar-callout-survey-thank-you = Grazie per aver condiviso la tua opinione.
 sidebar-genai-survey-satisfaction-question = Quanto sei soddisfatto dell’accesso a un chatbot basato sull’intelligenza artificiale nella barra laterale?
 sidebar-genai-survey-productive-question = In che misura sei d’accordo o in disaccordo con questa affermazione:<br/> “Il chatbot IA nella barra laterale mi aiuta a essere più produttivo”?
+unified-search-callout-title = Passa da un motore di ricerca all’altro
+unified-search-callout-subtitle = Scegli quello che funziona meglio per la tua ricerca specifica.
+unified-search-callout-primary-label = Successivo
+unified-search-callout-secondary-label = Chiudi
+unified-search-engines-callout-title = Cerca con una scorciatoia
+unified-search-engines-callout-subtitle = Digita “@” seguito da una parola chiave per effettuare ricerche nella cronologia, nei segnalibri, nelle schede o con un altro motore di ricerca.
+unified-search-engines-callout-primary-label = OK
+actions-callout-title = Completa le attività più comuni o accedi alle impostazioni di base
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearhistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = Prova a digitare un’azione come “stampa” per stampare una pagina o “cancella” per cancellare la cronologia.
