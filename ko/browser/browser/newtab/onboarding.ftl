@@ -445,6 +445,8 @@ onboarding-checklist-sign-up = 계정 가입 또는 로그인
 
 tab-groups-onboarding-feature-callout-title = 덜 복잡하고 더 집중할 수 있도록 탭 그룹을 사용해 보세요
 tab-groups-onboarding-feature-callout-subtitle = 하나의 탭을 다른 탭 위에 드래그하여 첫 번째 그룹을 만들어 정리하세요.
+tab-groups-onboarding-saved-groups-title = 탭 그룹을 닫으면, 여기에서 언제든지 다시 열 수 있습니다.
+tab-groups-onboarding-dismiss = 확인
 
 ## Multi Profiles feature onboarding messages
 
