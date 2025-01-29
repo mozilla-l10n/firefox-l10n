@@ -20,6 +20,7 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = ഉപയ�
 
 callout-pdfjs-edit-title = ഞങ്ങളുടെ പുതിയ പാഠക്കരുയുടെയൊപ്പം പി.ഡി.എഫുകളെ തിരുത്തുക
 callout-pdfjs-edit-button = അടുത്തതു്
+callout-pdfjs-draw-title = ഞങ്ങളുടെ പുതിയ വരപ്പുക്കരുകൊണ്ടു പ്രമാണങ്ങളിൽ ഒപ്പിടുക
 callout-pdfjs-draw-button = പിടി കിട്ടി!
 
 ## Firefox View Discoverability Strings
@@ -32,6 +33,8 @@ fx-view-discoverability-secondary-button-label = കളയുക
 
 # Blocks the message from showing again
 split-dismiss-button-dont-show-option-label = ഈ ശുപാൎശ ഇനിയും കാണിക്കരുതു്
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option-label = കുറച്ച് ശുപാർശകൾ കാണിക്കുക
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = ക്രമീകരണങ്ങളെ നിയന്ത്രിക്കുക
 
@@ -51,6 +54,10 @@ sidebar-callout-survey-neutral = അത്രതൊന്നും പറയാ�
 sidebar-callout-survey-dissatisfied-2 = സന്തുഷ്ടമായില്ല
 sidebar-callout-survey-very-dissatisfied-2 = തീരെ സന്തുഷ്ടമായില്ല
 sidebar-callout-survey-dont-use-it = ഞാൻ ഉപയോഗിക്കാരില്ല
+sidebar-callout-survey-strongly-agree = ശക്തമായി സമ്മതിക്കുന്നു
+sidebar-callout-survey-agree = സമ്മതിക്കുന്നു
+sidebar-callout-survey-disagree = വിയോജിക്കുന്നു
+sidebar-callout-survey-strongly-disagree = ശക്തമായി വിയോജിക്കുന്നു
 sidebar-callout-survey-saved-websites-2 = താങ്ങളുടെ അടയാളക്കുറിപ്പുകളെ പെട്ടന്നു് ഉപയോഗിക്കാം
 sidebar-callout-survey-none-of-above = മുകളിലുള്ള ഏതെങ്കിലുമല്ല
 sidebar-callout-survey-submit = സമർപ്പിക്കുക

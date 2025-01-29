@@ -37,6 +37,9 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = ഇപ്പോഴല്ല
     .accesskey = ഴ
+firefox-relay-and-fxa-opt-in-confirmation-enable-button =
+    .label = { -brand-product-name }-ലോട്ടു് പ്രവേശിച്ചു് പൊയ്മുഖം ഉപയോഗിക്കുക
+    .accesskey = പ
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
     .label = അംഗത്വമെടുക്കുക
     .accesskey = അ
@@ -49,6 +52,7 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 
 ## The "control" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-second-sentence-control = ഇതപാൽ പൊയ്മുഖം ഉപയോഗിക്കാൻ വേണ്ടി ആദ്യം താങ്ങളുടെ അക്കൗണ്ടിലോട്ടു് പ്രവേശിക്കുക
 
 ## The "basic-info" variation of the Relay offer popup
 
@@ -60,12 +64,14 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 ## The "with-domain" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = സൗജന്യ ഇ-തപാൽ പൊയ്മുഖം നേടൂ
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = ഇതപാൽ പൊയ്മുഖം ഉപയോഗിക്കാൻ വേണ്ടി ആദ്യം താങ്ങളുടെ അക്കൗണ്ടിലോട്ടു് പ്രവേശിക്കുക
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = അംഗത്വമെടുക്കുക
     .accesskey = അ
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = ഇ-തപാൽ പൊയ്മുഖം കൊണ്ടു പാഴ്തപാലിനെ മുടക്കുക
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = അടുത്തത്
     .accesskey = അ
