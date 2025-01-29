@@ -34,7 +34,7 @@ pocket-panel-signup-add-tags = Bæta við merkjum:
 ## about:pocket-signup panel
 
 pocket-panel-signup-already-have = Ertu þegar { -pocket-brand-name } notandi?
-pocket-panel-signup-learn-more = Fræðast meira
+pocket-panel-signup-learn-more = Kanna nánar
 pocket-panel-signup-login = Innskráning
 pocket-panel-signup-signup-email = Skrá inn með tölvupóstfangi
 pocket-panel-signup-signup-cta = Skrá sig inn með { -pocket-brand-name }. Það er ókeypis.

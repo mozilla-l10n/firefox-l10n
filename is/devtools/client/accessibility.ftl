@@ -5,7 +5,7 @@
 
 ### These strings are used inside the Accessibility panel.
 
-accessibility-learn-more = Fræðast meira
+accessibility-learn-more = Kanna nánar
 accessibility-text-label-header = Textamerki og nöfn
 accessibility-keyboard-header = Lyklaborð
 

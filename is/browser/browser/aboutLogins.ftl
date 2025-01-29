@@ -329,7 +329,7 @@ about-logins-vulnerable-alert-text2 = Þetta lykilorð hefur verið notað á ö
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Fara á { $hostname }
-about-logins-vulnerable-alert-learn-more-link = Fræðast meira
+about-logins-vulnerable-alert-learn-more-link = Kanna nánar
 
 ## Error Messages
 

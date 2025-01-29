@@ -7,7 +7,7 @@ do-not-track-removal = Við styðjum ekki lengur „Ekki rekja“ merkinguna
 do-not-track-description2 =
     .label = Senda vefsvæðum „Ekki rekja“ beiðni
     .accesskey = d
-do-not-track-learn-more = Fræðast meira
+do-not-track-learn-more = Kanna nánar
 do-not-track-option-default-content-blocking-known =
     .label = Aðeins þegar { -brand-short-name } er stillt til að loka fyrir þekkta rekjara
 do-not-track-option-always =
@@ -189,7 +189,7 @@ show-tabs-in-taskbar =
 browser-containers-enabled =
     .label = Virkja sérefnislipa
     .accesskey = n
-browser-containers-learn-more = Fræðast meira
+browser-containers-learn-more = Kanna nánar
 browser-containers-settings =
     .label = Stillingar…
     .accesskey = i
@@ -469,7 +469,7 @@ performance-use-recommended-settings-checkbox =
     .label = Nota afkastastillingar sem er mælt með
     .accesskey = N
 performance-use-recommended-settings-desc = Þessar stillingar eru sérsniðnar fyrir þinn vélbúnað og stýrikerfi.
-performance-settings-learn-more = Fræðast meira
+performance-settings-learn-more = Kanna nánar
 performance-allow-hw-accel =
     .label = Nota vélbúnaðarhröðun ef mögulegt
     .accesskey = b
@@ -512,24 +512,24 @@ browsing-search-on-start-typing =
 browsing-picture-in-picture-toggle-enabled =
     .label = Virkja mynd-í-mynd myndskeiðsstýringar
     .accesskey = y
-browsing-picture-in-picture-learn-more = Fræðast meira
+browsing-picture-in-picture-learn-more = Kanna nánar
 browsing-media-control =
     .label = Stýra miðlum með lyklaborði, heyrnartólum eða sýndarviðmóti
     .accesskey = v
-browsing-media-control-learn-more = Fræðast meira
+browsing-media-control-learn-more = Kanna nánar
 browsing-cfr-recommendations =
     .label = Mæltu með forritsaukum um leið og þú vafrar
     .accesskey = r
 browsing-cfr-features =
     .label = Stinga uppá virkni er þú vafrar
     .accesskey = S
-browsing-cfr-recommendations-learn-more = Fræðast meira
+browsing-cfr-recommendations-learn-more = Kanna nánar
 
 ## General Section - Proxy
 
 network-settings-title = Stillingar netkerfis
 network-proxy-connection-description = Stilla hvernig { -brand-short-name } tengist við internetið.
-network-proxy-connection-learn-more = Fræðast meira
+network-proxy-connection-learn-more = Kanna nánar
 network-proxy-connection-settings =
     .label = Stillingar…
     .accesskey = S
@@ -1055,7 +1055,7 @@ sitedata-total-size-calculating = Reikna gagnastærð vefsvæðis og stærð sky
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Geymdar vefkökur, gögn fyrir vefsvæði og skyndiminni eru að nota { $value } { $unit } af diskplássi.
-sitedata-learn-more = Fræðast meira
+sitedata-learn-more = Kanna nánar
 sitedata-delete-on-close =
     .label = Eyða vefkökum og síðugögnum þegar { -brand-short-name } er lokað
     .accesskey = k
@@ -1321,7 +1321,7 @@ collection-health-report2 =
 collection-health-report =
     .label = Leyfa { -brand-short-name } að senda sjálkrafa tæknilegar og notkunar upplýsingar til { -vendor-short-name }
     .accesskey = r
-collection-health-report-link = Fræðast meira
+collection-health-report-link = Kanna nánar
 collection-health-report-description = Þetta hjálpar okkur að bæta eiginleika, afköst og stöðugleika í { -brand-product-name }.
 collection-studies2 =
     .label = Settu upp og keyrðu rannsóknir
@@ -1341,7 +1341,7 @@ collection-backlogged-crash-reports2 =
 collection-backlogged-crash-reports-description = Þetta gerir { -vendor-short-name } kleift að greina og laga vandamál með vafrann. Slíkar skýrslur geta innihaldið persónuleg eða viðkvæm gögn.
 addon-recommendations =
     .label = Leyfa { -brand-short-name } að gera sérsniðnar tillögur um viðbætur.
-addon-recommendations-link = Fræðast meira
+addon-recommendations-link = Kanna nánar
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Gagnaskýrslur eru óvirkar í þessari útgáfu
@@ -1370,11 +1370,11 @@ website-advertising-private-attribution-description = Þetta hjálpar vefsvæðu
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Öryggi
-security-browsing-protection = Vörn gegn svika innihaldi og hættulegum hugbúnaði
+security-browsing-protection = Vörn gegn svikaefni og hættulegum hugbúnaði
 security-enable-safe-browsing =
     .label = Loka fyrir hættulegt og villandi efni
     .accesskey = L
-security-enable-safe-browsing-link = Fræðast meira
+security-enable-safe-browsing-link = Kanna nánar
 security-block-downloads =
     .label = Loka á hættuleg niðurhöl
     .accesskey = ö
@@ -1407,8 +1407,8 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } er að verða upp
 
 httpsonly-header = Einungis-HTTPS-hamur
 httpsonly-description = HTTPS veitir örugga, dulkóðaða tengingu milli { -brand-short-name } og vefsvæðanna sem þú heimsækir. Flest vefsvæði styðja HTTPS og ef Einungis-HTTPS-hamur er virkt mun { -brand-short-name } verða allar tengingar uppfærðar í HTTPS.
-httpsonly-description2 = { -brand-short-name } skapar öruggar og dulritaðar tengingar við vefsvæði sem þú skoðar. { -brand-short-name } mun vara þig við ef tenging er ekki örugg þegar kveikt er á Einungis-HTTPS.
-httpsonly-learn-more = Fræðast meira
+httpsonly-description2 = { -brand-short-name } útbýr öruggar og dulritaðar tengingar við vefsvæði sem þú skoðar. { -brand-short-name } mun vara þig við ef tenging er ekki örugg þegar kveikt er á Einungis-HTTPS.
+httpsonly-learn-more = Kanna nánar
 httpsonly-radio-enabled =
     .label = Virkja Einungis-HTTPS-ham í öllum gluggum
 httpsonly-radio-enabled2 =

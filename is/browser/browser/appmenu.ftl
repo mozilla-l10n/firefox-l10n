@@ -143,7 +143,7 @@ profiler-popup-description-title =
     .value = Skrá, greina, deila
 profiler-popup-description = Vertu í samstarfi um afkastavandamál með því að birta afkastasnið til að deila með teyminu þínu.
 profiler-popup-learn-more-button =
-    .label = Fræðast meira
+    .label = Kanna nánar
 profiler-popup-settings =
     .value = Stillingar
 # This link takes the user to about:profiling, and is only visible with the Custom preset.

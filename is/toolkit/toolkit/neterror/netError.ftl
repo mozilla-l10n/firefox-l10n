@@ -18,7 +18,7 @@ general-body-title = Farðu varlega. Eitthvað lítur ekki út fyrir að vera r�
 
 neterror-advanced-button = Nánar…
 neterror-copy-to-clipboard-button = Afrita texta á klippispjald
-neterror-learn-more-link = Fræðast meira…
+neterror-learn-more-link = Kanna nánar…
 neterror-open-portal-login-page-button = Opna net innskráningar síðu
 neterror-override-exception-button = Samþykkja áhættuna og halda áfram
 neterror-pref-reset-button = Endurheimta sjálfgefnar stillingar

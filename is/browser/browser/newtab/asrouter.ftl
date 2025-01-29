@@ -20,7 +20,7 @@ cfr-doorhanger-extension-manage-settings-button = Sýsla með ábendingastilling
     .accesskey = s
 cfr-doorhanger-extension-never-show-recommendation = Ekki sýna mér þessar tillögur
     .accesskey = E
-cfr-doorhanger-extension-learn-more-link = Fræðast meira
+cfr-doorhanger-extension-learn-more-link = Kanna nánar
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
@@ -207,7 +207,7 @@ cfr-cbh-dismiss-button = Ekki núna
     .accesskey = n
 cookie-banner-blocker-onboarding-header = { -brand-short-name } var að loka á vefkökuborða fyrir þig
 cookie-banner-blocker-onboarding-body = Minni truflanir, færri vefkökur sem rekja ferðir þínar á þessu vefsvæði.
-cookie-banner-blocker-onboarding-learn-more = Fræðast meira
+cookie-banner-blocker-onboarding-learn-more = Kanna nánar
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -302,7 +302,7 @@ root-certificate-succession-infobar-secondary-button =
 
 root-certificate-windows-background-notification-title = Þú misstir af mikilvægri uppfærslu á { -brand-short-name }
 root-certificate-windows-background-notification-subtitle = Hlutar vafrans hætta fljótlega að virka ef þú uppfærir ekki. Núna er réttur tími til að fá bestu varnirnar okkar og nýjustu eiginleikana.
-root-certificate-windows-background-notification-learn-more-button = Fræðast meira
+root-certificate-windows-background-notification-learn-more-button = Kanna nánar
 root-certificate-windows-background-notification-update-button = Uppfæra { -brand-short-name }
 
 ## FxA Menu Message variants

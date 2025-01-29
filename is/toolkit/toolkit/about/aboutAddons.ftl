@@ -25,7 +25,7 @@ list-empty-recent-updates =
 list-empty-find-updates =
     .label = Athuga með uppfærslur
 list-empty-button =
-    .label = Fræðast meira um viðbætur
+    .label = Frekari upplýsingar um viðbætur
 help-button = Viðbótastuðningur
 sidebar-help-button-title =
     .title = Viðbótastuðningur
@@ -107,7 +107,7 @@ addon-restart-now =
 disabled-unsigned-heading =
     .value = Búið er að gera sumar viðbætur óvirkar
 disabled-unsigned-description = Ekki tókst að sannreyna eftirfarandi viðbætur fyrir notkun í { -brand-short-name }. Þú getur <label data-l10n-name="find-addons">reynt að finna aðrar viðbætur</label> eða beðið forritara um að staðfesta viðbót.
-disabled-unsigned-learn-more = Fræðast meira um hvað við gerum til að þú sért öruggur á netinu.
+disabled-unsigned-learn-more = Frekari upplýsingar um hvað við gerum til að þú sért öruggur á netinu.
 disabled-unsigned-devinfo = Þeir forritarar sem eru áhugasamir um að staðfesta viðbæturnar sínar geta prófað að lesa <label data-l10n-name="learn-more">handbókina</label> okkar.
 plugin-deprecation-description = Vantar eitthvað? Sum tengiforrit eru ekki lengur stutt af { -brand-short-name }. <label data-l10n-name="learn-more">Lesa meira.</label>
 legacy-warning-show-legacy = Sýna gamla forritsauka

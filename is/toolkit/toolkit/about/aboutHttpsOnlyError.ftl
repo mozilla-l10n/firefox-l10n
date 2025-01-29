@@ -14,7 +14,7 @@ about-httpsonly-explanation-continue = Ef þú heldur áfram verður slökkt tí
 about-httpsonly-explanation-iframe = Vegna útilokunar á blönduðu efni er ekki hægt að leyfa þessum ramma að hlaðast handvirkt.
 about-httpsonly-button-continue-to-site = Halda áfram á HTTP-vefsvæði
 about-httpsonly-button-go-back = Til baka
-about-httpsonly-link-learn-more = Fræðast meira…
+about-httpsonly-link-learn-more = Kanna nánar…
 
 ## Suggestion Box that only shows up if a secure connection to www can be established
 ## Variables:
