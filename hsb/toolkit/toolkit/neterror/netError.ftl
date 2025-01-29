@@ -44,6 +44,7 @@ neterror-load-error-connection = Jeli njemóžeće někotre strony začitać, p�
 neterror-load-error-firewall = Jeli waš ličak abo syć so z wohnjowej murju abo proksy škita, zawěsćće, zo { -brand-short-name } smě na Web přistup měć.
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Jeli pospytujeće, stronu lokalneje syće začitać, přepruwujće prošu, hač je { -brand-short-name } prawa lokalneje syće w nastajenjach priwatnosće a wěstoty dóstał.
+neterror-http-error-page = Přepruwujće, hač sće adresu websydła korektnje zapodał.
 neterror-captive-portal = Dyrbiće so pola tuteje syće přizjewić, prjedy hač móžeće přistup k internetej měć.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -99,6 +100,9 @@ neterror-proxy-connect-failure-settings = Přepruwujće proksynastajenja, zo by 
 neterror-proxy-connect-failure-contact-admin = Skontaktujće swojeho syćoweho administratora, zo by so zawěsćiło, zo proksyserwer dźěła.
 neterror-content-encoding-error = Prošu stajće so z wobsedźerjemi websydła do zwiska, zo byšće jich wo tutym problemje informował.
 neterror-unsafe-content-type = Prošu stajće so z wobsedźerjemi websydła do zwiska, zo byšće jich wo tutym problemje informował.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-basic-http-auth = { -brand-short-name } { $hostname } njedowěrja, dokelž zwisk wěsty njeje. Spytajće URL do HTTPS změnić.
 neterror-nss-failure-not-verified = Strona, kotruž chceće sej wobhladać, njeda so pokazać, dokelž awtentiskosć přijatych datow njeda so přepruwować.
 neterror-nss-failure-contact-website = Prošu stajće so z wobsedźerjemi websydła do zwiska, zo byšće jich wo tutym problemje informował.
 # Variables:
