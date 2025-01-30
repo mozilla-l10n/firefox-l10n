@@ -57,6 +57,7 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 ## The "control" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-second-sentence-control = Αρχικά, εγγραφείτε ή συνδεθείτε στον λογαριασμό σας για να χρησιμοποιήσετε μια μάσκα email
+firefox-relay-offer-legal-notice-control = Κάνοντας εγγραφή και δημιουργία μιας μάσκας email, συμφωνείτε με τους <label data-l10n-name="tos-url">Όρους υπηρεσίας</label> και τη <label data-l10n-name="privacy-url">Σημείωση απορρήτου</label>.
 
 ## The "basic-info" variation of the Relay offer popup
 
