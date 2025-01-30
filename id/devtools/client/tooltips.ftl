@@ -26,22 +26,33 @@ learn-more = <span data-l10n-name="link">Pelajari lebih lanjut</span>
 
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> tidak berdampak pada elemen ini karena bukan kontainer flex atau kontainer grid.
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> tidak berdampak pada elemen ini karena bukan kontainer flex, atau kontainer grid, atau kontainer muli-kolom.
+inactive-css-not-multicol-container = <strong>{ $property }</strong> tidak berpengaruh pada elemen ini karena bukan kontainer multi-kolom.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> tidak berdampak pada elemen ini karena bukan grid atau item flex.
 inactive-css-not-grid-item = <strong>{ $property }</strong> tidak berdampak pada elemen ini karena bukan item grid.
 inactive-css-not-grid-container = <strong>{ $property }</strong> tidak berdampak pada elemen ini karena bukan kontainer grid.
 inactive-css-not-flex-item = <strong>{ $property }</strong> tidak berdampak pada elemen ini karena bukan item flex.
 inactive-css-not-flex-container = <strong>{ $property }</strong> tidak berdampak pada elemen ini karena bukan kontainer flex.
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> tidak berdampak pada elemen ini karena bukan elemen sebarus atau table-cell.
+inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</strong> tidak didukung pada pseudo-elemen ::first-line.
+inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</strong> tidak didukung pada pseudo-elemen ::first-letter.
+inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> tidak didukung pada pseudo-elemen ::placeholder.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> tidak berdampak pada elemen ini karena memiliki nilai display <strong>{ $display }</strong>..
 inactive-css-not-display-block-on-floated = Nilai <strong>display</strong> telah diubah oleh mesin menjadi <strong>block</strong> karena elemennya <strong>mengambang</strong>.
+inactive-css-not-display-block-on-floated-2 = Nilai <strong>display</strong> telah diubah oleh mesin menjadi <strong>{ $display }</strong> karena elemennya <strong>mengambang</strong>.
+inactive-css-only-non-grid-or-flex-item = <strong>{ $property }</strong> tidak berpengaruh karena tidak dapat digunakan pada item grid atau flex.
+inactive-css-not-block = <strong>{ $property }</strong> tidak berpengaruh pada elemen ini karena hanya berlaku untuk elemen tingkat blok.
+inactive-css-not-floated = <strong>{ $property }</strong> tidak berpengaruh karena hanya berlaku untuk elemen mengambang.
 inactive-css-property-is-impossible-to-override-in-visited = Tidak mungkin menimpa <strong>{ $property }</strong> karena pembatasan <strong>:visited</strong>.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> tidak berdampak pada elemen ini karena bukan elemen dengan posisi.
+inactive-css-only-replaced-elements = <strong>{ $property }</strong> tidak berpengaruh pada elemen ini karena hanya dapat diterapkan pada elemen yang digantikan.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> tidak berdampak pada elemen ini karena <strong>overflow:hidden</strong> tidak diatur.
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> tidak berpengaruh pada elemen tabel internal.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> tidak berpengaruh pada elemen tabel internal kecuali sel tabel.
 inactive-css-not-table = <strong>{ $property }</strong> tidak berpengaruh pada elemen ini karena bukan tabel.
+inactive-css-not-table-cell = <strong>{ $property }</strong> tidak berpengaruh pada elemen ini karena bukan sel tabel.
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> tidak berpengaruh pada elemen ini tidak menggulir.
 inactive-css-border-image = <strong>{ $property }</strong> tidak berdampak pada elemen ini karena tidak dapat diterapkan pada elemen tabel internal di mana <strong>border-collapse</strong> disetel menjadi <strong>collapse</strong> pada elemen tabel induk.
+inactive-css-resize = <strong>{ $property }</strong> tidak berpengaruh pada elemen ini karena hanya dapat diterapkan ke elemen dengan nilai luapan selain yang terlihat, dan untuk elemen tertentu yang diganti, seperti textareas.
 inactive-css-ruby-element = <strong>{ $property }</strong> tidak berpengaruh pada elemen ini karena merupakan elemen ruby. Ukurannya ditentukan oleh ukuran font teks ruby.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
@@ -53,6 +64,9 @@ inactive-css-ruby-element = <strong>{ $property }</strong> tidak berpengaruh pad
 ##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
+inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> tidak didukung pada pseudo-elemen ::cue.
+inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> tidak berpengaruh pada elemen ini karena terfragmentasi, yaitu isinya dibagi menjadi beberapa kolom atau laman.
+inactive-css-no-width-height = <strong>{ $property }</strong> tidak berpengaruh pada elemen ini karena lebar dan tingginya tidak dapat diatur.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how

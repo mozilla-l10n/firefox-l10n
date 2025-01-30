@@ -1311,6 +1311,9 @@ collection-description = Αγωνιζόμαστε για να σας παρέχ�
 collection-privacy-notice = Σημείωση απορρήτου
 collection-health-report-telemetry-disabled = Δεν επιτρέπεται πλέον στη { -vendor-short-name } η συλλογή τεχνικών δεδομένων και δεδομένων αλληλεπίδρασης. Όλα τα προηγούμενα δεδομένα θα διαγραφούν μέσα σε 30 ημέρες.
 collection-health-report-telemetry-disabled-link = Μάθετε περισσότερα
+collection-usage-ping =
+    .label = Αποστολή ping ημερήσιας χρήσης στη { -vendor-short-name }
+    .accesskey = σ
 collection-usage-ping-description = Αυτό βοηθά τη { -vendor-short-name } να εκτιμήσει τους ενεργούς χρήστες.
 collection-health-report2 =
     .label = Αποστολή τεχνικών δεδομένων και δεδομένων αλληλεπίδρασης στη { -vendor-short-name }
@@ -1319,6 +1322,7 @@ collection-health-report =
     .label = Να επιτρέπεται στο { -brand-short-name } η αποστολή τεχνικών και διαδραστικών δεδομένων στη { -vendor-short-name }
     .accesskey = δ
 collection-health-report-link = Μάθετε περισσότερα
+collection-health-report-description = Αυτό μάς βοηθά να βελτιώσουμε τις λειτουργίες, τις επιδόσεις και τη σταθερότητα του { -brand-product-name }.
 collection-studies2 =
     .label = Εγκατάσταση και εκτέλεση μελετών
 collection-studies-description = Δοκιμάστε λειτουργίες και ιδέες πριν δημοσιευτούν σε όλους.
@@ -1328,6 +1332,9 @@ collection-studies-link = Προβολή μελετών του { -brand-short-na
 addon-recommendations2 =
     .label = Να επιτρέπονται εξατομικευμένες προτάσεις επεκτάσεων
 addon-recommendations-description = Λάβετε προτάσεις επεκτάσεων για να βελτιώσετε την εμπειρία περιήγησής σας.
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled2 = Η αναφορά δεδομένων είναι ανενεργή για αυτήν τη διαμόρφωση έκδοσης δομής.
 collection-backlogged-crash-reports2 =
     .label = Αυτόματη αποστολή αναφορών κατάρρευσης
     .accesskey = τ

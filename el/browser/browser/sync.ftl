@@ -48,8 +48,16 @@ sync-setup-verify-description = Κάποιος άλλος χρήστης έχε�
 
 # Dialog 1 - different account signing in without option to merge
 sync-profile-different-account-title = Έχετε φτάσει το όριο λογαριασμών για αυτό το προφίλ
+sync-profile-different-account-header = Αυτό το προφίλ συγχρονίστηκε στο παρελθόν με διαφορετικό λογαριασμό
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+sync-profile-different-account-description = Για την οργάνωση και την προστασία των δεδομένων σας, κάθε προφίλ του { -brand-product-name } μπορεί να συγχρονιστεί μόνο με έναν λογαριασμό. Για να συνδεθείτε με το { $acctEmail }, δημιουργήστε ένα νέο προφίλ.
 # Dialog 1 - different account signing in with merge option
 sync-profile-different-account-title-merge = Το προφίλ έχει συγχρονιστεί με διαφορετικό λογαριασμό
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $profileName (String) - Name of the current profile
+sync-profile-different-account-description-merge = Για την οργάνωση και την προστασία των δεδομένων σας, προτείνουμε να δημιουργήσετε ένα νέο προφίλ για να κάνετε σύνδεση με το { $acctEmail }. Εάν συνεχίσετε με τον συγχρονισμό αυτού του προφίλ, τα δεδομένα και των δύο λογαριασμών θα συγχωνευτούν οριστικά στο προφίλ «{ $profileName }».
 # Dialog 2 - account signed in on another profile without option to merge
 sync-account-in-use-header = Ο λογαριασμός χρησιμοποιείται ήδη
 # Variables:

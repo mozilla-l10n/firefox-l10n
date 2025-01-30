@@ -116,6 +116,10 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Aktifkan pendebugan jarak jauh
 options-enable-remote-tooltip2 =
     .title = Mengaktifkan opsi ini akan memungkinkan untuk mendebug instans peramban ini dari jarak jauh
+# The label for checkbox that enables F12 as a shortcut to open DevTools
+options-enable-f12-label = Pakai tombol F12 untuk membuka atau menutup DevTools
+options-enable-f12-tooltip =
+    .title = Mengaktifkan opsi ini akan mengikat kunci F12 untuk membuka atau menutup kotak alat DevTools
 # The label for checkbox that toggles custom formatters for objects
 options-enable-custom-formatters-label = Aktifkan pemformat khusus
 options-enable-custom-formatters-tooltip =
