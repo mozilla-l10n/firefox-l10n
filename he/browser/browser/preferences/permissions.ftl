@@ -69,7 +69,7 @@ permissions-capabilities-listitem-off-temporarily =
 ## Invalid Hostname Dialog
 
 permissions-invalid-uri-title = הוכנס שם מארח לא חוקי
-permissions-invalid-uri-label = אנא הכנס שם מארח חוקי
+permissions-invalid-uri-label = נא להכניס שם מארח חוקי
 
 ## Exceptions - Tracking Protection
 

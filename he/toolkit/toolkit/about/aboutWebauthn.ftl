@@ -23,7 +23,7 @@ about-webauthn-bio-enrollment-section-title = רישומים ביומטריים
 
 ## Info field texts
 
-about-webauthn-text-connect-device = אנא לחבר אסימון אבטחה.
+about-webauthn-text-connect-device = נא לחבר אסימון אבטחה.
 # If multiple devices are plugged in, they will blink and we are asking the user to select one by touching the device they want.
 about-webauthn-text-select-device = נא לבחור את אסימון האבטחה הרצוי על־ידי נגיעה במכשיר.
 # CTAP2 refers to Client to Authenticator Protocol version 2
