@@ -130,6 +130,10 @@ sidebar-menu-close-ai-chatbot-tooltip = Tutup obrolan AI
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
+sidebar-menu-open-ai-chatbot-tooltip-generic = Buka chatbot AI ({ $shortcut })
+sidebar-menu-open-ai-chatbot-provider-tooltip = Buka { $provider } ({ $shortcut })
+sidebar-menu-close-ai-chatbot-tooltip-generic = Tutup chatbot AI ({ $shortcut })
+sidebar-menu-close-ai-chatbot-provider-tooltip = Tutup { $provider } ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 

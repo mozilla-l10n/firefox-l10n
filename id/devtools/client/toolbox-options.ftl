@@ -38,6 +38,9 @@ options-collapse-attrs-tooltip =
 options-inspector-draggable-properties-label = Klik dan seret untuk mengedit nilai ukuran
 options-inspector-draggable-properties-tooltip =
     .title = Klik dan seret untuk mengedit nilai ukuran dalam tampilan rule inspektur.
+# The label for the checkbox option to make the Enter key move the focus to the next input
+# when editing a property name or value in the Inspector rules view
+options-inspector-rules-focus-next-on-enter-label = Fokuskan ke masukan berikutnya pada <kbd>Enter</kbd>
 
 ## "Default Color Unit" options for the Inspector
 

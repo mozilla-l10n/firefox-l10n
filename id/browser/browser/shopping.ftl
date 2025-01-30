@@ -91,6 +91,7 @@ shopping-settings-label =
     .label = Pengaturan
 shopping-settings-recommendations-toggle2 =
     .label = Tampilkan rekomendasi dan konten bersponsor
+shopping-settings-recommendations-learn-more3 = { -brand-product-name } tidak membagikan data pribadi Anda, jadi rekomendasi ini tidak akan mengikuti Anda di internet. <a data-l10n-name="review-quality-url">Pelajari lebih lanjut</a>
 shopping-settings-recommendations-toggle =
     .label = Tampilkan iklan di Pemeriksa Ulasan
 shopping-settings-recommendations-learn-more2 = Kadang Anda akan melihat iklan untuk produk yang relevan. Kami hanya mengiklankan produk dengan ulasan yang dapat diandalkan. <a data-l10n-name="review-quality-url">Pelajari lebih lanjut</a>
@@ -189,6 +190,7 @@ shopping-survey-thanks =
 ## Shopping opted-out survey strings
 ## Opt-out survey options are displayed as checkboxes and the user can select one or many.
 
+shopping-survey-opted-out-multiselect-label = Beri tahu kami mengapa Anda menonaktifkan Pemeriksa Ulasan. Pilih beberapa jika diperlukan.
 shopping-survey-thanks-title = Terima kasih atas masukan Anda!
 shopping-survey-opted-out-hard-to-understand = Sulit dimengerti
 shopping-survey-opted-out-too-slow = Terlalu lambat

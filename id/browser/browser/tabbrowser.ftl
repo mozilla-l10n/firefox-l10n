@@ -172,6 +172,10 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Bunyikan tab
 tabbrowser-manager-close-tab =
     .tooltiptext = Tutup tab
+# "Show more" is for showing all open groups from other windows, as well as saved groups. Initially,
+# we only show up to six of these groups.
+tabbrowser-manager-tab-groups-show-more =
+    .label = Tampilkan lebih banyak
 
 ## Tab Groups
 
