@@ -173,7 +173,7 @@ ad-by-fakespot = A { -fakespot-brand-name } hirdetése
 ## Shopping survey strings.
 
 shopping-survey-headline = Segítsen a { -brand-product-name } fejlesztésében
-shopping-survey-question-one = Mennyire elégedett az értékelés-ellenőrzővel kapcsolatos tapasztalatával a { -brand-product-name }ban?
+shopping-survey-question-one = Mennyire elégedett az értékelés-ellenőrzővel kapcsolatos tapasztalatával a { -brand-product-name(case: "inessive") }?
 shopping-survey-q1-radio-1-label = Nagyon elégedett
 shopping-survey-q1-radio-2-label = Elégedett
 shopping-survey-q1-radio-3-label = Semleges

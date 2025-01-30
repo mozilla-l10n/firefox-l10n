@@ -54,7 +54,7 @@ protections-close-button2 =
     .title = Bezárás
 mobile-app-title = Blokkolja a hirdetéskövetőket több eszközön
 mobile-app-card-content = Használja a beépített hirdetéskövetés elleni védelemmel ellátott mobilböngészőt.
-mobile-app-links = { -brand-product-name } Böngésző <a data-l10n-name="android-mobile-inline-link">Androidra</a> és <a data-l10n-name="ios-mobile-inline-link">iOS-re</a>
+mobile-app-links = { -brand-product-name } böngésző <a data-l10n-name="android-mobile-inline-link">Androidra</a> és <a data-l10n-name="ios-mobile-inline-link">iOS-re</a>
 lockwise-title = Ne felejtsen el egyetlen jelszót sem
 passwords-title-logged-in = Jelszavak kezelése
 passwords-header-content = A { -brand-product-name } biztonságosan tárolja a jelszavait a böngészőjében.

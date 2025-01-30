@@ -52,6 +52,7 @@ neterror-load-osx-permission =
         [with-cases] Pokud se pokoušíte načíst stránku místní sítě, zkontrolujte, zda máte v nastavení Soukromí a zabezpečení systému macOS přidělena oprávnění { -brand-short-name(case: "dat") } pro místní síť.
        *[no-cases] Pokud se pokoušíte načíst stránku místní sítě, zkontrolujte, zda máte v nastavení Soukromí a zabezpečení systému macOS přidělena oprávnění aplikace { -brand-short-name } pro místní síť.
     }
+neterror-http-error-page = Zkontrolujte, zda jste správně zadali adresu webové stránky.
 neterror-captive-portal = Pro přístup k internetu se musíte nejdříve přihlásit k této síti.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -119,6 +120,9 @@ neterror-proxy-connect-failure-settings = Zkontrolujte nastavení proxy serveru.
 neterror-proxy-connect-failure-contact-admin = Kontaktujte správce vaší sítě, jestli je proxy server v provozu.
 neterror-content-encoding-error = Kontaktujte prosím vlastníky webového serveru a informujte je o tomto problému.
 neterror-unsafe-content-type = Kontaktujte prosím vlastníky webového serveru a informujte je o tomto problému.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-basic-http-auth = { -brand-short-name } nedůvěřuje { $hostname }, protože připojení není zabezpečené. Zkuste změnit adresu URL na HTTPS.
 neterror-nss-failure-not-verified = Požadovanou stránku nelze zobrazit, protože nelze ověřit autenticitu přijatých dat.
 neterror-nss-failure-contact-website = Kontaktujte prosím vlastníky webového serveru a informujte je o tomto problému.
 # Variables:

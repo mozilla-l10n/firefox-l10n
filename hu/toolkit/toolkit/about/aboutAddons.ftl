@@ -288,7 +288,7 @@ created-by-author = szerző: <a data-l10n-name="author">{ $author }</a>
 # Variables:
 #   $dailyUsers (number) - The number of daily users.
 user-count = Felhasználók: { $dailyUsers }
-install-extension-button = Hozzáadás a { -brand-product-name }hoz
+install-extension-button = Hozzáadás a { -brand-product-name(case: "allative") }
 install-theme-button = Téma telepítése
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
