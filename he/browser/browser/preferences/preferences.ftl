@@ -693,7 +693,7 @@ search-find-more-link = מנועי חיפוש נוספים
 search-keyword-warning-title = מילת מפתח כפולה
 # Variables:
 #   $name (string) - Name of a search engine.
-search-keyword-warning-engine = בחרת להשתמש במילת מפתח שנמצאת כרגע בשימוש עבור "{ $name }". אנא בחר במילה אחרת.
+search-keyword-warning-engine = בחרת להשתמש במילת מפתח שנמצאת כרגע בשימוש על־ידי ״{ $name }״. נא לבחור במילה אחרת.
 search-keyword-warning-bookmark = בחרת להשתמש במילת מפתח שנמצאת כרגע בשימוש על־ידי סימנייה. נא לבחור במילה אחרת.
 
 ## Containers Section
