@@ -123,7 +123,7 @@ sidebar-menu-open-bookmarks-tooltip = Apri segnalibri ({ $shortcut })
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Chiudi segnalibri ({ $shortcut })
 sidebar-menu-open-ai-chatbot-tooltip = Apri chatbot IA
-sidebar-menu-close-ai-chatbot-tooltip = Chiudi chatbot AI
+sidebar-menu-close-ai-chatbot-tooltip = Chiudi chatbot IA
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:
@@ -188,4 +188,3 @@ sidebar-widget-show-sidebar2 =
 sidebar-widget-hide-sidebar2 =
     .tooltiptext = Nascondi la barra laterale ({ $shortcut })
     .label = Barre laterali
-

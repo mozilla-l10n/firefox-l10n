@@ -225,6 +225,16 @@ containers-remove-cancel-button = Non rimuovere questo contenitore
 settings-tabs-show-image-in-preview =
     .label = Mostra un’anteprima quando si passa il puntatore sopra una scheda
     .accessKey = h
+browser-layout-header = Layout del browser
+browser-layout-horizontal-tabs =
+    .label = Schede orizzontali
+browser-layout-horizontal-tabs-desc = Visualizza nella parte superiore del browser
+browser-layout-vertical-tabs =
+    .label = Schede verticali
+browser-layout-vertical-tabs-desc = Visualizza a lato, nella barra laterale
+browser-layout-show-sidebar =
+    .label = Mostra barra laterale
+browser-layout-show-sidebar-desc = Accedi rapidamente a segnalibri, schede dal tuo telefono, chatbot IA e altro ancora senza bisogno di uscire dalla schermata principale.
 
 ## General Section - Language & Appearance
 
@@ -1307,7 +1317,9 @@ permissions-addon-exceptions =
 collection-header = Raccolta e utilizzo dati di { -brand-short-name }
 collection-header2 = Raccolta e utilizzo dati di { -brand-short-name }
     .searchkeywords = telemetria
-collection-description = Cerchiamo di garantire agli utenti la possibilità di scegliere, raccogliendo solo i dati necessari per realizzare e migliorare { -brand-short-name } per tutti. Chiediamo sempre l’autorizzazione prima di raccogliere dati personali.
+preferences-collection-description = Ci impegniamo a fornirti la possibilità di scegliere e raccogliamo solo i dati essenziali per migliorare { -brand-product-name } per tutti.
+preferences-collection-privacy-notice = Visualizza l’informativa sulla privacy
+collection-description = Ci impegniamo a fornirti la possibilità di scegliere e raccogliamo solo i dati necessari per realizzare e migliorare { -brand-short-name } per tutti. Chiediamo sempre il tuo consenso prima di raccogliere dati personali.
 collection-privacy-notice = Informativa sulla privacy
 collection-health-report-telemetry-disabled = È stato revocato il permesso a { -vendor-short-name } di raccogliere dati tecnici e relativi all’interazione con il browser. Tutti i dati esistenti verranno rimossi entro 30 giorni.
 collection-health-report-telemetry-disabled-link = Ulteriori informazioni
