@@ -134,6 +134,7 @@ contentEncodingError-title = Σφάλμα κωδικοποίησης περιε�
 unsafeContentType-title = Επισφαλής τύπος αρχείου
 netReset-title = Έγινε επαναφορά της σύνδεσης
 netTimeout-title = Το χρονικό όριο σύνδεσης έληξε
+httpErrorPage-title = Φαίνεται ότι υπάρχει κάποιο πρόβλημα με αυτόν τον ιστότοπο
 serverError-title = Φαίνεται ότι υπάρχει κάποιο πρόβλημα με αυτόν τον ιστότοπο
 unknownProtocolFound-title = Η διεύθυνση δεν έγινε κατανοητή
 proxyConnectFailure-title = Ο διακομιστής μεσολάβησης αρνείται συνδέσεις

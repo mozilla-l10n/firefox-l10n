@@ -440,6 +440,7 @@ onboarding-checklist-sign-up = Εγγραφή ή σύνδεση σε λογαρ�
 ## Tab Groups feature onboarding strings
 
 tab-groups-onboarding-feature-callout-title = Δοκιμάστε τις ομάδες καρτελών για λιγότερη ακαταστασία, περισσότερη συγκέντρωση
+tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages
 
