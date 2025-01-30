@@ -82,7 +82,7 @@ login-list-last-changed-option = Legutóbbi módosítás
 login-list-last-used-option = Legutóbbi használat
 login-list-intro-title = Nincsenek bejelentkezések
 login-list-intro-title2 = Nincsenek mentett jelszavak
-login-list-intro-description = Ha elment egy jelszót a { -brand-product-name }ban, akkor az itt fog megjelenni.
+login-list-intro-description = Ha elment egy jelszót a { -brand-product-name(case: "inessive") }, akkor az itt fog megjelenni.
 about-logins-login-list-empty-search-title = Nincsenek bejelentkezések
 about-logins-login-list-empty-search-title2 = Nem találhatók jelszavak
 about-logins-login-list-empty-search-description = Nincs találat, amely megfelel a keresésnek.
@@ -105,10 +105,8 @@ about-logins-list-section-week = Elmúlt 7 nap
 
 about-logins-login-intro-heading-logged-out2 = A mentett bejelentkezéseit keresi? Kapcsolja be a szinkronizálást vagy importálja őket.
 about-logins-login-intro-heading-logged-in = Nem található szinkronizált bejelentkezés.
-login-intro-description = Ha egy másik eszközön mentette a bejelentkezéseit a { -brand-product-name }ban, akkor így érheti el őket itt:
 login-intro-instructions-fxa = Hozzon létre egyet, vagy jelentkezzen be a { -fxaccount-brand-name }jába azon az eszközön, amelyen a bejelentkezéseit menti
 about-logins-login-intro-heading-message = Mentse a jelszavait biztonságos helyre
-login-intro-description2 = A { -brand-product-name }ba mentett összes jelszó titkosítva van. Továbbá figyelünk az adatvédelmi incidensekre, és értesítjük, ha érintett egyben. <a data-l10n-name="breach-alert-link">További tudnivalók</a>
 login-intro-instructions-fxa2 = Hozzon létre egyet, vagy jelentkezzen be a fiókjába azon az eszközön, amelyen a bejelentkezéseit menti.
 login-intro-instructions-fxa-settings = Válassza a Beállítások > Szinkronizálás > Szinkronizálás bekapcsolása… lehetőséget. Jelölje be a Bejelentkezések és jelszavak jelölőnégyzetet.
 login-intro-instructions-fxa-passwords-help = További segítségért keresse fel a <a data-l10n-name="passwords-help-link">jelszavak támogatását</a>.

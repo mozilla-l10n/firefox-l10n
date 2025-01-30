@@ -16,6 +16,20 @@ preonboarding-terms-of-use-header-button-title = Přečtěte si naše Podmínky 
 preonboarding-privacy-notice-header-button-title = Přečtěte si naše Zásady ochrany osobních údajů
 # Label for header style button that toggles showing the data preference checklist
 preonboarding-manage-data-header-button-title = Správa diagnostických dat a dat o interakcích
+# Label for header style button that toggles showing the Terms of Use (Variant B)
+preonboarding-terms-of-use-header-button-title-b =
+    { -brand-produkc-name.case-status ->
+        [with-cases] Podmínky používání { -brand-product-name(case: "gen") }
+       *[no-cases] Podmínky používání aplikace { -brand-product-name }
+    }
+# Label for header style button that toggles showing the Privacy Notice (Variant B)
+preonboarding-privacy-notice-header-button-title-b =
+    { -brand-produkc-name.case-status ->
+        [with-cases] Zásady ochrany osobních údajů { -brand-product-name(case: "gen") }
+       *[no-cases] Zásady ochrany osobních údajů aplikace { -brand-product-name }
+    }
+# Description under label for header style buttons
+preonboarding-header-button-description = Přečtěte si více
 # New user onboarding checklist
 preonboarding-checklist-interaction-data-label = Odesílat technická data a data o interakcích organizaci { -vendor-short-name }
 preonboarding-checklist-interaction-data-description = Data o vašem zařízení, konfiguraci hardwaru a o tom, jak { -brand-product-name } používáte, pomáhají vylepšovat funkce, výkon a stabilitu pro běžné uživatele.

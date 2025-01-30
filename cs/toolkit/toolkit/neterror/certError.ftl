@@ -146,6 +146,7 @@ contentEncodingError-title = Chyba znakové sady obsahu
 unsafeContentType-title = Nebezpečný typ souboru
 netReset-title = Spojení přerušeno
 netTimeout-title = Vypršel čas spojení
+httpErrorPage-title = Zdá se, že s touto stránkou nastal problém
 serverError-title = Zdá se, že s touto stránkou nastal problém
 unknownProtocolFound-title = Adresa nebyla rozpoznána
 proxyConnectFailure-title = Proxy server odmítl spojení
