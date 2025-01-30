@@ -114,6 +114,12 @@ about-glean-feedback-settings-only =
 about-glean-feedback-settings-and-ping =
     .message = Οι ρυθμίσεις εφαρμόστηκαν και έγινε αποστολή του ping!
 about-glean-about-data-header = Σχετικά με τα δεδομένα
+about-glean-about-data-description =
+    Υπάρχουν διάφορα εργαλεία που μπορείτε να χρησιμοποιήσετε για να δείτε τα δεδομένα σας,
+    ανάλογα με αυτό που ψάχνετε.
+about-glean-about-data-description-list-intro =
+    Ανατρέξτε στην παρακάτω λίστα για συγκεκριμένες
+    περιπτώσεις χρήσης για το κάθε εργαλείο:
 about-glean-about-data-list-item-dictionary =
     Για να περιηγηθείτε στη λίστα των δεδομένων που συλλέγονται από το { -glean-brand-name } ανά εφαρμογή, συμβουλευτείτε το
     <a data-l10n-name="glean-dictionary-link">Λεξικό του { -glean-brand-name }</a>.

@@ -391,6 +391,8 @@ onboarding-new-tabs-title = Πείτε μας πού θα θέλετε τις κ
 onboarding-new-tabs-subtitle = Αλλάξτε την επιλογή ανά πάσα στιγμή από τις ρυθμίσεις της πλαϊνής γραμμής.
 # Setup screen for vertical tabs - too many tabs variation
 onboarding-many-tabs-title = Οι καρτέλες σας, με τον δικό σας τρόπο
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Έχετε πολλές ανοικτές καρτέλες; Δοκιμάστε να τις τοποθετήσετε στο πλάι για μια πιο απλοποιημένη προβολή. Ή διατηρήστε τον κλασικό τρόπο εμφάνισης με τις καρτέλες στο πάνω μέρος. Κάντε εναλλαγή ανά πάσα στιγμή.
 # Setup screen for vertical tabs - focused variation
 onboarding-focused-tabs-title = Επιλέξτε τη διάταξη καρτελών σας
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
@@ -448,4 +450,5 @@ tab-groups-onboarding-dismiss = OK
 multi-profile-spotlight-title = Πείτε «γεια» στα προφίλ του { -brand-product-name }
 multi-profile-spotlight-cta = Δημιουργία προφίλ
 multi-profile-callout-title = Δημιουργήστε διαφορετικά προφίλ για εργασία και διασκέδαση
+multi-profile-callout-subtitle = Τα προφίλ σάς επιτρέπουν να διαχωρίζετε τις πληροφορίες περιήγησής σας, όπως το ιστορικό αναζήτησης και τους κωδικούς πρόσβασής σας.
 multi-profile-callout-cta = Δημιουργία προφίλ
