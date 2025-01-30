@@ -202,6 +202,10 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Бет дыбысын іске қосу
 tabbrowser-manager-close-tab =
     .tooltiptext = Бетті жабу
+# "Show more" is for showing all open groups from other windows, as well as saved groups. Initially,
+# we only show up to six of these groups.
+tabbrowser-manager-tab-groups-show-more =
+    .label = Көбірек көрсету
 
 ## Tab Groups
 

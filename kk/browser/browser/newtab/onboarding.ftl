@@ -441,6 +441,7 @@ onboarding-checklist-sign-up = Тіркеліңіз немесе тіркелг�
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-dismiss = ОК
 
 ## Multi Profiles feature onboarding messages
 

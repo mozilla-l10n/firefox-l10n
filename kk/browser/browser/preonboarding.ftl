@@ -6,3 +6,5 @@
 ## Preonboarding modal screen strings
 
 preonboarding-primary-cta = Растау және жалғастыру
+# Description under label for header style buttons
+preonboarding-header-button-description = Көбірек білу
