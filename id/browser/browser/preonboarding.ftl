@@ -14,3 +14,5 @@ preonboarding-manage-and-read-header = Kelola pengaturan pengumpulan data dan ba
 preonboarding-terms-of-use-header-button-title = Baca Ketentuan Penggunaan kami
 # Label for header style button that toggles showing the Privacy Notice
 preonboarding-privacy-notice-header-button-title = Baca Pemberitahuan Privasi kami
+# Label for header style button that toggles showing the data preference checklist
+preonboarding-manage-data-header-button-title = Kelola data diagnostik dan interaksi
