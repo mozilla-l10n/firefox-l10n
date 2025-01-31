@@ -97,6 +97,9 @@ places-delete-page =
            *[other] താളുകളെ മായ്ക്കുക
         }
     .accesskey = മ
+# Managed bookmarks are created by enterprise policy and cannot be changed by the user.
+managed-bookmarks =
+    .label = നിയന്ത്രച്ച അടയാളക്കുറിപ്പുകൾ
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = ഉപരിയറ

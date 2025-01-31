@@ -8,10 +8,22 @@
 ## and are used to inform the user how the extension can access their
 ## data for the current website, and allow them to control it.
 
+origin-controls-option-all-domains =
+    .label = എല്ലാ വെബ്സ്ഥാനങ്ങളിലും
+origin-controls-option-when-clicked =
+    .label = അമൎത്തിയാൽ മാത്രം
+# This string denotes an option that grants the extension access to
+# the current site whenever they visit it.
+# Variables:
+#   $domain (String) - The domain for which the access is granted.
+origin-controls-option-always-on =
+    .label = { $domain }-ൽ എപ്പോഴും അനുവദിക്കുക
 
 ## These strings are used to map Origin Controls states to user-friendly
 ## messages. They currently appear in the unified extensions panel.
 
+origin-controls-state-runnable-hover-open = വിപുലീകരണം തുറക്കുക
+origin-controls-state-runnable-hover-run = വിപുലീകരണം ഓടിപ്പിക്കുക
 
 ## Extension's toolbar button.
 ## Variables:
