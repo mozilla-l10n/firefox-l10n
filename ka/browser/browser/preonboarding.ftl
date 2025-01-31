@@ -16,6 +16,8 @@ preonboarding-terms-of-use-header-button-title = წაიკითხეთ ჩ
 preonboarding-privacy-notice-header-button-title = წაიკითხეთ ჩვენი პირადულობის განაცხადი
 # Label for header style button that toggles showing the data preference checklist
 preonboarding-manage-data-header-button-title = მართეთ ტექნიკური და გამოყენების მონაცემები
+# Description under label for header style buttons
+preonboarding-header-button-description = ვრცლად
 # New user onboarding checklist
 preonboarding-checklist-interaction-data-label = გაიგზავნოს ტექნიკური და გამოყენების მონაცემები, რომელთაც მიიღებს { -vendor-short-name }
 preonboarding-checklist-interaction-data-description = მონაცემები თქვენი მოწყობილობის, აპარატურული გაწყობისა და იმის შესახებ, თუ როგორ გამოიყენება { -brand-product-name }, გვეხმარება შესაძლებლობების, წარმადობისა და მდგრადობის გაუმჯობესებაში ყველა მომხმარებლისთვის.
