@@ -134,6 +134,7 @@ contentEncodingError-title = Памылка кадавання змесціва
 unsafeContentType-title = Небяспечны тып файла
 netReset-title = Злучэнне скінута
 netTimeout-title = Час чакання злучэння выйшаў
+httpErrorPage-title = Здаецца, з гэтым сайтам ёсць праблема
 serverError-title = Здаецца, з гэтым сайтам ёсць праблема
 unknownProtocolFound-title = Немагчыма распазнаць адрас
 proxyConnectFailure-title = Проксі-сервер адмовіўся злучацца

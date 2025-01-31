@@ -224,6 +224,11 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Раз-цішыць картку
 tabbrowser-manager-close-tab =
     .tooltiptext = Закрыць картку
+# This is for tab groups that have been "saved and closed" (see tab-group-editor-action-save). It does
+# not include "deleted" tab groups (see tab-group-editor-action-delete).
+tabbrowser-manager-closed-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — Закрыта
 
 ## Tab Groups
 
