@@ -16,6 +16,12 @@ preonboarding-terms-of-use-header-button-title = Consultar nossos termos de uso
 preonboarding-privacy-notice-header-button-title = Consultar nosso aviso de privacidade
 # Label for header style button that toggles showing the data preference checklist
 preonboarding-manage-data-header-button-title = Gerenciar dados de diagnóstico e interação
+# Label for header style button that toggles showing the Terms of Use (Variant B)
+preonboarding-terms-of-use-header-button-title-b = Termos de uso do { -brand-product-name }
+# Label for header style button that toggles showing the Privacy Notice (Variant B)
+preonboarding-privacy-notice-header-button-title-b = Aviso de privacidade do { -brand-product-name }
+# Description under label for header style buttons
+preonboarding-header-button-description = Mais informações
 # New user onboarding checklist
 preonboarding-checklist-interaction-data-label = Enviar dados técnicos e de interação para a { -vendor-short-name }
 preonboarding-checklist-interaction-data-description = Dados sobre seu dispositivo, configurações de hardware e como você usa o { -brand-product-name } ajudam a melhorar funcionalidades, desempenho e estabilidade para usuários do mundo todo.
