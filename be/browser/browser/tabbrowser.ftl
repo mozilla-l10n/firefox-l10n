@@ -229,6 +229,13 @@ tabbrowser-manager-close-tab =
 tabbrowser-manager-closed-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — Закрыта
+tabbrowser-manager-current-window-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — Актыўнае акно
+# "Show more" is for showing all open groups from other windows, as well as saved groups. Initially,
+# we only show up to six of these groups.
+tabbrowser-manager-tab-groups-show-more =
+    .label = Паказаць больш
 
 ## Tab Groups
 
