@@ -14,7 +14,7 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } klarte ikkje å 
 ## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = Du må logge på { -fxaccount-brand-name } for å bruke { -relay-brand-name }.
-firefox-relay-must-login-to-account = Logg inn på kontoen din for å bruke { -relay-brand-name } e-postmaskene dine.
+firefox-relay-must-login-to-account = Logg inn på kontoen din for å bruke { -relay-brand-name } e-postaliasa dine.
 firefox-relay-get-unlimited-masks =
     .label = Handsam masker
     .accesskey = H
@@ -25,13 +25,13 @@ firefox-relay-opt-in-title-1 = Vern e-postadressa di:
 firefox-relay-opt-in-subtitle-1 = Bruk { -relay-brand-name } e-postalias
 firefox-relay-use-mask-title = Bruk { -relay-brand-name } e-postalias
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
-firefox-relay-opt-in-title-a = Hindre spam med ei gratis e-postmaske
+firefox-relay-opt-in-title-a = Hindre spam med eit gratis e-postalias
 # This is preceded by firefox-relay-opt-in-title-a (on a different line)
 firefox-relay-opt-in-subtitle-a = Skjul den verkelege e-postadressa di.
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
-firefox-relay-opt-in-title-b = Få ei gratis e-postmaske
+firefox-relay-opt-in-title-b = Få eit gratis e-postalias
 firefox-relay-opt-in-confirmation-enable-button =
-    .label = Bruk e-postmaske
+    .label = Bruk e-postalias
     .accesskey = B
 firefox-relay-opt-in-confirmation-disable =
     .label = Ikkje vis dette fleire gongar
