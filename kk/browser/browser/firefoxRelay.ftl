@@ -70,6 +70,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 ## The "with-domain" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Тегін эл. пошта маскасын алыңыз
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Эл. пошта маскасын пайдалану үшін алдымен тіркеліңіз немесе тіркелгіңізге кіріңіз
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Тіркелгіні жасау
     .accesskey = Т

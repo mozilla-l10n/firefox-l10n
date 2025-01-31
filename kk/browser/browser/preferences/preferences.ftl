@@ -1315,9 +1315,21 @@ collection-health-report =
     .label = { -brand-short-name } үшін { -vendor-short-name } адресіне техникалық және әрекеттесу деректерін жіберуді рұқсат ету
     .accesskey = р
 collection-health-report-link = Көбірек білу
+collection-studies2 =
+    .label = Зерттеулерді орнату және жөнелту
+collection-studies-description = Мүмкіндіктер мен идеяларды барлығына шығарар алдында қолданып көріңіз.
 collection-studies =
     .label = { -brand-short-name } үшін зерттеулерді орнатып, орындауды рұқсат ету
 collection-studies-link = { -brand-short-name } зерттеулерін қарау
+addon-recommendations2 =
+    .label = Жекелендірілген кеңейу ұсыныстарына рұқсат ету
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled2 = Деректер есептемесін беру бұл жинақта сөндірілген.
+collection-backlogged-crash-reports2 =
+    .label = Құлау хабарламаларын автоматты түрде жіберу
+    .accesskey = л
+collection-backlogged-crash-reports-description = Бұл { -vendor-short-name } үшін браузердегі ақауларды диагностикалауға және түзетуге мүмкіндік береді. Есептемелер жеке немесе сезімтал деректерді қамтуы мүмкін.
 addon-recommendations =
     .label = { -brand-short-name } үшін жекеленген кеңейтулер ұсыныстарын жасауға рұқсат ету
 addon-recommendations-link = Көбірек білу

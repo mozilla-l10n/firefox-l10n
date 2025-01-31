@@ -5,6 +5,7 @@
 
 ## Preonboarding modal screen strings
 
+preonboarding-title = { -brand-product-name } ішіне қош келдіңіз
 preonboarding-primary-cta = Растау және жалғастыру
 # Description under label for header style buttons
 preonboarding-header-button-description = Көбірек білу
