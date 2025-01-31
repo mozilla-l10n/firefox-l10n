@@ -55,6 +55,7 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 ## The "basic-info" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-basic-info = Hindre spam med eit gratis e-postalias
+firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = Først må du registrere deg, eller logge på kontoen din, for å bruke eit e-post alias
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = Registrer deg
     .accesskey = R
@@ -62,6 +63,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 ## The "with-domain" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Få eit gratis e-postalias
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Først må du registrere deg, eller logge på kontoen din, for å bruke eit e-post alias
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Registrer deg
     .accesskey = R
