@@ -134,6 +134,7 @@ contentEncodingError-title = Cuntegns cun codaziun nunvalida
 unsafeContentType-title = Tip da datoteca malsegir
 netReset-title = La connexiun è interrutta
 netTimeout-title = Il temp da la rait è surpassà
+httpErrorPage-title = I para ch’i dettia in problem cun questa website
 serverError-title = I para ch’i dettia in problem cun questa website
 unknownProtocolFound-title = Impussibel da chapir l'adressa
 proxyConnectFailure-title = Il proxy server refusescha la connexiun

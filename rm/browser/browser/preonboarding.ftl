@@ -16,6 +16,12 @@ preonboarding-terms-of-use-header-button-title = Leger nossas cundiziuns d’uti
 preonboarding-privacy-notice-header-button-title = Leger nossa decleraziun davart la protecziun da datas
 # Label for header style button that toggles showing the data preference checklist
 preonboarding-manage-data-header-button-title = Administrar las datas da diagnosa e d’interacziun
+# Label for header style button that toggles showing the Terms of Use (Variant B)
+preonboarding-terms-of-use-header-button-title-b = Cundiziuns d’utilisaziun da { -brand-product-name }
+# Label for header style button that toggles showing the Privacy Notice (Variant B)
+preonboarding-privacy-notice-header-button-title-b = Decleraziun davart la protecziun da datas da { -brand-product-name }
+# Description under label for header style buttons
+preonboarding-header-button-description = Ulteriuras infurmaziuns
 # New user onboarding checklist
 preonboarding-checklist-interaction-data-label = Trametter datas tecnicas e d’interacziun a { -vendor-short-name }
 preonboarding-checklist-interaction-data-description = Datas davart tes apparat, la configuraziun da la hardware e co ti utiliseschas { -brand-product-name }, gidan a meglierar funcziuns, la prestaziun e la stabilitad per utilisadras ed utilisaders da tut il mund.

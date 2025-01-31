@@ -130,6 +130,10 @@ sidebar-menu-close-ai-chatbot-tooltip = Serrar il chatbot IA
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
+sidebar-menu-open-ai-chatbot-tooltip-generic = Avrir il chatbot IA ({ $shortcut })
+sidebar-menu-open-ai-chatbot-provider-tooltip = Avrir { $provider } ({ $shortcut })
+sidebar-menu-close-ai-chatbot-tooltip-generic = Serrar il chatbot IA ({ $shortcut })
+sidebar-menu-close-ai-chatbot-provider-tooltip = Serrar { $provider } ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 
