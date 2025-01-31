@@ -44,6 +44,7 @@ neterror-load-error-connection = თუ სხვა გვერდების
 neterror-load-error-firewall = თუ თქვენი ქსელი ან კომპიუტერი ფარით ან პროქსითაა დაცული, გადაამოწმეთ არის თუ არა { -brand-short-name } ინტერნეტთან წვდომის უფლების მქონე.
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = თუ ცდილობთ ადგილობრივ ქსელში გვერდის გახსნას, გთხოვთ გადაამოწმოთ, რომ { -brand-short-name } ადგილობრივი ქსელის ნებართვების მქონეა macOS-ის პირადულობისა და უსაფრთხოების პარამეტრებიდან.
+neterror-http-error-page = გადაამოწმეთ, საიტის მისამართი ხომ სწორადაა აკრეფილი.
 neterror-captive-portal = ინტერნეტთან დასაკავშირებლად საჭიროა ამ ქსელში შესვლა.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -99,6 +100,9 @@ neterror-proxy-connect-failure-settings = გადაამოწმეთ პ�
 neterror-proxy-connect-failure-contact-admin = დაუკავშირდით ქსელის მმართველს და დარწმუნდით, რომ პროქსი სერვერი მუშაობს.
 neterror-content-encoding-error = გთხოვთ, მიმართოთ ვებსაიტის მფლობელებს და აცნობოთ ამ ხარვეზის შესახებ.
 neterror-unsafe-content-type = გთხოვთ, მიმართოთ ვებსაიტის მფლობელებს და აცნობოთ ამ ხარვეზის შესახებ.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-basic-http-auth = { -brand-short-name } მიიჩნევს, რომ არასანდოა { $hostname } ვინაიდან კავშირი დაუცველია. სცადეთ ბმულს დაურთოთ HTTPS.
 neterror-nss-failure-not-verified = გვერდის ჩვენება, რომლის ნახვასაც ცდილობთ შეუძლებელია, რადგან მიღებული მონაცემების ნამდვილობის დადასტურება ვერ ხერხდება.
 neterror-nss-failure-contact-website = გთხოვთ, მიმართოთ ვებსაიტის მფლობელებს და აცნობოთ ამ ხარვეზის შესახებ.
 # Variables:
