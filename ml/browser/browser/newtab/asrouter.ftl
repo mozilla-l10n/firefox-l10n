@@ -63,9 +63,13 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = എല്ലായിടത്തും നിങ്ങളുടെ അടയാളകുറിപ്പുകള്‍ സമന്വയിപ്പിക്കുക
 cfr-doorhanger-bookmark-fxa-link-text = അടയാളകുറിപ്പുകള്‍ ഇപ്പോൾ സമന്വയിപ്പിക്കുക…
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = അടിപ്പുബട്ടൺ
+    .title = അടയ്ക്കുക
 
 ## Protections panel
 
+cfr-protections-panel-header = പിന്തുടരപ്പെടാതെ പരതുക
 cfr-protections-panel-link-text = കൂടുതല്‍ അറിയുക
 
 ## What's New toolbar button and panel

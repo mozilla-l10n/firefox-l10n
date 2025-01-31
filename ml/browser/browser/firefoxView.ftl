@@ -64,6 +64,15 @@ firefoxview-closed-tabs-dismiss-tab =
     .title = { $tabTitle } കളയുക
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = അവസാനം ഉപയോഗിച്ചതു്
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = { $targetURI }-നെ പുതിയ ടാബിൽ തുറക്കുക
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder-header = കാണാനൊന്നുമില്ല
 firefoxview-collapse-button-show =
     .title = പട്ടിക കാണിക്കുക
 firefoxview-collapse-button-hide =

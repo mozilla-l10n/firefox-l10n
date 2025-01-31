@@ -136,10 +136,13 @@ onboarding-device-migration-primary-button-label = പ്രവേശിക്�
 ## Add-ons Picker screen
 
 amo-picker-title = { -brand-short-name } ഇഷ്ടാനുസൃതമാക്കുക
+amo-picker-install-button-label = { -brand-short-name }-ലോട്ടു് ചേൎക്കുക
 amo-picker-install-complete-label = സ്ഥാപിച്ചതു്
 
 ## The following screens have been updated to use security and privacy focused strings:
 
+# Sign up or Sign in screen
+onboarding-sign-up-title = ഉപകരണങ്ങൾ കുറുകെ രഹസ്യവാക്കുകൾ സമന്വയിപ്പിക്കുക
 onboarding-sign-up-button = പ്രവേശിക്കുക അല്ലെങ്കിൽ അംഗത്വം എടുക്കുക
 onboarding-sign-up-secondary-button = തിരയാൻ തുടങ്ങുക.
 
@@ -150,6 +153,10 @@ onboarding-new-user-survey-next-button-label = അടുത്തതു്
 
 ## UI strings for the sidebar and vertical tabs
 
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = അരികിൽ ടാബുകൾ
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = മുകളിൽ ടാബുകൾ
 onboarding-flair-text = പുതിയതു്!
 onboarding-genai-sidebar-secondary-button = തിരയാൻ തുടങ്ങുക.
 
