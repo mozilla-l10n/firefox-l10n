@@ -280,6 +280,7 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Få varsel om datalekkasjar
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Skjul ekte e-postadresse og telefonnummer
+appmenuitem-services-relay-description = Start oversikta for e-postalias
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Vern nettaktiviteten din
 appmenu-services-header = Mine tenester
