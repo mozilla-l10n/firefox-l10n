@@ -89,10 +89,14 @@ inactive-text-overflow-when-no-overflow-fix = Coba tambahkan <strong>overflow:hi
 inactive-css-not-for-internal-table-elements-fix = Cobalah menyetel properti <strong>display</strong>-nya ke nilai lain selain <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, atau <strong>tabel-footer-group</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Cobalah menyetel properti <strong>display</strong>-nya ke nilai lain selain <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, atau <strong>tabel-footer-group</strong>. { learn-more }
 inactive-css-not-table-fix = Coba tambahkan <strong>display:table</strong> atau <strong>display:inline-table</strong>. { learn-more }
+inactive-css-collapsed-table-borders-fix = Coba tambahkan <strong>border-collapse:separate</strong>. { learn-more }
+inactive-css-not-table-cell-fix = Coba tambahkan <strong>display:table-cell</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Coba tambahkan <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, atau <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = Pada elemen tabel induk, hapus properti atau ubah nilai <strong>border-collapse</strong> ke nilai selain <strong>collapse</strong>. { learn-more }
+inactive-css-resize-fix = Coba atur <strong>overflow</strong> ke nilai selain <strong>visible</strong> atau targetkan elemen pengganti yang mendukungnya. { learn-more }
 inactive-css-ruby-element-fix = Coba ubah <strong>ukuran fon</strong> dari teks ruby. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Coba kurangi jumlah baris. { learn-more }
+inactive-css-text-wrap-balance-fragmented-fix = Hindari pemisahan konten elemen, mis. dengan menghapus kolom atau dengan menggunakan <strong>page-break-inside:avoid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
