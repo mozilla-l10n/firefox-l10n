@@ -125,6 +125,7 @@ contentEncodingError-title = İçerik kodlama hatası
 unsafeContentType-title = Güvensiz dosya türü
 netReset-title = Bağlantı sıfırlandı
 netTimeout-title = Bağlantı zaman aşımına uğradı
+httpErrorPage-title = Bu siteyle ilgili bir sorun var
 serverError-title = Bu siteyle ilgili bir sorun var
 unknownProtocolFound-title = Adres anlaşılamadı
 proxyConnectFailure-title = Vekil sunucu bağlantı kabul etmiyor

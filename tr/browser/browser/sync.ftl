@@ -49,6 +49,9 @@ sync-setup-verify-description = Bu bilgisayarda farklı bir kullanıcı daha ön
 # Dialog 1 - different account signing in without option to merge
 sync-profile-different-account-title = Bu profil için hesap sınırına ulaşıldı
 sync-profile-different-account-header = Bu profil daha önce farklı bir hesapla eşitlenmiş
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+sync-profile-different-account-description = Verilerinizi düzenli ve güvenli tutmak için her { -brand-product-name } profilini yalnızca bir hesapla eşitleyebilirsiniz. { $acctEmail } hesabıyla giriş yapmak için yeni bir profil oluşturun.
 # Dialog 1 - different account signing in with merge option
 sync-profile-different-account-title-merge = Bu profil farklı bir hesapla eşitlenmiş
 # Dialog 2 - account signed in on another profile without option to merge

@@ -44,6 +44,7 @@ neterror-load-error-connection = Hiçbir sayfayı açamıyorsanız bilgisayarın
 neterror-load-error-firewall = Bilgisayarınız veya ağınız güvenlik duvarı veya vekil sunucu ile korunuyorsa { -brand-short-name } uygulamasının web’e erişim izni olduğundan emin olun.
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Bir yerel ağ sayfasını yüklemeye çalışıyorsanız lütfen macOS Gizlilik ve Güvenlik ayarlarından { -brand-short-name } uygulamasına Yerel Ağ izinlerinin verildiğini kontrol edin.
+neterror-http-error-page = Sitenin adresini doğru yazdığınızı kontrol edin.
 neterror-captive-portal = İnternete erişebilmek için önce bu ağa giriş yapmalısınız.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -99,6 +100,9 @@ neterror-proxy-connect-failure-settings = Vekil sunucu ayarlarınızın doğru o
 neterror-proxy-connect-failure-contact-admin = Vekil sunucunun çalıştığından emin olmak için ağ yöneticinizden bilgi alabilirsiniz.
 neterror-content-encoding-error = Site sahipleriyle iletişim kurarak bu sorunu onlara bildirmeyi düşünebilirsiniz.
 neterror-unsafe-content-type = Site sahipleriyle iletişim kurarak bu sorunu onlara bildirmeyi düşünebilirsiniz.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-basic-http-auth = Bağlantı güvenli olmadığı için { -brand-short-name } { $hostname } sitesine güvenmiyor. URL’yi HTTPS olarak değiştirmeyi deneyin.
 neterror-nss-failure-not-verified = Görüntülemeye çalıştığınız sayfa, alınan verilerin yetkinliği doğrulanamadığı için gösterilemiyor.
 neterror-nss-failure-contact-website = Sitenin sahibiyle iletişime geçerek bu sorunu bildirmeyi deneyebilirsiniz.
 # Variables:
