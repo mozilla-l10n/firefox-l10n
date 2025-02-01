@@ -16,6 +16,12 @@ preonboarding-terms-of-use-header-button-title = 阅读我们的使用条款
 preonboarding-privacy-notice-header-button-title = 阅读我们的隐私声明
 # Label for header style button that toggles showing the data preference checklist
 preonboarding-manage-data-header-button-title = 管理诊断和交互数据
+# Label for header style button that toggles showing the Terms of Use (Variant B)
+preonboarding-terms-of-use-header-button-title-b = { -brand-product-name } 使用条款
+# Label for header style button that toggles showing the Privacy Notice (Variant B)
+preonboarding-privacy-notice-header-button-title-b = { -brand-product-name } 隐私声明
+# Description under label for header style buttons
+preonboarding-header-button-description = 详细了解
 # New user onboarding checklist
 preonboarding-checklist-interaction-data-label = 向 { -vendor-short-name } 发送技术与交互数据
 preonboarding-checklist-interaction-data-description = 与您的设备、硬件配置、{ -brand-product-name } 使用方式相关的数据，有助于为全体用户改进功能、性能和稳定性。

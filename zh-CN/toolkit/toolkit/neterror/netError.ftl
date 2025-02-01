@@ -44,6 +44,7 @@ neterror-load-error-connection = 如果您无法加载任何网页，请检查�
 neterror-load-error-firewall = 如果您的计算机或网络受到防火墙或者代理服务器的保护，请确认 { -brand-short-name } 已被授权访问网络。
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = 若您正尝试加载本地网络页面，请在 macOS 的“隐私与安全性”设置中检查是否已允许 { -brand-short-name } 访问“本地网络”。
+neterror-http-error-page = 请确认输入的网址是否正确。
 neterror-captive-portal = 您必须先登录此网络才能访问互联网。
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -99,6 +100,9 @@ neterror-proxy-connect-failure-settings = 请检查浏览器的代理服务器�
 neterror-proxy-connect-failure-contact-admin = 请联系您的网络管理员以确认代理服务器工作正常。
 neterror-content-encoding-error = 建议向此网站的管理员反馈这个问题。
 neterror-unsafe-content-type = 建议向此网站的管理员反馈这个问题。
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-basic-http-auth = { -brand-short-name } 无法信任 { $hostname }，因为连接不安全。请尝试将网址更改为 HTTPS 协议。
 neterror-nss-failure-not-verified = 由于不能验证所收到的数据是否可信，无法显示您想要查看的页面。
 neterror-nss-failure-contact-website = 建议向此网站的管理员反馈这个问题。
 # Variables:
