@@ -29,6 +29,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Riapri schede chiuse
         }
     .accesskey = a
+toolbar-context-turn-on-vertical-tabs =
+    .label = Attiva schede verticali
+toolbar-context-turn-off-vertical-tabs =
+    .label = Disattiva schede verticali
+toolbar-context-customize-sidebar =
+    .label = Personalizza barra laterale
 toolbar-context-menu-manage-extension =
     .label = Gestisci estensione
     .accesskey = G

@@ -64,6 +64,7 @@ split-dismiss-button-manage-settings-option-label = Gestisci impostazioni
 
 sidebar-button-callout-title = Mostra i titoli delle schede nella barra laterale
 sidebar-button-callout-subtitle = Utilizza il pulsante della barra laterale per espanderla e visualizzare i titoli delle schede.
+sidebar-button-callout-vertical-tabs = Per visualizzare le schede, seleziona il pulsante della barra laterale nella barra degli strumenti.
 
 ## Sidebar Callout Survey Strings
 
