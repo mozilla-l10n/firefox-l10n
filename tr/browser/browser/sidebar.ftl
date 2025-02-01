@@ -130,6 +130,10 @@ sidebar-menu-close-ai-chatbot-tooltip = Yapay zekâ sohbet botunu kapat
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
+sidebar-menu-open-ai-chatbot-tooltip-generic = YZ sohbet botunu aç ({ $shortcut })
+sidebar-menu-open-ai-chatbot-provider-tooltip = { $provider } servisini aç ({ $shortcut })
+sidebar-menu-close-ai-chatbot-tooltip-generic = YZ sohbet botunu kapat ({ $shortcut })
+sidebar-menu-close-ai-chatbot-provider-tooltip = { $provider } servisini kapat ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 
