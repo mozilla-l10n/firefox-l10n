@@ -184,7 +184,7 @@ duration-unit-d = n
 ## Memory units
 
 memory-unit-B = B
-memory-unit-KB = KB
+memory-unit-KB = kB
 memory-unit-MB = MB
 memory-unit-GB = GB
 memory-unit-TB = TB

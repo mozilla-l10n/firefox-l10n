@@ -19,3 +19,4 @@ confirmation-hint-credit-card-updated = حُدِّثت البطاقة
 confirmation-hint-pin-tab = ثبّتناه!
 confirmation-hint-pin-tab-description = انقر باليمين على اللسان لإفلاته.
 confirmation-hint-send-to-device = نجح الإرسال.
+confirmation-hint-screenshot-copied = نُسخت لقطة الشاشة!
