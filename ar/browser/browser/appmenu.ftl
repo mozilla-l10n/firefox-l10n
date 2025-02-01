@@ -279,9 +279,12 @@ appmenuitem-sign-in-account = لِج إلى حسابك
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = احصل على تنبيهات تسريب البيانات
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = أخفِ بريدك الإلكتروني ورقم هاتفك الحقيقي
+appmenuitem-services-relay-description = إطلاق لوحة معلومات أقنعة البريد الإلكتروني
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = احمِ نشاطك على الإنترنت
 appmenu-services-header = خدماتي
+appmenu-other-protection-header = جرّب أدوات حماية أخرى من { -vendor-short-name }:
 
 ## Profiles panel
 

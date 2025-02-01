@@ -314,6 +314,10 @@ quickactions-cmd-viewsource = اعرض المصدر، مصدر
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = تعرف على المزيد حول الإجراءات السريعة
+# Will be shown to users the first configurable number of times
+# they experience actions giving them instructions on how to
+# select the action shown by pressing the tab key.
+press-tab-label = اضغط على tab لتحديد:
 
 ## Bookmark Panel
 
@@ -701,6 +705,11 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = عمليات البحث الأخيرة
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = الشائع في { $engine }
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = لا تعرض عمليات البحث الشائعة
@@ -708,6 +717,9 @@ urlbar-result-menu-trending-dont-show =
 urlbar-result-menu-trending-why =
     .label = لماذا أرى هذا؟
     .accesskey = ل
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = شكرًا على تعليقك. لن ترى عمليات البحث الشائعة بعد الآن.
 
 ## Reader View toolbar buttons
 
@@ -1017,6 +1029,11 @@ unified-extensions-button-quarantined =
 ## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-blocklisted =
+    .label = الامتدادات
+    .tooltiptext =
+        الامتدادات
+        بعض الامتدادات مُعطَّلة
 
 ## Private browsing reset button
 
