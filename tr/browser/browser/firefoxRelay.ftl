@@ -62,6 +62,7 @@ firefox-relay-offer-legal-notice-control = Kaydolup e-posta maskesi oluşturarak
 ## The "basic-info" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-basic-info = Ücretsiz e-posta maskesiyle spam’i önleyin
+firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = Ücretsiz bir <label data-l10n-name="firefox-relay-learn-more-url">e-posta maskesi</label> ile gerçek e-posta adresinizi gizleyerek spam’i önleyebilirsiniz. <label data-l10n-name="firefox-fxa-and-relay-offer-domain">Bu siteden</label> e-postalar gelen kutunuza ulaşmaya devam edecek ama e-posta adresiniz gizlenecek.
 firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = E-posta maskelerini kullanmak için kaydolun veya hesabınıza giriş yapın
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = Kaydol
