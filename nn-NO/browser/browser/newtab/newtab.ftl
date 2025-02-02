@@ -328,6 +328,7 @@ newtab-wallpaper-dark-sky = Bylandskap med nattehimmel
 newtab-wallpaper-dark-mountain = Fjellandskap
 newtab-wallpaper-dark-city = Lilla bylandskap
 newtab-wallpaper-dark-fox-anniversary = Ein rev på fortauet nær ein skog
+newtab-wallpaper-light-fox-anniversary = Ein rev i ei graskledd mark med eit tåkete fjellandskap
 
 ## Solid Colors
 
@@ -460,6 +461,7 @@ newtab-topic-selection-button-pick-interests = Vel interessene dine
 
 newtab-section-follow-button = Følg
 newtab-section-following-button = Følgjer
+newtab-section-unfollow-button = Slutt å følgje
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
