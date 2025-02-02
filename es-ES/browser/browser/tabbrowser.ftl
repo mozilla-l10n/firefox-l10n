@@ -74,6 +74,13 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = Restaurar sonido en pestaña
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = Silenciar pestaña
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = Dar audio a pestaña
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -193,6 +200,18 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Restaurar sonido en pestaña
 tabbrowser-manager-close-tab =
     .tooltiptext = Cerrar pestaña
+# This is for tab groups that have been "saved and closed" (see tab-group-editor-action-save). It does
+# not include "deleted" tab groups (see tab-group-editor-action-delete).
+tabbrowser-manager-closed-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — Cerrado
+tabbrowser-manager-current-window-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — Ventana actual
+# "Show more" is for showing all open groups from other windows, as well as saved groups. Initially,
+# we only show up to six of these groups.
+tabbrowser-manager-tab-groups-show-more =
+    .label = Mostrar más
 
 ## Tab Groups
 
@@ -204,6 +223,12 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Cancelar
     .accesskey = C
+tab-group-editor-color-selector =
+    .aria-label = Color del grupo de pestañas
+tab-group-editor-color-selector2-blue = Azul
+    .title = Azul
+tab-group-editor-color-selector2-purple = Púrpura
+    .title = Púrpura
 tab-group-menu-header = Grupos de pestañas
 tab-context-unnamed-group =
     .label = Grupo sin nombre
