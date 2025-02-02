@@ -100,6 +100,9 @@ neterror-proxy-connect-failure-settings = Skontrolujte nastavenia proxy servera.
 neterror-proxy-connect-failure-contact-admin = Obráťte sa na správcu siete a skontrolujte, či server proxy funguje.
 neterror-content-encoding-error = Obráťte sa na vlastníkov stránky a informujte ich o tomto probléme.
 neterror-unsafe-content-type = Obráťte sa na vlastníkov stránky a informujte ich o tomto probléme.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-basic-http-auth = { -brand-short-name } nedôveruje lokalite { $hostname }, pretože pripojenie nie je bezpečné. Skúste zmeniť adresu URL na HTTPS.
 neterror-nss-failure-not-verified = Stránku nemožno zobraziť, pretože pravosť prijímaných údajov sa nedá overiť.
 neterror-nss-failure-contact-website = Obráťte sa na vlastníkov stránky a informujte ich o tomto probléme.
 # Variables:
