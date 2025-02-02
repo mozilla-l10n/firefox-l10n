@@ -299,6 +299,8 @@ root-certificate-succession-infobar-secondary-button =
 
 ## Root Certificate Succession Windows Background Notification
 
+root-certificate-windows-background-notification-title = Du gjekk glipp av ei viktig { -brand-short-name }-oppdatering
+root-certificate-windows-background-notification-subtitle = Delar av nettlesaren sluttar snart å fungere viss du ikkje oppdaterer. No er ei flott tid for å få nyaste vern og funksjonar.
 root-certificate-windows-background-notification-learn-more-button = Les meir
 root-certificate-windows-background-notification-update-button = Oppdater { -brand-short-name }
 

@@ -8,6 +8,9 @@
 newtab-page-title = Ny fane
 newtab-settings-button =
     .title = Tilpass sida for Ny fane
+newtab-personalize-settings-icon-label =
+    .title = Tilpass ny fane
+    .aria-label = Innstillingar
 newtab-settings-dialog-label =
     .aria-label = Innstillingar
 newtab-personalize-icon-label =
@@ -117,6 +120,9 @@ newtab-menu-about-fakespot = Om { -fakespot-brand-name }
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Blokker
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
+newtab-menu-section-unfollow = Slutt å følgje emnet
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -321,6 +327,7 @@ newtab-wallpaper-dark-panda = Raudpanda gøymt i skogen
 newtab-wallpaper-dark-sky = Bylandskap med nattehimmel
 newtab-wallpaper-dark-mountain = Fjellandskap
 newtab-wallpaper-dark-city = Lilla bylandskap
+newtab-wallpaper-dark-fox-anniversary = Ein rev på fortauet nær ein skog
 
 ## Solid Colors
 

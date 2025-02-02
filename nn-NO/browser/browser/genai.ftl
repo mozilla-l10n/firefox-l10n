@@ -78,6 +78,10 @@ genai-options-reload-generic =
 # $provider (string) - name of the provider
 genai-options-reload-provider =
     .label = Oppdater { $provider }
+genai-options-show-shortcut =
+    .label = Vis snarveg når du vel tekst
+genai-options-hide-shortcut =
+    .label = Skjul snarveg når du vel tekst
 genai-options-about-chatbot =
     .label = Om AI-samtalerobotar i { -brand-short-name }
 
@@ -105,6 +109,7 @@ genai-onboarding-huggingchat-learn = Les meir om HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-onboarding-lechat-learn = Les meir om Le Chat
+genai-onboarding-select-header = Marker tekst for å sjå forslag
 genai-onboarding-select-description = Når du vel tekst føreslår vi spørsmål du kan sende til samtaleroboten. Du kan òg skrive eigne spørsmål.
 genai-onboarding-select-primary = Begynn å chatte
 
@@ -112,7 +117,11 @@ genai-onboarding-select-primary = Begynn å chatte
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
 genai-onboarding-claude-generate = Lag tekst og kode
+genai-onboarding-claude-analyze = Analyser dokument og bilde
+genai-onboarding-chatgpt-analyze = Analyser dokument og bilde
 genai-onboarding-copilot-analyze = Analyser bilde
+genai-onboarding-copilot-price = Gratis og betalte alternativ; konto er påkravd for enkelte oppgåver
+genai-onboarding-gemini-generate = Generer tekst, bilde og kode
 genai-onboarding-huggingchat-generate = Lag tekst og kode
 genai-onboarding-lechat-generate = Lag tekst og kode
 genai-onboarding-lechat-price = Gratis; konto påkravd
