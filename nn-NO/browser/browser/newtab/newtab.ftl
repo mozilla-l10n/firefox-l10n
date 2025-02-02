@@ -473,6 +473,9 @@ newtab-section-unblock-button = Opphev blokkeringa
 
 ## Confirmation modal for blocking a section
 
+newtab-section-confirm-block-section-p1 = Er du sikker på at du vil blokkere denne delen?
+newtab-section-confirm-block-section-p2 = Blokkert del vil ikkje lenger visast i kjelda di.
+newtab-section-block-section-button = Blokker denne delen
 newtab-section-cancel-button = Ikkje no
 
 ## Panel in the Customize menu section to manage followed and blocked topics

@@ -30,6 +30,8 @@ firefox-relay-opt-in-title-a = Hindre spam med eit gratis e-postalias
 firefox-relay-opt-in-subtitle-a = Skjul den verkelege e-postadressa di.
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
 firefox-relay-opt-in-title-b = Få eit gratis e-postalias
+# This is preceded by firefox-relay-opt-in-title-b (on a different line)
+firefox-relay-opt-in-subtitle-b = Vern innboksen din mot spam
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Bruk e-postalias
     .accesskey = B
@@ -39,6 +41,9 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Ikkje no
     .accesskey = k
+firefox-relay-and-fxa-opt-in-confirmation-enable-button =
+    .label = Logg inn på { -brand-product-name } og bruk e-postalias
+    .accesskey = L
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
     .label = Registrer deg
     .accesskey = R
