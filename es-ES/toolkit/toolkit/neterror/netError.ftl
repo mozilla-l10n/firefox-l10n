@@ -12,6 +12,7 @@ neterror-blocked-by-policy-page-title = Página bloqueada
 neterror-captive-portal-page-title = Iniciar sesión en la red
 neterror-dns-not-found-title = Servidor no encontrado
 neterror-malformed-uri-page-title = URL no válida
+general-body-title = Tenga cuidado. Parece que algo no está bien.
 
 ## Error page actions
 
@@ -43,6 +44,7 @@ neterror-load-error-connection = Si no puede cargar ninguna página, compruebe l
 neterror-load-error-firewall = Si su equipo o red están protegidos por un cortafuegos o proxy, asegúrese de que { -brand-short-name } tiene permiso para acceder a la web.
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Si se está intentando cargar una página en la red local, verifique que se hayan otorgado permisos de red local a { -brand-short-name } en la configuración de Privacidad y seguridad de macOS.
+neterror-http-error-page = Verifique haber escrito correctamente la dirección del sitio web.
 neterror-captive-portal = Debe iniciar sesión en esta red antes de que pueda acceder a Internet.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -98,6 +100,9 @@ neterror-proxy-connect-failure-settings = Compruebe la configuración de proxy p
 neterror-proxy-connect-failure-contact-admin = Contacte con su administrador de red para asegurarse de que el servidor proxy está funcionando.
 neterror-content-encoding-error = Contacte con los propietarios del sitio web para informarles de este problema.
 neterror-unsafe-content-type = Contacte con los propietarios del sitio web para informarles de este problema.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-basic-http-auth = { -brand-short-name } no confía en { $hostname } porque la conexión no es segura. Intente cambiar la URL a HTTPS.
 neterror-nss-failure-not-verified = La página que está intentando ver no se puede mostrar porque la autenticidad de los datos recibidos no ha podido ser verificada.
 neterror-nss-failure-contact-website = Contacte con los propietarios del sitio web para informarles de este problema.
 # Variables:
@@ -151,6 +156,7 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Si no está familiarizado c
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> tiene una política de seguridad llamada HTTP Strict Transport Security (HSTS), que significa que { -brand-short-name } solo puede conectarse a él de forma segura. No puede añadir una excepción para visitar este sitio.
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = Probablemente nada, ya que es posible que haya un problema con el sitio.
+certerror-blocked-by-corp-headers-description = A veces, los sitios web configuran protecciones para sí mismos y para personas contra interacciones no deseadas con otros sitios.
 # Variables:
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
