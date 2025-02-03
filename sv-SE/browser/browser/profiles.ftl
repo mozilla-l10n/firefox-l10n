@@ -98,7 +98,7 @@ profiles-system-theme = System
 ## Alternative text for default profile icons
 
 book-avatar-alt =
-    .alt = Boka
+    .alt = Bok
 briefcase-avatar-alt =
     .alt = Portfölj
 flower-avatar-alt =
@@ -108,4 +108,4 @@ heart-avatar-alt =
 shopping-avatar-alt =
     .alt = Varukorg
 star-avatar-alt =
-    .alt = Märke
+    .alt = Stjärna

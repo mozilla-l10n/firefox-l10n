@@ -1419,6 +1419,7 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } håller på att f
 
 httpsonly-header = Endast HTTPS-läge
 httpsonly-description3 = Tillåter endast säkra anslutningar till webbplatser. { -brand-short-name } kommer att fråga innan du ansluter osäkert.
+httpsonly-learn-more2 = Hur endast HTTPS fungerar
 httpsonly-description = HTTPS ger en säker, krypterad anslutning mellan { -brand-short-name } och de webbplatser du besöker. De flesta webbplatser stöder HTTPS och om endast HTTPS-läget är aktiverat kommer { -brand-short-name } att uppgradera alla anslutningar till HTTPS.
 httpsonly-description2 = { -brand-short-name } skapar säkra och krypterade förbindelser till webbplatser du besöker. { -brand-short-name } varnar om en anslutning inte är säker när läget endast HTTPS är på.
 httpsonly-learn-more = Läs mer
