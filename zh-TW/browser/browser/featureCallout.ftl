@@ -64,6 +64,7 @@ split-dismiss-button-manage-settings-option-label = 管理設定
 
 sidebar-button-callout-title = 在側邊欄顯示分頁標題
 sidebar-button-callout-subtitle = 使用側邊欄按鈕展開側邊欄，就可以看到分頁標題。
+sidebar-button-callout-vertical-tabs = 選擇工具列中的側邊欄按鈕，即可顯示您的分頁。
 
 ## Sidebar Callout Survey Strings
 
@@ -91,6 +92,7 @@ sidebar-callout-survey-thank-you = 感謝您的意見回饋！
 sidebar-genai-survey-satisfaction-question = 您對在側邊欄中能夠直接使用 AI 聊天機器人的功能，有多滿意？
 sidebar-genai-survey-productive-question = 您對下面的描述有多同意：<br/>「側邊欄中的 AI 聊天機器人讓我更有生產力」
 unified-search-callout-title = 切換不同搜尋引擎
+unified-search-callout-subtitle = 選擇最適合您要搜尋的內容的搜尋引擎。
 unified-search-callout-primary-label = 下一步
 unified-search-callout-secondary-label = 知道了！
 unified-search-engines-callout-title = 使用快速鍵進行搜尋

@@ -64,6 +64,7 @@ split-dismiss-button-manage-settings-option-label = Sýsla með stillingar
 
 sidebar-button-callout-title = Sýndu titla flipa í hliðarstikunni
 sidebar-button-callout-subtitle = Notaðu hliðarstikuhnappinn til að stækka hliðarstikuna, svo þú getir séð titlana á flipunum.
+sidebar-button-callout-vertical-tabs = Til að sýna flipana þína skaltu velja hliðarstikuhnappinn á verkfærastikunni.
 
 ## Sidebar Callout Survey Strings
 
@@ -94,3 +95,6 @@ sidebar-genai-survey-satisfaction-question = Hversu ánægð/ur ertu með að ha
 sidebar-genai-survey-productive-question =
     Að hve miklu leyti ertu sammála eða ósammála þessari fullyrðingu:<br/>
     „Gervigreindar-spjallkerfið í hliðarstikunni hjálpar mér að vera afkastameiri“?
+unified-search-callout-title = Skiptu á milli leitarvéla
+unified-search-callout-primary-label = Næsta
+unified-search-callout-secondary-label = Afgreiða

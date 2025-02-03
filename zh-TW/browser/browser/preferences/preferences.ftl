@@ -1404,6 +1404,7 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } 的磁碟空間�
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = 純 HTTPS 模式
+httpsonly-description3 = 僅允許對網站使用安全連線。{ -brand-short-name } 會在進行不安全連線前先詢問。
 httpsonly-learn-more2 = 純 HTTPS 模式的運作原理是什麼？
 httpsonly-description = HTTPS 讓您與要造訪的網站間，能夠有安全而加密過的連線。大部分的網站都支援 HTTPS，開啟純 HTTPS 模式後，{ -brand-short-name } 就會將所有的連線都升級為 HTTPS 連線。
 httpsonly-description2 = { -brand-short-name } 會與您造訪的網站建立安全、加密過的連線。開啟 HTTPS-Only 後，若遇到不安全的連線，{ -brand-short-name } 會警告您。
