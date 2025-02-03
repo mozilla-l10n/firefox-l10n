@@ -416,6 +416,8 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Après examen, cette extension a été reconnue conforme à nos normes de sécurité et de performance
     .aria-label = { addon-badge-verified2.title }
+addon-badge-recommended3 =
+    .title = { -brand-product-name } ne recommande que des extensions conformes à nos normes en matière de sécurité et de performances.
 
 ##
 
