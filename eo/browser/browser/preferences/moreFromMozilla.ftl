@@ -32,3 +32,6 @@ more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-us-description = Aŭtomate repreni viajn elmetitajn personajn informojn.
 more-from-moz-mozilla-monitor-global-description = Ricevu atentigojn kiam viaj datumoj estas elmetitaj de datumfuĝo.
 more-from-moz-mozilla-monitor-button = Elŝuti { -monitor-brand-short-name }
+
+## These strings are for the Solo card in about:preferences moreFromMozilla page
+

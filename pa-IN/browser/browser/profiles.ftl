@@ -92,3 +92,6 @@ profiles-light-theme = ਹਲਕਾ
 profiles-dark-theme = ਗੂੜ੍ਹਾ
 # The default system theme
 profiles-system-theme = ਸਿਸਟਮ
+
+## Alternative text for default profile icons
+

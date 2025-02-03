@@ -29,3 +29,6 @@ more-from-moz-firefox-relay-button = { -relay-brand-short-name } ගන්න
 
 more-from-moz-mozilla-monitor-global-description = ඔබගේ දත්ත උල්ලංඝනය වී ඇති විට ඇඟවීම් ලබා ගන්න.
 more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name } ගන්න
+
+## These strings are for the Solo card in about:preferences moreFromMozilla page
+

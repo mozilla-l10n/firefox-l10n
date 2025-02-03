@@ -44,3 +44,6 @@ profiles-light-theme = پھکا
 profiles-dark-theme = شوخ
 # The default system theme
 profiles-system-theme = سسٹم
+
+## Alternative text for default profile icons
+

@@ -32,3 +32,6 @@ more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-us-description = Ota vuotaneet henkilötietosi automaattisesti takaisin.
 more-from-moz-mozilla-monitor-global-description = Vastaanota hälytyksiä, kun tietosi ovat joutuneet osaksi tietovuotoa.
 more-from-moz-mozilla-monitor-button = Hanki { -monitor-brand-short-name }
+
+## These strings are for the Solo card in about:preferences moreFromMozilla page
+

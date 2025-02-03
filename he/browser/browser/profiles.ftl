@@ -92,3 +92,6 @@ profiles-light-theme = בהיר
 profiles-dark-theme = כהה
 # The default system theme
 profiles-system-theme = מערכת
+
+## Alternative text for default profile icons
+

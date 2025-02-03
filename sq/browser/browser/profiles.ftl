@@ -92,3 +92,6 @@ profiles-light-theme = E çelët
 profiles-dark-theme = E errët
 # The default system theme
 profiles-system-theme = Sistem
+
+## Alternative text for default profile icons
+

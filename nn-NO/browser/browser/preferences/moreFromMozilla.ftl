@@ -32,3 +32,6 @@ more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-us-description = Ta automatisk tilbake den eksponerte personlege informasjonen din.
 more-from-moz-mozilla-monitor-global-description = Få varsel når dataa dine har vore i ein datalekkasje.
 more-from-moz-mozilla-monitor-button = Få { -monitor-brand-short-name }
+
+## These strings are for the Solo card in about:preferences moreFromMozilla page
+

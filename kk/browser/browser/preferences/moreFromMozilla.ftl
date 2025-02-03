@@ -32,3 +32,6 @@ more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-us-description = Ашылған жеке ақпаратыңызды автоматты түрде қайтарыңыз.
 more-from-moz-mozilla-monitor-global-description = Деректеріңіз бұзылған кезде ескертулер алыңыз.
 more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name } алу
+
+## These strings are for the Solo card in about:preferences moreFromMozilla page
+

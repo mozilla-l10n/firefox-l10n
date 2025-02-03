@@ -92,3 +92,6 @@ profiles-light-theme = روشن
 profiles-dark-theme = تیره
 # The default system theme
 profiles-system-theme = سیستم
+
+## Alternative text for default profile icons
+

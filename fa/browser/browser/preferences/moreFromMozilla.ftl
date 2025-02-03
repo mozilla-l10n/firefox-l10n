@@ -14,3 +14,6 @@ more-from-moz-firefox-relay-title = { -relay-brand-name }
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
+
+## These strings are for the Solo card in about:preferences moreFromMozilla page
+

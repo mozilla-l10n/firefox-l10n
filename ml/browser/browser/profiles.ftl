@@ -85,3 +85,6 @@ profiles-light-theme = ഇളം
 profiles-dark-theme = ഇരുണ്ടതു്
 # The default system theme
 profiles-system-theme = വ്യവസ്ഥാനുസാരം
+
+## Alternative text for default profile icons
+

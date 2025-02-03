@@ -32,3 +32,6 @@ more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-us-description = Rifitoni automatikisht hollësi personale të ekspozuara.
 more-from-moz-mozilla-monitor-global-description = Merrni sinjalizime, kur të dhënat tuaja janë bërë pjesë e një cenimi.
 more-from-moz-mozilla-monitor-button = Merrni { -monitor-brand-short-name }-in
+
+## These strings are for the Solo card in about:preferences moreFromMozilla page
+

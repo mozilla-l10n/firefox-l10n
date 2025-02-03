@@ -32,3 +32,6 @@ more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-us-description = ਤੁਹਾਡੀ ਜ਼ਾਹਿਰ ਹੋਈ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਨੂੰ ਆਪਣੇ-ਆਪ ਵਾਪਸ ਲਵੋ।
 more-from-moz-mozilla-monitor-global-description = ਜਦੋਂ ਤੁਹਾਡੇ ਡਾਟੇ ਨੂੰ ਸੰਨ੍ਹ ਲੱਗੇ ਤਾਂ ਚੇਤਾਵਨੀਆਂ ਲਵੋ।
 more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name } ਲਵੋ
+
+## These strings are for the Solo card in about:preferences moreFromMozilla page
+

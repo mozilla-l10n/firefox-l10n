@@ -28,3 +28,6 @@ more-from-moz-firefox-relay-button = { -relay-brand-short-name } লাভ ক�
 
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
+
+## These strings are for the Solo card in about:preferences moreFromMozilla page
+

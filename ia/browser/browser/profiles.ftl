@@ -92,3 +92,6 @@ profiles-light-theme = Clar
 profiles-dark-theme = Obscur
 # The default system theme
 profiles-system-theme = Systema
+
+## Alternative text for default profile icons
+

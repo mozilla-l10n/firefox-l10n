@@ -25,3 +25,6 @@ more-from-moz-learn-more-link = Իմանալ աւելին
 
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
+
+## These strings are for the Solo card in about:preferences moreFromMozilla page
+

@@ -32,3 +32,6 @@ more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-us-description = 自动收回您遭受暴露的个人信息。
 more-from-moz-mozilla-monitor-global-description = 在您的数据遭受外泄时发出警报。
 more-from-moz-mozilla-monitor-button = 使用 { -monitor-brand-short-name }
+
+## These strings are for the Solo card in about:preferences moreFromMozilla page
+

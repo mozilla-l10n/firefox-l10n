@@ -92,3 +92,6 @@ profiles-light-theme = Ljóst
 profiles-dark-theme = Dökkt
 # The default system theme
 profiles-system-theme = Kerfi
+
+## Alternative text for default profile icons
+

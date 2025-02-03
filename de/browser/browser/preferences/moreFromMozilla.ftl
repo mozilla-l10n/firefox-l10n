@@ -32,3 +32,6 @@ more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-us-description = Nehmen Sie Ihre offengelegten persönlichen Daten automatisch zurück.
 more-from-moz-mozilla-monitor-global-description = Erhalten Sie Warnungen, wenn Ihre Daten von einem Leck betroffen sind.
 more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name } holen
+
+## These strings are for the Solo card in about:preferences moreFromMozilla page
+

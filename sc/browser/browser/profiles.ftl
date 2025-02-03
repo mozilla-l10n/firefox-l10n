@@ -63,3 +63,6 @@ delete-profile-confirm = Cantzella
 profiles-dark-theme = Iscuru
 # The default system theme
 profiles-system-theme = Sistema
+
+## Alternative text for default profile icons
+

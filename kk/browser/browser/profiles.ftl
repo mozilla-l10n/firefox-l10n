@@ -92,3 +92,6 @@ profiles-light-theme = Ашық түсті
 profiles-dark-theme = Күңгірт түсті
 # The default system theme
 profiles-system-theme = Жүйелік
+
+## Alternative text for default profile icons
+

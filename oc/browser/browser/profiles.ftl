@@ -66,3 +66,6 @@ profiles-light-theme = Clar
 profiles-dark-theme = Escur
 # The default system theme
 profiles-system-theme = Sistèma
+
+## Alternative text for default profile icons
+

@@ -29,3 +29,6 @@ more-from-moz-firefox-relay-button = Tapout { -relay-brand-short-name }
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-button = Tapout { -monitor-brand-short-name }
+
+## These strings are for the Solo card in about:preferences moreFromMozilla page
+

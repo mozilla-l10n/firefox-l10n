@@ -90,3 +90,6 @@ profiles-light-theme = Tesakã
 profiles-dark-theme = Ypytũ
 # The default system theme
 profiles-system-theme = Apopyvusu
+
+## Alternative text for default profile icons
+

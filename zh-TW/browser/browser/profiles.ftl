@@ -92,3 +92,6 @@ profiles-light-theme = 亮色
 profiles-dark-theme = 暗色
 # The default system theme
 profiles-system-theme = 系統
+
+## Alternative text for default profile icons
+

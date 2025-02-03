@@ -32,3 +32,6 @@ more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-us-description = Neem automatisch uw gelekte persoonlijke gegevens terug.
 more-from-moz-mozilla-monitor-global-description = Ontvang waarschuwingen wanneer uw gegevens voorkomen in een datalek.
 more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name } downloaden
+
+## These strings are for the Solo card in about:preferences moreFromMozilla page
+

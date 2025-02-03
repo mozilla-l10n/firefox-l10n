@@ -32,3 +32,6 @@ more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-us-description = გამჟღავნებული პირადი მონაცემების ავტომატური დაბრუნება.
 more-from-moz-mozilla-monitor-global-description = გაცნობებთ, თუ თქვენი მონაცემები მიტაცებული აღმოჩნდება.
 more-from-moz-mozilla-monitor-button = გამოიყენეთ { -monitor-brand-short-name }
+
+## These strings are for the Solo card in about:preferences moreFromMozilla page
+

@@ -92,3 +92,6 @@ profiles-light-theme = Açık
 profiles-dark-theme = Koyu
 # The default system theme
 profiles-system-theme = Sistem
+
+## Alternative text for default profile icons
+

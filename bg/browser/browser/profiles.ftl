@@ -52,3 +52,6 @@ profiles-light-theme = Светла
 profiles-dark-theme = Тъмна
 # The default system theme
 profiles-system-theme = Системна
+
+## Alternative text for default profile icons
+

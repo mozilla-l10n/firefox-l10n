@@ -32,3 +32,6 @@ more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-us-description = לקבל בחזרה באופן אוטומטי את המידע האישי החשוף שלך.
 more-from-moz-mozilla-monitor-global-description = קבלת התרעות כאשר הנתונים שלך היו חלק מדליפה.
 more-from-moz-mozilla-monitor-button = קבלת { -monitor-brand-short-name }
+
+## These strings are for the Solo card in about:preferences moreFromMozilla page
+

@@ -32,3 +32,6 @@ more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-us-description = Samodejno si povrnite izpostavljene osebne podatke.
 more-from-moz-mozilla-monitor-global-description = Prejmite opozorilo v primeru, da pride do izpostavitve vaših podatkov.
 more-from-moz-mozilla-monitor-button = Pridobite { -monitor-brand-short-name }
+
+## These strings are for the Solo card in about:preferences moreFromMozilla page
+

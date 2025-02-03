@@ -32,3 +32,6 @@ more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-us-description = Автоматически отзывайте раскрытую личную информацию.
 more-from-moz-mozilla-monitor-global-description = Получайте оповещения, когда ваши данные оказались в утечке.
 more-from-moz-mozilla-monitor-button = Получить { -monitor-brand-short-name }
+
+## These strings are for the Solo card in about:preferences moreFromMozilla page
+

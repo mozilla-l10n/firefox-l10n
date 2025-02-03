@@ -92,3 +92,6 @@ profiles-light-theme = Jasny
 profiles-dark-theme = Ciemny
 # The default system theme
 profiles-system-theme = Motyw systemu
+
+## Alternative text for default profile icons
+

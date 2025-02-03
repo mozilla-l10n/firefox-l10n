@@ -92,3 +92,6 @@ profiles-light-theme = Cler
 profiles-dark-theme = Stgir
 # The default system theme
 profiles-system-theme = Sistem
+
+## Alternative text for default profile icons
+

@@ -92,3 +92,6 @@ profiles-light-theme = สว่าง
 profiles-dark-theme = มืด
 # The default system theme
 profiles-system-theme = ระบบ
+
+## Alternative text for default profile icons
+

@@ -92,3 +92,6 @@ profiles-light-theme = Hell
 profiles-dark-theme = Dunkel
 # The default system theme
 profiles-system-theme = System
+
+## Alternative text for default profile icons
+

@@ -32,3 +32,6 @@ more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-us-description = Automaticamente reprende tu informationes personal exponite.
 more-from-moz-mozilla-monitor-global-description = Obtene avisos quando tu datos ha essite in un violation.
 more-from-moz-mozilla-monitor-button = Obtene { -monitor-brand-short-name }
+
+## These strings are for the Solo card in about:preferences moreFromMozilla page
+

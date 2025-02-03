@@ -92,3 +92,6 @@ profiles-light-theme = Golau
 profiles-dark-theme = Tywyll
 # The default system theme
 profiles-system-theme = System
+
+## Alternative text for default profile icons
+

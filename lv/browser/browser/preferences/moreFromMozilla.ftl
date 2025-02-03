@@ -32,3 +32,6 @@ more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-us-description = Automātiski atgūt savu atklāto personas informāciju.
 more-from-moz-mozilla-monitor-global-description = Saņemiet brīdinājumus, ja jūsu dati tika nopludināti.
 more-from-moz-mozilla-monitor-button = Iegūt { -monitor-brand-short-name }
+
+## These strings are for the Solo card in about:preferences moreFromMozilla page
+

@@ -32,3 +32,6 @@ more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-us-description = Аўтаматычна адклікайце сваю выкрытую асабістую інфармацыю.
 more-from-moz-mozilla-monitor-global-description = Атрымлівайце абвесткі, калі вашы дадзеныя выявіліся ва ўцечцы.
 more-from-moz-mozilla-monitor-button = Атрымаць { -monitor-brand-short-name }
+
+## These strings are for the Solo card in about:preferences moreFromMozilla page
+

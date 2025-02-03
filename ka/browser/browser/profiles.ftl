@@ -92,3 +92,6 @@ profiles-light-theme = ნათელი
 profiles-dark-theme = მუქი
 # The default system theme
 profiles-system-theme = სისტემის
+
+## Alternative text for default profile icons
+

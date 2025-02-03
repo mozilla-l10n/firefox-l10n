@@ -92,3 +92,6 @@ profiles-light-theme = Terang
 profiles-dark-theme = Gelap
 # The default system theme
 profiles-system-theme = Sistem
+
+## Alternative text for default profile icons
+

@@ -32,3 +32,6 @@ more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-us-description = Taka sjálfkrafa til baka berskjaldaðar persónulegar upplýsingar frá þér.
 more-from-moz-mozilla-monitor-global-description = Fáðu tilkynningar þegar gögnin þín hafa komið við sögu í gagnaráni.
 more-from-moz-mozilla-monitor-button = Fáðu þér { -monitor-brand-short-name }
+
+## These strings are for the Solo card in about:preferences moreFromMozilla page
+

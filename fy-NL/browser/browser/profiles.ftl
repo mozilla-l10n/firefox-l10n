@@ -92,3 +92,6 @@ profiles-light-theme = Ljocht
 profiles-dark-theme = Donker
 # The default system theme
 profiles-system-theme = Systeem
+
+## Alternative text for default profile icons
+

@@ -92,3 +92,6 @@ profiles-light-theme = Φωτεινό
 profiles-dark-theme = Σκοτεινό
 # The default system theme
 profiles-system-theme = Συστήματος
+
+## Alternative text for default profile icons
+

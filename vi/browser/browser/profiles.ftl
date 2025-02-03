@@ -92,3 +92,6 @@ profiles-light-theme = Sáng
 profiles-dark-theme = Tối
 # The default system theme
 profiles-system-theme = Hệ thống
+
+## Alternative text for default profile icons
+

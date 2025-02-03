@@ -81,3 +81,6 @@ profiles-light-theme = فاتح
 profiles-dark-theme = داكن
 # The default system theme
 profiles-system-theme = النظام
+
+## Alternative text for default profile icons
+

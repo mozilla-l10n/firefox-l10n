@@ -32,3 +32,6 @@ more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-us-description = Waše wótekšyte wósobinske informacije awtomatiski anulěrowaś
 more-from-moz-mozilla-monitor-global-description = Warnowanja dostaś, gaž waše daty su byli w źěrje datow.
 more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name } wobstaraś
+
+## These strings are for the Solo card in about:preferences moreFromMozilla page
+

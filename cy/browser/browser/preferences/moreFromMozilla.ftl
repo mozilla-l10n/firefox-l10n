@@ -32,3 +32,6 @@ more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-us-description = Adfer  yn awtomatig eich manylion personol a ddatgelwyd.
 more-from-moz-mozilla-monitor-global-description = Derbyn rhybuddion pan fydd eich data wedi'i ddatgelu.
 more-from-moz-mozilla-monitor-button = Cael { -monitor-brand-short-name }
+
+## These strings are for the Solo card in about:preferences moreFromMozilla page
+

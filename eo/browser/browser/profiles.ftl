@@ -92,3 +92,6 @@ profiles-light-theme = Hela
 profiles-dark-theme = Malhela
 # The default system theme
 profiles-system-theme = Sistemo
+
+## Alternative text for default profile icons
+

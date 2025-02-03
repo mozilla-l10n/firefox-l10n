@@ -92,3 +92,6 @@ profiles-light-theme = Vaalea
 profiles-dark-theme = Tumma
 # The default system theme
 profiles-system-theme = Järjestelmä
+
+## Alternative text for default profile icons
+

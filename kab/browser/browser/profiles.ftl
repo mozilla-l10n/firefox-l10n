@@ -65,3 +65,6 @@ profiles-light-theme = Aceɛlal
 profiles-dark-theme = Aberkan
 # The default system theme
 profiles-system-theme = Anagraw
+
+## Alternative text for default profile icons
+

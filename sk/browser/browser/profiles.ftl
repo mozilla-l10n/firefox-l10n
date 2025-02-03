@@ -92,3 +92,6 @@ profiles-light-theme = Svetlá
 profiles-dark-theme = Tmavá
 # The default system theme
 profiles-system-theme = Systémová
+
+## Alternative text for default profile icons
+

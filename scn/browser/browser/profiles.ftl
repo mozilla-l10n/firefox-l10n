@@ -12,3 +12,6 @@ delete-profile-bookmarks = Nzingalibbra
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
+
+## Alternative text for default profile icons
+

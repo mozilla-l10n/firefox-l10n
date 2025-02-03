@@ -92,3 +92,6 @@ profiles-light-theme = 밝게
 profiles-dark-theme = 어둡게
 # The default system theme
 profiles-system-theme = 시스템
+
+## Alternative text for default profile icons
+

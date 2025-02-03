@@ -92,3 +92,6 @@ profiles-light-theme = Равшан
 profiles-dark-theme = Торик
 # The default system theme
 profiles-system-theme = Низом
+
+## Alternative text for default profile icons
+

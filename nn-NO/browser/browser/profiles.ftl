@@ -78,3 +78,6 @@ profiles-light-theme = Lyst
 profiles-dark-theme = Mørkt
 # The default system theme
 profiles-system-theme = System
+
+## Alternative text for default profile icons
+

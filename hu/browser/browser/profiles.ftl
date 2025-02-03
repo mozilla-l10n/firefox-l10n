@@ -92,3 +92,6 @@ profiles-light-theme = Világos
 profiles-dark-theme = Sötét
 # The default system theme
 profiles-system-theme = Rendszer
+
+## Alternative text for default profile icons
+

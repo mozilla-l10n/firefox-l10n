@@ -32,3 +32,6 @@ more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-us-description = Gjave in automatic lis tôs informazions personâls esponudis sul web.
 more-from-moz-mozilla-monitor-global-description = Ricêf avîs cuant che i tiei dâts a son stâts cjapâts dentri di une violazion di dâts.
 more-from-moz-mozilla-monitor-button = Oten { -monitor-brand-short-name }
+
+## These strings are for the Solo card in about:preferences moreFromMozilla page
+

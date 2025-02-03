@@ -32,3 +32,6 @@ more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-us-description = Tự động lấy lại thông tin cá nhân bị lộ của bạn.
 more-from-moz-mozilla-monitor-global-description = Nhận thông báo khi dữ liệu của bạn bị rò rỉ.
 more-from-moz-mozilla-monitor-button = Sử dụng { -monitor-brand-short-name }
+
+## These strings are for the Solo card in about:preferences moreFromMozilla page
+

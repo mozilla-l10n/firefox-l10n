@@ -32,3 +32,6 @@ more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-us-description = Automatycznie odzyskuj wykradzione dane osobowe.
 more-from-moz-mozilla-monitor-global-description = Otrzymuj powiadomienia, gdy Twoje dane zostaną znalezione w wycieku.
 more-from-moz-mozilla-monitor-button = Wypróbuj { -monitor-brand-short-name }
+
+## These strings are for the Solo card in about:preferences moreFromMozilla page
+

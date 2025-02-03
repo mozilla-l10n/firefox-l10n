@@ -32,3 +32,6 @@ more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-us-description = Ritira in automàticu is informatziones personales tuas espostas.
 more-from-moz-mozilla-monitor-global-description = Retzi un'avisu si is datos tuos sunt istados agatados in una violatzione.
 more-from-moz-mozilla-monitor-button = Otene { -monitor-brand-short-name }
+
+## These strings are for the Solo card in about:preferences moreFromMozilla page
+

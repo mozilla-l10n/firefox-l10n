@@ -92,3 +92,6 @@ profiles-light-theme = Svetla
 profiles-dark-theme = Temna
 # The default system theme
 profiles-system-theme = Sistemska
+
+## Alternative text for default profile icons
+
