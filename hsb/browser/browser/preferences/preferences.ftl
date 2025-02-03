@@ -231,6 +231,15 @@ containers-remove-cancel-button = Tutón kontejner njewotstronić
 settings-tabs-show-image-in-preview =
     .label = Wobrazowy přehlad pokazać, hdyž sće nad rajtarkom
     .accessKey = h
+browser-layout-header = Wuhotowanje wobhladowaka
+browser-layout-horizontal-tabs =
+    .label = Horicontalne rajtarki
+browser-layout-horizontal-tabs-desc = Horjeka we wobhladowaku pokazać
+browser-layout-vertical-tabs =
+    .label = Wertikalne rajtarki
+browser-layout-vertical-tabs-desc = Naboku pokazać, w bóčnicy
+browser-layout-show-sidebar =
+    .label = Bóčnicu pokazać
 
 ## General Section - Language & Appearance
 
@@ -1315,6 +1324,7 @@ permissions-addon-exceptions =
 collection-header = Hromadźenje a wužiwanje datow { -brand-short-name }
 collection-header2 = Hromadźenje a wužiwanje datow { -brand-short-name }
     .searchkeywords = telemetrija
+preferences-collection-privacy-notice = Zdźělenku priwatnosće pokazać
 collection-description = Chcemy was z wuběrami wobstarać a jenož to zběrać, štož dyrbimy poskićić, zo bychmy { -brand-short-name } za kóždeho polěpšili. Prosymy přeco wo dowolnosć, prjedy hač wosobinske daty dóstanjemy.
 collection-privacy-notice = Zdźělenka priwatnosće
 collection-health-report-telemetry-disabled = Sće { -vendor-short-name } dowolnosć zebrał, techniske a interakciske daty hromadźić. Wšě dotal zhromadźene daty so w běhu 30 dnjow zhašeja.
@@ -1414,6 +1424,7 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } hižo dosć skła
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Modus Jenož-HTTPS
+httpsonly-learn-more2 = Kak Jenož-HTTPS funguje
 httpsonly-description = HTTPS wěsty, zaklučowany zwisk mjez { -brand-short-name } a websydłami skići, kotrež wopytujeće. Najwjace websydłow HTTPS podpěruje, a jeli modus Jenož-HTTPS je zmóžnjeny, { -brand-short-name } budźe wšě zwiski na HTTPS aktualizować.
 httpsonly-description2 = { -brand-short-name } wěste a zaklučowane zwiski ze sydłami, kotrež wopytujeće, wutworja. { -brand-short-name } budźe was warnować, jeli zwisk wěsty njeje, hdyž Jenož-HTTPS je aktiwny.
 httpsonly-learn-more = Dalše informacije
@@ -1423,6 +1434,9 @@ httpsonly-radio-enabled2 =
     .label = HTTPS jenož we wšěch woknach wužiwać
 httpsonly-radio-enabled-pbm =
     .label = Modus Jenož-HTTPS jenož w priwatnych woknach zmóžnić
+httpsonly-radio-disabled3 =
+    .label = Modus Jenož-HTTPS njezmóžnić
+    .description = { -brand-short-name } snano někotre zwiski aktualizuje
 httpsonly-radio-enabled-pbm2 =
     .label = HTTPS jenož w priwatnych woknach wužiwać
 httpsonly-radio-disabled =

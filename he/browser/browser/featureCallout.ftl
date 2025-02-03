@@ -49,6 +49,7 @@ split-dismiss-button-manage-settings-option-label = ניהול הגדרות
 
 sidebar-button-callout-title = הצגת כותרות של לשוניות בסרגל הצד
 sidebar-button-callout-subtitle = ניתן להשתמש בכפתור סרגל הצד כדי להרחב את סרגל הצד, כדי שיהיה באפשרותך לראות את הכותרות של הלשוניות.
+sidebar-button-callout-vertical-tabs = כדי לצפות בלשוניות שלך, יש לבחור בכפתור סרגל הצד בסרגל הכלים.
 
 ## Sidebar Callout Survey Strings
 
@@ -79,3 +80,8 @@ sidebar-genai-survey-satisfaction-question = עד כמה הינך מרוצה מ�
 sidebar-genai-survey-productive-question =
     באיזו מידה היית נוטה להסכים או לא להסכים עם הצהרה זו:<br/>
     ״צ’אט בוט AI בסרגל הצד מסייע לי להיות יותר פרודקטיבי״?
+unified-search-callout-title = מעבר בין מנועי חיפוש
+unified-search-callout-subtitle = באפשרותך לבחור במה שהכי מתאים לחיפוש הספציפי שלך.
+unified-search-callout-primary-label = הבא
+unified-search-callout-secondary-label = סגירה
+unified-search-engines-callout-title = חיפוש באמצעות קיצור דרך

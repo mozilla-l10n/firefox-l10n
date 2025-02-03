@@ -32,6 +32,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Začinjene rajtarki znowa wočinić
         }
     .accesskey = Z
+toolbar-context-turn-on-vertical-tabs =
+    .label = Wertikalne rajtarki wužiwać
+toolbar-context-turn-off-vertical-tabs =
+    .label = Wertikalne rajtarki njewužiwać
+toolbar-context-customize-sidebar =
+    .label = Bóčnicu přiměrić
 toolbar-context-menu-manage-extension =
     .label = Rozšěrjenje rjadować
     .accesskey = R

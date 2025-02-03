@@ -277,6 +277,10 @@ tab-group-editor-color-selector2-gray = Šěry
     .title = Šěry
 tab-group-editor-color-selector2-red = Čerwjeny
     .title = Čerwjeny
+# Variables:
+#  $tabGroupName (String): The name of the tab group. Defaults to the value
+#                          of tab-group-name-default.
+tab-group-description = { $tabGroupName } – skupina rajtarkow
 tab-group-menu-header = Skupiny rajtarkow
 tab-context-unnamed-group =
     .label = Skupina bjez mjena
