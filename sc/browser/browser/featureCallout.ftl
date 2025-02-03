@@ -103,3 +103,11 @@ unified-search-engines-callout-title = Chirca cun unu curtzadòrgiu
 unified-search-engines-callout-subtitle = Iscrie “@” sighidu dae unu faeddu crae pro chircare a intro de sa cronologia, is sinnalibros, is ischedas o cun un’àteru motore de chirca.
 unified-search-engines-callout-primary-label = Apo cumprèndidu
 actions-callout-title = Cumpleta tareas fitianas o atzede a cunfiguratziones bàsicas
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearhistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = Proa a iscrìere un’atzione comente “imprenta” pro imprentare una pàgina o “cantzella” pro cantzellare sa cronologia tua.

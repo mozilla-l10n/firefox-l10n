@@ -314,6 +314,9 @@ newtab-wallpaper-feature-highlight-button = മനസ്സിലായി
 feature-highlight-dismiss-button =
     .title = കളയുക
     .aria-label = പൊന്തുവരൽ അടയ്ക്കുക
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 

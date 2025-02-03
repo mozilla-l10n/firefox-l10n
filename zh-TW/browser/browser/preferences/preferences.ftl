@@ -213,6 +213,13 @@ containers-remove-cancel-button = 不要移除此容器
 settings-tabs-show-image-in-preview =
     .label = 當滑鼠移動到分頁標籤上時，顯示分頁預覽
     .accessKey = h
+browser-layout-header = 瀏覽器版面
+browser-layout-horizontal-tabs =
+    .label = 水平分頁標籤
+browser-layout-horizontal-tabs-desc = 於瀏覽器頂端顯示
+browser-layout-vertical-tabs =
+    .label = 垂直分頁標籤
+browser-layout-vertical-tabs-desc = 於旁邊的側邊欄顯示
 browser-layout-show-sidebar =
     .label = 顯示側邊欄
 

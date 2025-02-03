@@ -115,6 +115,8 @@ containers-remove-cancel-button = ഈ കണ്ടൈനര്‍ നീക്�
 ## General Section - Language & Appearance
 
 language-and-appearance-header = ഭാഷയും രൂപവും
+preferences-colors-header = നിറങ്ങള്‍
+preferences-fonts-header = അക്ഷരശൈലികൾ
 default-font = തനതായ ഫോണ്ടാക്കുക
     .accesskey = D
 default-font-size = വലുപ്പം
@@ -122,6 +124,17 @@ default-font-size = വലുപ്പം
 advanced-fonts =
     .label = സങ്കീര്‍ണ്ണമായവ...
     .accesskey = A
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = വലുതാക്കുക
+preferences-default-zoom = തനതായ വലുപ്പളവു്
+    .accesskey = വ
+# Variables:
+#   $percentage (number) - Zoom percentage value
+preferences-default-zoom-value =
+    .label = { $percentage } %
+preferences-zoom-text-only =
+    .label = പദാവലിയുടെ വലിപ്പം മാത്രം മാറ്റുക
+    .accesskey = പ
 language-header = ഭാഷ
 choose-language-description = താളുകള്‍ക്കുള്ള ഭാഷ തെരഞ്ഞെടുക്കുക
 choose-button =
@@ -131,6 +144,7 @@ confirm-browser-language-change-button = പ്രയോഗിക്കുക, �
 translate-web-pages =
     .label = വെബിലുള്ളവ തര്‍ജ്ജമ ചെയ്യുക
     .accesskey = ത
+fx-translate-web-pages = { -translations-brand-name }
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = തര്‍ജ്ജമ ചെയ്തത് <img data-l10n-name="logo"/>
@@ -196,9 +210,15 @@ applications-always-ask =
 #   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
 #   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } ഉപയോഗിക്കുക ({ -brand-short-name }-ല്‍)
+applications-open-inapp =
+    .label = { -brand-short-name }-ൽ തുറക്കുക
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -210,15 +230,22 @@ applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
     .value = { applications-use-app.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
+applications-save-for-new-types =
+    .label = ഫയലുകൾ കരുതിവയ്ക്കുക
+    .accesskey = ക
 drm-content-header = ഡിജിറ്റല്‍ റൈറ്റ് മാനേജ്മെന്റ്(DRM) കണ്ടന്റ്
 play-drm-content =
     .label = DRM- നിയന്ത്രിത കണ്ടന്റ് പ്ലേ ചെയ്യുക
@@ -246,6 +273,10 @@ update-application-use-service =
     .label = പരിഷ്കരണങ്ങള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുന്നതിനായി ഒരു പശ്ചാത്തല സര്‍വീസ് ഉപയോഗിയ്ക്കുക
     .accesskey = b
 update-in-progress-title = പുതുക്കൽ നടപ്പിലാണു്
+update-in-progress-ok-button = &കളയുക
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &തുടരുക
 
 ## General Section - Performance
 
@@ -285,6 +316,8 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = ടൈപ്പ് ചെയ്യാന്‍ ആരംഭിക്കുമ്പോള്‍ തന്നെ വാക്കുകള്‍ക്കായി തിരയുക
     .accesskey = x
+browsing-picture-in-picture-learn-more = കൂടുതല്‍ അറിയുക
+browsing-media-control-learn-more = കൂടുതല്‍ അറിയുക
 browsing-cfr-recommendations-learn-more = കൂടുതല്‍ അറിയുക
 
 ## General Section - Proxy
@@ -306,6 +339,8 @@ home-newtabs-mode-label = പുതിയ ടാബുകൾ
 home-restore-defaults =
     .label = സ്വതവേയുള്ളവ പുനഃസ്ഥാപിക്കുക
     .accesskey = R
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (തനതായവ)
 home-mode-choice-custom =
     .label = ഇഷ്ടാനുസൃത URL കൾ ...
 home-mode-choice-blank =
@@ -329,8 +364,14 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header2 = { -firefox-home-brand-name } ഉള്ളടക്കം
 home-prefs-search-header =
     .label = വെബ് തിരയൽ
+home-prefs-shortcuts-header =
+    .label = കുറുക്കുവഴികൾ
+home-prefs-shortcuts-description = താങ്ങൾ കരുതിവയ്ക്കുന്ന അല്ലെങ്കിൽ സന്ദൎശിക്കുന്ന വെബ്സ്ഥാനങ്ങൾ
+home-prefs-shortcuts-by-option-sponsored =
+    .label = പണം കൊണ്ടു് പ്രസരിപ്പിച്ച കുറുക്കുവഴികൾ
 
 ## Home Section - Firefox Home Content Customization
 
@@ -354,6 +395,18 @@ home-prefs-highlights-option-saved-to-pocket =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = ലഘു കുറിപ്പുകൾ
+home-prefs-weather-header =
+    .label = കാലാവസ്ഥ
+home-prefs-weather-description = ഇന്നത്തെ കാലാവസ്ഥാ പ്രവചനം ഒറ്റനോട്ടത്തിൽ
+home-prefs-weather-learn-more-link = കൂടുതല്‍ അറിയുക
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } വരികൾ
+           *[other] { $num } വരികൾ
+        }
 
 ## Search Section
 
@@ -434,6 +487,9 @@ sync-signedin-login-failure = വീണ്ടും കണക്ട് ചെയ
 sync-resend-verification =
     .label = പരിശോധന വീണ്ടും അയയ്ക്കുക
     .accesskey = d
+sync-verify-account =
+    .label = അക്കൗണ്ടു് ഉറപ്പാക്കുക
+    .accesskey = ഉ
 sync-remove-account =
     .label = അക്കൗണ്ട് നീക്കംചെയ്യുക
     .accesskey = R
@@ -443,6 +499,12 @@ sync-sign-in =
 
 ## Sync section - enabling or disabling sync.
 
+prefs-syncing-on = സമന്വയം: തുടങ്ങിവച്ചതു്
+prefs-syncing-off = സമന്വയം: അണച്ചതു്
+prefs-sync-turn-on-syncing =
+    .label = സമന്വയം തുടങ്ങി വയ്ക്കുക…
+    .accesskey = ത
+prefs-sync-offer-setup-label2 = താങ്ങളുടെ അടയാളക്കുറിപ്പുകളും നാള്‍വഴിയും ടാബുകളും രഹസ്യവാക്കുകളും ആഡോണുകളും ക്രമീകരണങ്ങളും താങ്ങളുടെ എല്ല ഉപകരണങ്ങൾ സമന്വയിപ്പിക്കുക.
 
 ## The list of things currently syncing.
 
