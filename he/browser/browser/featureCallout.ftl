@@ -85,3 +85,6 @@ unified-search-callout-subtitle = באפשרותך לבחור במה שהכי מ
 unified-search-callout-primary-label = הבא
 unified-search-callout-secondary-label = סגירה
 unified-search-engines-callout-title = חיפוש באמצעות קיצור דרך
+unified-search-engines-callout-subtitle = יש להקליד ״@״ ואחריו מילת מפתח כדי לחפש בהיסטוריה, בסימניות ובלשוניות שלך, או באמצעות מנוע חיפוש אחר.
+unified-search-engines-callout-primary-label = הבנתי
+actions-callout-title = השלמת משימות נפוצות או קבלת גישה להגדרות בסיסיות

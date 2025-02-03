@@ -94,3 +94,9 @@ sidebar-genai-survey-satisfaction-question = Kak spokojny sćo z pśistupom k ch
 sidebar-genai-survey-productive-question =
     Do kótareje měry zwólijośo abo njezwólijośo do toś togo twarźenja:<br/>
     „Chatbot KI w bocnicy mě pomaga wěcej produktiwny byś“?
+unified-search-callout-title = Pytnicu změniś
+unified-search-callout-subtitle = Wubjeŕśo, co za swójo specifiske pytanje nejlěpjej funkcioněrujo.
+unified-search-callout-primary-label = Pśiducy
+unified-search-callout-secondary-label = Zachyśiś
+unified-search-engines-callout-title = Ze skrotconku pytaś
+unified-search-engines-callout-primary-label = Som zrozměł

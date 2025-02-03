@@ -231,6 +231,15 @@ containers-remove-cancel-button = Toś ten kontejner njewótwónoźeś
 settings-tabs-show-image-in-preview =
     .label = Wobrazowy pśeglěd pokazaś, gaž sćo nad rejtarikom
     .accessKey = b
+browser-layout-header = Wugótowanje wobglědowaka
+browser-layout-horizontal-tabs =
+    .label = Horicontalne rejtariki
+browser-layout-horizontal-tabs-desc = Górjejce we wobglědowaku pokazaś
+browser-layout-vertical-tabs =
+    .label = Wertikalne rejtariki
+browser-layout-vertical-tabs-desc = Na boku pokazaś, w bocnicy
+browser-layout-show-sidebar =
+    .label = Bocnicu pokazaś
 
 ## General Section - Language & Appearance
 
@@ -1315,6 +1324,7 @@ permissions-addon-exceptions =
 collection-header = Gromaźenje a wužywanje datow { -brand-short-name }
 collection-header2 = Gromaźenje a wužywanje datow { -brand-short-name }
     .searchkeywords = telemetrija
+preferences-collection-privacy-notice = Powěźeńku priwatnosći pokazaś
 collection-description = Comy was z wuběrkami wobstaraś a janož to zběraś, což musymy póbitowaś, aby my { -brand-short-name } za kuždego pólěpšili. Pšosymy pśecej wó dowólnosć, nježli až wósobinske daty dostanjomy.
 collection-privacy-notice = Powěźeńka priwatnosći
 collection-health-report-telemetry-disabled = Sćo zajmjeł { -vendor-short-name } dowólnosć, techniske a interakciske daty gromaźiś. Wšykne dotychměst zgromaźone daty se w běgu 30 dnjow wulašuju.
@@ -1414,6 +1424,7 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } njama wěcej dos�
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Modus Jano-HTTPS
+httpsonly-learn-more2 = Kak Jano-HTTPS funkcioněrujo
 httpsonly-description = HTTPS wěsty, skoděrowany zwisk mjazy { -brand-short-name } a websedłami bitujo, ku kótarymž se woglědujośo. Nejwěcej websedłow HTTPS pódpěra, a jolic modus Jano-HTTPS jo zmóžnjony, { -brand-short-name } buźo wše zwiski na HTTPS aktualizěrowaś.
 httpsonly-description2 = { -brand-short-name } wěste a skoděrowane zwiski ze sedłami, ku kótarymž se woglědujośo, napórajo. { -brand-short-name } buźo was warnowaś, jolic zwisk njejo wěsty, gaž Jano-HTTPS jo aktiwny.
 httpsonly-learn-more = Dalšne informacije
@@ -1423,6 +1434,9 @@ httpsonly-radio-enabled2 =
     .label = HTTPS jano we wšych woknach wužywaś
 httpsonly-radio-enabled-pbm =
     .label = Modus Jano-HTTPS jano w priwatnych woknach zmóžniś
+httpsonly-radio-disabled3 =
+    .label = Modus Jano-HTTPS njezmóžniś
+    .description = { -brand-short-name } snaź někotare zwiski aktualizěrujo
 httpsonly-radio-enabled-pbm2 =
     .label = HTTPS jano w priwatnych woknach wužywaś
 httpsonly-radio-disabled =
