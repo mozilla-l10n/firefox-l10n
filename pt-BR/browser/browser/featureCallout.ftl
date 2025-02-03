@@ -101,3 +101,11 @@ unified-search-callout-primary-label = Avançar
 unified-search-callout-secondary-label = Descartar
 unified-search-engines-callout-subtitle = Digite “@” seguido de um termo de busca para pesquisar no histórico, favoritos, abas ou com outro mecanismo de pesquisa.
 unified-search-engines-callout-primary-label = Entendi
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearhistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = Experimente digitar uma ação como “imprimir” para imprimir uma página, ou “limpar” para limpar o histórico.
