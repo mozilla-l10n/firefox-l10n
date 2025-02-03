@@ -434,6 +434,8 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Diese Erweiterung wurde überprüft, um unsere Standards für Sicherheit und Leistung zu erfüllen.
     .aria-label = { addon-badge-verified2.title }
+addon-badge-verified3 =
+    .title = Diese Erweiterung wurde überprüft, um unsere Standards für Sicherheit und Leistung zu erfüllen.
 
 ##
 
