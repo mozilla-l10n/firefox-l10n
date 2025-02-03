@@ -370,6 +370,10 @@ addon-detail-group-label-updates =
     .aria-label = { addon-detail-updates-label }
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed3 =
+    .title = 允許於隱私瀏覽視窗運作
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
     .title = 允許於隱私瀏覽視窗運作
     .aria-label = { addon-badge-private-browsing-allowed2.title }
@@ -409,6 +413,14 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = 我們檢查過此擴充套件，確認符合安全性與運作效能標準
     .aria-label = { addon-badge-verified2.title }
+addon-badge-recommended3 =
+    .title = { -brand-product-name } 僅推薦符合我們的安全性與效能標準的擴充套件
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line4 =
+    .title = 由 Mozilla 打造的官方附加元件，符合各種安全性與運作效能標準
+addon-badge-verified3 =
+    .title = 我們檢查過此擴充套件，確認符合安全性與運作效能標準
 
 ##
 
