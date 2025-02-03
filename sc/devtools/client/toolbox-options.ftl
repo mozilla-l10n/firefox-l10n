@@ -18,6 +18,7 @@ options-select-dev-tools-theme-label = Temas
 
 options-default-color-unit-label = Unidade predefinida de is colores
 options-default-color-unit-authored = comente s'originale
+options-default-color-unit-hex = Esadetzimale
 options-default-color-unit-name = Nòmines de colores
 
 ## Web Console section
@@ -53,5 +54,7 @@ options-sourceeditor-keybinding-default-label = Predefinidu
 
 # The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = Cunfiguratziones avantzadas
+# The label for checkbox that toggles JavaScript on or off
+options-disable-javascript-label = Disativa JavaScript *
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Ativa sa curretzione de faddinas in remotu

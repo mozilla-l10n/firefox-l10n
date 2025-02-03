@@ -47,6 +47,10 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = Nòmine
 storage-table-headers-cookies-value = Valore
+storage-table-headers-cookies-size = Mannària
+storage-table-headers-cookies-last-accessed = Ùrtimu atzessu
+storage-table-headers-cookies-creation-time = Creada
+storage-table-headers-cache-status = Istadu
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
@@ -55,3 +59,7 @@ storage-tree-labels-local-storage = Memòria de su logu
 
 ##
 
+# String displayed in the expires column when the cookie is a Session Cookie
+storage-expires-session = Sessione
+# Heading displayed over the item value in the sidebar
+storage-data = Datos

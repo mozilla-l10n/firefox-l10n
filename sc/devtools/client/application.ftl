@@ -59,7 +59,22 @@ manifest-item-identity = Identidade
 manifest-item-presentation = Presentatzione
 # Header for the Icon section of Manifest inspection displayed in the application panel.
 manifest-item-icons = Iconas
+# Text displayed while we are loading the manifest file
+manifest-loading = Carrighende su manifestu…
+# Text displayed when the manifest has been successfully loaded
+manifest-loaded-ok = Manifestu carrigadu.
+# Text displayed as a caption when there has been an error while trying to
+# load the manifest
+manifest-loaded-error = Faddina carrighende su manifestu:
 # Text displayed as the alt attribute for <img> tags showing the icons in the
 # manifest.
 manifest-icon-img =
     .alt = Icona
+# Sidebar navigation item for Manifest sidebar item section
+sidebar-item-manifest = Manifestu
+    .alt = Icona de su manifestu
+    .title = Manifestu
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = Icona de faddina
+    .title = Faddina

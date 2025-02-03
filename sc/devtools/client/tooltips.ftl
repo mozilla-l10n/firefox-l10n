@@ -51,6 +51,7 @@ inactive-css-not-grid-or-flex-container-fix = Proa a agiùnghere <strong>display
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Proa a agiùnghere <strong>display:grid</strong>, <strong>display:flex</strong>, o <strong>columns:2</strong>. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Proa a agiùnghere <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, o <strong>display:inline-flex</strong> a s'elementu "parent". { learn-more }
 inactive-css-not-grid-container-fix = Proa a agiùnghere <strong>display:grid</strong> o <strong>display:inline-grid</strong>. { learn-more }
+inactive-css-text-wrap-balance-lines-exceeded-fix = Proa a redùere su nùmeru de lìnias. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
@@ -60,6 +61,8 @@ inactive-css-not-grid-container-fix = Proa a agiùnghere <strong>display:grid</s
 ##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
 
 css-compatibility-default-message = <strong>{ $property }</strong> no est cumpatìbile cun is navigadores imbenientes:
+css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> est abbandonada dae is standard W3C.
+css-compatibility-experimental-message = <strong>{ $property }</strong> est una propiedade isperimentale. No est cumpatìbile cun is navigadores chi sighint:
 css-compatibility-experimental-supported-message = <strong>{ $property }</strong> est una propiedade isperimentale.
 css-compatibility-learn-more-message = <span data-l10n-name="link">Àteras informatziones</span> in pitzus de <strong>{ $rootProperty }</strong>
 

@@ -35,6 +35,8 @@ new-profile-page-title = Profilu nou
 new-profile-page-header = Personaliza su profilu nou
 new-profile-page-learn-more = Àteras informatziones
 profile-window-title-2 = { -brand-short-name } - Sèbera unu profilu
+profile-window-logo =
+    .alt = logo de { -brand-short-name }
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
@@ -63,6 +65,20 @@ delete-profile-confirm = Cantzella
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
+# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-marigold-theme = Sitzia mòssia
+# This light theme features very pale green tones. Its name evokes the color of pale green lichen from the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-lichen-theme = Crosta groga
+# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-magnolia-theme = Manniòlia
+# Ocean is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-ocean-theme = Otzèanu
+# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of terracotta tile. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-terracotta-theme = Terra-cota
+# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-moss-theme = Lanedda
+# The default light theme
+profiles-light-theme = Craru
 # The default dark theme
 profiles-dark-theme = Iscuru
 # The default system theme
@@ -70,3 +86,15 @@ profiles-system-theme = Sistema
 
 ## Alternative text for default profile icons
 
+book-avatar-alt =
+    .alt = Libru
+briefcase-avatar-alt =
+    .alt = Valìgia
+flower-avatar-alt =
+    .alt = Frore
+heart-avatar-alt =
+    .alt = Coro
+shopping-avatar-alt =
+    .alt = Carrellu de s’ispesa
+star-avatar-alt =
+    .alt = Isteddu

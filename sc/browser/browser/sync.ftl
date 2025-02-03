@@ -52,3 +52,4 @@ sync-account-in-use-header = Contu giai impreadu
 #   $profileName (String) - Name of the profile to switch to
 sync-button-switch-profile = Passa a “{ $profileName }”
 sync-button-create-profile = Crea unu profilu nou
+sync-button-sync-and-merge = Sincroniza e uni is datos

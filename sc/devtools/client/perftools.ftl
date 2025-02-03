@@ -82,6 +82,8 @@ perftools-presets-networking-description = Profilu pro compidare faddinas de ret
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Energia
 perftools-presets-power-description = Profilu pro compidare faddinas de impreu de energia in { -brand-shorter-name }, cun subra-càrriga (overhead) bàscia.
+perftools-presets-debug-label = Curregi faddinas
+perftools-presets-debug-description = Precunfiguratzione pro currègere faddinas in { -brand-shorter-name }. Est subracarrigadu meda, no dd’imprees pro atividades chi bògiant unu rendimentu artu, ma pro cumprèndere su cumportamentu de su navigadore.
 perftools-presets-custom-label = Personalizadu
 
 ##
