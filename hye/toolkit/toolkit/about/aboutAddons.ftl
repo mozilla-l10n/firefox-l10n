@@ -384,6 +384,8 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Այս ընդլայնումը վերանայուել է անվտանգութեան եւ գործադրութեան, մեր չափաւրինակներին համապատասխանելու համար
     .aria-label = { addon-badge-verified2.title }
+addon-badge-recommended3 =
+    .title = { -brand-product-name }-ը առաջարկում է միայն այն ընդլայնումները, որոնք համապատասխանում են անվտանգութեան և արդիւնաւէտութեան մեր չափաւրինակներին
 
 ##
 
