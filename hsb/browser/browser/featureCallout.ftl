@@ -103,3 +103,11 @@ unified-search-engines-callout-title = Ze skrótšenku pytać
 unified-search-engines-callout-subtitle = Zapodajće “@” slědowany přez klučowe słowo, zo byšće swoju historiju, swoje zapołožki, swoje rajtarki abo z druhej pytawu pytał.
 unified-search-engines-callout-primary-label = Sym zrozumił
 actions-callout-title = Dokónčće časte nadawki abo mějće přistup k zakładnym nastajenjam
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearhistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = Zapodajće akciju kaž “ćišćeć”, zo byšće stronu ćišćał abo “historiju zhašeć”, zo byšće swoju historiju zhašał.
