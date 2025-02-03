@@ -389,6 +389,10 @@ addon-detail-group-label-updates =
     .aria-label = { addon-detail-updates-label }
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed3 =
+    .title = დაშვებულია პირად ფანჯრებში
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
     .title = დაშვებულია პირად ფანჯრებში
     .aria-label = { addon-badge-private-browsing-allowed2.title }
@@ -428,10 +432,14 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = მოცემული გაფართოება შემოწმებულია და აკმაყოფილებს უსაფრთხოებისა და წარმადობის სათანადო მოთხოვნებს.
     .aria-label = { addon-badge-verified2.title }
+addon-badge-recommended3 =
+    .title = { -brand-product-name } მხოლოდ იმ გაფართოებებს გირჩევთ, რომლებიც აკმაყოფილებს უსაფრთხოებისა და წარმადობის მაღალ მოთხოვნებს.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Mozilla-ს მიერ შექმნილი ოფიციალური გაფართოება. სრულად აკმაყოფილებს უსაფრთხოებისა და წარმადობის მოთხოვნებს.
+addon-badge-verified3 =
+    .title = მოცემული გაფართოება შემოწმებულია და აკმაყოფილებს უსაფრთხოებისა და წარმადობის სათანადო მოთხოვნებს.
 
 ##
 
