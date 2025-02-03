@@ -491,6 +491,8 @@ addon-badge-recommended3 =
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Oficiální rozšíření od Mozilly. Splňuje standardy na zabezpečení i výkon
+addon-badge-verified3 =
+    .title = U tohoto rozšíření bylo zkontrolováno, že splňuje naše standardy ohledně zabezpečení a výkonu
 
 ##
 
