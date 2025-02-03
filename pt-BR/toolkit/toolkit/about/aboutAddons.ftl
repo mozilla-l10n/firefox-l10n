@@ -386,6 +386,10 @@ addon-detail-group-label-updates =
     .aria-label = { addon-detail-updates-label }
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed3 =
+    .title = Permitido em janelas privativas
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
     .title = Permitido em janelas privativas
     .aria-label = { addon-badge-private-browsing-allowed2.title }
@@ -425,6 +429,10 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Esta extensão foi revisada para atender aos nossos padrões de segurança e desempenho.
     .aria-label = { addon-badge-verified2.title }
+addon-badge-recommended3 =
+    .title = O { -brand-product-name } só recomenda extensões que atendem aos nossos padrões de segurança e desempenho
+addon-badge-verified3 =
+    .title = Esta extensão foi revisada para atender aos nossos padrões de segurança e desempenho.
 
 ##
 
