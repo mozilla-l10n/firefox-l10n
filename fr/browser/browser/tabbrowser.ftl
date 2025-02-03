@@ -196,6 +196,14 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Réactiver le son de l’onglet
 tabbrowser-manager-close-tab =
     .tooltiptext = Fermer l’onglet
+# This is for tab groups that have been "saved and closed" (see tab-group-editor-action-save). It does
+# not include "deleted" tab groups (see tab-group-editor-action-delete).
+tabbrowser-manager-closed-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — Fermé
+tabbrowser-manager-current-window-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — Fenêtre actuelle
 
 ## Tab Groups
 

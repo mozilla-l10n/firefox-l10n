@@ -1328,9 +1328,16 @@ collection-studies-description = Testez des fonctionnalités et des idées avant
 collection-studies =
     .label = Autoriser { -brand-short-name } à installer et à lancer des études
 collection-studies-link = Consulter les études de { -brand-short-name }
+addon-recommendations2 =
+    .label = Autoriser les recommandations personnalisées d’extensions
+addon-recommendations-description = Recevez des recommandations d’extensions pour améliorer votre navigation.
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled2 = L’envoi de données est désactivé pour cette configuration de compilation.
 collection-backlogged-crash-reports2 =
     .label = Envoyer automatiquement les rapports de plantage
     .accesskey = E
+collection-backlogged-crash-reports-description = Les rapports de plantage permettent à { -vendor-short-name } de diagnostiquer et de corriger des problèmes avec le navigateur. Les rapports peuvent contenir des données personnelles ou sensibles.
 addon-recommendations =
     .label = Autoriser { -brand-short-name } à effectuer des recommandations personnalisées d’extensions
 addon-recommendations-link = En savoir plus
