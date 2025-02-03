@@ -434,6 +434,10 @@ addon-badge-verified2 =
     .aria-label = { addon-badge-verified2.title }
 addon-badge-recommended3 =
     .title = { -brand-product-name } рекомендує лише розширення, що задовольняють наші стандарти безпеки та швидкодії
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line4 =
+    .title = Офіційне розширення, створене Mozilla. Відповідає стандартам безпеки та продуктивності.
 addon-badge-verified3 =
     .title = Це розширення перевірено на відповідність нашим стандартам безпеки та швидкодії.
 
