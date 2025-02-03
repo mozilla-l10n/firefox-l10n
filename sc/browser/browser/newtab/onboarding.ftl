@@ -423,3 +423,5 @@ onboarding-genai-sidebar-secondary-button = Cumintza a navigare
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-cta = Crea unu profilu
+multi-profile-callout-cta = Crea unu profilu

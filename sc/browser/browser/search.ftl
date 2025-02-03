@@ -38,3 +38,6 @@ remove-search-engine-button = Andat bene
 ## Variables
 ## $engineName (String) - the name of the search engine to install.
 
+install-search-engine = Boles agiùnghere { $engineName } a is motores de chirca?
+install-search-engine-add = Agiunghe
+install-search-engine-no = Nono

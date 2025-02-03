@@ -75,6 +75,7 @@ sidebar-callout-survey-satisfied = Satisfatzione mèdia
 sidebar-callout-survey-neutral = Indiferente
 sidebar-callout-survey-dissatisfied-2 = Nissuna satisfatzione
 sidebar-callout-survey-very-dissatisfied-2 = Discuntentesa arta
+sidebar-callout-survey-dont-use-it = No dd’impreo
 sidebar-callout-survey-productive-question =
     Cantu ses de acordu cun s’afirmatzione:<br/>
     “Sa barra laterale de { -brand-short-name } m’agiudat cun sa produtividade”?

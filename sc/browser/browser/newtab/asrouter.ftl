@@ -302,6 +302,10 @@ root-certificate-succession-infobar-secondary-button =
 
 ## Root Certificate Succession Windows Background Notification
 
+root-certificate-windows-background-notification-title = As pèrdidu un’atualizatzione de importu de { -brand-short-name }
+root-certificate-windows-background-notification-subtitle = Partes de importu de su navigadore no ant a funtzionare prus in pagora si no installas is atualizatziones. Est unu momentu bonu pro otènnere is ùrtimas protetziones e funtziones.
+root-certificate-windows-background-notification-learn-more-button = Àteras informatziones
+root-certificate-windows-background-notification-update-button = Atualiza { -brand-short-name }
 
 ## FxA Menu Message variants
 
@@ -324,3 +328,13 @@ fxa-menu-message-mobile-collapsed-text = Sincroniza cun su telèfonu
 
 ## Multi-CTA Fox Doodle Spotlight
 
+multi-cta-fox-doodle-title = Ti donamus torra su benebènnidu!
+multi-cta-fox-doodle-set-default-checkbox = Faghe de { -brand-short-name } su navigadore predefinidu
+multi-cta-fox-doodle-pin-startmenu-checkbox = Apica { -brand-short-name } a su menù de aviu
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] Mantene { -brand-short-name } in su Dock
+       *[other] Apica { -brand-short-name } a sa barra de is tareas
+    }
+multi-cta-fox-doodle-start-browsing-primary-button-label = Cumintza a navigare
+multi-cta-fox-doodle-main-browser-primary-button-label = Faghe de { -brand-short-name } su navigadore predefinidu

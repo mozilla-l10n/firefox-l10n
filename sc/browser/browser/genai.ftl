@@ -21,6 +21,16 @@ genai-settings-chat-claude-links = Seberende Anthropic Claude, atzetas is <a dat
 
 ## Chatbot menu shortcuts
 
+genai-menu-ask-generic =
+    .label = Pregunta a su Chatbot IA
+# $provider (string) - name of the provider
+genai-menu-ask-provider =
+    .label = Pregunta a { $provider }
+genai-input-ask-generic =
+    .placeholder = Pregunta a su Chatbot IA...
+# $provider (string) - name of the provider
+genai-input-ask-provider =
+    .placeholder = Pregunta a { $provider }…
 genai-shortcuts-hide =
     .label = Curtzadòrgiu pro cuare su chatbot
 

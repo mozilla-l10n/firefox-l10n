@@ -153,6 +153,17 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Aberi ligòngios in ischedas imbetzes de ventanas noas
     .accesskey = A
+ask-on-close-multiple-tabs =
+    .label = Pregunta in antis de serrare prus ischedas
+    .accesskey = P
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = Pregunta in antis de essire cun { $quitKey }
+    .accesskey = P
 confirm-on-close-multiple-tabs =
     .label = Cunfirma prima de serrare prus ischedas
     .accesskey = C
@@ -1296,6 +1307,9 @@ collection-health-report-link = Àteras informatziones
 collection-studies =
     .label = Permite a { -brand-short-name } de installare e aviare istùdios
 collection-studies-link = Ammustra is istùdios de { -brand-short-name }
+collection-backlogged-crash-reports2 =
+    .label = Imbia sinnalatziones de faddina in automàticu
+    .accesskey = I
 addon-recommendations =
     .label = Permite chi { -brand-short-name } cussiget estensiones personalizadas
 addon-recommendations-link = Àteras informatziones

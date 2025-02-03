@@ -24,6 +24,12 @@ firefox-relay-opt-in-title-1 = Ampara s’indiritzu tuo de posta eletrònica:
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Imprea un’alias de posta eletrònica de { -relay-brand-name }
 firefox-relay-use-mask-title = Imprea un’alias de posta eletrònica de { -relay-brand-name }
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
+firefox-relay-opt-in-title-a = Èvita s’àliga cun un’alias de posta eletrònica a in donu
+# This is preceded by firefox-relay-opt-in-title-a (on a different line)
+firefox-relay-opt-in-subtitle-a = Cua s’indiritzu tuo de posta eletrònica reale
+# This is preceded by firefox-relay-opt-in-title-b (on a different line)
+firefox-relay-opt-in-subtitle-b = Ampara sa casella de posta dae s’àliga
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Imprea alias de posta
     .accesskey = I
@@ -33,15 +39,33 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Immoe nono
     .accesskey = I
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
+    .label = Registra·ti
+    .accesskey = R
+firefox-relay-and-fxa-opt-in-confirmation-disable =
+    .label = Non mi ddu torres a ammustrare
+    .accesskey = N
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
+    .label = Immoe nono
+    .accesskey = n
 
 ## The "control" variation of the Relay offer popup
 
 
 ## The "basic-info" variation of the Relay offer popup
 
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
+    .label = Registra·ti
+    .accesskey = R
 
 ## The "with-domain" variation of the Relay offer popup
 
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
+    .label = Registra·ti
+    .accesskey = R
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
+    .label = Imbeniente
+    .accesskey = I
