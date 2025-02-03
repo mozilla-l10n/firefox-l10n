@@ -357,6 +357,8 @@ onboarding-mobile-download-security-and-privacy-subtitle = Cando cumpletas sa si
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } est acanta a tie
 onboarding-gratitude-security-and-privacy-subtitle = Gràtzias de impreare { -brand-short-name }, isvilupadu dae Mozilla Foundation. Cun su suportu tuo, traballamus pro fàghere Internet prus seguru e prus atzessìbile a totus.
+onboarding-sign-up-button = Registra·ti o identìfica·ti
+onboarding-sign-up-secondary-button = Cumintza a navigare
 
 ## New user time and familiarity survey strings
 
@@ -383,6 +385,8 @@ onboarding-new-user-survey-familiarity-based-option-4 = Dd’apo impreadu, ma da
 onboarding-new-tabs-title = Nara·nos in ue boles is ischedas tuas
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Podes cambiare cando boles dae sa cunfiguratzione de sa barra laterale.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Is ischedas tuas, sa manera tua
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Ischedas a su costadu
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -417,9 +421,13 @@ onboarding-genai-sidebar-secondary-button = Cumintza a navigare
 
 ## New user onboarding checklist
 
+onboarding-checklist-import = Importa dae unu navigadore anteriore
+onboarding-checklist-extension = Agiunghe un’estensione
+onboarding-checklist-sign-up = Registra·ti o identìfica·ti cun su profilu tuo
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-dismiss = Andat bene
 
 ## Multi Profiles feature onboarding messages
 

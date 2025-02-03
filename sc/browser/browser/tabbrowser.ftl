@@ -74,6 +74,10 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = Ativa s’àudio de s’ischeda
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = Pone s’ischeda a sa muda
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -110,6 +114,7 @@ tabbrowser-confirm-close-tabs-with-key-checkbox = Cunfirma prima de essire cun {
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
 
+tabbrowser-confirm-close-tab-only-button = Serra s’ischeda atuale
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -184,6 +189,18 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Ativa s'àudio de s'ischeda
 tabbrowser-manager-close-tab =
     .tooltiptext = Serra s'ischeda
+# This is for tab groups that have been "saved and closed" (see tab-group-editor-action-save). It does
+# not include "deleted" tab groups (see tab-group-editor-action-delete).
+tabbrowser-manager-closed-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — Serradu
+tabbrowser-manager-current-window-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — Ventana atuale
+# "Show more" is for showing all open groups from other windows, as well as saved groups. Initially,
+# we only show up to six of these groups.
+tabbrowser-manager-tab-groups-show-more =
+    .label = Ammustra àteru
 
 ## Tab Groups
 
@@ -195,10 +212,97 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Annulla
     .accesskey = A
+tab-group-editor-color-selector =
+    .aria-label = Colore de su grupu de ischedas
+tab-group-editor-color-selector2-blue = Asulu
+    .title = Asulu
+tab-group-editor-color-selector2-purple = Tanadu
+    .title = Tanadu
+tab-group-editor-color-selector2-cyan = Colore de chelu
+    .title = Colore de chelu
+tab-group-editor-color-selector2-orange = Arantzu
+    .title = Arantzu
+tab-group-editor-color-selector2-yellow = Grogu
+    .title = Grogu
+tab-group-editor-color-selector2-pink = Rosa
+    .title = Rosa
+tab-group-editor-color-selector2-green = Birde
+    .title = Birde
+tab-group-editor-color-selector2-gray = Chinisu
+    .title = Chinisu
+tab-group-editor-color-selector2-red = Ruju
+    .title = Ruju
+tab-group-menu-header = Grupos de ischedas
+tab-context-unnamed-group =
+    .label = Grupu chene nòmine
+tab-group-name-default = Grupu chene nòmine
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Agiunghe s’ischeda a unu grupu nou
+            [one] Agiunghe s’ischeda a unu grupu nou
+           *[other] Agiunghe is ischedas a unu grupu nou
+        }
+    .accesskey = g
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Agiunghe s'ischeda a unu grupu
+            [one] Agiunghe s'ischeda a unu grupu
+           *[other] Agiunghe is ischedas a unu grupu
+        }
+    .accesskey = g
+tab-group-editor-action-new-tab =
+    .label = Ischeda noa in su grupu
+tab-group-editor-action-new-window =
+    .label = Muda is grupos a una ventana noa
+tab-group-editor-action-save =
+    .label = Sarva e serra su grupu
+tab-group-editor-action-ungroup =
+    .label = Boga is ischedas dae su grupu
+tab-group-editor-action-delete =
+    .label = Cantzella su grupu
+tab-group-editor-done =
+    .label = Fatu
+    .accessKey = F
+tab-context-reopen-tab-group =
+    .label = Torra a abèrrere su grupu de ischedas
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] Boga dae su grupu
+            [one] Boga dae su grupu
+           *[other] Boga dae is grupos
+        }
+    .accesskey = B
 
 ## Open/saved tab group context menu
 
+# For a tab group open in any window, clicking this will create a new
+# window and move this tab group to that new window.
+tab-group-context-move-to-new-window =
+    .label = Move su grupu a una ventana noa
+# For a tab group open in a different window from the one that the
+# user is using to access the tab group menu, move that tab group into the
+# user's current window.
+tab-group-context-move-to-this-window =
+    .label = Move su grupu a custa ventana
+# For a tab group that is open in any window, close the tab group and
+# do not save it. For a tab group that is closed but saved by the user, clicking
+# this will forget the saved tab group.
+tab-group-context-delete =
+    .label = Cantzella grupu
+# For a saved tab group that is not open in any window, open the tab group
+# in the user's current window.
+tab-group-context-open-saved-group-in-this-window =
+    .label = Aberi su grupu in custa ventana
+# For a saved tab group that is not open in any window, create a new window and
+# open the tab group in that window.
+tab-group-context-open-saved-group-in-new-window =
+    .label = Aberi su grupu in una ventana noa

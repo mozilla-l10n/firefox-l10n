@@ -46,3 +46,9 @@ sync-setup-verify-description = Un'àteru utente s’est giai identificadu in cu
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
+# Dialog 2 - account signed in on another profile without option to merge
+sync-account-in-use-header = Contu giai impreadu
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-switch-profile = Passa a “{ $profileName }”
+sync-button-create-profile = Crea unu profilu nou

@@ -8,6 +8,11 @@
 newtab-page-title = Ischeda noa
 newtab-settings-button =
     .title = Personaliza sa pàgina de s'ischeda noa
+newtab-personalize-settings-icon-label =
+    .title = Personaliza s’ischeda noa
+    .aria-label = Cunfiguratziones
+newtab-settings-dialog-label =
+    .aria-label = Cunfiguratzione
 newtab-personalize-icon-label =
     .title = Personaliza s'ischeda noa
     .aria-label = Personaliza s'ischeda noa
@@ -112,6 +117,12 @@ newtab-menu-delete-pocket = Cantzella dae { -pocket-brand-name }
 newtab-menu-archive-pocket = Archìvia in { -pocket-brand-name }
 newtab-menu-show-privacy-info = Is patrotzinadores nostros e sa riservadesa tua
 newtab-menu-about-fakespot = Informatziones in pitzus de { -fakespot-brand-name }
+# Context menu option to personalize New Tab recommended stories by blocking a section of stories,
+# e.g. "Sports". "Block" is a verb here.
+newtab-menu-section-block = Bloca
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
+newtab-menu-section-unfollow = Non sigas prus s’argumentu
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -404,7 +415,9 @@ newtab-weather-error-not-available = Is datos de su tempus non sunt a disponimen
 ## Topic Labels
 
 newtab-topic-label-business = Economia
+newtab-topic-label-career = Carriera
 newtab-topic-label-education = Formatzione
+newtab-topic-label-arts = Ispàssiu
 newtab-topic-label-food = Cosa de papare
 newtab-topic-label-health = Salude
 newtab-topic-label-hobbies = Giogos
@@ -421,6 +434,7 @@ newtab-topic-label-society = Cussìgios pro sa vida
 newtab-topic-label-sports = Isport
 newtab-topic-label-tech = Tecnologia
 newtab-topic-label-travel = Biàgios
+newtab-topic-label-home = Domo e giardinu
 
 ## Topic Selection Modal
 
@@ -438,14 +452,31 @@ newtab-topic-selection-button-pick-interests = Sèbera is interessos tuos
 ## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 ## e.g. Following the travel section of stories.
 
+newtab-section-follow-button = Sighi
+newtab-section-following-button = Sighende
+newtab-section-unfollow-button = Non sigas prus
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
 ## e.g. Blocked the politics section of stories.
 
+newtab-section-block-button = Bloca
+newtab-section-blocked-button = Blocadu
+newtab-section-unblock-button = Isbloca
 
 ## Confirmation modal for blocking a section
 
+newtab-section-confirm-block-section-p1 = Seguru chi boles blocare custa setzione?
+newtab-section-confirm-block-section-p2 = Sa setzione blocada no at apàrrere prus in sa lìnia de tempus tua.
+newtab-section-block-section-button = Bloca custa setzione
+newtab-section-cancel-button = Immoe nono
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+newtab-section-mangage-topics-title = Argumentos
+newtab-section-mangage-topics-button =
+    .label = Argumentos sighidos e blocados
+newtab-section-mangage-topics-followed-topics-subtitle = Argumentos sighidos
+newtab-section-mangage-topics-followed-topics-empty-state = Non ses ancora sighende nissunu argumentu
+newtab-section-mangage-topics-blocked-topics-subtitle = Argumentu blocadu
+newtab-section-mangage-topics-blocked-topics-empty-state = No as ancora blocadu nissunu argumentu

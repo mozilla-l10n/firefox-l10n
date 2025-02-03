@@ -123,12 +123,17 @@ sidebar-menu-open-bookmarks-tooltip = Aberi is sinnalibros ({ $shortcut })
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Serra is sinnalibros ({ $shortcut })
 sidebar-menu-open-ai-chatbot-tooltip = Aberi su chatbot IA
+sidebar-menu-close-ai-chatbot-tooltip = Serra su chatbot IA
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
+sidebar-menu-open-ai-chatbot-tooltip-generic = Aberi su chatbot IA ({ $shortcut })
+sidebar-menu-open-ai-chatbot-provider-tooltip = Aberi { $provider } ({ $shortcut })
+sidebar-menu-close-ai-chatbot-tooltip-generic = Aberi su chatbot IA ({ $shortcut })
+sidebar-menu-close-ai-chatbot-provider-tooltip = Serra { $provider } ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 
@@ -138,6 +143,8 @@ sidebar-menu-history-header =
     .heading = Cronologia
 sidebar-menu-syncedtabs-header =
     .heading = Ischedas dae àteros dispositivos
+sidebar-menu-bookmarks-header =
+    .heading = Sinnalibros
 sidebar-panel-header-close-button =
     .tooltiptext = Serra
 
