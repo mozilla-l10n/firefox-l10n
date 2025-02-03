@@ -95,3 +95,15 @@ profiles-system-theme = Sistema
 
 ## Alternative text for default profile icons
 
+book-avatar-alt =
+    .alt = Libro
+briefcase-avatar-alt =
+    .alt = Maletín
+flower-avatar-alt =
+    .alt = Flor
+heart-avatar-alt =
+    .alt = Corazón
+shopping-avatar-alt =
+    .alt = Carrito de compras
+star-avatar-alt =
+    .alt = Estrella

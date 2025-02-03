@@ -225,6 +225,16 @@ containers-remove-cancel-button = No remover este contenedor
 settings-tabs-show-image-in-preview =
     .label = Mostrar una imagen de vista previa cuando pases el cursor sobre una pestaña
     .accessKey = h
+browser-layout-header = Disposición del navegador
+browser-layout-horizontal-tabs =
+    .label = Pestañas horizontales
+browser-layout-horizontal-tabs-desc = Mostrar en la parte superior del navegador
+browser-layout-vertical-tabs =
+    .label = Pestañas verticales
+browser-layout-vertical-tabs-desc = Mostrar en un lado, en la barra lateral
+browser-layout-show-sidebar =
+    .label = Mostrar barra lateral
+browser-layout-show-sidebar-desc = Accede rápidamente a marcadores, pestañas de tu teléfono, chatbots de IA y más sin salir de la vista principal.
 
 ## General Section - Language & Appearance
 

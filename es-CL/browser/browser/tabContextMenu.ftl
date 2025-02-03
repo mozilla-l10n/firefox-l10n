@@ -84,6 +84,10 @@ tab-context-close-duplicate-tabs =
 tab-context-share-url =
     .label = Compartir
     .accesskey = h
+tab-context-enable-vertical-tabs =
+    .label = Activar pestañas verticales
+tab-context-disable-vertical-tabs =
+    .label = Desactivar pestañas verticales
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
 tab-context-new-tab-open =
     .label = Nueva pestaña a la derecha
