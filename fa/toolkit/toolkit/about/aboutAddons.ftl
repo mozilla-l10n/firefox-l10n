@@ -385,6 +385,8 @@ addon-detail-group-label-quarantined-domains =
 addon-badge-recommended2 =
     .title = { -brand-product-name } تنها افزونه‌هایی را توصیه میکند، که با استانداردهای ما برای امنیت و کارایی مطابقت دارند
     .aria-label = { addon-badge-recommended2.title }
+addon-badge-recommended3 =
+    .title = { -brand-product-name } تنها افزونه‌هایی را توصیه میکند، که با استانداردهای ما برای امنیت و کارایی مطابقت دارند
 
 ##
 
