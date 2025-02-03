@@ -64,6 +64,7 @@ split-dismiss-button-manage-settings-option-label = Gesti sa cunfiguratzione
 
 sidebar-button-callout-title = Ammustra tìtulos de is ischedas in sa barra laterale
 sidebar-button-callout-subtitle = Imprea su butone pro ismanniare sa barra laterale, in manera chi potzas bìdere is tìtulos de is ischedas.
+sidebar-button-callout-vertical-tabs = Pro ammustrare is ischedas, sèbera su butone de sa barra laterale in sa barra de tareas.
 
 ## Sidebar Callout Survey Strings
 
@@ -94,3 +95,11 @@ sidebar-genai-survey-satisfaction-question = Cale est su livellu de satisfatzion
 sidebar-genai-survey-productive-question =
     Cantu ses de acordu cun custa afirmatzione:<br/>
     “Su chatbot IA in sa barra laterale m’agiudadu cun sa produtividade”?
+unified-search-callout-title = Cola intre motores de chirca
+unified-search-callout-subtitle = Sèbera su chi funtzionat mègius pro sa chirca ispetzìfica tua.
+unified-search-callout-primary-label = Imbeniente
+unified-search-callout-secondary-label = Iscarta
+unified-search-engines-callout-title = Chirca cun unu curtzadòrgiu
+unified-search-engines-callout-subtitle = Iscrie “@” sighidu dae unu faeddu crae pro chircare a intro de sa cronologia, is sinnalibros, is ischedas o cun un’àteru motore de chirca.
+unified-search-engines-callout-primary-label = Apo cumprèndidu
+actions-callout-title = Cumpleta tareas fitianas o atzede a cunfiguratziones bàsicas

@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+printpreview-simplify-page-checkbox =
+    .label = താളിനെ എളുപ്പമാക്കുക
+    .accesskey = എ
+    .tooltiptext = ഈ താളിനെ എളുപ്പമാക്കാൻ പറ്റത്തില്ല
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
     .accesskey = { printpreview-simplify-page-checkbox.accesskey }
@@ -27,17 +31,24 @@ printpreview-print =
     .accesskey = P
 printpreview-of =
     .value = of
+printpreview-custom-scale-prompt-title = അളവ് ഇഷ്ടാനുസരണമാക്കുക...
 printpreview-page-setup =
     .label = താള്‍ ക്രമീകരണം
     .accesskey = u
 printpreview-page =
     .value = താള്‍
     .accesskey = a
+# Variables
+# $sheetNum (integer) - The current sheet number
+# $sheetCount (integer) - The total number of sheets to print
+printpreview-sheet-of-sheets = { $sheetCount }-ൽ { $sheetNum }
 
 ## Variables
 ## $percent (integer) - menuitem percent label
 ## $arrow (String) - UTF-8 arrow character for navigation buttons
 
+printpreview-percentage-value =
+    .label = { $percent }%
 printpreview-homearrow =
     .label = { $arrow }
     .tooltiptext = ആദ്യ താള്‍
@@ -50,3 +61,5 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = ഒടുവിലുള്ള താള്‍
+printpreview-homearrow-button =
+    .title = ഒന്നാം താൾ

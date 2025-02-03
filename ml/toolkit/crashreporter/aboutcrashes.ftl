@@ -7,7 +7,11 @@ delete-confirm-title = നിങ്ങള്‍ക്കുറപ്പാണോ
 crashes-unsubmitted-label = സമർപ്പിച്ചിട്ടില്ലാത്ത ക്രാഷ് റിപ്പോർട്ടുകൾ
 id-heading = ഐഡി രേഖപ്പെടുത്തുക
 date-crashed-heading = ക്രാഷായ തീയതി
+# This text is used to replace the label of the crash submit button
+# if the crash submission fails.
+submit-crash-button-failure-label = തോറ്റു്
 crashes-submitted-label = തകരാറു് സംബന്ധിച്ചുള്ള റിപ്പോര്‍ട്ടുകള്‍ സമര്‍പ്പിച്ചിരിക്കുന്നു
 date-submitted-heading = സമര്‍പ്പിച്ച തീയതി
+view-crash-button-label = കാണുക
 no-reports-label = തകരാറു് സംബന്ധിച്ചുള്ള റിപ്പോര്‍ട്ടുകള്‍ സമര്‍പ്പിച്ചിട്ടില്ല.
 no-config-label = തകരാറു് സംബന്ധിച്ചുള്ള റിപ്പോര്‍ട്ടുകള്‍ കാണിക്കുന്നതിനായി ഈ പ്രയോഗം സജ്ജമാക്കിയിട്ടില്ല.  <code>breakpad.reportURL</code> എന്ന മുന്‍ഗണന ക്രമികരിക്കേണ്ടതാണു്.
