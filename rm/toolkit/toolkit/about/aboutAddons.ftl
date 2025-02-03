@@ -427,6 +427,14 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Questa extensiun è vegnida controllada per garantir noss standard da segirezza e performanza
     .aria-label = { addon-badge-verified2.title }
+addon-badge-recommended3 =
+    .title = { -brand-product-name } recumonda mo extensiuns che correspundan a noss standards da segirezza e prestaziun
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line4 =
+    .title = Ina extensiun uffiziala, creada da Mozilla. Correspunda a standards da segirezza e stabilitad
+addon-badge-verified3 =
+    .title = Questa extensiun è vegnida controllada per garantir noss standard da segirezza e performanza
 
 ##
 
