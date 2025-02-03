@@ -64,6 +64,7 @@ split-dismiss-button-manage-settings-option-label = Hantera inställningar
 
 sidebar-button-callout-title = Visa fliktitlar i sidofältet
 sidebar-button-callout-subtitle = Använd sidofältsknappen för att utöka sidofältet så att du kan se fliktitlar.
+sidebar-button-callout-vertical-tabs = För att visa dina flikar, välj sidofältsknappen i verktygsfältet.
 
 ## Sidebar Callout Survey Strings
 
@@ -92,3 +93,19 @@ sidebar-callout-survey-submit = Skicka in
 sidebar-callout-survey-thank-you = Tack för din feedback!
 sidebar-genai-survey-satisfaction-question = Hur nöjd är du med att ha tillgång till en AI-chatbot i sidofältet?
 sidebar-genai-survey-productive-question = I vilken utsträckning håller du med eller håller du inte med om påståendet:<br/> "AI-chatboten i sidofältet hjälper mig att bli mer produktiv"?
+unified-search-callout-title = Växla mellan sökmotorer
+unified-search-callout-subtitle = Välj det som fungerar bäst för din specifika sökning.
+unified-search-callout-primary-label = Nästa
+unified-search-callout-secondary-label = Ignorera
+unified-search-engines-callout-title = Sök med en genväg
+unified-search-engines-callout-subtitle = Skriv "@" följt av ett nyckelord för att söka i din historik, bokmärken, flikar eller med en annan sökmotor.
+unified-search-engines-callout-primary-label = Jag förstår
+actions-callout-title = Utför vanliga uppgifter eller komma åt grundinställningar
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearhistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = Prova att skriva en åtgärd som "skriv ut" för att skriva ut en sida eller "rensa" för att rensa historiken.

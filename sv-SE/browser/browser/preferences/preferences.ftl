@@ -225,6 +225,16 @@ containers-remove-cancel-button = Ta inte bort denna behållare
 settings-tabs-show-image-in-preview =
     .label = Visa en förhandsgranskning av bilden när du håller muspekaren på en flik
     .accessKey = V
+browser-layout-header = Webbläsarlayout
+browser-layout-horizontal-tabs =
+    .label = Horisontella flikar
+browser-layout-horizontal-tabs-desc = Skärm högst upp i webbläsaren
+browser-layout-vertical-tabs =
+    .label = Vertikala flikar
+browser-layout-vertical-tabs-desc = Skärm på sidan, i sidofältet
+browser-layout-show-sidebar =
+    .label = Visa sidofält
+browser-layout-show-sidebar-desc = Snabb åtkomst till bokmärken, flikar från din telefon, AI-chatbotar och mer utan att lämna huvudvyn.
 
 ## General Section - Language & Appearance
 
@@ -1307,6 +1317,8 @@ permissions-addon-exceptions =
 collection-header = Datainsamling och användning för { -brand-short-name }
 collection-header2 = { -brand-short-name } Datainsamling och användning
     .searchkeywords = telemetri
+preferences-collection-description = Vi strävar efter att ge dig val och samlar bara in den minimala information som behövs för att förbättra { -brand-product-name } för alla.
+preferences-collection-privacy-notice = Visa sekretesspolicy
 collection-description = Vi strävar alltid efter att ge dig val och samlar endast in vad vi behöver för tillhandahålla och förbättra { -brand-short-name } för alla. Vi ber alltid om tillåtelse innan vi tar emot personliga uppgifter.
 collection-privacy-notice = Sekretessmeddelande
 collection-health-report-telemetry-disabled = Du tillåter inte längre { -vendor-short-name } att fånga in teknisk data och interaktionsdata. All tidigare data kommer att raderas inom 30 dagar.
@@ -1406,6 +1418,8 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } håller på att f
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Endast HTTPS-läge
+httpsonly-description3 = Tillåter endast säkra anslutningar till webbplatser. { -brand-short-name } kommer att fråga innan en osäker anslutning.
+httpsonly-learn-more2 = Hur HTTPS-Only fungerar
 httpsonly-description = HTTPS ger en säker, krypterad anslutning mellan { -brand-short-name } och de webbplatser du besöker. De flesta webbplatser stöder HTTPS och om endast HTTPS-läget är aktiverat kommer { -brand-short-name } att uppgradera alla anslutningar till HTTPS.
 httpsonly-description2 = { -brand-short-name } skapar säkra och krypterade förbindelser till webbplatser du besöker. { -brand-short-name } varnar om en anslutning inte är säker när läget endast HTTPS är på.
 httpsonly-learn-more = Läs mer
@@ -1415,6 +1429,9 @@ httpsonly-radio-enabled2 =
     .label = Använd endast HTTPS i alla fönster
 httpsonly-radio-enabled-pbm =
     .label = Aktivera endast HTTPS-läge i privata fönster
+httpsonly-radio-disabled3 =
+    .label = Aktivera inte endast HTTPS-läge
+    .description = { -brand-short-name } kan fortfarande uppgradera vissa anslutningar
 httpsonly-radio-enabled-pbm2 =
     .label = Använd endast HTTPS i privata fönster
 httpsonly-radio-disabled =

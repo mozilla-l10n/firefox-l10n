@@ -29,6 +29,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Öppna stängda flikar igen
         }
     .accesskey = p
+toolbar-context-turn-on-vertical-tabs =
+    .label = Aktivera vertikala flikar
+toolbar-context-turn-off-vertical-tabs =
+    .label = Stäng av vertikala flikar
+toolbar-context-customize-sidebar =
+    .label = Anpassa sidofält
 toolbar-context-menu-manage-extension =
     .label = Hantera tillägg
     .accesskey = H

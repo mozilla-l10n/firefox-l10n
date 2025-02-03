@@ -243,6 +243,10 @@ tab-group-editor-color-selector2-gray = Grå
     .title = Grå
 tab-group-editor-color-selector2-red = Röd
     .title = Röd
+# Variables:
+#  $tabGroupName (String): The name of the tab group. Defaults to the value
+#                          of tab-group-name-default.
+tab-group-description = { $tabGroupName } — Flikgrupp
 tab-group-menu-header = Flikgrupper
 tab-context-unnamed-group =
     .label = Namnlös grupp
