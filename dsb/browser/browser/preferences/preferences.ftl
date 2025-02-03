@@ -1324,6 +1324,7 @@ permissions-addon-exceptions =
 collection-header = Gromaźenje a wužywanje datow { -brand-short-name }
 collection-header2 = Gromaźenje a wužywanje datow { -brand-short-name }
     .searchkeywords = telemetrija
+preferences-collection-description = Comy was z wuběrkami wobstaraś a jano te mało datow gromaźiś, kótarež su trjebne, aby se { -brand-product-name } za kuždego pólěpšył.
 preferences-collection-privacy-notice = Powěźeńku priwatnosći pokazaś
 collection-description = Comy was z wuběrkami wobstaraś a janož to zběraś, což musymy póbitowaś, aby my { -brand-short-name } za kuždego pólěpšili. Pšosymy pśecej wó dowólnosć, nježli až wósobinske daty dostanjomy.
 collection-privacy-notice = Powěźeńka priwatnosći

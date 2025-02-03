@@ -107,3 +107,5 @@ heart-avatar-alt =
     .alt = Wutšoba
 shopping-avatar-alt =
     .alt = Nakupowański wózyk
+star-avatar-alt =
+    .alt = Gwězda
