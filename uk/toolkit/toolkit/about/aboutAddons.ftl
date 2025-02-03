@@ -432,6 +432,10 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Це розширення перевірено на відповідність нашим стандартам безпеки та швидкодії.
     .aria-label = { addon-badge-verified2.title }
+addon-badge-recommended3 =
+    .title = { -brand-product-name } рекомендує лише розширення, що задовольняють наші стандарти безпеки та швидкодії
+addon-badge-verified3 =
+    .title = Це розширення перевірено на відповідність нашим стандартам безпеки та швидкодії.
 
 ##
 
