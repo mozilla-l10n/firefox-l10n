@@ -109,3 +109,4 @@ shopping-avatar-alt =
     .alt = Carrello
 star-avatar-alt =
     .alt = Stella
+
