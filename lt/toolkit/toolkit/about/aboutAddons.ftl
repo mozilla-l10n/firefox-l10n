@@ -372,6 +372,10 @@ addon-detail-update-check-label = Tikrinti, ar yra naujinimų
 install-update-button = Atnaujinti
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed3 =
+    .title = Leidžiama privačiojo naršymo languose
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
     .title = Leidžiama privačiojo naršymo languose
     .aria-label = { addon-badge-private-browsing-allowed2.title }
@@ -397,6 +401,12 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Šis priedas buvo peržiūrėtas ir atitinka mūsų saugumo bei našumo standartus
     .aria-label = { addon-badge-verified2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line4 =
+    .title = Oficialus „Mozilla“ sukurtas priedas. Atitinka saugumo ir našumo standartus
+addon-badge-verified3 =
+    .title = Šis priedas buvo peržiūrėtas ir atitinka mūsų saugumo bei našumo standartus
 
 ##
 
