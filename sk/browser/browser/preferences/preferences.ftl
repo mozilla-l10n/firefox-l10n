@@ -228,6 +228,16 @@ containers-remove-cancel-button = Neodstraňovať tento kontajner
 settings-tabs-show-image-in-preview =
     .label = Zobrazovať obrázok s náhľadom pri prejdení myši nad kartou
     .accessKey = h
+browser-layout-header = Rozloženie prehliadača
+browser-layout-horizontal-tabs =
+    .label = Karty v hornej časti
+browser-layout-horizontal-tabs-desc = Zobrazujú sa v hornej časti prehliadača
+browser-layout-vertical-tabs =
+    .label = Vertikálne karty
+browser-layout-vertical-tabs-desc = Zobrazujú sa v bočnom paneli
+browser-layout-show-sidebar =
+    .label = Zobraziť bočný panel
+browser-layout-show-sidebar-desc = Získajte rýchly prístup k záložkám, kartám z telefónu, AI chatbotom a ďalším bez toho, aby ste opustili hlavné okno.
 
 ## General Section - Language & Appearance
 
@@ -1311,6 +1321,8 @@ permissions-addon-exceptions =
 collection-header = Zber a použitie údajov o aplikácii { -brand-short-name }
 collection-header2 = Zber a použitie údajov o aplikácii { -brand-short-name }
     .searchkeywords = telemetria
+preferences-collection-description = Snažíme sa poskytnúť vám možnosti a zhromažďovať len minimum údajov potrebných na zlepšenie { -brand-product-name(case: "gen") } pre každého.
+preferences-collection-privacy-notice = Zobraziť Vyhlásenie o ochrane osobných údajov
 collection-description = Keď sa jedná o údaje, dávame vám vždy na výber. Zbierame len údaje, ktoré nám pomôžu aplikáciu { -brand-short-name } naďalej zlepšovať. Pred odoslaním osobných údajov vždy žiadame o váš súhlas.
 collection-privacy-notice = Vyhlásenie o ochrane osobných údajov
 collection-health-report-telemetry-disabled = Odosielanie technických údajov a údajov o interakciách spoločnosti { -vendor-short-name } nie je naďalej povolené. Všetky historické údaje budú odstránené v priebehu 30 dní.

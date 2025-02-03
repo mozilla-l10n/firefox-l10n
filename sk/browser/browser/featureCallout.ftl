@@ -64,6 +64,7 @@ split-dismiss-button-manage-settings-option-label = Spravovať nastavenia
 
 sidebar-button-callout-title = Zobrazovať názvy kariet na bočnom paneli
 sidebar-button-callout-subtitle = Pomocou tlačidla bočného panela rozbaľte bočný panel, aby ste videli názvy kariet.
+sidebar-button-callout-vertical-tabs = Ak chcete zobraziť svoje karty, použíte tlačidlo bočného panela na paneli s nástrojmi.
 
 ## Sidebar Callout Survey Strings
 
@@ -94,3 +95,11 @@ sidebar-genai-survey-satisfaction-question = Ako ste spokojní s prístupom k AI
 sidebar-genai-survey-productive-question =
     Do akej miery súhlasíte alebo nesúhlasíte s týmto tvrdením:<br/>
     „AI chatbot na bočnom paneli mi pomáha byť produktívnejší“?
+unified-search-callout-title = Prepínajte medzi vyhľadávačmi
+unified-search-callout-subtitle = Vyberte si, čo najlepšie vyhovuje vášmu konkrétnemu vyhľadávaniu.
+unified-search-callout-primary-label = Ďalej
+unified-search-callout-secondary-label = Zavrieť
+unified-search-engines-callout-title = Hľadajte pomocou skratky
+unified-search-engines-callout-subtitle = Ak chcete vyhľadávať v histórii, záložkách, kartách alebo pomocou iného vyhľadávacieho nástroja, napíšte “@” a za ním kľúčové slovo.
+unified-search-engines-callout-primary-label = Rozumiem
+actions-callout-title = Dokončite bežné úlohy alebo získajte prístup k základným nastaveniam
