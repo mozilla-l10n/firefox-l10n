@@ -423,6 +423,8 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = ਸੁਰੱਖਿਆ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਲਈ ਸਾਡੇ ਮਿਆਰਾਂ ਉੱਤੇ ਖ਼ਰ੍ਹਾ ਉਤਰਨ ਲਈ ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਦੀ ਜਾਂਚ ਕੀਤੀ ਜਾ ਚੁੱਕੀ ਹੈ
     .aria-label = { addon-badge-verified2.title }
+addon-badge-recommended3 =
+    .title = { -brand-product-name } ਉਹ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦੀ ਸਿਫਾਰਸ਼ ਕਰਦਾ ਹੈ, ਜੋ ਸੁਰੱਖਿਆ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਲਈ ਸਾਡੇ ਮਿਆਰ ਪੂਰੇ ਕਰਦੇ ਹਨ।
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
