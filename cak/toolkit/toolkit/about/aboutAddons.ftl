@@ -399,6 +399,12 @@ addon-badge-verified2 =
     .aria-label = { addon-badge-verified2.title }
 addon-badge-recommended3 =
     .title = { -brand-product-name } xa xe yeruchilab'ej taq k'amal kojqan rub'eyal qajikomal chuqa' rub'eyal qasamaj
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line4 =
+    .title = K'amal b'anon ruma Mozilla. Rojqan retal jikomal chuqa' rub'eyal nisamäj
+addon-badge-verified3 =
+    .title = Re k'amal re' xnik'öx richin nib'anatäj ri rub'eyal qajikomal chuqa' rub'eyal samaj.
 
 ##
 
