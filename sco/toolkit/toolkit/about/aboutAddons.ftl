@@ -363,6 +363,10 @@ addon-detail-update-check-label = Check fur Updates
 install-update-button = Update
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed3 =
+    .title = Allooed in private windaes
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
     .title = Allooed in private windaes
     .aria-label = { addon-badge-private-browsing-allowed2.title }
@@ -388,6 +392,14 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = This extension has been pruived tae meet oor staunarts fur siccarness and performance
     .aria-label = { addon-badge-verified2.title }
+addon-badge-recommended3 =
+    .title = { -brand-product-name } anely recommends extensions that meet oor staunarts fur siccarness and performance
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line4 =
+    .title = Offeecial extension pit thegither by Mozilla. Meets security and performance staunarts
+addon-badge-verified3 =
+    .title = This extension has been pruived tae meet oor staunarts fur siccarness and performance
 
 ##
 
