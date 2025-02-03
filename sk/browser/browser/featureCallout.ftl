@@ -79,7 +79,7 @@ sidebar-callout-survey-very-dissatisfied-2 = veľmi nespokojný
 sidebar-callout-survey-dont-use-it = nepoužívam ho
 sidebar-callout-survey-productive-question =
     Do akej miery súhlasíte alebo nesúhlasíte s týmto tvrdením:<br/>
-    „Bočný panel { -brand-short-name(case: "gen") } mi pomáha byť produktívnejší“?
+    “Bočný panel { -brand-short-name(case: "gen") } mi pomáha byť produktívnejší”?
 sidebar-callout-survey-strongly-agree = rozhodne súhlasím
 sidebar-callout-survey-agree = súhlasím
 sidebar-callout-survey-disagree = nesúhlasím
@@ -94,7 +94,7 @@ sidebar-callout-survey-thank-you = Ďakujeme za vašu spätnú väzbu.
 sidebar-genai-survey-satisfaction-question = Ako ste spokojní s prístupom k AI chatbotu na bočnom paneli?
 sidebar-genai-survey-productive-question =
     Do akej miery súhlasíte alebo nesúhlasíte s týmto tvrdením:<br/>
-    „AI chatbot na bočnom paneli mi pomáha byť produktívnejší“?
+    “AI chatbot na bočnom paneli mi pomáha byť produktívnejší”?
 unified-search-callout-title = Prepínajte medzi vyhľadávačmi
 unified-search-callout-subtitle = Vyberte si, čo najlepšie vyhovuje vášmu konkrétnemu vyhľadávaniu.
 unified-search-callout-primary-label = Ďalej
@@ -110,4 +110,4 @@ actions-callout-title = Dokončite bežné úlohy alebo získajte prístup k zá
 # "print" - quickactions-cmd-print
 # "clear" - quickactions-cmd-clearhistory
 # When localizing, ensure the translations match to ensure the action button appears as expected.
-actions-callout-subtitle = Skúste zadať akciu, napríklad „tlačiť“, ak chcete vytlačiť stránku, alebo „vymazať“, ak chcete vymazať históriu.
+actions-callout-subtitle = Skúste zadať akciu, napríklad “tlačiť”, ak chcete vytlačiť stránku, alebo “vymazať”, ak chcete vymazať históriu.

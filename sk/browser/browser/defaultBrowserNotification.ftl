@@ -32,7 +32,7 @@ default-browser-guidance-notification-title = Dokončite nastavenie { -brand-sho
 # Quoted text are keywords to look for in the Windows Settings app.
 default-browser-guidance-notification-body-instruction-win10 =
     Krok 1: Prejdite do časti Nastavenia > Predvolené aplikácie
-    Krok 2: Prejdite nadol na „Webový prehliadač“
+    Krok 2: Prejdite nadol na “Webový prehliadač”
     Krok 3: Zvoľte { -brand-short-name }
 # Quoted text are keywords to look for in the Windows Settings app.
 default-browser-guidance-notification-body-instruction-win11 =
