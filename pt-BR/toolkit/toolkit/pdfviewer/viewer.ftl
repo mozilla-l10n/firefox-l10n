@@ -439,7 +439,7 @@ pdfjs-editor-new-alt-text-dialog-edit-label = Editar texto alternativo (descriç
 # Modal header positioned above a text box where users can add the alt text.
 pdfjs-editor-new-alt-text-dialog-add-label = Adicionar texto alternativo (descrição da imagem)
 pdfjs-editor-new-alt-text-textarea =
-    .placeholder = Escreva sua descrição aqui…
+    .placeholder = Você pode escrever uma descrição aqui…
 # This text refers to the alt text box above this description. It offers a definition of alt text.
 pdfjs-editor-new-alt-text-description = Descrição curta para pessoas que não conseguem ver a imagem ou quando a imagem não é carregada.
 # This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
@@ -462,8 +462,8 @@ pdfjs-editor-new-alt-text-added-button =
 pdfjs-editor-new-alt-text-added-button-label = Texto alternativo adicionado
 # This is a button that users can click to open the alt text editor and add alt text when it is not present.
 pdfjs-editor-new-alt-text-missing-button =
-    .aria-label = Falta texto alternativo
-pdfjs-editor-new-alt-text-missing-button-label = Falta texto alternativo
+    .aria-label = Sem texto alternativo
+pdfjs-editor-new-alt-text-missing-button-label = Sem texto alternativo
 # This is a button that opens up the alt text modal where users should review the alt text that was automatically generated.
 pdfjs-editor-new-alt-text-to-review-button =
     .aria-label = Revisar texto alternativo
