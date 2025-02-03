@@ -431,6 +431,12 @@ addon-badge-verified2 =
     .aria-label = { addon-badge-verified2.title }
 addon-badge-recommended3 =
     .title = { -brand-product-name } hanya menyarankan ekstensi yang memenuhi standar keamanan dan kinerja kami.
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line4 =
+    .title = Ekstensi resmi yang dibuat oleh Mozilla, memenuhi standar keamanan dan kinerja
+addon-badge-verified3 =
+    .title = Ekstensi ini telah ditinjau untuk memenuhi standar keamanan dan kinerja kami
 
 ##
 
