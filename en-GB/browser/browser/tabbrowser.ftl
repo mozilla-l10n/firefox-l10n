@@ -245,6 +245,10 @@ tab-group-editor-color-selector2-gray = Gray
     .title = Gray
 tab-group-editor-color-selector2-red = Red
     .title = Red
+# Variables:
+#  $tabGroupName (String): The name of the tab group. Defaults to the value
+#                          of tab-group-name-default.
+tab-group-description = { $tabGroupName } — Tab Group
 tab-group-menu-header = Tab groups
 tab-context-unnamed-group =
     .label = Unnamed group

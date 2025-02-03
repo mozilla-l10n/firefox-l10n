@@ -95,3 +95,11 @@ profiles-system-theme = Συστήματος
 
 ## Alternative text for default profile icons
 
+book-avatar-alt =
+    .alt = Βιβλίο
+briefcase-avatar-alt =
+    .alt = Χαρτοφύλακας
+flower-avatar-alt =
+    .alt = Λουλούδι
+heart-avatar-alt =
+    .alt = Καρδιά

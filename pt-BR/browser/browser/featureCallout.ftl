@@ -64,6 +64,7 @@ split-dismiss-button-manage-settings-option-label = Gerenciar configurações
 
 sidebar-button-callout-title = Mostrar títulos de abas no painel lateral
 sidebar-button-callout-subtitle = Use o botão do painel lateral para expandir e mostrar os títulos das abas.
+sidebar-button-callout-vertical-tabs = Para exibir suas abas, clique no botão de painel lateral na barra de ferramentas.
 
 ## Sidebar Callout Survey Strings
 
@@ -94,3 +95,7 @@ sidebar-genai-survey-satisfaction-question = Qual é seu nível de satisfação 
 sidebar-genai-survey-productive-question =
     Até que ponto você concorda ou discorda com esta declaração?<br/>
     “O chatbot de inteligência artificial no painel lateral me ajuda a ser mais produtivo”
+unified-search-callout-title = Mudar de mecanismo de pesquisa
+unified-search-callout-subtitle = Escolha o que funciona melhor para sua pesquisa específica.
+unified-search-callout-primary-label = Avançar
+unified-search-callout-secondary-label = Descartar

@@ -94,3 +94,7 @@ sidebar-genai-survey-satisfaction-question = Πόσο ικανοποιημένο
 sidebar-genai-survey-productive-question =
     Σε ποιο βαθμό συμφωνείτε ή διαφωνείτε με τη δήλωση:<br/>
     “Με βοηθά το chatbot AI στην πλευρική γραμμή να είμαι πιο παραγωγικός/-ή”;
+unified-search-callout-title = Εναλλαγή μεταξύ μηχανών αναζήτησης
+unified-search-callout-primary-label = Επόμενο
+unified-search-callout-secondary-label = Απόρριψη
+unified-search-engines-callout-primary-label = Το κατάλαβα
