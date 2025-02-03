@@ -90,8 +90,17 @@ sidebar-callout-survey-submit = 送出
 sidebar-callout-survey-thank-you = 感謝您的意見回饋！
 sidebar-genai-survey-satisfaction-question = 您對在側邊欄中能夠直接使用 AI 聊天機器人的功能，有多滿意？
 sidebar-genai-survey-productive-question = 您對下面的描述有多同意：<br/>「側邊欄中的 AI 聊天機器人讓我更有生產力」
+unified-search-callout-title = 切換不同搜尋引擎
 unified-search-callout-primary-label = 下一步
 unified-search-callout-secondary-label = 知道了！
 unified-search-engines-callout-title = 使用快速鍵進行搜尋
 unified-search-engines-callout-primary-label = 知道了！
 actions-callout-title = 完成常見任務或存取基礎設定
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearhistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = 可以試著輸入「print」來列印網頁，或輸入「clear」來清除瀏覽紀錄。
