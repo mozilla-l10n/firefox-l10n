@@ -240,6 +240,7 @@ browser-layout-vertical-tabs =
 browser-layout-vertical-tabs-desc = Naboku pokazać, w bóčnicy
 browser-layout-show-sidebar =
     .label = Bóčnicu pokazać
+browser-layout-show-sidebar-desc = Mějće spěšny přistup k zapołožkam, rajtarkam ze swojeho telefona, chatbotam KI a wjace, bjeztoho zo byšće swój hłowny napohlad wopušćił.
 
 ## General Section - Language & Appearance
 
@@ -1425,6 +1426,7 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } hižo dosć skła
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Modus Jenož-HTTPS
+httpsonly-description3 = Zmóžnja jenož wěste zwiski z websydłami. { -brand-short-name } budźe so was prašeć, prjedy hač njewěsće zwjazuje.
 httpsonly-learn-more2 = Kak Jenož-HTTPS funguje
 httpsonly-description = HTTPS wěsty, zaklučowany zwisk mjez { -brand-short-name } a websydłami skići, kotrež wopytujeće. Najwjace websydłow HTTPS podpěruje, a jeli modus Jenož-HTTPS je zmóžnjeny, { -brand-short-name } budźe wšě zwiski na HTTPS aktualizować.
 httpsonly-description2 = { -brand-short-name } wěste a zaklučowane zwiski ze sydłami, kotrež wopytujeće, wutworja. { -brand-short-name } budźe was warnować, jeli zwisk wěsty njeje, hdyž Jenož-HTTPS je aktiwny.
