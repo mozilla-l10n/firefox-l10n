@@ -354,6 +354,7 @@ newtab-wallpaper-abstract-green = Formas birdes
 newtab-wallpaper-abstract-blue = Formas asulas
 newtab-wallpaper-abstract-purple = Formas tanadas
 newtab-wallpaper-abstract-orange = Formas arantzu
+newtab-wallpaper-gradient-orange = Gradatzione dae arantzu a rosa
 newtab-wallpaper-abstract-blue-purple = Formas asulas e tanadas
 
 ## Photographs
