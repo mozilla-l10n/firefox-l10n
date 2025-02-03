@@ -385,6 +385,10 @@ addon-detail-group-label-updates =
     .aria-label = { addon-detail-updates-label }
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed3 =
+    .title = Sallittu yksityisissä ikkunnoissa
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
     .title = Sallittu yksityisissä ikkunnoissa
     .aria-label = { addon-badge-private-browsing-allowed2.title }
@@ -426,6 +430,12 @@ addon-badge-verified2 =
     .aria-label = { addon-badge-verified2.title }
 addon-badge-recommended3 =
     .title = { -brand-product-name } suosittelee vain laajennuksia, jotka täyttävät standardimme turvallisuuden ja suorituskyvyn suhteen
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line4 =
+    .title = Virallinen laajennus, jonka on toteuttanut Mozilla. Täyttää turvallisuus- ja suorituskykystandardit.
+addon-badge-verified3 =
+    .title = Tämä laajennnus on katselmoitu, ja se täyttää standardimme turvallisuuden ja suorituskyvyn suhteen.
 
 ##
 
