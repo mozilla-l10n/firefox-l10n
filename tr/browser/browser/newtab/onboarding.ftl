@@ -392,6 +392,8 @@ onboarding-new-tabs-title = Sekmelerinizi nerede görmek istersiniz?
 onboarding-new-tabs-subtitle = İstediğiniz zaman kenar çubuğu ayarlarından değiştirebilirsiniz.
 # Setup screen for vertical tabs - too many tabs variation
 onboarding-many-tabs-title = Senin sekmelerin, senin kararın
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Çok fazla açık sekmeniz mi var? Daha akıcı bir görünüm için sekmeleri kenara almayı deneyin. İsterseniz sekmelerinizi üstte tutmaya devam edebilir, tercihinizi istediğiniz zaman değiştirebilirsiniz.
 # Setup screen for vertical tabs - focused variation
 onboarding-focused-tabs-title = Sekme düzeninizi seçin
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
@@ -442,6 +444,7 @@ onboarding-checklist-sign-up = Hesap aç veya hesaba giriş yap
 
 tab-groups-onboarding-feature-callout-title = Dağınıklığı azaltarak daha iyi odaklanmak için sekme gruplarını deneyin
 tab-groups-onboarding-feature-callout-subtitle = İlk grubunuzu oluşturmak için sekmeleri üst üste sürükleyin.
+tab-groups-onboarding-saved-groups-title = Bir sekme grubunu kapatırsanız istediğiniz zaman buradan yeniden açabilirsiniz.
 tab-groups-onboarding-dismiss = Tamam
 
 ## Multi Profiles feature onboarding messages
