@@ -282,6 +282,8 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Cua s'indiritzu de posta eletrònica e su nùmeru de telèfonu tuos reales
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Ampara sa faina tua in lìnia
+appmenu-services-header = Is servìtzios mios
+appmenu-other-protection-header = Proa àteras ainas de amparu dae { -vendor-short-name }:
 
 ## Profiles panel
 
