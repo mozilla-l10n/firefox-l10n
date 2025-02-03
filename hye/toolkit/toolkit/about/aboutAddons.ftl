@@ -359,6 +359,10 @@ addon-detail-update-check-label = Ստուգել թարմացումները
 install-update-button = Թարմացնել
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed3 =
+    .title = Թոյլատրուած է գաղտնի պատուհաններում
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
     .title = Թոյլատրուած է գաղտնի պատուհաններում
     .aria-label = { addon-badge-private-browsing-allowed2.title }
@@ -384,6 +388,14 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Այս ընդլայնումը վերանայուել է անվտանգութեան եւ գործադրութեան, մեր չափաւրինակներին համապատասխանելու համար
     .aria-label = { addon-badge-verified2.title }
+addon-badge-recommended3 =
+    .title = { -brand-product-name }-ը առաջարկում է միայն այն ընդլայնումները, որոնք համապատասխանում են անվտանգութեան և արդիւնաւէտութեան մեր չափաւրինակներին
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line4 =
+    .title = Պաշտաւնական ընդլայնման կառոյց Mozilla֊ի կողմից։ Համապատասխանում է անվտանգութեան եւ կատարողականութեան չափաւրինակներին։
+addon-badge-verified3 =
+    .title = Այս ընդլայնումը վերանայուել է անվտանգութեան եւ գործադրութեան, մեր չափաւրինակներին համապատասխանելու համար
 
 ##
 

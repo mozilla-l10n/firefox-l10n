@@ -328,6 +328,10 @@ addon-detail-update-check-label = Nana'uì' sa Nahuin nakà doj
 install-update-button = Nagi'iaj nakà
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed3 =
+    .title = Màn riña nej bentanâ huìi huaj
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
     .title = Màn riña nej bentanâ huìi huaj
     .aria-label = { addon-badge-private-browsing-allowed2.title }
@@ -345,6 +349,8 @@ addon-detail-private-browsing-disallow = Si ga'nï'
 addon-badge-recommended2 =
     .title = { -brand-product-name } nadiganj nej ekstensiûn nikò’ si nuguàn’ ñûnj dàj duguminj nī dàj ‘iaj sunj
     .aria-label = { addon-badge-recommended2.title }
+addon-badge-recommended3 =
+    .title = { -brand-product-name } nadiganj nej ekstensiûn nikò’ si nuguàn’ ñûnj dàj duguminj nī dàj ‘iaj sunj
 
 ##
 

@@ -347,6 +347,10 @@ addon-detail-update-check-label = Controlla atualizatziones
 install-update-button = Agiorna
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed3 =
+    .title = Permìtida in is ventanas privadas
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
     .title = Permìtida in is ventanas privadas
     .aria-label = { addon-badge-private-browsing-allowed2.title }

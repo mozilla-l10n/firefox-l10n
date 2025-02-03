@@ -290,6 +290,10 @@ addon-detail-update-check-label = چێکردنی نوێکردنەوە
 install-update-button = نوێکاری
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed3 =
+    .title = ڕێگەپێدراوە لە پەنجەرەی تایبەت
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
     .title = ڕێگەپێدراوە لە پەنجەرەی تایبەت
     .aria-label = { addon-badge-private-browsing-allowed2.title }

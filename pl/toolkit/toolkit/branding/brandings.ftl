@@ -177,3 +177,5 @@
                *[upper] Laboratorium Firefoksa
             }
     }
+-solo-ai-brand-name = Solo
+

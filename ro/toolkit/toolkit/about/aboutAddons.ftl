@@ -351,6 +351,10 @@ addon-detail-update-check-label = Caută actualizări
 install-update-button = Actualizare
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed3 =
+    .title = Permis în ferestre private
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
     .title = Permis în ferestre private
     .aria-label = { addon-badge-private-browsing-allowed2.title }
@@ -375,6 +379,8 @@ addon-detail-quarantined-domains-disallow = Nu permite
 addon-badge-recommended2 =
     .title = { -brand-product-name } recomandă numai extensiile care ne întrunesc standardele de securitate și performanță
     .aria-label = { addon-badge-recommended2.title }
+addon-badge-recommended3 =
+    .title = { -brand-product-name } recomandă numai extensiile care ne întrunesc standardele de securitate și performanță
 
 ##
 

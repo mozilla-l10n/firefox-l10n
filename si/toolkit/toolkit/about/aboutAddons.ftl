@@ -335,6 +335,10 @@ addon-detail-group-label-updates =
     .aria-label = { addon-detail-updates-label }
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed3 =
+    .title = පෞද්. කවුළුවල ඉඩ දී ඇත
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
     .title = පෞද්. කවුළුවල ඉඩ දී ඇත
     .aria-label = { addon-badge-private-browsing-allowed2.title }
@@ -369,6 +373,14 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = මෙම දිගුව අපගේ ආරක්‍ෂණ සහ කාර්ය සාධන ප්‍රමිතීන් සපුරාලන්නේ දැයි සමාලෝචනය කර ඇත
     .aria-label = { addon-badge-verified2.title }
+addon-badge-recommended3 =
+    .title = අපගේ ආරක්‍ෂණ හා කාර්ය සාධන ප්‍රමිතීන් සපුරාලන දිගු පමණක් { -brand-product-name } නිර්දේශ කරයි.
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line4 =
+    .title = මොසිල්ලා තනන ලද නිල එක්කහුවකි. ආරක්‍ෂණ හා කාර්ය සාධන ප්‍රමිතීන් සපුරාලයි.
+addon-badge-verified3 =
+    .title = මෙම දිගුව අපගේ ආරක්‍ෂණ සහ කාර්ය සාධන ප්‍රමිතීන් සපුරාලන්නේ දැයි සමාලෝචනය කර ඇත
 
 ##
 

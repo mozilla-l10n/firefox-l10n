@@ -346,6 +346,10 @@ addon-detail-update-check-label = হালনাগাদ এর জন্য �
 install-update-button = হালনাগাদ
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed3 =
+    .title = ব্যক্তিগত উইন্ডোতে অনুমোদিত
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
     .title = ব্যক্তিগত উইন্ডোতে অনুমোদিত
     .aria-label = { addon-badge-private-browsing-allowed2.title }
@@ -363,6 +367,8 @@ addon-detail-private-browsing-disallow = অনুমতি দিও না
 addon-badge-recommended2 =
     .title = { -brand-product-name } কেবলমাত্র সেই সব এক্সটেনশনকে সুপারিশ করা হয় যা সুরক্ষা এবং কার্যক্ষমতার দিক দিয়ে আমাদের মানদণ্ড পূরণ করে
     .aria-label = { addon-badge-recommended2.title }
+addon-badge-recommended3 =
+    .title = { -brand-product-name } কেবলমাত্র সেই সব এক্সটেনশনকে সুপারিশ করা হয় যা সুরক্ষা এবং কার্যক্ষমতার দিক দিয়ে আমাদের মানদণ্ড পূরণ করে
 
 ##
 

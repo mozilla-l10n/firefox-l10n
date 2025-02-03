@@ -359,6 +359,10 @@ addon-detail-update-check-label = Kontrolli uuendusi
 install-update-button = Uuenda
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed3 =
+    .title = Töötamine privaatsetes akendes on lubatud
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
     .title = Töötamine privaatsetes akendes on lubatud
     .aria-label = { addon-badge-private-browsing-allowed2.title }
@@ -384,6 +388,14 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = See laiendus on kontrollitud ja vastab meie turva- ning jõudlusstandarditele
     .aria-label = { addon-badge-verified2.title }
+addon-badge-recommended3 =
+    .title = { -brand-product-name } soovitab ainult meie turvalisuse ja jõudluse standarditele vastavaid laiendusi
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line4 =
+    .title = Mozilla loodud ametlik laiendus. Vastab turva- ja jõudlusstandarditele
+addon-badge-verified3 =
+    .title = See laiendus on kontrollitud ja vastab meie turva- ning jõudlusstandarditele
 
 ##
 

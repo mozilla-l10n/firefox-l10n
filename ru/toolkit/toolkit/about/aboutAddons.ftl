@@ -393,6 +393,10 @@ addon-detail-group-label-updates =
     .aria-label = { addon-detail-updates-label }
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed3 =
+    .title = Разрешено в приватных окнах
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
     .title = Разрешено в приватных окнах
     .aria-label = { addon-badge-private-browsing-allowed2.title }
@@ -432,6 +436,14 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Это расширение было проверено на соответствие нашим стандартам безопасности и производительности
     .aria-label = { addon-badge-verified2.title }
+addon-badge-recommended3 =
+    .title = { -brand-product-name } рекомендует только те расширения, которые соответствуют нашим стандартам по безопасности и производительности
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line4 =
+    .title = Официальное расширение, созданное Mozilla. Соответствует стандартам безопасности и производительности.
+addon-badge-verified3 =
+    .title = Это расширение было проверено на соответствие нашим стандартам безопасности и производительности
 
 ##
 
