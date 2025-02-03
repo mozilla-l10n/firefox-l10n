@@ -31,6 +31,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Obnoviť zatvorené karty
         }
     .accesskey = b
+toolbar-context-turn-on-vertical-tabs =
+    .label = Zapnúť vertikálne karty
+toolbar-context-turn-off-vertical-tabs =
+    .label = Vypnúť vertikálne karty
+toolbar-context-customize-sidebar =
+    .label = Prispôsobiť bočný panel
 toolbar-context-menu-manage-extension =
     .label = Spravovať rozšírenie
     .accesskey = S

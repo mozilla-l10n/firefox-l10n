@@ -44,6 +44,8 @@ new-profile-page-input-placeholder =
 new-profile-page-done-button =
     .label = Dokončiť úpravy
 profile-window-title-2 = { -brand-short-name } – Výber profilu
+profile-window-logo =
+    .alt = Logo { -brand-short-name(case: "gen") }
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
@@ -95,3 +97,15 @@ profiles-system-theme = Systémová
 
 ## Alternative text for default profile icons
 
+book-avatar-alt =
+    .alt = Kniha
+briefcase-avatar-alt =
+    .alt = Aktovka
+flower-avatar-alt =
+    .alt = Kvetina
+heart-avatar-alt =
+    .alt = Srdce
+shopping-avatar-alt =
+    .alt = Nákupný košík
+star-avatar-alt =
+    .alt = Hviezdička

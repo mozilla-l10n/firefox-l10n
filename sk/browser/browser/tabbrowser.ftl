@@ -267,6 +267,10 @@ tab-group-editor-color-selector2-gray = Sivá
     .title = Sivá
 tab-group-editor-color-selector2-red = Červená
     .title = Červená
+# Variables:
+#  $tabGroupName (String): The name of the tab group. Defaults to the value
+#                          of tab-group-name-default.
+tab-group-description = { $tabGroupName } — Skupina kariet
 tab-group-menu-header = Skupiny kariet
 tab-context-unnamed-group =
     .label = Nepomenovaná skupina
