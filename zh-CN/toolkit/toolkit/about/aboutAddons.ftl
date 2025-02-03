@@ -415,6 +415,14 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = 此扩展已通过审核，符合我们的安全和性能标准
     .aria-label = { addon-badge-verified2.title }
+addon-badge-recommended3 =
+    .title = { -brand-product-name } 只推荐符合我们的安全和性能标准的扩展。
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line4 =
+    .title = 由 Mozilla 构建的官方扩展，符合安全和性能标准
+addon-badge-verified3 =
+    .title = 此扩展已通过审核，符合我们的安全和性能标准
 
 ##
 
