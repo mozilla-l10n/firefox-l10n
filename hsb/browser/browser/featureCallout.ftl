@@ -94,3 +94,7 @@ sidebar-genai-survey-satisfaction-question = Kak spokojny sće z přistupom k ch
 sidebar-genai-survey-productive-question =
     Do kotreje měry zwoliće abo njezwoliće do tutoho twjerdźenja:<br/>
     „Chatbot KI w bóčnicy mi pomha bóle produktiwny być“?
+unified-search-callout-primary-label = Přichodny
+unified-search-callout-secondary-label = Zaćisnyć
+unified-search-engines-callout-title = Ze skrótšenku pytać
+unified-search-engines-callout-primary-label = Sym zrozumił

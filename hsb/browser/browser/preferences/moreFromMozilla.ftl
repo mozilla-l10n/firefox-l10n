@@ -11,6 +11,7 @@ more-from-moz-category =
 more-from-moz-subtitle = Wuslědźće druhe produkty { -vendor-short-name }, kotrež strowy internet podpěruja.
 more-from-moz-firefox-mobile-title = Mobilny { -brand-product-name }
 more-from-moz-firefox-mobile-description = Mobilny wobhladowak, kotryž wašu priwatnosć na prěnje městno staja.
+more-from-moz-firefox-mobile-title-1 = { -brand-product-name } za mobilne graty
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Wotkryjće přidatu runinu anonymneho přehladowanja a škita.
 more-from-moz-qr-code-box-firefox-mobile-title = Sćehńće z pomocu swojeho mobilneho grata. Měrće swoju kameru na QR-kod. Hdyž so wotkaz jewi, podótkńće so jeho.
@@ -35,3 +36,4 @@ more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name } wobstarać
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
+more-from-moz-solo-title = KI { -solo-ai-brand-name }
