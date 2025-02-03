@@ -397,6 +397,8 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Re k'amal re' xnik'öx richin nib'anatäj ri rub'eyal qajikomal chuqa' rub'eyal samaj.
     .aria-label = { addon-badge-verified2.title }
+addon-badge-recommended3 =
+    .title = { -brand-product-name } xa xe yeruchilab'ej taq k'amal kojqan rub'eyal qajikomal chuqa' rub'eyal qasamaj
 
 ##
 
