@@ -401,6 +401,8 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Šis priedas buvo peržiūrėtas ir atitinka mūsų saugumo bei našumo standartus
     .aria-label = { addon-badge-verified2.title }
+addon-badge-recommended3 =
+    .title = „{ -brand-product-name }“ rekomenduoja tik mūsų saugumo ir našumo reikalavimus atitinkančius priedus
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
