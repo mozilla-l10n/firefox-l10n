@@ -427,6 +427,14 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Бұл кеңейту қауіпсіздік пен өнімділік стандарттарына сай келетініне тексерілді
     .aria-label = { addon-badge-verified2.title }
+addon-badge-recommended3 =
+    .title = { -brand-product-name } тек біздің қауіпсіздік және өнімділік стандарттарына сай келетін кеңейтулерді ұсынады
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line4 =
+    .title = Mozilla компаниясы жасаған ресми кеңейту. Қауіпсіздік және өнімділік стандарттарына сәйкес келеді
+addon-badge-verified3 =
+    .title = Бұл кеңейту қауіпсіздік пен өнімділік стандарттарына сай келетініне тексерілді
 
 ##
 
