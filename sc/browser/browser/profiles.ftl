@@ -34,6 +34,7 @@ edit-profile-page-profile-saved = Sarvadu
 new-profile-page-title = Profilu nou
 new-profile-page-header = Personaliza su profilu nou
 new-profile-page-learn-more = Àteras informatziones
+profile-window-title-2 = { -brand-short-name } - Sèbera unu profilu
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
@@ -43,11 +44,14 @@ delete-profile-page-title = Cantzella su profilu { $profilename }
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-header = Boles cantzellare su profilu { $profilename }?
+delete-profile-description = { -brand-short-name } at a cantzellare in manera definitiva is datos chi sighint dae custu dispositivu:
 # Open is an adjective, as in "browser windows currently open".
 delete-profile-windows = Ventanas abertas
 # Open is an adjective, as in "browser tabs currently open".
 delete-profile-tabs = Ischedas abertas
 delete-profile-bookmarks = Sinnalibros
+delete-profile-history = Cronologia (pàginas visitadas, testimòngios, datos de is sitos)
+delete-profile-autofill = Datos de cumpletamentu automàticu (indiritzos, mètodos de pagamentu)
 delete-profile-logins = Craes
 
 ##

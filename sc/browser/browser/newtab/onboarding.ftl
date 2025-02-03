@@ -387,6 +387,8 @@ onboarding-new-tabs-title = Nara·nos in ue boles is ischedas tuas
 onboarding-new-tabs-subtitle = Podes cambiare cando boles dae sa cunfiguratzione de sa barra laterale.
 # Setup screen for vertical tabs - too many tabs variation
 onboarding-many-tabs-title = Is ischedas tuas, sa manera tua
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Sèbera sa dispositziones de is ischedas
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Ischedas a su costadu
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -427,10 +429,12 @@ onboarding-checklist-sign-up = Registra·ti o identìfica·ti cun su profilu tuo
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-saved-groups-title = Si serras unu grupu de ischedas, ddu podes torrare a abèrrere inoghe in cale si siat momentu.
 tab-groups-onboarding-dismiss = Andat bene
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-title = Dona su benebènnidu a is profilos de { -brand-product-name }
 multi-profile-spotlight-body = Cola in manera fàtzile intre sa navigatzione de traballu e cussa de ispàssiu. Is profilos mantenent separadas is informatziones de navigatzione, includende sa cronologia de chircas e is craes, pro chi potzas tènnere totu organizadu.
 multi-profile-spotlight-cta = Crea unu profilu
 multi-profile-callout-title = Crea profilos diferentes pro traballu e ispàssiu

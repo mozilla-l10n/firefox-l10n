@@ -7,14 +7,21 @@
 
 preonboarding-title = Ti donamus su benebènnidu a { -brand-product-name }
 preonboarding-primary-cta = Cunfirma e sighi
+# Label for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
+preonboarding-manage-and-read-header = Gesti sa cunfiguratzione de sa regorta de datos e leghe is Cunditziones de su servìtziu nostras e s’Avisu de riservadesa
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Leghe is Cunditziones de su servìtziu
 # Label for header style button that toggles showing the Privacy Notice
 preonboarding-privacy-notice-header-button-title = Leghe s’Avisu de riservadesa
+# Label for header style button that toggles showing the data preference checklist
+preonboarding-manage-data-header-button-title = Gesti is datos dianniòsticos e de interatzione
 # Label for header style button that toggles showing the Terms of Use (Variant B)
 preonboarding-terms-of-use-header-button-title-b = Cunditziones de impreu de { -brand-product-name }
 # Label for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = Avisu de riservadesa de { -brand-product-name }
 # Description under label for header style buttons
 preonboarding-header-button-description = Leghe àteru
+# New user onboarding checklist
+preonboarding-checklist-interaction-data-label = Imbia datos tècnicos e de interatzione a { -vendor-short-name }
+preonboarding-checklist-interaction-data-description = Is datos in contu de su dispositivu tuo, de sa cunfiguratzione e de comente impreas { -brand-product-name } agiudant a megiorare is funtziones, su rendimentu e s’istabilidade pro is utentesde onni logu.
 preonboarding-checklist-crash-reports-label = Imbia sinnalatziones de faddinas in automàticu

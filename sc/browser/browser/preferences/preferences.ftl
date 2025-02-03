@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Imbia a is sitos web su sinnale "Non mi sigas" pro ddi nàrrere chi non boles a ti sighire
+do-not-track-removal = Non suportamus prus su sinnale "non mi sigas"
 do-not-track-description2 =
     .label = Imbia a is sitos web rechestas de “non sighidura”
     .accesskey = I
@@ -60,6 +61,7 @@ pane-experimental-description2 = Sa modìfica de is paràmetros de cunfiguratzio
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description3 = Proa is funtziones nostras isperimentales. Sunt in isvilupu e evolutzione, e custu diat pòdere cambiare su funtzionamentu de { -brand-short-name }.
 pane-experimental-reset =
     .label = Recùpera valores predefinidos
     .accesskey = R
@@ -223,6 +225,16 @@ containers-remove-cancel-button = Non boghes custu cuntenidore
 settings-tabs-show-image-in-preview =
     .label = Ammustra un’anteprima de immàgine cando su puntadore est subra de un’ischeda.
     .accessKey = m
+browser-layout-header = Dispositzione de su navigadore
+browser-layout-horizontal-tabs =
+    .label = Ischedas orizontales
+browser-layout-horizontal-tabs-desc = Ammustra in sa parte de susu de su navigadore
+browser-layout-vertical-tabs =
+    .label = Ischedas verticales
+browser-layout-vertical-tabs-desc = Ammustra a un'ala, in sa barra laterale
+browser-layout-show-sidebar =
+    .label = Ammustra sa barra laterale
+browser-layout-show-sidebar-desc = Atzede a sa lestra a sinnalibros, ischedas dae su telefoneddu tuo, chatbot IA e àteru chene lassare s’ischermu printzipale.
 
 ## General Section - Language & Appearance
 
@@ -798,6 +810,9 @@ sync-currently-syncing-creditcards = Cartas de crèditu
 sync-currently-syncing-payment-methods = Mètodos de pagamentu
 sync-currently-syncing-addons = Cumplementos
 sync-currently-syncing-settings = Cunfiguratzione
+sync-manage-options =
+    .label = Gesti sa sincronizatzione…
+    .accesskey = G
 sync-change-options =
     .label = Modìfica…
     .accesskey = M
@@ -1296,6 +1311,7 @@ permissions-addon-exceptions =
 collection-header = Impreu e còllida de datos dae { -brand-short-name }
 collection-header2 = Impreu e collida de datos dae { -brand-short-name }
     .searchkeywords = telemetria
+preferences-collection-privacy-notice = Bide s'avisu de riservadesa
 collection-description = Chircamus de ti garantire sèberos e de regòllere isceti su chi nos serbit pro sa frunidura e su megioru de { -brand-short-name } pro chie chi siat. Pedimus semper su permissu in antis de retzire informatziones personales.
 collection-privacy-notice = Avisu de riservadesa
 collection-health-report-telemetry-disabled = Non permitas prus a { -vendor-short-name } de caturare datos tècnicos e de interatzione. Totu is datos betzos ant a èssere cantzellados intro de 30 dies.
@@ -1373,6 +1389,7 @@ space-alert-under-5gb-message2 = <strong>Est acabbende s'ispàtziu in su discu p
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Modalidade HTTPS ebbia
+httpsonly-learn-more2 = Comente funtzionat sa modalidade «isceti HTTPS»
 httpsonly-description = HTTPS garantit una connessione segura e tzifrada intre { -brand-short-name } e is sitos web chi ses bisitende. Sa majoria de is sitos sunt cumpatìbiles cun HTTPS; si sa Modalidade HTTPS ebbia est ativada, { -brand-short-name } at a impreare HTTPS in totu is connessiones.
 httpsonly-learn-more = Àteras informatziones
 httpsonly-radio-enabled =
@@ -1381,6 +1398,9 @@ httpsonly-radio-enabled2 =
     .label = Imprea isceti HTTPS in totu is ventanas
 httpsonly-radio-enabled-pbm =
     .label = Ativa sa modalidade HTTPS ebbia isceti in is ventanas privadas
+httpsonly-radio-disabled3 =
+    .label = No atives sa modalidade «isceti HTTPS»
+    .description = { -brand-short-name } diat pòdere ancora atualizare unas cantas connessiones
 httpsonly-radio-enabled-pbm2 =
     .label = Imprea isceti HTTPS in is ventanas privadas
 httpsonly-radio-disabled =
