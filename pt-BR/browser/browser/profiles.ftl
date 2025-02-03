@@ -99,3 +99,13 @@ profiles-system-theme = Sistema
 
 book-avatar-alt =
     .alt = Livro
+briefcase-avatar-alt =
+    .alt = Maleta
+flower-avatar-alt =
+    .alt = Flor
+heart-avatar-alt =
+    .alt = Coração
+shopping-avatar-alt =
+    .alt = Carrinho de compras
+star-avatar-alt =
+    .alt = Estrela

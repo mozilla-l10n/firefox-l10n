@@ -29,6 +29,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Reabrir abas fechadas
         }
     .accesskey = h
+toolbar-context-turn-on-vertical-tabs =
+    .label = Ativar abas na vertical
+toolbar-context-turn-off-vertical-tabs =
+    .label = Desativar abas na vertical
+toolbar-context-customize-sidebar =
+    .label = Personalizar painel lateral
 toolbar-context-menu-manage-extension =
     .label = Gerenciar extensão
     .accesskey = e
