@@ -746,7 +746,7 @@ urlbar-group-trending =
     .label = { $engine } გთავაზობთ ხშირად მოძიებულს
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
-    .label = ხშირად მოძიებულის ჩვენების გარეშე
+    .label = არ გამოჩნდეს ხშირად მოძიებული
     .accesskey = გ
 urlbar-result-menu-trending-why =
     .label = რატომ ვხედავ ამას?
