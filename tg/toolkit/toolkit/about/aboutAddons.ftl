@@ -387,6 +387,10 @@ addon-detail-group-label-updates =
     .aria-label = { addon-detail-updates-label }
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed3 =
+    .title = Дар равзанаҳои хусусӣ иҷозат дода мешавад
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
     .title = Дар равзанаҳои хусусӣ иҷозат дода мешавад
     .aria-label = { addon-badge-private-browsing-allowed2.title }
@@ -426,6 +430,14 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Ин васеъшавӣ нисбат ба мувофиқат ба стандартҳои мо оида ба амният ва самаранокӣ тасдиқ карда шудааст
     .aria-label = { addon-badge-verified2.title }
+addon-badge-recommended3 =
+    .title = { -brand-product-name } танҳо он васеъшавиҳоро тавсия медиҳад, ки ба стандартҳои мо оид ба амният ва самаранокӣ ҷавобгӯ мебошанд
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line4 =
+    .title = Васеъшавии расмие, ки аз тарафи «Mozilla» эҷод карда шудааст. Ба стандартҳои мо оид ба амният ва самаранокӣ ҷавобгӯ мебошад
+addon-badge-verified3 =
+    .title = Ин васеъшавӣ нисбат ба мувофиқат ба стандартҳои мо оида ба амният ва самаранокӣ тасдиқ карда шудааст
 
 ##
 
