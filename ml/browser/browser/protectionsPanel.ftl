@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+protections-panel-sendreportview-error = വിവരം അയയ്‌ക്കുന്നതിൽ ഒരു പിശക് ഉണ്ടായിരുന്നു. പിന്നീട് വീണ്ടും ശ്രമിക്കുക.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -33,6 +34,7 @@ protections-panel-not-blocking-why-label = എന്തുകൊണ്ടു്?
 
 protections-panel-content-blocking-tracking-protection = പിന്തുടരുന്ന ഉള്ളടക്കം
 protections-panel-content-blocking-socialblock = സമൂഹ മാധ്യമ പിന്തുടർച്ചയന്ത്രങ്ങൾ
+protections-panel-content-blocking-fingerprinters-label = വിരലടയാളപ്പിന്തുടൎച്ചയന്ത്രം
 
 ## In the protections panel, Content Blocking category items are in three sections:
 ##   "Blocked" for categories being blocked in the current page,
@@ -58,6 +60,7 @@ protections-panel-site-not-working-view-issue-list-payments = പണമടക്
 protections-panel-site-not-working-view-issue-list-comments = അഭിപ്രായങ്ങൾ
 protections-panel-site-not-working-view-issue-list-videos = ദൃശ്യങ്ങൾ
 protections-panel-site-not-working-view-issue-list-fonts = അക്ഷരശൈലികൾ
+protections-panel-site-not-working-view-send-report = വിവരം അറിയിക്കുക
 
 ##
 
@@ -69,6 +72,8 @@ protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = യുആര്‍എല്‍
 protections-panel-content-blocking-breakage-report-view-cancel =
     .label = റദ്ദാക്കുക
+protections-panel-content-blocking-breakage-report-view-send-report =
+    .label = വിവരം അറിയിക്കുക
 
 # Cookie Banner Handling
 

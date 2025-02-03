@@ -11,6 +11,7 @@ more-from-moz-category =
 more-from-moz-subtitle = 看看致力於讓網際網路環境變得更健康的其他 { -vendor-short-name } 產品。
 more-from-moz-firefox-mobile-title = { -brand-product-name } 行動版
 more-from-moz-firefox-mobile-description = 把您的隱私權置於最優先的行動瀏覽器。
+more-from-moz-firefox-mobile-title-1 = { -brand-product-name } 行動版
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = 探索更多一層的匿名上網與保護機制。
 more-from-moz-qr-code-box-firefox-mobile-title = 請掃描 QR Code，點擊出現的鏈結，即可使用您的行動裝置下載。
@@ -35,3 +36,5 @@ more-from-moz-mozilla-monitor-button = 取得 { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
+more-from-moz-solo-title = { -solo-ai-brand-name } AI
+more-from-moz-solo-button = 試用 { -solo-ai-brand-name }

@@ -346,6 +346,8 @@ home-prefs-highlights-options-bookmarks =
     .label = ബുക്ക്മാർക്കുകൾ
 home-prefs-highlights-option-most-recent-download =
     .label = ഏറ്റവും അടുത്തിടെ ഇറക്കിവച്ച സാധനം
+home-prefs-highlights-option-saved-to-pocket =
+    .label = { -pocket-brand-name }-ലോട്ടു് താളുകളെ കരുതിവച്ചു
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,

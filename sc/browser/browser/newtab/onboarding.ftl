@@ -431,5 +431,8 @@ tab-groups-onboarding-dismiss = Andat bene
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-body = Cola in manera fàtzile intre sa navigatzione de traballu e cussa de ispàssiu. Is profilos mantenent separadas is informatziones de navigatzione, includende sa cronologia de chircas e is craes, pro chi potzas tènnere totu organizadu.
 multi-profile-spotlight-cta = Crea unu profilu
+multi-profile-callout-title = Crea profilos diferentes pro traballu e ispàssiu
+multi-profile-callout-subtitle = Is profilos ti permitint de mantènnere separadas is informatziones de navigatzione, includende sa cronologia de chircas e is craes.
 multi-profile-callout-cta = Crea unu profilu

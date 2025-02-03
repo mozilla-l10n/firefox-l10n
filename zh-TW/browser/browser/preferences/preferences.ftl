@@ -213,6 +213,8 @@ containers-remove-cancel-button = 不要移除此容器
 settings-tabs-show-image-in-preview =
     .label = 當滑鼠移動到分頁標籤上時，顯示分頁預覽
     .accessKey = h
+browser-layout-show-sidebar =
+    .label = 顯示側邊欄
 
 ## General Section - Language & Appearance
 
@@ -1295,6 +1297,7 @@ permissions-addon-exceptions =
 collection-header = { -brand-short-name } 資料收集與使用
 collection-header2 = { -brand-short-name } 資料收集與使用
     .searchkeywords = telemetry
+preferences-collection-privacy-notice = 檢視隱私權公告
 collection-description = 我們致力於提供您選擇，也只會收集我們在提供與改善 { -brand-short-name } 時所必需的資料。我們也一定會經過您的同意才收集您的個人資訊。
 collection-privacy-notice = 隱私權公告
 collection-health-report-telemetry-disabled = 將不再允許 { -vendor-short-name } 捕捉技術與互動資料，之前收集的資料將於 30 天內刪除。
@@ -1394,6 +1397,7 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } 的磁碟空間�
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = 純 HTTPS 模式
+httpsonly-learn-more2 = 純 HTTPS 模式的運作原理是什麼？
 httpsonly-description = HTTPS 讓您與要造訪的網站間，能夠有安全而加密過的連線。大部分的網站都支援 HTTPS，開啟純 HTTPS 模式後，{ -brand-short-name } 就會將所有的連線都升級為 HTTPS 連線。
 httpsonly-description2 = { -brand-short-name } 會與您造訪的網站建立安全、加密過的連線。開啟 HTTPS-Only 後，若遇到不安全的連線，{ -brand-short-name } 會警告您。
 httpsonly-learn-more = 了解更多
@@ -1403,6 +1407,9 @@ httpsonly-radio-enabled2 =
     .label = 在所有視窗都只使用 HTTPS 連線
 httpsonly-radio-enabled-pbm =
     .label = 僅在隱私瀏覽視窗開啟純 HTTPS 模式
+httpsonly-radio-disabled3 =
+    .label = 不要開啟純 HTTPS 模式
+    .description = { -brand-short-name } 可能還是會將某些連線升級為 HTTPS 連線
 httpsonly-radio-enabled-pbm2 =
     .label = 在隱私視窗僅使用 HTTPS 連線
 httpsonly-radio-disabled =

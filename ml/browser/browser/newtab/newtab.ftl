@@ -395,4 +395,6 @@ newtab-section-mangage-topics-title = വിഷയങ്ങൾ
 newtab-section-mangage-topics-button =
     .label = പിന്തുടരുന്നയും തടഞ്ഞതും വിഷയങ്ങൾ
 newtab-section-mangage-topics-followed-topics-subtitle = പിന്തുടരുന്ന വിഷയങ്ങൾ
+newtab-section-mangage-topics-followed-topics-empty-state = താങ്ങൾ ഇതുവരെ ഒരു വിഷയവും പിന്തുടൎന്നിട്ടില്ല
 newtab-section-mangage-topics-blocked-topics-subtitle = തടഞ്ഞ വിഷയങ്ങൾ
+newtab-section-mangage-topics-blocked-topics-empty-state = താങ്ങൾ ഇതുവരെ ഒരു വിഷയത്തിനെയും ത‍ടഞ്ഞിട്ടില്ല

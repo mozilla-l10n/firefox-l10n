@@ -5,12 +5,15 @@
 
 ## Generative AI (GenAI) Settings section
 
+genai-settings-chat-description = Agiunghet su chatbot chi sèberes a sa barra laterale, pro ddoe atzèdere a lestru comente ses navighende. <a data-l10n-name="connect">Imbia cummentos</a>
 genai-settings-chat-choose = Sèbera unu chatbot
 genai-settings-chat-choose-one-menuitem =
     .label = Sèbera·nde unu
 genai-settings-chat-links = Cando sèberas unu chatbot, atzetas is cunditziones de impreu de su frunidore e sa polìtica de riservadesa sua.
 genai-settings-chat-chatgpt-links = Seberende ChatGPT, atzetas is <a data-l10n-name="link1">Cunditziones de impreu</a> e sa <a data-l10n-name="link2">polìtica de riservadesa</a> de OpenAI.
 genai-settings-chat-claude-links = Seberende Anthropic Claude, atzetas is <a data-l10n-name="link1">cunditziones de su servìtziu</a>, sa <a data-l10n-name="link2">polìtica de impreu</a> e sa <a data-l10n-name="link3">polìtica de riservadesa</a> de Anthropic.
+genai-settings-chat-copilot-links = Seberende Copilot, atzetas is <a data-l10n-name="link1">Cunditziones de esperièntzias de Copilot AI</a> e su <a data-l10n-name="link2">Decraru de riservadesa de Microsoft</a>.
+genai-settings-chat-gemini-links = Seberende Google Gemini, atzetas is <a data-l10n-name="link1">Cunditziones de servìtziu de Google</a>, sa <a data-l10n-name="link2">Polìtica de impreos proibidos de IA generativa<a data-l10n-name="link2"> e s’<a data-l10n-name="link3">Avisu de riservadesa de is aplicatziones de Gemini</a>.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -18,6 +21,10 @@ genai-settings-chat-claude-links = Seberende Anthropic Claude, atzetas is <a dat
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# This prompt is added to the beginning of selection prompts sent to a chatbot.
+# $tabTitle (string) - title of the webpage
+# $selection (string) - selected text
+genai-prompt-prefix-selection = So in sa pàgina “{ $tabTitle }” e apo seletzionadu “{ $selection }”.
 
 ## Chatbot menu shortcuts
 
