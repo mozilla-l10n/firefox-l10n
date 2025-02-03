@@ -128,4 +128,4 @@ printui-error-invalid-copies = Počet kópií musí byť číslo medzi 1 a 10000
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Rozsah strán musí byť číslo medzi 1 a { $numPages }.
-printui-error-invalid-start-overflow = Číslo strany „od“ musí byť menšie ako číslo strany „do“.
+printui-error-invalid-start-overflow = Číslo strany “od” musí byť menšie ako číslo strany “do”.

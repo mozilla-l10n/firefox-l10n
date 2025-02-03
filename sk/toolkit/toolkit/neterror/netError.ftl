@@ -144,7 +144,7 @@ certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Ak ste pripoje
 certerror-expired-cert-what-can-you-do-about-it-clock = Dátum a čas vo vašom počítači sú nastavené na { DATETIME($now, dateStyle: "medium") }. Skontrolujte, prosím, nastavenia dátumu, času a časovej zóny v nastaveniach svojho systému a potom obnovte stránku <b>{ $hostname }</b>.
 certerror-expired-cert-what-can-you-do-about-it-contact-website = Ak máte čas nastavený správne, pravdepodobne je webová stránka zle nastavená a vy tento problém nedokážete vyriešiť. O probléme môžete informovať správcu webovej stránky.
 certerror-bad-cert-domain-what-can-you-do-about-it = Tento problém je pravdepodobne na strane webovej stránky a vy ho, bohužiaľ, nedokážete vyriešiť. O probléme môžete informovať správcu webovej stránky.
-certerror-mitm-what-can-you-do-about-it-antivirus = Ak váš antivírusový program obsahuje funkciu skenovania šifrovaných spojení (často nazývaná ako „skenovanie webu“ alebo „skenovanie https“), môžete túto funkciu skúsiť vypnúť. Ak to nepomôže, môžete skúsiť antivírusový program odstrániť a preinštalovať.
+certerror-mitm-what-can-you-do-about-it-antivirus = Ak váš antivírusový program obsahuje funkciu skenovania šifrovaných spojení (často nazývaná ako “skenovanie webu” alebo “skenovanie https”), môžete túto funkciu skúsiť vypnúť. Ak to nepomôže, môžete skúsiť antivírusový program odstrániť a preinštalovať.
 certerror-mitm-what-can-you-do-about-it-corporate = Ak ste na firemnej sieti, kontaktujte jej IT oddelenie.
 # Variables:
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
