@@ -440,6 +440,8 @@ addon-badge-recommended3 =
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Extensão oficial desenvolvida pela Mozilla. Cumpre as recomendações de segurança e de desempenho.
+addon-badge-verified3 =
+    .title = Esta extensão foi revista para cumprir com os nossos padrões de segurança e desempenho
 
 ##
 
