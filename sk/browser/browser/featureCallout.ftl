@@ -103,3 +103,11 @@ unified-search-engines-callout-title = Hľadajte pomocou skratky
 unified-search-engines-callout-subtitle = Ak chcete vyhľadávať v histórii, záložkách, kartách alebo pomocou iného vyhľadávacieho nástroja, napíšte “@” a za ním kľúčové slovo.
 unified-search-engines-callout-primary-label = Rozumiem
 actions-callout-title = Dokončite bežné úlohy alebo získajte prístup k základným nastaveniam
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearhistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = Skúste zadať akciu, napríklad „tlačiť“, ak chcete vytlačiť stránku, alebo „vymazať“, ak chcete vymazať históriu.
