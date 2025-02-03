@@ -249,6 +249,10 @@ tab-group-editor-color-selector2-gray = Grátt
     .title = Grátt
 tab-group-editor-color-selector2-red = Rautt
     .title = Rautt
+# Variables:
+#  $tabGroupName (String): The name of the tab group. Defaults to the value
+#                          of tab-group-name-default.
+tab-group-description = { $tabGroupName } - flipahópur
 tab-group-menu-header = Flipahópar
 tab-context-unnamed-group =
     .label = Ónefndur hópur

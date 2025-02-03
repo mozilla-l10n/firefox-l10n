@@ -44,6 +44,8 @@ new-profile-page-input-placeholder =
 new-profile-page-done-button =
     .label = Búið að breyta
 profile-window-title-2 = { -brand-short-name } - Veldu notkunarsnið
+profile-window-logo =
+    .alt = { -brand-short-name }-táknmerki
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
@@ -95,3 +97,15 @@ profiles-system-theme = Kerfi
 
 ## Alternative text for default profile icons
 
+book-avatar-alt =
+    .alt = Bók
+briefcase-avatar-alt =
+    .alt = Skjalataska
+flower-avatar-alt =
+    .alt = Blóm
+heart-avatar-alt =
+    .alt = Hjarta
+shopping-avatar-alt =
+    .alt = Innkaupakarfa
+star-avatar-alt =
+    .alt = Stjarna

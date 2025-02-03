@@ -228,9 +228,13 @@ settings-tabs-show-image-in-preview =
 browser-layout-header = Framsetning vafra
 browser-layout-horizontal-tabs =
     .label = Láréttir flipar
+browser-layout-horizontal-tabs-desc = Birtast efst í vafranum
 browser-layout-vertical-tabs =
     .label = Lóðréttir flipar
 browser-layout-vertical-tabs-desc = Birtast til hliðar, í hliðarstikunni
+browser-layout-show-sidebar =
+    .label = Sýna hliðarstiku
+browser-layout-show-sidebar-desc = Fáðu einfaldan aðgang að bókamerkjum, flipum úr símanum þínum, spjallforritum og fleiru án þess að fara úr aðalskjánum þínum.
 
 ## General Section - Language & Appearance
 
@@ -1313,6 +1317,8 @@ permissions-addon-exceptions =
 collection-header = Söfnun og notkun gagna í { -brand-short-name }
 collection-header2 = Söfnun og notkun gagna í { -brand-short-name }
     .searchkeywords = gagnasöfnun
+preferences-collection-description = Við kappkostum að veita þér valkosti og söfnum aðeins þeim lágmarksgögnum sem nauðsynleg eru til að bæta { -brand-product-name } fyrir alla.
+preferences-collection-privacy-notice = Skoða upplýsingar um meðferð persónuupplýsinga
 collection-description = Við reynum alltaf að bjóða upp á valkosti og söfnum aðeins þeim upplýsingum sem við þurfum til að endurbæta { -brand-short-name } fyrir alla. Við spyrjum alltaf um leyfi áður en við söfnum persónulegum upplýsingum.
 collection-privacy-notice = Meðferð persónuupplýsinga
 collection-health-report-telemetry-disabled = Þú leyfir { -vendor-short-name } ekki lengur að safna tækni- og samskiptagögnum. Öllum fyrri gögnum verður eytt innan 30 daga.
@@ -1412,6 +1418,8 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } er að verða upp
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Einungis-HTTPS-hamur
+httpsonly-description3 = Leyfir aðeins öruggar tengingar við vefsvæði. { -brand-short-name } mun spyrja áður en þú tengist á óöruggan hátt.
+httpsonly-learn-more2 = Hvernig virkar Einungis-HTTPS
 httpsonly-description = HTTPS veitir örugga, dulkóðaða tengingu milli { -brand-short-name } og vefsvæðanna sem þú heimsækir. Flest vefsvæði styðja HTTPS og ef Einungis-HTTPS-hamur er virkt mun { -brand-short-name } verða allar tengingar uppfærðar í HTTPS.
 httpsonly-description2 = { -brand-short-name } útbýr öruggar og dulritaðar tengingar við vefsvæði sem þú skoðar. { -brand-short-name } mun vara þig við ef tenging er ekki örugg þegar kveikt er á Einungis-HTTPS.
 httpsonly-learn-more = Kanna nánar
@@ -1421,6 +1429,9 @@ httpsonly-radio-enabled2 =
     .label = Nota einungis HTTPS í öllum gluggum
 httpsonly-radio-enabled-pbm =
     .label = Virkja Einungis-HTTPS-ham aðeins í huliðsgluggum
+httpsonly-radio-disabled3 =
+    .label = Ekki virkja Einungis-HTTPS-ham
+    .description = { -brand-short-name } gæti samt uppfært sumar tengingar
 httpsonly-radio-enabled-pbm2 =
     .label = Nota einungis HTTPS í huliðsgluggum
 httpsonly-radio-disabled =

@@ -96,6 +96,7 @@ sidebar-genai-survey-productive-question =
     Að hve miklu leyti ertu sammála eða ósammála þessari fullyrðingu:<br/>
     „Gervigreindar-spjallkerfið í hliðarstikunni hjálpar mér að vera afkastameiri“?
 unified-search-callout-title = Skiptu á milli leitarvéla
+unified-search-callout-subtitle = Veldu það sem virkar best fyrir tiltekna leit.
 unified-search-callout-primary-label = Næsta
 unified-search-callout-secondary-label = Afgreiða
 unified-search-engines-callout-title = Leitaðu með flýtileið

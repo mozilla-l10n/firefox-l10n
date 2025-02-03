@@ -30,6 +30,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Opna aftur lokaða flipa
         }
     .accesskey = O
+toolbar-context-turn-on-vertical-tabs =
+    .label = Virkja lóðrétta flipa
+toolbar-context-turn-off-vertical-tabs =
+    .label = Loka lóðréttum flipum
+toolbar-context-customize-sidebar =
+    .label = Sérsníða hliðarstiku
 toolbar-context-menu-manage-extension =
     .label = Sýsla með forritsauka
     .accesskey = e
