@@ -920,7 +920,7 @@ forms-suggest-passwords =
     .label = მძლავრი პაროლის შემოთავაზება…
     .accesskey = მ
 forms-breach-alerts =
-    .label = შეტყობინება პაროლებზე იერიშმიტანილი საიტებისთვის
+    .label = ცნობები პაროლების შესახებ იერიშმიტანილი საიტებიდან
     .accesskey = შ
 forms-breach-alerts-learn-more-link = ვრცლად
 preferences-relay-integration-checkbox =
@@ -1305,7 +1305,7 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } – მონაცემთა აღრიცხვა და გამოყენება
-collection-header2 = { -brand-short-name } მონაცემთა აღრიცხვა და გამოყენება
+collection-header2 = { -brand-short-name } – მონაცემთა აღრიცხვა და გამოყენება
     .searchkeywords = telemetry
 collection-description = ჩვენ ვცდილობთ მოგცეთ არჩევანის უფლება და აღვრიცხოთ მხოლოდ ის მონაცემები, რომლებიც დაგვეხმარება, გავაუმჯობესოთ { -brand-short-name }. ყოველთვის დაგეკითხებით პირადი ინფორმაციის მიღებამდე.
 collection-privacy-notice = პირადი მონაცემების დაცვის განაცხადი
