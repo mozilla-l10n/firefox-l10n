@@ -434,6 +434,12 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Esta extensão foi revista para cumprir com os nossos padrões de segurança e desempenho
     .aria-label = { addon-badge-verified2.title }
+addon-badge-recommended3 =
+    .title = O { -brand-product-name } recomenda apenas as extensões que cumpram aos nossos padrões para segurança e desempenho.
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line4 =
+    .title = Extensão oficial desenvolvida pela Mozilla. Cumpre as recomendações de segurança e de desempenho.
 
 ##
 
