@@ -367,6 +367,8 @@ addon-detail-private-browsing-disallow = অনুমতি দিও না
 addon-badge-recommended2 =
     .title = { -brand-product-name } কেবলমাত্র সেই সব এক্সটেনশনকে সুপারিশ করা হয় যা সুরক্ষা এবং কার্যক্ষমতার দিক দিয়ে আমাদের মানদণ্ড পূরণ করে
     .aria-label = { addon-badge-recommended2.title }
+addon-badge-recommended3 =
+    .title = { -brand-product-name } কেবলমাত্র সেই সব এক্সটেনশনকে সুপারিশ করা হয় যা সুরক্ষা এবং কার্যক্ষমতার দিক দিয়ে আমাদের মানদণ্ড পূরণ করে
 
 ##
 
