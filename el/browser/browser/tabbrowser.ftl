@@ -245,6 +245,10 @@ tab-group-editor-color-selector2-gray = Γκρι
     .title = Γκρι
 tab-group-editor-color-selector2-red = Κόκκινο
     .title = Κόκκινο
+# Variables:
+#  $tabGroupName (String): The name of the tab group. Defaults to the value
+#                          of tab-group-name-default.
+tab-group-description = { $tabGroupName } — Ομάδα καρτελών
 tab-group-menu-header = Ομάδες καρτελών
 tab-context-unnamed-group =
     .label = Ανώνυμη ομάδα

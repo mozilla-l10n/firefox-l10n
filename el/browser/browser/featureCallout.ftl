@@ -97,4 +97,5 @@ sidebar-genai-survey-productive-question =
 unified-search-callout-title = Εναλλαγή μεταξύ μηχανών αναζήτησης
 unified-search-callout-primary-label = Επόμενο
 unified-search-callout-secondary-label = Απόρριψη
+unified-search-engines-callout-title = Αναζήτηση με συντόμευση
 unified-search-engines-callout-primary-label = Το κατάλαβα

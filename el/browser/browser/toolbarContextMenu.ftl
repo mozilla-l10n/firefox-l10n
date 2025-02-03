@@ -29,6 +29,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Επαναφορά κλειστών καρτελών
         }
     .accesskey = ο
+toolbar-context-turn-on-vertical-tabs =
+    .label = Ενεργοποίηση κάθετων καρτελών
+toolbar-context-turn-off-vertical-tabs =
+    .label = Απενεργοποίηση κάθετων καρτελών
+toolbar-context-customize-sidebar =
+    .label = Προσαρμογή πλαϊνής γραμμής
 toolbar-context-menu-manage-extension =
     .label = Διαχείριση επέκτασης
     .accesskey = ε

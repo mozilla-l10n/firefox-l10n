@@ -225,6 +225,15 @@ containers-remove-cancel-button = Διατήρηση θεματικής ενότ
 settings-tabs-show-image-in-preview =
     .label = Εμφάνιση εικόνας προεπισκόπησης όταν τοποθετείτε τον δείκτη του ποντικιού σε μια καρτέλα
     .accessKey = μ
+browser-layout-header = Διάταξη προγράμματος περιήγησης
+browser-layout-horizontal-tabs =
+    .label = Οριζόντιες καρτέλες
+browser-layout-horizontal-tabs-desc = Προβολή στο πάνω μέρος του προγράμματος περιήγησης
+browser-layout-vertical-tabs =
+    .label = Κάθετες καρτέλες
+browser-layout-vertical-tabs-desc = Προβολή στο πλάι, στην πλαϊνή γραμμή
+browser-layout-show-sidebar =
+    .label = Εμφάνιση πλαϊνής γραμμής
 
 ## General Section - Language & Appearance
 
@@ -1307,6 +1316,7 @@ permissions-addon-exceptions =
 collection-header = Συλλογή και χρήση δεδομένων { -brand-short-name }
 collection-header2 = Συλλογή και χρήση δεδομένων { -brand-short-name }
     .searchkeywords = τηλεμετρία
+preferences-collection-privacy-notice = Προβολή σημείωσης απορρήτου
 collection-description = Αγωνιζόμαστε για να σας παρέχουμε επιλογές και συλλέγουμε μόνο αυτά που χρειαζόμαστε, ώστε να παρέχουμε και να βελτιώσουμε το { -brand-short-name } για όλους. Ζητούμε πάντα την άδεια πριν λάβουμε προσωπικές πληροφορίες.
 collection-privacy-notice = Σημείωση απορρήτου
 collection-health-report-telemetry-disabled = Δεν επιτρέπεται πλέον στη { -vendor-short-name } η συλλογή τεχνικών δεδομένων και δεδομένων αλληλεπίδρασης. Όλα τα προηγούμενα δεδομένα θα διαγραφούν μέσα σε 30 ημέρες.
@@ -1406,6 +1416,7 @@ space-alert-under-5gb-message2 = <strong>Το { -brand-short-name } δεν δι�
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Λειτουργία «Μόνο HTTPS»
+httpsonly-learn-more2 = Πώς λειτουργεί η δυνατότητα «Μόνο HTTPS»
 httpsonly-description = Το HTTPS παρέχει μια ασφαλή, κρυπτογραφημένη σύνδεση μεταξύ του { -brand-short-name } και των ιστοτόπων που επισκέπτεστε. Οι περισσότεροι ιστότοποι υποστηρίζουν το HTTPS και αν είναι ενεργή η λειτουργία «Μόνο HTTPS», τότε το { -brand-short-name } θα αναβαθμίζει όλες τις συνδέσεις σε HTTPS.
 httpsonly-description2 = Το { -brand-short-name } δημιουργεί ασφαλείς και κρυπτογραφημένες συνδέσεις με τους ιστοτόπους που επισκέπτεστε. Το { -brand-short-name } θα σας προειδοποιήσει εάν μια σύνδεση δεν είναι ασφαλής όταν είναι ενεργή η λειτουργία «Μόνο HTTPS».
 httpsonly-learn-more = Μάθετε περισσότερα
@@ -1415,6 +1426,9 @@ httpsonly-radio-enabled2 =
     .label = Χρήση μόνο HTTPS σε όλα τα παράθυρα
 httpsonly-radio-enabled-pbm =
     .label = Ενεργοποίηση λειτουργίας «Μόνο HTTPS» μόνο σε ιδιωτικά παράθυρα
+httpsonly-radio-disabled3 =
+    .label = Να μην ενεργοποιηθεί η λειτουργία «Μόνο HTTPS»
+    .description = Το { -brand-short-name } ενδέχεται και πάλι να αναβαθμίσει ορισμένες συνδέσεις
 httpsonly-radio-enabled-pbm2 =
     .label = Χρήση μόνο HTTPS στα ιδιωτικά παράθυρα
 httpsonly-radio-disabled =

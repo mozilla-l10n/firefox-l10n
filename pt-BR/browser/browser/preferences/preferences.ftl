@@ -225,6 +225,16 @@ containers-remove-cancel-button = Não remover este contêiner
 settings-tabs-show-image-in-preview =
     .label = Exibir uma imagem prévia ao passar o mouse sobre uma aba
     .accessKey = b
+browser-layout-header = Disposição do navegador
+browser-layout-horizontal-tabs =
+    .label = Abas na horizontal
+browser-layout-horizontal-tabs-desc = Exibir no alto do navegador
+browser-layout-vertical-tabs =
+    .label = Abas na vertical
+browser-layout-vertical-tabs-desc = Exibir ao lado, no painel lateral
+browser-layout-show-sidebar =
+    .label = Mostrar painel lateral
+browser-layout-show-sidebar-desc = Acesse rapidamente favoritos, abas do seu celular, chatbots de inteligência artificial e muito mais sem sair da visão principal.
 
 ## General Section - Language & Appearance
 
@@ -1307,6 +1317,8 @@ permissions-addon-exceptions =
 collection-header = Coleta e uso de dados pelo { -brand-short-name }
 collection-header2 = Coleta e uso de dados pelo { -brand-short-name }
     .searchkeywords = telemetria
+preferences-collection-description = Nos empenhamos em oferecer escolhas e coletar somente o mínimo de dados necessários para melhorar o { -brand-product-name } para todos.
+preferences-collection-privacy-notice = Ver aviso de privacidade
 collection-description = Nos esforçamos para proporcionar escolhas e coletar somente o necessário para melhorar e fornecer o { -brand-short-name } para todos. Sempre pedimos permissão antes de receber informações pessoais.
 collection-privacy-notice = Aviso de privacidade
 collection-health-report-telemetry-disabled = Você não está mais permitindo que a { -vendor-short-name } capture dados técnicos e de interação. Todos os dados coletados anteriormente serão apagados em até 30 dias.
@@ -1406,6 +1418,8 @@ space-alert-under-5gb-message2 = <strong>O { -brand-short-name } está ficando s
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Modo somente HTTPS
+httpsonly-description3 = Só permite conexões seguras com sites. O { -brand-short-name } pergunta antes de conectar em modo não seguro.
+httpsonly-learn-more2 = Como funciona somente HTTPS
 httpsonly-description = HTTPS fornece uma conexão criptografada segura entre o { -brand-short-name } e os sites que você visita. A maioria dos sites oferece suporte a HTTPS. Se o modo somente HTTPS estiver ativado, o { -brand-short-name } muda todas as conexões para HTTPS.
 httpsonly-description2 = O { -brand-short-name } cria conexões seguras e criptografadas com os sites que você visita. O { -brand-short-name } avisa se uma conexão não é segura quando o modo somente HTTPS está ativado.
 httpsonly-learn-more = Saiba mais
@@ -1415,6 +1429,9 @@ httpsonly-radio-enabled2 =
     .label = Usar somente HTTPS em todas as janelas
 httpsonly-radio-enabled-pbm =
     .label = Ativar o modo somente HTTPS apenas em janelas privativas
+httpsonly-radio-disabled3 =
+    .label = Não ativar o modo somente HTTPS
+    .description = O { -brand-short-name } ainda pode mudar algumas conexões
 httpsonly-radio-enabled-pbm2 =
     .label = Usar somente HTTPS em janelas privativas
 httpsonly-radio-disabled =

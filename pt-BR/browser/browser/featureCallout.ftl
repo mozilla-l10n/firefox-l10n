@@ -99,3 +99,5 @@ unified-search-callout-title = Mudar de mecanismo de pesquisa
 unified-search-callout-subtitle = Escolha o que funciona melhor para sua pesquisa específica.
 unified-search-callout-primary-label = Avançar
 unified-search-callout-secondary-label = Descartar
+unified-search-engines-callout-subtitle = Digite “@” seguido de um termo de busca para pesquisar no histórico, favoritos, abas ou com outro mecanismo de pesquisa.
+unified-search-engines-callout-primary-label = Entendi
