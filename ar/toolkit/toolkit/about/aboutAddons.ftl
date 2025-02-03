@@ -409,6 +409,8 @@ addon-detail-group-label-quarantined-domains =
 addon-badge-recommended2 =
     .title = يوصي { -brand-product-name } ويقترح فقط الامتدادات التي تلبي معاييرنا للأمان والأداء.
     .aria-label = { addon-badge-recommended2.title }
+addon-badge-recommended3 =
+    .title = يوصي { -brand-product-name } ويقترح فقط الامتدادات التي تلبي معاييرنا للأمان والأداء.
 
 ##
 
