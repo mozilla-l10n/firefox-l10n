@@ -93,3 +93,5 @@ sidebar-genai-survey-productive-question = 您對下面的描述有多同意：<
 unified-search-callout-primary-label = 下一步
 unified-search-callout-secondary-label = 知道了！
 unified-search-engines-callout-title = 使用快速鍵進行搜尋
+unified-search-engines-callout-primary-label = 知道了！
+actions-callout-title = 完成常見任務或存取基礎設定

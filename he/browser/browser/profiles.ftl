@@ -44,6 +44,8 @@ new-profile-page-input-placeholder =
 new-profile-page-done-button =
     .label = סיום עריכה
 profile-window-title-2 = { -brand-short-name }‏ - בחירת פרופיל
+profile-window-logo =
+    .alt = הסמל של { -brand-short-name }
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
@@ -95,3 +97,15 @@ profiles-system-theme = מערכת
 
 ## Alternative text for default profile icons
 
+book-avatar-alt =
+    .alt = ספר
+briefcase-avatar-alt =
+    .alt = מזוודה
+flower-avatar-alt =
+    .alt = פרח
+heart-avatar-alt =
+    .alt = לב
+shopping-avatar-alt =
+    .alt = עגלת קניות
+star-avatar-alt =
+    .alt = כוכב

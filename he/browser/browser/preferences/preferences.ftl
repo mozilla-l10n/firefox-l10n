@@ -225,6 +225,10 @@ containers-remove-cancel-button = לא להסיר מגירה זו
 settings-tabs-show-image-in-preview =
     .label = הצגת תצוגה מקדימה בעת ריחוף על לשונית
     .accessKey = ת
+browser-layout-vertical-tabs-desc = להציג בצד, בסרגל הכלים
+browser-layout-show-sidebar =
+    .label = הצגת סרגל צד
+browser-layout-show-sidebar-desc = קבלת גישה מהירה לסימניות, ללשוניות מהטלפון שלך, לצ’אטבוטים של AI ועוד מבלי לעזוב את התצוגה הראשית שלך.
 
 ## General Section - Language & Appearance
 
@@ -1304,6 +1308,8 @@ permissions-addon-exceptions =
 collection-header = איסוף המידע של { -brand-short-name }
 collection-header2 = איסוף המידע של { -brand-short-name }
     .searchkeywords = טלמטריה
+preferences-collection-description = אנו שואפים לספק לך אפשרויות בחירה ולאסוף רק את הנתונים המינימליים הדרושים כדי לשפר את { -brand-product-name } עבור כולם.
+preferences-collection-privacy-notice = הצגת הצהרת הפרטיות
 collection-description = אנו חותרים לספק לך זכות בחירה ולאסוף רק מה שנדרש לנו כדי לספק ולשפר את { -brand-short-name } לטובת הכלל. אנו תמיד נבקש את רשותך לפני קבלת פרטים אישיים.
 collection-privacy-notice = הצהרת פרטיות
 collection-health-report-telemetry-disabled-link = מידע נוסף
@@ -1402,6 +1408,8 @@ space-alert-under-5gb-message2 = <strong>ל־{ -brand-short-name } אוזל שט
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = מצב HTTPS בלבד
+httpsonly-description3 = מאפשר רק חיבורים מאובטחים לאתרי אינטרנט. { -brand-short-name } ישאל לפני התחברות באמצעות חיבור לא מאובטח.
+httpsonly-learn-more2 = כיצד עובד מצב HTTPS בלבד
 httpsonly-description = ‏HTTPS מספק חיבור מאובטח ומוצפן בין { -brand-short-name } לבין האתרים שמבקרים בהם. רוב האתרים תומכים ב־HTTPS, ואם מצב HTTPS בלבד מופעל, { -brand-short-name } ישדרג את כל החיבורים ל־HTTPS.
 httpsonly-description2 = ‏{ -brand-short-name } יוצר חיבורים מאובטחים ומוצפנים לאתרים שנכנסים אליהם. { -brand-short-name } יזהיר אותך אם החיבור אינו מאובטח כאשר מצב HTTPS בלבד מופעל.
 httpsonly-learn-more = מידע נוסף
@@ -1411,6 +1419,9 @@ httpsonly-radio-enabled2 =
     .label = להשתמש ב־HTTPS בלבד בכל החלונות
 httpsonly-radio-enabled-pbm =
     .label = הפעלת מצב HTTPS בלבד אך ורק בחלונות פרטיים
+httpsonly-radio-disabled3 =
+    .label = לא להפעיל מצב HTTPS בלבד
+    .description = ‏ייתכן ש־{ -brand-short-name } עדיין ישדרג חלק מהחיבורים
 httpsonly-radio-enabled-pbm2 =
     .label = להשתמש ב־HTTPS בלבד בחלונות פרטיים
 httpsonly-radio-disabled =

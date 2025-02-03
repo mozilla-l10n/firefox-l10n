@@ -505,10 +505,27 @@ prefs-sync-turn-on-syncing =
     .label = സമന്വയം തുടങ്ങി വയ്ക്കുക…
     .accesskey = ത
 prefs-sync-offer-setup-label2 = താങ്ങളുടെ അടയാളക്കുറിപ്പുകളും നാള്‍വഴിയും ടാബുകളും രഹസ്യവാക്കുകളും ആഡോണുകളും ക്രമീകരണങ്ങളും താങ്ങളുടെ എല്ല ഉപകരണങ്ങൾ സമന്വയിപ്പിക്കുക.
+prefs-sync-now =
+    .labelnotsyncing = സമന്വയിപ്പിക്കുക
+    .accesskeynotsyncing = സ
+    .labelsyncing = സമന്വയിപ്പിക്കുന്നു
+prefs-sync-now-button =
+    .label = സമന്വയിപ്പിക്കുക
+    .accesskey = സ
+prefs-syncing-button =
+    .label = സമന്വയിപ്പിക്കുന്നു…
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-bookmarks = അടയാളക്കുറിപ്പുകള്‍
 sync-currently-syncing-history = നാള്‍വഴി
+sync-currently-syncing-tabs = തുറന്ന ടാബുകള്‍
+sync-currently-syncing-logins-passwords = പ്രവേശണങ്ങളും രഹസ്യവാക്കുകളും
+sync-currently-syncing-passwords = രഹസ്യവാക്കുകൾ
+sync-currently-syncing-addresses = വിലാസങ്ങള്‍
+sync-currently-syncing-payment-methods = പണമടക്കൽ മുറകൾ
+sync-currently-syncing-addons = ആഡ്-ഓണുകള്‍
+sync-currently-syncing-settings = ക്രമീകരണങ്ങള്‍
 
 ## The "Choose what to sync" dialog.
 
@@ -522,6 +539,14 @@ sync-engine-tabs =
     .label = ടാബുകള്‍ തുറക്കുക
     .tooltiptext = എല്ലാ സിങ്ക് ചെയ്ത ഉപകരണങ്ങളിലും തുറന്നിട്ടുള്ള ടാബുകളുടെ പട്ടിക
     .accesskey = t
+sync-engine-logins-passwords =
+    .label = പ്രവേശണങ്ങളും രഹസ്യവാക്കുകളും
+    .tooltiptext = താങ്ങൾ കരുതിവച്ച പ്രവേശണങ്ങളും രഹസ്യവാക്കുകളും
+    .accesskey = ള
+sync-engine-passwords =
+    .label = രഹസ്യവാക്കുകൾ
+    .tooltiptext = താങ്ങൾ കരുതിവച്ച രഹസ്യവാക്കുകൾ
+    .accesskey = ര
 sync-engine-creditcards =
     .label = ക്രഡിറ്റ് കാർഡുകൾ
     .tooltiptext = പേര്, നമ്പർ, കാലാവധി
@@ -565,9 +590,12 @@ pane-privacy-logins-and-passwords-header = ഉപയോക്തൃനാമങ�
 forms-exceptions =
     .label = ഒഴിവാക്കേണ്ടവ…
     .accesskey = x
+forms-breach-alerts-learn-more-link = കൂടുതല്‍ അറിയുക
+relay-integration-learn-more-link = കൂടുതല്‍ അറിയുക
 forms-saved-logins =
     .label = ശേഖരിച്ചിട്ടുള്ള പ്രവേശനങ്ങള്‍…
     .accesskey = L
+forms-primary-pw-learn-more-link = കൂടുതല്‍ അറിയുക
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -635,6 +663,9 @@ sitedata-settings =
 
 ## Privacy Section - Cookie Banner Blocking
 
+cookie-banner-learn-more = കൂടുതല്‍ അറിയുക
+forms-handle-cookie-banners =
+    .label = കുക്കി പൊന്തുവരലുകൾ ചെറുതാക്കുക
 
 ## Privacy Section - Address Bar
 
@@ -646,18 +677,31 @@ addressbar-locbar-history-option =
 addressbar-locbar-bookmarks-option =
     .label = അടയാളക്കുറിപ്പുകള്‍
     .accesskey = k
+addressbar-locbar-clipboard-option =
+    .label = പകൎത്തൽപെട്ടി
+    .accesskey = പ
 addressbar-locbar-openpage-option =
     .label = തുറന്ന ടാബുകള്‍
     .accesskey = O
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = കുറുക്കുവഴികൾ
+    .accesskey = ക
 addressbar-suggestions-settings = സെര്‍ച്ച് എഞ്ചിൻ നിർദ്ദേശങ്ങളുടെ പ്രഫറന്‍സ് മാറ്റുക
+addressbar-quickactions-learn-more = കൂടുതല്‍ അറിയുക
 
 ## Privacy Section - Content Blocking
 
+content-blocking-enhanced-tracking-protection = മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണം
 content-blocking-learn-more = കൂടുതല്‍ അറിയുക
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = നിലവാരം
+    .accesskey = ന
 enhanced-tracking-protection-setting-strict =
     .label = കണിശമായി
     .accesskey = r
@@ -689,6 +733,10 @@ permissions-location = സ്ഥലവിവരം
 permissions-location-settings =
     .label = ക്രമീകരണങ്ങൾ…
     .accesskey = t
+permissions-xr = മിഥ്യുണ്മ
+permissions-xr-settings =
+    .label = ക്രമീകരണങ്ങള്‍
+    .accesskey = ക
 permissions-camera = ക്യാമറ
 permissions-camera-settings =
     .label = ക്രമീകരണങ്ങൾ…
@@ -697,6 +745,9 @@ permissions-microphone = മൈക്രോഫോണ്‍
 permissions-microphone-settings =
     .label = ക്രമീകരണങ്ങൾ…
     .accesskey = t
+permissions-speaker-settings =
+    .label = ക്രമീകരണങ്ങൾ…
+    .accesskey = ക
 permissions-notification = അറിയിപ്പുകള്‍
 permissions-notification-settings =
     .label = ക്രമീകരണങ്ങൾ…
@@ -705,6 +756,9 @@ permissions-notification-link = കൂടുതലറിയുക
 permissions-notification-pause =
     .label = { -brand-short-name } റീസ്റ്റാര്‍ട്ട് ചയ്യുന്ന വരെ അറിയിപ്പുകൾ താൽക്കാലികമായി നിർത്തുക
     .accesskey = n
+permissions-autoplay-settings =
+    .label = ക്രമീകരണങ്ങൾ…
+    .accesskey = ക
 permissions-block-popups =
     .label = പോപ്പപ്‌ ജാലകങ്ങള്‍ തടയുക
     .accesskey = B
@@ -718,12 +772,16 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } വിവര ശേഖരണവും ഉപയോഗവും
+preferences-collection-privacy-notice = സ്വകാര്യത അറിയിപ്പു് കാണുക
 collection-description = നിങ്ങൾക്ക് തിരഞ്ഞെടുക്കാനുള്ള അവസരങ്ങള്‍ നല്‍കാനും { -brand-short-name } മെച്ചപെടുത്താനായി ആവശ്യമുള്ളതുമാത്രം ശേഖരിക്കാനും ഞങ്ങൾ പരിശ്രമിക്കുകയാണ്. വ്യക്തിപരമായ വിവരങ്ങൾ കൈക്കൊള്ളുന്നതിന് മുമ്പ് ഞങ്ങൾ എല്ലായ്പ്പോഴും അനുമതി ചോദിക്കും.
 collection-privacy-notice = സ്വകാര്യതാ പോളിസി
+collection-health-report-telemetry-disabled-link = കൂടുതല്‍ അറിയുക
 collection-health-report =
     .label = { -brand-short-name }ലേക്കുള്ള സാങ്കേതിക, ഇന്ററാക്ഷൻ ഡാറ്റ അയയ്ക്കാൻ { -vendor-short-name } നെ അനുവദിക്കുക
     .accesskey = r
 collection-health-report-link = കൂടുതല്‍ അറിയുക
+collection-studies2 =
+    .label = പാഠനങ്ങൾ സ്ഥാപിച്ചിട്ടു് അവയെ നടത്തുക
 addon-recommendations-link = കൂടുതല്‍ അറിയുക
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
@@ -768,6 +826,8 @@ certs-devices =
 
 ## DoH Section
 
+preferences-doh-status-active = സജീവമാണു്
+preferences-doh-status-disabled = അണച്ചതു്
 
 ## The following strings are used in the Download section of settings
 

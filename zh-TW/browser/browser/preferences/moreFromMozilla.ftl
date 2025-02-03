@@ -37,4 +37,5 @@ more-from-moz-mozilla-monitor-button = 取得 { -monitor-brand-short-name }
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
 more-from-moz-solo-title = { -solo-ai-brand-name } AI
+more-from-moz-solo-description = 即時建立您的個人網站，並且可免費使用您的個人網域。
 more-from-moz-solo-button = 試用 { -solo-ai-brand-name }

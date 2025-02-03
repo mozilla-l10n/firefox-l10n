@@ -64,6 +64,7 @@ split-dismiss-button-manage-settings-option-label = Nastajenja rjadować
 
 sidebar-button-callout-title = Titule rajtarkow w bóčnicy pokazać
 sidebar-button-callout-subtitle = Wužiwajće tłóčatko bóčnicy, zo byšće bóčnicu pokazał, zo byšće titule rajtarkow widźał.
+sidebar-button-callout-vertical-tabs = Zo byšće swoje rajtarki pokazał, wubjerće tłóčatko bóčnicy w symbolowej lajsće.
 
 ## Sidebar Callout Survey Strings
 
@@ -99,4 +100,6 @@ unified-search-callout-subtitle = Wubjerće, što za swoje specifiske pytanje na
 unified-search-callout-primary-label = Přichodny
 unified-search-callout-secondary-label = Zaćisnyć
 unified-search-engines-callout-title = Ze skrótšenku pytać
+unified-search-engines-callout-subtitle = Zapodajće “@” slědowany přez klučowe słowo, zo byšće swoju historiju, swoje zapołožki, swoje rajtarki abo z druhej pytawu pytał.
 unified-search-engines-callout-primary-label = Sym zrozumił
+actions-callout-title = Dokónčće časte nadawki abo mějće přistup k zakładnym nastajenjam
