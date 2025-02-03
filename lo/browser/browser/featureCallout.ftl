@@ -48,9 +48,13 @@ callout-pdfjs-draw-button = ເຂົ້າໃຈແລ້ວ!
 
 fx-view-discoverability-title = ບໍ່ໄດ້ຫມາຍຄວາມວ່າຈະປິດແຖບນັ້ນບໍ?
 fx-view-discoverability-subtitle = ຄົ້ນຫາ ແລະ ເປີດມັນຄືນໃໝ່ໄດ້ຢ່າງວ່ອງໄວທີ່ນີ້. ພວກເຮົາຮັກສາປະຫວັດຂອງແຖບທີ່ປິດຫຼ້າສຸດຂອງທ່ານໄວ້ໃຫ້ທ່ານ.
+fx-view-discoverability-primary-button-label = ເປີດ { -firefoxview-brand-name }
+fx-view-discoverability-secondary-button-label = ປິດ
 
 ## Split Dismiss Button Labels
 
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option-label = ຈັດການການຕັ້ງຄ່າ
 
 ## Sidebar Strings
 
