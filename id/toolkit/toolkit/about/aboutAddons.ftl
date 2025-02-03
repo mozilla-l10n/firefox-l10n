@@ -429,6 +429,8 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Ekstensi ini telah ditinjau untuk memenuhi standar keamanan dan kinerja kami
     .aria-label = { addon-badge-verified2.title }
+addon-badge-recommended3 =
+    .title = { -brand-product-name } hanya menyarankan ekstensi yang memenuhi standar keamanan dan kinerja kami.
 
 ##
 
