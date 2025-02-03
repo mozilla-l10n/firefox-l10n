@@ -431,6 +431,8 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = Þessi forritsauki hefur verið yfirfarinn til að uppfylla staðla okkar um öryggi og afköst
     .aria-label = { addon-badge-verified2.title }
+addon-badge-recommended3 =
+    .title = { -brand-product-name } mælir aðeins með forritsaukum sem uppfylla staðla okkar um öryggi og afköst
 
 ##
 
