@@ -349,6 +349,8 @@ addon-detail-private-browsing-disallow = Si ga'nï'
 addon-badge-recommended2 =
     .title = { -brand-product-name } nadiganj nej ekstensiûn nikò’ si nuguàn’ ñûnj dàj duguminj nī dàj ‘iaj sunj
     .aria-label = { addon-badge-recommended2.title }
+addon-badge-recommended3 =
+    .title = { -brand-product-name } nadiganj nej ekstensiûn nikò’ si nuguàn’ ñûnj dàj duguminj nī dàj ‘iaj sunj
 
 ##
 
