@@ -29,6 +29,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] פתיחת הלשוניות שנסגרו מחדש
         }
     .accesskey = מ
+toolbar-context-turn-on-vertical-tabs =
+    .label = הפעלת לשוניות אנוכיות
+toolbar-context-turn-off-vertical-tabs =
+    .label = כיבוי לשוניות אנוכיות
+toolbar-context-customize-sidebar =
+    .label = התאמה אישית של סרגל הצד
 toolbar-context-menu-manage-extension =
     .label = ניהול הרחבה
     .accesskey = ה

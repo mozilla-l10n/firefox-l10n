@@ -11,6 +11,7 @@ more-from-moz-category =
 more-from-moz-subtitle = Skoðaðu aðrar { -vendor-short-name } vörur sem miða að stuðningi við heilbrigt internet.
 more-from-moz-firefox-mobile-title = { -brand-product-name } á ferðinni
 more-from-moz-firefox-mobile-description = Farsímavafrinn sem setur friðhelgi þína í fyrsta sæti.
+more-from-moz-firefox-mobile-title-1 = { -brand-product-name } fyrir farsíma
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Uppgötvaðu aukið lag af nafnlausu vafri og verndun persónuupplýsinga.
 more-from-moz-qr-code-box-firefox-mobile-title = Sæktu þetta með farsímanum þínum. Beindu myndavélinni að QR-kóðanum. Þegar tengill birtist skaltu ýta á hann.
@@ -35,3 +36,6 @@ more-from-moz-mozilla-monitor-button = Fáðu þér { -monitor-brand-short-name 
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
+more-from-moz-solo-title = { -solo-ai-brand-name } gervigreind
+more-from-moz-solo-description = Búðu til þitt eigið vefsvæði í hvelli og tengdu þitt eigið sérsniðið lén ókeypis.
+more-from-moz-solo-button = Prófaðu { -solo-ai-brand-name }

@@ -225,6 +225,12 @@ containers-remove-cancel-button = Ekki fjarlægja þetta sérefni
 settings-tabs-show-image-in-preview =
     .label = Sýna forskoðun mynda þegar þú lætur bendilinn svífa yfir flipa
     .accessKey = h
+browser-layout-header = Framsetning vafra
+browser-layout-horizontal-tabs =
+    .label = Láréttir flipar
+browser-layout-vertical-tabs =
+    .label = Lóðréttir flipar
+browser-layout-vertical-tabs-desc = Birtast til hliðar, í hliðarstikunni
 
 ## General Section - Language & Appearance
 
