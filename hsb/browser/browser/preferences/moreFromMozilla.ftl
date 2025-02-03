@@ -37,5 +37,5 @@ more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name } wobstarać
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
 more-from-moz-solo-title = KI { -solo-ai-brand-name }
-more-from-moz-solo-description = Wutworće swoje websydło hnydom a zwjazajće swoju swójsku domenu zadarmo.
+more-from-moz-solo-description = Wutworće swoje websydło hnydom a zwjazajće swójsku domenu zadarmo.
 more-from-moz-solo-button = Spytajće { -solo-ai-brand-name }

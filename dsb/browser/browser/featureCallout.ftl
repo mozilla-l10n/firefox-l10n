@@ -64,6 +64,7 @@ split-dismiss-button-manage-settings-option-label = Nastajenja zastojaś
 
 sidebar-button-callout-title = Titele rejtarikow w bocnicy pokazaś
 sidebar-button-callout-subtitle = Wužywajśo tłocašk bocnice, aby bocnicu pokazał, aby titele rejtarikow wiźeł.
+sidebar-button-callout-vertical-tabs = Aby swóje rejtariki pokazał, wubjeŕśo tłocašk bocnice w symbolowej rědce.
 
 ## Sidebar Callout Survey Strings
 
@@ -99,4 +100,14 @@ unified-search-callout-subtitle = Wubjeŕśo, co za swójo specifiske pytanje ne
 unified-search-callout-primary-label = Pśiducy
 unified-search-callout-secondary-label = Zachyśiś
 unified-search-engines-callout-title = Ze skrotconku pytaś
+unified-search-engines-callout-subtitle = Zapódajśo “@” slědowany pśez klucowe słowo, aby swóju historiju, swóje cytańske znamjenja, swóje rejtariki abo z drugeju pytnicu pytał.
 unified-search-engines-callout-primary-label = Som zrozměł
+actions-callout-title = Dokóńcćo ceste nadawki abo mějśo pśistup k zakładnym nastajenjam
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearhistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = Zapódajśo akciju ako “śišćaś”, aby bok śišćał abo “historiju wuprozniś”, aby swóju historiju wulašował.
