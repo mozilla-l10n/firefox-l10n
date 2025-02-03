@@ -426,6 +426,14 @@ addon-badge-line3 =
 addon-badge-verified2 =
     .title = سیکیورٹی تے کارکردگی کیتے اساݙے معیاراں تے پورا لہݨ کیتے ایں ایکسٹنش دا جائزہ گھدا ڳیا ہے
     .aria-label = { addon-badge-verified2.title }
+addon-badge-recommended3 =
+    .title = { -brand-product-name } صرف ایکسٹینشنز دی تجویز کریندا ہے جیڑھا سیکیورٹی تے کارکردگی کیتے اساݙے کیتے معیاراں تے پورا لہندے ہن۔
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line4 =
+    .title = موزیلا دی طرفوں بݨایا ڳیا آفیشل ایکسٹینشن۔ سیکیورٹی تے کارکردگی دے معیار تے پورا لہندا ہے۔
+addon-badge-verified3 =
+    .title = سیکیورٹی تے کارکردگی کیتے اساݙے معیاراں تے پورا لہݨ کیتے ایں ایکسٹنش دا جائزہ گھدا ڳیا ہے
 
 ##
 
