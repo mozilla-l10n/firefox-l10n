@@ -1317,6 +1317,7 @@ permissions-addon-exceptions =
 collection-header = { -brand-short-name } adatgyűjtés és felhasználás
 collection-header2 = { -brand-short-name } adatgyűjtés és felhasználás
     .searchkeywords = telemetria
+preferences-collection-description = Arra törekszünk, hogy választási lehetőséget biztosítsunk, és csak a minimálisan szükséges adatokat gyűjtsük ahhoz, hogy mindenki számára jobb legyen a { -brand-product-name }.
 preferences-collection-privacy-notice = Adatvédelmi nyilatkozat megtekintése
 collection-description = Arra törekszünk, hogy választást biztosítsunk, és csak azt gyűjtsük, amire szükségünk van a { -brand-short-name } fejlesztéséhez, mindenki számára. Mindig engedélyt kérünk, mielőtt személyes információkat fogadunk.
 collection-privacy-notice = Adatvédelmi nyilatkozat
