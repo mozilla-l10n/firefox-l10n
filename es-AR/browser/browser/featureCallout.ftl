@@ -96,3 +96,17 @@ sidebar-genai-survey-productive-question =
     ¿Hasta qué punto está de acuerdo o en desacuerdo con esta afirmación?:<br/>
     “El chatbot de IA me ayuda a ser más productivo”
 unified-search-callout-title = Cambiar entre buscadores
+unified-search-callout-subtitle = Seleccionar lo que funcione mejor para una búsqueda específica.
+unified-search-callout-primary-label = Siguiente
+unified-search-callout-secondary-label = Descartar
+unified-search-engines-callout-subtitle = Escriba “@” seguido de una palabra clave para buscar en el historial, marcadores, pestañas o con otro buscador.
+unified-search-engines-callout-primary-label = Entendido
+actions-callout-title = Completar tareas comunes o acceder a la configuración básica
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearhistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = Intente escribir una acción como “imprimir” para imprimir una página o “borrar” para borrar el historial.
