@@ -245,6 +245,10 @@ tab-group-editor-color-selector2-gray = Szürke
     .title = Szürke
 tab-group-editor-color-selector2-red = Vörös
     .title = Vörös
+# Variables:
+#  $tabGroupName (String): The name of the tab group. Defaults to the value
+#                          of tab-group-name-default.
+tab-group-description = { $tabGroupName } – lapcsoport
 tab-group-menu-header = Lapcsoportok
 tab-context-unnamed-group =
     .label = Névtelen csoport

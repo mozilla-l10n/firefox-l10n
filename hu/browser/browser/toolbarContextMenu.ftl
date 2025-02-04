@@ -30,6 +30,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Bezárt lapok újranyitása
         }
     .accesskey = r
+toolbar-context-turn-on-vertical-tabs =
+    .label = Függőleges lapok bekapcsolása
+toolbar-context-turn-off-vertical-tabs =
+    .label = Függőleges lapok kikapcsolása
+toolbar-context-customize-sidebar =
+    .label = Oldalsáv testreszabása
 toolbar-context-menu-manage-extension =
     .label = Kiegészítő kezelése
     .accesskey = K

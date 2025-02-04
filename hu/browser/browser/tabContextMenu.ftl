@@ -84,6 +84,10 @@ tab-context-close-duplicate-tabs =
 tab-context-share-url =
     .label = Megosztás
     .accesskey = M
+tab-context-enable-vertical-tabs =
+    .label = Függőleges lapok bekapcsolása
+tab-context-disable-vertical-tabs =
+    .label = Függőleges lapok kikapcsolása
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
 tab-context-new-tab-open =
     .label = Új lap jobbra

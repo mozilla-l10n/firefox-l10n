@@ -225,6 +225,15 @@ containers-remove-cancel-button = Ne távolítsa el a konténert
 settings-tabs-show-image-in-preview =
     .label = Előnézeti kép megjelenítése, ha az egérmutatót egy lap fülé húzza
     .accessKey = E
+browser-layout-header = Böngésző elrendezése
+browser-layout-horizontal-tabs =
+    .label = Vízszintes lapok
+browser-layout-horizontal-tabs-desc = Megjelenítés a böngésző tetején
+browser-layout-vertical-tabs =
+    .label = Függőleges lapok
+browser-layout-vertical-tabs-desc = Megjelenítés oldalt, az oldalsávban
+browser-layout-show-sidebar =
+    .label = Oldalsáv megjelenítése
 
 ## General Section - Language & Appearance
 
@@ -1307,6 +1316,7 @@ permissions-addon-exceptions =
 collection-header = { -brand-short-name } adatgyűjtés és felhasználás
 collection-header2 = { -brand-short-name } adatgyűjtés és felhasználás
     .searchkeywords = telemetria
+preferences-collection-privacy-notice = Adatvédelmi nyilatkozat megtekintése
 collection-description = Arra törekszünk, hogy választást biztosítsunk, és csak azt gyűjtsük, amire szükségünk van a { -brand-short-name } fejlesztéséhez, mindenki számára. Mindig engedélyt kérünk, mielőtt személyes információkat fogadunk.
 collection-privacy-notice = Adatvédelmi nyilatkozat
 collection-health-report-telemetry-disabled = Már nem engedélyezi, hogy a { -vendor-short-name } műszaki és interakciós adatokat rögzítsen. A múltbeli adatai 30 napon belül törölve lesznek.
@@ -1406,6 +1416,8 @@ space-alert-under-5gb-message2 = <strong>A { -brand-short-name } kezd kifogyni a
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Csak HTTPS mód
+httpsonly-description3 = Csak a biztonságos kapcsolatokat engedélyezi. A { -brand-short-name } megkérdezi, mielőtt nem biztonságosan csatlakozna.
+httpsonly-learn-more2 = Hogyan működik a Csak HTTPS mód
 httpsonly-description = A HTTPS biztonságos, titkosított kapcsolatot biztosít a { -brand-short-name } és a meglátogatott webhelyek között. A legtöbb webhely támogatja a HTTPS-t, és ha a Csak HTTPS mód engedélyezve van, akkor a { -brand-short-name } HTTPS-re frissíti az összes kapcsolatot.
 httpsonly-description2 = A { -brand-short-name } biztonságos és titkosított kapcsolatokat hoz létre a felkeresett webhelyekkel. A „csak HTTPS” mód esetén a { -brand-short-name } figyelmeztet, ha a kapcsolat nem biztonságos.
 httpsonly-learn-more = További tudnivalók
@@ -1415,6 +1427,9 @@ httpsonly-radio-enabled2 =
     .label = Csak HTTPS mód használata az összes ablakban
 httpsonly-radio-enabled-pbm =
     .label = A Csak HTTPS mód engedélyezése csak privát ablakokban
+httpsonly-radio-disabled3 =
+    .label = Ne engedélyezze a Csak HTTPS módot
+    .description = A { -brand-short-name } továbbra is frissítheti az egyes kapcsolatokat
 httpsonly-radio-enabled-pbm2 =
     .label = Csak HTTPS mód használata a privát ablakokban
 httpsonly-radio-disabled =

@@ -44,6 +44,8 @@ new-profile-page-input-placeholder =
 new-profile-page-done-button =
     .label = Szerkesztés kész
 profile-window-title-2 = { -brand-short-name } – Profil kiválasztása
+profile-window-logo =
+    .alt = { -brand-short-name } logó
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
@@ -95,3 +97,15 @@ profiles-system-theme = Rendszer
 
 ## Alternative text for default profile icons
 
+book-avatar-alt =
+    .alt = Könyv
+briefcase-avatar-alt =
+    .alt = Aktatáska
+flower-avatar-alt =
+    .alt = Virág
+heart-avatar-alt =
+    .alt = Szív
+shopping-avatar-alt =
+    .alt = Bevásárlókosár
+star-avatar-alt =
+    .alt = Csillag
