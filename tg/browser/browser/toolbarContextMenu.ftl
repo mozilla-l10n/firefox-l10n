@@ -30,6 +30,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] А
         }
     .accesskey = А
+toolbar-context-turn-on-vertical-tabs =
+    .label = Фаъол кардани варақаҳои амудӣ
+toolbar-context-turn-off-vertical-tabs =
+    .label = Хомӯш кардани варақаҳои амудӣ
+toolbar-context-customize-sidebar =
+    .label = Фармоишдиҳии навори ҷонибӣ
 toolbar-context-menu-manage-extension =
     .label = Идоракунии васеъшавӣ
     .accesskey = И

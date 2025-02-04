@@ -44,6 +44,8 @@ new-profile-page-input-placeholder =
 new-profile-page-done-button =
     .label = Ба анҷом расонидани таҳрир
 profile-window-title-2 = { -brand-short-name } - Профилеро интихоб намоед
+profile-window-logo =
+    .alt = Ангораи «{ -brand-short-name }»
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
@@ -95,3 +97,15 @@ profiles-system-theme = Низом
 
 ## Alternative text for default profile icons
 
+book-avatar-alt =
+    .alt = Китоб
+briefcase-avatar-alt =
+    .alt = Ҷузвгир
+flower-avatar-alt =
+    .alt = Гул
+heart-avatar-alt =
+    .alt = Дил
+shopping-avatar-alt =
+    .alt = Сабади харидорӣ
+star-avatar-alt =
+    .alt = Ситора

@@ -96,3 +96,4 @@ sidebar-genai-survey-productive-question =
     «Чат-боти зеҳни сунъӣ «AI» дар навори ҷонибӣ ба ман барои самараноктар будан кумак мерасонад»?
 unified-search-callout-primary-label = Навбатӣ
 unified-search-callout-secondary-label = Нодида гузарондан
+unified-search-engines-callout-primary-label = Фаҳмидам

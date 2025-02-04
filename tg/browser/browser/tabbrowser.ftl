@@ -245,6 +245,10 @@ tab-group-editor-color-selector2-gray = Хокистарӣ
     .title = Хокистарӣ
 tab-group-editor-color-selector2-red = Сурх
     .title = Сурх
+# Variables:
+#  $tabGroupName (String): The name of the tab group. Defaults to the value
+#                          of tab-group-name-default.
+tab-group-description = { $tabGroupName } — Гурӯҳи варақаҳо
 tab-group-menu-header = Гурӯҳҳои варақаҳо
 tab-context-unnamed-group =
     .label = Гурӯҳи беном

@@ -11,6 +11,7 @@ more-from-moz-category =
 more-from-moz-subtitle = Маҳсулоти { -vendor-short-name }-и дигареро озмоед, ки барои дастгирии Интернети солим кор мекунанд.
 more-from-moz-firefox-mobile-title = { -brand-product-name }-и мобилӣ
 more-from-moz-firefox-mobile-description = Браузери мобилӣ, ки махфияти шуморо дар ҷойи аввал мегузорад.
+more-from-moz-firefox-mobile-title-1 = «{ -brand-product-name }» барои дастгоҳи мобилӣ
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Як қабати нави тамошобинии хусусӣ ва муҳофизатро кашф намоед.
 more-from-moz-qr-code-box-firefox-mobile-title = Бо истифода аз дастгоҳи мобилии худ боргирӣ кунед. Камераи худро ба рамзи QR мутамарказ кунед. Вақте ки пайванд пайдо мешавад, онро зер кунед.
@@ -35,3 +36,5 @@ more-from-moz-mozilla-monitor-button = Ба даст овардани «{ -monit
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
+more-from-moz-solo-title = Сеҳни сунъии «{ -solo-ai-brand-name } AI»
+more-from-moz-solo-button = «{ -solo-ai-brand-name }»-ро озмоед
