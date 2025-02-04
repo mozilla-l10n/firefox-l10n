@@ -95,3 +95,5 @@ profiles-system-theme = Systema
 
 ## Alternative text for default profile icons
 
+star-avatar-alt =
+    .alt = Stella
