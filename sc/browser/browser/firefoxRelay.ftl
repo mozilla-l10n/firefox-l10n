@@ -8,15 +8,15 @@
 ## Variables:
 ##   $status (Number) - HTTP status code, for example 403
 
-firefox-relay-mask-generation-failed = { -relay-brand-name } no at pòdidu generare un’àlias nou. Faddina de su còdighe HTTP: { $status }.
-firefox-relay-get-reusable-masks-failed = { -relay-brand-name } no at agatadu nissunu àlias de torrare a impreare. Còdighe de sa faddina HTTP: { $status }.
+firefox-relay-mask-generation-failed = { -relay-brand-name } no at pòdidu generare un’alias nou. Faddina de su còdighe HTTP: { $status }.
+firefox-relay-get-reusable-masks-failed = { -relay-brand-name } no at agatadu nissunu alias de torrare a impreare. Còdighe de sa faddina HTTP: { $status }.
 
 ## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = Depes atzedere a { -fxaccount-brand-name } pro impreare { -relay-brand-name }.
 firefox-relay-must-login-to-account = Intra in su contu tuo pro impreare is alias tuos de posta eletrònica de { -relay-brand-name }.
 firefox-relay-get-unlimited-masks =
-    .label = Gesti is àlias
+    .label = Gesti is alias
     .accesskey = G
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Ampara s’indiritzu tuo de posta eletrònica:
@@ -28,6 +28,8 @@ firefox-relay-use-mask-title = Imprea un’alias de posta eletrònica de { -rela
 firefox-relay-opt-in-title-a = Èvita s’àliga cun un’alias de posta eletrònica a in donu
 # This is preceded by firefox-relay-opt-in-title-a (on a different line)
 firefox-relay-opt-in-subtitle-a = Cua s’indiritzu tuo de posta eletrònica reale
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
+firefox-relay-opt-in-title-b = Lea un’alias de posta eletrònica a in donu
 # This is preceded by firefox-relay-opt-in-title-b (on a different line)
 firefox-relay-opt-in-subtitle-b = Ampara sa casella de posta dae s’àliga
 firefox-relay-opt-in-confirmation-enable-button =
@@ -38,6 +40,9 @@ firefox-relay-opt-in-confirmation-disable =
     .accesskey = N
 firefox-relay-opt-in-confirmation-postpone =
     .label = Immoe nono
+    .accesskey = I
+firefox-relay-and-fxa-opt-in-confirmation-enable-button =
+    .label = Identìfica·ti cun { -brand-product-name } e imprea un’alias
     .accesskey = I
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
     .label = Registra·ti

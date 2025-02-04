@@ -24,7 +24,7 @@ more-from-moz-learn-more-link = Àteras informatziones
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
 more-from-moz-firefox-relay-title = { -relay-brand-name }
-more-from-moz-firefox-relay-description = Ampara de badas sa casella de posta eletrònica e s’identidade tuas cun is àlias de posta eletrònica.
+more-from-moz-firefox-relay-description = Ampara de badas sa casella de posta eletrònica e s’identidade tuas cun is alias de posta eletrònica.
 more-from-moz-firefox-relay-button = Otene { -relay-brand-short-name }
 
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page

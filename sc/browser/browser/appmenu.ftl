@@ -280,6 +280,7 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Retzi avisos a subra de violatziones de datos
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Cua s'indiritzu de posta eletrònica e su nùmeru de telèfonu tuos reales
+appmenuitem-services-relay-description = Avia su pannellu de is alias de posta eletrònica
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Ampara sa faina tua in lìnia
 appmenu-services-header = Is servìtzios mios
