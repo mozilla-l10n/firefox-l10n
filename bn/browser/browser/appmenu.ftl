@@ -293,3 +293,5 @@ appmenu-create-profile =
     .label = নতুন প্রোফাইল
 appmenu-edit-profile =
     .aria-label = প্রোফাইল সম্পাদনা করুন
+appmenu-profiles-2 =
+    .label = প্রোফাইল
