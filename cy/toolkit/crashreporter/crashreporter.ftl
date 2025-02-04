@@ -8,6 +8,7 @@ crashreporter-crashed-and-restore = Cafodd { -brand-short-name } anhawster a chw
 crashreporter-plea = I'n cynorthwyo i ddatrys yr anhawster, anfonwch adroddiad gwall atom.
 crashreporter-information = Mae'r rhaglen hon yn cael ei rhedeg ar ôl chwalfa er mwyn adrodd ar anhawster i { -vendor-short-name }.  Ni ddylai gael ei redeg yn uniongyrchol.
 crashreporter-error = Profodd { -brand-short-name } anhawster ac mae wedi chwalu. Yn anffodus, nid yw'r adroddwr chwalu yn medru cyflwyno adroddiad ynglŷn â'r chwalu hwn.
+crashreporter-error-details-header = Manylion:
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Manylion: { $details }
 crashreporter-no-run-message = Mae'r rhaglen yn cael ei rhedeg ar ôl chwalfa er mwyn adrodd ar anhawster i ddarparwr y rhaglen.  Ni ddylai gael ei redeg yn uniongyrchol.

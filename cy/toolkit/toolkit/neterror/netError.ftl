@@ -12,6 +12,7 @@ neterror-blocked-by-policy-page-title = Tudalen wedi'i Rhwystro
 neterror-captive-portal-page-title = Mewngofnodi i'r rhwydwaith
 neterror-dns-not-found-title = Heb Ganfod Gweinydd
 neterror-malformed-uri-page-title = URL annilys
+general-body-title = Byddwch yn ofalus. Mae rhywbeth i weld o'i le.
 
 ## Error page actions
 
@@ -43,6 +44,7 @@ neterror-load-error-connection = Os nad ydych yn gallu llwytho unrhyw dudalennau
 neterror-load-error-firewall = Os yw eich cyfrifiadur neu rwydwaith wedi ei ddiogelu gan fur cadarn neu ddirprwy, gwnewch yn siŵr fod gan { -brand-short-name } hawl i fynediad i'r we.
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Os ydych chi'n ceisio llwytho tudalen rhwydwaith lleol, gwiriwch fod { -brand-short-name } wedi cael caniatâd Rhwydwaith Lleol yng ngosodiadau Preifatrwydd a Diogelwch macOS.
+neterror-http-error-page = Gwiriwch i wneud yn siŵr eich bod wedi teipio cyfeiriad y wefan yn gywir.
 neterror-captive-portal = Rhaid i chi fewngofnodi i'r rhwydwaith hwn cyn i chi gael mynediad i'r Rhyngrwyd.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -98,6 +100,9 @@ neterror-proxy-connect-failure-settings = Gwiriwch osodiadau'r dirprwy i wneud y
 neterror-proxy-connect-failure-contact-admin = Cysylltwch â'ch gweinyddwr system i wneud yn siŵr fod y gweinydd dirprwyol yn gweithio.
 neterror-content-encoding-error = Cysylltwch â pherchnogion y wefan i'w hysbysu o'r anhawster.
 neterror-unsafe-content-type = Cysylltwch â pherchnogion y wefan i'w hysbysu o'r anhawster.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-basic-http-auth = Nid yw { -brand-short-name } yn ymddiried yn { $hostname } oherwydd nad yw'r cysylltiad yn ddiogel. Ceisiwch newid yr URL i HTTPS.
 neterror-nss-failure-not-verified = Nid oes modd dangos y dudalen rydych yn ceisio ei darllen am nad oes modd dilysu'r data rydych wedi ei dderbyn.
 neterror-nss-failure-contact-website = Cysylltwch â pherchnogion y wefan i'w hysbysu o'r anhawster.
 # Variables:

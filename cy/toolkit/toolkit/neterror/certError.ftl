@@ -134,6 +134,7 @@ contentEncodingError-title = Gwall Amgodio Cynnwys
 unsafeContentType-title = Math Anniogel o Ffeil
 netReset-title = Cafodd y cysylltiad ei ailosod
 netTimeout-title = Mae'r cyfnod cyswllt wedi dod i ben
+httpErrorPage-title = Mae'n ymddangos bod problem gyda'r wefan hon
 serverError-title = Mae'n ymddangos bod problem gyda'r wefan hon
 unknownProtocolFound-title = Heb ddeall y cyfeiriad
 proxyConnectFailure-title = Mae'r gweinydd dirprwy yn gwrthod cysylltiadau
