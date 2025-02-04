@@ -217,6 +217,10 @@ tab-group-editor-color-selector2-gray = 회색
     .title = 회색
 tab-group-editor-color-selector2-red = 빨간색
     .title = 빨간색
+# Variables:
+#  $tabGroupName (String): The name of the tab group. Defaults to the value
+#                          of tab-group-name-default.
+tab-group-description = { $tabGroupName } — 탭 그룹
 tab-group-menu-header = 탭 그룹
 tab-context-unnamed-group =
     .label = 익명 그룹

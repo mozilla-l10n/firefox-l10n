@@ -107,3 +107,5 @@ heart-avatar-alt =
     .alt = 하트
 shopping-avatar-alt =
     .alt = 장바구니
+star-avatar-alt =
+    .alt = 별

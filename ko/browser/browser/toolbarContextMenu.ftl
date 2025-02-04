@@ -29,6 +29,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] 닫은 탭 다시 열기
         }
     .accesskey = o
+toolbar-context-turn-on-vertical-tabs =
+    .label = 세로 탭 켜기
+toolbar-context-turn-off-vertical-tabs =
+    .label = 세로 탭 끄기
+toolbar-context-customize-sidebar =
+    .label = 사이드바 사용자 지정
 toolbar-context-menu-manage-extension =
     .label = 확장 기능 관리
     .accesskey = E
