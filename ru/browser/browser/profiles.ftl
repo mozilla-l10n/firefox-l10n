@@ -44,6 +44,8 @@ new-profile-page-input-placeholder =
 new-profile-page-done-button =
     .label = Завершить редактирование
 profile-window-title-2 = { -brand-short-name } - Выберите профиль
+profile-window-logo =
+    .alt = Логотип { -brand-short-name }
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
@@ -95,3 +97,15 @@ profiles-system-theme = Системная
 
 ## Alternative text for default profile icons
 
+book-avatar-alt =
+    .alt = Книга
+briefcase-avatar-alt =
+    .alt = Портфель
+flower-avatar-alt =
+    .alt = Цветок
+heart-avatar-alt =
+    .alt = Сердце
+shopping-avatar-alt =
+    .alt = Тележка покупателя
+star-avatar-alt =
+    .alt = Звёздочка

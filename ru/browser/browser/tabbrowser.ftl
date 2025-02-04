@@ -267,6 +267,10 @@ tab-group-editor-color-selector2-gray = Серый
     .title = Серый
 tab-group-editor-color-selector2-red = Красный
     .title = Красный
+# Variables:
+#  $tabGroupName (String): The name of the tab group. Defaults to the value
+#                          of tab-group-name-default.
+tab-group-description = { $tabGroupName } — Группа вкладок
 tab-group-menu-header = Группы вкладок
 tab-context-unnamed-group =
     .label = Безымянная группа

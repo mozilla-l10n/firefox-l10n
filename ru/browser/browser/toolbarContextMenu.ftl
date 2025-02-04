@@ -30,6 +30,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[many] Восстановить закрытые вкладки
         }
     .accesskey = н
+toolbar-context-turn-on-vertical-tabs =
+    .label = Включить вертикальные вкладки
+toolbar-context-turn-off-vertical-tabs =
+    .label = Отключить вертикальные вкладки
+toolbar-context-customize-sidebar =
+    .label = Настроить боковую панель
 toolbar-context-menu-manage-extension =
     .label = Управление расширением
     .accesskey = р

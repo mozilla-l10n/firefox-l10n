@@ -110,4 +110,4 @@ actions-callout-title = Cwblhau tasgau cyffredin neu gael mynediad at osodiadau 
 # "print" - quickactions-cmd-print
 # "clear" - quickactions-cmd-clearhistory
 # When localizing, ensure the translations match to ensure the action button appears as expected.
-actions-callout-subtitle = Ceisiwch deipio gweithred fel “argraffu” i argraffu tudalen, neu “clirio” i glirio'ch hanes.
+actions-callout-subtitle = Ceisiwch deipio gweithred fel “argraffu” i argraffu tudalen neu “clirio” i glirio'ch hanes.

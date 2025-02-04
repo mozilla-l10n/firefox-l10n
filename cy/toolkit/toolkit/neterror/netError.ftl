@@ -156,6 +156,9 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Os nad ydych yn gyfarwydd �
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = Mae gan <b>{ $hostname }</b> bolisi diogelwch o'r enw HTTP Strict Transport Security (HSTS), sy'n golygu mai dim ond yn ddiogel mae modd i { -brand-short-name } gysylltu. Nid oes modd gosod eithriad er mwyn ymweld â'r wefan.
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = Dim byd yn ôl pob tebyg, gan ei bod hi'n debygol bod problem gyda'r wefan ei hun.
+certerror-blocked-by-corp-headers-description = Weithiau mae gwefannau yn gosod amddiffyniadau iddyn nhw eu hunain a phobl fel chi rhag rhyngweithio digroeso â gwefannau eraill.
+certerror-coop-learn-more = Dysgwch ragor am Bolisïau Agorwr Traws Darddiad (COOP)
+certerror-coep-learn-more = Dysgwch ragor am Bolisïau Mewnblannu Traws Darddiad (COEP)
 # Variables:
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").

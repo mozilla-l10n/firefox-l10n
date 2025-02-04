@@ -99,3 +99,15 @@ unified-search-callout-title = Переключение между поиско�
 unified-search-callout-subtitle = Выберите, что лучше всего работает для вашего конкретного поиска.
 unified-search-callout-primary-label = Далее
 unified-search-callout-secondary-label = Скрыть
+unified-search-engines-callout-title = Поиск с помощью ярлыков
+unified-search-engines-callout-subtitle = Наберите «@», а затем ключевое слово для поиска в истории, закладках, вкладках или с помощью другой поисковой системы.
+unified-search-engines-callout-primary-label = Понятно
+actions-callout-title = Выполнение типичных задач или доступ к базовым настройкам
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearhistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = Попробуйте ввести действие, например, «печать», чтобы распечатать страницу, или «очистить», чтобы удалить историю.
