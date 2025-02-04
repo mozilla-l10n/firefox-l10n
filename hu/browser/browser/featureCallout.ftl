@@ -64,6 +64,7 @@ split-dismiss-button-manage-settings-option-label = Beállítások kezelése
 
 sidebar-button-callout-title = Lapcímek megjelenítése az oldalsávban
 sidebar-button-callout-subtitle = Az oldalsáv gombjával bontsa ki az oldalsávot, így a lapok címét is láthatja.
+sidebar-button-callout-vertical-tabs = A lapok megjelenítéséhez válassza az oldalsáv gombot az eszköztáron.
 
 ## Sidebar Callout Survey Strings
 
@@ -94,3 +95,11 @@ sidebar-genai-survey-satisfaction-question = Mennyire elégedett azzal, hogy az 
 sidebar-genai-survey-productive-question =
     Mennyire ért egyet vagy nem ért egyet ezzel az állítással:<br/>
     „Az oldalsávban lévő MI csevegőbot segít abban, hogy hatékonyabb legyek”?
+unified-search-callout-title = Váltás a keresőszolgáltatások között
+unified-search-callout-subtitle = Válassza ki az adott kereséshez legmegfelelőbbet.
+unified-search-callout-primary-label = Következő
+unified-search-callout-secondary-label = Eltüntetés
+unified-search-engines-callout-title = Keresés gyorsparanccsal
+unified-search-engines-callout-subtitle = Írja be a „@” karaktert, majd egy kulcsszót az előzmények, a könyvjelzők és a lapok közti, vagy a más keresőszolgáltatással történő kereséshez.
+unified-search-engines-callout-primary-label = Megértettem
+actions-callout-title = Gyakori feladatok elvégzése vagy alapvető beállítások elérése
