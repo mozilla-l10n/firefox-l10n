@@ -94,3 +94,5 @@ sidebar-genai-survey-satisfaction-question = Шумо аз таҷрибаи па
 sidebar-genai-survey-productive-question =
     Шумо то чӣ андоза бо изҳори зерин розӣ ҳастед ё нестед:<br/>
     «Чат-боти зеҳни сунъӣ «AI» дар навори ҷонибӣ ба ман барои самараноктар будан кумак мерасонад»?
+unified-search-callout-primary-label = Навбатӣ
+unified-search-callout-secondary-label = Нодида гузарондан
