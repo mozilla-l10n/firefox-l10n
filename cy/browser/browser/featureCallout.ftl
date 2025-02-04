@@ -64,6 +64,7 @@ split-dismiss-button-manage-settings-option-label = Rheoli gosodiadau
 
 sidebar-button-callout-title = Dangos teitlau tabiau yn y bar ochr
 sidebar-button-callout-subtitle = Defnyddiwch y botwm bar ochr i ehangu'r bar ochr, fel y gallwch weld teitlau tab.
+sidebar-button-callout-vertical-tabs = I ddangos eich tabiau, dewiswch y botwm bar ochr yn y bar offer.
 
 ## Sidebar Callout Survey Strings
 
@@ -94,3 +95,19 @@ sidebar-genai-survey-satisfaction-question = Pa mor fodlon ydych chi ar gael myn
 sidebar-genai-survey-productive-question =
     I ba raddau ydych chi'n cytuno neu'n anghytuno â'r gosodiad hwn:<br/>
     “Mae'r sgwrsfot AI yn y bar ochr yn fy helpu i fod yn fwy cynhyrchiol”?
+unified-search-callout-title = Newid rhwng peiriannau chwilio
+unified-search-callout-subtitle = Dewiswch beth sy'n gweithio orau ar gyfer eich chwilio penodol.
+unified-search-callout-primary-label = Nesaf
+unified-search-callout-secondary-label = Cau
+unified-search-engines-callout-title = Chwilio gyda llwybr byr
+unified-search-engines-callout-subtitle = Teipiwch “@” ac yna allweddair i chwilio'ch hanes, nodau tudalen, tabiau, neu gyda pheiriant chwilio arall.
+unified-search-engines-callout-primary-label = Iawn
+actions-callout-title = Cwblhau tasgau cyffredin neu gael mynediad at osodiadau sylfaenol
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearhistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = Ceisiwch deipio gweithred fel “argraffu” i argraffu tudalen, neu “clirio” i glirio'ch hanes.
