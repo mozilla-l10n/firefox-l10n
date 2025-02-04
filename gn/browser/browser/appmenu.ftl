@@ -293,3 +293,5 @@ appmenu-create-profile =
     .label = Mba’ete pyahu
 appmenu-edit-profile =
     .aria-label = Embosako’i mba’ete
+appmenu-profiles-2 =
+    .label = Mba’etekuéra
