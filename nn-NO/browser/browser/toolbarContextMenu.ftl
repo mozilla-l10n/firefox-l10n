@@ -29,6 +29,8 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Opne attlatne faner
         }
     .accesskey = a
+toolbar-context-turn-on-vertical-tabs =
+    .label = Slå på verikale faner
 toolbar-context-menu-manage-extension =
     .label = Handsam utviding
     .accesskey = u
