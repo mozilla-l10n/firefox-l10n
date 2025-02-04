@@ -296,3 +296,5 @@ appmenu-create-profile =
     .label = 新增設定檔
 appmenu-edit-profile =
     .aria-label = 編輯設定檔
+appmenu-profiles-2 =
+    .label = 設定檔

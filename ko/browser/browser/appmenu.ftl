@@ -296,3 +296,5 @@ appmenu-create-profile =
     .label = 새 프로필
 appmenu-edit-profile =
     .aria-label = 프로필 편집
+appmenu-profiles-2 =
+    .label = 프로필

@@ -296,3 +296,5 @@ appmenu-create-profile =
     .label = Hồ sơ người dùng mới
 appmenu-edit-profile =
     .aria-label = Chỉnh sửa hồ sơ người dùng
+appmenu-profiles-2 =
+    .label = Hồ sơ người dùng

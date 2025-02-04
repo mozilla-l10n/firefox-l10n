@@ -296,3 +296,5 @@ appmenu-create-profile =
     .label = Nij profyl
 appmenu-edit-profile =
     .aria-label = Profyl bewurkje
+appmenu-profiles-2 =
+    .label = Profilen

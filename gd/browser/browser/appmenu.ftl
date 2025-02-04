@@ -296,3 +296,5 @@ appmenu-create-profile =
     .label = Pròifil ùr
 appmenu-edit-profile =
     .aria-label = Deasaich a’ phròifil
+appmenu-profiles-2 =
+    .label = Pròifilean

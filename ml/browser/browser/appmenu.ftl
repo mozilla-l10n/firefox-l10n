@@ -279,3 +279,5 @@ appmenu-create-profile =
     .label = പുതിയ രൂപരേഖ
 appmenu-edit-profile =
     .aria-label = രൂപരേഖ തിരുത്തുക
+appmenu-profiles-2 =
+    .label = രൂപരേഖകൾ

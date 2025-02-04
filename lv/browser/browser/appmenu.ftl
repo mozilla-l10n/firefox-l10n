@@ -296,3 +296,5 @@ appmenu-create-profile =
     .label = Jauns profils
 appmenu-edit-profile =
     .aria-label = Rediģēt profilu
+appmenu-profiles-2 =
+    .label = Profili

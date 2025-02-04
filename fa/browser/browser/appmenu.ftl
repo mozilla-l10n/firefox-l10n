@@ -293,3 +293,5 @@ appmenu-create-profile =
     .label = نمایه جدید
 appmenu-edit-profile =
     .aria-label = ویرایش نمایه
+appmenu-profiles-2 =
+    .label = نمایه‌ها

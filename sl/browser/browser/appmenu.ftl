@@ -296,3 +296,5 @@ appmenu-create-profile =
     .label = Nov profil
 appmenu-edit-profile =
     .aria-label = Urejanje profila
+appmenu-profiles-2 =
+    .label = Profili

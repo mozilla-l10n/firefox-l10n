@@ -291,3 +291,5 @@ appmenu-create-profile =
     .label = Amaɣnu amaynut
 appmenu-edit-profile =
     .aria-label = Ẓreg amaɣnu
+appmenu-profiles-2 =
+    .label = Imeɣna

@@ -293,3 +293,5 @@ appmenu-create-profile =
     .label = Gnûf profîl
 appmenu-edit-profile =
     .aria-label = Modifiche profîl
+appmenu-profiles-2 =
+    .label = Profîi

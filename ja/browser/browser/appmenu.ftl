@@ -292,3 +292,5 @@ appmenu-create-profile =
     .label = 新しいプロファイル
 appmenu-edit-profile =
     .aria-label = プロファイルを編集
+appmenu-profiles-2 =
+    .label = プロファイル

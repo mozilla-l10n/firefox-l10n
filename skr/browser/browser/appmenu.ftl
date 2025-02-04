@@ -291,3 +291,5 @@ appmenu-create-profile =
     .label = نویں پروفائل
 appmenu-edit-profile =
     .aria-label = پروفائل وچ تبدیلی کرو
+appmenu-profiles-2 =
+    .label = پروفائلاں

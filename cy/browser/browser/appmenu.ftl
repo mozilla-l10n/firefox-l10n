@@ -296,3 +296,5 @@ appmenu-create-profile =
     .label = Proffil newydd
 appmenu-edit-profile =
     .aria-label = Golygu proffil
+appmenu-profiles-2 =
+    .label = Proffiliau

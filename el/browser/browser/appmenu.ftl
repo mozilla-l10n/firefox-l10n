@@ -296,3 +296,5 @@ appmenu-create-profile =
     .label = Νέο προφίλ
 appmenu-edit-profile =
     .aria-label = Επεξεργασία προφίλ
+appmenu-profiles-2 =
+    .label = Προφίλ

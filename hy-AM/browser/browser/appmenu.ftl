@@ -286,3 +286,5 @@ appmenu-create-profile =
     .label = Նոր հատկագիր
 appmenu-edit-profile =
     .aria-label = Խմբագրել հատկագիրը
+appmenu-profiles-2 =
+    .label = Հատկագրեր

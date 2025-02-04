@@ -296,3 +296,5 @@ appmenu-create-profile =
     .label = ملف شخصي جديد
 appmenu-edit-profile =
     .aria-label = حرّر الملف الشخصي
+appmenu-profiles-2 =
+    .label = ملفات تعريف

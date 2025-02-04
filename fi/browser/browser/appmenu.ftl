@@ -296,3 +296,5 @@ appmenu-create-profile =
     .label = Uusi profiili
 appmenu-edit-profile =
     .aria-label = Muokkaa profiilia
+appmenu-profiles-2 =
+    .label = Profiilit

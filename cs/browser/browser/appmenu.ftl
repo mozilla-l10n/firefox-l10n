@@ -336,3 +336,5 @@ appmenu-create-profile =
     .label = Nový profil
 appmenu-edit-profile =
     .aria-label = Upravit profil
+appmenu-profiles-2 =
+    .label = Profily

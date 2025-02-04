@@ -296,3 +296,5 @@ appmenu-create-profile =
     .label = Профили нав
 appmenu-edit-profile =
     .aria-label = Таҳрир кардани профил
+appmenu-profiles-2 =
+    .label = Профилҳо
