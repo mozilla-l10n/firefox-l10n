@@ -100,3 +100,4 @@ unified-search-callout-subtitle = 특정 검색에 가장 적합한 것을 선�
 unified-search-callout-primary-label = 다음
 unified-search-callout-secondary-label = 닫기
 unified-search-engines-callout-title = 바로 가기로 검색
+unified-search-engines-callout-subtitle = 기록, 북마크, 탭 또는 다른 검색 엔진으로 검색하려면 "@" 다음에 키워드를 입력하세요.
