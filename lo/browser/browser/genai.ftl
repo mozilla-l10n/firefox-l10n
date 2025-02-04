@@ -5,6 +5,9 @@
 
 ## Generative AI (GenAI) Settings section
 
+genai-settings-chat-choose-one-menuitem =
+    .label = ເລືອກອັນໜຶ່ງ
+genai-settings-chat-links = ເມື່ອທ່ານເລືອກ chatbot, ທ່ານຕົກລົງເຫັນດີກັບເງື່ອນໄຂການນໍາໃຊ້ ແລະ ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວຂອງຜູ້ໃຫ້ບໍລິການ.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
