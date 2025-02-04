@@ -180,3 +180,5 @@ appmenu-create-profile =
     .label = Novu prufilu
 appmenu-edit-profile =
     .aria-label = Cancia u prufilu
+appmenu-profiles-2 =
+    .label = Prufili
