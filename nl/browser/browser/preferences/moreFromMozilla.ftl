@@ -11,6 +11,7 @@ more-from-moz-category =
 more-from-moz-subtitle = Bekijk andere { -vendor-short-name }-producten die een gezond internet ondersteunen.
 more-from-moz-firefox-mobile-title = { -brand-product-name } Mobiel
 more-from-moz-firefox-mobile-description = De mobiele browser die uw privacy voorop stelt.
+more-from-moz-firefox-mobile-title-1 = { -brand-product-name } voor Mobiel
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Ontdek een extra laag van anoniem navigeren en bescherming.
 more-from-moz-qr-code-box-firefox-mobile-title = Downloaden met uw mobiele apparaat. Richt uw camera op de QR-code. Als er een koppeling verschijnt, tikt u erop.
@@ -35,3 +36,6 @@ more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name } downloaden
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
+more-from-moz-solo-title = { -solo-ai-brand-name }-AI
+more-from-moz-solo-description = Maak direct uw website en koppel gratis uw eigen aangepaste domein.
+more-from-moz-solo-button = { -solo-ai-brand-name } proberen

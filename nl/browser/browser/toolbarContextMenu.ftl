@@ -30,6 +30,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Gesloten tabbladen opnieuw openen
         }
     .accesskey = o
+toolbar-context-turn-on-vertical-tabs =
+    .label = Verticale tabbladen inschakelen
+toolbar-context-turn-off-vertical-tabs =
+    .label = Verticale tabbladen uitschakelen
+toolbar-context-customize-sidebar =
+    .label = Zijbalk aanpassen
 toolbar-context-menu-manage-extension =
     .label = Extensie beheren
     .accesskey = E
