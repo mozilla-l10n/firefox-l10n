@@ -97,9 +97,9 @@ genai-options-reload-generic =
 genai-options-reload-provider =
     .label = { $provider } 새로 고침
 genai-options-show-shortcut =
-    .label = 텍스트를 선택할 때 바로 가기 표시
+    .label = 텍스트 선택 시 바로 가기 표시
 genai-options-hide-shortcut =
-    .label = 텍스트를 선택할 때 바로 가기 숨기기
+    .label = 텍스트 선택 시 바로 가기 숨기기
 genai-options-about-chatbot =
     .label = { -brand-short-name }의 AI 챗봇 정보
 

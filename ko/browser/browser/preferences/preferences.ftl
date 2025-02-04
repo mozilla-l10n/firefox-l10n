@@ -213,6 +213,15 @@ containers-remove-cancel-button = 이 컨테이너 삭제하지 않음
 settings-tabs-show-image-in-preview =
     .label = 탭 위로 마우스를 가져가면 이미지 미리 보기 표시
     .accessKey = h
+browser-layout-header = 브라우저 레이아웃
+browser-layout-horizontal-tabs =
+    .label = 가로 탭
+browser-layout-horizontal-tabs-desc = 브라우저 상단에 표시
+browser-layout-vertical-tabs =
+    .label = 세로 탭
+browser-layout-vertical-tabs-desc = 사이드바의 측면에 표시
+browser-layout-show-sidebar =
+    .label = 사이드바 표시
 
 ## General Section - Language & Appearance
 

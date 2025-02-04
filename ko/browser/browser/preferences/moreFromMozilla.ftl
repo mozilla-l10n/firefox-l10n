@@ -37,3 +37,5 @@ more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name } 받기
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
 more-from-moz-solo-title = { -solo-ai-brand-name } AI
+more-from-moz-solo-description = 즉시 웹 사이트를 만들고 나만의 도메인을 무료로 연결하세요.
+more-from-moz-solo-button = { -solo-ai-brand-name } 사용해보기

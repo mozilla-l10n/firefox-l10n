@@ -225,6 +225,16 @@ containers-remove-cancel-button = Kapsayıcıyı silme
 settings-tabs-show-image-in-preview =
     .label = Bir sekmenin üzerine geldiğimde sekme ön izlemesini göster
     .accessKey = ö
+browser-layout-header = Tarayıcı düzeni
+browser-layout-horizontal-tabs =
+    .label = Yatay sekmeler
+browser-layout-horizontal-tabs-desc = Tarayıcının tepesinde göster
+browser-layout-vertical-tabs =
+    .label = Dikey sekmeler
+browser-layout-vertical-tabs-desc = Yanda, kenar çubuğunda göster
+browser-layout-show-sidebar =
+    .label = Kenar çubuğunu göster
+browser-layout-show-sidebar-desc = Ana görünümünüzden ayrılmadan yer imlerine, telefonunuzdaki sekmelere ve YZ sohbet botlarına hızlıca erişin.
 
 ## General Section - Language & Appearance
 

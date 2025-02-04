@@ -253,6 +253,10 @@ tab-group-editor-color-selector2-gray = Gri
     .title = Gri
 tab-group-editor-color-selector2-red = Kırmızı
     .title = Kırmızı
+# Variables:
+#  $tabGroupName (String): The name of the tab group. Defaults to the value
+#                          of tab-group-name-default.
+tab-group-description = { $tabGroupName } — Sekme grubu
 tab-group-menu-header = Sekme grupları
 tab-context-unnamed-group =
     .label = Adsız grup

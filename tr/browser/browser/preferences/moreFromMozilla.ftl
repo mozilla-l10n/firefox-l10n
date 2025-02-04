@@ -11,6 +11,7 @@ more-from-moz-category =
 more-from-moz-subtitle = Sağlıklı bir interneti destekleyen diğer { -vendor-short-name } ürünlerine göz atın.
 more-from-moz-firefox-mobile-title = { -brand-product-name } Mobil
 more-from-moz-firefox-mobile-description = Gizliliğinizi ilk sıraya koyan mobil tarayıcı.
+more-from-moz-firefox-mobile-title-1 = Mobil Cihazlar için { -brand-product-name }
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Anonim gezinti ve korumayı keşfedin.
 more-from-moz-qr-code-box-firefox-mobile-title = Mobil cihazınızla indirin. QR kodunu kameranıza okutun. Bağlantı göründüğünde ona dokunun.
@@ -35,3 +36,6 @@ more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name }’ü kullan
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
+more-from-moz-solo-title = { -solo-ai-brand-name } AI
+more-from-moz-solo-description = Web sitenizi anında oluşturun ve kendi özel alan adınızı ücretsiz olarak bağlayın.
+more-from-moz-solo-button = { -solo-ai-brand-name }’ı deneyin

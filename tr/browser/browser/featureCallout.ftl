@@ -64,6 +64,7 @@ split-dismiss-button-manage-settings-option-label = Ayarları yönet
 
 sidebar-button-callout-title = Sekme başlıklarını kenar çubuğunda göster
 sidebar-button-callout-subtitle = Sekme başlıklarını görmek için kenar çubuğu düğmesini kullanarak kenar çubuğunu genişletin.
+sidebar-button-callout-vertical-tabs = Sekmelerinizi göstermek için araç çubuğundaki kenar çubuğu düğmesine tıklayın.
 
 ## Sidebar Callout Survey Strings
 
@@ -94,3 +95,6 @@ sidebar-genai-survey-satisfaction-question = Kenar çubuğundan bir yapay zekâ 
 sidebar-genai-survey-productive-question =
     Aşağıdaki ifadeye katılıyor musunuz?:<br/>
     “Kenar çubuğundaki yapay zekâ sohbet botu daha verimli olmamı sağlıyor”
+unified-search-callout-primary-label = İleri
+unified-search-callout-secondary-label = Kapat
+unified-search-engines-callout-primary-label = Anladım

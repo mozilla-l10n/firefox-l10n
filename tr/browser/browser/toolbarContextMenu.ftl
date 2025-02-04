@@ -29,6 +29,8 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Kapatılan sekmeleri yeniden aç
         }
     .accesskey = a
+toolbar-context-turn-on-vertical-tabs =
+    .label = Dikey sekmeleri aç
 toolbar-context-menu-manage-extension =
     .label = Uzantıyı yönet
     .accesskey = U
