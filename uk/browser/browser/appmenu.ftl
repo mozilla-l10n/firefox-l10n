@@ -296,3 +296,5 @@ appmenu-create-profile =
     .label = Новий профіль
 appmenu-edit-profile =
     .aria-label = Редагувати профіль
+appmenu-profiles-2 =
+    .label = Профілі
