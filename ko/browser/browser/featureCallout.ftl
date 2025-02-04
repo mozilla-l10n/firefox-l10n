@@ -64,6 +64,7 @@ split-dismiss-button-manage-settings-option-label = 설정 관리
 
 sidebar-button-callout-title = 사이드바에 탭 제목 표시
 sidebar-button-callout-subtitle = 사이드바 버튼을 사용하여 탭 제목을 볼 수 있도록 사이드바를 확장하세요.
+sidebar-button-callout-vertical-tabs = 탭을 표시하려면, 도구 모음에서 사이드바 버튼 을 선택하세요.
 
 ## Sidebar Callout Survey Strings
 
@@ -94,3 +95,8 @@ sidebar-genai-survey-satisfaction-question = 사이드바의 AI 챗봇에 접근
 sidebar-genai-survey-productive-question =
     다음 의견에 얼마나 동의하십니까?<br/>
     "사이드바에 AI 챗봇을 사용하면 생산성을 높일 수 있습니다"
+unified-search-callout-title = 검색 엔진 전환
+unified-search-callout-subtitle = 특정 검색에 가장 적합한 것을 선택하세요.
+unified-search-callout-primary-label = 다음
+unified-search-callout-secondary-label = 닫기
+unified-search-engines-callout-title = 바로 가기로 검색
