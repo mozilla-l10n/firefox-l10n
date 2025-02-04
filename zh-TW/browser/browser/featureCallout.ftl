@@ -96,6 +96,7 @@ unified-search-callout-subtitle = 選擇最適合您要搜尋的內容的搜尋�
 unified-search-callout-primary-label = 下一步
 unified-search-callout-secondary-label = 知道了！
 unified-search-engines-callout-title = 使用快速鍵進行搜尋
+unified-search-engines-callout-subtitle = 輸入「@」再加上關鍵字，即可搜尋您的瀏覽紀錄、書籤、分頁，或透過其他搜尋引擎來搜尋。
 unified-search-engines-callout-primary-label = 知道了！
 actions-callout-title = 完成常見任務或存取基礎設定
 # The user can type "print" and "clear" and a button will appear in the
