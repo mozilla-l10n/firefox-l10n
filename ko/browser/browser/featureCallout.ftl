@@ -101,3 +101,13 @@ unified-search-callout-primary-label = 다음
 unified-search-callout-secondary-label = 닫기
 unified-search-engines-callout-title = 바로 가기로 검색
 unified-search-engines-callout-subtitle = 기록, 북마크, 탭 또는 다른 검색 엔진으로 검색하려면 "@" 다음에 키워드를 입력하세요.
+unified-search-engines-callout-primary-label = 확인
+actions-callout-title = 일반 작업 완료 또는 기본 설정 접근
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearhistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = "인쇄"와 같은 작업을 입력하여 페이지를 인쇄하거나, "지우기"를 눌러 기록을 지우세요.

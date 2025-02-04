@@ -11,6 +11,7 @@ more-from-moz-category =
 more-from-moz-subtitle = 건강한 인터넷을 지원하는 다른 { -vendor-short-name } 제품을 확인하세요.
 more-from-moz-firefox-mobile-title = { -brand-product-name } 모바일
 more-from-moz-firefox-mobile-description = 개인 정보 보호를 최우선으로 하는 모바일 브라우저입니다.
+more-from-moz-firefox-mobile-title-1 = 모바일용 { -brand-product-name }
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = 추가된 익명 탐색 및 보호 계층을 확인하세요.
 more-from-moz-qr-code-box-firefox-mobile-title = 모바일 기기를 사용하여 다운로드하세요. 카메라를 QR코드에 맞추세요. 링크가 나타나면 해당 링크를 누르세요.
@@ -35,3 +36,4 @@ more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name } 받기
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
+more-from-moz-solo-title = { -solo-ai-brand-name } AI
