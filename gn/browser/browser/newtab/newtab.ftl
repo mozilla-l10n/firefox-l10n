@@ -467,6 +467,7 @@ newtab-section-unfollow-button = Ndahapykuehovéima
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
 ## e.g. Blocked the politics section of stories.
 
+newtab-section-block-button = Joko
 
 ## Confirmation modal for blocking a section
 
