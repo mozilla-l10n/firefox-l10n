@@ -222,6 +222,7 @@ browser-layout-vertical-tabs =
 browser-layout-vertical-tabs-desc = 於旁邊的側邊欄顯示
 browser-layout-show-sidebar =
     .label = 顯示側邊欄
+browser-layout-show-sidebar-desc = 不用離開主畫面就能快速開啟書籤、手機上的分頁、AI 聊天機器人等功能。
 
 ## General Section - Language & Appearance
 
@@ -1304,6 +1305,7 @@ permissions-addon-exceptions =
 collection-header = { -brand-short-name } 資料收集與使用
 collection-header2 = { -brand-short-name } 資料收集與使用
     .searchkeywords = telemetry
+preferences-collection-description = 我們盡力提供您不同選擇，也只會收集最少而必須的資料，以用於為所有人改善 { -brand-product-name }。
 preferences-collection-privacy-notice = 檢視隱私權公告
 collection-description = 我們致力於提供您選擇，也只會收集我們在提供與改善 { -brand-short-name } 時所必需的資料。我們也一定會經過您的同意才收集您的個人資訊。
 collection-privacy-notice = 隱私權公告
