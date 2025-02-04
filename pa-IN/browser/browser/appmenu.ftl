@@ -296,3 +296,5 @@ appmenu-create-profile =
     .label = ਨਵਾਂ ਪਰੋਫਾਇਲ
 appmenu-edit-profile =
     .aria-label = ਪਰੋਫਾਇਲ ਨੂੰ ਸੋਧੋ
+appmenu-profiles-2 =
+    .label = ਪਰੋਫਾਇਲ
