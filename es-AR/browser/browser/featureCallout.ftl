@@ -64,6 +64,7 @@ split-dismiss-button-manage-settings-option-label = Administrar preferencias
 
 sidebar-button-callout-title = Mostrar los títulos de las pestañas en la barra lateral
 sidebar-button-callout-subtitle = Use el botón de la barra lateral para expandir la barra y poder ver los títulos de las pestañas.
+sidebar-button-callout-vertical-tabs = Para mostrar sus pestañas, seleccione el botón de la barra lateral en la barra de herramientas.
 
 ## Sidebar Callout Survey Strings
 
@@ -94,3 +95,4 @@ sidebar-genai-survey-satisfaction-question = ¿Qué tan satisfecho está con ten
 sidebar-genai-survey-productive-question =
     ¿Hasta qué punto está de acuerdo o en desacuerdo con esta afirmación?:<br/>
     “El chatbot de IA me ayuda a ser más productivo”
+unified-search-callout-title = Cambiar entre buscadores
