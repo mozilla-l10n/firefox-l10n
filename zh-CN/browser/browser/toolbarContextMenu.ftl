@@ -29,6 +29,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] 恢复关闭的 { $tabCount } 个标签页
         }
     .accesskey = o
+toolbar-context-turn-on-vertical-tabs =
+    .label = 开启垂直标签页
+toolbar-context-turn-off-vertical-tabs =
+    .label = 关闭垂直标签页
+toolbar-context-customize-sidebar =
+    .label = 定制侧栏
 toolbar-context-menu-manage-extension =
     .label = 管理扩展
     .accesskey = E

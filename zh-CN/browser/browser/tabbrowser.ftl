@@ -215,6 +215,10 @@ tab-group-editor-color-selector2-gray = 灰色
     .title = 灰色
 tab-group-editor-color-selector2-red = 红色
     .title = 红色
+# Variables:
+#  $tabGroupName (String): The name of the tab group. Defaults to the value
+#                          of tab-group-name-default.
+tab-group-description = { $tabGroupName } — 标签页群组
 tab-group-menu-header = 标签页群组
 tab-context-unnamed-group =
     .label = 未命名群组
