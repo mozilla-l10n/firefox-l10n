@@ -288,3 +288,5 @@ appmenu-create-profile =
     .label = Profil nevez
 appmenu-edit-profile =
     .aria-label = Kemmañ ar profil
+appmenu-profiles-2 =
+    .label = Profiloù
