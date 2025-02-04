@@ -99,3 +99,11 @@ unified-search-engines-callout-title = Cerca con un via-breve
 unified-search-engines-callout-subtitle = Typa “@” sequite per un parola clave pro cercar tu chronologia, marcapaginas, schedas, o con un altere motor de recerca.
 unified-search-engines-callout-primary-label = Comprendite
 actions-callout-title = Completar cargas commun o acceder parametros basic
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearhistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = Tenta typar un action como “imprimer” pro imprimer un pagina, o “vacuar” pro vacuar tu chronologia.
