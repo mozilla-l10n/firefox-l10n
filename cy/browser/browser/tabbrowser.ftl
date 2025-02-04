@@ -258,6 +258,16 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Diddymu
     .accesskey = D
+tab-group-editor-color-selector2-green = Gwyrdd
+    .title = Gwyrdd
+tab-group-editor-color-selector2-gray = Llwyd
+    .title = Llwyd
+tab-group-editor-color-selector2-red = Coch
+    .title = Coch
+# Variables:
+#  $tabGroupName (String): The name of the tab group. Defaults to the value
+#                          of tab-group-name-default.
+tab-group-description = { $tabGroupName } — Grŵp Tab
 tab-group-menu-header = Grwpiau tabiau
 tab-context-unnamed-group =
     .label = Grŵp heb ei enwi

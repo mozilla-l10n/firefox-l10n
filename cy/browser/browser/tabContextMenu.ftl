@@ -84,6 +84,10 @@ tab-context-close-duplicate-tabs =
 tab-context-share-url =
     .label = Rhannu
     .accesskey = R
+tab-context-enable-vertical-tabs =
+    .label = Troi Tabiau Fertigol ymlaen
+tab-context-disable-vertical-tabs =
+    .label = Diffodd Tabiau Fertigol
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
 tab-context-new-tab-open =
     .label = Tab Newydd i'r Dde

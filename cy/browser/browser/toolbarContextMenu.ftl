@@ -34,6 +34,8 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Ailagor Tabiau wedi'u Cau
         }
     .accesskey = o
+toolbar-context-turn-on-vertical-tabs =
+    .label = Troi Tabiau Fertigol ymlaen
 toolbar-context-menu-manage-extension =
     .label = Rheoli Estyniad
     .accesskey = E
