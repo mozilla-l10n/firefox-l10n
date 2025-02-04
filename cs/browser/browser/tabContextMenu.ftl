@@ -84,6 +84,10 @@ tab-context-close-duplicate-tabs =
 tab-context-share-url =
     .label = Sdílet
     .accesskey = S
+tab-context-enable-vertical-tabs =
+    .label = Zapnout svislé panely
+tab-context-disable-vertical-tabs =
+    .label = Vypnout svislé panely
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
 tab-context-new-tab-open =
     .label = Nový panel vpravo

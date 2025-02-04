@@ -276,6 +276,15 @@ containers-remove-cancel-button = Neodstraňovat tento kontejner
 settings-tabs-show-image-in-preview =
     .label = Zobrazit obrázek s náhledem při přejetí nad panelem
     .accessKey = o
+browser-layout-header = Rozložení prohlížeče
+browser-layout-horizontal-tabs =
+    .label = Vodorovné panely
+browser-layout-horizontal-tabs-desc = Zobrazují se v horní části prohlížeče
+browser-layout-vertical-tabs =
+    .label = Svislé panely
+browser-layout-vertical-tabs-desc = Zobrazují se v postranním panelu
+browser-layout-show-sidebar =
+    .label = Zobrazit postranní lištu
 
 ## General Section - Language & Appearance
 
@@ -1451,6 +1460,7 @@ collection-header2 =
        *[no-cases] Sběr a používání dat o aplikaci { -brand-short-name }
     }
     .searchkeywords = telemetrie
+preferences-collection-privacy-notice = Zobrazit zásady ochrany osobních údajů
 collection-description =
     { -brand-short-name.case-status ->
         [with-cases] S daty vám dáváme vždy na výběr a sbíráme jen data potřebná pro vylepšování { -brand-short-name(case: "gen") }. Před odesíláním osobních dat vždy žádáme o váš souhlas.

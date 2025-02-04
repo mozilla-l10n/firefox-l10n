@@ -48,6 +48,9 @@ appmenu-update-restart-message2 =
         [with-cases] Nainstalujte si nejnovější verzi { -brand-shorter-name(case: "gen") }. O otevřené panely ani okna nepřijdete.
        *[no-cases] Nainstalujte si nejnovější verzi aplikace { -brand-shorter-name }. O otevřené panely ani okna nepřijdete.
     }
+appmenu-theme-installed =
+    .secondarybuttonlabel = Zpět
+    .secondarybuttonaccesskey = Z
 appmenu-update-other-instance =
     .label = { -brand-shorter-name } se nedokáže automaticky aktualizovat na nejnovější verzi.
     .buttonlabel =

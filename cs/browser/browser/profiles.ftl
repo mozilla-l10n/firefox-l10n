@@ -107,3 +107,15 @@ profiles-system-theme = Systémový
 
 ## Alternative text for default profile icons
 
+book-avatar-alt =
+    .alt = Kniha
+briefcase-avatar-alt =
+    .alt = Kufřík
+flower-avatar-alt =
+    .alt = Květina
+heart-avatar-alt =
+    .alt = Srdce
+shopping-avatar-alt =
+    .alt = Nákupní košík
+star-avatar-alt =
+    .alt = Hvězdička

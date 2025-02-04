@@ -84,6 +84,7 @@ split-dismiss-button-manage-settings-option-label = Spravovat nastavení
 
 sidebar-button-callout-title = Zobrazovat názvy panelů v postranní liště
 sidebar-button-callout-subtitle = Pomocí tlačítka postranního panelu rozbalte postranní panel, abyste viděli názvy panelů..
+sidebar-button-callout-vertical-tabs = Chcete-li zobrazit své panely, zvolte na panelu nástrojů tlačítko postranní lišty.
 
 ## Sidebar Callout Survey Strings
 
@@ -128,3 +129,8 @@ sidebar-genai-survey-satisfaction-question = Jak jste spokojeni s přístupem k 
 sidebar-genai-survey-productive-question =
     Do jaké míry souhlasíte nebo nesouhlasíte s tímto tvrzením:<br/>
     "Chatbot s umělou inteligencí v postranním panelu mi pomáhá být produktivnější"?
+unified-search-callout-title = Přepínejte mezi vyhledávači
+unified-search-callout-subtitle = Vyberte si, co je pro vaše konkrétní vyhledávání nejvhodnější.
+unified-search-callout-primary-label = Další
+unified-search-callout-secondary-label = Zavřít
+unified-search-engines-callout-title = Hledejte pomocí zkratky

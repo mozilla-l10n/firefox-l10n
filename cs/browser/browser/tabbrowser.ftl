@@ -294,6 +294,10 @@ tab-group-editor-color-selector2-gray = Šedivý
     .title = Šedivý
 tab-group-editor-color-selector2-red = Červená
     .title = Červená
+# Variables:
+#  $tabGroupName (String): The name of the tab group. Defaults to the value
+#                          of tab-group-name-default.
+tab-group-description = { $tabGroupName } — Skupina panelů
 tab-group-menu-header = Skupiny panelů
 tab-context-unnamed-group =
     .label = Nepojmenovaná skupina

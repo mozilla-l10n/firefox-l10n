@@ -31,6 +31,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Obnovit zavřené panely
         }
     .accesskey = b
+toolbar-context-turn-on-vertical-tabs =
+    .label = Zapnout svislé panely
+toolbar-context-turn-off-vertical-tabs =
+    .label = Vypnout svislé panely
+toolbar-context-customize-sidebar =
+    .label = Přizpůsobit postranní lištu
 toolbar-context-menu-manage-extension =
     .label = Nastavení tohoto rozšíření
     .accesskey = e
