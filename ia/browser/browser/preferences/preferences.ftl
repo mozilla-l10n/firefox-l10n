@@ -225,12 +225,16 @@ containers-remove-cancel-button = Non remover iste contentor
 settings-tabs-show-image-in-preview =
     .label = Monstrar un vista preliminar del imagine quando tu passa le mus sur un scheda
     .accessKey = n
+browser-layout-header = Mappa de navigator
 browser-layout-horizontal-tabs =
     .label = Schedas horizontal
+browser-layout-horizontal-tabs-desc = Monstrar al summitate del navigator
 browser-layout-vertical-tabs =
     .label = Schedas vertical
+browser-layout-vertical-tabs-desc = Monstrar al latere, in le barra lateral
 browser-layout-show-sidebar =
     .label = Monstrar barra lateral
+browser-layout-show-sidebar-desc = Rapidemente accede marcapaginas, schedas de tu telephono, robots confabulator IA, e altero sin exir de tu vista principal.
 
 ## General Section - Language & Appearance
 
@@ -1313,6 +1317,7 @@ permissions-addon-exceptions =
 collection-header = Collecta e uso de datos per { -brand-short-name }
 collection-header2 = Collecta e uso de datos per { -brand-short-name }
     .searchkeywords = telemetria
+preferences-collection-description = Nos nos effortia fornir te selectiones e colliger solo le minime datos necessari pro meliorar { -brand-product-name } pro totes.
 preferences-collection-privacy-notice = Vider le aviso de confidentialitate
 collection-description = Nos nos effortia pro lassar te in le commando e colliger solmente lo que nos ha necessitate pro provider e meliorar { -brand-short-name } a totes. Nos sempre demanda permission ante reciper informationes personal.
 collection-privacy-notice = Aviso de confidentialitate
@@ -1413,6 +1418,8 @@ space-alert-under-5gb-message2 = <strong>Le spatio de disco disponibile a { -bra
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Modo solo HTTPS
+httpsonly-description3 = Solo permitte connexiones secur a sitos web. { -brand-short-name } demandara ante connecter in maniera non secur.
+httpsonly-learn-more2 = Como functiona Solo-HTTPS
 httpsonly-description = HTTPS offere un connexion secur e cryptate inter { -brand-short-name } e le sitos web que tu visita. Le major parte del sitos web supporta le HTTPS, e si es activate Modo HTTPS-solo, alora { -brand-short-name } promovera tote le connexiones a HTTPS.
 httpsonly-description2 = { -brand-short-name } crea connexiones secur e cryptate al sitos que tu visita. Quando le modalitate sol HTTPS ex active, { -brand-short-name } ti avisara si un connexion non es secur.
 httpsonly-learn-more = Saper plus
@@ -1422,6 +1429,9 @@ httpsonly-radio-enabled2 =
     .label = Usar solo HTTPS in tote le fenestras
 httpsonly-radio-enabled-pbm =
     .label = Activar le Modo solo HTTPS in le fenestras private solmente
+httpsonly-radio-disabled3 =
+    .label = Non activar le modo Solo-HTTPS
+    .description = { -brand-short-name } pote ancora promover alcun connexiones
 httpsonly-radio-enabled-pbm2 =
     .label = Usar solo HTTPS in fenestras private
 httpsonly-radio-disabled =

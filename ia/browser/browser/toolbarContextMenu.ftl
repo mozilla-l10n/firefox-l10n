@@ -30,6 +30,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Reaperir schedas claudite
         }
     .accesskey = a
+toolbar-context-turn-on-vertical-tabs =
+    .label = Activar schedas vertical
+toolbar-context-turn-off-vertical-tabs =
+    .label = Disactivar schedas vertical
+toolbar-context-customize-sidebar =
+    .label = Personalisar barra lateral
 toolbar-context-menu-manage-extension =
     .label = Gerer extension
     .accesskey = E

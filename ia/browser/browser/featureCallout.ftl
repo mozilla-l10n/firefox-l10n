@@ -64,6 +64,7 @@ split-dismiss-button-manage-settings-option-label = Gerer parametros
 
 sidebar-button-callout-title = Monstrar titulos de scheda in le barra lateral
 sidebar-button-callout-subtitle = Usa le button del barra lateral pro expander le barra lateral, assi que tu pote vider le titulos de scheda.
+sidebar-button-callout-vertical-tabs = Pro monstrar tu schedas, selige le button del barra lateral in le barra del instrumentos.
 
 ## Sidebar Callout Survey Strings
 
@@ -94,5 +95,7 @@ unified-search-callout-title = Muta motores de recerca
 unified-search-callout-subtitle = Selige lo que functiona melio pro tu recerca specific.
 unified-search-callout-primary-label = Sequente
 unified-search-callout-secondary-label = Dimitter
+unified-search-engines-callout-title = Cerca con un via-breve
+unified-search-engines-callout-subtitle = Typa “@” sequite per un parola clave pro cercar tu chronologia, marcapaginas, schedas, o con un altere motor de recerca.
 unified-search-engines-callout-primary-label = Comprendite
 actions-callout-title = Completar cargas commun o acceder parametros basic
