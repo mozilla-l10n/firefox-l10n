@@ -296,3 +296,5 @@ appmenu-create-profile =
     .label = Profil baru
 appmenu-edit-profile =
     .aria-label = Sunting profil
+appmenu-profiles-2 =
+    .label = Profil
