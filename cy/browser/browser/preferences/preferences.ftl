@@ -237,6 +237,16 @@ containers-remove-cancel-button = Peidio Tynnu'r Cynhwysydd Hwn
 settings-tabs-show-image-in-preview =
     .label = Dangos ragolwg delwedd pan fyddwch chi'n hofran ar dab
     .accessKey = h
+browser-layout-header = Cynllun Porwr
+browser-layout-horizontal-tabs =
+    .label = Tabiau llorweddol
+browser-layout-horizontal-tabs-desc = Dangos ar frig y porwr
+browser-layout-vertical-tabs =
+    .label = Tabiau fertigol
+browser-layout-vertical-tabs-desc = Dangos ar yr ochr, yn y bar ochr
+browser-layout-show-sidebar =
+    .label = Dangos y bar ochr
+browser-layout-show-sidebar-desc = Cael mynediad cyflym at nodau tudalen, tabiau o'ch ffôn, sgwrsfotiau AI a mwy yn gyflym heb adael eich prif olwg.
 
 ## General Section - Language & Appearance
 
@@ -1323,17 +1333,40 @@ permissions-addon-exceptions =
 collection-header = Casglu Data a'r Defnydd o { -brand-short-name }
 collection-header2 = Casglu Data a'r Defnydd o { -brand-short-name }
     .searchkeywords = telemetreg
+preferences-collection-description = Rydym yn ymdrechu i roi i chi ddewisiadau a chasglu dim ond y lleiafswm data sydd ei angen i wella { -brand-product-name } i bawb.
+preferences-collection-privacy-notice = Gweld yr Hysbysiad Preifatrwydd
 collection-description = Rydym yn ceisio darparu dewisiadau i chi a chasglu dim ond beth sydd ei angen arnom i ddarparu a gwella { -brand-short-name } ar gyfer pawb. Rydym yn gofyn caniatâd bob tro cyn derbyn manylion personol.
 collection-privacy-notice = Hysbysiad Preifatrwydd
 collection-health-report-telemetry-disabled = Nid ydych bellach yn caniatáu i { -vendor-short-name } ddal data technegol a rhyngweithiol. Bydd holl ddata'r gorffennol yn cael ei ddileu cyn pen 30 diwrnod.
 collection-health-report-telemetry-disabled-link = Darllen rhagor
+collection-usage-ping =
+    .label = Anfon ping defnydd dyddiol at { -vendor-short-name }
+    .accesskey = A
+collection-usage-ping-description = Mae hyn yn helpu { -vendor-short-name } i amcangyfrif defnyddwyr gweithredol.
+collection-health-report2 =
+    .label = Anfon data technegol a rhyngweithio at { -vendor-short-name }
+    .accesskey = d
 collection-health-report =
     .label = Caniatáu i { -brand-short-name } anfon data technegol a rhyngweithio i { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Darllen rhagor
+collection-health-report-description = Mae hyn yn ein helpu i wella nodweddion, perfformiad a sefydlogrwydd { -brand-product-name }.
+collection-studies2 =
+    .label = Gosod a rhedeg astudiaethau
+collection-studies-description = Rhowch gynnig ar nodweddion a syniadau cyn iddyn nhw gael eu rhyddhau i bawb.
 collection-studies =
     .label = Caniatáu i { -brand-short-name } osod a rhedeg astudiaethau
 collection-studies-link = Gweld astudiaethau { -brand-short-name }
+addon-recommendations2 =
+    .label = Caniatáu argymhellion estyniadau personoledig
+addon-recommendations-description = Cael argymhellion estyniadau i wella'ch profiad pori.
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled2 = Mae adrodd ar ddata wedi'i analluogi ar gyfer y ffurfweddiad adeiladu hwn.
+collection-backlogged-crash-reports2 =
+    .label = Anfon adroddiadau chwalu'n awtomatig
+    .accesskey = c
+collection-backlogged-crash-reports-description = Mae hyn yn helpu { -vendor-short-name } i wneud diagnosis a thrwsio problemau gyda'r porwr. Gall adroddiadau gynnwys data personol neu sensitif.
 addon-recommendations =
     .label = Caniatáu i { -brand-short-name } wneud argymhellion personol am estyniadau
 addon-recommendations-link = Darllen rhagor
@@ -1401,6 +1434,8 @@ space-alert-under-5gb-message2 = <strong>Mae { -brand-short-name } yn brin o le 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Modd HTTPS-yn-Unig
+httpsonly-description3 = Dim ond yn caniatáu cysylltiadau diogel â gwefannau. Bydd { -brand-short-name } yn gofyn cyn cysylltu'n anniogel.
+httpsonly-learn-more2 = Sut mae HTTPS-yn Unig yn gweithio
 httpsonly-description = Mae HTTPS yn darparu cysylltiad diogel, wedi'i amgryptio rhwng  { -brand-short-name } a'r gwefannau rydych chi'n ymweld â nhw. Mae'r mwyafrif o wefannau yn cefnogi HTTPS, ac os yw Modd HTTPS-yn-Unig wedi'i alluogi, yna bydd { -brand-short-name } yn uwchraddio'r holl gysylltiadau â HTTPS.
 httpsonly-description2 = Mae { -brand-short-name } yn creu cysylltiadau diogel ac wedi'u hamgryptio i wefannau rydych yn ymweld â nhw. Bydd { -brand-short-name } yn eich rhybuddio os nad yw cysylltiad yn ddiogel pan fydd Dim-ond-HTTPS ymlaen.
 httpsonly-learn-more = Darllen rhagor

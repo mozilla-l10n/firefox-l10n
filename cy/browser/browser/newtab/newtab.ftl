@@ -487,3 +487,9 @@ newtab-section-cancel-button = Nid nawr
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Pynciau
+newtab-section-mangage-topics-button =
+    .label = Pynciau wedi'u dilyn a'u rhwystro
+newtab-section-mangage-topics-followed-topics-subtitle = Pynciau'n Cael eu Dilyn
+newtab-section-mangage-topics-followed-topics-empty-state = Nid ydych wedi dilyn unrhyw bynciau eto.
+newtab-section-mangage-topics-blocked-topics-subtitle = Pynciau wedi'u Rhwystro
+newtab-section-mangage-topics-blocked-topics-empty-state = Nid ydych wedi rhwystro unrhyw bynciau eto.
