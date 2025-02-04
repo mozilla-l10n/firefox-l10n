@@ -44,6 +44,8 @@ new-profile-page-input-placeholder =
 new-profile-page-done-button =
     .label = 편집 완료
 profile-window-title-2 = { -brand-short-name } - 프로필 선택
+profile-window-logo =
+    .alt = { -brand-short-name } 로고
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
@@ -95,3 +97,13 @@ profiles-system-theme = 시스템
 
 ## Alternative text for default profile icons
 
+book-avatar-alt =
+    .alt = 책
+briefcase-avatar-alt =
+    .alt = 서류 가방
+flower-avatar-alt =
+    .alt = 꽃
+heart-avatar-alt =
+    .alt = 하트
+shopping-avatar-alt =
+    .alt = 장바구니

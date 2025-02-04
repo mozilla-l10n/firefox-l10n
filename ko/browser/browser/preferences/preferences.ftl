@@ -222,6 +222,7 @@ browser-layout-vertical-tabs =
 browser-layout-vertical-tabs-desc = 사이드바의 측면에 표시
 browser-layout-show-sidebar =
     .label = 사이드바 표시
+browser-layout-show-sidebar-desc = 주 화면을 떠나지 않고 북마크, 휴대폰의 탭, AI 챗봇 등에 빠르게 접근하세요.
 
 ## General Section - Language & Appearance
 
@@ -1300,6 +1301,8 @@ permissions-addon-exceptions =
 collection-header = { -brand-short-name } 데이터 수집과 사용
 collection-header2 = { -brand-short-name } 데이터 수집과 사용
     .searchkeywords = 원격 분석
+preferences-collection-description = 우리는 사용자에게 선택권을 제공하고 모두를 위해 { -brand-product-name }를 개선하는 데 필요한 최소한의 데이터만 수집하기 위해 노력합니다.
+preferences-collection-privacy-notice = 개인정보처리방침 보기
 collection-description = 저희는 사용자에게 선택권을 제공하고 모두를 위해 { -brand-short-name }를 제공하고 개선하는 데 필요한 정보만 수집하기 위해 노력합니다. 개인정보를 전송하기 전에 항상 사용자의 동의를 구합니다.
 collection-privacy-notice = 개인정보 보호정책
 collection-health-report-telemetry-disabled = { -vendor-short-name }에서 더 이상 기술 및 상호 작용 데이터를 캡처할 수 없습니다. 모든 과거 데이터는 30일 이내에 삭제됩니다.
@@ -1399,6 +1402,8 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } 디스크 용량�
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = HTTPS 전용 모드
+httpsonly-description3 = 웹 사이트에 보안 연결만 허용합니다. { -brand-short-name }는 안전하지 않은 연결을 하기 전에 묻습니다.
+httpsonly-learn-more2 = HTTPS 전용 모드 작동 방식
 httpsonly-description = HTTPS는 { -brand-short-name }와 사용자가 방문한 웹 사이트 간에 안전한 암호화된 연결을 제공합니다. 대부분의 웹 사이트는 HTTPS를 지원하며, HTTPS 전용 모드를 사용하도록 설정한 경우 { -brand-short-name }는 모든 연결을 HTTPS로 업그레이드합니다.
 httpsonly-description2 = { -brand-short-name }는 사용자가 방문하는 사이트에 대해 안전하고 암호화된 연결을 생성합니다. { -brand-short-name }는 HTTPS 전용이 켜져 있을 때 연결이 안전하지 않으면 경고합니다.
 httpsonly-learn-more = 더 알아보기
@@ -1408,6 +1413,9 @@ httpsonly-radio-enabled2 =
     .label = 모든 창에서 HTTPS만 사용
 httpsonly-radio-enabled-pbm =
     .label = 사생활 보호 창에서만 HTTPS 전용 모드 사용
+httpsonly-radio-disabled3 =
+    .label = HTTPS 전용 모드 사용 안 함
+    .description = { -brand-short-name }는 여전히 ​​일부 연결을 업그레이드 할 수 있음
 httpsonly-radio-enabled-pbm2 =
     .label = 사생활 보호 창에서 HTTPS만 사용
 httpsonly-radio-disabled =
