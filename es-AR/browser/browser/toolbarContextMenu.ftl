@@ -30,6 +30,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Reabrir pestañas cerradas
         }
     .accesskey = b
+toolbar-context-turn-on-vertical-tabs =
+    .label = Habilitar pestañas verticales
+toolbar-context-turn-off-vertical-tabs =
+    .label = Deshabilitar pestañas verticales
+toolbar-context-customize-sidebar =
+    .label = Personalizar barra lateral
 toolbar-context-menu-manage-extension =
     .label = Administrar extensión
     .accesskey = E
