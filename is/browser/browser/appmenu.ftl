@@ -296,3 +296,5 @@ appmenu-create-profile =
     .label = Nýtt notkunarsnið
 appmenu-edit-profile =
     .aria-label = Breyta notkunarsniði
+appmenu-profiles-2 =
+    .label = Notkunarsnið
