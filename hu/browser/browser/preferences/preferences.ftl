@@ -234,6 +234,7 @@ browser-layout-vertical-tabs =
 browser-layout-vertical-tabs-desc = Megjelenítés oldalt, az oldalsávban
 browser-layout-show-sidebar =
     .label = Oldalsáv megjelenítése
+browser-layout-show-sidebar-desc = Érje el gyorsan a könyvjelzőket és a lapokat a telefonjáról, használjon MI csevegőbotokat, anélkül hogy elhagyná a fő nézetet.
 
 ## General Section - Language & Appearance
 
