@@ -296,3 +296,5 @@ appmenu-create-profile =
     .label = 新建配置文件
 appmenu-edit-profile =
     .aria-label = 编辑配置文件
+appmenu-profiles-2 =
+    .label = 配置文件
