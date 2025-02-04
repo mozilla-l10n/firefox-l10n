@@ -90,3 +90,6 @@ sidebar-callout-survey-submit = Inviar
 sidebar-callout-survey-thank-you = Gratias pro tu commentario!
 sidebar-genai-survey-satisfaction-question = Quanto es tu satisfacite de haber accesso a un robot confabulator IA in le barra lateral?
 sidebar-genai-survey-productive-question = In que mesura concorda tu o dissenti de iste declaration:<br/> “Le robot confabulator IA in le barra lateral me adjuta a esser plus productive”?
+unified-search-callout-primary-label = Sequente
+unified-search-callout-secondary-label = Dimitter
+unified-search-engines-callout-primary-label = Comprendite

@@ -225,6 +225,12 @@ containers-remove-cancel-button = Non remover iste contentor
 settings-tabs-show-image-in-preview =
     .label = Monstrar un vista preliminar del imagine quando tu passa le mus sur un scheda
     .accessKey = n
+browser-layout-horizontal-tabs =
+    .label = Schedas horizontal
+browser-layout-vertical-tabs =
+    .label = Schedas vertical
+browser-layout-show-sidebar =
+    .label = Monstrar barra lateral
 
 ## General Section - Language & Appearance
 
@@ -1307,6 +1313,7 @@ permissions-addon-exceptions =
 collection-header = Collecta e uso de datos per { -brand-short-name }
 collection-header2 = Collecta e uso de datos per { -brand-short-name }
     .searchkeywords = telemetria
+preferences-collection-privacy-notice = Vider le aviso de confidentialitate
 collection-description = Nos nos effortia pro lassar te in le commando e colliger solmente lo que nos ha necessitate pro provider e meliorar { -brand-short-name } a totes. Nos sempre demanda permission ante reciper informationes personal.
 collection-privacy-notice = Aviso de confidentialitate
 collection-health-report-telemetry-disabled = Tu non plus permitte que { -vendor-short-name } captura datos technic e de interaction. Tote le datos jam capturate essera delite intra 30 dies.
