@@ -24,7 +24,9 @@ update-applying = Nana jammina kesɗitinal…
 update-failed = Kesɗitingol jaccii. <label data-l10n-name="failed-link">Aawto yamre sakkitiinde ndee</label>
 update-failed-main = Kesɗitingol jaccii. <a data-l10n-name="failed-link-main">Aawto yamre sakkitiinde ndee</a>
 update-adminDisabled = Kesɗitine ɗe, jiiloowo yuɓɓo maa, ko o daaƴɗo ɗe
+update-policy-disabled = Kesɗitine ɗe ko daaƴaaɗe e gollorde ma.
 update-noUpdatesFound = { -brand-short-name } hesɗitii
+aboutdialog-update-checking-failed = Roŋkii yiilaade kesɗitine
 update-otherInstanceHandlingUpdates = { -brand-short-name } woni ko e hesɗitineede e cilol goɗngol
 
 ## Variables:

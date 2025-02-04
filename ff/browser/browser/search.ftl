@@ -35,3 +35,5 @@ searchbar-icon =
 ## Variables
 ## $engineName (String) - the name of the search engine to install.
 
+install-search-engine-add = Ɓeydu
+install-search-engine-no = Alaa
