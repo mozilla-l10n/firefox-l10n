@@ -221,6 +221,16 @@ containers-remove-cancel-button = 不移除此身份
 settings-tabs-show-image-in-preview =
     .label = 悬停在标签页的标签上时显示预览图
     .accessKey = h
+browser-layout-header = 浏览器布局
+browser-layout-horizontal-tabs =
+    .label = 水平标签页
+browser-layout-horizontal-tabs-desc = 在浏览器顶部显示
+browser-layout-vertical-tabs =
+    .label = 垂直标签页
+browser-layout-vertical-tabs-desc = 在侧栏中显示
+browser-layout-show-sidebar =
+    .label = 显示侧栏
+browser-layout-show-sidebar-desc = 快捷使用书签、手机上的标签页、AI 聊天机器人等内容，无需分心于其他界面。
 
 ## General Section - Language & Appearance
 
@@ -1299,6 +1309,8 @@ permissions-addon-exceptions =
 collection-header = { -brand-short-name } 数据收集与使用
 collection-header2 = { -brand-short-name } 数据收集与使用
     .searchkeywords = 遥测
+preferences-collection-description = 我们力图为您提供选择权，并保证只以最低限度收集为众人改进 { -brand-product-name } 所必需的信息。
+preferences-collection-privacy-notice = 查看隐私声明
 collection-description = 我们力图为您提供选择权，并保证只收集我们为众人提供和改进 { -brand-short-name } 所需的信息。我们仅在征得您的同意后接收个人信息。
 collection-privacy-notice = 隐私声明
 collection-health-report-telemetry-disabled = 您不再允许 { -vendor-short-name } 捕获技术和交互数据。过去收集的所有数据将在 30 天内删除。
@@ -1398,6 +1410,8 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } 运行所需的�
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = HTTPS-Only 模式
+httpsonly-description3 = 仅允许与网站进行安全连接。{ -brand-short-name } 将在进行不安全连接前询问。
+httpsonly-learn-more2 = HTTPS-Only 模式的运作原理
 httpsonly-description = HTTPS 可在 { -brand-short-name } 和您访问的网站之间提供安全、加密的连接。现今，大多数网站都支持 HTTPS，若选择启用 HTTPS-Only 模式，{ -brand-short-name } 将会升级所有连接为 HTTPS。
 httpsonly-description2 = { -brand-short-name } 会与您访问的网站创建安全的加密连接。HTTPS-Only 模式启用时，{ -brand-short-name } 会向您警示不安全连接。
 httpsonly-learn-more = 详细了解
@@ -1407,6 +1421,9 @@ httpsonly-radio-enabled2 =
     .label = 在所有窗口中都仅使用 HTTPS
 httpsonly-radio-enabled-pbm =
     .label = 仅在隐私窗口启用 HTTPS-Only 模式
+httpsonly-radio-disabled3 =
+    .label = 不启用 HTTPS-Only 模式
+    .description = { -brand-short-name } 可能仍会为某些连接进行升级
 httpsonly-radio-enabled-pbm2 =
     .label = 在隐私窗口中仅使用 HTTPS
 httpsonly-radio-disabled =

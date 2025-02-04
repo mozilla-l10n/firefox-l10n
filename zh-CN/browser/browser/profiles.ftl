@@ -44,6 +44,8 @@ new-profile-page-input-placeholder =
 new-profile-page-done-button =
     .label = 完成编辑
 profile-window-title-2 = { -brand-short-name } - 选择配置文件
+profile-window-logo =
+    .alt = { -brand-short-name } 徽标
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
@@ -95,3 +97,15 @@ profiles-system-theme = 系统
 
 ## Alternative text for default profile icons
 
+book-avatar-alt =
+    .alt = 书本
+briefcase-avatar-alt =
+    .alt = 公文包
+flower-avatar-alt =
+    .alt = 花朵
+heart-avatar-alt =
+    .alt = 爱心
+shopping-avatar-alt =
+    .alt = 购物车
+star-avatar-alt =
+    .alt = 星星

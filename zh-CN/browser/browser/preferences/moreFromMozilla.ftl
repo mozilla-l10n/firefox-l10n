@@ -11,6 +11,7 @@ more-from-moz-category =
 more-from-moz-subtitle = 更多致力于促进互联网健康发展的 { -vendor-short-name } 产品。
 more-from-moz-firefox-mobile-title = { -brand-product-name } 移动版
 more-from-moz-firefox-mobile-description = 隐私为先的移动浏览器。
+more-from-moz-firefox-mobile-title-1 = 移动版 { -brand-product-name }
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = 探索更进一步的匿名浏览和保护机制。
 more-from-moz-qr-code-box-firefox-mobile-title = 扫码后点按链接开始下载。
@@ -35,3 +36,6 @@ more-from-moz-mozilla-monitor-button = 使用 { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
+more-from-moz-solo-title = { -solo-ai-brand-name } AI
+more-from-moz-solo-description = 弹指间创建自己的网站，更可使用自己的域名。无需付费。
+more-from-moz-solo-button = 试用 { -solo-ai-brand-name }

@@ -64,6 +64,7 @@ split-dismiss-button-manage-settings-option-label = 管理设置
 
 sidebar-button-callout-title = 在侧栏中显示标签页标题
 sidebar-button-callout-subtitle = 使用侧栏按钮展开侧栏，即可查看标签页标题。
+sidebar-button-callout-vertical-tabs = 选择工具栏中的侧栏图标，即可显示标签页栏。
 
 ## Sidebar Callout Survey Strings
 
@@ -94,3 +95,19 @@ sidebar-genai-survey-satisfaction-question = 您对在侧栏中能够使用 AI �
 sidebar-genai-survey-productive-question =
     您在多大程度上赞同或反对此说法：<br/>
     “侧栏中的 AI 聊天机器人让我的浏览更高效”？
+unified-search-callout-title = 切换搜索引擎
+unified-search-callout-subtitle = 针对具体搜索内容，选择最合用的搜索引擎。
+unified-search-callout-primary-label = 下一步
+unified-search-callout-secondary-label = 关闭
+unified-search-engines-callout-title = 通过快捷方式搜索
+unified-search-engines-callout-subtitle = 键入“@” + 关键词，即可搜索历史记录、书签、标签页，或指定搜索引擎。
+unified-search-engines-callout-primary-label = 明白了
+actions-callout-title = 完成常用操作、进行基础设置
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearhistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = 键入操作名即可快速进行操作，例如：“打印页面”/“print”、“清除历史”/“clear”。
