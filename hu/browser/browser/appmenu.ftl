@@ -296,3 +296,5 @@ appmenu-create-profile =
     .label = Új profil
 appmenu-edit-profile =
     .aria-label = Profil szerkesztése
+appmenu-profiles-2 =
+    .label = Profilok
