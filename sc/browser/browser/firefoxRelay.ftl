@@ -56,21 +56,29 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 
 ## The "control" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-second-sentence-control = A primu, registra·ti o identìfica·ti cun su profilu tuo pro impreare un’alias de posta eletrònica
+firefox-relay-offer-legal-notice-control = Registrende·ti e creende un’alias de posta eletrònica, atzetas is <label data-l10n-name="tos-url">Cunditziones de servìtziu</label> e s’<label data-l10n-name="privacy-url">Avisu de riservadesa</label>.
 
 ## The "basic-info" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-basic-info = Èvita s’àliga cun un’alias de posta eletrònica a in donu
+firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = A primu, registra·ti o identìfica·ti cun su profilu tuo pro impreare un’alias de posta eletrònica
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = Registra·ti
     .accesskey = R
 
 ## The "with-domain" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain = Lea un’alias de posta eletrònica a in donu
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = A primu, registra·ti o identìfica·ti cun su profilu tuo pro impreare un’alias de posta eletrònica
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Registra·ti
     .accesskey = R
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Èvita s’àliga cun un’alias de posta eletrònica a in donu
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = A primu, registra·ti o identìfica·ti cun su profilu tuo pro impreare un’alias de posta eletrònica
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Imbeniente
     .accesskey = I

@@ -74,10 +74,13 @@ protections-panel-not-found-label = Non rilevadu
 
 ## Smartblock strings
 
+protections-panel-smartblock-desc-label = { -brand-short-name } blocat cuntenutu de sighidura mentres ses in custu situ, si no est chi ddu permitis.
 # Variables
 #  $trackername (String): the name of the tracker that is currently being blocked.
 protections-panel-smartblock-blocking-toggle =
     .label = Permite { $trackername }
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = Elementos de sighidura e cuntenutu de { $trackername } blocados.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = Permite in { $websitehost }
 

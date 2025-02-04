@@ -1311,21 +1311,34 @@ permissions-addon-exceptions =
 collection-header = Impreu e còllida de datos dae { -brand-short-name }
 collection-header2 = Impreu e collida de datos dae { -brand-short-name }
     .searchkeywords = telemetria
+preferences-collection-description = Nos impinnamus a ti donare sa possibilidade de seberare e regollimus isceti is datos mìnimos pro megiorare { -brand-product-name } pro totus.
 preferences-collection-privacy-notice = Bide s'avisu de riservadesa
 collection-description = Chircamus de ti garantire sèberos e de regòllere isceti su chi nos serbit pro sa frunidura e su megioru de { -brand-short-name } pro chie chi siat. Pedimus semper su permissu in antis de retzire informatziones personales.
 collection-privacy-notice = Avisu de riservadesa
 collection-health-report-telemetry-disabled = Non permitas prus a { -vendor-short-name } de caturare datos tècnicos e de interatzione. Totu is datos betzos ant a èssere cantzellados intro de 30 dies.
 collection-health-report-telemetry-disabled-link = Àteras informatziones
+collection-health-report2 =
+    .label = Imbia datos tècnicos e de interatzione a { -vendor-short-name }
+    .accesskey = r
 collection-health-report =
     .label = Permite chi { -brand-short-name } imbiet datos tècnicos e de interatzione a { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Àteras informatziones
+collection-health-report-description = Custu nos agiudat a megiorare is funtziones, su rendimentu e s’istabilidade de { -brand-product-name }.
+collection-studies-description = Proa funtziones e ideas in antis chi siant publicadas pro totus.
 collection-studies =
     .label = Permite a { -brand-short-name } de installare e aviare istùdios
 collection-studies-link = Ammustra is istùdios de { -brand-short-name }
+addon-recommendations2 =
+    .label = Permite cussìgios personalizados de estensiones
+addon-recommendations-description = Retzi cussìgios de estensiones pro megiorare s’esperièntzia tua de navigatzione.
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled2 = S’imbiu de datos est disativadu is sa cunfiguratzione de custa versione.
 collection-backlogged-crash-reports2 =
     .label = Imbia sinnalatziones de faddina in automàticu
     .accesskey = I
+collection-backlogged-crash-reports-description = Custu agiudat { -vendor-short-name } a agatare e arrangiare is faddinas de su navigadore. Is informes podent incluire datos personale o sensìbiles.
 addon-recommendations =
     .label = Permite chi { -brand-short-name } cussiget estensiones personalizadas
 addon-recommendations-link = Àteras informatziones
@@ -1346,6 +1359,9 @@ privacy-segmentation-radio-on =
 ## Privacy Section - Website Advertising Preferences
 
 website-advertising-header = Preferèntzias de publitzidade de su situ
+website-advertising-private-attribution =
+    .label = Permite a is sitos de fàghere mesuras pro publitzidade respetende sa riservadesa.
+    .accesskey = P
 
 ## Privacy Section - Security
 ##
