@@ -99,5 +99,15 @@ unified-search-callout-title = Arama motorları arasında geçiş yapın
 unified-search-callout-subtitle = Aradığınız şeye en uygun arama motorunu seçin.
 unified-search-callout-primary-label = İleri
 unified-search-callout-secondary-label = Kapat
+unified-search-engines-callout-title = Kısayolla arama yapın
+unified-search-engines-callout-subtitle = Geçmişinizde, yer imlerinizde, sekmelerinizde veya başka bir arama motoruyla arama yapmak için “@” yazdıktan sonra anahtar kelimenizi yazın.
 unified-search-engines-callout-primary-label = Anladım
 actions-callout-title = Sık kullanılan görevlere ve temel ayarlara erişin
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearhistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = Sayfa yazdırmak için “yazdır” yazmayı veya geçmişinizi temizlemek için “geçmiş” yazmayı deneyin.
