@@ -391,6 +391,10 @@ onboarding-new-tabs-title = On voleu que es mostrin les pestanyes?
 onboarding-new-tabs-subtitle = Podeu canviar-ho quan vulgueu en els paràmetres de la barra lateral.
 # Setup screen for vertical tabs - too many tabs variation
 onboarding-many-tabs-title = Trieu on voleu veure les pestanyes
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Teniu moltes pestanyes obertes? Simplifiqueu-ne la visualització col·locant-les al lateral. O manteniu l’estil clàssic amb les pestanyes a la part superior. Podeu canviar-ho en qualsevol moment.
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Trieu la disposició de les pestanyes
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Pestanyes al costat
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
