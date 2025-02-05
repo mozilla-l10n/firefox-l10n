@@ -50,6 +50,8 @@ sync-account-in-use-header = Kontoen er allereie i bruk
 #   $otherProfile (String) - Name of the other profile that is associated with the account
 sync-account-in-use-header-merge = { $acctEmail } er allereie logga på «{ $otherProfile }»-profilen
 sync-account-in-use-description = Du kan berre knyte denne kontoen til éin profil på denne datamaskina.
+# Dialog 2 - account signed in on another profile with merge option
+sync-account-already-signed-in-header = Denne kontoen er logga på ein annan profil. Vil du synkronisere begge profilane?
 # Variables:
 #   $profileName (String) - Name of the profile to switch to
 sync-button-switch-profile = Byt til "{ $profileName }"

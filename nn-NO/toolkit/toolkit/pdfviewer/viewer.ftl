@@ -496,6 +496,9 @@ pdfjs-editor-alt-text-settings-close-button = Lat att
 
 ## "Annotations removed" bar
 
+pdfjs-editor-undo-bar-message-freetext = Tekst fjerna
+pdfjs-editor-undo-bar-message-ink = Teikning fjerna
+pdfjs-editor-undo-bar-message-stamp = Bilde fjerna
 pdfjs-editor-undo-bar-undo-button =
     .title = Angre
 pdfjs-editor-undo-bar-undo-button-label = Angre
