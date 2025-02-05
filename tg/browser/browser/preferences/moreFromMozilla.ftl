@@ -37,4 +37,5 @@ more-from-moz-mozilla-monitor-button = Ба даст овардани «{ -monit
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
 more-from-moz-solo-title = Сеҳни сунъии «{ -solo-ai-brand-name } AI»
+more-from-moz-solo-description = Сомонаи худро зуд эҷод кунед ва номи домени фармоишии худро ройгнон пайваст намоед.
 more-from-moz-solo-button = «{ -solo-ai-brand-name }»-ро озмоед

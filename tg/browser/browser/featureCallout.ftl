@@ -103,3 +103,11 @@ unified-search-engines-callout-title = Ҷустуҷӯ ба воситаи миё
 unified-search-engines-callout-subtitle = Барои ҷустуҷӯи аниқ дар таърих, хатбаракҳо, варақаҳо ё барои ҷустуҷӯ бо низоми ҷустуҷӯии дигар, лутфан, аломати «@»-ро дар ҳамроҳӣ бо калимаи калидӣ ворид намоед.
 unified-search-engines-callout-primary-label = Фаҳмидам
 actions-callout-title = Вазифаҳои умумиро иҷро кунед ё ба танзимоти асосӣ дастрасӣ пайдо намоед
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearhistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = Кӯшиш кунед, ки номи амалеро ба мисли «чоп кардан» барои чоп кардани саҳифа ё «тоза кардан» барои тоза кардани таърихи тамошобинӣ нависед.
