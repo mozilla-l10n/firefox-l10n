@@ -234,6 +234,7 @@ browser-layout-vertical-tabs =
 browser-layout-vertical-tabs-desc = Намоиш дар паҳлуи браузер, дар навори ҷонибӣ
 browser-layout-show-sidebar =
     .label = Намоиш додани навори ҷонибӣ
+browser-layout-show-sidebar-desc = Аз саҳифаи асосии худ нарафта, ба хатбаракҳо, варақаҳо дар телефони худ, чат-боти зеҳни сунъӣ «AI» ва имкониятҳои дигар зуд дастрасӣ пайдо намоед.
 
 ## General Section - Language & Appearance
 
@@ -1315,6 +1316,7 @@ permissions-addon-exceptions =
 collection-header = Ҷамъоварӣ ва истифодаи маълумот аз ҷониби «{ -brand-short-name }»
 collection-header2 = Ҷамъоварӣ ва истифодабарии маълумоти «{ -brand-short-name }»
     .searchkeywords = телеметрия
+preferences-collection-description = Мо cаъю кӯшиш мекунем, ки ба шумо имконияти интихобро таъмин намоем ва танҳо он маълумоти камтаринеро ҷамъ мекунем, ки барои беҳтар кардани «{ -brand-product-name }» барои ҳамаи мо лозим мешавад.
 preferences-collection-privacy-notice = Намоиш додани «Огоҳномаи махфият»
 collection-description = Мо мекӯшем, ки ба шумо имконотро пешниҳод намоем ва танҳо он чизеро ҷамъ кунем, ки барои таъмин ва такмил додани «{ -brand-short-name }» барои ҳамаи мо лозим мебошад. Мо ҳамеша пеш аз гирифтани маълумоти шахсӣ иҷозат мепурсем.
 collection-privacy-notice = Огоҳномаи махфият
