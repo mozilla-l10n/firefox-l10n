@@ -94,3 +94,6 @@ sidebar-genai-survey-satisfaction-question = Kor fornøgd er du med å ha tilgan
 sidebar-genai-survey-productive-question =
     I kva grad er du samd eller usamd i denne påstanden:<br/>
     "AI-chatboten i sidestolpen hjelper meg å bli meir produktiv"?
+unified-search-callout-primary-label = Neste
+unified-search-callout-secondary-label = Ignorer
+unified-search-engines-callout-primary-label = Eg forstår

@@ -386,6 +386,8 @@ onboarding-new-user-survey-familiarity-based-option-4 = Eg brukte den tidlegare,
 
 # Setup screen for vertical tabs
 onboarding-new-tabs-title = Fortel oss kvar du vil ha fanene dine
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Vel faneoppsett
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Faner på sida
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
