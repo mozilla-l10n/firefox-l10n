@@ -188,6 +188,8 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] Fixa el { -brand-short-name } al Dock
        *[other] Fixa el { -brand-short-name } a la barra de tasques
     }
+# Primary button string used on welcome page for when Firefox is not pinned on MSIX
+mr2022-onboarding-pin-primary-button-label-msix = Fixa el { -brand-short-name } a la barra de tasques i al menú d'inici
 # Subtitle will be used when user already has Firefox pinned, but
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
@@ -348,6 +350,7 @@ onboarding-easy-setup-security-and-privacy-title = Ens encanta mantenir-vos segu
 onboarding-easy-setup-security-and-privacy-subtitle = El nostre navegador sense ànim de lucre ajuda a blocar automàticament les empreses que, en secret, us fan el seguiment mentre navegueu.
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = Manteniu-vos protegit amb el xifratge quan passeu d'un dispositiu a un altre
+onboarding-mobile-download-security-and-privacy-subtitle = Quan activeu la sincronització, el { -brand-short-name } xifra les vostres contrasenyes i les adreces d'interès, entre d'altres. A més, podeu recuperar les pestanyes obertes en altres dispositius.
 onboarding-gratitude-security-and-privacy-subtitle = Gràcies per utilitzar el { -brand-short-name }, amb el suport de la Fundació Mozilla. Amb el vostre suport, estem treballant per fer que Internet sigui més segura i accessible per a tothom.
 # Sign up or Sign in screen
 onboarding-sign-up-title = Sincronitzeu les vostres dades entre dispositius
