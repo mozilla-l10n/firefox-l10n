@@ -395,16 +395,18 @@ onboarding-many-tabs-title = Trieu on voleu veure les pestanyes
 onboarding-many-tabs-subtitle = Teniu moltes pestanyes obertes? Simplifiqueu-ne la visualització col·locant-les al lateral. O manteniu l’estil clàssic amb les pestanyes a la part superior. Podeu canviar-ho en qualsevol moment.
 # Setup screen for vertical tabs - focused variation
 onboarding-focused-tabs-title = Trieu la disposició de les pestanyes
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Proveu les pestanyes laterals per simplificar la visualització i ajudar a concentrar-vos. O manteniu l’estil clàssic amb les pestanyes a la part superior. Podeu canviar-ho en qualsevol moment.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
-onboarding-new-vertical-tabs-label = Pestanyes al costat
+onboarding-new-vertical-tabs-label = Pestanyes laterals
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
-onboarding-new-horizontal-tabs-label = Pestanyes a la part superior
+onboarding-new-horizontal-tabs-label = Pestanyes al capdamunt
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title = Les pestanyes verticals ja són aquí
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title2 = Us presentem les pestanyes verticals
 # Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
-onboarding-existing-tabs-subtitle = Proveu les pestanyes al costat. Podeu canviar-ho quan vulgueu en els paràmetres de la barra lateral.
+onboarding-existing-tabs-subtitle = Proveu les pestanyes laterals. Podeu canviar-ho quan vulgueu en els paràmetres de la barra lateral.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-existing-vertical-tabs-label = Proveu les pestanyes verticals
 onboarding-flair-text = Novetat
