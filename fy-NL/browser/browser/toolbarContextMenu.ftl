@@ -30,6 +30,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Sluten ljepblêden opnij iepenje
         }
     .accesskey = o
+toolbar-context-turn-on-vertical-tabs =
+    .label = Fertikale ljepblêden ynskeakelje
+toolbar-context-turn-off-vertical-tabs =
+    .label = Fertikale ljepblêden útskeakelje
+toolbar-context-customize-sidebar =
+    .label = Sidebalke oanpasse
 toolbar-context-menu-manage-extension =
     .label = Utwreiding beheare
     .accesskey = U

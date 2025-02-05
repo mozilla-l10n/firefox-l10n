@@ -44,6 +44,8 @@ new-profile-page-input-placeholder =
 new-profile-page-done-button =
     .label = Bewurkjen foltôge
 profile-window-title-2 = { -brand-short-name } – Profyl kieze
+profile-window-logo =
+    .alt = { -brand-short-name }-logo
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
@@ -95,3 +97,15 @@ profiles-system-theme = Systeem
 
 ## Alternative text for default profile icons
 
+book-avatar-alt =
+    .alt = Boek
+briefcase-avatar-alt =
+    .alt = Wurkmap
+flower-avatar-alt =
+    .alt = Blom
+heart-avatar-alt =
+    .alt = Hert
+shopping-avatar-alt =
+    .alt = Winkelwein
+star-avatar-alt =
+    .alt = Stjer

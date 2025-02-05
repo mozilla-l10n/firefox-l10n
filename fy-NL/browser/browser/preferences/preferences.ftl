@@ -225,6 +225,16 @@ containers-remove-cancel-button = Dizze kontener net fuortsmite
 settings-tabs-show-image-in-preview =
     .label = In ôfbyldingsfoarbyld toane as jo in ljepblêd oanwize
     .accessKey = w
+browser-layout-header = Browseryndieling
+browser-layout-horizontal-tabs =
+    .label = Horizontale ljepblêden
+browser-layout-horizontal-tabs-desc = Boppe-oan yn browser toane
+browser-layout-vertical-tabs =
+    .label = Fertikale ljepblêden
+browser-layout-vertical-tabs-desc = Oan de sydkant, yn de sidebalke toane
+browser-layout-show-sidebar =
+    .label = Sidebalke toane
+browser-layout-show-sidebar-desc = Benaderje fluch blêdwizers, ljepblêden fan jo telefoan, AI-chatbots en mear sûnder jo haadfinster te ferlitten.
 
 ## General Section - Language & Appearance
 
@@ -1307,6 +1317,8 @@ permissions-addon-exceptions =
 collection-header = Gegevenssamling en gebrûk fan { -brand-short-name }
 collection-header2 = { -brand-short-name }-gegevenssamling en -gebrûk
     .searchkeywords = telemetry
+preferences-collection-description = Wy stribje dernei om jo kar te jaan en allinnich de minimale gegevens te sammeljen dy’t nedich binne om { -brand-product-name } foar elkenien te ferbetterjen.
+preferences-collection-privacy-notice = Privacyferklearring besjen
 collection-description = Wy stribje dernei jo kar te bieden en allinnich te sammeljen wat wy nedich hawwe om { -brand-short-name } foar elkenien beskikber te meitsjen en te ferbetterjen. Wy freegje altyd tastimming eardat wy persoanlike gegevens ûntfange.
 collection-privacy-notice = Privacyferklearring
 collection-health-report-telemetry-disabled = Jo steane { -vendor-short-name } net langer ta technyske en ynteraksjegegevens fêst te lizzen. Alle eardere gegevens wurde binnen 30 dagen fuortsmiten.
@@ -1406,6 +1418,8 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } hat hast gjin ski
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Allinnich-HTTPS-modus
+httpsonly-description3 = Stiet allinnich befeilige ferbiningen mei websites ta. { -brand-short-name } sil freegje eardat in ûnfeilige ferbining makke wurdt.
+httpsonly-learn-more2 = Hoe Allinnich-HTTPS wurket
 httpsonly-description = HTTPS biedt in feilige, fersifere ferbining tusken { -brand-short-name } en de troch jo besochte websites. De measte websites stypje HTTPS en as de Allinnich-HTTPS-modus ynskeakele is, sil { -brand-short-name } alle ferbiningen fernije nei HTTPS.
 httpsonly-description2 = { -brand-short-name } makket feilige en fersifere ferbiningen mei websites dy’t jo besykje. { -brand-short-name } warskôget jo as in ferbining net feilich is wannear Allinnich-HTTPS ynskeakele is.
 httpsonly-learn-more = Mear ynfo
@@ -1415,6 +1429,9 @@ httpsonly-radio-enabled2 =
     .label = Allinnich HTTPS yn alle finsters brûke
 httpsonly-radio-enabled-pbm =
     .label = Allinnich-HTTPS-modus yn alle priveefinsters ynskeakelje
+httpsonly-radio-disabled3 =
+    .label = Allinnich-HTTPS-modus net ynskeakelje
+    .description = { -brand-short-name } kin noch hieltyd guon ferbiningen opwurdearje
 httpsonly-radio-enabled-pbm2 =
     .label = Allinnich HTTPS yn priveefinsters brûke
 httpsonly-radio-disabled =
