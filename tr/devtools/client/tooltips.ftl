@@ -47,6 +47,7 @@ inactive-css-property-is-impossible-to-override-in-visited = <strong>:visited</s
 inactive-css-position-property-on-unpositioned-box = Bu elemanın pozisyonu olmadığı için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
 inactive-css-only-replaced-elements = Yalnızca değiştirilen elemanlara uygulanabileceği için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
 inactive-text-overflow-when-no-overflow = <strong>overflow:hidden</strong> ayarlanmadığı için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
+inactive-css-no-size-containment = Bu elemanın “size” sınırlaması olmadığı için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong>, iç tablo elemanlarını etkilemez.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong>, tablo hücreleri dışında hiçbir iç tablo elemanını etkilemez.
 inactive-css-not-table = Bu eleman bir tablo olmadığı için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
