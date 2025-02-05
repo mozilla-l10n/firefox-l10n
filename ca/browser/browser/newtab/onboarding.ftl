@@ -361,13 +361,17 @@ onboarding-gratitude-security-and-privacy-subtitle = Gràcies per utilitzar el {
 # Sign up or Sign in screen
 onboarding-sign-up-title = Sincronitzeu les vostres dades entre dispositius
 onboarding-sign-up-description = Creeu un compte i tota la vostra informació important (contrasenyes, adreces d’interès i altres) s’emmagatzemarà de manera segura i estarà disponible quan inicieu la sessió en qualsevol dispositiu.
+onboarding-sign-up-button = Inici de sessió o registre
 onboarding-sign-up-secondary-button = Comença a navegar
 
 ## New user time and familiarity survey strings
 
 onboarding-new-user-time-based-survey-title = Quant temps fa que feu servir el { -brand-short-name }?
+onboarding-new-user-familiarity-based-survey-title = Quin grau de familiaritat teniu amb el { -brand-short-name }?
+onboarding-new-user-survey-subtitle = Els vostres comentaris ajuden a millorar el { -brand-short-name }.
 # When translating "next" it means the next screen in onboarding.
 onboarding-new-user-survey-next-button-label = Següent
+onboarding-new-user-survey-legal-link-label = En seleccionar «{ onboarding-new-user-survey-next-button-label }», accepteu l’<a data-l10n-name="privacy_notice">avís de privadesa</a> del { -brand-product-name }.
 
 ## UI strings for the sidebar and vertical tabs
 
