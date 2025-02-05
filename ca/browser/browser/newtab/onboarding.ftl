@@ -300,7 +300,7 @@ mr2022-onboarding-privacy-segmentation-button-secondary-label = Mostra informaci
 ## MR2022 Multistage Gratitude screen strings
 
 mr2022-onboarding-gratitude-title = Ens esteu ajudant a crear un web millor
-mr2022-onboarding-gratitude-subtitle = Gràcies per utilitzar el { -brand-short-name }, amb el suport de la Fundació Mozilla. Amb el vostre suport, estem treballant per fer que Internet sigui més oberta, accessible i millor per a tothom.
+mr2022-onboarding-gratitude-subtitle = Gràcies per utilitzar el { -brand-short-name }, amb el suport de la Fundació Mozilla. Amb el vostre suport, treballem per fer que Internet sigui més oberta, accessible i millor per a tothom.
 mr2022-onboarding-gratitude-primary-button-label = Descobriu les novetats
 mr2022-onboarding-gratitude-secondary-button-label = Comença a navegar
 
@@ -342,6 +342,10 @@ onboarding-device-migration-primary-button-label = Inicia la sessió
 ## Add-ons Picker screen
 
 amo-picker-title = Personalitzeu el { -brand-short-name }
+amo-picker-subtitle = Les extensions són com aplicacions per al navegador i us permeten protegir contrasenyes, baixar vídeos, trobar ofertes, blocar la publicitat molesta, canviar l'aspecte del navegador i molt més.
+amo-picker-install-button-label = Afegeix al { -brand-short-name }
+amo-picker-install-complete-label = Instal·lat
+amo-picker-collection-link = Exploreu més complements
 
 ## The following screens have been updated to use security and privacy focused strings:
 
@@ -351,7 +355,7 @@ onboarding-easy-setup-security-and-privacy-subtitle = El nostre navegador sense 
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = Manteniu-vos protegit amb el xifratge quan passeu d'un dispositiu a un altre
 onboarding-mobile-download-security-and-privacy-subtitle = Quan activeu la sincronització, el { -brand-short-name } xifra les vostres contrasenyes i les adreces d'interès, entre d'altres. A més, podeu recuperar les pestanyes obertes en altres dispositius.
-onboarding-gratitude-security-and-privacy-subtitle = Gràcies per utilitzar el { -brand-short-name }, amb el suport de la Fundació Mozilla. Amb el vostre suport, estem treballant per fer que Internet sigui més segura i accessible per a tothom.
+onboarding-gratitude-security-and-privacy-subtitle = Gràcies per utilitzar el { -brand-short-name }, amb el suport de la Fundació Mozilla. Amb el vostre suport, treballem per fer que Internet sigui més segura i accessible per a tothom.
 # Sign up or Sign in screen
 onboarding-sign-up-title = Sincronitzeu les vostres dades entre dispositius
 onboarding-sign-up-secondary-button = Comença a navegar
