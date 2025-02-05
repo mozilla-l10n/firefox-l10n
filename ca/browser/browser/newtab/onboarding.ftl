@@ -387,10 +387,20 @@ onboarding-new-user-survey-familiarity-based-option-4 = L’he utilitzat abans, 
 
 # Setup screen for vertical tabs
 onboarding-new-tabs-title = On voleu que es mostrin les pestanyes?
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = Podeu canviar-ho quan vulgueu en els paràmetres de la barra lateral.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Trieu on voleu de les pestanyes
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-new-vertical-tabs-label = Pestanyes al costat
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-new-horizontal-tabs-label = Pestanyes a la part superior
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title = Les pestanyes verticals ja són aquí
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title2 = Us presentem les pestanyes verticals
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Proveu les pestanyes al costat. Podeu canviar-ho quan vulgueu en els paràmetres de la barra lateral.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-existing-vertical-tabs-label = Proveu les pestanyes verticals
 onboarding-flair-text = Novetat
