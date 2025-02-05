@@ -4,6 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = Nodau Tudalen
+sidebar-menu-bookmarks-2 = Nodau Tudalen
 sidebar-menu-history =
     .label = Hanes
 sidebar-menu-synced-tabs =

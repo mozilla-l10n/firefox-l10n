@@ -102,6 +102,13 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = Dad-dewi tab
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = Tewi tab
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = Chwarae tab
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -247,6 +254,18 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Dad-dewi tab
 tabbrowser-manager-close-tab =
     .tooltiptext = Cau tab
+# This is for tab groups that have been "saved and closed" (see tab-group-editor-action-save). It does
+# not include "deleted" tab groups (see tab-group-editor-action-delete).
+tabbrowser-manager-closed-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — Caewyd
+tabbrowser-manager-current-window-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — Y ffenestr gyfredol
+# "Show more" is for showing all open groups from other windows, as well as saved groups. Initially,
+# we only show up to six of these groups.
+tabbrowser-manager-tab-groups-show-more =
+    .label = Dangos rhagor
 
 ## Tab Groups
 
@@ -258,6 +277,20 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Diddymu
     .accesskey = D
+tab-group-editor-color-selector =
+    .aria-label = Lliw grŵp tab
+tab-group-editor-color-selector2-blue = Glas
+    .title = Glas
+tab-group-editor-color-selector2-purple = Porffor
+    .title = Porffor
+tab-group-editor-color-selector2-cyan = Gwyrddlas
+    .title = Gwyrddlas
+tab-group-editor-color-selector2-orange = Oren
+    .title = Oren
+tab-group-editor-color-selector2-yellow = Melyn
+    .title = Melyn
+tab-group-editor-color-selector2-pink = Pinc
+    .title = Pinc
 tab-group-editor-color-selector2-green = Gwyrdd
     .title = Gwyrdd
 tab-group-editor-color-selector2-gray = Llwyd

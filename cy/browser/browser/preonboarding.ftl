@@ -24,6 +24,6 @@ preonboarding-privacy-notice-header-button-title-b = Hysbysiad Preifatrwydd { -b
 preonboarding-header-button-description = Darllen Rhagor
 # New user onboarding checklist
 preonboarding-checklist-interaction-data-label = Anfon data technegol a rhyngweithio at { -vendor-short-name }
-preonboarding-checklist-interaction-data-description = Mae data am eich dyfais, ffurfweddiad caledwedd, a sut rydych yn defnyddio { -brand-product-name } yn helpu i wella nodweddion, perfformiad a sefydlogrwydd ar gyfer defnyddwyr ym mhobman.
+preonboarding-checklist-interaction-data-description = Mae data am eich dyfais, ffurfweddiad caledwedd a sut rydych yn defnyddio { -brand-product-name } yn helpu i wella nodweddion, perfformiad a sefydlogrwydd ar gyfer defnyddwyr ym mhobman.
 preonboarding-checklist-crash-reports-label = Anfon adroddiadau chwalu'n awtomatig
 preonboarding-checklist-crash-reports-description = Mae adroddiadau chwalu'n ein galluogi i wneud diagnosis a thrwsio problemau gyda'r porwr. Gall adroddiadau gynnwys data personol neu sensitif.

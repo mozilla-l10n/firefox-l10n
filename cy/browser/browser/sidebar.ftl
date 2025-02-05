@@ -50,6 +50,14 @@ sidebar-position-right =
     .label = Dangos ar y dde
 sidebar-vertical-tabs =
     .label = Tabiau fertigol
+sidebar-settings =
+    .label = Gosodiadau bar ochr
+sidebar-hide-tabs-and-sidebar =
+    .label = Cuddio tabiau a bar ochr
+sidebar-show-on-the-right =
+    .label = Symud y bar ochr i'r dde
+sidebar-show-on-the-left =
+    .label = Symud y bar ochr i'r chwith
 sidebar-horizontal-tabs =
     .label = Tabiau llorweddol
 sidebar-customize-tabs-header =
@@ -130,6 +138,10 @@ sidebar-menu-close-ai-chatbot-tooltip = Cau sgwrsfot AI
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
+sidebar-menu-open-ai-chatbot-tooltip-generic = Agor sgwrsfot AI ( { $shortcut })
+sidebar-menu-open-ai-chatbot-provider-tooltip = Agor { $provider } ( { $shortcut } )
+sidebar-menu-close-ai-chatbot-tooltip-generic = Cau sgwrsfot AI ( { $shortcut })
+sidebar-menu-close-ai-chatbot-provider-tooltip = Cau { $provider } ( { $shortcut } )
 
 ## Headings for sidebar menu panels.
 
@@ -139,6 +151,8 @@ sidebar-menu-history-header =
     .heading = Hanes
 sidebar-menu-syncedtabs-header =
     .heading = Tabiau o ddyfeisiau eraill
+sidebar-menu-bookmarks-header =
+    .heading = Nodau Tudalen
 sidebar-panel-header-close-button =
     .tooltiptext = Cau
 
