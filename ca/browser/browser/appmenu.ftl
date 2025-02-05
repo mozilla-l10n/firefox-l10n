@@ -280,8 +280,11 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Obteniu alertes sobre filtracions de dades
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Emmascareu el vostre correu electrònic i telèfon reals
+appmenuitem-services-relay-description = Obre el tauler de màscares d’adreça electrònica
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Protegiu la vostra activitat a la xarxa
+appmenu-services-header = Els meus serveis
+appmenu-other-protection-header = Proveu altres eines de protecció de { -vendor-short-name }:
 
 ## Profiles panel
 
