@@ -63,12 +63,18 @@ split-dismiss-button-manage-settings-option-label = ຈັດການການ�
 ## Sidebar Strings
 
 sidebar-button-callout-title = ສະແດງຊື່ແຖບໃນແຖບດ້ານຂ້າງ
+sidebar-button-callout-vertical-tabs = ເພື່ອສະແດງແຖບຂອງທ່ານ, ເລືອກປຸ່ມແຖບດ້ານຂ້າງໃນແຖບເຄື່ອງມື.
 
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = ຊ່ວຍປັບປຸງ { -brand-short-name }
+sidebar-callout-survey-satisfaction-question = ທ່ານພໍໃຈກັບປະສົບການແຖບດ້ານຂ້າງໃນ { -brand-short-name } ຫຼາຍປານໃດ?
+sidebar-callout-survey-very-satisfied = ພໍໃຈຫຼາຍ
+sidebar-callout-survey-satisfied = ພໍໃຈ
+sidebar-callout-survey-neutral = ເປັນກາງ
 sidebar-callout-survey-dissatisfied-2 = ບໍ່ພໍໃຈ
 sidebar-callout-survey-very-dissatisfied-2 = ບໍ່ພໍໃຈຫຼາຍ
+sidebar-callout-survey-dont-use-it = ຂ້ອຍບໍ່ໃຊ້ມັນ
 sidebar-callout-survey-agree = ເຫັນດີ
 sidebar-callout-survey-disagree = ບໍ່ເຫັນດີ
 sidebar-callout-survey-strongly-disagree = ຄັດຄ້ານຢ່າງແຮງ
