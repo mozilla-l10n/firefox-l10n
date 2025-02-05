@@ -6,7 +6,7 @@ certificate-viewer-certificate-section-title = Certificato
 
 ## Error messages
 
-certificate-viewer-error-message = Non è stato possibile trovare informazioni sul certificato oppure il certificato è danneggiato. Riprovare.
+certificate-viewer-error-message = Non è stato possibile trovare informazioni sul certificato oppure il certificato è danneggiato. Riprova.
 certificate-viewer-error-title = Si è verificato un problema
 
 ## Certificate information labels
