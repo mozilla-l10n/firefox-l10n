@@ -355,9 +355,12 @@ onboarding-easy-setup-security-and-privacy-subtitle = El nostre navegador sense 
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = Manteniu-vos protegit amb el xifratge quan passeu d'un dispositiu a un altre
 onboarding-mobile-download-security-and-privacy-subtitle = Quan activeu la sincronització, el { -brand-short-name } xifra les vostres contrasenyes i les adreces d'interès, entre d'altres. A més, podeu recuperar les pestanyes obertes en altres dispositius.
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = El { -brand-short-name } està de part vostra
 onboarding-gratitude-security-and-privacy-subtitle = Gràcies per utilitzar el { -brand-short-name }, amb el suport de la Fundació Mozilla. Amb el vostre suport, treballem per fer que Internet sigui més segura i accessible per a tothom.
 # Sign up or Sign in screen
 onboarding-sign-up-title = Sincronitzeu les vostres dades entre dispositius
+onboarding-sign-up-description = Creeu un compte i tota la vostra informació important (contrasenyes, adreces d’interès i altres) s’emmagatzemarà de manera segura i estarà disponible quan inicieu la sessió en qualsevol dispositiu.
 onboarding-sign-up-secondary-button = Comença a navegar
 
 ## New user time and familiarity survey strings
