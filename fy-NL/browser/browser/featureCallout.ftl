@@ -64,6 +64,7 @@ split-dismiss-button-manage-settings-option-label = Ynstellingen beheare
 
 sidebar-button-callout-title = Ljepblêdtitels yn de sydbalke toane
 sidebar-button-callout-subtitle = Brûk de sydbalkeknop om de sydbalke út te klappen, sadat jo ljepblêdtitels sjen kinne.
+sidebar-button-callout-vertical-tabs = Selektearje de sydbalkeknop yn de arkbalke om jo ljepblêden te toanen.
 
 ## Sidebar Callout Survey Strings
 
@@ -94,3 +95,19 @@ sidebar-genai-survey-satisfaction-question = Hoe tefreden binne jo mei tagong ta
 sidebar-genai-survey-productive-question =
     Yn hoefier binne jo it iens of net iens mei dizze stelling:<br/>
     ‘De AI-chatbot yn de sidebalke helpt my produktiver te wêzen’?
+unified-search-callout-title = Wikselje tusken sykmasinen
+unified-search-callout-subtitle = Kies wat it bêste wurket foar jo spesifike sykopdracht.
+unified-search-callout-primary-label = Folgjende
+unified-search-callout-secondary-label = Slute
+unified-search-engines-callout-title = Sykje mei in fluchkeppeling
+unified-search-engines-callout-subtitle = Typ ‘@’, folge troch in trefwurd om jo skiednis, blêdwizers, ljepblêden of mei in oare sykmasine troch te sykjen.
+unified-search-engines-callout-primary-label = Begrepen
+actions-callout-title = Algemiene taken útfiere of basisynstellingen benaderje
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearhistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = Typ in aksje lykas ‘ôfdrukke’ om in side ôf te drukken, of ‘wiskje’ om jo skiednis te wiskjen.

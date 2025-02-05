@@ -11,6 +11,7 @@ more-from-moz-category =
 more-from-moz-subtitle = Besjoch oare { -vendor-short-name }-produkten dy’t in sûn ynternet stypje.
 more-from-moz-firefox-mobile-title = { -brand-product-name } Mobyl
 more-from-moz-firefox-mobile-description = De mobile browser dy’t jo privacy foarop stelt.
+more-from-moz-firefox-mobile-title-1 = { -brand-product-name } foar Mobyl
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Untdek in ekstra laach fan anonym navigearjen en beskerming.
 more-from-moz-qr-code-box-firefox-mobile-title = Downloade mei jo mobile apparaat. Rjochtsje jo kamera op de QR-koade. As der in keppeling ferskynt, tikke jo dêrop.
@@ -35,3 +36,4 @@ more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name } downloade
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
+more-from-moz-solo-title = { -solo-ai-brand-name }-AI
