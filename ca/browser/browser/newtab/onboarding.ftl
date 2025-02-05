@@ -410,6 +410,20 @@ onboarding-existing-tabs-subtitle = Proveu les pestanyes laterals. Podeu canviar
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-existing-vertical-tabs-label = Proveu les pestanyes verticals
 onboarding-flair-text = Novetat
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Mantingueu les pestanyes horitzontals
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = Una finestra del navegador que mostra les pestanyes al costat de la pantalla com a part de la barra lateral del { -brand-shorter-name }.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = Una finestra del navegador que mostra les pestanyes al costat de la pantalla com a part de la barra lateral del { -brand-shorter-name }.
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Una finestra del navegador que mostra les pestanyes a la part superior.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = Una finestra del navegador que mostra les pestanyes a la part superior.
 onboarding-genai-sidebar-secondary-button = Comença a navegar
 
 ## New user onboarding checklist
