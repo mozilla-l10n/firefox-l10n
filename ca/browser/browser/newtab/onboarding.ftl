@@ -444,6 +444,12 @@ onboarding-checklist-sign-up = Creeu un compte o inicieu la sessió
 ## Tab Groups feature onboarding strings
 
 tab-groups-onboarding-feature-callout-title = Els grups de pestanyes milloren l’organització i la concentració
+tab-groups-onboarding-feature-callout-subtitle = Arrossegueu una pestanya sobre una altra per crear el vostre primer grup.
+tab-groups-onboarding-saved-groups-title = Si tanqueu un grup de pestanyes, podeu tornar a obrir-lo des d’aquí en qualsevol moment.
+tab-groups-onboarding-dismiss = D'acord
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-title = Doneu la benvinguda als perfils del { -brand-product-name }
+multi-profile-spotlight-body = Canvieu fàcilment entre la navegació per feina i per diversió. Els perfils mantenen totalment separada la vostra informació de navegació (inclosos l’historial de cerca i les contrasenyes), perquè pugueu tenir-ho tot organitzat.
+multi-profile-spotlight-cta = Crea un perfil
