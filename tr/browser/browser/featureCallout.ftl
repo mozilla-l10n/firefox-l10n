@@ -95,6 +95,9 @@ sidebar-genai-survey-satisfaction-question = Kenar çubuğundan bir yapay zekâ 
 sidebar-genai-survey-productive-question =
     Aşağıdaki ifadeye katılıyor musunuz?:<br/>
     “Kenar çubuğundaki yapay zekâ sohbet botu daha verimli olmamı sağlıyor”
+unified-search-callout-title = Arama motorları arasında geçiş yapın
+unified-search-callout-subtitle = Aradığınız şeye en uygun arama motorunu seçin.
 unified-search-callout-primary-label = İleri
 unified-search-callout-secondary-label = Kapat
 unified-search-engines-callout-primary-label = Anladım
+actions-callout-title = Sık kullanılan görevlere ve temel ayarlara erişin
