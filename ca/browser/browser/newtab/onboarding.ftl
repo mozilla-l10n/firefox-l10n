@@ -390,7 +390,7 @@ onboarding-new-tabs-title = On voleu que es mostrin les pestanyes?
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Podeu canviar-ho quan vulgueu en els paràmetres de la barra lateral.
 # Setup screen for vertical tabs - too many tabs variation
-onboarding-many-tabs-title = Trieu on voleu de les pestanyes
+onboarding-many-tabs-title = Trieu on voleu veure les pestanyes
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Pestanyes al costat
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
