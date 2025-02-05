@@ -30,6 +30,7 @@ more-from-moz-firefox-relay-button = Prova el { -relay-brand-short-name }
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
+more-from-moz-mozilla-monitor-global-description = Rebeu alertes quan hi hagi una filtració de les vostres dades.
 more-from-moz-mozilla-monitor-button = Prova el { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page

@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Send nettsider eit «Ikkje spor»-signal om at du ikkje vil bli spora
+do-not-track-removal = Vi støtter ikkje lenger «Ikkje spor»-signalet
 do-not-track-description2 =
     .label = Send nettstadar ein «Ikkje spor»-førespurnad
     .accesskey = d
@@ -1392,6 +1393,7 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } er i ferd med å 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Berre HTTPS-modus
+httpsonly-learn-more2 = Korleis Berre-HTTPS fungerer
 httpsonly-description = HTTPS gir eit trygt, kryptert samband mellom { -brand-short-name } og nettstadane du besøkjer. Dei fleste nettstadar støttar HTTPS, og dersom berre HTTPS-modus er slått på, vil { -brand-short-name } oppgradere alle tilkoplingar til HTTPS.
 httpsonly-description2 = { -brand-short-name } opprettar sikre og krypterte tilkoplingar til nettstadar du besøkjer. { -brand-short-name } vil åtvare deg dersom ei tilkopling ikkje er sikker når Berre-HTTPS er på.
 httpsonly-learn-more = Les meir
@@ -1401,6 +1403,9 @@ httpsonly-radio-enabled2 =
     .label = Bruk berre HTTPS i alle vindauge
 httpsonly-radio-enabled-pbm =
     .label = Slå på berre HTTPS-modus kun i private vindauge
+httpsonly-radio-disabled3 =
+    .label = Ikkje slå på Berre-HTTPS-modus
+    .description = { -brand-short-name } kan framleis oppgradere nokre tilkoplingar
 httpsonly-radio-enabled-pbm2 =
     .label = Bruk berre HTTPS i private vindauge
 httpsonly-radio-disabled =

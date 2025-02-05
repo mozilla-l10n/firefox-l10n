@@ -35,3 +35,4 @@ more-from-moz-mozilla-monitor-button = Få { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
+more-from-moz-solo-button = Prøv { -solo-ai-brand-name }

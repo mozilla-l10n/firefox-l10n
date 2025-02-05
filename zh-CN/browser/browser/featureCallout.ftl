@@ -100,7 +100,7 @@ unified-search-callout-subtitle = 针对具体搜索内容，选择最合用的�
 unified-search-callout-primary-label = 下一步
 unified-search-callout-secondary-label = 关闭
 unified-search-engines-callout-title = 通过快捷方式搜索
-unified-search-engines-callout-subtitle = 键入“@” + 关键词，即可搜索历史记录、书签、标签页，或指定搜索引擎。
+unified-search-engines-callout-subtitle = 键入“@”加上关键词，即可搜索历史记录、书签、标签页，或指定搜索引擎。
 unified-search-engines-callout-primary-label = 明白了
 actions-callout-title = 完成常用操作、进行基础设置
 # The user can type "print" and "clear" and a button will appear in the
