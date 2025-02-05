@@ -453,3 +453,4 @@ tab-groups-onboarding-dismiss = D'acord
 multi-profile-spotlight-title = Doneu la benvinguda als perfils del { -brand-product-name }
 multi-profile-spotlight-body = Canvieu fàcilment entre la navegació per feina i per diversió. Els perfils mantenen totalment separada la vostra informació de navegació (inclosos l’historial de cerca i les contrasenyes), perquè pugueu tenir-ho tot organitzat.
 multi-profile-spotlight-cta = Crea un perfil
+multi-profile-callout-title = Creeu perfils diferents per a la feina i per a la diversió

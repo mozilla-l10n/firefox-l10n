@@ -13,9 +13,9 @@ genai-settings-chat-links = Cando sèberas unu chatbot, atzetas is cunditziones 
 genai-settings-chat-chatgpt-links = Seberende ChatGPT, atzetas is <a data-l10n-name="link1">Cunditziones de impreu</a> e sa <a data-l10n-name="link2">polìtica de riservadesa</a> de OpenAI.
 genai-settings-chat-claude-links = Seberende Anthropic Claude, atzetas is <a data-l10n-name="link1">cunditziones de su servìtziu</a>, sa <a data-l10n-name="link2">polìtica de impreu</a> e sa <a data-l10n-name="link3">polìtica de riservadesa</a> de Anthropic.
 genai-settings-chat-copilot-links = Seberende Copilot, atzetas is <a data-l10n-name="link1">Cunditziones de esperièntzias de Copilot AI</a> e su <a data-l10n-name="link2">Decraru de riservadesa de Microsoft</a>.
-genai-settings-chat-gemini-links = Seberende Google Gemini, atzetas is <a data-l10n-name="link1">Cunditziones de servìtziu de Google</a>, sa <a data-l10n-name="link2">Polìtica de impreos proibidos de IA generativa<a data-l10n-name="link2"> e s’<a data-l10n-name="link3">Avisu de riservadesa de is aplicatziones de Gemini</a>.
+genai-settings-chat-gemini-links = Seberende Google Gemini, atzetas is <a data-l10n-name="link1">Cunditziones de servìtziu de Google</a>, sa <a data-l10n-name="link2">Polìtica de impreos proibidos de IA generativa</a> e s’<a data-l10n-name="link3">Avisu de riservadesa de is aplicatziones de Gemini</a>.
 genai-settings-chat-huggingchat-links = Seberende HuggingChat, atzetas s’<a data-l10n-name="link1">Avisu de riservadesa de HuggingChat</a> e sa <a data-l10n-name="link2">Polìtica de riservadesa de Hugging Face</a>.
-genai-settings-chat-lechat-links = Seberende Le Chat Mistral, atzetas is <a data-l10n-name="link1">Cunditziones de su servìtziu<a data-l10n-name="link1"> e sa <a data-l10n-name="link2">Polìtica de riservadesa</a> de Mistral AI.
+genai-settings-chat-lechat-links = Seberende Le Chat Mistral, atzetas is <a data-l10n-name="link1">Cunditziones de su servìtziu</a> e sa <a data-l10n-name="link2">Polìtica de riservadesa</a> de Mistral AI.
 genai-settings-chat-localhost-links = Imprea su chatbot privadu tuo in locale, comente <a data-l10n-name="link1">llamafile</a>, dae su grupu Innovation de { -vendor-short-name }.
 
 ## Chatbot prompts
