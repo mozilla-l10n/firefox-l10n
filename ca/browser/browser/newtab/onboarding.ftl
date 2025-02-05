@@ -424,17 +424,26 @@ onboarding-horizontal-tabs-tooltip =
 # Description for horizontal tabs image
 onboarding-horizontal-tabs-description =
     .aria-description = Una finestra del navegador que mostra les pestanyes a la part superior.
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Proveu un bot de conversa d’IA a la barra lateral
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = Resumiu el contingut web, feu una pluja d'idees, redacteu esborranys de missatges... tot mentre navegueu. Podeu triar entre diversos proveïdors. Podeu canviar-ho en qualsevol moment. <a data-l10n-name="learn-more">Més informació</a>
+onboarding-genai-sidebar-primary-button = Trieu un bot de conversa
 onboarding-genai-sidebar-secondary-button = Comença a navegar
 
 ## New user onboarding checklist
 
+onboarding-checklist-title = Acabeu de configurar el { -brand-short-name }
+onboarding-checklist-subtitle = Seguiu aquests passos per treure el màxim profit de la vostra experiència de navegació.
 onboarding-checklist-set-default = Defineix el { -brand-short-name } com a navegador per defecte
 onboarding-checklist-pin = Fixa el { -brand-short-name } a la barra de tasques
 onboarding-checklist-import = Importa del navegador anterior
 onboarding-checklist-extension = Afegeix una extensió
+onboarding-checklist-sign-up = Creeu un compte o inicieu la sessió
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-feature-callout-title = Els grups de pestanyes milloren l’organització i la concentració
 
 ## Multi Profiles feature onboarding messages
 
