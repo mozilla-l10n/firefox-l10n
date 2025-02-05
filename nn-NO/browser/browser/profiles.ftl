@@ -81,3 +81,9 @@ profiles-system-theme = System
 
 ## Alternative text for default profile icons
 
+heart-avatar-alt =
+    .alt = Hjarte
+shopping-avatar-alt =
+    .alt = Handlevogn
+star-avatar-alt =
+    .alt = Stjerne

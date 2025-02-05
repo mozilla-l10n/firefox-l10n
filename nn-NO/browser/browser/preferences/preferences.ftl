@@ -224,6 +224,12 @@ containers-remove-cancel-button = Ikkje fjern denne behaldaren
 settings-tabs-show-image-in-preview =
     .label = Vis ei førehandsvising når du held musepeikaren over ei fane
     .accessKey = f
+browser-layout-horizontal-tabs =
+    .label = Horisontale faner
+browser-layout-vertical-tabs =
+    .label = Vertikale faner
+browser-layout-show-sidebar =
+    .label = Vis sidestolpe
 
 ## General Section - Language & Appearance
 

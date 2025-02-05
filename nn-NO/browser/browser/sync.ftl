@@ -46,7 +46,15 @@ sync-profile-different-account-title-merge = Profil synkronisert til ein annan k
 # Dialog 2 - account signed in on another profile without option to merge
 sync-account-in-use-header = Kontoen er allereie i bruk
 # Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $otherProfile (String) - Name of the other profile that is associated with the account
+sync-account-in-use-header-merge = { $acctEmail } er allereie logga på «{ $otherProfile }»-profilen
+sync-account-in-use-description = Du kan berre knyte denne kontoen til éin profil på denne datamaskina.
+# Variables:
 #   $profileName (String) - Name of the profile to switch to
 sync-button-switch-profile = Byt til "{ $profileName }"
 sync-button-create-profile = Opprett ein ny profil
 sync-button-sync-and-merge = Synkroniser og slå saman data
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-sync-profile = Synkroniser «{ $profileName }»
