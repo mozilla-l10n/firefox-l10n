@@ -372,9 +372,21 @@ onboarding-new-user-survey-subtitle = Els vostres comentaris ajuden a millorar e
 # When translating "next" it means the next screen in onboarding.
 onboarding-new-user-survey-next-button-label = Següent
 onboarding-new-user-survey-legal-link-label = En seleccionar «{ onboarding-new-user-survey-next-button-label }», accepteu l’<a data-l10n-name="privacy_notice">avís de privadesa</a> del { -brand-product-name }.
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-time-based-option-1 = Tot just l’acabo de conèixer
+onboarding-new-user-survey-time-based-option-2 = Menys d’un mes
+onboarding-new-user-survey-time-based-option-3 = Més d’un mes i l’utilitzo habitualment
+onboarding-new-user-survey-time-based-option-4 = Més d’un mes i l’utilitzo de tant en tant
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-familiarity-based-option-1 = Tot just l’acabo de conèixer
+onboarding-new-user-survey-familiarity-based-option-2 = L’he utilitzat una mica
+onboarding-new-user-survey-familiarity-based-option-3 = El conec molt bé
+onboarding-new-user-survey-familiarity-based-option-4 = L’he utilitzat abans, però ja fa temps
 
 ## UI strings for the sidebar and vertical tabs
 
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = On voleu que es mostrin les pestanyes?
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title = Les pestanyes verticals ja són aquí
 # Setup screen for vertical tabs for existing users
