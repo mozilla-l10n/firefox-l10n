@@ -6,3 +6,24 @@
 ## Preonboarding modal screen strings
 
 preonboarding-title = Croeso i { -brand-product-name }
+preonboarding-subtitle = Drwy barhau, rydych yn cytuno i Amodau Defnydd { -brand-product-name } a'n Hysbysiad Preifatrwydd. Er mwyn helpu i wella'r porwr, mae { -brand-product-name } yn anfon data diagnostig a rhyngweithio i { -vendor-short-name }.
+preonboarding-primary-cta = Cadarnhau a pharhau
+# Label for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
+preonboarding-manage-and-read-header = Rheoli gosodiadau casglu data a darllen ein Amodau Defnydd a Hysbysiad Preifatrwydd
+# Label for header style button that toggles showing the Terms of Use
+preonboarding-terms-of-use-header-button-title = Darllenwch ein Amodau Defnydd
+# Label for header style button that toggles showing the Privacy Notice
+preonboarding-privacy-notice-header-button-title = Darllenwch ein Hysbysiad Preifatrwydd
+# Label for header style button that toggles showing the data preference checklist
+preonboarding-manage-data-header-button-title = Rheoli data diagnostig a rhyngweithio
+# Label for header style button that toggles showing the Terms of Use (Variant B)
+preonboarding-terms-of-use-header-button-title-b = Amodau Defnydd { -brand-product-name }
+# Label for header style button that toggles showing the Privacy Notice (Variant B)
+preonboarding-privacy-notice-header-button-title-b = Hysbysiad Preifatrwydd { -brand-product-name }
+# Description under label for header style buttons
+preonboarding-header-button-description = Darllen Rhagor
+# New user onboarding checklist
+preonboarding-checklist-interaction-data-label = Anfon data technegol a rhyngweithio at { -vendor-short-name }
+preonboarding-checklist-interaction-data-description = Mae data am eich dyfais, ffurfweddiad caledwedd, a sut rydych yn defnyddio { -brand-product-name } yn helpu i wella nodweddion, perfformiad a sefydlogrwydd ar gyfer defnyddwyr ym mhobman.
+preonboarding-checklist-crash-reports-label = Anfon adroddiadau chwalu'n awtomatig
+preonboarding-checklist-crash-reports-description = Mae adroddiadau chwalu'n ein galluogi i wneud diagnosis a thrwsio problemau gyda'r porwr. Gall adroddiadau gynnwys data personol neu sensitif.

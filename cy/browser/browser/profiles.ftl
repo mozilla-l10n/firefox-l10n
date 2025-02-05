@@ -44,6 +44,8 @@ new-profile-page-input-placeholder =
 new-profile-page-done-button =
     .label = Wedi gorffen golygu
 profile-window-title-2 = { -brand-short-name } - Dewiswch broffil
+profile-window-logo =
+    .alt = Logo { -brand-short-name }
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
@@ -95,3 +97,9 @@ profiles-system-theme = System
 
 ## Alternative text for default profile icons
 
+book-avatar-alt =
+    .alt = Llyfr
+briefcase-avatar-alt =
+    .alt = Bag Dogfennau
+flower-avatar-alt =
+    .alt = Blodyn
