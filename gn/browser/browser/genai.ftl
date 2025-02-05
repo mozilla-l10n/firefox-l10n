@@ -73,7 +73,7 @@ genai-shortcuts-hide =
 
 ## Chatbot header
 
-genai-chatbot-title = Chatbot IA
+genai-chatbot-title = AI chatbot
 genai-header-provider-menu =
     .title = Eiporavo chatbot
 genai-header-options-button =
@@ -94,7 +94,7 @@ genai-options-show-shortcut =
 genai-options-hide-shortcut =
     .label = Eñomi jeike pya’eha eiporavóvo moñe’ẽrã
 genai-options-about-chatbot =
-    .label = Umi chatbot IA { -brand-short-name }-pe
+    .label = Umi AI chatbots in { -brand-short-name }
 
 ## Chatbot onboarding
 
