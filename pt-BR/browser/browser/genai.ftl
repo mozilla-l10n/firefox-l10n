@@ -105,7 +105,7 @@ genai-options-reload-provider =
 genai-options-show-shortcut =
     .label = Exibir atalho ao selecionar texto
 genai-options-hide-shortcut =
-    .label = Ocultar atalho ao selecionar texto
+    .label = Não exibir atalho ao selecionar texto
 genai-options-about-chatbot =
     .label = Informações sobre chatbots de inteligência artificial no { -brand-short-name }
 
