@@ -14,6 +14,8 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = ປິດ
     .aria-label = ປິດ
+firefoxview-empty-state-icon =
+    .alt = ເອົາໃຈໃສ່:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = ມື້ກີ້ນີ້
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -25,6 +27,7 @@ firefoxview-tabpickup-progress-label = { $percentValue }% ສຳເລັດ
 firefoxview-tabpickup-step-signin-header = ສະຫຼັບລະຫວ່າງອຸປະກອນຢ່າງບໍ່ຕິດຂັດ
 firefoxview-tabpickup-step-signin-description = ເພື່ອຈັບແຖບໂທລະສັບຂອງທ່ານຢູ່ທີ່ນີ້, ກ່ອນອື່ນໃຫ້ເຂົ້າສູ່ລະບົບ ຫຼືສ້າງບັນຊີກ່ອນ.
 firefoxview-tabpickup-step-signin-primarybutton = ສືບຕໍ່
+firefoxview-syncedtabs-signin-header-2 = { -brand-product-name } ຂອງທ່ານໃນທຸກອຸປະກອນຂອງທ່ານ
 firefoxview-syncedtabs-signin-primarybutton-2 = ເຂົ້າສູ່ລະບົບ
 firefoxview-syncedtabs-signin-header = ເອົາແຖບຈາກທຸກບ່ອນ
 firefoxview-syncedtabs-signin-primarybutton = ເຂົ້າສູ່ລະບົບ ຫຼື ລົງທະບຽນ
@@ -189,13 +192,23 @@ firefoxview-show-all-history = ສະແດງປະຫວັດທັງໝົ�
 firefoxview-syncedtabs-connect-another-device = ເຊື່ອມຕໍ່ກັບອຸປະກອນອື່ນ
 firefoxview-pinned-tabs =
     .title = ແຖບທີ່ປັກໝຸດໄວ້
+firefoxview-tabs =
+    .title = ແທັບ
 
 ## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
 ## Variables:
 ##  $tabTitle (string) - Title of pinned tab that will be opened when selected
 
+firefoxview-opentabs-pinned-tab =
+    .title = ປ່ຽນເປັນ { $tabTitle }
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = ປ່ຽນເປັນ (Bookmarked) { $tabTitle }
 
 ## These tooltips will be displayed when hovering over an unpinned Open Tab
 ## Variables:
 ##   $url (string) - URL of tab that will be opened when selected
 
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = (ບຸກມາກແລ້ວ) { $url }

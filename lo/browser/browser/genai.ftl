@@ -28,3 +28,5 @@ genai-settings-chat-links = ເມື່ອທ່ານເລືອກ chatbot, 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-price = ທາງເລືອກທີ່ບໍ່ເສຍຄ່າ ແລະ ຈ່າຍ; ບັນຊີທີ່ຕ້ອງການ
+genai-onboarding-chatgpt-generate = ສ້າງຂໍ້ຄວາມ, ຮູບພາບ, ແລະ ລະຫັດ
