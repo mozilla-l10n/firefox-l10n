@@ -58,6 +58,18 @@ onboarding-theme-primary-button-label = കഴിഞ്ഞു
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title = ജാലകങ്ങൾക്കും ബട്ടണുകൾക്കും കുറിപ്പടിക്കട്ടകൾക്കും ഒരു ഇളം അലങ്കാരം ഉപയോഗിക്കുക.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description = ജാലകങ്ങൾക്കും ബട്ടണുകൾക്കും കുറിപ്പടിക്കട്ടകൾക്കും ഒരു ഇളഞ്ഞ അലങ്കാരം ഉപയോഗിക്കുക.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title = ജാലകങ്ങൾക്കും ബട്ടണുകൾക്കും കുറിപ്പടിക്കട്ടകൾക്കും ഒരു ഇരുണ്ട അലങ്കാരം ഉപയോഗിക്കുക.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description = ജാലകങ്ങൾക്കും ബട്ടണുകൾക്കും കുറിപ്പടിക്കട്ടകൾക്കും ഒരു ഇരുണ്ട അലങ്കാരം ഉപയോഗിക്കുക.
 
 ## Strings for Thank You page
 
