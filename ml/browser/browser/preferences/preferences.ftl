@@ -3,22 +3,55 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = “ട്രാക്ക് ചെയ്യരുത്” എന്ന സിഗ്നൽ വെബ്സൈറ്റുകൾക്ക് അയയ്ക്കുക
+do-not-track-removal = ഞങ്ങൾ ഇനി "പിന്തുൎതു്" മുന്നറിയിപ്പ് വ്യവസ്ഥയെ പിന്തുണയ്ക്കാരില്ല
+do-not-track-description2 =
+    .label = വെബിടങ്ങളെ "പിന്തുടൎതു്" അറിയിപ്പു് നല്കുക
+    .accesskey = ന
 do-not-track-learn-more = കൂടുതലറിവ് നേടുക
 do-not-track-option-always =
     .label = എപ്പോഴും
+settings-page-title = ക്രമീകരണങ്ങള്‍
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = ക്രമീകരണങ്ങളിൽ കണ്ടെത്തുക
+managed-notice-info-icon =
+    .alt = വിവരം
+category-list =
+    .aria-label = ഇനങ്ങൾ
 pane-general-title = സാധാരണ
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = പൂമുഖം
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = തെരയുക
 category-search =
     .tooltiptext = { pane-search-title }
 pane-privacy-title = സ്വകാര്യത & സുരക്ഷ
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+pane-sync-title3 = സമന്വയം
+category-sync3 =
+    .tooltiptext = { pane-sync-title3 }
+pane-experimental-title = { -brand-short-name } പരീക്ഷണങ്ങൾ
+category-experimental =
+    .tooltiptext = { -brand-short-name } പരീക്ഷണങ്ങൾ
+pane-experimental-subtitle = ശ്രദ്ധയോടെ മുൻപൊട്ട് പോകുക
+pane-experimental-search-results-header = { -brand-short-name } പരീക്ഷണങ്ങൾ: ശ്രദ്ധത്തോടു് മുൻപോട്ടു് ചെല്ലുക
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-reset =
+    .label = തനതായവ നിലനിറുത്തുക
+    .accesskey = ത
 help-button-label = { -brand-short-name } പിന്തുണ
 addons-button-label = വിപുലീകരണങ്ങളും തീമുകളും
 focus-search =
@@ -65,10 +98,21 @@ startup-restore-warn-on-quit =
     .label = അന്വേഷിയന്ത്രത്തിൽ നിന്നു പുറത്തുക്കടക്കുമ്പോഴു് താങ്ങൾക്കു് മുന്നറിയിപ്പ് നൽകുക
 disable-extension =
     .label = വിപുലീകരണം പ്രവർത്തനരഹിതമാക്കുക
+preferences-data-migration-header = അന്വേഷിയന്ത്രദത്ത ഇറക്കുമതി ചെയ്യുക
+preferences-data-migration-description = { -brand-short-name }-ലോട്ടു് തന്നെതാനെ അടയാളക്കുറിപ്പുകളും രഹസ്യവാക്കുകളും നാൾവഴിയും മറ്റേതും ഇറക്കുമതിക്കുക
+preferences-data-migration-button =
+    .label = ദത്ത ഇറക്കുമതിക്കുക
+    .accesskey = ഇ
 tabs-group-header = റ്റാബുകള്‍
 ctrl-tab-recently-used-order =
     .label = അടുത്തിടെ ഉപയോഗിച്ച ഓർഡറില്‍ ടാബുകളിലൂടെ പോവാന്‍ Ctrl + Tab ഉപയോഗിക്കുക
     .accesskey = T
+open-new-link-as-tabs =
+    .label = പുതിയ കണ്ണികളെ ജാലകങ്ങളിൽ പകരം ടാബുകളിൽ തുറക്കുക
+    .accesskey = ജ
+ask-on-close-multiple-tabs =
+    .label = ഒരുപാടു് ടാബുകൾ അടക്കുന്നതിനു് മുൻപു് ഒരു വട്ടം ചോദിക്കുക
+    .accesskey = ച
 warn-on-open-many-tabs =
     .label = ഒന്നിലധികം കിളിവാതിലുകള്‍ തുറക്കുന്നത് { -brand-short-name } നെ പതുക്കയാക്കിയേക്കാം
     .accesskey = d
