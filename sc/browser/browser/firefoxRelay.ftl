@@ -62,6 +62,7 @@ firefox-relay-offer-legal-notice-control = Registrende·ti e creende un’alias 
 ## The "basic-info" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-basic-info = Èvita s’àliga cun un’alias de posta eletrònica a in donu
+firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = Èvita s’àliga cuende s’indiritzu de posta eletrònica reale cun un’<label data-l10n-name="firefox-relay-learn-more-url">alias de posta</label> de badas. Is messàgios dae <label data-l10n-name="firefox-fxa-and-relay-offer-domain">custu situ</label> ant a lòmpere a sa cartella de intrada tua, però cun s’indiritzu tuo cuadu.
 firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = A primu, registra·ti o identìfica·ti cun su profilu tuo pro impreare un’alias de posta eletrònica
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = Registra·ti
@@ -70,6 +71,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 ## The "with-domain" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Lea un’alias de posta eletrònica a in donu
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Ampara sa cartella de intrada tua de s’àliga impreende un’<label data-l10n-name="firefox-relay-learn-more-url">alias de posta eletrònica</label> de badas pro cuare s’indiritzu reale tuo. Is messàgios de <label data-l10n-name="firefox-fxa-and-relay-offer-domain">custu situ</label> ant a lòmpere a sa cartella de intrada tua, però cun s’indiritzu reale cuadu.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = A primu, registra·ti o identìfica·ti cun su profilu tuo pro impreare un’alias de posta eletrònica
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Registra·ti
@@ -78,6 +80,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Èvita s’àliga cun un’alias de posta eletrònica a in donu
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Èvita s’àliga cuende s’indiritzu de posta eletrònica reale tuo cun un’<label data-l10n-name="firefox-relay-learn-more-url">alias de posta</label>. As a retzire is messàgios dae<label data-l10n-name="firefox-fxa-and-relay-offer-domain">custu situ</label> in sa cartella de intrada de semper, però cun s’indiritzu cuadu.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = A primu, registra·ti o identìfica·ti cun su profilu tuo pro impreare un’alias de posta eletrònica
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Imbeniente
