@@ -155,10 +155,21 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = ഈ കണ്ടൈനര്‍ നീക്കം ചെയ്യുക
 containers-remove-cancel-button = ഈ കണ്ടൈനര്‍ നീക്കം ചെയ്യാതിരിക്കുക
+browser-layout-show-sidebar =
+    .label = അണിവക്കം കാണിക്കുക
 
 ## General Section - Language & Appearance
 
 language-and-appearance-header = ഭാഷയും രൂപവും
+preferences-web-appearance-choice-auto = തന്നെതാനെ
+preferences-web-appearance-choice-light = ഇളം
+preferences-web-appearance-choice-dark = ഇരുണ്ടതു്
+preferences-web-appearance-choice-input-auto =
+    .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 preferences-colors-header = നിറങ്ങള്‍
 preferences-fonts-header = അക്ഷരശൈലികൾ
 default-font = തനതായ ഫോണ്ടാക്കുക
@@ -872,6 +883,15 @@ certs-devices =
 
 preferences-doh-status-active = സജീവമാണു്
 preferences-doh-status-disabled = അണച്ചതു്
+preferences-doh-setting-enabled =
+    .label = കൂട്ടിയ സംരക്ഷണം
+    .accesskey = ക
+preferences-doh-setting-strict =
+    .label = ഉച്ചനില സംരക്ഷണം
+    .accesskey = ഉ
+preferences-doh-setting-off =
+    .label = അണച്ചതു്
+    .accesskey = അ
 
 ## The following strings are used in the Download section of settings
 
