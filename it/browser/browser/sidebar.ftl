@@ -58,6 +58,10 @@ sidebar-show-on-the-right =
     .label = Sposta barra laterale a destra
 sidebar-show-on-the-left =
     .label = Sposta barra laterale a sinistra
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Espandi la barra laterale al passaggio del mouse
 sidebar-horizontal-tabs =
     .label = Schede orizzontali
 sidebar-customize-tabs-header =
