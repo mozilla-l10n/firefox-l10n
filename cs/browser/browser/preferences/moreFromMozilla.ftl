@@ -23,6 +23,7 @@ more-from-moz-subtitle =
     }
 more-from-moz-firefox-mobile-title = { -brand-product-name } pro mobily
 more-from-moz-firefox-mobile-description = Mobilní prohlížeč, který klade důraz na vaše soukromí.
+more-from-moz-firefox-mobile-title-1 = { -brand-product-name } pro mobilní zařízení
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Objevte přidanou vrstvu anonymního prohlížení a ochrany.
 more-from-moz-qr-code-box-firefox-mobile-title = Pro stažení do svého mobilního zařízení namiřte fotoaparát na QR kód. Poté klepněte na adresu odkazu, která se objeví.
@@ -51,4 +52,5 @@ more-from-moz-mozilla-monitor-button = Získat { -monitor-brand-short-name(case:
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
+more-from-moz-solo-title = { -solo-ai-brand-name } AI
 more-from-moz-solo-button = Vyzkoušejte { -solo-ai-brand-name }

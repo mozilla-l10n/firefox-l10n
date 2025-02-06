@@ -134,3 +134,4 @@ unified-search-callout-subtitle = Vyberte si, co je pro vaše konkrétní vyhled
 unified-search-callout-primary-label = Další
 unified-search-callout-secondary-label = Zavřít
 unified-search-engines-callout-title = Hledejte pomocí zkratky
+unified-search-engines-callout-primary-label = Rozumím

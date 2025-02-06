@@ -56,6 +56,8 @@ new-profile-page-input-placeholder =
 new-profile-page-done-button =
     .label = Dokončit úpravy
 profile-window-title-2 = { -brand-short-name } - Výběr profilu
+profile-window-logo =
+    .alt = Logo { -brand-short-name(case: "gen") }
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
