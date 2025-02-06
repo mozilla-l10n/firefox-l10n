@@ -231,6 +231,14 @@ containers-remove-cancel-button = Ne odstrani tega vsebnika
 settings-tabs-show-image-in-preview =
     .label = Ob pomiku miškinega kazalca na zavihek prikaži sliko predogleda
     .accessKey = h
+browser-layout-horizontal-tabs =
+    .label = Vodoravni zavihki
+browser-layout-horizontal-tabs-desc = Prikaži zavihke na vrhu brskalnika
+browser-layout-vertical-tabs =
+    .label = Navpični zavihki
+browser-layout-vertical-tabs-desc = Prikaži zavihke ob strani, v stranski vrstici
+browser-layout-show-sidebar =
+    .label = Prikaži stransko vrstico
 
 ## General Section - Language & Appearance
 
@@ -1315,6 +1323,7 @@ permissions-addon-exceptions =
 collection-header = Zbiranje in uporaba podatkov { -brand-short-name(sklon: "rodilnik") }
 collection-header2 = Zbiranje in uporaba podatkov v { -brand-short-name(sklon: "mestnik") }
     .searchkeywords = telemetrija
+preferences-collection-privacy-notice = Ogled obvestila o zasebnosti
 collection-description = Trudimo se, da vam ponudimo izbiro in da zbiramo samo tisto, kar potrebujemo za razvoj in izboljšave { -brand-short-name(sklon: "rodilnik") } za vse uporabnike. Pred sprejemanjem osebnih podatkov vas vedno vprašamo za dovoljenje.
 collection-privacy-notice = Obvestilo o zasebnosti
 collection-health-report-telemetry-disabled = Organizaciji { -vendor-short-name } ne dovoljujete več zajemanja tehničnih podatkov in podatkov o uporabi. Vsi pretekli podatki bodo izbrisani v 30 dneh.
@@ -1414,6 +1423,8 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name(sklon: "dajalnik") 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Način "samo HTTPS"
+httpsonly-description3 = Dovoli samo varne povezave na spletna mesta. Pred vzpostavitvijo nezavarovane povezave naj { -brand-short-name } vpraša
+httpsonly-learn-more2 = Kako deluje način "samo HTTPS"
 httpsonly-description = HTTPS zagotavlja varno, šifrirano povezavo med { -brand-short-name(sklon: "orodnik") } in spletnimi mesti, ki jih obiščete. Večina spletnih mest podpira HTTPS in če je omogočen način "samo HTTPS", bo { -brand-short-name } nadgradil vse povezave na HTTPS.
 httpsonly-description2 = { -brand-short-name } ustvarja varne in šifrirane povezave na spletna mesta, ki jih obiščete. { -brand-short-name } vas bo opozoril, če povezava ni varna, ko je vklopljen HTTPS-Only.
 httpsonly-learn-more = Več o tem
@@ -1423,6 +1434,9 @@ httpsonly-radio-enabled2 =
     .label = Uporabljaj samo HTTPS v vseh oknih
 httpsonly-radio-enabled-pbm =
     .label = Omogoči način "samo HTTPS" samo v zasebnih oknih
+httpsonly-radio-disabled3 =
+    .label = Ne omogoči načina "samo HTTPS"
+    .description = { -brand-short-name } bo nekatere povezave vseeno nadgradil
 httpsonly-radio-enabled-pbm2 =
     .label = Uporabljaj samo HTTPS v zasebnih oknih
 httpsonly-radio-disabled =

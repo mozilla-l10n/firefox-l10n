@@ -94,3 +94,9 @@ sidebar-genai-survey-satisfaction-question = Kako ste zadovoljni z dostopom do U
 sidebar-genai-survey-productive-question =
     V kolikšni meri se strinjate oziroma ne strinjate s to izjavo:<br/>
     “UI-klepetalnik veča mojo produktivnost”?
+unified-search-callout-title = Preklapljajte med iskalniki
+unified-search-callout-subtitle = Izberite, kar se za vaše trenutno iskanje najbolje obnese.
+unified-search-callout-primary-label = Naprej
+unified-search-callout-secondary-label = V redu
+unified-search-engines-callout-title = Iščite z bližnjico
+unified-search-engines-callout-primary-label = Razumem

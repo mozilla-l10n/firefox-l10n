@@ -44,6 +44,8 @@ new-profile-page-input-placeholder =
 new-profile-page-done-button =
     .label = Urejeno
 profile-window-title-2 = { -brand-short-name } – Izbira profila
+profile-window-logo =
+    .alt = Logotip { -brand-short-name(sklon: "rodilnik") }
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
@@ -95,3 +97,15 @@ profiles-system-theme = Sistemska
 
 ## Alternative text for default profile icons
 
+book-avatar-alt =
+    .alt = Knjiga
+briefcase-avatar-alt =
+    .alt = Aktovka
+flower-avatar-alt =
+    .alt = Cvet
+heart-avatar-alt =
+    .alt = Srce
+shopping-avatar-alt =
+    .alt = Nakupovalni voziček
+star-avatar-alt =
+    .alt = Zvezdica
