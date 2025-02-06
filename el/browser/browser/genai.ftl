@@ -51,22 +51,22 @@ genai-prompt-prefix-selection = Βρίσκομαι στη σελίδα «{ $tabT
 ## Chatbot menu shortcuts
 
 genai-menu-ask-generic =
-    .label = Ερώτηση στο AI chatbot
+    .label = Ερώτηση στο chatbot ΤΝ
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Ερώτηση στο { $provider }
 genai-input-ask-generic =
-    .placeholder = Ερώτηση στο AI chatbot…
+    .placeholder = Ερώτηση στο chatbot ΤΝ…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Ερώτηση στο { $provider }…
 # $selectionLength (number) - selected text length
 # $maxLength (number) - max length of what can be selected
 genai-shortcuts-selected-warning-generic =
-    .heading = Το AI chatbot δεν θα λάβει την πλήρη επιλογή σας
+    .heading = Το chatbot ΤΝ δεν θα λάβει την πλήρη επιλογή σας
     .message =
         { $selectionLength ->
-           *[other] Έχετε επιλέξει περίπου { $selectionLength } χαρακτήρες. Ο αριθμός των χαρακτήρων που μπορούμε να στείλουμε στο AI chatbot είναι περίπου { $maxLength }.
+           *[other] Έχετε επιλέξει περίπου { $selectionLength } χαρακτήρες. Ο αριθμός των χαρακτήρων που μπορούμε να στείλουμε στο chatbot ΤΝ είναι περίπου { $maxLength }.
         }
 # $provider (string) - name of the provider
 # $selectionLength (number) - selected text length
@@ -82,7 +82,6 @@ genai-shortcuts-hide =
 
 ## Chatbot header
 
-genai-chatbot-title = AI chatbot
 genai-header-provider-menu =
     .title = Επιλέξτε ένα chatbot
 genai-header-options-button =
@@ -93,8 +92,6 @@ genai-provider-view-details =
     .label = Προβολή λεπτομερειών chatbot
 genai-provider-about-chatbots =
     .label = Σχετικά με αυτά τα chatbot
-genai-options-reload-generic =
-    .label = Επαναφόρτωση AI chatbot
 # $provider (string) - name of the provider
 genai-options-reload-provider =
     .label = Επαναφόρτωση του { $provider }

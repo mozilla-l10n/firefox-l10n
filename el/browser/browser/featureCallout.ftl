@@ -90,10 +90,10 @@ sidebar-callout-survey-saved-websites-2 = Γρήγορη πρόσβαση στο
 sidebar-callout-survey-none-of-above = Κανένα από τα παραπάνω
 sidebar-callout-survey-submit = Υποβολή
 sidebar-callout-survey-thank-you = Ευχαριστούμε για τα σχόλιά σας!
-sidebar-genai-survey-satisfaction-question = Πόσο ικανοποιημένοι είστε με την πρόσβαση σε ένα chatbot με AI στην πλευρική γραμμή;
+sidebar-genai-survey-satisfaction-question = Πόσο ικανοποιημένοι είστε με την πρόσβαση σε ένα chatbot ΤΝ στην πλαϊνή γραμμή;
 sidebar-genai-survey-productive-question =
-    Σε ποιο βαθμό συμφωνείτε ή διαφωνείτε με τη δήλωση:<br/>
-    “Με βοηθά το chatbot AI στην πλευρική γραμμή να είμαι πιο παραγωγικός/-ή”;
+    Σε ποιο βαθμό συμφωνείτε ή διαφωνείτε με αυτήν τη δήλωση:<br/>
+    «Με βοηθά το chatbot ΤΝ στην πλαϊνή γραμμή να είμαι πιο παραγωγικός/-ή»;
 unified-search-callout-title = Εναλλαγή μεταξύ μηχανών αναζήτησης
 unified-search-callout-primary-label = Επόμενο
 unified-search-callout-secondary-label = Απόρριψη
