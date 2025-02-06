@@ -82,6 +82,7 @@ genai-shortcuts-hide =
 
 ## Chatbot header
 
+genai-chatbot-title = Chatbot ΤΝ
 genai-header-provider-menu =
     .title = Επιλέξτε ένα chatbot
 genai-header-options-button =
@@ -92,6 +93,8 @@ genai-provider-view-details =
     .label = Προβολή λεπτομερειών chatbot
 genai-provider-about-chatbots =
     .label = Σχετικά με αυτά τα chatbot
+genai-options-reload-generic =
+    .label = Επαναφόρτωση chatbot ΤΝ
 # $provider (string) - name of the provider
 genai-options-reload-provider =
     .label = Επαναφόρτωση του { $provider }
@@ -100,13 +103,13 @@ genai-options-show-shortcut =
 genai-options-hide-shortcut =
     .label = Απόκρυψη συντόμευσης κατά την επιλογή κειμένου
 genai-options-about-chatbot =
-    .label = Σχετικά με τα ΑΙ chatbot στο { -brand-short-name }
+    .label = Σχετικά με τα chatbot ΤΝ στο { -brand-short-name }
 
 ## Chatbot onboarding
 
 genai-onboarding-header = Περιλήψεις, νέες ιδέες και πολλά άλλα κατά την περιήγηση
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = Επιλέξτε ένα AI chatbot για χρήση στην πλαϊνή γραμμή του { -brand-short-name }. Θα σας εμφανίζουμε λεπτομέρειες για κάθε chatbot όταν το επιλέγετε. Αλλάξτε το ανά πάσα στιγμή. <a data-l10n-name="learn-more">Μάθετε περισσότερα</a>
+genai-onboarding-description = Επιλέξτε ένα chatbot ΤΝ για χρήση στην πλαϊνή γραμμή του { -brand-short-name }. Θα σας εμφανίζουμε λεπτομέρειες για κάθε chatbot όταν το επιλέγετε. Αλλάξτε το ανά πάσα στιγμή. <a data-l10n-name="learn-more">Μάθετε περισσότερα</a>
 genai-onboarding-primary = Συνέχεια
 genai-onboarding-secondary = Κλείσιμο
 genai-onboarding-claude-tooltip =

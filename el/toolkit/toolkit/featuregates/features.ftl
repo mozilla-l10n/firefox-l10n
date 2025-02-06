@@ -51,7 +51,7 @@ experimental-features-auto-pip =
     .label = Εικόνα εντός εικόνας: αυτόματο άνοιγμα με εναλλαγή καρτελών
 experimental-features-auto-pip-description = Ενεργοποίηση λειτουργίας «Εικόνα εντός εικόνας» σε ενεργά βίντεο κατά την εναλλαγή καρτελών.
 genai-settings-chat-title =
-    .label = AI chatbot
+    .label = Chatbot ΤΝ
 # Updated sidebar settings
 sidebar-title =
     .label = Πλαϊνή γραμμή

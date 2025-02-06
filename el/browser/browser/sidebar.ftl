@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 menu-view-genai-chat =
-    .label = AI Chatbot
+    .label = Chatbot ΤΝ
 menu-view-review-checker =
     .label = Έλεγχος κριτικών
 sidebar-options-menu-button =
@@ -100,7 +100,7 @@ sidebar-history-context-menu-delete-page =
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
-    .label = AI chatbot
+    .label = Chatbot ΤΝ
 sidebar-menu-history-label =
     .label = Ιστορικό
 sidebar-menu-synced-tabs-label =
@@ -130,17 +130,17 @@ sidebar-menu-open-bookmarks-tooltip = Άνοιγμα σελιδοδεικτών 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Κλείσιμο σελιδοδεικτών ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = Άνοιγμα AI chatbot
-sidebar-menu-close-ai-chatbot-tooltip = Κλείσιμο AI chatbot
+sidebar-menu-open-ai-chatbot-tooltip = Άνοιγμα chatbot ΤΝ
+sidebar-menu-close-ai-chatbot-tooltip = Κλείσιμο chatbot ΤΝ
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
-sidebar-menu-open-ai-chatbot-tooltip-generic = Άνοιγμα AI chatbot ({ $shortcut })
+sidebar-menu-open-ai-chatbot-tooltip-generic = Άνοιγμα chatbot ΤΝ ({ $shortcut })
 sidebar-menu-open-ai-chatbot-provider-tooltip = Άνοιγμα { $provider } ({ $shortcut })
-sidebar-menu-close-ai-chatbot-tooltip-generic = Κλείσιμο AI chatbot ({ $shortcut })
+sidebar-menu-close-ai-chatbot-tooltip-generic = Κλείσιμο chatbot ΤΝ ({ $shortcut })
 sidebar-menu-close-ai-chatbot-provider-tooltip = Κλείσιμο { $provider } ({ $shortcut })
 
 ## Headings for sidebar menu panels.

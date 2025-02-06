@@ -423,7 +423,7 @@ onboarding-horizontal-tabs-tooltip =
 onboarding-horizontal-tabs-description =
     .aria-description = Ένα παράθυρο του προγράμματος περιήγησης που εμφανίζει τις καρτέλες στο πάνω μέρος.
 # Additional setup card for setting up aichatbot in the sidebar
-onboarding-genai-sidebar-title = Δοκιμάστε ένα AI chatbot στην πλαϊνή γραμμή
+onboarding-genai-sidebar-title = Δοκιμάστε ένα chatbot ΤΝ στην πλαϊνή γραμμή
 # Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
 onboarding-genai-sidebar-subtitle = Συνοψίστε διαδικτυακό περιεχόμενο, βρείτε νέες ιδέες, δημιουργήστε προσχέδια μηνυμάτων — όλα αυτά κατά την περιήγησή σας. Επιλέξτε ανάμεσα σε πολλαπλούς παρόχους. Αλλάξτε την επιλογή σας ανά πάσα στιγμή. <a data-l10n-name="learn-more">Μάθετε περισσότερα</a>
 onboarding-genai-sidebar-primary-button = Επιλογή chatbot

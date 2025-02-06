@@ -234,6 +234,7 @@ browser-layout-vertical-tabs =
 browser-layout-vertical-tabs-desc = Προβολή στο πλάι, στην πλαϊνή γραμμή
 browser-layout-show-sidebar =
     .label = Εμφάνιση πλαϊνής γραμμής
+browser-layout-show-sidebar-desc = Αποκτήστε γρήγορη πρόσβαση σε σελιδοδείκτες, καρτέλες από το τηλέφωνό σας, chatbot ΤΝ και πολλά άλλα χωρίς να αποχωρήσετε από την κύρια προβολή.
 
 ## General Section - Language & Appearance
 
