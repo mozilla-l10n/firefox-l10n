@@ -9,7 +9,7 @@ restore-page-error-title = Tenimus problemas pro recuperare is pàginas tuas.
 restore-page-problem-desc = Tenimus problemas pro recuperare sa sessione de navigatzione ùrtima. Sèbera «Recùpera sa sessione» pro nche torrare a proare.
 restore-page-try-this = Ancora no as recuperadu sa sessione? A bortas est pro curpa de un'ischeda. Càstia is ischedas anteriores, boga s'ispunta dae is ischedas chi non depas recuperare e poi proa a torrare a ddas recuperare.
 restore-page-hide-tabs = Cua is ischedas anteriores
-restore-page-show-tabs = Ammustra is ischedas anteriroes
+restore-page-show-tabs = Ammustra is ischedas anteriores
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
 #
