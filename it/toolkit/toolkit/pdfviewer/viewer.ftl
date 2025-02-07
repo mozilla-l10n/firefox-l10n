@@ -547,8 +547,8 @@ pdfjs-editor-add-signature-draw-thickness-range =
 pdfjs-editor-add-signature-image-placeholder = Trascina un file qui per caricarlo
 pdfjs-editor-add-signature-image-browse-link =
     { PLATFORM() ->
-        [macos] Oppure scegli i file immagine
-       *[other] Oppure esplora i file immagine
+        [macos] Oppure scegli dai file immagine
+       *[other] Oppure sfoglia i file immagine
     }
 
 ## Controls
