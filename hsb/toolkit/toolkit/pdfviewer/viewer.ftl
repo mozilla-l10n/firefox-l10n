@@ -331,6 +331,8 @@ pdfjs-editor-remove-stamp-button =
     .title = Wobraz wotstronić
 pdfjs-editor-remove-highlight-button =
     .title = Wuzběhnjenje wotstronić
+pdfjs-editor-remove-signature-button =
+    .title = Signaturu wotstronić
 
 ##
 
@@ -504,6 +506,7 @@ pdfjs-editor-undo-bar-message-highlight = Wotstronjene wuzběhnyć
 pdfjs-editor-undo-bar-message-freetext = Tekst je so wotstronił
 pdfjs-editor-undo-bar-message-ink = Rysowanka je so wotstroniła
 pdfjs-editor-undo-bar-message-stamp = Wobraz je so wotstronił
+pdfjs-editor-undo-bar-message-signature = Signatura je so wotstroniła
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple =
@@ -522,15 +525,44 @@ pdfjs-editor-undo-bar-close-button-label = Začinić
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-title = Signaturu přidać
 
 ## Tab names
 
+# Type is a verb (you can type your name as signature)
+pdfjs-editor-add-signature-type-button = Typ
+    .title = Typ
+# Draw is a verb (you can draw your signature)
+pdfjs-editor-add-signature-draw-button = Rysować
+    .title = Rysować
+pdfjs-editor-add-signature-image-button = Wobraz
+    .title = Wobraz
 
 ## Tab panels
 
+pdfjs-editor-add-signature-type-input =
+    .aria-label = Zapodajće swoju signaturu
+    .placeholder = Zapodajće swoju signaturu
+pdfjs-editor-add-signature-draw-placeholder = Rysujće swoju signaturu
+pdfjs-editor-add-signature-draw-thickness-range-label = Tołstosć
+# Variables:
+#   $thickness (Number) - the thickness (in pixels) of the line used to draw a signature.
+pdfjs-editor-add-signature-draw-thickness-range =
+    .title = Tołstosć rysowanki: { $thickness }
+pdfjs-editor-add-signature-image-placeholder = Ćehńće dataju sem, zo byšće ju nahrał
 
 ## Controls
 
+pdfjs-editor-add-signature-description-default-when-drawing = Signatura
+pdfjs-editor-add-signature-clear-button-label = Signaturu zhašeć
+pdfjs-editor-add-signature-clear-button =
+    .title = Signaturu zhašeć
+pdfjs-editor-add-signature-save-checkbox = Signaturu składować
+pdfjs-editor-add-signature-image-upload-error-title = Wobraz njeda so nahrać
+pdfjs-editor-add-signature-image-upload-error-description = Přepruwujće swój syćowy zwisk abo spytajće druhi wobraz.
+pdfjs-editor-add-signature-error-close-button = Začinić
 
 ## Dialog buttons
 
+pdfjs-editor-add-signature-cancel-button = Přetorhnyć
+pdfjs-editor-add-signature-add-button = Přidać
