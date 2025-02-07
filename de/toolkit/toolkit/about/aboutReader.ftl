@@ -85,6 +85,21 @@ about-reader-custom-colors-visited-links = Besuchte Links
 about-reader-custom-colors-selection-highlight = Textmarker zum Vorlesen
     .title = Farbe bearbeiten
 about-reader-reset-button = Auf Standard zurücksetzen
+about-reader-custom-colors-foreground2 =
+    .label = Text
+    .title = Farbe bearbeiten
+about-reader-custom-colors-background2 =
+    .label = Hintergrund
+    .title = Farbe bearbeiten
+about-reader-custom-colors-unvisited-links2 =
+    .label = Unbesuchte Links
+    .title = Farbe bearbeiten
+about-reader-custom-colors-visited-links2 =
+    .label = Besuchte Links
+    .title = Farbe bearbeiten
+about-reader-custom-colors-selection-highlight2 =
+    .label = Textmarker zum Vorlesen
+    .title = Farbe bearbeiten
 
 ## Reader View text and layout menu
 
