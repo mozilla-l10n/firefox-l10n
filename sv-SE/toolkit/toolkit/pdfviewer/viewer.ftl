@@ -544,6 +544,7 @@ pdfjs-editor-add-signature-draw-thickness-range-label = Tjocklek
 #   $thickness (Number) - the thickness (in pixels) of the line used to draw a signature.
 pdfjs-editor-add-signature-draw-thickness-range =
     .title = Ritningstjocklek: { $thickness }
+pdfjs-editor-add-signature-image-placeholder = Dra en fil hit för att ladda upp
 pdfjs-editor-add-signature-image-browse-link =
     { PLATFORM() ->
         [macos] Eller välj bildfiler
@@ -556,11 +557,11 @@ pdfjs-editor-add-signature-description-label = Beskrivning (alternativ text)
 pdfjs-editor-add-signature-description-input =
     .title = Beskrivning (alternativ text)
 pdfjs-editor-add-signature-description-default-when-drawing = Signatur
-pdfjs-editor-add-signature-clear-button-label = Tydlig signatur
+pdfjs-editor-add-signature-clear-button-label = Rensa signatur
 pdfjs-editor-add-signature-clear-button =
-    .title = Tydlig signatur
+    .title = Rensa signatur
 pdfjs-editor-add-signature-save-checkbox = Spara signatur
-pdfjs-editor-add-signature-save-warning-message = Du har nått gränsen på 5 sparade signaturer. Ta bort en för att spara mer.
+pdfjs-editor-add-signature-save-warning-message = Du har nått gränsen på 5 sparade signaturer. Ta bort en för att spara fler.
 pdfjs-editor-add-signature-image-upload-error-title = Det gick inte att ladda upp bilden
 pdfjs-editor-add-signature-image-upload-error-description = Kontrollera din nätverksanslutning eller försök med en annan bild.
 pdfjs-editor-add-signature-error-close-button = Stäng
