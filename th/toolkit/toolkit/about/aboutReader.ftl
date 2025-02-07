@@ -81,6 +81,21 @@ about-reader-custom-colors-visited-links = ลิงก์ที่เคยเ�
 about-reader-custom-colors-selection-highlight = ตัวเน้นข้อความสำหรับการอ่านออกเสียง
     .title = แก้ไขสี
 about-reader-reset-button = กลับเป็นค่าเริ่มต้น
+about-reader-custom-colors-foreground2 =
+    .label = ข้อความ
+    .title = แก้ไขสี
+about-reader-custom-colors-background2 =
+    .label = พื้นหลัง
+    .title = แก้ไขสี
+about-reader-custom-colors-unvisited-links2 =
+    .label = ลิงก์ที่ยังไม่เคยเยี่ยมชม
+    .title = แก้ไขสี
+about-reader-custom-colors-visited-links2 =
+    .label = ลิงก์ที่เคยเยี่ยมชมแล้ว
+    .title = แก้ไขสี
+about-reader-custom-colors-selection-highlight2 =
+    .label = ตัวเน้นข้อความสำหรับการอ่านออกเสียง
+    .title = แก้ไขสี
 
 ## Reader View text and layout menu
 
