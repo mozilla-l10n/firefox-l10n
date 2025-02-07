@@ -81,6 +81,21 @@ about-reader-custom-colors-visited-links = Tautan yang dikunjungi
 about-reader-custom-colors-selection-highlight = Penyorot untuk dibacakan
     .title = Edit warna
 about-reader-reset-button = Pulihkan bawaan
+about-reader-custom-colors-foreground2 =
+    .label = Teks
+    .title = Edit warna
+about-reader-custom-colors-background2 =
+    .label = Latar Belakang:
+    .title = Edit warna
+about-reader-custom-colors-unvisited-links2 =
+    .label = Tautan yang belum dikunjungi
+    .title = Edit warna
+about-reader-custom-colors-visited-links2 =
+    .label = Tautan yang dikunjungi
+    .title = Edit warna
+about-reader-custom-colors-selection-highlight2 =
+    .label = Penyorot untuk dibacakan
+    .title = Edit warna
 
 ## Reader View text and layout menu
 
