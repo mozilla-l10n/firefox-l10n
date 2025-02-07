@@ -85,6 +85,21 @@ about-reader-custom-colors-visited-links = მონახულებული 
 about-reader-custom-colors-selection-highlight = გამორჩევა ხმოვანი კითხვისას
     .title = ფერის შეცვლა
 about-reader-reset-button = ნაგულისხმევზე დაბრუნება
+about-reader-custom-colors-foreground2 =
+    .label = ნაწერი
+    .title = ფერის შეცვლა
+about-reader-custom-colors-background2 =
+    .label = ფონი
+    .title = ფერის შეცვლა
+about-reader-custom-colors-unvisited-links2 =
+    .label = მოუნახულებელი ბმულები
+    .title = ფერის შეცვლა
+about-reader-custom-colors-visited-links2 =
+    .label = მონახულებული ბმულები
+    .title = ფერის შეცვლა
+about-reader-custom-colors-selection-highlight2 =
+    .label = გამორჩევა ხმოვანი კითხვისას
+    .title = ფერის შეცვლა
 
 ## Reader View text and layout menu
 
