@@ -85,6 +85,21 @@ about-reader-custom-colors-visited-links = Avatut linkit
 about-reader-custom-colors-selection-highlight = Korostus ääneen lukua varten
     .title = Muokkaa väriä
 about-reader-reset-button = Palauta oletukset
+about-reader-custom-colors-foreground2 =
+    .label = Teksti
+    .title = Muokkaa väriä
+about-reader-custom-colors-background2 =
+    .label = Tausta
+    .title = Muokkaa väriä
+about-reader-custom-colors-unvisited-links2 =
+    .label = Avaamattomat linkit
+    .title = Muokkaa väriä
+about-reader-custom-colors-visited-links2 =
+    .label = Avatut linkit
+    .title = Muokkaa väriä
+about-reader-custom-colors-selection-highlight2 =
+    .label = Korostus ääneen lukua varten
+    .title = Muokkaa väriä
 
 ## Reader View text and layout menu
 
