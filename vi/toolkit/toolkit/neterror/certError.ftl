@@ -134,6 +134,7 @@ contentEncodingError-title = Lỗi encoding
 unsafeContentType-title = Kiểu tập tin không an toàn
 netReset-title = Kết nối bị khởi tạo lại
 netTimeout-title = Kết nối đã mất quá nhiều thời gian
+httpErrorPage-title = Có vẻ như có vấn đề với trang web này
 serverError-title = Có vẻ như có vấn đề với trang web này
 unknownProtocolFound-title = Chương trình không hiểu địa chỉ này
 proxyConnectFailure-title = Máy chủ proxy từ chối kết nối

@@ -467,6 +467,9 @@ newtab-section-unfollow-button = Huỷ theo dõi
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
 ## e.g. Blocked the politics section of stories.
 
+newtab-section-block-button = Chặn
+newtab-section-blocked-button = Đã chặn
+newtab-section-unblock-button = Bỏ chặn
 
 ## Confirmation modal for blocking a section
 
@@ -477,3 +480,10 @@ newtab-section-cancel-button = Không phải bây giờ
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+newtab-section-mangage-topics-title = Các chủ đề
+newtab-section-mangage-topics-button =
+    .label = Chủ đề đã theo dõi và đã chặn
+newtab-section-mangage-topics-followed-topics-subtitle = Chủ đề đã theo dõi
+newtab-section-mangage-topics-followed-topics-empty-state = Bạn chưa theo dõi bất kỳ chủ đề nào.
+newtab-section-mangage-topics-blocked-topics-subtitle = Chủ đề đã chặn
+newtab-section-mangage-topics-blocked-topics-empty-state = Bạn chưa chặn bất kỳ chủ đề nào.

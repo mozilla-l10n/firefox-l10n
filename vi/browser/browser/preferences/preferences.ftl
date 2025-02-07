@@ -213,6 +213,16 @@ containers-remove-cancel-button = Không xóa ngăn chứa này
 settings-tabs-show-image-in-preview =
     .label = Hiển thị hình ảnh xem trước khi bạn di chuột trên thẻ
     .accessKey = h
+browser-layout-header = Bố cục trình duyệt
+browser-layout-horizontal-tabs =
+    .label = Thẻ ngang
+browser-layout-horizontal-tabs-desc = Hiển thị ở đầu trình duyệt
+browser-layout-vertical-tabs =
+    .label = Thẻ dọc
+browser-layout-vertical-tabs-desc = Hiển thị ở bên, trong thanh lề
+browser-layout-show-sidebar =
+    .label = Hiển thị thanh lề
+browser-layout-show-sidebar-desc = Nhanh chóng truy cập dấu trang, thẻ từ điện thoại của bạn, chatbot AI và nhiều hơn nữa mà không rời khỏi chế độ xem chính của bạn.
 
 ## General Section - Language & Appearance
 
@@ -1291,17 +1301,40 @@ permissions-addon-exceptions =
 collection-header = Thu thập và sử dụng dữ liệu { -brand-short-name }
 collection-header2 = Thu thập và sử dụng dữ liệu { -brand-short-name }
     .searchkeywords = thu thập
+preferences-collection-description = Chúng tôi cố gắng cung cấp cho bạn các lựa chọn và chỉ thu thập dữ liệu tối thiểu cần thiết để cải thiện { -brand-product-name } cho mọi người.
+preferences-collection-privacy-notice = Xem thông báo về quyền riêng tự
 collection-description = Chúng tôi cố gắng cung cấp cho bạn sự lựa chọn và chỉ thu thập những gì chúng tôi cần để cung cấp và cải thiện { -brand-short-name } cho tất cả mọi người. Chúng tôi luôn xin phép trước khi thu thập thông tin cá nhân.
 collection-privacy-notice = Thông báo bảo mật
 collection-health-report-telemetry-disabled = Bạn không còn cho phép { -vendor-short-name } thu thập dữ liệu kỹ thuật và tương tác. Tất cả dữ liệu trong quá khứ sẽ bị xóa trong vòng 30 ngày.
 collection-health-report-telemetry-disabled-link = Tìm hiểu thêm
+collection-usage-ping =
+    .label = Gửi ping sử dụng hàng ngày đến { -vendor-short-name }
+    .accesskey = u
+collection-usage-ping-description = Điều này giúp { -vendor-short-name } ước tính số người dùng đang hoạt động.
+collection-health-report2 =
+    .label = Gửi dữ liệu kỹ thuật và tương tác đến { -vendor-short-name }
+    .accesskey = r
 collection-health-report =
     .label = Cho phép { -brand-short-name } gửi dữ liệu kỹ thuật và tương tác tới { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Tìm hiểu thêm
+collection-health-report-description = Điều này giúp chúng tôi cải thiện các tính năng, hiệu suất và ổn định của { -brand-product-name }.
+collection-studies2 =
+    .label = Cài đặt và chạy nghiên cứu
+collection-studies-description = Hãy thử các tính năng và ý tưởng trước khi chúng được phát hành cho mọi người.
 collection-studies =
     .label = Cho phép { -brand-short-name } cài đặt và chạy các nghiên cứu
 collection-studies-link = Xem nghiên cứu { -brand-short-name }
+addon-recommendations2 =
+    .label = Cho phép các đề xuất tiện ích mở rộng được cá nhân hoá
+addon-recommendations-description = Nhận đề xuất tiện ích mở rộng để cải thiện trải nghiệm duyệt web của bạn.
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled2 = Báo cáo dữ liệu bị vô hiệu hóa cho cấu hình bản dựng này.
+collection-backlogged-crash-reports2 =
+    .label = Tự động gửi báo cáo sự cố
+    .accesskey = c
+collection-backlogged-crash-reports-description = Điều này giúp { -vendor-short-name } chẩn đoán và khắc phục sự cố với trình duyệt. Báo cáo có thể bao gồm dữ liệu cá nhân hoặc nhạy cảm.
 addon-recommendations =
     .label = Cho phép { -brand-short-name } để thực hiện các đề xuất tiện ích mở rộng được cá nhân hóa
 addon-recommendations-link = Tìm hiểu thêm
@@ -1369,6 +1402,8 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } sắp hết dung 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Chế độ chỉ HTTPS
+httpsonly-description3 = Chỉ cho phép các kết nối an toàn đến các trang web. { -brand-short-name } sẽ hỏi trước khi kết nối không an toàn.
+httpsonly-learn-more2 = Chế độ Chỉ HTTPS hoạt động như thế nào
 httpsonly-description = HTTPS cung cấp kết nối được mã hóa an toàn giữa { -brand-short-name } và các trang web bạn truy cập. Hầu hết các trang web đều hỗ trợ HTTPS và nếu chế độ chỉ HTTPS được bật, thì { -brand-short-name } sẽ nâng cấp tất cả các kết nối lên HTTPS.
 httpsonly-description2 = { -brand-short-name } tạo kết nối an toàn và được mã hóa tới các trang web bạn truy cập. { -brand-short-name } sẽ cảnh báo bạn nếu kết nối không an toàn khi kích hoạt chỉ HTTPS.
 httpsonly-learn-more = Tìm hiểu thêm
@@ -1378,6 +1413,9 @@ httpsonly-radio-enabled2 =
     .label = Chỉ sử dụng HTTPS trong tất cả cửa sổ
 httpsonly-radio-enabled-pbm =
     .label = Chỉ kích hoạt chế độ HTTPS trong các cửa sổ riêng tư
+httpsonly-radio-disabled3 =
+    .label = Không kích hoạt chế độ chỉ HTTPS
+    .description = { -brand-short-name } vẫn có thể nâng cấp một số kết nối
 httpsonly-radio-enabled-pbm2 =
     .label = Chỉ sử dụng HTTPS trong cửa số riêng tư
 httpsonly-radio-disabled =

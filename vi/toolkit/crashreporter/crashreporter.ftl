@@ -8,6 +8,7 @@ crashreporter-crashed-and-restore = { -brand-short-name } gặp sự cố và đ
 crashreporter-plea = Để giúp chúng tôi chẩn đoán và sửa chữa, bạn có thể gửi báo cáo lỗi cho chúng tôi.
 crashreporter-information = Ứng dụng này được chạy sau khi gặp sự cố để báo cáo nó cho { -vendor-short-name }. Nó không nên được chạy trực tiếp.
 crashreporter-error = { -brand-short-name } gặp sự cố và đã thoát. Thật không may, trình báo cáo sự cố không thể gửi báo cáo về sự cố này.
+crashreporter-error-details-header = Chi tiết:
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Chi tiết: { $details }
 crashreporter-no-run-message = Ứng dụng này được chạy sau khi gặp lỗi để báo cáo vấn đề tới nhà cung cấp ứng dụng. Không nên chạy nó trực tiếp.
