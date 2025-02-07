@@ -29,6 +29,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] დახურული ჩანართების დაბრუნება
         }
     .accesskey = უ
+toolbar-context-turn-on-vertical-tabs =
+    .label = შვეული ჩანართების ჩართვა
+toolbar-context-turn-off-vertical-tabs =
+    .label = შვეული ჩანართების გამორთვა
+toolbar-context-customize-sidebar =
+    .label = გვერდითი ზოლის მორგება
 toolbar-context-menu-manage-extension =
     .label = გაფართოების მართვა
     .accesskey = ფ

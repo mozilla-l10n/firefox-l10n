@@ -11,6 +11,7 @@ more-from-moz-category =
 more-from-moz-subtitle = მოსინჯეთ სხვა { -vendor-short-name }-პროდუქტებიც, რომლებიც შექმნილია ჯანსაღი ინტერნეტის მხარდასაჭერად.
 more-from-moz-firefox-mobile-title = { -brand-product-name } მობილურზე
 more-from-moz-firefox-mobile-description = მობილური ბრაუზერი, რომლისთვისაც უწინარესი თქვენი პირადულობაა.
+more-from-moz-firefox-mobile-title-1 = { -brand-product-name } მობილურზე
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = გამოცადეთ და დაამატეთ ვინაობის გაუმხელობისა და უსაფრთხოების კიდევ ერთი შრე.
 more-from-moz-qr-code-box-firefox-mobile-title = ჩამოტვირთეთ მობილური მოწყობილობით. მიუშვირეთ კამერა QR-კოდს. როდესაც ბმული გამოჩნდება, შეეხეთ.
@@ -35,3 +36,6 @@ more-from-moz-mozilla-monitor-button = გამოიყენეთ { -monitor
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
+more-from-moz-solo-title = { -solo-ai-brand-name } AI
+more-from-moz-solo-description = შექმენით თქვენი ვებსაიტი მყისიერად და დააკავშირეთ საკუთარ დომენთან უფასოდ.
+more-from-moz-solo-button = გამოცადეთ { -solo-ai-brand-name }
