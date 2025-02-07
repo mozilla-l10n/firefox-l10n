@@ -85,6 +85,21 @@ about-reader-custom-colors-visited-links = Colegaments visitâts
 about-reader-custom-colors-selection-highlight = Evidenziadôr pe leture a vôs alte
     .title = Modifiche colôr
 about-reader-reset-button = Ripristine predefinîts
+about-reader-custom-colors-foreground2 =
+    .label = Test
+    .title = Modifiche colôr
+about-reader-custom-colors-background2 =
+    .label = Fonts
+    .title = Modifiche colôr
+about-reader-custom-colors-unvisited-links2 =
+    .label = Colegaments no visitâts
+    .title = Modifiche colôr
+about-reader-custom-colors-visited-links2 =
+    .label = Colegaments visitâts
+    .title = Modifiche colôr
+about-reader-custom-colors-selection-highlight2 =
+    .label = Evidenziadôr pe leture a vôs alte
+    .title = Modifiche colôr
 
 ## Reader View text and layout menu
 
