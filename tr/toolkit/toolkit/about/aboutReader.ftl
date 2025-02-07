@@ -85,6 +85,21 @@ about-reader-custom-colors-visited-links = Ziyaret edilmiş bağlantılar
 about-reader-custom-colors-selection-highlight = Sesli okuma için vurgulayıcı
     .title = Rengi düzenle
 about-reader-reset-button = Varsayılanlara sıfırla
+about-reader-custom-colors-foreground2 =
+    .label = Metin
+    .title = Rengi düzenle
+about-reader-custom-colors-background2 =
+    .label = Arka plan
+    .title = Rengi düzenle
+about-reader-custom-colors-unvisited-links2 =
+    .label = Ziyaret edilmemiş bağlantılar
+    .title = Rengi düzenle
+about-reader-custom-colors-visited-links2 =
+    .label = Ziyaret edilmiş bağlantılar
+    .title = Rengi düzenle
+about-reader-custom-colors-selection-highlight2 =
+    .label = Sesli okuma için vurgulayıcı
+    .title = Rengi düzenle
 
 ## Reader View text and layout menu
 
