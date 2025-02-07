@@ -46,6 +46,13 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = Bỏ tắt tiếng thẻ
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = Tắt tiếng thẻ
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = Phát âm thanh thẻ
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -167,6 +174,18 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Bỏ tắt tiếng thẻ
 tabbrowser-manager-close-tab =
     .tooltiptext = Đóng thẻ
+# This is for tab groups that have been "saved and closed" (see tab-group-editor-action-save). It does
+# not include "deleted" tab groups (see tab-group-editor-action-delete).
+tabbrowser-manager-closed-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — Đã đóng
+tabbrowser-manager-current-window-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — Cửa sổ hiện tại
+# "Show more" is for showing all open groups from other windows, as well as saved groups. Initially,
+# we only show up to six of these groups.
+tabbrowser-manager-tab-groups-show-more =
+    .label = Hiển thị thêm
 
 ## Tab Groups
 
@@ -178,6 +197,30 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Huỷ bỏ
     .accesskey = C
+tab-group-editor-color-selector =
+    .aria-label = Màu nhóm thẻ
+tab-group-editor-color-selector2-blue = Xanh dương
+    .title = Xanh dương
+tab-group-editor-color-selector2-purple = Tím
+    .title = Tím
+tab-group-editor-color-selector2-cyan = Xanh lơ
+    .title = Xanh lơ
+tab-group-editor-color-selector2-orange = Cam
+    .title = Cam
+tab-group-editor-color-selector2-yellow = Vàng
+    .title = Vàng
+tab-group-editor-color-selector2-pink = Hồng
+    .title = Hồng
+tab-group-editor-color-selector2-green = Xanh lá cây
+    .title = Xanh lá cây
+tab-group-editor-color-selector2-gray = Xám
+    .title = Xám
+tab-group-editor-color-selector2-red = Đỏ
+    .title = Đỏ
+# Variables:
+#  $tabGroupName (String): The name of the tab group. Defaults to the value
+#                          of tab-group-name-default.
+tab-group-description = { $tabGroupName } — Nhóm thẻ
 tab-group-menu-header = Nhóm thẻ
 tab-context-unnamed-group =
     .label = Nhóm không tên
