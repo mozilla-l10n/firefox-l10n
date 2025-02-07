@@ -544,7 +544,6 @@ pdfjs-editor-add-signature-draw-thickness-range-label = Tjocklek
 #   $thickness (Number) - the thickness (in pixels) of the line used to draw a signature.
 pdfjs-editor-add-signature-draw-thickness-range =
     .title = Ritningstjocklek: { $thickness }
-pdfjs-editor-add-signature-image-placeholder = Dra en fil hit för att ladda upp
 pdfjs-editor-add-signature-image-browse-link =
     { PLATFORM() ->
         [macos] Eller välj bildfiler

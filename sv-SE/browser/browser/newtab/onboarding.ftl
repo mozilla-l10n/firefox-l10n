@@ -462,7 +462,7 @@ multi-profile-callout-cta = Skapa en profil
 ## Desktop to Mobile Adoption feature callout strings
 
 # If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
-desktop-to-mobile-headline = Hämta, synkronisera och gå!
+desktop-to-mobile-headline = Ladda ner, synkronisera och kör!
 # The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
 desktop-to-mobile-subtitle = Skanna QR-koden för att ladda ner { -brand-product-name } för mobil. När du har installerat den, välj "Synkronisera till mobil" för att komma åt dina lösenord, bokmärken och mer när du är på språng.
 dismiss-button-label = Ignorera
