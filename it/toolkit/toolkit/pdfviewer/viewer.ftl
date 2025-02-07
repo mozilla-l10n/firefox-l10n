@@ -570,3 +570,4 @@ pdfjs-editor-add-signature-error-close-button = Chiudi
 
 pdfjs-editor-add-signature-cancel-button = Annulla
 pdfjs-editor-add-signature-add-button = Aggiungi
+
