@@ -89,6 +89,21 @@ about-reader-custom-colors-visited-links = الروابط المزارة
 about-reader-custom-colors-selection-highlight = مبرز للقراءة بصوت عالٍ
     .title = حرّر اللون
 about-reader-reset-button = صفّر الإعداد المبدئي
+about-reader-custom-colors-foreground2 =
+    .label = نص
+    .title = حرّر اللون
+about-reader-custom-colors-background2 =
+    .label = الخلفية
+    .title = حرّر اللون
+about-reader-custom-colors-unvisited-links2 =
+    .label = الروابط غير المزارة
+    .title = حرّر اللون
+about-reader-custom-colors-visited-links2 =
+    .label = الروابط المزارة
+    .title = حرّر اللون
+about-reader-custom-colors-selection-highlight2 =
+    .label = مبرز للقراءة بصوت عالٍ
+    .title = حرّر اللون
 
 ## Reader View text and layout menu
 
