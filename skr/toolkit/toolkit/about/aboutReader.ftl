@@ -85,6 +85,12 @@ about-reader-custom-colors-visited-links = ملاحظہ کیتے ڳئے لنکس
 about-reader-custom-colors-selection-highlight = اُچّی اَواز نال پڑھݨ کِیتے ہائی لائٹر
     .title = رنگ وِچ ترمیم کرو
 about-reader-reset-button = طے شدہ ولا تازے کرو
+about-reader-custom-colors-foreground2 =
+    .label = عبارت
+    .title = رنگ وچ تبدیلی کرو
+about-reader-custom-colors-background2 =
+    .label = بیک گراؤنڈ
+    .title = رنگ وچ تبدیلی کرو
 
 ## Reader View text and layout menu
 
