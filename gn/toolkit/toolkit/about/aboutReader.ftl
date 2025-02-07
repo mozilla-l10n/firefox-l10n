@@ -85,6 +85,21 @@ about-reader-custom-colors-visited-links = Juajuha ojeporúva
 about-reader-custom-colors-selection-highlight = Mbosa’y emoñe’ẽ hag̃ua ayvúpe
     .title = Embosako’i sa’y
 about-reader-reset-button = Erujey ijypykuéva
+about-reader-custom-colors-foreground2 =
+    .label = Moñe’ẽrã
+    .title = Embosako’i sa’y
+about-reader-custom-colors-background2 =
+    .label = Tugua
+    .title = Embosako’i sa’y
+about-reader-custom-colors-unvisited-links2 =
+    .label = Juajuha ojeporu’ỹva
+    .title = Embosako’i sa’y
+about-reader-custom-colors-visited-links2 =
+    .label = Juajuha ojeporúva
+    .title = Embosako’i sa’y
+about-reader-custom-colors-selection-highlight2 =
+    .label = Mbosa’y emoñe’ẽ hag̃ua ayvúpe
+    .title = Embosako’i sa’y
 
 ## Reader View text and layout menu
 
