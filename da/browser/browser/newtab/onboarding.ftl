@@ -453,3 +453,6 @@ multi-profile-spotlight-cta = Opret en profil
 multi-profile-callout-title = Opret forskellige profiler til arbejde og fritid
 multi-profile-callout-subtitle = Profiler holder dine browsingdata som søgehistorik og adgangskoder helt adskilte.
 multi-profile-callout-cta = Opret en profil
+
+## Desktop to Mobile Adoption feature callout strings
+

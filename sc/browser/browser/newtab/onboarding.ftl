@@ -440,3 +440,6 @@ multi-profile-spotlight-cta = Crea unu profilu
 multi-profile-callout-title = Crea profilos diferentes pro traballu e ispàssiu
 multi-profile-callout-subtitle = Is profilos ti permitint de mantènnere separadas is informatziones de navigatzione, includende sa cronologia de chircas e is craes.
 multi-profile-callout-cta = Crea unu profilu
+
+## Desktop to Mobile Adoption feature callout strings
+

@@ -456,3 +456,6 @@ multi-profile-spotlight-cta = Tạo hồ sơ
 multi-profile-callout-title = Tạo các hồ sơ khác nhau cho công việc và giải trí
 multi-profile-callout-subtitle = Hồ sơ cho phép bạn giữ thông tin duyệt web của mình, như lịch sử tìm kiếm và mật khẩu, hoàn toàn riêng biệt.
 multi-profile-callout-cta = Tạo hồ sơ
+
+## Desktop to Mobile Adoption feature callout strings
+

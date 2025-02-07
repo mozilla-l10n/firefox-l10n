@@ -193,3 +193,6 @@ tab-groups-onboarding-dismiss = ശരി
 
 multi-profile-spotlight-cta = രൂപരേഖയുണ്ടാക്കുക
 multi-profile-callout-cta = രൂപരേഖയുണ്ടാക്കുക
+
+## Desktop to Mobile Adoption feature callout strings
+

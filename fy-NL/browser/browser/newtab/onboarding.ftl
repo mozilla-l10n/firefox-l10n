@@ -457,3 +457,6 @@ multi-profile-spotlight-cta = In profyl oanmeitsje
 multi-profile-callout-title = Meitsje ferskate profilen foar wurk en wille
 multi-profile-callout-subtitle = Profilen litte jo jo sneupynformaasje, lykas sykskiednis en wachtwurden, folslein apart te hâlden.
 multi-profile-callout-cta = In profyl oanmeitsje
+
+## Desktop to Mobile Adoption feature callout strings
+

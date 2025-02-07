@@ -152,3 +152,18 @@ pdfjs-web-fonts-disabled = Fonti za tovuti zimelemazwa: haziwezi kutumia fonti z
 
 ## "Annotations removed" bar
 
+
+## Add a signature dialog
+
+
+## Tab names
+
+
+## Tab panels
+
+
+## Controls
+
+
+## Dialog buttons
+

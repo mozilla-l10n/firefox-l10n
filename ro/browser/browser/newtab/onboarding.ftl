@@ -213,3 +213,6 @@ onboarding-easy-setup-security-and-privacy-title = Ne place să te protejăm
 
 ## Multi Profiles feature onboarding messages
 
+
+## Desktop to Mobile Adoption feature callout strings
+

@@ -513,3 +513,18 @@ pdfjs-editor-undo-bar-undo-button-label = Desegin
 pdfjs-editor-undo-bar-close-button =
     .title = Itxi
 pdfjs-editor-undo-bar-close-button-label = Itxi
+
+## Add a signature dialog
+
+
+## Tab names
+
+
+## Tab panels
+
+
+## Controls
+
+
+## Dialog buttons
+

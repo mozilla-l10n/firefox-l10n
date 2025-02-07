@@ -456,3 +456,6 @@ multi-profile-spotlight-cta = Стварыць профіль
 multi-profile-callout-title = Стварыце розныя профілі для працы і забавы
 multi-profile-callout-subtitle = Профілі дазваляюць захоўваць вашу інфармацыю аб агляданні, напрыклад гісторыю пошуку і паролі, цалкам асобна.
 multi-profile-callout-cta = Стварыць профіль
+
+## Desktop to Mobile Adoption feature callout strings
+

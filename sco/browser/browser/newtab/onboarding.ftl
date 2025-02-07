@@ -188,3 +188,6 @@ mr2-onboarding-start-browsing-button-label = Stert stravaigin
 
 ## Multi Profiles feature onboarding messages
 
+
+## Desktop to Mobile Adoption feature callout strings
+

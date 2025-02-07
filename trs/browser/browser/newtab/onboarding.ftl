@@ -121,3 +121,6 @@ onboarding-start-browsing-button-label = Gayi'i gache nunt
 
 ## Multi Profiles feature onboarding messages
 
+
+## Desktop to Mobile Adoption feature callout strings
+

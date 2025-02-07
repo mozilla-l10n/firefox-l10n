@@ -138,3 +138,6 @@ onboarding-live-language-skip-button-label = Прескокни
 
 ## Multi Profiles feature onboarding messages
 
+
+## Desktop to Mobile Adoption feature callout strings
+

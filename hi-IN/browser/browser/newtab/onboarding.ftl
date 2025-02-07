@@ -128,3 +128,6 @@ mr1-onboarding-theme-label-system = सिस्टम थीम
 
 ## Multi Profiles feature onboarding messages
 
+
+## Desktop to Mobile Adoption feature callout strings
+

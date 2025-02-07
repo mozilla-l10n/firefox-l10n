@@ -457,3 +457,6 @@ multi-profile-spotlight-cta = Profil załožić
 multi-profile-callout-title = Załožće rozdźělne profile za dźěło a zabawu
 multi-profile-callout-subtitle = Profile wam zmóžnjeja, waše přehladowanske informacije kaž pytansku historiju a hesła dospołnje separatnje wobchować.
 multi-profile-callout-cta = Profil załožić
+
+## Desktop to Mobile Adoption feature callout strings
+

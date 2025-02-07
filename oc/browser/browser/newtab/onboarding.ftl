@@ -383,3 +383,6 @@ onboarding-checklist-extension = Apondre una extension
 ## Multi Profiles feature onboarding messages
 
 multi-profile-callout-cta = Crear un perfil
+
+## Desktop to Mobile Adoption feature callout strings
+

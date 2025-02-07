@@ -394,3 +394,6 @@ onboarding-checklist-sign-up = Kcem neɣ qqen ɣer umiḍan-ik
 
 ## Multi Profiles feature onboarding messages
 
+
+## Desktop to Mobile Adoption feature callout strings
+

@@ -119,3 +119,18 @@ pdfjs-password-cancel-button = Ya'sakan
 
 ## "Annotations removed" bar
 
+
+## Add a signature dialog
+
+
+## Tab names
+
+
+## Tab panels
+
+
+## Controls
+
+
+## Dialog buttons
+

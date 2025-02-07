@@ -404,3 +404,6 @@ onboarding-checklist-extension = Gehitu hedapen bat
 
 multi-profile-spotlight-cta = Sortu profil bat
 multi-profile-callout-cta = Sortu profil bat
+
+## Desktop to Mobile Adoption feature callout strings
+

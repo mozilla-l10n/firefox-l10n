@@ -457,3 +457,6 @@ multi-profile-spotlight-cta = Эҷод кардани профил
 multi-profile-callout-title = Профилҳои гуногунро барои кор ва дилхушӣ эҷод намоед
 multi-profile-callout-subtitle = Профилҳо ба шумо имкон медиҳанд, то ки тавонед маълумоти тамошобинии худро, ба монанди таърих ва ниҳонвожаҳо, комилан ҷудо нигоҳ доред.
 multi-profile-callout-cta = Эҷод кардани профил
+
+## Desktop to Mobile Adoption feature callout strings
+

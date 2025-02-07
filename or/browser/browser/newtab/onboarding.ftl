@@ -129,3 +129,6 @@ onboarding-live-language-skip-button-label = ବାଦ୍ ଦିଅନ୍ତୁ
 
 ## Multi Profiles feature onboarding messages
 
+
+## Desktop to Mobile Adoption feature callout strings
+

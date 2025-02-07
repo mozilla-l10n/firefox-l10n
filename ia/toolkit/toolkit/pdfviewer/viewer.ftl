@@ -513,3 +513,18 @@ pdfjs-editor-undo-bar-undo-button-label = Disfacer
 pdfjs-editor-undo-bar-close-button =
     .title = Clauder
 pdfjs-editor-undo-bar-close-button-label = Clauder
+
+## Add a signature dialog
+
+
+## Tab names
+
+
+## Tab panels
+
+
+## Controls
+
+
+## Dialog buttons
+

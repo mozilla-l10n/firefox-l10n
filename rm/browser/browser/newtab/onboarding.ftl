@@ -457,3 +457,6 @@ multi-profile-spotlight-cta = Crear in profil
 multi-profile-callout-title = Crear differents profils per la lavur ed il temp liber
 multi-profile-callout-subtitle = Profils ta permettan da separar cumplettamain tias datas da navigaziun, sco la cronologia da tschertga ed ils pleds-clav.
 multi-profile-callout-cta = Crear in profil
+
+## Desktop to Mobile Adoption feature callout strings
+

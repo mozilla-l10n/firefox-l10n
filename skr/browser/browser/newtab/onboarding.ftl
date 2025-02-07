@@ -400,3 +400,6 @@ onboarding-checklist-extension = ایکسٹنشن شامل کرو
 
 ## Multi Profiles feature onboarding messages
 
+
+## Desktop to Mobile Adoption feature callout strings
+

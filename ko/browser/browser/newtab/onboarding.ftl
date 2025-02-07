@@ -456,3 +456,6 @@ multi-profile-spotlight-cta = 프로필 만들기
 multi-profile-callout-title = 업무와 여가를 위한 다양한 프로필 만들기
 multi-profile-callout-subtitle = 프로필을 사용하면 검색 기록이나 비밀번호와 같은 탐색 정보를 완전히 분리할 수 있습니다.
 multi-profile-callout-cta = 프로필 만들기
+
+## Desktop to Mobile Adoption feature callout strings
+

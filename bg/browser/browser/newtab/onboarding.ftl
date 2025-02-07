@@ -324,3 +324,6 @@ onboarding-genai-sidebar-title = Опитайте чатбот с AI в стра
 ## Multi Profiles feature onboarding messages
 
 multi-profile-spotlight-cta = Създаване на профил
+
+## Desktop to Mobile Adoption feature callout strings
+

@@ -455,3 +455,6 @@ multi-profile-spotlight-cta = ਪਰੋਫਾਈਲ ਬਣਾਓ
 multi-profile-callout-title = ਕੰਮ ਅਤੇ ਮੌਜ ਮਸਤੀ ਲਈ ਅਲਹਿਦਾ ਪਰੋਫ਼ਾਈਲ ਬਣਾਓ
 multi-profile-callout-subtitle = ਪਰੋਫ਼ਾਈਲ ਤੁਹਾਡੀ ਬਰਾਊਜ਼ਰ ਜਾਣਕਾਰੀ, ਜਿਸ ਵਿੱਚ ਖੋਜ ਅਤੀਤ ਅਤੇ ਪਾਸਵਰਡ ਹੁੰਦੇ ਹਨ, ਨੂੰ ਬਿਲਕੁਲ ਵੱਖੋ-ਵੱਖਰਾ ਰੱਖਦੇ ਹਨ।
 multi-profile-callout-cta = ਪਰੋਫਾਈਲ ਬਣਾਓ
+
+## Desktop to Mobile Adoption feature callout strings
+

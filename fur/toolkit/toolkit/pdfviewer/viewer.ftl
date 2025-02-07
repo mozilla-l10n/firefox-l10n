@@ -482,3 +482,18 @@ pdfjs-editor-alt-text-settings-close-button = Siere
 
 ## "Annotations removed" bar
 
+
+## Add a signature dialog
+
+
+## Tab names
+
+
+## Tab panels
+
+
+## Controls
+
+
+## Dialog buttons
+

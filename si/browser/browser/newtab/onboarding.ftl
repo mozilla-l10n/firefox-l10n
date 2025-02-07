@@ -335,3 +335,6 @@ onboarding-genai-sidebar-primary-button = කතා ක්‍රමලේඛය�
 
 ## Multi Profiles feature onboarding messages
 
+
+## Desktop to Mobile Adoption feature callout strings
+

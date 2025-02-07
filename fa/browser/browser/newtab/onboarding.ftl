@@ -208,3 +208,6 @@ mr2022-onboarding-gratitude-secondary-button-label = آغاز مرور
 
 ## Multi Profiles feature onboarding messages
 
+
+## Desktop to Mobile Adoption feature callout strings
+

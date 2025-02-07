@@ -192,3 +192,6 @@ mr2-onboarding-start-browsing-button-label = Comença a navegar
 
 ## Multi Profiles feature onboarding messages
 
+
+## Desktop to Mobile Adoption feature callout strings
+

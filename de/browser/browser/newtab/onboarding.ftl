@@ -455,3 +455,6 @@ multi-profile-spotlight-cta = Ein Profil erstellen
 multi-profile-callout-title = Erstelle unterschiedliche Profile für Arbeit und Freizeit
 multi-profile-callout-subtitle = Mit Profilen kannst du deine Surf-Daten, wie Suchchronik und Passwörter, komplett trennen.
 multi-profile-callout-cta = Ein Profil erstellen
+
+## Desktop to Mobile Adoption feature callout strings
+

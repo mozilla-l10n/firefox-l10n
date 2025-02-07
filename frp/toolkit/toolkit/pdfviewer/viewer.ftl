@@ -84,3 +84,18 @@ pdfjs-password-cancel-button = Anular
 
 ## "Annotations removed" bar
 
+
+## Add a signature dialog
+
+
+## Tab names
+
+
+## Tab panels
+
+
+## Controls
+
+
+## Dialog buttons
+

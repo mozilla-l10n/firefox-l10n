@@ -285,3 +285,18 @@ pdfjs-web-fonts-disabled = Els tipus de lletra web estan desactivats: no es pode
 
 ## "Annotations removed" bar
 
+
+## Add a signature dialog
+
+
+## Tab names
+
+
+## Tab panels
+
+
+## Controls
+
+
+## Dialog buttons
+

@@ -439,3 +439,6 @@ onboarding-checklist-sign-up = ᱟᱢᱟᱜ ᱠᱷᱟᱛᱟ ᱨᱮ ᱧᱩᱛᱩ�
 
 ## Multi Profiles feature onboarding messages
 
+
+## Desktop to Mobile Adoption feature callout strings
+

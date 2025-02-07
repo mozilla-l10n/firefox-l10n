@@ -121,3 +121,6 @@ onboarding-start-browsing-button-label = Gezinmeye başla
 
 ## Multi Profiles feature onboarding messages
 
+
+## Desktop to Mobile Adoption feature callout strings
+

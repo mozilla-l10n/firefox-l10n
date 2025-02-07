@@ -456,3 +456,6 @@ multi-profile-spotlight-cta = Buat profil
 multi-profile-callout-title = Buat profil berbeda untuk bekerja dan bersenang-senang
 multi-profile-callout-subtitle = Profil memungkinkan Anda menyimpan info penjelajahan Anda, seperti riwayat pencarian dan kata sandi, benar-benar terpisah.
 multi-profile-callout-cta = Buat profil
+
+## Desktop to Mobile Adoption feature callout strings
+

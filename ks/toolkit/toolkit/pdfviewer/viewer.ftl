@@ -189,3 +189,18 @@ pdfjs-web-fonts-disabled = ویب فانٹ چھ ڈیسیبلْڈ: ایمبیڈی
 
 ## "Annotations removed" bar
 
+
+## Add a signature dialog
+
+
+## Tab names
+
+
+## Tab panels
+
+
+## Controls
+
+
+## Dialog buttons
+

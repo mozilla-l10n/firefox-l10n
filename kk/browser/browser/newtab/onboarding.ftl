@@ -449,3 +449,6 @@ multi-profile-spotlight-title = { -brand-product-name } профильдерін
 multi-profile-spotlight-cta = Профиль жасау
 multi-profile-callout-title = Жұмыс және көңіл көтеру үшін әртүрлі профильдер жасау
 multi-profile-callout-cta = Профиль жасау
+
+## Desktop to Mobile Adoption feature callout strings
+

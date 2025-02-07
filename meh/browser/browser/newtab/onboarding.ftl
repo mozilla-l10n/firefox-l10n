@@ -130,3 +130,6 @@ mr1-onboarding-theme-label-dark = Teku tun
 
 ## Multi Profiles feature onboarding messages
 
+
+## Desktop to Mobile Adoption feature callout strings
+

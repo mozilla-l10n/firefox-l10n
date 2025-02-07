@@ -84,3 +84,18 @@ pdfjs-print-progress-close-button = Ŕput
 
 ## "Annotations removed" bar
 
+
+## Add a signature dialog
+
+
+## Tab names
+
+
+## Tab panels
+
+
+## Controls
+
+
+## Dialog buttons
+

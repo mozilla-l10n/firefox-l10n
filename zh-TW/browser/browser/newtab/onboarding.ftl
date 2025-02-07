@@ -444,3 +444,6 @@ multi-profile-spotlight-cta = 建立設定檔
 multi-profile-callout-title = 為工作與私人上網情境，建立不同設定檔
 multi-profile-callout-subtitle = 您可以透過不同設定檔完全隔離搜尋紀錄、網站密碼等上網資訊。
 multi-profile-callout-cta = 建立設定檔
+
+## Desktop to Mobile Adoption feature callout strings
+

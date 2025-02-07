@@ -455,3 +455,6 @@ multi-profile-spotlight-cta = Luo profiili
 multi-profile-callout-title = Luo eri profiilit työtä ja vapaa-aikaa varten
 multi-profile-callout-subtitle = Profiilien avulla voit pitää selaustietosi, kuten hakuhistorian ja salasanat, täysin erillään.
 multi-profile-callout-cta = Luo profiili
+
+## Desktop to Mobile Adoption feature callout strings
+

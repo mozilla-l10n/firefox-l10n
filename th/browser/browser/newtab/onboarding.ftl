@@ -457,3 +457,6 @@ multi-profile-spotlight-cta = สร้างโปรไฟล์
 multi-profile-callout-title = สร้างโปรไฟล์แยกกันสำหรับการทำงานและความบันเทิง
 multi-profile-callout-subtitle = โปรไฟล์ช่วยให้คุณสามารถเก็บข้อมูลการท่องเว็บ เช่น ประวัติการค้นหา และรหัสผ่าน แยกจากกันได้โดยสิ้นเชิง
 multi-profile-callout-cta = สร้างโปรไฟล์
+
+## Desktop to Mobile Adoption feature callout strings
+

@@ -501,3 +501,18 @@ pdfjs-editor-undo-bar-undo-button-label = 실행 취소
 pdfjs-editor-undo-bar-close-button =
     .title = 닫기
 pdfjs-editor-undo-bar-close-button-label = 닫기
+
+## Add a signature dialog
+
+
+## Tab names
+
+
+## Tab panels
+
+
+## Controls
+
+
+## Dialog buttons
+

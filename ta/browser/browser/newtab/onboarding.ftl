@@ -121,3 +121,6 @@ onboarding-start-browsing-button-label = உலவத் தொடங்கு�
 
 ## Multi Profiles feature onboarding messages
 
+
+## Desktop to Mobile Adoption feature callout strings
+

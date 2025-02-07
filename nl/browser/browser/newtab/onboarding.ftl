@@ -457,3 +457,6 @@ multi-profile-spotlight-cta = Een profiel aanmaken
 multi-profile-callout-title = Maak verschillende profielen voor werk en plezier
 multi-profile-callout-subtitle = Met profielen kunt u uw navigatiegegevens, zoals zoekgeschiedenis en wachtwoorden, volledig gescheiden houden.
 multi-profile-callout-cta = Een profiel aanmaken
+
+## Desktop to Mobile Adoption feature callout strings
+

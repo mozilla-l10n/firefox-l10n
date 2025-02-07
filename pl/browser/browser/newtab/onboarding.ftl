@@ -448,3 +448,6 @@ multi-profile-spotlight-cta = Utwórz profil
 multi-profile-callout-title = Utwórz różne profile do pracy i do zabawy
 multi-profile-callout-subtitle = Profile umożliwiają całkowite oddzielenie danych przeglądania, takich jak historia wyszukiwania i hasła.
 multi-profile-callout-cta = Utwórz profil
+
+## Desktop to Mobile Adoption feature callout strings
+

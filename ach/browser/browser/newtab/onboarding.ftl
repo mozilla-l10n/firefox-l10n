@@ -159,3 +159,6 @@ mr2022-onboarding-existing-pin-header = Pwoc boti pi maro { -brand-product-name 
 
 ## Multi Profiles feature onboarding messages
 
+
+## Desktop to Mobile Adoption feature callout strings
+

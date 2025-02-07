@@ -412,3 +412,6 @@ multi-profile-spotlight-cta = יצירת פרופיל
 multi-profile-callout-title = יצירת פרופילים שונים לעבודה ולהנאה
 multi-profile-callout-subtitle = פרופילים מאפשרים לך לשמור על נתוני הגלישה שלך, לרבות היסטוריית חיפוש וססמאות, מופרדים לחלוטין אחד מהשני.
 multi-profile-callout-cta = יצירת פרופיל
+
+## Desktop to Mobile Adoption feature callout strings
+

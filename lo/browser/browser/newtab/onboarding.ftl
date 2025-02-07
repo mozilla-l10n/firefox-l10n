@@ -338,3 +338,6 @@ onboarding-device-migration-primary-button-label = ເຂົ້າສູ່ລ�
 
 ## Multi Profiles feature onboarding messages
 
+
+## Desktop to Mobile Adoption feature callout strings
+

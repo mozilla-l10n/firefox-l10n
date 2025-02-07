@@ -136,3 +136,6 @@ mr1-onboarding-theme-label-system = Tizim mavzusi
 
 ## Multi Profiles feature onboarding messages
 
+
+## Desktop to Mobile Adoption feature callout strings
+

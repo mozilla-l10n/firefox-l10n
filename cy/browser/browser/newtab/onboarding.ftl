@@ -457,3 +457,6 @@ multi-profile-spotlight-cta = Crëwch broffil
 multi-profile-callout-title = Creu gwahanol broffiliau ar gyfer gwaith a hwyl
 multi-profile-callout-subtitle = Mae proffiliau'n gadael i chi gadw'ch manylion pori, fel hanes chwilio a chyfrineiriau, yn hollol ar wahân.
 multi-profile-callout-cta = Crëwch broffil
+
+## Desktop to Mobile Adoption feature callout strings
+

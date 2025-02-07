@@ -445,3 +445,6 @@ onboarding-checklist-sign-up = Региструј се или се пријав�
 
 ## Multi Profiles feature onboarding messages
 
+
+## Desktop to Mobile Adoption feature callout strings
+

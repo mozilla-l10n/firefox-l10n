@@ -428,3 +428,6 @@ tab-groups-onboarding-dismiss = OK
 
 multi-profile-spotlight-cta = Opprett ein profil
 multi-profile-callout-cta = Opprett ein profil
+
+## Desktop to Mobile Adoption feature callout strings
+

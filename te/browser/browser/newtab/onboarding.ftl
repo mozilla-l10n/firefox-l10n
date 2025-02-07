@@ -154,3 +154,6 @@ onboarding-genai-sidebar-secondary-button = విహరించడం మొ�
 
 ## Multi Profiles feature onboarding messages
 
+
+## Desktop to Mobile Adoption feature callout strings
+

@@ -457,3 +457,6 @@ multi-profile-spotlight-cta = Búðu til notkunarsnið
 multi-profile-callout-title = Búðu til mismunandi snið fyrir vinnu og skemmtun
 multi-profile-callout-subtitle = Notkunarsnið gera þér kleift að halda vafurupplýsingunum þínum, eins og leitarferli og lykilorðum, algjörlega aðskildum.
 multi-profile-callout-cta = Búðu til notkunarsnið
+
+## Desktop to Mobile Adoption feature callout strings
+

@@ -348,3 +348,18 @@ pdfjs-editor-undo-bar-undo-button-label = പഴയപോലെയാക്ക�
 pdfjs-editor-undo-bar-close-button =
     .title = അടയ്ക്കുക
 pdfjs-editor-undo-bar-close-button-label = അടയ്ക്കുക
+
+## Add a signature dialog
+
+
+## Tab names
+
+
+## Tab panels
+
+
+## Controls
+
+
+## Dialog buttons
+

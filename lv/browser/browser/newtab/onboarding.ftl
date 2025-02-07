@@ -374,3 +374,6 @@ onboarding-new-user-survey-familiarity-based-option-4 = Esmu to izmantojis, bet 
 
 ## Multi Profiles feature onboarding messages
 
+
+## Desktop to Mobile Adoption feature callout strings
+

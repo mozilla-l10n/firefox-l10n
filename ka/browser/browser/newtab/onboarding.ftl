@@ -457,3 +457,6 @@ multi-profile-spotlight-cta = პროფილის შექმნა
 multi-profile-callout-title = შექმენით განსხვავებული პროფილები საქმისთვის და გასართობად
 multi-profile-callout-subtitle = პროფილები საშუალებას გაძლევთ, განაცალკევოთ თქვენი მონაცემები, მათ შორის ძიების ისტორია და პაროლები.
 multi-profile-callout-cta = პროფილის შექმნა
+
+## Desktop to Mobile Adoption feature callout strings
+

@@ -177,3 +177,6 @@ mr2-onboarding-start-browsing-button-label = Comenzar a restolar
 
 ## Multi Profiles feature onboarding messages
 
+
+## Desktop to Mobile Adoption feature callout strings
+

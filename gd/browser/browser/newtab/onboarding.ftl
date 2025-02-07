@@ -359,3 +359,6 @@ onboarding-mobile-download-security-and-privacy-subtitle = Nuair a bhios an sion
 
 ## Multi Profiles feature onboarding messages
 
+
+## Desktop to Mobile Adoption feature callout strings
+

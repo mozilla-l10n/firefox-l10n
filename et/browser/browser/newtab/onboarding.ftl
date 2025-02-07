@@ -222,3 +222,6 @@ fx100-upgrade-thanks-keep-body = See on meie 100. väljalase. Täname, et oled o
 
 ## Multi Profiles feature onboarding messages
 
+
+## Desktop to Mobile Adoption feature callout strings
+

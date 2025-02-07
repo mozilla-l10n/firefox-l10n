@@ -427,3 +427,6 @@ onboarding-genai-sidebar-secondary-button = Scomence a navigâ
 
 ## Multi Profiles feature onboarding messages
 
+
+## Desktop to Mobile Adoption feature callout strings
+

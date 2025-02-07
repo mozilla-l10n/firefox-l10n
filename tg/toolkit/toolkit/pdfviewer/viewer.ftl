@@ -513,3 +513,18 @@ pdfjs-editor-undo-bar-undo-button-label = Бекор кардан
 pdfjs-editor-undo-bar-close-button =
     .title = Пӯшидан
 pdfjs-editor-undo-bar-close-button-label = Пӯшидан
+
+## Add a signature dialog
+
+
+## Tab names
+
+
+## Tab panels
+
+
+## Controls
+
+
+## Dialog buttons
+

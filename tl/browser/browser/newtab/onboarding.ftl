@@ -187,3 +187,6 @@ mr1-onboarding-theme-description-alpenglow =
 
 ## Multi Profiles feature onboarding messages
 
+
+## Desktop to Mobile Adoption feature callout strings
+

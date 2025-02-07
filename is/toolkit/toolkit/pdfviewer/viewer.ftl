@@ -513,3 +513,18 @@ pdfjs-editor-undo-bar-undo-button-label = Afturkalla
 pdfjs-editor-undo-bar-close-button =
     .title = Loka
 pdfjs-editor-undo-bar-close-button-label = Loka
+
+## Add a signature dialog
+
+
+## Tab names
+
+
+## Tab panels
+
+
+## Controls
+
+
+## Dialog buttons
+

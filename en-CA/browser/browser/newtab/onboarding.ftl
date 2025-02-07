@@ -455,3 +455,6 @@ multi-profile-spotlight-cta = Create a profile
 multi-profile-callout-title = Create different profiles for work and fun
 multi-profile-callout-subtitle = Profiles let you keep your browsing info, like search history and passwords, totally separate.
 multi-profile-callout-cta = Create a profile
+
+## Desktop to Mobile Adoption feature callout strings
+

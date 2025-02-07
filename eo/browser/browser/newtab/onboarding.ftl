@@ -454,3 +454,6 @@ multi-profile-spotlight-cta = Krei profilon
 multi-profile-callout-title = Krei malsamajn profilojn por laboro kaj libertempo
 multi-profile-callout-subtitle = Profiloj permesas al vi plene izolas viajn retumajn datumojn, kiel serĉan historion kaj pasvortojn.
 multi-profile-callout-cta = Krei profilon
+
+## Desktop to Mobile Adoption feature callout strings
+

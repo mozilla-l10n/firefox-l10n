@@ -301,3 +301,6 @@ onboarding-checklist-extension = أضِف امتدادة
 
 multi-profile-spotlight-cta = أنشئ ملفًا شخصيًا
 multi-profile-callout-cta = أنشئ ملفًا شخصيًا
+
+## Desktop to Mobile Adoption feature callout strings
+

@@ -122,3 +122,6 @@ onboarding-not-now-button-label = এই মূহুর্তে নয়
 
 ## Multi Profiles feature onboarding messages
 
+
+## Desktop to Mobile Adoption feature callout strings
+

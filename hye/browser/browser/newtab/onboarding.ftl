@@ -193,3 +193,6 @@ fx100-upgrade-thank-you-body = Սա մեր { -brand-short-name }֊ի 100-րդ թ
 
 ## Multi Profiles feature onboarding messages
 
+
+## Desktop to Mobile Adoption feature callout strings
+

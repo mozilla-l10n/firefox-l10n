@@ -109,3 +109,18 @@ pdfjs-password-cancel-button = Ofbriechen
 
 ## "Annotations removed" bar
 
+
+## Add a signature dialog
+
+
+## Tab names
+
+
+## Tab panels
+
+
+## Controls
+
+
+## Dialog buttons
+

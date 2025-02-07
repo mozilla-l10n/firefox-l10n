@@ -440,3 +440,6 @@ multi-profile-spotlight-cta = 创建配置文件
 multi-profile-callout-title = 为工作和娱乐各自创建配置文件
 multi-profile-callout-subtitle = 配置文件可全面分隔浏览信息，例如搜索记录和密码。
 multi-profile-callout-cta = 创建配置文件
+
+## Desktop to Mobile Adoption feature callout strings
+

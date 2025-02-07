@@ -123,3 +123,6 @@ return-to-amo-subtitle = বঢ়িয়া, আপুনি { -brand-short-name } 
 
 ## Multi Profiles feature onboarding messages
 
+
+## Desktop to Mobile Adoption feature callout strings
+

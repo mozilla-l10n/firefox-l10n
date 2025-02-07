@@ -129,3 +129,6 @@ return-to-amo-add-extension-label = Azonzi l'estenscion
 
 ## Multi Profiles feature onboarding messages
 
+
+## Desktop to Mobile Adoption feature callout strings
+

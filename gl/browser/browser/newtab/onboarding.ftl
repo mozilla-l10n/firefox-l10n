@@ -377,3 +377,6 @@ onboarding-new-user-survey-familiarity-based-option-3 = Estou moi familiarizado 
 
 ## Multi Profiles feature onboarding messages
 
+
+## Desktop to Mobile Adoption feature callout strings
+

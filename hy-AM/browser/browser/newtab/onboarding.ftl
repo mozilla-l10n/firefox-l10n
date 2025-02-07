@@ -359,3 +359,6 @@ onboarding-checklist-sign-up = Գրանցվեք կամ մուտք գործեք �
 
 ## Multi Profiles feature onboarding messages
 
+
+## Desktop to Mobile Adoption feature callout strings
+

@@ -452,3 +452,6 @@ multi-profile-spotlight-cta = Krijoni profil
 multi-profile-callout-title = Krijoni profile ndaras për punë dhe zbavitje
 multi-profile-callout-subtitle = Profilet ju lejojnë të mbani tërësisht ndaras informacione të shfletimit tuaj, bie fjala, historik kërkimesh dhe fjalëkalime.
 multi-profile-callout-cta = Krijoni profil
+
+## Desktop to Mobile Adoption feature callout strings
+

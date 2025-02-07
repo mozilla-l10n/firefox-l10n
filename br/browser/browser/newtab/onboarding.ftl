@@ -308,3 +308,6 @@ onboarding-genai-sidebar-secondary-button = Kregiñ gant ar merdeiñ
 
 ## Multi Profiles feature onboarding messages
 
+
+## Desktop to Mobile Adoption feature callout strings
+

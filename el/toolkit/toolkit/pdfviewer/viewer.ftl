@@ -513,3 +513,18 @@ pdfjs-editor-undo-bar-undo-button-label = Αναίρεση
 pdfjs-editor-undo-bar-close-button =
     .title = Κλείσιμο
 pdfjs-editor-undo-bar-close-button-label = Κλείσιμο
+
+## Add a signature dialog
+
+
+## Tab names
+
+
+## Tab panels
+
+
+## Controls
+
+
+## Dialog buttons
+

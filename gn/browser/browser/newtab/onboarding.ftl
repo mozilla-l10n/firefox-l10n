@@ -437,3 +437,6 @@ tab-groups-onboarding-feature-callout-subtitle = Eñeorganisa emoĩvo peteĩ ten
 
 ## Multi Profiles feature onboarding messages
 
+
+## Desktop to Mobile Adoption feature callout strings
+

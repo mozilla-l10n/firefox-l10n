@@ -232,3 +232,6 @@ mr2022-onboarding-welcome-pin-header = Poznej niyzwyczajny internet
 
 ## Multi Profiles feature onboarding messages
 
+
+## Desktop to Mobile Adoption feature callout strings
+

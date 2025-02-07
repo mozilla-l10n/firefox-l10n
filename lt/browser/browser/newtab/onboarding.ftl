@@ -223,3 +223,6 @@ fx100-upgrade-thanks-keep-body = Tai mūsų 100-asis leidimas! Ačiū, kad esate
 
 ## Multi Profiles feature onboarding messages
 
+
+## Desktop to Mobile Adoption feature callout strings
+

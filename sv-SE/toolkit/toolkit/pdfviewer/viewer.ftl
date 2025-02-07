@@ -513,3 +513,18 @@ pdfjs-editor-undo-bar-undo-button-label = Ångra
 pdfjs-editor-undo-bar-close-button =
     .title = Stäng
 pdfjs-editor-undo-bar-close-button-label = Stäng
+
+## Add a signature dialog
+
+
+## Tab names
+
+
+## Tab panels
+
+
+## Controls
+
+
+## Dialog buttons
+

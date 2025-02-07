@@ -203,3 +203,18 @@ pdfjs-web-fonts-disabled = ୱେବ ଅକ୍ଷରରୂପଗୁଡ଼ିକ�
 
 ## "Annotations removed" bar
 
+
+## Add a signature dialog
+
+
+## Tab names
+
+
+## Tab panels
+
+
+## Controls
+
+
+## Dialog buttons
+
