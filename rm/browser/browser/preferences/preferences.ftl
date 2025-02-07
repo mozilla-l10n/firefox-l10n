@@ -225,6 +225,16 @@ containers-remove-cancel-button = Betg allontanar quest container
 settings-tabs-show-image-in-preview =
     .label = Mussar ina prevista grafica cura che la mieur passa sur in tab
     .accessKey = u
+browser-layout-header = Layout dal navigatur
+browser-layout-horizontal-tabs =
+    .label = Tabs orizontals
+browser-layout-horizontal-tabs-desc = Mussar sisum il navigatur
+browser-layout-vertical-tabs =
+    .label = Tabs verticals
+browser-layout-vertical-tabs-desc = Mussar da la vart, en la trav laterala
+browser-layout-show-sidebar =
+    .label = Mussar la trav laterala
+browser-layout-show-sidebar-desc = Acceda directamain als segnapaginas, als tabs da tes telefonin, a chatbots IA e dapli – senza bandunar la vista principala.
 
 ## General Section - Language & Appearance
 
@@ -1307,6 +1317,8 @@ permissions-addon-exceptions =
 collection-header = { -brand-short-name }: Collecziun ed utilisaziun da datas
 collection-header2 = Rimnada da datas da { -brand-short-name } e lur utilisaziun
     .searchkeywords = telemetria
+preferences-collection-description = Nus ans engaschain per ta dar la pussaivladad da tscherner e rimnain mo las datas essenzialas necessarias per meglierar { -brand-product-name } per tut:tas.
+preferences-collection-privacy-notice = Vesair la decleraziun davart la protecziun da datas
 collection-description = Nus ta laschain la tscherna e ramassain mo las infurmaziuns che nus duvrain per porscher e meglierar { -brand-short-name } per tuts. Nus ta dumandain adina avant che rimnar datas persunalas.
 collection-privacy-notice = Infurmaziuns davart la protecziun da datas
 collection-health-report-telemetry-disabled = Ti na permettas betg pli a { -vendor-short-name } da registrar datas davart la tecnica e l'interacziun. Tut las datas dal passà vegnan stizzadas entaifer 30 dis.
@@ -1406,6 +1418,8 @@ space-alert-under-5gb-message2 = <strong>La memoria da { -brand-short-name } è 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Modus mo HTTPS
+httpsonly-description3 = Permetta mo connexiuns segiradas cun websites. { -brand-short-name } vegn a dumandar avant che connectar a moda betg segirada.
+httpsonly-learn-more2 = Co il modus mo HTTPS funcziuna
 httpsonly-description = HTTPS porscha ina connexiun segira, criptada tranter { -brand-short-name } e las websites che ti visitas. Las bleras websites sustegnan HTTPS e sch'il modus «mo HTTPS» è activà, connectescha { -brand-short-name } automaticamain cun HTTPS.
 httpsonly-description2 = { -brand-short-name } creescha connexiuns segiradas e criptadas cun las websites che ti visitas. { -brand-short-name } t’avertescha sche ina connexiun n’è betg segirada cura ch’il modus «mo HTTPS» è activà.
 httpsonly-learn-more = Ulteriuras infurmaziuns
@@ -1415,6 +1429,9 @@ httpsonly-radio-enabled2 =
     .label = Mo utilisar HTTPS en tut las fanestras
 httpsonly-radio-enabled-pbm =
     .label = Activar il modus mo HTTPS sulettamain en fanestras privatas
+httpsonly-radio-disabled3 =
+    .label = Betg activar il modus mo HTTPS
+    .description = { -brand-short-name } actualisescha eventualmain tuttina tschertas connexiuns
 httpsonly-radio-enabled-pbm2 =
     .label = Mo utilisar HTTPS en fanestras privatas
 httpsonly-radio-disabled =

@@ -44,6 +44,8 @@ new-profile-page-input-placeholder =
 new-profile-page-done-button =
     .label = Finì la modificaziun
 profile-window-title-2 = { -brand-short-name } – Tscherner in profil
+profile-window-logo =
+    .alt = Logo da { -brand-short-name }
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
@@ -95,3 +97,15 @@ profiles-system-theme = Sistem
 
 ## Alternative text for default profile icons
 
+book-avatar-alt =
+    .alt = Cudesch
+briefcase-avatar-alt =
+    .alt = Valischetta
+flower-avatar-alt =
+    .alt = Flur
+heart-avatar-alt =
+    .alt = Cor
+shopping-avatar-alt =
+    .alt = Charret da cumpras
+star-avatar-alt =
+    .alt = Staila

@@ -64,6 +64,7 @@ split-dismiss-button-manage-settings-option-label = Administrar ils parameters
 
 sidebar-button-callout-title = Mussar ils titels dals tabs en la panela laterala
 sidebar-button-callout-subtitle = Utilisescha il buttun da la trav laterala per expander la trav laterala e vesair ils titels dals tabs.
+sidebar-button-callout-vertical-tabs = Per laschar mussar tes tabs, tscherna il buttun da la trav laterala en la trav d’utensils.
 
 ## Sidebar Callout Survey Strings
 
@@ -94,3 +95,19 @@ sidebar-genai-survey-satisfaction-question = Quant satisfatg es ti da l’access
 sidebar-genai-survey-productive-question =
     Quant enavant es ti d’accord u betg d’accord cun suandanta constataziun :<br/>
     «Il chatbot IA en la trav laterala ma gida dad esser pli productiv»?
+unified-search-callout-title = Midar tranter maschinas da retschertga
+unified-search-callout-subtitle = Tscherna la maschina che funcziuna il meglier per tia retschertga specifica.
+unified-search-callout-primary-label = Enavant
+unified-search-callout-secondary-label = Serrar
+unified-search-engines-callout-title = Tschertgar cun ina scursanida
+unified-search-engines-callout-subtitle = Tippa «@» e suenter in chavazzin per tschertgar en la cronologia, en ils segnapaginas, en ils tabs u cun in’autra maschina da retschertgar.
+unified-search-engines-callout-primary-label = Jau hai chapì
+actions-callout-title = Exequescha las incumbensas las pli frequentas u acceda als parameters da basa
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearhistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = Emprova da tippar in’acziun sco «stampa» per stampar ina pagina u «stizzar» per stizzar la cronologia.

@@ -11,6 +11,7 @@ more-from-moz-category =
 more-from-moz-subtitle = Dà in tgit ad auters products da { -vendor-short-name } che han l'intent da promover in internet pli saun.
 more-from-moz-firefox-mobile-title = { -brand-product-name } per apparats mobils
 more-from-moz-firefox-mobile-description = Il navigatur mobil che dat la prioritad a tia sfera privata.
+more-from-moz-firefox-mobile-title-1 = { -brand-product-name } per apparats mobils
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Scuvra in ulteriur nivel da navigaziun anonima e da protecziun.
 more-from-moz-qr-code-box-firefox-mobile-title = Telechargiada cun l'apparat mobil. Drizza tia camera sin il code QR e clicca lura sin la colliaziun che cumpara.
@@ -35,3 +36,6 @@ more-from-moz-mozilla-monitor-button = Obtegnair { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
+more-from-moz-solo-title = { -solo-ai-brand-name } AI
+more-from-moz-solo-description = Creescha immediatamain tia website e connectescha gratuitamain tia atgna domena.
+more-from-moz-solo-button = Emprova { -solo-ai-brand-name }

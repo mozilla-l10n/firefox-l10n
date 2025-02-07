@@ -29,6 +29,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Reavrir ils tabs serrads
         }
     .accesskey = a
+toolbar-context-turn-on-vertical-tabs =
+    .label = Activar ils tabs verticals
+toolbar-context-turn-off-vertical-tabs =
+    .label = Deactivar ils tabs verticals
+toolbar-context-customize-sidebar =
+    .label = Persunalisar la trav laterala
 toolbar-context-menu-manage-extension =
     .label = Administrar l'extensiun
     .accesskey = e
