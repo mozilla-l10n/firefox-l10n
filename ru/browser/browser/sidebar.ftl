@@ -58,6 +58,10 @@ sidebar-show-on-the-right =
     .label = Переместить боковую панель вправо
 sidebar-show-on-the-left =
     .label = Переместить боковую панель влево
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Развернуть боковую панель при наведении
 sidebar-horizontal-tabs =
     .label = Горизонтальные вкладки
 sidebar-customize-tabs-header =

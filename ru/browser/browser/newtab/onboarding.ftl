@@ -447,6 +447,7 @@ tab-groups-onboarding-feature-callout-title = Попробуйте группы 
 tab-groups-onboarding-feature-callout-subtitle = Наведите порядок, перетащив одну вкладку на другую, чтобы создать свою первую группу.
 tab-groups-onboarding-create-group-title = Находите открытые группы на панели вкладок или выполнив поиск в адресной строке.
 tab-groups-onboarding-saved-groups-title = Если вы закрыли группу вкладок, вы можете в любое время открыть её здесь.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title = Находите открытые или закрытые группы вкладок в любое время, выполнив поиск в адресной строке.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages
@@ -460,3 +461,9 @@ multi-profile-callout-cta = Создать профиль
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = Загрузите, синхронизируйте и вперёд!
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Отсканируйте QR-код, чтобы загрузить { -brand-product-name } для мобильных устройств. После установки выберите «Синхронизировать с мобильным», чтобы получить доступ к своим паролям, закладкам и многому другому, где бы вы ни находились.
+dismiss-button-label = Скрыть
+sync-to-mobile-button-label = Синхронизировать с мобильным
