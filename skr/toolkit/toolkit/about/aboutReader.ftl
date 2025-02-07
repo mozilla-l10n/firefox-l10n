@@ -91,6 +91,15 @@ about-reader-custom-colors-foreground2 =
 about-reader-custom-colors-background2 =
     .label = بیک گراؤنڈ
     .title = رنگ وچ تبدیلی کرو
+about-reader-custom-colors-unvisited-links2 =
+    .label = ملاحظہ نہ کیتے ڳئے لنکس
+    .title = رنگ وِچ ترمیم کرو
+about-reader-custom-colors-visited-links2 =
+    .label = ملاحظہ کیتے ڳئے لنکس
+    .title = رنگ وِچ ترمیم کرو
+about-reader-custom-colors-selection-highlight2 =
+    .label = اُچّی اَواز نال پڑھݨ کِیتے ہائی لائٹر
+    .title = رنگ وِچ ترمیم کرو
 
 ## Reader View text and layout menu
 
