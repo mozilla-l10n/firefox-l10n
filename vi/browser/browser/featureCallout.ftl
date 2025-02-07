@@ -64,6 +64,7 @@ split-dismiss-button-manage-settings-option-label = Quản lý cài đặt
 
 sidebar-button-callout-title = Hiển thị tiêu đề thẻ trong thanh lề
 sidebar-button-callout-subtitle = Sử dụng nút thanh lề để mở rộng thanh lề, để bạn có thể thấy tiêu đề thẻ.
+sidebar-button-callout-vertical-tabs = Để hiển thị các thẻ của bạn, chọn nút thanh lề trong thanh công cụ.
 
 ## Sidebar Callout Survey Strings
 
@@ -94,3 +95,19 @@ sidebar-genai-survey-satisfaction-question = Bạn hài lòng đến mức nào 
 sidebar-genai-survey-productive-question =
     Bạn đồng ý hay không đồng ý với khẳng định này ở mức độ nào:<br/>
     “Chatbot AI trong thanh lề giúp tôi làm việc hiệu quả hơn”?
+unified-search-callout-title = Chuyển giữa các công cụ tìm kiếm
+unified-search-callout-subtitle = Chọn những gì hoạt động tốt nhất cho tìm kiếm cụ thể của bạn.
+unified-search-callout-primary-label = Tiếp
+unified-search-callout-secondary-label = Bỏ qua
+unified-search-engines-callout-title = Tìm kiếm với lối tắt
+unified-search-engines-callout-subtitle = Gõ “@”, tiếp theo là một từ khóa để tìm kiếm lịch sử, dấu trang, thẻ hoặc với công cụ tìm kiếm khác.
+unified-search-engines-callout-primary-label = Đã hiểu
+actions-callout-title = Hoàn thành các tác vụ phổ biến hoặc truy cập các cài đặt cơ bản
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearhistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = Thử gõ một hành động như “in” để in một trang, hoặc “xoá” để xoá lịch sử của bạn.

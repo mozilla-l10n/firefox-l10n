@@ -11,6 +11,7 @@ more-from-moz-category =
 more-from-moz-subtitle = Xem các sản phẩm khác của { -vendor-short-name } đang hoạt động để hỗ trợ internet lành mạnh.
 more-from-moz-firefox-mobile-title = { -brand-product-name } dành cho di động
 more-from-moz-firefox-mobile-description = Trình duyệt di động đặt quyền riêng tư của bạn lên hàng đầu.
+more-from-moz-firefox-mobile-title-1 = { -brand-product-name } cho di động
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Khám phá web với một lớp bảo vệ được bổ sung và duyệt web ẩn danh.
 more-from-moz-qr-code-box-firefox-mobile-title = Tải xuống bằng thiết bị di động của bạn. Hướng máy ảnh của bạn vào mã QR. Khi một liên kết xuất hiện, hãy nhấn vào nó.
@@ -35,3 +36,6 @@ more-from-moz-mozilla-monitor-button = Sử dụng { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
+more-from-moz-solo-title = { -solo-ai-brand-name } AI
+more-from-moz-solo-description = Tạo trang web của bạn ngay lập tức và kết nối tên miền tùy chỉnh của riêng bạn miễn phí.
+more-from-moz-solo-button = Thử { -solo-ai-brand-name }

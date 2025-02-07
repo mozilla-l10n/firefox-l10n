@@ -318,31 +318,31 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Xem tiện tích
-quickactions-cmd-addons2 = tiện ích
+quickactions-cmd-addons2 = tiện ích, tien ich, extensions, add-ons
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Quản lý dấu trang
-quickactions-cmd-bookmarks = dấu trang, dau trang
+quickactions-cmd-bookmarks = dấu trang, dau trang, bookmarks
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Xóa lịch sử
-quickactions-cmd-clearhistory = xóa lịch sử, xoa lich su
+quickactions-cmd-clearhistory = xóa lịch sử, xoá lịch sử, xoa lich su, lịch sử, lich su
 # Opens about:downloads page
 quickactions-downloads2 = Xem tải xuống
-quickactions-cmd-downloads = tải xuống, tai xuong
+quickactions-cmd-downloads = tải xuống, tai xuong, downloads
 # Opens about:addons page in the extensions section
 quickactions-extensions = Quản lý tiện ích
 quickactions-cmd-extensions = tiện ích mở rộng
 # Opens the devtools web inspector
 quickactions-inspector2 = Mở Công cụ dành cho nhà phát triển
-quickactions-cmd-inspector = trình kiểm tra, devtools, trinh kiem tra
+quickactions-cmd-inspector = trình kiểm tra, devtools, trinh kiem tra, nhà phát triển, nha phat trien
 # Opens about:logins
 quickactions-logins2 = Quản lý mật khẩu
 quickactions-cmd-logins = đăng nhập, thông tin đăng nhập, mật khẩu, dang nhap, thong tin dang nhap, mat khau
 # Opens about:addons page in the plugins section
 quickactions-plugins = Quản lý phần bổ trợ
-quickactions-cmd-plugins = phần bổ trợ
+quickactions-cmd-plugins = phần bổ trợ, phan bo tro, plugins
 # Opens the print dialog
 quickactions-print2 = In trang
-quickactions-cmd-print = in
+quickactions-cmd-print = in, in trang, print
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Lưu trang dưới dạng PDF
 quickactions-cmd-savepdf = pdf
