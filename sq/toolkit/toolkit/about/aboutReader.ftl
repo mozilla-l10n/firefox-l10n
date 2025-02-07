@@ -85,6 +85,21 @@ about-reader-custom-colors-visited-links = Lidhje të vizituara
 about-reader-custom-colors-selection-highlight = Theksues për leximin me zë
     .title = Përpunoni ngjyrë
 about-reader-reset-button = Riktheje te parazgjedhjet
+about-reader-custom-colors-foreground2 =
+    .label = Tekst
+    .title = Përpunoni ngjyrën
+about-reader-custom-colors-background2 =
+    .label = Sfond
+    .title = Përpunoni ngjyrë
+about-reader-custom-colors-unvisited-links2 =
+    .label = Lidhje të pavizituara
+    .title = Përpunoni ngjyrë
+about-reader-custom-colors-visited-links2 =
+    .label = Lidhje të vizituara
+    .title = Përpunoni ngjyrë
+about-reader-custom-colors-selection-highlight2 =
+    .label = Theksues për leximin me zë
+    .title = Përpunoni ngjyrë
 
 ## Reader View text and layout menu
 
