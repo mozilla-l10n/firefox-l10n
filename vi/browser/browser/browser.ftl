@@ -341,14 +341,14 @@ quickactions-cmd-logins = đăng nhập, thông tin đăng nhập, mật khẩu,
 quickactions-plugins = Quản lý phần bổ trợ
 quickactions-cmd-plugins = phần bổ trợ
 # Opens the print dialog
-quickactions-print2 = Trang in
+quickactions-print2 = In trang
 quickactions-cmd-print = in
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Lưu trang dưới dạng PDF
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Mở cửa sổ riêng tư
-quickactions-cmd-private = duyệt web riêng tư, duyet web rieng tu
+quickactions-cmd-private = duyệt web riêng tư, duyet web rieng tu, cửa sổ riêng tư, cua so rieng tu
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Làm mới { -brand-short-name }
 quickactions-cmd-refresh = làm mới, lam moi
@@ -363,7 +363,7 @@ quickactions-settings2 = Quản lý cài đặt
 quickactions-cmd-settings = cài đặt, tùy chọn, thiết lập, cai dat, tuy chon, thiet lap
 # Opens about:addons page in the themes section
 quickactions-themes = Quản lý chủ đề
-quickactions-cmd-themes = chủ đề
+quickactions-cmd-themes = chủ đề, chu de
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Cập nhật { -brand-short-name }
 quickactions-cmd-update = cập nhật, cap nhat
