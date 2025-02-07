@@ -87,6 +87,21 @@ about-reader-custom-colors-visited-links = Woglědane wótkaze
 about-reader-custom-colors-selection-highlight = Tekstowy marker za głosnje cytaś
     .title = Barwu wobźěłaś
 about-reader-reset-button = Na standard slědk stajiś
+about-reader-custom-colors-foreground2 =
+    .label = Tekst
+    .title = Barwu wobźěłaś
+about-reader-custom-colors-background2 =
+    .label = Slězyna
+    .title = Barwu wobźěłaś
+about-reader-custom-colors-unvisited-links2 =
+    .label = Njewoglědane wótkaze
+    .title = Barwu wobźěłaś
+about-reader-custom-colors-visited-links2 =
+    .label = Woglědane wótkaze
+    .title = Barwu wobźěłaś
+about-reader-custom-colors-selection-highlight2 =
+    .label = Tekstowy marker za głosnje cytaś
+    .title = Barwu wobźěłaś
 
 ## Reader View text and layout menu
 

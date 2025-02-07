@@ -85,6 +85,21 @@ about-reader-custom-colors-visited-links = Colliaziuns visitadas
 about-reader-custom-colors-selection-highlight = Emfasa per preleger dad aut
     .title = Midar la colur
 about-reader-reset-button = Restabilir il standard
+about-reader-custom-colors-foreground2 =
+    .label = Text
+    .title = Midar la colur
+about-reader-custom-colors-background2 =
+    .label = Fund davos
+    .title = Midar la colur
+about-reader-custom-colors-unvisited-links2 =
+    .label = Colliaziuns betg visitadas
+    .title = Midar la colur
+about-reader-custom-colors-visited-links2 =
+    .label = Colliaziuns visitadas
+    .title = Midar la colur
+about-reader-custom-colors-selection-highlight2 =
+    .label = Emfasa per preleger dad aut
+    .title = Midar la colur
 
 ## Reader View text and layout menu
 

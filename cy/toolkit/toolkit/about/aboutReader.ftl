@@ -89,6 +89,21 @@ about-reader-custom-colors-visited-links = Dolenni wedi cael ymweliad
 about-reader-custom-colors-selection-highlight = Amlygwr ar gyfer darllen yn uchel
     .title = Golygu'r lliw
 about-reader-reset-button = Ailosod rhagosodiadau
+about-reader-custom-colors-foreground2 =
+    .label = Testun
+    .title = Golygu'r lliw
+about-reader-custom-colors-background2 =
+    .label = Cefndir
+    .title = Golygu'r lliw
+about-reader-custom-colors-unvisited-links2 =
+    .label = Dolenni heb gael ymweliad
+    .title = Golygu'r lliw
+about-reader-custom-colors-visited-links2 =
+    .label = Dolenni wedi cael ymweliad
+    .title = Golygu'r lliw
+about-reader-custom-colors-selection-highlight2 =
+    .label = Amlygwr ar gyfer darllen yn uchel
+    .title = Golygu'r lliw
 
 ## Reader View text and layout menu
 

@@ -86,6 +86,21 @@ about-reader-custom-colors-visited-links = Navštívené odkazy
 about-reader-custom-colors-selection-highlight = Zvýrazňovač pro čtení nahlas
     .title = Upravit barvu
 about-reader-reset-button = Obnovit výchozí
+about-reader-custom-colors-foreground2 =
+    .label = Text
+    .title = Upravit barvu
+about-reader-custom-colors-background2 =
+    .label = Pozadí
+    .title = Upravit barvu
+about-reader-custom-colors-unvisited-links2 =
+    .label = Nenavštívené odkazy
+    .title = Upravit barvu
+about-reader-custom-colors-visited-links2 =
+    .label = Navštívené odkazy
+    .title = Upravit barvu
+about-reader-custom-colors-selection-highlight2 =
+    .label = Zvýrazňovač pro čtení nahlas
+    .title = Upravit barvu
 
 ## Reader View text and layout menu
 

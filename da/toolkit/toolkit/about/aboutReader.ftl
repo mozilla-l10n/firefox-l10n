@@ -85,6 +85,21 @@ about-reader-custom-colors-visited-links = Besøgte links
 about-reader-custom-colors-selection-highlight = Fremhævning af oplæst tekst
     .title = Rediger farve
 about-reader-reset-button = Nulstil til standard-indstillingerne
+about-reader-custom-colors-foreground2 =
+    .label = Tekst
+    .title = Rediger farve
+about-reader-custom-colors-background2 =
+    .label = Baggrund
+    .title = Rediger farve
+about-reader-custom-colors-unvisited-links2 =
+    .label = Ubesøgte links
+    .title = Rediger farve
+about-reader-custom-colors-visited-links2 =
+    .label = Besøgte links
+    .title = Rediger farve
+about-reader-custom-colors-selection-highlight2 =
+    .label = Fremhævning af oplæst tekst
+    .title = Rediger farve
 
 ## Reader View text and layout menu
 

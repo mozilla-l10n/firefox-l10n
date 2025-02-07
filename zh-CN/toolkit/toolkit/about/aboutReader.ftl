@@ -81,6 +81,21 @@ about-reader-custom-colors-visited-links = 访问过的链接
 about-reader-custom-colors-selection-highlight = 朗读功能的高亮标示
     .title = 编辑颜色
 about-reader-reset-button = 重置为默认设置
+about-reader-custom-colors-foreground2 =
+    .label = 文本
+    .title = 编辑颜色
+about-reader-custom-colors-background2 =
+    .label = 背景
+    .title = 编辑颜色
+about-reader-custom-colors-unvisited-links2 =
+    .label = 未访问过的链接
+    .title = 编辑颜色
+about-reader-custom-colors-visited-links2 =
+    .label = 访问过的链接
+    .title = 编辑颜色
+about-reader-custom-colors-selection-highlight2 =
+    .label = 朗读功能的高亮标示
+    .title = 编辑颜色
 
 ## Reader View text and layout menu
 

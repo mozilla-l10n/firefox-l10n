@@ -81,6 +81,21 @@ about-reader-custom-colors-visited-links = Liên kết đã truy cập
 about-reader-custom-colors-selection-highlight = Công cụ đánh dấu để đọc to
     .title = Chỉnh sửa màu
 about-reader-reset-button = Khôi phục về mặc định
+about-reader-custom-colors-foreground2 =
+    .label = Văn bản
+    .title = Chỉnh sửa màu
+about-reader-custom-colors-background2 =
+    .label = Nền
+    .title = Chỉnh sửa màu
+about-reader-custom-colors-unvisited-links2 =
+    .label = Liên kết chưa truy cập
+    .title = Chỉnh sửa màu
+about-reader-custom-colors-visited-links2 =
+    .label = Liên kết đã truy cập
+    .title = Chỉnh sửa màu
+about-reader-custom-colors-selection-highlight2 =
+    .label = Công cụ đánh dấu để đọc to
+    .title = Chỉnh sửa màu
 
 ## Reader View text and layout menu
 

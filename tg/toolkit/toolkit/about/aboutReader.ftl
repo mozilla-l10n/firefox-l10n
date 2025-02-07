@@ -85,6 +85,21 @@ about-reader-custom-colors-visited-links = Пайвандҳои кушодашу
 about-reader-custom-colors-selection-highlight = Нишондиҳанда барои хондани матн бо овози баланд
     .title = Таҳрир кардани ранг
 about-reader-reset-button = Барқарорсозӣ ба ҳолатҳои пешфарз
+about-reader-custom-colors-foreground2 =
+    .label = Матн
+    .title = Таҳрир кардани ранг
+about-reader-custom-colors-background2 =
+    .label = Замина
+    .title = Таҳрир кардани ранг
+about-reader-custom-colors-unvisited-links2 =
+    .label = Пайвандҳои кушоданашуда
+    .title = Таҳрир кардани ранг
+about-reader-custom-colors-visited-links2 =
+    .label = Пайвандҳои кушодашуда
+    .title = Таҳрир кардани ранг
+about-reader-custom-colors-selection-highlight2 =
+    .label = Нишондиҳанда барои хондани матн бо овози баланд
+    .title = Таҳрир кардани ранг
 
 ## Reader View text and layout menu
 

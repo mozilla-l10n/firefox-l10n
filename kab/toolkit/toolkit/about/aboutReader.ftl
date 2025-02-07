@@ -78,6 +78,12 @@ about-reader-custom-colors-foreground = Aḍris
     .title = Ini n uḍris
 about-reader-custom-colors-background = Agilal
     .title = Ẓreg ini
+about-reader-custom-colors-foreground2 =
+    .label = Aḍris
+    .title = Ini n uḍris
+about-reader-custom-colors-background2 =
+    .label = Agilal
+    .title = Ẓreg ini
 
 ## Reader View text and layout menu
 

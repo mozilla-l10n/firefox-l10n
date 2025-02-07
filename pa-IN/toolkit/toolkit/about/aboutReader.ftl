@@ -85,6 +85,21 @@ about-reader-custom-colors-visited-links = ਖੋਲ੍ਹੇ ਗਏ ਲਿੰ�
 about-reader-custom-colors-selection-highlight = ਉੱਚਾ ਪੜ੍ਹੇ ਲਈ ਹਾਈਲਾਈਟਰ
     .title = ਰੰਗ ਨੂੰ ਸੋਧੋ
 about-reader-reset-button = ਮੂਲ ਨੂੰ ਬਹਾਲ ਕਰੋ
+about-reader-custom-colors-foreground2 =
+    .label = ਲਿਖਤ
+    .title = ਰੰਗ ਨੂੰ ਸੋਧੋ
+about-reader-custom-colors-background2 =
+    .label = ਬੈਕਗਰਾਊਂਡ
+    .title = ਰੰਗ ਨੂੰ ਸੋਧੋ
+about-reader-custom-colors-unvisited-links2 =
+    .label = ਨਾ-ਖੋਲ੍ਹੇ ਲਿੰਕ
+    .title = ਰੰਗ ਨੂੰ ਸੋਧੋ
+about-reader-custom-colors-visited-links2 =
+    .label = ਖੋਲ੍ਹੇ ਗਏ ਲਿੰਕ
+    .title = ਰੰਗ ਨੂੰ ਸੋਧੋ
+about-reader-custom-colors-selection-highlight2 =
+    .label = ਉੱਚਾ ਪੜ੍ਹੇ ਲਈ ਹਾਈਲਾਈਟਰ
+    .title = ਰੰਗ ਨੂੰ ਸੋਧੋ
 
 ## Reader View text and layout menu
 

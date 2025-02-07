@@ -85,6 +85,21 @@ about-reader-custom-colors-visited-links = Bisitatutako loturak
 about-reader-custom-colors-selection-highlight = Ozen irakurtzeko nabarmengailua
     .title = Editatu kolorea
 about-reader-reset-button = Berrezarri lehenespenak
+about-reader-custom-colors-foreground2 =
+    .label = Testua
+    .title = Editatu kolorea
+about-reader-custom-colors-background2 =
+    .label = Atzeko planoa
+    .title = Editatu kolorea
+about-reader-custom-colors-unvisited-links2 =
+    .label = Bisitatu gabeko loturak
+    .title = Editatu kolorea
+about-reader-custom-colors-visited-links2 =
+    .label = Bisitatutako loturak
+    .title = Editatu kolorea
+about-reader-custom-colors-selection-highlight2 =
+    .label = Ozen irakurtzeko nabarmengailua
+    .title = Editatu kolorea
 
 ## Reader View text and layout menu
 

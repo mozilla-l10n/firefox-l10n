@@ -85,6 +85,21 @@ about-reader-custom-colors-visited-links = Besochte keppelingen
 about-reader-custom-colors-selection-highlight = Markearstift foar hurdop lêze
     .title = Kleur bewurkje
 about-reader-reset-button = Standertynstellingen opnij ynstelle
+about-reader-custom-colors-foreground2 =
+    .label = Tekst
+    .title = Kleur bewurkje
+about-reader-custom-colors-background2 =
+    .label = Eftergrûn
+    .title = Kleur bewurkje
+about-reader-custom-colors-unvisited-links2 =
+    .label = Net-besochte keppelingen
+    .title = Kleur bewurkje
+about-reader-custom-colors-visited-links2 =
+    .label = Besochte keppelingen
+    .title = Kleur bewurkje
+about-reader-custom-colors-selection-highlight2 =
+    .label = Markearstift foar hurdop lêze
+    .title = Kleur bewurkje
 
 ## Reader View text and layout menu
 

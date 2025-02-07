@@ -86,6 +86,21 @@ about-reader-custom-colors-visited-links = Наведаныя спасылкі
 about-reader-custom-colors-selection-highlight = Падфарбоўка для чытання ўслых
     .title = Змяніць колер
 about-reader-reset-button = Скінуць да прадвызначаных
+about-reader-custom-colors-foreground2 =
+    .label = Тэкст
+    .title = Змяніць колер
+about-reader-custom-colors-background2 =
+    .label = Фон
+    .title = Змяніць колер
+about-reader-custom-colors-unvisited-links2 =
+    .label = Ненаведаныя спасылкі
+    .title = Змяніць колер
+about-reader-custom-colors-visited-links2 =
+    .label = Наведаныя спасылкі
+    .title = Змяніць колер
+about-reader-custom-colors-selection-highlight2 =
+    .label = Падфарбоўка для чытання ўслых
+    .title = Змяніць колер
 
 ## Reader View text and layout menu
 

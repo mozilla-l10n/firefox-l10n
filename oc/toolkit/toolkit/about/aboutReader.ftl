@@ -83,6 +83,18 @@ about-reader-custom-colors-unvisited-links = Ligams pas visitats
 about-reader-custom-colors-visited-links = Ligams visitats
     .title = Modificar la color
 about-reader-reset-button = Remetre la valor per defaut
+about-reader-custom-colors-foreground2 =
+    .label = Tèxte
+    .title = Color de tèxte
+about-reader-custom-colors-background2 =
+    .label = Rèireplan
+    .title = Color de rèireplan
+about-reader-custom-colors-unvisited-links2 =
+    .label = Ligams pas visitats
+    .title = Modificar la color
+about-reader-custom-colors-visited-links2 =
+    .label = Ligams visitats
+    .title = Modificar la color
 
 ## Reader View text and layout menu
 

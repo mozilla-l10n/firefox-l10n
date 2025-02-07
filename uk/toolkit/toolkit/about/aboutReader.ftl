@@ -86,6 +86,21 @@ about-reader-custom-colors-visited-links = Відвідані посилання
 about-reader-custom-colors-selection-highlight = Маркер для читання вголос
     .title = Редагувати колір
 about-reader-reset-button = Відновити типові
+about-reader-custom-colors-foreground2 =
+    .label = Текст
+    .title = Редагувати колір
+about-reader-custom-colors-background2 =
+    .label = Тло
+    .title = Редагувати колір
+about-reader-custom-colors-unvisited-links2 =
+    .label = Невідвідані посилання
+    .title = Редагувати колір
+about-reader-custom-colors-visited-links2 =
+    .label = Відвідані посилання
+    .title = Редагувати колір
+about-reader-custom-colors-selection-highlight2 =
+    .label = Маркер для читання вголос
+    .title = Редагувати колір
 
 ## Reader View text and layout menu
 

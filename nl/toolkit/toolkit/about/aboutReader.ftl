@@ -85,6 +85,21 @@ about-reader-custom-colors-visited-links = Bezochte koppelingen
 about-reader-custom-colors-selection-highlight = Markeerstift voor hardop lezen
     .title = Kleur bewerken
 about-reader-reset-button = Standaardinstellingen opnieuw instellen
+about-reader-custom-colors-foreground2 =
+    .label = Tekst
+    .title = Kleur bewerken
+about-reader-custom-colors-background2 =
+    .label = Achtergrond
+    .title = Kleur bewerken
+about-reader-custom-colors-unvisited-links2 =
+    .label = Niet-bezochte koppelingen
+    .title = Kleur bewerken
+about-reader-custom-colors-visited-links2 =
+    .label = Bezochte koppelingen
+    .title = Kleur bewerken
+about-reader-custom-colors-selection-highlight2 =
+    .label = Markeerstift voor hardop lezen
+    .title = Kleur bewerken
 
 ## Reader View text and layout menu
 

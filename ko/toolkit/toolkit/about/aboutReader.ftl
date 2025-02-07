@@ -81,6 +81,21 @@ about-reader-custom-colors-visited-links = 방문한 링크
 about-reader-custom-colors-selection-highlight = 소리내어 읽기 하이라이터
     .title = 색상 편집
 about-reader-reset-button = 기본값 재설정
+about-reader-custom-colors-foreground2 =
+    .label = 텍스트
+    .title = 색상 편집
+about-reader-custom-colors-background2 =
+    .label = 배경
+    .title = 색상 편집
+about-reader-custom-colors-unvisited-links2 =
+    .label = 방문하지 않은 링크
+    .title = 색상 편집
+about-reader-custom-colors-visited-links2 =
+    .label = 방문한 링크
+    .title = 색상 편집
+about-reader-custom-colors-selection-highlight2 =
+    .label = 소리내어 읽기 하이라이터
+    .title = 색상 편집
 
 ## Reader View text and layout menu
 

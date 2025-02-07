@@ -85,6 +85,21 @@ about-reader-custom-colors-visited-links = Notaðir tenglar
 about-reader-custom-colors-selection-highlight = Áherslulitun fyrir upplestur
     .title = Breyta lit
 about-reader-reset-button = Endurstilla á sjálfgefið
+about-reader-custom-colors-foreground2 =
+    .label = Texti
+    .title = Breyta lit
+about-reader-custom-colors-background2 =
+    .label = Bakgrunnur
+    .title = Breyta lit
+about-reader-custom-colors-unvisited-links2 =
+    .label = Ónotaðir tenglar
+    .title = Breyta lit
+about-reader-custom-colors-visited-links2 =
+    .label = Notaðir tenglar
+    .title = Breyta lit
+about-reader-custom-colors-selection-highlight2 =
+    .label = Áherslulitun fyrir upplestur
+    .title = Breyta lit
 
 ## Reader View text and layout menu
 

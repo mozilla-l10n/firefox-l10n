@@ -85,6 +85,21 @@ about-reader-custom-colors-visited-links = Liens visités
 about-reader-custom-colors-selection-highlight = Surligneur pour la lecture à haute voix
     .title = Modifier la couleur
 about-reader-reset-button = Rétablir les valeurs par défaut
+about-reader-custom-colors-foreground2 =
+    .label = Texte
+    .title = Modifier la couleur
+about-reader-custom-colors-background2 =
+    .label = Arrière-plan
+    .title = Modifier la couleur
+about-reader-custom-colors-unvisited-links2 =
+    .label = Liens non visités
+    .title = Modifier la couleur
+about-reader-custom-colors-visited-links2 =
+    .label = Liens visités
+    .title = Modifier la couleur
+about-reader-custom-colors-selection-highlight2 =
+    .label = Surligneur pour la lecture à haute voix
+    .title = Modifier la couleur
 
 ## Reader View text and layout menu
 
