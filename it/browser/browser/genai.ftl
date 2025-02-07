@@ -59,6 +59,11 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Chiedi a { $provider }
+genai-menu-remove-generic =
+    .label = Rimuovi chatbot IA
+# $provider (string) - name of the provider
+genai-menu-remove-provider =
+    .label = Rimuovi { $provider }
 genai-input-ask-generic =
     .placeholder = Chiedi al chatbot IA…
 # $provider (string) - name of the provider
@@ -152,4 +157,3 @@ genai-onboarding-huggingchat-switch = Scegli tra un’ampia gamma di modelli ape
 genai-onboarding-huggingchat-price-2 = Gratuito, account obbligatorio dopo un certo numero di richieste
 genai-onboarding-lechat-generate = Generazione di testo e codice
 genai-onboarding-lechat-price = Gratuito, account obbligatorio
-
