@@ -445,7 +445,9 @@ onboarding-checklist-sign-up = Registrera dig eller logga in på ditt konto
 
 tab-groups-onboarding-feature-callout-title = Testa flikgrupper för mindre röra, mer fokus
 tab-groups-onboarding-feature-callout-subtitle = Bli organiserad genom att dra en flik ovanpå en annan för att skapa din första grupp.
+tab-groups-onboarding-create-group-title = Hitta dina öppna grupper i flikfältet eller genom att söka efter dem i adressfältet.
 tab-groups-onboarding-saved-groups-title = Om du stänger en flikgrupp kan du öppna den här igen när som helst.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title = Hitta dina öppna eller stängda flikgrupper när som helst genom att söka i adressfältet.
 tab-groups-onboarding-dismiss = Ok
 
 ## Multi Profiles feature onboarding messages
@@ -459,3 +461,9 @@ multi-profile-callout-cta = Skapa en profil
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = Hämta, synkronisera och gå!
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Skanna QR-koden för att ladda ner { -brand-product-name } för mobil. När du har installerat den, välj "Synkronisera till mobil" för att komma åt dina lösenord, bokmärken och mer när du är på språng.
+dismiss-button-label = Ignorera
+sync-to-mobile-button-label = Synka till mobil

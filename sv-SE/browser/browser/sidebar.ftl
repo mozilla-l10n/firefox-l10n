@@ -58,6 +58,10 @@ sidebar-show-on-the-right =
     .label = Flytta sidofältet till höger
 sidebar-show-on-the-left =
     .label = Flytta sidofältet till vänster
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Expandera sidofält vid hovring
 sidebar-horizontal-tabs =
     .label = Horisontella flikar
 sidebar-customize-tabs-header =
