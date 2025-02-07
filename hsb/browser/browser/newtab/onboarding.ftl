@@ -460,4 +460,7 @@ multi-profile-callout-cta = Profil załožić
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = Sćehńće, synchronizujće, běh!
 dismiss-button-label = Zaćisnyć
+sync-to-mobile-button-label = Z mobilnym gratom synchronizować

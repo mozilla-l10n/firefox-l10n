@@ -550,9 +550,17 @@ pdfjs-editor-add-signature-draw-thickness-range-label = Tołstosć
 pdfjs-editor-add-signature-draw-thickness-range =
     .title = Tołstosć rysowanki: { $thickness }
 pdfjs-editor-add-signature-image-placeholder = Ćehńće dataju sem, zo byšće ju nahrał
+pdfjs-editor-add-signature-image-browse-link =
+    { PLATFORM() ->
+        [macos] Abo přepytajće wobrazowe dataje
+       *[other] Abo přepytajće wobrazowe dataje
+    }
 
 ## Controls
 
+pdfjs-editor-add-signature-description-label = Wopisanje (alternatiwny tekst)
+pdfjs-editor-add-signature-description-input =
+    .title = Wopisanje (alternatiwny tekst)
 pdfjs-editor-add-signature-description-default-when-drawing = Signatura
 pdfjs-editor-add-signature-clear-button-label = Signaturu zhašeć
 pdfjs-editor-add-signature-clear-button =
