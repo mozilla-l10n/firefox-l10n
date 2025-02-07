@@ -85,6 +85,21 @@ about-reader-custom-colors-visited-links = Besökta länkar
 about-reader-custom-colors-selection-highlight = Markering för högläsning
     .title = Redigera färg
 about-reader-reset-button = Återställ standardvärdena
+about-reader-custom-colors-foreground2 =
+    .label = Text
+    .title = Redigera färg
+about-reader-custom-colors-background2 =
+    .label = Bakgrund
+    .title = Redigera färg
+about-reader-custom-colors-unvisited-links2 =
+    .label = Obesökta länkar
+    .title = Redigera färg
+about-reader-custom-colors-visited-links2 =
+    .label = Besökta länkar
+    .title = Redigera färg
+about-reader-custom-colors-selection-highlight2 =
+    .label = Markering för högläsning
+    .title = Redigera färg
 
 ## Reader View text and layout menu
 
