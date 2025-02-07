@@ -85,6 +85,21 @@ about-reader-custom-colors-visited-links = Σύνδεσμοι που έχετε 
 about-reader-custom-colors-selection-highlight = Επισήμανση για εκφώνηση
     .title = Επεξεργασία χρώματος
 about-reader-reset-button = Επαναφορά προεπιλογών
+about-reader-custom-colors-foreground2 =
+    .label = Κείμενο
+    .title = Επεξεργασία χρώματος
+about-reader-custom-colors-background2 =
+    .label = Παρασκήνιο
+    .title = Επεξεργασία χρώματος
+about-reader-custom-colors-unvisited-links2 =
+    .label = Σύνδεσμοι που δεν έχετε επισκεφτεί
+    .title = Επεξεργασία χρώματος
+about-reader-custom-colors-visited-links2 =
+    .label = Σύνδεσμοι που έχετε επισκεφτεί
+    .title = Επεξεργασία χρώματος
+about-reader-custom-colors-selection-highlight2 =
+    .label = Επισήμανση για εκφώνηση
+    .title = Επεξεργασία χρώματος
 
 ## Reader View text and layout menu
 
