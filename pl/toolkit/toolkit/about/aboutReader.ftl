@@ -86,6 +86,21 @@ about-reader-custom-colors-visited-links = Odwiedzone odnośniki
 about-reader-custom-colors-selection-highlight = Wyróżnianie do czytania na głos
     .title = Zmień kolor
 about-reader-reset-button = Przywróć domyślne
+about-reader-custom-colors-foreground2 =
+    .label = Tekst
+    .title = Zmień kolor
+about-reader-custom-colors-background2 =
+    .label = Tło
+    .title = Zmień kolor
+about-reader-custom-colors-unvisited-links2 =
+    .label = Nieodwiedzone odnośniki
+    .title = Zmień kolor
+about-reader-custom-colors-visited-links2 =
+    .label = Odwiedzone odnośniki
+    .title = Zmień kolor
+about-reader-custom-colors-selection-highlight2 =
+    .label = Wyróżnianie do czytania na głos
+    .title = Zmień kolor
 
 ## Reader View text and layout menu
 
