@@ -69,6 +69,7 @@ sidebar-button-callout-vertical-tabs = ເພື່ອສະແດງແຖບ�
 
 sidebar-callout-survey-title = ຊ່ວຍປັບປຸງ { -brand-short-name }
 sidebar-callout-survey-satisfaction-question = ທ່ານພໍໃຈກັບປະສົບການແຖບດ້ານຂ້າງໃນ { -brand-short-name } ຫຼາຍປານໃດ?
+sidebar-callout-survey-privacy-notice-link = ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ
 sidebar-callout-survey-very-satisfied = ພໍໃຈຫຼາຍ
 sidebar-callout-survey-satisfied = ພໍໃຈ
 sidebar-callout-survey-neutral = ເປັນກາງ
@@ -86,3 +87,4 @@ sidebar-callout-survey-thank-you = ຂໍ​ຂອບ​ໃຈ​ສໍາ​ລ
 sidebar-genai-survey-productive-question =
     ທ່ານເຫັນດີ ຫຼື ບໍ່ເຫັນດີກັບຄຳຖະແຫຼງການນີ້ໃນລະດັບໃດ:<br/>
     "AI chatbot ໃນແຖບຂ້າງຊ່ວຍໃຫ້ຂ້ອຍມີປະສິດຕິພາບຫຼາຍຂຶ້ນ"?
+unified-search-engines-callout-primary-label = ເຂົ້າໃຈແລ້ວ!

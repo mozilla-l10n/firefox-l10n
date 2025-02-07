@@ -816,6 +816,9 @@ private-browsing-indicator-label = ການທ່ອງເວັບແບບສ
 private-browsing-indicator-tooltip =
     .tooltiptext = ການທ່ອງເວັບແບບສ່ວນຕົວ
 content-analysis-panel-title = ການປົກປ້ອງຂໍ້ມູນ
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = ອົງການຂອງທ່ານໃຊ້ <b>{ $agentName }</b> ເພື່ອປ້ອງກັນການສູນເສຍຂໍ້ມູນ. <a data-l10n-name="info">ສຶກສາເພີ່ມເຕີມ</a>
 
 ## Unified extensions (toolbar) button
 
