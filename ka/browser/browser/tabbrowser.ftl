@@ -245,6 +245,10 @@ tab-group-editor-color-selector2-gray = რუხი
     .title = რუხი
 tab-group-editor-color-selector2-red = წითელი
     .title = წითელი
+# Variables:
+#  $tabGroupName (String): The name of the tab group. Defaults to the value
+#                          of tab-group-name-default.
+tab-group-description = { $tabGroupName } — ჩანართების ჯგუფი
 tab-group-menu-header = ჩანართის ჯგუფები
 tab-context-unnamed-group =
     .label = უსახელო ჯგუფი

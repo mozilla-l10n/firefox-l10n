@@ -225,6 +225,16 @@ containers-remove-cancel-button = სათავსის დატოვებ
 settings-tabs-show-image-in-preview =
     .label = შეთვალიერების ჩვენება ჩანართზე მაჩვენებლის გადატარებისას
     .accessKey = ტ
+browser-layout-header = ბრაუზერის განლაგება
+browser-layout-horizontal-tabs =
+    .label = თარაზული ჩანართები
+browser-layout-horizontal-tabs-desc = გამოჩენა ბრაუზერის ზემოთ
+browser-layout-vertical-tabs =
+    .label = შვეული ჩანართები
+browser-layout-vertical-tabs-desc = გამოჩენა გვერდით, ცალკე ზოლზე
+browser-layout-show-sidebar =
+    .label = გვერდითი ზოლის ჩვენება
+browser-layout-show-sidebar-desc = სწრაფი წვდომა სანიშნებთან, ჩანართებთან, AI-თანამოსაუბრესთან და სხვ. მთავარი ფანჯრისგან თვალის მოუცილებლად.
 
 ## General Section - Language & Appearance
 
@@ -1307,6 +1317,8 @@ permissions-addon-exceptions =
 collection-header = { -brand-short-name } – მონაცემთა აღრიცხვა და გამოყენება
 collection-header2 = { -brand-short-name } – მონაცემთა აღრიცხვა და გამოყენება
     .searchkeywords = telemetry
+preferences-collection-description = ჩვენ მთელი ძალისხმევით ვცდილობთ, მოგცეთ არჩევანის საშუალება და აღვრიცხოთ მხოლოდ ის უმცირესი მონაცემები, რომელიც მეტად გვესაჭიროება, რომ გავაუმჯობესოთ { -brand-product-name }.
+preferences-collection-privacy-notice = იხილეთ პირადულობის დაცვის განაცხადი
 collection-description = ჩვენ ვცდილობთ მოგცეთ არჩევანის უფლება და აღვრიცხოთ მხოლოდ ის მონაცემები, რომლებიც დაგვეხმარება, გავაუმჯობესოთ { -brand-short-name }. ყოველთვის დაგეკითხებით პირადი ინფორმაციის მიღებამდე.
 collection-privacy-notice = პირადი მონაცემების დაცვის განაცხადი
 collection-health-report-telemetry-disabled = თქვენ გააუქმეთ ნებართვა და შედეგად { -vendor-short-name } ვეღარ შეძლებს ტექნიკური და გამოყენების მონაცემების აღრიცხვას. აქამდე შეგროვებული ყველა მონაცემი წაიშლება 30 დღეში.
@@ -1406,6 +1418,8 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } იუწყე�
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = მხოლოდ-HTTPS-რეჟიმი
+httpsonly-description3 = მხოლოდ დაცული კავშირის მქონე საიტებთან წვდომა. { -brand-short-name } ნებართვას მოითხოვს დაუცველი კავშირის დამყარებამდე.
+httpsonly-learn-more2 = როგორ მუშაობს მხოლოდ-HTTPS
 httpsonly-description = HTTPS საშუალებას იძლევა, რომ { -brand-short-name } უსაფრთხოდ და მონაცემთა დაშიფვრით დაუკავშირდეს საიტს, რომელსაც ეწვევით. უმეტეს ვებსაიტზე HTTPS მხარდაჭერილია და როცა მხოლოდ-HTTPS-რეჟიმი ჩართულია, { -brand-short-name } ყველა კავშირს ატარებს HTTPS-ით.
 httpsonly-description2 = { -brand-short-name } ქმნის დაცულ და დაშიფრულ კავშირებს მონახულებულ საიტებთან. { -brand-short-name } გაგაფრთხილებთ, თუ კავშირი დაუცველი იქნება, როცა ჩართულია მხოლოდ-HTTPS.
 httpsonly-learn-more = ვრცლად
@@ -1415,6 +1429,9 @@ httpsonly-radio-enabled2 =
     .label = მხოლოდ HTTPS ყველა ფანჯარაში
 httpsonly-radio-enabled-pbm =
     .label = მხოლოდ-HTTPS-რეჟიმი პირად ფანჯრებში
+httpsonly-radio-disabled3 =
+    .label = არ ამოქმედდეს მხოლოდ-HTTPS-რეჟიმი
+    .description = { -brand-short-name } ზოგ კავშირს მაინც გადაიყვანს დაცულზე
 httpsonly-radio-enabled-pbm2 =
     .label = მხოლოდ HTTPS პირად ფანჯრებში
 httpsonly-radio-disabled =
