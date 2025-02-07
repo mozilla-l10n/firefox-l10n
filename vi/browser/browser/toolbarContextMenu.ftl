@@ -29,6 +29,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Mở lại các thẻ đã đóng
         }
     .accesskey = o
+toolbar-context-turn-on-vertical-tabs =
+    .label = Bật thẻ dọc
+toolbar-context-turn-off-vertical-tabs =
+    .label = Tắt thẻ dọc
+toolbar-context-customize-sidebar =
+    .label = Tùy biến thanh lề
 toolbar-context-menu-manage-extension =
     .label = Quản lí tiện ích
     .accesskey = E

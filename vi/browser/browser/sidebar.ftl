@@ -50,6 +50,14 @@ sidebar-position-right =
     .label = Hiển thị bên phải
 sidebar-vertical-tabs =
     .label = Thẻ dọc
+sidebar-settings =
+    .label = Cài đặt thanh lề
+sidebar-hide-tabs-and-sidebar =
+    .label = Ẩn thẻ và thanh lề
+sidebar-show-on-the-right =
+    .label = Di chuyển thanh lề sang phải
+sidebar-show-on-the-left =
+    .label = Di chuyển thanh lề sang trái
 sidebar-horizontal-tabs =
     .label = Thẻ ngang
 sidebar-customize-tabs-header =
@@ -130,6 +138,10 @@ sidebar-menu-close-ai-chatbot-tooltip = Đóng chatbot AI
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
+sidebar-menu-open-ai-chatbot-tooltip-generic = Mở chatbot AI ({ $shortcut })
+sidebar-menu-open-ai-chatbot-provider-tooltip = Mở { $provider } ({ $shortcut })
+sidebar-menu-close-ai-chatbot-tooltip-generic = Đóng chatbot AI ({ $shortcut })
+sidebar-menu-close-ai-chatbot-provider-tooltip = Đóng { $provider } ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 
@@ -139,6 +151,8 @@ sidebar-menu-history-header =
     .heading = Lịch sử
 sidebar-menu-syncedtabs-header =
     .heading = Thẻ từ thiết bị khác
+sidebar-menu-bookmarks-header =
+    .heading = Dấu trang
 sidebar-panel-header-close-button =
     .tooltiptext = Đóng
 

@@ -44,6 +44,8 @@ new-profile-page-input-placeholder =
 new-profile-page-done-button =
     .label = Hoàn tất sửa
 profile-window-title-2 = { -brand-short-name } - Chọn một hồ sơ
+profile-window-logo =
+    .alt = Logo { -brand-short-name }
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
@@ -95,3 +97,15 @@ profiles-system-theme = Hệ thống
 
 ## Alternative text for default profile icons
 
+book-avatar-alt =
+    .alt = Sách
+briefcase-avatar-alt =
+    .alt = Cặp tài liệu
+flower-avatar-alt =
+    .alt = Hoa
+heart-avatar-alt =
+    .alt = Trái tim
+shopping-avatar-alt =
+    .alt = Giỏ hàng
+star-avatar-alt =
+    .alt = Dấu sao

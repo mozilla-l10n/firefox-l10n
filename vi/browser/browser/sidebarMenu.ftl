@@ -4,6 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = Dấu trang
+sidebar-menu-bookmarks-2 = Dấu trang
 sidebar-menu-history =
     .label = Lịch sử
 sidebar-menu-synced-tabs =
