@@ -87,6 +87,21 @@ about-reader-custom-colors-visited-links = Wopytane wotkazy
 about-reader-custom-colors-selection-highlight = Tekstowy marker za wótře čitać
     .title = Barbu wobdźěłać
 about-reader-reset-button = Na standard wróćo stajić
+about-reader-custom-colors-foreground2 =
+    .label = Tekst
+    .title = Barbu wobdźěłać
+about-reader-custom-colors-background2 =
+    .label = Pozadk
+    .title = Wobdźěłanska barba
+about-reader-custom-colors-unvisited-links2 =
+    .label = Njewopytane wotkazy
+    .title = Wobdźěłanska barba
+about-reader-custom-colors-visited-links2 =
+    .label = Wopytane wotkazy
+    .title = Wobdźěłanska barba
+about-reader-custom-colors-selection-highlight2 =
+    .label = Tekstowy marker za wótře čitać
+    .title = Barbu wobdźěłać
 
 ## Reader View text and layout menu
 
