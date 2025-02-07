@@ -85,6 +85,21 @@ about-reader-custom-colors-visited-links = Besøkte lenker
 about-reader-custom-colors-selection-highlight = Markering for høytlesning
     .title = Endre farge
 about-reader-reset-button = Tilbakestill standardverdier
+about-reader-custom-colors-foreground2 =
+    .label = Tekst
+    .title = Endre farge
+about-reader-custom-colors-background2 =
+    .label = Bakgrunn
+    .title = Endre farge
+about-reader-custom-colors-unvisited-links2 =
+    .label = Ubesøkte lenker
+    .title = Endre farge
+about-reader-custom-colors-visited-links2 =
+    .label = Besøkte lenker
+    .title = Endre farge
+about-reader-custom-colors-selection-highlight2 =
+    .label = Markering for høytlesning
+    .title = Endre farge
 
 ## Reader View text and layout menu
 
