@@ -448,7 +448,9 @@ onboarding-checklist-sign-up = Registrati o accedi al tuo account
 
 tab-groups-onboarding-feature-callout-title = Prova i gruppi di schede per ridurre il disordine e aumentare la concentrazione.
 tab-groups-onboarding-feature-callout-subtitle = Organizzati trascinando una scheda sopra l’altra per creare il tuo primo gruppo.
+tab-groups-onboarding-create-group-title = Trova i gruppi attualmente aperti nella barra delle schede o cercandoli nella barra degli indirizzi.
 tab-groups-onboarding-saved-groups-title = Se chiudi un gruppo di schede, puoi riaprirlo qui in qualsiasi momento.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title = Puoi trovare i gruppi di schede, sia aperti che chiusi, in qualsiasi momento effettuando una ricerca nella barra degli indirizzi.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages
@@ -462,3 +464,9 @@ multi-profile-callout-cta = Crea un profilo
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = Scarica, sincronizza e vai!
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Scansiona il codice QR per scaricare { -brand-product-name } per dispositivi mobili. Una volta installato, seleziona “Sincronizza con dispositivi mobili” per accedere alle tue password, ai tuoi segnalibri e altro ancora ovunque ti trovi.
+dismiss-button-label = Chiudi
+sync-to-mobile-button-label = Sincronizza con dispositivi mobili
