@@ -87,6 +87,21 @@ about-reader-custom-colors-visited-links = Obiskane povezave
 about-reader-custom-colors-selection-highlight = Označevalnik za glasno branje
     .title = Nastavi barvo
 about-reader-reset-button = Ponastavi privzeto
+about-reader-custom-colors-foreground2 =
+    .label = Besedilo
+    .title = Nastavi barvo
+about-reader-custom-colors-background2 =
+    .label = Ozadje
+    .title = Nastavi barvo
+about-reader-custom-colors-unvisited-links2 =
+    .label = Neobiskane povezave
+    .title = Nastavi barvo
+about-reader-custom-colors-visited-links2 =
+    .label = Obiskane povezave
+    .title = Nastavi barvo
+about-reader-custom-colors-selection-highlight2 =
+    .label = Označevalnik za glasno branje
+    .title = Nastavi barvo
 
 ## Reader View text and layout menu
 
