@@ -318,19 +318,18 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Xem tiện tích
-quickactions-cmd-addons2 = tiện ích, tien ich, extensions, add-ons
+quickactions-cmd-addons2 = xem tiện ích, xem tien ich, tiện ích, tien ich, extensions, add-ons
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Quản lý dấu trang
-quickactions-cmd-bookmarks = dấu trang, dau trang, bookmarks
+quickactions-cmd-bookmarks = quản lý dấu trang, quan ly dau trang, quản lí dấu trang, quan li dau trang, dấu trang, dau trang, bookmarks
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Xóa lịch sử
 quickactions-cmd-clearhistory = xóa lịch sử, xoá lịch sử, xoa lich su, lịch sử, lich su
 # Opens about:downloads page
 quickactions-downloads2 = Xem tải xuống
-quickactions-cmd-downloads = tải xuống, tai xuong, downloads
+quickactions-cmd-downloads = xem tải xuống, xem tai xuong, tải xuống, tai xuong, downloads
 # Opens about:addons page in the extensions section
 quickactions-extensions = Quản lý tiện ích
-quickactions-cmd-extensions = tiện ích mở rộng
 # Opens the devtools web inspector
 quickactions-inspector2 = Mở Công cụ dành cho nhà phát triển
 quickactions-cmd-inspector = trình kiểm tra, devtools, trinh kiem tra, nhà phát triển, nha phat trien
@@ -369,7 +368,7 @@ quickactions-update = Cập nhật { -brand-short-name }
 quickactions-cmd-update = cập nhật, cap nhat
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Xem mã nguồn trang
-quickactions-cmd-viewsource = xem mã nguồn, xem nguồn, nguồn, xem ma nguon, xem nguon, nguon
+quickactions-cmd-viewsource = xem mã nguồn trang, xem ma nguon trang, xem mã nguồn, xem ma nguon, xem nguồn, xem nguon, mã nguồn, ma nguon, source code page, code
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Tìm hiểu thêm về Hành động nhanh
