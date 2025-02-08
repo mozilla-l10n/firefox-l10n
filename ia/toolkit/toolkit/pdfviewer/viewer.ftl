@@ -553,9 +553,17 @@ pdfjs-editor-add-signature-image-browse-link =
 
 ## Controls
 
+pdfjs-editor-add-signature-description-label = Description (texto alternative)
+pdfjs-editor-add-signature-description-input =
+    .title = Description (texto alternative)
+pdfjs-editor-add-signature-description-default-when-drawing = Signatura
+pdfjs-editor-add-signature-clear-button-label = Rader signatura
 pdfjs-editor-add-signature-clear-button =
-    .title = Cancellar firma
-pdfjs-editor-add-signature-save-checkbox = Salvar firma
+    .title = Rader signatura
+pdfjs-editor-add-signature-save-checkbox = Salvar signatura
+pdfjs-editor-add-signature-save-warning-message = Tu ha attingite le limite de 5 signaturas salvate. Remove un pro salvar un altere.
+pdfjs-editor-add-signature-image-upload-error-title = Non poteva incargar le imagine
+pdfjs-editor-add-signature-image-upload-error-description = Verifica tu connexion al rete o tenta un altere imagine.
 pdfjs-editor-add-signature-error-close-button = Clauder
 
 ## Dialog buttons
