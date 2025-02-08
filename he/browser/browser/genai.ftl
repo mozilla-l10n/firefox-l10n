@@ -30,6 +30,11 @@ genai-settings-chat-localhost-links = ניתן לספק צ’אט בוט מקו�
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = לשאול את { $provider }
+genai-menu-remove-generic =
+    .label = הסרת צ’אט בוט AI
+# $provider (string) - name of the provider
+genai-menu-remove-provider =
+    .label = הסרת { $provider }
 genai-input-ask-generic =
     .placeholder = לשאול צ’אט בוט AI…
 # $provider (string) - name of the provider
