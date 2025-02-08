@@ -463,3 +463,7 @@ multi-profile-callout-cta = 프로필 만들기
 
 # If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
 desktop-to-mobile-headline = 모바일용 Firefox와 탐색을 동기화하세요.
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = QR 코드를 스캔하여 모바일용 { -brand-product-name }를 다운로드하세요. 설치가 완료되면, "모바일에 동기화"를 선택해서 이동 중에도 비밀번호, 북마크 등에 접근할 수 있습니다.
+dismiss-button-label = 닫기
+sync-to-mobile-button-label = 모바일에 동기화

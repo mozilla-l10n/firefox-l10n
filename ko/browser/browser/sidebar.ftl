@@ -58,6 +58,10 @@ sidebar-show-on-the-right =
     .label = 사이드바를 오른쪽으로 이동
 sidebar-show-on-the-left =
     .label = 사이드바를 왼쪽으로 이동
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = 마우스를 올려서 사이드바 펼치기
 sidebar-horizontal-tabs =
     .label = 가로 탭
 sidebar-customize-tabs-header =
