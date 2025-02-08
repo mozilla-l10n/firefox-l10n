@@ -57,6 +57,9 @@ genai-menu-ask-provider =
     .label = Ερώτηση στο { $provider }
 genai-menu-remove-generic =
     .label = Αφαίρεση chatbot ΤΝ
+# $provider (string) - name of the provider
+genai-menu-remove-provider =
+    .label = Αφαίρεση του { $provider }
 genai-input-ask-generic =
     .placeholder = Ερώτηση στο chatbot ΤΝ…
 # $provider (string) - name of the provider

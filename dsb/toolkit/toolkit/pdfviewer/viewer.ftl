@@ -331,6 +331,8 @@ pdfjs-editor-remove-stamp-button =
     .title = Wobraz wótwónoźeś
 pdfjs-editor-remove-highlight-button =
     .title = Wuzwignjenje wótpóraś
+pdfjs-editor-remove-signature-button =
+    .title = Signaturu wótwónoźeś
 
 ##
 
@@ -504,6 +506,7 @@ pdfjs-editor-undo-bar-message-highlight = Wótwónoźone wuzwignuś
 pdfjs-editor-undo-bar-message-freetext = Tekst jo se wótwónoźeł
 pdfjs-editor-undo-bar-message-ink = Kreslanka jo se wótwónoźeła
 pdfjs-editor-undo-bar-message-stamp = Wobraz jo se wótwónoźeł
+pdfjs-editor-undo-bar-message-signature = Signatura jo se wótwónoźeła
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple =
@@ -522,9 +525,18 @@ pdfjs-editor-undo-bar-close-button-label = Zacyniś
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-title = Signaturu pśidaś
 
 ## Tab names
 
+# Type is a verb (you can type your name as signature)
+pdfjs-editor-add-signature-type-button = Typ
+    .title = Typ
+# Draw is a verb (you can draw your signature)
+pdfjs-editor-add-signature-draw-button = Kresliś
+    .title = Kresliś
+pdfjs-editor-add-signature-image-button = Wobraz
+    .title = Wobraz
 
 ## Tab panels
 

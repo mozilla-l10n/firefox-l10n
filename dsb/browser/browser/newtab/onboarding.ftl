@@ -460,3 +460,4 @@ multi-profile-callout-cta = Profil załožyś
 
 ## Desktop to Mobile Adoption feature callout strings
 
+dismiss-button-label = Zachyśiś
