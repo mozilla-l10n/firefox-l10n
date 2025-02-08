@@ -461,3 +461,5 @@ multi-profile-callout-cta = 프로필 만들기
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = 모바일용 Firefox와 탐색을 동기화하세요.
