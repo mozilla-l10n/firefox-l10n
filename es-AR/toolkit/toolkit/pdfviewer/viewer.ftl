@@ -555,6 +555,17 @@ pdfjs-editor-add-signature-image-browse-link =
 pdfjs-editor-add-signature-description-label = Descripción (texto alternativo)
 pdfjs-editor-add-signature-description-input =
     .title = Descripción (texto alternativo)
+pdfjs-editor-add-signature-description-default-when-drawing = Firma
+pdfjs-editor-add-signature-clear-button-label = Borrar firma
+pdfjs-editor-add-signature-clear-button =
+    .title = Borrar firma
+pdfjs-editor-add-signature-save-checkbox = Guardar firma
+pdfjs-editor-add-signature-save-warning-message = Se alcanzó el límite de 5 firmas guardadas. Elimine una para guardar más.
+pdfjs-editor-add-signature-image-upload-error-title = No se pudo subir la imagen
+pdfjs-editor-add-signature-image-upload-error-description = Verifique la conexión de red o pruebe con otra imagen.
+pdfjs-editor-add-signature-error-close-button = Cerrar
 
 ## Dialog buttons
 
+pdfjs-editor-add-signature-cancel-button = Cancelar
+pdfjs-editor-add-signature-add-button = Agregar

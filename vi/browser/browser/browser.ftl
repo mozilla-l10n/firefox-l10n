@@ -330,6 +330,7 @@ quickactions-downloads2 = Xem tải xuống
 quickactions-cmd-downloads = xem tải xuống, xem tai xuong, tải xuống, tai xuong, downloads
 # Opens about:addons page in the extensions section
 quickactions-extensions = Quản lý tiện ích
+quickactions-cmd-extensions = quản lý tiện ích, quan ly tien ich, tiện ích mở rộng, tien ich mo rong, tiện ích, tien ich
 # Opens the devtools web inspector
 quickactions-inspector2 = Mở Công cụ dành cho nhà phát triển
 quickactions-cmd-inspector = trình kiểm tra, devtools, trinh kiem tra, nhà phát triển, nha phat trien
@@ -344,7 +345,7 @@ quickactions-print2 = In trang
 quickactions-cmd-print = in, in trang, print
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Lưu trang dưới dạng PDF
-quickactions-cmd-savepdf = pdf
+quickactions-cmd-savepdf = pdf, save as pdf
 # Opens a new private browsing window
 quickactions-private2 = Mở cửa sổ riêng tư
 quickactions-cmd-private = duyệt web riêng tư, duyet web rieng tu, cửa sổ riêng tư, cua so rieng tu
@@ -362,10 +363,10 @@ quickactions-settings2 = Quản lý cài đặt
 quickactions-cmd-settings = cài đặt, tùy chọn, thiết lập, cai dat, tuy chon, thiet lap
 # Opens about:addons page in the themes section
 quickactions-themes = Quản lý chủ đề
-quickactions-cmd-themes = chủ đề, chu de
+quickactions-cmd-themes = chủ đề, chu de, themes
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Cập nhật { -brand-short-name }
-quickactions-cmd-update = cập nhật, cap nhat
+quickactions-cmd-update = cập nhật, cap nhat, update
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Xem mã nguồn trang
 quickactions-cmd-viewsource = xem mã nguồn trang, xem ma nguon trang, xem mã nguồn, xem ma nguon, xem nguồn, xem nguon, mã nguồn, ma nguon, source code page, code
