@@ -335,6 +335,8 @@ pdfjs-editor-remove-stamp-button =
     .title = أزِل الصورة
 pdfjs-editor-remove-highlight-button =
     .title = أزِل الإبراز
+pdfjs-editor-remove-signature-button =
+    .title = أزِل التوقيع
 
 ##
 
@@ -508,6 +510,7 @@ pdfjs-editor-undo-bar-message-highlight = أُزِيل البرز
 pdfjs-editor-undo-bar-message-freetext = أُزيل النص
 pdfjs-editor-undo-bar-message-ink = أُزِيلت الرسمة
 pdfjs-editor-undo-bar-message-stamp = أُزيلت الصورة
+pdfjs-editor-undo-bar-message-signature = أُزيل التوقيع
 pdfjs-editor-undo-bar-undo-button =
     .title = تراجع
 pdfjs-editor-undo-bar-undo-button-label = تراجع
@@ -517,6 +520,7 @@ pdfjs-editor-undo-bar-close-button-label = أغلق
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-label = يتيح هذا النموذج للمستخدم إنشاء توقيع لإضافته إلى مستند PDF. ويمكن للمستخدم تحرير الاسم (الذي يعمل أيضًا كنص بديل)، وحفظ التوقيع بشكل اختياري للاستخدام المتكرر.
 
 ## Tab names
 
