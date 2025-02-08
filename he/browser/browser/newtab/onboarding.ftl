@@ -403,6 +403,7 @@ tab-groups-onboarding-feature-callout-title = ניתן לנסות קבוצות �
 tab-groups-onboarding-feature-callout-subtitle = ניתן לעשות סדר בבלאגן על־ידי גרירת לשונית אחת על גבי לשונית אחרת כדי ליצור את הקבוצה הראשונה שלך.
 tab-groups-onboarding-create-group-title = ניתן למצוא את הקבוצות הפתוחות שלך בסרגל הלשוניות או על־ידי חיפושן בשורת הכתובת.
 tab-groups-onboarding-saved-groups-title = לאחר סגירת קבוצת לשוניות, באפשרותך לפתוח אותה מחדש כאן בכל עת.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title = ניתן למצוא את קבוצות הלשוניות הפתוחות או הסגורות שלך בכל עת על־ידי חיפושן בשורת הכתובת.
 tab-groups-onboarding-dismiss = אישור
 
 ## Multi Profiles feature onboarding messages
@@ -416,3 +417,9 @@ multi-profile-callout-cta = יצירת פרופיל
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = מורידים, מסנכרנים ויוצאים לדרך!
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = יש לסרוק את קוד ה־QR כדי להוריד את { -brand-product-name } לנייד. לאחר ההתקנה, יש לבחור ב״סנכרון לנייד״ כדי לגשת לססמאות והלשוניות שלך ועוד בדרכים.
+dismiss-button-label = סגירה
+sync-to-mobile-button-label = סנכרון לנייד

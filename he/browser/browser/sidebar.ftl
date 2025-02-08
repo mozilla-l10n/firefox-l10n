@@ -58,6 +58,10 @@ sidebar-show-on-the-right =
     .label = העברת סרגל הצד לימין
 sidebar-show-on-the-left =
     .label = העברת סרגל הצד לשמאל
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = הרחבת סרגל הצד בעת ריחוף העכבר עליו
 sidebar-horizontal-tabs =
     .label = לשוניות אופקיות
 sidebar-customize-tabs-header =
