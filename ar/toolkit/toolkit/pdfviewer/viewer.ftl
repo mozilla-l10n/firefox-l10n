@@ -561,6 +561,13 @@ pdfjs-editor-add-signature-description-default-when-drawing = توقيع
 pdfjs-editor-add-signature-clear-button-label = امحُ التوقيع
 pdfjs-editor-add-signature-clear-button =
     .title = امحُ التوقيع
+pdfjs-editor-add-signature-save-checkbox = احفظ التوقيع
+pdfjs-editor-add-signature-save-warning-message = لقد وصلت إلى الحد الأقصى وهو 5 توقيعات محفوظة. أزِل توقيع واحد لحفظ المزيد.
+pdfjs-editor-add-signature-image-upload-error-title = تعذر رفع الصورة.
+pdfjs-editor-add-signature-image-upload-error-description = تحقق من اتصال الشبكة لديك أو جرّب صورة أخرى.
+pdfjs-editor-add-signature-error-close-button = أغلق
 
 ## Dialog buttons
 
+pdfjs-editor-add-signature-cancel-button = ألغِ
+pdfjs-editor-add-signature-add-button = أضِف
