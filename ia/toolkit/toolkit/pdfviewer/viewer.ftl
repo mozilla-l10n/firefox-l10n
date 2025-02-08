@@ -535,7 +535,10 @@ pdfjs-editor-add-signature-image-button = Imagine
 
 ## Tab panels
 
-pdfjs-editor-add-signature-draw-placeholder = Designa tu signatura
+pdfjs-editor-add-signature-type-input =
+    .aria-label = Typa tu firma
+    .placeholder = Typa tu firma
+pdfjs-editor-add-signature-draw-placeholder = Designa tu firma
 pdfjs-editor-add-signature-draw-thickness-range-label = Spissor
 # Variables:
 #   $thickness (Number) - the thickness (in pixels) of the line used to draw a signature.
@@ -545,7 +548,7 @@ pdfjs-editor-add-signature-image-placeholder = Trahe un file hic pro incargar lo
 pdfjs-editor-add-signature-image-browse-link =
     { PLATFORM() ->
         [macos] O elige files de imagine
-       *[other] O percurre files de imagine
+       *[other] O folietta files de imagine
     }
 
 ## Controls
@@ -558,7 +561,7 @@ pdfjs-editor-add-signature-clear-button-label = Rader signatura
 pdfjs-editor-add-signature-clear-button =
     .title = Rader signatura
 pdfjs-editor-add-signature-save-checkbox = Salvar signatura
-pdfjs-editor-add-signature-save-warning-message = Tu ha attingite le limite de 5 signaturas salvate. Remove un pro salvar un altere.
+pdfjs-editor-add-signature-save-warning-message = Tu ha attingite le limite de 5 firmas salvate. Remove un pro salvar un altere.
 pdfjs-editor-add-signature-image-upload-error-title = Non poteva incargar le imagine
 pdfjs-editor-add-signature-image-upload-error-description = Verifica tu connexion al rete o tenta un altere imagine.
 pdfjs-editor-add-signature-error-close-button = Clauder
