@@ -33,6 +33,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = 取消
     .accesskey = C
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text = { $extension } 已有更新。您必須允許新版套件所要求的權限，才會安裝。點擊「取消」可繼續使用目前版本的擴充套件。此擴充套件將有下列權限：
 webext-perms-update-accept =
     .label = 更新
     .accesskey = U
