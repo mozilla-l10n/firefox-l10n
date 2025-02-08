@@ -536,8 +536,8 @@ pdfjs-editor-add-signature-image-button = Imagine
 ## Tab panels
 
 pdfjs-editor-add-signature-type-input =
-    .aria-label = Typa tu firma
-    .placeholder = Typa tu firma
+    .aria-label = Insere tu firma
+    .placeholder = Insere tu firma
 pdfjs-editor-add-signature-draw-placeholder = Designa tu firma
 pdfjs-editor-add-signature-draw-thickness-range-label = Spissor
 # Variables:
