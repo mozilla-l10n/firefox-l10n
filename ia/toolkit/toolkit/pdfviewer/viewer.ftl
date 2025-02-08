@@ -328,7 +328,7 @@ pdfjs-editor-remove-stamp-button =
 pdfjs-editor-remove-highlight-button =
     .title = Remover evidentia
 pdfjs-editor-remove-signature-button =
-    .title = Remover firma
+    .title = Remover signatura
 
 ##
 
@@ -502,7 +502,7 @@ pdfjs-editor-undo-bar-message-highlight = Evidentiation removite
 pdfjs-editor-undo-bar-message-freetext = Texto removite
 pdfjs-editor-undo-bar-message-ink = Designo removite
 pdfjs-editor-undo-bar-message-stamp = Imagine removite
-pdfjs-editor-undo-bar-message-signature = Firma removite
+pdfjs-editor-undo-bar-message-signature = Signatura removite
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple =
@@ -519,7 +519,8 @@ pdfjs-editor-undo-bar-close-button-label = Clauder
 
 ## Add a signature dialog
 
-pdfjs-editor-add-signature-dialog-title = Adder firma
+pdfjs-editor-add-signature-dialog-label = Iste fenestra permitte al usator crear un signatura a adder al documento PDF. Le usator pote modificar le nomine (le qual tamben servi de texto alternative) e, si desirate, salvar le signatura pro uso repetite.
+pdfjs-editor-add-signature-dialog-title = Adder un signatura
 
 ## Tab names
 
@@ -534,12 +535,24 @@ pdfjs-editor-add-signature-image-button = Imagine
 
 ## Tab panels
 
+pdfjs-editor-add-signature-type-input =
+    .aria-label = Scribe tu signatura
+    .placeholder = Scribe tu signatura
+pdfjs-editor-add-signature-draw-placeholder = Designa tu signatura
 pdfjs-editor-add-signature-draw-thickness-range-label = Spissor
+# Variables:
+#   $thickness (Number) - the thickness (in pixels) of the line used to draw a signature.
+pdfjs-editor-add-signature-draw-thickness-range =
+    .title = Spissor de designo: { $thickness }
+pdfjs-editor-add-signature-image-placeholder = Trahe un file hic pro incargar lo
+pdfjs-editor-add-signature-image-browse-link =
+    { PLATFORM() ->
+        [macos] O elige files de imagine
+       *[other] O percurre files de imagine
+    }
 
 ## Controls
 
-pdfjs-editor-add-signature-description-default-when-drawing = Firma
-pdfjs-editor-add-signature-clear-button-label = Cancellar firma
 pdfjs-editor-add-signature-clear-button =
     .title = Cancellar firma
 pdfjs-editor-add-signature-save-checkbox = Salvar firma
