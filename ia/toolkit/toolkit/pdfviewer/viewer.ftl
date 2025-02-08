@@ -519,7 +519,7 @@ pdfjs-editor-undo-bar-close-button-label = Clauder
 
 ## Add a signature dialog
 
-pdfjs-editor-add-signature-dialog-label = Iste fenestra permitte al usator crear un signatura a adder al documento PDF. Le usator pote modificar le nomine (le qual tamben servi de texto alternative) e, si desirate, salvar le signatura pro uso repetite.
+pdfjs-editor-add-signature-dialog-label = Iste formulario permitte al usator crear un firma a adder a un documento PDF. Le usator pote modificar le nomine (le qual tamben servi de texto alternative) e, si desirate, salvar le firma pro uso repetite.
 pdfjs-editor-add-signature-dialog-title = Adder un signatura
 
 ## Tab names
@@ -535,9 +535,6 @@ pdfjs-editor-add-signature-image-button = Imagine
 
 ## Tab panels
 
-pdfjs-editor-add-signature-type-input =
-    .aria-label = Scribe tu signatura
-    .placeholder = Scribe tu signatura
 pdfjs-editor-add-signature-draw-placeholder = Designa tu signatura
 pdfjs-editor-add-signature-draw-thickness-range-label = Spissor
 # Variables:
