@@ -6,7 +6,10 @@
 ## Preonboarding modal screen strings
 
 preonboarding-title = Velkomin í { -brand-product-name }
+preonboarding-subtitle = Með því að halda áfram samþykkir þú notkunarskilmála { -brand-product-name } og stefnu okkar varðandi persónuvernd. Til að hjálpa til við endurbætur á vafranum, sendir { -brand-product-name } greiningar- og samskiptagögn til { -vendor-short-name }.
 preonboarding-primary-cta = Samþykkja og halda áfram
+# Label for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
+preonboarding-manage-and-read-header = Sýslaðu með stillingar á gagnasöfnun og lestu notkunarskilmála okkar og um meðferð okkar á persónuupplýsingum
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Lestu notkunarskilmála okkar
 # Label for header style button that toggles showing the Privacy Notice

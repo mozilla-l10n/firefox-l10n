@@ -446,7 +446,9 @@ onboarding-checklist-sign-up = Nýskráðu þig eða skráðu þig inn á reikni
 
 tab-groups-onboarding-feature-callout-title = Prófaðu flipahópa fyrir minni þrengsli og meiri einbeitingu
 tab-groups-onboarding-feature-callout-subtitle = Skipulegðu þig með því að draga einn flipa ofan á annan til að búa til fyrsta hópinn þinn.
+tab-groups-onboarding-create-group-title = Finndu opnu hópana þína á flipastikunni eða með því að leita að þeim í veffangastikunni.
 tab-groups-onboarding-saved-groups-title = Ef þú lokar flipahópi geturðu opnað hann aftur hér hvenær sem er.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title = Finndu opna eða lokaða flipahópa hvenær sem er með því að leita í veffangastikunni.
 tab-groups-onboarding-dismiss = Í lagi
 
 ## Multi Profiles feature onboarding messages
@@ -460,3 +462,9 @@ multi-profile-callout-cta = Búðu til notkunarsnið
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = Sæktu, samstilltu og flakkaðu!
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Skannaðu QR-kóðann til að sækja { -brand-product-name } fyrir farsíma. Þegar uppsetningu er lokið skaltu velja „Samstilla við farsíma“ til að fá aðgang að lykilorðunum þínum, bókamerkjum og fleiru þegar þú ert á ferðinni.
+dismiss-button-label = Afgreiða
+sync-to-mobile-button-label = Samstilla við farsíma

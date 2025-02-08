@@ -2,6 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+url-classifier-search-title = തിരയുക
+url-classifier-search-result-title = പഴങ്ങൾ
+# Variables:
+#   $uri (string) - URI of blocked page
+url-classifier-search-result-uri = യുആർഐ: { $uri }
+# Variables:
+#   $list (string) - List of tables where the page is blocked
+url-classifier-search-result-list = പട്ടികകളുടെ പട്ടിക: { $list }
+url-classifier-search-input = യുആര്‍എല്‍
+url-classifier-search-error-invalid-url = അസാധുവായ URL
+url-classifier-search-btn = തിരയാൻ തുടങ്ങുക
+url-classifier-search-features = സവിശേഷതകള്‍
+url-classifier-search-listType = പട്ടിക തരം
 url-classifier-provider-title = പ്രൊവൈഡര്‍
 url-classifier-provider = പ്രൊവൈഡര്‍
 url-classifier-provider-last-update-time = ഒടുവില്‍ പുതുക്കിയ സമയം

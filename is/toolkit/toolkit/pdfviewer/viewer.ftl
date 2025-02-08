@@ -327,6 +327,8 @@ pdfjs-editor-remove-stamp-button =
     .title = Fjarlægja mynd
 pdfjs-editor-remove-highlight-button =
     .title = Fjarlægja áherslulit
+pdfjs-editor-remove-signature-button =
+    .title = Fjarlægja undirskrift
 
 ##
 
@@ -500,6 +502,7 @@ pdfjs-editor-undo-bar-message-highlight = Áherslulitun fjarlægð
 pdfjs-editor-undo-bar-message-freetext = Texti fjarlægður
 pdfjs-editor-undo-bar-message-ink = Teikning fjarlægð
 pdfjs-editor-undo-bar-message-stamp = Mynd fjarlægð
+pdfjs-editor-undo-bar-message-signature = Undirskrift fjarlægð
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple =
@@ -516,12 +519,30 @@ pdfjs-editor-undo-bar-close-button-label = Loka
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-title = Bæta við undirskrift
 
 ## Tab names
 
+# Type is a verb (you can type your name as signature)
+pdfjs-editor-add-signature-type-button = Tegund
+    .title = Tegund
+# Draw is a verb (you can draw your signature)
+pdfjs-editor-add-signature-draw-button = Teikna
+    .title = Teikna
+pdfjs-editor-add-signature-image-button = Mynd
+    .title = Mynd
 
 ## Tab panels
 
+pdfjs-editor-add-signature-type-input =
+    .aria-label = Skrifaðu inn undirskriftina þína
+    .placeholder = Skrifaðu inn undirskriftina þína
+pdfjs-editor-add-signature-draw-placeholder = Teiknaðu undirskriftina þína
+pdfjs-editor-add-signature-draw-thickness-range-label = Þykkt
+# Variables:
+#   $thickness (Number) - the thickness (in pixels) of the line used to draw a signature.
+pdfjs-editor-add-signature-draw-thickness-range =
+    .title = Sverleiki teikningar: { $thickness }
 
 ## Controls
 

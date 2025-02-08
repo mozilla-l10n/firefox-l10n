@@ -58,6 +58,10 @@ sidebar-show-on-the-right =
     .label = Færa hliðarstiku til hægri
 sidebar-show-on-the-left =
     .label = Færa hliðarstiku til vinstri
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Fella út hliðarstikuna við yfirsvif
 sidebar-horizontal-tabs =
     .label = Láréttir flipar
 sidebar-customize-tabs-header =
