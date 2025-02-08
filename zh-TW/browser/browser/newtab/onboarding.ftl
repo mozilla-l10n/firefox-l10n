@@ -433,7 +433,9 @@ onboarding-checklist-sign-up = 註冊或登入帳號
 
 tab-groups-onboarding-feature-callout-title = 試用分頁群組，減少雜亂、更能專注
 tab-groups-onboarding-feature-callout-subtitle = 將一個分頁拖曳到另一個分頁，即可建立第一個分頁群組。
+tab-groups-onboarding-create-group-title = 於分頁列當中尋找您開啟的群組，或直接於網址列搜尋。
 tab-groups-onboarding-saved-groups-title = 關閉分頁群組後，可以隨時在此處重新開啟。
+tab-groups-onboarding-saved-groups-no-alltabs-button-title = 於網址列隨時搜尋您開啟或關閉的分頁群組。
 tab-groups-onboarding-dismiss = 確定
 
 ## Multi Profiles feature onboarding messages
@@ -449,5 +451,7 @@ multi-profile-callout-cta = 建立設定檔
 
 # If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
 desktop-to-mobile-headline = 下載、同步、出發！
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = 掃描 QR Code 即可下載 { -brand-product-name } 行動版。安裝完成後，請選擇「同步到行動裝置」即可隨時隨地取得您的密碼、書籤與更多資訊。
 dismiss-button-label = 知道了！
 sync-to-mobile-button-label = 同步到行動裝置
