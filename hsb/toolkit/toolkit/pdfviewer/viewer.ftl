@@ -566,6 +566,7 @@ pdfjs-editor-add-signature-clear-button-label = Signaturu zhašeć
 pdfjs-editor-add-signature-clear-button =
     .title = Signaturu zhašeć
 pdfjs-editor-add-signature-save-checkbox = Signaturu składować
+pdfjs-editor-add-signature-save-warning-message = Sće limit 5 składowanych signaturow docpěł. Wotstrońće jednu, zo byšće wjace składował.
 pdfjs-editor-add-signature-image-upload-error-title = Wobraz njeda so nahrać
 pdfjs-editor-add-signature-image-upload-error-description = Přepruwujće swój syćowy zwisk abo spytajće druhi wobraz.
 pdfjs-editor-add-signature-error-close-button = Začinić
