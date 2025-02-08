@@ -459,3 +459,4 @@ multi-profile-callout-cta = Criar um perfil
 
 ## Desktop to Mobile Adoption feature callout strings
 
+dismiss-button-label = Descartar

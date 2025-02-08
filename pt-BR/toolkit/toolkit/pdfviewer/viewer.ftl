@@ -519,12 +519,48 @@ pdfjs-editor-undo-bar-close-button-label = Fechar
 
 ## Tab names
 
+# Type is a verb (you can type your name as signature)
+pdfjs-editor-add-signature-type-button = Tipo
+    .title = Tipo
+# Draw is a verb (you can draw your signature)
+pdfjs-editor-add-signature-draw-button = Desenhar
+    .title = Desenhar
+pdfjs-editor-add-signature-image-button = Imagem
+    .title = Imagem
 
 ## Tab panels
 
+pdfjs-editor-add-signature-type-input =
+    .aria-label = Digite sua assinatura
+    .placeholder = Digite sua assinatura
+pdfjs-editor-add-signature-draw-placeholder = Desenhe sua assinatura
+pdfjs-editor-add-signature-draw-thickness-range-label = Espessura
+# Variables:
+#   $thickness (Number) - the thickness (in pixels) of the line used to draw a signature.
+pdfjs-editor-add-signature-draw-thickness-range =
+    .title = Espessura do desenho: { $thickness }
+pdfjs-editor-add-signature-image-placeholder = Arraste um arquivo aqui para enviar
+pdfjs-editor-add-signature-image-browse-link =
+    { PLATFORM() ->
+        [macos] Ou escolha arquivos de imagem
+       *[other] Ou escolha arquivos de imagem
+    }
 
 ## Controls
 
+pdfjs-editor-add-signature-description-label = Descrição (texto alternativo)
+pdfjs-editor-add-signature-description-input =
+    .title = Descrição (texto alternativo)
+pdfjs-editor-add-signature-description-default-when-drawing = Assinatura
+pdfjs-editor-add-signature-clear-button-label = Limpar assinatura
+pdfjs-editor-add-signature-clear-button =
+    .title = Limpar assinatura
+pdfjs-editor-add-signature-save-checkbox = Salvar assinatura
+pdfjs-editor-add-signature-save-warning-message = Você atingiu o limite de 5 assinaturas salvas. Remova uma para salvar mais.
+pdfjs-editor-add-signature-image-upload-error-title = Não foi possível enviar a imagem
+pdfjs-editor-add-signature-image-upload-error-description = Verifique sua conexão de rede ou tente outra imagem.
+pdfjs-editor-add-signature-error-close-button = Fechar
 
 ## Dialog buttons
 
+pdfjs-editor-add-signature-cancel-button = Cancelar
