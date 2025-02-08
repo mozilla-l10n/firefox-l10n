@@ -445,7 +445,9 @@ onboarding-checklist-sign-up = Registrate o accede a tu conto
 
 tab-groups-onboarding-feature-callout-title = Prova le gruppos de schedas pro minus disordine, plus concentration
 tab-groups-onboarding-feature-callout-subtitle = Organisa te trahente un scheda al summitate de un altere pro crear tu prime gruppo.
+tab-groups-onboarding-create-group-title = Trova tu gruppos aperte sur le barra de schedas o cerca los in le barra de adresse.
 tab-groups-onboarding-saved-groups-title = Si tu claude un gruppo de schedas, tu poter reaperir lo ci quando tu lo vole.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title = Pro retrovar tu gruppos de schedas, aperte o clause, cerca los in le barra de adresse.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages
@@ -459,3 +461,9 @@ multi-profile-callout-cta = Crear un profilo
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = Discargar, synchronisar, e lancear!
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Scanna le codice QR pro discargar { -brand-product-name } pro apparatos mobile. Un vice installate, selige “Synchronisar a mobile” pro acceder a tu contrasignos, marcapaginas, e plus, ubicunque tu te trova.
+dismiss-button-label = Clauder
+sync-to-mobile-button-label = Synchronisar con apparato mobile

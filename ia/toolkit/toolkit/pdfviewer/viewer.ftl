@@ -327,6 +327,8 @@ pdfjs-editor-remove-stamp-button =
     .title = Remover imagine
 pdfjs-editor-remove-highlight-button =
     .title = Remover evidentia
+pdfjs-editor-remove-signature-button =
+    .title = Remover firma
 
 ##
 
@@ -500,6 +502,7 @@ pdfjs-editor-undo-bar-message-highlight = Evidentiation removite
 pdfjs-editor-undo-bar-message-freetext = Texto removite
 pdfjs-editor-undo-bar-message-ink = Designo removite
 pdfjs-editor-undo-bar-message-stamp = Imagine removite
+pdfjs-editor-undo-bar-message-signature = Firma removite
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple =
@@ -516,22 +519,33 @@ pdfjs-editor-undo-bar-close-button-label = Clauder
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-title = Adder firma
 
 ## Tab names
 
 # Type is a verb (you can type your name as signature)
 pdfjs-editor-add-signature-type-button = Typar
     .title = Typar
+# Draw is a verb (you can draw your signature)
+pdfjs-editor-add-signature-draw-button = Designar
+    .title = Designar
+pdfjs-editor-add-signature-image-button = Imagine
+    .title = Imagine
 
 ## Tab panels
 
+pdfjs-editor-add-signature-draw-thickness-range-label = Spissor
 
 ## Controls
 
+pdfjs-editor-add-signature-description-default-when-drawing = Firma
 pdfjs-editor-add-signature-clear-button-label = Cancellar firma
 pdfjs-editor-add-signature-clear-button =
     .title = Cancellar firma
 pdfjs-editor-add-signature-save-checkbox = Salvar firma
+pdfjs-editor-add-signature-error-close-button = Clauder
 
 ## Dialog buttons
 
+pdfjs-editor-add-signature-cancel-button = Cancellar
+pdfjs-editor-add-signature-add-button = Adder
