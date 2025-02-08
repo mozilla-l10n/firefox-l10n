@@ -327,6 +327,8 @@ pdfjs-editor-remove-stamp-button =
     .title = Remover imagem
 pdfjs-editor-remove-highlight-button =
     .title = Remover destaque
+pdfjs-editor-remove-signature-button =
+    .title = Remover assinatura
 
 ##
 
@@ -500,6 +502,7 @@ pdfjs-editor-undo-bar-message-highlight = Destaque removido
 pdfjs-editor-undo-bar-message-freetext = Texto removido
 pdfjs-editor-undo-bar-message-ink = Desenho removido
 pdfjs-editor-undo-bar-message-stamp = Imagem removida
+pdfjs-editor-undo-bar-message-signature = Assinatura removida
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple =
@@ -516,6 +519,7 @@ pdfjs-editor-undo-bar-close-button-label = Fechar
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-title = Adicionar uma assinatura
 
 ## Tab names
 
@@ -564,3 +568,4 @@ pdfjs-editor-add-signature-error-close-button = Fechar
 ## Dialog buttons
 
 pdfjs-editor-add-signature-cancel-button = Cancelar
+pdfjs-editor-add-signature-add-button = Adicionar
