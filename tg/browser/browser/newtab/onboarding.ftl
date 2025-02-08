@@ -460,5 +460,7 @@ multi-profile-callout-cta = Эҷод кардани профил
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = Боргирӣ кунед, ҳамоҳанг созед ва ба пеш равед!
 dismiss-button-label = Нодида гузарондан
 sync-to-mobile-button-label = Ҳамоҳангсозӣ бо дастгоҳи мобилӣ

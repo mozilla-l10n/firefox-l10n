@@ -327,6 +327,8 @@ pdfjs-editor-remove-stamp-button =
     .title = Тоза кардани тасвир
 pdfjs-editor-remove-highlight-button =
     .title = Тоза кардани ҷудокунӣ
+pdfjs-editor-remove-signature-button =
+    .title = Тоза кардани имзо
 
 ##
 
@@ -500,6 +502,7 @@ pdfjs-editor-undo-bar-message-highlight = Ҷудосозӣ тоза карда �
 pdfjs-editor-undo-bar-message-freetext = Матн тоза карда шуд
 pdfjs-editor-undo-bar-message-ink = Расм тоза карда шуд
 pdfjs-editor-undo-bar-message-stamp = Тасвир тоза карда шуд
+pdfjs-editor-undo-bar-message-signature = Имзо тоза карда шуд
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple =
@@ -536,14 +539,29 @@ pdfjs-editor-add-signature-type-input =
     .placeholder = Имзои худро бо ном нависед
 pdfjs-editor-add-signature-draw-placeholder = Имзои худро кашида, гузоред
 pdfjs-editor-add-signature-draw-thickness-range-label = Ғафсӣ
+# Variables:
+#   $thickness (Number) - the thickness (in pixels) of the line used to draw a signature.
+pdfjs-editor-add-signature-draw-thickness-range =
+    .title = Ғафсии имзо: { $thickness }
+pdfjs-editor-add-signature-image-placeholder = Барои бор кардани файл, онро дар ин ҷой кашида, гузоред
+pdfjs-editor-add-signature-image-browse-link =
+    { PLATFORM() ->
+        [macos] Ё файлҳои тасвириро интихоб кунед
+       *[other] Ё файлҳои тасвириро интихоб кунед
+    }
 
 ## Controls
 
+pdfjs-editor-add-signature-description-label = Тавсиф (матни иловагӣ)
+pdfjs-editor-add-signature-description-input =
+    .title = Тавсиф (матни иловагӣ)
 pdfjs-editor-add-signature-description-default-when-drawing = Имзо
 pdfjs-editor-add-signature-clear-button-label = Пок кардани имзо
 pdfjs-editor-add-signature-clear-button =
     .title = Пок кардани имзо
 pdfjs-editor-add-signature-save-checkbox = Нигоҳ доштани имзо
+pdfjs-editor-add-signature-image-upload-error-title = Тасвир бор карда нашуд
+pdfjs-editor-add-signature-image-upload-error-description = Пайвастшавии шабакаи худро санҷед ё тасвири дигареро кӯшиш кунед.
 pdfjs-editor-add-signature-error-close-button = Пӯшидан
 
 ## Dialog buttons

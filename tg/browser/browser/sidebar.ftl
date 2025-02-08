@@ -58,6 +58,10 @@ sidebar-show-on-the-right =
     .label = Ҷойгир кардани навори ҷонибӣ аз тарафи рост
 sidebar-show-on-the-left =
     .label = Ҷойгир кардани навори ҷонибӣ аз тарафи чап
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Баркушодани навори ҷонибӣ ҳангоми гузоштани нишондиҳандаи муш ба болои он
 sidebar-horizontal-tabs =
     .label = Варақаҳои уфуқӣ
 sidebar-customize-tabs-header =
