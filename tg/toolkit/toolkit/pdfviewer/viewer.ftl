@@ -516,6 +516,7 @@ pdfjs-editor-undo-bar-close-button-label = Пӯшидан
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-title = Илова кардани имзо
 
 ## Tab names
 
@@ -530,9 +531,22 @@ pdfjs-editor-add-signature-image-button = Тасвир
 
 ## Tab panels
 
+pdfjs-editor-add-signature-type-input =
+    .aria-label = Имзои худро бо ном нависед
+    .placeholder = Имзои худро бо ном нависед
+pdfjs-editor-add-signature-draw-placeholder = Имзои худро кашида, гузоред
+pdfjs-editor-add-signature-draw-thickness-range-label = Ғафсӣ
 
 ## Controls
 
+pdfjs-editor-add-signature-description-default-when-drawing = Имзо
+pdfjs-editor-add-signature-clear-button-label = Пок кардани имзо
+pdfjs-editor-add-signature-clear-button =
+    .title = Пок кардани имзо
+pdfjs-editor-add-signature-save-checkbox = Нигоҳ доштани имзо
+pdfjs-editor-add-signature-error-close-button = Пӯшидан
 
 ## Dialog buttons
 
+pdfjs-editor-add-signature-cancel-button = Бекор кардан
+pdfjs-editor-add-signature-add-button = Илова кардан
