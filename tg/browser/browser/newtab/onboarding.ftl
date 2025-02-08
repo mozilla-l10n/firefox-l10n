@@ -460,3 +460,5 @@ multi-profile-callout-cta = Эҷод кардани профил
 
 ## Desktop to Mobile Adoption feature callout strings
 
+dismiss-button-label = Нодида гузарондан
+sync-to-mobile-button-label = Ҳамоҳангсозӣ бо дастгоҳи мобилӣ

@@ -59,6 +59,11 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Аз «{ $provider }» пурсед
+genai-menu-remove-generic =
+    .label = Тоза кардани чат-боти зеҳни сунъӣ «AI»
+# $provider (string) - name of the provider
+genai-menu-remove-provider =
+    .label = Тоза кардани «{ $provider }»
 genai-input-ask-generic =
     .placeholder = Аз чат-боти зеҳни сунъӣ «AI» пурсед…
 # $provider (string) - name of the provider

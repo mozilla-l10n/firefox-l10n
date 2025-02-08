@@ -519,6 +519,14 @@ pdfjs-editor-undo-bar-close-button-label = Пӯшидан
 
 ## Tab names
 
+# Type is a verb (you can type your name as signature)
+pdfjs-editor-add-signature-type-button = Нависед
+    .title = Нависед
+# Draw is a verb (you can draw your signature)
+pdfjs-editor-add-signature-draw-button = Имзо гузоред
+    .title = Имзо гузоред
+pdfjs-editor-add-signature-image-button = Тасвир
+    .title = Тасвир
 
 ## Tab panels
 
