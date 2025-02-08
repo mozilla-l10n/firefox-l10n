@@ -64,6 +64,7 @@ split-dismiss-button-manage-settings-option-label = ਸੈਟਿੰਗਾਂ ਦ
 
 sidebar-button-callout-title = ਬਾਹੀ ਵਿੱਚ ਟੈਬਾਂ ਦੇ ਟਾਈਟਲ ਵੇਖਾਓ
 sidebar-button-callout-subtitle = ਟੈਬਾਂ ਦੇ ਟਾਈਟਲ ਵੇਖਣ ਵਾਸਤੇ ਬਾਹੀ ਵਾਲੇ ਬਟਨ ਨੂੰ ਬਾਹੀ ਫੈਲਾਉਣ ਲਈ ਵਰਤੋ।
+sidebar-button-callout-vertical-tabs = ਆਪਣੀਆਂ ਟੈਬਾਂ ਨੂੰ ਵੇਖਾਉਣ ਲਈ, ਟੂਲ-ਪੱਟੀ ਵਿੱਚ ਬਾਹੀ ਬਟਨ ਨੂੰ ਚੁਣੋ।
 
 ## Sidebar Callout Survey Strings
 
@@ -90,3 +91,11 @@ sidebar-callout-survey-submit = ਭੇਜੋ
 sidebar-callout-survey-thank-you = ਤੁਹਾਡੇ ਸੁਝਾਅ ਲਈ ਤੁਹਾਡਾ ਧੰਨਵਾਦ ਹੈ!
 sidebar-genai-survey-satisfaction-question = ਬਾਹੀ ਵਿੱਚ ਇੱਕ AI ਚੈਟਬੋਟ ਮੌਜੂਦ ਹੋਣ ਨਾਲ ਤੁਸੀਂ ਕਿੰਨਾ ਕੁ ਸੰਤਸ਼ਟ ਹੋ?
 sidebar-genai-survey-productive-question = ਤੁਸੀਂ ਅੱਗੇ ਦਿੱਤੇ ਬਿਆਨ ਨਾਲ ਕਿੰਨਾ ਸਹਿਮਤ ਜਾਂ ਅਸਹਿਮਤ ਹੋ:<br/>“ਬਾਹੀ ਵਿੱਚ AI ਚੈਟਬੋਟ ਨੇ ਮੇਰੀ ਕਾਰਗੁਜ਼ਾਰੀ ਨੂੰ ਵਧਾਉਣ ਲਈ ਮਦਦ ਕੀਤੀ ਹੈ”?
+unified-search-callout-title = ਖੋਜ ਇੰਜਣਾਂ ਵਿਚਾਲੇ ਬਦਲੋ
+unified-search-callout-subtitle = ਤੁਹਾਡੀ ਖਾਸ ਖੋਜ ਲਈ ਸਭ ਤੋਂ ਵਧੀਆ ਕੰਮ ਕਰਨ ਵਾਲੇ ਨੂੰ ਚੁਣੋ।
+unified-search-callout-primary-label = ਅੱਗੇ
+unified-search-callout-secondary-label = ਖ਼ਾਰਜ ਕਰੋ
+unified-search-engines-callout-title = ਸ਼ਾਰਟਕੱਟ ਨਾਲ ਖੋਜੋ
+unified-search-engines-callout-subtitle = ਆਪਣੇ ਅਤੀਤ, ਬੁੱਕਮਾਰਕਾਂ, ਟੈਬਾਂ ਵਿੱਚ ਜਾਂ ਹੋਰ ਖੋਜ ਇੰਜਣ ਨਾਲ ਖੋਜ ਕਰਨ ਲਈ “@” ਦੇ ਬਾਅਦ ਸ਼ਬਦ ਲਿਖੋ।
+unified-search-engines-callout-primary-label = ਸਮਝੇ
+actions-callout-title = ਆਮ ਕੰਮ ਪੂਰੇ ਕਰੋ ਜਾਂ ਮੁੱਢਲੀਆਂ ਸੈਟਿੰਗਾਂ ਨੂੰ ਵੇਖੋ
