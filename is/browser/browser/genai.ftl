@@ -59,6 +59,8 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Spyrja { $provider }
+genai-menu-remove-generic =
+    .label = Fjarlægja gervigreindarspjallkerfi
 genai-input-ask-generic =
     .placeholder = Spyrja gervigreindarspjallkerfi…
 # $provider (string) - name of the provider

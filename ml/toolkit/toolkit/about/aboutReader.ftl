@@ -52,19 +52,63 @@ about-reader-toolbar-lineheightplus =
 
 about-reader-font-type-serif = സെറിഫ്
 about-reader-font-type-sans-serif = സാന്‍സ്-സെറിഫ്:
+about-reader-font-type-monospace = മോണോസ്പേസ്
 
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = വായനാ കാഴ്ച അടയ്ക്കുക
 about-reader-toolbar-type-controls = ടൈപ്പ് കണ്ട്രോളുകള്‍
+about-reader-toolbar-text-layout-controls = എഴുതും കരടുരൂപവും
+about-reader-toolbar-theme-controls = അലങ്കാരം
+about-reader-toolbar-savetopocket = { -pocket-brand-name }-ൽ കരുതിവയ്ക്കുക
 
 ## Reader View colors menu
 
+about-reader-colors-menu-header = അലങ്കാരം
+about-reader-fxtheme-tab = തനിമട്ട്
+about-reader-customtheme-tab = ഇഷ്ടാനുസൃതം
 
 ## These are used as labels for the custom theme color pickers.
 ## The .title element is used to make the editing functionality
 ## clear and give context for screen reader users.
 
+about-reader-custom-colors-foreground = എഴുതു്
+    .title = നിറം മാറ്റുക
+about-reader-custom-colors-background = പശ്ചാത്തലം
+    .title = നിറം തിരുത്തുക
+about-reader-custom-colors-unvisited-links = സന്ദൎശിച്ച കണ്ണികൾ
+    .title = നിറം മാറ്റുക
+about-reader-custom-colors-visited-links = സന്ദൎശിക്കാത്ത കണ്ണികൾ
+    .title = നിറം തിരുത്തുക
+about-reader-custom-colors-selection-highlight = ഉറക്കെ വായിക്കുന്നതിനുള്ള അടയാളപ്പെടുത്തൽക്കരു
+    .title = നിറം മാറ്റുക
+about-reader-reset-button = തനിമട്ടിലാക്കുക
+about-reader-custom-colors-foreground2 =
+    .label = വാചകം
+    .title = നിറം മാറ്റുക
+about-reader-custom-colors-background2 =
+    .label = പശ്ചാത്തലം
+    .title = നിറം മാറ്റുക
+about-reader-custom-colors-unvisited-links2 =
+    .label = സന്ദൎശിക്കാത്ത കണ്ണികൾ
+    .title = നിറം മാറ്റുക
+about-reader-custom-colors-visited-links2 =
+    .label = സന്ദൎശിച്ച കണ്ണികൾ
+    .title = നിറം മാറ്റുക
+about-reader-custom-colors-selection-highlight2 =
+    .label = ഉറക്കെ വായിക്കുന്നതിനുള്ള അടയാളപ്പെടുത്തൽക്കരു
+    .title = നിറം മാറ്റുക
 
 ## Reader View text and layout menu
 
+about-reader-text-header = എഴുതു്
+about-reader-text-size-label = അക്ഷരവലുപ്പം
+about-reader-font-type-selector-label = അക്ഷരശൈലി
+about-reader-font-weight-selector-label = ലിപിക്കട്ടി
+about-reader-font-weight-light = ഇളം
+about-reader-font-weight-regular = പതിവു്
+about-reader-layout-header = വിന്യാസം
+about-reader-slider-label-spacing-standard = നിലവാരം
+about-reader-slider-label-spacing-wide = വീതികൂടിയ
+about-reader-content-width-label =
+    .label = ഉള്ളടക്കവീതി

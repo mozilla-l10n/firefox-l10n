@@ -225,6 +225,15 @@ containers-remove-cancel-button = ਇਸ ਕਨਟੇਨਰ ਨੂੰ ਨਾ ਹ
 settings-tabs-show-image-in-preview =
     .label = ਜਦੋਂ ਤੁਸੀਂ ਟੈਬ ਉੱਤੇ ਹੋਵੋ ਤਾਂ ਚਿੱਤਰ ਚਿੱਤਰ ਝਲਕ ਵੇਖੋ
     .accessKey = h
+browser-layout-header = ਬਰਾਊਜ਼ਰ ਦਾ ਲੇਆਉਟ
+browser-layout-horizontal-tabs =
+    .label = ਲੇਟਵੀਆਂ ਟੈਬਾਂ
+browser-layout-horizontal-tabs-desc = ਬਰਾਊਜ਼ਰ ਦੇ ਸਿਖਰ ਉੱਤੇ ਦਿਖਾਓ
+browser-layout-vertical-tabs =
+    .label = ਖੜ੍ਹਵੀਆਂ ਟੈਬਾਂ
+browser-layout-vertical-tabs-desc = ਪਾਸੇ ਉੱਤੇ ਬਾਹੀ ਵਿੱਚ ਵੇਖਾਓ
+browser-layout-show-sidebar =
+    .label = ਬਾਹੀ ਨੂੰ ਵੇਖਾਓ
 
 ## General Section - Language & Appearance
 
