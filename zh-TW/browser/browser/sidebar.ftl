@@ -58,6 +58,10 @@ sidebar-show-on-the-right =
     .label = 將側邊欄移至右方
 sidebar-show-on-the-left =
     .label = 將側邊欄移至左方
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = 在滑鼠移到上方時展開
 sidebar-horizontal-tabs =
     .label = 水平分頁標籤
 sidebar-customize-tabs-header =
