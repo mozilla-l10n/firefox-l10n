@@ -519,6 +519,7 @@ pdfjs-editor-undo-bar-close-button-label = Loka
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-label = Þessi gluggi gerir notandanum kleift að búa til undirskrift til að bæta við PDF-skjal. Notandinn getur breytt nafninu (sem einnig þjónar sem alt-texti), og valið að vista undirskriftina til endurtekinnar notkunar.
 pdfjs-editor-add-signature-dialog-title = Bæta við undirskrift
 
 ## Tab names
@@ -543,9 +544,29 @@ pdfjs-editor-add-signature-draw-thickness-range-label = Þykkt
 #   $thickness (Number) - the thickness (in pixels) of the line used to draw a signature.
 pdfjs-editor-add-signature-draw-thickness-range =
     .title = Sverleiki teikningar: { $thickness }
+pdfjs-editor-add-signature-image-placeholder = Dragðu skrá hingað til að senda inn
+pdfjs-editor-add-signature-image-browse-link =
+    { PLATFORM() ->
+        [macos] Eða skoðaðu myndskrár
+       *[other] Eða skoðaðu myndskrár
+    }
 
 ## Controls
 
+pdfjs-editor-add-signature-description-label = Lýsing (alt-hjálpartexti)
+pdfjs-editor-add-signature-description-input =
+    .title = Lýsing (alt-hjálpartexti)
+pdfjs-editor-add-signature-description-default-when-drawing = Undirskrift
+pdfjs-editor-add-signature-clear-button-label = Hreinsa undirskrift
+pdfjs-editor-add-signature-clear-button =
+    .title = Hreinsa undirskrift
+pdfjs-editor-add-signature-save-checkbox = Vista undirskrift
+pdfjs-editor-add-signature-save-warning-message = Þú hefur náð hámarki 5 vistaðra undirskrifta. Fjarlægðu eina til að geta vistað fleiri.
+pdfjs-editor-add-signature-image-upload-error-title = Ekki tókst að senda inn mynd
+pdfjs-editor-add-signature-image-upload-error-description = Athugaðu nettenginguna þína eða prófaðu aðra mynd.
+pdfjs-editor-add-signature-error-close-button = Loka
 
 ## Dialog buttons
 
+pdfjs-editor-add-signature-cancel-button = Hætta við
+pdfjs-editor-add-signature-add-button = Bæta við
