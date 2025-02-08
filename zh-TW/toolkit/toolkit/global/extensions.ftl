@@ -11,7 +11,7 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = 要安裝 { $extension } 嗎？
-webext-perms-header-with-perms = 要安裝 { $extension } 嗎？此擴充套件將有下列權限:
+webext-perms-header-with-perms = 要安裝 { $extension } 嗎？此擴充套件將有下列權限：
 webext-perms-header-unsigned = 要安裝 { $extension } 嗎？此擴充套件尚未經過驗證。惡意的擴充套件可偷走您的個人資訊，或讓您的電腦成為有害軟體散布的溫床。請只在信任此套件的來源時才安裝。
 webext-perms-header-unsigned-with-perms = 要安裝 { $extension } 嗎？此擴充套件尚未經過驗證。惡意的擴充套件可偷走您的個人資訊，或讓您的電腦成為有害軟體散布的溫床。請只在信任此元件的來源時才安裝。此擴充套件將有下列權限：
 webext-perms-sideload-header = 已安裝 { $extension }
@@ -33,9 +33,6 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = 取消
     .accesskey = C
-# Variables:
-#   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = { $extension } 已有更新。您必須允許新版套件所要求的權限，才會安裝。點擊「取消」可繼續使用目前版本的擴充套件。此擴充套件將有下列權限:
 webext-perms-update-accept =
     .label = 更新
     .accesskey = U
