@@ -521,15 +521,46 @@ pdfjs-editor-undo-bar-close-button-label = أغلق
 ## Add a signature dialog
 
 pdfjs-editor-add-signature-dialog-label = يتيح هذا النموذج للمستخدم إنشاء توقيع لإضافته إلى مستند PDF. ويمكن للمستخدم تحرير الاسم (الذي يعمل أيضًا كنص بديل)، وحفظ التوقيع بشكل اختياري للاستخدام المتكرر.
+pdfjs-editor-add-signature-dialog-title = أضِف توقيعا
 
 ## Tab names
 
+# Type is a verb (you can type your name as signature)
+pdfjs-editor-add-signature-type-button = اكتب
+    .title = اكتب
+# Draw is a verb (you can draw your signature)
+pdfjs-editor-add-signature-draw-button = ارسم
+    .title = ارسم
+pdfjs-editor-add-signature-image-button = صورة
+    .title = صورة
 
 ## Tab panels
 
+pdfjs-editor-add-signature-type-input =
+    .aria-label = اكتب توقيعك
+    .placeholder = اكتب توقيعك
+pdfjs-editor-add-signature-draw-placeholder = ارسم توقيعك
+pdfjs-editor-add-signature-draw-thickness-range-label = السماكة
+# Variables:
+#   $thickness (Number) - the thickness (in pixels) of the line used to draw a signature.
+pdfjs-editor-add-signature-draw-thickness-range =
+    .title = سمك الرسم: { $thickness }
+pdfjs-editor-add-signature-image-placeholder = اسحب الملف هنا لرفعه
+pdfjs-editor-add-signature-image-browse-link =
+    { PLATFORM() ->
+        [macos] أو اختر ملفات الصور
+       *[other] أو تصفح ملفات الصور
+    }
 
 ## Controls
 
+pdfjs-editor-add-signature-description-label = الوصف (نص بديل)
+pdfjs-editor-add-signature-description-input =
+    .title = الوصف (نص بديل)
+pdfjs-editor-add-signature-description-default-when-drawing = توقيع
+pdfjs-editor-add-signature-clear-button-label = امحُ التوقيع
+pdfjs-editor-add-signature-clear-button =
+    .title = امحُ التوقيع
 
 ## Dialog buttons
 
