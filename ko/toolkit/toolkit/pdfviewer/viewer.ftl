@@ -512,6 +512,9 @@ pdfjs-editor-add-signature-dialog-title = 서명 추가
 
 ## Tab names
 
+# Type is a verb (you can type your name as signature)
+pdfjs-editor-add-signature-type-button = 입력
+    .title = 입력
 # Draw is a verb (you can draw your signature)
 pdfjs-editor-add-signature-draw-button = 그리기
     .title = 그리기
@@ -525,9 +528,33 @@ pdfjs-editor-add-signature-type-input =
     .placeholder = 서명 입력
 pdfjs-editor-add-signature-draw-placeholder = 서명 그리기
 pdfjs-editor-add-signature-draw-thickness-range-label = 두께
+# Variables:
+#   $thickness (Number) - the thickness (in pixels) of the line used to draw a signature.
+pdfjs-editor-add-signature-draw-thickness-range =
+    .title = 그리기 두께: { $thickness }
+pdfjs-editor-add-signature-image-placeholder = 업로드할 파일을 여기로 끌어서 놓기
+pdfjs-editor-add-signature-image-browse-link =
+    { PLATFORM() ->
+        [macos] 또는 이미지 파일 찾아보기
+       *[other] 또는 이미지 파일 찾아보기
+    }
 
 ## Controls
 
+pdfjs-editor-add-signature-description-label = 설명 (대체 텍스트)
+pdfjs-editor-add-signature-description-input =
+    .title = 설명 (대체 텍스트)
+pdfjs-editor-add-signature-description-default-when-drawing = 서명
+pdfjs-editor-add-signature-clear-button-label = 서명 지우기
+pdfjs-editor-add-signature-clear-button =
+    .title = 서명 지우기
+pdfjs-editor-add-signature-save-checkbox = 서명 저장
+pdfjs-editor-add-signature-save-warning-message = 저장된 서명의 한계에 도달했습니다. 더 저장하려면 하나를 제거하세요.
+pdfjs-editor-add-signature-image-upload-error-title = 이미지를 업로드할 수 없음
+pdfjs-editor-add-signature-image-upload-error-description = 네트워크 연결을 확인하거나 다른 이미지로 시도하세요.
+pdfjs-editor-add-signature-error-close-button = 닫기
 
 ## Dialog buttons
 
+pdfjs-editor-add-signature-cancel-button = 취소
+pdfjs-editor-add-signature-add-button = 추가
