@@ -494,6 +494,7 @@ pdfjs-editor-undo-bar-message-highlight = 강조 표시 제거됨
 pdfjs-editor-undo-bar-message-freetext = 텍스트 제거됨
 pdfjs-editor-undo-bar-message-ink = 그리기 제거됨
 pdfjs-editor-undo-bar-message-stamp = 이미지 제거됨
+pdfjs-editor-undo-bar-message-signature = 서명 제거됨
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple = 주석 { $count }개 제거됨
@@ -506,12 +507,24 @@ pdfjs-editor-undo-bar-close-button-label = 닫기
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-label = 이 모달로 PDF 문서에 추가 할 서명을 만들 수 있습니다. 사용자는 이름(대체 텍스트 역할도 함)을 편집하고, 반복해 사용할 수 있도록 서명을 저장할 수도 있습니다.
+pdfjs-editor-add-signature-dialog-title = 서명 추가
 
 ## Tab names
 
+# Draw is a verb (you can draw your signature)
+pdfjs-editor-add-signature-draw-button = 그리기
+    .title = 그리기
+pdfjs-editor-add-signature-image-button = 이미지
+    .title = 이미지
 
 ## Tab panels
 
+pdfjs-editor-add-signature-type-input =
+    .aria-label = 서명 입력
+    .placeholder = 서명 입력
+pdfjs-editor-add-signature-draw-placeholder = 서명 그리기
+pdfjs-editor-add-signature-draw-thickness-range-label = 두께
 
 ## Controls
 
