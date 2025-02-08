@@ -64,6 +64,16 @@ split-dismiss-button-manage-settings-option-label = Gjestìs impostazions
 
 sidebar-button-callout-title = Mostre i titui des schedis te sbare laterâl
 sidebar-button-callout-subtitle = Dopre il boton de sbare laterâl par slargjâle e cussì di rivâ a viodi i titui des schedis.
+sidebar-button-callout-vertical-tabs = Par visualizâ lis schedis, selezione il boton te sbare laterâl te sbare dai struments.
 
 ## Sidebar Callout Survey Strings
 
+sidebar-callout-survey-title = Jude a miorâ { -brand-short-name }
+sidebar-callout-survey-satisfaction-question = Trop sêstu sodisfat/sodisfate de tô esperience cu la sbare laterâl di { -brand-short-name }?
+sidebar-callout-survey-privacy-notice-link = Informative su la riservatece
+sidebar-callout-survey-very-satisfied = Une vore sodisfat(e)
+sidebar-callout-survey-satisfied = Sodisfat(e)
+sidebar-callout-survey-neutral = Indiferent(e)
+sidebar-callout-survey-dissatisfied-2 = Insodisfat(e)
+sidebar-callout-survey-very-dissatisfied-2 = Une vore insodisfat(e)
+sidebar-callout-survey-dont-use-it = No dopri cheste funzion
