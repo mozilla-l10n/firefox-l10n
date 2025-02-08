@@ -58,6 +58,10 @@ sidebar-show-on-the-right =
     .label = Presunúť bočný panel doprava
 sidebar-show-on-the-left =
     .label = Presunúť bočný panel doľava
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Po umiestnení kurzora myši rozbaliť bočný panel
 sidebar-horizontal-tabs =
     .label = Karty v hornej časti
 sidebar-customize-tabs-header =

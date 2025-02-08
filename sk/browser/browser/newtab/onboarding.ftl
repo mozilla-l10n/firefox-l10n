@@ -445,7 +445,9 @@ onboarding-checklist-sign-up = Zaregistrujte sa alebo sa prihláste do svojho ú
 
 tab-groups-onboarding-feature-callout-title = Vyskúšajte skupiny kariet a získate menej neporiadku a viac pozornosti
 tab-groups-onboarding-feature-callout-subtitle = Urobte si poriadok presunutím jednej karty na druhú, čím vytvoríte svoju prvú skupinu.
+tab-groups-onboarding-create-group-title = Svoje otvorené skupiny nájdete na paneli kariet alebo ich vyhľadaním v paneli s adresou.
 tab-groups-onboarding-saved-groups-title = Ak zatvoríte skupinu kariet, môžete ju tu kedykoľvek znova otvoriť.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title = Svoje otvorené alebo zatvorené skupiny kariet môžete kedykoľvek nájsť vyhľadávaním v paneli s adresou.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages
@@ -459,4 +461,9 @@ multi-profile-callout-cta = Vytvoriť profil
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = Stiahnite, synchronizujte a vyrazte na cesty.
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Naskenujte QR kód a stiahnite si { -brand-product-name } pre mobilné zariadenia. Po nainštalovaní vyberte možnosť „Synchronizácia s mobilným telefónom“, aby ste mali prístup k svojim heslám, záložkám a ďalším informáciám na cestách.
 dismiss-button-label = Zavrieť
+sync-to-mobile-button-label = Synchronizácia s mobilným telefónom
