@@ -319,6 +319,8 @@ pdfjs-editor-remove-stamp-button =
     .title = 이미지 제거
 pdfjs-editor-remove-highlight-button =
     .title = 강조 표시 제거
+pdfjs-editor-remove-signature-button =
+    .title = 서명 제거
 
 ##
 
