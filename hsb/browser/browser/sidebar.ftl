@@ -58,6 +58,10 @@ sidebar-show-on-the-right =
     .label = Bóčnicu doprawa přesunyć
 sidebar-show-on-the-left =
     .label = Bóčnicu dolěwa přesunyć
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Bóčnicu pod kursorom pokazać
 sidebar-horizontal-tabs =
     .label = Horicontalne rajtarki
 sidebar-customize-tabs-header =
