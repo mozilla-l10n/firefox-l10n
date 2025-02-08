@@ -59,6 +59,8 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Demandar a  { $provider }
+genai-menu-remove-generic =
+    .label = Remover chatbot IA
 genai-input-ask-generic =
     .placeholder = Demandar a chatbot IA…
 # $provider (string) - name of the provider

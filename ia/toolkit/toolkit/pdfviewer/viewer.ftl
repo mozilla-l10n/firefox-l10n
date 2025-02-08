@@ -519,12 +519,19 @@ pdfjs-editor-undo-bar-close-button-label = Clauder
 
 ## Tab names
 
+# Type is a verb (you can type your name as signature)
+pdfjs-editor-add-signature-type-button = Typar
+    .title = Typar
 
 ## Tab panels
 
 
 ## Controls
 
+pdfjs-editor-add-signature-clear-button-label = Cancellar firma
+pdfjs-editor-add-signature-clear-button =
+    .title = Cancellar firma
+pdfjs-editor-add-signature-save-checkbox = Salvar firma
 
 ## Dialog buttons
 
