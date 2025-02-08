@@ -61,6 +61,9 @@ genai-menu-ask-provider =
     .label = { $provider } ਨੂੰ ਪੁੱਛੋ
 genai-menu-remove-generic =
     .label = AI ਚੈਟ-ਬੋਟ ਨੂੰ ਹਟਾਓ
+# $provider (string) - name of the provider
+genai-menu-remove-provider =
+    .label = { $provider } ਨੂੰ ਹਟਾਓ
 genai-input-ask-generic =
     .placeholder = …AI ਚੈਟ-ਬੋਟ ਨੂੰ ਪੁੱਛੋ
 # $provider (string) - name of the provider
