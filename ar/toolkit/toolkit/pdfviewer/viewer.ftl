@@ -511,6 +511,17 @@ pdfjs-editor-undo-bar-message-freetext = أُزيل النص
 pdfjs-editor-undo-bar-message-ink = أُزِيلت الرسمة
 pdfjs-editor-undo-bar-message-stamp = أُزيلت الصورة
 pdfjs-editor-undo-bar-message-signature = أُزيل التوقيع
+# Variables:
+#   $count (Number) - the number of removed annotations.
+pdfjs-editor-undo-bar-message-multiple =
+    { $count ->
+        [zero] أُزيل لا تعليق
+        [one] أُزيل تعليق
+        [two] أُزيل تعليقين
+        [few] أُزيلت { $count } تعليقات
+        [many] أُزيل { $count } تعليق
+       *[other] أُزيل { $count } تعليق
+    }
 pdfjs-editor-undo-bar-undo-button =
     .title = تراجع
 pdfjs-editor-undo-bar-undo-button-label = تراجع
