@@ -455,3 +455,4 @@ multi-profile-callout-cta = Δημιουργία προφίλ
 
 ## Desktop to Mobile Adoption feature callout strings
 
+dismiss-button-label = Απόρριψη

@@ -64,6 +64,7 @@ split-dismiss-button-manage-settings-option-label = Διαχείριση ρυθ�
 
 sidebar-button-callout-title = Εμφάνιση τίτλων καρτελών στην πλαϊνή γραμμή
 sidebar-button-callout-subtitle = Χρησιμοποιήστε το κουμπί της πλαϊνής γραμμής για να αναπτύξετε την πλαϊνή γραμμή, ώστε να βλέπετε τους τίτλους καρτελών.
+sidebar-button-callout-vertical-tabs = Για να εμφανιστούν οι καρτέλες σας, επιλέξτε το κουμπί της πλαϊνής γραμμής στη γραμμή εργαλείων.
 
 ## Sidebar Callout Survey Strings
 
