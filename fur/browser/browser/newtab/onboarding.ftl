@@ -361,6 +361,9 @@ onboarding-gratitude-security-and-privacy-title = { -brand-short-name } ti pare 
 onboarding-gratitude-security-and-privacy-subtitle = Graciis par vê sielt di doprâ { -brand-short-name }, il navigadôr supuartât de Mozilla Foundation. Cul to supuart, o lavorìn par rindi internet plui sigûr e acessibil par ducj.
 # Sign up or Sign in screen
 onboarding-sign-up-title = Sincronize i tiei dâts su ducj i dispositîfs
+onboarding-sign-up-description = Regjistre un account e dutis lis tôs informazions plui impuartantis — passwords, segnelibris e altri — a vignaran memorizâts in mût sigûr e a saran disponibii su cualsisei dispositîf tal moment che tu jentrarâs tal account cu lis credenziâls.
+onboarding-sign-up-button = Regjistriti o jentre
+onboarding-sign-up-secondary-button = Scomence a navigâ
 
 ## New user time and familiarity survey strings
 
@@ -387,6 +390,14 @@ onboarding-new-user-survey-familiarity-based-option-4 = Une volte lu dopravi, ma
 onboarding-new-tabs-title = Continus dulà che tu preferissis tignî lis tôs schedis
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Tu puedis cambiâ idee cuant che tu vûs tes impostazions de sbare laterâl.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Lis tôs schedis, te tô maniere
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Tegnistu simpri viertis tantis schedis? Prove a spostâlis in bande par vê une visuâl plui snele. Opûr manten la version classiche cu lis schedis adalt. Tu puedis cambiâ idee cuant che tu vûs.
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Sielç la disposizion des schedis
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Par vê une vision plui snele, che e pues judâti a restâ concentrât, prove a spostâ lis schedis in bande. Opûr manten la version classiche cu lis schedis adalt. Tu puedis cambiâ idee cuant che tu vûs.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Schedis in bande
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -423,6 +434,12 @@ onboarding-genai-sidebar-secondary-button = Scomence a navigâ
 
 ## New user onboarding checklist
 
+onboarding-checklist-title = Finìs la configurazion di { -brand-short-name }
+onboarding-checklist-subtitle = Finìs chescj passaçs par otignî il massime de tô esperience di navigazion.
+onboarding-checklist-set-default = Met { -brand-short-name } come navigadôr predefinît
+onboarding-checklist-pin = Fisse { -brand-short-name } te sbare des aplicazions
+onboarding-checklist-import = Impuarte dal navigadôr di prime
+onboarding-checklist-extension = Zonte une estension
 
 ## Tab Groups feature onboarding strings
 

@@ -8,6 +8,7 @@ crashreporter-crashed-and-restore = { -brand-short-name }(e)k arazo bat izan du 
 crashreporter-plea = Arazo hau aztertu eta konpontzen laguntzeko, hutsegitearen txostena bidal diezagukezu.
 crashreporter-information = Aplikazio hau hutsegite baten ondoren exekutatzen da { -vendor-short-name }(r)i arazoaren berri emateko. Ez litzateke zuzenean exekutatu behar.
 crashreporter-error = { -brand-short-name }(e)k arazo bat izan du eta huts egin du. Tamalez, hutsegiteen berriemailea ez da gai hutsegite honen txostena bidaltzeko.
+crashreporter-error-details-header = Xehetasunak:
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Xehetasunak: { $details }
 crashreporter-no-run-message = Aplikazio hau hutsegite baten ondoren exekutatzen da aplikazioaren egileari hutsegitearen berri emateko. Ez litzateke zuzenean exekutatu behar.

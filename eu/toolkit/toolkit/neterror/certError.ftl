@@ -134,6 +134,7 @@ contentEncodingError-title = Edukien kodeketa-errorea
 unsafeContentType-title = Fitxategi mota EZ-segurua
 netReset-title = Konexioa berrezarri egin da
 netTimeout-title = Konexioaren denbora-muga gainditu da
+httpErrorPage-title = Badirudi arazo bat dagoela gune honekin
 serverError-title = Badirudi arazo bat dagoela gune honekin
 unknownProtocolFound-title = Ez da helbidea ulertu
 proxyConnectFailure-title = Proxy-zerbitzaria konexioak ukatzen ari da
