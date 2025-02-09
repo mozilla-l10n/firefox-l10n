@@ -50,6 +50,18 @@ sidebar-position-right =
     .label = Mostrar a la derecha
 sidebar-vertical-tabs =
     .label = Pestañas verticales
+sidebar-settings =
+    .label = Ajustes de la barra lateral
+sidebar-hide-tabs-and-sidebar =
+    .label = Ocultar pestañas y barra lateral
+sidebar-show-on-the-right =
+    .label = Mover barra lateral a la derecha
+sidebar-show-on-the-left =
+    .label = Mover barra lateral a la izquierda
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Expandir la barra lateral al pasar el ratón
 sidebar-horizontal-tabs =
     .label = Pestañas horizontales
 sidebar-customize-tabs-header =

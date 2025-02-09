@@ -94,3 +94,6 @@ sidebar-genai-survey-satisfaction-question = ¿En qué medida está satisfecho c
 sidebar-genai-survey-productive-question =
     ¿En qué medida está de acuerdo o en desacuerdo con esta afirmación:<br/>
     “El chatbot de IA de la barra lateral de me ayuda a ser más productivo”?
+unified-search-callout-primary-label = Siguiente
+unified-search-callout-secondary-label = Descartar
+unified-search-engines-callout-primary-label = Entendido
