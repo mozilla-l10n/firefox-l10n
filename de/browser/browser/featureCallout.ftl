@@ -64,6 +64,7 @@ split-dismiss-button-manage-settings-option-label = Einstellungen verwalten
 
 sidebar-button-callout-title = Tab-Titel in der Sidebar anzeigen
 sidebar-button-callout-subtitle = Verwenden Sie die Sidebar-Schaltfläche, um die Sidebar einzuklappen, sodass Sie Tab-Titel sehen können.
+sidebar-button-callout-vertical-tabs = Um Ihre Tabs anzuzeigen, klicken Sie auf die Sidebar-Schaltfläche in der Symbolleiste.
 
 ## Sidebar Callout Survey Strings
 
@@ -94,3 +95,7 @@ sidebar-genai-survey-satisfaction-question = Wie zufrieden bist du damit, Zugrif
 sidebar-genai-survey-productive-question =
     Inwieweit stimmen Sie dieser Aussage zu oder nicht:<br/>
     „Der KI-Chatbot in der Sidebar hilft mir, produktiver zu sein“?
+unified-search-callout-title = Zwischen Suchmaschinen wechseln
+unified-search-callout-subtitle = Wählen Sie aus, was für Ihre spezifische Suche am besten funktioniert.
+unified-search-callout-primary-label = Weiter
+unified-search-callout-secondary-label = Verwerfen
