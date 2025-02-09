@@ -102,6 +102,7 @@ unified-search-callout-secondary-label = Descartar
 unified-search-engines-callout-title = Pesquisar com um atalho
 unified-search-engines-callout-subtitle = Digite “@” seguido de um termo de busca para pesquisar no histórico, favoritos, abas ou com outro mecanismo de pesquisa.
 unified-search-engines-callout-primary-label = Entendi
+actions-callout-title = Conclua tarefas comuns ou acesse as configurações básicas
 # The user can type "print" and "clear" and a button will appear in the
 # search bar (e.g. Print page) the user can click to initiate the action.
 # These example text inputs correlate to the the following strings
