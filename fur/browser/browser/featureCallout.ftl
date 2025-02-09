@@ -91,3 +91,13 @@ sidebar-callout-survey-saved-websites-2 = Acès rapit ai tiei segnelibris
 sidebar-callout-survey-none-of-above = Nissune di chestis
 sidebar-callout-survey-submit = Invie
 sidebar-callout-survey-thank-you = Graciis par vênus condividût la tô opinion!
+sidebar-genai-survey-satisfaction-question = Trop sêstu sodisfat(e) dal acès a un chatbot basât su la inteligjence artificiâl te sbare laterâl?
+sidebar-genai-survey-productive-question =
+    In ce misure sêstu dacuardi o in disacuardi cun cheste afermazion:<br/>
+    “Il chatbot IA te sbare laterâl mi jude a jessi plui produtîf”?
+unified-search-callout-title = Passe di un motôr di ricercje a chel altri
+unified-search-callout-subtitle = Sielç chel che al funzione miôr pe tô specifiche ricercje.
+unified-search-callout-primary-label = Sucessîf
+unified-search-callout-secondary-label = Siere
+unified-search-engines-callout-title = Cîr cuntune scurte
+unified-search-engines-callout-subtitle = Scrîf “@” cun daûr une peraule clâf par cirî te cronologjie, tai segnelibris, tes schedis o cuntun altri motôr di ricercje.
