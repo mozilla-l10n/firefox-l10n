@@ -3,11 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profile-window-heading = Escolha um perfil do { -brand-short-name }
-profile-window-body = Mantenha totalmente separada sua navegação profissional da pessoal, inclusive senhas e favoritos. Ou crie um perfil para cada pessoa que usa este dispositivo.
+profile-window-body = Mantenha totalmente separada sua navegação profissional da pessoal, inclusive senhas e favoritos. Também pode criar um perfil para cada pessoa que usa este dispositivo.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Escolher um perfil ao abrir o { -brand-short-name }
-profile-window-create-profile = Criar um perfil
+profile-window-create-profile = Criar perfil
 profile-card-edit-button =
     .title = Editar perfil
     .aria-label = Editar perfil
@@ -36,7 +36,7 @@ edit-profile-page-no-name = Dê um nome a este perfil para ajudar a encontrar ma
 edit-profile-page-duplicate-name = Nome de perfil já em uso. Escolha outro nome.
 edit-profile-page-profile-saved = Salvo
 new-profile-page-title = Novo perfil
-new-profile-page-header = Personalize seu novo perfil
+new-profile-page-header = Personalize o novo perfil
 new-profile-page-header-description = Cada perfil mantém seu próprio histórico de navegação e configurações, separado dos outros perfis. Além disso, as poderosas proteções de privacidade do { -brand-short-name } são ativadas por padrão.
 new-profile-page-learn-more = Saiba mais
 new-profile-page-input-placeholder =
