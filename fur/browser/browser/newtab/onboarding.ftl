@@ -455,6 +455,11 @@ tab-groups-onboarding-dismiss = Va ben
 multi-profile-spotlight-title = Salude i profîi di { -brand-product-name }
 multi-profile-spotlight-body = Passe cun facilitât de navigazion par vore a chê par divertiment. I profîi a tegnin separadis lis tôs informazions relativis ae navigazion, includudis la cronologjie des ricercjis e lis passwords, cussì di judâti a mantignî organizade la tô vite in rêt.
 multi-profile-spotlight-cta = Cree un profîl
+multi-profile-callout-title = Cree profîi diviers pal lavôr e pal divertiment
+multi-profile-callout-subtitle = I profîi ti permetin di mantignî separadis dal dut lis informazions di navigazion, come la cronologjie des ricercjis e lis passwords.
+multi-profile-callout-cta = Cree un profîl
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = Discjame, sincronize e va!
