@@ -122,6 +122,11 @@ tabbrowser-confirm-close-tabs-with-key-checkbox = Cunfirma prima de essire cun {
 ## and browser.warnOnQuitShortcut is true.
 
 tabbrowser-confirm-close-warn-shortcut-title = Boles essire de { -brand-short-name } o serrare s’ischeda atuale?
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] Essi de { -brand-short-name }
+       *[other] Essi de { -brand-short-name }
+    }
 tabbrowser-confirm-close-tab-only-button = Serra s’ischeda atuale
 
 ## Confirmation dialog when opening multiple tabs simultaneously
@@ -240,6 +245,10 @@ tab-group-editor-color-selector2-gray = Chinisu
     .title = Chinisu
 tab-group-editor-color-selector2-red = Ruju
     .title = Ruju
+# Variables:
+#  $tabGroupName (String): The name of the tab group. Defaults to the value
+#                          of tab-group-name-default.
+tab-group-description = { $tabGroupName } — Grupu de ischedas
 tab-group-menu-header = Grupos de ischedas
 tab-context-unnamed-group =
     .label = Grupu chene nòmine

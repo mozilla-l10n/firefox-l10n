@@ -30,6 +30,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Torra a abèrrere is ischedas serradas
         }
     .accesskey = o
+toolbar-context-turn-on-vertical-tabs =
+    .label = Ativa is ischedas verticales
+toolbar-context-turn-off-vertical-tabs =
+    .label = Disativa is ischedas verticales
+toolbar-context-customize-sidebar =
+    .label = Personaliza sa barra laterale
 toolbar-context-menu-manage-extension =
     .label = Gesti s'estensione
     .accesskey = G
