@@ -445,7 +445,9 @@ onboarding-checklist-sign-up = Registrarse o iniciar sesión en su cuenta
 
 tab-groups-onboarding-feature-callout-title = Pruebe los grupos de pestañas para tener menos desorden y mayor concentración
 tab-groups-onboarding-feature-callout-subtitle = Organícese arrastrando una pestaña encima de otra para crear su primer grupo.
+tab-groups-onboarding-create-group-title = Encuentre grupos abiertos en la barra de pestañas o buscándolos en la barra de direcciones.
 tab-groups-onboarding-saved-groups-title = Si cierra un grupo de pestañas, se puede volver a abrir aquí en cualquier momento.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title = Encuentre los grupos de pestañas abiertos o cerrados en cualquier momento buscando en la barra de direcciones.
 tab-groups-onboarding-dismiss = Aceptar
 
 ## Multi Profiles feature onboarding messages
@@ -459,3 +461,9 @@ multi-profile-callout-cta = Crear un perfil
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = ¡Descargar, sincronizar y listo!
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Escanee el código QR para descargar { -brand-product-name } para dispositivos móviles. Una vez instalado, seleccione “Sincronizar con móvil” para acceder a las contraseñas, marcadores y más sobre la marcha.
+dismiss-button-label = Descartar
+sync-to-mobile-button-label = Sincronización con el móvil

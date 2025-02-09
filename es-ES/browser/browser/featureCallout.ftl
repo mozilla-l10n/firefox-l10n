@@ -64,6 +64,7 @@ split-dismiss-button-manage-settings-option-label = Administrar ajustes
 
 sidebar-button-callout-title = Mostrar títulos de pestañas en la barra lateral
 sidebar-button-callout-subtitle = Utilice el botón de la barra lateral para expandir la barra lateral, de modo que pueda ver los títulos de las pestañas.
+sidebar-button-callout-vertical-tabs = Para mostrar sus pestañas, seleccione el botón de la barra lateral en la barra de herramientas.
 
 ## Sidebar Callout Survey Strings
 
@@ -94,6 +95,19 @@ sidebar-genai-survey-satisfaction-question = ¿En qué medida está satisfecho c
 sidebar-genai-survey-productive-question =
     ¿En qué medida está de acuerdo o en desacuerdo con esta afirmación:<br/>
     “El chatbot de IA de la barra lateral de me ayuda a ser más productivo”?
+unified-search-callout-title = Cambiar entre buscadores
+unified-search-callout-subtitle = Elija lo que funcione mejor para una búsqueda específica.
 unified-search-callout-primary-label = Siguiente
 unified-search-callout-secondary-label = Descartar
+unified-search-engines-callout-title = Búsqueda con un atajo
+unified-search-engines-callout-subtitle = Escriba “@” seguido de una palabra clave para buscar en su historial, marcadores, pestañas o con otro buscador.
 unified-search-engines-callout-primary-label = Entendido
+actions-callout-title = Completar tareas comunes o acceder a la configuración básica
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearhistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = Pruebe a escribir una acción como “imprimir” para imprimir una página o “borrar” para borrar el historial.
