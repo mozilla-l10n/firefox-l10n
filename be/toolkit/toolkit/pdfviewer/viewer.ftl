@@ -528,6 +528,9 @@ pdfjs-editor-undo-bar-close-button-label = Закрыць
 
 ## Controls
 
+pdfjs-editor-add-signature-error-close-button = Закрыць
 
 ## Dialog buttons
 
+pdfjs-editor-add-signature-cancel-button = Скасаваць
+pdfjs-editor-add-signature-add-button = Дадаць

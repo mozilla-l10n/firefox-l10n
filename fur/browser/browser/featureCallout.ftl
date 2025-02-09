@@ -77,3 +77,17 @@ sidebar-callout-survey-neutral = Indiferent(e)
 sidebar-callout-survey-dissatisfied-2 = Insodisfat(e)
 sidebar-callout-survey-very-dissatisfied-2 = Une vore insodisfat(e)
 sidebar-callout-survey-dont-use-it = No dopri cheste funzion
+sidebar-callout-survey-productive-question =
+    In ce misure sêstu dacuardi o in disacuardi cun cheste afermazion:<br/>
+    “La sbare laterâl di { -brand-short-name } mi jude a jessi plui produtîf”?
+sidebar-callout-survey-strongly-agree = O concuardi ad in plen
+sidebar-callout-survey-agree = O concuardi
+sidebar-callout-survey-disagree = No concuardi
+sidebar-callout-survey-strongly-disagree = No concuardi par nuie
+sidebar-callout-survey-features-question = Chestis a son potenziâls funzionalitâts de sbare laterâl. Cualis di chestis mioraressino la tô produtivitât in { -brand-short-name }?
+sidebar-callout-survey-split-view = Viodi in contemporanie doi sîts web, un in bande di chel altri intune viodude dividude.
+sidebar-callout-survey-keep-website-open = Tignî un sît web, come par esempli la e-mail o il calendari, viert te sbare laterâl intant che tu navighis
+sidebar-callout-survey-saved-websites-2 = Acès rapit ai tiei segnelibris
+sidebar-callout-survey-none-of-above = Nissune di chestis
+sidebar-callout-survey-submit = Invie
+sidebar-callout-survey-thank-you = Graciis par vênus condividût la tô opinion!

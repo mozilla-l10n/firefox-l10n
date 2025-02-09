@@ -94,3 +94,5 @@ sidebar-genai-survey-satisfaction-question = Наколькі вы задаво�
 sidebar-genai-survey-productive-question =
     У якой ступені вы згодныя ці не згодныя з гэтым сцверджаннем:<br/>
     “Чат-бот ШІ на бакавой панэлі дапамагае мне быць больш прадуктыўным”?
+unified-search-callout-primary-label = Далей
+unified-search-callout-secondary-label = Адхіліць

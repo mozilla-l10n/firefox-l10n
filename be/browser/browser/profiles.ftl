@@ -95,3 +95,15 @@ profiles-system-theme = Сістэмная
 
 ## Alternative text for default profile icons
 
+book-avatar-alt =
+    .alt = Кніга
+briefcase-avatar-alt =
+    .alt = Партфель
+flower-avatar-alt =
+    .alt = Кветка
+heart-avatar-alt =
+    .alt = Сэрца
+shopping-avatar-alt =
+    .alt = Кошык
+star-avatar-alt =
+    .alt = Зорка

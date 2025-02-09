@@ -59,6 +59,9 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Спытаць { $provider }
+# $provider (string) - name of the provider
+genai-menu-remove-provider =
+    .label = Выдаліць { $provider }
 genai-input-ask-generic =
     .placeholder = Спытаць чат-бота ШІ…
 # $provider (string) - name of the provider
