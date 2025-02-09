@@ -399,7 +399,7 @@ onboarding-existing-tabs-title = Vertikale faner er her
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title2 = Introduserer vertikale faner
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
-onboarding-existing-vertical-tabs-label = Prøv verikale faner
+onboarding-existing-vertical-tabs-label = Prøv vertikale faner
 onboarding-flair-text = Nytt!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Behald horisontale faner

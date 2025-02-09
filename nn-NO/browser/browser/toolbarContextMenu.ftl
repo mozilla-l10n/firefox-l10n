@@ -30,9 +30,9 @@ toolbar-context-menu-reopen-closed-tabs =
         }
     .accesskey = a
 toolbar-context-turn-on-vertical-tabs =
-    .label = Slå på verikale faner
+    .label = Slå på vertikale faner
 toolbar-context-turn-off-vertical-tabs =
-    .label = Slå av verikale faner
+    .label = Slå av vertikale faner
 toolbar-context-customize-sidebar =
     .label = Tilpass sidestolpe
 toolbar-context-menu-manage-extension =
