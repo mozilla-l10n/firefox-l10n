@@ -359,6 +359,8 @@ onboarding-mobile-download-security-and-privacy-subtitle = Une volte completade 
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } ti pare simpri
 onboarding-gratitude-security-and-privacy-subtitle = Graciis par vê sielt di doprâ { -brand-short-name }, il navigadôr supuartât de Mozilla Foundation. Cul to supuart, o lavorìn par rindi internet plui sigûr e acessibil par ducj.
+# Sign up or Sign in screen
+onboarding-sign-up-title = Sincronize i tiei dâts su ducj i dispositîfs
 
 ## New user time and familiarity survey strings
 

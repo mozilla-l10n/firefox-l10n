@@ -8,6 +8,8 @@
 newtab-page-title = Gnove schede
 newtab-settings-button =
     .title = Personalize la pagjine de tô gnove schede
+newtab-settings-dialog-label =
+    .aria-label = Impostazions
 newtab-personalize-icon-label =
     .title = Personalize gnove schede
     .aria-label = Personalize gnove schede
@@ -112,6 +114,12 @@ newtab-menu-delete-pocket = Elimine di { -pocket-brand-name }
 newtab-menu-archive-pocket = Archivie in { -pocket-brand-name }
 newtab-menu-show-privacy-info = I nestris patrocinadôrs e la tô riservatece
 newtab-menu-about-fakespot = Informazions su { -fakespot-brand-name }
+# Context menu option to personalize New Tab recommended stories by blocking a section of stories,
+# e.g. "Sports". "Block" is a verb here.
+newtab-menu-section-block = Bloche
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
+newtab-menu-section-unfollow = Smet di sta daûr al argoment
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -450,14 +458,31 @@ newtab-topic-selection-button-pick-interests = Sielç i tiei interès
 ## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 ## e.g. Following the travel section of stories.
 
+newtab-section-follow-button = Sta daûr
+newtab-section-following-button = Tu stâs daûr
+newtab-section-unfollow-button = Smet di sta daûr
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
 ## e.g. Blocked the politics section of stories.
 
+newtab-section-block-button = Bloche
+newtab-section-blocked-button = Blocât
+newtab-section-unblock-button = Sbloche
 
 ## Confirmation modal for blocking a section
 
+newtab-section-confirm-block-section-p1 = Blocâ pardabon cheste sezion?
+newtab-section-confirm-block-section-p2 = La sezion blocade no vignarà plui fûr tai tiei feed.
+newtab-section-block-section-button = Bloche cheste sezion
+newtab-section-cancel-button = No cumò
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+newtab-section-mangage-topics-title = Argoments
+newtab-section-mangage-topics-button =
+    .label = Argoments che tu stâs daûr e blocâts
+newtab-section-mangage-topics-followed-topics-subtitle = Argoments che tu stâs daûr
+newtab-section-mangage-topics-followed-topics-empty-state = No tu sês ancjemò daûr a nissun argoment.
+newtab-section-mangage-topics-blocked-topics-subtitle = Argoments blocâts
+newtab-section-mangage-topics-blocked-topics-empty-state = No tu âs ancjemò blocât nissun argoment.

@@ -103,3 +103,11 @@ unified-search-engines-callout-title = Cîr cuntune scurte
 unified-search-engines-callout-subtitle = Scrîf “@” cun daûr une peraule clâf par cirî te cronologjie, tai segnelibris, tes schedis o cuntun altri motôr di ricercje.
 unified-search-engines-callout-primary-label = Capît
 actions-callout-title = Completâ lis ativitâts plui comunis o acedi aes impostazions di base
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearhistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = Prove a scrivi une azion come “stampe” par stampâ une pagjine o “nete” par netâ la cronologjie.

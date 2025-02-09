@@ -24,6 +24,12 @@ firefox-relay-opt-in-title-1 = Protêç lis tôs direzions e-mail:
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Dopre une mascare di pueste eletroniche { -relay-brand-name }
 firefox-relay-use-mask-title = Dopre une mascare di pueste eletroniche { -relay-brand-name }
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
+firefox-relay-opt-in-title-a = Evite il spam cuntune mascare di pueste eletroniche gratuite
+# This is preceded by firefox-relay-opt-in-title-a (on a different line)
+firefox-relay-opt-in-subtitle-a = Plate la tô vere direzion e-mail
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
+firefox-relay-opt-in-title-b = Oten une mascare di pueste eletroniche gratuite
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Dopre mascare di pueste eletroniche
     .accesskey = D
