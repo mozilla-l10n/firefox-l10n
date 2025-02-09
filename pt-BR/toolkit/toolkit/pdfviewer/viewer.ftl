@@ -519,6 +519,7 @@ pdfjs-editor-undo-bar-close-button-label = Fechar
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-label = Esta janela permite ao usuário criar uma assinatura para adicionar a um documento PDF. O usuário pode editar o nome (que também serve como texto alternativo) e, opcionalmente, salvar a assinatura usar novamente.
 pdfjs-editor-add-signature-dialog-title = Adicionar uma assinatura
 
 ## Tab names
