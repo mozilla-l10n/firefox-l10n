@@ -440,12 +440,21 @@ onboarding-checklist-set-default = Met { -brand-short-name } come navigadôr pre
 onboarding-checklist-pin = Fisse { -brand-short-name } te sbare des aplicazions
 onboarding-checklist-import = Impuarte dal navigadôr di prime
 onboarding-checklist-extension = Zonte une estension
+onboarding-checklist-sign-up = Regjistriti o jentre tal to account
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-feature-callout-title = Prove i grups di schedis par vê mancul disordin e aumentâ la concentrazion
+tab-groups-onboarding-feature-callout-subtitle = Organiziti strissinant une schede sore di chê altre par creâ il to prin grup.
+tab-groups-onboarding-create-group-title = Cjate i grups che a son vierts in chest moment te sbare des schedis opûr ciriju te sbare de direzion.
+tab-groups-onboarding-saved-groups-title = Se tu sieris un grup di schedis, tu puedis tornâ a vierzilu achì, in ogni moment.
+tab-groups-onboarding-dismiss = Va ben
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-title = Salude i profîi di { -brand-product-name }
+multi-profile-spotlight-body = Passe cun facilitât de navigazion par vore a chê par divertiment. I profîi a tegnin separadis lis tôs informazions relativis ae navigazion, includudis la cronologjie des ricercjis e lis passwords, cussì di judâti a mantignî organizade la tô vite in rêt.
+multi-profile-spotlight-cta = Cree un profîl
 
 ## Desktop to Mobile Adoption feature callout strings
 
