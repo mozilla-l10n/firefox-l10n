@@ -6,7 +6,7 @@
 ## Main toolbar buttons (tooltips and alt text for images)
 
 pdfjs-previous-button =
-    .title = Pagjine precedente
+    .title = Pagjine di prime
 pdfjs-previous-button-label = Indaûr
 pdfjs-next-button =
     .title = Prossime pagjine
