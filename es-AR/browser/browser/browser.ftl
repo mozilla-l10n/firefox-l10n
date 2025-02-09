@@ -778,7 +778,7 @@ reader-view-close-button =
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
 picture-in-picture-urlbar-button-open =
-    .tooltiptext = Cerrar Picture-in-Picture ({ $shortcut })
+    .tooltiptext = Abrir Picture-in-Picture ({ $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Cerrar Picture-in-Picture ({ $shortcut })
 picture-in-picture-panel-header = Picture-in-Picture
