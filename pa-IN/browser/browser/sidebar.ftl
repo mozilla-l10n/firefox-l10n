@@ -50,6 +50,18 @@ sidebar-position-right =
     .label = ਸੱਜੇ ਪਾਸੇ ਵੇਖਾਓ
 sidebar-vertical-tabs =
     .label = ਖੜ੍ਹਵੀਆਂ ਟੈਬਾਂ
+sidebar-settings =
+    .label = ਬਾਹੀ ਦੀਆਂ ਸੈਟਿੰਗਾਂ
+sidebar-hide-tabs-and-sidebar =
+    .label = ਟੈਬਾਂ ਅਤੇ ਬਾਹੀ ਨੂੰ ਲੁਕਾਓ
+sidebar-show-on-the-right =
+    .label = ਬਾਹੀ ਨੂੰ ਸੱਜੇ ਭੇਜੋ
+sidebar-show-on-the-left =
+    .label = ਬਾਹੀ ਨੂੰ ਖੱਬੇ ਭੇਜੋ
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = ਮਾਊਸ ਕੋਲ ਲੈ ਜਾਣ ਉੱਤੇ ਬਾਹੀ ਨੂੰ ਫੈਲਾਓ
 sidebar-horizontal-tabs =
     .label = ਲੇਟਵੀਆਂ ਟੈਬਾਂ
 sidebar-customize-tabs-header =
@@ -130,6 +142,10 @@ sidebar-menu-close-ai-chatbot-tooltip = AI ਚੈਟ-ਬੋਟ ਨੂੰ ਬੰ�
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
+sidebar-menu-open-ai-chatbot-tooltip-generic = AI ਚੈਟਬੋਟ ਨੂੰ ਖੋਲ੍ਹੋ ({ $shortcut })
+sidebar-menu-open-ai-chatbot-provider-tooltip = { $provider } ਨੂੰ ਖੋਲ੍ਹੋ ({ $shortcut })
+sidebar-menu-close-ai-chatbot-tooltip-generic = AI ਚੈਟਬੋਟ ਨੂੰ ਬੰਦ ਕਰੋ ({ $shortcut })
+sidebar-menu-close-ai-chatbot-provider-tooltip = { $provider } ਨੂੰ ਬੰਦ ਕਰੋ ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 

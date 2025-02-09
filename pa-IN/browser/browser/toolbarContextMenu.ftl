@@ -29,6 +29,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] ਬੰਦ ਕੀਤੀਆਂ ਟੈਬਾਂ ਮੁੜ-ਖੋਲ੍ਹੋ
         }
     .accesskey = o
+toolbar-context-turn-on-vertical-tabs =
+    .label = ਖੜ੍ਹਵੀਆਂ ਟੈਬਾਂ ਨੂੰ ਚਾਲੂ ਕਰੋ
+toolbar-context-turn-off-vertical-tabs =
+    .label = ਖੜ੍ਹਵੀਆਂ ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਕਰੋ
+toolbar-context-customize-sidebar =
+    .label = ਬਾਹੀ ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰੋ
 toolbar-context-menu-manage-extension =
     .label = ਇਕਸਟੈਨਸ਼ਨਾਂ ਦਾ ਬੰਦੋਬਸਤ
     .accesskey = E

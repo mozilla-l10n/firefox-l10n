@@ -200,6 +200,18 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = ਟੈਬ ਤੋਂ ਸੁਣੋ
 tabbrowser-manager-close-tab =
     .tooltiptext = ਟੈਬ ਨੂੰ ਬੰਦ ਕਰੋ
+# This is for tab groups that have been "saved and closed" (see tab-group-editor-action-save). It does
+# not include "deleted" tab groups (see tab-group-editor-action-delete).
+tabbrowser-manager-closed-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — ਬੰਦ ਕੀਤਾ
+tabbrowser-manager-current-window-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — ਮੌਜੂਦਾ ਵਿੰਡੋ
+# "Show more" is for showing all open groups from other windows, as well as saved groups. Initially,
+# we only show up to six of these groups.
+tabbrowser-manager-tab-groups-show-more =
+    .label = ਹੋਰ ਵੇਖਾਓ
 
 ## Tab Groups
 
@@ -231,6 +243,10 @@ tab-group-editor-color-selector2-gray = ਸਲੇਟੀ
     .title = ਸਲੇਟੀ
 tab-group-editor-color-selector2-red = ਲਾਲ
     .title = ਲਾਲ
+# Variables:
+#  $tabGroupName (String): The name of the tab group. Defaults to the value
+#                          of tab-group-name-default.
+tab-group-description = { $tabGroupName } — ਟੈਬ ਗਰੁੱਪ
 tab-group-menu-header = ਟੈਬ ਗਰੁੱਪ
 tab-context-unnamed-group =
     .label = ਬੇਨਾਮਾ ਗਰੁੱਪ

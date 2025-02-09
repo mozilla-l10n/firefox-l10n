@@ -44,6 +44,8 @@ new-profile-page-input-placeholder =
 new-profile-page-done-button =
     .label = ਸੋਧ ਕਰਨੀ ਪੂਰੀ ਹੋਈ
 profile-window-title-2 = { -brand-short-name } - ਇੱਕ ਪਰੋਫ਼ਾਈਲ ਚੁਣੋ
+profile-window-logo =
+    .alt = { -brand-short-name } ਲੋਗੋ
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
@@ -95,3 +97,15 @@ profiles-system-theme = ਸਿਸਟਮ
 
 ## Alternative text for default profile icons
 
+book-avatar-alt =
+    .alt = ਕਿਤਾਬ
+briefcase-avatar-alt =
+    .alt = ਅਟੈਚੀ
+flower-avatar-alt =
+    .alt = ਫੁੱਲ
+heart-avatar-alt =
+    .alt = ਦਿਲ
+shopping-avatar-alt =
+    .alt = ਖਰੀਦਦਾਰੀ ਕਾਰਟ
+star-avatar-alt =
+    .alt = ਤਾਰਾ

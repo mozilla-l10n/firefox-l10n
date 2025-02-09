@@ -101,3 +101,5 @@ unified-search-callout-primary-label = Sucessîf
 unified-search-callout-secondary-label = Siere
 unified-search-engines-callout-title = Cîr cuntune scurte
 unified-search-engines-callout-subtitle = Scrîf “@” cun daûr une peraule clâf par cirî te cronologjie, tai segnelibris, tes schedis o cuntun altri motôr di ricercje.
+unified-search-engines-callout-primary-label = Capît
+actions-callout-title = Completâ lis ativitâts plui comunis o acedi aes impostazions di base

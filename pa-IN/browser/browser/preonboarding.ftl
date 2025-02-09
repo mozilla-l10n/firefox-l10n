@@ -16,6 +16,12 @@ preonboarding-terms-of-use-header-button-title = ਸਾਡੀਆਂ ਵਰਤਣ
 preonboarding-privacy-notice-header-button-title = ਸਾਡੀ ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ ਨੂੰ ਪੜ੍ਹੋ
 # Label for header style button that toggles showing the data preference checklist
 preonboarding-manage-data-header-button-title = ਜਾਂਚ ਪੜਤਾਲ ਅਤੇ ਤਾਲਮੇਲ ਡਾਟੇ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+# Label for header style button that toggles showing the Terms of Use (Variant B)
+preonboarding-terms-of-use-header-button-title-b = { -brand-product-name } ਵਰਤਣ ਦੀਆਂ ਸ਼ਰਤਾਂ
+# Label for header style button that toggles showing the Privacy Notice (Variant B)
+preonboarding-privacy-notice-header-button-title-b = { -brand-product-name } ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ
+# Description under label for header style buttons
+preonboarding-header-button-description = ਹੋਰ ਪੜ੍ਹੋ
 # New user onboarding checklist
 preonboarding-checklist-interaction-data-label = { -vendor-short-name } ਤਕਨੀਕੀ ਅਤੇ ਤਾਲਮੇਲ ਡਾਟਾ ਭੇਜੋ
 preonboarding-checklist-interaction-data-description = ਤੁਹਾਡੇ ਡਿਵਾਈਸ, ਹਾਰਡਵੇਅਰ ਸੰਰਚਨਾ ਅਤੇ { -brand-product-name } ਨੂੰ ਤੁਸੀਂ ਕਿਵੇਂ ਵਰਤਦੇ ਹੋ ਦੇ ਬਾਰੇ ਡਾਟਾ ਹਰ ਥਾਂ ਦੇ ਵਰਤੋਂਕਾਰਾਂ ਲਈ ਫ਼ੀਚਰਾਂ, ਕਾਰਗੁਜ਼ਾਰੀ ਅਤੇ ਸਥਿਰਤਾਂ ਵਿੱਚ ਸੁਧਾਰ ਕਰਨ ਲਈ ਮਦਦ ਕਰਦਾ ਹੈ।
