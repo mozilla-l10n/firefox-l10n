@@ -59,6 +59,9 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = ถาม { $provider }
+# $provider (string) - name of the provider
+genai-menu-remove-provider =
+    .label = ลบ { $provider }
 genai-input-ask-generic =
     .placeholder = ถามบอตสนทนา AI…
 # $provider (string) - name of the provider
