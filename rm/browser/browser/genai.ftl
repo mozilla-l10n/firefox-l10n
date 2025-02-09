@@ -59,6 +59,11 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Dumandar { $provider }
+genai-menu-remove-generic =
+    .label = Allontanar il chatbot IA
+# $provider (string) - name of the provider
+genai-menu-remove-provider =
+    .label = Allontanar { $provider }
 genai-input-ask-generic =
     .placeholder = Dumandar il cahtbot IA…
 # $provider (string) - name of the provider

@@ -446,7 +446,9 @@ onboarding-checklist-sign-up = Crear in conto u s’annunziar en tes conto
 
 tab-groups-onboarding-feature-callout-title = Emprova las gruppas da tabs per dapli urden e concentraziun
 tab-groups-onboarding-feature-callout-subtitle = Optimescha l’organisaziun cun trair in tab sin in auter per crear tia emprima gruppa.
+tab-groups-onboarding-create-group-title = Chatta tias gruppas avertas en la trav da tabs u las tschertga en la trav d’adressas.
 tab-groups-onboarding-saved-groups-title = Sche ti serras ina gruppa da tabs, pos ti la reavrir qua da tut temp.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title = Chatta tias gruppas da tabs avertas u serradas da tut temp cun las tschertgar en la trav d’adressas.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages
@@ -460,3 +462,9 @@ multi-profile-callout-cta = Crear in profil
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = Telechargiar, sincronisar e dai!
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Scannescha il code QR per telechargiar { -brand-product-name } per apparats mobils. Suenter l’installaziun, tscherna «Sincronisaziun cun apparats mobils» per acceder a tes pleds-clav, segnapaginas e dapli – tuttina nua che ti ta chattas.
+dismiss-button-label = Serrar
+sync-to-mobile-button-label = Sincronisaziun cun apparats mobils

@@ -58,6 +58,10 @@ sidebar-show-on-the-right =
     .label = Spustar la trav laterala a dretga
 sidebar-show-on-the-left =
     .label = Spustar la trav laterala a sanestra
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Extender la trav laterala cun passar cun la mieur
 sidebar-horizontal-tabs =
     .label = Tabs orizontals
 sidebar-customize-tabs-header =
