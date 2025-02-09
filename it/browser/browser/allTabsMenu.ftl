@@ -18,3 +18,4 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = Chiudi tutte le schede duplicate
 all-tabs-menu-synced-tabs =
     .label = Schede da altri dispositivi
+all-tabs-menu-current-window-header = Finestra corrente
