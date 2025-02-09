@@ -519,6 +519,11 @@ pdfjs-editor-undo-bar-close-button-label = Itxi
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-label =
+    Leiho modal honek PDF dokumentu batera gehitzeko sinadurak
+    sortzea ahalbidetzen dio erabiltzaileari. Erabiltzaileak izena edita
+    dezake (testu alternatibo modura ere erabiltzen dena) eta sinadura
+    gordetzeko aukera du gehiagotan erabili ahal izateko.
 pdfjs-editor-add-signature-dialog-title = Gehitu sinadura
 
 ## Tab names

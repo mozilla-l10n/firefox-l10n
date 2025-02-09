@@ -100,6 +100,11 @@ neterror-proxy-connect-failure-settings = Egiaztatu proxy-aren konexioaren ezarp
 neterror-proxy-connect-failure-contact-admin = Jarri harremanetan sarearen kudeatzailearekin proxy-zerbitzaria martxan dagoela ziurtatzeko.
 neterror-content-encoding-error = Jarri harremanetan webgunearen jabeekin arazo honen berri emateko.
 neterror-unsafe-content-type = Jarri harremanetan webgunearen jabeekin arazo honen berri emateko.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-basic-http-auth =
+    { -brand-short-name } ez da { $hostname } ostalariaz fidatzen
+    konexioa ez delako segurua. Saiatu URLa HTTPSra aldatzen.
 neterror-nss-failure-not-verified = Ikusten saiatzen ari zaren orria ezin da erakutsi jasotako datuen egiazkotasuna ezin delako egiaztatu.
 neterror-nss-failure-contact-website = Mesedez jarri harremanetan webgunearen jabeekin arazoaren berri emateko.
 # Variables:
@@ -153,6 +158,9 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Ez bazaizu <b>{ $mitm }</b>
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> guneak HTTP Strict Transport Security (HSTS) izeneko segurtasun-politika dauka eta { -brand-short-name } modu seguruan konekta daiteke soilik. Ezin duzu gunea bisitatzeko salbuespenik gehitu.
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = Ziurrenik ezer ez, litekeena baita gunearekin berarekin arazo bat dagoela.
+certerror-blocked-by-corp-headers-description = Batzuetan beraientzat eta zu bezalako jendearentzat babesak ezartzen dituzte webguneek, beste guneekin nahi ez diren interakzioetatik kanpo mantentzeko.
+certerror-coop-learn-more = Cross Origin Opener Policies (COOP) politikari buruzko argibide gehiago
+certerror-coep-learn-more = Cross Origin Embedder Policies (COEP) politikari buruzko argibide gehiago
 # Variables:
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").

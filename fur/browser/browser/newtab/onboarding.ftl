@@ -172,7 +172,7 @@ mr2022-onboarding-easy-setup-primary-button-label = Salve e continue
 # Set Default action checkbox label used on new user onboarding first screen
 mr2022-onboarding-easy-setup-set-default-checkbox-label = Met { -brand-short-name } come navigadôr predefinît
 # Import action checkbox label used on new user onboarding first screen
-mr2022-onboarding-easy-setup-import-checkbox-label = Impuarte dal navigadôr precedent
+mr2022-onboarding-easy-setup-import-checkbox-label = Impuarte dal navigadôr di prime
 
 ## MR2022 New User Pin Firefox screen strings
 
@@ -232,7 +232,7 @@ mr2022-onboarding-get-started-primary-button-label = Configure in pôcs seconts
 
 mr2022-onboarding-import-header = Configurazion super-svelte
 mr2022-onboarding-import-subtitle = Configure { -brand-short-name } come che ti plâs. Zonte segnelibris, passwords e altri dal to vecjo navigadôr.
-mr2022-onboarding-import-primary-button-label-no-attribution = Impuarte dal navigadôr precedent
+mr2022-onboarding-import-primary-button-label-no-attribution = Impuarte dal navigadôr di prime
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
