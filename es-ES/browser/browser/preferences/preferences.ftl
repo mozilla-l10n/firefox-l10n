@@ -234,6 +234,7 @@ browser-layout-vertical-tabs =
 browser-layout-vertical-tabs-desc = Mostrar en un lado, en la barra lateral
 browser-layout-show-sidebar =
     .label = Mostrar barra lateral
+browser-layout-show-sidebar-desc = Acceda rápidamente a marcadores, pestañas de su teléfono, chatbots de IA y más sin salir de la vista principal.
 
 ## General Section - Language & Appearance
 
@@ -1316,6 +1317,8 @@ permissions-addon-exceptions =
 collection-header = Recopilación y uso de datos de { -brand-short-name }
 collection-header2 = Recopilación y uso de datos de { -brand-short-name }
     .searchkeywords = telemetría
+preferences-collection-description = Nos esforzamos por ofrecerle opciones y recopilar solo los datos mínimos necesarios para mejorar { -brand-product-name } para todos.
+preferences-collection-privacy-notice = Ver el aviso de privacidad
 collection-description = Nos esforzamos en proporcionarle opciones y recopilamos solo lo que necesitamos para proporcionarle y mejorar { -brand-short-name } para todos. Siempre pedimos permiso antes de recibir información personal.
 collection-privacy-notice = Aviso sobre privacidad
 collection-health-report-telemetry-disabled = Ya no permite que { -vendor-short-name } capture datos técnicos y de interacción. Todos los datos anteriores se eliminarán en 30 días.
@@ -1415,6 +1418,8 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } se está quedando
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Modo solo-HTTPS
+httpsonly-description3 = Solo permite conexiones seguras a sitios web. { -brand-short-name } preguntará antes de conectarse de forma insegura.
+httpsonly-learn-more2 = Cómo funciona el modo solo-HTTPS
 httpsonly-description = HTTPS proporciona una conexión segura y cifrada entre { -brand-short-name } y los sitios web que visita. La mayoría de los sitios web admiten HTTPS, y si el modo solo-HTTPS está habilitado, entonces { -brand-short-name } actualizará todas las conexiones a HTTPS.
 httpsonly-description2 = { -brand-short-name } crea conexiones seguras y cifradas a los sitios visitados. { -brand-short-name } avisará si una conexión no es segura cuando solo HTTPS está activado.
 httpsonly-learn-more = Más información
@@ -1424,6 +1429,9 @@ httpsonly-radio-enabled2 =
     .label = Utilizar solo HTTPS en todas las ventanas
 httpsonly-radio-enabled-pbm =
     .label = Activar el modo solo-HTTPS solamente en ventanas privadas
+httpsonly-radio-disabled3 =
+    .label = No activar el modo solo-HTTPS
+    .description = { -brand-short-name } todavía podría actualizar algunas conexiones
 httpsonly-radio-enabled-pbm2 =
     .label = Utilizar solo HTTPS en ventanas privadas
 httpsonly-radio-disabled =
