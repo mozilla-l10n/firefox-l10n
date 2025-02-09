@@ -46,8 +46,20 @@ sync-setup-verify-description = Un'àteru utente s’est giai identificadu in cu
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
+# Dialog 1 - different account signing in without option to merge
+sync-profile-different-account-title = Màssimu de contos barigadu pro custu profilu
+sync-profile-different-account-header = Custu profilu est istadu sincronizadu in passadu cun un’àteru contu
+# Dialog 1 - different account signing in with merge option
+sync-profile-different-account-title-merge = Profilu sincronizadu cun un’àteru contu
 # Dialog 2 - account signed in on another profile without option to merge
 sync-account-in-use-header = Contu giai impreadu
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $otherProfile (String) - Name of the other profile that is associated with the account
+sync-account-in-use-header-merge = S’indiritzu { $acctEmail } est giai identificadu a su profilu “{ $otherProfile }”
+sync-account-in-use-description = Non podes assotziare custu contu a prus de unu profilu de custu elaboradore.
+# Dialog 2 - account signed in on another profile with merge option
+sync-account-already-signed-in-header = Custu contu est giai identificadu in un’àteru profilu. Boles sincronizare ambos profilos?
 # Variables:
 #   $profileName (String) - Name of the profile to switch to
 sync-button-switch-profile = Passa a “{ $profileName }”

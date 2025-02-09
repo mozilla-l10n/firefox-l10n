@@ -865,6 +865,13 @@ sync-engine-settings =
     .label = Cunfiguratzione
     .tooltiptext = Cunfiguratzione generale, de riservadesa e de seguresa chi apas modificadu
     .accesskey = n
+sync-choose-what-to-sync-dialog4 =
+    .title = Sèbera elementos de sincronizare
+    .style = min-width: 36em;
+    .buttonlabelaccept = Sarva
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Disconnete…
+    .buttonaccesskeyextra2 = D
 
 ## The device name controls.
 
@@ -1317,6 +1324,10 @@ collection-description = Chircamus de ti garantire sèberos e de regòllere isce
 collection-privacy-notice = Avisu de riservadesa
 collection-health-report-telemetry-disabled = Non permitas prus a { -vendor-short-name } de caturare datos tècnicos e de interatzione. Totu is datos betzos ant a èssere cantzellados intro de 30 dies.
 collection-health-report-telemetry-disabled-link = Àteras informatziones
+collection-usage-ping =
+    .label = Imbia unu ping de impreu diàriu a { -vendor-short-name }
+    .accesskey = I
+collection-usage-ping-description = Custu permitit a { -vendor-short-name } de istimare su nùmeru de utentes ativos.
 collection-health-report2 =
     .label = Imbia datos tècnicos e de interatzione a { -vendor-short-name }
     .accesskey = r
@@ -1325,6 +1336,8 @@ collection-health-report =
     .accesskey = r
 collection-health-report-link = Àteras informatziones
 collection-health-report-description = Custu nos agiudat a megiorare is funtziones, su rendimentu e s’istabilidade de { -brand-product-name }.
+collection-studies2 =
+    .label = Installa e faghe istùdios
 collection-studies-description = Proa funtziones e ideas in antis chi siant publicadas pro totus.
 collection-studies =
     .label = Permite a { -brand-short-name } de installare e aviare istùdios

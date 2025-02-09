@@ -78,6 +78,9 @@ tabbrowser-unmute-tab-audio-aria-label =
     .aria-label = Ativa s’àudio de s’ischeda
 tabbrowser-mute-tab-audio-aria-label =
     .aria-label = Pone s’ischeda a sa muda
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = Reprodue s’ischeda
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -87,6 +90,7 @@ tabbrowser-mute-tab-audio-aria-label =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title = Boles serrare { $tabCount } ischedas?
 tabbrowser-confirm-close-tabs-button = Serra is ischedas
+tabbrowser-ask-close-tabs-checkbox = Pregunta in antis de serrare prus ischedas
 tabbrowser-confirm-close-tabs-checkbox = Cunfirma prima de serrare prus ischedas
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
@@ -109,11 +113,15 @@ tabbrowser-confirm-close-tabs-with-key-title = Boles serrare sa ventana e essire
 tabbrowser-confirm-close-tabs-with-key-button = Essi de { -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = Pregunta in antis de essire cun { $quitKey }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Cunfirma prima de essire cun { $quitKey }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
 
+tabbrowser-confirm-close-warn-shortcut-title = Boles essire de { -brand-short-name } o serrare s’ischeda atuale?
 tabbrowser-confirm-close-tab-only-button = Serra s’ischeda atuale
 
 ## Confirmation dialog when opening multiple tabs simultaneously

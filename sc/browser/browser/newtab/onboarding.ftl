@@ -423,6 +423,8 @@ onboarding-genai-sidebar-secondary-button = Cumintza a navigare
 
 ## New user onboarding checklist
 
+onboarding-checklist-set-default = Cunfigura { -brand-short-name } comente navigadore predefinidu
+onboarding-checklist-pin = Apica { -brand-short-name } a sa barra de is tareas
 onboarding-checklist-import = Importa dae unu navigadore anteriore
 onboarding-checklist-extension = Agiunghe un’estensione
 onboarding-checklist-sign-up = Registra·ti o identìfica·ti cun su profilu tuo
@@ -443,3 +445,7 @@ multi-profile-callout-cta = Crea unu profilu
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = Iscàrriga, sincroniza e bae!
+dismiss-button-label = Iscarta
+sync-to-mobile-button-label = Sincroniza cun dispositivos mòbiles
