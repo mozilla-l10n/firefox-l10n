@@ -459,3 +459,9 @@ multi-profile-callout-cta = Profil létrehozása
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = Töltse le, szinkronizáljon és hajrá!
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Olvassa le a QR-kódot a mobilos { -brand-product-name } letöltéséhez. A telepítés után válassza a „Szinkronizálás mobilra” lehetőséget, hogy útközben is elérje jelszavait, könyvjelzőit és egyebeit.
+dismiss-button-label = Eltüntetés
+sync-to-mobile-button-label = Szinkronizálás mobilra

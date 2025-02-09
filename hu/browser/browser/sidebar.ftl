@@ -58,6 +58,10 @@ sidebar-show-on-the-right =
     .label = Oldalsáv áthelyezése jobbra
 sidebar-show-on-the-left =
     .label = Oldalsáv áthelyezése balra
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Oldalsáv kibontása rámutatáskor
 sidebar-horizontal-tabs =
     .label = Vízszintes lapok
 sidebar-customize-tabs-header =

@@ -59,6 +59,11 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = A(z) { $provider } megkérdezése
+genai-menu-remove-generic =
+    .label = MI csevegőbot eltávolítása
+# $provider (string) - name of the provider
+genai-menu-remove-provider =
+    .label = A(z) { $provider } eltávolítása
 genai-input-ask-generic =
     .placeholder = Az MI csevegőbot megkérdezése…
 # $provider (string) - name of the provider
