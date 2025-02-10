@@ -557,3 +557,4 @@ pdfjs-editor-add-signature-error-close-button = 关闭
 ## Dialog buttons
 
 pdfjs-editor-add-signature-cancel-button = 取消
+pdfjs-editor-add-signature-add-button = 添加
