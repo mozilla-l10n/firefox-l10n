@@ -258,6 +258,12 @@ header-back-button =
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    الامتدادات والسمات هي كالتطبيقات لمتصفحك، وهي ستدعك:
+    تحمي كلمات السر، تُنزل مقاطع الفيديو، تجد العروض، تحجب الإعلانات المزعجة، تغيّر كيف يبدو متصفحك، وغيرها الكثير.
+    هذه البرمجيات الصغيرة غالبا ما تطور من قِبل جهة ثالثة. ها هي مختارات <a data-l10n-name="learn-more-trigger">انتقاها</a> { -brand-product-name } لأمن وأداء وتوظيف استثنائي.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = بعض هذه المُقترحات مخصّصة لك، إذ تعتمد على الامتدادات التي ثبّتها وتفضيلات الملف الشخصي وإحصاءات الاستخدام.
 # Notice to make user aware that the recommendations are personalized.
@@ -284,6 +290,11 @@ find-more-themes = ابحث عن المزيد من السمات
 # used for screen readers.
 addon-options-button =
     .aria-label = خيارات أكثر
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro2 =
+    تتيح لك الامتدادت والسمات تخصيص { -brand-product-name }. ويمكنها تعزيز الخصوصية، وتعزيز الإنتاجية، وتحسين الوسائط، وتغيير مظهر { -brand-product-name }، وغير ذلك الكثير. غالبًا ما يتم تطوير هذه البرامج الصغيرة بواسطة طرف ثالث. إليك مجموعة مختارة من { -brand-product-name } <a data-l10n-name="learn-more-trigger">توصي</a>
+    بأمان استثنائي وأداء ووظائف.
 
 ## Add-on actions
 
