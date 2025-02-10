@@ -58,6 +58,10 @@ sidebar-show-on-the-right =
     .label = 移动侧栏到右侧
 sidebar-show-on-the-left =
     .label = 移动侧栏到左侧
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = 悬停时展开侧栏
 sidebar-horizontal-tabs =
     .label = 水平标签页
 sidebar-customize-tabs-header =

@@ -259,3 +259,13 @@ appmenuitem-vpn-description = ປົກປ້ອງການເຄື່ອນ�
 
 ## Profiles panel
 
+appmenu-profiles = ໂປ​ຣ​ໄຟ​ລ໌
+appmenu-other-profiles = ໂປຣໄຟລ໌ອື່ນໆ
+appmenu-manage-profiles =
+    .label = ຈັດການໂປຣໄຟລ໌
+appmenu-create-profile =
+    .label = ໂປຣໄຟລ໌ໃໝ່
+appmenu-edit-profile =
+    .aria-label = ແກ້ໄຂໂປຣໄຟລ໌
+appmenu-profiles-2 =
+    .label = ໂປ​ຣ​ໄຟ​ລ໌
