@@ -464,5 +464,7 @@ multi-profile-callout-cta = Эҷод кардани профил
 
 # If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
 desktop-to-mobile-headline = Боргирӣ кунед, ҳамоҳанг созед ва ба пеш равед!
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Барои боргирӣ кардани «{ -brand-product-name }» рамзи «QR»-ро тасвирбардорӣ кунед. Пас аз насб кардани барнома, имкони «Ҳамоҳангсозӣ бо дастгоҳи мобилӣ»-ро интихоб кунед, то тавонед ба ниҳонвожаҳо, хатбаракҳо ва чизҳои дигар новобаста аз ҷойгиршавии худ дастрасӣ пайдо намоед.
 dismiss-button-label = Нодида гузарондан
 sync-to-mobile-button-label = Ҳамоҳангсозӣ бо дастгоҳи мобилӣ
