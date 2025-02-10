@@ -468,9 +468,19 @@ newtab-section-unfollow-button = Ndahapykuehovéima
 ## e.g. Blocked the politics section of stories.
 
 newtab-section-block-button = Joko
+newtab-section-blocked-button = Jokopyre
+newtab-section-unblock-button = Mbojera
 
 ## Confirmation modal for blocking a section
 
+newtab-section-block-section-button = Ejoko ko tenda’i
+newtab-section-cancel-button = Ani ko’ág̃a
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+newtab-section-mangage-topics-title = Téma
+newtab-section-mangage-topics-button =
+    .label = Téma jehapykueho ha jokopyre
+newtab-section-mangage-topics-followed-topics-subtitle = Téma jehapykuehopyre
+newtab-section-mangage-topics-followed-topics-empty-state = Ndohapykuehói gueteri téma.
+newtab-section-mangage-topics-blocked-topics-subtitle = Téma jokopyre
