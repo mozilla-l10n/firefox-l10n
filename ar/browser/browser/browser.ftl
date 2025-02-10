@@ -1065,6 +1065,9 @@ private-browsing-indicator-tooltip =
 content-analysis-indicator-tooltip =
     .tooltiptext = منع فقدان البيانات (DLP) بواسطة { $agentName }. انقر للحصول على مزيد من المعلومات.
 content-analysis-panel-title = حماية البيانات
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = تستخدم مؤسستك   <b>{ $agentName }</b> لحماية من فقدان البيانات. <a data-l10n-name="info"> اطّلع على المزيد</a>
 
 ## Unified extensions (toolbar) button
 
@@ -1184,6 +1187,14 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+file-picker-failed-open = لم يتمكن من فتح مربع حوار الملفات في ويندوز. لم يتمكن من تحديد أي ملف أو مجلد.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = لم يتمكن من فتح مربع حوار ملف ويندوز. سيتم حفظ الملف في { $path }.
+file-picker-failed-save-nowhere = لم يتمكن من فتح مربع حوار ملف ويندوز. لم يتم العثور على المجلد الافتراضي؛ ولن يتم حفظ الملف.
+file-picker-crashed-open = تعطل مربع حوار ملف ويندوز. لم يتم تحديد أي ملف أو مجلد.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = تعطل مربع حوار ملف ويندوز. سيتم حفظ الملف في { $path }.
+file-picker-crashed-save-nowhere = تعطل مربع حوار ملف ويندوز. لم يتم العثور على المجلد المبدئي؛ ولن يُحفظ الملف.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.

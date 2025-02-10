@@ -19,6 +19,8 @@ confirmation-hint-credit-card-updated = حُدِّثت البطاقة
 confirmation-hint-pin-tab = ثبّتناه!
 confirmation-hint-pin-tab-description = انقر باليمين على اللسان لإفلاته.
 confirmation-hint-send-to-device = نجح الإرسال.
+confirmation-hint-firefox-relay-mask-created = أُنشئ قناع جديد!
+confirmation-hint-firefox-relay-mask-reused = قناع موجود مستخدم من قبل!
 confirmation-hint-screenshot-copied = نُسخت لقطة الشاشة!
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
