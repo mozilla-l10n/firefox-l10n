@@ -458,3 +458,5 @@ multi-profile-callout-cta = Profil oluştur
 
 ## Desktop to Mobile Adoption feature callout strings
 
+dismiss-button-label = Kapat
+sync-to-mobile-button-label = Mobil cihazla eşitleyin

@@ -59,6 +59,11 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = { $provider } sohbet botuna sor
+genai-menu-remove-generic =
+    .label = YZ sohbet botunu kaldır
+# $provider (string) - name of the provider
+genai-menu-remove-provider =
+    .label = { $provider } botunu kaldır
 genai-input-ask-generic =
     .placeholder = Yapay zekâ sohbet botuna sor…
 # $provider (string) - name of the provider

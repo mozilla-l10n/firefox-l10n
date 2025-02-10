@@ -58,6 +58,10 @@ sidebar-show-on-the-right =
     .label = Kenar çubuğunu sağa taşı
 sidebar-show-on-the-left =
     .label = Kenar çubuğunu sola taşı
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Üzerine gelince kenar çubuğunu genişlet
 sidebar-horizontal-tabs =
     .label = Yatay sekmeler
 sidebar-customize-tabs-header =

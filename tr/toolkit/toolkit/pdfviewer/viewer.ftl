@@ -327,6 +327,8 @@ pdfjs-editor-remove-stamp-button =
     .title = Resmi kaldır
 pdfjs-editor-remove-highlight-button =
     .title = Vurgulamayı kaldır
+pdfjs-editor-remove-signature-button =
+    .title = İmzayı kaldır
 
 ##
 
@@ -500,6 +502,7 @@ pdfjs-editor-undo-bar-message-highlight = Vurgulama silindi
 pdfjs-editor-undo-bar-message-freetext = Metin silindi
 pdfjs-editor-undo-bar-message-ink = Çizim silindi
 pdfjs-editor-undo-bar-message-stamp = Görsel silindi
+pdfjs-editor-undo-bar-message-signature = İmza kaldırıldı
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple =
@@ -516,15 +519,39 @@ pdfjs-editor-undo-bar-close-button-label = Kapat
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-title = İmza ekle
 
 ## Tab names
 
 
 ## Tab panels
 
+pdfjs-editor-add-signature-type-input =
+    .aria-label = İmzanızı yazın
+    .placeholder = İmzanızı yazın
+pdfjs-editor-add-signature-draw-placeholder = İmzanızı çizin
+pdfjs-editor-add-signature-draw-thickness-range-label = Kalınlık
+# Variables:
+#   $thickness (Number) - the thickness (in pixels) of the line used to draw a signature.
+pdfjs-editor-add-signature-draw-thickness-range =
+    .title = Çizgi kalınlığı: { $thickness }
+pdfjs-editor-add-signature-image-placeholder = Yüklenecek dosyayı buraya sürükleyin
+pdfjs-editor-add-signature-image-browse-link =
+    { PLATFORM() ->
+        [macos] Veya resim dosyalarına göz atın
+       *[other] Veya resim dosyalarına göz atın
+    }
 
 ## Controls
 
+pdfjs-editor-add-signature-description-default-when-drawing = İmza
+pdfjs-editor-add-signature-clear-button-label = İmzayı temizle
+pdfjs-editor-add-signature-clear-button =
+    .title = İmzayı temizle
+pdfjs-editor-add-signature-save-checkbox = İmzayı kaydet
+pdfjs-editor-add-signature-error-close-button = Kapat
 
 ## Dialog buttons
 
+pdfjs-editor-add-signature-cancel-button = Vazgeç
+pdfjs-editor-add-signature-add-button = Ekle
