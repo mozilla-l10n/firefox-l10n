@@ -71,6 +71,7 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = زامِن علاماتك في كل مكان.
 cfr-doorhanger-bookmark-fxa-body = أحسنت باكتشاف هذا! حريّ بك أن تحفظ هذه العلامة على أجهزتك المحمولة، وإلا فما الداعي من الاكتشاف؟ ابدأ الآن وافتح { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-body-2 = أحسنت باكتشاف هذا! حريّ بك أن تحفظ هذه العلامة على أجهزتك المحمولة. ابدأ الآن بحساب.
 cfr-doorhanger-bookmark-fxa-link-text = زامِن العلامات الآن…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = زر الإغلاق
@@ -254,6 +255,7 @@ device-migration-fxa-spotlight-older-device-primary-button = أنشئ حسابً
 device-migration-fxa-spotlight-getting-new-device-header-2 = جهاز جديد في مستقبلك؟
 device-migration-fxa-spotlight-getting-new-device-body-2 = اتبع بعض الخطوات البسيطة لجلب العلامات والتأريخ وكلمات السر معك عند البدء على جهاز جديد.
 device-migration-fxa-spotlight-getting-new-device-primary-button = كيفية عمل نسخة احتياطية من بياناتي
+device-migration-fxa-spotlight-sync-header = تصفح دون أن تفوت أي لحظة
 device-migration-fxa-spotlight-sync-primary-button = ابدأ
 
 ## Set as Default PDF Reader Infobar
@@ -308,6 +310,7 @@ fxa-menu-message-close-button =
 fxa-menu-message-sign-up-button = سجّل حسابًا
 fxa-menu-message-sync-devices-primary-text = زامِن كل أجهزتك
 fxa-menu-message-sync-devices-collapsed-text = زامِن كل أجهزتك
+fxa-menu-message-backup-data-collapsed-text = انسخ بيانات المتصفح احتياطيًا
 fxa-menu-message-mobile-collapsed-text = زامِن مع هاتفك
 
 ## Multi-CTA Fox Doodle Spotlight

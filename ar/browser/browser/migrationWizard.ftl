@@ -178,4 +178,5 @@ migration-wizard-progress-extensions-addons-link = تصفح الامتدادات
 ##
 
 migration-wizard-progress-success-formdata = تأريخ الاستمارات
+migration-wizard-safari-permissions-sub-header = لاستيراد علامات Safari وتأريخ التصفح:
 migration-wizard-safari-instructions-continue = اختر "واصِل"
