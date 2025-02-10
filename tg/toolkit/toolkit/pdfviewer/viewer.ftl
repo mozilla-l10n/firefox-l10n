@@ -560,6 +560,7 @@ pdfjs-editor-add-signature-clear-button-label = Пок кардани имзо
 pdfjs-editor-add-signature-clear-button =
     .title = Пок кардани имзо
 pdfjs-editor-add-signature-save-checkbox = Нигоҳ доштани имзо
+pdfjs-editor-add-signature-save-warning-message = Шумо ба ҳадди 5 имзои нигоҳдошташуда расидед. Барои нигоҳ доштани имзои нав, яке аз имзоҳои нигоҳдошташударо тоза намоед.
 pdfjs-editor-add-signature-image-upload-error-title = Тасвир бор карда нашуд
 pdfjs-editor-add-signature-image-upload-error-description = Пайвастшавии шабакаи худро санҷед ё тасвири дигареро кӯшиш кунед.
 pdfjs-editor-add-signature-error-close-button = Пӯшидан
