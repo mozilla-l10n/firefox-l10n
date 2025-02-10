@@ -11,3 +11,13 @@ preonboarding-primary-cta = Emonei ha eku’ejey
 preonboarding-terms-of-use-header-button-title = Emoñe’ẽ ore jeporurã rape
 # Label for header style button that toggles showing the Privacy Notice
 preonboarding-privacy-notice-header-button-title = Emoñe’ẽ ore marandu’i ñemigua
+# Label for header style button that toggles showing the data preference checklist
+preonboarding-manage-data-header-button-title = Eñangareko mba’ekuaarã jekuaarã ha ñomongeta
+# Label for header style button that toggles showing the Terms of Use (Variant B)
+preonboarding-terms-of-use-header-button-title-b = { -brand-product-name } Jeporurã rape
+# Label for header style button that toggles showing the Privacy Notice (Variant B)
+preonboarding-privacy-notice-header-button-title-b = { -brand-product-name } Marandu’i ñemigua
+# Description under label for header style buttons
+preonboarding-header-button-description = Emoñe’ẽve
+preonboarding-checklist-crash-reports-label = Emondo marandu jejavy rehegua
+preonboarding-checklist-crash-reports-description = Marandu’i jejavygua rupi roikuaa ha romyatyrõ apañuái kundahára ndive. Umi marandu’ípe oĩkuaa mba’ekuaarã nemba’ete ha ñemiguáva.

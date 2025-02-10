@@ -42,6 +42,8 @@ new-profile-page-input-placeholder =
 new-profile-page-done-button =
     .label = Emohu’ã mbasako’i
 profile-window-title-2 = { -brand-short-name } - Eiporavo mba’ete
+profile-window-logo =
+    .alt = { -brand-short-name } ra’ãnga’i
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
@@ -93,3 +95,15 @@ profiles-system-theme = Apopyvusu
 
 ## Alternative text for default profile icons
 
+book-avatar-alt =
+    .alt = Aranduka
+briefcase-avatar-alt =
+    .alt = Kuatiaryru
+flower-avatar-alt =
+    .alt = Yvoty
+heart-avatar-alt =
+    .alt = Korasõ
+shopping-avatar-alt =
+    .alt = Mba’yruguata’i jejoguaha
+star-avatar-alt =
+    .alt = Mbyja
