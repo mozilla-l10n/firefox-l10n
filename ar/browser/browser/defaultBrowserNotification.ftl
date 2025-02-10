@@ -34,5 +34,9 @@ default-browser-guidance-notification-body-instruction-win10 =
     الخطوة 1: انتقل إلى الإعدادات > التطبيقات الافتراضية
     الخطوة 2: انتقل لأسفل إلى "مستعرض الويب"
     الخطوة 3: حدد واختر { -brand-short-name }
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win11 =
+    الخطوة 1: انتقل إلى الإعدادات > التطبيقات الافتراضية
+    الخطوة 2: حدد "تعيين الافتراضي" لـ { -brand-short-name }
 default-browser-guidance-notification-info-page = اعرض
 default-browser-guidance-notification-dismiss = تمّ
