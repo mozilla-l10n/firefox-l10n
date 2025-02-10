@@ -195,6 +195,10 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Tendayke ñe’ẽpu moĩporã
 tabbrowser-manager-close-tab =
     .tooltiptext = Emboty tendayke
+# "Show more" is for showing all open groups from other windows, as well as saved groups. Initially,
+# we only show up to six of these groups.
+tabbrowser-manager-tab-groups-show-more =
+    .label = Ehechaukave
 
 ## Tab Groups
 
@@ -206,8 +210,24 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Heja
     .accesskey = C
+tab-group-editor-color-selector =
+    .aria-label = Tendayke aty sa’y
+tab-group-editor-color-selector2-blue = Hovy
+    .title = Hovy
+tab-group-editor-color-selector2-purple = Pytãũ
+    .title = Pytãũ
+tab-group-editor-color-selector2-cyan = Hovyũ
+    .title = Hovyũ
+tab-group-editor-color-selector2-orange = Narã
+    .title = Narã
+tab-group-editor-color-selector2-yellow = Sa’yju
+    .title = Sa’yju
+tab-group-editor-color-selector2-pink = Pytãngy
+    .title = Pytãngy
+tab-group-menu-header = Tendayke aty
 tab-context-unnamed-group =
     .label = Aty hera’ỹva
+tab-group-name-default = Aty hera’ỹva
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
