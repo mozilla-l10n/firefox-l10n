@@ -58,6 +58,10 @@ sidebar-show-on-the-right =
     .label = Premakni stransko vrstico na desno
 sidebar-show-on-the-left =
     .label = Premakni stransko vrstico na levo
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Razširi stransko vrstico ob preletu z miško
 sidebar-horizontal-tabs =
     .label = Vodoravni zavihki
 sidebar-customize-tabs-header =

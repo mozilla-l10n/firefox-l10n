@@ -331,6 +331,8 @@ pdfjs-editor-remove-stamp-button =
     .title = Odstrani sliko
 pdfjs-editor-remove-highlight-button =
     .title = Odstrani označbo
+pdfjs-editor-remove-signature-button =
+    .title = Odstrani podpis
 
 ##
 
@@ -504,6 +506,7 @@ pdfjs-editor-undo-bar-message-highlight = Označba odstranjena
 pdfjs-editor-undo-bar-message-freetext = Besedilo odstranjeno
 pdfjs-editor-undo-bar-message-ink = Risba odstranjena
 pdfjs-editor-undo-bar-message-stamp = Slika odstranjena
+pdfjs-editor-undo-bar-message-signature = Podpis odstranjen
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple =
@@ -522,15 +525,54 @@ pdfjs-editor-undo-bar-close-button-label = Zapri
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-label = Ta način omogoča uporabniku ustvariti podpis, ki ga želi dodati dokumentu PDF. Uporabnik lahko uredi ime (ki se uporablja tudi kot nadomestno besedilo) in podpis po želji shrani za ponovno uporabo.
+pdfjs-editor-add-signature-dialog-title = Dodaj podpis
 
 ## Tab names
 
+# Type is a verb (you can type your name as signature)
+pdfjs-editor-add-signature-type-button = Natipkaj
+    .title = Natipkaj
+# Draw is a verb (you can draw your signature)
+pdfjs-editor-add-signature-draw-button = Nariši
+    .title = Nariši
+pdfjs-editor-add-signature-image-button = Slika
+    .title = Slika
 
 ## Tab panels
 
+pdfjs-editor-add-signature-type-input =
+    .aria-label = Natipkajte svoj podpis
+    .placeholder = Natipkajte svoj podpis
+pdfjs-editor-add-signature-draw-placeholder = Narišite svoj podpis
+pdfjs-editor-add-signature-draw-thickness-range-label = Debelina
+# Variables:
+#   $thickness (Number) - the thickness (in pixels) of the line used to draw a signature.
+pdfjs-editor-add-signature-draw-thickness-range =
+    .title = Debelina peresa: { $thickness }
+pdfjs-editor-add-signature-image-placeholder = Povlecite datoteko sem za nalaganje
+pdfjs-editor-add-signature-image-browse-link =
+    { PLATFORM() ->
+        [macos] Ali prebrskajte slikovne datoteke
+       *[other] Ali prebrskajte slikovne datoteke
+    }
 
 ## Controls
 
+pdfjs-editor-add-signature-description-label = Opis (nadomestno besedilo)
+pdfjs-editor-add-signature-description-input =
+    .title = Opis (nadomestno besedilo)
+pdfjs-editor-add-signature-description-default-when-drawing = Podpis
+pdfjs-editor-add-signature-clear-button-label = Pobriši podpis
+pdfjs-editor-add-signature-clear-button =
+    .title = Pobriši podpis
+pdfjs-editor-add-signature-save-checkbox = Shrani podpis
+pdfjs-editor-add-signature-save-warning-message = Dosegli ste omejitev 5 shranjenih podpisov. Če želite shraniti novega, enega odstranite.
+pdfjs-editor-add-signature-image-upload-error-title = Slike ni bilo mogoče naložiti
+pdfjs-editor-add-signature-image-upload-error-description = Preverite svojo povezavo z omrežjem ali poskusite z drugo sliko.
+pdfjs-editor-add-signature-error-close-button = Zapri
 
 ## Dialog buttons
 
+pdfjs-editor-add-signature-cancel-button = Prekliči
+pdfjs-editor-add-signature-add-button = Dodaj

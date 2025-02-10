@@ -274,6 +274,10 @@ tab-group-editor-color-selector2-gray = Siva
     .title = Siva
 tab-group-editor-color-selector2-red = Rdeča
     .title = Rdeča
+# Variables:
+#  $tabGroupName (String): The name of the tab group. Defaults to the value
+#                          of tab-group-name-default.
+tab-group-description = { $tabGroupName } – Skupina zavihkov
 tab-group-menu-header = Skupine zavihkov
 tab-context-unnamed-group =
     .label = Neimenovana skupina

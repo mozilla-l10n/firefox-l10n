@@ -459,3 +459,5 @@ multi-profile-callout-cta = Ustvari profil
 
 ## Desktop to Mobile Adoption feature callout strings
 
+dismiss-button-label = Skrij
+sync-to-mobile-button-label = Sinhronizacija z mobilno napravo

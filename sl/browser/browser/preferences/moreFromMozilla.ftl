@@ -11,6 +11,7 @@ more-from-moz-category =
 more-from-moz-subtitle = Spoznajte ostale izdelke { -vendor-short-name(sklon: "rodilnik") }, ki podpirajo zdrav internet.
 more-from-moz-firefox-mobile-title = { -brand-product-name } za mobilne naprave
 more-from-moz-firefox-mobile-description = Mobilni brskalnik, ki postavlja vašo zasebnost na prvo mesto.
+more-from-moz-firefox-mobile-title-1 = { -brand-product-name } za mobilne naprave
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Zaščitite se z dodatnim slojem anonimnosti pri brskanju.
 more-from-moz-qr-code-box-firefox-mobile-title = Prenesite ga z mobilno napravo. Usmerite kamero v kodo QR. Ko se prikaže povezava, se je dotaknite.
@@ -35,3 +36,4 @@ more-from-moz-mozilla-monitor-button = Pridobite { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
+more-from-moz-solo-button = Preizkusite { -solo-ai-brand-name }
