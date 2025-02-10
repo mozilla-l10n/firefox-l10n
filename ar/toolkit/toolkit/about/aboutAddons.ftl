@@ -292,9 +292,7 @@ addon-options-button =
     .aria-label = خيارات أكثر
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
-discopane-intro2 =
-    تتيح لك الامتدادت والسمات تخصيص { -brand-product-name }. ويمكنها تعزيز الخصوصية، وتعزيز الإنتاجية، وتحسين الوسائط، وتغيير مظهر { -brand-product-name }، وغير ذلك الكثير. غالبًا ما يتم تطوير هذه البرامج الصغيرة بواسطة طرف ثالث. إليك مجموعة مختارة من { -brand-product-name } <a data-l10n-name="learn-more-trigger">توصي</a>
-    بأمان استثنائي وأداء ووظائف.
+discopane-intro2 = تتيح لك الامتدادت والسمات تخصيص { -brand-product-name }. ويمكنها تعزيز الخصوصية، وتعزيز الإنتاجية، وتحسين الوسائط، وتغيير مظهر { -brand-product-name }، وغير ذلك الكثير. غالبًا ما يتم تطوير هذه البرامج الصغيرة بواسطة طرف ثالث. ها هي مختارات<a data-l10n-name="learn-more-trigger">انتقاها</a> { -brand-product-name } لأمن وأداء وتوظيف استثنائي.
 
 ## Add-on actions
 
@@ -420,8 +418,22 @@ addon-detail-group-label-quarantined-domains =
 addon-badge-recommended2 =
     .title = يوصي { -brand-product-name } ويقترح فقط الامتدادات التي تلبي معاييرنا للأمان والأداء.
     .aria-label = { addon-badge-recommended2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = الامتدادات الرسمية التي أنشأتها موزيلا. يستوفي معايير الأمن والأداء
+    .aria-label = { addon-badge-line3.title }
+addon-badge-verified2 =
+    .title = جرت مراجعة هذا الامتداد ليفي بمعاييرنا للأمن والأداء
+    .aria-label = { addon-badge-verified2.title }
 addon-badge-recommended3 =
     .title = يوصي { -brand-product-name } ويقترح فقط الامتدادات التي تلبي معاييرنا للأمان والأداء.
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line4 =
+    .title = الامتدادات الرسمية التي أنشأتها موزيلا. يستوفي معايير الأمن والأداء
+addon-badge-verified3 =
+    .title = جرت مراجعة هذا الامتداد ليفي بمعاييرنا للأمن والأداء
 
 ##
 
@@ -429,8 +441,10 @@ available-updates-heading = التحديثات المتاحة
 recent-updates-heading = التحديثات الأخيرة
 release-notes-loading = يحمّل…
 release-notes-error = المعذرة، ولكن حصل خطأ أثناء تحميل ملاحظات الإصدار.
+addon-permissions-empty2 = لا يطلب هذا الامتداد أيّ صلاحيات.
 addon-permissions-empty = لا يطلب هذا الامتداد أيّ صلاحيات
 addon-permissions-required = الصلاحيات المطلوبة للوظيفة الجوهرية:
+addon-permissions-optional = صلاحيات اختيارية للوظائف المضافة:
 addon-permissions-learnmore = اطّلع على المزيد عن التصاريح
 recommended-extensions-heading = الامتدادات المقترحة
 recommended-themes-heading = السمات المقترحة
