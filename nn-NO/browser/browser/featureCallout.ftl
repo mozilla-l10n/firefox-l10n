@@ -64,6 +64,7 @@ split-dismiss-button-manage-settings-option-label = Handsam innstillingar
 
 sidebar-button-callout-title = Vis fanetitlar i sidestolpen
 sidebar-button-callout-subtitle = Bruk sidestolpeknappen for å utvide sidestolpen, slik at du kan sjå fanetitlar.
+sidebar-button-callout-vertical-tabs = For å vise faneane dine, velg sidestolpe-knappen i verktøylinja.
 
 ## Sidebar Callout Survey Strings
 
