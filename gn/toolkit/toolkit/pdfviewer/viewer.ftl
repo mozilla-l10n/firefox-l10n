@@ -519,12 +519,20 @@ pdfjs-editor-undo-bar-close-button-label = Mboty
 
 ## Tab names
 
+# Draw is a verb (you can draw your signature)
+pdfjs-editor-add-signature-draw-button = Moha’ãnga
+    .title = Moha’ãnga
+pdfjs-editor-add-signature-image-button = Ta’ãnga
+    .title = Ta’ãnga
 
 ## Tab panels
 
 
 ## Controls
 
+pdfjs-editor-add-signature-error-close-button = Mboty
 
 ## Dialog buttons
 
+pdfjs-editor-add-signature-cancel-button = Heja
+pdfjs-editor-add-signature-add-button = Mbojuaju

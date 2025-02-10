@@ -224,6 +224,12 @@ tab-group-editor-color-selector2-yellow = Sa’yju
     .title = Sa’yju
 tab-group-editor-color-selector2-pink = Pytãngy
     .title = Pytãngy
+tab-group-editor-color-selector2-green = Hovyũ
+    .title = Hovyũ
+tab-group-editor-color-selector2-gray = Hũngy
+    .title = Hũngy
+tab-group-editor-color-selector2-red = Ñanduti
+    .title = Ñanduti
 tab-group-menu-header = Tendayke aty
 tab-context-unnamed-group =
     .label = Aty hera’ỹva
@@ -275,3 +281,17 @@ tab-context-ungroup-tab =
 
 ## Open/saved tab group context menu
 
+# For a tab group open in any window, clicking this will create a new
+# window and move this tab group to that new window.
+tab-group-context-move-to-new-window =
+    .label = Eguerova aty ovetã pyahúpe
+# For a tab group open in a different window from the one that the
+# user is using to access the tab group menu, move that tab group into the
+# user's current window.
+tab-group-context-move-to-this-window =
+    .label = Eguerova aty ko ovetãme
+# For a tab group that is open in any window, close the tab group and
+# do not save it. For a tab group that is closed but saved by the user, clicking
+# this will forget the saved tab group.
+tab-group-context-delete =
+    .label = Emboguete aty
