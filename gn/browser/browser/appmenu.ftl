@@ -282,6 +282,8 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Ehovamo’ã ne ñanduti veve ha pumbyry
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Emo’ã ne rekoñemi ñandutípe
+appmenu-services-header = Mba’epytyvõrã
+appmenu-other-protection-header = Eiporu ambue tembiporu ñemo’ãrã { -vendor-short-name } rehegua:
 
 ## Profiles panel
 
