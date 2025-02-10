@@ -280,6 +280,7 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Ejapyhy mongyhyje mba’ekuaarã ñembogua rehe
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Ehovamo’ã ne ñanduti veve ha pumbyry
+appmenuitem-services-relay-description = Emoñepyrũ ñanduti veve rovara’ãnga rupa
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Emo’ã ne rekoñemi ñandutípe
 appmenu-services-header = Mba’epytyvõrã
