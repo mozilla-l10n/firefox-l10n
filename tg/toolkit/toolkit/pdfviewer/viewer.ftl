@@ -519,6 +519,7 @@ pdfjs-editor-undo-bar-close-button-label = Пӯшидан
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-label = Ин равзанаи зоҳирӣ ба корбар имкон медиҳад, ки тавонад имзоеро эҷод карда, ба ҳуҷҷати «PDF» илова намояд. Корбар метавонад номро таҳрир кунад (ном, инчунин, ҳамчун матни иловагӣ хизмат мекунад), ва ихтиёран имзоро барои истифодаи такрорӣ нигоҳ медорад.
 pdfjs-editor-add-signature-dialog-title = Илова кардани имзо
 
 ## Tab names
