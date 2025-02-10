@@ -15,3 +15,5 @@ places-bookmarks-restore-format-error = Gjenar di file no supuartât.
 places-bookmarks-restore-parse-error = No si pues analizâ il file di backup.
 places-bookmarks-import = Impuarte file di segnelibris
 places-bookmarks-export = Espuarte file di segnelibris
+places-bookmarks-paste-error-title = A son stâts cjatâts URLs no valits
+places-bookmarks-paste-error-message-header = Impussibil zontâ chescj URLs ai segnelibris. Prove a controlâ la formatazion e torne zontiju.

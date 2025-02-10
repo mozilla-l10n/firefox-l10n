@@ -463,3 +463,7 @@ multi-profile-callout-cta = Cree un profîl
 
 # If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
 desktop-to-mobile-headline = Discjame, sincronize e va!
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Scansione il codiç QR par discjariâ { -brand-product-name } par dispositîfs mobii. Une volte che al è stât instalât, selezione “Sincronize cun dispositîfs mobii” par acedi aes tôs passwords, ai tiei segnelibris e tant altri dapardut là che tu ti cjatis.
+dismiss-button-label = Siere
+sync-to-mobile-button-label = Sincronize cun dispositîfs mobii

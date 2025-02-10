@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Mande ai sîts web un segnâl “Do Not Track” che al indiche che no tu vuelis vignî spiât
+do-not-track-removal = No supuartìn plui il segnâl “Do Not Track”
 do-not-track-description2 =
     .label = Mande ai sîts web une richieste “Do Not Track” (no sta spiâ)
     .accesskey = d
@@ -154,6 +155,17 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Vierç i colegaments in schedin invezit che in gnûfs barcons
     .accesskey = b
+ask-on-close-multiple-tabs =
+    .label = Domande prime di sierâ plui schedis
+    .accesskey = m
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = Domande prime di jessî cun { $quitKey }
+    .accesskey = b
 confirm-on-close-multiple-tabs =
     .label = Conferme prime di sierâ plui schedis
     .accesskey = m
@@ -213,6 +225,16 @@ containers-remove-cancel-button = No sta gjavâ chest contignidôr
 settings-tabs-show-image-in-preview =
     .label = Mostre une imagjin di anteprime cuant che tu passis cul pontadôr sore di une schede
     .accessKey = h
+browser-layout-header = Disposizion dal navigadôr
+browser-layout-horizontal-tabs =
+    .label = Schedis orizontâls
+browser-layout-horizontal-tabs-desc = Visualize te part superiôr dal navigadôr
+browser-layout-vertical-tabs =
+    .label = Schedis verticâls
+browser-layout-vertical-tabs-desc = Visualize in bande, te sbare laterâl
+browser-layout-show-sidebar =
+    .label = Mostre la sbare laterâl
+browser-layout-show-sidebar-desc = Rive intun lamp a segnelibris, schedis dal to telefon, chatbots AI e tant altri cence lâ fûr de videade principâl.
 
 ## General Section - Language & Appearance
 
@@ -787,6 +809,9 @@ sync-currently-syncing-creditcards = Cjartis di credit
 sync-currently-syncing-payment-methods = Metodis di paiament
 sync-currently-syncing-addons = Components adizionâi
 sync-currently-syncing-settings = Impostazions
+sync-manage-options =
+    .label = Gjestìs sincronizazion…
+    .accesskey = G
 sync-change-options =
     .label = Cambie…
     .accesskey = C
@@ -839,6 +864,13 @@ sync-engine-settings =
     .label = Impostazions
     .tooltiptext = Lis impostazions gjenerâls, di riservatece e sigurece che tu âs cambiât
     .accesskey = s
+sync-choose-what-to-sync-dialog4 =
+    .title = Gjestìs ce sincronizâ sui dispositîfs colegâts
+    .style = min-width: 36em;
+    .buttonlabelaccept = Salve
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Disconet…
+    .buttonaccesskeyextra2 = D
 
 ## The device name controls.
 
