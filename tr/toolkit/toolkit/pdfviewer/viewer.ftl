@@ -523,6 +523,14 @@ pdfjs-editor-add-signature-dialog-title = İmza ekle
 
 ## Tab names
 
+# Type is a verb (you can type your name as signature)
+pdfjs-editor-add-signature-type-button = Yaz
+    .title = Yaz
+# Draw is a verb (you can draw your signature)
+pdfjs-editor-add-signature-draw-button = Çiz
+    .title = Çiz
+pdfjs-editor-add-signature-image-button = Resim
+    .title = Resim
 
 ## Tab panels
 
@@ -549,6 +557,9 @@ pdfjs-editor-add-signature-clear-button-label = İmzayı temizle
 pdfjs-editor-add-signature-clear-button =
     .title = İmzayı temizle
 pdfjs-editor-add-signature-save-checkbox = İmzayı kaydet
+pdfjs-editor-add-signature-save-warning-message = Kayıtlı 5 imza sınırına ulaştınız. Daha fazla imza kaydetmek için imzalardan birini kaldırın.
+pdfjs-editor-add-signature-image-upload-error-title = Resim yüklenemedi
+pdfjs-editor-add-signature-image-upload-error-description = Ağ bağlantınızı kontrol edin veya başka bir resim deneyin.
 pdfjs-editor-add-signature-error-close-button = Kapat
 
 ## Dialog buttons
