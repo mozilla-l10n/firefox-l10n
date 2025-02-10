@@ -29,5 +29,10 @@ default-browser-prompt-button-secondary = ليس الآن
 ## Windows 10 and 11.
 
 default-browser-guidance-notification-title = الانتهاء من جعل { -brand-short-name } المبدئي
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win10 =
+    الخطوة 1: انتقل إلى الإعدادات > التطبيقات الافتراضية
+    الخطوة 2: انتقل لأسفل إلى "مستعرض الويب"
+    الخطوة 3: حدد واختر { -brand-short-name }
 default-browser-guidance-notification-info-page = اعرض
 default-browser-guidance-notification-dismiss = تمّ
