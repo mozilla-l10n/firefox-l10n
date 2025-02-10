@@ -55,6 +55,8 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Eporandu { $provider }-pe
+genai-menu-remove-generic =
+    .label = Emboty IA chatbot
 genai-input-ask-generic =
     .placeholder = Eporandu chatbot-pe IA rehegua…
 # $provider (string) - name of the provider
