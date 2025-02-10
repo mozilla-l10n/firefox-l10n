@@ -1321,6 +1321,8 @@ collection-health-report =
     .label = Toñemoneĩ { -brand-short-name } omondo hag̃ua kuaapy aporeko rehegua { -vendor-short-name }-pe
     .accesskey = r
 collection-health-report-link = Kuaave
+collection-studies2 =
+    .label = Emohenda ha emongu’e mba’ekuarã
 collection-studies =
     .label = Emoneĩ { -brand-short-name } omohenda ha omongu’e hag̃ua kuaarã
 collection-studies-link = Ehecha kuaarã { -brand-short-name } mba’éva
@@ -1391,6 +1393,7 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } opyta disco pa’
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = HTTPS año ayvu
+httpsonly-learn-more2 = Mba’éichapa oku’e HTTPS ayvu ha’eño
 httpsonly-description = HTTPS ome’ẽ jeikekatu ha ipapapýva { -brand-short-name } ha ñanduti renda eike hague pa’ũme. Heta ñanduti renda omoneĩ HTTPS, ha pe ayvu ha’eñóva-HTTPS oñemoneĩma, upévare { -brand-short-name } ombohekopyahúta opaite HTTPS-pe jeike.
 httpsonly-learn-more = Eikuaave
 httpsonly-radio-enabled =
@@ -1399,6 +1402,9 @@ httpsonly-radio-enabled2 =
     .label = Eiporu HTTPS año opaite ovetãme
 httpsonly-radio-enabled-pbm =
     .label = Embojuruja HTTPS año ayvu opaite ovetãme
+httpsonly-radio-disabled3 =
+    .label = Ani emyandy HTTPS ayvu ha’eño
+    .description = { -brand-short-name } ombohekopyahukuaa gueteri heta juajurã
 httpsonly-radio-enabled-pbm2 =
     .label = Eiporu HTTPS año umi ovetã ñemiguápe
 httpsonly-radio-disabled =
