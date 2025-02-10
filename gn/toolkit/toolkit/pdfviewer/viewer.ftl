@@ -519,6 +519,9 @@ pdfjs-editor-undo-bar-close-button-label = Mboty
 
 ## Tab names
 
+# Type is a verb (you can type your name as signature)
+pdfjs-editor-add-signature-type-button = Jehai
+    .title = Jehai
 # Draw is a verb (you can draw your signature)
 pdfjs-editor-add-signature-draw-button = Moha’ãnga
     .title = Moha’ãnga
@@ -527,9 +530,15 @@ pdfjs-editor-add-signature-image-button = Ta’ãnga
 
 ## Tab panels
 
+pdfjs-editor-add-signature-draw-thickness-range-label = Anambusu
 
 ## Controls
 
+pdfjs-editor-add-signature-description-default-when-drawing = Teraguapy
+pdfjs-editor-add-signature-clear-button-label = Emboguete teraguapy
+pdfjs-editor-add-signature-clear-button =
+    .title = Emboguete teraguapy
+pdfjs-editor-add-signature-save-checkbox = Eñongatu teraguapy
 pdfjs-editor-add-signature-error-close-button = Mboty
 
 ## Dialog buttons

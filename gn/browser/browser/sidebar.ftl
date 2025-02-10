@@ -50,6 +50,8 @@ sidebar-position-right =
     .label = Ehechauka akatúa gotyo
 sidebar-vertical-tabs =
     .label = Tendayke ñembo’y
+sidebar-settings =
+    .label = Emboheko ta’ãngarupa ykegua
 sidebar-horizontal-tabs =
     .label = Tendayke ñeno
 sidebar-customize-tabs-header =
@@ -139,6 +141,8 @@ sidebar-menu-history-header =
     .heading = Tembiasakue
 sidebar-menu-syncedtabs-header =
     .heading = Tendaykekuéra ambue mba’e’okagua
+sidebar-menu-bookmarks-header =
+    .heading = Techaukaha
 sidebar-panel-header-close-button =
     .tooltiptext = Mboty
 

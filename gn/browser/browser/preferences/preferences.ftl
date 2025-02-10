@@ -225,6 +225,8 @@ containers-remove-cancel-button = Aníke eipe’a ko guerekoha
 settings-tabs-show-image-in-preview =
     .label = Ehechauka hechaha ypy embohasávo hekaha tendayke ári
     .accessKey = h
+browser-layout-vertical-tabs =
+    .label = Tendayke ñembo’y
 browser-layout-show-sidebar =
     .label = Ehechauka tenda yke
 
