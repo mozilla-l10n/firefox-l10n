@@ -225,6 +225,8 @@ containers-remove-cancel-button = Aníke eipe’a ko guerekoha
 settings-tabs-show-image-in-preview =
     .label = Ehechauka hechaha ypy embohasávo hekaha tendayke ári
     .accessKey = h
+browser-layout-show-sidebar =
+    .label = Ehechauka tenda yke
 
 ## General Section - Language & Appearance
 
@@ -1307,10 +1309,14 @@ permissions-addon-exceptions =
 collection-header = { -brand-short-name } Ñembyaty ha mba’ekuaarã jeporu
 collection-header2 = { -brand-short-name } Ñembyaty ha mba’ekuaarã jeporu
     .searchkeywords = telemetría
+preferences-collection-privacy-notice = Ehecha marandu’i ñemi rehegua
 collection-description = Roñeha’ãmbaite rome’ẽ hag̃ua jeporavorã ha rombyaty roikotevẽva rome’ẽ ha romoĩporãve { -brand-short-name } arapy tuichakue javépe g̃uarã. Rojerure ñemoneĩ marandu og̃uahẽ mboyve oréve.
 collection-privacy-notice = Marandu Ñemigua
 collection-health-report-telemetry-disabled = Nomoneĩvéima { -vendor-short-name } ojapyhývo mba’ekuaarã aporekogua ha oñondiveguáva. Opaite mba’ekuaarã itujavéva oguéta 30 ára ohasávo.
 collection-health-report-telemetry-disabled-link = Kuaave
+collection-usage-ping =
+    .label = Emondo { -vendor-short-name }-pe ping eiporúva ára ha ára
+    .accesskey = u
 collection-health-report =
     .label = Toñemoneĩ { -brand-short-name } omondo hag̃ua kuaapy aporeko rehegua { -vendor-short-name }-pe
     .accesskey = r

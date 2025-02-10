@@ -484,3 +484,4 @@ newtab-section-mangage-topics-button =
 newtab-section-mangage-topics-followed-topics-subtitle = Téma jehapykuehopyre
 newtab-section-mangage-topics-followed-topics-empty-state = Ndohapykuehói gueteri téma.
 newtab-section-mangage-topics-blocked-topics-subtitle = Téma jokopyre
+newtab-section-mangage-topics-blocked-topics-empty-state = Ndojokói gueteri mba’evéichagua téma.

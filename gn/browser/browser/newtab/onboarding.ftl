@@ -388,6 +388,10 @@ onboarding-new-user-survey-familiarity-based-option-4 = Aiporuva’kue yma, aré
 onboarding-new-tabs-title = Eremi moõpa eipota umi tendayke
 # Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-new-tabs-subtitle = Emoambue ejapose vove tenda yke ñembohekópe.
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Ne rendayke, ha’eháicha
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = Eiporavo tendayke ra’ãngarã
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Tendayke yke gotyo
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -437,6 +441,7 @@ tab-groups-onboarding-feature-callout-subtitle = Eñeorganisa emoĩvo peteĩ ten
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-title = Emomaitei { -brand-product-name } mba’etekuéra
 
 ## Desktop to Mobile Adoption feature callout strings
 
