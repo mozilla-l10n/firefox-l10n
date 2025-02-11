@@ -481,4 +481,7 @@ newtab-section-cancel-button = Ikkje no
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Emne
+newtab-section-mangage-topics-followed-topics-subtitle = Følgde emne
+newtab-section-mangage-topics-followed-topics-empty-state = Du har ikkje følgt nokon emne enno.
 newtab-section-mangage-topics-blocked-topics-subtitle = Blokkerte emne
+newtab-section-mangage-topics-blocked-topics-empty-state = Du har ikkje blokkert nokon emne enno.

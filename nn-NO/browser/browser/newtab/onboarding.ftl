@@ -426,6 +426,7 @@ tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-title = Sei hei til { -brand-product-name }-profilar
 multi-profile-spotlight-cta = Opprett ein profil
 multi-profile-callout-cta = Opprett ein profil
 
