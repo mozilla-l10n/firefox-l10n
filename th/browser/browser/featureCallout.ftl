@@ -103,3 +103,11 @@ unified-search-engines-callout-title = ค้นหาด้วยทางล�
 unified-search-engines-callout-subtitle = พิมพ์ “@” ตามด้วยคำสำคัญเพื่อค้นหาประวัติ ที่คั่นหน้า แท็บ หรือเครื่องมือค้นหาอื่นๆ
 unified-search-engines-callout-primary-label = เข้าใจแล้ว
 actions-callout-title = ทำงานทั่วไปให้เสร็จสิ้นหรือเข้าถึงการตั้งค่าพื้นฐาน
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearhistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = ลองพิมพ์การกระทำ อย่างเช่น “print” เพื่อพิมพ์หน้าเว็บ หรือ “clear” เพื่อล้างประวัติของคุณ

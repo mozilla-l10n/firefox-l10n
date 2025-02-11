@@ -216,10 +216,13 @@ settings-tabs-show-image-in-preview =
 browser-layout-header = เค้าโครงของเบราว์เซอร์
 browser-layout-horizontal-tabs =
     .label = แท็บแนวนอน
+browser-layout-horizontal-tabs-desc = แสดงที่ด้านบนของเบราว์เซอร์
 browser-layout-vertical-tabs =
     .label = แท็บแนวตั้ง
+browser-layout-vertical-tabs-desc = แสดงที่ด้านข้าง ในแถบข้าง
 browser-layout-show-sidebar =
     .label = แสดงแถบข้าง
+browser-layout-show-sidebar-desc = เข้าถึงที่คั่นหน้า แท็บต่างๆ ได้อย่างรวดเร็วจากโทรศัพท์ บอตสนทนา AI และอื่นๆ ของคุณได้โดยไม่ต้องออกจากมุมมองหลัก
 
 ## General Section - Language & Appearance
 
@@ -1298,6 +1301,7 @@ permissions-addon-exceptions =
 collection-header = การเก็บรวบรวมและใช้ข้อมูลของ { -brand-short-name }
 collection-header2 = การเก็บรวบรวมและใช้ข้อมูลของ { -brand-short-name }
     .searchkeywords = การวัดและส่งข้อมูลทางไกล
+preferences-collection-description = เราพยายามที่จะมอบทางเลือกให้กับคุณและรวบรวมข้อมูลอย่างน้อยที่สุดเท่าที่จำเป็นเพื่อปรับปรุง { -brand-product-name } ให้กับทุกคน
 preferences-collection-privacy-notice = ดูประกาศความเป็นส่วนตัว
 collection-description = เรามุ่งมั่นที่จะให้ทางเลือกกับคุณและเก็บรวบรวมเฉพาะสิ่งที่เราจำเป็นต้องให้บริการและปรับปรุง { -brand-short-name } สำหรับทุกคน เราขออนุญาตก่อนที่จะรับข้อมูลส่วนบุคคลเสมอ
 collection-privacy-notice = ข้อกำหนดความเป็นส่วนตัว
@@ -1398,6 +1402,8 @@ space-alert-under-5gb-message2 = <strong>พื้นที่ดิสก์ข
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = โหมด HTTPS-Only
+httpsonly-description3 = อนุญาตเฉพาะการเชื่อมต่อที่ปลอดภัยกับเว็บไซต์เท่านั้น { -brand-short-name } จะถามก่อนเชื่อมต่อแบบไม่ปลอดภัย
+httpsonly-learn-more2 = HTTPS-Only ทำงานอย่างไร
 httpsonly-description = HTTPS จะจัดให้มีการเชื่อมต่อแบบเข้ารหัสที่ปลอดภัยระหว่าง { -brand-short-name } และเว็บไซต์ที่คุณเยี่ยมชม เว็บไซต์ส่วนใหญ่จะรองรับ HTTPS และถ้าเปิดใช้งานโหมด HTTPS-Only แล้ว { -brand-short-name } จะอัปเกรดการเชื่อมต่อทั้งหมดเป็น HTTPS
 httpsonly-description2 = { -brand-short-name } จะสร้างการเชื่อมต่อที่ปลอดภัยและผ่านการเข้ารหัสลับไปยังไซต์ที่คุณเยี่ยมชม { -brand-short-name } จะแจ้งเตือนคุณหากการเชื่อมต่อไม่มีความปลอดภัยเมื่อเปิดใช้งาน HTTPS-Only
 httpsonly-learn-more = เรียนรู้เพิ่มเติม
@@ -1407,6 +1413,9 @@ httpsonly-radio-enabled2 =
     .label = ใช้ HTTPS ในทุกหน้าต่างเท่านั้น
 httpsonly-radio-enabled-pbm =
     .label = เปิดใช้งานโหมด HTTPS-Only ในหน้าต่างส่วนตัวเท่านั้น
+httpsonly-radio-disabled3 =
+    .label = ไม่ต้องเปิดใช้งานโหมด HTTPS-Only
+    .description = { -brand-short-name } อาจจะยังคงอัปเกรดการเชื่อมต่อบางอย่าง
 httpsonly-radio-enabled-pbm2 =
     .label = ใช้ HTTPS ในหน้าต่างส่วนตัวเท่านั้น
 httpsonly-radio-disabled =

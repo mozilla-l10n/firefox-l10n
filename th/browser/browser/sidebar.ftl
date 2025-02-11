@@ -50,6 +50,18 @@ sidebar-position-right =
     .label = แสดงทางด้านขวา
 sidebar-vertical-tabs =
     .label = แท็บแนวตั้ง
+sidebar-settings =
+    .label = การตั้งค่าแถบข้าง
+sidebar-hide-tabs-and-sidebar =
+    .label = ซ่อนแท็บและแถบข้าง
+sidebar-show-on-the-right =
+    .label = ย้ายแถบข้างไปด้านขวา
+sidebar-show-on-the-left =
+    .label = ย้ายแถบข้างไปด้านซ้าย
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = ขยายแถบข้างเมื่อเลื่อนเมาส์ไปวางแช่
 sidebar-horizontal-tabs =
     .label = แท็บแนวนอน
 sidebar-customize-tabs-header =
