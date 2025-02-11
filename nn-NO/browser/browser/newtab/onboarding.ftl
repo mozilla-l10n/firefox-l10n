@@ -432,3 +432,5 @@ multi-profile-callout-cta = Opprett ein profil
 
 ## Desktop to Mobile Adoption feature callout strings
 
+dismiss-button-label = Ignorer
+sync-to-mobile-button-label = Synkronisder til mobil

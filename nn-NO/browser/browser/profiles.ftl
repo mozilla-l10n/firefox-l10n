@@ -86,6 +86,10 @@ profiles-system-theme = System
 
 ## Alternative text for default profile icons
 
+book-avatar-alt =
+    .alt = Bok
+briefcase-avatar-alt =
+    .alt = Dokumentmappe
 heart-avatar-alt =
     .alt = Hjarte
 shopping-avatar-alt =

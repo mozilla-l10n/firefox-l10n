@@ -15,3 +15,4 @@ places-bookmarks-restore-format-error = Filtypen er ikkje støtta.
 places-bookmarks-restore-parse-error = Klarer ikkje å bruke sikkerheitskopien.
 places-bookmarks-import = Importer bokmerkefil
 places-bookmarks-export = Eksporter bokmerkefil
+places-bookmarks-paste-error-title = Fann ugyldig(e) URL(-ar)
