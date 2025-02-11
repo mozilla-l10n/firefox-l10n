@@ -445,6 +445,7 @@ onboarding-checklist-sign-up = Regisztráljon vagy jelentkezzen be a fiókjába
 
 tab-groups-onboarding-feature-callout-title = Próbálja ki a lapcsoportokat a kisebb zsúfoltság és a nagyobb fókusz érdekében
 tab-groups-onboarding-feature-callout-subtitle = Rendszerezzen a lapok egymásra húzásával, hozzon létre így csoportokat.
+tab-groups-onboarding-create-group-title = Találja meg a nyitott csoportokat a lapsávban vagy úgy, hogy megkeresi őket a címsorban.
 tab-groups-onboarding-saved-groups-title = Ha bezár egy lapcsoportot, itt bármikor újra megnyithatja.
 tab-groups-onboarding-dismiss = OK
 
