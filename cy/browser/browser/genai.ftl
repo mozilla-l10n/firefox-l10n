@@ -59,6 +59,11 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Gofyn i { $provider }
+genai-menu-remove-generic =
+    .label = Tynnu'r sgwrsfot AI
+# $provider (string) - name of the provider
+genai-menu-remove-provider =
+    .label = Tynnu { $provider }
 genai-input-ask-generic =
     .placeholder = Gofyn i'r sgwrsfot AI…
 # $provider (string) - name of the provider

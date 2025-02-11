@@ -446,7 +446,9 @@ onboarding-checklist-sign-up = Cofrestrwch neu mewngofnodwch i'ch cyfrif
 
 tab-groups-onboarding-feature-callout-title = Rhowch gynnig ar grwpio tabiau am lai o flerwch, gwell trefn
 tab-groups-onboarding-feature-callout-subtitle = Byddwch yn drefnus trwy lusgo un tab ar ben un arall i greu eich grŵp cyntaf.
+tab-groups-onboarding-create-group-title = Dewch o hyd i'ch grwpiau agored ar y bar tab neu drwy chwilio amdanyn nhw yn y bar cyfeiriad.
 tab-groups-onboarding-saved-groups-title = Os byddwch yn cau grŵp tab, gallwch ei ailagor yma unrhyw bryd.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title = Dewch o hyd i'ch grwpiau tab agored neu gaëedig unrhyw bryd trwy chwilio yn y bar cyfeiriad.
 tab-groups-onboarding-dismiss = Iawn
 
 ## Multi Profiles feature onboarding messages
@@ -460,3 +462,8 @@ multi-profile-callout-cta = Crëwch broffil
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = Llwytho i lawr, cydweddu, a mynd!
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Sganiwch y cod QR i lwytho { -brand-product-name } i lwr ar gyfer ffôn symudol. Ar ôl ei osod, dewiswch "Cydweddu â ffôn symudol" i gael mynediad at eich cyfrineiriau, nodau tudalen, a mwy wrth fynd.
+dismiss-button-label = Cau
