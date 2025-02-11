@@ -29,6 +29,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] เปิดแท็บที่ปิดใหม่
         }
     .accesskey = เ
+toolbar-context-turn-on-vertical-tabs =
+    .label = เปิดใช้งานแท็บแนวตั้ง
+toolbar-context-turn-off-vertical-tabs =
+    .label = ปิดใช้งานแท็บแนวตั้ง
+toolbar-context-customize-sidebar =
+    .label = ปรับแต่งแถบข้าง
 toolbar-context-menu-manage-extension =
     .label = จัดการส่วนขยาย
     .accesskey = จ

@@ -44,6 +44,8 @@ new-profile-page-input-placeholder =
 new-profile-page-done-button =
     .label = เสร็จสิ้นการแก้ไข
 profile-window-title-2 = { -brand-short-name } - เลือกโปรไฟล์
+profile-window-logo =
+    .alt = โลโก้ { -brand-short-name }
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
@@ -95,3 +97,15 @@ profiles-system-theme = ระบบ
 
 ## Alternative text for default profile icons
 
+book-avatar-alt =
+    .alt = หนังสือ
+briefcase-avatar-alt =
+    .alt = กระเป๋าเอกสาร
+flower-avatar-alt =
+    .alt = ดอกไม้
+heart-avatar-alt =
+    .alt = หัวใจ
+shopping-avatar-alt =
+    .alt = รถเข็นซื้อของ
+star-avatar-alt =
+    .alt = ดาว
