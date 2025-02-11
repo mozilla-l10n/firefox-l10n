@@ -96,7 +96,9 @@ sidebar-genai-survey-productive-question =
     I kva grad er du samd eller usamd i denne påstanden:<br/>
     "AI-chatboten i sidestolpen hjelper meg å bli meir produktiv"?
 unified-search-callout-title = Byt mellom søkjemotorar
+unified-search-callout-subtitle = Vel det som fungerer best for ditt spesifikke søk.
 unified-search-callout-primary-label = Neste
 unified-search-callout-secondary-label = Ignorer
 unified-search-engines-callout-title = Søk med ein snarveg
+unified-search-engines-callout-subtitle = Skriv «@» følgd av eit nøkkelord for å søkje i historikk, bokmerkee, faner, eller med ein annan søkjekmotor.
 unified-search-engines-callout-primary-label = Eg forstår
