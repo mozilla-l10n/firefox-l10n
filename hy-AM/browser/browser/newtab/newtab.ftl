@@ -391,12 +391,27 @@ newtab-weather-menu-temperature-option-fahrenheit = Ֆարենհեյթ
 newtab-weather-menu-temperature-option-celsius = Ցելսիուս
 newtab-weather-menu-change-temperature-units-fahrenheit = Փոխարկել ֆարենհեյթին
 newtab-weather-menu-change-temperature-units-celsius = Փոխարկել ցելսիուսին
+newtab-weather-menu-hide-weather = Թաքցնել եղանակը Նոր ներդիրում
+newtab-weather-menu-learn-more = Իմանալ ավելին
 
 ## Topic Labels
 
+newtab-topic-label-sports = Սպորտ
+newtab-topic-label-tech = Տեխ
+newtab-topic-label-travel = Ճամփորդություն
+newtab-topic-label-home = Տուն և այգի
 
 ## Topic Selection Modal
 
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Ընտրեք թեմաներ՝ ձեր հոսքը ճշգրտելու համար
+newtab-topic-selection-save-button = Պահել
+newtab-topic-selection-cancel-button = Չեղարկել
+newtab-topic-selection-button-maybe-later = Ավելի ուշ
+newtab-topic-selection-privacy-link = Իմացեք, թե ինչպես ենք մենք պաշտպանում և կառավարում տվյալները
+newtab-topic-selection-button-update-interests = Թարմացրեք ձեր հետաքրքրությունները
+newtab-topic-selection-button-pick-interests = Ընտրեք ձեր հետաքրքրությունները
 
 ## Content Feed Sections
 ## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.

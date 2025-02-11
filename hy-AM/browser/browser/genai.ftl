@@ -85,4 +85,13 @@ genai-onboarding-select-primary = Սկսել զրուցել
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
 genai-onboarding-claude-generate = Ստեղծեք գրվածք և կոդ
+genai-onboarding-claude-analyze = Վերլուծել փաստաթղթերը և պատկերները
+genai-onboarding-copilot-analyze = Վերլուծել պատկերները
+genai-onboarding-gemini-generate = Ստեղծեք տեքստ, պատկերներ և կոդ
+genai-onboarding-gemini-analyze = Վերլուծել պատկերները (անվճար) և փաստաթղթերը (վճարովի)
+genai-onboarding-gemini-price = Անվճար և վճարովի տարբերակներ; անհրաժեշտ է հաշիվ
+genai-onboarding-huggingchat-generate = Ստեղծեք գրվածք և կոդ
+genai-onboarding-huggingchat-switch = Անցեք բաց մոդելների բազմազան հավաքածուի միջև
+genai-onboarding-huggingchat-price-2 = Անվճար; հաշիվ պահանջվում է որոշակի քանակի հարցումներից հետո
+genai-onboarding-lechat-generate = Ստեղծեք գրվածք և կոդ
 genai-onboarding-lechat-price = Անվճար; անհրաժեշտ է հաշիվ

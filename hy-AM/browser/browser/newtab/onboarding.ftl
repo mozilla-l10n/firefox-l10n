@@ -52,6 +52,8 @@ mr1-onboarding-import-primary-button-label-attribution = Ներմուծել { $p
 mr1-onboarding-theme-header = Դարձրեք այն ձերը
 mr1-onboarding-theme-subtitle = Անհատականացրեք { -brand-short-name }-ը ոճով:
 mr1-onboarding-theme-secondary-button-label = Ոչ հիմա
+newtab-wallpaper-onboarding-title = Փորձեք շաղ տված գույներ
+newtab-wallpaper-onboarding-subtitle = Ընտրեք պաստառ՝ ձեր նոր ներդիրին թարմ տեսք հաղորդելու համար:
 newtab-wallpaper-onboarding-primary-button-label = Կայել պաստառ
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Համակարգային
@@ -185,6 +187,8 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] Պահեք { -brand-short-name }-ը ամրակցված
        *[other] Ամրացրեք { -brand-short-name }-ը Խնդրագոտուն
     }
+# Primary button string used on welcome page for when Firefox is not pinned on MSIX
+mr2022-onboarding-pin-primary-button-label-msix = Ամրացրեք { -brand-short-name }-ն խնդրագոտիում և մեկնարկ ցանկում
 # Subtitle will be used when user already has Firefox pinned, but
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
@@ -239,10 +243,16 @@ mr2022-onboarding-colorway-label-playmaker = Փլեյմեյքեր
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Փլեյմեյքեր (կարմիր)
 mr2022-onboarding-colorway-description-playmaker = <b>Դուք փլեյմեյքեր եք:</b> Դուք հնարավորություններ եք ստեղծում հաղթելու և օգնում եք ձեր շրջապատի բոլորին բարձրացնել իրենց խաղը:
+mr2022-onboarding-colorway-label-visionary = Տեսլական
+mr2022-onboarding-colorway-tooltip-visionary2 =
+    .title = Տեսողական (կանաչ)
 mr2022-onboarding-colorway-description-visionary = <b>Դուք տեսաբան եք:</b> Դուք կասկածի տակ եք դնում ստատուս քվոն և դրդում ուրիշներին պատկերացնել ավելի լավ ապագա:
 mr2022-onboarding-colorway-label-activist = Ակտիվիստ
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Ակտիվիստ (կապույտ)
+mr2022-onboarding-colorway-label-dreamer = Երազող
+mr2022-onboarding-colorway-tooltip-dreamer2 =
+    .title = Երազող (մանուշակագույն)
 mr2022-onboarding-colorway-label-innovator = Նորարար
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = Նորարար (նարնջագույն)
