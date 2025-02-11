@@ -18,3 +18,4 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = Stäng alla dubbla flikar
 all-tabs-menu-synced-tabs =
     .label = Flikar från andra enheter
+all-tabs-menu-current-window-header = Aktuellt fönster
