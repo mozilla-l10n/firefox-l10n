@@ -25,6 +25,8 @@ firefox-relay-opt-in-subtitle-1 = ໃຊ້ໜ້າກາກອີເມວ { -
 firefox-relay-use-mask-title = ໃຊ້ໜ້າກາກອີເມວ { -relay-brand-name }
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = ປ້ອງກັນສະແປມດ້ວຍໂຕປົກປິດອີເມວຟຣີ
+# This is preceded by firefox-relay-opt-in-title-a (on a different line)
+firefox-relay-opt-in-subtitle-a = ເຊື່ອງທີ່ຢູ່ອີເມວທີ່ແທ້ຂອງທ່ານ
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
 firefox-relay-opt-in-title-b = ຮັບໂຕປົກປິດອີເມວຟຣີ
 firefox-relay-opt-in-confirmation-enable-button =
@@ -39,6 +41,9 @@ firefox-relay-opt-in-confirmation-postpone =
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
     .label = ລົງ​ທະ​ບຽນ
     .accesskey = S
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
+    .label = ບໍ່ແມ່ນຕອນນີ້
+    .accesskey = N
 
 ## The "control" variation of the Relay offer popup
 

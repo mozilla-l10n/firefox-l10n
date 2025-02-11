@@ -87,4 +87,9 @@ sidebar-callout-survey-thank-you = ຂໍ​ຂອບ​ໃຈ​ສໍາ​ລ
 sidebar-genai-survey-productive-question =
     ທ່ານເຫັນດີ ຫຼື ບໍ່ເຫັນດີກັບຄຳຖະແຫຼງການນີ້ໃນລະດັບໃດ:<br/>
     "AI chatbot ໃນແຖບຂ້າງຊ່ວຍໃຫ້ຂ້ອຍມີປະສິດຕິພາບຫຼາຍຂຶ້ນ"?
+unified-search-callout-primary-label = ຕໍ່ໄປ
+unified-search-callout-secondary-label = ຍົກເລີກ
+unified-search-engines-callout-title = ຊອກຫາດ້ວຍທາງລັດ
+unified-search-engines-callout-subtitle = ພິມ “@” ຕາມດ້ວຍຄໍາສໍາຄັນເພື່ອຄົ້ນຫາປະຫວັດຂອງທ່ານ, ບຸກມາກ, ແທັບ, ຫຼື ດ້ວຍເຄື່ອງຈັກຄົ້ນຫາອື່ນ.
 unified-search-engines-callout-primary-label = ເຂົ້າໃຈແລ້ວ!
+actions-callout-title = ເຮັດສຳເລັດໜ້າວຽກທົ່ວໄປ ຫຼື ເຂົ້າເຖິງການຕັ້ງຄ່າພື້ນຖານ

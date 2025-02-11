@@ -174,9 +174,13 @@ firefoxview-show-all-history = ສະແດງປະຫວັດທັງໝົ�
 
 ##
 
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = ເລືອກຕົວທ່ອງເວັບ
+    .title = ເລືອກຕົວທ່ອງເວັບ
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = ບໍ່ມີຫຍັງທີ່ຈະສະແດງ
 
 ##
 
