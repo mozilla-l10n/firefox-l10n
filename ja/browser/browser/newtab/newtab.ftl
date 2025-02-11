@@ -450,6 +450,11 @@ newtab-topic-selection-privacy-link = ユーザーデータの保護と管理に
 newtab-topic-selection-button-update-interests = 関心事を更新
 newtab-topic-selection-button-pick-interests = 関心事を選ぶ
 
+## Button to block/unblock listed topics
+## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
+## e.g. Blocked the politics section of stories.
+
+
 ## Content Feed Sections
 ## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 ## e.g. Following the travel section of stories.
@@ -462,6 +467,9 @@ newtab-section-unfollow-button = フォロー解除
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
 ## e.g. Blocked the politics section of stories.
 
+newtab-section-block-button = ブロックする
+newtab-section-blocked-button = ブロック中
+newtab-section-unblock-button = ブロック解除
 
 ## Confirmation modal for blocking a section
 
@@ -472,3 +480,10 @@ newtab-section-cancel-button = 後で
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+newtab-section-mangage-topics-title = トピック
+newtab-section-mangage-topics-button =
+    .label = フォロー中およびブロック中のトピック
+newtab-section-mangage-topics-followed-topics-subtitle = フォロー中のトピック
+newtab-section-mangage-topics-followed-topics-empty-state = フォローしているトピックはありません。
+newtab-section-mangage-topics-blocked-topics-subtitle = ブロック中のトピック
+newtab-section-mangage-topics-blocked-topics-empty-state = ブロックしているトピックはありません。
