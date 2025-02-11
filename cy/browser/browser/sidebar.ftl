@@ -58,6 +58,10 @@ sidebar-show-on-the-right =
     .label = Symud y bar ochr i'r dde
 sidebar-show-on-the-left =
     .label = Symud y bar ochr i'r chwith
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Ehangu'r bar ochr wrth hofran
 sidebar-horizontal-tabs =
     .label = Tabiau llorweddol
 sidebar-customize-tabs-header =
