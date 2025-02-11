@@ -62,6 +62,8 @@ split-dismiss-button-manage-settings-option-label = أدِر الإعدادات
 
 ## Sidebar Strings
 
+sidebar-button-callout-title = أظهِر عناوين الألسنة في الشريط الجانبي
+sidebar-button-callout-subtitle = استخدم زر الشريط الجانبي لتوسيع الشريط الجانبي حتى تتمكن من رؤية عناوين الألسنة.
 
 ## Sidebar Callout Survey Strings
 
@@ -77,5 +79,10 @@ sidebar-callout-survey-strongly-agree = أوافق بشدة
 sidebar-callout-survey-agree = أوافق
 sidebar-callout-survey-disagree = لا أوافق
 sidebar-callout-survey-strongly-disagree = لا أوافق أبدًا
+sidebar-callout-survey-none-of-above = لا شيء مما سبق
 sidebar-callout-survey-submit = أرسِل
 sidebar-callout-survey-thank-you = شكرًا على تعليقك!
+unified-search-callout-primary-label = التالي
+unified-search-callout-secondary-label = أهمِل
+unified-search-engines-callout-title = ابحث باستخدام اختصار
+unified-search-engines-callout-primary-label = فهمت
