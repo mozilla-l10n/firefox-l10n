@@ -102,3 +102,12 @@ unified-search-callout-secondary-label = Ignorer
 unified-search-engines-callout-title = Søk med ein snarveg
 unified-search-engines-callout-subtitle = Skriv «@» følgd av eit nøkkelord for å søkje i historikk, bokmerkee, faner, eller med ein annan søkjekmotor.
 unified-search-engines-callout-primary-label = Eg forstår
+actions-callout-title = Fullfør vanlege oppgåver eller få tilgang til grunnleggjande innstillingar
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearhistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = Prøv å skrive inn ei handling som «skriv ut» for å skrive ut ei side, eller «tøm» for å fjerne historikken.
