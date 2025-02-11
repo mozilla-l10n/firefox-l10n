@@ -39,5 +39,5 @@ create-profile-choose-folder =
     .label = ഫോള്‍ഡര്‍ തെരഞ്ഞെടുക്കുക
     .accesskey = C
 create-profile-use-default =
-    .label = സ്വതവേയുള്ള ഫോള്‍ഡര്‍ ഉപയോഗിക്കുക
+    .label = തനിമട്ട അറ ഉപയോഗിക്കുക
     .accesskey = U

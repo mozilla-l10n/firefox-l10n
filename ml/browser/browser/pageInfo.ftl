@@ -130,7 +130,7 @@ media-img = ചിത്രം
 media-bg-img = പശ്ചാത്തലം
 media-border-img = അതിരു്
 media-list-img = ബുള്ളറ്റു്
-media-cursor = കര്‍സര്‍
+media-cursor = ചൂണ്ടുവര
 media-object = ഒബ്ജെക്റ്റ്‌
 media-embed = ഉൾപ്പെടുത്തുക
 media-link = ഐക്കണ്‍
@@ -151,7 +151,7 @@ media-select-folder = ചിത്രങ്ങൾ കരുതിവയ്ക്
 media-unknown-not-cached =
     .value = അപരിചിതം (കാഷ് ചെയ്തിട്ടില്ലാത്ത)
 permissions-use-default =
-    .label = സ്വതവേയുള്ളതു് ഉപയോഗിക്കുക
+    .label = തനിമട്ടു് ഉപയോഗിക്കുക
 security-no-visits = ഇല്ല
 # This string is used to display the number of times
 # the user has visited the website prior

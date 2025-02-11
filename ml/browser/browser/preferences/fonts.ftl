@@ -99,6 +99,6 @@ fonts-allow-own =
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
-    .label = ഡിഫോള്‍ട്ട്‌ ({ $name })
+    .label = തനതു് ({ $name })
 fonts-label-default-unnamed =
     .label = തനിമട്ടു്

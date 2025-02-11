@@ -465,6 +465,6 @@ multi-profile-callout-cta = Crëwch broffil
 # If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
 desktop-to-mobile-headline = Llwytho i lawr, cydweddu, a mynd!
 # The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
-desktop-to-mobile-subtitle = Sganiwch y cod QR i lwytho { -brand-product-name } i lwr ar gyfer ffôn symudol. Ar ôl ei osod, dewiswch "Cydweddu â ffôn symudol" i gael mynediad at eich cyfrineiriau, nodau tudalen, a mwy wrth fynd.
+desktop-to-mobile-subtitle = Sganiwch y cod QR i lwytho { -brand-product-name } i lawr ar gyfer ffôn symudol. Ar ôl ei osod, dewiswch "Cydweddu â ffôn symudol" i gael mynediad at eich cyfrineiriau, nodau tudalen, a mwy wrth fynd.
 dismiss-button-label = Cau
-sync-to-mobile-button-label = Cydweddu i'r symudol
+sync-to-mobile-button-label = Cydweddu â'r symudol
