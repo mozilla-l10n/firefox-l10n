@@ -464,5 +464,7 @@ multi-profile-callout-cta = Profil załožić
 
 # If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
 desktop-to-mobile-headline = Sćehńće, synchronizujće, běh!
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Skenujće QR-kod, zo byšće { -brand-product-name } za mobilne graty sćahnył. Hdyž sće jón instalował, wubjerće „Z mobilnym gratom synchronizować“, zo byšće po puću přistup k swojim hesłam, zapołožkam a wjace dóstał.
 dismiss-button-label = Zaćisnyć
 sync-to-mobile-button-label = Z mobilnym gratom synchronizować

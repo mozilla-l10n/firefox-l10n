@@ -525,6 +525,7 @@ pdfjs-editor-undo-bar-close-button-label = Začinić
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-label = Tutón modalny dialog wužiwarjej zmóžnja, signaturu wutworić, zo by PDF-dokument přidał. Wužiwar móže mjeno wobdźěłać (kotrež tež jako alternatiwny tekst słuži) a po přeću signaturu za wospjetne wužiwanje składować.
 pdfjs-editor-add-signature-dialog-title = Signaturu přidać
 
 ## Tab names
