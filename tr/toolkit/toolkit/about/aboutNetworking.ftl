@@ -55,7 +55,7 @@ about-networking-rcwn-avg-long = Uzun ortalama
 about-networking-rcwn-std-dev-long = Uzun standart sapma
 about-networking-rcwn-cache-slow = Yavaş önbellek sayısı
 about-networking-rcwn-cache-not-slow = Yavaş olmayan önbellek sayısı
-about-networking-networkid = Ağ Kimliği
+about-networking-networkid = Ağ kimliği
 about-networking-networkid-id = Ağ Kimliği
 # Note: do not translate about:logging, as it is a URL.
 about-networking-moved-about-logging = Bu sayfa <a data-l10n-name="about-logging-url">about:logging</a>’e taşındı.
