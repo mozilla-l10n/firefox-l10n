@@ -58,6 +58,10 @@ sidebar-show-on-the-right =
     .label = გვერდითი ზოლის მარჯვნივ გადატანა
 sidebar-show-on-the-left =
     .label = გვერდითი ზოლის მარჯვნივ გადატანა
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = გვერდითი ზოლის გაშლა მაჩვენებლის გადატარებისას
 sidebar-horizontal-tabs =
     .label = თარაზული ჩანართები
 sidebar-customize-tabs-header =

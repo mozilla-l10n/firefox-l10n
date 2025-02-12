@@ -462,3 +462,9 @@ multi-profile-callout-cta = პროფილის შექმნა
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = ჩამოტვირთეთ, დაასინქრონეთ და გზას გაუდექით!
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = წააკითხეთ QR-კოდი, რომ ჩამოტვირთოთ { -brand-product-name } მობილურზე. დაყენების შემდეგ აირჩიეთ „დასინქრონება მობილურზე“ თქვენს პაროლებთან, სანიშნებთან და სხვა მასალებთან წვდომისთვის ნებისმიერი ადგილიდან.
+dismiss-button-label = აცილება
+sync-to-mobile-button-label = დასინქრონება მობილურზე
