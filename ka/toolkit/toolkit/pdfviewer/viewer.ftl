@@ -327,6 +327,8 @@ pdfjs-editor-remove-stamp-button =
     .title = სურათის მოცილება
 pdfjs-editor-remove-highlight-button =
     .title = მონიშვნის მოცილება
+pdfjs-editor-remove-signature-button =
+    .title = ხელმოწერის მოცილება
 
 ##
 
@@ -500,6 +502,7 @@ pdfjs-editor-undo-bar-message-highlight = მონიშვნა მოცი�
 pdfjs-editor-undo-bar-message-freetext = წარწერა მოცილებულია
 pdfjs-editor-undo-bar-message-ink = ნახატი მოცილებულია
 pdfjs-editor-undo-bar-message-stamp = სურათი მოცილებულია
+pdfjs-editor-undo-bar-message-signature = ხელმოწერა მოცილებულია
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple =
@@ -516,12 +519,26 @@ pdfjs-editor-undo-bar-close-button-label = დახურვა
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-title = ხელმოწერის დამატება
 
 ## Tab names
 
+# Type is a verb (you can type your name as signature)
+pdfjs-editor-add-signature-type-button = აკრეფა
+    .title = აკრეფა
+# Draw is a verb (you can draw your signature)
+pdfjs-editor-add-signature-draw-button = მოხაზვა
+    .title = მოხაზვა
+pdfjs-editor-add-signature-image-button = სურათი
+    .title = სურათი
 
 ## Tab panels
 
+pdfjs-editor-add-signature-type-input =
+    .aria-label = აკრიფეთ ხელმოწერა
+    .placeholder = აკრიფეთ ხელმოწერა
+pdfjs-editor-add-signature-draw-placeholder = მოხაზეთ ხელმოწერა
+pdfjs-editor-add-signature-draw-thickness-range-label = სისქე
 
 ## Controls
 

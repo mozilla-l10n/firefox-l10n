@@ -18,3 +18,4 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = ყველა გამეორებული ჩანართის დახურვა
 all-tabs-menu-synced-tabs =
     .label = ჩანართები სხვა მოწყობილობებიდან
+all-tabs-menu-current-window-header = მიმდინარე ფანჯარა
