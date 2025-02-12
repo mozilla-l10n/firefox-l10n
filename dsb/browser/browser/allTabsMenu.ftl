@@ -18,3 +18,4 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = Wšykne dwójne rejtariki zacyniś
 all-tabs-menu-synced-tabs =
     .label = Rejtariki z drugich rědow
+all-tabs-menu-current-window-header = Aktualne wokno
