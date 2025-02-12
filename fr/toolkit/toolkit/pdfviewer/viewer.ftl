@@ -323,6 +323,8 @@ pdfjs-editor-remove-stamp-button =
     .title = Supprimer l’image
 pdfjs-editor-remove-highlight-button =
     .title = Supprimer le surlignage
+pdfjs-editor-remove-signature-button =
+    .title = Retirer la signature
 
 ##
 
@@ -496,6 +498,7 @@ pdfjs-editor-undo-bar-message-highlight = Surlignage supprimé
 pdfjs-editor-undo-bar-message-freetext = Texte supprimé
 pdfjs-editor-undo-bar-message-ink = Dessin supprimé
 pdfjs-editor-undo-bar-message-stamp = Image supprimée
+pdfjs-editor-undo-bar-message-signature = Signature retirée
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple =
@@ -512,15 +515,54 @@ pdfjs-editor-undo-bar-close-button-label = Fermer
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-label = Cette fenêtre permet de créer une signature à ajouter à un document au format PDF. Il est possible d’en modifier le nom (qui sert également de texte alternatif) et, éventuellement, de l’enregistrer pour une utilisation répétée.
+pdfjs-editor-add-signature-dialog-title = Ajout d’une signature
 
 ## Tab names
 
+# Type is a verb (you can type your name as signature)
+pdfjs-editor-add-signature-type-button = Saisir
+    .title = Saisir au clavier
+# Draw is a verb (you can draw your signature)
+pdfjs-editor-add-signature-draw-button = Dessiner
+    .title = Dessiner
+pdfjs-editor-add-signature-image-button = Image
+    .title = Image
 
 ## Tab panels
 
+pdfjs-editor-add-signature-type-input =
+    .aria-label = Saisissez votre signature
+    .placeholder = Saisissez votre signature
+pdfjs-editor-add-signature-draw-placeholder = Tracez votre signature
+pdfjs-editor-add-signature-draw-thickness-range-label = Épaisseur
+# Variables:
+#   $thickness (Number) - the thickness (in pixels) of the line used to draw a signature.
+pdfjs-editor-add-signature-draw-thickness-range =
+    .title = Épaisseur du trait : { $thickness }
+pdfjs-editor-add-signature-image-placeholder = Déposez un fichier ici pour l’envoyer
+pdfjs-editor-add-signature-image-browse-link =
+    { PLATFORM() ->
+        [macos] Ou choisissez parmi les fichiers image
+       *[other] Ou parcourez les fichiers image
+    }
 
 ## Controls
 
+pdfjs-editor-add-signature-description-label = Description (texte alternatif)
+pdfjs-editor-add-signature-description-input =
+    .title = Description (texte alternatif)
+pdfjs-editor-add-signature-description-default-when-drawing = Signature
+pdfjs-editor-add-signature-clear-button-label = Effacer la signature
+pdfjs-editor-add-signature-clear-button =
+    .title = Effacer la signature
+pdfjs-editor-add-signature-save-checkbox = Enregistrer la signature
+pdfjs-editor-add-signature-save-warning-message = Vous avez atteint la limite de 5 signatures enregistrées. Supprimez-en une pour en enregistrer une autre.
+pdfjs-editor-add-signature-image-upload-error-title = Impossible d’envoyer l’image
+pdfjs-editor-add-signature-image-upload-error-description = Vérifiez votre connexion réseau ou essayez avec une autre image.
+pdfjs-editor-add-signature-error-close-button = Fermer
 
 ## Dialog buttons
 
+pdfjs-editor-add-signature-cancel-button = Annuler
+pdfjs-editor-add-signature-add-button = Ajouter

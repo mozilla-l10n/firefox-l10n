@@ -327,6 +327,8 @@ pdfjs-editor-remove-stamp-button =
     .title = Ofbylding fuortsmite
 pdfjs-editor-remove-highlight-button =
     .title = Markearring fuortsmite
+pdfjs-editor-remove-signature-button =
+    .title = Hantekening fuortsmite
 
 ##
 
