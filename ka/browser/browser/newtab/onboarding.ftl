@@ -446,7 +446,9 @@ onboarding-checklist-sign-up = შექმენით ან შედით �
 
 tab-groups-onboarding-feature-callout-title = მოსინჯეთ ჩანართების დაჯგუფება არეულობის ასარიდებლად და ყურადღების მოსაკრებად
 tab-groups-onboarding-feature-callout-subtitle = დაალაგეთ ჩანართები ერთიმეორის ზემოთ მოქცევით, რომ შეიქმნას პირველი ჯგუფი.
+tab-groups-onboarding-create-group-title = მონახეთ გახსნილი ჯგუფები ჩანართების ზოლზე ან მოძებნეთ მისამართების ველიდან.
 tab-groups-onboarding-saved-groups-title = ჩანართის ჯგუფი დახურვის შემთხვევაში, აქედან შეგეძლებათ კვლავ გახსნათ ნებისმიერ დროს.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title = მონახეთ თქვენი ჩანართების გახსნილი და დახურული ჯგუფები ნებისმიერ დროს მისამართების ველიდან მოძიებით.
 tab-groups-onboarding-dismiss = კარგი
 
 ## Multi Profiles feature onboarding messages
