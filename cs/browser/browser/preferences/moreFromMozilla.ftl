@@ -41,7 +41,7 @@ more-from-moz-learn-more-link = Zjistit více
 
 more-from-moz-firefox-relay-title = { -relay-brand-name }
 more-from-moz-firefox-relay-description = Chraňte svou e-mailovou schránku a svou identitu pomocí bezplatného maskování e-mailů.
-more-from-moz-firefox-relay-button = Získejte { -relay-brand-short-name(case: "acc") }
+more-from-moz-firefox-relay-button = Získat { -relay-brand-short-name(case: "acc") }
 
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
@@ -54,4 +54,4 @@ more-from-moz-mozilla-monitor-button = Získat { -monitor-brand-short-name(case:
 
 more-from-moz-solo-title = { -solo-ai-brand-name } AI
 more-from-moz-solo-description = Okamžitě si vytvořte webové stránky a zdarma připojte vlastní doménu.
-more-from-moz-solo-button = Vyzkoušejte { -solo-ai-brand-name }
+more-from-moz-solo-button = Vyzkoušet { -solo-ai-brand-name }
