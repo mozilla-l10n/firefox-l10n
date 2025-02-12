@@ -552,6 +552,9 @@ pdfjs-editor-add-signature-image-browse-link =
 
 ## Controls
 
+pdfjs-editor-add-signature-description-label = Açıklama (alt metin)
+pdfjs-editor-add-signature-description-input =
+    .title = Açıklama (alt metin)
 pdfjs-editor-add-signature-description-default-when-drawing = İmza
 pdfjs-editor-add-signature-clear-button-label = İmzayı temizle
 pdfjs-editor-add-signature-clear-button =

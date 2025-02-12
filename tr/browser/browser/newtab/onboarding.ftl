@@ -444,7 +444,9 @@ onboarding-checklist-sign-up = Hesap aç veya hesaba giriş yap
 
 tab-groups-onboarding-feature-callout-title = Dağınıklığı azaltarak daha iyi odaklanmak için sekme gruplarını deneyin
 tab-groups-onboarding-feature-callout-subtitle = İlk grubunuzu oluşturmak için sekmeleri üst üste sürükleyin.
+tab-groups-onboarding-create-group-title = Açık grupları sekme çubuğunda veya adres çubuğundan arayarak bulabilirsiniz.
 tab-groups-onboarding-saved-groups-title = Bir sekme grubunu kapatırsanız istediğiniz zaman buradan yeniden açabilirsiniz.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title = İstediğiniz zaman adres çubuğunda arama yaparak açık ve kapalı sekme gruplarınızı bulabilirsiniz.
 tab-groups-onboarding-dismiss = Tamam
 
 ## Multi Profiles feature onboarding messages
@@ -458,5 +460,9 @@ multi-profile-callout-cta = Profil oluştur
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = İndirin, eşitleyin ve gezinmeye başlayın!
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = { -brand-product-name } uygulamasını mobil cihazınıza indirmek için QR kodunu okutun. İndirdikten sonra parolalarınıza, yer imlerinize ve diğer bilgilerinize erişmek için “Mobil cihazla eşitle” seçeneğini seçin.
 dismiss-button-label = Kapat
 sync-to-mobile-button-label = Mobil cihazla eşitleyin
