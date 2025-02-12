@@ -18,3 +18,4 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = Cerrar todas las pestañas duplicadas
 all-tabs-menu-synced-tabs =
     .label = Pestañas de otros dispositivos
+all-tabs-menu-current-window-header = Ventana actual
