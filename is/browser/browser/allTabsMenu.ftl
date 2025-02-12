@@ -18,3 +18,4 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = Loka öllum tvíteknum flipum
 all-tabs-menu-synced-tabs =
     .label = Flipar frá öðrum tækjum
+all-tabs-menu-current-window-header = Núverandi gluggi
