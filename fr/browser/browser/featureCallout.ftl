@@ -64,6 +64,7 @@ split-dismiss-button-manage-settings-option-label = Gérer les paramètres
 
 sidebar-button-callout-title = Afficher le titre des onglets dans le panneau latéral
 sidebar-button-callout-subtitle = Utilisez le bouton du panneau latéral pour développer le panneau latéral, afin de voir le titre des onglets.
+sidebar-button-callout-vertical-tabs = Pour afficher vos onglets, cliquez sur le bouton du panneau latéral dans la barre d’outils.
 
 ## Sidebar Callout Survey Strings
 
@@ -94,3 +95,9 @@ sidebar-genai-survey-satisfaction-question = Quel est votre degré de satisfacti
 sidebar-genai-survey-productive-question =
     Jusqu’à quel point êtes vous d’accord ou non avec cette affirmation :<br/>
     « Le chatbot IA dans le panneau latéral me permet d’être plus efficace » ?
+unified-search-callout-title = Changer de moteur de recherche
+unified-search-callout-primary-label = Suivant
+unified-search-callout-secondary-label = Fermer
+unified-search-engines-callout-title = Rechercher avec un raccourci
+unified-search-engines-callout-subtitle = Saisissez « @ » suivi d’un mot-clé pour rechercher dans votre historique, vos marque-pages, vos onglets ou avec un autre moteur de recherche.
+unified-search-engines-callout-primary-label = J’ai compris
