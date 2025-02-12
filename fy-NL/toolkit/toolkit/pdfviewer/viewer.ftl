@@ -519,15 +519,54 @@ pdfjs-editor-undo-bar-close-button-label = Slute
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-label = Mei dizze modal kin de brûker in hantekening meitsje om oan in PDF-dokumint ta te foegjen. De brûker kin de namme bewurkje (dy't ek tsjinnet as alternative tekst), en opsjoneel de ûndertekening bewarje foar werhelle gebrûk.
+pdfjs-editor-add-signature-dialog-title = In hantekening tafoegje
 
 ## Tab names
 
+# Type is a verb (you can type your name as signature)
+pdfjs-editor-add-signature-type-button = Type
+    .title = Type
+# Draw is a verb (you can draw your signature)
+pdfjs-editor-add-signature-draw-button = Tekenje
+    .title = Tekenje
+pdfjs-editor-add-signature-image-button = Ofbylding
+    .title = Ofbylding
 
 ## Tab panels
 
+pdfjs-editor-add-signature-type-input =
+    .aria-label = Jo hantekening type
+    .placeholder = Jo hantekening type
+pdfjs-editor-add-signature-draw-placeholder = Jo hantekening tekenje
+pdfjs-editor-add-signature-draw-thickness-range-label = Tsjokte
+# Variables:
+#   $thickness (Number) - the thickness (in pixels) of the line used to draw a signature.
+pdfjs-editor-add-signature-draw-thickness-range =
+    .title = Tekentsjokte: { $thickness }
+pdfjs-editor-add-signature-image-placeholder = Sleep bestân hjirhinne om op te laden
+pdfjs-editor-add-signature-image-browse-link =
+    { PLATFORM() ->
+        [macos] Of kies ôfbyldingsbestannen
+       *[other] Of kies ôfbyldingsbestannen
+    }
 
 ## Controls
 
+pdfjs-editor-add-signature-description-label = Beskriuwing (alternative tekst)
+pdfjs-editor-add-signature-description-input =
+    .title = Beskriuwing (alternative tekst)
+pdfjs-editor-add-signature-description-default-when-drawing = Hantekening
+pdfjs-editor-add-signature-clear-button-label = Hantekening wiskje
+pdfjs-editor-add-signature-clear-button =
+    .title = Hantekening wiskje
+pdfjs-editor-add-signature-save-checkbox = Hantekening bewarje
+pdfjs-editor-add-signature-save-warning-message = Jo hawwe de limyt fan 5 bewarre hantekeningen berikt. Ferwiderje ien om in oar te bewarjen.
+pdfjs-editor-add-signature-image-upload-error-title = Kin de ôfbylding net oplade
+pdfjs-editor-add-signature-image-upload-error-description = Kontrolearje jo netwurkferbining of probearje in oare ôfbylding.
+pdfjs-editor-add-signature-error-close-button = Slute
 
 ## Dialog buttons
 
+pdfjs-editor-add-signature-cancel-button = Annulearje
+pdfjs-editor-add-signature-add-button = Tafoegje
