@@ -18,3 +18,4 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = Tüm yinelenen sekmeleri kapat
 all-tabs-menu-synced-tabs =
     .label = Diğer cihazlardaki sekmeler
+all-tabs-menu-current-window-header = Geçerli pencere
