@@ -50,6 +50,18 @@ sidebar-position-right =
     .label = Afficher à droite
 sidebar-vertical-tabs =
     .label = Onglets verticaux
+sidebar-settings =
+    .label = Paramètres du panneau latéral
+sidebar-hide-tabs-and-sidebar =
+    .label = Masquer les onglets et le panneau latéral
+sidebar-show-on-the-right =
+    .label = Déplacer le panneau latéral à droite
+sidebar-show-on-the-left =
+    .label = Déplacer le panneau latéral à gauche
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Déployer le panneau latéral au survol
 sidebar-horizontal-tabs =
     .label = Onglets horizontaux
 sidebar-customize-tabs-header =

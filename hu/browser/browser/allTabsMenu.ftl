@@ -18,3 +18,4 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = Összes ismétlődő lap bezárása
 all-tabs-menu-synced-tabs =
     .label = Lapok más eszközökről
+all-tabs-menu-current-window-header = Jelenlegi ablak

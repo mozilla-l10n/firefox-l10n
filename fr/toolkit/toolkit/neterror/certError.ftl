@@ -134,6 +134,7 @@ contentEncodingError-title = Erreur d’encodage de contenu
 unsafeContentType-title = Type de fichier non sûr
 netReset-title = La connexion a été réinitialisée
 netTimeout-title = Le délai d’attente est dépassé
+httpErrorPage-title = Il semble y avoir un problème sur ce site
 serverError-title = Il semble y avoir un problème sur ce site
 unknownProtocolFound-title = L’adresse n’a pas été reconnue
 proxyConnectFailure-title = La connexion a été refusée par le serveur proxy

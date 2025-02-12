@@ -519,6 +519,7 @@ pdfjs-editor-undo-bar-close-button-label = Bezárás
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-label = Ez a mód lehetővé teszi a felhasználónak, hogy aláírást hozzon létre, és ezt egy PDF dokumentumhoz adja. A felhasználó szerkesztheti a nevet (ez egyben alternatív szövegként is szolgál), és ismételt felhasználás céljából tetszés szerint mentheti az aláírást.
 pdfjs-editor-add-signature-dialog-title = Aláírás hozzáadása
 
 ## Tab names

@@ -8,6 +8,7 @@ crashreporter-crashed-and-restore = { -brand-short-name } a rencontré un probl�
 crashreporter-plea = Pour nous aider à diagnostiquer et corriger ce problème, vous pouvez nous envoyer un rapport de plantage.
 crashreporter-information = Cette application est exécutée après un plantage pour rapporter le problème survenu à { -vendor-short-name }. Elle ne doit pas être lancée directement.
 crashreporter-error = { -brand-short-name } a rencontré un problème et a planté. Malheureusement, le rapporteur de plantage n’est pas en mesure de transmettre un rapport pour ce plantage.
+crashreporter-error-details-header = Détails :
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Détails : { $details }
 crashreporter-no-run-message = Cette application est exécutée après un plantage pour rapporter le problème survenu à l’éditeur de l’application. Elle ne doit pas être lancée directement.

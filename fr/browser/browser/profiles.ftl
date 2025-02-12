@@ -44,6 +44,8 @@ new-profile-page-input-placeholder =
 new-profile-page-done-button =
     .label = Modifications terminées
 profile-window-title-2 = { -brand-short-name } - Choisissez un profil
+profile-window-logo =
+    .alt = Logo de { -brand-short-name }
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
@@ -95,3 +97,15 @@ profiles-system-theme = Système
 
 ## Alternative text for default profile icons
 
+book-avatar-alt =
+    .alt = Livre
+briefcase-avatar-alt =
+    .alt = Mallette
+flower-avatar-alt =
+    .alt = Fleur
+heart-avatar-alt =
+    .alt = Cœur
+shopping-avatar-alt =
+    .alt = Chariot
+star-avatar-alt =
+    .alt = Étoile

@@ -225,6 +225,16 @@ containers-remove-cancel-button = Ne pas supprimer ce conteneur
 settings-tabs-show-image-in-preview =
     .label = Afficher un aperçu au survol des onglets
     .accessKey = A
+browser-layout-header = Disposition du navigateur
+browser-layout-horizontal-tabs =
+    .label = Onglets horizontaux
+browser-layout-horizontal-tabs-desc = Onglets affichés en haut du navigateur
+browser-layout-vertical-tabs =
+    .label = Onglets verticaux
+browser-layout-vertical-tabs-desc = Onglets affichés sur le côté, dans le panneau latéral
+browser-layout-show-sidebar =
+    .label = Afficher le panneau latéral
+browser-layout-show-sidebar-desc = Accédez rapidement aux marque-pages, aux onglets de votre téléphone, aux chatbots IA et encore plus sans quitter l’affichage principal.
 
 ## General Section - Language & Appearance
 
@@ -1307,6 +1317,8 @@ permissions-addon-exceptions =
 collection-header = Collecte de données par { -brand-short-name } et utilisation
 collection-header2 = Collecte de données par { -brand-short-name } et utilisation
     .searchkeywords = télémétrie
+preferences-collection-description = Nous nous efforçons de vous laisser le choix et de ne recueillir que le minimum de données nécessaires à l’amélioration de { -brand-product-name } pour tout le monde.
+preferences-collection-privacy-notice = Consulter la politique de confidentialité
 collection-description = Nous nous efforçons de vous laisser le choix et de recueillir uniquement les informations dont nous avons besoin pour proposer { -brand-short-name } et l’améliorer pour tout le monde. Nous demandons toujours votre permission avant de recevoir des données personnelles.
 collection-privacy-notice = Politique de confidentialité
 collection-health-report-telemetry-disabled = Vous n’autorisez plus { -vendor-short-name } à capturer des données techniques et d’interaction. Toutes les données passées seront supprimées dans les 30 jours.
@@ -1322,6 +1334,7 @@ collection-health-report =
     .label = Autoriser { -brand-short-name } à envoyer des données techniques et des données d’interaction à { -vendor-short-name }
     .accesskey = A
 collection-health-report-link = En savoir plus
+collection-health-report-description = Ce partage nous aide à améliorer les fonctionnalités, les performances et la stabilité de { -brand-product-name }.
 collection-studies2 =
     .label = Installer et lancer des études
 collection-studies-description = Testez des fonctionnalités et des idées avant qu’elles ne soient disponibles pour tout le monde.
@@ -1405,6 +1418,8 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } n’a plus assez 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Mode HTTPS uniquement
+httpsonly-description3 = Ce mode autorise seulement les connexions sécurisées aux sites web. { -brand-short-name } demande avant d’établir une connexion non sécurisée.
+httpsonly-learn-more2 = Fonctionnement du mode HTTPS uniquement
 httpsonly-description = HTTPS procure une connexion sûre et chiffrée entre { -brand-short-name } et les sites web sur lesquels vous vous rendez. La plupart des sites web prennent en charge HTTPS. Si le mode HTTPS uniquement est activé, { -brand-short-name } surclassera alors toutes les connexions en HTTPS.
 httpsonly-description2 = { -brand-short-name } établit des connexions sécurisées et chiffrées avec les sites que vous visitez. { -brand-short-name } vous avertira si une connexion n’est pas sécurisée lorsque « HTTPS uniquement » est activé.
 httpsonly-learn-more = En savoir plus
@@ -1414,6 +1429,9 @@ httpsonly-radio-enabled2 =
     .label = Utiliser uniquement HTTPS dans toutes les fenêtres
 httpsonly-radio-enabled-pbm =
     .label = Activer le mode HTTPS uniquement dans les fenêtres privées seulement
+httpsonly-radio-disabled3 =
+    .label = Ne pas activer le mode HTTPS uniquement
+    .description = { -brand-short-name } peut tout de même surclasser certaines connexions
 httpsonly-radio-enabled-pbm2 =
     .label = Utiliser uniquement HTTPS dans les fenêtres de navigation privée
 httpsonly-radio-disabled =

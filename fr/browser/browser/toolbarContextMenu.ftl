@@ -30,6 +30,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Rouvrir les onglets fermés
         }
     .accesskey = o
+toolbar-context-turn-on-vertical-tabs =
+    .label = Activer les onglets verticaux
+toolbar-context-turn-off-vertical-tabs =
+    .label = Désactiver les onglets verticaux
+toolbar-context-customize-sidebar =
+    .label = Personnaliser le panneau latéral
 toolbar-context-menu-manage-extension =
     .label = Gérer l’extension
     .accesskey = G
