@@ -446,6 +446,10 @@ onboarding-checklist-sign-up = Créer un compte ou vous connecter
 
 tab-groups-onboarding-feature-callout-title = Essayez les groupes d’onglets pour moins de distractions, plus de concentration
 tab-groups-onboarding-feature-callout-subtitle = Organisez vos onglets en faisant glisser un onglet au-dessus d’un autre pour créer votre premier groupe.
+tab-groups-onboarding-create-group-title = Retrouvez les groupes ouverts dans la barre d’onglets ou recherchez-les dans la barre d’adresse.
+tab-groups-onboarding-saved-groups-title = Si vous fermez un groupe d’onglets, vous pouvez le rouvrir ici à tout moment.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title = Retrouvez à tout moment vos groupes d’onglets ouverts ou fermés en les recherchant dans la barre d’adresse.
+tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages
 
@@ -458,3 +462,8 @@ multi-profile-callout-cta = Créer un profil
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = Téléchargez, synchronisez et c’est parti !
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Scannez le code QR pour télécharger { -brand-product-name } pour mobile. Une fois l’installation terminée, sélectionnez « Synchroniser avec votre appareil mobile » pour accéder à vos mots de passe, marque-pages et bien plus encore lors de vos déplacements.
+sync-to-mobile-button-label = Synchroniser avec votre appareil mobile
