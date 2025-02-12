@@ -519,6 +519,7 @@ pdfjs-editor-undo-bar-close-button-label = დახურვა
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-label = ეს არე საშუალებას აძლევს მომხმარებელს, შექმნას საკუთარი ხელმოწერა PDF-დოკუმენტისთვის. მომხმარებელს შეეძლება ჩაასწოროს სახელი (რომელიც დართული ტექსტის მოვალეობასაც ასრულებს) და სურვილისამებრ შეინახოს ხელმოწერა განმეორებით გამოსაყენებლად.
 pdfjs-editor-add-signature-dialog-title = ხელმოწერის დამატება
 
 ## Tab names
@@ -539,9 +540,33 @@ pdfjs-editor-add-signature-type-input =
     .placeholder = აკრიფეთ ხელმოწერა
 pdfjs-editor-add-signature-draw-placeholder = მოხაზეთ ხელმოწერა
 pdfjs-editor-add-signature-draw-thickness-range-label = სისქე
+# Variables:
+#   $thickness (Number) - the thickness (in pixels) of the line used to draw a signature.
+pdfjs-editor-add-signature-draw-thickness-range =
+    .title = მოხაზულის სისქე: { $thickness }
+pdfjs-editor-add-signature-image-placeholder = ჩავლებით გადმოიტანეთ ასატვირთად
+pdfjs-editor-add-signature-image-browse-link =
+    { PLATFORM() ->
+        [macos] ან ამოარჩიეთ სურათებიდან
+       *[other] ან ამოარჩიეთ სურათებიდან
+    }
 
 ## Controls
 
+pdfjs-editor-add-signature-description-label = აღწერილობა (დართული ტექსტი)
+pdfjs-editor-add-signature-description-input =
+    .title = აღწერილობა (დართული ტექსტი)
+pdfjs-editor-add-signature-description-default-when-drawing = ხელმოწერა
+pdfjs-editor-add-signature-clear-button-label = ხელმოწერის წაშლა
+pdfjs-editor-add-signature-clear-button =
+    .title = ხელმოწერის წაშლა
+pdfjs-editor-add-signature-save-checkbox = ხელმოწერის შენახვა
+pdfjs-editor-add-signature-save-warning-message = მიღწეულია 5 ხელმოწერის შენახვის ზღვარი. მოაცილეთ რომელიმე ახლის შესანახად.
+pdfjs-editor-add-signature-image-upload-error-title = ვერ აიტვირთა სურათი
+pdfjs-editor-add-signature-image-upload-error-description = შეამოწმეთ ქსელთან კავშირი ან მოსინჯეთ სხვა სურათი.
+pdfjs-editor-add-signature-error-close-button = დახურვა
 
 ## Dialog buttons
 
+pdfjs-editor-add-signature-cancel-button = გაუქმება
+pdfjs-editor-add-signature-add-button = დამატება

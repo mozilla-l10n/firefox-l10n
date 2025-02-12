@@ -59,6 +59,11 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = გიპასუხებთ { $provider }
+genai-menu-remove-generic =
+    .label = AI-თანამოსაუბრის მოცილება
+# $provider (string) - name of the provider
+genai-menu-remove-provider =
+    .label = მოცილდეს { $provider }
 genai-input-ask-generic =
     .placeholder = ჰკითხეთ AI-თანამოსაუბრეს…
 # $provider (string) - name of the provider
