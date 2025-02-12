@@ -58,6 +58,10 @@ sidebar-show-on-the-right =
     .label = Zijbalk naar rechts verplaatsen
 sidebar-show-on-the-left =
     .label = Zijbalk naar links verplaatsen
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Zijbalk bij aanwijzen uitvouwen
 sidebar-horizontal-tabs =
     .label = Horizontale tabbladen
 sidebar-customize-tabs-header =

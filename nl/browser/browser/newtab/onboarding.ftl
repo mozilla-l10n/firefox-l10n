@@ -446,7 +446,9 @@ onboarding-checklist-sign-up = Registreren of aanmelden bij uw account
 
 tab-groups-onboarding-feature-callout-title = Probeer tabbladgroepen voor minder rommel, meer focus
 tab-groups-onboarding-feature-callout-subtitle = Orden door het ene tabblad op het andere te slepen om uw eerste groep aan te maken.
+tab-groups-onboarding-create-group-title = Vind uw open groepen op de tabbladenbalk of door ernaar te zoeken in de adresbalk.
 tab-groups-onboarding-saved-groups-title = Als u een tabbladgroep sluit, kunt u deze hier altijd opnieuw openen.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title = Vind op elk gewenst moment uw open of gesloten tabbladgroepen door in de adresbalk te zoeken.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages
@@ -460,3 +462,9 @@ multi-profile-callout-cta = Een profiel aanmaken
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = Downloaden, synchroniseren en gaan!
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Scan de QR-code om { -brand-product-name } voor mobiel te downloaden. Selecteer na installatie ‘Synchroniseren met mobiel’ om onderweg toegang tot uw wachtwoorden, bladwijzers en meer te krijgen.
+dismiss-button-label = Sluiten
+sync-to-mobile-button-label = Synchroniseren met mobiel
