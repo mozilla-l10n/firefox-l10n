@@ -18,3 +18,4 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = סגירת כל הלשוניות הכפולות
 all-tabs-menu-synced-tabs =
     .label = לשוניות ממכשירים אחרים
+all-tabs-menu-current-window-header = החלון הנוכחי
