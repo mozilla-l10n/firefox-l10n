@@ -18,3 +18,4 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = Пӯшидани ҳамаи варақаҳои такрорӣ
 all-tabs-menu-synced-tabs =
     .label = Варақаҳо аз дастгоҳҳои дигар
+all-tabs-menu-current-window-header = Равзанаи ҷорӣ

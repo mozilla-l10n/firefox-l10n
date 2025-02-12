@@ -46,10 +46,10 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Рад кардан
     .accesskey = D
-webext-perms-host-description-all-urls = Дастрас кардани маълумоти шумо барои ҳамаи сомонаҳо
+webext-perms-host-description-all-urls = Пайдо кардани дастрасӣ ба маълумоти худ барои ҳамаи сомонаҳо
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
-webext-perms-host-description-wildcard = Дастрас кардани маълумоти шумо барои сомонаҳо дар домени { $domain }
+webext-perms-host-description-wildcard = Пайдо кардани дастрасӣ ба маълумоти худ барои сомонаҳо дар домени { $domain }
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -72,7 +72,7 @@ webext-perms-host-description-too-many-sites =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).
-webext-perms-host-description-one-domain = Дастрас кардани маълумоти шумо барои сомонаҳо дар доменҳои { $domain }
+webext-perms-host-description-one-domain = Пайдо кардани дастрасӣ ба маълумоти худ барои сомонаҳо дар доменҳои { $domain }
 # Permission string used for webextensions requesting access to 2 or more domains (and so $domainCount is expected to always
 # be >= 2, for webextensions requesting access to only one domain the `webext-perms-host-description-one-domain` string is
 # used instead).
@@ -81,7 +81,7 @@ webext-perms-host-description-one-domain = Дастрас кардани маъ�
 #     (the list of domains will follow this string).
 webext-perms-host-description-multiple-domains =
     { $domainCount ->
-       *[other] Дастрас кардани маълумоти шумо барои сомонаҳо дар { $domainCount } домен
+       *[other] Пайдо кардани дастрасӣ ба маълумоти худ барои сомонаҳо дар { $domainCount } домен
     }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
