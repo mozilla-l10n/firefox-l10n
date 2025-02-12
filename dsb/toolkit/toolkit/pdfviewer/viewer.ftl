@@ -525,6 +525,7 @@ pdfjs-editor-undo-bar-close-button-label = Zacyniś
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-label = Toś ten modalny dialog wužywarjeju zmóžnja, signaturu napóraś, aby PDF-dokument pśidał. Wužywaŕ móžo mě wobźěłaś (kótarež teke ako alternatiwny tekst słužy) a pó žycenju signaturu za wóspjetne wužywanje składowaś.
 pdfjs-editor-add-signature-dialog-title = Signaturu pśidaś
 
 ## Tab names
@@ -566,6 +567,7 @@ pdfjs-editor-add-signature-clear-button-label = Signaturu lašowaś
 pdfjs-editor-add-signature-clear-button =
     .title = Signaturu lašowaś
 pdfjs-editor-add-signature-save-checkbox = Signaturu składowaś
+pdfjs-editor-add-signature-save-warning-message = Sćo dojśpił limit 5 skłaźonych signaturow. Wótwónoźćo jadnu, aby wěcej składował.
 pdfjs-editor-add-signature-image-upload-error-title = Wobraz njedajo se nagraś
 pdfjs-editor-add-signature-image-upload-error-description = Pśeglědajśo swój seśowy zwisk abo wopytajśo drugi wobraz.
 pdfjs-editor-add-signature-error-close-button = Zacyniś

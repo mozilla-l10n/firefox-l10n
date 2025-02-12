@@ -58,6 +58,10 @@ sidebar-show-on-the-right =
     .label = Bocnicu napšawo pśesunuś
 sidebar-show-on-the-left =
     .label = Bocnicu nalěwo pśesunuś
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Bocnicu pód kursorom pokazaś
 sidebar-horizontal-tabs =
     .label = Horicontalne rejtariki
 sidebar-customize-tabs-header =
