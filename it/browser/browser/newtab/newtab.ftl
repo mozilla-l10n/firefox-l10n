@@ -490,4 +490,3 @@ newtab-section-mangage-topics-followed-topics-subtitle = Argomenti seguiti
 newtab-section-mangage-topics-followed-topics-empty-state = Non hai ancora seguito alcun argomento.
 newtab-section-mangage-topics-blocked-topics-subtitle = Argomenti bloccati
 newtab-section-mangage-topics-blocked-topics-empty-state = Non hai ancora bloccato alcun argomento.
-
