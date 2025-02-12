@@ -43,6 +43,12 @@ fxviewtabrow-save-to-pocket = ບັນທືກໄປທີ່ { -pocket-brand-
     .accesskey = o
 fxviewtabrow-copy-link = ສຳເນົາລິ້ງ
     .accesskey = L
+fxviewtabrow-send-tab = ສົ່ງແທັບໄປຫາອຸປະກອນ
+    .accesskey = n
+fxviewtabrow-pin-tab = ປັກໝຸດແຖບ
+    .accesskey = P
+fxviewtabrow-unpin-tab = ຖອນປັກໝຸດແຖບ
+    .accesskey = p
 
 ## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
 

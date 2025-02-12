@@ -29,6 +29,8 @@ firefox-relay-opt-in-title-a = ປ້ອງກັນສະແປມດ້ວຍ�
 firefox-relay-opt-in-subtitle-a = ເຊື່ອງທີ່ຢູ່ອີເມວທີ່ແທ້ຂອງທ່ານ
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
 firefox-relay-opt-in-title-b = ຮັບໂຕປົກປິດອີເມວຟຣີ
+# This is preceded by firefox-relay-opt-in-title-b (on a different line)
+firefox-relay-opt-in-subtitle-b = ປົກປ້ອງ inbox ຂອງທ່ານຈາກ spam
 firefox-relay-opt-in-confirmation-enable-button =
     .label = ໃຊ້ຫນ້າກາກອີເມວ
     .accesskey = U
@@ -41,15 +43,20 @@ firefox-relay-opt-in-confirmation-postpone =
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
     .label = ລົງ​ທະ​ບຽນ
     .accesskey = S
+firefox-relay-and-fxa-opt-in-confirmation-disable =
+    .label = ຢ່າສະແດງສິ່ງນີ້ໃຫ້ຂ້ອຍເຫັນອີກ
+    .accesskey = D
 firefox-relay-and-fxa-opt-in-confirmation-postpone =
     .label = ບໍ່ແມ່ນຕອນນີ້
     .accesskey = N
 
 ## The "control" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-second-sentence-control = ທໍາອິດ, ລົງທະບຽນ ຫຼື ເຂົ້າສູ່ລະບົບບັນຊີຂອງທ່ານເພື່ອໃຊ້ໂຕປົກປິດອີເມວ
 
 ## The "basic-info" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-basic-info = ປ້ອງກັນສະແປມດ້ວຍໂຕປົກປິດອີເມວຟຣີ
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = ລົງ​ທະ​ບຽນ
     .accesskey = S

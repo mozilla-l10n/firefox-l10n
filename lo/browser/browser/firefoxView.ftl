@@ -193,6 +193,7 @@ firefoxview-dont-remember-history-empty-header = ບໍ່ມີຫຍັງທ�
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
+firefoxview-syncedtabs-device-notabs = ບໍ່ມີແຖບເປີດຢູ່ໃນອຸປະກອນນີ້
 firefoxview-syncedtabs-connect-another-device = ເຊື່ອມຕໍ່ກັບອຸປະກອນອື່ນ
 firefoxview-pinned-tabs =
     .title = ແຖບທີ່ປັກໝຸດໄວ້
