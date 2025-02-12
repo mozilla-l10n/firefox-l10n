@@ -553,6 +553,11 @@ pdfjs-editor-add-signature-image-browse-link =
 
 ## Controls
 
+pdfjs-editor-add-signature-description-label = תיאור (טקסט חלופי)
+pdfjs-editor-add-signature-description-input =
+    .title = תיאור (טקסט חלופי)
+pdfjs-editor-add-signature-description-default-when-drawing = חתימה
+pdfjs-editor-add-signature-clear-button-label = ניקוי חתימה
 pdfjs-editor-add-signature-clear-button =
     .title = ניקוי חתימה
 pdfjs-editor-add-signature-save-checkbox = שמירת החתימה
