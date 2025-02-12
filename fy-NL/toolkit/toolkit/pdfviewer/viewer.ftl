@@ -502,6 +502,7 @@ pdfjs-editor-undo-bar-message-highlight = Markearring fuortsmiten
 pdfjs-editor-undo-bar-message-freetext = Tekst fuortsmiten
 pdfjs-editor-undo-bar-message-ink = Tekening fuortsmiten
 pdfjs-editor-undo-bar-message-stamp = Ofbylding fuortsmiten
+pdfjs-editor-undo-bar-message-signature = Hantekening fuortsmiten
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple =
