@@ -18,3 +18,4 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = Закрыть все дублирующиеся вкладки
 all-tabs-menu-synced-tabs =
     .label = Вкладки с других устройств
+all-tabs-menu-current-window-header = Текущее окно
