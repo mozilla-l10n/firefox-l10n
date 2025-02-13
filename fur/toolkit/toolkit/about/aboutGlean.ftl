@@ -12,6 +12,9 @@ glean-debug-ping-viewer-brand-name = Visualizadôr ping pal debug di { -glean-br
 about-glean-page-title2 = Informazions su { -glean-brand-name }
 about-glean-header = Informazions su { -glean-brand-name }
 about-glean-interface-description = <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a> e je une librarie pe racuelte di dâts, doprade tai progjets di { -vendor-short-name }. Cheste interface e je progjetade par permeti ai svilupadôrs e tester di <a data-l10n-name="fog-link">fâ provis manuâls de strumentazion</a>.
+about-glean-category-about-glean = Informazions su { -glean-brand-name }
+about-glean-category-manual-testing = Prove manuâl
+about-glean-category-adhoc-testing = Prove ad hoc
 about-glean-upload-enabled = Il cjariament in rêt dai dâts al è atîf.
 about-glean-upload-disabled = Il cjariament in rêt dai dâts al è disativât.
 about-glean-upload-enabled-local = Il cjariament in rêt dai dâts al è atîf dome par mandâ suntun servidôr locâl.
