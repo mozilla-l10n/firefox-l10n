@@ -170,6 +170,7 @@ shortcuts-sidebarAction = അണിവക്കം ടോഗിൾ ചെയ്�
 
 ## Pending uninstall message bar
 
+pending-uninstall-undo-button = പഴയപടിയാക്കുക
 
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
