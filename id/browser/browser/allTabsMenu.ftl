@@ -18,3 +18,4 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = Tutup semua tab berganda
 all-tabs-menu-synced-tabs =
     .label = Tab dari perangkat lain
+all-tabs-menu-current-window-header = Jendela saat ini

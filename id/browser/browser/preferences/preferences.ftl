@@ -213,6 +213,15 @@ containers-remove-cancel-button = Jangan hapus Kontainer ini
 settings-tabs-show-image-in-preview =
     .label = Tampilkan pratinjau gambar saat mengarahkan kursor pada tab
     .accessKey = p
+browser-layout-horizontal-tabs =
+    .label = Tab horizontal
+browser-layout-horizontal-tabs-desc = Tampilkan di bagian atas peramban
+browser-layout-vertical-tabs =
+    .label = Tab vertikal
+browser-layout-vertical-tabs-desc = Tampilkan di samping, di bilah samping
+browser-layout-show-sidebar =
+    .label = Tampilkan bilah samping
+browser-layout-show-sidebar-desc = Akses markah, tab dari ponsel Anda, chatbot AI, dan lainnya dengan cepat tanpa meninggalkan tampilan utama Anda.
 
 ## General Section - Language & Appearance
 
@@ -1291,6 +1300,7 @@ permissions-addon-exceptions =
 collection-header = Pengumpulan dan Penggunaan Data { -brand-short-name }
 collection-header2 = Pengumpulan dan Penggunaan Data { -brand-short-name }
     .searchkeywords = telemetri
+preferences-collection-description = Kami berusaha untuk memberi Anda pilihan dan hanya mengumpulkan data minimal yang diperlukan untuk meningkatkan { -brand-product-name } bagi semua orang.
 collection-description = Kami berusaha memberi Anda pilihan dan mengumpulkan hanya apa yang kami butuhkan untuk menyediakan dan meningkatkan { -brand-short-name } bagi semua orang. Kami selalu meminta izin sebelum menerima informasi pribadi.
 collection-privacy-notice = Pemberitahuan Privasi
 collection-health-report-telemetry-disabled = Anda tidak lagi mengizinkan { -vendor-short-name } untuk menangkap data teknis dan interaksi. Semua data sebelumnya akan dihapus dalam waktu 30 hari.

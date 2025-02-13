@@ -64,6 +64,7 @@ split-dismiss-button-manage-settings-option-label = Kelola pengaturan
 
 sidebar-button-callout-title = Tampilkan judul tab di bilah samping
 sidebar-button-callout-subtitle = Gunakan tombol bilah samping untuk memperluas bilah samping, sehingga Anda dapat melihat judul tab.
+sidebar-button-callout-vertical-tabs = Untuk menampilkan tab Anda, pilih tombol bilah samping di bilah alat.
 
 ## Sidebar Callout Survey Strings
 
@@ -94,3 +95,16 @@ sidebar-genai-survey-satisfaction-question = Seberapa puaskah Anda dengan akses 
 sidebar-genai-survey-productive-question =
     Sejauh mana Anda setuju atau tidak setuju dengan pernyataan ini:<br/>
     “Bot obrolan AI di bilah samping membantu saya menjadi lebih produktif”?
+unified-search-callout-primary-label = Selanjutnya
+unified-search-engines-callout-title = Cari dengan pintasan
+unified-search-engines-callout-subtitle = Ketik “@” diikuti dengan kata kunci untuk mencari riwayat, markah, tab, atau dengan mesin pencari lainnya.
+unified-search-engines-callout-primary-label = Paham
+actions-callout-title = Selesaikan tugas umum atau akses pengaturan dasar
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearhistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = Coba ketikkan tindakan seperti "cetak" untuk mencetak laman, atau "hapus" untuk menghapus riwayat Anda.

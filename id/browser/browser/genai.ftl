@@ -55,6 +55,8 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Tanyakan { $provider }
+genai-menu-remove-generic =
+    .label = Hapus chatbot AI
 genai-input-ask-generic =
     .placeholder = Tanyakan chatbot AI…
 # $provider (string) - name of the provider
