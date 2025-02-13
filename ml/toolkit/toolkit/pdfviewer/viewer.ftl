@@ -357,9 +357,21 @@ pdfjs-editor-undo-bar-close-button-label = അടയ്ക്കുക
 
 ## Tab panels
 
+pdfjs-editor-add-signature-draw-thickness-range-label = കനം
 
 ## Controls
 
+pdfjs-editor-add-signature-description-default-when-drawing = ഒപ്പു്
+pdfjs-editor-add-signature-clear-button-label = ഒപ്പു് മായ്ക്കുക
+pdfjs-editor-add-signature-clear-button =
+    .title = ഒപ്പു് മായ്ക്കുക
+pdfjs-editor-add-signature-save-checkbox = ഒപ്പു് കരുതിവയ്ക്കുക
+pdfjs-editor-add-signature-save-warning-message = താങ്ങളുടെ ഒപ്പുകളുടെ എണ്ണം 5 ആയി. കൂടുതൽ കരുതിവയ്ക്കാൻ വേണ്ടി ഒരെണ്ണം മാറ്റണ്ടിവരും.
+pdfjs-editor-add-signature-image-upload-error-title = ചിത്രം കയറ്റുവയ്ക്കാൻ പറ്റിയില്ല
+pdfjs-editor-add-signature-image-upload-error-description = താങ്ങളുടെ ശൃംഖല സമ്പൎക്കം പരിശോധിക്കുക അല്ലെങ്കിൽ വേറെയൊരു ചിത്രം ഇട്ടുനോക്കുക
+pdfjs-editor-add-signature-error-close-button = അടയ്ക്കുക
 
 ## Dialog buttons
 
+pdfjs-editor-add-signature-cancel-button = റദ്ദാക്കുക
+pdfjs-editor-add-signature-add-button = ചേൎക്കുക
