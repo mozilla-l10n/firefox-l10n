@@ -48,3 +48,35 @@ sync-setup-verify-description = Un altri utent al è jentrât prime par sincroni
 
 # Dialog 1 - different account signing in without option to merge
 sync-profile-different-account-title = Si è rivâts al limit di accounts par chest profîl
+sync-profile-different-account-header = Chest profîl al è stât sincronizât prime cuntun altri account
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+sync-profile-different-account-description = Par tignî i tiei dâts organizâts e al sigûr, ogni profîl di { -brand-product-name } al pues vignî sincronizât dome cuntun account. Par jentrâ doprant { $acctEmail }, cree un gnûf profîl.
+# Dialog 1 - different account signing in with merge option
+sync-profile-different-account-title-merge = Profîl sincronizât cuntun altri account
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $profileName (String) - Name of the current profile
+sync-profile-different-account-description-merge = Par mantignî organizâts e al sigûr i tiei dâts, ti conseìn di creâ un gnûf profîl par jentrâ doprant { $acctEmail }. Se tu sielzis di continuâ la sincronizazion in chest profîl, i dâts di ducj i doi i accounts a vignaran metûts adun in mût permanent in “{ $profileName }”.
+# Dialog 2 - account signed in on another profile without option to merge
+sync-account-in-use-header = Account za in ûs
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $otherProfile (String) - Name of the other profile that is associated with the account
+sync-account-in-use-header-merge = { $acctEmail } al è za doprât tal profîl “{ $otherProfile }”.
+sync-account-in-use-description = Tu puedis associâ chest account a un sôl profîl su chest computer.
+# Dialog 2 - account signed in on another profile with merge option
+sync-account-already-signed-in-header = Chest account al è doprât intun altri profîl. Sincronizâ ducj i doi i profîi?
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $currentProfile (String): Name of the current profile signing in
+#   $otherProfile (String): Name of the profile that is already signed in
+sync-account-in-use-description-merge = { $acctEmail } al è doprât tal profîl “{ $otherProfile }” su chest computer. Sincronizant il profîl “{ $currentProfile }” a vignaran cumbinâts in mût permanent i dâts di ducj i doi i profîi, come passwords e segnelibris.
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-switch-profile = Passe a “{ $profileName }”
+sync-button-create-profile = Cree un gnûf profîl
+sync-button-sync-and-merge = Sincronize e met adun i dâts
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-sync-profile = Sincronize “{ $profileName }”
