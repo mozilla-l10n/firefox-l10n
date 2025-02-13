@@ -84,6 +84,14 @@ pdfjs-document-properties-button-label = രേഖയുടെ വിശേഷ�
 pdfjs-document-properties-file-name = ഫയലിന്റെ പേര്‌:
 pdfjs-document-properties-file-size = ഫയലിന്റെ വലിപ്പം:‌‌
 # Variables:
+#   $kb (Number) - the PDF file size in kilobytes
+#   $b (Number) - the PDF file size in bytes
+pdfjs-document-properties-size-kb = { NUMBER($kb, maximumSignificantDigits: 3) } KB ({ $b } ബൈറ്റുകൾ)
+# Variables:
+#   $mb (Number) - the PDF file size in megabytes
+#   $b (Number) - the PDF file size in bytes
+pdfjs-document-properties-size-mb = { NUMBER($mb, maximumSignificantDigits: 3) } MB ({ $b } ബൈറ്റുകൾ)
+# Variables:
 #   $size_kb (Number) - the PDF file size in kilobytes
 #   $size_b (Number) - the PDF file size in bytes
 pdfjs-document-properties-kb = { $size_kb } കെബി ({ $size_b } ബൈറ്റുകള്‍)
