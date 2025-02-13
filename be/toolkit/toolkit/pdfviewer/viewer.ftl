@@ -528,6 +528,10 @@ pdfjs-editor-undo-bar-close-button-label = Закрыць
 
 ## Controls
 
+pdfjs-editor-add-signature-clear-button-label = Выдаліць подпіс
+pdfjs-editor-add-signature-clear-button =
+    .title = Выдаліць подпіс
+pdfjs-editor-add-signature-save-checkbox = Захаваць подпіс
 pdfjs-editor-add-signature-error-close-button = Закрыць
 
 ## Dialog buttons

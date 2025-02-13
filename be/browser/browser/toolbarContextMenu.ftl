@@ -31,6 +31,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[many] Пераадкрыць закрытыя карткі
         }
     .accesskey = з
+toolbar-context-turn-on-vertical-tabs =
+    .label = Уключыць вертыкальныя карткі
+toolbar-context-turn-off-vertical-tabs =
+    .label = Выключыць вертыкальныя карткі
+toolbar-context-customize-sidebar =
+    .label = Уладкаваць бакавую панэль
 toolbar-context-menu-manage-extension =
     .label = Кіраваць пашырэннем
     .accesskey = К
