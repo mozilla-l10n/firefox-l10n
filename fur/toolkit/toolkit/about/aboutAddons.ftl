@@ -302,6 +302,9 @@ find-more-themes = Cjate plui temis
 # used for screen readers.
 addon-options-button =
     .aria-label = Plui opzions
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro2 = Estensions e temis ti permetin di personalizâ { -brand-product-name }. A puedin judâti a potenziâ la tô riservatece, incressi la produtivitât, miorâ la esperience cui contignûts multimediâi, cambiâ l’aspiet di { -brand-product-name } e tant altri. Chestis piçulis aplicazions software a son dispès svilupadis di tiercis parts. Chi tu cjatis une selezion di elements <a data-l10n-name="learn-more-trigger">conseâts</a> di { -brand-product-name } pe sigurece, prestazions e funzionalitâts ecezionâls.
 
 ## Add-on actions
 
