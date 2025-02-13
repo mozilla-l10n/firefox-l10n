@@ -470,3 +470,5 @@ desktop-to-mobile-headline = Scarica, sincronizza e vai!
 desktop-to-mobile-subtitle = Scansiona il codice QR per scaricare { -brand-product-name } per dispositivi mobili. Una volta installato, seleziona “Sincronizza con dispositivi mobili” per accedere alle tue password, ai tuoi segnalibri e altro ancora ovunque ti trovi.
 dismiss-button-label = Chiudi
 sync-to-mobile-button-label = Sincronizza con dispositivi mobili
+desktop-to-mobile-qr-code-alt =
+    .aria-label = Codice QR per scaricare { -brand-product-name } per dispositivi mobili
