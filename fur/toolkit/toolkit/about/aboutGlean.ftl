@@ -115,6 +115,25 @@ about-glean-feedback-settings-only =
 about-glean-feedback-settings-and-ping =
     .message = Impostazions aplicadis e ping inviât!
 about-glean-about-data-header = Informazions sui dâts
+about-glean-about-data-description =
+    A esistin varis struments che tu puedis doprâ par visualizâ i tiei dâts, daûr di ce
+    che tu stâs cirint.
+about-glean-about-data-description-list-intro =
+    Fâs riferiment ae liste chi sot par specifics câs
+    di ûs par ogni strument:
+about-glean-about-data-list-item-dictionary =
+    Par esplorâ la liste dai dâts cjapâts sù di { -glean-brand-name } par aplicazion, fâs riferiment al
+    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Dizionari</a>.
+about-glean-about-data-list-item-about-telemetry =
+    Par esplorâ i dâts che a son stâts cjapâts sù de vecje telemetrie, fâs riferiment a
+    <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
+about-glean-about-data-list-item-debug-ping-viewer =
+    Par esplorâ lis etichetis di debug, viodi i pings complets, viodi in direte il flus or esaminâ lis visualizazions
+    des metrichis, fâs riferiment al
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
+about-glean-about-data-list-item-firefox-profiler =
+    Par regjistrâ un profîl des prestazions e viodi dutis lis metrichis regjistradis, dopre
+    <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
 about-glean-about-data-explanation =
     Par sgarfâ te liste dai dâts racuelts, consulte il
     <a data-l10n-name="glean-dictionary-link">Dizionari di { -glean-brand-name }</a>.

@@ -30,6 +30,8 @@ webext-perms-description-sessions = Acedi aes schedis sieradis di resint
 webext-perms-description-tabs = Acedi aes schedis dal navigadôr
 webext-perms-description-tabHide = Platâ e mostrâ schedis dal navigadôr
 webext-perms-description-topSites = Acedi ae cronologjie di navigazion
+webext-perms-description-trialML = Discjariâ e eseguî modei di inteligjence artificiâl sul to dispositîf
+webext-perms-description-userScripts = Permeti a scripts di tierçs no verificâts di acedi ai tiei dâts
 webext-perms-description-webNavigation = Acedi ae ativitât dal navigadôr dulinvie la navigazion
 
 ## The userScripts permission includes an additional explanation that is
