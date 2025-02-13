@@ -1317,6 +1317,8 @@ permissions-addon-exceptions =
 collection-header = Racuelte e ûs dai dâts di { -brand-short-name }
 collection-header2 = Racuelte e utilizazion dâts di { -brand-short-name }
     .searchkeywords = telemetrie
+preferences-collection-description = O combatìn par dâti la pussibilitât di sielzi e i tirìn dongje dome i minims dâts necessaris par miorâ { -brand-product-name } par ducj.
+preferences-collection-privacy-notice = Viôt la informative su la riservatece
 collection-description = O cirìn di dâ ai utents la pussibilitât si sielzi e tirâ dongje dome i dâts necessaris par realizâ e miorâ { -brand-short-name } par ducj. O domandìn simpri il permès prime di ricevi informazions personâls.
 collection-privacy-notice = Informative su la riservatece
 collection-health-report-telemetry-disabled = No tu stâs plui permetint a { -vendor-short-name } di caturâ dâts tecnics e di interazion. Ducj i dâts esistents a vignaran eliminâts chi di 30 dîs.
@@ -1332,9 +1334,23 @@ collection-health-report =
     .label = Permet a { -brand-short-name } di inviâ dâts tecnics e di interazion a { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Plui informazions
+collection-health-report-description = Chest nus jude a miorâ funzionalitâts, prestazions e stabilitât di { -brand-product-name }
+collection-studies2 =
+    .label = Instale e fâs studis
+collection-studies-description = Prove lis funzionalitâts e lis ideis prime che a vegnin publicadis par ducj.
 collection-studies =
     .label = Permet a { -brand-short-name } di instalâ e puartâ indenant studis
 collection-studies-link = Visualize i studis di { -brand-short-name }
+addon-recommendations2 =
+    .label = Permet racomandazions personalizadis su lis estensions
+addon-recommendations-description = Ricêf conseis su estensions che ti permetin di miorâ la tô esperience di navigazion.
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled2 = Te configurazion di cheste version e al è stât disativât l'inviament dai dâts.
+collection-backlogged-crash-reports2 =
+    .label = Mande in automatic lis segnalazions sui colàs
+    .accesskey = c
+collection-backlogged-crash-reports-description = Chest al jude { -vendor-short-name } a diagnosticâ e risolvi problemis cul navigadôr. Lis segnalazions a puedin includi dâts personâi e sensibii.
 addon-recommendations =
     .label = Permet a { -brand-short-name } di rindi personalizâts i conseis di estensions
 addon-recommendations-link = Plui informazions
@@ -1402,6 +1418,8 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } al sta finint il 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Modalitât Dome-HTTPS
+httpsonly-description3 = Permet dome conessions siguris ai sîts web. { -brand-short-name } al domandarà prime di stabilî une conession che no je sigure.
+httpsonly-learn-more2 = Cemût che e funzione la modalitât dome-HTTPS
 httpsonly-description = HTTPS al da une conession sigure e cifrade tra { -brand-short-name } e i sîts web che tu visitis. La plui part dai sîts web e supuarte HTTPS e se la modalitât Dome-HTTPS e je ative, alore { -brand-short-name } al doprarà HTTPS in dutis lis conessions.
 httpsonly-description2 = { -brand-short-name } al cree conessions siguris e cifradis ai sîts che tu visitis. Se la modalitât dome-HTTPS e je ative, { -brand-short-name } ti visarà se une conession no je sigure.
 httpsonly-learn-more = Plui informazions
