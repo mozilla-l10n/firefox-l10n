@@ -5,6 +5,8 @@
 
 ## Generative AI (GenAI) Settings section
 
+genai-settings-chat-description = ເພີ່ມ chatbot ທີ່ທ່ານເລືອກໃສ່ແຖບດ້ານຂ້າງ, ສໍາລັບການເຂົ້າເຖິງໄວໃນເວລາທີ່ທ່ານໃຊ້ເວັບ. <a data-l10n-name="connect">ແບ່ງປັນຄຳຕິຊົມ</a>
+genai-settings-chat-choose = ເລືອກ chatbot
 genai-settings-chat-choose-one-menuitem =
     .label = ເລືອກອັນໜຶ່ງ
 genai-settings-chat-links = ເມື່ອທ່ານເລືອກ chatbot, ທ່ານຕົກລົງເຫັນດີກັບເງື່ອນໄຂການນໍາໃຊ້ ແລະ ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວຂອງຜູ້ໃຫ້ບໍລິການ.
@@ -24,6 +26,15 @@ genai-settings-chat-links = ເມື່ອທ່ານເລືອກ chatbot, 
 
 ## Chatbot onboarding
 
+genai-onboarding-chatgpt-learn = ຮຽນຮູ້ເພີ່ມເຕີມກ່ຽວກັບ ChatGPT
+genai-onboarding-copilot-tooltip =
+    .title = Copilot
+genai-onboarding-copilot-learn = ຮຽນຮູ້ເພີ່ມເຕີມກ່ຽວກັບ Copilot
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-gemini-learn = ຮຽນຮູ້ເພີ່ມເຕີມກ່ຽວກັບ Gemini
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

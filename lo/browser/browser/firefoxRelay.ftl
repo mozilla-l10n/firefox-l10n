@@ -40,6 +40,9 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = ບໍ່ແມ່ນຕອນນີ້
     .accesskey = N
+firefox-relay-and-fxa-opt-in-confirmation-enable-button =
+    .label = ເຂົ້າສູ່ລະບົບ { -brand-product-name } ແລະ ໃຊ້ໂຕປົກປິດ
+    .accesskey = S
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
     .label = ລົງ​ທະ​ບຽນ
     .accesskey = S
@@ -53,6 +56,7 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 ## The "control" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-second-sentence-control = ທໍາອິດ, ລົງທະບຽນ ຫຼື ເຂົ້າສູ່ລະບົບບັນຊີຂອງທ່ານເພື່ອໃຊ້ໂຕປົກປິດອີເມວ
+firefox-relay-offer-legal-notice-control = ໂດຍການລົງທະບຽນ ແລະສ້າງໂຕປົກປິດອີເມວ, ທ່ານເຫັນດີນຳ <label data-l10n-name="tos-url">ເງື່ອນໄຂການໃຫ້ບໍລິການ</label> ແລະ <label data-l10n-name="privacy-url">ປະກາດຄວາມເປັນສ່ວນຕົວ</label>.
 
 ## The "basic-info" variation of the Relay offer popup
 
