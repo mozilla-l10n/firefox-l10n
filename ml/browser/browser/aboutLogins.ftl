@@ -252,11 +252,25 @@ about-logins-confirm-remove-all-dialog-title2 =
         [one] { $count } രഹസ്യാവാക്കു് മാറ്റണോ?
        *[other] എല്ലാ { $count } രഹസ്യാവാക്കുകൾ മാറ്റണോ?
     }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] { -brand-short-name }-ലേക്കു് കരുതിവച്ച രഹസ്യവാക്കുകളെയും ലംഘന അറിയിപ്പുകളെയും മാറ്റും. താങ്ങൾക്കു് ഇതു് പഴയപടിയാക്കാൻ പറ്റില്ല
+        [one] { -brand-short-name }-ലേക്കു് കരുതിവച്ച രഹസ്യവാക്കുകളെയും ലംഘന അറിയിപ്പുകളെയും മാറ്റും. താങ്ങൾക്കു് ഇതു് പഴയപടിയാക്കാൻ പറ്റില്ല
+       *[other] { -brand-short-name }-ലേക്കു് കരുതിവച്ച രഹസ്യവാക്കുകളെയും ലംഘന അറിയിപ്പുകളെയും മാറ്റും. താങ്ങൾക്കു് ഇതു് പഴയപടിയാക്കാൻ പറ്റില്ല
+    }
 # Title for modal to confirm the removal of all saved passwords when user IS SYNCED
 about-logins-confirm-remove-all-sync-dialog-title2 =
     { $count ->
         [one] എല്ലാ ഉപകരണങ്ങളിൽ നിന്നു് { $count } രഹസ്യവാക്കു് മാറ്റട്ടെ?
        *[other] എല്ലാ ഉപകരണങ്ങളിൽ നിന്നു് { $count } രഹസ്യവാക്കുകൾ മാറ്റട്ടെ?
+    }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [1] { -brand-short-name }-ലേക്കു് കരുതിവച്ച രഹസ്യവാക്കുകളെയും ലംഘന അറിയിപ്പുകളെയും എല്ലാ ഉപകരണങ്ങളിൽ നിന്നു് മാറ്റും. താങ്ങൾക്കു് ഇതു് പഴയപടിയാക്കാൻ പറ്റില്ല
+        [one] { -brand-short-name }-ലേക്കു് കരുതിവച്ച രഹസ്യവാക്കുകളെയും ലംഘന അറിയിപ്പുകളെയും എല്ലാ ഉപകരണങ്ങളിൽ നിന്നു് മാറ്റും. താങ്ങൾക്കു് ഇതു് പഴയപടിയാക്കാൻ പറ്റില്ല
+       *[other] { -brand-short-name }-ലേക്കു് കരുതിവച്ച രഹസ്യവാക്കുകളെയും ലംഘന അറിയിപ്പുകളെയും എല്ലാ ഉപകരണങ്ങളിൽ നിന്നു് മാറ്റും. താങ്ങൾക്കു് ഇതു് പഴയപടിയാക്കാൻ പറ്റില്ല
     }
 
 ##

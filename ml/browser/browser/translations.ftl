@@ -10,6 +10,8 @@ urlbar-translations-button =
 # panel.
 urlbar-translations-button2 =
     .tooltiptext = ഈ താളിന്റെ വിവർത്തനം ചെയ്യുക - ബീറ്റ
+urlbar-translations-button-loading =
+    .tooltiptext = വിവൎത്തനം നടപ്പിലാണു്
 
 ## Options in the Firefox Translations settings.
 
