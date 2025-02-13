@@ -18,3 +18,4 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = ปิดแท็บที่ซ้ำกันทั้งหมด
 all-tabs-menu-synced-tabs =
     .label = แท็บจากอุปกรณ์อื่น ๆ
+all-tabs-menu-current-window-header = หน้าต่างปัจจุบัน
