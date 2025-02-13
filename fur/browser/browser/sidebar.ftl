@@ -50,6 +50,16 @@ sidebar-position-right =
     .label = Mostre a diestre
 sidebar-vertical-tabs =
     .label = Schedis verticâls
+sidebar-hide-tabs-and-sidebar =
+    .label = Plate schedis e sbare laterâl
+sidebar-show-on-the-right =
+    .label = Sposte sbare laterâl a diestre
+sidebar-show-on-the-left =
+    .label = Sposte sbare laterâl a çampe
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Slargje la sbare laterâl passant sore cul mouse
 sidebar-horizontal-tabs =
     .label = Schedis orizontâls
 sidebar-customize-tabs-header =
@@ -106,12 +116,34 @@ sidebar-menu-review-checker-label =
 
 ## Tooltips for sidebar menu items.
 
+# The tooltip to show over the history icon, when history is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-history-tooltip = Vierç cronologjie ({ $shortcut })
+# The tooltip to show over the history icon, when history is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-history-tooltip = Siere cronologjie ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-bookmarks-tooltip = Vierç segnelibris ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-bookmarks-tooltip = Siere segnelibris ({ $shortcut })
+sidebar-menu-open-ai-chatbot-tooltip = Vierç chatbot IA
+sidebar-menu-close-ai-chatbot-tooltip = Siere chatbot IA
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
+sidebar-menu-open-ai-chatbot-tooltip-generic = Vierç chatbot IA ({ $shortcut })
+sidebar-menu-open-ai-chatbot-provider-tooltip = Vierç { $provider } ({ $shortcut })
+sidebar-menu-close-ai-chatbot-tooltip-generic = Siere chatbot IA ({ $shortcut })
+sidebar-menu-close-ai-chatbot-provider-tooltip = Siere { $provider } ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 
@@ -121,6 +153,8 @@ sidebar-menu-history-header =
     .heading = Cronologjie
 sidebar-menu-syncedtabs-header =
     .heading = Schedis di altris dispositîfs
+sidebar-menu-bookmarks-header =
+    .heading = Segnelibris
 sidebar-panel-header-close-button =
     .tooltiptext = Siere
 

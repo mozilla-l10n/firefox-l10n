@@ -46,3 +46,5 @@ sync-setup-verify-description = Un altri utent al è jentrât prime par sincroni
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
+# Dialog 1 - different account signing in without option to merge
+sync-profile-different-account-title = Si è rivâts al limit di accounts par chest profîl
