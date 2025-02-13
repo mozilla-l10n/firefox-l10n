@@ -98,6 +98,9 @@ pdfjs-document-properties-keywords = മുഖ്യപദങ്ങൾ
 pdfjs-document-properties-creation-date = പൂര്‍ത്തിയാകുന്ന തീയതി:
 pdfjs-document-properties-modification-date = മാറ്റം വരുത്തിയ തീയതി:
 # Variables:
+#   $dateObj (Date) - the creation/modification date and time of the PDF file
+pdfjs-document-properties-date-time-string = { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
+# Variables:
 #   $date (Date) - the creation/modification date of the PDF file
 #   $time (Time) - the creation/modification time of the PDF file
 pdfjs-document-properties-date-string = { $date }, { $time }
@@ -122,6 +125,8 @@ pdfjs-document-properties-page-size-name-legal = നിയമപരം
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name },{ $orientation })
 
 ##
 
@@ -150,6 +155,7 @@ pdfjs-document-outline-button-label = രേഖയുടെ ഔട്ട്ല�
 pdfjs-attachments-button =
     .title = അറ്റാച്മെന്റുകള്‍ കാണിയ്ക്കുക
 pdfjs-attachments-button-label = അറ്റാച്മെന്റുകള്‍
+pdfjs-layers-button-label = പാളികൾ
 pdfjs-thumbs-button =
     .title = തംബ്നെയിലുകള്‍ കാണിയ്ക്കുക
 pdfjs-thumbs-button-label = തംബ്നെയിലുകള്‍
@@ -181,8 +187,24 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = അടുത്തതു്
 pdfjs-find-highlight-checkbox = എല്ലാം എടുത്തുകാണിയ്ക്കുക
 pdfjs-find-match-case-checkbox-label = അക്ഷരങ്ങള്‍ ഒത്തുനോക്കുക
+pdfjs-find-entire-word-checkbox-label = മുഴുവൻ വാക്കുകൾ
 pdfjs-find-reached-top = രേഖയുടെ മുകളില്‍ എത്തിയിരിക്കുന്നു, താഴെ നിന്നും തുടരുന്നു
 pdfjs-find-reached-bottom = രേഖയുടെ അവസാനം വരെ എത്തിയിരിക്കുന്നു, മുകളില്‍ നിന്നും തുടരുന്നു
+# Variables:
+#   $current (Number) - the index of the currently active find result
+#   $total (Number) - the total number of matches in the document
+pdfjs-find-match-count =
+    { $total ->
+        [one] { $current } / { $total } പൊരുത്തങ്ങള്‍
+       *[other] { $current } / { $total } പൊരുത്തങ്ങള്‍
+    }
+# Variables:
+#   $limit (Number) - the maximum number of matches
+pdfjs-find-match-count-limit =
+    { $limit ->
+        [one] { $limit } പൊരുത്തങ്ങളില്‍ കൂടുതല്‍
+       *[other] { $limit } പൊരുത്തങ്ങളില്‍ കൂടുതല്‍
+    }
 pdfjs-find-not-found = വാചകം കണ്ടെത്താനായില്ല
 
 ## Predefined zoom values
@@ -223,6 +245,9 @@ pdfjs-annotation-date-string = { $date }, { $time }
 # Some common types are e.g.: "Check", "Text", "Comment", "Note"
 pdfjs-text-annotation-type =
     .alt = [{ $type } Annotation]
+# Variables:
+#   $dateObj (Date) - the modification date and time of the annotation
+pdfjs-annotation-date-time-string = { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
 
 ## Password
 
@@ -261,6 +286,8 @@ pdfjs-editor-remove-stamp-button =
     .title = ചിത്രം മാറ്റുക
 pdfjs-editor-remove-highlight-button =
     .title = അടയാളപ്പെട്ടുതു് മാറ്റുക
+pdfjs-editor-remove-signature-button =
+    .title = ഒപ്പു് മാറ്റുക
 
 ##
 
@@ -342,6 +369,7 @@ pdfjs-editor-alt-text-settings-close-button = അടയ്ക്കുക
 pdfjs-editor-undo-bar-message-freetext = പാഠം മാറ്റി
 pdfjs-editor-undo-bar-message-ink = ആലേഖ്യം മാറ്റി
 pdfjs-editor-undo-bar-message-stamp = ചിത്രം മാറ്റി
+pdfjs-editor-undo-bar-message-signature = ഒപ്പു് മാറ്റി
 pdfjs-editor-undo-bar-undo-button =
     .title = പഴയപോലെയാക്കുക
 pdfjs-editor-undo-bar-undo-button-label = പഴയപോലെയാക്കുക
@@ -351,16 +379,42 @@ pdfjs-editor-undo-bar-close-button-label = അടയ്ക്കുക
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-title = ഒപ്പു് ചേൎക്കുക
 
 ## Tab names
 
+# Type is a verb (you can type your name as signature)
+pdfjs-editor-add-signature-type-button = തരം
+    .title = തരം
+# Draw is a verb (you can draw your signature)
+pdfjs-editor-add-signature-draw-button = വരയ്ക്കുക
+    .title = വരയ്ക്കുക
+pdfjs-editor-add-signature-image-button = ചിത്രം
+    .title = ചിത്രം
 
 ## Tab panels
 
+pdfjs-editor-add-signature-type-input =
+    .aria-label = താങ്ങളുടെ ഒപ്പു് ഇവിടെ എഴുതുക
+    .placeholder = താങ്ങളുടെ ഒപ്പു് ഇവിടെ എഴുതുക
+pdfjs-editor-add-signature-draw-placeholder = താങ്ങളുടെ ഒപ്പു് വരയ്ക്കുക
 pdfjs-editor-add-signature-draw-thickness-range-label = കനം
+# Variables:
+#   $thickness (Number) - the thickness (in pixels) of the line used to draw a signature.
+pdfjs-editor-add-signature-draw-thickness-range =
+    .title = വരപ്പുകനം: { $thickness }
+pdfjs-editor-add-signature-image-placeholder = കയറ്റുവയ്ക്കാൻ വേണ്ടി ഫയലിനു് ഇവിടോട്ടു് വലിച്ചിടുക
+pdfjs-editor-add-signature-image-browse-link =
+    { PLATFORM() ->
+        [macos] അല്ലെങ്കിൽ ചിത്രം ഫയലുകൾ തപ്പുക
+       *[other] അല്ലെങ്കിൽ ചിത്രം ഫയലുകൾ തപ്പുക
+    }
 
 ## Controls
 
+pdfjs-editor-add-signature-description-label = വിവരണം (ഇതരയെഴുതു്)
+pdfjs-editor-add-signature-description-input =
+    .title = വിവരണം (ഇതരയെഴുതു്)
 pdfjs-editor-add-signature-description-default-when-drawing = ഒപ്പു്
 pdfjs-editor-add-signature-clear-button-label = ഒപ്പു് മായ്ക്കുക
 pdfjs-editor-add-signature-clear-button =
