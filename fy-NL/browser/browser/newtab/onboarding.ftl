@@ -446,7 +446,9 @@ onboarding-checklist-sign-up = Registrearje of oanmelde by jo account
 
 tab-groups-onboarding-feature-callout-title = Probearje ljepblêdgroepen foar minder rommel, mear fokus
 tab-groups-onboarding-feature-callout-subtitle = Wês organisearre troch it iene ljepblêd op it oar te slepen om jo earste groep te meitsjen.
+tab-groups-onboarding-create-group-title = Fyn jo iepen groepen op de ljepblêdebalke of troch der nei te sykjen yn de adresbalke.
 tab-groups-onboarding-saved-groups-title = As jo in ljepblêdgroep slute, kinne jo dizze hjir altyd opnij iepenje.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title = Fyn op elk winske momint jo iepen of sletten ljepblêdgroepen troch yn de adresbalke te sykjen.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages
@@ -460,3 +462,9 @@ multi-profile-callout-cta = In profyl oanmeitsje
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = Downloade, syngronisearje en gean!
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Scan de QR-koade om { -brand-product-name } foar mobyl te downloaden. Selektearje nei ynstallaasje ‘Syngronisearje mei mobyl’ om ûnderweis tagong ta jo wachtwurden, blêdwizers en mear te krijen.
+dismiss-button-label = Slute
+sync-to-mobile-button-label = Syngronisearje mei mobyl

@@ -58,6 +58,10 @@ sidebar-show-on-the-right =
     .label = Sidebalke nei rjochts ferpleatse
 sidebar-show-on-the-left =
     .label = Sidebalke nei links ferpleatse
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Sydbalke by oanwizen útklappe
 sidebar-horizontal-tabs =
     .label = Horizontale ljepblêden
 sidebar-customize-tabs-header =
