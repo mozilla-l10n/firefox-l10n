@@ -181,8 +181,51 @@ main-context-menu-translate-selection-to-language =
 main-context-menu-translate-link-text =
     .label = കണ്ണി പാഠത്തിനെ വിവൎത്തനം ചെയ്യുക
     .accesskey = ക
+# Text displayed in the select translations panel header.
+select-translations-panel-header = വിവൎത്തനം
+# Text displayed above the from-language dropdown menu.
+select-translations-panel-from-label = നിന്നു്
+# Text displayed above the to-language dropdown menu.
+select-translations-panel-to-label = ലേക്കു്
+# Text displayed above the try-another-source-language dropdown menu.
+select-translations-panel-try-another-language-label = മറ്റൊരു ഉറവിട ഭാഷ ശ്രമിച്ചു നോക്കുക
 select-translations-panel-cancel-button =
     .label = റദ്ദാക്കുക
 # Text displayed on the copy button before it is clicked.
 select-translations-panel-copy-button =
     .label = പകൎത്തുക
+# Text displayed on the copy button after it is clicked.
+select-translations-panel-copy-button-copied =
+    .label = പകൎത്തി
+select-translations-panel-done-button =
+    .label = കഴിഞ്ഞു
+select-translations-panel-translate-full-page-button =
+    .label = മുഴുവൻ താളിന്റെ വിവർത്തനം ചെയ്യുക
+select-translations-panel-translate-button =
+    .label = വിവൎത്തനം ചെയ്യുക
+select-translations-panel-try-again-button =
+    .label = വീണ്ടും ശ്രമിയ്ക്കുക
+# Text displayed as a placeholder when the panel is idle.
+select-translations-panel-idle-placeholder-text = വിവൎത്തനം ചെയ്ത എഴുതു് ഇവിടെ കാഴ്ചപ്പെടും
+# Text displayed as a placeholder when the panel is actively translating.
+select-translations-panel-translating-placeholder-text = വിവർത്തനം ചെയ്യുന്നു…
+select-translations-panel-init-failure-message =
+    .message = ഭാഷാകൾ ലഭ്യമാക്കാൻ കഴിഞ്ഞില്ല. താങ്ങളുടെ ഗോളാന്തരവല സമ്പർക്കം പരിശോധിച്ച് വീണ്ടും ശ്രമിക്കുക.
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = വിവർത്തനം ചെയ്യുമ്പോൾ ഒരു കുഴപ്പമുണ്ടായി. ദയവായി വീണ്ടും ശ്രമിച്ചു് നോക്കുക.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = ക്ഷമിക്കണം, ഞങ്ങൾ ഇതുവരെ { $language }-നെ പിന്തുണയ്ക്കുന്നില്ല.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = ക്ഷമിക്കണം, ഞങ്ങൾ ഇതുവരെ ഈ ഭാഷയിനു് പിന്തുണയ്ക്കുന്നില്ല.
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = വിവർത്തന ക്രമീകരണങ്ങൾ
+# An announcement made to assistive technology when the translation is complete
+select-translations-panel-translation-complete-announcement = വിവൎത്തനം കഴിഞ്ഞു
