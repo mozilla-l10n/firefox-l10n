@@ -12,6 +12,7 @@ neterror-blocked-by-policy-page-title = Pagjine blocade
 neterror-captive-portal-page-title = Jentre te rêt
 neterror-dns-not-found-title = Servidôr no cjatât
 neterror-malformed-uri-page-title = URL no valit
+general-body-title = Sta atent. Alc nol è just.
 
 ## Error page actions
 

@@ -30,6 +30,8 @@ firefox-relay-opt-in-title-a = Evite il spam cuntune mascare di pueste eletronic
 firefox-relay-opt-in-subtitle-a = Plate la tô vere direzion e-mail
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
 firefox-relay-opt-in-title-b = Oten une mascare di pueste eletroniche gratuite
+# This is preceded by firefox-relay-opt-in-title-b (on a different line)
+firefox-relay-opt-in-subtitle-b = Protêç la tô casele di pueste dal spam
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Dopre mascare di pueste eletroniche
     .accesskey = D
@@ -39,6 +41,9 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = No cumò
     .accesskey = N
+firefox-relay-and-fxa-opt-in-confirmation-enable-button =
+    .label = Jentre su { -brand-product-name } e dopre une mascare
+    .accesskey = J
 
 ## The "control" variation of the Relay offer popup
 

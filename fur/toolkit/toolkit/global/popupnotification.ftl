@@ -5,6 +5,9 @@
 popup-notification-learn-more = Plui informazions
 popup-notification-more-actions-button =
     .aria-label = Plui azions
+popup-notification-default-button2 =
+    .label = Va ben
+    .accesskey = V
 popup-notification-default-button =
     .label = Va ben!
     .accesskey = V
