@@ -228,6 +228,7 @@ containers-remove-cancel-button = لا تزِل هذه الحاوية
 settings-tabs-show-image-in-preview =
     .label = أظهِر معاينة الصورة عند التحويم فوق اللسان
     .accessKey = ع
+browser-layout-header = تخطيط المتصفح
 
 ## General Section - Language & Appearance
 
@@ -846,6 +847,10 @@ sync-engine-creditcards =
     .label = بطاقات الائتمان
     .tooltiptext = الأسماء والأرقام وتواريخ الانتهاء (لسطح المكتب فقط)
     .accesskey = ق
+sync-engine-payment-methods2 =
+    .label = طرق الدفع
+    .tooltiptext = الأسماء وأرقام البطاقات وتواريخ انتهاء الصلاحية
+    .accesskey = n
 sync-engine-addons =
     .label = الإضافات
     .tooltiptext = امتدادات و سمات لنسخة سطح المكتب من فَيَرفُكس
@@ -976,6 +981,8 @@ autofill-addresses-checkbox = حفظ وملء العناوين
     .accesskey = ع
 autofill-saved-addresses-button = العناوين المحفوظة
     .accesskey = ظ
+autofill-payment-methods-checkbox-message = احفظ واملء طرق الدفع
+    .accesskey = ف
 autofill-saved-payment-methods-button = طرق الدفع المحفوظة
     .accesskey = ع
 
@@ -1270,6 +1277,7 @@ permissions-addon-exceptions =
 collection-header = جمع { -brand-short-name } للبيانات و استخدامها
 collection-header2 = جمع { -brand-short-name } للبيانات و إستخدامها
     .searchkeywords = telemetry
+preferences-collection-privacy-notice = اعرض تنويه الخصوصية
 collection-description = نبذل جهدنا لإعطائك الخيار و جمع ما نحتاجه فقط لتحسين { -brand-short-name }. نطلب الإذن دائمًا قبل استقبال أي معلومات شخصية.
 collection-privacy-notice = تنويه الخصوصية
 collection-health-report-telemetry-disabled = لم تعد تسمح بأن يلتقط { -vendor-short-name } البيانات التقنية والتفاعلية. ستُحذف البيانات القديمة كلها خلال 30 يومًا.
@@ -1283,9 +1291,13 @@ collection-studies2 =
 collection-studies =
     .label = اسمح أن ينصّب { -brand-short-name } ويشغل الدراسات
 collection-studies-link = اعرض دراسات { -brand-short-name }
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled2 = الإبلاغ عن البيانات معطّل في إعدادات البناء.
 collection-backlogged-crash-reports2 =
     .label = أرسل تقارير الإنهيار تلقائيًا
     .accesskey = س
+collection-backlogged-crash-reports-description = يساعد هذا { -vendor-short-name } في تشخيص المشكلات وإصلاحها بالمتصفح. قد تتضمن التقارير بيانات شخصية أو حساسة.
 addon-recommendations =
     .label = اسمح بأن يقترح { -brand-short-name } الامتدادات المخصّصة لك
 addon-recommendations-link = اطّلع على المزيد
@@ -1300,6 +1312,7 @@ privacy-segmentation-radio-on =
 
 ## Privacy Section - Website Advertising Preferences
 
+website-advertising-private-attribution-description = يساعد هذا المواقع على فهم أداء إعلاناتها دون جمع بيانات عنك.
 
 ## Privacy Section - Security
 ##
@@ -1343,7 +1356,10 @@ space-alert-under-5gb-message2 = <strong>مساحة القرص قاربت على
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = وضع HTTPS فقط
+httpsonly-description3 = يسمح فقط بالاتصالات الآمنة بمواقع الوب. سيسأل { -brand-short-name } قبل الاتصال بشكل غير آمن.
+httpsonly-learn-more2 = كيف يعمل HTTPS-Only
 httpsonly-description = يقدّم بروتوكول HTTPS اتصالًا آمنًا ومعمًى بين { -brand-short-name } والمواقع التي تزورها. تدعم أغلب المواقع HTTPS، ولو فعّلت وضع ”HTTPS فقط“ فسيُرقّي { -brand-short-name } كل الاتصالات لتكون ببروتوكول HTTPS.
+httpsonly-description2 = ينشئ { -brand-short-name } اتصالات آمنة ومُعمّاة بالمواقع التي تزورها. سيحذرك { -brand-short-name } إذا لم يكن الاتصال آمنًا عند تشغيل HTTPS-Only.
 httpsonly-learn-more = اطّلع على المزيد
 httpsonly-radio-enabled =
     .label = فعّل وضع HTTPS فقط في كل النوافذ
@@ -1362,6 +1378,7 @@ httpsonly-radio-disabled2 =
 
 preferences-doh-header = DNS عبر HTTPS
 preferences-doh-description = يرسل نظام اسم المجال (DNS) عبر HTTPS طلبك للحصول على اسم المجال من خلال اتصال مُعمّى، مما يؤدي إلى إنشاء DNS آمن ويجعل من الصعب على الآخرين معرفة موقع الوب الذي أنت على وشك الوصول إليه.
+preferences-doh-description2 = يرسل نظام اسم المجال (DNS) عبر HTTPS طلبك للحصول على اسم مجال من خلال اتصال مُعمّى، مما يوفر DNS آمنًا ويجعل من الصعب على الآخرين رؤية موقع الوب الذي أنت على وشك الوصول إليه.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = الحالة: { $status }
@@ -1371,6 +1388,7 @@ preferences-doh-resolver = المزود: { $name }
 # This is displayed instead of $name in preferences-doh-resolver
 # when the DoH URL is not a valid URL
 preferences-doh-bad-url = مسار غير صحيح
+preferences-doh-steering-status = استخدام مزود محلي
 preferences-doh-status-active = نشط
 preferences-doh-status-disabled = معطّل
 # Variables:

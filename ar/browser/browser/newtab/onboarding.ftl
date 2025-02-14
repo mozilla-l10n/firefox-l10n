@@ -309,25 +309,35 @@ onboarding-easy-setup-security-and-privacy-title = نحن نحب إبقاءك آ
 onboarding-easy-setup-security-and-privacy-subtitle = يساعدك متصفحنا الذي تدعمه مؤسستنا غير الربحية على منع الشركات من متابعتك سراً عبر الوِب.
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } يدعمك
+onboarding-sign-up-button = سجل حسابًا أو لج
 onboarding-sign-up-secondary-button = ابدأ التصفح
 
 ## New user time and familiarity survey strings
 
+onboarding-new-user-time-based-survey-title = منذ متى تستخدم { -brand-short-name }؟
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = التالي
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = أنا جديد تمامًا
+onboarding-new-user-survey-time-based-option-2 = أقل من شهر
+onboarding-new-user-survey-time-based-option-3 = أكثر من شهر، بانتظام
 
 ## UI strings for the sidebar and vertical tabs
 
 onboarding-flair-text = جديد!
+onboarding-genai-sidebar-primary-button = اختر روبوت المحادثة
 onboarding-genai-sidebar-secondary-button = ابدأ التصفح
 
 ## New user onboarding checklist
 
 onboarding-checklist-set-default = اضبط { -brand-short-name } ليكون متصفّحي المبدئي
+onboarding-checklist-pin = ثبّت { -brand-short-name } في شريط المهام
+onboarding-checklist-import = استورِدها من المتصفّح السابق
 onboarding-checklist-extension = أضِف امتدادة
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-dismiss = حسنا
 
 ## Multi Profiles feature onboarding messages
 
@@ -336,3 +346,4 @@ multi-profile-callout-cta = أنشئ ملفًا شخصيًا
 
 ## Desktop to Mobile Adoption feature callout strings
 
+dismiss-button-label = أهمِل
