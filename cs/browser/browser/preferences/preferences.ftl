@@ -1474,9 +1474,17 @@ collection-health-report-telemetry-disabled =
     }
 collection-health-report-telemetry-disabled-link = Zjistit více
 collection-usage-ping =
-    .label = Odeslat ping o denní frekvenci organizaci { -vendor-short-name }
+    .label =
+        { -vendor-short-name.case-status ->
+            [with-cases] Odeslat ping o denní frekvenci { -vendor-short-name(case: "dat") }
+           *[no-cases] Odeslat ping o denní frekvenci organizaci { -vendor-short-name }
+        }
     .accesskey = p
-collection-usage-ping-description = To organizaci { -vendor-short-name } pomáhá odhadnout počet aktivních uživatelů.
+collection-usage-ping-description =
+    { -vendor-short-name.case-status ->
+        [with-cases] To { -vendor-short-name(case: "dat") } pomáhá odhadnout počet aktivních uživatelů.
+       *[no-cases] To organizaci { -vendor-short-name } pomáhá odhadnout počet aktivních uživatelů.
+    }
 collection-health-report2 =
     .label = Odesílat technická data a data o interakcích organizaci { -vendor-short-name }
     .accesskey = t
@@ -1516,7 +1524,11 @@ collection-health-report-disabled2 = Pro tuto konfiguraci sestavení je hlášen
 collection-backlogged-crash-reports2 =
     .label = Automaticky odesílat hlášení o pádech
     .accesskey = m
-collection-backlogged-crash-reports-description = To pomáhá organizaci { -vendor-short-name } diagnostikovat a opravovat problémy s prohlížečem. Hlášení mohou obsahovat osobní nebo citlivé údaje.
+collection-backlogged-crash-reports-description =
+    { -vendor-short-name.case-status ->
+        [with-cases] To pomáhá { -vendor-short-name(case: "dat") } diagnostikovat a opravovat problémy s prohlížečem. Hlášení mohou obsahovat osobní nebo citlivé údaje.
+       *[no-cases] To pomáhá organizaci { -vendor-short-name } diagnostikovat a opravovat problémy s prohlížečem. Hlášení mohou obsahovat osobní nebo citlivé údaje.
+    }
 addon-recommendations =
     .label =
         { -brand-short-name.case-status ->

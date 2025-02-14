@@ -31,7 +31,15 @@ preonboarding-privacy-notice-header-button-title-b =
 # Description under label for header style buttons
 preonboarding-header-button-description = Přečtěte si více
 # New user onboarding checklist
-preonboarding-checklist-interaction-data-label = Odesílat technická data a data o interakcích organizaci { -vendor-short-name }
-preonboarding-checklist-interaction-data-description = Data o vašem zařízení, konfiguraci hardwaru a o tom, jak { -brand-product-name } používáte, pomáhají vylepšovat funkce, výkon a stabilitu pro běžné uživatele.
+preonboarding-checklist-interaction-data-label =
+    { -vendor-short-name.case-status ->
+        [with-cases] Odesílat technická data a data o interakcích { -vendor-short-name(case: "dat") }
+       *[no-cases] Odesílat technická data a data o interakcích organizaci { -vendor-short-name }
+    }
+preonboarding-checklist-interaction-data-description =
+    { -brand-product-name.case-status ->
+        [with-cases] Data o vašem zařízení, konfiguraci hardwaru a o tom, jak { -brand-product-name(case: "dat") } používáte, pomáhají vylepšovat funkce, výkon a stabilitu pro běžné uživatele.
+       *[no-cases] Data o vašem zařízení, konfiguraci hardwaru a o tom, jak aplikaci { -brand-product-name } používáte, pomáhají vylepšovat funkce, výkon a stabilitu pro běžné uživatele.
+    }
 preonboarding-checklist-crash-reports-label = Automaticky odesílat hlášení o pádech
 preonboarding-checklist-crash-reports-description = Hlášení o pádech nám umožňují diagnostikovat a opravit problémy s prohlížečem. Zprávy mohou obsahovat osobní nebo citlivé údaje.
