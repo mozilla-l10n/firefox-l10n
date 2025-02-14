@@ -74,6 +74,11 @@ protections-panel-not-found-label = Nissun rilevât
 
 ## Smartblock strings
 
+protections-panel-smartblock-desc-label = { -brand-short-name } al bloche i contignûts che ti spiin intant che tu navighis su chest sît, gjavât che no tu lu permetis.
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = Permet { $trackername }
 
 ##
 

@@ -67,6 +67,11 @@ about-private-browsing-pin-promo-title = താങ്ങളുടെ ഉപര�
 # in your language: `See fewer cookie requests`.
 about-private-browsing-cookie-banners-promo-header = കുക്കിപൊന്തുവരലുകൾ അകലെ പോവുക!
 about-private-browsing-cookie-banners-promo-button = കുക്കി പൊന്തുവരലുകൾ ചെറുതാക്കുക
+about-private-browsing-cookie-banners-promo-message = { -brand-short-name }-നെ തന്നെതാനെ എല്ലാ കുക്കിപൊന്തുവരലുകൾക്കു് മറുപടി നല്കാൻ അനുമതിക്കൂ. താങ്ങൾക്കു് പതൎച്ചയില്ലാതെ പരതാം. { -brand-short-name }-നു് ആവാമെങ്കിൽ എല്ലാ അഭ്യൎത്ഥനകളെ നിരസിക്കും.
+# Simplified version of the headline if the original text doesn't work
+# in your language: `{ -brand-short-name } will show fewer cookie requests`
+about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } കുക്കിപൊന്തുവരലുകളെ പറ്റി നോക്കിക്കോളും
+about-private-browsing-cookie-banners-promo-body = താങ്ങൾക്കു് പതൎച്ചയില്ലാതെ പരതാൻ വേണ്ടി ഇപ്പോൾ ഞങ്ങൾ കുക്കിപൊന്തുവരലുകളെ തന്നെതാനെ നിരസിക്കാരുണ്ടു്.
 
 ## Strings for Felt Privacy v1 experiments in 119
 
