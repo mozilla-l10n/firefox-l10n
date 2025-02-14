@@ -289,6 +289,13 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
         [one] Retirar { $count } contrasinal de todos os dispositivos?
        *[other] Retirar { $count } contrasinais de todos os dispositivos?
     }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [1] Isto eliminará o contrasinal gardado en { -brand-short-name } en todos os teus dispositivos sincronizados. Isto tamén eliminará todas as alertas de infracción que aparezan aquí. Non podes desfacer esta acción.
+        [one] Isto eliminará o contrasinal gardado en { -brand-short-name } en todos os teus dispositivos sincronizados. Isto tamén eliminará todas as alertas de infracción que aparezan aquí. Non podes desfacer esta acción.
+       *[other] Isto eliminará os contrasinais gardados en { -brand-short-name } en todos os teus dispositivos sincronizados. Isto tamén eliminará todas as alertas de infracción que aparezan aquí. Non podes desfacer esta acción.
+    }
 
 ##
 
@@ -296,6 +303,9 @@ about-logins-confirm-export-dialog-title = Exportar inicios de sesión e contras
 about-logins-confirm-export-dialog-message = Os seus contrasinais gardaranse como texto lexible (por exemplo, ConTR@sinaLmaL0) para que calquera que poida abrir o ficheiro exportado poida velos.
 about-logins-confirm-export-dialog-confirm-button = Exportar…
 about-logins-confirm-export-dialog-title2 = Unha nota sobre a exportación de contrasinais
+about-logins-confirm-export-dialog-message2 =
+    Cando exportas, os teus contrasinais gárdanse nun ficheiro con texto lexible.
+    Cando remates de usar o ficheiro, recomendamos que o elimines para que outros usuarios deste dispositivo non poidan ver os teus contrasinais.
 about-logins-confirm-export-dialog-confirm-button2 = Continuar coa exportación
 about-logins-alert-import-title = Importación completada
 about-logins-alert-import-message = Ver o resumo detallado da importación
@@ -394,6 +404,16 @@ about-logins-import-dialog-items-no-change =
         [one] <span>Duplicar a identificación atopada:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(not imported)</span>
        *[other] <span>Duplicar a identificacións atopadas:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(not imported)</span>
     }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [one] <span>Entrada existente actualizada:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Entradas existentes actualizadas:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>Atopouse unha entrada duplicada:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(non importada)</span>
+       *[other] <span>Atopáronse entradas duplicadas:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(non importadas)</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>Erro:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(non importada)</span>
@@ -453,6 +473,11 @@ about-logins-import-report-no-change =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Inicio de sesión duplicado</div><div data-l10n-name="not-imported">(non importado)</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Inicios de sesión duplicados</div><div data-l10n-name="not-imported">(non importados)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Engadiuse un novo contrasinal</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Engadíronse novos contrasinais</div>
     }
 about-logins-import-report-error =
     { $count ->
