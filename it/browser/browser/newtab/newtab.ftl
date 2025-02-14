@@ -318,6 +318,12 @@ newtab-custom-settings = Gestisci altre impostazioni
 
 newtab-wallpaper-title = Sfondi
 newtab-wallpaper-reset = Ripristina predefinito
+newtab-wallpaper-upload-image = Carica un’immagine
+newtab-wallpaper-custom-color = Scegli un colore
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = L’immagine eccede la dimensione massima consentita ({ $file_size } MB). Prova a caricare un file più piccolo.
+newtab-wallpaper-error-file-type = Impossibile caricare il file. Riprova con un altro tipo di file.
 newtab-wallpaper-light-red-panda = Panda rosso
 newtab-wallpaper-light-mountain = Montagna imbiancata
 newtab-wallpaper-light-sky = Cielo con nuvole viola e rosa
@@ -361,6 +367,10 @@ newtab-wallpaper-abstract-purple = Forme viola
 newtab-wallpaper-abstract-orange = Forme arancioni
 newtab-wallpaper-gradient-orange = Gradiente arancione e rosa
 newtab-wallpaper-abstract-blue-purple = Forme blu e viola
+newtab-wallpaper-abstract-white-curves = Bianco con curve sfumate
+newtab-wallpaper-abstract-purple-green = Sfumatura di luce viola e verde
+newtab-wallpaper-abstract-blue-purple-waves = Forme ondulate blu e viola
+newtab-wallpaper-abstract-black-waves = Forme ondulate nere
 
 ## Celestial
 
@@ -371,6 +381,12 @@ newtab-wallpaper-storm-sky = Cielo tempestoso
 newtab-wallpaper-sky-with-pink-clouds = Cielo con nuvole rosa
 newtab-wallpaper-red-panda-yawns-in-a-tree = Panda rosso che sbadiglia su un albero
 newtab-wallpaper-white-mountains = Montagne bianche
+newtab-wallpaper-hot-air-balloons = Mongolfiere con colori assortiti riprese in pieno giorno
+newtab-wallpaper-starry-canyon = Notte stellata blu
+newtab-wallpaper-suspension-bridge = Fotografia di un ponte grigio sospeso scattata durante il giorno
+newtab-wallpaper-sand-dunes = Dune di sabbia bianca
+newtab-wallpaper-palm-trees = Sagome di palme da cocco riprese durante l’ora d’oro
+newtab-wallpaper-forest-trees = Alberi avvolti nella nebbia
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -388,6 +404,16 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Spazio
+newtab-wallpaper-celestial-lunar-eclipse = Eclissi lunare
+newtab-wallpaper-celestial-earth-night = Foto notturna dall’orbita terrestre bassa
+newtab-wallpaper-celestial-starry-sky = Cielo stellato
+newtab-wallpaper-celestial-eclipse-time-lapse = Time-lapse dell’eclissi lunare
+newtab-wallpaper-celestial-black-hole = Illustrazione di una galassia
+newtab-wallpaper-celestial-river = Immagine satellitare di un fiume
 
 ## New Tab Weather
 
