@@ -57,6 +57,8 @@ addon-domain-blocked-by-policy = Quen administra o teu sistema impediu que este 
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
 addon-installation-blocked-by-policy = { $addonName } ({ $addonId }) está bloqueado pola súa organización.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = A túa organización impediu que este sitio che pedise que instalaras software no teu ordenador.
 addon-install-full-screen-blocked = Non está permitida a instalación de complementos durante ou antes de entrar no modo de pantalla completa.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
@@ -129,4 +131,8 @@ addon-local-install-error-not-signed = Non foi posíbel instalar este complement
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = Non foi posíbel instalar { $addonName } porque non é compatíbel con { -brand-short-name } { $appVersion }.
+addon-install-error-hard-blocked = { $addonName } infrinxe as políticas de Mozilla e non se pode instalar en { -brand-short-name }.
 addon-install-error-blocklisted = Non foi posíbel instalar { $addonName } porque o risco de que cause problemas de estabilidade ou seguranza é alto.
+addon-install-error-soft-blocked = { $addonName } infrinxe as políticas de Mozilla e non se pode instalar en { -brand-short-name }.
+# Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
+addon-install-error-admin-install-only = Non podes instalar { $addonName } como usuario final, só pode ser instalado por unha organización mediante políticas empresariais.

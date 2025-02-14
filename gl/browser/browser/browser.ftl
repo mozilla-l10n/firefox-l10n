@@ -51,6 +51,11 @@ browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = Navegación privada de { -brand-shortcut-name }
+# This gets set as the initial title, and is overridden as soon as we start
+# updating the titlebar based on loaded tabs or private browsing state.
+# This should match the `data-title-default` attribute in both
+# `browser-main-window` and `browser-main-window-mac`.
+browser-main-window-default-title = { -brand-full-name }
 
 ##
 
@@ -309,6 +314,10 @@ quickactions-cmd-viewsource = ver o código, código
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Máis información sobre as accións rápidas
+# Will be shown to users the first configurable number of times
+# they experience actions giving them instructions on how to
+# select the action shown by pressing the tab key.
+press-tab-label = Preme o tabulador para seleccionar:
 
 ## Bookmark Panel
 
@@ -635,6 +644,12 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Pechar
 urlbar-searchmode-popup-description = Esta vez busca con:
 urlbar-searchmode-popup-search-settings = Axustes da busca
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, selecciona un buscador
+    .tooltiptext = { $engine }, selecciona un buscador
 urlbar-searchmode-button-no-engine =
     .label = Non seleccionaches ningún atallo, escolle un atallo
     .tooltiptext = Non seleccionaches ningún atallo, escolle un atallo
@@ -650,6 +665,9 @@ urlbar-result-action-search-actions = Accións de busca
 # Label for a quickaction result used to switch to an open tab group.
 #  $group (String): the name of the tab group to switch to
 urlbar-result-action-switch-to-tabgroup = Cambiar a { $group }
+# Label for a quickaction result used to re-opan a saved tab group.
+#  $group (String): the name of the tab group to re-open
+urlbar-result-action-open-saved-tabgroup = Abrir { $group }
 
 ## Labels shown above groups of urlbar results
 
@@ -680,6 +698,12 @@ urlbar-group-trending =
 urlbar-result-menu-trending-dont-show =
     .label = Non mostrar tendencias de busca
     .accesskey = N
+urlbar-result-menu-trending-why =
+    .label = Por que estou vendo isto?
+    .accesskey = P
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = Grazas polos teus comentarios. Xa non volverás a ver as buscas máis populares.
 
 ## Reader View toolbar buttons
 
@@ -1071,3 +1095,6 @@ file-picker-failed-open = Non se puido abrir o diálogo de ficheiros de Windows.
 # The wording here should be consistent with the Windows variant of
 # `downloads-cmd-show-menuitem-2` and similar messages.
 
+file-picker-crashed-show-in-folder =
+    .label = Mostrar no cartafol
+    .accessKey = C
