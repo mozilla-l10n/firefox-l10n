@@ -96,6 +96,7 @@ sidebar-genai-survey-productive-question =
     Jusqu’à quel point êtes vous d’accord ou non avec cette affirmation :<br/>
     « Le chatbot IA dans le panneau latéral me permet d’être plus efficace » ?
 unified-search-callout-title = Changer de moteur de recherche
+unified-search-callout-subtitle = Choisissez ce qui correspond le mieux à votre recherche.
 unified-search-callout-primary-label = Suivant
 unified-search-callout-secondary-label = Fermer
 unified-search-engines-callout-title = Rechercher avec un raccourci
