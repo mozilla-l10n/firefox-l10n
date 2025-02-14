@@ -445,7 +445,9 @@ onboarding-checklist-sign-up = Đăng ký hoặc đăng nhập vào tài khoản
 
 tab-groups-onboarding-feature-callout-title = Hãy thử nhóm thẻ để bớt lộn xộn hơn, tập trung hơn
 tab-groups-onboarding-feature-callout-subtitle = Sắp xếp gọn gàng bằng cách kéo thẻ này lên trên thẻ khác để tạo nhóm đầu tiên của bạn.
+tab-groups-onboarding-create-group-title = Tìm các nhóm đang mở của bạn trên thanh thẻ hoặc bằng cách tìm kiếm chúng trong thanh địa chỉ.
 tab-groups-onboarding-saved-groups-title = Nếu bạn đóng một nhóm thẻ, bạn có thể mở lại nó ở đây bất cứ lúc nào.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title = Tìm các nhóm thẻ đang mở hoặc đóng của bạn bất cứ lúc nào bằng cách tìm kiếm trong thanh địa chỉ.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages
@@ -459,3 +461,9 @@ multi-profile-callout-cta = Tạo hồ sơ
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = Tải xuống, đồng bộ hoá và sử dụng!
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Quét mã QR để tải xuống { -brand-product-name } cho di động. Sau khi cài đặt, chọn “Đồng bộ trên di động” để truy cập mật khẩu, dấu trang của bạn và nhiều hơn nữa để sử dụng.
+dismiss-button-label = Bỏ qua
+sync-to-mobile-button-label = Đồng bộ trên di động

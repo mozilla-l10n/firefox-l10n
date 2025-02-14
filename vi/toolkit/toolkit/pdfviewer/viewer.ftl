@@ -319,6 +319,8 @@ pdfjs-editor-remove-stamp-button =
     .title = Xóa ảnh
 pdfjs-editor-remove-highlight-button =
     .title = Xóa phần đánh dấu
+pdfjs-editor-remove-signature-button =
+    .title = Xoá chữ ký
 
 ##
 
@@ -492,6 +494,7 @@ pdfjs-editor-undo-bar-message-highlight = Đã xóa đánh dấu
 pdfjs-editor-undo-bar-message-freetext = Đã xóa văn bản
 pdfjs-editor-undo-bar-message-ink = Đã xóa bản vẽ
 pdfjs-editor-undo-bar-message-stamp = Đã xóa hình ảnh
+pdfjs-editor-undo-bar-message-signature = Chữ ký đã bị xoá
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple = { $count } chú thích đã bị xóa
@@ -504,15 +507,54 @@ pdfjs-editor-undo-bar-close-button-label = Đóng
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-label = Phương thức này cho phép người dùng tạo một chữ ký để thêm vào tài liệu PDF. Người dùng có thể chỉnh sửa tên (cũng đóng vai trò là văn bản thay thế) và tùy chọn lưu chữ ký để sử dụng nhiều lần.
+pdfjs-editor-add-signature-dialog-title = Thêm chữ ký
 
 ## Tab names
 
+# Type is a verb (you can type your name as signature)
+pdfjs-editor-add-signature-type-button = Loại
+    .title = Loại
+# Draw is a verb (you can draw your signature)
+pdfjs-editor-add-signature-draw-button = Vẽ
+    .title = Vẽ
+pdfjs-editor-add-signature-image-button = Hình ảnh
+    .title = Hình ảnh
 
 ## Tab panels
 
+pdfjs-editor-add-signature-type-input =
+    .aria-label = Nhập chữ ký của bạn
+    .placeholder = Nhập chữ ký của bạn
+pdfjs-editor-add-signature-draw-placeholder = Vẽ chữ ký của bạn
+pdfjs-editor-add-signature-draw-thickness-range-label = Độ dày
+# Variables:
+#   $thickness (Number) - the thickness (in pixels) of the line used to draw a signature.
+pdfjs-editor-add-signature-draw-thickness-range =
+    .title = Độ dày bút vẽ: { $thickness }
+pdfjs-editor-add-signature-image-placeholder = Kéo một tập tin tại đây để tải lên
+pdfjs-editor-add-signature-image-browse-link =
+    { PLATFORM() ->
+        [macos] Hoặc chọn hình ảnh
+       *[other] Hoặc chọn hình ảnh
+    }
 
 ## Controls
 
+pdfjs-editor-add-signature-description-label = Mô tả (văn bản thay thế)
+pdfjs-editor-add-signature-description-input =
+    .title = Mô tả (văn bản thay thế)
+pdfjs-editor-add-signature-description-default-when-drawing = Chữ ký
+pdfjs-editor-add-signature-clear-button-label = Xoá chữ ký
+pdfjs-editor-add-signature-clear-button =
+    .title = Xoá chữ ký
+pdfjs-editor-add-signature-save-checkbox = Lưu chữ ký
+pdfjs-editor-add-signature-save-warning-message = Bạn đã đạt đến giới hạn 5 chữ ký đã lưu. Hãy xóa một cái để lưu thêm.
+pdfjs-editor-add-signature-image-upload-error-title = Không thể tải lên hình ảnh
+pdfjs-editor-add-signature-image-upload-error-description = Kiểm tra kết nối mạng của bạn hoặc thử hình ảnh khác.
+pdfjs-editor-add-signature-error-close-button = Đóng
 
 ## Dialog buttons
 
+pdfjs-editor-add-signature-cancel-button = Hủy bỏ
+pdfjs-editor-add-signature-add-button = Thêm
