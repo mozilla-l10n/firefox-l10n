@@ -18,13 +18,13 @@ preonboarding-privacy-notice-header-button-title = Přečtěte si naše Zásady 
 preonboarding-manage-data-header-button-title = Správa diagnostických dat a dat o interakcích
 # Label for header style button that toggles showing the Terms of Use (Variant B)
 preonboarding-terms-of-use-header-button-title-b =
-    { -brand-produkc-name.case-status ->
+    { -brand-product-name.case-status ->
         [with-cases] Podmínky používání { -brand-product-name(case: "gen") }
        *[no-cases] Podmínky používání aplikace { -brand-product-name }
     }
 # Label for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b =
-    { -brand-produkc-name.case-status ->
+    { -brand-product-name.case-status ->
         [with-cases] Zásady ochrany osobních údajů { -brand-product-name(case: "gen") }
        *[no-cases] Zásady ochrany osobních údajů aplikace { -brand-product-name }
     }

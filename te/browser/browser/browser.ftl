@@ -307,8 +307,13 @@ quickactions-clearhistory = చరిత్రను తుడిచివేయ
 quickactions-downloads2 = దింపుకోళ్ళను చూడండి
 quickactions-cmd-downloads = దింపుకోళ్ళు
 quickactions-cmd-extensions = పొడగింతలు
+quickactions-cmd-logins = ప్రవేశాలు, సంకేతపదాలు
+# Opens the print dialog
+quickactions-print2 = పేజీ ముద్రించు
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = పేజీని PDFగా భద్రపరుచు
+# Opens a new private browsing window
+quickactions-private2 = ఆంతరంగిక కిటికీ తెరువు
 quickactions-cmd-private = అంతరంగిక విహారణ
 # Restarts the browser
 quickactions-restart = { -brand-short-name }‌ను పునఃప్రారంభించు
@@ -865,10 +870,20 @@ unified-extensions-button-permissions-needed =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-quarantined =
+    .label = పొడగింతలు
+    .tooltiptext =
+        పొడగింతలు
+        కొన్ని పొడగింతలకు అనుమతిలేదు
 
 ## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-blocklisted =
+    .label = పొడగింతలు
+    .tooltiptext =
+        పొడిగంతలు
+        కొన్ని పొడగింతలు అచేతనం చేయబడ్డాయి
 
 ## Private browsing reset button
 

@@ -219,7 +219,11 @@ appmenuitem-report-broken-site =
 
 appmenuitem-sign-in-account = మీ ఖాతా లోనికి ప్రవేశించండి
 appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = మీ ఆన్‌లైన్ కార్యాచరణను సంరక్షించుకోండి
 appmenu-services-header = నా సేవలు
+appmenu-other-protection-header = { -vendor-short-name } వారి ఇతర రక్షణ పనిముట్లని ప్రయత్నించండి:
 
 ## Profiles panel
 
