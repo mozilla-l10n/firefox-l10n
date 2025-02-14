@@ -177,7 +177,7 @@ firefoxview-search-text-box-syncedtabs =
     .placeholder = დასინქრონებულ ჩანართებში ძიება
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
-    .placeholder = გახსნილ ჩანართებში არაა
+    .placeholder = ძიება გახსნილ ჩანართებში
 # "Search" is a noun (as in "Results of the search for")
 # Variables:
 #   $query (String) - The search query used for searching through browser history.
