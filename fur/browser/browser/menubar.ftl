@@ -256,6 +256,12 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
+menu-profiles =
+    .label = Profîi
+menu-profiles-manage-profiles =
+    .label = Gjestìs profîi
+menu-profiles-new-profile =
+    .label = Gnûf profîl
 
 ## Tools Menu
 

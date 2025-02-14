@@ -300,6 +300,10 @@ root-certificate-succession-infobar-secondary-button =
 
 ## Root Certificate Succession Windows Background Notification
 
+root-certificate-windows-background-notification-title = Tu ti sês pierdût un impuartant inzornament di { -brand-short-name }
+root-certificate-windows-background-notification-subtitle = Se no tu inzornis, cualchi part dal navigadôr nol funzionarà plui ca di pôc. Cumò al è il moment just par otignî lis nestris plui resintis protezions e funzionalitâts.
+root-certificate-windows-background-notification-learn-more-button = Plui informazions
+root-certificate-windows-background-notification-update-button = Inzorne { -brand-short-name }
 
 ## FxA Menu Message variants
 
@@ -322,3 +326,14 @@ fxa-menu-message-mobile-collapsed-text = Sincronize cul to telefon
 
 ## Multi-CTA Fox Doodle Spotlight
 
+multi-cta-fox-doodle-title = Bentornâts
+multi-cta-fox-doodle-set-default-checkbox = Met { -brand-short-name } come predefinît
+multi-cta-fox-doodle-pin-startmenu-checkbox = Fisse { -brand-short-name } tal menù Start
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] Ten { -brand-short-name } tal Dock
+       *[other] Fisse { -brand-short-name } te sbare des ativitâts
+    }
+multi-cta-fox-doodle-start-browsing-primary-button-label = Scomence a navigâ
+multi-cta-fox-doodle-main-browser-primary-button-label = Rint { -brand-short-name } il gno navigadôr principâl
+multi-cta-fox-doodle-quick-reminder-subtitle = Un pro memoria a sec: tu puedis vê il to navigadôr preferît incentrât su la riservatece simpri a puartade di clic.

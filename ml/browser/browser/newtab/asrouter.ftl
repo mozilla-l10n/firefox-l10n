@@ -230,6 +230,7 @@ root-certificate-succession-infobar-secondary-button =
 
 ## Root Certificate Succession Windows Background Notification
 
+root-certificate-windows-background-notification-title = താങ്ങൾ ഒരു പ്രധാനപ്പെട്ട { -brand-short-name } പുതുക്കൽ കാണാതെ പോയി
 root-certificate-windows-background-notification-learn-more-button = കൂടുതല്‍ അറിയുക
 root-certificate-windows-background-notification-update-button = { -brand-short-name } പുതുക്കുക
 
@@ -242,6 +243,12 @@ fxa-menu-message-sign-up-button = അംഗത്വമെടുക്കുക
 fxa-menu-message-sync-devices-primary-text = താങ്ങളുടെ എല്ലാ ഉപകരണങ്ങളെ സമന്വയിപ്പിക്കുക
 fxa-menu-message-sync-devices-collapsed-text = താങ്ങളുടെ എല്ലാ ഉപകരണങ്ങളെ സമന്വയിപ്പിക്കുക
 fxa-menu-message-backup-data-primary-text = അന്വേഷിയന്ത്രദത്തയുടെ കരുതൽപകൎപ്പു് സൂക്ഷിച്ചു് വയ്ക്കുക
+fxa-menu-message-backup-data-collapsed-text = അന്വേഷിയന്ത്രദത്തയുടെ കരുതൽപകൎപ്പു് സൂക്ഷിച്ചു് വയ്ക്കുക
+fxa-menu-message-backup-sync-primary-text = താങ്ങളുടെ ദത്ത സൂക്ഷിച്ചും സമന്വയത്തോടു് കരുതിവയ്ക്കുക
+fxa-menu-message-backup-sync-collapsed-text = ദത്ത സമന്വയിപ്പിച്ച് കരുതിവയ്ക്കുക
+fxa-menu-message-mobile-primary-text = ഫോണിലോട്ടു് ടാബുകളെ അയയ്ക്കുക
+fxa-menu-message-mobile-secondary-text = താങ്ങൾ ഒരു മൊബൈൽ ഉപകരണം കൊണ്ടു് ടാബുകളെ സമന്വയിച്ചാൽ താങ്ങൾക്കു് നിരുത്തിയിടത്തിൽ നിന്നു് ഉടനേ തുടങ്ങാം.
+fxa-menu-message-mobile-collapsed-text = ഫോൺ കൂടെ സമന്വയിക്കുക
 
 ## Multi-CTA Fox Doodle Spotlight
 
@@ -254,4 +261,4 @@ multi-cta-fox-doodle-pin-checkbox =
        *[other] { -brand-short-name }-നെ കാര്യപ്പട്ടയിൽ കുത്തിവയ്ക്കുക
     }
 multi-cta-fox-doodle-start-browsing-primary-button-label = തിരയാൻ തുടങ്ങുക
-multi-cta-fox-doodle-main-browser-primary-button-label = { -brand-short-name } എന്റെ പ്രധാന അന്വേഷിയന്ത്രമാക്കി വയ്ക്കുക
+multi-cta-fox-doodle-main-browser-primary-button-label = { -brand-short-name } എന്റെ എഴുന്ന അന്വേഷിയന്ത്രമാക്കി വയ്ക്കുക

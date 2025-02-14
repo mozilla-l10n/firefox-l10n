@@ -69,6 +69,25 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Domande a { $provider }…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = Il chatbot IA nol ricevarà la selezion interie
+    .message =
+        { $selectionLength ->
+            [one] Tu âs selezionât plui o mancul { $selectionLength } caratars. Il numar di caratars che o podìn inviâ al chatbot IA al è di cirche { $maxLength }.
+           *[other] Tu âs selezionât plui o mancul { $selectionLength } caratars. Il numar di caratars che o podìn inviâ al chatbot IA al è di cirche { $maxLength }.
+        }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } nol ricevarà la selezion interie
+    .message =
+        { $selectionLength ->
+            [one] Tu âs selezionât cirche { $selectionLength } caratars. Il numar massim di caratars che o podìn mandâ a { $provider } al è di cirche { $maxLength }
+           *[other] Tu âs selezionât cirche { $selectionLength } caratars. Il numar massim di caratars che o podìn mandâ a { $provider } al è di cirche { $maxLength }.
+        }
 genai-shortcuts-hide =
     .label = Plate la scurte pai chatbot
 
