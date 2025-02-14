@@ -80,3 +80,8 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Proteziti dal spam cuntune mascare di pueste eletroniche
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Proteziti dal spam platant la tô direzion reâl cuntune <label data-l10n-name="firefox-relay-learn-more-url">mascare di pueste eletroniche</label>. Tu continuarâs a ricevi lis e-mails di <label data-l10n-name="firefox-fxa-and-relay-offer-domain">chest sît</label> te tô normâl casele di pueste, ma la tô direzion e-mail e restarà al sigûr.
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Par doprâ la mascare di pueste eletroniche prime, regjistriti o jentre sul to account
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
+    .label = Sucessîf
+    .accesskey = S
