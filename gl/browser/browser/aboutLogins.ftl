@@ -479,6 +479,16 @@ about-logins-import-report-added2 =
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Engadiuse un novo contrasinal</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Engadíronse novos contrasinais</div>
     }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Actualizouse a entrada existente</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Actualizáronse as entradas existentes</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">entrada duplicada</div> <div data-l10n-name="not-imported">(non importada)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">entradas duplicadas</div> <div data-l10n-name="not-imported ">(non importadas)</div>
+    }
 about-logins-import-report-error =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Erro</div> <div data-l10n-name="not-imported">(non importado)</div>
