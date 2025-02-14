@@ -165,16 +165,16 @@ firefoxview-search-text-box-recentbrowsing =
     .placeholder = ძიება
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
-    .placeholder = ძიება მონახულებულ გვერდებში
+    .placeholder = ძიება მონახულებულში გვერდებში
 # Placeholder for the input field to search in recently closed tabs ("search" is a verb).
 firefoxview-search-text-box-recentlyclosed =
-    .placeholder = ძიება ბოლოს დახურული ჩანართებში
+    .placeholder = ძიება ბოლოს დახურულში
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-tabs =
-    .placeholder = ჩანართების ძიება
+    .placeholder = ძიება ჩანართებში
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-syncedtabs =
-    .placeholder = დასინქრონებულ ჩანართებში ძიება
+    .placeholder = ძიება დასინქრონებულში
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = ძიება გახსნილ ჩანართებში
