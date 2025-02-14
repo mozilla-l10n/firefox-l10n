@@ -117,6 +117,11 @@ profiler-popup-edit-settings-button =
     .label = అమరికలను మార్చండి…
 profiler-popup-discard-button =
     .label = విస్మరించు
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
