@@ -404,6 +404,11 @@ about-logins-import-dialog-items-no-change =
         [one] <span>Duplicar a identificación atopada:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(not imported)</span>
        *[other] <span>Duplicar a identificacións atopadas:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(not imported)</span>
     }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+        [one] <span>Engadiuse un novo contrasinal:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Engadíronse novos contrasinais:</span> <span data-l10n-name="count">{ $count }</span>
+    }
 about-logins-import-dialog-items-modified2 =
     { $count ->
         [one] <span>Entrada existente actualizada:</span> <span data-l10n-name="count">{ $count }</span>
