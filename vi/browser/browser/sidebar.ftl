@@ -58,6 +58,10 @@ sidebar-show-on-the-right =
     .label = Di chuyển thanh lề sang phải
 sidebar-show-on-the-left =
     .label = Di chuyển thanh lề sang trái
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Mở rộng thanh lề khi di chuột tới nó
 sidebar-horizontal-tabs =
     .label = Thẻ ngang
 sidebar-customize-tabs-header =

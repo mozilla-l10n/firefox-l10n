@@ -18,3 +18,4 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = Đóng các thẻ trùng
 all-tabs-menu-synced-tabs =
     .label = Thẻ từ thiết bị khác
+all-tabs-menu-current-window-header = Cửa sổ hiện tại
