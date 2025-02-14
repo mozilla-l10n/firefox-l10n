@@ -147,6 +147,8 @@ profiler-popup-presets-media-label =
     .label = మాధ్యమాలు
 profiler-popup-presets-networking-label =
     .label = నెట్‌వర్కింగ్
+profiler-popup-presets-custom-label =
+    .label = అభిమతం
 
 ## History panel
 

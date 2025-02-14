@@ -303,7 +303,10 @@ search-one-offs-actions =
 quickactions-cmd-bookmarks = ఇష్టాంశాలు
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = చరిత్రను తుడిచివేయి
+# Opens about:downloads page
+quickactions-downloads2 = దింపుకోళ్ళను చూడండి
 quickactions-cmd-downloads = దింపుకోళ్ళు
+quickactions-cmd-extensions = పొడగింతలు
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = పేజీని PDFగా భద్రపరుచు
 quickactions-cmd-private = అంతరంగిక విహారణ
