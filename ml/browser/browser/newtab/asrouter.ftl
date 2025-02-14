@@ -215,6 +215,7 @@ launch-on-login-infobar-final-reject-button = വേണ്ട, നന്ദി
 
 ## Tail Fox Set Default Spotlight
 
+tail-fox-spotlight-primary-button = കണ്ണികൾ { -brand-short-name } വഴി തുറക്കുക
 tail-fox-spotlight-secondary-button = ഇപ്പോഴല്ല
 
 ## Root Certificate Succession Infobar
@@ -253,3 +254,4 @@ multi-cta-fox-doodle-pin-checkbox =
        *[other] { -brand-short-name }-നെ കാര്യപ്പട്ടയിൽ കുത്തിവയ്ക്കുക
     }
 multi-cta-fox-doodle-start-browsing-primary-button-label = തിരയാൻ തുടങ്ങുക
+multi-cta-fox-doodle-main-browser-primary-button-label = { -brand-short-name } എന്റെ പ്രധാന അന്വേഷിയന്ത്രമാക്കി വയ്ക്കുക

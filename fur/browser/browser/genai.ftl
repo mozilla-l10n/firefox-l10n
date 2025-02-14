@@ -43,6 +43,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = Spieghimi cheste robe
     .value = Spieghe i concets clâf in cheste selezion, doprant peraulis semplicis. Dopre ancje esemplis.
+# Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
+genai-prompts-proofread =
+    .label = Revisione il test
+    .value = Bute un voli al test selezionât par erôrs di ortografie o di gramatiche. Identifiche i erôrs e furnìs une version corete dal test. Manten il significât e la precision dai fats, prime scrîf une liste des corezions proponudis, dopo ae fin, la version corezude dal test.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
@@ -55,6 +59,11 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Domande a { $provider }
+genai-menu-remove-generic =
+    .label = Gjave chatbot IA
+# $provider (string) - name of the provider
+genai-menu-remove-provider =
+    .label = Gjave { $provider }
 genai-input-ask-generic =
     .placeholder = Domande al chatbox IA…
 # $provider (string) - name of the provider
