@@ -29,6 +29,7 @@ return-to-amo-add-theme-label = أضِف السمة
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
 mr1-return-to-amo-subtitle = رحّب بـ{ -brand-short-name }
+mr1-return-to-amo-add-extension-label = أضف { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
@@ -38,6 +39,8 @@ mr1-return-to-amo-subtitle = رحّب بـ{ -brand-short-name }
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 
+onboarding-welcome-steps-indicator-label =
+    .aria-label = التقدم: الخطوة { $current } من { $total }
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = عطّل الرسوم المتحركة
 # String for the Firefox Accounts button
@@ -50,6 +53,7 @@ mr1-onboarding-theme-header = طوّعه كما ترغب
 mr1-onboarding-theme-subtitle = خصّص { -brand-short-name } باستعمال سمة.
 mr1-onboarding-theme-secondary-button-label = ليس الآن
 newtab-wallpaper-onboarding-title = جرب دفقة من الألوان
+newtab-wallpaper-onboarding-subtitle = اختر خلفية الشاشة لإضفاء مظهر مُنعش على لسان جديد.
 newtab-wallpaper-onboarding-primary-button-label = عيّن خلفية
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = سمة النظام
@@ -135,6 +139,17 @@ onboarding-live-language-skip-button-label = تخطَّ
 
 ## Firefox 100 Thank You screens
 
+# "Hero Text" displayed on left side of welcome screen. This text can be
+# formatted to span multiple lines as needed. The <span data-l10n-name="zap">
+# </span> in this string allows a "zap" underline style to be automatically
+# added to the text inside it. "Yous" should stay inside the zap span, but
+# "Thank" can be put inside instead if there's no "you" in the translation.
+# The English text would normally be "100 Thank-Yous" i.e., plural noun, but for
+# aesthetics of splitting it across multiple lines, the hyphen is omitted.
+fx100-thank-you-hero-text =
+    100
+    شكرًا
+    <span data-l10n-name="zap">لكم</span>
 fx100-thank-you-subtitle = هذا الإصدار رقم 100! شكرا لمساعدتنا في بناء إنترنت أفضل وأكثر صحة.
 fx100-upgrade-thanks-header = 100 شكرا لكم
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
@@ -148,9 +163,18 @@ mr2022-onboarding-secondary-skip-button-label = تجاوز هذه الخُطوة
 
 # Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
 mr2022-onboarding-easy-setup-primary-button-label = احفظ و واصِل
+# Import action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-import-checkbox-label = استورِدها من المتصفّح السابق
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = افتح شبكة إنترنت مذهلة
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = شغّل { -brand-short-name } من أي مكان بنقرة واحدة. في كل مرة تفعل ذلك، فإنك تختار شبكة وب أكثر انفتاحًا واستقلالية.
 # Subtitle will be used when user already has Firefox pinned, but
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
@@ -273,11 +297,19 @@ onboarding-device-migration-primary-button-label = لِج
 
 ## Add-ons Picker screen
 
+amo-picker-title = خصّص { -brand-short-name }
 amo-picker-install-button-label = أضِف إلى { -brand-short-name }
 amo-picker-install-complete-label = مُثبت
+amo-picker-collection-link = استكشف المزيد من الإضافات
 
 ## The following screens have been updated to use security and privacy focused strings:
 
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = نحن نحب إبقاءك آمنًا
+onboarding-easy-setup-security-and-privacy-subtitle = يساعدك متصفحنا الذي تدعمه مؤسستنا غير الربحية على منع الشركات من متابعتك سراً عبر الوِب.
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } يدعمك
+onboarding-sign-up-secondary-button = ابدأ التصفح
 
 ## New user time and familiarity survey strings
 
