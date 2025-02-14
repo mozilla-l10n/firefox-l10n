@@ -41,3 +41,5 @@ genai-onboarding-huggingchat-tooltip =
 
 genai-onboarding-claude-price = ທາງເລືອກທີ່ບໍ່ເສຍຄ່າ ແລະ ຈ່າຍ; ບັນຊີທີ່ຕ້ອງການ
 genai-onboarding-chatgpt-generate = ສ້າງຂໍ້ຄວາມ, ຮູບພາບ, ແລະ ລະຫັດ
+genai-onboarding-copilot-analyze = ວິເຄາະຮູບພາບ
+genai-onboarding-copilot-price = ມີຕົວເລືອກແບບຟຣີ ແລະ ແບບຊຳລະເງິນ; ຕ້ອງມີບັນຊີສຳລັບບາງວຽກ

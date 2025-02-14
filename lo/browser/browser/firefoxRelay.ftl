@@ -61,6 +61,7 @@ firefox-relay-offer-legal-notice-control = ໂດຍການລົງທະບ�
 ## The "basic-info" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-basic-info = ປ້ອງກັນສະແປມດ້ວຍໂຕປົກປິດອີເມວຟຣີ
+firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = ທໍາອິດ, ລົງທະບຽນ ຫຼື ເຂົ້າສູ່ລະບົບບັນຊີຂອງທ່ານເພື່ອໃຊ້ໂຕປົກປິດອີເມວ
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = ລົງ​ທະ​ບຽນ
     .accesskey = S

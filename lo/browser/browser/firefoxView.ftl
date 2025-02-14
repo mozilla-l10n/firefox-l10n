@@ -184,12 +184,17 @@ firefoxview-dont-remember-history-empty-header = ບໍ່ມີຫຍັງທ�
 
 ##
 
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = ປິດ
+    .title = ປິດ
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = ປິດແຖບໄວເກີນໄປບໍ?
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
