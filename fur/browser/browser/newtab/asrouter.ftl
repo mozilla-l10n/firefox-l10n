@@ -337,3 +337,9 @@ multi-cta-fox-doodle-pin-checkbox =
 multi-cta-fox-doodle-start-browsing-primary-button-label = Scomence a navigâ
 multi-cta-fox-doodle-main-browser-primary-button-label = Rint { -brand-short-name } il gno navigadôr principâl
 multi-cta-fox-doodle-quick-reminder-subtitle = Un pro memoria a sec: tu puedis vê il to navigadôr preferît incentrât su la riservatece simpri a puartade di clic.
+multi-cta-fox-doodle-privacy-focused-subtitle =
+    { PLATFORM() ->
+        [macos] Manten il to navigadôr preferît incentrât su la riservatece simpri a puartade di clic. Met { -brand-short-name } tant che navigadôr predefinît par vierzi colegaments, zontilu al Dock.
+       *[other] Manten il to navigadôr preferît incentrât su la riservatece simpri a puartade di clic. Met { -brand-short-name } tant che navigadôr predefinît par vierzi colegaments, zontilu ae sbare des ativitâts.
+    }
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = Manten il to navigadôr preferît incentrât su la riservatece simpri a puartade di clic. Met { -brand-short-name } tant che navigadôr predefinît par vierzi colegaments e fissilu te sbare des ativitâts e tal menù Start.

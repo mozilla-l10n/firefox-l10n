@@ -29,6 +29,7 @@ return-to-amo-add-theme-label = അലങ്കാരം ചേൎക്കു�
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
 mr1-return-to-amo-subtitle = { -brand-short-name }-നോടു് ഹലോ പറയാം
+mr1-return-to-amo-add-extension-label = { $addon-name } ചേൎക്കുക
 
 ## Multistage onboarding strings (about:welcome pages)
 
@@ -38,6 +39,8 @@ mr1-return-to-amo-subtitle = { -brand-short-name }-നോടു് ഹലോ പ
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 
+onboarding-welcome-steps-indicator-label =
+    .aria-label = മുന്നേറ്റം: { $total }-ൽ { $current }-ആം പടി
 # String for the Firefox Accounts button
 mr1-onboarding-sign-in-button-label = പ്രവേശിക്കുക
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
@@ -47,6 +50,7 @@ mr1-onboarding-import-primary-button-label-attribution = { $previous } നിന
 mr1-onboarding-theme-header = താങ്ങളുടെ സ്വന്തമാക്കുക
 mr1-onboarding-theme-subtitle = ഒരു അലങ്കാരം കൂടെ { -brand-short-name } വ്യക്തിപരമാക്കുക
 mr1-onboarding-theme-secondary-button-label = ഇപ്പോഴല്ല
+newtab-wallpaper-onboarding-primary-button-label = ചുവൎക്കടലാസു് ഇടുക
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = വ്യവസ്ഥ അലങ്കാരം
 mr1-onboarding-theme-label-light = ഇളം
@@ -196,3 +200,5 @@ multi-profile-callout-cta = രൂപരേഖയുണ്ടാക്കുക
 
 ## Desktop to Mobile Adoption feature callout strings
 
+dismiss-button-label = കളയുക
+sync-to-mobile-button-label = മൊബൈലിലേക്കു് സമന്വയിപ്പിക്കുക

@@ -4,10 +4,26 @@
 
 profile-window-heading = Sielç un profîl di { -brand-short-name }
 profile-window-body = Manten separadis lis ativitâts lavorativis e chês personâls intant che tu navighis, includudis robis come passwords e segnelibris. Opûr cree profîi par ogni persone che e dopre chest dispositîf.
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label-2 =
+    .label = Sielç un profîl cuant che tu vierzis { -brand-short-name }
 profile-window-create-profile = Cree un profîl
+profile-card-edit-button =
+    .title = Modifiche profîl
+    .aria-label = Modifiche profîl
+profile-card-delete-button =
+    .title = Elimine profîl
+    .aria-label = Elimine profîl
+# Variables
+#   $profileName (string) - The name of the profile
+profile-card =
+    .title = Vierç { $profileName }
+    .aria-label = Vierç { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Profîl { $number }
+# The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
+original-profile-name = Profîl origjinâl
 edit-profile-page-title = Modifiche profîl
 edit-profile-page-header = Modifiche il to profîl
 edit-profile-page-profile-name-label = Non dal profîl
@@ -27,6 +43,9 @@ new-profile-page-input-placeholder =
     .placeholder = Sielç un non come “Lavôr” o “Personâl”
 new-profile-page-done-button =
     .label = Modifiche completade
+profile-window-title-2 = { -brand-short-name } - Sielte dal profîl
+profile-window-logo =
+    .alt = Logo di { -brand-short-name }
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 

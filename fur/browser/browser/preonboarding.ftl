@@ -16,5 +16,14 @@ preonboarding-terms-of-use-header-button-title = Lei lis nestris cundizions di u
 preonboarding-privacy-notice-header-button-title = Lei la nestre informative su la riservatece
 # Label for header style button that toggles showing the data preference checklist
 preonboarding-manage-data-header-button-title = Gjestìs dâts diagnostics e di interazion
+# Label for header style button that toggles showing the Terms of Use (Variant B)
+preonboarding-terms-of-use-header-button-title-b = Cundizions di utilizazion di { -brand-product-name }
+# Label for header style button that toggles showing the Privacy Notice (Variant B)
+preonboarding-privacy-notice-header-button-title-b = Informative su la riservatece di { -brand-product-name }
+# Description under label for header style buttons
+preonboarding-header-button-description = Altris informazions
 # New user onboarding checklist
 preonboarding-checklist-interaction-data-label = Mande dâts tecnics e di interazion a { -vendor-short-name }
+preonboarding-checklist-interaction-data-description = I dâts relatîfs al to dispositîf, ae sô configurazion hardware e al mût che tu dopris { -brand-product-name } a judin a miorâ funzionalitâts, prestazions e stabilitât par ducj i utents dal mont.
+preonboarding-checklist-crash-reports-label = Mande in automatic i rapuarts sui colàs
+preonboarding-checklist-crash-reports-description = Lis segnalazions sui colàs nus permetin di fâ une diagnosi e comedâ i problemis cul navigadôr. Lis segnalazions a puedin includi dâts personâi o sensibii.

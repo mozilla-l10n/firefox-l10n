@@ -8,6 +8,9 @@
 newtab-page-title = Gnove schede
 newtab-settings-button =
     .title = Personalize la pagjine de tô gnove schede
+newtab-personalize-settings-icon-label =
+    .title = Personalize Gnove schede
+    .aria-label = Impostazions
 newtab-settings-dialog-label =
     .aria-label = Impostazions
 newtab-personalize-icon-label =

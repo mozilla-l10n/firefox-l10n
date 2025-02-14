@@ -208,6 +208,8 @@ newtab-section-header-recent-activity = ഒടുവിലുള്ള പ്ര
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } ശുപാർശ ചെയ്തത്
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = ഇന്നത്തെ ശുപാൎശ ചെയ്തപ്പെട്ട ലേഖനങ്ങൾ
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -219,6 +221,7 @@ newtab-empty-section-topstories = നിങ്ങൾ ഇവിടെ വരെ �
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-content = കൂടുതൽ കഥകൾക്കായി പിന്നീടു് തിരിച്ചു വരുക
 newtab-discovery-empty-section-topstories-try-again-button = വീണ്ടും ശ്രമിക്കുക
 newtab-discovery-empty-section-topstories-loading = ലഭ്യമാക്കുന്നു…
 
@@ -369,6 +372,9 @@ newtab-topic-label-home = വീടും പുന്തോട്ടവും
 newtab-topic-selection-save-button = കരുതിവയ്ക്കുക
 newtab-topic-selection-cancel-button = റദ്ദാക്കുക
 newtab-topic-selection-button-maybe-later = പിന്നെ പറയാം
+newtab-topic-selection-privacy-link = ഞങ്ങൾ ഡാറ്റ എങ്ങനെ സംരക്ഷിക്കുകയും കൈകാര്യം ചെയ്യുകയും ചെയ്യുന്നുവെന്നു് അറിയുക
+newtab-topic-selection-button-update-interests = താങ്ങളുടെ താൽപര്യങ്ങൾ പുതുക്കുക
+newtab-topic-selection-button-pick-interests = താങ്ങളുടെ താൽപര്യങ്ങൾ പറിച്ചെടുക്കുക
 
 ## Content Feed Sections
 ## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.

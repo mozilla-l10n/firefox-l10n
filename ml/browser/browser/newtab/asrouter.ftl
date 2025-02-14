@@ -243,6 +243,7 @@ fxa-menu-message-sign-up-button = അംഗത്വമെടുക്കുക
 fxa-menu-message-sync-devices-primary-text = താങ്ങളുടെ എല്ലാ ഉപകരണങ്ങളെ സമന്വയിപ്പിക്കുക
 fxa-menu-message-sync-devices-collapsed-text = താങ്ങളുടെ എല്ലാ ഉപകരണങ്ങളെ സമന്വയിപ്പിക്കുക
 fxa-menu-message-backup-data-primary-text = അന്വേഷിയന്ത്രദത്തയുടെ കരുതൽപകൎപ്പു് സൂക്ഷിച്ചു് വയ്ക്കുക
+fxa-menu-message-backup-data-secondary-text = താങ്ങളുടെ എല്ലാ ഉപകരണങ്ങളിലും താങ്ങളുടെ അടയാളക്കുറിപ്പുകളും രഹസ്യവാക്കുകളും മറ്റു് വിവരങ്ങളും കാക്കുക.
 fxa-menu-message-backup-data-collapsed-text = അന്വേഷിയന്ത്രദത്തയുടെ കരുതൽപകൎപ്പു് സൂക്ഷിച്ചു് വയ്ക്കുക
 fxa-menu-message-backup-sync-primary-text = താങ്ങളുടെ ദത്ത സൂക്ഷിച്ചും സമന്വയത്തോടു് കരുതിവയ്ക്കുക
 fxa-menu-message-backup-sync-collapsed-text = ദത്ത സമന്വയിപ്പിച്ച് കരുതിവയ്ക്കുക
