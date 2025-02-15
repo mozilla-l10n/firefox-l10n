@@ -102,6 +102,7 @@ item-site-prefs =
 item-formdata-prefs =
     .label = Informazions dai formularis salvadis
     .accesskey = o
+item-formdata-description = Al nete robis come nons, e-mails e altris elements che tu inserissis tai formularis
 item-site-prefs-description = Al ristabilìs i permès e lis preferencis dai sîts aes impostazions origjinâls
 data-section-label = Dâts
 item-site-settings =
