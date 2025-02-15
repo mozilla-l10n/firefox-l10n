@@ -53,6 +53,10 @@ sync-profile-different-account-header = Tämä profiili synkronoitiin aiemmin to
 sync-profile-different-account-description = Tietojen järjestyksessä ja turvassa pitämiseksi yksittäinen { -brand-product-name }-profiili on mahdollista synkronoida vain yhteen tiliin. Jos haluat kirjautua sisään käyttämällä { $acctEmail }, luo uusi profiili.
 # Dialog 1 - different account signing in with merge option
 sync-profile-different-account-title-merge = Profiili synkronoitu eri tilille
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $profileName (String) - Name of the current profile
+sync-profile-different-account-description-merge = Tietojesi järjestyksessä ja turvassa pitämiseksi suosittelemme luomaan uuden profiilin kirjautumiseen käyttämällä { $acctEmail }. Jos päätät jatkaa synkronointia tässä profiilissa, molempien tilien tiedot yhdistetään pysyvästi profiiliin "{ $profileName }".
 # Dialog 2 - account signed in on another profile without option to merge
 sync-account-in-use-header = Tili on jo käytössä
 # Variables:

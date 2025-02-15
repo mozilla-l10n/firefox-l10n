@@ -519,6 +519,7 @@ pdfjs-editor-undo-bar-close-button-label = Sulje
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-label = Tämän ikkunan avulla käyttäjä voi luoda allekirjoituksen PDF-asiakirjaan lisättäväksi. Käyttäjä voi muokata nimeä (joka toimii myös vaihtoehtoisena tekstinä) ja valinnaisesti tallentaa allekirjoituksen toistuvaa käyttöä varten.
 pdfjs-editor-add-signature-dialog-title = Lisää allekirjoitus
 
 ## Tab names

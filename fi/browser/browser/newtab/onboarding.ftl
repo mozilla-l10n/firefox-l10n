@@ -446,6 +446,10 @@ onboarding-checklist-sign-up = Rekisteröidy tai kirjaudu sisään tilillesi
 
 tab-groups-onboarding-feature-callout-title = Kokeile välilehtiryhmiä vähentääksesi sotkua ja keskittyäksesi paremmin
 tab-groups-onboarding-feature-callout-subtitle = Järjestäydy vetämällä välilehti toisen päälle ja luo siten ensimmäinen ryhmä.
+tab-groups-onboarding-create-group-title = Löydä avoimet ryhmät välilehtipalkista tai etsimällä niitä osoiterivillä.
+tab-groups-onboarding-saved-groups-title = Jos suljet välilehtiryhmän, voit avata sen uudelleen täällä milloin tahansa.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title = Löydä avoimet tai suljetut välilehtiryhmät milloin tahansa tekemällä hakuja osoiterivillä.
+tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages
 
@@ -458,3 +462,9 @@ multi-profile-callout-cta = Luo profiili
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = Lataa, synkronoi ja menoksi!
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Skannaa QR-koodi ladataksesi { -brand-product-name }in mobiililaitteelle. Kun olet asentanut sen, valitse "Synkronoi matkapuhelimeen" käyttääksesi salasanoja, kirjanmerkkejä ja muuta liikkeellä ollessasi.
+dismiss-button-label = Hylkää
+sync-to-mobile-button-label = Synkronoi mobiililaitteeseen
