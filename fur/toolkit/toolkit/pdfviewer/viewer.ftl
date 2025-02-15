@@ -568,3 +568,5 @@ pdfjs-editor-add-signature-error-close-button = Siere
 
 ## Dialog buttons
 
+pdfjs-editor-add-signature-cancel-button = Anule
+pdfjs-editor-add-signature-add-button = Zonte
