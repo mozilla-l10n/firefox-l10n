@@ -198,21 +198,100 @@ addon-open-about-debugging = ആഡ്-ഓണുകള്‍ ഡീബഗ് ച
 addon-manage-extensions-shortcuts = വിപുലീകരണ കുറുക്കുവഴികളെ കൈകാര്യം ചെയ്യുക
     .accesskey = വ
 shortcuts-no-addons = നിങ്ങൾക്ക് ഒരു വിപുലീകരണങ്ങളും പ്രവർത്തനക്ഷമമാക്കിയിട്ടില്ല.
+shortcuts-no-commands = ഇനിപറയുന്ന വിപുലീകരണങ്ങൾക്കു് കുറുക്കുവഴികളില്ല:
+shortcuts-input =
+    .placeholder = കുറുക്കുവഴി എഴുതുക
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = കുറുക്കുവഴി മാറ്റുക
+shortcuts-browserAction2 = കരുപ്പട്ട പട്ടൺ സജീവമാക്കുക
+shortcuts-pageAction = താൾ പ്രവൎത്തികളെ സജീവമാക്കുക
 shortcuts-sidebarAction = അണിവക്കം ടോഗിൾ ചെയ്യുക
+shortcuts-modifier-mac = Ctrl, Alt, അല്ലെങ്കിൽ ⌘ ഉൾപ്പെടുത്തുക
+shortcuts-modifier-other = Ctrl അല്ലെങ്കിൽ Alt ഉൾപ്പെടുത്തുക
+shortcuts-invalid = അസാധുവായ ചേൎച്ചൽ
+shortcuts-letter = അക്ഷരം എഴുതുക
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = കുറുക്കുവഴി ഇരട്ടിക്കുക
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] ഇനിയും { $numberToShow } കാണിക്കുക
+       *[other] ഇനിയും { $numberToShow } കാണിക്കുക
+    }
+shortcuts-card-collapse-button = കുറച്ച് കാണിക്കുക
+header-back-button =
+    .title = തിരികെ
 
 ## Recommended add-ons page
 
+discopane-notice-learn-more = കൂടുതലറിയുക
+privacy-policy = സ്വകാര്യത നയം
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = <a data-l10n-name="author-name">{ $author }</a> നാൽ
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = ഉപയോക്താക്കൾ: { $dailyUsers }
+install-extension-button = { -brand-product-name }-ലോട്ടു് ചേൎക്കുക
 
 ## Add-on actions
 
+addon-detail-version-label = പതിപ്പു്
+addon-detail-last-updated-label = ഏറ്റവും ഒടുവില്‍ പുതുക്കിയതു്
+addon-detail-homepage-label = ആമുഖതാൾ
+install-postponed-button = ഉടൻ പുതുക്കുക
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> മാറ്റിയിരിക്കുന്നു
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = { $addon } മാറ്റിയിരിക്കുന്നു
 pending-uninstall-undo-button = പഴയപടിയാക്കുക
+addon-detail-updates-label = തനിയെയുള്ള പുതുക്കലുകള്‍ അനുവദിക്കുക
+addon-detail-updates-radio-default = തനിമട്ട്
+addon-detail-updates-radio-on = തുടങ്ങിയതു്
+addon-detail-updates-radio-off = അണച്ചതു്
+addon-detail-update-check-label = പരിഷ്കരണങ്ങള്‍ക്കായി നോക്കുക
+install-update-button = പുതുക്കുക
+# aria-label associated to the updates row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-updates =
+    .aria-label = { addon-detail-updates-label }
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed3 =
+    .title = സ്വകാര്യ ജാലകങ്ങളിൽ അനുമതിയുണ്ടു്
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = സ്വകാര്യ ജാലകങ്ങളിൽ അനുമതിയുണ്ടു്
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
+addon-detail-private-browsing-allow = അനുവദിക്കുക
+addon-detail-private-browsing-disallow = അനുവദിക്കരുത്
+# aria-label associated to the private browsing row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-private-browsing =
+    .aria-label = { detail-private-browsing-label }
 
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+# Used as a description for the option to allow or block an add-on on quarantined domains.
+addon-detail-quarantined-domains-label = അതിരുകൾ കൂടെ വെബുസ്ഥാനങ്ങളിൽ നടത്തുക
+# Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
+addon-detail-quarantined-domains-allow = അനുവദിക്കുക
+addon-detail-quarantined-domains-disallow = അനുവദിക്കരുത്
+# aria-label associated to the quarantined domains exempt row to help screen readers to announce the group.
+addon-detail-group-label-quarantined-domains =
+    .aria-label = { addon-detail-quarantined-domains-label }
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
@@ -220,9 +299,14 @@ pending-uninstall-undo-button = പഴയപടിയാക്കുക
 
 ##
 
+release-notes-loading = ലഭ്യമാക്കുന്നു…
+addon-permissions-learnmore = അനുമതികളെക്കുറിച്ച് കൂടുതലറിയുക
+recommended-extensions-heading = ശുപാൎശ ചെയ്യപ്പെട്ട വിപുലീകരണങ്ങൾ
+recommended-themes-heading = ശുപാൎശ ചെയ്യപ്പെട്ട അലങ്കാരങ്ങൾ
 
 ## Page headings
 
+extension-heading = വിപുലീകരണങ്ങളെ കൈകാര്യം ചെയ്യുക
 addon-page-options-button =
     .title = എല്ലാ ആഡ്-ഓണുകള്‍ക്കുമുള്ള പ്രയോഗങ്ങള്‍
 
@@ -248,6 +332,11 @@ details-notification-unsigned-link = കൂടുതല്‍ വിവരങ്
 details-notification-blocked = സുരക്ഷാ, സ്ഥിരത പ്രശ്നങ്ങള്‍ കാരണം { $name } പ്രവര്‍ത്തന രഹിതമാണു്.
 details-notification-blocked2 =
     .message = സുരക്ഷാ, സ്ഥിരത പ്രശ്നങ്ങള്‍ കാരണം { $name } പ്രവര്‍ത്തന രഹിതമാണു്.
+details-notification-soft-blocked-extension-enabled =
+    .message = ഈ വിപുലീകരണം മോസില്ലയുടെ നയങ്ങളെ ലംഘിക്കുന്നു. ഇത് ഉപയോഗിക്കുന്നതു് അപകടകരമായേക്കാം.
+details-notification-soft-blocked-other-enabled =
+    .message = ഈ വിപുലീകരണം മോസില്ലയുടെ നയങ്ങളെ ലംഘിക്കുന്നു. ഇത് ഉപയോഗിക്കുന്നതു് അപകടകരമായേക്കാം.
+details-notification-softblocked-link2 = വിശദാംശങ്ങൾ കാണുക
 details-notification-blocked-link = കൂടുതല്‍ വിവരങ്ങള്‍
 details-notification-softblocked = സുരക്ഷാ, സ്ഥിരത പ്രശ്നങ്ങള്‍ക്കു് { $name } കാരണമാകുന്നു.
 details-notification-softblocked2 =
