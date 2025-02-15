@@ -516,15 +516,30 @@ pdfjs-editor-undo-bar-close-button-label = Жабу
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-title = Қолтаңба қосу
 
 ## Tab names
 
+# Type is a verb (you can type your name as signature)
+pdfjs-editor-add-signature-type-button = Енгізу
+    .title = Енгізу
+# Draw is a verb (you can draw your signature)
+pdfjs-editor-add-signature-draw-button = Сурет салу
+    .title = Сурет салу
+pdfjs-editor-add-signature-image-button = Сурет
+    .title = Сурет
 
 ## Tab panels
 
 
 ## Controls
 
+pdfjs-editor-add-signature-description-default-when-drawing = Қолтаңба
+pdfjs-editor-add-signature-clear-button-label = Қолтаңбаны өшіру
+pdfjs-editor-add-signature-clear-button =
+    .title = Қолтаңбаны өшіру
+pdfjs-editor-add-signature-save-checkbox = Қолтаңбаны сақтау
+pdfjs-editor-add-signature-error-close-button = Жабу
 
 ## Dialog buttons
 
