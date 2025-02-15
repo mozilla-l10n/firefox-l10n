@@ -452,3 +452,4 @@ multi-profile-callout-cta = Профиль жасау
 
 ## Desktop to Mobile Adoption feature callout strings
 
+dismiss-button-label = Елемеу

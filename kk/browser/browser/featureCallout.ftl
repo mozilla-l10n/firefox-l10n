@@ -94,3 +94,7 @@ sidebar-genai-survey-satisfaction-question = Бүйір панелінде AI ч
 sidebar-genai-survey-productive-question =
     Сіз бұл мәлімдемемен қаншалықты келісесіз:<br/>
     "Бүйір панеліндегі AI чат-боты маған өнімдірек болуға көмектеседі"?
+unified-search-callout-primary-label = Келесі
+unified-search-callout-secondary-label = Елемеу
+unified-search-engines-callout-title = Жарлық арқылы іздеу
+unified-search-engines-callout-primary-label = Түсіндім
