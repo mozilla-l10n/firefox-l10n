@@ -65,6 +65,7 @@ sidebar-callout-survey-saved-websites-2 = താങ്ങളുടെ അടയ�
 sidebar-callout-survey-none-of-above = മുകളിലുള്ള ഏതെങ്കിലുമല്ല
 sidebar-callout-survey-submit = സമർപ്പിക്കുക
 sidebar-callout-survey-thank-you = താങ്കളുടെ പ്രതികരണത്തിനു് നന്ദി
+unified-search-callout-title = തിരച്ചിൽ യന്ത്രങ്ങൾക്കിടയിൽ മാറുക
 unified-search-callout-primary-label = അടുത്തതു്
 unified-search-callout-secondary-label = കളയുക
 unified-search-engines-callout-title = കുറുക്കുവഴി കൊണ്ടു് തിരയുക

@@ -14,7 +14,7 @@
 certificate-viewer-boolean =
     { $boolean ->
         [true] ശരി
-       *[false] തെറ്റു്
+       *[false] ഇല്ല
     }
 
 ## Variables:
