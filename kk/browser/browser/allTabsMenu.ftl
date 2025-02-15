@@ -18,3 +18,4 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = Барлық қайталанатын беттерді жабу
 all-tabs-menu-synced-tabs =
     .label = Басқа құрылғылардан беттер
+all-tabs-menu-current-window-header = Ағымдағы терезе
