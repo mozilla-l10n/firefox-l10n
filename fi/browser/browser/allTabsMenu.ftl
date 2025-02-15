@@ -18,3 +18,4 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = Sulje kaikki välilehtien kaksoiskappaleet
 all-tabs-menu-synced-tabs =
     .label = Välilehdet muista laitteista
+all-tabs-menu-current-window-header = Nykyinen ikkuna

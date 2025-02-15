@@ -44,6 +44,8 @@ new-profile-page-input-placeholder =
 new-profile-page-done-button =
     .label = Muokkaus valmis
 profile-window-title-2 = { -brand-short-name } - Valitse profiili
+profile-window-logo =
+    .alt = { -brand-short-name }in logo
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
@@ -95,3 +97,15 @@ profiles-system-theme = Järjestelmä
 
 ## Alternative text for default profile icons
 
+book-avatar-alt =
+    .alt = Kirja
+briefcase-avatar-alt =
+    .alt = Salkku
+flower-avatar-alt =
+    .alt = Kukka
+heart-avatar-alt =
+    .alt = Sydän
+shopping-avatar-alt =
+    .alt = Ostoskärryt
+star-avatar-alt =
+    .alt = Tähti

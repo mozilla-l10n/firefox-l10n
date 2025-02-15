@@ -50,6 +50,18 @@ sidebar-position-right =
     .label = Näytä oikealla
 sidebar-vertical-tabs =
     .label = Pystysuuntaiset välilehdet
+sidebar-settings =
+    .label = Sivupalkin asetukset
+sidebar-hide-tabs-and-sidebar =
+    .label = Piilota välilehdet ja sivupalkki
+sidebar-show-on-the-right =
+    .label = Siirrä sivupalkki oikealle
+sidebar-show-on-the-left =
+    .label = Siirrä sivupalkki vasemmalle
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Laajenna sivupalkki hiiren päällä
 sidebar-horizontal-tabs =
     .label = Vaakasuuntaiset välilehdet
 sidebar-customize-tabs-header =
@@ -130,6 +142,10 @@ sidebar-menu-close-ai-chatbot-tooltip = Sulje AI-chatbotti
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
+sidebar-menu-open-ai-chatbot-tooltip-generic = Avaa AI-chatbotti ({ $shortcut })
+sidebar-menu-open-ai-chatbot-provider-tooltip = Avaa { $provider } ({ $shortcut })
+sidebar-menu-close-ai-chatbot-tooltip-generic = Sulje AI-chatbotti ({ $shortcut })
+sidebar-menu-close-ai-chatbot-provider-tooltip = Sulje { $provider } ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 

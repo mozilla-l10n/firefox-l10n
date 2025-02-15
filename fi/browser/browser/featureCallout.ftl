@@ -94,3 +94,8 @@ sidebar-genai-survey-satisfaction-question = Kuinka tyytyväinen olet AI-chatbot
 sidebar-genai-survey-productive-question =
     Missä määrin olet samaa tai eri mieltä tämän väitteen kanssa:<br/>
     "Sivupalkin AI-chatbotti auttaa minua olemaan tuottavampi"?
+unified-search-callout-title = Vaihda hakukoneiden välillä
+unified-search-callout-subtitle = Valitse, mikä sopii parhaiten yksittäiseen hakuusi.
+unified-search-callout-primary-label = Seuraava
+unified-search-callout-secondary-label = Hylkää
+unified-search-engines-callout-primary-label = Selvä

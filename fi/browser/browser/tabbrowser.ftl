@@ -74,6 +74,13 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = Palauta ääni
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = Vaimenna välilehti
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = Toista välilehden äänet
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -195,6 +202,18 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Palauta ääni
 tabbrowser-manager-close-tab =
     .tooltiptext = Sulje välilehti
+# This is for tab groups that have been "saved and closed" (see tab-group-editor-action-save). It does
+# not include "deleted" tab groups (see tab-group-editor-action-delete).
+tabbrowser-manager-closed-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — Suljettu
+tabbrowser-manager-current-window-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — Nykyinen ikkuna
+# "Show more" is for showing all open groups from other windows, as well as saved groups. Initially,
+# we only show up to six of these groups.
+tabbrowser-manager-tab-groups-show-more =
+    .label = Näytä lisää
 
 ## Tab Groups
 
@@ -206,6 +225,30 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Peruuta
     .accesskey = P
+tab-group-editor-color-selector =
+    .aria-label = Välilehtiryhmän väri
+tab-group-editor-color-selector2-blue = Sininen
+    .title = Sininen
+tab-group-editor-color-selector2-purple = Violetti
+    .title = Violetti
+tab-group-editor-color-selector2-cyan = Syaani
+    .title = Syaani
+tab-group-editor-color-selector2-orange = Oranssi
+    .title = Oranssi
+tab-group-editor-color-selector2-yellow = Keltainen
+    .title = Keltainen
+tab-group-editor-color-selector2-pink = Pinkki
+    .title = Pinkki
+tab-group-editor-color-selector2-green = Vihreä
+    .title = Vihreä
+tab-group-editor-color-selector2-gray = Harmaa
+    .title = Harmaa
+tab-group-editor-color-selector2-red = Punainen
+    .title = Punainen
+# Variables:
+#  $tabGroupName (String): The name of the tab group. Defaults to the value
+#                          of tab-group-name-default.
+tab-group-description = { $tabGroupName } — Välilehtiryhmä
 tab-group-menu-header = Välilehtiryhmät
 tab-context-unnamed-group =
     .label = Nimetön ryhmä
