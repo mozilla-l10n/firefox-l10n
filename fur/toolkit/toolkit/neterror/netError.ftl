@@ -42,6 +42,9 @@ neterror-generic-error = { -brand-short-name } nol rive a cjamâ cheste pagjine 
 neterror-load-error-try-again = Il sît al podarès jessi no disponibil pal moment opûr masse impegnât. Torne prove chi di pôc.
 neterror-load-error-connection = Se no tu rivis a cjariâ nissune pagjine, controle la conession di rêt dal computer.
 neterror-load-error-firewall = Se il computer o la rêt a son protets di un firewall o di un proxy, verifiche che { -brand-short-name } al vedi i permès di acès al Web.
+# This warning is only shown on macOS Sequoia and later (see bug 1929377)
+neterror-load-osx-permission = Se tu stâs cirint di cjariâ une pagjine de rêt locâl, controle che a { -brand-short-name } a sedin stadis concedûts i permès pe rêt locâl tes impostazions di riservatece e sigurece di macOS.
+neterror-http-error-page = Verifiche di vê scrite juste la direzion dal sît web.
 neterror-captive-portal = Tu scugnis jentrâ in cheste rêt prime di podê acedi a Internet.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.

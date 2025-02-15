@@ -38,3 +38,6 @@ remove-search-engine-button = Va ben
 ## Variables
 ## $engineName (String) - the name of the search engine to install.
 
+install-search-engine = Zontâ { $engineName } tant che motôr di ricercje?
+install-search-engine-add = Zonte
+install-search-engine-no = No
