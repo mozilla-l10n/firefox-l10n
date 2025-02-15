@@ -11,6 +11,7 @@ more-from-moz-category =
 more-from-moz-subtitle = Tutustu muihin { -vendor-short-name }-tuotteisiin, jotka tukevat terveellistä internetiä.
 more-from-moz-firefox-mobile-title = { -brand-product-name }in mobiiliversio
 more-from-moz-firefox-mobile-description = Mobiiliselain, joka asettaa yksityisyytesi etusijalle.
+more-from-moz-firefox-mobile-title-1 = { -brand-product-name } mobiililaitteille
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Löydä lisätty taso anonyymiä selaamista ja suojausta.
 more-from-moz-qr-code-box-firefox-mobile-title = Lataa mobiililaitteellasi. Suuntaa kamerasi QR-koodiin. Kun linkki tulee näkyviin, napauta sitä.
@@ -35,3 +36,4 @@ more-from-moz-mozilla-monitor-button = Hanki { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
+more-from-moz-solo-description = Luo verkkosivusto välittömästi ja yhdistä oma verkkotunnuksesi ilmaiseksi.
