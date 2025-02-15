@@ -386,6 +386,8 @@ onboarding-new-user-survey-familiarity-based-option-4 = Eg brukte den tidlegare,
 
 # Setup screen for vertical tabs
 onboarding-new-tabs-title = Fortel oss kvar du vil ha fanene dine
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = Dine faner, på din måte
 # Setup screen for vertical tabs - focused variation
 onboarding-focused-tabs-title = Vel faneoppsett
 # Setup screen for vertical tabs - subtitle for focused variation
