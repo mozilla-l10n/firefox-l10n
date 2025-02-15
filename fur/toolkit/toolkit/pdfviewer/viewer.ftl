@@ -535,9 +535,36 @@ pdfjs-editor-add-signature-image-button = Imagjin
 
 ## Tab panels
 
+pdfjs-editor-add-signature-type-input =
+    .aria-label = Scrîf la tô firme
+    .placeholder = Scrîf la tô firme
+pdfjs-editor-add-signature-draw-placeholder = Dissegne la tô firme
+pdfjs-editor-add-signature-draw-thickness-range-label = Spessôr
+# Variables:
+#   $thickness (Number) - the thickness (in pixels) of the line used to draw a signature.
+pdfjs-editor-add-signature-draw-thickness-range =
+    .title = Spessôr de tresse: { $thickness }
+pdfjs-editor-add-signature-image-placeholder = Strissine un file achì par cjariâlu
+pdfjs-editor-add-signature-image-browse-link =
+    { PLATFORM() ->
+        [macos] Opûr sielç i files imagjin
+       *[other] Opûr sgarfe pai files imagjin
+    }
 
 ## Controls
 
+pdfjs-editor-add-signature-description-label = Descrizion (test alternatîf)
+pdfjs-editor-add-signature-description-input =
+    .title = Descrizion (test alternatîf)
+pdfjs-editor-add-signature-description-default-when-drawing = Firme
+pdfjs-editor-add-signature-clear-button-label = Nete firme
+pdfjs-editor-add-signature-clear-button =
+    .title = Nete firme
+pdfjs-editor-add-signature-save-checkbox = Salve firme
+pdfjs-editor-add-signature-save-warning-message = Tu sês rivât/rivade al limit di 5 firmis salvadis. Gjave une  par salvânt une altre.
+pdfjs-editor-add-signature-image-upload-error-title = Impussibil cjariâ la imagjin
+pdfjs-editor-add-signature-image-upload-error-description = Controle la conession di rêt o prove cuntune altre imagjin.
+pdfjs-editor-add-signature-error-close-button = Siere
 
 ## Dialog buttons
 

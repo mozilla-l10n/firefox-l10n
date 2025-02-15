@@ -225,6 +225,10 @@ tab-group-editor-cancel =
     .accesskey = A
 tab-group-editor-color-selector =
     .aria-label = Colôr dal grup di schedis
+tab-group-editor-color-selector2-blue = Blu
+    .title = Blu
+tab-group-editor-color-selector2-purple = Viole
+    .title = Viole
 tab-group-menu-header = Grups di schedis
 tab-context-unnamed-group =
     .label = Grup cence non
@@ -255,6 +259,10 @@ tab-group-editor-action-new-window =
     .label = Sposte grup intun gnûf barcon
 tab-group-editor-action-save =
     .label = Salve e siere grup
+tab-group-editor-action-ungroup =
+    .label = Divît schedis
+tab-group-editor-action-delete =
+    .label = Elimine grup
 
 ## Open/saved tab group context menu
 
