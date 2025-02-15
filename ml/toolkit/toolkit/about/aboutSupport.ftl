@@ -9,12 +9,20 @@ crashes-id = ഐഡി രേഖപ്പെടുത്തുക
 crashes-send-date = സമര്‍പ്പിച്ചവ
 crashes-all-reports = എല്ലാ തകരാര്‍ റിപ്പോര്‍ട്ടുകളും
 crashes-no-config = തകരാറിന്റെ റിപോര്‍ട്ട് കാണിയ്ക്കുന്നതിനു് ഈ പ്രയോഗം ക്രമീകരിച്ചിട്ടില്ല.
+support-addons-title = ആഡ്-ഓണുകള്‍
 support-addons-name = പേരു്
+support-addons-type = തരം
+support-addons-enabled = പ്രവര്‍ത്തന സജ്ജം
 support-addons-version = പതിപ്പു്
 support-addons-id = ഐഡി
+legacy-user-stylesheets-enabled = സജ്ജം
+security-software-type = തരം
+security-software-name = പേരു്
 features-title = { -brand-short-name } സവിശേഷതകൾ
 features-name = പേര്
 features-version = പതിപ്പ്
+processes-type = തരം
+processes-count = എണ്ണം
 app-basics-title = പ്രയോഗത്തിന്റെ അടിസ്ഥാന വിശേഷതകള്‍
 app-basics-name = പേരു്
 app-basics-version = പതിപ്പു്
@@ -32,6 +40,7 @@ app-basics-build-config = ബിള്‍ഡ് ക്രമീകരണം
 app-basics-user-agent = യൂസര്‍ ഏജന്റ്
 app-basics-memory-use = മെമ്മറിയുടെ ഉപയോഗം
 app-basics-service-workers = രജിസ്റ്റര്‍ ചെയ്‌ത Service Workers
+app-basics-profiles = രൂപരേഖകൾ
 app-basics-multi-process-support = അനവധി പ്രക്രിയയ്ക്കുള്ള ജാലകങ്ങള്‍
 app-basics-safe-mode = സുരക്ഷ മോഡ്
 show-dir-label =
@@ -40,6 +49,7 @@ show-dir-label =
         [windows] ഫോൾഡർ തുറക്കുക
        *[other] ഡയറക്ടറി തുറക്കുക
     }
+environment-variables-name = പേരു്
 modified-key-prefs-title = മാറ്റം വരുത്തിയ പ്രധാനപ്പെട്ട മുന്‍ഗണനകള്‍
 modified-prefs-name = പേരു്
 modified-prefs-value = മൂല്ല്യം
