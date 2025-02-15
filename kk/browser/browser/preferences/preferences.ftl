@@ -225,6 +225,15 @@ containers-remove-cancel-button = Бұл контейнерді өшірмеу
 settings-tabs-show-image-in-preview =
     .label = Бетке курсорды апарған кезде суреттің алдын ала қарауын көрсету
     .accessKey = с
+browser-layout-header = Браузер жаймасы
+browser-layout-horizontal-tabs =
+    .label = Горизонталды беттер
+browser-layout-horizontal-tabs-desc = Браузердің жоғарғы жағында көрсету
+browser-layout-vertical-tabs =
+    .label = Вертикалды беттер
+browser-layout-vertical-tabs-desc = Жанында, бүйірлік панельде көрсету
+browser-layout-show-sidebar =
+    .label = Бүйір панелін көрсету
 
 ## General Section - Language & Appearance
 

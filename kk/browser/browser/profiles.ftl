@@ -44,6 +44,8 @@ new-profile-page-input-placeholder =
 new-profile-page-done-button =
     .label = Түзету аяқталды
 profile-window-title-2 = { -brand-short-name } - Профильді таңдау
+profile-window-logo =
+    .alt = { -brand-short-name } логотипі
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
@@ -95,3 +97,15 @@ profiles-system-theme = Жүйелік
 
 ## Alternative text for default profile icons
 
+book-avatar-alt =
+    .alt = Кітап
+briefcase-avatar-alt =
+    .alt = Портфель
+flower-avatar-alt =
+    .alt = Гүл
+heart-avatar-alt =
+    .alt = Жүрек
+shopping-avatar-alt =
+    .alt = Кәрзеңке
+star-avatar-alt =
+    .alt = Жұлдызша

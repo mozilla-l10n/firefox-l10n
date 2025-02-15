@@ -11,6 +11,7 @@ more-from-moz-category =
 more-from-moz-subtitle = Салауатты интернетті қолдау үшін жұмыс істейтін басқа { -vendor-short-name } өнімдерін қараңыз.
 more-from-moz-firefox-mobile-title = Мобильді { -brand-product-name }
 more-from-moz-firefox-mobile-description = Сіздің жекелігіңізді бірінші орынға қоятын мобильді браузер.
+more-from-moz-firefox-mobile-title-1 = Мобильді { -brand-product-name }
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Анонимді шолу мен қорғаныстың қосымша қабатын өзіңіз үшін ашыңыз.
 more-from-moz-qr-code-box-firefox-mobile-title = Мобильді құрылғы арқылы жүктеп алыңыз. Камераны QR кодқа бағыттаңыз. Сілтеме пайда болған кезде оны шертіңіз.
