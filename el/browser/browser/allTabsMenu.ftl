@@ -18,3 +18,4 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = Κλείσιμο όλων των διπλών καρτελών
 all-tabs-menu-synced-tabs =
     .label = Καρτέλες από άλλες συσκευές
+all-tabs-menu-current-window-header = Τρέχον παράθυρο

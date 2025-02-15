@@ -560,6 +560,8 @@ pdfjs-editor-add-signature-clear-button-label = Απαλοιφή υπογραφ�
 pdfjs-editor-add-signature-clear-button =
     .title = Απαλοιφή υπογραφής
 pdfjs-editor-add-signature-save-checkbox = Αποθήκευση υπογραφής
+pdfjs-editor-add-signature-image-upload-error-title = Δεν ήταν δυνατή η μεταφόρτωση της εικόνας
+pdfjs-editor-add-signature-image-upload-error-description = Ελέγξτε τη σύνδεση δικτύου σας ή δοκιμάστε μια άλλη εικόνα.
 pdfjs-editor-add-signature-error-close-button = Κλείσιμο
 
 ## Dialog buttons
