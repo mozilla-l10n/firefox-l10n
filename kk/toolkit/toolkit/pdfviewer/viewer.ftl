@@ -543,3 +543,5 @@ pdfjs-editor-add-signature-error-close-button = Жабу
 
 ## Dialog buttons
 
+pdfjs-editor-add-signature-cancel-button = Бас тарту
+pdfjs-editor-add-signature-add-button = Қосу
