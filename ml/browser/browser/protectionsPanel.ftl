@@ -18,14 +18,30 @@ protections-popup-footer-protection-label-standard = നിലവാരം
 
 ##
 
+# The text a screen reader speaks when focused on the info button.
+protections-panel-etp-more-info =
+    .aria-label = മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണം പറ്റി കൂടുതൽ വിവരങ്ങൾ
+protections-panel-etp-on-header = ഈ വെബിടത്തിനു് മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണം തുടങ്ങിവച്ചിട്ടുണ്ടു്.
+protections-panel-etp-off-header = മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണം ഈ വെബിടത്തനു് അണച്ചു് വച്ചിരിക്കുന്നു
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = സൈറ്റു് നടക്കുന്നില്ലേ?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = സൈറ്റു് നടക്കുന്നില്ലേ?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
+protections-panel-etp-toggle-on =
+    .label = മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണം
+    .description = ഈ വെബിടത്തിനു് തുടങ്ങിയിട്ടുണ്ടു്
+    .aria-label = മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണം
+protections-panel-etp-toggle-off =
+    .label = മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണം
+    .description = ഈ വെബിടത്തിനു് അണച്ചതു്
+    .aria-label = മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണം
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -46,12 +62,20 @@ protections-panel-content-blocking-fingerprinters-label = വിരലടയാ�
 
 protections-panel-blocking-label = തടഞ്ഞവ
 protections-panel-not-blocking-label = അനുവദിച്ചതു്
+protections-panel-not-found-label = ഒന്നും കണ്ടെത്താൻ കഴിഞ്ഞില്ല
 
 ## Smartblock strings
 
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = { $trackername } അനുവദിക്കുക
+#  $websitehost (String): host of website with blocked content.
+smartblock-placeholder-button-text = { $websitehost }-ൽ അനുവദിക്കുക
 
 ##
 
+protections-panel-settings-label = പരിരക്ഷണ ക്രമീകരണങ്ങൾ
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.
