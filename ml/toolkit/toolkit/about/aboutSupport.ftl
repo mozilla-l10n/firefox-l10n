@@ -50,6 +50,10 @@ show-dir-label =
        *[other] ഡയറക്ടറി തുറക്കുക
     }
 environment-variables-name = പേരു്
+environment-variables-value = വില
+experimental-features-title = പരീക്ഷണാര്‍ത്ഥമായ വിശേഷതകള്‍
+experimental-features-name = പേരു്
+experimental-features-value = മൂല്ല്യം
 modified-key-prefs-title = മാറ്റം വരുത്തിയ പ്രധാനപ്പെട്ട മുന്‍ഗണനകള്‍
 modified-prefs-name = പേരു്
 modified-prefs-value = മൂല്ല്യം
@@ -60,7 +64,10 @@ locked-prefs-name = പേരു്
 locked-prefs-value = മൂല്ല്യം
 graphics-title = ഗ്രാഫിക്ക്സ്
 graphics-features-title = സവിശേഷതകൾ
-graphics-decision-log-title = തീരുമാനങ്ങളുടെ ലോഗ്
+graphics-decision-log-title = തീരുമാനക്കുറി
+place-database-stats-count = എണ്ണം
+place-database-stats-size-kib = വലിപ്പം (KiB)
+place-database-stats-size-perc = വലിപ്പം (%)
 a11y-title = ആക്സസിബിളിറ്റി
 a11y-activated = സജീവമാക്കിയിരിയ്ക്കുന്നു
 a11y-force-disabled = ആക്സസിബിളിറ്റി തടയുക
@@ -78,8 +85,11 @@ max-audio-channels = പരമാവധി ചാനലുകൾ
 media-output-devices-title = ഔട്ട്പുട്ട് ഉപകരണങ്ങൾ
 media-input-devices-title = ഇൻപുട്ട് ഉപകരണങ്ങൾ
 media-device-name = പേര്
-media-device-group = ഗ്രൂപ്പ്
+media-device-group = കൂട്ടം
+media-device-vendor = വില്‍പ്പനക്കാരന്‍:
 media-device-state = അവസ്ഥ
+media-device-preferred = മികച്ച
+media-device-format = ശൈലി:
 media-device-channels = ചാനലുകൾ
 media-device-rate = നിരക്ക്
 
@@ -161,6 +171,7 @@ hardware-h264 = H264 ഹാര്‍ഡ്‍വെയര്‍ ഡീകോഡ�
 main-thread-no-omtc = പ്രധാന ത്രെഡ്, OMTC ഇല്ല
 yes = അതെ
 no = അല്ല
+unknown = അറിയാത്തതു്
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -219,16 +230,25 @@ touch-warning = പിന്തുണയില്ലാത്ത pref: { $prefer
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-error = പിഴവു്
 
 ## Printing section
 
+support-printing-title = അച്ചടിപ്പു്
+support-printing-prefs-name = പേരു്
+support-printing-prefs-value = മൂല്ല്യം
 
 ## Remote Settings sections
 
 support-remote-settings-sync-history = നാള്‍വഴി
+support-remote-settings-sync-history-status = അവസ്ഥ
+support-remote-settings-sync-history-datetime = തീയതി
 
 ## Normandy sections
 
+support-remote-experiments-name = പേരു്
+support-remote-features-name = പേരു്
+support-remote-features-status = അവസ്ഥ
 
 ## Pointing devices
 

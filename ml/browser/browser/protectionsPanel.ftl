@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = വിവരം അയയ്‌ക്കുന്നതിൽ ഒരു പിശക് ഉണ്ടായിരുന്നു. പിന്നീട് വീണ്ടും ശ്രമിക്കുക.
+# A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
+protections-panel-sitefixedsendreport-label = വെബുസ്ഥാനം ശരിയായോ? റിപ്പോർട്ട് അയയ്ക്കുക
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -77,6 +79,13 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 # Cookie Banner Handling
 
+protections-panel-cookie-banner-handling-header = കുക്കീപൊന്തുവരൽ കുറയ്ക്കൽ
+protections-panel-cookie-banner-blocker-header = കുക്കിപൊന്തുവരൽ തടയൽയന്ത്രം
+protections-panel-cookie-banner-handling-enabled = ഈ സൈറ്റിനു് തുടങ്ങിവച്ചതു്
+protections-panel-cookie-banner-handling-disabled = ഈ വെബ്സ്ഥാനത്തിനു് അണച്ചതു്
+protections-panel-cookie-banner-handling-undetected = വെബുസ്ഥാനം നിലവിൽ പിന്തുണയ്ക്കുന്നില്ല
+protections-panel-cookie-banner-blocker-view-title =
+    .title = കുക്കി പൊന്തുവരൽ തടയൽയന്ത്രം
 protections-panel-cookie-banner-view-cancel = റദ്ദാക്കുക
 protections-panel-cookie-banner-view-turn-off = അണക്കുക
 protections-panel-cookie-banner-view-turn-on = തുടങ്ങി വയ്ക്കുക
@@ -86,7 +95,12 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = അണക്കുക
 protections-panel-cookie-banner-view-turn-on-label =
     .label = തുടങ്ങി വയ്ക്കുക
+protections-panel-report-broken-site =
+    .label = തകൎന്ന വെബിടത്തിന്റെ വിവരം അറിയിക്കുക
+    .title = തകൎന്ന വെബിടത്തിന്റെ വിവരം അറിയിക്കുക
 
 ## Protections panel info message
 
+cfr-protections-panel-header = പിന്തുടരപ്പെടാതെ തിരയുക
+cfr-protections-panel-body = താങ്കളുടെ ഡാറ്റ താങ്കളുടേത് മാത്രമായി സൂക്ഷിക്കുക. തൽസമയം പിന്തുടരുന്ന മിക്ക പിന്തുടൎച്ചയന്ത്രങ്ങളിൽ നിന്നും { -brand-short-name } താങ്കളെ പരിരക്ഷിക്കുന്നു.
 cfr-protections-panel-link-text = കൂടുതല്‍ അറിയുക
