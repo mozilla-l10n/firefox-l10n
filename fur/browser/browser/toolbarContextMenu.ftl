@@ -30,6 +30,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Torne vierç schedis sieradis
         }
     .accesskey = o
+toolbar-context-turn-on-vertical-tabs =
+    .label = Ative schedis verticâls
+toolbar-context-turn-off-vertical-tabs =
+    .label = Disative schedis verticâls
+toolbar-context-customize-sidebar =
+    .label = Personalize sbare laterâl
 toolbar-context-menu-manage-extension =
     .label = Gjestìs estension
     .accesskey = E

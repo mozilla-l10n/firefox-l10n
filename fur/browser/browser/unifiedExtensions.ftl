@@ -21,6 +21,9 @@ unified-extensions-manage-extensions =
 unified-extensions-item-open-menu =
     .aria-label = Vierç il menù par { $extensionName }
 unified-extensions-item-message-manage = Gjestìs estension
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked = { $extensionName } al viole lis politichis di Mozilla. La sô utilizazion e podarès compuartâ risis.
 
 ## Extension's context menu
 
@@ -47,3 +50,16 @@ unified-extensions-mb-quarantined-domain-message-3 =
     .message = Par protezi i tiei dâts, cualchi estension no pues lei o cambiâ i dâts su chest sît. Dopre lis impostazions de estension par permeti il so funzionament sui sîts cun restrizions identificâts di { -vendor-short-name }.
 unified-extensions-mb-quarantined-domain-learn-more = Plui informazions
     .aria-label = Plui informazions: cualchi estension no je consintude
+unified-extensions-mb-about-addons-link = Va aes impostazions de estension
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single =
+    .heading = { $extensionName } disativât
+    .message =
+        Cheste estension e viole lis politichis di Mozilla e e je stade disativade.
+        Tu puedis ativâle tes impostazions, ma chest al compuarte risis.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a hard-block.
+unified-extensions-mb-blocklist-error-single =
+    .heading = { $extensionName } disativât
+    .message = Cheste estension e viole lis politichis di Mozilla e e je stade disativade.
