@@ -26,9 +26,18 @@ fingerprinter-tab-title = വിരലടയാളപ്പിന്തുടൎ
 protections-close-button2 =
     .aria-label = അടയ്ക്കുക
     .title = അടയ്ക്കുക
+lockwise-title = ഇനി ഒരിക്കലുമൊരു രഹസ്യവാക്കു് ഓൎത്തുവയ്ക്കാൻ ആവിശ്യമില്ല
+passwords-title-logged-in = രഹസ്യവാക്കുകളുടെ കൈകാര്യം ചെയ്യുക
+protection-report-passwords-save-passwords-button = രഹസ്യവാക്കുകൾ കരുതിവയ്ക്കുക
+    .title = രഹസ്യവാക്കുകൾ കരുതിവയ്ക്കുക
+protection-report-passwords-manage-passwords-button = രഹസ്യവാക്കുകളുടെ കൈകാര്യം ചെയ്യുക
+    .title = രഹസ്യവാക്കുകളുടെ കൈകാര്യം ചെയ്യുക
+lockwise-how-it-works-link = ഇതു് എങ്ങനെ നടക്കുന്നു
+monitor-link = ഇതു് എങ്ങനെ നടക്കുന്നു
 monitor-no-breaches-title = നല്ല വിവരം!
 monitor-partial-breaches-motivation-title-start = നല്ല തുടക്കം
 monitor-partial-breaches-motivation-title-middle = ചെയ്തോണ്ടിരിക്കിൻ
+monitor-partial-breaches-motivation-title-end = ഏതാണ്ടു് കഴിയാൻ പോവുന്നു. ചെയ്തോണ്ടിരിക്കിൻ
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
@@ -37,6 +46,13 @@ monitor-partial-breaches-motivation-title-middle = ചെയ്തോണ്ട�
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = സമൂഹ മാധ്യമ പിന്തുടർച്ചയന്ത്രങ്ങൾ
+    .aria-label =
+        { $count ->
+            [one] { $count } സമൂഹ മാധ്യമ പിന്തുടർച്ചയന്ത്രങ്ങൾ ({ $percentage }%)
+           *[other] { $count } സമൂഹ മാധ്യമ പിന്തുടർച്ചയന്ത്രങ്ങൾ ({ $percentage }%)
+        }
 bar-tooltip-tracker =
     .title = പിന്തുടരുന്ന ഉള്ളടക്കം
     .aria-label =
