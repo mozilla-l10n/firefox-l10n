@@ -99,3 +99,4 @@ unified-search-callout-title = Zwischen Suchmaschinen wechseln
 unified-search-callout-subtitle = Wählen Sie aus, was für Ihre spezifische Suche am besten funktioniert.
 unified-search-callout-primary-label = Weiter
 unified-search-callout-secondary-label = Verwerfen
+unified-search-engines-callout-primary-label = Verstanden
