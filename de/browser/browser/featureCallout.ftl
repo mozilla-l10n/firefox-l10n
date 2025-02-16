@@ -99,4 +99,6 @@ unified-search-callout-title = Zwischen Suchmaschinen wechseln
 unified-search-callout-subtitle = Wählen Sie aus, was für Ihre spezifische Suche am besten funktioniert.
 unified-search-callout-primary-label = Weiter
 unified-search-callout-secondary-label = Verwerfen
+unified-search-engines-callout-title = Mit einem Kurzbefehl suchen
+unified-search-engines-callout-subtitle = Geben Sie "@" gefolgt von einem Schlüsselwort ein, um Ihre Chronik, Lesezeichen oder Tabs zu durchsuchen, oder um mit einer anderen Suchmaschine zu suchen.
 unified-search-engines-callout-primary-label = Verstanden
