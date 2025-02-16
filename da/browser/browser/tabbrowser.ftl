@@ -106,7 +106,7 @@ tabbrowser-confirm-close-tabs-with-key-title = Luk vindue og afslut { -brand-sho
 tabbrowser-confirm-close-tabs-with-key-button = Afslut { -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
-tabbrowser-ask-close-tabs-with-key-checkbox = Spørg. inden jeg afslutter med { $quitKey }
+tabbrowser-ask-close-tabs-with-key-checkbox = Spørg, inden jeg afslutter med { $quitKey }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Bekræft, inden jeg afslutter med { $quitKey }
