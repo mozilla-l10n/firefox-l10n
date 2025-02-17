@@ -134,6 +134,7 @@ contentEncodingError-title = Gabim Kodimi Lënde
 unsafeContentType-title = Lloj Kartele Jo i Parrezik
 netReset-title = Lidhja u rivendos
 netTimeout-title = Lidhjes i mbaroi koha
+httpErrorPage-title = Duket se ka një problem me këtë sajt
 serverError-title = Duket se ka një problem me këtë sajt
 unknownProtocolFound-title = Adresa nuk u kuptua
 proxyConnectFailure-title = Shërbyesi ndërmjetës po hedh poshtë lidhjet

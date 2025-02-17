@@ -30,6 +30,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Rihap Skedat e Mbyllura
         }
     .accesskey = i
+toolbar-context-turn-on-vertical-tabs =
+    .label = Aktivizo Skeda Vertikale
+toolbar-context-turn-off-vertical-tabs =
+    .label = Çaktivizo Skeda Vertikale
+toolbar-context-customize-sidebar =
+    .label = Përshtatni Anështyllën
 toolbar-context-menu-manage-extension =
     .label = Administroni Zgjerimin
     .accesskey = A
