@@ -525,6 +525,9 @@ pdfjs-editor-undo-bar-close-button-label = Fermi
 
 ## Controls
 
+pdfjs-editor-add-signature-error-close-button = Fermi
 
 ## Dialog buttons
 
+pdfjs-editor-add-signature-cancel-button = Nuligi
+pdfjs-editor-add-signature-add-button = Aldoni
