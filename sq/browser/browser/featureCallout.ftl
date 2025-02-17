@@ -64,6 +64,7 @@ split-dismiss-button-manage-settings-option-label = Administroni rregullime
 
 sidebar-button-callout-title = Shfaq te anështylla tituj skedash
 sidebar-button-callout-subtitle = Përdoreni butonin e anështyllës që ta zgjeroni atë, kështu mund të shihni tituj e skedave.
+sidebar-button-callout-vertical-tabs = Që të shfaqen skedat tuaja, përzgjidhni te paneli butonin e anështyllës.
 
 ## Sidebar Callout Survey Strings
 
@@ -94,3 +95,19 @@ sidebar-genai-survey-satisfaction-question = Sa të kënaqur jeni me pasjen te a
 sidebar-genai-survey-productive-question =
     Në çfarë mase pajtoheni, ose nuk pajtoheni me këtë pohim:<br/>
     Roboti i fjalosjeve IA te anështylla më ndihmon të jem më prodhimtar”?
+unified-search-callout-title = Ndërroni motorë kërkimesh
+unified-search-callout-subtitle = Zgjidhni atë që funksionon më mirë për kërkimin tuaj të herës.
+unified-search-callout-primary-label = Pasuesja
+unified-search-callout-secondary-label = Hidhe tej
+unified-search-engines-callout-title = Kërkoni përmes një shkurtoreje
+unified-search-engines-callout-subtitle = Shtypni “@”, pasuar nga një fjalëkyç, që të kërkohet në historikun tuaj, faqerojtësit, skedat dhe me një tjetër motor kërkimesh.
+unified-search-engines-callout-primary-label = E mora vesh
+actions-callout-title = Kryeni punë të rëndomta, ose hyni te rregullime elementare
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearhistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = Provoni të shtypni një veprim, bie fjala, “shtyp”, që të shtypni një faqe, ose “spastroje”, që të spastrohet historiku juaj.

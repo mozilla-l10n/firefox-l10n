@@ -44,6 +44,8 @@ new-profile-page-input-placeholder =
 new-profile-page-done-button =
     .label = Mbaroi përpunimi
 profile-window-title-2 = { -brand-short-name } - Zgjidhni një profil
+profile-window-logo =
+    .alt = Stemë e { -brand-short-name }-it
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
@@ -95,3 +97,15 @@ profiles-system-theme = Sistem
 
 ## Alternative text for default profile icons
 
+book-avatar-alt =
+    .alt = Libër
+briefcase-avatar-alt =
+    .alt = Dosje
+flower-avatar-alt =
+    .alt = Lule
+heart-avatar-alt =
+    .alt = Zemër
+shopping-avatar-alt =
+    .alt = Shportë blerjesh
+star-avatar-alt =
+    .alt = Yll

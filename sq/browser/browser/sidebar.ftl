@@ -50,6 +50,18 @@ sidebar-position-right =
     .label = Shfaqe djathtas
 sidebar-vertical-tabs =
     .label = Skeda vertikale
+sidebar-settings =
+    .label = Rregullime anështylle
+sidebar-hide-tabs-and-sidebar =
+    .label = Fshih skeda dhe anështyllë
+sidebar-show-on-the-right =
+    .label = Shpjere anështyllën djathtas
+sidebar-show-on-the-left =
+    .label = Shpjere anështyllën majtas
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Zgjeroje anështyllën, kur i kalohet kursori përsipër
 sidebar-horizontal-tabs =
     .label = Skeda horizontale
 sidebar-customize-tabs-header =
@@ -130,6 +142,10 @@ sidebar-menu-close-ai-chatbot-tooltip = Mbyllni robot IA
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
+sidebar-menu-open-ai-chatbot-tooltip-generic = Hapni robot IA fjalosjeje ({ $shortcut })
+sidebar-menu-open-ai-chatbot-provider-tooltip = Hapni { $provider } ({ $shortcut })
+sidebar-menu-close-ai-chatbot-tooltip-generic = Mbylleni robotin IA të fjalosjes ({ $shortcut })
+sidebar-menu-close-ai-chatbot-provider-tooltip = Mbylleni { $provider } ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 
@@ -139,6 +155,8 @@ sidebar-menu-history-header =
     .heading = Historik
 sidebar-menu-syncedtabs-header =
     .heading = Skeda prej pajisjesh të tjera
+sidebar-menu-bookmarks-header =
+    .heading = Faqerojtës
 sidebar-panel-header-close-button =
     .tooltiptext = Mbylle
 

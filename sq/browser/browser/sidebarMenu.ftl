@@ -4,6 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = Faqerojtës
+sidebar-menu-bookmarks-2 = Faqerojtës
 sidebar-menu-history =
     .label = Historik
 sidebar-menu-synced-tabs =
