@@ -74,6 +74,13 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = Hapjani zërin skedës
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = Mbylljani zërin skedës
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = Luani lëndën e skedës
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -193,6 +200,18 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Hapjani zërin skedës
 tabbrowser-manager-close-tab =
     .tooltiptext = Mbylleni skedën
+# This is for tab groups that have been "saved and closed" (see tab-group-editor-action-save). It does
+# not include "deleted" tab groups (see tab-group-editor-action-delete).
+tabbrowser-manager-closed-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — E mbyllur
+tabbrowser-manager-current-window-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — Dritarja e tanishme
+# "Show more" is for showing all open groups from other windows, as well as saved groups. Initially,
+# we only show up to six of these groups.
+tabbrowser-manager-tab-groups-show-more =
+    .label = Shfaq më tepër
 
 ## Tab Groups
 
@@ -204,6 +223,28 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Anuloje
     .accesskey = A
+tab-group-editor-color-selector =
+    .aria-label = Ngjyrë grupi skedash
+tab-group-editor-color-selector2-blue = Blu
+    .title = Blu
+tab-group-editor-color-selector2-purple = E purpurt
+    .title = E purpurt
+tab-group-editor-color-selector2-orange = Portokalli
+    .title = Portokalli
+tab-group-editor-color-selector2-yellow = E verdhë
+    .title = E verdhë
+tab-group-editor-color-selector2-pink = Rozë
+    .title = Rozë
+tab-group-editor-color-selector2-green = E gjelbër
+    .title = E gjelbër
+tab-group-editor-color-selector2-gray = Gri
+    .title = Gri
+tab-group-editor-color-selector2-red = E kuqe
+    .title = E kuqe
+# Variables:
+#  $tabGroupName (String): The name of the tab group. Defaults to the value
+#                          of tab-group-name-default.
+tab-group-description = { $tabGroupName } — Grup Skedash
 tab-group-menu-header = Grupe skedash
 tab-context-unnamed-group =
     .label = Grup i paemër

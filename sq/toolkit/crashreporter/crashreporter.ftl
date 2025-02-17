@@ -8,6 +8,7 @@ crashreporter-crashed-and-restore = { -brand-short-name } hasi një problem dhe 
 crashreporter-plea = Për të na ndihmuar në diagnostikimin dhe ndreqjen e problemit, mund të na dërgoni një njoftim vithisjeje.
 crashreporter-information = Ky aplikacion po xhirohet pas një vithisje, për të njoftuar problemin te { -vendor-short-name }. S’duhet xhiruar drejtpërdrejt.
 crashreporter-error = { -brand-short-name } hasi një problem dhe u vithis. Mjerisht, njoftuesi i vithisjeve s’është në gjendje të parashtrojë një njoftim për këtë vithisje.
+crashreporter-error-details-header = Hollësi:
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Hollësi: { $details }
 crashreporter-no-run-message = Ky aplikacion po xhirohet pas një vithisje, për t’iu njoftuar problemin autorëve të aplikacionit. Nuk do të duhej të xhirohej drejtpërsëdrejti.

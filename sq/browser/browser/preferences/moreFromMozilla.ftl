@@ -11,6 +11,7 @@ more-from-moz-category =
 more-from-moz-subtitle = Shihni produkte të tjera { -vendor-short-name } që punojnë për të përkrahur një internet të shëndetshëm.
 more-from-moz-firefox-mobile-title = { -brand-product-name } Për Celular
 more-from-moz-firefox-mobile-description = Shfletuesi për celular që vë privatësinë mbi të gjitha.
+more-from-moz-firefox-mobile-title-1 = { -brand-product-name } për Celular
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Zbuloni një shtresë më tepër shfletimi anonim dhe mbrojtjeje
 more-from-moz-qr-code-box-firefox-mobile-title = Shkarkojeni duke përdorur pajisjen tuaj celulare. Drejtoni kamerën tuaj drejt kodit QR. Kur të shfaqet një lidhje, prekeni.
@@ -35,3 +36,6 @@ more-from-moz-mozilla-monitor-button = Merrni { -monitor-brand-short-name }-in
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
+more-from-moz-solo-title = IA { -solo-ai-brand-name }
+more-from-moz-solo-description = Krijoni menjëherë sajtin tuaj dhe lidhni përkatësinë tuaj vetjake, falas
+more-from-moz-solo-button = Provoni { -solo-ai-brand-name }
