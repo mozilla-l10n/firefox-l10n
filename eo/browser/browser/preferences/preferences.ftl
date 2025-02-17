@@ -225,6 +225,12 @@ containers-remove-cancel-button = Ne forigi tiun ĉi ingon
 settings-tabs-show-image-in-preview =
     .label = Montri antaŭvidon kiam vi movas la muson super langeto
     .accessKey = a
+browser-layout-horizontal-tabs =
+    .label = Horizontalaj langetoj
+browser-layout-vertical-tabs =
+    .label = Vertikalaj langetoj
+browser-layout-show-sidebar =
+    .label = Montri flankan strion
 
 ## General Section - Language & Appearance
 
