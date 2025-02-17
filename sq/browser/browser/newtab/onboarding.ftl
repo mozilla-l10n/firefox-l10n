@@ -443,6 +443,10 @@ onboarding-checklist-sign-up = Regjistrohuni, ose bëni hyrjen te llogaria juaj
 
 tab-groups-onboarding-feature-callout-title = Provoni grupe skedash për më pak rrëmujë, më tepër përqendrim
 tab-groups-onboarding-feature-callout-subtitle = Sistemoni gjërat, duke tërhequr një skedë mbi një tjetër, që të krijoni grupin tuaj të parë.
+tab-groups-onboarding-create-group-title = Gjeni grupet tuaja të hapura, te shtylla e skedave, ose duke kërkuar për ta te shtylla e adresave.
+tab-groups-onboarding-saved-groups-title = Nëse mbyllni një grup skedash, mund ta rihapni këtu kurdo.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title = Gjeni në çfarëdo kohe grupet tuaja të hapura, ose të mbyllura, duke kërkuar për ta te shtylla e adresave.
+tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages
 
@@ -455,3 +459,9 @@ multi-profile-callout-cta = Krijoni profil
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = Shkarkoni, njëkohësoni dhe jepini!
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Që të shkarkohet { -brand-product-name }-i për celular, skanoni kodin QR. Pasi të instalohet, përzgjidhni “Njëkohësoje me celularin”, që të përdorni rrugës fjalëkalimet tuaj, faqerojtësit, etj.
+dismiss-button-label = Hidhe tej
+sync-to-mobile-button-label = Njëkohësoje me celularin

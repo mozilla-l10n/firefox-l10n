@@ -463,6 +463,9 @@ newtab-section-unfollow-button = Hiqi Ndjekjen
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
 ## e.g. Blocked the politics section of stories.
 
+newtab-section-block-button = Bllokoje
+newtab-section-blocked-button = E bllokuar
+newtab-section-unblock-button = Zhbllokoje
 
 ## Confirmation modal for blocking a section
 
@@ -473,3 +476,10 @@ newtab-section-cancel-button = Jo tani
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+newtab-section-mangage-topics-title = Tema
+newtab-section-mangage-topics-button =
+    .label = Tema të ndjekura dhe të bllokuara
+newtab-section-mangage-topics-followed-topics-subtitle = Tema të Ndjekura
+newtab-section-mangage-topics-followed-topics-empty-state = S’keni ende ndonjë temë të ndjekur.
+newtab-section-mangage-topics-blocked-topics-subtitle = Tema të Bllokuara
+newtab-section-mangage-topics-blocked-topics-empty-state = S’’keni ende ndonjë temë të bllokuar.
