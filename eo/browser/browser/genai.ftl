@@ -59,6 +59,11 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Demandi al { $provider }
+genai-menu-remove-generic =
+    .label = Forigi dialoganton A.I.
+# $provider (string) - name of the provider
+genai-menu-remove-provider =
+    .label = Forigi { $provider }
 genai-input-ask-generic =
     .placeholder = Demandi al dialoganto A.I. …
 # $provider (string) - name of the provider

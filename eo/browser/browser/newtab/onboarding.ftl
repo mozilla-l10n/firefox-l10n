@@ -445,6 +445,7 @@ onboarding-checklist-sign-up = Registriĝu aŭ komencu seancon per via konto
 
 tab-groups-onboarding-feature-callout-title = Provu la grupojn de langetoj, por pli da ordo kaj fokuso.
 tab-groups-onboarding-feature-callout-subtitle = Ordigu viajn langetojn per treno de unu sur alia, por krei vian unuan grupon.
+tab-groups-onboarding-dismiss = Akcepti
 
 ## Multi Profiles feature onboarding messages
 
@@ -457,3 +458,4 @@ multi-profile-callout-cta = Krei profilon
 
 ## Desktop to Mobile Adoption feature callout strings
 
+dismiss-button-label = Ignori

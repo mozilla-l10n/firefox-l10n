@@ -90,3 +90,7 @@ sidebar-callout-survey-submit = Sendi
 sidebar-callout-survey-thank-you = Dankon pro via opinio!
 sidebar-genai-survey-satisfaction-question = Kiel kontentige estas havi aliron al A.I. dialoganto en la flanka strio?
 sidebar-genai-survey-productive-question = Kiel multe vi samopinias kun la jena frazo:<br/>“La A.I. dialoganto en la flanka strio helpas min esti pli produktema”?
+unified-search-callout-primary-label = Antaŭen
+unified-search-callout-secondary-label = Ignori
+unified-search-engines-callout-title = Serĉi per ŝparvojo
+unified-search-engines-callout-primary-label = Mi komprenis

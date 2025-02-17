@@ -18,3 +18,4 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = Fermi ĉiujn duobligitajn langetojn
 all-tabs-menu-synced-tabs =
     .label = Langetoj el aliaj aparatoj
+all-tabs-menu-current-window-header = Nuna fenestro

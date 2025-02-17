@@ -11,6 +11,7 @@ more-from-moz-category =
 more-from-moz-subtitle = Vidu aliajn produktojn de { -vendor-short-name }, kiuj subtenas sanan interreton.
 more-from-moz-firefox-mobile-title = { -brand-product-name } por poŝaparatoj
 more-from-moz-firefox-mobile-description = La poŝaparata retumilo kiu zorgas unue pri via privateco.
+more-from-moz-firefox-mobile-title-1 = { -brand-product-name } por poŝaparatoj
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Malkovru aldonan tavolon de protekto kaj anonima retumo.
 more-from-moz-qr-code-box-firefox-mobile-title = Elŝutu per via poŝaparato. Celu per via fimilo la kodon QR. Kiam ligilo aperas, tuŝetu ĝin.
