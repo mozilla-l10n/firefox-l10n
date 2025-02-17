@@ -59,6 +59,11 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Pyetni { $provider }
+genai-menu-remove-generic =
+    .label = Hiq robot IA fjalosjesh
+# $provider (string) - name of the provider
+genai-menu-remove-provider =
+    .label = Hiqe { $provider }
 genai-input-ask-generic =
     .placeholder = Pyetni robot IA fjalosjesh…
 # $provider (string) - name of the provider
