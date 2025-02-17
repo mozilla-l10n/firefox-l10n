@@ -12,3 +12,18 @@ preonboarding-primary-cta = Ripohojeni dhe vazhdoni
 preonboarding-manage-and-read-header = Administroni rregullime mbledhjeje të dhënash dhe lexoni Rregullat tona të Përdorimit dhe Shënimin tonë mbi Privatësinë
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Lexoni Rregullat tona të Përdorimit
+# Label for header style button that toggles showing the Privacy Notice
+preonboarding-privacy-notice-header-button-title = Lexoni Shënimin tonë mbi Privatësinë
+# Label for header style button that toggles showing the data preference checklist
+preonboarding-manage-data-header-button-title = Administroni të dhëna diagnostikimi dhe ndërveprimesh
+# Label for header style button that toggles showing the Terms of Use (Variant B)
+preonboarding-terms-of-use-header-button-title-b = Terma Përdorimi për { -brand-product-name }-in
+# Label for header style button that toggles showing the Privacy Notice (Variant B)
+preonboarding-privacy-notice-header-button-title-b = Shënim Privatësie në { -brand-product-name }
+# Description under label for header style buttons
+preonboarding-header-button-description = Lexoni Më Tepër
+# New user onboarding checklist
+preonboarding-checklist-interaction-data-label = Dërgo të dhëna teknike dhe ndërveprimesh te { -vendor-short-name }
+preonboarding-checklist-interaction-data-description = Të dhënat rreth pajisjes tuaj, formësimit hardware dhe se si e përdorni { -brand-product-name }-in ndihmojnë të përmirësohen veçori, funksionimi dhe qëndrueshmëria për përdorues kudo.
+preonboarding-checklist-crash-reports-label = Dërgo vetvetiu njoftime vithisjesh
+preonboarding-checklist-crash-reports-description = Raportet e vithisjeve na lejojnë të diagnostikojmë dhe ndreqim probleme me shfletuesin. Raportet mund të përfshijnë të dhëna personale, ose rezervat.
