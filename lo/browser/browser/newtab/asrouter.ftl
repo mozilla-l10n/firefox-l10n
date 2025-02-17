@@ -221,9 +221,15 @@ device-migration-fxa-spotlight-getting-new-device-header-2 = ອຸປະກອ�
 
 ## Set as Default PDF Reader Infobar
 
+pdf-default-notification-set-default-button =
+    .label = ຕັ້ງໄວ້ເປັນຄ່າເລີ່ມຕົ້ນ
+pdf-default-notification-decline-button =
+    .label = ບໍ່ແມ່ນຕອນນີ້
 
 ## Launch on login infobar notification
 
+launch-on-login-infobar-reject-button = ບໍ່ແມ່ນຕອນນີ້
+    .accesskey = N
 
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.

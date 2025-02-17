@@ -80,6 +80,7 @@ sidebar-callout-survey-strongly-agree = ຕົກລົງເຫັນດີ
 sidebar-callout-survey-agree = ເຫັນດີ
 sidebar-callout-survey-disagree = ບໍ່ເຫັນດີ
 sidebar-callout-survey-strongly-disagree = ຄັດຄ້ານຢ່າງແຮງ
+sidebar-callout-survey-split-view = ເບິ່ງສອງເວັບໄຊທ໌ໃນເວລາດຽວກັນ, ໃນມຸມເບິ່ງການເບິ່ງແບບຮຽງຂ້າງກັນ
 sidebar-callout-survey-saved-websites-2 = ເຂົ້າເຖິງບຸກມາກຂອງທ່ານຢ່າງວ່ອງໄວ
 sidebar-callout-survey-none-of-above = ບໍ່ມີຂໍ້ໃດຂ້າງຕົ້ນ
 sidebar-callout-survey-submit = ສົ່ງ
