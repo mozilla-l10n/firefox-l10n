@@ -27,8 +27,12 @@ original-profile-name = Исходный файл
 edit-profile-page-title = Редактировать профиль
 edit-profile-page-header = Изменить ваш профиль
 edit-profile-page-profile-name-label = Имя профиля
+edit-profile-page-theme-header-2 =
+    .label = Тема
 edit-profile-page-theme-header = Тема
 edit-profile-page-explore-themes = Просмотреть больше тем
+edit-profile-page-avatar-header-2 =
+    .label = Аватар
 edit-profile-page-avatar-header = Аватар
 edit-profile-page-delete-button =
     .label = Удалить
@@ -109,3 +113,6 @@ shopping-avatar-alt =
     .alt = Тележка покупателя
 star-avatar-alt =
     .alt = Звёздочка
+
+## Labels for default avatar icons
+
