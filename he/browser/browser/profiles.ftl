@@ -116,3 +116,9 @@ star-avatar-alt =
 
 ## Labels for default avatar icons
 
+book-avatar = ספר
+briefcase-avatar = מזוודה
+flower-avatar = פרח
+heart-avatar = לב
+shopping-avatar = עגלת קניות
+star-avatar = כוכב
