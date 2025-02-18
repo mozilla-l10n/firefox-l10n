@@ -706,6 +706,8 @@ urlbar-searchmode-actions =
 urlbar-searchmode-exit-button =
     .tooltiptext = Zavrieť
 urlbar-searchmode-popup-description = Tentoraz vyhľadať pomocou:
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = Nastavenia vyhľadávania
 urlbar-searchmode-popup-search-settings = Nastavenia vyhľadávania
 # Searchmode Switcher button
 # Variables:
