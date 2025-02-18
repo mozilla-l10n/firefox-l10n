@@ -23,8 +23,12 @@ original-profile-name = الملف الشخصي الأصلي
 edit-profile-page-title = حرّر الملف الشخصي
 edit-profile-page-header = حرّر ملفك الشخصي
 edit-profile-page-profile-name-label = اسم الملف الشخصي
+edit-profile-page-theme-header-2 =
+    .label = السمة
 edit-profile-page-theme-header = السمة
 edit-profile-page-explore-themes = استكشاف المزيد من السمات
+edit-profile-page-avatar-header-2 =
+    .label = الصورة
 edit-profile-page-avatar-header = الصورة
 edit-profile-page-delete-button =
     .label = احذف
@@ -83,4 +87,7 @@ profiles-dark-theme = داكن
 profiles-system-theme = النظام
 
 ## Alternative text for default profile icons
+
+
+## Labels for default avatar icons
 
