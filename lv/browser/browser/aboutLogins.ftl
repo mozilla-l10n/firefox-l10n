@@ -171,7 +171,7 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## notes are only valid for English. Please test in your respected locale.
 
 # This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = Lai rediģētu savu lietotājvārdu, ievadiet Windows ierkastīšanās akreditācijas datus. Tas palīdz sargāt jūsu kontu drošību.
+about-logins-edit-login-os-auth-dialog-message-win = Lai rediģētu savu lietotājvārdu, jāievada Windows ierkastīšanās informācija. Tas palīdz sargāt kontu drošību.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = rediģēt saglabāto lietotājvārdu un paroli

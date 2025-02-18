@@ -5,6 +5,13 @@
 printui-title = അച്ചടിപ്പിക്കുക
 # Dialog title to prompt the user for a filename to save print to PDF.
 printui-save-to-pdf-title = പേരോടെ കരുതിവയ്ക്കുക
+# Variables
+# $sheetCount (integer) - Number of paper sheets
+printui-sheets-count =
+    { $sheetCount ->
+        [one] { $sheetCount } കടലാസുകൾ
+       *[other] { $sheetCount } കടലാസുകൾ
+    }
 printui-page-range-all = എല്ലാം
 printui-page-range-current = നിലവിലുള്ളതു്
 printui-page-range-odd = ഒറ്റ
