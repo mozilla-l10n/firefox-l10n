@@ -699,6 +699,8 @@ urlbar-searchmode-actions =
 urlbar-searchmode-exit-button =
     .tooltiptext = Mbylle
 urlbar-searchmode-popup-description = Këtë herë kërko me:
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = Parametra Kërkimi
 urlbar-searchmode-popup-search-settings = Parametra Kërkimi
 # Searchmode Switcher button
 # Variables:
