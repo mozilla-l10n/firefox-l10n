@@ -7,15 +7,23 @@ sync-disconnect-dialog-title2 = വേറാക്കട്ടെ?
 sync-disconnect-dialog-button = വേറാക്കുക
 fxa-signout-dialog2-title = { -fxaccount-brand-name(capitalization: "വാക്യം") }-ൽ നിന്നു് പുറത്തുക്കടക്കണോ?
 fxa-signout-dialog-title2 = അക്കൗണ്ടിൽ നിന്നു് പുറത്തുക്കടക്കട്ടെ?
+fxa-signout-dialog-body = സമന്വയിപ്പിച്ച ഡാറ്റ താങ്ങളുടെ അക്കൗണ്ടിൽ തന്നെ ഇരിക്കും.
 fxa-signout-dialog2-button = പുറത്തുക്കടക്കുക
+fxa-signout-dialog2-checkbox = ഈ ഉപകരണത്തിൽ നിന്നു് ദത്ത മായ്ക്കുക (രഹസ്യവാക്കുകളും നാൾവഴിയും അടയാളക്കുറിപ്പുകളും മുതലായവ)
 fxa-menu-sync-settings =
     .label = സമന്വയ ക്രമീകരണങ്ങൾ
+fxa-menu-turn-on-sync =
+    .value = സമന്വയം തുടങ്ങിവയ്ക്കുക
+fxa-menu-turn-on-sync-default = സമന്വയം തുടങ്ങിവയ്ക്കുക
+fxa-menu-connect-another-device =
+    .label = മറ്റൊരു ഉപകരണ തമ്മിൽ ബന്ധിപ്പിക്കുക…
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = ഉപകരണങ്ങള്‍ സിങ്ക് ചെയ്യുന്നു…
 fxa-menu-sign-out =
     .label = പുറത്തുക്കടക്കുക…
 fxa-menu-sync-title = സമന്വയം
+fxa-menu-sync-description = ഗോളാന്തരവല എല്ലായിടത്തിൽ നിന്നു് ഉപയോഗിക്കുക
 sync-setup-verify-continue = തുടരുക
 sync-setup-verify-title = കൂട്ടിചേര്‍ക്കൽമുന്നറിയിപ്പ്
 

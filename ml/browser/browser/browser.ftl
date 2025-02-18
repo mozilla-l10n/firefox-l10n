@@ -380,6 +380,13 @@ bookmark-panel =
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-site-information = { $host }-നെ പറ്റിയ വെബിടവിവരം
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = { $host }നു് സമ്പൎക്കസുരക്ഷ
 identity-connection-not-secure = സമ്പർക്കം സുരക്ഷിതമല്ല
 identity-connection-secure = സമ്പമർക്കം സുരക്ഷിതമാണു്
 identity-connection-failure = സമ്പൎക്ക തകരാർ
@@ -668,6 +675,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = { $engine }-ൽ ട്രെൻഡിംഗ്
+urlbar-result-menu-trending-why =
+    .label = എന്തുകൊണ്ട് ഞാനിത് കാണുന്നു
+    .accesskey = എ
 
 ## Reader View toolbar buttons
 

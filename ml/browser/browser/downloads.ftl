@@ -147,7 +147,7 @@ downloading-file-opens-in-seconds-2 =
 downloading-file-opens-in-some-time-2 =
     .value = പൂർത്തിയാകുമ്പോൾ തുറക്കും...
 downloading-file-click-to-open =
-    .value = പൂർത്തിയാകുമ്പോൾ തുറക്കുക
+    .value = തീരുമ്പോൾ തുറക്കുക
 
 ##
 
@@ -175,6 +175,11 @@ downloads-details =
 ##   $num (number) - Number of blocked downloads.
 ##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
 
+downloads-files-not-downloaded =
+    { $num ->
+        [one] ഫയൽ ഇറക്കിവച്ചില്ല
+       *[other] { $num } ഫയലുകൾ ഇറക്കിവച്ചിട്ടില്ല
+    }
 downloads-blocked-from-url = { $url }-ൽ നിന്ന ഇറക്കിവയ്ക്കലുകൾ തടഞ്ഞു
 
 ##
@@ -205,6 +210,8 @@ downloads-error-alert-title = ഇറക്കിവയ്ക്കൽപിശ�
 # Variables:
 #   $extension (String): the name of the blocking extension.
 downloads-error-blocked-by = { $extension } വഴി ഇറക്കിവയ്ക്കൽ തടഞ്ഞതിനാൽ അതു് കരുതിവയ്ക്കാൻ കഴിയില്ല.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = ഒരു വിപുലീകരണം തടഞ്ഞുകൊണ്ടു് ഈ ഇറക്കിവയ്ക്കൽ തീൎക്കാൻ കഴിയില്ല
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     അറിയപ്പെടാത്ത പിഴവുകാരണം ഈ ഇറക്കിവയ്ക്കലിനെ കരുതിവയ്ക്കാൻ പറ്റിയില്ല
