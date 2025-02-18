@@ -116,3 +116,9 @@ star-avatar-alt =
 
 ## Labels for default avatar icons
 
+book-avatar = Китоб
+briefcase-avatar = Ҷузвгир
+flower-avatar = Гул
+heart-avatar = Дил
+shopping-avatar = Сабади харидорӣ
+star-avatar = Ситора
