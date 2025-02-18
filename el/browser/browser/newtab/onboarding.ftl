@@ -455,4 +455,7 @@ multi-profile-callout-cta = Δημιουργία προφίλ
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Σαρώστε τον κωδικό QR για να κάνετε λήψη του { -brand-product-name } για κινητές συσκευές. Μόλις ολοκληρωθεί η εγκατάσταση, επιλέξτε «Συγχρονισμός με κινητή συσκευή» για να αποκτήσετε πρόσβαση σε κωδικούς πρόσβασης, σελιδοδείκτες και πολλά άλλα, εν κινήσει.
 dismiss-button-label = Απόρριψη
+sync-to-mobile-button-label = Συγχρονισμός με κινητή συσκευή

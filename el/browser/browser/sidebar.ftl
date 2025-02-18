@@ -58,6 +58,10 @@ sidebar-show-on-the-right =
     .label = Μετακίνηση πλαϊνής γραμμής στα δεξιά
 sidebar-show-on-the-left =
     .label = Μετακίνηση πλαϊνής γραμμής στα αριστερά
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Ανάπτυξη πλαϊνής γραμμής με το πέρασμα του κέρσορα
 sidebar-horizontal-tabs =
     .label = Οριζόντιες καρτέλες
 sidebar-customize-tabs-header =

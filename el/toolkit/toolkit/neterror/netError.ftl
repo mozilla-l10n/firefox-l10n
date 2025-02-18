@@ -156,6 +156,9 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Αν δεν γνωρίζε�
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = Το <b>{ $hostname }</b> έχει μια πολιτική ασφαλείας, που ονομάζεται HTTP Strict Transport Security (HSTS) και σημαίνει ότι το { -brand-short-name } μπορεί να συνδεθεί μόνο με ασφαλή τρόπο. Δεν μπορείτε να προσθέσετε εξαίρεση για να επισκεφτείτε αυτόν τον ιστότοπο.
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = Ίσως χωρίς σημασία, αφού είναι πιθανό να υπάρχει πρόβλημα με τον ίδιο τον ιστότοπο.
+certerror-blocked-by-corp-headers-description = Μερικές φορές, οι ιστότοποι υλοποιούν προστασίες για τους εαυτούς τους και για άτομα όπως εσείς, ενάντια σε ανεπιθύμητες αλληλεπιδράσεις με άλλους ιστοτόπους.
+certerror-coop-learn-more = Μάθετε περισσότερα για τα κριτήρια COOP (Cross Origin Opener Policies)
+certerror-coep-learn-more = Μάθετε περισσότερα για τα κριτήρια COEP (Cross Origin Embedder Policies)
 # Variables:
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
