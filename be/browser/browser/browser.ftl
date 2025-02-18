@@ -706,6 +706,8 @@ urlbar-searchmode-actions =
 urlbar-searchmode-exit-button =
     .tooltiptext = Закрыць
 urlbar-searchmode-popup-description = Гэтым разам шукаць у:
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = Налады пошуку
 urlbar-searchmode-popup-search-settings = Налады пошуку
 # Searchmode Switcher button
 # Variables:
