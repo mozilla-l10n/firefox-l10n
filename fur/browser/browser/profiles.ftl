@@ -116,3 +116,9 @@ star-avatar-alt =
 
 ## Labels for default avatar icons
 
+book-avatar = Libri
+briefcase-avatar = Valisute
+flower-avatar = Rose
+heart-avatar = Cûr
+shopping-avatar = Carel de spese
+star-avatar = Stele
