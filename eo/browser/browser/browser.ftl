@@ -699,6 +699,8 @@ urlbar-searchmode-actions =
 urlbar-searchmode-exit-button =
     .tooltiptext = Fermi
 urlbar-searchmode-popup-description = Ĉi foje serĉi per:
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = Agordoj de serĉo
 urlbar-searchmode-popup-search-settings = Agordoj de serĉo
 # Searchmode Switcher button
 # Variables:
