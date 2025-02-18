@@ -109,3 +109,9 @@ star-avatar-alt =
 
 ## Labels for default avatar icons
 
+book-avatar = Bok
+briefcase-avatar = Dokumentmappe
+flower-avatar = Blomster
+heart-avatar = Hjarte
+shopping-avatar = Handlevogn
+star-avatar = Stjerne
