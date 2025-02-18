@@ -116,3 +116,9 @@ star-avatar-alt =
 
 ## Labels for default avatar icons
 
+book-avatar = Könyv
+briefcase-avatar = Aktatáska
+flower-avatar = Virág
+heart-avatar = Szív
+shopping-avatar = Bevásárlókosár
+star-avatar = Csillag
