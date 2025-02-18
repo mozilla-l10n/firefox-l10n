@@ -116,3 +116,9 @@ star-avatar-alt =
 
 ## Labels for default avatar icons
 
+book-avatar = წიგნი
+briefcase-avatar = პორტფელი
+flower-avatar = ყვავილი
+heart-avatar = გული
+shopping-avatar = საყიდლების კალათა
+star-avatar = ვარსკვლავი
