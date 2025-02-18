@@ -27,8 +27,12 @@ original-profile-name = 원본 프로필
 edit-profile-page-title = 프로필 편집
 edit-profile-page-header = 프로필 편집
 edit-profile-page-profile-name-label = 프로필 이름
+edit-profile-page-theme-header-2 =
+    .label = 테마
 edit-profile-page-theme-header = 테마
 edit-profile-page-explore-themes = 더 많은 테마 살펴보기
+edit-profile-page-avatar-header-2 =
+    .label = 아바타
 edit-profile-page-avatar-header = 아바타
 edit-profile-page-delete-button =
     .label = 삭제
@@ -109,3 +113,6 @@ shopping-avatar-alt =
     .alt = 장바구니
 star-avatar-alt =
     .alt = 별
+
+## Labels for default avatar icons
+
