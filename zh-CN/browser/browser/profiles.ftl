@@ -116,3 +116,9 @@ star-avatar-alt =
 
 ## Labels for default avatar icons
 
+book-avatar = 书本
+briefcase-avatar = 公文包
+flower-avatar = 花朵
+heart-avatar = 爱心
+shopping-avatar = 购物车
+star-avatar = 星星
