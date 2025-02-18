@@ -31,6 +31,8 @@ edit-profile-page-theme-header-2 =
     .label = 佈景主題
 edit-profile-page-theme-header = 佈景主題
 edit-profile-page-explore-themes = 探索更多佈景主題
+edit-profile-page-avatar-header-2 =
+    .label = 圖示
 edit-profile-page-avatar-header = 圖示
 edit-profile-page-delete-button =
     .label = 刪除
@@ -114,3 +116,9 @@ star-avatar-alt =
 
 ## Labels for default avatar icons
 
+book-avatar = 書本
+briefcase-avatar = 公事包
+flower-avatar = 花朵
+heart-avatar = 愛心
+shopping-avatar = 購物車
+star-avatar = 星星
