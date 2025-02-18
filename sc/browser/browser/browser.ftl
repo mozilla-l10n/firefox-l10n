@@ -699,6 +699,8 @@ urlbar-searchmode-actions =
 urlbar-searchmode-exit-button =
     .tooltiptext = Serra
 urlbar-searchmode-popup-description = Custa borta chirca cun:
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = Cunfiguratzione de chirca
 urlbar-searchmode-popup-search-settings = Cunfiguratzione de chirca
 # Searchmode Switcher button
 # Variables:
