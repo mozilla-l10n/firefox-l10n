@@ -467,3 +467,5 @@ desktop-to-mobile-headline = Ladda ner, synkronisera och kör!
 desktop-to-mobile-subtitle = Skanna QR-koden för att ladda ner { -brand-product-name } för mobil. När du har installerat den, välj "Synkronisera till mobil" för att komma åt dina lösenord, bokmärken och mer när du är på språng.
 dismiss-button-label = Ignorera
 sync-to-mobile-button-label = Synka till mobil
+desktop-to-mobile-qr-code-alt =
+    .aria-label = QR-kod för att ladda ner { -brand-product-name } för mobil

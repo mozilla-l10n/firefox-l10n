@@ -316,6 +316,12 @@ newtab-custom-settings = Hantera fler inställningar
 
 newtab-wallpaper-title = Bakgrundsbilder
 newtab-wallpaper-reset = Återställ till standardvärden
+newtab-wallpaper-upload-image = Ladda upp en bild
+newtab-wallpaper-custom-color = Välj en färg
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = Bilden överskred gränsen för filstorleken på { $file_size } MB. Prova att ladda upp en mindre fil.
+newtab-wallpaper-error-file-type = Vi kunde inte ladda upp din fil. Försök igen med en annan filtyp.
 newtab-wallpaper-light-red-panda = Röd panda
 newtab-wallpaper-light-mountain = Vita berg
 newtab-wallpaper-light-sky = Himmel med lila och rosa moln
@@ -359,6 +365,10 @@ newtab-wallpaper-abstract-purple = Lila former
 newtab-wallpaper-abstract-orange = Orange former
 newtab-wallpaper-gradient-orange = Gradient orange och rosa
 newtab-wallpaper-abstract-blue-purple = Blå och lila former
+newtab-wallpaper-abstract-white-curves = Vit med skuggade kurvor
+newtab-wallpaper-abstract-purple-green = Lutning för lila och grönt ljus
+newtab-wallpaper-abstract-blue-purple-waves = Blå och lila vågiga former
+newtab-wallpaper-abstract-black-waves = Svarta vågiga former
 
 ## Celestial
 
@@ -369,6 +379,12 @@ newtab-wallpaper-storm-sky = Stormhimlen
 newtab-wallpaper-sky-with-pink-clouds = Himmel med rosa moln
 newtab-wallpaper-red-panda-yawns-in-a-tree = Röd panda gäspar i ett träd
 newtab-wallpaper-white-mountains = Vita berg
+newtab-wallpaper-hot-air-balloons = Blandad färg på luftballonger under dagtid
+newtab-wallpaper-starry-canyon = Blå stjärnklar natt
+newtab-wallpaper-suspension-bridge = Grå fotografering av helhängbro under dagtid
+newtab-wallpaper-sand-dunes = Vita sanddyner
+newtab-wallpaper-palm-trees = Silhuett av kokospalmer under gyllene timmen
+newtab-wallpaper-forest-trees = Träd täckta med dimma
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -386,6 +402,16 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Celestial
+newtab-wallpaper-celestial-lunar-eclipse = Månförmörkelse
+newtab-wallpaper-celestial-earth-night = Nattfoto från låg bana om jorden
+newtab-wallpaper-celestial-starry-sky = Stjärnklara himlen
+newtab-wallpaper-celestial-eclipse-time-lapse = Månförmörkelse time lapse
+newtab-wallpaper-celestial-black-hole = Svart hål galaxen illustration
+newtab-wallpaper-celestial-river = Satellitbild av floden
 
 ## New Tab Weather
 
@@ -481,13 +507,22 @@ newtab-section-confirm-block-section-p1 = Är du säker på att du vill blockera
 newtab-section-confirm-block-section-p2 = Blockerad sektion kommer inte längre att visas i ditt flöde.
 newtab-section-block-section-button = Blockera denna sektion
 newtab-section-cancel-button = Inte nu
+newtab-section-confirm-block-topic-p1 = Är du säker på att du vill blockera det här ämnet?
+newtab-section-confirm-block-topic-p2 = Blockerade ämnen kommer inte längre att visas i ditt flöde.
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = Blockera { $topic }
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Ämnen
+newtab-section-manage-topics-button-v2 =
+    .label = Hantera ämnen
+newtab-section-mangage-topics-followed-topics = Följd
 newtab-section-mangage-topics-button =
     .label = Följda och blockerade ämnen
 newtab-section-mangage-topics-followed-topics-subtitle = Följda ämnen
 newtab-section-mangage-topics-followed-topics-empty-state = Du har inte följt några ämnen än.
+newtab-section-mangage-topics-blocked-topics = Blockerad
 newtab-section-mangage-topics-blocked-topics-subtitle = Blockerade ämnen
 newtab-section-mangage-topics-blocked-topics-empty-state = Du har inte blockerat några ämnen än.

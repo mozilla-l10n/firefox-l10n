@@ -51,6 +51,8 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name }, utvecklad av <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, en <label data-l10n-name="community-creditsLink">global gemenskap</label> som arbetar tillsammans för att hålla webben öppen och tillgänglig för alla.
 helpus = Vill du hjälpa till? <label data-l10n-name="helpus-donateLink">Ge ett bidrag</label> eller <label data-l10n-name="helpus-getInvolvedLink">engagera dig!</label>
 bottomLinks-license = Licensinformation
+bottom-links-terms = Användarvillkor
+bottom-links-privacy = Sekretesspolicy
 bottomLinks-rights = Användarrättigheter
 bottomLinks-privacy = Sekretesspolicy
 # Example of resulting string: 66.0.1 (64-bit)

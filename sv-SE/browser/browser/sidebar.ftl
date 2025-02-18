@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI Chatbot
 menu-view-review-checker =
     .label = Recensionsgranskare
+menu-view-contextual-password-manager =
+    .label = Lösenord
 sidebar-options-menu-button =
     .title = Öppna meny
 
@@ -115,6 +117,8 @@ sidebar-menu-customize-label =
     .label = Anpassa sidofält
 sidebar-menu-review-checker-label =
     .label = Recensionsgranskare
+sidebar-menu-contextual-password-manager-label =
+    .label = Lösenord
 
 ## Tooltips for sidebar menu items.
 
@@ -157,6 +161,8 @@ sidebar-menu-syncedtabs-header =
     .heading = Flikar från andra enheter
 sidebar-menu-bookmarks-header =
     .heading = Bokmärken
+sidebar-menu-cpm-header =
+    .heading = Lösenord
 sidebar-panel-header-close-button =
     .tooltiptext = Stäng
 
