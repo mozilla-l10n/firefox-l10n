@@ -225,6 +225,16 @@ containers-remove-cancel-button = Älä poista eristystilaa
 settings-tabs-show-image-in-preview =
     .label = Näytä kuvan esikatselu, kun siirrät hiiren välilehden päälle
     .accessKey = h
+browser-layout-header = Selaimen asettelu
+browser-layout-horizontal-tabs =
+    .label = Vaakasuuntaiset välilehdet
+browser-layout-horizontal-tabs-desc = Näyttö selaimen yläosassa
+browser-layout-vertical-tabs =
+    .label = Pystysuuntaiset välilehdet
+browser-layout-vertical-tabs-desc = Näyttö sivulla, sivupalkissa
+browser-layout-show-sidebar =
+    .label = Näytä sivupalkki
+browser-layout-show-sidebar-desc = Käytä nopeasti kirjanmerkkejä, välilehtiä, AI-chatbotteja ja paljon muuta poistumatta päänäkymästä.
 
 ## General Section - Language & Appearance
 
@@ -1315,9 +1325,13 @@ collection-health-report =
     .label = Salli, että { -brand-short-name } lähettää teknisiä ja käyttötilastoja { -vendor-short-name }lle
     .accesskey = S
 collection-health-report-link = Lue lisää
+collection-studies-description = Kokeile ominaisuuksia ja ideoita, ennen kuin ne julkaistaan kaikille.
 collection-studies =
     .label = Salli, että { -brand-short-name } asentaa ja suorittaa tutkimuksia
 collection-studies-link = Näytä { -brand-short-name }-tutkimukset
+addon-recommendations2 =
+    .label = Salli henkilökohtaiset laajennussuositukset
+addon-recommendations-description = Hanki laajennussuosituksia parantaaksesi selauskokemustasi.
 addon-recommendations =
     .label = Salli, että { -brand-short-name } tekee henkilökohtaisia laajennussuosituksia
 addon-recommendations-link = Lue lisää

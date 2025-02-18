@@ -29,6 +29,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Avaa uudelleen suljetut välilehdet
         }
     .accesskey = d
+toolbar-context-turn-on-vertical-tabs =
+    .label = Ota pystysuuntaiset välilehdet käyttöön
+toolbar-context-turn-off-vertical-tabs =
+    .label = Poista pystysuuntaiset välilehdet käytöstä
+toolbar-context-customize-sidebar =
+    .label = Mukauta sivupalkkia
 toolbar-context-menu-manage-extension =
     .label = Hallitse laajennusta
     .accesskey = a
