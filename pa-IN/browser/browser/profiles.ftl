@@ -27,8 +27,12 @@ original-profile-name = ਅਸਲੀ ਪਰੋਫਾਈਲ
 edit-profile-page-title = ਪਰੋਫਾਇਲ ਨੂੰ ਸੋਧੋ
 edit-profile-page-header = ਆਪਣੇ ਪਰੋਫਾਈਲ ਵਿੱਚ ਸੋਧ ਕਰੋ
 edit-profile-page-profile-name-label = ਪਰੋਫਾਈਲ ਦਾ ਨਾਂ
+edit-profile-page-theme-header-2 =
+    .label = ਥੀਮ
 edit-profile-page-theme-header = ਥੀਮ
 edit-profile-page-explore-themes = ਹੋਰ ਥੀਮ ਦੀ ਪੜਤਾਲ ਕਰੋ
+edit-profile-page-avatar-header-2 =
+    .label = ਅਵਤਾਰ
 edit-profile-page-avatar-header = ਅਵਤਾਰ
 edit-profile-page-delete-button =
     .label = ਹਟਾਓ
@@ -109,3 +113,6 @@ shopping-avatar-alt =
     .alt = ਖਰੀਦਦਾਰੀ ਕਾਰਟ
 star-avatar-alt =
     .alt = ਤਾਰਾ
+
+## Labels for default avatar icons
+
