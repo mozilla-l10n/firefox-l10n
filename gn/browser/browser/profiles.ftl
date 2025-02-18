@@ -26,8 +26,12 @@ original-profile-name = Mba’ete ha’etéva
 edit-profile-page-title = Embosako’i mba’ete
 edit-profile-page-header = Embosako’i ne mba’ete
 edit-profile-page-profile-name-label = Mba’ete réra
+edit-profile-page-theme-header-2 =
+    .label = Téma
 edit-profile-page-theme-header = Téma
 edit-profile-page-explore-themes = Ehapykueho hetave téma
+edit-profile-page-avatar-header-2 =
+    .label = Avatar
 edit-profile-page-avatar-header = Avatar
 edit-profile-page-delete-button =
     .label = Mboguete
@@ -107,3 +111,6 @@ shopping-avatar-alt =
     .alt = Mba’yruguata’i jejoguaha
 star-avatar-alt =
     .alt = Mbyja
+
+## Labels for default avatar icons
+
