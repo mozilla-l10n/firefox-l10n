@@ -59,6 +59,11 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = { $provider } fragen
+genai-menu-remove-generic =
+    .label = KI-Chatbot entfernen
+# $provider (string) - name of the provider
+genai-menu-remove-provider =
+    .label = { $provider } entfernen
 genai-input-ask-generic =
     .placeholder = KI-Chatbot fragen…
 # $provider (string) - name of the provider

@@ -446,6 +446,10 @@ onboarding-checklist-sign-up = Registriere dich oder melde dich mit deinem Konto
 
 tab-groups-onboarding-feature-callout-title = Probiere Tab-Gruppen für weniger Unordnung und mehr Fokus
 tab-groups-onboarding-feature-callout-subtitle = Schaffe Ordnung, indem du einen Tab über den anderen ziehst, um deine erste Gruppe zu erstellen.
+tab-groups-onboarding-create-group-title = Finden Sie Ihre offenen Gruppen in der Tab-Leiste, oder suchen Sie in der Adressleiste danach.
+tab-groups-onboarding-saved-groups-title = Wenn Sie eine Tab-Gruppe schließen, können Sie diese hier jederzeit wieder öffnen.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title = Finden Sie jederzeit Ihre offenen oder geschlossenen Tab-Gruppen, indem Sie in der Adressleiste suchen.
+tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages
 
@@ -458,3 +462,5 @@ multi-profile-callout-cta = Ein Profil erstellen
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = Herunterladen, synchronisieren und loslegen!

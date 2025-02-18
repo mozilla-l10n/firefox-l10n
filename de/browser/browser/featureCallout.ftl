@@ -103,3 +103,11 @@ unified-search-engines-callout-title = Mit einem Kurzbefehl suchen
 unified-search-engines-callout-subtitle = Geben Sie "@" gefolgt von einem Schlüsselwort ein, um Ihre Chronik, Lesezeichen oder Tabs zu durchsuchen, oder um mit einer anderen Suchmaschine zu suchen.
 unified-search-engines-callout-primary-label = Verstanden
 actions-callout-title = Häufige Aufgaben erledigen oder auf grundlegende Einstellungen zugreifen
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearhistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = Versuchen Sie, Aktionen einzugeben; z. B. "drucken", um die Seite zu drucken, oder "Chronik löschen", um die Chronik zu löschen.
