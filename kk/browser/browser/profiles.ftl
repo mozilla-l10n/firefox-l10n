@@ -116,3 +116,9 @@ star-avatar-alt =
 
 ## Labels for default avatar icons
 
+book-avatar = Кітап
+briefcase-avatar = Портфель
+flower-avatar = Гүл
+heart-avatar = Жүрек
+shopping-avatar = Кәрзеңке
+star-avatar = Жұлдызша
