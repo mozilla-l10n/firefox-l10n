@@ -13,6 +13,11 @@ browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } ການທ່ອງເວັບສ່ວນຕົວ
+# This gets set as the initial title, and is overridden as soon as we start
+# updating the titlebar based on loaded tabs or private browsing state.
+# This should match the `data-title-default` attribute in both
+# `browser-main-window` and `browser-main-window-mac`.
+browser-main-window-default-title = { -brand-full-name }
 
 ##
 
@@ -233,6 +238,8 @@ quickactions-cmd-plugins = ປລັກອິນ
 # Opens the print dialog
 quickactions-print2 = ໜ້າພິມ
 quickactions-cmd-print = ພິມ
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = ບັນທຶກເປັນ PDF
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = ເປີດປ່ອງຢ້ຽມສ່ວນຕົວ
@@ -261,6 +268,10 @@ quickactions-cmd-viewsource = ເບິ່ງຕົ້ນສະບັບ, ຕົ
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = ສຶກສາເພີ່ມເຕີມກ່ຽວກັບການດຳເນີນການດ່ວນ
+# Will be shown to users the first configurable number of times
+# they experience actions giving them instructions on how to
+# select the action shown by pressing the tab key.
+press-tab-label = ກົດແຖບເພື່ອເລືອກ:
 
 ## Bookmark Panel
 
@@ -542,6 +553,9 @@ urlbar-result-action-search-actions = ຄຳສັ່ງການຄົ້ນຫ
 # Label for a quickaction result used to switch to an open tab group.
 #  $group (String): the name of the tab group to switch to
 urlbar-result-action-switch-to-tabgroup = ປ່ຽນເປັນ { $group }
+# Label for a quickaction result used to re-opan a saved tab group.
+#  $group (String): the name of the tab group to re-open
+urlbar-result-action-open-saved-tabgroup = ເປີດ { $group }
 
 ## Labels shown above groups of urlbar results
 

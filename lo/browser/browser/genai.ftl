@@ -44,4 +44,5 @@ genai-onboarding-chatgpt-generate = ສ້າງຂໍ້ຄວາມ, ຮູບ
 genai-onboarding-copilot-analyze = ວິເຄາະຮູບພາບ
 genai-onboarding-copilot-price = ມີຕົວເລືອກແບບຟຣີ ແລະ ແບບຊຳລະເງິນ; ຕ້ອງມີບັນຊີສຳລັບບາງວຽກ
 genai-onboarding-huggingchat-generate = ສ້າງຂໍ້ຄວາມແລະ ລະຫັດ
+genai-onboarding-lechat-generate = ສ້າງຂໍ້ຄວາມ ແລະ ລະຫັດ
 genai-onboarding-lechat-price = ຟຣີ; ແຕ່ຕ້ອງມີບັນຊີເພື່ອໃຊ້ງານ

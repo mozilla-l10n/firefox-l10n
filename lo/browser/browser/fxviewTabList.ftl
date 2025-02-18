@@ -55,6 +55,8 @@ fxviewtabrow-unpin-tab = ຖອນປັກໝຸດແຖບ
     .accesskey = p
 fxviewtabrow-mute-tab = ປິດສຽງແທັບ
     .accesskey = M
+fxviewtabrow-unmute-tab = ເປີດສຽງແຖບ
+    .accesskey = m
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =

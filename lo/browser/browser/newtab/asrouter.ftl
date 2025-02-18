@@ -237,6 +237,7 @@ launch-on-login-infobar-reject-button = ບໍ່ແມ່ນຕອນນີ້
 
 ## Tail Fox Set Default Spotlight
 
+tail-fox-spotlight-secondary-button = ບໍ່ແມ່ນຕອນນີ້
 
 ## Root Certificate Succession Infobar
 
