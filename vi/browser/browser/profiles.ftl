@@ -27,8 +27,12 @@ original-profile-name = Hồ sơ gốc
 edit-profile-page-title = Sửa hồ sơ
 edit-profile-page-header = Chỉnh sửa hồ sơ của bạn
 edit-profile-page-profile-name-label = Tên hồ sơ
+edit-profile-page-theme-header-2 =
+    .label = Chủ đề
 edit-profile-page-theme-header = Chủ đề
 edit-profile-page-explore-themes = Khám phá chủ đề khác
+edit-profile-page-avatar-header-2 =
+    .label = Hình đại diện
 edit-profile-page-avatar-header = Hình đại diện
 edit-profile-page-delete-button =
     .label = Xóa
@@ -109,3 +113,6 @@ shopping-avatar-alt =
     .alt = Giỏ hàng
 star-avatar-alt =
     .alt = Dấu sao
+
+## Labels for default avatar icons
+
