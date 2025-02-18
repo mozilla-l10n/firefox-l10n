@@ -116,3 +116,9 @@ star-avatar-alt =
 
 ## Labels for default avatar icons
 
+book-avatar = Knjiga
+briefcase-avatar = Aktovka
+flower-avatar = Cvet
+heart-avatar = Srce
+shopping-avatar = Nakupovalni voziček
+star-avatar = Zvezdica
