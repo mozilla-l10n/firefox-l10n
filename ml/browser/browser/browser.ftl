@@ -624,6 +624,8 @@ urlbar-searchmode-actions =
 urlbar-searchmode-exit-button =
     .tooltiptext = അടയ്ക്കുക
 urlbar-searchmode-popup-description = ഈ വട്ടം, ഇതുപയോഗിച്ച് തിരയുക:
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = തിരച്ചിൽ ക്രമീകരണങ്ങൾ
 urlbar-searchmode-popup-search-settings = തിരച്ചിൽ ക്രമീകരണങ്ങൾ
 # Searchmode Switcher button
 # Variables:
