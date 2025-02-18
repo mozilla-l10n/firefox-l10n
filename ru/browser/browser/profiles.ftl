@@ -116,3 +116,9 @@ star-avatar-alt =
 
 ## Labels for default avatar icons
 
+book-avatar = Книга
+briefcase-avatar = Портфель
+flower-avatar = Цветок
+heart-avatar = Сердце
+shopping-avatar = Тележка покупателя
+star-avatar = Звёздочка
