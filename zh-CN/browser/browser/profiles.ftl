@@ -27,8 +27,12 @@ original-profile-name = 初始配置文件
 edit-profile-page-title = 编辑配置文件
 edit-profile-page-header = 编辑配置文件
 edit-profile-page-profile-name-label = 配置文件名称
+edit-profile-page-theme-header-2 =
+    .label = 主题
 edit-profile-page-theme-header = 主题
 edit-profile-page-explore-themes = 探索更多主题
+edit-profile-page-avatar-header-2 =
+    .label = 图标
 edit-profile-page-avatar-header = 图标
 edit-profile-page-delete-button =
     .label = 删除
@@ -109,3 +113,12 @@ shopping-avatar-alt =
     .alt = 购物车
 star-avatar-alt =
     .alt = 星星
+
+## Labels for default avatar icons
+
+book-avatar = 书本
+briefcase-avatar = 公文包
+flower-avatar = 花朵
+heart-avatar = 爱心
+shopping-avatar = 购物车
+star-avatar = 星星

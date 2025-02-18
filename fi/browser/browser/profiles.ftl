@@ -27,8 +27,12 @@ original-profile-name = Alkuperäinen profiili
 edit-profile-page-title = Muokkaa profiilia
 edit-profile-page-header = Muokkaa profiiliasi
 edit-profile-page-profile-name-label = Profiilin nimi
+edit-profile-page-theme-header-2 =
+    .label = Teema
 edit-profile-page-theme-header = Teema
 edit-profile-page-explore-themes = Tutustu muihin teemoihin
+edit-profile-page-avatar-header-2 =
+    .label = Profiilikuva
 edit-profile-page-avatar-header = Profiilikuva
 edit-profile-page-delete-button =
     .label = Poista
@@ -109,3 +113,12 @@ shopping-avatar-alt =
     .alt = Ostoskärryt
 star-avatar-alt =
     .alt = Tähti
+
+## Labels for default avatar icons
+
+book-avatar = Kirja
+briefcase-avatar = Salkku
+flower-avatar = Kukka
+heart-avatar = Sydän
+shopping-avatar = Ostoskärryt
+star-avatar = Tähti

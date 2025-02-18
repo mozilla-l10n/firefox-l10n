@@ -701,6 +701,8 @@ urlbar-searchmode-actions =
 urlbar-searchmode-exit-button =
     .tooltiptext = Kapat
 urlbar-searchmode-popup-description = Burada ara:
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = Arama ayarları
 urlbar-searchmode-popup-search-settings = Arama ayarları
 # Searchmode Switcher button
 # Variables:

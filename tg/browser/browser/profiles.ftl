@@ -27,8 +27,12 @@ original-profile-name = Профили аслӣ
 edit-profile-page-title = Таҳрир кардани профил
 edit-profile-page-header = Таҳрир кардани профили худ
 edit-profile-page-profile-name-label = Номи профил
+edit-profile-page-theme-header-2 =
+    .label = Мавзуъ
 edit-profile-page-theme-header = Мавзуъ
 edit-profile-page-explore-themes = Дидани мавзуъҳои бештар
+edit-profile-page-avatar-header-2 =
+    .label = Аватар
 edit-profile-page-avatar-header = Аватар
 edit-profile-page-delete-button =
     .label = Нест кардан
@@ -109,3 +113,12 @@ shopping-avatar-alt =
     .alt = Сабади харидорӣ
 star-avatar-alt =
     .alt = Ситора
+
+## Labels for default avatar icons
+
+book-avatar = Китоб
+briefcase-avatar = Ҷузвгир
+flower-avatar = Гул
+heart-avatar = Дил
+shopping-avatar = Сабади харидорӣ
+star-avatar = Ситора

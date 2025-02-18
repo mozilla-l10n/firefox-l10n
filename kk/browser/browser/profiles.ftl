@@ -27,8 +27,12 @@ original-profile-name = Түпнұсқа профиль
 edit-profile-page-title = Профильді түзету
 edit-profile-page-header = Профиліңізді түзету
 edit-profile-page-profile-name-label = Профиль атауы
+edit-profile-page-theme-header-2 =
+    .label = Тема
 edit-profile-page-theme-header = Тема
 edit-profile-page-explore-themes = Көбірек темаларды шолу
+edit-profile-page-avatar-header-2 =
+    .label = Аватар
 edit-profile-page-avatar-header = Аватар
 edit-profile-page-delete-button =
     .label = Өшіру
@@ -109,3 +113,12 @@ shopping-avatar-alt =
     .alt = Кәрзеңке
 star-avatar-alt =
     .alt = Жұлдызша
+
+## Labels for default avatar icons
+
+book-avatar = Кітап
+briefcase-avatar = Портфель
+flower-avatar = Гүл
+heart-avatar = Жүрек
+shopping-avatar = Кәрзеңке
+star-avatar = Жұлдызша

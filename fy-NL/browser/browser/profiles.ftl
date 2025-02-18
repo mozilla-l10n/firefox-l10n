@@ -27,8 +27,12 @@ original-profile-name = Oarspronklik profyl
 edit-profile-page-title = Profyl bewurkje
 edit-profile-page-header = Jo profyl bewurkje
 edit-profile-page-profile-name-label = Profylnamme
+edit-profile-page-theme-header-2 =
+    .label = Tema
 edit-profile-page-theme-header = Tema
 edit-profile-page-explore-themes = Mear tema’s ferkenne
+edit-profile-page-avatar-header-2 =
+    .label = Avatar
 edit-profile-page-avatar-header = Avatar
 edit-profile-page-delete-button =
     .label = Fuortsmite
@@ -109,3 +113,12 @@ shopping-avatar-alt =
     .alt = Winkelwein
 star-avatar-alt =
     .alt = Stjer
+
+## Labels for default avatar icons
+
+book-avatar = Boek
+briefcase-avatar = Wurkmap
+flower-avatar = Blom
+heart-avatar = Hert
+shopping-avatar = Winkelwein
+star-avatar = Stjer

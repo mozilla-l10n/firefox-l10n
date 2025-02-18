@@ -695,6 +695,8 @@ urlbar-searchmode-actions =
 urlbar-searchmode-exit-button =
     .tooltiptext = 닫기
 urlbar-searchmode-popup-description = 이번만 검색:
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = 검색 설정
 urlbar-searchmode-popup-search-settings = 검색 설정
 # Searchmode Switcher button
 # Variables:

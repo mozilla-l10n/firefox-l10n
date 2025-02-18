@@ -695,6 +695,8 @@ urlbar-searchmode-actions =
 urlbar-searchmode-exit-button =
     .tooltiptext = Tutup
 urlbar-searchmode-popup-description = Kali ini, cari dengan:
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = Setelan Pencarian
 urlbar-searchmode-popup-search-settings = Setelan Pencarian
 # Searchmode Switcher button
 # Variables:

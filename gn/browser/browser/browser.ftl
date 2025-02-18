@@ -702,6 +702,8 @@ urlbar-searchmode-actions =
 urlbar-searchmode-exit-button =
     .tooltiptext = Mboty
 urlbar-searchmode-popup-description = Ko’ág̃a eheka hendive:
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = Jehekaha ñemboheko
 urlbar-searchmode-popup-search-settings = Jehekaha ñemboheko
 # Searchmode Switcher button
 # Variables:

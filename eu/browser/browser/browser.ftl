@@ -695,6 +695,8 @@ urlbar-searchmode-actions =
 urlbar-searchmode-exit-button =
     .tooltiptext = Itxi
 urlbar-searchmode-popup-description = Oraingoan, bilatu honekin:
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = Bilaketa-ezarpenak
 urlbar-searchmode-popup-search-settings = Bilaketa-ezarpenak
 # Searchmode Switcher button
 # Variables:

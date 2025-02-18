@@ -702,6 +702,8 @@ urlbar-searchmode-actions =
 urlbar-searchmode-exit-button =
     .tooltiptext = Slute
 urlbar-searchmode-popup-description = Diskear sykje mei:
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = Sykynstellingen
 urlbar-searchmode-popup-search-settings = Sykynstellingen
 # Searchmode Switcher button
 # Variables:

@@ -23,8 +23,12 @@ original-profile-name = Perfil d’origina
 edit-profile-page-title = Modificar lo perfil
 edit-profile-page-header = Modificar vòstre perfil
 edit-profile-page-profile-name-label = Nom del perfil
+edit-profile-page-theme-header-2 =
+    .label = Tèma
 edit-profile-page-theme-header = Tèma
 edit-profile-page-explore-themes = Descobrir mai de tèmas
+edit-profile-page-avatar-header-2 =
+    .label = Avatar
 edit-profile-page-avatar-header = Avatar
 edit-profile-page-delete-button =
     .label = Suprimir
@@ -68,4 +72,7 @@ profiles-dark-theme = Escur
 profiles-system-theme = Sistèma
 
 ## Alternative text for default profile icons
+
+
+## Labels for default avatar icons
 

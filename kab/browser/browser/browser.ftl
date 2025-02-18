@@ -632,6 +632,8 @@ urlbar-searchmode-actions =
 urlbar-searchmode-exit-button =
     .tooltiptext = Mdel
 urlbar-searchmode-popup-description = Tikkelt-a, nadi s:
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = Iɣewwaren n unadi
 urlbar-searchmode-popup-search-settings = Iɣewwaren n unadi
 
 ## Action text shown in urlbar results, usually appended after the search

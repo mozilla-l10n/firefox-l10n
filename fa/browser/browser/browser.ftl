@@ -634,6 +634,8 @@ urlbar-searchmode-history =
 urlbar-searchmode-exit-button =
     .tooltiptext = بستن
 urlbar-searchmode-popup-description = این بار جستجو با:
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = تنظیمات جستجو
 urlbar-searchmode-popup-search-settings = تنظیمات جستجو
 
 ## Action text shown in urlbar results, usually appended after the search

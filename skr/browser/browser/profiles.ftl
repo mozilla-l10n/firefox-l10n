@@ -14,7 +14,11 @@ profile-card-delete-button =
 default-profile-name = پروفائل{ $number }
 edit-profile-page-title = پروفائل وچ تبدیلی کرو
 edit-profile-page-header = آپݨی پروفائل وچ تبدیلی کرو
+edit-profile-page-theme-header-2 =
+    .label = تھیم
 edit-profile-page-theme-header = تھیم
+edit-profile-page-avatar-header-2 =
+    .label = اواتار
 edit-profile-page-avatar-header = اواتار
 edit-profile-page-delete-button =
     .label = مٹاؤ
@@ -46,4 +50,7 @@ profiles-dark-theme = شوخ
 profiles-system-theme = سسٹم
 
 ## Alternative text for default profile icons
+
+
+## Labels for default avatar icons
 

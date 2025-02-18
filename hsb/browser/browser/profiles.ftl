@@ -27,8 +27,12 @@ original-profile-name = Originalny profil
 edit-profile-page-title = Profil wobdźěłać
 edit-profile-page-header = Wobdźěłajće swój profil
 edit-profile-page-profile-name-label = Profilowe mjeno
+edit-profile-page-theme-header-2 =
+    .label = Drasta
 edit-profile-page-theme-header = Drasta
 edit-profile-page-explore-themes = Wuslědźće dalše drasty
+edit-profile-page-avatar-header-2 =
+    .label = Awatar
 edit-profile-page-avatar-header = Awatar
 edit-profile-page-delete-button =
     .label = Zhašeć
@@ -109,3 +113,12 @@ shopping-avatar-alt =
     .alt = Nakupowanski wozyčk
 star-avatar-alt =
     .alt = Hwězda
+
+## Labels for default avatar icons
+
+book-avatar = Kniha
+briefcase-avatar = Listowka
+flower-avatar = Kwětka
+heart-avatar = Wutroba
+shopping-avatar = Nakupowanski wozyčk
+star-avatar = Hwězda

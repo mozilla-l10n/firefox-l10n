@@ -22,8 +22,12 @@ original-profile-name = Jatorrizko profila
 edit-profile-page-title = Editatu profila
 edit-profile-page-header = Editatu zure profila
 edit-profile-page-profile-name-label = Profilaren izena
+edit-profile-page-theme-header-2 =
+    .label = Itxura
 edit-profile-page-theme-header = Itxura
 edit-profile-page-explore-themes = Arakatu itxura gehiago
+edit-profile-page-avatar-header-2 =
+    .label = Abatarra
 edit-profile-page-avatar-header = Abatarra
 edit-profile-page-delete-button =
     .label = Ezabatu
@@ -57,4 +61,7 @@ delete-profile-confirm = Ezabatu
 
 
 ## Alternative text for default profile icons
+
+
+## Labels for default avatar icons
 

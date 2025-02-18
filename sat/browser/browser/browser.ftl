@@ -639,6 +639,8 @@ urlbar-searchmode-actions =
 urlbar-searchmode-exit-button =
     .tooltiptext = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 urlbar-searchmode-popup-description = ᱱᱤᱭᱟᱹ ᱫᱷᱟᱣ ᱱᱚᱶᱟ ᱛᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮᱺ
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = ᱥᱮᱸᱫᱽᱨᱟ ᱥᱟᱡᱟᱣ ᱠᱚ
 urlbar-searchmode-popup-search-settings = ᱥᱮᱸᱫᱽᱨᱟ ᱥᱟᱡᱟᱣ ᱠᱚ
 # Searchmode Switcher button
 # Variables:

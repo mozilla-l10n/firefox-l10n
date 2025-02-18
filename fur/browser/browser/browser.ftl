@@ -700,6 +700,8 @@ urlbar-searchmode-actions =
 urlbar-searchmode-exit-button =
     .tooltiptext = Siere
 urlbar-searchmode-popup-description = Cheste volte cîr cun:
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = Impostazions ricercje
 urlbar-searchmode-popup-search-settings = Impostazions ricercje
 # Searchmode Switcher button
 # Variables:

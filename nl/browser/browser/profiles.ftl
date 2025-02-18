@@ -27,8 +27,12 @@ original-profile-name = Oorspronkelijk profiel
 edit-profile-page-title = Profiel bewerken
 edit-profile-page-header = Uw profiel bewerken
 edit-profile-page-profile-name-label = Profielnaam
+edit-profile-page-theme-header-2 =
+    .label = Thema
 edit-profile-page-theme-header = Thema
 edit-profile-page-explore-themes = Meer thema’s verkennen
+edit-profile-page-avatar-header-2 =
+    .label = Avatar
 edit-profile-page-avatar-header = Avatar
 edit-profile-page-delete-button =
     .label = Verwijderen
@@ -109,3 +113,12 @@ shopping-avatar-alt =
     .alt = Winkelwagen
 star-avatar-alt =
     .alt = Ster
+
+## Labels for default avatar icons
+
+book-avatar = Boek
+briefcase-avatar = Werkmap
+flower-avatar = Bloem
+heart-avatar = Hart
+shopping-avatar = Winkelwagen
+star-avatar = Ster

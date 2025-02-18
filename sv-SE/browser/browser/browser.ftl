@@ -699,6 +699,8 @@ urlbar-searchmode-actions =
 urlbar-searchmode-exit-button =
     .tooltiptext = Stäng
 urlbar-searchmode-popup-description = Denna gång, sök med:
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = Sökinställningar
 urlbar-searchmode-popup-search-settings = Sökinställningar
 # Searchmode Switcher button
 # Variables:

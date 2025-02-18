@@ -27,8 +27,12 @@ original-profile-name = Profil asli
 edit-profile-page-title = Edit profil
 edit-profile-page-header = Edit profil Anda
 edit-profile-page-profile-name-label = Nama profil
+edit-profile-page-theme-header-2 =
+    .label = Tema
 edit-profile-page-theme-header = Tema
 edit-profile-page-explore-themes = Jelajahi lebih banyak tema
+edit-profile-page-avatar-header-2 =
+    .label = Avatar
 edit-profile-page-avatar-header = Avatar
 edit-profile-page-delete-button =
     .label = Hapus
@@ -94,4 +98,7 @@ profiles-dark-theme = Gelap
 profiles-system-theme = Sistem
 
 ## Alternative text for default profile icons
+
+
+## Labels for default avatar icons
 

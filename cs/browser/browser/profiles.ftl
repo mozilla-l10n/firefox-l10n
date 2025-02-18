@@ -35,8 +35,12 @@ original-profile-name = Výchozí profil
 edit-profile-page-title = Upravit profil
 edit-profile-page-header = Upravit profil
 edit-profile-page-profile-name-label = Název profilu
+edit-profile-page-theme-header-2 =
+    .label = Motiv vzhledu
 edit-profile-page-theme-header = Motiv vzhledu
 edit-profile-page-explore-themes = Prozkoumejte další motivy
+edit-profile-page-avatar-header-2 =
+    .label = Avatar
 edit-profile-page-avatar-header = Avatar
 edit-profile-page-delete-button =
     .label = Smazat
@@ -125,3 +129,12 @@ shopping-avatar-alt =
     .alt = Nákupní košík
 star-avatar-alt =
     .alt = Hvězdička
+
+## Labels for default avatar icons
+
+book-avatar = Kniha
+briefcase-avatar = Kufřík
+flower-avatar = Květina
+heart-avatar = Srdce
+shopping-avatar = Nákupní košík
+star-avatar = Hvězdička

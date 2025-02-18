@@ -27,8 +27,12 @@ original-profile-name = Orijinal profil
 edit-profile-page-title = Profili düzenle
 edit-profile-page-header = Profilinizi düzenleyin
 edit-profile-page-profile-name-label = Profil adı
+edit-profile-page-theme-header-2 =
+    .label = Tema
 edit-profile-page-theme-header = Tema
 edit-profile-page-explore-themes = Daha fazla tema keşfedin
+edit-profile-page-avatar-header-2 =
+    .label = Avatar
 edit-profile-page-avatar-header = Avatar
 edit-profile-page-delete-button =
     .label = Sil
@@ -109,3 +113,12 @@ shopping-avatar-alt =
     .alt = Alışveriş arabası
 star-avatar-alt =
     .alt = Yıldız
+
+## Labels for default avatar icons
+
+book-avatar = Kitap
+briefcase-avatar = Çanta
+flower-avatar = Çiçek
+heart-avatar = Kalp
+shopping-avatar = Alışveriş arabası
+star-avatar = Yıldız

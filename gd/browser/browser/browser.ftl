@@ -710,6 +710,8 @@ urlbar-searchmode-actions =
 urlbar-searchmode-exit-button =
     .tooltiptext = Dùin
 urlbar-searchmode-popup-description = Dèan lorg leis na leanas an turas seo:
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = Roghainnean luirg
 urlbar-searchmode-popup-search-settings = Roghainnean luirg
 # Searchmode Switcher button
 # Variables:

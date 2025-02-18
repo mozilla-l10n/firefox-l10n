@@ -27,8 +27,12 @@ original-profile-name = Perfil original
 edit-profile-page-title = Editar perfil
 edit-profile-page-header = Edita tu perfil
 edit-profile-page-profile-name-label = Nombre del perfil
+edit-profile-page-theme-header-2 =
+    .label = Tema
 edit-profile-page-theme-header = Tema
 edit-profile-page-explore-themes = Explorar más temas
+edit-profile-page-avatar-header-2 =
+    .label = Avatar
 edit-profile-page-avatar-header = Avatar
 edit-profile-page-delete-button =
     .label = Eliminar
@@ -109,3 +113,12 @@ shopping-avatar-alt =
     .alt = Carrito de compras
 star-avatar-alt =
     .alt = Estrella
+
+## Labels for default avatar icons
+
+book-avatar = Libro
+briefcase-avatar = Maletín
+flower-avatar = Flor
+heart-avatar = Corazón
+shopping-avatar = Carrito de compras
+star-avatar = Estrella

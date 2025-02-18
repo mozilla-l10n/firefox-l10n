@@ -699,6 +699,8 @@ urlbar-searchmode-actions =
 urlbar-searchmode-exit-button =
     .tooltiptext = დახურვა
 urlbar-searchmode-popup-description = ძიებისთვის ამჯერად გამოიყენეთ:
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = ძიების პარამეტრები
 urlbar-searchmode-popup-search-settings = ძიების პარამეტრები
 # Searchmode Switcher button
 # Variables:

@@ -27,8 +27,12 @@ original-profile-name = Profîl origjinâl
 edit-profile-page-title = Modifiche profîl
 edit-profile-page-header = Modifiche il to profîl
 edit-profile-page-profile-name-label = Non dal profîl
+edit-profile-page-theme-header-2 =
+    .label = Teme
 edit-profile-page-theme-header = Teme
 edit-profile-page-explore-themes = Eplore altris temis
+edit-profile-page-avatar-header-2 =
+    .label = Avatar
 edit-profile-page-avatar-header = Avatar
 edit-profile-page-delete-button =
     .label = Elimine
@@ -109,3 +113,12 @@ shopping-avatar-alt =
     .alt = Carel de spese
 star-avatar-alt =
     .alt = Stele
+
+## Labels for default avatar icons
+
+book-avatar = Libri
+briefcase-avatar = Valisute
+flower-avatar = Rose
+heart-avatar = Cûr
+shopping-avatar = Carel de spese
+star-avatar = Stele

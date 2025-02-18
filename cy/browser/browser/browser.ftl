@@ -718,6 +718,8 @@ urlbar-searchmode-actions =
 urlbar-searchmode-exit-button =
     .tooltiptext = Cau
 urlbar-searchmode-popup-description = Y tro hwn, chwilio gyda:
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = Gosodiadau chwilio
 urlbar-searchmode-popup-search-settings = Gosodiadau chwilio
 # Searchmode Switcher button
 # Variables:

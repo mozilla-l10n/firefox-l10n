@@ -695,6 +695,8 @@ urlbar-searchmode-actions =
 urlbar-searchmode-exit-button =
     .tooltiptext = Đóng
 urlbar-searchmode-popup-description = Lần này, tìm kiếm với:
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = Cài đặt tìm kiếm
 urlbar-searchmode-popup-search-settings = Cài đặt tìm kiếm
 # Searchmode Switcher button
 # Variables:

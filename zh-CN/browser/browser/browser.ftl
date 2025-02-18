@@ -695,6 +695,8 @@ urlbar-searchmode-actions =
 urlbar-searchmode-exit-button =
     .tooltiptext = 关闭
 urlbar-searchmode-popup-description = 本次搜索使用：
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = 搜索设置
 urlbar-searchmode-popup-search-settings = 搜索设置
 # Searchmode Switcher button
 # Variables:

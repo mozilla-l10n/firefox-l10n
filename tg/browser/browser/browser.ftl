@@ -699,6 +699,8 @@ urlbar-searchmode-actions =
 urlbar-searchmode-exit-button =
     .tooltiptext = Пӯшидан
 urlbar-searchmode-popup-description = Ин дафъа бо зерин ҷустуҷӯ кунед:
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = Танзимоти ҷустуҷӯ
 urlbar-searchmode-popup-search-settings = Танзимоти ҷустуҷӯ
 # Searchmode Switcher button
 # Variables:

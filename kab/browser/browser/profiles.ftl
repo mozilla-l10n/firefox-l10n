@@ -23,8 +23,12 @@ original-profile-name = Amaɣnu aɣbalu
 edit-profile-page-title = Ẓreg amaɣnu
 edit-profile-page-header = Ẓreg amaɣnu-k
 edit-profile-page-profile-name-label = Isem n umaɣnu
+edit-profile-page-theme-header-2 =
+    .label = Asentel
 edit-profile-page-theme-header = Asentel
 edit-profile-page-explore-themes = Snirem ugar n yisental
+edit-profile-page-avatar-header-2 =
+    .label = Avataṛ
 edit-profile-page-avatar-header = Avataṛ
 edit-profile-page-delete-button =
     .label = Kkes
@@ -67,4 +71,7 @@ profiles-dark-theme = Aberkan
 profiles-system-theme = Anagraw
 
 ## Alternative text for default profile icons
+
+
+## Labels for default avatar icons
 

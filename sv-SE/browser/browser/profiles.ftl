@@ -27,8 +27,12 @@ original-profile-name = Ursprunglig profil
 edit-profile-page-title = Redigera profil
 edit-profile-page-header = Redigera din profil
 edit-profile-page-profile-name-label = Profilnamn
+edit-profile-page-theme-header-2 =
+    .label = Tema
 edit-profile-page-theme-header = Tema
 edit-profile-page-explore-themes = Utforska fler teman
+edit-profile-page-avatar-header-2 =
+    .label = Avatar
 edit-profile-page-avatar-header = Avatar
 edit-profile-page-delete-button =
     .label = Ta bort
@@ -109,3 +113,12 @@ shopping-avatar-alt =
     .alt = Varukorg
 star-avatar-alt =
     .alt = Stjärna
+
+## Labels for default avatar icons
+
+book-avatar = Bok
+briefcase-avatar = Portfölj
+flower-avatar = Blomma
+heart-avatar = Hjärta
+shopping-avatar = Varukorg
+star-avatar = Stjärna

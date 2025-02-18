@@ -27,8 +27,12 @@ original-profile-name = Зыходны профіль
 edit-profile-page-title = Рэдагаваць профіль
 edit-profile-page-header = Рэдагаваць ваш профіль
 edit-profile-page-profile-name-label = Назва профілю
+edit-profile-page-theme-header-2 =
+    .label = Тэма
 edit-profile-page-theme-header = Тэма
 edit-profile-page-explore-themes = Знайсці іншыя тэмы
+edit-profile-page-avatar-header-2 =
+    .label = Аватар
 edit-profile-page-avatar-header = Аватар
 edit-profile-page-delete-button =
     .label = Выдаліць
@@ -109,3 +113,12 @@ shopping-avatar-alt =
     .alt = Кошык
 star-avatar-alt =
     .alt = Зорка
+
+## Labels for default avatar icons
+
+book-avatar = Кніга
+briefcase-avatar = Партфель
+flower-avatar = Кветка
+heart-avatar = Сэрца
+shopping-avatar = Кошык
+star-avatar = Зорка

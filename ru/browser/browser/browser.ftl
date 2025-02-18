@@ -704,6 +704,8 @@ urlbar-searchmode-actions =
 urlbar-searchmode-exit-button =
     .tooltiptext = Закрыть
 urlbar-searchmode-popup-description = В этот раз искать в:
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = Параметры поиска
 urlbar-searchmode-popup-search-settings = Параметры поиска
 # Searchmode Switcher button
 # Variables:

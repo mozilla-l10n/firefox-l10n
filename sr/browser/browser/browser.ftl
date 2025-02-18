@@ -646,6 +646,8 @@ urlbar-searchmode-actions =
 urlbar-searchmode-exit-button =
     .tooltiptext = Затвори
 urlbar-searchmode-popup-description = Овај пут претражи користећи:
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = Подешавање претраге
 urlbar-searchmode-popup-search-settings = Подешавање претраге
 # Searchmode Switcher button
 # Variables:

@@ -27,8 +27,12 @@ original-profile-name = Eredeti profil
 edit-profile-page-title = Profil szerkesztése
 edit-profile-page-header = Saját profil szerkesztése
 edit-profile-page-profile-name-label = Profil neve
+edit-profile-page-theme-header-2 =
+    .label = Téma
 edit-profile-page-theme-header = Téma
 edit-profile-page-explore-themes = További témák felfedezése
+edit-profile-page-avatar-header-2 =
+    .label = Profilkép
 edit-profile-page-avatar-header = Profilkép
 edit-profile-page-delete-button =
     .label = Törlés
@@ -109,3 +113,12 @@ shopping-avatar-alt =
     .alt = Bevásárlókosár
 star-avatar-alt =
     .alt = Csillag
+
+## Labels for default avatar icons
+
+book-avatar = Könyv
+briefcase-avatar = Aktatáska
+flower-avatar = Virág
+heart-avatar = Szív
+shopping-avatar = Bevásárlókosár
+star-avatar = Csillag

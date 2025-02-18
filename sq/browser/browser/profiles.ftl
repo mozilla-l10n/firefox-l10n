@@ -27,8 +27,12 @@ original-profile-name = Profili origjinal
 edit-profile-page-title = Përpunoni profil
 edit-profile-page-header = Përpunoni profilin tuaj
 edit-profile-page-profile-name-label = Emër profili
+edit-profile-page-theme-header-2 =
+    .label = Temë
 edit-profile-page-theme-header = Temë
 edit-profile-page-explore-themes = Eksploroni më tepër tema
+edit-profile-page-avatar-header-2 =
+    .label = Avatar
 edit-profile-page-avatar-header = Avatar
 edit-profile-page-delete-button =
     .label = Fshije
@@ -109,3 +113,12 @@ shopping-avatar-alt =
     .alt = Shportë blerjesh
 star-avatar-alt =
     .alt = Yll
+
+## Labels for default avatar icons
+
+book-avatar = Libër
+briefcase-avatar = Dosje
+flower-avatar = Lule
+heart-avatar = Zemër
+shopping-avatar = Shportë blerjesh
+star-avatar = Yll

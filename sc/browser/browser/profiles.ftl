@@ -26,8 +26,12 @@ original-profile-name = Profilu originale
 edit-profile-page-title = Modifica su profilu
 edit-profile-page-header = Modifica su profilu tuo
 edit-profile-page-profile-name-label = Nòmine de su profilu
+edit-profile-page-theme-header-2 =
+    .label = Tema
 edit-profile-page-theme-header = Tema
 edit-profile-page-explore-themes = Iscoberi àteros temas
+edit-profile-page-avatar-header-2 =
+    .label = Avatar
 edit-profile-page-avatar-header = Avatar
 edit-profile-page-delete-button =
     .label = Cantzella
@@ -105,3 +109,12 @@ shopping-avatar-alt =
     .alt = Carrellu de s’ispesa
 star-avatar-alt =
     .alt = Isteddu
+
+## Labels for default avatar icons
+
+book-avatar = Libru
+briefcase-avatar = Valìgia
+flower-avatar = Frore
+heart-avatar = Coro
+shopping-avatar = Carrellu de s’ispesa
+star-avatar = Isteddu

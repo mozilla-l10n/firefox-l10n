@@ -718,6 +718,8 @@ urlbar-searchmode-actions =
 urlbar-searchmode-exit-button =
     .tooltiptext = أغلق
 urlbar-searchmode-popup-description = ابحث هذه المرة ب:
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = إعدادات البحث
 urlbar-searchmode-popup-search-settings = إعدادات البحث
 # Searchmode Switcher button
 # Variables:

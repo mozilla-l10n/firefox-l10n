@@ -700,6 +700,8 @@ urlbar-searchmode-actions =
 urlbar-searchmode-exit-button =
     .tooltiptext = Sulje
 urlbar-searchmode-popup-description = Tällä kertaa käytä hakuun:
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = Hakuasetukset
 urlbar-searchmode-popup-search-settings = Hakuasetukset
 # Searchmode Switcher button
 # Variables:

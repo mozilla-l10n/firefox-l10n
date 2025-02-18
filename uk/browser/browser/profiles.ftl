@@ -27,8 +27,12 @@ original-profile-name = Оригінальний профіль
 edit-profile-page-title = Редагувати профіль
 edit-profile-page-header = Редагувати свій профіль
 edit-profile-page-profile-name-label = Назва профілю
+edit-profile-page-theme-header-2 =
+    .label = Тема
 edit-profile-page-theme-header = Тема
 edit-profile-page-explore-themes = Знайти інші теми
+edit-profile-page-avatar-header-2 =
+    .label = Аватар
 edit-profile-page-avatar-header = Аватар
 edit-profile-page-delete-button =
     .label = Видалити
@@ -94,4 +98,7 @@ profiles-dark-theme = Темна
 profiles-system-theme = Система
 
 ## Alternative text for default profile icons
+
+
+## Labels for default avatar icons
 

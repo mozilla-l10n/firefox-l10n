@@ -27,8 +27,12 @@ original-profile-name = פרופיל ראשוני
 edit-profile-page-title = עריכת פרופיל
 edit-profile-page-header = עריכת הפרופיל שלך
 edit-profile-page-profile-name-label = שם פרופיל
+edit-profile-page-theme-header-2 =
+    .label = ערכת נושא
 edit-profile-page-theme-header = ערכת נושא
 edit-profile-page-explore-themes = עיון בערכות נושא נוספות
+edit-profile-page-avatar-header-2 =
+    .label = דמות מייצגת
 edit-profile-page-avatar-header = דמות מייצגת
 edit-profile-page-delete-button =
     .label = מחיקה
@@ -109,3 +113,12 @@ shopping-avatar-alt =
     .alt = עגלת קניות
 star-avatar-alt =
     .alt = כוכב
+
+## Labels for default avatar icons
+
+book-avatar = ספר
+briefcase-avatar = מזוודה
+flower-avatar = פרח
+heart-avatar = לב
+shopping-avatar = עגלת קניות
+star-avatar = כוכב
