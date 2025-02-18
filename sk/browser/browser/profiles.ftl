@@ -27,8 +27,12 @@ original-profile-name = Pôvodný profil
 edit-profile-page-title = Úprava profilu
 edit-profile-page-header = Upravte svoj profil
 edit-profile-page-profile-name-label = Názov profilu
+edit-profile-page-theme-header-2 =
+    .label = Téma vzhľadu
 edit-profile-page-theme-header = Téma vzhľadu
 edit-profile-page-explore-themes = Preskúmajte ďalšie témy
+edit-profile-page-avatar-header-2 =
+    .label = Avatar
 edit-profile-page-avatar-header = Avatar
 edit-profile-page-delete-button =
     .label = Odstrániť
@@ -109,3 +113,6 @@ shopping-avatar-alt =
     .alt = Nákupný košík
 star-avatar-alt =
     .alt = Hviezdička
+
+## Labels for default avatar icons
+
