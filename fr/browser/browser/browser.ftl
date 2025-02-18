@@ -702,6 +702,8 @@ urlbar-searchmode-actions =
 urlbar-searchmode-exit-button =
     .tooltiptext = Fermer
 urlbar-searchmode-popup-description = Pour cette fois-ci, rechercher avec :
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = Paramètres de recherche
 urlbar-searchmode-popup-search-settings = Paramètres de recherche
 # Searchmode Switcher button
 # Variables:
