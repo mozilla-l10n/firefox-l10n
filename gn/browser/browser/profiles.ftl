@@ -114,3 +114,9 @@ star-avatar-alt =
 
 ## Labels for default avatar icons
 
+book-avatar = Aranduka
+briefcase-avatar = Kuatiaryru
+flower-avatar = Yvoty
+heart-avatar = Korasõ
+shopping-avatar = Mba’yruguata’i jejoguaha
+star-avatar = Mbyja
