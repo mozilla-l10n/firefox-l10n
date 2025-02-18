@@ -702,6 +702,8 @@ urlbar-searchmode-actions =
 urlbar-searchmode-exit-button =
     .tooltiptext = Bezárás
 urlbar-searchmode-popup-description = Ezúttal keressen a következővel:
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = Keresési beállítások
 urlbar-searchmode-popup-search-settings = Keresési beállítások
 # Searchmode Switcher button
 # Variables:
