@@ -23,8 +23,12 @@ original-profile-name = ഉണ്മയായ രൂപരേഖ
 edit-profile-page-title = രൂപരേഖ തിരുത്തുക
 edit-profile-page-header = താങ്ങളുടെ രൂപരേഖ തിരുത്തുക
 edit-profile-page-profile-name-label = രൂപരേഖപ്പേരു്
+edit-profile-page-theme-header-2 =
+    .label = അലങ്കാരം
 edit-profile-page-theme-header = അലങ്കാരം
 edit-profile-page-explore-themes = കൂടുതൽ അലങ്കാരങ്ങൾ ആരായുക
+edit-profile-page-avatar-header-2 =
+    .label = അവത്താരം
 edit-profile-page-avatar-header = അവത്താരം
 edit-profile-page-delete-button =
     .label = മായ്ക്കുക
@@ -87,4 +91,7 @@ profiles-dark-theme = ഇരുണ്ടതു്
 profiles-system-theme = വ്യവസ്ഥാനുസാരം
 
 ## Alternative text for default profile icons
+
+
+## Labels for default avatar icons
 
