@@ -112,7 +112,7 @@ cfr-doorhanger-doh-secondary-button = Անջատել
 
 cfr-doorhanger-video-support-body = { -brand-short-name }-ի այս տարբերակում տեսանյութերը կարող են ճիշտ չնվագարկվել: Տեսանյութի լրիվ աջակցման համար թարմացրեք { -brand-short-name }-ը հիմա:
 cfr-doorhanger-video-support-header = Թարմացրեք { -brand-short-name }-ը՝ տեսանյութը նվագարկելու համար
-cfr-doorhanger-video-support-primary-button = Թարմացնել Հիմա
+cfr-doorhanger-video-support-primary-button = Արդիացնել
     .accesskey = U
 
 ## VPN promotion dialog for public Wi-Fi users
@@ -244,9 +244,10 @@ tail-fox-spotlight-secondary-button = Ոչ հիմա
 
 ## Root Certificate Succession Infobar
 
+root-certificate-succession-infobar-march-message = <strong>Մինչև 2025 թ. մարտի 14-ն արդիացրեք { -brand-short-name }-ը, որպեսզի կարողանաք այն օգտագործել:</strong>
 root-certificate-succession-infobar-link = Ինչո՞ւ է պետք արդիացնել:
 root-certificate-succession-infobar-primary-button =
-    .label = Արդիացնել հիմա
+    .label = Արդիացնել
     .accesskey = U
 root-certificate-succession-infobar-secondary-button =
     .label = Ավելի ուշ

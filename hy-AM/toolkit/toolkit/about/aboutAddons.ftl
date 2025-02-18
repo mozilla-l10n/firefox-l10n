@@ -331,7 +331,7 @@ install-postponed-message = Այս ընդլայնումը կթարմացվի, ե
 # Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = Այս ընդլայնումը կթարմացվի, երբ { -brand-short-name }-ը վերամեկնարկի:
-install-postponed-button = Թարմացնել հիմա
+install-postponed-button = Արդիացնել
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
