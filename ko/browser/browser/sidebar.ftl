@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI 챗봇
 menu-view-review-checker =
     .label = 리뷰 검사기
+menu-view-contextual-password-manager =
+    .label = 비밀번호
 sidebar-options-menu-button =
     .title = 메뉴 열기
 
@@ -115,6 +117,8 @@ sidebar-menu-customize-label =
     .label = 사이드바 사용자 지정
 sidebar-menu-review-checker-label =
     .label = 리뷰 검사기
+sidebar-menu-contextual-password-manager-label =
+    .label = 비밀번호
 
 ## Tooltips for sidebar menu items.
 
@@ -157,6 +161,8 @@ sidebar-menu-syncedtabs-header =
     .heading = 다른 기기의 탭
 sidebar-menu-bookmarks-header =
     .heading = 북마크
+sidebar-menu-cpm-header =
+    .heading = 비밀번호
 sidebar-panel-header-close-button =
     .tooltiptext = 닫기
 

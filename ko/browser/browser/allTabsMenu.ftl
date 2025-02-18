@@ -19,3 +19,7 @@ all-tabs-menu-close-all-duplicate-tabs =
 all-tabs-menu-synced-tabs =
     .label = 다른 기기의 탭
 all-tabs-menu-current-window-header = 현재 창
+# "Show all" is for showing all open groups as well as saved groups. Initially,
+# we only show up to five of these groups.
+all-tabs-menu-tab-groups-show-all =
+    .label = 모두 보기

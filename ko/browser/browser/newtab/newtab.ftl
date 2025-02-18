@@ -315,6 +315,7 @@ newtab-custom-settings = 추가 설정
 
 newtab-wallpaper-title = 배경 화면
 newtab-wallpaper-reset = 기본값으로 재설정
+newtab-wallpaper-upload-image = 이미지 업로드
 newtab-wallpaper-light-red-panda = 레서판다
 newtab-wallpaper-light-mountain = 하얀 산
 newtab-wallpaper-light-sky = 보라색과 분홍색 구름이 있는 하늘
