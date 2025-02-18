@@ -696,6 +696,8 @@ urlbar-searchmode-actions =
 urlbar-searchmode-exit-button =
     .tooltiptext = بند کرو
 urlbar-searchmode-popup-description = ایں واری، دے نال ڳولو:
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = ڳولݨ ترتیباں
 urlbar-searchmode-popup-search-settings = ڳولݨ ترتیباں
 
 ## Action text shown in urlbar results, usually appended after the search
