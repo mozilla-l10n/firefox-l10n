@@ -8,6 +8,8 @@
 
 ## Certificate information labels
 
+certificate-viewer-email-address = ഇതപാൽ വിലാസം
+certificate-viewer-ip-address = ഐ.പി വിലാസം
 # This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
 # Variables:
 #   $boolean (String) - true/false value for the specific field
