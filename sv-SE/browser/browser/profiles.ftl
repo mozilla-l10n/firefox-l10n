@@ -116,3 +116,9 @@ star-avatar-alt =
 
 ## Labels for default avatar icons
 
+book-avatar = Bok
+briefcase-avatar = Portfölj
+flower-avatar = Blomma
+heart-avatar = Hjärta
+shopping-avatar = Varukorg
+star-avatar = Stjärna
