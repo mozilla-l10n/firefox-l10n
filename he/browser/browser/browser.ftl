@@ -699,6 +699,8 @@ urlbar-searchmode-actions =
 urlbar-searchmode-exit-button =
     .tooltiptext = סגירה
 urlbar-searchmode-popup-description = הפעם לחפש באמצעות:
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = הגדרות חיפוש
 urlbar-searchmode-popup-search-settings = הגדרות חיפוש
 # Searchmode Switcher button
 # Variables:
