@@ -116,3 +116,9 @@ star-avatar-alt =
 
 ## Labels for default avatar icons
 
+book-avatar = Libro
+briefcase-avatar = Valise
+flower-avatar = Flor
+heart-avatar = Corde
+shopping-avatar = Carretta de compras
+star-avatar = Stella
