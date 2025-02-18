@@ -27,8 +27,12 @@ original-profile-name = Αρχικό προφίλ
 edit-profile-page-title = Επεξεργασία προφίλ
 edit-profile-page-header = Επεξεργαστείτε το προφίλ σας
 edit-profile-page-profile-name-label = Όνομα προφίλ
+edit-profile-page-theme-header-2 =
+    .label = Θέμα
 edit-profile-page-theme-header = Θέμα
 edit-profile-page-explore-themes = Εξερευνήστε περισσότερα θέματα
+edit-profile-page-avatar-header-2 =
+    .label = Εικόνα χρήστη
 edit-profile-page-avatar-header = Εικόνα χρήστη
 edit-profile-page-delete-button =
     .label = Διαγραφή
@@ -109,3 +113,6 @@ shopping-avatar-alt =
     .alt = Καλάθι αγορών
 star-avatar-alt =
     .alt = Αστέρι
+
+## Labels for default avatar icons
+
