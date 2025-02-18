@@ -29,6 +29,8 @@ edit-profile-page-header = Rediger din profil
 edit-profile-page-profile-name-label = Profilnavn
 edit-profile-page-theme-header = Tema
 edit-profile-page-explore-themes = Udforsk flere temaer
+edit-profile-page-avatar-header-2 =
+    .label = Avatar
 edit-profile-page-avatar-header = Avatar
 edit-profile-page-delete-button =
     .label = Slet
@@ -94,4 +96,7 @@ profiles-dark-theme = Mørkt
 profiles-system-theme = System
 
 ## Alternative text for default profile icons
+
+
+## Labels for default avatar icons
 
