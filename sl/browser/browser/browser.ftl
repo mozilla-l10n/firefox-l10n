@@ -710,6 +710,8 @@ urlbar-searchmode-actions =
 urlbar-searchmode-exit-button =
     .tooltiptext = Zapri
 urlbar-searchmode-popup-description = Tokrat išči z iskalnikom:
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = Nastavitve iskanja
 urlbar-searchmode-popup-search-settings = Nastavitve iskanja
 # Searchmode Switcher button
 # Variables:
