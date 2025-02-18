@@ -116,3 +116,9 @@ star-avatar-alt =
 
 ## Labels for default avatar icons
 
+book-avatar = Boek
+briefcase-avatar = Wurkmap
+flower-avatar = Blom
+heart-avatar = Hert
+shopping-avatar = Winkelwein
+star-avatar = Stjer
