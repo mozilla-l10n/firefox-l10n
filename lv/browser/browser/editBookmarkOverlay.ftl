@@ -45,5 +45,5 @@ bookmark-overlay-tags-expander-hide =
 bookmark-overlay-keyword-2 =
     .value = Atslēgvārds
     .accesskey = A
-bookmark-overlay-tags-caption-label = Izmantojiet tagus, lai organizētu un meklētu grāmatzīmes adrešu joslā
+bookmark-overlay-tags-caption-label = Izmantojiet birkas, lai kārtotu un meklētu grāmatzīmes adrešu joslā
 bookmark-overlay-keyword-caption-label-2 = Izmantojiet vienu atslēgvārdu, lai atvērtu grāmatzīmes no adrešu joslas
