@@ -59,12 +59,15 @@ tabbrowser-confirm-close-tabs-button = റ്റാബുകള്‍ അടയ�
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-button = തുറന്നിരിപ്പുണ്ട ടാബുകള്‍
 
 ## Confirmation dialog for enabling caret browsing
 
+tabbrowser-confirm-caretbrowsing-title = കാരറ്റ് തിരച്ചിൽ
 
 ## Confirmation dialog for closing all duplicate tabs
 
+tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = ടാബുകളെ അടയ്ക്കുക
 
 ##
 
@@ -93,11 +96,25 @@ tabbrowser-ctrl-tab-list-all-tabs =
 
 tabbrowser-manager-close-tab =
     .tooltiptext = ടാബു് അടയ്ക്കുക
+# This is for tab groups that have been "saved and closed" (see tab-group-editor-action-save). It does
+# not include "deleted" tab groups (see tab-group-editor-action-delete).
+tabbrowser-manager-closed-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — അടച്ചു
+tabbrowser-manager-current-window-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — നിലവിലുള്ള ജാലകം
+# "Show more" is for showing all open groups from other windows, as well as saved groups. Initially,
+# we only show up to six of these groups.
+tabbrowser-manager-tab-groups-show-more =
+    .label = കൂടുതൽ കാണിക്കുക
 
 ## Tab Groups
 
 tab-group-editor-title-create = ടാബുക്കൂട്ടം ഉണ്ടാക്കുക
 tab-group-editor-name-label = പേരു്
+tab-group-editor-name-field =
+    .placeholder = ഉദാഹരണം: വാങ്ങൽ
 tab-group-editor-cancel =
     .label = റദ്ദാക്കുക
     .accesskey = റ
@@ -121,6 +138,10 @@ tab-group-editor-color-selector2-gray = ചാരം
     .title = ചാരം
 tab-group-editor-color-selector2-red = ചുവപ്പ്
     .title = ചുവപ്പ്
+# Variables:
+#  $tabGroupName (String): The name of the tab group. Defaults to the value
+#                          of tab-group-name-default.
+tab-group-description = { $tabGroupName } — ടാബുക്കൂട്ടം
 tab-group-menu-header = ടാബുകൂട്ടങ്ങൾ
 tab-context-unnamed-group =
     .label = പേരില്ലാത്ത കൂട്ടം
@@ -129,6 +150,28 @@ tab-group-name-default = പേരില്ലാത്ത കൂട്ടം
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] പുതിയ ടാബുക്കൂട്ടത്തിലോട്ടു് ടാബിനെ ചേൎക്കുക
+            [one] പുതിയ ടാബുക്കൂട്ടത്തിലോട്ടു് ടാബിനെ ചേൎക്കുക
+           *[other] പുതിയ ടാബുക്കൂട്ടത്തിലോട്ടു് ടാബിനെ ചേൎക്കുക
+        }
+    .accesskey = ക
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] ടാബുക്കൂട്ടത്തിലേക്കു് ടാബിനെ ചേൎക്കുക
+            [one] ടാബുക്കൂട്ടത്തിലേക്കു് ടാബിനെ ചേൎക്കുക
+           *[other] ടാബുക്കൂട്ടത്തിലേക്കു് ടാബിനെ ചേൎക്കുക
+        }
+    .accesskey = ക
+tab-group-editor-action-new-tab =
+    .label = കൂട്ടത്തിൽ പുതിയ ടാബു്
+tab-group-editor-action-new-window =
+    .label = പുതിയ ജാലകത്തിലോട്ടു് കൂട്ടത്തിനെ നീക്കിവയ്ക്കുക
+tab-group-editor-action-save =
+    .label = ടാബുക്കൂട്ടം കരുതിവച്ചിട്ടു് അടയ്ക്കുക
 tab-group-editor-action-ungroup =
     .label = കൂട്ടിലാക്കാത്ത ടാബുകൾ
 tab-group-editor-action-delete =
