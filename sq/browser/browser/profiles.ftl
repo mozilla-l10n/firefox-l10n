@@ -116,3 +116,9 @@ star-avatar-alt =
 
 ## Labels for default avatar icons
 
+book-avatar = Libër
+briefcase-avatar = Dosje
+flower-avatar = Lule
+heart-avatar = Zemër
+shopping-avatar = Shportë blerjesh
+star-avatar = Yll
