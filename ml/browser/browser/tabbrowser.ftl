@@ -64,9 +64,14 @@ tabbrowser-confirm-open-multiple-tabs-button = തുറന്നിരിപ്
 ## Confirmation dialog for enabling caret browsing
 
 tabbrowser-confirm-caretbrowsing-title = കാരറ്റ് തിരച്ചിൽ
+tabbrowser-confirm-caretbrowsing-message = F7 അമൎത്തുന്നതു് കാരറ്റ് തിരയൽ തുടങ്ങിവയ്ക്കും അല്ലെങ്കിൽ അണയ്ക്കും. ഇങ്ങനെ വെബുതാളുകളില്‍ ചൂണ്ടുവര സ്ഥാപിക്കപ്പെടുന്നു. ഇങ്ങനെ താങ്ങൾക്കു് കട്ടപ്പലകം ഉപയോഗിച്ചു് വാചകങ്ങള്‍ തിരഞ്ഞെടുക്കുവാന്‍ പറ്റും. താങ്ങൾക്കു് കാരറ്റ് തിരയൽ തുടങ്ങണോ?
+tabbrowser-confirm-caretbrowsing-checkbox = ഇനിയും ഈ സന്ദേശപ്പെട്ടി ഒരിക്കലും കാണിക്കരുതു്.
 
 ## Confirmation dialog for closing all duplicate tabs
 
+tabbrowser-confirm-close-duplicate-tabs-title = മുന്നറിയിപ്പു്
+tabbrowser-confirm-close-duplicate-tabs-text = ഒടുവിലത്തെ സജീവ ടാബു് ഞങ്ങൾ തുറന്നവച്ചേക്കും.
+tabbrowser-confirm-close-all-duplicate-tabs-title = ഇരട്ടിയായ ടാബുകൾ അടയ്ക്കട്ടെ?
 tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = ടാബുകളെ അടയ്ക്കുക
 
 ##
