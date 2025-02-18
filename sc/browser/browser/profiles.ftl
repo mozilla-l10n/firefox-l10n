@@ -112,3 +112,9 @@ star-avatar-alt =
 
 ## Labels for default avatar icons
 
+book-avatar = Libru
+briefcase-avatar = Valìgia
+flower-avatar = Frore
+heart-avatar = Coro
+shopping-avatar = Carrellu de s’ispesa
+star-avatar = Isteddu
