@@ -1317,6 +1317,7 @@ permissions-addon-exceptions =
 collection-header = Συλλογή και χρήση δεδομένων { -brand-short-name }
 collection-header2 = Συλλογή και χρήση δεδομένων { -brand-short-name }
     .searchkeywords = τηλεμετρία
+preferences-collection-description = Προσπαθούμε να σας παρέχουμε επιλογές και να συλλέγουμε μόνο τα ελάχιστα δεδομένα που απαιτούνται για τη βελτίωση του { -brand-product-name } για όλους.
 preferences-collection-privacy-notice = Προβολή σημείωσης απορρήτου
 collection-description = Αγωνιζόμαστε για να σας παρέχουμε επιλογές και συλλέγουμε μόνο αυτά που χρειαζόμαστε, ώστε να παρέχουμε και να βελτιώσουμε το { -brand-short-name } για όλους. Ζητούμε πάντα την άδεια πριν λάβουμε προσωπικές πληροφορίες.
 collection-privacy-notice = Σημείωση απορρήτου
@@ -1417,6 +1418,7 @@ space-alert-under-5gb-message2 = <strong>Το { -brand-short-name } δεν δι�
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Λειτουργία «Μόνο HTTPS»
+httpsonly-description3 = Επιτρέπει μόνο τις ασφαλείς συνδέσεις με ιστοτόπους. Το { -brand-short-name } θα σας ρωτήσει πριν πραγματοποιήσει μη ασφαλή σύνδεση.
 httpsonly-learn-more2 = Πώς λειτουργεί η δυνατότητα «Μόνο HTTPS»
 httpsonly-description = Το HTTPS παρέχει μια ασφαλή, κρυπτογραφημένη σύνδεση μεταξύ του { -brand-short-name } και των ιστοτόπων που επισκέπτεστε. Οι περισσότεροι ιστότοποι υποστηρίζουν το HTTPS και αν είναι ενεργή η λειτουργία «Μόνο HTTPS», τότε το { -brand-short-name } θα αναβαθμίζει όλες τις συνδέσεις σε HTTPS.
 httpsonly-description2 = Το { -brand-short-name } δημιουργεί ασφαλείς και κρυπτογραφημένες συνδέσεις με τους ιστοτόπους που επισκέπτεστε. Το { -brand-short-name } θα σας προειδοποιήσει εάν μια σύνδεση δεν είναι ασφαλής όταν είναι ενεργή η λειτουργία «Μόνο HTTPS».

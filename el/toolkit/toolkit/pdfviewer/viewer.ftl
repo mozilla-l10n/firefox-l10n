@@ -519,6 +519,7 @@ pdfjs-editor-undo-bar-close-button-label = Κλείσιμο
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-label = Αυτό το παράθυρο διαλόγου επιτρέπει στον χρήστη να δημιουργήσει μια υπογραφή για να την προσθέσει σε ένα έγγραφο PDF. Ο χρήστης μπορεί να επεξεργαστεί το όνομα (το οποίο χρησιμεύει και ως εναλλακτικό κείμενο) και, προαιρετικά, να αποθηκεύσει την υπογραφή για επαναλαμβανόμενη χρήση.
 pdfjs-editor-add-signature-dialog-title = Προσθήκη υπογραφής
 
 ## Tab names
@@ -560,6 +561,7 @@ pdfjs-editor-add-signature-clear-button-label = Απαλοιφή υπογραφ�
 pdfjs-editor-add-signature-clear-button =
     .title = Απαλοιφή υπογραφής
 pdfjs-editor-add-signature-save-checkbox = Αποθήκευση υπογραφής
+pdfjs-editor-add-signature-save-warning-message = Έχετε φτάσει το όριο των 5 αποθηκευμένων υπογραφών. Αφαιρέστε μία για να αποθηκεύσετε περισσότερες.
 pdfjs-editor-add-signature-image-upload-error-title = Δεν ήταν δυνατή η μεταφόρτωση της εικόνας
 pdfjs-editor-add-signature-image-upload-error-description = Ελέγξτε τη σύνδεση δικτύου σας ή δοκιμάστε μια άλλη εικόνα.
 pdfjs-editor-add-signature-error-close-button = Κλείσιμο
