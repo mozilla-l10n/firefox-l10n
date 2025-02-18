@@ -699,6 +699,8 @@ urlbar-searchmode-actions =
 urlbar-searchmode-exit-button =
     .tooltiptext = Serrar
 urlbar-searchmode-popup-description = Per questa giada, tschertgar cun:
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = Parameters da tschertga
 urlbar-searchmode-popup-search-settings = Parameters da tschertga
 # Searchmode Switcher button
 # Variables:
