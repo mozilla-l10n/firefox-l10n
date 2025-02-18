@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+edit-profile-page-theme-header-2 =
+    .label = అలంకారం
 edit-profile-page-theme-header = అలంకారం
 edit-profile-page-delete-button =
     .label = తొలగించు
@@ -21,4 +23,7 @@ delete-profile-confirm = తొలగించు
 
 
 ## Alternative text for default profile icons
+
+
+## Labels for default avatar icons
 
