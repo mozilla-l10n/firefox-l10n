@@ -27,8 +27,12 @@ original-profile-name = โปรไฟล์ดั้งเดิม
 edit-profile-page-title = แก้ไขโปรไฟล์
 edit-profile-page-header = แก้ไขโปรไฟล์ของคุณ
 edit-profile-page-profile-name-label = ชื่อโปรไฟล์
+edit-profile-page-theme-header-2 =
+    .label = ชุดตกแต่ง
 edit-profile-page-theme-header = ชุดตกแต่ง
 edit-profile-page-explore-themes = สำรวจชุดตกแต่งเพิ่มเติม
+edit-profile-page-avatar-header-2 =
+    .label = อวตาร
 edit-profile-page-avatar-header = อวตาร
 edit-profile-page-delete-button =
     .label = ลบ
@@ -109,3 +113,6 @@ shopping-avatar-alt =
     .alt = รถเข็นซื้อของ
 star-avatar-alt =
     .alt = ดาว
+
+## Labels for default avatar icons
+
