@@ -27,6 +27,8 @@ original-profile-name = 原始設定檔
 edit-profile-page-title = 編輯設定檔
 edit-profile-page-header = 編輯您的設定檔
 edit-profile-page-profile-name-label = 設定檔名稱
+edit-profile-page-theme-header-2 =
+    .label = 佈景主題
 edit-profile-page-theme-header = 佈景主題
 edit-profile-page-explore-themes = 探索更多佈景主題
 edit-profile-page-avatar-header = 圖示
@@ -109,3 +111,6 @@ shopping-avatar-alt =
     .alt = 購物車
 star-avatar-alt =
     .alt = 星星
+
+## Labels for default avatar icons
+
