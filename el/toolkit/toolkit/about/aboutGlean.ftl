@@ -108,6 +108,14 @@ about-glean-adhoc-note =
     Σημειώστε ότι χρησιμοποιείτε το API του Glean JS μέσω της κονσόλας εργαλείων ανάπτυξης.
     Αυτό σημαίνει ότι οι κατηγορίες και τα ονόματα των μετρήσεων μορφοποιούνται σε
     <code>camelCase</code>, σε αντίθεση με τα API των Rust και C++.
+about-glean-profiler-explanation =
+    Για μια πλήρη προβολή όλων των καταγεγραμμένων μετρήσεων, μπορείτε να χρησιμοποιήσετε το { -profiler-brand-name }.
+    Θα πρέπει πρώτα να <a data-l10n-name="firefox-profiler-link">καταγράψετε ένα προφίλ επιδόσεων</a>.
+    Μόλις καταγράψετε το προφίλ, επιλέξτε <q>Διάγραμμα δεικτών</q> και δείτε τους δείκτες για την <q>Τηλεμετρία</q>.
+about-glean-profiler-explanation-profiler =
+    Στο προφίλ επιδόσεων, μπορείτε να δείτε όλες τις μετρήσεις που συλλέχθησαν, πότε συλλέχθησαν
+    και ακριβώς ποιες τιμές συλλέχθησαν. Περνώντας τον κέρσορα πάνω από μεμονωμένους δείκτες,
+    μπορείτε να επαληθεύσετε ότι συλλέχθηκε η σωστή τιμή και ότι η συλλογή έγινε τη σωστή στιγμή.
 controls-button-label-verbose = Εφαρμογή ρυθμίσεων και υποβολή ping
 about-glean-feedback-settings-only =
     .message = Οι ρυθμίσεις εφαρμόστηκαν!
@@ -126,6 +134,10 @@ about-glean-about-data-list-item-dictionary =
 about-glean-about-data-list-item-about-telemetry =
     Για να περιηγηθείτε στα δεδομένα που συλλέγονται από την τηλεμετρία παλαιού τύπου, συμβουλευτείτε
     το <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
+about-glean-about-data-list-item-debug-ping-viewer =
+    Για να περιηγηθείτε στις ετικέτες ελέγχου σφαλμάτων, να δείτε πλήρη ping, να δείτε μια ζωντανή ροή γεγονότων
+    ή να προβάλετε οπτικοποιήσεις των μετρήσεων, συμβουλευτείτε το
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
 about-glean-about-data-list-item-firefox-profiler = Για να καταγράψετε ένα προφίλ επιδόσεων και να δείτε όλες τις καταγεγραμμένες μετρήσεις, χρησιμοποιήστε το <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
 about-glean-about-data-explanation =
     Για να περιηγηθείτε στη λίστα των συλλεγμένων δεδομένων, συμβουλευτείτε το
