@@ -780,6 +780,10 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-all-cookies = എല്ലാ കുക്കികളും
 content-blocking-cryptominers = ക്രിപ്റ്റോമൈനേഴ്സ്
 content-blocking-fingerprinters = വിരലടയാളങ്ങൾ
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
+# the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-known-and-suspected-fingerprinters = അറിയപ്പെടുന്നതും സംശയിക്കപ്പെടുന്നതുമായ വിരലടയാളപ്പിന്തുടൎച്ചയന്ത്രം
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
@@ -788,6 +792,23 @@ content-blocking-cookies-label =
     .accesskey = C
 content-blocking-expand-section =
     .tooltiptext = കൂടുതല്‍ വിവരങ്ങള്‍
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = വിരലടയാളപ്പിന്തുടൎച്ചയന്ത്രം
+    .accesskey = വ
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+#
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices.
+content-blocking-known-fingerprinters-label =
+    .label = അറിയപ്പെട്ട വിരലടയാളപ്പിന്തുടൎച്ചയന്ത്രം
+    .accesskey = അ
+# The suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-suspected-fingerprinters-label =
+    .label = സംശയിക്കപ്പെട്ട വിരലടയാളപ്പിന്തുടൎച്ചയന്ത്രങ്ങൾ
+    .accesskey = വ
 
 ## Privacy Section - Tracking
 

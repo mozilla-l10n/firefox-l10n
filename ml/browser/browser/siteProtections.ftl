@@ -29,6 +29,8 @@ tracking-protection-icon-no-trackers-detected-container =
 
 ## Blocking and Not Blocking sub-views in the Protections Panel
 
+protections-blocking-fingerprinters =
+    .title = വിരലടയാളപ്പിന്തുടൎച്ചയന്ത്രങ്ങളെ തടഞ്ഞു
 
 ## Footer and Milestones sections in the Protections Panel
 ## Variables:

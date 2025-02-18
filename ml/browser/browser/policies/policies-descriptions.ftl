@@ -62,3 +62,4 @@ policy-Proxy = പ്രോക്സി ക്രമീകരണങ്ങൾ ക
 policy-SanitizeOnShutdown2 = ഷട്ട്  ഡൌൺ ചെയ്യുമ്പോള്‍ നാവിഗേഷൻ ഡാറ്റ മായ്‌ക്കുക.
 policy-SearchSuggestEnabled = തിരയൽ നിർദ്ദേശങ്ങൾ പ്രാപ്തമാക്കുക അല്ലെങ്കിൽ അപ്രാപ്തമാക്കുക.
 policy-SSLVersionMax = പരമാവധി SSL പതിപ്പ് സജ്ജമാക്കുക.
+policy-UseSystemPrintDialog = വ്യവസ്ഥാപ്പെട്ടികൊണ്ടു് അച്ചടിക്കുക…

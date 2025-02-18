@@ -891,8 +891,8 @@ navbar-overflow =
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
-    .label = പ്രിന്റ് ചെയ്യുക
-    .tooltiptext = ഈ താള്‍ പ്രിന്റ് ചെയ്യുക… ({ $shortcut })
+    .label = അച്ചടിപ്പിക്കുക
+    .tooltiptext = ഈ താളിന്റെ അച്ചടിപ്പു് എടുക്കുക
 navbar-home =
     .label = ആമുഖം
     .tooltiptext = { -brand-short-name } ആമുഖതാൾ
