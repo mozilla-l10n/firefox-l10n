@@ -27,8 +27,12 @@ original-profile-name = Originala profilo
 edit-profile-page-title = Modifi profilon
 edit-profile-page-header = Modifi vian profilon
 edit-profile-page-profile-name-label = Nomo de profilo
+edit-profile-page-theme-header-2 =
+    .label = Etoso
 edit-profile-page-theme-header = Etoso
 edit-profile-page-explore-themes = Malkovri aliajn etosojn
+edit-profile-page-avatar-header-2 =
+    .label = Avataro
 edit-profile-page-avatar-header = Avataro
 edit-profile-page-delete-button =
     .label = Forigi
@@ -109,3 +113,6 @@ shopping-avatar-alt =
     .alt = Aĉetĉareto
 star-avatar-alt =
     .alt = Stelo
+
+## Labels for default avatar icons
+
