@@ -27,8 +27,12 @@ original-profile-name = نمایه اصلی
 edit-profile-page-title = ویرایش نمایه
 edit-profile-page-header = ویرایش نمایه خود
 edit-profile-page-profile-name-label = نام نمایه
+edit-profile-page-theme-header-2 =
+    .label = پوسته
 edit-profile-page-theme-header = پوسته
 edit-profile-page-explore-themes = جستجوی پوسته‌های بیشتر
+edit-profile-page-avatar-header-2 =
+    .label = چهرک
 edit-profile-page-avatar-header = چهرک
 edit-profile-page-delete-button =
     .label = حذف
@@ -94,4 +98,7 @@ profiles-dark-theme = تیره
 profiles-system-theme = سیستم
 
 ## Alternative text for default profile icons
+
+
+## Labels for default avatar icons
 
