@@ -482,3 +482,9 @@ newtab-section-cancel-button = Agora não
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Tópicos
+newtab-section-mangage-topics-button =
+    .label = Tópicos seguidos e bloqueados
+newtab-section-mangage-topics-followed-topics-subtitle = Tópicos seguidos
+newtab-section-mangage-topics-followed-topics-empty-state = Ainda não seguiu quaisquer tópicos.
+newtab-section-mangage-topics-blocked-topics-subtitle = Tópicos bloqueados
+newtab-section-mangage-topics-blocked-topics-empty-state = Ainda não bloqueou quaisquer tópicos.

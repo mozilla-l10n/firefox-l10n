@@ -12,7 +12,7 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = Vienmēr
 global-privacy-control-description =
-    .label = Pateikt vietnēm, lai tās nepārdod un nedalās ar maniem datiem
+    .label = Teikt vietnēm, lai tās nepārdod un nedalās ar maniem datiem
     .accesskey = s
 non-technical-privacy-header = Vietņu privātuma preferences
 # Do not translate.
@@ -116,7 +116,7 @@ extension-controlled-enable = Lai aktivētu paplašinājumu, ejiet uz <img data-
 search-results-header = Meklēšanas rezultāti
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message2 = Atvainojiet! Iestatījumos vaicājumam “<span data-l10n-name="query"></span>” nav rezultātu.
-search-results-help-link = Vajadzīga palīdzība? Apmeklējiet <a data-l10n-name="url">{ -brand-short-name } atbalsts</a>
+search-results-help-link = Vai nepieciešama palīdzība? Apmeklējiet <a data-l10n-name="url">{ -brand-short-name } atbalstu</a>
 
 ## General Section
 
@@ -566,7 +566,7 @@ home-prefs-search-header =
     .label = Tīmekļa meklēšana
 home-prefs-shortcuts-header =
     .label = Saīsnes
-home-prefs-shortcuts-description = Vietnes, kuras saglabājat vai apmeklējat
+home-prefs-shortcuts-description = Saglabātās vai apmeklētās vietnes
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsorētās saīsnes
 
@@ -662,7 +662,7 @@ search-one-click-desc = Izvēlieties papildu meklētāju, kas parādīsies adre�
 search-choose-engine-column =
     .label = Meklētājs
 search-choose-keyword-column =
-    .label = Atslēgas vārds
+    .label = Atslēgvārds
 search-restore-default =
     .label = Atjaunot noklusējuma meklētājus
     .accesskey = n
@@ -1160,7 +1160,7 @@ content-blocking-known-and-suspected-fingerprinters = Zināmi un varbūtēji cip
 content-blocking-etp-standard-tcp-rollout-description = Totālā Sīkdatņu Aizsardzība neļauj sīkdatnēm izkļūt ārpus vietnes, kurā atrodaties, tāpēc izsekotāji nevar tos izmantot, lai sekotu jums starp vietnēm.
 content-blocking-etp-standard-tcp-rollout-learn-more = Uzzināt vairāk
 content-blocking-etp-standard-tcp-title = Ietver Totālu Sīkdatņu Aizsardzību, mūsu visu laiku spēcīgāko privātuma funkciju
-content-blocking-warning-title = Galvas augšu!
+content-blocking-warning-title = Uzmanību!
 content-blocking-and-isolating-etp-warning-description-2 = Šī iestatījuma dēļ dažas vietnes var nerādīt saturu vai nedarboties pareizi. Ja šķiet, ka vietne ir salauzta, iespējams, vēlēsities šai vietnei izslēgt izsekošanas aizsardzību, lai ielādētu visu saturu.
 content-blocking-warning-learn-how = Uzziniet kā
 content-blocking-reload-description = Lai šīs izmaiņas stātos spēkā, jums būs jāpārlādē cilnes.

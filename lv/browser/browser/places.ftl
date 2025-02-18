@@ -247,7 +247,7 @@ places-back-button =
     .tooltiptext = Doties atpakaļ
 places-forward-button =
     .tooltiptext = Iet uz priekšu
-places-details-pane-select-an-item-description = Izvēlieties elementu, ko aplūkot vai rediģēt
+places-details-pane-select-an-item-description = Atlasiet vienumu, lai skatītu un rediģētu tā īpašības
 places-details-pane-no-items =
     .value = Nav nevienas vienības
 # Variables:

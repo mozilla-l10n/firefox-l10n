@@ -95,7 +95,7 @@ tabbrowser-confirm-close-tabs-title =
        *[other] Vai aizvērt { $tabCount } ciļņu?
     }
 tabbrowser-confirm-close-tabs-button = Aizvērt cilnes
-tabbrowser-confirm-close-tabs-checkbox = Apstipriniet, pirms aizvērt vairākas cilnes
+tabbrowser-confirm-close-tabs-checkbox = Apstiprināt, pirms aizvērt vairākas cilnes
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
