@@ -31,6 +31,8 @@ edit-profile-page-theme-header-2 =
     .label = Tema
 edit-profile-page-theme-header = Tema
 edit-profile-page-explore-themes = Mais temas
+edit-profile-page-avatar-header-2 =
+    .label = Símbolo
 edit-profile-page-avatar-header = Símbolo
 edit-profile-page-delete-button =
     .label = Excluir
@@ -114,3 +116,9 @@ star-avatar-alt =
 
 ## Labels for default avatar icons
 
+book-avatar = Livro
+briefcase-avatar = Maleta
+flower-avatar = Flor
+heart-avatar = Coração
+shopping-avatar = Carrinho de compras
+star-avatar = Estrela
