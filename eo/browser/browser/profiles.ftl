@@ -116,3 +116,9 @@ star-avatar-alt =
 
 ## Labels for default avatar icons
 
+book-avatar = Libro
+briefcase-avatar = Teko
+flower-avatar = Floro
+heart-avatar = Koro
+shopping-avatar = Aĉetĉareto
+star-avatar = Stelo
