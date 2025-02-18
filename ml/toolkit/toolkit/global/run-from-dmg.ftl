@@ -8,9 +8,13 @@
 ## appropriate location before relaunching itself from that location if the
 ## user accepts.
 
+prompt-to-install-title = { -brand-short-name } സ്ഥാപിക്കൽ തീൎക്കട്ടെ?
+prompt-to-install-yes-button = സ്ഥാപിക്കുക
+prompt-to-install-no-button = സ്ഥാപിക്കരുതു്
 
 ## Strings for a dialog that opens if the installation failed.
 
+install-failed-title = { -brand-short-name } സ്ഥാപിക്കൽ തോറ്റു
 
 ## Strings for a dialog that recommends to the user to start an existing
 ## installation of the app in the Applications directory if one is detected,
