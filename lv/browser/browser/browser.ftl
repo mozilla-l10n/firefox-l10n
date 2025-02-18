@@ -572,7 +572,7 @@ urlbar-result-action-search-in-private = Meklēt privātajā logā
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Meklēt ar { $engine }
 urlbar-result-action-sponsored = Sponsorēts
-urlbar-result-action-switch-tab = Pāriet uz cilni
+urlbar-result-action-switch-tab = Pārslēgties uz cilni
 urlbar-result-action-visit = Apmeklēt
 # "Switch to tab with container" is used when the target tab is located in a
 # different container.

@@ -14,7 +14,7 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Iet vienu lapu atpakaļ ({ $shortcut })
+    .tooltiptext = Doties vienu lapu atpakaļ ({ $shortcut })
     .aria-label = Atpakaļ
     .accesskey = A
 # This menuitem is only visible on macOS

@@ -18,3 +18,4 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = Fechar todos os separadores duplicados
 all-tabs-menu-synced-tabs =
     .label = Separadores de outros dispositivos
+all-tabs-menu-current-window-header = Janela atual

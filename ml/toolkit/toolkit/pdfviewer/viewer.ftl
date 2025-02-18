@@ -144,13 +144,13 @@ pdfjs-document-properties-close-button = അടയ്ക്കുക
 
 ## Print
 
-pdfjs-print-progress-message = പ്രിന്റുചെയ്യുന്നതിന് ഡോക്യുമെന്റ് തയ്യാറാക്കുന്നു…
+pdfjs-print-progress-message = അച്ചടിപ്പിനു് പ്രമാണം തയ്യാറാക്കുന്നു...
 # Variables:
 #   $progress (Number) - percent value
 pdfjs-print-progress-percent = { $progress }%
 pdfjs-print-progress-close-button = റദ്ദാക്കുക
-pdfjs-printing-not-supported = മുന്നറിയിപ്പു്: ഈ ബ്രൌസര്‍ പൂര്‍ണ്ണമായി പ്രിന്റിങ് പിന്തുണയ്ക്കുന്നില്ല.
-pdfjs-printing-not-ready = മുന്നറിയിപ്പു്: പ്രിന്റ് ചെയ്യുന്നതിനു് പിഡിഎഫ് പൂര്‍ണ്ണമായി ലഭ്യമല്ല.
+pdfjs-printing-not-supported = മുന്നറിയിപ്പു്: ഈ അന്വേഷിയന്ത്രമിൽ അച്ചടിപ്പു് മുഴുവനായി പിന്തുണയ്ക്കാരില്ല.
+pdfjs-printing-not-ready = മുന്നറിയിപ്പു്: അച്ചടിക്കാനായി ഈ പിഡിഎഫ മൊത്തം ലഭ്യമാക്കിയിട്ടില്ല
 
 ## Tooltips and alt text for side panel toolbar buttons
 
