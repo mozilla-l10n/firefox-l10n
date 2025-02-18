@@ -27,8 +27,12 @@ original-profile-name = Začetni profil
 edit-profile-page-title = Uredi profil
 edit-profile-page-header = Uredite svoj profil
 edit-profile-page-profile-name-label = Ime profila
+edit-profile-page-theme-header-2 =
+    .label = Tema
 edit-profile-page-theme-header = Tema
 edit-profile-page-explore-themes = Raziščite več tem
+edit-profile-page-avatar-header-2 =
+    .label = Avatar
 edit-profile-page-avatar-header = Avatar
 edit-profile-page-delete-button =
     .label = Izbriši
@@ -109,3 +113,6 @@ shopping-avatar-alt =
     .alt = Nakupovalni voziček
 star-avatar-alt =
     .alt = Zvezdica
+
+## Labels for default avatar icons
+
