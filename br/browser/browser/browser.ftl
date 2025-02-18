@@ -710,6 +710,8 @@ urlbar-searchmode-actions =
 urlbar-searchmode-exit-button =
     .tooltiptext = Serriñ
 urlbar-searchmode-popup-description = Ar wech-mañ, klask gant:
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = Arventennoù enklask
 urlbar-searchmode-popup-search-settings = Arventennoù enklask
 # Searchmode Switcher button
 # Variables:
