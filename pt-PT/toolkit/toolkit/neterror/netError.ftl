@@ -12,6 +12,7 @@ neterror-blocked-by-policy-page-title = Página bloqueada
 neterror-captive-portal-page-title = Iniciar sessão na rede
 neterror-dns-not-found-title = Servidor não encontrado
 neterror-malformed-uri-page-title = URL inválido
+general-body-title = Tenha cuidado. Algo não parece bem.
 
 ## Error page actions
 
@@ -43,6 +44,7 @@ neterror-load-error-connection = Se não conseguir carregar quaisquer páginas, 
 neterror-load-error-firewall = Se o seu computador ou rede estiverem protegidos por uma firewall ou proxy, certifique-se de que o { -brand-short-name } tem permissão para aceder à Web.
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Se está a tentar carregar uma página de rede local, verifique se o { -brand-short-name } tem permissões de Rede Local nas definições de Privacidade e Segurança do macOS.
+neterror-http-error-page = Verifique se escreveu o endereço do site corretamente.
 neterror-captive-portal = Tem de iniciar sessão nesta rede antes de poder aceder à Internet.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -98,6 +100,9 @@ neterror-proxy-connect-failure-settings = Verifique as definições do proxy.
 neterror-proxy-connect-failure-contact-admin = Contacte o administrador de rede para ter a certeza de que o servidor proxy está a funcionar.
 neterror-content-encoding-error = Por favor, contacte os proprietários do site para os informar deste problema.
 neterror-unsafe-content-type = Por favor, contacte os proprietários do site para os informar deste problema.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-basic-http-auth = O { -brand-short-name } não confia em { $hostname } porque a ligação não é segura. Tente alterar o URL para HTTPS.
 neterror-nss-failure-not-verified = A página que está a tentar ver não pode ser mostrada porque não foi possível verificar a autenticidade dos dados recebidos.
 neterror-nss-failure-contact-website = Por favor, contacte os proprietários do site para os informar deste problema.
 # Variables:

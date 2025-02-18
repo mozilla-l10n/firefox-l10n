@@ -1341,6 +1341,16 @@ collection-studies-description = Experimente funcionalidades e ideias antes de s
 collection-studies =
     .label = Permitir que { -brand-short-name } instale e execute os estudos
 collection-studies-link = Ver estudos do { -brand-short-name }
+addon-recommendations2 =
+    .label = Permitir recomendações personalizadas de extensões
+addon-recommendations-description = Obtenha recomendações de extensões para melhorar a sua experiência de navegação.
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled2 = A partilha de dados está desativada para a configuração desta compilação.
+collection-backlogged-crash-reports2 =
+    .label = Enviar relatórios de falha automaticamente
+    .accesskey = c
+collection-backlogged-crash-reports-description = Isto ajuda o { -vendor-short-name } a diagnosticar e corrigir problemas com o navegador. Os relatórios podem incluir dados pessoais ou sensíveis.
 addon-recommendations =
     .label = Permitir que { -brand-short-name } faça recomendações personalizadas de extensões
 addon-recommendations-link = Saber mais
@@ -1408,6 +1418,8 @@ space-alert-under-5gb-message2 = <strong>O { -brand-short-name } está a ficar s
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Modo apenas HTTPS
+httpsonly-description3 = Apenas permite ligações seguras a sites. O { -brand-short-name } irá perguntar antes de ligar sem segurança.
+httpsonly-learn-more2 = Como funciona o Apenas HTTPS
 httpsonly-description = O HTTPS fornece um ligação segura e encriptada entre o { -brand-short-name } e os sites que visita. A maioria dos sites suporta HTTPS e se o modo apenas HTTPS estiver ativo, então o { -brand-short-name } irá melhorar/atualizar todas as ligações para HTTPS.
 httpsonly-description2 = O { -brand-short-name } estabelece ligações seguras e encriptadas aos sites que visita. Irá alertar caso uma ligação não seja segura, quando o modo Apenas HTTPS estiver ativado.
 httpsonly-learn-more = Saber mais
@@ -1417,6 +1429,9 @@ httpsonly-radio-enabled2 =
     .label = Utilizar apenas HTTPS em todas as janelas
 httpsonly-radio-enabled-pbm =
     .label = Ativar o modo apenas HTTPS somente em janelas privadas
+httpsonly-radio-disabled3 =
+    .label = Não ativar o modo Apenas HTTPS
+    .description = O { -brand-short-name } pode, ainda assim, atualizar algumas ligações
 httpsonly-radio-enabled-pbm2 =
     .label = Utilizar HTTPS apenas nas janelas privadas
 httpsonly-radio-disabled =

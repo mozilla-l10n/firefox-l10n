@@ -50,6 +50,18 @@ sidebar-position-right =
     .label = Mostrar à direita
 sidebar-vertical-tabs =
     .label = Separadores verticais
+sidebar-settings =
+    .label = Definições da barra lateral
+sidebar-hide-tabs-and-sidebar =
+    .label = Ocultar separadores e barra lateral
+sidebar-show-on-the-right =
+    .label = Mover barra lateral para a direita
+sidebar-show-on-the-left =
+    .label = Mover barra lateral para a esquerda
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Expandir barra lateral ao pairar
 sidebar-horizontal-tabs =
     .label = Separadores horizontais
 sidebar-customize-tabs-header =
@@ -130,6 +142,10 @@ sidebar-menu-close-ai-chatbot-tooltip = Fechar o chatbot de IA
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
+sidebar-menu-open-ai-chatbot-tooltip-generic = Abrir chatbot de IA ({ $shortcut })
+sidebar-menu-open-ai-chatbot-provider-tooltip = Abrir { $provider } ({ $shortcut })
+sidebar-menu-close-ai-chatbot-tooltip-generic = Fechar chatbot de IA ({ $shortcut })
+sidebar-menu-close-ai-chatbot-provider-tooltip = Fechar o { $provider } ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 
@@ -139,6 +155,8 @@ sidebar-menu-history-header =
     .heading = Histórico
 sidebar-menu-syncedtabs-header =
     .heading = Separadores de outros dispositivos
+sidebar-menu-bookmarks-header =
+    .heading = Marcadores
 sidebar-panel-header-close-button =
     .tooltiptext = Fechar
 

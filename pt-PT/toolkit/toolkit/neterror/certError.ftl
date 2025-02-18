@@ -134,6 +134,7 @@ contentEncodingError-title = Erro de codificação de conteúdo
 unsafeContentType-title = Tipo de ficheiro inseguro
 netReset-title = A ligação foi reposta
 netTimeout-title = A ligação expirou
+httpErrorPage-title = Parece que existe um problema com este site
 serverError-title = Parece que existe um problema com este site
 unknownProtocolFound-title = O endereço não foi compreendido
 proxyConnectFailure-title = O servidor proxy está a recusar ligações
