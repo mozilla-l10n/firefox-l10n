@@ -259,7 +259,10 @@ newtab-custom-settings = Gestionează mai multe setări
 ## Abstract
 
 
-## Photographs
+## Celestial
+
+
+## Celestial
 
 
 ## New Tab Weather

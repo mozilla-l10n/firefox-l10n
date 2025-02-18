@@ -360,7 +360,7 @@ newtab-wallpaper-abstract-orange = Pomarańczowe kształty
 newtab-wallpaper-gradient-orange = Przejście między pomarańczowym a różowym
 newtab-wallpaper-abstract-blue-purple = Niebieskie i fioletowe kształty
 
-## Photographs
+## Celestial
 
 newtab-wallpaper-category-title-photographs = Zdjęcia
 newtab-wallpaper-beach-at-sunrise = Plaża o wschodzie słońca
@@ -383,6 +383,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Celestial
+
 
 ## New Tab Weather
 

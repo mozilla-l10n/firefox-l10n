@@ -359,7 +359,7 @@ newtab-wallpaper-abstract-orange = ਸੰਤਰੀ ਸ਼ਕਲਾਂ
 newtab-wallpaper-gradient-orange = ਗਰੇਡੀਐਂਟ ਸੰਤਰੀ ਤੇ ਗੁਲਾਬੀ
 newtab-wallpaper-abstract-blue-purple = ਨੀਲੀਆਂ ਤੇ ਜਾਮਨੀ ਸ਼ਕਲਾਂ
 
-## Photographs
+## Celestial
 
 newtab-wallpaper-category-title-photographs = ਫ਼ੋਟੋਗਰਾਫ਼
 newtab-wallpaper-beach-at-sunrise = ਬੀਚ ਉੱਤੇ ਚੜ੍ਹਦਾ ਸੂਰਜ
@@ -382,6 +382,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Celestial
+
 
 ## New Tab Weather
 

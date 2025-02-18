@@ -101,3 +101,12 @@ pdfjs-password-ok-button = Jo
 
 ## Dialog buttons
 
+
+## Main menu for adding/removing signatures
+
+
+## Editor toolbar
+
+
+## Edit signature description dialog
+

@@ -351,7 +351,7 @@ newtab-wallpaper-abstract-orange = Forma laranjak
 newtab-wallpaper-gradient-orange = Gradiente laranja eta arrosa
 newtab-wallpaper-abstract-blue-purple = Forma urdin eta moreak
 
-## Photographs
+## Celestial
 
 newtab-wallpaper-category-title-photographs = Argazkiak
 newtab-wallpaper-beach-at-sunrise = Hondartza egunsentian
@@ -374,6 +374,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Celestial
+
 
 ## New Tab Weather
 

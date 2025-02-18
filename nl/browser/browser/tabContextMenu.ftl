@@ -84,10 +84,6 @@ tab-context-close-duplicate-tabs =
 tab-context-share-url =
     .label = Delen
     .accesskey = e
-tab-context-enable-vertical-tabs =
-    .label = Verticale tabbladen inschakelen
-tab-context-disable-vertical-tabs =
-    .label = Verticale tabbladen uitschakelen
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
 tab-context-new-tab-open =
     .label = Nieuw tabblad rechts

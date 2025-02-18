@@ -275,7 +275,10 @@ newtab-custom-settings = Keisti daugiau nuostatų
 ## Abstract
 
 
-## Photographs
+## Celestial
+
+
+## Celestial
 
 
 ## New Tab Weather

@@ -315,7 +315,7 @@ newtab-wallpaper-brown = Aqehwi
 
 newtab-wallpaper-category-title-abstract = Amadwan
 
-## Photographs
+## Celestial
 
 newtab-wallpaper-white-mountains = Idurar imellalen
 # Variables
@@ -331,6 +331,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Celestial
+
 
 ## New Tab Weather
 

@@ -104,3 +104,12 @@ pdfjs-password-cancel-button = Kunchatu
 
 ## Dialog buttons
 
+
+## Main menu for adding/removing signatures
+
+
+## Editor toolbar
+
+
+## Edit signature description dialog
+

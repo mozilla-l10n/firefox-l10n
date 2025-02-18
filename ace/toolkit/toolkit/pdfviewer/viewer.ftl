@@ -129,3 +129,12 @@ pdfjs-password-cancel-button = Bateuë
 
 ## Dialog buttons
 
+
+## Main menu for adding/removing signatures
+
+
+## Editor toolbar
+
+
+## Edit signature description dialog
+

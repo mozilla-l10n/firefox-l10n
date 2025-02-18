@@ -360,7 +360,7 @@ newtab-wallpaper-abstract-orange = Πορτοκαλί σχήματα
 newtab-wallpaper-gradient-orange = Διαβάθμιση πορτοκαλί και ροζ
 newtab-wallpaper-abstract-blue-purple = Μπλε και μωβ σχήματα
 
-## Photographs
+## Celestial
 
 newtab-wallpaper-category-title-photographs = Φωτογραφίες
 newtab-wallpaper-beach-at-sunrise = Παραλία στην ανατολή του ήλιου
@@ -383,6 +383,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Celestial
+
 
 ## New Tab Weather
 

@@ -165,7 +165,10 @@ newtab-error-fallback-refresh-link = फेनु प्रयास करए �
 ## Abstract
 
 
-## Photographs
+## Celestial
+
+
+## Celestial
 
 
 ## New Tab Weather

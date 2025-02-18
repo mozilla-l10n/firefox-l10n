@@ -355,7 +355,7 @@ newtab-wallpaper-abstract-orange = Bentuk jingga
 newtab-wallpaper-gradient-orange = Gradien jingga dan merah muda
 newtab-wallpaper-abstract-blue-purple = Bentuk biru dan ungu
 
-## Photographs
+## Celestial
 
 newtab-wallpaper-category-title-photographs = Foto
 newtab-wallpaper-beach-at-sunrise = Pantai saat matahari terbit
@@ -378,6 +378,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Celestial
+
 
 ## New Tab Weather
 

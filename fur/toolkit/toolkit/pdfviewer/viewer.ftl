@@ -570,3 +570,12 @@ pdfjs-editor-add-signature-error-close-button = Siere
 
 pdfjs-editor-add-signature-cancel-button = Anule
 pdfjs-editor-add-signature-add-button = Zonte
+
+## Main menu for adding/removing signatures
+
+
+## Editor toolbar
+
+
+## Edit signature description dialog
+

@@ -317,7 +317,7 @@ newtab-wallpaper-abstract-blue = Fòrmas blavas
 newtab-wallpaper-abstract-purple = Fòrmas violetas
 newtab-wallpaper-abstract-orange = Fòrmas iranjas
 
-## Photographs
+## Celestial
 
 newtab-wallpaper-category-title-photographs = Fotografias
 newtab-wallpaper-beach-at-sunrise = Plaja a l’alba
@@ -333,6 +333,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Celestial
+
 
 ## New Tab Weather
 

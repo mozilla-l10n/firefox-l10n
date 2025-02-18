@@ -638,6 +638,8 @@ urlbar-searchmode-actions =
     .label = ᱠᱟᱹᱢᱤ ᱠᱚ
 urlbar-searchmode-exit-button =
     .tooltiptext = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = ᱱᱤᱭᱟᱹ ᱫᱷᱟᱣ ᱱᱚᱶᱟ ᱛᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮᱺ
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = ᱥᱮᱸᱫᱽᱨᱟ ᱥᱟᱡᱟᱣ ᱠᱚ

@@ -359,7 +359,7 @@ newtab-wallpaper-abstract-orange = ნარინჯისფერი ფო�
 newtab-wallpaper-gradient-orange = ნარინჯისფერი ვარდისფერში გადასული
 newtab-wallpaper-abstract-blue-purple = ლურჯი და იისფერი ფორმები
 
-## Photographs
+## Celestial
 
 newtab-wallpaper-category-title-photographs = ფოტოსურათები
 newtab-wallpaper-beach-at-sunrise = სანაპირო მზის ამოსვლისას
@@ -382,6 +382,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Celestial
+
 
 ## New Tab Weather
 

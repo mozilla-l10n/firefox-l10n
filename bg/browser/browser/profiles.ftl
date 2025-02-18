@@ -55,3 +55,6 @@ profiles-system-theme = Системна
 
 ## Alternative text for default profile icons
 
+
+## Labels for default avatar icons
+

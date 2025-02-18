@@ -365,7 +365,7 @@ newtab-wallpaper-abstract-orange = Siapiau oren
 newtab-wallpaper-gradient-orange = Graddiant oren a phinc
 newtab-wallpaper-abstract-blue-purple = Siapiau glas a phorffor
 
-## Photographs
+## Celestial
 
 newtab-wallpaper-category-title-photographs = Ffotograffau
 newtab-wallpaper-beach-at-sunrise = Traeth ar godiad haul
@@ -388,6 +388,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Celestial
+
 
 ## New Tab Weather
 

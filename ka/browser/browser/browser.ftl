@@ -698,6 +698,8 @@ urlbar-searchmode-actions =
     .label = მოქმედებები
 urlbar-searchmode-exit-button =
     .tooltiptext = დახურვა
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = ძიებისთვის ამჯერად გამოიყენეთ:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = ძიების პარამეტრები

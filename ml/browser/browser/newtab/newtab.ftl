@@ -308,7 +308,7 @@ newtab-wallpaper-brown = തവിട്ടുനിറം
 ## Abstract
 
 
-## Photographs
+## Celestial
 
 newtab-wallpaper-category-title-photographs = ചിത്രങ്ങൾ
 newtab-wallpaper-feature-highlight-header = നിറത്തിന്റെ നീർത്തെറിപ്പ് ഉരച്ചുനോക്കുക
@@ -320,6 +320,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Celestial
+
 
 ## New Tab Weather
 

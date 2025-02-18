@@ -361,7 +361,7 @@ newtab-wallpaper-abstract-orange = Formis naranç
 newtab-wallpaper-gradient-orange = Gradient naranç e rose
 newtab-wallpaper-abstract-blue-purple = Formis blu e viole
 
-## Photographs
+## Celestial
 
 newtab-wallpaper-category-title-photographs = Fotografiis
 newtab-wallpaper-beach-at-sunrise = Splaze al cricâ dal dì
@@ -384,6 +384,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Celestial
+
 
 ## New Tab Weather
 

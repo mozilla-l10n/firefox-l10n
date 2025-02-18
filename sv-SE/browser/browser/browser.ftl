@@ -698,6 +698,8 @@ urlbar-searchmode-actions =
     .label = Åtgärder
 urlbar-searchmode-exit-button =
     .tooltiptext = Stäng
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = Denna gång, sök med:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Sökinställningar

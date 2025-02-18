@@ -570,3 +570,12 @@ pdfjs-editor-add-signature-error-close-button = Пӯшидан
 
 pdfjs-editor-add-signature-cancel-button = Бекор кардан
 pdfjs-editor-add-signature-add-button = Илова кардан
+
+## Main menu for adding/removing signatures
+
+
+## Editor toolbar
+
+
+## Edit signature description dialog
+

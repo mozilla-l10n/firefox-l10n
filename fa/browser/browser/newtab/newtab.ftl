@@ -302,9 +302,12 @@ newtab-wallpaper-brown = قهوه‌ای
 ## Abstract
 
 
-## Photographs
+## Celestial
 
 newtab-wallpaper-white-mountains = کوه‌های سفید
+
+## Celestial
+
 
 ## New Tab Weather
 

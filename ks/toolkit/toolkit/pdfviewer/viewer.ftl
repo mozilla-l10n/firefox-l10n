@@ -204,3 +204,12 @@ pdfjs-web-fonts-disabled = ویب فانٹ چھ ڈیسیبلْڈ: ایمبیڈی
 
 ## Dialog buttons
 
+
+## Main menu for adding/removing signatures
+
+
+## Editor toolbar
+
+
+## Edit signature description dialog
+

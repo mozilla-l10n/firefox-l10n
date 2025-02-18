@@ -198,7 +198,10 @@ newtab-error-fallback-refresh-link = Nagi'iaj nakà pagina nī garahue ñut
 ## Abstract
 
 
-## Photographs
+## Celestial
+
+
+## Celestial
 
 
 ## New Tab Weather

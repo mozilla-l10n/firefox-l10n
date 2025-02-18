@@ -95,7 +95,10 @@ newtab-pocket-learn-more = Terabum ŕpo
 ## Abstract
 
 
-## Photographs
+## Celestial
+
+
+## Celestial
 
 
 ## New Tab Weather

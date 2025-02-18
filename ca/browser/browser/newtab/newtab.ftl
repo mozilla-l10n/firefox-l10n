@@ -334,7 +334,7 @@ newtab-wallpaper-abstract-orange = Formes taronges
 newtab-wallpaper-gradient-orange = Degradat taronja i rosa
 newtab-wallpaper-abstract-blue-purple = Formes blaves i liles
 
-## Photographs
+## Celestial
 
 newtab-wallpaper-category-title-photographs = Fotografies
 newtab-wallpaper-beach-at-sunrise = Platja a l'alba
@@ -357,6 +357,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Celestial
+
 
 ## New Tab Weather
 

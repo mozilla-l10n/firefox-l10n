@@ -362,7 +362,7 @@ newtab-wallpaper-abstract-orange = Oranžowe twary
 newtab-wallpaper-gradient-orange = Přeběžk oranžowy a pink
 newtab-wallpaper-abstract-blue-purple = Módre a wioletne twary
 
-## Photographs
+## Celestial
 
 newtab-wallpaper-category-title-photographs = Fota
 newtab-wallpaper-beach-at-sunrise = Brjóh při schadźenju słónca
@@ -385,6 +385,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Celestial
+
 
 ## New Tab Weather
 

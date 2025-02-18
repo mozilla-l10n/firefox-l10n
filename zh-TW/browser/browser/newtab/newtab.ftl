@@ -356,7 +356,7 @@ newtab-wallpaper-abstract-orange = 橘色造型
 newtab-wallpaper-gradient-orange = 橘色粉紅色漸層
 newtab-wallpaper-abstract-blue-purple = 藍色紫色造型
 
-## Photographs
+## Celestial
 
 newtab-wallpaper-category-title-photographs = 相片
 newtab-wallpaper-beach-at-sunrise = 海邊日出
@@ -379,6 +379,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Celestial
+
 
 ## New Tab Weather
 

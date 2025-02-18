@@ -558,3 +558,12 @@ pdfjs-editor-add-signature-error-close-button = 关闭
 
 pdfjs-editor-add-signature-cancel-button = 取消
 pdfjs-editor-add-signature-add-button = 添加
+
+## Main menu for adding/removing signatures
+
+
+## Editor toolbar
+
+
+## Edit signature description dialog
+

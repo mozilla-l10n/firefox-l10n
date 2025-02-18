@@ -274,7 +274,10 @@ newtab-custom-settings = Gestiona més paràmetres
 ## Abstract
 
 
-## Photographs
+## Celestial
+
+
+## Celestial
 
 
 ## New Tab Weather

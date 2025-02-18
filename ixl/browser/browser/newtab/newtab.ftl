@@ -199,7 +199,10 @@ newtab-error-fallback-refresh-link = B'an tuch u u'uje' as la q'aavisa unpajte.
 ## Abstract
 
 
-## Photographs
+## Celestial
+
+
+## Celestial
 
 
 ## New Tab Weather

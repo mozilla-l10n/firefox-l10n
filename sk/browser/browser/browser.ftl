@@ -705,6 +705,8 @@ urlbar-searchmode-actions =
     .label = Akcie
 urlbar-searchmode-exit-button =
     .tooltiptext = Zavrieť
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = Tentoraz vyhľadať pomocou:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Nastavenia vyhľadávania

@@ -356,7 +356,7 @@ newtab-wallpaper-abstract-orange = Turuncu şekiller
 newtab-wallpaper-gradient-orange = Turuncu ve pembe renk geçişi
 newtab-wallpaper-abstract-blue-purple = Mavi ve mor şekiller
 
-## Photographs
+## Celestial
 
 newtab-wallpaper-category-title-photographs = Fotoğraflar
 newtab-wallpaper-beach-at-sunrise = Gün doğumunda sahil
@@ -379,6 +379,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Celestial
+
 
 ## New Tab Weather
 

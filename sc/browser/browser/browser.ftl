@@ -698,6 +698,8 @@ urlbar-searchmode-actions =
     .label = Atziones
 urlbar-searchmode-exit-button =
     .tooltiptext = Serra
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = Custa borta chirca cun:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Cunfiguratzione de chirca

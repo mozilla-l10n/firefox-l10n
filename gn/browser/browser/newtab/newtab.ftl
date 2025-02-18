@@ -359,7 +359,7 @@ newtab-wallpaper-abstract-orange = Ñarã rehegua
 newtab-wallpaper-gradient-orange = Oguejýva narãgui pytãngýpe
 newtab-wallpaper-abstract-blue-purple = Hovy ha pytãũva rehegua
 
-## Photographs
+## Celestial
 
 newtab-wallpaper-category-title-photographs = Ta’ãnga
 newtab-wallpaper-beach-at-sunrise = Jejahuha ko’ẽmbotávo
@@ -382,6 +382,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Celestial
+
 
 ## New Tab Weather
 

@@ -273,7 +273,10 @@ newtab-custom-settings = Manage mair settins
 ## Abstract
 
 
-## Photographs
+## Celestial
+
+
+## Celestial
 
 
 ## New Tab Weather

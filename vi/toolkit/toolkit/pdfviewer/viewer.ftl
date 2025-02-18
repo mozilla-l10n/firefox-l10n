@@ -558,3 +558,12 @@ pdfjs-editor-add-signature-error-close-button = Đóng
 
 pdfjs-editor-add-signature-cancel-button = Hủy bỏ
 pdfjs-editor-add-signature-add-button = Thêm
+
+## Main menu for adding/removing signatures
+
+
+## Editor toolbar
+
+
+## Edit signature description dialog
+

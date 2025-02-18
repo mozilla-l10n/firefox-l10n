@@ -701,6 +701,8 @@ urlbar-searchmode-actions =
     .label = Aksjes
 urlbar-searchmode-exit-button =
     .tooltiptext = Slute
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = Diskear sykje mei:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Sykynstellingen

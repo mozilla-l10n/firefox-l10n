@@ -158,7 +158,10 @@ newtab-pocket-read-more = Popülâr Mevzular:
 ## Abstract
 
 
-## Photographs
+## Celestial
+
+
+## Celestial
 
 
 ## New Tab Weather

@@ -84,10 +84,6 @@ tab-context-close-duplicate-tabs =
 tab-context-share-url =
     .label = Diele
     .accesskey = e
-tab-context-enable-vertical-tabs =
-    .label = Fertikale ljepblêden ynskeakelje
-tab-context-disable-vertical-tabs =
-    .label = Fertikale ljepblêden útskeakelje
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
 tab-context-new-tab-open =
     .label = Nij ljepblêd rjochts

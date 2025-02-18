@@ -573,3 +573,12 @@ pdfjs-editor-add-signature-error-close-button = Закрыть
 
 pdfjs-editor-add-signature-cancel-button = Отмена
 pdfjs-editor-add-signature-add-button = Добавить
+
+## Main menu for adding/removing signatures
+
+
+## Editor toolbar
+
+
+## Edit signature description dialog
+

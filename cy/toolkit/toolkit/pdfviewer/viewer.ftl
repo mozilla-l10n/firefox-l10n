@@ -582,3 +582,12 @@ pdfjs-editor-add-signature-error-close-button = Cau
 
 pdfjs-editor-add-signature-cancel-button = Diddymu
 pdfjs-editor-add-signature-add-button = Ychwanegu
+
+## Main menu for adding/removing signatures
+
+
+## Editor toolbar
+
+
+## Edit signature description dialog
+

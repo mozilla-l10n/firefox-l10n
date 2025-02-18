@@ -281,7 +281,10 @@ newtab-custom-settings = Stiùirich barrachd roghainnean
 ## Abstract
 
 
-## Photographs
+## Celestial
+
+
+## Celestial
 
 
 ## New Tab Weather

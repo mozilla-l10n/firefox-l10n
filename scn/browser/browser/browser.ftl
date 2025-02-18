@@ -313,6 +313,8 @@ urlbar-result-search-with = Riscedi cu { $engine }
 urlbar-result-search-with-engine-keywords = { $keywords } - Riscedi cu { $engine }
 urlbar-searchmode-bookmarks =
     .label = Nzingalibbra
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = Sta vota riscedi cu:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Mpustazzioni di risciduta

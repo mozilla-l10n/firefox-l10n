@@ -709,6 +709,8 @@ urlbar-searchmode-actions =
     .label = Akcije
 urlbar-searchmode-exit-button =
     .tooltiptext = Zacyniś
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = Tenraz pytaś z:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Pytańske nastajenja

@@ -694,6 +694,8 @@ urlbar-searchmode-actions =
     .label = 작업
 urlbar-searchmode-exit-button =
     .tooltiptext = 닫기
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = 이번만 검색:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = 검색 설정

@@ -194,7 +194,10 @@ newtab-error-fallback-refresh-link = Porlōdej lopu, kab paraudzēt par jaunu.
 ## Abstract
 
 
-## Photographs
+## Celestial
+
+
+## Celestial
 
 
 ## New Tab Weather

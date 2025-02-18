@@ -167,7 +167,10 @@ newtab-error-fallback-refresh-link = पुनः प्रयास गर्�
 ## Abstract
 
 
-## Photographs
+## Celestial
+
+
+## Celestial
 
 
 ## New Tab Weather

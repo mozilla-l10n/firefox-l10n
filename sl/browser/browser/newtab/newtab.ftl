@@ -361,7 +361,7 @@ newtab-wallpaper-abstract-orange = Oranžne oblike
 newtab-wallpaper-gradient-orange = Preliv oranžne in roza
 newtab-wallpaper-abstract-blue-purple = Modre in vijolične oblike
 
-## Photographs
+## Celestial
 
 newtab-wallpaper-category-title-photographs = Fotografije
 newtab-wallpaper-beach-at-sunrise = Plaža ob sončnem vzhodu
@@ -384,6 +384,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Celestial
+
 
 ## New Tab Weather
 

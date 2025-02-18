@@ -91,7 +91,10 @@ newtab-personalize-icon-label =
 ## Abstract
 
 
-## Photographs
+## Celestial
+
+
+## Celestial
 
 
 ## New Tab Weather

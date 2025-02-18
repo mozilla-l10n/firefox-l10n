@@ -539,6 +539,8 @@ urlbar-searchmode-actions =
     .label = ການກະທຳ
 urlbar-searchmode-exit-button =
     .tooltiptext = ປິດ
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = ຄັ້ງນີ້ ຄົ້ນຫາດ້ວຍ:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = ການຕັ້ງຄ່າການຄົ້ນຫາ

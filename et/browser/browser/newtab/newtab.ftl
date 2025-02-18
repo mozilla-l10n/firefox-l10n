@@ -275,7 +275,10 @@ newtab-custom-settings = Halda rohkem sätteid
 ## Abstract
 
 
-## Photographs
+## Celestial
+
+
+## Celestial
 
 
 ## New Tab Weather

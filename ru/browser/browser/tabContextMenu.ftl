@@ -84,10 +84,6 @@ tab-context-close-duplicate-tabs =
 tab-context-share-url =
     .label = Поделиться
     .accesskey = д
-tab-context-enable-vertical-tabs =
-    .label = Включить вертикальные вкладки
-tab-context-disable-vertical-tabs =
-    .label = Отключить вертикальные вкладки
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
 tab-context-new-tab-open =
     .label = Новая вкладка справа

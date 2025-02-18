@@ -233,7 +233,10 @@ newtab-custom-settings = مزید سیٹنگز کو نظم کریں
 ## Abstract
 
 
-## Photographs
+## Celestial
+
+
+## Celestial
 
 
 ## New Tab Weather

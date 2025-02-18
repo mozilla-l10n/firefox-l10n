@@ -198,7 +198,10 @@ newtab-custom-settings = Xestionar más axustes
 ## Abstract
 
 
-## Photographs
+## Celestial
+
+
+## Celestial
 
 
 ## New Tab Weather

@@ -561,3 +561,12 @@ pdfjs-editor-add-signature-error-close-button = Mbylle
 
 pdfjs-editor-add-signature-cancel-button = Anuloje
 pdfjs-editor-add-signature-add-button = Shtoje
+
+## Main menu for adding/removing signatures
+
+
+## Editor toolbar
+
+
+## Edit signature description dialog
+

@@ -359,7 +359,7 @@ newtab-wallpaper-abstract-orange = 주황색 모양
 newtab-wallpaper-gradient-orange = 주황색과 분홍색 그라데이션
 newtab-wallpaper-abstract-blue-purple = 파란색과 보라색 모양
 
-## Photographs
+## Celestial
 
 newtab-wallpaper-category-title-photographs = 사진
 newtab-wallpaper-beach-at-sunrise = 일출의 해변
@@ -382,6 +382,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Celestial
+
 
 ## New Tab Weather
 

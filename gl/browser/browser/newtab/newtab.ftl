@@ -296,9 +296,12 @@ newtab-wallpaper-dark-green = Verde escuro
 ## Abstract
 
 
-## Photographs
+## Celestial
 
 newtab-wallpaper-feature-highlight-button = Entendido
+
+## Celestial
+
 
 ## New Tab Weather
 

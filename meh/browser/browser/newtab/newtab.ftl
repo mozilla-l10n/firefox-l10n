@@ -249,7 +249,10 @@ newtab-custom-settings = Tetiñu kue´e da kei´i
 ## Abstract
 
 
-## Photographs
+## Celestial
+
+
+## Celestial
 
 
 ## New Tab Weather

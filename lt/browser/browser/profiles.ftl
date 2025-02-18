@@ -14,3 +14,6 @@
 
 ## Alternative text for default profile icons
 
+
+## Labels for default avatar icons
+

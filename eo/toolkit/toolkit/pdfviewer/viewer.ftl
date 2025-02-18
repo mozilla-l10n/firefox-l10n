@@ -531,3 +531,12 @@ pdfjs-editor-add-signature-error-close-button = Fermi
 
 pdfjs-editor-add-signature-cancel-button = Nuligi
 pdfjs-editor-add-signature-add-button = Aldoni
+
+## Main menu for adding/removing signatures
+
+
+## Editor toolbar
+
+
+## Edit signature description dialog
+

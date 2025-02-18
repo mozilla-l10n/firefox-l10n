@@ -99,3 +99,12 @@ pdfjs-password-cancel-button = Anular
 
 ## Dialog buttons
 
+
+## Main menu for adding/removing signatures
+
+
+## Editor toolbar
+
+
+## Edit signature description dialog
+

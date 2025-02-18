@@ -84,10 +84,6 @@ tab-context-close-duplicate-tabs =
 tab-context-share-url =
     .label = Compartir
     .accesskey = o
-tab-context-enable-vertical-tabs =
-    .label = Activar schedas vertical
-tab-context-disable-vertical-tabs =
-    .label = Disactivar schedas vertical
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
 tab-context-new-tab-open =
     .label = Nove scheda a dextra

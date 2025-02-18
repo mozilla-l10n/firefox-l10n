@@ -545,3 +545,12 @@ pdfjs-editor-add-signature-error-close-button = Mboty
 
 pdfjs-editor-add-signature-cancel-button = Heja
 pdfjs-editor-add-signature-add-button = Mbojuaju
+
+## Main menu for adding/removing signatures
+
+
+## Editor toolbar
+
+
+## Edit signature description dialog
+

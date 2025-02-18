@@ -245,7 +245,10 @@ newtab-custom-settings = Boshqa sozlamalarni boshqarish
 ## Abstract
 
 
-## Photographs
+## Celestial
+
+
+## Celestial
 
 
 ## New Tab Weather

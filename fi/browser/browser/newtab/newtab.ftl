@@ -360,7 +360,7 @@ newtab-wallpaper-abstract-orange = Oranssit muodot
 newtab-wallpaper-gradient-orange = Oranssi ja pinkki liukuväreissä
 newtab-wallpaper-abstract-blue-purple = Sinisiä ja violetteja muotoja
 
-## Photographs
+## Celestial
 
 newtab-wallpaper-category-title-photographs = Valokuvat
 newtab-wallpaper-beach-at-sunrise = Ranta auringonnousun aikaan
@@ -383,6 +383,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Celestial
+
 
 ## New Tab Weather
 

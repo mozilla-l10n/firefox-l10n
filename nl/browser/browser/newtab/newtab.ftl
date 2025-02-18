@@ -360,7 +360,7 @@ newtab-wallpaper-abstract-orange = Oranje vormen
 newtab-wallpaper-gradient-orange = Verloop oranje en roze
 newtab-wallpaper-abstract-blue-purple = Blauwe en paarse vormen
 
-## Photographs
+## Celestial
 
 newtab-wallpaper-category-title-photographs = Foto’s
 newtab-wallpaper-beach-at-sunrise = Strand bij zonsopgang
@@ -383,6 +383,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Celestial
+
 
 ## New Tab Weather
 

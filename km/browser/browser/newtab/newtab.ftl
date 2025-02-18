@@ -182,7 +182,10 @@ newtab-error-fallback-refresh-link = ផ្ទុកទំព័រឡើងវ�
 ## Abstract
 
 
-## Photographs
+## Celestial
+
+
+## Celestial
 
 
 ## New Tab Weather

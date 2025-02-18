@@ -269,7 +269,10 @@ newtab-custom-settings = ຈັດການການຕັ້ງຄ່າເພ�
 ## Abstract
 
 
-## Photographs
+## Celestial
+
+
+## Celestial
 
 
 ## New Tab Weather

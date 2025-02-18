@@ -180,7 +180,10 @@ newtab-error-fallback-refresh-link = Neu refresh laman bah ji trei lom.
 ## Abstract
 
 
-## Photographs
+## Celestial
+
+
+## Celestial
 
 
 ## New Tab Weather

@@ -700,6 +700,8 @@ urlbar-searchmode-actions =
     .label = ਕਾਰਵਾਈਆਂ
 urlbar-searchmode-exit-button =
     .tooltiptext = ਬੰਦ ਕਰੋ
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = ਇਹ ਵਾਰ ਖੋਜ ਇਸ ਨਾਲ ਕਰੋ:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = ਖੋਜ ਸੈਟਿੰਗਾਂ

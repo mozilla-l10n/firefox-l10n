@@ -15,3 +15,6 @@ delete-profile-autofill = ස්වයං පිරවුම් දත්ත (�
 
 ## Alternative text for default profile icons
 
+
+## Labels for default avatar icons
+

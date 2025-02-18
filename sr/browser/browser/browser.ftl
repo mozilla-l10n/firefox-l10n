@@ -645,6 +645,8 @@ urlbar-searchmode-actions =
     .label = Радње
 urlbar-searchmode-exit-button =
     .tooltiptext = Затвори
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = Овај пут претражи користећи:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Подешавање претраге

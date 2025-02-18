@@ -134,3 +134,12 @@ pdfjs-password-cancel-button = Ya'sakan
 
 ## Dialog buttons
 
+
+## Main menu for adding/removing signatures
+
+
+## Editor toolbar
+
+
+## Edit signature description dialog
+

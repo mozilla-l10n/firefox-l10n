@@ -203,7 +203,10 @@ newtab-custom-close-button = Lor
 ## Abstract
 
 
-## Photographs
+## Celestial
+
+
+## Celestial
 
 
 ## New Tab Weather

@@ -343,7 +343,7 @@ newtab-wallpaper-abstract-orange = Նարնջագույն ձևեր
 newtab-wallpaper-gradient-orange = Գրադիենտ նարնջագույն և վարդագույն
 newtab-wallpaper-abstract-blue-purple = Կապույտ և մանուշակագույն ձևեր
 
-## Photographs
+## Celestial
 
 newtab-wallpaper-category-title-photographs = Լուսանկարներ
 newtab-wallpaper-beach-at-sunrise = Լողափ արևածագին
@@ -363,6 +363,9 @@ newtab-wallpaper-feature-highlight-button = Հասկացա
 feature-highlight-dismiss-button =
     .title = Բաց թողնել
     .aria-label = Փակել թռուցիկը
+
+## Celestial
+
 
 ## New Tab Weather
 

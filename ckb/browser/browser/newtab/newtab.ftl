@@ -210,7 +210,10 @@ newtab-error-fallback-refresh-link = پەڕە نوێبکەرەوە بۆ هەوڵ
 ## Abstract
 
 
-## Photographs
+## Celestial
+
+
+## Celestial
 
 
 ## New Tab Weather

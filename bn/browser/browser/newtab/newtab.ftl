@@ -267,7 +267,10 @@ newtab-custom-settings = আরও সেটিং পরিচালনা ক�
 ## Abstract
 
 
-## Photographs
+## Celestial
+
+
+## Celestial
 
 
 ## New Tab Weather

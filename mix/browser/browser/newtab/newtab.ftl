@@ -169,7 +169,10 @@ newtab-pocket-cta-button = Nduku { -pocket-brand-name }
 ## Abstract
 
 
-## Photographs
+## Celestial
+
+
+## Celestial
 
 
 ## New Tab Weather

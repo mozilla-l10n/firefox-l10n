@@ -698,6 +698,8 @@ urlbar-searchmode-actions =
     .label = Acziuns
 urlbar-searchmode-exit-button =
     .tooltiptext = Serrar
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = Per questa giada, tschertgar cun:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Parameters da tschertga

@@ -84,10 +84,6 @@ tab-context-close-duplicate-tabs =
 tab-context-share-url =
     .label = Compartilhar
     .accesskey = h
-tab-context-enable-vertical-tabs =
-    .label = Ativar abas na vertical
-tab-context-disable-vertical-tabs =
-    .label = Desativar abas na vertical
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
 tab-context-new-tab-open =
     .label = Nova aba à direita

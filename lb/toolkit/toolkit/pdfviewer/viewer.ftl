@@ -124,3 +124,12 @@ pdfjs-password-cancel-button = Ofbriechen
 
 ## Dialog buttons
 
+
+## Main menu for adding/removing signatures
+
+
+## Editor toolbar
+
+
+## Edit signature description dialog
+

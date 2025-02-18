@@ -75,10 +75,6 @@ move-to-new-window =
 tab-context-share-url =
     .label = പങ്കിടുക
     .accesskey = പ
-tab-context-enable-vertical-tabs =
-    .label = കുത്തനെയായ ടാബുക്രമം തുടങ്ങിവയ്ക്കുക
-tab-context-disable-vertical-tabs =
-    .label = കുത്തനെയായ ടാബുക്രമം അണക്കുക
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
 tab-context-new-tab-open =
     .label = വലത്തോട്ടു് പുതിയ ടാബു്

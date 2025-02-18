@@ -207,7 +207,10 @@ newtab-error-fallback-refresh-link = Attualizza sta pàggina pi pruvari arrè.
 ## Abstract
 
 
-## Photographs
+## Celestial
+
+
+## Celestial
 
 
 ## New Tab Weather

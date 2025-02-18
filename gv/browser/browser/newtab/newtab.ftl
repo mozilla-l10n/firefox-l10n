@@ -89,7 +89,10 @@ newtab-page-title = Tab Noa
 ## Abstract
 
 
-## Photographs
+## Celestial
+
+
+## Celestial
 
 
 ## New Tab Weather

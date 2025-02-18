@@ -356,7 +356,7 @@ newtab-wallpaper-abstract-orange = Forma portokalli
 newtab-wallpaper-gradient-orange = Gradient portokalli dhe rozë
 newtab-wallpaper-abstract-blue-purple = Forma blu dhe të purpurta
 
-## Photographs
+## Celestial
 
 newtab-wallpaper-category-title-photographs = Fotografi
 newtab-wallpaper-beach-at-sunrise = Plazh në agim
@@ -379,6 +379,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Celestial
+
 
 ## New Tab Weather
 

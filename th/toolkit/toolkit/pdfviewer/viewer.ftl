@@ -558,3 +558,12 @@ pdfjs-editor-add-signature-error-close-button = ปิด
 
 pdfjs-editor-add-signature-cancel-button = ยกเลิก
 pdfjs-editor-add-signature-add-button = เพิ่ม
+
+## Main menu for adding/removing signatures
+
+
+## Editor toolbar
+
+
+## Edit signature description dialog
+

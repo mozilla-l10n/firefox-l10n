@@ -351,7 +351,7 @@ newtab-wallpaper-abstract-orange = أشكال برتقالية
 newtab-wallpaper-gradient-orange = تدرج اللون البرتقالي والوردي
 newtab-wallpaper-abstract-blue-purple = الأشكال الزرقاء والأرجوانية
 
-## Photographs
+## Celestial
 
 newtab-wallpaper-white-mountains = جبال بيضاء
 newtab-wallpaper-feature-highlight-header = جرب دفقة من الألوان
@@ -359,6 +359,9 @@ newtab-wallpaper-feature-highlight-button = فهمت
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Celestial
+
 
 ## New Tab Weather
 

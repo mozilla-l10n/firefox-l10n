@@ -694,6 +694,8 @@ urlbar-searchmode-actions =
     .label = 操作
 urlbar-searchmode-exit-button =
     .tooltiptext = 关闭
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = 本次搜索使用：
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = 搜索设置

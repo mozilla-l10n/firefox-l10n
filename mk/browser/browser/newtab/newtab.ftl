@@ -183,7 +183,10 @@ newtab-error-fallback-refresh-link = Освежете ја страницата 
 ## Abstract
 
 
-## Photographs
+## Celestial
+
+
+## Celestial
 
 
 ## New Tab Weather

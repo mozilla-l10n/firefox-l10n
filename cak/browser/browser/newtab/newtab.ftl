@@ -277,7 +277,10 @@ newtab-custom-settings = Tinuk'samajïx ch'aqa' runuk'ulem
 ## Abstract
 
 
-## Photographs
+## Celestial
+
+
+## Celestial
 
 
 ## New Tab Weather

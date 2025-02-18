@@ -698,6 +698,8 @@ urlbar-searchmode-actions =
     .label = Actiones
 urlbar-searchmode-exit-button =
     .tooltiptext = Clauder
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = Iste vice cerca con:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Parametros de recerca

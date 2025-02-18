@@ -709,6 +709,8 @@ urlbar-searchmode-actions =
     .label = Oberoù
 urlbar-searchmode-exit-button =
     .tooltiptext = Serriñ
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = Ar wech-mañ, klask gant:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Arventennoù enklask

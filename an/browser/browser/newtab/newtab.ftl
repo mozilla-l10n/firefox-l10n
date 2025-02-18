@@ -213,7 +213,10 @@ newtab-error-fallback-refresh-link = Refrescar la pachina pa tornar-lo a intenta
 ## Abstract
 
 
-## Photographs
+## Celestial
+
+
+## Celestial
 
 
 ## New Tab Weather

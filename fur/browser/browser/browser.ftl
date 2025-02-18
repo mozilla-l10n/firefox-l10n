@@ -699,6 +699,8 @@ urlbar-searchmode-actions =
     .label = Azions
 urlbar-searchmode-exit-button =
     .tooltiptext = Siere
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = Cheste volte cîr cun:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Impostazions ricercje

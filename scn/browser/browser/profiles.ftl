@@ -15,3 +15,6 @@ delete-profile-bookmarks = Nzingalibbra
 
 ## Alternative text for default profile icons
 
+
+## Labels for default avatar icons
+

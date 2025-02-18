@@ -701,6 +701,8 @@ urlbar-searchmode-actions =
     .label = Aðgerðir
 urlbar-searchmode-exit-button =
     .tooltiptext = Loka
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = Að þessu sinni leita með:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Leitarstillingar

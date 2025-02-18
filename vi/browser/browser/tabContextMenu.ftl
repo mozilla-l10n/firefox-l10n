@@ -84,10 +84,6 @@ tab-context-close-duplicate-tabs =
 tab-context-share-url =
     .label = Chia sẻ
     .accesskey = h
-tab-context-enable-vertical-tabs =
-    .label = Bật thẻ dọc
-tab-context-disable-vertical-tabs =
-    .label = Tắt thẻ dọc
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
 tab-context-new-tab-open =
     .label = Thẻ mới bên phải

@@ -623,6 +623,8 @@ urlbar-searchmode-actions =
     .label = പ്രവര്‍ത്തികൾ
 urlbar-searchmode-exit-button =
     .tooltiptext = അടയ്ക്കുക
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = ഈ വട്ടം, ഇതുപയോഗിച്ച് തിരയുക:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = തിരച്ചിൽ ക്രമീകരണങ്ങൾ

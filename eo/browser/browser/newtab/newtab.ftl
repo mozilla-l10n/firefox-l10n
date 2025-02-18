@@ -356,7 +356,7 @@ newtab-wallpaper-abstract-orange = Oranĝaj formoj
 newtab-wallpaper-gradient-orange = Gamo oranĝa kaj roza
 newtab-wallpaper-abstract-blue-purple = Bluaj kaj purpuraj formoj
 
-## Photographs
+## Celestial
 
 newtab-wallpaper-category-title-photographs = Fotoj
 newtab-wallpaper-beach-at-sunrise = Strando dum suneliro
@@ -379,6 +379,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Celestial
+
 
 ## New Tab Weather
 

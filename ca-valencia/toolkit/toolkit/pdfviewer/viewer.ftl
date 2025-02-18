@@ -300,3 +300,12 @@ pdfjs-web-fonts-disabled = Els tipus de lletra web estan desactivats: no es pode
 
 ## Dialog buttons
 
+
+## Main menu for adding/removing signatures
+
+
+## Editor toolbar
+
+
+## Edit signature description dialog
+

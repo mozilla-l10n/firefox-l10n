@@ -84,10 +84,6 @@ tab-context-close-duplicate-tabs =
 tab-context-share-url =
     .label = Ndajeni me të tjerët
     .accesskey = N
-tab-context-enable-vertical-tabs =
-    .label = Aktivizo Skeda Vertikale
-tab-context-disable-vertical-tabs =
-    .label = Çaktivizo Skeda Vertikale
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
 tab-context-new-tab-open =
     .label = Skedë e re Djathtas

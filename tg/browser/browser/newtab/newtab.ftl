@@ -358,7 +358,7 @@ newtab-wallpaper-abstract-orange = Шаклҳои норинҷӣ
 newtab-wallpaper-gradient-orange = Тағйирёбии норинҷӣ ва голубӣ
 newtab-wallpaper-abstract-blue-purple = Шаклҳои кабуд ва норинҷӣ
 
-## Photographs
+## Celestial
 
 newtab-wallpaper-category-title-photographs = Суратҳо
 newtab-wallpaper-beach-at-sunrise = Соҳил дар тулӯи офтоб
@@ -381,6 +381,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Celestial
+
 
 ## New Tab Weather
 

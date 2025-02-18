@@ -361,7 +361,7 @@ newtab-wallpaper-abstract-orange = Аранжавыя формы
 newtab-wallpaper-gradient-orange = Градыент аранжавага і ружовага
 newtab-wallpaper-abstract-blue-purple = Сінія і фіялетавыя формы
 
-## Photographs
+## Celestial
 
 newtab-wallpaper-category-title-photographs = Фатаграфіі
 newtab-wallpaper-beach-at-sunrise = Пляж на ўсходзе сонца
@@ -384,6 +384,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Celestial
+
 
 ## New Tab Weather
 

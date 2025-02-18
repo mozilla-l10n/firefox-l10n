@@ -161,7 +161,10 @@ newtab-pocket-cta-button = { -pocket-brand-name } ಪಡೆಯಿರಿ
 ## Abstract
 
 
-## Photographs
+## Celestial
+
+
+## Celestial
 
 
 ## New Tab Weather

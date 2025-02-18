@@ -89,7 +89,10 @@ newtab-topsites-cancel-button = Anular
 ## Abstract
 
 
-## Photographs
+## Celestial
+
+
+## Celestial
 
 
 ## New Tab Weather

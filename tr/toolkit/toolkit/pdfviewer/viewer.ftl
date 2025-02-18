@@ -569,3 +569,12 @@ pdfjs-editor-add-signature-error-close-button = Kapat
 
 pdfjs-editor-add-signature-cancel-button = Vazgeç
 pdfjs-editor-add-signature-add-button = Ekle
+
+## Main menu for adding/removing signatures
+
+
+## Editor toolbar
+
+
+## Edit signature description dialog
+

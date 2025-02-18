@@ -546,3 +546,12 @@ pdfjs-editor-add-signature-draw-thickness-range-label = Grossezza
 
 ## Dialog buttons
 
+
+## Main menu for adding/removing signatures
+
+
+## Editor toolbar
+
+
+## Edit signature description dialog
+

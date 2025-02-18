@@ -158,7 +158,10 @@ newtab-custom-settings = Bainistigh tuilleadh socruithe
 ## Abstract
 
 
-## Photographs
+## Celestial
+
+
+## Celestial
 
 
 ## New Tab Weather

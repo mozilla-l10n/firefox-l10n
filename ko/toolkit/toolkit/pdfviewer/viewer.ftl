@@ -558,3 +558,12 @@ pdfjs-editor-add-signature-error-close-button = 닫기
 
 pdfjs-editor-add-signature-cancel-button = 취소
 pdfjs-editor-add-signature-add-button = 추가
+
+## Main menu for adding/removing signatures
+
+
+## Editor toolbar
+
+
+## Edit signature description dialog
+

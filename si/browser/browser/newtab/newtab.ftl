@@ -277,7 +277,7 @@ newtab-wallpaper-red = රතු
 ## Abstract
 
 
-## Photographs
+## Celestial
 
 newtab-wallpaper-feature-highlight-button = තේරුණා
 # Tooltip for dismiss button
@@ -287,6 +287,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Celestial
+
 
 ## New Tab Weather
 

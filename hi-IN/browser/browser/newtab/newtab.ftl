@@ -229,11 +229,14 @@ newtab-wallpaper-brown = भूरा
 ## Abstract
 
 
-## Photographs
+## Celestial
 
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Celestial
+
 
 ## New Tab Weather
 

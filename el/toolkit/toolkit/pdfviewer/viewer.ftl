@@ -570,3 +570,12 @@ pdfjs-editor-add-signature-error-close-button = Κλείσιμο
 
 pdfjs-editor-add-signature-cancel-button = Ακύρωση
 pdfjs-editor-add-signature-add-button = Προσθήκη
+
+## Main menu for adding/removing signatures
+
+
+## Editor toolbar
+
+
+## Edit signature description dialog
+

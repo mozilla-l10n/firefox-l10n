@@ -359,7 +359,7 @@ newtab-wallpaper-abstract-orange = Hình dạng màu cam
 newtab-wallpaper-gradient-orange = Gradient màu cam và màu hồng
 newtab-wallpaper-abstract-blue-purple = Hình dạng màu xanh dương và màu tím
 
-## Photographs
+## Celestial
 
 newtab-wallpaper-category-title-photographs = Hình ảnh
 newtab-wallpaper-beach-at-sunrise = Bãi biển lúc bình minh
@@ -382,6 +382,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Celestial
+
 
 ## New Tab Weather
 

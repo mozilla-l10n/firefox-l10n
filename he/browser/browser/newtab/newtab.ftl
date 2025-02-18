@@ -354,7 +354,7 @@ newtab-wallpaper-abstract-orange = צורות כתומות
 newtab-wallpaper-gradient-orange = מעברי צבע כתום וורוד
 newtab-wallpaper-abstract-blue-purple = צורות כחולות וסגולות
 
-## Photographs
+## Celestial
 
 newtab-wallpaper-category-title-photographs = תצלומים
 newtab-wallpaper-beach-at-sunrise = זריחה בחוף הים
@@ -377,6 +377,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Celestial
+
 
 ## New Tab Weather
 

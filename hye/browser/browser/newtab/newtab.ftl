@@ -274,7 +274,10 @@ newtab-custom-settings = Կառավարէք աւելի շատ կարգաւորո
 ## Abstract
 
 
-## Photographs
+## Celestial
+
+
+## Celestial
 
 
 ## New Tab Weather

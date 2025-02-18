@@ -101,7 +101,10 @@ newtab-error-fallback-refresh-link = Verfris bladsy om weer te probeer.
 ## Abstract
 
 
-## Photographs
+## Celestial
+
+
+## Celestial
 
 
 ## New Tab Weather

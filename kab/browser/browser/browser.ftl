@@ -631,6 +631,8 @@ urlbar-searchmode-actions =
     .label = Tigawin
 urlbar-searchmode-exit-button =
     .tooltiptext = Mdel
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = Tikkelt-a, nadi s:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Iɣewwaren n unadi

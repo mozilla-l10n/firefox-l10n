@@ -271,7 +271,10 @@ newtab-custom-settings = Inksze nasztalowania
 ## Abstract
 
 
-## Photographs
+## Celestial
+
+
+## Celestial
 
 
 ## New Tab Weather

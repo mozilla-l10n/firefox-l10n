@@ -99,3 +99,12 @@ pdfjs-print-progress-close-button = Ŕput
 
 ## Dialog buttons
 
+
+## Main menu for adding/removing signatures
+
+
+## Editor toolbar
+
+
+## Edit signature description dialog
+

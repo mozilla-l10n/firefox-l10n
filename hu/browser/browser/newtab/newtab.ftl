@@ -360,7 +360,7 @@ newtab-wallpaper-abstract-orange = Narancssárga alakzatok
 newtab-wallpaper-gradient-orange = Narancssárga és rózsaszín átmenet
 newtab-wallpaper-abstract-blue-purple = Kék és lila alakzatok
 
-## Photographs
+## Celestial
 
 newtab-wallpaper-category-title-photographs = Fényképek
 newtab-wallpaper-beach-at-sunrise = Strand napkeltekor
@@ -383,6 +383,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Celestial
+
 
 ## New Tab Weather
 

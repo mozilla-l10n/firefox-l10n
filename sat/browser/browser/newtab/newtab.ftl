@@ -353,7 +353,7 @@ newtab-wallpaper-abstract-orange = ᱞᱮᱢᱵᱚ ᱜᱚᱲᱦᱚᱱ
 newtab-wallpaper-gradient-orange = ᱜᱽᱨᱮᱰᱤᱭᱮᱱᱴ ᱞᱮᱢᱵᱚ ᱟᱨ ᱜᱩᱞᱟᱯᱤ
 newtab-wallpaper-abstract-blue-purple = ᱞᱤᱞ ᱟᱨ ᱵᱮᱝᱜᱩᱱᱤ ᱜᱚᱲᱦᱚᱱ
 
-## Photographs
+## Celestial
 
 newtab-wallpaper-category-title-photographs = ᱯᱷᱳᱴᱳᱜᱽᱨᱟᱯᱷ
 newtab-wallpaper-beach-at-sunrise = ᱥᱤᱛᱩᱝ ᱩᱰᱩᱝ ᱨᱮ ᱫᱚᱨᱭᱟ ᱟᱲᱮ
@@ -376,6 +376,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Celestial
+
 
 ## New Tab Weather
 

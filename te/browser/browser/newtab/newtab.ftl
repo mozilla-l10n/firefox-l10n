@@ -275,12 +275,15 @@ newtab-wallpaper-dark-green = ముదురాకుపచ్చ
 ## Abstract
 
 
-## Photographs
+## Celestial
 
 newtab-wallpaper-category-title-photographs = ఛాయాచిత్రాలు
 newtab-wallpaper-beach-at-sunrise = ఉషాతీరం
 newtab-wallpaper-beach-at-sunset = సంధ్యాతీరం
 newtab-wallpaper-feature-highlight-button = అర్థమైంది
+
+## Celestial
+
 
 ## New Tab Weather
 

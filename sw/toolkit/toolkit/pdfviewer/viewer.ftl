@@ -167,3 +167,12 @@ pdfjs-web-fonts-disabled = Fonti za tovuti zimelemazwa: haziwezi kutumia fonti z
 
 ## Dialog buttons
 
+
+## Main menu for adding/removing signatures
+
+
+## Editor toolbar
+
+
+## Edit signature description dialog
+

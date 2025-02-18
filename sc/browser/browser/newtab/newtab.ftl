@@ -357,7 +357,7 @@ newtab-wallpaper-abstract-orange = Formas arantzu
 newtab-wallpaper-gradient-orange = Gradatzione dae arantzu a rosa
 newtab-wallpaper-abstract-blue-purple = Formas asulas e tanadas
 
-## Photographs
+## Celestial
 
 newtab-wallpaper-category-title-photographs = Fotografias
 newtab-wallpaper-beach-at-sunrise = Ispiàgia in s'arbeschidòrgiu
@@ -380,6 +380,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Celestial
+
 
 ## New Tab Weather
 

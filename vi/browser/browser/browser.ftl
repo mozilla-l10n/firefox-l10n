@@ -694,6 +694,8 @@ urlbar-searchmode-actions =
     .label = Hành động
 urlbar-searchmode-exit-button =
     .tooltiptext = Đóng
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = Lần này, tìm kiếm với:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Cài đặt tìm kiếm

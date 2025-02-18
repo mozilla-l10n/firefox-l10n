@@ -216,7 +216,10 @@ newtab-error-fallback-refresh-link = Wultin hello ngoo ngam ennditde.
 ## Abstract
 
 
-## Photographs
+## Celestial
+
+
+## Celestial
 
 
 ## New Tab Weather

@@ -84,10 +84,6 @@ tab-context-close-duplicate-tabs =
 tab-context-share-url =
     .label = 共享
     .accesskey = h
-tab-context-enable-vertical-tabs =
-    .label = 开启垂直标签页
-tab-context-disable-vertical-tabs =
-    .label = 关闭垂直标签页
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
 tab-context-new-tab-open =
     .label = 在右侧新建标签页

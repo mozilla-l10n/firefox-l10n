@@ -709,6 +709,8 @@ urlbar-searchmode-actions =
     .label = Gnìomhan
 urlbar-searchmode-exit-button =
     .tooltiptext = Dùin
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = Dèan lorg leis na leanas an turas seo:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Roghainnean luirg

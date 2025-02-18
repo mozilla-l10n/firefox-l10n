@@ -209,7 +209,10 @@ newtab-custom-pocket-title = Consegiou da { -pocket-brand-name }
 ## Abstract
 
 
-## Photographs
+## Celestial
+
+
+## Celestial
 
 
 ## New Tab Weather

@@ -701,6 +701,8 @@ urlbar-searchmode-actions =
     .label = Ñemongu’e
 urlbar-searchmode-exit-button =
     .tooltiptext = Mboty
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = Ko’ág̃a eheka hendive:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Jehekaha ñemboheko

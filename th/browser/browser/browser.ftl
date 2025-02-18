@@ -694,6 +694,8 @@ urlbar-searchmode-actions =
     .label = การกระทำ
 urlbar-searchmode-exit-button =
     .tooltiptext = ปิด
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = ครั้งนี้ค้นหาด้วย:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = การตั้งค่าการค้นหา

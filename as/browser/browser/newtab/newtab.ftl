@@ -228,7 +228,10 @@ newtab-custom-close-button = বন্ধ কৰক
 ## Abstract
 
 
-## Photographs
+## Celestial
+
+
+## Celestial
 
 
 ## New Tab Weather

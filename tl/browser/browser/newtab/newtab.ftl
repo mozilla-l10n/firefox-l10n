@@ -255,7 +255,10 @@ newtab-custom-settings = Mamahala ng higit pang mga setting
 ## Abstract
 
 
-## Photographs
+## Celestial
+
+
+## Celestial
 
 
 ## New Tab Weather

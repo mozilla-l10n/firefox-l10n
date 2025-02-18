@@ -545,3 +545,12 @@ pdfjs-editor-add-signature-error-close-button = Жабу
 
 pdfjs-editor-add-signature-cancel-button = Бас тарту
 pdfjs-editor-add-signature-add-button = Қосу
+
+## Main menu for adding/removing signatures
+
+
+## Editor toolbar
+
+
+## Edit signature description dialog
+
