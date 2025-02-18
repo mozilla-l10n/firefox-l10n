@@ -27,8 +27,12 @@ original-profile-name = Originalny profil
 edit-profile-page-title = Profil wobźěłaś
 edit-profile-page-header = Wobźěłajśo swój profil
 edit-profile-page-profile-name-label = Profilowe mě
+edit-profile-page-theme-header-2 =
+    .label = Drastwa
 edit-profile-page-theme-header = Drastwa
 edit-profile-page-explore-themes = Wuslěźćo dalšne drastwy
+edit-profile-page-avatar-header-2 =
+    .label = Awatar
 edit-profile-page-avatar-header = Awatar
 edit-profile-page-delete-button =
     .label = Lašowaś
@@ -109,3 +113,6 @@ shopping-avatar-alt =
     .alt = Nakupowański wózyk
 star-avatar-alt =
     .alt = Gwězda
+
+## Labels for default avatar icons
+
