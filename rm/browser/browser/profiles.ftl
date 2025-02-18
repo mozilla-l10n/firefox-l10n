@@ -116,3 +116,9 @@ star-avatar-alt =
 
 ## Labels for default avatar icons
 
+book-avatar = Cudesch
+briefcase-avatar = Valischetta
+flower-avatar = Flur
+heart-avatar = Cor
+shopping-avatar = Charret da cumpras
+star-avatar = Staila
