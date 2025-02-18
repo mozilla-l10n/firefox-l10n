@@ -27,8 +27,12 @@ original-profile-name = Proffil gwreiddiol
 edit-profile-page-title = Golygu proffil
 edit-profile-page-header = Golygu eich proffil
 edit-profile-page-profile-name-label = Enw proffil
+edit-profile-page-theme-header-2 =
+    .label = Thema
 edit-profile-page-theme-header = Thema
 edit-profile-page-explore-themes = Edrych ar ragor o themâu
+edit-profile-page-avatar-header-2 =
+    .label = Afatar
 edit-profile-page-avatar-header = Afatar
 edit-profile-page-delete-button =
     .label = Dileu
@@ -109,3 +113,6 @@ shopping-avatar-alt =
     .alt = Cart siopa
 star-avatar-alt =
     .alt = Seren
+
+## Labels for default avatar icons
+
