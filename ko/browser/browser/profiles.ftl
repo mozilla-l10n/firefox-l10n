@@ -116,3 +116,9 @@ star-avatar-alt =
 
 ## Labels for default avatar icons
 
+book-avatar = 책
+briefcase-avatar = 서류 가방
+flower-avatar = 꽃
+heart-avatar = 하트
+shopping-avatar = 장바구니
+star-avatar = 별
