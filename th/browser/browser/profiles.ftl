@@ -116,3 +116,9 @@ star-avatar-alt =
 
 ## Labels for default avatar icons
 
+book-avatar = หนังสือ
+briefcase-avatar = กระเป๋าเอกสาร
+flower-avatar = ดอกไม้
+heart-avatar = หัวใจ
+shopping-avatar = รถเข็นซื้อของ
+star-avatar = ดาว
