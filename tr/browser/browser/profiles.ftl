@@ -116,3 +116,9 @@ star-avatar-alt =
 
 ## Labels for default avatar icons
 
+book-avatar = Kitap
+briefcase-avatar = Çanta
+flower-avatar = Çiçek
+heart-avatar = Kalp
+shopping-avatar = Alışveriş arabası
+star-avatar = Yıldız
