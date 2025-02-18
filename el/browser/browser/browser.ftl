@@ -699,6 +699,8 @@ urlbar-searchmode-actions =
 urlbar-searchmode-exit-button =
     .tooltiptext = Κλείσιμο
 urlbar-searchmode-popup-description = Αυτήν τη φορά αναζήτηση με:
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = Ρυθμίσεις αναζήτησης
 urlbar-searchmode-popup-search-settings = Ρυθμίσεις αναζήτησης
 # Searchmode Switcher button
 # Variables:
