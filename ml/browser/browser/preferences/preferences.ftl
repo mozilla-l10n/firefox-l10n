@@ -602,6 +602,10 @@ sync-engine-passwords =
     .label = രഹസ്യവാക്കുകൾ
     .tooltiptext = താങ്ങൾ കരുതിവച്ച രഹസ്യവാക്കുകൾ
     .accesskey = ര
+sync-engine-addresses =
+    .label = മേൽവിലാസങ്ങൾ
+    .tooltiptext = താങ്ങൾ കരുതിവച്ച മേൽവിലാസങ്ങൾ (ഉപരിഫലകം മാത്രം)
+    .accesskey = മ
 sync-engine-creditcards =
     .label = ക്രഡിറ്റ് കാർഡുകൾ
     .tooltiptext = പേര്, നമ്പർ, കാലാവധി
@@ -664,6 +668,10 @@ forms-master-pw-fips-desc = രഹസ്യവാക്കുമാറ്റം 
 
 ## Privacy section - Autofill
 
+autofill-addresses-checkbox = വിലാസങ്ങൾ കരുതവച്ചുിട്ടു് പൂരിപ്പിക്കുക
+    .accesskey = വ
+autofill-saved-addresses-button = കരുതിവച്ച വിലാസങ്ങൾ
+    .accesskey = വ
 
 ## Privacy Section - History
 
