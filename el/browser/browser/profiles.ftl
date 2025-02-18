@@ -116,3 +116,9 @@ star-avatar-alt =
 
 ## Labels for default avatar icons
 
+book-avatar = Βιβλίο
+briefcase-avatar = Χαρτοφύλακας
+flower-avatar = Λουλούδι
+heart-avatar = Καρδιά
+shopping-avatar = Καλάθι αγορών
+star-avatar = Αστέρι
