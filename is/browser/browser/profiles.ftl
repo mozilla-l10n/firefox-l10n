@@ -27,8 +27,12 @@ original-profile-name = Upprunalegt notkunarsnið
 edit-profile-page-title = Breyta notkunarsniði
 edit-profile-page-header = Breyttu notkunarsniðinu þínu
 edit-profile-page-profile-name-label = Heiti notkunarsniðs
+edit-profile-page-theme-header-2 =
+    .label = Þema
 edit-profile-page-theme-header = Þema
 edit-profile-page-explore-themes = Skoða fleiri þemu
+edit-profile-page-avatar-header-2 =
+    .label = Auðkennismynd
 edit-profile-page-avatar-header = Auðkennismynd
 edit-profile-page-delete-button =
     .label = Eyða
@@ -109,3 +113,6 @@ shopping-avatar-alt =
     .alt = Innkaupakarfa
 star-avatar-alt =
     .alt = Stjarna
+
+## Labels for default avatar icons
+
