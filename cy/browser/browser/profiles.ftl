@@ -116,3 +116,9 @@ star-avatar-alt =
 
 ## Labels for default avatar icons
 
+book-avatar = Llyfr
+briefcase-avatar = Bag Dogfennau
+flower-avatar = Blodyn
+heart-avatar = Calon
+shopping-avatar = Cart siopa
+star-avatar = Seren
