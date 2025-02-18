@@ -710,6 +710,8 @@ urlbar-searchmode-actions =
 urlbar-searchmode-exit-button =
     .tooltiptext = Zacyniś
 urlbar-searchmode-popup-description = Tenraz pytaś z:
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = Pytańske nastajenja
 urlbar-searchmode-popup-search-settings = Pytańske nastajenja
 # Searchmode Switcher button
 # Variables:
