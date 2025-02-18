@@ -74,6 +74,13 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = Ativar som do separador
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = Silenciar som do separador
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = Reproduzir separador
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -195,6 +202,18 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Ativar separador
 tabbrowser-manager-close-tab =
     .tooltiptext = Fechar separador
+# This is for tab groups that have been "saved and closed" (see tab-group-editor-action-save). It does
+# not include "deleted" tab groups (see tab-group-editor-action-delete).
+tabbrowser-manager-closed-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — Fechado
+tabbrowser-manager-current-window-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — Janela atual
+# "Show more" is for showing all open groups from other windows, as well as saved groups. Initially,
+# we only show up to six of these groups.
+tabbrowser-manager-tab-groups-show-more =
+    .label = Mostrar mais
 
 ## Tab Groups
 
@@ -206,6 +225,30 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Cancelar
     .accesskey = C
+tab-group-editor-color-selector =
+    .aria-label = Cor do grupo de separadores
+tab-group-editor-color-selector2-blue = Azul
+    .title = Azul
+tab-group-editor-color-selector2-purple = Roxo
+    .title = Roxo
+tab-group-editor-color-selector2-cyan = Ciano
+    .title = Ciano
+tab-group-editor-color-selector2-orange = Laranja
+    .title = Laranja
+tab-group-editor-color-selector2-yellow = Amarelo
+    .title = Amarelo
+tab-group-editor-color-selector2-pink = Rosa
+    .title = Rosa
+tab-group-editor-color-selector2-green = Verde
+    .title = Verde
+tab-group-editor-color-selector2-gray = Cinzento
+    .title = Cinzento
+tab-group-editor-color-selector2-red = Vermelho
+    .title = Vermelho
+# Variables:
+#  $tabGroupName (String): The name of the tab group. Defaults to the value
+#                          of tab-group-name-default.
+tab-group-description = { $tabGroupName } — Grupo de separadores
 tab-group-menu-header = Grupos de separadores
 tab-context-unnamed-group =
     .label = Grupo sem nome

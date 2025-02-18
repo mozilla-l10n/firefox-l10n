@@ -30,6 +30,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Reabrir separadores fechados
         }
     .accesskey = o
+toolbar-context-turn-on-vertical-tabs =
+    .label = Ativar separadores verticais
+toolbar-context-turn-off-vertical-tabs =
+    .label = Desativar separadores verticais
+toolbar-context-customize-sidebar =
+    .label = Personalizar barra lateral
 toolbar-context-menu-manage-extension =
     .label = Gerir extensão
     .accesskey = e
