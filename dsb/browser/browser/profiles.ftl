@@ -116,3 +116,9 @@ star-avatar-alt =
 
 ## Labels for default avatar icons
 
+book-avatar = Knigły
+briefcase-avatar = Listowka
+flower-avatar = Kwětk
+heart-avatar = Wutšoba
+shopping-avatar = Nakupowański wózyk
+star-avatar = Gwězda
