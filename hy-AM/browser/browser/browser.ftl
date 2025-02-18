@@ -628,6 +628,8 @@ urlbar-searchmode-actions =
 urlbar-searchmode-exit-button =
     .tooltiptext = Փակել
 urlbar-searchmode-popup-description = Այս անգամ որոնել հետևյալով՝
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = Որոնման կարգավորումներ
 urlbar-searchmode-popup-search-settings = Որոնման կարգավորումներ
 # Searchmode Switcher button
 # Variables:
