@@ -27,8 +27,12 @@ original-profile-name = Profilo original
 edit-profile-page-title = Rediger le profilo
 edit-profile-page-header = Redige tu profilo
 edit-profile-page-profile-name-label = Nomine del profilo
+edit-profile-page-theme-header-2 =
+    .label = Thema
 edit-profile-page-theme-header = Thema
 edit-profile-page-explore-themes = Explorar altere themas
+edit-profile-page-avatar-header-2 =
+    .label = Avatar
 edit-profile-page-avatar-header = Avatar
 edit-profile-page-delete-button =
     .label = Deler
@@ -109,3 +113,6 @@ shopping-avatar-alt =
     .alt = Carretta de compras
 star-avatar-alt =
     .alt = Stella
+
+## Labels for default avatar icons
+
