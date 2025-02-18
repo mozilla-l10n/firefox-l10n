@@ -66,10 +66,54 @@ tab-context-bookmark-tab =
 move-to-start =
     .label = ആരംഭത്തിലേക്ക് നീക്കുക
     .accesskey = S
+move-to-end =
+    .label = ഒടുവിലോട്ടു് നീക്കുക
+    .accesskey = ഒ
 move-to-new-window =
     .label = പുതിയ ജാലകത്തിലേക്ക് നീക്കുക
     .accesskey = W
+tab-context-share-url =
+    .label = പങ്കിടുക
+    .accesskey = പ
+tab-context-enable-vertical-tabs =
+    .label = കുത്തനെയായ ടാബുക്രമം തുടങ്ങിവയ്ക്കുക
+tab-context-disable-vertical-tabs =
+    .label = കുത്തനെയായ ടാബുക്രമം അണക്കുക
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
+tab-context-new-tab-open =
+    .label = വലത്തോട്ടു് പുതിയ ടാബു്
+    .accesskey = വ
+tab-context-new-tab-open-vertical =
+    .label = താഴെയൊരു പുതിയ ടാബു് തുറക്കുക
+    .accesskey = ത
+tab-context-new-group =
+    .label = പുതിയ കൂട്ടം
+    .accesskey = ക
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] അടച്ച ടാബുകളെ വീണ്ടും തുറക്കുക
+            [one] അടച്ച ടാബുകളെ വീണ്ടും തുറക്കുക
+           *[other] അടച്ച ടാബുകളെ വീണ്ടും തുറക്കുക
+        }
+    .accesskey = ത
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] { $tabCount } ടാബുകളെ അടയ്ക്കുക
+            [one] { $tabCount } ടാബുകളെ അടയ്ക്കുക
+           *[other] { $tabCount } ടാബുകളെ അടയ്ക്കുക
+        }
+    .accesskey = അ
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] ടാബിനെ നീക്കുക
+            [one] ടാബുകളെ നീക്കുക
+           *[other] ടാബുകളെ നീക്കുക
+        }
+    .accesskey = ട

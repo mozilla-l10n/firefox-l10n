@@ -30,7 +30,7 @@ genai-settings-chat-shortcuts =
 # Prompt purpose: help users understand what a selection covers at a glance
 genai-prompts-summarize =
     .label = Περίληψη
-    .value = Κάνε περίληψη της επιλογής με ακριβή και περιεκτική γλώσσα, χρήση κεφαλίδων και λιστών με κουκκίδες στην περίληψη για να υπάρχει δυνατότητα σάρωσης. Διατήρησε τη σημασία και την ακρίβεια των δεδομένων.
+    .value = Κάνε περίληψη της επιλογής με ακριβή και περιεκτική γλώσσα, χρήση κεφαλίδων και λιστών με κουκκίδες στην περίληψη για να υπάρχει δυνατότητα σάρωσης. Διατήρησε το νόημα και την ακρίβεια των πληροφοριών.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = Απλοποίηση γλώσσας
@@ -43,6 +43,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = Εξήγησε αυτό
     .value = Εξήγησε τις βασικές ιδέες αυτής της επιλογής με απλές λέξεις και χρήση παραδειγμάτων.
+# Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
+genai-prompts-proofread =
+    .label = Έλεγχος κειμένου
+    .value = Έλεγξε το κείμενο για τυχόν ορθογραφικά και γραμματικά λάθη. Διατήρησε το νόημα και την ακρίβεια των πληροφοριών. Παρουσίασε πρώτα τη λίστα των διορθώσεων και στη συνέχεια, την τελική διορθωμένη εκδοχή του κειμένου.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
