@@ -24,8 +24,12 @@ original-profile-name = Почетни профил
 edit-profile-page-title = Уреди профил
 edit-profile-page-header = Уредите ваш профил
 edit-profile-page-profile-name-label = Име профила
+edit-profile-page-theme-header-2 =
+    .label = Тема
 edit-profile-page-theme-header = Тема
 edit-profile-page-explore-themes = Истражите више тема
+edit-profile-page-avatar-header-2 =
+    .label = Аватар
 edit-profile-page-avatar-header = Аватар
 edit-profile-page-delete-button =
     .label = Обриши
@@ -90,4 +94,7 @@ profiles-dark-theme = Тамна
 profiles-system-theme = Системска
 
 ## Alternative text for default profile icons
+
+
+## Labels for default avatar icons
 
