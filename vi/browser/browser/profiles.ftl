@@ -116,3 +116,9 @@ star-avatar-alt =
 
 ## Labels for default avatar icons
 
+book-avatar = Sách
+briefcase-avatar = Cặp tài liệu
+flower-avatar = Hoa
+heart-avatar = Trái tim
+shopping-avatar = Giỏ hàng
+star-avatar = Dấu sao
