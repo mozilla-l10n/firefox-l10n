@@ -27,8 +27,12 @@ original-profile-name = Profil original
 edit-profile-page-title = Modifitgar il profil
 edit-profile-page-header = Modifitgescha tes profil
 edit-profile-page-profile-name-label = Num dal profil
+edit-profile-page-theme-header-2 =
+    .label = Design
 edit-profile-page-theme-header = Design
 edit-profile-page-explore-themes = Scuvra ulteriurs designs
+edit-profile-page-avatar-header-2 =
+    .label = Avatar
 edit-profile-page-avatar-header = Avatar
 edit-profile-page-delete-button =
     .label = Stizzar
@@ -109,3 +113,6 @@ shopping-avatar-alt =
     .alt = Charret da cumpras
 star-avatar-alt =
     .alt = Staila
+
+## Labels for default avatar icons
+
