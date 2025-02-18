@@ -96,7 +96,18 @@ sidebar-genai-survey-productive-question =
     Σε ποιο βαθμό συμφωνείτε ή διαφωνείτε με αυτήν τη δήλωση:<br/>
     «Με βοηθά το chatbot ΤΝ στην πλαϊνή γραμμή να είμαι πιο παραγωγικός/-ή»;
 unified-search-callout-title = Εναλλαγή μεταξύ μηχανών αναζήτησης
+unified-search-callout-subtitle = Επιλέξτε αυτή που λειτουργεί καλύτερα για τη συγκεκριμένη αναζήτηση.
 unified-search-callout-primary-label = Επόμενο
 unified-search-callout-secondary-label = Απόρριψη
 unified-search-engines-callout-title = Αναζήτηση με συντόμευση
+unified-search-engines-callout-subtitle = Πληκτρολογήστε «@» και έπειτα, μια λέξη-κλειδί για να κάνετε αναζήτηση στο ιστορικό, τους σελιδοδείκτες, τις καρτέλες ή με κάποια άλλη μηχανή αναζήτησης.
 unified-search-engines-callout-primary-label = Το κατάλαβα
+actions-callout-title = Ολοκληρώστε κοινές εργασίες ή αποκτήστε πρόσβαση σε βασικές ρυθμίσεις
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearhistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = Δοκιμάστε να πληκτρολογήστε «εκτύπωση» για να εκτυπώσετε μια σελίδα ή «απαλοιφή» για να διαγράψετε το ιστορικό σας.

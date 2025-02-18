@@ -395,6 +395,8 @@ onboarding-many-tabs-title = Οι καρτέλες σας, με τον δικό 
 onboarding-many-tabs-subtitle = Έχετε πολλές ανοικτές καρτέλες; Δοκιμάστε να τις τοποθετήσετε στο πλάι για μια πιο απλοποιημένη προβολή. Ή διατηρήστε τον κλασικό τρόπο εμφάνισης με τις καρτέλες στο πάνω μέρος. Κάντε εναλλαγή ανά πάσα στιγμή.
 # Setup screen for vertical tabs - focused variation
 onboarding-focused-tabs-title = Επιλέξτε τη διάταξη καρτελών σας
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Για μια πιο απλοποιημένη προβολή που μπορεί να σας βοηθήσει να παραμείνετε συγκεντρωμένοι, δοκιμάστε τις καρτέλες σας στο πλάι. Ή διατηρήστε την κλασική προβολή με τις καρτέλες στο πάνω μέρος. Μπορείτε να κάνετε εναλλαγή ανά πάσα στιγμή.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Καρτέλες στο πλάι
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -442,7 +444,10 @@ onboarding-checklist-sign-up = Εγγραφή ή σύνδεση σε λογαρ�
 ## Tab Groups feature onboarding strings
 
 tab-groups-onboarding-feature-callout-title = Δοκιμάστε τις ομάδες καρτελών για λιγότερη ακαταστασία, περισσότερη συγκέντρωση
+tab-groups-onboarding-feature-callout-subtitle = Οργανωθείτε σύροντας μια καρτέλα πάνω σε κάποια άλλη για να δημιουργήσετε την πρώτη σας ομάδα.
+tab-groups-onboarding-create-group-title = Βρείτε τις ανοικτές σας ομάδες στη γραμμή καρτελών ή κάνοντας αναζήτηση στη γραμμή διευθύνσεων.
 tab-groups-onboarding-saved-groups-title = Αν κλείσετε μια ομάδα καρτελών, μπορείτε να την ανοίξετε ξανά εδώ ανά πάσα στιγμή.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title = Βρείτε τις ανοικτές ή τις κλειστές ομάδες καρτελών σας ανά πάσα στιγμή κάνοντας αναζήτηση στη γραμμή διευθύνσεων.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages
@@ -455,6 +460,8 @@ multi-profile-callout-cta = Δημιουργία προφίλ
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = Λήψη, συγχρονισμός και φύγαμε!
 # The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
 desktop-to-mobile-subtitle = Σαρώστε τον κωδικό QR για να κάνετε λήψη του { -brand-product-name } για κινητές συσκευές. Μόλις ολοκληρωθεί η εγκατάσταση, επιλέξτε «Συγχρονισμός με κινητή συσκευή» για να αποκτήσετε πρόσβαση σε κωδικούς πρόσβασης, σελιδοδείκτες και πολλά άλλα, εν κινήσει.
 dismiss-button-label = Απόρριψη
