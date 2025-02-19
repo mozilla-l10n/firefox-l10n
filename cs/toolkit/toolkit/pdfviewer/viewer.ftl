@@ -531,9 +531,13 @@ pdfjs-editor-undo-bar-close-button-label = Zavřít
 
 ## Controls
 
+pdfjs-editor-add-signature-error-close-button = Zavřít
 
 ## Dialog buttons
 
+pdfjs-editor-add-signature-cancel-button = Zrušit
+pdfjs-editor-add-signature-add-button = Přidat
+pdfjs-editor-edit-signature-update-button = Aktualizovat
 
 ## Main menu for adding/removing signatures
 
