@@ -406,6 +406,11 @@ feature-highlight-wallpaper =
 # Not to be confused with religious definition of the word.
 newtab-wallpaper-category-title-celestial = 천문
 newtab-wallpaper-celestial-lunar-eclipse = 월식
+newtab-wallpaper-celestial-earth-night = 지구 저궤도에서 본 야간 사진
+newtab-wallpaper-celestial-starry-sky = 별이 빛나는 하늘
+newtab-wallpaper-celestial-eclipse-time-lapse = 월식 타임 랩스
+newtab-wallpaper-celestial-black-hole = 블랙홀 은하 일러스트
+newtab-wallpaper-celestial-river = 강의 인공위성 이미지
 
 ## New Tab Weather
 
@@ -501,13 +506,22 @@ newtab-section-confirm-block-section-p1 = 정말로 이 섹션을 차단하시�
 newtab-section-confirm-block-section-p2 = 차단된 섹션은 더 이상 피드에 나타나지 않습니다.
 newtab-section-block-section-button = 이 섹션 차단
 newtab-section-cancel-button = 나중에
+newtab-section-confirm-block-topic-p1 = 정말로 이 주제를 차단하시겠습니까?
+newtab-section-confirm-block-topic-p2 = 차단된 주제는 더 이상 피드에 나타나지 않습니다.
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = { $topic } 차단
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = 주제
+newtab-section-manage-topics-button-v2 =
+    .label = 주제 관리
+newtab-section-mangage-topics-followed-topics = 팔로우됨
 newtab-section-mangage-topics-button =
     .label = 팔로우 및 차단한 주제
 newtab-section-mangage-topics-followed-topics-subtitle = 팔로우한 주제
 newtab-section-mangage-topics-followed-topics-empty-state = 아직 주제를 팔로우하지 않았습니다.
+newtab-section-mangage-topics-blocked-topics = 차단됨
 newtab-section-mangage-topics-blocked-topics-subtitle = 차단한 주제
 newtab-section-mangage-topics-blocked-topics-empty-state = 아직 주제를 차단하지 않았습니다.
