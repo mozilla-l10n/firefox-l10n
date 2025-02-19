@@ -19,3 +19,7 @@ all-tabs-menu-close-all-duplicate-tabs =
 all-tabs-menu-synced-tabs =
     .label = Schedas ab altere apparatos
 all-tabs-menu-current-window-header = Fenestra actual
+# "Show all" is for showing all open groups as well as saved groups. Initially,
+# we only show up to five of these groups.
+all-tabs-menu-tab-groups-show-all =
+    .label = Monstrar toto
