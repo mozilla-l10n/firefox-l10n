@@ -405,7 +405,7 @@ feature-highlight-wallpaper =
 # Not to be confused with religious definition of the word.
 newtab-wallpaper-category-title-celestial = Njebjeski
 newtab-wallpaper-celestial-lunar-eclipse = Zaćmiće měsačka
-newtab-wallpaper-celestial-earth-night = Nócne foto ze zemskeho orbita
+newtab-wallpaper-celestial-earth-night = Nócne foto z delnjeho zemskeho orbita
 newtab-wallpaper-celestial-starry-sky = Hwězdne njebjo
 newtab-wallpaper-celestial-eclipse-time-lapse = Časowy wotběh zaćmića měsačka
 newtab-wallpaper-celestial-black-hole = Zwobraznjenje galaksije z čornej dźěru
