@@ -149,6 +149,7 @@ preferences-data-migration-button =
     .label = 匯入資料
     .accesskey = m
 preferences-profiles-header = 設定檔
+preferences-manage-profiles-description = 每套設定檔的上網資料與設定（包含瀏覽紀錄、網頁密碼等等）各自獨立，不互相影響。
 preferences-manage-profiles-learn-more = 更多資訊
 preferences-manage-profiles-button =
     .label = 管理設定檔

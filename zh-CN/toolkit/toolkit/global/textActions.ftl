@@ -73,3 +73,7 @@ text-action-search-text-box-clear =
     .title = 清空
 text-action-highlight-selection =
     .label = 高亮选中部分
+# If the page has been loaded with a text fragment and text is
+# visibly highlighted, this removes any highlighted sections on the page.
+text-action-remove-all-highlights =
+    .label = 移除所有高亮
