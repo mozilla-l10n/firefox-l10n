@@ -379,8 +379,11 @@ newtab-wallpaper-storm-sky = Ουρανός με καταιγίδα
 newtab-wallpaper-sky-with-pink-clouds = Ουρανός με ροζ σύννεφα
 newtab-wallpaper-red-panda-yawns-in-a-tree = Κόκκινο πάντα που χασμουριέται σε ένα δέντρο
 newtab-wallpaper-white-mountains = Λευκά βουνά
+newtab-wallpaper-hot-air-balloons = Αερόστατα διάφορων χρωμάτων στο φως της ημέρας
 newtab-wallpaper-starry-canyon = Μπλε έναστρη νύχτα
+newtab-wallpaper-suspension-bridge = Γκρι φωτογραφία με μια κρεμαστή γέφυρα κατά τη διάρκεια της ημέρας
 newtab-wallpaper-sand-dunes = Λευκοί αμμόλοφοι
+newtab-wallpaper-palm-trees = Φιγούρες κοκοφοινίκων κατά τη «χρυσή ώρα»
 newtab-wallpaper-forest-trees = Δέντρα που καλύπτονται από ομίχλη
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
@@ -399,8 +402,15 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Ουράνια
 newtab-wallpaper-celestial-lunar-eclipse = Έκλειψη Σελήνης
+newtab-wallpaper-celestial-earth-night = Νυχτερινή φωτογραφία από τη χαμηλή τροχιά της Γης
 newtab-wallpaper-celestial-starry-sky = Έναστρος ουρανός
+newtab-wallpaper-celestial-eclipse-time-lapse = Έκλειψη Σελήνης σε βαθμιαία παρέλευση χρόνου
+newtab-wallpaper-celestial-black-hole = Εικονογράφηση γαλαξία με μια μαύρη τρύπα
 newtab-wallpaper-celestial-river = Δορυφορική εικόνα ποταμού
 
 ## New Tab Weather
