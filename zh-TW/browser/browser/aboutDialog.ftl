@@ -51,6 +51,8 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } 是由 <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label> 所開發的產品。Mozilla 是個<label data-l10n-name="community-creditsLink">全球性社群</label>。我們一起努力讓網路保持開放，任誰都可隨意使用。
 helpus = 想幫忙嗎？<label data-l10n-name="helpus-donateLink">捐款給我們</label>或<label data-l10n-name="helpus-getInvolvedLink">出力參與！</label>
 bottomLinks-license = 授權資訊
+bottom-links-terms = 使用條款
+bottom-links-privacy = 隱私權公告
 bottomLinks-rights = 使用者權利
 bottomLinks-privacy = 隱私權保護政策
 # Example of resulting string: 66.0.1 (64-bit)

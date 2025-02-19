@@ -451,3 +451,5 @@ desktop-to-mobile-headline = 下载，同步——走起！
 desktop-to-mobile-subtitle = 扫码下载移动版 { -brand-product-name }。安装后选择“同步到移动设备”，即可将密码、书签等数据随身带着走。
 dismiss-button-label = 知道了
 sync-to-mobile-button-label = 同步到移动设备
+desktop-to-mobile-qr-code-alt =
+    .aria-label = 用于下载移动版 { -brand-product-name } 的二维码

@@ -310,6 +310,12 @@ newtab-custom-settings = ניהול הגדרות נוספות
 
 newtab-wallpaper-title = תמונות רקע
 newtab-wallpaper-reset = איפוס לברירת מחדל
+newtab-wallpaper-upload-image = העלאת תמונה
+newtab-wallpaper-custom-color = בחירת צבע
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = התמונה חרגה ממגבלת גודל הקובץ של { $file_size } מ״ב. נא לנסות להעלות קובץ קטן יותר.
+newtab-wallpaper-error-file-type = לא הצלחנו להעלות את הקובץ שלך. נא לנסות שוב עם סוג קובץ אחר.
 newtab-wallpaper-light-red-panda = פנדה אדומה
 newtab-wallpaper-light-mountain = הר לבן
 newtab-wallpaper-light-sky = שמיים עם עננים סגולים וורודים
@@ -353,6 +359,8 @@ newtab-wallpaper-abstract-purple = צורות סגולות
 newtab-wallpaper-abstract-orange = צורות כתומות
 newtab-wallpaper-gradient-orange = מעברי צבע כתום וורוד
 newtab-wallpaper-abstract-blue-purple = צורות כחולות וסגולות
+newtab-wallpaper-abstract-white-curves = לבן עם קימורים מוצללים
+newtab-wallpaper-abstract-purple-green = שיפוע אור סגול וירוק
 
 ## Celestial
 

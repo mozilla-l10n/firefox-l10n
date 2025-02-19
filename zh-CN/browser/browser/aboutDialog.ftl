@@ -51,6 +51,8 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } 诞生于 <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>。我们是一个<label data-l10n-name="community-creditsLink">全球社区</label>，携手致力于让互联网保持开放、公开且人人可用。
 helpus = 想支持我们吗？<label data-l10n-name="helpus-donateLink">向我们捐款</label>或者<label data-l10n-name="helpus-getInvolvedLink">参与进来</label>！
 bottomLinks-license = 许可信息
+bottom-links-terms = 使用条款
+bottom-links-privacy = 隐私声明
 bottomLinks-rights = 最终用户权利
 bottomLinks-privacy = 隐私政策
 # Example of resulting string: 66.0.1 (64-bit)

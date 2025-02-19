@@ -19,3 +19,7 @@ all-tabs-menu-close-all-duplicate-tabs =
 all-tabs-menu-synced-tabs =
     .label = 來自其他裝置的分頁
 all-tabs-menu-current-window-header = 目前視窗
+# "Show all" is for showing all open groups as well as saved groups. Initially,
+# we only show up to five of these groups.
+all-tabs-menu-tab-groups-show-all =
+    .label = 顯示全部

@@ -311,6 +311,12 @@ newtab-custom-settings = 管理更多设置
 
 newtab-wallpaper-title = 壁纸
 newtab-wallpaper-reset = 重置为默认设置
+newtab-wallpaper-upload-image = 上传图像
+newtab-wallpaper-custom-color = 选择颜色
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = 图像超出文件大小上限（{ $file_size }MB），请尝试上传较小的文件。
+newtab-wallpaper-error-file-type = 无法上传文件，请尝试使用其他文件类型。
 newtab-wallpaper-light-red-panda = 小熊猫
 newtab-wallpaper-light-mountain = 白山山脉
 newtab-wallpaper-light-sky = 漂浮着粉紫色云的天空
@@ -381,6 +387,8 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+newtab-wallpaper-celestial-lunar-eclipse = 月食
+newtab-wallpaper-celestial-starry-sky = 星空
 
 ## New Tab Weather
 
@@ -476,13 +484,22 @@ newtab-section-confirm-block-section-p1 = 确定要屏蔽此部分吗？
 newtab-section-confirm-block-section-p2 = 将不再向您推送被屏蔽的部分。
 newtab-section-block-section-button = 屏蔽此部分
 newtab-section-cancel-button = 暂时不要
+newtab-section-confirm-block-topic-p1 = 确定要屏蔽此主题吗？
+newtab-section-confirm-block-topic-p2 = 将不再向您推送被屏蔽的主题。
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = 屏蔽“{ $topic }”
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = 主题
+newtab-section-manage-topics-button-v2 =
+    .label = 管理主题
+newtab-section-mangage-topics-followed-topics = 已关注
 newtab-section-mangage-topics-button =
     .label = 关注和屏蔽的主题
 newtab-section-mangage-topics-followed-topics-subtitle = 关注的主题
 newtab-section-mangage-topics-followed-topics-empty-state = 没有已关注的主题。
+newtab-section-mangage-topics-blocked-topics = 已屏蔽
 newtab-section-mangage-topics-blocked-topics-subtitle = 屏蔽的主题
 newtab-section-mangage-topics-blocked-topics-empty-state = 没有已屏蔽的主题
