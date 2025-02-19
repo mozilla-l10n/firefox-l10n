@@ -316,6 +316,8 @@ newtab-custom-settings = Muokkaa lisää asetuksia
 
 newtab-wallpaper-title = Taustakuvat
 newtab-wallpaper-reset = Palauta oletusarvo
+newtab-wallpaper-upload-image = Lähetä kuva
+newtab-wallpaper-custom-color = Valitse väri
 newtab-wallpaper-light-red-panda = Kultapanda
 newtab-wallpaper-light-mountain = Valkoinen vuori
 newtab-wallpaper-light-sky = Taivas violettien ja vaaleanpunaisten pilvien kera
@@ -386,6 +388,8 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+newtab-wallpaper-celestial-starry-sky = Tähtitaivas
+newtab-wallpaper-celestial-river = Satelliittikuva joesta
 
 ## New Tab Weather
 
@@ -481,10 +485,17 @@ newtab-section-confirm-block-section-p1 = Haluatko varmasti estää tämän osio
 newtab-section-confirm-block-section-p2 = Estetty osio ei enää näy syötteessäsi.
 newtab-section-block-section-button = Estä tämä osio
 newtab-section-cancel-button = Ei nyt
+newtab-section-confirm-block-topic-p1 = Haluatko varmasti estää tämän aiheen?
+newtab-section-confirm-block-topic-p2 = Estetyt aiheet eivät enää näy syötteessäsi.
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = Estä { $topic }
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Aiheet
+newtab-section-manage-topics-button-v2 =
+    .label = Hallinnoi aiheita
 newtab-section-mangage-topics-button =
     .label = Seuratut ja estetyt aiheet
 newtab-section-mangage-topics-followed-topics-subtitle = Seuratut aiheet

@@ -51,6 +51,8 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } er hannað af <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, sem er <label data-l10n-name="community-creditsLink">samfélag</label> sem vinnur að því að gera vefinn opinn, frjálsan og aðgengilegan öllum.
 helpus = Viltu hjálpa? <label data-l10n-name="helpus-donateLink">Styrktu verkefnið</label> eða <label data-l10n-name="helpus-getInvolvedLink">taktu þátt!</label>
 bottomLinks-license = Notkunarleyfi
+bottom-links-terms = Notkunarskilmálar
+bottom-links-privacy = Meðferð persónuupplýsinga
 bottomLinks-rights = Réttindi notenda
 bottomLinks-privacy = Meðferð persónuupplýsinga
 # Example of resulting string: 66.0.1 (64-bit)

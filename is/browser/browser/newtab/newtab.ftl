@@ -316,6 +316,8 @@ newtab-custom-settings = Sýsla með fleiri stillingar
 
 newtab-wallpaper-title = Bakgrunnar
 newtab-wallpaper-reset = Endurstilla á sjálfgefið
+newtab-wallpaper-upload-image = Senda inn mynd
+newtab-wallpaper-custom-color = Veldu lit
 newtab-wallpaper-light-red-panda = Rauð panda
 newtab-wallpaper-light-mountain = Hvítt fjall
 newtab-wallpaper-light-sky = Himinn með fjólubláum og bleikum skýjum

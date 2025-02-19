@@ -316,6 +316,9 @@ pdfjs-highlight-floating-button1 =
     .title = Áherslulita
     .aria-label = Áherslulita
 pdfjs-highlight-floating-button-label = Áherslulita
+pdfjs-editor-signature-button =
+    .title = Bæta við undirritun
+pdfjs-editor-signature-button-label = Bæta við undirritun
 
 ## Remove button for the various kind of editor.
 
@@ -345,6 +348,9 @@ pdfjs-editor-stamp-add-image-button-label = Bæta við mynd
 pdfjs-editor-free-highlight-thickness-input = Þykkt
 pdfjs-editor-free-highlight-thickness-title =
     .title = Breyta þykkt við áherslulitun annarra atriða en texta
+pdfjs-editor-signature-add-signature-button =
+    .title = Bæta við nýrri undirritun
+pdfjs-editor-signature-add-signature-button-label = Bæta við nýrri undirritun
 # .default-content is used as a placeholder in an empty text editor.
 pdfjs-free-text2 =
     .aria-label = Textaritill
@@ -570,12 +576,18 @@ pdfjs-editor-add-signature-error-close-button = Loka
 
 pdfjs-editor-add-signature-cancel-button = Hætta við
 pdfjs-editor-add-signature-add-button = Bæta við
+pdfjs-editor-edit-signature-update-button = Uppfæra
 
 ## Main menu for adding/removing signatures
 
+pdfjs-editor-delete-signature-button =
+    .title = Fjarlægja undirritun
+pdfjs-editor-delete-signature-button-label = Fjarlægja undirritun
 
 ## Editor toolbar
 
+pdfjs-editor-add-signature-edit-button-label = Breyta lýsingu
 
 ## Edit signature description dialog
 
+pdfjs-editor-edit-signature-dialog-title = Breyta lýsingu
