@@ -32,12 +32,21 @@ genai-header-close-button =
 
 genai-onboarding-primary = തുടരുക
 genai-onboarding-secondary = അടയ്ക്കുക
+genai-onboarding-claude-learn = ക്ലൗടിനെ പറ്റി കൂടുകലറിയുക
+genai-onboarding-chatgpt-tooltip =
+    .title = ചാറ്റുജിപിട്ടി
+genai-onboarding-chatgpt-learn = ചാറ്റുജിപിട്ടിയെ പറ്റി കൂടുതലറിയുക
+genai-onboarding-select-header = നിൎദ്ദേശങ്ങൾ കാണാൻ വേണ്ടി പാഠം തിരഞ്ഞെടുക്കുക
 genai-onboarding-select-primary = നൎമ്മസല്ലാപം നടത്തുക
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
 genai-onboarding-claude-generate = സങ്കേതവും വാചകവും ഉൽപാദിപ്പിക്കുക
+genai-onboarding-claude-analyze = പ്രമാണങ്ങളുടെയും ചിത്രങ്ങളുടെയും വിശകലനം നടത്തുക
+genai-onboarding-chatgpt-generate = സങ്കേതവും ചിത്രങ്ങളും വാചകവും ഉൽപാദിപ്പിക്കുക
+genai-onboarding-chatgpt-analyze = പ്രമാണങ്ങളുടെയും ചിത്രങ്ങളുടെയും വിശകലനം നടത്തുക
+genai-onboarding-copilot-generate = സങ്കേതവും ചിത്രങ്ങളും വാചകവും ഉൽപാദിപ്പിക്കുക
 genai-onboarding-copilot-analyze = ചിത്രങ്ങളെ വിശകലിക്കുക
 genai-onboarding-gemini-generate = സങ്കേതവും ചിത്രങ്ങളും വാചകവും ഉൽപാദിപ്പിക്കുക
 genai-onboarding-gemini-analyze = ചിത്രങ്ങളും (സൗജന്യവും) രേഖകളും (പണമടച്ചത്) വിശകലിക്കുക

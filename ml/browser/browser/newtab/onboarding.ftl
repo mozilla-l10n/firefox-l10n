@@ -91,17 +91,35 @@ mr2-onboarding-start-browsing-button-label = തിരയാൻ തുടങ്�
 
 onboarding-live-language-header = ഭാഷ തിഞ്ഞെടുക്കുക
 mr2022-onboarding-live-language-text = { -brand-short-name } താങ്ങളുടെ ഭാഷയിൽ സംസാരിക്കാരുണ്ടു്.
+onboarding-live-language-waiting-button = ഉള്ള ഭാഷകൾ കൊണ്ടുവരുന്നു...
+mr2022-onboarding-live-language-switch-to = { $negotiatedLanguage }-ലോട്ടു് മാറുക
+mr2022-onboarding-live-language-continue-in = { $appLanguage }-ൽ തുടരുക
 onboarding-live-language-secondary-cancel-download = റദ്ദാക്കുക
 onboarding-live-language-skip-button-label = ഒഴിവാക്കുക
 
 ## Firefox 100 Thank You screens
 
+mr2022-onboarding-secondary-skip-button-label = ഈ പടി ഒഴിവാക്കുക
 
 ## MR2022 New User Easy Setup screen strings
 
+# Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
+mr2022-onboarding-easy-setup-primary-button-label = കരുതിവച്ചിട്ടു് തുടരുക
+# Set Default action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-set-default-checkbox-label = { -brand-short-name } തനിമിട്ടമാക്കി വയ്ക്കുക
+# Import action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-import-checkbox-label = മുമ്പത്തെ അന്വേഷിയന്ത്രം നിന്നു് ഇറക്കുമതി ചെയ്യുക
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] { -brand-short-name }-നെ കാര്യപ്പട്ടയിൽ കുത്തിവയ്ക്കുക
+       *[other] { -brand-short-name }-നെ കാര്യപ്പട്ടയിൽ കുത്തിവയ്ക്കുക
+    }
+# Primary button string used on welcome page for when Firefox is not pinned on MSIX
+mr2022-onboarding-pin-primary-button-label-msix = { -brand-short-name }-നെ കാര്യപ്പട്ടയിലും തുടക്കക്കുറിപ്പടിയിലും കുത്തിവയ്ക്കുക
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 

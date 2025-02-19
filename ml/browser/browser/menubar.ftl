@@ -74,6 +74,16 @@ menu-file-open-location =
 menu-file-open-file =
     .label = ഫയല്‍ തുറക്കുക...
     .accesskey = O
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
+menu-file-close-tab =
+    .label =
+        { $tabCount ->
+            [1] ടാബു് അടയ്ക്കുക
+            [one] { $tabCount } ടാബുകളെ അടയ്ക്കുക
+           *[other] { $tabCount } ടാബുകളെ അടയ്ക്കുക
+        }
+    .accesskey = അ
 menu-file-close-window =
     .label = ജാലകം അടയ്ക്കുക
     .accesskey = d
