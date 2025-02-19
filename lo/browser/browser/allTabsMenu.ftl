@@ -16,3 +16,10 @@ all-tabs-menu-close-duplicate-tabs =
     .label = ປິດແຖບທີ່ຊໍ້າກັນ
 all-tabs-menu-close-all-duplicate-tabs =
     .label = ປິດແຖບທີ່ຊໍ້າກັນທັງໝົດ
+all-tabs-menu-synced-tabs =
+    .label = ແຖບຈາກອຸປະກອນອື່ນໆ
+all-tabs-menu-current-window-header = ໜ້າຕ່າງປະຈຸບັນ
+# "Show all" is for showing all open groups as well as saved groups. Initially,
+# we only show up to five of these groups.
+all-tabs-menu-tab-groups-show-all =
+    .label = ສະແດງທັງໝົດ

@@ -51,6 +51,8 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } ໄດ້ຮັບການອອກແບບໂດຍ<label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, ອັນຫນຶ່ງ<label data-l10n-name="community-creditsLink">ຊຸ່ມຊົນທົ່ວໂລກ</label>ເຮັດວຽກຮ່ວມກັນເພື່ອເຮັດໃຫ້ເວັບເປີດໃຊ້ງານໄດ້ ແລະ ເຮັດໃຫ້ທຸກຄົນສາມາດເຂົ້າເຖິງເວັບໄດ້.
 helpus = ຕ້ອງການການຊ່ວຍເຫລືອຍັງບໍ່?<label data-l10n-name="helpus-donateLink">ບໍລິຈາກ</label> ຫລື <label data-l10n-name="helpus-getInvolvedLink">ເຂົ້າມາມີສ່ວນຮ່ວມນຳກັນ!</label>
 bottomLinks-license = ຂໍ້ມູນກ່ຽວກັບລິຂະສິດ
+bottom-links-terms = ເງື່ອນໄຂການນໍາໃຊ້
+bottom-links-privacy = ແຈ້ງການນະໂຍບາຍ
 bottomLinks-rights = ສິດທິຂອງຜູ້ໃຊ້
 bottomLinks-privacy = ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ
 # Example of resulting string: 66.0.1 (64-bit)

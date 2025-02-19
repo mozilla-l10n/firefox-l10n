@@ -531,6 +531,8 @@ urlbar-result-search-with = ຄົ້ນຫາດ້ວຍ { $engine }
 #  $localSearchMode (String): the local search mode (history, tabs, bookmarks,
 #  or actions) to search with.
 urlbar-result-search-with-local-search-mode = { $keywords } - ຄົ້ນຫາ { $localSearchMode }
+urlbar-searchmode-bookmarks =
+    .label = ບຸກມາກ
 urlbar-searchmode-tabs =
     .label = ແທັບ
 urlbar-searchmode-history =
