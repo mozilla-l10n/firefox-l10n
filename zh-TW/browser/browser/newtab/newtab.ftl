@@ -314,6 +314,10 @@ newtab-wallpaper-title = 背景圖
 newtab-wallpaper-reset = 還原為預設值
 newtab-wallpaper-upload-image = 上傳圖片
 newtab-wallpaper-custom-color = 選擇一種色彩
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = 圖片超過 { $file_size }MB 的檔案大小限制。請嘗試上傳小一點的檔案。
+newtab-wallpaper-error-file-type = 無法上傳您的檔案，請稍後再以不同格式檔案上傳。
 newtab-wallpaper-light-red-panda = 小貓熊
 newtab-wallpaper-light-mountain = 白色山脈
 newtab-wallpaper-light-sky = 紫色與粉紅色的天空
@@ -479,6 +483,8 @@ newtab-section-confirm-block-section-p1 = 您確定要封鎖這個段落嗎？
 newtab-section-confirm-block-section-p2 = 將從資訊來源隱藏封鎖的段落。
 newtab-section-block-section-button = 封鎖此段落
 newtab-section-cancel-button = 現在不要
+newtab-section-confirm-block-topic-p1 = 您確定要封鎖這個主題的內容嗎？
+newtab-section-confirm-block-topic-p2 = 將主題封鎖後就不會再顯示於資訊來源中。
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = 封鎖 { $topic }
@@ -488,9 +494,11 @@ newtab-section-block-topic-button = 封鎖 { $topic }
 newtab-section-mangage-topics-title = 主題
 newtab-section-manage-topics-button-v2 =
     .label = 管理主題
+newtab-section-mangage-topics-followed-topics = 已追蹤
 newtab-section-mangage-topics-button =
     .label = 已關注並封鎖的主題
 newtab-section-mangage-topics-followed-topics-subtitle = 關注的主題
 newtab-section-mangage-topics-followed-topics-empty-state = 您並未關注任何主題。
+newtab-section-mangage-topics-blocked-topics = 已封鎖
 newtab-section-mangage-topics-blocked-topics-subtitle = 封鎖的主題
 newtab-section-mangage-topics-blocked-topics-empty-state = 您並未封鎖任何主題。

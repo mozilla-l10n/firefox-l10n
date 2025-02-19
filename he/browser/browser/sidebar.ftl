@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = צ’אט בוט AI
 menu-view-review-checker =
     .label = בודק הסקירות
+menu-view-contextual-password-manager =
+    .label = ססמאות
 sidebar-options-menu-button =
     .title = פתיחת תפריט
 
@@ -115,6 +117,8 @@ sidebar-menu-customize-label =
     .label = התאמה אישית של סרגל הצד
 sidebar-menu-review-checker-label =
     .label = בודק הסקירות
+sidebar-menu-contextual-password-manager-label =
+    .label = ססמאות
 
 ## Tooltips for sidebar menu items.
 
@@ -157,6 +161,8 @@ sidebar-menu-syncedtabs-header =
     .heading = לשוניות ממכשירים אחרים
 sidebar-menu-bookmarks-header =
     .heading = סימניות
+sidebar-menu-cpm-header =
+    .heading = ססמאות
 sidebar-panel-header-close-button =
     .tooltiptext = סגירה
 

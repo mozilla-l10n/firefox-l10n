@@ -455,3 +455,5 @@ desktop-to-mobile-headline = 下載、同步、出發！
 desktop-to-mobile-subtitle = 掃描 QR Code 即可下載 { -brand-product-name } 行動版。安裝完成後，請選擇「同步到行動裝置」即可隨時隨地取得您的密碼、書籤與更多資訊。
 dismiss-button-label = 知道了！
 sync-to-mobile-button-label = 同步到行動裝置
+desktop-to-mobile-qr-code-alt =
+    .aria-label = { -brand-product-name } 行動版的下載 QR Code

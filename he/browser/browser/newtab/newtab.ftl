@@ -403,6 +403,9 @@ newtab-wallpaper-category-title-celestial = שמימי
 newtab-wallpaper-celestial-lunar-eclipse = ליקוי ירח
 newtab-wallpaper-celestial-earth-night = צילום לילה ממסלול לווייני נמוך של כדור הארץ
 newtab-wallpaper-celestial-starry-sky = שמי כוכבים
+newtab-wallpaper-celestial-eclipse-time-lapse = ליקוי ירח בהילוך מהיר
+newtab-wallpaper-celestial-black-hole = איור של גלקסיית חור שחור
+newtab-wallpaper-celestial-river = תמונת לוויין של נהר
 
 ## New Tab Weather
 
@@ -498,13 +501,22 @@ newtab-section-confirm-block-section-p1 = האם ברצונך לחסום מקט�
 newtab-section-confirm-block-section-p2 = המקטע החסום לא יופיע יותר בפיד שלך.
 newtab-section-block-section-button = חסימת מקטע זה
 newtab-section-cancel-button = לא כעת
+newtab-section-confirm-block-topic-p1 = האם ברצונך לחסום נושא זה?
+newtab-section-confirm-block-topic-p2 = נושאים חסומים לא יופיעו יותר בפיד שלך.
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = חסימת { $topic }
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = נושאים
+newtab-section-manage-topics-button-v2 =
+    .label = ניהול נושאים
+newtab-section-mangage-topics-followed-topics = במעקב
 newtab-section-mangage-topics-button =
     .label = נושאים במעקב וחסומים
 newtab-section-mangage-topics-followed-topics-subtitle = נושאים במעקב
 newtab-section-mangage-topics-followed-topics-empty-state = עדיין לא עקבת אחר אף נושא.
+newtab-section-mangage-topics-blocked-topics = חסום
 newtab-section-mangage-topics-blocked-topics-subtitle = נושאים חסומים
 newtab-section-mangage-topics-blocked-topics-empty-state = עדיין לא חסמת אף נושא.
