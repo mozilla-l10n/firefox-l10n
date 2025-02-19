@@ -365,6 +365,8 @@ newtab-wallpaper-gradient-orange = Тағйирёбии норинҷӣ ва го
 newtab-wallpaper-abstract-blue-purple = Шаклҳои кабуд ва норинҷӣ
 newtab-wallpaper-abstract-white-curves = Сафед бо хатҳои каҷи сояандоз
 newtab-wallpaper-abstract-purple-green = Тобиши лоҷувард ва сабзи равшан
+newtab-wallpaper-abstract-blue-purple-waves = Шаклҳои мавҷноки кабуд ва норинҷӣ
+newtab-wallpaper-abstract-black-waves = Шаклҳои мавҷноки сиёҳ
 
 ## Celestial
 
@@ -392,6 +394,13 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Осмонӣ
+newtab-wallpaper-celestial-lunar-eclipse = Гирифти Моҳ
+newtab-wallpaper-celestial-starry-sky = Осмони ситоразор
+newtab-wallpaper-celestial-eclipse-time-lapse = Вақти фарогирии гирифти Моҳ
 
 ## New Tab Weather
 
