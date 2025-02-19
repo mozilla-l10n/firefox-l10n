@@ -376,6 +376,8 @@ newtab-wallpaper-red-panda-yawns-in-a-tree = Panda vermelho boceja em uma árvor
 newtab-wallpaper-white-mountains = Montanhas brancas
 newtab-wallpaper-hot-air-balloons = Cores variadas de balões de ar quente durante o dia
 newtab-wallpaper-starry-canyon = Noite estrelada azul
+newtab-wallpaper-suspension-bridge = Fotografia de ponte totalmente suspensa cinza durante o dia
+newtab-wallpaper-sand-dunes = Dunas de areia branca
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
