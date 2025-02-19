@@ -318,6 +318,10 @@ newtab-wallpaper-title = Bakgrunnar
 newtab-wallpaper-reset = Endurstilla á sjálfgefið
 newtab-wallpaper-upload-image = Senda inn mynd
 newtab-wallpaper-custom-color = Veldu lit
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = Myndin er stærri en takmörkin á stærð skráa { $file_size }MB. Reyndu að senda inn minni skrá.
+newtab-wallpaper-error-file-type = Ekki var hægt að senda inn skrána þína. Reyndu aftur með annarri skráartegund.
 newtab-wallpaper-light-red-panda = Rauð panda
 newtab-wallpaper-light-mountain = Hvítt fjall
 newtab-wallpaper-light-sky = Himinn með fjólubláum og bleikum skýjum
@@ -361,6 +365,7 @@ newtab-wallpaper-abstract-purple = Fjólublá form
 newtab-wallpaper-abstract-orange = Appelsínugul form
 newtab-wallpaper-gradient-orange = Litstigull appelsínugult og bleikt
 newtab-wallpaper-abstract-blue-purple = Blá og fjólublá form
+newtab-wallpaper-abstract-white-curves = Hvíttt með skyggðum línum
 
 ## Celestial
 
@@ -483,13 +488,22 @@ newtab-section-confirm-block-section-p1 = Ertu viss um að þú viljir loka á �
 newtab-section-confirm-block-section-p2 = Hluti sem lokað er á mun ekki lengur birtast í streyminu þínu.
 newtab-section-block-section-button = Loka á þennan hluta
 newtab-section-cancel-button = Ekki núna
+newtab-section-confirm-block-topic-p1 = Ertu viss um að þú viljir loka á þetta umfjöllunarefni?
+newtab-section-confirm-block-topic-p2 = Umfjöllunarefni sem lokað er á munu ekki lengur birtast í streyminu þínu.
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = Loka á { $topic }
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Umfjöllunarefni
+newtab-section-manage-topics-button-v2 =
+    .label = Sýsla með umfjöllunarefni
+newtab-section-mangage-topics-followed-topics = Fylgst með
 newtab-section-mangage-topics-button =
     .label = Efni sem fylgst er með og lokað á
 newtab-section-mangage-topics-followed-topics-subtitle = Efni sem fylgst er með
 newtab-section-mangage-topics-followed-topics-empty-state = Þú hefur ekki fylgst með neinu umfjöllunarefni ennþá.
+newtab-section-mangage-topics-blocked-topics = Lokað á
 newtab-section-mangage-topics-blocked-topics-subtitle = Umfjöllunarefni sem lokað er á
 newtab-section-mangage-topics-blocked-topics-empty-state = Þú hefur ekki lokað á neitt umfjöllunarefni ennþá.

@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = Gervigreindarspjallkerfi
 menu-view-review-checker =
     .label = Umsagnaskoðun
+menu-view-contextual-password-manager =
+    .label = Lykilorð
 sidebar-options-menu-button =
     .title = Opna valmynd
 
@@ -115,6 +117,8 @@ sidebar-menu-customize-label =
     .label = Sérsníða hliðarstiku
 sidebar-menu-review-checker-label =
     .label = Umsagnaskoðun
+sidebar-menu-contextual-password-manager-label =
+    .label = Lykilorð
 
 ## Tooltips for sidebar menu items.
 
@@ -157,6 +161,8 @@ sidebar-menu-syncedtabs-header =
     .heading = Flipar frá öðrum tækjum
 sidebar-menu-bookmarks-header =
     .heading = Bókamerki
+sidebar-menu-cpm-header =
+    .heading = Lykilorð
 sidebar-panel-header-close-button =
     .tooltiptext = Loka
 

@@ -468,3 +468,5 @@ desktop-to-mobile-headline = Sæktu, samstilltu og flakkaðu!
 desktop-to-mobile-subtitle = Skannaðu QR-kóðann til að sækja { -brand-product-name } fyrir farsíma. Þegar uppsetningu er lokið skaltu velja „Samstilla við farsíma“ til að fá aðgang að lykilorðunum þínum, bókamerkjum og fleiru þegar þú ert á ferðinni.
 dismiss-button-label = Afgreiða
 sync-to-mobile-button-label = Samstilla við farsíma
+desktop-to-mobile-qr-code-alt =
+    .aria-label = QR-kóði til að sækja { -brand-product-name } fyrir farsíma

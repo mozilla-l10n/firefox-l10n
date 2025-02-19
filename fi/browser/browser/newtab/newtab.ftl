@@ -318,6 +318,10 @@ newtab-wallpaper-title = Taustakuvat
 newtab-wallpaper-reset = Palauta oletusarvo
 newtab-wallpaper-upload-image = Lähetä kuva
 newtab-wallpaper-custom-color = Valitse väri
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = Kuvan koko ylitti tiedostokokorajan { $file_size } Mt. Yritä ladata pienempi tiedosto.
+newtab-wallpaper-error-file-type = Tiedostoa ei voitu lähettää. Yritä uudelleen toisella tiedostotyypillä.
 newtab-wallpaper-light-red-panda = Kultapanda
 newtab-wallpaper-light-mountain = Valkoinen vuori
 newtab-wallpaper-light-sky = Taivas violettien ja vaaleanpunaisten pilvien kera
@@ -371,6 +375,8 @@ newtab-wallpaper-storm-sky = Myrskyinen taivas
 newtab-wallpaper-sky-with-pink-clouds = Taivas ja vaaleanpunaiset pilvet
 newtab-wallpaper-red-panda-yawns-in-a-tree = Kultapanda haukottelee puussa
 newtab-wallpaper-white-mountains = Valkoiset vuoret
+newtab-wallpaper-sand-dunes = Valkoiset hiekkadyynit
+newtab-wallpaper-forest-trees = Puut sumun peitossa
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -388,7 +394,10 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+newtab-wallpaper-celestial-earth-night = Yökuva matalalta Maan kiertoradalta
 newtab-wallpaper-celestial-starry-sky = Tähtitaivas
+newtab-wallpaper-celestial-eclipse-time-lapse = Kuunpimennyksen kuvasarja
+newtab-wallpaper-celestial-black-hole = Mustan aukon galaksikuvitus
 newtab-wallpaper-celestial-river = Satelliittikuva joesta
 
 ## New Tab Weather
@@ -496,9 +505,11 @@ newtab-section-block-topic-button = Estä { $topic }
 newtab-section-mangage-topics-title = Aiheet
 newtab-section-manage-topics-button-v2 =
     .label = Hallinnoi aiheita
+newtab-section-mangage-topics-followed-topics = Seurattu
 newtab-section-mangage-topics-button =
     .label = Seuratut ja estetyt aiheet
 newtab-section-mangage-topics-followed-topics-subtitle = Seuratut aiheet
 newtab-section-mangage-topics-followed-topics-empty-state = Et ole vielä seurannut yhtäkään aihetta.
+newtab-section-mangage-topics-blocked-topics = Estetty
 newtab-section-mangage-topics-blocked-topics-subtitle = Estetyt aiheet
 newtab-section-mangage-topics-blocked-topics-empty-state = Et ole vielä estänyt yhtäkään aihetta.
