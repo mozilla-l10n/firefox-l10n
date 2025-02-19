@@ -316,6 +316,9 @@ pdfjs-highlight-floating-button1 =
     .title = Korostus
     .aria-label = Korostus
 pdfjs-highlight-floating-button-label = Korostus
+pdfjs-editor-signature-button =
+    .title = Lisää allekirjoitus
+pdfjs-editor-signature-button-label = Lisää allekirjoitus
 
 ## Remove button for the various kind of editor.
 
@@ -345,6 +348,9 @@ pdfjs-editor-stamp-add-image-button-label = Lisää kuva
 pdfjs-editor-free-highlight-thickness-input = Paksuus
 pdfjs-editor-free-highlight-thickness-title =
     .title = Muuta paksuutta korostaessasi muita kohteita kuin tekstiä
+pdfjs-editor-signature-add-signature-button =
+    .title = Lisää uusi allekirjoitus
+pdfjs-editor-signature-add-signature-button-label = Lisää uusi allekirjoitus
 # .default-content is used as a placeholder in an empty text editor.
 pdfjs-free-text2 =
     .aria-label = Tekstimuokkain
@@ -570,12 +576,18 @@ pdfjs-editor-add-signature-error-close-button = Sulje
 
 pdfjs-editor-add-signature-cancel-button = Peruuta
 pdfjs-editor-add-signature-add-button = Lisää
+pdfjs-editor-edit-signature-update-button = Päivitä
 
 ## Main menu for adding/removing signatures
 
+pdfjs-editor-delete-signature-button =
+    .title = Poista allekirjoitus
+pdfjs-editor-delete-signature-button-label = Poista allekirjoitus
 
 ## Editor toolbar
 
+pdfjs-editor-add-signature-edit-button-label = Muokkaa kuvausta
 
 ## Edit signature description dialog
 
+pdfjs-editor-edit-signature-dialog-title = Muokkaa kuvausta

@@ -55,6 +55,8 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name(case: "genitive") } on kehittänyt <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, <label data-l10n-name="community-creditsLink">kansainvälinen yhteisö</label>, joka pyrkii kehittämään avointa, julkista ja kaikkien käytettävissä olevaa internetiä.
 helpus = Haluatko auttaa? <label data-l10n-name="helpus-donateLink">Tee lahjoitus</label> tai <label data-l10n-name="helpus-getInvolvedLink">liity joukkoon!</label>
 bottomLinks-license = Lisenssitiedot
+bottom-links-terms = Käyttöehdot
+bottom-links-privacy = Tietosuojakäytäntö
 bottomLinks-rights = Loppukäyttäjän oikeudet
 bottomLinks-privacy = Tietosuojakäytäntö
 # Example of resulting string: 66.0.1 (64-bit)

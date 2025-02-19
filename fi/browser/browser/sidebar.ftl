@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI-chatbotti
 menu-view-review-checker =
     .label = Arvostelujen tarkistin
+menu-view-contextual-password-manager =
+    .label = Salasanat
 sidebar-options-menu-button =
     .title = Avaa valikko
 
@@ -115,6 +117,8 @@ sidebar-menu-customize-label =
     .label = Muokkaa sivupalkkia
 sidebar-menu-review-checker-label =
     .label = Arvostelujen tarkistin
+sidebar-menu-contextual-password-manager-label =
+    .label = Salasanat
 
 ## Tooltips for sidebar menu items.
 
@@ -157,6 +161,8 @@ sidebar-menu-syncedtabs-header =
     .heading = Välilehdet muista laitteista
 sidebar-menu-bookmarks-header =
     .heading = Kirjanmerkit
+sidebar-menu-cpm-header =
+    .heading = Salasanat
 sidebar-panel-header-close-button =
     .tooltiptext = Sulje
 
