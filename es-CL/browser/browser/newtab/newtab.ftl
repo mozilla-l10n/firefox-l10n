@@ -312,6 +312,12 @@ newtab-custom-settings = Administrar más ajustes
 
 newtab-wallpaper-title = Fondos de pantalla
 newtab-wallpaper-reset = Restablecer a predeterminados
+newtab-wallpaper-upload-image = Subir una imagen
+newtab-wallpaper-custom-color = Elegir un color
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = La imagen supera el límite de tamaño de archivo de { $file_size } MB. Por favor, intenta cargar un archivo más pequeño.
+newtab-wallpaper-error-file-type = No pudimos cargar tu archivo. Por favor, vuelve a intentarlo con un tipo de archivo diferente.
 newtab-wallpaper-light-red-panda = Panda rojo
 newtab-wallpaper-light-mountain = Montaña Blanca
 newtab-wallpaper-light-sky = Cielo con nubes moradas y rosas
@@ -355,6 +361,10 @@ newtab-wallpaper-abstract-purple = Formas moradas
 newtab-wallpaper-abstract-orange = Formas naranjas
 newtab-wallpaper-gradient-orange = Naranja y rosado en gradiente
 newtab-wallpaper-abstract-blue-purple = Formas azules y moradas
+newtab-wallpaper-abstract-white-curves = Blanco con curvas sombreadas
+newtab-wallpaper-abstract-purple-green = Gradiente de luz violeta y verde
+newtab-wallpaper-abstract-blue-purple-waves = Formas onduladas de color azul y morado
+newtab-wallpaper-abstract-black-waves = Formas onduladas negras
 
 ## Celestial
 
@@ -365,6 +375,12 @@ newtab-wallpaper-storm-sky = Cielo de tormenta
 newtab-wallpaper-sky-with-pink-clouds = Cielo con nubes rosadas
 newtab-wallpaper-red-panda-yawns-in-a-tree = Panda rojo bostezando en un árbol
 newtab-wallpaper-white-mountains = Montañas blancas
+newtab-wallpaper-hot-air-balloons = Colores variados de globos aerostáticos durante el día.
+newtab-wallpaper-starry-canyon = Noche estrellada azul
+newtab-wallpaper-suspension-bridge = Fotografía de un puente colgante gris durante el día
+newtab-wallpaper-sand-dunes = Dunas de arena blanca
+newtab-wallpaper-palm-trees = Silueta de palmeras durante la hora dorada
+newtab-wallpaper-forest-trees = Árboles cubiertos de niebla
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -382,6 +398,16 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Celestial
+newtab-wallpaper-celestial-lunar-eclipse = Eclipse lunar
+newtab-wallpaper-celestial-earth-night = Fotografía nocturna desde la órbita terrestre baja
+newtab-wallpaper-celestial-starry-sky = Cielo estrellado
+newtab-wallpaper-celestial-eclipse-time-lapse = Lapso de tiempo del eclipse lunar
+newtab-wallpaper-celestial-black-hole = Ilustración de una galaxia con un agujero negro
+newtab-wallpaper-celestial-river = Imagen satelital de un río
 
 ## New Tab Weather
 
@@ -477,13 +503,22 @@ newtab-section-confirm-block-section-p1 = ¿Estás seguro de que desea bloquear 
 newtab-section-confirm-block-section-p2 = La sección bloqueada ya no aparecerá en tu feed.
 newtab-section-block-section-button = Bloquear esta sección
 newtab-section-cancel-button = Ahora no
+newtab-section-confirm-block-topic-p1 = ¿Estás seguro de que desea bloquear este tema?
+newtab-section-confirm-block-topic-p2 = Los temas bloqueados ya no aparecerán en tu feed.
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = Bloquear { $topic }
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Temas
+newtab-section-manage-topics-button-v2 =
+    .label = Administrar temas
+newtab-section-mangage-topics-followed-topics = Seguidos
 newtab-section-mangage-topics-button =
     .label = Temas seguidos y bloqueados
 newtab-section-mangage-topics-followed-topics-subtitle = Temas seguidos
 newtab-section-mangage-topics-followed-topics-empty-state = Todavía no sigues ningún tema.
+newtab-section-mangage-topics-blocked-topics = Bloqueados
 newtab-section-mangage-topics-blocked-topics-subtitle = Temas bloqueados
 newtab-section-mangage-topics-blocked-topics-empty-state = Todavía no has bloqueado ningún tema.

@@ -314,6 +314,8 @@ newtab-custom-settings = Идоракунии танзимоти бештар
 
 newtab-wallpaper-title = Тасвирҳои замина
 newtab-wallpaper-reset = Ба ҳолати пешфарз барқарор кунед
+newtab-wallpaper-upload-image = Бор кардани тасвир
+newtab-wallpaper-custom-color = Рангеро интихоб кунед
 newtab-wallpaper-light-red-panda = Пандаи сурх
 newtab-wallpaper-light-mountain = Кӯҳи сафед
 newtab-wallpaper-light-sky = Осмон бо абрҳои лоҷувард ва гулобӣ
@@ -479,13 +481,22 @@ newtab-section-confirm-block-section-p1 = Шумо мутмаин ҳастед, 
 newtab-section-confirm-block-section-p2 = Қисмати манъшуда дигар дар навори хабарҳои шумо пайдо намешавад.
 newtab-section-block-section-button = Манъ кардани ин қисмат
 newtab-section-cancel-button = Ҳоло не
+newtab-section-confirm-block-topic-p1 = Шумо мутмаин ҳастед, ки мехоҳед ин мавзуъро манъ кунед?
+newtab-section-confirm-block-topic-p2 = Мавзуъҳои манъшуда дигар дар навори хабарҳои шумо пайдо намешаванд.
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = Манъ кардани { $topic }
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Мавзуъҳо
+newtab-section-manage-topics-button-v2 =
+    .label = Идоракунии мавзуъҳо
+newtab-section-mangage-topics-followed-topics = Пайгирӣ карда мешавад
 newtab-section-mangage-topics-button =
     .label = Мавзуъҳои пайгиришуда ва манъшуда
 newtab-section-mangage-topics-followed-topics-subtitle = Мавзуъҳои пайгиришуда
 newtab-section-mangage-topics-followed-topics-empty-state = Шумо то ҳол ягон мавзуъро пайгирӣ накардаед.
+newtab-section-mangage-topics-blocked-topics = Манъ карда мешавад
 newtab-section-mangage-topics-blocked-topics-subtitle = Мавзуъҳои пайгиришуда
 newtab-section-mangage-topics-blocked-topics-empty-state = Шумо то ҳол ягон мавзуъро манъ накардаед.

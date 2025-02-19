@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = Чат-боти зеҳни сунъӣ «AI»
 menu-view-review-checker =
     .label = Абзори тафтиши тақризҳо
+menu-view-contextual-password-manager =
+    .label = Ниҳонвожаҳо
 sidebar-options-menu-button =
     .title = Кушодани меню
 
@@ -115,6 +117,8 @@ sidebar-menu-customize-label =
     .label = Фармоишдиҳии навори ҷонибӣ
 sidebar-menu-review-checker-label =
     .label = Абзори тафтиши тақризҳо
+sidebar-menu-contextual-password-manager-label =
+    .label = Ниҳонвожаҳо
 
 ## Tooltips for sidebar menu items.
 
@@ -157,6 +161,8 @@ sidebar-menu-syncedtabs-header =
     .heading = Варақаҳо аз дастгоҳҳои дигар
 sidebar-menu-bookmarks-header =
     .heading = Хатбаракҳо
+sidebar-menu-cpm-header =
+    .heading = Ниҳонвожаҳо
 sidebar-panel-header-close-button =
     .tooltiptext = Пӯшидан
 
