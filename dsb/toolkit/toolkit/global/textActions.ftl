@@ -73,3 +73,7 @@ text-action-search-text-box-clear =
     .title = Wuprozniś
 text-action-highlight-selection =
     .label = Wuběrk wuzwignuś
+# If the page has been loaded with a text fragment and text is
+# visibly highlighted, this removes any highlighted sections on the page.
+text-action-remove-all-highlights =
+    .label = Wšykne wuzwignjenja wótwónoźeś

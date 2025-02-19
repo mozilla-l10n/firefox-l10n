@@ -318,6 +318,10 @@ newtab-wallpaper-title = Ταπετσαρίες
 newtab-wallpaper-reset = Επαναφορά προεπιλογής
 newtab-wallpaper-upload-image = Μεταφόρτωση εικόνας
 newtab-wallpaper-custom-color = Επιλογή χρώματος
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = Η εικόνα υπερέβη το όριο μεγέθους των { $file_size }MB. Δοκιμάστε να μεταφορτώσετε ένα μικρότερο αρχείο.
+newtab-wallpaper-error-file-type = Δεν ήταν δυνατή η μεταφόρτωση του αρχείου σας. Δοκιμάστε ξανά με έναν άλλο τύπο αρχείου.
 newtab-wallpaper-light-red-panda = Κόκκινο πάντα
 newtab-wallpaper-light-mountain = Λευκό βουνό
 newtab-wallpaper-light-sky = Ουρανός με μωβ και ροζ σύννεφα
@@ -361,6 +365,10 @@ newtab-wallpaper-abstract-purple = Μωβ σχήματα
 newtab-wallpaper-abstract-orange = Πορτοκαλί σχήματα
 newtab-wallpaper-gradient-orange = Διαβάθμιση πορτοκαλί και ροζ
 newtab-wallpaper-abstract-blue-purple = Μπλε και μωβ σχήματα
+newtab-wallpaper-abstract-white-curves = Λευκό με σκιασμένες καμπύλες
+newtab-wallpaper-abstract-purple-green = Διαβάθμιση μωβ και πράσινου φωτός
+newtab-wallpaper-abstract-blue-purple-waves = Μπλε και μωβ κυματιστές μορφές
+newtab-wallpaper-abstract-black-waves = Μαύρες κυματιστές μορφές
 
 ## Celestial
 
@@ -371,6 +379,9 @@ newtab-wallpaper-storm-sky = Ουρανός με καταιγίδα
 newtab-wallpaper-sky-with-pink-clouds = Ουρανός με ροζ σύννεφα
 newtab-wallpaper-red-panda-yawns-in-a-tree = Κόκκινο πάντα που χασμουριέται σε ένα δέντρο
 newtab-wallpaper-white-mountains = Λευκά βουνά
+newtab-wallpaper-starry-canyon = Μπλε έναστρη νύχτα
+newtab-wallpaper-sand-dunes = Λευκοί αμμόλοφοι
+newtab-wallpaper-forest-trees = Δέντρα που καλύπτονται από ομίχλη
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -388,6 +399,9 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+newtab-wallpaper-celestial-lunar-eclipse = Έκλειψη Σελήνης
+newtab-wallpaper-celestial-starry-sky = Έναστρος ουρανός
+newtab-wallpaper-celestial-river = Δορυφορική εικόνα ποταμού
 
 ## New Tab Weather
 
@@ -483,15 +497,22 @@ newtab-section-confirm-block-section-p1 = Θέλετε σίγουρα να απ�
 newtab-section-confirm-block-section-p2 = Η αποκλεισμένη ενότητα δεν θα εμφανίζεται πλέον στη ροή σας.
 newtab-section-block-section-button = Αποκλεισμός ενότητας
 newtab-section-cancel-button = Όχι τώρα
+newtab-section-confirm-block-topic-p1 = Θέλετε σίγουρα να αποκλείσετε αυτό το θέμα;
+newtab-section-confirm-block-topic-p2 = Τα αποκλεισμένα θέματα δεν θα εμφανίζονται πλέον στη ροή σας.
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = Αποκλεισμός του «{ $topic }»
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Θέματα
 newtab-section-manage-topics-button-v2 =
     .label = Διαχείριση θεμάτων
+newtab-section-mangage-topics-followed-topics = Ακολουθούνται
 newtab-section-mangage-topics-button =
     .label = Παρακολουθούμενα και αποκλεισμένα θέματα
 newtab-section-mangage-topics-followed-topics-subtitle = Παρακολουθούμενα θέματα
 newtab-section-mangage-topics-followed-topics-empty-state = Δεν έχετε παρακολουθήσει κανένα θέμα ακόμα.
+newtab-section-mangage-topics-blocked-topics = Αποκλεισμένα
 newtab-section-mangage-topics-blocked-topics-subtitle = Αποκλεισμένα θέματα
 newtab-section-mangage-topics-blocked-topics-empty-state = Δεν έχετε αποκλείσει κανένα θέμα ακόμα.

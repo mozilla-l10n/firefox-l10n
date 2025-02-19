@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = Chatbot ΤΝ
 menu-view-review-checker =
     .label = Έλεγχος κριτικών
+menu-view-contextual-password-manager =
+    .label = Κωδικοί πρόσβασης
 sidebar-options-menu-button =
     .title = Άνοιγμα μενού
 
@@ -115,6 +117,8 @@ sidebar-menu-customize-label =
     .label = Προσαρμογή πλαϊνής γραμμής
 sidebar-menu-review-checker-label =
     .label = Έλεγχος κριτικών
+sidebar-menu-contextual-password-manager-label =
+    .label = Κωδικοί πρόσβασης
 
 ## Tooltips for sidebar menu items.
 
@@ -157,6 +161,8 @@ sidebar-menu-syncedtabs-header =
     .heading = Καρτέλες από άλλες συσκευές
 sidebar-menu-bookmarks-header =
     .heading = Σελιδοδείκτες
+sidebar-menu-cpm-header =
+    .heading = Κωδικοί πρόσβασης
 sidebar-panel-header-close-button =
     .tooltiptext = Κλείσιμο
 

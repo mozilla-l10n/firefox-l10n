@@ -316,6 +316,9 @@ pdfjs-highlight-floating-button1 =
     .title = Επισήμανση
     .aria-label = Επισήμανση
 pdfjs-highlight-floating-button-label = Επισήμανση
+pdfjs-editor-signature-button =
+    .title = Προσθήκη υπογραφής
+pdfjs-editor-signature-button-label = Προσθήκη υπογραφής
 
 ## Remove button for the various kind of editor.
 
@@ -345,6 +348,9 @@ pdfjs-editor-stamp-add-image-button-label = Προσθήκη εικόνας
 pdfjs-editor-free-highlight-thickness-input = Πάχος
 pdfjs-editor-free-highlight-thickness-title =
     .title = Αλλαγή πάχους κατά την επισήμανση στοιχείων εκτός κειμένου
+pdfjs-editor-signature-add-signature-button =
+    .title = Προσθήκη νέας υπογραφής
+pdfjs-editor-signature-add-signature-button-label = Προσθήκη νέας υπογραφής
 # .default-content is used as a placeholder in an empty text editor.
 pdfjs-free-text2 =
     .aria-label = Επεξεργασία κειμένου
@@ -570,12 +576,18 @@ pdfjs-editor-add-signature-error-close-button = Κλείσιμο
 
 pdfjs-editor-add-signature-cancel-button = Ακύρωση
 pdfjs-editor-add-signature-add-button = Προσθήκη
+pdfjs-editor-edit-signature-update-button = Ενημέρωση
 
 ## Main menu for adding/removing signatures
 
+pdfjs-editor-delete-signature-button =
+    .title = Αφαίρεση υπογραφής
+pdfjs-editor-delete-signature-button-label = Αφαίρεση υπογραφής
 
 ## Editor toolbar
 
+pdfjs-editor-add-signature-edit-button-label = Επεξεργασία περιγραφής
 
 ## Edit signature description dialog
 
+pdfjs-editor-edit-signature-dialog-title = Επεξεργασία περιγραφής
