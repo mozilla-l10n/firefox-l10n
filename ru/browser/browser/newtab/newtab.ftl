@@ -317,6 +317,12 @@ newtab-custom-settings = Управление дополнительными н�
 
 newtab-wallpaper-title = Обои
 newtab-wallpaper-reset = Восстановить по умолчанию
+newtab-wallpaper-upload-image = Загрузить изображение
+newtab-wallpaper-custom-color = Выберите цвет
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = Размер файла изображения превысил лимит в { $file_size }МБ. Пожалуйста, попробуйте загрузить файл меньшего размера.
+newtab-wallpaper-error-file-type = Мы не смогли загрузить ваш файл. Пожалуйста, попробуйте ещё раз с другим типом файла.
 newtab-wallpaper-light-red-panda = Красная панда
 newtab-wallpaper-light-mountain = Белая гора
 newtab-wallpaper-light-sky = Небо с фиолетовыми и розовыми облаками
@@ -360,6 +366,10 @@ newtab-wallpaper-abstract-purple = Фиолетовые формы
 newtab-wallpaper-abstract-orange = Оранжевые формы
 newtab-wallpaper-gradient-orange = Градиент оранжевого и розового
 newtab-wallpaper-abstract-blue-purple = Синие и фиолетовые формы
+newtab-wallpaper-abstract-white-curves = Белый с заштрихованными кривыми
+newtab-wallpaper-abstract-purple-green = Фиолетово-зеленый световой градиент
+newtab-wallpaper-abstract-blue-purple-waves = Синие и фиолетовые волнистые формы
+newtab-wallpaper-abstract-black-waves = Чёрные волнообразные формы
 
 ## Celestial
 
