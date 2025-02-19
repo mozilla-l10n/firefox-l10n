@@ -93,6 +93,12 @@ sidebar-context-menu-bookmark-tab =
     .label = Aggiungi scheda ai segnalibri…
 sidebar-context-menu-copy-link =
     .label = Copia link
+sidebar-context-menu-hide-sidebar =
+    .label = Nascondi barra laterale
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Attiva schede verticali
+sidebar-context-menu-customize-sidebar =
+    .label = Personalizza barra laterale
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =

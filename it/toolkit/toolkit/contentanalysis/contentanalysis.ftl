@@ -58,6 +58,10 @@ contentanalysis-error-message-upload-file = Il caricamento di “{ $filename }�
 contentanalysis-error-message-dropped-text = Il trascinamento è stato rifiutato.
 contentanalysis-error-message-clipboard = L’incollatura è stata rifiutata.
 contentanalysis-error-message-print = La stampa è stata rifiutata.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
+contentanalysis-timeout-block-error-message-content = La connessione a { $agent } è terminata per timeout. { $contentName } è stato bloccato.
 contentanalysis-block-dialog-title-upload-file = Non hai il permesso di caricare questo file
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
