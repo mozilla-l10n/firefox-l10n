@@ -73,6 +73,11 @@ text-action-search-text-box-clear =
     .title = 清空
 text-action-highlight-selection =
     .label = 高亮选中部分
+# This combines "Copy Link to Highlight" with "Copy Clean Link", ie.
+# it creates a link with a text fragment to the current selection
+# and it strips trackers etc.
+text-action-copy-clean-link-to-highlight =
+    .label = 复制指向选中部分的无跟踪参数链接
 # If the page has been loaded with a text fragment and text is
 # visibly highlighted, this removes any highlighted sections on the page.
 text-action-remove-all-highlights =
