@@ -51,6 +51,8 @@ community-exp = A <label data-l10n-name="community-exp-mozillaLink">{ -vendor-sh
 community-2 = O { -brand-short-name } é desenvolvido pela <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, uma <label data-l10n-name="community-creditsLink">comunidade global</label> que trabalha unida para manter a web aberta, pública e acessível a todos.
 helpus = Quer ajudar? <label data-l10n-name="helpus-donateLink">Faça uma doação</label> ou <label data-l10n-name="helpus-getInvolvedLink">participe!</label>
 bottomLinks-license = Informações de licenciamento
+bottom-links-terms = Termos de uso
+bottom-links-privacy = Aviso de privacidade
 bottomLinks-rights = Direitos do usuário final
 bottomLinks-privacy = Política de privacidade
 # Example of resulting string: 66.0.1 (64-bit)
