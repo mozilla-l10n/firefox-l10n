@@ -23,3 +23,4 @@ all-tabs-menu-current-window-header = Finestra corrente
 # we only show up to five of these groups.
 all-tabs-menu-tab-groups-show-all =
     .label = Mostra tutto
+

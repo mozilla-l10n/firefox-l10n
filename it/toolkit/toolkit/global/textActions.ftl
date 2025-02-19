@@ -86,3 +86,4 @@ text-action-copy-clean-link-to-highlight =
 # visibly highlighted, this removes any highlighted sections on the page.
 text-action-remove-all-highlights =
     .label = Rimuovi tutte le evidenziazioni
+
