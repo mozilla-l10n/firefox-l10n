@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = Yapay zekâ sohbet botu
 menu-view-review-checker =
     .label = Değerlendirme kontrolcüsü
+menu-view-contextual-password-manager =
+    .label = Parolalar
 sidebar-options-menu-button =
     .title = Menüyü aç
 
@@ -115,6 +117,8 @@ sidebar-menu-customize-label =
     .label = Kenar çubuğunu özelleştir
 sidebar-menu-review-checker-label =
     .label = Değerlendirme kontrolcüsü
+sidebar-menu-contextual-password-manager-label =
+    .label = Parolalar
 
 ## Tooltips for sidebar menu items.
 
@@ -157,6 +161,8 @@ sidebar-menu-syncedtabs-header =
     .heading = Diğer cihazlardaki sekmeler
 sidebar-menu-bookmarks-header =
     .heading = Yer imleri
+sidebar-menu-cpm-header =
+    .heading = Parolalar
 sidebar-panel-header-close-button =
     .tooltiptext = Kapat
 
