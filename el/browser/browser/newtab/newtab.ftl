@@ -316,6 +316,8 @@ newtab-custom-settings = Διαχείριση περισσότερων ρυθμ�
 
 newtab-wallpaper-title = Ταπετσαρίες
 newtab-wallpaper-reset = Επαναφορά προεπιλογής
+newtab-wallpaper-upload-image = Μεταφόρτωση εικόνας
+newtab-wallpaper-custom-color = Επιλογή χρώματος
 newtab-wallpaper-light-red-panda = Κόκκινο πάντα
 newtab-wallpaper-light-mountain = Λευκό βουνό
 newtab-wallpaper-light-sky = Ουρανός με μωβ και ροζ σύννεφα
@@ -485,6 +487,8 @@ newtab-section-cancel-button = Όχι τώρα
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Θέματα
+newtab-section-manage-topics-button-v2 =
+    .label = Διαχείριση θεμάτων
 newtab-section-mangage-topics-button =
     .label = Παρακολουθούμενα και αποκλεισμένα θέματα
 newtab-section-mangage-topics-followed-topics-subtitle = Παρακολουθούμενα θέματα

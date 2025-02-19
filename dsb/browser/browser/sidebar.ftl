@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI Chatbot
 menu-view-review-checker =
     .label = Kontrola pógódnośenjow
+menu-view-contextual-password-manager =
+    .label = Gronidła
 sidebar-options-menu-button =
     .title = Meni wócyniś
 
@@ -115,6 +117,8 @@ sidebar-menu-customize-label =
     .label = Bocnicu pśiměriś
 sidebar-menu-review-checker-label =
     .label = Kontrola pógódnośenjow
+sidebar-menu-contextual-password-manager-label =
+    .label = Gronidła
 
 ## Tooltips for sidebar menu items.
 
@@ -157,6 +161,8 @@ sidebar-menu-syncedtabs-header =
     .heading = Rejtariki z drugich rědow
 sidebar-menu-bookmarks-header =
     .heading = Cytańske znamjenja
+sidebar-menu-cpm-header =
+    .heading = Gronidła
 sidebar-panel-header-close-button =
     .tooltiptext = Zacyniś
 

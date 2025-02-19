@@ -486,7 +486,7 @@ newtab-section-confirm-block-section-p2 = Zablokowany wotrězk so hižo we waši
 newtab-section-block-section-button = Tutón wotrězk blokować
 newtab-section-cancel-button = Nic nětko
 newtab-section-confirm-block-topic-p1 = Chceće woprawdźe tutu temu blokować?
-newtab-section-confirm-block-topic-p2 = Zablokowana tema so hižo we wašim kanalu njejewi.
+newtab-section-confirm-block-topic-p2 = Zablokowane temy so hižo we wašim kanalu njejewja.
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = { $topic } blokować

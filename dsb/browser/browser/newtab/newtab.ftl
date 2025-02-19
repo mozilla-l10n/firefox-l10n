@@ -318,6 +318,8 @@ newtab-custom-settings = Dalšne nastajenja zastojaś
 
 newtab-wallpaper-title = Slězynowe wobraze
 newtab-wallpaper-reset = Na standard slědk stajiś
+newtab-wallpaper-upload-image = Wobraz nagraś
+newtab-wallpaper-custom-color = Barwu wubraś
 newtab-wallpaper-light-red-panda = Cerwjeny panda
 newtab-wallpaper-light-mountain = Běła góra
 newtab-wallpaper-light-sky = Njebjo z wioletnymi a rožowymi mrokawami
@@ -483,13 +485,22 @@ newtab-section-confirm-block-section-p1 = Cośo napšawdu toś ten wótrězk blo
 newtab-section-confirm-block-section-p2 = Blokěrowany wótrězk se wěcej we wašom kanalu njezjawijo.
 newtab-section-block-section-button = Toś ten wótrězk blokěrowaś
 newtab-section-cancel-button = Nic něnto
+newtab-section-confirm-block-topic-p1 = Cośo napšawdu toś tu temu blokěrowaś?
+newtab-section-confirm-block-topic-p2 = Blokěrowane temy se wěcej we wašom kanalu njezjawiju.
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = { $topic } blokěrowaś
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Temy
+newtab-section-manage-topics-button-v2 =
+    .label = Temy zastojaś
+newtab-section-mangage-topics-followed-topics = Slědowany
 newtab-section-mangage-topics-button =
     .label = Slědowane a blokěrowane temy
 newtab-section-mangage-topics-followed-topics-subtitle = Slědowane temy
 newtab-section-mangage-topics-followed-topics-empty-state = Hyšći žednym temam njeslědujośo.
+newtab-section-mangage-topics-blocked-topics = Blokěrowany
 newtab-section-mangage-topics-blocked-topics-subtitle = Blokěrowane temy
 newtab-section-mangage-topics-blocked-topics-empty-state = Hyšći njejsćo blokěrował temy.
