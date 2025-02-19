@@ -73,3 +73,7 @@ text-action-search-text-box-clear =
     .title = Spastroje
 text-action-highlight-selection =
     .label = Theksoje Përzgjedhjen
+# If the page has been loaded with a text fragment and text is
+# visibly highlighted, this removes any highlighted sections on the page.
+text-action-remove-all-highlights =
+    .label = Hiqi Krejt Theksimet

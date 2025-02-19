@@ -404,6 +404,8 @@ newtab-wallpaper-celestial-lunar-eclipse = Eklips hënor
 newtab-wallpaper-celestial-earth-night = Foto nate nga orbitë e ulët e Tokës
 newtab-wallpaper-celestial-starry-sky = Qiell me yje
 newtab-wallpaper-celestial-eclipse-time-lapse = Rrjedhë kohore eklipsi hënor
+newtab-wallpaper-celestial-black-hole = Ilustrim galaktike vrimë e zezë
+newtab-wallpaper-celestial-river = Pamje satelitore e një lumi
 
 ## New Tab Weather
 
@@ -498,13 +500,22 @@ newtab-section-confirm-block-section-p1 = Jeni i sigurt se doni të bllokohet kj
 newtab-section-confirm-block-section-p2 = Pjesa e bllokuar s’do të shfaqet më në prurjen tuaj.
 newtab-section-block-section-button = Bllokoje këtë pjesë
 newtab-section-cancel-button = Jo tani
+newtab-section-confirm-block-topic-p1 = Jeni i sigurt se doni të bllokohet ky subjekt?
+newtab-section-confirm-block-topic-p2 = Subjektet e bllokuar s’do të shfaqen më në prurjen tuaj.
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = Bllokoje { $topic }
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Tema
+newtab-section-manage-topics-button-v2 =
+    .label = Administroni subjekte
+newtab-section-mangage-topics-followed-topics = Të ndjekur
 newtab-section-mangage-topics-button =
     .label = Tema të ndjekura dhe të bllokuara
 newtab-section-mangage-topics-followed-topics-subtitle = Tema të Ndjekura
 newtab-section-mangage-topics-followed-topics-empty-state = S’keni ende ndonjë temë të ndjekur.
+newtab-section-mangage-topics-blocked-topics = Të bllokuar
 newtab-section-mangage-topics-blocked-topics-subtitle = Tema të Bllokuara
 newtab-section-mangage-topics-blocked-topics-empty-state = S’’keni ende ndonjë temë të bllokuar.

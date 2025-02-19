@@ -465,3 +465,5 @@ desktop-to-mobile-headline = Shkarkoni, njëkohësoni dhe jepini!
 desktop-to-mobile-subtitle = Që të shkarkohet { -brand-product-name }-i për celular, skanoni kodin QR. Pasi të instalohet, përzgjidhni “Njëkohësoje me celularin”, që të përdorni rrugës fjalëkalimet tuaj, faqerojtësit, etj.
 dismiss-button-label = Hidhe tej
 sync-to-mobile-button-label = Njëkohësoje me celularin
+desktop-to-mobile-qr-code-alt =
+    .aria-label = Kod QR për të shkarkuar { -brand-product-name } për celular

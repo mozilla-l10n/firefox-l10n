@@ -307,6 +307,9 @@ pdfjs-highlight-floating-button1 =
     .title = Theksim
     .aria-label = Theksim
 pdfjs-highlight-floating-button-label = Theksim
+pdfjs-editor-signature-button =
+    .title = Shtoni nënshkrim
+pdfjs-editor-signature-button-label = Shtoni nënshkrim
 
 ## Remove button for the various kind of editor.
 
@@ -336,6 +339,9 @@ pdfjs-editor-stamp-add-image-button-label = Shtoni figurë
 pdfjs-editor-free-highlight-thickness-input = Trashësi
 pdfjs-editor-free-highlight-thickness-title =
     .title = Ndryshoni trashësinë kur theksoni objekte tjetër nga tekst
+pdfjs-editor-signature-add-signature-button =
+    .title = Shtoni nënshkrim të ri
+pdfjs-editor-signature-add-signature-button-label = Shtoni nënshkrim të ri
 # .default-content is used as a placeholder in an empty text editor.
 pdfjs-free-text2 =
     .aria-label = Përpunues Tekstesh
@@ -561,12 +567,18 @@ pdfjs-editor-add-signature-error-close-button = Mbylle
 
 pdfjs-editor-add-signature-cancel-button = Anuloje
 pdfjs-editor-add-signature-add-button = Shtoje
+pdfjs-editor-edit-signature-update-button = Përditësoje
 
 ## Main menu for adding/removing signatures
 
+pdfjs-editor-delete-signature-button =
+    .title = Hiqe nënshkrimin
+pdfjs-editor-delete-signature-button-label = Hiqe nënshkrimin
 
 ## Editor toolbar
 
+pdfjs-editor-add-signature-edit-button-label = Përpunoni përshkrimin
 
 ## Edit signature description dialog
 
+pdfjs-editor-edit-signature-dialog-title = Përpunoni përshkrimin

@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = Robot IA Fjalosjesh
 menu-view-review-checker =
     .label = Kontrollor Shqyrtimesh
+menu-view-contextual-password-manager =
+    .label = Fjalëkalime
 sidebar-options-menu-button =
     .title = Hape menunë
 
@@ -115,6 +117,8 @@ sidebar-menu-customize-label =
     .label = Përshtatni anështyllën
 sidebar-menu-review-checker-label =
     .label = Kontrollor Shqyrtimesh
+sidebar-menu-contextual-password-manager-label =
+    .label = Fjalëkalime
 
 ## Tooltips for sidebar menu items.
 
@@ -157,6 +161,8 @@ sidebar-menu-syncedtabs-header =
     .heading = Skeda prej pajisjesh të tjera
 sidebar-menu-bookmarks-header =
     .heading = Faqerojtës
+sidebar-menu-cpm-header =
+    .heading = Fjalëkalime
 sidebar-panel-header-close-button =
     .tooltiptext = Mbylle
 
