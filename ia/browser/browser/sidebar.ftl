@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = Chatbot IA
 menu-view-review-checker =
     .label = Verificator de recension
+menu-view-contextual-password-manager =
+    .label = Contrasignos
 sidebar-options-menu-button =
     .title = Aperir menu
 
@@ -115,6 +117,8 @@ sidebar-menu-customize-label =
     .label = Personalisar le barra lateral
 sidebar-menu-review-checker-label =
     .label = Verificator de recension
+sidebar-menu-contextual-password-manager-label =
+    .label = Contrasignos
 
 ## Tooltips for sidebar menu items.
 
@@ -157,6 +161,8 @@ sidebar-menu-syncedtabs-header =
     .heading = Schedas ab altere apparatos
 sidebar-menu-bookmarks-header =
     .heading = Marcapaginas
+sidebar-menu-cpm-header =
+    .heading = Contrasignos
 sidebar-panel-header-close-button =
     .tooltiptext = Clauder
 

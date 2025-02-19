@@ -51,6 +51,8 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">«{ -vendor-sh
 community-2 = «{ -brand-short-name }» аз ҷониби <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label> <label data-l10n-name="community-creditsLink">ҷамъияти умумиҷаҳоние</label> эҷод карда шудааст, ки аъзои он барои ҳифзи Интернети кушод, оммавӣ ва ба ҳама дастрас ҳамкорӣ мекунанд.
 helpus = Мехоҳед, ки кумак кунед? <label data-l10n-name="helpus-donateLink">Кумаки пулӣ расонед</label> ё <label data-l10n-name="helpus-getInvolvedLink">иштирок кунед!</label>
 bottomLinks-license = Маълумот дар бораи гувоҳнома
+bottom-links-terms = Шартҳои истифода
+bottom-links-privacy = Огоҳномаи махфият
 bottomLinks-rights = Ҳуқуқҳои корбари ниҳоӣ
 bottomLinks-privacy = Сиёсати махфият
 # Example of resulting string: 66.0.1 (64-bit)

@@ -671,6 +671,8 @@ urlbar-result-action-copy-to-clipboard = Нусха бардоштан
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
+# The string returned for an undefined calculator result such as when dividing by 0
+urlbar-result-action-undefined-calculator-result = номуайян
 
 ## Strings used for buttons in the urlbar
 

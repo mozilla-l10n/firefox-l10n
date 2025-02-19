@@ -384,6 +384,7 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+newtab-wallpaper-celestial-starry-sky = Celo stellate
 
 ## New Tab Weather
 
@@ -483,9 +484,11 @@ newtab-section-cancel-button = Non ora
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Argumentos
+newtab-section-mangage-topics-followed-topics = Sequite
 newtab-section-mangage-topics-button =
     .label = Themas sequite e blocate
 newtab-section-mangage-topics-followed-topics-subtitle = Themas sequite
 newtab-section-mangage-topics-followed-topics-empty-state = Tu non ha sequite alcun thema ancora.
+newtab-section-mangage-topics-blocked-topics = Blocate
 newtab-section-mangage-topics-blocked-topics-subtitle = Themas blocate
 newtab-section-mangage-topics-blocked-topics-empty-state = Tu non ha blocate alcun thema ancora.

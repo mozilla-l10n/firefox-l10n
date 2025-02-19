@@ -467,3 +467,5 @@ desktop-to-mobile-headline = Discargar, synchronisar, e lancear!
 desktop-to-mobile-subtitle = Scande le codice QR pro discargar { -brand-product-name } pro apparatos mobile. Un vice installate, selige “Synchronisar a mobile” pro acceder a tu contrasignos, marcapaginas, e plus, al volo.
 dismiss-button-label = Clauder
 sync-to-mobile-button-label = Synchronisar con apparato mobile
+desktop-to-mobile-qr-code-alt =
+    .aria-label = Codice QR pro discargar { -brand-product-name } pro apparato mobile
