@@ -312,6 +312,12 @@ newtab-custom-settings = Administroni më tepër rregullime
 
 newtab-wallpaper-title = Sfonde
 newtab-wallpaper-reset = Riktheje te parazgjedhjet
+newtab-wallpaper-upload-image = Ngarkoni një figurë
+newtab-wallpaper-custom-color = Zgjidhni një ngjyrë
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = Figura tejkalonte kufirin { $file_size }MB e madhësive të kartelave. Ju lutemi, provoni të ngarkoni një kartelë më të vogël.
+newtab-wallpaper-error-file-type = S’e ngarkuam dot kartelën tuaj. Ju lutemi, riprovoni me një lloj tjetër kartele.
 newtab-wallpaper-light-red-panda = Panda e kuqe
 newtab-wallpaper-light-mountain = Mal i bardhë
 newtab-wallpaper-light-sky = Qiell me re të purpurta dhe të trëndafilta
@@ -355,6 +361,10 @@ newtab-wallpaper-abstract-purple = Forma të purpurta
 newtab-wallpaper-abstract-orange = Forma portokalli
 newtab-wallpaper-gradient-orange = Gradient portokalli dhe rozë
 newtab-wallpaper-abstract-blue-purple = Forma blu dhe të purpurta
+newtab-wallpaper-abstract-white-curves = E bardhë me lakore të hijezuara
+newtab-wallpaper-abstract-purple-green = Gradient ndriçimi të purpur dhe të gjelbër
+newtab-wallpaper-abstract-blue-purple-waves = Forma të valëzuara blu dhe të purpurta
+newtab-wallpaper-abstract-black-waves = Forma të valëzuara të zeza
 
 ## Celestial
 
@@ -365,6 +375,10 @@ newtab-wallpaper-storm-sky = Qiell me furtunë
 newtab-wallpaper-sky-with-pink-clouds = Qiell me re rozë
 newtab-wallpaper-red-panda-yawns-in-a-tree = Pandë e kuqe në majë të pemës
 newtab-wallpaper-white-mountains = Male të bardhë
+newtab-wallpaper-starry-canyon = Natë blu me yje
+newtab-wallpaper-sand-dunes = Duna ranore të bardha
+newtab-wallpaper-palm-trees = Siluetë pemësh arrash kokosi gjatë orës së artë
+newtab-wallpaper-forest-trees = Pemë të mbuluara nga mjegull
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -382,6 +396,14 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Qiellor
+newtab-wallpaper-celestial-lunar-eclipse = Eklips hënor
+newtab-wallpaper-celestial-earth-night = Foto nate nga orbitë e ulët e Tokës
+newtab-wallpaper-celestial-starry-sky = Qiell me yje
+newtab-wallpaper-celestial-eclipse-time-lapse = Rrjedhë kohore eklipsi hënor
 
 ## New Tab Weather
 

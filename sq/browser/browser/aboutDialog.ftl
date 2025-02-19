@@ -51,6 +51,8 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name }-i është hartuar nga <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, një <label data-l10n-name="community-creditsLink">bashkësi mbarëbotërore</label> që punon tok për ta mbajtur Web-in të hapët, publik dhe të përdorshëm nga kushdo.
 helpus = Doni të ndihmoni? <label data-l10n-name="helpus-donateLink">Bëni një dhurim</label> ose <label data-l10n-name="helpus-getInvolvedLink">përfshihuni!</label>
 bottomLinks-license = Të dhëna Licencimi
+bottom-links-terms = Kushte Përdorimi
+bottom-links-privacy = Shënim Mbi Privatësinë
 bottomLinks-rights = Të drejta Përdoruesi
 bottomLinks-privacy = Rregulla Privatësie
 # Example of resulting string: 66.0.1 (64-bit)
