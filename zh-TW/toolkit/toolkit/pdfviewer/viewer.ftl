@@ -308,6 +308,9 @@ pdfjs-highlight-floating-button1 =
     .title = 強調
     .aria-label = 強調
 pdfjs-highlight-floating-button-label = 強調
+pdfjs-editor-signature-button =
+    .title = 加入簽名
+pdfjs-editor-signature-button-label = 加入簽名
 
 ## Remove button for the various kind of editor.
 
@@ -337,6 +340,8 @@ pdfjs-editor-stamp-add-image-button-label = 新增圖片
 pdfjs-editor-free-highlight-thickness-input = 線條粗細
 pdfjs-editor-free-highlight-thickness-title =
     .title = 更改強調文字以外的項目時的線條粗細
+pdfjs-editor-signature-add-signature-button =
+    .title = 新增簽名
 pdfjs-editor-signature-add-signature-button-label = 新增簽章
 # .default-content is used as a placeholder in an empty text editor.
 pdfjs-free-text2 =

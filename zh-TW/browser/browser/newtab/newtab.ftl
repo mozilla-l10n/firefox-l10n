@@ -361,6 +361,10 @@ newtab-wallpaper-abstract-purple = 紫色造型
 newtab-wallpaper-abstract-orange = 橘色造型
 newtab-wallpaper-gradient-orange = 橘色粉紅色漸層
 newtab-wallpaper-abstract-blue-purple = 藍色紫色造型
+newtab-wallpaper-abstract-white-curves = 白色的曲線圖案
+newtab-wallpaper-abstract-purple-green = 紫色與綠色漸層
+newtab-wallpaper-abstract-blue-purple-waves = 藍色與紫色波浪圖
+newtab-wallpaper-abstract-black-waves = 黑色波浪圖
 
 ## Celestial
 
@@ -371,6 +375,11 @@ newtab-wallpaper-storm-sky = 暴風雨的天空
 newtab-wallpaper-sky-with-pink-clouds = 有粉紅色雲朵的天空
 newtab-wallpaper-red-panda-yawns-in-a-tree = 在樹上打呵欠的小貓熊
 newtab-wallpaper-white-mountains = 白色山脈
+newtab-wallpaper-hot-air-balloons = 於白天有各種色彩的熱氣球
+newtab-wallpaper-starry-canyon = 藍色星空
+newtab-wallpaper-suspension-bridge = 白天的灰色吊橋照片
+newtab-wallpaper-sand-dunes = 白色沙丘
+newtab-wallpaper-forest-trees = 被濃霧遮蓋住的樹
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -388,6 +397,15 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = 天空
+newtab-wallpaper-celestial-lunar-eclipse = 月食
+newtab-wallpaper-celestial-starry-sky = 星空
+newtab-wallpaper-celestial-eclipse-time-lapse = 月食縮時攝影
+newtab-wallpaper-celestial-black-hole = 黑洞銀河插圖
+newtab-wallpaper-celestial-river = 河流的衛星照片
 
 ## New Tab Weather
 
