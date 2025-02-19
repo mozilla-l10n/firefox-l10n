@@ -842,7 +842,7 @@ toolbar-button-synced-tabs =
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
     .label = പുതിയ സ്വകാര്യ ജാലകം
-    .tooltiptext = പുതിയൊരു സ്വകാര്യ ബ്രൌസിങ് ജാലകം തുറക്കുക ({ $shortcut })
+    .tooltiptext = പുതിയൊരു സ്വകാര്യ തിരച്ചിൽ ജാലകം തുറക്കുക ({ $shortcut })
 
 ## EME notification panel
 
