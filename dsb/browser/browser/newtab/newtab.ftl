@@ -320,6 +320,10 @@ newtab-wallpaper-title = Slězynowe wobraze
 newtab-wallpaper-reset = Na standard slědk stajiś
 newtab-wallpaper-upload-image = Wobraz nagraś
 newtab-wallpaper-custom-color = Barwu wubraś
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = Wobraz jo pśekšocył limit datajoweje wjelikosći { $file_size }. Nagrajśo pšosym mjeńšu dataju.
+newtab-wallpaper-error-file-type = Njejsmy mógli wašu dataju nagraś. Wopytajśo pšosym z drugim datajowym typom hyšći raz.
 newtab-wallpaper-light-red-panda = Cerwjeny panda
 newtab-wallpaper-light-mountain = Běła góra
 newtab-wallpaper-light-sky = Njebjo z wioletnymi a rožowymi mrokawami
@@ -363,6 +367,8 @@ newtab-wallpaper-abstract-purple = Wioletne formy
 newtab-wallpaper-abstract-orange = Oranžowe formy
 newtab-wallpaper-gradient-orange = Woběžk oranžowy a pink
 newtab-wallpaper-abstract-blue-purple = Módre a wioletne formy
+newtab-wallpaper-abstract-blue-purple-waves = Módre a wioletne žwałkate formy
+newtab-wallpaper-abstract-black-waves = Carne žwałkate formy
 
 ## Celestial
 
@@ -373,6 +379,8 @@ newtab-wallpaper-storm-sky = Wichorowe njebjo
 newtab-wallpaper-sky-with-pink-clouds = Njebjo z rožowymi mrokami
 newtab-wallpaper-red-panda-yawns-in-a-tree = Cerwjeny panda w bomje zewa
 newtab-wallpaper-white-mountains = Běłe góry
+newtab-wallpaper-starry-canyon = Módra gwězdna noc
+newtab-wallpaper-sand-dunes = Běłe změty pěska
 newtab-wallpaper-palm-trees = Silueta bomow kokosowych palmow w złotej góźinje
 newtab-wallpaper-forest-trees = Z kurjawu pókšyte bomy
 # Variables
