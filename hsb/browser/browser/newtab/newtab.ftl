@@ -373,7 +373,9 @@ newtab-wallpaper-storm-sky = Wichorowe njebjo
 newtab-wallpaper-sky-with-pink-clouds = Njebjo z róžowymi mróčelemi
 newtab-wallpaper-red-panda-yawns-in-a-tree = Čerwjeny panda w štomje zywa
 newtab-wallpaper-white-mountains = Běłe hory
+newtab-wallpaper-starry-canyon = Módra hwězdna nóc
 newtab-wallpaper-sand-dunes = Běłe pěskowe nawěwy
+newtab-wallpaper-forest-trees = Z kurjawu pokryte štomy
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -391,7 +393,14 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Njebjeski
+newtab-wallpaper-celestial-lunar-eclipse = Zaćmiće měsačka
+newtab-wallpaper-celestial-earth-night = Nócne foto ze zemskeho orbita
 newtab-wallpaper-celestial-starry-sky = Hwězdne njebjo
+newtab-wallpaper-celestial-river = Satelitowy wobraz rěki
 
 ## New Tab Weather
 
