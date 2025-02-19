@@ -373,6 +373,7 @@ newtab-wallpaper-storm-sky = Wichorowe njebjo
 newtab-wallpaper-sky-with-pink-clouds = Njebjo z róžowymi mróčelemi
 newtab-wallpaper-red-panda-yawns-in-a-tree = Čerwjeny panda w štomje zywa
 newtab-wallpaper-white-mountains = Běłe hory
+newtab-wallpaper-sand-dunes = Běłe pěskowe nawěwy
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -390,6 +391,7 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+newtab-wallpaper-celestial-starry-sky = Hwězdne njebjo
 
 ## New Tab Weather
 
