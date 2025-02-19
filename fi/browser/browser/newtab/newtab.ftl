@@ -365,6 +365,10 @@ newtab-wallpaper-abstract-purple = Violetit muodot
 newtab-wallpaper-abstract-orange = Oranssit muodot
 newtab-wallpaper-gradient-orange = Oranssi ja pinkki liukuväreissä
 newtab-wallpaper-abstract-blue-purple = Sinisiä ja violetteja muotoja
+newtab-wallpaper-abstract-white-curves = Valkoista ja varjostettuja kaaria
+newtab-wallpaper-abstract-purple-green = Violetin ja vihreän valon liukuväriä
+newtab-wallpaper-abstract-blue-purple-waves = Sinisiä ja violetteja aaltoilevia muotoja
+newtab-wallpaper-abstract-black-waves = Mustia aaltoilevia muotoja
 
 ## Celestial
 
@@ -375,7 +379,9 @@ newtab-wallpaper-storm-sky = Myrskyinen taivas
 newtab-wallpaper-sky-with-pink-clouds = Taivas ja vaaleanpunaiset pilvet
 newtab-wallpaper-red-panda-yawns-in-a-tree = Kultapanda haukottelee puussa
 newtab-wallpaper-white-mountains = Valkoiset vuoret
+newtab-wallpaper-starry-canyon = Sininen tähtiyö
 newtab-wallpaper-sand-dunes = Valkoiset hiekkadyynit
+newtab-wallpaper-palm-trees = Kookospalmujen siluetti auringonnousun aikana
 newtab-wallpaper-forest-trees = Puut sumun peitossa
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
@@ -394,6 +400,7 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+newtab-wallpaper-celestial-lunar-eclipse = Kuunpimennys
 newtab-wallpaper-celestial-earth-night = Yökuva matalalta Maan kiertoradalta
 newtab-wallpaper-celestial-starry-sky = Tähtitaivas
 newtab-wallpaper-celestial-eclipse-time-lapse = Kuunpimennyksen kuvasarja
