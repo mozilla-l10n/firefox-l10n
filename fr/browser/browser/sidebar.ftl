@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = Chatbot IA
 menu-view-review-checker =
     .label = Vérificateur d’avis
+menu-view-contextual-password-manager =
+    .label = Mots de passe
 sidebar-options-menu-button =
     .title = Ouvrir le menu
 
@@ -115,6 +117,8 @@ sidebar-menu-customize-label =
     .label = Personnaliser le panneau latéral
 sidebar-menu-review-checker-label =
     .label = Vérificateur d’avis
+sidebar-menu-contextual-password-manager-label =
+    .label = Mots de passe
 
 ## Tooltips for sidebar menu items.
 
@@ -157,6 +161,8 @@ sidebar-menu-syncedtabs-header =
     .heading = Onglets d’autres appareils
 sidebar-menu-bookmarks-header =
     .heading = Marque-pages
+sidebar-menu-cpm-header =
+    .heading = Mots de passe
 sidebar-panel-header-close-button =
     .tooltiptext = Fermer
 

@@ -312,6 +312,8 @@ newtab-custom-settings = Gérer plus de paramètres
 
 newtab-wallpaper-title = Fonds d’écran
 newtab-wallpaper-reset = Réinitialiser
+newtab-wallpaper-upload-image = Envoyer une image
+newtab-wallpaper-custom-color = Choisir une couleur
 newtab-wallpaper-light-red-panda = Panda roux
 newtab-wallpaper-light-mountain = Montagne blanche
 newtab-wallpaper-light-sky = Ciel avec des nuages violets et roses
