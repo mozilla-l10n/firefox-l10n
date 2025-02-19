@@ -64,6 +64,7 @@ split-dismiss-button-manage-settings-option-label = Administri agordojn
 
 sidebar-button-callout-title = Montri titolojn de langetoj en la flanka strio
 sidebar-button-callout-subtitle = Uzu la butonon de la flanka strio por malfaldi ĝin, tiel ke vi povos vidi titolojn de langetoj.
+sidebar-button-callout-vertical-tabs = Por montri viajn langetojn, alklaku la butonon de la flanka strio en la ilaro.
 
 ## Sidebar Callout Survey Strings
 
