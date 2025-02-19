@@ -73,3 +73,12 @@ text-action-search-text-box-clear =
     .title = 지우기
 text-action-highlight-selection =
     .label = 선택 강조 표시
+# "Copy Link to Highlight" creates a permanent 'Text Fragment' link
+# to the current selection, and copies it into the user's clipboard.
+text-action-copy-link-to-highlight =
+    .label = 강조 표시의 링크 복사
+# This combines "Copy Link to Highlight" with "Copy Clean Link", ie.
+# it creates a link with a text fragment to the current selection
+# and it strips trackers etc.
+text-action-copy-clean-link-to-highlight =
+    .label = 강조 표시의 링크 정리 복사
