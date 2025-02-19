@@ -314,6 +314,10 @@ newtab-wallpaper-title = Fundos
 newtab-wallpaper-reset = Restaurar le predefinition
 newtab-wallpaper-upload-image = Cargar un imagine
 newtab-wallpaper-custom-color = Eliger un color
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = Le imagine excedeva le limite de dimension de file de { $file_size }MB. Tenta cargar un file minus grande.
+newtab-wallpaper-error-file-type = Impossibile cargar tu file. Retenta con typo de file differente.
 newtab-wallpaper-light-red-panda = Panda rubie
 newtab-wallpaper-light-mountain = Montania blanc
 newtab-wallpaper-light-sky = Celo con nubes purpuree e rosate
@@ -367,6 +371,7 @@ newtab-wallpaper-storm-sky = Celo tempestuose
 newtab-wallpaper-sky-with-pink-clouds = Celo con nubes rosate
 newtab-wallpaper-red-panda-yawns-in-a-tree = Un panda rubie que balla sur un arbore
 newtab-wallpaper-white-mountains = Montanias blanc
+newtab-wallpaper-starry-canyon = Nocte stellate blau
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -384,6 +389,11 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Celo
+newtab-wallpaper-celestial-lunar-eclipse = Eclipse lunar
 newtab-wallpaper-celestial-starry-sky = Celo stellate
 
 ## New Tab Weather
@@ -480,10 +490,17 @@ newtab-section-confirm-block-section-p1 = Desira tu vermente blocar iste section
 newtab-section-confirm-block-section-p2 = Le section blocate non plus apparera in tu fluxo.
 newtab-section-block-section-button = Blocar iste section
 newtab-section-cancel-button = Non ora
+newtab-section-confirm-block-topic-p1 = Desira tu vermente blocar iste argumento?
+newtab-section-confirm-block-topic-p2 = Le argumentos blocate non plus apparera in tu fluxo.
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = Blocar { $topic }
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Argumentos
+newtab-section-manage-topics-button-v2 =
+    .label = Gerer argumentos
 newtab-section-mangage-topics-followed-topics = Sequite
 newtab-section-mangage-topics-button =
     .label = Themas sequite e blocate

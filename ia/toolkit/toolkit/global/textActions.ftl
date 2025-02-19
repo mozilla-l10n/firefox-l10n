@@ -73,3 +73,11 @@ text-action-search-text-box-clear =
     .title = Vacuar
 text-action-highlight-selection =
     .label = Evidentiar selection
+# "Copy Link to Highlight" creates a permanent 'Text Fragment' link
+# to the current selection, and copies it into the user's clipboard.
+text-action-copy-link-to-highlight =
+    .label = Copiar ligamine al texto evidentiate
+# If the page has been loaded with a text fragment and text is
+# visibly highlighted, this removes any highlighted sections on the page.
+text-action-remove-all-highlights =
+    .label = Remover tote le evidentias
