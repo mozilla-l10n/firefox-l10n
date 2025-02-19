@@ -363,6 +363,8 @@ newtab-wallpaper-abstract-purple = Шаклҳои лоҷувард
 newtab-wallpaper-abstract-orange = Шаклҳои норинҷӣ
 newtab-wallpaper-gradient-orange = Тағйирёбии норинҷӣ ва голубӣ
 newtab-wallpaper-abstract-blue-purple = Шаклҳои кабуд ва норинҷӣ
+newtab-wallpaper-abstract-white-curves = Сафед бо хатҳои каҷи сояандоз
+newtab-wallpaper-abstract-purple-green = Тобиши лоҷувард ва сабзи равшан
 
 ## Celestial
 
