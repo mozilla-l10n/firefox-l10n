@@ -378,6 +378,8 @@ newtab-wallpaper-hot-air-balloons = Cores variadas de balões de ar quente duran
 newtab-wallpaper-starry-canyon = Noite estrelada azul
 newtab-wallpaper-suspension-bridge = Fotografia de ponte totalmente suspensa cinza durante o dia
 newtab-wallpaper-sand-dunes = Dunas de areia branca
+newtab-wallpaper-palm-trees = Silhueta de coqueiros durante o entardecer
+newtab-wallpaper-forest-trees = Árvores cobertas de neblina
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -395,6 +397,16 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Celestial
+newtab-wallpaper-celestial-lunar-eclipse = Eclipse lunar
+newtab-wallpaper-celestial-earth-night = Foto noturna de órbita baixa da Terra
+newtab-wallpaper-celestial-starry-sky = Céu estrelado
+newtab-wallpaper-celestial-eclipse-time-lapse = Lapso de tempo de eclipse lunar
+newtab-wallpaper-celestial-black-hole = Ilustração de galáxia com buraco negro
+newtab-wallpaper-celestial-river = Imagem de satélite de rio
 
 ## New Tab Weather
 
