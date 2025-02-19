@@ -316,6 +316,11 @@ newtab-custom-settings = 추가 설정
 newtab-wallpaper-title = 배경 화면
 newtab-wallpaper-reset = 기본값으로 재설정
 newtab-wallpaper-upload-image = 이미지 업로드
+newtab-wallpaper-custom-color = 색상 선택
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = 이미지가 파일 크기 제한인 { $file_size }MB를 초과했습니다. 더 작은 파일을 업로드 해 주세요.
+newtab-wallpaper-error-file-type = 파일을 업로드하지 못했습니다. 다른 파일 형식으로 다시 시도하세요.
 newtab-wallpaper-light-red-panda = 레서판다
 newtab-wallpaper-light-mountain = 하얀 산
 newtab-wallpaper-light-sky = 보라색과 분홍색 구름이 있는 하늘
@@ -359,6 +364,10 @@ newtab-wallpaper-abstract-purple = 보라색 모양
 newtab-wallpaper-abstract-orange = 주황색 모양
 newtab-wallpaper-gradient-orange = 주황색과 분홍색 그라데이션
 newtab-wallpaper-abstract-blue-purple = 파란색과 보라색 모양
+newtab-wallpaper-abstract-white-curves = 음영 곡선이 있는 흰색
+newtab-wallpaper-abstract-purple-green = 보라색과 녹색 빛 그라데이션
+newtab-wallpaper-abstract-blue-purple-waves = 파란색과 보라색 물결 모양
+newtab-wallpaper-abstract-black-waves = 검은 물결 모양
 
 ## Celestial
 
@@ -369,6 +378,12 @@ newtab-wallpaper-storm-sky = 폭풍우 하늘
 newtab-wallpaper-sky-with-pink-clouds = 분홍색 구름의 하늘
 newtab-wallpaper-red-panda-yawns-in-a-tree = 나무 위에서 하품하는 레서판다
 newtab-wallpaper-white-mountains = 하얀 산
+newtab-wallpaper-hot-air-balloons = 낮 동안 다양한 색상의 열기구
+newtab-wallpaper-starry-canyon = 파란 별이 빛나는 밤
+newtab-wallpaper-suspension-bridge = 낮 동안 회색 전체 현수교 사진
+newtab-wallpaper-sand-dunes = 하얀 모래언덕
+newtab-wallpaper-palm-trees = 골든 아워의 코코넛 야자수 실루엣
+newtab-wallpaper-forest-trees = 안개로 덮인 나무
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -386,6 +401,11 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = 천문
+newtab-wallpaper-celestial-lunar-eclipse = 월식
 
 ## New Tab Weather
 

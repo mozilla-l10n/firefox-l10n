@@ -667,6 +667,8 @@ urlbar-result-action-copy-to-clipboard = 복사
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
+# The string returned for an undefined calculator result such as when dividing by 0
+urlbar-result-action-undefined-calculator-result = 정의되지 않음
 # Shows the result of a formula expression being calculated, to a maximum of 9 significant
 # digits. The last = sign will be shown as part of the result (e.g. "= 2").
 # Variables
