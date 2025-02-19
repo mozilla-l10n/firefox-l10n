@@ -149,6 +149,7 @@ preferences-data-migration-button =
     .label = Ворид кардани маълумот
     .accesskey = В
 preferences-profiles-header = Профилҳо
+preferences-manage-profiles-description = Ҳар як профил дорои маълумоти тамошобинӣ ва танзимоти алоҳида мебошад, аз он ҷумла таърих, ниҳонвожаҳо ва ғайра.
 preferences-manage-profiles-learn-more = Маълумоти бештар
 preferences-manage-profiles-button =
     .label = Идоракунии профилҳо
