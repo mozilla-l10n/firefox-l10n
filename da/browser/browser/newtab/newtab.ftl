@@ -478,7 +478,6 @@ newtab-section-unblock-button = Fjern blokering
 
 ## Confirmation modal for blocking a section
 
-newtab-section-confirm-block-section-p1 = Er du sikker på, at du vil blokere dette afsnit
 newtab-section-confirm-block-section-p2 = Det blokerede afsnit vil ikke længere blive vist i dit feed.
 newtab-section-block-section-button = Bloker dette afsnit
 newtab-section-cancel-button = Ikke nu
