@@ -313,6 +313,11 @@ newtab-custom-settings = Gerenciar mais configurações
 newtab-wallpaper-title = Fundo de tela
 newtab-wallpaper-reset = Restaurar padrão
 newtab-wallpaper-upload-image = Enviar uma imagem
+newtab-wallpaper-custom-color = Escolher uma cor
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = A imagem excedeu o limite de tamanho de arquivo de { $file_size }MB. Tente enviar um arquivo menor.
+newtab-wallpaper-error-file-type = Não foi possível enviar o arquivo. Tente novamente com outro tipo de arquivo.
 newtab-wallpaper-light-red-panda = Panda vermelho
 newtab-wallpaper-light-mountain = Montanha branca
 newtab-wallpaper-light-sky = Céu com nuvens violeta e rosa
@@ -356,6 +361,9 @@ newtab-wallpaper-abstract-purple = Formas em tons de roxo
 newtab-wallpaper-abstract-orange = Formas em tons de laranja
 newtab-wallpaper-gradient-orange = Gradiente laranja e rosa
 newtab-wallpaper-abstract-blue-purple = Formas em tons de azul e roxo
+newtab-wallpaper-abstract-white-curves = Branco com curvas sombreadas
+newtab-wallpaper-abstract-blue-purple-waves = Formas onduladas em azul e roxo
+newtab-wallpaper-abstract-black-waves = Formas onduladas pretas
 
 ## Celestial
 
@@ -366,6 +374,8 @@ newtab-wallpaper-storm-sky = Céu de tempestade
 newtab-wallpaper-sky-with-pink-clouds = Céu com nuvens cor-de-rosa.
 newtab-wallpaper-red-panda-yawns-in-a-tree = Panda vermelho boceja em uma árvore
 newtab-wallpaper-white-mountains = Montanhas brancas
+newtab-wallpaper-hot-air-balloons = Cores variadas de balões de ar quente durante o dia
+newtab-wallpaper-starry-canyon = Noite estrelada azul
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
