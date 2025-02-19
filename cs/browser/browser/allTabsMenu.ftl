@@ -18,3 +18,8 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = Zavřít všechny duplicitní panely
 all-tabs-menu-synced-tabs =
     .label = Panely z jiných zařízení
+all-tabs-menu-current-window-header = Aktuální okno
+# "Show all" is for showing all open groups as well as saved groups. Initially,
+# we only show up to five of these groups.
+all-tabs-menu-tab-groups-show-all =
+    .label = Zobrazit vše

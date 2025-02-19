@@ -380,6 +380,12 @@ newtab-wallpaper-storm-sky = Грозовое небо
 newtab-wallpaper-sky-with-pink-clouds = Небо с розовыми облаками
 newtab-wallpaper-red-panda-yawns-in-a-tree = Красная панда зевает на дереве
 newtab-wallpaper-white-mountains = Белые горы
+newtab-wallpaper-hot-air-balloons = Различные цвета воздушных шаров в дневное время
+newtab-wallpaper-starry-canyon = Синяя звёздная ночь
+newtab-wallpaper-suspension-bridge = Фотография серого подвесного моста в дневное время
+newtab-wallpaper-sand-dunes = Белые песчаные дюны
+newtab-wallpaper-palm-trees = Силуэт кокосовых пальм в золотой час
+newtab-wallpaper-forest-trees = Деревья, окутанные туманом
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -397,6 +403,16 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Небесный
+newtab-wallpaper-celestial-lunar-eclipse = Лунное затмение
+newtab-wallpaper-celestial-earth-night = Ночное фото с низкой околоземной орбиты
+newtab-wallpaper-celestial-starry-sky = Звёздное небо
+newtab-wallpaper-celestial-eclipse-time-lapse = Хронометраж лунного затмения
+newtab-wallpaper-celestial-black-hole = Иллюстрация галактики с черной дырой
+newtab-wallpaper-celestial-river = Космический снимок реки
 
 ## New Tab Weather
 
@@ -492,13 +508,22 @@ newtab-section-confirm-block-section-p1 = Вы уверены, что хотит
 newtab-section-confirm-block-section-p2 = Заблокированный раздел больше не будет отображаться в вашей ленте.
 newtab-section-block-section-button = Заблокировать этот раздел
 newtab-section-cancel-button = Не сейчас
+newtab-section-confirm-block-topic-p1 = Вы уверены, что хотите заблокировать эту тему?
+newtab-section-confirm-block-topic-p2 = Заблокированные темы больше не будут появляться в вашей ленте.
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = Заблокировать { $topic }
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Темы
+newtab-section-manage-topics-button-v2 =
+    .label = Управление темами
+newtab-section-mangage-topics-followed-topics = Подписки
 newtab-section-mangage-topics-button =
     .label = Отслеживаемые и заблокированные темы
 newtab-section-mangage-topics-followed-topics-subtitle = Отслеживаемые темы
 newtab-section-mangage-topics-followed-topics-empty-state = Вы пока не отслеживаете ни одну тему.
+newtab-section-mangage-topics-blocked-topics = Заблокированы
 newtab-section-mangage-topics-blocked-topics-subtitle = Заблокированные темы
 newtab-section-mangage-topics-blocked-topics-empty-state = Вы пока не заблокировали ни одной темы.

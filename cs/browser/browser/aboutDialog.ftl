@@ -75,6 +75,8 @@ community-2 =
     } Jsme <label data-l10n-name="community-creditsLink">celosvětová komunita</label> snažící se o zachování veřejně dostupného, otevřeného a všem přístupného webu.
 helpus = Chcete pomoci? <label data-l10n-name="helpus-donateLink">Darujte příspěvek</label> nebo <label data-l10n-name="helpus-getInvolvedLink">se zapojte!</label>
 bottomLinks-license = Licence
+bottom-links-terms = Podmínky použití
+bottom-links-privacy = Zásady ochrany osobních údajů
 bottomLinks-rights = Vaše práva
 bottomLinks-privacy = Zásady ochrany osobních údajů
 # Example of resulting string: 66.0.1 (64-bit)

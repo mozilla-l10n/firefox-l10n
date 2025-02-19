@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = ИИ-чат-бот
 menu-view-review-checker =
     .label = Проверка отзывов
+menu-view-contextual-password-manager =
+    .label = Пароли
 sidebar-options-menu-button =
     .title = Открыть меню
 
@@ -115,6 +117,8 @@ sidebar-menu-customize-label =
     .label = Настройка боковой панели
 sidebar-menu-review-checker-label =
     .label = Проверка отзывов
+sidebar-menu-contextual-password-manager-label =
+    .label = Пароли
 
 ## Tooltips for sidebar menu items.
 
@@ -157,6 +161,8 @@ sidebar-menu-syncedtabs-header =
     .heading = Вкладки с других устройств
 sidebar-menu-bookmarks-header =
     .heading = Закладки
+sidebar-menu-cpm-header =
+    .heading = Пароли
 sidebar-panel-header-close-button =
     .tooltiptext = Закрыть
 

@@ -323,6 +323,8 @@ newtab-custom-settings = Další nastavení
 
 newtab-wallpaper-title = Tapety
 newtab-wallpaper-reset = Obnovit výchozí nastavení
+newtab-wallpaper-upload-image = Nahrát obrázek
+newtab-wallpaper-custom-color = Vybrat barvu
 newtab-wallpaper-light-red-panda = Panda červená
 newtab-wallpaper-light-mountain = Bílá hora
 newtab-wallpaper-light-sky = Obloha s fialovými a růžovými mraky
@@ -366,6 +368,7 @@ newtab-wallpaper-abstract-purple = Fialové tvary
 newtab-wallpaper-abstract-orange = Oranžové tvary
 newtab-wallpaper-gradient-orange = Přechod oranžové a růžové
 newtab-wallpaper-abstract-blue-purple = Modré a fialové tvary
+newtab-wallpaper-abstract-black-waves = Černé zvlněné tvary
 
 ## Celestial
 
@@ -376,6 +379,9 @@ newtab-wallpaper-storm-sky = Bouřková obloha
 newtab-wallpaper-sky-with-pink-clouds = Obloha s růžovými obláčky
 newtab-wallpaper-red-panda-yawns-in-a-tree = Panda červená zívá na stromě
 newtab-wallpaper-white-mountains = Bílé hory
+newtab-wallpaper-starry-canyon = Modrá hvězdná noc
+newtab-wallpaper-sand-dunes = Bílé písečné duny
+newtab-wallpaper-forest-trees = Stromy v mlze
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -393,6 +399,10 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Nebeská
 
 ## New Tab Weather
 
@@ -492,9 +502,11 @@ newtab-section-cancel-button = Teď ne
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Témata
+newtab-section-mangage-topics-followed-topics = Sledováno
 newtab-section-mangage-topics-button =
     .label = Sledovaná a blokovaná témata
 newtab-section-mangage-topics-followed-topics-subtitle = Sledovaná témata
 newtab-section-mangage-topics-followed-topics-empty-state = Zatím nesledujete žádné téma.
+newtab-section-mangage-topics-blocked-topics = Blokováno
 newtab-section-mangage-topics-blocked-topics-subtitle = Blokovaná témata
 newtab-section-mangage-topics-blocked-topics-empty-state = Zatím jste nezablokovali žádná témata.

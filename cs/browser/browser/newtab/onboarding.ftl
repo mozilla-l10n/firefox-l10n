@@ -647,3 +647,4 @@ multi-profile-callout-cta = Vytvořit profil
 
 ## Desktop to Mobile Adoption feature callout strings
 
+dismiss-button-label = Zavřít
