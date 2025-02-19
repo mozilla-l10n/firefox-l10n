@@ -361,6 +361,8 @@ newtab-wallpaper-gradient-orange = מעברי צבע כתום וורוד
 newtab-wallpaper-abstract-blue-purple = צורות כחולות וסגולות
 newtab-wallpaper-abstract-white-curves = לבן עם קימורים מוצללים
 newtab-wallpaper-abstract-purple-green = שיפוע אור סגול וירוק
+newtab-wallpaper-abstract-blue-purple-waves = צורות גליות בצבע כחול וסגול
+newtab-wallpaper-abstract-black-waves = צורות גליות בצבע שחור
 
 ## Celestial
 
@@ -371,6 +373,12 @@ newtab-wallpaper-storm-sky = שמיים סוערים
 newtab-wallpaper-sky-with-pink-clouds = שמיים עם עננים ורודים
 newtab-wallpaper-red-panda-yawns-in-a-tree = פנדה אדומה מפהקת בעץ
 newtab-wallpaper-white-mountains = הרים לבנים
+newtab-wallpaper-hot-air-balloons = מגוון צבעים של בלוני אוויר חם במהלך שעות היום
+newtab-wallpaper-starry-canyon = ליל כוכבים כחול
+newtab-wallpaper-suspension-bridge = תצלום של גשר תלוי אפור במהלך שעות היום
+newtab-wallpaper-sand-dunes = דיונות חול לבן
+newtab-wallpaper-palm-trees = צללית של עצי דקל קוקוס במהלך שעת הזהב
+newtab-wallpaper-forest-trees = עצים מכוסים בערפל
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -388,6 +396,13 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = שמימי
+newtab-wallpaper-celestial-lunar-eclipse = ליקוי ירח
+newtab-wallpaper-celestial-earth-night = צילום לילה ממסלול לווייני נמוך של כדור הארץ
+newtab-wallpaper-celestial-starry-sky = שמי כוכבים
 
 ## New Tab Weather
 

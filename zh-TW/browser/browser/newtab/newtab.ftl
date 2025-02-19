@@ -312,6 +312,8 @@ newtab-custom-settings = 管理更多設定
 
 newtab-wallpaper-title = 背景圖
 newtab-wallpaper-reset = 還原為預設值
+newtab-wallpaper-upload-image = 上傳圖片
+newtab-wallpaper-custom-color = 選擇一種色彩
 newtab-wallpaper-light-red-panda = 小貓熊
 newtab-wallpaper-light-mountain = 白色山脈
 newtab-wallpaper-light-sky = 紫色與粉紅色的天空
@@ -477,10 +479,15 @@ newtab-section-confirm-block-section-p1 = 您確定要封鎖這個段落嗎？
 newtab-section-confirm-block-section-p2 = 將從資訊來源隱藏封鎖的段落。
 newtab-section-block-section-button = 封鎖此段落
 newtab-section-cancel-button = 現在不要
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = 封鎖 { $topic }
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = 主題
+newtab-section-manage-topics-button-v2 =
+    .label = 管理主題
 newtab-section-mangage-topics-button =
     .label = 已關注並封鎖的主題
 newtab-section-mangage-topics-followed-topics-subtitle = 關注的主題

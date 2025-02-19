@@ -337,6 +337,7 @@ pdfjs-editor-stamp-add-image-button-label = 新增圖片
 pdfjs-editor-free-highlight-thickness-input = 線條粗細
 pdfjs-editor-free-highlight-thickness-title =
     .title = 更改強調文字以外的項目時的線條粗細
+pdfjs-editor-signature-add-signature-button-label = 新增簽章
 # .default-content is used as a placeholder in an empty text editor.
 pdfjs-free-text2 =
     .aria-label = 文字編輯器
@@ -558,9 +559,13 @@ pdfjs-editor-add-signature-error-close-button = 關閉
 
 pdfjs-editor-add-signature-cancel-button = 取消
 pdfjs-editor-add-signature-add-button = 新增
+pdfjs-editor-edit-signature-update-button = 更新
 
 ## Main menu for adding/removing signatures
 
+pdfjs-editor-delete-signature-button =
+    .title = 移除簽章
+pdfjs-editor-delete-signature-button-label = 移除簽章
 
 ## Editor toolbar
 
