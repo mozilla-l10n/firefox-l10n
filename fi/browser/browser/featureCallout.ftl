@@ -99,3 +99,12 @@ unified-search-callout-subtitle = Valitse, mikä sopii parhaiten yksittäiseen h
 unified-search-callout-primary-label = Seuraava
 unified-search-callout-secondary-label = Hylkää
 unified-search-engines-callout-primary-label = Selvä
+actions-callout-title = Suorita yleisiä tehtäviä tai käytä perusasetuksia
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearhistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = Kokeile kirjoittaa toiminto kuten “tulosta” tulostaaksesi sivun, tai “tyhjennä” tyhjentääksesi selaushistorian.
