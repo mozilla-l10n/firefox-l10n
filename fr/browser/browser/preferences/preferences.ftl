@@ -149,6 +149,7 @@ preferences-data-migration-button =
     .label = Importer des données
     .accesskey = m
 preferences-profiles-header = Profils
+preferences-manage-profiles-description = Chaque profil dispose de données de navigation et de paramètres distincts, comme l’historique, les mots de passe, etc.
 preferences-manage-profiles-learn-more = En savoir plus
 preferences-manage-profiles-button =
     .label = Gérer les profils

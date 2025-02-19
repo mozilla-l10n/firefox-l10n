@@ -314,6 +314,10 @@ newtab-wallpaper-title = Fonds d’écran
 newtab-wallpaper-reset = Réinitialiser
 newtab-wallpaper-upload-image = Envoyer une image
 newtab-wallpaper-custom-color = Choisir une couleur
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = La taille de l’image dépasse la limite de { $file_size } Mo. Veuillez essayer d’envoyer un fichier plus petit.
+newtab-wallpaper-error-file-type = Nous n’avons pas pu envoyer votre fichier. Veuillez réessayer avec un type de fichier différent.
 newtab-wallpaper-light-red-panda = Panda roux
 newtab-wallpaper-light-mountain = Montagne blanche
 newtab-wallpaper-light-sky = Ciel avec des nuages violets et roses
@@ -494,5 +498,7 @@ newtab-section-mangage-topics-followed-topics = Suivis
 newtab-section-mangage-topics-button =
     .label = Sujets suivis et bloqués
 newtab-section-mangage-topics-followed-topics-subtitle = Sujets suivis
+newtab-section-mangage-topics-followed-topics-empty-state = Vous n’avez pas encore suivi de sujet.
 newtab-section-mangage-topics-blocked-topics = Bloqués
 newtab-section-mangage-topics-blocked-topics-subtitle = Sujets bloqués
+newtab-section-mangage-topics-blocked-topics-empty-state = Vous n’avez pas encore bloqué de sujet.
