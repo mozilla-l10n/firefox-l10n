@@ -477,11 +477,20 @@ newtab-section-confirm-block-section-p1 = Voulez-vous vraiment bloquer cette sec
 newtab-section-confirm-block-section-p2 = Les sections bloquées n’apparaîtront plus dans votre flux.
 newtab-section-block-section-button = Bloquer cette section
 newtab-section-cancel-button = Plus tard
+newtab-section-confirm-block-topic-p1 = Voulez-vous vraiment bloquer ce sujet ?
+newtab-section-confirm-block-topic-p2 = Les sujets bloqués n’apparaîtront plus dans votre flux.
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = Bloquer { $topic }
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Sujets
+newtab-section-manage-topics-button-v2 =
+    .label = Gérer les sujets
+newtab-section-mangage-topics-followed-topics = Suivis
 newtab-section-mangage-topics-button =
     .label = Sujets suivis et bloqués
 newtab-section-mangage-topics-followed-topics-subtitle = Sujets suivis
+newtab-section-mangage-topics-blocked-topics = Bloqués
 newtab-section-mangage-topics-blocked-topics-subtitle = Sujets bloqués

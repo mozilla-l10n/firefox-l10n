@@ -466,4 +466,7 @@ multi-profile-callout-cta = Créer un profil
 desktop-to-mobile-headline = Téléchargez, synchronisez et c’est parti !
 # The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
 desktop-to-mobile-subtitle = Scannez le code QR pour télécharger { -brand-product-name } pour mobile. Une fois l’installation terminée, sélectionnez « Synchroniser avec votre appareil mobile » pour accéder à vos mots de passe, marque-pages et bien plus encore lors de vos déplacements.
+dismiss-button-label = Ignorer
 sync-to-mobile-button-label = Synchroniser avec votre appareil mobile
+desktop-to-mobile-qr-code-alt =
+    .aria-label = Code QR pour télécharger { -brand-product-name } pour mobile

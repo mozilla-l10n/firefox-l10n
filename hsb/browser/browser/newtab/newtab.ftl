@@ -320,6 +320,10 @@ newtab-wallpaper-title = Pozadkowe wobrazy
 newtab-wallpaper-reset = Na standard wróćo stajić
 newtab-wallpaper-upload-image = Wobraz nahrać
 newtab-wallpaper-custom-color = Barbu wubrać
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = Wobraz je limit datajoweje wulkosće { $file_size } překročił. Nahrajće prošu mjeńšu dataju.
+newtab-wallpaper-error-file-type = Njemóžachmy wašu dataju nahrać. Spytajće prošu z druhim datajowym typom hišće raz.
 newtab-wallpaper-light-red-panda = Čerwjeny panda
 newtab-wallpaper-light-mountain = Běła hora
 newtab-wallpaper-light-sky = Njebjo z wioletnymi a róžowymi mróčelemi
@@ -363,6 +367,8 @@ newtab-wallpaper-abstract-purple = Wioletne twary
 newtab-wallpaper-abstract-orange = Oranžowe twary
 newtab-wallpaper-gradient-orange = Přeběžk oranžowy a pink
 newtab-wallpaper-abstract-blue-purple = Módre a wioletne twary
+newtab-wallpaper-abstract-blue-purple-waves = Módre a wioletne žołmate twary
+newtab-wallpaper-abstract-black-waves = Čorne žołmate twary
 
 ## Celestial
 
@@ -375,6 +381,7 @@ newtab-wallpaper-red-panda-yawns-in-a-tree = Čerwjeny panda w štomje zywa
 newtab-wallpaper-white-mountains = Běłe hory
 newtab-wallpaper-starry-canyon = Módra hwězdna nóc
 newtab-wallpaper-sand-dunes = Běłe pěskowe nawěwy
+newtab-wallpaper-palm-trees = Silueta štomow kokosowych palmow w złotej hodźinje
 newtab-wallpaper-forest-trees = Z kurjawu pokryte štomy
 # Variables
 #   $author_string (String) - The name of the creator of the photo.

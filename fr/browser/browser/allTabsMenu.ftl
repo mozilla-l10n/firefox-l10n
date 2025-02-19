@@ -18,3 +18,8 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = Fermer tous les onglets en double
 all-tabs-menu-synced-tabs =
     .label = Onglets d’autres appareils
+all-tabs-menu-current-window-header = Fenêtre actuelle
+# "Show all" is for showing all open groups as well as saved groups. Initially,
+# we only show up to five of these groups.
+all-tabs-menu-tab-groups-show-all =
+    .label = Tout afficher
