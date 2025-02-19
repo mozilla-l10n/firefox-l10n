@@ -585,3 +585,4 @@ pdfjs-editor-add-signature-add-button = Přidać
 
 ## Edit signature description dialog
 
+pdfjs-editor-edit-signature-dialog-title = Wopisanje wobdźěłać

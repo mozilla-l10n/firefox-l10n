@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI Chatbot
 menu-view-review-checker =
     .label = Kontrola pohódnoćenjow
+menu-view-contextual-password-manager =
+    .label = Hesła
 sidebar-options-menu-button =
     .title = Meni wočinić
 
@@ -115,6 +117,8 @@ sidebar-menu-customize-label =
     .label = Bóčnicu přiměrić
 sidebar-menu-review-checker-label =
     .label = Kontrola pohódnoćenjow
+sidebar-menu-contextual-password-manager-label =
+    .label = Hesła
 
 ## Tooltips for sidebar menu items.
 
@@ -157,6 +161,8 @@ sidebar-menu-syncedtabs-header =
     .heading = Rajtarki z druhich gratow
 sidebar-menu-bookmarks-header =
     .heading = Zapołožki
+sidebar-menu-cpm-header =
+    .heading = Hesła
 sidebar-panel-header-close-button =
     .tooltiptext = Začinić
 

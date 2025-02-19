@@ -468,3 +468,5 @@ desktop-to-mobile-headline = Sćehńće, synchronizujće, běh!
 desktop-to-mobile-subtitle = Skenujće QR-kod, zo byšće { -brand-product-name } za mobilne graty sćahnył. Hdyž sće jón instalował, wubjerće „Z mobilnym gratom synchronizować“, zo byšće po puću přistup k swojim hesłam, zapołožkam a wjace dóstał.
 dismiss-button-label = Zaćisnyć
 sync-to-mobile-button-label = Z mobilnym gratom synchronizować
+desktop-to-mobile-qr-code-alt =
+    .aria-label = QR-kod za sćehnjenje { -brand-product-name } za mobilny grat

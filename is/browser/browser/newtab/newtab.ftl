@@ -366,6 +366,9 @@ newtab-wallpaper-abstract-orange = Appelsínugul form
 newtab-wallpaper-gradient-orange = Litstigull appelsínugult og bleikt
 newtab-wallpaper-abstract-blue-purple = Blá og fjólublá form
 newtab-wallpaper-abstract-white-curves = Hvíttt með skyggðum línum
+newtab-wallpaper-abstract-purple-green = Fjólublár og grænn ljósleitur litstigull
+newtab-wallpaper-abstract-blue-purple-waves = Blá og fjólublá bylgjuform
+newtab-wallpaper-abstract-black-waves = Svört bylgjuform
 
 ## Celestial
 
@@ -376,6 +379,12 @@ newtab-wallpaper-storm-sky = Stormský
 newtab-wallpaper-sky-with-pink-clouds = Himinn með bleikum skýjum
 newtab-wallpaper-red-panda-yawns-in-a-tree = Rauð panda geispar í tré
 newtab-wallpaper-white-mountains = Hvít fjöll
+newtab-wallpaper-hot-air-balloons = Fjölbreyttir litir á heitaloftbelgjum í dagsbirtu
+newtab-wallpaper-starry-canyon = Blá stjörnubjört nótt
+newtab-wallpaper-suspension-bridge = Ljósmynd af gráum hengibrúm í dagsbirtu
+newtab-wallpaper-sand-dunes = Hvítar sandöldur
+newtab-wallpaper-palm-trees = Skuggamynd af kókospálmatrjám við sólarlag
+newtab-wallpaper-forest-trees = Tré þakin þoku
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -393,6 +402,16 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Himneskt
+newtab-wallpaper-celestial-lunar-eclipse = Tunglmyrkvi
+newtab-wallpaper-celestial-earth-night = Næturmynd frá lágri braut um jörðu
+newtab-wallpaper-celestial-starry-sky = Stjörnubjartur himinn
+newtab-wallpaper-celestial-eclipse-time-lapse = Tímaruna tunglmyrkva
+newtab-wallpaper-celestial-black-hole = Svarthols-vetrarbrautarmynd
+newtab-wallpaper-celestial-river = Gervihnattamynd af fljóti
 
 ## New Tab Weather
 

@@ -73,3 +73,7 @@ text-action-search-text-box-clear =
     .title = Clear
 text-action-highlight-selection =
     .label = Áherslulita valið
+# "Copy Link to Highlight" creates a permanent 'Text Fragment' link
+# to the current selection, and copies it into the user's clipboard.
+text-action-copy-link-to-highlight =
+    .label = Afrita tengil til að áherslulita

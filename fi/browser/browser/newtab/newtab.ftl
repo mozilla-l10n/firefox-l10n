@@ -379,7 +379,9 @@ newtab-wallpaper-storm-sky = Myrskyinen taivas
 newtab-wallpaper-sky-with-pink-clouds = Taivas ja vaaleanpunaiset pilvet
 newtab-wallpaper-red-panda-yawns-in-a-tree = Kultapanda haukottelee puussa
 newtab-wallpaper-white-mountains = Valkoiset vuoret
+newtab-wallpaper-hot-air-balloons = Värikkäitä kuumailmapalloja päiväsaikaan
 newtab-wallpaper-starry-canyon = Sininen tähtiyö
+newtab-wallpaper-suspension-bridge = Harmaa riippusilta päiväsaikaan
 newtab-wallpaper-sand-dunes = Valkoiset hiekkadyynit
 newtab-wallpaper-palm-trees = Kookospalmujen siluetti auringonnousun aikana
 newtab-wallpaper-forest-trees = Puut sumun peitossa
@@ -400,6 +402,10 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Taivaallinen
 newtab-wallpaper-celestial-lunar-eclipse = Kuunpimennys
 newtab-wallpaper-celestial-earth-night = Yökuva matalalta Maan kiertoradalta
 newtab-wallpaper-celestial-starry-sky = Tähtitaivas
