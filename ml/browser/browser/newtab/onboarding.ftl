@@ -189,9 +189,17 @@ onboarding-sign-up-secondary-button = തിരയാൻ തുടങ്ങു�
 
 # When translating "next" it means the next screen in onboarding.
 onboarding-new-user-survey-next-button-label = അടുത്തതു്
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-time-based-option-1 = ഞാൻ പുതിയതാണു്
+onboarding-new-user-survey-time-based-option-3 = പതിവായി ഒരു മാസത്തിനെക്കാളും കൂടുതൽ
+onboarding-new-user-survey-time-based-option-4 = ഒരു മാസത്തിനെക്കാളും കൂടുതൽ, ഇടയ്ക്കിടെ
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-familiarity-based-option-1 = ഞാൻ പുതിയതാണു്
 
 ## UI strings for the sidebar and vertical tabs
 
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = താങ്ങളുടെ ടാബുകൾ, താങ്ങളുടെ വഴി
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = അരികിൽ ടാബുകൾ
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
