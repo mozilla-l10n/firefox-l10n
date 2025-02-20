@@ -327,6 +327,7 @@ identity-https-only-dropdown-off-temporarily =
     .label = ປິດຊົ່ວຄາວ
 identity-https-only-info-turn-on2 = ເປີດໃຊ້ HTTPS-Only Mode ສໍາລັບເວັບໄຊທ໌ນີ້ ຖ້າທ່ານຕ້ອງການ { -brand-short-name } ເພື່ອຍົກລະດັບການເຊື່ອມຕໍ່ເມື່ອເປັນໄປໄດ້.
 identity-https-only-info-turn-off2 = ຫາກໜ້ານີ້ເບິ່ງຄືຈະພັງ, ທ່ານອາດຈະຕ້ອງປິດ HTTPS-Only Mode ສໍາລັບເວັບໄຊທ໌ນີ້ເພື່ອໂຫຼດໃຫມ່ໂດຍໃຊ້ HTTP ທີ່ບໍ່ປອດໄພ.
+identity-https-only-info-turn-off3 = ຖ້າຫນ້າເບິ່ງຄືວ່າມີບັນຫາ, ທ່ານອາດຈະຕ້ອງການປິດການຍົກລະດັບ HTTPS ສໍາລັບເວັບໄຊທ໌ນີ້ເພື່ອໂຫລດໃຫມ່ໂດຍໃຊ້ HTTP ທີ່ບໍ່ປອດໄພ.
 identity-https-only-info-no-upgrade = ບໍ່ສາມາດອັບເກຣດການເຊື່ອມຕໍ່ຈາກ HTTP ໄດ້.
 identity-permissions-storage-access-header = ຄຸກກີຂ້າມເວັບໄຊ
 identity-permissions-storage-access-hint = ພາກສ່ວນເຫຼົ່ານີ້ສາມາດໃຊ້ຄຸກກີຂ້າມເວັບໄຊ ແລະຂໍ້ມູນເວັບໄຊໃນຂະນະທີ່ເຈົ້າຢູ່ໃນເວັບໄຊນີ້.

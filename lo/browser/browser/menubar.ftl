@@ -242,6 +242,8 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
+menu-profiles =
+    .label = ໂປ​ຣ​ໄຟ​ລ໌
 
 ## Tools Menu
 

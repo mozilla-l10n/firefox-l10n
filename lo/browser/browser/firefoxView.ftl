@@ -154,8 +154,28 @@ firefoxview-search-text-box-tabs =
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-syncedtabs =
     .placeholder = ຄົ້ນຫາແທັບທີ່ຊິງຄ໌ແລ້ວ
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-opentabs =
+    .placeholder = ຊອກຫາແຖບເປີດ
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = ຜົນການຄົ້ນຫາສຳລັບ “{ $query }”
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count = { $count } ເວັບໄຊ
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = ບໍ່ມີຜົນການຄົ້ນຫາສຳລັບ “{ $query }”
 firefoxview-sort-history-by-date-label = ຈັດຮຽງຕາມວັນທີ
 firefoxview-sort-history-by-site-label = ຈັດຮຽງຕາມເວັບໄຊ
+firefoxview-sort-open-tabs-by-recency-label = ຈັດຮຽງຕາມການເຄື່ອນໄຫວທີ່ຜ່ານມາ
+firefoxview-sort-open-tabs-by-order-label = ຈັດຮຽງຕາມລໍາດັບແຖບ
+# Variables:
+#   $url (string) - URL that will be opened in the new tab
+firefoxview-opentabs-tab-row =
+    .title = ປ່ຽນເປັນ { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -164,13 +184,20 @@ firefoxview-history-date-today = ມື້ນີ້ - { DATETIME($date, dateStyl
 firefoxview-history-date-yesterday = ມື້ວານນີ້ - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (ໄຟລ໌ໃນເຄື່ອງ)
 
 ##
 
 firefoxview-show-all-history = ສະແດງປະຫວັດທັງໝົດ
+firefoxview-view-more-browsing-history = ເບິ່ງປະຫວັດການທ່ອງເວັບເພີ່ມເຕີມ
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = ກັບ​ຄືນ​ໄປ​ບ່ອນ​ທີ່​ທ່ານ​ໄດ້​ໄປ​
+firefoxview-history-empty-description = ໃນຂະນະທີ່ທ່ານທ່ອງເວັບ, ຫນ້າເວັບຕ່າງໆທີ່ທ່ານເຂົ້າເບິ່ງຈະຖືກສະແດງຢູ່ທີ່ນີ້.
 
 ##
 

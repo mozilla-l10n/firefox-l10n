@@ -380,6 +380,9 @@ newtab-wallpaper-white-mountains = Кӯҳҳои сафед
 newtab-wallpaper-hot-air-balloons = Рангҳои гуногуни пуфакҳои ҳавоӣ дар давоми рӯз
 newtab-wallpaper-starry-canyon = Шаби ситоразори кабуд
 newtab-wallpaper-suspension-bridge = Акси пули хокистариранги овезон дар давоми рӯз
+newtab-wallpaper-sand-dunes = Хомаҳои регии сафед
+newtab-wallpaper-palm-trees = Акси сиёҳи дарахтҳои ҷавзи ҳиндӣ дар соати тиллоӣ
+newtab-wallpaper-forest-trees = Дарахтҳои бо туман пӯшидашуда
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -402,6 +405,7 @@ feature-highlight-wallpaper =
 # Not to be confused with religious definition of the word.
 newtab-wallpaper-category-title-celestial = Осмонӣ
 newtab-wallpaper-celestial-lunar-eclipse = Гирифти Моҳ
+newtab-wallpaper-celestial-earth-night = Акси шабона аз мадори пасти кураи Замин
 newtab-wallpaper-celestial-starry-sky = Осмони ситоразор
 newtab-wallpaper-celestial-eclipse-time-lapse = Вақти фарогирии гирифти Моҳ
 

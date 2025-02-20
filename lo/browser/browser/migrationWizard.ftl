@@ -105,8 +105,11 @@ migration-wizard-progress-success-new-passwords = ເພີ່ມ { $newEntries 
 # Variables:
 #  $updatedEntries (Number): the number of updated passwords
 migration-wizard-progress-success-updated-passwords = ອັບເດດ { $updatedEntries } ແລ້ວ
+migration-bookmarks-from-file-picker-title = ນຳເຂົ້າໄຟລ໌ບຸກມາກ
+migration-bookmarks-from-file-progress-header = ກຳລັງນຳເຂົ້າບຸກມາກ
 migration-bookmarks-from-file = ບຸກມາກ
 migration-bookmarks-from-file-success-header = ນຳເຂົ້າບຸກມາກສຳເລັດແລ້ວ
+migration-bookmarks-from-file-no-valid-data = ໄຟລ໌ດັ່ງກ່າວບໍ່ມີຂໍ້ມູນບຸກມາກ. ເລືອກໄຟລ໌ອື່ນ.
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = ໄຟລ໌ JSON
