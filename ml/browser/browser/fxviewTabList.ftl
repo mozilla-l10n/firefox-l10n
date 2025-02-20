@@ -59,6 +59,18 @@ fxviewtabrow-pin-tab = ടാബിനെ കുത്തിവയ്ക്ക�
     .accesskey = ക
 fxviewtabrow-unpin-tab = കുത്തിസൂചി മാറ്റുക
     .accesskey = മ
+fxviewtabrow-mute-tab = ടാബ് നിശബ്ദമാക്കുക
+    .accesskey = ന
+fxviewtabrow-unmute-tab = ടാബിന് ശബ്ദം വയ്ക്കുക
+    .accesskey = ശ
+# Variables:
+#   $tabTitle (string) - Title of the tab to which the context menu is associated
+fxviewtabrow-options-menu-button =
+    .title = { $tabTitle }-ഇനുള്ള സാധ്യകൾ
 
 ## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
 
+fxviewtabrow-mute-tab-button-no-context =
+    .title = ടാബ് നിശ്ശബ്ദമാക്കുക
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = ടാബിന് ശബ്ദം വയ്ക്കുക
