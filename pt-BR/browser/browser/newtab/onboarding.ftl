@@ -467,3 +467,5 @@ desktop-to-mobile-headline = Instale, sincronize e pronto!
 desktop-to-mobile-subtitle = Capture o código QR para instalar o { -brand-product-name } para dispositivos móveis. Após instalar, selecione “Sincronizar com dispositivos móveis” para acessar suas senhas, favoritos e muito mais em qualquer lugar.
 dismiss-button-label = Descartar
 sync-to-mobile-button-label = Sincronização com dispositivos móveis
+desktop-to-mobile-qr-code-alt =
+    .aria-label = Código QR para baixar o { -brand-product-name } para dispositivos móveis
