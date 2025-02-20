@@ -361,6 +361,10 @@ newtab-wallpaper-abstract-purple = Purpuraj formoj
 newtab-wallpaper-abstract-orange = Oranĝaj formoj
 newtab-wallpaper-gradient-orange = Gamo oranĝa kaj roza
 newtab-wallpaper-abstract-blue-purple = Bluaj kaj purpuraj formoj
+newtab-wallpaper-abstract-white-curves = Blanka kun ombritaj kurboj
+newtab-wallpaper-abstract-purple-green = Gradiento luma purpura kaj verda
+newtab-wallpaper-abstract-blue-purple-waves = Bluaj kaj purpuraj ondaj formoj
+newtab-wallpaper-abstract-black-waves = Nigraj ondaj formoj
 
 ## Celestial
 
@@ -371,6 +375,9 @@ newtab-wallpaper-storm-sky = Ŝtorma ĉielo
 newtab-wallpaper-sky-with-pink-clouds = Ĉielo kun rozkoloraj nuboj
 newtab-wallpaper-red-panda-yawns-in-a-tree = Ruĝa pando oscedas sur arbo
 newtab-wallpaper-white-mountains = Blankaj montoj
+newtab-wallpaper-hot-air-balloons = Plurkoloraj balonoj dum tago
+newtab-wallpaper-starry-canyon = Blua steloplena nokto
+newtab-wallpaper-suspension-bridge = Griza foto de pendponto dum tago
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
