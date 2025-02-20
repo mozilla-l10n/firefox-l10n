@@ -467,3 +467,5 @@ desktop-to-mobile-headline = Tải xuống, đồng bộ hoá và sử dụng!
 desktop-to-mobile-subtitle = Quét mã QR để tải xuống { -brand-product-name } cho di động. Sau khi cài đặt, chọn “Đồng bộ trên di động” để truy cập mật khẩu, dấu trang của bạn và nhiều hơn nữa để sử dụng.
 dismiss-button-label = Bỏ qua
 sync-to-mobile-button-label = Đồng bộ trên di động
+desktop-to-mobile-qr-code-alt =
+    .aria-label = Mã QR để tải xuống { -brand-product-name } dành cho di động

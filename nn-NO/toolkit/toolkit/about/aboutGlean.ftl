@@ -106,6 +106,8 @@ about-glean-adhoc-note =
 controls-button-label-verbose = Bruk innstillingar og send inn ping
 about-glean-feedback-settings-only =
     .message = Endringar lagt til!
+about-glean-feedback-settings-and-ping =
+    .message = Endringar lagt til og ping sendt!
 about-glean-about-data-header = Om data
 about-glean-about-data-explanation =
     For å sjå gjennom lista over innsamla data, sjå

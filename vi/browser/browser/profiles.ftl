@@ -6,7 +6,7 @@ profile-window-heading = Chọn một hồ sơ { -brand-short-name }
 profile-window-body = Giữ công việc và duyệt web cá nhân của bạn, bao gồm những thứ như mật khẩu và dấu trang, hoàn toàn tách biệt. Hoặc tạo hồ sơ cho tất cả những người sử dụng thiết bị này.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
-    .label = Chọn một hồ sơ khi { -brand-short-name } khởi động
+    .label = Hiện cửa sổ chọn hồ sơ khi { -brand-short-name } khởi động
 profile-window-create-profile = Tạo hồ sơ
 profile-card-edit-button =
     .title = Chỉnh sửa hồ sơ
