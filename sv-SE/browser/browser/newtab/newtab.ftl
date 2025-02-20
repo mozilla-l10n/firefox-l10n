@@ -379,6 +379,8 @@ newtab-wallpaper-storm-sky = Stormhimlen
 newtab-wallpaper-sky-with-pink-clouds = Himmel med rosa moln
 newtab-wallpaper-red-panda-yawns-in-a-tree = Röd panda gäspar i ett träd
 newtab-wallpaper-white-mountains = Vita berg
+newtab-wallpaper-hot-air-balloons = Blandad färg på luftballonger under dagtid
+newtab-wallpaper-starry-canyon = Blå stjärnklar natt
 newtab-wallpaper-suspension-bridge = Grå fotografering av helhängbro under dagtid
 newtab-wallpaper-sand-dunes = Vita sanddyner
 newtab-wallpaper-palm-trees = Silhuett av kokospalmer under gyllene timmen
@@ -403,12 +405,12 @@ feature-highlight-wallpaper =
 # “Celestial” referring to astronomy; positioned in or relating to the sky,
 # or outer space as observed in astronomy.
 # Not to be confused with religious definition of the word.
-newtab-wallpaper-category-title-celestial = Celestial
+newtab-wallpaper-category-title-celestial = Rymden
 newtab-wallpaper-celestial-lunar-eclipse = Månförmörkelse
-newtab-wallpaper-celestial-earth-night = Nattfoto från låg bana om jorden
+newtab-wallpaper-celestial-earth-night = Nattfoto från låg omloppsbana runt jorden
 newtab-wallpaper-celestial-starry-sky = Stjärnklara himlen
-newtab-wallpaper-celestial-eclipse-time-lapse = Månförmörkelse time lapse
-newtab-wallpaper-celestial-black-hole = Svart hål galaxen illustration
+newtab-wallpaper-celestial-eclipse-time-lapse = Tidsförlopp för månförmörkelse
+newtab-wallpaper-celestial-black-hole = Illustration av svarta hål i galaxen
 newtab-wallpaper-celestial-river = Satellitbild av floden
 
 ## New Tab Weather
