@@ -366,7 +366,7 @@ newtab-wallpaper-abstract-orange = Orange former
 newtab-wallpaper-gradient-orange = Gradient orange och rosa
 newtab-wallpaper-abstract-blue-purple = Blå och lila former
 newtab-wallpaper-abstract-white-curves = Vit med skuggade kurvor
-newtab-wallpaper-abstract-purple-green = Lutning för lila och grönt ljus
+newtab-wallpaper-abstract-purple-green = Lila och grön ljusgradient
 newtab-wallpaper-abstract-blue-purple-waves = Blå och lila vågiga former
 newtab-wallpaper-abstract-black-waves = Svarta vågiga former
 
@@ -379,8 +379,6 @@ newtab-wallpaper-storm-sky = Stormhimlen
 newtab-wallpaper-sky-with-pink-clouds = Himmel med rosa moln
 newtab-wallpaper-red-panda-yawns-in-a-tree = Röd panda gäspar i ett träd
 newtab-wallpaper-white-mountains = Vita berg
-newtab-wallpaper-hot-air-balloons = Blandad färg på luftballonger under dagtid
-newtab-wallpaper-starry-canyon = Blå stjärnklar natt
 newtab-wallpaper-suspension-bridge = Grå fotografering av helhängbro under dagtid
 newtab-wallpaper-sand-dunes = Vita sanddyner
 newtab-wallpaper-palm-trees = Silhuett av kokospalmer under gyllene timmen

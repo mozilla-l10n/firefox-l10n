@@ -52,7 +52,7 @@ community-2 = { -brand-short-name }, utvecklad av <label data-l10n-name="communi
 helpus = Vill du hjälpa till? <label data-l10n-name="helpus-donateLink">Ge ett bidrag</label> eller <label data-l10n-name="helpus-getInvolvedLink">engagera dig!</label>
 bottomLinks-license = Licensinformation
 bottom-links-terms = Användarvillkor
-bottom-links-privacy = Sekretesspolicy
+bottom-links-privacy = Sekretessmeddelande
 bottomLinks-rights = Användarrättigheter
 bottomLinks-privacy = Sekretesspolicy
 # Example of resulting string: 66.0.1 (64-bit)
