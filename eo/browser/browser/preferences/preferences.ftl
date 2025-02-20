@@ -151,6 +151,8 @@ preferences-data-migration-button =
 preferences-profiles-header = Profiloj
 preferences-manage-profiles-description = Ĉiu profilo havas apartigitajn retumajn datumojn kaj agordojn, kio inkluzivas historion, pasvortojn kaj pli.
 preferences-manage-profiles-learn-more = Pli da informo
+preferences-manage-profiles-button =
+    .label = Administri profilojn
 tabs-group-header = Langetoj
 ctrl-tab-recently-used-order =
     .label = Stir+Tabo rondiras inter langetoj ordigitaj laŭ ĵuseco
@@ -228,12 +230,16 @@ containers-remove-cancel-button = Ne forigi tiun ĉi ingon
 settings-tabs-show-image-in-preview =
     .label = Montri antaŭvidon kiam vi movas la muson super langeto
     .accessKey = a
+browser-layout-header = Aranĝo de la retumilo
 browser-layout-horizontal-tabs =
     .label = Horizontalaj langetoj
+browser-layout-horizontal-tabs-desc = Langetoj supre
 browser-layout-vertical-tabs =
     .label = Vertikalaj langetoj
+browser-layout-vertical-tabs-desc = Langetoj flanke, en la flanka strio
 browser-layout-show-sidebar =
     .label = Montri flankan strion
+browser-layout-show-sidebar-desc = Rapide aliru legosignojn aŭ langetojn el via telefono, dialogantojn A.I. kaj pli sen devi eliri el la ĉefa vido.
 
 ## General Section - Language & Appearance
 

@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = A.I. dialoganto
 menu-view-review-checker =
     .label = Kontrolilo de recenzoj
+menu-view-contextual-password-manager =
+    .label = Pasvortoj
 sidebar-options-menu-button =
     .title = Malfermi menuon
 
@@ -52,6 +54,16 @@ sidebar-vertical-tabs =
     .label = Vertikalaj langetoj
 sidebar-settings =
     .label = Agordoj de la flanka strio
+sidebar-hide-tabs-and-sidebar =
+    .label = Kaŝi langetojn kaj flankan strion
+sidebar-show-on-the-right =
+    .label = Movi flankan strion dekstren
+sidebar-show-on-the-left =
+    .label = Movi flankan strion maldekstren
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Malfaldi flankan strion kiam la muso iras super ĝi
 sidebar-horizontal-tabs =
     .label = Horizontalaj langetoj
 sidebar-customize-tabs-header =
@@ -105,6 +117,8 @@ sidebar-menu-customize-label =
     .label = Personecigi la flankan strion
 sidebar-menu-review-checker-label =
     .label = Kontrolilo de recenzoj
+sidebar-menu-contextual-password-manager-label =
+    .label = Pasvortoj
 
 ## Tooltips for sidebar menu items.
 
@@ -132,6 +146,10 @@ sidebar-menu-close-ai-chatbot-tooltip = Fermi dialoganton A.I.
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
+sidebar-menu-open-ai-chatbot-tooltip-generic = Malfermi dialoganton A.I. ({ $shortcut })
+sidebar-menu-open-ai-chatbot-provider-tooltip = Malfermi { $provider } ({ $shortcut })
+sidebar-menu-close-ai-chatbot-tooltip-generic = Fermi dialoganton A.I. ({ $shortcut })
+sidebar-menu-close-ai-chatbot-provider-tooltip = Fermi { $provider } ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 
@@ -143,6 +161,8 @@ sidebar-menu-syncedtabs-header =
     .heading = Langetoj el aliaj aparatoj
 sidebar-menu-bookmarks-header =
     .heading = Legosignoj
+sidebar-menu-cpm-header =
+    .heading = Pasvortoj
 sidebar-panel-header-close-button =
     .tooltiptext = Fermi
 
