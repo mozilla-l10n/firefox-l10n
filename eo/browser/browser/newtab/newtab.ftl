@@ -378,6 +378,9 @@ newtab-wallpaper-white-mountains = Blankaj montoj
 newtab-wallpaper-hot-air-balloons = Plurkoloraj balonoj dum tago
 newtab-wallpaper-starry-canyon = Blua steloplena nokto
 newtab-wallpaper-suspension-bridge = Griza foto de pendponto dum tago
+newtab-wallpaper-sand-dunes = Blankaj sablomontetoj
+newtab-wallpaper-palm-trees = Konturo de kokosaj palmarboj dum sunsubiro
+newtab-wallpaper-forest-trees = Arboj kovritaj de nebulo
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -395,6 +398,16 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Ĉiela
+newtab-wallpaper-celestial-lunar-eclipse = Luneklipso
+newtab-wallpaper-celestial-earth-night = Nokta foto el malalta Tera orbito
+newtab-wallpaper-celestial-starry-sky = Steloplena ĉielo
+newtab-wallpaper-celestial-eclipse-time-lapse = Tempopasa filmado de luneklipso
+newtab-wallpaper-celestial-black-hole = Ilustraĵo de galaksio kun nigra truo
+newtab-wallpaper-celestial-river = Satelita bildo de rivero
 
 ## New Tab Weather
 
@@ -490,6 +503,7 @@ newtab-section-confirm-block-section-p1 = Ĉu vi certe volas bloki tiun ĉi sekc
 newtab-section-confirm-block-section-p2 = Blokitaj sekcioj ne plu aperos en via informa fonto
 newtab-section-block-section-button = Bloki tiun ĉi sekcion
 newtab-section-cancel-button = Ne nun
+newtab-section-confirm-block-topic-p1 = Ĉu vi certe volas bloki tiun ĉi temon?
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
