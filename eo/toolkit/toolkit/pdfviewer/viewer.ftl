@@ -530,12 +530,46 @@ pdfjs-editor-add-signature-dialog-title = Aldoni subskribon
 
 ## Tab names
 
+# Type is a verb (you can type your name as signature)
+pdfjs-editor-add-signature-type-button = Tajpi
+    .title = Tajpi
+# Draw is a verb (you can draw your signature)
+pdfjs-editor-add-signature-draw-button = Desegni
+    .title = Desegni
+pdfjs-editor-add-signature-image-button = Bildo
+    .title = Bildo
 
 ## Tab panels
 
+pdfjs-editor-add-signature-type-input =
+    .aria-label = Tajpu vian subskribon
+    .placeholder = Tajpu vian subskribon
+pdfjs-editor-add-signature-draw-placeholder = Desegni vian subskribon
+pdfjs-editor-add-signature-draw-thickness-range-label = Dikeco
+# Variables:
+#   $thickness (Number) - the thickness (in pixels) of the line used to draw a signature.
+pdfjs-editor-add-signature-draw-thickness-range =
+    .title = Dikeco de desegno: { $thickness }
+pdfjs-editor-add-signature-image-placeholder = Trenu dosieron ĉi tien por alŝuti ĝin
+pdfjs-editor-add-signature-image-browse-link =
+    { PLATFORM() ->
+        [macos] Aŭ elektu bildan dosieron
+       *[other] Aŭ elektu bildan dosieron
+    }
 
 ## Controls
 
+pdfjs-editor-add-signature-description-label = Priskribo (alternativa teksto)
+pdfjs-editor-add-signature-description-input =
+    .title = Priskribo (alternativa teksto)
+pdfjs-editor-add-signature-description-default-when-drawing = Subskribo
+pdfjs-editor-add-signature-clear-button-label = Viŝi subskribon
+pdfjs-editor-add-signature-clear-button =
+    .title = Viŝi subskribon
+pdfjs-editor-add-signature-save-checkbox = Konservi subskribon
+pdfjs-editor-add-signature-save-warning-message = Vi atingis la limon de kvin konservitaj subskriboj. Forigi unu por povi konservi pli da.
+pdfjs-editor-add-signature-image-upload-error-title = Ne eblis alŝuti bildon
+pdfjs-editor-add-signature-image-upload-error-description = Kontrolu vian retaliron aŭ provu alŝuti alian bildon.
 pdfjs-editor-add-signature-error-close-button = Fermi
 
 ## Dialog buttons
