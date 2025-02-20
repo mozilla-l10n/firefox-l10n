@@ -379,6 +379,7 @@ newtab-wallpaper-hot-air-balloons = 於白天有各種色彩的熱氣球
 newtab-wallpaper-starry-canyon = 藍色星空
 newtab-wallpaper-suspension-bridge = 白天的灰色吊橋照片
 newtab-wallpaper-sand-dunes = 白色沙丘
+newtab-wallpaper-palm-trees = 在魔術光下的椰子樹剪影
 newtab-wallpaper-forest-trees = 被濃霧遮蓋住的樹
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
@@ -402,6 +403,7 @@ feature-highlight-wallpaper =
 # Not to be confused with religious definition of the word.
 newtab-wallpaper-category-title-celestial = 天空
 newtab-wallpaper-celestial-lunar-eclipse = 月食
+newtab-wallpaper-celestial-earth-night = 從低地球軌道拍攝的夜晚照片
 newtab-wallpaper-celestial-starry-sky = 星空
 newtab-wallpaper-celestial-eclipse-time-lapse = 月食縮時攝影
 newtab-wallpaper-celestial-black-hole = 黑洞銀河插圖

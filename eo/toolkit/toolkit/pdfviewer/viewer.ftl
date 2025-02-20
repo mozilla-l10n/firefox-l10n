@@ -316,6 +316,9 @@ pdfjs-highlight-floating-button1 =
     .title = Elstarigi
     .aria-label = Elstarigi
 pdfjs-highlight-floating-button-label = Elstarigi
+pdfjs-editor-signature-button =
+    .title = Aldoni subskribon
+pdfjs-editor-signature-button-label = Aldoni subskribon
 
 ## Remove button for the various kind of editor.
 
@@ -327,6 +330,8 @@ pdfjs-editor-remove-stamp-button =
     .title = Forigi bildon
 pdfjs-editor-remove-highlight-button =
     .title = Forigi elstaraĵon
+pdfjs-editor-remove-signature-button =
+    .title = Forigi subskribon
 
 ##
 
@@ -343,6 +348,9 @@ pdfjs-editor-stamp-add-image-button-label = Aldoni bildon
 pdfjs-editor-free-highlight-thickness-input = Dikeco
 pdfjs-editor-free-highlight-thickness-title =
     .title = Ŝanĝi dikecon dum elstarigo de netekstaj elementoj
+pdfjs-editor-signature-add-signature-button =
+    .title = Aldoni novan subskribon
+pdfjs-editor-signature-add-signature-button-label = Aldoni novan subskribon
 # .default-content is used as a placeholder in an empty text editor.
 pdfjs-free-text2 =
     .aria-label = Teksta redaktilo
@@ -500,6 +508,7 @@ pdfjs-editor-undo-bar-message-highlight = Elstaraĵo forigita
 pdfjs-editor-undo-bar-message-freetext = Teksto forigita
 pdfjs-editor-undo-bar-message-ink = Desegno forigita
 pdfjs-editor-undo-bar-message-stamp = Bildo forigita
+pdfjs-editor-undo-bar-message-signature = Subskribo forigita
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple =
@@ -516,6 +525,8 @@ pdfjs-editor-undo-bar-close-button-label = Fermi
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-label = Tiu ĉi fenestro permesas al la uzanto krei subskribon por aldoni al dokumento PDF. La uzanto povas modifi la nomon (kiu estas cetere la alternativa teksto) kaj havas la eblon konservi la subskribon por posta uzo.
+pdfjs-editor-add-signature-dialog-title = Aldoni subskribon
 
 ## Tab names
 
