@@ -315,6 +315,12 @@ newtab-custom-settings = Quản lý các cài đặt khác
 
 newtab-wallpaper-title = Hình nền
 newtab-wallpaper-reset = Đặt lại về mặc định
+newtab-wallpaper-upload-image = Tải lên một ảnh
+newtab-wallpaper-custom-color = Chọn màu
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = Hình ảnh vượt quá giới hạn kích thước tập tin { $file_size }MB. Vui lòng thử tải lên một tập tin nhỏ hơn.
+newtab-wallpaper-error-file-type = Chúng tôi không thể tải lên tập tin của bạn. Vui lòng thử lại với loại tập tin khác.
 newtab-wallpaper-light-red-panda = Gấu trúc đỏ
 newtab-wallpaper-light-mountain = Núi trắng
 newtab-wallpaper-light-sky = Bầu trời với những đám mây màu tím và hồng
@@ -480,13 +486,22 @@ newtab-section-confirm-block-section-p1 = Bạn có chắc chắn muốn chặn 
 newtab-section-confirm-block-section-p2 = Phần bị chặn sẽ không còn xuất hiện trong nguồn cấp dữ liệu của bạn nữa.
 newtab-section-block-section-button = Chặn phần này
 newtab-section-cancel-button = Không phải bây giờ
+newtab-section-confirm-block-topic-p1 = Bạn có chắc là bạn muốn chặn chủ đề này?
+newtab-section-confirm-block-topic-p2 = Chủ đề bị chặn sẽ không còn xuất hiện trong nguồn cấp dữ liệu của bạn.
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = Chặn { $topic }
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Các chủ đề
+newtab-section-manage-topics-button-v2 =
+    .label = Quản lý chủ đề
+newtab-section-mangage-topics-followed-topics = Đã theo dõi
 newtab-section-mangage-topics-button =
     .label = Chủ đề đã theo dõi và đã chặn
 newtab-section-mangage-topics-followed-topics-subtitle = Chủ đề đã theo dõi
 newtab-section-mangage-topics-followed-topics-empty-state = Bạn chưa theo dõi bất kỳ chủ đề nào.
+newtab-section-mangage-topics-blocked-topics = Đã chặn
 newtab-section-mangage-topics-blocked-topics-subtitle = Chủ đề đã chặn
 newtab-section-mangage-topics-blocked-topics-empty-state = Bạn chưa chặn bất kỳ chủ đề nào.
