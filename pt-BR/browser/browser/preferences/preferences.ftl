@@ -148,6 +148,7 @@ preferences-data-migration-description = Importar favoritos, senhas, histórico 
 preferences-data-migration-button =
     .label = Importar dados
     .accesskey = m
+preferences-profiles-header = Perfis
 tabs-group-header = Abas
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab alternar entre abas por ordem de uso

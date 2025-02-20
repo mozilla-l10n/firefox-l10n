@@ -502,13 +502,21 @@ newtab-section-confirm-block-section-p1 = Tem certeza de que quer bloquear esta 
 newtab-section-confirm-block-section-p2 = A seção bloqueada não aparecerá mais no seu canal de informações.
 newtab-section-block-section-button = Bloquear esta seção
 newtab-section-cancel-button = Agora não
+newtab-section-confirm-block-topic-p1 = Tem certeza que quer bloquear este tópico?
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = Bloquear { $topic }
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Tópicos
+newtab-section-manage-topics-button-v2 =
+    .label = Gerenciar tópicos
+newtab-section-mangage-topics-followed-topics = Seguido
 newtab-section-mangage-topics-button =
     .label = Tópicos seguidos e bloqueados
 newtab-section-mangage-topics-followed-topics-subtitle = Tópicos seguidos
 newtab-section-mangage-topics-followed-topics-empty-state = Você ainda não seguiu nenhum tópico.
+newtab-section-mangage-topics-blocked-topics = Bloqueado
 newtab-section-mangage-topics-blocked-topics-subtitle = Tópicos bloqueados
 newtab-section-mangage-topics-blocked-topics-empty-state = Você ainda não bloqueou nenhum tópico.
