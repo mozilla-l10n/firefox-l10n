@@ -315,6 +315,8 @@ newtab-custom-settings = ਹੋਰ ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼�
 
 newtab-wallpaper-title = ਵਾਲਪੇਪਰ
 newtab-wallpaper-reset = ਮੂਲ ਲਈ ਮੁੜ-ਸੈੱਟ ਕਰੋ
+newtab-wallpaper-upload-image = ਚਿੱਤਰ ਨੂੰ ਅੱਪਲੋਡ ਕਰੋ
+newtab-wallpaper-custom-color = ਰੰਗ ਨੂੰ ਚੁਣੋ
 newtab-wallpaper-light-red-panda = ਲਾਲ ਪਾਂਡਾ
 newtab-wallpaper-light-mountain = ਚਿੱਟਾ ਪਹਾੜ
 newtab-wallpaper-light-sky = ਜਾਮਨੀ ਅਤੇ ਗੁਲਾਬੀ ਬੱਦਲਾਂ ਨਾਲ ਅਸਮਾਨ
@@ -480,6 +482,7 @@ newtab-section-confirm-block-section-p1 = ਕੀ ਤੁਸੀਂ ਇਸ ਭਾ�
 newtab-section-confirm-block-section-p2 = ਪਾਬੰਦੀ ਲਗਾਇਆ ਭਾਗ ਤੁਹਾਡੀ ਫੀਡ ਵਿੱਚ ਦਿਕਾਈ ਨਹੀਂ ਦੇਵੇਗਾ।
 newtab-section-block-section-button = ਇਸ ਭਾਗ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਓ
 newtab-section-cancel-button = ਹੁਣੇ ਨਹੀਂ
+newtab-section-confirm-block-topic-p1 = ਕੀ ਤੁਸੀਂ ਇਸ ਵਿਸ਼ੇ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
@@ -488,5 +491,6 @@ newtab-section-mangage-topics-button =
     .label = ਫ਼ਾਲੋ ਅਤੇ ਪਾਬੰਦੀ ਲਾਏ ਵਿਸ਼ੇ
 newtab-section-mangage-topics-followed-topics-subtitle = ਫ਼ਾਲੋ ਕੀਤੇ ਵਿਸ਼ੇ
 newtab-section-mangage-topics-followed-topics-empty-state = ਤੁਸੀਂ ਹਾਲੇ ਕਿਸੇ ਵੀ ਵਿਸ਼ੇ ਨੂੰ ਫ਼ਾਲੋ ਨਹੀਂ ਕੀਤਾ ਹੈ।
+newtab-section-mangage-topics-blocked-topics = ਪਾਬੰਦੀ ਲਗਾਏ
 newtab-section-mangage-topics-blocked-topics-subtitle = ਪਾਬੰਦੀ ਲਾਏ ਵਿਸ਼ੇ
 newtab-section-mangage-topics-blocked-topics-empty-state = ਤੁਸੀਂ ਹਾਲੇ ਕਿਸੇ ਵੀ ਵਿਸ਼ੇ ਉੱਤੇ ਪਾਬੰਦੀ ਨਹੀਂ ਲਾਈ ਹੈ।

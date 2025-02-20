@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI ਚੈਟਬੋਟ
 menu-view-review-checker =
     .label = ਰੀਵਿਊ ਚੈਕਰ
+menu-view-contextual-password-manager =
+    .label = ਪਾਸਵਰਡ
 sidebar-options-menu-button =
     .title = ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
 
@@ -115,6 +117,8 @@ sidebar-menu-customize-label =
     .label = ਬਾਹੀ ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰੋ
 sidebar-menu-review-checker-label =
     .label = ਰੀਵਿਊ ਚੈਕਰ
+sidebar-menu-contextual-password-manager-label =
+    .label = ਪਾਸਵਰਡ
 
 ## Tooltips for sidebar menu items.
 
@@ -157,6 +161,8 @@ sidebar-menu-syncedtabs-header =
     .heading = ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ
 sidebar-menu-bookmarks-header =
     .heading = ਬੁੱਕਮਾਰਕ
+sidebar-menu-cpm-header =
+    .heading = ਪਾਸਵਰਡ
 sidebar-panel-header-close-button =
     .tooltiptext = ਬੰਦ ਕਰੋ
 

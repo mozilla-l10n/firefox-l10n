@@ -18,3 +18,8 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = ਸਭ ਡੁਪਲੀਕੇਟ ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਕਰੋ
 all-tabs-menu-synced-tabs =
     .label = ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ
+all-tabs-menu-current-window-header = ਮੌਜੂਦਾ ਵਿੰਡੋ
+# "Show all" is for showing all open groups as well as saved groups. Initially,
+# we only show up to five of these groups.
+all-tabs-menu-tab-groups-show-all =
+    .label = ਸਭ ਨੂੰ ਵੇਖਾਓ
