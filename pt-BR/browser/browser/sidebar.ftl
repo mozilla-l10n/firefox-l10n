@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = Chatbot de inteligência artificial
 menu-view-review-checker =
     .label = Verificador de avaliações
+menu-view-contextual-password-manager =
+    .label = Senhas
 sidebar-options-menu-button =
     .title = Abrir menu
 
@@ -115,6 +117,8 @@ sidebar-menu-customize-label =
     .label = Personalizar painel lateral
 sidebar-menu-review-checker-label =
     .label = Verificador de avaliações
+sidebar-menu-contextual-password-manager-label =
+    .label = Senhas
 
 ## Tooltips for sidebar menu items.
 
@@ -157,6 +161,8 @@ sidebar-menu-syncedtabs-header =
     .heading = Abas de outros dispositivos
 sidebar-menu-bookmarks-header =
     .heading = Favoritos
+sidebar-menu-cpm-header =
+    .heading = Senhas
 sidebar-panel-header-close-button =
     .tooltiptext = Fechar
 
