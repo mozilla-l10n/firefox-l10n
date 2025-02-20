@@ -44,6 +44,7 @@ neterror-load-error-connection = Se vi ne sukcesas ŝargi iun ajn paĝon, kontro
 neterror-load-error-firewall = Se via komputilo aŭ reto estas protektataj de retbarilo aŭ retperanto, certiĝu ke { -brand-short-name } rajtas aliri la TTT-n.
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Se vi klopodas ŝargi paĝon el la loka reto, bonvolu kontroli ĉu { -brand-short-name } ricevis la permesojn por la loka reto en la agordoj de privateco kaj sekureco de de macOS.
+neterror-http-error-page = Certiĝu esti ĝuste tajpinta la adreson de la retejo.
 neterror-captive-portal = Vi devas komenci seancon en tiu ĉi reto antaŭ ol vi povos aliri la Interreton.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -99,6 +100,9 @@ neterror-proxy-connect-failure-settings = Kontrolu la agordojn de la retperanto 
 neterror-proxy-connect-failure-contact-admin = Kontaktu vian retan administranton por certiĝi ke la retperanto nuntempe funkcias.
 neterror-content-encoding-error = Bonvolu kontakti la retejajn posedantojn por raporti al ili tiun ĉi problemon.
 neterror-unsafe-content-type = Bonvolu kontakti la retejajn posedantojn por raporti al ili tiun ĉi problemon.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-basic-http-auth = { -brand-short-name } ne fidas { $hostname } ĉar la konekto ne estas sekura. Provu ŝanĝi la retadreson al HTTPS.
 neterror-nss-failure-not-verified = La paĝo, kiun vi klopodas vidi, ne povas esti montrita ĉar la aŭtentikeco de la ricevitaj datumoj ne povis esti kontrolita.
 neterror-nss-failure-contact-website = Bonvolu kontakti la posedantojn de la retejo por raporti al ili tiun ĉi problemon.
 # Variables:

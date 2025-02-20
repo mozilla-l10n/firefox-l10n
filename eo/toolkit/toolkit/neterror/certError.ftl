@@ -134,6 +134,7 @@ contentEncodingError-title = Eraro de enkodigo de enhavo
 unsafeContentType-title = Nesekura tipo de dosiero
 netReset-title = La konekto estis haltigita
 netTimeout-title = Limtempo por konekto atingita
+httpErrorPage-title = Ŝajne estas problemo kun tiu ĉi retejo
 serverError-title = Ŝajne estas problemo kun tiu ĉi retejo
 unknownProtocolFound-title = La adreso ne estis komprenita
 proxyConnectFailure-title = La retperanto rifuzas konektojn

@@ -14,8 +14,8 @@ printui-sheets-count =
     }
 printui-page-range-all = Alle
 printui-page-range-current = Gjeldande
-printui-page-range-odd = Oddetall
-printui-page-range-even = Partall
+printui-page-range-odd = Oddetal
+printui-page-range-even = Partal
 printui-page-range-custom = Tilpassa
 printui-page-range-label = Sider
 printui-page-range-picker =

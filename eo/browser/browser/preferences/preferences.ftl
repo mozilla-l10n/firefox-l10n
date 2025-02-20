@@ -1424,6 +1424,7 @@ space-alert-under-5gb-message2 = <strong>Elĉerpiĝas la diska spaco por { -bran
 
 httpsonly-header = HTTPS-nura reĝimo
 httpsonly-description3 = Nur permesi sekurajn konektojn al retejoj. { -brand-short-name } demandos antaŭ ol konektiĝi nesekure.
+httpsonly-learn-more2 = Kiel funkcias HTTPS-nura reĝimo
 httpsonly-description = HTTPS provizas sekuran, ĉifritan konekton inter { -brand-short-name } kaj la vizitataj retejoj. Plimulto de la retejoj subtenas HTTPS kaj, se la HTTPS-nura reĝimo estas aktiva, { -brand-short-name } movos ĉiujn konektojn al HTTPS.
 httpsonly-description2 = { -brand-short-name } kreas sekurajn kaj ĉifritajn konektojn al la retejoj, kiujn vi vizitas. Se la HTTPS-nura reĝimo estas ŝaltita { -brand-short-name } avertos vin se konekto ne estas sekura.
 httpsonly-learn-more = Pli da informo
@@ -1433,6 +1434,9 @@ httpsonly-radio-enabled2 =
     .label = Nur uzi HTTPS en ĉiuj fenestroj
 httpsonly-radio-enabled-pbm =
     .label = Aktivigi HTTPS-nuran reĝimon nur en privataj fenestroj
+httpsonly-radio-disabled3 =
+    .label = Ne aktivigi HTTPS-nuran reĝimon
+    .description = { -brand-short-name } povus tamen plisekurigi kelkajn konektojn
 httpsonly-radio-enabled-pbm2 =
     .label = Nur uzi HTTPS en privataj fenestroj
 httpsonly-radio-disabled =
