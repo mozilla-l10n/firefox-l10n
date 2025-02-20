@@ -256,7 +256,7 @@ newtab-toast-dismiss-button =
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
-newtab-error-fallback-info = ക്ഷമിക്കണം, ഈ ഉള്ളടക്കം ലഭ്യമാക്കുമ്പോഴു് കുഴപ്പം സംഭവിച്ചു.
+newtab-error-fallback-info = പൊറുക്കണം, ഈ ഉള്ളടക്കം ലഭ്യമാക്കുമ്പോഴു് കുഴപ്പം സംഭവിച്ചു.
 newtab-error-fallback-refresh-link = വീണ്ടും ശ്രമിക്കുന്നതിന് പേജ് പുതുക്കുക.
 
 ## Customization Menu

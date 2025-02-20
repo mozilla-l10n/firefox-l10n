@@ -66,11 +66,11 @@ about-telemetry-results-for-search = “{ $searchTerms }” എന്നതി�
 about-telemetry-no-search-results = ക്ഷമിക്കണം! “{ $currentSearchText }” എന്നതിനായി { $sectionName } ൽ ഫലങ്ങൾ ഒന്നുമില്ല
 # Variables:
 #   $searchTerms (string) - The searched terms
-about-telemetry-no-search-results-all = ക്ഷമിക്കണം! “{ $searchTerms }” നു വേണ്ടി യാതൊരു വിഭാഗങ്ങളിലും ഫലങ്ങളൊന്നുമില്ല
+about-telemetry-no-search-results-all = പൊറുക്കണം! “{ $searchTerms }” നു വേണ്ടി യാതൊരു വിഭാഗങ്ങളിലും ഫലങ്ങളൊന്നുമില്ല
 # This message is displayed when a section is empty.
 # Variables:
 #   $sectionName (string) - Is replaced by the section name.
-about-telemetry-no-data-to-display = ക്ഷമിക്കണം! “{ $sectionName }” ൽ നിലവിൽ ഡാറ്റയൊന്നും ലഭ്യമല്ല
+about-telemetry-no-data-to-display = പൊറുക്കണം! “{ $sectionName }” ൽ നിലവിൽ ഡാറ്റയൊന്നും ലഭ്യമല്ല
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = എല്ലാം
 # button label to copy the histogram

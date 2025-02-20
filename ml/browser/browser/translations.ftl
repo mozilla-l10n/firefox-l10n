@@ -87,8 +87,8 @@ translations-panel-error-change-button =
 #
 # Variables:
 #   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = ക്ഷമിക്കണം, ഞങ്ങൾ ഇതുവരെ { $language }-നെ പിന്തുണയ്ക്കുന്നില്ല.
-translations-panel-error-unsupported-hint-unknown = ക്ഷമിക്കണം, ഞങ്ങൾ ഇതുവരെ ഈ ഭാഷയിനു് പിന്തുണയ്ക്കുന്നില്ല.
+translations-panel-error-unsupported-hint-known = പൊറുക്കണം, ഞങ്ങൾ ഇതുവരെ { $language }-നെ പിന്തുണയ്ക്കുന്നില്ല.
+translations-panel-error-unsupported-hint-unknown = പൊറുക്കണം, ഞങ്ങൾ ഇതുവരെ ഈ ഭാഷയിനു് പിന്തുണയ്ക്കുന്നില്ല.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -221,9 +221,9 @@ select-translations-panel-translation-failure-message =
 # Variables:
 #   $language (string) - The language of the document.
 select-translations-panel-unsupported-language-message-known =
-    .message = ക്ഷമിക്കണം, ഞങ്ങൾ ഇതുവരെ { $language }-നെ പിന്തുണയ്ക്കുന്നില്ല.
+    .message = പൊറുക്കണം, ഞങ്ങൾ ഇതുവരെ { $language }-നെ പിന്തുണയ്ക്കുന്നില്ല.
 select-translations-panel-unsupported-language-message-unknown =
-    .message = ക്ഷമിക്കണം, ഞങ്ങൾ ഇതുവരെ ഈ ഭാഷയിനു് പിന്തുണയ്ക്കുന്നില്ല.
+    .message = പൊറുക്കണം, ഞങ്ങൾ ഇതുവരെ ഈ ഭാഷയിനു് പിന്തുണയ്ക്കുന്നില്ല.
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = വിവർത്തന ക്രമീകരണങ്ങൾ
