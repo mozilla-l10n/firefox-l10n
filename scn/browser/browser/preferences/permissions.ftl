@@ -107,10 +107,10 @@ permissions-site-autoplay-desc = Cca po' spicificari i siti chi nun ànnu a risp
 permissions-site-notification-window2 =
     .title = Mpustazzioni - Pirmissi di nutìfica
     .style = { permissions-window2.style }
-permissions-site-notification-desc = I siti appressu dumannaru di mannàriti nutìfichi. Po' spicificari quali siti ponnu mannari nutìfichi. Po' puru bluccari novi dumanni pû pirmisu di nutìfica.
+permissions-site-notification-desc = I siti appressu dumannaru di mannàriti nutìfichi. Po' spicificari quali siti ponnu mannari nutìfichi. Po' puru bluccari novi dumanni pû pirmissu di nutìfica.
 permissions-site-notification-disable-label =
-    .label = Blocca i novi dumanni di pirmisu di nutìfica
-permissions-site-notification-disable-desc = Chistu mpidisci ê siti ca nun cumparìscinu supra di dumannari u pirmisu di mannari nutìfichi. Bluccari i nutìfichi putissi ncippari certi carattirìstichi dû situ.
+    .label = Blocca i novi dumanni di pirmissu di nutìfica
+permissions-site-notification-disable-desc = Chistu mpidisci ê siti ca nun cumparìscinu supra di dumannari u pirmissu di mannari nutìfichi. Bluccari i nutìfichi putissi ncippari certi carattirìstichi dû situ.
 
 ## Site Permissions - Location
 
@@ -120,14 +120,14 @@ permissions-site-location-window2 =
 permissions-site-location-desc = I siti appressu dumannaru di accèdiri â to pusizzioni. Po' spicificari quali siti ponnu accèdiri â to pusizzioni. Po' puru bluccari i novi dumanni d'accessu â to pusizzioni.
 permissions-site-location-disable-label =
     .label = Blocca i novi dumanni d'accessu â to pusizzioni
-permissions-site-location-disable-desc = Chistu mpidisci ê siti ca nun cumparìscinu supra di dumannari u pirmisu di accèdiri â to pusizzioni. Bluccari l'accessu â to pusizzioni putissi rùmpiri certi carattarìstichi dû situ.
+permissions-site-location-disable-desc = Chistu mpidisci ê siti ca nun cumparìscinu supra di dumannari u pirmissu di accèdiri â to pusizzioni. Bluccari l'accessu â to pusizzioni putissi rùmpiri certi carattarìstichi dû situ.
 
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window2 =
     .title = Mpustazzioni - Pirmissi pâ rialtà virtuali
     .style = { permissions-window2.style }
-permissions-site-xr-desc = Sti siti addumannaru accessu ê to dispusitivi pâ rialtà virtuali. Po' spicificari quali siti ànnu stu pirmisu, e po' macari bluccari i novi richiesti d'accessu ê to dispusitivi pâ rialtà virtuali.
+permissions-site-xr-desc = Sti siti addumannaru accessu ê to dispusitivi pâ rialtà virtuali. Po' spicificari quali siti ànnu stu pirmissu, e po' macari bluccari i novi richiesti d'accessu ê to dispusitivi pâ rialtà virtuali.
 permissions-site-xr-disable-label =
     .label = Blocca i novi richiesti d'accessu ê to dispusitivi pâ rialtà virtuali.
 permissions-site-xr-disable-desc = Chistu bluccarà tutti i siti ca nun sunnu elincati cca supra d'addumannàriti accessu ê dispusitivi pâ rialtà virtuali. Bluccari st'accessu po' bluccari u funziunamentu di certi siti.
@@ -140,7 +140,7 @@ permissions-site-camera-window2 =
 permissions-site-camera-desc = I siti appressu dumannaru di accèdiri â fotucàmmira. Po' spicificari quali siti ponnu accèdiri â fotucàmmira. Po' puru bluccari i novi dumanni d'accessu â fotucàmmira.
 permissions-site-camera-disable-label =
     .label = Blocca i novi dumanni d'accessu â fotucàmmira
-permissions-site-camera-disable-desc = Chistu mpidisci ê siti ca nun cumparìscinu supra di dumannari u pirmisu d'accèdiri â fotucàmmira. Bluccari l'accessu â fotucàmmira putissi rùmpiri certi carattarìstichi dû situ.
+permissions-site-camera-disable-desc = Chistu mpidisci ê siti ca nun cumparìscinu supra di dumannari u pirmissu d'accèdiri â fotucàmmira. Bluccari l'accessu â fotucàmmira putissi rùmpiri certi carattarìstichi dû situ.
 
 ## Site Permissions - Microphone
 
@@ -150,7 +150,7 @@ permissions-site-microphone-window2 =
 permissions-site-microphone-desc = I siti appressu dumannaru di accèdiri ô micròfunu. Po' spicificari quali siti ponnu accèdiri ô micròfunu. Po' puru bluccari i novi dumanni d'accessu ô micròfunu.
 permissions-site-microphone-disable-label =
     .label = Blocca i novi dumanni d'accessu ô micròfunu
-permissions-site-microphone-disable-desc = Chistu mpidisci ê siti ca nun cumparìscinu supra di dumannari u pirmisu di accèdiri ô micròfunu. Bluccari l'accessu ô micròfunu putissi ncippari certi carattirìstichi dû situ.
+permissions-site-microphone-disable-desc = Chistu mpidisci ê siti ca nun cumparìscinu supra di dumannari u pirmissu di accèdiri ô micròfunu. Bluccari l'accessu ô micròfunu putissi ncippari certi carattirìstichi dû situ.
 
 ## Site Permissions - Speaker
 ##

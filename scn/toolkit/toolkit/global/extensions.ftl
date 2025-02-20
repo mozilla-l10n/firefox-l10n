@@ -12,7 +12,7 @@
 
 webext-perms-header = Jùnciri { $extension }?
 webext-perms-sideload-header = { $extension } junciutu
-webext-perms-optional-perms-header = { $extension } addumanna pirmisi addizziunali.
+webext-perms-optional-perms-header = { $extension } addumanna pirmissi superchiu.
 
 ##
 
@@ -22,7 +22,7 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Sfai
     .accesskey = S
-webext-perms-sideload-text = N'autru prugramma nnô to computer nzitau na juncitina ca po strammari a to navicazzioni. Pi favuri talìa arrè i richiesti di pirmisi di sta juncitina e scarta «Abbìlita» o «Sfai» (pi lassalla disabbilitata).
+webext-perms-sideload-text = N'autru prugramma nnô to computer nzitau na juncitina ca po strammari a to navicazzioni. Pi favuri talìa arrè i richiesti di pirmissi di sta juncitina e scarta «Abbìlita» o «Sfai» (pi lassalla disabbilitata).
 webext-perms-sideload-text-no-perms = N'autru prugramma nnô to computer nzitau na juncitina ca po strammari a to navicazzioni. Pi favuri scarta «Abbìlita» o «Sfai» (pi lassalla disabbilitata).
 webext-perms-sideload-enable =
     .label = Abbìlita

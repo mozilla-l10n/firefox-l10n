@@ -178,7 +178,7 @@ about-logins-edit-login-os-auth-dialog-message-macosx = cancia a cridinziali sar
 about-logins-os-auth-dialog-message =
     { PLATFORM() ->
         [macos] cancia i mpustazzioni pî chiavi
-       *[other] { -brand-short-name } sta pruvannu a canciari i mpustazzioni pî chiavi. Trasi cû to dispusitivu pi dari u pirmisu.
+       *[other] { -brand-short-name } sta pruvannu a canciari i mpustazzioni pî chiavi. Trasi cû to dispusitivu pi dari u pirmissu.
     }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = Pi canciari a to chiavi, metti i cridinziali di Windows. Chistu serbi a prutèggiri e mantèniri sicuri i to cunti.
@@ -426,7 +426,7 @@ about-logins-import-dialog-error-conflicting-values-description = Pi scempru: cc
 about-logins-import-dialog-error-file-format-title = Prubblema cû furmatu dû pricu
 about-logins-import-dialog-error-file-format-description = Màncanu o sunnu sbagghiati i tistati dî culonni. Stai accura chi u pricu cunteni i culonni pî nomi utenti, i chiavi e i nnirizzi.
 about-logins-import-dialog-error-file-permission-title = Mpussìbbili lèggiri u pricu
-about-logins-import-dialog-error-file-permission-description = { -brand-short-name } nun àvi u pirmisu pi lèggiri u pricu. Prova a canciari i pirmisi dû pricu.
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } nun àvi u pirmissu pi lèggiri u pricu. Prova a canciari i pirmissi dû pricu.
 about-logins-import-dialog-error-unable-to-read-title = Mpussìbbili analizzari u pricu
 about-logins-import-dialog-error-unable-to-read-description = Cuntrolla chi scartasti un pricu CSV o TSV.
 about-logins-import-dialog-error-no-logins-imported = Nun fu mpurtata nuḍḍa cridinziali

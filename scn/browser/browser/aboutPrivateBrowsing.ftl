@@ -67,7 +67,7 @@ about-private-browsing-pin-promo-title = Nuḍḍu viscottu, nuḍḍa crunulugg
 # in your language: `See fewer cookie requests`.
 about-private-browsing-cookie-banners-promo-header = Accabbaru l'abbisi pî cookie!
 about-private-browsing-cookie-banners-promo-button = Cchiù picca abbisi pî cookie
-about-private-browsing-cookie-banners-promo-message = Pirmetti a { -brand-short-name } d'arrispùnniri 'n autumàticu a l'abbisi pî cookie, accussì poi turnari lestu a navigari senza distrazzioni. Si pussìbbili, { -brand-short-name } rifiuta tutti i pirmisi.
+about-private-browsing-cookie-banners-promo-message = Pirmetti a { -brand-short-name } d'arrispùnniri 'n autumàticu a l'abbisi pî cookie, accussì poi turnari lestu a navigari senza distrazzioni. Si pussìbbili, { -brand-short-name } rifiuta tutti i pirmissi.
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } penza a l'abbisi pî cookie pi tia
