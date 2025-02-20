@@ -316,6 +316,8 @@ newtab-custom-settings = További beállítások kezelése
 
 newtab-wallpaper-title = Háttérképek
 newtab-wallpaper-reset = Visszaállítás az alapértelmezésre
+newtab-wallpaper-upload-image = Kép feltöltése
+newtab-wallpaper-custom-color = Válasszon színt
 newtab-wallpaper-light-red-panda = Vörös panda
 newtab-wallpaper-light-mountain = Fehér hegy
 newtab-wallpaper-light-sky = Ég, lila és rózsaszín felhőkkel
