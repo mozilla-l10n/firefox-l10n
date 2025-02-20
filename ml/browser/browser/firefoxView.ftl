@@ -39,7 +39,9 @@ firefoxview-syncedtabs-signin-primarybutton = പ്രവേശിക്കു�
 firefoxview-tabpickup-adddevice-learn-how = എങ്ങനെയെന്നറിയാം
 firefoxview-tabpickup-adddevice-primarybutton = താങ്ങളുടെ ഫോണിൽ { -brand-product-name } നേടുക
 firefoxview-syncedtabs-adddevice-header-2 = എവിടെനിന്നും ടാബുകൾ എടുക്കുക
+firefoxview-syncedtabs-adddevice-primarybutton = താങ്ങളുടെ ഫോണിൽ { -brand-product-name } നേടുക
 firefoxview-tabpickup-synctabs-header = ടാബുസമന്വയം തുടങ്ങിവയ്ക്കുക
+firefoxview-tabpickup-synctabs-description = ഉപകരണങ്ങൾക്കിടയിൽ ടാബുകൾ പങ്കിടാൻ { -brand-short-name } നെ അനുവദിക്കുക.
 firefoxview-tabpickup-synctabs-learn-how = എങ്ങനെയെന്നറിയാം
 firefoxview-tabpickup-synctabs-primarybutton = തുറന്ന ടാബുകളെ സമന്വയിപ്പിക്കുക
 firefoxview-syncedtabs-synctabs-header = താങ്ങളുടെ സമന്വയ ക്രമീകരണങ്ങളെ പരിഷ്കരിക്കുക
@@ -210,6 +212,7 @@ firefoxview-import-history-close-button =
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
 firefoxview-import-history-header = മറ്റൊരു അന്വേഷിയന്ത്രം നിന്നു് നാൾവഴിയെ ഇറക്കുമതി ചെയ്യുക
+firefoxview-import-history-description = { -brand-short-name }-നു് താങ്ങളുടെ തനമിട്ട അന്വേഷിയന്ത്രമാക്കുക. തിരച്ചിൽ നാൾവഴിയും അടയാളക്കുറിപ്പുകളും മറ്റും ഇറക്കുമതിക്കുക.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
