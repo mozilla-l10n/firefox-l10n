@@ -370,6 +370,7 @@ newtab-wallpaper-storm-sky = 电闪雷鸣
 newtab-wallpaper-sky-with-pink-clouds = 飘着粉色云朵的天空
 newtab-wallpaper-red-panda-yawns-in-a-tree = 在树上打哈欠的小熊猫
 newtab-wallpaper-white-mountains = 皑白山脉
+newtab-wallpaper-forest-trees = 浓雾掩映的树木
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -389,6 +390,7 @@ feature-highlight-wallpaper =
 
 newtab-wallpaper-celestial-lunar-eclipse = 月食
 newtab-wallpaper-celestial-starry-sky = 星空
+newtab-wallpaper-celestial-eclipse-time-lapse = 月食延时照片
 
 ## New Tab Weather
 

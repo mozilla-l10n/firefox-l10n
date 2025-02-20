@@ -480,10 +480,15 @@ newtab-section-confirm-block-section-p1 = Er du sikker på at du vil blokkere de
 newtab-section-confirm-block-section-p2 = Blokkert del vil ikkje lenger visast i kjelda di.
 newtab-section-block-section-button = Blokker denne delen
 newtab-section-cancel-button = Ikkje no
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = Blokker { $topic }
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Emne
+newtab-section-manage-topics-button-v2 =
+    .label = Handsam emne
 newtab-section-mangage-topics-button =
     .label = Følgde og blokkerte emne
 newtab-section-mangage-topics-followed-topics-subtitle = Følgde emne
