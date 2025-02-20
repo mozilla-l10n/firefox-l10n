@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI Chatbot
 menu-view-review-checker =
     .label = Vurderingskontrollør
+menu-view-contextual-password-manager =
+    .label = Passord
 sidebar-options-menu-button =
     .title = Opne meny
 
@@ -50,6 +52,12 @@ sidebar-position-right =
     .label = Vis på høgre side
 sidebar-vertical-tabs =
     .label = Vertikale faner
+sidebar-settings =
+    .label = Innstillingar for sidestolpe
+sidebar-show-on-the-right =
+    .label = Flytt sidestolpe til høgre
+sidebar-show-on-the-left =
+    .label = Flytt sidestolpe til venstre
 sidebar-horizontal-tabs =
     .label = Horisontale faner
 sidebar-customize-tabs-header =
@@ -101,6 +109,8 @@ sidebar-menu-customize-label =
     .label = Tilpass sidestolpe
 sidebar-menu-review-checker-label =
     .label = Vurderingskontrollør
+sidebar-menu-contextual-password-manager-label =
+    .label = Passord
 
 ## Tooltips for sidebar menu items.
 
@@ -128,6 +138,7 @@ sidebar-menu-close-ai-chatbot-tooltip = Lat att AI chatbot
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
+sidebar-menu-open-ai-chatbot-tooltip-generic = Opne AI chatbot ({ $shortcut })
 sidebar-menu-open-ai-chatbot-provider-tooltip = Opne { $provider } ({ $shortcut })
 sidebar-menu-close-ai-chatbot-tooltip-generic = Lat att AI chatbot ({ $shortcut })
 sidebar-menu-close-ai-chatbot-provider-tooltip = Lat att { $provider } ({ $shortcut })
@@ -142,6 +153,8 @@ sidebar-menu-syncedtabs-header =
     .heading = Faner frå andre einingar
 sidebar-menu-bookmarks-header =
     .heading = Bokmerke
+sidebar-menu-cpm-header =
+    .heading = Passord
 sidebar-panel-header-close-button =
     .tooltiptext = Lat att
 

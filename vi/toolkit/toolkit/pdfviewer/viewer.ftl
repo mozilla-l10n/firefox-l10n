@@ -308,6 +308,9 @@ pdfjs-highlight-floating-button1 =
     .title = Đánh dấu
     .aria-label = Đánh dấu
 pdfjs-highlight-floating-button-label = Đánh dấu
+pdfjs-editor-signature-button =
+    .title = Thêm chữ ký
+pdfjs-editor-signature-button-label = Thêm chữ ký
 
 ## Remove button for the various kind of editor.
 
@@ -337,6 +340,9 @@ pdfjs-editor-stamp-add-image-button-label = Thêm hình ảnh
 pdfjs-editor-free-highlight-thickness-input = Độ dày
 pdfjs-editor-free-highlight-thickness-title =
     .title = Thay đổi độ dày khi đánh dấu các mục không phải là văn bản
+pdfjs-editor-signature-add-signature-button =
+    .title = Thêm chữ ký mới
+pdfjs-editor-signature-add-signature-button-label = Thêm chữ ký mới
 # .default-content is used as a placeholder in an empty text editor.
 pdfjs-free-text2 =
     .aria-label = Trình chỉnh sửa văn bản
@@ -558,12 +564,18 @@ pdfjs-editor-add-signature-error-close-button = Đóng
 
 pdfjs-editor-add-signature-cancel-button = Hủy bỏ
 pdfjs-editor-add-signature-add-button = Thêm
+pdfjs-editor-edit-signature-update-button = Cập nhật
 
 ## Main menu for adding/removing signatures
 
+pdfjs-editor-delete-signature-button =
+    .title = Xoá chữ ký
+pdfjs-editor-delete-signature-button-label = Xoá chữ ký
 
 ## Editor toolbar
 
+pdfjs-editor-add-signature-edit-button-label = Chỉnh sửa mô tả
 
 ## Edit signature description dialog
 
+pdfjs-editor-edit-signature-dialog-title = Chỉnh sửa mô tả

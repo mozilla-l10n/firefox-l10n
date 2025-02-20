@@ -8,6 +8,7 @@ crashreporter-crashed-and-restore = { -brand-short-name } hadde eit problem og k
 crashreporter-plea = For å hjelpe oss å stille diagnose og å ordne problemet, kan du sende oss ein krasjrapport.
 crashreporter-information = Dette programmet køyrer etter at eit programkrasj oppstår for å rapportere problemet til { -vendor-short-name }.  Det bør ikkje køyrast direkte.
 crashreporter-error = Eit uventa problem har oppstått og { -brand-short-name } krasja. Desverre er krasjrapportering ikkje i stand til å sende rapporten om krasjet.
+crashreporter-error-details-header = Detaljar:
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Detaljar: { $details }
 crashreporter-no-run-message = Dette programmet vert køyrt etter eit krasj for å rapportera problemet til programseljaren.  -Skal ikkje køyrast direkte.
