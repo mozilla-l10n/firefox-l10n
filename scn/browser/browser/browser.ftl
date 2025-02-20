@@ -537,7 +537,7 @@ unified-extensions-button-permissions-needed =
     .label = Stinneri
     .tooltiptext =
         Stinneri
-        Pirmisi nicissari
+        Pirmissi nicissari
 
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.

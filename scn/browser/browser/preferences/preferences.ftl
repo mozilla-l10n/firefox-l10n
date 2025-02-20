@@ -851,7 +851,7 @@ tracking-manage-exceptions =
 
 ## Privacy Section - Permissions
 
-permissions-header = Pirmisi
+permissions-header = Pirmissi
 permissions-location = Pusizzioni
 permissions-location-settings =
     .label = Mpustazzioni…

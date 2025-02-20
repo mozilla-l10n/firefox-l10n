@@ -28,7 +28,7 @@ origin-controls-toolbar-button-permission-needed =
     .label = { $extensionTitle }
     .tooltiptext =
         { $extensionTitle }
-        Pirmisi nicissari
+        Pirmissi nicissari
 # Extension's toolbar button when quarantined.
 # Note that the new line is intentionally part of the tooltip.
 origin-controls-toolbar-button-quarantined =

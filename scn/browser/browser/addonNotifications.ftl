@@ -54,7 +54,7 @@ addon-install-full-screen-blocked = Nun è pussìbbili nzitari na juncitina quan
 webext-perms-sideload-menu-item = { $addonName } fu junciutu a { -brand-short-name }
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
-webext-perms-update-menu-item = { $addonName } addumanna novi pirmisi
+webext-perms-update-menu-item = { $addonName } addumanna pirmisi novi
 # This message is shown when one or more extensions have been imported from a
 # different browser into Firefox, and the user needs to complete the import to
 # start these extensions. This message is shown in the appmenu.

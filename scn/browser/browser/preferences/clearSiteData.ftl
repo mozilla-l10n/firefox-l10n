@@ -5,7 +5,7 @@
 clear-site-data-window2 =
     .title = Scancella dati
     .style = min-width: 35em
-clear-site-data-description = Cancillari tutti i viscotta e i dati dî siti sarbati nne { -brand-short-name } ti putissi fari nèsciri dî siti e putissi scancillari cuntinuti fora linia. Cancillari a mimoria cauda nun nfruinzarà i to accessi.
+clear-site-data-description = Scancillari tutti i viscotta e i dati dî siti sarbati nne { -brand-short-name } ti putissi fari nèsciri dî siti e putissi scancillari cuntinuti fora linia. Scancillari a mimoria cauda nun nfruinzarà i to accessi.
 clear-site-data-close-key =
     .key = w
 # The parameters in parentheses in this string describe disk usage
