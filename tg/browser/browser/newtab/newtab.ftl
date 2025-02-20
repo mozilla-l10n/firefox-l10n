@@ -408,6 +408,7 @@ newtab-wallpaper-celestial-lunar-eclipse = Гирифти Моҳ
 newtab-wallpaper-celestial-earth-night = Акси шабона аз мадори пасти кураи Замин
 newtab-wallpaper-celestial-starry-sky = Осмони ситоразор
 newtab-wallpaper-celestial-eclipse-time-lapse = Вақти фарогирии гирифти Моҳ
+newtab-wallpaper-celestial-black-hole = Тасвири роҳи каҳкашон бо сӯрохи сиёҳ
 
 ## New Tab Weather
 
