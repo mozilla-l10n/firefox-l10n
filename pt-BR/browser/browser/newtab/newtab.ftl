@@ -362,6 +362,7 @@ newtab-wallpaper-abstract-orange = Formas em tons de laranja
 newtab-wallpaper-gradient-orange = Gradiente laranja e rosa
 newtab-wallpaper-abstract-blue-purple = Formas em tons de azul e roxo
 newtab-wallpaper-abstract-white-curves = Branco com curvas sombreadas
+newtab-wallpaper-abstract-purple-green = Gradiente de luz roxo e verde
 newtab-wallpaper-abstract-blue-purple-waves = Formas onduladas em azul e roxo
 newtab-wallpaper-abstract-black-waves = Formas onduladas pretas
 
@@ -503,6 +504,7 @@ newtab-section-confirm-block-section-p2 = A seção bloqueada não aparecerá ma
 newtab-section-block-section-button = Bloquear esta seção
 newtab-section-cancel-button = Agora não
 newtab-section-confirm-block-topic-p1 = Tem certeza que quer bloquear este tópico?
+newtab-section-confirm-block-topic-p2 = Tópicos bloqueados não aparecerão mais no seu canal de informações.
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Bloquear { $topic }

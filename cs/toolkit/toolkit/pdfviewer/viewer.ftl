@@ -320,6 +320,9 @@ pdfjs-highlight-floating-button1 =
     .title = Zvýraznit
     .aria-label = Zvýraznit
 pdfjs-highlight-floating-button-label = Zvýraznit
+pdfjs-editor-signature-button =
+    .title = Přidat podpis
+pdfjs-editor-signature-button-label = Přidat podpis
 
 ## Remove button for the various kind of editor.
 
@@ -331,6 +334,8 @@ pdfjs-editor-remove-stamp-button =
     .title = Odebrat obrázek
 pdfjs-editor-remove-highlight-button =
     .title = Odebrat zvýraznění
+pdfjs-editor-remove-signature-button =
+    .title = Odebrat podpis
 
 ##
 
@@ -347,6 +352,9 @@ pdfjs-editor-stamp-add-image-button-label = Přidat obrázek
 pdfjs-editor-free-highlight-thickness-input = Tloušťka
 pdfjs-editor-free-highlight-thickness-title =
     .title = Změna tloušťky při zvýrazňování jiných položek než textu
+pdfjs-editor-signature-add-signature-button =
+    .title = Přidat nový podpis
+pdfjs-editor-signature-add-signature-button-label = Přidat nový podpis
 # .default-content is used as a placeholder in an empty text editor.
 pdfjs-free-text2 =
     .aria-label = Textový editor
@@ -504,6 +512,7 @@ pdfjs-editor-undo-bar-message-highlight = Zvýraznění odebráno
 pdfjs-editor-undo-bar-message-freetext = Text odstraněn
 pdfjs-editor-undo-bar-message-ink = Kresba odstraněna
 pdfjs-editor-undo-bar-message-stamp = Obrázek odebrán
+pdfjs-editor-undo-bar-message-signature = Podpis odebrán
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple =
@@ -522,15 +531,24 @@ pdfjs-editor-undo-bar-close-button-label = Zavřít
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-title = Přidat podpis
 
 ## Tab names
 
+# Type is a verb (you can type your name as signature)
+pdfjs-editor-add-signature-type-button = Typ
+    .title = Typ
 
 ## Tab panels
 
 
 ## Controls
 
+pdfjs-editor-add-signature-description-default-when-drawing = Podpis
+pdfjs-editor-add-signature-clear-button-label = Vymazání podpisu
+pdfjs-editor-add-signature-clear-button =
+    .title = Vymazání podpisu
+pdfjs-editor-add-signature-save-checkbox = Uložit podpis
 pdfjs-editor-add-signature-error-close-button = Zavřít
 
 ## Dialog buttons
@@ -541,9 +559,14 @@ pdfjs-editor-edit-signature-update-button = Aktualizovat
 
 ## Main menu for adding/removing signatures
 
+pdfjs-editor-delete-signature-button =
+    .title = Odebrat podpis
+pdfjs-editor-delete-signature-button-label = Odebrat podpis
 
 ## Editor toolbar
 
+pdfjs-editor-add-signature-edit-button-label = Upravit popis
 
 ## Edit signature description dialog
 
+pdfjs-editor-edit-signature-dialog-title = Upravit popis

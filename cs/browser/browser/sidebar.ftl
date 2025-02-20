@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI Chatbot
 menu-view-review-checker =
     .label = Kontrola recenzí
+menu-view-contextual-password-manager =
+    .label = Hesla
 sidebar-options-menu-button =
     .title = Otevřít nabídku
 
@@ -66,6 +68,10 @@ sidebar-show-on-the-right =
     .label = Přesunout postranní lištu doprava
 sidebar-show-on-the-left =
     .label = Přesunout postranní lištu doleva
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Rozbalit postranní panel při najetí myší
 sidebar-horizontal-tabs =
     .label = Vodorovné panely
 sidebar-customize-tabs-header =
@@ -119,6 +125,8 @@ sidebar-menu-customize-label =
     .label = Přizpůsobit postranní lištu
 sidebar-menu-review-checker-label =
     .label = Kontrola recenzí
+sidebar-menu-contextual-password-manager-label =
+    .label = Hesla
 
 ## Tooltips for sidebar menu items.
 
@@ -161,6 +169,8 @@ sidebar-menu-syncedtabs-header =
     .heading = Panely z jiných zařízení
 sidebar-menu-bookmarks-header =
     .heading = Záložky
+sidebar-menu-cpm-header =
+    .heading = Hesla
 sidebar-panel-header-close-button =
     .tooltiptext = Zavřít
 
