@@ -316,6 +316,12 @@ newtab-custom-settings = Administrar ulteriurs parameters
 
 newtab-wallpaper-title = Maletgs dal fund davos
 newtab-wallpaper-reset = Restaurar il standard
+newtab-wallpaper-upload-image = Transferir in maletg
+newtab-wallpaper-custom-color = Tscherner ina colur
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = Il maletg surpassa la grondezza maximala permessa da { $file_size } MB. Emprova per plaschair da transferir ina datoteca pli pitschna.
+newtab-wallpaper-error-file-type = I n’è betg reussì da transferir tia datoteca. Emprova per plaschair anc ina giada cun in auter tip da datoteca.
 newtab-wallpaper-light-red-panda = Panda cotschen
 newtab-wallpaper-light-mountain = Muntogna alva
 newtab-wallpaper-light-sky = Tschiel cun nivels violets e rosas
