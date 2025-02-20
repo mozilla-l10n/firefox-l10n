@@ -73,3 +73,16 @@ text-action-search-text-box-clear =
     .title = ניקוי
 text-action-highlight-selection =
     .label = הדגשת הבחירה
+# "Copy Link to Highlight" creates a permanent 'Text Fragment' link
+# to the current selection, and copies it into the user's clipboard.
+text-action-copy-link-to-highlight =
+    .label = העתקת קישור לקטע מודגש
+# This combines "Copy Link to Highlight" with "Copy Clean Link", ie.
+# it creates a link with a text fragment to the current selection
+# and it strips trackers etc.
+text-action-copy-clean-link-to-highlight =
+    .label = העתקת קישור נקי לקטע מודגש
+# If the page has been loaded with a text fragment and text is
+# visibly highlighted, this removes any highlighted sections on the page.
+text-action-remove-all-highlights =
+    .label = הסרת כל הקטעים המסומנים
