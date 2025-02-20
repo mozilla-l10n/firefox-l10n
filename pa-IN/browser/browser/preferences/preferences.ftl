@@ -149,6 +149,7 @@ preferences-data-migration-button =
     .label = ਡਾਟਾ ਦਰਾਮਦ ਕਰੋ
     .accesskey = m
 preferences-profiles-header = ਪਰੋਫਾਈਲ
+preferences-manage-profiles-description = ਹਰ ਪਰੋਫ਼ਾਈਲ ਲਈ ਬਰਾਊਜ਼ਿੰਗ ਡਾਟਾ ਅਤੇ ਸੈਟਿੰਗਾਂ, ਜਿਸ ਵਿੱਚ ਅਤੀਤ, ਪਾਸਵਰਡ ਅਤੇ ਹੋਰ ਚੀਜ਼ਾਂ ਵੱਖੋ-ਵੱਖ ਹੁੰਦੀਆਂ ਹਨ।
 preferences-manage-profiles-learn-more = ਹੋਰ ਜਾਣੋ
 preferences-manage-profiles-button =
     .label = ਪਰੋਫਾਈਲਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ

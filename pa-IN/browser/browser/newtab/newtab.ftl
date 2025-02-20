@@ -317,6 +317,10 @@ newtab-wallpaper-title = ਵਾਲਪੇਪਰ
 newtab-wallpaper-reset = ਮੂਲ ਲਈ ਮੁੜ-ਸੈੱਟ ਕਰੋ
 newtab-wallpaper-upload-image = ਚਿੱਤਰ ਨੂੰ ਅੱਪਲੋਡ ਕਰੋ
 newtab-wallpaper-custom-color = ਰੰਗ ਨੂੰ ਚੁਣੋ
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = ਚਿੱਤਰ ਫ਼ਾਇਲ ਦਾ ਆਕਾਰ { $file_size } MB ਤੋਂ ਵੱਧ ਗਿਆ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਛੋਟੇ ਆਕਾਰ ਦੀ ਫਾਇਲ ਅੱਪਲੋਡ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
+newtab-wallpaper-error-file-type = ਅਸੀਂ ਤੁਹਾਡੀ ਫ਼ਾਇਲ ਨੂੰ ਅੱਪਲੋਡ ਨਹੀਂ ਕਰ ਸਕੇ ਹਾਂ। ਵੱਖਰੀ ਫ਼ਾਇਲ ਕਿਸਮ ਨਾਲ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰਕੇ ਵੇਖੋ।
 newtab-wallpaper-light-red-panda = ਲਾਲ ਪਾਂਡਾ
 newtab-wallpaper-light-mountain = ਚਿੱਟਾ ਪਹਾੜ
 newtab-wallpaper-light-sky = ਜਾਮਨੀ ਅਤੇ ਗੁਲਾਬੀ ਬੱਦਲਾਂ ਨਾਲ ਅਸਮਾਨ
@@ -387,6 +391,7 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+newtab-wallpaper-celestial-river = ਦਰਿਆ ਦਾ ਉਪ-ਗ੍ਰਹਿ ਰਾਹੀਂ ਤਸਵੀਰ
 
 ## New Tab Weather
 
@@ -483,10 +488,17 @@ newtab-section-confirm-block-section-p2 = ਪਾਬੰਦੀ ਲਗਾਇਆ ਭ
 newtab-section-block-section-button = ਇਸ ਭਾਗ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਓ
 newtab-section-cancel-button = ਹੁਣੇ ਨਹੀਂ
 newtab-section-confirm-block-topic-p1 = ਕੀ ਤੁਸੀਂ ਇਸ ਵਿਸ਼ੇ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?
+newtab-section-confirm-block-topic-p2 = ਪਾਬੰਦੀ ਲਾਏ ਵਿਸ਼ੇ ਤੁਹਾਡੀ ਫੀਡ ਵਿੱਚ ਦਿਖਾਈ ਨਹੀਂ ਦੇਣਗੇ।
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = { $topic } ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਓ
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = ਵਿਸ਼ੇ:
+newtab-section-manage-topics-button-v2 =
+    .label = ਵਿਸ਼ਿਆਂ ਦਾ ਇੰਤਜ਼ਾਮ
+newtab-section-mangage-topics-followed-topics = ਫ਼ਾਲੋ ਕੀਤੇ
 newtab-section-mangage-topics-button =
     .label = ਫ਼ਾਲੋ ਅਤੇ ਪਾਬੰਦੀ ਲਾਏ ਵਿਸ਼ੇ
 newtab-section-mangage-topics-followed-topics-subtitle = ਫ਼ਾਲੋ ਕੀਤੇ ਵਿਸ਼ੇ

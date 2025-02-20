@@ -99,3 +99,11 @@ unified-search-engines-callout-title = ਸ਼ਾਰਟਕੱਟ ਨਾਲ ਖੋਜ
 unified-search-engines-callout-subtitle = ਆਪਣੇ ਅਤੀਤ, ਬੁੱਕਮਾਰਕਾਂ, ਟੈਬਾਂ ਵਿੱਚ ਜਾਂ ਹੋਰ ਖੋਜ ਇੰਜਣ ਨਾਲ ਖੋਜ ਕਰਨ ਲਈ “@” ਦੇ ਬਾਅਦ ਸ਼ਬਦ ਲਿਖੋ।
 unified-search-engines-callout-primary-label = ਸਮਝੇ
 actions-callout-title = ਆਮ ਕੰਮ ਪੂਰੇ ਕਰੋ ਜਾਂ ਮੁੱਢਲੀਆਂ ਸੈਟਿੰਗਾਂ ਨੂੰ ਵੇਖੋ
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearhistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = ਕਾਰਵਾਈਆਂ ਜਿਵੇਂ ਕਿ ਸਫ਼ੇ ਨੂੰ ਪਰਿੰਟ ਕਰਨ ਲਈ “ਪਰਿੰਟ” ਜਾਂ ਆਪਣੇ ਅਤੀਤ ਨੂੰ ਮਿਟਾਉਣ ਲਈ "ਮਿਟਾਓ" ਲਿਖਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
