@@ -409,6 +409,7 @@ newtab-wallpaper-celestial-earth-night = Акси шабона аз мадори
 newtab-wallpaper-celestial-starry-sky = Осмони ситоразор
 newtab-wallpaper-celestial-eclipse-time-lapse = Вақти фарогирии гирифти Моҳ
 newtab-wallpaper-celestial-black-hole = Тасвири роҳи каҳкашон бо сӯрохи сиёҳ
+newtab-wallpaper-celestial-river = Акси дарё аз моҳвораи алоқа
 
 ## New Tab Weather
 
