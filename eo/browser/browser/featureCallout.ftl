@@ -91,7 +91,19 @@ sidebar-callout-survey-submit = Sendi
 sidebar-callout-survey-thank-you = Dankon pro via opinio!
 sidebar-genai-survey-satisfaction-question = Kiel kontentige estas havi aliron al A.I. dialoganto en la flanka strio?
 sidebar-genai-survey-productive-question = Kiel multe vi samopinias kun la jena frazo:<br/>“La A.I. dialoganto en la flanka strio helpas min esti pli produktema”?
+unified-search-callout-title = Ŝanĝi serĉilon
+unified-search-callout-subtitle = Elektu tion, kio plej bone funkcias por via specifa serĉo.
 unified-search-callout-primary-label = Antaŭen
 unified-search-callout-secondary-label = Ignori
 unified-search-engines-callout-title = Serĉi per ŝparvojo
+unified-search-engines-callout-subtitle = Tajpu “@” sekvita de ŝlosilvorto por serĉi en historio, legosignoj, langetoj aŭ por uzi alian serĉilon.
 unified-search-engines-callout-primary-label = Mi komprenis
+actions-callout-title = Plenumu oftajn taskojn aŭ aliru bazajn agordojn
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearhistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = Provu tajpi agon kiel “presi” por presi paĝon aŭ “viŝi” por viŝi vian historion.
