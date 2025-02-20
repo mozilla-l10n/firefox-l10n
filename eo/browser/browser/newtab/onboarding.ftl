@@ -445,6 +445,9 @@ onboarding-checklist-sign-up = Registriĝu aŭ komencu seancon per via konto
 
 tab-groups-onboarding-feature-callout-title = Provu la grupojn de langetoj, por pli da ordo kaj fokuso.
 tab-groups-onboarding-feature-callout-subtitle = Ordigu viajn langetojn per treno de unu sur alia, por krei vian unuan grupon.
+tab-groups-onboarding-create-group-title = Retrovu viajn malfermitajn grupojn en la langeta strio aŭ per serĉo en la adresa strio.
+tab-groups-onboarding-saved-groups-title = Se vi fermas grupon de langetoj, vi povas remalfermi ĝin ĉi tie, iam ajn.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title = Trovu viajn fermitajn aŭ malfermitajn grupojn de langetoj iam ajn, per serĉo en la adresa strio.
 tab-groups-onboarding-dismiss = Akcepti
 
 ## Multi Profiles feature onboarding messages
@@ -458,4 +461,11 @@ multi-profile-callout-cta = Krei profilon
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = Elŝutu, spegulu, kaj ek!
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Skanu la kodon QR por elŝuti { -brand-product-name } por poŝaparatoj. Post instalo elektu "Speguli en poŝaparato” por aliri viajn pasvortojn, legosignojn kaj pli el ie ajn.
 dismiss-button-label = Ignori
+sync-to-mobile-button-label = Speguli en poŝaparato
+desktop-to-mobile-qr-code-alt =
+    .aria-label = Kodo QR por elŝuti { -brand-product-name } por poŝaparatoj

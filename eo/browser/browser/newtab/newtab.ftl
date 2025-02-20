@@ -504,13 +504,21 @@ newtab-section-confirm-block-section-p2 = Blokitaj sekcioj ne plu aperos en via 
 newtab-section-block-section-button = Bloki tiun ĉi sekcion
 newtab-section-cancel-button = Ne nun
 newtab-section-confirm-block-topic-p1 = Ĉu vi certe volas bloki tiun ĉi temon?
+newtab-section-confirm-block-topic-p2 = Blokitaj temoj ne plu aperos en via informa fonto
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = Bloki { $topic }
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Temoj
+newtab-section-manage-topics-button-v2 =
+    .label = Administri temojn
+newtab-section-mangage-topics-followed-topics = Sekvataj
 newtab-section-mangage-topics-button =
     .label = Sekvataj kaj blokitaj temoj
 newtab-section-mangage-topics-followed-topics-subtitle = Sekvataj temoj
 newtab-section-mangage-topics-followed-topics-empty-state = Vi ankoraŭ sekvas neniun temon.
+newtab-section-mangage-topics-blocked-topics = Blokitaj
 newtab-section-mangage-topics-blocked-topics-subtitle = Blokitaj temoj
 newtab-section-mangage-topics-blocked-topics-empty-state = Vi ankoraŭ blokas neniun temon.
