@@ -29,6 +29,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Malfermi denove fermitajn langetojn
         }
     .accesskey = M
+toolbar-context-turn-on-vertical-tabs =
+    .label = Ŝalti vertikalajn langetojn
+toolbar-context-turn-off-vertical-tabs =
+    .label = Malŝalti vertikalajn langetojn
+toolbar-context-customize-sidebar =
+    .label = Personecigi la flankan strion
 toolbar-context-menu-manage-extension =
     .label = Administri etendaĵon
     .accesskey = A

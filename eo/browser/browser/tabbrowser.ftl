@@ -243,6 +243,10 @@ tab-group-editor-color-selector2-gray = Griza
     .title = Griza
 tab-group-editor-color-selector2-red = Ruĝa
     .title = Ruĝa
+# Variables:
+#  $tabGroupName (String): The name of the tab group. Defaults to the value
+#                          of tab-group-name-default.
+tab-group-description = { $tabGroupName } — Grupo de langetoj
 tab-group-menu-header = Grupoj de langetoj
 tab-context-unnamed-group =
     .label = Grupo sen nomo

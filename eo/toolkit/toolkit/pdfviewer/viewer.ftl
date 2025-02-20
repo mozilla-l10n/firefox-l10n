@@ -531,12 +531,18 @@ pdfjs-editor-add-signature-error-close-button = Fermi
 
 pdfjs-editor-add-signature-cancel-button = Nuligi
 pdfjs-editor-add-signature-add-button = Aldoni
+pdfjs-editor-edit-signature-update-button = Ĝisdatigi
 
 ## Main menu for adding/removing signatures
 
+pdfjs-editor-delete-signature-button =
+    .title = Forigi subskribon
+pdfjs-editor-delete-signature-button-label = Forigi subskribon
 
 ## Editor toolbar
 
+pdfjs-editor-add-signature-edit-button-label = Modifi priskribon
 
 ## Edit signature description dialog
 
+pdfjs-editor-edit-signature-dialog-title = Modifi priskribon
