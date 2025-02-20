@@ -377,6 +377,9 @@ newtab-wallpaper-storm-sky = Осмони тӯфонӣ
 newtab-wallpaper-sky-with-pink-clouds = Осмон бо абрҳои гулобӣ
 newtab-wallpaper-red-panda-yawns-in-a-tree = Пандаи сурх дар дарахт хамёза мекашад
 newtab-wallpaper-white-mountains = Кӯҳҳои сафед
+newtab-wallpaper-hot-air-balloons = Рангҳои гуногуни пуфакҳои ҳавоӣ дар давоми рӯз
+newtab-wallpaper-starry-canyon = Шаби ситоразори кабуд
+newtab-wallpaper-suspension-bridge = Акси пули хокистариранги овезон дар давоми рӯз
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
