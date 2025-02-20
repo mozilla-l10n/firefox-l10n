@@ -364,6 +364,10 @@ newtab-wallpaper-abstract-purple = Hình dạng màu tím
 newtab-wallpaper-abstract-orange = Hình dạng màu cam
 newtab-wallpaper-gradient-orange = Gradient màu cam và màu hồng
 newtab-wallpaper-abstract-blue-purple = Hình dạng màu xanh dương và màu tím
+newtab-wallpaper-abstract-white-curves = Màu trắng với các đường cong bóng mờ
+newtab-wallpaper-abstract-purple-green = Độ dốc (gradient) ánh sáng tím và xanh lá cây
+newtab-wallpaper-abstract-blue-purple-waves = Hình dạng gợn sóng màu xanh dương và tím
+newtab-wallpaper-abstract-black-waves = Hình dạng gợn sóng màu đen
 
 ## Celestial
 
@@ -374,6 +378,12 @@ newtab-wallpaper-storm-sky = Trời giông bão
 newtab-wallpaper-sky-with-pink-clouds = Bầu trời với đám mây màu hồng
 newtab-wallpaper-red-panda-yawns-in-a-tree = Gấu trúc đỏ ngáp trên cây
 newtab-wallpaper-white-mountains = Núi trắng
+newtab-wallpaper-hot-air-balloons = Các loại màu của bóng bay không khí nóng vào ban ngày
+newtab-wallpaper-starry-canyon = Đêm sao màu xanh
+newtab-wallpaper-suspension-bridge = Ảnh cầu treo màu xám chụp vào ban ngày
+newtab-wallpaper-sand-dunes = Đồi cát trắng
+newtab-wallpaper-palm-trees = Hình bóng của cây cọ dừa trong giờ vàng
+newtab-wallpaper-forest-trees = Cây phủ đầy sương mù
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -391,6 +401,16 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Thiên thể
+newtab-wallpaper-celestial-lunar-eclipse = Nguyệt thực
+newtab-wallpaper-celestial-earth-night = Ảnh ban đêm từ quỹ đạo thấp của Trái Đất
+newtab-wallpaper-celestial-starry-sky = Bầu trời đầy sao
+newtab-wallpaper-celestial-eclipse-time-lapse = Thời gian trôi nhanh của nguyệt thực
+newtab-wallpaper-celestial-black-hole = Minh họa lỗ đen trong thiên hà
+newtab-wallpaper-celestial-river = Hình ảnh vệ tinh của sông
 
 ## New Tab Weather
 

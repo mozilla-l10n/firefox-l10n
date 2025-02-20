@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = Chatbot AI
 menu-view-review-checker =
     .label = Trình kiểm tra đánh giá
+menu-view-contextual-password-manager =
+    .label = Mật khẩu
 sidebar-options-menu-button =
     .title = Mở menu
 
@@ -115,6 +117,8 @@ sidebar-menu-customize-label =
     .label = Tùy biến thanh lề
 sidebar-menu-review-checker-label =
     .label = Trình kiểm tra đánh giá
+sidebar-menu-contextual-password-manager-label =
+    .label = Mật khẩu
 
 ## Tooltips for sidebar menu items.
 
@@ -157,6 +161,8 @@ sidebar-menu-syncedtabs-header =
     .heading = Thẻ từ thiết bị khác
 sidebar-menu-bookmarks-header =
     .heading = Dấu trang
+sidebar-menu-cpm-header =
+    .heading = Mật khẩu
 sidebar-panel-header-close-button =
     .tooltiptext = Đóng
 
