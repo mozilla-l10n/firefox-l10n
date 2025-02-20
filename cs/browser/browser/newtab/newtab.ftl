@@ -403,6 +403,12 @@ feature-highlight-wallpaper =
 # or outer space as observed in astronomy.
 # Not to be confused with religious definition of the word.
 newtab-wallpaper-category-title-celestial = Nebeská
+newtab-wallpaper-celestial-lunar-eclipse = Zatmění Měsíce
+newtab-wallpaper-celestial-earth-night = Noční fotografie z nízké oběžné dráhy Země
+newtab-wallpaper-celestial-starry-sky = Hvězdná obloha
+newtab-wallpaper-celestial-eclipse-time-lapse = Časosběrné snímání zatmění Měsíce
+newtab-wallpaper-celestial-black-hole = Ilustrace galaxie Černá díra
+newtab-wallpaper-celestial-river = Satelitní snímek řeky
 
 ## New Tab Weather
 
@@ -498,10 +504,17 @@ newtab-section-confirm-block-section-p1 = Jste si jisti, že chcete tuto sekci z
 newtab-section-confirm-block-section-p2 = Blokovaná sekce se již nebude zobrazovat ve vašem kanálu.
 newtab-section-block-section-button = Blokovat tuto sekci
 newtab-section-cancel-button = Teď ne
+newtab-section-confirm-block-topic-p1 = Opravdu chcete zablokovat toto téma?
+newtab-section-confirm-block-topic-p2 = Zablokovaná témata se již nebudou zobrazovat ve vašem kanálu.
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = Blokovat { $topic }
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Témata
+newtab-section-manage-topics-button-v2 =
+    .label = Správa témat
 newtab-section-mangage-topics-followed-topics = Sledováno
 newtab-section-mangage-topics-button =
     .label = Sledovaná a blokovaná témata
