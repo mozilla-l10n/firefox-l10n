@@ -631,6 +631,8 @@ urlbar-searchmode-tabs =
     .label = زبانه‌ها
 urlbar-searchmode-history =
     .label = تاریخچه
+urlbar-searchmode-actions =
+    .label = کنش‌ها
 urlbar-searchmode-exit-button =
     .tooltiptext = بستن
 # Label shown on the top of Searchmode Switcher popup. After this label, the
