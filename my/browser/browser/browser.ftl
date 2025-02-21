@@ -284,6 +284,12 @@ urlbar-result-action-visit = လည်ပတ်ရန်
 
 ## Strings used for buttons in the urlbar
 
+urlbar-searchmode-bookmarks =
+    .label = စာမှတ်များ
+urlbar-searchmode-tabs =
+    .label = တပ်ဗ်များ
+urlbar-searchmode-history =
+    .label = မှတ်တမ်း
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
