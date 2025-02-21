@@ -538,17 +538,33 @@ pdfjs-editor-add-signature-dialog-title = Přidat podpis
 # Type is a verb (you can type your name as signature)
 pdfjs-editor-add-signature-type-button = Typ
     .title = Typ
+# Draw is a verb (you can draw your signature)
+pdfjs-editor-add-signature-draw-button = Kreslit
+    .title = Kreslit
+pdfjs-editor-add-signature-image-button = Obrázek
+    .title = Obrázek
 
 ## Tab panels
 
+pdfjs-editor-add-signature-type-input =
+    .aria-label = Zadejte svůj podpis
+    .placeholder = Zadejte svůj podpis
+pdfjs-editor-add-signature-draw-placeholder = Nakreslete svůj podpis
+pdfjs-editor-add-signature-draw-thickness-range-label = Tloušťka
 
 ## Controls
 
+pdfjs-editor-add-signature-description-label = Popis (alternativní text)
+pdfjs-editor-add-signature-description-input =
+    .title = Popis (alternativní text)
 pdfjs-editor-add-signature-description-default-when-drawing = Podpis
 pdfjs-editor-add-signature-clear-button-label = Vymazání podpisu
 pdfjs-editor-add-signature-clear-button =
     .title = Vymazání podpisu
 pdfjs-editor-add-signature-save-checkbox = Uložit podpis
+pdfjs-editor-add-signature-save-warning-message = Dosáhli jste limitu 5 uložených podpisů. Odstraňte jeden a uložte další.
+pdfjs-editor-add-signature-image-upload-error-title = Obrázek se nepodařilo nahrát
+pdfjs-editor-add-signature-image-upload-error-description = Zkontrolujte připojení k síti nebo zkuste jiný obrázek.
 pdfjs-editor-add-signature-error-close-button = Zavřít
 
 ## Dialog buttons
