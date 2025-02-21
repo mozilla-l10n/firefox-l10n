@@ -44,6 +44,7 @@ neterror-load-error-connection = If you are unable to load any pages, check your
 neterror-load-error-firewall = If your computer or network is protected by a firewall or proxy, make sure that { -brand-short-name } is permitted to access the web.
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = If you are trying to load a local network page, please check that { -brand-short-name } has been granted Local Network permissions in the macOS Privacy & Security settings.
+neterror-http-error-page = Check to make sure you’ve typed the website address correctly.
 neterror-captive-portal = You must log in to this network before you can access the internet.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -99,6 +100,9 @@ neterror-proxy-connect-failure-settings = Check the proxy settings to make sure 
 neterror-proxy-connect-failure-contact-admin = Contact your network administrator to make sure the proxy server is working.
 neterror-content-encoding-error = Please contact the website owners to inform them of this problem.
 neterror-unsafe-content-type = Please contact the website owners to inform them of this problem.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-basic-http-auth = { -brand-short-name } doesn’t trust { $hostname } because the connection isn’t secure. Try changing the URL to HTTPS.
 neterror-nss-failure-not-verified = The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.
 neterror-nss-failure-contact-website = Please contact the website owners to inform them of this problem.
 # Variables:

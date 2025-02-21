@@ -202,6 +202,18 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Unmute tab
 tabbrowser-manager-close-tab =
     .tooltiptext = Close tab
+# This is for tab groups that have been "saved and closed" (see tab-group-editor-action-save). It does
+# not include "deleted" tab groups (see tab-group-editor-action-delete).
+tabbrowser-manager-closed-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — Closed
+tabbrowser-manager-current-window-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — Current window
+# "Show more" is for showing all open groups from other windows, as well as saved groups. Initially,
+# we only show up to six of these groups.
+tabbrowser-manager-tab-groups-show-more =
+    .label = Show more
 
 ## Tab Groups
 
@@ -233,6 +245,10 @@ tab-group-editor-color-selector2-gray = Grey
     .title = Grey
 tab-group-editor-color-selector2-red = Red
     .title = Red
+# Variables:
+#  $tabGroupName (String): The name of the tab group. Defaults to the value
+#                          of tab-group-name-default.
+tab-group-description = { $tabGroupName } — Tab Group
 tab-group-menu-header = Tab groups
 tab-context-unnamed-group =
     .label = Unnamed group

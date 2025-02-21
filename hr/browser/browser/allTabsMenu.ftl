@@ -18,3 +18,8 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = Zatvori sve duple kartice
 all-tabs-menu-synced-tabs =
     .label = Kartice s drugih uređaja
+all-tabs-menu-current-window-header = Trenutačni prozor
+# "Show all" is for showing all open groups as well as saved groups. Initially,
+# we only show up to five of these groups.
+all-tabs-menu-tab-groups-show-all =
+    .label = Prikaži sve

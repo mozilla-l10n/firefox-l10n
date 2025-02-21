@@ -50,6 +50,18 @@ sidebar-position-right =
     .label = Show on the right
 sidebar-vertical-tabs =
     .label = Vertical tabs
+sidebar-settings =
+    .label = Sidebar settings
+sidebar-hide-tabs-and-sidebar =
+    .label = Hide tabs and sidebar
+sidebar-show-on-the-right =
+    .label = Move sidebar to the right
+sidebar-show-on-the-left =
+    .label = Move sidebar to the left
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Expand sidebar on hover
 sidebar-horizontal-tabs =
     .label = Horizontal tabs
 sidebar-customize-tabs-header =
@@ -130,6 +142,10 @@ sidebar-menu-close-ai-chatbot-tooltip = Close AI chatbot
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
+sidebar-menu-open-ai-chatbot-tooltip-generic = Open AI chatbot ({ $shortcut })
+sidebar-menu-open-ai-chatbot-provider-tooltip = Open { $provider } ({ $shortcut })
+sidebar-menu-close-ai-chatbot-tooltip-generic = Close AI chatbot ({ $shortcut })
+sidebar-menu-close-ai-chatbot-provider-tooltip = Close { $provider } ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 

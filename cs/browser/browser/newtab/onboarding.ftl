@@ -630,6 +630,7 @@ onboarding-checklist-sign-up = Zaregistrujte se nebo se přihlaste ke svému ú�
 tab-groups-onboarding-feature-callout-title = Vyzkoušejte skupiny karet, abyste měli méně nepořádku a více se soustředili.
 tab-groups-onboarding-feature-callout-subtitle = Vytvořte si pořádek přesunutím jednoho panelu na druhý, čímž vytvoříte svoji první skupinu.
 tab-groups-onboarding-saved-groups-title = Pokud skupinu panelů zavřete, můžete ji zde kdykoli znovu otevřít.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title = Vyhledáním v adresním řádku můžete kdykoli najít otevřené nebo zavřené skupiny panelů.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages
@@ -647,5 +648,7 @@ multi-profile-callout-cta = Vytvořit profil
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = Stáhněte, synchronizujte a vyrazte na cesty!
 dismiss-button-label = Zavřít
 sync-to-mobile-button-label = Synchronizace s mobilem

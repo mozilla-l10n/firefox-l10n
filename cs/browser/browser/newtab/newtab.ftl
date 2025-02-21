@@ -368,6 +368,9 @@ newtab-wallpaper-abstract-purple = Fialové tvary
 newtab-wallpaper-abstract-orange = Oranžové tvary
 newtab-wallpaper-gradient-orange = Přechod oranžové a růžové
 newtab-wallpaper-abstract-blue-purple = Modré a fialové tvary
+newtab-wallpaper-abstract-white-curves = Bílá se stínovanými křivkami
+newtab-wallpaper-abstract-purple-green = Přechod fialové a zelené barvy
+newtab-wallpaper-abstract-blue-purple-waves = Modré a fialové zvlněné tvary
 newtab-wallpaper-abstract-black-waves = Černé zvlněné tvary
 
 ## Celestial
@@ -379,8 +382,11 @@ newtab-wallpaper-storm-sky = Bouřková obloha
 newtab-wallpaper-sky-with-pink-clouds = Obloha s růžovými obláčky
 newtab-wallpaper-red-panda-yawns-in-a-tree = Panda červená zívá na stromě
 newtab-wallpaper-white-mountains = Bílé hory
+newtab-wallpaper-hot-air-balloons = Různé barvy horkovzdušných balonů během dne
 newtab-wallpaper-starry-canyon = Modrá hvězdná noc
+newtab-wallpaper-suspension-bridge = Šedivé fotografování celé visuté můstky během dne
 newtab-wallpaper-sand-dunes = Bílé písečné duny
+newtab-wallpaper-palm-trees = Silueta kokosových palem během zlaté hodiny
 newtab-wallpaper-forest-trees = Stromy v mlze
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
