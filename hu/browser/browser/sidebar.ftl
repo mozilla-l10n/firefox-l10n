@@ -117,6 +117,8 @@ sidebar-menu-customize-label =
     .label = Oldalsáv testreszabása
 sidebar-menu-review-checker-label =
     .label = Értékelés-ellenőrző
+sidebar-menu-contextual-password-manager-label =
+    .label = Jelszavak
 
 ## Tooltips for sidebar menu items.
 
@@ -159,6 +161,8 @@ sidebar-menu-syncedtabs-header =
     .heading = Lapok más eszközökről
 sidebar-menu-bookmarks-header =
     .heading = Könyvjelzők
+sidebar-menu-cpm-header =
+    .heading = Jelszavak
 sidebar-panel-header-close-button =
     .tooltiptext = Bezárás
 
