@@ -597,6 +597,12 @@ urlbar-result-action-tabtosearch-web = ঠিকানাদণ্ড থেক�
 
 ## Strings used for buttons in the urlbar
 
+urlbar-searchmode-tabs =
+    .label = ট্যাব
+urlbar-searchmode-history =
+    .label = ইতিহাস
+urlbar-searchmode-actions =
+    .label = অ্যাকশন
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
