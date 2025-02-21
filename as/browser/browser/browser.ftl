@@ -466,6 +466,8 @@ urlbar-result-action-calculator-result = = { $result }
 
 ## Strings used for buttons in the urlbar
 
+urlbar-searchmode-bookmarks =
+    .label = বুকমাৰ্কসমূহ
 urlbar-searchmode-tabs =
     .label = টেবসমূহ
 urlbar-searchmode-history =
