@@ -318,6 +318,10 @@ newtab-wallpaper-title = Háttérképek
 newtab-wallpaper-reset = Visszaállítás az alapértelmezésre
 newtab-wallpaper-upload-image = Kép feltöltése
 newtab-wallpaper-custom-color = Válasszon színt
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = A kép túllépte a { $file_size } MB-os fájlméretkorlátot. Próbáljon meg egy kisebb fájlt feltölteni.
+newtab-wallpaper-error-file-type = Nem tudtuk feltölteni a fájlt. Próbálja meg újra egy másik fájltípussal.
 newtab-wallpaper-light-red-panda = Vörös panda
 newtab-wallpaper-light-mountain = Fehér hegy
 newtab-wallpaper-light-sky = Ég, lila és rózsaszín felhőkkel
@@ -361,6 +365,10 @@ newtab-wallpaper-abstract-purple = Lila alakzatok
 newtab-wallpaper-abstract-orange = Narancssárga alakzatok
 newtab-wallpaper-gradient-orange = Narancssárga és rózsaszín átmenet
 newtab-wallpaper-abstract-blue-purple = Kék és lila alakzatok
+newtab-wallpaper-abstract-white-curves = Fehér, árnyalt ívekkel
+newtab-wallpaper-abstract-purple-green = Lila és zöld fényátmenet
+newtab-wallpaper-abstract-blue-purple-waves = Kék és lila hullámos alakzatok
+newtab-wallpaper-abstract-black-waves = Fekete hullámos alakzatok
 
 ## Celestial
 
@@ -371,6 +379,8 @@ newtab-wallpaper-storm-sky = Viharos égbolt
 newtab-wallpaper-sky-with-pink-clouds = Égbolt rózsaszín felhőkkel
 newtab-wallpaper-red-panda-yawns-in-a-tree = Vörös panda ásít egy fán
 newtab-wallpaper-white-mountains = Fehér hegyek
+newtab-wallpaper-hot-air-balloons = Különböző színű hőlégballonok napközben
+newtab-wallpaper-starry-canyon = Kék csillagos éjszaka
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
