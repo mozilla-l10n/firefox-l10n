@@ -192,6 +192,9 @@ shopping-survey-thanks =
 shopping-survey-thanks-title = ¡Aguyje ne remiandu rehe!
 shopping-survey-opted-out-hard-to-understand = Hasyeterei iñeikumby
 shopping-survey-opted-out-too-slow = Embegueterei
+shopping-survey-opted-out-not-accurate = Noĩporãi
+shopping-survey-opted-out-not-helpful = Ndoikói chéve g̃uarã
+shopping-survey-opted-out-check-myself = Ahechase chete marandu’ikuéra
 shopping-survey-opted-out-other = Ambue
 
 ## Shopping Feature Callout strings.

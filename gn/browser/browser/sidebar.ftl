@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI chatbot
 menu-view-review-checker =
     .label = Marandu’i rechajeyha
+menu-view-contextual-password-manager =
+    .label = Ñe’ẽñemikuéra
 sidebar-options-menu-button =
     .title = Eike poravorãme
 
@@ -52,6 +54,16 @@ sidebar-vertical-tabs =
     .label = Tendayke ñembo’y
 sidebar-settings =
     .label = Emboheko ta’ãngarupa ykegua
+sidebar-hide-tabs-and-sidebar =
+    .label = Eñomi tendayke ha tenda yke
+sidebar-show-on-the-right =
+    .label = Emongu'e tenda yke akatúa gotyo
+sidebar-show-on-the-left =
+    .label = Emongu'e tenda yke asu gotyo
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Emyasãi tenda yke embohasávo anguja’i
 sidebar-horizontal-tabs =
     .label = Tendayke ñeno
 sidebar-customize-tabs-header =
@@ -132,6 +144,7 @@ sidebar-menu-close-ai-chatbot-tooltip = Emboty IA chatbot ({ $shortcut })
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
+sidebar-menu-open-ai-chatbot-tooltip-generic = Embojuruja chatbot IA ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 
