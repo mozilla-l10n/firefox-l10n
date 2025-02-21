@@ -361,6 +361,10 @@ newtab-wallpaper-abstract-purple = Formas violette
 newtab-wallpaper-abstract-orange = Formas orange
 newtab-wallpaper-gradient-orange = Gradiente orange e rosate
 newtab-wallpaper-abstract-blue-purple = Formas blau e violette
+newtab-wallpaper-abstract-white-curves = Blanc con curvas umbrate
+newtab-wallpaper-abstract-purple-green = Gradiente purpuree e verde clar
+newtab-wallpaper-abstract-blue-purple-waves = Formas undulate blau e purpuree
+newtab-wallpaper-abstract-black-waves = Formas undulate nigre
 
 ## Celestial
 
@@ -371,6 +375,7 @@ newtab-wallpaper-storm-sky = Celo tempestuose
 newtab-wallpaper-sky-with-pink-clouds = Celo con nubes rosate
 newtab-wallpaper-red-panda-yawns-in-a-tree = Un panda rubie que balla sur un arbore
 newtab-wallpaper-white-mountains = Montanias blanc
+newtab-wallpaper-hot-air-balloons = Aerostatos de colores assortite durante le die
 newtab-wallpaper-starry-canyon = Nocte stellate blau
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
