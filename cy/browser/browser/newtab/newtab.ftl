@@ -326,6 +326,7 @@ newtab-wallpaper-custom-color = Dewis lliw
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Mae'r ddelwedd yn fwy na'r terfyn maint ffeil { $file_size }MB. Ceisiwch lwytho ffeil lai.
+newtab-wallpaper-error-file-type = Nid oes modd i ni lwytho'ch ffeil. Ceisiwch eto gyda gwahanol fathau o ffeil.
 newtab-wallpaper-light-red-panda = Panda coch
 newtab-wallpaper-light-mountain = Mynydd gwyn
 newtab-wallpaper-light-sky = Awyr gyda chymylau porffor a phinc
@@ -383,11 +384,11 @@ newtab-wallpaper-storm-sky = Awyr stormus
 newtab-wallpaper-sky-with-pink-clouds = Awyr gyda chymylau pinc
 newtab-wallpaper-red-panda-yawns-in-a-tree = Panda coch yn dylyfu mewn coeden
 newtab-wallpaper-white-mountains = Mynyddoedd gwyn
-newtab-wallpaper-hot-air-balloons = Lliwiau amrywiol balwnau aer poeth yn ystod y dydd
+newtab-wallpaper-hot-air-balloons = Balwnau aer poeth o lliwiau amrywiol yn ystod y dydd
 newtab-wallpaper-starry-canyon = Noson serennog las
 newtab-wallpaper-suspension-bridge = Ffotograffau pont crog llwyd yn ystod y dydd
 newtab-wallpaper-sand-dunes = Twyni tywod gwyn
-newtab-wallpaper-palm-trees = Amlinell coed palmwydd cnau coco yn ystod yr awr euraidd
+newtab-wallpaper-palm-trees = Amlinell coed palmwydd cnau coco yn yr awr euraidd
 newtab-wallpaper-forest-trees = Coed wedi'u gorchuddio â niwl
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
@@ -512,7 +513,7 @@ newtab-section-confirm-block-section-p2 = Ni fydd adran sydd wedi'i rwystro'n ym
 newtab-section-block-section-button = Rhwystro'r adran hon
 newtab-section-cancel-button = Nid nawr
 newtab-section-confirm-block-topic-p1 = Ydych chi'n siŵr eich bod am rwystro'r pwnc hwn?
-newtab-section-confirm-block-topic-p2 = Ni fydd pynciau sydd wedi'u rhwystro yn ymddangos yn eich porthwr bellach.
+newtab-section-confirm-block-topic-p2 = Ni fydd pynciau sydd wedi'u rhwystro yn ymddangos yn eich llif bellach.
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Rhwystro { $topic }

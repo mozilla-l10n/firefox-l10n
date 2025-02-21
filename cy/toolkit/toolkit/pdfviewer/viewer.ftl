@@ -324,6 +324,9 @@ pdfjs-highlight-floating-button1 =
     .title = Amlygu
     .aria-label = Amlygu
 pdfjs-highlight-floating-button-label = Amlygu
+pdfjs-editor-signature-button =
+    .title = Ychwanegu llofnod
+pdfjs-editor-signature-button-label = Ychwanegu llofnod
 
 ## Remove button for the various kind of editor.
 
@@ -353,6 +356,9 @@ pdfjs-editor-stamp-add-image-button-label = Ychwanegu delwedd
 pdfjs-editor-free-highlight-thickness-input = Trwch
 pdfjs-editor-free-highlight-thickness-title =
     .title = Newid trwch wrth amlygu eitemau heblaw testun
+pdfjs-editor-signature-add-signature-button =
+    .title = Ychwanegu llofnod newydd
+pdfjs-editor-signature-add-signature-button-label = Ychwanegu llofnod newydd
 # .default-content is used as a placeholder in an empty text editor.
 pdfjs-free-text2 =
     .aria-label = Golygydd Testun
@@ -582,12 +588,18 @@ pdfjs-editor-add-signature-error-close-button = Cau
 
 pdfjs-editor-add-signature-cancel-button = Diddymu
 pdfjs-editor-add-signature-add-button = Ychwanegu
+pdfjs-editor-edit-signature-update-button = Diweddaru
 
 ## Main menu for adding/removing signatures
 
+pdfjs-editor-delete-signature-button =
+    .title = Dileu llofnod
+pdfjs-editor-delete-signature-button-label = Dileu llofnod
 
 ## Editor toolbar
 
+pdfjs-editor-add-signature-edit-button-label = Golygu disgrifiad
 
 ## Edit signature description dialog
 
+pdfjs-editor-edit-signature-dialog-title = Golygu disgrifiad
