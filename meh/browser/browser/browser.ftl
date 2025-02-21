@@ -505,6 +505,14 @@ urlbar-result-action-calculator-result = = { $result }
 
 ## Strings used for buttons in the urlbar
 
+urlbar-searchmode-bookmarks =
+    .label = A ta´a ini noo´o
+urlbar-searchmode-tabs =
+    .label = Da sukua
+urlbar-searchmode-history =
+    .label = Historial
+urlbar-searchmode-actions =
+    .label = Acciones
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
