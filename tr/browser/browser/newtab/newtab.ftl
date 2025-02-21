@@ -312,6 +312,12 @@ newtab-custom-settings = Diğer ayarları yönet
 
 newtab-wallpaper-title = Duvar kâğıtları
 newtab-wallpaper-reset = Varsayılana sıfırla
+newtab-wallpaper-upload-image = Resim yükle
+newtab-wallpaper-custom-color = Bir renk seçin
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = Bu resim, izin verilen { $file_size } MB boyut sınırını aşıyor. Lütfen daha küçük bir dosya yüklemeyi deneyin.
+newtab-wallpaper-error-file-type = Dosyanızı yükleyemedik. Lütfen farklı bir dosya türüyle tekrar deneyin.
 newtab-wallpaper-light-red-panda = Kızıl panda
 newtab-wallpaper-light-mountain = Beyaz dağ
 newtab-wallpaper-light-sky = Mor ve pembe bulutlu gökyüzü
@@ -481,6 +487,8 @@ newtab-section-cancel-button = Şimdi değil
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Konular
+newtab-section-manage-topics-button-v2 =
+    .label = Konuları yönet
 newtab-section-mangage-topics-button =
     .label = Takip edilen ve engellenen konular
 newtab-section-mangage-topics-followed-topics-subtitle = Takip edilen konular

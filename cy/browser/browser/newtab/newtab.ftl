@@ -321,6 +321,12 @@ newtab-custom-settings = Rheoli rhagor o osodiadau
 
 newtab-wallpaper-title = Papurau wal
 newtab-wallpaper-reset = Ailosod i'r rhagosodiad
+newtab-wallpaper-upload-image = Llwytho delwedd
+newtab-wallpaper-custom-color = Dewis lliw
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = Mae'r ddelwedd yn fwy na'r terfyn maint ffeil { $file_size }MB. Ceisiwch lwytho ffeil lai.
+newtab-wallpaper-error-file-type = Nid oess modd i ni lwytho'ch ffeil. Ceisiwch eto gyda gwahanol fathau o ffeil.
 newtab-wallpaper-light-red-panda = Panda coch
 newtab-wallpaper-light-mountain = Mynydd gwyn
 newtab-wallpaper-light-sky = Awyr gyda chymylau porffor a phinc
@@ -364,6 +370,10 @@ newtab-wallpaper-abstract-purple = Siapiau porffor
 newtab-wallpaper-abstract-orange = Siapiau oren
 newtab-wallpaper-gradient-orange = Graddiant oren a phinc
 newtab-wallpaper-abstract-blue-purple = Siapiau glas a phorffor
+newtab-wallpaper-abstract-white-curves = Gwyn gyda chromlinau cysgodol
+newtab-wallpaper-abstract-purple-green = Graddiant golau porffor a gwyrdd
+newtab-wallpaper-abstract-blue-purple-waves = Siapiau tonnog glas a phorffor
+newtab-wallpaper-abstract-black-waves = Siapiau tonnog du
 
 ## Celestial
 
@@ -374,6 +384,8 @@ newtab-wallpaper-storm-sky = Awyr stormus
 newtab-wallpaper-sky-with-pink-clouds = Awyr gyda chymylau pinc
 newtab-wallpaper-red-panda-yawns-in-a-tree = Panda coch yn dylyfu mewn coeden
 newtab-wallpaper-white-mountains = Mynyddoedd gwyn
+newtab-wallpaper-hot-air-balloons = Lliwiau amrywiol balwnau aer poeth yn ystod y dydd
+newtab-wallpaper-starry-canyon = Noson serennog las
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
