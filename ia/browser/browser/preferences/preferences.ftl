@@ -149,6 +149,7 @@ preferences-data-migration-button =
     .label = Importar datos
     .accesskey = m
 preferences-profiles-header = Profilos
+preferences-manage-profiles-description = Cata profilo ha datos de navigation e parametros separate, includite chronologia, contrasignos, e plus.
 preferences-manage-profiles-learn-more = Pro saper plus
 preferences-manage-profiles-button =
     .label = Gerer profilos

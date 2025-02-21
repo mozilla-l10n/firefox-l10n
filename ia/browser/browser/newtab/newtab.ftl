@@ -406,6 +406,7 @@ newtab-wallpaper-celestial-lunar-eclipse = Eclipse lunar
 newtab-wallpaper-celestial-earth-night = Photo nocturne ab orbita terrestre basse
 newtab-wallpaper-celestial-starry-sky = Celo stellate
 newtab-wallpaper-celestial-eclipse-time-lapse = Time-lapse de eclipse lunar
+newtab-wallpaper-celestial-black-hole = Illustration de galaxia con foramine nigre
 newtab-wallpaper-celestial-river = Imagine ab satellite de fluvio
 
 ## New Tab Weather
