@@ -315,6 +315,8 @@ newtab-custom-settings = Eñangareko hetave ñembohekóre
 
 newtab-wallpaper-title = Mba’erechaha rugua
 newtab-wallpaper-reset = Emoñerũjey ypyguáramo
+newtab-wallpaper-upload-image = Ehupi peteĩ ta’ãnga
+newtab-wallpaper-custom-color = Eiporavo peteĩ sa’y
 newtab-wallpaper-light-red-panda = Panda pytã
 newtab-wallpaper-light-mountain = Yvyty morotĩ
 newtab-wallpaper-light-sky = Ára taijarai pytãũ ha pytãngy
@@ -358,6 +360,7 @@ newtab-wallpaper-abstract-purple = Pytãũva rehegua
 newtab-wallpaper-abstract-orange = Ñarã rehegua
 newtab-wallpaper-gradient-orange = Oguejýva narãgui pytãngýpe
 newtab-wallpaper-abstract-blue-purple = Hovy ha pytãũva rehegua
+newtab-wallpaper-abstract-white-curves = Morotĩ mba’ekarẽ hi’ãva ndive
 
 ## Celestial
 
