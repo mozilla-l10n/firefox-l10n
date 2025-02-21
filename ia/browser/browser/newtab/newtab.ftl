@@ -403,7 +403,9 @@ feature-highlight-wallpaper =
 # Not to be confused with religious definition of the word.
 newtab-wallpaper-category-title-celestial = Celo
 newtab-wallpaper-celestial-lunar-eclipse = Eclipse lunar
+newtab-wallpaper-celestial-earth-night = Photo nocturne ab orbita terrestre basse
 newtab-wallpaper-celestial-starry-sky = Celo stellate
+newtab-wallpaper-celestial-eclipse-time-lapse = Time-lapse de eclipse lunar
 
 ## New Tab Weather
 
