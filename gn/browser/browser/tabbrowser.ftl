@@ -74,6 +74,13 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = Erujey ñe’ẽpu tendayképe
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = Emokirirĩ tendayke
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = Emoñe’ẽpu tendayke
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -303,3 +310,7 @@ tab-group-context-move-to-this-window =
 # this will forget the saved tab group.
 tab-group-context-delete =
     .label = Emboguete aty
+# For a saved tab group that is not open in any window, open the tab group
+# in the user's current window.
+tab-group-context-open-saved-group-in-this-window =
+    .label = Embojuruja aty ko ovetãme

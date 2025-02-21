@@ -117,6 +117,8 @@ sidebar-menu-customize-label =
     .label = Embohéra ta’ãngarupa ykegua
 sidebar-menu-review-checker-label =
     .label = Marandu’i rechajeyha
+sidebar-menu-contextual-password-manager-label =
+    .label = Ñe’ẽñemi
 
 ## Tooltips for sidebar menu items.
 
@@ -145,6 +147,9 @@ sidebar-menu-close-ai-chatbot-tooltip = Emboty IA chatbot ({ $shortcut })
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
 sidebar-menu-open-ai-chatbot-tooltip-generic = Embojuruja chatbot IA ({ $shortcut })
+sidebar-menu-open-ai-chatbot-provider-tooltip = Embojuruja { $provider } ({ $shortcut })
+sidebar-menu-close-ai-chatbot-tooltip-generic = Emboty chatbot IA ({ $shortcut })
+sidebar-menu-close-ai-chatbot-provider-tooltip = Emboty { $provider } ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 
@@ -156,6 +161,8 @@ sidebar-menu-syncedtabs-header =
     .heading = Tendaykekuéra ambue mba’e’okagua
 sidebar-menu-bookmarks-header =
     .heading = Techaukaha
+sidebar-menu-cpm-header =
+    .heading = Ñe’ẽñemikuéra
 sidebar-panel-header-close-button =
     .tooltiptext = Mboty
 
