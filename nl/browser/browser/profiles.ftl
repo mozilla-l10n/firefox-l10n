@@ -6,7 +6,7 @@ profile-window-heading = Kies een { -brand-short-name }-profiel
 profile-window-body = Houd uw werk- en persoonlijke navigatie, inclusief zaken als wachtwoorden en bladwijzers, volledig gescheiden. Of maak profielen aan voor iedereen die dit apparaat gebruikt.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
-    .label = Kies een profiel wanneer { -brand-short-name } wordt geopend
+    .label = Een profiel kiezen wanneer { -brand-short-name } wordt geopend
 profile-window-create-profile = Een profiel aanmaken
 profile-card-edit-button =
     .title = Profiel bewerken

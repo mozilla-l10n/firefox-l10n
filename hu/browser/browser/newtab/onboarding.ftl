@@ -467,3 +467,5 @@ desktop-to-mobile-headline = Töltse le, szinkronizáljon és hajrá!
 desktop-to-mobile-subtitle = Olvassa le a QR-kódot a mobilos { -brand-product-name } letöltéséhez. A telepítés után válassza a „Szinkronizálás mobilra” lehetőséget, hogy útközben is elérje jelszavait, könyvjelzőit és egyebeit.
 dismiss-button-label = Eltüntetés
 sync-to-mobile-button-label = Szinkronizálás mobilra
+desktop-to-mobile-qr-code-alt =
+    .aria-label = QR-kód a mobilos { -brand-product-name } letöltéséhez

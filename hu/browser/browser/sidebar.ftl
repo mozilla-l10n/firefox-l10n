@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = MI csevegőbot
 menu-view-review-checker =
     .label = Értékelés-ellenőrző
+menu-view-contextual-password-manager =
+    .label = Jelszavak
 sidebar-options-menu-button =
     .title = Menü megnyitása
 

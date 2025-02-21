@@ -18,4 +18,4 @@ genai-settings-chat-title =
     .label = Gervigreindarspjallkerfi
 # Updated sidebar settings
 sidebar-title =
-    .label = Hliðarspjald
+    .label = Hliðarstika

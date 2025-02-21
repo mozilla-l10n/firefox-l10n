@@ -181,8 +181,8 @@ sidebar-syncedtabs-title = Flipar frá öðrum tækjum
 synced-tabs-context-close-tab-title =
     .title = Loka flipa á { $deviceName }
 show-sidebars =
-    .tooltiptext = Sýna hliðarslár
-    .label = Hliðarslá
+    .tooltiptext = Sýna hliðarstikur
+    .label = Hliðarstika
 
 ## Tooltips for the sidebar toolbar widget.
 

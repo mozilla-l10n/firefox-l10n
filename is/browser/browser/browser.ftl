@@ -843,8 +843,8 @@ bookmarks-mobile-bookmarks-menu =
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
-            [true] Fela bókamerki á hliðarspjaldi
-           *[other] Birta bókamerki á hliðarspjaldi
+            [true] Fela bókamerki á hliðarstiku
+           *[other] Birta bókamerki á hliðarstiku
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =

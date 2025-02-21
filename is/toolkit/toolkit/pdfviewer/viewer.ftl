@@ -179,10 +179,10 @@ pdfjs-printing-not-ready = Aðvörun: Ekki er búið að hlaða inn allri PDF sk
 ## Tooltips and alt text for side panel toolbar buttons
 
 pdfjs-toggle-sidebar-button =
-    .title = Víxla hliðarspjaldi af/á
+    .title = Víxla hliðarstiku af/á
 pdfjs-toggle-sidebar-notification-button =
-    .title = Víxla hliðarslá (skjal inniheldur yfirlit/viðhengi/lög)
-pdfjs-toggle-sidebar-button-label = Víxla hliðarspjaldi af/á
+    .title = Víxla hliðarstiku af/á (skjal inniheldur yfirlit/viðhengi/lög)
+pdfjs-toggle-sidebar-button-label = Víxla hliðarstiku af/á
 pdfjs-document-outline-button =
     .title = Sýna yfirlit skjals (tvísmelltu til að opna/loka öllum hlutum)
 pdfjs-document-outline-button-label = Efnisskipan skjals
