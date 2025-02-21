@@ -64,6 +64,7 @@ split-dismiss-button-manage-settings-option-label = Manage settings
 
 sidebar-button-callout-title = Show tab titles in the sidebar
 sidebar-button-callout-subtitle = Use the sidebar button to expand the sidebar, so you can see tab titles.
+sidebar-button-callout-vertical-tabs = To show your tabs, select the sidebar button in the toolbar.
 
 ## Sidebar Callout Survey Strings
 
@@ -94,3 +95,5 @@ sidebar-genai-survey-satisfaction-question = How satisfied are you with having a
 sidebar-genai-survey-productive-question =
     To what extent do you agree or disagree with this statement:<br/>
     “The AI chatbot in the sidebar helps me be more productive”?
+unified-search-callout-title = Switch between search engines
+unified-search-callout-subtitle = Choose what works best for your specific search.
