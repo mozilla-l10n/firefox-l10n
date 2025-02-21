@@ -316,6 +316,9 @@ pdfjs-highlight-floating-button1 =
     .title = ਹਾਈਲਾਈਟ
     .aria-label = ਹਾਈਲਾਈਟ
 pdfjs-highlight-floating-button-label = ਹਾਈਲਾਈਟ
+pdfjs-editor-signature-button =
+    .title = ਦਸਤਖ਼ਤ ਜੋੜੋ
+pdfjs-editor-signature-button-label = ਦਸਤਖ਼ਤ ਜੋੜੋ
 
 ## Remove button for the various kind of editor.
 
@@ -327,6 +330,8 @@ pdfjs-editor-remove-stamp-button =
     .title = ਚਿੱਤਰ ਨੂੰ ਹਟਾਓ
 pdfjs-editor-remove-highlight-button =
     .title = ਹਾਈਲਾਈਟ ਨੂੰ ਹਟਾਓ
+pdfjs-editor-remove-signature-button =
+    .title = ਦਸਤਖ਼ਤ ਨੂੰ ਹਟਾਓ
 
 ##
 
@@ -343,6 +348,9 @@ pdfjs-editor-stamp-add-image-button-label = ਚਿੱਤਰ ਜੋੜੋ
 pdfjs-editor-free-highlight-thickness-input = ਮੋਟਾਈ
 pdfjs-editor-free-highlight-thickness-title =
     .title = ਚੀਜ਼ਾਂ ਨੂੰ ਹੋਰ ਲਿਖਤਾਂ ਤੋਂ ਉਘਾੜਨ ਸਮੇਂ ਮੋਟਾਈ ਨੂੰ ਬਦਲੋ
+pdfjs-editor-signature-add-signature-button =
+    .title = ਨਵੇਂ ਦਸਤਖ਼ਤ ਨੂੰ ਜੋੜੋ
+pdfjs-editor-signature-add-signature-button-label = ਨਵੇਂ ਦਸਤਖ਼ਤ ਨੂੰ ਜੋੜੋ
 # .default-content is used as a placeholder in an empty text editor.
 pdfjs-free-text2 =
     .aria-label = ਲਿਖਤ ਐਡੀਟਰ
@@ -500,6 +508,7 @@ pdfjs-editor-undo-bar-message-highlight = ਹਾਈਲਾਈਟ ਨੂੰ ਹਟ
 pdfjs-editor-undo-bar-message-freetext = ਲਿਖਤ ਨੂੰ ਹਟਾਇਆ ਗਿਆ
 pdfjs-editor-undo-bar-message-ink = ਡਰਾਇੰਗ ਨੂੰ ਹਟਾਇਆ ਗਿਆ
 pdfjs-editor-undo-bar-message-stamp = ਚਿੱਤਰ ਨੂੰ ਹਟਾਇਆ ਗਿਆ
+pdfjs-editor-undo-bar-message-signature = ਦਸਤਖ਼ਤ ਨੂੰ ਹਟਾਇਆ
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple =
@@ -516,12 +525,30 @@ pdfjs-editor-undo-bar-close-button-label = ਬੰਦ ਕਰੋ
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-title = ਦਸਤਖ਼ਤ ਨੂੰ ਜੋੜੋ
 
 ## Tab names
 
+# Type is a verb (you can type your name as signature)
+pdfjs-editor-add-signature-type-button = ਕਿਸਮ
+    .title = ਕਿਸਮ
+# Draw is a verb (you can draw your signature)
+pdfjs-editor-add-signature-draw-button = ਵਾਹੋ
+    .title = ਵਾਹੋ
+pdfjs-editor-add-signature-image-button = ਚਿੱਤਰ
+    .title = ਚਿੱਤਰ
 
 ## Tab panels
 
+pdfjs-editor-add-signature-type-input =
+    .aria-label = ਆਪਣੇ ਦਸਤਖ਼ਤ ਨੂੰ ਟਾਈਪ ਕਰੋ
+    .placeholder = ਆਪਣੇ ਦਸਤਖ਼ਤ ਨੂੰ ਟਾਈਪ ਕਰੋ
+pdfjs-editor-add-signature-draw-placeholder = ਆਪਣੇ ਦਸਤਖ਼ਤ ਨੂੰ ਵਾਹੋ
+pdfjs-editor-add-signature-draw-thickness-range-label = ਮੋਟਾਈ
+# Variables:
+#   $thickness (Number) - the thickness (in pixels) of the line used to draw a signature.
+pdfjs-editor-add-signature-draw-thickness-range =
+    .title = ਵਹਾਉਣ ਲਈ ਚੌੜਾਈ: { $thickness }
 
 ## Controls
 
