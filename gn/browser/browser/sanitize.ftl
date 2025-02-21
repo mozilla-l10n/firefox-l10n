@@ -59,6 +59,7 @@ history-section-label = Tembiasakue
 item-history-and-downloads =
     .label = Kundaha ha ñemboguejypyre rembiasakue
     .accesskey = B
+item-history-and-downloads-description = Embogue jeheka rembiasakue, tenda ha mboguejypy
 item-history-form-data-downloads =
     .label = Tembiasakue
     .accesskey = H

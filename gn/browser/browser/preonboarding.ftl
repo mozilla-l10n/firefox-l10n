@@ -19,5 +19,7 @@ preonboarding-terms-of-use-header-button-title-b = { -brand-product-name } Jepor
 preonboarding-privacy-notice-header-button-title-b = { -brand-product-name } Marandu’i ñemigua
 # Description under label for header style buttons
 preonboarding-header-button-description = Emoñe’ẽve
+# New user onboarding checklist
+preonboarding-checklist-interaction-data-label = Emondo mba’ekuaarã aporekogua ha ñomongeta { -vendor-short-name }-pe
 preonboarding-checklist-crash-reports-label = Emondo marandu jejavy rehegua
 preonboarding-checklist-crash-reports-description = Marandu’i jejavygua rupi roikuaa ha romyatyrõ apañuái kundahára ndive. Umi marandu’ípe oĩkuaa mba’ekuaarã nemba’ete ha ñemiguáva.
