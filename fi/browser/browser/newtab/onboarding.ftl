@@ -468,3 +468,5 @@ desktop-to-mobile-headline = Lataa, synkronoi ja menoksi!
 desktop-to-mobile-subtitle = Skannaa QR-koodi ladataksesi { -brand-product-name }in mobiililaitteelle. Kun olet asentanut sen, valitse "Synkronoi matkapuhelimeen" käyttääksesi salasanoja, kirjanmerkkejä ja muuta liikkeellä ollessasi.
 dismiss-button-label = Hylkää
 sync-to-mobile-button-label = Synkronoi mobiililaitteeseen
+desktop-to-mobile-qr-code-alt =
+    .aria-label = QR-koodi { -brand-product-name }in mobiiliversion lataamiseksi

@@ -316,6 +316,12 @@ newtab-custom-settings = Weitere Einstellungen verwalten
 
 newtab-wallpaper-title = Hintergrundbilder
 newtab-wallpaper-reset = Standard wiederherstellen
+newtab-wallpaper-upload-image = Grafik hochladen
+newtab-wallpaper-custom-color = Farbe auswählen
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = Die Grafik hat die Größenbegrenzung von { $file_size } MB überschritten. Bitte versuchen Sie, eine kleinere Datei hochzuladen.
+newtab-wallpaper-error-file-type = Wir konnten Ihre Datei nicht hochladen. Bitte versuchen Sie es erneut mit einem anderen Dateityp.
 newtab-wallpaper-light-red-panda = Roter Panda
 newtab-wallpaper-light-mountain = Weißer Berg
 newtab-wallpaper-light-sky = Himmel mit violetten und rosafarbenen Wolken
@@ -359,6 +365,10 @@ newtab-wallpaper-abstract-purple = Lila Formen
 newtab-wallpaper-abstract-orange = Orangefarbene Formen
 newtab-wallpaper-gradient-orange = Farbverlauf orange und rosa
 newtab-wallpaper-abstract-blue-purple = Blaue und lila Formen
+newtab-wallpaper-abstract-white-curves = Weiß mit schattierten Rundungen
+newtab-wallpaper-abstract-purple-green = Lilafarbener und grüner Lichtverlauf
+newtab-wallpaper-abstract-blue-purple-waves = Blaue und lila gewellte Formen
+newtab-wallpaper-abstract-black-waves = Schwarze gewellte Formen
 
 ## Celestial
 
@@ -369,6 +379,12 @@ newtab-wallpaper-storm-sky = Gewitterhimmel
 newtab-wallpaper-sky-with-pink-clouds = Himmel mit rosafarbenen Wolken
 newtab-wallpaper-red-panda-yawns-in-a-tree = Roter Panda gähnt auf einem Baum
 newtab-wallpaper-white-mountains = Weiße Berge
+newtab-wallpaper-hot-air-balloons = Heißluftballons in verschiedenen Farben bei Tag
+newtab-wallpaper-starry-canyon = Blaue sternenklare Nacht
+newtab-wallpaper-suspension-bridge = Graue Fotografie einer Hängebrücke bei Tag
+newtab-wallpaper-sand-dunes = Weiße Sanddünen
+newtab-wallpaper-palm-trees = Silhouette von Kokospalmen zur Goldenen Stunde
+newtab-wallpaper-forest-trees = Bäume im Nebel
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -386,6 +402,9 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+newtab-wallpaper-celestial-lunar-eclipse = Mondfinsternis
+newtab-wallpaper-celestial-starry-sky = Sternenhimmel
+newtab-wallpaper-celestial-eclipse-time-lapse = Zeitraffer zur Mondfinsternis
 
 ## New Tab Weather
 
