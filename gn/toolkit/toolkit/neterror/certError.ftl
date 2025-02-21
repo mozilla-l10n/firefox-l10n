@@ -108,6 +108,7 @@ contentEncodingError-title = Tetepy mbopapapy jejavy
 unsafeContentType-title = Peteĩchagua marandurenda hekorosã’ỹva
 netReset-title = Jeike oñepyrũjeýma
 netTimeout-title = Pe jeike ndoikovéima
+httpErrorPage-title = Ha’eténte ku oĩva apañuái ko tenda ndive.
 serverError-title = Ha’eténte ku oĩva apañuái ko tenda ndive.
 unknownProtocolFound-title = Pe kundaharape nahesakãi
 proxyConnectFailure-title = Mohendahavusu proxy ombotove jeike

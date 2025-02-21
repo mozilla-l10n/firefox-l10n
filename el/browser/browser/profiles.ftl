@@ -6,7 +6,7 @@ profile-window-heading = Επιλέξτε ένα προφίλ του { -brand-sh
 profile-window-body = Διαχωρίστε την επαγγελματική από την προσωπική περιήγηση, συμπεριλαμβανομένων των κωδικών πρόσβασης και των σελιδοδεικτών. Ή δημιουργήστε προφίλ για όλους τους χρήστες αυτής της συσκευής.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
-    .label = Επιλέξτε ένα προφίλ κατά το άνοιγμα του { -brand-short-name }
+    .label = Επιλογή προφίλ κατά το άνοιγμα του { -brand-short-name }
 profile-window-create-profile = Δημιουργία προφίλ
 profile-card-edit-button =
     .title = Επεξεργασία προφίλ

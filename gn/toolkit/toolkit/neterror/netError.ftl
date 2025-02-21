@@ -12,6 +12,7 @@ neterror-blocked-by-policy-page-title = Kuatiarogue jokopyre
 neterror-captive-portal-page-title = Eñepyrũ tembiapo ñandutípe
 neterror-dns-not-found-title = Mohendahavusu ndojejuhúiva
 neterror-malformed-uri-page-title = URL ndoikóiva
+general-body-title = Ema’ẽke. Oĩvaicha iporãmba’ỹva.
 
 ## Error page actions
 
@@ -149,3 +150,7 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Ndereikuaa porãiramo ko <b
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> oguereko tekorosã porureko hérava HTTP Strict transporte Security (HSTS), he’iséva { -brand-short-name } oiketaha hendive tekorosãme. Ndaikatúi embojuaju oĩ’ỹva eike hag̃ua ko tendápe.
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = Ikatuhína ndaha’éi mba’evete, oikokuaa haguére apañuái upe tenda ndive.
+# Variables:
+#   $responsestatus (string) - HTTP response status code (e.g., 500).
+#   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
+neterror-response-status-code = Ayvu jejavy: { $responsestatus } { $responsestatustext }

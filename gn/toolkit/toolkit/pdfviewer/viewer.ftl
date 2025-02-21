@@ -316,6 +316,9 @@ pdfjs-highlight-floating-button1 =
     .title = Mbosa’y
     .aria-label = Mbosa’y
 pdfjs-highlight-floating-button-label = Mbosa’y
+pdfjs-editor-signature-button =
+    .title = Embojuaju teraguapy
+pdfjs-editor-signature-button-label = Embojuaju teraguapy
 
 ## Remove button for the various kind of editor.
 
@@ -327,6 +330,8 @@ pdfjs-editor-remove-stamp-button =
     .title = Emboguete ta’ãnga
 pdfjs-editor-remove-highlight-button =
     .title = Eipe’a jehechaveha
+pdfjs-editor-remove-signature-button =
+    .title = Embogue teraguapy
 
 ##
 
@@ -343,6 +348,9 @@ pdfjs-editor-stamp-add-image-button-label = Embojuaju ta’ãnga
 pdfjs-editor-free-highlight-thickness-input = Anambusu
 pdfjs-editor-free-highlight-thickness-title =
     .title = Emoambue anambusukue embosa’ývo mba’eporu ha’e’ỹva moñe’ẽrã
+pdfjs-editor-signature-add-signature-button =
+    .title = Embojuaju teraguapy pyahu
+pdfjs-editor-signature-add-signature-button-label = Embojuaju teraguapy pyahu
 # .default-content is used as a placeholder in an empty text editor.
 pdfjs-free-text2 =
     .aria-label = Moñe’ẽrã moheñoiha
@@ -500,6 +508,7 @@ pdfjs-editor-undo-bar-message-highlight = Mbosa’ýva mboguete
 pdfjs-editor-undo-bar-message-freetext = Moñe’ẽrã mboguepyre
 pdfjs-editor-undo-bar-message-ink = Ta’ãnga mboguepyre
 pdfjs-editor-undo-bar-message-stamp = Ta’ãnga mboguepyre
+pdfjs-editor-undo-bar-message-signature = Teraguapy mboguepyre
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple =
@@ -516,6 +525,7 @@ pdfjs-editor-undo-bar-close-button-label = Mboty
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-title = Embojuaju teraguapy
 
 ## Tab names
 
