@@ -402,9 +402,16 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Astronomie
 newtab-wallpaper-celestial-lunar-eclipse = Mondfinsternis
+newtab-wallpaper-celestial-earth-night = Nachtfoto aus der niedrigen Erdumlaufbahn
 newtab-wallpaper-celestial-starry-sky = Sternenhimmel
 newtab-wallpaper-celestial-eclipse-time-lapse = Zeitraffer zur Mondfinsternis
+newtab-wallpaper-celestial-black-hole = Illustration von Galaxie mit schwarzem Loch
+newtab-wallpaper-celestial-river = Satellitenbild eines Flusses
 
 ## New Tab Weather
 
@@ -500,13 +507,22 @@ newtab-section-confirm-block-section-p1 = Soll dieser Abschnitt wirklich blockie
 newtab-section-confirm-block-section-p2 = Ein blockierter Abschnitt erscheint nicht mehr in Ihrem Feed.
 newtab-section-block-section-button = Diesen Abschnitt blockieren
 newtab-section-cancel-button = Nicht jetzt
+newtab-section-confirm-block-topic-p1 = Soll dieses Thema wirklich blockiert werden?
+newtab-section-confirm-block-topic-p2 = Blockierte Themen erscheinen nicht mehr in Ihrem Feed.
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = { $topic } blockieren
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Themen
+newtab-section-manage-topics-button-v2 =
+    .label = Themen verwalten
+newtab-section-mangage-topics-followed-topics = Gefolgt
 newtab-section-mangage-topics-button =
     .label = Gefolgte und blockierte Themen
 newtab-section-mangage-topics-followed-topics-subtitle = Gefolgte Themen
 newtab-section-mangage-topics-followed-topics-empty-state = Sie folgen noch keinen Themen.
+newtab-section-mangage-topics-blocked-topics = Blockiert
 newtab-section-mangage-topics-blocked-topics-subtitle = Blockierte Themen
 newtab-section-mangage-topics-blocked-topics-empty-state = Sie haben noch keine Themen blockiert.
