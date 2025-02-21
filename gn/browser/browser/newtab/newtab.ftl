@@ -371,6 +371,7 @@ newtab-wallpaper-storm-sky = Ára vai
 newtab-wallpaper-sky-with-pink-clouds = Ára arai pytãngy ndive
 newtab-wallpaper-red-panda-yawns-in-a-tree = Pánda pytã hopehýi yvyráre
 newtab-wallpaper-white-mountains = Yvytysyry morotĩ
+newtab-wallpaper-starry-canyon = Pyhare mbyjaita hovývareve
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
