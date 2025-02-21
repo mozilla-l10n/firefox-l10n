@@ -468,3 +468,5 @@ desktop-to-mobile-headline = ¡Descargar, sincronizar y listo!
 desktop-to-mobile-subtitle = Escanee el código QR para descargar { -brand-product-name } para dispositivos móviles. Una vez instalado, seleccione “Sincronizar con móvil” para acceder a las contraseñas, marcadores y más sobre la marcha.
 dismiss-button-label = Descartar
 sync-to-mobile-button-label = Sincronizar con móvil
+desktop-to-mobile-qr-code-alt =
+    .aria-label = Código QR para descargar { -brand-product-name } para móviles
