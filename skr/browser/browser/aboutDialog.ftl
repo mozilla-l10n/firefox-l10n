@@ -51,6 +51,8 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } دے ڈیزائنر ہن<label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>، آ<label data-l10n-name="community-creditsLink">عالمی حلقے دے طور تے</label> ویب کوں عوامی اور قابل رسائی بݨاوݨ کیتے کام کریندی پئی ہے۔
 helpus = مدد کرݨ چاہندے ہو؟ <label data-l10n-name="helpus-donateLink">عطیہ کرو</label> یا <label data-l10n-name="helpus-getInvolvedLink">شامل تھیوو!</label>
 bottomLinks-license = لائسنس ڄاݨکاری
+bottom-links-terms = ورتݨ شرطاں
+bottom-links-privacy = رازداری نوٹس
 bottomLinks-rights = صارف دے حقوق
 bottomLinks-privacy = رازداری پالیسی
 # Example of resulting string: 66.0.1 (64-bit)

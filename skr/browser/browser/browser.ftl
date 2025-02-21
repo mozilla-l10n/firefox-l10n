@@ -670,6 +670,17 @@ urlbar-result-action-copy-to-clipboard = نقل کرو
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
+# Shows the result of a formula expression being calculated, to a maximum of 9 significant
+# digits. The last = sign will be shown as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-2 = = { NUMBER($result, maximumSignificantDigits: 9) }
+# Shows the result of a formula expression being calculated, in scientific notation.
+# The last = sign will be shown as part of the result (e.g. "= 1.0e17").
+# Variables
+#  $result (String): the string representation for a result in scientific notation
+#  (e.g. "1.0e17").
+urlbar-result-action-calculator-result-scientific-notation = = { $result }
 
 ## Strings used for buttons in the urlbar
 
@@ -685,6 +696,8 @@ urlbar-result-search-with-local-search-mode = { $keywords }  - { $localSearchMod
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords }  - { $engine } نال ڳولو
+urlbar-searchmode-dropmarker =
+    .tooltiptext = ڳولݨ انجݨ چݨو
 urlbar-searchmode-bookmarks =
     .label = نشانیاں
 urlbar-searchmode-tabs =

@@ -77,3 +77,5 @@ sidebar-callout-survey-disagree = اختلاف
 sidebar-callout-survey-strongly-disagree = ݙاڈھا اختلاف
 sidebar-callout-survey-submit = جمع کرواؤ
 sidebar-callout-survey-thank-you = تہاݙے فیڈبیک تے تھورائت ہیں!
+unified-search-callout-primary-label = اڳلا
+unified-search-callout-secondary-label = فارغ کرو
