@@ -148,6 +148,7 @@ preferences-data-migration-description = Egueru techaukaha, ñe’ẽñemi, temb
 preferences-data-migration-button =
     .label = Mba’ekuaarã Mba’egueru
     .accesskey = m
+preferences-profiles-header = Mba’etekuéra
 tabs-group-header = Tendayke
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab cycles tendayke rupive eiporu ramovévape

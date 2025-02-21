@@ -11,6 +11,7 @@ more-from-moz-category =
 more-from-moz-subtitle = Ehecha ambue { -vendor-short-name } ojapopyre oikóva oykeko hag̃ua Ñanduti hesãivape.
 more-from-moz-firefox-mobile-title = { -brand-product-name } pumbyrýpe g̃uarã
 more-from-moz-firefox-mobile-description = Pumbyry kundahára omotendéva nde rekoñemi.
+more-from-moz-firefox-mobile-title-1 = { -brand-product-name } pumbyrýpe g̃uarã
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Ejuhu peteĩ ñepytyvõ kundahára ha ñemo’ã ojekuaa’ỹvagui.
 more-from-moz-qr-code-box-firefox-mobile-title = Emboguejy ne pumbyrýpe. Emoma’ẽ ne ra’ãnganohẽha pe QR ayvu rehe. Osẽvove pe juajuha, eiporavóke.

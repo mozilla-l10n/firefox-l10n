@@ -443,7 +443,14 @@ tab-groups-onboarding-dismiss = MONEĨ
 ## Multi Profiles feature onboarding messages
 
 multi-profile-spotlight-title = Emomaitei { -brand-product-name } mba’etekuéra
+multi-profile-spotlight-cta = Emoheñói mba’ete
+multi-profile-callout-cta = Emoheñói mba’ete
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = ¡Emboguejy, embojuehe ha oĩma!
 dismiss-button-label = Mboyke
+sync-to-mobile-button-label = Ñembojuehe pumbyry ndive
+desktop-to-mobile-qr-code-alt =
+    .aria-label = QR ayvu emboguejy hag̃ua { -brand-product-name } pumbyrýpe

@@ -15,3 +15,4 @@ places-bookmarks-restore-format-error = Peteĩchagua marandurenda ipu’aka’�
 places-bookmarks-restore-parse-error = Ndaikatúi oñemba’apo ñongatuguypyre rehe.
 places-bookmarks-import = Techaukaha marandurenda jegueru
 places-bookmarks-export = Techaukaha marandurenda rerahauka
+places-bookmarks-paste-error-title = Ojejuhu URL oiko’ỹva
