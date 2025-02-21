@@ -31,6 +31,7 @@ webext-perms-description-tabs = Tilgang til faner
 webext-perms-description-tabHide = Skjul og vis nettleserfaner
 webext-perms-description-topSites = Tilgang til nettleserhistorikken
 webext-perms-description-trialML = Last ned og kjør AI-modeller på enheten din
+webext-perms-description-userScripts = Tillat at ubekreftede tredjepartsskript får tilgang til dine data
 webext-perms-description-webNavigation = Tilgang til nettleseraktivitet under navigasjon
 
 ## The userScripts permission includes an additional explanation that is
