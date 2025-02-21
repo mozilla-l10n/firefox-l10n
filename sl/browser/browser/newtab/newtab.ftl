@@ -503,5 +503,6 @@ newtab-section-mangage-topics-button =
     .label = Spremljane in prepovedane teme
 newtab-section-mangage-topics-followed-topics-subtitle = Spremljane teme
 newtab-section-mangage-topics-followed-topics-empty-state = Ne spremljate še nobene teme.
+newtab-section-mangage-topics-blocked-topics = Blokirano
 newtab-section-mangage-topics-blocked-topics-subtitle = Prepovedane teme
 newtab-section-mangage-topics-blocked-topics-empty-state = Prepovedali niste še nobene teme.
