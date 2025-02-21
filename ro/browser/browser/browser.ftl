@@ -420,6 +420,8 @@ urlbar-searchmode-tabs =
     .label = File
 urlbar-searchmode-history =
     .label = Istoric
+urlbar-searchmode-actions =
+    .label = Acțiuni
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
