@@ -9,6 +9,8 @@
 about-unloads-page-title = ടാബ് തിരയുതിർക്കൽ
 about-unloads-column-priority = മുന്‍ഗണന
 about-unloads-column-last-accessed = അവസാനം ഉപയോഗിച്ചതു്
+about-unloads-column-weight = അടിത്തറ വണ്ണം
+    .title = ടാബുകളെ ആദ്യം ഈ അക്കം കൊണ്ടാണു് തരംതിരിക്കുന്നതു്. ഇതു് ശബ്ദമുണ്ടാക്കൽ അല്ലെങ്കിൽ വെബ് ആർടിസി പോലെയുള്ള ചില പ്രത്യേക ഗുണങ്ങൾ നിന്നാണു് എടുക്കപ്പെടുന്നതു്
 about-unloads-column-memory = ഓർമ്മ
     .title = ടാബിന്റെ അളവെടുത്ത ഓർമ്മ ഉപയോഗം
 about-unloads-column-processes = നടപടി തിരിച്ചറിയൽസഹായികൾ

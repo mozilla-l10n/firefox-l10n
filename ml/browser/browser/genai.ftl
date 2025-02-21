@@ -15,9 +15,20 @@ genai-settings-chat-choose-one-menuitem =
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# Prompt purpose: make a selection easier to read
+genai-prompts-simplify =
+    .label = ഭാഷ എളുപ്പമാക്കുക
+    .value = തിരഞ്ഞെടുത്ത ഭാഗം ചെറുത വാക്യങ്ങളോടും വീണ്ടും എഴുതുക.
 
 ## Chatbot menu shortcuts
 
+genai-menu-ask-generic =
+    .label = നിൎമിതബുദ്ധി സല്ലാപയന്ത്രമനുഷ്യനെ ചോദിക്കുക
+# $provider (string) - name of the provider
+genai-menu-ask-provider =
+    .label = { $provider }-നെ ചോദിക്കുക
+genai-input-ask-generic =
+    .placeholder = നിൎമിതബുദ്ധി സല്ലാപയന്ത്രമനുഷ്യനെ ചോദിക്കുക…
 
 ## Chatbot header
 

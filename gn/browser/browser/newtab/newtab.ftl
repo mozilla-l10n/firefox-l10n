@@ -372,6 +372,8 @@ newtab-wallpaper-sky-with-pink-clouds = Ára arai pytãngy ndive
 newtab-wallpaper-red-panda-yawns-in-a-tree = Pánda pytã hopehýi yvyráre
 newtab-wallpaper-white-mountains = Yvytysyry morotĩ
 newtab-wallpaper-starry-canyon = Pyhare mbyjaita hovývareve
+newtab-wallpaper-sand-dunes = Yvyku’i morotĩ atýra
+newtab-wallpaper-forest-trees = Yvyramáta ojaho’íva arai
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -389,6 +391,13 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Araregua
+newtab-wallpaper-celestial-lunar-eclipse = Jasy ñemo’ã
+newtab-wallpaper-celestial-starry-sky = Ára imbyjapáva
+newtab-wallpaper-celestial-eclipse-time-lapse = Aravo jasy ñemo’ã aja
 
 ## New Tab Weather
 
@@ -480,8 +489,12 @@ newtab-section-unblock-button = Mbojera
 
 ## Confirmation modal for blocking a section
 
+newtab-section-confirm-block-section-p1 = ¿Ejokose añetehápepa ko tenda’i?
 newtab-section-block-section-button = Ejoko ko tenda’i
 newtab-section-cancel-button = Ani ko’ág̃a
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = Ejoko { $topic }
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
