@@ -468,3 +468,5 @@ desktop-to-mobile-headline = Llwytho i lawr, cydweddu, a mynd!
 desktop-to-mobile-subtitle = Sganiwch y cod QR i lwytho { -brand-product-name } i lawr ar gyfer ffôn symudol. Ar ôl ei osod, dewiswch "Cydweddu â ffôn symudol" i gael mynediad at eich cyfrineiriau, nodau tudalen, a mwy wrth fynd.
 dismiss-button-label = Cau
 sync-to-mobile-button-label = Cydweddu â'r symudol
+desktop-to-mobile-qr-code-alt =
+    .aria-label = Cod QR i lwytho { -brand-product-name } i lawr ar gyfer ffôn symudol

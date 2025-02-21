@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = Sgwrsfot AI
 menu-view-review-checker =
     .label = Gwirydd Adolygiadau
+menu-view-contextual-password-manager =
+    .label = Cyfrineiriau
 sidebar-options-menu-button =
     .title = Agor dewislen
 
@@ -115,6 +117,8 @@ sidebar-menu-customize-label =
     .label = Cyfaddasu'r bar offer
 sidebar-menu-review-checker-label =
     .label = Gwirydd Adolygiadau
+sidebar-menu-contextual-password-manager-label =
+    .label = Cyfrineiriau
 
 ## Tooltips for sidebar menu items.
 
@@ -157,6 +161,8 @@ sidebar-menu-syncedtabs-header =
     .heading = Tabiau o ddyfeisiau eraill
 sidebar-menu-bookmarks-header =
     .heading = Nodau Tudalen
+sidebar-menu-cpm-header =
+    .heading = Cyfrineiriau
 sidebar-panel-header-close-button =
     .tooltiptext = Cau
 

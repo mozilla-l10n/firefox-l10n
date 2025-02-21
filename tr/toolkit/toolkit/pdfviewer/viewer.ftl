@@ -316,6 +316,9 @@ pdfjs-highlight-floating-button1 =
     .title = Vurgula
     .aria-label = Vurgula
 pdfjs-highlight-floating-button-label = Vurgula
+pdfjs-editor-signature-button =
+    .title = İmza ekle
+pdfjs-editor-signature-button-label = İmza ekle
 
 ## Remove button for the various kind of editor.
 
@@ -345,6 +348,9 @@ pdfjs-editor-stamp-add-image-button-label = Resim ekle
 pdfjs-editor-free-highlight-thickness-input = Kalınlık
 pdfjs-editor-free-highlight-thickness-title =
     .title = Metin dışındaki öğeleri vurgularken kalınlığı değiştir
+pdfjs-editor-signature-add-signature-button =
+    .title = Yeni imza ekle
+pdfjs-editor-signature-add-signature-button-label = Yeni imza ekle
 # .default-content is used as a placeholder in an empty text editor.
 pdfjs-free-text2 =
     .aria-label = Metin düzenleyicisi
@@ -569,12 +575,18 @@ pdfjs-editor-add-signature-error-close-button = Kapat
 
 pdfjs-editor-add-signature-cancel-button = Vazgeç
 pdfjs-editor-add-signature-add-button = Ekle
+pdfjs-editor-edit-signature-update-button = Güncelle
 
 ## Main menu for adding/removing signatures
 
+pdfjs-editor-delete-signature-button =
+    .title = İmzayı kaldır
+pdfjs-editor-delete-signature-button-label = İmzayı kaldır
 
 ## Editor toolbar
 
+pdfjs-editor-add-signature-edit-button-label = Açıklamayı düzenle
 
 ## Edit signature description dialog
 
+pdfjs-editor-edit-signature-dialog-title = Açıklamayı düzenle

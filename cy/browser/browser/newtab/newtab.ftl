@@ -326,7 +326,6 @@ newtab-wallpaper-custom-color = Dewis lliw
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Mae'r ddelwedd yn fwy na'r terfyn maint ffeil { $file_size }MB. Ceisiwch lwytho ffeil lai.
-newtab-wallpaper-error-file-type = Nid oess modd i ni lwytho'ch ffeil. Ceisiwch eto gyda gwahanol fathau o ffeil.
 newtab-wallpaper-light-red-panda = Panda coch
 newtab-wallpaper-light-mountain = Mynydd gwyn
 newtab-wallpaper-light-sky = Awyr gyda chymylau porffor a phinc
@@ -386,6 +385,10 @@ newtab-wallpaper-red-panda-yawns-in-a-tree = Panda coch yn dylyfu mewn coeden
 newtab-wallpaper-white-mountains = Mynyddoedd gwyn
 newtab-wallpaper-hot-air-balloons = Lliwiau amrywiol balwnau aer poeth yn ystod y dydd
 newtab-wallpaper-starry-canyon = Noson serennog las
+newtab-wallpaper-suspension-bridge = Ffotograffau pont crog llwyd yn ystod y dydd
+newtab-wallpaper-sand-dunes = Twyni tywod gwyn
+newtab-wallpaper-palm-trees = Amlinell coed palmwydd cnau coco yn ystod yr awr euraidd
+newtab-wallpaper-forest-trees = Coed wedi'u gorchuddio â niwl
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -403,6 +406,16 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Wybrennol
+newtab-wallpaper-celestial-lunar-eclipse = Eclipse lleuad
+newtab-wallpaper-celestial-earth-night = Llun nos o orbit daear isel
+newtab-wallpaper-celestial-starry-sky = Awyr serennog
+newtab-wallpaper-celestial-eclipse-time-lapse = Eclipse amser llithro lleuad
+newtab-wallpaper-celestial-black-hole = Darlun galaeth twll du
+newtab-wallpaper-celestial-river = Delwedd lloeren o'r afon
 
 ## New Tab Weather
 
@@ -498,13 +511,22 @@ newtab-section-confirm-block-section-p1 = Ydych chi'n siŵr eich bod am rwystro'
 newtab-section-confirm-block-section-p2 = Ni fydd adran sydd wedi'i rwystro'n ymddangos yn eich llif bellach.
 newtab-section-block-section-button = Rhwystro'r adran hon
 newtab-section-cancel-button = Nid nawr
+newtab-section-confirm-block-topic-p1 = Ydych chi'n siŵr eich bod am rwystro'r pwnc hwn?
+newtab-section-confirm-block-topic-p2 = Ni fydd pynciau sydd wedi'u rhwystro yn ymddangos yn eich porthwr bellach.
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = Rhwystro { $topic }
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Pynciau
+newtab-section-manage-topics-button-v2 =
+    .label = Rheoli pynciau
+newtab-section-mangage-topics-followed-topics = Dilynwyd
 newtab-section-mangage-topics-button =
     .label = Pynciau wedi'u dilyn a'u rhwystro
 newtab-section-mangage-topics-followed-topics-subtitle = Pynciau'n Cael eu Dilyn
 newtab-section-mangage-topics-followed-topics-empty-state = Nid ydych wedi dilyn unrhyw bynciau eto.
+newtab-section-mangage-topics-blocked-topics = Rhwystrwyd
 newtab-section-mangage-topics-blocked-topics-subtitle = Pynciau wedi'u Rhwystro
 newtab-section-mangage-topics-blocked-topics-empty-state = Nid ydych wedi rhwystro unrhyw bynciau eto.
