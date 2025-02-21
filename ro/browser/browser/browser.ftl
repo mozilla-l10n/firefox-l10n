@@ -414,6 +414,14 @@ urlbar-result-action-tabtosearch-web = Caută cu { $engine } direct din bara de 
 
 ## Strings used for buttons in the urlbar
 
+urlbar-searchmode-bookmarks =
+    .label = Marcaje
+urlbar-searchmode-tabs =
+    .label = File
+urlbar-searchmode-history =
+    .label = Istoric
+urlbar-searchmode-actions =
+    .label = Acțiuni
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

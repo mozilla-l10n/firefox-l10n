@@ -519,6 +519,14 @@ urlbar-result-action-calculator-result = = { $result }
 
 ## Strings used for buttons in the urlbar
 
+urlbar-searchmode-bookmarks =
+    .label = Järjehoidjad
+urlbar-searchmode-tabs =
+    .label = Kaardid
+urlbar-searchmode-history =
+    .label = Ajalugu
+urlbar-searchmode-actions =
+    .label = Tegevused
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

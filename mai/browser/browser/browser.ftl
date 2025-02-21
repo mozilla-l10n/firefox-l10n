@@ -311,6 +311,12 @@ urlbar-result-action-switch-tab = 'टैब मे स्विच करू
 
 ## Strings used for buttons in the urlbar
 
+urlbar-searchmode-bookmarks =
+    .label = पुस्तकचिह्न
+urlbar-searchmode-tabs =
+    .label = टैब
+urlbar-searchmode-history =
+    .label = इतिहास
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

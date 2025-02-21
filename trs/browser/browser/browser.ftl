@@ -314,6 +314,14 @@ urlbar-result-action-visit = Gatu gan'anj ni'iajt
 
 ## Strings used for buttons in the urlbar
 
+urlbar-searchmode-bookmarks =
+    .label = Nej sa râj sun nichrà\'t doj
+urlbar-searchmode-tabs =
+    .label = Nej rakïj ñanj
+urlbar-searchmode-history =
+    .label = Sa gini’hiājt
+urlbar-searchmode-actions =
+    .label = Sa gi'hiát
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

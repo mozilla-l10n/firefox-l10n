@@ -596,6 +596,14 @@ urlbar-result-action-calculator-result = = { $result }
 
 ## Strings used for buttons in the urlbar
 
+urlbar-searchmode-bookmarks =
+    .label = Taq yaketal
+urlbar-searchmode-tabs =
+    .label = Taq ruwi'
+urlbar-searchmode-history =
+    .label = Natab'äl
+urlbar-searchmode-actions =
+    .label = Taq b'anoj
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

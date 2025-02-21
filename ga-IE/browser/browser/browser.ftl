@@ -322,6 +322,12 @@ urlbar-result-action-calculator-result = = { $result }
 
 ## Strings used for buttons in the urlbar
 
+urlbar-searchmode-bookmarks =
+    .label = Leabharmharcanna
+urlbar-searchmode-tabs =
+    .label = Cluaisíní
+urlbar-searchmode-history =
+    .label = Oireas
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
