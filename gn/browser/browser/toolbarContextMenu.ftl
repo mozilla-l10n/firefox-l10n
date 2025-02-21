@@ -30,6 +30,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Embojurujajey umi tendayke mbotypyre
         }
     .accesskey = o
+toolbar-context-turn-on-vertical-tabs =
+    .label = Emyandy tendayke oñembo’ýva
+toolbar-context-turn-off-vertical-tabs =
+    .label = Embogue tendayke oñembo’ýva
+toolbar-context-customize-sidebar =
+    .label = Embohéra pe tenda yke
 toolbar-context-menu-manage-extension =
     .label = Emongu’e jepysokue
     .accesskey = E

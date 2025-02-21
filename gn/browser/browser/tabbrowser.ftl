@@ -245,6 +245,10 @@ tab-group-editor-color-selector2-gray = Hũngy
     .title = Hũngy
 tab-group-editor-color-selector2-red = Ñanduti
     .title = Ñanduti
+# Variables:
+#  $tabGroupName (String): The name of the tab group. Defaults to the value
+#                          of tab-group-name-default.
+tab-group-description = { $tabGroupName } — Tendayke aty
 tab-group-menu-header = Tendayke aty
 tab-context-unnamed-group =
     .label = Aty hera’ỹva
@@ -314,3 +318,7 @@ tab-group-context-delete =
 # in the user's current window.
 tab-group-context-open-saved-group-in-this-window =
     .label = Embojuruja aty ko ovetãme
+# For a saved tab group that is not open in any window, create a new window and
+# open the tab group in that window.
+tab-group-context-open-saved-group-in-new-window =
+    .label = Embojuruja aty ovetã pyahúpe
