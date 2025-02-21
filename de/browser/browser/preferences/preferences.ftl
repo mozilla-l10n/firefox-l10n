@@ -148,6 +148,11 @@ preferences-data-migration-description = Lesezeichen, Passwörter, Chronik und D
 preferences-data-migration-button =
     .label = Daten importieren
     .accesskey = m
+preferences-profiles-header = Profile
+preferences-manage-profiles-description = Jedes Profil hat unterschiedliche Browser-Daten und -Einstellungen, wie Chronik, Passwörter und mehr.
+preferences-manage-profiles-learn-more = Weitere Informationen
+preferences-manage-profiles-button =
+    .label = Profile verwalten
 tabs-group-header = Tabs
 ctrl-tab-recently-used-order =
     .label = Bei Strg+Tab die Tabs nach letzter Nutzung in absteigender Reihenfolge anzeigen
@@ -225,6 +230,13 @@ containers-remove-cancel-button = Umgebung behalten
 settings-tabs-show-image-in-preview =
     .label = Eine Grafik-Vorschau anzeigen, wenn Sie mit der Maus über einen Tab fahren
     .accessKey = f
+browser-layout-header = Browser-Layout
+browser-layout-horizontal-tabs =
+    .label = Horizontale Tabs
+browser-layout-horizontal-tabs-desc = Oben im Browser anzeigen
+browser-layout-vertical-tabs =
+    .label = Vertikale Tabs
+browser-layout-vertical-tabs-desc = An der Seite anzeigen, in der Sidebar
 
 ## General Section - Language & Appearance
 

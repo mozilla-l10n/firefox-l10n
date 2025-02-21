@@ -29,6 +29,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Geschlossene Tabs wieder öffnen
         }
     .accesskey = G
+toolbar-context-turn-on-vertical-tabs =
+    .label = Vertikale Tabs aktivieren
+toolbar-context-turn-off-vertical-tabs =
+    .label = Vertikale Tabs deaktivieren
+toolbar-context-customize-sidebar =
+    .label = Sidebar anpassen
 toolbar-context-menu-manage-extension =
     .label = Erweiterung verwalten
     .accesskey = w

@@ -130,6 +130,7 @@ sidebar-menu-close-ai-chatbot-tooltip = KI-Chatbot schließen
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
+sidebar-menu-close-ai-chatbot-provider-tooltip = { $provider } schließen ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 
@@ -141,6 +142,8 @@ sidebar-menu-syncedtabs-header =
     .heading = Tabs von anderen Geräten
 sidebar-menu-bookmarks-header =
     .heading = Lesezeichen
+sidebar-menu-cpm-header =
+    .heading = Passwörter
 sidebar-panel-header-close-button =
     .tooltiptext = Schließen
 

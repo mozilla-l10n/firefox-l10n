@@ -11,6 +11,7 @@ more-from-moz-category =
 more-from-moz-subtitle = Sehen Sie sich andere { -vendor-short-name }-Produkte an, die ein gesundes Internet unterstützen.
 more-from-moz-firefox-mobile-title = { -brand-product-name } für Mobilgeräte
 more-from-moz-firefox-mobile-description = Der mobile Browser, für den Ihre Privatsphäre an erster Stelle steht.
+more-from-moz-firefox-mobile-title-1 = { -brand-product-name } für Mobilgeräte
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Entdecken Sie eine zusätzliche Ebene des anonymen Surfens und Schutzes.
 more-from-moz-qr-code-box-firefox-mobile-title = Laden Sie ihn mit Ihrem Mobilgerät herunter. Richten Sie Ihre Kamera auf den QR-Code. Wenn ein Link angezeigt wird, tippen Sie darauf.
@@ -35,3 +36,6 @@ more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name } holen
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
+more-from-moz-solo-title = { -solo-ai-brand-name }-KI
+more-from-moz-solo-description = Erstellen Sie Ihre Website im Handumdrehen und verbinden Sie kostenlos Ihre eigene Domain.
+more-from-moz-solo-button = { -solo-ai-brand-name } ausprobieren

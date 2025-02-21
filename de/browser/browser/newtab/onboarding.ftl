@@ -464,3 +464,9 @@ multi-profile-callout-cta = Ein Profil erstellen
 
 # If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
 desktop-to-mobile-headline = Herunterladen, synchronisieren und loslegen!
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Scannen Sie den QR-Code, um { -brand-product-name } für Mobilgeräte herunterzuladen. Wählen Sie nach der Installation "Mit Mobilgerät synchronisieren", um unterwegs auf Ihre Passwörter, Lesezeichen und mehr zuzugreifen.
+dismiss-button-label = Verwerfen
+sync-to-mobile-button-label = Mit Mobilgerät synchronisieren
+desktop-to-mobile-qr-code-alt =
+    .aria-label = QR-Code zum Herunterladen von { -brand-product-name } für Mobilgeräte
