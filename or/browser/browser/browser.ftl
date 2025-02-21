@@ -224,6 +224,8 @@ urlbar-result-action-search-w-engine = { $engine } ସହିତ ଖୋଜନ୍�
 
 ## Strings used for buttons in the urlbar
 
+urlbar-searchmode-history =
+    .label = ଇତିହାସ
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
