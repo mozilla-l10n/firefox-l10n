@@ -556,6 +556,14 @@ urlbar-result-action-calculator-result = = { $result }
 
 ## Strings used for buttons in the urlbar
 
+urlbar-searchmode-bookmarks =
+    .label = Zokłodki
+urlbar-searchmode-tabs =
+    .label = Karty
+urlbar-searchmode-history =
+    .label = Historyjo
+urlbar-searchmode-actions =
+    .label = Akcyje
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
