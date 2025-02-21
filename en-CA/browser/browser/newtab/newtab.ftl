@@ -380,6 +380,11 @@ newtab-wallpaper-sky-with-pink-clouds = Sky with pink clouds
 newtab-wallpaper-red-panda-yawns-in-a-tree = Red panda yawns in a tree
 newtab-wallpaper-white-mountains = White mountains
 newtab-wallpaper-hot-air-balloons = Assorted colours of hot air balloons during daytime
+newtab-wallpaper-starry-canyon = Blue starry night
+newtab-wallpaper-suspension-bridge = Grey full-suspension bridge photography during daytime
+newtab-wallpaper-sand-dunes = White sand dunes
+newtab-wallpaper-palm-trees = Silhouette of coconut palm trees during golden hour
+newtab-wallpaper-forest-trees = Trees covered with fog
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -397,6 +402,16 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Celestial
+newtab-wallpaper-celestial-lunar-eclipse = Lunar eclipse
+newtab-wallpaper-celestial-earth-night = Night photo from low Earth orbit
+newtab-wallpaper-celestial-starry-sky = Starry sky
+newtab-wallpaper-celestial-eclipse-time-lapse = Lunar eclipse time lapse
+newtab-wallpaper-celestial-black-hole = Black hole galaxy illustration
+newtab-wallpaper-celestial-river = Satellite image of river
 
 ## New Tab Weather
 
@@ -492,13 +507,22 @@ newtab-section-confirm-block-section-p1 = Are you sure you want to block this se
 newtab-section-confirm-block-section-p2 = Blocked section will no longer appear in your feed.
 newtab-section-block-section-button = Block this section
 newtab-section-cancel-button = Not now
+newtab-section-confirm-block-topic-p1 = Are you sure you want to block this topic?
+newtab-section-confirm-block-topic-p2 = Blocked topics will no longer appear in your feed.
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = Block { $topic }
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Topics
+newtab-section-manage-topics-button-v2 =
+    .label = Manage topics
+newtab-section-mangage-topics-followed-topics = Followed
 newtab-section-mangage-topics-button =
     .label = Followed and blocked topics
 newtab-section-mangage-topics-followed-topics-subtitle = Followed Topics
 newtab-section-mangage-topics-followed-topics-empty-state = You have not followed any topics yet.
+newtab-section-mangage-topics-blocked-topics = Blocked
 newtab-section-mangage-topics-blocked-topics-subtitle = Blocked Topics
 newtab-section-mangage-topics-blocked-topics-empty-state = You have not blocked any topics yet.

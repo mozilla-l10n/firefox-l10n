@@ -468,3 +468,5 @@ desktop-to-mobile-headline = Download, sync, and go!
 desktop-to-mobile-subtitle = Scan the QR code to download { -brand-product-name } for mobile. Once installed, select “Sync to mobile” to access your passwords, bookmarks, and more on the go.
 dismiss-button-label = Dismiss
 sync-to-mobile-button-label = Sync to mobile
+desktop-to-mobile-qr-code-alt =
+    .aria-label = QR code to download { -brand-product-name } for mobile
