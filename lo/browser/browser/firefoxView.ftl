@@ -9,6 +9,8 @@ menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
 firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-page-heading =
+    .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
 firefoxview-close-button =
@@ -96,6 +98,8 @@ firefoxview-collapse-button-show =
 firefoxview-collapse-button-hide =
     .title = ເຊື່ອງລາຍຊື່
 firefoxview-overview-nav = ຜົນການຊອກຫາຫຼ້າສຸດ
+    .title = ຜົນການຊອກຫາຫຼ້າສຸດ
+firefoxview-overview-header = ຜົນການຊອກຫາຫຼ້າສຸດ
     .title = ຜົນການຊອກຫາຫຼ້າສຸດ
 
 ## History in this context refers to browser history

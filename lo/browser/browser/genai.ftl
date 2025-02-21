@@ -23,6 +23,19 @@ genai-settings-chat-links = ເມື່ອທ່ານເລືອກ chatbot, 
 
 ## Chatbot header
 
+genai-header-options-button =
+    .title = ເປີດເມນູ
+genai-header-close-button =
+    .title = ປິດ
+genai-provider-view-details =
+    .label = ເບິ່ງລາຍລະອຽດຂອງ chatbot
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = ໂຫຼດ { $provider } ໃໝ່
+genai-options-show-shortcut =
+    .label = ສະແດງທາງລັດໃນເວລາເລືອກຂໍ້ຄວາມ
+genai-options-hide-shortcut =
+    .label = ເຊື່ອງທາງລັດໃນເວລາເລືອກຂໍ້ຄວາມ
 
 ## Chatbot onboarding
 
@@ -35,6 +48,8 @@ genai-onboarding-gemini-tooltip =
 genai-onboarding-gemini-learn = ຮຽນຮູ້ເພີ່ມເຕີມກ່ຽວກັບ Gemini
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
+genai-onboarding-lechat-learn = ສຶກສາເພີ່ມເຕີມກ່ຽວກັບ Le Chat
+genai-onboarding-select-header = ເລືອກຂໍ້ຄວາມເພື່ອເບິ່ງຄຳແນະນຳ
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
