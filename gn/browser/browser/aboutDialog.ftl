@@ -51,6 +51,8 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } apohare<label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, peteĩ <label data-l10n-name="community-creditsLink">Yvóra rekoha</label>ñamba’apo oñondivepa ikatu hag̃uáicha ñanduti ijuruja, opavavépe g̃uarã ha oikekuaahápe oimeraẽva.
 helpus = Reipytyvõsepa<label data-l10n-name="helpus-donateLink">Mba’eme’ẽ</label> térã<label data-l10n-name="helpus-getInvolvedLink">eiképy</label>
 bottomLinks-license = Marandu ñe’ẽme’ẽguigua
+bottom-links-terms = Jeporurã reko
+bottom-links-privacy = Marandu’i ñemigua
 bottomLinks-rights = Poruhára paha mba’engatu
 bottomLinks-privacy = Temiñemi porureko
 # Example of resulting string: 66.0.1 (64-bit)

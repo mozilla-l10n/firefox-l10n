@@ -18,3 +18,8 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = Embotypaite tendayke ikõiva
 all-tabs-menu-synced-tabs =
     .label = Tendaykekuéra ambue mba’e’okagua
+all-tabs-menu-current-window-header = Ovetã ag̃agua
+# "Show all" is for showing all open groups as well as saved groups. Initially,
+# we only show up to five of these groups.
+all-tabs-menu-tab-groups-show-all =
+    .label = Techaukapaite
