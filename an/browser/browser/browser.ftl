@@ -356,6 +356,12 @@ urlbar-result-action-visit = Vesitar
 
 ## Strings used for buttons in the urlbar
 
+urlbar-searchmode-bookmarks =
+    .label = Marcapachinas
+urlbar-searchmode-tabs =
+    .label = Pestanyas
+urlbar-searchmode-history =
+    .label = Historial
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
