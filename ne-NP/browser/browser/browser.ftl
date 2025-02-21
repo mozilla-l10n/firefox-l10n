@@ -613,6 +613,14 @@ urlbar-result-action-calculator-result = ={ $result }
 # Label prompting user to search with a particular search engine.
 #  $engine (String): the name of a search engine that searches a specific site
 urlbar-result-search-with = { $engine } मार्फत खोज्नुहोस्
+urlbar-searchmode-bookmarks =
+    .label = बुकमार्कहरु
+urlbar-searchmode-tabs =
+    .label = ट्याबहरू
+urlbar-searchmode-history =
+    .label = इतिहास
+urlbar-searchmode-actions =
+    .label = कार्य
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
