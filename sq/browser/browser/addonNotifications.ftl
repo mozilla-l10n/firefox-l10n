@@ -8,7 +8,7 @@ xpinstall-prompt = { -brand-short-name }-i e pengoi këtë sajt t’ju kërkojë
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
 xpinstall-prompt-header = Të lejohet { $host } të instalojë një shtesë?
-xpinstall-prompt-message = Po përpiqeni të instaloni një shtesë nga { $host }. Përpara se të vazhdoni, sigurohuni se i zini besë këtij sajt.
+xpinstall-prompt-message = Po përpiqeni të instaloni një shtesë nga { $host }. Përpara se të vazhdoni, sigurohuni se i zini besë këtij sajti.
 
 ##
 
