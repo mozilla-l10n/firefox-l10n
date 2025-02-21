@@ -32,8 +32,8 @@ edit-profile-page-theme-header-2 =
 edit-profile-page-theme-header = Θέμα
 edit-profile-page-explore-themes = Εξερευνήστε περισσότερα θέματα
 edit-profile-page-avatar-header-2 =
-    .label = Εικόνα χρήστη
-edit-profile-page-avatar-header = Εικόνα χρήστη
+    .label = Εικόνα προφίλ
+edit-profile-page-avatar-header = Εικόνα προφίλ
 edit-profile-page-delete-button =
     .label = Διαγραφή
 edit-profile-page-no-name = Δώστε ένα όνομα στο προφίλ για να το βρείτε πιο εύκολα αργότερα. Μπορείτε να το μετονομάσετε ανά πάσα στιγμή.
@@ -96,6 +96,8 @@ profiles-moss-theme = Βρύα
 profiles-light-theme = Ανοιχτόχρωμο
 # The default dark theme
 profiles-dark-theme = Σκοτεινό
+# The default system theme
+profiles-system-theme = Σύστημα
 
 ## Alternative text for default profile icons
 
