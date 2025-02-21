@@ -381,6 +381,10 @@ newtab-wallpaper-red-panda-yawns-in-a-tree = Vörös panda ásít egy fán
 newtab-wallpaper-white-mountains = Fehér hegyek
 newtab-wallpaper-hot-air-balloons = Különböző színű hőlégballonok napközben
 newtab-wallpaper-starry-canyon = Kék csillagos éjszaka
+newtab-wallpaper-suspension-bridge = Fénykép egy szürke függőhídról, napközben
+newtab-wallpaper-sand-dunes = Fehér homokdűnék
+newtab-wallpaper-palm-trees = Kókuszpálmák sziluettje alkonyatkor
+newtab-wallpaper-forest-trees = Fák ködben
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -398,6 +402,13 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Mennyei
+newtab-wallpaper-celestial-lunar-eclipse = Holdfogyatkozás
+newtab-wallpaper-celestial-earth-night = Éjszakai fénykép alacsony Föld körüli pályáról
+newtab-wallpaper-celestial-starry-sky = Csillagos égbolt
 
 ## New Tab Weather
 

@@ -18,3 +18,8 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = Zapri vse podvojene zavihke
 all-tabs-menu-synced-tabs =
     .label = Zavihki z drugih naprav
+all-tabs-menu-current-window-header = Trenutno okno
+# "Show all" is for showing all open groups as well as saved groups. Initially,
+# we only show up to five of these groups.
+all-tabs-menu-tab-groups-show-all =
+    .label = Prikaži vse

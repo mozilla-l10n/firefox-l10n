@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = UI-klepetalnik
 menu-view-review-checker =
     .label = Pregledovalnik mnenj
+menu-view-contextual-password-manager =
+    .label = Gesla
 sidebar-options-menu-button =
     .title = Odpri meni
 
@@ -115,6 +117,8 @@ sidebar-menu-customize-label =
     .label = Prilagodi stransko vrstico
 sidebar-menu-review-checker-label =
     .label = Pregledovalnik mnenj
+sidebar-menu-contextual-password-manager-label =
+    .label = Gesla
 
 ## Tooltips for sidebar menu items.
 
@@ -153,6 +157,8 @@ sidebar-menu-syncedtabs-header =
     .heading = Zavihki z drugih naprav
 sidebar-menu-bookmarks-header =
     .heading = Zaznamki
+sidebar-menu-cpm-header =
+    .heading = Gesla
 sidebar-panel-header-close-button =
     .tooltiptext = Zapri
 

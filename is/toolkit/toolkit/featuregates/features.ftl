@@ -16,3 +16,6 @@ experimental-features-js-warp =
 experimental-features-js-warp-description = Virkjaðu Warp, verkefni til að bæta afköst JavaScript og minnisnotkun.
 genai-settings-chat-title =
     .label = Gervigreindarspjallkerfi
+# Updated sidebar settings
+sidebar-title =
+    .label = Hliðarspjald

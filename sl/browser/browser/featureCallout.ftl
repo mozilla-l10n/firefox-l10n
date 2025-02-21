@@ -64,6 +64,7 @@ split-dismiss-button-manage-settings-option-label = Nastavitve
 
 sidebar-button-callout-title = V stranski vrstici prikaži naslove zavihkov
 sidebar-button-callout-subtitle = S klikom na gumb lahko razširite stransko vrstico in prikažete naslove zavihkov.
+sidebar-button-callout-vertical-tabs = Za prikaz zavihkov v orodni vrstici izberite gumb stranske vrstice.
 
 ## Sidebar Callout Survey Strings
 

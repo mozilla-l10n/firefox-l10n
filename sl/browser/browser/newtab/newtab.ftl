@@ -317,6 +317,11 @@ newtab-custom-settings = Več nastavitev
 
 newtab-wallpaper-title = Ozadja
 newtab-wallpaper-reset = Ponastavi privzeto
+newtab-wallpaper-upload-image = Naloži sliko
+newtab-wallpaper-custom-color = Izberite barvo
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = Največja dovoljena velikost slike je { $file_size } MB. Poskusite naložiti manjšo datoteko.
 newtab-wallpaper-light-red-panda = Mačji panda
 newtab-wallpaper-light-mountain = Bela gora
 newtab-wallpaper-light-sky = Nebo z vijoličastimi in rožnatimi oblaki
@@ -482,10 +487,18 @@ newtab-section-confirm-block-section-p1 = Ali ste prepričani, da želite blokir
 newtab-section-confirm-block-section-p2 = Blokirani razdelek se ne bo več prikazoval v vašem viru.
 newtab-section-block-section-button = Blokiraj ta razdelek
 newtab-section-cancel-button = Ne zdaj
+newtab-section-confirm-block-topic-p1 = Ali ste prepričani, da želite blokirati to temo?
+newtab-section-confirm-block-topic-p2 = Blokirane teme se ne bodo več prikazovale v vašem viru.
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = Blokiraj { $topic }
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Teme
+newtab-section-manage-topics-button-v2 =
+    .label = Upravljanje tem
+newtab-section-mangage-topics-followed-topics = Spremljate
 newtab-section-mangage-topics-button =
     .label = Spremljane in prepovedane teme
 newtab-section-mangage-topics-followed-topics-subtitle = Spremljane teme
