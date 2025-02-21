@@ -365,6 +365,8 @@ newtab-wallpaper-abstract-orange = Formas naranjas
 newtab-wallpaper-gradient-orange = Degradado naranja y rosa
 newtab-wallpaper-abstract-blue-purple = Formas azules y púrpuras
 newtab-wallpaper-abstract-white-curves = Blanco con curvas sombreadas
+newtab-wallpaper-abstract-blue-purple-waves = Formas onduladas azules y púrpuras
+newtab-wallpaper-abstract-black-waves = Formas onduladas negras
 
 ## Celestial
 
@@ -375,6 +377,12 @@ newtab-wallpaper-storm-sky = Cielo tormentoso
 newtab-wallpaper-sky-with-pink-clouds = Cielo con nubes rosas
 newtab-wallpaper-red-panda-yawns-in-a-tree = Panda rojo bosteza en un árbol
 newtab-wallpaper-white-mountains = Montañas blancas
+newtab-wallpaper-hot-air-balloons = Colores surtidos de globos aerostáticos durante el día
+newtab-wallpaper-starry-canyon = Noche estrellada azul
+newtab-wallpaper-suspension-bridge = Fotografía gris de puente colgante durante el día
+newtab-wallpaper-sand-dunes = Dunas de arena blanca
+newtab-wallpaper-palm-trees = Silueta de cocoteros durante la hora dorada
+newtab-wallpaper-forest-trees = Árboles cubiertos de niebla
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -392,6 +400,14 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Celeste
+newtab-wallpaper-celestial-lunar-eclipse = Eclipse de luna
+newtab-wallpaper-celestial-earth-night = Foto nocturna desde la órbita baja de la tierra
+newtab-wallpaper-celestial-starry-sky = Cielo estrellado
+newtab-wallpaper-celestial-river = Imagen de satelite de un rio
 
 ## New Tab Weather
 
@@ -487,13 +503,22 @@ newtab-section-confirm-block-section-p1 = ¿Está seguro de querer bloquear esta
 newtab-section-confirm-block-section-p2 = La sección bloqueada ya no aparecerá en los canales.
 newtab-section-block-section-button = Bloquear esta sección
 newtab-section-cancel-button = No ahora
+newtab-section-confirm-block-topic-p1 = ¿Está seguro de querer bloquear este tema?
+newtab-section-confirm-block-topic-p2 = Los temas bloqueados ya no aparecerán en los canales.
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = Bloquear { $topic }
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Tópicos
+newtab-section-manage-topics-button-v2 =
+    .label = Administrar temas
+newtab-section-mangage-topics-followed-topics = Seguido
 newtab-section-mangage-topics-button =
     .label = Tópicos seguidos y bloqueados
 newtab-section-mangage-topics-followed-topics-subtitle = Tópicos seguidos
 newtab-section-mangage-topics-followed-topics-empty-state = Todavía no hay tópicos seguidos
+newtab-section-mangage-topics-blocked-topics = Bloqueado
 newtab-section-mangage-topics-blocked-topics-subtitle = Tópicos bloqueados
 newtab-section-mangage-topics-blocked-topics-empty-state = Todavía no hay tópicos bloqueados
