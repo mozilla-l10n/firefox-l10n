@@ -586,3 +586,4 @@ pdfjs-editor-add-signature-edit-button-label = Embosako’i moha’ãnga
 
 ## Edit signature description dialog
 
+pdfjs-editor-edit-signature-dialog-title = Embosako’i moha’ãnga
