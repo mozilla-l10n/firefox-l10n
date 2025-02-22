@@ -1156,7 +1156,7 @@ addressbar-locbar-showrecentsearches-option =
     .label = Намоиш додани ҷустуҷӯҳои охирин
     .accesskey = Н
 addressbar-locbar-showtrendingsuggestions-option =
-    .label = Намоиш додани пешниҳодҳои ҷустуҷӯи тамоюл
+    .label = Намоиши пешниҳодҳои ҷустуҷӯи ҳавасангез
     .accesskey = Н
 addressbar-quickactions-learn-more = Маълумоти бештар
 

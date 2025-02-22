@@ -166,7 +166,7 @@ newtab-menu-open-file = Кушодани файл
 newtab-label-visited = Дидашуда
 newtab-label-bookmarked = Дар хатбаракҳо
 newtab-label-removed-bookmark = Хатбарак тоза карда шуд
-newtab-label-recommended = Тамоюл
+newtab-label-recommended = Ҳавасангез
 newtab-label-saved = Ба { -pocket-brand-name } нигоҳ дошта шуд
 newtab-label-download = Боргиришуда
 # This string is used in the story cards to indicate sponsored content
