@@ -99,3 +99,7 @@ unified-search-callout-title = Prebacivanje između tražilica
 unified-search-callout-subtitle = Odaberi ono što najbolje funkcionira za tvoju specifičnu pretragu.
 unified-search-callout-primary-label = Dalje
 unified-search-callout-secondary-label = Odbaci
+unified-search-engines-callout-title = Traži pomoću prečaca
+unified-search-engines-callout-subtitle = Upiši „@” i ključnu riječ za pretraživanje povijesti, zabilješki, kartica ili za pretraživanje pomoću jedne druge tražilice.
+unified-search-engines-callout-primary-label = Razumijem
+actions-callout-title = Dovrši uobičajene zadatke ili pristupi osnovnim postavkama
