@@ -446,6 +446,7 @@ onboarding-checklist-sign-up = Registriraj se ili se prijavi na svoj račun
 
 tab-groups-onboarding-feature-callout-title = Isprobaj grupe kartica za manje nereda, bolje fokusiranje
 tab-groups-onboarding-feature-callout-subtitle = Uredi popis kartica povlačenjem jedne kartice na drugu za stvaranje tvoje prve grupe.
+tab-groups-onboarding-dismiss = U redu
 
 ## Multi Profiles feature onboarding messages
 
@@ -458,3 +459,6 @@ multi-profile-callout-cta = Stvori profil
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = Preuzmi, sinkroniziraj i kreni!
+dismiss-button-label = Odbaci

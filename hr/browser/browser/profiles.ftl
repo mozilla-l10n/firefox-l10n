@@ -118,3 +118,7 @@ star-avatar-alt =
 
 book-avatar = Knjiga
 briefcase-avatar = Aktovka
+flower-avatar = Cvijet
+heart-avatar = Srce
+shopping-avatar = Kolica za kupnju
+star-avatar = Zvijezda

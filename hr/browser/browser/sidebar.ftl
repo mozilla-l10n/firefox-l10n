@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = UI chatbot
 menu-view-review-checker =
     .label = Provjera recenzija
+menu-view-contextual-password-manager =
+    .label = Lozinke
 sidebar-options-menu-button =
     .title = Otvori izbornik
 
@@ -50,6 +52,14 @@ sidebar-position-right =
     .label = Prikaži desno
 sidebar-vertical-tabs =
     .label = Okomite kartice
+sidebar-settings =
+    .label = Postavke bočne trake
+sidebar-hide-tabs-and-sidebar =
+    .label = Sakrij kartice i bočnu traku
+sidebar-show-on-the-right =
+    .label = Premjesti bočnu traku na desnu stranu
+sidebar-show-on-the-left =
+    .label = Premjesti bočnu traku na lijevu stranu
 sidebar-horizontal-tabs =
     .label = Vodoravne kartice
 sidebar-customize-tabs-header =
@@ -103,6 +113,8 @@ sidebar-menu-customize-label =
     .label = Prilagodi bočnu traku
 sidebar-menu-review-checker-label =
     .label = Provjera recenzija
+sidebar-menu-contextual-password-manager-label =
+    .label = Lozinke
 
 ## Tooltips for sidebar menu items.
 
@@ -130,6 +142,10 @@ sidebar-menu-close-ai-chatbot-tooltip = Zatvori UI chatbot
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
+sidebar-menu-open-ai-chatbot-tooltip-generic = Otvori UI chatbot ({ $shortcut })
+sidebar-menu-open-ai-chatbot-provider-tooltip = Otvori { $provider } ({ $shortcut })
+sidebar-menu-close-ai-chatbot-tooltip-generic = Zatvori UI chatbot ({ $shortcut })
+sidebar-menu-close-ai-chatbot-provider-tooltip = Zatvori { $provider } ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 
@@ -141,6 +157,8 @@ sidebar-menu-syncedtabs-header =
     .heading = Kartice s drugih uređaja
 sidebar-menu-bookmarks-header =
     .heading = Zabilješke
+sidebar-menu-cpm-header =
+    .heading = Lozinke
 sidebar-panel-header-close-button =
     .tooltiptext = Zatvori
 

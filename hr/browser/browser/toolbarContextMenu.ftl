@@ -31,6 +31,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Ponovno otvori zatvorene kartice
         }
     .accesskey = o
+toolbar-context-turn-on-vertical-tabs =
+    .label = Uključi okomite kartice
+toolbar-context-turn-off-vertical-tabs =
+    .label = Isključi okomite kartice
+toolbar-context-customize-sidebar =
+    .label = Prilagodi bočnu traku
 toolbar-context-menu-manage-extension =
     .label = Upravljaj proširenjem
     .accesskey = e
