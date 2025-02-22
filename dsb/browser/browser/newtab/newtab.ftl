@@ -367,6 +367,8 @@ newtab-wallpaper-abstract-purple = Wioletne formy
 newtab-wallpaper-abstract-orange = Oranžowe formy
 newtab-wallpaper-gradient-orange = Woběžk oranžowy a pink
 newtab-wallpaper-abstract-blue-purple = Módre a wioletne formy
+newtab-wallpaper-abstract-white-curves = Běły z wósenjonymi wukulowaśenjami
+newtab-wallpaper-abstract-purple-green = Wioletny a zeleny swětłowy pśeběg
 newtab-wallpaper-abstract-blue-purple-waves = Módre a wioletne žwałkate formy
 newtab-wallpaper-abstract-black-waves = Carne žwałkate formy
 
