@@ -589,7 +589,7 @@ home-prefs-shortcuts-by-option-sponsored =
 
 home-prefs-recommended-by-header =
     .label = Preporučeno od { $provider }
-home-prefs-recommended-by-description-new = Izuzetan sadržaj kojeg odabire { $provider }, dio obitelji { -brand-product-name }
+home-prefs-recommended-by-description-new = Izuzetan sadržaj kojeg odabire { $provider }, dio { -brand-product-name } obitelji
 home-prefs-recommended-by-header-generic =
     .label = Preporučene priče
 home-prefs-recommended-by-description-generic = Izniman sadržaj koji je pripremila { -brand-product-name } obitelj
@@ -618,7 +618,7 @@ home-prefs-recent-activity-description = Izbor nedavno posjećenih stranica i sa
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Kratke obavijesti
-home-prefs-snippets-description-new = Savjeti i vijesti od { -vendor-short-name } i { -brand-product-name }
+home-prefs-snippets-description-new = { -vendor-short-name } i { -brand-product-name } savijeti i novosti
 home-prefs-weather-header =
     .label = Vremenska prognoza
 home-prefs-weather-description = Današnja prognoza ukratko

@@ -91,7 +91,7 @@ shopping-settings-label =
     .label = Postavke
 shopping-settings-recommendations-toggle2 =
     .label = Prikaži preporuke i sponzorirani sadržaj
-shopping-settings-recommendations-learn-more3 = { -brand-product-name } ne dijeli vaše osobne podatke, stoga vas ove preporuke neće pratiti na internetu. <a data-l10n-name="review-quality-url">Saznajte više</a>
+shopping-settings-recommendations-learn-more3 = { -brand-product-name } ne dijeli tvoje osobne podatke, stoga te ove preporuke neće pratiti na internetu. <a data-l10n-name="review-quality-url">Saznaj više</a>
 shopping-settings-recommendations-toggle =
     .label = Prikaži oglase u pregledniku recenzija
 shopping-settings-recommendations-learn-more2 = Povremeno ćete vidjeti oglase za relevantne proizvode. Oglašavamo samo proizvode s pouzdanim recenzijama. <a data-l10n-name="review-quality-url">Saznajte više</a>
@@ -171,7 +171,7 @@ ad-by-fakespot = Oglas od { -fakespot-brand-name }
 ## Shopping survey strings.
 
 shopping-survey-headline = Pomogni poboljšati { -brand-product-name }
-shopping-survey-question-one = Koliko ste zadovoljni iskustvom s provjerom recenzija za { -brand-product-name }?
+shopping-survey-question-one = Koliko si zadovoljan/na s provjerom recenzija u { -brand-product-name }u?
 shopping-survey-q1-radio-1-label = Vrlo zadovoljan
 shopping-survey-q1-radio-2-label = Zadovoljan
 shopping-survey-q1-radio-3-label = Neutralan

@@ -38,6 +38,6 @@ report-broken-site-panel-report-sent-label = Tvoj je izvještaj poslan
 report-broken-site-panel-report-sent-header =
     .label = Tvoj je izvještaj poslan
     .title = Tvoj je izvještaj poslan
-report-broken-site-panel-report-sent-text = Hvala vam što pomažete { -brand-product-name }u učiniti web otvorenijim, dostupnijim i boljim za sve.
+report-broken-site-panel-report-sent-text = Hvala ti što pomažeš { -brand-product-name }u učiniti web otvorenijim, dostupnijim i boljim za sve.
 report-broken-site-panel-invalid-url-label = Upišite ispravan URL
 report-broken-site-panel-missing-reason-label = Odaberite razlog
