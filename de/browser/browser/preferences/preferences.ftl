@@ -237,6 +237,9 @@ browser-layout-horizontal-tabs-desc = Oben im Browser anzeigen
 browser-layout-vertical-tabs =
     .label = Vertikale Tabs
 browser-layout-vertical-tabs-desc = An der Seite anzeigen, in der Sidebar
+browser-layout-show-sidebar =
+    .label = Sidebar anzeigen
+browser-layout-show-sidebar-desc = Greifen Sie schnell auf Lesezeichen, Tabs von Ihrem Handy, KI-Chatbots und mehr zu, ohne die Hauptansicht zu verlassen.
 
 ## General Section - Language & Appearance
 
@@ -1319,6 +1322,8 @@ permissions-addon-exceptions =
 collection-header = Datenerhebung durch { -brand-short-name } und deren Verwendung
 collection-header2 = Datenerhebung durch { -brand-short-name } und deren Verwendung
     .searchkeywords = Telemetrie
+preferences-collection-description = Wir bemühen uns, Ihnen die Wahl zu lassen und nur die Daten zu sammeln, die notwendig sind, um { -brand-product-name } für alle zu verbessern.
+preferences-collection-privacy-notice = Datenschutzhinweis ansehen
 collection-description = Wir lassen Ihnen die Wahl, ob Sie uns Daten senden, und sammeln nur die Daten, welche erforderlich sind, um { -brand-short-name } für jeden anbieten und verbessern zu können. Wir fragen immer um Ihre Erlaubnis, bevor wir persönliche Daten senden.
 collection-privacy-notice = Datenschutzhinweis
 collection-health-report-telemetry-disabled = Sie gestatten { -vendor-short-name } nicht mehr, technische und Interaktionsdaten zu erfassen. Alle bisherigen Daten werden innerhalb von 30 Tagen gelöscht.
@@ -1418,6 +1423,8 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } verfügt über nu
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Nur-HTTPS-Modus
+httpsonly-description3 = Erlaubt nur sichere Verbindungen zu Websites. { -brand-short-name } wird nachfragen, bevor eine unsichere Verbindung hergestellt wird.
+httpsonly-learn-more2 = So funktioniert Nur-HTTPS
 httpsonly-description = HTTPS bietet eine sichere, verschlüsselte Verbindung zwischen { -brand-short-name } und den von Ihnen besuchten Websites. Die meisten Websites unterstützen HTTPS und wenn der Nur-HTTPS-Modus aktiviert ist, wird { -brand-short-name } alle Verbindungen zu HTTPS aufrüsten.
 httpsonly-description2 = { -brand-short-name } stellt sichere und verschlüsselte Verbindungen zu den von Ihnen besuchten Websites her. { -brand-short-name } warnt Sie, wenn eine Verbindung nicht sicher ist und der Nur-HTTPS-Modus aktiv ist.
 httpsonly-learn-more = Weitere Informationen
@@ -1427,6 +1434,9 @@ httpsonly-radio-enabled2 =
     .label = Nur HTTPS in allen Fenstern verwenden
 httpsonly-radio-enabled-pbm =
     .label = Nur-HTTPS-Modus nur in privaten Fenstern aktivieren
+httpsonly-radio-disabled3 =
+    .label = Nur-HTTPS-Modus nicht aktivieren
+    .description = { -brand-short-name } könnte trotzdem einige Verbindungen ändern
 httpsonly-radio-enabled-pbm2 =
     .label = Nur HTTPS in privaten Fenstern verwenden
 httpsonly-radio-disabled =

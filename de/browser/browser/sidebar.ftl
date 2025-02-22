@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = KI-Chatbot
 menu-view-review-checker =
     .label = Review Checker
+menu-view-contextual-password-manager =
+    .label = Passwörter
 sidebar-options-menu-button =
     .title = Menü öffnen
 
@@ -50,6 +52,18 @@ sidebar-position-right =
     .label = Rechts anzeigen
 sidebar-vertical-tabs =
     .label = Vertikale Tabs
+sidebar-settings =
+    .label = Sidebar-Einstellungen
+sidebar-hide-tabs-and-sidebar =
+    .label = Tabs und Sidebar ausblenden
+sidebar-show-on-the-right =
+    .label = Sidebar nach rechts verschieben
+sidebar-show-on-the-left =
+    .label = Sidebar nach links verschieben
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Sidebar ausklappen, wenn der Mauszeiger darauf liegt
 sidebar-horizontal-tabs =
     .label = Horizontale Tabs
 sidebar-customize-tabs-header =
@@ -103,6 +117,8 @@ sidebar-menu-customize-label =
     .label = Sidebar anpassen
 sidebar-menu-review-checker-label =
     .label = Review Checker
+sidebar-menu-contextual-password-manager-label =
+    .label = Passwörter
 
 ## Tooltips for sidebar menu items.
 
@@ -130,6 +146,9 @@ sidebar-menu-close-ai-chatbot-tooltip = KI-Chatbot schließen
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
+sidebar-menu-open-ai-chatbot-tooltip-generic = KI-Chatbot öffnen ({ $shortcut })
+sidebar-menu-open-ai-chatbot-provider-tooltip = { $provider } öffnen ({ $shortcut })
+sidebar-menu-close-ai-chatbot-tooltip-generic = KI-Chatbot schließen ({ $shortcut })
 sidebar-menu-close-ai-chatbot-provider-tooltip = { $provider } schließen ({ $shortcut })
 
 ## Headings for sidebar menu panels.
