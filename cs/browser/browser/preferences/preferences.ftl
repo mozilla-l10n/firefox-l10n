@@ -1466,6 +1466,11 @@ collection-header2 =
        *[no-cases] Sběr a používání dat o aplikaci { -brand-short-name }
     }
     .searchkeywords = telemetrie
+preferences-collection-description =
+    { -brand-product-name.case-status ->
+        [with-cases] Snažíme se vám poskytnout možnost volby a shromažďovat pouze minimum údajů nezbytných pro zlepšení { -brand-product-name(case: "gen") } pro všechny.
+       *[no-cases] Snažíme se vám poskytnout možnost volby a shromažďovat pouze minimum údajů nezbytných pro zlepšení aplikace { -brand-product-name } pro všechny.
+    }
 preferences-collection-privacy-notice = Zobrazit zásady ochrany osobních údajů
 collection-description =
     { -brand-short-name.case-status ->
@@ -1630,6 +1635,8 @@ space-alert-under-5gb-message2 =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Režim „pouze HTTPS“
+httpsonly-description3 = Umožňuje pouze zabezpečená připojení k webovým stránkám. { -brand-short-name } se před použitím nezabezpečeným připojení zeptá.
+httpsonly-learn-more2 = Jak funguje režim „pouze HTTPS“.
 httpsonly-description =
     { -brand-short-name.case-status ->
         [with-cases] Protokol HTTPS poskytuje zabezpečené, šifrované spojení mezi { -brand-short-name(case: "ins") } a navštěvovanými webovými stránkami. Většina webů protokol HTTPS podporuje, a pokud je zapnut režim „pouze HTTPS“, bude { -brand-short-name } navazovat spojení jen skrze protokol HTTPS.
@@ -1643,6 +1650,9 @@ httpsonly-radio-enabled2 =
     .label = Použít ve všech oknech pouze HTTPS
 httpsonly-radio-enabled-pbm =
     .label = Zapnout režim „pouze HTTPS“ v anonymních oknech
+httpsonly-radio-disabled3 =
+    .label = Nezapínat režim „pouze HTTPS“.
+    .description = { -brand-short-name } může stále aktualizovat některá připojení
 httpsonly-radio-enabled-pbm2 =
     .label = Použít HTTPS pouze v anonymních oknech
 httpsonly-radio-disabled =
