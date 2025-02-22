@@ -365,6 +365,7 @@ newtab-wallpaper-abstract-orange = Formas naranjas
 newtab-wallpaper-gradient-orange = Degradado naranja y rosa
 newtab-wallpaper-abstract-blue-purple = Formas azules y púrpuras
 newtab-wallpaper-abstract-white-curves = Blanco con curvas sombreadas
+newtab-wallpaper-abstract-purple-green = Gradiente de luz púrpura y verde
 newtab-wallpaper-abstract-blue-purple-waves = Formas onduladas azules y púrpuras
 newtab-wallpaper-abstract-black-waves = Formas onduladas negras
 
@@ -407,6 +408,7 @@ newtab-wallpaper-category-title-celestial = Celeste
 newtab-wallpaper-celestial-lunar-eclipse = Eclipse de luna
 newtab-wallpaper-celestial-earth-night = Foto nocturna desde la órbita baja de la tierra
 newtab-wallpaper-celestial-starry-sky = Cielo estrellado
+newtab-wallpaper-celestial-black-hole = Ilustración de una galaxia con un agujero negro
 newtab-wallpaper-celestial-river = Imagen de satelite de un rio
 
 ## New Tab Weather
