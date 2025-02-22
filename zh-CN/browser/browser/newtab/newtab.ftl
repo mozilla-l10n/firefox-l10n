@@ -360,6 +360,10 @@ newtab-wallpaper-abstract-purple = 紫色形状
 newtab-wallpaper-abstract-orange = 橙色形状
 newtab-wallpaper-gradient-orange = 橙粉渐变
 newtab-wallpaper-abstract-blue-purple = 蓝紫渐变
+newtab-wallpaper-abstract-white-curves = 白色带阴影曲线
+newtab-wallpaper-abstract-purple-green = 紫绿光渐变
+newtab-wallpaper-abstract-blue-purple-waves = 蓝色和紫色的波浪形状
+newtab-wallpaper-abstract-black-waves = 黑色波浪形状
 
 ## Celestial
 
@@ -370,6 +374,8 @@ newtab-wallpaper-storm-sky = 电闪雷鸣
 newtab-wallpaper-sky-with-pink-clouds = 飘着粉色云朵的天空
 newtab-wallpaper-red-panda-yawns-in-a-tree = 在树上打哈欠的小熊猫
 newtab-wallpaper-white-mountains = 皑白山脉
+newtab-wallpaper-hot-air-balloons = 白天各种颜色的热气球
+newtab-wallpaper-starry-canyon = 蓝色星空
 newtab-wallpaper-forest-trees = 浓雾掩映的树木
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
