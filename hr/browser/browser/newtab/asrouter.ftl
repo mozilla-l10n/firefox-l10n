@@ -304,6 +304,7 @@ root-certificate-succession-infobar-secondary-button =
 ## Root Certificate Succession Windows Background Notification
 
 root-certificate-windows-background-notification-title = Propustio/la si važno aktualiziranje { -brand-short-name(case: "gen") }
+root-certificate-windows-background-notification-subtitle = Dijelovi preglednika će uskoro prestati raditi ako ga ne aktualiziraš. Nabavi naše najnovije zaštite i funkcije.
 root-certificate-windows-background-notification-learn-more-button = Saznaj više
 root-certificate-windows-background-notification-update-button = Aktualiziraj { -brand-short-name }
 

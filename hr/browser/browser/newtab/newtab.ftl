@@ -317,6 +317,12 @@ newtab-custom-settings = Upravljaj dodatnim postavkama
 
 newtab-wallpaper-title = Pozadine
 newtab-wallpaper-reset = Obnovi na standardno
+newtab-wallpaper-upload-image = Prenesi sliku
+newtab-wallpaper-custom-color = Odaberi boju
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = Slika premašuje ograničenje veličine datoteke od { $file_size } MB. Pokušaj prenijeti manju datoteku.
+newtab-wallpaper-error-file-type = Nismo mogli prenijeti tvoju datoteku. Pokušaj ponovo s jednom drugom vrstom datoteke.
 newtab-wallpaper-light-red-panda = Crvena panda
 newtab-wallpaper-light-mountain = Bijela planina
 newtab-wallpaper-light-sky = Nebo s ljubičastim i ružičastim oblacima
