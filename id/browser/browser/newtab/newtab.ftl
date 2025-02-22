@@ -311,6 +311,12 @@ newtab-custom-settings = Kelola pengaturan lainnya
 
 newtab-wallpaper-title = Gambar latar
 newtab-wallpaper-reset = Setel ulang ke bawaan
+newtab-wallpaper-upload-image = Unggah gambar
+newtab-wallpaper-custom-color = Pilih warna
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = Gambar melebihi batas ukuran berkas sebesar { $file_size }MB. Coba unggah berkas yang lebih kecil.
+newtab-wallpaper-error-file-type = Kami tidak dapat mengunggah berkas Anda. Silakan coba lagi dengan jenis berkas yang berbeda.
 newtab-wallpaper-light-red-panda = Panda merah
 newtab-wallpaper-light-mountain = Pegunungan putih
 newtab-wallpaper-light-sky = Langit dengan awan ungu dan merah muda
@@ -354,6 +360,7 @@ newtab-wallpaper-abstract-purple = Bentuk ungu
 newtab-wallpaper-abstract-orange = Bentuk jingga
 newtab-wallpaper-gradient-orange = Gradien jingga dan merah muda
 newtab-wallpaper-abstract-blue-purple = Bentuk biru dan ungu
+newtab-wallpaper-abstract-white-curves = Putih dengan kurva berbayang
 
 ## Celestial
 

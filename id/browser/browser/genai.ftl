@@ -57,11 +57,20 @@ genai-menu-ask-provider =
     .label = Tanyakan { $provider }
 genai-menu-remove-generic =
     .label = Hapus chatbot AI
+# $provider (string) - name of the provider
+genai-menu-remove-provider =
+    .label = Hapus { $provider }
 genai-input-ask-generic =
     .placeholder = Tanyakan chatbot AI…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Tanyakan { $provider }…
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } tidak akan mendapatkan pilihan lengkap Anda
+    .message = Anda telah memilih sekitar { $selectionLength } karakter. Banyaknya karakter yang dapat kami kirim ke { $provider } adalah sekitar { $maxLength }.
 genai-shortcuts-hide =
     .label = Sembunyikan pintasan bot obrolan
 
