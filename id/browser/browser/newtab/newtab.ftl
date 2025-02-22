@@ -361,6 +361,9 @@ newtab-wallpaper-abstract-orange = Bentuk jingga
 newtab-wallpaper-gradient-orange = Gradien jingga dan merah muda
 newtab-wallpaper-abstract-blue-purple = Bentuk biru dan ungu
 newtab-wallpaper-abstract-white-curves = Putih dengan kurva berbayang
+newtab-wallpaper-abstract-purple-green = Gradien ungu dan hijau terang
+newtab-wallpaper-abstract-blue-purple-waves = Bentuk bergelombang biru dan ungu
+newtab-wallpaper-abstract-black-waves = Bentuk hitam bergelombang
 
 ## Celestial
 
@@ -371,6 +374,10 @@ newtab-wallpaper-storm-sky = Langit badai
 newtab-wallpaper-sky-with-pink-clouds = Langit dengan awan merah muda
 newtab-wallpaper-red-panda-yawns-in-a-tree = Panda merah menguap di pohon
 newtab-wallpaper-white-mountains = Pegunungan putih
+newtab-wallpaper-hot-air-balloons = Aneka warna balon udara panas di siang hari
+newtab-wallpaper-starry-canyon = Malam biru berbintang
+newtab-wallpaper-sand-dunes = Bukit pasir putih
+newtab-wallpaper-forest-trees = Pepohonan tertutup kabut
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -388,6 +395,11 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+newtab-wallpaper-celestial-lunar-eclipse = Gerhana bulan
+newtab-wallpaper-celestial-earth-night = Foto malam dari orbit rendah Bumi
+newtab-wallpaper-celestial-starry-sky = Langit berbintang
+newtab-wallpaper-celestial-black-hole = Ilustrasi galaksi lubang hitam
+newtab-wallpaper-celestial-river = Citra satelit sungai
 
 ## New Tab Weather
 
@@ -483,6 +495,8 @@ newtab-section-confirm-block-section-p1 = Yakin ingin memblokir bagian ini?
 newtab-section-confirm-block-section-p2 = Bagian yang diblokir tidak akan muncul lagi di asupan Anda.
 newtab-section-block-section-button = Blokir bagian ini
 newtab-section-cancel-button = Jangan sekarang
+newtab-section-confirm-block-topic-p1 = Yakin ingin memblokir topik ini?
+newtab-section-confirm-block-topic-p2 = Topik yang diblokir tidak akan muncul lagi di asupan Anda.
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 

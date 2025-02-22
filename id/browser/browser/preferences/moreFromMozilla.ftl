@@ -35,3 +35,5 @@ more-from-moz-mozilla-monitor-button = Dapatkan { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
+more-from-moz-solo-description = Buat situs web Anda secara instan dan hubungkan domain ubahan Anda sendiri secara gratis.
+more-from-moz-solo-button = Coba { -solo-ai-brand-name }
