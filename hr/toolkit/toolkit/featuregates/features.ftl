@@ -6,6 +6,7 @@
 # by various online articles and is technical in nature.
 experimental-features-css-masonry2 =
     .label = CSS: Masonry raspored
+experimental-features-css-masonry-description = Omogućuje podršku za eksperimentalnu CSS funkciju „Masonry raspored”. Pogledaj <a data-l10n-name="explainer">objašnjenje</a> za opis funkcije. Povratne informacije pošalji u<a data-l10n-name="w3c-issue">ovaj GitHub problem</a> ili <a data-l10n-name="bug">ovu grešku</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =

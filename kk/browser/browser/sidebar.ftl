@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = ЖИ чатботы
 menu-view-review-checker =
     .label = Пікірлерді тексеру
+menu-view-contextual-password-manager =
+    .label = Парольдер
 sidebar-options-menu-button =
     .title = Мәзірді ашу
 
@@ -111,6 +113,8 @@ sidebar-menu-customize-label =
     .label = Бүйір панелін баптау
 sidebar-menu-review-checker-label =
     .label = Пікірлерді тексеру
+sidebar-menu-contextual-password-manager-label =
+    .label = Парольдер
 
 ## Tooltips for sidebar menu items.
 
@@ -152,6 +156,8 @@ sidebar-menu-syncedtabs-header =
     .heading = Басқа құрылғылардан беттер
 sidebar-menu-bookmarks-header =
     .heading = Бетбелгілер
+sidebar-menu-cpm-header =
+    .heading = Парольдер
 sidebar-panel-header-close-button =
     .tooltiptext = Жабу
 
