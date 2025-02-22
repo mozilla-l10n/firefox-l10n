@@ -60,6 +60,7 @@ policy-DisableSecurityBypass = Spriječite korisnika da zaobiđe određena sigur
 policy-DisableSetAsDesktopBackground = Onemogućite naredbu izbornika Postavi kao pozadinu radne površine.
 policy-DisableSystemAddonUpdate = Spriječi instaliranje i aktualiziranje sustavskih dodataka u pregledniku.
 policy-DisableTelemetry = Isključi telemetriju.
+policy-DisableThirdPartyModuleBlocking = Spriječi korisnika da blokira module trećih strana koji se ubacuju u { -brand-short-name } proces.
 policy-DisplayBookmarksToolbar = Standardno prikaži alatnu traku zabilješki.
 policy-DisplayMenuBar = Standardno prikaži traku izbornika.
 policy-DNSOverHTTPS = Podesi DNS preko HTTPS-a.
@@ -109,6 +110,9 @@ policy-OverrideFirstRunPage = Poništi postavke početne stranice. Postavi ovo p
 policy-OverridePostUpdatePage = Poništi stranicu „Što je novo” nakon aktualiziranja. Postavi ovo pravilo na prazno, ako želiš deaktivirati stranicu nakon aktualiziranja.
 policy-PasswordManagerEnabled = Aktiviraj spremanje lozinki u upravljaču lozinki.
 policy-PasswordManagerExceptions = Spriječi { -brand-short-name } da sprema lozinke za određene web stranice.
+# Post-quantum refers to cryptography that is safe from attacks by quantum
+# computers. See https://en.wikipedia.org/wiki/Post-quantum_cryptography
+policy-PostQuantumKeyAgreementEnabled = Aktiviraj postkvantni dogovor ključa za TLS.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Deaktiviraj ili konfiguriraj PDF.js, ugrađeni čitač PDF-a u { -brand-short-name(case: "loc") }.
 policy-Permissions2 = Podesi dozvole za kameru, mikrofon, mjesto, obavijesti i automatsku reprodukciju.

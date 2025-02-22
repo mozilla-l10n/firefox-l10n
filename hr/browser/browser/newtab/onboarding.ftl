@@ -462,3 +462,6 @@ multi-profile-callout-cta = Stvori profil
 # If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
 desktop-to-mobile-headline = Preuzmi, sinkroniziraj i kreni!
 dismiss-button-label = Odbaci
+sync-to-mobile-button-label = Sinkronizacija s mobitelom
+desktop-to-mobile-qr-code-alt =
+    .aria-label = QR kod za preuzimanje { -brand-product-name }a za mobitel
