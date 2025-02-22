@@ -19,3 +19,7 @@ all-tabs-menu-close-all-duplicate-tabs =
 all-tabs-menu-synced-tabs =
     .label = แท็บจากอุปกรณ์อื่น ๆ
 all-tabs-menu-current-window-header = หน้าต่างปัจจุบัน
+# "Show all" is for showing all open groups as well as saved groups. Initially,
+# we only show up to five of these groups.
+all-tabs-menu-tab-groups-show-all =
+    .label = แสดงทั้งหมด
