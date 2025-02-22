@@ -448,6 +448,11 @@ onboarding-checklist-sign-up = Registrati o accedi al tuo account
 
 tab-groups-onboarding-feature-callout-title = Prova i gruppi di schede per ridurre il disordine e aumentare la concentrazione.
 tab-groups-onboarding-feature-callout-subtitle = Organizzati trascinando una scheda sopra l’altra per creare il tuo primo gruppo.
+tab-groups-onboarding-create-group-title-2 = Trova qui i tuoi gruppi di schede in qualsiasi momento.
+tab-groups-onboarding-create-group-no-alltabs-button-title = Trova i tuoi gruppi cercandoli nella barra degli indirizzi.
+tab-groups-onboarding-saved-groups-title-2 = Quando chiudi un gruppo di schede, puoi riaprirlo qui in qualsiasi momento.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Trova i gruppi che hai chiuso cercandoli nella barra degli indirizzi.
+tab-groups-onboarding-session-restore-title = Riapri qui i gruppi di schede in qualsiasi momento.
 tab-groups-onboarding-saved-groups-title = Se chiudi un gruppo di schede, puoi riaprirlo qui in qualsiasi momento.
 tab-groups-onboarding-dismiss = OK
 
