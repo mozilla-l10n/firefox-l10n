@@ -149,6 +149,7 @@ preferences-data-migration-button =
     .label = Daty importěrowaś
     .accesskey = D
 preferences-profiles-header = Profile
+preferences-manage-profiles-description = Kuždy profil ma druge pśeglědowańske daty a nastajenja, mjazy nimi historiju, gronidła a wěcej.
 preferences-manage-profiles-learn-more = Dalšne informacije
 preferences-manage-profiles-button =
     .label = Profile zastojaś
