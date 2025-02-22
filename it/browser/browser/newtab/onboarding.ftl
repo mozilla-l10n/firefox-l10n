@@ -448,9 +448,7 @@ onboarding-checklist-sign-up = Registrati o accedi al tuo account
 
 tab-groups-onboarding-feature-callout-title = Prova i gruppi di schede per ridurre il disordine e aumentare la concentrazione.
 tab-groups-onboarding-feature-callout-subtitle = Organizzati trascinando una scheda sopra l’altra per creare il tuo primo gruppo.
-tab-groups-onboarding-create-group-title = Trova i gruppi attualmente aperti nella barra delle schede o cercandoli nella barra degli indirizzi.
 tab-groups-onboarding-saved-groups-title = Se chiudi un gruppo di schede, puoi riaprirlo qui in qualsiasi momento.
-tab-groups-onboarding-saved-groups-no-alltabs-button-title = Puoi trovare i gruppi di schede, sia aperti che chiusi, in qualsiasi momento effettuando una ricerca nella barra degli indirizzi.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages
