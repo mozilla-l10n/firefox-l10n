@@ -134,4 +134,14 @@ unified-search-callout-subtitle = Vyberte si, co je pro vaše konkrétní vyhled
 unified-search-callout-primary-label = Další
 unified-search-callout-secondary-label = Zavřít
 unified-search-engines-callout-title = Hledejte pomocí zkratky
+unified-search-engines-callout-subtitle = Chcete-li vyhledávat v historii, záložkách, panelech nebo pomocí jiného vyhledávače, napište "@" následované klíčovým slovem.
 unified-search-engines-callout-primary-label = Rozumím
+actions-callout-title = Dokončete běžné úkoly nebo přejděte do základního nastavení
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearhistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = Zkuste zadat například “tisk” pro vytištění stránky, nebo “vymazat” pro vymazání historie prohlížení.

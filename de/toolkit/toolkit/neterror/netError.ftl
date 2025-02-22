@@ -44,6 +44,7 @@ neterror-load-error-connection = Wenn Sie auch keine andere Website aufrufen kö
 neterror-load-error-firewall = Wenn Ihr Computer oder Netzwerk von einer Firewall oder einem Proxy geschützt wird, stellen Sie bitte sicher, dass { -brand-short-name } auf das Internet zugreifen darf.
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Wenn Sie versuchen, einee Seite im lokalen Netzwerk zu laden, überprüfen Sie bitte, ob { -brand-short-name } in den macOS-Datenschutz- & -Sicherheitseinstellungen die Berechtigung "Lokales Netzwerk" erhalten hat.
+neterror-http-error-page = Vergewissern Sie sich, dass Sie die Adresse der Website richtig eingegeben haben.
 neterror-captive-portal = Sie müssen sich bei dem Netzwerk anmelden, um auf das Internet zugreifen zu können.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
