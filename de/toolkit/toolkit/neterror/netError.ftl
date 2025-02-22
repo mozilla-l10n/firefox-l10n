@@ -100,6 +100,9 @@ neterror-proxy-connect-failure-settings = Überprüfen Sie bitte, ob die Proxy-E
 neterror-proxy-connect-failure-contact-admin = Kontaktieren Sie bitte Ihren Netzwerk-Administrator, um sicherzustellen, dass der Proxy-Server funktioniert
 neterror-content-encoding-error = Kontaktieren Sie bitte den Inhaber der Website, um ihn über dieses Problem zu informieren.
 neterror-unsafe-content-type = Bitte kontaktieren Sie die Webseitenbetreiber, um sie über dieses Problem zu informieren.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-basic-http-auth = { -brand-short-name } vertraut { $hostname } nicht, weil die Verbindung nicht sicher ist. Versuchen Sie, die URL in HTTPS zu ändern.
 neterror-nss-failure-not-verified = Die Website kann nicht angezeigt werden, da die Authentizität der erhaltenen Daten nicht verifiziert werden konnte.
 neterror-nss-failure-contact-website = Kontaktieren Sie bitte den Inhaber der Website, um ihn über dieses Problem zu informieren.
 # Variables:
