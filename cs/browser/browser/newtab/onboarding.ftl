@@ -629,6 +629,7 @@ onboarding-checklist-sign-up = Zaregistrujte se nebo se přihlaste ke svému ú�
 
 tab-groups-onboarding-feature-callout-title = Vyzkoušejte skupiny karet, abyste měli méně nepořádku a více se soustředili.
 tab-groups-onboarding-feature-callout-subtitle = Vytvořte si pořádek přesunutím jednoho panelu na druhý, čímž vytvoříte svoji první skupinu.
+tab-groups-onboarding-create-group-title = Otevřené skupiny najdete na liště panelů nebo je vyhledáte v adresním řádku.
 tab-groups-onboarding-saved-groups-title = Pokud skupinu panelů zavřete, můžete ji zde kdykoli znovu otevřít.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title = Vyhledáním v adresním řádku můžete kdykoli najít otevřené nebo zavřené skupiny panelů.
 tab-groups-onboarding-dismiss = OK
@@ -650,5 +651,13 @@ multi-profile-callout-cta = Vytvořit profil
 
 # If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
 desktop-to-mobile-headline = Stáhněte, synchronizujte a vyrazte na cesty!
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Naskenujte QR kód a stáhněte si { -brand-product-name } pro mobilní zařízení. Po instalaci vyberte možnost "Synchronizovat s mobilním telefonem" a získejte přístup ke svým heslům, záložkám a dalším údajům na cestách.
 dismiss-button-label = Zavřít
 sync-to-mobile-button-label = Synchronizace s mobilem
+desktop-to-mobile-qr-code-alt =
+    .aria-label =
+        { -brand-product-name.case-status ->
+            [with-cases] QR kód pro stažení { -brand-product-name(case: "gen") } pro mobilní zařízení
+           *[no-cases] QR kód pro stažení aplikace { -brand-product-name } pro mobilní zařízení
+        }
