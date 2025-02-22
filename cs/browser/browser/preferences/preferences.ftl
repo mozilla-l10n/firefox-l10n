@@ -193,6 +193,7 @@ preferences-data-migration-button =
     .label = Import dat
     .accesskey = m
 preferences-profiles-header = Profily
+preferences-manage-profiles-description = Každý profil má samostatné údaje o procházení a nastavení, včetně historie, hesel a dalších údajů.
 preferences-manage-profiles-learn-more = Zjistit více
 preferences-manage-profiles-button =
     .label = Správa profilů
@@ -289,6 +290,7 @@ browser-layout-vertical-tabs =
 browser-layout-vertical-tabs-desc = Zobrazují se v postranním panelu
 browser-layout-show-sidebar =
     .label = Zobrazit postranní lištu
+browser-layout-show-sidebar-desc = Získejte rychlý přístup k záložkám, panelům z telefonu, AI chatbotu a dalším bez toho, abyste opustili hlavní okno.
 
 ## General Section - Language & Appearance
 
