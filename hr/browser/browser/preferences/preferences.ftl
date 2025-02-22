@@ -1312,6 +1312,7 @@ permissions-addon-exceptions =
 collection-header = { -brand-short-name } – prikupljanje i upotreba podataka
 collection-header2 = { -brand-short-name } – prikupljanje i upotreba podataka
     .searchkeywords = telemetrija
+preferences-collection-description = Nastojimo pružiti izbor i prikupiti samo potrebne podatke za poboljšanje { -brand-product-name }a za sve.
 preferences-collection-privacy-notice = Pogledaj napomenu o privatnosti
 collection-description = Želimo ti omogućiti izbor i prikupljati samo ono što nam treba da bismo pružali i unaprijedili { -brand-short-name } za sve. Uvijek pitamo za dozvolu prije nego što počnemo primati osobne informacije.
 collection-privacy-notice = Napomena o privatnosti
@@ -1412,6 +1413,7 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name(case: "dat") } pone
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = „Samo HTTPS” modus
+httpsonly-learn-more2 = Kako funkcionira modus „Samo HTTPS”
 httpsonly-description = HTTPS pruža sigurnu, šifriranu vezu između { -brand-short-name(case: "gen") } i web stranica koje posjećuješ. Većina web stranica podržava HTTPS, a ako je aktiviran „Samo HTTPS” modus, tada će { -brand-short-name } nadograditi sve veze na HTTPS.
 httpsonly-description2 = { -brand-short-name } stvara sigurne i šifrirane veze sa stranicama koje posjećuješ. { -brand-short-name } će te upozoriti ukoliko veza nije sigurna kada je uključena opcija „Samo HTTPS”.
 httpsonly-learn-more = Saznaj više
@@ -1421,6 +1423,9 @@ httpsonly-radio-enabled2 =
     .label = Koristi samo HTTPS u svim prozorima
 httpsonly-radio-enabled-pbm =
     .label = Aktiviraj „Samo HTTPS” modus samo u privatnim prozorima
+httpsonly-radio-disabled3 =
+    .label = Ne aktiviraj modus „Samo HTTPS”
+    .description = { -brand-short-name } će možda i nadalje nadograditi neke veze
 httpsonly-radio-enabled-pbm2 =
     .label = Koristi samo HTTPS u privatnim prozorima
 httpsonly-radio-disabled =
