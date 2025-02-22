@@ -531,6 +531,7 @@ pdfjs-editor-undo-bar-close-button-label = Zavřít
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-label = Tento způsob umožňuje uživateli vytvořit podpis, který se přidá do dokumentu PDF. Uživatel může upravit jméno (které slouží zároveň jako alternativní text) a podpis uložit pro pozdější použití.
 pdfjs-editor-add-signature-dialog-title = Přidat podpis
 
 ## Tab names
@@ -551,6 +552,16 @@ pdfjs-editor-add-signature-type-input =
     .placeholder = Zadejte svůj podpis
 pdfjs-editor-add-signature-draw-placeholder = Nakreslete svůj podpis
 pdfjs-editor-add-signature-draw-thickness-range-label = Tloušťka
+# Variables:
+#   $thickness (Number) - the thickness (in pixels) of the line used to draw a signature.
+pdfjs-editor-add-signature-draw-thickness-range =
+    .title = Tloušťka kresby: { $thickness }
+pdfjs-editor-add-signature-image-placeholder = Pro nahrání přetáhněte soubor sem
+pdfjs-editor-add-signature-image-browse-link =
+    { PLATFORM() ->
+        [macos] Nebo vyberte soubory s obrázky
+       *[other] Nebo vyberte soubory s obrázky
+    }
 
 ## Controls
 
