@@ -103,3 +103,11 @@ unified-search-engines-callout-title = Traži pomoću prečaca
 unified-search-engines-callout-subtitle = Upiši „@” i ključnu riječ za pretraživanje povijesti, zabilješki, kartica ili za pretraživanje pomoću jedne druge tražilice.
 unified-search-engines-callout-primary-label = Razumijem
 actions-callout-title = Dovrši uobičajene zadatke ili pristupi osnovnim postavkama
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearhistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = Pokušaj upisati radnju poput „ispiši” za ispis stranice ili „izbriši” za brisanje povijesti.

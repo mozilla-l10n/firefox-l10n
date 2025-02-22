@@ -59,6 +59,11 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Pitaj { $provider }
+genai-menu-remove-generic =
+    .label = Ukloni UI chatbot
+# $provider (string) - name of the provider
+genai-menu-remove-provider =
+    .label = Ukloni { $provider }
 genai-input-ask-generic =
     .placeholder = Pitaj UI chatbota …
 # $provider (string) - name of the provider
