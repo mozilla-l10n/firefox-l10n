@@ -376,6 +376,9 @@ newtab-wallpaper-red-panda-yawns-in-a-tree = 在树上打哈欠的小熊猫
 newtab-wallpaper-white-mountains = 皑白山脉
 newtab-wallpaper-hot-air-balloons = 白天各种颜色的热气球
 newtab-wallpaper-starry-canyon = 蓝色星空
+newtab-wallpaper-suspension-bridge = 白天时的灰色全悬索桥照片
+newtab-wallpaper-sand-dunes = 白色沙丘
+newtab-wallpaper-palm-trees = 魔术光下的椰子树侧影
 newtab-wallpaper-forest-trees = 浓雾掩映的树木
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
@@ -394,9 +397,16 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = 天体
 newtab-wallpaper-celestial-lunar-eclipse = 月食
+newtab-wallpaper-celestial-earth-night = 从近地轨道拍摄的夜晚照片
 newtab-wallpaper-celestial-starry-sky = 星空
 newtab-wallpaper-celestial-eclipse-time-lapse = 月食延时照片
+newtab-wallpaper-celestial-black-hole = 黑洞星空图
+newtab-wallpaper-celestial-river = 河流卫星图
 
 ## New Tab Weather
 
