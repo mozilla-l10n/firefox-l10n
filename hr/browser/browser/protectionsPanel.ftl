@@ -74,6 +74,7 @@ protections-panel-not-found-label = Ništa otkriveno
 
 ## Smartblock strings
 
+protections-panel-smartblock-desc-label = { -brand-short-name } blokira praćenje sadržaja dok si na ovoj stranici osim ako to dozvoliš.
 # Variables
 #  $trackername (String): the name of the tracker that is currently being blocked.
 protections-panel-smartblock-blocking-toggle =

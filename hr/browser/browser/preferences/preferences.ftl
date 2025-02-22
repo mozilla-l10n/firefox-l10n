@@ -148,6 +148,11 @@ preferences-data-migration-description = Uvezi zabilješke, lozinke, povijest i 
 preferences-data-migration-button =
     .label = Uvezi podatke
     .accesskey = U
+preferences-profiles-header = Profili
+preferences-manage-profiles-description = Svaki profil ima zasebne podatke o pregledavanju i postavke, uključujući povijest, lozinke i drugo.
+preferences-manage-profiles-learn-more = Saznaj više
+preferences-manage-profiles-button =
+    .label = Upravljaj profilima
 tabs-group-header = Kartice
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab kruži kroz kartice redoslijedom zadnjeg korištenja
@@ -228,6 +233,15 @@ containers-remove-cancel-button = Nemoj ukloniti ovaj kontejner
 settings-tabs-show-image-in-preview =
     .label = Prikaži pregled slike kada prelaziš pokazivačem na kartici
     .accessKey = P
+browser-layout-header = Raspored preglednika
+browser-layout-horizontal-tabs =
+    .label = Vodoravne kartice
+browser-layout-horizontal-tabs-desc = Prikaži u gornjem dijelu preglednika
+browser-layout-vertical-tabs =
+    .label = Okomite kartice
+browser-layout-vertical-tabs-desc = Prikaži na strani, u bočnoj traci
+browser-layout-show-sidebar =
+    .label = Prikaži bočnu traku
 browser-layout-show-sidebar-desc = Brzo pristupi zabilješkama, karticama s telefona, UI chatbotovima i još mnogo toga bez napuštanja glavnog prikaza.
 
 ## General Section - Language & Appearance
@@ -1413,6 +1427,7 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name(case: "dat") } pone
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = „Samo HTTPS” modus
+httpsonly-description3 = Dozvoljava samo sigurne veze s web-stranicama. { -brand-short-name } će pitati prije nesigurnog povezivanja.
 httpsonly-learn-more2 = Kako funkcionira modus „Samo HTTPS”
 httpsonly-description = HTTPS pruža sigurnu, šifriranu vezu između { -brand-short-name(case: "gen") } i web stranica koje posjećuješ. Većina web stranica podržava HTTPS, a ako je aktiviran „Samo HTTPS” modus, tada će { -brand-short-name } nadograditi sve veze na HTTPS.
 httpsonly-description2 = { -brand-short-name } stvara sigurne i šifrirane veze sa stranicama koje posjećuješ. { -brand-short-name } će te upozoriti ukoliko veza nije sigurna kada je uključena opcija „Samo HTTPS”.
