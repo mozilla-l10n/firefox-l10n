@@ -170,7 +170,7 @@ ad-by-fakespot = Oglas od { -fakespot-brand-name }
 
 ## Shopping survey strings.
 
-shopping-survey-headline = Pomozite poboljšati { -brand-product-name }
+shopping-survey-headline = Pomogni poboljšati { -brand-product-name }
 shopping-survey-question-one = Koliko ste zadovoljni iskustvom s provjerom recenzija za { -brand-product-name }?
 shopping-survey-q1-radio-1-label = Vrlo zadovoljan
 shopping-survey-q1-radio-2-label = Zadovoljan
