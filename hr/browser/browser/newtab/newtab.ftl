@@ -376,6 +376,7 @@ newtab-wallpaper-storm-sky = Olujno nebo
 newtab-wallpaper-sky-with-pink-clouds = Nebo s ružičastim oblacima
 newtab-wallpaper-red-panda-yawns-in-a-tree = Crvena panda zijeva na drvetu
 newtab-wallpaper-white-mountains = Bijele planine
+newtab-wallpaper-forest-trees = Drveće prekriveno maglom
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -393,6 +394,8 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+newtab-wallpaper-celestial-lunar-eclipse = Pomrčina mjeseca
+newtab-wallpaper-celestial-starry-sky = Zvjezdano nebo
 
 ## New Tab Weather
 
