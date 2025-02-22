@@ -228,6 +228,7 @@ containers-remove-cancel-button = Nemoj ukloniti ovaj kontejner
 settings-tabs-show-image-in-preview =
     .label = Prikaži pregled slike kada prelaziš pokazivačem na kartici
     .accessKey = P
+browser-layout-show-sidebar-desc = Brzo pristupi zabilješkama, karticama s telefona, UI chatbotovima i još mnogo toga bez napuštanja glavnog prikaza.
 
 ## General Section - Language & Appearance
 
@@ -1311,6 +1312,7 @@ permissions-addon-exceptions =
 collection-header = { -brand-short-name } – prikupljanje i upotreba podataka
 collection-header2 = { -brand-short-name } – prikupljanje i upotreba podataka
     .searchkeywords = telemetrija
+preferences-collection-privacy-notice = Pogledaj napomenu o privatnosti
 collection-description = Želimo ti omogućiti izbor i prikupljati samo ono što nam treba da bismo pružali i unaprijedili { -brand-short-name } za sve. Uvijek pitamo za dozvolu prije nego što počnemo primati osobne informacije.
 collection-privacy-notice = Napomena o privatnosti
 collection-health-report-telemetry-disabled = Više ne dopuštaš { -vendor-short-name } snimanje tehničkih podataka i podataka o interakciji. Svi stari podaci biti će izbrisani u roku od 30 dana.
