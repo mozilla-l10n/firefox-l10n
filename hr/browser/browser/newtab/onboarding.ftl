@@ -200,7 +200,7 @@ mr2022-onboarding-set-default-only-subtitle = Započni s preglednikom koji podr�
 ## MR2022 Existing User Pin Firefox Screen Strings
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
-mr2022-onboarding-existing-pin-header = Hvala vam što volite { -brand-product-name }
+mr2022-onboarding-existing-pin-header = Hvala ti što voliš { -brand-product-name }
 # Subtitle is used on onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-subtitle = Pokreni zdraviji internet s bilo kojeg mjesta jednim klikom. Naša najnovija izdanja su prepuna novih stvari za koje mislimo da ćeš ih obožavati.
 # Subtitle will be used on the welcome screen for existing users
@@ -275,7 +275,7 @@ mr2022-onboarding-colorway-description-innovator = <b>Ti si inovator.</b> Posvud
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = Prebaci se s prijenosnog računala na mobitel i natrag
-mr2022-onboarding-mobile-download-subtitle = Ugrabi kartice s jednog uređaja i nastavi tamo gdje si stao/la na drugom. Osim toga, sinkroniziraj zabilješke i lozinke gdje god koristiš { -brand-product-name }.
+mr2022-onboarding-mobile-download-subtitle = Ugrabi kartice s jednog uređaja i nastavi tamo gdje si stao/la na drugom uređaju. Osim toga, sinkroniziraj zabilješke i lozinke gdje god koristiš { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Snimi QR kod za preuzimanje { -brand-product-name } za mobilni uređaj ili si <a data-l10n-name="download-label">pošalji poveznicu za preuzimanje.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Snimi QR kod za preuzimanje { -brand-product-name } za mobilni uređaj.
 
@@ -293,7 +293,7 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 ## MR2022 Privacy Segmentation screen strings
 
 mr2022-onboarding-privacy-segmentation-title = Uvijek poštujemo tvoju privatnost
-mr2022-onboarding-privacy-segmentation-subtitle = Od inteligentnih prijedloga do pametnijeg pretraživanja, neprestano radimo na stvaranju boljeg, osobnijeg { -brand-product-name(case: "gen") }.
+mr2022-onboarding-privacy-segmentation-subtitle = Od inteligentnih prijedloga do pametnijeg pretraživanja, neprestano radimo na stvaranju boljeg, osobnijeg { -brand-product-name }a.
 mr2022-onboarding-privacy-segmentation-text-cta = Što želiš vidjeti kada ponudimo nove funkcije koje koriste tvoje podatke za poboljšanje pregledavanja?
 mr2022-onboarding-privacy-segmentation-button-primary-label = Koristi { -brand-product-name } preporuke
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Prikaži detaljne informacije
@@ -321,7 +321,7 @@ mr2022-onboarding-default-image-alt =
 mr2022-onboarding-import-image-alt =
     .aria-label = Osoba koja vozi skateboard s kutijom softverskih ikona
 mr2022-onboarding-mobile-download-image-alt =
-    .aria-label = Žabe koje skaču po ljiljanima s QR kodom za preuzimanje { -brand-product-name } za mobitel u centru
+    .aria-label = Žabe koje skaču po ljiljanima s QR kodom za preuzimanje { -brand-product-name }a za mobilne uređaje u centru
 mr2022-onboarding-pin-private-image-alt =
     .aria-label = Čarobni štapić prikazuje { -brand-product-name } logotip privatnog pregledavanja iz šešira
 mr2022-onboarding-privacy-segmentation-image-alt =
