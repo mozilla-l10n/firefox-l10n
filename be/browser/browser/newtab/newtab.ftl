@@ -317,6 +317,8 @@ newtab-custom-settings = Кіраваць дадатковымі наладам�
 
 newtab-wallpaper-title = Шпалеры
 newtab-wallpaper-reset = Скінуць да прадвызначаных
+newtab-wallpaper-upload-image = Зацягнуць выяву
+newtab-wallpaper-custom-color = Выберыце колер
 newtab-wallpaper-light-red-panda = Чырвоная панда
 newtab-wallpaper-light-mountain = Белая гара
 newtab-wallpaper-light-sky = Неба з фіялетавымі і ружовымі аблокамі

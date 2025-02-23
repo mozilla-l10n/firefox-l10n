@@ -528,31 +528,69 @@ pdfjs-editor-undo-bar-close-button-label = Закрыць
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-label = Гэты рэжым дазваляе карыстальніку ствараць подпіс для дадання ў дакумент PDF. Карыстальнік можа рэдагаваць імя (якое таксама служыць альтэрнатыўным тэкстам) і пры жаданні захаваць подпіс для паўторнага выкарыстання.
+pdfjs-editor-add-signature-dialog-title = Дадаць подпіс
 
 ## Tab names
 
+# Type is a verb (you can type your name as signature)
+pdfjs-editor-add-signature-type-button = Увод
+    .title = Увод
+# Draw is a verb (you can draw your signature)
+pdfjs-editor-add-signature-draw-button = Маляваць
+    .title = Маляваць
+pdfjs-editor-add-signature-image-button = Выява
+    .title = Выява
 
 ## Tab panels
 
+pdfjs-editor-add-signature-type-input =
+    .aria-label = Увядзіце свой подпіс
+    .placeholder = Увядзіце свой подпіс
+pdfjs-editor-add-signature-draw-placeholder = Намалюйце свой подпіс
+pdfjs-editor-add-signature-draw-thickness-range-label = Таўшчыня
+# Variables:
+#   $thickness (Number) - the thickness (in pixels) of the line used to draw a signature.
+pdfjs-editor-add-signature-draw-thickness-range =
+    .title = Таўшчыня малюнка: { $thickness }
+pdfjs-editor-add-signature-image-placeholder = Перацягнуць файл сюды, каб загрузіць
+pdfjs-editor-add-signature-image-browse-link =
+    { PLATFORM() ->
+        [macos] Або праглядайце файлы малюнкаў
+       *[other] Або праглядайце файлы малюнкаў
+    }
 
 ## Controls
 
+pdfjs-editor-add-signature-description-label = Апісанне (альтэрнатыўны тэкст)
+pdfjs-editor-add-signature-description-input =
+    .title = Апісанне (альтэрнатыўны тэкст)
+pdfjs-editor-add-signature-description-default-when-drawing = Подпіс
 pdfjs-editor-add-signature-clear-button-label = Выдаліць подпіс
 pdfjs-editor-add-signature-clear-button =
     .title = Выдаліць подпіс
 pdfjs-editor-add-signature-save-checkbox = Захаваць подпіс
+pdfjs-editor-add-signature-save-warning-message = Вы дасягнулі ліміту ў 5 захаваных подпісаў. Выдаліце адзін, каб захаваць іншы.
+pdfjs-editor-add-signature-image-upload-error-title = Не ўдалося загрузіць выяву
+pdfjs-editor-add-signature-image-upload-error-description = Праверце падключэнне да сеткі ці паспрабуйце іншую выяву.
 pdfjs-editor-add-signature-error-close-button = Закрыць
 
 ## Dialog buttons
 
 pdfjs-editor-add-signature-cancel-button = Скасаваць
 pdfjs-editor-add-signature-add-button = Дадаць
+pdfjs-editor-edit-signature-update-button = Абнавіць
 
 ## Main menu for adding/removing signatures
 
+pdfjs-editor-delete-signature-button =
+    .title = Выдаліць подпіс
+pdfjs-editor-delete-signature-button-label = Выдаліць подпіс
 
 ## Editor toolbar
 
+pdfjs-editor-add-signature-edit-button-label = Рэдагаваць апісанне
 
 ## Edit signature description dialog
 
+pdfjs-editor-edit-signature-dialog-title = Рэдагаваць апісанне
