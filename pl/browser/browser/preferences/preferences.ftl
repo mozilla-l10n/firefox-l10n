@@ -148,6 +148,7 @@ preferences-data-migration-description = Importuj zakładki, hasła, historię i
 preferences-data-migration-button =
     .label = Importuj dane
     .accesskey = m
+preferences-profiles-header = Profile
 tabs-group-header = Karty
 ctrl-tab-recently-used-order =
     .label = Przełączanie kart za pomocą Ctrl+Tab w kolejności ostatnich wyświetleń
