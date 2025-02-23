@@ -149,6 +149,7 @@ preferences-data-migration-button =
     .label = Importer data
     .accesskey = m
 preferences-profiles-header = Profiler
+preferences-manage-profiles-description = Hver profil har forskellige browsing-data og -indstillinger, inklusive historik, adgangskoder med mere.
 preferences-manage-profiles-learn-more = Læs mere
 preferences-manage-profiles-button =
     .label = Håndter profiler
@@ -238,6 +239,7 @@ browser-layout-vertical-tabs =
 browser-layout-vertical-tabs-desc = Vis i siden, i sidepanelet
 browser-layout-show-sidebar =
     .label = Vis sidepanel
+browser-layout-show-sidebar-desc = Få hurtig adgang til bogmærker, faneblade fra din telefon, AI-chatbots og mere uden at forlade din primære visning.
 
 ## General Section - Language & Appearance
 
@@ -1320,6 +1322,7 @@ permissions-addon-exceptions =
 collection-header = Indsamling og brug af data i { -brand-short-name }
 collection-header2 = Indsamling og brug af data i { -brand-short-name }
     .searchkeywords = telemetry
+preferences-collection-description = Vi stræber efter at give dig mulighed for at vælge og indsamler kun data, der er nødvendige for at forbedre { -brand-product-name } for alle.
 preferences-collection-privacy-notice = Se privatlivserklæring
 collection-description = Vi stræber efter at give dig mulighed for selv at vælge og indsamler kun, hvad vi har brug for til at forbedre { -brand-short-name } for alle. Vi spørger altid om din tilladelse, før vi modtager personlig information.
 collection-privacy-notice = Privatlivserklæring
@@ -1345,6 +1348,7 @@ collection-studies =
 collection-studies-link = Vis { -brand-short-name }-undersøgelser
 addon-recommendations2 =
     .label = Tillad tilpassede anbefalinger af udvidelser
+addon-recommendations-description = Få anbefalinger om udvidelser, der kan forbedre din oplevelse på nettet.
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled2 = Data-rapportering er deaktiveret for denne build-konfiguration.
@@ -1423,6 +1427,7 @@ space-alert-under-5gb-message2 =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Tilstanden Kun-HTTPS
+httpsonly-description3 = Tillad kun sikre forbindelser til websteder. { -brand-short-name } vil spørge, før en usikker forbindelse oprettes.
 httpsonly-learn-more2 = Sådan virker tilstanden kun-HTTPS
 httpsonly-description = HTTPS sørger for en sikker, krypteret forbindelse mellem { -brand-short-name } og de websteder, du besøger. De fleste websteder understøtter HTTPS, og hvis kun-HTTPS er slået til, så opgraderer { -brand-short-name } alle forbindelser til HTTPS.
 httpsonly-description2 = { -brand-short-name } etablerer sikre og krypterede forbindelser til de websteder, du besøger. Når Kun-HTTPS er slået til, advarer { -brand-short-name } dig, hvis forbindelsen ikke er sikker.
