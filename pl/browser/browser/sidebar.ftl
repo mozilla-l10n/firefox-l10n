@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+menu-view-contextual-password-manager =
+    .label = Hasła
 sidebar-options-menu-button =
     .title = Otwórz menu
 
@@ -46,6 +48,18 @@ sidebar-position-right =
     .label = Wyświetlaj po prawej stronie
 sidebar-vertical-tabs =
     .label = Karty pionowe
+sidebar-settings =
+    .label = Ustawienia panelu bocznego
+sidebar-hide-tabs-and-sidebar =
+    .label = Ukryj karty i panel boczny
+sidebar-show-on-the-right =
+    .label = Przenieś panel boczny na prawo
+sidebar-show-on-the-left =
+    .label = Przenieś panel boczny na lewo
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Rozwijaj panel boczny po najechaniu kursorem
 sidebar-horizontal-tabs =
     .label = Karty poziome
 sidebar-customize-tabs-header =
@@ -95,6 +109,8 @@ sidebar-menu-bookmarks-label =
     .label = Zakładki
 sidebar-menu-customize-label =
     .label = Dostosuj panel boczny
+sidebar-menu-contextual-password-manager-label =
+    .label = Hasła
 
 ## Tooltips for sidebar menu items.
 
@@ -131,6 +147,8 @@ sidebar-menu-syncedtabs-header =
     .heading = Karty z innych urządzeń
 sidebar-menu-bookmarks-header =
     .heading = Zakładki
+sidebar-menu-cpm-header =
+    .heading = Hasła
 sidebar-panel-header-close-button =
     .tooltiptext = Zamknij
 

@@ -18,3 +18,8 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = Zamknij wszystkie podwójne karty
 all-tabs-menu-synced-tabs =
     .label = Karty z innych urządzeń
+all-tabs-menu-current-window-header = Bieżące okno
+# "Show all" is for showing all open groups as well as saved groups. Initially,
+# we only show up to five of these groups.
+all-tabs-menu-tab-groups-show-all =
+    .label = Wyświetl wszystkie

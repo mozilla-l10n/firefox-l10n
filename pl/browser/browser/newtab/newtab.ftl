@@ -316,6 +316,11 @@ newtab-custom-settings = Więcej ustawień
 
 newtab-wallpaper-title = Tapety
 newtab-wallpaper-reset = Przywróć domyślne
+newtab-wallpaper-upload-image = Dodaj obraz
+newtab-wallpaper-custom-color = Wybierz kolor
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = Obraz przekracza ograniczenie rozmiaru pliku wynoszące { $file_size } MB. Spróbuj dodać mniejszy plik.
 newtab-wallpaper-light-red-panda = Pandka ruda
 newtab-wallpaper-light-mountain = Biała góra
 newtab-wallpaper-light-sky = Niebo z fioletowymi i różowymi chmurami
