@@ -30,6 +30,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Åbn lukkede faneblade igen
         }
     .accesskey = d
+toolbar-context-turn-on-vertical-tabs =
+    .label = Slå lodrette faneblade til
+toolbar-context-turn-off-vertical-tabs =
+    .label = Slå lodrette fanebade fra
+toolbar-context-customize-sidebar =
+    .label = Tilpas sidepanel
 toolbar-context-menu-manage-extension =
     .label = Håndter udvidelse
     .accesskey = H

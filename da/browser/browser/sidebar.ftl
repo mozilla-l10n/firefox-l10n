@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI-Chatbot
 menu-view-review-checker =
     .label = Verificering af anmeldelser
+menu-view-contextual-password-manager =
+    .label = Adgangskoder
 sidebar-options-menu-button =
     .title = Åbn menu
 
@@ -50,6 +52,18 @@ sidebar-position-right =
     .label = Vis til højre
 sidebar-vertical-tabs =
     .label = Lodrette faneblade
+sidebar-settings =
+    .label = Sidepanels-indstillinger
+sidebar-hide-tabs-and-sidebar =
+    .label = Skjul faneblade og sidepanel
+sidebar-show-on-the-right =
+    .label = Flyt sidepanelet til højre
+sidebar-show-on-the-left =
+    .label = Flyt sidepanelet til venstre
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Udvid sidepanel, når markøren holdes over
 sidebar-horizontal-tabs =
     .label = Vandrette faneblade
 sidebar-customize-tabs-header =
@@ -103,6 +117,8 @@ sidebar-menu-customize-label =
     .label = Tilpas sidepanel
 sidebar-menu-review-checker-label =
     .label = Verificering af anmeldelser
+sidebar-menu-contextual-password-manager-label =
+    .label = Adgangskoder
 
 ## Tooltips for sidebar menu items.
 
@@ -130,6 +146,10 @@ sidebar-menu-close-ai-chatbot-tooltip = Luk AI-chatbot
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
+sidebar-menu-open-ai-chatbot-tooltip-generic = Åbn AI-chatbot ({ $shortcut })
+sidebar-menu-open-ai-chatbot-provider-tooltip = Åbn { $provider } ({ $shortcut })
+sidebar-menu-close-ai-chatbot-tooltip-generic = Luk AI-chatbot ({ $shortcut })
+sidebar-menu-close-ai-chatbot-provider-tooltip = Luk { $provider } ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 
@@ -139,6 +159,10 @@ sidebar-menu-history-header =
     .heading = Historik
 sidebar-menu-syncedtabs-header =
     .heading = Faneblade fra andre enheder
+sidebar-menu-bookmarks-header =
+    .heading = Bogmærker
+sidebar-menu-cpm-header =
+    .heading = Adgangskoder
 sidebar-panel-header-close-button =
     .tooltiptext = Luk
 

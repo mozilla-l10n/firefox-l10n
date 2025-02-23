@@ -74,6 +74,13 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = Slå lyden til i faneblad
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = Slå lyden fra i faneblad
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = Afspil lyd/video i faneblad
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -195,6 +202,18 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Slå lyden til i faneblad
 tabbrowser-manager-close-tab =
     .tooltiptext = Luk faneblad
+# This is for tab groups that have been "saved and closed" (see tab-group-editor-action-save). It does
+# not include "deleted" tab groups (see tab-group-editor-action-delete).
+tabbrowser-manager-closed-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — Lukket
+tabbrowser-manager-current-window-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — Aktuelle vindue
+# "Show more" is for showing all open groups from other windows, as well as saved groups. Initially,
+# we only show up to six of these groups.
+tabbrowser-manager-tab-groups-show-more =
+    .label = Vis mere
 
 ## Tab Groups
 
@@ -206,6 +225,28 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Annuller
     .accesskey = A
+tab-group-editor-color-selector2-blue = Blå
+    .title = Blå
+tab-group-editor-color-selector2-purple = Lilla
+    .title = Lilla
+tab-group-editor-color-selector2-cyan = Cyan
+    .title = Cyan
+tab-group-editor-color-selector2-orange = Orange
+    .title = Orange
+tab-group-editor-color-selector2-yellow = Gul
+    .title = Gul
+tab-group-editor-color-selector2-pink = Pink
+    .title = Pink
+tab-group-editor-color-selector2-green = Grøn
+    .title = Grøn
+tab-group-editor-color-selector2-gray = Grå
+    .title = Grå
+tab-group-editor-color-selector2-red = Rød
+    .title = Rød
+# Variables:
+#  $tabGroupName (String): The name of the tab group. Defaults to the value
+#                          of tab-group-name-default.
+tab-group-description = { $tabGroupName } — Fanebladsgruppe
 tab-group-menu-header = Fanebladsgrupper
 tab-context-unnamed-group =
     .label = Unavngiven gruppe

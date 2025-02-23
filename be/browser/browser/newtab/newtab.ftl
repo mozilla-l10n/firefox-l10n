@@ -517,9 +517,13 @@ newtab-section-block-topic-button = Заблакаваць { $topic }
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Тэмы
+newtab-section-manage-topics-button-v2 =
+    .label = Кіраванне тэмамі
+newtab-section-mangage-topics-followed-topics = Падпіскі
 newtab-section-mangage-topics-button =
     .label = Тэмы, на якія вы падпісаліся, і заблакаваныя тэмы
 newtab-section-mangage-topics-followed-topics-subtitle = Тэмы, на якія вы падпісаліся
 newtab-section-mangage-topics-followed-topics-empty-state = Вы яшчэ не падпісаліся ні на адну тэму.
+newtab-section-mangage-topics-blocked-topics = Заблакаваны
 newtab-section-mangage-topics-blocked-topics-subtitle = Заблакаваныя тэмы
 newtab-section-mangage-topics-blocked-topics-empty-state = Вы яшчэ не заблакавалі ніводнай тэмы.

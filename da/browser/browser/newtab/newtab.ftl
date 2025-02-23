@@ -384,6 +384,7 @@ newtab-wallpaper-hot-air-balloons = Luftballoner i forskellige farver om dagen
 newtab-wallpaper-starry-canyon = Blå stjernehimmel
 newtab-wallpaper-suspension-bridge = Fotografi af grå hængebro om dagen
 newtab-wallpaper-sand-dunes = Hvide klitter
+newtab-wallpaper-palm-trees = Silhuet med kokospalmer i den gyldne time
 newtab-wallpaper-forest-trees = Træer indhyllet i tåge
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
