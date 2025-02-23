@@ -406,6 +406,12 @@ feature-highlight-wallpaper =
 # or outer space as observed in astronomy.
 # Not to be confused with religious definition of the word.
 newtab-wallpaper-category-title-celestial = Niebo
+newtab-wallpaper-celestial-lunar-eclipse = Zaćmienie Księżyca
+newtab-wallpaper-celestial-earth-night = Zdjęcie nocne z niskiej orbity okołoziemskiej
+newtab-wallpaper-celestial-starry-sky = Gwiaździste niebo
+newtab-wallpaper-celestial-eclipse-time-lapse = Poklatkowe zaćmienie Księżyca
+newtab-wallpaper-celestial-black-hole = Ilustracja galaktyki z czarną dziurą
+newtab-wallpaper-celestial-river = Zdjęcie satelitarne rzeki
 
 ## New Tab Weather
 
@@ -501,13 +507,22 @@ newtab-section-confirm-block-section-p1 = Czy na pewno zablokować tę sekcję?
 newtab-section-confirm-block-section-p2 = Zablokowana sekcja nie będzie już wyświetlana.
 newtab-section-block-section-button = Zablokuj tę sekcję
 newtab-section-cancel-button = Nie teraz
+newtab-section-confirm-block-topic-p1 = Czy na pewno zablokować ten temat?
+newtab-section-confirm-block-topic-p2 = Zablokowane tematy nie będą już wyświetlane.
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = Zablokuj temat „{ $topic }”
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Tematy
+newtab-section-manage-topics-button-v2 =
+    .label = Zarządzaj tematami
+newtab-section-mangage-topics-followed-topics = Obserwowane
 newtab-section-mangage-topics-button =
     .label = Obserwowane i zablokowane tematy
 newtab-section-mangage-topics-followed-topics-subtitle = Obserwowane tematy
 newtab-section-mangage-topics-followed-topics-empty-state = Żadne tematy nie są jeszcze obserwowane.
+newtab-section-mangage-topics-blocked-topics = Zablokowane
 newtab-section-mangage-topics-blocked-topics-subtitle = Zablokowane tematy
 newtab-section-mangage-topics-blocked-topics-empty-state = Żadne tematy nie są jeszcze zablokowane.
