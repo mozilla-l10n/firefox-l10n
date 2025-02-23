@@ -161,12 +161,17 @@ firefoxview-spotlight-promo-secondarybutton = ഒഴിവാക്കുക
 
 ## Cookie Banner Handling CFR
 
+cfr-cbh-confirm-button = കുക്കി പൊന്തുവരലുകളെ നിരസിക്കുക
+    .accesskey = ന
 cfr-cbh-dismiss-button = ഇപ്പോഴല്ല
     .accesskey = ഇ
+cookie-banner-blocker-onboarding-header = { -brand-short-name } താങ്ങൾക്കുവേണ്ടി ഒരു കുക്കി പൊന്തുവരലിനെ നിരസിച്ചു
+cookie-banner-blocker-onboarding-body = കുറഞ്ഞ പതൎച്ചയും കുറഞ്ഞ കുക്കിപ്പിന്തുടൎച്ചയും
 cookie-banner-blocker-onboarding-learn-more = കൂടുതല്‍ അറിയുക
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+july-jam-headline = ഞങ്ങൾ താങ്ങളോടൊപ്പമുണ്ടു്
 july-jam-set-default-primary = കണ്ണികളെ { -brand-short-name } വഴി തുറക്കുക
 fox-doodle-pin-headline = തിരികെ സ്വാഗതം
 fox-doodle-pin-primary = കണ്ണികളെ { -brand-short-name } വഴി തുറക്കുക
@@ -186,10 +191,14 @@ fxa-sync-cfr-secondary = എന്നെ പിന്നീടു് ഓർമ�
 
 ## Device Migration FxA Spotlight
 
+device-migration-fxa-spotlight-heavy-user-header = കരുതൽപകൎപ്പു് കരുതിവയ്ക്കാൻ മറക്കരുതു്
 device-migration-fxa-spotlight-heavy-user-primary-button = തുടങ്ങാം
+device-migration-fxa-spotlight-older-device-header = മനസ്സമാധാനം, { -brand-product-name }-കൊണ്ടു്.
 device-migration-fxa-spotlight-older-device-primary-button = അക്കൗണ്ടുണ്ടാക്കുക
 device-migration-fxa-spotlight-getting-new-device-header-2 = വരുംകാലത്തിൽ പുതിയ ഉപകരണം?
+device-migration-fxa-spotlight-getting-new-device-primary-button = കരുതൽ പകൎപ്പു് എങ്ങനെ വയ്ക്കാം
 device-migration-fxa-spotlight-sync-header = ഒരു താളമ്പോലെ തെറ്റാതെ തിരയുക
+device-migration-fxa-spotlight-sync-body = രൂപമാറ്റംകൊണ്ടു് അടയാളക്കുറിപ്പുകളും രഹസ്യവാക്കുകളും പോലെയുള്ള താങ്ങളുടെ പ്രധാനപ്പെട്ട വിവരങ്ങളെ സമന്വയിക്കുക. { -brand-product-name } വഴി താങ്ങൾക്കു് ഈ വിവരങ്ങളെ എവിടെങ്കിലും ഉപയോഗിക്കാം.
 device-migration-fxa-spotlight-sync-primary-button = തുടങ്ങാം
 
 ## Set as Default PDF Reader Infobar

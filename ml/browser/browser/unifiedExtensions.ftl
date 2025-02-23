@@ -43,6 +43,11 @@ unified-extensions-context-menu-move-widget-down =
 ## Notifications
 
 unified-extensions-mb-quarantined-domain-title = ചില വിപുലീകരണങ്ങൾക്കു് ഇവിടെ അനുവാദമില്ല.
+unified-extensions-mb-quarantined-domain-message = നിങ്ങളുടെ ഡാറ്റ സംരക്ഷിക്കുന്നതിനായി { -vendor-short-name } നിരീക്ഷിക്കുന്ന ചില വിപുലീകരണങ്ങൾക്കു് മാത്രമേ ഈ വെബിടത്തിൽ അനുവദിച്ചിട്ടുള്ളൂ.
+# .heading is processed by moz-message-bar to be used as a heading attribute
+unified-extensions-mb-quarantined-domain-message-3 =
+    .heading = ചില വിപുലീകരണങ്ങൾക്കു് ഇവിടെ അനുവാദമില്ല.
+    .message = താങ്ങളുടെ ഡാറ്റയെ സംരക്ഷിക്കാൻ ചില വിപുലീകരണങ്ങൾക്കു് ഡാറ്റ വായിക്കാന്നോ മാറ്റാന്നോ പറ്റത്തില്ല. { -vendor-short-name } അതിരിട്ട വെബിടങ്ങളെ അനുവദിക്കാൻ വിപുലീകരണത്തിന്റെ ക്രമീകരണങ്ങളിലോട്ടു് ചെല്ലുക
 unified-extensions-mb-quarantined-domain-learn-more = കൂടുതലറിയുക
     .aria-label = കൂടുതലറിയുക: ചില വിപുലീകരണങ്ങളെ ഇവിടെ ഉപയോഗിക്കാൻ പാടില്ല
 unified-extensions-mb-about-addons-link = വിപുലീകരണ ക്രമീകരണങ്ങളിലേക്ക് പോവുക
