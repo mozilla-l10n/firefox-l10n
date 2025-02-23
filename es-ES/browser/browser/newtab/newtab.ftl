@@ -312,6 +312,12 @@ newtab-custom-settings = Administrar más ajustes
 
 newtab-wallpaper-title = Fondos de pantalla
 newtab-wallpaper-reset = Restaurar valores predeterminados
+newtab-wallpaper-upload-image = Subir una imagen
+newtab-wallpaper-custom-color = Elegir un color
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = La imagen supera el límite de tamaño de archivo de { $file_size } MB. Intente cargar un archivo más pequeño.
+newtab-wallpaper-error-file-type = No pudimos cargar su archivo. Vuelva a intentarlo con un tipo de archivo diferente.
 newtab-wallpaper-light-red-panda = Panda rojo
 newtab-wallpaper-light-mountain = Montaña blanca
 newtab-wallpaper-light-sky = Cielo con nubes moradas y rosadas
@@ -355,6 +361,10 @@ newtab-wallpaper-abstract-purple = Formas púrpuras
 newtab-wallpaper-abstract-orange = Formas naranjas
 newtab-wallpaper-gradient-orange = Degradado naranja y rosa
 newtab-wallpaper-abstract-blue-purple = Formas azules y púrpuras
+newtab-wallpaper-abstract-white-curves = Blanco con curvas sombreadas
+newtab-wallpaper-abstract-purple-green = Gradiente de luz púrpura y verde
+newtab-wallpaper-abstract-blue-purple-waves = Formas onduladas azules y púrpuras
+newtab-wallpaper-abstract-black-waves = Formas onduladas negras
 
 ## Celestial
 
@@ -365,6 +375,7 @@ newtab-wallpaper-storm-sky = Cielo tormentoso
 newtab-wallpaper-sky-with-pink-clouds = Cielo con nubes rosas
 newtab-wallpaper-red-panda-yawns-in-a-tree = Panda rojo bosteza en un árbol
 newtab-wallpaper-white-mountains = Montañas blancas
+newtab-wallpaper-hot-air-balloons = Colores variados de globos aerostáticos durante el día.
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
