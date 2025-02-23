@@ -460,4 +460,11 @@ multi-profile-callout-cta = Opret en profil
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = Synkroniser med Firefox til mobilen
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Skan QR-koden for at hente { -brand-product-name } til mobilen. Vælg "Synkroniser til mobilen" når installationen er færdig for at få adgang til dine adgangskoder, bogmærker og mere, når du er på farten.
 dismiss-button-label = Afvis
+sync-to-mobile-button-label = Synkroniser til mobilen
+desktop-to-mobile-qr-code-alt =
+    .aria-label = QR-kode til at hente { -brand-product-name } til mobilen
