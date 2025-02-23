@@ -468,3 +468,5 @@ desktop-to-mobile-headline = Telechargiar, sincronisar e dai!
 desktop-to-mobile-subtitle = Scannescha il code QR per telechargiar { -brand-product-name } per apparats mobils. Suenter l’installaziun, tscherna «Sincronisaziun cun apparats mobils» per acceder a tes pleds-clav, segnapaginas e dapli – tuttina nua che ti ta chattas.
 dismiss-button-label = Serrar
 sync-to-mobile-button-label = Sincronisaziun cun apparats mobils
+desktop-to-mobile-qr-code-alt =
+    .aria-label = Code QR per telechargiar { -brand-product-name } per apparats mobils

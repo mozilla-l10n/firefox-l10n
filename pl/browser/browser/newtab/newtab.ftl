@@ -321,6 +321,7 @@ newtab-wallpaper-custom-color = Wybierz kolor
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Obraz przekracza ograniczenie rozmiaru pliku wynoszące { $file_size } MB. Spróbuj dodać mniejszy plik.
+newtab-wallpaper-error-file-type = Nie udało się dodać tego pliku. Spróbuj ponownie z innym typem pliku.
 newtab-wallpaper-light-red-panda = Pandka ruda
 newtab-wallpaper-light-mountain = Biała góra
 newtab-wallpaper-light-sky = Niebo z fioletowymi i różowymi chmurami
@@ -364,6 +365,10 @@ newtab-wallpaper-abstract-purple = Fioletowe kształty
 newtab-wallpaper-abstract-orange = Pomarańczowe kształty
 newtab-wallpaper-gradient-orange = Przejście między pomarańczowym a różowym
 newtab-wallpaper-abstract-blue-purple = Niebieskie i fioletowe kształty
+newtab-wallpaper-abstract-white-curves = Biały z cieniowanymi łukami
+newtab-wallpaper-abstract-purple-green = Gradient fioletowego i zielonego światła
+newtab-wallpaper-abstract-blue-purple-waves = Niebieskie i fioletowe faliste kształty
+newtab-wallpaper-abstract-black-waves = Czarne faliste kształty
 
 ## Celestial
 
@@ -374,6 +379,12 @@ newtab-wallpaper-storm-sky = Burzowe niebo
 newtab-wallpaper-sky-with-pink-clouds = Niebo z różowymi chmurami
 newtab-wallpaper-red-panda-yawns-in-a-tree = Pandka ruda ziewa na drzewie
 newtab-wallpaper-white-mountains = Białe góry
+newtab-wallpaper-hot-air-balloons = Różnorodne kolory balonów na ogrzane powietrze w ciągu dnia
+newtab-wallpaper-starry-canyon = Niebieska gwiaździsta noc
+newtab-wallpaper-suspension-bridge = Szary most wiszący sfotografowany w ciągu dnia
+newtab-wallpaper-sand-dunes = Białe wydmy
+newtab-wallpaper-palm-trees = Sylwetka palm kokosowych przed zachodem słońca
+newtab-wallpaper-forest-trees = Drzewa pokryte mgłą
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -391,6 +402,10 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Niebo
 
 ## New Tab Weather
 

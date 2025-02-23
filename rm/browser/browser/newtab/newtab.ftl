@@ -365,6 +365,10 @@ newtab-wallpaper-abstract-purple = Furmas violetas
 newtab-wallpaper-abstract-orange = Furmas oranschas
 newtab-wallpaper-gradient-orange = Dissoluziun dad oransch e rosa
 newtab-wallpaper-abstract-blue-purple = Furmas blauas e violetas
+newtab-wallpaper-abstract-white-curves = Alv cun curvas nianzadas
+newtab-wallpaper-abstract-purple-green = Dissoluziun da glisch violetta e verda
+newtab-wallpaper-abstract-blue-purple-waves = Furmas undegiadas blauas e violettas
+newtab-wallpaper-abstract-black-waves = Furmas nairas undegiadas
 
 ## Celestial
 
@@ -375,6 +379,12 @@ newtab-wallpaper-storm-sky = Tschiel stemprà
 newtab-wallpaper-sky-with-pink-clouds = Tschiel cun nivels rosa
 newtab-wallpaper-red-panda-yawns-in-a-tree = Panda cotschen che susda sin ina planta
 newtab-wallpaper-white-mountains = Muntognas alvas
+newtab-wallpaper-hot-air-balloons = Balluns ad aria chauda en colurs assortidas da di
+newtab-wallpaper-starry-canyon = Notg blaua stailida
+newtab-wallpaper-suspension-bridge = Fotografia d’ina punt pendenta grischa da di
+newtab-wallpaper-sand-dunes = Dunas da sablun alvas
+newtab-wallpaper-palm-trees = Siluetta da palmas da cocos sin il far notg
+newtab-wallpaper-forest-trees = Plantas en la tschajera
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -392,6 +402,16 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Astronomic
+newtab-wallpaper-celestial-lunar-eclipse = Stgiradetgna da la glina
+newtab-wallpaper-celestial-earth-night = Fotografia nocturna da l’orbit terrester bass
+newtab-wallpaper-celestial-starry-sky = Firmament
+newtab-wallpaper-celestial-eclipse-time-lapse = Stgiradetgna da la glina a temp accelerà
+newtab-wallpaper-celestial-black-hole = Illustraziun dad ina galaxia cun rusna naira
+newtab-wallpaper-celestial-river = Maletg da satellit dad in flum
 
 ## New Tab Weather
 
@@ -487,13 +507,22 @@ newtab-section-confirm-block-section-p1 = Vuls ti propi bloccar questa secziun?
 newtab-section-confirm-block-section-p2 = La secziun bloccada na vegn pli a cumparair en tes feed.
 newtab-section-block-section-button = Bloccar questa secziun
 newtab-section-cancel-button = Betg ussa
+newtab-section-confirm-block-topic-p1 = Vuls ti propi bloccar quest tema?
+newtab-section-confirm-block-topic-p2 = Temas bloccads na vegnan betg pli a cumparair en tes feed.
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = Bloccar { $topic }
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Temas
+newtab-section-manage-topics-button-v2 =
+    .label = Administrar ils temas
+newtab-section-mangage-topics-followed-topics = Suandà
 newtab-section-mangage-topics-button =
     .label = Temas suandads e bloccads
 newtab-section-mangage-topics-followed-topics-subtitle = Temas suandads
 newtab-section-mangage-topics-followed-topics-empty-state = Ti na suondas anc nagins temas.
+newtab-section-mangage-topics-blocked-topics = Bloccà
 newtab-section-mangage-topics-blocked-topics-subtitle = Temas bloccads
 newtab-section-mangage-topics-blocked-topics-empty-state = Ti n’has anc bloccà nagins temas.

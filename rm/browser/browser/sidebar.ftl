@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = Chatbot IA
 menu-view-review-checker =
     .label = Verificaziun da recensiuns
+menu-view-contextual-password-manager =
+    .label = Pleds-clav
 sidebar-options-menu-button =
     .title = Avrir il menu
 
@@ -115,6 +117,8 @@ sidebar-menu-customize-label =
     .label = Persunalisar la trav laterala
 sidebar-menu-review-checker-label =
     .label = Verificaziun da recensiuns
+sidebar-menu-contextual-password-manager-label =
+    .label = Pleds-clav
 
 ## Tooltips for sidebar menu items.
 
@@ -157,6 +161,8 @@ sidebar-menu-syncedtabs-header =
     .heading = Tabs dad auters apparats
 sidebar-menu-bookmarks-header =
     .heading = Segnapaginas
+sidebar-menu-cpm-header =
+    .heading = Pleds-clav
 sidebar-panel-header-close-button =
     .tooltiptext = Serrar
 
