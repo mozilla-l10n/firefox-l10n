@@ -11,6 +11,7 @@ more-from-moz-category =
 more-from-moz-subtitle = Se andre produkter fra { -vendor-short-name }, der arbejder for at understøtte et sundt internet.
 more-from-moz-firefox-mobile-title = { -brand-product-name } til mobilen
 more-from-moz-firefox-mobile-description = Mobil-browseren, der beskytter dit privatliv.
+more-from-moz-firefox-mobile-title-1 = { -brand-product-name } til mobilen
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Opdag et nyt lag af anonym browsing og beskyttelse.
 more-from-moz-qr-code-box-firefox-mobile-title = Hent med din mobil-enhed. Peg kameraet på QR-koden og tryk på linket, når det dukker op.
@@ -36,4 +37,5 @@ more-from-moz-mozilla-monitor-button = Hent { -monitor-brand-short-name }
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
 more-from-moz-solo-title = { -solo-ai-brand-name } AI
+more-from-moz-solo-description = Opret din hjemmeside på et øjeblik og opret gratis forbindelse til dit eget domæne.
 more-from-moz-solo-button = Prøv { -solo-ai-brand-name }

@@ -402,6 +402,16 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Rummet
+newtab-wallpaper-celestial-lunar-eclipse = Måneformørkelse
+newtab-wallpaper-celestial-earth-night = Nattefotografi fra lavt kredsløb om Jorden
+newtab-wallpaper-celestial-starry-sky = Stjernehimmel
+newtab-wallpaper-celestial-eclipse-time-lapse = Tidsforløb måneformørkelse
+newtab-wallpaper-celestial-black-hole = Illustration af galakse med sort hul
+newtab-wallpaper-celestial-river = Satellitfotografi af flod
 
 ## New Tab Weather
 
@@ -499,6 +509,9 @@ newtab-section-block-section-button = Bloker dette afsnit
 newtab-section-cancel-button = Ikke nu
 newtab-section-confirm-block-topic-p1 = Er du sikker på, at du vil blokere dette emne?
 newtab-section-confirm-block-topic-p2 = Det blokerede emner vil ikke længere blive vist i dit feed.
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = Bloker { $topic }
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 

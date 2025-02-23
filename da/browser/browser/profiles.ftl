@@ -114,3 +114,4 @@ shopping-avatar-alt =
 
 ## Labels for default avatar icons
 
+shopping-avatar = Indkøbsvogn
