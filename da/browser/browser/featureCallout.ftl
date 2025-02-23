@@ -94,3 +94,5 @@ sidebar-genai-survey-satisfaction-question = Hvor tilfreds er du med at have adg
 sidebar-genai-survey-productive-question =
     Hvor enig er du i udsagnet: <br/>
     "AI-chatbotten i sidepanelet gør det nemmere for mig at være produktiv"?
+unified-search-callout-title = Skift mellem søgetjenester
+unified-search-callout-primary-label = Næste
