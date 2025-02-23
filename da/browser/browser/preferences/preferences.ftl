@@ -149,6 +149,9 @@ preferences-data-migration-button =
     .label = Importer data
     .accesskey = m
 preferences-profiles-header = Profiler
+preferences-manage-profiles-learn-more = Læs mere
+preferences-manage-profiles-button =
+    .label = Håndter profiler
 tabs-group-header = Faneblade
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tabulator-tasten skifter mellem de senest anvendte faneblade
@@ -226,6 +229,15 @@ containers-remove-cancel-button = Fjern ikke denne kontekst
 settings-tabs-show-image-in-preview =
     .label = Forhåndsvis når musemarkøren er over et faneblad
     .accessKey = m
+browser-layout-header = Browser-layout
+browser-layout-horizontal-tabs =
+    .label = Vandrette faneblade
+browser-layout-horizontal-tabs-desc = Vises øverst i browseren
+browser-layout-vertical-tabs =
+    .label = Lodrette faneblade
+browser-layout-vertical-tabs-desc = Vis i siden, i sidepanelet
+browser-layout-show-sidebar =
+    .label = Vis sidepanel
 
 ## General Section - Language & Appearance
 
@@ -1308,6 +1320,7 @@ permissions-addon-exceptions =
 collection-header = Indsamling og brug af data i { -brand-short-name }
 collection-header2 = Indsamling og brug af data i { -brand-short-name }
     .searchkeywords = telemetry
+preferences-collection-privacy-notice = Se privatlivserklæring
 collection-description = Vi stræber efter at give dig mulighed for selv at vælge og indsamler kun, hvad vi har brug for til at forbedre { -brand-short-name } for alle. Vi spørger altid om din tilladelse, før vi modtager personlig information.
 collection-privacy-notice = Privatlivserklæring
 collection-health-report-telemetry-disabled = Du tillader ikke længere, at { -vendor-short-name } indsamler teknisk data og data om brug. Alle tidligere data vil blive slettet indenfor 30 dage.
@@ -1330,6 +1343,15 @@ collection-studies-description = Prøv nye funktioner og idéer, før de bliver 
 collection-studies =
     .label = Tillad at { -brand-short-name } installerer og afvikler undersøgelser
 collection-studies-link = Vis { -brand-short-name }-undersøgelser
+addon-recommendations2 =
+    .label = Tillad tilpassede anbefalinger af udvidelser
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled2 = Data-rapportering er deaktiveret for denne build-konfiguration.
+collection-backlogged-crash-reports2 =
+    .label = Send automatisk fejlrapporter
+    .accesskey = S
+collection-backlogged-crash-reports-description = Dette hjælper { -vendor-short-name } med at diagnosticere og løse problemer med browseren. Rapporter kan indeholde personlige eller følsomme data.
 addon-recommendations =
     .label = Tillad at { -brand-short-name } anbefaler udvidelser specielt udvalgt til dig
 addon-recommendations-link = Læs mere
@@ -1401,6 +1423,7 @@ space-alert-under-5gb-message2 =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Tilstanden Kun-HTTPS
+httpsonly-learn-more2 = Sådan virker tilstanden kun-HTTPS
 httpsonly-description = HTTPS sørger for en sikker, krypteret forbindelse mellem { -brand-short-name } og de websteder, du besøger. De fleste websteder understøtter HTTPS, og hvis kun-HTTPS er slået til, så opgraderer { -brand-short-name } alle forbindelser til HTTPS.
 httpsonly-description2 = { -brand-short-name } etablerer sikre og krypterede forbindelser til de websteder, du besøger. Når Kun-HTTPS er slået til, advarer { -brand-short-name } dig, hvis forbindelsen ikke er sikker.
 httpsonly-learn-more = Læs mere
@@ -1410,6 +1433,9 @@ httpsonly-radio-enabled2 =
     .label = Brug udelukkende HTTPS i alle vinduer
 httpsonly-radio-enabled-pbm =
     .label = Slå udelukkende kun-HTTPS til for private vinduer
+httpsonly-radio-disabled3 =
+    .label = Slå ikke kun-HTTPS til
+    .description = { -brand-short-name } kan stadig opgradere nogle forbindelser
 httpsonly-radio-enabled-pbm2 =
     .label = Brug udelukkende HTTPS i private vinduer
 httpsonly-radio-disabled =
