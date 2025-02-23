@@ -8,6 +8,7 @@ crashreporter-crashed-and-restore = { -brand-short-name } stødte på en fejl og
 crashreporter-plea = Du kan hjælpe os med at diagnosticere og rette problemet ved at sende os en fejlrapport.
 crashreporter-information = Dette program køres efter et nedbrud for at rapportere problemet til { -vendor-short-name }. Det bør ikke blive kørt direkte.
 crashreporter-error = { -brand-short-name } stødte på en fejl og gik ned. Desværre kan Fejlrapportøren ikke indsende en rapport om dette nedbrud.
+crashreporter-error-details-header = Detaljer:
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Detaljer: { $details }
 crashreporter-no-run-message = Dette program køres efter et nedbrud for at rapportere problemet til producenten. Det bør ikke blive kørt direkte.
@@ -16,6 +17,8 @@ crashreporter-loading-details = Indlæser…
 crashreporter-view-report-title = Rapportindhold
 crashreporter-comment-prompt = Tilføj en kommentar (kommentarer er offentligt tilgængelige)
 crashreporter-report-info = Denne rapport indeholder også teknisk information omkring programmets tilstand da det brød ned.
+crashreporter-checkbox-send-report = Fortæl { -vendor-short-name } om nedbruddet, så de kan rette fejlen.
+crashreporter-checkbox-include-url = Inkluder webadressen til den besøgte side.
 crashreporter-send-report = Fortæl { -vendor-short-name } om nedbruddet, så de kan rette fejlen
 crashreporter-include-url = Inkluder webadressen til den besøgte side.
 crashreporter-submit-status = Din fejlrapport vil blive sendt inden du afslutter eller genstarter.

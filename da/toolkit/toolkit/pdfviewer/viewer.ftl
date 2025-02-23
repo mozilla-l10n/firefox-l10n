@@ -316,6 +316,9 @@ pdfjs-highlight-floating-button1 =
     .title = Fremhæv
     .aria-label = Fremhæv
 pdfjs-highlight-floating-button-label = Fremhæv
+pdfjs-editor-signature-button =
+    .title = Tilføj underskrift
+pdfjs-editor-signature-button-label = Tilføj underskrift
 
 ## Remove button for the various kind of editor.
 
@@ -327,6 +330,8 @@ pdfjs-editor-remove-stamp-button =
     .title = Fjern billede
 pdfjs-editor-remove-highlight-button =
     .title = Fjern fremhævning
+pdfjs-editor-remove-signature-button =
+    .title = Fjern underskrift
 
 ##
 
@@ -343,6 +348,9 @@ pdfjs-editor-stamp-add-image-button-label = Tilføj billede
 pdfjs-editor-free-highlight-thickness-input = Tykkelse
 pdfjs-editor-free-highlight-thickness-title =
     .title = Ændr tykkelse, når andre elementer end tekst fremhæves
+pdfjs-editor-signature-add-signature-button =
+    .title = Tilføj ny underskrift
+pdfjs-editor-signature-add-signature-button-label = Tilføj ny underskrift
 # .default-content is used as a placeholder in an empty text editor.
 pdfjs-free-text2 =
     .aria-label = Teksteditor
@@ -531,9 +539,12 @@ pdfjs-editor-undo-bar-close-button-label = Luk
 
 ## Main menu for adding/removing signatures
 
+pdfjs-editor-delete-signature-button-label = Fjern underskrift
 
 ## Editor toolbar
 
+pdfjs-editor-add-signature-edit-button-label = Rediger beskrivelse
 
 ## Edit signature description dialog
 
+pdfjs-editor-edit-signature-dialog-title = Rediger beskrivelse

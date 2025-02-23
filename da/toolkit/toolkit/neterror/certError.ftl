@@ -134,6 +134,7 @@ contentEncodingError-title = Indholdskodningsfejl
 unsafeContentType-title = Usikker filtype
 netReset-title = Forbindelsen blev nulstillet
 netTimeout-title = Forbindelsens tidsfrist udløb
+httpErrorPage-title = Det ser ud til, at der er et problem med dette websted
 serverError-title = Det ser ud til, at der er et problem med dette websted
 unknownProtocolFound-title = Adressen kunne ikke forstås
 proxyConnectFailure-title = Proxyserveren afviser forbindelser
