@@ -318,6 +318,9 @@ pdfjs-highlight-floating-button1 =
     .title = Падфарбаваць
     .aria-label = Падфарбаваць
 pdfjs-highlight-floating-button-label = Падфарбаваць
+pdfjs-editor-signature-button =
+    .title = Дадаць подпіс
+pdfjs-editor-signature-button-label = Дадаць подпіс
 
 ## Remove button for the various kind of editor.
 
@@ -329,6 +332,8 @@ pdfjs-editor-remove-stamp-button =
     .title = Выдаліць выяву
 pdfjs-editor-remove-highlight-button =
     .title = Выдаліць падфарбоўку
+pdfjs-editor-remove-signature-button =
+    .title = Выдаліць подпіс
 
 ##
 
@@ -345,6 +350,9 @@ pdfjs-editor-stamp-add-image-button-label = Дадаць выяву
 pdfjs-editor-free-highlight-thickness-input = Таўшчыня
 pdfjs-editor-free-highlight-thickness-title =
     .title = Змяняць таўшчыню пры вылучэнні іншых элементаў, акрамя тэксту
+pdfjs-editor-signature-add-signature-button =
+    .title = Дадаць новы подпіс
+pdfjs-editor-signature-add-signature-button-label = Дадаць новы подпіс
 # .default-content is used as a placeholder in an empty text editor.
 pdfjs-free-text2 =
     .aria-label = Тэкставы рэдактар
@@ -502,6 +510,7 @@ pdfjs-editor-undo-bar-message-highlight = Падсвятленне выдале�
 pdfjs-editor-undo-bar-message-freetext = Тэкст выдалены
 pdfjs-editor-undo-bar-message-ink = Малюнак выдалены
 pdfjs-editor-undo-bar-message-stamp = Відарыс выдалены
+pdfjs-editor-undo-bar-message-signature = Подпіс выдалены
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple =

@@ -463,3 +463,9 @@ multi-profile-callout-cta = Стварыць профіль
 
 # If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
 desktop-to-mobile-headline = Сцягніце, сінхранізуйце і наперад!
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Адскануйце QR-код, каб сцягнуць { -brand-product-name } для мабільнага апарата. Пасля ўсталявання абярыце «Сінхранізаваць з мабільным», каб атрымаць доступ да сваіх пароляў, закладак і іншага ў дарозе.
+dismiss-button-label = Адхіліць
+sync-to-mobile-button-label = Сінхранізаваць з мабільным
+desktop-to-mobile-qr-code-alt =
+    .aria-label = QR-код для сцягвання { -brand-product-name } для мабільных прылад

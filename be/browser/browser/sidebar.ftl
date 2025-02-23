@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = Чат-бот ШІ
 menu-view-review-checker =
     .label = Праверка водгукаў
+menu-view-contextual-password-manager =
+    .label = Паролі
 sidebar-options-menu-button =
     .title = Адкрыць меню
 
@@ -54,6 +56,14 @@ sidebar-settings =
     .label = Налады бакавой панэлі
 sidebar-hide-tabs-and-sidebar =
     .label = Схаваць карткі і бакавую панэль
+sidebar-show-on-the-right =
+    .label = Перамясціць бакавую панэль управа
+sidebar-show-on-the-left =
+    .label = Перамясціць бакавую панэль улева
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Разгарнуць бакавую панэль пры навядзенні
 sidebar-horizontal-tabs =
     .label = Гарызантальныя карткі
 sidebar-customize-tabs-header =
@@ -107,6 +117,8 @@ sidebar-menu-customize-label =
     .label = Уладкаванне бакавой панэлі
 sidebar-menu-review-checker-label =
     .label = Праверка водгукаў
+sidebar-menu-contextual-password-manager-label =
+    .label = Паролі
 
 ## Tooltips for sidebar menu items.
 
@@ -149,6 +161,8 @@ sidebar-menu-syncedtabs-header =
     .heading = Карткі з іншых прылад
 sidebar-menu-bookmarks-header =
     .heading = Закладкі
+sidebar-menu-cpm-header =
+    .heading = Паролі
 sidebar-panel-header-close-button =
     .tooltiptext = Закрыць
 

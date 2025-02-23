@@ -76,6 +76,10 @@ fp-certerror-return-to-previous-page-recommended-button = ਪਿੱਛੇ ਜਾ
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = ਕੁਝ ਖਾਸ ਨਹੀਂ। ਇਹ ਖੁਦ ਸਾਈਟ ਨਾਲ ਵੀ ਸਮੱਸਿਆ ਜਾਪਦੀ ਹੈ।
 fp-certerror-self-signed-important-note = ਖਾਸ ਸੂਚਨਾ: ਜੇ ਤੁਸੀਂ ਕਾਰਪੋਰੇਟ ਇੰਟਰਾਨੈੱਟ ਉੱਤੇ ਇਸ ਸਾਈਟ ਨੂੰ ਵੇਖ ਰਹੇ ਹੋ ਤਾਂ ਤੁਹਾਡੇ IT ਸਟਾਫ ਵਲੋਂ ਖੁਦ-ਸਾਈਨ ਕੀਤੇ ਸਰਟੀਫਿਕੇਟ ਵਰਤੇ ਜਾ ਰਹੇ ਹੋ ਸਕਦੇ ਹਨ। ਇਸ ਦੀ ਪਰਮਾਣਕਿਤਾ ਦੀ ਜਾਂਚ ਕਰਨ ਲਈ ਤੁਸੀਂ ਉਹਨਾਂ ਤੋਂ ਮਦਦ ਲੈ ਸਕਦੇ ਹੋ।
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Clock date.
+fp-certerror-expired-what-can-you-do-body = ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਦਾ ਕਲਾਕ { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } ਲਈ ਸੈੱਟ ਹੈ। ਜੇ ਇਹ ਠੀਕ ਹੈ ਤਾਂ ਸੁਰੱਖਿਆ ਮਸਲਾ ਸਾਈਟ ਨਾਲ ਹੋਣ ਦੀ ਸੰਭਾਵਨਾ ਹੈ। ਜੇ ਇਹ ਗਲਤ ਹੈ ਤਾਂ ਤੁਸੀਂ ਇਸ ਨੂੰ ਆਪਣੇ ਡਿਵਾਈਸ ਦੀਆਂ ਸਿਸਟਮ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਬਦਲ ਸਕਦੇ ਹੋ।
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = ਗ਼ਲਤੀ ਕੋਡ: { $error }
