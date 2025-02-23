@@ -73,3 +73,16 @@ text-action-search-text-box-clear =
     .title = Xóa trắng
 text-action-highlight-selection =
     .label = Đánh dấu lựa chọn
+# "Copy Link to Highlight" creates a permanent 'Text Fragment' link
+# to the current selection, and copies it into the user's clipboard.
+text-action-copy-link-to-highlight =
+    .label = Sao chép liên kết đoạn tô sáng
+# This combines "Copy Link to Highlight" with "Copy Clean Link", ie.
+# it creates a link with a text fragment to the current selection
+# and it strips trackers etc.
+text-action-copy-clean-link-to-highlight =
+    .label = Sao chép liên kết sạch đoạn tô sáng
+# If the page has been loaded with a text fragment and text is
+# visibly highlighted, this removes any highlighted sections on the page.
+text-action-remove-all-highlights =
+    .label = Xoá tất cả tô sáng
