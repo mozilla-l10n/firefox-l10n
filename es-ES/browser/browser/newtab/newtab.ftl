@@ -376,6 +376,11 @@ newtab-wallpaper-sky-with-pink-clouds = Cielo con nubes rosas
 newtab-wallpaper-red-panda-yawns-in-a-tree = Panda rojo bosteza en un árbol
 newtab-wallpaper-white-mountains = Montañas blancas
 newtab-wallpaper-hot-air-balloons = Colores variados de globos aerostáticos durante el día.
+newtab-wallpaper-starry-canyon = Noche estrellada azul
+newtab-wallpaper-suspension-bridge = Fotografía gris de un puente colgante durante el día
+newtab-wallpaper-sand-dunes = Dunas de arena blanca
+newtab-wallpaper-palm-trees = Silueta de palmeras durante la hora dorada
+newtab-wallpaper-forest-trees = Árboles cubiertos de niebla
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -393,6 +398,16 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Celestial
+newtab-wallpaper-celestial-lunar-eclipse = Eclipse lunar
+newtab-wallpaper-celestial-earth-night = Foto nocturna desde la órbita baja de la tierra
+newtab-wallpaper-celestial-starry-sky = Cielo estrellado
+newtab-wallpaper-celestial-eclipse-time-lapse = Time-lapse de un eclipse lunar
+newtab-wallpaper-celestial-black-hole = Ilustración de una galaxia con un agujero negro
+newtab-wallpaper-celestial-river = Imagen de satelite de un rio
 
 ## New Tab Weather
 
@@ -488,13 +503,22 @@ newtab-section-confirm-block-section-p1 = ¿Está seguro de querer bloquear esta
 newtab-section-confirm-block-section-p2 = La sección bloqueada ya no aparecerá en los canales.
 newtab-section-block-section-button = Bloquear esta sección
 newtab-section-cancel-button = Ahora no
+newtab-section-confirm-block-topic-p1 = ¿Está seguro de querer bloquear este tema?
+newtab-section-confirm-block-topic-p2 = Los temas bloqueados ya no aparecerán en los canales.
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = Bloquear { $topic }
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Temas
+newtab-section-manage-topics-button-v2 =
+    .label = Administrar temas
+newtab-section-mangage-topics-followed-topics = Seguido
 newtab-section-mangage-topics-button =
     .label = Temas seguidos y bloqueados
 newtab-section-mangage-topics-followed-topics-subtitle = Temas seguidos
 newtab-section-mangage-topics-followed-topics-empty-state = Todavía no sigue ningún tema.
+newtab-section-mangage-topics-blocked-topics = Bloqueado
 newtab-section-mangage-topics-blocked-topics-subtitle = Temas bloqueados
 newtab-section-mangage-topics-blocked-topics-empty-state = Todavía no ha bloqueado ningún tema.
