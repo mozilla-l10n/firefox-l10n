@@ -467,3 +467,5 @@ desktop-to-mobile-headline = Stiahnite, synchronizujte a vyrazte na cesty.
 desktop-to-mobile-subtitle = Naskenujte QR kód a stiahnite si { -brand-product-name } pre mobilné zariadenia. Po nainštalovaní vyberte možnosť „Synchronizácia s mobilným telefónom“, aby ste mali prístup k svojim heslám, záložkám a ďalším informáciám na cestách.
 dismiss-button-label = Zavrieť
 sync-to-mobile-button-label = Synchronizácia s mobilným telefónom
+desktop-to-mobile-qr-code-alt =
+    .aria-label = QR kód na stiahnutie { -brand-product-name(case: "gen") } pre mobilné zariadenia

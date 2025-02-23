@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI Chatbot
 menu-view-review-checker =
     .label = Kontrola recenzií
+menu-view-contextual-password-manager =
+    .label = Heslá
 sidebar-options-menu-button =
     .title = Otvoriť ponuku
 
@@ -115,6 +117,8 @@ sidebar-menu-customize-label =
     .label = Prispôsobiť bočný panel
 sidebar-menu-review-checker-label =
     .label = Kontrola recenzií
+sidebar-menu-contextual-password-manager-label =
+    .label = Heslá
 
 ## Tooltips for sidebar menu items.
 
@@ -157,6 +161,8 @@ sidebar-menu-syncedtabs-header =
     .heading = Karty z ďalších zariadení
 sidebar-menu-bookmarks-header =
     .heading = Záložky
+sidebar-menu-cpm-header =
+    .heading = Heslá
 sidebar-panel-header-close-button =
     .tooltiptext = Zavrieť
 

@@ -313,6 +313,12 @@ newtab-custom-settings = Ďalšie nastavenia
 
 newtab-wallpaper-title = Tapety
 newtab-wallpaper-reset = Obnoviť predvolenú tapetu
+newtab-wallpaper-upload-image = Nahrať obrázok
+newtab-wallpaper-custom-color = Zvoľte farbu
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = Obrázok prekročil limit veľkosti súboru { $file_size } MB. Skúste nahrať menší súbor.
+newtab-wallpaper-error-file-type = Nepodarilo sa nám nahrať váš súbor. Skúste to znova s iným typom súboru.
 newtab-wallpaper-light-red-panda = Červená panda
 newtab-wallpaper-light-mountain = Biela hora
 newtab-wallpaper-light-sky = Obloha s fialovými a ružovými oblakmi
@@ -356,6 +362,10 @@ newtab-wallpaper-abstract-purple = Fialové tvary
 newtab-wallpaper-abstract-orange = Oranžové tvary
 newtab-wallpaper-gradient-orange = Prechod oranžový a ružový
 newtab-wallpaper-abstract-blue-purple = Modré a fialové tvary
+newtab-wallpaper-abstract-white-curves = Biela s tieňovanými krivkami
+newtab-wallpaper-abstract-purple-green = Gradient fialového a zeleného svetla
+newtab-wallpaper-abstract-blue-purple-waves = Modré a fialové vlnité tvary
+newtab-wallpaper-abstract-black-waves = Čierne vlnité tvary
 
 ## Celestial
 
@@ -366,6 +376,12 @@ newtab-wallpaper-storm-sky = Búrková obloha
 newtab-wallpaper-sky-with-pink-clouds = Obloha s ružovými oblakmi
 newtab-wallpaper-red-panda-yawns-in-a-tree = Panda červená zíva na strome
 newtab-wallpaper-white-mountains = Biele hory
+newtab-wallpaper-hot-air-balloons = Rôzne farby teplovzdušných balónov počas dňa
+newtab-wallpaper-starry-canyon = Modrá hviezdna noc
+newtab-wallpaper-suspension-bridge = Sivá fotografovania celoodpruženého mosta počas dňa
+newtab-wallpaper-sand-dunes = Biele pieskové duny
+newtab-wallpaper-palm-trees = Silueta kokosových paliem počas zlatej hodiny
+newtab-wallpaper-forest-trees = Stromy pokryté hmlou
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -383,6 +399,16 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Nebeská
+newtab-wallpaper-celestial-lunar-eclipse = Zatmenie Mesiaca
+newtab-wallpaper-celestial-earth-night = Nočná fotografia z nízkej obežnej dráhy Zeme
+newtab-wallpaper-celestial-starry-sky = Hviezdna obloha
+newtab-wallpaper-celestial-eclipse-time-lapse = Časozberné zatmenie Mesiaca
+newtab-wallpaper-celestial-black-hole = Ilustrácia galaxie čiernej diery
+newtab-wallpaper-celestial-river = Satelitný obraz rieky
 
 ## New Tab Weather
 
@@ -478,13 +504,22 @@ newtab-section-confirm-block-section-p1 = Naozaj chcete zablokovať túto sekciu
 newtab-section-confirm-block-section-p2 = Blokovaná sekcia sa už nebude zobrazovať vo vašom informačnom kanáli.
 newtab-section-block-section-button = Blokovať túto sekciu
 newtab-section-cancel-button = Teraz nie
+newtab-section-confirm-block-topic-p1 = Naozaj chcete zablokovať túto tému?
+newtab-section-confirm-block-topic-p2 = Zablokované témy sa už nebudú zobrazovať vo vašom informačnom kanáli.
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = Blokovať { $topic }
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Témy
+newtab-section-manage-topics-button-v2 =
+    .label = Spravovať témy
+newtab-section-mangage-topics-followed-topics = Sledované
 newtab-section-mangage-topics-button =
     .label = Sledované a zablokované témy
 newtab-section-mangage-topics-followed-topics-subtitle = Sledované témy
 newtab-section-mangage-topics-followed-topics-empty-state = Zatiaľ nesledujete žiadne témy.
+newtab-section-mangage-topics-blocked-topics = Zablokované
 newtab-section-mangage-topics-blocked-topics-subtitle = Zablokované témy
 newtab-section-mangage-topics-blocked-topics-empty-state = Zatiaľ ste nezablokovali žiadne témy.
