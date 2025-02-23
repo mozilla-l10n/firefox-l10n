@@ -315,6 +315,12 @@ newtab-custom-settings = Көбірек баптауларды басқару
 
 newtab-wallpaper-title = Түсқағаздар
 newtab-wallpaper-reset = Бастапқы түріне тастау
+newtab-wallpaper-upload-image = Суретті жүктеп жіберу
+newtab-wallpaper-custom-color = Түсті таңдау
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = Сурет файл өлшемі шегінен { $file_size } МБ асып кетті. Шағындау файлды жүктеп салып көріңіз.
+newtab-wallpaper-error-file-type = Файлыңызды жүктеп жіберу мүмкін болмады. Басқа файл түрімен әрекетті қайталаңыз.
 newtab-wallpaper-light-red-panda = Қызыл панда
 newtab-wallpaper-light-mountain = Ақ тау
 newtab-wallpaper-light-sky = Күлгін және қызғылт бұлттары бар аспан
@@ -358,6 +364,10 @@ newtab-wallpaper-abstract-purple = Күлгін пішіндер
 newtab-wallpaper-abstract-orange = Қызғылт сары пішіндер
 newtab-wallpaper-gradient-orange = Градиент қызғылт сары және қызғылт
 newtab-wallpaper-abstract-blue-purple = Көк және күлгін пішіндер
+newtab-wallpaper-abstract-white-curves = Көлеңкелі қисықтары бар ақ
+newtab-wallpaper-abstract-purple-green = Күлгін және жасыл жарық градиенті
+newtab-wallpaper-abstract-blue-purple-waves = Көк және күлгін толқынды пішіндер
+newtab-wallpaper-abstract-black-waves = Қара толқынды пішіндер
 
 ## Celestial
 
@@ -368,6 +378,11 @@ newtab-wallpaper-storm-sky = Дауылды аспан
 newtab-wallpaper-sky-with-pink-clouds = Қызғылт бұлттары бар аспан
 newtab-wallpaper-red-panda-yawns-in-a-tree = Қызыл панда ағашта есінейді
 newtab-wallpaper-white-mountains = Ақ таулар
+newtab-wallpaper-starry-canyon = Көк жұлдызды түн
+newtab-wallpaper-suspension-bridge = Сұр түсті толық аспалы көпірдің күндізгі фотосуреті
+newtab-wallpaper-sand-dunes = Ақ құмды төбелер
+newtab-wallpaper-palm-trees = Алтын сағатта кокос пальмаларының сұлбасы
+newtab-wallpaper-forest-trees = Тұман басқан ағаштар
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -385,6 +400,13 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Аспан
+newtab-wallpaper-celestial-lunar-eclipse = Айдың тұтылуы
+newtab-wallpaper-celestial-earth-night = Төменгі Жер орбитасынан түнгі сурет
+newtab-wallpaper-celestial-starry-sky = Жұлдызды аспан
 
 ## New Tab Weather
 

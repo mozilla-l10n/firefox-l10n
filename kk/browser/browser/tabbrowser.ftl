@@ -245,6 +245,10 @@ tab-group-editor-color-selector2-gray = Сұр
     .title = Сұр
 tab-group-editor-color-selector2-red = Қызыл
     .title = Қызыл
+# Variables:
+#  $tabGroupName (String): The name of the tab group. Defaults to the value
+#                          of tab-group-name-default.
+tab-group-description = { $tabGroupName } — топтар беті
 tab-group-menu-header = Беттер топтары
 tab-context-unnamed-group =
     .label = Атаусыз топ

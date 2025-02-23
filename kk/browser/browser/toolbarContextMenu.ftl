@@ -29,6 +29,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Жабылған беттерді қайта ашу
         }
     .accesskey = й
+toolbar-context-turn-on-vertical-tabs =
+    .label = Вертикалды беттерді іске қосу
+toolbar-context-turn-off-vertical-tabs =
+    .label = Вертикалды беттерді сөндіру
+toolbar-context-customize-sidebar =
+    .label = Бүйір панелін баптау
 toolbar-context-menu-manage-extension =
     .label = Кеңейтуді басқару
     .accesskey = е

@@ -64,6 +64,7 @@ split-dismiss-button-manage-settings-option-label = Баптауларды ба�
 
 sidebar-button-callout-title = Беттер атауларын бүйір панельде көрсету
 sidebar-button-callout-subtitle = Бүйір панелін кеңейту үшін бүйір панелі батырмасын пайдаланыңыз, осылай беттер атауларын көре аласыз.
+sidebar-button-callout-vertical-tabs = Бертерді көрсету үшін құралдар тақтасындағы бүйірлік панель батырмасын басыңыз.
 
 ## Sidebar Callout Survey Strings
 
@@ -94,6 +95,7 @@ sidebar-genai-survey-satisfaction-question = Бүйір панелінде AI ч
 sidebar-genai-survey-productive-question =
     Сіз бұл мәлімдемемен қаншалықты келісесіз:<br/>
     "Бүйір панеліндегі AI чат-боты маған өнімдірек болуға көмектеседі"?
+unified-search-callout-title = Іздеу жүйелері арасында ауысу
 unified-search-callout-primary-label = Келесі
 unified-search-callout-secondary-label = Елемеу
 unified-search-engines-callout-title = Жарлық арқылы іздеу
