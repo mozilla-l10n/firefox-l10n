@@ -483,6 +483,7 @@ newtab-section-confirm-block-section-p1 = Bu bölümü engellemek istediğinizde
 newtab-section-confirm-block-section-p2 = Engellediğin bölüm artık akışında görünmeyecektir.
 newtab-section-block-section-button = Bu bölümü engelle
 newtab-section-cancel-button = Şimdi değil
+newtab-section-confirm-block-topic-p1 = Bu konuyu engellemek istediğinizden emin misiniz?
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 

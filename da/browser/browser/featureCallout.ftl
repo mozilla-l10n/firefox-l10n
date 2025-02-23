@@ -64,6 +64,7 @@ split-dismiss-button-manage-settings-option-label = Håndter indstillinger
 
 sidebar-button-callout-title = Vis titler på faneblade i sidepanelet
 sidebar-button-callout-subtitle = Brug sidepanels-knappen til at udvide sidepanelet, så du kan se titler på faneblade.
+sidebar-button-callout-vertical-tabs = For at se dine faneblade skal du klikke på sidepanels-knappen i værktøjslinjen.
 
 ## Sidebar Callout Survey Strings
 
@@ -95,10 +96,13 @@ sidebar-genai-survey-productive-question =
     Hvor enig er du i udsagnet: <br/>
     "AI-chatbotten i sidepanelet gør det nemmere for mig at være produktiv"?
 unified-search-callout-title = Skift mellem søgetjenester
+unified-search-callout-subtitle = Vælg hvad, der fungerer bedst for din specifikke søgning.
 unified-search-callout-primary-label = Næste
 unified-search-callout-secondary-label = Afvis
 unified-search-engines-callout-title = Søg med en genvej
+unified-search-engines-callout-subtitle = Skriv "@" efterfulgt af et nøgleord for at søge i din historik, dine bogmærker, faneblade eller med en anden søgetjeneste.
 unified-search-engines-callout-primary-label = Forstået
+actions-callout-title = Udfør almindelige opgaver eller få adgang til grundlæggende indstillinger
 # The user can type "print" and "clear" and a button will appear in the
 # search bar (e.g. Print page) the user can click to initiate the action.
 # These example text inputs correlate to the the following strings

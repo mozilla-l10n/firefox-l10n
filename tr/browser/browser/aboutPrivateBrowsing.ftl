@@ -27,7 +27,7 @@ about-private-browsing-get-privacy = Gezindiğiniz her yerde gizliliğinizi koru
 about-private-browsing-hide-activity-1 = { -mozilla-vpn-brand-name } ile gezdiğiniz sayfaları ve konumunuzu gizleyebilirsiniz. Tek bir tıklamayla halka açık Wi-Fi ağlarında bile güvenli bir bağlantı kurabilirsiniz.
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } ile gizli kalın
 about-private-browsing-focus-promo-cta = { -focus-brand-name }’u indir
-about-private-browsing-focus-promo-header = { -focus-brand-name }: Yolda gizli gezinti
+about-private-browsing-focus-promo-header = { -focus-brand-name }: Her yerde gizli gezinti
 about-private-browsing-focus-promo-text = Mobil gizlilik tarayıcımız her seferinde geçmişinizi ve çerezlerinizi temizler.
 
 ## The following strings will be used for experiments in Fx99 and Fx100

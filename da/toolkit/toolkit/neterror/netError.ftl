@@ -44,6 +44,7 @@ neterror-load-error-connection = Hvis du er ude af stand til at indlæse nogen s
 neterror-load-error-firewall = Hvis din computer eller dit netværk er beskyttet af en firewall eller proxy, sørg da for at { -brand-short-name } har tilladelse til at tilgå nettet.
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Hvis du forsøger at oprette forbindelse til en lokal netværks-side, så skal du kontrollere, at { -brand-short-name } er blevet givet tilladelser for lokalt netværk under indstillingerne for anonymitet og sikkerhed.
+neterror-http-error-page = Tjek at du har indtastet webadressen korrekt.
 neterror-captive-portal = Dette netværk kræver, at du skal logge ind for at bruge internettet.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -99,6 +100,9 @@ neterror-proxy-connect-failure-settings = Kontrollér proxy-indstillingerne, og 
 neterror-proxy-connect-failure-contact-admin = Kontakt din netværks-administrator for at sikre dig, at proxyserveren fungerer.
 neterror-content-encoding-error = Kontakt ejerne af webstedet omkring dette problem.
 neterror-unsafe-content-type = Kontakt ejerne af webstedet omkring dette problem.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-basic-http-auth = { -brand-short-name } stoler ikke på { $hostname }, fordi forbindelsen ikke er sikker. Prøv at ændre URL'en til HTTPS.
 neterror-nss-failure-not-verified = Siden kunne ikke vises, da autenticiteten af de modtagne data ikke kunne bekræftes.
 neterror-nss-failure-contact-website = Kontakt ejerne af webstedet omkring dette problem.
 # Variables:
@@ -152,6 +156,9 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Hvis du ikke kender<b>{ $mi
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> bruger en sikkerhedspolitik kaldet HTTP Strict Transport Security (HSTS), hvilket betyder at { -brand-short-name } kun kan oprette en sikker forbindelse til webstedet. Du kan ikke tilføje en undtagelse for at besøge webstedet.
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = Sandsynligvis ingenting, da der formentlig er et problem med selve webstedet.
+certerror-blocked-by-corp-headers-description = Nogle gange sætter websteder beskyttelse op for dem selv og brugere som dig for at undgå uønsket interaktion med andre websteder.
+certerror-coop-learn-more = Læs mere om Cross Origin Opener Policies (COOP)
+certerror-coep-learn-more = Læs mere om Cross Origin Embedder Policies (COEP)
 # Variables:
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").

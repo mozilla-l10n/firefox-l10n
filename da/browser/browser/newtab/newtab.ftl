@@ -319,6 +319,10 @@ newtab-wallpaper-title = Baggrunde
 newtab-wallpaper-reset = Nulstil til standard
 newtab-wallpaper-upload-image = Upload et billede
 newtab-wallpaper-custom-color = Vælg en farve
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = Billedet overskrider grænsen for filstørrelse på { $file_size } MB. Prøv at uploade en mindre fil.
+newtab-wallpaper-error-file-type = Vi kunne ikke uploade din fil. Prøv igen med en anden filtype.
 newtab-wallpaper-light-red-panda = Rød panda
 newtab-wallpaper-light-mountain = Hvidt bjerg
 newtab-wallpaper-light-sky = Himmel med lilla og lyserøde skyer
@@ -362,6 +366,10 @@ newtab-wallpaper-abstract-purple = Lilla former
 newtab-wallpaper-abstract-orange = Orange former
 newtab-wallpaper-gradient-orange = Farveforløb i orange og pink
 newtab-wallpaper-abstract-blue-purple = Blå og lilla former
+newtab-wallpaper-abstract-white-curves = Hvid med skraverede kurver
+newtab-wallpaper-abstract-purple-green = Gradient med lilla og grønt lys
+newtab-wallpaper-abstract-blue-purple-waves = Blå og lilla bølgeformer
+newtab-wallpaper-abstract-black-waves = Sorte bølgeformer
 
 ## Celestial
 
@@ -372,6 +380,10 @@ newtab-wallpaper-storm-sky = Stormfuld himmel
 newtab-wallpaper-sky-with-pink-clouds = Himmel med lyserøde skyer
 newtab-wallpaper-red-panda-yawns-in-a-tree = Rød panda gaber i et træ
 newtab-wallpaper-white-mountains = Hvide bjerge
+newtab-wallpaper-hot-air-balloons = Luftballoner i forskellige farver om dagen
+newtab-wallpaper-starry-canyon = Blå stjernehimmel
+newtab-wallpaper-suspension-bridge = Fotografi af grå hængebro om dagen
+newtab-wallpaper-sand-dunes = Hvide klitter
 newtab-wallpaper-forest-trees = Træer indhyllet i tåge
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
