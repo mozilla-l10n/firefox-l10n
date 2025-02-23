@@ -242,6 +242,7 @@ browser-layout-vertical-tabs =
 browser-layout-vertical-tabs-desc = Z boku, w panelu bocznym
 browser-layout-show-sidebar =
     .label = Panel boczny
+browser-layout-show-sidebar-desc = Szybki dostęp do zakładek, kart z telefonu i nie tylko bez wychodzenia z głównego okna.
 
 ## General Section - Language & Appearance
 
@@ -1325,6 +1326,8 @@ permissions-addon-exceptions =
 collection-header = Dane zbierane przez program { -brand-short-name }
 collection-header2 = Dane zbierane przez program { -brand-short-name }
     .searchkeywords = telemetria
+preferences-collection-description = Dokładamy wszelkich starań, aby zapewnić Ci wybór i zbierać tylko minimalną ilość danych niezbędnych do ulepszania { -brand-product-name(case: "gen") } dla wszystkich.
+preferences-collection-privacy-notice = Zasady ochrony prywatności
 collection-description = Dążymy do zapewnienia odpowiedniego wyboru i zbierania wyłącznie niezbędnych danych, aby dostarczać i doskonalić program { -brand-short-name } dla nas wszystkich. Zawsze prosimy o pozwolenie przed przesłaniem danych osobistych.
 collection-privacy-notice = Prywatność
 collection-health-report-telemetry-disabled = { -vendor-short-name } nie ma już zezwolenia na zbieranie danych technicznych i o interakcjach z przeglądarką. Wszystkie wcześniej zebrane dane zostaną usunięte w ciągu 30 dni.
@@ -1424,6 +1427,8 @@ space-alert-under-5gb-message2 = <strong>Przeglądarce { -brand-short-name } zac
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Tryb używania wyłącznie protokołu HTTPS
+httpsonly-description3 = Zezwala wyłącznie na zabezpieczone połączenia z witrynami. { -brand-short-name } będzie pytał przed niezabezpieczonym połączeniem.
+httpsonly-learn-more2 = Jak działa tryb używania wyłącznie protokołu HTTPS
 httpsonly-description = Protokół HTTPS zapewnia zabezpieczone, zaszyfrowane połączenie między przeglądarką { -brand-short-name } a odwiedzanymi witrynami. Większość witryn obsługuje HTTPS, a jeśli tryb używania wyłącznie protokołu HTTPS jest włączony, to { -brand-short-name } przełączy wszystkie połączenia na HTTPS.
 httpsonly-description2 = { -brand-short-name } tworzy zabezpieczone i zaszyfrowane połączenia z odwiedzanymi witrynami. { -brand-short-name } będzie ostrzegać, jeśli połączenie nie jest zabezpieczone, gdy włączony jest tryb używania wyłącznie protokołu HTTPS.
 httpsonly-learn-more = Więcej informacji
@@ -1433,6 +1438,9 @@ httpsonly-radio-enabled2 =
     .label = Używanie wyłącznie protokołu HTTPS we wszystkich oknach
 httpsonly-radio-enabled-pbm =
     .label = Włącz tylko w oknach prywatnych
+httpsonly-radio-disabled3 =
+    .label = Nie włączaj
+    .description = { -brand-short-name } nadal może przełączać część połączeń
 httpsonly-radio-enabled-pbm2 =
     .label = Używanie wyłącznie protokołu HTTPS w prywatnych oknach
 httpsonly-radio-disabled =
