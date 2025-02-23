@@ -48,6 +48,8 @@ new-profile-page-input-placeholder =
 new-profile-page-done-button =
     .label = Redigering fuldført
 profile-window-title-2 = { -brand-short-name } - Vælg en profil
+profile-window-logo =
+    .alt = { -brand-short-name }-logo
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
@@ -99,6 +101,16 @@ profiles-system-theme = System
 
 ## Alternative text for default profile icons
 
+book-avatar-alt =
+    .alt = Bog
+briefcase-avatar-alt =
+    .alt = Mappe
+flower-avatar-alt =
+    .alt = Blomst
+heart-avatar-alt =
+    .alt = Hjerte
+shopping-avatar-alt =
+    .alt = Indkøbsvogn
 
 ## Labels for default avatar icons
 

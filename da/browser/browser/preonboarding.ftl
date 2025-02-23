@@ -7,3 +7,6 @@
 
 preonboarding-title = Velkommen til { -brand-product-name }
 preonboarding-primary-cta = Bekræft og fortsæt
+# Description under label for header style buttons
+preonboarding-header-button-description = Læs mere
+preonboarding-checklist-crash-reports-description = Med fejlrapporter kan vi diagnosticere og løse problemer med browseren. Rapporter kan indeholde personlige eller følsomme data.
