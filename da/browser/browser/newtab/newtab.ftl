@@ -372,6 +372,7 @@ newtab-wallpaper-storm-sky = Stormfuld himmel
 newtab-wallpaper-sky-with-pink-clouds = Himmel med lyserøde skyer
 newtab-wallpaper-red-panda-yawns-in-a-tree = Rød panda gaber i et træ
 newtab-wallpaper-white-mountains = Hvide bjerge
+newtab-wallpaper-forest-trees = Træer indhyllet i tåge
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -480,16 +481,23 @@ newtab-section-unblock-button = Fjern blokering
 
 ## Confirmation modal for blocking a section
 
+newtab-section-confirm-block-section-p1 = Er du sikker på, at du vil blokere dette afsnit?
 newtab-section-confirm-block-section-p2 = Det blokerede afsnit vil ikke længere blive vist i dit feed.
 newtab-section-block-section-button = Bloker dette afsnit
 newtab-section-cancel-button = Ikke nu
+newtab-section-confirm-block-topic-p1 = Er du sikker på, at du vil blokere dette emne?
+newtab-section-confirm-block-topic-p2 = Det blokerede emner vil ikke længere blive vist i dit feed.
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Emner
+newtab-section-manage-topics-button-v2 =
+    .label = Håndter emner
+newtab-section-mangage-topics-followed-topics = Fulgt
 newtab-section-mangage-topics-button =
     .label = Fulgte og blokerede emner
 newtab-section-mangage-topics-followed-topics-subtitle = Fulgte emner
 newtab-section-mangage-topics-followed-topics-empty-state = Du har ikke fulgt nogle emner endnu.
+newtab-section-mangage-topics-blocked-topics = Blokeret
 newtab-section-mangage-topics-blocked-topics-subtitle = Blokerede emner
 newtab-section-mangage-topics-blocked-topics-empty-state = Du har ikke blokeret nogen emner endnu.

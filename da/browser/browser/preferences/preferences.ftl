@@ -148,6 +148,7 @@ preferences-data-migration-description = Importer bogmærker, adgangskoder, hist
 preferences-data-migration-button =
     .label = Importer data
     .accesskey = m
+preferences-profiles-header = Profiler
 tabs-group-header = Faneblade
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tabulator-tasten skifter mellem de senest anvendte faneblade

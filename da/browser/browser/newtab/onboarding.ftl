@@ -460,3 +460,4 @@ multi-profile-callout-cta = Opret en profil
 
 ## Desktop to Mobile Adoption feature callout strings
 
+dismiss-button-label = Afvis
