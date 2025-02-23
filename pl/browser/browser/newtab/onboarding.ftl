@@ -441,6 +441,7 @@ tab-groups-onboarding-feature-callout-title = Wypróbuj grupy kart, aby zmniejsz
 tab-groups-onboarding-feature-callout-subtitle = Wprowadź porządek, przeciągając jedną kartę na drugą, aby utworzyć pierwszą grupę.
 tab-groups-onboarding-create-group-title = Znajdź otwarte grupy na pasku kart lub wyszukując je na pasku adresu.
 tab-groups-onboarding-saved-groups-title = Jeśli zamkniesz grupę kart, tutaj możesz ją w każdej chwili przywrócić.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title = W każdej chwili znajdź otwarte lub zamknięte grupy kart, wyszukując je na pasku adresu.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages
@@ -454,3 +455,11 @@ multi-profile-callout-cta = Utwórz profil
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = Pobierz, zsynchronizuj i ruszaj!
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Zeskanuj kod QR, aby pobrać { -brand-product-name(case: "acc") } na telefon. Po instalacji kliknij „Synchronizuj z telefonem”, aby mieć dostęp do haseł, zakładek i nie tylko wszędzie tam, gdzie jesteś.
+dismiss-button-label = Zamknij
+sync-to-mobile-button-label = Synchronizuj z telefonem
+desktop-to-mobile-qr-code-alt =
+    .aria-label = Kod QR do pobrania { -brand-product-name(case: "gen") } na telefon
