@@ -103,3 +103,11 @@ unified-search-engines-callout-title = Пошук з дапамогай цэт�
 unified-search-engines-callout-subtitle = Увядзіце "@", а затым ключавое слова для пошуку ў вашай гісторыі, закладках, картках або з дапамогай іншай пошукавай сістэмы.
 unified-search-engines-callout-primary-label = Зразумела
 actions-callout-title = Выконвайце звычайныя задачы або атрымлівайце доступ да асноўных налад
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearhistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = Паспрабуйце ўвесці дзеянне, напрыклад «друк», каб надрукаваць старонку, або «ачысціць», каб ачысціць гісторыю.
