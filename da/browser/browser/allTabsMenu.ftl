@@ -18,6 +18,7 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = Luk alle kopierede faneblade
 all-tabs-menu-synced-tabs =
     .label = Faneblade fra andre enheder
+all-tabs-menu-current-window-header = Aktuelle vindue
 # "Show all" is for showing all open groups as well as saved groups. Initially,
 # we only show up to five of these groups.
 all-tabs-menu-tab-groups-show-all =
