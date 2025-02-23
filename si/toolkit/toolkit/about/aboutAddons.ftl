@@ -19,7 +19,7 @@ list-empty-get-language-packs-message = <a data-l10n-name="get-extensions">{ $do
 list-empty-installed =
     .value = මෙම වර්ගයේ කිසිදු එක්කහුවක් ස්ථාපනය කර නැත
 list-empty-available-updates =
-    .value = යාවත්කාල හමු නොවිණි
+    .value = යාවත්කාල හමු නොවුණි
 list-empty-recent-updates =
     .value = මෑතදී කිසිදු එක්කහුවක් යාවත්කාල කර නැත
 list-empty-find-updates =
@@ -184,7 +184,7 @@ addon-updates-reset-updates-to-manual = අතින් යාවත්කාල
 
 addon-updates-updating = එක්කහු යාවත්කාල වෙමින්
 addon-updates-installed = ඔබගේ එක්කහු යාවත්කාල කර ඇත.
-addon-updates-none-found = යාවත්කාල හමු නොවිණි
+addon-updates-none-found = යාවත්කාල හමු නොවුණි
 addon-updates-manual-updates-found = තිබෙන යාවත්කාල පෙන්වන්න
 
 ## Add-on install/debug strings for page options menu

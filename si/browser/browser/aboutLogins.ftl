@@ -84,7 +84,7 @@ login-list-intro-title = පිවිසුම් හමු නොවුණි
 login-list-intro-title2 = සුරැකි මුරපද නැත
 login-list-intro-description = ඔබ මුරපදයක් { -brand-product-name } හි සුරකින විට, එය මෙහි පෙන්වනු ඇත.
 about-logins-login-list-empty-search-title = පිවිසුම් හමු නොවුණි
-about-logins-login-list-empty-search-title2 = මුරපද හමු නොවිණි
+about-logins-login-list-empty-search-title2 = මුරපද හමු නොවුණි
 about-logins-login-list-empty-search-description = ඔබගේ සෙවුමට ගැළපෙන ප්‍රතිඵල නැත.
 login-list-item-title-new-login = නව පිවිසුම
 login-list-item-subtitle-new-login = ඔබගේ පිවිසුම් අක්තපත්‍ර යොදන්න
@@ -101,7 +101,7 @@ about-logins-list-section-week = පසුගිය දවස් 7
 ## Introduction screen
 
 about-logins-login-intro-heading-logged-out2 = සුරැකි පිවිසුම් සොයනවාද? සමමුහූර්ත හෝ ආයාත කරන්න.
-about-logins-login-intro-heading-logged-in = සමමුහූර්ත පිවිසුම් හමු නොවිණි.
+about-logins-login-intro-heading-logged-in = සමමුහූර්ත පිවිසුම් හමු නොවුණි.
 login-intro-description = වෙනත් උපාංගවල { -brand-product-name } හි සුරකින ලද ඔබගේ පිවිසුම් මෙහි ලබා ගන්නා අයුරු පහත දැක්වේ:
 login-intro-instructions-fxa = ඔබගේ පිවිසුම් සුරකින ලද උපාංගයෙන් { -fxaccount-brand-name } වෙත පිවිසෙන්න.
 about-logins-login-intro-heading-message = ඔබගේ මුරපද ආරක්ෂිත තැනක සුරකින්න

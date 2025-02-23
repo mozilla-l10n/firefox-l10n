@@ -38,7 +38,7 @@ aboutdebugging-sidebar-runtime-connection-status-connected = සම්බන්�
 # Connection status (disconnected) for runtime items in the sidebar
 aboutdebugging-sidebar-runtime-connection-status-disconnected = විසන්ධි වී ඇත
 # Text displayed in the about:debugging sidebar when no device was found.
-about-debugging-sidebar-no-devices = උපාංග හමු නොවිණි
+about-debugging-sidebar-no-devices = උපාංග හමු නොවුණි
 # Text displayed in buttons found in sidebar items representing remote runtimes.
 # Clicking on the button will attempt to connect to the runtime.
 about-debugging-sidebar-item-connect-button = සබඳින්න

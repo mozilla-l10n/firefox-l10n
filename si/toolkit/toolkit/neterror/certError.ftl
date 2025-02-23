@@ -82,7 +82,7 @@ blockedByPolicy-title = අවහිර කළ පිටුවකි
 clockSkewError-title = පරිගණකයේ ඔරලෝසුව වැරදිය
 networkProtocolError-title = ජාල කෙටුම්පතෙහි දෝෂයකි
 nssBadCert-title = අවවාදයයි: ආරක්‍ෂණ අවදානමක් ඉදිරියෙන්
-nssBadCert-sts-title = සම්බන්‍ධ නොවිණි: ආරක්‍ෂණ ගැටලුවක් විය හැකිය.
+nssBadCert-sts-title = සම්බන්‍ධ නොවුණි: ආරක්‍ෂණ ගැටලුවක් විය හැකිය.
 certerror-mitm-title = { -brand-short-name } ආරක්‍ෂිතව මෙම අඩවියට සම්බන්ධ වීම මෘදුකාංගය මගින් වළක්වයි
 
 ## Felt Privacy V1 Strings

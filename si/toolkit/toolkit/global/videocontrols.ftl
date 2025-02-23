@@ -40,7 +40,7 @@ videocontrols-error-aborted = දෘශ්‍යකය පූරණය නැව
 videocontrols-error-network = ජාලයේ දෝෂයක් නිසා දෘශ්‍යකය නැවත වාදනය නැවතිණි.
 videocontrols-error-decode = ගොනුව හානි වී තිබෙන නිසා දෘශ්‍යකය වාදනය කළ නොහැකිය.
 videocontrols-error-src-not-supported = දෘශ්‍යක ආකෘතිය හෝ MIME වර්ගය සහාය නොදක්වයි.
-videocontrols-error-no-source = සහාය දක්වන ආකෘතිය සහ MIME වර්ගය සහිත දෘශ්‍යකයක් හමු නොවිණි.
+videocontrols-error-no-source = සහාය දක්වන ආකෘතිය සහ MIME වර්ගය සහිත දෘශ්‍යකයක් හමු නොවුණි.
 videocontrols-error-generic = නොදන්නා දෝෂයක් නිසා දෘශ්‍යකය නැවත වාදනය නැවතිණි.
 videocontrols-status-picture-in-picture = මෙම දෘශ්‍යකය රූපයෙන් රූපයට අකාරයෙන් වාදනය වේ.
 # This message shows the current position and total video duration

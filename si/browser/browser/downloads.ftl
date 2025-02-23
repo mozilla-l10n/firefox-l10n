@@ -190,8 +190,8 @@ downloads-details =
 
 downloads-files-not-downloaded =
     { $num ->
-        [one] ගොනුව බාගත නොවිණි.
-       *[other] ගොනු { $num } ක් බාගත නොවිණි.
+        [one] ගොනුව බාගත නොවුණි.
+       *[other] ගොනු { $num } ක් බාගත නොවුණි.
     }
 downloads-blocked-from-url = { $url } වෙතින් බාගැනීම් අවහිර කර ඇත.
 downloads-blocked-download-detailed-info = { $url } වෙතින් ගොනු කිහිපයක් ස්වයංක්‍රීයව බාගැනීමට තැත් කෙරිණි. අඩවියට හානි වී හෝ ඔබගේ උපාංගයට අයාචිත ගොනු ගබඩා කිරීමට උත්සාහ කරනවා විය හැකිය.

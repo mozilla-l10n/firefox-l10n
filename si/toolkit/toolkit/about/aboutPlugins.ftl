@@ -4,7 +4,7 @@
 
 title-label = පේනු ගැන
 installed-plugins-label = ස්ථාපිත පේනු
-no-plugins-are-installed-label = ස්ථාපිත පේනු හමු නොවිණි
+no-plugins-are-installed-label = ස්ථාපිත පේනු හමු නොවුණි
 deprecation-description = යමක් මඟහැරී තිබේද? ඇතැම් පේනු තවදුරටත් සහය නොදක්වයි. <a data-l10n-name="deprecation-link">තව දැනගන්න.</a>
 
 ## The information of plugins

@@ -7,7 +7,7 @@
 
 neterror-page-title = පිටුව පූරණය නොවේ
 certerror-page-title = අවවාදයයි: ආරක්‍ෂණ අවදානමක් ඉදිරියෙන්
-certerror-sts-page-title = සම්බන්‍ධ නොවිණි: ආරක්‍ෂණ ගැටලුවක් විය හැකිය
+certerror-sts-page-title = සම්බන්‍ධ නොවුණි: ආරක්‍ෂණ ගැටලුවක් විය හැකිය
 neterror-blocked-by-policy-page-title = අවහිර කළ පිටුව
 neterror-captive-portal-page-title = ජාලයට පිවිසෙන්න
 neterror-dns-not-found-title = සේවාදායකය හමු නොවුණි

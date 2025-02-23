@@ -7,4 +7,4 @@ app-picker-browse-button =
 app-picker-send-msg =
     .value = මෙම අංග යවන්නේ:
 app-picker-no-app-found =
-    .value = මෙම ගොනු වර්ගය සඳහා යෙදුමක් හමු නොවිණි.
+    .value = මෙම ගොනු වර්ගය සඳහා යෙදුමක් හමු නොවුණි.

@@ -4,7 +4,7 @@
 
 third-party-page-title = තෙවන පාර්ශව ඒකක තොරතුරු
 third-party-section-title = { -brand-short-name } හි තෙවන පාර්ශව ඒකක ලේඛනය
-third-party-message-empty = තෙවන පාර්ශව ඒකක අනාවරණය නොවිණි.
+third-party-message-empty = තෙවන පාර්ශ්ව ඒකක අනාවරණය නොවුණි.
 third-party-message-no-duration = පටිගත කර නැත
 third-party-detail-version = ගොනුවේ අනුවාදය
 third-party-detail-vendor = විකුණුම්කරු තොරතුරු
