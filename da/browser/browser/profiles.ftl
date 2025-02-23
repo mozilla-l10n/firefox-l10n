@@ -111,7 +111,14 @@ heart-avatar-alt =
     .alt = Hjerte
 shopping-avatar-alt =
     .alt = Indkøbsvogn
+star-avatar-alt =
+    .alt = Stjerne
 
 ## Labels for default avatar icons
 
+book-avatar = Bog
+briefcase-avatar = Mappe
+flower-avatar = Blomst
+heart-avatar = Hjerte
 shopping-avatar = Indkøbsvogn
+star-avatar = Stjerne
