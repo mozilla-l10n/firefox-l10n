@@ -96,3 +96,14 @@ sidebar-genai-survey-productive-question =
     "AI-chatbotten i sidepanelet gør det nemmere for mig at være produktiv"?
 unified-search-callout-title = Skift mellem søgetjenester
 unified-search-callout-primary-label = Næste
+unified-search-callout-secondary-label = Afvis
+unified-search-engines-callout-title = Søg med en genvej
+unified-search-engines-callout-primary-label = Forstået
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearhistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = Prøv at indtaste en handling som fx "udskriv" for at udskrive en side eller "ryd" for at rydde din historik.

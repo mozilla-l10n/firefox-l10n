@@ -317,6 +317,8 @@ newtab-custom-settings = Håndter flere indstillinger
 
 newtab-wallpaper-title = Baggrunde
 newtab-wallpaper-reset = Nulstil til standard
+newtab-wallpaper-upload-image = Upload et billede
+newtab-wallpaper-custom-color = Vælg en farve
 newtab-wallpaper-light-red-panda = Rød panda
 newtab-wallpaper-light-mountain = Hvidt bjerg
 newtab-wallpaper-light-sky = Himmel med lilla og lyserøde skyer
