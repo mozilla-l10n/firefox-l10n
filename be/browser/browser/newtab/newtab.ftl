@@ -319,6 +319,10 @@ newtab-wallpaper-title = Шпалеры
 newtab-wallpaper-reset = Скінуць да прадвызначаных
 newtab-wallpaper-upload-image = Зацягнуць выяву
 newtab-wallpaper-custom-color = Выберыце колер
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = Памер выявы перавышае абмежаванне ў { $file_size } МБ. Калі ласка, паспрабуйце загрузіць файл меншага памеру.
+newtab-wallpaper-error-file-type = Мы не змаглі зацягнуць ваш файл. Паўтарыце спробу з іншым тыпам файла.
 newtab-wallpaper-light-red-panda = Чырвоная панда
 newtab-wallpaper-light-mountain = Белая гара
 newtab-wallpaper-light-sky = Неба з фіялетавымі і ружовымі аблокамі
