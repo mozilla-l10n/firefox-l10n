@@ -224,6 +224,18 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Włącz dźwięk
 tabbrowser-manager-close-tab =
     .tooltiptext = Zamknij kartę
+# This is for tab groups that have been "saved and closed" (see tab-group-editor-action-save). It does
+# not include "deleted" tab groups (see tab-group-editor-action-delete).
+tabbrowser-manager-closed-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — zamknięta
+tabbrowser-manager-current-window-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — obecne okno
+# "Show more" is for showing all open groups from other windows, as well as saved groups. Initially,
+# we only show up to six of these groups.
+tabbrowser-manager-tab-groups-show-more =
+    .label = Więcej
 
 ## Tab Groups
 
@@ -255,6 +267,10 @@ tab-group-editor-color-selector2-gray = Szary
     .title = Szary
 tab-group-editor-color-selector2-red = Czerwony
     .title = Czerwony
+# Variables:
+#  $tabGroupName (String): The name of the tab group. Defaults to the value
+#                          of tab-group-name-default.
+tab-group-description = { $tabGroupName } — grupa kart
 tab-group-menu-header = Grupy kart
 tab-context-unnamed-group =
     .label = Grupa bez nazwy

@@ -439,6 +439,9 @@ onboarding-checklist-sign-up = Zaloguj się lub utwórz konto
 
 tab-groups-onboarding-feature-callout-title = Wypróbuj grupy kart, aby zmniejszyć bałagan i zwiększyć koncentrację
 tab-groups-onboarding-feature-callout-subtitle = Wprowadź porządek, przeciągając jedną kartę na drugą, aby utworzyć pierwszą grupę.
+tab-groups-onboarding-create-group-title = Znajdź otwarte grupy na pasku kart lub wyszukując je na pasku adresu.
+tab-groups-onboarding-saved-groups-title = Jeśli zamkniesz grupę kart, tutaj możesz ją w każdej chwili przywrócić.
+tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages
 
