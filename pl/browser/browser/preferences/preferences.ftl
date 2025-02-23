@@ -1007,7 +1007,7 @@ autofill-payment-methods-checkbox-submessage = Obejmuje karty kredytowe i debet
 autofill-saved-payment-methods-button = Zachowane metody płatności
     .accesskey = h
 # This operation requires the user to authenticate with the operating system (device sign-in)
-autofill-reauth-payment-methods-checkbox = Wymaganie zalogowania się na urządzeniu, aby wypełniać metody płatności i zarządzać nimi
+autofill-reauth-payment-methods-checkbox = Wymaganie zalogowania się na urządzeniu, aby wypełniać metody płatności i zarządzać nimi.
     .accesskey = W
 
 ## Privacy Section - History

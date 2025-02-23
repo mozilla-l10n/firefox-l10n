@@ -134,6 +134,7 @@ contentEncodingError-title = Błąd kodowania zawartości
 unsafeContentType-title = Niebezpieczny typ pliku
 netReset-title = Przerwane połączenie
 netTimeout-title = Przekroczono limit czasu połączenia
+httpErrorPage-title = Wystąpił problem z tą witryną
 serverError-title = Wystąpił problem z tą witryną
 unknownProtocolFound-title = Nieznany protokół
 proxyConnectFailure-title = Serwer proxy odrzuca połączenia
