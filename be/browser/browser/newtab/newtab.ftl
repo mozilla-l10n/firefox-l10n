@@ -366,6 +366,10 @@ newtab-wallpaper-abstract-purple = Фіялетавыя формы
 newtab-wallpaper-abstract-orange = Аранжавыя формы
 newtab-wallpaper-gradient-orange = Градыент аранжавага і ружовага
 newtab-wallpaper-abstract-blue-purple = Сінія і фіялетавыя формы
+newtab-wallpaper-abstract-white-curves = Белы з зацененымі крывымі
+newtab-wallpaper-abstract-purple-green = Градыент фіялетавага і зялёнага святла
+newtab-wallpaper-abstract-blue-purple-waves = Сінія і фіялетавыя хвалістыя формы
+newtab-wallpaper-abstract-black-waves = Чорныя хвалістыя формы
 
 ## Celestial
 
