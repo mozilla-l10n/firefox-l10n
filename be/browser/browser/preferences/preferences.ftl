@@ -148,6 +148,7 @@ preferences-data-migration-description = Імпартаваць закладкі
 preferences-data-migration-button =
     .label = Імпартаваць дадзеныя
     .accesskey = І
+preferences-profiles-header = Профілі
 tabs-group-header = Карткі
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab пераключае паміж карткамі ў парадку апошняга выкарыстання
