@@ -149,6 +149,10 @@ preferences-data-migration-button =
     .label = Importuj dane
     .accesskey = m
 preferences-profiles-header = Profile
+preferences-manage-profiles-description = Każdy profil ma osobne dane przeglądania i ustawienia, w tym historię, hasła i nie tylko.
+preferences-manage-profiles-learn-more = Więcej informacji
+preferences-manage-profiles-button =
+    .label = Zarządzaj profilami
 tabs-group-header = Karty
 ctrl-tab-recently-used-order =
     .label = Przełączanie kart za pomocą Ctrl+Tab w kolejności ostatnich wyświetleń
@@ -229,6 +233,15 @@ containers-remove-cancel-button = Nie usuwaj
 settings-tabs-show-image-in-preview =
     .label = Podgląd po najechaniu kursorem na kartę
     .accessKey = P
+browser-layout-header = Układ przeglądarki
+browser-layout-horizontal-tabs =
+    .label = Karty poziome
+browser-layout-horizontal-tabs-desc = Na górze przeglądarki
+browser-layout-vertical-tabs =
+    .label = Karty pionowe
+browser-layout-vertical-tabs-desc = Z boku, w panelu bocznym
+browser-layout-show-sidebar =
+    .label = Panel boczny
 
 ## General Section - Language & Appearance
 
