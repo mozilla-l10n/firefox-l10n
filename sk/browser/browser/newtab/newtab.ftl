@@ -378,7 +378,7 @@ newtab-wallpaper-red-panda-yawns-in-a-tree = Panda červená zíva na strome
 newtab-wallpaper-white-mountains = Biele hory
 newtab-wallpaper-hot-air-balloons = Rôzne farby teplovzdušných balónov počas dňa
 newtab-wallpaper-starry-canyon = Modrá hviezdna noc
-newtab-wallpaper-suspension-bridge = Sivá fotografovania celoodpruženého mosta počas dňa
+newtab-wallpaper-suspension-bridge = Sivá fotografia celoodpruženého mosta počas dňa
 newtab-wallpaper-sand-dunes = Biele pieskové duny
 newtab-wallpaper-palm-trees = Silueta kokosových paliem počas zlatej hodiny
 newtab-wallpaper-forest-trees = Stromy pokryté hmlou
@@ -402,7 +402,7 @@ feature-highlight-wallpaper =
 # “Celestial” referring to astronomy; positioned in or relating to the sky,
 # or outer space as observed in astronomy.
 # Not to be confused with religious definition of the word.
-newtab-wallpaper-category-title-celestial = Nebeská
+newtab-wallpaper-category-title-celestial = Nebeské
 newtab-wallpaper-celestial-lunar-eclipse = Zatmenie Mesiaca
 newtab-wallpaper-celestial-earth-night = Nočná fotografia z nízkej obežnej dráhy Zeme
 newtab-wallpaper-celestial-starry-sky = Hviezdna obloha
