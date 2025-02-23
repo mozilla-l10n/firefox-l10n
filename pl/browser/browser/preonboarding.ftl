@@ -16,6 +16,8 @@ preonboarding-terms-of-use-header-button-title = Przeczytaj nasze warunki korzys
 preonboarding-privacy-notice-header-button-title = Przeczytaj nasze zasady ochrony prywatności
 # Label for header style button that toggles showing the data preference checklist
 preonboarding-manage-data-header-button-title = Zarządzaj danymi diagnostycznymi i o interakcjach
+# Label for header style button that toggles showing the Terms of Use (Variant B)
+preonboarding-terms-of-use-header-button-title-b = Warunki korzystania z { -brand-product-name(case: "gen") }
 # New user onboarding checklist
 preonboarding-checklist-interaction-data-label = Wysyłaj dane techniczne i o interakcjach do { -vendor-short-name(case: "gen") }
 preonboarding-checklist-interaction-data-description = Informacje o Twoim urządzeniu, konfiguracji sprzętowej i sposobu korzystania z { -brand-product-name(case: "gen") } pomagają ulepszać jego funkcje oraz zwiększać wydajność i stabilność dla wszystkich użytkowników.

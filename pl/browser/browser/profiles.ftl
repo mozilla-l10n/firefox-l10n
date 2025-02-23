@@ -48,6 +48,8 @@ new-profile-page-input-placeholder =
 new-profile-page-done-button =
     .label = Gotowe
 profile-window-title-2 = { -brand-short-name } — wybierz profil
+profile-window-logo =
+    .alt = Logo { -brand-short-name(case: "gen") }
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
@@ -99,6 +101,24 @@ profiles-system-theme = Motyw systemu
 
 ## Alternative text for default profile icons
 
+book-avatar-alt =
+    .alt = Książka
+briefcase-avatar-alt =
+    .alt = Aktówka
+flower-avatar-alt =
+    .alt = Kwiatek
+heart-avatar-alt =
+    .alt = Serce
+shopping-avatar-alt =
+    .alt = Wózek sklepowy
+star-avatar-alt =
+    .alt = Gwiazda
 
 ## Labels for default avatar icons
 
+book-avatar = Książka
+briefcase-avatar = Aktówka
+flower-avatar = Kwiatek
+heart-avatar = Serce
+shopping-avatar = Wózek sklepowy
+star-avatar = Gwiazda
