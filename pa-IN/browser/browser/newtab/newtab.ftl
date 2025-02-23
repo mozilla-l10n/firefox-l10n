@@ -364,6 +364,9 @@ newtab-wallpaper-abstract-purple = ਜਾਮਨੀ ਸ਼ਕਲਾਂ
 newtab-wallpaper-abstract-orange = ਸੰਤਰੀ ਸ਼ਕਲਾਂ
 newtab-wallpaper-gradient-orange = ਗਰੇਡੀਐਂਟ ਸੰਤਰੀ ਤੇ ਗੁਲਾਬੀ
 newtab-wallpaper-abstract-blue-purple = ਨੀਲੀਆਂ ਤੇ ਜਾਮਨੀ ਸ਼ਕਲਾਂ
+newtab-wallpaper-abstract-purple-green = ਜਾਮਨੀ ਅਤੇ ਹਰਾ ਫਿੱਕਾ ਗਰੇਡੀਐਂਟ
+newtab-wallpaper-abstract-blue-purple-waves = ਨੀਲੀਆਂ ਤੇ ਜਾਮਨੀ ਲਹਿਰਦਾਰ ਸ਼ਕਲਾਂ
+newtab-wallpaper-abstract-black-waves = ਕਾਲੀਆਂ ਲਹਿਰਦਾਰ ਸ਼ਕਲਾਂ
 
 ## Celestial
 
@@ -374,6 +377,11 @@ newtab-wallpaper-storm-sky = ਤੂਫ਼ਾਨੀ ਅੰਬਰ
 newtab-wallpaper-sky-with-pink-clouds = ਗੁਲਾਬੀ ਬੱਦਲਾਂ ਨਾਲ ਅੰਬਰ
 newtab-wallpaper-red-panda-yawns-in-a-tree = ਲਾਲ ਪਾਂਡਾ ਰੁੱਖ ਹੇਠ ਉਬਾਸੀਆਂ ਲੈਂਦਾ ਹੋਇਆ
 newtab-wallpaper-white-mountains = ਚਿੱਟੇ ਪਹਾੜ
+newtab-wallpaper-hot-air-balloons = ਦਿਨ ਵੇਲੇ ਗਰਮ ਹਵਾ ਦੇ ਗੁਬਾਰਿਆਂ ਦੇ ਵੱਖ-ਵੱਖ ਰੰਗ
+newtab-wallpaper-starry-canyon = ਨੀਲੀ ਤਾਰਿਆਂ ਵਾਲੀ ਰਾਤ
+newtab-wallpaper-suspension-bridge = ਦਿਨ ਵੇਲੇ ਸਲੇਟੀ ਪੂਰੇ ਲਟਕਦੇ ਪੁਲ ਦੀ ਫੋਟੋਗਰਾਫ਼ੀ
+newtab-wallpaper-sand-dunes = ਚਿੱਟੇ ਰੇਤ ਦੇ ਟਿੱਬੇ
+newtab-wallpaper-forest-trees = ਧੁੰਦ ਵਿੱਚ ਢੱਕੇ ਹੋਏ ਦਰਖ਼ਤ
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -391,6 +399,15 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = ਅੰਬਰ
+newtab-wallpaper-celestial-lunar-eclipse = ਚੰਦ ਗ੍ਰਹਿਣ
+newtab-wallpaper-celestial-earth-night = ਧਰਤੀ ਦੇ ਹੇਠਲੇ ਪੰਧ ਤੋਂ ਰਾਤ ਦੀ ਫ਼ੋਟੋ
+newtab-wallpaper-celestial-starry-sky = ਤਾਰਿਆਂ ਵਾਲਾ ਅਸਮਾਨ
+newtab-wallpaper-celestial-eclipse-time-lapse = ਸਮੇਂ ਦੇ ਪਰਿਪੇਖ ਵਿੱਚ ਚੰਦ ਗ੍ਰਹਿਣ
+newtab-wallpaper-celestial-black-hole = ਬਲੈਕ ਹੋਲ ਗੈਲਕਸੀ ਦਾ ਚਿੱਤਰ
 newtab-wallpaper-celestial-river = ਦਰਿਆ ਦਾ ਉਪ-ਗ੍ਰਹਿ ਰਾਹੀਂ ਤਸਵੀਰ
 
 ## New Tab Weather
