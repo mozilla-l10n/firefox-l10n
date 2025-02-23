@@ -11,6 +11,7 @@ more-from-moz-category =
 more-from-moz-subtitle = Wypróbuj inne produkty { -vendor-short-name(case: "gen") }, które wspierają zdrowy Internet.
 more-from-moz-firefox-mobile-title = { -brand-product-name } na telefon
 more-from-moz-firefox-mobile-description = Przeglądarka na telefon, która stawia prywatność na pierwszym miejscu.
+more-from-moz-firefox-mobile-title-1 = { -brand-product-name } na telefon
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Odkryj dodatkową warstwę ochrony i anonimowego przeglądania.
 more-from-moz-qr-code-box-firefox-mobile-title = Pobierz za pomocą telefonu. Skieruj aparat na kod QR. Stuknij odnośnik, kiedy się pojawi.

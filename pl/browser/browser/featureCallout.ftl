@@ -64,6 +64,7 @@ split-dismiss-button-manage-settings-option-label = Zarządzaj ustawieniami
 
 sidebar-button-callout-title = Widoczne tytuły kart na panelu bocznym
 sidebar-button-callout-subtitle = Kliknij przycisk panelu bocznego, aby go rozszerzyć i widzieć tytuły kart.
+sidebar-button-callout-vertical-tabs = Aby wyświetlić karty, kliknij przycisk panelu bocznego na pasku narzędzi.
 
 ## Sidebar Callout Survey Strings
 
@@ -90,3 +91,10 @@ sidebar-callout-survey-saved-websites-2 = Szybki dostęp do zakładek
 sidebar-callout-survey-none-of-above = Żadna z powyższych
 sidebar-callout-survey-submit = Wyślij
 sidebar-callout-survey-thank-you = Dziękujemy za opinię!
+unified-search-callout-title = Przełączaj się między wyszukiwarkami
+unified-search-callout-subtitle = Wybierz tę, która najlepiej odpowiada temu, co chcesz znaleźć.
+unified-search-callout-primary-label = Dalej
+unified-search-callout-secondary-label = Zamknij
+unified-search-engines-callout-title = Wyszukuj na skróty
+unified-search-engines-callout-subtitle = Wpisz „@” i słowo kluczowe, aby przeszukać historię, zakładki, karty lub skorzystać z innej wyszukiwarki.
+unified-search-engines-callout-primary-label = OK

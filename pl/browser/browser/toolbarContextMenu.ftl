@@ -29,6 +29,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Przywróć zamknięte karty
         }
     .accesskey = P
+toolbar-context-turn-on-vertical-tabs =
+    .label = Włącz pionowe karty
+toolbar-context-turn-off-vertical-tabs =
+    .label = Wyłącz pionowe karty
+toolbar-context-customize-sidebar =
+    .label = Dostosuj panel boczny
 toolbar-context-menu-manage-extension =
     .label = Zarządzaj rozszerzeniem
     .accesskey = Z
