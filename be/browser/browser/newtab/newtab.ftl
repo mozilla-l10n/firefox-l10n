@@ -380,6 +380,12 @@ newtab-wallpaper-storm-sky = Навальнічнае неба
 newtab-wallpaper-sky-with-pink-clouds = Неба з ружовымі аблокамі
 newtab-wallpaper-red-panda-yawns-in-a-tree = Чырвоная панда пазяхае на дрэве
 newtab-wallpaper-white-mountains = Белыя горы
+newtab-wallpaper-hot-air-balloons = Розныя колеры паветраных шароў удзень
+newtab-wallpaper-starry-canyon = Сіняя зорная ноч
+newtab-wallpaper-suspension-bridge = Фатаграфія шэрага поўнападвеснага моста ў дзённы час
+newtab-wallpaper-sand-dunes = Белыя пясчаныя выдмы
+newtab-wallpaper-palm-trees = Сілуэт какосавых пальмаў у залаты час
+newtab-wallpaper-forest-trees = Дрэвы, пакрытыя туманам
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -397,6 +403,16 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Нябесны
+newtab-wallpaper-celestial-lunar-eclipse = Месяцовае зацьменне
+newtab-wallpaper-celestial-earth-night = Начная фатаграфія з нізкай калязямной арбіты
+newtab-wallpaper-celestial-starry-sky = Зорнае неба
+newtab-wallpaper-celestial-eclipse-time-lapse = Прамежак часу месяцовага зацьмення
+newtab-wallpaper-celestial-black-hole = Ілюстрацыя галактыкі з чорнай дзіркай
+newtab-wallpaper-celestial-river = Спадарожнікавы здымак ракі
 
 ## New Tab Weather
 
@@ -492,6 +508,11 @@ newtab-section-confirm-block-section-p1 = Вы сапраўды хочаце з�
 newtab-section-confirm-block-section-p2 = Заблакаваны раздзел больш не будзе з'яўляцца ў вашай стужцы.
 newtab-section-block-section-button = Заблакаваць гэты раздзел
 newtab-section-cancel-button = Не зараз
+newtab-section-confirm-block-topic-p1 = Вы сапраўды хочаце заблакаваць гэтую тэму?
+newtab-section-confirm-block-topic-p2 = Заблакаваныя тэмы больш не будуць з'яўляцца ў вашай стужцы.
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = Заблакаваць { $topic }
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
