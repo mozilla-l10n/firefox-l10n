@@ -100,4 +100,14 @@ unified-search-callout-subtitle = Izberite, kar se za vaše trenutno iskanje naj
 unified-search-callout-primary-label = Naprej
 unified-search-callout-secondary-label = V redu
 unified-search-engines-callout-title = Iščite z bližnjico
+unified-search-engines-callout-subtitle = Vtipkajte "@" in nato ključno besedo za iskanje po zgodovini, zaznamkih, zavihkih ali z drugim iskalnikom.
 unified-search-engines-callout-primary-label = Razumem
+actions-callout-title = Opravljajte pogosta opravila ali spreminjajte osnovne nastavitve
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearhistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = Vnesite dejanje, kot sta “print” za natis strani ali “clear” za brisanje zgodovine.

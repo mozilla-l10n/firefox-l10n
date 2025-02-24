@@ -316,6 +316,11 @@ newtab-custom-settings = Gerir mais definições
 
 newtab-wallpaper-title = Fundos
 newtab-wallpaper-reset = Repor predefinições
+newtab-wallpaper-custom-color = Escolha uma cor
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = A imagem excedeu o limite de tamanho de ficheiro de { $file_size } MB. Tente enviar um ficheiro mais pequeno.
+newtab-wallpaper-error-file-type = Não foi possível carregar o seu ficheiro. Tente novamente com outro tipo de ficheiro diferente.
 newtab-wallpaper-light-red-panda = Panda vermelho
 newtab-wallpaper-light-mountain = Montanha Branca
 newtab-wallpaper-light-sky = Céu com nuvens cor-de-rosa e roxas.
@@ -359,6 +364,10 @@ newtab-wallpaper-abstract-purple = Formas roxas
 newtab-wallpaper-abstract-orange = Formas alaranjadas
 newtab-wallpaper-gradient-orange = Gradiente laranja e rosa
 newtab-wallpaper-abstract-blue-purple = Formas azuis e roxas
+newtab-wallpaper-abstract-white-curves = Branco com curvas sombreadas
+newtab-wallpaper-abstract-purple-green = Gradiente roxo e verde claro
+newtab-wallpaper-abstract-blue-purple-waves = Formas onduladas azuis e roxas
+newtab-wallpaper-abstract-black-waves = Formas onduladas pretas
 
 ## Celestial
 
@@ -369,6 +378,12 @@ newtab-wallpaper-storm-sky = Céu tempestuoso
 newtab-wallpaper-sky-with-pink-clouds = Céu com nuvens rosa.
 newtab-wallpaper-red-panda-yawns-in-a-tree = Panda vermelho boceja numa árvore
 newtab-wallpaper-white-mountains = Montanhas brancas
+newtab-wallpaper-hot-air-balloons = Cores variadas de balões de ar quente durante o dia
+newtab-wallpaper-starry-canyon = Noite estrelada azul
+newtab-wallpaper-suspension-bridge = Fotografia de ponte suspensa cinzenta durante o dia
+newtab-wallpaper-sand-dunes = Dunas de areia brancas
+newtab-wallpaper-palm-trees = Silhueta de coqueiros durante a hora dourada
+newtab-wallpaper-forest-trees = Árvores cobertas de nevoeiro
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -386,6 +401,14 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Celestial
+newtab-wallpaper-celestial-lunar-eclipse = Eclipse lunar
+newtab-wallpaper-celestial-starry-sky = Céu estrelado
+newtab-wallpaper-celestial-eclipse-time-lapse = Time-lapse de eclipse lunar
+newtab-wallpaper-celestial-river = Imagem satélite de rio
 
 ## New Tab Weather
 
@@ -481,13 +504,22 @@ newtab-section-confirm-block-section-p1 = Tem a certeza que pretende bloquear es
 newtab-section-confirm-block-section-p2 = A secção bloqueada deixará de aparecer na sua fonte.
 newtab-section-block-section-button = Bloquear esta secção
 newtab-section-cancel-button = Agora não
+newtab-section-confirm-block-topic-p1 = Tem a certeza que pretende bloquear este tópico?
+newtab-section-confirm-block-topic-p2 = Os tópicos bloqueados deixarão de aparecer no seu feed.
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = Bloquear { $topic }
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Tópicos
+newtab-section-manage-topics-button-v2 =
+    .label = Gerir tópicos
+newtab-section-mangage-topics-followed-topics = Seguido
 newtab-section-mangage-topics-button =
     .label = Tópicos seguidos e bloqueados
 newtab-section-mangage-topics-followed-topics-subtitle = Tópicos seguidos
 newtab-section-mangage-topics-followed-topics-empty-state = Ainda não seguiu quaisquer tópicos.
+newtab-section-mangage-topics-blocked-topics = Bloqueado
 newtab-section-mangage-topics-blocked-topics-subtitle = Tópicos bloqueados
 newtab-section-mangage-topics-blocked-topics-empty-state = Ainda não bloqueou quaisquer tópicos.
