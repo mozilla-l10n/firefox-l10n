@@ -445,7 +445,9 @@ onboarding-checklist-sign-up = Registrirajte se ali se prijavite v svoj račun
 
 tab-groups-onboarding-feature-callout-title = Preizkusite skupine zavihkov za manj nereda in več osredotočenosti
 tab-groups-onboarding-feature-callout-subtitle = Organizirajte se: povlecite en zavihek na drugega in ustvarite svojo prvo skupino.
+tab-groups-onboarding-create-group-title = Poiščite svoje odprte skupine v vrstici z zavihki ali tako, da jih poiščete v naslovni vrstici.
 tab-groups-onboarding-saved-groups-title = Skupine zavihkov, ki ste jih zaprli, lahko tukaj kadarkoli znova odprete.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title = Kadarkoli poiščite odprte ali zaprte skupine zavihkov z iskanjem v naslovni vrstici.
 tab-groups-onboarding-dismiss = V redu
 
 ## Multi Profiles feature onboarding messages
@@ -459,5 +461,7 @@ multi-profile-callout-cta = Ustvari profil
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = Prenesi, sinhroniziraj in gremo!
 dismiss-button-label = Skrij
 sync-to-mobile-button-label = Sinhronizacija z mobilno napravo

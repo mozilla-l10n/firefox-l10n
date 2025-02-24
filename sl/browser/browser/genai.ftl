@@ -59,6 +59,11 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Vprašaj { $provider }
+genai-menu-remove-generic =
+    .label = Odstrani UI-klepetalnik
+# $provider (string) - name of the provider
+genai-menu-remove-provider =
+    .label = Odstrani { $provider }
 genai-input-ask-generic =
     .placeholder = Vprašaj UI-klepetalnik …
 # $provider (string) - name of the provider
