@@ -245,6 +245,7 @@ browser-layout-vertical-tabs =
 browser-layout-vertical-tabs-desc = Prikaži zavihke ob strani, v stranski vrstici
 browser-layout-show-sidebar =
     .label = Prikaži stransko vrstico
+browser-layout-show-sidebar-desc = Hitro dostopajte do zaznamkov in zavihkov na telefonu, do UI-klepetalnikov in še več, ne da bi zapustili svoj glavni pogled.
 
 ## General Section - Language & Appearance
 

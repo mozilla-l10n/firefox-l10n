@@ -146,6 +146,10 @@ sidebar-menu-close-ai-chatbot-tooltip = Zapri UI-klepetalnik
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
+sidebar-menu-open-ai-chatbot-tooltip-generic = Odpri UI-klepetalnik ({ $shortcut })
+sidebar-menu-open-ai-chatbot-provider-tooltip = Odpri { $provider } ({ $shortcut })
+sidebar-menu-close-ai-chatbot-tooltip-generic = Zapri UI-klepetalnik ({ $shortcut })
+sidebar-menu-close-ai-chatbot-provider-tooltip = Zapri { $provider } ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 

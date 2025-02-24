@@ -322,6 +322,7 @@ newtab-wallpaper-custom-color = Izberite barvo
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Največja dovoljena velikost slike je { $file_size } MB. Poskusite naložiti manjšo datoteko.
+newtab-wallpaper-error-file-type = Datoteke ni bilo mogoče naložiti. Poskusite znova z drugo vrsto datoteke.
 newtab-wallpaper-light-red-panda = Mačji panda
 newtab-wallpaper-light-mountain = Bela gora
 newtab-wallpaper-light-sky = Nebo z vijoličastimi in rožnatimi oblaki
@@ -365,6 +366,10 @@ newtab-wallpaper-abstract-purple = Vijoličaste oblike
 newtab-wallpaper-abstract-orange = Oranžne oblike
 newtab-wallpaper-gradient-orange = Preliv oranžne in roza
 newtab-wallpaper-abstract-blue-purple = Modre in vijolične oblike
+newtab-wallpaper-abstract-white-curves = Bela z zasenčenimi krivuljami
+newtab-wallpaper-abstract-purple-green = Preliv vijolične in zelene svetlobe
+newtab-wallpaper-abstract-blue-purple-waves = Modre in vijolične valovite oblike
+newtab-wallpaper-abstract-black-waves = Črne valovite oblike
 
 ## Celestial
 
@@ -375,6 +380,12 @@ newtab-wallpaper-storm-sky = Nevihtno nebo
 newtab-wallpaper-sky-with-pink-clouds = Nebo z rožnatimi oblaki
 newtab-wallpaper-red-panda-yawns-in-a-tree = Zehajoč mačji panda na drevesu
 newtab-wallpaper-white-mountains = Bele gore
+newtab-wallpaper-hot-air-balloons = Različne barve toplozračnih balonov podnevi
+newtab-wallpaper-starry-canyon = Modra zvezdna noč
+newtab-wallpaper-suspension-bridge = Siva fotografija visečega mostu podnevi
+newtab-wallpaper-sand-dunes = Bele peščene sipine
+newtab-wallpaper-palm-trees = Silhueta kokosovih palm med zlato uro
+newtab-wallpaper-forest-trees = Drevesa, prekrita z meglo
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -392,6 +403,16 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Nebeški
+newtab-wallpaper-celestial-lunar-eclipse = Lunin mrk
+newtab-wallpaper-celestial-earth-night = Nočna fotografija iz nizke orbite Zemlje
+newtab-wallpaper-celestial-starry-sky = Zvezdnato nebo
+newtab-wallpaper-celestial-eclipse-time-lapse = Upočasnjen posnetek luninega mrka
+newtab-wallpaper-celestial-black-hole = Ilustracija galaksije
+newtab-wallpaper-celestial-river = Satelitski posnetek reke
 
 ## New Tab Weather
 
