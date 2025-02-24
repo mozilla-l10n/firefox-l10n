@@ -667,6 +667,8 @@ urlbar-result-action-copy-to-clipboard = Salin
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
+# The string returned for an undefined calculator result such as when dividing by 0
+urlbar-result-action-undefined-calculator-result = tidak terdefinisi
 
 ## Strings used for buttons in the urlbar
 
