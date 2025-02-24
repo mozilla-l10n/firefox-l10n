@@ -465,3 +465,5 @@ desktop-to-mobile-headline = Transferir, sincronizar e pronto!
 desktop-to-mobile-subtitle = Digitalize o código QR para transferir o { -brand-product-name } para dispositivos móveis. Depois de instalado, selecione “Sincronizar com o telemóvel” para aceder às suas palavras-passe, marcadores e muito mais, em qualquer lugar.
 dismiss-button-label = Dispensar
 sync-to-mobile-button-label = Sincronizar com o telemóvel
+desktop-to-mobile-qr-code-alt =
+    .aria-label = Código QR para transferir o { -brand-product-name } para dispositivos móveis

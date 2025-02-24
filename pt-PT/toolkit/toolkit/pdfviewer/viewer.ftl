@@ -316,6 +316,9 @@ pdfjs-highlight-floating-button1 =
     .title = Realçar
     .aria-label = Realçar
 pdfjs-highlight-floating-button-label = Realçar
+pdfjs-editor-signature-button =
+    .title = Adicionar assinatura
+pdfjs-editor-signature-button-label = Adicionar assinatura
 
 ## Remove button for the various kind of editor.
 

@@ -316,6 +316,7 @@ newtab-custom-settings = Gerir mais definições
 
 newtab-wallpaper-title = Fundos
 newtab-wallpaper-reset = Repor predefinições
+newtab-wallpaper-upload-image = Carregar uma imagem
 newtab-wallpaper-custom-color = Escolha uma cor
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
@@ -406,8 +407,10 @@ feature-highlight-wallpaper =
 # Not to be confused with religious definition of the word.
 newtab-wallpaper-category-title-celestial = Celestial
 newtab-wallpaper-celestial-lunar-eclipse = Eclipse lunar
+newtab-wallpaper-celestial-earth-night = Fotografia noturna da órbita baixa da Terra
 newtab-wallpaper-celestial-starry-sky = Céu estrelado
 newtab-wallpaper-celestial-eclipse-time-lapse = Time-lapse de eclipse lunar
+newtab-wallpaper-celestial-black-hole = Ilustração de uma galáxia com um buraco negro
 newtab-wallpaper-celestial-river = Imagem satélite de rio
 
 ## New Tab Weather

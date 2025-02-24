@@ -463,5 +463,9 @@ multi-profile-callout-cta = Ustvari profil
 
 # If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
 desktop-to-mobile-headline = Prenesi, sinhroniziraj in gremo!
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Skenirajte kodo QR za prenos { -brand-product-name(sklon: "rodilnik") } za mobilne naprave. Ko je nameščen, izberite “Sinhronizacija z mobilno napravo” za dostop do gesel, zaznamkov in drugih podatkov na poti.
 dismiss-button-label = Skrij
 sync-to-mobile-button-label = Sinhronizacija z mobilno napravo
+desktop-to-mobile-qr-code-alt =
+    .aria-label = Koda QR za prenos { -brand-product-name(sklon: "rodilnik") } za mobilne naprave
