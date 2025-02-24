@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-profile-window-heading = Vyberte profil { -brand-short-name(case: "gen") }
+profile-window-heading = Výber profilu { -brand-short-name(case: "gen") }
 profile-window-body = Udržujte svoje pracovné a osobné prehliadanie, vrátane vecí, ako sú heslá a záložky, úplne oddelené. Alebo vytvorte profily pre každého, kto používa toto zariadenie.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
