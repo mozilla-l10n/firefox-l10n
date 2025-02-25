@@ -1121,7 +1121,7 @@ reset-pbm-panel-complete = Datos de session private delite
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } ha impedite que iste pagina se recarga automaticamente.
-refresh-blocked-redirect-label = { -brand-short-name } ha impedite a iste pagina de rediriger se automaticamente a un altere pagina.
+refresh-blocked-redirect-label = { -brand-short-name } ha impedite que iste pagina se redirige automaticamente a un altere pagina.
 refresh-blocked-allow =
     .label = Permitter
     .accesskey = P
