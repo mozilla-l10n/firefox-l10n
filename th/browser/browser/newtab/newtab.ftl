@@ -315,6 +315,12 @@ newtab-custom-settings = จัดการการตั้งค่าเพ�
 
 newtab-wallpaper-title = รูปพื้นหลัง
 newtab-wallpaper-reset = กลับเป็นค่าเริ่มต้น
+newtab-wallpaper-upload-image = อัปโหลดรูปภาพ
+newtab-wallpaper-custom-color = เลือกสี
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = รูปภาพมีขนาดเกินขีดจำกัดขนาดไฟล์ที่ { $file_size } MB โปรดลองอัปโหลดไฟล์ที่มีขนาดเล็กกว่านี้
+newtab-wallpaper-error-file-type = เราไม่สามารถอัปโหลดไฟล์ของคุณได้ โปรดลองอีกครั้งด้วยชนิดไฟล์ที่ต่างจากนี้
 newtab-wallpaper-light-red-panda = แพนด้าแดง
 newtab-wallpaper-light-mountain = ภูเขาสีขาว
 newtab-wallpaper-light-sky = ท้องฟ้าที่มีเมฆสีม่วงและสีชมพู
@@ -358,6 +364,10 @@ newtab-wallpaper-abstract-purple = รูปร่างสีม่วง
 newtab-wallpaper-abstract-orange = รูปร่างสีส้ม
 newtab-wallpaper-gradient-orange = ไล่ระดับสีส้มและชมพู
 newtab-wallpaper-abstract-blue-purple = รูปร่างสีน้ำเงินและสีม่วง
+newtab-wallpaper-abstract-white-curves = สีขาวพร้อมเส้นโค้งแรเงา
+newtab-wallpaper-abstract-purple-green = เกรเดียนท์สีอ่อนสีม่วงและสีเขียว
+newtab-wallpaper-abstract-blue-purple-waves = รูปทรงคลื่นสีน้ำเงินและสีม่วง
+newtab-wallpaper-abstract-black-waves = รูปทรงคลื่นสีดำ
 
 ## Celestial
 
@@ -368,6 +378,10 @@ newtab-wallpaper-storm-sky = ท้องฟ้ามีพายุ
 newtab-wallpaper-sky-with-pink-clouds = ท้องฟ้ามีเมฆสีชมพู
 newtab-wallpaper-red-panda-yawns-in-a-tree = แพนด้าแดงหาวอยู่บนต้นไม้
 newtab-wallpaper-white-mountains = ภูเขาสีขาว
+newtab-wallpaper-hot-air-balloons = บอลลูนลมร้อนหลากสีสันในช่วงกลางวัน
+newtab-wallpaper-starry-canyon = คืนที่เต็มไปด้วยดวงดาวสีฟ้า
+newtab-wallpaper-suspension-bridge = ภาพถ่ายสะพานแขวนสีเทาในช่วงกลางวัน
+newtab-wallpaper-sand-dunes = เนินทรายสีขาว
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
