@@ -59,6 +59,15 @@ split-dismiss-button-dont-show-option-label = Toto odporúčanie už nezobrazova
 split-dismiss-button-show-fewer-option-label = Zobrazovať menej odporúčaní
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Spravovať nastavenia
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option =
+    .label = Toto odporúčanie už nezobrazovať
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option =
+    .label = Zobrazovať menej odporúčaní
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option =
+    .label = Spravovať nastavenia
 
 ## Sidebar Strings
 
