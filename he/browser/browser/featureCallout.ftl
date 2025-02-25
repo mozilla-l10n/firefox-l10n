@@ -44,6 +44,15 @@ split-dismiss-button-dont-show-option-label = לא להציג המלצה זו ש
 split-dismiss-button-show-fewer-option-label = להציג פחות המלצות
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = ניהול הגדרות
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option =
+    .label = לא להציג המלצה זו שוב
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option =
+    .label = להציג פחות המלצות
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option =
+    .label = ניהול הגדרות
 
 ## Sidebar Strings
 
