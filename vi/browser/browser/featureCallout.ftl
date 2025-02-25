@@ -59,6 +59,15 @@ split-dismiss-button-dont-show-option-label = Không hiển thị đề xuất n
 split-dismiss-button-show-fewer-option-label = Hiển thị ít đề xuất hơn
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Quản lý cài đặt
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option =
+    .label = Không hiển thị đề xuất này lần nữa
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option =
+    .label = Hiển thị ít đề xuất hơn
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option =
+    .label = Quản lý cài đặt
 
 ## Sidebar Strings
 
