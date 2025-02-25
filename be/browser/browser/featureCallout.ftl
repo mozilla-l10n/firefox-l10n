@@ -59,6 +59,15 @@ split-dismiss-button-dont-show-option-label = Больш не паказваць
 split-dismiss-button-show-fewer-option-label = Паказваць менш рэкамендацый
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Кіраваць наладамі
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option =
+    .label = Больш не паказваць гэту рэкамендацыю
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option =
+    .label = Паказваць менш рэкамендацый
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option =
+    .label = Кіраваць наладамі
 
 ## Sidebar Strings
 
