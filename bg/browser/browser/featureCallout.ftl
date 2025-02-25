@@ -59,6 +59,15 @@ split-dismiss-button-dont-show-option-label = Без повторно показ
 split-dismiss-button-show-fewer-option-label = По-малко препоръки
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Настройки
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option =
+    .label = Без повторно показване на препоръката
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option =
+    .label = По-малко препоръки
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option =
+    .label = Настройки
 
 ## Sidebar Strings
 
