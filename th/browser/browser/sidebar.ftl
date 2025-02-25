@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = แชทบอต AI
 menu-view-review-checker =
     .label = เครื่องมือตรวจสอบบทวิจารณ์
+menu-view-contextual-password-manager =
+    .label = รหัสผ่าน
 sidebar-options-menu-button =
     .title = เปิดเมนู
 
@@ -115,6 +117,8 @@ sidebar-menu-customize-label =
     .label = ปรับแต่งแถบข้าง
 sidebar-menu-review-checker-label =
     .label = เครื่องมือตรวจสอบบทวิจารณ์
+sidebar-menu-contextual-password-manager-label =
+    .label = รหัสผ่าน
 
 ## Tooltips for sidebar menu items.
 
@@ -157,6 +161,8 @@ sidebar-menu-syncedtabs-header =
     .heading = แท็บจากอุปกรณ์อื่น ๆ
 sidebar-menu-bookmarks-header =
     .heading = ที่คั่นหน้า
+sidebar-menu-cpm-header =
+    .heading = รหัสผ่าน
 sidebar-panel-header-close-button =
     .tooltiptext = ปิด
 

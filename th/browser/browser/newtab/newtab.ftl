@@ -315,11 +315,11 @@ newtab-custom-settings = จัดการการตั้งค่าเพ�
 
 newtab-wallpaper-title = รูปพื้นหลัง
 newtab-wallpaper-reset = กลับเป็นค่าเริ่มต้น
-newtab-wallpaper-upload-image = อัปโหลดรูปภาพ
+newtab-wallpaper-upload-image = อัปโหลดภาพ
 newtab-wallpaper-custom-color = เลือกสี
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
-newtab-wallpaper-error-max-file-size = รูปภาพมีขนาดเกินขีดจำกัดขนาดไฟล์ที่ { $file_size } MB โปรดลองอัปโหลดไฟล์ที่มีขนาดเล็กกว่านี้
+newtab-wallpaper-error-max-file-size = ภาพมีขนาดเกินขีดจำกัดขนาดไฟล์ที่ { $file_size } MB โปรดลองอัปโหลดไฟล์ที่มีขนาดเล็กกว่านี้
 newtab-wallpaper-error-file-type = เราไม่สามารถอัปโหลดไฟล์ของคุณได้ โปรดลองอีกครั้งด้วยชนิดไฟล์ที่ต่างจากนี้
 newtab-wallpaper-light-red-panda = แพนด้าแดง
 newtab-wallpaper-light-mountain = ภูเขาสีขาว
@@ -382,6 +382,8 @@ newtab-wallpaper-hot-air-balloons = บอลลูนลมร้อนหล�
 newtab-wallpaper-starry-canyon = คืนที่เต็มไปด้วยดวงดาวสีฟ้า
 newtab-wallpaper-suspension-bridge = ภาพถ่ายสะพานแขวนสีเทาในช่วงกลางวัน
 newtab-wallpaper-sand-dunes = เนินทรายสีขาว
+newtab-wallpaper-palm-trees = ภาพเงาของต้นมะพร้าวในช่วงชั่วโมงทองคำ
+newtab-wallpaper-forest-trees = ต้นไม้ที่ถูกปกคลุมด้วยหมอก
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -399,6 +401,16 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = ท้องฟ้า
+newtab-wallpaper-celestial-lunar-eclipse = จันทรุปราคา
+newtab-wallpaper-celestial-earth-night = ภาพถ่ายตอนกลางคืนจากวงโคจรต่ำของโลก
+newtab-wallpaper-celestial-starry-sky = ท้องฟ้าที่เต็มไปด้วยดวงดาว
+newtab-wallpaper-celestial-eclipse-time-lapse = ภาพไทม์แลปส์ปรากฏการณ์จันทรุปราคา
+newtab-wallpaper-celestial-black-hole = ภาพประกอบกาแล็กซี่หลุมดำ
+newtab-wallpaper-celestial-river = ภาพถ่ายดาวเทียมของแม่น้ำ
 
 ## New Tab Weather
 
@@ -494,13 +506,22 @@ newtab-section-confirm-block-section-p1 = คุณแน่ใจหรือ�
 newtab-section-confirm-block-section-p2 = ส่วนที่ถูกปิดกั้นจะไม่ปรากฏในฟีดของคุณอีกต่อไป
 newtab-section-block-section-button = ปิดกั้นส่วนนี้
 newtab-section-cancel-button = ยังไม่ทำตอนนี้
+newtab-section-confirm-block-topic-p1 = คุณแน่ใจหรือไม่ว่าต้องการปิดกั้นหัวข้อนี้?
+newtab-section-confirm-block-topic-p2 = หัวข้อที่ถูกปิดกั้นจะไม่ปรากฏในฟีดของคุณอีกต่อไป
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = ปิดกั้น { $topic }
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = หัวข้อ
+newtab-section-manage-topics-button-v2 =
+    .label = จัดการหัวข้อ
+newtab-section-mangage-topics-followed-topics = ติดตามอยู่
 newtab-section-mangage-topics-button =
     .label = หัวข้อที่ติดตามและปิดกั้น
 newtab-section-mangage-topics-followed-topics-subtitle = หัวข้อที่ติดตาม
 newtab-section-mangage-topics-followed-topics-empty-state = คุณยังไม่ได้ติดตามหัวข้อใดๆ
+newtab-section-mangage-topics-blocked-topics = ปิดกั้นอยู่
 newtab-section-mangage-topics-blocked-topics-subtitle = หัวข้อที่ปิดกั้น
 newtab-section-mangage-topics-blocked-topics-empty-state = คุณยังไม่ได้ปิดกั้นหัวข้อใดๆ
