@@ -46,10 +46,6 @@ sidebar-customize-extensions-header = Пашырэнні бакавой панэ
 sidebar-customize-firefox-tools-header =
     .label = Прылады { -brand-product-name }
 sidebar-customize-firefox-settings = Кіраванне наладамі { -brand-short-name }
-sidebar-position-left =
-    .label = Паказаць злева
-sidebar-position-right =
-    .label = Паказаць справа
 sidebar-vertical-tabs =
     .label = Вертыкальныя карткі
 sidebar-settings =
@@ -64,18 +60,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Разгарнуць бакавую панэль пры навядзенні
-sidebar-horizontal-tabs =
-    .label = Гарызантальныя карткі
-sidebar-customize-tabs-header =
-    .label = Налады картак
-sidebar-customize-button-header =
-    .label = Кнопка бакавой панэлі
-sidebar-customize-position-header =
-    .label = Становішча бакавой панэлі
-sidebar-visibility-setting-always-show =
-    .label = Разгарнуць і згарнуць бакавую панэль
-sidebar-visibility-setting-hide-sidebar =
-    .label = Паказаць і схаваць бакавую панэль
 
 ## Labels for sidebar context menu items
 
@@ -138,8 +122,6 @@ sidebar-menu-open-bookmarks-tooltip = Адкрыць закладкі ({ $shortc
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Закрыць закладкі ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = Адкрыць чат-бот ШІ
-sidebar-menu-close-ai-chatbot-tooltip = Закрыць чат-бот ШІ
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

@@ -46,10 +46,6 @@ sidebar-customize-extensions-header = Sidepanels-udvidelser
 sidebar-customize-firefox-tools-header =
     .label = { -brand-product-name }-funktioner
 sidebar-customize-firefox-settings = Håndter { -brand-short-name }- indstillinger
-sidebar-position-left =
-    .label = Vis til venstre
-sidebar-position-right =
-    .label = Vis til højre
 sidebar-vertical-tabs =
     .label = Lodrette faneblade
 sidebar-settings =
@@ -64,18 +60,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Udvid sidepanel, når markøren holdes over
-sidebar-horizontal-tabs =
-    .label = Vandrette faneblade
-sidebar-customize-tabs-header =
-    .label = Fanebladsindstillinger
-sidebar-customize-button-header =
-    .label = Sidepanel-knap
-sidebar-customize-position-header =
-    .label = Sidepanel-placering
-sidebar-visibility-setting-always-show =
-    .label = Udvid og sammenfold sidepanelet
-sidebar-visibility-setting-hide-sidebar =
-    .label = Vis og skjul sidepanelet
 
 ## Labels for sidebar context menu items
 
@@ -138,8 +122,6 @@ sidebar-menu-open-bookmarks-tooltip = Åbn bogmærker ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Luk bogmærker ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = Åbn AI-chatbot
-sidebar-menu-close-ai-chatbot-tooltip = Luk AI-chatbot
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

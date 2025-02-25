@@ -54,10 +54,6 @@ sidebar-customize-firefox-settings =
         [with-cases] Spravovat nastavení { -brand-short-name(case: "gen") }
        *[no-cases] Spravovat nastavení aplikace { -brand-short-name }
     }
-sidebar-position-left =
-    .label = Zobrazit nalevo
-sidebar-position-right =
-    .label = Zobrazit vpravo
 sidebar-vertical-tabs =
     .label = Svislé panely
 sidebar-settings =
@@ -72,18 +68,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Rozbalit postranní panel při najetí myší
-sidebar-horizontal-tabs =
-    .label = Vodorovné panely
-sidebar-customize-tabs-header =
-    .label = Nastavení panelů
-sidebar-customize-button-header =
-    .label = Tlačítko v postranní liště
-sidebar-customize-position-header =
-    .label = Umístění postranní lišty
-sidebar-visibility-setting-always-show =
-    .label = Rozbalit a sbalit postranní lištu
-sidebar-visibility-setting-hide-sidebar =
-    .label = Zobrazit a skrýt postranní lištu
 
 ## Labels for sidebar context menu items
 
@@ -146,8 +130,6 @@ sidebar-menu-open-bookmarks-tooltip = Otevřít záložky ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Zavřít záložky ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = Otevřít AI chatbota
-sidebar-menu-close-ai-chatbot-tooltip = Zavřít AI chatbota
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

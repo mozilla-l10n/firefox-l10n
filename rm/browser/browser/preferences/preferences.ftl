@@ -1426,23 +1426,16 @@ httpsonly-header = Modus mo HTTPS
 httpsonly-description3 = Permetta mo connexiuns segiradas cun websites. { -brand-short-name } vegn a dumandar avant che connectar a moda betg segirada.
 httpsonly-learn-more2 = Co il modus mo HTTPS funcziuna
 httpsonly-description = HTTPS porscha ina connexiun segira, criptada tranter { -brand-short-name } e las websites che ti visitas. Las bleras websites sustegnan HTTPS e sch'il modus «mo HTTPS» è activà, connectescha { -brand-short-name } automaticamain cun HTTPS.
-httpsonly-description2 = { -brand-short-name } creescha connexiuns segiradas e criptadas cun las websites che ti visitas. { -brand-short-name } t’avertescha sche ina connexiun n’è betg segirada cura ch’il modus «mo HTTPS» è activà.
 httpsonly-learn-more = Ulteriuras infurmaziuns
 httpsonly-radio-enabled =
     .label = Activar il modus mo HTTPS en tut las fanestras
-httpsonly-radio-enabled2 =
-    .label = Mo utilisar HTTPS en tut las fanestras
 httpsonly-radio-enabled-pbm =
     .label = Activar il modus mo HTTPS sulettamain en fanestras privatas
 httpsonly-radio-disabled3 =
     .label = Betg activar il modus mo HTTPS
     .description = { -brand-short-name } actualisescha eventualmain tuttina tschertas connexiuns
-httpsonly-radio-enabled-pbm2 =
-    .label = Mo utilisar HTTPS en fanestras privatas
 httpsonly-radio-disabled =
     .label = Betg activar il modus mo HTTPS
-httpsonly-radio-disabled2 =
-    .label = Empruvar l’emprim HTTPS, ma permetter connexiuns betg segiradas
 
 ## DoH Section
 

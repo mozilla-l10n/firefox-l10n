@@ -50,15 +50,6 @@ experimental-features-ime-search-description = IME (Giriş Yöntemi Düzenleyici
 experimental-features-auto-pip =
     .label = Görüntü içinde görüntü: sekme değiştiğinde otomatik aç
 experimental-features-auto-pip-description = Sekmeler arasında geçiş yaparken etkin videolarda görüntü içinde görüntü modunu etkinleştirir.
-genai-settings-chat-title =
-    .label = Yapay zekâ sohbet botu
-# Updated sidebar settings
-sidebar-title =
-    .label = Kenar çubuğu
-sidebar-description = Gezinirken geçmişinize, diğer cihazlardaki sekmelere, kenar çubuğu uzantılarına ve daha fazlasına kolayca erişin. <a data-l10n-name="connect">Görüşlerinizi paylaşın</a>
-vertical-tabs-title =
-    .label = Dikey sekmeler
-vertical-tabs-description = Sekmelerinizi tarayıcının üst kısmından kenara taşıyın. Kenar çubuğunu da etkinleştirmeniz gerekir. <a data-l10n-name="connect">Görüşlerinizi paylaşın</a>
 experimental-features-group-developer-tools =
     .label = Geliştirici araçları
 experimental-features-group-webpage-display =

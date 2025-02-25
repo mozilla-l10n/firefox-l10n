@@ -50,15 +50,6 @@ experimental-features-ime-search-description = Um IME (Input Method Editor - edi
 experimental-features-auto-pip =
     .label = Vídeo em janela flutuante: abrir automaticamente ao trocar de separador
 experimental-features-auto-pip-description = Ativar o vídeo em janela flutuante nos vídeos ativos ao trocar de separador.
-genai-settings-chat-title =
-    .label = Chatbot de IA
-# Updated sidebar settings
-sidebar-title =
-    .label = Barra lateral
-sidebar-description = Durante a navegação, aceda facilmente ao seu histórico, separadores de outros dispositivos, extensões da barra lateral e muito mais. <a data-l10n-name="connect">Partilhe a sua opinião</a>
-vertical-tabs-title =
-    .label = Separadores verticais
-vertical-tabs-description = Desloque os seus separadores do topo do navegador para o lado. É necessário que experimente também a barra lateral. <a data-l10n-name="connect">Partilhe a sua opinião</a>.
 experimental-features-group-developer-tools =
     .label = Ferramentas do programador
 experimental-features-group-webpage-display =

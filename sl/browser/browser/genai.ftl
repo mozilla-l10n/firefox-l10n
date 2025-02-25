@@ -5,11 +5,6 @@
 
 ## Generative AI (GenAI) Settings section
 
-genai-settings-chat-description = V stransko vrstico doda klepetalnega robota po vaši izbiri za hiter dostop med brskanjem. <a data-l10n-name="connect">Povratne informacije</a>
-genai-settings-chat-choose = Izberite klepetalnik
-genai-settings-chat-choose-one-menuitem =
-    .label = Izberite enega
-genai-settings-chat-links = Ko izberete klepetalnik, se strinjate s pogoji uporabe in pravilnikom o zasebnosti ponudnika.
 genai-settings-chat-chatgpt-links = Z izbiro ChatGPT se strinjate s <a data-l10n-name="link1">pogoji uporabe</a> in <a data-l10n-name="link2">pravilnikom o zasebnosti</a> OpenAI.
 genai-settings-chat-claude-links = Z izbiro Anthropic Clauda se strinjate s <a data-l10n-name="link1">pogoji uporabe</a>, <a data-l10n-name="link2">pravilnikom o uporabi</a> in <a data-l10n-name="link3">pravilnikom o zasebnosti</a> Anthropica.
 genai-settings-chat-copilot-links = Z izbiro Copilota se strinjate s <a data-l10n-name="link1">pogoji uporabe Copilot AI Experiences</a> in <a data-l10n-name="link2">Microsoftovo izjavo o zasebnosti</a>.
@@ -17,9 +12,6 @@ genai-settings-chat-gemini-links = Z izbiro Google Gemini se strinjate z <a data
 genai-settings-chat-huggingchat-links = Z izbiro HuggingChata se strinjate z <a data-l10n-name="link1">obvestilom o zasebnosti HuggingChata</a> in <a data-l10n-name="link2">pravilnikom o zasebnosti Hugging Faca</a>.
 genai-settings-chat-lechat-links = Z izbiro Le Chat Mistral se strinjate s <a data-l10n-name="link1">pogoji uporabe</a> in z <a data-l10n-name="link2">obvestilom o zasebnosti</a>.
 genai-settings-chat-localhost-links = Pripeljite svoj zasebni klepetalnik, kot je <a data-l10n-name="link1">llamafile</a>, iz skupine za inovacije { -vendor-short-name }.
-genai-settings-chat-shortcuts =
-    .description = Prikaže bližnjico do pozivov, ko izbirate besedilo. { -brand-short-name } klepetalniku pošilja besedilo, naslov strani in poziv.
-    .label = Prikaži pozive ob izbiri besedila
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.

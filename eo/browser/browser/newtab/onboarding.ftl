@@ -445,9 +445,7 @@ onboarding-checklist-sign-up = Registriĝu aŭ komencu seancon per via konto
 
 tab-groups-onboarding-feature-callout-title = Provu la grupojn de langetoj, por pli da ordo kaj fokuso.
 tab-groups-onboarding-feature-callout-subtitle = Ordigu viajn langetojn per treno de unu sur alia, por krei vian unuan grupon.
-tab-groups-onboarding-create-group-title = Retrovu viajn malfermitajn grupojn en la langeta strio aŭ per serĉo en la adresa strio.
 tab-groups-onboarding-saved-groups-title = Se vi fermas grupon de langetoj, vi povas remalfermi ĝin ĉi tie, iam ajn.
-tab-groups-onboarding-saved-groups-no-alltabs-button-title = Trovu viajn fermitajn aŭ malfermitajn grupojn de langetoj iam ajn, per serĉo en la adresa strio.
 tab-groups-onboarding-dismiss = Akcepti
 
 ## Multi Profiles feature onboarding messages

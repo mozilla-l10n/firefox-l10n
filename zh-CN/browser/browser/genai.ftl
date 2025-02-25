@@ -5,11 +5,6 @@
 
 ## Generative AI (GenAI) Settings section
 
-genai-settings-chat-description = 将所选聊天机器人添加到侧栏，方便浏览时使用。<a data-l10n-name="connect">分享反馈</a>
-genai-settings-chat-choose = 选择聊天机器人
-genai-settings-chat-choose-one-menuitem =
-    .label = 请选择
-genai-settings-chat-links = 选择聊天机器人，即代表您同意相应提供方的使用条款和隐私政策。
 genai-settings-chat-chatgpt-links = 选择 ChatGPT，即代表您同意 OpenAI 的<a data-l10n-name="link1">使用条款</a>和<a data-l10n-name="link2">隐私政策</a>。
 genai-settings-chat-claude-links = 选择 Anthropic Claude，即代表您同意 Anthropic 的<a data-l10n-name="link1">消费者服务条款</a>、<a data-l10n-name="link2">使用政策</a>和<a data-l10n-name="link3">隐私政策</a>。
 genai-settings-chat-copilot-links = 选择 Copilot，即代表您同意 <a data-l10n-name="link1">Copilot AI 体验使用条款</a> 和 <a data-l10n-name="link2">Microsoft 隐私声明</a>。
@@ -17,9 +12,6 @@ genai-settings-chat-gemini-links = 选择 Google Gemini，即代表您同意 <a 
 genai-settings-chat-huggingchat-links = 选择 HuggingChat，即代表您同意 <a data-l10n-name="link1">HuggingChat 隐私声明</a>和 <a data-l10n-name="link2">Hugging Face 隐私政策</a>。
 genai-settings-chat-lechat-links = 选择 Le Chat Mistral，即代表您同意 Mistral AI 的<a data-l10n-name="link1">服务条款</a>和<a data-l10n-name="link2">隐私政策</a>。
 genai-settings-chat-localhost-links = 引入您私有的本地聊天机器人，例如 { -vendor-short-name }’s Innovation 集群打造的 <a data-l10n-name="link1">llamafile</a>。
-genai-settings-chat-shortcuts =
-    .description = 选中文本时显示快捷提示词按钮。{ -brand-short-name } 会向聊天机器人发送选中的文本、页面标题和提示词。
-    .label = 在选中文本旁显示提示词按钮
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.

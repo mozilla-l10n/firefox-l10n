@@ -445,9 +445,7 @@ onboarding-checklist-sign-up = Đăng ký hoặc đăng nhập vào tài khoản
 
 tab-groups-onboarding-feature-callout-title = Hãy thử nhóm thẻ để bớt lộn xộn hơn, tập trung hơn
 tab-groups-onboarding-feature-callout-subtitle = Sắp xếp gọn gàng bằng cách kéo thẻ này lên trên thẻ khác để tạo nhóm đầu tiên của bạn.
-tab-groups-onboarding-create-group-title = Tìm các nhóm đang mở của bạn trên thanh thẻ hoặc bằng cách tìm kiếm chúng trong thanh địa chỉ.
 tab-groups-onboarding-saved-groups-title = Nếu bạn đóng một nhóm thẻ, bạn có thể mở lại nó ở đây bất cứ lúc nào.
-tab-groups-onboarding-saved-groups-no-alltabs-button-title = Tìm các nhóm thẻ đang mở hoặc đóng của bạn bất cứ lúc nào bằng cách tìm kiếm trong thanh địa chỉ.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

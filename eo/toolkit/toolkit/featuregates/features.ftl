@@ -50,15 +50,6 @@ experimental-features-ime-search-description = IME (redaktilo de eniga metodo) e
 experimental-features-auto-pip =
     .label = Inkrustita video: aŭtomate malfermi post ŝanĝo de langeto
 experimental-features-auto-pip-description = Akvitivi inkrustitan videon en aktiva video post ŝanĝo de langeto.
-genai-settings-chat-title =
-    .label = A.I. dialoganto
-# Updated sidebar settings
-sidebar-title =
-    .label = Flanka strio
-sidebar-description = Facila aliro dum retumo al via historio, langetoj el aliaj aparatoj, etendaĵoj por la flanka strio kaj pli da aferoj. <a data-l10n-name="connect">Komenti</a>
-vertical-tabs-title =
-    .label = Vertikalaj langetoj
-vertical-tabs-description = Movu viajn langetojn el supre de la retumilo al la flanko. Por tio vi devas ankaŭ provi la flankan strion. <a data-l10n-name="connect">Komenti</a>
 experimental-features-group-developer-tools =
     .label = Iloj por programistoj
 experimental-features-group-webpage-display =

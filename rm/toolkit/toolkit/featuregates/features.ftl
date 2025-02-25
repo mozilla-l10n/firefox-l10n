@@ -50,15 +50,6 @@ experimental-features-ime-search-description = In IME (Input Method Editor) è i
 experimental-features-auto-pip =
     .label = Maletg-en-maletg: avrir automaticamain cun midar tab
 experimental-features-auto-pip-description = Activar maletg-en-maletg per videos activs cun midar tabs.
-genai-settings-chat-title =
-    .label = Chatbot IA
-# Updated sidebar settings
-sidebar-title =
-    .label = Trav laterala
-sidebar-description = Acceda durant la navigaziun a moda simpla a tia cronologia, a tabs dad auters apparats, ad extensiuns da la trav laterala ed a bler auter. <a data-l10n-name="connect">Dà tes resun</a>
-vertical-tabs-title =
-    .label = Tabs verticals
-vertical-tabs-description = Sposta tes tabs da la part sura dal navigatur en la part laterala. Per pudair utilisar questa funcziun sto la trav laterala esser activada. <a data-l10n-name="connect">Dar in resun</a>
 experimental-features-group-developer-tools =
     .label = Utensils per sviluppaders
 experimental-features-group-webpage-display =

@@ -1430,23 +1430,16 @@ httpsonly-header = „Samo HTTPS” modus
 httpsonly-description3 = Dozvoljava samo sigurne veze s web-stranicama. { -brand-short-name } će pitati prije nesigurnog povezivanja.
 httpsonly-learn-more2 = Kako funkcionira modus „Samo HTTPS”
 httpsonly-description = HTTPS pruža sigurnu, šifriranu vezu između { -brand-short-name(case: "gen") } i web stranica koje posjećuješ. Većina web stranica podržava HTTPS, a ako je aktiviran „Samo HTTPS” modus, tada će { -brand-short-name } nadograditi sve veze na HTTPS.
-httpsonly-description2 = { -brand-short-name } stvara sigurne i šifrirane veze sa stranicama koje posjećuješ. { -brand-short-name } će te upozoriti ukoliko veza nije sigurna kada je uključena opcija „Samo HTTPS”.
 httpsonly-learn-more = Saznaj više
 httpsonly-radio-enabled =
     .label = Aktiviraj „Samo HTTPS” modus u svim prozorima
-httpsonly-radio-enabled2 =
-    .label = Koristi samo HTTPS u svim prozorima
 httpsonly-radio-enabled-pbm =
     .label = Aktiviraj „Samo HTTPS” modus samo u privatnim prozorima
 httpsonly-radio-disabled3 =
     .label = Ne aktiviraj modus „Samo HTTPS”
     .description = { -brand-short-name } će možda i nadalje nadograditi neke veze
-httpsonly-radio-enabled-pbm2 =
-    .label = Koristi samo HTTPS u privatnim prozorima
 httpsonly-radio-disabled =
     .label = Nemoj aktivirati „Samo HTTPS” modus
-httpsonly-radio-disabled2 =
-    .label = Prvo pokušaj s HTTPS, ali dopusti veze koje nisu sigurne
 
 ## DoH Section
 

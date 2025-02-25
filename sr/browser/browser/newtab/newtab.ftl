@@ -252,7 +252,6 @@ newtab-pocket-thumbs-down-tooltip =
 # Used to show the user a message upon clicking the thumbs up or down buttons
 newtab-toast-thumbs-up-or-down2 =
     .message = Хвала. Ваше повратне информације помоћи ће нам да побољшамо предлоге.
-newtab-toast-thumbs-up-or-down = Хвала. Ваше повратне информације помоћи ће нам да побољшамо предлоге.
 newtab-toast-dismiss-button =
     .title = Одбаци
     .aria-label = Одбаци

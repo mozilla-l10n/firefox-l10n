@@ -1426,23 +1426,16 @@ httpsonly-header = Einungis-HTTPS-hamur
 httpsonly-description3 = Leyfir aðeins öruggar tengingar við vefsvæði. { -brand-short-name } mun spyrja áður en þú tengist á óöruggan hátt.
 httpsonly-learn-more2 = Hvernig virkar Einungis-HTTPS
 httpsonly-description = HTTPS veitir örugga, dulkóðaða tengingu milli { -brand-short-name } og vefsvæðanna sem þú heimsækir. Flest vefsvæði styðja HTTPS og ef Einungis-HTTPS-hamur er virkt mun { -brand-short-name } verða allar tengingar uppfærðar í HTTPS.
-httpsonly-description2 = { -brand-short-name } útbýr öruggar og dulritaðar tengingar við vefsvæði sem þú skoðar. { -brand-short-name } mun vara þig við ef tenging er ekki örugg þegar kveikt er á Einungis-HTTPS.
 httpsonly-learn-more = Kanna nánar
 httpsonly-radio-enabled =
     .label = Virkja Einungis-HTTPS-ham í öllum gluggum
-httpsonly-radio-enabled2 =
-    .label = Nota einungis HTTPS í öllum gluggum
 httpsonly-radio-enabled-pbm =
     .label = Virkja Einungis-HTTPS-ham aðeins í huliðsgluggum
 httpsonly-radio-disabled3 =
     .label = Ekki virkja Einungis-HTTPS-ham
     .description = { -brand-short-name } gæti samt uppfært sumar tengingar
-httpsonly-radio-enabled-pbm2 =
-    .label = Nota einungis HTTPS í huliðsgluggum
 httpsonly-radio-disabled =
     .label = Ekki virkja Einungis-HTTPS-ham
-httpsonly-radio-disabled2 =
-    .label = Prófa fyrst HTTPS, en leyfa tengingar sem eru ekki öruggar
 
 ## DoH Section
 

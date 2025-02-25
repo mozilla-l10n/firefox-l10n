@@ -50,15 +50,6 @@ experimental-features-ime-search-description = Offeryn yw IME (Golygydd Dull Mew
 experimental-features-auto-pip =
     .label = Llun-mewn-Llun: agor yn awtomatig wrth newid tabiau
 experimental-features-auto-pip-description = Galluogi Llun-mewn-Llun ar fideos byw wrth newid tabiau.
-genai-settings-chat-title =
-    .label = Sgwrsfot AI
-# Updated sidebar settings
-sidebar-title =
-    .label = Bar Ochr
-sidebar-description = Cyrchwch eich hanes, tabiau o ddyfeisiau eraill, estyniadau bar ochr, a mwy yn hawdd wrth i chi bori. <a data-l10n-name="connect">Rhannu adborth</a>
-vertical-tabs-title =
-    .label = Tabiau fertigol
-vertical-tabs-description = Symudwch eich tabiau o frig y porwr i'r ochr. Mae angen i chi hefyd roi cynnig ar y bar ochr. <a data-l10n-name="connect">Rhannu adborth</a>
 experimental-features-group-developer-tools =
     .label = Offer Datblygwyr
 experimental-features-group-webpage-display =

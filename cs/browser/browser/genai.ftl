@@ -5,11 +5,6 @@
 
 ## Generative AI (GenAI) Settings section
 
-genai-settings-chat-description = Přidá chatbota dle vašeho výběru na postranní lištu pro rychlý přístup během prohlížení. <a data-l10n-name="connect">Sdílet zpětnou vazbu</a>
-genai-settings-chat-choose = Vyberte si chatbota
-genai-settings-chat-choose-one-menuitem =
-    .label = Vyberte jeden
-genai-settings-chat-links = Výběrem chatbota souhlasíte s podmínkami jeho používání a zásadami ochrany osobních údajů.
 genai-settings-chat-chatgpt-links = Volbou ChatGPT souhlasíte s <a data-l10n-name="link1">podmínkami používání</a> a <a data-l10n-name="link2">zásadami ochrany osobních údajů</a> společnosti OpenAI.
 genai-settings-chat-claude-links = Volbou Anthropic Claude souhlasíte s <a data-l10n-name="link1">podmínkami používání služby</a>, <a data-l10n-name="link2">zásadami používání</a> a <a data-l10n-name="link3">zásadami ochrany osobních údajů</a> společnosti Anthropic.
 genai-settings-chat-copilot-links = Volbou Copilotu souhlasíte s <a data-l10n-name="link1">podmínkami Copilot AI Experiences</a> a <a data-l10n-name="link2">prohlášením společnosti Microsoft o ochraně osobních údajů</a>.
@@ -21,9 +16,6 @@ genai-settings-chat-localhost-links =
         [with-cases] Přiveďte svého vlastního soukromého místního chatbota jako je například <a data-l10n-name="link1">llamafile</a> ze skupiny inovací od { -vendor-short-name(case: "gen") }.
        *[no-cases] Přiveďte svého vlastního soukromého místního chatbota jako je například <a data-l10n-name="link1">llamafile</a> ze skupiny inovací organizace { -vendor-short-name }.
     }
-genai-settings-chat-shortcuts =
-    .description = Při označení textu zobrazí odkazy na výzvu pro chatbota. { -brand-short-name } odešle chatbotu text, nadpis stránky a výzvu.
-    .label = Zobrazí výzvy k vybranému textu
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.

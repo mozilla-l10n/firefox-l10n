@@ -446,9 +446,7 @@ onboarding-checklist-sign-up = Créer un compte ou vous connecter
 
 tab-groups-onboarding-feature-callout-title = Essayez les groupes d’onglets pour moins de distractions, plus de concentration
 tab-groups-onboarding-feature-callout-subtitle = Organisez vos onglets en faisant glisser un onglet au-dessus d’un autre pour créer votre premier groupe.
-tab-groups-onboarding-create-group-title = Retrouvez les groupes ouverts dans la barre d’onglets ou recherchez-les dans la barre d’adresse.
 tab-groups-onboarding-saved-groups-title = Si vous fermez un groupe d’onglets, vous pouvez le rouvrir ici à tout moment.
-tab-groups-onboarding-saved-groups-no-alltabs-button-title = Retrouvez à tout moment vos groupes d’onglets ouverts ou fermés en les recherchant dans la barre d’adresse.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

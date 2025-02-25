@@ -446,9 +446,7 @@ onboarding-checklist-sign-up = Tilmeld dig eller log ind på din konto
 
 tab-groups-onboarding-feature-callout-title = Prøv fanebladsgrupper for at skabe mere orden og fokus
 tab-groups-onboarding-feature-callout-subtitle = Organiser dine faneblade ved at trække et faneblad hen oven på et andet for at skabe din første gruppe.
-tab-groups-onboarding-create-group-title = Find dine åbne grupper i fanebladslinjen - eller ved at søge efter dem i adressefeltet.
 tab-groups-onboarding-saved-groups-title = Hvis du lukker en fanebladsgruppe, kan du når som helst genåbne den her.
-tab-groups-onboarding-saved-groups-no-alltabs-button-title = Find dine åbne eller lukkede fanebladsgrupper ved at søge efter dem i adressefeltet.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

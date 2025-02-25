@@ -1426,23 +1426,16 @@ httpsonly-header = Nur-HTTPS-Modus
 httpsonly-description3 = Erlaubt nur sichere Verbindungen zu Websites. { -brand-short-name } wird nachfragen, bevor eine unsichere Verbindung hergestellt wird.
 httpsonly-learn-more2 = So funktioniert Nur-HTTPS
 httpsonly-description = HTTPS bietet eine sichere, verschlüsselte Verbindung zwischen { -brand-short-name } und den von Ihnen besuchten Websites. Die meisten Websites unterstützen HTTPS und wenn der Nur-HTTPS-Modus aktiviert ist, wird { -brand-short-name } alle Verbindungen zu HTTPS aufrüsten.
-httpsonly-description2 = { -brand-short-name } stellt sichere und verschlüsselte Verbindungen zu den von Ihnen besuchten Websites her. { -brand-short-name } warnt Sie, wenn eine Verbindung nicht sicher ist und der Nur-HTTPS-Modus aktiv ist.
 httpsonly-learn-more = Weitere Informationen
 httpsonly-radio-enabled =
     .label = Nur-HTTPS-Modus in allen Fenstern aktivieren
-httpsonly-radio-enabled2 =
-    .label = Nur HTTPS in allen Fenstern verwenden
 httpsonly-radio-enabled-pbm =
     .label = Nur-HTTPS-Modus nur in privaten Fenstern aktivieren
 httpsonly-radio-disabled3 =
     .label = Nur-HTTPS-Modus nicht aktivieren
     .description = { -brand-short-name } könnte trotzdem einige Verbindungen ändern
-httpsonly-radio-enabled-pbm2 =
-    .label = Nur HTTPS in privaten Fenstern verwenden
 httpsonly-radio-disabled =
     .label = Nur-HTTPS-Modus nicht aktivieren
-httpsonly-radio-disabled2 =
-    .label = Zuerst HTTPS ausprobieren, aber nicht sichere Verbindungen erlauben
 
 ## DoH Section
 

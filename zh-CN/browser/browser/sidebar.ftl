@@ -46,10 +46,6 @@ sidebar-customize-extensions-header = 侧栏扩展
 sidebar-customize-firefox-tools-header =
     .label = { -brand-product-name } 工具
 sidebar-customize-firefox-settings = 管理 { -brand-short-name } 设置
-sidebar-position-left =
-    .label = 在左侧显示
-sidebar-position-right =
-    .label = 在右侧显示
 sidebar-vertical-tabs =
     .label = 垂直标签页
 sidebar-settings =
@@ -64,18 +60,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = 悬停时展开侧栏
-sidebar-horizontal-tabs =
-    .label = 水平标签页
-sidebar-customize-tabs-header =
-    .label = 标签页设置
-sidebar-customize-button-header =
-    .label = 侧栏按钮
-sidebar-customize-position-header =
-    .label = 侧栏位置
-sidebar-visibility-setting-always-show =
-    .label = 展开和收起侧栏
-sidebar-visibility-setting-hide-sidebar =
-    .label = 显示和隐藏侧栏
 
 ## Labels for sidebar context menu items
 
@@ -138,8 +122,6 @@ sidebar-menu-open-bookmarks-tooltip = 打开书签 ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = 关闭书签 ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = 打开 AI 聊天机器人
-sidebar-menu-close-ai-chatbot-tooltip = 关闭 AI 聊天机器人
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

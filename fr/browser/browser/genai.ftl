@@ -5,11 +5,6 @@
 
 ## Generative AI (GenAI) Settings section
 
-genai-settings-chat-description = Ajoute le chatbot de votre choix au panneau latéral, pour un accès rapide pendant la navigation. <a data-l10n-name="connect">Donner votre avis</a>
-genai-settings-chat-choose = Choisir un chatbot
-genai-settings-chat-choose-one-menuitem =
-    .label = Sélectionner un chatbot
-genai-settings-chat-links = Lorsque vous choisissez un chatbot, vous acceptez les conditions d’utilisation et la politique de confidentialité de son fournisseur.
 genai-settings-chat-chatgpt-links = En choisissant ChatGPT, vous acceptez les <a data-l10n-name="link1">Conditions d’utilisation</a> et la <a data-l10n-name="link2">Politique de confidentialité</a> d’OpenAI.
 genai-settings-chat-claude-links = En choisissant Anthropic Claude, vous acceptez les <a data-l10n-name="link1">Conditions d’utilisation</a>, la <a data-l10n-name="link2">Politique d’utilisation</a> et la <a data-l10n-name="link3">Politique de confidentialité</a> d’Anthropic.
 genai-settings-chat-copilot-links = En choisissant Copilot, vous acceptez les <a data-l10n-name="link1">Conditions d’utilisation de Copilot AI Experiences</a> et la <a data-l10n-name="link2">Déclaration de confidentialité de Microsoft</a>.
@@ -17,9 +12,6 @@ genai-settings-chat-gemini-links = En choisissant Google Gemini, vous acceptez l
 genai-settings-chat-huggingchat-links = En choisissant HuggingChat, vous acceptez <a data-l10n-name="link1">l’Avis de confidentialité d’HuggingChat</a> et la <a data-l10n-name="link2">Politique de confidentialité d’Hugging Face</a>.
 genai-settings-chat-lechat-links = En choisissant Le Chat Mistral, vous acceptez les <a data-l10n-name="link1">Conditions d’utilisation</a> et la <a data-l10n-name="link2">Politique de confidentialité</a> de Mistral AI.
 genai-settings-chat-localhost-links = Utilisez votre propre chatbot privé local, comme <a data-l10n-name="link1">llamafile</a>, conçu par le groupe Innovation de { -vendor-short-name }.
-genai-settings-chat-shortcuts =
-    .description = Affiche un raccourci vers des prompts lorsque vous sélectionnez du texte. { -brand-short-name } envoie le texte, le titre de la page et le prompt au chatbot.
-    .label = Afficher des prompts lors de la sélection de texte
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.

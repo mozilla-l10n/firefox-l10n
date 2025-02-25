@@ -50,15 +50,6 @@ experimental-features-ime-search-description = Un IME (Editor de método de entr
 experimental-features-auto-pip =
     .label = Picture-in-Picture: abrir automáticamente al cambiar de pestaña
 experimental-features-auto-pip-description = Activar Picture-in-Picture en videos activos al cambiar de pestañas.
-genai-settings-chat-title =
-    .label = Chatbot de IA
-# Updated sidebar settings
-sidebar-title =
-    .label = Barra lateral
-sidebar-description = Accede fácilmente a tu historial, pestañas de otros dispositivos, extensiones de la barra lateral y más mientras navegas. <a data-l10n-name="connect">Comparte tus comentarios</a>
-vertical-tabs-title =
-    .label = Pestañas verticales
-vertical-tabs-description = Mueve las pestañas de la parte superior del navegador al costado. Requiere que también pruebes la barra lateral. <a data-l10n-name="connect">Comparte tus comentarios</a>
 experimental-features-group-developer-tools =
     .label = Herramientas de desarrollador
 experimental-features-group-webpage-display =

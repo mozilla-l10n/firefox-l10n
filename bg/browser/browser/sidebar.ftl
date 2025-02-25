@@ -44,24 +44,8 @@ sidebar-customize-extensions-header = Разширения за страничн
 sidebar-customize-firefox-tools-header =
     .label = Инструменти на { -brand-product-name }
 sidebar-customize-firefox-settings = Управление на настройките на { -brand-short-name }
-sidebar-position-left =
-    .label = Показване отляво
-sidebar-position-right =
-    .label = Показване отдясно
 sidebar-vertical-tabs =
     .label = Вертикални раздели
-sidebar-horizontal-tabs =
-    .label = Хоризонтални раздели
-sidebar-customize-tabs-header =
-    .label = Настройки на разделите
-sidebar-customize-button-header =
-    .label = Бутон на страничната лента
-sidebar-customize-position-header =
-    .label = Място на страничната лента
-sidebar-visibility-setting-always-show =
-    .label = Разгъване и свиване на страничната лента
-sidebar-visibility-setting-hide-sidebar =
-    .label = Показване и скриване на страничната лента
 
 ## Labels for sidebar context menu items
 
@@ -122,8 +106,6 @@ sidebar-menu-open-bookmarks-tooltip = Отваряне на отметките (
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Затваряне на отметките ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = Отваряне на AI чатбот
-sidebar-menu-close-ai-chatbot-tooltip = Затваряне на AI чатбот
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

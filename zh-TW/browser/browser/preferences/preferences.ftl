@@ -1414,23 +1414,16 @@ httpsonly-header = 純 HTTPS 模式
 httpsonly-description3 = 僅允許對網站使用安全連線。{ -brand-short-name } 會在進行不安全連線前先詢問。
 httpsonly-learn-more2 = 純 HTTPS 模式的運作原理是什麼？
 httpsonly-description = HTTPS 讓您與要造訪的網站間，能夠有安全而加密過的連線。大部分的網站都支援 HTTPS，開啟純 HTTPS 模式後，{ -brand-short-name } 就會將所有的連線都升級為 HTTPS 連線。
-httpsonly-description2 = { -brand-short-name } 會以安全、加密過的方式連線到您要造訪的網站。開啟純 HTTPS 模式後，若遇到不安全連線，{ -brand-short-name } 會警告您。
 httpsonly-learn-more = 了解更多
 httpsonly-radio-enabled =
     .label = 在所有視窗都開啟純 HTTPS 模式
-httpsonly-radio-enabled2 =
-    .label = 在所有視窗都只使用 HTTPS 連線
 httpsonly-radio-enabled-pbm =
     .label = 僅在隱私瀏覽視窗開啟純 HTTPS 模式
 httpsonly-radio-disabled3 =
     .label = 不要開啟純 HTTPS 模式
     .description = { -brand-short-name } 可能還是會將某些連線升級為 HTTPS 連線
-httpsonly-radio-enabled-pbm2 =
-    .label = 在隱私視窗僅使用 HTTPS 連線
 httpsonly-radio-disabled =
     .label = 不開啟純 HTTPS 模式
-httpsonly-radio-disabled2 =
-    .label = 優先使用 HTTPS 連線，但也允許不安全的連線
 
 ## DoH Section
 

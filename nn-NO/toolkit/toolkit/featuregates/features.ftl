@@ -50,15 +50,6 @@ experimental-features-ime-search-description = Ein IME (Input Method Editor) er 
 experimental-features-auto-pip =
     .label = Bilde-i-bilde: automatisk opning når du byter fane
 experimental-features-auto-pip-description = Slå på bilde-i-bilde på aktive videoar når du byter fane.
-genai-settings-chat-title =
-    .label = AI-chatbot
-# Updated sidebar settings
-sidebar-title =
-    .label = Sidestolpe
-sidebar-description = Få enkel tilgang til historikken din, faner frå andre einingar, sidestolpe-utvidingar, og meir, når du surfar. <a data-l10n-name="connect">Del tilbakemelding</a>
-vertical-tabs-title =
-    .label = Vertikale faner
-vertical-tabs-description = Flytt fanene dine frå toppen av nettlesaren til sida. Dette krev at du aktiverer sidestolpen. <a data-l10n-name="connect">Del tilbakemelding</a>
 experimental-features-group-developer-tools =
     .label = Utviklarverktøy
 experimental-features-group-webpage-display =

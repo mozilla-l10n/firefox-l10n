@@ -44,10 +44,6 @@ sidebar-customize-extensions-header = Estensiones de sa barra laterale
 sidebar-customize-firefox-tools-header =
     .label = Ainas de { -brand-product-name }
 sidebar-customize-firefox-settings = Gesti sa cunfiguratzione de { -brand-short-name }
-sidebar-position-left =
-    .label = Ammustra a manca
-sidebar-position-right =
-    .label = Ammustra a sa dereta
 sidebar-vertical-tabs =
     .label = Ischedas verticales
 sidebar-settings =
@@ -58,18 +54,6 @@ sidebar-show-on-the-right =
     .label = Move sa barra laterale a manu dereta
 sidebar-show-on-the-left =
     .label = Move sa barra laterale a manu manca
-sidebar-horizontal-tabs =
-    .label = Ischedas orizontales
-sidebar-customize-tabs-header =
-    .label = Cunfiguratzione de ischeda
-sidebar-customize-button-header =
-    .label = Butone de sa barra laterale
-sidebar-customize-position-header =
-    .label = Positzione de sa barra laterale
-sidebar-visibility-setting-always-show =
-    .label = Ismànnia e mìnima sa barra laterale
-sidebar-visibility-setting-hide-sidebar =
-    .label = Ammustra e cua sa barra laterale
 
 ## Labels for sidebar context menu items
 
@@ -130,8 +114,6 @@ sidebar-menu-open-bookmarks-tooltip = Aberi is sinnalibros ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Serra is sinnalibros ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = Aberi su chatbot IA
-sidebar-menu-close-ai-chatbot-tooltip = Serra su chatbot IA
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

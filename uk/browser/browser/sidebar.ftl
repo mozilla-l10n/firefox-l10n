@@ -44,24 +44,8 @@ sidebar-customize-extensions-header = Розширення бічної пане
 sidebar-customize-firefox-tools-header =
     .label = Інструменти { -brand-product-name }
 sidebar-customize-firefox-settings = Керувати налаштуваннями { -brand-short-name }
-sidebar-position-left =
-    .label = Показати ліворуч
-sidebar-position-right =
-    .label = Показати праворуч
 sidebar-vertical-tabs =
     .label = Вертикальні вкладки
-sidebar-horizontal-tabs =
-    .label = Горизонтальні вкладки
-sidebar-customize-tabs-header =
-    .label = Налаштування вкладок
-sidebar-customize-button-header =
-    .label = Кнопка бічної панелі
-sidebar-customize-position-header =
-    .label = Розташування бічної панелі
-sidebar-visibility-setting-always-show =
-    .label = Розгорнути та згорнути бічну панель
-sidebar-visibility-setting-hide-sidebar =
-    .label = Показати та приховати бічну панель
 
 ## Labels for sidebar context menu items
 
@@ -122,8 +106,6 @@ sidebar-menu-open-bookmarks-tooltip = Відкрити закладки ({ $shor
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Закрити закладки ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = Відкрити чат-бот з ШІ
-sidebar-menu-close-ai-chatbot-tooltip = Закрити чат-бот з ШІ
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

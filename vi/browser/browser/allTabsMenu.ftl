@@ -19,7 +19,6 @@ all-tabs-menu-close-all-duplicate-tabs =
 all-tabs-menu-synced-tabs =
     .label = Thẻ từ thiết bị khác
 all-tabs-menu-current-window-header = Cửa sổ hiện tại
-# "Show all" is for showing all open groups as well as saved groups. Initially,
-# we only show up to five of these groups.
+# This opens the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-show-all =
     .label = Hiện tất cả

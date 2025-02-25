@@ -5,11 +5,6 @@
 
 ## Generative AI (GenAI) Settings section
 
-genai-settings-chat-description = הוספת צ’אט בוט לבחירתך לסרגל הצד, לקבלת גישה מהירה תוך כדי גלישה. <a data-l10n-name="connect">מתן משוב</a>
-genai-settings-chat-choose = בחירת צ’אט בוט
-genai-settings-chat-choose-one-menuitem =
-    .label = נא לבחור באחד
-genai-settings-chat-links = בחירה בצ’אט בוט מהווה הסכמה לתנאי השימוש ולמדיניות הפרטיות של ספק הצ’אט בוט.
 genai-settings-chat-chatgpt-links = בחירה ב־ChatGPT מהווה הסכמה ל<a data-l10n-name="link1">תנאי השימוש</a> ול<a data-l10n-name="link2">מדיניות הפרטיות</a> של OpenAI.
 genai-settings-chat-claude-links = בחירה ב־Anthropic Claude מהווה הסכמה ל<a data-l10n-name="link1">תנאי השירות של הצרכן</a>, <a data-l10n-name="link2">מדיניות השימוש</a> ו<a data-l10n-name="link3">מדיניות הפרטיות</a> של Anthropic.
 genai-settings-chat-copilot-links = בחירה ב־Copilot מהווה הסכמה ל<a data-l10n-name="link1">תנאי החוויות של Copilot AI</a> ול<a data-l10n-name="link2">הצהרת הפרטיות של Microsoft</a>.

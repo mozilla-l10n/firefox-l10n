@@ -42,24 +42,8 @@ sidebar-customize-extensions-header = امتدادات الشريط الجانب
 sidebar-customize-firefox-tools-header =
     .label = أدوات { -brand-product-name }
 sidebar-customize-firefox-settings = إدارة إعدادات { -brand-short-name }
-sidebar-position-left =
-    .label = عرض على اليسار
-sidebar-position-right =
-    .label = عرض على اليمين
 sidebar-vertical-tabs =
     .label = علامات التبويب العمودية
-sidebar-horizontal-tabs =
-    .label = علامات التبويب الأفقية
-sidebar-customize-tabs-header =
-    .label = إعدادات الألسنة
-sidebar-customize-button-header =
-    .label = زر الشريط الجانبي
-sidebar-customize-position-header =
-    .label = موضع الشريط الجانبي
-sidebar-visibility-setting-always-show =
-    .label = توسيع وتقليص الشريط الجانبي
-sidebar-visibility-setting-hide-sidebar =
-    .label = إظهار وإخفاء الشريط الجانبي
 
 ## Labels for sidebar context menu items
 

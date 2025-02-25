@@ -5,11 +5,6 @@
 
 ## Generative AI (GenAI) Settings section
 
-genai-settings-chat-description = Agiunghet su chatbot chi sèberes a sa barra laterale, pro ddoe atzèdere a lestru comente ses navighende. <a data-l10n-name="connect">Imbia cummentos</a>
-genai-settings-chat-choose = Sèbera unu chatbot
-genai-settings-chat-choose-one-menuitem =
-    .label = Sèbera·nde unu
-genai-settings-chat-links = Cando sèberas unu chatbot, atzetas is cunditziones de impreu de su frunidore e sa polìtica de riservadesa sua.
 genai-settings-chat-chatgpt-links = Seberende ChatGPT, atzetas is <a data-l10n-name="link1">Cunditziones de impreu</a> e sa <a data-l10n-name="link2">polìtica de riservadesa</a> de OpenAI.
 genai-settings-chat-claude-links = Seberende Anthropic Claude, atzetas is <a data-l10n-name="link1">cunditziones de su servìtziu</a>, sa <a data-l10n-name="link2">polìtica de impreu</a> e sa <a data-l10n-name="link3">polìtica de riservadesa</a> de Anthropic.
 genai-settings-chat-copilot-links = Seberende Copilot, atzetas is <a data-l10n-name="link1">Cunditziones de esperièntzias de Copilot AI</a> e su <a data-l10n-name="link2">Decraru de riservadesa de Microsoft</a>.

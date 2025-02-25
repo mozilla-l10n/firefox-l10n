@@ -446,9 +446,7 @@ onboarding-checklist-sign-up = Crear in conto u s’annunziar en tes conto
 
 tab-groups-onboarding-feature-callout-title = Emprova las gruppas da tabs per dapli urden e concentraziun
 tab-groups-onboarding-feature-callout-subtitle = Optimescha l’organisaziun cun trair in tab sin in auter per crear tia emprima gruppa.
-tab-groups-onboarding-create-group-title = Chatta tias gruppas avertas en la trav da tabs u las tschertga en la trav d’adressas.
 tab-groups-onboarding-saved-groups-title = Sche ti serras ina gruppa da tabs, pos ti la reavrir qua da tut temp.
-tab-groups-onboarding-saved-groups-no-alltabs-button-title = Chatta tias gruppas da tabs avertas u serradas da tut temp cun las tschertgar en la trav d’adressas.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

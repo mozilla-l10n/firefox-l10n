@@ -263,7 +263,6 @@ newtab-pocket-thumbs-down-tooltip =
 # Used to show the user a message upon clicking the thumbs up or down buttons
 newtab-toast-thumbs-up-or-down2 =
     .message = 감사합니다. 사용자의 의견은 제품 개선에 도움이 됩니다.
-newtab-toast-thumbs-up-or-down = 감사합니다. 사용자의 의견은 제품 개선에 도움이 됩니다.
 newtab-toast-dismiss-button =
     .title = 닫기
     .aria-label = 닫기

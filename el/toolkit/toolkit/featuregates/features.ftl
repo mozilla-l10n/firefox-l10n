@@ -50,15 +50,6 @@ experimental-features-ime-search-description = Το IME (Input Method Editor) ε
 experimental-features-auto-pip =
     .label = Εικόνα εντός εικόνας: αυτόματο άνοιγμα με εναλλαγή καρτελών
 experimental-features-auto-pip-description = Ενεργοποίηση λειτουργίας «Εικόνα εντός εικόνας» σε ενεργά βίντεο κατά την εναλλαγή καρτελών.
-genai-settings-chat-title =
-    .label = Chatbot ΤΝ
-# Updated sidebar settings
-sidebar-title =
-    .label = Πλαϊνή γραμμή
-sidebar-description = Αποκτήστε εύκολα πρόσβαση στο ιστορικό, τις καρτέλες από άλλες συσκευές, τις επεκτάσεις πλαϊνής γραμμής και πολλά άλλα κατά την περιήγησή σας. <a data-l10n-name="connect">Αποστολή σχολίων</a>
-vertical-tabs-title =
-    .label = Κάθετες καρτέλες
-vertical-tabs-description = Μετακινήστε τις καρτέλες σας από το πάνω μέρος του προγράμματος περιήγησης στο πλάι. Θα πρέπει επίσης να δοκιμάσετε και την πλαϊνή γραμμή. <a data-l10n-name="connect">Αποστολή σχολίων</a>
 experimental-features-group-developer-tools =
     .label = Εργαλεία ανάπτυξης
 experimental-features-group-webpage-display =

@@ -262,7 +262,6 @@ newtab-pocket-thumbs-down-tooltip =
 # Used to show the user a message upon clicking the thumbs up or down buttons
 newtab-toast-thumbs-up-or-down2 =
     .message = Aguyje. Nde jehai ore pytyvõta iporãve hag̃ua ne marandurã.
-newtab-toast-thumbs-up-or-down = Aguyje. Nde jehai ore pytyvõta iporãve hag̃ua ne marandurã.
 newtab-toast-dismiss-button =
     .title = Emboyke
     .aria-label = Emboyke

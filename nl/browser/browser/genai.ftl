@@ -5,11 +5,6 @@
 
 ## Generative AI (GenAI) Settings section
 
-genai-settings-chat-description = Voegt de chatbot van uw keuze toe aan de zijbalk, voor snelle toegang terwijl u surft. <a data-l10n-name="connect">Feedback delen</a>
-genai-settings-chat-choose = Kies een chatbot
-genai-settings-chat-choose-one-menuitem =
-    .label = Kies er een
-genai-settings-chat-links = Wanneer u een chatbot kiest, gaat u akkoord met de gebruiksvoorwaarden en het privacybeleid van de provider.
 genai-settings-chat-chatgpt-links = Door ChatGPT te kiezen, gaat u akkoord met de <a data-l10n-name="link1">Gebruiksvoorwaarden</a> en het <a data-l10n-name="link2">Privacybeleid</a> van OpenAI.
 genai-settings-chat-claude-links = Door Anthropic Claude te kiezen, gaat u akkoord met de <a data-l10n-name="link1">Servicevoorwaarden voor consumenten</a>, het <a data-l10n-name="link2">gebruiksbeleid</a> en het <a data-l10n-name="link3">Privacybeleid</a> van Anthropic.
 genai-settings-chat-copilot-links = Door Copilot te kiezen, gaat u akkoord met de <a data-l10n-name="link1">Voorwaarden van Copilot AI Experiences</a> en de <a data-l10n-name="link2">Privacyverklaring van Microsoft</a>.
@@ -17,9 +12,6 @@ genai-settings-chat-gemini-links = Door Google Gemini te kiezen, gaat u akkoord 
 genai-settings-chat-huggingchat-links = Door HuggingChat te kiezen, gaat u akkoord met de <a data-l10n-name="link1">Privacyverklaring van HuggingChat</a> en het <a data-l10n-name="link2">Privacybeleid van Hugging Face</a>.
 genai-settings-chat-lechat-links = Door Le Chat Mistral te kiezen, gaat u akkoord met de <a data-l10n-name="link1">Servicevoorwaarden</a> en het <a data-l10n-name="link2">Privacybeleid</a> van Mistral AI.
 genai-settings-chat-localhost-links = Breng uw eigen privé lokale chatbot mee, zoals <a data-l10n-name="link1">llamafile</a> van de Innovation-groep van { -vendor-short-name }.
-genai-settings-chat-shortcuts =
-    .description = Toont een snelkoppeling naar prompts wanneer u tekst selecteert. { -brand-short-name } verzendt de tekst, paginatitel en prompt naar de chatbot.
-    .label = Toont prompts bij tekstselectie
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.

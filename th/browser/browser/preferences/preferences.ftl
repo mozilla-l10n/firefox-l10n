@@ -1410,23 +1410,16 @@ httpsonly-header = โหมด HTTPS-Only
 httpsonly-description3 = อนุญาตเฉพาะการเชื่อมต่อที่ปลอดภัยกับเว็บไซต์เท่านั้น { -brand-short-name } จะถามก่อนเชื่อมต่อแบบไม่ปลอดภัย
 httpsonly-learn-more2 = HTTPS-Only ทำงานอย่างไร
 httpsonly-description = HTTPS จะจัดให้มีการเชื่อมต่อแบบเข้ารหัสที่ปลอดภัยระหว่าง { -brand-short-name } และเว็บไซต์ที่คุณเยี่ยมชม เว็บไซต์ส่วนใหญ่จะรองรับ HTTPS และถ้าเปิดใช้งานโหมด HTTPS-Only แล้ว { -brand-short-name } จะอัปเกรดการเชื่อมต่อทั้งหมดเป็น HTTPS
-httpsonly-description2 = { -brand-short-name } จะสร้างการเชื่อมต่อที่ปลอดภัยและผ่านการเข้ารหัสลับไปยังไซต์ที่คุณเยี่ยมชม { -brand-short-name } จะแจ้งเตือนคุณหากการเชื่อมต่อไม่มีความปลอดภัยเมื่อเปิดใช้งาน HTTPS-Only
 httpsonly-learn-more = เรียนรู้เพิ่มเติม
 httpsonly-radio-enabled =
     .label = เปิดใช้งานโหมด HTTPS-Only ในหน้าต่างทั้งหมด
-httpsonly-radio-enabled2 =
-    .label = ใช้ HTTPS ในทุกหน้าต่างเท่านั้น
 httpsonly-radio-enabled-pbm =
     .label = เปิดใช้งานโหมด HTTPS-Only ในหน้าต่างส่วนตัวเท่านั้น
 httpsonly-radio-disabled3 =
     .label = ไม่ต้องเปิดใช้งานโหมด HTTPS-Only
     .description = { -brand-short-name } อาจจะยังคงอัปเกรดการเชื่อมต่อบางอย่าง
-httpsonly-radio-enabled-pbm2 =
-    .label = ใช้ HTTPS ในหน้าต่างส่วนตัวเท่านั้น
 httpsonly-radio-disabled =
     .label = ไม่ต้องเปิดใช้งานโหมด HTTPS-Only
-httpsonly-radio-disabled2 =
-    .label = ลองใช้ HTTPS ก่อน แต่อนุญาตการเชื่อมต่อที่ไม่ปลอดภัย
 
 ## DoH Section
 

@@ -50,15 +50,6 @@ experimental-features-ime-search-description = IME (Input Method Editor - Енг
 experimental-features-auto-pip =
     .label = Суреттегі сурет: беттер ауысқанда автоматты түрде ашу
 experimental-features-auto-pip-description = Беттерді ауыстырған кезде белсенді видеолар үшін суреттегі сурет мүмкіндігін іске қосу.
-genai-settings-chat-title =
-    .label = ЖИ чатботы
-# Updated sidebar settings
-sidebar-title =
-    .label = Бүйір панелі
-sidebar-description = Шолу кезінде тарих, басқа құрылғылардағы беттер, бүйір панелі қеңейтулеріне және т.б. нәрселерге оңай қол жеткізіңіз. <a data-l10n-name="connect">Кері байланыс хабарламасын жіберу</a>
-vertical-tabs-title =
-    .label = Вертикалды беттер
-vertical-tabs-description = Беттерді браузердің жоғарғы жағынан бүйір жағына жылжытыңыз. Сондай-ақ бүйір панелін пайдаланып көруді талап етеді. <a data-l10n-name="connect">Кері байланыс хабарламасын жіберу</a>
 experimental-features-group-developer-tools =
     .label = Әзірлеуші құралдары
 experimental-features-group-webpage-display =

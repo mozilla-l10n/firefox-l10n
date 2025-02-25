@@ -50,13 +50,6 @@ experimental-features-ime-search-description = IME (edytor metody wprowadzania) 
 experimental-features-auto-pip =
     .label = „Obraz w obrazie”: automatyczne włączanie przy zmianie karty
 experimental-features-auto-pip-description = Włącza funkcję „Obraz w obrazie”, gdy odtwarzany jest film przy zmianie karty.
-# Updated sidebar settings
-sidebar-title =
-    .label = Panel boczny
-sidebar-description = Łatwy dostęp do historii, kart z innych urządzeń, rozszerzeń panelu bocznego i nie tylko w czasie przeglądania. <a data-l10n-name="connect">Podziel się opinią</a>
-vertical-tabs-title =
-    .label = Karty pionowe
-vertical-tabs-description = Przenosi karty z góry przeglądarki na bok. Wymaga włączenia panelu bocznego. <a data-l10n-name="connect">Podziel się opinią</a>
 experimental-features-group-developer-tools =
     .label = Narzędzia dla programistów
 experimental-features-group-webpage-display =

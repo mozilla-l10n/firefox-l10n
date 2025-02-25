@@ -5,11 +5,6 @@
 
 ## Generative AI (GenAI) Settings section
 
-genai-settings-chat-description = Pśidawa bocnicy chatbot wašeje wólby, za malsny pśistup pśi pśeglědowanju. <a data-l10n-name="connect">Měnjenja źěliś</a>
-genai-settings-chat-choose = Wubjeŕśo chatbot
-genai-settings-chat-choose-one-menuitem =
-    .label = Wubjeŕśo jaden
-genai-settings-chat-links = Gaž chatbot wuběraśo, zwólijośo do wuměnjenjow wužywanja a pšawidłow priwatnosći póbitowarja.
 genai-settings-chat-chatgpt-links = Gaž ChatGPT wuběraśo, zwólijośo do <a data-l10n-name="link1">>wužywańskich wuměnjenjow</a> a <a data-l10n-name="link2">pšawidłow priwatnosći</a>.
 genai-settings-chat-claude-links = Gaž Anthropic Claude wuběraśo, zwólijośo do <a data-l10n-name="link1">>pśetrjebowaŕskich wužywańskich wuměnjenjow</a> a <a data-l10n-name="link2">pšawidłow wužywanja</a> a <a data-l10n-name="link3">pšawidłow priwatnosći</a> Anthropic Claude.
 genai-settings-chat-copilot-links = Gaž Copilot wuběraśo, zwólijośo do <a data-l10n-name="link1">>wuměnjenjow za nazgónjenja KI w Copilot</a> a <a data-l10n-name="link2">powěźeńkow priwatnosći Microsoft</a>.
@@ -17,9 +12,6 @@ genai-settings-chat-gemini-links = Gaž Google Gemini wuběraśo, zwólijośo do
 genai-settings-chat-huggingchat-links = Gaž HuggingChat wuběraśo, zwólijośo do <a data-l10n-name="link1">>powěźeńki priwatnosći HuggingChat</a> a <a data-l10n-name="link2">pšawidłow priwatnosći Hugging Face</a>.
 genai-settings-chat-lechat-links = Gaž Le Chat Mistral wuběraśo, zwólijośo do <a data-l10n-name="link1">>wužywańskich wuměnjenjow</a> a <a data-l10n-name="link2">pšawidłow priwatnosći</a> Mistral AI.
 genai-settings-chat-localhost-links = Pśinjasćo swójsku priwatny lokalny chatbot ako na pśikład <a data-l10n-name="link1">llamafile</a> z inowaciskeje kupki { -vendor-short-name } sobu.
-genai-settings-chat-shortcuts =
-    .description = Pokazujo zwězanje z naspominanjami (eng. prompts), gaž tekst wuběraśo. { -brand-short-name } tekst, titel boka a naspominanje na chatbot sćelo.
-    .label = Naspominanja pśi wuběranju tekst pokazaś
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.

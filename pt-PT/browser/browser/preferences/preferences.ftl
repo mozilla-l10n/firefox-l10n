@@ -1426,23 +1426,16 @@ httpsonly-header = Modo apenas HTTPS
 httpsonly-description3 = Apenas permite ligações seguras a sites. O { -brand-short-name } irá perguntar antes de ligar sem segurança.
 httpsonly-learn-more2 = Como funciona o Apenas HTTPS
 httpsonly-description = O HTTPS fornece um ligação segura e encriptada entre o { -brand-short-name } e os sites que visita. A maioria dos sites suporta HTTPS e se o modo apenas HTTPS estiver ativo, então o { -brand-short-name } irá melhorar/atualizar todas as ligações para HTTPS.
-httpsonly-description2 = O { -brand-short-name } estabelece ligações seguras e encriptadas aos sites que visita. Irá alertar caso uma ligação não seja segura, quando o modo Apenas HTTPS estiver ativado.
 httpsonly-learn-more = Saber mais
 httpsonly-radio-enabled =
     .label = Ativar o modo apenas HTTPS em todas as janelas
-httpsonly-radio-enabled2 =
-    .label = Utilizar apenas HTTPS em todas as janelas
 httpsonly-radio-enabled-pbm =
     .label = Ativar o modo apenas HTTPS somente em janelas privadas
 httpsonly-radio-disabled3 =
     .label = Não ativar o modo Apenas HTTPS
     .description = O { -brand-short-name } pode, ainda assim, atualizar algumas ligações
-httpsonly-radio-enabled-pbm2 =
-    .label = Utilizar HTTPS apenas nas janelas privadas
 httpsonly-radio-disabled =
     .label = Não ativar o modo apenas HTTPS
-httpsonly-radio-disabled2 =
-    .label = Tentar primeiro HTTPS, mas permitir as ligações que não são seguras
 
 ## DoH Section
 

@@ -5,11 +5,6 @@
 
 ## Generative AI (GenAI) Settings section
 
-genai-settings-chat-description = Seçtiğiniz sohbet botunu kolayca ulaşabileceğiniz kenar çubuğuna ekler. <a data-l10n-name="connect">Görüşlerinizi paylaşın</a>
-genai-settings-chat-choose = Bir sohbet botu seçin
-genai-settings-chat-choose-one-menuitem =
-    .label = Birini seçin
-genai-settings-chat-links = Bir sohbet botu seçtiğinizde o botun sağlayıcısının kullanım koşullarını ve gizlilik politikalarını kabul etmiş olursunuz.
 genai-settings-chat-chatgpt-links = ChatGPT’yi seçtiğinizde OpenAl <a data-l10n-name="link1">Kullanım Koşulları</a> ve <a data-l10n-name="link2">Gizlilik Politikası</a>’nı kabul etmiş sayılırsınız.
 genai-settings-chat-claude-links = Anthropic Claude’u seçtiğinizde Anthropic <a data-l10n-name="link1">Tüketici Hizmet Koşulları</a>, <a data-l10n-name="link2">Kullanım Politikası</a> ve <a data-l10n-name="link3">Gizlilik Politikası</a>’nı kabul etmiş sayılırsınız.
 genai-settings-chat-copilot-links = Copilot’u seçtiğinizde <a data-l10n-name="link1">Copilot YZ Deneyimleri Koşulları</a> ve <a data-l10n-name="link2">Microsoft Gizlilik Bildirimi</a>’ni kabul etmiş sayılırsınız.
@@ -17,9 +12,6 @@ genai-settings-chat-gemini-links = Google Gemini’ı seçtiğinizde <a data-l10
 genai-settings-chat-huggingchat-links = HuggingChat’i seçtiğinizde <a data-l10n-name="link1">HuggingChat Gizlilik Bildirimi</a> ve <a data-l10n-name="link2">Hugging Face Gizlilik İlkeleri</a>’ni kabul etmiş sayılırsınız.
 genai-settings-chat-lechat-links = Le Chat Mistral’ı seçtiğinizde Mistral AI <a data-l10n-name="link1">Hizmet Koşulları</a> ve <a data-l10n-name="link2">Gizlilik Politikası</a>’nı kabul etmiş sayılırsınız.
 genai-settings-chat-localhost-links = { -vendor-short-name } inovasyon grubundan <a data-l10n-name="link1">llamafile</a> gibi özel yerel sohbet botunuzu kullanabilirsiniz.
-genai-settings-chat-shortcuts =
-    .description = Bir metni seçtiğinizde istem kısayollarını görüntüler. { -brand-short-name }, seçtiğiniz metni, sayfa başlığını ve isteminizi sohbet botuna gönderir.
-    .label = Metin seçtiğimde istemleri göster
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.

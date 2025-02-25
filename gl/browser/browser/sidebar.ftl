@@ -34,16 +34,8 @@ sidebar-history-clear =
 sidebar-customize-extensions-header = Extensións da barra lateral
 sidebar-customize-firefox-tools-header =
     .label = Ferramentas de { -brand-product-name }
-sidebar-position-left =
-    .label = Mostrar á esquerda
-sidebar-position-right =
-    .label = Mostrar á dereita
 sidebar-vertical-tabs =
     .label = Lapelas verticais
-sidebar-horizontal-tabs =
-    .label = Lapelas horizontais
-sidebar-customize-tabs-header =
-    .label = Configuración das lapelas
 
 ## Labels for sidebar context menu items
 

@@ -1421,23 +1421,16 @@ httpsonly-header = Modalitât Dome-HTTPS
 httpsonly-description3 = Permet dome conessions siguris ai sîts web. { -brand-short-name } al domandarà prime di stabilî une conession che no je sigure.
 httpsonly-learn-more2 = Cemût che e funzione la modalitât dome-HTTPS
 httpsonly-description = HTTPS al da une conession sigure e cifrade tra { -brand-short-name } e i sîts web che tu visitis. La plui part dai sîts web e supuarte HTTPS e se la modalitât Dome-HTTPS e je ative, alore { -brand-short-name } al doprarà HTTPS in dutis lis conessions.
-httpsonly-description2 = { -brand-short-name } al cree conessions siguris e cifradis ai sîts che tu visitis. Se la modalitât dome-HTTPS e je ative, { -brand-short-name } ti visarà se une conession no je sigure.
 httpsonly-learn-more = Plui informazions
 httpsonly-radio-enabled =
     .label = Abilite la modalitât Dome-HTTPS in ducj i barcons
-httpsonly-radio-enabled2 =
-    .label = Dopre nome HTTPS in ducj i barcons
 httpsonly-radio-enabled-pbm =
     .label = Abilite la modalitât Dome-HTTPS dome intai barcons privâts
 httpsonly-radio-disabled3 =
     .label = No sta ativâ la modalitât dome-HTTPS
     .description = Al è pussibil che { -brand-short-name } al inzorni distès cualchi conession
-httpsonly-radio-enabled-pbm2 =
-    .label = Dopre dome HTTPS tai barcons privâts
 httpsonly-radio-disabled =
     .label = No sta abilitâ la modalitât Dome-HTTPS
-httpsonly-radio-disabled2 =
-    .label = Prime prove HTTPS, ma permet conessions che no son siguris
 
 ## DoH Section
 

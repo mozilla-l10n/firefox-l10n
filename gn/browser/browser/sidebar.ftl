@@ -46,10 +46,6 @@ sidebar-customize-extensions-header = Jepysokue ta’ãngarupa ykegua
 sidebar-customize-firefox-tools-header =
     .label = { -brand-product-name } rembiporu
 sidebar-customize-firefox-settings = Eñangareko { -brand-short-name } ñemboheko rehe
-sidebar-position-left =
-    .label = Ehechauka asu gotyo
-sidebar-position-right =
-    .label = Ehechauka akatúa gotyo
 sidebar-vertical-tabs =
     .label = Tendayke ñembo’y
 sidebar-settings =
@@ -64,18 +60,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Emyasãi tenda yke embohasávo anguja’i
-sidebar-horizontal-tabs =
-    .label = Tendayke ñeno
-sidebar-customize-tabs-header =
-    .label = Tendayke mboheko
-sidebar-customize-button-header =
-    .label = Votõ tenda ykegua
-sidebar-customize-position-header =
-    .label = Tenda ykegua oĩha
-sidebar-visibility-setting-always-show =
-    .label = Emyasãi ha emyanyhẽrasa tenda yke
-sidebar-visibility-setting-hide-sidebar =
-    .label = Ehechauka ha eñomi tenda yke
 
 ## Labels for sidebar context menu items
 
@@ -138,8 +122,6 @@ sidebar-menu-open-bookmarks-tooltip = Embojuruja techaukaha ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Emboty techaukaha ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = Embojuruja IA chatbot ({ $shortcut })
-sidebar-menu-close-ai-chatbot-tooltip = Emboty IA chatbot ({ $shortcut })
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

@@ -1426,23 +1426,16 @@ httpsonly-header = Mënyra Vetëm-HTTPS
 httpsonly-description3 = Lejon vetëm lidhje të siguruara te sajtet. { -brand-short-name }-i do të pyesë, para lidhjes në mënyrë jo të siguruar.
 httpsonly-learn-more2 = Si funksionon Vetëm-HTTPS-ja
 httpsonly-description = HTTPS-ja furnizon një lidhje të siguruar, të fshehtëzuar, mes { -brand-short-name }-it dhe sajtit që vizitoni. Shumica e sajteve e mbulojnë përdorimin e HTTPS-së dhe, nëse është aktivizuar mënyrë Vetëm-HTTPS, atëherë { -brand-short-name }-i do t’i kalojë krejt lidhjet nën mënyrën HTTPS.
-httpsonly-description2 = { -brand-short-name }-i krijon lidhje të siguruara dhe të fshehtëzuara, me sajtet që vizitoni. { -brand-short-name }-i do t’ju sinjalizojë, nëse një lidhje s’është e siguruar, kur Vetëm-HTTPS është aktive.
 httpsonly-learn-more = Mësoni më tepër
 httpsonly-radio-enabled =
     .label = Aktivizoje Mënyrën Vetëm-HTTPS në krejt dritaret
-httpsonly-radio-enabled2 =
-    .label = HTTPS-në përdoreni vetëm në krejt dritaret
 httpsonly-radio-enabled-pbm =
     .label = Aktivizoje Mënyrën Vetëm-HTTPS vetëm në dritare private
 httpsonly-radio-disabled3 =
     .label = Mos e aktivizo Mënyrën Vetëm-HTTPS
     .description = { -brand-short-name }-i mundet prapëseprapë të përmirësojë disa lidhje
-httpsonly-radio-enabled-pbm2 =
-    .label = HTTPS-në përdoreni vetëm në dritaret private
 httpsonly-radio-disabled =
     .label = Mos e aktivizo Mënyrën Vetëm-HTTPS
-httpsonly-radio-disabled2 =
-    .label = Provo njëherë HTTPS, por lejo lidhje që s’janë të siguruara
 
 ## DoH Section
 

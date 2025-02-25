@@ -14,8 +14,3 @@ experimental-features-media-jxl =
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
 experimental-features-js-warp-description = Virkjaðu Warp, verkefni til að bæta afköst JavaScript og minnisnotkun.
-genai-settings-chat-title =
-    .label = Gervigreindarspjallkerfi
-# Updated sidebar settings
-sidebar-title =
-    .label = Hliðarstika

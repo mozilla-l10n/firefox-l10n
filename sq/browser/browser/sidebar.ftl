@@ -46,10 +46,6 @@ sidebar-customize-extensions-header = Zgjerime anështylle
 sidebar-customize-firefox-tools-header =
     .label = Mjete { -brand-product-name }
 sidebar-customize-firefox-settings = Administroni rregullime { -brand-short-name }-i
-sidebar-position-left =
-    .label = Shfaqe majtas
-sidebar-position-right =
-    .label = Shfaqe djathtas
 sidebar-vertical-tabs =
     .label = Skeda vertikale
 sidebar-settings =
@@ -64,18 +60,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Zgjeroje anështyllën, kur i kalohet kursori përsipër
-sidebar-horizontal-tabs =
-    .label = Skeda horizontale
-sidebar-customize-tabs-header =
-    .label = Rregullime skedash
-sidebar-customize-button-header =
-    .label = Buton anështylle
-sidebar-customize-position-header =
-    .label = Pozicion anështylle
-sidebar-visibility-setting-always-show =
-    .label = Zgjeroni dhe tkurrni anështyllën
-sidebar-visibility-setting-hide-sidebar =
-    .label = Shfaqni dhe fshihni anështyllën
 
 ## Labels for sidebar context menu items
 
@@ -138,8 +122,6 @@ sidebar-menu-open-bookmarks-tooltip = Hapni faqerojtësit ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Mbyllni faqerojtësit ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = Hapni robot IA
-sidebar-menu-close-ai-chatbot-tooltip = Mbyllni robot IA
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

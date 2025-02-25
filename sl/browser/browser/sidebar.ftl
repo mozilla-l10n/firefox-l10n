@@ -46,10 +46,6 @@ sidebar-customize-extensions-header = Razširitve za stransko vrstico
 sidebar-customize-firefox-tools-header =
     .label = Orodja za { -brand-product-name(sklon: "tozilnik") }
 sidebar-customize-firefox-settings = Upravljanje nastavitev { -brand-short-name(sklon: "rodilnik") }
-sidebar-position-left =
-    .label = Prikaži na levi
-sidebar-position-right =
-    .label = Prikaži na desni
 sidebar-vertical-tabs =
     .label = Navpični zavihki
 sidebar-settings =
@@ -64,18 +60,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Razširi stransko vrstico ob preletu z miško
-sidebar-horizontal-tabs =
-    .label = Vodoravni zavihki
-sidebar-customize-tabs-header =
-    .label = Nastavitve zavihkov
-sidebar-customize-button-header =
-    .label = Gumb stranske vrstice
-sidebar-customize-position-header =
-    .label = Položaj stranske vrstice
-sidebar-visibility-setting-always-show =
-    .label = Razširi ali skrči stransko vrstico
-sidebar-visibility-setting-hide-sidebar =
-    .label = Prikaži ali skrij stransko vrstico
 
 ## Labels for sidebar context menu items
 
@@ -138,8 +122,6 @@ sidebar-menu-open-bookmarks-tooltip = Odpri zaznamke ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Zapri zaznamke ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = Odpri UI-klepetalnik
-sidebar-menu-close-ai-chatbot-tooltip = Zapri UI-klepetalnik
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

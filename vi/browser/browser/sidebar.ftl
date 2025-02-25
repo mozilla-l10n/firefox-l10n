@@ -46,10 +46,6 @@ sidebar-customize-extensions-header = Tiện ích mở rộng sử dụng thanh 
 sidebar-customize-firefox-tools-header =
     .label = Công cụ { -brand-product-name }
 sidebar-customize-firefox-settings = Cài đặt quản lý { -brand-short-name }
-sidebar-position-left =
-    .label = Hiển thị bên trái
-sidebar-position-right =
-    .label = Hiển thị bên phải
 sidebar-vertical-tabs =
     .label = Thẻ dọc
 sidebar-settings =
@@ -64,18 +60,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Mở rộng thanh lề khi di chuột tới nó
-sidebar-horizontal-tabs =
-    .label = Thẻ ngang
-sidebar-customize-tabs-header =
-    .label = Cài đặt thẻ
-sidebar-customize-button-header =
-    .label = Nút thanh lề
-sidebar-customize-position-header =
-    .label = Vị trí thanh lề
-sidebar-visibility-setting-always-show =
-    .label = Mở rộng và thu gọn thanh lề
-sidebar-visibility-setting-hide-sidebar =
-    .label = Hiện và ẩn thanh lề
 
 ## Labels for sidebar context menu items
 
@@ -138,8 +122,6 @@ sidebar-menu-open-bookmarks-tooltip = Mở dấu trang ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Đóng dấu trang ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = Mở chatbot AI
-sidebar-menu-close-ai-chatbot-tooltip = Đóng chatbot AI
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

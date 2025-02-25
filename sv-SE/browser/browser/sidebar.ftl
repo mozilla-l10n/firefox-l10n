@@ -46,10 +46,6 @@ sidebar-customize-extensions-header = Sidofältstillägg
 sidebar-customize-firefox-tools-header =
     .label = { -brand-product-name } verktyg
 sidebar-customize-firefox-settings = Hantera inställningar för { -brand-short-name }
-sidebar-position-left =
-    .label = Visa till vänster
-sidebar-position-right =
-    .label = Visa till höger
 sidebar-vertical-tabs =
     .label = Vertikala flikar
 sidebar-settings =
@@ -64,18 +60,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Expandera sidofält vid hovring
-sidebar-horizontal-tabs =
-    .label = Horisontella flikar
-sidebar-customize-tabs-header =
-    .label = Tabbinställningar
-sidebar-customize-button-header =
-    .label = Knapp för sidofält
-sidebar-customize-position-header =
-    .label = Sidofältets position
-sidebar-visibility-setting-always-show =
-    .label = Expandera och komprimera sidofältet
-sidebar-visibility-setting-hide-sidebar =
-    .label = Visa och dölj sidofält
 
 ## Labels for sidebar context menu items
 
@@ -138,8 +122,6 @@ sidebar-menu-open-bookmarks-tooltip = Öppna bokmärken ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Stäng bokmärken ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = Öppna AI chatbot
-sidebar-menu-close-ai-chatbot-tooltip = Stäng AI chatbot
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

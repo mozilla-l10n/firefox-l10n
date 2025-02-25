@@ -5,11 +5,6 @@
 
 ## Generative AI (GenAI) Settings section
 
-genai-settings-chat-description = Agrega el chatbot elegido a la barra lateral para tener un acceso rápido mientras se navega. <a data-l10n-name="connect">Compartir comentarios</a>
-genai-settings-chat-choose = Seleccionar un chatbot
-genai-settings-chat-choose-one-menuitem =
-    .label = Seleccionar uno
-genai-settings-chat-links = Al seleccionar un chatbot, acepta los términos de uso y la política de privacidad del proveedor.
 genai-settings-chat-chatgpt-links = Al seleccionar ChatGPT, acepta los <a data-l10n-name="link1">términos de uso</a> y la <a data-l10n-name="link2">política de privacidad</a> de OpenAI.
 genai-settings-chat-claude-links = Al seleccionar Anthropic Claude, acepta los <a data-l10n-name="link1">términos de servicio para usuarios</a>, la <a data-l10n-name="link2">política de uso</a> y la <a data-l10n-name="link3">política de privacidad</a>.
 genai-settings-chat-copilot-links = Al seleccionar Copilot, acepta los <a data-l10n-name="link1">términos de experiencias de IA de Copilot</a> y la <a data-l10n-name="link2">declaración de privacidad de Microsoft</a>.
@@ -17,9 +12,6 @@ genai-settings-chat-gemini-links = Al seleccionar Google Gemini, acepta los <a d
 genai-settings-chat-huggingchat-links = Al seleccionar HuggingChat, acepta la <a data-l10n-name="link1">nota de privacidad de HuggingChat</a> y la <a data-l10n-name="link2">política de privacidad de Hugging Face</a>.
 genai-settings-chat-lechat-links = Al seleccionar Le Chat Mistral, acepta los <a data-l10n-name="link1">términos del servicio</a> de Mistral AI y la <a data-l10n-name="link2">política de privacidad</a>.
 genai-settings-chat-localhost-links = Traiga su propio chatbot local privado, como <a data-l10n-name="link1">llamafile</a> del grupo de innovación de { -vendor-short-name }.
-genai-settings-chat-shortcuts =
-    .description = Muestra un acceso directo a los prompts al seleccionar texto. { -brand-short-name } envía el texto, el título de la página y el prompt al chatbot.
-    .label = Mostrar prompts al seleccionar texto
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.

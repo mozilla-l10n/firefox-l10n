@@ -444,9 +444,7 @@ onboarding-checklist-sign-up = Hesap aç veya hesaba giriş yap
 
 tab-groups-onboarding-feature-callout-title = Dağınıklığı azaltarak daha iyi odaklanmak için sekme gruplarını deneyin
 tab-groups-onboarding-feature-callout-subtitle = İlk grubunuzu oluşturmak için sekmeleri üst üste sürükleyin.
-tab-groups-onboarding-create-group-title = Açık grupları sekme çubuğunda veya adres çubuğundan arayarak bulabilirsiniz.
 tab-groups-onboarding-saved-groups-title = Bir sekme grubunu kapatırsanız istediğiniz zaman buradan yeniden açabilirsiniz.
-tab-groups-onboarding-saved-groups-no-alltabs-button-title = İstediğiniz zaman adres çubuğunda arama yaparak açık ve kapalı sekme gruplarınızı bulabilirsiniz.
 tab-groups-onboarding-dismiss = Tamam
 
 ## Multi Profiles feature onboarding messages

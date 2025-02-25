@@ -5,11 +5,6 @@
 
 ## Generative AI (GenAI) Settings section
 
-genai-settings-chat-description = Tambahkan chatbot pilihan Anda ke bilah samping, untuk akses cepat saat  menjelajah. <a data-l10n-name="connect">Bagikan masukan</a>
-genai-settings-chat-choose = Pilih chatbot
-genai-settings-chat-choose-one-menuitem =
-    .label = Pilih satu
-genai-settings-chat-links = Jika Anda memilih chatbot, Anda menyetujui persyaratan penggunaan dan kebijakan privasi penyedianya.
 genai-settings-chat-chatgpt-links = Dengan memilih ChatGPT, Anda menyetujui <a data-l10n-name="link1">Ketentuan Penggunaan</a> dan <a data-l10n-name="link2">Kebijakan Privasi</a> OpenAI.
 genai-settings-chat-claude-links = Dengan memilih Anthropic Claude, Anda menyetujui <a data-l10n-name="link1">Ketentuan Layanan Konsumen</a> Anthropic, <a data-l10n-name="link2">Kebijakan Penggunaan</a>, dan <a data-l10n-name="link3">Kebijakan Privasi</a>.
 genai-settings-chat-copilot-links = Dengan memilih Copilot, Anda menyetujui <a data-l10n-name="link1">Ketentuan Pengalaman Copilot AI</a> dan <a data-l10n-name="link2">Pernyataan Privasi Microsoft</a>.
@@ -17,9 +12,6 @@ genai-settings-chat-gemini-links = Dengan memilih Google Gemini, Anda menyetujui
 genai-settings-chat-huggingchat-links = Dengan memilih HuggingChat, Anda menyetujui <a data-l10n-name="link1">Pemberitahuan Privasi HuggingChat</a> dan <a data-l10n-name="link2">Kebijakan Privasi Hugging Face</a>.
 genai-settings-chat-lechat-links = Dengan memilih Le Chat Mistral, Anda menyetujui <a data-l10n-name="link1">Ketentuan Layanan</a> dan <a data-l10n-name="link2">Kebijakan Privasi</a> Mistral AI.
 genai-settings-chat-localhost-links = Bawa chatbot lokal pribadi Anda sendiri misalnya <a data-l10n-name="link1">llamafile</a> dari grup Inovasi { -vendor-short-name }.
-genai-settings-chat-shortcuts =
-    .description = Menampilkan pintasan ke konfirmasi saat Anda memilih teks. { -brand-short-name } mengirim teks, judul laman, dan permintaan ke chatbot.
-    .label = Tampilkan konfirmasi saat pemilihan teks
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.

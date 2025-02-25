@@ -445,9 +445,7 @@ onboarding-checklist-sign-up = Registrate o accede a tu conto
 
 tab-groups-onboarding-feature-callout-title = Prova le gruppos de schedas pro minus disordine, plus concentration
 tab-groups-onboarding-feature-callout-subtitle = Organisa te trahente un scheda al summitate de un altere pro crear tu prime gruppo.
-tab-groups-onboarding-create-group-title = Trova tu gruppos aperte sur le barra de schedas o cerca los in le barra de adresse.
 tab-groups-onboarding-saved-groups-title = Si tu claude un gruppo de schedas, tu poter reaperir lo ci quando tu lo vole.
-tab-groups-onboarding-saved-groups-no-alltabs-button-title = Pro retrovar tu gruppos de schedas, aperte o clause, cerca los in le barra de adresse.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

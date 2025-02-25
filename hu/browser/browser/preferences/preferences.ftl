@@ -1426,23 +1426,16 @@ httpsonly-header = Csak HTTPS mód
 httpsonly-description3 = Csak a biztonságos kapcsolatokat engedélyezi. A { -brand-short-name } megkérdezi, mielőtt nem biztonságosan csatlakozna.
 httpsonly-learn-more2 = Hogyan működik a Csak HTTPS mód
 httpsonly-description = A HTTPS biztonságos, titkosított kapcsolatot biztosít a { -brand-short-name } és a meglátogatott webhelyek között. A legtöbb webhely támogatja a HTTPS-t, és ha a Csak HTTPS mód engedélyezve van, akkor a { -brand-short-name } HTTPS-re frissíti az összes kapcsolatot.
-httpsonly-description2 = A { -brand-short-name } biztonságos és titkosított kapcsolatokat hoz létre a felkeresett webhelyekkel. A „csak HTTPS” mód esetén a { -brand-short-name } figyelmeztet, ha a kapcsolat nem biztonságos.
 httpsonly-learn-more = További tudnivalók
 httpsonly-radio-enabled =
     .label = A Csak HTTPS mód engedélyezése az összes ablakban
-httpsonly-radio-enabled2 =
-    .label = Csak HTTPS mód használata az összes ablakban
 httpsonly-radio-enabled-pbm =
     .label = A Csak HTTPS mód engedélyezése csak privát ablakokban
 httpsonly-radio-disabled3 =
     .label = Ne engedélyezze a Csak HTTPS módot
     .description = A { -brand-short-name } továbbra is frissítheti az egyes kapcsolatokat
-httpsonly-radio-enabled-pbm2 =
-    .label = Csak HTTPS mód használata a privát ablakokban
 httpsonly-radio-disabled =
     .label = Ne engedélyezze a Csak HTTPS módot
-httpsonly-radio-disabled2 =
-    .label = Először próbálja ki a HTTPS-t, de engedélyezze a nem biztonságos kapcsolatokat
 
 ## DoH Section
 

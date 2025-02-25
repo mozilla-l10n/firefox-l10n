@@ -46,10 +46,6 @@ sidebar-customize-extensions-header = Proširenja u bočnoj traci
 sidebar-customize-firefox-tools-header =
     .label = { -brand-product-name } alati
 sidebar-customize-firefox-settings = Upravljaj { -brand-short-name } postavkama
-sidebar-position-left =
-    .label = Prikaži lijevo
-sidebar-position-right =
-    .label = Prikaži desno
 sidebar-vertical-tabs =
     .label = Okomite kartice
 sidebar-settings =
@@ -60,18 +56,6 @@ sidebar-show-on-the-right =
     .label = Premjesti bočnu traku na desnu stranu
 sidebar-show-on-the-left =
     .label = Premjesti bočnu traku na lijevu stranu
-sidebar-horizontal-tabs =
-    .label = Vodoravne kartice
-sidebar-customize-tabs-header =
-    .label = Postavke kartica
-sidebar-customize-button-header =
-    .label = Gumb bočne trake
-sidebar-customize-position-header =
-    .label = Položaj bočne trake
-sidebar-visibility-setting-always-show =
-    .label = Rasklopi i sklopi bočnu traku
-sidebar-visibility-setting-hide-sidebar =
-    .label = Prikaži i sakrij bočnu traku
 
 ## Labels for sidebar context menu items
 
@@ -134,8 +118,6 @@ sidebar-menu-open-bookmarks-tooltip = Otvori zabilješke ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Zatvori zabilješke ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = Otvori UI chatbot
-sidebar-menu-close-ai-chatbot-tooltip = Zatvori UI chatbot
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

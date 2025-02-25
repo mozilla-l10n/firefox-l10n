@@ -5,11 +5,6 @@
 
 ## Generative AI (GenAI) Settings section
 
-genai-settings-chat-description = Hozzáadja a választott csevegőbotot az oldalsávhoz, hogy böngészés közben gyorsan elérhető legyen. <a data-l10n-name="connect">Visszajelzés megosztása</a>
-genai-settings-chat-choose = Válasszon csevegőbotot
-genai-settings-chat-choose-one-menuitem =
-    .label = Válasszon egyet
-genai-settings-chat-links = Ha csevegőbotot választ, akkor elfogadja a szolgáltató felhasználási feltételeit és adatvédelmi irányelveit.
 genai-settings-chat-chatgpt-links = A ChatGPT választásával elfogadja az OpenAI <a data-l10n-name="link1">Felhasználási feltételeit</a> és az <a data-l10n-name="link2">Adatvédelmi irányelveket</a>.
 genai-settings-chat-claude-links = Azzal, hogy az Anthropic Claude-ot választja, elfogadja az Anthropic <a data-l10n-name="link1">Fogyasztói szolgáltatási feltételeit</a>, a <a data-l10n-name="link2">Felhasználási irányelveket</a> és az <a data-l10n-name="link3">Adatvédelmi irányelvek</a>.
 genai-settings-chat-copilot-links = A Copilot választásával elfogadja a <a data-l10n-name="link1">Copilot AI Experiences feltételeit</a> és a <a data-l10n-name="link2">Microsoft adatvédelmi nyilatkozatát</a>.
@@ -17,9 +12,6 @@ genai-settings-chat-gemini-links = A Google Gemini választásával elfogadja a 
 genai-settings-chat-huggingchat-links = A HuggingChat választásával elfogadja a <a data-l10n-name="link1">HuggingChat adatvédelmi nyilatkozatát</a> és a <a data-l10n-name="link2">Hugging Face adatvédelmi irányelveit</a>.
 genai-settings-chat-lechat-links = A Le Chat Mistral választásával elfogadja a Mistral AI <a data-l10n-name="link1">Felhasználási feltételeit</a> és az <a data-l10n-name="link2">Adatvédelmi irányelveket</a>.
 genai-settings-chat-localhost-links = Hozza el a saját privát helyi csevegőbotját, például a <a data-l10n-name="link1">llamafile</a>-t, a { -vendor-short-name } innovációs csoportjától.
-genai-settings-chat-shortcuts =
-    .description = Gyors elérést jelenít meg a promptokhoz, amikor szöveget jelöl ki. A { -brand-short-name } elküldi a szöveget, az oldalcímet és a promptot a csevegőbotnak.
-    .label = Promptok megjelenítése szöveg kijelölésekor
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.

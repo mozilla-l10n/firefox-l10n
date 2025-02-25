@@ -46,10 +46,6 @@ sidebar-customize-extensions-header = Sidestolpeutvidingar
 sidebar-customize-firefox-tools-header =
     .label = { -brand-product-name }-verktøy
 sidebar-customize-firefox-settings = Handsame { -brand-short-name }-innstillingar
-sidebar-position-left =
-    .label = Vis på venstre side
-sidebar-position-right =
-    .label = Vis på høgre side
 sidebar-vertical-tabs =
     .label = Vertikale faner
 sidebar-settings =
@@ -58,16 +54,6 @@ sidebar-show-on-the-right =
     .label = Flytt sidestolpe til høgre
 sidebar-show-on-the-left =
     .label = Flytt sidestolpe til venstre
-sidebar-horizontal-tabs =
-    .label = Horisontale faner
-sidebar-customize-tabs-header =
-    .label = Faneinnstillingar
-sidebar-customize-button-header =
-    .label = Sidestolpeknapp
-sidebar-customize-position-header =
-    .label = Sidestolpe-plassering
-sidebar-visibility-setting-hide-sidebar =
-    .label = Vis og skjul sidestolpen
 
 ## Labels for sidebar context menu items
 
@@ -130,8 +116,6 @@ sidebar-menu-open-bookmarks-tooltip = Opne bokmerke ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Lat att bokmerke ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = Opne AI chatbot
-sidebar-menu-close-ai-chatbot-tooltip = Lat att AI chatbot
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

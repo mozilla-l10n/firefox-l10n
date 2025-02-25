@@ -50,15 +50,6 @@ experimental-features-ime-search-description = IME (Input Method Editor, editor 
 experimental-features-auto-pip =
     .label = Wobraz-we-wobrazu: pśi wuměnjenju rejtarika awtomatiski wócyniś
 experimental-features-auto-pip-description = Wobraz-we-wobrazu za aktiwne wideo zmóžniś, gaž se rejtariki wuměnjaju.
-genai-settings-chat-title =
-    .label = AI chatbot
-# Updated sidebar settings
-sidebar-title =
-    .label = Bocnica
-sidebar-description = Mějśo lažki pśistup k swójej historiji, rejtarikam z drugich rědow, rozšyrjenjam za bocnicu a wěcej pśi pśeglědowanju. <a data-l10n-name="connect">Měnjenja źěliś</a>
-vertical-tabs-title =
-    .label = Wertikalne rejtariki
-vertical-tabs-description = Pśesuniśo swóje rejtariki wót górneje kšomy wobglědowaka na bok. Pomina se, až teke bocnicu wopytujośo. <a data-l10n-name="connect">Měnjenja źěliś</a>
 experimental-features-group-developer-tools =
     .label = Wuwijaŕske rědy
 experimental-features-group-webpage-display =

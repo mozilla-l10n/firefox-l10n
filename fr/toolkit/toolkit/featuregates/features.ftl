@@ -50,15 +50,6 @@ experimental-features-ime-search-description = Un IME (Input Method Editor, édi
 experimental-features-auto-pip =
     .label = Incrustation vidéo : activation automatique lors du changement d’onglet
 experimental-features-auto-pip-description = Activer l’incrustation vidéo pour les vidéos actives lorsque vous changez d’onglet.
-genai-settings-chat-title =
-    .label = Chatbot IA
-# Updated sidebar settings
-sidebar-title =
-    .label = Panneau latéral
-sidebar-description = Accéder facilement à votre historique, aux onglets d’autres appareils, aux extensions du panneau latéral et à d’autres fonctions en cours de navigation. <a data-l10n-name="connect">Donner votre avis</a>
-vertical-tabs-title =
-    .label = Onglets verticaux
-vertical-tabs-description = Déplace vos onglets du haut du navigateur vers le côté. Nécessite que vous essayiez également le panneau latéral. <a data-l10n-name="connect">Donner votre avis</a>
 experimental-features-group-developer-tools =
     .label = Outils de développement
 experimental-features-group-webpage-display =

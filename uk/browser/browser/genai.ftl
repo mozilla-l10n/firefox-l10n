@@ -5,11 +5,6 @@
 
 ## Generative AI (GenAI) Settings section
 
-genai-settings-chat-description = Додає вибраного вами чат-бота на бічну панель для швидкого доступу під час перегляду. <a data-l10n-name="connect">Поділитися відгуком</a>
-genai-settings-chat-choose = Вибір чат-бота
-genai-settings-chat-choose-one-menuitem =
-    .label = Вибрати
-genai-settings-chat-links = Вибираючи чат-бота, ви погоджуєтеся з умовами використання та політикою приватності провайдера.
 genai-settings-chat-chatgpt-links = Вибираючи ChatGPT, ви погоджуєтеся з <a data-l10n-name="link1">Умовами використання</a> та <a data-l10n-name="link2">Політикою приватності</a> OpenAI.
 genai-settings-chat-claude-links = Вибираючи Anthropic Claude, ви погоджуєтеся з <a data-l10n-name="link1">Умовами надання послуг споживачам</a>, <a data-l10n-name="link2">Політикою використання</a> та <a data-l10n-name="link3">Політикою приватності</a>  Anthropic.
 genai-settings-chat-copilot-links = Вибираючи Copilot, ви погоджуєтеся з <a data-l10n-name="link1">Умовами Copilot AI Experiences</a> і <a data-l10n-name="link2">Заявою про конфіденційність Microsoft</a>.
@@ -17,9 +12,6 @@ genai-settings-chat-gemini-links = Вибираючи Google Gemini, ви пог
 genai-settings-chat-huggingchat-links = Вибираючи HuggingChat, ви погоджуєтеся з <a data-l10n-name="link1">Положенням про приватність HuggingChat</a> і <a data-l10n-name="link2">Політикою приватності Hugging Face</a>.
 genai-settings-chat-lechat-links = Вибираючи Le Chat Mistral, ви погоджуєтеся з <a data-l10n-name="link1">Умовами надання послуг</a> і <a data-l10n-name="link2">Політикою приватності</a> Mistral AI.
 genai-settings-chat-localhost-links = Створіть власний приватний локальний чат-бот, наприклад <a data-l10n-name="link1">llamafile</a> від групи інновацій { -vendor-short-name }.
-genai-settings-chat-shortcuts =
-    .description = Показує ярлик для запитів під час вибору тексту. { -brand-short-name } надсилає текст, заголовок сторінки та запит чат-боту.
-    .label = Показує запити під час вибору тексту
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.

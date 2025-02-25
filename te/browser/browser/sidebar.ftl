@@ -13,8 +13,6 @@ sidebar-history-delete =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-tabs-header =
-    .label = ట్యాబు అమరికలు
 
 ## Labels for sidebar context menu items
 

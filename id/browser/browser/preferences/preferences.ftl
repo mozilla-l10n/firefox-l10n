@@ -1410,23 +1410,16 @@ httpsonly-header = Mode Hanya HTTPS
 httpsonly-description3 = Hanya mengizinkan sambungan aman ke situs web. { -brand-short-name } akan bertanya sebelum menyambung secara tidak aman.
 httpsonly-learn-more2 = Bagaimana cara kerja HTTPS-Only
 httpsonly-description = HTTPS menyediakan koneksi yang aman, terenkripsi antara { -brand-short-name } dan situs web yang Anda kunjungi. Kebanyakan situs web mendukung HTTPS, dan jika Mode Hanya HTTPS diaktifkan, maka { -brand-short-name } akan meningkatkan semua koneksi ke HTTPS.
-httpsonly-description2 = { -brand-short-name } membuat koneksi yang aman dan terenkripsi ke situs yang Anda kunjungi. { -brand-short-name } akan memperingatkan jika sambungan ternyata tidak aman saat HTTPS-Only aktif.
 httpsonly-learn-more = Pelajari lebih lanjut
 httpsonly-radio-enabled =
     .label = Aktifkan Mode Hanya HTTPS di semua jendela
-httpsonly-radio-enabled2 =
-    .label = Hanya gunakan HTTPS di semua jendela
 httpsonly-radio-enabled-pbm =
     .label = Aktifkan Mode Hanya HTTPS di jendela pribadi saja
 httpsonly-radio-disabled3 =
     .label = Jangan aktifkan Mode Hanya HTTPS
     .description = { -brand-short-name } mungkin masih meningkatkan beberapa koneksi
-httpsonly-radio-enabled-pbm2 =
-    .label = Hanya gunakan HTTPS di jendela pribadi
 httpsonly-radio-disabled =
     .label = Jangan aktifkan Mode Hanya HTTPS
-httpsonly-radio-disabled2 =
-    .label = Coba HTTPS terlebih dahulu, tetapi izinkan sambungan yang tidak aman
 
 ## DoH Section
 

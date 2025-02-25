@@ -1423,19 +1423,13 @@ httpsonly-description = HTTPS garantit una connessione segura e tzifrada intre {
 httpsonly-learn-more = Àteras informatziones
 httpsonly-radio-enabled =
     .label = Ativa sa modalidade HTTPS ebbia in totu is ventanas
-httpsonly-radio-enabled2 =
-    .label = Imprea isceti HTTPS in totu is ventanas
 httpsonly-radio-enabled-pbm =
     .label = Ativa sa modalidade HTTPS ebbia isceti in is ventanas privadas
 httpsonly-radio-disabled3 =
     .label = No atives sa modalidade «isceti HTTPS»
     .description = { -brand-short-name } diat pòdere ancora atualizare unas cantas connessiones
-httpsonly-radio-enabled-pbm2 =
-    .label = Imprea isceti HTTPS in is ventanas privadas
 httpsonly-radio-disabled =
     .label = No atives sa modalidade HTTPS ebbia
-httpsonly-radio-disabled2 =
-    .label = Proa HTTPS prima, però permite connessiones chi non siant seguras
 
 ## DoH Section
 

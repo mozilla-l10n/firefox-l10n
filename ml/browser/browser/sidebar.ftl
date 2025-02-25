@@ -41,20 +41,6 @@ sidebar-search-results-header =
 sidebar-customize-extensions-header = അണിവക്ക വിപുലീകരണങ്ങൾ
 sidebar-customize-firefox-tools-header =
     .label = { -brand-product-name } കരുകൾ
-sidebar-position-left =
-    .label = ഇടതുവശത്തു് കാണിക്കുക
-sidebar-position-right =
-    .label = വലതുവശത്തു് കാണിക്കുക
-sidebar-customize-tabs-header =
-    .label = ടാബു് ക്രമീകരണങ്ങൾ
-sidebar-customize-button-header =
-    .label = അണിവക്ക ബട്ടൺ
-sidebar-customize-position-header =
-    .label = അണിവക്കസ്ഥാനം
-sidebar-visibility-setting-always-show =
-    .label = അണിവക്കമിനെ വലുതാക്കാണും ചുരുക്കാണും പറ്റണം
-sidebar-visibility-setting-hide-sidebar =
-    .label = അണിവക്കമിനെ കാണിക്കാനും ഒളിപ്പിക്കാനും പറ്റണം
 
 ## Labels for sidebar context menu items
 
@@ -111,8 +97,6 @@ sidebar-menu-open-bookmarks-tooltip = അടയാളക്കുറിപ്പ
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = അടയാളക്കുറിപ്പുകളെ അടയ്ക്കുക ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = നിൎമിതബുദ്ധി സല്ലാപയന്ത്രമനുഷ്യൻ തുടങ്ങുക
-sidebar-menu-close-ai-chatbot-tooltip = നിൎമിതബുദ്ധി സല്ലാപയന്ത്രമനുഷ്യനെ അണക്കുക
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

@@ -443,9 +443,7 @@ onboarding-checklist-sign-up = Registar ou iniciar sessão na sua conta
 
 tab-groups-onboarding-feature-callout-title = Grupos de separadores: menos confusão, mais concentração
 tab-groups-onboarding-feature-callout-subtitle = Organize-se arrastando um separador sobre o outro para criar o seu primeiro grupo.
-tab-groups-onboarding-create-group-title = Encontre os seus grupos abertos na barra de separadores ou ao procurar pelos mesmos na barra de endereços.
 tab-groups-onboarding-saved-groups-title = Se fechar um grupo de separadores, pode reabri-lo aqui a qualquer momento.
-tab-groups-onboarding-saved-groups-no-alltabs-button-title = Encontre os seus grupos de separadores abertos ou fechados a qualquer momento, pesquisando na barra de endereços.
 tab-groups-onboarding-dismiss = Ok
 
 ## Multi Profiles feature onboarding messages

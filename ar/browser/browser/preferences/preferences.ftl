@@ -1359,20 +1359,13 @@ httpsonly-header = وضع HTTPS فقط
 httpsonly-description3 = يسمح فقط بالاتصالات الآمنة بمواقع الوب. سيسأل { -brand-short-name } قبل الاتصال بشكل غير آمن.
 httpsonly-learn-more2 = كيف يعمل HTTPS-Only
 httpsonly-description = يقدّم بروتوكول HTTPS اتصالًا آمنًا ومعمًى بين { -brand-short-name } والمواقع التي تزورها. تدعم أغلب المواقع HTTPS، ولو فعّلت وضع ”HTTPS فقط“ فسيُرقّي { -brand-short-name } كل الاتصالات لتكون ببروتوكول HTTPS.
-httpsonly-description2 = ينشئ { -brand-short-name } اتصالات آمنة ومُعمّاة بالمواقع التي تزورها. سيحذرك { -brand-short-name } إذا لم يكن الاتصال آمنًا عند تشغيل HTTPS-Only.
 httpsonly-learn-more = اطّلع على المزيد
 httpsonly-radio-enabled =
     .label = فعّل وضع HTTPS فقط في كل النوافذ
-httpsonly-radio-enabled2 =
-    .label = استخدم HTTPS فقط في كافة النوافذ
 httpsonly-radio-enabled-pbm =
     .label = فعّل وضع HTTPS فقط في النوافذ الخاصة فقط
-httpsonly-radio-enabled-pbm2 =
-    .label = استخدم HTTPS فقط في النوافذ الخاصة
 httpsonly-radio-disabled =
     .label = لا تفعّل وضع HTTPS فقط
-httpsonly-radio-disabled2 =
-    .label = حاول استخدام HTTPS أولاً، ولكن اسمح بالاتصالات غير الآمنة
 
 ## DoH Section
 

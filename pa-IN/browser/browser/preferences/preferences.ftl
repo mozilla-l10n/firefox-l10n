@@ -1431,23 +1431,16 @@ httpsonly-header = ਸਿਰਫ਼-HTTPS ਮੋਡ
 httpsonly-description3 = ਵੈੱਬਸਾਈਟਾਂ ਨਾਲ ਸਿਰਫ਼ ਸੁਰੱਖਿਅਤ ਕਨੈਕਸ਼ਨਾਂ ਦੀ ਹੀ ਇਜਾਜ਼ਤ ਦਿਓ। { -brand-short-name } ਅਸੁਰੱਖਿਅਤ ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਪੁੱਛੇਗਾ।
 httpsonly-learn-more2 = ਸਿਰਫ਼-HTTPS ਹੀ ਕਿਵੇਂ ਕੰਮ ਕਰਦਾ ਹੈ
 httpsonly-description = HTTPS { -brand-short-name } ਅਤੇ ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੀਆਂ ਵੈਬਸਾਈਟਾਂ ਵਿਚਾਲੇ ਇੱਕ ਸੁਰੱਖਿਅਤ, ਇੰਕ੍ਰਿਪਟ ਕੀਤਾ ਕਨੈਕਸ਼ਨ ਦਿੰਦਾ ਹੈ। ਬਹੁਤੀਆਂ ਵੈਬਸਾਈਟਾਂ HTTPS ਦਾ ਸਮਰਥਨ ਕਰਦੀਆਂ ਹਨ, ਅਤੇ ਜੇ ਸਿਰਫ-HTTPS ਮੋਡ ਸਮਰੱਥ ਹੈ ਤਾਂ { -brand-short-name } ਸਾਰੇ ਕਨੈਕਸ਼ਨਾਂ ਨੂੰ HTTPS ਵਿੱਚ ਅਪਗਰੇਡ ਕਰੇਗਾ।
-httpsonly-description2 = { -brand-short-name } ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੀਆਂ ਸਾਈਟਾਂ ਲਈ ਸੁਰੱਖਿਅਤ ਅਤੇ ਇੰਕ੍ਰਿਪਟ ਕੀਤੇ ਕਨੈਕਸ਼ਨ ਬਣਾਉਂਦਾ ਹੈ। ਸਿਰਫ਼-HTTPS ਚਾਲੂ ਹੋਣ ਦੇ ਦੌਰਾਨ ਜੇ ਕਨੈਕਸ਼ਨ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹੋਵੇਗਾ ਤਾਂ { -brand-short-name } ਤੁਹਾਨੂੰ ਸਾਵਧਾਨ ਕਰੇਗਾ।
 httpsonly-learn-more = ਹੋਰ ਜਾਣੋ
 httpsonly-radio-enabled =
     .label = ਸਾਰੀਆਂ ਵਿੰਡੋ ਵਿੱਚ ਸਿਰਫ਼-HTTPS ਮੋਡ ਸਮਰੱਥ ਕਰੋ
-httpsonly-radio-enabled2 =
-    .label = ਸਭ ਵਿੰਡੋਆਂ ਵਿੱਚ ਸਿਰਫ਼ HTTPS ਹੀ ਵਰਤੋਂ
 httpsonly-radio-enabled-pbm =
     .label = ਸਿਰਫ਼ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਸਿਰਫ਼-HTTPS ਮੋਡ ਸਮਰੱਥ ਕਰੋ
 httpsonly-radio-disabled3 =
     .label = ਸਿਰਫ਼-HTTPS ਮੋਡ ਸਮਰੱਥ ਨਾ ਕਰੋ
     .description = { -brand-short-name } ਸ਼ਾਇਦ ਹਾਲੇ ਵੀ ਕੁਝ ਕਨੈਕਸ਼ਨ ਅੱਪਗਰੇਡ ਕਰੇ
-httpsonly-radio-enabled-pbm2 =
-    .label = ਸਿਰਫ਼ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਵਿੱਚ ਹੀ HTTPS ਨੂੰ ਵਰਤੋਂ
 httpsonly-radio-disabled =
     .label = ਸਿਰਫ਼-HTTPS ਮੋਡ ਸਮਰੱਥ ਨਾ ਕਰੋ
-httpsonly-radio-disabled2 =
-    .label = ਪਹਿਲਾਂ HTTPS ਅਜ਼ਮਾਓ, ਪਰ ਜੇ ਸੁਰੱਖਿਅਤ ਨਾ ਵੀ ਹੋਵੇ ਤਾਂ ਕਨੈਕਸ਼ਨ ਦੀ ਮਨਜ਼ੂਰੀ ਦਿਓ
 
 ## DoH Section
 

@@ -446,9 +446,7 @@ onboarding-checklist-sign-up = Rekisteröidy tai kirjaudu sisään tilillesi
 
 tab-groups-onboarding-feature-callout-title = Kokeile välilehtiryhmiä vähentääksesi sotkua ja keskittyäksesi paremmin
 tab-groups-onboarding-feature-callout-subtitle = Järjestäydy vetämällä välilehti toisen päälle ja luo siten ensimmäinen ryhmä.
-tab-groups-onboarding-create-group-title = Löydä avoimet ryhmät välilehtipalkista tai etsimällä niitä osoiterivillä.
 tab-groups-onboarding-saved-groups-title = Jos suljet välilehtiryhmän, voit avata sen uudelleen täällä milloin tahansa.
-tab-groups-onboarding-saved-groups-no-alltabs-button-title = Löydä avoimet tai suljetut välilehtiryhmät milloin tahansa tekemällä hakuja osoiterivillä.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

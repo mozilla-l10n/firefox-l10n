@@ -46,10 +46,6 @@ sidebar-customize-extensions-header = Oldalsáv-kiegészítők
 sidebar-customize-firefox-tools-header =
     .label = { -brand-product-name } eszközök
 sidebar-customize-firefox-settings = A { -brand-short-name } beállításainak kezelése
-sidebar-position-left =
-    .label = Megjelenítés a bal oldalon
-sidebar-position-right =
-    .label = Megjelenítés a jobb oldalon
 sidebar-vertical-tabs =
     .label = Függőleges lapok
 sidebar-settings =
@@ -64,18 +60,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Oldalsáv kibontása rámutatáskor
-sidebar-horizontal-tabs =
-    .label = Vízszintes lapok
-sidebar-customize-tabs-header =
-    .label = Lapbeállítások
-sidebar-customize-button-header =
-    .label = Oldalsávgomb
-sidebar-customize-position-header =
-    .label = Oldalsáv-pozíció
-sidebar-visibility-setting-always-show =
-    .label = Oldalsáv kibontása és összecsukása
-sidebar-visibility-setting-hide-sidebar =
-    .label = Oldalsáv megjelenítése és elrejtése
 
 ## Labels for sidebar context menu items
 
@@ -138,8 +122,6 @@ sidebar-menu-open-bookmarks-tooltip = Könyvjelzők megnyitása ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Könyvjelzők bezárása ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = MI csevegőbot megnyitása
-sidebar-menu-close-ai-chatbot-tooltip = MI csevegőbot bezárása
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

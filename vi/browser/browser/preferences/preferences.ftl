@@ -1410,23 +1410,16 @@ httpsonly-header = Chế độ chỉ HTTPS
 httpsonly-description3 = Chỉ cho phép các kết nối an toàn đến các trang web. { -brand-short-name } sẽ hỏi trước khi kết nối không an toàn.
 httpsonly-learn-more2 = Chế độ Chỉ HTTPS hoạt động như thế nào
 httpsonly-description = HTTPS cung cấp kết nối được mã hóa an toàn giữa { -brand-short-name } và các trang web bạn truy cập. Hầu hết các trang web đều hỗ trợ HTTPS và nếu chế độ chỉ HTTPS được bật, thì { -brand-short-name } sẽ nâng cấp tất cả các kết nối lên HTTPS.
-httpsonly-description2 = { -brand-short-name } tạo kết nối an toàn và được mã hóa tới các trang web bạn truy cập. { -brand-short-name } sẽ cảnh báo bạn nếu kết nối không an toàn khi kích hoạt chỉ HTTPS.
 httpsonly-learn-more = Tìm hiểu thêm
 httpsonly-radio-enabled =
     .label = Kích hoạt chế độ chỉ HTTPS trong tất cả các cửa sổ
-httpsonly-radio-enabled2 =
-    .label = Chỉ sử dụng HTTPS trong tất cả cửa sổ
 httpsonly-radio-enabled-pbm =
     .label = Chỉ kích hoạt chế độ HTTPS trong các cửa sổ riêng tư
 httpsonly-radio-disabled3 =
     .label = Không kích hoạt chế độ chỉ HTTPS
     .description = { -brand-short-name } vẫn có thể nâng cấp một số kết nối
-httpsonly-radio-enabled-pbm2 =
-    .label = Chỉ sử dụng HTTPS trong cửa số riêng tư
 httpsonly-radio-disabled =
     .label = Không kích hoạt chế độ chỉ HTTPS
-httpsonly-radio-disabled2 =
-    .label = Thử HTTPS trước, nhưng cho phép kết nối không an toàn
 
 ## DoH Section
 

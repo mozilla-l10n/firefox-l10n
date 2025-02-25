@@ -46,10 +46,6 @@ sidebar-customize-extensions-header = Estyniadau'r bar ochr
 sidebar-customize-firefox-tools-header =
     .label = Offer { -brand-product-name }
 sidebar-customize-firefox-settings = Rheoli gosodiadau { -brand-short-name }
-sidebar-position-left =
-    .label = Dangos ar y chwith
-sidebar-position-right =
-    .label = Dangos ar y dde
 sidebar-vertical-tabs =
     .label = Tabiau fertigol
 sidebar-settings =
@@ -64,18 +60,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Ehangu'r bar ochr wrth hofran
-sidebar-horizontal-tabs =
-    .label = Tabiau llorweddol
-sidebar-customize-tabs-header =
-    .label = Gosodiadau tabiau
-sidebar-customize-button-header =
-    .label = Botwm bar ochr
-sidebar-customize-position-header =
-    .label = Safle'r bar ochr
-sidebar-visibility-setting-always-show =
-    .label = Ehangu a chau'r bar ochr
-sidebar-visibility-setting-hide-sidebar =
-    .label = Dangos a chuddio'r bar ochr
 
 ## Labels for sidebar context menu items
 
@@ -138,8 +122,6 @@ sidebar-menu-open-bookmarks-tooltip = Agor nodau tudalen ( { $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Cau nodau tudalen ( { $shortcut } )
-sidebar-menu-open-ai-chatbot-tooltip = Agor sgwrsfot AI
-sidebar-menu-close-ai-chatbot-tooltip = Cau sgwrsfot AI
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

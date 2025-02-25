@@ -46,10 +46,6 @@ sidebar-customize-extensions-header = Extensiuns da la trav laterala
 sidebar-customize-firefox-tools-header =
     .label = Utensils da { -brand-product-name }
 sidebar-customize-firefox-settings = Administrar ils parameters da { -brand-short-name }
-sidebar-position-left =
-    .label = Mussar a sanestra
-sidebar-position-right =
-    .label = Mussar a dretga
 sidebar-vertical-tabs =
     .label = Tabs verticals
 sidebar-settings =
@@ -64,18 +60,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Extender la trav laterala cun passar cun la mieur
-sidebar-horizontal-tabs =
-    .label = Tabs orizontals
-sidebar-customize-tabs-header =
-    .label = Parameters dals tabs
-sidebar-customize-button-header =
-    .label = Buttun trav laterala
-sidebar-customize-position-header =
-    .label = Posiziun trav laterala
-sidebar-visibility-setting-always-show =
-    .label = Expander e reducir la trav laterala
-sidebar-visibility-setting-hide-sidebar =
-    .label = Mussar e zuppentar la trav laterala
 
 ## Labels for sidebar context menu items
 
@@ -138,8 +122,6 @@ sidebar-menu-open-bookmarks-tooltip = Avrir ils segnapaginas ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Serrar ils segnapaginas ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = Avrir il chatbot IA
-sidebar-menu-close-ai-chatbot-tooltip = Serrar il chatbot IA
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

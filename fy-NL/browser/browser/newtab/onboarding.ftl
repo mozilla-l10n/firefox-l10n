@@ -446,9 +446,7 @@ onboarding-checklist-sign-up = Registrearje of oanmelde by jo account
 
 tab-groups-onboarding-feature-callout-title = Probearje ljepblêdgroepen foar minder rommel, mear fokus
 tab-groups-onboarding-feature-callout-subtitle = Wês organisearre troch it iene ljepblêd op it oar te slepen om jo earste groep te meitsjen.
-tab-groups-onboarding-create-group-title = Fyn jo iepen groepen op de ljepblêdebalke of troch der nei te sykjen yn de adresbalke.
 tab-groups-onboarding-saved-groups-title = As jo in ljepblêdgroep slute, kinne jo dizze hjir altyd opnij iepenje.
-tab-groups-onboarding-saved-groups-no-alltabs-button-title = Fyn op elk winske momint jo iepen of sletten ljepblêdgroepen troch yn de adresbalke te sykjen.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

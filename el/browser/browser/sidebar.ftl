@@ -46,10 +46,6 @@ sidebar-customize-extensions-header = Επεκτάσεις πλαϊνής γρα
 sidebar-customize-firefox-tools-header =
     .label = Εργαλεία { -brand-product-name }
 sidebar-customize-firefox-settings = Διαχείριση ρυθμίσεων του { -brand-short-name }
-sidebar-position-left =
-    .label = Εμφάνιση στα αριστερά
-sidebar-position-right =
-    .label = Εμφάνιση στα δεξιά
 sidebar-vertical-tabs =
     .label = Κάθετες καρτέλες
 sidebar-settings =
@@ -64,18 +60,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Ανάπτυξη πλαϊνής γραμμής με το πέρασμα του κέρσορα
-sidebar-horizontal-tabs =
-    .label = Οριζόντιες καρτέλες
-sidebar-customize-tabs-header =
-    .label = Ρυθμίσεις καρτελών
-sidebar-customize-button-header =
-    .label = Κουμπί πλαϊνής γραμμής
-sidebar-customize-position-header =
-    .label = Θέση πλαϊνής γραμμής
-sidebar-visibility-setting-always-show =
-    .label = Ανάπτυξη και σύμπτυξη πλαϊνής γραμμής
-sidebar-visibility-setting-hide-sidebar =
-    .label = Εμφάνιση και απόκρυψη πλαϊνής γραμμής
 
 ## Labels for sidebar context menu items
 
@@ -138,8 +122,6 @@ sidebar-menu-open-bookmarks-tooltip = Άνοιγμα σελιδοδεικτών 
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Κλείσιμο σελιδοδεικτών ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = Άνοιγμα chatbot ΤΝ
-sidebar-menu-close-ai-chatbot-tooltip = Κλείσιμο chatbot ΤΝ
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

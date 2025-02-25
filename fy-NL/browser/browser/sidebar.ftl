@@ -44,10 +44,6 @@ sidebar-customize-extensions-header = Sidebalke-útwreidingen
 sidebar-customize-firefox-tools-header =
     .label = { -brand-product-name }-ark
 sidebar-customize-firefox-settings = { -brand-short-name }-ynstellingen beheare
-sidebar-position-left =
-    .label = Oan de linkerkant toane
-sidebar-position-right =
-    .label = Oan de rjochterkant toane
 sidebar-vertical-tabs =
     .label = Fertikale ljepblêden
 sidebar-settings =
@@ -62,18 +58,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Sydbalke by oanwizen útklappe
-sidebar-horizontal-tabs =
-    .label = Horizontale ljepblêden
-sidebar-customize-tabs-header =
-    .label = Ljepblêdynstellingen
-sidebar-customize-button-header =
-    .label = Sidebalkeknop
-sidebar-customize-position-header =
-    .label = Posysje sidebalke
-sidebar-visibility-setting-always-show =
-    .label = Sidebalke útklappe en ynklappe
-sidebar-visibility-setting-hide-sidebar =
-    .label = Sidebalke toane en ferstopje
 
 ## Labels for sidebar context menu items
 
@@ -134,8 +118,6 @@ sidebar-menu-open-bookmarks-tooltip = Blêdwizers iepenje ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Blêdwizers slute ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = AI-chatbot iepenje
-sidebar-menu-close-ai-chatbot-tooltip = AI-chatbot slute
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

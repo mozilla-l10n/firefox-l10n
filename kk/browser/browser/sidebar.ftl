@@ -46,10 +46,6 @@ sidebar-customize-extensions-header = Бүйір панелі кеңейтуле
 sidebar-customize-firefox-tools-header =
     .label = { -brand-product-name } құралдары
 sidebar-customize-firefox-settings = { -brand-short-name } баптауларын басқару
-sidebar-position-left =
-    .label = Сол жақта көрсету
-sidebar-position-right =
-    .label = Оң жақта көрсету
 sidebar-vertical-tabs =
     .label = Вертикалды беттер
 sidebar-settings =
@@ -60,18 +56,6 @@ sidebar-show-on-the-right =
     .label = Бүйір панелін оңға жылжыту
 sidebar-show-on-the-left =
     .label = Бүйір панелін солға жылжыту
-sidebar-horizontal-tabs =
-    .label = Горизонталды беттер
-sidebar-customize-tabs-header =
-    .label = Бет баптаулары
-sidebar-customize-button-header =
-    .label = Бүйір панелі батырмасы
-sidebar-customize-position-header =
-    .label = Бүйір панелі орналасуы
-sidebar-visibility-setting-always-show =
-    .label = Бүйір панелін жазық қылу және бүктеу
-sidebar-visibility-setting-hide-sidebar =
-    .label = Бүйір панелін көрсету және жасыру
 
 ## Labels for sidebar context menu items
 
@@ -134,8 +118,6 @@ sidebar-menu-open-bookmarks-tooltip = Бетбелгілерді ашу ({ $shor
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Бетбелгілерді жабу ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = ЖИ чат-ботын ашу
-sidebar-menu-close-ai-chatbot-tooltip = ЖИ чат-ботын жабу
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

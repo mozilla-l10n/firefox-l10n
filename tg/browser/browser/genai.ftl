@@ -5,11 +5,6 @@
 
 ## Generative AI (GenAI) Settings section
 
-genai-settings-chat-description = Чат-боти интихобкардаи шуморо ба навори ҷонибӣ илова мекунад, то шумо тавонед ҳангоми тамошои сомонаҳо ба он тез дастрасӣ пайдо намоед. <a data-l10n-name="connect">Мубодилаи изҳори назар</a>
-genai-settings-chat-choose = Чат-ботеро интихоб намоед
-genai-settings-chat-choose-one-menuitem =
-    .label = Интихоб кунед
-genai-settings-chat-links = Вақте ки шумо чат-ботеро интихоб мекунед, шумо бо шартҳои истифода ва сиёсати махфияти таъминкунандаи онро розӣ мешавед.
 genai-settings-chat-chatgpt-links = Вақте ки шумо «ChatGPT»-ро интихоб мекунед, шумо бо <a data-l10n-name="link1">Шартҳои истифода</a> ва <a data-l10n-name="link2">Сиёсати махфияти</a> ташкилоти «OpenAI» розӣ мешавед.
 genai-settings-chat-claude-links = Вақте ки шумо «Anthropic Claude»-ро интихоб мекунед, шумо бо <a data-l10n-name="link1">Шартҳои хизматрасонии истеъмолкунандагон</a>, <a data-l10n-name="link2">Сиёсати истифодабарӣ</a> ва <a data-l10n-name="link3">Сиёсати махфияти</a> ташкилоти «Anthropic» розӣ мешавед.
 genai-settings-chat-copilot-links = Вақте ки шумо «Copilot»-ро интихоб мекунед, шумо бо <a data-l10n-name="link1">Шартҳои таҷрибаи «Copilot AI»</a> ва <a data-l10n-name="link2">Эъломияи махфияти «Microsoft»</a> розӣ мешавед.
@@ -17,9 +12,6 @@ genai-settings-chat-gemini-links = Вақте ки шумо «Google Gemini»-р
 genai-settings-chat-huggingchat-links = Вақте ки шумо «HuggingChat»-ро интихоб мекунед, шумо бо <a data-l10n-name="link1">Огоҳномаи махфияти «HuggingChat»</a> ва <a data-l10n-name="link2">Сиёсати махфияти «Hugging Face»</a> розӣ мешавед.
 genai-settings-chat-lechat-links = Вақте ки шумо «Le Chat Mistral»-ро интихоб мекунед, шумо бо <a data-l10n-name="link1">Шартҳои хизматрасонӣ</a> ва <a data-l10n-name="link2">Сиёсати махфияти</a> зеҳни сунъии «Mistral AI» розӣ мешавед.
 genai-settings-chat-localhost-links = Чат-боти маҳаллии хусусиро, ба монанди <a data-l10n-name="link1">«llamafile»</a> аз ҷониби гурӯҳи инноватсионии «{ -vendor-short-name }», эҷод намоед.
-genai-settings-chat-shortcuts =
-    .description = Вақте ки шумо матнро интихоб мекунед, миёнбур ба дархостҳо нишон дода мешавад. «{ -brand-short-name }» матн, номи саҳифа ва дархостҳоро ба чат-бот ирсол мекунад.
-    .label = Намоиши дархостҳо ҳангоми интихоби матн
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.

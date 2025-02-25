@@ -44,24 +44,8 @@ sidebar-customize-extensions-header = Ekstensi bilah sisi
 sidebar-customize-firefox-tools-header =
     .label = Alat { -brand-product-name }
 sidebar-customize-firefox-settings = Kelola pengaturan { -brand-short-name }
-sidebar-position-left =
-    .label = Tampilkan di sebelah kiri
-sidebar-position-right =
-    .label = Tampilkan di sebelah kanan
 sidebar-vertical-tabs =
     .label = Tab vertikal
-sidebar-horizontal-tabs =
-    .label = Tab horizontal
-sidebar-customize-tabs-header =
-    .label = Pengaturan tab
-sidebar-customize-button-header =
-    .label = Tombol bilah samping
-sidebar-customize-position-header =
-    .label = Posisi bilah samping
-sidebar-visibility-setting-always-show =
-    .label = Bentangkan dan ciutkan bilah samping
-sidebar-visibility-setting-hide-sidebar =
-    .label = Tampilkan dan sembunyikan bilah samping
 
 ## Labels for sidebar context menu items
 
@@ -122,8 +106,6 @@ sidebar-menu-open-bookmarks-tooltip = Buka markah ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Tutup markah ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = Buka obrolan AI
-sidebar-menu-close-ai-chatbot-tooltip = Tutup obrolan AI
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

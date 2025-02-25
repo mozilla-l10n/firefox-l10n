@@ -50,15 +50,6 @@ experimental-features-ime-search-description = IME (Input Method Editor, editor 
 experimental-features-auto-pip =
     .label = Wobraz-we-wobrazu: při wuměnjenju rajtarka awtomatisce wočinić
 experimental-features-auto-pip-description = Wobraz-we-wobrazu za aktiwne wideja zmóžnić, hdyž so rajtarki wuměnjeja.
-genai-settings-chat-title =
-    .label = AI chatbot
-# Updated sidebar settings
-sidebar-title =
-    .label = Bóčnica
-sidebar-description = Mějće lochki přistup k swojej historiji, rajtarkam z druhich gratow, rozšěrjenjam za bóčnicu a wjace při přehladowanju. <a data-l10n-name="connect">Měnjenja dźělić</a>
-vertical-tabs-title =
-    .label = Wertikalne rajtarki
-vertical-tabs-description = Přesuńće swoje rajtarki wot hornjeje kromy wobhladowaka nabok. Wužaduje sej, zo tež bóčnicu wupruwujeće. <a data-l10n-name="connect">Měnjenja dźělić</a>
 experimental-features-group-developer-tools =
     .label = Wuwiwarske nastroje
 experimental-features-group-webpage-display =

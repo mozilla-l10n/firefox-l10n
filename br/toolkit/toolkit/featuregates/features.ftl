@@ -24,5 +24,3 @@ experimental-features-devtools-serviceworker-debugger-support =
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
-vertical-tabs-title =
-    .label = Ivinelloù a-serzh

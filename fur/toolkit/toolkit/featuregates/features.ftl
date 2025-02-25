@@ -50,15 +50,6 @@ experimental-features-ime-search-description = Un IME (Editôr di Metodis di Inp
 experimental-features-auto-pip =
     .label = Picture-in-Picture: vierç in automatic al cambi di schede
 experimental-features-auto-pip-description = Ative Picture-in-Picture pai videos in esecuzion cuant che e ven cambiade schede.
-genai-settings-chat-title =
-    .label = Chatbot IA
-# Updated sidebar settings
-sidebar-title =
-    .label = Sbare laterâl
-sidebar-description = Rive cun facilitât ae cronologjie, aes schedis di altris dispositîfs, aes estensions de sbare laterâl e tant altri intant che tu navighis. <a data-l10n-name="connect">Condivît la tô opinion</a>
-vertical-tabs-title =
-    .label = Schedis verticâls
-vertical-tabs-description = Sposte lis tôs schedis de part superiôr dal navigadôr a chê laterâl. Par doprâ cheste funzion al covente ativâ ancje la sbare laterâl. <a data-l10n-name="connect">Condivît la tô opinion</a>
 experimental-features-group-developer-tools =
     .label = Struments di disvilup
 experimental-features-group-webpage-display =

@@ -1430,23 +1430,16 @@ httpsonly-header = Režim "Len HTTPS"
 httpsonly-description3 = Umožňuje iba zabezpečené pripojenie k webovým stránkam. { -brand-short-name } sa opýta pred použitím nezabezpečeného pripojenia.
 httpsonly-learn-more2 = Ako funguje režim Len HTTPS
 httpsonly-description = Protokol HTTPS poskytuje bezpečné a šifrované spojenie medzi aplikáciou { -brand-short-name } a webmi, ktoré navštevujete. Väčšina webových stránok podporuje protokol HTTPS a ak je povolený režim "Len HTTPS", { -brand-short-name } zmení všetky pripojenia na zabezpečené.
-httpsonly-description2 = { -brand-short-name } vytvára bezpečné a šifrované pripojenia k stránkam, ktoré navštevujete. { -brand-short-name } vás upozorní v prípade, že pripojenie nie je zabezpečené a vy chcete používať len HTTPS.
 httpsonly-learn-more = Ďalšie informácie
 httpsonly-radio-enabled =
     .label = Povoliť režim "Len HTTPS" vo všetkých oknách
-httpsonly-radio-enabled2 =
-    .label = Používať výhradne HTTPS vo všetkých oknách
 httpsonly-radio-enabled-pbm =
     .label = Povoliť režim "Len HTTPS" iba v súkromných oknách
 httpsonly-radio-disabled3 =
     .label = Nezapínať režim "Len HTTPS"
     .description = { -brand-short-name } môže stále zmeniť niektoré pripojenia
-httpsonly-radio-enabled-pbm2 =
-    .label = Používať HTTPS iba v súkromných oknách
 httpsonly-radio-disabled =
     .label = Nezapínať režim "Len HTTPS"
-httpsonly-radio-disabled2 =
-    .label = Najprv vyskúšať HTTPS, ale povoliť pripojenia, ktoré nie sú zabezpečené
 
 ## DoH Section
 

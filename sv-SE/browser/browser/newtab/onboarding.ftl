@@ -445,9 +445,7 @@ onboarding-checklist-sign-up = Registrera dig eller logga in på ditt konto
 
 tab-groups-onboarding-feature-callout-title = Testa flikgrupper för mindre röra, mer fokus
 tab-groups-onboarding-feature-callout-subtitle = Bli organiserad genom att dra en flik ovanpå en annan för att skapa din första grupp.
-tab-groups-onboarding-create-group-title = Hitta dina öppna grupper i flikfältet eller genom att söka efter dem i adressfältet.
 tab-groups-onboarding-saved-groups-title = Om du stänger en flikgrupp kan du öppna den här igen när som helst.
-tab-groups-onboarding-saved-groups-no-alltabs-button-title = Hitta dina öppna eller stängda flikgrupper när som helst genom att söka i adressfältet.
 tab-groups-onboarding-dismiss = Ok
 
 ## Multi Profiles feature onboarding messages

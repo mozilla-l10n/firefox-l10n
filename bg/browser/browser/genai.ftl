@@ -5,11 +5,6 @@
 
 ## Generative AI (GenAI) Settings section
 
-genai-settings-chat-description = Добавя чатбот по ваш избор към страничната лента за бърз достъп по време на сърфиране. <a data-l10n-name="connect">Споделяне на отзиви</a>
-genai-settings-chat-choose = Изберете чатбот
-genai-settings-chat-choose-one-menuitem =
-    .label = Изберете от списъка
-genai-settings-chat-links = Когато изберете чатбот, вие се съгласявате с условията за ползване и декларацията за поверителност на доставчика.
 genai-settings-chat-chatgpt-links = Избирайки ChatGPT, вие се съгласявате с <a data-l10n-name="link1">условията за използване</a> на OpenAI и <a data-l10n-name="link2">декларацията за поверителност</a>.
 genai-settings-chat-claude-links = Избирайки Anthropic Claude, вие се съгласявате с <a data-l10n-name="link1">Условията за ползване на Anthropic</a>, <a data-l10n-name="link2">Политиката за използване</a>, и <a data-l10n-name="link3">Декларация за поверителност</a>.
 genai-settings-chat-copilot-links = Избирайки Copilot, вие се съгласявате с <a data-l10n-name="link1">условията на Copilot AI Experiences</a> и <a data-l10n-name="link2">Декларацията за поверителност на Microsoft</a>.
@@ -17,9 +12,6 @@ genai-settings-chat-gemini-links = Избирайки Google Gemini, вие се
 genai-settings-chat-huggingchat-links = Избирайки HuggingChat, вие се съгласявате с <a data-l10n-name="link1">Декларацията за поверителност на HuggingChat</a> и <a data-l10n-name="link2">Политиката за поверителност на Hugging Face</a>.
 genai-settings-chat-lechat-links = Избирайки Le Chat Mistral, вие се съгласявате с <a data-l10n-name="link1">условията за използване</a> и <a data-l10n-name="link2">декларацията за поверителност</a>.
 genai-settings-chat-localhost-links = Вземете свой частен локален чатбот, като <a data-l10n-name="link1">llamafile</a> от групата за иновации на { -vendor-short-name }.
-genai-settings-chat-shortcuts =
-    .description = Контекстни икони с подкани към чатбота, когато изберете текст. { -brand-short-name } изпраща текста, заглавието на страницата и подканата към чатбота.
-    .label = Контекстни чатбот подкани при избор на текст
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.

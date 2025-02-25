@@ -250,7 +250,6 @@ newtab-pocket-thumbs-down-tooltip =
 # Used to show the user a message upon clicking the thumbs up or down buttons
 newtab-toast-thumbs-up-or-down2 =
     .message = Tanemmirt. Tamawt-ik ad ak-tall ad tesnerniḍ asuddem-ik.
-newtab-toast-thumbs-up-or-down = Tanemmirt. Tamawt-ik ad ak-tall ad tesnerniḍ asuddem-ik.
 newtab-toast-dismiss-button =
     .title = Zgel
     .aria-label = Zgel

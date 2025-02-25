@@ -46,10 +46,6 @@ sidebar-customize-extensions-header = Forritsaukar hliðarstiku
 sidebar-customize-firefox-tools-header =
     .label = { -brand-product-name } verkfæri
 sidebar-customize-firefox-settings = Sýsla meða stillingar { -brand-short-name }
-sidebar-position-left =
-    .label = Birta vinstra megin
-sidebar-position-right =
-    .label = Birta hægra megin
 sidebar-vertical-tabs =
     .label = Lóðréttir flipar
 sidebar-settings =
@@ -64,18 +60,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Fella út hliðarstikuna við yfirsvif
-sidebar-horizontal-tabs =
-    .label = Láréttir flipar
-sidebar-customize-tabs-header =
-    .label = Stillingar flipa
-sidebar-customize-button-header =
-    .label = Hnappur á hliðarstiku
-sidebar-customize-position-header =
-    .label = Staða hliðarstiku
-sidebar-visibility-setting-always-show =
-    .label = Fella út og draga saman hliðarstikuna
-sidebar-visibility-setting-hide-sidebar =
-    .label = Birta og fela hliðarstiku
 
 ## Labels for sidebar context menu items
 
@@ -138,8 +122,6 @@ sidebar-menu-open-bookmarks-tooltip = Opna bókamerki ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Loka bókamerkjum ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = Opna gervigreindarspjallkerfi
-sidebar-menu-close-ai-chatbot-tooltip = Loka gervigreindarspjallkerfi
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

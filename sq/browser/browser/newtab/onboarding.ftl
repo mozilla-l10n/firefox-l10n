@@ -443,9 +443,7 @@ onboarding-checklist-sign-up = Regjistrohuni, ose bëni hyrjen te llogaria juaj
 
 tab-groups-onboarding-feature-callout-title = Provoni grupe skedash për më pak rrëmujë, më tepër përqendrim
 tab-groups-onboarding-feature-callout-subtitle = Sistemoni gjërat, duke tërhequr një skedë mbi një tjetër, që të krijoni grupin tuaj të parë.
-tab-groups-onboarding-create-group-title = Gjeni grupet tuaja të hapura, te shtylla e skedave, ose duke kërkuar për ta te shtylla e adresave.
 tab-groups-onboarding-saved-groups-title = Nëse mbyllni një grup skedash, mund ta rihapni këtu kurdo.
-tab-groups-onboarding-saved-groups-no-alltabs-button-title = Gjeni në çfarëdo kohe grupet tuaja të hapura, ose të mbyllura, duke kërkuar për ta te shtylla e adresave.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

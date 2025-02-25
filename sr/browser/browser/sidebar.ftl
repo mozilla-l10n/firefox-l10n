@@ -40,24 +40,8 @@ sidebar-customize-extensions-header = Додаци бочног панела
 sidebar-customize-firefox-tools-header =
     .label = { -brand-product-name } алатке
 sidebar-customize-firefox-settings = Управља { -brand-short-name } подешавањима
-sidebar-position-left =
-    .label = Прикажи налево
-sidebar-position-right =
-    .label = Прикажи надесно
 sidebar-vertical-tabs =
     .label = Усправне картице
-sidebar-horizontal-tabs =
-    .label = Водоравне картице
-sidebar-customize-tabs-header =
-    .label = Подешавања картица
-sidebar-customize-button-header =
-    .label = Тастер за бочни панел
-sidebar-customize-position-header =
-    .label = Положај бочног панела
-sidebar-visibility-setting-always-show =
-    .label = Рашири и скупи бочни панел
-sidebar-visibility-setting-hide-sidebar =
-    .label = Прикажи и сакриј бочни панел
 
 ## Labels for sidebar context menu items
 
@@ -118,8 +102,6 @@ sidebar-menu-open-bookmarks-tooltip = Отвори обележиваче ({ $sh
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Затвори облеживаче ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = Отвори AI чет-бот
-sidebar-menu-close-ai-chatbot-tooltip = Затвори AI чет-бот
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

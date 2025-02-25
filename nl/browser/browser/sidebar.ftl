@@ -44,10 +44,6 @@ sidebar-customize-extensions-header = Zijbalkextensies
 sidebar-customize-firefox-tools-header =
     .label = { -brand-product-name }-hulpmiddelen
 sidebar-customize-firefox-settings = { -brand-short-name }-instellingen beheren
-sidebar-position-left =
-    .label = Aan de linkerkant tonen
-sidebar-position-right =
-    .label = Aan de rechterkant tonen
 sidebar-vertical-tabs =
     .label = Verticale tabbladen
 sidebar-settings =
@@ -62,18 +58,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Zijbalk bij aanwijzen uitvouwen
-sidebar-horizontal-tabs =
-    .label = Horizontale tabbladen
-sidebar-customize-tabs-header =
-    .label = Tabbladinstellingen
-sidebar-customize-button-header =
-    .label = Zijbalkknop
-sidebar-customize-position-header =
-    .label = Positie zijbalk
-sidebar-visibility-setting-always-show =
-    .label = Zijbalk uitvouwen en samenvouwen
-sidebar-visibility-setting-hide-sidebar =
-    .label = Zijbalk tonen en verbergen
 
 ## Labels for sidebar context menu items
 
@@ -134,8 +118,6 @@ sidebar-menu-open-bookmarks-tooltip = Bladwijzers openen ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Bladwijzers sluiten ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = AI-chatbot openen
-sidebar-menu-close-ai-chatbot-tooltip = AI-chatbot sluiten
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

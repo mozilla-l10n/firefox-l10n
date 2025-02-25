@@ -1390,20 +1390,13 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } ponestaje prostor
 
 httpsonly-header = Način rada samo za HTTPS
 httpsonly-description = HTTPS pruža sigurnu, šifrovanu vezu između { -brand-short-name } i web stranica koje posjećujete. Većina web stranica podržava HTTPS, a ako je omogućen način rada samo za HTTPS, tada će { -brand-short-name } nadograditi sve veze na HTTPS.
-httpsonly-description2 = { -brand-short-name } stvara sigurne i šifrovane veze sa web stranicama koje posjećujete. { -brand-short-name } će vas upozoriti ako veza nije sigurna kada je uključen samo HTTPS.
 httpsonly-learn-more = Saznajte više
 httpsonly-radio-enabled =
     .label = Omogućite režim samo za HTTPS u svim prozorima
-httpsonly-radio-enabled2 =
-    .label = Koristite samo HTTPS u svim prozorima
 httpsonly-radio-enabled-pbm =
     .label = Omogućite samo HTTPS način rada samo u privatnim prozorima
-httpsonly-radio-enabled-pbm2 =
-    .label = Koristite samo HTTPS u privatnim prozorima
 httpsonly-radio-disabled =
     .label = Ne omogućavajte samo HTTPS način rada
-httpsonly-radio-disabled2 =
-    .label = Prvo isprobajte HTTPS, ali dozvolite veze koje nisu sigurne
 
 ## DoH Section
 

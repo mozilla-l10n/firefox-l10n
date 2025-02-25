@@ -50,15 +50,6 @@ experimental-features-ime-search-description = Ein IME (Input Method Editor) ist
 experimental-features-auto-pip =
     .label = Bild-im-Bild: Beim Tab-Wechsel automatisch öffnen
 experimental-features-auto-pip-description = Bild-im-Bild (PiP) für aktive Videos beim Wechseln von Tabs aktivieren
-genai-settings-chat-title =
-    .label = KI-Chatbot
-# Updated sidebar settings
-sidebar-title =
-    .label = Sidebar
-sidebar-description = Greifen Sie beim Surfen einfach auf Ihre Chronik, Tabs von anderen Geräten, Sidebar-Erweiterungen und mehr zu. <a data-l10n-name="connect">Feedback teilen</a>
-vertical-tabs-title =
-    .label = Vertikale Tabs
-vertical-tabs-description = Verschieben Sie Ihre Tabs vom oberen Rand des Browsers an die Seite. Erfordert, dass Sie auch die Sidebar ausprobieren. <a data-l10n-name="connect">Feedback teilen</a>
 experimental-features-group-developer-tools =
     .label = Entwicklerwerkzeuge
 experimental-features-group-webpage-display =

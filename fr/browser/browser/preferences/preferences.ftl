@@ -1426,23 +1426,16 @@ httpsonly-header = Mode HTTPS uniquement
 httpsonly-description3 = Ce mode autorise seulement les connexions sécurisées aux sites web. { -brand-short-name } demande avant d’établir une connexion non sécurisée.
 httpsonly-learn-more2 = Fonctionnement du mode HTTPS uniquement
 httpsonly-description = HTTPS procure une connexion sûre et chiffrée entre { -brand-short-name } et les sites web sur lesquels vous vous rendez. La plupart des sites web prennent en charge HTTPS. Si le mode HTTPS uniquement est activé, { -brand-short-name } surclassera alors toutes les connexions en HTTPS.
-httpsonly-description2 = { -brand-short-name } établit des connexions sécurisées et chiffrées avec les sites que vous visitez. { -brand-short-name } vous avertira si une connexion n’est pas sécurisée lorsque « HTTPS uniquement » est activé.
 httpsonly-learn-more = En savoir plus
 httpsonly-radio-enabled =
     .label = Activer le mode HTTPS uniquement dans toutes les fenêtres
-httpsonly-radio-enabled2 =
-    .label = Utiliser uniquement HTTPS dans toutes les fenêtres
 httpsonly-radio-enabled-pbm =
     .label = Activer le mode HTTPS uniquement dans les fenêtres privées seulement
 httpsonly-radio-disabled3 =
     .label = Ne pas activer le mode HTTPS uniquement
     .description = { -brand-short-name } peut tout de même surclasser certaines connexions
-httpsonly-radio-enabled-pbm2 =
-    .label = Utiliser uniquement HTTPS dans les fenêtres de navigation privée
 httpsonly-radio-disabled =
     .label = Ne pas activer le mode HTTPS uniquement
-httpsonly-radio-disabled2 =
-    .label = Essayer d’abord HTTPS, mais autoriser les connexions non sécurisées
 
 ## DoH Section
 

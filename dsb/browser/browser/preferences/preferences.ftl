@@ -1434,23 +1434,16 @@ httpsonly-header = Modus Jano-HTTPS
 httpsonly-description3 = Zmóžnja jano wěste zwiski z websedłami. { -brand-short-name } buźo se was pšašaś, nježli až njewěsće zwězujo.
 httpsonly-learn-more2 = Kak Jano-HTTPS funkcioněrujo
 httpsonly-description = HTTPS wěsty, skoděrowany zwisk mjazy { -brand-short-name } a websedłami bitujo, ku kótarymž se woglědujośo. Nejwěcej websedłow HTTPS pódpěra, a jolic modus Jano-HTTPS jo zmóžnjony, { -brand-short-name } buźo wše zwiski na HTTPS aktualizěrowaś.
-httpsonly-description2 = { -brand-short-name } wěste a skoděrowane zwiski ze sedłami, ku kótarymž se woglědujośo, napórajo. { -brand-short-name } buźo was warnowaś, jolic zwisk njejo wěsty, gaž Jano-HTTPS jo aktiwny.
 httpsonly-learn-more = Dalšne informacije
 httpsonly-radio-enabled =
     .label = Modus Jano-HTTPS we wšych woknach zmóžniś
-httpsonly-radio-enabled2 =
-    .label = HTTPS jano we wšych woknach wužywaś
 httpsonly-radio-enabled-pbm =
     .label = Modus Jano-HTTPS jano w priwatnych woknach zmóžniś
 httpsonly-radio-disabled3 =
     .label = Modus Jano-HTTPS njezmóžniś
     .description = { -brand-short-name } snaź někotare zwiski aktualizěrujo
-httpsonly-radio-enabled-pbm2 =
-    .label = HTTPS jano w priwatnych woknach wužywaś
 httpsonly-radio-disabled =
     .label = Modus Jano-HTTPS njezmóžniś
-httpsonly-radio-disabled2 =
-    .label = HTTPS nejpjerwjej wopytaś, ale zwiski dowóliś, kótarež njejsu wěste
 
 ## DoH Section
 

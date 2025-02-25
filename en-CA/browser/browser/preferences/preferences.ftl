@@ -1426,23 +1426,16 @@ httpsonly-header = HTTPS-Only Mode
 httpsonly-description3 = Only allows secure connections to websites. { -brand-short-name } will ask before connecting insecurely.
 httpsonly-learn-more2 = How HTTPS-Only works
 httpsonly-description = HTTPS provides a secure, encrypted connection between { -brand-short-name } and the websites you visit. Most websites support HTTPS, and if HTTPS-Only Mode is enabled, then { -brand-short-name } will upgrade all connections to HTTPS.
-httpsonly-description2 = { -brand-short-name } creates secure and encrypted connections to sites you visit. { -brand-short-name } will warn you if a connection isn’t secure when HTTPS-Only is on.
 httpsonly-learn-more = Learn more
 httpsonly-radio-enabled =
     .label = Enable HTTPS-Only Mode in all windows
-httpsonly-radio-enabled2 =
-    .label = Only use HTTPS in all windows
 httpsonly-radio-enabled-pbm =
     .label = Enable HTTPS-Only Mode in private windows only
 httpsonly-radio-disabled3 =
     .label = Don’t enable HTTPS-Only Mode
     .description = { -brand-short-name } may still upgrade some connections
-httpsonly-radio-enabled-pbm2 =
-    .label = Only use HTTPS in private windows
 httpsonly-radio-disabled =
     .label = Don’t enable HTTPS-Only Mode
-httpsonly-radio-disabled2 =
-    .label = Try HTTPS first, but allow connections that are not secure
 
 ## DoH Section
 

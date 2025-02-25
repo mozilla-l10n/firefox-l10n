@@ -46,10 +46,6 @@ sidebar-customize-extensions-header = Etendaĵoj por la flanka strio
 sidebar-customize-firefox-tools-header =
     .label = Iloj de { -brand-product-name }
 sidebar-customize-firefox-settings = Administri agordojn de { -brand-short-name }
-sidebar-position-left =
-    .label = Montri maldekstre
-sidebar-position-right =
-    .label = Montri dekstre
 sidebar-vertical-tabs =
     .label = Vertikalaj langetoj
 sidebar-settings =
@@ -64,18 +60,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Malfaldi flankan strion kiam la muso iras super ĝi
-sidebar-horizontal-tabs =
-    .label = Horizontalaj langetoj
-sidebar-customize-tabs-header =
-    .label = Agordoj de langetoj
-sidebar-customize-button-header =
-    .label = Butono de flanka strio
-sidebar-customize-position-header =
-    .label = Pozicio de flanka strio
-sidebar-visibility-setting-always-show =
-    .label = Faldi kaj malfaldi flankan strion
-sidebar-visibility-setting-hide-sidebar =
-    .label = Montri kaj kaŝi flankan strion
 
 ## Labels for sidebar context menu items
 
@@ -138,8 +122,6 @@ sidebar-menu-open-bookmarks-tooltip = Malfermi legosignojn ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Fermi legosignojn ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = Malfermi dialoganton A.I.
-sidebar-menu-close-ai-chatbot-tooltip = Fermi dialoganton A.I.
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

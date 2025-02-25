@@ -5,11 +5,6 @@
 
 ## Generative AI (GenAI) Settings section
 
-genai-settings-chat-description = Lisää valitsemasi chatbotin sivupalkkiin nopeaa käyttöä varten selaamisen aikana. <a data-l10n-name="connect">Anna palautetta</a>
-genai-settings-chat-choose = Valitse chatbotti
-genai-settings-chat-choose-one-menuitem =
-    .label = Valitse yksi
-genai-settings-chat-links = Kun valitset chatbotin, hyväksyt palveluntarjoajan käyttöehdot ja tietosuojakäytännön.
 genai-settings-chat-chatgpt-links = Valitsemalla ChatGPT:n hyväksyt OpenAI:n <a data-l10n-name="link1">käyttöehdot</a> ja <a data-l10n-name="link2">tietosuojakäytännön</a>.
 genai-settings-chat-claude-links = Valitsemalla Anthropic Clauden hyväksyt Anthropicin <a data-l10n-name="link1">kuluttajaehdot</a>, <a data-l10n-name="link2">käyttökäytännöt</a> ja <a data-l10n-name="link3">tietosuojakäytännön</a>.
 genai-settings-chat-copilot-links = Valitsemalla Copilotin hyväksyt <a data-l10n-name="link1">Copilot AI Experiences -ehdot</a> ja <a data-l10n-name="link2">Microsoftin tietosuojakäytännön</a>.
@@ -17,9 +12,6 @@ genai-settings-chat-gemini-links = Valitsemalla Google Geminin hyväksyt <a data
 genai-settings-chat-huggingchat-links = Valitsemalla HuggingChatin hyväksyt <a data-l10n-name="link1">HuggingChatin tietosuojailmoituksen</a> ja <a data-l10n-name="link2">Hugging Face -tietosuojakäytännön</a>.
 genai-settings-chat-lechat-links = Valitsemalla Le Chat Mistralin hyväksyt Mistral AI:n <a data-l10n-name="link1">käyttöehdot</a> ja <a data-l10n-name="link2">tietosuojakäytännön</a>.
 genai-settings-chat-localhost-links = Tuo oma yksityinen paikallinen chatbot, kuten { -vendor-short-name }n innovaatioryhmän <a data-l10n-name="link1">llamafile</a>.
-genai-settings-chat-shortcuts =
-    .description = Näyttää pikakuvakkeen kehotteisiin, kun valitset tekstiä. { -brand-short-name } lähettää tekstin, sivun otsikon ja kehotteen chatbotille.
-    .label = Näytä kehotteita tekstiä valittaessa
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.

@@ -31,8 +31,6 @@ sidebar-menu-genai-chat-label =
 
 ## Tooltips for sidebar menu items.
 
-sidebar-menu-open-ai-chatbot-tooltip = AI කතා ක්‍රමලේඛය අරින්න
-sidebar-menu-close-ai-chatbot-tooltip = AI කතා ක්‍රමලේඛය අරින්න
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

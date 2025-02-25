@@ -46,10 +46,6 @@ sidebar-customize-extensions-header = Sivupalkin laajennukset
 sidebar-customize-firefox-tools-header =
     .label = { -brand-product-name }-työkalut
 sidebar-customize-firefox-settings = Hallitse { -brand-short-name }-asetuksia
-sidebar-position-left =
-    .label = Näytä vasemmalla
-sidebar-position-right =
-    .label = Näytä oikealla
 sidebar-vertical-tabs =
     .label = Pystysuuntaiset välilehdet
 sidebar-settings =
@@ -64,18 +60,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Laajenna sivupalkki hiiren päällä
-sidebar-horizontal-tabs =
-    .label = Vaakasuuntaiset välilehdet
-sidebar-customize-tabs-header =
-    .label = Välilehtiasetukset
-sidebar-customize-button-header =
-    .label = Sivupalkin painike
-sidebar-customize-position-header =
-    .label = Sivupalkin sijainti
-sidebar-visibility-setting-always-show =
-    .label = Laajenna ja supista sivupalkki
-sidebar-visibility-setting-hide-sidebar =
-    .label = Näytä ja piilota sivupalkki
 
 ## Labels for sidebar context menu items
 
@@ -138,8 +122,6 @@ sidebar-menu-open-bookmarks-tooltip = Avaa kirjanmerkit ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Sulje kirjanmerkit ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = Avaa AI-chatbotti
-sidebar-menu-close-ai-chatbot-tooltip = Sulje AI-chatbotti
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

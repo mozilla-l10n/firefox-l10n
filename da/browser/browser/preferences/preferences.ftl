@@ -1430,23 +1430,16 @@ httpsonly-header = Tilstanden Kun-HTTPS
 httpsonly-description3 = Tillad kun sikre forbindelser til websteder. { -brand-short-name } vil spørge, før en usikker forbindelse oprettes.
 httpsonly-learn-more2 = Sådan virker tilstanden kun-HTTPS
 httpsonly-description = HTTPS sørger for en sikker, krypteret forbindelse mellem { -brand-short-name } og de websteder, du besøger. De fleste websteder understøtter HTTPS, og hvis kun-HTTPS er slået til, så opgraderer { -brand-short-name } alle forbindelser til HTTPS.
-httpsonly-description2 = { -brand-short-name } etablerer sikre og krypterede forbindelser til de websteder, du besøger. Når Kun-HTTPS er slået til, advarer { -brand-short-name } dig, hvis forbindelsen ikke er sikker.
 httpsonly-learn-more = Læs mere
 httpsonly-radio-enabled =
     .label = Slå kun-HTTPS til for alle vinduer
-httpsonly-radio-enabled2 =
-    .label = Brug udelukkende HTTPS i alle vinduer
 httpsonly-radio-enabled-pbm =
     .label = Slå udelukkende kun-HTTPS til for private vinduer
 httpsonly-radio-disabled3 =
     .label = Slå ikke kun-HTTPS til
     .description = { -brand-short-name } kan stadig opgradere nogle forbindelser
-httpsonly-radio-enabled-pbm2 =
-    .label = Brug udelukkende HTTPS i private vinduer
 httpsonly-radio-disabled =
     .label = Slå ikke kun-HTTPS til
-httpsonly-radio-disabled2 =
-    .label = Forsøg først med HTTPS, men tillad også usikre forbindelser.
 
 ## DoH Section
 

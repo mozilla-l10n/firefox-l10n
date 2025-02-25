@@ -446,9 +446,7 @@ onboarding-checklist-sign-up = ਸਾਈਨ ਅੱਪ ਕਰੋ ਜਾਂ ਆਪ
 
 tab-groups-onboarding-feature-callout-title = ਘੱਟ ਗਾਹ ਅਤੇ ਵੱਧ ਫੋਕਸ ਵਾਸਤੇ ਟੈਬ ਗਰੁੱਪਾਂ ਨੂੰ ਅਜ਼ਮਾ ਕੇ ਵੇਖੋ
 tab-groups-onboarding-feature-callout-subtitle = ਸੁਚੱਜੇ ਢੰਗ ਨਾਲ ਇੰਤਜ਼ਾਮ ਵਾਸਤੇ ਇੱਕ ਟੈਬ ਨੂੰ ਦੂਜੀ ਟੈਬ ਉੱਤੇ ਰੱਖ ਕੇ ਆਪਣਾ ਪਹਿਲਾਂ ਗਰੁੱਪ ਬਣਾਓ।
-tab-groups-onboarding-create-group-title = ਆਪੇ ਖੁੱਲ੍ਹੇ ਗਰੁੱਪਾਂ ਨੂੰ ਟੈਬ ਗਰੁੱਪ ਵਿੱਚ ਜਾਂ ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਿੱਚ ਉਹਨਾਂ ਨੂੰ ਖੋਜ ਕਰਕੇ ਲੱਭੋ।
 tab-groups-onboarding-saved-groups-title = ਜੇ ਤੁਸੀਂ ਟੈਬ ਗਰੁੱਪ ਨੂੁੰ ਬੰਦ ਕਰਦੇ ਹੋ ਤਾਂ ਤੁਸੀਂ ਇਸ ਨੂੰ ਕਿਸੇ ਵੀ ਵੇਲੇ ਖੋਲ੍ਹ ਸਕਦੇ ਹੋ।
-tab-groups-onboarding-saved-groups-no-alltabs-button-title = ਆਪਣੇ ਖੁੱਲ੍ਹੇ ਜਾਂ ਬੰਦ ਕੀਤੇ ਟੈਬ ਗਰੁੱਪਾਂ ਨੂੰ ਕਿਸੇ ਵੀ ਵੇਲੇ ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਿੱਚ ਖੋਜ ਕਰਕੇ ਲੱਭੋ।
 tab-groups-onboarding-dismiss = ਠੀਕ ਹੈ
 
 ## Multi Profiles feature onboarding messages

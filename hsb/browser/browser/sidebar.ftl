@@ -46,10 +46,6 @@ sidebar-customize-extensions-header = Rozšěrjenja bóčnicy
 sidebar-customize-firefox-tools-header =
     .label = Nastroje { -brand-product-name }
 sidebar-customize-firefox-settings = Nastajenja { -brand-short-name } rjadować
-sidebar-position-left =
-    .label = Nalěwo pokazać
-sidebar-position-right =
-    .label = Naprawo pokazać
 sidebar-vertical-tabs =
     .label = Wertikalne rajtarki
 sidebar-settings =
@@ -64,18 +60,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Bóčnicu pod kursorom pokazać
-sidebar-horizontal-tabs =
-    .label = Horicontalne rajtarki
-sidebar-customize-tabs-header =
-    .label = Nastajenja rajtarkow
-sidebar-customize-button-header =
-    .label = Tłóčatko bóčnicy
-sidebar-customize-position-header =
-    .label = Pozicija bóčnicy
-sidebar-visibility-setting-always-show =
-    .label = Bóčnicu wočinić a złožić
-sidebar-visibility-setting-hide-sidebar =
-    .label = Bóčnicu pokazać a schować
 
 ## Labels for sidebar context menu items
 
@@ -138,8 +122,6 @@ sidebar-menu-open-bookmarks-tooltip = Zapołožki wočinić ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Zapołožki začinić ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = KI chatbot wočinić
-sidebar-menu-close-ai-chatbot-tooltip = KI chatbot začinić
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

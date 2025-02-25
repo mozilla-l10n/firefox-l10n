@@ -46,10 +46,6 @@ sidebar-customize-extensions-header = Расширения боковой пан
 sidebar-customize-firefox-tools-header =
     .label = Инструменты { -brand-product-name }
 sidebar-customize-firefox-settings = Управление настройками { -brand-short-name }
-sidebar-position-left =
-    .label = Показать слева
-sidebar-position-right =
-    .label = Показать справа
 sidebar-vertical-tabs =
     .label = Вертикальные вкладки
 sidebar-settings =
@@ -64,18 +60,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Развернуть боковую панель при наведении
-sidebar-horizontal-tabs =
-    .label = Горизонтальные вкладки
-sidebar-customize-tabs-header =
-    .label = Настройки вкладок
-sidebar-customize-button-header =
-    .label = Кнопка боковой панели
-sidebar-customize-position-header =
-    .label = Положение боковой панели
-sidebar-visibility-setting-always-show =
-    .label = Развернуть и свернуть боковую панель
-sidebar-visibility-setting-hide-sidebar =
-    .label = Показать и скрыть боковую панель
 
 ## Labels for sidebar context menu items
 
@@ -138,8 +122,6 @@ sidebar-menu-open-bookmarks-tooltip = Открыть закладки ({ $shortc
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Закрыть закладки ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = Открыть ИИ-чат-бот
-sidebar-menu-close-ai-chatbot-tooltip = Закрыть ИИ-чат-бот
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

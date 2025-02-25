@@ -42,22 +42,8 @@ sidebar-customize-extensions-header = Isiɣzaf n ufeggag adisan
 sidebar-customize-firefox-tools-header =
     .label = Ifecka n { -brand-product-name }
 sidebar-customize-firefox-settings = Sefrek iɣewwaren n { -brand-short-name }
-sidebar-position-left =
-    .label = Sken deg zelmeḍ
-sidebar-position-right =
-    .label = Sken deg yeffus
 sidebar-vertical-tabs =
     .label = Accaren ubdiden
-sidebar-horizontal-tabs =
-    .label = Accaren iglawanen
-sidebar-customize-tabs-header =
-    .label = Iɣewwaren n yiccer
-sidebar-customize-button-header =
-    .label = Taqeffalt n ufeggag adisan
-sidebar-customize-position-header =
-    .label = Adig n ufeggag adisan
-sidebar-visibility-setting-hide-sidebar =
-    .label = Sken syen ffer afeggag adisan
 
 ## Labels for sidebar context menu items
 
@@ -102,7 +88,6 @@ sidebar-menu-review-checker-label =
 
 ## Tooltips for sidebar menu items.
 
-sidebar-menu-close-ai-chatbot-tooltip = Mdel AI chatbot
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

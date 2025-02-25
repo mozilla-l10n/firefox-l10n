@@ -44,10 +44,6 @@ sidebar-customize-extensions-header = Estensions de sbare laterâl
 sidebar-customize-firefox-tools-header =
     .label = Struments di { -brand-product-name }
 sidebar-customize-firefox-settings = Gjestìs lis impostazions di { -brand-short-name }
-sidebar-position-left =
-    .label = Mostre a çampe
-sidebar-position-right =
-    .label = Mostre a diestre
 sidebar-vertical-tabs =
     .label = Schedis verticâls
 sidebar-settings =
@@ -62,18 +58,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Slargje la sbare laterâl passant sore cul mouse
-sidebar-horizontal-tabs =
-    .label = Schedis orizontâls
-sidebar-customize-tabs-header =
-    .label = Impostazions schedis
-sidebar-customize-button-header =
-    .label = Boton sbare laterâl
-sidebar-customize-position-header =
-    .label = Posizion sbare laterâl
-sidebar-visibility-setting-always-show =
-    .label = Slargje e strenç la sbare laterâl
-sidebar-visibility-setting-hide-sidebar =
-    .label = Mostre e plate la sbare laterâl
 
 ## Labels for sidebar context menu items
 
@@ -134,8 +118,6 @@ sidebar-menu-open-bookmarks-tooltip = Vierç segnelibris ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Siere segnelibris ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = Vierç chatbot IA
-sidebar-menu-close-ai-chatbot-tooltip = Siere chatbot IA
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

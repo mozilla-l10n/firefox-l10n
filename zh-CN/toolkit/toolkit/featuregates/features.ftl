@@ -50,15 +50,6 @@ experimental-features-ime-search-description = 对于东亚及印度语言使用
 experimental-features-auto-pip =
     .label = 画中画：切换标签页时自动开启
 experimental-features-auto-pip-description = 切换标签页时，为正在播放的视频启用画中画功能。
-genai-settings-chat-title =
-    .label = AI 聊天机器人
-# Updated sidebar settings
-sidebar-title =
-    .label = 侧栏
-sidebar-description = 在浏览时轻松访问历史记录、其他设备上的标签页、侧栏扩展等。<a data-l10n-name="connect">分享反馈</a>
-vertical-tabs-title =
-    .label = 垂直标签页
-vertical-tabs-description = 将标签页栏从浏览器顶部移到侧边。需要同时试用侧栏功能。<a data-l10n-name="connect">分享反馈</a>
 experimental-features-group-developer-tools =
     .label = 开发者工具
 experimental-features-group-webpage-display =

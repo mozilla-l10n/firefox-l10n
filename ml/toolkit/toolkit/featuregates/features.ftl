@@ -5,6 +5,3 @@
 # Search during IME
 experimental-features-ime-search =
     .label = വിലാസപ്പട്ട: IME ഉണ്ടാക്കലിൽ ഫലങ്ങൾ കാണിക്കുക
-# Updated sidebar settings
-sidebar-title =
-    .label = അണിവക്കം

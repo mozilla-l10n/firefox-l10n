@@ -1421,23 +1421,16 @@ httpsonly-header = Allinnich-HTTPS-modus
 httpsonly-description3 = Stiet allinnich befeilige ferbiningen mei websites ta. { -brand-short-name } sil freegje eardat in ûnfeilige ferbining makke wurdt.
 httpsonly-learn-more2 = Hoe Allinnich-HTTPS wurket
 httpsonly-description = HTTPS biedt in feilige, fersifere ferbining tusken { -brand-short-name } en de troch jo besochte websites. De measte websites stypje HTTPS en as de Allinnich-HTTPS-modus ynskeakele is, sil { -brand-short-name } alle ferbiningen fernije nei HTTPS.
-httpsonly-description2 = { -brand-short-name } makket feilige en fersifere ferbiningen mei websites dy’t jo besykje. { -brand-short-name } warskôget jo as in ferbining net feilich is wannear Allinnich-HTTPS ynskeakele is.
 httpsonly-learn-more = Mear ynfo
 httpsonly-radio-enabled =
     .label = Allinnich-HTTPS-modus yn alle finsters ynskeakelje
-httpsonly-radio-enabled2 =
-    .label = Allinnich HTTPS yn alle finsters brûke
 httpsonly-radio-enabled-pbm =
     .label = Allinnich-HTTPS-modus yn alle priveefinsters ynskeakelje
 httpsonly-radio-disabled3 =
     .label = Allinnich-HTTPS-modus net ynskeakelje
     .description = { -brand-short-name } kin noch hieltyd guon ferbiningen opwurdearje
-httpsonly-radio-enabled-pbm2 =
-    .label = Allinnich HTTPS yn priveefinsters brûke
 httpsonly-radio-disabled =
     .label = Allinnich-HTTPS-modus net ynskeakelje
-httpsonly-radio-disabled2 =
-    .label = Earst HTTPS probearje, mar net-befeilige ferbiningen tastean
 
 ## DoH Section
 

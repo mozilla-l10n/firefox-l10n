@@ -44,24 +44,8 @@ sidebar-customize-extensions-header = Alboko barrako hedapenak
 sidebar-customize-firefox-tools-header =
     .label = { -brand-product-name } tresnak
 sidebar-customize-firefox-settings = Kudeatu { -brand-short-name } ezarpenak
-sidebar-position-left =
-    .label = Erakutsi ezkerrean
-sidebar-position-right =
-    .label = Erakutsi eskuinean
 sidebar-vertical-tabs =
     .label = Fitxa bertikalak
-sidebar-horizontal-tabs =
-    .label = Fitxa horizontalak
-sidebar-customize-tabs-header =
-    .label = Fitxen ezarpenak
-sidebar-customize-button-header =
-    .label = Alboko barraren botoia
-sidebar-customize-position-header =
-    .label = Alboko barraren kokapena
-sidebar-visibility-setting-always-show =
-    .label = Zabaldu eta tolestu alboko barra
-sidebar-visibility-setting-hide-sidebar =
-    .label = Erakutsi eta ezkutatu alboko barra
 
 ## Labels for sidebar context menu items
 
@@ -122,8 +106,6 @@ sidebar-menu-open-bookmarks-tooltip = Ireki laster-markak ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Itxi laster-markak ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = Ireki AA txaterako bota
-sidebar-menu-close-ai-chatbot-tooltip = Itxi AA txaterako bota
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

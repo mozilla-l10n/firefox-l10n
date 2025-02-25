@@ -5,11 +5,6 @@
 
 ## Generative AI (GenAI) Settings section
 
-genai-settings-chat-description = Pridá chatbota podľa vášho výberu na bočný panel pre rýchly prístup pri prehliadaní. <a data-l10n-name="connect">Zdieľajte spätnú väzbu</a>
-genai-settings-chat-choose = Vyberte si chatbota
-genai-settings-chat-choose-one-menuitem =
-    .label = Vyberte jeden
-genai-settings-chat-links = Keď si vyberiete chatbota, súhlasíte s podmienkami používania a zásadami ochrany osobných údajov poskytovateľa.
 genai-settings-chat-chatgpt-links = Výberom služby ChatGPT vyjadrujete súhlas s <a data-l10n-name="link1">Podmienkami používania</a> a <a data-l10n-name="link2">Zásadami ochrany osobných údajov</a> spoločnosti OpenAI.
 genai-settings-chat-claude-links = Výberom Anthropic Claude vyjadrujete súhlas so <a data-l10n-name="link1">Zmluvnými podmienkami pre spotrebiteľov</a>, <a data-l10n-name="link2">Zásadami používania</a> a <a data-l10n-name="link3">Zásadami ochrany osobných údajov</a> spoločnosti Anthropic.
 genai-settings-chat-copilot-links = Výberom Copilota vyjadrujete súhlas s <a data-l10n-name="link1">Podmienkami používania Copilot AI Experiences</a> a <a data-l10n-name="link2">Vyhlásením o ochrane osobných údajov spoločnosti Microsoft</a>.
@@ -17,9 +12,6 @@ genai-settings-chat-gemini-links = Výberom služby Google Gemini vyjadrujete s�
 genai-settings-chat-huggingchat-links = Výberom služby HuggingChat vyjadrujete súhlas s <a data-l10n-name="link1">Oznámením o ochrane osobných údajov služby HuggingChat</a> a <a data-l10n-name="link2">Zásadami ochrany osobných údajov služby Hugging Face</a>.
 genai-settings-chat-lechat-links = Výberom Le Chat Mistral vyjadrujete súhlas s <a data-l10n-name="link1">Zmluvnými podmienkami</a> a <a data-l10n-name="link2">Zásadami ochrany osobných údajov</a> Mistral AI.
 genai-settings-chat-localhost-links = Prineste si svojho vlastného súkromného lokálneho chatbota, ako je napríklad <a data-l10n-name="link1">llamafile</a> zo skupiny inovácií { -vendor-short-name }.
-genai-settings-chat-shortcuts =
-    .description = Po označení textu zobrazí odkazy na výzvu pre chatbota. { -brand-short-name } odošle text, názov stránky a výzvu chatbotovi.
-    .label = Zobrazí výzvy po označení textu
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.

@@ -50,15 +50,6 @@ experimental-features-ime-search-description = Um IME (Input Method Editor, ou e
 experimental-features-auto-pip =
     .label = Picture-in-picture: Abrir automaticamente ao mudar de aba
 experimental-features-auto-pip-description = Ativar picture-in-picture de vídeos ativos ao mudar de aba.
-genai-settings-chat-title =
-    .label = Chatbot de inteligência artificial
-# Updated sidebar settings
-sidebar-title =
-    .label = Painel lateral
-sidebar-description = Acessar facilmente o histórico, abas de outros dispositivos, extensões do painel lateral e muito mais enquanto navega. <a data-l10n-name="connect">Compartilhar opinião</a>
-vertical-tabs-title =
-    .label = Abas na vertical
-vertical-tabs-description = Mover abas do topo para o lado do navegador. Precisa do experimento “Painel lateral“. <a data-l10n-name="connect">Compartilhar opinião</a>
 experimental-features-group-developer-tools =
     .label = Ferramentas de desenvolvimento
 experimental-features-group-webpage-display =

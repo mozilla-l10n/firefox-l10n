@@ -5,9 +5,6 @@
 
 ## Generative AI (GenAI) Settings section
 
-genai-settings-chat-choose = اختر روبوت المحادثة
-genai-settings-chat-choose-one-menuitem =
-    .label = إختر واحدًا
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.

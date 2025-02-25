@@ -46,10 +46,6 @@ sidebar-customize-extensions-header = Rozšyrjenja bocnice
 sidebar-customize-firefox-tools-header =
     .label = Rědy { -brand-product-name }
 sidebar-customize-firefox-settings = Nastajenja { -brand-short-name } zastojaś
-sidebar-position-left =
-    .label = Nalěwo pokazaś
-sidebar-position-right =
-    .label = Napšawo pokazaś
 sidebar-vertical-tabs =
     .label = Wertikalne rejtariki
 sidebar-settings =
@@ -64,18 +60,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Bocnicu pód kursorom pokazaś
-sidebar-horizontal-tabs =
-    .label = Horicontalne rejtariki
-sidebar-customize-tabs-header =
-    .label = Nastajenja rejtarikow
-sidebar-customize-button-header =
-    .label = Tłocašk bocnice
-sidebar-customize-position-header =
-    .label = Pozicija bocnice
-sidebar-visibility-setting-always-show =
-    .label = Bocnicu wócyniś a złožyś
-sidebar-visibility-setting-hide-sidebar =
-    .label = Bocnicu pokazaś a schowaś
 
 ## Labels for sidebar context menu items
 
@@ -138,8 +122,6 @@ sidebar-menu-open-bookmarks-tooltip = Cytańske znamjenja wócyniś ({ $shortcut
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Cytańske znamjenja zacyniś ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = Chatbot KI wócyniś
-sidebar-menu-close-ai-chatbot-tooltip = Chatbot KI zacyniś
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

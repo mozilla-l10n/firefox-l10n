@@ -34,15 +34,6 @@ experimental-features-ime-search-description = IME (Input Method Editor) je alat
 experimental-features-auto-pip =
     .label = Slika-u-slici: automatsko otvaranje pri mijenjanju kartice
 experimental-features-auto-pip-description = Aktiviraj „Slika-u-slici” za aktivna videa prilikom mijenjanja kartica.
-genai-settings-chat-title =
-    .label = UI chatbot
-# Updated sidebar settings
-sidebar-title =
-    .label = Bočna traka
-sidebar-description = Jednostavno pristupi svojoj povijesti, karticama s drugih uređaja, proširenjima u bočnoj traci i još mnogo toga dok pregledavaš. <a data-l10n-name="connect">Podijeli povratne informacije</a>
-vertical-tabs-title =
-    .label = Okomite kartice
-vertical-tabs-description = Premjesti kartice s gornjeg ruba preglednika na stranu. Zahtijeva da isprobaš i bočnu traku. <a data-l10n-name="connect">Podijeli povratne informacije</a>
 experimental-features-group-developer-tools =
     .label = Alati za programere
 experimental-features-group-webpage-display =

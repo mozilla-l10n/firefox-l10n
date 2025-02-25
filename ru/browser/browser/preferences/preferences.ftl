@@ -1430,23 +1430,16 @@ httpsonly-header = Режим «Только HTTPS»
 httpsonly-description3 = Разрешает только защищённые соединения с веб-сайтами. { -brand-short-name } будет спрашивать перед незащищённым соединением.
 httpsonly-learn-more2 = Как работает «Только HTTPS»
 httpsonly-description = HTTPS обеспечивает безопасное и зашифрованное соединение между { -brand-short-name } и сайтами, которые вы посещаете. Большинство сайтов поддерживают HTTPS, и если включён режим «Только HTTPS», то { -brand-short-name } переключит все соединения на HTTPS.
-httpsonly-description2 = { -brand-short-name } создает безопасные и зашифрованные соединения с посещаемыми вами сайтами. { -brand-short-name } будет предупреждать вас, если соединение не защищено при включенном «Только HTTPS».
 httpsonly-learn-more = Подробнее
 httpsonly-radio-enabled =
     .label = Включить режим «Только HTTPS» во всех окнах
-httpsonly-radio-enabled2 =
-    .label = Во всех окнах использовать только HTTPS
 httpsonly-radio-enabled-pbm =
     .label = Включить режим «Только HTTPS» только в приватных окнах
 httpsonly-radio-disabled3 =
     .label = Не включать режим «Только HTTPS»
     .description = { -brand-short-name } сможет всё ещё переключать некоторые соединения
-httpsonly-radio-enabled-pbm2 =
-    .label = В приватных окнах использовать только HTTPS
 httpsonly-radio-disabled =
     .label = Не включать режим «Только HTTPS»
-httpsonly-radio-disabled2 =
-    .label = Попробовать сначала HTTPS, но разрешить незащищённые соединения
 
 ## DoH Section
 

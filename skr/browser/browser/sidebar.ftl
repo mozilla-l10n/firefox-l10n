@@ -44,24 +44,8 @@ sidebar-customize-extensions-header = سائیڈ بار ایکسٹنشناں
 sidebar-customize-firefox-tools-header =
     .label = { -brand-product-name } آوزار
 sidebar-customize-firefox-settings = { -brand-short-name } ترتیباں منیج کرو
-sidebar-position-left =
-    .label = کھٻے پاسے ݙکھاؤ
-sidebar-position-right =
-    .label = سڄے پاسے ݙکھاؤ
 sidebar-vertical-tabs =
     .label = عمودی ٹیباں
-sidebar-horizontal-tabs =
-    .label = افقی ٹیباں
-sidebar-customize-tabs-header =
-    .label = ٹیب ترتیباں
-sidebar-customize-button-header =
-    .label = سائیڈ بار بٹݨ
-sidebar-customize-position-header =
-    .label = سائیڈ بار مقام
-sidebar-visibility-setting-always-show =
-    .label = سائیڈ بار کھنڈاؤ تے ولھیٹو
-sidebar-visibility-setting-hide-sidebar =
-    .label = سائیڈ بار ݙکھاؤ تے لُکاؤ
 
 ## Labels for sidebar context menu items
 

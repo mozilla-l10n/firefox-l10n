@@ -50,15 +50,6 @@ experimental-features-ime-search-description = En IME (Input Method Editor) er e
 experimental-features-auto-pip =
     .label = Billede-i-billede: åbn automatisk ved skift af faneblad
 experimental-features-auto-pip-description = Aktiver Billede-i-billede på aktive videoer ved skift af faneblad.
-genai-settings-chat-title =
-    .label = AI-chatbot
-# Updated sidebar settings
-sidebar-title =
-    .label = Sidepanel
-sidebar-description = Få nem adgang til din historik, faneblade fra andre enheder, sidepanels-udvidelser og mere, mens du bruger nettet. <a data-l10n-name="connect">Del feedback</a>
-vertical-tabs-title =
-    .label = Lodrette faneblade
-vertical-tabs-description = Flyt dine faneblade fra toppen af browseren til siden. Det kræver, at du også aktiverer sidepanelet. <a data-l10n-name="connect">Del feedback</a>
 experimental-features-group-developer-tools =
     .label = Udviklerværktøjer
 experimental-features-group-webpage-display =

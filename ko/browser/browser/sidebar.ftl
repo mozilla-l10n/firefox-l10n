@@ -46,10 +46,6 @@ sidebar-customize-extensions-header = 사이드바 확장 기능
 sidebar-customize-firefox-tools-header =
     .label = { -brand-product-name } 도구
 sidebar-customize-firefox-settings = { -brand-short-name } 설정 관리
-sidebar-position-left =
-    .label = 왼쪽에 표시
-sidebar-position-right =
-    .label = 오른쪽에 표시
 sidebar-vertical-tabs =
     .label = 세로 탭
 sidebar-settings =
@@ -64,18 +60,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = 마우스를 올려서 사이드바 펼치기
-sidebar-horizontal-tabs =
-    .label = 가로 탭
-sidebar-customize-tabs-header =
-    .label = 탭 설정
-sidebar-customize-button-header =
-    .label = 사이드바 버튼
-sidebar-customize-position-header =
-    .label = 사이드바 위치
-sidebar-visibility-setting-always-show =
-    .label = 사이드바 펼치기 및 접기
-sidebar-visibility-setting-hide-sidebar =
-    .label = 사이드바 표시 및 숨기기
 
 ## Labels for sidebar context menu items
 
@@ -138,8 +122,6 @@ sidebar-menu-open-bookmarks-tooltip = 북마크 열기 ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = 북마크 닫기 ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = AI 챗봇 열기
-sidebar-menu-close-ai-chatbot-tooltip = AI 챗봇 닫기
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

@@ -1319,16 +1319,10 @@ httpsonly-description = HTTPS yettmuddu-d tuqqna taɣelsant, yettwawgelhen gar {
 httpsonly-learn-more = Issin ugar
 httpsonly-radio-enabled =
     .label = Rmed askar HTTPS-Only deg yisfuyla akk
-httpsonly-radio-enabled2 =
-    .label = Seqdec kan HTTPS deg meṛṛa isfuyla
 httpsonly-radio-enabled-pbm =
     .label = Rmed askar HTTPS-Only deg yisfuyla usligen kan
-httpsonly-radio-enabled-pbm2 =
-    .label = Seqdec kan HTTPS deg isfuyla usligen
 httpsonly-radio-disabled =
     .label = Ur remmed ara askar HTTPS-Only
-httpsonly-radio-disabled2 =
-    .label = Ԑreḍ HTTPS d amezwaru, maca sireg tuqqniwin ur nettwaseɣles ara
 
 ## DoH Section
 

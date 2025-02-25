@@ -5,11 +5,6 @@
 
 ## Generative AI (GenAI) Settings section
 
-genai-settings-chat-description = ᱵᱽᱨᱟᱣᱩᱡᱽ ᱥᱟᱶ ᱥᱟᱶᱛᱮ ᱩᱥᱟᱹᱨᱟ ᱮᱠᱥᱮᱥ ᱞᱟᱹᱜᱤᱫ, ᱥᱟᱭᱤᱰᱵᱟᱨ ᱨᱮ ᱟᱢᱟᱜ ᱠᱩᱥᱤ ᱞᱮᱠᱟᱱ ᱪᱟᱴᱵᱚᱴ ᱥᱮᱞᱮᱫ ᱢᱮ ᱾ <a data-l10n-name="connect">ᱢᱚᱱᱚᱛ ᱦᱟᱹᱴᱤᱧ ᱢᱮ</a>
-genai-settings-chat-choose = ᱢᱤᱫᱴᱟᱝ ᱪᱟᱴᱵᱚᱴ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
-genai-settings-chat-choose-one-menuitem =
-    .label = ᱢᱤᱫᱴᱟᱹᱝ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
-genai-settings-chat-links = ᱛᱤᱱᱨᱮ ᱟᱢ ᱪᱟᱴᱵᱚᱴ ᱮᱢ ᱵᱟᱪᱷᱟᱣᱟ, ᱟᱢ ᱫᱚ ᱮᱢᱚᱜᱤᱡ ᱟᱜ ᱵᱮᱵᱷᱟᱨ ᱨᱮᱭᱟᱜ ᱥᱟᱨᱛ ᱟᱨ ᱯᱨᱟᱭᱣᱮᱥᱤ ᱯᱚᱞᱤᱥᱤ ᱨᱮᱢ ᱦᱮᱸᱥᱮᱨᱤᱭᱟᱹᱜᱼᱟ ᱾
 genai-settings-chat-chatgpt-links = ChatGPT ᱵᱟᱪᱷᱟᱣ ᱠᱟᱛᱮ, ᱟᱢ ᱚᱯᱮᱱ ᱮᱭᱟᱭ <a data-l10n-name="link1">ᱵᱮᱵᱷᱟᱨ ᱨᱮᱭᱟᱜ ᱥᱚᱨᱛᱚ</a> ᱟᱨ <a data-l10n-name="link2">ᱯᱨᱟᱭᱣᱮᱥᱤ ᱯᱚᱞᱤᱥᱤ</a> ᱥᱟᱶ ᱨᱮᱵᱮᱱ ᱢᱮᱱᱟᱢᱟ ᱾
 genai-settings-chat-claude-links = Anthropic Claude ᱵᱟᱪᱷᱟᱣ ᱠᱟᱛᱮ, ᱟᱢ ᱮᱱᱛᱨᱚᱯᱤᱠ <a data-l10n-name="link1">ᱥᱮᱵᱟ ᱨᱮᱭᱟᱜ ᱠᱷᱟᱴᱚᱠ ᱥᱟᱨᱛ</a>, <a data-l10n-name="link2">ᱵᱮᱵᱷᱟᱨ ᱯᱚᱞᱤᱥᱤ</a> ᱨᱮᱢ ᱦᱮᱸᱥᱚᱜ ᱠᱟᱱᱟ, ᱟᱨ <a data-l10n-name="link3">ᱯᱨᱟᱭᱣᱮᱥᱤ ᱯᱚᱞᱤᱥᱤ</a>᱾
 genai-settings-chat-copilot-links = Copilot ᱵᱟᱪᱷᱟᱣ ᱠᱟᱛᱮ, ᱟᱢ <a data-l10n-name="link1">Copilot AI ᱟᱹᱱᱟᱹᱭᱠᱟᱹᱣ ᱥᱟᱨᱛᱚ</a> ᱟᱨ <a data-l10n-name="link2">Microsoft  ᱯᱨᱟᱭᱣᱮᱥᱤ ᱵᱤᱵᱚᱨᱚᱱ</a> ᱨᱮᱢ ᱦᱮᱸᱥᱮᱨᱤᱭᱟᱹᱜ ᱠᱟᱱᱟ ᱾
@@ -17,9 +12,6 @@ genai-settings-chat-gemini-links = Google Gemini ᱵᱟᱪᱷᱟᱣ ᱠᱟᱛᱮ
 genai-settings-chat-huggingchat-links = HuggingChat ᱵᱟᱪᱷᱟᱣ ᱠᱟᱛᱮ, ᱟᱢ <a data-l10n-name="link1">HuggingChat ᱯᱨᱟᱭᱣᱮᱥᱤ ᱱᱚᱴᱤᱥ</a> ᱟᱨ <a data-l10n-name="link2">HuggingChat Face ᱯᱨᱟᱭᱣᱮᱥᱤ ᱯᱚᱞᱤᱥᱤ</a> ᱨᱮᱢ ᱦᱮᱸᱥᱮᱨᱤᱭᱟᱹᱜ ᱠᱟᱱᱟ ᱾
 genai-settings-chat-lechat-links = Le Chat Mistral ᱵᱟᱪᱷᱟᱣ ᱠᱟᱛᱮ, ᱟᱢ ᱚᱯᱮᱱ ᱮᱭᱟᱭ <a data-l10n-name="link1">ᱵᱮᱵᱷᱟᱨ ᱨᱮᱭᱟᱜ ᱥᱚᱨᱛᱚ</a> ᱟᱨ <a data-l10n-name="link2">ᱯᱨᱟᱭᱣᱮᱥᱤ ᱯᱚᱞᱤᱥᱤ</a> ᱥᱟᱶ ᱨᱮᱵᱮᱱᱟ ᱾
 genai-settings-chat-localhost-links = { -vendor-short-name } ᱨᱮᱭᱟᱜ ᱱᱟᱶᱟᱛᱮᱫ ᱫᱚᱞ ᱠᱷᱚᱱ ᱟᱢᱟᱜ ᱱᱤᱡᱮᱨᱟᱜ ᱞᱚᱠᱟᱞ ᱪᱟᱴᱵᱚᱴ ᱟᱹᱜᱩᱭ ᱢᱮ ᱡᱮᱞᱠᱟ <a data-l10n-name="link1">llamafile</a> ᱠᱷᱚᱱ ᱾
-genai-settings-chat-shortcuts =
-    .description = ᱟᱢ ᱚᱞ ᱵᱟᱪᱷᱟᱣ ᱠᱟᱛᱮ ᱴᱟᱴᱠᱟ ᱵᱟᱠᱚᱥ ᱞᱟᱹᱜᱤᱫ ᱥᱚᱴᱠᱟᱴ ᱩᱫᱩᱜᱚᱜᱼᱟ ᱾ { -brand-short-name } ᱚᱞ, ᱥᱟᱦᱴᱟ ᱢᱩᱴᱷᱟᱹᱱ, ᱟᱨ ᱪᱟᱴᱵᱚᱴ ᱴᱷᱮᱱ ᱴᱟᱴᱠᱟ ᱵᱟᱠᱚᱥ ᱵᱷᱮᱡᱟᱭᱟᱭ ᱾
-    .label = ᱚᱞ ᱵᱟᱪᱷᱟᱣ ᱨᱮ ᱴᱟᱴᱠᱟ ᱵᱟᱠᱚᱥ ᱩᱫᱩᱜ ᱢᱮ
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.

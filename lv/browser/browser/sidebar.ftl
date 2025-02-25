@@ -34,16 +34,8 @@ sidebar-customize-extensions-header = Sānjoslas paplašinājumi
 sidebar-customize-firefox-tools-header =
     .label = { -brand-product-name } rīki
 sidebar-customize-firefox-settings = Pārvaldīt { -brand-short-name } iestatījumus
-sidebar-position-left =
-    .label = Rādīt pa kreisi
-sidebar-position-right =
-    .label = Rādīt pa labi
 sidebar-vertical-tabs =
     .label = Vertikālas cilnes
-sidebar-horizontal-tabs =
-    .label = Horizontālas cilnes
-sidebar-customize-tabs-header =
-    .label = Ciļņu iestatījumi
 
 ## Labels for sidebar context menu items
 

@@ -50,15 +50,6 @@ experimental-features-ime-search-description = Peteĩ IME (Input Method Editor) 
 experimental-features-auto-pip =
     .label = Picture-in-Picture: Embojuruja emoambuévo tendayke
 experimental-features-auto-pip-description = Embojuruja Picture-in-Picture ta’ãngamýime emoambuévo tendayke.
-genai-settings-chat-title =
-    .label = AI chatbot
-# Updated sidebar settings
-sidebar-title =
-    .label = Ta’ãngarupa yke
-sidebar-description = Eike tembiasakue, tendayke ambue mba’e’okapegua, jepysokue tenda yke rehegua ha hetave eikundaha aja. <a data-l10n-name="connect">Emoherakuã temiandu</a>
-vertical-tabs-title =
-    .label = Tendayke ñembo’y
-vertical-tabs-description = Emongue umi tendayke yvatégui ne kundahárape ijyke gotyo. Avei oikotevẽ tenda yke jeporu. <a data-l10n-name="connect">Emoherakuã temiandu</a>
 experimental-features-group-developer-tools =
     .label = Mboguatahára rembiporu
 experimental-features-group-webpage-display =

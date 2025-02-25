@@ -46,10 +46,6 @@ sidebar-customize-extensions-header = הרחבות סרגל צד
 sidebar-customize-firefox-tools-header =
     .label = כלים של { -brand-product-name }
 sidebar-customize-firefox-settings = ניהול הגדרות { -brand-short-name }
-sidebar-position-left =
-    .label = להציג בצד שמאל
-sidebar-position-right =
-    .label = להציג בצד ימין
 sidebar-vertical-tabs =
     .label = לשוניות אנוכיות
 sidebar-settings =
@@ -64,18 +60,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = הרחבת סרגל הצד בעת ריחוף העכבר עליו
-sidebar-horizontal-tabs =
-    .label = לשוניות אופקיות
-sidebar-customize-tabs-header =
-    .label = הגדרות לשוניות
-sidebar-customize-button-header =
-    .label = כפתור סרגל הצד
-sidebar-customize-position-header =
-    .label = מיקום סרגל הצד
-sidebar-visibility-setting-always-show =
-    .label = מרחיב ומכווץ את סרגל הצד
-sidebar-visibility-setting-hide-sidebar =
-    .label = מציג ומסתיר את סרגל הצד
 
 ## Labels for sidebar context menu items
 
@@ -138,8 +122,6 @@ sidebar-menu-open-bookmarks-tooltip = פתיחת סימניות ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = סגירת סימניות ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = פתיחת צ’אט בוט AI
-sidebar-menu-close-ai-chatbot-tooltip = סגירת צ’אט בוט AI
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

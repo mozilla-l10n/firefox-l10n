@@ -40,16 +40,8 @@ sidebar-customize-extensions-header = Extensions de la barra laterala
 sidebar-customize-firefox-tools-header =
     .label = Aisinas de { -brand-product-name }
 sidebar-customize-firefox-settings = Gerir los paramètres de { -brand-short-name }
-sidebar-position-left =
-    .label = Mostrar a man esquèrra
-sidebar-position-right =
-    .label = Mostrar a man drecha
 sidebar-vertical-tabs =
     .label = Onglets verticals
-sidebar-horizontal-tabs =
-    .label = Onglets orizontals
-sidebar-customize-tabs-header =
-    .label = Paramètres dels onglets
 
 ## Labels for sidebar context menu items
 

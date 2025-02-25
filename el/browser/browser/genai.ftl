@@ -5,11 +5,6 @@
 
 ## Generative AI (GenAI) Settings section
 
-genai-settings-chat-description = Προσθέτει το chatbot της επιλογής σας στην πλαϊνή γραμμή, για γρήγορη πρόσβαση κατά την περιήγηση. <a data-l10n-name="connect">Αποστολή σχολίων</a>
-genai-settings-chat-choose = Επιλέξτε ένα chatbot
-genai-settings-chat-choose-one-menuitem =
-    .label = Επιλέξτε ένα
-genai-settings-chat-links = Όταν επιλέγετε ένα chatbot, συμφωνείτε με τους όρους χρήσης και την πολιτική απορρήτου του παρόχου.
 genai-settings-chat-chatgpt-links = Επιλέγοντας το ChatGPT, συμφωνείτε με τους <a data-l10n-name="link1">Όρους χρήσης</a> και την <a data-l10n-name="link2">Πολιτική απορρήτου</a> της OpenAI.
 genai-settings-chat-claude-links = Επιλέγοντας το Anthropic Claude, συμφωνείτε με τους <a data-l10n-name="link1">Όρους υπηρεσίας καταναλωτή</a>, την <a data-l10n-name="link2">Πολιτική χρήσης</a> και την <a data-l10n-name="link3">Πολιτική απορρήτου</a> της Anthropic.
 genai-settings-chat-copilot-links = Επιλέγοντας το Copilot, συμφωνείτε με τους <a data-l10n-name="link1">Όρους εμπειριών Copilot AI</a> και τη <a data-l10n-name="link2">Δήλωση απορρήτου της Microsoft</a>.
@@ -17,9 +12,6 @@ genai-settings-chat-gemini-links = Επιλέγοντας το Google Gemini, σ
 genai-settings-chat-huggingchat-links = Επιλέγοντας το HuggingChat, συμφωνείτε με τη <a data-l10n-name="link1">Σημείωση απορρήτου του HuggingChat</a> και την <a data-l10n-name="link2">Πολιτική απορρήτου της Hugging Face</a>.
 genai-settings-chat-lechat-links = Επιλέγοντας το Le Chat Mistral, συμφωνείτε με τους <a data-l10n-name="link1">Όρους υπηρεσίας</a> και την <a data-l10n-name="link2">Πολιτική απορρήτου</a> της Mistral AI.
 genai-settings-chat-localhost-links = Φέρτε το δικό σας ιδιωτικό και τοπικό chatbot, όπως το <a data-l10n-name="link1">llamafile</a> από την ομάδα καινοτομίας της { -vendor-short-name }.
-genai-settings-chat-shortcuts =
-    .description = Εμφανίζει μια συντόμευση για μηνύματα προτροπής όταν επιλέγετε κείμενο. Το { -brand-short-name } στέλνει το κείμενο, τον τίτλο της σελίδας και το μήνυμα στο chatbot.
-    .label = Εμφάνιση προτροπών κατά την επιλογή κειμένου
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.

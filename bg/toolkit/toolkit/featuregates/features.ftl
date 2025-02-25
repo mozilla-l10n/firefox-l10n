@@ -33,15 +33,6 @@ experimental-features-ime-search-description = IME (Редактор на във
 experimental-features-auto-pip =
     .label = Картина в картината: автоматично отваряне при превключване на раздели
 experimental-features-auto-pip-description = Активиране на картина в картината за активни видеоклипове при превключване между разделите.
-genai-settings-chat-title =
-    .label = AI чатбот
-# Updated sidebar settings
-sidebar-title =
-    .label = Странична лента
-sidebar-description = Имайте лесен достъп до историята, разделите от други устройства, разширенията за странична лента и много други неща докато разглеждате. <a data-l10n-name="connect">Обратна вързка</a>
-vertical-tabs-title =
-    .label = Вертикални раздели
-vertical-tabs-description = Преместете разделите от горната част на браузъра встрани. Изисква да включите и страничната лента. <a data-l10n-name="connect">Споделяне на отзиви</a>
 experimental-features-group-developer-tools =
     .label = Развойни инструменти
 experimental-features-group-webpage-display =

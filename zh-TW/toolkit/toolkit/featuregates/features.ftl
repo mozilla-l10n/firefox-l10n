@@ -50,15 +50,6 @@ experimental-features-ime-search-description = 東亞與印度語系使用者須
 experimental-features-auto-pip =
     .label = 子母畫面：切換分頁時自動開啟
 experimental-features-auto-pip-description = 切換分頁時，將播放中的影片顯示於子母畫面中。
-genai-settings-chat-title =
-    .label = AI 聊天機器人
-# Updated sidebar settings
-sidebar-title =
-    .label = 側邊欄
-sidebar-description = 輕鬆存取您的瀏覽紀錄、其他裝置上的分頁、側邊欄擴充套件，並且隨您上網新增更多內容。<a data-l10n-name="connect">分享意見回饋</a>
-vertical-tabs-title =
-    .label = 垂直分頁標籤
-vertical-tabs-description = 將您的分頁從瀏覽器頂端移到側邊，需要您也試用側邊欄功能。<a data-l10n-name="connect">分享意見回饋</a>
 experimental-features-group-developer-tools =
     .label = 開發者工具
 experimental-features-group-webpage-display =

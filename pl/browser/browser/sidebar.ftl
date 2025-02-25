@@ -42,10 +42,6 @@ sidebar-customize-extensions-header = Rozszerzenia panelu bocznego
 sidebar-customize-firefox-tools-header =
     .label = Narzędzia { -brand-product-name(case: "gen") }
 sidebar-customize-firefox-settings = Ustawienia { -brand-short-name(case: "gen") }
-sidebar-position-left =
-    .label = Wyświetlaj po lewej stronie
-sidebar-position-right =
-    .label = Wyświetlaj po prawej stronie
 sidebar-vertical-tabs =
     .label = Karty pionowe
 sidebar-settings =
@@ -60,18 +56,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Rozwijaj panel boczny po najechaniu kursorem
-sidebar-horizontal-tabs =
-    .label = Karty poziome
-sidebar-customize-tabs-header =
-    .label = Ustawienia kart
-sidebar-customize-button-header =
-    .label = Przycisk panelu bocznego
-sidebar-customize-position-header =
-    .label = Położenie panelu bocznego
-sidebar-visibility-setting-always-show =
-    .label = Rozwiń i zwiń panel boczny
-sidebar-visibility-setting-hide-sidebar =
-    .label = Wyświetl i ukryj panel boczny
 
 ## Labels for sidebar context menu items
 

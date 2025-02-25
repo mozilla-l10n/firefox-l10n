@@ -1426,23 +1426,16 @@ httpsonly-header = Endast HTTPS-läge
 httpsonly-description3 = Tillåter endast säkra anslutningar till webbplatser. { -brand-short-name } kommer att fråga innan du ansluter osäkert.
 httpsonly-learn-more2 = Hur endast HTTPS fungerar
 httpsonly-description = HTTPS ger en säker, krypterad anslutning mellan { -brand-short-name } och de webbplatser du besöker. De flesta webbplatser stöder HTTPS och om endast HTTPS-läget är aktiverat kommer { -brand-short-name } att uppgradera alla anslutningar till HTTPS.
-httpsonly-description2 = { -brand-short-name } skapar säkra och krypterade förbindelser till webbplatser du besöker. { -brand-short-name } varnar om en anslutning inte är säker när läget endast HTTPS är på.
 httpsonly-learn-more = Läs mer
 httpsonly-radio-enabled =
     .label = Aktivera endast HTTPS-läge i alla fönster
-httpsonly-radio-enabled2 =
-    .label = Använd endast HTTPS i alla fönster
 httpsonly-radio-enabled-pbm =
     .label = Aktivera endast HTTPS-läge i privata fönster
 httpsonly-radio-disabled3 =
     .label = Aktivera inte endast HTTPS-läge
     .description = { -brand-short-name } kan fortfarande uppgradera vissa anslutningar
-httpsonly-radio-enabled-pbm2 =
-    .label = Använd endast HTTPS i privata fönster
 httpsonly-radio-disabled =
     .label = Aktivera inte endast HTTPS-läge
-httpsonly-radio-disabled2 =
-    .label = Prova HTTPS först, men tillåt anslutningar som inte är säkra
 
 ## DoH Section
 

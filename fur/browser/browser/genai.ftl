@@ -5,11 +5,6 @@
 
 ## Generative AI (GenAI) Settings section
 
-genai-settings-chat-description = Al zonte il chatbot preferît ae sbare laterâl, par vê un acès rapit intant che tu navighis. <a data-l10n-name="connect">Condivît la tô opinion</a>
-genai-settings-chat-choose = Sielç un chatbot
-genai-settings-chat-choose-one-menuitem =
-    .label = Sielç un
-genai-settings-chat-links = Cuant che tu sielzis un chatbot, tu acetis lis cundizions di utilizazion dal servizi e la informative su la riservatece.
 genai-settings-chat-chatgpt-links = Sielzint ChatGPT, tu acetis lis <a data-l10n-name="link1">cundizions di utilizazion dal servizi</a> e la <a data-l10n-name="link2">informative su la riservatece</a> di OpenAI.
 genai-settings-chat-claude-links = Sielzint Anthropic Claude, tu acetis lis <a data-l10n-name="link1">cundizions di utilizazion pal utent finâl</a>, lis <a data-l10n-name="link2">politichis di utilizazion</a> e la <a data-l10n-name="link3">informative su la riservatece</a>.
 genai-settings-chat-copilot-links = Sielzint Copilot tu acetis i <a data-l10n-name="link1">tiermins di Copilot AI Experiences</a> e la <a data-l10n-name="link2">informative su la riservatece di Microsoft</a>.
@@ -17,9 +12,6 @@ genai-settings-chat-gemini-links = Sielzint Google Gemini tu acetis i <a data-l1
 genai-settings-chat-huggingchat-links = Sielzint HuggingChat tu acetis la <a data-l10n-name="link1">informative su la riservatece di HuggingChat</a> e la <a data-l10n-name="link2">informative su la riservatece di Hugging Face</a>
 genai-settings-chat-lechat-links = Sielzint Le Chat Mistral tu acetis lis <a data-l10n-name="link1">cundizions di utilizazion dal servizi</a> e la <a data-l10n-name="link2">informative su la riservatece</a> di Mistral AI.
 genai-settings-chat-localhost-links = Dopre il to chatbot locâl privât, come <a data-l10n-name="link1">llamafile</a>, dal grup Innovation di { -vendor-short-name }.
-genai-settings-chat-shortcuts =
-    .description = Al mostre une scurte ai prompts cuant che tu selezionis test. { -brand-short-name } al invie il test, il titul de pagjine e il prompt al chatbot.
-    .label = Mostre i prompts ae selezion dal test
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.

@@ -5,11 +5,6 @@
 
 ## Generative AI (GenAI) Settings section
 
-genai-settings-chat-description = Shton te anështylla robotin e fjalosjeve që dëshironi, për përdorim të shpejtë teksa shfletoni. <a data-l10n-name="connect">Jepni përshtypjet</a>
-genai-settings-chat-choose = Zgjidhni një robot fjalosjesh
-genai-settings-chat-choose-one-menuitem =
-    .label = Zgjidhni një
-genai-settings-chat-links = Kur zgjidhni një robot fjalosjesh, pajtoheni me kushtet e përdorimit dhe rregullat e privatësisë së shërbimit që e ofron.
 genai-settings-chat-chatgpt-links = Duke zgjedhur ChatGPT, pajtoheni me <a data-l10n-name="link1">Kushte Përdorimi</a> dhe <a data-l10n-name="link2">Rregulla Privatësie</a> të OpenAI-së.
 genai-settings-chat-claude-links = Duke zgjedhur Anthropic Claude, pajtoheni meyou agree to the Anthropic <a data-l10n-name="link1">Termat Shërbimi të Konsumatorëve</a>, <a data-l10n-name="link2">Rregulla Përdorimi</a> dhe <a data-l10n-name="link3">Rregulla Privatësie</a> të Anthropic-ut.
 genai-settings-chat-copilot-links = Duke zgjedhur Copilot, pajtoheni me <a data-l10n-name="link1">Copilot AI Experiences Terms</a> dhe <a data-l10n-name="link2">Microsoft Privacy Statement</a>.
@@ -17,9 +12,6 @@ genai-settings-chat-gemini-links = Duke zgjedhur Google Gemini, pajtoheni me <a 
 genai-settings-chat-huggingchat-links = Duke zgjedhur HuggingChat, pajtoheni me <a data-l10n-name="link1">Shënim Privatësie HuggingChat</a> dhe <a data-l10n-name="link2">Hugging Face Privacy Policy</a>.
 genai-settings-chat-lechat-links = Duke zgjedhur Le Chat Mistral, pajtoheni me <a data-l10n-name="link1">Terma Shërbimi</a> dhe <a data-l10n-name="link2">Rregulla Privatësie</a>të Mistral AI-së.
 genai-settings-chat-localhost-links = Sillni robotin tuaj vendor privat të fjalosjeve, fjala vjen <a data-l10n-name="link1">llamafile</a> nga grupi Innovation i { -vendor-short-name }.
-genai-settings-chat-shortcuts =
-    .description = Shfaq një shkurtore për te hapat, kur përzgjidhni tekst. { -brand-short-name }-i dërgon te roboti i fjalosjes tekstin, titullin e faqes dhe pyet robotin e fjalosjes.
-    .label = Shfaq hapa për tekstin e përzgjedhur
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.

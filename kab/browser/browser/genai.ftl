@@ -5,9 +5,6 @@
 
 ## Generative AI (GenAI) Settings section
 
-genai-settings-chat-choose = Fren chatbot
-genai-settings-chat-choose-one-menuitem =
-    .label = Fren yiwen
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.

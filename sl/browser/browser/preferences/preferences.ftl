@@ -1434,23 +1434,16 @@ httpsonly-header = Način "samo HTTPS"
 httpsonly-description3 = Dovoli samo varne povezave na spletna mesta. Pred vzpostavitvijo nezavarovane povezave naj { -brand-short-name } vpraša
 httpsonly-learn-more2 = Kako deluje način "samo HTTPS"
 httpsonly-description = HTTPS zagotavlja varno, šifrirano povezavo med { -brand-short-name(sklon: "orodnik") } in spletnimi mesti, ki jih obiščete. Večina spletnih mest podpira HTTPS in če je omogočen način "samo HTTPS", bo { -brand-short-name } nadgradil vse povezave na HTTPS.
-httpsonly-description2 = { -brand-short-name } ustvarja varne in šifrirane povezave na spletna mesta, ki jih obiščete. { -brand-short-name } vas bo opozoril, če povezava ni varna, ko je vklopljen HTTPS-Only.
 httpsonly-learn-more = Več o tem
 httpsonly-radio-enabled =
     .label = Omogoči način "samo HTTPS" v vseh oknih
-httpsonly-radio-enabled2 =
-    .label = Uporabljaj samo HTTPS v vseh oknih
 httpsonly-radio-enabled-pbm =
     .label = Omogoči način "samo HTTPS" samo v zasebnih oknih
 httpsonly-radio-disabled3 =
     .label = Ne omogoči načina "samo HTTPS"
     .description = { -brand-short-name } bo nekatere povezave vseeno nadgradil
-httpsonly-radio-enabled-pbm2 =
-    .label = Uporabljaj samo HTTPS v zasebnih oknih
 httpsonly-radio-disabled =
     .label = Ne omogoči načina "samo HTTPS"
-httpsonly-radio-disabled2 =
-    .label = Najprej preizkusite HTTPS, vendar dovolite povezave, ki niso varne
 
 ## DoH Section
 

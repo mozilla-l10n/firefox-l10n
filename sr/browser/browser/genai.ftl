@@ -5,11 +5,6 @@
 
 ## Generative AI (GenAI) Settings section
 
-genai-settings-chat-description = Додаје чет-бота по вашем избору у бочни панел за брзи приступ док прегледате. <a data-l10n-name="connect">Пошаљи повратне податке</a>
-genai-settings-chat-choose = Изабери чет-бота
-genai-settings-chat-choose-one-menuitem =
-    .label = Изабери једног
-genai-settings-chat-links = Када одаберете чет-бота, прихватате услове коришћења и политику приватности достављача услуге.
 genai-settings-chat-chatgpt-links = Одабиром ChatGPT-a, слажете се са <a data-l10n-name="link1">OpenAI правилима коришћења</a> и <a data-l10n-name="link2">политиком приватности</a>.
 genai-settings-chat-claude-links = Ако изаберете Anthropic Claude, пристајете на Anthropic <a data-l10n-name="link1">услове коришћења за потрошаче</a>, <a data-l10n-name="link2">услове коришћења</a> и <a data-l10n-name="link3">политику приватности</a>.
 genai-settings-chat-copilot-links = Ако изаберете Copilot, пристајете на <a data-l10n-name="link1">услове Copilot AI искуства</a> и <a data-l10n-name="link2">Microsoft обавештење о приватности</a>.
@@ -17,9 +12,6 @@ genai-settings-chat-gemini-links = Ако изаберете Google Gemini, пр
 genai-settings-chat-huggingchat-links = Ако изаберете HuggingChat, пристајете на <a data-l10n-name="link1">HuggingChat обавештење о приватности</a> и <a data-l10n-name="link2">HuggingChat политику приватности</a>.
 genai-settings-chat-lechat-links = Ако изаберете Le Chat Mistral, пристајете на Mistral AI <a data-l10n-name="link1">услове коришћења</a> и <a data-l10n-name="link2">политику приватности</a>.
 genai-settings-chat-localhost-links = Донесите ваш приватни локални чет-бот као што је <a data-l10n-name="link1">llamafile</a> од групе за иновације { -vendor-short-name }.
-genai-settings-chat-shortcuts =
-    .description = Приказује пречицу до упита када означите текст. { -brand-short-name } шаље текст, назив странице и упит чет-боту.
-    .label = Прикажи упит на одабир текста
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.

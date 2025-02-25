@@ -50,13 +50,6 @@ experimental-features-ime-search-description = ہک IME (ان پٹ میتھڈ ا
 experimental-features-auto-pip =
     .label = تصویر وچ تصویر: ٹیب سوئچ تے خودکار کھلݨ
 experimental-features-auto-pip-description = ٹیباں سوئچ کرݨ ویلے فعال وڈیواں تے تصویر وچ تصویر فعال کرو۔
-genai-settings-chat-title =
-    .label = اے آئی چیٹ بوٹ
-# Updated sidebar settings
-sidebar-title =
-    .label = بغلی بار
-vertical-tabs-title =
-    .label = عمودی ٹیباں
 experimental-features-group-developer-tools =
     .label = ڈویلپر ٹولز
 experimental-features-group-webpage-display =

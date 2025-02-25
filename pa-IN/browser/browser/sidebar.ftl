@@ -46,10 +46,6 @@ sidebar-customize-extensions-header = ਾਹੀ ਇਕਸਟੈਨਸ਼ਨ
 sidebar-customize-firefox-tools-header =
     .label = { -brand-product-name } ਟੂਲ
 sidebar-customize-firefox-settings = { -brand-short-name } ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
-sidebar-position-left =
-    .label = ਖੱਬੇ ਪਾਸੇ ਵੇਖਾਓ
-sidebar-position-right =
-    .label = ਸੱਜੇ ਪਾਸੇ ਵੇਖਾਓ
 sidebar-vertical-tabs =
     .label = ਖੜ੍ਹਵੀਆਂ ਟੈਬਾਂ
 sidebar-settings =
@@ -64,18 +60,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = ਮਾਊਸ ਕੋਲ ਲੈ ਜਾਣ ਉੱਤੇ ਬਾਹੀ ਨੂੰ ਫੈਲਾਓ
-sidebar-horizontal-tabs =
-    .label = ਲੇਟਵੀਆਂ ਟੈਬਾਂ
-sidebar-customize-tabs-header =
-    .label = ਟੈਬ ਦੀਆਂ ਸੈਟਿੰਗਾਂ
-sidebar-customize-button-header =
-    .label = ਬਾਹੀ ਬਟਨ
-sidebar-customize-position-header =
-    .label = ਬਾਹੀ ਦੀ ਸਥਿਤੀ
-sidebar-visibility-setting-always-show =
-    .label = ਬਾਹੀ ਨੂੰ ਫੈਲਾਓ ਤੇ ਸਮੇਟੋ
-sidebar-visibility-setting-hide-sidebar =
-    .label = ਬਾਹੀ ਨੂੰ ਵੇਖਾਓ ਤੇ ਓਹਲੇ ਕਰੋ
 
 ## Labels for sidebar context menu items
 
@@ -138,8 +122,6 @@ sidebar-menu-open-bookmarks-tooltip = ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ �
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਬੰਦ ਕਰੋ ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = AI ਚੈਟ-ਬੋਟ ਨੂੰ ਖੋਲ੍ਹੋ
-sidebar-menu-close-ai-chatbot-tooltip = AI ਚੈਟ-ਬੋਟ ਨੂੰ ਬੰਦ ਕਰੋ
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

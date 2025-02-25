@@ -27,12 +27,6 @@ sidebar-customize-firefox-tools-header =
     .label = Ostilhoù { -brand-product-name }
 sidebar-vertical-tabs =
     .label = Ivinelloù a-serzh
-sidebar-horizontal-tabs =
-    .label = Ivinelloù a-blaen
-sidebar-customize-tabs-header =
-    .label = Arventennoù an ivinelloù
-sidebar-customize-position-header =
-    .label = Lec’hiadur ar varrenn gostez
 
 ## Labels for sidebar context menu items
 

@@ -50,15 +50,6 @@ experimental-features-ime-search-description = IME (შეყვანის მ
 experimental-features-auto-pip =
     .label = ეკრანი-ეკრანში: თავისთავად გახსნა სხვა ჩანართზე გადასვლისას
 experimental-features-auto-pip-description = ეკრანი-ეკრანში გაეშვება მოქმედი ვიდეოები ჩანართის შეცვლისას.
-genai-settings-chat-title =
-    .label = AI-თანამოსაუბრე
-# Updated sidebar settings
-sidebar-title =
-    .label = გვერდითი ზოლი
-sidebar-description = უფრო ადვილად იხილეთ ისტორია, ჩანართები სხვა მოწყობილობებიდან, გვერდითი ზოლის გაფართოებები და სხვ. ვებსივრცეში გადაადგილებისას. <a data-l10n-name="connect">გამოგვეხმაურეთ</a>
-vertical-tabs-title =
-    .label = შვეული ჩანართები
-vertical-tabs-description = გადაიტანეთ თქვენი ჩანართები ბრაუზერის ზემოდან გვერდით მხარეს. ამასთანავე მოსინჯავთ გვერდით ზოლს. <a data-l10n-name="connect">გამოგვეხმაურეთ</a>
 experimental-features-group-developer-tools =
     .label = შემმუშავებლის ხელსაწყოები
 experimental-features-group-webpage-display =

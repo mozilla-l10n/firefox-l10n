@@ -445,9 +445,7 @@ onboarding-checklist-sign-up = Εγγραφή ή σύνδεση σε λογαρ�
 
 tab-groups-onboarding-feature-callout-title = Δοκιμάστε τις ομάδες καρτελών για λιγότερη ακαταστασία, περισσότερη συγκέντρωση
 tab-groups-onboarding-feature-callout-subtitle = Οργανωθείτε σύροντας μια καρτέλα πάνω σε κάποια άλλη για να δημιουργήσετε την πρώτη σας ομάδα.
-tab-groups-onboarding-create-group-title = Βρείτε τις ανοικτές σας ομάδες στη γραμμή καρτελών ή κάνοντας αναζήτηση στη γραμμή διευθύνσεων.
 tab-groups-onboarding-saved-groups-title = Αν κλείσετε μια ομάδα καρτελών, μπορείτε να την ανοίξετε ξανά εδώ ανά πάσα στιγμή.
-tab-groups-onboarding-saved-groups-no-alltabs-button-title = Βρείτε τις ανοικτές ή τις κλειστές ομάδες καρτελών σας ανά πάσα στιγμή κάνοντας αναζήτηση στη γραμμή διευθύνσεων.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

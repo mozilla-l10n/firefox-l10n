@@ -46,10 +46,6 @@ sidebar-customize-extensions-header = Васеъшавиҳои навори ҷо
 sidebar-customize-firefox-tools-header =
     .label = Абзорҳои «{ -brand-product-name }»
 sidebar-customize-firefox-settings = Идораи танзимоти «{ -brand-short-name }»
-sidebar-position-left =
-    .label = Намоиш додан аз тарафи чап
-sidebar-position-right =
-    .label = Намоиш додан аз тарафи рост
 sidebar-vertical-tabs =
     .label = Варақаҳои амудӣ
 sidebar-settings =
@@ -64,18 +60,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Баркушодани навори ҷонибӣ ҳангоми гузоштани нишондиҳандаи муш ба болои он
-sidebar-horizontal-tabs =
-    .label = Варақаҳои уфуқӣ
-sidebar-customize-tabs-header =
-    .label = Танзимоти варақа
-sidebar-customize-button-header =
-    .label = Тугмаи навори ҷонибӣ
-sidebar-customize-position-header =
-    .label = Ҷойгиршавии навори ҷонибӣ
-sidebar-visibility-setting-always-show =
-    .label = Баркушодан ва пеҷондани навори ҷонибӣ
-sidebar-visibility-setting-hide-sidebar =
-    .label = Намоиш ва пинҳон кардани навори ҷонибӣ
 
 ## Labels for sidebar context menu items
 
@@ -138,8 +122,6 @@ sidebar-menu-open-bookmarks-tooltip = Кушодани хатбаракҳо ({ $
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Пӯшидани хатбаракҳо ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = Кушодани чат-боти зеҳни сунъӣ «AI»
-sidebar-menu-close-ai-chatbot-tooltip = Пӯшидани чат-боти зеҳни сунъӣ «AI»
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

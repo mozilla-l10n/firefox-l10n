@@ -46,10 +46,6 @@ sidebar-customize-extensions-header = Kenar çubuğu uzantıları
 sidebar-customize-firefox-tools-header =
     .label = { -brand-product-name } araçları
 sidebar-customize-firefox-settings = { -brand-short-name } ayarlarını yönet
-sidebar-position-left =
-    .label = Solda göster
-sidebar-position-right =
-    .label = Sağda göster
 sidebar-vertical-tabs =
     .label = Dikey sekmeler
 sidebar-settings =
@@ -64,18 +60,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Üzerine gelince kenar çubuğunu genişlet
-sidebar-horizontal-tabs =
-    .label = Yatay sekmeler
-sidebar-customize-tabs-header =
-    .label = Sekme ayarları
-sidebar-customize-button-header =
-    .label = Kenar çubuğu düğmesi
-sidebar-customize-position-header =
-    .label = Kenar çubuğu konumu
-sidebar-visibility-setting-always-show =
-    .label = Kenar çubuğunu genişlet ve daralt
-sidebar-visibility-setting-hide-sidebar =
-    .label = Kenar çubuğunu göster ve gizle
 
 ## Labels for sidebar context menu items
 
@@ -138,8 +122,6 @@ sidebar-menu-open-bookmarks-tooltip = Yer imlerini aç ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Yer imlerini kapat ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = Yapay zekâ sohbet botunu aç
-sidebar-menu-close-ai-chatbot-tooltip = Yapay zekâ sohbet botunu kapat
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

@@ -1426,23 +1426,16 @@ httpsonly-header = Modo solo HTTPS
 httpsonly-description3 = Solo permitte connexiones secur a sitos web. { -brand-short-name } demandara ante connecter in maniera non secur.
 httpsonly-learn-more2 = Como functiona Solo-HTTPS
 httpsonly-description = HTTPS offere un connexion secur e cryptate inter { -brand-short-name } e le sitos web que tu visita. Le major parte del sitos web supporta le HTTPS, e si es activate Modo HTTPS-solo, alora { -brand-short-name } promovera tote le connexiones a HTTPS.
-httpsonly-description2 = { -brand-short-name } crea connexiones secur e cryptate al sitos que tu visita. Quando le modalitate sol HTTPS ex active, { -brand-short-name } ti avisara si un connexion non es secur.
 httpsonly-learn-more = Saper plus
 httpsonly-radio-enabled =
     .label = Activar le Modo solo HTTPS in tote le fenestras
-httpsonly-radio-enabled2 =
-    .label = Usar solo HTTPS in tote le fenestras
 httpsonly-radio-enabled-pbm =
     .label = Activar le Modo solo HTTPS in le fenestras private solmente
 httpsonly-radio-disabled3 =
     .label = Non activar le modo Solo-HTTPS
     .description = { -brand-short-name } pote ancora promover alcun connexiones
-httpsonly-radio-enabled-pbm2 =
-    .label = Usar solo HTTPS in fenestras private
 httpsonly-radio-disabled =
     .label = Non activar le Modo solo HTTPS
-httpsonly-radio-disabled2 =
-    .label = Prova primo HTTPS, ma consenti connexiones non secur
 
 ## DoH Section
 

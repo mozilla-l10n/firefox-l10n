@@ -47,15 +47,6 @@ experimental-features-ime-search-description = Një IME (Input Method Editor - P
 experimental-features-auto-pip =
     .label = Picture-in-Picture: hape vetvetiu, kur kalohet në skedë tjetër
 experimental-features-auto-pip-description = Aktivizoni Picture-in-Picture në video aktive, kur kalohet në skeda të tjera.
-genai-settings-chat-title =
-    .label = Robot IA fjalosjesh
-# Updated sidebar settings
-sidebar-title =
-    .label = Anështyllë
-sidebar-description = Shihni kollaj historikun tuaj, skeda prej pajisjesh të tjera, zgjerime anështyllash, etj, teksa shfletoni. <a data-l10n-name="connect">Jepni përshtypje</a>
-vertical-tabs-title =
-    .label = Skeda vertikale
-vertical-tabs-description = Kalojini skedat tuaja nga kreu i shfletuesit në anë të tij. Kjo lyp që të provoni edhe anështyllën. <a data-l10n-name="connect">Jepni përshtypje</a>
 experimental-features-group-developer-tools =
     .label = Mjete Zhvilluesish
 experimental-features-group-webpage-display =

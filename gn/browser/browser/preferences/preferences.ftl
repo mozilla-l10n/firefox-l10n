@@ -1416,19 +1416,13 @@ httpsonly-description = HTTPS ome’ẽ jeikekatu ha ipapapýva { -brand-short-n
 httpsonly-learn-more = Eikuaave
 httpsonly-radio-enabled =
     .label = Emyandy HTTPS año ayvu opaite ovetãme
-httpsonly-radio-enabled2 =
-    .label = Eiporu HTTPS año opaite ovetãme
 httpsonly-radio-enabled-pbm =
     .label = Embojuruja HTTPS año ayvu opaite ovetãme
 httpsonly-radio-disabled3 =
     .label = Ani emyandy HTTPS ayvu ha’eño
     .description = { -brand-short-name } ombohekopyahukuaa gueteri heta juajurã
-httpsonly-radio-enabled-pbm2 =
-    .label = Eiporu HTTPS año umi ovetã ñemiguápe
 httpsonly-radio-disabled =
     .label = Ani embojuruja HTTPS año ayvu
-httpsonly-radio-disabled2 =
-    .label = Eiporu HTTPS, hákatu emoneĩkuaa umi jeike hekorosã’ỹva
 
 ## DoH Section
 

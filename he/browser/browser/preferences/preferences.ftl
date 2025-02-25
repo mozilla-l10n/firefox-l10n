@@ -1417,23 +1417,16 @@ httpsonly-header = מצב HTTPS בלבד
 httpsonly-description3 = מאפשר רק חיבורים מאובטחים לאתרי אינטרנט. { -brand-short-name } ישאל לפני התחברות באמצעות חיבור לא מאובטח.
 httpsonly-learn-more2 = כיצד עובד מצב HTTPS בלבד
 httpsonly-description = ‏HTTPS מספק חיבור מאובטח ומוצפן בין { -brand-short-name } לבין האתרים שמבקרים בהם. רוב האתרים תומכים ב־HTTPS, ואם מצב HTTPS בלבד מופעל, { -brand-short-name } ישדרג את כל החיבורים ל־HTTPS.
-httpsonly-description2 = ‏{ -brand-short-name } יוצר חיבורים מאובטחים ומוצפנים לאתרים שנכנסים אליהם. { -brand-short-name } יזהיר אותך אם החיבור אינו מאובטח כאשר מצב HTTPS בלבד מופעל.
 httpsonly-learn-more = מידע נוסף
 httpsonly-radio-enabled =
     .label = הפעלת מצב HTTPS בלבד בכל החלונות
-httpsonly-radio-enabled2 =
-    .label = להשתמש ב־HTTPS בלבד בכל החלונות
 httpsonly-radio-enabled-pbm =
     .label = הפעלת מצב HTTPS בלבד אך ורק בחלונות פרטיים
 httpsonly-radio-disabled3 =
     .label = לא להפעיל מצב HTTPS בלבד
     .description = ‏ייתכן ש־{ -brand-short-name } עדיין ישדרג חלק מהחיבורים
-httpsonly-radio-enabled-pbm2 =
-    .label = להשתמש ב־HTTPS בלבד בחלונות פרטיים
 httpsonly-radio-disabled =
     .label = לא להפעיל מצב HTTPS בלבד
-httpsonly-radio-disabled2 =
-    .label = לנסות תחילה את HTTPS, אבל לאפשר חיבורים שאינם מאובטחים
 
 ## DoH Section
 

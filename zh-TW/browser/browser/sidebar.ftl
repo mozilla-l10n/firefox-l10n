@@ -46,10 +46,6 @@ sidebar-customize-extensions-header = 側邊欄擴充套件
 sidebar-customize-firefox-tools-header =
     .label = { -brand-product-name } 工具
 sidebar-customize-firefox-settings = 管理 { -brand-short-name } 選項
-sidebar-position-left =
-    .label = 在左邊顯示
-sidebar-position-right =
-    .label = 在右邊顯示
 sidebar-vertical-tabs =
     .label = 垂直分頁標籤
 sidebar-settings =
@@ -64,18 +60,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = 在滑鼠移到上方時展開
-sidebar-horizontal-tabs =
-    .label = 水平分頁標籤
-sidebar-customize-tabs-header =
-    .label = 分頁選項
-sidebar-customize-button-header =
-    .label = 側邊欄按鈕
-sidebar-customize-position-header =
-    .label = 側邊欄位置
-sidebar-visibility-setting-always-show =
-    .label = 展開或摺疊側邊欄
-sidebar-visibility-setting-hide-sidebar =
-    .label = 顯示或隱藏側邊欄
 
 ## Labels for sidebar context menu items
 
@@ -138,8 +122,6 @@ sidebar-menu-open-bookmarks-tooltip = 開啟書籤（{ $shortcut }）
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = 關閉書籤（{ $shortcut }）
-sidebar-menu-open-ai-chatbot-tooltip = 開啟 AI 聊天機器人
-sidebar-menu-close-ai-chatbot-tooltip = 關閉 AI 聊天機器人
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

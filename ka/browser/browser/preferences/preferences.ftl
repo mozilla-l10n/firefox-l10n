@@ -1421,23 +1421,16 @@ httpsonly-header = მხოლოდ-HTTPS-რეჟიმი
 httpsonly-description3 = მხოლოდ დაცული კავშირის მქონე საიტებთან წვდომა. { -brand-short-name } ნებართვას მოითხოვს დაუცველი კავშირის დამყარებამდე.
 httpsonly-learn-more2 = როგორ მუშაობს მხოლოდ-HTTPS
 httpsonly-description = HTTPS საშუალებას იძლევა, რომ { -brand-short-name } უსაფრთხოდ და მონაცემთა დაშიფვრით დაუკავშირდეს საიტს, რომელსაც ეწვევით. უმეტეს ვებსაიტზე HTTPS მხარდაჭერილია და როცა მხოლოდ-HTTPS-რეჟიმი ჩართულია, { -brand-short-name } ყველა კავშირს ატარებს HTTPS-ით.
-httpsonly-description2 = { -brand-short-name } ქმნის დაცულ და დაშიფრულ კავშირებს მონახულებულ საიტებთან. { -brand-short-name } გაგაფრთხილებთ, თუ კავშირი დაუცველი იქნება, როცა ჩართულია მხოლოდ-HTTPS.
 httpsonly-learn-more = ვრცლად
 httpsonly-radio-enabled =
     .label = მხოლოდ-HTTPS-რეჟიმი ყველა ფანჯარაში
-httpsonly-radio-enabled2 =
-    .label = მხოლოდ HTTPS ყველა ფანჯარაში
 httpsonly-radio-enabled-pbm =
     .label = მხოლოდ-HTTPS-რეჟიმი პირად ფანჯრებში
 httpsonly-radio-disabled3 =
     .label = არ ამოქმედდეს მხოლოდ-HTTPS-რეჟიმი
     .description = { -brand-short-name } ზოგ კავშირს მაინც გადაიყვანს დაცულზე
-httpsonly-radio-enabled-pbm2 =
-    .label = მხოლოდ HTTPS პირად ფანჯრებში
 httpsonly-radio-disabled =
     .label = მხოლოდ-HTTPS-რეჟიმის გარეშე
-httpsonly-radio-disabled2 =
-    .label = ჯერ მოისინჯოს HTTPS, მაგრამ ნება მიეცეს კავშირებს, რომლებიც დაუცველია
 
 ## DoH Section
 

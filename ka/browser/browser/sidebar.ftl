@@ -44,10 +44,6 @@ sidebar-customize-extensions-header = გვერდითი ზოლის �
 sidebar-customize-firefox-tools-header =
     .label = { -brand-product-name } – ხელსაწყოები
 sidebar-customize-firefox-settings = გამართეთ { -brand-short-name }
-sidebar-position-left =
-    .label = მარცხნივ ჩვენება
-sidebar-position-right =
-    .label = მარჯვნივ ჩვენება
 sidebar-vertical-tabs =
     .label = შვეული ჩანართები
 sidebar-settings =
@@ -62,18 +58,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = გვერდითი ზოლის გაშლა მაჩვენებლის გადატარებისას
-sidebar-horizontal-tabs =
-    .label = თარაზული ჩანართები
-sidebar-customize-tabs-header =
-    .label = ჩანართის პარამეტრები
-sidebar-customize-button-header =
-    .label = გვერდითი ზოლის ღილაკი
-sidebar-customize-position-header =
-    .label = გვერდითი ზოლის მდებარეობა
-sidebar-visibility-setting-always-show =
-    .label = გვერდითი ზოლის გაშლა და ჩაკეცვა
-sidebar-visibility-setting-hide-sidebar =
-    .label = გვერდითი ზოლის გამოჩენა და დამალვა
 
 ## Labels for sidebar context menu items
 
@@ -134,8 +118,6 @@ sidebar-menu-open-bookmarks-tooltip = სანიშნების გახ�
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = სანიშნების დახურვა ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = AI-თანამოსაუბრის გახსნა
-sidebar-menu-close-ai-chatbot-tooltip = AI-თანამოსაუბრის დახურვა
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

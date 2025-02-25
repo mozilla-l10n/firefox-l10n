@@ -5,11 +5,6 @@
 
 ## Generative AI (GenAI) Settings section
 
-genai-settings-chat-description = Sānjoslai pievieno jūsu izvēlēto tērzēšanas robotu, lai varētu ātri piekļūt pārlūkošanas laikā. <a data-l10n-name="connect">Sniedziet atsauksmes</a>
-genai-settings-chat-choose = Izvēlieties tērzēšanas robotu
-genai-settings-chat-choose-one-menuitem =
-    .label = Izvēlieties vienu
-genai-settings-chat-links = Izvēloties tērzēšanas robotu, jūs piekrītat pakalpojumu sniedzēja lietošanas noteikumiem un privātuma politikai.
 genai-settings-chat-chatgpt-links = Izvēloties ChatGPT, jūs piekrītat OpenAI <a data-l10n-name="link1">lietošanas noteikumiem</a> un <a data-l10n-name="link2">privātuma politikai</a>.
 genai-settings-chat-claude-links = Izvēloties Anthropic Claude, jūs piekrītat Anthropic <a data-l10n-name="link1">patērētāju pakalpojumu sniegšanas noteikumiem</a>, <a data-l10n-name="link2">lietošanas politikai</a> un <a data-l10n-name="link3">privātuma politikai</a>.
 genai-settings-chat-copilot-links = Izvēloties Copilot, jūs piekrītat <a data-l10n-name="link1">Copilot AI pieredzes noteikumiem</a> un <a data-l10n-name="link2">Microsoft paziņojumam par privātumu</a>.
@@ -17,9 +12,6 @@ genai-settings-chat-gemini-links = Izvēloties Google Gemini, jūs piekrītat <a
 genai-settings-chat-huggingchat-links = Izvēloties HuggingChat, jūs piekrītat <a data-l10n-name="link1">HuggingChat privātuma paziņojumam</a> un <a data-l10n-name="link2">Hugging Face privātuma politikai</a>.
 genai-settings-chat-lechat-links = Izvēloties Le Chat Mistral, jūs piekrītat Mistral AI <a data-l10n-name="link1">pakalpojumu sniegšanas noteikumiem</a> un <a data-l10n-name="link2">privātuma politikai</a>.
 genai-settings-chat-localhost-links = Ienesiet savu privāto vietējo tērzēšanas robotu, piemēram, <a data-l10n-name="link1">llamafile</a> no { -vendor-short-name } inovāciju grupas.
-genai-settings-chat-shortcuts =
-    .description = Parāda saīsni uz uzvednēm, kad atlasāt tekstu. { -brand-short-name } nosūta tekstu, lapas nosaukumu un uzvedni tērzēšanas robotam.
-    .label = Rādīt uzvednes, kad atlasa tekstu
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.

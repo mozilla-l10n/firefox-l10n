@@ -50,15 +50,6 @@ experimental-features-ime-search-description = Az IME (bemenetimód-szerkesztő)
 experimental-features-auto-pip =
     .label = Kép a képben: automatikus megnyitás lapváltáskor
 experimental-features-auto-pip-description = A Kép a képben mód engedélyezése az aktív videókon lapváltáskor.
-genai-settings-chat-title =
-    .label = MI csevegőbot
-# Updated sidebar settings
-sidebar-title =
-    .label = Oldalsáv
-sidebar-description = Érje el böngészés közben könnyedén az előzményeket, a más eszközökről származó lapjait, az oldalsáv-kiegészítőket és egyebeket. <a data-l10n-name="connect">Visszajelzés megosztása</a>
-vertical-tabs-title =
-    .label = Függőleges lapok
-vertical-tabs-description = Helyezze át a lapjait a böngésző tetejéről oldalra. Ehhez ki kell próbálnia az oldalsávot is. <a data-l10n-name="connect">Visszajelzés megosztása</a>
 experimental-features-group-developer-tools =
     .label = Fejlesztői eszközök
 experimental-features-group-webpage-display =

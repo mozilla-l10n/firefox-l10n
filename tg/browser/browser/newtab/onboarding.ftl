@@ -446,9 +446,7 @@ onboarding-checklist-sign-up = Ба ҳисоби худ ворид шавед ё
 
 tab-groups-onboarding-feature-callout-title = Гурӯҳҳои варақаҳоро кӯшиш кунед — камтар бесарусомонӣ, тамаркузи бештар
 tab-groups-onboarding-feature-callout-subtitle = Барои ба тартиб даровардани чизҳо ва эҷод кардани аввалин гурӯҳи варақаҳои худ, як варақаро кашида, ба варақаи дигар гузоред.
-tab-groups-onboarding-create-group-title = Гурӯҳҳои кушодаи худро дар навори варақаҳо ёбед ё онҳоро тавассути навори нишонӣ ҷустуҷӯ кунед.
 tab-groups-onboarding-saved-groups-title = Агар шумо гурӯҳи варақаҳоеро пӯшед, шумо метавонед онҳоро дар ин ҷой дар вақти дилхоҳ аз нав кушоед.
-tab-groups-onboarding-saved-groups-no-alltabs-button-title = Гурӯҳҳои варақаҳои кушода ё пӯшидаи худро дар вақти дилхоҳ тавассути навори нишонӣ ҷустуҷӯ кунед.
 tab-groups-onboarding-dismiss = ХУБ
 
 ## Multi Profiles feature onboarding messages

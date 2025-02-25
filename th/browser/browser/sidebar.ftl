@@ -46,10 +46,6 @@ sidebar-customize-extensions-header = ส่วนขยายแถบข้า
 sidebar-customize-firefox-tools-header =
     .label = เครื่องมือ { -brand-product-name }
 sidebar-customize-firefox-settings = จัดการการตั้งค่า { -brand-short-name }
-sidebar-position-left =
-    .label = แสดงทางด้านซ้าย
-sidebar-position-right =
-    .label = แสดงทางด้านขวา
 sidebar-vertical-tabs =
     .label = แท็บแนวตั้ง
 sidebar-settings =
@@ -64,18 +60,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = ขยายแถบข้างเมื่อเลื่อนเมาส์ไปวางแช่
-sidebar-horizontal-tabs =
-    .label = แท็บแนวนอน
-sidebar-customize-tabs-header =
-    .label = การตั้งค่าแท็บ
-sidebar-customize-button-header =
-    .label = ปุ่มแถบข้าง
-sidebar-customize-position-header =
-    .label = ตำแหน่งแถบข้าง
-sidebar-visibility-setting-always-show =
-    .label = ขยายและยุบแถบข้าง
-sidebar-visibility-setting-hide-sidebar =
-    .label = แสดงและซ่อนแถบข้าง
 
 ## Labels for sidebar context menu items
 
@@ -138,8 +122,6 @@ sidebar-menu-open-bookmarks-tooltip = เปิดที่คั่นหน้
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = ปิดที่คั่นหน้า ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = เปิดแชทบอต AI
-sidebar-menu-close-ai-chatbot-tooltip = ปิดแชทบอต AI
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:

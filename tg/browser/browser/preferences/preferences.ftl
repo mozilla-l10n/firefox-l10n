@@ -1425,23 +1425,16 @@ httpsonly-header = Реҷаи «Танҳо HTTPS»
 httpsonly-description3 = Ин имкон танҳо ба пайвастҳои бехатар ба сомонаҳо иҷозат медиҳад. «{ -brand-short-name }» пеш аз сохтани пайвастшавии ҳифзнашуда иҷозат мепурсад.
 httpsonly-learn-more2 = Чӣ тавр реҷаи «Танҳо HTTPS» кор мекунад
 httpsonly-description = HTTPS байни «{ -brand-short-name }» ва сомонаҳое, ки шумо истифода мебаред, пайвастшавии бехатар ва рамзгузоришударо таъмин менамояд. Бисёр сомонаҳо «HTTPS»-ро дастгирӣ менамоянд, ва агар Реҷаи «Танҳо HTTPS» фаъол шуда бошад, он гоҳ браузери «{ -brand-short-name }» ҳамаи пайвастҳоро ба «HTTPS» такмил медиҳад.
-httpsonly-description2 = «{ -brand-short-name }» ба сомонаҳое, ки шумо ташриф меоред, пайвастҳои бехатар ва рамзгузоришударо эҷод мекунад. «{ -brand-short-name }» шуморо огоҳ мекунад, агар пайвастшавӣ ҳатто ҳангоми фаъол будани реҷаи «Танҳо HTTPS» бехатар набошад.
 httpsonly-learn-more = Маълумоти бештар
 httpsonly-radio-enabled =
     .label = Фаъол кардани реҷаи «Танҳо HTTPS» дар ҳамаи равзанаҳо
-httpsonly-radio-enabled2 =
-    .label = Танҳо HTTPS бояд дар ҳамаи равзанаҳо истифода карда шавад
 httpsonly-radio-enabled-pbm =
     .label = Фаъол кардани реҷаи «Танҳо HTTPS» танҳо дар равзанаҳои хусусӣ
 httpsonly-radio-disabled3 =
     .label = Реҷаи «Танҳо HTTPS» фаъол карда нашавад
     .description = «{ -brand-short-name }» то ҳол метавонад баъзе пайвастҳоро такмид диҳад
-httpsonly-radio-enabled-pbm2 =
-    .label = Танҳо HTTPS бояд дар равзанаҳои хусусӣ истифода карда шавад
 httpsonly-radio-disabled =
     .label = Реҷаи «Танҳо HTTPS» фаъол карда нашавад
-httpsonly-radio-disabled2 =
-    .label = Аввал аз HTTPS истифода баред, аммо ба пайвастҳое, ки бехатар намебошанд, иҷозат диҳед
 
 ## DoH Section
 

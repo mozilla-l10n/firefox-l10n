@@ -46,10 +46,6 @@ sidebar-customize-extensions-header = Rozšírenia pre bočný panel
 sidebar-customize-firefox-tools-header =
     .label = Nástroje { -brand-product-name(case: "gen") }
 sidebar-customize-firefox-settings = Spravovať nastavenia { -brand-short-name(case: "gen") }
-sidebar-position-left =
-    .label = Zobraziť vľavo
-sidebar-position-right =
-    .label = Zobraziť vpravo
 sidebar-vertical-tabs =
     .label = Vertikálne karty
 sidebar-settings =
@@ -64,18 +60,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Po umiestnení kurzora myši rozbaliť bočný panel
-sidebar-horizontal-tabs =
-    .label = Karty v hornej časti
-sidebar-customize-tabs-header =
-    .label = Nastavenia kariet
-sidebar-customize-button-header =
-    .label = Tlačidlo na bočnom paneli
-sidebar-customize-position-header =
-    .label = Umiestnenie bočného panela
-sidebar-visibility-setting-always-show =
-    .label = Rozbaliť a zbaliť bočný panel
-sidebar-visibility-setting-hide-sidebar =
-    .label = Zobraziť a skryť bočný panel
 
 ## Labels for sidebar context menu items
 
@@ -138,8 +122,6 @@ sidebar-menu-open-bookmarks-tooltip = Otvoriť záložky ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Zavrieť záložky ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = Otvoriť AI chatbota
-sidebar-menu-close-ai-chatbot-tooltip = Zavrieť AI chatbota
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:
