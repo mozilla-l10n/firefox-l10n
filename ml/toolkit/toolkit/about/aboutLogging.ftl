@@ -11,6 +11,7 @@ about-logging-stop-logging = ലോഗ് ചെയ്യുന്നത് അ�
 
 ## Logging presets
 
+about-logging-preset-networking-cookie-label = കുക്കികള്‍
 
 ## Variables:
 ##   $k (String) - Variable name
