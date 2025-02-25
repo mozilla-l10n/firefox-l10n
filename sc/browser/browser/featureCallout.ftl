@@ -59,6 +59,15 @@ split-dismiss-button-dont-show-option-label = No torres a ammustrare custu cuss�
 split-dismiss-button-show-fewer-option-label = Ammustra prus pagu cussìgios
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Gesti sa cunfiguratzione
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option =
+    .label = No torres a ammustrare custu cussìgiu
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option =
+    .label = Ammustra prus pagu cussìgios
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option =
+    .label = Gesti sa cunfiguratzione
 
 ## Sidebar Strings
 
