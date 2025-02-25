@@ -59,6 +59,15 @@ split-dismiss-button-dont-show-option-label = Mos e shfaq më këtë rekomandim
 split-dismiss-button-show-fewer-option-label = Shfaq më pak rekomandime
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Administroni rregullime
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option =
+    .label = Mos e shfaq më këtë rekomandim
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option =
+    .label = Shfaq më pak rekomandime
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option =
+    .label = Administroni rregullime
 
 ## Sidebar Strings
 

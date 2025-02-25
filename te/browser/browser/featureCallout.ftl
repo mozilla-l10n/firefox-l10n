@@ -37,6 +37,15 @@ split-dismiss-button-dont-show-option-label = ఈ సిఫార్సును
 split-dismiss-button-show-fewer-option-label = కొన్ని సిఫారసులనే చూపించు
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = అమరికల నిర్వహణ
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option =
+    .label = ఈ సిఫార్సును నాకు మళ్లీ చూపించకు
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option =
+    .label = కొన్ని సిఫారసులనే చూపించు
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option =
+    .label = అమరికల నిర్వహణ
 
 ## Sidebar Strings
 

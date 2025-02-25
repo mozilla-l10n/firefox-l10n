@@ -59,6 +59,15 @@ split-dismiss-button-dont-show-option-label = Anive ehechauka ko ñemoñe’ẽ
 split-dismiss-button-show-fewer-option-label = Ehechauka’ive ñemoñe’ẽ
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Eñangareko ñemoĩporãre
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option =
+    .label = Anive ehechauka ko ñemoñe’ẽ
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option =
+    .label = Ehechauka’ive ñemoñe’ẽ
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option =
+    .label = Eñangareko ñemoĩporãre
 
 ## Sidebar Strings
 

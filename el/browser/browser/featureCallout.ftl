@@ -59,6 +59,15 @@ split-dismiss-button-dont-show-option-label = Να μην εμφανιστεί �
 split-dismiss-button-show-fewer-option-label = Εμφάνιση λιγότερων προτάσεων
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Διαχείριση ρυθμίσεων
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option =
+    .label = Να μην εμφανιστεί ξανά αυτή η πρόταση
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option =
+    .label = Εμφάνιση λιγότερων προτάσεων
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option =
+    .label = Διαχείριση ρυθμίσεων
 
 ## Sidebar Strings
 

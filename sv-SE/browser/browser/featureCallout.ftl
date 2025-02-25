@@ -59,6 +59,15 @@ split-dismiss-button-dont-show-option-label = Visa inte den här rekommendatione
 split-dismiss-button-show-fewer-option-label = Visa färre rekommendationer
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Hantera inställningar
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option =
+    .label = Visa inte den här rekommendationen igen
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option =
+    .label = Visa färre rekommendationer
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option =
+    .label = Hantera inställningar
 
 ## Sidebar Strings
 

@@ -59,6 +59,15 @@ split-dismiss-button-dont-show-option-label = 이 추천을 다시 표시 안 �
 split-dismiss-button-show-fewer-option-label = 추천 적게 표시
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = 설정 관리
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option =
+    .label = 이 추천을 다시 표시 안 함
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option =
+    .label = 추천 적게 표시
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option =
+    .label = 설정 관리
 
 ## Sidebar Strings
 

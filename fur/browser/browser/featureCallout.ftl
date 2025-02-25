@@ -59,6 +59,15 @@ split-dismiss-button-dont-show-option-label = No stas mostrâ di gnûf cheste ra
 split-dismiss-button-show-fewer-option-label = Mostre mancul racomandazions
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Gjestìs impostazions
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option =
+    .label = No stas mostrâ di gnûf cheste racomandazion
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option =
+    .label = Mostre mancul racomandazions
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option =
+    .label = Gjestìs impostazions
 
 ## Sidebar Strings
 

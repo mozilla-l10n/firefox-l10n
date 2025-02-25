@@ -40,6 +40,15 @@ split-dismiss-button-dont-show-option-label = ഈ ശുപാൎശ ഇനി�
 split-dismiss-button-show-fewer-option-label = കുറച്ച് ശുപാർശകൾ കാണിക്കുക
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = ക്രമീകരണങ്ങളെ നിയന്ത്രിക്കുക
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option =
+    .label = ഈ ശുപാൎശ ഇനിയും കാണിക്കരുതു്
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option =
+    .label = കുറച്ച് ശുപാർശകൾ കാണിക്കുക
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option =
+    .label = ക്രമീകരണങ്ങളെ നിയന്ത്രിക്കുക
 
 ## Sidebar Strings
 

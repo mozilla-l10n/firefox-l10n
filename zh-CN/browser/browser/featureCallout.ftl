@@ -59,6 +59,15 @@ split-dismiss-button-dont-show-option-label = 不再显示此建议
 split-dismiss-button-show-fewer-option-label = 减少显示建议
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = 管理设置
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option =
+    .label = 不再显示此建议
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option =
+    .label = 减少显示建议
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option =
+    .label = 管理设置
 
 ## Sidebar Strings
 
