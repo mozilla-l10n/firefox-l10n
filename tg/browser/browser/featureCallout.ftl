@@ -59,6 +59,15 @@ split-dismiss-button-dont-show-option-label = Ин тавсия дигар ни�
 split-dismiss-button-show-fewer-option-label = Камтар нишон додани тавсияҳо
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Идоракунии танзимот
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option =
+    .label = Ин тавсия дигар нишон дода нашавад
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option =
+    .label = Камтар нишон додани тавсияҳо
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option =
+    .label = Идоракунии танзимот
 
 ## Sidebar Strings
 
