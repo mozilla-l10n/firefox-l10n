@@ -59,6 +59,15 @@ split-dismiss-button-dont-show-option-label = لا تظهر هذه التوصي�
 split-dismiss-button-show-fewer-option-label = أظهر توصيات أقل
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = أدِر الإعدادات
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option =
+    .label = لا تظهر هذه التوصية مرة أخرى
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option =
+    .label = أظهر توصيات أقل
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option =
+    .label = أدِر الإعدادات
 
 ## Sidebar Strings
 
