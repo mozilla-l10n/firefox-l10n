@@ -59,6 +59,15 @@ split-dismiss-button-dont-show-option-label = Toś to pórucenje wěcej njepokaz
 split-dismiss-button-show-fewer-option-label = Mjenjej pórucenjow pokazaś
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Nastajenja zastojaś
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option =
+    .label = Toś to pórucenje wěcej njepokazaś
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option =
+    .label = Mjenjej pórucenjow pokazaś
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option =
+    .label = Nastajenja zastojaś
 
 ## Sidebar Strings
 
