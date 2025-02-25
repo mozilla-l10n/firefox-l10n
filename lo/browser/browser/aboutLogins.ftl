@@ -180,6 +180,8 @@ about-logins-export-password-os-auth-dialog-message-win = ເພື່ອສົ�
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = ສົ່ງອອກການເຂົ້າສູ່ລະບົບແລະລະຫັດຜ່ານທີ່ບັນທຶກໄວ້
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = ເພື່ອສົ່ງອອກລະຫັດຜ່ານຂອງທ່ານ, ກະລຸນາໃສ່ຂໍ້ມູນການເຂົ້າສູ່ລະບົບ Windows ຂອງທ່ານ. ນີ້ຊ່ວຍປົກປ້ອງຄວາມປອດໄພຂອງບັນຊີຂອງທ່ານ.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message2-macosx = ສົ່ງອອກລະຫັດຜ່ານທີ່ບັນທຶກໄວ້
