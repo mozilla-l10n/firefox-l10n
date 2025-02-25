@@ -59,6 +59,15 @@ split-dismiss-button-dont-show-option-label = ไม่ต้องแสดง�
 split-dismiss-button-show-fewer-option-label = แสดงคำแนะนำน้อยลง
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = จัดการการตั้งค่า
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option =
+    .label = ไม่ต้องแสดงคำแนะนำนี้อีก
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option =
+    .label = แสดงคำแนะนำน้อยลง
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option =
+    .label = จัดการการตั้งค่า
 
 ## Sidebar Strings
 
