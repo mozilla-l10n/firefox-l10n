@@ -59,6 +59,15 @@ split-dismiss-button-dont-show-option-label = Ne jelenítse meg újra ezt a java
 split-dismiss-button-show-fewer-option-label = Kevesebb javaslat megjelenítése
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Beállítások kezelése
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option =
+    .label = Ne jelenítse meg újra ezt a javaslatot
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option =
+    .label = Kevesebb javaslat megjelenítése
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option =
+    .label = Beállítások kezelése
 
 ## Sidebar Strings
 
