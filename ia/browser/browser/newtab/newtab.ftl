@@ -407,7 +407,7 @@ newtab-wallpaper-celestial-earth-night = Photo nocturne ab orbita terrestre bass
 newtab-wallpaper-celestial-starry-sky = Celo stellate
 newtab-wallpaper-celestial-eclipse-time-lapse = Time-lapse de eclipse lunar
 newtab-wallpaper-celestial-black-hole = Illustration de galaxia con foramine nigre
-newtab-wallpaper-celestial-river = Imagine ab satellite de fluvio
+newtab-wallpaper-celestial-river = Imagine de satellite de un fluvio
 
 ## New Tab Weather
 
@@ -503,22 +503,22 @@ newtab-section-confirm-block-section-p1 = Desira tu vermente blocar iste section
 newtab-section-confirm-block-section-p2 = Le section blocate non plus apparera in tu fluxo.
 newtab-section-block-section-button = Blocar iste section
 newtab-section-cancel-button = Non ora
-newtab-section-confirm-block-topic-p1 = Desira tu vermente blocar iste argumento?
-newtab-section-confirm-block-topic-p2 = Le argumentos blocate non plus apparera in tu fluxo.
+newtab-section-confirm-block-topic-p1 = Desira tu vermente blocar iste topico?
+newtab-section-confirm-block-topic-p2 = Le topicos blocate non apparera plus in tu fluxo.
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Blocar { $topic }
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
-newtab-section-mangage-topics-title = Argumentos
+newtab-section-mangage-topics-title = Topicos
 newtab-section-manage-topics-button-v2 =
-    .label = Gerer argumentos
+    .label = Gerer topicos
 newtab-section-mangage-topics-followed-topics = Sequite
 newtab-section-mangage-topics-button =
-    .label = Themas sequite e blocate
-newtab-section-mangage-topics-followed-topics-subtitle = Themas sequite
-newtab-section-mangage-topics-followed-topics-empty-state = Tu non ha sequite alcun thema ancora.
+    .label = Topicos sequite e blocate
+newtab-section-mangage-topics-followed-topics-subtitle = Topicos sequite
+newtab-section-mangage-topics-followed-topics-empty-state = Tu non ha ancora sequite alcun topico.
 newtab-section-mangage-topics-blocked-topics = Blocate
-newtab-section-mangage-topics-blocked-topics-subtitle = Themas blocate
-newtab-section-mangage-topics-blocked-topics-empty-state = Tu non ha blocate alcun thema ancora.
+newtab-section-mangage-topics-blocked-topics-subtitle = Topicos blocate
+newtab-section-mangage-topics-blocked-topics-empty-state = Tu non ha ancora blocate alcun topico.

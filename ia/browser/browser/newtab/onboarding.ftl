@@ -464,7 +464,7 @@ multi-profile-callout-cta = Crear un profilo
 # If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
 desktop-to-mobile-headline = Discargar, synchronisar, e lancear!
 # The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
-desktop-to-mobile-subtitle = Scande le codice QR pro discargar { -brand-product-name } pro apparatos mobile. Un vice installate, selige “Synchronisar a mobile” pro acceder a tu contrasignos, marcapaginas, e plus, al volo.
+desktop-to-mobile-subtitle = Scanna le codice QR pro discargar { -brand-product-name } pro apparatos mobile. Un vice installate, selige “Synchronisar a mobile” pro acceder a tu contrasignos, marcapaginas, e plus, al volo.
 dismiss-button-label = Clauder
 sync-to-mobile-button-label = Synchronisar con apparato mobile
 desktop-to-mobile-qr-code-alt =
