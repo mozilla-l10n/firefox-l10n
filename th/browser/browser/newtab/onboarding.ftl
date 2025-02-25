@@ -468,3 +468,5 @@ desktop-to-mobile-headline = ดาวน์โหลด ซิงค์ แล�
 desktop-to-mobile-subtitle = สแกนคิวอาร์โค้ดเพื่อดาวน์โหลด { -brand-product-name } สำหรับมือถือ เมื่อติดตั้งแล้ว ให้เลือก “ซิงค์กับมือถือ” เพื่อเข้าถึงรหัสผ่าน ที่คั่นหน้า และอีกหลายอย่างได้ทุกที่
 dismiss-button-label = ปิด
 sync-to-mobile-button-label = ซิงค์กับมือถือ
+desktop-to-mobile-qr-code-alt =
+    .aria-label = คิวอาร์โค้ดสำหรับดาวน์โหลด { -brand-product-name } สำหรับมือถือ
