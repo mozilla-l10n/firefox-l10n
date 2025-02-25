@@ -54,6 +54,9 @@ fx-view-discoverability-secondary-button-label = Ignorar
 
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Gerir los paramètres
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option =
+    .label = Gerir los paramètres
 
 ## Sidebar Strings
 
