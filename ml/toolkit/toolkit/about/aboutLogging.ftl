@@ -8,12 +8,17 @@ about-logging-set-log-file = ലോഗ് ഫയൽ സജ്ജമാക്ക�
 about-logging-set-log-modules = ലോഗ് മൊഡ്യൂളുകൾ സജ്ജമാക്കുക
 about-logging-start-logging = ലോഗ് ചെയ്ത് തുടങ്ങുക
 about-logging-stop-logging = ലോഗ് ചെയ്യുന്നത് അവസാനിപ്പിക്കുക
+about-logging-info = വിവരം:
 about-logging-no-log-modules = ഒരെണ്ണവുമല്ല
 about-logging-no-log-file = ഒരെണ്ണവുമല്ല
 
 ## Logging presets
 
+about-logging-preset-networking-label = ശ്യംഖലണം
 about-logging-preset-networking-cookie-label = കുക്കികള്‍
+# This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
+about-logging-preset-windows-label = Windows
+about-logging-preset-custom-label = ഇഷ്ടാനുസൃതം
 
 ## Variables:
 ##   $k (String) - Variable name
