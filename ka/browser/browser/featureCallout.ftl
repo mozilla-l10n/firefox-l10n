@@ -59,6 +59,15 @@ split-dismiss-button-dont-show-option-label = მომავალში შე
 split-dismiss-button-show-fewer-option-label = ნაკლები ამგვარი შემოთავაზებები
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = პარამეტრების მართვა
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option =
+    .label = მომავალში შემოთავაზების გარეშე
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option =
+    .label = ნაკლები ამგვარი შემოთავაზებები
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option =
+    .label = პარამეტრების მართვა
 
 ## Sidebar Strings
 
