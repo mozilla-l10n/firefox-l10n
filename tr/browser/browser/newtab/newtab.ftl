@@ -361,6 +361,10 @@ newtab-wallpaper-abstract-purple = Mor şekiller
 newtab-wallpaper-abstract-orange = Turuncu şekiller
 newtab-wallpaper-gradient-orange = Turuncu ve pembe renk geçişi
 newtab-wallpaper-abstract-blue-purple = Mavi ve mor şekiller
+newtab-wallpaper-abstract-white-curves = Gölgeli kıvrımlı beyaz
+newtab-wallpaper-abstract-purple-green = Mor ve yeşil ışık geçişi
+newtab-wallpaper-abstract-blue-purple-waves = Mavi ve mor dalgalı şekiller
+newtab-wallpaper-abstract-black-waves = Siyah dalgalı şekiller
 
 ## Celestial
 
@@ -371,6 +375,11 @@ newtab-wallpaper-storm-sky = Fırtınalı gökyüzü
 newtab-wallpaper-sky-with-pink-clouds = Pembe bulutlarla kaplı gökyüzü
 newtab-wallpaper-red-panda-yawns-in-a-tree = Ağaçta esneyen kızıl panda
 newtab-wallpaper-white-mountains = Beyaz dağlar
+newtab-wallpaper-hot-air-balloons = Gündüz vakti çeşitli renklerde sıcak hava balonları
+newtab-wallpaper-starry-canyon = Mavi yıldızlı gece
+newtab-wallpaper-suspension-bridge = Gündüz vakti gri asma köprü fotoğrafı
+newtab-wallpaper-sand-dunes = Beyaz kumullar
+newtab-wallpaper-forest-trees = Sisle kaplı ağaçlar
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -388,6 +397,10 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+newtab-wallpaper-celestial-lunar-eclipse = Ay tutulması
+newtab-wallpaper-celestial-earth-night = Alçak Dünya yörüngesinden gece fotoğrafı
+newtab-wallpaper-celestial-starry-sky = Yıldızlı gökyüzü
+newtab-wallpaper-celestial-river = Nehrin uydu görüntüsü
 
 ## New Tab Weather
 
@@ -484,6 +497,10 @@ newtab-section-confirm-block-section-p2 = Engellediğin bölüm artık akışın
 newtab-section-block-section-button = Bu bölümü engelle
 newtab-section-cancel-button = Şimdi değil
 newtab-section-confirm-block-topic-p1 = Bu konuyu engellemek istediğinizden emin misiniz?
+newtab-section-confirm-block-topic-p2 = Engellenen konular artık akışınızda görünmeyecektir.
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = { $topic } konusunu engelle
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 

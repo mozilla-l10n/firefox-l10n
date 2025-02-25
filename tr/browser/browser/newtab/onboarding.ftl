@@ -466,3 +466,5 @@ desktop-to-mobile-headline = İndirin, eşitleyin ve gezinmeye başlayın!
 desktop-to-mobile-subtitle = { -brand-product-name } uygulamasını mobil cihazınıza indirmek için QR kodunu okutun. İndirdikten sonra parolalarınıza, yer imlerinize ve diğer bilgilerinize erişmek için “Mobil cihazla eşitle” seçeneğini seçin.
 dismiss-button-label = Kapat
 sync-to-mobile-button-label = Mobil cihazla eşitleyin
+desktop-to-mobile-qr-code-alt =
+    .aria-label = Mobil cihazlar için { -brand-product-name }’u indirebileceğiniz QR kodu
