@@ -5,11 +5,6 @@
 
 ## Generative AI (GenAI) Settings section
 
-genai-settings-chat-description = Aggiunge il tuo chatbot preferito alla barra laterale per un rapido accesso mentre navighi. <a data-l10n-name="connect">Condividi il tuo feedback</a>
-genai-settings-chat-choose = Scegli un chatbot
-genai-settings-chat-choose-one-menuitem =
-    .label = Scegline uno
-genai-settings-chat-links = Scegliendo un chatbot accetti le condizioni di utilizzo del servizio e l’informativa sulla privacy del fornitore.
 genai-settings-chat-chatgpt-links = Scegliendo ChatGPT accetti le <a data-l10n-name="link1">condizioni di utilizzo del servizio</a> e l’<a data-l10n-name="link2">informativa sulla privacy</a> di OpenAI.
 genai-settings-chat-claude-links = Scegliendo Anthropic Claude accetti le <a data-l10n-name="link1">condizioni di utilizzo per l’utente finale</a>, le <a data-l10n-name="link2">politiche di utilizzo</a> e l’<a data-l10n-name="link3">informativa sulla privacy</a> di Anthropic.
 genai-settings-chat-copilot-links = Scegliendo Copilot accetti i <a data-l10n-name="link1">termini di Copilot AI Experiences</a> e l’<a data-l10n-name="link2">informativa sulla privacy di Microsoft</a>.
@@ -17,9 +12,6 @@ genai-settings-chat-gemini-links = Scegliendo Google Gemini accetti i <a data-l1
 genai-settings-chat-huggingchat-links = Scegliendo HuggingChat accetti l’<a data-l10n-name="link1">informativa sulla privacy di HuggingChat</a> e l’<a data-l10n-name="link2">informativa sulla privacy di Hugging Face</a>.
 genai-settings-chat-lechat-links = Scegliendo Le Chat Mistral accetti le <a data-l10n-name="link1">condizioni di utilizzo del servizio</a> e l’<a data-l10n-name="link2">informativa sulla privacy</a> di Mistral AI.
 genai-settings-chat-localhost-links = Utilizza un chatbot locale e riservato come <a data-l10n-name="link1">llamafile</a>, realizzato dal gruppo { -vendor-short-name } Innovation.
-genai-settings-chat-shortcuts =
-    .description = Mostra una scorciatoia ai prompt quando si seleziona del testo. { -brand-short-name } invia il testo, il titolo della pagina e il prompt al chatbot.
-    .label = Mostra prompt quando si seleziona del testo
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.

@@ -50,15 +50,6 @@ experimental-features-ime-search-description = Un IME (Input Method Editor) è u
 experimental-features-auto-pip =
     .label = Picture-in-Picture: apri automaticamente al cambio scheda
 experimental-features-auto-pip-description = Attiva Picture-in-Picture per i video in esecuzione quando si cambia scheda.
-genai-settings-chat-title =
-    .label = Chatbot IA
-# Updated sidebar settings
-sidebar-title =
-    .label = Barra laterale
-sidebar-description = Accedi facilmente a cronologia, schede da altri dispositivi, estensioni per la barra laterale e altro ancora mentre navighi. <a data-l10n-name="connect">Condividi il tuo feedback</a>
-vertical-tabs-title =
-    .label = Schede verticali
-vertical-tabs-description = Sposta le tue schede dalla parte superiore del browser a quella laterale. Per utilizzare questa funzione è necessario attivare anche la barra laterale. <a data-l10n-name="connect">Condividi il tuo feedback</a>
 experimental-features-group-developer-tools =
     .label = Strumenti di sviluppo
 experimental-features-group-webpage-display =

@@ -265,7 +265,6 @@ newtab-pocket-thumbs-down-tooltip =
 # Used to show the user a message upon clicking the thumbs up or down buttons
 newtab-toast-thumbs-up-or-down2 =
     .message = Grazie. Conoscere la tua opinione ci aiuta a migliorare il tuo feed.
-newtab-toast-thumbs-up-or-down = Grazie. Conoscere la tua opinione ci aiuta a migliorare il tuo feed.
 newtab-toast-dismiss-button =
     .title = Chiudi
     .aria-label = Chiudi
@@ -528,4 +527,3 @@ newtab-section-mangage-topics-followed-topics-empty-state = Non hai ancora segui
 newtab-section-mangage-topics-blocked-topics = Bloccato
 newtab-section-mangage-topics-blocked-topics-subtitle = Argomenti bloccati
 newtab-section-mangage-topics-blocked-topics-empty-state = Non hai ancora bloccato alcun argomento.
-

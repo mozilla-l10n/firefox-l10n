@@ -46,10 +46,6 @@ sidebar-customize-extensions-header = Estensioni barra laterale
 sidebar-customize-firefox-tools-header =
     .label = Strumenti di { -brand-product-name }
 sidebar-customize-firefox-settings = Gestisci le impostazioni di { -brand-short-name }
-sidebar-position-left =
-    .label = Mostra a sinistra
-sidebar-position-right =
-    .label = Mostra a destra
 sidebar-vertical-tabs =
     .label = Schede verticali
 sidebar-settings =
@@ -64,18 +60,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Espandi la barra laterale al passaggio del mouse
-sidebar-horizontal-tabs =
-    .label = Schede orizzontali
-sidebar-customize-tabs-header =
-    .label = Impostazioni schede
-sidebar-customize-button-header =
-    .label = Pulsante barra laterale
-sidebar-customize-position-header =
-    .label = Posizione barra laterale
-sidebar-visibility-setting-always-show =
-    .label = Espandi e comprimi barra laterale
-sidebar-visibility-setting-hide-sidebar =
-    .label = Mostra e nascondi barra laterale
 
 ## Labels for sidebar context menu items
 
@@ -144,8 +128,6 @@ sidebar-menu-open-bookmarks-tooltip = Apri segnalibri ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Chiudi segnalibri ({ $shortcut })
-sidebar-menu-open-ai-chatbot-tooltip = Apri chatbot IA
-sidebar-menu-close-ai-chatbot-tooltip = Chiudi chatbot IA
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:
