@@ -77,6 +77,12 @@ sidebar-context-menu-bookmark-tab =
     .label = Bokmärk flik…
 sidebar-context-menu-copy-link =
     .label = Kopiera länk
+sidebar-context-menu-hide-sidebar =
+    .label = Dölj sidofält
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Aktivera vertikala flikar
+sidebar-context-menu-customize-sidebar =
+    .label = Anpassa sidofält
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =

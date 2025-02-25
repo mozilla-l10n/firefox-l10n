@@ -58,6 +58,10 @@ contentanalysis-error-message-upload-file = Uppladdning av "{ $filename }" nekad
 contentanalysis-error-message-dropped-text = Dra och släpp nekad.
 contentanalysis-error-message-clipboard = Klistra in nekad.
 contentanalysis-error-message-print = Utskrift nekad.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
+contentanalysis-timeout-block-error-message-content = Anslutningen till { $agent } avbröts. { $contentName } har blockerats.
 contentanalysis-block-dialog-title-upload-file = Du har inte behörighet att ladda upp den här filen
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
