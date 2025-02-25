@@ -317,7 +317,7 @@ newtab-wallpaper-custom-color = Eliger un color
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Le dimension del imagine excede le limite de { $file_size }MB. Tenta incargar un file minus grande.
-newtab-wallpaper-error-file-type = Impossibile cargar tu file. Retenta con typo de file differente.
+newtab-wallpaper-error-file-type = Impossibile incargar tu file. Retenta con un altere typo de file.
 newtab-wallpaper-light-red-panda = Panda rubie
 newtab-wallpaper-light-mountain = Montania blanc
 newtab-wallpaper-light-sky = Celo con nubes purpuree e rosate
@@ -377,7 +377,7 @@ newtab-wallpaper-red-panda-yawns-in-a-tree = Un panda rubie que balla sur un arb
 newtab-wallpaper-white-mountains = Montanias blanc
 newtab-wallpaper-hot-air-balloons = Aerostatos de colores assortite durante le die
 newtab-wallpaper-starry-canyon = Nocte stellate blau
-newtab-wallpaper-suspension-bridge = Photographia de un ponte suspendite durante le die
+newtab-wallpaper-suspension-bridge = Photographia de un ponte suspendite gris durante le die
 newtab-wallpaper-sand-dunes = Dunas de arena blanc
 newtab-wallpaper-palm-trees = Silhouette de palmas de coco durante le hora aurate
 newtab-wallpaper-forest-trees = Arbores coperte de bruma
