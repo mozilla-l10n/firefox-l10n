@@ -59,6 +59,15 @@ split-dismiss-button-dont-show-option-label = ਇਹ ਸਿਫ਼ਾਰਸ਼ ਮੁ�
 split-dismiss-button-show-fewer-option-label = ਸਿਫ਼ਾਰਸ਼ਾਂ ਥੋੜ੍ਹੀਆਂ ਘੱਟ ਦਿਖਾਓ
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option =
+    .label = ਇਹ ਸਿਫ਼ਾਰਸ਼ ਮੁੜ ਕੇ ਨਾ ਦਿਖਾਓ
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option =
+    .label = ਸਿਫ਼ਾਰਸ਼ਾਂ ਥੋੜ੍ਹੀਆਂ ਘੱਟ ਦਿਖਾਓ
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option =
+    .label = ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 
 ## Sidebar Strings
 
