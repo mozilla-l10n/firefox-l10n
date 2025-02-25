@@ -59,6 +59,15 @@ split-dismiss-button-dont-show-option-label = Non monstrar de novo iste recommen
 split-dismiss-button-show-fewer-option-label = Monstrar minus recommendationes
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Gerer parametros
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option =
+    .label = Non monstrar de novo iste recommendation
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option =
+    .label = Monstrar minus recommendationes
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option =
+    .label = Gerer parametros
 
 ## Sidebar Strings
 
