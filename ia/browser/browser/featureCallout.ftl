@@ -64,7 +64,7 @@ split-dismiss-button-manage-settings-option-label = Gerer parametros
 
 sidebar-button-callout-title = Monstrar titulos de scheda in le barra lateral
 sidebar-button-callout-subtitle = Usa le button del barra lateral pro expander le barra lateral, assi que tu pote vider le titulos de scheda.
-sidebar-button-callout-vertical-tabs = Pro monstrar tu schedas, selige le button del barra lateral in le barra del instrumentos.
+sidebar-button-callout-vertical-tabs = Pro monstrar tu schedas, selige le button del barra lateral in le barra de instrumentos.
 
 ## Sidebar Callout Survey Strings
 
@@ -91,14 +91,14 @@ sidebar-callout-survey-submit = Inviar
 sidebar-callout-survey-thank-you = Gratias pro tu commentario!
 sidebar-genai-survey-satisfaction-question = Quanto es tu satisfacite de haber accesso a un robot confabulator IA in le barra lateral?
 sidebar-genai-survey-productive-question = In que mesura concorda tu o dissenti de iste declaration:<br/> “Le robot confabulator IA in le barra lateral me adjuta a esser plus productive”?
-unified-search-callout-title = Muta motores de recerca
+unified-search-callout-title = Cambiar de motor de recerca
 unified-search-callout-subtitle = Selige lo que functiona melio pro tu recerca specific.
 unified-search-callout-primary-label = Sequente
-unified-search-callout-secondary-label = Dimitter
-unified-search-engines-callout-title = Cerca con un via-breve
-unified-search-engines-callout-subtitle = Typa “@” sequite per un parola clave pro cercar tu chronologia, marcapaginas, schedas, o con un altere motor de recerca.
+unified-search-callout-secondary-label = Clauder
+unified-search-engines-callout-title = Cercar con un accesso directe
+unified-search-engines-callout-subtitle = Scribe “@” sequite per un parola clave pro cercar in tu chronologia, marcapaginas o schedas, o pro usar un altere motor de recerca.
 unified-search-engines-callout-primary-label = Comprendite
-actions-callout-title = Completar cargas commun o acceder parametros basic
+actions-callout-title = Realisar cargas commun o acceder al parametros de base
 # The user can type "print" and "clear" and a button will appear in the
 # search bar (e.g. Print page) the user can click to initiate the action.
 # These example text inputs correlate to the the following strings
@@ -106,4 +106,4 @@ actions-callout-title = Completar cargas commun o acceder parametros basic
 # "print" - quickactions-cmd-print
 # "clear" - quickactions-cmd-clearhistory
 # When localizing, ensure the translations match to ensure the action button appears as expected.
-actions-callout-subtitle = Tenta typar un action como “imprimer” pro imprimer un pagina, o “vacuar” pro vacuar tu chronologia.
+actions-callout-subtitle = Tenta scriber un action como “imprimer” pro imprimer un pagina, o “vacuar” pro vacuar tu chronologia.

@@ -312,11 +312,11 @@ newtab-custom-settings = Gerer altere parametros
 
 newtab-wallpaper-title = Fundos
 newtab-wallpaper-reset = Restaurar le predefinition
-newtab-wallpaper-upload-image = Cargar un imagine
+newtab-wallpaper-upload-image = Incargar un imagine
 newtab-wallpaper-custom-color = Eliger un color
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
-newtab-wallpaper-error-max-file-size = Le imagine excedeva le limite de dimension de file de { $file_size }MB. Tenta cargar un file minus grande.
+newtab-wallpaper-error-max-file-size = Le dimension del imagine excede le limite de { $file_size }MB. Tenta incargar un file minus grande.
 newtab-wallpaper-error-file-type = Impossibile cargar tu file. Retenta con typo de file differente.
 newtab-wallpaper-light-red-panda = Panda rubie
 newtab-wallpaper-light-mountain = Montania blanc
