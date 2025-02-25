@@ -59,6 +59,9 @@ split-dismiss-button-dont-show-option-label = Jangan tampilkan rekomendasi ini l
 split-dismiss-button-show-fewer-option-label = Tampilkan lebih sedikit rekomendasi
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Kelola pengaturan
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option =
+    .label = Kelola pengaturan
 
 ## Sidebar Strings
 
