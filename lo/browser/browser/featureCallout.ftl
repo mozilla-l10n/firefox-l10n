@@ -59,6 +59,15 @@ split-dismiss-button-dont-show-option-label = ຢ່າສະແດງຄຳແ�
 split-dismiss-button-show-fewer-option-label = ສະແດງຄຳແນະນຳໜ້ອຍລົງ
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = ຈັດການການຕັ້ງຄ່າ
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option =
+    .label = ຢ່າສະແດງຄຳແນະນຳນີ້ອີກ
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option =
+    .label = ສະແດງຄຳແນະນຳໜ້ອຍລົງ
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option =
+    .label = ຈັດການການຕັ້ງຄ່າ
 
 ## Sidebar Strings
 
