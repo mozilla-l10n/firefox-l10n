@@ -59,6 +59,15 @@ split-dismiss-button-dont-show-option-label = Dizze oanrekommandaasje net mear t
 split-dismiss-button-show-fewer-option-label = Mear oanrekommandaasjes toane
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Ynstellingen beheare
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option =
+    .label = Dizze oanrekommandaasje net mear toane
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option =
+    .label = Mear oanrekommandaasjes toane
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option =
+    .label = Ynstellingen beheare
 
 ## Sidebar Strings
 
