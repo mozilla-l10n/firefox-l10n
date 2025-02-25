@@ -59,6 +59,15 @@ split-dismiss-button-dont-show-option-label = Betg pli mussar questa recumandazi
 split-dismiss-button-show-fewer-option-label = Mussar pli paucas recumandaziuns
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Administrar ils parameters
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option =
+    .label = Betg pli mussar questa recumandaziun
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option =
+    .label = Mussar pli paucas recumandaziuns
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option =
+    .label = Administrar ils parameters
 
 ## Sidebar Strings
 
