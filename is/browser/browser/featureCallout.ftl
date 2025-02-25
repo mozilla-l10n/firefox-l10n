@@ -59,6 +59,15 @@ split-dismiss-button-dont-show-option-label = Ekki birta þessi meðmæli aftur
 split-dismiss-button-show-fewer-option-label = Birta færri meðmæli
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Sýsla með stillingar
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option =
+    .label = Ekki birta þessi meðmæli aftur
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option =
+    .label = Birta færri meðmæli
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option =
+    .label = Sýsla með stillingar
 
 ## Sidebar Strings
 
