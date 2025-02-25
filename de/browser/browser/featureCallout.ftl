@@ -59,6 +59,15 @@ split-dismiss-button-dont-show-option-label = Diese Empfehlung nicht mehr anzeig
 split-dismiss-button-show-fewer-option-label = Weniger Empfehlungen anzeigen
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Einstellungen verwalten
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option =
+    .label = Diese Empfehlung nicht mehr anzeigen
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option =
+    .label = Weniger Empfehlungen anzeigen
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option =
+    .label = Einstellungen verwalten
 
 ## Sidebar Strings
 
