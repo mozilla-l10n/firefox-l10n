@@ -59,6 +59,15 @@ split-dismiss-button-dont-show-option-label = این توصیه را دیگر ن
 split-dismiss-button-show-fewer-option-label = توصیه‌های کمتری نشان بده
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = مدیریت تنظیمات
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option =
+    .label = این توصیه را دیگر نشان نده
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option =
+    .label = توصیه‌های کمتری نشان بده
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option =
+    .label = مدیریت تنظیمات
 
 ## Sidebar Strings
 
