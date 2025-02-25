@@ -58,6 +58,15 @@ split-dismiss-button-dont-show-option-label = Ur d-skanay ara awelleh-a tikkelt 
 split-dismiss-button-show-fewer-option-label = Sken cwiṭ n yiwellihen
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option-label = Sefrek iɣewwaren
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option =
+    .label = Ur d-skanay ara awelleh-a tikkelt tayeḍ
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option =
+    .label = Sken cwiṭ n yiwellihen
+# Opens about:preferences#general-cfrfeatures
+split-dismiss-button-manage-settings-option =
+    .label = Sefrek iɣewwaren
 
 ## Sidebar Strings
 
