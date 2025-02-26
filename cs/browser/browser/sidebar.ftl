@@ -85,6 +85,8 @@ sidebar-context-menu-bookmark-tab =
     .label = Přidat panel do záložek…
 sidebar-context-menu-copy-link =
     .label = Kopírovat odkaz
+sidebar-context-menu-hide-sidebar =
+    .label = Skrýt postranní lištu
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
