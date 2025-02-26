@@ -650,7 +650,11 @@ multi-profile-callout-cta = Vytvořit profil
 # If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
 desktop-to-mobile-headline = Stáhněte, synchronizujte a vyrazte na cesty!
 # The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
-desktop-to-mobile-subtitle = Naskenujte QR kód a stáhněte si { -brand-product-name } pro mobilní zařízení. Po instalaci vyberte možnost "Synchronizovat s mobilním telefonem" a získejte přístup ke svým heslům, záložkám a dalším údajům na cestách.
+desktop-to-mobile-subtitle =
+    { -brand-product-name.case-status ->
+        [with-cases] Naskenujte QR kód a stáhněte si { -brand-product-name(case: "acc") } pro mobilní zařízení. Po instalaci vyberte možnost "Synchronizovat s mobilním telefonem" a získejte přístup ke svým heslům, záložkám a dalším údajům na cestách.
+       *[no-cases] Naskenujte QR kód a stáhněte si aplikaci { -brand-product-name } pro mobilní zařízení. Po instalaci vyberte možnost "Synchronizovat s mobilním telefonem" a získejte přístup ke svým heslům, záložkám a dalším údajům na cestách.
+    }
 dismiss-button-label = Zavřít
 sync-to-mobile-button-label = Synchronizace s mobilem
 desktop-to-mobile-qr-code-alt =

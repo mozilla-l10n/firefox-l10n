@@ -34,7 +34,17 @@ crashreporter-view-report-title = Obsah hlášení
 crashreporter-comment-prompt = Přidat komentář (komentáře jsou veřejně dostupné)
 crashreporter-report-info = Toto hlášení obsahuje také informace o stavu aplikace před pádem.
 crashreporter-checkbox-test-hardware = Zkontrolujte, zda v mém zařízení nejsou problémy s hardwarem a konfigurací.
-crashreporter-checkbox-send-report = Upozornit organizaci { -vendor-short-name } na tento pád, aby ho mohla opravit.
+crashreporter-checkbox-send-report =
+    { -vendor-short-name.case-status ->
+        [with-cases]
+            { -vendor-short-name.gender ->
+                [masculine] Upozornit { -vendor-short-name(case: "acc") } na tento pád, aby ho mohl opravit.
+                [feminine] Upozornit { -vendor-short-name(case: "acc") } na tento pád, aby ho mohla opravit.
+                [neuter] Upozornit { -vendor-short-name(case: "acc") } na tento pád, aby ho mohlo opravit.
+               *[other] Upozornit organizaci { -vendor-short-name } na tento pád, aby ho mohla opravit.
+            }
+       *[no-cases] Upozornit organizaci { -vendor-short-name } na tento pád, aby ho mohla opravit.
+    }
 crashreporter-checkbox-include-url = Zahrnout i adresu stránky, kde došlo k pádu.
 crashreporter-send-report =
     { -vendor-short-name.gender ->
