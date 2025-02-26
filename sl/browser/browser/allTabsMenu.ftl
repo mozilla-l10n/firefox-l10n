@@ -18,7 +18,13 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = Zapri vse podvojene zavihke
 all-tabs-menu-synced-tabs =
     .label = Zavihki z drugih naprav
+# "Recent" refers to tab groups being sorted in recently used order. We show up
+# to five of these in this section.
+all-tabs-menu-recent-tab-groups-header = Nedavne skupine zavihkov
 all-tabs-menu-current-window-header = Trenutno okno
 # This opens the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-show-all =
     .label = Prikaži vse
+# This is header for the sub view listing _all_ open and saved tab groups.
+all-tabs-menu-tab-groups-sub-view =
+    .title = Skupine zavihkov

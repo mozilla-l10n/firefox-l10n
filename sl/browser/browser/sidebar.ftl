@@ -77,6 +77,12 @@ sidebar-context-menu-bookmark-tab =
     .label = Dodaj zavihek med zaznamke …
 sidebar-context-menu-copy-link =
     .label = Kopiraj povezavo
+sidebar-context-menu-hide-sidebar =
+    .label = Skrij stransko vrstico
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Vklopi navpične zavihke
+sidebar-context-menu-customize-sidebar =
+    .label = Prilagodi stransko vrstico
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
