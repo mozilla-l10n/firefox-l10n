@@ -45,6 +45,7 @@ about-logging-preset-media-playback-description = โมดูลบันทึ
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = โมดูลบันทึกสำหรับวินิจฉัยการเรียก WebRTC
 about-logging-preset-webcodecs-label = WebCodecs
+about-logging-preset-webcodecs-description = บันทึกโมดูลเพื่อวินิจฉัยปัญหาด้วยตัวถอดรหัสและตัวเข้ารหัสเสียง/วิดีโอ และตัวถอดรหัสภาพของ WebCodecs
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = โมดูลบันทึกสำหรับวินิจฉัยปัญหา WebGPU
 about-logging-preset-gfx-label = กราฟิก
