@@ -18,7 +18,13 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = Zatvori sve duple kartice
 all-tabs-menu-synced-tabs =
     .label = Kartice s drugih uređaja
+# "Recent" refers to tab groups being sorted in recently used order. We show up
+# to five of these in this section.
+all-tabs-menu-recent-tab-groups-header = Nedavne grupe kartica
 all-tabs-menu-current-window-header = Trenutačni prozor
 # This opens the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-show-all =
     .label = Prikaži sve
+# This is header for the sub view listing _all_ open and saved tab groups.
+all-tabs-menu-tab-groups-sub-view =
+    .title = Grupe kartica
