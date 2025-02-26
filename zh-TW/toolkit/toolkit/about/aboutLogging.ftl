@@ -44,6 +44,7 @@ about-logging-preset-media-playback-label = 媒體播放
 about-logging-preset-media-playback-description = 用來診斷媒體播放問題（非網路會議問題）的記錄模組
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = 用來診斷 WebRTC 問題的記錄模組
+about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = 用來診斷 WebGPU 問題的記錄模組
 about-logging-preset-gfx-label = 圖形

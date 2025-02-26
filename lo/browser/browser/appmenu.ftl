@@ -254,8 +254,12 @@ appmenu-developer-tools-extensions =
 ## Panel for privacy and security products
 
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = ໃສ່ໂຕປິດບັງອີເມວ ແລະ ໂທລະສັບຂອງທ່ານ
+appmenuitem-services-relay-description = ເປີດ dashboard ເຊື່ອງອີເມວ
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = ປົກປ້ອງການເຄື່ອນໄຫວອອນໄລນ໌ຂອງທ່ານ
+appmenu-services-header = ການບໍລິການຂອງຂ້ອຍ
+appmenu-other-protection-header = ລອງໃຊ້ເຄື່ອງມືປ້ອງກັນອື່ນໆຈາກ { -vendor-short-name }:
 
 ## Profiles panel
 

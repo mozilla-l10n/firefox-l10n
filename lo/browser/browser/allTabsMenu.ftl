@@ -18,7 +18,13 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = ປິດແຖບທີ່ຊໍ້າກັນທັງໝົດ
 all-tabs-menu-synced-tabs =
     .label = ແຖບຈາກອຸປະກອນອື່ນໆ
+# "Recent" refers to tab groups being sorted in recently used order. We show up
+# to five of these in this section.
+all-tabs-menu-recent-tab-groups-header = ກຸ່ມແຖບທີ່ຜ່ານມາ
 all-tabs-menu-current-window-header = ໜ້າຕ່າງປະຈຸບັນ
 # This opens the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-show-all =
     .label = ສະແດງທັງໝົດ
+# This is header for the sub view listing _all_ open and saved tab groups.
+all-tabs-menu-tab-groups-sub-view =
+    .title = ກຸ່ມແຖບ

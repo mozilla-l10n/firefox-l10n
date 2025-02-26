@@ -319,6 +319,7 @@ identity-weak-encryption = ໜ້ານີ້ໃຊ້ການເຂົ້າ�
 identity-insecure-login-forms = ການປ້ອນຂໍ້ມູນການລັອກອິນທີ່ໃສ່ໄວ້ເທິງຫນ້ານີ້ອາດຈະຖືກບຸກລຸກໄດ້.
 identity-https-only-connection-upgraded = (ອັບເກຣດເປັນ HTTPS)
 identity-https-only-label = ໂໝດ HTTPS ເທົ່ານັ້ນ
+identity-https-only-label2 = ອັບເກຣດເວັບໄຊນີ້ໂດຍອັດຕະໂນມັດເປັນການເຊື່ອມຕໍ່ທີ່ປອດໄພ
 identity-https-only-dropdown-on =
     .label = ເປີດ
 identity-https-only-dropdown-off =
@@ -521,6 +522,12 @@ urlbar-result-action-copy-to-clipboard = ສໍາເນົາ
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
+# Shows the result of a formula expression being calculated, in scientific notation.
+# The last = sign will be shown as part of the result (e.g. "= 1.0e17").
+# Variables
+#  $result (String): the string representation for a result in scientific notation
+#  (e.g. "1.0e17").
+urlbar-result-action-calculator-result-scientific-notation = = { $result }
 
 ## Strings used for buttons in the urlbar
 
@@ -532,6 +539,8 @@ urlbar-result-search-with = ຄົ້ນຫາດ້ວຍ { $engine }
 #  $localSearchMode (String): the local search mode (history, tabs, bookmarks,
 #  or actions) to search with.
 urlbar-result-search-with-local-search-mode = { $keywords } - ຄົ້ນຫາ { $localSearchMode }
+urlbar-searchmode-dropmarker =
+    .tooltiptext = ເລືອກເຄື່ອງມືການຄົ້ນຫາ
 urlbar-searchmode-bookmarks =
     .label = ບຸກມາກ
 urlbar-searchmode-tabs =

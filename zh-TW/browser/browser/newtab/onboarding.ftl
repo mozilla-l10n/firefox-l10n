@@ -433,6 +433,7 @@ onboarding-checklist-sign-up = 註冊或登入帳號
 
 tab-groups-onboarding-feature-callout-title = 試用分頁群組，減少雜亂、更能專注
 tab-groups-onboarding-feature-callout-subtitle = 將一個分頁拖曳到另一個分頁，即可建立第一個分頁群組。
+tab-groups-onboarding-create-group-title-2 = 可隨時在此處尋找您的分頁群組。
 tab-groups-onboarding-saved-groups-title = 關閉分頁群組後，可以隨時在此處重新開啟。
 tab-groups-onboarding-dismiss = 確定
 
