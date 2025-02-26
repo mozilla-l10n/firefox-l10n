@@ -77,6 +77,8 @@ sidebar-context-menu-bookmark-tab =
     .label = Ajouter aux marque-pages…
 sidebar-context-menu-copy-link =
     .label = Copier le lien
+sidebar-context-menu-hide-sidebar =
+    .label = Masquer le panneau latéral
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
