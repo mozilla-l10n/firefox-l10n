@@ -58,6 +58,10 @@ contentanalysis-error-message-upload-file = Выгрузка «{ $filename }» �
 contentanalysis-error-message-dropped-text = Перетаскивание запрещено.
 contentanalysis-error-message-clipboard = Вставка запрещена.
 contentanalysis-error-message-print = Печать запрещена.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
+contentanalysis-timeout-block-error-message-content = Время ожидания соединения с { $agent } истекло. { $contentName } было заблокировано.
 contentanalysis-block-dialog-title-upload-file = Вам не разрешено загружать этот файл
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
