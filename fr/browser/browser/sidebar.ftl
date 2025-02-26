@@ -79,6 +79,10 @@ sidebar-context-menu-copy-link =
     .label = Copier le lien
 sidebar-context-menu-hide-sidebar =
     .label = Masquer le panneau latéral
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Activer les onglets verticaux
+sidebar-context-menu-customize-sidebar =
+    .label = Personnaliser le panneau latéral
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
