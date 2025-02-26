@@ -77,6 +77,12 @@ sidebar-context-menu-bookmark-tab =
     .label = 將分頁加入書籤…
 sidebar-context-menu-copy-link =
     .label = 複製鏈結
+sidebar-context-menu-hide-sidebar =
+    .label = 隱藏側邊欄
+sidebar-context-menu-enable-vertical-tabs =
+    .label = 開啟垂直分頁功能
+sidebar-context-menu-customize-sidebar =
+    .label = 自訂側邊欄
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =

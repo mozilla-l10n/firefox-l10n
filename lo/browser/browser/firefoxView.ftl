@@ -38,6 +38,7 @@ firefoxview-tabpickup-adddevice-description = ດາວໂຫລດ { -brand-pro
 firefoxview-tabpickup-adddevice-learn-how = ຮຽນຮູ້ວິທີການ
 firefoxview-tabpickup-adddevice-primarybutton = ເອົາ { -brand-product-name } ສໍາລັບມືຖື
 firefoxview-syncedtabs-adddevice-header-2 = ເອົາແຖບຈາກທຸກບ່ອນ
+firefoxview-syncedtabs-adddevice-primarybutton = ລອງໃຊ້ { -brand-product-name } ສໍາລັບມືຖື
 firefoxview-tabpickup-synctabs-header = ເປີດການຊິງຄ໌ແຖບ
 firefoxview-tabpickup-synctabs-description = ອະນຸຍາດໃຫ້ { -brand-short-name } ແບ່ງປັນແຖບລະຫວ່າງອຸປະກອນ.
 firefoxview-tabpickup-synctabs-learn-how = ຮຽນຮູ້ວິທີການ
