@@ -77,6 +77,12 @@ sidebar-context-menu-bookmark-tab =
     .label = เพิ่มที่คั่นหน้าสำหรับแท็บ…
 sidebar-context-menu-copy-link =
     .label = คัดลอกลิงก์
+sidebar-context-menu-hide-sidebar =
+    .label = ซ่อนแถบข้าง
+sidebar-context-menu-enable-vertical-tabs =
+    .label = เปิดใช้งานแท็บแนวตั้ง
+sidebar-context-menu-customize-sidebar =
+    .label = ปรับแต่งแถบข้าง
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
