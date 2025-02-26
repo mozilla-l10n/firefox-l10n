@@ -77,6 +77,12 @@ sidebar-context-menu-bookmark-tab =
     .label = Rajtark jako zapołožku składować …
 sidebar-context-menu-copy-link =
     .label = Wotkaz kopěrować
+sidebar-context-menu-hide-sidebar =
+    .label = Bóčnicu schować
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Wertikalne rajtarki wužiwać
+sidebar-context-menu-customize-sidebar =
+    .label = Bóčnicu přiměrić
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =

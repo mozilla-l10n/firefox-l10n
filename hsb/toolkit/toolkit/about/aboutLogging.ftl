@@ -44,6 +44,7 @@ about-logging-preset-media-playback-label = Wothraće medijow
 about-logging-preset-media-playback-description = Module konfigurować, zo byšće problemy medijoweho wothraća diagnosticěrował (nic problemy z widejokonferencami)
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Module za diagnosticěrowanje problemow z WebRTC protokolować
+about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Protokolowe module za diagnosticěrowanje problemow WebGPU
 about-logging-preset-gfx-label = Grafika
