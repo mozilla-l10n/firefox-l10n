@@ -77,6 +77,12 @@ sidebar-context-menu-bookmark-tab =
     .label = Rejtarik ako cytańske znamje składowaś …
 sidebar-context-menu-copy-link =
     .label = Wótkaz kopěrowaś
+sidebar-context-menu-hide-sidebar =
+    .label = Bocnicu schowaś
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Wertikalne rejtariki wužywaś
+sidebar-context-menu-customize-sidebar =
+    .label = Bocnicu pśiměriś
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =

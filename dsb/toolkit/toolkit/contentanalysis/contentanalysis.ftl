@@ -58,6 +58,10 @@ contentanalysis-error-message-upload-file = Nagraśe “{ $filename }” jo wót
 contentanalysis-error-message-dropped-text = Śěgnjenje a pušćenje stej se wótpokazałej.
 contentanalysis-error-message-clipboard = Zasajźenje jo se wótpokazało.
 contentanalysis-error-message-print = Śišćanje jo se wótpokazało.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
+contentanalysis-timeout-block-error-message-content = Zwisk ze zwiskom { $agent } jo pśekšocył cas. { $contentName } jo se blokěrował.
 contentanalysis-block-dialog-title-upload-file = Njesmějośo toś tu dataju nagraś
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
