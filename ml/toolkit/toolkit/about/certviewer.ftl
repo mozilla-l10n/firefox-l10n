@@ -9,7 +9,22 @@
 ## Certificate information labels
 
 certificate-viewer-email-address = ഇതപാൽ വിലാസം
+certificate-viewer-country = രാജ്യം
 certificate-viewer-ip-address = ഐ.പി വിലാസം
+certificate-viewer-locality = അയൽപ്പക്കം
+certificate-viewer-location = ഇടം
+certificate-viewer-method = പരി
+certificate-viewer-name = പേരു്
+certificate-viewer-sha-256 = SHA-256
+certificate-viewer-signature-algorithm = ഒപ്പു് അൽഗോരിതം
+certificate-viewer-signature-scheme = ഒപ്പുമുറ
+certificate-viewer-timestamp = കാലമുദ്രം
+certificate-viewer-value = വില
+certificate-viewer-version = പതിപ്പു്
+certificate-viewer-subject-name = വിഷയ പേരു്
+certificate-viewer-issuer-name = ഉൽപാദിപ്പിക്കുന്നവന്റെ പേരു്
+certificate-viewer-validity = കാലാവധി
+certificate-viewer-subject-alt-names = ഒന്നിടവിട്ട വിഷയ പേരുകൾ
 certificate-viewer-fingerprints = വിരലടയാളങ്ങള്‍
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
