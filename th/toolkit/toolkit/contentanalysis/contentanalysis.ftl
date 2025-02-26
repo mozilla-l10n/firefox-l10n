@@ -58,6 +58,10 @@ contentanalysis-error-message-upload-file = การอัปโหลด “{ 
 contentanalysis-error-message-dropped-text = การลากแล้วปล่อยถูกปฏิเสธ
 contentanalysis-error-message-clipboard = การวางถูกปฏิเสธ
 contentanalysis-error-message-print = การพิมพ์ถูกปฏิเสธ
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
+contentanalysis-timeout-block-error-message-content = การเชื่อมต่อกับ { $agent } หมดเวลาลงแล้ว { $contentName } ถูกปิดกั้น
 contentanalysis-block-dialog-title-upload-file = คุณไม่ได้รับอนุญาตให้อัปโหลดไฟล์นี้
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
