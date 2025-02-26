@@ -44,6 +44,7 @@ about-logging-preset-media-playback-label = Afspilun margmiðlunar
 about-logging-preset-media-playback-description = Atvikaskráningareiningar til að greina vandamál við spilun myndefnis (ekki vandamál með myndfundi)
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Atvikaskráningareiningar til að greina vandamál með WebRTC
+about-logging-preset-webcodecs-label = Vefkóðun (WebCodecs)
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Atvikaskráningareiningar til að greina vandamál með WebGPU
 about-logging-preset-gfx-label = Myndefni

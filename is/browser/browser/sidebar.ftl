@@ -77,6 +77,12 @@ sidebar-context-menu-bookmark-tab =
     .label = Bókamerkja flipa…
 sidebar-context-menu-copy-link =
     .label = Afrita tengil
+sidebar-context-menu-hide-sidebar =
+    .label = Fela hliðarstiku
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Virkja lóðrétta flipa
+sidebar-context-menu-customize-sidebar =
+    .label = Sérsníða hliðarstiku
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =

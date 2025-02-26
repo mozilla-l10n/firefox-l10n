@@ -18,7 +18,13 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = Loka öllum tvíteknum flipum
 all-tabs-menu-synced-tabs =
     .label = Flipar frá öðrum tækjum
+# "Recent" refers to tab groups being sorted in recently used order. We show up
+# to five of these in this section.
+all-tabs-menu-recent-tab-groups-header = Nýlegir flipahópar
 all-tabs-menu-current-window-header = Núverandi gluggi
 # This opens the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-show-all =
     .label = Birta allt
+# This is header for the sub view listing _all_ open and saved tab groups.
+all-tabs-menu-tab-groups-sub-view =
+    .title = Flipahópar

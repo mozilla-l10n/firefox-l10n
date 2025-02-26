@@ -58,6 +58,10 @@ contentanalysis-error-message-upload-file = Innsendingu á „{ $filename }“ e
 contentanalysis-error-message-dropped-text = Draga og sleppa er hafnað.
 contentanalysis-error-message-clipboard = Límingu er hafnað.
 contentanalysis-error-message-print = Prentun er hafnað.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
+contentanalysis-timeout-block-error-message-content = Tengingin við { $agent } rann út á tíma. { $contentName } hefur verið lokað.
 contentanalysis-block-dialog-title-upload-file = Þú hefur ekki leyfi til að senda inn þessa skrá
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
