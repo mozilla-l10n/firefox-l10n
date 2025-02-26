@@ -13,9 +13,9 @@ webconsole-commands-usage-block =
     
     开始拦截网络请求
     
-      仅接受一个 URLSTRING 参数（一个不含引号的字符串），将用于拦截所有对包含此字符串的网址的请求
+      仅接受一个 URLSTRING 参数（一个未加引号的字符串），将用于拦截所有对包含此字符串的网址的请求
     
-      使用 :unblock 或网络监视器中的请求拦截侧栏来撤销。
+      使用 :unblock 或网络监视器中的拦截请求侧栏来撤销。
 # Usage string for :unblock command
 webconsole-commands-usage-unblock =
     :unblock URL_STRING
