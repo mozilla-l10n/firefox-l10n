@@ -58,6 +58,10 @@ contentanalysis-error-message-upload-file = “{ $filename }” 업로드가 거
 contentanalysis-error-message-dropped-text = 끌어서 놓기가 거부되었습니다.
 contentanalysis-error-message-clipboard = 붙여넣기가 거부되었습니다.
 contentanalysis-error-message-print = 인쇄가 거부되었습니다.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
+contentanalysis-timeout-block-error-message-content = { $agent } 연결에 대한 연결 시간이 초과되었습니다. { $contentName }이(가) 차단되었습니다.
 contentanalysis-block-dialog-title-upload-file = 이 파일을 업로드할 권한이 없습니다
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"

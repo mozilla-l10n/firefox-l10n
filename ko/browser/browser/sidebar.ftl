@@ -77,6 +77,12 @@ sidebar-context-menu-bookmark-tab =
     .label = 탭 북마크…
 sidebar-context-menu-copy-link =
     .label = 링크 복사
+sidebar-context-menu-hide-sidebar =
+    .label = 사이드바 숨기기
+sidebar-context-menu-enable-vertical-tabs =
+    .label = 세로 탭 켜기
+sidebar-context-menu-customize-sidebar =
+    .label = 사이드바 사용자 지정
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =

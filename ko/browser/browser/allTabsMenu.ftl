@@ -18,7 +18,13 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = 모든 중복 탭 닫기
 all-tabs-menu-synced-tabs =
     .label = 다른 기기의 탭
+# "Recent" refers to tab groups being sorted in recently used order. We show up
+# to five of these in this section.
+all-tabs-menu-recent-tab-groups-header = 최근 탭 그룹
 all-tabs-menu-current-window-header = 현재 창
 # This opens the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-show-all =
     .label = 모두 보기
+# This is header for the sub view listing _all_ open and saved tab groups.
+all-tabs-menu-tab-groups-sub-view =
+    .title = 탭 그룹
