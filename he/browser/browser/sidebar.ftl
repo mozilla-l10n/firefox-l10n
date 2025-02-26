@@ -77,6 +77,12 @@ sidebar-context-menu-bookmark-tab =
     .label = יצירת סימנייה ללשונית…
 sidebar-context-menu-copy-link =
     .label = העתקת קישור
+sidebar-context-menu-hide-sidebar =
+    .label = הסתרת סרגל הצד
+sidebar-context-menu-enable-vertical-tabs =
+    .label = הפעלת לשוניות אנוכיות
+sidebar-context-menu-customize-sidebar =
+    .label = התאמה אישית של סרגל הצד
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =

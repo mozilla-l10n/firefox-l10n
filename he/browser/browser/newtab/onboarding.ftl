@@ -426,3 +426,5 @@ desktop-to-mobile-headline = מורידים, מסנכרנים ויוצאים ל�
 desktop-to-mobile-subtitle = יש לסרוק את קוד ה־QR כדי להוריד את { -brand-product-name } לנייד. לאחר ההתקנה, יש לבחור ב״סנכרון לנייד״ כדי לגשת לססמאות והלשוניות שלך ועוד בדרכים.
 dismiss-button-label = סגירה
 sync-to-mobile-button-label = סנכרון לנייד
+desktop-to-mobile-qr-code-alt =
+    .aria-label = קוד QR להורדת { -brand-product-name } לנייד
