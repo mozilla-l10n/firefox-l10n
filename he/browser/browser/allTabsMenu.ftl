@@ -18,7 +18,13 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = סגירת כל הלשוניות הכפולות
 all-tabs-menu-synced-tabs =
     .label = לשוניות ממכשירים אחרים
+# "Recent" refers to tab groups being sorted in recently used order. We show up
+# to five of these in this section.
+all-tabs-menu-recent-tab-groups-header = קבוצות לשוניות אחרונות
 all-tabs-menu-current-window-header = החלון הנוכחי
 # This opens the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-show-all =
     .label = הצגת הכול
+# This is header for the sub view listing _all_ open and saved tab groups.
+all-tabs-menu-tab-groups-sub-view =
+    .title = קבוצות לשוניות
