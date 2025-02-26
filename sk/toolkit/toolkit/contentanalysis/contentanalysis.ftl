@@ -58,6 +58,10 @@ contentanalysis-error-message-upload-file = Odovzdanie súboru “{ $filename }�
 contentanalysis-error-message-dropped-text = Pretiahnutie obsahu bolo odmietnuté.
 contentanalysis-error-message-clipboard = Prilepenie bolo odmietnuté.
 contentanalysis-error-message-print = Tlač bola odmietnutá.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
+contentanalysis-timeout-block-error-message-content = Časový limit k pripojeniu agenta { $agent } vypršal. Obsah { $contentName } bol zablokovaný.
 contentanalysis-block-dialog-title-upload-file = Nemáte oprávnenie nahrať tento súbor
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"

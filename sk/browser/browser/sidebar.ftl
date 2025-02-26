@@ -77,6 +77,12 @@ sidebar-context-menu-bookmark-tab =
     .label = Pridať kartu medzi záložky…
 sidebar-context-menu-copy-link =
     .label = Kopírovať odkaz
+sidebar-context-menu-hide-sidebar =
+    .label = Skryť bočný panel
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Zapnúť vertikálne karty
+sidebar-context-menu-customize-sidebar =
+    .label = Prispôsobiť bočný panel
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =

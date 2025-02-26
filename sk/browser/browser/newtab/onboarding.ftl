@@ -445,6 +445,11 @@ onboarding-checklist-sign-up = Zaregistrujte sa alebo sa prihláste do svojho ú
 
 tab-groups-onboarding-feature-callout-title = Vyskúšajte skupiny kariet a získate menej neporiadku a viac pozornosti
 tab-groups-onboarding-feature-callout-subtitle = Urobte si poriadok presunutím jednej karty na druhú, čím vytvoríte svoju prvú skupinu.
+tab-groups-onboarding-create-group-title-2 = Tu nájdete svoje skupiny kariet.
+tab-groups-onboarding-create-group-no-alltabs-button-title = Svoje skupiny nájdete tak, že ich vyhľadáte v paneli s adresou.
+tab-groups-onboarding-saved-groups-title-2 = Keď zatvoríte skupinu kariet, môžete ju tu kedykoľvek znova otvoriť.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Svoje zatvorené skupiny nájdete tak, že ich vyhľadáte v paneli s adresou.
+tab-groups-onboarding-session-restore-title = Tu môžete kedykoľvek znova otvoriť svoje skupiny kariet.
 tab-groups-onboarding-saved-groups-title = Ak zatvoríte skupinu kariet, môžete ju tu kedykoľvek znova otvoriť.
 tab-groups-onboarding-dismiss = OK
 
