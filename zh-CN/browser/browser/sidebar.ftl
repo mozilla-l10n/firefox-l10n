@@ -77,6 +77,12 @@ sidebar-context-menu-bookmark-tab =
     .label = 将标签页加入书签…
 sidebar-context-menu-copy-link =
     .label = 复制链接
+sidebar-context-menu-hide-sidebar =
+    .label = 隐藏侧栏
+sidebar-context-menu-enable-vertical-tabs =
+    .label = 开启垂直标签页
+sidebar-context-menu-customize-sidebar =
+    .label = 定制侧栏
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
