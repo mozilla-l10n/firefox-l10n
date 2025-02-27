@@ -6,7 +6,7 @@
 ## Error page titles
 
 neterror-page-title = 頁面載入發生問題
-certerror-page-title = 警告: 本網站可能有安全性風險
+certerror-page-title = 警告：本網站可能有安全性風險
 certerror-sts-page-title = 未連線: 潛在的安全性問題
 neterror-blocked-by-policy-page-title = 已封鎖頁面
 neterror-captive-portal-page-title = 登入到網路

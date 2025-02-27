@@ -66,7 +66,7 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # Variables:
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
-cert-error-details-cert-chain-label = 憑證鍊:
+cert-error-details-cert-chain-label = 憑證鍊：
 open-in-new-window-for-csp-or-xfo-error = 用新視窗開啟網站
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
@@ -149,8 +149,8 @@ inadequateSecurityError-title = 您的連線並不安全
 blockedByPolicy-title = 已封鎖頁面
 clockSkewError-title = 您的電腦時間錯誤
 networkProtocolError-title = 網路通訊協定錯誤
-nssBadCert-title = 警告: 本網站可能有安全性風險
-nssBadCert-sts-title = 未連線: 潛在的安全性問題
+nssBadCert-title = 警告：本網站可能有安全性風險
+nssBadCert-sts-title = 未連線：潛在的安全性問題
 certerror-mitm-title = 有軟體造成 { -brand-short-name } 無法與此網站建立安全連線
 
 ## Felt Privacy V1 Strings
