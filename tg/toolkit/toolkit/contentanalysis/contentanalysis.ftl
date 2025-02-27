@@ -58,6 +58,10 @@ contentanalysis-error-message-upload-file = Боркунии «{ $filename }» �
 contentanalysis-error-message-dropped-text = Кашидан ва гузоштани матн рад карда шуд.
 contentanalysis-error-message-clipboard = Гузоштани матн рад карда шуд.
 contentanalysis-error-message-print = Чоп рад карда шуд.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
+contentanalysis-timeout-block-error-message-content = Вақти интизории пайвастшавӣ ба «{ $agent }» ба анҷом расид. «{ $contentName }» манъ карда шудааст.
 contentanalysis-block-dialog-title-upload-file = Шумо барои бор кардани ин файл иҷозат надоред
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
