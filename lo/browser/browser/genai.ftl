@@ -18,6 +18,7 @@
 
 ## Chatbot header
 
+genai-chatbot-title = AI chatbot
 genai-header-options-button =
     .title = ເປີດເມນູ
 genai-header-close-button =
@@ -34,6 +35,8 @@ genai-options-hide-shortcut =
 
 ## Chatbot onboarding
 
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
 genai-onboarding-chatgpt-learn = ຮຽນຮູ້ເພີ່ມເຕີມກ່ຽວກັບ ChatGPT
 genai-onboarding-copilot-tooltip =
     .title = Copilot
@@ -45,6 +48,7 @@ genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-learn = ສຶກສາເພີ່ມເຕີມກ່ຽວກັບ Le Chat
 genai-onboarding-select-header = ເລືອກຂໍ້ຄວາມເພື່ອເບິ່ງຄຳແນະນຳ
+genai-onboarding-select-primary = ເລີ່ມການສົນທະນາ
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
