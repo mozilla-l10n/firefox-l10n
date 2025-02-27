@@ -58,6 +58,10 @@ contentanalysis-error-message-upload-file = Cargamento de “{ $filename }” re
 contentanalysis-error-message-dropped-text = Traher e deponer refusate.
 contentanalysis-error-message-clipboard = Collar refusate.
 contentanalysis-error-message-print = Imprimer refusate.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
+contentanalysis-timeout-block-error-message-content = Le connexion a { $agent } ha expirate. { $contentName } ha essite blocate.
 contentanalysis-block-dialog-title-upload-file = Tu non ha permisso de cargar iste file
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
