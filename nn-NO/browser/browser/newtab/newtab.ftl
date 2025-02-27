@@ -362,6 +362,9 @@ newtab-wallpaper-abstract-purple = Lilla former
 newtab-wallpaper-abstract-orange = Oransje former
 newtab-wallpaper-gradient-orange = Fargeovergang oransje og rosa
 newtab-wallpaper-abstract-blue-purple = Blå og lilla former
+newtab-wallpaper-abstract-purple-green = Gradient med lilla og grønt lys
+newtab-wallpaper-abstract-blue-purple-waves = Blå og lilla bølgjeformer
+newtab-wallpaper-abstract-black-waves = Svarte bølgjeformer
 
 ## Celestial
 
@@ -389,6 +392,8 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+newtab-wallpaper-celestial-lunar-eclipse = Måneformørking
+newtab-wallpaper-celestial-starry-sky = Stjerneklar himmel
 
 ## New Tab Weather
 
