@@ -58,6 +58,10 @@ contentanalysis-error-message-upload-file = “{ $filename }”的上传被拒�
 contentanalysis-error-message-dropped-text = 拖放内容被拒绝。
 contentanalysis-error-message-clipboard = 粘贴内容被拒绝。
 contentanalysis-error-message-print = 打印内容被拒绝。
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
+contentanalysis-timeout-block-error-message-content = 与 { $agent } 的连接超时。{ $contentName } 已被拦截。
 contentanalysis-block-dialog-title-upload-file = 您无权上传此文件
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"

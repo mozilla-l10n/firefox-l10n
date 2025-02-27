@@ -18,6 +18,9 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = 关闭所有重复标签页
 all-tabs-menu-synced-tabs =
     .label = 其他设备上的标签页
+# "Recent" refers to tab groups being sorted in recently used order. We show up
+# to five of these in this section.
+all-tabs-menu-recent-tab-groups-header = 近期标签页群组
 all-tabs-menu-current-window-header = 当前窗口
 # This opens the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-show-all =
