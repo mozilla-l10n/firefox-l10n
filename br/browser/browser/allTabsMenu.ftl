@@ -14,3 +14,4 @@ all-tabs-menu-manage-user-context =
     .accesskey = e
 all-tabs-menu-synced-tabs =
     .label = Ivinelloù an trevnadoù all
+all-tabs-menu-current-window-header = Prenestr a-vremañ

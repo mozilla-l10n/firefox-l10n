@@ -51,6 +51,7 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = Ergrafet eo { -brand-short-name } gant <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, ur <label data-l10n-name="community-creditsLink">gumuniezh vedel</label> hag a labour a-gevret evit mirout ar Gwiad digor, foran ha haezadus d’an holl.
 helpus = Skoazellañ a fell deoc’h? <label data-l10n-name="helpus-donateLink">Roit gwenneien</label> pe <label data-l10n-name="helpus-getInvolvedLink">gemerit perzh enni!</label>
 bottomLinks-license = Titouroù lañvaz
+bottom-links-terms = Termenoù implij
 bottomLinks-rights = Gwirioù an arveriaded-dibenn
 bottomLinks-privacy = Reolennoù buhez prevez
 # Example of resulting string: 66.0.1 (64-bit)
