@@ -77,6 +77,12 @@ sidebar-context-menu-bookmark-tab =
     .label = Faqeruaje Skedën…
 sidebar-context-menu-copy-link =
     .label = Kopjoji Lidhjen
+sidebar-context-menu-hide-sidebar =
+    .label = Fshihe Anështyllën
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Aktivizo Skeda Vertikale
+sidebar-context-menu-customize-sidebar =
+    .label = Përshtatni Anështyllën
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
