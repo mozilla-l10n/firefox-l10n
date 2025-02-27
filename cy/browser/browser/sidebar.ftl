@@ -77,6 +77,12 @@ sidebar-context-menu-bookmark-tab =
     .label = Gosod Nod Tudalen i'r Tab…
 sidebar-context-menu-copy-link =
     .label = Copïo'r Ddolen
+sidebar-context-menu-hide-sidebar =
+    .label = Cuddio'r bar ochr
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Troi Tabiau Fertigol ymlaen
+sidebar-context-menu-customize-sidebar =
+    .label = Cyfaddasu'r Bar Offer
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =

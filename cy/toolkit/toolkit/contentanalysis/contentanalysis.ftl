@@ -58,6 +58,10 @@ contentanalysis-error-message-upload-file = Gwrthodwyd llwytho “{ $filename }�
 contentanalysis-error-message-dropped-text = Gwrthodwyd llusgo a gollwng.
 contentanalysis-error-message-clipboard = Gwrthodwyd gludo.
 contentanalysis-error-message-print = Gwrthodwyd argraffu.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
+contentanalysis-timeout-block-error-message-content = Daeth y cysylltiad â chysylltiad { $agent } i ben. Mae { $contentName } wedi ei rwystro.
 contentanalysis-block-dialog-title-upload-file = Nid oes caniatâd i chi lwytho'r ffeil hon
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"

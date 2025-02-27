@@ -446,6 +446,11 @@ onboarding-checklist-sign-up = Cofrestrwch neu mewngofnodwch i'ch cyfrif
 
 tab-groups-onboarding-feature-callout-title = Rhowch gynnig ar grwpio tabiau am lai o flerwch, gwell trefn
 tab-groups-onboarding-feature-callout-subtitle = Byddwch yn drefnus trwy lusgo un tab ar ben un arall i greu eich grŵp cyntaf.
+tab-groups-onboarding-create-group-title-2 = Ailagor eich grwpiau tabiau yma unrhyw bryd.
+tab-groups-onboarding-create-group-no-alltabs-button-title = Dewch o hyd i'ch grwpiau trwy chwilio amdanyn nhw yn y bar cyfeiriad.
+tab-groups-onboarding-saved-groups-title-2 = Pan fyddwch yn cau grŵp tabiau, gallwch ei ailagor yma unrhyw bryd.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Dewch o hyd i'ch grwpiau agored ar y bar tab neu drwy chwilio amdanyn nhw yn y bar cyfeiriad.
+tab-groups-onboarding-session-restore-title = Ailagorwch eich grwpiau tab yma unrhyw bryd.
 tab-groups-onboarding-saved-groups-title = Os byddwch yn cau grŵp tab, gallwch ei ailagor yma unrhyw bryd.
 tab-groups-onboarding-dismiss = Iawn
 
