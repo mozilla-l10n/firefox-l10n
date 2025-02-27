@@ -77,6 +77,12 @@ sidebar-context-menu-bookmark-tab =
     .label = Lap könyvjelzőzése…
 sidebar-context-menu-copy-link =
     .label = Hivatkozás másolása
+sidebar-context-menu-hide-sidebar =
+    .label = Oldalsáv elrejtése
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Függőleges lapok bekapcsolása
+sidebar-context-menu-customize-sidebar =
+    .label = Oldalsáv testreszabása
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
