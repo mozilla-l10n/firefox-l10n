@@ -48,7 +48,7 @@ about-webauthn-results-pin-blocked-error = Error: Il non ha plus tentativas disp
 about-webauthn-results-pin-not-set-error = Error: PIN non preparate. Iste operation besonia del protection de PIN.
 about-webauthn-results-pin-too-short-error = Error: le PIN fornite es troppo curte.
 about-webauthn-results-pin-too-long-error = Error: le PIN fornite es troppo longe.
-about-webauthn-results-pin-auth-blocked-error = Error: Il habeva troppe tentativas fallite in un rango e le authentication del PIN ha essite temporarimente blocate. Tu apparato besonia de un cyclo de extinction (distaccar le spina e re-inserer lo).
+about-webauthn-results-pin-auth-blocked-error = Error: Il habeva troppo de tentativas fallite in sequentia e le authentication per PIN ha essite temporarimente blocate. Tu apparato require un cyclo de currente (disconnecte lo del prisa e reconnecte lo).
 about-webauthn-results-cancelled-by-user-error = Error: Operation cancellate per le usator.
 
 ## Labels

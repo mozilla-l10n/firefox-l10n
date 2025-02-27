@@ -77,6 +77,12 @@ sidebar-context-menu-bookmark-tab =
     .label = Adder le scheda al marcapaginas
 sidebar-context-menu-copy-link =
     .label = Copiar ligamine
+sidebar-context-menu-hide-sidebar =
+    .label = Celar le barra lateral
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Activar le schedas vertical
+sidebar-context-menu-customize-sidebar =
+    .label = Personalisar le barra lateral
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =

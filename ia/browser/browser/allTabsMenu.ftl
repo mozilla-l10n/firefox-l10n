@@ -18,7 +18,13 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = Clauder tote le schedas duplicate
 all-tabs-menu-synced-tabs =
     .label = Schedas ab altere apparatos
+# "Recent" refers to tab groups being sorted in recently used order. We show up
+# to five of these in this section.
+all-tabs-menu-recent-tab-groups-header = Gruppos de schedas recente
 all-tabs-menu-current-window-header = Fenestra actual
 # This opens the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-show-all =
     .label = Monstrar toto
+# This is header for the sub view listing _all_ open and saved tab groups.
+all-tabs-menu-tab-groups-sub-view =
+    .title = Gruppos de schedas
