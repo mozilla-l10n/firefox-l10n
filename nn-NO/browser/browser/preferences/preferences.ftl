@@ -233,6 +233,7 @@ browser-layout-horizontal-tabs =
     .label = Horisontale faner
 browser-layout-vertical-tabs =
     .label = Vertikale faner
+browser-layout-vertical-tabs-desc = Vis på sida, i sidestolpen
 browser-layout-show-sidebar =
     .label = Vis sidestolpe
 
@@ -1322,6 +1323,9 @@ collection-description = Vi prøver alltid å gje deg val og samlar inn berre de
 collection-privacy-notice = Personvernpraksis
 collection-health-report-telemetry-disabled = Du tillèt ikkje lenger { -vendor-short-name } å samle inn teknisk- og interaksjonsdata. Alle tidlegare data vil bli sletta innan 30 dagar.
 collection-health-report-telemetry-disabled-link = Les meir
+collection-usage-ping =
+    .label = Send ping for dagleg bruk til { -vendor-short-name }
+    .accesskey = e
 collection-health-report =
     .label = Tillat { -brand-short-name } å sende tekniske data og data for bruk til { -vendor-short-name }
     .accesskey = r
