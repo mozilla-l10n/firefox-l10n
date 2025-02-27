@@ -314,7 +314,11 @@ newtab-custom-settings = Handsam fleire innstillingar
 
 newtab-wallpaper-title = Bakgrunnsbilde
 newtab-wallpaper-reset = Still tilbake til standard
+newtab-wallpaper-upload-image = Last opp eit bilde
 newtab-wallpaper-custom-color = Vel ein farge
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = Bildet overskreid filstorleiksgrensa på { $file_size }MB. Prøv å laste opp ei mindre fil.
 newtab-wallpaper-light-red-panda = Raudpanda
 newtab-wallpaper-light-mountain = Kvitt fjell
 newtab-wallpaper-light-sky = Himmel med lilla og rosa skyer
