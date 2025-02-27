@@ -489,6 +489,7 @@ newtab-section-confirm-block-section-p1 = Er du sikker på at du vil blokkere de
 newtab-section-confirm-block-section-p2 = Blokkert del vil ikkje lenger visast i kjelda di.
 newtab-section-block-section-button = Blokker denne delen
 newtab-section-cancel-button = Ikkje no
+newtab-section-confirm-block-topic-p1 = Er du sikker på at du vil blokkere dette emnet?
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Blokker { $topic }
