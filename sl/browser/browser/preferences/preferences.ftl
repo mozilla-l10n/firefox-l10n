@@ -1466,7 +1466,7 @@ preferences-doh-status-disabled = izključeno
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = nedejavno ({ $reason })
 preferences-doh-group-message = Omogoči zavarovan DNS. Stopnja zaščite:
-preferences-doh-group-message2 = Omogoči DNS preko HTTPS z uporabo:
+preferences-doh-group-message2 = Omogoči DNS preko HTTPS. Raven zaščite:
 preferences-doh-expand-section =
     .tooltiptext = Več informacij
 preferences-doh-setting-default =
