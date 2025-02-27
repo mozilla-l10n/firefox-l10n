@@ -77,6 +77,12 @@ sidebar-context-menu-bookmark-tab =
     .label = Bogmærk faneblad…
 sidebar-context-menu-copy-link =
     .label = Kopier link
+sidebar-context-menu-hide-sidebar =
+    .label = Skjul sidepanel
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Slå lodrette faneblade til
+sidebar-context-menu-customize-sidebar =
+    .label = Tilpas sidepanel
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =

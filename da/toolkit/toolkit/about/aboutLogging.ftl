@@ -46,6 +46,7 @@ about-logging-preset-media-playback-label = Medieafspilning
 about-logging-preset-media-playback-description = Logmoduler til at diagnosticere problemer med medieafspilning (ikke problemer med videokonferencer)
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Logmoduler til at diagnosticere WebRTC-opkald
+about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Logmoduler til at diagnosticere WebGPU-problemer
 about-logging-preset-gfx-label = Grafik

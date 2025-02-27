@@ -58,6 +58,10 @@ contentanalysis-error-message-upload-file = Upload af "{ $filename }" nægtet.
 contentanalysis-error-message-dropped-text = Træk og slip nægtet.
 contentanalysis-error-message-clipboard = Indsæt nægtet.
 contentanalysis-error-message-print = Udskrivning nægtet.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
+contentanalysis-timeout-block-error-message-content = Tidsfristen for forbindelsen til { $agent } udløb. { $contentName } er blevet blokeret.
 contentanalysis-block-dialog-title-upload-file = Du har ikke tilladelse til at uploade denne fil
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
