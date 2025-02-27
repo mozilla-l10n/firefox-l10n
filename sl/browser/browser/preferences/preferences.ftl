@@ -539,10 +539,10 @@ browsing-media-control =
     .accesskey = v
 browsing-media-control-learn-more = Več o tem
 browsing-cfr-recommendations =
-    .label = Med brskanjem priporoči razširitve
+    .label = Med brskanjem priporočaj razširitve
     .accesskey = r
 browsing-cfr-features =
-    .label = Med brskanjem priporoči možnosti
+    .label = Med brskanjem priporočaj možnosti
     .accesskey = m
 browsing-cfr-recommendations-learn-more = Več o tem
 
