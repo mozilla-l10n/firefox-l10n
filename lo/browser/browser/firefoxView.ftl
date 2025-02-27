@@ -76,6 +76,7 @@ firefoxview-closed-tabs-title = ຫາກໍ່ປິດໄປມື້ກີ້
 firefoxview-closed-tabs-description2 = ເປີດໜ້າທີ່ທ່ານໄດ້ປິດຄືນໃໝ່ຢູ່ໃນໜ້າຈໍນີ້.
 firefoxview-closed-tabs-placeholder-header = ບໍ່ມີແຖບທີ່ປິດເມື່ອບໍ່ດົນມານີ້
 firefoxview-closed-tabs-placeholder-body = ເມື່ອທ່ານປິດແຖບຢູ່ໃນປ່ອງຢ້ຽມນີ້, ທ່ານສາມາດດຶງມັນຈາກທີ່ນີ້.
+firefoxview-closed-tabs-placeholder-body2 = ເມື່ອທ່ານປິດແຖບໃດໜຶ່ງ, ທ່ານສາມາດດຶງມັນຈາກບ່ອນນີ້ໄດ້.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -223,6 +224,7 @@ firefoxview-import-history-close-button =
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-description = ເຮັດໃຫ້ { -brand-short-name } ໄປທີ່ browser ຂອງທ່ານ. ນຳເຂົ້າປະຫວັດການທ່ອງເວັບ, ບຸກມາກ, ແລະ ອື່ນໆອີກ.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 

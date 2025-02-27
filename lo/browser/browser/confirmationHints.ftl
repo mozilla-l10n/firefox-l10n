@@ -21,3 +21,6 @@ confirmation-hint-send-to-device = ສົ່ງແລ້ວ!
 confirmation-hint-firefox-relay-mask-created = ສ້າງໜ້າກາກໃໝ່!
 confirmation-hint-firefox-relay-mask-reused = ໜ້າກາກທີ່ມີຢູ່ໃຊ້ຄືນແລ້ວ!
 confirmation-hint-screenshot-copied = ສຳເນົາຮູບໜ້າຈໍແລ້ວ!
+# Variables:
+#   $tabCount (Number): The number of duplicate tabs closed, at least 1.
+confirmation-hint-duplicate-tabs-closed = ປິດ { $tabCount } ແທັບ

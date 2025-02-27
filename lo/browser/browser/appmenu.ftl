@@ -100,8 +100,11 @@ appmenu-fxa-sync-and-save-data2 = ຊິງຄ໌ແລະບັນທຶກຂ�
 appmenu-fxa-signed-in-label = ເຂົ້າ​ສູ່​ລະ​ບົບ
 appmenu-fxa-setup-sync =
     .label = ເປີດການຊິງຄ໌...
+appmenu-fxa-setup-sync-new = ເປີດ
 appmenuitem-save-page =
     .label = ບັນທຶກຫນ້ານີ້ໄວ້ທີ່...
+appmenuitem-fxa-sync-off-title = ການຊິງຄ໌ຖືກປິດ
+appmenuitem-fxa-sync-off-description = ປົກປ້ອງ ແລະ ເຂົ້າເຖິງບຸກມາກສ໌, ລະຫັດຜ່ານ ແລະ ອື່ນໆອີກຢູ່ທຸກບ່ອນ.
 
 ## What's New panel in App menu.
 
@@ -253,6 +256,7 @@ appmenu-developer-tools-extensions =
 
 ## Panel for privacy and security products
 
+appmenuitem-monitor-description = ຮັບການແຈ້ງເຕືອນເມື່ອຂໍ້ມູນມີການຮົ່ວໄຫຼ
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = ໃສ່ໂຕປິດບັງອີເມວ ແລະ ໂທລະສັບຂອງທ່ານ
 appmenuitem-services-relay-description = ເປີດ dashboard ເຊື່ອງອີເມວ
