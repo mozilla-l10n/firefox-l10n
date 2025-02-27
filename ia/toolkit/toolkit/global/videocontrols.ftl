@@ -33,7 +33,7 @@ videocontrols-closed-caption-off =
 videocontrols-picture-in-picture-label = Imagine-in-imagine
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
-videocontrols-picture-in-picture-toggle-label2 = Distaccar iste video
+videocontrols-picture-in-picture-toggle-label2 = Separar iste video
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
