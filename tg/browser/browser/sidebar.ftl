@@ -77,6 +77,12 @@ sidebar-context-menu-bookmark-tab =
     .label = Гузоштани хатбарак барои варақа…
 sidebar-context-menu-copy-link =
     .label = Нусха бардоштани пайванд
+sidebar-context-menu-hide-sidebar =
+    .label = Пинҳон кардани навори ҷонибӣ
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Фаъол кардани варақаҳои амудӣ
+sidebar-context-menu-customize-sidebar =
+    .label = Фармоишдиҳии навори ҷонибӣ
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =

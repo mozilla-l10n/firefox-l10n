@@ -446,6 +446,9 @@ onboarding-checklist-sign-up = Ба ҳисоби худ ворид шавед ё
 
 tab-groups-onboarding-feature-callout-title = Гурӯҳҳои варақаҳоро кӯшиш кунед — камтар бесарусомонӣ, тамаркузи бештар
 tab-groups-onboarding-feature-callout-subtitle = Барои ба тартиб даровардани чизҳо ва эҷод кардани аввалин гурӯҳи варақаҳои худ, як варақаро кашида, ба варақаи дигар гузоред.
+tab-groups-onboarding-create-group-title-2 = Дар ин ҷой гурӯҳҳои варақаҳои худро дар вақти дилхоҳ пайдо намоед.
+tab-groups-onboarding-create-group-no-alltabs-button-title = Гурӯҳҳои худро тавассути ҷустуҷӯи онҳо дар навори нишонӣ пайдо намоед.
+tab-groups-onboarding-session-restore-title = Дар ин ҷой гурӯҳҳои варақаҳои худро дар вақти дилхоҳ аз нав кушоед.
 tab-groups-onboarding-saved-groups-title = Агар шумо гурӯҳи варақаҳоеро пӯшед, шумо метавонед онҳоро дар ин ҷой дар вақти дилхоҳ аз нав кушоед.
 tab-groups-onboarding-dismiss = ХУБ
 
