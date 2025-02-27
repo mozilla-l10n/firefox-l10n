@@ -43,6 +43,7 @@ pocket-panel-signup-tagline-story-one = انقر على زر { -pocket-brand-nam
 pocket-panel-signup-tagline-story-two = اعرض في { -pocket-brand-name } على أي جهاز في أي وقت.
 pocket-panel-signup-cta-a-fix = زر الحفظ لكل ما تريده على الإنترنت
 pocket-panel-signup-cta-b-short = انقر زر { -pocket-brand-name } لحفظ المقالات والفيديوهات والروابط.
+pocket-panel-signup-cta-c-updated = اعرض محفوظاتك على أي جهاز تريد، ومتى تريد.
 
 ## about:pocket-home panel
 
@@ -58,9 +59,11 @@ pocket-panel-home-new-user-message = طالِع آخر ما حفظت هنا.
 
 ## Pocket panel header component
 
+pocket-panel-header-my-saves = اعرض محفوظاتي
 pocket-panel-header-sign-in = لِج
 
 ## Pocket panel buttons
 
 pocket-panel-button-show-all = اعرض الكل
+pocket-panel-button-activate = فعِّل { -pocket-brand-name } في { -brand-product-name }
 pocket-panel-button-remove = أزِل
