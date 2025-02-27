@@ -46,6 +46,7 @@ about-logging-preset-media-playback-label = Пахши расона
 about-logging-preset-media-playback-description = Модулҳои сабти рӯйдодҳо барои ташхиси масъалаҳои пахши расона (масъалаҳо ба ғайр аз конфронсҳои видеоӣ)
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Модулҳои сабти рӯйдодҳо барои ташхиси дархостҳои «WebRTC»
+about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Модулҳои сабти рӯйдодҳо барои ташхиси масъалаҳои «WebGPU»
 about-logging-preset-gfx-label = Графика
