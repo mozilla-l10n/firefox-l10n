@@ -18,7 +18,13 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = Sulje kaikki välilehtien kaksoiskappaleet
 all-tabs-menu-synced-tabs =
     .label = Välilehdet muista laitteista
+# "Recent" refers to tab groups being sorted in recently used order. We show up
+# to five of these in this section.
+all-tabs-menu-recent-tab-groups-header = Viimeisimmät välilehtiryhmät
 all-tabs-menu-current-window-header = Nykyinen ikkuna
 # This opens the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-show-all =
     .label = Näytä kaikki
+# This is header for the sub view listing _all_ open and saved tab groups.
+all-tabs-menu-tab-groups-sub-view =
+    .title = Välilehtiryhmät

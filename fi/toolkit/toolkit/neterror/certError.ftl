@@ -131,6 +131,7 @@ contentEncodingError-title = Sisällön koodausvirhe
 unsafeContentType-title = Vaarallinen tiedostotyyppi
 netReset-title = Yhteys keskeytyi
 netTimeout-title = Yhteyden aikakatkaisu
+httpErrorPage-title = Vaikuttaa siltä, että tällä sivustolla on ongelma
 serverError-title = Vaikuttaa siltä, että tällä sivustolla on ongelma
 unknownProtocolFound-title = Osoitetta ei ymmärretty
 proxyConnectFailure-title = Välityspalvelin kieltäytyy yhteydestä

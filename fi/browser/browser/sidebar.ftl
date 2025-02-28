@@ -77,6 +77,12 @@ sidebar-context-menu-bookmark-tab =
     .label = Lisää välilehti kirjanmerkkeihin…
 sidebar-context-menu-copy-link =
     .label = Kopioi linkki
+sidebar-context-menu-hide-sidebar =
+    .label = Piilota sivupalkki
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Ota pystysuuntaiset välilehdet käyttöön
+sidebar-context-menu-customize-sidebar =
+    .label = Mukauta sivupalkkia
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
