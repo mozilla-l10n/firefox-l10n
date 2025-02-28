@@ -58,6 +58,10 @@ contentanalysis-error-message-upload-file = Tải lên “{ $filename }” bị 
 contentanalysis-error-message-dropped-text = Kéo và thả bị từ chối.
 contentanalysis-error-message-clipboard = Dán bị từ chối.
 contentanalysis-error-message-print = In bị từ chối.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
+contentanalysis-timeout-block-error-message-content = Đã hết thời gian chờ cho kết nối tới { $agent }. { $contentName } đã bị chặn.
 contentanalysis-block-dialog-title-upload-file = Bạn không được phép tải lên tập tin này
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
