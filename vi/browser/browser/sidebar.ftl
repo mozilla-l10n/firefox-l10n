@@ -77,6 +77,12 @@ sidebar-context-menu-bookmark-tab =
     .label = Đánh dấu thẻ…
 sidebar-context-menu-copy-link =
     .label = Sao chép liên kết
+sidebar-context-menu-hide-sidebar =
+    .label = Ẩn thanh lề
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Bật thẻ dọc
+sidebar-context-menu-customize-sidebar =
+    .label = Tùy biến thanh lề
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
