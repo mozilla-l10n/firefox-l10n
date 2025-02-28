@@ -63,8 +63,10 @@ firefoxview-tabpickup-password-locked-header = ໃສ່ລະຫັດຜ່າ
 firefoxview-tabpickup-password-locked-description = ເພື່ອຈັບແຖບຂອງທ່ານ, ທ່ານຈະຕ້ອງໃສ່ລະຫັດຜ່ານຫຼັກສໍາລັບ { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 firefoxview-tabpickup-password-locked-primarybutton = ໃສ່ລະຫັດຜ່ານຫຼັກ
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">ສຶກສາເພີ່ມເຕີມ</a>
 firefoxview-tabpickup-signed-out-header = ເຂົ້າສູ່ລະບົບເພື່ອເຊື່ອມຕໍ່ຄືນໃຫມ່
 firefoxview-tabpickup-signed-out-description = ເພື່ອເຊື່ອມຕໍ່ຄືນໃໝ່ ແລະຈັບແຖບຂອງທ່ານ, ເຂົ້າສູ່ລະບົບ { -fxaccount-brand-name } ຂອງທ່ານ.
+firefoxview-tabpickup-signed-out-description2 = ເພື່ອເຊື່ອມຕໍ່ຄືນໃໝ່ ແລະຈັບແຖບຂອງທ່ານ, ກະລຸນາເຂົ້າສູ່ລະບົບບັນຊີຂອງທ່ານ.
 firefoxview-tabpickup-signed-out-primarybutton = ເຂົ້າສູ່ລະບົບ
 firefoxview-tabpickup-syncing = ນັ່ງຖ້າແປັບໜຶ່ງໃນຂະນະທີ່ແຖບຂອງທ່ານ sync. ມັນໃຊ້ເວລາແປັບດຽວ​.
 firefoxview-mobile-promo-header = ຈັບແຖບຈາກໂທລະສັບ ຫຼືແທັບເລັດຂອງທ່ານ
@@ -109,6 +111,8 @@ firefoxview-overview-header = ຜົນການຊອກຫາຫຼ້າສ�
 firefoxview-history-nav = ປະຫວັດການໃຊ້ງານ
     .title = ປະຫວັດການໃຊ້ງານ
 firefoxview-history-header = ປະຫວັດການໃຊ້ງານ
+firefoxview-history-context-delete = ລຶບອອກຈາກປະຫວັດການນຳໃຊ້
+    .accesskey = D
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -124,6 +128,8 @@ firefoxview-recently-closed-header = ແທັບທີ່ຫາກໍ່ປິ�
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = ແຖບຈາກອຸປະກອນອື່ນໆ
+    .title = ແຖບຈາກອຸປະກອນອື່ນໆ
 firefoxview-synced-tabs-header = ແຖບຈາກອຸປະກອນອື່ນໆ
 
 ##

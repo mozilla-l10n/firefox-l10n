@@ -595,6 +595,21 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = ການຄົ້ນຫາຫຼ້າສຸດ
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = ກຳລັງເປັນທີ່ນິຍົມໃນ { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = ຢ່າສະແດງການຄົ້ນຫາທີ່ມີກຳລັງມາແຮງ
+    .accesskey = D
+urlbar-result-menu-trending-why =
+    .label = ເປັນຫຍັງຂ້ອຍຈຶ່ງເຫັນອັນນີ້?
+    .accesskey = W
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-trending-dismissal-acknowledgment = ຂໍ​ຂອບ​ໃຈ​ສໍາ​ລັບ​ຄໍາ​ຄຶດ​ຄໍາ​ເຫັນ​ຂອງ​ທ່ານ​. ທ່ານຈະບໍ່ເຫັນຄົ້ນຫາທີ່ກຳລັງມາແຮງອີກຕໍ່ໄປ.
 
 ## Reader View toolbar buttons
 
@@ -613,6 +628,7 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = ເປີດຮູບໃນຮູບ ({ $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = ປິດຮູບໃນຮູບ ({ $shortcut })
+picture-in-picture-panel-header = ຮູບພາບໃນຮູບ
 picture-in-picture-enable-toggle =
     .label = ຢືນຢັນການເປີດໃຊ້ງານ
 
