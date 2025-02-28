@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-safeb-blocked-phishing-page-title = Sito sequente fraudulente
+safeb-blocked-phishing-page-title = Iste sito es fraudulente
 safeb-blocked-malware-page-title = Visitar iste sito web pote nocer a tu computator
 safeb-blocked-unwanted-page-title = Iste sito pote continer programmas nocive
 safeb-blocked-harmful-page-title = Iste sito pote continer malware
