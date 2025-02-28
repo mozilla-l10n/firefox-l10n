@@ -378,6 +378,7 @@ newtab-wallpaper-hot-air-balloons = Gündüz vakti çeşitli renklerde sıcak ha
 newtab-wallpaper-starry-canyon = Mavi yıldızlı gece
 newtab-wallpaper-suspension-bridge = Gündüz vakti gri asma köprü fotoğrafı
 newtab-wallpaper-sand-dunes = Beyaz kumullar
+newtab-wallpaper-palm-trees = Tan vaktinde hindistancevizi ağaçlarının silueti
 newtab-wallpaper-forest-trees = Sisle kaplı ağaçlar
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
@@ -396,9 +397,14 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Göksel
 newtab-wallpaper-celestial-lunar-eclipse = Ay tutulması
 newtab-wallpaper-celestial-earth-night = Alçak Dünya yörüngesinden gece fotoğrafı
 newtab-wallpaper-celestial-starry-sky = Yıldızlı gökyüzü
+newtab-wallpaper-celestial-black-hole = Karadelik galaksisi illüstrasyonu
 newtab-wallpaper-celestial-river = Nehrin uydu görüntüsü
 
 ## New Tab Weather
@@ -506,9 +512,11 @@ newtab-section-block-topic-button = { $topic } konusunu engelle
 newtab-section-mangage-topics-title = Konular
 newtab-section-manage-topics-button-v2 =
     .label = Konuları yönet
+newtab-section-mangage-topics-followed-topics = Takip ediliyor
 newtab-section-mangage-topics-button =
     .label = Takip edilen ve engellenen konular
 newtab-section-mangage-topics-followed-topics-subtitle = Takip edilen konular
 newtab-section-mangage-topics-followed-topics-empty-state = Henüz hiçbir konuyu takip etmiyorsunuz.
+newtab-section-mangage-topics-blocked-topics = Engellendi
 newtab-section-mangage-topics-blocked-topics-subtitle = Engellenen konular
 newtab-section-mangage-topics-blocked-topics-empty-state = Henüz hiçbir konuyu engellemediniz.
