@@ -118,3 +118,7 @@ star-avatar-alt =
 
 book-avatar = Buku
 briefcase-avatar = Tas Kerja
+flower-avatar = Bunga
+heart-avatar = Hati
+shopping-avatar = Keranjang belanja
+star-avatar = Bintang
