@@ -77,12 +77,28 @@ sidebar-button-callout-vertical-tabs = Per visualizzare le schede, seleziona il 
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = Sei sommerso dalle schede?
+vertical-tabs-callout-1-subtitle = Prova il nuovo layout con le schede verticali per passare in rassegna velocemente l’elenco delle schede. Chi l'ha provato segnala che la disposizione verticale li aiuta a sentirsi più organizzati. Puoi cambiare in qualsiasi momento.
+vertical-tabs-callout-1-cta-button = Prova le schede verticali
+vertical-tabs-callout-2-cta-button = Prova adesso
+vertical-tabs-callout-2-title = Tieni sempre molte schede aperte? Prova le schede verticali.
+vertical-tabs-callout-2-subtitle = Questo layout ti permette di esaminare più velocemente l’elenco delle schede aperte. Inoltre, puoi regolare la larghezza per mostrare più o meno testo dai titoli delle schede.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = Perdi traccia delle schede più importanti?
+sidebar-pins-callout-subtitle = Prova ad appuntarle, in questo modo rimarranno sempre in cima all’elenco delle schede. Fai clic con il pulsante destro del mouse su una scheda, quindi scegli Appunta scheda.
+sidebar-pins-callout-cta-button = Appunta scheda
 
 ## Sidebar Onboarding Strings
 
+# The "=" here stands for "equals" to convey the meaning "Sidebar is your spot for tools and tabs"
+sidebar-customization-callout-1-title = Barra laterale = il posto ideale per strumenti e schede
+sidebar-customization-callout-1-subtitle = La barra laterale di { -brand-product-name } ti consente di accedere rapidamente alla cronologia di navigazione, alle schede di altri dispositivi e a un chatbot con intelligenza artificiale, il tutto senza uscire dalla schermata principale.
+sidebar-customization-callout-callout-button = Personalizza barra laterale
+sidebar-customization-callout-dismiss-button = Nascondi barra laterale
+sidebar-customization-callout-2-title = Personalizza la barra laterale di { -brand-product-name }
+sidebar-customization-callout-2-subtitle = Aggiungi e rimuovi strumenti. Posiziona le schede nella barra laterale. Prova un chatbot con intelligenza artificiale. Sta a te decidere come personalizzare la barra laterale.
 
 ## Sidebar Callout Survey Strings
 

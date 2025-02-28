@@ -1127,6 +1127,13 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Barra degli indirizzi
 addressbar-suggest = Nella barra degli indirizzi visualizza suggerimenti da:
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Barra degli indirizzi — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Scegli il tipo di suggerimenti da visualizzare nella barra degli indirizzi.
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Ulteriori informazioni
 addressbar-locbar-history-option =
     .label = Cronologia di navigazione
     .accesskey = n
@@ -1159,7 +1166,18 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Mostra suggerimenti di ricerca di tendenza
     .accesskey = m
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = Suggerimenti da { -brand-short-name }
+addressbar-locbar-suggest-nonsponsored-desc = Ricevi suggerimenti dal Web relativi alla tua ricerca.
+addressbar-locbar-suggest-sponsored-option =
+    .label = Suggerimenti dagli sponsor
+addressbar-locbar-suggest-sponsored-desc = Supporta { -brand-short-name } con occasionali suggerimenti sponsorizzati
 addressbar-quickactions-learn-more = Ulteriori informazioni
+addressbar-dismissed-suggestions-label = Suggerimenti ignorati
+addressbar-restore-dismissed-suggestions-description = Ripristina i suggerimenti ignorati dagli sponsor e da { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button =
+    .label = Ripristina
 
 ## Privacy Section - Content Blocking
 
