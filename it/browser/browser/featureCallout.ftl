@@ -75,6 +75,15 @@ sidebar-button-callout-title = Mostra i titoli delle schede nella barra laterale
 sidebar-button-callout-subtitle = Utilizza il pulsante della barra laterale per espanderla e visualizzare i titoli delle schede.
 sidebar-button-callout-vertical-tabs = Per visualizzare le schede, seleziona il pulsante della barra laterale nella barra degli strumenti.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Aiutaci a migliorare { -brand-short-name }
@@ -116,4 +125,3 @@ actions-callout-title = Completa le attività più comuni o accedi alle impostaz
 # "clear" - quickactions-cmd-clearhistory
 # When localizing, ensure the translations match to ensure the action button appears as expected.
 actions-callout-subtitle = Prova a digitare un’azione come “stampa” per stampare una pagina o “cancella” per cancellare la cronologia.
-
