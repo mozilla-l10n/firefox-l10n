@@ -79,6 +79,10 @@ sidebar-context-menu-copy-link =
     .label = Emonguatia juajuha
 sidebar-context-menu-hide-sidebar =
     .label = Eñomi tenda yke
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Emyandy tendayke oñembo’ýva
+sidebar-context-menu-customize-sidebar =
+    .label = Embohéra pe tenda yke
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
