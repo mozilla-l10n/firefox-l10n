@@ -87,6 +87,10 @@ sidebar-context-menu-copy-link =
     .label = Kopírovat odkaz
 sidebar-context-menu-hide-sidebar =
     .label = Skrýt postranní lištu
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Zapnout svislé panely
+sidebar-context-menu-customize-sidebar =
+    .label = Přizpůsobit postranní lištu
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =

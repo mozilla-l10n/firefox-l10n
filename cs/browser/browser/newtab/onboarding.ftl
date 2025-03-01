@@ -630,6 +630,10 @@ onboarding-checklist-sign-up = Zaregistrujte se nebo se přihlaste ke svému ú�
 tab-groups-onboarding-feature-callout-title = Vyzkoušejte skupiny karet, abyste měli méně nepořádku a více se soustředili.
 tab-groups-onboarding-feature-callout-subtitle = Vytvořte si pořádek přesunutím jednoho panelu na druhý, čímž vytvoříte svoji první skupinu.
 tab-groups-onboarding-create-group-title-2 = Kdykoli zde najdete své skupiny panelů.
+tab-groups-onboarding-create-group-no-alltabs-button-title = Skupiny najdete vyhledáním v adresním řádku.
+tab-groups-onboarding-saved-groups-title-2 = Když skupinu panelů zavřete, můžete ji zde kdykoli znovu otevřít.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Uzavřené skupiny najdete vyhledáním v adresním řádku.
+tab-groups-onboarding-session-restore-title = Zde můžete kdykoli znovu otevřít skupiny panelů.
 tab-groups-onboarding-saved-groups-title = Pokud skupinu panelů zavřete, můžete ji zde kdykoli znovu otevřít.
 tab-groups-onboarding-dismiss = OK
 
