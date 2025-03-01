@@ -494,6 +494,7 @@ newtab-section-confirm-block-section-p1 = ¿Ejokose añetehápepa ko tenda’i?
 newtab-section-block-section-button = Ejoko ko tenda’i
 newtab-section-cancel-button = Ani ko’ág̃a
 newtab-section-confirm-block-topic-p1 = ¿Ejokose añetehápe ko téma?
+newtab-section-confirm-block-topic-p2 = Umi téma jokopyre nosẽmo’ãvéima canal-kuérape.
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Ejoko { $topic }

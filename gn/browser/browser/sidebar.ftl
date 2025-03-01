@@ -77,6 +77,8 @@ sidebar-context-menu-bookmark-tab =
     .label = Embojuaju kuatiarogue techaukaháre…
 sidebar-context-menu-copy-link =
     .label = Emonguatia juajuha
+sidebar-context-menu-hide-sidebar =
+    .label = Eñomi tenda yke
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =

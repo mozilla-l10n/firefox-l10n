@@ -438,12 +438,16 @@ onboarding-checklist-sign-up = Eike térã eñemboheraguapy ne mba’etépe
 
 tab-groups-onboarding-feature-callout-title = Eiporu tendayke aty eime porãve ha epayve hag̃ua
 tab-groups-onboarding-feature-callout-subtitle = Eñeorganisa emoĩvo peteĩ tendayke ambuéva ári emoheñói hag̃ua aty peteĩha.
+tab-groups-onboarding-create-group-title-2 = Ag̃aite ejuhukuaátama ne rendayke aty ko’ápe.
+tab-groups-onboarding-saved-groups-title-2 = Emboty vove tendayke aty, embojurujakuaa jey ko’ápe ejapose vove.
+tab-groups-onboarding-saved-groups-title = Embotýramo tendayke aty, embojurujakuaa jey ko’ápe ejapose vove.
 tab-groups-onboarding-dismiss = MONEĨ
 
 ## Multi Profiles feature onboarding messages
 
 multi-profile-spotlight-title = Emomaitei { -brand-product-name } mba’etekuéra
 multi-profile-spotlight-cta = Emoheñói mba’ete
+multi-profile-callout-title = Emoheñói heta mba’ete emba’apo ha ñembosarairã
 multi-profile-callout-cta = Emoheñói mba’ete
 
 ## Desktop to Mobile Adoption feature callout strings
