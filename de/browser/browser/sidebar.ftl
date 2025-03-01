@@ -77,6 +77,12 @@ sidebar-context-menu-bookmark-tab =
     .label = Tab als Lesezeichen hinzufügen…
 sidebar-context-menu-copy-link =
     .label = Link kopieren
+sidebar-context-menu-hide-sidebar =
+    .label = Sidebar ausblenden
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Vertikale Tabs aktivieren
+sidebar-context-menu-customize-sidebar =
+    .label = Sidebar anpassen
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =

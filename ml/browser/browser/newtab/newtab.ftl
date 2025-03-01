@@ -289,24 +289,36 @@ newtab-custom-close-button = അടയ്ക്കുക
 
 newtab-wallpaper-title = ചുവർകടലാസുകൾ
 newtab-wallpaper-reset = തനിമട്ടിലാക്കുക
+newtab-wallpaper-upload-image = ചിത്രം കയറ്റുവയ്ക്കുക
+newtab-wallpaper-custom-color = ഒരു നിറം തെരഞ്ഞെടുക്കുക
+newtab-wallpaper-light-red-panda = ചുമന്ന കരടിപ്പൂച്ച
+newtab-wallpaper-light-mountain = വെളുത്ത മല
 
 ## Solid Colors
 
 newtab-wallpaper-blue = നീല
 newtab-wallpaper-light-blue = ഇളം നീല
+newtab-wallpaper-light-purple = ഇളം പർപ്പിൾ
 newtab-wallpaper-light-green = ഇളം പച്ച
 newtab-wallpaper-green = പച്ച
 newtab-wallpaper-beige = ഇളം തവിട്ടുനിറം
 newtab-wallpaper-yellow = മഞ്ഞ
 newtab-wallpaper-orange = ഓറഞ്ച്
 newtab-wallpaper-pink = ഇളം ചുവപ്പു്
+newtab-wallpaper-light-pink = ഇളം ചുവപ്പു്
 newtab-wallpaper-red = ചുവപ്പ്
 newtab-wallpaper-dark-blue = കടും നീല
+newtab-wallpaper-dark-purple = കടും പൎപ്പിൾ
 newtab-wallpaper-dark-green = കടും പച്ച
 newtab-wallpaper-brown = തവിട്ടുനിറം
 
 ## Abstract
 
+newtab-wallpaper-category-title-abstract = അമൂർത്തമായ
+newtab-wallpaper-abstract-green = പച്ച ആകാരങ്ങൾ
+newtab-wallpaper-abstract-blue = നീല ആകാരങ്ങൾ
+newtab-wallpaper-abstract-purple = പുൎപ്പിൾ ആകാരങ്ങൾ
+newtab-wallpaper-abstract-orange = ഓറഞ്ചു് ആകാരങ്ങൾ
 
 ## Celestial
 
