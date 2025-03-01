@@ -104,7 +104,10 @@ sidebar-genai-survey-satisfaction-question = Seberapa puaskah Anda dengan akses 
 sidebar-genai-survey-productive-question =
     Sejauh mana Anda setuju atau tidak setuju dengan pernyataan ini:<br/>
     “Bot obrolan AI di bilah samping membantu saya menjadi lebih produktif”?
+unified-search-callout-title = Beralih di antara mesin pencari
+unified-search-callout-subtitle = Pilih yang terbaik untuk pencarian spesifik Anda.
 unified-search-callout-primary-label = Selanjutnya
+unified-search-callout-secondary-label = Tutup
 unified-search-engines-callout-title = Cari dengan pintasan
 unified-search-engines-callout-subtitle = Ketik “@” diikuti dengan kata kunci untuk mencari riwayat, markah, tab, atau dengan mesin pencari lainnya.
 unified-search-engines-callout-primary-label = Paham
