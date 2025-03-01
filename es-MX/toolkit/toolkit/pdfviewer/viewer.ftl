@@ -516,18 +516,36 @@ pdfjs-editor-undo-bar-close-button-label = Cerrar
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-title = Agregar una firma
 
 ## Tab names
 
+# Type is a verb (you can type your name as signature)
+pdfjs-editor-add-signature-type-button = Tipo
+    .title = Tipo
+# Draw is a verb (you can draw your signature)
+pdfjs-editor-add-signature-draw-button = Dibujar
+    .title = Dibujar
+pdfjs-editor-add-signature-image-button = Imagen
+    .title = Imagen
 
 ## Tab panels
 
+pdfjs-editor-add-signature-type-input =
+    .aria-label = Escribe tu firma
+    .placeholder = Escribe tu firma
+pdfjs-editor-add-signature-draw-placeholder = Dibuja tu firma
+pdfjs-editor-add-signature-draw-thickness-range-label = Grossor
 
 ## Controls
 
+pdfjs-editor-add-signature-description-default-when-drawing = Firma
+pdfjs-editor-add-signature-error-close-button = Cerrar
 
 ## Dialog buttons
 
+pdfjs-editor-add-signature-cancel-button = Cancelar
+pdfjs-editor-add-signature-add-button = Agregar
 
 ## Main menu for adding/removing signatures
 

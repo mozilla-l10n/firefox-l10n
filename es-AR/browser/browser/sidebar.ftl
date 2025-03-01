@@ -77,6 +77,12 @@ sidebar-context-menu-bookmark-tab =
     .label = Agregar pestaña a marcadores…
 sidebar-context-menu-copy-link =
     .label = Copiar enlace
+sidebar-context-menu-hide-sidebar =
+    .label = Ocultar barra lateral
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Habilitar pestañas verticales
+sidebar-context-menu-customize-sidebar =
+    .label = Personalizar barra lateral
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =

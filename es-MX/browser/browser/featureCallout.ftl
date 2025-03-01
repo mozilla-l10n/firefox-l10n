@@ -103,3 +103,11 @@ sidebar-genai-survey-satisfaction-question = ¿En qué medida estás satisfecho 
 sidebar-genai-survey-productive-question =
     ¿En qué medida estás de acuerdo o en desacuerdo con esta afirmación:<br/>
     “El chatbot de IA de la barra lateral de me ayuda a ser más productivo”?
+unified-search-callout-title = Cambiar entre motores de búsqueda
+unified-search-callout-subtitle = Elija lo que funcione mejor para su búsqueda específica.
+unified-search-callout-primary-label = Siguiente
+unified-search-callout-secondary-label = Descartar
+unified-search-engines-callout-title = Buscar con un atajo
+unified-search-engines-callout-subtitle = Escriba “@” seguido de una palabra clave para buscar en su historial, marcadores, pestañas o con otro motor de búsqueda.
+unified-search-engines-callout-primary-label = Lo tengo
+actions-callout-title = Realice tareas comunes o acceda a configuraciones básicas

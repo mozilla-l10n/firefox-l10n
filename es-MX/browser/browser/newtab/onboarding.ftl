@@ -445,6 +445,8 @@ onboarding-checklist-sign-up = Regístrate o inicia sesión en tu cuenta
 
 tab-groups-onboarding-feature-callout-title = Prueba los grupos de pestañas para lograr menos desorden y más concentración
 tab-groups-onboarding-feature-callout-subtitle = Organízate arrastrando una pestaña encima de otra para crear tu primer grupo.
+tab-groups-onboarding-saved-groups-title = Si cierra un grupo de pestañas, puede volver a abrirlas aquí en cualquier momento.
+tab-groups-onboarding-dismiss = Aceptar
 
 ## Multi Profiles feature onboarding messages
 
@@ -457,3 +459,4 @@ multi-profile-callout-cta = Crear un perfil
 
 ## Desktop to Mobile Adoption feature callout strings
 
+dismiss-button-label = Descartar

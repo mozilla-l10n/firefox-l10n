@@ -8,6 +8,7 @@ crashreporter-crashed-and-restore = { -brand-short-name } tuvo un problema y se 
 crashreporter-plea = Ayúdanos a diagnosticar el problema para poder repararlo enviando el reporte de fallos generado.
 crashreporter-information = Esta aplicación se ejecuta después de un fallo para informar del problema a { -vendor-short-name }. No debe ejecutarse directamente.
 crashreporter-error = { -brand-short-name } tuvo un problema y se cerró inesperadamente. Desafortunadamente, el reportero de fallos no puede enviar un informe para este fallo.
+crashreporter-error-details-header = Detalles:
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Detalles: { $details }
 crashreporter-no-run-message = Esta aplicación se está ejecutando después de un fallo para reportarlo con su creador. No deberías ejecutarlo directamente.

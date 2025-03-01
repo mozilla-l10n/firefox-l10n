@@ -74,6 +74,13 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = Restaurar sonido en pestaña
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = Silenciar pestaña
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = Reproducir pestaña
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -193,6 +200,18 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Restaurar sonido en pestaña
 tabbrowser-manager-close-tab =
     .tooltiptext = Cerrar pestaña
+# This is for tab groups that have been "saved and closed" (see tab-group-editor-action-save). It does
+# not include "deleted" tab groups (see tab-group-editor-action-delete).
+tabbrowser-manager-closed-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — Cerrado
+tabbrowser-manager-current-window-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — Ventana actual
+# "Show more" is for showing all open groups from other windows, as well as saved groups. Initially,
+# we only show up to six of these groups.
+tabbrowser-manager-tab-groups-show-more =
+    .label = Mostrar más
 
 ## Tab Groups
 
@@ -204,6 +223,26 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Cancelar
     .accesskey = C
+tab-group-editor-color-selector =
+    .aria-label = Color del grupo de pestañas
+tab-group-editor-color-selector2-blue = Azul
+    .title = Azul
+tab-group-editor-color-selector2-purple = Morado
+    .title = Morado
+tab-group-editor-color-selector2-cyan = Cian
+    .title = Cian
+tab-group-editor-color-selector2-orange = Naranja
+    .title = Naranja
+tab-group-editor-color-selector2-yellow = Amarillo
+    .title = Amarillo
+tab-group-editor-color-selector2-pink = Rosado
+    .title = Rosado
+tab-group-editor-color-selector2-green = Verde
+    .title = Verde
+tab-group-editor-color-selector2-gray = Gris
+    .title = Gris
+tab-group-editor-color-selector2-red = Rojo
+    .title = Rojo
 tab-group-menu-header = Grupos de pestañas
 tab-context-unnamed-group =
     .label = Grupo sin nombre
@@ -256,3 +295,25 @@ tab-context-ungroup-tab =
 
 ## Open/saved tab group context menu
 
+# For a tab group open in any window, clicking this will create a new
+# window and move this tab group to that new window.
+tab-group-context-move-to-new-window =
+    .label = Mover grupo a una nueva ventana
+# For a tab group open in a different window from the one that the
+# user is using to access the tab group menu, move that tab group into the
+# user's current window.
+tab-group-context-move-to-this-window =
+    .label = Mover de grupo a esta ventana
+# For a tab group that is open in any window, close the tab group and
+# do not save it. For a tab group that is closed but saved by the user, clicking
+# this will forget the saved tab group.
+tab-group-context-delete =
+    .label = Eliminar grupo
+# For a saved tab group that is not open in any window, open the tab group
+# in the user's current window.
+tab-group-context-open-saved-group-in-this-window =
+    .label = Abrir grupo en esta ventana
+# For a saved tab group that is not open in any window, create a new window and
+# open the tab group in that window.
+tab-group-context-open-saved-group-in-new-window =
+    .label = Abrir grupo en una nueva ventana

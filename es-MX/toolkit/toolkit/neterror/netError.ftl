@@ -12,6 +12,7 @@ neterror-blocked-by-policy-page-title = Página bloqueada
 neterror-captive-portal-page-title = Iniciar sesión en la red
 neterror-dns-not-found-title = Servidor no encontrado
 neterror-malformed-uri-page-title = URL inválida
+general-body-title = Ten cuidado. Algo no parece estar bien.
 
 ## Error page actions
 
@@ -43,6 +44,7 @@ neterror-load-error-connection = Si no puedes cargar ninguna página, verifica l
 neterror-load-error-firewall = Si la red o tu computadora están protegidas por un firewall o proxy, asegúrate que { -brand-short-name } pueda acceder a internet.
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Si se está intentando cargar una página en la red local, verifica que se hayan otorgado permisos de red local a { -brand-short-name } en la configuración de Privacidad y seguridad de macOS.
+neterror-http-error-page = Verifique que haya escrito correctamente la dirección del sitio web.
 neterror-captive-portal = Hay que iniciar sesión en esta red antes de poder acceder a Internet.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -151,6 +153,9 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Si no estás familiarizado 
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> tiene una política de seguridad llamada HTTP Strict transporte Security (HSTS), que significa que { -brand-short-name } solo puede conectarse a él con seguridad. No puedes agregar una excepción para visitar este sitio.
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = Probablemente nada, ya que es posible que haya un problema con el sitio.
+certerror-blocked-by-corp-headers-description = A veces, los sitios web configuran protecciones para sí mismos y para personas como tú contra interacciones no deseadas con otros sitios.
+certerror-coop-learn-more = Obtén más información sobre las políticas de apertura de origen cruzado (COOP)
+certerror-coep-learn-more = Obtén más información sobre las políticas de integración de origen cruzado (COEP)
 # Variables:
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").

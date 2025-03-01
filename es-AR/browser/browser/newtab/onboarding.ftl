@@ -446,6 +446,11 @@ onboarding-checklist-sign-up = Registrarse o iniciar sesión en su cuenta
 
 tab-groups-onboarding-feature-callout-title = Pruebe los grupos de pestañas para tener menos desorden y más atención
 tab-groups-onboarding-feature-callout-subtitle = Organícese arrastrando una pestaña encima de otra para crear el primer grupo.
+tab-groups-onboarding-create-group-title-2 = En cualquier momento podrá encontrar acá sus grupos de pestañas.
+tab-groups-onboarding-create-group-no-alltabs-button-title = Encuentre sus grupos buscándolos en la barra de direcciones.
+tab-groups-onboarding-saved-groups-title-2 = Cuando se cierre un grupo de pestañas, se puede volver a abrir acá en cualquier momento.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Encuentre sus grupos cerrados buscándolos en la barra de direcciones.
+tab-groups-onboarding-session-restore-title = Vuelva a abrir sus grupos de pestañas acá en cualquier momento.
 tab-groups-onboarding-saved-groups-title = Si cierra un grupo de pestañas, se puede volver a abrir acá en cualquier momento.
 tab-groups-onboarding-dismiss = Aceptar
 

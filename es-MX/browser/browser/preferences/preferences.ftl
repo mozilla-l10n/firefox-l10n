@@ -225,6 +225,15 @@ containers-remove-cancel-button = No eliminar este marcador
 settings-tabs-show-image-in-preview =
     .label = Mostrar una imagen de vista previa cuando pases el cursor sobre una pestaña
     .accessKey = h
+browser-layout-header = Disposición del navegador
+browser-layout-horizontal-tabs =
+    .label = Pestañas horizontales
+browser-layout-horizontal-tabs-desc = Mostrar en la parte superior del navegador
+browser-layout-vertical-tabs =
+    .label = Pestañas verticales
+browser-layout-vertical-tabs-desc = Mostrar en el lateral, en la barra lateral
+browser-layout-show-sidebar =
+    .label = Mostrar barra lateral
 
 ## General Section - Language & Appearance
 
@@ -1307,17 +1316,34 @@ permissions-addon-exceptions =
 collection-header = Recolección de datos y uso de { -brand-short-name }
 collection-header2 = Recolección de datos y uso de { -brand-short-name }
     .searchkeywords = telemetría
+preferences-collection-privacy-notice = Ver política de privacidad
 collection-description = Nos esforzamos en proporcionar opciones y recolectar solamente lo que necesitamos para proveer y mejorar { -brand-short-name } para todo el mundo. Siempre pedimos permiso antes de recibir información personal.
 collection-privacy-notice = Política de privacidad
 collection-health-report-telemetry-disabled = Ya no permites que { -vendor-short-name } capture datos técnicos y de interacción. Todos los datos anteriores se eliminarán en 30 días.
 collection-health-report-telemetry-disabled-link = Saber más
+collection-usage-ping =
+    .label = Enviar ping de uso diario a { -vendor-short-name }
+    .accesskey = u
+collection-usage-ping-description = Esto ayuda a { -vendor-short-name } a estimar los usuarios activos.
 collection-health-report =
     .label = Permitir que { -brand-short-name } envíe información técnica y de interacción a { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Saber más
+collection-studies2 =
+    .label = Instalar y ejecutar estudios
+collection-studies-description = Prueba funcionalidades e ideas antes del lanzamiento para todos.
 collection-studies =
     .label = Permitir { -brand-short-name } para instalar y ejecutar estudios
 collection-studies-link = Ver estudios de { -brand-short-name }
+addon-recommendations2 =
+    .label = Permitir recomendaciones de extensiones personalizadas
+addon-recommendations-description = Obtén recomendaciones de extensiones para mejorar tu experiencia de navegación.
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled2 = El reporte de datos está deshabilitado para esta configuración de compilación.
+collection-backlogged-crash-reports2 =
+    .label = Enviar automáticamente informes de fallos
+    .accesskey = c
 addon-recommendations =
     .label = Permitir que { -brand-short-name } haga recomendaciones personalizadas de extensiones
 addon-recommendations-link = Saber más

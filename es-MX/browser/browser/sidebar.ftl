@@ -112,6 +112,8 @@ sidebar-menu-close-bookmarks-tooltip = Cerrar marcadores ({ $shortcut })
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
+sidebar-menu-open-ai-chatbot-provider-tooltip = Abrir { $provider } ({ $shortcut })
+sidebar-menu-close-ai-chatbot-provider-tooltip = Cerrar { $provider } ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 
@@ -121,6 +123,8 @@ sidebar-menu-history-header =
     .heading = Historial
 sidebar-menu-syncedtabs-header =
     .heading = Pestañas de otros dispositivos
+sidebar-menu-bookmarks-header =
+    .heading = Marcadores
 sidebar-panel-header-close-button =
     .tooltiptext = Cerrar
 
