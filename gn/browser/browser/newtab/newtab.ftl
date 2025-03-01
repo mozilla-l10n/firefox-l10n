@@ -360,6 +360,8 @@ newtab-wallpaper-abstract-orange = Ñarã rehegua
 newtab-wallpaper-gradient-orange = Oguejýva narãgui pytãngýpe
 newtab-wallpaper-abstract-blue-purple = Hovy ha pytãũva rehegua
 newtab-wallpaper-abstract-white-curves = Morotĩ mba’ekarẽ hi’ãva ndive
+newtab-wallpaper-abstract-blue-purple-waves = Hovy ha pytãũva rehegua
+newtab-wallpaper-abstract-black-waves = Hũ ikarẽkarẽva
 
 ## Celestial
 
@@ -491,6 +493,7 @@ newtab-section-unblock-button = Mbojera
 newtab-section-confirm-block-section-p1 = ¿Ejokose añetehápepa ko tenda’i?
 newtab-section-block-section-button = Ejoko ko tenda’i
 newtab-section-cancel-button = Ani ko’ág̃a
+newtab-section-confirm-block-topic-p1 = ¿Ejokose añetehápe ko téma?
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Ejoko { $topic }

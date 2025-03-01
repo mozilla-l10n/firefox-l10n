@@ -18,7 +18,13 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = Embotypaite tendayke ikõiva
 all-tabs-menu-synced-tabs =
     .label = Tendaykekuéra ambue mba’e’okagua
+# "Recent" refers to tab groups being sorted in recently used order. We show up
+# to five of these in this section.
+all-tabs-menu-recent-tab-groups-header = Tendayke aty ramovegua
 all-tabs-menu-current-window-header = Ovetã ag̃agua
 # This opens the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-show-all =
     .label = Techaukapaite
+# This is header for the sub view listing _all_ open and saved tab groups.
+all-tabs-menu-tab-groups-sub-view =
+    .title = Tendayke aty
