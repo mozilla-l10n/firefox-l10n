@@ -448,6 +448,7 @@ tab-groups-onboarding-create-group-title-2 = Sekme gruplarınıza istediğiniz z
 tab-groups-onboarding-create-group-no-alltabs-button-title = Gruplarınızı adres çubuğundan arayarak bulabilirsiniz.
 tab-groups-onboarding-saved-groups-title-2 = Bir sekme grubunu kapatırsanız istediğiniz zaman buradan yeniden açabilirsiniz.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Kapattığınız grupları adres çubuğundan arayarak bulabilirsiniz.
+tab-groups-onboarding-session-restore-title = Sekme gruplarınızı istediğiniz zaman buradan yeniden açabilirsiniz.
 tab-groups-onboarding-saved-groups-title = Bir sekme grubunu kapatırsanız istediğiniz zaman buradan yeniden açabilirsiniz.
 tab-groups-onboarding-dismiss = Tamam
 

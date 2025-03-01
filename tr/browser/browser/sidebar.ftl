@@ -77,6 +77,12 @@ sidebar-context-menu-bookmark-tab =
     .label = Sekmeyi yer imlerine ekle…
 sidebar-context-menu-copy-link =
     .label = Bağlantıyı kopyala
+sidebar-context-menu-hide-sidebar =
+    .label = Kenar çubuğunu gizle
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Dikey sekmeleri aç
+sidebar-context-menu-customize-sidebar =
+    .label = Kenar çubuğunu özelleştir
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
