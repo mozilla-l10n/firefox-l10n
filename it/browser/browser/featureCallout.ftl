@@ -78,7 +78,7 @@ sidebar-button-callout-vertical-tabs = Per visualizzare le schede, seleziona il 
 ## Sidebar Vertical Tabs Strings
 
 vertical-tabs-callout-1-title = Sei sommerso dalle schede?
-vertical-tabs-callout-1-subtitle = Prova il nuovo layout con le schede verticali per passare in rassegna velocemente l’elenco delle schede. Chi l'ha provato segnala che la disposizione verticale li aiuta a sentirsi più organizzati. Puoi cambiare in qualsiasi momento.
+vertical-tabs-callout-1-subtitle = Prova il nuovo layout con le schede verticali per passare in rassegna velocemente l’elenco delle schede. Chi l’ha provato segnala che la disposizione verticale li aiuta a sentirsi più organizzati. Puoi cambiare in qualsiasi momento.
 vertical-tabs-callout-1-cta-button = Prova le schede verticali
 vertical-tabs-callout-2-cta-button = Prova adesso
 vertical-tabs-callout-2-title = Tieni sempre molte schede aperte? Prova le schede verticali.
