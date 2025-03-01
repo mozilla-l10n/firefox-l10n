@@ -45,6 +45,7 @@ about-logging-preset-media-playback-description = Moduly protokolů pro diagnost
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Moduly protokolů pro diagnostiku problémů s WebRTC.
 about-logging-preset-webcodecs-label = WebCodecs
+about-logging-preset-webcodecs-description = Moduly protokolu pro diagnostiku problémů s dekodéry a enkodéry zvuku/videa a dekodéry obrazu WebCodecs
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Moduly protokolů pro diagnostiku problémů s WebGPU.
 about-logging-preset-gfx-label = Grafika
