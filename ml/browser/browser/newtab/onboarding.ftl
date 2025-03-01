@@ -53,7 +53,7 @@ mr1-onboarding-theme-secondary-button-label = ഇപ്പോഴല്ല
 newtab-wallpaper-onboarding-primary-button-label = ചുവൎക്കടലാസു് ഇടുക
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = വ്യവസ്ഥ അലങ്കാരം
-mr1-onboarding-theme-label-light = ഇളം
+mr1-onboarding-theme-label-light = തെളിച്ചം
 mr1-onboarding-theme-label-dark = ഇരുണ്ടത്
 onboarding-theme-primary-button-label = കഴിഞ്ഞു
 

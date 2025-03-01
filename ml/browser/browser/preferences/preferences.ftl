@@ -162,7 +162,7 @@ browser-layout-show-sidebar =
 
 language-and-appearance-header = ഭാഷയും രൂപവും
 preferences-web-appearance-choice-auto = തന്നെതാനെ
-preferences-web-appearance-choice-light = ഇളം
+preferences-web-appearance-choice-light = തെളിച്ചം
 preferences-web-appearance-choice-dark = ഇരുണ്ടതു്
 preferences-web-appearance-choice-input-auto =
     .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }

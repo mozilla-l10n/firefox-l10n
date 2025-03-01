@@ -7,10 +7,10 @@
 
 # "Auto" is short for automatic. It can be localized without limitations.
 extension-default-theme-name-auto = വ്യവസ്ഥ അലങ്കാരം - തന്നെതാനെ
-extension-firefox-compact-light-name = ഇളം
+extension-firefox-compact-light-name = തെളിച്ചം
 extension-firefox-compact-light-description = ഇളം നിറങ്ങളുള്ള ഒരു തീം.
 extension-firefox-compact-dark-name = ഇരുണ്ടത്
-extension-firefox-compact-dark-description = ഇരുണ്ട നിറങ്ങളുള്ള ഒരു തീം.
+extension-firefox-compact-dark-description = ഇരുണ്ട നിറങ്ങളുള്ള ഒരു ചായം.
 extension-firefox-alpenglow-name = ഫയർഫോക്സ് ആല്പെൻഗ്ലോ
 
 ## Colorway Themes
