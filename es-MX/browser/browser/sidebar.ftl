@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = Chatbot de IA
 menu-view-review-checker =
     .label = Verificador de Reseñas
+menu-view-contextual-password-manager =
+    .label = Contraseñas
 sidebar-options-menu-button =
     .title = Abrir menú
 
@@ -46,6 +48,18 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = Administrar los ajustes de { -brand-short-name }
 sidebar-vertical-tabs =
     .label = Pestañas verticales
+sidebar-settings =
+    .label = Ajustes de la barra lateral
+sidebar-hide-tabs-and-sidebar =
+    .label = Ocultar pestañas y barra lateral
+sidebar-show-on-the-right =
+    .label = Mover la barra lateral a la derecha
+sidebar-show-on-the-left =
+    .label = Mover la barra lateral hacia la izquierda
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Expandir la barra lateral al pasar el mouse
 
 ## Labels for sidebar context menu items
 
@@ -63,6 +77,12 @@ sidebar-context-menu-bookmark-tab =
     .label = Agregar pestaña a marcadores…
 sidebar-context-menu-copy-link =
     .label = Copiar enlace
+sidebar-context-menu-hide-sidebar =
+    .label = Ocultar barra lateral
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Activar pestañas verticales
+sidebar-context-menu-customize-sidebar =
+    .label = Personalizar la barra lateral
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
@@ -87,6 +107,8 @@ sidebar-menu-customize-label =
     .label = Personalizar barra lateral
 sidebar-menu-review-checker-label =
     .label = Verificador de Reseñas
+sidebar-menu-contextual-password-manager-label =
+    .label = Contraseñas
 
 ## Tooltips for sidebar menu items.
 
@@ -112,6 +134,7 @@ sidebar-menu-close-bookmarks-tooltip = Cerrar marcadores ({ $shortcut })
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
+sidebar-menu-open-ai-chatbot-tooltip-generic = Chatbot de IA abierta ({ $shortcut })
 sidebar-menu-open-ai-chatbot-provider-tooltip = Abrir { $provider } ({ $shortcut })
 sidebar-menu-close-ai-chatbot-provider-tooltip = Cerrar { $provider } ({ $shortcut })
 
@@ -125,6 +148,8 @@ sidebar-menu-syncedtabs-header =
     .heading = Pestañas de otros dispositivos
 sidebar-menu-bookmarks-header =
     .heading = Marcadores
+sidebar-menu-cpm-header =
+    .heading = Contraseñas
 sidebar-panel-header-close-button =
     .tooltiptext = Cerrar
 

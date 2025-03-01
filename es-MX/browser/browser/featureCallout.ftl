@@ -73,6 +73,7 @@ split-dismiss-button-manage-settings-option =
 
 sidebar-button-callout-title = Mostrar títulos de las pestañas en la barra lateral
 sidebar-button-callout-subtitle = Usa el botón de la barra lateral para expandirla y poder ver los títulos de las pestañas.
+sidebar-button-callout-vertical-tabs = Para mostrar tus pestañas, selecciona el botón de la barra lateral en la barra de herramientas.
 
 ## Sidebar Callout Survey Strings
 
@@ -111,3 +112,11 @@ unified-search-engines-callout-title = Buscar con un atajo
 unified-search-engines-callout-subtitle = Escriba “@” seguido de una palabra clave para buscar en su historial, marcadores, pestañas o con otro motor de búsqueda.
 unified-search-engines-callout-primary-label = Lo tengo
 actions-callout-title = Realice tareas comunes o acceda a configuraciones básicas
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearhistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = Intenta escribir una acción como “imprimir” para imprimir una página, o “borrar” para borrar tu historial.
