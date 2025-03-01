@@ -445,6 +445,11 @@ onboarding-checklist-sign-up = Registrirajte se ali se prijavite v svoj račun
 
 tab-groups-onboarding-feature-callout-title = Preizkusite skupine zavihkov za manj nereda in več osredotočenosti
 tab-groups-onboarding-feature-callout-subtitle = Organizirajte se: povlecite en zavihek na drugega in ustvarite svojo prvo skupino.
+tab-groups-onboarding-create-group-title-2 = Svoje skupine zavihkov lahko kadarkoli najdete tukaj.
+tab-groups-onboarding-create-group-no-alltabs-button-title = Svoje skupine zavihkov lahko najdete z iskanjem v naslovni vrstici.
+tab-groups-onboarding-saved-groups-title-2 = Skupine zavihkov, ki ste jih zaprli, lahko tukaj kadarkoli znova odprete.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Zaprte skupine lahko najdete z iskanjem v naslovni vrstici.
+tab-groups-onboarding-session-restore-title = Tukaj lahko ponovno odprete skupine zavihkov.
 tab-groups-onboarding-saved-groups-title = Skupine zavihkov, ki ste jih zaprli, lahko tukaj kadarkoli znova odprete.
 tab-groups-onboarding-dismiss = V redu
 
