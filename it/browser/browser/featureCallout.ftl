@@ -92,7 +92,6 @@ sidebar-pins-callout-cta-button = Appunta scheda
 
 ## Sidebar Onboarding Strings
 
-# The "=" here stands for "equals" to convey the meaning "Sidebar is your spot for tools and tabs"
 sidebar-customization-callout-1-title = Barra laterale = il posto ideale per strumenti e schede
 sidebar-customization-callout-1-subtitle = La barra laterale di { -brand-product-name } ti consente di accedere rapidamente alla cronologia di navigazione, alle schede di altri dispositivi e a un chatbot con intelligenza artificiale, il tutto senza uscire dalla schermata principale.
 sidebar-customization-callout-callout-button = Personalizza barra laterale
