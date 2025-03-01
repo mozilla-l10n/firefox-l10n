@@ -408,6 +408,7 @@ newtab-wallpaper-category-title-celestial = Mennyei
 newtab-wallpaper-celestial-lunar-eclipse = Holdfogyatkozás
 newtab-wallpaper-celestial-earth-night = Éjszakai fénykép alacsony Föld körüli pályáról
 newtab-wallpaper-celestial-starry-sky = Csillagos égbolt
+newtab-wallpaper-celestial-eclipse-time-lapse = Holdfogyatkozás gyorsítva
 newtab-wallpaper-celestial-black-hole = Illusztráció egy galaxisról egy fekete lyukkal
 newtab-wallpaper-celestial-river = Folyó műholdképe
 
