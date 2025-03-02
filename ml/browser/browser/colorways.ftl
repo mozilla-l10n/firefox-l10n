@@ -5,3 +5,6 @@
 
 ## Colorway names and descriptions
 
+visionary-colorway-name = കിനവുകാരൻ
+activist-colorway-name = പ്രവൎത്തകൻ
+dreamer-colorway-name = കിനാവുക്കാണി

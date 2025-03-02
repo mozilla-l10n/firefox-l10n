@@ -59,6 +59,7 @@ firefoxview-tabpickup-password-locked-primarybutton = പ്രധാനരഹ�
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">കൂടുതൽ അറിയുക</a>
 firefoxview-tabpickup-signed-out-header = വീണ്ടും ബന്ധിപ്പിക്കുന്നതിന് പ്രവേശിക്കുക
 firefoxview-tabpickup-signed-out-primarybutton = പ്രവേശിക്കുക
+firefoxview-mobile-promo-primarybutton = താങ്ങളുടെ ഫോണിൽ { -brand-product-name } നേടുക
 firefoxview-closed-tabs-title = അടുത്തിടെ അടച്ചതു്
 firefoxview-closed-tabs-placeholder-header = അടുത്തിടെ അടച്ച ടാബുകളൊന്നുമില്ല
 # Variables:
