@@ -379,6 +379,7 @@ newtab-wallpaper-red-panda-yawns-in-a-tree = წითელი პანდა 
 newtab-wallpaper-white-mountains = თოვლიანი მთები
 newtab-wallpaper-hot-air-balloons = ფერადი საჰაერო ბუშტები დღისით
 newtab-wallpaper-starry-canyon = ლურჯვარსკვლავთა ღამე
+newtab-wallpaper-suspension-bridge = ნაცრისფერი კიდული ხიდის დღისით გადაღებული სურათი
 newtab-wallpaper-sand-dunes = თეთრი ქვიშიანი ბორცვები
 newtab-wallpaper-palm-trees = ქოქოსის პალმის ხეების მოხაზულობა შეღამებისას
 newtab-wallpaper-forest-trees = ნისლით დაფარული ხეები

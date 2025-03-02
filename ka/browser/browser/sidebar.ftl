@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI-თანამოსაუბრე
 menu-view-review-checker =
     .label = მიმოხილვის შემმოწმებელი
+menu-view-contextual-password-manager =
+    .label = პაროლები
 sidebar-options-menu-button =
     .title = მენიუს გახსნა
 
@@ -75,6 +77,12 @@ sidebar-context-menu-bookmark-tab =
     .label = ჩანართის ჩანიშვნა…
 sidebar-context-menu-copy-link =
     .label = ბმულის ასლი
+sidebar-context-menu-hide-sidebar =
+    .label = გვერდითი ზოლის დამალვა
+sidebar-context-menu-enable-vertical-tabs =
+    .label = შვეული ჩანართების ჩართვა
+sidebar-context-menu-customize-sidebar =
+    .label = გვერდითი ზოლის მორგება
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
@@ -99,6 +107,8 @@ sidebar-menu-customize-label =
     .label = გვერდითი ზოლის მორგება
 sidebar-menu-review-checker-label =
     .label = მიმოხილვის შემმოწმებელი
+sidebar-menu-contextual-password-manager-label =
+    .label = პაროლები
 
 ## Tooltips for sidebar menu items.
 
@@ -139,6 +149,8 @@ sidebar-menu-syncedtabs-header =
     .heading = ჩანართები სხვა მოწყობილობებიდან
 sidebar-menu-bookmarks-header =
     .heading = სანიშნები
+sidebar-menu-cpm-header =
+    .heading = პაროლები
 sidebar-panel-header-close-button =
     .tooltiptext = დახურვა
 
