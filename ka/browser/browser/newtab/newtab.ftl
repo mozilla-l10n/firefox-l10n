@@ -377,6 +377,8 @@ newtab-wallpaper-storm-sky = ქარიშხლის ცა
 newtab-wallpaper-sky-with-pink-clouds = ცა მოვარდისფრო ღრუბლებით
 newtab-wallpaper-red-panda-yawns-in-a-tree = წითელი პანდა ამთქნარებს ხეზე
 newtab-wallpaper-white-mountains = თოვლიანი მთები
+newtab-wallpaper-sand-dunes = თეთრი ქვიშიანი ბორცვები
+newtab-wallpaper-forest-trees = ნისლით დაფარული ხეები
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -394,6 +396,14 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = ციური სხეულები
+newtab-wallpaper-celestial-lunar-eclipse = მთვარის დაბნელება
+newtab-wallpaper-celestial-earth-night = ღამის სურათი დედამიწის ახლო ორბიტიდან
+newtab-wallpaper-celestial-starry-sky = ვარსკვლავებიანი ცა
+newtab-wallpaper-celestial-eclipse-time-lapse = მთვარის მიმდევრობითი დაბნელება
 newtab-wallpaper-celestial-black-hole = შავი ხვრელის გალაქტიკური გამოსახულება
 newtab-wallpaper-celestial-river = მდინარის თანამგზავრული გამოსახულება
 
