@@ -74,6 +74,8 @@ mr1-onboarding-theme-tooltip-dark =
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description = ജാലകങ്ങൾക്കും ബട്ടണുകൾക്കും കുറിപ്പടിക്കട്ടകൾക്കും ഒരു ഇരുണ്ട അലങ്കാരം ഉപയോഗിക്കുക.
+# Selector description for default themes
+mr2-onboarding-default-theme-label = തനിമട്ട അലങ്കാരങ്ങൾ ആരായുക
 
 ## Strings for Thank You page
 
@@ -99,6 +101,7 @@ onboarding-live-language-skip-button-label = ഒഴിവാക്കുക
 
 ## Firefox 100 Thank You screens
 
+fx100-upgrade-thanks-header = 100-ഓളം നന്നികൾ
 mr2022-onboarding-secondary-skip-button-label = ഈ പടി ഒഴിവാക്കുക
 
 ## MR2022 New User Easy Setup screen strings
@@ -112,6 +115,11 @@ mr2022-onboarding-easy-setup-import-checkbox-label = മുമ്പത്തെ
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = ഒരു അടിപ്പൊളി ഗോളാന്തരവലയിൽ ആരായുവിൻ
 # Primary button string used on welcome page for when Firefox is not pinned.
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
@@ -123,9 +131,13 @@ mr2022-onboarding-pin-primary-button-label-msix = { -brand-short-name }-നെ �
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+mr2022-onboarding-existing-pin-checkbox-label = കൂടാതെ { -brand-short-name }-നെയും സ്വകാര്യ തിരച്ചിലിലോട്ടു് ചേൎക്കുക
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = { -brand-short-name }-നെ താങ്ങളുടെ തനിമട്ട അന്വേഷിയന്ത്രമാക്കുക
+mr2022-onboarding-set-default-primary-button-label = { -brand-short-name } തനിമട്ടമാക്കി വയ്ക്കുക
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
@@ -144,6 +156,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = മുമ്പ�
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-primary-button-label-continue = തീൎച്ചപ്പെടുത്തിയിട്ടു് തുടരുക
 mr2022-onboarding-colorway-label-default = തനിമട്ട്
 
 ## MR2022 Multistage Mobile Download screen strings
@@ -158,6 +171,7 @@ mr2022-onboarding-colorway-label-default = തനിമട്ട്
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-primary-button-label = പുതിയതായി എന്താണ് ഉള്ളത് എന്ന് കാണുക.
 mr2022-onboarding-gratitude-secondary-button-label = തിരയാൻ തുടങ്ങുക.
 
 ## Onboarding spotlight for infrequent users
