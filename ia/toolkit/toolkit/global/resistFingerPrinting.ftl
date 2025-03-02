@@ -3,4 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # Spoof Accept-Language prompt
-privacy-spoof-english = Cambiar le definition del lingua in anglese te rendera plus difficile identificar e meliorar tu confidentialitate. Desira tu requirer le version in lingua anglese del paginas web?
+privacy-spoof-english = Cambiar tu parametro de lingua in anglese te rende plus difficile a identificar e meliora tu privatessa. Vole tu requestar le version in lingua anglese de paginas web?
