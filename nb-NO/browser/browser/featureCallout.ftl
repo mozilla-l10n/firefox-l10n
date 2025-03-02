@@ -73,6 +73,7 @@ split-dismiss-button-manage-settings-option =
 
 sidebar-button-callout-title = Vis fanetitler i sidestolpen
 sidebar-button-callout-subtitle = Bruk sidestolpeknappen for å utvide sidestolpen, slik at du kan se fanetitler.
+sidebar-button-callout-vertical-tabs = For å vise fanene dine, velg sidestolpe-knappen på verktøylinjen.
 
 ## Sidebar Callout Survey Strings
 
@@ -103,3 +104,11 @@ sidebar-genai-survey-satisfaction-question = Hvor fornøyd er du med å ha tilga
 sidebar-genai-survey-productive-question =
     I hvilken grad er du enig eller uenig i denne påstanden:<br/>
     "AI-chatboten i sidestolpen hjelper meg å bli mer produktiv"?
+unified-search-callout-title = Bytt mellom søkemotorer
+unified-search-callout-subtitle = Velg det som fungerer best for ditt spesifikke søk.
+unified-search-callout-primary-label = Neste
+unified-search-callout-secondary-label = Ignorer
+unified-search-engines-callout-title = Søk med en snarvei
+unified-search-engines-callout-subtitle = Skriv «@» etterfulgt av et nøkkelord for å søke i historikken, bokmerker, faner eller med en annen søkemotor.
+unified-search-engines-callout-primary-label = Jeg forstår
+actions-callout-title = Fullfør vanlige oppgaver eller få tilgang til grunnleggende innstillinger
