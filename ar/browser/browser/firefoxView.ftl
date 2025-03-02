@@ -32,12 +32,14 @@ firefoxview-tabpickup-progress-label = اكتمل { $percentValue }٪
 firefoxview-tabpickup-step-signin-header = بدِّل بسلاسة بين الأجهزة
 firefoxview-tabpickup-step-signin-description = للحصول على علامات تبويب هاتفك هنا، قم أولاً بتسجيل الدخول أو إنشاء حساب.
 firefoxview-tabpickup-step-signin-primarybutton = واصِل
+firefoxview-syncedtabs-signin-primarybutton-2 = لج
 firefoxview-syncedtabs-signin-header = اسحب الألسنة من أي مكان
 firefoxview-syncedtabs-signin-primarybutton = لج أو سجل حسابًا
 firefoxview-tabpickup-adddevice-header = زامن { -brand-product-name } على هاتفك أو جهازك اللوحي
 firefoxview-tabpickup-adddevice-description = قم بتنزيل { -brand-product-name } للجوال وقم بتسجيل الدخول من هناك.
 firefoxview-tabpickup-adddevice-learn-how = اطّلع على الطريقة
 firefoxview-tabpickup-adddevice-primarybutton = احصل على { -brand-product-name } للجوال
+firefoxview-syncedtabs-adddevice-primarybutton = جرّب { -brand-product-name } للجوال
 firefoxview-tabpickup-synctabs-header = فعّل مزامنة علامات التبويب
 firefoxview-tabpickup-synctabs-description = السماح لـ{ -brand-short-name } بمشاركة علامات التبويب بين الأجهزة.
 firefoxview-tabpickup-synctabs-learn-how = اطّلع على الطريقة
@@ -56,6 +58,13 @@ firefoxview-tabpickup-network-offline-primarybutton = حاول مجددًا
 firefoxview-tabpickup-sync-error-header = نواجه مشكلة في المزامنة
 firefoxview-tabpickup-sync-error-primarybutton = حاول مجددًا
 firefoxview-tabpickup-sync-disconnected-header = فعل المزامنة للمتابعة
+firefoxview-tabpickup-sync-disconnected-primarybutton = شغّل المزامنة في الإعدادات
+firefoxview-tabpickup-password-locked-link = اطّلع على المزيد
+firefoxview-tabpickup-password-locked-primarybutton = أدخل كلمة السر الرئيسية
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">اطّلع على المزيد</a>
+firefoxview-tabpickup-signed-out-primarybutton = لِج
+firefoxview-mobile-promo-primarybutton = نزّل { -brand-product-name } للجوال
+firefoxview-mobile-confirmation-header = جاهز! 🎉
 firefoxview-closed-tabs-title = المُغلقة حديثًا
 firefoxview-closed-tabs-description2 = أعِد فتح الصفحات التي أغلقتها في هذه النافذة.
 firefoxview-closed-tabs-placeholder-header = لا ألسنةً مغلقةً حديثًا
@@ -65,12 +74,31 @@ firefoxview-closed-tabs-placeholder-body2 = عندما تغلق لسانًا، �
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = تجاهَل { $tabTitle }
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = آخر نشاط
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = افتح { $targetURI } في لسان جديد
+firefoxview-synced-tabs-placeholder-header = لا شيء لرؤيته بعد
+firefoxview-collapse-button-show =
+    .title = اعرض القائمة
+firefoxview-collapse-button-hide =
+    .title = أخفِ القائمة
 
 ## History in this context refers to browser history
 
+firefoxview-history-nav = التأريخ
+    .title = التأريخ
+firefoxview-history-header = التأريخ
+firefoxview-history-context-delete = احذف من التأريخ
+    .accesskey = ذ
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
+firefoxview-opentabs-nav = الألسنة المفتوحة
+    .title = الألسنة المفتوحة
+firefoxview-opentabs-header = الألسنة المفتوحة
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
@@ -83,6 +111,10 @@ firefoxview-recently-closed-header = الألسنة المُغلقة مؤخرً�
 
 ##
 
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
+firefoxview-view-all-link = عرض الكل
+firefoxview-show-more = اعرض المزيد
+firefoxview-show-less = اعرض أقل
 firefoxview-search-text-box-clear-button =
     .title = امسح
 # Placeholder for the input field to search in recent browsing ("search" is a verb).
@@ -98,9 +130,12 @@ firefoxview-search-text-box-recentlyclosed =
 
 ##
 
+firefoxview-show-all-history = اعرض التأريخ كاملًا
+firefoxview-view-more-browsing-history = اعرض المزيد من تأريخ التصفح
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = العودة إلى حيث كنت
 firefoxview-history-empty-description-two = حماية خصوصيتك هي في صميم ما نقوم به. ولهذا السبب يمكنك التحكم في النشاط الذي يتذكره { -brand-short-name }، في <a data-l10n-name="history-settings-url">إعدادات التأريخ</a>.
 
 ##
@@ -111,7 +146,9 @@ firefoxview-choose-browser-button = أختر متصفح
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = لا يوجد شيء لإظهاره
 firefoxview-dont-remember-history-empty-description-two = بناءً على إعداداتك الحالية، لا يتذكر { -brand-short-name } نشاطك أثناء التصفح. لتغيير ذلك، <a data-l10n-name="history-settings-url-two">غيّر إعدادات التأريخ الخاص بك لتذكر تأريخك</a>.
+firefoxview-dont-remember-history-empty-header-2 = أنت تتحكم في ما يتذكره { -brand-short-name }
 
 ##
 
@@ -133,11 +170,18 @@ firefoxview-recentlyclosed-empty-description-two = للعثور على ألسن�
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
+firefoxview-syncedtabs-connect-another-device = صِلْ جهازا آخر
+firefoxview-pinned-tabs =
+    .title = الألسنة المثبتة
+firefoxview-tabs =
+    .title = الألسنة
 
 ## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
 ## Variables:
 ##  $tabTitle (string) - Title of pinned tab that will be opened when selected
 
+firefoxview-opentabs-pinned-tab =
+    .title = بدّل إلى { $tabTitle }
 
 ## These tooltips will be displayed when hovering over an unpinned Open Tab
 ## Variables:

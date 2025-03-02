@@ -20,6 +20,18 @@ firefox-relay-opt-in-title-1 = احمِ عنوان بريدك الإلكترون
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = استخدم قناع بريد { -relay-brand-name }
 firefox-relay-use-mask-title = استخدم قناع بريد { -relay-brand-name }
+firefox-relay-opt-in-confirmation-postpone =
+    .label = ليس الآن
+    .accesskey = ن
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
+    .label = سجّل حسابًا
+    .accesskey = ا
+firefox-relay-and-fxa-opt-in-confirmation-disable =
+    .label = لا تعرض لي هذا ثانيةً
+    .accesskey = ر
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
+    .label = ليس الآن
+    .accesskey = ن
 
 ## The "control" variation of the Relay offer popup
 
