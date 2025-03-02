@@ -13,9 +13,15 @@ desktop-entry-comment = ആഗോളാന്തരവലം ആരായുക
 desktop-entry-generic-name = ഗോളാന്തരവല അന്വേഷിയന്ത്രം
 # Combine Name and GenericName. This string is specific to GNOME.
 desktop-entry-x-gnome-full-name = { -brand-shortcut-name } ഗോളാന്തരവല അന്വേഷിയന്ത്രം
+# Keywords are search terms used to find this application.
+# The string is a list of keywords separated by semicolons:
+# - Do NOT replace semicolons with other punctuation signs.
+# - The list MUST end with a semicolon.
+desktop-entry-keywords = ഗോളാന്തരവല;WWW;അന്വേഷിയന്ത്രം;ഗോളാന്തരവല;ആരായൻ;
 
 ## Actions are visible in a context menu after right clicking the
 ## taskbar icon, possibly other places depending on the environment.
 
 desktop-action-new-window-name = പുതിയ ജാലകം
 desktop-action-new-private-window-name = പുതിയ സ്വകാര്യ ജാലകം
+desktop-action-open-profile-manager = രൂപരേഖ മാനേചർ
