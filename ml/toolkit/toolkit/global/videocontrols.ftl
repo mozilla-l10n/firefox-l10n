@@ -65,5 +65,5 @@ videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="
 #   $position (String): The current media position
 #   $duration (String): The total video duration
 videocontrols-scrubber-position-and-duration =
-    .aria-label = സ്ഥാനം
+    .aria-label = നില
     .aria-valuetext = { $position }/{ $duration }

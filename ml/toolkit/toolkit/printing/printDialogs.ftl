@@ -5,7 +5,7 @@
 print-setup =
     .title = താള്‍ ക്രമീകരണം
 custom-prompt-title = ഇഷ്ടാനുസരണമാക്കുക...
-custom-prompt-prompt = നിങ്ങളുടെ സ്വന്തം ഹെഡര്‍/ഫൂട്ടര്‍ ടെക്സ്റ്റ്‌ എന്റര്‍ ചെയ്യുക
+custom-prompt-prompt = നിങ്ങളുടെ ഇഷ്ടാനുസൃത തലക്കെട്ട്/അടിക്കുറിപ്പ് എഴുത്തു് നൽകുക
 basic-tab =
     .label = ഫോര്‍മാറ്റും ഐച്ഛികങ്ങളും
 advanced-tab =

@@ -14,7 +14,7 @@ neterror-malformed-uri-page-title = അസാധുവായ URL
 ## Error page actions
 
 neterror-advanced-button = സങ്കീര്‍ണ്ണമായവ...
-neterror-copy-to-clipboard-button = പകർത്തൽപെട്ടിയിലേക്കു് വാചകം പകര്‍ത്തുക
+neterror-copy-to-clipboard-button = പകർത്തൽപ്പെട്ടിയിലേക്കു് എഴുത്തു് പകൎത്തുക
 neterror-learn-more-link = കൂടുതല്‍ അറിയുക...
 neterror-open-portal-login-page-button = നെറ്റ്‍വർക്ക് ലോഗിൻ പേജ് തുറക്കുക
 neterror-override-exception-button = അപകടസാധ്യത സ്വീകരിച്ച് തുടരുക

@@ -63,7 +63,7 @@ about-telemetry-results-for-search = “{ $searchTerms }” എന്നതി�
 # Variables:
 #   $sectionName (string) - The section name from the structure of the ping.
 #   $currentSearchText (string) - The current text in the search input
-about-telemetry-no-search-results = ക്ഷമിക്കണം! “{ $currentSearchText }” എന്നതിനായി { $sectionName } ൽ ഫലങ്ങൾ ഒന്നുമില്ല
+about-telemetry-no-search-results = പൊറുക്കണം! “{ $currentSearchText }” എന്നതിനായി { $sectionName } ൽ പഴങ്ങൾ ഒന്നുമില്ല
 # Variables:
 #   $searchTerms (string) - The searched terms
 about-telemetry-no-search-results-all = പൊറുക്കണം! “{ $searchTerms }” നു വേണ്ടി യാതൊരു വിഭാഗങ്ങളിലും ഫലങ്ങളൊന്നുമില്ല

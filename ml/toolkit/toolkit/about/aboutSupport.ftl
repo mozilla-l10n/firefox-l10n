@@ -152,7 +152,7 @@ pending-reports =
        *[other] എല്ലാ തകരാര്‍ റിപ്പോര്‍ട്ടുകള്‍ (നല്‍കിയ സമയ പരിധിയില്‍ ബാക്കിയുള്ള { $reports }  തകരാറുകള്‍ ഉള്‍പ്പടെ)
     }
 raw-data-copied = ക്ലിപ്പ്ബോര്‍ഡിലേക്കു് ഡേറ്റാ പകര്‍ത്തിയിരിയ്ക്കുന്നു
-text-copied = ക്ലിപ്പ്ബോര്‍ഡിലേക്കു് വാചകം പകര്‍ത്തിയിരിയ്ക്കുന്നു
+text-copied = പകർത്തൽപ്പെട്ടിയിലോട്ടു് എഴുത്തു് പകൎത്തി
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 

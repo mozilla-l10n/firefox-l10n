@@ -71,7 +71,7 @@ pdfjs-page-rotate-ccw-button =
 pdfjs-page-rotate-ccw-button-label = ഘടികാര ദിശയ്ക്കു് വിപരീതമായി കറക്കുക
 pdfjs-cursor-text-select-tool-button =
     .title = ടെക്സ്റ്റ് തിരഞ്ഞെടുക്കൽ ടൂള്‍ പ്രാപ്തമാക്കുക
-pdfjs-cursor-text-select-tool-button-label = പാഠ തിരഞ്ഞെടുക്കൽ കരു
+pdfjs-cursor-text-select-tool-button-label = എഴുത്തു് തിരഞ്ഞെടുക്കൽ കരു
 pdfjs-cursor-hand-tool-button =
     .title = കൈക്കരു പ്രാപ്തമാക്കുക
 pdfjs-cursor-hand-tool-button-label = കൈക്കരു
@@ -268,8 +268,8 @@ pdfjs-web-fonts-disabled = വെബിനുള്ള അക്ഷരസഞ്�
 ## Editing
 
 pdfjs-editor-free-text-button =
-    .title = പാഠം
-pdfjs-editor-free-text-button-label = പാഠം
+    .title = എഴുത്തു്
+pdfjs-editor-free-text-button-label = എഴുത്തു്
 pdfjs-editor-ink-button =
     .title = വരയ്ക്കുക
 pdfjs-editor-ink-button-label = വരയ്ക്കുക
@@ -289,7 +289,7 @@ pdfjs-highlight-floating-button-label = അടയാളപ്പെടുക
 pdfjs-editor-remove-ink-button =
     .title = ആലേഖ്യം മാറ്റുക
 pdfjs-editor-remove-freetext-button =
-    .title = പാഠം മാറ്റുക
+    .title = എഴുത്തു് മാറ്റുക
 pdfjs-editor-remove-stamp-button =
     .title = ചിത്രം മാറ്റുക
 pdfjs-editor-remove-highlight-button =
@@ -316,17 +316,17 @@ pdfjs-ink-canvas =
 
 ## Alt-text dialog
 
-pdfjs-editor-alt-text-button-label = മറുപ്പാഠം
+pdfjs-editor-alt-text-button-label = മറുയെഴുത്തു്
 pdfjs-editor-alt-text-edit-button =
-    .aria-label = മറുപ്പാഠം തിരുത്തുക
-pdfjs-editor-alt-text-edit-button-label = മറുപ്പാഠം തിരുത്തുക
+    .aria-label = മറുയെഴുത്തു് തിരുത്തുക
+pdfjs-editor-alt-text-edit-button-label = മറുയെഴുത്തു് തിരുത്തുക
 pdfjs-editor-alt-text-dialog-label = സാധ്യത തിരഞ്ഞെടുക്കൂ
 pdfjs-editor-alt-text-add-description-label = ഒരു വിവരണം ചേർക്കുക
 pdfjs-editor-alt-text-cancel-button = റദ്ദാക്കുക
 pdfjs-editor-alt-text-save-button = കരുതിവയ്ക്കുക
 # Alternative text (alt text) helps when people can't see the image.
 pdfjs-editor-alt-text-button =
-    .aria-label = മറുപ്പാഠം
+    .aria-label = മറുയെഴുത്തു്
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
@@ -360,9 +360,9 @@ pdfjs-editor-highlight-show-all-button =
 ## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
 
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = കൂടുതല്‍ അറിയുക
-pdfjs-editor-new-alt-text-create-automatically-button-label = തന്നെതാനെ മറുപ്പാഠം ഉണ്ടാക്കുക
+pdfjs-editor-new-alt-text-create-automatically-button-label = തന്നെതാനെ മറുയെഴുത്തു് ഉണ്ടാക്കുക
 pdfjs-editor-new-alt-text-not-now-button = ഇപ്പോഴല്ല
-pdfjs-editor-new-alt-text-error-title = തന്നെതാനെ മറുപ്പാഠം ഉണ്ടാക്കാൻ പറ്റിയില്ല
+pdfjs-editor-new-alt-text-error-title = തന്നെതാനെ മറുയെഴുത്തു് ഉണ്ടാക്കാൻ പറ്റിയില്ല
 pdfjs-editor-new-alt-text-error-close-button = അടയ്ക്കുക
 
 ## Image alt-text settings
@@ -374,7 +374,7 @@ pdfjs-editor-alt-text-settings-close-button = അടയ്ക്കുക
 
 ## "Annotations removed" bar
 
-pdfjs-editor-undo-bar-message-freetext = പാഠം മാറ്റി
+pdfjs-editor-undo-bar-message-freetext = എഴുത്തു് മാറ്റി
 pdfjs-editor-undo-bar-message-ink = ആലേഖ്യം മാറ്റി
 pdfjs-editor-undo-bar-message-stamp = ചിത്രം മാറ്റി
 pdfjs-editor-undo-bar-message-signature = ഒപ്പു് മാറ്റി
