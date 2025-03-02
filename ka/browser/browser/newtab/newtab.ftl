@@ -314,6 +314,12 @@ newtab-custom-settings = დამატებითი პარამეტრ
 
 newtab-wallpaper-title = ფონები
 newtab-wallpaper-reset = ნაგულისხმევზე ჩამოყრა
+newtab-wallpaper-upload-image = სურათის ატვირთვა
+newtab-wallpaper-custom-color = ფერის არჩევა
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = სურათის ფაილის ზომა აღემატება ზღვარს { $file_size }ᲛᲑ. გთხოვთ, სცადოთ უფრო მცირე ფაილის ატვირთვა.
+newtab-wallpaper-error-file-type = ვერ მოხერხდა თქვენი ფაილის ატვირთვა. გთხოვთ, კვლავ სცადოთ სხვა სახის ფაილით.
 newtab-wallpaper-light-red-panda = წითელი პანდა
 newtab-wallpaper-light-mountain = თეთრი მთა
 newtab-wallpaper-light-sky = ცა მოიისფრო და მოვარდისფრო ღრუბლებით
@@ -357,6 +363,10 @@ newtab-wallpaper-abstract-purple = იისფერი ფორმები
 newtab-wallpaper-abstract-orange = ნარინჯისფერი ფორმები
 newtab-wallpaper-gradient-orange = ნარინჯისფერი ვარდისფერში გადასული
 newtab-wallpaper-abstract-blue-purple = ლურჯი და იისფერი ფორმები
+newtab-wallpaper-abstract-white-curves = თეთრი ფერის ჩამუქებული მრუდებით
+newtab-wallpaper-abstract-purple-green = იისფრიდან თანდათანობით მწვანე ნათებაში გადასული
+newtab-wallpaper-abstract-blue-purple-waves = ლურჯი და იისფერი ტალღოვანი ფორმები
+newtab-wallpaper-abstract-black-waves = შავი ტალღოვანი ფორმები
 
 ## Celestial
 
