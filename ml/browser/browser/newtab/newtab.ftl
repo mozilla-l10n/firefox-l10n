@@ -208,6 +208,7 @@ newtab-section-header-recent-activity = ഒടുവിലുള്ള പ്ര
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } ശുപാർശ ചെയ്തത്
+newtab-section-header-stories = ചിന്തോദ്ദീപകമായ ലേഖനങ്ങൾ
 # "picks" refers to recommended articles
 newtab-section-header-todays-picks = ഇന്നത്തെ ശുപാൎശ ചെയ്തപ്പെട്ട ലേഖനങ്ങൾ
 
@@ -221,14 +222,18 @@ newtab-empty-section-topstories = നിങ്ങൾ ഇവിടെ വരെ �
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = ഇനിയും കാണിക്കാനൊന്നുമില്ല
 newtab-discovery-empty-section-topstories-content = കൂടുതൽ കഥകൾക്കായി പിന്നീടു് തിരിച്ചു വരുക
 newtab-discovery-empty-section-topstories-try-again-button = വീണ്ടും ശ്രമിക്കുക
 newtab-discovery-empty-section-topstories-loading = ലഭ്യമാക്കുന്നു…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = അയ്യോ! ഈ വിഭാഗം ഏതാണ്ടു് ലഭ്യമാക്കി, പക്ഷേ അതു് മുഴുവനായി ചെയ്യാൻ പറ്റിയില്ല.
 
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = ജനപ്രിയ വിഷയങ്ങൾ:
+newtab-pocket-new-topics-title = താങ്ങൾക്കു് ഇനിയും കഥകൾ കേൾക്കണോ? എന്നാൽ { -pocket-brand-name }-ലുള്ള ഈ ജനപ്രിയ വിഷയങ്ങളെ കാണുക
 newtab-pocket-more-recommendations = കൂടുതൽ ശുപാർശകൾ
 newtab-pocket-learn-more = കൂടുതല്‍ അറിയുക
 newtab-pocket-cta-button = { -pocket-brand-name } ലഭ്യമാക്കുക
