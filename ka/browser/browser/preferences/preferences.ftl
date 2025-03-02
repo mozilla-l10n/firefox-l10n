@@ -1434,7 +1434,7 @@ httpsonly-radio-disabled =
 
 ## DoH Section
 
-preferences-doh-header = DNS-ის HTTPS-ით გადაცემა
+preferences-doh-header = DNS-მოთხოვნა HTTPS-ით
 preferences-doh-description = საიტთა სახელების გადამყვანი (DNS) მომსახურების HTTPS-ით გატარებისას საიტის მისამართის მოთხოვნები იგზავნება დაშიფრული არხით, შედეგად იქმნება დაცული DNS და გარეშე პირებს უძნელდებათ გაარკვიონ, რომელ ვებსაიტებთან ცდილობთ წვდომას.
 preferences-doh-description2 = საიტთა სახელების გადამყვანი (DNS) მომსახურების HTTPS-ით გატარებისას საიტის მისამართის მოთხოვნები იგზავნება დაშიფრული არხით, შედეგად იქმნება დაცული DNS და გარეშე პირებს უძნელდებათ გაარკვიონ, რომელ ვებსაიტებთან ცდილობთ წვდომას.
 # Variables:
@@ -1453,7 +1453,7 @@ preferences-doh-status-disabled = გამორთ.
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = უქმი ({ $reason })
 preferences-doh-group-message = დაცული DNS:
-preferences-doh-group-message2 = DNS-ის გადაცემა HTTPS-ით:
+preferences-doh-group-message2 = ჩაირთოს DNS-მოთხოვნა HTTPS-ით:
 preferences-doh-expand-section =
     .tooltiptext = ვრცლად
 preferences-doh-setting-default =
