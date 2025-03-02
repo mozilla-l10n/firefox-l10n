@@ -24,6 +24,14 @@ firefox-relay-opt-in-title-1 = Beskytt e-postadressen din:
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Bruk { -relay-brand-name } e-postalias
 firefox-relay-use-mask-title = Bruk { -relay-brand-name } e-postalias
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
+firefox-relay-opt-in-title-a = Forhindre søppelpost (spam) med et gratis e-postalias
+# This is preceded by firefox-relay-opt-in-title-a (on a different line)
+firefox-relay-opt-in-subtitle-a = Skjul den virkelige e-postadressen din
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
+firefox-relay-opt-in-title-b = Få ett gratis e-postalias
+# This is preceded by firefox-relay-opt-in-title-b (on a different line)
+firefox-relay-opt-in-subtitle-b = Beskytt innboksen din mot søppelpost (spam)
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Bruk e-postalias
     .accesskey = B
