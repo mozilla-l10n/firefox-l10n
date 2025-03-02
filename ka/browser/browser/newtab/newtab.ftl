@@ -377,7 +377,10 @@ newtab-wallpaper-storm-sky = ქარიშხლის ცა
 newtab-wallpaper-sky-with-pink-clouds = ცა მოვარდისფრო ღრუბლებით
 newtab-wallpaper-red-panda-yawns-in-a-tree = წითელი პანდა ამთქნარებს ხეზე
 newtab-wallpaper-white-mountains = თოვლიანი მთები
+newtab-wallpaper-hot-air-balloons = ფერადი საჰაერო ბუშტები დღისით
+newtab-wallpaper-starry-canyon = ლურჯვარსკვლავთა ღამე
 newtab-wallpaper-sand-dunes = თეთრი ქვიშიანი ბორცვები
+newtab-wallpaper-palm-trees = ქოქოსის პალმის ხეების მოხაზულობა შეღამებისას
 newtab-wallpaper-forest-trees = ნისლით დაფარული ხეები
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
