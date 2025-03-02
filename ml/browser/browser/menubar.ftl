@@ -27,6 +27,8 @@ menu-application-hide-other =
     .label = മറ്റുള്ളവ മറയ്ക്കുക
 menu-application-show-all =
     .label = എല്ലാം കാണിക്കുക
+menu-application-touch-bar =
+    .label = തൊടുപ്പട്ടയെ ഇഷ്‌ടാനുസൃതമാക്കുക...
 
 ##
 
@@ -55,7 +57,7 @@ menu-file =
     .label = ഫയല്‍
     .accesskey = F
 menu-file-new-tab =
-    .label = പുതിയ റ്റാബ്‌
+    .label = പുതിയ ടാബ്‌
     .accesskey = T
 menu-file-new-container-tab =
     .label = പുതിയ കണ്ടെയ്നർ ടാബ്
@@ -91,7 +93,7 @@ menu-file-save-page =
     .label = താള്‍ ഇങ്ങനെ സൂക്ഷിക്കുക
     .accesskey = A
 menu-file-email-link =
-    .label = കണ്ണി ഈമെയില്‍ അയയ്ക്കുക…
+    .label = കണ്ണിയിനെ ഇതപാലിൽ അയയ്ക്കുക…
     .accesskey = E
 menu-file-share-url =
     .label = പങ്കിടുക
@@ -112,7 +114,7 @@ menu-file-go-offline =
 ## Edit Menu
 
 menu-edit =
-    .label = ചിട്ടപ്പെടുത്തുക
+    .label = തിരുത്തുക
     .accesskey = E
 menu-edit-find-in-page =
     .label = താളില്‍ കണ്ടെത്തുക…
@@ -130,7 +132,7 @@ menu-view =
     .label = കാണുക
     .accesskey = V
 menu-view-toolbars-menu =
-    .label = ടൂള്‍ബാറുകള്‍
+    .label = കരുപ്പട്ടകൾ
     .accesskey = T
 menu-view-customize-toolbar2 =
     .label = ഉപകരണപട്ട ഇഷ്ടാനുസൃതമാക്കുക
@@ -184,7 +186,7 @@ menu-view-exit-full-screen =
     .label = സ്ക്രീന്‍ സാധാരണ വലിപ്പത്തില്‍
     .accesskey = F
 menu-view-full-screen =
-    .label = സ്കീന്‍ പൂര്‍ണ്ണ വലിപ്പത്തില്‍
+    .label = പ്രതലം മുഴുവൻ വലുപ്പത്തിഌ
     .accesskey = F
 
 ## These menu items may use the same accesskey.
@@ -201,7 +203,7 @@ menu-view-close-readerview =
 ##
 
 menu-view-show-all-tabs =
-    .label = എല്ലാ റ്റാബുകളും കാണിക്കുക
+    .label = എല്ലാ ടാബുകളും കാണിക്കുക
     .accesskey = A
 menu-view-bidi-switch-page-direction =
     .label = താളിന്റെ ദിശ മാറ്റുക
@@ -265,7 +267,7 @@ menu-profiles-new-profile =
 ## Tools Menu
 
 menu-tools =
-    .label = ഉപകരണങ്ങള്‍
+    .label = കരുകൾ
     .accesskey = T
 menu-tools-downloads =
     .label = ഇറക്കിവയ്ക്കലുകൾ
@@ -280,13 +282,16 @@ menu-tools-turn-on-sync2 =
     .label = സമന്വയം തുടങ്ങിവയ്ക്കുക…
     .accesskey = സ
 menu-tools-sync-now =
-    .label = ഉടന്‍ സിന്‍ക് ചെയ്യുക
+    .label = ഉടനെ സമന്വയിപ്പിക്കുക
     .accesskey = S
+menu-tools-fxa-re-auth =
+    .label = { -brand-product-name } പിന്നെയും ബന്ധപ്പെടുക
+    .accesskey = ബ
 menu-tools-browser-tools =
     .label = അന്വേഷിയന്ത്രക്കരുകൾ
     .accesskey = അ
 menu-tools-page-source =
-    .label = താളിന്റെ സ്രോതസ്സ്‌
+    .label = താളിന്റെ ഉറവിടം
     .accesskey = o
 menu-tools-page-info =
     .label = താള്‍ വിവരങ്ങള്‍
@@ -318,7 +323,7 @@ menu-window-bring-all-to-front =
 # where the strings appear.
 
 menu-help =
-    .label = സഹായം
+    .label = പിന്തുണ
     .accesskey = H
 menu-get-help =
     .label = സഹായം നേടുക
