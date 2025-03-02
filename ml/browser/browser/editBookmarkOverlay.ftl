@@ -22,7 +22,7 @@ bookmark-overlay-folders-expander =
 bookmark-overlay-folders-expander2 =
     .tooltiptext = എല്ലാ അടിക്കുറിപ്പു് അറകളും കാണിക്കുക
 bookmark-overlay-folders-expander-hide =
-    .tooltiptext = അദൃശ്യമാക്കുക
+    .tooltiptext = ഒളിപ്പിക്കുക
 # bookmark-overlay-folders-tree is used to provide an accessible name to the tree view of the Bookmarks directory, when it is expanded
 bookmark-overlay-folders-tree =
     .aria-label = അറകൾ
@@ -38,7 +38,7 @@ bookmark-overlay-tags-expander =
 bookmark-overlay-tags-expander2 =
     .tooltiptext = എല്ലാ ടാഗുകളും കാണിക്കുക
 bookmark-overlay-tags-expander-hide =
-    .tooltiptext = അദൃശ്യമാക്കുക
+    .tooltiptext = ഒളിപ്പിക്കുക
 bookmark-overlay-keyword-2 =
     .value = മുഖ്യപദം
     .accesskey = മ

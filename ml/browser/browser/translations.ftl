@@ -179,7 +179,7 @@ main-context-menu-translate-selection-to-language =
 # Text displayed in the right-click context menu for translating
 # the text of a hyperlink to a yet-to-be-determined language.
 main-context-menu-translate-link-text =
-    .label = കണ്ണി പാഠത്തിനെ വിവൎത്തനം ചെയ്യുക
+    .label = കണ്ണിയിലുള്ള എഴുത്തിന്റെ വിവൎത്തനം ചെയ്യുക
     .accesskey = ക
 # Text displayed in the select translations panel header.
 select-translations-panel-header = വിവൎത്തനം

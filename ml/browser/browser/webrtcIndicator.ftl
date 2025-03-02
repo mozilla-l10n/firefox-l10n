@@ -38,15 +38,15 @@ webrtc-sharing-menu =
 ## Tooltips used by the legacy global sharing indicator
 
 webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = നിങ്ങളുടെ ക്യാമറയും മൈക്രോഫോണും പങ്കിടുന്നു. ഇതു് നിയന്ത്രിയ്ക്കുന്നതിന് ക്ലിക്ക് ചെയ്യുക
+    .tooltiptext = താങ്ങളുടെ ക്യാമറയും മൈക്രോഫോണും പങ്കിടുന്നു. ഇതു് നിയന്ത്രിയ്ക്കുന്നതിനു് അമൎത്തുക
 webrtc-indicator-sharing-camera =
-    .tooltiptext = ക്യാമറ പങ്കിടുന്നു. ഇതു് നിയന്ത്രിയ്ക്കുന്നതിന് ക്ലിക്ക് ചെയ്യുക.
+    .tooltiptext = ക്യാമറ പങ്കിടുന്നു. ഇതു് നിയന്ത്രിയ്ക്കുന്നതിനു് അമൎത്തുക.
 webrtc-indicator-sharing-microphone =
-    .tooltiptext = മൈക്രോഫോണ്‍ പങ്കിടുന്നു. ഇതു് നിയന്ത്രിയ്ക്കുന്നതിന് ക്ലിക്ക് ചെയ്യുക.
+    .tooltiptext = മൈക്രോഫോണ്‍ പങ്കിടുന്നു. ഇതു് നിയന്ത്രിയ്ക്കുന്നതിനു് അമൎത്തുക
 webrtc-indicator-sharing-application =
-    .tooltiptext = പ്രയോഗം പങ്കിടുന്നു. ഇതു് നിയന്ത്രിയ്ക്കുന്നതിന് ക്ലിക്ക് ചെയ്യുക.
+    .tooltiptext = പ്രയോഗം പങ്കിടുന്നു. ഇതു് നിയന്ത്രിയ്ക്കുന്നതിനു് അമൎത്തുക
 webrtc-indicator-sharing-screen =
-    .tooltiptext = സ്ക്രീന്‍ പങ്കിടുന്നു. ഇതു് നിയന്ത്രിയ്ക്കുന്നതിന് ക്ലിക്ക് ചെയ്യുക.
+    .tooltiptext = സ്ക്രീന്‍ പങ്കിടുന്നു. ഇതു് നിയന്ത്രിയ്ക്കുന്നതിനു് അമൎത്തുക
 webrtc-indicator-sharing-window =
     .tooltiptext = ജാലകം പങ്കിടുന്നു. ഇതു് നിയന്ത്രിയ്ക്കുന്നതിന് ക്ലിക്ക് ചെയ്യുക.
 webrtc-indicator-sharing-browser =
