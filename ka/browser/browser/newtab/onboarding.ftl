@@ -446,6 +446,11 @@ onboarding-checklist-sign-up = შექმენით ან შედით �
 
 tab-groups-onboarding-feature-callout-title = მოსინჯეთ ჩანართების დაჯგუფება არეულობის ასარიდებლად და ყურადღების მოსაკრებად
 tab-groups-onboarding-feature-callout-subtitle = დაალაგეთ ჩანართები ერთიმეორის ზემოთ მოქცევით, რომ შეიქმნას პირველი ჯგუფი.
+tab-groups-onboarding-create-group-title-2 = აქ მოიძიეთ ნებისმიერ დროს თქვენი ჩანართების ჯგუფები.
+tab-groups-onboarding-create-group-no-alltabs-button-title = მონახეთ თქვენი ჯგუფები მისამართების ველში მოძიებით.
+tab-groups-onboarding-saved-groups-title-2 = ჩანართის ჯგუფი დახურვის შემთხვევაში, აქედან შეგეძლებათ კვლავ გახსნათ ნებისმიერ დროს.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = მონახეთ დახურული ჯგუფები მისამართების ველში მოძიებით.
+tab-groups-onboarding-session-restore-title = კვლავ გახსენით აქედან თქვენი ჩანართების ჯგუფები ნებისმიერ დროს.
 tab-groups-onboarding-saved-groups-title = ჩანართის ჯგუფი დახურვის შემთხვევაში, აქედან შეგეძლებათ კვლავ გახსნათ ნებისმიერ დროს.
 tab-groups-onboarding-dismiss = კარგი
 
@@ -466,3 +471,5 @@ desktop-to-mobile-headline = ჩამოტვირთეთ, დაასი�
 desktop-to-mobile-subtitle = წააკითხეთ QR-კოდი, რომ ჩამოტვირთოთ { -brand-product-name } მობილურზე. დაყენების შემდეგ აირჩიეთ „დასინქრონება მობილურზე“ თქვენს პაროლებთან, სანიშნებთან და სხვა მასალებთან წვდომისთვის ნებისმიერი ადგილიდან.
 dismiss-button-label = აცილება
 sync-to-mobile-button-label = დასინქრონება მობილურზე
+desktop-to-mobile-qr-code-alt =
+    .aria-label = QR-კოდი, რომ ჩამოტვირთოთ { -brand-product-name } მობილურზე

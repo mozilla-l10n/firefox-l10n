@@ -52,6 +52,7 @@ community-2 = { -brand-short-name }, შექმნილი <label data-l10n-n
 helpus = გსურთ დახმარება? <label data-l10n-name="helpus-donateLink">გააკეთეთ შემოწირულება</label> ან <label data-l10n-name="helpus-getInvolvedLink">შემოგვიერთდით!</label>
 bottomLinks-license = ლიცენზირების შესახებ
 bottom-links-terms = გამოყენების პირობები
+bottom-links-privacy = პირადულობის განაცხადი
 bottomLinks-rights = მომხმარებლის უფლებები
 bottomLinks-privacy = პირადი მონაცემების დაცვის დებულება
 # Example of resulting string: 66.0.1 (64-bit)
