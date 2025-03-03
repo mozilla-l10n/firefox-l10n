@@ -18,3 +18,13 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = എല്ലാ ഇരട്ടിയായ ടാബുകൾ അടയ്ക്കുക
 all-tabs-menu-synced-tabs =
     .label = മറ്റു് ഉപകരണങ്ങളിൽ നിന്നുള്ള ടാബുകൾ
+# "Recent" refers to tab groups being sorted in recently used order. We show up
+# to five of these in this section.
+all-tabs-menu-recent-tab-groups-header = ഒടുവിലത്തെ ടാബുകൂട്ടങ്ങൾ
+all-tabs-menu-current-window-header = ഇപ്പോഴത്തെ ജാലകം
+# This opens the sub view listing _all_ open and saved tab groups.
+all-tabs-menu-tab-groups-show-all =
+    .label = എല്ലാം കാണിക്കുക
+# This is header for the sub view listing _all_ open and saved tab groups.
+all-tabs-menu-tab-groups-sub-view =
+    .title = ടാബുകൂട്ടങ്ങൾ
