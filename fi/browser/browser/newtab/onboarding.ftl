@@ -446,6 +446,11 @@ onboarding-checklist-sign-up = Rekisteröidy tai kirjaudu sisään tilillesi
 
 tab-groups-onboarding-feature-callout-title = Kokeile välilehtiryhmiä vähentääksesi sotkua ja keskittyäksesi paremmin
 tab-groups-onboarding-feature-callout-subtitle = Järjestäydy vetämällä välilehti toisen päälle ja luo siten ensimmäinen ryhmä.
+tab-groups-onboarding-create-group-title-2 = Löydät välilehtiryhmät täältä milloin tahansa.
+tab-groups-onboarding-create-group-no-alltabs-button-title = Löydä ryhmäsi etsimällä niitä osoitepalkista.
+tab-groups-onboarding-saved-groups-title-2 = Kun suljet välilehtiryhmän, voit avata sen uudelleen milloin tahansa täältä.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Löydä suljetut ryhmät etsimällä niitä osoitepalkista.
+tab-groups-onboarding-session-restore-title = Avaa välilehtiryhmät uudelleen milloin tahansa täältä.
 tab-groups-onboarding-saved-groups-title = Jos suljet välilehtiryhmän, voit avata sen uudelleen täällä milloin tahansa.
 tab-groups-onboarding-dismiss = OK
 
