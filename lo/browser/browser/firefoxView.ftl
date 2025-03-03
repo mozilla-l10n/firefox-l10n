@@ -220,6 +220,7 @@ firefoxview-choose-browser-button = ເລືອກຕົວທ່ອງເວ�
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header = ບໍ່ມີຫຍັງທີ່ຈະສະແດງ
+firefoxview-dont-remember-history-empty-description = ການປົກປ້ອງຄວາມເປັນສ່ວນຕົວຂອງທ່ານແມ່ນຈຸດໃຈກາງຂອງສິ່ງທີ່ພວກເຮົາເຮັດ. ມັນເປັນເຫດຜົນທີ່ທ່ານສາມາດຄວບຄຸມກິດຈະກໍາ { -brand-short-name } ຈື່ໄວ້.
 
 ##
 
@@ -230,6 +231,7 @@ firefoxview-import-history-close-button =
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = ປະຫວັດການນໍາເຂົ້າຈາກຕົວທ່ອງເວັບອື່ນ
 firefoxview-import-history-description = ເຮັດໃຫ້ { -brand-short-name } ໄປທີ່ browser ຂອງທ່ານ. ນຳເຂົ້າປະຫວັດການທ່ອງເວັບ, ບຸກມາກ, ແລະ ອື່ນໆອີກ.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
