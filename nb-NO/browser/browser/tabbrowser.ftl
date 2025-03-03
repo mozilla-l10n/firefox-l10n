@@ -74,6 +74,13 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = Lyd på i fane
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = Lyd av i fane
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = Spill fane
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -106,11 +113,21 @@ tabbrowser-confirm-close-tabs-with-key-title = Lukk vinduet og avslutt { -brand-
 tabbrowser-confirm-close-tabs-with-key-button = Avslutt { -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = Spør før du avslutter med { $quitKey }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Bekreft før du avslutter med { $quitKey }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
 
+tabbrowser-confirm-close-warn-shortcut-title = Avslutt { -brand-short-name } eller lukke gjeldende fane?
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] Avslutt { -brand-short-name }
+       *[other] Avslutt { -brand-short-name }
+    }
+tabbrowser-confirm-close-tab-only-button = Lukk denne fanen
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -185,6 +202,18 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Skru på fanelyd
 tabbrowser-manager-close-tab =
     .tooltiptext = Lukk fane
+# This is for tab groups that have been "saved and closed" (see tab-group-editor-action-save). It does
+# not include "deleted" tab groups (see tab-group-editor-action-delete).
+tabbrowser-manager-closed-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — Lukket
+tabbrowser-manager-current-window-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — Gjeldende vindu
+# "Show more" is for showing all open groups from other windows, as well as saved groups. Initially,
+# we only show up to six of these groups.
+tabbrowser-manager-tab-groups-show-more =
+    .label = Vis mer
 
 ## Tab Groups
 
@@ -196,6 +225,9 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Avbryt
     .accesskey = A
+tab-group-editor-color-selector =
+    .aria-label = Farge på fanegruppe
+tab-group-menu-header = Fanegrupper
 tab-context-unnamed-group =
     .label = Navnløs gruppe
 tab-group-name-default = Navnløs gruppe
@@ -203,6 +235,20 @@ tab-group-name-default = Navnløs gruppe
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Legg til fane i ny gruppe
+           *[other] Legg til faner i ny gruppe
+        }
+    .accesskey = L
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Legg til fane i gruppen
+           *[other] Legg til faner i gruppen
+        }
+    .accesskey = g
 
 ## Open/saved tab group context menu
 
