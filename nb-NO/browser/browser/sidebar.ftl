@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI-chatbot
 menu-view-review-checker =
     .label = Vurderingskontrollør
+menu-view-contextual-password-manager =
+    .label = Passord
 sidebar-options-menu-button =
     .title = Åpne meny
 
@@ -46,6 +48,14 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = Behandle { -brand-short-name }-innstillinger
 sidebar-vertical-tabs =
     .label = Vertikale faner
+sidebar-settings =
+    .label = Innstillinger for sidestolpe
+sidebar-hide-tabs-and-sidebar =
+    .label = Skjul faner og sidestolpe
+sidebar-show-on-the-right =
+    .label = Flytt sidestolpe til høyre
+sidebar-show-on-the-left =
+    .label = Flytt sidestolpe til venstre
 
 ## Labels for sidebar context menu items
 
@@ -63,6 +73,12 @@ sidebar-context-menu-bookmark-tab =
     .label = Bokmerk fane…
 sidebar-context-menu-copy-link =
     .label = Kopier lenke
+sidebar-context-menu-hide-sidebar =
+    .label = Skjul sidestolpe
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Slå på vertikale faner
+sidebar-context-menu-customize-sidebar =
+    .label = Tilpass sidestolpe
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =

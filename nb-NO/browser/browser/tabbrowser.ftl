@@ -227,6 +227,28 @@ tab-group-editor-cancel =
     .accesskey = A
 tab-group-editor-color-selector =
     .aria-label = Farge på fanegruppe
+tab-group-editor-color-selector2-blue = Blå
+    .title = Blå
+tab-group-editor-color-selector2-purple = Lilla
+    .title = Lilla
+tab-group-editor-color-selector2-cyan = Turkis
+    .title = Turkis
+tab-group-editor-color-selector2-orange = Oransje
+    .title = Oransje
+tab-group-editor-color-selector2-yellow = Gul
+    .title = Gul
+tab-group-editor-color-selector2-pink = Rosa
+    .title = Rosa
+tab-group-editor-color-selector2-green = Grønn
+    .title = Grønn
+tab-group-editor-color-selector2-gray = Grå
+    .title = Grå
+tab-group-editor-color-selector2-red = Rød
+    .title = Rød
+# Variables:
+#  $tabGroupName (String): The name of the tab group. Defaults to the value
+#                          of tab-group-name-default.
+tab-group-description = { $tabGroupName } — Fanegruppe
 tab-group-menu-header = Fanegrupper
 tab-context-unnamed-group =
     .label = Navnløs gruppe
@@ -249,6 +271,50 @@ tab-context-move-tab-to-group =
            *[other] Legg til faner i gruppen
         }
     .accesskey = g
+tab-group-editor-action-new-tab =
+    .label = Ny fane i gruppe
+tab-group-editor-action-new-window =
+    .label = Flytt gruppe til nytt vindu
+tab-group-editor-action-save =
+    .label = Lagre og lukk gruppe
+tab-group-editor-action-delete =
+    .label = Slett gruppe
+tab-group-editor-done =
+    .label = Ferdig
+    .accessKey = F
+tab-context-reopen-tab-group =
+    .label = Åpne fanegruppe på nytt
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] Fjern fra gruppe
+           *[other] Fjern fra grupper
+        }
+    .accesskey = F
 
 ## Open/saved tab group context menu
 
+# For a tab group open in any window, clicking this will create a new
+# window and move this tab group to that new window.
+tab-group-context-move-to-new-window =
+    .label = Flytt gruppe til nytt vindu
+# For a tab group open in a different window from the one that the
+# user is using to access the tab group menu, move that tab group into the
+# user's current window.
+tab-group-context-move-to-this-window =
+    .label = Flytt gruppe til dette vinduet
+# For a tab group that is open in any window, close the tab group and
+# do not save it. For a tab group that is closed but saved by the user, clicking
+# this will forget the saved tab group.
+tab-group-context-delete =
+    .label = Slett gruppe
+# For a saved tab group that is not open in any window, open the tab group
+# in the user's current window.
+tab-group-context-open-saved-group-in-this-window =
+    .label = Åpne gruppe i dette vinduet
+# For a saved tab group that is not open in any window, create a new window and
+# open the tab group in that window.
+tab-group-context-open-saved-group-in-new-window =
+    .label = Åpne gruppe i nytt vindu
