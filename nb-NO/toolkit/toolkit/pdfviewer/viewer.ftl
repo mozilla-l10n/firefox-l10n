@@ -316,6 +316,9 @@ pdfjs-highlight-floating-button1 =
     .title = Markere
     .aria-label = Markere
 pdfjs-highlight-floating-button-label = Markere
+pdfjs-editor-signature-button =
+    .title = Legg til signatur
+pdfjs-editor-signature-button-label = Legg til signatur
 
 ## Remove button for the various kind of editor.
 
@@ -327,6 +330,8 @@ pdfjs-editor-remove-stamp-button =
     .title = Fjern bildet
 pdfjs-editor-remove-highlight-button =
     .title = Fjern utheving
+pdfjs-editor-remove-signature-button =
+    .title = Fjern signatur
 
 ##
 
@@ -343,6 +348,9 @@ pdfjs-editor-stamp-add-image-button-label = Legg til bilde
 pdfjs-editor-free-highlight-thickness-input = Tykkelse
 pdfjs-editor-free-highlight-thickness-title =
     .title = Endre tykkelse når du markerer andre elementer enn tekst
+pdfjs-editor-signature-add-signature-button =
+    .title = Legg til ny signatur
+pdfjs-editor-signature-add-signature-button-label = Legg til ny signatur
 # .default-content is used as a placeholder in an empty text editor.
 pdfjs-free-text2 =
     .aria-label = Tekstredigering
@@ -496,6 +504,11 @@ pdfjs-editor-alt-text-settings-close-button = Lukk
 
 ## "Annotations removed" bar
 
+pdfjs-editor-undo-bar-message-highlight = Markering fjernet
+pdfjs-editor-undo-bar-message-freetext = Tekst fjernet
+pdfjs-editor-undo-bar-message-ink = Tegning fjernet
+pdfjs-editor-undo-bar-message-stamp = Bilde fjernet
+pdfjs-editor-undo-bar-message-signature = Signatur fjernet
 pdfjs-editor-undo-bar-undo-button =
     .title = Angre
 pdfjs-editor-undo-bar-undo-button-label = Angre

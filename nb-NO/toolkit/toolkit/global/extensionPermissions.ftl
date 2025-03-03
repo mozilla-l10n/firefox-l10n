@@ -37,3 +37,6 @@ webext-perms-description-webNavigation = Tilgang til nettleseraktivitet under na
 ## The userScripts permission includes an additional explanation that is
 ## displayed prominently near the usual permission description.
 
+webext-perms-extra-warning-userScripts-long = Ubekreftede skript kan utgjøre sikkerhets- og personvernrisiko, for eksempel å kjøre skadelig kode eller spore aktivitet på nettstedet. Kjør kun skript fra utvidelser eller kilder du stoler på.
+# A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
+webext-perms-extra-warning-userScripts-short = Ubekreftede skript kan utgjøre sikkerhets- og personvernrisiko. Kjør kun skript fra utvidelser eller kilder du stoler på.

@@ -12,6 +12,7 @@ neterror-blocked-by-policy-page-title = Blokkert side
 neterror-captive-portal-page-title = Logg inn på nettverket
 neterror-dns-not-found-title = Serveren ikke funnet
 neterror-malformed-uri-page-title = Ugyldig nettadresse
+general-body-title = Vær forsiktig. Noe ser ikke riktig ut.
 
 ## Error page actions
 
@@ -41,6 +42,9 @@ neterror-generic-error = { -brand-short-name } klarte ikke å laste denne siden 
 neterror-load-error-try-again = Nettstedet kan være midlertidig utilgjengelig eller opptatt. Prøv igjen om en liten stund.
 neterror-load-error-connection = Dersom du ikke klarer å laste noen sider, kontroller at datamaskinens nettverkstilkobling er i orden.
 neterror-load-error-firewall = Dersom datamaskinen er beskyttet av en brannmur eller proxy, kontroller at { -brand-short-name } har tillatelse til å bruke nettet (www).
+# This warning is only shown on macOS Sequoia and later (see bug 1929377)
+neterror-load-osx-permission = Hvis du prøver å laste inn en lokal nettverksside, må du kontrollere at { -brand-short-name } har fått tillatelser for lokale nettverk i innstillingene for macOS personvern og sikkerhet.
+neterror-http-error-page = Kontroller at du har skrevet inn nettadressen riktig.
 neterror-captive-portal = Du må logge inn på nettverket før du får tilgang til Internett.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -96,6 +100,9 @@ neterror-proxy-connect-failure-settings = Kontroller at proxy-innstillingene er 
 neterror-proxy-connect-failure-contact-admin = Kontakt nettverksansvarlig og forsikre deg om at proxyen virker.
 neterror-content-encoding-error = Kontakt eieren av nettstedet og informer om problemet.
 neterror-unsafe-content-type = Kontakt nettsideeierne og informer dem om dette problemet.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-basic-http-auth = { -brand-short-name } stoler ikke på { $hostname } fordi tilkoblingen ikke er sikker. Prøv å endre URL-en til HTTPS.
 neterror-nss-failure-not-verified = Siden du forsøker åpne kan ikke vises fordi det ikke kunne bekreftes at overført data er autentisk.
 neterror-nss-failure-contact-website = Kontakt nettstedseieren og informer om problemet.
 # Variables:
@@ -149,3 +156,10 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Hvis du ikke kjenner til <b
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> har en sikkerhetspolicy kalt HTTP Strict Transport Security (HSTS), som betyr at { -brand-short-name } bare kan koble til den sikkert. Du kan ikke legge til et unntak for å besøke dette nettstedet.
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = Trolig ikke mye, det er sannsynlig at det er et problem med selve nettstedet.
+certerror-blocked-by-corp-headers-description = Noen ganger setter nettsteder opp beskyttelse for seg selv og folk som deg mot uønsket interaksjon med andre nettsteder.
+certerror-coop-learn-more = Les mer om Cross Origin Opener Policies (COOP)
+certerror-coep-learn-more = Les mer om Cross Origin Embedder Policies (COEP)
+# Variables:
+#   $responsestatus (string) - HTTP response status code (e.g., 500).
+#   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
+neterror-response-status-code = Feilkode: { $responsestatus } { $responsestatustext }
