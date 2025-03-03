@@ -518,12 +518,31 @@ pdfjs-editor-undo-bar-close-button-label = Lukk
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-label = Denne modalen lar brukeren lage en signatur for å legge til et PDF-dokument. Brukeren kan redigere navnet (som også fungerer som alt-teksten), og eventuelt lagre signaturen for gjentatt bruk.
+pdfjs-editor-add-signature-dialog-title = Legg til en signatur
 
 ## Tab names
 
+# Type is a verb (you can type your name as signature)
+pdfjs-editor-add-signature-type-button = Type
+    .title = Type
+# Draw is a verb (you can draw your signature)
+pdfjs-editor-add-signature-draw-button = Tegn
+    .title = Tegn
+pdfjs-editor-add-signature-image-button = Bilde
+    .title = Bilde
 
 ## Tab panels
 
+pdfjs-editor-add-signature-type-input =
+    .aria-label = Skriv inn signaturen din
+    .placeholder = Skriv inn signaturen din
+pdfjs-editor-add-signature-draw-placeholder = Tegn signaturen din
+pdfjs-editor-add-signature-draw-thickness-range-label = Tykkelse
+# Variables:
+#   $thickness (Number) - the thickness (in pixels) of the line used to draw a signature.
+pdfjs-editor-add-signature-draw-thickness-range =
+    .title = Linjetykkelse: { $thickness }
 
 ## Controls
 
