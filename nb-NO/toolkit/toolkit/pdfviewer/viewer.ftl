@@ -543,9 +543,23 @@ pdfjs-editor-add-signature-draw-thickness-range-label = Tykkelse
 #   $thickness (Number) - the thickness (in pixels) of the line used to draw a signature.
 pdfjs-editor-add-signature-draw-thickness-range =
     .title = Linjetykkelse: { $thickness }
+pdfjs-editor-add-signature-image-placeholder = Dra en fil her for å laste opp
+pdfjs-editor-add-signature-image-browse-link =
+    { PLATFORM() ->
+        [macos] Eller velg bildefiler
+       *[other] Eller velg bildefiler
+    }
 
 ## Controls
 
+pdfjs-editor-add-signature-description-label = Beskrivelse (alternativ tekst)
+pdfjs-editor-add-signature-description-input =
+    .title = Beskrivelse (alternativ tekst)
+pdfjs-editor-add-signature-description-default-when-drawing = Signatur
+pdfjs-editor-add-signature-clear-button-label = Fjern signatur
+pdfjs-editor-add-signature-clear-button =
+    .title = Fjern signatur
+pdfjs-editor-add-signature-save-checkbox = Lagre signatur
 
 ## Dialog buttons
 
