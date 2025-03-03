@@ -6,7 +6,7 @@ profile-window-heading = בחירת פרופיל { -brand-short-name }
 profile-window-body = ניתן לבחור לשמור את העבודה והגלישה האישית שלך, כולל דברים כמו ססמאות או סימניות, מופרדים לחלוטין. או ליצור פרופילים עבור כל מי שמשתמש במכשיר זה.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
-    .label = בחירת פרופיל כאשר { -brand-short-name } נפתח
+    .label = הצגת אפשרות לבחירת פרופיל כאשר { -brand-short-name } נפתח
 profile-window-create-profile = יצירת פרופיל
 profile-card-edit-button =
     .title = עריכת פרופיל
