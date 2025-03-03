@@ -575,6 +575,11 @@ urlbar-result-action-search-w-engine = { $engine } ഉപയോഗിച്ച�
 urlbar-result-action-sponsored = പണം കൊണ്ടു് പ്രചരിപ്പിച്ചതു്
 urlbar-result-action-switch-tab = ടാബിലേക്ക് മാറുക
 urlbar-result-action-visit = സന്ദര്‍ശിക്കുക
+# "Switch to tab with container" is used when the target tab is located in a
+# different container.
+# Variables
+# $container (String): the name of the target container
+urlbar-result-action-switch-tab-with-container = ടാബിലേക്ക് മാറുക · <span>{ $container }</span>
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = പകർത്തൽപെട്ടിയിൽ അവസാന പക‌‍ർത്തിയ കണ്ണിയിലേക്കു് ചെല്ലുക
 # Directs a user to press the Tab key to perform a search with the specified
@@ -596,6 +601,17 @@ urlbar-result-action-copy-to-clipboard = പകര്‍ത്തുക
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
+# Shows the result of a formula expression being calculated, to a maximum of 9 significant
+# digits. The last = sign will be shown as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-2 = = { NUMBER($result, maximumSignificantDigits: 9) }
+# Shows the result of a formula expression being calculated, in scientific notation.
+# The last = sign will be shown as part of the result (e.g. "= 1.0e17").
+# Variables
+#  $result (String): the string representation for a result in scientific notation
+#  (e.g. "1.0e17").
+urlbar-result-action-calculator-result-scientific-notation = = { $result }
 
 ## Strings used for buttons in the urlbar
 

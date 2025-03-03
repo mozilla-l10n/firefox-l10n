@@ -396,6 +396,8 @@ onboarding-many-tabs-title = Senin sekmelerin, senin kararın
 onboarding-many-tabs-subtitle = Çok fazla açık sekmeniz mi var? Daha akıcı bir görünüm için sekmeleri kenara almayı deneyin. İsterseniz sekmelerinizi üstte tutmaya devam edebilir, tercihinizi istediğiniz zaman değiştirebilirsiniz.
 # Setup screen for vertical tabs - focused variation
 onboarding-focused-tabs-title = Sekme düzeninizi seçin
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Odaklanmanızı kolaylaştıracak, akıcı bir görünüm için sekmeleri kenara almayı deneyin. İsterseniz sekmelerinizi üstte tutmaya devam edebilir, tercihinizi istediğiniz zaman değiştirebilirsiniz.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Kenarda
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.

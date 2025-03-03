@@ -58,6 +58,10 @@ contentanalysis-error-message-upload-file = “{ $filename }” yüklemesi redde
 contentanalysis-error-message-dropped-text = Sürükleyip bırakma reddedildi.
 contentanalysis-error-message-clipboard = Yapıştırma reddedildi.
 contentanalysis-error-message-print = Yazdırma reddedildi.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
+contentanalysis-timeout-block-error-message-content = { $agent } bağlantısı zaman aşımına uğradı. { $contentName } engellendi.
 contentanalysis-block-dialog-title-upload-file = Bu dosyayı yüklemenize izin verilmiyor
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
