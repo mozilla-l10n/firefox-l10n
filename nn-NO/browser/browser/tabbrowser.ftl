@@ -268,7 +268,7 @@ tab-context-move-tab-to-group =
     .label =
         { $tabCount ->
             [1] Legg til fane i gruppe
-           *[other] Add Tabs to Group
+           *[other] Legg til faner i gruppe
         }
     .accesskey = g
 tab-group-editor-action-new-tab =
