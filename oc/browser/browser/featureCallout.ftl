@@ -63,3 +63,11 @@ split-dismiss-button-manage-settings-option =
 
 ## Sidebar Callout Survey Strings
 
+sidebar-callout-survey-title = Ajudatz a melhorar { -brand-short-name }
+sidebar-callout-survey-privacy-notice-link = Politica de confidencialitat
+sidebar-callout-survey-strongly-agree = Plan d’acòrd
+sidebar-callout-survey-agree = D’acòrd
+sidebar-callout-survey-disagree = Pas d’acòrd
+sidebar-callout-survey-strongly-disagree = Pas del tot d’acòrd
+sidebar-callout-survey-submit = Mandar
+unified-search-callout-primary-label = Seguent
