@@ -103,6 +103,8 @@ sidebar-menu-customize-label =
     .label = Tilpass sidestolpe
 sidebar-menu-review-checker-label =
     .label = Vurderingskontrollør
+sidebar-menu-contextual-password-manager-label =
+    .label = Passord
 
 ## Tooltips for sidebar menu items.
 
@@ -128,6 +130,10 @@ sidebar-menu-close-bookmarks-tooltip = Lukk bokmerker ({ $shortcut })
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
+sidebar-menu-open-ai-chatbot-tooltip-generic = Åpne AI-chatbot ({ $shortcut })
+sidebar-menu-open-ai-chatbot-provider-tooltip = Åpne { $provider } ({ $shortcut })
+sidebar-menu-close-ai-chatbot-tooltip-generic = Lukk AI-chatbot ({ $shortcut })
+sidebar-menu-close-ai-chatbot-provider-tooltip = Lukk { $provider } ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 
@@ -137,6 +143,10 @@ sidebar-menu-history-header =
     .heading = Historikk
 sidebar-menu-syncedtabs-header =
     .heading = Faner fra andre enheter
+sidebar-menu-bookmarks-header =
+    .heading = Bokmerker
+sidebar-menu-cpm-header =
+    .heading = Passord
 sidebar-panel-header-close-button =
     .tooltiptext = Lukk
 
