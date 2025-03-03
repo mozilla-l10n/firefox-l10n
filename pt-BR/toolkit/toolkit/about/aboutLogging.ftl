@@ -44,6 +44,7 @@ about-logging-preset-media-playback-label = Reprodução de mídia
 about-logging-preset-media-playback-description = Módulos de log para diagnosticar problemas de reprodução de mídia (não problemas de videoconferência)
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Módulos de log para diagnosticar chamadas WebRTC
+about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Módulos de log para diagnosticar problemas de WebGPU
 about-logging-preset-gfx-label = Gráficos

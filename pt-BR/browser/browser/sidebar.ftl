@@ -77,6 +77,8 @@ sidebar-context-menu-bookmark-tab =
     .label = Adicionar aba aos favoritos…
 sidebar-context-menu-copy-link =
     .label = Copiar link
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Ativar abas na vertical
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
