@@ -2,6 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+profile-window-heading = Velg en { -brand-short-name }-profil
+profile-window-body = Hold jobben og den personlige surfingen din, inkludert ting som passord og bokmerker, helt adskilt. Eller opprett profiler for alle som bruker denne enheten.
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label-2 =
+    .label = Velg en profil når { -brand-short-name } åpnes
 profile-window-create-profile = Opprett en profil
 profile-card-edit-button =
     .title = Rediger profil
@@ -36,12 +41,15 @@ edit-profile-page-duplicate-name = Profilnavnet er allerede i bruk. Prøv et ann
 edit-profile-page-profile-saved = Lagret
 new-profile-page-title = Ny profil
 new-profile-page-header = Tilpass din nye profil
+new-profile-page-header-description = Hver profil har sin egen nettleserhistorikk og innstillinger atskilt fra de andre profilene dine. I tillegg er { -brand-short-name } sin sterke personvernbeskyttelse på som standard.
 new-profile-page-learn-more = Les mer
 new-profile-page-input-placeholder =
     .placeholder = Velg et navn som «Arbeid» eller «Personlig»
 new-profile-page-done-button =
     .label = Ferdig med redigering
 profile-window-title-2 = { -brand-short-name } - Velg en profil
+profile-window-logo =
+    .alt = { -brand-short-name }-logo
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
@@ -93,6 +101,24 @@ profiles-system-theme = System
 
 ## Alternative text for default profile icons
 
+book-avatar-alt =
+    .alt = Bok
+briefcase-avatar-alt =
+    .alt = Dokumentmappe
+flower-avatar-alt =
+    .alt = Blomst
+heart-avatar-alt =
+    .alt = Hjerte
+shopping-avatar-alt =
+    .alt = Handlevogn
+star-avatar-alt =
+    .alt = Stjerne
 
 ## Labels for default avatar icons
 
+book-avatar = Bok
+briefcase-avatar = Dokumentmappe
+flower-avatar = Blomst
+heart-avatar = Hjerte
+shopping-avatar = Handlevogn
+star-avatar = Stjerne

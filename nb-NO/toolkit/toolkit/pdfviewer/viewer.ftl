@@ -560,6 +560,7 @@ pdfjs-editor-add-signature-clear-button-label = Fjern signatur
 pdfjs-editor-add-signature-clear-button =
     .title = Fjern signatur
 pdfjs-editor-add-signature-save-checkbox = Lagre signatur
+pdfjs-editor-add-signature-save-warning-message = Du har nådd grensen på 5 lagrede signaturer. Fjern en for å lagre en ny.
 
 ## Dialog buttons
 
