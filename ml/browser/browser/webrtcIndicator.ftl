@@ -84,7 +84,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
     .label =
         { $tabCount ->
             [one] { $tabCount } ടാബില്‍ ഒരു പ്രയോഗം പങ്കിടുന്നു
-           *[other] { " " }{ $tabCount } ടാബുകളുമായി പ്രയോഗങ്ങള്‍ പങ്കിടുന്നു
+           *[other] { $tabCount } ടാബുകളുമായി പ്രയോഗങ്ങള്‍ പങ്കിടുന്നു
         }
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = "{ $streamTitle }"-മായി സ്ക്രീന്‍ പങ്കിടുന്നു

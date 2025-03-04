@@ -6,7 +6,7 @@
 about-logins-page-title = പ്രവേശണങ്ങളും രഹസ്യവാക്കുകളും
 about-logins-login-filter =
     .placeholder = പ്രവേശണങ്ങൾ തിരയുക
-    .key = ത
+    .key = F
 create-new-login-button =
     .title = പുതിയ പ്രവേശിക്കലുണ്ടാക്കുക
 about-logins-page-title-name = രഹസ്യവാക്കുകൾ
@@ -60,7 +60,7 @@ login-list-filtered-count =
 # Variables
 #   $count (number) - Number of logins
 login-list-count2 =
-    { NUMBER($count) ->
+    { $count ->
         [one] { $count } രഹസ്യവാക്കു്
        *[other] { $count } രഹസ്യവാക്കുകൾ
     }
@@ -467,11 +467,6 @@ about-logins-import-report-no-change2 =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ഇരട്ടിയായ ഇനങ്ങൾ</div> <div data-l10n-name="not-imported">(ഇറക്കുമതി ചെയ്യാത്ത)</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ഇരട്ടിയായ ഇനങ്ങൾ</div> <div data-l10n-name="not-imported">(ഇറക്കുമതി ചെയ്യാത്ത)</div>
-    }
-about-logins-import-report-error =
-    { $count ->
-        [one] പിശകുകൾ
-       *[other] (ഇറക്കുമതി ചെയ്തിട്ടില്ല)
     }
 
 ## Logins import report page

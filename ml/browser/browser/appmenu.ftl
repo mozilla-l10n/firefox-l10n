@@ -97,7 +97,7 @@ appmenu-remote-tabs-unverified = നിങ്ങളുടെ അക്കൌണ�
 appmenuitem-fxa-toolbar-sync-now2 = ഉടന്‍ സമന്വയിപ്പിക്കുക
 appmenuitem-fxa-sign-in = { -brand-product-name }-ലേക്കു് പ്രവേശിക്കുക
 appmenuitem-fxa-manage-account = അക്കൗണ്ട് കൈകാര്യം ചെയ്യുക
-appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "വാക്യം") }
+appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = അക്കൗണ്ട്
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
