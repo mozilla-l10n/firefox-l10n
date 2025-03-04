@@ -316,6 +316,10 @@ newtab-wallpaper-title = Bakgrunnsbilder
 newtab-wallpaper-reset = Tilbakestill til standard
 newtab-wallpaper-upload-image = Last opp et bilde
 newtab-wallpaper-custom-color = Velg en farge
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = Bildet overskred filstørrelsesgrensen på { $file_size } MB. Prøv å laste opp en mindre fil.
+newtab-wallpaper-error-file-type = Vi kunne ikke laste opp filen din. Prøv igjen med en annen filtype.
 newtab-wallpaper-light-red-panda = Rødpanda
 newtab-wallpaper-light-mountain = Hvitt fjell
 newtab-wallpaper-light-sky = Himmel med lilla og rosa skyer
@@ -359,6 +363,7 @@ newtab-wallpaper-abstract-purple = Lilla former
 newtab-wallpaper-abstract-orange = Oransje former
 newtab-wallpaper-gradient-orange = Fargeovergang oransje og rosa
 newtab-wallpaper-abstract-blue-purple = Blå og lilla former
+newtab-wallpaper-abstract-white-curves = Hvit med skraverte kurver
 
 ## Celestial
 
@@ -369,6 +374,10 @@ newtab-wallpaper-storm-sky = Stormhimmel
 newtab-wallpaper-sky-with-pink-clouds = Himmel med rosa skyer
 newtab-wallpaper-red-panda-yawns-in-a-tree = Rød panda som gjesper i et tre
 newtab-wallpaper-white-mountains = Hvite fjell
+newtab-wallpaper-starry-canyon = Blå stjerneklar natt
+newtab-wallpaper-sand-dunes = Hvite sanddyner
+newtab-wallpaper-palm-trees = Silhuett av kokospalmer under den gyldne timen
+newtab-wallpaper-forest-trees = Trær dekket med tåke
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -386,6 +395,14 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Rommet
+newtab-wallpaper-celestial-lunar-eclipse = Måneformørkelse
+newtab-wallpaper-celestial-earth-night = Nattbilde fra lav jordbane
+newtab-wallpaper-celestial-starry-sky = Stjernehimmel
+newtab-wallpaper-celestial-river = Satellittbilde av elv
 
 ## New Tab Weather
 
@@ -471,6 +488,9 @@ newtab-section-unfollow-button = Slutt å følge
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
 ## e.g. Blocked the politics section of stories.
 
+newtab-section-block-button = Blokker
+newtab-section-blocked-button = Blokkert
+newtab-section-unblock-button = Opphev blokkering
 
 ## Confirmation modal for blocking a section
 
@@ -481,3 +501,4 @@ newtab-section-cancel-button = Ikke nå
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+newtab-section-mangage-topics-title = Emner
