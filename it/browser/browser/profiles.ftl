@@ -122,4 +122,3 @@ flower-avatar = Fiore
 heart-avatar = Cuore
 shopping-avatar = Carrello
 star-avatar = Stella
-

@@ -15,4 +15,3 @@ sidebar-menu-close =
     .label = Chiudi barra laterale
 sidebar-close-button =
     .tooltiptext = Chiudi la barra laterale
-

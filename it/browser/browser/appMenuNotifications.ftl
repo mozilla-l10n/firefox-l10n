@@ -65,4 +65,3 @@ appmenu-tab-hide-controlled =
     .buttonaccesskey = M
     .secondarybuttonlabel = Disattiva estensione
     .secondarybuttonaccesskey = D
-

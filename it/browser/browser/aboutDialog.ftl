@@ -77,4 +77,3 @@ aboutdialog-version-arch = { $version } ({ $arch })
 #   $isodate (String): date in ISO format, e.g. 2019-01-16
 #   $arch (String): name of the architecture (arm, aarch64, etc.)
 aboutdialog-version-arch-nightly = { $version } ({ $isodate }) ({ $arch })
-

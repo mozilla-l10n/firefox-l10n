@@ -39,4 +39,3 @@ more-from-moz-mozilla-monitor-button = Ottieni { -monitor-brand-short-name }
 more-from-moz-solo-title = { -solo-ai-brand-name } AI
 more-from-moz-solo-description = Crea subito il tuo sito web e connetti gratuitamente il tuo dominio personalizzato.
 more-from-moz-solo-button = Prova { -solo-ai-brand-name }
-

@@ -129,10 +129,13 @@ info-exposed-passwords-found =
 # of exposed passwords that are marked as resolved by the user. Don’t add $count
 # to your localization, because it would result in the number showing twice.
 info-exposed-passwords-resolved =
-    =
     { $count ->
-        [one] Password compromessa in violazioni non risolte
-       *[other] Password compromesse in violazioni non risolte
+        [one]
+            =
+            Password compromessa in violazioni non risolte
+       *[other]
+            =
+            Password compromesse in violazioni non risolte
     }
 monitor-no-breaches-title = Ottime notizie
 monitor-no-breaches-description = Non sono presenti violazioni di dati conosciute. Ti faremo sapere se la situazione dovesse cambiare.
