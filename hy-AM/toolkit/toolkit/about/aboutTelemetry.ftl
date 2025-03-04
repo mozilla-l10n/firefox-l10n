@@ -86,15 +86,15 @@ about-telemetry-filter-all-placeholder =
     .placeholder = Գտնել բոլոր ընտրանքներում
 # Variables:
 #   $searchTerms (string) - The searched terms
-about-telemetry-results-for-search = “{ $searchTerms }”-ի արդյունքներ։
+about-telemetry-results-for-search = «{ $searchTerms }»-ի արդյունքները
 # More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
 #   $sectionName (string) - The section name from the structure of the ping.
 #   $currentSearchText (string) - The current text in the search input
-about-telemetry-no-search-results = Կներեք, { $sectionName }-ում “{ $currentSearchText }”–ի համար ոչ մի արդյունք չկա:
+about-telemetry-no-search-results = Կներե՛ք, { $sectionName }-ում «{ $currentSearchText }»-ի համար որևէ արդյունք չկա
 # Variables:
 #   $searchTerms (string) - The searched terms
-about-telemetry-no-search-results-all = Կներեք, “{ $searchTerms }”–ի համար ոչ մի հատվածում արդյունք չկա:
+about-telemetry-no-search-results-all = Կներե՛ք, «{ $searchTerms }»-ի համար որևէ հատվածում արդյունք չկա
 # This message is displayed when a section is empty.
 # Variables:
 #   $sectionName (string) - Is replaced by the section name.
@@ -116,7 +116,7 @@ about-telemetry-addon-table-id = Հավելման ID-ին
 about-telemetry-addon-table-details = Մանրամասներ
 # Variables:
 #   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
-about-telemetry-addon-provider = { $addonProvider } մատակարարը
+about-telemetry-addon-provider = { $addonProvider } մատակարար
 about-telemetry-keys-header = Հատկությունը
 about-telemetry-names-header = Անուն
 about-telemetry-values-header = Արժեքը

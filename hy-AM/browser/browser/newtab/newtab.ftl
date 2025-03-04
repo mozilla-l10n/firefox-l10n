@@ -29,7 +29,7 @@ newtab-search-box-search-button =
     .aria-label = որոնում
 # Variables:
 #   $engine (string) - The name of the user's default search engine
-newtab-search-box-handoff-text = Որոնեք { $engine }-ով կամ մուտքագրեք հասցեն
+newtab-search-box-handoff-text = Որոնեք { $engine }-ով կամ մուտքագրեք հասցե
 newtab-search-box-handoff-text-no-engine = Որոնեք կամ մուտքագրեք հասցե
 # Variables:
 #   $engine (string) - The name of the user's default search engine
@@ -48,7 +48,7 @@ newtab-search-box-input =
 
 ## Top Sites - General form dialog.
 
-newtab-topsites-add-search-engine-header = Ավելացնել Որոնիչ
+newtab-topsites-add-search-engine-header = Ավելացնել որոնիչ
 newtab-topsites-add-shortcut-header = Նոր դյուրանցում
 newtab-topsites-edit-topsites-header = Խմբագրել Լավագույն կայքերը
 newtab-topsites-edit-shortcut-header = Խմբագրել դյուրանցումը

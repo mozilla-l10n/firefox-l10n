@@ -10,7 +10,7 @@ change-device-password-window =
     .title = Փոխել գաղտնաբառը
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
-change-password-token = Անվտանգության Սարք: { $tokenName }
+change-password-token = Անվտանգության սարք: { $tokenName }
 change-password-old = Գործող գաղտնաբառը.
 change-password-new = Նոր Գաղտնաբառը.
 change-password-reenter = Նոր գաղտնաբառ (կրկին) ՝

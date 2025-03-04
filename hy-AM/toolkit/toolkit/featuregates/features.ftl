@@ -10,4 +10,4 @@ experimental-features-web-gpu2 =
 # Auto Picture-in-Picture
 experimental-features-auto-pip =
     .label = Նկարը նկարում. ինքնաշխատ բացում է ներդիրը փոխարկելիս
-experimental-features-auto-pip-description = Միացրեք Նատկերը նկարում ակտիվ տեսանյութերի վրա՝ ներդիրները փոխելիս:
+experimental-features-auto-pip-description = Միացրեք Նկարը նկարում ակտիվ տեսանյութերի վրա՝ ներդիրները փոխելիս:

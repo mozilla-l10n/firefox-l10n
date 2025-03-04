@@ -199,7 +199,7 @@ firefoxview-history-site-localhost = (տեղային ֆայլեր)
 ##
 
 firefoxview-show-all-history = Ցուցադրել ամբողջ պատմությունը
-firefoxview-view-more-browsing-history = Դիտեք զննարկման ավելի շատ պատմություն
+firefoxview-view-more-browsing-history = Դիտել ավելի շատ դիտարկման պատմություն
 
 ## Message displayed in Firefox View when the user has no history data
 
@@ -248,7 +248,7 @@ firefoxview-opentabs-pinned-tab =
     .title = Փոխարկվել { $tabTitle }-ին
 # This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
 firefoxview-opentabs-bookmarked-pinned-tab =
-    .title = Փոխարկվել (էջանշված) { $tabTitle }-ին
+    .title = Փոխարկել (էջանշված) { $tabTitle }-ին
 
 ## These tooltips will be displayed when hovering over an unpinned Open Tab
 ## Variables:

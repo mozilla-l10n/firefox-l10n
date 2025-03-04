@@ -168,7 +168,7 @@ mr2022-onboarding-secondary-skip-button-label = Բաց թողնել այս քա�
 # Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
 mr2022-onboarding-easy-setup-primary-button-label = Պահել և շարունակել
 # Set Default action checkbox label used on new user onboarding first screen
-mr2022-onboarding-easy-setup-set-default-checkbox-label = Կայել { -brand-short-name }-ը որպես սկզբնադիր զննիչ
+mr2022-onboarding-easy-setup-set-default-checkbox-label = Կայել { -brand-short-name }-ը որպես սկզբնադիր դիտարկիչ
 # Import action checkbox label used on new user onboarding first screen
 mr2022-onboarding-easy-setup-import-checkbox-label = Ներմուծել նախորդ դիտարկիչից
 
@@ -209,8 +209,8 @@ mr2022-onboarding-existing-pin-checkbox-label = Նաև ավելացրեք { -bra
 ## MR2022 New User Set Default screen strings
 
 # This string is the title used when the user already has pinned the browser, but has not set default.
-mr2022-onboarding-set-default-title = Դարձրեք { -brand-short-name }-ը ձեր հիմնական զննիչը
-mr2022-onboarding-set-default-primary-button-label = Կայեք { -brand-short-name }-ը որպես սկզբնադիր զննիչ
+mr2022-onboarding-set-default-title = Դարձրեք { -brand-short-name }-ը Ձեր հիմնական դիտարկիչը
+mr2022-onboarding-set-default-primary-button-label = Կայեք { -brand-short-name }-ը որպես սկզբնադիր դիտարկիչ
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page

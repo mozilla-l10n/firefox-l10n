@@ -8,7 +8,7 @@
 # Key shortcut used to focus the filter box on top of the data view
 storage-filter-key = CmdOrCtrl+F
 # Hint shown when the selected storage host does not contain any data
-storage-table-empty-text = Ընտրված հանգույցի համար չկա ներկայացված տվյալ
+storage-table-empty-text = Ընտրված հյուրընկալի համար տվյալներ ներկայացված չեն
 # Hint shown when the cookies storage type is selected. Clicking the link will open
 # https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/cookies/
 storage-table-type-cookies-hint = Դիտեք և խմբագրեք թխուկները՝ ընտրելով հանգույցը: <a data-l10n-name="learn-more-link">Իմացեք ավելին</a>
@@ -60,7 +60,7 @@ storage-context-menu-add-item =
 # Variables:
 #   $host (String) - Host for which we want to delete the items
 storage-context-menu-delete-all-from =
-    .label = Ջնջել բոլորը “{ $host }”-ից
+    .label = Ջնջել բոլորը «{ $host }»-ից
 
 ## Header names of the columns in the Storage Table for each type of storage available
 ## through the Storage Tree to the side.

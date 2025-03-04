@@ -30,7 +30,7 @@ videocontrols-closed-caption-off =
     .offlabel = Անջատել
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
-videocontrols-picture-in-picture-label = Նկար-նկարում
+videocontrols-picture-in-picture-label = Նկարը նկարում
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = Հանել տեսանյութը
@@ -40,7 +40,7 @@ videocontrols-error-decode = Տեսանյութը չի կարող վերարտա
 videocontrols-error-src-not-supported = Տեսանյութի տեսակը կամ MIME-ի տեսակը չեն աջակցվում:
 videocontrols-error-no-source = Չկա աջակցվող տեսանյութի և MIME-ի տեսակ:
 videocontrols-error-generic = Տեսանյութի նվագարկումը ընդհատվեց անհայտ սխալի պատճառով:
-videocontrols-status-picture-in-picture = Այս տեսանյութը նվագարկվում է Նկար֊Նկարում աշխատակերպում։
+videocontrols-status-picture-in-picture = Այս տեսանյութը նվագարկվում է Նկարը նկարում կերպում։
 # This message shows the current position and total video duration
 #
 # Variables:

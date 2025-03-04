@@ -30,10 +30,10 @@ download-ui-confirm-offline-cancel-downloads =
 download-ui-dont-go-offline-button = Կապը չանջատել
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
-        [1] Եթե հիմա փակեք Գաղտնի դիտարկման էջը, 1 բեռնում կչեղարկվի: Փակե՞լ:
-       *[other] Եթե հիմա փակեք Գաղտնի դիտարկման էջը, { $downloadsCount } ներբեռնումներ կչեղարկվեն: Փակե՞լ:
+        [1] Եթե հիմա փակեք գաղտնի դիտարկման պատուհանը, 1 ներբեռնում կչեղարկվի: Վստա՞հ եք, որ ցանկանում եք լքել գաղտնի դիտարկումը:
+       *[other] Եթե հիմա փակեք գաղտնի դիտարկման պատուհանը, { $downloadsCount } ներբեռնում կչեղարկվի: Վստա՞հ եք, որ ցանկանում եք լքել գաղտնի դիտարկումը:
     }
-download-ui-dont-leave-private-browsing-button = Շարունակել Գաղտնի Դիտարկումը
+download-ui-dont-leave-private-browsing-button = Մնալ գաղտնի դիտարկման մեջ
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Չեղարկել 1 բեռնում

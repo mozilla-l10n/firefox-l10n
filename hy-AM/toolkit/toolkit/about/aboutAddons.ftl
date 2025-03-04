@@ -446,7 +446,7 @@ discover-heading = Անհատականացրեք ձեր { -brand-short-name }-ը
 shortcuts-heading = Կառավարել ընդլայնման դյուրացումները
 default-heading-search-label = Ավելի շատ հավելումներ
 addons-heading-search-input =
-    .placeholder = Որոնել  addons.mozilla.org֊-ում
+    .placeholder = Որոնել addons.mozilla.org֊ում
 addon-page-options-button =
     .title = Գործիքներ բոլոր հավելումների համար
 

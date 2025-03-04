@@ -33,7 +33,7 @@ compatibility-target-browsers-header = Թիրախային դիտարկիչներ
 compatibility-issue-occurrences =
     { $number ->
         [one] { $number } դեպք
-       *[other] { $number } դեպքեր
+       *[other] { $number } դեպք
     }
 compatibility-no-issues-found = Համատեղելիության խնդիրներ չեն գտնվել:
 compatibility-close-settings-button =

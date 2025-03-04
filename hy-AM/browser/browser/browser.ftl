@@ -68,7 +68,7 @@ urlbar-midi-notification-anchor =
 urlbar-eme-notification-anchor =
     .tooltiptext = Կառավարել DRM ծրագրաշարի օգտագործումը
 urlbar-web-authn-anchor =
-    .tooltiptext = Բացել վեբ իսկորոշման փեղկը
+    .tooltiptext = Բացել վեբ վավերացման վահանակը
 urlbar-canvas-notification-anchor =
     .tooltiptext = Կառավարել canvas դուրս բերման թույլտվությունները
 urlbar-web-rtc-share-microphone-notification-anchor =
@@ -708,12 +708,12 @@ reader-view-close-button =
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
 picture-in-picture-urlbar-button-open =
-    .tooltiptext = Բացեք նկարը նկարում ({ $shortcut })
+    .tooltiptext = Բացեք Նկարը նկարում ({ $shortcut })
 picture-in-picture-urlbar-button-close =
-    .tooltiptext = Փակել նկարը նկարում ({ $shortcut })
+    .tooltiptext = Փակել Նկարը նկարում ({ $shortcut })
 picture-in-picture-panel-header = Նկարը նկարում
 picture-in-picture-panel-headline = Այս կայքը խորհուրդ չի տալիս «Նկարը նկարում»:
-picture-in-picture-panel-body = Տեսանյութերը կարող են չցուցադրվել այնպես, ինչպես մշակողը նախատեսել է, մինչ «Պատկերը նկարում» միացված է:
+picture-in-picture-panel-body = Տեսանյութերը կարող են չցուցադրվել այնպես, ինչպես մշակողը նախատեսել է, մինչ «Նկարը նկարում» միացված է:
 picture-in-picture-enable-toggle =
     .label = Միացնել ամեն դեպքում
 
