@@ -423,9 +423,20 @@ onboarding-checklist-sign-up = Registrer deg eller logg inn på kontoen din
 ## Tab Groups feature onboarding strings
 
 tab-groups-onboarding-feature-callout-title = Prøv fanegrupper for mindre rot, mer fokus
+tab-groups-onboarding-session-restore-title = Gjenåpne fanegruppene dine her når som helst.
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-callout-subtitle = Profiler lar deg holde nettleserinformasjonen din, som søkehistorikk og passord, helt adskilt.
+multi-profile-callout-cta = Opprett en profil
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = Synkroniser med Firefox for mobilen
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Skann QR-koden for å laste ned { -brand-product-name } for mobil. Når den er installert, velg «Synkroniser til mobil» for å få tilgang til passordene, bokmerkene og mer mens du er på farten.
+dismiss-button-label = Ignorer
+sync-to-mobile-button-label = Synkroniser til mobil
+desktop-to-mobile-qr-code-alt =
+    .aria-label = QR-kode for å laste ned { -brand-product-name } for mobil

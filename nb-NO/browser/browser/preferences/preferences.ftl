@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Send nettsteder et «Ikke spor»-signal om at du ikke vil bli sporet
+do-not-track-removal = Vi støtter ikke lenger «Ikke spor»-signalet
 do-not-track-description2 =
     .label = Send nettsteder en «Ikke spor»-forespørsel
     .accesskey = d
@@ -147,6 +148,11 @@ preferences-data-migration-description = Importer bokmerker, passord, historikk 
 preferences-data-migration-button =
     .label = Importer data
     .accesskey = m
+preferences-profiles-header = Profiler
+preferences-manage-profiles-description = Hver profil har separate nettlesingsdata og innstillinger, inkludert historikk, passord med mer.
+preferences-manage-profiles-learn-more = Les mer
+preferences-manage-profiles-button =
+    .label = Behandle profiler
 tabs-group-header = Faner
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab veksler mellom faner i nylig brukt-rekkefølge
@@ -154,6 +160,17 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Åpne lenker i faner istedenfor nye vindu
     .accesskey = f
+ask-on-close-multiple-tabs =
+    .label = Spør før lukking av flere faner
+    .accesskey = p
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = Spør før du avslutter med { $quitKey }
+    .accesskey = a
 confirm-on-close-multiple-tabs =
     .label = Bekreft før lukking av flere faner
     .accesskey = B
