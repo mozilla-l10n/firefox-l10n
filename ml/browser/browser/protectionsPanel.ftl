@@ -34,10 +34,6 @@ protections-panel-site-not-working-view =
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-toggle-on =
-    .label = മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണം
-    .description = ഈ വെബിടത്തിനു് തുടങ്ങിയിട്ടുണ്ടു്
-    .aria-label = മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണം
 protections-panel-etp-toggle-off =
     .label = മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണം
     .description = ഈ വെബിടത്തിനു് അണച്ചതു്

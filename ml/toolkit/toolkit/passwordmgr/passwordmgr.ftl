@@ -5,9 +5,6 @@
 
 ## Save and update password doorhanger
 
-# Variables
-#   $host (String) - Hostname for which the password is saved for.
-password-manager-save-password-message = %@-നു വേണ്ടി രഹസ്യവാക്കു് കരുതിവയ്ക്കണോ?
 password-manager-save-password-button-deny =
     .label = ഇപ്പോഴല്ല
     .accesskey = ന
@@ -17,9 +14,6 @@ password-manager-save-password-button-allow =
 password-manager-save-password-button-never =
     .label = ഒരിക്കലും കരുതിവയ്ക്കരുതു്
     .accesskey = ഒ
-# Variables
-#   $host (String) - Hostname for which the password is updated for.
-password-manager-update-password-message = %@-നു വേണ്ടി രഹസ്യവാക്കു് പുതുക്കണോ?
 password-manager-update-password-button-delete =
     .label = കരുതിവച്ച രഹസ്യവാക്കു് മാറ്റുക
     .accesskey = മ

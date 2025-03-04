@@ -5,7 +5,7 @@
 fxa-toolbar-sync-syncing2 = സമന്വയിപ്പിക്കുന്നു…
 sync-disconnect-dialog-title2 = വേറാക്കട്ടെ?
 sync-disconnect-dialog-button = വേറാക്കുക
-fxa-signout-dialog2-title = { -fxaccount-brand-name(capitalization: "വാക്യം") }-ൽ നിന്നു് പുറത്തുക്കടക്കണോ?
+fxa-signout-dialog2-title = { -fxaccount-brand-name }-ൽ നിന്നു് പുറത്തുക്കടക്കണോ?
 fxa-signout-dialog-title2 = അക്കൗണ്ടിൽ നിന്നു് പുറത്തുക്കടക്കട്ടെ?
 fxa-signout-dialog-body = സമന്വയിപ്പിച്ച ഡാറ്റ താങ്ങളുടെ അക്കൗണ്ടിൽ തന്നെ ഇരിക്കും.
 fxa-signout-dialog2-button = പുറത്തുക്കടക്കുക
