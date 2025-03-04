@@ -230,6 +230,15 @@ containers-remove-cancel-button = Ikke fjern denne beholderen
 settings-tabs-show-image-in-preview =
     .label = Vis en forhåndsvisning når du holder musepekeren over en fane
     .accessKey = f
+browser-layout-header = Nettleserutforming
+browser-layout-horizontal-tabs =
+    .label = Horisontale faner
+browser-layout-horizontal-tabs-desc = Vis øverst i nettleseren
+browser-layout-vertical-tabs =
+    .label = Vertikale faner
+browser-layout-vertical-tabs-desc = Vis på siden, i sidestolpen
+browser-layout-show-sidebar =
+    .label = Vis sidestolpe
 
 ## General Section - Language & Appearance
 
@@ -804,6 +813,9 @@ sync-currently-syncing-creditcards = Betalingskort
 sync-currently-syncing-payment-methods = Betalingsmåter
 sync-currently-syncing-addons = Utvidelser
 sync-currently-syncing-settings = Innstillinger
+sync-manage-options =
+    .label = Behandle synkronisering …
+    .accesskey = B
 sync-change-options =
     .label = Endre…
     .accesskey = E
@@ -856,6 +868,13 @@ sync-engine-settings =
     .label = Innstillinger
     .tooltiptext = Generelle, personvern- og sikkerhetsinnstillinger du har endret
     .accesskey = n
+sync-choose-what-to-sync-dialog4 =
+    .title = Behandle hva som synkroniseres på alle de tilkoblede enhetene dine
+    .style = min-width: 36em;
+    .buttonlabelaccept = Lagre
+    .buttonaccesskeyaccept = L
+    .buttonlabelextra2 = Koble fra …
+    .buttonaccesskeyextra2 = K
 
 ## The device name controls.
 
@@ -1306,13 +1325,22 @@ collection-description = Vi prøver alltid å gi deg valg og samler bare det vi 
 collection-privacy-notice = Personvernbestemmelser
 collection-health-report-telemetry-disabled = Du tillater ikke lenger { -vendor-short-name } å samle inn teknisk data og data om bruk. Alle tidligere data vil bli slettet innen 30 dager.
 collection-health-report-telemetry-disabled-link = Les mer
+collection-usage-ping =
+    .label = Send ping for daglig bruk til { -vendor-short-name }
+    .accesskey = u
+collection-usage-ping-description = Dette hjelper { -vendor-short-name } med å beregne aktive brukere.
 collection-health-report =
     .label = Tillat { -brand-short-name } å sende tekniske data og data for bruk til { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Les mer
+collection-studies2 =
+    .label = Installer og kjør studier
 collection-studies =
     .label = Tillat { -brand-short-name } å installere og kjøre studier
 collection-studies-link = Vis { -brand-short-name }-studier
+collection-backlogged-crash-reports2 =
+    .label = Send inn krasjrapporter automatisk
+    .accesskey = k
 addon-recommendations =
     .label = Tillat { -brand-short-name } å komme med tilpassede utvidelsesanbefalinger
 addon-recommendations-link = Les mer
@@ -1380,12 +1408,16 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } er i ferd med å 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Kun-HTTPS-modus
+httpsonly-learn-more2 = Hvordan kun-HTTPS-modus fungerer
 httpsonly-description = HTTPS gir en sikker, kryptert forbindelse mellom { -brand-short-name } og nettstedene du besøker. De fleste nettsteder støtter HTTPS, og hvis kun-HTTPS er aktivert, vil { -brand-short-name } oppgradere alle tilkoblinger til HTTPS.
 httpsonly-learn-more = Les mer
 httpsonly-radio-enabled =
     .label = Aktiver kun-HTTPS i alle vinduer
 httpsonly-radio-enabled-pbm =
     .label = Aktiver kun-HTTPS kun i private vinduer
+httpsonly-radio-disabled3 =
+    .label = Ikke aktiver kun-HTTPS-modus
+    .description = { -brand-short-name } kan fortsatt oppgradere noen tilkoblinger
 httpsonly-radio-disabled =
     .label = Ikke aktiver kun-HTTPS
 

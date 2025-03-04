@@ -561,15 +561,26 @@ pdfjs-editor-add-signature-clear-button =
     .title = Fjern signatur
 pdfjs-editor-add-signature-save-checkbox = Lagre signatur
 pdfjs-editor-add-signature-save-warning-message = Du har nådd grensen på 5 lagrede signaturer. Fjern en for å lagre en ny.
+pdfjs-editor-add-signature-image-upload-error-title = Kunne ikke laste opp bildet
+pdfjs-editor-add-signature-image-upload-error-description = Sjekk nettverkstilkoblingen eller prøv et annet bilde.
+pdfjs-editor-add-signature-error-close-button = Lukk
 
 ## Dialog buttons
 
+pdfjs-editor-add-signature-cancel-button = Avbryt
+pdfjs-editor-add-signature-add-button = Legg til
+pdfjs-editor-edit-signature-update-button = Oppdater
 
 ## Main menu for adding/removing signatures
 
+pdfjs-editor-delete-signature-button =
+    .title = Fjern signatur
+pdfjs-editor-delete-signature-button-label = Fjern signatur
 
 ## Editor toolbar
 
+pdfjs-editor-add-signature-edit-button-label = Rediger beskrivelse
 
 ## Edit signature description dialog
 
+pdfjs-editor-edit-signature-dialog-title = Rediger beskrivelse
