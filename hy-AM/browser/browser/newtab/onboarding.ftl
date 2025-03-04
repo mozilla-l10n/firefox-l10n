@@ -109,7 +109,7 @@ mr1-onboarding-theme-description-alpenglow =
         Օգտագործեք փոփոխական, գույնային ոճ կոճակների,
         ցանկերի և պատուհանների համար:
 # Selector description for default themes
-mr2-onboarding-default-theme-label = Ուսումնասիրեք սկզբնադիր ոճերը:
+mr2-onboarding-default-theme-label = Ուսումնասիրել սկզբնադիր ոճերը:
 
 ## Strings for Thank You page
 
@@ -132,7 +132,7 @@ mr2022-language-mismatch-subtitle = Մեր համայնքի շնորհիվ { -br
 onboarding-live-language-button-label-downloading = Լեզվի փաթեթի ներբեռնում { $negotiatedLanguage }-ի համար…
 onboarding-live-language-waiting-button = Հասանելի լեզուների ստացում…
 onboarding-live-language-installing = Լեզվի փաթեթի տեղադրում { $negotiatedLanguage }-ի համար…
-mr2022-onboarding-live-language-switch-to = Անցնել { $negotiatedLanguage }-ի
+mr2022-onboarding-live-language-switch-to = Փոխարկվել { $negotiatedLanguage }-ին
 mr2022-onboarding-live-language-continue-in = Շարունակել { $appLanguage }-ով
 onboarding-live-language-secondary-cancel-download = Չեղարկել
 onboarding-live-language-skip-button-label = Բաց թողնել

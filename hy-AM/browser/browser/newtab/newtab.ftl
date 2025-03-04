@@ -58,7 +58,7 @@ newtab-topsites-title-input =
     .placeholder = Մուտքագրեք անվանում
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
-    .placeholder = Մուտքագրեք կամ տեղադրեք URL
+    .placeholder = Մուտքագրեք կամ փակցրեք URL
 newtab-topsites-url-validation = Անհրաժեշտ է վավեր URL
 newtab-topsites-image-url-label = Հարմարեցված պատկերի URL
 newtab-topsites-use-image-link = Օգտագործել հարմարեցված պատկեր...
@@ -107,7 +107,7 @@ newtab-menu-topsites-placeholder-tooltip =
 
 newtab-menu-edit-topsites = Խմբագրել
 newtab-menu-open-new-window = Բացել Նոր Պատուհանով
-newtab-menu-open-new-private-window = Բացել Նոր Գաղտնի դիտարկմամբ
+newtab-menu-open-new-private-window = Բացել նոր գաղտնի պատուհանում
 newtab-menu-dismiss = Բաց թողնել
 newtab-menu-pin = Ամրացնել
 newtab-menu-unpin = Ապամրացնել
@@ -139,8 +139,8 @@ newtab-menu-bookmark = Էջանիշ
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
 newtab-menu-copy-download-link = Պատճենել ներբեռնելու հղումը
-newtab-menu-go-to-download-page = Անցնել Ներբեռնելու էջին
-newtab-menu-remove-download = Ջնջել Պատմությունից
+newtab-menu-go-to-download-page = Գնալ ներբեռնման էջ
+newtab-menu-remove-download = Ջնջել պատմությունից
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
@@ -395,9 +395,25 @@ newtab-weather-menu-change-temperature-units-fahrenheit = Փոխարկել ֆա�
 newtab-weather-menu-change-temperature-units-celsius = Փոխարկել ցելսիուսին
 newtab-weather-menu-hide-weather = Թաքցնել եղանակը Նոր ներդիրում
 newtab-weather-menu-learn-more = Իմանալ ավելին
+# This message is shown if user is working offline
+newtab-weather-error-not-available = Եղանակի տվյալներն այս պահին հասանելի չեն:
 
 ## Topic Labels
 
+newtab-topic-label-business = Բիզնես
+newtab-topic-label-career = Կարիերա
+newtab-topic-label-education = Կրթություն
+newtab-topic-label-arts = Ժամանց
+newtab-topic-label-food = ՈՒտելիք
+newtab-topic-label-health = Առողջություն
+newtab-topic-label-hobbies = Խաղեր
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Փող
+newtab-topic-label-society-parenting = Դաստիարակություն
+newtab-topic-label-government = Քաղաքականություն
+newtab-topic-label-education-science = Գիտություն
 newtab-topic-label-sports = Սպորտ
 newtab-topic-label-tech = Տեխ
 newtab-topic-label-travel = Ճամփորդություն

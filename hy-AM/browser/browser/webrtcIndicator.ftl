@@ -132,8 +132,8 @@ webrtc-indicator-menuitem-sharing-browser-with =
 webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
     .label =
         { $tabCount ->
-            [one] Համօգտագործել տեսախցիկը { $tabCount } ներդիրի հետ
-           *[other] Համօգտագործել տեսախցիկը { $tabCount } ներդիրների հետ
+            [one] Տարածվում է ներդիրը { $tabCount } ներդիրի հետ
+           *[other] Տարածվում են ներդիրները { $tabCount } ներդիրների հետ
         }
 
 ## Variables:

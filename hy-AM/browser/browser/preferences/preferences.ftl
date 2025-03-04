@@ -63,7 +63,7 @@ pane-experimental-reset =
     .label = Վերականգնել սկզբնադիրը
     .accesskey = R
 help-button-label = { -brand-short-name }-ի աջակցում
-addons-button-label = Ընդլայնումներ և Ոճեր
+addons-button-label = Ընդլայնումներ և ոճեր
 focus-search =
     .key = f
 close-button =
@@ -107,10 +107,10 @@ search-results-help-link = Օգնությու՞ն է պետք: Այցելեք <a
 
 startup-header = Մեկնարկը
 always-check-default =
-    .label = Միշտ ստուգել, թե արդյոք { -brand-short-name }-ը ձեր հիմնական դիտարկիչն է
+    .label = Միշտ ստուգել, թե արդյոք { -brand-short-name }-ը Ձեր սկզբնադիր դիտարկիչն է
     .accesskey = շ
 is-default = { -brand-short-name }-ը այժմ ձեր հիմնական դիտարկիչն է
-is-not-default = { -brand-short-name }-ը այժմ ձեր հիմնական դիտարկիչը չէ
+is-not-default = { -brand-short-name }-ը Ձեր սկզբնադիր դիտարկիչը չէ
 set-as-my-default-browser =
     .label = Դարձնել սկզբնադիր...
     .accesskey = Ս
@@ -134,8 +134,8 @@ ctrl-tab-recently-used-order =
     .label = Ctrl+Tab՝ պտտվում է ներդիրների միջև՝ ըստ վերջին օգտագործածի
     .accesskey = T
 open-new-link-as-tabs =
-    .label = Հղումները բացել նոր ներդիրներում՝ նոր պատուհանների փոխարեն
-    .accesskey = w
+    .label = Բացել հղումները ներդիրներում՝ նոր պատուհանների փոխարեն
+    .accesskey = պ
 ask-on-close-multiple-tabs =
     .label = Հարցնել բազմակի ներդիրները փակելիս
     .accesskey = m
@@ -232,13 +232,13 @@ preferences-zoom-text-only =
     .label = Դիտափոխել միայն գրվածքը
     .accesskey = t
 preferences-text-zoom-override-warning =
-    .message = Զգուշացում. Եթե ընտրեք «Դիտափոխել միայն գրվածքը» և Ձեր լռելյայն դիտափոխումը դրված չէ 100%, այն կարող է հանգեցնել որոշ կայքերի կամ բովանդակության խոտանի:
+    .message = Զգուշացում. Եթե ընտրեք «Դիտափոխել միայն գրվածքը» և Ձեր սկզբնադիր դիտափոխումը դրված չէ 100%, այն կարող է հանգեցնել որոշ կայքերի կամ բովանդակության խոտանի:
 language-header = Լեզուն
 choose-language-description = Ընտրեք ձեր նախընտրելի լեզուն՝ էջերը ցուցադրելու համար
 choose-button =
     .label = Ընտրել…
     .accesskey = տ
-choose-browser-language-description = Ընտրեք օգտագործված լեզուները ցանկերը, նամակները և ծանուցումները { -brand-short-name }-ից ցուցադրելու համար։
+choose-browser-language-description = Ընտրեք { -brand-short-name }-ից ցուցադրվող ցանկերի, նամակների և ծանուցումների լեզուները:
 manage-browser-languages-button =
     .label = Կայել այլընտրանքներ...
     .accesskey = l
@@ -304,13 +304,13 @@ applications-use-app =
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
-    .label = Օգտագործել { $app-name }-ը (լռելյայն)
+    .label = Օգտագործել { $app-name }-ը (սկզբնադիր)
 applications-use-os-default =
     .label =
         { PLATFORM() ->
-            [macos] Օգտագործել macOS կանխադրված հավելվածը
-            [windows] Օգտագործել Windows կանխադրված հավելվածը
-           *[other] Օգտագործել համակարգի կանխադրված հավելվածը
+            [macos] Օգտագործել macOS-ի սկզբնադիր հավելվածը
+            [windows] Օգտագործել Windows-ի սկզբնադիր հավելվածը
+           *[other] Օգտագործել համակարգի սկզբնադիր հավելվածը
         }
 applications-use-other =
     .label = Օգտագործել մեկ ուրիշը…
@@ -408,7 +408,7 @@ performance-title = Արտադրողականություն
 performance-use-recommended-settings-checkbox =
     .label = Օգտագործել արտադրողականության հանձնարարելի կարգավորումները
     .accesskey = Օ
-performance-use-recommended-settings-desc = Այս կարգավորումները հարմարեցված են ձեր համակարգչի սարքաշարին և օպերացիոն համակարգին:
+performance-use-recommended-settings-desc = Այս կարգավորումները հարմարեցված են Ձեր համակարգչի սարքային ապահովմանը և օպերացիոն համակարգին:
 performance-settings-learn-more = Իմանալ ավելին
 performance-allow-hw-accel =
     .label = Հնարավորության դեպքում օգտագործել սարքակազմի արագացումը
@@ -441,10 +441,10 @@ browsing-use-onscreen-keyboard =
     .label = Անհրաժեշտության դեպքում ցուցադրել հպաստեղնաշարը
     .accesskey = հ
 browsing-use-cursor-navigation =
-    .label = Էջերում ուղղորդման համար միշտ օգտագործել կուրսորի սեղմակները:
-    .accesskey = կ
+    .label = Միշտ օգտագործել նշորդային ստեղները՝ էջերի ներսում նավարկելու համար
+    .accesskey = ս
 browsing-search-on-start-typing =
-    .label = Տեքստ մուտքագրելու դեպքում փնտրել այն
+    .label = Որոնել տեքստը, երբ կսկսեք մուտքագրել
     .accesskey = ք
 browsing-picture-in-picture-toggle-enabled =
     .label = Միացնում է նկարում-պատկերված տեսանյութի կառավարները
