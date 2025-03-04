@@ -148,6 +148,9 @@ login-item-cancel-button = റദ്ദാക്കുക
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
+login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = ഉണ്ടാക്കിയതു്
 login-item-timeline-action-updated = പുതുച്ചതു്
 login-item-timeline-action-used = ഉപയോഗിച്ചതു്
