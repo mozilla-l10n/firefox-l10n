@@ -75,6 +75,15 @@ sidebar-button-callout-title = Ammustra tìtulos de is ischedas in sa barra late
 sidebar-button-callout-subtitle = Imprea su butone pro ismanniare sa barra laterale, in manera chi potzas bìdere is tìtulos de is ischedas.
 sidebar-button-callout-vertical-tabs = Pro ammustrare is ischedas, sèbera su butone de sa barra laterale in sa barra de tareas.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Agiuda a megiorare { -brand-short-name }

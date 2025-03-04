@@ -75,6 +75,15 @@ sidebar-button-callout-title = Widoczne tytuły kart na panelu bocznym
 sidebar-button-callout-subtitle = Kliknij przycisk panelu bocznego, aby go rozszerzyć i widzieć tytuły kart.
 sidebar-button-callout-vertical-tabs = Aby wyświetlić karty, kliknij przycisk panelu bocznego na pasku narzędzi.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Pomóż ulepszyć { -brand-short-name(case: "acc") }

@@ -50,12 +50,12 @@ category-experimental =
 pane-experimental-subtitle = Наставите с опрезом
 pane-experimental-search-results-header = { -brand-short-name } експерименти: наставите с опрезом
 pane-experimental-description2 =
-    Промена напредних подешавања може негативно да утиче на перформансе и безбедност { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] програма { -brand-short-name }
-    }.
+    { -brand-short-name.gender ->
+        [masculine] Промена напредних подешавања може негативно да утиче на перформансе и безбедност { -brand-short-name(case: "gen") }.
+        [feminine] Промена напредних подешавања може негативно да утиче на перформансе и безбедност { -brand-short-name(case: "gen") }.
+        [neuter] Промена напредних подешавања може негативно да утиче на перформансе и безбедност { -brand-short-name(case: "gen") }.
+       *[other] Промена напредних подешавања може негативно да утиче на перформансе и безбедност програма { -brand-short-name }.
+    }
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
@@ -366,19 +366,19 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label =
-        Користи { $plugin-name } (у { -brand-short-name.gender ->
-            [masculine] { -brand-short-name(case: "loc") }
-            [feminine] { -brand-short-name(case: "loc") }
-            [neuter] { -brand-short-name(case: "loc") }
-           *[other] програму { -brand-short-name }
-        })
+        { -brand-short-name.gender ->
+            [masculine] Користи { $plugin-name } (у { -brand-short-name(case: "loc") })
+            [feminine] Користи { $plugin-name } (у { -brand-short-name(case: "loc") })
+            [neuter] Користи { $plugin-name } (у { -brand-short-name(case: "loc") })
+           *[other] Користи { $plugin-name } (у програму { -brand-short-name })
+        }
 applications-open-inapp =
     .label =
-        Отвори у { -brand-short-name.gender ->
-            [masculine] { -brand-short-name(case: "loc") }
-            [feminine] { -brand-short-name(case: "loc") }
-            [neuter] { -brand-short-name(case: "loc") }
-           *[other] програму { -brand-short-name }
+        { -brand-short-name.gender ->
+            [masculine] Отвори у { -brand-short-name(case: "loc") }
+            [feminine] Отвори у { -brand-short-name(case: "loc") }
+            [neuter] Отвори у { -brand-short-name(case: "loc") }
+           *[other] Отвори у програму { -brand-short-name }
         }
 
 ## The strings in this group are used to populate
@@ -417,19 +417,19 @@ play-drm-content =
     .accesskey = ш
 play-drm-content-learn-more = Сазнајте више
 update-application-title =
-    Ажурирања { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] програма { -brand-short-name }
+    { -brand-short-name.gender ->
+        [masculine] Ажурирања { -brand-short-name(case: "gen") }
+        [feminine] Ажурирања { -brand-short-name(case: "gen") }
+        [neuter] Ажурирања { -brand-short-name(case: "gen") }
+       *[other] Ажурирања програма { -brand-short-name }
     }
 update-application-description =
-    Ради побољшаних перформанси, стабилности и безбедности редовно ажурирајте { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "acc") }
-        [feminine] { -brand-short-name(case: "acc") }
-        [neuter] { -brand-short-name(case: "acc") }
-       *[other] програм { -brand-short-name }
-    }.
+    { -brand-short-name.gender ->
+        [masculine] Ради побољшаних перформанси, стабилности и безбедности редовно ажурирајте { -brand-short-name(case: "acc") }.
+        [feminine] Ради побољшаних перформанси, стабилности и безбедности редовно ажурирајте { -brand-short-name(case: "acc") }.
+        [neuter] Ради побољшаних перформанси, стабилности и безбедности редовно ажурирајте { -brand-short-name(case: "acc") }.
+       *[other] Ради побољшаних перформанси, стабилности и безбедности редовно ажурирајте програм { -brand-short-name }.
+    }
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Верзија { $version } <a data-l10n-name="learn-more">Шта је ново</a>
@@ -437,12 +437,12 @@ update-history =
     .label = Прикажи историју ажурирања…
     .accesskey = П
 update-application-allow-description =
-    Дозволи { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "dat") }
-        [feminine] { -brand-short-name(case: "dat") }
-        [neuter] { -brand-short-name(case: "dat") }
-       *[other] програму { -brand-short-name }
-    }:
+    { -brand-short-name.gender ->
+        [masculine] Дозволи { -brand-short-name(case: "dat") }:
+        [feminine] Дозволи { -brand-short-name(case: "dat") }:
+        [neuter] Дозволи { -brand-short-name(case: "dat") }:
+       *[other] Дозволи програму { -brand-short-name }:
+    }
 update-application-auto =
     .label = аутоматско инсталирање ажурирања (препоручено)
     .accesskey = а
@@ -630,12 +630,12 @@ home-prefs-recent-activity-description = Избор недавних сајто�
 home-prefs-snippets-header =
     .label = Исечци
 home-prefs-snippets-description-new =
-    Савети и новости везани за { -brand-product-name.gender ->
-        [masculine] { -brand-product-name(case: "acc") }
-        [feminine] { -brand-product-name(case: "acc") }
-        [neuter] { -brand-product-name(case: "acc") }
-       *[other] програм { -brand-product-name }
-    } и организацију { -vendor-short-name }
+    { -brand-product-name.gender ->
+        [masculine] Савети и новости везани за { -brand-product-name(case: "acc") } и организацију { -vendor-short-name }
+        [feminine] Савети и новости везани за { -brand-product-name(case: "acc") } и организацију { -vendor-short-name }
+        [neuter] Савети и новости везани за { -brand-product-name(case: "acc") } и организацију { -vendor-short-name }
+       *[other] Савети и новости везани за програм { -brand-product-name } и организацију { -vendor-short-name }
+    }
 home-prefs-weather-header =
     .label = Време
 home-prefs-weather-description = Временска прогноза за данас
@@ -989,11 +989,11 @@ history-remember-search-option =
     .accesskey = у
 history-clear-on-close-option =
     .label =
-        Обриши историју када затворим { -brand-short-name.gender ->
-            [masculine] { -brand-short-name(case: "acc") }
-            [feminine] { -brand-short-name(case: "acc") }
-            [neuter] { -brand-short-name(case: "acc") }
-           *[other] програм { -brand-short-name }
+        { -brand-short-name.gender ->
+            [masculine] Обриши историју када затворим { -brand-short-name(case: "acc") }
+            [feminine] Обриши историју када затворим { -brand-short-name(case: "acc") }
+            [neuter] Обриши историју када затворим { -brand-short-name(case: "acc") }
+           *[other] Обриши историју када затворим програм { -brand-short-name }
         }
     .accesskey = ш
 history-clear-on-close-settings =
@@ -1014,20 +1014,20 @@ sitedata-total-size = Ускладиштени колачићи, подаци о
 sitedata-learn-more = Сазнајте више
 sitedata-delete-on-close =
     .label =
-        Избриши колачиће и податке о сајтовима након што затворим { -brand-short-name.gender ->
-            [masculine] { -brand-short-name(case: "acc") }
-            [feminine] { -brand-short-name(case: "acc") }
-            [neuter] { -brand-short-name(case: "acc") }
-           *[other] програм { -brand-short-name }
+        { -brand-short-name.gender ->
+            [masculine] Избриши колачиће и податке о сајтовима након што затворим { -brand-short-name(case: "acc") }
+            [feminine] Избриши колачиће и податке о сајтовима након што затворим { -brand-short-name(case: "acc") }
+            [neuter] Избриши колачиће и податке о сајтовима након што затворим { -brand-short-name(case: "acc") }
+           *[other] Избриши колачиће и податке о сајтовима након што затворим програм { -brand-short-name }
         }
     .accesskey = ш
 sitedata-delete-on-close-private-browsing =
-    У трајном режиму приватног прегледања колачићи и подаци о сајтовима ће бити обрисани када затворите { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "acc") }
-        [feminine] { -brand-short-name(case: "acc") }
-        [neuter] { -brand-short-name(case: "acc") }
-       *[other] програм { -brand-short-name }
-    }.
+    { -brand-short-name.gender ->
+        [masculine] У трајном режиму приватног прегледања колачићи и подаци о сајтовима ће бити обрисани када затворите { -brand-short-name(case: "acc") }.
+        [feminine] У трајном режиму приватног прегледања колачићи и подаци о сајтовима ће бити обрисани када затворите { -brand-short-name(case: "acc") }.
+        [neuter] У трајном режиму приватног прегледања колачићи и подаци о сајтовима ће бити обрисани када затворите { -brand-short-name(case: "acc") }.
+       *[other] У трајном режиму приватног прегледања колачићи и подаци о сајтовима ће бити обрисани када затворите програм { -brand-short-name }.
+    }
 sitedata-allow-cookies-option =
     .label = Прихватај колачиће и податке сајта
     .accesskey = П
@@ -1255,12 +1255,12 @@ collection-studies =
 collection-studies-link = Погледајте { -brand-short-name } студије
 addon-recommendations =
     .label =
-        Дозволи { -brand-short-name.gender ->
-            [masculine] { -brand-short-name(case: "loc") }
-            [feminine] { -brand-short-name(case: "loc") }
-            [neuter] { -brand-short-name(case: "loc") }
-           *[other] програму { -brand-short-name }
-        } да препоручује додатке изабране само за мене
+        { -brand-short-name.gender ->
+            [masculine] Дозволи { -brand-short-name(case: "loc") } да препоручује додатке изабране само за мене
+            [feminine] Дозволи { -brand-short-name(case: "loc") } да препоручује додатке изабране само за мене
+            [neuter] Дозволи { -brand-short-name(case: "loc") } да препоручује додатке изабране само за мене
+           *[other] Дозволи програму { -brand-short-name } да препоручује додатке изабране само за мене
+        }
 addon-recommendations-link = Сазнајте више
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
@@ -1314,18 +1314,18 @@ space-alert-over-5gb-settings-button =
     .accesskey = О
 space-alert-over-5gb-message2 =
     { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "loc") }
-        [feminine] { -brand-short-name(case: "loc") }
-        [neuter] { -brand-short-name(case: "loc") }
-       *[other] Програму { -brand-short-name }
-    } понестаје слободног простора на диску. Садржај веб-сајтова се можда неће правилно приказивати. Ускладиштене податке можете обрисати у одељку Подешавања → Приватност и безбедност → Колачићи и подаци о сајтовима.
+        [masculine] { -brand-short-name(case: "loc") } понестаје слободног простора на диску. Садржај веб-сајтова се можда неће правилно приказивати. Ускладиштене податке можете обрисати у одељку Подешавања → Приватност и безбедност → Колачићи и подаци о сајтовима.
+        [feminine] { -brand-short-name(case: "loc") } понестаје слободног простора на диску. Садржај веб-сајтова се можда неће правилно приказивати. Ускладиштене податке можете обрисати у одељку Подешавања → Приватност и безбедност → Колачићи и подаци о сајтовима.
+        [neuter] { -brand-short-name(case: "loc") } понестаје слободног простора на диску. Садржај веб-сајтова се можда неће правилно приказивати. Ускладиштене податке можете обрисати у одељку Подешавања → Приватност и безбедност → Колачићи и подаци о сајтовима.
+       *[other] Програму { -brand-short-name } понестаје слободног простора на диску. Садржај веб-сајтова се можда неће правилно приказивати. Ускладиштене податке можете обрисати у одељку Подешавања → Приватност и безбедност → Колачићи и подаци о сајтовима.
+    }
 space-alert-under-5gb-message2 =
     { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "loc") }
-        [feminine] { -brand-short-name(case: "loc") }
-        [neuter] { -brand-short-name(case: "loc") }
-       *[other] Програму { -brand-short-name }
-    } понестаје слободног простора на диску. Садржај веб-сајтова се можда неће правилно приказивати. Кликните на „Сазнајте више” да бисте оптимизовали коришћење диска ради бољег угођаја при претраживању интернета.
+        [masculine] { -brand-short-name(case: "loc") } понестаје слободног простора на диску. Садржај веб-сајтова се можда неће правилно приказивати. Кликните на „Сазнајте више” да бисте оптимизовали коришћење диска ради бољег угођаја при претраживању интернета.
+        [feminine] { -brand-short-name(case: "loc") } понестаје слободног простора на диску. Садржај веб-сајтова се можда неће правилно приказивати. Кликните на „Сазнајте више” да бисте оптимизовали коришћење диска ради бољег угођаја при претраживању интернета.
+        [neuter] { -brand-short-name(case: "loc") } понестаје слободног простора на диску. Садржај веб-сајтова се можда неће правилно приказивати. Кликните на „Сазнајте више” да бисте оптимизовали коришћење диска ради бољег угођаја при претраживању интернета.
+       *[other] Програму { -brand-short-name } понестаје слободног простора на диску. Садржај веб-сајтова се можда неће правилно приказивати. Кликните на „Сазнајте више” да бисте оптимизовали коришћење диска ради бољег угођаја при претраживању интернета.
+    }
 
 ## Privacy Section - HTTPS-Only
 

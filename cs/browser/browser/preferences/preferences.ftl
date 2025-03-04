@@ -560,13 +560,23 @@ update-setting-write-failure-title2 = Chyba při ukládání nastavení aktualiz
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
     { -brand-short-name.gender ->
-        [masculine] { -brand-short-name } zaznamenal
-        [feminine] { -brand-short-name } zaznamenala
-        [neuter] { -brand-short-name } zaznamenalo
-       *[other] Aplikace { -brand-short-name } zaznamenala
-    } problém při ukládání změny nastavení. Změna těchto nastavení vyžaduje oprávnění k zápisu do níže uvedeného souboru. Vy nebo správce vašeho systému můžete tento problém vyřešit přidělením úplných oprávnění k tomuto souboru pro skupinu Users.
-    
-        Není možný zápis do souboru: { $path }
+        [masculine]
+            { -brand-short-name } zaznamenal problém při ukládání změny nastavení. Změna těchto nastavení vyžaduje oprávnění k zápisu do níže uvedeného souboru. Vy nebo správce vašeho systému můžete tento problém vyřešit přidělením úplných oprávnění k tomuto souboru pro skupinu Users.
+            
+                Není možný zápis do souboru: { $path }
+        [feminine]
+            { -brand-short-name } zaznamenala problém při ukládání změny nastavení. Změna těchto nastavení vyžaduje oprávnění k zápisu do níže uvedeného souboru. Vy nebo správce vašeho systému můžete tento problém vyřešit přidělením úplných oprávnění k tomuto souboru pro skupinu Users.
+            
+                Není možný zápis do souboru: { $path }
+        [neuter]
+            { -brand-short-name } zaznamenalo problém při ukládání změny nastavení. Změna těchto nastavení vyžaduje oprávnění k zápisu do níže uvedeného souboru. Vy nebo správce vašeho systému můžete tento problém vyřešit přidělením úplných oprávnění k tomuto souboru pro skupinu Users.
+            
+                Není možný zápis do souboru: { $path }
+       *[other]
+            Aplikace { -brand-short-name } zaznamenala problém při ukládání změny nastavení. Změna těchto nastavení vyžaduje oprávnění k zápisu do níže uvedeného souboru. Vy nebo správce vašeho systému můžete tento problém vyřešit přidělením úplných oprávnění k tomuto souboru pro skupinu Users.
+            
+                Není možný zápis do souboru: { $path }
+    }
 update-in-progress-title = Probíhá aktualizace
 update-in-progress-message =
     { -brand-short-name.gender ->

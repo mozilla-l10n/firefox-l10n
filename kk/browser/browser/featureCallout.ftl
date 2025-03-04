@@ -75,6 +75,15 @@ sidebar-button-callout-title = Беттер атауларын бүйір пан
 sidebar-button-callout-subtitle = Бүйір панелін кеңейту үшін бүйір панелі батырмасын пайдаланыңыз, осылай беттер атауларын көре аласыз.
 sidebar-button-callout-vertical-tabs = Бертерді көрсету үшін құралдар тақтасындағы бүйірлік панель батырмасын басыңыз.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = { -brand-short-name } жақсартуға көмектесіңіз

@@ -75,6 +75,15 @@ sidebar-button-callout-title = Lapcímek megjelenítése az oldalsávban
 sidebar-button-callout-subtitle = Az oldalsáv gombjával bontsa ki az oldalsávot, így a lapok címét is láthatja.
 sidebar-button-callout-vertical-tabs = A lapok megjelenítéséhez válassza az oldalsáv gombot az eszköztáron.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Segítsen a { -brand-short-name } fejlesztésében

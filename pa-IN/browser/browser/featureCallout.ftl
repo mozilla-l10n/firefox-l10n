@@ -75,6 +75,15 @@ sidebar-button-callout-title = ਬਾਹੀ ਵਿੱਚ ਟੈਬਾਂ ਦੇ 
 sidebar-button-callout-subtitle = ਟੈਬਾਂ ਦੇ ਟਾਈਟਲ ਵੇਖਣ ਵਾਸਤੇ ਬਾਹੀ ਵਾਲੇ ਬਟਨ ਨੂੰ ਬਾਹੀ ਫੈਲਾਉਣ ਲਈ ਵਰਤੋ।
 sidebar-button-callout-vertical-tabs = ਆਪਣੀਆਂ ਟੈਬਾਂ ਨੂੰ ਵੇਖਾਉਣ ਲਈ, ਟੂਲ-ਪੱਟੀ ਵਿੱਚ ਬਾਹੀ ਬਟਨ ਨੂੰ ਚੁਣੋ।
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = { -brand-short-name } ਨੂੰ ਬੇਹਤਰ ਬਣਾਉਣ ਲਈ ਮਦਦ ਕਰੋ

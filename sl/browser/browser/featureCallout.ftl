@@ -75,6 +75,15 @@ sidebar-button-callout-title = V stranski vrstici prikaži naslove zavihkov
 sidebar-button-callout-subtitle = S klikom na gumb lahko razširite stransko vrstico in prikažete naslove zavihkov.
 sidebar-button-callout-vertical-tabs = Za prikaz zavihkov v orodni vrstici izberite gumb stranske vrstice.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Pomagajte izboljšati { -brand-short-name(sklon: "tozilnik") }

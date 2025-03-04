@@ -75,6 +75,15 @@ sidebar-button-callout-title = Tampilkan judul tab di bilah samping
 sidebar-button-callout-subtitle = Gunakan tombol bilah samping untuk memperluas bilah samping, sehingga Anda dapat melihat judul tab.
 sidebar-button-callout-vertical-tabs = Untuk menampilkan tab Anda, pilih tombol bilah samping di bilah alat.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Bantu tingkatkan { -brand-short-name }

@@ -25,5 +25,14 @@ callout-primary-complete-button-label = យល់ហើយ!
 ## Sidebar Strings
 
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 

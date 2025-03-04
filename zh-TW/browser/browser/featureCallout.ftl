@@ -75,6 +75,15 @@ sidebar-button-callout-title = 在側邊欄顯示分頁標題
 sidebar-button-callout-subtitle = 使用側邊欄按鈕展開側邊欄，就可以看到分頁標題。
 sidebar-button-callout-vertical-tabs = 選擇工具列中的側邊欄按鈕，即可顯示您的分頁。
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = 協助改進 { -brand-short-name }

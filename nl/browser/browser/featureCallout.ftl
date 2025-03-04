@@ -75,6 +75,15 @@ sidebar-button-callout-title = Tabbladtitels in de zijbalk tonen
 sidebar-button-callout-subtitle = Gebruik de zijbalkknop om de zijbalk uit te vouwen, zodat u tabbladtitels kunt zien.
 sidebar-button-callout-vertical-tabs = Selecteer de zijbalkknop in de werkbalk om uw tabbladen te tonen.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Help { -brand-short-name } te verbeteren

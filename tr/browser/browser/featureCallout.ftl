@@ -75,6 +75,15 @@ sidebar-button-callout-title = Sekme başlıklarını kenar çubuğunda göster
 sidebar-button-callout-subtitle = Sekme başlıklarını görmek için kenar çubuğu düğmesini kullanarak kenar çubuğunu genişletin.
 sidebar-button-callout-vertical-tabs = Sekmelerinizi göstermek için araç çubuğundaki kenar çubuğu düğmesine tıklayın.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = { -brand-short-name } uygulamasını geliştirmemize yardım edin

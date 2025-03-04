@@ -74,6 +74,15 @@ split-dismiss-button-manage-settings-option =
 sidebar-button-callout-title = Mostra els títols de les pestanyes a la barra lateral
 sidebar-button-callout-subtitle = Utilitzeu el botó de la barra lateral per a ampliar la barra lateral i poder veure els títols de les pestanyes.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Ajudeu a millorar el { -brand-short-name }

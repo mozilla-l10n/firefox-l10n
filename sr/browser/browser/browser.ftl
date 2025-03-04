@@ -351,22 +351,22 @@ identity-connection-not-secure = Веза није безбедна
 identity-connection-secure = Веза је безбедна
 identity-connection-failure = Грешка при повезивању
 identity-connection-internal =
-    Ово је безбедна страница { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] програма { -brand-short-name }
-    }.
+    { -brand-short-name.gender ->
+        [masculine] Ово је безбедна страница { -brand-short-name(case: "gen") }.
+        [feminine] Ово је безбедна страница { -brand-short-name(case: "gen") }.
+        [neuter] Ово је безбедна страница { -brand-short-name(case: "gen") }.
+       *[other] Ово је безбедна страница програма { -brand-short-name }.
+    }
 identity-connection-file = Ова страница је сачувана на рачунару.
 identity-connection-associated = Ова страница је учитана из друге странице.
 identity-extension-page = Ову страницу је отворио додатак.
 identity-active-blocked =
     { -brand-short-name.gender ->
-        [masculine] { -brand-short-name } је блокирао
-        [feminine] { -brand-short-name } је блокирала
-        [neuter] { -brand-short-name } је блокирало
-       *[other] Програм { -brand-short-name } је блокирао
-    } делове ове странице који нису безбедни.
+        [masculine] { -brand-short-name } је блокирао делове ове странице који нису безбедни.
+        [feminine] { -brand-short-name } је блокирала делове ове странице који нису безбедни.
+        [neuter] { -brand-short-name } је блокирало делове ове странице који нису безбедни.
+       *[other] Програм { -brand-short-name } је блокирао делове ове странице који нису безбедни.
+    }
 identity-custom-root = Везу је потврдио издавалац сертификата ког Mozilla не препознаје.
 identity-passive-loaded = Неки делови ове странице, попут слика, нису безбедни.
 identity-active-loaded = Онемогућили сте заштиту на овој страници.

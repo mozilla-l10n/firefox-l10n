@@ -75,6 +75,15 @@ sidebar-button-callout-title = Dangos teitlau tabiau yn y bar ochr
 sidebar-button-callout-subtitle = Defnyddiwch y botwm bar ochr i ehangu'r bar ochr, fel y gallwch weld teitlau tab.
 sidebar-button-callout-vertical-tabs = I ddangos eich tabiau, dewiswch y botwm bar ochr yn y bar offer.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Helpwch i wella { -brand-short-name }

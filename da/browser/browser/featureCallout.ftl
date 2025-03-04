@@ -75,6 +75,15 @@ sidebar-button-callout-title = Vis titler på faneblade i sidepanelet
 sidebar-button-callout-subtitle = Brug sidepanels-knappen til at udvide sidepanelet, så du kan se titler på faneblade.
 sidebar-button-callout-vertical-tabs = For at se dine faneblade skal du klikke på sidepanels-knappen i værktøjslinjen.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Hjælp os med at forbedre { -brand-short-name }

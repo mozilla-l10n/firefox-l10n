@@ -75,6 +75,15 @@ sidebar-button-callout-title = ჩანართების სათაურ
 sidebar-button-callout-subtitle = გამოიყენეთ გვერდითი ზოლის ღილაკი გვერდითი ზოლის გასაშლელად, რათა იხილოთ ჩანართების დასახელებები.
 sidebar-button-callout-vertical-tabs = თქვენი ჩანართების სანახავად აირჩიეთ გვერდითი ზოლის ღილაკი ხელსაწყოთა ზოლზე.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = დაგვეხმარეთ, გავაუმჯობესოთ { -brand-short-name }

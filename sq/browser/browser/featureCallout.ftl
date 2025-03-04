@@ -75,6 +75,15 @@ sidebar-button-callout-title = Shfaq te anështylla tituj skedash
 sidebar-button-callout-subtitle = Përdoreni butonin e anështyllës që ta zgjeroni atë, kështu mund të shihni tituj e skedave.
 sidebar-button-callout-vertical-tabs = Që të shfaqen skedat tuaja, përzgjidhni te paneli butonin e anështyllës.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Ndihmoni të përmirësohet { -brand-short-name }-i

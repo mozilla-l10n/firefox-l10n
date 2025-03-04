@@ -74,6 +74,15 @@ split-dismiss-button-manage-settings-option =
 sidebar-button-callout-title = Заглавия на разделите в страничната лента
 sidebar-button-callout-subtitle = Използвайте бутона на страничната лента, за да я разширите и да виждате заглавията на разделите.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Помогнете ни да подобрим { -brand-short-name }

@@ -75,6 +75,15 @@ sidebar-button-callout-title = Prikaži naslove kartica u bočnoj traci
 sidebar-button-callout-subtitle = Koristi gumb bočne trake za prikaz naslova kartica.
 sidebar-button-callout-vertical-tabs = Za prikaz kartica odaberi gumb bočne trake u alatnoj traci.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Pomogni poboljšati { -brand-short-name }

@@ -74,6 +74,15 @@ split-dismiss-button-manage-settings-option =
 sidebar-button-callout-title = Sānjoslā rādīt ciļņu virsrakstus
 sidebar-button-callout-subtitle = Izmantojiet sānjoslas pogu, lai izvērstu sānjoslu, lai varētu redzēt ciļņu virsrakstus.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Palīdziet uzlabot { -brand-short-name }

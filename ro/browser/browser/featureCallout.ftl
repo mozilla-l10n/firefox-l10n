@@ -24,5 +24,14 @@ callout-firefox-view-tab-pickup-title = Sari de pe un dispozitiv pe altul cu pre
 ## Sidebar Strings
 
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 

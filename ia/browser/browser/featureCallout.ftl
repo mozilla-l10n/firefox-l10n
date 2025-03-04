@@ -75,6 +75,15 @@ sidebar-button-callout-title = Monstrar titulos de scheda in le barra lateral
 sidebar-button-callout-subtitle = Usa le button del barra lateral pro expander le barra lateral, assi que tu pote vider le titulos de scheda.
 sidebar-button-callout-vertical-tabs = Pro monstrar tu schedas, selige le button del barra lateral in le barra de instrumentos.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Adjuta nos a meliorar { -brand-short-name }

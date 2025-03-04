@@ -75,6 +75,15 @@ sidebar-button-callout-title = Mostre i titui des schedis te sbare laterâl
 sidebar-button-callout-subtitle = Dopre il boton de sbare laterâl par slargjâle e cussì di rivâ a viodi i titui des schedis.
 sidebar-button-callout-vertical-tabs = Par visualizâ lis schedis, selezione il boton te sbare laterâl te sbare dai struments.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Jude a miorâ { -brand-short-name }

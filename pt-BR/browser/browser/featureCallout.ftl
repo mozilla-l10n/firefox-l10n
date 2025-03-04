@@ -75,6 +75,15 @@ sidebar-button-callout-title = Mostrar títulos de abas no painel lateral
 sidebar-button-callout-subtitle = Use o botão do painel lateral para expandir e mostrar os títulos das abas.
 sidebar-button-callout-vertical-tabs = Para exibir suas abas, clique no botão de painel lateral na barra de ferramentas.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Ajude a melhorar o { -brand-short-name }

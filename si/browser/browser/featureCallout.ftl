@@ -63,6 +63,15 @@ split-dismiss-button-manage-settings-option =
 ## Sidebar Strings
 
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-privacy-notice-link = රහස්‍යතා දැන්වීම

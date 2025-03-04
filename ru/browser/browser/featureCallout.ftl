@@ -75,6 +75,15 @@ sidebar-button-callout-title = Показывать заголовки вкла�
 sidebar-button-callout-subtitle = Используйте кнопку боковой панели, чтобы развернуть боковую панель и увидеть заголовки вкладок.
 sidebar-button-callout-vertical-tabs = Чтобы показать ваши вкладки, нажмите кнопку боковой панели на панели инструментов.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Помогите улучшить { -brand-short-name }

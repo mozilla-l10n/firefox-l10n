@@ -72,6 +72,15 @@ split-dismiss-button-manage-settings-option =
 
 sidebar-button-callout-title = Mostra os títulos das lapelas na barra lateral
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Axuda a mellorar { -brand-short-name }

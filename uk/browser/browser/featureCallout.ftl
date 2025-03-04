@@ -74,6 +74,15 @@ split-dismiss-button-manage-settings-option =
 sidebar-button-callout-title = Показувати заголовки вкладок на бічній панелі
 sidebar-button-callout-subtitle = Натисніть кнопку бічної панелі, щоб розгорнути бічну панель і бачити заголовки вкладок.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Допоможіть удосконалити { -brand-short-name }

@@ -75,6 +75,15 @@ sidebar-button-callout-title = Titele rejtarikow w bocnicy pokazaś
 sidebar-button-callout-subtitle = Wužywajśo tłocašk bocnice, aby bocnicu pokazał, aby titele rejtarikow wiźeł.
 sidebar-button-callout-vertical-tabs = Aby swóje rejtariki pokazał, wubjeŕśo tłocašk bocnice w symbolowej rědce.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Pomagajśo { -brand-short-name } pólěpšowaś

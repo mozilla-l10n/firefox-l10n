@@ -75,6 +75,15 @@ sidebar-button-callout-title = Hiển thị tiêu đề thẻ trong thanh lề
 sidebar-button-callout-subtitle = Sử dụng nút thanh lề để mở rộng thanh lề, để bạn có thể thấy tiêu đề thẻ.
 sidebar-button-callout-vertical-tabs = Để hiển thị các thẻ của bạn, chọn nút thanh lề trong thanh công cụ.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Giúp cải thiện { -brand-short-name }

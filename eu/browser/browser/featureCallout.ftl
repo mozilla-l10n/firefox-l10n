@@ -74,6 +74,15 @@ split-dismiss-button-manage-settings-option =
 sidebar-button-callout-title = Erakutsi fitxen izenburuak alboko barran
 sidebar-button-callout-subtitle = Erabili alboko barraren botoia alboko barra zabaldu eta fitxen izenburuak ikusi ahal izateko.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Lagundu { -brand-short-name } hobetzen

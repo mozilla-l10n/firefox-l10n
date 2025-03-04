@@ -75,6 +75,15 @@ sidebar-button-callout-title = Montri titolojn de langetoj en la flanka strio
 sidebar-button-callout-subtitle = Uzu la butonon de la flanka strio por malfaldi ĝin, tiel ke vi povos vidi titolojn de langetoj.
 sidebar-button-callout-vertical-tabs = Por montri viajn langetojn, alklaku la butonon de la flanka strio en la ilaro.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Helpu plibonigi { -brand-short-name }

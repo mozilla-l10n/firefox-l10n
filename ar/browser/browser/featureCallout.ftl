@@ -74,6 +74,15 @@ split-dismiss-button-manage-settings-option =
 sidebar-button-callout-title = أظهِر عناوين الألسنة في الشريط الجانبي
 sidebar-button-callout-subtitle = استخدم زر الشريط الجانبي لتوسيع الشريط الجانبي حتى تتمكن من رؤية عناوين الألسنة.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = ساعد في تحسين { -brand-short-name }

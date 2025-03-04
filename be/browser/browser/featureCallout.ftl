@@ -75,6 +75,15 @@ sidebar-button-callout-title = Паказваць назвы картак у б�
 sidebar-button-callout-subtitle = Выкарыстоўвайце кнопку бакавой панэлі, каб разгарнуць бакавую панэль, каб вы маглі бачыць загалоўкі картак.
 sidebar-button-callout-vertical-tabs = Каб паказаць карткі, абярыце кнопку бакавой панэлі на паліцы прылад.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Дапамажыце ўдасканаліць { -brand-short-name }

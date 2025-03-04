@@ -75,6 +75,15 @@ sidebar-button-callout-title = Afficher le titre des onglets dans le panneau lat
 sidebar-button-callout-subtitle = Utilisez le bouton du panneau latéral pour développer le panneau latéral, afin de voir le titre des onglets.
 sidebar-button-callout-vertical-tabs = Pour afficher vos onglets, cliquez sur le bouton du panneau latéral dans la barre d’outils.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Aidez à améliorer { -brand-short-name }

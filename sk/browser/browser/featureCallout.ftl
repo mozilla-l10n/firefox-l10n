@@ -75,6 +75,15 @@ sidebar-button-callout-title = Zobrazovať názvy kariet na bočnom paneli
 sidebar-button-callout-subtitle = Pomocou tlačidla bočného panela rozbaľte bočný panel, aby ste videli názvy kariet.
 sidebar-button-callout-vertical-tabs = Ak chcete zobraziť svoje karty, použíte tlačidlo bočného panela na paneli s nástrojmi.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Pomôžte vylepšiť { -brand-short-name }

@@ -75,6 +75,15 @@ sidebar-button-callout-title = 在侧栏中显示标签页标题
 sidebar-button-callout-subtitle = 使用侧栏按钮展开侧栏，即可查看标签页标题。
 sidebar-button-callout-vertical-tabs = 选择工具栏中的侧栏图标，即可显示标签页栏。
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = 帮助改进 { -brand-short-name }

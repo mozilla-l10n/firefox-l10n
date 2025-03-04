@@ -75,6 +75,15 @@ sidebar-button-callout-title = แสดงชื่อแท็บในแถ�
 sidebar-button-callout-subtitle = ใช้ปุ่มแถบข้างเพื่อขยายแถบข้างเพื่อให้คุณสามารถเห็นชื่อแท็บได้
 sidebar-button-callout-vertical-tabs = เมื่อต้องการแสดงแท็บของคุณ ให้เลือกปุ่มแถบข้างในแถบเครื่องมือ
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = ช่วยปรับปรุง { -brand-short-name }

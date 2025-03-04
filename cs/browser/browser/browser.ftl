@@ -460,11 +460,11 @@ identity-connection-associated = Tato stránka je načtena z jiné stránky.
 identity-extension-page = Tato stránka je načtena z doplňku.
 identity-active-blocked =
     { -brand-short-name.gender ->
-        [masculine] { -brand-short-name } zablokoval
-        [feminine] { -brand-short-name } zablokovala
-        [neuter] { -brand-short-name } zablokovalo
-       *[other] Aplikace { -brand-short-name } zablokovala
-    } nezabezpečené části této stránky.
+        [masculine] { -brand-short-name } zablokoval nezabezpečené části této stránky.
+        [feminine] { -brand-short-name } zablokovala nezabezpečené části této stránky.
+        [neuter] { -brand-short-name } zablokovalo nezabezpečené části této stránky.
+       *[other] Aplikace { -brand-short-name } zablokovala nezabezpečené části této stránky.
+    }
 identity-custom-root = Připojení je ověřeno vydavatelem certifikátů, kterého Mozilla nezná.
 identity-passive-loaded = Části této stránky nejsou zabezpečené (například obrázky).
 identity-active-loaded = Na této stránce jste ochranu zakázali.
@@ -480,12 +480,12 @@ identity-https-only-dropdown-off =
 identity-https-only-dropdown-off-temporarily =
     .label = Dočasně vypnuto
 identity-https-only-info-turn-on2 =
-    Pokud chcete, aby { -brand-short-name.gender ->
-        [masculine] { -brand-short-name } přepnul
-        [feminine] { -brand-short-name } přepnula
-        [neuter] { -brand-short-name } přepnulo
-       *[other] aplikace { -brand-short-name } přepnula
-    } spojení na HTTPS, kdykoliv je to možné, zapněte pro tento server režim „pouze HTTPS“.
+    { -brand-short-name.gender ->
+        [masculine] Pokud chcete, aby { -brand-short-name } přepnul spojení na HTTPS, kdykoliv je to možné, zapněte pro tento server režim „pouze HTTPS“.
+        [feminine] Pokud chcete, aby { -brand-short-name } přepnula spojení na HTTPS, kdykoliv je to možné, zapněte pro tento server režim „pouze HTTPS“.
+        [neuter] Pokud chcete, aby { -brand-short-name } přepnulo spojení na HTTPS, kdykoliv je to možné, zapněte pro tento server režim „pouze HTTPS“.
+       *[other] Pokud chcete, aby aplikace { -brand-short-name } přepnula spojení na HTTPS, kdykoliv je to možné, zapněte pro tento server režim „pouze HTTPS“.
+    }
 identity-https-only-info-turn-off2 = Pokud se zdá, že je stránka rozbitá, zkuste vypnout režim „pouze HTTPS“, aby se znovu načetla pomocí nezabezpečeného spojení HTTP.
 identity-https-only-info-turn-on3 =
     { -brand-short-name.gender ->
@@ -515,20 +515,20 @@ identity-description-weak-cipher-intro = Vaše spojení s tímto serverem použ�
 identity-description-weak-cipher-risk = Ostatní lidé mohou vidět vaše informace nebo pozměnit chování stránky.
 identity-description-active-blocked2 =
     { -brand-short-name.gender ->
-        [masculine] { -brand-short-name } zablokoval
-        [feminine] { -brand-short-name } zablokovala
-        [neuter] { -brand-short-name } zablokovalo
-       *[other] Aplikace { -brand-short-name } zablokovala
-    } nezabezpečené části této stránky.
+        [masculine] { -brand-short-name } zablokoval nezabezpečené části této stránky.
+        [feminine] { -brand-short-name } zablokovala nezabezpečené části této stránky.
+        [neuter] { -brand-short-name } zablokovalo nezabezpečené části této stránky.
+       *[other] Aplikace { -brand-short-name } zablokovala nezabezpečené části této stránky.
+    }
 identity-description-passive-loaded = Vaše připojení není soukromé a informace, které sdílíte s tímto serverem, mohou být viděny ostatními.
 identity-description-passive-loaded-insecure2 = Tato webová stránka obsahuje obsah, který není zabezpečen (například obrázky).
 identity-description-passive-loaded-mixed2 =
-    Ačkoli { -brand-short-name.gender ->
-        [masculine] { -brand-short-name } zablokoval
-        [feminine] { -brand-short-name } zablokovala
-        [neuter] { -brand-short-name } zablokovalo
-       *[other] aplikace { -brand-short-name } zablokovala
-    } nějaký obsah, stránka stále ještě obsahuje nezabezpečený obsah (například obrázky).
+    { -brand-short-name.gender ->
+        [masculine] Ačkoli { -brand-short-name } zablokoval nějaký obsah, stránka stále ještě obsahuje nezabezpečený obsah (například obrázky).
+        [feminine] Ačkoli { -brand-short-name } zablokovala nějaký obsah, stránka stále ještě obsahuje nezabezpečený obsah (například obrázky).
+        [neuter] Ačkoli { -brand-short-name } zablokovalo nějaký obsah, stránka stále ještě obsahuje nezabezpečený obsah (například obrázky).
+       *[other] Ačkoli aplikace { -brand-short-name } zablokovala nějaký obsah, stránka stále ještě obsahuje nezabezpečený obsah (například obrázky).
+    }
 identity-description-active-loaded = Tato webová stránka obsahuje obsah, který není zabezpečen (například skripty), a připojení k tomuto serveru tak není soukromé.
 identity-description-active-loaded-insecure = Informace, které sdílíte s tímto serverem (jako hesla, zprávy, číslo platební karty, atd.), mohou být viděny ostatními.
 identity-disable-mixed-content-blocking =

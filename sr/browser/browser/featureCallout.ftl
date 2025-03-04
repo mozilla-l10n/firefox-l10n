@@ -74,6 +74,15 @@ split-dismiss-button-manage-settings-option =
 sidebar-button-callout-title = Прикажи наслове картица у бочном панелу
 sidebar-button-callout-subtitle = Користите тастер за бочни панел да проширите исти и видите наслове картица.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Помозите да побољшамо { -brand-short-name }

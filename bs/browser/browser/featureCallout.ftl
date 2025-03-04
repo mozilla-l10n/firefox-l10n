@@ -74,6 +74,15 @@ split-dismiss-button-manage-settings-option =
 sidebar-button-callout-title = Prikaži naslove tabove na bočnoj traci
 sidebar-button-callout-subtitle = Koristite dugme bočne trake da proširite bočnu traku, tako da možete videti naslove tabova.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Pomozite poboljšati { -brand-short-name }

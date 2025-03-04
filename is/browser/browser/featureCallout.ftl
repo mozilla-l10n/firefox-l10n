@@ -75,6 +75,15 @@ sidebar-button-callout-title = Sýndu titla flipa í hliðarstikunni
 sidebar-button-callout-subtitle = Notaðu hliðarstikuhnappinn til að stækka hliðarstikuna, svo þú getir séð titlana á flipunum.
 sidebar-button-callout-vertical-tabs = Til að sýna flipana þína skaltu velja hliðarstikuhnappinn á verkfærastikunni.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Hjálpaðu til við að bæta { -brand-short-name }

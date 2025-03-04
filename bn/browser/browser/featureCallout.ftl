@@ -53,5 +53,14 @@ callout-pdfjs-draw-button = পেয়েছি!
 ## Sidebar Strings
 
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 

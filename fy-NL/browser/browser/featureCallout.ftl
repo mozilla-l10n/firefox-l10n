@@ -75,6 +75,15 @@ sidebar-button-callout-title = Ljepblêdtitels yn de sydbalke toane
 sidebar-button-callout-subtitle = Brûk de sydbalkeknop om de sydbalke út te klappen, sadat jo ljepblêdtitels sjen kinne.
 sidebar-button-callout-vertical-tabs = Selektearje de sydbalkeknop yn de arkbalke om jo ljepblêden te toanen.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Help { -brand-short-name } te ferbetterjen

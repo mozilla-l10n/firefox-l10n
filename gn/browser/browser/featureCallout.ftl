@@ -75,6 +75,15 @@ sidebar-button-callout-title = Ehechauka tendayke reratee tenda yképe
 sidebar-button-callout-subtitle = Eiporu tenda yke votõ emyasãi hag̃ua mba’erupa ha ehecha umi tendayke reratee.
 sidebar-button-callout-vertical-tabs = Ehechauka hag̃ua ne rendayke, eiporavo votõ tenda ykegua tembiporu rendápe.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Eipytyvõ { -brand-short-name } iporãve hag̃ua

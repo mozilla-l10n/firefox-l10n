@@ -74,6 +74,15 @@ split-dismiss-button-manage-settings-option =
 sidebar-button-callout-title = Seall ainmean nan tabaichean air a’ bhàr-taoibh
 sidebar-button-callout-subtitle = Cleachd putan a’ bhàr-taoibh airson am bàr-taoibh a leudachadh ach am faic thu ainmean nan tabaichean.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Cuidich leinn a’ toirt piseach air { -brand-short-name }

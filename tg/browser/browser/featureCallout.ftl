@@ -75,6 +75,15 @@ sidebar-button-callout-title = Нишон додани сарлавҳаҳои в
 sidebar-button-callout-subtitle = Барои баркушодани навори ҷонибӣ ва дидани сарлавҳаҳои варақаҳо, лутфан, аз тугмаи навори ҷонибӣ истифода баред.
 sidebar-button-callout-vertical-tabs = Барои нишон додани варақаҳои шумо, тугмаи навори ҷонибиро дар навори абзорҳо интихоб кунед.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Барои такмил додани «{ -brand-short-name }» кумак расонед

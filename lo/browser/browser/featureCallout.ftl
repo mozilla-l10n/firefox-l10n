@@ -74,6 +74,15 @@ split-dismiss-button-manage-settings-option =
 sidebar-button-callout-title = ສະແດງຊື່ແຖບໃນແຖບດ້ານຂ້າງ
 sidebar-button-callout-vertical-tabs = ເພື່ອສະແດງແຖບຂອງທ່ານ, ເລືອກປຸ່ມແຖບດ້ານຂ້າງໃນແຖບເຄື່ອງມື.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = ຊ່ວຍປັບປຸງ { -brand-short-name }

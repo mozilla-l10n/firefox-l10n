@@ -74,6 +74,15 @@ split-dismiss-button-manage-settings-option =
 sidebar-button-callout-title = عنوان زبانه‌ها را در نوار کناری نشان بده
 sidebar-button-callout-subtitle = از دکمه نوار کناری برای گسترش نوار کناری استفاده کنید تا عنوان زبانه‌ها را ببینید.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = به بهبود { -brand-short-name } کمک کنید

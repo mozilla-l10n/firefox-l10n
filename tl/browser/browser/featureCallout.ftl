@@ -42,5 +42,14 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Magsimula
 ## Sidebar Strings
 
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 

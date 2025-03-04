@@ -72,6 +72,15 @@ split-dismiss-button-manage-settings-option =
 sidebar-button-callout-title = Ցուցադրել ներդիրների վերնագրերը կողային գոտում
 sidebar-button-callout-subtitle = Օգտագործեք կողագոտի կոճակը՝ կողագոտին ընդլայնելու համար, որպեսզի կարողանաք տեսնել ներդիրների վերնագրերը:
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Օգնեք բարելավել { -brand-short-name }-ը

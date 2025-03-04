@@ -75,6 +75,15 @@ sidebar-button-callout-title = Εμφάνιση τίτλων καρτελών σ
 sidebar-button-callout-subtitle = Χρησιμοποιήστε το κουμπί της πλαϊνής γραμμής για να αναπτύξετε την πλαϊνή γραμμή, ώστε να βλέπετε τους τίτλους καρτελών.
 sidebar-button-callout-vertical-tabs = Για να εμφανιστούν οι καρτέλες σας, επιλέξτε το κουμπί της πλαϊνής γραμμής στη γραμμή εργαλείων.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Βοηθήστε στη βελτίωση του { -brand-short-name }

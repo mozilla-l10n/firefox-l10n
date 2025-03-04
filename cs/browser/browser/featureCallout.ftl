@@ -95,6 +95,15 @@ sidebar-button-callout-title = Zobrazovat názvy panelů v postranní liště
 sidebar-button-callout-subtitle = Pomocí tlačítka postranního panelu rozbalte postranní panel, abyste viděli názvy panelů..
 sidebar-button-callout-vertical-tabs = Chcete-li zobrazit své panely, zvolte na panelu nástrojů tlačítko postranní lišty.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title =

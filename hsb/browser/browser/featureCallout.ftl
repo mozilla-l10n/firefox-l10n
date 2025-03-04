@@ -75,6 +75,15 @@ sidebar-button-callout-title = Titule rajtarkow w bóčnicy pokazać
 sidebar-button-callout-subtitle = Wužiwajće tłóčatko bóčnicy, zo byšće bóčnicu pokazał, zo byšće titule rajtarkow widźał.
 sidebar-button-callout-vertical-tabs = Zo byšće swoje rajtarki pokazał, wubjerće tłóčatko bóčnicy w symbolowej lajsće.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Pomhajće { -brand-short-name } polěpšować

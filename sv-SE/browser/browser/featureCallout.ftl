@@ -75,6 +75,15 @@ sidebar-button-callout-title = Visa fliktitlar i sidofältet
 sidebar-button-callout-subtitle = Använd sidofältsknappen för att utöka sidofältet så att du kan se fliktitlar.
 sidebar-button-callout-vertical-tabs = För att visa dina flikar, välj sidofältsknappen i verktygsfältet.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Hjälp till att förbättra { -brand-short-name }

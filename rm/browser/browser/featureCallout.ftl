@@ -75,6 +75,15 @@ sidebar-button-callout-title = Mussar ils titels dals tabs en la panela laterala
 sidebar-button-callout-subtitle = Utilisescha il buttun da la trav laterala per expander la trav laterala e vesair ils titels dals tabs.
 sidebar-button-callout-vertical-tabs = Per laschar mussar tes tabs, tscherna il buttun da la trav laterala en la trav d’utensils.
 
+## Sidebar Vertical Tabs Strings
+
+
+## Sidebar Vertical Tabs Pinning Strings
+
+
+## Sidebar Onboarding Strings
+
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Gida a meglierar { -brand-short-name }
