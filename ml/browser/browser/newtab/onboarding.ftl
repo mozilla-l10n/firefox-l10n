@@ -165,9 +165,13 @@ mr2022-onboarding-colorway-label-default = തനിമട്ട്
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-header = ഒരു അമൎത്തലിൽ സ്വകാര്യ തിരച്ചിൽ സ്വാതന്ത്രം നേടുക
+mr2022-upgrade-onboarding-pin-private-window-subtitle = താങ്ങളുടെ ഉപരിഫലകം നിന്ന് തന്നെ, കുക്കികളും നാൾവഴിയും കരുതിവയ്ക്കാതെ ആരും കാണാത്ത പോലെ പരതുക.
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = താങ്ങളുടെ സ്വകാര്യതായെ ഞങ്ങൾ എപ്പോഴും മാനിക്കാറുണ്ടു്
+mr2022-onboarding-privacy-segmentation-button-secondary-label = വിശദമായ വിവരങ്ങൾ കാണിക്കുക
 
 ## MR2022 Multistage Gratitude screen strings
 
@@ -184,6 +188,7 @@ onboarding-infrequent-import-primary-button = { -brand-short-name }-ലോട്
 
 ## Device migration onboarding
 
+onboarding-device-migration-title = തിരികെ സ്വാഗതം
 onboarding-device-migration-primary-button-label = പ്രവേശിക്കുക
 
 ## Add-ons Picker screen
@@ -191,9 +196,17 @@ onboarding-device-migration-primary-button-label = പ്രവേശിക്�
 amo-picker-title = { -brand-short-name } ഇഷ്ടാനുസൃതമാക്കുക
 amo-picker-install-button-label = { -brand-short-name }-ലോട്ടു് ചേൎക്കുക
 amo-picker-install-complete-label = സ്ഥാപിച്ചതു്
+amo-picker-collection-link = കൂടുതൽ ആഡോണുകൾ ആരായുക
 
 ## The following screens have been updated to use security and privacy focused strings:
 
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = താങ്ങളെ സുരക്ഷിതമായി വയ്ക്കാൻ ഞങ്ങളുടെ കടമയാണു്
+onboarding-easy-setup-security-and-privacy-subtitle = ഞങ്ങളുടെ ലാഭേച്ഛയില്ലാത്ത അന്വേഷിയന്ത്രം താങ്ങളെ വെബിലുടനീളം രഹസ്യമായി പിന്തുടരുന്നതിൽ നിന്ന് കമ്പനികളെ തടയാൻ സഹായിക്കുന്നു.
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = താങ്ങൾ ഉപകരണങ്ങൾക്കിടയിൽ ചാടുമ്പോഴു്  രൂപമാറ്റം വരുത്തിയിരിക്കുക
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } താങ്ങളുടെ പിന്തുണയോടെയുണ്ട്.
 # Sign up or Sign in screen
 onboarding-sign-up-title = ഉപകരണങ്ങൾ കുറുകെ രഹസ്യവാക്കുകൾ സമന്വയിപ്പിക്കുക
 onboarding-sign-up-button = പ്രവേശിക്കുക അല്ലെങ്കിൽ അംഗത്വം എടുക്കുക
@@ -201,6 +214,7 @@ onboarding-sign-up-secondary-button = തിരയാൻ തുടങ്ങു�
 
 ## New user time and familiarity survey strings
 
+onboarding-new-user-time-based-survey-title = താങ്ങൾ എത്ര നേരത്തോട്ടു് { -brand-short-name } ഉപയോഗിക്കുന്നു ?
 # When translating "next" it means the next screen in onboarding.
 onboarding-new-user-survey-next-button-label = അടുത്തതു്
 # When translating "brand new" it means completely new.
