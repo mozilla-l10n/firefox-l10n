@@ -58,6 +58,10 @@ contentanalysis-error-message-upload-file = Upload van ‘{ $filename }’ gewei
 contentanalysis-error-message-dropped-text = Verslepen geweigerd.
 contentanalysis-error-message-clipboard = Plakken geweigerd.
 contentanalysis-error-message-print = Afdrukken geweigerd.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
+contentanalysis-timeout-block-error-message-content = De verbinding met { $agent } is verlopen. { $contentName } is geblokkeerd.
 contentanalysis-block-dialog-title-upload-file = U mag dit bestand niet uploaden
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"

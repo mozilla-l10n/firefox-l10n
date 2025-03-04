@@ -446,6 +446,11 @@ onboarding-checklist-sign-up = Registreren of aanmelden bij uw account
 
 tab-groups-onboarding-feature-callout-title = Probeer tabbladgroepen voor minder rommel, meer focus
 tab-groups-onboarding-feature-callout-subtitle = Orden door het ene tabblad op het andere te slepen om uw eerste groep aan te maken.
+tab-groups-onboarding-create-group-title-2 = Vind hier altijd uw tabbladgroepen.
+tab-groups-onboarding-create-group-no-alltabs-button-title = Vind uw groepen door ernaar te zoeken in de adresbalk.
+tab-groups-onboarding-saved-groups-title-2 = Wanneer u een tabbladgroep sluit, kunt u deze hier altijd opnieuw openen.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Vind uw gesloten groepen door ernaar te zoeken in de adresbalk.
+tab-groups-onboarding-session-restore-title = Open hier altijd uw tabbladgroepen.
 tab-groups-onboarding-saved-groups-title = Als u een tabbladgroep sluit, kunt u deze hier altijd opnieuw openen.
 tab-groups-onboarding-dismiss = OK
 
@@ -466,3 +471,5 @@ desktop-to-mobile-headline = Downloaden, synchroniseren en gaan!
 desktop-to-mobile-subtitle = Scan de QR-code om { -brand-product-name } voor mobiel te downloaden. Selecteer na installatie ‘Synchroniseren met mobiel’ om onderweg toegang tot uw wachtwoorden, bladwijzers en meer te krijgen.
 dismiss-button-label = Sluiten
 sync-to-mobile-button-label = Synchroniseren met mobiel
+desktop-to-mobile-qr-code-alt =
+    .aria-label = QR-code om { -brand-product-name } voor mobiel te downloaden

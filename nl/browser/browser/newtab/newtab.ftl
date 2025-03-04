@@ -315,6 +315,12 @@ newtab-custom-settings = Meer instellingen beheren
 
 newtab-wallpaper-title = Achtergronden
 newtab-wallpaper-reset = Standaardwaarden
+newtab-wallpaper-upload-image = Een afbeelding uploaden
+newtab-wallpaper-custom-color = Kies een kleur
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = De afbeelding heeft de bestandsgroottelimiet van { $file_size } MB overschreden. Probeer een kleiner bestand te uploaden.
+newtab-wallpaper-error-file-type = We konden uw bestand niet uploaden. Probeer het opnieuw met een ander bestandstype.
 newtab-wallpaper-light-red-panda = Rode panda
 newtab-wallpaper-light-mountain = Witte berg
 newtab-wallpaper-light-sky = Lucht met paarse en roze wolken
@@ -358,6 +364,10 @@ newtab-wallpaper-abstract-purple = Paarse vormen
 newtab-wallpaper-abstract-orange = Oranje vormen
 newtab-wallpaper-gradient-orange = Verloop oranje en roze
 newtab-wallpaper-abstract-blue-purple = Blauwe en paarse vormen
+newtab-wallpaper-abstract-white-curves = Wit met gearceerde rondingen
+newtab-wallpaper-abstract-purple-green = Paars en groene lichtgradiënt
+newtab-wallpaper-abstract-blue-purple-waves = Blauwe en paarse golvende vormen
+newtab-wallpaper-abstract-black-waves = Zwarte golvende vormen
 
 ## Celestial
 
@@ -368,6 +378,12 @@ newtab-wallpaper-storm-sky = Onweerslucht
 newtab-wallpaper-sky-with-pink-clouds = Lucht met roze wolken
 newtab-wallpaper-red-panda-yawns-in-a-tree = Rode panda gaapt in een boom
 newtab-wallpaper-white-mountains = Witte bergen
+newtab-wallpaper-hot-air-balloons = Heteluchtballonnen in diverse kleuren overdag
+newtab-wallpaper-starry-canyon = Blauwe sterrennacht
+newtab-wallpaper-suspension-bridge = Foto’s van een volledige hangbrug overdag
+newtab-wallpaper-sand-dunes = Witte zandduinen
+newtab-wallpaper-palm-trees = Silhouet van kokospalmen tijdens het gouden uur
+newtab-wallpaper-forest-trees = Bomen bedekt met mist
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -385,6 +401,16 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Kosmisch
+newtab-wallpaper-celestial-lunar-eclipse = Maansverduistering
+newtab-wallpaper-celestial-earth-night = Nachtfoto vanuit een lage baan om de aarde
+newtab-wallpaper-celestial-starry-sky = Sterrenhemel
+newtab-wallpaper-celestial-eclipse-time-lapse = Time-lapse van maansverduistering
+newtab-wallpaper-celestial-black-hole = Illustratie van een zwart-gatsterrenstelsel
+newtab-wallpaper-celestial-river = Satellietfoto van rivier
 
 ## New Tab Weather
 
@@ -480,13 +506,22 @@ newtab-section-confirm-block-section-p1 = Weet u zeker dat u deze sectie wilt bl
 newtab-section-confirm-block-section-p2 = Geblokkeerde sectie verschijnt niet meer in uw feed.
 newtab-section-block-section-button = Deze sectie blokkeren
 newtab-section-cancel-button = Niet nu
+newtab-section-confirm-block-topic-p1 = Weet u zeker dat u dit onderwerp wilt blokkeren?
+newtab-section-confirm-block-topic-p2 = Geblokkeerde onderwerpen verschijnen niet meer in uw feed.
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = { $topic } blokkeren
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Onderwerpen
+newtab-section-manage-topics-button-v2 =
+    .label = Onderwerpen beheren
+newtab-section-mangage-topics-followed-topics = Gevolgd
 newtab-section-mangage-topics-button =
     .label = Gevolgde en geblokkeerde onderwerpen
 newtab-section-mangage-topics-followed-topics-subtitle = Gevolgde onderwerpen
 newtab-section-mangage-topics-followed-topics-empty-state = U hebt nog geen onderwerpen gevolgd.
+newtab-section-mangage-topics-blocked-topics = Geblokkeerd
 newtab-section-mangage-topics-blocked-topics-subtitle = Geblokkeerde onderwerpen
 newtab-section-mangage-topics-blocked-topics-empty-state = U hebt nog geen onderwerpen geblokkeerd.

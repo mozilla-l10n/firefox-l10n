@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI-chatbot
 menu-view-review-checker =
     .label = Beoordelingscontrole
+menu-view-contextual-password-manager =
+    .label = Wachtwoorden
 sidebar-options-menu-button =
     .title = Menu openen
 
@@ -75,6 +77,12 @@ sidebar-context-menu-bookmark-tab =
     .label = Bladwijzer voor tabblad maken…
 sidebar-context-menu-copy-link =
     .label = Koppeling kopiëren
+sidebar-context-menu-hide-sidebar =
+    .label = Zijbalk verbergen
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Verticale tabbladen inschakelen
+sidebar-context-menu-customize-sidebar =
+    .label = Zijbalk aanpassen
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
@@ -99,6 +107,8 @@ sidebar-menu-customize-label =
     .label = Zijbalk aanpassen
 sidebar-menu-review-checker-label =
     .label = Beoordelingscontrole
+sidebar-menu-contextual-password-manager-label =
+    .label = Wachtwoorden
 
 ## Tooltips for sidebar menu items.
 
@@ -139,6 +149,8 @@ sidebar-menu-syncedtabs-header =
     .heading = Tabbladen van andere apparaten
 sidebar-menu-bookmarks-header =
     .heading = Bladwijzers
+sidebar-menu-cpm-header =
+    .heading = Wachtwoorden
 sidebar-panel-header-close-button =
     .tooltiptext = Sluiten
 
