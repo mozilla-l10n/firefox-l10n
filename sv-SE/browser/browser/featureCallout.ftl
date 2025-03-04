@@ -77,12 +77,27 @@ sidebar-button-callout-vertical-tabs = För att visa dina flikar, välj sidofäl
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = Överväldigad av för många flikar?
+vertical-tabs-callout-1-subtitle = Prova vår nya vertikala fliklayout för att snabbt skanna din lista med flikar. Tidiga testare rapporterar att den här layouten hjälper dem att känna sig mer organiserade. Byt när som helst.
+vertical-tabs-callout-1-cta-button = Prova vertikala flikar
+vertical-tabs-callout-2-cta-button = Försök nu
+vertical-tabs-callout-2-title = Hålla många flikar öppna? Prova vertikala flikar.
+vertical-tabs-callout-2-subtitle = Denna layout gör det enkelt att snabbt skanna din lista med flikar. Dessutom kan du justera bredden för att se fler eller färre av dina fliktitlar.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = Tappa bort dina viktiga flikar?
+sidebar-pins-callout-subtitle = Testa att fästa dem, vilket håller dem överst i listan över flikar. Högerklicka på en flik du vill fästa och välj sedan Fäst flik.
+sidebar-pins-callout-cta-button = Fäst flik
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Sidofält: din plats för verktyg och flikar
+sidebar-customization-callout-1-subtitle = Sidfältet { -brand-product-name } ger dig snabb åtkomst till din webbhistorik, flikar från andra enheter och en AI-chatbot — allt utan att lämna huvudvyn.
+sidebar-customization-callout-callout-button = Anpassa sidofält
+sidebar-customization-callout-dismiss-button = Dölj sidofält
+sidebar-customization-callout-2-title = Gör sidofältet { -brand-product-name } till ditt
+sidebar-customization-callout-2-subtitle = Lägg till och ta bort verktyg. Placera dina flikar i sidofältet. Ge en AI-chatbot ett försök. Hur du anpassar ditt sidofält är upp till dig.
 
 ## Sidebar Callout Survey Strings
 

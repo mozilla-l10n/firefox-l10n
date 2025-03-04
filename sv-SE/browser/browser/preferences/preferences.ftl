@@ -1127,6 +1127,13 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Adressfält
 addressbar-suggest = När du använder adressfältet, föreslå
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Adressfält — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Välj vilken typ av förslag som ska visas i adressfältet.
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Läs mer
 addressbar-locbar-history-option =
     .label = Webbläsarhistorik
     .accesskey = W
@@ -1159,7 +1166,18 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Visa populära sökförslag
     .accesskey = p
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = Förslag från { -brand-short-name }
+addressbar-locbar-suggest-nonsponsored-desc = Få förslag från webben relaterade till din sökning.
+addressbar-locbar-suggest-sponsored-option =
+    .label = Förslag från sponsorer
+addressbar-locbar-suggest-sponsored-desc = Stöd { -brand-short-name } med enstaka sponsrade förslag.
 addressbar-quickactions-learn-more = Läs mer
+addressbar-dismissed-suggestions-label = Avvisade förslag
+addressbar-restore-dismissed-suggestions-description = Återställ avvisade förslag från sponsorer och { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button =
+    .label = Återställ
 
 ## Privacy Section - Content Blocking
 
