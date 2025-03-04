@@ -110,6 +110,13 @@ migration-bookmarks-from-file-progress-header = ກຳລັງນຳເຂົ�
 migration-bookmarks-from-file = ບຸກມາກ
 migration-bookmarks-from-file-success-header = ນຳເຂົ້າບຸກມາກສຳເລັດແລ້ວ
 migration-bookmarks-from-file-no-valid-data = ໄຟລ໌ດັ່ງກ່າວບໍ່ມີຂໍ້ມູນບຸກມາກ. ເລືອກໄຟລ໌ອື່ນ.
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] HTML Document
+       *[other] ໄຟລ໌ HTML
+    }
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = ໄຟລ໌ JSON
@@ -140,6 +147,7 @@ migration-list-bookmark-label = ບຸກມາກ
 migration-list-favorites-label = ລາຍການທີ່ມັກ
 migration-list-password-label = ລະຫັດຜ່ານ
 migration-list-history-label = ປະຫວັດ
+migration-list-extensions-label = ສ່ວນເສີມ
 migration-list-autofill-label = ຕື່ມຂໍ້ມູນອັດຕະໂນມັດ
 migration-list-payment-methods-label = ວິ​ທີ​ການ​ຊໍາ​ລະ​ເງິນ​
 
@@ -149,6 +157,11 @@ migration-wizard-progress-header = ການ​ນໍາ​ເຂົ້າ​ຂ
 # This header appears in the final page of the migration wizard only if
 # all resources were imported successfully.
 migration-wizard-progress-done-header = ນຳເຂົ້າຂໍ້ມູນສຳເລັດແລ້ວ
+# This header appears in the final page of the migration wizard if only
+# some of the resources were imported successfully. This is meant to be
+# distinct from migration-wizard-progress-done-header, which is only shown
+# if all resources were imported successfully.
+migration-wizard-progress-done-with-warnings-header = ການນໍາເຂົ້າຂໍ້ມູນສໍາເລັດ
 migration-wizard-progress-icon-in-progress =
     .aria-label = ກຳລັງນຳເຂົ້າ…
 migration-wizard-progress-icon-completed =
