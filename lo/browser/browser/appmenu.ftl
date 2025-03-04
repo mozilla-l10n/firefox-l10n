@@ -256,6 +256,8 @@ appmenu-developer-tools-extensions =
 
 ## Panel for privacy and security products
 
+appmenuitem-sign-in-account = ເຂົ້າສູ່ລະບົບບັນຊີຂອງທ່ານ
+appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = ຮັບການແຈ້ງເຕືອນເມື່ອຂໍ້ມູນມີການຮົ່ວໄຫຼ
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = ໃສ່ໂຕປິດບັງອີເມວ ແລະ ໂທລະສັບຂອງທ່ານ
