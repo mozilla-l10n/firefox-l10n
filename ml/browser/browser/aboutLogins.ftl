@@ -106,7 +106,7 @@ about-logins-list-section-week = കഴിഞ്ഞ 7 ദിവസങ്ങൾ
 about-logins-login-intro-heading-logged-out2 = താങ്ങളുടെ കരുതിവച്ച പ്രവേശിക്കലുകൾക്കായി തേടുകയാണോ? സമന്വയം തുടങ്ങി വയ്ക്കുക അല്ലെങ്കിൽ അവരെ ഇറക്കുമതിക്കുക.
 about-logins-login-intro-heading-logged-in = സമന്വയിപ്പിച്ച ലോഗിനുകളൊന്നും കണ്ടെത്തിയില്ല.
 login-intro-description = നിങ്ങളുടെ പ്രവേശണങ്ങൾ മറ്റൊരു ഉപകരണത്തിൽ{ -brand-product-name } എന്നതിലേക്ക് സംരക്ഷിച്ചുവെങ്കിൽ, അവ എങ്ങനെ ഇവിടെ നേടാം:
-login-intro-instructions-fxa = താങ്ങളുടെ പ്രവേശണം കരുതിവച്ചിരിക്കുന്ന ഉപകരണത്തിൽ താങ്ങളുടെ { -fxaccount-brand-name(capitalization: "sentence") } സൃഷ്ടിക്കുക അല്ലെങ്കിൽ പ്രവേശിക്കൽ ചെയ്യുക.
+login-intro-instructions-fxa = താങ്ങളുടെ പ്രവേശണം കരുതിവച്ചിരിക്കുന്ന ഉപകരണത്തിൽ താങ്ങളുടെ { -fxaccount-brand-name } സൃഷ്ടിക്കുക അല്ലെങ്കിൽ പ്രവേശിക്കൽ ചെയ്യുക.
 about-logins-login-intro-heading-message = താങ്ങളുടെ രഹസ്യവാക്കുകളെ ഒരു സുരക്ഷിതമായ സ്ഥലത്തിലേക്കു് കരുതിവയ്ക്കുക
 login-intro-description2 = { -brand-product-name }-ലോട്ടു് താങ്ങൾ കരുതിവയ്ക്കുന്ന എല്ലാ രഹസ്യവാക്കുകളിൽ രൂപമാറ്റം വരുതിയിരിക്കുന്നതാണു്. അതു് കൂടാതെ ഞങ്ങൾ ലംഘനങ്ങൾക്കായി നിരീക്ഷിക്കുകയും താങ്ങളുടെ ദത്ത അപകടത്തിലാണെങ്കിൽ അതു് താങ്ങളെ അറിയിക്കാരുമുണ്ടു്. <a data-l10n-name="breach-alert-link">കൂടുതൽ അറിയുക</a>
 login-intro-instructions-fxa2 = താങ്ങളുടെ പ്രവേശിക്കലുകൾ കരുതിവച്ച ഉപകരണത്തിൽ അക്കൗണ്ടു് ഉണ്ടാക്കുക അല്ലെങ്കിൽ പ്രവേശിക്കുക
@@ -148,9 +148,6 @@ login-item-cancel-button = റദ്ദാക്കുക
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
-# Variables
-#   $datetime (date) - Event date
-login-item-timeline-point-date = { DATETIME($datetime, day: "അക്കം", month: "ചെറിയ", year: "അക്കം") }
 login-item-timeline-action-created = ഉണ്ടാക്കിയതു്
 login-item-timeline-action-updated = പുതുച്ചതു്
 login-item-timeline-action-used = ഉപയോഗിച്ചതു്

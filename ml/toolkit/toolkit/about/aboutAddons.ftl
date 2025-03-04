@@ -231,7 +231,7 @@ privacy-policy = സ്വകാര്യത നയം
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
-created-by-author = <a data-l10n-name="author-name">{ $author }</a> നാൽ
+created-by-author = <a data-l10n-name="author">{ $author }</a> നാൽ
 # Shows the number of daily users of the add-on.
 # Variables:
 #   $dailyUsers (number) - The number of daily users.
