@@ -80,12 +80,19 @@ sidebar-button-callout-vertical-tabs = Aby swóje rejtariki pokazał, wubjeŕśo
 vertical-tabs-callout-1-title = Z pśewjele rejtarikami zasypany?
 vertical-tabs-callout-1-cta-button = Wopytajśo wertikalne rejtariki
 vertical-tabs-callout-2-cta-button = Něnto wopytaś
+vertical-tabs-callout-2-title = Maśo wjele rejtarikow wócynjone? Wopytajśo wertikalne rejtariki.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = Zgubujośo ceru swójich wažnych rejtarikow?
+sidebar-pins-callout-cta-button = Rejtarik pśipěś
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Bocnica: wašo městno za rědy a rejtariki
+sidebar-customization-callout-1-subtitle = Z bocnicu { -brand-product-name } maśo malsny pśistup k swójej pśeglědowańskej historiji, rejtariki z drugich rědow a chatbot KI – wšykno, bźez togo, aby musał swój głowny naglěd spušćiś.
+sidebar-customization-callout-callout-button = Bocnicu pśiměriś
+sidebar-customization-callout-dismiss-button = Bocnicu schowaś
 
 ## Sidebar Callout Survey Strings
 
