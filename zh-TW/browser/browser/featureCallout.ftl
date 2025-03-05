@@ -77,6 +77,11 @@ sidebar-button-callout-vertical-tabs = 選擇工具列中的側邊欄按鈕，�
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = 太多分頁，讓人不知所措嗎？
+vertical-tabs-callout-1-subtitle = 試用全新的垂直分頁版面，讓您可一眼帶過分頁清單。早期測試者回報此功能讓他們覺得更能掌握開啟的分頁。可隨時切回原版面。
+vertical-tabs-callout-1-cta-button = 試用垂直分頁標籤功能
+vertical-tabs-callout-2-cta-button = 立即試用
+vertical-tabs-callout-2-title = 開啟很多分頁嗎？請試用垂直分頁功能。
 
 ## Sidebar Vertical Tabs Pinning Strings
 

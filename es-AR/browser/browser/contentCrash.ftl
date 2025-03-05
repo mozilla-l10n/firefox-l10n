@@ -31,3 +31,13 @@ pending-crash-reports-send =
     .label = Enviar
 pending-crash-reports-always-send =
     .label = Enviar siempre
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+requested-crash-reports-message =
+    { $reportCount ->
+        [one] Tiene un informe de fallos no enviado que coincide con errores que están siendo investigados, enviarlo nos ayudará a mejorar { -brand-product-name }. Cerrar esta notificación ignorará este informe.
+       *[other] Tiene { $reportCount } informes de fallos no enviado que coinciden con errores que están siendo investigados, enviarlo nos ayudará a mejorar { -brand-product-name }. Cerrar esta notificación ignorará estos informes.
+    }
+requested-crash-reports-dont-show-again =
+    .label = No mostrar nuevamente
+    .accesskey = N

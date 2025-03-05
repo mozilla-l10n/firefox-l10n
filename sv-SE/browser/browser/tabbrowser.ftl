@@ -262,13 +262,6 @@ tab-context-move-tab-to-new-group =
            *[other] Add Tabs to New Group
         }
     .accesskey = g
-tab-context-move-tab-to-group =
-    .label =
-        { $tabCount ->
-            [1] Lägg till flik i en grupp
-           *[other] Add Tabs to Group
-        }
-    .accesskey = L
 tab-group-editor-action-new-tab =
     .label = Ny flik i grupp
 tab-group-editor-action-new-window =
