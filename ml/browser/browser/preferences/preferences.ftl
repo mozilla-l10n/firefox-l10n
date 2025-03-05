@@ -103,6 +103,7 @@ preferences-data-migration-description = { -brand-short-name }-ലോട്ട�
 preferences-data-migration-button =
     .label = ദത്ത ഇറക്കുമതിക്കുക
     .accesskey = ഇ
+preferences-manage-profiles-learn-more = കൂടുതലറിയുക
 tabs-group-header = റ്റാബുകള്‍
 ctrl-tab-recently-used-order =
     .label = അടുത്തിടെ ഉപയോഗിച്ച ഓർഡറില്‍ ടാബുകളിലൂടെ പോവാന്‍ Ctrl + Tab ഉപയോഗിക്കുക
@@ -432,10 +433,16 @@ home-prefs-shortcuts-by-option-sponsored =
 
 home-prefs-recommended-by-header =
     .label = { $provider } ശുപാർശ ചെയ്തത്
+home-prefs-recommended-by-header-generic =
+    .label = ശുപാൎശ ചെയ്യപ്പെട്ട കഥകൾ
 
 ##
 
 home-prefs-recommended-by-learn-more = ഇത് എങ്ങനെ പ്രവർത്തിക്കുന്നു
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = പണം കൊണ്ടു് പ്രസരിപ്പിച്ച കഥകൾ
+home-prefs-recommended-by-option-recent-saves =
+    .label = അടുത്തിടെ കരുതിവച്ചതെല്ലാം കാണിക്കുക
 home-prefs-highlights-option-visited-pages =
     .label = സന്ദർശിച്ച പേജുകൾ
 home-prefs-highlights-options-bookmarks =
@@ -444,6 +451,8 @@ home-prefs-highlights-option-most-recent-download =
     .label = ഏറ്റവും അടുത്തിടെ ഇറക്കിവച്ച സാധനം
 home-prefs-highlights-option-saved-to-pocket =
     .label = { -pocket-brand-name }-ലോട്ടു് താളുകളെ കരുതിവച്ചു
+home-prefs-recent-activity-header =
+    .label = ഒടുവിലുള്ള പ്രവൎത്തനം
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -478,6 +487,7 @@ search-show-suggestions-url-bar-option =
     .label = അഡ്ഡ്രസ്സ് ബാറിലെ ഫലങ്ങളിൽ തിരയൽ നിർദ്ദേശങ്ങൾ ദൃശ്യമാക്കുക
     .accesskey = I
 search-suggestions-cant-show = സ്ഥാനപട്ടയില്‍ തെരച്ചില്‍ നിര്‍ദ്ദേശങ്ങള്‍ കാണിക്കുന്നതല്ല. കാരണം, താങ്കള്‍ { -brand-short-name } ക്രമീകരിച്ചിരിയ്ക്കുന്നതു് നാള്‍വഴി ഒരിക്കലും ഓര്‍ക്കാതിരിയ്ക്കാനാണു്.
+search-one-click-header2 = കുറുക്കുവഴികളിൽ തിരയുക
 search-one-click-desc = നിങ്ങൾ കീവേഡ് നൽകുന്നത് ആരംഭിക്കുമ്പോൾ വിലാസ ബാറിനും സെർച്ച് ബാറിനും താഴെയുള്ള ഇതര തിരയൽ എഞ്ചിനുകൾ തിരഞ്ഞെടുക്കുക.
 search-choose-engine-column =
     .label = തെരച്ചില്‍ എഞ്ചിന്‍
@@ -489,6 +499,9 @@ search-restore-default =
 search-remove-engine =
     .label = നീക്കം ചെയ്യുക
     .accesskey = R
+search-add-engine =
+    .label = ചേൎക്കുക
+    .accesskey = ച
 search-find-more-link = കൂടുതൽ സെര്‍ച്ച് എഞ്ചിനുകൾ കണ്ടെത്തുക
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -500,6 +513,8 @@ search-keyword-warning-bookmark = നിലവില്‍ ഒരു അടയ�
 
 ## Containers Section
 
+containers-back-button2 =
+    .aria-label = ക്രമീകരണങ്ങളിലേക്കു് തിരിച്ചു്
 containers-header = കണ്ടൈനര്‍ ടാബുകള്‍
 containers-add-button =
     .label = പുതിയ കണ്ടെയ്നര്‍ ചേര്‍ക്കുക
@@ -528,6 +543,11 @@ sync-profile-picture =
 sync-profile-picture-with-alt =
     .tooltiptext = പ്രൊഫൈല്‍ ചിത്രം മാറ്റുക
     .alt = പ്രൊഫൈല്‍ ചിത്രം മാറ്റുക
+fxa-login-rejected-warning =
+    .alt = മുന്നറിയിപ്പു്
+sync-sign-out =
+    .label = പുറത്തുക്കടക്കുക…
+    .accesskey = പ
 sync-manage-account = അക്കൗണ്ട് കൈകാര്യം ചെയ്യുക
     .accesskey = o
 
@@ -581,6 +601,12 @@ sync-currently-syncing-addresses = വിലാസങ്ങള്‍
 sync-currently-syncing-payment-methods = പണമടക്കൽ മുറകൾ
 sync-currently-syncing-addons = ആഡ്-ഓണുകള്‍
 sync-currently-syncing-settings = ക്രമീകരണങ്ങള്‍
+sync-manage-options =
+    .label = സമന്വയം കൈകാര്യം ചെയ്യുക...
+    .accesskey = സ
+sync-change-options =
+    .label = മാറ്റുക...
+    .accesskey = മ
 
 ## The "Choose what to sync" dialog.
 
@@ -610,6 +636,10 @@ sync-engine-creditcards =
     .label = ക്രഡിറ്റ് കാർഡുകൾ
     .tooltiptext = പേര്, നമ്പർ, കാലാവധി
     .accesskey = C
+sync-engine-addons =
+    .label = ആഡ്-ഓണുകള്‍
+    .tooltiptext = ഉപരിഫലക ഫയൎഫോക്സിനുള്ള വിപുലീകരണങ്ങളും അലങ്കാരങ്ങളും
+    .accesskey = അ
 
 ## The device name controls.
 
@@ -623,6 +653,7 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = സംരക്ഷിക്കുക
     .accesskey = v
+sync-connect-another-device = മറ്റൊരു ഉപകരണം ബന്ധിപ്പിക്കുക
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

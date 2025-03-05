@@ -4,10 +4,13 @@
 
 sidebar-menu-bookmarks =
     .label = അടയാളക്കുറിപ്പുകള്‍
+sidebar-menu-bookmarks-2 = അടയാളക്കുറിപ്പുകള്‍
 sidebar-menu-history =
     .label = നാള്‍വഴി
 sidebar-menu-synced-tabs =
     .label = സിന്‍ക് ചെയ്ത ടാബുകള്‍
+sidebar-menu-megalist =
+    .label = രഹസ്യവാക്കുകൾ
 sidebar-menu-close =
     .label = അണിവക്കം അടയ്ക്കുക
 sidebar-close-button =

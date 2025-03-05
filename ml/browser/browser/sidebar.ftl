@@ -112,6 +112,10 @@ sidebar-menu-history-header =
     .heading = നാള്‍വഴി
 sidebar-menu-syncedtabs-header =
     .heading = മറ്റു് ഉപകരണങ്ങളിൽ നിന്നുള്ള ടാബുകൾ
+sidebar-menu-bookmarks-header =
+    .heading = അടയാളക്കുറിപ്പുകള്‍
+sidebar-menu-cpm-header =
+    .heading = രഹസ്യവാക്കുകൾ
 sidebar-panel-header-close-button =
     .tooltiptext = അടയ്ക്കുക
 

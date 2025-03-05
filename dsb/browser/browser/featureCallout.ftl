@@ -78,6 +78,7 @@ sidebar-button-callout-vertical-tabs = Aby swóje rejtariki pokazał, wubjeŕśo
 ## Sidebar Vertical Tabs Strings
 
 vertical-tabs-callout-1-title = Z pśewjele rejtarikami zasypany?
+vertical-tabs-callout-1-subtitle = Wopytajśo našo wugótowanje wertikalnych rejtarikow, aby swóju lisćinu rejtarikow malsnje scannował. Jěsne testarje rozpšawjaju, až se lěpje organizěrowane cuju. Móžośo kuždy cas pśeměniś.
 vertical-tabs-callout-1-cta-button = Wopytajśo wertikalne rejtariki
 vertical-tabs-callout-2-cta-button = Něnto wopytaś
 vertical-tabs-callout-2-title = Maśo wjele rejtarikow wócynjone? Wopytajśo wertikalne rejtariki.

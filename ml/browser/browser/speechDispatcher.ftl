@@ -6,3 +6,6 @@
 ### Speech Dispatches is the name of a speech synthesis tool and shouldn’t be
 ### localized (https://freebsoft.org/speechd).
 
+speech-dispatcher-dismiss-button =
+    .label = വീണ്ടും കാണിക്കരുതു്
+    .accesskey = വ

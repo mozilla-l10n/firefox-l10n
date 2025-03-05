@@ -92,6 +92,24 @@ profiles-system-theme = വ്യവസ്ഥാനുസാരം
 
 ## Alternative text for default profile icons
 
+book-avatar-alt =
+    .alt = പുസ്തകം
+briefcase-avatar-alt =
+    .alt = പെട്ടി
+flower-avatar-alt =
+    .alt = പൂവു്
+heart-avatar-alt =
+    .alt = ഹൃദയം
+shopping-avatar-alt =
+    .alt = ഷോപ്പിങ്ങ് കാര്‍ട്ട്
+star-avatar-alt =
+    .alt = നക്ഷത്രം
 
 ## Labels for default avatar icons
 
+book-avatar = പുസ്തകം
+briefcase-avatar = പെട്ടി
+flower-avatar = പൂവു്
+heart-avatar = ഹൃദയം
+shopping-avatar = ഷോപ്പിങ്ങ് കാര്‍ട്ട്
+star-avatar = നക്ഷത്രം

@@ -27,12 +27,19 @@ sanitize-dialog-title-everything =
 clear-time-duration-prefix =
     .value = വെടിപ്പാക്കുന്നതിനുള്ള സമയക്രമം:{ " " }
     .accesskey = T
+clear-time-duration-prefix2 =
+    .value = എപ്പോഴു്:
+    .accesskey = എ
 clear-time-duration-value-last-hour =
     .label = കഴിഞ്ഞ മണിക്കൂര്‍
 clear-time-duration-value-last-2-hours =
     .label = കഴിഞ്ഞ രണ്ടു മണിക്കൂര്‍
 clear-time-duration-value-last-4-hours =
     .label = കഴിഞ്ഞ നാലു മണിക്കൂര്‍
+# Variables:
+#   $midnightTime (String) - Time of midnight (00:00 hours) - to inform the user that history will be cleared after midnight
+clear-time-duration-value-since-midnight =
+    .label = { $midnightTime } മുതൽ
 clear-time-duration-value-today =
     .label = ഇന്നു്
 clear-time-duration-value-everything =
