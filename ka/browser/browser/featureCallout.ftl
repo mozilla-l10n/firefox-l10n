@@ -87,9 +87,17 @@ vertical-tabs-callout-2-subtitle = ამგვარი განლაგე�
 ## Sidebar Vertical Tabs Pinning Strings
 
 sidebar-pins-callout-title = თვალთახედვიდან გეკარგებათ მნიშვნელოვანი ჩანართები?
+sidebar-pins-callout-subtitle = სცადეთ მათი მიმაგრება, რის შედეგადაც მუდმივად დარჩება ჩანართების რიგის სათავეში. მარჯვენა წკაპით იმ ჩანართზე, რომლის შენარჩუნებაც გსურთ, აირჩიეთ ჩანართის მიმაგრება.
+sidebar-pins-callout-cta-button = ჩანართის მიმაგრება
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = გვერდითი ზოლი: საერთო ადგილი ხელსაწყოებისა და ჩანართებისთვის
+sidebar-customization-callout-1-subtitle = { -brand-product-name } გვერდითი ზოლით სწრაფი წვდომის საშუალებას გაძლევთ თქვენი გვერდების ისტორიასთან, ჩანართებთან სხვა მოწყობილობებიდან და ხელოვნური ინტელექტის მქონე თანამოსაუბრესთან — ეს ყველაფერი კი მთავარი ხედის დაუტოვებლად.
+sidebar-customization-callout-callout-button = გვერდითი ზოლის მორგება
+sidebar-customization-callout-dismiss-button = გვერდითი ზოლის დამალვა
+sidebar-customization-callout-2-title = გახადეთ გვერდითი { -brand-product-name }-ზოლი მეტად თქვენებური
+sidebar-customization-callout-2-subtitle = დაამატეთ ან მოაცილეთ ხელსაწყოები. განათავსეთ თქვენი ჩანართები გვერდით ზოლზე. მოსინჯეთ AI-თანამოსაუბრე. თუ როგორ მოირგებთ გვერდით ზოლს, თქვენი გადასაწყვეტია.
 
 ## Sidebar Callout Survey Strings
 

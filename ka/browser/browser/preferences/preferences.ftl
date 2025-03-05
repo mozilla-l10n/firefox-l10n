@@ -1127,6 +1127,13 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = მისამართების ველი
 addressbar-suggest = შემოთავაზებები მისამართების ველით სარგებლობისას
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = მისამართების ველი — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = მიუთითეთ შემოთავაზებების სახეობა, რომელიც გამოჩნდება მისამართების ველში.
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = ვრცლად
 addressbar-locbar-history-option =
     .label = დათვალიერების ისტორია
     .accesskey = ი
@@ -1159,7 +1166,15 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = ხშირად მოძიებულის შემოთავაზებები
     .accesskey = ხ
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = გთავაზობთ { -brand-short-name }
+addressbar-locbar-suggest-nonsponsored-desc = შემოთავაზებები ვებსივრციდან თქვენ მიერ მოძიებულის შესაბამისად.
+addressbar-locbar-suggest-sponsored-option =
+    .label = შემოთავაზებები დამკვეთებისგან
+addressbar-locbar-suggest-sponsored-desc = თანადგომისთვის იხილეთ დამკვეთის შემოთავაზებები, { -brand-short-name } დროდადრო რომ მოგაწვდით
 addressbar-quickactions-learn-more = ვრცლად
+addressbar-dismissed-suggestions-label = შეთავაზებების აცილება
 
 ## Privacy Section - Content Blocking
 
