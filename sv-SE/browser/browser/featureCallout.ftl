@@ -86,17 +86,17 @@ vertical-tabs-callout-2-subtitle = Denna layout gör det enkelt att snabbt skann
 
 ## Sidebar Vertical Tabs Pinning Strings
 
-sidebar-pins-callout-title = Tappa bort dina viktiga flikar?
-sidebar-pins-callout-subtitle = Testa att fästa dem, vilket håller dem överst i listan över flikar. Högerklicka på en flik du vill fästa och välj sedan Fäst flik.
+sidebar-pins-callout-title = Tappar du bort dina viktiga flikar?
+sidebar-pins-callout-subtitle = Försök att fästa dem, vilket håller dem högst upp på listan med flikar. Högerklicka på en flik som du vill fästa och välj sedan Fäst flik.
 sidebar-pins-callout-cta-button = Fäst flik
 
 ## Sidebar Onboarding Strings
 
 sidebar-customization-callout-1-title = Sidofält: din plats för verktyg och flikar
-sidebar-customization-callout-1-subtitle = Sidfältet { -brand-product-name } ger dig snabb åtkomst till din webbhistorik, flikar från andra enheter och en AI-chatbot — allt utan att lämna huvudvyn.
+sidebar-customization-callout-1-subtitle = Sidofältet i { -brand-product-name } ger dig snabb åtkomst till din webbhistorik, flikar från andra enheter och en AI-chatbot — allt utan att lämna huvudvyn.
 sidebar-customization-callout-callout-button = Anpassa sidofält
 sidebar-customization-callout-dismiss-button = Dölj sidofält
-sidebar-customization-callout-2-title = Gör sidofältet { -brand-product-name } till ditt
+sidebar-customization-callout-2-title = Gör sidofältet i { -brand-product-name } till ditt
 sidebar-customization-callout-2-subtitle = Lägg till och ta bort verktyg. Placera dina flikar i sidofältet. Ge en AI-chatbot ett försök. Hur du anpassar ditt sidofält är upp till dig.
 
 ## Sidebar Callout Survey Strings
