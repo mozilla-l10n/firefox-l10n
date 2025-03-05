@@ -129,3 +129,5 @@ about-reader-text-alignment-center =
     .title = Tekst gecentreerd uitlijnen
 about-reader-text-alignment-right =
     .title = Tekst rechts uitlijnen
+about-reader-text-alignment-justify =
+    .title = Tekst uitlijnen

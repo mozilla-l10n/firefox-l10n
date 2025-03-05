@@ -1127,6 +1127,13 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Adresbalk
 addressbar-suggest = Bij gebruik van de adresbalk, suggesties weergeven uit
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Adresbalk – { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Kies het type suggesties dat in de adresbalk verschijnt.
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Meer info
 addressbar-locbar-history-option =
     .label = Navigatiegeschiedenis
     .accesskey = g
@@ -1159,7 +1166,18 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Trending zoeksuggesties tonen
     .accesskey = T
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = Suggesties van { -brand-short-name }
+addressbar-locbar-suggest-nonsponsored-desc = Ontvang suggesties van het web gerelateerd aan uw zoekopdracht.
+addressbar-locbar-suggest-sponsored-option =
+    .label = Suggesties van sponsors
+addressbar-locbar-suggest-sponsored-desc = Ondersteun { -brand-short-name } met af en toe gesponsorde suggesties.
 addressbar-quickactions-learn-more = Meer info
+addressbar-dismissed-suggestions-label = Gesloten suggesties
+addressbar-restore-dismissed-suggestions-description = Gesloten suggesties van sponsors en { -brand-short-name } herstellen.
+addressbar-restore-dismissed-suggestions-button =
+    .label = Herstellen
 
 ## Privacy Section - Content Blocking
 

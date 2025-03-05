@@ -77,12 +77,27 @@ sidebar-button-callout-vertical-tabs = Selecteer de zijbalkknop in de werkbalk o
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = Overweldigd door te veel tabbladen?
+vertical-tabs-callout-1-subtitle = Probeer onze nieuwe verticale tabbladindeling om snel uw lijst met tabbladen te scannen. Vroege testers melden dat deze opmaak hen meer georganiseerd doet voelen. Wissel op elk gewenst moment.
+vertical-tabs-callout-1-cta-button = Verticale tabbladen proberen
+vertical-tabs-callout-2-cta-button = Nu proberen
+vertical-tabs-callout-2-title = Veel tabbladen open houden? Probeer verticale tabbladen.
+vertical-tabs-callout-2-subtitle = Deze indeling maakt het eenvoudig om snel uw lijst met tabbladen te scannen. Bovendien kunt u de breedte aanpassen om meer of minder van uw tabbladtitels te zien.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = Raakt u uw belangrijke tabbladen kwijt?
+sidebar-pins-callout-subtitle = Probeer ze vast te zetten, zodat ze bovenaan uw lijst met tabbladen blijven. Klik met de rechtermuisknop op een tabblad dat u wilt vastmaken en kies vervolgens Tabblad vastmaken.
+sidebar-pins-callout-cta-button = Tabblad vastmaken
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Zijbalk: uw plek voor hulpmiddelen en tabbladen
+sidebar-customization-callout-1-subtitle = De { -brand-product-name }-zijbalk geeft u snelle toegang tot uw navigatiegeschiedenis, tabbladen van andere apparaten en een AI-chatbot – allemaal zonder uw hoofdvenster te verlaten.
+sidebar-customization-callout-callout-button = Zijbalk aanpassen
+sidebar-customization-callout-dismiss-button = Zijbalk verbergen
+sidebar-customization-callout-2-title = De { -brand-product-name }-zijbalk van uzelf maken
+sidebar-customization-callout-2-subtitle = Voeg hulpmiddelen toe en verwijder ze. Plaats uw tabbladen in de zijbalk. Probeer eens een AI-chatbot. Hoe u uw zijbalk aanpast, is aan u.
 
 ## Sidebar Callout Survey Strings
 

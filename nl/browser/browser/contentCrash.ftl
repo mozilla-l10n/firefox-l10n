@@ -31,3 +31,13 @@ pending-crash-reports-send =
     .label = Verzenden
 pending-crash-reports-always-send =
     .label = Altijd verzenden
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+requested-crash-reports-message =
+    { $reportCount ->
+        [one] U hebt { $reportCount } niet-verzonden crashrapport dat overeenkomt met crashes die worden onderzocht. Als u dit verzendt, helpt u ons { -brand-product-name } te verbeteren. Als u deze melding sluit, wordt dit rapport genegeerd.
+       *[other] U hebt { $reportCount } niet-verzonden crashrapporten die overeenkomen met crashes die worden onderzocht. Als u dit verzendt, helpt u ons { -brand-product-name } te verbeteren. Als u deze melding sluit, worden deze rapporten genegeerd.
+    }
+requested-crash-reports-dont-show-again =
+    .label = Niet meer tonen
+    .accesskey = N
