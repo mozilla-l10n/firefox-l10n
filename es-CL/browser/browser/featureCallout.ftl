@@ -77,12 +77,23 @@ sidebar-button-callout-vertical-tabs = Para mostrar tus pestañas, selecciona el
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = ¿Te abrumas con tantas pestañas?
+vertical-tabs-callout-1-subtitle = Prueba nuestro nuevo diseño de pestañas verticales para explorar rápidamente tu lista de pestañas. Los primeros evaluadores informan que este diseño les ayuda a sentirse más organizados. Cambia en cualquier momento.
+vertical-tabs-callout-1-cta-button = Prueba las pestañas verticales
+vertical-tabs-callout-2-cta-button = Probar ahora
+vertical-tabs-callout-2-title = ¿Mantienes muchas pestañas abiertas? Prueba las pestañas verticales
+vertical-tabs-callout-2-subtitle = Este diseño hace que sea fácil escanear tu lista de pestañas. Además, puedes ajustar el ancho para ver más o menos de los títulos de tus pestañas
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = ¿Le estás perdiendo el rastro a tus pestañas importantes?
+sidebar-pins-callout-subtitle = Intenta fijarlas para que se mantengan en la parte superior de la lista de pestañas. Haz clic derecho en la pestaña que desees fijar y luego selecciona Fijar pestaña.
+sidebar-pins-callout-cta-button = Fijar pestaña
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Barra lateral: tu lugar para herramientas y pestañas
+sidebar-customization-callout-dismiss-button = Ocultar barra lateral
 
 ## Sidebar Callout Survey Strings
 

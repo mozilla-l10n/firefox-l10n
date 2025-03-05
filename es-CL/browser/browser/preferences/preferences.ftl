@@ -1159,7 +1159,14 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Mostrar las sugerencias de búsqueda más populares
     .accesskey = t
+addressbar-locbar-suggest-sponsored-option =
+    .label = Sugerencias de patrocinadores
+addressbar-locbar-suggest-sponsored-desc = Apoya a { -brand-short-name } con sugerencias patrocinadas ocasionales
 addressbar-quickactions-learn-more = Aprender más
+addressbar-dismissed-suggestions-label = Sugerencias ignoradas
+addressbar-restore-dismissed-suggestions-description = Restaurar sugerencias ignoradas de patrocinadores y { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button =
+    .label = Restaurar
 
 ## Privacy Section - Content Blocking
 
