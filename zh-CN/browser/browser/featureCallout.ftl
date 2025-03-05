@@ -77,9 +77,12 @@ sidebar-button-callout-vertical-tabs = 选择工具栏中的侧栏图标，即�
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-cta-button = 试试垂直标签页
+vertical-tabs-callout-2-cta-button = 立即试用
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-cta-button = 固定标签页
 
 ## Sidebar Onboarding Strings
 
