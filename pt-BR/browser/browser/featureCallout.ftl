@@ -78,12 +78,20 @@ sidebar-button-callout-vertical-tabs = Para exibir suas abas, clique no botão d
 ## Sidebar Vertical Tabs Strings
 
 vertical-tabs-callout-1-title = Sobrecarregado com muitas abas?
+vertical-tabs-callout-1-subtitle = Experimente nosso novo layout de abas na vertical para analisar rapidamente a lista de abas. Os primeiros a testar relatam que este layout os ajuda a se sentir mais organizados. Mude quando quiser.
+vertical-tabs-callout-1-cta-button = Experimentar abas na vertical
+vertical-tabs-callout-2-cta-button = Experimentar agora
+vertical-tabs-callout-2-title = Tem sempre muitas abas abertas? Experimente abas na vertical.
+vertical-tabs-callout-2-subtitle = Esse layout facilita examinar rapidamente a lista de abas. Além disso, você pode ajustar a largura para escolher o quanto ver dos títulos das abas.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-subtitle = Experimente fixar, mantendo no topo da lista de abas. Clique com o botão direito em uma aba e escolha Fixar aba.
+sidebar-pins-callout-cta-button = Fixar aba
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Painel lateral: sua área de ferramentas e abas
 
 ## Sidebar Callout Survey Strings
 
