@@ -82,9 +82,12 @@ vertical-tabs-callout-1-subtitle = Tenta nostre nove disposition vertical del sc
 vertical-tabs-callout-1-cta-button = Tenta schedas vertical
 vertical-tabs-callout-2-cta-button = Tenta ora
 vertical-tabs-callout-2-title = Tene tu multe schedas aperte?
+vertical-tabs-callout-2-subtitle = Iste disposition rende facile scander rapidemente tu lista de schedas.In ultra, tu pote adjustar le largessa pro vider plus o minus de tu titulos de scheda.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = Perde tu tracia de tu schedas importante?
+sidebar-pins-callout-subtitle = Tentar fixar los, que los mantene al culmine de tu lista de schedas. Clicca dextre sur un scheda que tu vole fixar, pois selige Fixar scheda.
 sidebar-pins-callout-cta-button = Clavar le scheda
 
 ## Sidebar Onboarding Strings

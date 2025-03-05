@@ -87,6 +87,9 @@ sidebar-pins-callout-cta-button = Festa flipa
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-callout-button = Sérsníða hliðarstiku
+sidebar-customization-callout-dismiss-button = Fela hliðarstiku
+sidebar-customization-callout-2-title = Lagaðu { -brand-product-name } hliðarstikuna að þínm smekk
 
 ## Sidebar Callout Survey Strings
 

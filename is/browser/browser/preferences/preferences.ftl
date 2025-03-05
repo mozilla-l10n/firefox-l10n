@@ -1127,6 +1127,9 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Veffangastika
 addressbar-suggest = Þegar veffangastikan er notuð skal stinga upp á
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Kanna nánar
 addressbar-locbar-history-option =
     .label = Vafurferill
     .accesskey = f
@@ -1159,7 +1162,18 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Sýna vinsælar leitartillögur
     .accesskey = t
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = Tillögur frá { -brand-short-name }
+addressbar-locbar-suggest-nonsponsored-desc = Fáðu tillögur af vefnum sem tengjast leitinni þinni.
+addressbar-locbar-suggest-sponsored-option =
+    .label = Tillögur frá styrktaraðilum
+addressbar-locbar-suggest-sponsored-desc = Styddu við { -brand-short-name } með einstaka kostuðum tillögum
 addressbar-quickactions-learn-more = Kanna nánar
+addressbar-dismissed-suggestions-label = Tillögum vísað frá
+addressbar-restore-dismissed-suggestions-description = Endurheimta hafnaðar tillögur frá styrktaraðilum og { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button =
+    .label = Endurheimta
 
 ## Privacy Section - Content Blocking
 
