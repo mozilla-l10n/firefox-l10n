@@ -97,6 +97,7 @@ sidebar-customization-callout-1-subtitle = Боковая панель { -brand-
 sidebar-customization-callout-callout-button = Настройка боковой панели
 sidebar-customization-callout-dismiss-button = Скрыть боковую панель
 sidebar-customization-callout-2-title = Настройте боковую панель { -brand-product-name } по-своему
+sidebar-customization-callout-2-subtitle = Добавляйте и удаляйте инструменты. Размещайте свои вкладки в боковой панели. Попробуйте ИИ-чат-бот. То, как вы настраиваете боковую панель, зависит от вас.
 
 ## Sidebar Callout Survey Strings
 

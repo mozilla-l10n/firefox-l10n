@@ -1131,6 +1131,10 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Адресная строка
 addressbar-suggest = При использовании адресной строки предлагать ссылки
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Адресная строка — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Выберите тип предложений, которые отображаются в адресной строке.
 # When Firefox Suggest is enabled, a "Learn more" link appears at the end of
 # `addressbar-suggest-firefox-suggest`.
 addressbar-locbar-firefox-suggest-learn-more = Подробнее
@@ -1172,7 +1176,10 @@ addressbar-locbar-suggest-nonsponsored-option =
 addressbar-locbar-suggest-nonsponsored-desc = Получать предложения из сети на основе вашего поиска.
 addressbar-locbar-suggest-sponsored-option =
     .label = Предложения от спонсоров
+addressbar-locbar-suggest-sponsored-desc = Поддержите { -brand-short-name } периодическими предложениями от спонсоров.
 addressbar-quickactions-learn-more = Подробнее
+addressbar-dismissed-suggestions-label = Скрытые предложения
+addressbar-restore-dismissed-suggestions-description = Восстановить отклонённые предложения от спонсоров и { -brand-short-name }.
 addressbar-restore-dismissed-suggestions-button =
     .label = Восстановить
 

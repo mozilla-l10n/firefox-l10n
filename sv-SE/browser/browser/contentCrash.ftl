@@ -35,7 +35,7 @@ pending-crash-reports-always-send =
 #   $reportCount (Number): the number of pending crash reports
 requested-crash-reports-message =
     { $reportCount ->
-        [one] Du har en ej inskickad kraschrapport som matchar krascher som utreds. Genom att skicka in den hjälper vi oss att förbättra { -brand-product-name }. Stäng detta meddelande kommer att ignorera den här rapporten.
+        [one] Du har en ej inskickad kraschrapport som matchar krascher som utreds. Att skicka in den hjälper oss att förbättra { -brand-product-name }. Om du stänger detta meddelande ignoreras den här rapporten.
        *[other] Du har { $reportCount } ej inskickade kraschrapporter som matchar krascher som utreds. Att skicka in dem hjälper oss att förbättra { -brand-product-name }. Om du stänger detta meddelande ignoreras dessa rapporter.
     }
 requested-crash-reports-dont-show-again =
