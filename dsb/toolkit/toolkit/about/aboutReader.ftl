@@ -131,3 +131,5 @@ about-reader-text-alignment-center =
     .title = Tekst centrěrowano wusměriś
 about-reader-text-alignment-right =
     .title = Tekst napšawo wusměriś
+about-reader-text-alignment-justify =
+    .title = Tekst w blokowej sajźbje wusměriś

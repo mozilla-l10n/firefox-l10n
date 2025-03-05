@@ -1135,6 +1135,13 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Adresowe pólo
 addressbar-suggest = Pśi wužywanju adresowego póla ma se naraźiś
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Adresowe pólo – { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Wubjeŕśo typ naraźenjow, kótarež se w adresowem pólu zjawijo.
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Dalšne informacije
 addressbar-locbar-history-option =
     .label = Pśeglědowańska historija
     .accesskey = g
@@ -1167,7 +1174,18 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Trendowe pytańske naraźenja pokazaś
     .accesskey = d
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = Naraźenja wót { -brand-short-name }
+addressbar-locbar-suggest-nonsponsored-desc = Wobstarajśo se naraźenja z weba nastupajucy wašo pytanje.
+addressbar-locbar-suggest-sponsored-option =
+    .label = Naraźenja wót sponsorow
+addressbar-locbar-suggest-sponsored-desc = Pódprějśo { -brand-short-name } z pśigóźbnymi sponserowanymi naraźenjami
 addressbar-quickactions-learn-more = Dalšne informacije
+addressbar-dismissed-suggestions-label = Zachyśone naraźenja
+addressbar-restore-dismissed-suggestions-description = Zachyśone naraźenja wót sponsorow a { -brand-short-name } wótnowiś.
+addressbar-restore-dismissed-suggestions-button =
+    .label = Wótnowiś
 
 ## Privacy Section - Content Blocking
 

@@ -93,6 +93,8 @@ sidebar-customization-callout-1-title = Bocnica: wašo městno za rědy a rejtar
 sidebar-customization-callout-1-subtitle = Z bocnicu { -brand-product-name } maśo malsny pśistup k swójej pśeglědowańskej historiji, rejtariki z drugich rědow a chatbot KI – wšykno, bźez togo, aby musał swój głowny naglěd spušćiś.
 sidebar-customization-callout-callout-button = Bocnicu pśiměriś
 sidebar-customization-callout-dismiss-button = Bocnicu schowaś
+sidebar-customization-callout-2-title = Pśiswójśo sebje bocnicu { -brand-product-name }
+sidebar-customization-callout-2-subtitle = Pśidajśo a wótwónoźćo rědy. Stajśo swóje rejtariki do bocnice. Wopytajśo chatbot KI. Kak swóju bocnicu pśiměrjujośo, wót was wótwisujo.
 
 ## Sidebar Callout Survey Strings
 
