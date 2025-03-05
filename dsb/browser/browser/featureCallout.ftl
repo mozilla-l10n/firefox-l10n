@@ -78,14 +78,16 @@ sidebar-button-callout-vertical-tabs = Aby swóje rejtariki pokazał, wubjeŕśo
 ## Sidebar Vertical Tabs Strings
 
 vertical-tabs-callout-1-title = Z pśewjele rejtarikami zasypany?
-vertical-tabs-callout-1-subtitle = Wopytajśo našo wugótowanje wertikalnych rejtarikow, aby swóju lisćinu rejtarikow malsnje scannował. Jěsne testarje rozpšawjaju, až se lěpje organizěrowane cuju. Móžośo kuždy cas pśeměniś.
+vertical-tabs-callout-1-subtitle = Wopytajśo našo wugótowanje wertikalnych rejtarikow, aby swóju lisćinu rejtarikow malsnje scannował. Jěsne testarje rozpšawjaju, až se lěpjej organizěrowane cuju. Móžośo kuždy cas pśeměniś.
 vertical-tabs-callout-1-cta-button = Wopytajśo wertikalne rejtariki
 vertical-tabs-callout-2-cta-button = Něnto wopytaś
 vertical-tabs-callout-2-title = Maśo wjele rejtarikow wócynjone? Wopytajśo wertikalne rejtariki.
+vertical-tabs-callout-2-subtitle = Toś to wugótowanje wam malsne scannowanje wašeje lisćiny rejtarikow wólažcujo. Mimo togo móžośo šyrokosć pśiměriś, aby wy wěcej abo mjenjej wót titelow rejtarikow wiźeł.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
 sidebar-pins-callout-title = Zgubujośo ceru swójich wažnych rejtarikow?
+sidebar-pins-callout-subtitle = Wopytajśo je pśipněś, což je górjejce w swójej lisćinje rejtarikow wóstajijo. Klikniśo z pšaweju tastu na rejtarik, kótaryž cośo pśipněś a wubjeŕśo pón Rejtarik pśipněś.
 sidebar-pins-callout-cta-button = Rejtarik pśipěś
 
 ## Sidebar Onboarding Strings

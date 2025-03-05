@@ -78,6 +78,7 @@ sidebar-button-callout-vertical-tabs = Zo byšće swoje rajtarki pokazał, wubje
 ## Sidebar Vertical Tabs Strings
 
 vertical-tabs-callout-1-title = Z přewjele rajtarkami překopjeny?
+vertical-tabs-callout-1-subtitle = Wupruwujće naše wuhotowanje wertikalnych rajtarkow, zo byšće swoju lisćinu rajtarkow spěšnje skenował. Zažne testowarjo rozprawjeja, zo so lěpje organizowane čuja. Móžeće kóždy čas přeměnić.
 vertical-tabs-callout-1-cta-button = Wupruwujće wertikalne rajtarki
 vertical-tabs-callout-2-cta-button = Nětko wupruwować
 vertical-tabs-callout-2-title = Maće wjele rajtarkow wočinjenych? Wupruwujće wertikalne rajtarki.
