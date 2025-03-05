@@ -4,7 +4,7 @@
 
 protections-panel-sendreportview-error = വിവരം അയയ്‌ക്കുന്നതിൽ ഒരു പിശക് ഉണ്ടായിരുന്നു. പിന്നീട് വീണ്ടും ശ്രമിക്കുക.
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
-protections-panel-sitefixedsendreport-label = സൈറ്റ് ശരിയായോ? റിപ്പോർട്ട് അയയ്‌ക്കുക
+protections-panel-sitefixedsendreport-label = വെബുസ്ഥാനം ശരിയായോ? റിപ്പോർട്ട് അയയ്ക്കുക
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -22,7 +22,7 @@ protections-popup-footer-protection-label-standard = നിലവാരം
 protections-panel-etp-more-info =
     .aria-label = മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണത്തെ പറ്റി കൂടുതൽ വിവരങ്ങൾ
 protections-panel-etp-on-header = ഈ വെബിടത്തിന് മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണം സജ്ജമാക്കിയിട്ടുണ്ട്
-protections-panel-etp-off-header = മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണം ഈ സൈറ്റിന് സജ്ജമാക്കിയിട്ടില്
+protections-panel-etp-off-header = മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണം ഈ വെബിടത്തനു് അണച്ചു് വച്ചിരിക്കുന്നു
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = സൈറ്റ് പ്രവർത്തിക്കുന്നില്ലേ?
 # The heading/title of the sub-panel view
@@ -36,17 +36,17 @@ protections-panel-site-not-working-view =
 
 protections-panel-etp-toggle-on =
     .label = മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണം
-    .description = ഈ സൈറ്റിന് സജ്ജമാണ്
-    .aria-label = മെച്ചപ്പെട്ട പിന്തുടർച്ച പരിരക്ഷണം: { $host } ന് സജ്ജമാണ്
+    .description = ഈ വെബിടത്തിനു് തുടങ്ങിയിട്ടുണ്ടു്
+    .aria-label = മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണം: { $host }-നു് തുടങ്ങിവച്ചിരിക്കുന്നു
 protections-panel-etp-toggle-off =
     .label = മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണം
-    .description = ഈ സൈറ്റിന് സജ്ജമല്ല
-    .aria-label = മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണം: { $host } ന് സജ്ജമല്
+    .description = ഈ വെബിടത്തിനു് അണച്ചതു്
+    .aria-label = മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണം: { $host }-നു് അണച്ചിരിക്കുന്നു
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 
-protections-panel-not-blocking-why-label = എന്തുകൊണ്ട്?
+protections-panel-not-blocking-why-label = എന്തുകൊണ്ടു്?
 
 ##
 

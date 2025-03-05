@@ -92,6 +92,12 @@ newtab-menu-section-tooltip =
 newtab-dismiss-button-tooltip =
     .title = മാറ്റുക
     .aria-label = മാറ്റുക
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = കുറിപ്പടികട്ട തുറക്കുക
+    .aria-label = { $title }-നു് കുറിപ്പടികട്ട തുറക്കുക
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = ഈ സൈറ്റ് തിരുത്തുക

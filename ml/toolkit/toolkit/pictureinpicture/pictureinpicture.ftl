@@ -40,6 +40,9 @@ pictureinpicture-subtitles-btn =
 pictureinpicture-fullscreen-btn2 =
     .aria-label = പ്രതലം മുഴുവൻ വലുപ്പത്തിൽ
     .tooltip = പ്രതലം മുഴുവൻ വലുപ്പത്തിൽ (ഇരട്ടിയമർത്തുക അല്ലെങ്കിൽ { $shortcut })
+pictureinpicture-exit-fullscreen-btn2 =
+    .aria-label = മുഴുവലുപ്പ പ്രതലം നിന്ന് പുറത്തുകടക്കുക
+    .tooltip = മുഴുവലുപ്പ പ്രതലം നിന്ന് പുറത്തുകടക്കുക (രണ്ടുതവണ അമൎത്തുക അല്ലെങ്കിൽ { $shortcut } അമൎത്തുക)
 
 ##
 

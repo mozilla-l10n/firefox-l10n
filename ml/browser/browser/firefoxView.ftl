@@ -26,6 +26,9 @@ firefoxview-just-now-timestamp = ഇപ്പോഴ്
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
 firefoxview-tabpickup-header = സമന്വയിപ്പുതോടു് എടുത്തതു്
 firefoxview-tabpickup-description = മറ്റ് ഉപകരണങ്ങളിൽ നിന്ന് താളുകൾ തുറക്കുക.
+# Variables:
+#  $percentValue (Number): the percentage value for setup completion
+firefoxview-tabpickup-progress-label = { $percentValue }% കഴിഞ്ഞു
 firefoxview-tabpickup-step-signin-header = ഉപകരണങ്ങൾക്കിടയിൽ തടസ്സമില്ലാതെ മാറുക
 firefoxview-tabpickup-step-signin-description = നിങ്ങളുടെ ഫോൺ ടാബുകൾ ഇവിടെ നേടുന്നതിന്, ആദ്യം പ്രവേശിക്കൽ ചെയ്യുക അല്ലെങ്കിൽ ഒരു അക്കൗണ്ട് ഉണ്ടാക്കുക
 firefoxview-tabpickup-step-signin-primarybutton = തുടരുക

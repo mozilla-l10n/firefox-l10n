@@ -18,6 +18,11 @@ mr1-onboarding-get-started-primary-button-label = തുടങ്ങാം
 ## Custom Return To AMO onboarding strings
 
 return-to-amo-subtitle = അടിപൊളി, താങ്ങൾക്കു് { -brand-short-name } ലഭിച്ചു
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = ഇപ്പോൾ താങ്ങളോടു് കൊണ്ടുവരാം <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
 return-to-amo-add-extension-label = വിപുലീകരണം ചേർക്കുക
 return-to-amo-add-theme-label = അലങ്കാരം ചേൎക്കുക
 

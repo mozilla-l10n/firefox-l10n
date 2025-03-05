@@ -49,6 +49,11 @@ translations-panel-settings-always-translate-unknown-language =
     .label = ഈ ഭാഷയുടെ വിവൎത്തനം എപ്പോഴും ചെയ്യുക
 translations-panel-settings-always-offer-translation =
     .label = വിവർത്തനം ചെയ്യാൻ എപ്പോഴും വാഗ്ദാനം ചെയ്യുക
+# Text displayed for the option to never translate a given language
+# Variables:
+#   $language (string) - The localized display name of the detected language
+translations-panel-settings-never-translate-language =
+    .label = { $language } ഒരിക്കലും വിവർത്തനം ചെയ്യരുത്
 translations-panel-settings-never-translate-unknown-language =
     .label = ഈ ഭാഷ ഒരിക്കലും വിവർത്തനം ചെയ്യരുത്
 # Text displayed for the option to never translate this website
