@@ -82,12 +82,21 @@ vertical-tabs-callout-1-subtitle = 試用全新的垂直分頁版面，讓您可
 vertical-tabs-callout-1-cta-button = 試用垂直分頁標籤功能
 vertical-tabs-callout-2-cta-button = 立即試用
 vertical-tabs-callout-2-title = 開啟很多分頁嗎？請試用垂直分頁功能。
+vertical-tabs-callout-2-subtitle = 此版面設計讓您可以只需一眼就輕鬆看過完整分頁清單。另外，還可以調整分頁列的寬度以節省空間或看到完整分頁標題。
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = 覺得不容易管理重要分頁嗎？
+sidebar-pins-callout-subtitle = 可以對分頁按右鍵，選擇「釘選分頁」，讓這些重要分頁保留在清單頂部。
+sidebar-pins-callout-cta-button = 釘選分頁
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = 側邊欄：您的工具與分頁所在之處
+sidebar-customization-callout-1-subtitle = { -brand-product-name } 的側邊欄讓您可以不用離開主要畫面，即可快速開啟瀏覽紀錄、其他裝置的分頁，與 AI 聊天機器人。
+sidebar-customization-callout-callout-button = 自訂側邊欄
+sidebar-customization-callout-dismiss-button = 隱藏側邊欄
+sidebar-customization-callout-2-title = 讓 { -brand-product-name } 側邊欄有您的風格
 
 ## Sidebar Callout Survey Strings
 
