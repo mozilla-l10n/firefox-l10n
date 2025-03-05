@@ -4,15 +4,15 @@
 
 protections-panel-sendreportview-error = വിവരം അയയ്‌ക്കുന്നതിൽ ഒരു പിശക് ഉണ്ടായിരുന്നു. പിന്നീട് വീണ്ടും ശ്രമിക്കുക.
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
-protections-panel-sitefixedsendreport-label = വെബുസ്ഥാനം ശരിയായോ? റിപ്പോർട്ട് അയയ്ക്കുക
+protections-panel-sitefixedsendreport-label = സൈറ്റ് ശരിയായോ? റിപ്പോർട്ട് അയയ്‌ക്കുക
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
 protections-popup-footer-protection-label-strict = കണിശമായി
     .label = കണിശമായി
-protections-popup-footer-protection-label-custom = ഇഷ്ടമ്പോലെ
-    .label = ഇഷ്ടമ്പോലെ
+protections-popup-footer-protection-label-custom = ഇഷ്ടാനുസൃതം
+    .label = ഇഷ്ടാനുസൃതം
 protections-popup-footer-protection-label-standard = നിലവാരം
     .label = നിലവാരം
 
@@ -20,31 +20,40 @@ protections-popup-footer-protection-label-standard = നിലവാരം
 
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
-    .aria-label = മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണം പറ്റി കൂടുതൽ വിവരങ്ങൾ
-protections-panel-etp-on-header = ഈ വെബിടത്തിനു് മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണം തുടങ്ങിവച്ചിട്ടുണ്ടു്.
-protections-panel-etp-off-header = മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണം ഈ വെബിടത്തനു് അണച്ചു് വച്ചിരിക്കുന്നു
+    .aria-label = മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണത്തെ പറ്റി കൂടുതൽ വിവരങ്ങൾ
+protections-panel-etp-on-header = ഈ വെബിടത്തിന് മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണം സജ്ജമാക്കിയിട്ടുണ്ട്
+protections-panel-etp-off-header = മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണം ഈ സൈറ്റിന് സജ്ജമാക്കിയിട്ടില്
 # The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = സൈറ്റു് നടക്കുന്നില്ലേ?
+protections-panel-site-not-working = സൈറ്റ് പ്രവർത്തിക്കുന്നില്ലേ?
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
-    .title = സൈറ്റു് നടക്കുന്നില്ലേ?
+    .title = സൈറ്റ് പ്രവർത്തിക്കുന്നില്ലേ?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
+protections-panel-etp-toggle-on =
+    .label = മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണം
+    .description = ഈ സൈറ്റിന് സജ്ജമാണ്
+    .aria-label = മെച്ചപ്പെട്ട പിന്തുടർച്ച പരിരക്ഷണം: { $host } ന് സജ്ജമാണ്
+protections-panel-etp-toggle-off =
+    .label = മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണം
+    .description = ഈ സൈറ്റിന് സജ്ജമല്ല
+    .aria-label = മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണം: { $host } ന് സജ്ജമല്
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 
-protections-panel-not-blocking-why-label = എന്തുകൊണ്ടു്?
+protections-panel-not-blocking-why-label = എന്തുകൊണ്ട്?
 
 ##
 
 protections-panel-content-blocking-tracking-protection = പിന്തുടരുന്ന ഉള്ളടക്കം
 protections-panel-content-blocking-socialblock = സമൂഹ മാധ്യമ പിന്തുടർച്ചയന്ത്രങ്ങൾ
-protections-panel-content-blocking-fingerprinters-label = വിരലടയാളപ്പിന്തുടൎച്ചയന്ത്രം
+protections-panel-content-blocking-cryptominers-label = ക്രിപ്‌റ്റോമൈനറുകൾ
+protections-panel-content-blocking-fingerprinters-label = ഫിംഗർപ്രിന്ററുകൾ
 
 ## In the protections panel, Content Blocking category items are in three sections:
 ##   "Blocked" for categories being blocked in the current page,
@@ -53,7 +62,7 @@ protections-panel-content-blocking-fingerprinters-label = വിരലടയാ�
 ##   These strings are used in the header labels of each of these sections.
 
 protections-panel-blocking-label = തടഞ്ഞവ
-protections-panel-not-blocking-label = അനുവദിച്ചതു്
+protections-panel-not-blocking-label = അനുവദിച്ചത്
 protections-panel-not-found-label = ഒന്നും കണ്ടെത്താൻ കഴിഞ്ഞില്ല
 
 ## Smartblock strings

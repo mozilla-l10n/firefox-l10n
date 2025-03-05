@@ -17,8 +17,8 @@
 ## For further details, consult:
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
 
--brand-shorter-name = Firefox
--brand-short-name = Firefox
+-brand-shorter-name = ഫയർഫോക്സ്
+-brand-short-name = ഫയർഫോക്സ്
 -brand-shortcut-name = Firefox
 -brand-full-name = Mozilla Firefox
 # This brand name can be used in messages where the product name needs to

@@ -11,7 +11,7 @@ cert-error-mitm-connection = { -brand-short-name } עושה שימוש בחנו�
 cert-error-trust-unknown-issuer-intro = ייתכן שגורם כלשהו מנסה להתחזות לאתר ולכן מומלץ שלא להמשיך.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
-cert-error-trust-unknown-issuer = אתרים מוכיחים את זהותם באמצעות אישורי אבטחה. { -brand-short-name } לא בוטח ב־{ $hostname } מכיוון שמנפיק אישור האבטחה שלו אינו ידוע, האישור נחתם עצמית או שהשרת לא שולח את אישורי הביניים הנכונים.
+cert-error-trust-unknown-issuer = אתרים מוכיחים את זהותם באמצעות אישורי אבטחה. { -brand-short-name } לא נותן אמון ב־{ $hostname } מכיוון שמנפיק אישור האבטחה שלו אינו ידוע, האישור נחתם עצמית או שהשרת לא שולח את אישורי הביניים הנכונים.
 cert-error-trust-cert-invalid = האישור אינו מהימן מכיוון שהוא הונפק על־ידי רשות אישורים לא חוקית.
 cert-error-trust-untrusted-issuer = האישור אינו מהימן מכיוון שהאישור של הגורם המנפיק אינו מהימן.
 cert-error-trust-signature-algorithm-disabled = האישור אינו מהימן מכיוון שהוא נחתם על־ידי אלגוריתם חתימה שהושבת מכיוון שאינו מאובטח.
@@ -21,22 +21,25 @@ cert-error-trust-symantec = אישורים שהונפקו על־ידי GeoTrust,
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = ‏{ -brand-short-name } לא נותן אמון ב־{ $hostname } מכיוון שהוא לא הוכיח שהוא עומד בדרישות השקיפות של אישורים ציבוריים.
+# Variables:
+#   $hostname (string) - Hostname of the website with cert error.
+cert-error-revoked = אתרים מוכיחים את זהותם באמצעות אישורי אבטחה. { -brand-short-name } לא נותן אמון ב־{ $hostname } מכיוון שהוא משתמש באישור אבטחה שבוטל.
 cert-error-untrusted-default = האישור לא מגיע ממקור מהימן.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
-cert-error-domain-mismatch = אתרים מוכיחים את זהותם באמצעות אישורי אבטחה. { -brand-short-name } לא בוטח באתר זה מכיוון שהוא משתמש באישור אבטחה שאינו תקף עבור { $hostname }.
+cert-error-domain-mismatch = אתרים מוכיחים את זהותם באמצעות אישורי אבטחה. { -brand-short-name } לא נותן אמון באתר זה מכיוון שהוא משתמש באישור אבטחה שאינו תקף עבור { $hostname }.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 #   $alt-name (string) - Alternate domain name for which the cert is valid.
-cert-error-domain-mismatch-single = אתרים מוכיחים את זהותם באמצעות אישורי אבטחה. { -brand-short-name } לא בוטח באתר זה מכיוון שהוא משתמש באישור אבטחה שאינו תקף עבור { $hostname }. האישור תקף רק עבור <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>.
+cert-error-domain-mismatch-single = אתרים מוכיחים את זהותם באמצעות אישורי אבטחה. { -brand-short-name } לא נותן אמון באתר זה מכיוון שהוא משתמש באישור אבטחה שאינו תקף עבור { $hostname }. האישור תקף רק עבור <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 #   $alt-name (string) - Alternate domain name for which the cert is valid.
-cert-error-domain-mismatch-single-nolink = אתרים מוכיחים את זהותם באמצעות אישורי אבטחה. { -brand-short-name } לא בוטח באתר זה מכיוון שהוא משתמש באישור אבטחה שאינו תקף עבור { $hostname }. האישור תקף רק עבור { $alt-name }.
+cert-error-domain-mismatch-single-nolink = אתרים מוכיחים את זהותם באמצעות אישורי אבטחה. { -brand-short-name } לא נותן אמון באתר זה מכיוון שהוא משתמש באישור אבטחה שאינו תקף עבור { $hostname }. האישור תקף רק עבור { $alt-name }.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 #   $subject-alt-names (string) - Alternate domain names for which the cert is valid.
-cert-error-domain-mismatch-multiple = אתרים מוכיחים את זהותם באמצעות אישורי אבטחה. { -brand-short-name } לא בוטח באתר זה מכיוון שהוא משתמש באישור אבטחה שאינו תקף עבור { $hostname }. האישור תקף עבור השמות הבאים בלבד: { $subject-alt-names }
+cert-error-domain-mismatch-multiple = אתרים מוכיחים את זהותם באמצעות אישורי אבטחה. { -brand-short-name } לא נותן אמון באתר זה מכיוון שהוא משתמש באישור אבטחה שאינו תקף עבור { $hostname }. האישור תקף עבור השמות הבאים בלבד: { $subject-alt-names }
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 #   $not-after-local-time (Date) - Certificate is not valid after this time.
