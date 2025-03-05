@@ -94,6 +94,10 @@ sidebar-pins-callout-cta-button = 탭 고정
 
 sidebar-customization-callout-1-title = 사이드바: 도구와 탭이 있는 곳
 sidebar-customization-callout-1-subtitle = { -brand-product-name } 사이드바를 사용하면 주 화면을 떠나지 않고도 방문 기록, 다른 기기의 탭 및 AI 챗봇에 빠르게 접근할 수 있습니다.
+sidebar-customization-callout-callout-button = 사이드바 사용자 지정
+sidebar-customization-callout-dismiss-button = 사이드바 숨기기
+sidebar-customization-callout-2-title = 나만의 { -brand-product-name } 사이드바 만들기
+sidebar-customization-callout-2-subtitle = 도구를 추가하고 제거하세요. 사이드바에 탭을 배치하세요. AI 챗봇을 사용해보세요. 사이드바를 사용자 지정하는 방법은 사용자에게 달려 있습니다.
 
 ## Sidebar Callout Survey Strings
 

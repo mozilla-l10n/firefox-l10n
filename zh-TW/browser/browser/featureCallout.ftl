@@ -97,6 +97,7 @@ sidebar-customization-callout-1-subtitle = { -brand-product-name } 的側邊欄�
 sidebar-customization-callout-callout-button = 自訂側邊欄
 sidebar-customization-callout-dismiss-button = 隱藏側邊欄
 sidebar-customization-callout-2-title = 讓 { -brand-product-name } 側邊欄有您的風格
+sidebar-customization-callout-2-subtitle = 新增移除工具、將您的分頁放到側邊欄、試用 AI 聊天機器人，您能夠自行決定要如何自訂側邊欄。
 
 ## Sidebar Callout Survey Strings
 

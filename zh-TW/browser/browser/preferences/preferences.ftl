@@ -1115,6 +1115,13 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = 網址列
 addressbar-suggest = 在使用網址列時提供建議
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = 網址列 — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = 選擇要在網址列看到的建議類型。
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = 更多資訊
 addressbar-locbar-history-option =
     .label = 瀏覽紀錄
     .accesskey = H
@@ -1147,7 +1154,18 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = 顯示熱門搜尋建議
     .accesskey = t
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = 來自 { -brand-short-name } 的建議
+addressbar-locbar-suggest-nonsponsored-desc = 取得您搜尋內容的相關建議。
+addressbar-locbar-suggest-sponsored-option =
+    .label = 來自贊助商的建議
+addressbar-locbar-suggest-sponsored-desc = 讓贊助商偶爾顯示廣告，支持 { -brand-short-name } 的發展。
 addressbar-quickactions-learn-more = 了解更多
+addressbar-dismissed-suggestions-label = 忽略的建議
+addressbar-restore-dismissed-suggestions-description = 還原顯示被忽略的贊助商與 { -brand-short-name } 建議。
+addressbar-restore-dismissed-suggestions-button =
+    .label = 還原
 
 ## Privacy Section - Content Blocking
 

@@ -1111,6 +1111,13 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = 주소 표시줄
 addressbar-suggest = 주소 표시줄에서 제안할 항목
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = 주소 표시줄 — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = 주소 표시줄에 나타나는 제안 유형을 선택하세요.
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = 더 알아보기
 addressbar-locbar-history-option =
     .label = 방문 기록
     .accesskey = H
@@ -1143,7 +1150,18 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = 인기 검색어 제안 표시
     .accesskey = t
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = { -brand-short-name }의 제안
+addressbar-locbar-suggest-nonsponsored-desc = 사용자 검색과 관련된 웹 제안을 받으세요.
+addressbar-locbar-suggest-sponsored-option =
+    .label = 스폰서 제안
+addressbar-locbar-suggest-sponsored-desc = 가끔씩 스폰서 제안으로 { -brand-short-name }를 지원합니다.
 addressbar-quickactions-learn-more = 더 알아보기
+addressbar-dismissed-suggestions-label = 닫은 제안
+addressbar-restore-dismissed-suggestions-description = 스폰서와 { -brand-short-name }로부터 닫은 제안을 복원합니다.
+addressbar-restore-dismissed-suggestions-button =
+    .label = 복원
 
 ## Privacy Section - Content Blocking
 
