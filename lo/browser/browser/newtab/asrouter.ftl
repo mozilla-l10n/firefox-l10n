@@ -247,6 +247,9 @@ tail-fox-spotlight-secondary-button = ບໍ່ແມ່ນຕອນນີ້
 
 ## FxA Menu Message variants
 
+fxa-menu-message-sign-up-button = ລົງ​ທະ​ບຽນ
+fxa-menu-message-sync-devices-primary-text = ຊິ້ງຂໍ້ມູນອຸປະກອນຂອງທ່ານທັງໝົດ
 
 ## Multi-CTA Fox Doodle Spotlight
 
+multi-cta-fox-doodle-title = ຍິນ​ດີ​ຕ້ອນ​ຮັບ​ກັບ

@@ -46,15 +46,23 @@ genai-onboarding-gemini-tooltip =
 genai-onboarding-gemini-learn = ຮຽນຮູ້ເພີ່ມເຕີມກ່ຽວກັບ Gemini
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
 genai-onboarding-lechat-learn = ສຶກສາເພີ່ມເຕີມກ່ຽວກັບ Le Chat
 genai-onboarding-select-header = ເລືອກຂໍ້ຄວາມເພື່ອເບິ່ງຄຳແນະນຳ
+genai-onboarding-select-description = ເມື່ອທ່ານເລືອກຂໍ້ຄວາມ, ພວກເຮົາຈະແນະນໍາການເຕືອນທີ່ທ່ານສາມາດສົ່ງໄປຫາ chatbot ໄດ້. ນອກນັ້ນທ່ານຍັງສາມາດຂຽນໃນ prompts ຂອງທ່ານເອງ.
 genai-onboarding-select-primary = ເລີ່ມການສົນທະນາ
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-claude-generate = ສ້າງຂໍ້ຄວາມ ແລະ ລະຫັດ
+genai-onboarding-claude-analyze = ວິເຄາະເອກະສານ ແລະ ຮູບພາບ
 genai-onboarding-claude-price = ທາງເລືອກທີ່ບໍ່ເສຍຄ່າ ແລະ ຈ່າຍ; ບັນຊີທີ່ຕ້ອງການ
 genai-onboarding-chatgpt-generate = ສ້າງຂໍ້ຄວາມ, ຮູບພາບ, ແລະ ລະຫັດ
+genai-onboarding-chatgpt-analyze = ວິເຄາະເອກະສານ ແລະ ຮູບພາບ
+genai-onboarding-chatgpt-price = ມີທັງແບບຟຣີ ແລະ ແບບເສຍເງິນ; ບັນຊີທີ່ຕ້ອງການສໍາລັບບາງປະເທດ ແລະ ໜ້າວຽກ
+genai-onboarding-copilot-generate = ສ້າງຂໍ້ຄວາມ, ຮູບພາບ, ແລະ ລະຫັດ
 genai-onboarding-copilot-analyze = ວິເຄາະຮູບພາບ
 genai-onboarding-copilot-price = ມີຕົວເລືອກແບບຟຣີ ແລະ ແບບຊຳລະເງິນ; ຕ້ອງມີບັນຊີສຳລັບບາງວຽກ
 genai-onboarding-huggingchat-generate = ສ້າງຂໍ້ຄວາມແລະ ລະຫັດ
