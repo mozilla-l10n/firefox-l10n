@@ -77,12 +77,27 @@ sidebar-button-callout-vertical-tabs = Để hiển thị các thẻ của bạn
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = Bị choáng ngợp vì quá nhiều thẻ?
+vertical-tabs-callout-1-subtitle = Hãy thử bố cục thẻ dọc mới của chúng tôi để quét nhanh danh sách các thẻ của bạn. Những người được thử nghiệm sớm cảm thấy có tổ chức hơn với bố cục này. Bật tắt bất cứ lúc nào.
+vertical-tabs-callout-1-cta-button = Hãy thử thẻ dọc
+vertical-tabs-callout-2-cta-button = Thử ngay
+vertical-tabs-callout-2-title = Giữ nhiều thẻ đang mở? Hãy thử thẻ dọc.
+vertical-tabs-callout-2-subtitle = Bố cục này giúp dễ dàng quét danh sách các thẻ của bạn. Thêm vào đó, bạn có thể điều chỉnh độ rộng để xem nhiều hoặc ít tiêu đề thẻ hơn của bạn.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = Quên các thẻ quan trọng của bạn?
+sidebar-pins-callout-subtitle = Hãy thử ghim chúng, giữ chúng ở đầu danh sách các thẻ của bạn. Nhấp chuột phải vào một thẻ bạn muốn ghim, sau đó chọn Ghim thẻ.
+sidebar-pins-callout-cta-button = Ghim thẻ
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Thanh lề: vị trí của bạn cho các công cụ và thẻ
+sidebar-customization-callout-1-subtitle = Thanh lề của { -brand-product-name } cung cấp cho bạn quyền truy cập nhanh vào lịch sử duyệt web của bạn, thẻ từ các thiết bị khác và chatbot AI — tất cả mà không rời khỏi chế độ xem chính của bạn.
+sidebar-customization-callout-callout-button = Tùy biến thanh lề
+sidebar-customization-callout-dismiss-button = Ẩn thanh lề
+sidebar-customization-callout-2-title = Tạo thanh lề của { -brand-product-name } theo riêng bạn
+sidebar-customization-callout-2-subtitle = Thêm và xóa các công cụ. Đặt các thẻ của bạn vào thanh lề. Hãy thử một chatbot AI. Cách bạn tùy chỉnh thanh lề tùy thuộc vào bạn.
 
 ## Sidebar Callout Survey Strings
 

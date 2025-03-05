@@ -187,6 +187,15 @@ urlbar-result-menu-remove-from-history =
 urlbar-result-menu-tip-get-help =
     .label = Nhận trợ giúp
     .accesskey = h
+urlbar-result-menu-dismiss-suggestion =
+    .label = Bỏ qua đề xuất này
+    .accesskey = D
+urlbar-result-menu-learn-more-about-firefox-suggest =
+    .label = Tìm hiểu thêm về { -firefox-suggest-brand-name }
+    .accesskey = L
+urlbar-result-menu-manage-firefox-suggest =
+    .label = Quản lý { -firefox-suggest-brand-name }
+    .accesskey = M
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
