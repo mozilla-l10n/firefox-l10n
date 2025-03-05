@@ -130,3 +130,5 @@ about-reader-text-alignment-center =
     .title = Выровнять по центру
 about-reader-text-alignment-right =
     .title = Выровнять по правому краю
+about-reader-text-alignment-justify =
+    .title = Выравнивание по ширине

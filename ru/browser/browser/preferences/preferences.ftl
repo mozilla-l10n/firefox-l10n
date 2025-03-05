@@ -1131,6 +1131,9 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Адресная строка
 addressbar-suggest = При использовании адресной строки предлагать ссылки
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Подробнее
 addressbar-locbar-history-option =
     .label = из журнала посещений
     .accesskey = ж
@@ -1163,7 +1166,15 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Отображать популярные поисковые предложения
     .accesskey = е
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = Предложения от { -brand-short-name }
+addressbar-locbar-suggest-nonsponsored-desc = Получать предложения из сети на основе вашего поиска.
+addressbar-locbar-suggest-sponsored-option =
+    .label = Предложения от спонсоров
 addressbar-quickactions-learn-more = Подробнее
+addressbar-restore-dismissed-suggestions-button =
+    .label = Восстановить
 
 ## Privacy Section - Content Blocking
 

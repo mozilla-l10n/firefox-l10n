@@ -1165,7 +1165,15 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Vis populære søkeforslag
     .accesskey = s
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = Forslag fra { -brand-short-name }
+addressbar-locbar-suggest-nonsponsored-desc = Få forslag fra nettet relatert til søket ditt
+addressbar-locbar-suggest-sponsored-option =
+    .label = Forslag fra sponsorer
 addressbar-quickactions-learn-more = Les mer
+addressbar-restore-dismissed-suggestions-button =
+    .label = Gjenopprett
 
 ## Privacy Section - Content Blocking
 

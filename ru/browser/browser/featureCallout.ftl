@@ -77,12 +77,26 @@ sidebar-button-callout-vertical-tabs = Чтобы показать ваши вк
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = Перегружены большим количеством вкладок?
+vertical-tabs-callout-1-subtitle = Попробуйте новый макет с вертикальными вкладками, чтобы быстро просмотреть список вкладок. Ранние тестировщики сообщают, что эта компоновка помогает им чувствовать себя более организованными. Переключайтесь в любое время.
+vertical-tabs-callout-1-cta-button = Попробуйте вертикальные вкладки
+vertical-tabs-callout-2-cta-button = Попробуйте сейчас
+vertical-tabs-callout-2-title = Держите много вкладок открытыми? Попробуйте вертикальные вкладки.
+vertical-tabs-callout-2-subtitle = Этот макет позволяет легко и быстро просмотреть ваш список вкладок. Кроме того, вы можете настроить ширину, чтобы видеть больше или меньше букв в заголовках ваших вкладок.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = Потеряли важные вкладки?
+sidebar-pins-callout-subtitle = Попробуйте закрепить их, что удержит их наверху вашего списка вкладок. Нажмите правой кнопкой мыши на вкладке, которую хотите закрепить, и выберите «Закрепить вкладку».
+sidebar-pins-callout-cta-button = Закрепить вкладку
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Боковая панель: место для инструментов и вкладок
+sidebar-customization-callout-1-subtitle = Боковая панель { -brand-product-name } предоставляет вам быстрый доступ к истории просмотров, вкладкам с других устройств и ИИ-чат-боту, не выходя из основного вида.
+sidebar-customization-callout-callout-button = Настройка боковой панели
+sidebar-customization-callout-dismiss-button = Скрыть боковую панель
+sidebar-customization-callout-2-title = Настройте боковую панель { -brand-product-name } по-своему
 
 ## Sidebar Callout Survey Strings
 

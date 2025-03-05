@@ -32,3 +32,14 @@ pending-crash-reports-send =
     .label = Отправить
 pending-crash-reports-always-send =
     .label = Всегда отправлять
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+requested-crash-reports-message =
+    { $reportCount ->
+        [one] У вас есть { $reportCount } неотправленное сообщение о падении, соответствующее расследуемым падениям. Его отправка поможет нам улучшить { -brand-product-name }. Закрытие этого уведомления проигнорирует это сообщение.
+        [few] У вас есть { $reportCount } неотправленных сообщений о падении, соответствующих расследуемым падениям. Отправка их поможет нам улучшить { -brand-product-name }. Закрытие этого уведомления проигнорирует эти сообщения.
+       *[many] У вас есть { $reportCount } неотправленных сообщений о падении, соответствующих расследуемым падениям. Отправка их поможет нам улучшить { -brand-product-name }. Закрытие этого уведомления проигнорирует эти сообщения.
+    }
+requested-crash-reports-dont-show-again =
+    .label = Больше не показывать
+    .accesskey = В
