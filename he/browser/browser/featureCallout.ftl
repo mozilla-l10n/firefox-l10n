@@ -71,9 +71,18 @@ vertical-tabs-callout-2-subtitle = פריסה זו מקלה על סריקה מה
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = התחלת לאבד מעקב אחרי הלשוניות החשובות שלך?
+sidebar-pins-callout-subtitle = ניתן לנסות לנעוץ אותם, מה שמשאיר אותם בראש רשימת הלשוניות שלך. עושים זאת על־ידי לחיצה על לחצן העכבר הימני על לשונית שברצונך להצמיד, ולאחר מכן בחירה באפשרות ״נעיצת לשונית״.
+sidebar-pins-callout-cta-button = נעיצת לשונית
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = סרגל הצד: המקום שלך עבור כלים ולשוניות
+sidebar-customization-callout-1-subtitle = סרגל הצד של { -brand-product-name } מעניק לך גישה מהירה להיסטוריית הגלישה שלך, ללשוניות ממכשירים אחרים ולצ’אטבוט AI - הכל מבלי לעזוב את התצוגה הראשית שלך.
+sidebar-customization-callout-callout-button = התאמה אישית של סרגל הצד
+sidebar-customization-callout-dismiss-button = הסתרת סרגל הצד
+sidebar-customization-callout-2-title = הפיכת סרגל הצד של { -brand-product-name } לשלך
+sidebar-customization-callout-2-subtitle = ניתן להוסיף ולהסיר כלים. למקם את הלשוניות שלך בסרגל הצד. לנסות צ’אטבוט של AI. האופן שבו תתאים אישית את סרגל הצד שלך תלוי בך.
 
 ## Sidebar Callout Survey Strings
 

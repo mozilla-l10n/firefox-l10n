@@ -60,6 +60,9 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = הרחבת סרגל הצד בעת ריחוף העכבר עליו
+expand-on-hover-message =
+    .heading = הרחבה בריחוף עם העכבר מגיע בקרוב
+    .message = בעדכון עתידי, תהיה לך אפשרות להרחיב את סרגל הצד באמצעות ריחוף העכבר עליו
 
 ## Labels for sidebar context menu items
 

@@ -1154,7 +1154,14 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = הצגת הצעות חיפוש פופולריים
     .accesskey = פ
+addressbar-locbar-suggest-sponsored-option =
+    .label = הצעות מנותני חסות
+addressbar-locbar-suggest-sponsored-desc = תמיכה ב־{ -brand-short-name } עם הצעות ממומנות מדי פעם.
 addressbar-quickactions-learn-more = מידע נוסף
+addressbar-dismissed-suggestions-label = הצעות שנדחו
+addressbar-restore-dismissed-suggestions-description = שחזור הצעות שנדחו מנותני חסות ומ־{ -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button =
+    .label = שחזור
 
 ## Privacy Section - Content Blocking
 
