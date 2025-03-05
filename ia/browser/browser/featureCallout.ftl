@@ -92,8 +92,12 @@ sidebar-pins-callout-cta-button = Clavar le scheda
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Barra lateral: tu posto pro utensiles e schedas
+sidebar-customization-callout-1-subtitle = Le barra lateral de { -brand-product-name } te da accesso rapide a tu chronologia de navigation, tu schedas de altere apparatos, e a un robot confabulator IA: toto sin exir de tu vista principal.
 sidebar-customization-callout-callout-button = Personalisar le barra lateral
 sidebar-customization-callout-dismiss-button = Celar le barra lateral
+sidebar-customization-callout-2-title = Face le barra lateral de { -brand-product-name } tu proprie
+sidebar-customization-callout-2-subtitle = Adde e remove instrumentos. Pone tu schedas in le barra lateral. Essaya un robot confabulator IA. Como tu personalisa tu barra lateral es onere tue.
 
 ## Sidebar Callout Survey Strings
 

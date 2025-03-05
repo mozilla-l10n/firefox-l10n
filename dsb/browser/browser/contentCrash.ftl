@@ -33,3 +33,6 @@ pending-crash-reports-send =
     .label = Pósłaś
 pending-crash-reports-always-send =
     .label = Pśecej pósłaś
+requested-crash-reports-dont-show-again =
+    .label = Wěcej se njepokazaś
+    .accesskey = W

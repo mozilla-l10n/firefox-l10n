@@ -1127,6 +1127,10 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Barra de adresse
 addressbar-suggest = Durante que tu usa le barra de adresse, suggerer
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Barra del adresses — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Elige le typo de suggestiones que appare in le barra de adresse.
 # When Firefox Suggest is enabled, a "Learn more" link appears at the end of
 # `addressbar-suggest-firefox-suggest`.
 addressbar-locbar-firefox-suggest-learn-more = Pro saper plus
@@ -1162,9 +1166,16 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Monstrar suggestiones de recercas popular
     .accesskey = p
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = Suggestiones ab { -brand-short-name }
+addressbar-locbar-suggest-nonsponsored-desc = Recipe le suggestiones ab le web correlate a tu recerca.
 addressbar-locbar-suggest-sponsored-option =
     .label = Suggestiones ab sponsores
+addressbar-locbar-suggest-sponsored-desc = Supporta { -brand-short-name } con suggestiones sponsorisate occasional.
 addressbar-quickactions-learn-more = Pro saper plus
+addressbar-dismissed-suggestions-label = Suggestiones rejectate
+addressbar-restore-dismissed-suggestions-description = Restaurar suggestiones rejectate de sponsores e { -brand-short-name }.
 addressbar-restore-dismissed-suggestions-button =
     .label = Restaurar
 

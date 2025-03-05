@@ -90,6 +90,7 @@ sidebar-pins-callout-cta-button = Rajtark připinyć
 ## Sidebar Onboarding Strings
 
 sidebar-customization-callout-1-title = Bóčnica: waše městno za nastroje a rajtarki
+sidebar-customization-callout-1-subtitle = Z bóčnicu { -brand-product-name } maće spěšny přistup k swojej přehladowanskej historiji, rajtarki z druhich gratow a chatbot KI – wšitko, bjeztoho zo byšće dyrbjał swój hłowny napohlad wopušćić.
 sidebar-customization-callout-callout-button = Bóčnicu přiměrić
 sidebar-customization-callout-dismiss-button = Bóčnicu schować
 sidebar-customization-callout-2-title = Přiswojće sej bóčnicu { -brand-product-name }
