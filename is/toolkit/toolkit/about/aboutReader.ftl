@@ -129,3 +129,5 @@ about-reader-text-alignment-center =
     .title = Jafna texta á miðju
 about-reader-text-alignment-right =
     .title = Jafna texta til hægri
+about-reader-text-alignment-justify =
+    .title = Hliðjafna texta

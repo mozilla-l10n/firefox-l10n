@@ -1127,6 +1127,9 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Barra de adresse
 addressbar-suggest = Durante que tu usa le barra de adresse, suggerer
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Pro saper plus
 addressbar-locbar-history-option =
     .label = Chronologia de navigation
     .accesskey = H
@@ -1159,7 +1162,11 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Monstrar suggestiones de recercas popular
     .accesskey = p
+addressbar-locbar-suggest-sponsored-option =
+    .label = Suggestiones ab sponsores
 addressbar-quickactions-learn-more = Pro saper plus
+addressbar-restore-dismissed-suggestions-button =
+    .label = Restaurar
 
 ## Privacy Section - Content Blocking
 

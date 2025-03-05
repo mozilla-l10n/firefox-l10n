@@ -31,3 +31,6 @@ pending-crash-reports-send =
     .label = Senda
 pending-crash-reports-always-send =
     .label = Alltaf senda
+requested-crash-reports-dont-show-again =
+    .label = Ekki sýna þetta aftur
+    .accesskey = k

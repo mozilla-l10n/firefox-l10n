@@ -77,12 +77,20 @@ sidebar-button-callout-vertical-tabs = Pro monstrar tu schedas, selige le button
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = Opprimite per troppe schedas?
+vertical-tabs-callout-1-subtitle = Tenta nostre nove disposition vertical del schedas pro rapidemente scander tu lista de schedas. Le probatores precoce reporta que iste mappa adjuta illes a sentir se plus organisate. Muta lo quandocunque tu vole.
+vertical-tabs-callout-1-cta-button = Tenta schedas vertical
+vertical-tabs-callout-2-cta-button = Tenta ora
+vertical-tabs-callout-2-title = Tene tu multe schedas aperte?
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-cta-button = Clavar le scheda
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-callout-button = Personalisar le barra lateral
+sidebar-customization-callout-dismiss-button = Celar le barra lateral
 
 ## Sidebar Callout Survey Strings
 

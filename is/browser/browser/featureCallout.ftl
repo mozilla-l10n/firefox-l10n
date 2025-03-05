@@ -77,9 +77,13 @@ sidebar-button-callout-vertical-tabs = Til að sýna flipana þína skaltu velja
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = Er of mikið af flipum?
+vertical-tabs-callout-1-cta-button = Prófa lóðrétta flipa
+vertical-tabs-callout-2-cta-button = Prófa núna
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-cta-button = Festa flipa
 
 ## Sidebar Onboarding Strings
 

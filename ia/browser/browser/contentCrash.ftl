@@ -31,3 +31,13 @@ pending-crash-reports-send =
     .label = Inviar
 pending-crash-reports-always-send =
     .label = Sempre inviar
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+requested-crash-reports-message =
+    { $reportCount ->
+        [one] Tu ha un reporto de crash non inviate que concorda con crashes jam investigate, inviar lo nos adjutara a meliorar { -brand-product-name }. Claudente iste aviso, tal reporto sera ignorate.
+       *[other] Tu ha { $reportCount } reportos de crash non inviate que concorda con crashes jam investigate, le invio de illos nos adjutara meliorar { -brand-product-name }. Claudente iste aviso, tal reportos sera ignorate.
+    }
+requested-crash-reports-dont-show-again =
+    .label = Non plus monstrar.
+    .accesskey = N
