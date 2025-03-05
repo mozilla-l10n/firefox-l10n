@@ -129,3 +129,5 @@ about-reader-text-alignment-center =
     .title = יישור טקסט למרכז
 about-reader-text-alignment-right =
     .title = יישור טקסט לצד ימין
+about-reader-text-alignment-justify =
+    .title = יישור טקסט לשני הצדדים
