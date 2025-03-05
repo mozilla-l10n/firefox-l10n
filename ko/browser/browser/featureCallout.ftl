@@ -82,12 +82,18 @@ vertical-tabs-callout-1-subtitle = 새로운 세로 탭 레이아웃을 사용�
 vertical-tabs-callout-1-cta-button = 세로 탭 사용해보기
 vertical-tabs-callout-2-cta-button = 지금 사용해보기
 vertical-tabs-callout-2-title = 탭을 많이 열어 놓으시겠습니까? 세로 탭을 사용해 보세요.
+vertical-tabs-callout-2-subtitle = 이 레이아웃을 사용하면 탭 목록을 쉽고 빠르게 스캔 할 수 있습니다. 또한 탭 제목이 더 많이 또는 적게 표시되도록 너비를 조정할 수 있습니다.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = 중요한 탭을 잃어버리셨나요?
+sidebar-pins-callout-subtitle = 탭 목록 상단에 유지되도록 고정해 보세요. 고정하려는 탭을 마우스 오른쪽 버튼으로 누른 다음 탭 고정을 선택하세요.
+sidebar-pins-callout-cta-button = 탭 고정
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = 사이드바: 도구와 탭이 있는 곳
+sidebar-customization-callout-1-subtitle = { -brand-product-name } 사이드바를 사용하면 주 화면을 떠나지 않고도 방문 기록, 다른 기기의 탭 및 AI 챗봇에 빠르게 접근할 수 있습니다.
 
 ## Sidebar Callout Survey Strings
 
