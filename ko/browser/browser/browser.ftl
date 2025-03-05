@@ -187,6 +187,15 @@ urlbar-result-menu-remove-from-history =
 urlbar-result-menu-tip-get-help =
     .label = 도움 받기
     .accesskey = h
+urlbar-result-menu-dismiss-suggestion =
+    .label = 제안 닫기
+    .accesskey = D
+urlbar-result-menu-learn-more-about-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }에 대해 더 알아보기
+    .accesskey = L
+urlbar-result-menu-manage-firefox-suggest =
+    .label = { -firefox-suggest-brand-name } 관리
+    .accesskey = M
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.

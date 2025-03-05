@@ -77,6 +77,11 @@ sidebar-button-callout-vertical-tabs = 탭을 표시하려면, 도구 모음에�
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = 탭이 너무 많으신가요?
+vertical-tabs-callout-1-subtitle = 새로운 세로 탭 레이아웃을 사용하여 탭 목록을 빠르게 스캔하세요. 초기 테스터들은 이 레이아웃이 보다 정리된 느낌을 받았다고 합니다. 언제든지 전환할 수 있습니다.
+vertical-tabs-callout-1-cta-button = 세로 탭 사용해보기
+vertical-tabs-callout-2-cta-button = 지금 사용해보기
+vertical-tabs-callout-2-title = 탭을 많이 열어 놓으시겠습니까? 세로 탭을 사용해 보세요.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
