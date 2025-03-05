@@ -1119,6 +1119,13 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = 地址栏
 addressbar-suggest = 使用地址栏时，为我建议：
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = 地址栏 — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = 选择在地址栏显示的建议类型。
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = 详细了解
 addressbar-locbar-history-option =
     .label = 浏览历史
     .accesskey = H
@@ -1151,7 +1158,13 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = 显示热门搜索建议
     .accesskey = t
+addressbar-locbar-suggest-nonsponsored-desc = 从网络上获取与您的搜索相关的建议。
+addressbar-locbar-suggest-sponsored-option =
+    .label = 赞助商建议
+addressbar-locbar-suggest-sponsored-desc = 不定期提供赞助商建议以支持 { -brand-short-name }。
 addressbar-quickactions-learn-more = 详细了解
+addressbar-restore-dismissed-suggestions-button =
+    .label = 恢复
 
 ## Privacy Section - Content Blocking
 

@@ -86,6 +86,9 @@ sidebar-pins-callout-cta-button = 固定标签页
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-callout-button = 定制侧栏
+sidebar-customization-callout-dismiss-button = 隐藏侧栏
+sidebar-customization-callout-2-title = 个性化 { -brand-product-name } 侧栏
 
 ## Sidebar Callout Survey Strings
 
