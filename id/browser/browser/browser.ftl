@@ -187,6 +187,15 @@ urlbar-result-menu-remove-from-history =
 urlbar-result-menu-tip-get-help =
     .label = Dapatkan bantuan
     .accesskey = b
+urlbar-result-menu-dismiss-suggestion =
+    .label = Abaikan saran ini
+    .accesskey = b
+urlbar-result-menu-learn-more-about-firefox-suggest =
+    .label = Pelajari lebih lanjut tentang { -firefox-suggest-brand-name }
+    .accesskey = l
+urlbar-result-menu-manage-firefox-suggest =
+    .label = Kelola { -firefox-suggest-brand-name }
+    .accesskey = K
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.

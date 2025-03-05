@@ -93,7 +93,11 @@ sidebar-pins-callout-cta-button = Fijar pestaña
 ## Sidebar Onboarding Strings
 
 sidebar-customization-callout-1-title = Barra lateral: tu lugar para herramientas y pestañas
+sidebar-customization-callout-1-subtitle = La barra lateral de { -brand-product-name } te brinda acceso rápido a tu historial de navegación, pestañas de otros dispositivos y un chatbot de IA, todo sin salir de tu vista principal.
+sidebar-customization-callout-callout-button = Personalizar barra lateral
 sidebar-customization-callout-dismiss-button = Ocultar barra lateral
+sidebar-customization-callout-2-title = Haz tuya la barra lateral de { -brand-product-name }
+sidebar-customization-callout-2-subtitle = Añade y quita herramientas. Coloca tus pestañas en la barra lateral. Prueba un chatbot con inteligencia artificial. La forma en que personalizas tu barra lateral depende de ti.
 
 ## Sidebar Callout Survey Strings
 

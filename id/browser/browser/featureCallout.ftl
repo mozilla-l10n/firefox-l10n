@@ -77,12 +77,23 @@ sidebar-button-callout-vertical-tabs = Untuk menampilkan tab Anda, pilih tombol 
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-cta-button = Coba tab vertikal
+vertical-tabs-callout-2-cta-button = Coba sekarang
+vertical-tabs-callout-2-title = Tetap membuka banyak tab? Coba tab vertikal.
+vertical-tabs-callout-2-subtitle = Tata letak ini memudahkan untuk memindai daftar tab Anda dengan cepat. Selain itu, Anda dapat menyesuaikan lebar untuk melihat lebih banyak atau lebih sedikit judul tab Anda.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = Kehilangan jejak tab penting Anda?
+sidebar-pins-callout-subtitle = Coba sematkan, yang membuatnya tetap di bagian atas daftar tab Anda. Klik kanan pada tab yang ingin Anda sematkan, lalu pilih Sematkan Tab.
+sidebar-pins-callout-cta-button = Sematkan tab
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Bilah Samping: tempat Anda untuk alat dan tab
+sidebar-customization-callout-1-subtitle = Bilah samping { -brand-product-name } memberi Anda akses cepat ke riwayat penjelajahan Anda, tab dari perangkat lain, dan chatbot AI — semuanya tanpa meninggalkan tampilan utama Anda.
+sidebar-customization-callout-callout-button = Sesuaikan bilah sisi
+sidebar-customization-callout-dismiss-button = Sembunyikan bilah sisi
 
 ## Sidebar Callout Survey Strings
 
