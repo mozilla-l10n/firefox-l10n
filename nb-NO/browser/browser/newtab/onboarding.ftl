@@ -423,10 +423,13 @@ onboarding-checklist-sign-up = Registrer deg eller logg inn på kontoen din
 ## Tab Groups feature onboarding strings
 
 tab-groups-onboarding-feature-callout-title = Prøv fanegrupper for mindre rot, mer fokus
+tab-groups-onboarding-create-group-no-alltabs-button-title = Finn gruppene dine ved å søke etter dem i adresselinjen.
 tab-groups-onboarding-session-restore-title = Gjenåpne fanegruppene dine her når som helst.
+tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-cta = Opprett en profil
 multi-profile-callout-subtitle = Profiler lar deg holde nettleserinformasjonen din, som søkehistorikk og passord, helt adskilt.
 multi-profile-callout-cta = Opprett en profil
 
