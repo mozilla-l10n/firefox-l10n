@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = അനുവദിക്കുക
     .accesskey = A
+permissions-button-off =
+    .label = അണക്കുക
+    .accesskey = അ
+permissions-button-off-temporarily =
+    .label = തല്ക്കാലം അണച്ചുവയ്ക്കുക
+    .accesskey = അ
 permissions-site-name =
     .label = വെബ്‌സൈറ്റ്
 permissions-status =
@@ -28,6 +34,10 @@ permissions-remove =
 permissions-remove-all =
     .label = എല്ലാ വെബ്സൈറ്റുകളും നീക്കം ചെയ്യുക
     .accesskey = e
+permission-dialog =
+    .buttonlabelaccept = മാറ്റങ്ങൾ കരുതിവയ്ക്കുക
+    .buttonaccesskeyaccept = ക
+permissions-autoplay-menu = എല്ലാ വെബിടങ്ങൾക്കു് തനിമട്ടു്
 permissions-searchbox =
     .placeholder = വെബ്സൈറ്റ് തിരയുക
 permissions-capabilities-autoplay-allow =
@@ -48,6 +58,10 @@ permissions-capabilities-listitem-block =
     .value = തടയുക
 permissions-capabilities-listitem-allow-session =
     .value = ഈ സെഷന്‌ അനുവദിക്കുക
+permissions-capabilities-listitem-off =
+    .value = അണച്ചതു്
+permissions-capabilities-listitem-off-temporarily =
+    .value = തല്ക്കാലം അണച്ചിരിക്കുന്നു
 
 ## Invalid Hostname Dialog
 
@@ -56,6 +70,9 @@ permissions-invalid-uri-label = ദയവായി വാലിഡായ ഒര�
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-etp-window2 =
+    .title = മെച്ചപ്പെടുത്തിയ പിന്തുടൎച്ച പരിരക്ഷയ്ക്കുള്ള ഒഴിവാക്കലുകൾ
+    .style = { permissions-window2.style }
 
 ## Exceptions - Cookies
 
@@ -132,3 +149,6 @@ permissions-site-microphone-disable-label =
 ##
 ## "Speaker" refers to an audio output device.
 
+permissions-doh-add-exception =
+    .label = ചേൎക്കുക
+    .accesskey = ച

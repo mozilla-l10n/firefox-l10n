@@ -918,6 +918,11 @@ navbar-downloads =
     .label = ഇറക്കിവയ്ക്കലുകൾ
 navbar-overflow =
     .tooltiptext = കൂടുതല്‍ പ്രയോഗങ്ങള്‍...
+# Variables:
+#   $shortcut (String): keyboard shortcut to print the page
+navbar-print =
+    .label = അച്ചടിപ്പിക്കുക
+    .tooltiptext = ഈ താളിന്റെ അച്ചടിപ്പു് എടുക്കുക... ({ $shortcut })
 navbar-home =
     .label = ആമുഖം
     .tooltiptext = { -brand-short-name } ആമുഖതാൾ

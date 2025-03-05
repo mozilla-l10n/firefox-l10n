@@ -69,6 +69,8 @@ autofill-address-townland = കൊച്ചുപട്ടണം
 autofill-address-city = നഗരം
 # Used in HK, SD, SY, TR as Address Level-2 and used in KR as Sublocality.
 autofill-address-district = ജില്ല
+# Used in GB, NO, SE
+autofill-address-post-town = പോസ്റ്റ് ടൗൺ
 # Used in AU as Address Level-2 and used in ZZ as Sublocality.
 autofill-address-suburb = അതിർത്തി
 
@@ -94,6 +96,8 @@ autofill-address-oblast = ഒബ്ലാസ്റ്റു്
 
 ## Postal code name types
 
+# Used in IN
+autofill-address-pin = പിൻ
 autofill-address-postal-code = തപാല്‍ കോഡ്
 autofill-address-zip = സിപ്പ് കോഡ്
 # Used in IE
@@ -113,7 +117,12 @@ autofill-save-button = സംരക്ഷിക്കുക
 autofill-add-new-card-title = പുതിയ ക്രെഡിറ്റ് കാര്‍ഡ് ചേര്‍ക്കുക
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = ക്രെഡിറ്റ് കാര്‍ഡ് തിരുത്തുക
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = ചീട്ടു് ചേൎക്കുക
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = ചീട്ടു് തിരുത്തുക
 autofill-card-number = ചീട്ടക്കം
+autofill-card-invalid-number = സാധുവായൊരു ചീട്ടു് അക്കം നല്കുക
 autofill-card-name-on-card = ചീട്ടിലുള്ള പേരു്
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use

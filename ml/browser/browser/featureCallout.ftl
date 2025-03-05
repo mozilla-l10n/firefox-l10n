@@ -63,6 +63,7 @@ sidebar-button-callout-subtitle = ടാബുത്തലക്കെട്ട�
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-dismiss-button = അണിവക്കം മറയ്ക്കുക
 
 ## Sidebar Callout Survey Strings
 
