@@ -47,7 +47,7 @@ install-search-engine-no = No
 
 add-engine-window =
     .title = Aggiungi motore di ricerca
-    .style = min-width: 32em;
+    .style = min-width: 36em;
 add-engine-button = Aggiungi motore personalizzato
 add-engine-name = Nome motore di ricerca
 add-engine-url = Indirizzo del motore di ricerca. Usare %s al posto del termine di ricerca
