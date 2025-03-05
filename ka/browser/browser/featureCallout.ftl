@@ -77,9 +77,16 @@ sidebar-button-callout-vertical-tabs = თქვენი ჩანართე�
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = გაწუხებთ ზედმეტად ბევრი ჩანართი?
+vertical-tabs-callout-1-subtitle = მოსინჯეთ ჩვენი ახალი შვეული განლაგება ჩანართებისთვის, რომ სწრაფად შეგეძლოთ მათთვის თვალის შევლება. ადრეული შემმოწმებლების აზრით, ამგვარი განლაგება მოწესრიგებულობის განცდას უტოვებდათ. გადართვას ნებისმიერ დროს შეძლებთ.
+vertical-tabs-callout-1-cta-button = მოსინჯეთ შვეული ჩანართები
+vertical-tabs-callout-2-cta-button = ახლავე მოსინჯვა
+vertical-tabs-callout-2-title = ბევრი ჩანართის დატოვება გიწევთ? მოსინჯეთ შვეული ჩანართები.
+vertical-tabs-callout-2-subtitle = ამგვარი განლაგება აადვილებს ჩანართებისთვის თვალის უცებ შევლებას. გარდა ამისა, შეგიძლიათ სიგანის მორგება სახელების სრულად ან ნაკლებად გამოსაჩენად.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = თვალთახედვიდან გეკარგებათ მნიშვნელოვანი ჩანართები?
 
 ## Sidebar Onboarding Strings
 

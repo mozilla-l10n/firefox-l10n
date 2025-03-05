@@ -31,6 +31,13 @@ pending-crash-reports-send =
     .label = გაგზავნა
 pending-crash-reports-always-send =
     .label = გაგზავნა ყოველთვის
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+requested-crash-reports-message =
+    { $reportCount ->
+        [one] გათიშვის მოხსენება გაქვთ გადაუგზავნელი, რომელიც შეესაბამება ამჟამად გამოსაკვლევ ხარვეზს, მისი მოწოდებით დაგვეხმარებით, გავაუმჯობესოთ { -brand-product-name }. შეტყობინების დახურვით აიცილებთ მოხსენების გაგზავნას.
+       *[other] გათიშვის { $reportCount } მოხსენება გაქვთ გადაუგზავნელი, რომლებიც შეესაბამება ამჟამად გამოსაკვლევ ხარვეზს, მათი მოწოდებით დაგვეხმარებით, გავაუმჯობესოთ { -brand-product-name }. შეტყობინების დახურვით აიცილებთ მოხსენებების გაგზავნას.
+    }
 requested-crash-reports-dont-show-again =
     .label = მომავალში ჩვენების გარეშე
     .accesskey = გ
