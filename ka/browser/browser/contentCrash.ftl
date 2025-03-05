@@ -31,3 +31,6 @@ pending-crash-reports-send =
     .label = გაგზავნა
 pending-crash-reports-always-send =
     .label = გაგზავნა ყოველთვის
+requested-crash-reports-dont-show-again =
+    .label = მომავალში ჩვენების გარეშე
+    .accesskey = გ

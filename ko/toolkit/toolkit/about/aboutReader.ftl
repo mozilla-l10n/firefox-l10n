@@ -125,3 +125,5 @@ about-reader-text-alignment-center =
     .title = 텍스트 중앙 정렬
 about-reader-text-alignment-right =
     .title = 텍스트 오른쪽 정렬
+about-reader-text-alignment-justify =
+    .title = 텍스트 양쪽 맞춤
