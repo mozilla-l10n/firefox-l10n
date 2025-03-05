@@ -77,6 +77,7 @@ sidebar-button-callout-vertical-tabs = Para exibir suas abas, clique no botão d
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = Sobrecarregado com muitas abas?
 
 ## Sidebar Vertical Tabs Pinning Strings
 
