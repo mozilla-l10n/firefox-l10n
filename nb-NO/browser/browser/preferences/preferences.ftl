@@ -1126,6 +1126,13 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Adresselinje
 addressbar-suggest = Når du bruker adresselinjen, føreslå
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Adresselinje — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Velg typen forslag som vises i adresselinjen.
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Les mer
 addressbar-locbar-history-option =
     .label = Nettleserhistorikk
     .accesskey = h

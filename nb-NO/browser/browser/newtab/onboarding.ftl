@@ -430,6 +430,7 @@ tab-groups-onboarding-dismiss = OK
 ## Multi Profiles feature onboarding messages
 
 multi-profile-spotlight-cta = Opprett en profil
+multi-profile-callout-title = Lag forskjellige profiler for jobb og fritid
 multi-profile-callout-subtitle = Profiler lar deg holde nettleserinformasjonen din, som søkehistorikk og passord, helt adskilt.
 multi-profile-callout-cta = Opprett en profil
 
