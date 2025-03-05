@@ -45,3 +45,15 @@ install-search-engine-no = No
 ## These strings are used for the add engine dialog when adding a custom search engine
 ## in settings or when adding an HTML form as a search engine.
 
+add-engine-window =
+    .title = Aggiungi motore di ricerca
+    .style = min-width: 36em;
+add-engine-button = Aggiungi motore personalizzato
+add-engine-name = Nome del motore di ricerca
+add-engine-keyword = Parola chiave
+add-engine-url = Indirizzo del motore di ricerca. Usare %s al posto del termine di ricerca
+add-engine-dialog =
+    .buttonlabelaccept = Aggiungi motore
+    .buttonaccesskeyaccept = m
+engine-name-exists = È già presente un motore di ricerca con questo nome
+engine-keyword-exists = È già presente un motore di ricerca con questa parola chiave
