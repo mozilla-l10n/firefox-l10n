@@ -77,12 +77,17 @@ sidebar-button-callout-vertical-tabs = Selektearje de sydbalkeknop yn de arkbalk
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-cta-button = Fertikale ljepblêden probearje
+vertical-tabs-callout-2-cta-button = No probearje
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-cta-button = Ljepblêd fêstsette
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-callout-button = Sidebalke oanpasse
+sidebar-customization-callout-dismiss-button = Sidebalke ferstopje
 
 ## Sidebar Callout Survey Strings
 

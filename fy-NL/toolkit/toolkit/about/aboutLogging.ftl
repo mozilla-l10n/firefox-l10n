@@ -44,6 +44,7 @@ about-logging-preset-media-playback-label = Media ôfspylje
 about-logging-preset-media-playback-description = Logboekmodulen om problemen mei it ôfspyljen fan media te diagnostisearjen (gjin problemen mei fideokonferinsjes)
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Logboekmodulen om WebRTC-oanroppen te diagnostisearjen
+about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Logboekmodulen om WebGPU te diagnostisearjen
 about-logging-preset-gfx-label = Grafysk

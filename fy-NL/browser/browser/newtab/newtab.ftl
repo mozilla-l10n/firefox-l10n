@@ -315,6 +315,8 @@ newtab-custom-settings = Mear ynstellingen beheare
 
 newtab-wallpaper-title = Eftergrûnen
 newtab-wallpaper-reset = Standertwearden
+newtab-wallpaper-upload-image = In ôfbylding oplade
+newtab-wallpaper-custom-color = Kies in kleur
 newtab-wallpaper-light-red-panda = Reade panda
 newtab-wallpaper-light-mountain = Wite berch
 newtab-wallpaper-light-sky = Himel mei pearze en rôze wolken
@@ -385,6 +387,11 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Kosmysk
+newtab-wallpaper-celestial-starry-sky = Stjerrehimel
 
 ## New Tab Weather
 

@@ -31,3 +31,6 @@ pending-crash-reports-send =
     .label = Ferstjoere
 pending-crash-reports-always-send =
     .label = Altyd ferstjoere
+requested-crash-reports-dont-show-again =
+    .label = Net mear toane
+    .accesskey = N

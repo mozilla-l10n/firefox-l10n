@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI-chatbot
 menu-view-review-checker =
     .label = Beoardielingskontrôle
+menu-view-contextual-password-manager =
+    .label = Wachtwurden
 sidebar-options-menu-button =
     .title = Menu iepenje
 
@@ -75,6 +77,12 @@ sidebar-context-menu-bookmark-tab =
     .label = Blêdwizer foar ljepblêd meitsje…
 sidebar-context-menu-copy-link =
     .label = Keppeling kopiearje
+sidebar-context-menu-hide-sidebar =
+    .label = Sidebalke ferstopje
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Fertikale ljepblêden ynskeakelje
+sidebar-context-menu-customize-sidebar =
+    .label = Sidebalke oanpasse
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
@@ -99,6 +107,8 @@ sidebar-menu-customize-label =
     .label = Sidebalke oanpasse
 sidebar-menu-review-checker-label =
     .label = Beoardielingskontrôle
+sidebar-menu-contextual-password-manager-label =
+    .label = Wachtwurden
 
 ## Tooltips for sidebar menu items.
 
@@ -139,6 +149,8 @@ sidebar-menu-syncedtabs-header =
     .heading = Ljepblêden fan oare apparaten
 sidebar-menu-bookmarks-header =
     .heading = Blêdwizers
+sidebar-menu-cpm-header =
+    .heading = Wachtwurden
 sidebar-panel-header-close-button =
     .tooltiptext = Slute
 

@@ -148,6 +148,10 @@ preferences-data-migration-description = Blêdwizers, wachtwurden, skiednis en g
 preferences-data-migration-button =
     .label = Gegevens ymportearje
     .accesskey = m
+preferences-profiles-header = Profilen
+preferences-manage-profiles-learn-more = Mear ynfo
+preferences-manage-profiles-button =
+    .label = Profilen beheare
 tabs-group-header = Ljepblêden
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab rint troch ljepblêden yn koartlyn brûkte folchoarder
@@ -1122,6 +1126,11 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Adresbalke
 addressbar-suggest = By gebrûk fan de adresbalke, suggestjes werjaan út
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Adresbalke – { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Mear ynfo
 addressbar-locbar-history-option =
     .label = Navigaasjeskiednis
     .accesskey = N
@@ -1154,7 +1163,14 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Trending syksuggestjes toane
     .accesskey = T
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = Suggestjes fan { -brand-short-name }
+addressbar-locbar-suggest-sponsored-option =
+    .label = Suggestjes fan sponsors
 addressbar-quickactions-learn-more = Mear ynfo
+addressbar-restore-dismissed-suggestions-button =
+    .label = Werom bringe
 
 ## Privacy Section - Content Blocking
 
