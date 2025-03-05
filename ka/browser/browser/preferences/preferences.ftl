@@ -1175,6 +1175,9 @@ addressbar-locbar-suggest-sponsored-option =
 addressbar-locbar-suggest-sponsored-desc = თანადგომისთვის იხილეთ დამკვეთის შემოთავაზებები, { -brand-short-name } დროდადრო რომ მოგაწვდით
 addressbar-quickactions-learn-more = ვრცლად
 addressbar-dismissed-suggestions-label = შეთავაზებების აცილება
+addressbar-restore-dismissed-suggestions-description = აცილებული შემოთავაზებების დაბრუნება, რომელთაც გაწვდით დამკვეთები და { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button =
+    .label = დაბრუნება
 
 ## Privacy Section - Content Blocking
 

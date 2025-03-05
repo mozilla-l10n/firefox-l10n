@@ -129,3 +129,5 @@ about-reader-text-alignment-center =
     .title = შუაში გასწორება
 about-reader-text-alignment-right =
     .title = მარჯვნივ გასწორება
+about-reader-text-alignment-justify =
+    .title = ტექსტის არეების გათანაბრება
