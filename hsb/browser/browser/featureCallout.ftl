@@ -82,10 +82,12 @@ vertical-tabs-callout-1-subtitle = Wupruwujće naše wuhotowanje wertikalnych ra
 vertical-tabs-callout-1-cta-button = Wupruwujće wertikalne rajtarki
 vertical-tabs-callout-2-cta-button = Nětko wupruwować
 vertical-tabs-callout-2-title = Maće wjele rajtarkow wočinjenych? Wupruwujće wertikalne rajtarki.
+vertical-tabs-callout-2-subtitle = Tute wuhotowanje wam spěšne skenowanje wašeje lisćiny rajtarkow wosnadnja. Nimo toho móžeće šěrokosć přiměrić, zo byšće wjace abo mjenje wot titulow rajtarkow widźał.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
 sidebar-pins-callout-title = Zhubjeće čaru swojich wažnych rajtarkow?
+sidebar-pins-callout-subtitle = Spytajśo je připjeć, štož je horjeka we wašej lisćinje rajtarkow wostaji. Klikńće z prawej tastu na rajtark, kotryž chceće připjeć a wubjerće potom Rajtark připjeć.
 sidebar-pins-callout-cta-button = Rajtark připinyć
 
 ## Sidebar Onboarding Strings
