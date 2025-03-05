@@ -57,6 +57,11 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Tanyakan { $provider }…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = AI chatbot tidak akan mendapatkan pilihan lengkap Anda
+    .message = Anda telah memilih sekitar { $selectionLength } karakter. Banyaknya karakter yang kami bisa kirim ke chatbot AI adalah sekitar { $maxLength }.
 # $provider (string) - name of the provider
 # $selectionLength (number) - selected text length
 # $maxLength (number) - max length of what can be selected

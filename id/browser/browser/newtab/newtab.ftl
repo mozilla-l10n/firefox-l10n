@@ -375,7 +375,9 @@ newtab-wallpaper-red-panda-yawns-in-a-tree = Panda merah menguap di pohon
 newtab-wallpaper-white-mountains = Pegunungan putih
 newtab-wallpaper-hot-air-balloons = Aneka warna balon udara panas di siang hari
 newtab-wallpaper-starry-canyon = Malam biru berbintang
+newtab-wallpaper-suspension-bridge = Fotografi jembatan full-suspension abu-abu di siang hari
 newtab-wallpaper-sand-dunes = Bukit pasir putih
+newtab-wallpaper-palm-trees = Siluet pohon kelapa saat golden hour
 newtab-wallpaper-forest-trees = Pepohonan tertutup kabut
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
@@ -496,13 +498,20 @@ newtab-section-block-section-button = Blokir bagian ini
 newtab-section-cancel-button = Jangan sekarang
 newtab-section-confirm-block-topic-p1 = Yakin ingin memblokir topik ini?
 newtab-section-confirm-block-topic-p2 = Topik yang diblokir tidak akan muncul lagi di asupan Anda.
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = Blokir { $topic }
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Topik
+newtab-section-manage-topics-button-v2 =
+    .label = Kelola topik
+newtab-section-mangage-topics-followed-topics = Diikuti
 newtab-section-mangage-topics-button =
     .label = Topik yang diikuti dan diblokir
 newtab-section-mangage-topics-followed-topics-subtitle = Topik yang Diikuti
 newtab-section-mangage-topics-followed-topics-empty-state = Anda belum mengikuti topik apa pun.
+newtab-section-mangage-topics-blocked-topics = Diblokir
 newtab-section-mangage-topics-blocked-topics-subtitle = Topik yang Diblokir
 newtab-section-mangage-topics-blocked-topics-empty-state = Anda belum memblokir topik apa pun.

@@ -94,6 +94,8 @@ sidebar-customization-callout-1-title = Bilah Samping: tempat Anda untuk alat da
 sidebar-customization-callout-1-subtitle = Bilah samping { -brand-product-name } memberi Anda akses cepat ke riwayat penjelajahan Anda, tab dari perangkat lain, dan chatbot AI — semuanya tanpa meninggalkan tampilan utama Anda.
 sidebar-customization-callout-callout-button = Sesuaikan bilah sisi
 sidebar-customization-callout-dismiss-button = Sembunyikan bilah sisi
+sidebar-customization-callout-2-title = Buat bilah sisi { -brand-product-name } Anda sendiri
+sidebar-customization-callout-2-subtitle = Tambah dan hapus alat. Tempatkan tab Anda di bilah sisi. Coba chatbot AI. Bagaimana Anda menyesuaikan bilah sisi terserah Anda.
 
 ## Sidebar Callout Survey Strings
 

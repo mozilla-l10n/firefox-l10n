@@ -445,6 +445,11 @@ onboarding-checklist-sign-up = Daftar atau masuk ke akun Anda
 
 tab-groups-onboarding-feature-callout-title = Coba grup tab untuk mengurangi tercecer, lebih fokus
 tab-groups-onboarding-feature-callout-subtitle = Atur dengan menyeret satu tab di atas tab lainnya untuk membuat grup pertama Anda.
+tab-groups-onboarding-create-group-title-2 = Temukan grup tab Anda di sini kapan saja.
+tab-groups-onboarding-create-group-no-alltabs-button-title = Temukan grup Anda dengan mencarinya di bilah alamat.
+tab-groups-onboarding-saved-groups-title-2 = Saat Anda menutup grup tab, Anda dapat membukanya kembali di sini kapan saja.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Temukan grup tertutup Anda dengan mencarinya di bilah alamat.
+tab-groups-onboarding-session-restore-title = Buka kembali grup tab Anda di sini kapan saja.
 tab-groups-onboarding-saved-groups-title = Jika Anda menutup grup tab, Anda dapat membukanya kembali di sini kapan saja.
 tab-groups-onboarding-dismiss = Oke
 
@@ -459,3 +464,5 @@ multi-profile-callout-cta = Buat profil
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = Unduh, sinkronkan, dan mulai!

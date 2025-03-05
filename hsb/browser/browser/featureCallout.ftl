@@ -77,12 +77,17 @@ sidebar-button-callout-vertical-tabs = Zo byšće swoje rajtarki pokazał, wubje
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-cta-button = Wupruwujće wertikalne rajtarki
+vertical-tabs-callout-2-cta-button = Nětko wupruwować
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-cta-button = Rajtark připinyć
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-callout-button = Bóčnicu přiměrić
+sidebar-customization-callout-dismiss-button = Bóčnicu schować
 
 ## Sidebar Callout Survey Strings
 

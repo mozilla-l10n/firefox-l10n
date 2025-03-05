@@ -1135,6 +1135,9 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Adresowe polo
 addressbar-suggest = Při wužiwanju adresoweho pola ma so namjetować
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Dalše informacije
 addressbar-locbar-history-option =
     .label = Přehladowanska historija
     .accesskey = h
@@ -1167,7 +1170,17 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Trendowe pytanske namjety pokazać
     .accesskey = d
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = Namjety wot { -brand-short-name }
+addressbar-locbar-suggest-nonsponsored-desc = Wobstarajće sej namjety z weba nastupajo waše pytanje.
+addressbar-locbar-suggest-sponsored-option =
+    .label = Namjety wot sponsorow
+addressbar-locbar-suggest-sponsored-desc = Podpěrajće { -brand-short-name } ze składnostnymi sponserowanymi namjetami
 addressbar-quickactions-learn-more = Dalše informacije
+addressbar-dismissed-suggestions-label = Zaćisnjenje namjety
+addressbar-restore-dismissed-suggestions-button =
+    .label = Wobnowić
 
 ## Privacy Section - Content Blocking
 
