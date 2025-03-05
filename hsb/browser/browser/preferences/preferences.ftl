@@ -1135,6 +1135,8 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Adresowe polo
 addressbar-suggest = Při wužiwanju adresoweho pola ma so namjetować
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Adresowe polo – { -firefox-suggest-brand-name }
 # When Firefox Suggest is enabled, a "Learn more" link appears at the end of
 # `addressbar-suggest-firefox-suggest`.
 addressbar-locbar-firefox-suggest-learn-more = Dalše informacije
