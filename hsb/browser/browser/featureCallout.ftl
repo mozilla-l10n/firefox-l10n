@@ -80,15 +80,19 @@ sidebar-button-callout-vertical-tabs = Zo byšće swoje rajtarki pokazał, wubje
 vertical-tabs-callout-1-title = Z přewjele rajtarkami překopjeny?
 vertical-tabs-callout-1-cta-button = Wupruwujće wertikalne rajtarki
 vertical-tabs-callout-2-cta-button = Nětko wupruwować
+vertical-tabs-callout-2-title = Maće wjele rajtarkow wočinjenych? Wupruwujće wertikalne rajtarki.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = Zhubjeće čaru swojich wažnych rajtarkow?
 sidebar-pins-callout-cta-button = Rajtark připinyć
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Bóčnica: waše městno za nastroje a rajtarki
 sidebar-customization-callout-callout-button = Bóčnicu přiměrić
 sidebar-customization-callout-dismiss-button = Bóčnicu schować
+sidebar-customization-callout-2-title = Přiswojće sej bóčnicu { -brand-product-name }
 
 ## Sidebar Callout Survey Strings
 

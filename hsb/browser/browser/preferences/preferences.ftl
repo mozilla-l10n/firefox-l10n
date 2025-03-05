@@ -1137,6 +1137,8 @@ addressbar-header = Adresowe polo
 addressbar-suggest = Při wužiwanju adresoweho pola ma so namjetować
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Adresowe polo – { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Wubjerće typ namjetow, kotrež so w adresowym polu jewi.
 # When Firefox Suggest is enabled, a "Learn more" link appears at the end of
 # `addressbar-suggest-firefox-suggest`.
 addressbar-locbar-firefox-suggest-learn-more = Dalše informacije
@@ -1181,6 +1183,7 @@ addressbar-locbar-suggest-sponsored-option =
 addressbar-locbar-suggest-sponsored-desc = Podpěrajće { -brand-short-name } ze składnostnymi sponserowanymi namjetami
 addressbar-quickactions-learn-more = Dalše informacije
 addressbar-dismissed-suggestions-label = Zaćisnjenje namjety
+addressbar-restore-dismissed-suggestions-description = Zaćisnjene namjety wot sponsorow a { -brand-short-name } wobnowić.
 addressbar-restore-dismissed-suggestions-button =
     .label = Wobnowić
 
