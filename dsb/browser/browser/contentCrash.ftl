@@ -33,6 +33,15 @@ pending-crash-reports-send =
     .label = Pósłaś
 pending-crash-reports-always-send =
     .label = Pśecej pósłaś
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+requested-crash-reports-message =
+    { $reportCount ->
+        [one] Maśo { $reportCount } njepósłanych rozpšawow wowalenjow, kótaraž wowalenjam wótpowědujo, kótarež se wuslěźuju. Gaž ju sćelośo, pomagaśo nam, { -brand-product-name } pólěpšyś. Gaž toś tu powěźeńku zacynjaśo, se toś ta rozpšawa ignorěrujo.
+        [two] Maśo { $reportCount } njepósłanej rozpšawje wowalenjow, kótarejž wowalenjam wótpowědujotej, kótarež se wuslěźuju. Gaž jej sćelośo, pomagaśo nam, { -brand-product-name } pólěpšyś. Gaž toś tu powěźeńku zacynjaśo, se toś tej rozpšawje ignorěrujotej.
+        [few] Maśo { $reportCount } njepósłane rozpšawy wowalenjow, kótarež wowalenjam wótpowěduju, kótarež se wuslěźuju. Gaž je sćelośo, pomagaśo nam, { -brand-product-name } pólěpšyś. Gaž toś tu powěźeńku zacynjaśo, se toś te rozpšawy ignorěruju.
+       *[other] Maśo { $reportCount } njepósłanych rozpšawow wowalenjow, kótarež wowalenjam wótpowědujo, kótarež se wuslěźuju. Gaž je sćelośo, pomagaśo nam, { -brand-product-name } pólěpšyś. Gaž toś tu powěźeńku zacynjaśo, se toś te rozpšawy ignorěruju.
+    }
 requested-crash-reports-dont-show-again =
     .label = Wěcej se njepokazaś
     .accesskey = W
