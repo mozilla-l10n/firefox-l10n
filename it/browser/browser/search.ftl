@@ -41,3 +41,7 @@ remove-search-engine-button = OK
 install-search-engine = Aggiungere { $engineName } come motore di ricerca?
 install-search-engine-add = Aggiungi
 install-search-engine-no = No
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
