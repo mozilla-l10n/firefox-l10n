@@ -27,3 +27,6 @@ pending-crash-reports-send =
     .label = 傳送
 pending-crash-reports-always-send =
     .label = 總是傳送
+requested-crash-reports-dont-show-again =
+    .label = 不要再顯示
+    .accesskey = D

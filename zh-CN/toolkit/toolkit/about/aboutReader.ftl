@@ -125,3 +125,5 @@ about-reader-text-alignment-center =
     .title = 文本居中对齐
 about-reader-text-alignment-right =
     .title = 文本右对齐
+about-reader-text-alignment-justify =
+    .title = 两端对齐文本

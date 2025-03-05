@@ -77,12 +77,19 @@ sidebar-button-callout-vertical-tabs = For å vise faneane dine, velg sidestolpe
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = Overvelda av for mange faner?
+vertical-tabs-callout-1-cta-button = Prøv vertikale faner
+vertical-tabs-callout-2-cta-button = Prøv no
+vertical-tabs-callout-2-title = Har du mange faner opne? Prøv vertikale faner.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-cta-button = Fest fane
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-callout-button = Tilpass sidestolpe
+sidebar-customization-callout-dismiss-button = Skjul sidestolpe
 
 ## Sidebar Callout Survey Strings
 

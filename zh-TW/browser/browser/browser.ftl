@@ -187,6 +187,15 @@ urlbar-result-menu-remove-from-history =
 urlbar-result-menu-tip-get-help =
     .label = 取得幫助
     .accesskey = h
+urlbar-result-menu-dismiss-suggestion =
+    .label = 忽略此建議
+    .accesskey = D
+urlbar-result-menu-learn-more-about-firefox-suggest =
+    .label = 了解 { -firefox-suggest-brand-name } 的更多資訊
+    .accesskey = L
+urlbar-result-menu-manage-firefox-suggest =
+    .label = 管理 { -firefox-suggest-brand-name }
+    .accesskey = M
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
