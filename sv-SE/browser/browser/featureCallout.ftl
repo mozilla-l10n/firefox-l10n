@@ -80,7 +80,7 @@ sidebar-button-callout-vertical-tabs = För att visa dina flikar, välj sidofäl
 vertical-tabs-callout-1-title = Överväldigad av för många flikar?
 vertical-tabs-callout-1-subtitle = Prova vår nya vertikala fliklayout för att snabbt skanna din lista med flikar. Tidiga testare rapporterar att den här layouten hjälper dem att känna sig mer organiserade. Byt när som helst.
 vertical-tabs-callout-1-cta-button = Prova vertikala flikar
-vertical-tabs-callout-2-cta-button = Försök nu
+vertical-tabs-callout-2-cta-button = Prova nu
 vertical-tabs-callout-2-title = Hålla många flikar öppna? Prova vertikala flikar.
 vertical-tabs-callout-2-subtitle = Denna layout gör det enkelt att snabbt skanna din lista med flikar. Dessutom kan du justera bredden för att se fler eller färre av dina fliktitlar.
 
