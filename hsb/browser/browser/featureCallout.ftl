@@ -93,6 +93,7 @@ sidebar-customization-callout-1-title = Bóčnica: waše městno za nastroje a r
 sidebar-customization-callout-callout-button = Bóčnicu přiměrić
 sidebar-customization-callout-dismiss-button = Bóčnicu schować
 sidebar-customization-callout-2-title = Přiswojće sej bóčnicu { -brand-product-name }
+sidebar-customization-callout-2-subtitle = Přidajće a wotstrońće nastroje. Stajće swoje rajtarki do bóčnicy. Wupruwujće chatbot KI. Kak swoju bóčnicu přiměrjeće, wot was wotwisuje.
 
 ## Sidebar Callout Survey Strings
 
