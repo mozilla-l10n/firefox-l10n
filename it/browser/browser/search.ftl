@@ -47,13 +47,11 @@ install-search-engine-no = No
 
 add-engine-window =
     .title = Aggiungi motore di ricerca
-    .style = min-width: 36em;
+    .style = min-width: 32em;
 add-engine-button = Aggiungi motore personalizzato
-add-engine-name = Nome del motore di ricerca
-add-engine-keyword = Parola chiave
+add-engine-name = Nome motore di ricerca
 add-engine-url = Indirizzo del motore di ricerca. Usare %s al posto del termine di ricerca
 add-engine-dialog =
     .buttonlabelaccept = Aggiungi motore
-    .buttonaccesskeyaccept = m
+    .buttonaccesskeyaccept = A
 engine-name-exists = È già presente un motore di ricerca con questo nome
-engine-keyword-exists = È già presente un motore di ricerca con questa parola chiave
