@@ -1111,6 +1111,13 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Thanh địa chỉ
 addressbar-suggest = Khi dùng thanh địa chỉ, gợi ý
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Thanh địa chỉ — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Chọn loại đề xuất xuất hiện trong thanh địa chỉ.
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Tìm hiểu thêm
 addressbar-locbar-history-option =
     .label = Lịch sử duyệt web
     .accesskey = h
@@ -1143,7 +1150,18 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Hiển thị đề xuất tìm kiếm thịnh hành
     .accesskey = t
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = Đề xuất từ { -brand-short-name }
+addressbar-locbar-suggest-nonsponsored-desc = Nhận đề xuất từ ​​web liên quan đến tìm kiếm của bạn.
+addressbar-locbar-suggest-sponsored-option =
+    .label = Đề xuất từ nhà tài trợ
+addressbar-locbar-suggest-sponsored-desc = Hỗ trợ { -brand-short-name } với các đề xuất được tài trợ không thường xuyên.
 addressbar-quickactions-learn-more = Tìm hiểu thêm
+addressbar-dismissed-suggestions-label = Đề xuất bị loại bỏ
+addressbar-restore-dismissed-suggestions-description = Khôi phục các đề xuất đã bị loại bỏ từ các nhà tài trợ và { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button =
+    .label = Khôi phục
 
 ## Privacy Section - Content Blocking
 

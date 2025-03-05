@@ -258,8 +258,15 @@ tab-group-name-default = Namnlös grupp
 tab-context-move-tab-to-new-group =
     .label =
         { $tabCount ->
-            [1] Lägg till flik i en ny grupp
-           *[other] Add Tabs to New Group
+            [1] { "Lägg till flik i ny grupp" }
+           *[other] { "Lägg till flikar i ny grupp" }
+        }
+    .accesskey = g
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Lägg till flik i grupp
+           *[other] Lägg till flikar i grupp
         }
     .accesskey = g
 tab-group-editor-action-new-tab =

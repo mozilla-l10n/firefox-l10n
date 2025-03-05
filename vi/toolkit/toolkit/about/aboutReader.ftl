@@ -125,3 +125,5 @@ about-reader-text-alignment-center =
     .title = Căn chỉnh văn bản ở giữa
 about-reader-text-alignment-right =
     .title = Căn chỉnh văn bản sang phải
+about-reader-text-alignment-justify =
+    .title = Căn chỉnh văn bản đều hai bên
