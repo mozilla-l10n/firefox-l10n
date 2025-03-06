@@ -1131,6 +1131,13 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Panel s adresou
 addressbar-suggest = Pri používaní panela s adresou ponúkať
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Panel s adresou — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Vyberte typ návrhov, ktoré sa zobrazia v paneli s adresou.
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Ďalšie informácie
 addressbar-locbar-history-option =
     .label = históriu prehliadania
     .accesskey = h
@@ -1163,7 +1170,18 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Zobrazovať návrhy populárnych vyhľadávaní
     .accesskey = n
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = Návrhy od { -brand-short-name(case: "gen") }
+addressbar-locbar-suggest-nonsponsored-desc = Získajte návrhy z webu súvisiace s vaším vyhľadávaním.
+addressbar-locbar-suggest-sponsored-option =
+    .label = Návrhy od sponzorov
+addressbar-locbar-suggest-sponsored-desc = Podporte { -brand-short-name } príležitostnými sponzorovanými návrhmi.
 addressbar-quickactions-learn-more = Ďalšie informácie
+addressbar-dismissed-suggestions-label = Zamietnuté návrhy
+addressbar-restore-dismissed-suggestions-description = Obnovte zamietnuté návrhy od sponzorov a { -brand-short-name(case: "gen") }.
+addressbar-restore-dismissed-suggestions-button =
+    .label = Obnoviť
 
 ## Privacy Section - Content Blocking
 
