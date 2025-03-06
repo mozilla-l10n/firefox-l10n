@@ -129,3 +129,5 @@ about-reader-text-alignment-center =
     .title = Szöveg középre igazítása
 about-reader-text-alignment-right =
     .title = Szöveg jobbra igazítása
+about-reader-text-alignment-justify =
+    .title = Sorkizárás
