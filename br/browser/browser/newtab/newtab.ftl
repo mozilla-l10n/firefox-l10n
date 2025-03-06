@@ -8,6 +8,11 @@
 newtab-page-title = Ivinell nevez
 newtab-settings-button =
     .title = Personelait ho pajenn Ivinell Nevez
+newtab-personalize-settings-icon-label =
+    .title = Personelaat an ivinell nevez
+    .aria-label = Arventennoù
+newtab-settings-dialog-label =
+    .aria-label = Arventennoù
 newtab-personalize-icon-label =
     .title = Personelaat un ivinell nevez
     .aria-label = Personelaat un ivinell nevez
@@ -111,6 +116,10 @@ newtab-menu-save-to-pocket = Enrollañ etrezek { -pocket-brand-name }
 newtab-menu-delete-pocket = Dilemel eus { -pocket-brand-name }
 newtab-menu-archive-pocket = Diellaouiñ e { -pocket-brand-name }
 newtab-menu-show-privacy-info = Hor c’hevelerien hag ho puhez prevez
+newtab-menu-about-fakespot = A-zivout { -fakespot-brand-name }
+# Context menu option to personalize New Tab recommended stories by blocking a section of stories,
+# e.g. "Sports". "Block" is a verb here.
+newtab-menu-section-block = Stankañ
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -282,6 +291,8 @@ newtab-custom-settings = Merañ muioc'h a arventennoù
 ## New Tab Wallpapers
 
 newtab-wallpaper-title = Drekleurioù
+newtab-wallpaper-upload-image = Kas ur skeudenn
+newtab-wallpaper-custom-color = Dibab ul liv
 newtab-wallpaper-light-red-panda = Panda ruz
 newtab-wallpaper-light-mountain = Menez gwenn
 newtab-wallpaper-light-sky = Oabl gant koumoul limestra ha roz
@@ -391,14 +402,23 @@ newtab-topic-selection-button-maybe-later = Diwezhatoc’h marteze
 ## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 ## e.g. Following the travel section of stories.
 
+newtab-section-follow-button = Heuliañ
+newtab-section-following-button = O heuliañ
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
 ## e.g. Blocked the politics section of stories.
 
+newtab-section-block-button = Stankañ
+newtab-section-blocked-button = Stanket
 
 ## Confirmation modal for blocking a section
 
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = Stankañ { $topic }
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+newtab-section-mangage-topics-followed-topics = O heuliañ
+newtab-section-mangage-topics-blocked-topics = Stanket

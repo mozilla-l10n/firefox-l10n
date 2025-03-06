@@ -277,6 +277,7 @@ onboarding-device-migration-primary-button-label = Kennaskañ
 
 ## Add-ons Picker screen
 
+amo-picker-title = Personelait ho { -brand-short-name }
 amo-picker-install-button-label = Ouzhpennañ da { -brand-short-name }
 amo-picker-install-complete-label = Staliet
 amo-picker-collection-link = Ergerzhout muioc’h a askouezhioù
@@ -287,6 +288,8 @@ amo-picker-collection-link = Ergerzhout muioc’h a askouezhioù
 onboarding-easy-setup-security-and-privacy-title = Ho surentez a zo talvoudus deomp
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } a souten ac’hanoc’h bepred
+onboarding-sign-up-button = Krouiñ ur gont pe kennaskañ
+onboarding-sign-up-secondary-button = Kregiñ gant ar merdeiñ
 
 ## New user time and familiarity survey strings
 
@@ -297,17 +300,26 @@ onboarding-new-user-survey-time-based-option-2 = Nebeutoc’h eget 1 miz
 
 ## UI strings for the sidebar and vertical tabs
 
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Esaeit an ivinelloù a-serzh
 onboarding-flair-text = Nevez!
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Derc’hel an ivinelloù a-blaen
 onboarding-genai-sidebar-secondary-button = Kregiñ gant ar merdeiñ
 
 ## New user onboarding checklist
 
+onboarding-checklist-extension = Ouzhpennañ un askouezh
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-dismiss = Mat eo
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-cta = Krouiñ ur profil
+multi-profile-callout-cta = Krouiñ ur profil
 
 ## Desktop to Mobile Adoption feature callout strings
 
+dismiss-button-label = Argas

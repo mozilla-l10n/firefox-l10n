@@ -260,6 +260,12 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
+menu-profiles =
+    .label = Profiloù
+menu-profiles-manage-profiles =
+    .label = Merañ ar profiloù
+menu-profiles-new-profile =
+    .label = Profil nevez
 
 ## Tools Menu
 
