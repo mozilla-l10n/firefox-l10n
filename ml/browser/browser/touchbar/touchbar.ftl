@@ -20,6 +20,7 @@ open-sidebar = അണിവക്കങ്ങൾ
 
 ## Various categories of shortcuts for search.
 
+search-bookmarks = അടയാളക്കുറിപ്പുകള്‍
 search-history = നാള്‍വഴി
 
 ##

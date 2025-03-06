@@ -114,6 +114,7 @@ migration-bookmarks-from-file-picker-title = അടയാളക്കുറി�
 migration-bookmarks-from-file-progress-header = അടയാളക്കുറിപ്പുകളെ ഇറക്കുമതിക്കുന്നു
 migration-bookmarks-from-file = അടയാളക്കുറിപ്പുകള്‍
 migration-bookmarks-from-file-success-header = അടയാളക്കുറിപ്പുകളെ വിജയകരമായി ഇറക്കുമതി ചെയ്തു
+migration-bookmarks-from-file-no-valid-data = ഈ ഫയലിൽ അടയാളക്കുറിപ്പു് ദത്തയൊന്നും ഉൾപ്പെടുന്നില്ല. വേറെയൊരു ഫയൽ തിരഞ്ഞെടുക്കുക
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =

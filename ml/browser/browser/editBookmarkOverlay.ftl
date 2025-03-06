@@ -42,3 +42,5 @@ bookmark-overlay-tags-expander-hide =
 bookmark-overlay-keyword-2 =
     .value = മുഖ്യപദം
     .accesskey = മ
+bookmark-overlay-tags-caption-label = വിലാസപ്പട്ടയിലുള്ള അടയാളക്കുറിപ്പുകൾക്കായി തിരയാനും അവയെ അടുക്കിവയ്ക്കാനും ടാഗുകൾ ഉപയോഗിക്കുക
+bookmark-overlay-keyword-caption-label-2 = അടയാളക്കുറിപ്പുകളെ നേരിട്ടു് വിലാസപ്പട്ടയിൽ നിന്നു് തുറക്കാനായി ഒരു മുഖ്യപദം ഉപയോഗിക്കുക
