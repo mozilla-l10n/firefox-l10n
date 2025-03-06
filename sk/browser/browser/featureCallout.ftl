@@ -92,6 +92,12 @@ sidebar-pins-callout-cta-button = Pripnúť kartu
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Bočný panel: miesto pre vaše nástroje a karty
+sidebar-customization-callout-1-subtitle = Bočný panel { -brand-product-name(case: "gen") } vám poskytuje rýchly prístup k vašej histórii prehliadania, kartám z iných zariadení a AI chatbota – to všetko bez opustenia hlavného okna.
+sidebar-customization-callout-callout-button = Prispôsobiť bočný panel
+sidebar-customization-callout-dismiss-button = Skryť bočný panel
+sidebar-customization-callout-2-title = Prispôsobte si bočný panel { -brand-product-name(case: "gen") }
+sidebar-customization-callout-2-subtitle = Pridajte alebo odstráňte nástroje. Umiestnite karty na bočný panel. Vyskúšajte AI chatbota. Je len na vás, ako si prispôsobíte bočný panel.
 
 ## Sidebar Callout Survey Strings
 
