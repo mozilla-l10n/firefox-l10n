@@ -80,9 +80,11 @@ sidebar-button-callout-vertical-tabs = Ehechauka hag̃ua ne rendayke, eiporavo v
 vertical-tabs-callout-1-title = ¿Chemokañy hetaiterei tendayke?
 vertical-tabs-callout-1-cta-button = Eiporu tendayke oñembo’ýva
 vertical-tabs-callout-2-cta-button = Eiporu ko’ág̃a
+vertical-tabs-callout-2-title = ¿Ereko heta tendayke ijurujáva? Eiporu tendayke oñembo’ýva.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = ¿Okañy tendayke ojeporuvéva rapykuere?
 sidebar-pins-callout-cta-button = Emboja tendayke
 
 ## Sidebar Onboarding Strings
@@ -90,6 +92,7 @@ sidebar-pins-callout-cta-button = Emboja tendayke
 sidebar-customization-callout-1-title = Tenda yke: tembiporu ha tendayke renda
 sidebar-customization-callout-callout-button = Embohéra ta’ãngarupa ykegua
 sidebar-customization-callout-dismiss-button = Eñomi tenda yke
+sidebar-customization-callout-2-title = Eñemomba’e tenda yke { -brand-product-name } mba’évare
 
 ## Sidebar Callout Survey Strings
 
