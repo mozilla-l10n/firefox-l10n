@@ -78,6 +78,8 @@ sidebar-button-callout-vertical-tabs = A lapok megjelenítéséhez válassza az 
 ## Sidebar Vertical Tabs Strings
 
 vertical-tabs-callout-1-title = Zavarja a túl sok lap?
+vertical-tabs-callout-1-subtitle = Próbálja ki az új függőleges lapelrendezést, hogy gyorsan átnézhesse a lapokat. A korai tesztelők arról számoltak be, hogy ez az elrendezés segít abban, hogy szervezettebbnek érezzék magukat. Váltson bármikor.
+vertical-tabs-callout-1-cta-button = Függőleges lapok kipróbálása
 
 ## Sidebar Vertical Tabs Pinning Strings
 
