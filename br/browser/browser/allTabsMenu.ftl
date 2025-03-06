@@ -15,3 +15,9 @@ all-tabs-menu-manage-user-context =
 all-tabs-menu-synced-tabs =
     .label = Ivinelloù an trevnadoù all
 all-tabs-menu-current-window-header = Prenestr a-vremañ
+# This opens the sub view listing _all_ open and saved tab groups.
+all-tabs-menu-tab-groups-show-all =
+    .label = Diskouez pep tra
+# This is header for the sub view listing _all_ open and saved tab groups.
+all-tabs-menu-tab-groups-sub-view =
+    .title = Strolladoù ivinelloù

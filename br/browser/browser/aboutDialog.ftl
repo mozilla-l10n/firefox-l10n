@@ -52,6 +52,7 @@ community-2 = Ergrafet eo { -brand-short-name } gant <label data-l10n-name="comm
 helpus = Skoazellañ a fell deoc’h? <label data-l10n-name="helpus-donateLink">Roit gwenneien</label> pe <label data-l10n-name="helpus-getInvolvedLink">gemerit perzh enni!</label>
 bottomLinks-license = Titouroù lañvaz
 bottom-links-terms = Termenoù implij
+bottom-links-privacy = Evezhiadennoù a-fet buhez prevez
 bottomLinks-rights = Gwirioù an arveriaded-dibenn
 bottomLinks-privacy = Reolennoù buhez prevez
 # Example of resulting string: 66.0.1 (64-bit)
