@@ -187,6 +187,12 @@ urlbar-result-menu-remove-from-history =
 urlbar-result-menu-tip-get-help =
     .label = Skoazell
     .accesskey = S
+urlbar-result-menu-learn-more-about-firefox-suggest =
+    .label = Gouzout muioc’h diwar-benn { -firefox-suggest-brand-name }
+    .accesskey = G
+urlbar-result-menu-manage-firefox-suggest =
+    .label = Merañ { -firefox-suggest-brand-name }
+    .accesskey = M
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -732,6 +738,9 @@ urlbar-searchmode-popup-search-settings = Arventennoù enklask
 urlbar-searchmode-button2 =
     .label = { $engine }, dibab ul lusker enklask
     .tooltiptext = { $engine }, dibab ul lusker enklask
+urlbar-searchmode-button-no-engine =
+    .label = Berradenn ebet diuzet, dibabit ur varradenn
+    .tooltiptext = Berradenn ebet diuzet, dibabit ur varradenn
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

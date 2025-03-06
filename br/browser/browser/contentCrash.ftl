@@ -34,3 +34,6 @@ pending-crash-reports-send =
     .label = Kas
 pending-crash-reports-always-send =
     .label = Kas bepred
+requested-crash-reports-dont-show-again =
+    .label = Na ziskouez din en-dro
+    .accesskey = N

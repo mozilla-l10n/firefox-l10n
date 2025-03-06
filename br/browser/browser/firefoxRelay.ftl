@@ -39,9 +39,18 @@ firefox-relay-opt-in-confirmation-postpone =
 
 ## The "basic-info" variation of the Relay offer popup
 
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
+    .label = Krouiñ ur gont
+    .accesskey = K
 
 ## The "with-domain" variation of the Relay offer popup
 
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
+    .label = Krouiñ ur gont
+    .accesskey = K
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
+    .label = War-lerc’h
+    .accesskey = W
