@@ -76,12 +76,19 @@ sidebar-button-callout-vertical-tabs = ເພື່ອສະແດງແຖບ�
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-2-cta-button = ລອງດຽວນີ້
+vertical-tabs-callout-2-title = ເປີດຫຼາຍແຖບບໍ? ລອງແຖບແນວຕັ້ງ.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = ສູນເສຍການຕິດຕາມແຖບທີ່ສໍາຄັນຂອງທ່ານບໍ?
+sidebar-pins-callout-subtitle = ລອງປັກໝຸດພວກມັນ, ເຊິ່ງເຮັດໃຫ້ພວກມັນຢູ່ເທິງສຸດຂອງລາຍການແຖບຂອງທ່ານ. ຄລິກຂວາໃສ່ແຖບທີ່ທ່ານຕ້ອງການປັກໝຸດ, ຈາກນັ້ນເລືອກແຖບ Pin.
+sidebar-pins-callout-cta-button = ປັກໝຸດແຖບ
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-callout-button = ປັບແຕ່ງແຖບດ້ານຂ້າງ
+sidebar-customization-callout-dismiss-button = ເຊື່ອງແຖບດ້ານຂ້າງ
 
 ## Sidebar Callout Survey Strings
 
