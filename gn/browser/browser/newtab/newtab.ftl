@@ -361,6 +361,7 @@ newtab-wallpaper-abstract-orange = Ñarã rehegua
 newtab-wallpaper-gradient-orange = Oguejýva narãgui pytãngýpe
 newtab-wallpaper-abstract-blue-purple = Hovy ha pytãũva rehegua
 newtab-wallpaper-abstract-white-curves = Morotĩ mba’ekarẽ hi’ãva ndive
+newtab-wallpaper-abstract-purple-green = Sa’ykuéra pytãũ ha hovyũ rehegua
 newtab-wallpaper-abstract-blue-purple-waves = Hovy ha pytãũva rehegua
 newtab-wallpaper-abstract-black-waves = Hũ ikarẽkarẽva
 
@@ -373,8 +374,11 @@ newtab-wallpaper-storm-sky = Ára vai
 newtab-wallpaper-sky-with-pink-clouds = Ára arai pytãngy ndive
 newtab-wallpaper-red-panda-yawns-in-a-tree = Pánda pytã hopehýi yvyráre
 newtab-wallpaper-white-mountains = Yvytysyry morotĩ
+newtab-wallpaper-hot-air-balloons = Globo aerostático sa’ykuéra arakuépe.
 newtab-wallpaper-starry-canyon = Pyhare mbyjaita hovývareve
+newtab-wallpaper-suspension-bridge = Jehasaha osãingóva ra’ãnga isa’y tanimbúva arakuépe
 newtab-wallpaper-sand-dunes = Yvyku’i morotĩ atýra
+newtab-wallpaper-palm-trees = Jata’i ra’ãnga aravo itajúva aja
 newtab-wallpaper-forest-trees = Yvyramáta ojaho’íva arai
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
@@ -398,6 +402,7 @@ feature-highlight-wallpaper =
 # Not to be confused with religious definition of the word.
 newtab-wallpaper-category-title-celestial = Araregua
 newtab-wallpaper-celestial-lunar-eclipse = Jasy ñemo’ã
+newtab-wallpaper-celestial-earth-night = Ta’ãnga pyharegua yvyguasu ikarapeveha guive
 newtab-wallpaper-celestial-starry-sky = Ára imbyjapáva
 newtab-wallpaper-celestial-eclipse-time-lapse = Aravo jasy ñemo’ã aja
 
