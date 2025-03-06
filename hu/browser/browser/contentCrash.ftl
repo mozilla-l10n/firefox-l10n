@@ -31,3 +31,13 @@ pending-crash-reports-send =
     .label = Küldés
 pending-crash-reports-always-send =
     .label = Küldés mindig
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+requested-crash-reports-message =
+    { $reportCount ->
+        [one] Beküldetlen hibajelentése van, amely megfelel a kivizsgálás alatt lévő összeomlásoknak. A jelentések elküldése segít nekünk a { -brand-product-name } fejlesztésében. Az értesítés bezárása figyelmen kívül fogja hagyni ezeket a jelentéseket.
+       *[other] { $reportCount } beküldetlen hibajelentése van, amelyek megfelelnek a kivizsgálás alatt lévő összeomlásoknak. A jelentések elküldése segít nekünk a { -brand-product-name } fejlesztésében. Az értesítés bezárása figyelmen kívül fogja hagyni ezeket a jelentéseket.
+    }
+requested-crash-reports-dont-show-again =
+    .label = Ne jelenjen meg újra
+    .accesskey = N

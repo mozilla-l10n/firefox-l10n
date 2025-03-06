@@ -61,7 +61,7 @@ contentanalysis-error-message-print = A nyomtatás megtagadva.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
-contentanalysis-timeout-block-error-message-content = A(z) { $agent } kapcsolathoz való kapcsolódás túllépte az időkorlátot. A(z) { $contentName } letiltva.
+contentanalysis-timeout-block-error-message-content = A(z) { $agent } kapcsolódása túllépte az időkorlátot. A(z) { $contentName } letiltva.
 contentanalysis-block-dialog-title-upload-file = Ezt a fájlt nem töltheti fel
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"

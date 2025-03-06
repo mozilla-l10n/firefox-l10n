@@ -77,6 +77,7 @@ sidebar-button-callout-vertical-tabs = A lapok megjelenítéséhez válassza az 
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = Zavarja a túl sok lap?
 
 ## Sidebar Vertical Tabs Pinning Strings
 
