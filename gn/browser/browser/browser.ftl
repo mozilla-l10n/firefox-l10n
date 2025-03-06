@@ -187,6 +187,15 @@ urlbar-result-menu-remove-from-history =
 urlbar-result-menu-tip-get-help =
     .label = Eipota pytyvõ
     .accesskey = h
+urlbar-result-menu-dismiss-suggestion =
+    .label = Ehejarei ko ñemoñe’ẽ
+    .accesskey = D
+urlbar-result-menu-learn-more-about-firefox-suggest =
+    .label = Eikuaave { -firefox-suggest-brand-name } rehegua
+    .accesskey = L
+urlbar-result-menu-manage-firefox-suggest =
+    .label = Eñangareko { -firefox-suggest-brand-name }
+    .accesskey = M
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.

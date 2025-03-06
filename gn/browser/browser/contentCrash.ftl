@@ -31,3 +31,6 @@ pending-crash-reports-send =
     .label = Mondo
 pending-crash-reports-always-send =
     .label = Ñemondo tapia
+requested-crash-reports-dont-show-again =
+    .label = Anive tohechauka
+    .accesskey = D
