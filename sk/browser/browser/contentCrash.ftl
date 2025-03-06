@@ -32,6 +32,15 @@ pending-crash-reports-send =
     .label = Odoslať
 pending-crash-reports-always-send =
     .label = Vždy odoslať
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+requested-crash-reports-message =
+    { $reportCount ->
+        [one] Máte { $reportCount } neodoslanú správu o zlyhaní, ktorá zodpovedá vyšetrovaným zlyhaniam. Odoslanie nám pomôže zlepšiť { -brand-product-name }. Zatvorením tohto upozornenia bude toto hlásenie ignorované.
+        [few] Máte { $reportCount } neodoslané správy o zlyhaní, ktoré zodpovedajú vyšetrovaným zlyhaniam. Odoslanie nám pomôže zlepšiť { -brand-product-name }. Zatvorením tohto upozornenia budú tieto hlásenia ignorované.
+        [many] Máte { $reportCount } neodoslaných správ o zlyhaní, ktoré zodpovedajú vyšetrovaným zlyhaniam. Odoslanie nám pomôže zlepšiť { -brand-product-name }. Zatvorením tohto upozornenia budú tieto hlásenia ignorované.
+       *[other] Máte { $reportCount } neodoslaných správ o zlyhaní, ktoré zodpovedajú vyšetrovaným zlyhaniam. Odoslanie nám pomôže zlepšiť { -brand-product-name }. Zatvorením tohto upozornenia budú tieto hlásenia ignorované.
+    }
 requested-crash-reports-dont-show-again =
     .label = Nabudúce nezobrazovať
     .accesskey = N
