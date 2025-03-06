@@ -15,3 +15,4 @@ places-bookmarks-restore-format-error = Rizh restr anskoret
 places-bookmarks-restore-parse-error = N'eo ket gouest da geweriañ restr ar gwared.
 places-bookmarks-import = Enporzhiañ restr ar sinedoù
 places-bookmarks-export = Ezporzhiañ restr ar sinedoù
+places-bookmarks-paste-error-title = URL(où) direizh kavet

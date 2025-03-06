@@ -133,6 +133,10 @@ preferences-data-migration-description = Enporzhiañ sinedoù, gerioù-tremen, a
 preferences-data-migration-button =
     .label = Enporzhiañ roadennoù
     .accesskey = E
+preferences-profiles-header = Profiloù
+preferences-manage-profiles-learn-more = Gouzout hiroc’h
+preferences-manage-profiles-button =
+    .label = Merañ ar profiloù
 tabs-group-header = Ivinelloù
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab evit mont d'an ivinell implijet da ziwezhañ
@@ -205,6 +209,12 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Dilemel an Endalc'her-mañ
 containers-remove-cancel-button = Chom hep dilemel an Endalc'her-mañ
+browser-layout-horizontal-tabs =
+    .label = Ivinelloù a-blaen
+browser-layout-vertical-tabs =
+    .label = Ivinelloù a-serzh
+browser-layout-show-sidebar =
+    .label = Diskouez ar varrenn gostez
 
 ## General Section - Language & Appearance
 
@@ -1010,6 +1020,11 @@ cookie-banner-learn-more = Gouzout hiroc’h
 
 addressbar-header = Barrenn chomlec'hioù
 addressbar-suggest = Pa ran gant ar varrenn chomlec'hioù, aliañ
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Barrenn chomlec’h — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Gouzout hiroc’h
 addressbar-locbar-history-option =
     .label = Roll istor merdeiñ
     .accesskey = R
