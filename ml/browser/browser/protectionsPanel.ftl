@@ -21,7 +21,7 @@ protections-popup-footer-protection-label-standard = നിലവാരം
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണത്തെ പറ്റി കൂടുതൽ വിവരങ്ങൾ
-protections-panel-etp-on-header = ഈ വെബിടത്തിന് മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണം സജ്ജമാക്കിയിട്ടുണ്ട്
+protections-panel-etp-on-header = ഈ വെബിടത്തിനു് മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണം തുടങ്ങിവച്ചിട്ടുണ്ടു്.
 protections-panel-etp-off-header = മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണം ഈ വെബിടത്തനു് അണച്ചു് വച്ചിരിക്കുന്നു
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = സൈറ്റ് പ്രവർത്തിക്കുന്നില്ലേ?
@@ -53,7 +53,6 @@ protections-panel-not-blocking-why-label = എന്തുകൊണ്ടു്?
 protections-panel-content-blocking-tracking-protection = പിന്തുടരുന്ന ഉള്ളടക്കം
 protections-panel-content-blocking-socialblock = സമൂഹ മാധ്യമ പിന്തുടർച്ചയന്ത്രങ്ങൾ
 protections-panel-content-blocking-cryptominers-label = ക്രിപ്‌റ്റോമൈനറുകൾ
-protections-panel-content-blocking-fingerprinters-label = ഫിംഗർപ്രിന്ററുകൾ
 
 ## In the protections panel, Content Blocking category items are in three sections:
 ##   "Blocked" for categories being blocked in the current page,
@@ -62,7 +61,6 @@ protections-panel-content-blocking-fingerprinters-label = ഫിംഗർപ്�
 ##   These strings are used in the header labels of each of these sections.
 
 protections-panel-blocking-label = തടഞ്ഞവ
-protections-panel-not-blocking-label = അനുവദിച്ചത്
 protections-panel-not-found-label = ഒന്നും കണ്ടെത്താൻ കഴിഞ്ഞില്ല
 
 ## Smartblock strings
