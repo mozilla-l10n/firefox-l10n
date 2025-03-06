@@ -567,6 +567,7 @@ pdfjs-editor-add-signature-clear-button =
     .title = Emboguete teraguapy
 pdfjs-editor-add-signature-save-checkbox = Eñongatu teraguapy
 pdfjs-editor-add-signature-image-upload-error-title = Ndaikatúi ojehupi pe ta’ãnga
+pdfjs-editor-add-signature-image-upload-error-description = Ehechajey ne ñanduti oikópa térã aha’ã ambue ta’ãnga ndive.
 pdfjs-editor-add-signature-error-close-button = Mboty
 
 ## Dialog buttons
