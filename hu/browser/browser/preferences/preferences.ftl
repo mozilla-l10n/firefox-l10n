@@ -1127,6 +1127,13 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Címsáv
 addressbar-suggest = A címsáv használatakor jelenjen meg
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Címsor – { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Válassza ki a címsávban megjelenő javaslatok típusát.
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = További tudnivalók
 addressbar-locbar-history-option =
     .label = Böngészési előzmények
     .accesskey = e
@@ -1159,7 +1166,18 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Felkapott keresési javaslatok megjelenítése
     .accesskey = F
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = Javaslatok a { -brand-short-name(case: "ablative") }
+addressbar-locbar-suggest-nonsponsored-desc = Kapjon a kereséséhez kapcsolódó javaslatokat a webről.
+addressbar-locbar-suggest-sponsored-option =
+    .label = Szponzorált javaslatok
+addressbar-locbar-suggest-sponsored-desc = A { -brand-short-name(case: "accusative") } támogatása az alkalmankénti szponzorált javaslatokkal
 addressbar-quickactions-learn-more = További tudnivalók
+addressbar-dismissed-suggestions-label = Elutasított javaslatok
+addressbar-restore-dismissed-suggestions-description = A szponzoroktól és a { -brand-short-name(case: "ablative") } származó elutasított javaslatok helyreállítása.
+addressbar-restore-dismissed-suggestions-button =
+    .label = Helyreállítás
 
 ## Privacy Section - Content Blocking
 

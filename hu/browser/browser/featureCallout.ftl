@@ -93,6 +93,11 @@ sidebar-pins-callout-cta-button = Lap rögzítése
 ## Sidebar Onboarding Strings
 
 sidebar-customization-callout-1-title = Oldalsáv: az eszközök és lapok helye
+sidebar-customization-callout-1-subtitle = A { -brand-product-name } oldalsáv gyors hozzáférést biztosít a böngészési előzményeihez, a más eszközökről származó lapokhoz, valamint egy MI csevegőbothoz – mindezt a fő nézet elhagyása nélkül.
+sidebar-customization-callout-callout-button = Oldalsáv testreszabása
+sidebar-customization-callout-dismiss-button = Oldalsáv elrejtése
+sidebar-customization-callout-2-title = Tegye sajátjává a { -brand-product-name } oldalsávot
+sidebar-customization-callout-2-subtitle = Eszközök hozzáadása és eltávolítása. Helyezze a lapjait az oldalsávba. Próbálja ki egy MI chatbotot. Önön múlik, hogy hogyan szabja testre az oldalsávot.
 
 ## Sidebar Callout Survey Strings
 
