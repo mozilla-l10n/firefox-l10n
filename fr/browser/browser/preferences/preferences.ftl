@@ -1172,7 +1172,12 @@ addressbar-locbar-suggest-nonsponsored-option =
 addressbar-locbar-suggest-nonsponsored-desc = Obtenir des suggestions du Web en rapport avec votre recherche.
 addressbar-locbar-suggest-sponsored-option =
     .label = Suggestions de sponsors
+addressbar-locbar-suggest-sponsored-desc = Soutenez { -brand-short-name } en affichant de temps en temps des suggestions sponsorisées.
 addressbar-quickactions-learn-more = En savoir plus
+addressbar-dismissed-suggestions-label = Suggestions rejetées
+addressbar-restore-dismissed-suggestions-description = Restaurer les suggestions rejetées des sponsors et de { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button =
+    .label = Restaurer
 
 ## Privacy Section - Content Blocking
 
