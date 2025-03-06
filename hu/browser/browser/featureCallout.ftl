@@ -82,12 +82,17 @@ vertical-tabs-callout-1-subtitle = Próbálja ki az új függőleges lapelrendez
 vertical-tabs-callout-1-cta-button = Függőleges lapok kipróbálása
 vertical-tabs-callout-2-cta-button = Kipróbálás most
 vertical-tabs-callout-2-title = Sok lapot tart nyitva? Próbálja ki a függőleges lapokat.
+vertical-tabs-callout-2-subtitle = Ez az elrendezés megkönnyíti a lapok listájának gyors áttekintését. Sőt, beállíthatja a szélességet, hogy többé vagy kevésbé lássa a lapcímeket.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = Nem tudja követni a fontos lapjait?
+sidebar-pins-callout-subtitle = Próbálja meg őket rögzíteni, így a laplista tetején maradnak. Kattintson jobb gombbal a rögzítendő lapra, majd válassza a Lap rögzítése menüpontot.
+sidebar-pins-callout-cta-button = Lap rögzítése
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Oldalsáv: az eszközök és lapok helye
 
 ## Sidebar Callout Survey Strings
 
