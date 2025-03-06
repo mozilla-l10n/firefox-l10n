@@ -316,6 +316,7 @@ newtab-wallpaper-title = Mba’erechaha rugua
 newtab-wallpaper-reset = Emoñerũjey ypyguáramo
 newtab-wallpaper-upload-image = Ehupi peteĩ ta’ãnga
 newtab-wallpaper-custom-color = Eiporavo peteĩ sa’y
+newtab-wallpaper-error-file-type = Ndaikatúi rohupi marandurenda. Eha’ã jey marandurenda ambuéva reheve.
 newtab-wallpaper-light-red-panda = Panda pytã
 newtab-wallpaper-light-mountain = Yvyty morotĩ
 newtab-wallpaper-light-sky = Ára taijarai pytãũ ha pytãngy
