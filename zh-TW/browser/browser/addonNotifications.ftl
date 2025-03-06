@@ -96,10 +96,10 @@ addon-install-accept-button =
 ##   $addonCount (Number): the number of add-ons being installed
 
 addon-confirm-install-message = 此網站想安裝 { $addonCount } 套附加元件到 { -brand-short-name }:
-addon-confirm-install-unsigned-message = 警告: 此網站想要安裝 { $addonCount } 套未驗證的附加元件到 { -brand-short-name }，請小心。
+addon-confirm-install-unsigned-message = 警告：此網站想要安裝 { $addonCount } 套未驗證的附加元件到 { -brand-short-name }，請小心。
 # Variables:
 #   $addonCount (Number): the number of add-ons being installed (at least 2)
-addon-confirm-install-some-unsigned-message = 警告: 此網站想要安裝 { $addonCount } 套附加元件到 { -brand-short-name }，當中有些還沒有經過驗證，請小心。
+addon-confirm-install-some-unsigned-message = 警告：此網站想要安裝 { $addonCount } 套附加元件到 { -brand-short-name }，當中有些還沒有經過驗證，請小心。
 
 ## Add-on install errors
 ## Variables:
