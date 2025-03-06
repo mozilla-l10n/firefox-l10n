@@ -130,3 +130,5 @@ about-reader-text-alignment-center =
     .title = Zarovnanie textu na stred
 about-reader-text-alignment-right =
     .title = Zarovnanie textu doprava
+about-reader-text-alignment-justify =
+    .title = Zarovnať text
