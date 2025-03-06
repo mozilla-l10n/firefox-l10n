@@ -1125,6 +1125,11 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Kundaharape renda
 addressbar-suggest = Eiporúramo kundaharape renda, eñemoñe’ẽ
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Kundaharape rupa — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Eikuaave
 addressbar-locbar-history-option =
     .label = Kundaha rembiasakue
     .accesskey = h

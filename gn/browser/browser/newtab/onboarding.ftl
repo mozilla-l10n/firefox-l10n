@@ -440,6 +440,7 @@ tab-groups-onboarding-feature-callout-title = Eiporu tendayke aty eime porãve h
 tab-groups-onboarding-feature-callout-subtitle = Eñeorganisa emoĩvo peteĩ tendayke ambuéva ári emoheñói hag̃ua aty peteĩha.
 tab-groups-onboarding-create-group-title-2 = Ag̃aite ejuhukuaátama ne rendayke aty ko’ápe.
 tab-groups-onboarding-saved-groups-title-2 = Emboty vove tendayke aty, embojurujakuaa jey ko’ápe ejapose vove.
+tab-groups-onboarding-session-restore-title = Embojuruja jey ne rendayke aty ápe ejapose vove.
 tab-groups-onboarding-saved-groups-title = Embotýramo tendayke aty, embojurujakuaa jey ko’ápe ejapose vove.
 tab-groups-onboarding-dismiss = MONEĨ
 
