@@ -53,6 +53,7 @@ protections-panel-not-blocking-why-label = എന്തുകൊണ്ടു്?
 protections-panel-content-blocking-tracking-protection = പിന്തുടരുന്ന ഉള്ളടക്കം
 protections-panel-content-blocking-socialblock = സമൂഹ മാധ്യമ പിന്തുടർച്ചയന്ത്രങ്ങൾ
 protections-panel-content-blocking-cryptominers-label = ക്രിപ്‌റ്റോമൈനറുകൾ
+protections-panel-content-blocking-fingerprinters-label = വിരലടയാളപ്പിന്തുടൎച്ചയന്ത്രം
 
 ## In the protections panel, Content Blocking category items are in three sections:
 ##   "Blocked" for categories being blocked in the current page,
@@ -61,6 +62,7 @@ protections-panel-content-blocking-cryptominers-label = ക്രിപ്‌റ
 ##   These strings are used in the header labels of each of these sections.
 
 protections-panel-blocking-label = തടഞ്ഞവ
+protections-panel-not-blocking-label = അനുവദിച്ചതു്
 protections-panel-not-found-label = ഒന്നും കണ്ടെത്താൻ കഴിഞ്ഞില്ല
 
 ## Smartblock strings
