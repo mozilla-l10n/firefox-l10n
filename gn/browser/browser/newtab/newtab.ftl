@@ -405,6 +405,7 @@ newtab-wallpaper-celestial-lunar-eclipse = Jasy ñemo’ã
 newtab-wallpaper-celestial-earth-night = Ta’ãnga pyharegua yvyguasu ikarapeveha guive
 newtab-wallpaper-celestial-starry-sky = Ára imbyjapáva
 newtab-wallpaper-celestial-eclipse-time-lapse = Aravo jasy ñemo’ã aja
+newtab-wallpaper-celestial-river = Ysyryguasu ra’ãnga satélite guive
 
 ## New Tab Weather
 
