@@ -77,9 +77,17 @@ sidebar-button-callout-vertical-tabs = Pour afficher vos onglets, cliquez sur le
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = Vous êtes submergé·e par un trop grand nombre d’onglets ?
+vertical-tabs-callout-1-cta-button = Essayer les onglets verticaux
+vertical-tabs-callout-2-cta-button = Essayer
+vertical-tabs-callout-2-title = Vous gardez beaucoup d’onglets ouverts ? Essayez les onglets verticaux.
+vertical-tabs-callout-2-subtitle = Cette disposition facilite le contrôle rapide de votre liste d’onglets. De plus, vous pouvez ajuster la largeur pour afficher plus ou moins les titres.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = Vous perdez la trace de vos onglets importants ?
+sidebar-pins-callout-subtitle = Essayez de les épingler pour les conserver en haut de la liste des onglets. Effectuez un clic droit sur un onglet que vous souhaitez épingler, puis choisissez Épingler cet onglet.
+sidebar-pins-callout-cta-button = Épingler cet onglet
 
 ## Sidebar Onboarding Strings
 
