@@ -82,12 +82,20 @@ vertical-tabs-callout-1-subtitle = ลองใช้เค้าโครงแ
 vertical-tabs-callout-1-cta-button = ลองใช้แท็บแนวตั้ง
 vertical-tabs-callout-2-cta-button = ลองเลยตอนนี้
 vertical-tabs-callout-2-title = มีแท็บเปิดไว้เยอะใช่ไหม? ลองใช้แท็บแนวตั้งดูสิ
+vertical-tabs-callout-2-subtitle = เค้าโครงนี้ทำให้การดูรายการแท็บของคุณทำได้อย่างรวดเร็วและง่ายดาย นอกจากนี้ คุณยังสามารถปรับความกว้างเพื่อดูชื่อแท็บแบบยาวขึ้นหรือสั้นลงได้
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = พลาดข้อมูลข่าวสารจากแท็บสำคัญของคุณไปใช่ไหม?
+sidebar-pins-callout-subtitle = ลองปักหมุดแท็บเหล่านั้น ซึ่งจะเก็บแท็บเหล่านั้นไว้ด้านบนสุดของรายการแท็บของคุณ คลิกขวาที่แท็บซึ่งคุณต้องการปักหมุด แล้วเลือก "ปักหมุดแท็บ"
+sidebar-pins-callout-cta-button = ปักหมุดแท็บ
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = แถบข้าง: พื้นที่สำหรับเครื่องมือและแท็บของคุณ
+sidebar-customization-callout-1-subtitle = แถบข้างของ { -brand-product-name } ให้คุณเข้าถึงประวัติการเรียกดู แท็บจากอุปกรณ์อื่น และบอตสนทนา AI ของคุณได้อย่างรวดเร็ว โดยไม่ต้องออกจากมุมมองหลักของคุณ
+sidebar-customization-callout-callout-button = ปรับแต่งแถบข้าง
+sidebar-customization-callout-dismiss-button = ซ่อนแถบข้าง
 
 ## Sidebar Callout Survey Strings
 
