@@ -77,12 +77,16 @@ sidebar-button-callout-vertical-tabs = Για να εμφανιστούν οι �
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-2-cta-button = Δοκιμή τώρα
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-cta-button = Καρφίτσωμα καρτέλας
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-callout-button = Προσαρμογή πλαϊνής γραμμής
+sidebar-customization-callout-dismiss-button = Απόκρυψη πλαϊνής γραμμής
 
 ## Sidebar Callout Survey Strings
 

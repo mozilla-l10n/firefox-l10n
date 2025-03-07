@@ -1127,6 +1127,11 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Γραμμή διευθύνσεων
 addressbar-suggest = Κατά τη χρήση της γραμμής διευθύνσεων, να γίνονται προτάσεις από
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Γραμμή διευθύνσεων — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Μάθετε περισσότερα
 addressbar-locbar-history-option =
     .label = Ιστορικό περιήγησης
     .accesskey = Ι
@@ -1159,6 +1164,8 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Εμφάνιση δημοφιλών προτάσεων αναζήτησης
     .accesskey = φ
+addressbar-locbar-suggest-sponsored-option =
+    .label = Προτάσεις από χορηγούς
 addressbar-quickactions-learn-more = Μάθετε περισσότερα
 
 ## Privacy Section - Content Blocking

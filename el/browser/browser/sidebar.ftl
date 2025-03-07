@@ -77,6 +77,10 @@ sidebar-context-menu-bookmark-tab =
     .label = Προσθήκη σελιδοδείκτη…
 sidebar-context-menu-copy-link =
     .label = Αντιγραφή συνδέσμου
+sidebar-context-menu-hide-sidebar =
+    .label = Απόκρυψη πλαϊνής γραμμής
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Ενεργοποίηση κάθετων καρτελών
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =

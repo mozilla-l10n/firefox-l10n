@@ -31,3 +31,6 @@ pending-crash-reports-send =
     .label = Αποστολή
 pending-crash-reports-always-send =
     .label = Πάντα αποστολή
+requested-crash-reports-dont-show-again =
+    .label = Να μην εμφανιστεί ξανά
+    .accesskey = Ν
