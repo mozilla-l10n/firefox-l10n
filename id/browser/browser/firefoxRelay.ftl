@@ -60,12 +60,15 @@ firefox-relay-and-fxa-popup-notification-second-sentence-control = Pertama, daft
 
 ## The "basic-info" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-basic-info = Cegah spam dengan topeng surel gratis
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = Daftar
     .accesskey = D
 
 ## The "with-domain" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain = Dapatkan topeng surel gratis
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Lindungi kotak masuk Anda dari spam dengan menggunakan<label data-l10n-name="firefox-relay-learn-more-url">topeng surel</label> gratis untuk menyembunyikan alamat asli Anda. Surel dari <label data-l10n-name="firefox-fxa-and-relay-offer-domain">situs ini</label> akan tetap masuk ke kotak masuk Anda, tetapi surel Anda disembunyikan.
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Daftar
     .accesskey = D
