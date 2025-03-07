@@ -22,3 +22,6 @@ all-tabs-menu-current-window-header = Bieżące okno
 # This opens the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-show-all =
     .label = Wyświetl wszystkie
+# This is header for the sub view listing _all_ open and saved tab groups.
+all-tabs-menu-tab-groups-sub-view =
+    .title = Grupy kart

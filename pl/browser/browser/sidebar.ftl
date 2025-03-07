@@ -73,6 +73,12 @@ sidebar-context-menu-bookmark-tab =
     .label = Dodaj zakładkę do karty…
 sidebar-context-menu-copy-link =
     .label = Kopiuj odnośnik
+sidebar-context-menu-hide-sidebar =
+    .label = Ukryj panel boczny
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Włącz pionowe karty
+sidebar-context-menu-customize-sidebar =
+    .label = Dostosuj panel boczny
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
