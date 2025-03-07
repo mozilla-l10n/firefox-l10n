@@ -21,7 +21,7 @@ origin-title = წარმომქმნელი: { $originTitle }
 ##  $name: the name of scope, active cache, waiting cache and the push end point.
 ##  $url: the url of script specification and current worker.
 
-scope = <strong>არეალი:</strong> { $name }
+scope = <strong>სივრცე:</strong> { $name }
 script-spec = <strong>სკრიპტის მახასიათებლები:</strong> <a data-l10n-name="link">{ $url }</a>
 current-worker-url = <strong>მიმდინარე Worker-ის URL:</strong> <a data-l10n-name="link">{ $url }</a>
 active-cache-name = <strong>მოქმედი მარაგის დასახელება:</strong> { $name }
