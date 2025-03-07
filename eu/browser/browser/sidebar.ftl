@@ -63,6 +63,12 @@ sidebar-context-menu-bookmark-tab =
     .label = Egin fitxaren laster-marka…
 sidebar-context-menu-copy-link =
     .label = Kopiatu lotura
+sidebar-context-menu-hide-sidebar =
+    .label = Ezkutatu alboko barra
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Aktibatu fitxa bertikalak
+sidebar-context-menu-customize-sidebar =
+    .label = Pertsonalizatu alboko barra
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =

@@ -306,6 +306,8 @@ newtab-custom-settings = Kudeatu ezarpen gehiago
 
 newtab-wallpaper-title = Horma-paperak
 newtab-wallpaper-reset = Berrezarri lehenespenera
+newtab-wallpaper-upload-image = Igo irudia
+newtab-wallpaper-custom-color = Aukeratu kolorea
 newtab-wallpaper-light-red-panda = Panda gorria
 newtab-wallpaper-light-mountain = Mendi zuria
 newtab-wallpaper-light-sky = Hodei more eta arrosadun zerua

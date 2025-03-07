@@ -29,6 +29,10 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Ireki berriro itxitako fitxak
         }
     .accesskey = k
+toolbar-context-turn-on-vertical-tabs =
+    .label = Aktibatu fitxa bertikalak
+toolbar-context-turn-off-vertical-tabs =
+    .label = Desaktibatu fitxa bertikalak
 toolbar-context-menu-manage-extension =
     .label = Kudeatu hedapena
     .accesskey = h

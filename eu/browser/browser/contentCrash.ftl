@@ -31,3 +31,6 @@ pending-crash-reports-send =
     .label = Bidali
 pending-crash-reports-always-send =
     .label = Bidali beti
+requested-crash-reports-dont-show-again =
+    .label = Ez erakutsi berriro
+    .accesskey = z
