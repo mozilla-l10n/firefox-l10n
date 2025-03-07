@@ -63,6 +63,8 @@ sidebar-context-menu-bookmark-tab =
     .label = Markahi Tab…
 sidebar-context-menu-copy-link =
     .label = Salin Tautan
+sidebar-context-menu-customize-sidebar =
+    .label = Ubahsuai Bilah Sisi
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =

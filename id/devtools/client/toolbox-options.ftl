@@ -56,6 +56,8 @@ options-default-color-unit-name = Nama Warna
 
 # The heading
 options-webconsole-label = Konsol Web
+# The label for the checkbox that toggle whether the Split console is enabled
+options-webconsole-split-console-label = Aktifkan Konsol Pemisah
 
 ## Style Editor section
 
