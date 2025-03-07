@@ -29,6 +29,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Buka Kembali Tab Tertutup
         }
     .accesskey = u
+toolbar-context-turn-on-vertical-tabs =
+    .label = Aktifkan Tab Vertikal
+toolbar-context-turn-off-vertical-tabs =
+    .label = Matikan Tab Vertikal
+toolbar-context-customize-sidebar =
+    .label = Ubahsuai Bilah Samping
 toolbar-context-menu-manage-extension =
     .label = Kelola Ekstensi
     .accesskey = E

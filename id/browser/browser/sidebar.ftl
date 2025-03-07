@@ -87,6 +87,8 @@ sidebar-menu-customize-label =
     .label = Sesuaikan bilah sisi
 sidebar-menu-review-checker-label =
     .label = Pemeriksa Ulasan
+sidebar-menu-contextual-password-manager-label =
+    .label = Sandi
 
 ## Tooltips for sidebar menu items.
 
@@ -127,6 +129,8 @@ sidebar-menu-syncedtabs-header =
     .heading = Tab dari perangkat lain
 sidebar-menu-bookmarks-header =
     .heading = Markah
+sidebar-menu-cpm-header =
+    .heading = Kata Sandi
 sidebar-panel-header-close-button =
     .tooltiptext = Tutup
 

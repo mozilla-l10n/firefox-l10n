@@ -24,6 +24,8 @@ firefox-relay-opt-in-title-1 = Lindungi alamat email Anda:
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Gunakan topeng surel { -relay-brand-name }
 firefox-relay-use-mask-title = Gunakan topeng surel { -relay-brand-name }
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
+firefox-relay-opt-in-title-a = Cegah spam dengan topeng surel gratis
 # This is preceded by firefox-relay-opt-in-title-a (on a different line)
 firefox-relay-opt-in-subtitle-a = Sembunyikan alamat surel asli Anda
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
