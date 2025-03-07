@@ -145,7 +145,7 @@ sidebar-menu-close-ai-chatbot-provider-tooltip = Zavrieť { $provider } ({ $shor
 ## Headings for sidebar menu panels.
 
 sidebar-menu-customize-header =
-    .heading = Prispôsobiť bočný panel
+    .heading = Prispôsobenie bočného panela
 sidebar-menu-history-header =
     .heading = História
 sidebar-menu-syncedtabs-header =
