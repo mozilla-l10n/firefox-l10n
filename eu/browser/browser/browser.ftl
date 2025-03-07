@@ -187,6 +187,15 @@ urlbar-result-menu-remove-from-history =
 urlbar-result-menu-tip-get-help =
     .label = Lortu laguntza
     .accesskey = L
+urlbar-result-menu-dismiss-suggestion =
+    .label = Baztertu gomendio hau
+    .accesskey = B
+urlbar-result-menu-learn-more-about-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }(r)i buruzko argibide gehiago
+    .accesskey = a
+urlbar-result-menu-manage-firefox-suggest =
+    .label = Kudeatu { -firefox-suggest-brand-name }
+    .accesskey = K
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -373,6 +382,10 @@ quickactions-cmd-viewsource = ikusi iturburua, iturburua
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Ekintza bizkorrei buruzko argibide gehiago
+# Will be shown to users the first configurable number of times
+# they experience actions giving them instructions on how to
+# select the action shown by pressing the tab key.
+press-tab-label = Sakatu tabuladorea ondorengoa hautatzeko:
 
 ## Bookmark Panel
 

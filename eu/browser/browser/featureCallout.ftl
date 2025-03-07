@@ -76,12 +76,17 @@ sidebar-button-callout-subtitle = Erabili alboko barraren botoia alboko barra za
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-cta-button = Probatu fitxa bertikalak
+vertical-tabs-callout-2-cta-button = Probatu orain
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-cta-button = Ainguratu fitxa
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-callout-button = Pertsonalizatu alboko barra
+sidebar-customization-callout-dismiss-button = Ezkutatu alboko barra
 
 ## Sidebar Callout Survey Strings
 
@@ -108,3 +113,9 @@ sidebar-callout-survey-saved-websites-2 = Zure laster-marketarako sarbide bizkor
 sidebar-callout-survey-none-of-above = Goiko bat bera ere ez
 sidebar-callout-survey-submit = Bidali
 sidebar-callout-survey-thank-you = Eskerrik asko zure iritziagatik!
+unified-search-callout-primary-label = Hurrengoa
+unified-search-callout-secondary-label = Baztertu
+unified-search-engines-callout-title = Bilatu lasterbiderik gabe
+unified-search-engines-callout-subtitle = Idatzi "@" gako-hitz batez jarraituta zure historia, laster-markak, fitxak edo beste bilaketa-motor batean bilatzeko.
+unified-search-engines-callout-primary-label = Ulertuta
+actions-callout-title = Burutu ohiko atazak edo izan oinarrizko ezarpenetarako sarbidea
