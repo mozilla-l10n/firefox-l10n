@@ -92,6 +92,9 @@ sidebar-pins-callout-cta-button = Fixar aba
 ## Sidebar Onboarding Strings
 
 sidebar-customization-callout-1-title = Painel lateral: sua área de ferramentas e abas
+sidebar-customization-callout-1-subtitle = O painel lateral do { -brand-product-name } oferece acesso rápido ao histórico de navegação, abas de outros dispositivos e um robô de conversa de inteligência artificial, tudo sem sair da visão principal.
+sidebar-customization-callout-callout-button = Personalizar painel lateral
+sidebar-customization-callout-dismiss-button = Ocultar painel lateral
 
 ## Sidebar Callout Survey Strings
 

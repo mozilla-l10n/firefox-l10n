@@ -129,3 +129,5 @@ about-reader-text-alignment-center =
     .title = Centralizar texto
 about-reader-text-alignment-right =
     .title = Alinhar texto à direita
+about-reader-text-alignment-justify =
+    .title = Justificar texto
