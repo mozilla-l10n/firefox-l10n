@@ -76,6 +76,7 @@ sidebar-button-callout-vertical-tabs = ເພື່ອສະແດງແຖບ�
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-cta-button = ລອງແຖບແນວຕັ້ງ
 vertical-tabs-callout-2-cta-button = ລອງດຽວນີ້
 vertical-tabs-callout-2-title = ເປີດຫຼາຍແຖບບໍ? ລອງແຖບແນວຕັ້ງ.
 

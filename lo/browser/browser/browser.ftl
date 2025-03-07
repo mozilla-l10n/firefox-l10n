@@ -635,6 +635,8 @@ picture-in-picture-urlbar-button-open =
 picture-in-picture-urlbar-button-close =
     .tooltiptext = ປິດຮູບໃນຮູບ ({ $shortcut })
 picture-in-picture-panel-header = ຮູບພາບໃນຮູບ
+picture-in-picture-panel-headline = ເວັບໄຊທ໌ນີ້ບໍ່ແນະນໍາຮູບພາບໃນຮູບພາບ
+picture-in-picture-panel-body = ວິ​ດີ​ໂອ​ອາດ​ຈະ​ບໍ່​ສະ​ແດງ​ໃຫ້​ເຫັນ​ຕາມ​ທີ່​ຜູ້​ພັດ​ທະ​ນາ​ຕັ້ງ​ໃຈ​ໃນ​ຂະ​ນະ​ທີ່​ຮູບ​ພາບ​ໃນ​ຮູບ​ພາບ​ໄດ້​ຖືກ​ເປີດ​ໃຊ້​ງານ​.
 picture-in-picture-enable-toggle =
     .label = ຢືນຢັນການເປີດໃຊ້ງານ
 
