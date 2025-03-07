@@ -39,6 +39,9 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Jangan sekarang
     .accesskey = J
+firefox-relay-and-fxa-opt-in-confirmation-enable-button =
+    .label = Masuk ke { -brand-product-name } dan gunakan topeng
+    .accesskey = t
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
     .label = Daftar
     .accesskey = D
@@ -51,6 +54,7 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 
 ## The "control" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-second-sentence-control = Pertama, daftar atau masuk ke akun Anda untuk menggunakan topeng surel
 
 ## The "basic-info" variation of the Relay offer popup
 
