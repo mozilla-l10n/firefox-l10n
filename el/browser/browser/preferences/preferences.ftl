@@ -1374,9 +1374,9 @@ addon-recommendations-link = Μάθετε περισσότερα
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Η αναφορά δεδομένων είναι ανενεργή για αυτήν τη ρύθμιση δομής
-collection-backlogged-crash-reports-with-link = Να επιτρέπεται στο { -brand-short-name } η αποστολή αναφορών καταρρεύσεων με καθυστέρηση <a data-l10n-name="crash-reports-link">Μάθετε περισσότερα</a>
+collection-backlogged-crash-reports-with-link = Να επιτρέπεται στο { -brand-short-name } η αποστολή εκκρεμών αναφορών κατάρρευσης <a data-l10n-name="crash-reports-link">Μάθετε περισσότερα</a>
     .accesskey = κ
-collection-backlogged-crash-reports = Να επιτρέπεται στο { -brand-short-name } η αποστολή αναφορών καταρρεύσεων με καθυστέρηση
+collection-backlogged-crash-reports = Να επιτρέπεται στο { -brand-short-name } η αποστολή εκκρεμών αναφορών κατάρρευσης
     .accesskey = κ
 privacy-segmentation-section-header = Νέες λειτουργίες που βελτιώνουν την περιήγησή σας
 privacy-segmentation-section-description = Όταν προσφέρουμε λειτουργίες που χρησιμοποιούν τα δεδομένα σας για μια πιο εξατομικευμένη εμπειρία:
