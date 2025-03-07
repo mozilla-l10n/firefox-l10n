@@ -81,6 +81,8 @@ sidebar-context-menu-hide-sidebar =
     .label = Απόκρυψη πλαϊνής γραμμής
 sidebar-context-menu-enable-vertical-tabs =
     .label = Ενεργοποίηση κάθετων καρτελών
+sidebar-context-menu-customize-sidebar =
+    .label = Προσαρμογή πλαϊνής γραμμής
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =

@@ -85,6 +85,7 @@ sidebar-pins-callout-cta-button = Καρφίτσωμα καρτέλας
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Πλαϊνή γραμμή: ένα σημείο για όλα τα εργαλεία και τις καρτέλες σας
 sidebar-customization-callout-callout-button = Προσαρμογή πλαϊνής γραμμής
 sidebar-customization-callout-dismiss-button = Απόκρυψη πλαϊνής γραμμής
 

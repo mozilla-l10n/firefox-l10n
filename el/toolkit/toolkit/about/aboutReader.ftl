@@ -129,3 +129,5 @@ about-reader-text-alignment-center =
     .title = Στοίχιση κειμένου στο κέντρο
 about-reader-text-alignment-right =
     .title = Στοίχιση κειμένου δεξιά
+about-reader-text-alignment-justify =
+    .title = Πλήρης στοίχιση κειμένου

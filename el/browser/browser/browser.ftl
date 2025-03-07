@@ -191,8 +191,11 @@ urlbar-result-menu-dismiss-suggestion =
     .label = Απόρριψη πρότασης
     .accesskey = Α
 urlbar-result-menu-learn-more-about-firefox-suggest =
-    .label = Μάθετε περισσότερα για τις { -firefox-suggest-brand-name }
+    .label = Μάθετε περισσότερα για τις { -firefox-suggest-brand-name(case: "nom") }
     .accesskey = Μ
+urlbar-result-menu-manage-firefox-suggest =
+    .label = Διαχείριση { -firefox-suggest-brand-name(case: "gen") }
+    .accesskey = Δ
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -753,7 +756,7 @@ urlbar-result-action-open-saved-tabgroup = Άνοιγμα «{ $group }»
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
 # urlbar results.
 urlbar-group-firefox-suggest =
-    .label = { -firefox-suggest-brand-name }
+    .label = { -firefox-suggest-brand-name(case: "nom") }
 # A label shown above the search suggestions group in the urlbar results. It
 # should use sentence case.
 # Variables
