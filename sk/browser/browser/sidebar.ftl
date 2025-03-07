@@ -62,7 +62,7 @@ expand-sidebar-on-hover =
     .label = Po umiestnení kurzora myši rozbaliť bočný panel
 expand-on-hover-message =
     .heading = Rozbalenie pri prejdení myšou už čoskoro
-    .message = V budúcich verziách budete môcť po prejdením kurzorom myši rozbaliť bočný panel.
+    .message = V budúcich verziách budete môcť rozbaliť bočný panel prejdením kurzorom myši.
 
 ## Labels for sidebar context menu items
 
