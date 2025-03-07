@@ -77,6 +77,8 @@ sidebar-button-callout-vertical-tabs = Untuk menampilkan tab Anda, pilih tombol 
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = Kewalahan dengan terlalu banyak tab?
+vertical-tabs-callout-1-subtitle = Coba tata letak tab vertikal baru kami untuk memindai daftar tab Anda dengan cepat. Penguji awal melaporkan tata letak ini membantu mereka merasa lebih teratur. Beralih kapan saja.
 vertical-tabs-callout-1-cta-button = Coba tab vertikal
 vertical-tabs-callout-2-cta-button = Coba sekarang
 vertical-tabs-callout-2-title = Tetap membuka banyak tab? Coba tab vertikal.

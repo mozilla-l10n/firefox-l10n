@@ -30,3 +30,6 @@ pending-crash-reports-always-send =
 # Variables:
 #   $reportCount (Number): the number of pending crash reports
 requested-crash-reports-message = Anda memiliki { $reportCount } laporan kerusakan yang belum terkirim dan sesuai dengan kerusakan yang sedang diselidiki. Mengirimkannya akan membantu kami meningkatkan { -brand-product-name }. Jika Anda menutup pemberitahuan ini, laporan tersebut akan diabaikan.
+requested-crash-reports-dont-show-again =
+    .label = Jangan tampilkan lagi
+    .accesskey = J
