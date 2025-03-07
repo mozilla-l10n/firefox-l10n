@@ -77,11 +77,16 @@ sidebar-button-callout-vertical-tabs = 选择工具栏中的侧栏图标，即�
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = 标签页太多，看得心里乱？
+vertical-tabs-callout-1-subtitle = 试试全新垂直标签页布局，一目纵览标签页列。尝鲜用户认为此布局更具条理。以后可随时切换。
 vertical-tabs-callout-1-cta-button = 试试垂直标签页
 vertical-tabs-callout-2-cta-button = 立即试用
+vertical-tabs-callout-2-title = 标签页开得多？试试垂直标签页。
+vertical-tabs-callout-2-subtitle = 此布局可让您轻松纵览标签页列。您还可以调整宽度，以增减标签页标题的显示长度。
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-subtitle = 试试把它们固定起来，保持显示在标签页列顶部。只需右键点击需要固定的标签页，然后选择“固定标签页”即可。
 sidebar-pins-callout-cta-button = 固定标签页
 
 ## Sidebar Onboarding Strings
