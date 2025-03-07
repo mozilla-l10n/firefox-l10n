@@ -129,3 +129,5 @@ about-reader-text-alignment-center =
     .title = Moñe’ẽrã ñealinea mbytépe
 about-reader-text-alignment-right =
     .title = Moñe’ẽrã ñealinea akatúa gotyo
+about-reader-text-alignment-justify =
+    .title = Ejustifica moñe’ẽrã

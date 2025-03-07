@@ -102,6 +102,7 @@ item-site-prefs =
 item-formdata-prefs =
     .label = Marandu ñongatupyre myanyhẽha rehegua
     .accesskey = o
+item-formdata-description = Embogue marandu ikatúva téra, ñandutiveve ha ambue mba’eporurã oĩva myanyhẽhápe
 item-site-prefs-description = Erujey umi ñemoneĩ ha jerohoryvéva tenda rehegua ñemboheko ypyguápe
 data-section-label = Mba’ekuaarã
 item-site-settings =

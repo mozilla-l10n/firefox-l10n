@@ -1163,6 +1163,8 @@ addressbar-locbar-showtrendingsuggestions-option =
     .label = Ehechauka jehekarã ojeporuvévape
     .accesskey = t
 addressbar-quickactions-learn-more = Kuaave
+addressbar-restore-dismissed-suggestions-button =
+    .label = Mbojevy
 
 ## Privacy Section - Content Blocking
 
