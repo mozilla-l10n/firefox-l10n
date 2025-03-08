@@ -172,7 +172,7 @@ media-device-format = ფორმატი
 media-device-channels = არხები
 media-device-rate = სიხშირე
 media-device-latency = დაყოვნება
-media-capabilities-title = მასალის შესაძლებლობები
+media-capabilities-title = მასალის დამუშავების შესაძლებლობები
 media-codec-support-info = მშიფრავის მხარდაჭერის შესახებ
 # List all the entries of the database.
 media-capabilities-enumerate = მონაცემთა ბაზის გამოთვლა
@@ -193,13 +193,13 @@ media-codec-support-lack-of-extension = გაფართოების ჩა
 
 media-content-decryption-modules-title = შიგთავსის გაშიფვრის მოდულების შესახებ
 media-key-system-name = გასაღების სისტემის სახელი
-media-video-robustness = ვიდეოსფაილის ხელშეუხებლობა
+media-video-robustness = ვიდეოფაილის ხელშეუხებლობა
 media-audio-robustness = ხმოვანი ფაილის ხელშეუხებლობა
 media-cdm-capabilities = შესაძლებლობები
 # Clear Lead isn't defined in the spec, which means the the first few seconds
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
-media-cdm-clear-lead = დაუშიფრავად დაწყება
+media-cdm-clear-lead = დაუშიფრავად წამოწყება
 # We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
 # HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
 media-hdcp-22-compatible = HDCP 2.2 თავსებადობა
@@ -318,8 +318,8 @@ webgl2-renderer = WebGL2 დრაივერი გამოსახვის
 webgl2-version = WebGL 2 დრაივერის ვერსია
 webgl2-driver-extensions = WebGL 2 დრაივერის გაფართოებები
 webgl2-extensions = WebGL 2 გაფართოებები
-webgpu-default-adapter = WebGPU-ის ნაგულისხმევი მოწყობილობა
-webgpu-fallback-adapter = WebGPU-ის სათადარიგო მოწყობილობა
+webgpu-default-adapter = WebGPU – ნაგულისხმევი მოწყობილობა
+webgpu-fallback-adapter = WebGPU – სათადარიგო მოწყობილობა
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = შეზღუდულთა სიაშია, შემდეგი მიზეზის გამო: <a data-l10n-name="bug-link">ხარვეზი { $bugNumber }</a>
