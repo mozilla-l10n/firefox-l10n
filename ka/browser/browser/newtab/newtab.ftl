@@ -212,7 +212,7 @@ newtab-section-header-recent-activity = ბოლო მოქმედებე
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } გირჩევთ
-newtab-section-header-stories = ღრმად ჩამაფიქრებელი ამბები
+newtab-section-header-stories = ფიქრების აღმძვრელი ამბები
 # "picks" refers to recommended articles
 newtab-section-header-todays-picks = დღეს შერჩეული თქვენთვის
 
