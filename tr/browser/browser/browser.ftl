@@ -187,6 +187,12 @@ urlbar-result-menu-remove-from-history =
 urlbar-result-menu-tip-get-help =
     .label = Yardım al
     .accesskey = Y
+urlbar-result-menu-dismiss-suggestion =
+    .label = Bu öneriyi kapat
+    .accesskey = B
+urlbar-result-menu-learn-more-about-firefox-suggest =
+    .label = { -firefox-suggest-brand-name } hakkında bilgi al
+    .accesskey = h
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.

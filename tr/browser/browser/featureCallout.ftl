@@ -77,6 +77,8 @@ sidebar-button-callout-vertical-tabs = Sekmelerinizi göstermek için araç çub
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = Çok fazla sekmeden bunaldınız mı?
+vertical-tabs-callout-2-title = Çok fazla açık sekmeniz mi var? Dikey sekmeleri deneyin.
 
 ## Sidebar Vertical Tabs Pinning Strings
 

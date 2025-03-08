@@ -31,3 +31,6 @@ pending-crash-reports-send =
     .label = Gönder
 pending-crash-reports-always-send =
     .label = Her zaman gönder
+requested-crash-reports-dont-show-again =
+    .label = Bir daha gösterme
+    .accesskey = B
