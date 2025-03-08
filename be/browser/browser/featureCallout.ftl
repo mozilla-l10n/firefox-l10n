@@ -77,12 +77,19 @@ sidebar-button-callout-vertical-tabs = Каб паказаць карткі, а�
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = Завалены вялікай колькасцю картак?
+vertical-tabs-callout-1-cta-button = Паспрабуйце вертыкальныя карткі
+vertical-tabs-callout-2-cta-button = Паспрабаваць зараз
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-cta-button = Замацаваць картку
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Бакавая панэль: месца для прылад і картак
+sidebar-customization-callout-callout-button = Уладкаванне бакавой панэлі
+sidebar-customization-callout-dismiss-button = Схаваць бакавую панэль
 
 ## Sidebar Callout Survey Strings
 

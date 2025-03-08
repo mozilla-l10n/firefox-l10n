@@ -77,6 +77,12 @@ sidebar-context-menu-bookmark-tab =
     .label = Зрабіць закладку на картку…
 sidebar-context-menu-copy-link =
     .label = Капіяваць спасылку
+sidebar-context-menu-hide-sidebar =
+    .label = Схаваць бакавую панэль
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Уключыць вертыкальныя карткі
+sidebar-context-menu-customize-sidebar =
+    .label = Уладкаваць бакавую панэль
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =

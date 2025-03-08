@@ -187,6 +187,9 @@ urlbar-result-menu-remove-from-history =
 urlbar-result-menu-tip-get-help =
     .label = Атрымаць дапамогу
     .accesskey = р
+urlbar-result-menu-dismiss-suggestion =
+    .label = Адхіліць гэтую прапанову
+    .accesskey = в
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
