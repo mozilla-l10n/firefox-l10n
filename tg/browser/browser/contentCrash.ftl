@@ -31,3 +31,6 @@ pending-crash-reports-send =
     .label = Фиристодан
 pending-crash-reports-always-send =
     .label = Ҳамеша фиристода шавад
+requested-crash-reports-dont-show-again =
+    .label = Дигар нишон дода нашавад
+    .accesskey = Д

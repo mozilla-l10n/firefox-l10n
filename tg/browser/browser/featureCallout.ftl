@@ -77,12 +77,17 @@ sidebar-button-callout-vertical-tabs = Барои нишон додани вар
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-cta-button = Варақаҳои амудиро кӯшиш кунед
+vertical-tabs-callout-2-cta-button = Ҳозир кӯшиш кунед
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-cta-button = Васл кардани варақа
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-callout-button = Фармоишдиҳии навори ҷонибӣ
+sidebar-customization-callout-dismiss-button = Пинҳон кардани навори ҷонибӣ
 
 ## Sidebar Callout Survey Strings
 
