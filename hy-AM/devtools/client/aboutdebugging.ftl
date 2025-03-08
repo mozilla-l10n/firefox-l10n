@@ -36,7 +36,7 @@ about-debugging-sidebar-usb-disabled = USB-ն անջատված է
 # Connection status (connected) for runtime items in the sidebar
 aboutdebugging-sidebar-runtime-connection-status-connected = Կապակցված
 # Connection status (disconnected) for runtime items in the sidebar
-aboutdebugging-sidebar-runtime-connection-status-disconnected = Կապախզված
+aboutdebugging-sidebar-runtime-connection-status-disconnected = Անջատված
 # Text displayed in the about:debugging sidebar when no device was found.
 about-debugging-sidebar-no-devices = Սարքեր չեն հայտնաբերվել
 # Text displayed in buttons found in sidebar items representing remote runtimes.

@@ -59,6 +59,7 @@ pane-experimental-search-results-header = { -brand-short-name }-ի փորձեր.
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description3 = Փորձեք մեր փորձարարական գործառույթները: Դրանք մշավումյ և զարգանում են, ինչը կարող է ազդել { -brand-short-name }-ի աշխատանքի վրա:
 pane-experimental-reset =
     .label = Վերականգնել սկզբնադիրը
     .accesskey = R
@@ -726,6 +727,9 @@ sync-currently-syncing-creditcards = Բանկային քարտեր
 sync-currently-syncing-payment-methods = Վճարամիջոցներ
 sync-currently-syncing-addons = Հավելումներ
 sync-currently-syncing-settings = Կարգավորումներ
+sync-manage-options =
+    .label = Կառավարել համաժամացումը…
+    .accesskey = M
 sync-change-options =
     .label = Փոխել…
     .accesskey = C
@@ -777,6 +781,13 @@ sync-engine-settings =
     .label = Կարգավորումներ
     .tooltiptext = Գլխավոր, գաղտնիության և անվտանգութփյան կարգավորումները, որ փոխել եք
     .accesskey = s
+sync-choose-what-to-sync-dialog4 =
+    .title = Կառավարեք այն, ինչը համաժամանել ձեր բոլոր միացված սարքերում
+    .style = min-width: 36em;
+    .buttonlabelaccept = Պահել
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Անջատում…
+    .buttonaccesskeyextra2 = D
 
 ## The device name controls.
 
@@ -1183,6 +1194,10 @@ collection-description = Մենք փորձում ենք տրամադրել ձե�
 collection-privacy-notice = Գաղտնիության ծանուցում
 collection-health-report-telemetry-disabled = Դուք այլևս թույլ չեք տալիս՝{ -vendor-short-name }֊ին գրավել տեխնիկական և միջազգային միջնորդության տվյալները։ Անցյալ բոլոր տվյալները կջնջվեն 30 օրվա ընթացքում։
 collection-health-report-telemetry-disabled-link = Իմանալ ավելին
+collection-usage-ping =
+    .label = Ուղարկեք ամենօրյա օգտագործման պինգ { -vendor-short-name }-ին
+    .accesskey = u
+collection-usage-ping-description = Սա օգնում է { -vendor-short-name }-ին գնահատել ակտիվ օգտվողներին:
 collection-health-report2 =
     .label = Ուղարկել տեխնիկական և փոխազդեցության տվյալները { -vendor-short-name }-ին
     .accesskey = r
@@ -1193,12 +1208,17 @@ collection-health-report-link = Իմանալ ավելին
 collection-health-report-description = Սա օգնում է մեզ բարելավել { -brand-product-name }-ի յուրահատկությունները, կատարողականությունը և կայունությունը:
 collection-studies2 =
     .label = Տեղադրել և գործարկել ուսումնասիրությունները
+collection-studies-description = Փորձեք առանձնահատկությունները և գաղափարները, նախքան դրանք բոլորին հասանելի լինեն:
 collection-studies =
     .label = Թույլատրել { -brand-short-name }-ին տեղադրել և կատարել հետազոտություններ
 collection-studies-link = Դիտել { -brand-short-name }-ի հետազոտությունները
 addon-recommendations2 =
     .label = Թույլատրել անհատականացված ընդլայնման առաջարկությունները
 addon-recommendations-description = Ստացեք ընդլայնման առաջարկներ՝ դիտարկումների փորձը բարելավելու համար:
+collection-backlogged-crash-reports2 =
+    .label = Ինքնաբար ուղարկել խափանումների մասին զեկույցը
+    .accesskey = c
+collection-backlogged-crash-reports-description = Սա օգնում է { -vendor-short-name }-ին ախտորոշել և շտկել դիտարկիչի հետ կապված խնդիրները: Զեկույցները կարող են ներառել անձնական կամ զգայուն տվյալներ:
 addon-recommendations =
     .label = Թույլատրել { -brand-short-name } ֊ին կատարել անհատականացված ընդլայնման առաջարկություններ
 addon-recommendations-link = Իմանալ ավելին
@@ -1214,6 +1234,11 @@ privacy-segmentation-radio-on =
 
 ## Privacy Section - Website Advertising Preferences
 
+website-advertising-header = Կայքի գովազդի նախապատվություններ
+website-advertising-private-attribution =
+    .label = Թույլատրել կայքերին կատարել գաղտնիության պահպանման գովազդի չափումներ
+    .accesskey = a
+website-advertising-private-attribution-description = Սա օգնում է կայքերին հասկանալ, թե ինչպես են իրենց գովազդները գործում՝ առանց ձեր մասին տվյալներ հավաքելու:
 
 ## Privacy Section - Security
 ##

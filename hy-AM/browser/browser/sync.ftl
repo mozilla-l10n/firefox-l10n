@@ -5,7 +5,7 @@
 fxa-toolbar-sync-syncing2 = Համաժամեցում…
 sync-disconnect-dialog-title2 = Անջատե՞լ
 sync-disconnect-dialog-body = { -brand-product-name } կդադարի համաժամեցնել ձեր հաշիվը, բայց չի ջնջի այս սարքի ձեր զննարկման ցանկացած տվյալ։
-sync-disconnect-dialog-button = Կապախզել
+sync-disconnect-dialog-button = Անջատել
 fxa-signout-dialog-title2 = Դուր՞ս գալ Ձեր հաշվից
 fxa-signout-dialog-body = Համաժամեցված տվյալները կմնան Ձեր հաշվում։
 fxa-signout-dialog2-button = Դուրս գալ

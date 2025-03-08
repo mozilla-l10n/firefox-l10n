@@ -7,3 +7,5 @@
 
 # New user onboarding checklist
 preonboarding-checklist-interaction-data-label = Ուղարկել տեխնիկական և փոխազդեցության տվյալները { -vendor-short-name }-ին
+preonboarding-checklist-crash-reports-label = Ինքնաբար ուղարկել խափանումների մասին զեկույցը
+preonboarding-checklist-crash-reports-description = Խափանումների զեկույցները մեզ թույլ են տալիս ախտորոշել և շտկել դիտարկիչի հետ կապված խնդիրները: Զեկույցները կարող են ներառել անձնական կամ զգայուն տվյալներ:
