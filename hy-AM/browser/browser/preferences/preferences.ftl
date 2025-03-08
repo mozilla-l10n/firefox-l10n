@@ -195,6 +195,7 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Հեռացնել այս Պարունակը
 containers-remove-cancel-button = Չհեռացնել այս Պարունակը
+browser-layout-header = Դիտարկիչի դասավորությունը
 
 ## General Section - Language & Appearance
 
