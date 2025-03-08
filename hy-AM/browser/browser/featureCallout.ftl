@@ -69,8 +69,9 @@ split-dismiss-button-manage-settings-option =
 
 ## Sidebar Strings
 
-sidebar-button-callout-title = Ցուցադրել ներդիրների վերնագրերը կողային գոտում
+sidebar-button-callout-title = Ցուցադրել ներդիրների վերնագրերը կողագոտիում
 sidebar-button-callout-subtitle = Օգտագործեք կողագոտի կոճակը՝ կողագոտին ընդլայնելու համար, որպեսզի կարողանաք տեսնել ներդիրների վերնագրերը:
+sidebar-button-callout-vertical-tabs = Ձեր ներդիրները ցուցադրելու համար ընտրեք կողագոտու կոճակը գործիքագոտիում:
 
 ## Sidebar Vertical Tabs Strings
 

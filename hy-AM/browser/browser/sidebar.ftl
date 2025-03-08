@@ -39,8 +39,13 @@
 ## Context for closing synced tabs when hovering over the items
 
 show-sidebars =
-    .tooltiptext = Ցուցադրել կողային վահանակները
-    .label = Կողային վահանակներ
+    .tooltiptext = Ցուցադրել կողագոտիները
+    .label = Կողագոտիներ
 
 ## Tooltips for the sidebar toolbar widget.
 
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-show-sidebar2 =
+    .tooltiptext = Ցուցադրել ({ $shortcut }) կողագոտին
+    .label = Կողագոտիներ

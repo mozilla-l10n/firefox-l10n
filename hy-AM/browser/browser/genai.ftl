@@ -59,6 +59,8 @@ genai-options-about-chatbot =
 
 ## Chatbot onboarding
 
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = Ընտրեք ԱԲ չաթ-բոտ՝ օգտագործելու համար { -brand-short-name } կողագոտիում: Մենք կցուցադրենք մանրամասներ յուրաքանչյուր չաթ-բոտի մասին, երբ ընտրեք այն: Անցեք ցանկացած ժամանակ: <a data-l10n-name="learn-more">Իմանալ ավելին</a>
 genai-onboarding-primary = Շարունակել
 genai-onboarding-secondary = Փակել
 genai-onboarding-claude-learn = Իմացեք ավելին Claude-ի մասին

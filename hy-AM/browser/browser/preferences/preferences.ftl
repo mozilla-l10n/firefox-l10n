@@ -196,6 +196,9 @@ containers-remove-alert-msg =
 containers-remove-ok-button = Հեռացնել այս Պարունակը
 containers-remove-cancel-button = Չհեռացնել այս Պարունակը
 browser-layout-header = Դիտարկիչի դասավորությունը
+browser-layout-show-sidebar =
+    .label = Ցուցադրել կողագոտի
+browser-layout-show-sidebar-desc = Արագորեն մատչեք Ձեր էջանիշերը, ներդիրները հեռապխոսից, ԱԲ չաթ-բոթերը և ավելին՝ առանց լքելու հիմնական տեսքը:
 
 ## General Section - Language & Appearance
 
@@ -881,6 +884,7 @@ forms-windows-sso =
     .label = Թույլատրել Windows եզակի գրանցում Microsoft-ում, աշխատանքային և դպրոցական հաշիվներում:
 forms-windows-sso-learn-more-link = Իմանալ ավելին
 forms-windows-sso-desc = Կառավարել հաշիվը ձեր սարքի կարգավորումներում
+windows-passkey-settings-label = Կառավարել անցանիշերը համակարգի կարգավորումներում
 
 ## OS Authentication dialog
 
@@ -906,6 +910,9 @@ autofill-payment-methods-checkbox-submessage = Ներառում է կրեդիտ 
     .accesskey = Ն
 autofill-saved-payment-methods-button = Պահված վճարամիջոցներ
     .accesskey = v
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = Պահանջել մուտք գործել սարք՝ լրացնելու և կառավարելու համար վճարամիջոցները
+    .accesskey = o
 
 ## Privacy Section - History
 
@@ -1170,17 +1177,28 @@ permissions-addon-exceptions =
 collection-header = { -brand-short-name }-ի տվյալների հավաքում և օգտագործում
 collection-header2 = { -brand-short-name }-ի տվյալների հավաքում և օգտագործում
     .searchkeywords = հեռաչափություն
+preferences-collection-description = Մենք փորձում ենք տրամադրել ձեզ ընտրություն և հավաքել նվազագույն տվյալներ, որոնք անհրաժեշտ են լավարկել { -brand-product-name }-ը բոլորի համար:
+preferences-collection-privacy-notice = Դիտեք Գաղտնիության ծանուցումը
 collection-description = Մենք փորձում ենք տրամադրել ձեզ ընտրություն և հավաքել միայն այն ժամանակ, երբ մեզ պետք է տրամադրել և լավարկել { -brand-short-name }-ը բոլորի համար: ՄԵնք միշտ հարցնում ենք թույլտվությյուն՝ մինչև անձնական տեղեկություններ ստանալը:
 collection-privacy-notice = Գաղտնիության ծանուցում
 collection-health-report-telemetry-disabled = Դուք այլևս թույլ չեք տալիս՝{ -vendor-short-name }֊ին գրավել տեխնիկական և միջազգային միջնորդության տվյալները։ Անցյալ բոլոր տվյալները կջնջվեն 30 օրվա ընթացքում։
 collection-health-report-telemetry-disabled-link = Իմանալ ավելին
+collection-health-report2 =
+    .label = Ուղարկել տեխնիկական և փոխազդեցության տվյալները { -vendor-short-name }-ին
+    .accesskey = r
 collection-health-report =
     .label = Թույլատրել { -brand-short-name }-ին ուղարկել տեխնիկական և փոխազդելու տվյալներ { -vendor-short-name }-ին
     .accesskey = r
 collection-health-report-link = Իմանալ ավելին
+collection-health-report-description = Սա օգնում է մեզ բարելավել { -brand-product-name }-ի յուրահատկությունները, կատարողականությունը և կայունությունը:
+collection-studies2 =
+    .label = Տեղադրել և գործարկել ուսումնասիրությունները
 collection-studies =
     .label = Թույլատրել { -brand-short-name }-ին տեղադրել և կատարել հետազոտություններ
 collection-studies-link = Դիտել { -brand-short-name }-ի հետազոտությունները
+addon-recommendations2 =
+    .label = Թույլատրել անհատականացված ընդլայնման առաջարկությունները
+addon-recommendations-description = Ստացեք ընդլայնման առաջարկներ՝ դիտարկումների փորձը բարելավելու համար:
 addon-recommendations =
     .label = Թույլատրել { -brand-short-name } ֊ին կատարել անհատականացված ընդլայնման առաջարկություններ
 addon-recommendations-link = Իմանալ ավելին
