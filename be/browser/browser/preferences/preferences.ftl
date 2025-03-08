@@ -1131,6 +1131,13 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Адрасны радок
 addressbar-suggest = Пры выкарыстанні адраснага радка, прапаноўваць
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Адрасны радок — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Выберыце тып прапаноў, якія з'явяцца ў адрасным радку.
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Даведацца больш
 addressbar-locbar-history-option =
     .label = Гісторыю аглядання
     .accesskey = Г
@@ -1163,7 +1170,18 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Паказваць папулярныя пошукавыя прапановы
     .accesskey = п
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = Прапановы ад { -brand-short-name }
+addressbar-locbar-suggest-nonsponsored-desc = Атрымлівайце прапановы з інтэрнэту, звязаныя з вашым пошукам.
+addressbar-locbar-suggest-sponsored-option =
+    .label = Прапановы ад спонсараў
+addressbar-locbar-suggest-sponsored-desc = Падтрымлівайце { -brand-short-name } выпадковымі спонсарскімі прапановамі.
 addressbar-quickactions-learn-more = Падрабязней
+addressbar-dismissed-suggestions-label = Адхіленыя прапановы
+addressbar-restore-dismissed-suggestions-description = Аднавіць адхіленыя прапановы ад спонсараў і { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button =
+    .label = Аднавіць
 
 ## Privacy Section - Content Blocking
 
