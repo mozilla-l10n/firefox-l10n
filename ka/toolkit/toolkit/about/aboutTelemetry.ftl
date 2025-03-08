@@ -17,9 +17,9 @@ about-telemetry-next-ping = >>
 about-telemetry-page-title = გაზომვების მონაცემები
 about-telemetry-current-store = მიმდინარე ოდენობა:
 about-telemetry-more-information = მეტ ინფორმაციას ეძებთ?
-about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox-ის მონაცემთა მასალები</a> შეიცავს მითითებებს, მონაცემთა ხელსაწყოებთან მუშაობის შესახებ.
-about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox-გაზომვების კლიენტის მასალები</a> შეიცავს განმარტებებს, კონცეფციას, API-დოკუმენტაციასა და მითითებებს, მონაცემების შესახებ.
-about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">გაზომვების გვერდი</a>, Mozilla-ს მიერ აღრიცხული მონაცემების ვიზუალურად წარმოდგენის საშუალებას იძლევა.
+about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox-ის მონაცემთა მასალები</a> მოიცავს მითითებებს, თუ როგორ შეიძლება მუშაობა მონაცემთა ხელსაწყოებთან.
+about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox-გაზომვების კლიენტის მასალები</a> შეიცავს განმარტებებს, კონცეფციას, API-დოკუმენტაციასა და მითითებებს მონაცემების შესახებ.
+about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">გაზომვების გვერდი</a> Mozilla-ს მიერ აღრიცხული მონაცემების ვიზუალურად წარმოდგენის საშუალებას იძლევა.
 about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">კვლევის ლექსიკონში</a> მოცემულია დაწვრილებითი ინფორმაცია და აღწერილობა გაზომვებით ჩატარებული კვლევების.
 about-telemetry-show-in-Firefox-json-viewer = JSON მნახველში გახსნა
 about-telemetry-home-section = მთავარი
@@ -75,13 +75,6 @@ about-telemetry-settings-explanation = გაზომვებით აღი�
 #   $timestamp (string) - Ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = მონაცემების ცალკეული ნაწილები იკვრება და იგზავნება „<a data-l10n-name="ping-link">პინგებად</a>“. თქვენ ნახულობთ { $name }, { $timestamp } პინგს.
 about-telemetry-data-details-current = მონაცემების ცალკეული ნაწილები იკვრება და იგზავნება „<a data-l10n-name="ping-link">პინგებად</a>“. თქვენ ნახულობთ მიმდინარე მონაცემებს.
-# string used as a placeholder for the search field
-# More info about it can be found here:
-# https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
-# Variables:
-#   $selectedTitle (string) - The section name from the structure of the ping.
-about-telemetry-filter-placeholder =
-    .placeholder = { $selectedTitle }-ით ძებნა
 about-telemetry-filter-all-placeholder =
     .placeholder = ყველა განყოფილებაში ძიება
 # Variables:
