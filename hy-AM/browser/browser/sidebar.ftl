@@ -22,6 +22,13 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = Կառավարել { -brand-short-name }-ի կարգավորումները
 sidebar-hide-tabs-and-sidebar =
     .label = Թաքցնել ներդիրները և կողագոտին
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Ընդարձակել կողագոտին վրան պահելիս
+expand-on-hover-message =
+    .heading = «Ընդարձակել վրան պահելիս»-ը շուտով հասանելի կլինի
+    .message = Հետագա թարմացումից հետո կկարողանաք ընդարձակել կողագոտին վրան պահելիս:
 
 ## Labels for sidebar context menu items
 
@@ -102,6 +109,11 @@ show-sidebars =
 
 ## Tooltips for the sidebar toolbar widget.
 
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-expand-sidebar2 =
+    .tooltiptext = Ընդարձակել կողագոտին ({ $shortcut })
+    .label = Կողագոտիներ
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
