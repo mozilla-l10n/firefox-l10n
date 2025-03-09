@@ -5,6 +5,8 @@
 
 ## Generative AI (GenAI) Settings section
 
+genai-settings-chat-chatgpt-links = Ընտրելով ChatGPT-ին, դուք համաձայնվում եք OpenAI-ի<a data-l10n-name="link1">Օգտագործման պայմաններին</a> և <a data-l10n-name="link2">Գաղտնիության դրույթներին</a>:
+genai-settings-chat-claude-links = Ընտրելով Anthropic Claude-ը, դուք համաձայնվում եք Anthropic-ի <a data-l10n-name="link1">Ծառայության օգտագործման պայմաններին</a>, <a data-l10n-name="link2">Օգտագործման քաղաքականությանը</a> և <a data-l10n-name="link3">Գաղտնիության քաղաքականությանը</a>:
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -61,8 +63,9 @@ genai-options-about-chatbot =
 
 ## Chatbot onboarding
 
+genai-onboarding-header = Ամփոփեք, մտագրոհ և ավելին դիտարկման ընթացքում
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = Ընտրեք ԱԲ չաթ-բոտ՝ օգտագործելու համար { -brand-short-name } կողագոտիում: Մենք կցուցադրենք մանրամասներ յուրաքանչյուր չաթ-բոտի մասին, երբ ընտրեք այն: Անցեք ցանկացած ժամանակ: <a data-l10n-name="learn-more">Իմանալ ավելին</a>
+genai-onboarding-description = Ընտրեք ԱԲ չաթբոտ՝ օգտագործելու համար { -brand-short-name } կողագոտիում: Մենք կցուցադրենք մանրամասներ յուրաքանչյուր չաթբոտի մասին, երբ ընտրեք այն: Փոխանջատեք ցանկացած ժամանակ: <a data-l10n-name="learn-more">Իմանալ ավելին</a>
 genai-onboarding-primary = Շարունակել
 genai-onboarding-secondary = Փակել
 genai-onboarding-claude-learn = Իմացեք ավելին Claude-ի մասին
@@ -87,7 +90,13 @@ genai-onboarding-select-primary = Սկսել զրուցել
 
 genai-onboarding-claude-generate = Ստեղծեք գրվածք և կոդ
 genai-onboarding-claude-analyze = Վերլուծել փաստաթղթերը և պատկերները
+genai-onboarding-claude-price = Անվճար և վճարովի տարբերակներ. անհրաժեշտ է հաշիվ
+genai-onboarding-chatgpt-generate = Ստեղծեք տեքստ, պատկերներ և կոդ
+genai-onboarding-chatgpt-analyze = Վերլուծել փաստաթղթերը և պատկերները
+genai-onboarding-chatgpt-price = Անվճար և վճարովի տարբերակներ. որոշ երկրների և առաջադրանքների համար անհրաժեշտ հաշիվ
+genai-onboarding-copilot-generate = Ստեղծեք տեքստ, պատկերներ և կոդ
 genai-onboarding-copilot-analyze = Վերլուծել պատկերները
+genai-onboarding-copilot-price = Անվճար և վճարովի տարբերակներ. անհրաժեշտ է հաշիվ
 genai-onboarding-gemini-generate = Ստեղծեք տեքստ, պատկերներ և կոդ
 genai-onboarding-gemini-analyze = Վերլուծել պատկերները (անվճար) և փաստաթղթերը (վճարովի)
 genai-onboarding-gemini-price = Անվճար և վճարովի տարբերակներ; անհրաժեշտ է հաշիվ
