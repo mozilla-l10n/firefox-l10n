@@ -13,6 +13,8 @@
 policy-3rdparty = Chrome.storage.managed വഴി WebExtensions ആക്സസ് ചെയ്യാൻ കഴിയുന്ന നയങ്ങൾ സജ്ജീകരിക്കുക.
 policy-AppUpdateURL = ഇഷ്ടാനുസൃത പ്രയോഗ പുതുക്കൽ URL സജ്ജമാക്കുക.
 policy-Authentication = പിന്തുണയ്ക്കുന്ന വെബ്സൈറ്റുകളിൽ സംയോജിത പ്രാമാണീകരണം സജ്ജമാക്കുക.
+policy-AutofillAddressEnabled = വിലാസങ്ങൾക്കായി തനപൂരിപ്പിക്കൽ പ്രവൎത്തനക്ഷമമാക്കുക
+policy-AutofillCreditCardEnabled = പണമടക്കൽമുറകൾക്കായി തനപൂരിപ്പിക്കൽ പ്രവൎത്തനക്ഷമമാക്കുക
 policy-BlockAboutAddons = ആഡ്-ഓൺ മാനേജര്‍ കൈകാര്യം ചെയ്യുന്നത് തടയുക (about:addons).
 policy-BlockAboutConfig = about:config താളിലേക്കുള്ല പ്രവേശനം തടയുക.
 policy-BlockAboutProfiles = about:profiles താളിലേക്കുള്ല പ്രവേശനം തടയുക.
@@ -61,4 +63,7 @@ policy-Proxy = പ്രോക്സി ക്രമീകരണങ്ങൾ ക
 policy-SanitizeOnShutdown2 = ഷട്ട്  ഡൌൺ ചെയ്യുമ്പോള്‍ നാവിഗേഷൻ ഡാറ്റ മായ്‌ക്കുക.
 policy-SearchSuggestEnabled = തിരയൽ നിർദ്ദേശങ്ങൾ പ്രാപ്തമാക്കുക അല്ലെങ്കിൽ അപ്രാപ്തമാക്കുക.
 policy-SSLVersionMax = പരമാവധി SSL പതിപ്പ് സജ്ജമാക്കുക.
+policy-SupportMenu = പിന്തുണക്കുറിപ്പടിയിലോട്ടു് ഒരു ഇഷ്ടാനുസൃത പിന്തുണക്കുറിപ്പടി ഇനം ചേൎക്കുക
+policy-TranslateEnabled = വെബുതാൾ വിവൎത്തനത്തിനെ പ്രവൎത്തനക്ഷമമാക്കുക അല്ലെങ്കിൽ പ്രവൎത്തനരഹിതമാക്കുക
+policy-UserMessaging = ചില സന്ദേശങ്ങൾ ഉപയോക്താവിനു് കാണിക്കരുതു്.
 policy-UseSystemPrintDialog = വ്യവസ്ഥാപ്പെട്ടികൊണ്ടു് അച്ചടിക്കുക…
