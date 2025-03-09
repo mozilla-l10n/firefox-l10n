@@ -404,6 +404,7 @@ newtab-wallpaper-category-title-celestial = Göksel
 newtab-wallpaper-celestial-lunar-eclipse = Ay tutulması
 newtab-wallpaper-celestial-earth-night = Alçak Dünya yörüngesinden gece fotoğrafı
 newtab-wallpaper-celestial-starry-sky = Yıldızlı gökyüzü
+newtab-wallpaper-celestial-eclipse-time-lapse = Zaman atlamalı ay tutulması
 newtab-wallpaper-celestial-black-hole = Karadelik galaksisi illüstrasyonu
 newtab-wallpaper-celestial-river = Nehrin uydu görüntüsü
 
