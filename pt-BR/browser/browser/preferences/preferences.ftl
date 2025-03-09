@@ -1127,6 +1127,13 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Barra de endereços
 addressbar-suggest = Ao usar a barra de endereços, sugerir
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Barra de endereços — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Escolha o tipo de sugestões que aparecem na barra de endereços.
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Mais informações
 addressbar-locbar-history-option =
     .label = Histórico de navegação
     .accesskey = H
@@ -1159,6 +1166,12 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Mostrar sugestões de pesquisas populares
     .accesskey = p
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = Sugestões do { -brand-short-name }
+addressbar-locbar-suggest-nonsponsored-desc = Receba sugestões da web relacionadas à sua pesquisa.
+addressbar-locbar-suggest-sponsored-option =
+    .label = Sugestões de patrocinadores
 addressbar-quickactions-learn-more = Saiba mais
 
 ## Privacy Section - Content Blocking
