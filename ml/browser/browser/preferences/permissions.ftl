@@ -108,11 +108,12 @@ permissions-exceptions-saved-logins-desc = ഇനിപ്പറയുന്ന 
 permissions-exceptions-saved-passwords-window =
     .title = വിട്ടുവീഴ്ചകൾ - കരുതിവച്ച രഹസ്യവാക്കുകൾ
     .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = ഇവിടെ എഴുതിയിരിക്കുന്ന വെബിടങ്ങളുടെ രഹസ്യവാക്കുകൾ { -brand-short-name } കരുതിവയ്ക്കത്തില്ല
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = അനുവദിച്ച വെബ്സൈറ്റുകൾ - ആഡ്-ഓൺസ് ഇൻസ്റ്റാളേഷൻ
+    .title = അനുവദിച്ച വെബിടങ്ങൾ - ആഡ്-ഓൺ സ്ഥാപിക്കൽ
     .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = ഏതൊക്കെ വെബ്‌ സൈറ്റുകള്‍ ആഡ്‌-ഓണുകള്‍ ഇന്‍സ്റ്റാള്‍ ചെയ്യണം എന്ന് താങ്കള്‍ക്ക്‌ നിഷ്കര്‍ഷിക്കാം. അനുവദിക്കെണ്ട സൈറ്റിന്റെ ശരിയായ വിലാസം ടൈപ്പ്‌ ചെയ്‌ത ശേഷം, അനുവദിക്കുക ബട്ടണ്‍ ക്ലിക്ക്‌ ചെയ്യുക
 
@@ -137,12 +138,19 @@ permissions-site-location-disable-label =
 
 ## Site Permissions - Virtual Reality
 
+permissions-site-xr-window2 =
+    .title = ക്രമീകരണങ്ങൾ - മിഥ്യുണ്മ അനുമതികൾ
+    .style = { permissions-window2.style }
+permissions-site-xr-desc = താഴെപ്പറയുന്ന വെബിടങ്ങൾ താങ്ങളുടെ മിഥ്യുണ്മ ഉപകരണങ്ങളെ ഉപയോഗിക്കാൻ അഭ്യൎത്ഥിച്ചിട്ടുണ്ടു്. ഏതൊക്കെ വെബിടങ്ങൾക്കു് താങ്ങളുടെ മിഥ്യുണ്മ ഉപകരണങ്ങളെ ഉപയോഗിക്കാൻ അനുവാദമുണ്ടെന്നു് താങ്ങൾക്കു് വ്യക്തമാക്കാം. താങ്ങളുടെ മിഥ്യുണ്മ ഉപകരണങ്ങളെ ഉപയോഗിക്കാൻ ആവശ്യപ്പെടുന്ന പുതിയ അഭ്യൎത്ഥനകൾ തടയാനും താങ്ങൾക്കു് പറ്റും.
+permissions-site-xr-disable-label =
+    .label = താങ്ങളുടെ മിഥ്യുണ്മ ഉപകരണങ്ങളെ ഉപയോഗിക്കാൻ ആവശ്യപ്പെടുന്ന പുതിയ അഭ്യൎത്ഥനകളെ തള്ളുക.
 
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
     .title = ക്രമീകരണങ്ങൾ - ക്യാമറ അനുമതികൾ
     .style = { permissions-window2.style }
+permissions-site-camera-desc = താഴെപ്പറയുന്ന വെബിടങ്ങൾ താങ്ങളുടെ ക്യാമറ ഉപയോഗിക്കാൻ അഭ്യൎത്ഥിച്ചിട്ടുണ്ടു്. ഏതൊക്കെ വെബിടങ്ങൾക്കു് താങ്ങളുടെ ക്യാമറ ഉപയോഗിക്കാൻ അനുവാദമുണ്ടെന്നു് താങ്ങൾക്കു് വ്യക്തമാക്കാം. താങ്ങളുടെ ക്യാമറ ഉപയോഗിക്കാൻ ആവശ്യപ്പെടുന്ന പുതിയ അഭ്യൎത്ഥനകൾ തടയാനും താങ്ങൾക്കു് പറ്റും.
 permissions-site-camera-disable-label =
     .label = നിങ്ങളുടെ ക്യാമറ പരിശോധിക്കുന്നതിനായി ആവശ്യപ്പെടുന്ന പുതിയ അഭ്യർത്ഥനകള്‍ തടയുക
 
@@ -158,6 +166,8 @@ permissions-site-microphone-disable-label =
 ##
 ## "Speaker" refers to an audio output device.
 
+permissions-doh-entry-field = വെബിട മേഖലപ്പേരു് നല്കുക
+    .accesskey = മ
 permissions-doh-add-exception =
     .label = ചേൎക്കുക
     .accesskey = ച
