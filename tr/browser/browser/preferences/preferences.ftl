@@ -40,7 +40,7 @@ category-list =
 pane-general-title = Genel
 category-general =
     .tooltiptext = { pane-general-title }
-pane-home-title = Giriş Sayfası
+pane-home-title = Giriş sayfası
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = Arama
@@ -903,7 +903,7 @@ sync-verification-not-sent-body = Şu anda doğrulama e-postası gönderemedik. 
 
 ## Privacy Section
 
-privacy-header = Tarayıcı Gizliliği
+privacy-header = Tarayıcı gizliliği
 
 ## Privacy Section - Logins and Passwords
 
@@ -1127,6 +1127,8 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Adres çubuğu
 addressbar-suggest = Adres çubuğunu kullanırken şunları öner:
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Adres çubuğunda görünecek öneri türlerini seçin.
 addressbar-locbar-history-option =
     .label = Gezinti geçmişi
     .accesskey = G
@@ -1159,7 +1161,11 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Arama trendi önerilerini göster
     .accesskey = t
+addressbar-locbar-suggest-sponsored-option =
+    .label = Sponsorlardan öneriler
+addressbar-locbar-suggest-sponsored-desc = Ara sıra görünecek sponsorlu önerilerle { -brand-short-name } tarayıcınızı destekleyin.
 addressbar-quickactions-learn-more = Daha fazla bilgi al
+addressbar-dismissed-suggestions-label = Kapatılan öneriler
 
 ## Privacy Section - Content Blocking
 
@@ -1439,7 +1445,7 @@ httpsonly-radio-disabled =
 
 ## DoH Section
 
-preferences-doh-header = HTTPS Üzerinden DNS
+preferences-doh-header = HTTPS üzerinden DNS
 preferences-doh-description = HTTPS Üzerinden Alan Adı Sistemi (DNS), alan adı isteklerinizi şifreli bir bağlantı üzerinden göndererek güvenli bir DNS oluşturur. Böylece hangi web sitelerine eriştiğinizi başkalarının görmesi zorlaştır.
 preferences-doh-description2 = HTTPS Üzerinden Alan Adı Sistemi (DNS), alan adı isteklerinizi şifreli bir bağlantı üzerinden göndererek güvenli bir DNS sağlar. Böylece hangi web sitelerine eriştiğinizi başkalarının görmesi zorlaştır.
 # Variables:

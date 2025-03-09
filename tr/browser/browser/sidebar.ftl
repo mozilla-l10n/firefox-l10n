@@ -60,6 +60,9 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Üzerine gelince kenar çubuğunu genişlet
+expand-on-hover-message =
+    .heading = Fareyle üzerine gelindiğinde genişletme yakında geliyor
+    .message = Yakında fareyle üzerine gelindiğinde kenar çubuğunu genişletebileceksiniz.
 
 ## Labels for sidebar context menu items
 

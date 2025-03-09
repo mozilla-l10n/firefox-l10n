@@ -5,7 +5,7 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = Diğer { -vendor-short-name } Ürünleri
+more-from-moz-title = Diğer { -vendor-short-name } ürünleri
 more-from-moz-category =
     .tooltiptext = Diğer { -vendor-short-name } Ürünleri
 more-from-moz-subtitle = Sağlıklı bir interneti destekleyen diğer { -vendor-short-name } ürünlerine göz atın.
@@ -38,4 +38,4 @@ more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name }’ü kullan
 
 more-from-moz-solo-title = { -solo-ai-brand-name } AI
 more-from-moz-solo-description = Web sitenizi anında oluşturun ve kendi özel alan adınızı ücretsiz olarak bağlayın.
-more-from-moz-solo-button = { -solo-ai-brand-name }’ı deneyin
+more-from-moz-solo-button = { -solo-ai-brand-name }’yu deneyin

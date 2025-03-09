@@ -129,3 +129,5 @@ about-reader-text-alignment-center =
     .title = Metni ortala
 about-reader-text-alignment-right =
     .title = Metni sağa hizala
+about-reader-text-alignment-justify =
+    .title = Metni iki yana yasla

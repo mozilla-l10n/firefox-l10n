@@ -78,13 +78,18 @@ sidebar-button-callout-vertical-tabs = Sekmelerinizi göstermek için araç çub
 ## Sidebar Vertical Tabs Strings
 
 vertical-tabs-callout-1-title = Çok fazla sekmeden bunaldınız mı?
+vertical-tabs-callout-1-cta-button = Dikey sekmeleri dene
+vertical-tabs-callout-2-cta-button = Şimdi dene
 vertical-tabs-callout-2-title = Çok fazla açık sekmeniz mi var? Dikey sekmeleri deneyin.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-cta-button = Sekmeyi sabitle
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-callout-button = Kenar çubuğunu özelleştir
+sidebar-customization-callout-dismiss-button = Kenar çubuğunu gizle
 sidebar-customization-callout-2-title = { -brand-product-name } kenar çubuğunu kişiselleştirin
 
 ## Sidebar Callout Survey Strings
