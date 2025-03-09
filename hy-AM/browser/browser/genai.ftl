@@ -7,6 +7,7 @@
 
 genai-settings-chat-chatgpt-links = Ընտրելով ChatGPT-ին, դուք համաձայնվում եք OpenAI-ի<a data-l10n-name="link1">Օգտագործման պայմաններին</a> և <a data-l10n-name="link2">Գաղտնիության դրույթներին</a>:
 genai-settings-chat-claude-links = Ընտրելով Anthropic Claude-ը, դուք համաձայնվում եք Anthropic-ի <a data-l10n-name="link1">Ծառայության օգտագործման պայմաններին</a>, <a data-l10n-name="link2">Օգտագործման քաղաքականությանը</a> և <a data-l10n-name="link3">Գաղտնիության քաղաքականությանը</a>:
+genai-settings-chat-copilot-links = Ընտրելով Copilot-ը, դուք ընդունում եք <a data-l10n-name="link1">Copilot AI-ի  փորձարկման պայմանները</a> և <a data-l10n-name="link2">Microsoft-ի գաղտնիության հայտարարությունը</a>:
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
