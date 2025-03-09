@@ -16,6 +16,8 @@ urlbar-translations-button-intro =
     .tooltiptext = Փորձեք գաղտնի թարգմանությունները { -brand-shorter-name }. Beta-ում
 urlbar-translations-button-loading =
     .tooltiptext = Թարգմանությունն ընթացքի մեջ է
+translations-panel-settings-button =
+    .aria-label = Կառավարել թարգմանության կարգավորումները
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language

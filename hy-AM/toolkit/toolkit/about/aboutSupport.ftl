@@ -336,6 +336,7 @@ support-printing-troubleshoot = Խափանաշտկում
 
 ## Remote Settings sections
 
+support-remote-settings-sync-history = Պատմություն
 
 ## Normandy sections
 

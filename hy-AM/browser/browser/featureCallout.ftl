@@ -107,3 +107,4 @@ sidebar-callout-survey-saved-websites-2 = Արագ մուտք  ձեր էջանի
 sidebar-callout-survey-none-of-above = Վերը նշվածներից ոչ մեկը
 sidebar-callout-survey-submit = Ուղարկել
 sidebar-callout-survey-thank-you = Շնորհակալությո՜ւն Ձեր արձագանքի համար:
+sidebar-genai-survey-satisfaction-question = Որքա՞ն գոհ եք կողագոտու ԱԲ չաթբոտի հասանելիությունից:

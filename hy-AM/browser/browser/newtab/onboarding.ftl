@@ -351,6 +351,8 @@ onboarding-existing-vertical-tabs-label = Փորձեք ուղղահայաց նե
 onboarding-flair-text = Նոր
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Պահել հորիզոնական ներդիրները
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Փորձեք ԱԲ չաթբոտը Կողագոտում
 onboarding-genai-sidebar-primary-button = Ընտրեք չաթ բոտ
 onboarding-genai-sidebar-secondary-button = Սկսել դիտարկումը
 

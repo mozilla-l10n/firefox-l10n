@@ -20,14 +20,14 @@ genai-prompt-prefix-selection = Ես “{ $tabTitle }” էջում եմ, որտ
 ## Chatbot menu shortcuts
 
 genai-menu-ask-generic =
-    .label = Հարցրեք AI չաթբոտին
+    .label = Հարցրեք ԱԲ չաթբոտին
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Հարցրեք { $provider }-ին
 genai-menu-remove-generic =
     .label = Հեռացնել ԱԲ չաթբոտը
 genai-input-ask-generic =
-    .placeholder = Հարցրեք AI չաթբոտին…
+    .placeholder = Հարցրեք ԱԲ չաթբոտին…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Հարցրեք { $provider }-ին…
@@ -36,7 +36,7 @@ genai-shortcuts-hide =
 
 ## Chatbot header
 
-genai-chatbot-title = AI չաթբոտ
+genai-chatbot-title = ԱԲ չաթբոտ
 genai-header-provider-menu =
     .title = Ընտրեք չաթբոտ
 genai-header-options-button =
@@ -48,7 +48,7 @@ genai-provider-view-details =
 genai-provider-about-chatbots =
     .label = Այս չաթ-բոտերի մասին
 genai-options-reload-generic =
-    .label = Կրկին բեռնեք AI չաթբոտը
+    .label = Կրկին բեռնեք ԱԲ չաթբոտը
 # $provider (string) - name of the provider
 genai-options-reload-provider =
     .label = Կրկին բեռնեք { $provider }-ը
@@ -57,7 +57,7 @@ genai-options-show-shortcut =
 genai-options-hide-shortcut =
     .label = Թաքցնել դյուրանցումը տեքստ ընտրելիս
 genai-options-about-chatbot =
-    .label = AI չաթբոտերի մասին { -brand-short-name }-ում
+    .label = ԱԲ չաթբոտերի մասին { -brand-short-name }-ում
 
 ## Chatbot onboarding
 

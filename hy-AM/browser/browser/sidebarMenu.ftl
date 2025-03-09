@@ -4,6 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = Էջանիշեր
+sidebar-menu-bookmarks-2 = Էջանիշեր
 sidebar-menu-history =
     .label = Պատմություն
 sidebar-menu-synced-tabs =
