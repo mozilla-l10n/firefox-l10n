@@ -7,8 +7,8 @@ permissions-window2 =
     .style = min-width: 45em
 permissions-close-key =
     .key = w
-permissions-address = വെബ്സൈറ്റിന്റെ വിലാസം
-    .accesskey = d
+permissions-address = വെബിടത്തിന്റെ വിലാസം
+    .accesskey = വ
 permissions-block =
     .label = തടയുക
     .accesskey = B
@@ -28,21 +28,21 @@ permissions-button-off-temporarily =
     .label = തല്ക്കാലം അണച്ചുവയ്ക്കുക
     .accesskey = അ
 permissions-site-name =
-    .label = വെബ്‌സൈറ്റ്
+    .label = വെബിടം
 permissions-status =
-    .label = സ്ഥിതി
+    .label = നില
 permissions-remove =
-    .label = വെബ്സൈറ്റ് നീക്കം ചെയ്യുക
-    .accesskey = R
+    .label = വെബിടം മാറ്റുക
+    .accesskey = വ
 permissions-remove-all =
-    .label = എല്ലാ വെബ്സൈറ്റുകളും നീക്കം ചെയ്യുക
+    .label = എല്ലാ വെബിടങ്ങളെ മാറ്റുക
     .accesskey = e
 permission-dialog =
     .buttonlabelaccept = മാറ്റങ്ങൾ കരുതിവയ്ക്കുക
     .buttonaccesskeyaccept = ക
 permissions-autoplay-menu = എല്ലാ വെബിടങ്ങൾക്കു് തനിമട്ടു്
 permissions-searchbox =
-    .placeholder = വെബ്സൈറ്റ് തിരയുക
+    .placeholder = വെബിടത്തിൽ തിരയുക
 permissions-capabilities-autoplay-allow =
     .label = ശ്രാവ്യവും ദൃശ്യവും അനുവദിക്കുക
 permissions-capabilities-autoplay-block =
@@ -68,8 +68,8 @@ permissions-capabilities-listitem-off-temporarily =
 
 ## Invalid Hostname Dialog
 
-permissions-invalid-uri-title = നിലവില്‍ ഇല്ലാത്ത ഒരു Hostname എന്റര്‍ ചെയ്തിരിക്കുന്നു
-permissions-invalid-uri-label = ദയവായി വാലിഡായ ഒരു ഹോസ്റ്റ്‌നേയിം എന്റര്‍ ചെയ്യുക
+permissions-invalid-uri-title = തെറ്റായ ഒരു ഹോസ്റ്റു പേരു് നല്കിയിരിക്കുന്നു
+permissions-invalid-uri-label = ദയവായി ശരിയായ ഒരു ഹോസ്റ്റ്‌ പേരു് നല്കുക
 
 ## Exceptions - Tracking Protection
 
@@ -85,23 +85,29 @@ permissions-exceptions-cookie-window2 =
 
 ## Exceptions - HTTPS-Only Mode
 
+permissions-exceptions-https-only-window2 =
+    .title = വിട്ടുവീഴ്ചകൾ - HTTPS-മാത്രം പരി
+    .style = { permissions-window2.style }
 
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =
-    .title = അനുവദിച്ച വെബ്സൈറ്റുകൾ - പോപ്പ്-അപ്പുകൾ
+    .title = അനുവദിച്ച വെബിടങ്ങൾ - പൊന്തുവരലുകൾ
     .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = ഏതെലാം വെബ്‌ സിറ്റുകള്‍ക്ക്‌ പോപ്പപ്പ്‌ ജാലകം തുറക്കുവാന്‍ അനുവാദമുണ്ട്‌ എന്ന്‌ നിങ്ങള്‍ക്ക്‌ വ്യക്തമാക്കാം.അനുവാദിക്കേണ്ട സൈറ്റ്ന്റെ ശരിയായ വിലാസം ടൈപ്പ്‌ ചെയ്ത ശേഷം അനുവദിക്കുക ബട്ടണ്‍ ക്ലിക്ക്‌ ചെയ്യുക.
 
 ## Exceptions - Saved Logins
 
 permissions-exceptions-saved-logins-window2 =
-    .title = ഒഴിവാക്കലുകൾ - സേവു ചെയ്ത ലോഗിനുകൾ
+    .title = വിട്ടുവീഴ്ചകൾ - കരുതിവച്ച പ്രവേശണങ്ങൾ
     .style = { permissions-window2.style }
-permissions-exceptions-saved-logins-desc = ഇനിപ്പറയുന്ന വെബ്സൈറ്റുകൾക്കായുള്ള ലോഗിനുകൾ സേവു ചെയ്യില്ല
+permissions-exceptions-saved-logins-desc = ഇനിപ്പറയുന്ന വെബിടങ്ങൾക്കു് പ്രവേശണങ്ങൾ കരുതിവയ്ക്കത്തില്ല
 
 ## Exceptions - Saved Passwords
 
+permissions-exceptions-saved-passwords-window =
+    .title = വിട്ടുവീഴ്ചകൾ - കരുതിവച്ച രഹസ്യവാക്കുകൾ
+    .style = { permissions-window2.style }
 
 ## Exceptions - Add-ons
 
