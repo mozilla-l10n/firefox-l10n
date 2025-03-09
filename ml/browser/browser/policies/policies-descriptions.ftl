@@ -49,6 +49,7 @@ policy-ExtensionUpdate = യാന്ത്രിക വിപുലീകരണ
 policy-FirefoxHome2 = { -firefox-home-brand-name } സജ്ജമാക്കുക
 policy-FirefoxSuggest = { -firefox-suggest-brand-name } സജ്ജമാക്കുക.
 policy-HardwareAcceleration = തെറ്റാണെങ്കില്‍, ഹാർഡ്വെയർ ആക്സിലറേഷൻ ഓഫ് ചെയ്യുക.
+policy-HttpsOnlyMode = HTTPS-മാത്രം പരിയെ സജ്ജമാക്കാൻ അനുവദിക്കുക
 policy-InstallAddonsPermission = ചില വെബ്സൈറ്റുകളെ ആഡ്-ഓണുകള്‍ സന്നിവേശിപ്പിയ്ക്കാന്‍ അനുവദിക്കുക.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
