@@ -362,6 +362,9 @@ newtab-wallpaper-feature-highlight-button = Հասկացա
 feature-highlight-dismiss-button =
     .title = Բաց թողնել
     .aria-label = Փակել թռուցիկը
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## Celestial
 

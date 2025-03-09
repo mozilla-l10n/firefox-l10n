@@ -16,12 +16,18 @@
 
 sidebar-context-menu-enable-vertical-tabs =
     .label = Միացնել ուղղահայաց ներդիրները
+sidebar-context-menu-customize-sidebar =
+    .label = Հարմարեցնել կողագոտին
 
 ## Labels for sidebar history context menu items
 
 
 ## Labels for sidebar menu items.
 
+sidebar-menu-synced-tabs-label =
+    .label = Ներդիրներ այլ սարքերից
+sidebar-menu-customize-label =
+    .label = Հարմարեցնել կողագոտին
 
 ## Tooltips for sidebar menu items.
 
@@ -34,9 +40,15 @@ sidebar-context-menu-enable-vertical-tabs =
 
 ## Headings for sidebar menu panels.
 
+sidebar-menu-customize-header =
+    .heading = Հարմարեցնել կողագոտին
+sidebar-menu-syncedtabs-header =
+    .heading = Ներդիրներ այլ սարքերից
 
 ## Titles for sidebar menu panels.
 
+sidebar-customize-title = Հարմարեցնել կողագոտին
+sidebar-syncedtabs-title = Ներդիրներ այլ սարքերից
 
 ## Context for closing synced tabs when hovering over the items
 

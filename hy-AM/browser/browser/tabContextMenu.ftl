@@ -82,6 +82,9 @@ tab-context-share-url =
 tab-context-new-tab-open =
     .label = Նոր ներդիր աջից
     .accesskey = w
+tab-context-new-tab-open-vertical =
+    .label = Նոր ներդիր ներքևում
+    .accesskey = w
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
