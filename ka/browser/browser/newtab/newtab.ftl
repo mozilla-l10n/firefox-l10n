@@ -80,7 +80,7 @@ newtab-confirm-delete-history-p2 = ეს ქმედება შეუქც�
 
 ## Top Sites - Sponsored label
 
-newtab-topsite-sponsored = დამკვეთისგან
+newtab-topsite-sponsored = დამკვეთებისგან
 
 ## Context Menu - Action Tooltips.
 
@@ -291,13 +291,13 @@ newtab-custom-row-selector =
         [one] { $num } რიგი
        *[other] { $num } რიგი
     }
-newtab-custom-sponsored-sites = დამკვეთის მალსახმობები
+newtab-custom-sponsored-sites = მალსახმობები დამკვეთებისგან
 newtab-custom-pocket-title = გთავაზობთ { -pocket-brand-name }
 newtab-custom-pocket-subtitle = გამორჩეული მასალები, რომელთაც { -pocket-brand-name } გთავაზობთ, { -brand-product-name }-ოჯახის ნაწილი.
 newtab-custom-stories-toggle =
     .label = შემოთავაზებული ამბები
     .description = გამორჩეული მასალები, რომელთაც შეგირჩევთ { -brand-product-name }
-newtab-custom-pocket-sponsored = ამბები დამკვეთისგან
+newtab-custom-pocket-sponsored = ამბები დამკვეთებისგან
 newtab-custom-pocket-show-recent-saves = ბოლოს შენახულის ჩვენება
 newtab-custom-recent-title = ბოლო მოქმედებები
 newtab-custom-recent-subtitle = ბოლოს ნანახი საიტებისა და მასალებიდან შერჩეული

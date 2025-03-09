@@ -594,7 +594,7 @@ home-prefs-shortcuts-header =
     .label = მალსახმობები
 home-prefs-shortcuts-description = საიტები, რომლებსაც ინახავთ ან სტუმრობთ
 home-prefs-shortcuts-by-option-sponsored =
-    .label = დამკვეთის მალსახმობები
+    .label = მალსახმობები დამკვეთებისგან
 
 ## Home Section - Firefox Home Content Customization
 
@@ -609,7 +609,7 @@ home-prefs-recommended-by-description-generic = გამორჩეული �
 
 home-prefs-recommended-by-learn-more = როგორ მუშაობს
 home-prefs-recommended-by-option-sponsored-stories =
-    .label = ამბები დამკვეთისგან
+    .label = ამბები დამკვეთებისგან
 home-prefs-recommended-by-option-recent-saves =
     .label = ბოლოს შენახულის ჩვენება
 home-prefs-highlights-option-visited-pages =
@@ -1172,7 +1172,7 @@ addressbar-locbar-suggest-nonsponsored-option =
 addressbar-locbar-suggest-nonsponsored-desc = შემოთავაზებები ვებსივრციდან თქვენ მიერ მოძიებულის შესაბამისად.
 addressbar-locbar-suggest-sponsored-option =
     .label = შემოთავაზებები დამკვეთებისგან
-addressbar-locbar-suggest-sponsored-desc = თანადგომისთვის იხილეთ დამკვეთის შემოთავაზებები, { -brand-short-name } დროდადრო რომ მოგაწვდით
+addressbar-locbar-suggest-sponsored-desc = თანადგომისთვის იხილეთ შემოთავაზებები დამკვეთებისგან, { -brand-short-name } დროდადრო რომ მოგაწვდით
 addressbar-quickactions-learn-more = ვრცლად
 addressbar-dismissed-suggestions-label = შეთავაზებების აცილება
 addressbar-restore-dismissed-suggestions-description = აცილებული შემოთავაზებების დაბრუნება, რომელთაც გაწვდით დამკვეთები და { -brand-short-name }.

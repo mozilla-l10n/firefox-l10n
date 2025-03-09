@@ -165,7 +165,7 @@ shopping-unanalyzed-product-analyze-button = მიმოხილვის ხ�
 
 more-to-consider-ad-label =
     .label = სხვა მსგავსი
-shopping-sponsored-label = დამკვეთისგან
+shopping-sponsored-label = დამკვეთებისგან
 ad-by-fakespot = რეკლამა – { -fakespot-brand-name }
 
 ## Shopping survey strings.
