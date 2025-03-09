@@ -362,7 +362,7 @@ applications-use-os-default-label =
 
 ##
 
-applications-handle-new-file-types-description = Ի՞նչ պիտի անի { -brand-short-name }-­ն այլ ֆայլերի հետ:
+applications-handle-new-file-types-description = Ի՞նչ պետք է անի { -brand-short-name }-­ն այլ ֆայլերի հետ:
 applications-save-for-new-types =
     .label = Պահի ֆայլերը
     .accesskey = S
