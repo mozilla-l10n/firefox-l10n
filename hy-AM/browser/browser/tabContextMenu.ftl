@@ -28,11 +28,17 @@ duplicate-tabs =
 close-tabs-to-the-start =
     .label = Փակել ներդիրները՝ ձախից
     .accesskey = l
+close-tabs-to-the-start-vertical =
+    .label = Փակեք վերևի ներդիրները
+    .accesskey = l
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Փակել ներդիրները՝ աջից
     .accesskey = ջ
+close-tabs-to-the-end-vertical =
+    .label = Փակել ներքևի ներդիրները
+    .accesskey = i
 close-other-tabs =
     .label = Փակել մյուս ներդիրները
     .accesskey = կ

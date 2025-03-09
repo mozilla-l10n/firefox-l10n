@@ -11,6 +11,10 @@
 
 ## Labels for sidebar customize panel
 
+sidebar-customize-firefox-tools-header =
+    .label = { -brand-product-name }--ի գործիքներ
+sidebar-hide-tabs-and-sidebar =
+    .label = Թաքցնել ներդիրները և կողագոտին
 
 ## Labels for sidebar context menu items
 

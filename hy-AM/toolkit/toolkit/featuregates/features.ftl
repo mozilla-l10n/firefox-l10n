@@ -15,5 +15,7 @@ experimental-features-ime-search-description = IME-ը (Input Method Editor) գո
 experimental-features-auto-pip =
     .label = Նկարը նկարում. ինքնաշխատ բացում է ներդիրը փոխարկելիս
 experimental-features-auto-pip-description = Միացրեք Նկարը նկարում ակտիվ տեսանյութերի վրա՝ ներդիրները փոխելիս:
+experimental-features-group-developer-tools =
+    .label = Մշակողի գործիքներ
 experimental-features-group-customize-browsing =
     .label = Կազմաձևեք ձեր դիտարկումները

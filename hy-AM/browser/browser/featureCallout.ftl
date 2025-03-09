@@ -82,6 +82,8 @@ vertical-tabs-callout-1-subtitle = Փորձեք մեր նոր ուղղահայա
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Կողագոտի. գործիքների և ներդիրների ձեր տարածքը
+sidebar-customization-callout-1-subtitle = { -brand-product-name }-ի կողագոտին հնարավորություն է տալիս արագորեն մատչել դիտարկումների պատմությանը, ներդիրներին այլ սարքերից և ԱԲ չաթբոտին՝ առանց հիմնական ցանկը լքելու:
 sidebar-customization-callout-callout-button = Հարմարեցնել կողագոտին
 sidebar-customization-callout-2-subtitle = Ավելացրեք և հեռացրեք գործիքներ: Ձեր ներդիրները դրեք կողագոտիում: Փորձեք ԱԲ չաթբոտը: Հարմարեցրեք կողագոտին ըստ ձեր ցանկության:
 
@@ -105,4 +107,3 @@ sidebar-callout-survey-saved-websites-2 = Արագ մուտք  ձեր էջանի
 sidebar-callout-survey-none-of-above = Վերը նշվածներից ոչ մեկը
 sidebar-callout-survey-submit = Ուղարկել
 sidebar-callout-survey-thank-you = Շնորհակալությո՜ւն Ձեր արձագանքի համար:
-sidebar-genai-survey-satisfaction-question = Որքա՞ն գոհ եք կողային տողում AI chatbot-ի հասանելիությունից:

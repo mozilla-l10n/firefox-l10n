@@ -275,6 +275,7 @@ appmenuitem-relay-description = Քողարկեք ձեր իրական էլ. փո�
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }-ով
 appmenuitem-vpn-description = Պաշտպանեք ձեր առցանց գործունեությունը
 appmenu-services-header = Իմ ծառայությունները
+appmenu-other-protection-header = Փորձեք պաշտպանության այլ գործիքներ { -vendor-short-name }-ից.
 
 ## Profiles panel
 

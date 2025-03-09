@@ -24,6 +24,8 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Հարցրեք { $provider }-ին
+genai-menu-remove-generic =
+    .label = Հեռացնել ԱԲ չաթբոտը
 genai-input-ask-generic =
     .placeholder = Հարցրեք AI չաթբոտին…
 # $provider (string) - name of the provider
