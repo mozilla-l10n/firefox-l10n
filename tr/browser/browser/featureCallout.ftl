@@ -85,6 +85,7 @@ vertical-tabs-callout-2-title = Çok fazla açık sekmeniz mi var? Dikey sekmele
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-2-title = { -brand-product-name } kenar çubuğunu kişiselleştirin
 
 ## Sidebar Callout Survey Strings
 
