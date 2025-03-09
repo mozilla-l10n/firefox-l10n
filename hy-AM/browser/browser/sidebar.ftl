@@ -14,6 +14,8 @@
 
 ## Labels for sidebar context menu items
 
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Միացնել ուղղահայաց ներդիրները
 
 ## Labels for sidebar history context menu items
 
