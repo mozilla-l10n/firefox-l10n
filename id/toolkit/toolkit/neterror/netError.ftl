@@ -44,6 +44,7 @@ neterror-load-error-connection = Apabila Anda tidak dapat memuat laman apa pun, 
 neterror-load-error-firewall = Apabila komputer atau jaringan Anda dilindungi firewall atau proksi, pastikan bahwa { -brand-short-name } diizinkan mengakses Web.
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Jika Anda mencoba memuat laman jaringan lokal, periksa apakah { -brand-short-name } telah diberikan izin Jaringan Lokal di pengaturan Privasi & Keamanan macOS.
+neterror-http-error-page = Periksa untuk memastikan Anda telah mengetikkan alamat situs web dengan benar.
 neterror-captive-portal = Anda harus masuk ke dalam jaringan ini sebelum dapat mengakses Internet.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -99,6 +100,9 @@ neterror-proxy-connect-failure-settings = Periksa pengaturan proksi, pastikan su
 neterror-proxy-connect-failure-contact-admin = Hubungi administrator jaringan Anda untuk memastikan server proksi sudah berjalan.
 neterror-content-encoding-error = Mohon hubungi pemilik situs web mengenai masalah ini.
 neterror-unsafe-content-type = Mohon hubungi pemilik situs web mengenai masalah ini.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-basic-http-auth = { -brand-short-name } tidak mempercayai { $hostname } karena sambungannya tidak aman. Coba ubah URL ke HTTPS.
 neterror-nss-failure-not-verified = Laman yang ingin dibuka tidak dapat ditampilkan karena keaslian data yang diterima tidak bisa diverifikasi.
 neterror-nss-failure-contact-website = Mohon hubungi pemilik situs web mengenai masalah ini.
 # Variables:

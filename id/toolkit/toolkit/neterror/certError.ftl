@@ -21,6 +21,9 @@ cert-error-trust-symantec = Sertifikat yang diterbitkan oleh GeoTrust, RapidSSL,
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } tidak mempercayai { $hostname } karena tidak dapat membuktikan bahwa itu memenuhi persyaratan transparansi sertifikat publik.
+# Variables:
+#   $hostname (string) - Hostname of the website with cert error.
+cert-error-revoked = Situs web membuktikan identitas mereka melalui sertifikat. { -brand-short-name } tidak mempercayai { $hostname } karena menggunakan sertifikat yang telah dicabut.
 cert-error-untrusted-default = Sertifikat tidak didapat dari sumber yang terpercaya.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -134,6 +137,7 @@ contentEncodingError-title = Kesalahan Pengodean Isi (Content Encoding)
 unsafeContentType-title = Jenis Berkas Tidak Aman
 netReset-title = Sambungan diputus
 netTimeout-title = Tenggang waktu tersambung habis
+httpErrorPage-title = Sepertinya ada masalah dengan situs ini
 serverError-title = Sepertinya ada masalah dengan situs ini
 unknownProtocolFound-title = Alamat tidak dipahami
 proxyConnectFailure-title = Server proksi menolak sambungan
