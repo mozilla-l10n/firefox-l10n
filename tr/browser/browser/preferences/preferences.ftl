@@ -1166,11 +1166,18 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Arama trendi önerilerini göster
     .accesskey = t
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = { -brand-short-name } önerileri
+addressbar-locbar-suggest-nonsponsored-desc = Aaramanızla ilgili web sitesi öneriler alın.
 addressbar-locbar-suggest-sponsored-option =
     .label = Sponsorlardan öneriler
 addressbar-locbar-suggest-sponsored-desc = Ara sıra görünecek sponsorlu önerilerle { -brand-short-name } tarayıcınızı destekleyin.
 addressbar-quickactions-learn-more = Daha fazla bilgi al
 addressbar-dismissed-suggestions-label = Kapatılan öneriler
+addressbar-restore-dismissed-suggestions-description = Sponsorlardan ve { -brand-short-name } tarayıcısından gelen kapatılmış önerileri geri getir.
+addressbar-restore-dismissed-suggestions-button =
+    .label = Geri getir
 
 ## Privacy Section - Content Blocking
 

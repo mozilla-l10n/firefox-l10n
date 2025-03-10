@@ -193,6 +193,9 @@ urlbar-result-menu-dismiss-suggestion =
 urlbar-result-menu-learn-more-about-firefox-suggest =
     .label = { -firefox-suggest-brand-name } hakkında bilgi al
     .accesskey = h
+urlbar-result-menu-manage-firefox-suggest =
+    .label = { -firefox-suggest-brand-name } yönet
+    .accesskey = n
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
