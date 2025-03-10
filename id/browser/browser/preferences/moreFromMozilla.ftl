@@ -11,6 +11,7 @@ more-from-moz-category =
 more-from-moz-subtitle = Lihat produk { -vendor-short-name } lainnya yang bekerja untuk mendukung internet yang sehat.
 more-from-moz-firefox-mobile-title = { -brand-product-name } Mobile
 more-from-moz-firefox-mobile-description = Peramban seluler yang mengutamakan privasi Anda.
+more-from-moz-firefox-mobile-title-1 = { -brand-product-name } untuk Seluler
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Temukan lapisan tambahan dalam penjelajahan dan perlindungan anonim.
 more-from-moz-qr-code-box-firefox-mobile-title = Unduh menggunakan perangkat seluler Anda. Arahkan kamera Anda ke kode QR. Saat tautan muncul, ketuk tautannya.
@@ -35,5 +36,6 @@ more-from-moz-mozilla-monitor-button = Dapatkan { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
+more-from-moz-solo-title = { -solo-ai-brand-name } AI
 more-from-moz-solo-description = Buat situs web Anda secara instan dan hubungkan domain ubahan Anda sendiri secara gratis.
 more-from-moz-solo-button = Coba { -solo-ai-brand-name }

@@ -1111,6 +1111,13 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Bilah Alamat
 addressbar-suggest = Saat menggunakan bilah alamat, sarankan
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Bilah Alamat — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Pilih jenis saran yang muncul di bilah alamat.
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Pelajari lebih lanjut
 addressbar-locbar-history-option =
     .label = Riwayat penjelajahan
     .accesskey = R
@@ -1143,7 +1150,18 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Tampilkan saran pencarian yang sedang tren
     .accesskey = a
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = Saran dari { -brand-short-name }
+addressbar-locbar-suggest-nonsponsored-desc = Dapatkan saran dari web yang terkait dengan pencarian Anda.
+addressbar-locbar-suggest-sponsored-option =
+    .label = Saran dari sponsor
+addressbar-locbar-suggest-sponsored-desc = Dukung { -brand-short-name } dengan saran sponsor sesekali.
 addressbar-quickactions-learn-more = Pelajari lebih lanjut
+addressbar-dismissed-suggestions-label = Abaikan saran
+addressbar-restore-dismissed-suggestions-description = Pulihkan saran yang ditolak dari sponsor dan { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button =
+    .label = Pulihkan
 
 ## Privacy Section - Content Blocking
 

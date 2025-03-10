@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = Bot Obrolan AI
 menu-view-review-checker =
     .label = Pemeriksa Ulasan
+menu-view-contextual-password-manager =
+    .label = Sandi
 sidebar-options-menu-button =
     .title = Buka menu
 
@@ -46,6 +48,14 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = Kelola pengaturan { -brand-short-name }
 sidebar-vertical-tabs =
     .label = Tab vertikal
+sidebar-settings =
+    .label = Pengaturan bilah samping
+sidebar-hide-tabs-and-sidebar =
+    .label = Sembunyikan tab dan bilah samping
+sidebar-show-on-the-right =
+    .label = Pindahkan bilah samping ke kanan
+sidebar-show-on-the-left =
+    .label = Pindahkan bilah samping ke kiri
 
 ## Labels for sidebar context menu items
 
@@ -63,6 +73,10 @@ sidebar-context-menu-bookmark-tab =
     .label = Markahi Tab…
 sidebar-context-menu-copy-link =
     .label = Salin Tautan
+sidebar-context-menu-hide-sidebar =
+    .label = Sembunyikan Bilah Samping
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Aktifkan Tab Vertikal
 sidebar-context-menu-customize-sidebar =
     .label = Ubahsuai Bilah Sisi
 # Variables:
