@@ -13,7 +13,7 @@ webrtc-item-camera = ക്യാമറ
 webrtc-item-microphone = മൈക്ക്
 webrtc-item-audio-capture = ടാബ് ശബ്ദം
 webrtc-item-application = പ്രയോഗം
-webrtc-item-screen = സ്ക്രീന്‍
+webrtc-item-screen = പ്രതലം
 webrtc-item-window = ജാലകം
 webrtc-item-browser = ടാബ്
 
@@ -29,11 +29,14 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = ടാബുകള്‍ പങ്കിടുന്ന ഉപകരണങ്ങള്‍
     .accesskey = d
+webrtc-stop-sharing-button = പങ്കിടൽ നിൎത്തുക
 
 ## These strings will display as a tooltip on supported systems where we show
 ## device sharing state in the OS notification area. We do not use these strings
 ## on macOS, as global menu bar items do not have native tooltips.
 
+webrtc-screen-system-menu =
+    .label = താങ്ങൾ ഒരു ജാലകം അല്ലെങ്കിൽ പ്രതലം പങ്കിടുന്നു. പങ്കിടൽ അടക്കാൻ അമൎത്തുക
 
 ## Tooltips used by the legacy global sharing indicator
 
@@ -129,9 +132,10 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 webrtc-share-screen-learn-more = കൂടുതല്‍ അറിയുക
 webrtc-pick-window-or-screen = ജാലകം അല്ലെങ്കിൽ പ്രതലം തിരഞ്ഞെടുക്കുക
+webrtc-share-entire-screen = മൊത്ത പ്രതലം
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
-webrtc-share-monitor = സ്ക്രീന്‍ { $monitorIndex }
+webrtc-share-monitor = { $monitorIndex } പ്രതലം
 # Variables:
 #   $windowCount (Number): the number of windows currently displayed by the application.
 #   $appName (String): the name of the application.
