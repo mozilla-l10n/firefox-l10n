@@ -125,3 +125,5 @@ about-reader-text-alignment-center =
     .title = จัดข้อความอยู่กึ่งกลาง
 about-reader-text-alignment-right =
     .title = จัดข้อความชิดขวา
+about-reader-text-alignment-justify =
+    .title = จัดข้อความให้ชิดขอบ

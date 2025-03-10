@@ -1111,6 +1111,13 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = แถบที่อยู่
 addressbar-suggest = เมื่อใช้แถบที่อยู่ เสนอแนะ
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = แถบที่อยู่ — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = เลือกประเภทข้อเสนอแนะที่ปรากฏในแถบที่อยู่
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = เรียนรู้เพิ่มเติม
 addressbar-locbar-history-option =
     .label = ประวัติการเรียกดู
     .accesskey = ว
@@ -1143,7 +1150,18 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = แสดงข้อเสนอแนะการค้นหาที่กำลังมาแรง
     .accesskey = ม
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = ข้อเสนอแนะจาก { -brand-short-name }
+addressbar-locbar-suggest-nonsponsored-desc = รับคำแนะนำจากเว็บที่เกี่ยวข้องกับการค้นหาของคุณ
+addressbar-locbar-suggest-sponsored-option =
+    .label = คำแนะนำจากผู้สนับสนุน
+addressbar-locbar-suggest-sponsored-desc = สนับสนุน { -brand-short-name } ด้วยคำแนะนำจากผู้สนับสนุนซึ่งแสดงเป็นครั้งคราว
 addressbar-quickactions-learn-more = เรียนรู้เพิ่มเติม
+addressbar-dismissed-suggestions-label = ข้อเสนอแนะที่ถูกปิด
+addressbar-restore-dismissed-suggestions-description = เรียกคืนข้อเสนอแนะที่ถูกปิดจากผู้สนับสนุนและ { -brand-short-name }
+addressbar-restore-dismissed-suggestions-button =
+    .label = เรียกคืน
 
 ## Privacy Section - Content Blocking
 
