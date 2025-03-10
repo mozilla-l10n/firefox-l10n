@@ -128,7 +128,7 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ##
 
 webrtc-share-screen-learn-more = കൂടുതല്‍ അറിയുക
-webrtc-share-entire-screen = പൂര്‍ണ്ണ സ്ക്രീന്‍
+webrtc-pick-window-or-screen = ജാലകം അല്ലെങ്കിൽ പ്രതലം തിരഞ്ഞെടുക്കുക
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = സ്ക്രീന്‍ { $monitorIndex }
@@ -146,6 +146,12 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = അനുവദിക്കുക
     .accesskey = A
+webrtc-action-block =
+    .label = തടയുക
+    .accesskey = ത
+webrtc-action-always-block =
+    .label = എപ്പോഴും തടയുക
+    .accesskey = എ
 webrtc-action-not-now =
     .label = ഇപ്പോഴല്ല
     .accesskey = ഇ
