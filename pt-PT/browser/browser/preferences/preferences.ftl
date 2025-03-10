@@ -243,8 +243,8 @@ browser-layout-show-sidebar-desc = Aceda rapidamente a marcadores, separadores d
 
 ## General Section - Language & Appearance
 
-language-and-appearance-header = Idioma e aparência
-preferences-web-appearance-header = Aparência do site
+language-and-appearance-header = Idioma e aspeto
+preferences-web-appearance-header = Aspeto do site
 preferences-web-appearance-description = Alguns sites adaptam o seu esquema de cores com base nas suas preferências. Escolha qual o esquema de cores que gostaria de usar para esses sites.
 preferences-web-appearance-choice-auto = Automático
 preferences-web-appearance-choice-light = Claro
@@ -263,11 +263,11 @@ preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
-preferences-web-appearance-override-warning = As suas seleções de cores estão a substituir a aparência do website. <a data-l10n-name="colors-link">Gerir cores</a>
+preferences-web-appearance-override-warning = As suas seleções de cores estão a substituir o aspeto do website. <a data-l10n-name="colors-link">Gerir cores</a>
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning2 =
-    .message = As suas seleções de cores estão a substituir a aparência do website.
+    .message = As suas seleções de cores estão a substituir o aspeto do website.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Gerir temas do { -brand-short-name } em <a data-l10n-name="themes-link">Extensões e Temas</a>

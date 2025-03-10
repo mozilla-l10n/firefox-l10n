@@ -264,7 +264,7 @@ header-back-button =
 discopane-intro =
     As extensões são como aplicações para o seu navegador, estas permitem-lhe
     proteger palavras-passe, transferir vídeos, encontrar ofertas, bloquear anúncios irritantes, alterar
-    a aparência do seu navegador, e muito mais. Estes pequenos programas de software são
+    o aspeto do seu navegador, e muito mais. Estes pequenos programas de software são
     muitas vezes programados por terceiros. Aqui está uma seleção que o { -brand-product-name }
     <a data-l10n-name="learn-more-trigger">recomenda</a> para segurança, desempenho e funcionalidade excecionais.
 # Notice to make user aware that the recommendations are personalized.

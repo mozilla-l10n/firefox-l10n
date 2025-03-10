@@ -340,7 +340,7 @@ onboarding-device-migration-primary-button-label = Entrar
 ## Add-ons Picker screen
 
 amo-picker-title = Personalize o seu { -brand-short-name }
-amo-picker-subtitle = As extensões funcionam como aplicações para o seu navegador, permitindo-lhe proteger as suas palavras-passe, descarregar vídeos, descobrir promoções, bloquear anúncios incómodos, modificar a aparência do seu navegador, entre outras funcionalidades.
+amo-picker-subtitle = As extensões funcionam como aplicações para o seu navegador, permitindo-lhe proteger as suas palavras-passe, transferir vídeos, descobrir promoções, bloquear anúncios incómodos, modificar o aspeto do seu navegador, entre outras funcionalidades.
 amo-picker-install-button-label = Adicionar ao { -brand-short-name }
 amo-picker-install-complete-label = Instalado
 amo-picker-collection-link = Explorar mais extras
