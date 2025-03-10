@@ -18,6 +18,7 @@ about-config-page-title = Ընդլայնված նախընտրություննե�
 about-config-search-input1 =
     .placeholder = Որոնել նախընտրանքի անուն
 about-config-show-all = Ցուցադրել բոլորը
+about-config-show-only-modified = Ցուցադրել միայն փոփոխված նախապատվությունները
 about-config-pref-add-button =
     .title = Ավելացնել
 about-config-pref-toggle-button =
