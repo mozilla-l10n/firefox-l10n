@@ -11,6 +11,7 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-header = Ավելացնե՞լ { $extension }-ը
+webext-perms-header-with-perms = Ավելացնե՞լ { $extension }-ը: Այս ընդլայնումը թույլտվություն կունենա հետևյալին՝
 webext-perms-header-unsigned = Ավելացնե՞լ { $extension }-ը: Այս ընդլայնումը չստուգված է: Վնասակար ընդլայնումները կարող են գողանալ Ձեր անձնական տվյալները կամ վտանգել Ձեր համակարգիչը: Ավելացրեք միայն եթե վստահում եք աղբյուրին:
 webext-perms-header-unsigned-with-perms = Ավելացնե՞լ { $extension }-ը: Այս ընդլայնումը չստուգված է: Վնասակար ընդլայնումները կարող են գողանալ Ձեր անձնական տվյալները կամ վտանգել Ձեր համակարգիչը: Ավելացրեք միայն եթե վստահում եք աղբյուրին: Այս ընդլայնումը թույլտվություն կունենա հետևյալին՝
 webext-perms-sideload-header = { $extension }-ը ավելացվել է
@@ -64,6 +65,21 @@ webext-perms-host-description-too-many-sites =
     { $domainCount ->
         [one] Մատչել ձեր տվյալներին { $domainCount } այլ կայքում
        *[other] Մատչել ձեր տվյալներին { $domainCount } այլ կայքերում
+    }
+# Variables:
+#   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
+#     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).
+webext-perms-host-description-one-domain = Մատչել ձեր տվյալներին { $domain } տիրույթի կայքերի համար
+# Permission string used for webextensions requesting access to 2 or more domains (and so $domainCount is expected to always
+# be >= 2, for webextensions requesting access to only one domain the `webext-perms-host-description-one-domain` string is
+# used instead).
+# Variables:
+#   $domainCount (Number): Integer indicating the number of websites domains for which this webextension is requesting permission
+#     (the list of domains will follow this string).
+webext-perms-host-description-multiple-domains =
+    { $domainCount ->
+        [one] Մատչել ձեր տվյալներին { $domainCount } տիրույթի կայքերի համար
+       *[other] Մատչել ձեր տվյալներին { $domainCount } տիրույթի կայքերի համար
     }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
