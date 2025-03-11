@@ -410,6 +410,8 @@ newtab-wallpaper-celestial-lunar-eclipse = Eclìs lunâr
 newtab-wallpaper-celestial-earth-night = Foto di gnot de orbite de tiere basse
 newtab-wallpaper-celestial-starry-sky = Cîl di stelis
 newtab-wallpaper-celestial-eclipse-time-lapse = Dade di timp de eclìs lunâr
+newtab-wallpaper-celestial-black-hole = Ilustrazion de galassie di un bûs neri
+newtab-wallpaper-celestial-river = Imagjin satelitâr di un flum
 
 ## New Tab Weather
 
@@ -505,6 +507,8 @@ newtab-section-confirm-block-section-p1 = Blocâ pardabon cheste sezion?
 newtab-section-confirm-block-section-p2 = La sezion blocade no vignarà plui fûr tai tiei feed.
 newtab-section-block-section-button = Bloche cheste sezion
 newtab-section-cancel-button = No cumò
+newtab-section-confirm-block-topic-p1 = Blocâ pardabon chest argoment?
+newtab-section-confirm-block-topic-p2 = I argoments blocâts no vignaran plui mostrâts tal to feed.
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Bloche { $topic }
