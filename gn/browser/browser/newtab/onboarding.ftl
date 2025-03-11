@@ -451,6 +451,7 @@ tab-groups-onboarding-dismiss = MONEĨ
 multi-profile-spotlight-title = Emomaitei { -brand-product-name } mba’etekuéra
 multi-profile-spotlight-cta = Emoheñói mba’ete
 multi-profile-callout-title = Emoheñói heta mba’ete emba’apo ha ñembosarairã
+multi-profile-callout-subtitle = Umi mba’ete omoneĩ eikuaavévo marandu ñeikundaha rehegua, ikatúva jeheka rembiasakue ha ñe’ẽñemi, oñondive’ỹva.
 multi-profile-callout-cta = Emoheñói mba’ete
 
 ## Desktop to Mobile Adoption feature callout strings
