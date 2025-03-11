@@ -40,3 +40,6 @@ pending-crash-reports-send =
     .label = Odeslat
 pending-crash-reports-always-send =
     .label = Vždy odeslat
+requested-crash-reports-dont-show-again =
+    .label = Znovu nezobrazovat
+    .accesskey = Z

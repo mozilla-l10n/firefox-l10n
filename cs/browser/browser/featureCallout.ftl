@@ -97,6 +97,10 @@ sidebar-button-callout-vertical-tabs = Chcete-li zobrazit své panely, zvolte na
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = Jste zahlceni velkým množstvím panelů?
+vertical-tabs-callout-1-subtitle = Vyzkoušejte nové vertikální rozložení karet a rychle prohledejte seznam panelů. První testeři hlásí, že jim toto rozložení umožňuje lepší organizaci. Přepnout můžete kdykoliv.
+vertical-tabs-callout-1-cta-button = Vyzkoušejte svislé panely
+vertical-tabs-callout-2-cta-button = Vyzkoušet nyní
 
 ## Sidebar Vertical Tabs Pinning Strings
 
