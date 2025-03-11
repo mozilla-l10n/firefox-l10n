@@ -60,6 +60,7 @@ sidebar-button-callout-subtitle = ടാബുത്തലക്കെട്ട�
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-cta-button = ടാബിൽ കുത്തിസൂചിയിടുക
 
 ## Sidebar Onboarding Strings
 
