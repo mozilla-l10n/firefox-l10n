@@ -31,3 +31,6 @@ pending-crash-reports-send =
     .label = Invie
 pending-crash-reports-always-send =
     .label = Invie simpri
+requested-crash-reports-dont-show-again =
+    .label = No sta mostrâ di gnûf
+    .accesskey = N

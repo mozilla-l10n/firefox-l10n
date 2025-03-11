@@ -77,9 +77,12 @@ sidebar-button-callout-vertical-tabs = Par visualizâ lis schedis, selezione il 
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-cta-button = Prove lis schedis verticâls
+vertical-tabs-callout-2-cta-button = Prove daurman
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-cta-button = Fisse schede
 
 ## Sidebar Onboarding Strings
 
