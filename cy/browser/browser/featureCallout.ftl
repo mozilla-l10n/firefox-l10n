@@ -77,9 +77,16 @@ sidebar-button-callout-vertical-tabs = I ddangos eich tabiau, dewiswch y botwm b
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = Wedi'ch llethu gan ormod o dabiau?
+vertical-tabs-callout-1-subtitle = Rhowch gynnig ar ein cynllun tabiau fertigol newydd i sganio'ch rhestr o dabiau'n gyflym. Mae profwyr cynnar yn adrodd bod y cynllun hwn yn eu helpu i deimlo'n fwy trefnus. Gallwch newid yn ôl unrhyw bryd.
+vertical-tabs-callout-1-cta-button = Rhowch gynnig ar dabiau fertigol
+vertical-tabs-callout-2-cta-button = Rhowh gynnig nawr
+vertical-tabs-callout-2-title = Yn cadw lot o dabiau ar agor? Rhowch gynnig ar dabiau fertigol
+vertical-tabs-callout-2-subtitle = Mae'r cynllun hwn yn ei gwneud hi'n hawdd sganio'ch rhestr o dabiau'n gyflym. Hefyd, gallwch chi addasu'r lled i weld mwy neu lai o deitlau eich tabiau.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = Colli golwg ar eich tabiau pwysig?
 
 ## Sidebar Onboarding Strings
 
