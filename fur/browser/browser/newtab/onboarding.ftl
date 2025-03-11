@@ -447,6 +447,10 @@ onboarding-checklist-sign-up = Regjistriti o jentre tal to account
 tab-groups-onboarding-feature-callout-title = Prove i grups di schedis par vê mancul disordin e aumentâ la concentrazion
 tab-groups-onboarding-feature-callout-subtitle = Organiziti strissinant une schede sore di chê altre par creâ il to prin grup.
 tab-groups-onboarding-create-group-title-2 = Cjate achì i tiei grups di schedis in ogni moment.
+tab-groups-onboarding-create-group-no-alltabs-button-title = Cîr i tiei grups cu la sbare de direzion par cjatâju.
+tab-groups-onboarding-saved-groups-title-2 = Cuant che tu sieris un grup di schedis, tu puedis tornâ a vierzilu in ogni moment.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Cîr cu la sbare de direzion i tiei grups che tu âs sierât, par cjatâju.
+tab-groups-onboarding-session-restore-title = Torne vierzi achì i grups di schedis in ogni moment.
 tab-groups-onboarding-saved-groups-title = Se tu sieris un grup di schedis, tu puedis tornâ a vierzilu achì, in ogni moment.
 tab-groups-onboarding-dismiss = Va ben
 
@@ -467,3 +471,5 @@ desktop-to-mobile-headline = Discjame, sincronize e va!
 desktop-to-mobile-subtitle = Scansione il codiç QR par discjariâ { -brand-product-name } par dispositîfs mobii. Une volte che al è stât instalât, selezione “Sincronize cun dispositîfs mobii” par acedi aes tôs passwords, ai tiei segnelibris e tant altri dapardut là che tu ti cjatis.
 dismiss-button-label = Siere
 sync-to-mobile-button-label = Sincronize cun dispositîfs mobii
+desktop-to-mobile-qr-code-alt =
+    .aria-label = Codiç QR par discjariâ { -brand-product-name } par dispositîfs mobii

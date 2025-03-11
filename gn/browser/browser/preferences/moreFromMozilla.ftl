@@ -37,4 +37,5 @@ more-from-moz-mozilla-monitor-button = Erekóke { -monitor-brand-short-name }
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
 more-from-moz-solo-title = { -solo-ai-brand-name } AI
+more-from-moz-solo-description = Emoheñói ne ñanduti rendarã ha eiporu hendatee voi viru’ỹetére.
 more-from-moz-solo-button = Eiporu { -solo-ai-brand-name }

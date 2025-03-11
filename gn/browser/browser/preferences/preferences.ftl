@@ -149,6 +149,7 @@ preferences-data-migration-button =
     .label = Mba’ekuaarã Mba’egueru
     .accesskey = m
 preferences-profiles-header = Mba’etekuéra
+preferences-manage-profiles-description = Peteĩteĩva mba’ete oreko ñeikundaha mba’ekuaarã ha ñemboheko oñondive’ỹva, oĩhápe tembiasakue, ñe’ẽñemi ha hetave.
 preferences-manage-profiles-learn-more = Kuaave
 preferences-manage-profiles-button =
     .label = Eñangareko Mba’etekuérare
@@ -1127,6 +1128,8 @@ addressbar-header = Kundaharape renda
 addressbar-suggest = Eiporúramo kundaharape renda, eñemoñe’ẽ
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Kundaharape rupa — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Eiporavo umi ñemoñe’ẽ ojehecháva upe kundaha rupápe.
 # When Firefox Suggest is enabled, a "Learn more" link appears at the end of
 # `addressbar-suggest-firefox-suggest`.
 addressbar-locbar-firefox-suggest-learn-more = Eikuaave

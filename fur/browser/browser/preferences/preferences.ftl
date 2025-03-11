@@ -148,6 +148,11 @@ preferences-data-migration-description = Impuarte segnelibris, passwords, cronol
 preferences-data-migration-button =
     .label = Impuarte dâts
     .accesskey = m
+preferences-profiles-header = Profîi
+preferences-manage-profiles-description = Ogni profîl al manten dâts di navigazion e impostazions indipendentis, includûts cronologjie, passwords e altris dâts.
+preferences-manage-profiles-learn-more = Plui informazions
+preferences-manage-profiles-button =
+    .label = Gjestìs profîi
 tabs-group-header = Schedis
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab al fâs scori lis schedis lant daûr l'ordin di chês dopradis plui di resint
@@ -1122,6 +1127,13 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Sbare de direzion
 addressbar-suggest = Cuant che tu dopris la sbare de direzion, sugjerìs
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Sbare de direzion — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Sielç il gjenar di sugjeriments di visualizâ te sbare de direzion.
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Plui informazions
 addressbar-locbar-history-option =
     .label = Cronologjie di navigazion
     .accesskey = r
