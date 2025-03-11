@@ -39,7 +39,7 @@ pending-crash-reports-always-send =
 #   $reportCount (Number): the number of pending crash reports
 requested-crash-reports-message =
     { $reportCount ->
-        [zero] Does gennych { $reportCount } adroddiadau chwalu heb eu hanfon sy'n cyfateb i chwaliadau sy'n cael eu hymchwilio, bydd eu hanfon yn ein helpu i wella { -brand-product-name }. Bydd cau'r hysbysiad hwn yn anwybyddu'r adroddiadau hyn.
+        [zero] Does gennych chi { $reportCount } adroddiadau chwalu heb eu hanfon sy'n cyfateb i chwaliadau sy'n cael eu hymchwilio, bydd eu hanfon yn ein helpu i wella { -brand-product-name }. Bydd cau'r hysbysiad hwn yn anwybyddu'r adroddiadau hyn.
         [one] Mae gennych { $reportCount } adroddiad chwalu heb ei anfon sy'n cyfateb i chwaliad sy'n cael ei ymchwilio, bydd ei anfon yn ein helpu i wella { -brand-product-name }. Bydd cau'r hysbysiad hwn yn anwybyddu'r adroddiadau hyn.
         [two] Mae gennych { $reportCount } adroddiad chwalu heb eu hanfon sy'n cyfateb i chwaliadau sy'n cael eu hymchwilio, bydd eu hanfon yn ein helpu i wella { -brand-product-name }. Bydd cau'r hysbysiad hwn yn anwybyddu'r adroddiadau hyn.
         [few] Mae gennych { $reportCount } adroddiad chwalu heb eu hanfon sy'n cyfateb i chwaliadau sy'n cael eu hymchwilio, bydd eu hanfon yn ein helpu i wella { -brand-product-name }. Bydd cau'r hysbysiad hwn yn anwybyddu'r adroddiadau hyn.

@@ -80,14 +80,14 @@ sidebar-button-callout-vertical-tabs = I ddangos eich tabiau, dewiswch y botwm b
 vertical-tabs-callout-1-title = Wedi'ch llethu gan ormod o dabiau?
 vertical-tabs-callout-1-subtitle = Rhowch gynnig ar ein cynllun tabiau fertigol newydd i sganio'ch rhestr o dabiau'n gyflym. Mae profwyr cynnar yn adrodd bod y cynllun hwn yn eu helpu i deimlo'n fwy trefnus. Gallwch newid yn ôl unrhyw bryd.
 vertical-tabs-callout-1-cta-button = Rhowch gynnig ar dabiau fertigol
-vertical-tabs-callout-2-cta-button = Rhowh gynnig nawr
+vertical-tabs-callout-2-cta-button = Rhowch gynnig nawr
 vertical-tabs-callout-2-title = Yn cadw lot o dabiau ar agor? Rhowch gynnig ar dabiau fertigol
 vertical-tabs-callout-2-subtitle = Mae'r cynllun hwn yn ei gwneud hi'n hawdd sganio'ch rhestr o dabiau'n gyflym. Hefyd, gallwch chi addasu'r lled i weld mwy neu lai o deitlau eich tabiau.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
 sidebar-pins-callout-title = Colli golwg ar eich tabiau pwysig?
-sidebar-pins-callout-subtitle = Ceisiwch eu pinio, sy'n eu cadw ar frig eich rhestr o dabiau. De-gliciwch ar dab rydych chi am ei binio, yna dewiswch Pinio Tab.
+sidebar-pins-callout-subtitle = Ceisiwch eu pinio, sy'n eu cadw ar frig eich rhestr o dabiau. De-gliciwch ar dab i'w binio, yna dewis Pinio Tab.
 sidebar-pins-callout-cta-button = Pinio Tab
 
 ## Sidebar Onboarding Strings
@@ -96,7 +96,7 @@ sidebar-customization-callout-1-title = Bar Ochr: eich lle ar gyfer offer a thab
 sidebar-customization-callout-1-subtitle = Mae bar ochr { -brand-product-name } yn rhoi mynediad cyflym i chi i'ch hanes pori, tabiau o ddyfeisiau eraill, a sgwrsfot AI - i gyd heb adael eich prif olwg.
 sidebar-customization-callout-callout-button = Cyfaddasu'r bar offer
 sidebar-customization-callout-dismiss-button = Cuddio'r bar ochr
-sidebar-customization-callout-2-title = Gwnewch y bar ochr { -brand-product-name } yn iawn i chi
+sidebar-customization-callout-2-title = Gwnewch far ochr { -brand-product-name } yn iawn i chi
 sidebar-customization-callout-2-subtitle = Ychwanegu a thynnu offer. Rhowch eich tabiau yn y bar ochr. Rhowch gynnig ar sgwrsfot AI. Chi sydd i benderfynu sut i addasu eich bar ochr.
 
 ## Sidebar Callout Survey Strings

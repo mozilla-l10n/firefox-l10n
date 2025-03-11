@@ -101,12 +101,20 @@ vertical-tabs-callout-1-title = Jste zahlceni velkým množstvím panelů?
 vertical-tabs-callout-1-subtitle = Vyzkoušejte nové vertikální rozložení karet a rychle prohledejte seznam panelů. První testeři hlásí, že jim toto rozložení umožňuje lepší organizaci. Přepnout můžete kdykoliv.
 vertical-tabs-callout-1-cta-button = Vyzkoušejte svislé panely
 vertical-tabs-callout-2-cta-button = Vyzkoušet nyní
+vertical-tabs-callout-2-title = Máte mnoho otevřených panelů? Zkuste svislé panely.
+vertical-tabs-callout-2-subtitle = Toto rozložení usnadňuje rychlé procházení seznamu panelů. Navíc si můžete upravit šířku pro zobrazení více či méně nadpisů panelů.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = Ztrácíte přehled o důležitých panelech?
+sidebar-pins-callout-subtitle = Zkuste si je připnout, abyste je měli na začátku seznamu panelů. Klepněte pravým tlačítkem myši na panel, který chcete připnout, a vyberte možnost Připnout panel.
+sidebar-pins-callout-cta-button = Připnout panel
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Postranní lišta: vaše místo pro nástroje a panely
+sidebar-customization-callout-callout-button = Přizpůsobit postranní lištu
+sidebar-customization-callout-dismiss-button = Skrýt postranní lištu
 
 ## Sidebar Callout Survey Strings
 

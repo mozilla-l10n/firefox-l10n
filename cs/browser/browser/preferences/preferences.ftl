@@ -1265,6 +1265,13 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Adresní řádek
 addressbar-suggest = V adresním řádku našeptávat
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Adresní řádek — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Vyberte typ návrhů, které se zobrazí v adresním řádku.
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Zjistit více
 addressbar-locbar-history-option =
     .label = Historii prohlížení
     .accesskey = H
@@ -1297,7 +1304,13 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Našeptávat návrhy populárních vyhledávání
     .accesskey = p
+addressbar-locbar-suggest-sponsored-option =
+    .label = Návrhy od sponzorů
+addressbar-locbar-suggest-sponsored-desc = Podpořte { -brand-short-name } zobrazením občasných sponzorovaných návrhů.
 addressbar-quickactions-learn-more = Zjistit více
+addressbar-dismissed-suggestions-label = Odmítnuté návrhy
+addressbar-restore-dismissed-suggestions-button =
+    .label = Obnovit
 
 ## Privacy Section - Content Blocking
 
