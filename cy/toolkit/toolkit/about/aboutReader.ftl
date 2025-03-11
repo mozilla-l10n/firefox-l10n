@@ -133,3 +133,5 @@ about-reader-text-alignment-center =
     .title = Alinio testun i'r canol
 about-reader-text-alignment-right =
     .title = Alinio'r testun i'r dde
+about-reader-text-alignment-justify =
+    .title = Unioni testun

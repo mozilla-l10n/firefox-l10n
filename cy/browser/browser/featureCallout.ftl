@@ -87,9 +87,17 @@ vertical-tabs-callout-2-subtitle = Mae'r cynllun hwn yn ei gwneud hi'n hawdd sga
 ## Sidebar Vertical Tabs Pinning Strings
 
 sidebar-pins-callout-title = Colli golwg ar eich tabiau pwysig?
+sidebar-pins-callout-subtitle = Ceisiwch eu pinio, sy'n eu cadw ar frig eich rhestr o dabiau. De-gliciwch ar dab rydych chi am ei binio, yna dewiswch Pinio Tab.
+sidebar-pins-callout-cta-button = Pinio Tab
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Bar Ochr: eich lle ar gyfer offer a thabiau
+sidebar-customization-callout-1-subtitle = Mae bar ochr { -brand-product-name } yn rhoi mynediad cyflym i chi i'ch hanes pori, tabiau o ddyfeisiau eraill, a sgwrsfot AI - i gyd heb adael eich prif olwg.
+sidebar-customization-callout-callout-button = Cyfaddasu'r bar offer
+sidebar-customization-callout-dismiss-button = Cuddio'r bar ochr
+sidebar-customization-callout-2-title = Gwnewch y bar ochr { -brand-product-name } yn iawn i chi
+sidebar-customization-callout-2-subtitle = Ychwanegu a thynnu offer. Rhowch eich tabiau yn y bar ochr. Rhowch gynnig ar sgwrsfot AI. Chi sydd i benderfynu sut i addasu eich bar ochr.
 
 ## Sidebar Callout Survey Strings
 

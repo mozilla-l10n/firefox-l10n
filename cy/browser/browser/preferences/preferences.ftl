@@ -1143,6 +1143,13 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Bar Cyfeiriadau
 addressbar-suggest = Pan yn defnyddio'r bar cyfeiriad, cynnig
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Bar Cyfeiriad — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Dewiswch y math o awgrymiadau sy'n ymddangos yn y bar cyfeiriad.
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Dysgu rhagor
 addressbar-locbar-history-option =
     .label = Hanes pori
     .accesskey = p
@@ -1175,7 +1182,18 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Dangos awgrymiadau chwilio tuedd
     .accesskey = t
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = Awgrymiadau gan { -brand-short-name }
+addressbar-locbar-suggest-nonsponsored-desc = Derbyn awgrymiadau o'r we am eich chwilio.
+addressbar-locbar-suggest-sponsored-option =
+    .label = Awgrymiadau gan ein noddwyr
+addressbar-locbar-suggest-sponsored-desc = Cefnogwch { -brand-short-name } drwy'r awgrymiadau noddedig achlysurol.
 addressbar-quickactions-learn-more = Darllen rhagor
+addressbar-dismissed-suggestions-label = Awgrymiadau wedi'u cau
+addressbar-restore-dismissed-suggestions-description = Adfer awgrymiadau wedi'u cau gan noddwyr a { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button =
+    .label = Adfer
 
 ## Privacy Section - Content Blocking
 
