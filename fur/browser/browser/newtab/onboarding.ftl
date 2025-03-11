@@ -446,6 +446,7 @@ onboarding-checklist-sign-up = Regjistriti o jentre tal to account
 
 tab-groups-onboarding-feature-callout-title = Prove i grups di schedis par vê mancul disordin e aumentâ la concentrazion
 tab-groups-onboarding-feature-callout-subtitle = Organiziti strissinant une schede sore di chê altre par creâ il to prin grup.
+tab-groups-onboarding-create-group-title-2 = Cjate achì i tiei grups di schedis in ogni moment.
 tab-groups-onboarding-saved-groups-title = Se tu sieris un grup di schedis, tu puedis tornâ a vierzilu achì, in ogni moment.
 tab-groups-onboarding-dismiss = Va ben
 

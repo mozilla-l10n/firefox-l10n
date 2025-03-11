@@ -409,6 +409,7 @@ newtab-wallpaper-category-title-celestial = Spazi celest
 newtab-wallpaper-celestial-lunar-eclipse = Eclìs lunâr
 newtab-wallpaper-celestial-earth-night = Foto di gnot de orbite de tiere basse
 newtab-wallpaper-celestial-starry-sky = Cîl di stelis
+newtab-wallpaper-celestial-eclipse-time-lapse = Dade di timp de eclìs lunâr
 
 ## New Tab Weather
 
@@ -504,13 +505,20 @@ newtab-section-confirm-block-section-p1 = Blocâ pardabon cheste sezion?
 newtab-section-confirm-block-section-p2 = La sezion blocade no vignarà plui fûr tai tiei feed.
 newtab-section-block-section-button = Bloche cheste sezion
 newtab-section-cancel-button = No cumò
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = Bloche { $topic }
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Argoments
+newtab-section-manage-topics-button-v2 =
+    .label = Gjestìs argoments
+newtab-section-mangage-topics-followed-topics = Tu vâs daûr
 newtab-section-mangage-topics-button =
     .label = Argoments che tu stâs daûr e blocâts
 newtab-section-mangage-topics-followed-topics-subtitle = Argoments che tu stâs daûr
 newtab-section-mangage-topics-followed-topics-empty-state = No tu sês ancjemò daûr a nissun argoment.
+newtab-section-mangage-topics-blocked-topics = Blocât
 newtab-section-mangage-topics-blocked-topics-subtitle = Argoments blocâts
 newtab-section-mangage-topics-blocked-topics-empty-state = No tu âs ancjemò blocât nissun argoment.

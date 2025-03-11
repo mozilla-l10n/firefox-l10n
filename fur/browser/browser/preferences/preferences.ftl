@@ -1154,7 +1154,18 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Mostre sugjeriments di ricercje di tindince
     .accesskey = t
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = Sugjeriments di { -brand-short-name }
+addressbar-locbar-suggest-nonsponsored-desc = Ricêf sugjeriments dal web relatîfs ae tô ricercje.
+addressbar-locbar-suggest-sponsored-option =
+    .label = Sugjeriments dai sponsors
+addressbar-locbar-suggest-sponsored-desc = Supuarte { -brand-short-name } cun sugjeriments sponsorizâts ocasionâi.
 addressbar-quickactions-learn-more = Plui informazions
+addressbar-dismissed-suggestions-label = Sugjeriments ignorâts
+addressbar-restore-dismissed-suggestions-description = Ripristine i sugjeriments ignorâts dai sponsors e di { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button =
+    .label = Ripristine
 
 ## Privacy Section - Content Blocking
 

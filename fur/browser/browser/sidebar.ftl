@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = Chatbot IA
 menu-view-review-checker =
     .label = Verifiche recensions
+menu-view-contextual-password-manager =
+    .label = Passwords
 sidebar-options-menu-button =
     .title = Vierç menù
 
@@ -58,6 +60,9 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Slargje la sbare laterâl passant sore cul mouse
+expand-on-hover-message =
+    .heading = Slargjament passant sore cul mouse disponibil ca di pôc
+    .message = Intun inzornament futûr tu rivarâs a slargjâ la sbare laterâl passanti parsore cul mouse.
 
 ## Labels for sidebar context menu items
 
@@ -75,6 +80,12 @@ sidebar-context-menu-bookmark-tab =
     .label = Zonte schede tai segnelibris…
 sidebar-context-menu-copy-link =
     .label = Copie colegament
+sidebar-context-menu-hide-sidebar =
+    .label = Plate la sbare laterâl
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Ative schedis verticâls
+sidebar-context-menu-customize-sidebar =
+    .label = Personalize sbare laterâl
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
@@ -99,6 +110,8 @@ sidebar-menu-customize-label =
     .label = Personalize sbare laterâl
 sidebar-menu-review-checker-label =
     .label = Verifiche recensions
+sidebar-menu-contextual-password-manager-label =
+    .label = Passwords
 
 ## Tooltips for sidebar menu items.
 
@@ -139,6 +152,8 @@ sidebar-menu-syncedtabs-header =
     .heading = Schedis di altris dispositîfs
 sidebar-menu-bookmarks-header =
     .heading = Segnelibris
+sidebar-menu-cpm-header =
+    .heading = Passwords
 sidebar-panel-header-close-button =
     .tooltiptext = Siere
 
