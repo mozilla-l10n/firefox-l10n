@@ -466,3 +466,5 @@ multi-profile-callout-cta = Buat profil
 
 # If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
 desktop-to-mobile-headline = Unduh, sinkronkan, dan mulai!
+dismiss-button-label = Tutup
+sync-to-mobile-button-label = Sinkronkan ke ponsel
