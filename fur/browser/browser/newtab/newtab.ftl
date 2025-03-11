@@ -321,6 +321,7 @@ newtab-wallpaper-custom-color = Sielç un colôr
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = La imagjin e va fûr de dimension massime ametude ({ $file_size } MB). Prove a cjariâ un file plui piçul.
+newtab-wallpaper-error-file-type = No rivìn a cjariâ il to file. Torne prove cuntun altri gjenar di file.
 newtab-wallpaper-light-red-panda = Panda ros
 newtab-wallpaper-light-mountain = Montagne blancje
 newtab-wallpaper-light-sky = Cîl cun nui viole e rose
@@ -364,6 +365,10 @@ newtab-wallpaper-abstract-purple = Formis viole
 newtab-wallpaper-abstract-orange = Formis naranç
 newtab-wallpaper-gradient-orange = Gradient naranç e rose
 newtab-wallpaper-abstract-blue-purple = Formis blu e viole
+newtab-wallpaper-abstract-white-curves = Blanc cun curvis sfumadis
+newtab-wallpaper-abstract-purple-green = Sfumadure di lûs viole e verde
+newtab-wallpaper-abstract-blue-purple-waves = Formis ondadis blu e viole
+newtab-wallpaper-abstract-black-waves = Formis ondadis neris
 
 ## Celestial
 
@@ -374,6 +379,12 @@ newtab-wallpaper-storm-sky = Cîl di tampieste
 newtab-wallpaper-sky-with-pink-clouds = Cîl cun nui rose
 newtab-wallpaper-red-panda-yawns-in-a-tree = Panda ros che al sossede suntun arbul
 newtab-wallpaper-white-mountains = Montagnis blancjis
+newtab-wallpaper-hot-air-balloons = Mongolfieris cun colôrs assortîts cjapadis in plen dì
+newtab-wallpaper-starry-canyon = Gnot stelade blu
+newtab-wallpaper-suspension-bridge = Fotografie di un puint grîs sospindût fate vie pal dì
+newtab-wallpaper-sand-dunes = Dunis di savalon blanc
+newtab-wallpaper-palm-trees = Sacume di palme di coco cjapade vie pe ore di aur
+newtab-wallpaper-forest-trees = Arbui cuvierts de fumate
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -391,6 +402,13 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Spazi celest
+newtab-wallpaper-celestial-lunar-eclipse = Eclìs lunâr
+newtab-wallpaper-celestial-earth-night = Foto di gnot de orbite de tiere basse
+newtab-wallpaper-celestial-starry-sky = Cîl di stelis
 
 ## New Tab Weather
 
