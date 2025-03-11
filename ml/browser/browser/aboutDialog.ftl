@@ -4,12 +4,12 @@
 
 aboutDialog-title =
     .title = { -brand-full-name } നെ കുറിച്ച്
-releaseNotes-link = പുതിയതെന്തെല്ലാം
+releaseNotes-link = പുതിയതെന്താണ്
 update-checkForUpdatesButton =
-    .label = പുതുക്കലുകള്‍ക്കായി പരിശോധിക്കൂ
+    .label = അപ്ഡേറ്റുകൾക്കായി പരിശോധിക്കുക
     .accesskey = പ
 update-updateButton =
-    .label = ഫയലുകള്‍ വേണ്ടവിധത്തില്‍ നവീകരിക്കൻ വീണ്ടും പുനരാരംഭിക്കുക { -brand-shorter-name }
+    .label = അപ്ഡേറ്റ് ചെയ്യാൻ പുനരാരംഭിക്കുക { -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = പുതുക്കലുകള്‍ക്കായി പരിശോധിക്കുന്നു...
 

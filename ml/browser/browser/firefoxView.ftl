@@ -35,6 +35,7 @@ firefoxview-tabpickup-step-signin-primarybutton = തുടരുക
 firefoxview-syncedtabs-signin-header-2 = എല്ലാ ഉപകരണങ്ങളിലും താങ്ങളുടെ { -brand-product-name }
 firefoxview-syncedtabs-signin-primarybutton-2 = പ്രവേശിക്കുക
 firefoxview-syncedtabs-signin-header = എവിടെനിന്നും ടാബുകൾ എടുക്കുക
+firefoxview-syncedtabs-signin-description = നിങ്ങൾ { -brand-product-name } ഉപയോഗിക്കുന്നിടത്തെല്ലാം നിങ്ങളുടെ ടാബുകൾ കാണുന്നതിന്, നിങ്ങളുടെ അക്കൗണ്ടിലേക്ക് സൈൻ ഇൻ ചെയ്യുക. നിങ്ങൾക്ക് അക്കൗണ്ട് ഇല്ലെങ്കിൽ, സൈൻ അപ്പ് ചെയ്യുന്നതിനുള്ള ഘട്ടങ്ങളിലൂടെ ഞങ്ങൾ നിങ്ങളെ കൊണ്ടുപോകും.
 firefoxview-syncedtabs-signin-primarybutton = പ്രവേശിക്കുക അല്ലെങ്കിൽ അംഗത്വം എടുക്കുക
 firefoxview-tabpickup-adddevice-learn-how = എങ്ങനെയെന്നറിയാം
 firefoxview-tabpickup-adddevice-primarybutton = താങ്ങളുടെ ഫോണിൽ { -brand-product-name } നേടുക

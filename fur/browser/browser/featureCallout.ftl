@@ -78,15 +78,26 @@ sidebar-button-callout-vertical-tabs = Par visualizâ lis schedis, selezione il 
 ## Sidebar Vertical Tabs Strings
 
 vertical-tabs-callout-1-title = Sêstu somerzût/somerzude di masse schedis?
+vertical-tabs-callout-1-subtitle = Prove la nestre gnove disposizion cu lis schedis verticâls par esaminâ intun lamp la liste des schedis. Chei che le àn provade a disin che la disposizion verticâl ju jude a sintîsi plui organizâts. Tu puedis cambiâ disposizion cuant che tu vûs.
 vertical-tabs-callout-1-cta-button = Prove lis schedis verticâls
 vertical-tabs-callout-2-cta-button = Prove daurman
+vertical-tabs-callout-2-title = Tegnistu simpri tantis schedis viertis? Prove lis schedis verticâls.
+vertical-tabs-callout-2-subtitle = Cheste disposizion ti permet di esaminâ intun lamp la liste des schedis viertis. Sore, tu puedis regolâ la largjece par mostrâ plui o mancul test dai titui des schedis.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = Pierdistu il segn des schedis plui impuartantis?
+sidebar-pins-callout-subtitle = Prove a fissâlis, in chest mût tu lis tegnis simpri insom de liste des schedis. Fâs clic cul boton diestri dal mouse suntune schede, duncje sielç Fisse schede.
 sidebar-pins-callout-cta-button = Fisse schede
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Sbare laterâl: il puest miôr par struments e schedis
+sidebar-customization-callout-1-subtitle = La sbare laterâl di { -brand-product-name } ti permet di acedi in mût svelt ae cronologjie di navigazion, aes schedis di altris dispositîfs e un chatbot cun inteligjence artificiâl, dut cence lâ fûr de viodude principâl.
+sidebar-customization-callout-callout-button = Personalize sbare laterâl
+sidebar-customization-callout-dismiss-button = Plate sbare laterâl
+sidebar-customization-callout-2-title = Personalize la sbare laterâl di { -brand-product-name }
+sidebar-customization-callout-2-subtitle = Zonte e gjave struments. Met lis tôs schedis te sbare laterâl. Prove un chatbot cun inteligjence artificiâl. Ti sta a ti decidi cemût personalizâ la sbare laterâl.
 
 ## Sidebar Callout Survey Strings
 

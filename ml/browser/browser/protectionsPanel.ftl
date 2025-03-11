@@ -83,6 +83,7 @@ protections-panel-settings-label = പരിരക്ഷണ ക്രമീക�
 
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = പ്രവേശന തലങ്ങൾ
+protections-panel-site-not-working-view-issue-list-forms = ഫോമുകൾ
 protections-panel-site-not-working-view-issue-list-payments = പണമടക്കൽ
 protections-panel-site-not-working-view-issue-list-comments = അഭിപ്രായങ്ങൾ
 protections-panel-site-not-working-view-issue-list-videos = ദൃശ്യങ്ങൾ

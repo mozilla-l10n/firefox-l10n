@@ -316,6 +316,11 @@ newtab-custom-settings = Gjestìs plui impostazions
 
 newtab-wallpaper-title = Fonts
 newtab-wallpaper-reset = Ripristine predefinît
+newtab-wallpaper-upload-image = Cjame une imagjin
+newtab-wallpaper-custom-color = Sielç un colôr
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = La imagjin e va fûr de dimension massime ametude ({ $file_size } MB). Prove a cjariâ un file plui piçul.
 newtab-wallpaper-light-red-panda = Panda ros
 newtab-wallpaper-light-mountain = Montagne blancje
 newtab-wallpaper-light-sky = Cîl cun nui viole e rose
