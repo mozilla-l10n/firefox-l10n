@@ -77,6 +77,7 @@ sidebar-button-callout-vertical-tabs = Par visualizâ lis schedis, selezione il 
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = Sêstu somerzût/somerzude di masse schedis?
 vertical-tabs-callout-1-cta-button = Prove lis schedis verticâls
 vertical-tabs-callout-2-cta-button = Prove daurman
 
