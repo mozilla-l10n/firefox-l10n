@@ -1165,7 +1165,14 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Ehechauka jehekarã ojeporuvévape
     .accesskey = t
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = { -brand-short-name } ñemoñe’ẽ
+addressbar-locbar-suggest-nonsponsored-desc = Erekóta ñanduti ñemoñe’ẽ ojokupytýva rehekáva ndive.
+addressbar-locbar-suggest-sponsored-option =
+    .label = Pytyvõhára ñemoñe’ẽ
 addressbar-quickactions-learn-more = Kuaave
+addressbar-dismissed-suggestions-label = Ñemoñe’ẽ mboykepyre
 addressbar-restore-dismissed-suggestions-button =
     .label = Mbojevy
 

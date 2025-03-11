@@ -129,3 +129,5 @@ about-reader-text-alignment-center =
     .title = Inlinee tal mieç il test
 about-reader-text-alignment-right =
     .title = Inlinee a diestre il test
+about-reader-text-alignment-justify =
+    .title = Justifiche il test

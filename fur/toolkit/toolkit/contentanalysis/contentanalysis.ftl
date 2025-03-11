@@ -58,6 +58,10 @@ contentanalysis-error-message-upload-file = Il cjariament in rêt di “{ $filen
 contentanalysis-error-message-dropped-text = Il “strissine e mole” al è stât dineât.
 contentanalysis-error-message-clipboard = Il “tache” al è stât dineât.
 contentanalysis-error-message-print = Il “stampe” al è stât dineât.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
+contentanalysis-timeout-block-error-message-content = La conession a { $agent } e je scjadude. { $contentName } al è stât blocât.
 contentanalysis-block-dialog-title-upload-file = No tu âs il permès par cjariâ in rêt chest file
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
