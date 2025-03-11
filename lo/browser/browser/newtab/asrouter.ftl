@@ -218,6 +218,8 @@ fxa-sync-cfr-secondary = ເຕືອນຂ້ອຍໃນພາຍຫຼັງ
 ## Device Migration FxA Spotlight
 
 device-migration-fxa-spotlight-getting-new-device-header-2 = ອຸປະກອນໃຫມ່ໃນອະນາຄົດຂອງເຈົ້າບໍ?
+device-migration-fxa-spotlight-getting-new-device-primary-button = ວິ​ທີ​ການ​ສໍາ​ຮອງ​ຂໍ້​ມູນ​ຂອງ​ຂ້ອຍ
+device-migration-fxa-spotlight-sync-header = ຄົ້ນຫາໂດຍບໍ່ພາດຈັງຫວະ
 
 ## Set as Default PDF Reader Infobar
 

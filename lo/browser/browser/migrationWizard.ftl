@@ -193,6 +193,10 @@ migration-wizard-progress-success-favorites = { $quantity } ລາຍການ�
 ## browsers and installs the corresponding (matching) extensions compatible
 ## with Firefox, if available.
 
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = ບໍ່ມີສ່ວນຂະຫຍາຍທີ່ກົງກັນ
+migration-wizard-progress-extensions-addons-link = ຄົ້ນຫາສ່ວນຂະຫຍາຍສໍາລັບ { -brand-short-name }
 
 ##
 
