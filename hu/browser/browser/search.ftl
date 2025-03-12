@@ -41,3 +41,17 @@ remove-search-engine-button = OK
 install-search-engine = Hozzáadja keresőszolgáltatásként ezt: { $engineName }?
 install-search-engine-add = Hozzáadás
 install-search-engine-no = Nem
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-window =
+    .title = Keresőszolgáltatás hozzáadása
+    .style = min-width: 32em;
+add-engine-button = Egyéni keresőszolgáltatás hozzáadása
+add-engine-name = Keresőszolgáltatás neve
+add-engine-url = Keresőszolgáltatás webcíme, írja a %s szöveget a keresőkifejezés helyére
+add-engine-dialog =
+    .buttonlabelaccept = Keresőszolgáltatás hozzáadása
+    .buttonaccesskeyaccept = a
+engine-name-exists = Már létezik ilyen nevű keresőszolgáltatás
