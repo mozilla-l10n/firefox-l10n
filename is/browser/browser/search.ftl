@@ -41,3 +41,17 @@ remove-search-engine-button = Í lagi
 install-search-engine = Bæta við { $engineName } sem leitarvél?
 install-search-engine-add = Bæta við
 install-search-engine-no = Nei
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-window =
+    .title = Bæta við leitarvél
+    .style = min-width: 32em;
+add-engine-button = Bæta við sérsniðinni leitarvél
+add-engine-name = Heiti leitarvélar
+add-engine-url = Slóð á leitarvél, notaðu %s í stað leitarorðsins
+add-engine-dialog =
+    .buttonlabelaccept = Bæta við leitarvél
+    .buttonaccesskeyaccept = a
+engine-name-exists = Leitarvél með því nafni er þegar til
