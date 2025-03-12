@@ -13,6 +13,7 @@ neterror-captive-portal-page-title = Logga in till nätverk
 neterror-dns-not-found-title = Servern hittades inte
 neterror-malformed-uri-page-title = Ogiltig URL
 general-body-title = Var försiktig. Något ser inte rätt ut.
+problem-with-this-site-title = Det verkar finnas ett problem med den här sidan
 
 ## Error page actions
 

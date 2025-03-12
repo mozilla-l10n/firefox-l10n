@@ -25,3 +25,7 @@ experimental-features-group-webpage-display =
     .label = Visning av webbsida
 experimental-features-group-customize-browsing =
     .label = Anpassa din surfning
+# Contextual Password Manager in sidebar
+experimental-features-contextual-password-manager =
+    .label = Lösenord i sidofältet
+experimental-features-contextual-password-manager-description = Kom åt dina lösenord direkt från sidofältet. Inget mer letande eller återställning av lösenord när du försöker logga in. För att använda den här funktionen väljer du lösenord i sidofältet. Gå sedan till dina allmänna inställningar och under webbläsarlayout, välj visa sidofält. Anpassa sedan sidofältet genom att välja lösenord. Om du provar det, <a data-l10n-name="connect">berätta för oss vad du tycker</a>.

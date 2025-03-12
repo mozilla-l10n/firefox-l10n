@@ -277,6 +277,16 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Drasty { -brand-short-name } w <a data-l10n-name="themes-link">Rozšěrjenja a drasty</a> rjadować
+preferences-contrast-control-header = Kontrastowe wodźenje
+preferences-contrast-control-use-platform-settings =
+    .label = Awtomatiski (systemowe nastajenja wužiwać)
+    .accesskey = A
+preferences-contrast-control-off =
+    .label = Wupinjeny
+    .accesskey = u
+preferences-contrast-control-custom =
+    .label = Swójski
+    .accesskey = S
 preferences-colors-header = Barby
 preferences-colors-description = Standardne barby { -brand-short-name } za tekst, pozadki websydłow a wotkazy přepisać.
 preferences-colors-manage-button =

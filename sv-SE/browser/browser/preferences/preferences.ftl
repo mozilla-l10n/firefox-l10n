@@ -271,6 +271,17 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Hantera { -brand-short-name } teman i <a data-l10n-name="themes-link">Tillägg och teman</a>
+preferences-contrast-control-header = Kontrastkontroll
+preferences-contrast-control-description = Webbplatser har en mängd olika förgrunds- och bakgrundsfärger. Konfigurera { -brand-short-name } att använda samma färger på alla webbplatser för förbättrad läsbarhet.
+preferences-contrast-control-use-platform-settings =
+    .label = Automatisk (använd systeminställningar)
+    .accesskey = A
+preferences-contrast-control-off =
+    .label = Av
+    .accesskey = A
+preferences-contrast-control-custom =
+    .label = Anpassad
+    .accesskey = A
 preferences-colors-header = Färger
 preferences-colors-description = Åsidosätt { -brand-short-name }s standardfärger för text, webbplatsbakgrunder och länkar.
 preferences-colors-manage-button =
