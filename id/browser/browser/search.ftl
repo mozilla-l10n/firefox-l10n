@@ -41,3 +41,10 @@ remove-search-engine-button = Oke
 install-search-engine = Tambahkan { $engineName } sebagai mesin pencari?
 install-search-engine-add = Tambahkan
 install-search-engine-no = Tidak
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-button = Tambahkan Mesin Khusus
+add-engine-name = Nama mesin pencari
+add-engine-url = URL mesin, gunakan %s sebagai pengganti istilah pencarian
