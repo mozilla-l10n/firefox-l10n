@@ -41,3 +41,17 @@ remove-search-engine-button = OK
 install-search-engine = Добавить { $engineName } в качестве поисковой системы?
 install-search-engine-add = Добавить
 install-search-engine-no = Нет
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-window =
+    .title = Добавить поисковую систему
+    .style = min-width: 32em;
+add-engine-button = Добавить персональную поисковую систему
+add-engine-name = Имя поисковой системы
+add-engine-url = URL-адрес системы с параметром %s вместо запроса
+add-engine-dialog =
+    .buttonlabelaccept = Добавить систему
+    .buttonaccesskeyaccept = и
+engine-name-exists = Система с таким именем уже существует
