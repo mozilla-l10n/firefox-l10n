@@ -41,3 +41,17 @@ remove-search-engine-button = OK
 install-search-engine = Adder { $engineName } como motor de recerca?
 install-search-engine-add = Adder
 install-search-engine-no = No
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-window =
+    .title = Adder motor de recerca
+    .style = min-width: 32em;
+add-engine-button = Adder motor personalisate
+add-engine-name = Nomine del motor de recerca
+add-engine-url = URL del motor, usa %s in loco del termino de recerca
+add-engine-dialog =
+    .buttonlabelaccept = Adder motor
+    .buttonaccesskeyaccept = m
+engine-name-exists = Un motor con iste nomine jam existe.
