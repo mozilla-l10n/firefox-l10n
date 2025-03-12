@@ -445,6 +445,11 @@ onboarding-checklist-sign-up = Εγγραφή ή σύνδεση σε λογαρ�
 
 tab-groups-onboarding-feature-callout-title = Δοκιμάστε τις ομάδες καρτελών για λιγότερη ακαταστασία, περισσότερη συγκέντρωση
 tab-groups-onboarding-feature-callout-subtitle = Οργανωθείτε σύροντας μια καρτέλα πάνω σε κάποια άλλη για να δημιουργήσετε την πρώτη σας ομάδα.
+tab-groups-onboarding-create-group-title-2 = Βρείτε τις ομάδες καρτελών σας εδώ, ανά πάσα στιγμή.
+tab-groups-onboarding-create-group-no-alltabs-button-title = Βρείτε τις ομάδες σας αναζητώντας τες στη γραμμή διευθύνσεων.
+tab-groups-onboarding-saved-groups-title-2 = Όταν κλείσετε μια ομάδα καρτελών, μπορείτε να την ανοίξετε ξανά εδώ, ανά πάσα στιγμή.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Βρείτε τις ομάδες που κλείσατε αναζητώντας τες στη γραμμή διευθύνσεων.
+tab-groups-onboarding-session-restore-title = Ανοίξτε ξανά τις ομάδες καρτελών σας εδώ, ανά πάσα στιγμή.
 tab-groups-onboarding-saved-groups-title = Αν κλείσετε μια ομάδα καρτελών, μπορείτε να την ανοίξετε ξανά εδώ ανά πάσα στιγμή.
 tab-groups-onboarding-dismiss = OK
 

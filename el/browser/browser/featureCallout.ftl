@@ -77,17 +77,25 @@ sidebar-button-callout-vertical-tabs = Για να εμφανιστούν οι �
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-cta-button = Δοκιμή κάθετων καρτελών
 vertical-tabs-callout-2-cta-button = Δοκιμή τώρα
+vertical-tabs-callout-2-title = Έχετε πολλές ανοικτές καρτέλες; Δοκιμάστε την κάθετη διάταξη.
+vertical-tabs-callout-2-subtitle = Αυτή η διάταξη διευκολύνει τη γρήγορη επισκόπηση της λίστας των καρτελών σας. Μπορείτε επίσης να προσαρμόσετε το πλάτος της για να βλέπετε μεγαλύτερα ή μικρότερα τμήματα των τίτλων.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = Χάνετε τις σημαντικές σας καρτέλες;
+sidebar-pins-callout-subtitle = Δοκιμάστε να τις καρφιτσώσετε, ώστε να παραμένουν στο πάνω μέρος της λίστας των καρτελών. Κάντε δεξί κλικ στην καρτέλα που θέλετε να καρφιτσώσετε και επιλέξτε «Καρφίτσωμα καρτέλας».
 sidebar-pins-callout-cta-button = Καρφίτσωμα καρτέλας
 
 ## Sidebar Onboarding Strings
 
 sidebar-customization-callout-1-title = Πλαϊνή γραμμή: ένα σημείο για όλα τα εργαλεία και τις καρτέλες σας
+sidebar-customization-callout-1-subtitle = Η πλαϊνή γραμμή του { -brand-product-name } παρέχει γρήγορη πρόσβαση στο ιστορικό περιήγησης, σε καρτέλες από άλλες συσκευές και σε ένα chatbot ΤΝ — όλα αυτά χωρίς να απομακρυνθείτε από την κύρια προβολή.
 sidebar-customization-callout-callout-button = Προσαρμογή πλαϊνής γραμμής
 sidebar-customization-callout-dismiss-button = Απόκρυψη πλαϊνής γραμμής
+sidebar-customization-callout-2-title = Κάντε την πλαϊνή γραμμή του { -brand-product-name } δική σας
+sidebar-customization-callout-2-subtitle = Προσθέστε και αφαιρέστε εργαλεία. Τοποθετήστε τις καρτέλες σας στην πλαϊνή γραμμή. Δοκιμάστε ένα chatbot ΤΝ. Εσείς επιλέγετε πώς θα προσαρμόσετε την πλαϊνή γραμμή σας.
 
 ## Sidebar Callout Survey Strings
 

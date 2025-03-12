@@ -1129,6 +1129,8 @@ addressbar-header = Γραμμή διευθύνσεων
 addressbar-suggest = Κατά τη χρήση της γραμμής διευθύνσεων, να γίνονται προτάσεις από
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Γραμμή διευθύνσεων — { -firefox-suggest-brand-name(case: "nom") }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Επιλέξτε τον τύπο των προτάσεων που θα εμφανίζονται στη γραμμή διευθύνσεων.
 # When Firefox Suggest is enabled, a "Learn more" link appears at the end of
 # `addressbar-suggest-firefox-suggest`.
 addressbar-locbar-firefox-suggest-learn-more = Μάθετε περισσότερα
@@ -1167,9 +1169,13 @@ addressbar-locbar-showtrendingsuggestions-option =
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Προτάσεις από το { -brand-short-name }
+addressbar-locbar-suggest-nonsponsored-desc = Λάβετε προτάσεις από το διαδίκτυο που σχετίζονται με την αναζήτησή σας.
 addressbar-locbar-suggest-sponsored-option =
     .label = Προτάσεις από χορηγούς
+addressbar-locbar-suggest-sponsored-desc = Υποστηρίξτε το { -brand-short-name } με περιστασιακές προτάσεις από χορηγούς.
 addressbar-quickactions-learn-more = Μάθετε περισσότερα
+addressbar-dismissed-suggestions-label = Απορριφθείσες προτάσεις
+addressbar-restore-dismissed-suggestions-description = Επαναφέρετε τις απορριφθείσες προτάσεις από χορηγούς και το { -brand-short-name }.
 addressbar-restore-dismissed-suggestions-button =
     .label = Επαναφορά
 
