@@ -77,6 +77,8 @@ sidebar-button-callout-vertical-tabs = Για να εμφανιστούν οι �
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = Έχετε κατακλυστεί από καρτέλες;
+vertical-tabs-callout-1-subtitle = Δοκιμάστε τη νέα διάταξη κάθετων καρτελών για γρήγορη επισκόπηση της λίστας καρτελών. Οι δοκιμαστές αναφέρουν ότι αυτή η διάταξη τούς βοηθά με την οργάνωση των καρτελών. Μπορείτε να κάνετε εναλλαγή ανά πάσα στιγμή.
 vertical-tabs-callout-1-cta-button = Δοκιμή κάθετων καρτελών
 vertical-tabs-callout-2-cta-button = Δοκιμή τώρα
 vertical-tabs-callout-2-title = Έχετε πολλές ανοικτές καρτέλες; Δοκιμάστε την κάθετη διάταξη.
