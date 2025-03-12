@@ -39,3 +39,17 @@ remove-search-engine-button = ശരി
 install-search-engine = { $engineName }-നെ ഒരു തിരയൽയന്ത്രമായി ചേർക്കട്ടെ?
 install-search-engine-add = ചേര്‍ക്കുക
 install-search-engine-no = ഇല്ല
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-window =
+    .title = തിരയൽയന്ത്രം ചേൎക്കുക
+    .style = min-width: 32em;
+add-engine-button = ഇഷ്‌ടാനുസൃത തിരയൽ യന്ത്രം ചേൎക്കുക
+add-engine-name = തിരയൽ യന്ത്രത്തിന്റെ പേരു്
+add-engine-url = തിരച്ചിൽ യന്ത്ര URL, തിരയൽ പദത്തിന് പകരം %s ഉപയോഗിക്കുക
+add-engine-dialog =
+    .buttonlabelaccept = തിരയൽയന്ത്രം ചേൎക്കുക
+    .buttonaccesskeyaccept = A
+engine-name-exists = അതേ പേരിലുള്ള ഒരു തിരയൽ യന്ത്രം ഇതിനകം നിലവിലുണ്ട്
