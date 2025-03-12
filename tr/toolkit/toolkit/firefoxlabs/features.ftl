@@ -4,40 +4,9 @@
 
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-css-masonry2 =
-    .label = CSS: Masonry Layout
-experimental-features-css-masonry-description = Deneysel CSS Masonry Layout desteğini etkinleştirir. Bu özellik hakkında daha detaylı bilgi için <a data-l10n-name="explainer">anlatıcıya</a> bakabilirsiniz. Geri bildirimde bulunmak için <a data-l10n-name="w3c-issue">GitHub’daki bu soruna</a> veya <a data-l10n-name="bug">bu bug’a</a> yorum yapabilirsiniz.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-web-gpu2 =
-    .label = Web API: WebGPU
-experimental-features-web-gpu-description3 = <a data-l10n-name="wikipedia-webgpu">WebGPU API</a>, kullanıcının cihazının veya bilgisayarının <a data-l10n-name="wikipedia-gpu">grafik işlem birimini (GPU)</a> kullanarak hesaplama yapmak ve grafik render’lamak için alt seviye destek sağlar. <a data-l10n-name="spec">Şartnamenin</a> ilk sürümü tamamlanmak üzeredir. Daha fazla bilgi için <a data-l10n-name="bugzilla">bug 1616739</a>’a bakabilirsiniz.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-media-jxl =
     .label = Ortam: JPEG XL
 experimental-features-media-jxl-description = Bu özellik etkinleştirildiğinde { -brand-short-name } uygulaması JPEG XL (JXL) biçimini destekler. Bu, geleneksel JPEG dosyalarından kayıpsız çevirmeyi destekleyen gelişmiş bir resim dosyası biçimidir. Daha fazla bilgi için <a data-l10n-name="bugzilla">bug 1539075</a>'e bakabilirsiniz.
-experimental-features-devtools-compatibility-panel =
-    .label = Geliştirici Araçları: Uyumluluk Paneli
-experimental-features-devtools-compatibility-panel-description = Sayfa Denetçisi için, uygulamanızın tarayıcılar arası uyumluluk durumunu ayrıntılı olarak gösteren yan panel. Daha fazla bilgi için bkz. <a data-l10n-name="bugzilla">bug 1584464</a>.
-# Do not translate 'SameSite', 'Lax' and 'None'.
-experimental-features-cookie-samesite-none-requires-secure2 =
-    .label = Çerezler: SameSite=None, secure özniteliği gerektirsin
-experimental-features-cookie-samesite-none-requires-secure2-description = “SameSite=None” özniteliğine sahip çerezler secure özniteliği gerektirir. Bu özellik “Çerezler: Varsayılan olarak SameSite=Lax” deneyini gerektirir.
-# about:home should be kept in English, as it refers to the the URI for
-# the internal default home page.
-experimental-features-abouthome-startup-cache =
-    .label = about:home başlangıç önbelleği
-experimental-features-abouthome-startup-cache-description = Başlangıçta varsayılan olarak yüklenen about:home belgesi için önbellek. Bu önbelleğin amacı, başlangıç performansını artırmaktır.
-# "Service Worker" is an API name and is usually not translated.
-experimental-features-devtools-serviceworker-debugger-support =
-    .label = Geliştirici araçları: Service Worker hata ayıklama
-# "Service Worker" is an API name and is usually not translated.
-experimental-features-devtools-serviceworker-debugger-support-description = Hata ayıklama panelinde Service Worker’lar için deneysel destek sağlar. Bu özellik geliştirici araçlarını yavaşlatabilir ve bellek tüketimini artırabilir.
-# WebRTC global mute toggle controls
-experimental-features-webrtc-global-mute-toggles =
-    .label = WebRTC global ses kapatma düğmeleri
-experimental-features-webrtc-global-mute-toggles-description = WebRTC genel paylaşım göstergesine kullanıcıların mikrofonlarını ve kameralarını her yerde sessize almalarını sağlayan düğmeleri ekler.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
@@ -56,4 +25,3 @@ experimental-features-group-webpage-display =
     .label = Web sayfası görünümü
 experimental-features-group-customize-browsing =
     .label = Gezintinizi özelleştirin
-experimental-features-group-customize-browsing-description = Bu özellikleri denerseniz <a data-l10n-name="connect">fikirlerinizi Connect’te paylaşabilirsiniz</a>

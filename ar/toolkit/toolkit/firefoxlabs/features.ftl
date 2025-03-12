@@ -4,18 +4,8 @@
 
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-css-masonry2 =
-    .label = CSS: Masonry Layout
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-web-gpu2 =
-    .label = Web API: WebGPU
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-media-jxl =
     .label = Media: JPEG XL
-experimental-features-devtools-compatibility-panel =
-    .label = أدوات المطوّرين: لوحة التوافقية
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp

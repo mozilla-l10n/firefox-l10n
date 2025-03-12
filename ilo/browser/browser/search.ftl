@@ -24,3 +24,7 @@ opensearch-error-format-desc = Saanna a naisimpa ti { -brand-short-name } ti mak
 ## Variables
 ## $engineName (String) - the name of the search engine to install.
 
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+

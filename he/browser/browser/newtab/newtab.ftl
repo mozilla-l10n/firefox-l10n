@@ -359,7 +359,7 @@ newtab-wallpaper-abstract-orange = צורות כתומות
 newtab-wallpaper-gradient-orange = מעברי צבע כתום וורוד
 newtab-wallpaper-abstract-blue-purple = צורות כחולות וסגולות
 newtab-wallpaper-abstract-white-curves = לבן עם קימורים מוצללים
-newtab-wallpaper-abstract-purple-green = שיפוע אור סגול וירוק
+newtab-wallpaper-abstract-purple-green = מעברי צבע סגול וירוק
 newtab-wallpaper-abstract-blue-purple-waves = צורות גליות בצבע כחול וסגול
 newtab-wallpaper-abstract-black-waves = צורות גליות בצבע שחור
 

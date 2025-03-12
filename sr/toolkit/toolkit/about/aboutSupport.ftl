@@ -25,11 +25,11 @@ security-software-antivirus = Антивирус
 security-software-antispyware = Антиспајвер
 security-software-firewall = Заштитни зид
 features-title =
-    Функције { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] програма { -brand-short-name }
+    { -brand-short-name.gender ->
+        [masculine] Функције { -brand-short-name(case: "gen") }
+        [feminine] Функције { -brand-short-name(case: "gen") }
+        [neuter] Функције { -brand-short-name(case: "gen") }
+       *[other] Функције програма { -brand-short-name }
     }
 features-name = Назив
 features-version = Верзија

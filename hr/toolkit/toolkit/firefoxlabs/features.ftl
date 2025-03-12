@@ -4,25 +4,8 @@
 
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-css-masonry2 =
-    .label = CSS: Masonry raspored
-experimental-features-css-masonry-description = Omogućuje podršku za eksperimentalnu CSS funkciju „Masonry raspored”. Pogledaj <a data-l10n-name="explainer">objašnjenje</a> za opis funkcije. Povratne informacije pošalji u<a data-l10n-name="w3c-issue">ovaj GitHub problem</a> ili <a data-l10n-name="bug">ovu grešku</a>.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-web-gpu2 =
-    .label = Web API: WebGPU
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-media-jxl =
     .label = Mediji: JPEG XL
-experimental-features-devtools-compatibility-panel =
-    .label = Alati za programere: ploča kompatibilnosti
-# "Service Worker" is an API name and is usually not translated.
-experimental-features-devtools-serviceworker-debugger-support =
-    .label = Alati za programere: Otklanjanje grešaka pomoću Service workera
-# "Service Worker" is an API name and is usually not translated.
-experimental-features-devtools-serviceworker-debugger-support-description = Omogućuje eksperimentalnu podršku za Service Workers na ploči „Ispravljač grešaka”. Ova funkcija može usporiti programerske alate i povećati potrošnju memorije.
-experimental-features-webrtc-global-mute-toggles-description = Dodaj WebRTC indikatoru za globalno dijeljenje kontrole koje korisnicima omogućuju da globalno isključe mikrofon i kameru.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
@@ -40,4 +23,3 @@ experimental-features-group-webpage-display =
     .label = Prikaz web stranice
 experimental-features-group-customize-browsing =
     .label = Prilagodi svoje pregledavanje
-experimental-features-group-customize-browsing-description = Ako isprobaš ove funkcije, <a data-l10n-name="connect">podijeli svoje mišljenje na Connectu</a>

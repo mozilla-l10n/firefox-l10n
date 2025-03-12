@@ -338,6 +338,7 @@ policies-error = خطأ
 
 ## Printing section
 
+support-printing-modified-settings = إعدادات الطباعة المعدّلة
 
 ## Remote Settings sections
 

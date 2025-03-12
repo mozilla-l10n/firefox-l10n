@@ -37,3 +37,7 @@ searchbar-icon =
 
 install-search-engine-add = Ɓeydu
 install-search-engine-no = Alaa
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+

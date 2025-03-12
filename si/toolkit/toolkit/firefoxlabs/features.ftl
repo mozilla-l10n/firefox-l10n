@@ -4,24 +4,9 @@
 
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-web-gpu2 =
-    .label = වියමන යෙ.ක්‍ර.මු.: WebGPU
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-media-jxl =
     .label = මාධ්‍ය: JPEG XL
 experimental-features-media-jxl-description = මෙම විශේෂාංගය සක්‍රිය නම්, JPEG XL (JXL) ආකෘතියට { -brand-short-name } සහාය දක්වයි. මෙය සාම්ප්‍රදායික JPEG ගොනු වලින් හානි නොවන සංක්‍රාන්තියකට සහාය දක්වන වැඩිදියුණු කළ රූප ගොනු ආකෘතියකි. තව විස්තර සඳහා <a data-l10n-name="bugzilla">1539075 දෝෂය</a> බලන්න.
-experimental-features-devtools-compatibility-panel =
-    .label = සංවර්ධක මෙවලම්: අනුකූලතා මඬල
-# about:home should be kept in English, as it refers to the the URI for
-# the internal default home page.
-experimental-features-abouthome-startup-cache =
-    .label = about:home ආරම්භක නිහිතය
-# "Service Worker" is an API name and is usually not translated.
-experimental-features-devtools-serviceworker-debugger-support =
-    .label = සංවර්ධක මෙවලම්: සර්විස් වර්කර් නිදොස්කරණය
-# "Service Worker" is an API name and is usually not translated.
-experimental-features-devtools-serviceworker-debugger-support-description = නිදොස්කරණ මඬලේ සර්විස් වර්කර්ස් සඳහා පරීක්‍ෂාත්මක සහාය සබල කරයි. මෙම විශේෂාංගයෙන් සංවර්ධක මෙවලම් මන්දගාමී විය හැකි අතර මතක පරිභෝජනය වැඩි වනු ඇත.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
