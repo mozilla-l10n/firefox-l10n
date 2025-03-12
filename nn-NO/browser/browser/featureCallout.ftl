@@ -88,6 +88,7 @@ sidebar-pins-callout-cta-button = Fest fane
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Sidestolpe: staden din for verktøy og faner
 sidebar-customization-callout-callout-button = Tilpass sidestolpe
 sidebar-customization-callout-dismiss-button = Skjul sidestolpe
 

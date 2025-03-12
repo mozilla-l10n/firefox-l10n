@@ -404,6 +404,8 @@ onboarding-new-horizontal-tabs-label = Faner på toppen
 onboarding-existing-tabs-title = Vertikale faner er her
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title2 = Introduserer vertikale faner
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Prøv med faner på sida. Byt når du vil i sidestolpeinnstillingane.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-existing-vertical-tabs-label = Prøv vertikale faner
 onboarding-flair-text = Nytt!
