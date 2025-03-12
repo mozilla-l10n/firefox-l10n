@@ -67,3 +67,17 @@ remove-search-engine-button = OK
 install-search-engine = Přidat { $engineName } jako vyhledávač?
 install-search-engine-add = Přidat
 install-search-engine-no = Ne
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-window =
+    .title = Přidat vyhledávač
+    .style = min-width: 32em;
+add-engine-button = Přidat vlastní vyhledávač
+add-engine-name = Název vyhledávače
+add-engine-url = URL vyhledávače, dotaz nahraďte „%s“
+add-engine-dialog =
+    .buttonlabelaccept = Přidat vyhledávač
+    .buttonaccesskeyaccept = P
+engine-name-exists = Vyhledávač s tímto názvem už máte nastavený
