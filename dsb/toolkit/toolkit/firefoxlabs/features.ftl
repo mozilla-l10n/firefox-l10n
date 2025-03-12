@@ -25,3 +25,6 @@ experimental-features-group-webpage-display =
     .label = Pokazanje webboka
 experimental-features-group-customize-browsing =
     .label = Pśiměŕśo swój pśeglědowanje
+# Contextual Password Manager in sidebar
+experimental-features-contextual-password-manager =
+    .label = Gronidła w bocnicy

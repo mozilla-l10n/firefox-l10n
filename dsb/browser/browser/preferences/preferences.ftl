@@ -277,6 +277,17 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Drastwy { -brand-short-name } w <a data-l10n-name="themes-link">Rozšyrjenja a drastwy</a> zastojaś
+preferences-contrast-control-header = Kontrastowe wóźenje
+preferences-contrast-control-description = Websedła maju wjelerakosć barwow za prědk a slězynu. Konfigurěrujśo { -brand-short-name }, aby za lěpšu cytajobnosć na wšych websedłach samske barwy wužywał.
+preferences-contrast-control-use-platform-settings =
+    .label = Awtomatiski (systemowe nastajenja wužywaś)
+    .accesskey = A
+preferences-contrast-control-off =
+    .label = Wušaltowany
+    .accesskey = u
+preferences-contrast-control-custom =
+    .label = Swójski
+    .accesskey = S
 preferences-colors-header = Barwy
 preferences-colors-description = Standardne barwy { -brand-short-name } za tekst, slězyny websedłow a wótkaze pśepisaś.
 preferences-colors-manage-button =
