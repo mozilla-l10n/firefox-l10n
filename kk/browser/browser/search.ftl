@@ -41,3 +41,17 @@ remove-search-engine-button = ОК
 install-search-engine = { $engineName } іздеу жүйесі ретінде қосу керек пе?
 install-search-engine-add = Қосу
 install-search-engine-no = Жоқ
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-window =
+    .title = Іздеу жүйесін қосу
+    .style = min-width: 32em;
+add-engine-button = Таңдауыңызша жүйені қосу
+add-engine-name = Іздеу жүйесінің аты
+add-engine-url = Жүйенің URL адресі, ізделетін жолдың орнына %s қолданыңыз
+add-engine-dialog =
+    .buttonlabelaccept = Жүйені қосу
+    .buttonaccesskeyaccept = о
+engine-name-exists = Осылай аталатын іздеу жүйесі бар болып тұр
