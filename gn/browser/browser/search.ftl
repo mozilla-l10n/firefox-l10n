@@ -41,3 +41,17 @@ remove-search-engine-button = MONEĨ
 install-search-engine = ¿Embojuaju { $engineName } jehekaha mongu’eháramo?
 install-search-engine-add = Mbojuaju
 install-search-engine-no = Nahániri
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-window =
+    .title = Embojuaju hekaha
+    .style = min-width: 32em;
+add-engine-button = Embojuaju hekaha momba’epyre
+add-engine-name = Hekaha réra
+add-engine-url = Hekaha URL, eiporu %s ayvureko ehekaséva rendápe
+add-engine-dialog =
+    .buttonlabelaccept = Embojuaju Jehekaha
+    .buttonaccesskeyaccept = A
+engine-name-exists = Oĩma jehekaha ko térape jehaipyre
