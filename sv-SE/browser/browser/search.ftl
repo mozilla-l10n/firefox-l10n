@@ -45,6 +45,9 @@ install-search-engine-no = Nej
 ## These strings are used for the add engine dialog when adding a custom search engine
 ## in settings or when adding an HTML form as a search engine.
 
+add-engine-window =
+    .title = Lägg till sökmotor
+    .style = min-width: 32em;
 add-engine-button = Lägg till anpassad sökmotor
 add-engine-name = Sökmotorns namn
 add-engine-url = Sökmotorns URL, använd %s istället för söktermen
