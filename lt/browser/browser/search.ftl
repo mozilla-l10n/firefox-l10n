@@ -38,3 +38,17 @@ remove-search-engine-button = Gerai
 ## Variables
 ## $engineName (String) - the name of the search engine to install.
 
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-window =
+    .title = Pridėti ieškyklę
+    .style = min-width: 32em;
+add-engine-button = Pridėti tinkintą ieškyklę
+add-engine-name = Ieškyklės pavadinimas
+add-engine-url = Ieškyklės URL, naudokite %s vietoje ieškomo teksto
+add-engine-dialog =
+    .buttonlabelaccept = Pridėti ieškyklę
+    .buttonaccesskeyaccept = P
+engine-name-exists = Ieškyklė tokiu pavadinimu jau yra
