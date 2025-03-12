@@ -13,6 +13,7 @@ neterror-captive-portal-page-title = So pola syće přizjewić
 neterror-dns-not-found-title = Serwer njeje so namakał
 neterror-malformed-uri-page-title = Njepłaćiwy URL
 general-body-title = Budźće kedźbliwy. Něšto w porjadku njeje.
+problem-with-this-site-title = Zda so, zo je problem z tutym sydłom
 
 ## Error page actions
 

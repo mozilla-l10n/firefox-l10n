@@ -278,6 +278,7 @@ preferences-web-appearance-override-warning2 =
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Drasty { -brand-short-name } w <a data-l10n-name="themes-link">Rozšěrjenja a drasty</a> rjadować
 preferences-contrast-control-header = Kontrastowe wodźenje
+preferences-contrast-control-description = Websydła maja wšelakorosć prědkowych a pozadkowych barbow. Konfigurujće { -brand-short-name }, zo byšće za lěpšu čitajomnosć na wšěch websydłach samsne barby wužiwał.
 preferences-contrast-control-use-platform-settings =
     .label = Awtomatiski (systemowe nastajenja wužiwać)
     .accesskey = A

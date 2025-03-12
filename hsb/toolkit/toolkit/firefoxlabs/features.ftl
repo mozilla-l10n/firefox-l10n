@@ -25,3 +25,6 @@ experimental-features-group-webpage-display =
     .label = Pokazanje webstrony
 experimental-features-group-customize-browsing =
     .label = Přiměrće swoje přehladowanje
+# Contextual Password Manager in sidebar
+experimental-features-contextual-password-manager =
+    .label = Hesła w bóčnicy
