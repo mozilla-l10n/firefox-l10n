@@ -56,8 +56,4 @@ experimental-features-group-webpage-display =
     .label = Visualizzazione pagine web
 experimental-features-group-customize-browsing =
     .label = Personalizza la tua navigazione
-# Contextual Password Manager in sidebar
-experimental-features-contextual-password-manager =
-    .label = Password nella barra laterale
-experimental-features-contextual-password-manager-description = Accedi alle tue password direttamente dalla barra laterale. Non dovrai più cercare ovunque o reimpostare le password quando cerchi di accedere a un sito. Per utilizzare questa funzione, attiva l’opzione password nella barra laterale. Quindi vai alle impostazioni generali e, nella sezione “Layout del browser”, seleziona “Mostra barra laterale”. Infine, personalizza la barra laterale selezionando password. Se provi questa funzione, <a data-l10n-name="connect">facci sapere che cosa ne pensi</a>.
 experimental-features-group-customize-browsing-description = Se provi queste funzioni, <a data-l10n-name="connect">facci conoscere la tua opinione su Connect</a>
