@@ -45,6 +45,7 @@ about-logging-preset-media-playback-description = Μονάδες καταγρα�
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Μονάδες καταγραφής για τη διάγνωση κλήσεων WebRTC
 about-logging-preset-webcodecs-label = WebCodecs
+about-logging-preset-webcodecs-description = Μονάδες καταγραφής για τη διάγνωση ζητημάτων των κωδικοποιητών και των αποκωδικοποιητών ήχου και βίντεο WebCodecs, καθώς και των αποκωδικοποιητών εικόνας
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Μονάδες καταγραφής για τη διάγνωση προβλημάτων WebGPU
 about-logging-preset-gfx-label = Γραφικά

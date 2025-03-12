@@ -58,6 +58,10 @@ contentanalysis-error-message-upload-file = Η μεταφόρτωση του α�
 contentanalysis-error-message-dropped-text = Η μεταφορά και απόθεση απορρίφθηκε.
 contentanalysis-error-message-clipboard = Η επικόλληση απορρίφθηκε.
 contentanalysis-error-message-print = Η εκτύπωση απορρίφθηκε.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
+contentanalysis-timeout-block-error-message-content = Το χρονικό όριο της σύνδεσης με το { $agent } έληξε. Το { $contentName } έχει αποκλειστεί.
 contentanalysis-block-dialog-title-upload-file = Δεν επιτρέπεται να μεταφορτώσετε αυτό το αρχείο
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
