@@ -267,6 +267,12 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Handsam { -brand-short-name }-tema i <a data-l10n-name="themes-link">Utvidingar og tema</a>
+preferences-contrast-control-off =
+    .label = Av
+    .accesskey = A
+preferences-contrast-control-custom =
+    .label = Tilpassa
+    .accesskey = T
 preferences-colors-header = Fargar
 preferences-colors-description = Overstyr { -brand-short-name } sine standardfargar for tekst, nettsidebakgrunnar og lenker.
 preferences-colors-manage-button =
@@ -1123,6 +1129,11 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Adresselinje
 addressbar-suggest = Når du brukar adresselinja, føreslå
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Adresselinje — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Les meir
 addressbar-locbar-history-option =
     .label = Nettlesarhistorikk
     .accesskey = h
@@ -1155,7 +1166,15 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Vi populære søkjeforslag
     .accesskey = V
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = Forslag frå { -brand-short-name }
+addressbar-locbar-suggest-nonsponsored-desc = Få forslag frå nettet relatert til søkinga di.
+addressbar-locbar-suggest-sponsored-option =
+    .label = Forslag frå sponsorar
 addressbar-quickactions-learn-more = Les meir
+addressbar-restore-dismissed-suggestions-button =
+    .label = Bygg oppatt
 
 ## Privacy Section - Content Blocking
 
