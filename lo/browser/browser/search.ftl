@@ -38,3 +38,14 @@ remove-search-engine-button = ຕົກລົງ
 ## Variables
 ## $engineName (String) - the name of the search engine to install.
 
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-button = ເພີ່ມ Custom Engine
+add-engine-name = ຊື່ເຄື່ອງມືການຄົ້ນຫາ
+add-engine-url = URL ຂອງເຄື່ອງຈັກ, ໃຊ້ %s ແທນຄໍາຄົ້ນຫາ
+add-engine-dialog =
+    .buttonlabelaccept = ເພີ່ມເຄື່ອງມື
+    .buttonaccesskeyaccept = A
+engine-name-exists = ເຄື່ອງຈັກທີ່ມີຊື່ນັ້ນມີຢູ່ແລ້ວ
