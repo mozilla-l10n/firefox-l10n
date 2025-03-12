@@ -386,8 +386,12 @@ onboarding-new-user-survey-familiarity-based-option-4 = Eg brukte den tidlegare,
 
 # Setup screen for vertical tabs
 onboarding-new-tabs-title = Fortel oss kvar du vil ha fanene dine
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = Byt fram og tilbake når som helst i sidestolpeinnstillingane.
 # Setup screen for vertical tabs - too many tabs variation
 onboarding-many-tabs-title = Dine faner, på din måte
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Har du mange faner opne? Prøv med fanene på sida for ei meir straumlinjeforma vising. Eller hald på det klassiske med faner på toppen. Byt når som helst.
 # Setup screen for vertical tabs - focused variation
 onboarding-focused-tabs-title = Vel faneoppsett
 # Setup screen for vertical tabs - subtitle for focused variation

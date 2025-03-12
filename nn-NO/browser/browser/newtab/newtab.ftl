@@ -404,7 +404,10 @@ feature-highlight-wallpaper =
 # Not to be confused with religious definition of the word.
 newtab-wallpaper-category-title-celestial = Verdsrommet
 newtab-wallpaper-celestial-lunar-eclipse = Måneformørking
+newtab-wallpaper-celestial-earth-night = Nattfoto frå låg bane rundt jorda
 newtab-wallpaper-celestial-starry-sky = Stjerneklar himmel
+newtab-wallpaper-celestial-eclipse-time-lapse = Intervallfoto av måneformørking
+newtab-wallpaper-celestial-river = Satellittbilde av elv
 
 ## New Tab Weather
 
