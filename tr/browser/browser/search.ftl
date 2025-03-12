@@ -41,3 +41,17 @@ remove-search-engine-button = Tamam
 install-search-engine = { $engineName } arama motoru olarak eklensin mi?
 install-search-engine-add = Ekle
 install-search-engine-no = Ekleme
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-window =
+    .title = Arama motoru ekle
+    .style = min-width: 32em;
+add-engine-button = Özel motor ekle
+add-engine-name = Arama motoru adı
+add-engine-url = Motor adresi. Aranacak terim yerine %s koyun
+add-engine-dialog =
+    .buttonlabelaccept = Motor ekle
+    .buttonaccesskeyaccept = e
+engine-name-exists = Bu isimde bir motor zaten var
