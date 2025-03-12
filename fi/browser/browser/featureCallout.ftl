@@ -82,10 +82,13 @@ vertical-tabs-callout-2-title = Onko sinulla paljon välilehtiä auki? Kokeile p
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = Ovatko tärkeät välilehdet kateissa?
+sidebar-pins-callout-subtitle = Kokeile kiinnittää välilehdet, jolloin ne pysyvät välilehtiluettelosi kärjessä. Napsauta hiiren oikealla painikkeella välilehteä, jonka haluat kiinnittää, ja valitse sitten Kiinnitä välilehti.
 sidebar-pins-callout-cta-button = Kiinnitä välilehti
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Sivupalkki: paikka työkaluille ja välilehdille
 sidebar-customization-callout-callout-button = Muokkaa sivupalkkia
 sidebar-customization-callout-dismiss-button = Piilota sivupalkki
 
