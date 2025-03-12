@@ -610,7 +610,7 @@ urlbar-placeholder-with-name =
 urlbar-remote-control-notification-anchor2 =
     .tooltiptext = 浏览器受到远程控制（原因：{ $component }）
 urlbar-permissions-granted =
-    .tooltiptext = 您已授予此站点更多权限。
+    .tooltiptext = 您已授予此网站更多权限。
 urlbar-switch-to-tab =
     .value = 切换到标签页：
 # Used to indicate that a selected autocomplete entry is provided by an extension.
