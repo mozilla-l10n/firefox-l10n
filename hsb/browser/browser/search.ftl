@@ -41,3 +41,17 @@ remove-search-engine-button = W porjadku
 install-search-engine = { $engineName } jako pytawu přidać?
 install-search-engine-add = Přidać
 install-search-engine-no = Ně
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-window =
+    .title = Pytawu přidać
+    .style = min-width: 32em;
+add-engine-button = Swójsku pytawu přidać
+add-engine-name = Mjeno pytawy
+add-engine-url = URL pytawy, wužiwajće %s město pytanskeho wuraza
+add-engine-dialog =
+    .buttonlabelaccept = Pytawu přidać
+    .buttonaccesskeyaccept = P
+engine-name-exists = Pytawa z tym mjenom hižo eksistuje

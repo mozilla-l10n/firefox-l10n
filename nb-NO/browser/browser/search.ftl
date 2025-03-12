@@ -41,3 +41,17 @@ remove-search-engine-button = OK
 install-search-engine = Legge til { $engineName } som søkemotor?
 install-search-engine-add = Legg til
 install-search-engine-no = Nei
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-window =
+    .title = Legg til søkemotor
+    .style = min-width: 32em;
+add-engine-button = Legg til egendefinert søkemotor
+add-engine-name = Søkemotornavn
+add-engine-url = Søkemotor-adresse, bruk %s i stedet for søkeordet
+add-engine-dialog =
+    .buttonlabelaccept = Legg til søkemotor
+    .buttonaccesskeyaccept = L
+engine-name-exists = En søkemotor med det navnet eksisterer allerede

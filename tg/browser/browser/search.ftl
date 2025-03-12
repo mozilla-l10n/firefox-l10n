@@ -41,3 +41,17 @@ remove-search-engine-button = ХУБ
 install-search-engine = «{ $engineName }»-ро ҳамчун низоми ҷустуҷӯӣ илова мекунед?
 install-search-engine-add = Илова кардан
 install-search-engine-no = Не
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-window =
+    .title = Илова кардани низоми ҷустуҷӯӣ
+    .style = min-width: 32em;
+add-engine-button = Илова кардани низоми ҷустуҷӯии фармоишӣ
+add-engine-name = Номи низоми ҷустуҷӯӣ
+add-engine-url = Нишонии URL-и низоми ҷустуҷӯӣ, ба ҷойи вожаи ҷустуҷӯӣ аз %s истифода баред
+add-engine-dialog =
+    .buttonlabelaccept = Илова кардани низоми ҷустуҷӯӣ
+    .buttonaccesskeyaccept = И
+engine-name-exists = Низоми ҷустуҷӯӣ бо чунин ном аллакай вуҷуд дорад

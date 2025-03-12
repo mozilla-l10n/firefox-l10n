@@ -41,3 +41,17 @@ remove-search-engine-button = Akcepti
 install-search-engine = Ĉu aldoni { $engineName } kiel serĉilon?
 install-search-engine-add = Aldoni
 install-search-engine-no = Ne
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-window =
+    .title = Aldoni serĉilon
+    .style = min-width: 32em;
+add-engine-button = Aldoni personecigitan serĉilon
+add-engine-name = Nomo de serĉilo
+add-engine-url = Retadreso de serĉilo, uzu %s anstataŭ la serĉan tekston
+add-engine-dialog =
+    .buttonlabelaccept = Aldoni serĉilon
+    .buttonaccesskeyaccept = A
+engine-name-exists = Jam ekzistas serĉilo kun tiu nomo

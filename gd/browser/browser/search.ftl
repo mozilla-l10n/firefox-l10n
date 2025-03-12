@@ -38,3 +38,17 @@ remove-search-engine-button = Ceart ma-thà
 ## Variables
 ## $engineName (String) - the name of the search engine to install.
 
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-window =
+    .title = Cuir einnsean-luirg ris
+    .style = min-width: 38em;
+add-engine-button = Cuir einnsean gnàthaichte ris
+add-engine-name = Ainm an einnsein-luirg
+add-engine-url = URL an einnsein, cleachd %s an àite na h-abairt-luirg
+add-engine-dialog =
+    .buttonlabelaccept = Cuir einnsean ris
+    .buttonaccesskeyaccept = e
+engine-name-exists = Tha einnsean ann mu thràth air a bheil an t-ainm seo

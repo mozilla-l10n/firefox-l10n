@@ -38,3 +38,17 @@ remove-search-engine-button = Mat eo
 ## Variables
 ## $engineName (String) - the name of the search engine to install.
 
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-window =
+    .title = Ouzhpennañ ul lusker enklask
+    .style = min-width: 32em;
+add-engine-button = Ouzhpennañ ul lusker personelaet
+add-engine-name = Anv ar c'heflusker enklask
+add-engine-url = URL al lusker, implijit %s e-lec'h an termen da glask
+add-engine-dialog =
+    .buttonlabelaccept = Ouzhpennañ ul lusker
+    .buttonaccesskeyaccept = O
+engine-name-exists = Ul lusker gant an anv-se ez eus anezhañ endeo

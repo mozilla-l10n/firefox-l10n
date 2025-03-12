@@ -30,3 +30,17 @@ searchbar-submit =
 ## Variables
 ## $engineName (String) - the name of the search engine to install.
 
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-window =
+    .title = Amiestu d'un motor de busca
+    .style = min-width: 32em;
+add-engine-button = Amestar un motor personalizáu
+add-engine-name = Nome del motor de busca
+add-engine-url = URL del motor, usa %s nel llugar del términu de busca
+add-engine-dialog =
+    .buttonlabelaccept = Amestar el motor
+    .buttonaccesskeyaccept = A
+engine-name-exists = Yá esiste un motor con esi nome

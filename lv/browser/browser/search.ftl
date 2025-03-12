@@ -38,3 +38,17 @@ remove-search-engine-button = Labi
 ## Variables
 ## $engineName (String) - the name of the search engine to install.
 
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-window =
+    .title = Pievienot meklētāju
+    .style = min-width: 32em;
+add-engine-button = Pievienojiet pielāgotu meklētāju
+add-engine-name = Meklētāja nosaukums
+add-engine-url = Meklētāja URL, meklēšanas teksta vietā izmantojiet %s
+add-engine-dialog =
+    .buttonlabelaccept = Pievienot meklētāju
+    .buttonaccesskeyaccept = P
+engine-name-exists = Meklētājs ar šādu nosaukumu jau pastāv

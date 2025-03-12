@@ -41,3 +41,17 @@ remove-search-engine-button = Andat bene
 install-search-engine = Boles agiùnghere { $engineName } a is motores de chirca?
 install-search-engine-add = Agiunghe
 install-search-engine-no = Nono
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-window =
+    .title = Agiunghe unu motore de chirca
+    .style = min-width: 32em;
+add-engine-button = Agiunghe unu motore personalizadu
+add-engine-name = Chirca su nòmine de su motore
+add-engine-url = URL de su motore. Imprea %s in logu de su tèrmine de chirca
+add-engine-dialog =
+    .buttonlabelaccept = Agiunghe su motore
+    .buttonaccesskeyaccept = A
+engine-name-exists = Esistit giai unu motore cun custu nòmine

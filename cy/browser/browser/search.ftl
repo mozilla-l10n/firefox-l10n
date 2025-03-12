@@ -41,3 +41,17 @@ remove-search-engine-button = Iawn
 install-search-engine = Ychwanegu { $engineName } fel peiriant chwilio?
 install-search-engine-add = Ychwanegu
 install-search-engine-no = Na
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-window =
+    .title = Ychwanegu Peiriant Chwilio
+    .style = min-width: 32em;
+add-engine-button = Ychwanegu Peiriant Cyfaddas
+add-engine-name = Enw peiriant chwilio
+add-engine-url = URL y peiriant, defnyddiwch %s yn lle'r term chwilio
+add-engine-dialog =
+    .buttonlabelaccept = Ychwanegu Peiriant
+    .buttonaccesskeyaccept = P
+engine-name-exists = Mae peiriant o'r enw yna'n bodoli eisoes.

@@ -41,3 +41,17 @@ remove-search-engine-button = OK
 install-search-engine = Agiuntar { $engineName } sco maschina da tschertgar?
 install-search-engine-add = Agiuntar
 install-search-engine-no = Na
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-window =
+    .title = Agiuntar ina maschina da tschertgar
+    .style = min-width: 40em;
+add-engine-button = Agiuntar ina maschina persunalisada
+add-engine-name = Num da la maschina da tschertgar
+add-engine-url = URL da la maschina da tschertgar, utilisar %s en la posiziun dal term da tschertga
+add-engine-dialog =
+    .buttonlabelaccept = Agiuntar ina maschina
+    .buttonaccesskeyaccept = A
+engine-name-exists = Ina maschina da tschertgar cun quest num exista gia

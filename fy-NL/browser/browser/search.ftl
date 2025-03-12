@@ -41,3 +41,17 @@ remove-search-engine-button = OK
 install-search-engine = { $engineName } tafoegje as sykmasine?
 install-search-engine-add = Tafoegje
 install-search-engine-no = Nee
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-window =
+    .title = Sykmasine tafoegje
+    .style = min-width: 32em;
+add-engine-button = Oanpaste sykmasine tafoegje…
+add-engine-name = Namme sykmasine
+add-engine-url = URL fan sykmasine, brûk %s op it plak fan de sykterm
+add-engine-dialog =
+    .buttonlabelaccept = Sykmasine tafoegje
+    .buttonaccesskeyaccept = t
+engine-name-exists = Der bestiet al in sykmasine mei dy namme

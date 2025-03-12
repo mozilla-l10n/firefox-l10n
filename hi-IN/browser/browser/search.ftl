@@ -36,3 +36,8 @@ remove-search-engine-button = ठीक है
 ## Variables
 ## $engineName (String) - the name of the search engine to install.
 
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-name = खोज इंजन का नाम

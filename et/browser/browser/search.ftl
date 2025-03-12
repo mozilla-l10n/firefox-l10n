@@ -38,3 +38,17 @@ remove-search-engine-button = Sobib
 ## Variables
 ## $engineName (String) - the name of the search engine to install.
 
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-window =
+    .title = Otsingumootori lisamine
+    .style = min-width: 32em;
+add-engine-button = Lisa kohandatud otsingumootor
+add-engine-name = Otsingumootori nimi
+add-engine-url = Sisesta URK, kasutades otsingufraasi asukoha tähistamiseks %s
+add-engine-dialog =
+    .buttonlabelaccept = Lisa otsingumootor
+    .buttonaccesskeyaccept = L
+engine-name-exists = Sellise nimega otsingumootor on juba olemas

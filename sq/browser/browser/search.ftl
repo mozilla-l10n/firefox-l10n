@@ -41,3 +41,17 @@ remove-search-engine-button = OK
 install-search-engine = Të shtohet { $engineName } si një motor kërkimesh?
 install-search-engine-add = Shtoje
 install-search-engine-no = Jo
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-window =
+    .title = Shtoni Motor Kërkimesh
+    .style = min-width: 32em;
+add-engine-button = Shtoni Motor Vetjak
+add-engine-name = Emër motori kërkimesh
+add-engine-url = URL motori, përdorni %s në vend të termit të kërkimit
+add-engine-dialog =
+    .buttonlabelaccept = Shtoni Motor
+    .buttonaccesskeyaccept = S
+engine-name-exists = Ka tashmë një motor me këtë emër

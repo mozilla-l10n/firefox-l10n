@@ -41,3 +41,17 @@ remove-search-engine-button = OK
 install-search-engine = Adicionar { $engineName } como mecanismo de pesquisa?
 install-search-engine-add = Adicionar
 install-search-engine-no = Não
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-window =
+    .title = Adicionar mecanismo de pesquisa
+    .style = min-width: 32em;
+add-engine-button = Adicionar mecanismo personalizado
+add-engine-name = Nome do mecanismo de pesquisa
+add-engine-url = URL do mecanismo, use %s no lugar do termo de pesquisa
+add-engine-dialog =
+    .buttonlabelaccept = Adicionar mecanismo
+    .buttonaccesskeyaccept = A
+engine-name-exists = Já existe um mecanismo com esse nome

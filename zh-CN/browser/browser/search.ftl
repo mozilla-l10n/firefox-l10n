@@ -41,3 +41,17 @@ remove-search-engine-button = 确定
 install-search-engine = 要将“{ $engineName }”添加为搜索引擎吗？
 install-search-engine-add = 添加
 install-search-engine-no = 取消
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-window =
+    .title = 添加搜索引擎
+    .style = min-width: 32em;
+add-engine-button = 添加自定义引擎
+add-engine-name = 搜索引擎名称
+add-engine-url = 搜索引擎 URL，用 %s 替换搜索词
+add-engine-dialog =
+    .buttonlabelaccept = 添加搜索引擎
+    .buttonaccesskeyaccept = A
+engine-name-exists = 已存在同名搜索引擎

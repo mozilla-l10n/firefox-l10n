@@ -34,3 +34,17 @@ searchbar-icon =
 ## Variables
 ## $engineName (String) - the name of the search engine to install.
 
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-window =
+    .title = ماتۆڕی گەڕان زیادکە
+    .style = min-width: 32em;
+add-engine-button = ماتۆڕێکی گەڕانی خوازراو زیادکە
+add-engine-name = ناوی ماتۆڕی گەڕان
+add-engine-url = بەستەری ماتۆڕەکە، %s بەکار بهێنە لە جێگای وشەی گەڕاندا.
+add-engine-dialog =
+    .buttonlabelaccept = ماتۆڕ زیادکە
+    .buttonaccesskeyaccept = A
+engine-name-exists = ماتۆڕێک بەو ناوە خۆی هەیە

@@ -35,3 +35,17 @@ searchbar-icon =
 ## Variables
 ## $engineName (String) - the name of the search engine to install.
 
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-window =
+    .title = Anyadir buscador
+    .style = min-width: 32em;
+add-engine-button = Anyadir buscador personalizau
+add-engine-name = Nombre d'o motor de busqueda
+add-engine-url = URL de motor de busqueda, usa %s en o puesto d'o termen de busqueda
+add-engine-dialog =
+    .buttonlabelaccept = Anyadir motor
+    .buttonaccesskeyaccept = A
+engine-name-exists = Ya existe un motor de busqueda con ixe nombre

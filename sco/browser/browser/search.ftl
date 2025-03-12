@@ -35,3 +35,17 @@ searchbar-icon =
 ## Variables
 ## $engineName (String) - the name of the search engine to install.
 
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-window =
+    .title = Eik On Airt-oot Engine
+    .style = min-width: 32em;
+add-engine-button = Eik On Custom Engine
+add-engine-name = Airt-oot engine nemme
+add-engine-url = Engine URL, yaise %s insteid o the sairch term
+add-engine-dialog =
+    .buttonlabelaccept = Eik On Engine
+    .buttonaccesskeyaccept = A
+engine-name-exists = An engine wi thon nemme awready exists

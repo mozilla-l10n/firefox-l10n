@@ -39,3 +39,17 @@ remove-search-engine-button = حسنًا
 install-search-engine = أضِف { $engineName } كمحرك بحث؟
 install-search-engine-add = أضِف
 install-search-engine-no = لا
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-window =
+    .title = أضِف محرك بحث
+    .style = min-width: 32em;
+add-engine-button = أضِف محركًا مخصصًا
+add-engine-name = اسم محرك البحث
+add-engine-url = مسار المحرّك، استعمل ”‎%s“ مكان عبارة البحث
+add-engine-dialog =
+    .buttonlabelaccept = أضِف محركًا
+    .buttonaccesskeyaccept = ض
+engine-name-exists = يوجد بالفعل محرك بهذا الاسم

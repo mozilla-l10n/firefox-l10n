@@ -28,3 +28,17 @@ opensearch-error-download-desc = চিহ্নিত স্থানৰ পৰ
 ## Variables
 ## $engineName (String) - the name of the search engine to install.
 
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-window =
+    .title = ছাৰ্চ ইঞ্জিন যোগ কৰক
+    .style = min-width: 32em;
+add-engine-button = নিজৰ হিচাপে ইঞ্জিন যোগ কৰক
+add-engine-name = ছাৰ্চ ইঞ্জিনৰ নাম
+add-engine-url = ইঞ্জিন URLএ সন্ধানৰ শব্দৰ ঠাইত %s ব্যৱহাৰ কৰে
+add-engine-dialog =
+    .buttonlabelaccept = ইঞ্জিন যোগ কৰক
+    .buttonaccesskeyaccept = A
+engine-name-exists = সেই নামৰ এটা ইঞ্জিন ইতিমধ্যে আছেই

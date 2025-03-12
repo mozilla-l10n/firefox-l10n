@@ -36,3 +36,17 @@ removed-search-engine-message = <strong>Вашата търсеща машина
 ## Variables
 ## $engineName (String) - the name of the search engine to install.
 
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-window =
+    .title = Добавяне на търсеща машина
+    .style = min-width: 32em;
+add-engine-button = Добавяне на търсеща машина от потребител
+add-engine-name = Име на търсеща машина
+add-engine-url = Аддрес на търсачка, използвайте %s вместо търсената фраза
+add-engine-dialog =
+    .buttonlabelaccept = Добавяне на машина
+    .buttonaccesskeyaccept = а
+engine-name-exists = Машина с това име вече съществува

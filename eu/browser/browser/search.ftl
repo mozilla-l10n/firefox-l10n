@@ -38,3 +38,17 @@ remove-search-engine-button = Ados
 ## Variables
 ## $engineName (String) - the name of the search engine to install.
 
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-window =
+    .title = Gehitu bilaketa-motorra
+    .style = min-width: 32em;
+add-engine-button = Gehitu bilaketa-motor pertsonalizatua
+add-engine-name = Bilaketa-motorraren izena
+add-engine-url = Bilaketa-motorraren URLa, erabili %s bilaketa-terminoaren tokian
+add-engine-dialog =
+    .buttonlabelaccept = Gehitu bilaketa-motorra
+    .buttonaccesskeyaccept = G
+engine-name-exists = Dagoeneko badago izen hori duen bilaketa-motor bat

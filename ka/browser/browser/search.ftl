@@ -41,3 +41,17 @@ remove-search-engine-button = კარგი
 install-search-engine = დაემატოს { $engineName }, როგორც საძიებო?
 install-search-engine-add = დამატება
 install-search-engine-no = არა
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-window =
+    .title = საძიებო სისტემის დამატება
+    .style = min-width: 32em;
+add-engine-button = მორგებული საძიებოს დამატება
+add-engine-name = საძიებო სისტემის სახელი
+add-engine-url = საძიებოს ბმული, მოსაძიებელ ფრაზად მიუთითეთ %s
+add-engine-dialog =
+    .buttonlabelaccept = საძიებოს დამატება
+    .buttonaccesskeyaccept = დ
+engine-name-exists = საძიებო სისტემა ამ სახელით უკვე არსებობს

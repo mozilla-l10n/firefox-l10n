@@ -41,3 +41,17 @@ remove-search-engine-button = OK
 install-search-engine = Lisätäänkö { $engineName } hakukoneeksi?
 install-search-engine-add = Lisää
 install-search-engine-no = Ei
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-window =
+    .title = Lisää hakukone
+    .style = min-width: 32em;
+add-engine-button = Lisää mukautettu hakukone
+add-engine-name = Hakukoneen nimi
+add-engine-url = Hakukoneen osoite, käytä merkkijonoa %s hakuehdon sijaan
+add-engine-dialog =
+    .buttonlabelaccept = Lisää hakukone
+    .buttonaccesskeyaccept = L
+engine-name-exists = Hakukone samalla nimellä on jo olemassa
