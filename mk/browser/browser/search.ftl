@@ -36,3 +36,11 @@ remove-search-engine-button = Во ред
 ## Variables
 ## $engineName (String) - the name of the search engine to install.
 
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-window =
+    .title = Додај сервис за пребарување
+    .style = min-width: 32em;
+add-engine-name = Име на пребарувачот
