@@ -564,6 +564,12 @@ urlbar-result-action-copy-to-clipboard = కాపీచేయి
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
+# Shows the result of a formula expression being calculated, in scientific notation.
+# The last = sign will be shown as part of the result (e.g. "= 1.0e17").
+# Variables
+#  $result (String): the string representation for a result in scientific notation
+#  (e.g. "1.0e17").
+urlbar-result-action-calculator-result-scientific-notation = = { $result }
 
 ## Strings used for buttons in the urlbar
 
@@ -855,6 +861,7 @@ private-browsing-indicator-label = అంతరంగిక విహారణ
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = అంతరంగిక విహరణ
+content-analysis-panel-title = దత్త సంరక్షణ
 
 ## Unified extensions (toolbar) button
 

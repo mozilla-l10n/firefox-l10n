@@ -84,6 +84,7 @@ appmenu-remote-tabs-opensettings =
 appmenu-remote-tabs-noclients = ఇతర పరికరాలలో తెరిచివున్న మీ ట్యాబులను ఇక్కడ చూడాలనుకుంటున్నారా?
 appmenu-remote-tabs-connectdevice =
     .label = మరొక పరికరాన్ని అనుసంధానించండి
+appmenu-remote-tabs-welcome = మీ ఇతర పరికరాల నుండి ట్యాబుల జాబితాను చూడండి.
 appmenu-remote-tabs-unverified = మీ ఖాతాను తనిఖీ చెయ్యాలి.
 appmenuitem-fxa-manage-account = ఖాతా నిర్వహణ
 appmenu-fxa-header2 = { -fxaccount-brand-name }

@@ -48,6 +48,9 @@ account-connection-title = { -fxaccount-brand-name(capitalization: "title") }
 # The title shown in a notification when either this device or another device
 # has connected to, or disconnected from, a Firefox account.
 account-connection-title-2 = ఖాతా
+# Variables:
+#   $deviceName (String): the name of the new device
+account-connection-connected-with = ఈ కంప్యూటర్ ఇప్పుడు { $deviceName }తో అనుసంధానించబడింది
 # Used when the name of the new device is not known.
 account-connection-connected-with-noname = ఈ కంప్యూటరు ఇప్పుడు ఒక కొత్త పరికరంతో అనుసంధానమయ్యింది.
 # Used in a notification shown after a Firefox account is connected to the current device.
