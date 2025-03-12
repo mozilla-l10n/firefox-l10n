@@ -41,3 +41,14 @@ remove-search-engine-button = U redu
 install-search-engine = Dodati { $engineName } kao tražilicu?
 install-search-engine-add = Dodaj
 install-search-engine-no = Ne
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-window =
+    .title = Dodaj tražilicu
+    .style = min-width: 32em;
+add-engine-button = Dodaj drugu tražilicu
+add-engine-dialog =
+    .buttonlabelaccept = Dodaj tražilicu
+    .buttonaccesskeyaccept = D
