@@ -41,3 +41,11 @@ remove-search-engine-button = Aceptar
 install-search-engine = ¿Agregar { $engineName } como buscador?
 install-search-engine-add = Agregar
 install-search-engine-no = No
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-dialog =
+    .buttonlabelaccept = Agregar buscador
+    .buttonaccesskeyaccept = A
+engine-name-exists = Ya existe un buscador con ese nombre
