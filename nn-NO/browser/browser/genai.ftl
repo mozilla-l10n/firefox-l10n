@@ -35,6 +35,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = Forklar dette
     .value = Forklar nøkkelomgrepa i dette utvalet ved å bruke enkle ord. Bruk også døme.
+# Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
+genai-prompts-proofread =
+    .label = Les korrektur
+    .value = Sjå etter stave- og grammatikkfeil i den utvalde teksten. Finn eventuelle feil og foreslå ein korrigert versjon av teksten. Behald same tyding og presisjon med omsyn til fakta, og returner lista med forslag til rettingar først, og den endelege, korrigerte versjonen av teksten etterpå.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text

@@ -362,6 +362,7 @@ newtab-wallpaper-abstract-purple = Lilla former
 newtab-wallpaper-abstract-orange = Oransje former
 newtab-wallpaper-gradient-orange = Fargeovergang oransje og rosa
 newtab-wallpaper-abstract-blue-purple = Blå og lilla former
+newtab-wallpaper-abstract-white-curves = Kvit med skraverte kurver
 newtab-wallpaper-abstract-purple-green = Gradient med lilla og grønt lys
 newtab-wallpaper-abstract-blue-purple-waves = Blå og lilla bølgjeformer
 newtab-wallpaper-abstract-black-waves = Svarte bølgjeformer
@@ -375,6 +376,12 @@ newtab-wallpaper-storm-sky = Stormhimmel
 newtab-wallpaper-sky-with-pink-clouds = Himmel med rosa skyer
 newtab-wallpaper-red-panda-yawns-in-a-tree = Raud panda som geispar i eit tre
 newtab-wallpaper-white-mountains = Kvite fjell
+newtab-wallpaper-hot-air-balloons = Fargespel av luftballongar på dagtid
+newtab-wallpaper-starry-canyon = Blå stjerneklar kveld
+newtab-wallpaper-suspension-bridge = Foto av grå hengebru på dagtid
+newtab-wallpaper-sand-dunes = Kvite sanddyner
+newtab-wallpaper-palm-trees = Silhuett av kokospalmar i den gylne timen
+newtab-wallpaper-forest-trees = Tre dekte av tåke
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -392,6 +399,10 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Verdsrommet
 newtab-wallpaper-celestial-lunar-eclipse = Måneformørking
 newtab-wallpaper-celestial-starry-sky = Stjerneklar himmel
 
