@@ -45,5 +45,13 @@ install-search-engine-no = Не
 ## These strings are used for the add engine dialog when adding a custom search engine
 ## in settings or when adding an HTML form as a search engine.
 
+add-engine-window =
+    .title = Дадаць пашукавік
+    .style = min-width: 32em;
 add-engine-button = Дадаць уласны пашукавік
 add-engine-name = Назва пашукавіка
+add-engine-url = URL-адрас пашукавіка, выкарыстоўвайце %s замест пошукавага тэрміна
+add-engine-dialog =
+    .buttonlabelaccept = Дадаць рухавік
+    .buttonaccesskeyaccept = Д
+engine-name-exists = Рухавік з такою назваю ўжо існуе.
