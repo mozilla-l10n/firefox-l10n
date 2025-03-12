@@ -76,12 +76,18 @@ sidebar-button-callout-subtitle = Käytä sivupalkkipainiketta laajentaaksesi si
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-cta-button = Kokeile pystysuuntaisia välilehtiä
+vertical-tabs-callout-2-cta-button = Kokeile nyt
+vertical-tabs-callout-2-title = Onko sinulla paljon välilehtiä auki? Kokeile pystysuuntaisia välilehtiä.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-cta-button = Kiinnitä välilehti
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-callout-button = Muokkaa sivupalkkia
+sidebar-customization-callout-dismiss-button = Piilota sivupalkki
 
 ## Sidebar Callout Survey Strings
 
