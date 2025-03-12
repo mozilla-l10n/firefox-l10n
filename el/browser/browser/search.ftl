@@ -45,4 +45,13 @@ install-search-engine-no = Όχι
 ## These strings are used for the add engine dialog when adding a custom search engine
 ## in settings or when adding an HTML form as a search engine.
 
+add-engine-window =
+    .title = Προσθήκη μηχανής αναζήτησης
+    .style = min-width: 32em;
+add-engine-button = Προσθήκη προσαρμοσμένης μηχανής
+add-engine-name = Όνομα μηχανής αναζήτησης
 add-engine-url = URL μηχανής, χρησιμοποιήστε το %s αντί του όρου αναζήτησης
+add-engine-dialog =
+    .buttonlabelaccept = Προσθήκη μηχανής
+    .buttonaccesskeyaccept = A
+engine-name-exists = Υπάρχει ήδη μια μηχανή με το ίδιο όνομα
