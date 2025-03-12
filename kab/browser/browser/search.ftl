@@ -39,3 +39,12 @@ remove-search-engine-button = IH
 ## $engineName (String) - the name of the search engine to install.
 
 install-search-engine-no = Ala
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-window =
+    .title = Rnu amsedday n unadi
+    .style = min-width: 32em;
+add-engine-name = Isem n umsedday n unadi
+add-engine-url = URL n umsedday n unadi, seqdec %s deg wadeg n wawal n unadi
