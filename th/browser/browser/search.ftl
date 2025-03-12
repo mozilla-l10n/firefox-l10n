@@ -41,3 +41,17 @@ remove-search-engine-button = ตกลง
 install-search-engine = ต้องการเพิ่ม { $engineName } เป็นเครื่องมือค้นหาหรือไม่?
 install-search-engine-add = เพิ่ม
 install-search-engine-no = ไม่
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-window =
+    .title = เพิ่มเครื่องมือค้นหา
+    .style = min-width: 32em;
+add-engine-button = เพิ่มเครื่องมือกำหนดเอง
+add-engine-name = ชื่อเครื่องมือค้นหา
+add-engine-url = URL ของเครื่องมือ ใช้ %s แทนคำค้นหา
+add-engine-dialog =
+    .buttonlabelaccept = เพิ่มเครื่องมือ
+    .buttonaccesskeyaccept = พ
+engine-name-exists = มีเครื่องมือค้นหาชื่อนี้แล้ว
