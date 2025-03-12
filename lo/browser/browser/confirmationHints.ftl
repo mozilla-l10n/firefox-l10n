@@ -13,6 +13,7 @@ confirmation-hint-password-saved = ບັນທຶກລະຫັດຜ່ານ
 confirmation-hint-password-created = ບັນທຶກລະຫັດຜ່ານແລ້ວ!
 confirmation-hint-password-updated = ອັບເດດລະຫັດຜ່ານແລ້ວ
 confirmation-hint-address-created = ບັນທຶກທີ່ຢູ່ແລ້ວ
+confirmation-hint-address-updated = ອັບເດດທີ່ຢູ່
 confirmation-hint-credit-card-created = ບັນທຶກບັດແລ້ວ
 confirmation-hint-credit-card-updated = ອັບເດດບັດແລ້ວ
 confirmation-hint-pin-tab = ປັກໝຸດແລ້ວ!
