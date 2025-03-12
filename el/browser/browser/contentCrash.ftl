@@ -31,6 +31,13 @@ pending-crash-reports-send =
     .label = Αποστολή
 pending-crash-reports-always-send =
     .label = Πάντα αποστολή
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+requested-crash-reports-message =
+    { $reportCount ->
+        [one] Έχετε μια μη αποσταλμένη αναφορά κατάρρευσης που αντιστοιχεί στις υπό διερεύνηση καταρρεύσεις· η αποστολή της θα μας βοηθήσει να βελτιώσουμε το { -brand-product-name }. Η αναφορά θα αγνοηθεί αν κλείσετε αυτήν την ειδοποίηση.
+       *[other] Έχετε { $reportCount } μη αποσταλμένες αναφορές κατάρρευσης που αντιστοιχουν στις υπό διερεύνηση καταρρεύσεις· η αποστολή τους θα μας βοηθήσει να βελτιώσουμε το { -brand-product-name }. Οι αναφορές θα αγνοηθούν αν κλείσετε αυτήν την ειδοποίηση.
+    }
 requested-crash-reports-dont-show-again =
     .label = Να μην εμφανιστεί ξανά
     .accesskey = Ν
