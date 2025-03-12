@@ -41,3 +41,17 @@ remove-search-engine-button = OK
 install-search-engine = Thêm { $engineName } làm công cụ tìm kiếm?
 install-search-engine-add = Thêm
 install-search-engine-no = Không
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-window =
+    .title = Thêm công cụ tìm kiếm
+    .style = min-width: 32em;
+add-engine-button = Thêm công cụ tùy chỉnh
+add-engine-name = Tên công cụ tìm kiếm
+add-engine-url = URL công cụ, sử dụng %s thay cho cụm từ tìm kiếm
+add-engine-dialog =
+    .buttonlabelaccept = Thêm công cụ tìm kiếm
+    .buttonaccesskeyaccept = A
+engine-name-exists = Một công cụ có tên đó đã tồn tại
