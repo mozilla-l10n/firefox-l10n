@@ -41,3 +41,8 @@ remove-search-engine-button = OK
 install-search-engine = Προσθήκη του { $engineName } ως μηχανής αναζήτησης;
 install-search-engine-add = Προσθήκη
 install-search-engine-no = Όχι
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-url = URL μηχανής, χρησιμοποιήστε το %s αντί του όρου αναζήτησης
