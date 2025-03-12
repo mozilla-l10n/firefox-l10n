@@ -28,3 +28,4 @@ experimental-features-group-customize-browsing =
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Hesła w bóčnicy
+experimental-features-contextual-password-manager-description = Dóstańće direktny přistup k swojim hesłam z bóčnicy. Njetrjebaće hižo hesła pytać abo wróćo stajić, hdyž pospytujeće so přizjewić. Zo byšće tutu funkciju wužiwał, wubjerće hesła w bóčnicy. Dźiće potom k powšitkownym nastajenjam a wubjerće pod nadpismom Wuhotowanje wobhladowaka zapisk Bóčnicu pokazać. Wubjerće hesła, zo byšće swoju bóčnicu přiměrił. Jeli tutu funkciju wupruwujeće, <a data-l10n-name="connect">zdźělće nam, štož wo tym mysliće</a>.
