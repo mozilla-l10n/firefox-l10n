@@ -38,3 +38,17 @@ remove-search-engine-button = OK
 ## Variables
 ## $engineName (String) - the name of the search engine to install.
 
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-window =
+    .title = Przidej wyszukowarka
+    .style = min-width: 32em;
+add-engine-button = Przidej włosno wyszukowarka
+add-engine-name = Miano wyszukowarki
+add-engine-url = URL wyszukowarki, użyj %s na plac szukanego tekstu
+add-engine-dialog =
+    .buttonlabelaccept = Przidej wyszukowarka
+    .buttonaccesskeyaccept = P
+engine-name-exists = Wyszukowarka z mianym, co już je
