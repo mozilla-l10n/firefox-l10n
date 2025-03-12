@@ -50,6 +50,7 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = Pridať vlastný vyhľadávací modul
 add-engine-name = Názov vyhľadávacieho modulu
+add-engine-url = URL vyhľadávacieho modulu, dopyt nahraďte “%s”
 add-engine-dialog =
     .buttonlabelaccept = Pridať modul
     .buttonaccesskeyaccept = a
