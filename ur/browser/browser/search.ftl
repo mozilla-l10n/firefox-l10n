@@ -40,3 +40,6 @@ searchbar-icon =
 ## in settings or when adding an HTML form as a search engine.
 
 add-engine-name = تلاش انجن کا نام
+add-engine-dialog =
+    .buttonlabelaccept = انجن شامل کریں
+    .buttonaccesskeyaccept = A
