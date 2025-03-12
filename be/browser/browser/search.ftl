@@ -41,3 +41,9 @@ remove-search-engine-button = Добра
 install-search-engine = Дадаць { $engineName } як пошукавую сістэму?
 install-search-engine-add = Дадаць
 install-search-engine-no = Не
+
+## These strings are used for the add engine dialog when adding a custom search engine
+## in settings or when adding an HTML form as a search engine.
+
+add-engine-button = Дадаць уласны пашукавік
+add-engine-name = Назва пашукавіка
