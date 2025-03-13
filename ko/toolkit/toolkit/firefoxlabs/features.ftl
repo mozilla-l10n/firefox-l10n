@@ -25,3 +25,7 @@ experimental-features-group-webpage-display =
     .label = 웹 페이지 표시
 experimental-features-group-customize-browsing =
     .label = 탐색 사용자 지정
+# Contextual Password Manager in sidebar
+experimental-features-contextual-password-manager =
+    .label = 사이드바의 비밀번호
+experimental-features-contextual-password-manager-description = 사이드바에서 바로 비밀번호에 접근하세요. 더 이상 로그인할 때 비밀번호를 검색하거나 재설정하지 않아도 됩니다. 이 기능을 사용하려면 사이드바에서 비밀번호를 선택하세요. 일반 설정으로 이동하여 브라우저 레이아웃에서 사이드바 표시를 선택하세요. 그런 다음, 비밀번호를 선택하여 사이드바를 사용자 지정하세요. 사용을 하신다면, <a data-l10n-name="connect">의견을 알려주세요</a>.
