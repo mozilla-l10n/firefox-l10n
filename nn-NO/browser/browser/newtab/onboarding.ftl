@@ -411,6 +411,12 @@ onboarding-existing-vertical-tabs-label = Prøv vertikale faner
 onboarding-flair-text = Nytt!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Behald horisontale faner
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = Eit nettlesarvindauge som viser faner langs sida av skjermen som del av { -brand-shorter-name }-sidestolpen.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = Eit nettlesarvindauge som viser faner langs sida av skjermen som del av { -brand-shorter-name }-sidestolpen.
 # Additional setup card for setting up aichatbot in the sidebar
 onboarding-genai-sidebar-title = Prøv ein samtalerobot i sidefeltet
 onboarding-genai-sidebar-primary-button = Vel ein samtalerobot

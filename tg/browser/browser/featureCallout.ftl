@@ -77,8 +77,10 @@ sidebar-button-callout-vertical-tabs = Барои нишон додани вар
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = Аз шумораи барзиёди варақаҳо безор шудед?
 vertical-tabs-callout-1-cta-button = Варақаҳои амудиро кӯшиш кунед
 vertical-tabs-callout-2-cta-button = Ҳозир кӯшиш кунед
+vertical-tabs-callout-2-title = Варақаҳоро дар шумораи зиёд кушода нигоҳ медоред? Варақаҳои амудиро кӯшиш кунед.
 
 ## Sidebar Vertical Tabs Pinning Strings
 

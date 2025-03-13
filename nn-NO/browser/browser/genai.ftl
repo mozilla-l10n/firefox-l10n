@@ -130,5 +130,6 @@ genai-onboarding-copilot-analyze = Analyser bilde
 genai-onboarding-copilot-price = Gratis og betalte alternativ; konto er påkravd for enkelte oppgåver
 genai-onboarding-gemini-generate = Generer tekst, bilde og kode
 genai-onboarding-huggingchat-generate = Lag tekst og kode
+genai-onboarding-huggingchat-price-2 = Gratis; krev ein konto etter eit visst antal førespurnadar
 genai-onboarding-lechat-generate = Lag tekst og kode
 genai-onboarding-lechat-price = Gratis; konto påkravd
