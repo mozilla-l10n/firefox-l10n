@@ -13,6 +13,7 @@ neterror-captive-portal-page-title = Bejelentkezés a hálózatba
 neterror-dns-not-found-title = A kiszolgáló nem található
 neterror-malformed-uri-page-title = Érvénytelen webcím
 general-body-title = Legyen óvatos. Úgy tűnik, hogy valami nincs rendben.
+problem-with-this-site-title = Úgy néz ki, hogy probléma van ezzel a webhellyel
 
 ## Error page actions
 

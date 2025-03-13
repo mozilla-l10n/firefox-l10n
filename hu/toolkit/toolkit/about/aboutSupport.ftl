@@ -15,6 +15,10 @@ support-addons-type = Típus
 support-addons-enabled = Engedélyezve
 support-addons-version = Verzió
 support-addons-id = Azonosító
+# In the add-on world, locations are where the addon files are stored. Each
+# location has name. For instance: app-system-addons, app-builtin,
+# app-temporary, etc.
+support-addons-location-name = Hely
 legacy-user-stylesheets-title = Hagyományos felhasználói stíluslapok
 legacy-user-stylesheets-enabled = Aktív
 legacy-user-stylesheets-stylesheet-types = Stíluslapok
