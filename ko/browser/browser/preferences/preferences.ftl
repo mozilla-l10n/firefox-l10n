@@ -259,6 +259,17 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = <a data-l10n-name="themes-link">확장 기능 및 테마</a>에서 { -brand-short-name } 테마 관리
+preferences-contrast-control-header = 대비 제어
+preferences-contrast-control-description = 웹 사이트는 다양한 전경색과 배경색을 가지고 있습니다. 가독성을 높이기 위해 웹 사이트에서 동일한 색상을 사용하도록 { -brand-short-name }를 구성합니다.
+preferences-contrast-control-use-platform-settings =
+    .label = 자동 (시스템 설정 사용)
+    .accesskey = A
+preferences-contrast-control-off =
+    .label = 끄기
+    .accesskey = O
+preferences-contrast-control-custom =
+    .label = 사용자 지정
+    .accesskey = C
 preferences-colors-header = 색상
 preferences-colors-description = 텍스트, 웹 사이트 배경 및 링크에 대한 { -brand-short-name }의 기본 색상을 재정의합니다.
 preferences-colors-manage-button =
