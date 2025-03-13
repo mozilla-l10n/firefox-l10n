@@ -15,10 +15,14 @@
 
 ## Chatbot menu shortcuts
 
+genai-shortcuts-hide =
+    .label = ເຊື່ອງທາງລັດ chatbot
 
 ## Chatbot header
 
 genai-chatbot-title = AI chatbot
+genai-header-provider-menu =
+    .title = ເລືອກ chatbot
 genai-header-options-button =
     .title = ເປີດເມນູ
 genai-header-close-button =

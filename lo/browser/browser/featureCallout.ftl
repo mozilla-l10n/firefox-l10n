@@ -124,3 +124,11 @@ unified-search-engines-callout-title = ຊອກຫາດ້ວຍທາງລ�
 unified-search-engines-callout-subtitle = ພິມ “@” ຕາມດ້ວຍຄໍາສໍາຄັນເພື່ອຄົ້ນຫາປະຫວັດຂອງທ່ານ, ບຸກມາກ, ແທັບ, ຫຼື ດ້ວຍເຄື່ອງຈັກຄົ້ນຫາອື່ນ.
 unified-search-engines-callout-primary-label = ເຂົ້າໃຈແລ້ວ!
 actions-callout-title = ເຮັດສຳເລັດໜ້າວຽກທົ່ວໄປ ຫຼື ເຂົ້າເຖິງການຕັ້ງຄ່າພື້ນຖານ
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearhistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = ລອງພິມຄຳສັ່ງໃດໜຶ່ງ ເຊັ່ນ: “ພິມ” ເພື່ອພິມໜ້າໃດໜຶ່ງ, ຫຼື “ລຶບ” ເພື່ອລຶບປະຫວັດຂອງທ່ານ.

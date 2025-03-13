@@ -14,6 +14,7 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } ບໍ່ສາ�
 ## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = ທ່ານຕ້ອງເຂົ້າສູ່ລະບົບ { -fxaccount-brand-name } ຈຶ່ງຈະສາມາດໃຊ້ { -relay-brand-name } ໄດ້.
+firefox-relay-must-login-to-account = ເຂົ້າສູ່ລະບົບບັນຊີຂອງທ່ານເພື່ອໃຊ້ໂຕເຊື່ອງອີເມວ { -relay-brand-name } ຂອງທ່ານ.
 firefox-relay-get-unlimited-masks =
     .label = ຈັດການຕົວປິດບັງ
     .accesskey = M
