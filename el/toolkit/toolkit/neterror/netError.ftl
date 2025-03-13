@@ -13,6 +13,7 @@ neterror-captive-portal-page-title = Σύνδεση στο δίκτυο
 neterror-dns-not-found-title = Ο διακομιστής δεν βρέθηκε
 neterror-malformed-uri-page-title = Μη έγκυρο URL
 general-body-title = Να προσέχετε. Κάτι δεν πάει καλά.
+problem-with-this-site-title = Φαίνεται ότι υπάρχει κάποιο πρόβλημα με αυτόν τον ιστότοπο
 
 ## Error page actions
 
