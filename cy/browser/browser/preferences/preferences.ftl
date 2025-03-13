@@ -283,6 +283,17 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Rheoli themâu { -brand-short-name } yn <a data-l10n-name="themes-link">Estyniadau a Themâu</a>
+preferences-contrast-control-header = Rheoli Cyferbyniad
+preferences-contrast-control-description = Mae gan wefannau amrywiaeth o liwiau blaendir a chefndir. Ffurfweddwch { -brand-short-name } i ddefnyddio'r un lliwiau ar draws gwefannau i wella darllenadwyedd.
+preferences-contrast-control-use-platform-settings =
+    .label = Awtomatig (defnyddiwch osodiadau system)
+    .accesskey = A
+preferences-contrast-control-off =
+    .label = Diffodd
+    .accesskey = D
+preferences-contrast-control-custom =
+    .label = Cyfaddas
+    .accesskey = C
 preferences-colors-header = Lliwiau
 preferences-colors-description = Diystyru lliwiau rhagosodedig { -brand-short-name } mewn perthynas â thestun, cefndiroedd gwefannau a dolenni.
 preferences-colors-manage-button =

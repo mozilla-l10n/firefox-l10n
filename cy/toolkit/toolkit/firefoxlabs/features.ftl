@@ -25,3 +25,6 @@ experimental-features-group-webpage-display =
     .label = Dangos Tudalen We
 experimental-features-group-customize-browsing =
     .label = Cyfaddasu eich pori
+# Contextual Password Manager in sidebar
+experimental-features-contextual-password-manager =
+    .label = Cyfrineiriau yn y bar ochr
