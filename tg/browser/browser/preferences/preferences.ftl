@@ -1135,6 +1135,8 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Навори нишонӣ
 addressbar-suggest = Ҳангоми истифодаи навори нишонӣ, имконоти зерин пешниҳод карда мешавад
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Навори нишонӣ — { -firefox-suggest-brand-name }
 # When Firefox Suggest is enabled, a "Learn more" link appears at the end of
 # `addressbar-suggest-firefox-suggest`.
 addressbar-locbar-firefox-suggest-learn-more = Маълумоти бештар
@@ -1170,6 +1172,9 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Намоиши пешниҳодҳои ҷустуҷӯи ҳавасангез
     .accesskey = Н
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = Пешниҳодҳо аз «{ -brand-short-name }»
 addressbar-locbar-suggest-nonsponsored-desc = Гирифтани пешниҳодҳо аз Интернет дар асоси ҷустуҷӯи шумо.
 addressbar-locbar-suggest-sponsored-option =
     .label = Пешниҳодҳо аз сарпарастон
