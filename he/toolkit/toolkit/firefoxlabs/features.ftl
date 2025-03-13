@@ -19,3 +19,4 @@ experimental-features-group-customize-browsing =
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = ססמאות בסרגל הצד
+experimental-features-contextual-password-manager-description = קבלת גישה לססמאות שלך הישר מסרגל הצד. לא צריך עוד לחפש ססמאות או לאפס אותן כשמנסים להתחבר לאתרים. כדי להשתמש באפשרות זו, יש לבחור בססמאות בסרגל הצד. לאחר מכן לעבור להגדרות הכלליות שלך ותחת פריסת הדפדפן, ולבחור בהצגת סרגל צד. לאחר מכן יש להתאים אישית את סרגל הצד שלך על־ידי בחירה בססמאות. אם תנסו את האפשרות הזאת, <a data-l10n-name="connect">אנא ספרו לנו מה אתם חושבים</a>.
