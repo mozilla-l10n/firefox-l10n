@@ -271,6 +271,17 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Administroni tema { -brand-short-name }, që nga <a data-l10n-name="themes-link">Zgjerime & Tema</a>
+preferences-contrast-control-header = Kontroll Kontrasti
+preferences-contrast-control-description = Sajtet kanë një larmi ngjyrash për sfonde dhe për përpara. Formësojeni { -brand-short-name }-in që të përdorë të njëjtat ngjyra nëpër sajte, që të përmirësohet lexueshmëria.
+preferences-contrast-control-use-platform-settings =
+    .label = E automatizuar (përdor rregullime sistemi)
+    .accesskey = a
+preferences-contrast-control-off =
+    .label = Off
+    .accesskey = O
+preferences-contrast-control-custom =
+    .label = Vetjake
+    .accesskey = V
 preferences-colors-header = Ngjyra
 preferences-colors-description = Anashkalo ngjyrat parazgjedhje të { -brand-short-name }-it për tekst, sfonde sajtesh dhe lidhje.
 preferences-colors-manage-button =
@@ -1127,6 +1138,13 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Shtyllë Adresash
 addressbar-suggest = Kur përdoret shtylla e adresave, jep sugjerime nga
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Shtyllë Adresash — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Zgjidhni llojin e sugjerimeve që shfaqen te shtylla e adresave.
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Mësoni më tepër
 addressbar-locbar-history-option =
     .label = Historik shfletimi
     .accesskey = H
@@ -1159,7 +1177,18 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Shfaq sugjerime prirjesh kërkimi
     .accesskey = k
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = Sugjerime nga { -brand-short-name }
+addressbar-locbar-suggest-nonsponsored-desc = Merrni nga interneti sugjerime të lidhura me kërkimin tuaj.
+addressbar-locbar-suggest-sponsored-option =
+    .label = Sugjerime nga sponsorë
+addressbar-locbar-suggest-sponsored-desc = Përkrahni { -brand-short-name }-in, përmes sugjerimesh, të ndonjëherëshme, të sponsorizuara
 addressbar-quickactions-learn-more = Mësoni më tepër
+addressbar-dismissed-suggestions-label = Sugjerimet u hodhën tej
+addressbar-restore-dismissed-suggestions-description = Rikthe sugjerime të hedhura tej, nga sponsorë dhe { -brand-short-name }-i.
+addressbar-restore-dismissed-suggestions-button =
+    .label = Riktheji
 
 ## Privacy Section - Content Blocking
 

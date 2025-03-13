@@ -97,6 +97,7 @@ sidebar-customization-callout-1-subtitle = Anështylla e { -brand-product-name }
 sidebar-customization-callout-callout-button = Përshtatni anështyllën
 sidebar-customization-callout-dismiss-button = Fshihe anështyllën
 sidebar-customization-callout-2-title = Bëjeni anështyllën e { -brand-product-name }-it tuajën
+sidebar-customization-callout-2-subtitle = Shtoni dhe hiqni mjete. Vendosini skedat tuaja te anështylla. Provoni një një robot fjalosjesh IA. Se si e përshtatni anështyllën tuaj e vendosni ju.
 
 ## Sidebar Callout Survey Strings
 
