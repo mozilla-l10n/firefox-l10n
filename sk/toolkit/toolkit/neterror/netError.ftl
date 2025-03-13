@@ -13,6 +13,7 @@ neterror-captive-portal-page-title = Prihlásiť sa do siete
 neterror-dns-not-found-title = Server sa nenašiel
 neterror-malformed-uri-page-title = Neplatná URL adresa
 general-body-title = Buďte opatrní. Niečo nie je v poriadku.
+problem-with-this-site-title = Zdá sa, že s touto stránkou je problém
 
 ## Error page actions
 

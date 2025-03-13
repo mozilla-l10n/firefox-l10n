@@ -275,6 +275,16 @@ preferences-web-appearance-override-warning2 =
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Témy vzhľadu { -brand-short-name(case: "gen") } môžete spravovať v okne <a data-l10n-name="themes-link">Správcu doplnkov</a>.
 preferences-contrast-control-header = Nastavenie kontrastu
+preferences-contrast-control-description = Webové stránky majú rôzne farby popredia a pozadia. Nakonfigurujte si { -brand-short-name } tak, aby používal rovnaké farby na webových stránkach pre ich lepšiu čitateľnosť.
+preferences-contrast-control-use-platform-settings =
+    .label = Automaticky (použiť systémové nastavenia)
+    .accesskey = A
+preferences-contrast-control-off =
+    .label = Vypnuté
+    .accesskey = V
+preferences-contrast-control-custom =
+    .label = Vlastné
+    .accesskey = l
 preferences-colors-header = Farby
 preferences-colors-description = Umožňuje zmeniť predvolené farby textu, pozadia webových stránok a odkazov vo { -brand-short-name(case: "loc") }.
 preferences-colors-manage-button =

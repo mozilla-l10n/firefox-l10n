@@ -25,3 +25,7 @@ experimental-features-group-webpage-display =
     .label = Zobrazenie webovej stránky
 experimental-features-group-customize-browsing =
     .label = Prispôsobte si prehliadanie
+# Contextual Password Manager in sidebar
+experimental-features-contextual-password-manager =
+    .label = Heslá na bočnom paneli
+experimental-features-contextual-password-manager-description = Pristupujte k svojim heslám priamo z bočného panela. Už žiadne hľadanie alebo obnovovanie hesiel, keď sa pokúšate prihlásiť. Ak chcete použiť túto funkciu, označte položku Heslá na bočnom paneli. Potom prejdite do nastavení prehliadača a zapnite zobrazovanie bočného panela. Potom si prispôsobte bočný panel a zvoľte zobrazenie hesiel. Ak to vyskúšate, <a data-l10n-name="connect">dajte nám vedieť, čo si myslíte</a>.
