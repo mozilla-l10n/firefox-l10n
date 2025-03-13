@@ -271,6 +271,13 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Διαχειριστείτε τα θέματα του { -brand-short-name } στην ενότητα <a data-l10n-name="themes-link">Επεκτάσεις και θέματα</a>
+preferences-contrast-control-header = Έλεγχος αντίθεσης
+preferences-contrast-control-use-platform-settings =
+    .label = Αυτόματος (χρήση ρυθμίσεων συστήματος)
+    .accesskey = Α
+preferences-contrast-control-off =
+    .label = Ανενεργός
+    .accesskey = ν
 preferences-colors-header = Χρώματα
 preferences-colors-description = Αντικατάσταση των προεπιλεγμένων χρωμάτων του { -brand-short-name } για κείμενο, παρασκήνια ιστοτόπων και συνδέσμους.
 preferences-colors-manage-button =
