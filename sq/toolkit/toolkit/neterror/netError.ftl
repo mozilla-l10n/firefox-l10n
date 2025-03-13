@@ -13,6 +13,7 @@ neterror-captive-portal-page-title = Hyni në rrjet
 neterror-dns-not-found-title = S’u Gjet Shërbyes
 neterror-malformed-uri-page-title = URL e pavlefshme
 general-body-title = Hapni sytë. Diçka s’duket siç duhet.
+problem-with-this-site-title = Duket se ka një problem me këtë sajt
 
 ## Error page actions
 

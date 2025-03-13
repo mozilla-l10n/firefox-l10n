@@ -18,6 +18,10 @@ support-addons-type = Lloj
 support-addons-enabled = E aktivizuar
 support-addons-version = Version
 support-addons-id = ID
+# In the add-on world, locations are where the addon files are stored. Each
+# location has name. For instance: app-system-addons, app-builtin,
+# app-temporary, etc.
+support-addons-location-name = Vendndodhje
 legacy-user-stylesheets-title = Fletëstile Përdoruesi të Dikurshme
 legacy-user-stylesheets-enabled = Aktive
 legacy-user-stylesheets-stylesheet-types = Fletëstile
