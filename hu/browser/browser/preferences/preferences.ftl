@@ -272,6 +272,15 @@ preferences-web-appearance-override-warning2 =
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Kezelje a { -brand-short-name } témáit a <a data-l10n-name="themes-link">Kiegészítők és témák</a> lapon
 preferences-contrast-control-header = Kontrasztvezérlés
+preferences-contrast-control-use-platform-settings =
+    .label = Automatikus (rendszerbeállítások használata)
+    .accesskey = A
+preferences-contrast-control-off =
+    .label = Ki
+    .accesskey = K
+preferences-contrast-control-custom =
+    .label = Egyéni
+    .accesskey = E
 preferences-colors-header = Színek
 preferences-colors-description = A { -brand-short-name } alapértelmezett színeinek felülírása a szövegnél, a webhelyek hátterénél és a hivatkozásoknál.
 preferences-colors-manage-button =
