@@ -19,4 +19,5 @@ preonboarding-privacy-notice-header-button-title-b = { -brand-product-name } per
 preonboarding-header-button-description = Les meir
 # New user onboarding checklist
 preonboarding-checklist-interaction-data-label = Send teknisk data og samhandlingsdata til { -vendor-short-name }
+preonboarding-checklist-interaction-data-description = Informasjon om eininga di, maskinvareoppsettet, og korleis du brukar { -brand-product-name } hjelper oss å forbetre funksjonar, yting og stabilitet for alle brukarar.
 preonboarding-checklist-crash-reports-label = Send krasjrapportar automatisk
