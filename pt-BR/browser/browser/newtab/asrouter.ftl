@@ -261,7 +261,7 @@ pdf-default-notification-decline-button =
 
 ## Launch on login infobar notification
 
-launch-on-login-infobar-message = <strong>Abrir o { -brand-short-name } sempre que reiniciar o computador?</strong> Agora você pode configurar o { -brand-short-name } para abrir automaticamente ao reiniciar o dispositivo.
+launch-on-login-infobar-message = <strong>Quer que o { -brand-short-name } seja aberto sempre que o computador reiniciar?</strong> Agora você pode configurar o { -brand-short-name } para abrir automaticamente ao reiniciar o dispositivo.
 launch-on-login-learnmore = Saiba mais
 launch-on-login-infobar-confirm-button = Sim, abrir o { -brand-short-name }
     .accesskey = S
