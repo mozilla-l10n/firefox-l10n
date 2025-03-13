@@ -28,3 +28,4 @@ experimental-features-group-customize-browsing =
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Пароли на боковой панели
+experimental-features-contextual-password-manager-description = Получайте доступ к своим паролям прямо на боковой панели. Больше не нужно искать или сбрасывать пароли, когда вы пытаетесь войти. Чтобы использовать эту функцию, выберите пароли на боковой панели. Затем перейдите в общие настройки и в разделе внешнего вида браузера выберите показать боковую панель. Затем настройте боковую панель, выбрав пароли. Если вы попробуете это сделать, <a data-l10n-name="connect">сообщите нам, что вы думаете</a>.
