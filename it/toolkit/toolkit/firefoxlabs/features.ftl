@@ -29,3 +29,7 @@ experimental-features-group-customize-browsing =
 experimental-features-contextual-password-manager =
     .label = Password nella barra laterale
 experimental-features-contextual-password-manager-description = Accedi alle tue password direttamente dalla barra laterale. Non dovrai più cercare ovunque o reimpostare le password quando cerchi di accedere a un sito. Per utilizzare questa funzione, attiva l’opzione password nella barra laterale. Quindi vai alle impostazioni generali e, nella sezione “Layout del browser”, seleziona “Mostra barra laterale”. Infine, personalizza la barra laterale selezionando password. Se provi questa funzione, <a data-l10n-name="connect">facci sapere che cosa ne pensi</a>.
+# New Tab Custom Wallpapers
+experimental-features-custom-wallpaper =
+    .label = Scegli uno sfondo o un colore personalizzato per la pagina Nuova scheda
+experimental-features-custom-wallpaper-description = Carica il tuo sfondo o scegli un colore personalizzato per lo sfondo delle nuove schede.
