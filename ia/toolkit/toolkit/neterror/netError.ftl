@@ -13,6 +13,7 @@ neterror-captive-portal-page-title = Aperir session in le rete
 neterror-dns-not-found-title = Servitor non trovate
 neterror-malformed-uri-page-title = URL invalide
 general-body-title = Attention! Alco non pare correcte.
+problem-with-this-site-title = Il pare que il ha un problema con iste sito
 
 ## Error page actions
 

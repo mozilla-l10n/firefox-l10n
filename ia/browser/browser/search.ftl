@@ -50,6 +50,7 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = Adder motor personalisate
 add-engine-name = Nomine del motor de recerca
+add-engine-keyword = Parola clave
 add-engine-url = URL del motor, usa %s in loco del termino de recerca
 add-engine-dialog =
     .buttonlabelaccept = Adder motor

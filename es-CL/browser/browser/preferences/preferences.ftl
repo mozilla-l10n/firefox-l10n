@@ -271,6 +271,17 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Gestiona los temas de { -brand-short-name } en <a data-l10n-name="themes-link">Extensiones y temas</a>
+preferences-contrast-control-header = Control de contraste
+preferences-contrast-control-description = Los sitios web tienen una variedad de colores de primer plano y de fondo. Configura { -brand-short-name } para usar los mismos colores en todos los sitios web y mejorar la legibilidad.
+preferences-contrast-control-use-platform-settings =
+    .label = Automático (utilizar configuración del sistema)
+    .accesskey = A
+preferences-contrast-control-off =
+    .label = Desactivado
+    .accesskey = O
+preferences-contrast-control-custom =
+    .label = Personalizado
+    .accesskey = C
 preferences-colors-header = Colores
 preferences-colors-description = Decide tus colores predeterminados de { -brand-short-name } para textos, fondos de sitios web y enlaces.
 preferences-colors-manage-button =

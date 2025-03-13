@@ -18,6 +18,10 @@ support-addons-type = Typo
 support-addons-enabled = Activate
 support-addons-version = Version
 support-addons-id = ID
+# In the add-on world, locations are where the addon files are stored. Each
+# location has name. For instance: app-system-addons, app-builtin,
+# app-temporary, etc.
+support-addons-location-name = Position
 legacy-user-stylesheets-title = Ancian folios de stilo de usator
 legacy-user-stylesheets-enabled = Active
 legacy-user-stylesheets-stylesheet-types = Folios de stilo
