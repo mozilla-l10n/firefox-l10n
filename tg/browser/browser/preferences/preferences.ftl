@@ -271,6 +271,12 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Мавзуъҳои «{ -brand-short-name }»-ро дар бахши <a data-l10n-name="themes-link">Васеъшавиҳо ва мавзуъҳо</a> идора кунед
+preferences-contrast-control-off =
+    .label = Ғайрифаъол
+    .accesskey = Ғ
+preferences-contrast-control-custom =
+    .label = Фармоишӣ
+    .accesskey = Ф
 preferences-colors-header = Рангҳо
 preferences-colors-description = Рангҳои пешфарзи «{ -brand-short-name }»-ро барои матн, заминаҳои сомонаҳо ва пайвандҳо иваз намоед.
 preferences-colors-manage-button =

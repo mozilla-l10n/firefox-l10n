@@ -187,6 +187,15 @@ urlbar-result-menu-remove-from-history =
 urlbar-result-menu-tip-get-help =
     .label = Гирифтани кумак
     .accesskey = Г
+urlbar-result-menu-dismiss-suggestion =
+    .label = Нодида гузарондани ин пешниҳод
+    .accesskey = Н
+urlbar-result-menu-learn-more-about-firefox-suggest =
+    .label = Маълумоти бештар дар бораи «{ -firefox-suggest-brand-name }»
+    .accesskey = М
+urlbar-result-menu-manage-firefox-suggest =
+    .label = Идоракунии «{ -firefox-suggest-brand-name }»
+    .accesskey = И
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.

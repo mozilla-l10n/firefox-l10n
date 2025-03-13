@@ -129,3 +129,5 @@ about-reader-text-alignment-center =
     .title = Баробар кардани матн дар марказ
 about-reader-text-alignment-right =
     .title = Баробар кардани матн аз тарафи рост
+about-reader-text-alignment-justify =
+    .title = Баробар кардани матн

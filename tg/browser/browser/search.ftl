@@ -50,6 +50,7 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = Илова кардани низоми ҷустуҷӯии фармоишӣ
 add-engine-name = Номи низоми ҷустуҷӯӣ
+add-engine-keyword = Калимаи калидӣ
 add-engine-url = Нишонии URL-и низоми ҷустуҷӯӣ, ба ҷойи вожаи ҷустуҷӯӣ аз %s истифода баред
 add-engine-dialog =
     .buttonlabelaccept = Илова кардани низоми ҷустуҷӯӣ
