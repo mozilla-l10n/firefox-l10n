@@ -56,3 +56,4 @@ add-engine-dialog =
     .buttonlabelaccept = Adder motor
     .buttonaccesskeyaccept = m
 engine-name-exists = Un motor con iste nomine jam existe.
+engine-keyword-exists = Un motor con ille parola clave jam existe

@@ -271,6 +271,11 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Gere le themas de { -brand-short-name } in <a data-l10n-name="themes-link">Extensiones e themas</a>
+preferences-contrast-control-header = Controlo de contrasto
+preferences-contrast-control-description = Le sitos web ha plure colores de prime plano e de fundo. Configura { -brand-short-name } pro usar le mesme colores a transverso sitos web pro legibilitate meliorate.
+preferences-contrast-control-use-platform-settings =
+    .label = Automatic (usar parametros de systema)
+    .accesskey = A
 preferences-contrast-control-off =
     .label = Disactivar
     .accesskey = D
