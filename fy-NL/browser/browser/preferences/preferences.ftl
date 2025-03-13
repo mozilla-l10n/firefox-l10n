@@ -270,6 +270,12 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Jo kinne { -brand-short-name }-tema’s beheare yn <a data-l10n-name="themes-link">Utwreidingen en tema’s</a>
+preferences-contrast-control-off =
+    .label = Ut
+    .accesskey = U
+preferences-contrast-control-custom =
+    .label = Oanpast
+    .accesskey = p
 preferences-colors-header = Kleuren
 preferences-colors-description = De standertkleuren fan { -brand-short-name } oerskriuwe foar tekst, website-eftergrûnen en keppelingen.
 preferences-colors-manage-button =
@@ -1169,6 +1175,7 @@ addressbar-locbar-suggest-nonsponsored-option =
 addressbar-locbar-suggest-sponsored-option =
     .label = Suggestjes fan sponsors
 addressbar-quickactions-learn-more = Mear ynfo
+addressbar-dismissed-suggestions-label = Sletten suggestjes
 addressbar-restore-dismissed-suggestions-button =
     .label = Werom bringe
 

@@ -50,6 +50,7 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = 添加自定义引擎
 add-engine-name = 搜索引擎名称
+add-engine-keyword = 关键词
 add-engine-url = 搜索引擎 URL，用 %s 替换搜索词
 add-engine-dialog =
     .buttonlabelaccept = 添加搜索引擎
