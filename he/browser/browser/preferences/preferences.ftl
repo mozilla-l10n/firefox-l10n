@@ -148,6 +148,8 @@ preferences-data-migration-description = ייבוא סימניות, ססמאות
 preferences-data-migration-button =
     .label = ייבוא נתונים
     .accesskey = י
+preferences-profiles-header = פרופילים
+preferences-manage-profiles-description = לכל פרופיל יש נתוני גלישה והגדרות נפרדים, כולל היסטוריה, ססמאות ועוד.
 preferences-manage-profiles-learn-more = מידע נוסף
 preferences-manage-profiles-button =
     .label = ניהול פרופילים
@@ -269,6 +271,11 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = ניהול ערכות נושא של { -brand-short-name } ב<a data-l10n-name="themes-link">הרחבות וערכות נושא</a>
+preferences-contrast-control-header = בקרת ניגודיות
+preferences-contrast-control-description = לאתרים יש מגוון צבעי קדמה ורקע. ניתן להגדיר את { -brand-short-name } להשתמש באותם צבעים באתרי אינטרנט לשיפור יכולת הקריאה.
+preferences-contrast-control-use-platform-settings =
+    .label = אוטומטי (שימוש בהגדרות מערכת)
+    .accesskey = א
 preferences-colors-header = צבעים
 preferences-colors-description = דריסת צבעי ברירת המחדל של { -brand-short-name } עבור טקסט, רקעי אתרים וקישורים.
 preferences-colors-manage-button =
