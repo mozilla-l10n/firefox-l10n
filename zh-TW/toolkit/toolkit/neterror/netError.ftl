@@ -13,6 +13,7 @@ neterror-captive-portal-page-title = 登入到網路
 neterror-dns-not-found-title = 找不到伺服器
 neterror-malformed-uri-page-title = 網址無效
 general-body-title = 請小心，有些東西不對勁。
+problem-with-this-site-title = 看來此網站有點問題
 
 ## Error page actions
 

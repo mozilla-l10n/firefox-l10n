@@ -259,6 +259,17 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = 到<a data-l10n-name="themes-link">擴充套件與佈景主題</a>管理 { -brand-short-name } 的佈景主題
+preferences-contrast-control-header = 對比控制
+preferences-contrast-control-description = 網站會使用不同的前景與背景色。可設定 { -brand-short-name } 在不同網站間使用相同色彩，以改進可讀性。
+preferences-contrast-control-use-platform-settings =
+    .label = 自動（使用系統設定）
+    .accesskey = A
+preferences-contrast-control-off =
+    .label = 關閉
+    .accesskey = O
+preferences-contrast-control-custom =
+    .label = 自訂
+    .accesskey = C
 preferences-colors-header = 色彩
 preferences-colors-description = 覆蓋 { -brand-short-name } 的預設文字、網站背景、鏈結色彩。
 preferences-colors-manage-button =
