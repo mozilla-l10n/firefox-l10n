@@ -91,6 +91,8 @@ sidebar-pins-callout-cta-button = Fest fane
 sidebar-customization-callout-1-title = Sidestolpe: staden din for verktøy og faner
 sidebar-customization-callout-callout-button = Tilpass sidestolpe
 sidebar-customization-callout-dismiss-button = Skjul sidestolpe
+sidebar-customization-callout-2-title = Gjer { -brand-product-name }-sidestolpen til din eigen
+sidebar-customization-callout-2-subtitle = Legg til og fjern verktøy. Plasser fanene dine i sidestolpen. Prøv ein AI-chatbot. Korleis du tilpassar sidestolpen er opp til deg.
 
 ## Sidebar Callout Survey Strings
 
