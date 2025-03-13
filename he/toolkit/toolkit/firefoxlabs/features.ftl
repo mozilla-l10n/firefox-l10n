@@ -16,3 +16,6 @@ experimental-features-group-webpage-display =
     .label = תצוגה של דפי אינטרנט
 experimental-features-group-customize-browsing =
     .label = התאמה אישית של הגלישה שלך
+# Contextual Password Manager in sidebar
+experimental-features-contextual-password-manager =
+    .label = ססמאות בסרגל הצד
