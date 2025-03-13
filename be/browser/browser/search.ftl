@@ -50,6 +50,7 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = Дадаць уласны пашукавік
 add-engine-name = Назва пашукавіка
+add-engine-keyword = Ключавое слова
 add-engine-url = URL-адрас пашукавіка, выкарыстоўвайце %s замест пошукавага тэрміна
 add-engine-dialog =
     .buttonlabelaccept = Дадаць рухавік
