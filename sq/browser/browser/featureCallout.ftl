@@ -77,12 +77,26 @@ sidebar-button-callout-vertical-tabs = Që të shfaqen skedat tuaja, përzgjidhn
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = Të përmbytur nga shumë skeda?
+vertical-tabs-callout-1-subtitle = Provoni skemën tonë të re vertikale për skedat, për të kontrolluar shpejt e shpejt listën tuaj të skedave. Testues të hershëm thonë se kjo skemë i ndihmon të ndihen më të organizuar. Ndërrojeni kurdo.
+vertical-tabs-callout-1-cta-button = Provoni skedat vertikale
+vertical-tabs-callout-2-cta-button = Provojeni tani
+vertical-tabs-callout-2-title = Mbani plot skeda? Provoni skeda vertikale.
+vertical-tabs-callout-2-subtitle = Kjo skemë e bën të kollajtë të kontrolloni shpejt e shpejt listën e skedave tuaja. Plus, mund të përimtoni gjerësinë, që të shihni më tepër ose më pak nga titujt e skedave tuaja.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = Po humbni kontrollin mbi skedat tuaja të rëndësishme?
+sidebar-pins-callout-subtitle = Provoni t’i fiksoni, çka i mban në krye të listës së skedave tuaja. Djathtasklikoni mbi një skedë që dëshironi ta fiksoni, mandej zgjidhni “Fiksoje Skedën”.
+sidebar-pins-callout-cta-button = Fiksoje skedën
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Anështyllë: vendi juaj për mjete dhe skeda
+sidebar-customization-callout-1-subtitle = Anështylla e { -brand-product-name }-i ju jep hyrje të shpejtë te historiku i shfletimeve tuaja, skedat nga pajisje të tjera dhe një robot fjalosjesh IA — gjithçka pa braktisur pamjen kryesore të shfletuesit.
+sidebar-customization-callout-callout-button = Përshtatni anështyllën
+sidebar-customization-callout-dismiss-button = Fshihe anështyllën
+sidebar-customization-callout-2-title = Bëjeni anështyllën e { -brand-product-name }-it tuajën
 
 ## Sidebar Callout Survey Strings
 
