@@ -25,3 +25,6 @@ experimental-features-group-webpage-display =
     .label = Отображение веб-страницы
 experimental-features-group-customize-browsing =
     .label = Настройте свой просмотр
+# Contextual Password Manager in sidebar
+experimental-features-contextual-password-manager =
+    .label = Пароли на боковой панели

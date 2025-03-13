@@ -274,6 +274,17 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Управляйте темами { -brand-short-name } в разделе <a data-l10n-name="themes-link">«Расширения и темы»</a>
+preferences-contrast-control-header = Управление контрастом
+preferences-contrast-control-description = Веб-сайты имеют различные цвета переднего плана и фона. Настройте { -brand-short-name } на использование одинаковых цветов на всех веб-сайтах для улучшения читабельности.
+preferences-contrast-control-use-platform-settings =
+    .label = Автоматически (использовать системные настройки)
+    .accesskey = Ф
+preferences-contrast-control-off =
+    .label = Выкл.
+    .accesskey = Щ
+preferences-contrast-control-custom =
+    .label = Персональная
+    .accesskey = Ц
 preferences-colors-header = Цвета
 preferences-colors-description = Переопределяйте цвета { -brand-short-name } по умолчанию для текста, фона сайтов и ссылок.
 preferences-colors-manage-button =
