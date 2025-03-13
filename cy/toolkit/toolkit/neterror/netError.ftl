@@ -13,6 +13,7 @@ neterror-captive-portal-page-title = Mewngofnodi i'r rhwydwaith
 neterror-dns-not-found-title = Heb Ganfod Gweinydd
 neterror-malformed-uri-page-title = URL annilys
 general-body-title = Byddwch yn ofalus. Mae rhywbeth i weld o'i le.
+problem-with-this-site-title = Mae'n ymddangos bod problem gyda'r wefan hon
 
 ## Error page actions
 
