@@ -272,10 +272,16 @@ preferences-web-appearance-override-warning2 =
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = ניהול ערכות נושא של { -brand-short-name } ב<a data-l10n-name="themes-link">הרחבות וערכות נושא</a>
 preferences-contrast-control-header = בקרת ניגודיות
-preferences-contrast-control-description = לאתרים יש מגוון צבעי קדמה ורקע. ניתן להגדיר את { -brand-short-name } להשתמש באותם צבעים באתרי אינטרנט לשיפור יכולת הקריאה.
+preferences-contrast-control-description = לאתרים יש מגוון צבעי קדמה ורקע. ניתן להגדיר ל־{ -brand-short-name } להשתמש באותם צבעים באתרי אינטרנט לשיפור יכולת הקריאה.
 preferences-contrast-control-use-platform-settings =
     .label = אוטומטי (שימוש בהגדרות מערכת)
     .accesskey = א
+preferences-contrast-control-off =
+    .label = כבוי
+    .accesskey = כ
+preferences-contrast-control-custom =
+    .label = התאמה אישית
+    .accesskey = ה
 preferences-colors-header = צבעים
 preferences-colors-description = דריסת צבעי ברירת המחדל של { -brand-short-name } עבור טקסט, רקעי אתרים וקישורים.
 preferences-colors-manage-button =
@@ -1129,6 +1135,13 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = שורת כתובת
 addressbar-suggest = כאשר משתמשים בסרגל החיפוש, יוצגו המלצות עבור
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = שורת הכתובת - { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = ניתן לבחור את סוג ההצעות המופיעות בשורת הכתובת.
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = מידע נוסף
 addressbar-locbar-history-option =
     .label = היסטוריית גלישה
     .accesskey = ג
@@ -1161,6 +1174,10 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = הצגת הצעות חיפוש פופולריים
     .accesskey = פ
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = הצעות מ־{ -brand-short-name }
+addressbar-locbar-suggest-nonsponsored-desc = קבלת הצעות מהאינטרנט הקשורות לחיפוש שלך.
 addressbar-locbar-suggest-sponsored-option =
     .label = הצעות מנותני חסות
 addressbar-locbar-suggest-sponsored-desc = תמיכה ב־{ -brand-short-name } עם הצעות ממומנות מדי פעם.
