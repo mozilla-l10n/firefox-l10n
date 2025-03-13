@@ -25,3 +25,7 @@ experimental-features-group-webpage-display =
     .label = Websiteweergave
 experimental-features-group-customize-browsing =
     .label = Pas uw browser aan
+# Contextual Password Manager in sidebar
+experimental-features-contextual-password-manager =
+    .label = Wachtwoorden in de zijbalk
+experimental-features-contextual-password-manager-description = Benader uw wachtwoorden rechtstreeks vanuit de zijbalk. Nooit meer zoeken of wachtwoorden opnieuw instellen wanneer u zich probeert aan te melden. Selecteer ‘Wachtwoorden in de zijbalk’ om deze functie te gebruiken. Ga vervolgens naar uw algemene instellingen en selecteer onder Browserindeling de optie ‘Zijbalk tonen’. Pas daarna uw zijbalk aan door ‘Wachtwoorden’ te selecteren. Als u het probeert, <a data-l10n-name="connect">laat dan weten wat u ervan vindt</a>.

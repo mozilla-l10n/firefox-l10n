@@ -271,6 +271,17 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = U kunt { -brand-short-name }-thema’s beheren in <a data-l10n-name="themes-link">Extensies en thema’s</a>
+preferences-contrast-control-header = Contrastregeling
+preferences-contrast-control-description = Websites hebben een verscheidenheid aan voor- en achtergrondkleuren. Configureer { -brand-short-name } om op verschillende websites dezelfde kleuren te gebruiken voor verbeterde leesbaarheid.
+preferences-contrast-control-use-platform-settings =
+    .label = Automatisch (systeeminstellingen gebruiken)
+    .accesskey = A
+preferences-contrast-control-off =
+    .label = Uit
+    .accesskey = U
+preferences-contrast-control-custom =
+    .label = Aangepast
+    .accesskey = g
 preferences-colors-header = Kleuren
 preferences-colors-description = De standaardkleuren van { -brand-short-name } overschrijven voor tekst, website-achtergronden en koppelingen.
 preferences-colors-manage-button =
