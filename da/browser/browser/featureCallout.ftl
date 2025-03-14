@@ -80,9 +80,12 @@ sidebar-button-callout-vertical-tabs = For at se dine faneblade skal du klikke p
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-cta-button = Fastgør faneblad
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-callout-button = Tilpas sidepanel
+sidebar-customization-callout-dismiss-button = Skjul sidepanel
 
 ## Sidebar Callout Survey Strings
 
