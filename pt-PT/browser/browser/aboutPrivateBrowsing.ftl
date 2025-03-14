@@ -59,7 +59,7 @@ about-private-browsing-pin-promo-link-text =
         [macos] Manter na Doca
        *[other] Fixar na barra de tarefas
     }
-about-private-browsing-pin-promo-title = Sem cookies ou histórico salvos, diretamente a partir do seu ambiente de trabalho. Navegue como se ninguém estivesse a ver.
+about-private-browsing-pin-promo-title = Sem cookies ou histórico guardados, diretamente a partir do seu ambiente de trabalho. Navegue como se ninguém estivesse a ver.
 
 ## Strings used in a promotion message for cookie banner reduction
 
