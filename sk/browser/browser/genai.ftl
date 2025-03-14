@@ -110,7 +110,7 @@ genai-options-show-shortcut =
 genai-options-hide-shortcut =
     .label = Skryť skratku pri výbere textu
 genai-options-about-chatbot =
-    .label = O AI chatbotoch vo { -brand-short-name(case: "gen") }
+    .label = O AI chatbotoch vo { -brand-short-name(case: "loc") }
 
 ## Chatbot onboarding
 
