@@ -15,6 +15,10 @@ support-addons-type = სახეობა
 support-addons-enabled = ჩართულია
 support-addons-version = ვერსია
 support-addons-id = ID
+# In the add-on world, locations are where the addon files are stored. Each
+# location has name. For instance: app-system-addons, app-builtin,
+# app-temporary, etc.
+support-addons-location-name = მდებარეობა
 legacy-user-stylesheets-title = მომხმარებლის სტილის მოძველებული ცხრილები
 legacy-user-stylesheets-enabled = მოქმედი
 legacy-user-stylesheets-stylesheet-types = სტილის ცხრილები

@@ -271,6 +271,17 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = გააფორმეთ { -brand-short-name } <a data-l10n-name="themes-link">გაფართოებებისა და თემების</a> განყოფილებიდან
+preferences-contrast-control-header = გამოკვეთილობის მართვა
+preferences-contrast-control-description = საიტებს გააჩნია სხვადასხვა სახის წინა და ფონური ფერები. მომართეთ { -brand-short-name }, რომ ერთი და იგივე ფერები გამოიყენოს საიტებზე კითხვის გასაიოლებლად.
+preferences-contrast-control-use-platform-settings =
+    .label = თვითშერჩევა (სისტემის მიხედვით)
+    .accesskey = ვ
+preferences-contrast-control-off =
+    .label = გამორთ.
+    .accesskey = ო
+preferences-contrast-control-custom =
+    .label = მორგებული
+    .accesskey = რ
 preferences-colors-header = ფერები
 preferences-colors-description = ყოველთვის ჩანაცვლდეს ნაწერის, საიტის ფონისა და ბმულების გაფორმება იმ ნაგულისხმევი ფერებით, რომელთაც { -brand-short-name } იყენებს.
 preferences-colors-manage-button =

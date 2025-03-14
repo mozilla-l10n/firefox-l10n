@@ -13,6 +13,7 @@ neterror-captive-portal-page-title = ქსელში შესვლა
 neterror-dns-not-found-title = გვერდი ვერ მოიძებნა
 neterror-malformed-uri-page-title = უმართებულო URL-ბმული
 general-body-title = სიფრთხილე გამოიჩინეთ. რაღაც რიგზე ვერაა.
+problem-with-this-site-title = როგორც ჩანს, ხარვეზი საიტის მხრიდანაა
 
 ## Error page actions
 
