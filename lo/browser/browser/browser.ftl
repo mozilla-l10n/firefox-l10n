@@ -873,6 +873,11 @@ private-browsing-indicator-label = ການທ່ອງເວັບແບບສ
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = ການທ່ອງເວັບແບບສ່ວນຕົວ
+# Tooltip for the indicator shown in the window titlebar when content analysis is active.
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-indicator-tooltip =
+    .tooltiptext = ການປ້ອງກັນການສູນເສຍຂໍ້ມູນ (DLP) ໂດຍ { $agentName }. ຄລິກສຳລັບຂໍ້ມູນເພີ່ມເຕີມ.
 content-analysis-panel-title = ການປົກປ້ອງຂໍ້ມູນ
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
