@@ -28,3 +28,4 @@ experimental-features-group-customize-browsing =
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = პაროლები გვერდით ზოლზე
+experimental-features-contextual-password-manager-description = წვდომა თქვენს პაროლებთან პირდაპირ გვერდითი ზოლიდან. აღარავითარი ძიება ან პაროლების განულება შესვლის მცდელობისას. ამ შესაძლებლობით სარგებლობისთვის აირჩიეთ პაროლები გვერდით ზოლზე. გადადით მთავარ პარამეტრებში და განლაგების განყოფილებაში მიუთითეთ გვერდითი ზოლის ჩვენება. შემდეგ კი მოირგეთ გვერდითი ზოლი პაროლების არჩევით. თუ მოსინჯავთ, <a data-l10n-name="connect">გვაცნობეთ, რას აზრის ხართ</a>.
