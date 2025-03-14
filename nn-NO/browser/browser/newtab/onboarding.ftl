@@ -419,6 +419,8 @@ onboarding-vertical-tabs-description =
     .aria-description = Eit nettlesarvindauge som viser faner langs sida av skjermen som del av { -brand-shorter-name }-sidestolpen.
 # Additional setup card for setting up aichatbot in the sidebar
 onboarding-genai-sidebar-title = Prøv ein samtalerobot i sidefeltet
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = Samanfatt, ha ein idédugnad, kladd meldingar — alt medan du surfar. Vel frå fleire leverandørar. Byt når som helst. <a data-l10n-name="learn-more">Les meir</a>
 onboarding-genai-sidebar-primary-button = Vel ein samtalerobot
 onboarding-genai-sidebar-secondary-button = Start nettlesinga
 
