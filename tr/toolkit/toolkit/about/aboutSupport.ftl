@@ -18,6 +18,10 @@ support-addons-type = Tür
 support-addons-enabled = Etkin
 support-addons-version = Sürüm
 support-addons-id = Kimlik
+# In the add-on world, locations are where the addon files are stored. Each
+# location has name. For instance: app-system-addons, app-builtin,
+# app-temporary, etc.
+support-addons-location-name = Konum
 legacy-user-stylesheets-title = Eski kullanıcı stil sayfaları
 legacy-user-stylesheets-enabled = Etkin
 legacy-user-stylesheets-stylesheet-types = Stil sayfaları

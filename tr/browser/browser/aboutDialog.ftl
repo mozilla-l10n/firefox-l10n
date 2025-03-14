@@ -47,7 +47,7 @@ aboutdialog-channel-description = Şu anda <label data-l10n-name="current-channe
 warningDesc-version = { -brand-short-name } deneyseldir ve kararsız olabilir.
 aboutdialog-help-user = { -brand-product-name } yardımı
 aboutdialog-submit-feedback = Görüş bildir
-community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> Web’i açık, kamusal ve herkesçe erişilebilir kılmak için birlikte çalışan <label data-l10n-name="community-exp-creditsLink">küresel bir topluluktur</label>.
+community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> web’i açık, kamusal ve herkesçe erişilebilir kılmak için birlikte çalışan <label data-l10n-name="community-exp-creditsLink">küresel bir topluluktur</label>.
 community-2 = { -brand-short-name }, <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label> tarafından tasarlanmıştır. { -vendor-short-name }, interneti daha iyiye taşımak için birlikte çalışan <label data-l10n-name="community-creditsLink">küresel bir topluluktur</label>.
 helpus = Yardım etmek ister misiniz? <label data-l10n-name="helpus-donateLink">Bağış yapın</label> veya <label data-l10n-name="helpus-getInvolvedLink">aramıza katılın!</label>
 bottomLinks-license = Lisans Bilgileri

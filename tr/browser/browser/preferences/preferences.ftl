@@ -271,6 +271,17 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = { -brand-short-name } temalarını <a data-l10n-name="themes-link">Uzantılar ve Temalar</a> sayfasından yönetebilirsiniz.
+preferences-contrast-control-header = Kontrast denetimi
+preferences-contrast-control-description = Web sitelerinin çeşitli ön plan ve arka plan renkleri vardır. Okunabilirliği artırmak için { -brand-short-name } tarayıcısını tüm sitelerde aynı renkleri kullanacak şekilde yapılandırabilirsiniz.
+preferences-contrast-control-use-platform-settings =
+    .label = Otomatik (Sistem ayarlarını kullan)
+    .accesskey = O
+preferences-contrast-control-off =
+    .label = Kapalı
+    .accesskey = K
+preferences-contrast-control-custom =
+    .label = Özel
+    .accesskey = Ö
 preferences-colors-header = Renkler
 preferences-colors-description = { -brand-short-name } tarayıcınızın varsayılan metin, site arka planı ve bağlantı renklerini geçersiz kılın.
 preferences-colors-manage-button =
