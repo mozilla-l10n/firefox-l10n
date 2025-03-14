@@ -7,8 +7,12 @@
 
 preonboarding-title = Velkomen til { -brand-product-name }
 preonboarding-primary-cta = Stadfest og hald fram
+# Label for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
+preonboarding-manage-and-read-header = Handsam innstillingar for datainnsamling, og les brukarvilkåra og personvernfråsegna vår
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Les brukarvilkåra våre
+# Label for header style button that toggles showing the Privacy Notice
+preonboarding-privacy-notice-header-button-title = Les personvernfråsegna vår
 # Label for header style button that toggles showing the data preference checklist
 preonboarding-manage-data-header-button-title = Handsam diagnostikk- og samhandlingsdata
 # Label for header style button that toggles showing the Terms of Use (Variant B)

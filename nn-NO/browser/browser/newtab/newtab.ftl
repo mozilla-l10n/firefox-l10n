@@ -407,6 +407,7 @@ newtab-wallpaper-celestial-lunar-eclipse = Måneformørking
 newtab-wallpaper-celestial-earth-night = Nattfoto frå låg bane rundt jorda
 newtab-wallpaper-celestial-starry-sky = Stjerneklar himmel
 newtab-wallpaper-celestial-eclipse-time-lapse = Intervallfoto av måneformørking
+newtab-wallpaper-celestial-black-hole = Illustrasjon av galakse med svart hol
 newtab-wallpaper-celestial-river = Satellittbilde av elv
 
 ## New Tab Weather

@@ -229,13 +229,16 @@ containers-remove-cancel-button = Ikkje fjern denne behaldaren
 settings-tabs-show-image-in-preview =
     .label = Vis ei førehandsvising når du held musepeikaren over ei fane
     .accessKey = f
+browser-layout-header = Nettlesarutforming
 browser-layout-horizontal-tabs =
     .label = Horisontale faner
+browser-layout-horizontal-tabs-desc = Vis øvst i nettlesaren
 browser-layout-vertical-tabs =
     .label = Vertikale faner
 browser-layout-vertical-tabs-desc = Vis på sida, i sidestolpen
 browser-layout-show-sidebar =
     .label = Vis sidestolpe
+browser-layout-show-sidebar-desc = Få rask tilgang til bokmerke, faner frå mobilen din, AI-chatbotar og meir utan å forlate hovudvisinga.
 
 ## General Section - Language & Appearance
 
@@ -267,6 +270,7 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Handsam { -brand-short-name }-tema i <a data-l10n-name="themes-link">Utvidingar og tema</a>
+preferences-contrast-control-header = Kontrastkontroll
 preferences-contrast-control-off =
     .label = Av
     .accesskey = A
