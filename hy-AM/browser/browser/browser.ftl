@@ -304,7 +304,7 @@ quickactions-cmd-settings = կարգավորումներ, նախապատվութ
 quickactions-themes = Կառավարեք ոճերը
 quickactions-cmd-themes = Ոճեր
 # Opens a SUMO article explaining how to update the browser
-quickactions-update = Արդիացնել { -brand-short-name }­-ը
+quickactions-update = Թարմացնել { -brand-short-name }­-ը
 quickactions-cmd-update = արդիացնել
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Դիտել Էջի Կոդը
