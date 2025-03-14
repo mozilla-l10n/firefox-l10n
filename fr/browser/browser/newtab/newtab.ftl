@@ -360,6 +360,10 @@ newtab-wallpaper-abstract-purple = Formes violettes
 newtab-wallpaper-abstract-orange = Formes oranges
 newtab-wallpaper-gradient-orange = Dégradé d’orange et de rose
 newtab-wallpaper-abstract-blue-purple = Formes bleues et violettes
+newtab-wallpaper-abstract-white-curves = Blanc avec des courbes ombrées
+newtab-wallpaper-abstract-purple-green = Dégradé violet et vert clair
+newtab-wallpaper-abstract-blue-purple-waves = Formes ondulées bleues et violettes
+newtab-wallpaper-abstract-black-waves = Formes ondulées noires
 
 ## Celestial
 
@@ -370,6 +374,7 @@ newtab-wallpaper-storm-sky = Ciel orageux
 newtab-wallpaper-sky-with-pink-clouds = Ciel avec des nuages roses
 newtab-wallpaper-red-panda-yawns-in-a-tree = Un panda roux qui baille sur un arbre
 newtab-wallpaper-white-mountains = Montagnes blanches
+newtab-wallpaper-hot-air-balloons = Diverses montgolfières colorées en plein jour
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
