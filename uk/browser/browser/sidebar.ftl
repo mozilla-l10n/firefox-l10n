@@ -46,6 +46,10 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = Керувати налаштуваннями { -brand-short-name }
 sidebar-vertical-tabs =
     .label = Вертикальні вкладки
+sidebar-settings =
+    .label = Налаштування бічної панелі
+sidebar-hide-tabs-and-sidebar =
+    .label = Приховати вкладки та бічну панель
 
 ## Labels for sidebar context menu items
 

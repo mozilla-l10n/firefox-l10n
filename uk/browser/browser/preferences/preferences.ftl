@@ -1422,12 +1422,17 @@ space-alert-under-5gb-message2 = <strong>Для { -brand-short-name } закін
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = HTTPS-режим
+httpsonly-description3 = Дозволяє лише захищені з'єднання з вебсайтами. { -brand-short-name } запитає перш ніж встановлювати незахищене з'єднання.
+httpsonly-learn-more2 = Як працює HTTPS-режим
 httpsonly-description = HTTPS забезпечує захищене, зашифроване з'єднання між { -brand-short-name } та відвідуваними вебсайтами. Більшість вебсайтів підтримують HTTPS, тому якщо увімкнено HTTPS-режим, { -brand-short-name } перенаправлятиме усі з'єднання до HTTPS.
 httpsonly-learn-more = Докладніше
 httpsonly-radio-enabled =
     .label = Увімкнути HTTPS-режим у всіх вікнах
 httpsonly-radio-enabled-pbm =
     .label = Увімкнути HTTPS-режим лише у приватних вікнах
+httpsonly-radio-disabled3 =
+    .label = Не вмикати HTTPS-режим
+    .description = { -brand-short-name } все одно може оновлювати деякі з'єднання
 httpsonly-radio-disabled =
     .label = Не вмикати HTTPS-режим
 
