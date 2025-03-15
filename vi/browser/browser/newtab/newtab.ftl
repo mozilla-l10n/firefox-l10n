@@ -361,10 +361,10 @@ newtab-wallpaper-abstract-green = Hình dạng màu xanh lục
 newtab-wallpaper-abstract-blue = Hình dạng màu xanh dương
 newtab-wallpaper-abstract-purple = Hình dạng màu tím
 newtab-wallpaper-abstract-orange = Hình dạng màu cam
-newtab-wallpaper-gradient-orange = Gradient màu cam và màu hồng
+newtab-wallpaper-gradient-orange = Chuyển sắc màu cam và màu hồng
 newtab-wallpaper-abstract-blue-purple = Hình dạng màu xanh dương và màu tím
 newtab-wallpaper-abstract-white-curves = Màu trắng với các đường cong bóng mờ
-newtab-wallpaper-abstract-purple-green = Độ dốc (gradient) ánh sáng tím và xanh lá cây
+newtab-wallpaper-abstract-purple-green = Chuyển sắc ánh sáng tím và xanh lá cây
 newtab-wallpaper-abstract-blue-purple-waves = Hình dạng gợn sóng màu xanh dương và tím
 newtab-wallpaper-abstract-black-waves = Hình dạng gợn sóng màu đen
 
