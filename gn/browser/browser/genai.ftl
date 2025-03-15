@@ -8,6 +8,7 @@
 genai-settings-chat-chatgpt-links = Eiporavóvo ChatGPT, emoneĩ ko’ã <a data-l10n-name="link1">mba’epytyvõrã ñemboguata</a> ha <a data-l10n-name="link2">Porureko ñemigua</a> OpenAI rehegua.
 genai-settings-chat-claude-links = Eiporavóvo Anthropic Claude, emoneĩ ko’ã <a data-l10n-name="link1">mba’epytyvõrã ñemboguata poruhárape g̃uarã</a>, <a data-l10n-name="link2">porureko rehegua</a> ha <a data-l10n-name="link3">porureko ñemigua</a>.
 genai-settings-chat-copilot-links = Eiporavóvo Copilot, emoneĩ ko’ã <a data-l10n-name="link1">IA Copilot mba’epytyvõrã ñemboguata</a> ha <a data-l10n-name="link2">Microsoft porureko ñemigua</a>.
+genai-settings-chat-gemini-links = Eiporavóvo Google Gemini, emoneĩ ko’ã <a data-l10n-name="link1">Google mba’epytyvõrã ñemboguata</a>, pe <a data-l10n-name="link2">porureko oñemoneĩ’ỹva IA generativa rehegua</a> ha <a data-l10n-name="link3">Gemini Apps porureko ñemiguáva</a>.
 genai-settings-chat-huggingchat-links = Eiporavóvo HuggingChat, emoneĩ ko’ã <a data-l10n-name="link1">HuggingChat mba’epytyvõrã ñemboguata</a> ha <a data-l10n-name="link2">HuggingChat porureko ñemigua</a>.
 genai-settings-chat-lechat-links = Eiporavóvo Le Chat Mistral, emoneĩ ko’ã <a data-l10n-name="link1">mba’epytyvõrã ñemboguata</a> Mistral AI rehegua ha <a data-l10n-name="link2">Porureko ñemigua</a>.
 genai-settings-chat-localhost-links = Egueru chatbot teéva, ikatúva <a data-l10n-name="link1">llamafile</a> aty pyahuguáva { -vendor-short-name } rehegua.
