@@ -67,13 +67,13 @@ translations-panel-header = Μετάφραση σελίδας;
 translations-panel-translate-button =
     .label = Μετάφραση
 translations-panel-translate-button-loading =
-    .label = Παρακαλώ περιμένετε…
+    .label = Περιμένετε…
 translations-panel-translate-cancel =
     .label = Ακύρωση
 translations-panel-learn-more-link = Μάθετε περισσότερα
 translations-panel-intro-header = Δοκιμάστε ιδιωτικές μεταφράσεις στο { -brand-shorter-name }
 translations-panel-intro-description = Για το απόρρητό σας, οι μεταφράσεις δεν φεύγουν ποτέ από τη συσκευή σας. Σύντομα έρχονται νέες γλώσσες και βελτιώσεις!
-translations-panel-error-translating = Προέκυψε πρόβλημα με τη μετάφραση. Παρακαλώ δοκιμάστε ξανά.
+translations-panel-error-translating = Προέκυψε πρόβλημα με τη μετάφραση. Δοκιμάστε ξανά.
 translations-panel-error-load-languages = Δεν ήταν δυνατή η φόρτωση των γλωσσών
 translations-panel-error-load-languages-hint = Ελέγξτε τη σύνδεσή σας στο διαδίκτυο και δοκιμάστε ξανά.
 translations-panel-error-load-languages-hint-button =
@@ -138,9 +138,9 @@ translations-manage-language-remove-button =
 translations-manage-language-remove-all-button =
     .label = Αφαίρεση όλων
     .accesskey = φ
-translations-manage-error-download = Προέκυψε πρόβλημα κατά τη λήψη του αρχείου γλώσσας. Παρακαλώ δοκιμάστε ξανά.
-translations-manage-error-delete = Προέκυψε σφάλμα κατά τη διαγραφή των αρχείων γλώσσας. Παρακαλώ δοκιμάστε ξανά.
-translations-manage-error-remove = Προέκυψε σφάλμα κατά τη αφαίρεση των αρχείων γλώσσας. Παρακαλώ δοκιμάστε ξανά.
+translations-manage-error-download = Προέκυψε πρόβλημα κατά τη λήψη του αρχείου γλώσσας. Δοκιμάστε ξανά.
+translations-manage-error-delete = Προέκυψε σφάλμα κατά τη διαγραφή των αρχείων γλώσσας. Δοκιμάστε ξανά.
+translations-manage-error-remove = Προέκυψε σφάλμα κατά τη αφαίρεση των αρχείων γλώσσας. Δοκιμάστε ξανά.
 translations-manage-error-list = Αποτυχία λήψης της λίστας με τις διαθέσιμες γλώσσες για μετάφραση. Ανανεώστε τη σελίδα για να δοκιμάσετε ξανά.
 translations-settings-title =
     .title = Ρυθμίσεις μεταφράσεων
@@ -227,7 +227,7 @@ select-translations-panel-init-failure-message =
     .message = Αδυναμία φόρτωσης γλωσσών. Ελέγξτε τη σύνδεσή σας στο διαδίκτυο και δοκιμάστε ξανά.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
-    .message = Προέκυψε πρόβλημα με τη μετάφραση. Παρακαλώ δοκιμάστε ξανά.
+    .message = Προέκυψε πρόβλημα με τη μετάφραση. Δοκιμάστε ξανά.
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Sorry, we don't support the language yet: { $language }

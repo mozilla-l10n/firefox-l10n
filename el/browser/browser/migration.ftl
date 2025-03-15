@@ -65,7 +65,7 @@ no-migration-sources = Δεν βρέθηκαν προγράμματα τα οπ�
 import-source-page-title = Εισαγωγή ρυθμίσεων και δεδομένων
 import-items-page-title = Στοιχεία προς εισαγωγή
 import-items-description = Επιλέξτε στοιχεία προς εισαγωγή:
-import-permissions-page-title = Παρακαλούμε παραχωρήστε στο { -brand-short-name } δικαιώματα
+import-permissions-page-title = Παραχωρήστε στο { -brand-short-name } δικαιώματα
 # Do not translate "Safari" (the name of the browser on Apple devices)
 import-safari-permissions-string = Το macOS απαιτεί τη ρητή έγκρισή σας ώστε το { -brand-short-name } να προσπελάσει τα δεδομένα του Safari. Κάντε κλικ στο «Συνέχεια», επιλέξτε τον φάκελο του «Safari» στο παράθυρο διαλόγου του Finder και τέλος, κάντε κλικ στο «Άνοιγμα».
 import-migrating-page-title = Εισαγωγή…
@@ -74,7 +74,7 @@ import-select-profile-page-title = Επιλογή προφίλ
 import-select-profile-description = Τα ακόλουθα προφίλ είναι διαθέσιμα για εισαγωγή από:
 import-done-page-title = Η εισαγωγή ολοκληρώθηκε
 import-done-description = Τα ακόλουθα στοιχεία εισήχθησαν επιτυχώς:
-import-close-source-browser = Παρακαλώ βεβαιωθείτε ότι το επιλεγμένο πρόγραμμα περιήγησης είναι κλειστό πριν συνεχίσετε.
+import-close-source-browser = Βεβαιωθείτε ότι το επιλεγμένο πρόγραμμα περιήγησης είναι κλειστό πριν συνεχίσετε.
 source-name-ie = Ιnternet Explorer
 source-name-edge = Microsoft Edge
 source-name-chrome = Google Chrome

@@ -10,7 +10,7 @@ webauthn-pin-invalid-long-prompt =
        *[other] Εσφαλμένο PIN. Σας απομένουν { $retriesLeft } προσπάθειες πριν χάσετε οριστικά την πρόσβαση στα διαπιστευτήρια αυτής της συσκευής.
     }
 webauthn-pin-invalid-short-prompt = Εσφαλμένο PIN. Δοκιμάστε ξανά.
-webauthn-pin-required-prompt = Παρακαλώ εισαγάγετε το PIN της συσκευής σας.
+webauthn-pin-required-prompt = Εισαγάγετε το PIN της συσκευής σας.
 webauthn-select-sign-result-unknown-account = Άγνωστος λογαριασμός
 webauthn-a-passkey-label = Χρήση κλειδιού πρόσβασης
 webauthn-another-passkey-label = Χρήση άλλου κλειδιού πρόσβασης

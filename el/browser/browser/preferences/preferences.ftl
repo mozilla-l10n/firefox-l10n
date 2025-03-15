@@ -718,8 +718,8 @@ search-find-more-link = Εύρεση περισσότερων μηχανών α�
 search-keyword-warning-title = Διπλή λέξη-κλειδί
 # Variables:
 #   $name (string) - Name of a search engine.
-search-keyword-warning-engine = Έχετε επιλέξει μια λέξη-κλειδί που χρησιμοποιείται ήδη από το «{ $name }». Παρακαλώ επιλέξτε κάποια άλλη.
-search-keyword-warning-bookmark = Έχετε επιλέξει μια λέξη-κλειδί που χρησιμοποιείται ήδη από ένα σελιδοδείκτη. Παρακαλώ επιλέξτε κάποια άλλη.
+search-keyword-warning-engine = Έχετε επιλέξει μια λέξη-κλειδί που χρησιμοποιείται ήδη από το «{ $name }». Επιλέξτε κάποια άλλη.
+search-keyword-warning-bookmark = Έχετε επιλέξει μια λέξη-κλειδί που χρησιμοποιείται ήδη από έναν σελιδοδείκτη. Επιλέξτε κάποια άλλη.
 
 ## Containers Section
 
@@ -776,7 +776,7 @@ sync-manage-account = Διαχείριση λογαριασμού
 ## $email (string) - Email used for Firefox account
 
 sync-signedin-unverified = { $email } Μη επαληθευμένος.
-sync-signedin-login-failure = Παρακαλούμε συνδεθείτε ξανά για επανασύνδεση { $email }
+sync-signedin-login-failure = Συνδεθείτε ξανά για επανασύνδεση του { $email }
 
 ##
 
@@ -909,7 +909,7 @@ sync-verification-sent-title = Η επιβεβαίωση εστάλη
 #   $email (String): Email address of user's Firefox account.
 sync-verification-sent-body = Έχει σταλεί ένα σύνδεσμος επαλήθευσης στην διεύθυνση { $email }.
 sync-verification-not-sent-title = Αδυναμία αποστολής επιβεβαίωσης
-sync-verification-not-sent-body = Δεν μπορέσαμε να στείλουμε ένα email επαλήθευσης, παρακαλούμε δοκιμάστε ξανά αργότερα.
+sync-verification-not-sent-body = Δεν μπορούμε να στείλουμε ένα email επαλήθευσης αυτήν τη στιγμή, δοκιμάστε ξανά αργότερα.
 
 ## Privacy Section
 

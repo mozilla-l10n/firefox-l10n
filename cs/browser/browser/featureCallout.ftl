@@ -113,6 +113,11 @@ sidebar-pins-callout-cta-button = Připnout panel
 ## Sidebar Onboarding Strings
 
 sidebar-customization-callout-1-title = Postranní lišta: vaše místo pro nástroje a panely
+sidebar-customization-callout-1-subtitle =
+    { -brand-full-name.case-status ->
+        [with-cases] Postranní lišta { -brand-product-name(case: "gen") } poskytuje rychlý přístup k vaší historii prohlížení, panelům z jiných zařízení a k AI chatbotu — to vše bez opuštění hlavního okna.
+       *[no-cases] Postranní lišta aplikace { -brand-product-name } poskytuje rychlý přístup k vaší historii prohlížení, panelům z jiných zařízení a k AI chatbotu — to vše bez opuštění hlavního okna.
+    }
 sidebar-customization-callout-callout-button = Přizpůsobit postranní lištu
 sidebar-customization-callout-dismiss-button = Skrýt postranní lištu
 sidebar-customization-callout-2-subtitle = Přidejte nebo odeberte nástroje. Umístěte panely na postranní panel. Vyzkoušejte chatbota s umělou inteligencí. Záleží jen na vás, jak si přizpůsobíte postranní panel.
