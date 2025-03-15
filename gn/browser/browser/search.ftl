@@ -50,6 +50,7 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = Embojuaju hekaha momba’epyre
 add-engine-name = Hekaha réra
+add-engine-keyword = Ñe’ẽñemi
 add-engine-url = Hekaha URL, eiporu %s ayvureko ehekaséva rendápe
 add-engine-dialog =
     .buttonlabelaccept = Embojuaju Jehekaha
