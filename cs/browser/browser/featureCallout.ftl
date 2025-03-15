@@ -115,6 +115,7 @@ sidebar-pins-callout-cta-button = Připnout panel
 sidebar-customization-callout-1-title = Postranní lišta: vaše místo pro nástroje a panely
 sidebar-customization-callout-callout-button = Přizpůsobit postranní lištu
 sidebar-customization-callout-dismiss-button = Skrýt postranní lištu
+sidebar-customization-callout-2-subtitle = Přidejte nebo odeberte nástroje. Umístěte panely na postranní panel. Vyzkoušejte chatbota s umělou inteligencí. Záleží jen na vás, jak si přizpůsobíte postranní panel.
 
 ## Sidebar Callout Survey Strings
 

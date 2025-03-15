@@ -330,6 +330,14 @@ preferences-web-appearance-footer =
         [with-cases] Vzhled { -brand-short-name(case: "gen") } nastavíte ve <a data-l10n-name="themes-link">správci doplňků</a>
        *[no-cases] Vzhled aplikace { -brand-short-name } nastavíte ve <a data-l10n-name="themes-link">správci doplňků</a>
     }
+preferences-contrast-control-header = Nastavení kontrastu
+preferences-contrast-control-description = Webové stránky mají různé barvy popředí a pozadí. Nastavte { -brand-short-name } tak, aby se na všech webových stránkách používaly stejné barvy a zlepšila se tak čitelnost.
+preferences-contrast-control-use-platform-settings =
+    .label = Automaticky (použít systémové nastavení)
+    .accesskey = A
+preferences-contrast-control-off =
+    .label = Vypnuto
+    .accesskey = V
 preferences-colors-header = Barvy
 preferences-colors-description = Nastavení výchozích barev pro text, odkazy a pozadí webových stránek.
 preferences-colors-manage-button =
