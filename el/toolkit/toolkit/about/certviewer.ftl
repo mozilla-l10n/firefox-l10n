@@ -6,7 +6,7 @@ certificate-viewer-certificate-section-title = Πιστοποιητικό
 
 ## Error messages
 
-certificate-viewer-error-message = Δεν μπορέσαμε να βρούμε τις πληροφορίες του πιστοποιητικού, ή το πιστοποιητικό έχει καταστραφεί. Παρακαλούμε δοκιμάστε ξανά.
+certificate-viewer-error-message = Δεν μπορέσαμε να βρούμε τις πληροφορίες του πιστοποιητικού, ή το πιστοποιητικό έχει καταστραφεί. Δοκιμάστε ξανά.
 certificate-viewer-error-title = Κάτι πήγε στραβά.
 
 ## Certificate information labels
