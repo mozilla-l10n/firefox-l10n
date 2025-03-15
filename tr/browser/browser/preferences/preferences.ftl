@@ -1180,7 +1180,7 @@ addressbar-locbar-showtrendingsuggestions-option =
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = { -brand-short-name } önerileri
-addressbar-locbar-suggest-nonsponsored-desc = Aaramanızla ilgili web sitesi öneriler alın.
+addressbar-locbar-suggest-nonsponsored-desc = Aramanızla ilgili web sitesi önerileri alın.
 addressbar-locbar-suggest-sponsored-option =
     .label = Sponsorlardan öneriler
 addressbar-locbar-suggest-sponsored-desc = Ara sıra görünecek sponsorlu önerilerle { -brand-short-name } tarayıcınızı destekleyin.
