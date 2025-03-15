@@ -224,6 +224,18 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Увімкнути звук вкладки
 tabbrowser-manager-close-tab =
     .tooltiptext = Закрити вкладку
+# This is for tab groups that have been "saved and closed" (see tab-group-editor-action-save). It does
+# not include "deleted" tab groups (see tab-group-editor-action-delete).
+tabbrowser-manager-closed-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } – закрито
+tabbrowser-manager-current-window-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } – поточне вікно
+# "Show more" is for showing all open groups from other windows, as well as saved groups. Initially,
+# we only show up to six of these groups.
+tabbrowser-manager-tab-groups-show-more =
+    .label = Показати більше
 
 ## Tab Groups
 
@@ -255,6 +267,10 @@ tab-group-editor-color-selector2-gray = Сірий
     .title = Сірий
 tab-group-editor-color-selector2-red = Червоний
     .title = Червоний
+# Variables:
+#  $tabGroupName (String): The name of the tab group. Defaults to the value
+#                          of tab-group-name-default.
+tab-group-description = { $tabGroupName } – група вкладок
 tab-group-menu-header = Групи вкладок
 tab-context-unnamed-group =
     .label = Група без назви

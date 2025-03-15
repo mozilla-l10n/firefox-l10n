@@ -30,6 +30,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[many] Відновити { $tabCount } закритих вкладок
         }
     .accesskey = В
+toolbar-context-turn-on-vertical-tabs =
+    .label = Увімкнути вертикальні вкладки
+toolbar-context-turn-off-vertical-tabs =
+    .label = Вимкнути вертикальні вкладки
+toolbar-context-customize-sidebar =
+    .label = Налаштувати бічну панель
 toolbar-context-menu-manage-extension =
     .label = Керувати розширенням
     .accesskey = К

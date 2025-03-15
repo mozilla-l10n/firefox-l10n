@@ -40,6 +40,15 @@ pending-crash-reports-send =
     .label = Odeslat
 pending-crash-reports-always-send =
     .label = Vždy odeslat
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+requested-crash-reports-message =
+    { $reportCount ->
+        [one] Máte neodeslané hlášení o pádu, které odpovídá prošetřovaným pádům. Jeho odesláním nám pomůžete vylepšit aplikaci { -brand-product-name }. Zavřením tohoto oznámení bude toto hlášení ignorováno.
+        [few] Máte { $reportCount } neodeslaná hlášení o pádu, která odpovídají prošetřovaným pádům. Jejich odesláním nám pomůžete vylepšit aplikaci { -brand-product-name }. Zavřením tohoto oznámení budou tato hlášení ignorována.
+        [many] Máte { $reportCount } neodeslaných hlášení o pádu, která odpovídají prošetřovaným pádům. Jejich odesláním nám pomůžete vylepšit aplikaci { -brand-product-name }. Zavřením tohoto oznámení budou tato hlášení ignorována.
+       *[other] Máte { $reportCount } neodeslaných hlášení o pádu, která odpovídají prošetřovaným pádům. Jejich odesláním nám pomůžete vylepšit aplikaci { -brand-product-name }. Zavřením tohoto oznámení budou tato hlášení ignorována.
+    }
 requested-crash-reports-dont-show-again =
     .label = Znovu nezobrazovat
     .accesskey = Z

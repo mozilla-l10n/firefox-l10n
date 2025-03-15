@@ -50,6 +50,14 @@ sidebar-settings =
     .label = Налаштування бічної панелі
 sidebar-hide-tabs-and-sidebar =
     .label = Приховати вкладки та бічну панель
+sidebar-show-on-the-right =
+    .label = Перемістити бічну панель вправо
+sidebar-show-on-the-left =
+    .label = Перемістити бічну панель вліво
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Розгортати бічну панель при наведенні
 
 ## Labels for sidebar context menu items
 
@@ -116,6 +124,10 @@ sidebar-menu-close-bookmarks-tooltip = Закрити закладки ({ $short
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
+sidebar-menu-open-ai-chatbot-tooltip-generic = Відкрити чат-бот з ШІ ({ $shortcut })
+sidebar-menu-open-ai-chatbot-provider-tooltip = Відкрити { $provider } ({ $shortcut })
+sidebar-menu-close-ai-chatbot-tooltip-generic = Закрити чат-бот з ШІ ({ $shortcut })
+sidebar-menu-close-ai-chatbot-provider-tooltip = Закрити { $provider } ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 
