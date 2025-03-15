@@ -27,6 +27,7 @@ learn-more = <span data-l10n-name="link">Pelajari lebih lanjut</span>
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> tidak berdampak pada elemen ini karena bukan kontainer flex atau kontainer grid.
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> tidak berdampak pada elemen ini karena bukan kontainer flex, atau kontainer grid, atau kontainer muli-kolom.
 inactive-css-not-multicol-container = <strong>{ $property }</strong> tidak berpengaruh pada elemen ini karena bukan kontainer multi-kolom.
+inactive-css-column-span = <strong>{ $property }</strong> tidak memiliki efek rentang pada elemen ini karena tidak berada dalam kontainer multi-kolom.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> tidak berdampak pada elemen ini karena bukan grid atau item flex.
 inactive-css-not-grid-item = <strong>{ $property }</strong> tidak berdampak pada elemen ini karena bukan item grid.
 inactive-css-not-grid-container = <strong>{ $property }</strong> tidak berdampak pada elemen ini karena bukan kontainer grid.
@@ -46,6 +47,7 @@ inactive-css-property-is-impossible-to-override-in-visited = Tidak mungkin menim
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> tidak berdampak pada elemen ini karena bukan elemen dengan posisi.
 inactive-css-only-replaced-elements = <strong>{ $property }</strong> tidak berpengaruh pada elemen ini karena hanya dapat diterapkan pada elemen yang digantikan.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> tidak berdampak pada elemen ini karena <strong>overflow:hidden</strong> tidak diatur.
+inactive-css-no-size-containment = <strong>{ $property }</strong> tidak berpengaruh pada elemen ini karena tidak memiliki penahanan ukuran.
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> tidak berpengaruh pada elemen tabel internal.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> tidak berpengaruh pada elemen tabel internal kecuali sel tabel.
 inactive-css-not-table = <strong>{ $property }</strong> tidak berpengaruh pada elemen ini karena bukan tabel.
