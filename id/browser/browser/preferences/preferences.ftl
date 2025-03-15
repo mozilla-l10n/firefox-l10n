@@ -259,6 +259,16 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Kelola tema { -brand-short-name } di <a data-l10n-name="themes-link">Ekstensi & Tema</a>
+preferences-contrast-control-header = Kontrol Kontras
+preferences-contrast-control-use-platform-settings =
+    .label = Otomatis (gunakan pengaturan sistem)
+    .accesskey = a
+preferences-contrast-control-off =
+    .label = Mati
+    .accesskey = M
+preferences-contrast-control-custom =
+    .label = Ubahan
+    .accesskey = U
 preferences-colors-header = Warna
 preferences-colors-description = Timpa warna baku { -brand-short-name } untuk teks, latar belakang situs web, dan tautan.
 preferences-colors-manage-button =
