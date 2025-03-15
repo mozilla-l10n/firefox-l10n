@@ -259,6 +259,17 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Quản lý chủ đề { -brand-short-name } trong <a data-l10n-name="themes-link">Tiện ích mở rộng & chủ đề</a>
+preferences-contrast-control-header = Kiểm soát độ tương phản
+preferences-contrast-control-description = Các trang web có nhiều màu nền trước và nền sau. Cấu hình { -brand-short-name } sử dụng cùng một màu sắc trên các trang web để dễ đọc hơn.
+preferences-contrast-control-use-platform-settings =
+    .label = Tự động (sử dụng cài đặt hệ thống)
+    .accesskey = A
+preferences-contrast-control-off =
+    .label = Tắt
+    .accesskey = O
+preferences-contrast-control-custom =
+    .label = Tuỳ chọn
+    .accesskey = C
 preferences-colors-header = Màu
 preferences-colors-description = Ghi đè màu mặc định của { -brand-short-name } cho văn bản, nền trang web và liên kết.
 preferences-colors-manage-button =

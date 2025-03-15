@@ -25,3 +25,7 @@ experimental-features-group-webpage-display =
     .label = Hiển thị trang web
 experimental-features-group-customize-browsing =
     .label = Tùy chỉnh trình duyệt của bạn
+# Contextual Password Manager in sidebar
+experimental-features-contextual-password-manager =
+    .label = Mật khẩu trong thanh lề
+experimental-features-contextual-password-manager-description = Truy cập mật khẩu của bạn ngay từ thanh lề. Không còn phải tìm kiếm xung quanh hoặc đặt lại mật khẩu khi bạn đang cố gắng đăng nhập. Để sử dụng tính năng này, hãy chọn mật khẩu trong thanh lề. Sau đó, hãy vào cài đặt chung của bạn và trong bố cục trình duyệt, chọn hiển thị thanh lề. Sau đó, tùy chỉnh thanh lề của bạn bằng cách chọn mật khẩu. Nếu bạn thử nó, <a data-l10n-name="connect">hãy cho chúng tôi biết cảm nghĩ của bạn</a>.
