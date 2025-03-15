@@ -461,3 +461,4 @@ multi-profile-callout-cta = Створити профіль
 
 # If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
 desktop-to-mobile-headline = Завантажте, синхронізуйте і користуйтесь!
+dismiss-button-label = Відхилити

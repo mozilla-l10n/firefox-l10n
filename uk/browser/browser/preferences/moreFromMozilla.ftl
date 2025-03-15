@@ -11,6 +11,7 @@ more-from-moz-category =
 more-from-moz-subtitle = Ознайомтеся з іншими продуктами від { -vendor-short-name }, які підтримують здоровий інтернет.
 more-from-moz-firefox-mobile-title = { -brand-product-name } для мобільного
 more-from-moz-firefox-mobile-description = Мобільний браузер, який поважає вашу приватність.
+more-from-moz-firefox-mobile-title-1 = { -brand-product-name } для мобільних пристроїв
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Відкрийте для себе додатковий рівень анонімного перегляду та захисту.
 more-from-moz-qr-code-box-firefox-mobile-title = Завантажте за допомогою мобільного пристрою. Наведіть камеру на QR-код. Торкніться до посилання, коли воно з'явиться.
