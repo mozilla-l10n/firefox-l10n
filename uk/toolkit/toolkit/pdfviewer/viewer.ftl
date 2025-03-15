@@ -329,6 +329,8 @@ pdfjs-editor-remove-stamp-button =
     .title = Вилучити зображення
 pdfjs-editor-remove-highlight-button =
     .title = Вилучити підсвічування
+pdfjs-editor-remove-signature-button =
+    .title = Вилучити підпис
 
 ##
 
@@ -502,6 +504,7 @@ pdfjs-editor-undo-bar-message-highlight = Підсвічення вилучен�
 pdfjs-editor-undo-bar-message-freetext = Текст вилучено
 pdfjs-editor-undo-bar-message-ink = Малюнок вилучено
 pdfjs-editor-undo-bar-message-stamp = Зображення вилучено
+pdfjs-editor-undo-bar-message-signature = Підпис вилучено
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple =

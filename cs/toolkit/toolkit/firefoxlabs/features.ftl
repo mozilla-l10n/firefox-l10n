@@ -32,3 +32,4 @@ experimental-features-group-customize-browsing =
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Hesla v postranní liště
+experimental-features-contextual-password-manager-description = Přístup k heslům přímo z postranní lišty. Už žádné hledání nebo resetování hesel při pokusu o přihlášení. Chcete-li tuto funkci použít, vyberte v postranní liště položku Hesla. Poté přejděte do obecných nastavení a v části Rozložení prohlížeče vyberte možnost Zobrazit postranní lištu. Poté si přizpůsobte postranní lištu výběrem hesel. Pokud to vyzkoušíte, <a data-l10n-name="connect">dejte nám vědět, co si o tom myslíte</a>.
