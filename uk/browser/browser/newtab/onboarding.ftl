@@ -446,6 +446,7 @@ onboarding-checklist-sign-up = Зареєструйте обліковий за�
 
 tab-groups-onboarding-feature-callout-title = Спробуйте групи вкладок – менше безладу й більше уваги
 tab-groups-onboarding-feature-callout-subtitle = Впорядкуйте свою роботу, перетягнувши одну вкладку на іншу, щоб створити групу.
+tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages
 
@@ -458,3 +459,5 @@ multi-profile-callout-cta = Створити профіль
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = Завантажте, синхронізуйте і користуйтесь!
