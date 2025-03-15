@@ -39,7 +39,7 @@ site-permission-install-first-prompt-midi-message = Αυτή η πρόσβαση
 
 ##
 
-xpinstall-disabled-locked = Η εγκατάσταση λογισμικού έχει απενεργοποιηθεί από τον διαχειριστή του συστήματος σας.
+xpinstall-disabled-locked = Η εγκατάσταση λογισμικού έχει απενεργοποιηθεί από τον διαχειριστή του συστήματός σας.
 xpinstall-disabled-by-policy = Η εγκατάσταση λογισμικού έχει απενεργοποιηθεί από τον οργανισμό σας.
 xpinstall-disabled = Η εγκατάσταση λογισμικού είναι απενεργοποιημένη αυτήν τη στιγμή. Κάντε κλικ στο «Ενεργοποίηση» και δοκιμάστε ξανά.
 xpinstall-disabled-button =
@@ -51,7 +51,7 @@ xpinstall-disabled-button =
 #   $addonId (String): the ID of add-on.
 addon-install-blocked-by-policy = Το { $addonName } ({ $addonId }) έχει αποκλειστεί από τον διαχειριστή του συστήματός σας.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = Ο διαχειριστής του συστήματός σας εμπόδισε την ερώτηση αυτού του ιστοτόπου για εγκατάσταση λογισμικού στον υπολογιστή σας.
+addon-domain-blocked-by-policy = Ο διαχειριστής του συστήματός σας εμπόδισε αυτόν τον ιστότοπο από το να ζητήσει την εγκατάσταση λογισμικού στον υπολογιστή σας.
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.

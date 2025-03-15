@@ -117,3 +117,6 @@ unified-search-callout-title = Перемикання пошукових сис�
 unified-search-callout-subtitle = Виберіть те, що найкраще підходить для вашого конкретного пошуку.
 unified-search-callout-primary-label = Далі
 unified-search-callout-secondary-label = Відхилити
+unified-search-engines-callout-title = Пошук за допомогою ярликів
+unified-search-engines-callout-subtitle = Введіть “@”, а потім ключове слово для пошуку в історії, закладках, вкладках або в іншій пошуковій системі.
+unified-search-engines-callout-primary-label = Зрозуміло
