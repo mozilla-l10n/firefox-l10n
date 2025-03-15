@@ -189,6 +189,7 @@ shopping-survey-thanks =
 ## Shopping opted-out survey strings
 ## Opt-out survey options are displayed as checkboxes and the user can select one or many.
 
+shopping-survey-opted-out-multiselect-label = Mba’érepiko eipe’a pe jehechajey rechaha. Eiporavokuaa hetaháicha eikotevẽramo.
 shopping-survey-thanks-title = ¡Aguyje ne remiandu rehe!
 shopping-survey-opted-out-hard-to-understand = Hasyeterei iñeikumby
 shopping-survey-opted-out-too-slow = Embegueterei

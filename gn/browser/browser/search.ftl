@@ -56,3 +56,4 @@ add-engine-dialog =
     .buttonlabelaccept = Embojuaju Jehekaha
     .buttonaccesskeyaccept = A
 engine-name-exists = Oĩma jehekaha ko térape jehaipyre
+engine-keyword-exists = Oĩma jehekaha hérava ko ñe’ẽñemícha
