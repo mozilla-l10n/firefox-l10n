@@ -6,18 +6,18 @@
 ## Preonboarding modal screen strings
 
 preonboarding-title = Вітаємо в { -brand-product-name }
-preonboarding-subtitle = Продовжуючи, ви погоджуєтеся з Умовами використання { -brand-product-name } і нашим Положенням про приватність. Щоб допомогти покращити браузер, { -brand-product-name } надсилає діагностичні й аналітичні дані до { -vendor-short-name }.
+preonboarding-subtitle = Продовжуючи, ви погоджуєтеся з Умовами користування { -brand-product-name } і нашим Положенням про приватність. Щоб допомогти покращити браузер, { -brand-product-name } надсилає діагностичні й аналітичні дані до { -vendor-short-name }.
 preonboarding-primary-cta = Підтвердити й продовжити
 # Label for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
-preonboarding-manage-and-read-header = Керуйте налаштуваннями збору даних і прочитайте наші Умови використання та Положення про приватність
+preonboarding-manage-and-read-header = Керуйте налаштуваннями збору даних і прочитайте наші Умови користування і Положення про приватність
 # Label for header style button that toggles showing the Terms of Use
-preonboarding-terms-of-use-header-button-title = Прочитайте наші Умови використання
+preonboarding-terms-of-use-header-button-title = Прочитайте наші Умови користування
 # Label for header style button that toggles showing the Privacy Notice
 preonboarding-privacy-notice-header-button-title = Прочитайте наше положення про приватність
 # Label for header style button that toggles showing the data preference checklist
 preonboarding-manage-data-header-button-title = Керувати технічними й аналітичними даними
 # Label for header style button that toggles showing the Terms of Use (Variant B)
-preonboarding-terms-of-use-header-button-title-b = Умови використання { -brand-product-name }
+preonboarding-terms-of-use-header-button-title-b = Умови користування { -brand-product-name }
 # Label for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = Положення про приватність { -brand-product-name }
 # Description under label for header style buttons

@@ -5,7 +5,7 @@
 
 ## Generative AI (GenAI) Settings section
 
-genai-settings-chat-chatgpt-links = Вибираючи ChatGPT, ви погоджуєтеся з <a data-l10n-name="link1">Умовами використання</a> та <a data-l10n-name="link2">Політикою приватності</a> OpenAI.
+genai-settings-chat-chatgpt-links = Вибираючи ChatGPT, ви погоджуєтеся з <a data-l10n-name="link1">Умовами користування</a> і <a data-l10n-name="link2">Політикою приватності</a> OpenAI.
 genai-settings-chat-claude-links = Вибираючи Anthropic Claude, ви погоджуєтеся з <a data-l10n-name="link1">Умовами надання послуг споживачам</a>, <a data-l10n-name="link2">Політикою використання</a> та <a data-l10n-name="link3">Політикою приватності</a>  Anthropic.
 genai-settings-chat-copilot-links = Вибираючи Copilot, ви погоджуєтеся з <a data-l10n-name="link1">Умовами Copilot AI Experiences</a> і <a data-l10n-name="link2">Заявою про конфіденційність Microsoft</a>.
 genai-settings-chat-gemini-links = Вибираючи Google Gemini, ви погоджуєтеся із <a data-l10n-name="link1">Загальними положеннями та умовами Google</a>, <a data-l10n-name="link2">Правилами щодо забороненого використання генеративного ШІ</a > та <a data-l10n-name="link3">Положенням про конфіденційність додатків Gemini</a>.

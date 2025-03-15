@@ -73,6 +73,7 @@ split-dismiss-button-manage-settings-option =
 
 sidebar-button-callout-title = Показувати заголовки вкладок на бічній панелі
 sidebar-button-callout-subtitle = Натисніть кнопку бічної панелі, щоб розгорнути бічну панель і бачити заголовки вкладок.
+sidebar-button-callout-vertical-tabs = Щоб показати вкладки, натисніть кнопку бічної панелі на панелі інструментів.
 
 ## Sidebar Vertical Tabs Strings
 
@@ -112,3 +113,7 @@ sidebar-genai-survey-satisfaction-question = Як ви оцінюєте взає
 sidebar-genai-survey-productive-question =
     Наскільки ви згодні чи не згодні з цим твердженням:<br/>
     “Чат-бот з ШІ на бічній панелі підвищує мою продуктивність”?
+unified-search-callout-title = Перемикання пошукових систем
+unified-search-callout-subtitle = Виберіть те, що найкраще підходить для вашого конкретного пошуку.
+unified-search-callout-primary-label = Далі
+unified-search-callout-secondary-label = Відхилити
