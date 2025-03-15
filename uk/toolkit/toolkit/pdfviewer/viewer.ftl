@@ -522,12 +522,31 @@ pdfjs-editor-undo-bar-close-button-label = Закрити
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-label = У цьому вікні користувач може створити підпис для додавання до PDF-документа. Користувач може відредагувати назву (яка також слугує альтернативним текстом) і, за бажання, зберегти підпис для повторного використання.
+pdfjs-editor-add-signature-dialog-title = Додати підпис
 
 ## Tab names
 
+# Type is a verb (you can type your name as signature)
+pdfjs-editor-add-signature-type-button = Ввести
+    .title = Ввести
+# Draw is a verb (you can draw your signature)
+pdfjs-editor-add-signature-draw-button = Малювати
+    .title = Малювати
+pdfjs-editor-add-signature-image-button = Зображення
+    .title = Зображення
 
 ## Tab panels
 
+pdfjs-editor-add-signature-type-input =
+    .aria-label = Введіть свій підпис
+    .placeholder = Введіть свій підпис
+pdfjs-editor-add-signature-draw-placeholder = Намалюйте свій підпис
+pdfjs-editor-add-signature-draw-thickness-range-label = Товщина
+# Variables:
+#   $thickness (Number) - the thickness (in pixels) of the line used to draw a signature.
+pdfjs-editor-add-signature-draw-thickness-range =
+    .title = Товщина лінії: { $thickness }
 
 ## Controls
 

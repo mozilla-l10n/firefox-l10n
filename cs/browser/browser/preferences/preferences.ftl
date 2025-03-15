@@ -1329,7 +1329,7 @@ addressbar-locbar-suggest-sponsored-desc = Podpořte { -brand-short-name } zobra
 addressbar-quickactions-learn-more = Zjistit více
 addressbar-dismissed-suggestions-label = Odmítnuté návrhy
 addressbar-restore-dismissed-suggestions-description =
-    { -brand-full-name.case-status ->
+    { -brand-short-name.case-status ->
         [with-cases] Obnovit odmítnuté návrhy od sponzorů a { -brand-short-name(case: "gen") }.
        *[no-cases] Obnovit odmítnuté návrhy od sponzorů a aplikace { -brand-short-name }.
     }
