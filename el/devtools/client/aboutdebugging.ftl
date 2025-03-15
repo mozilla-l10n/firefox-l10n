@@ -200,7 +200,7 @@ about-debugging-browser-version-too-old-fennec = Αυτή η έκδοση του
 # { $localID } is the build ID of the current Firefox instance (same format)
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $localVersion } is the version of your current browser (same format)
-about-debugging-browser-version-too-recent = Το συνδεδεμένο πρόγραμμα περιήγησης είναι πιο πρόσφατο ({ $runtimeVersion }, buildID { $runtimeID }) από το { -brand-shorter-name } ({ $localVersion }, buildID { $localID }) σας. Πρόκειται για μη υποστηριζόμενη ρύθμιση και ενδέχεται να προκαλέσει αποτυχία του DevTools. Παρακαλούμε ενημερώστε το Firefox. <a>Αντιμετώπιση προβλημάτων</a>
+about-debugging-browser-version-too-recent = Το συνδεδεμένο πρόγραμμα περιήγησης ({ $runtimeVersion }, buildID: { $runtimeID }) είναι πιο πρόσφατο από το { -brand-shorter-name } ({ $localVersion }, buildID: { $localID }) που χρησιμοποιείτε. Αυτή η διαμόρφωση δεν υποστηρίζεται και ενδέχεται να προκαλέσει αποτυχία του DevTools. Ενημερώστε το Firefox. <a>Επίλυση προβλημάτων</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
