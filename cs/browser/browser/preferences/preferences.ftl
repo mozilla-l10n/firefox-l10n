@@ -1315,6 +1315,13 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Našeptávat návrhy populárních vyhledávání
     .accesskey = p
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label =
+        { -brand-full-name.case-status ->
+            [with-cases] Návrhy od { -brand-short-name(case: "gen") }
+           *[no-cases] Návrhy od aplikace { -brand-short-name }
+        }
 addressbar-locbar-suggest-nonsponsored-desc = Získat návrhy z webu související s vaším vyhledáváním.
 addressbar-locbar-suggest-sponsored-option =
     .label = Návrhy od sponzorů

@@ -120,6 +120,11 @@ sidebar-customization-callout-1-subtitle =
     }
 sidebar-customization-callout-callout-button = Přizpůsobit postranní lištu
 sidebar-customization-callout-dismiss-button = Skrýt postranní lištu
+sidebar-customization-callout-2-title =
+    { -brand-full-name.case-status ->
+        [with-cases] Přizpůsobte si postranní lištu { -brand-product-name(case: "gen") }
+       *[no-cases] Přizpůsobte si postranní lištu aplikace { -brand-product-name }
+    }
 sidebar-customization-callout-2-subtitle = Přidejte nebo odeberte nástroje. Umístěte panely na postranní panel. Vyzkoušejte chatbota s umělou inteligencí. Záleží jen na vás, jak si přizpůsobíte postranní panel.
 
 ## Sidebar Callout Survey Strings
