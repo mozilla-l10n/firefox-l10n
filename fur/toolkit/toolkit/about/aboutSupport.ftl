@@ -15,6 +15,10 @@ support-addons-type = Gjenar
 support-addons-enabled = Atîf
 support-addons-version = Version
 support-addons-id = ID
+# In the add-on world, locations are where the addon files are stored. Each
+# location has name. For instance: app-system-addons, app-builtin,
+# app-temporary, etc.
+support-addons-location-name = Posizion
 legacy-user-stylesheets-title = Sfueis di stîl dal utent vecje maniere
 legacy-user-stylesheets-enabled = Atîf
 legacy-user-stylesheets-stylesheet-types = Sfueis di stîl

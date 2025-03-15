@@ -25,3 +25,7 @@ experimental-features-group-webpage-display =
     .label = Visualizazion pagjine web
 experimental-features-group-customize-browsing =
     .label = Personalize la tô navigazion
+# Contextual Password Manager in sidebar
+experimental-features-contextual-password-manager =
+    .label = Passwords te sbare laterâl
+experimental-features-contextual-password-manager-description = Dopre lis tôs passwords dret de sbare laterâl. No tu varâs plui di cirî ator o tornâ a configurâ lis passwords cuant che tu ciris di jentrâ cu lis credenziâls suntun sît. Par doprâ cheste funzion, ative la opzion passwords te sbare laterâl. Dopo va tes impostazions gjenerâls e te sezion “Disposizion dal navigadôr”, selezione “Mostre sbare laterâl”. Tal ultin, personalize la sbare laterâl selezionant passwords. Se tu provis cheste funzion, <a data-l10n-name="connect">fânus savê ce che tu pensis in merit</a>.

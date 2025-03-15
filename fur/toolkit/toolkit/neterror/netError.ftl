@@ -13,6 +13,7 @@ neterror-captive-portal-page-title = Jentre te rêt
 neterror-dns-not-found-title = Servidôr no cjatât
 neterror-malformed-uri-page-title = URL no valit
 general-body-title = Sta atent. Alc nol è just.
+problem-with-this-site-title = Al somee che al sedi vignût fûr un probleme cun chest sît
 
 ## Error page actions
 
