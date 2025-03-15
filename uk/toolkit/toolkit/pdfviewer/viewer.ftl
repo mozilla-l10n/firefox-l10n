@@ -547,12 +547,32 @@ pdfjs-editor-add-signature-draw-thickness-range-label = Товщина
 #   $thickness (Number) - the thickness (in pixels) of the line used to draw a signature.
 pdfjs-editor-add-signature-draw-thickness-range =
     .title = Товщина лінії: { $thickness }
+pdfjs-editor-add-signature-image-placeholder = Перетягніть файл сюди, щоб вивантажити
+pdfjs-editor-add-signature-image-browse-link =
+    { PLATFORM() ->
+        [macos] Або виберіть файли зображень
+       *[other] Або перегляньте файли зображень
+    }
 
 ## Controls
 
+pdfjs-editor-add-signature-description-label = Опис (альтернативний текст)
+pdfjs-editor-add-signature-description-input =
+    .title = Опис (альтернативний текст)
+pdfjs-editor-add-signature-description-default-when-drawing = Підпис
+pdfjs-editor-add-signature-clear-button-label = Очистити підпис
+pdfjs-editor-add-signature-clear-button =
+    .title = Очистити підпис
+pdfjs-editor-add-signature-save-checkbox = Зберегти підпис
+pdfjs-editor-add-signature-save-warning-message = Ви досягли ліміту в 5 збережених підписів. Вилучіть один, щоб зберегти інший.
+pdfjs-editor-add-signature-image-upload-error-title = Не вдалося вивантажити зображення
+pdfjs-editor-add-signature-image-upload-error-description = Перевірте мережеве з'єднання або спробуйте інше зображення.
+pdfjs-editor-add-signature-error-close-button = Закрити
 
 ## Dialog buttons
 
+pdfjs-editor-add-signature-cancel-button = Скасувати
+pdfjs-editor-add-signature-add-button = Додати
 
 ## Main menu for adding/removing signatures
 
