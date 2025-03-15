@@ -129,3 +129,5 @@ about-reader-text-alignment-center =
     .title = Tasaa teksti keskelle
 about-reader-text-alignment-right =
     .title = Tasaa teksti oikealle
+about-reader-text-alignment-justify =
+    .title = Tasaa teksti
