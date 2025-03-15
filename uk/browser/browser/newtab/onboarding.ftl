@@ -446,6 +446,7 @@ onboarding-checklist-sign-up = Зареєструйте обліковий за�
 
 tab-groups-onboarding-feature-callout-title = Спробуйте групи вкладок – менше безладу й більше уваги
 tab-groups-onboarding-feature-callout-subtitle = Впорядкуйте свою роботу, перетягнувши одну вкладку на іншу, щоб створити групу.
+tab-groups-onboarding-saved-groups-title = Якщо ви закриєте групу вкладок, то зможете будь-коли знову відкрити її тут.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages
@@ -461,4 +462,7 @@ multi-profile-callout-cta = Створити профіль
 
 # If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
 desktop-to-mobile-headline = Завантажте, синхронізуйте і користуйтесь!
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Скануйте QR-код, щоб завантажити { -brand-product-name } для мобільного пристрою. Після встановлення виберіть “Синхронізувати з мобільним”, щоб отримати доступ до своїх паролів, закладок та інших даних.
 dismiss-button-label = Відхилити
+sync-to-mobile-button-label = Синхронізувати з мобільним
