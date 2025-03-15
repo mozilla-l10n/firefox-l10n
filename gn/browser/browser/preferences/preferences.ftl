@@ -270,6 +270,13 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Eñangareko téma { -brand-short-name } mba’ére <a data-l10n-name="themes-link">Jepysokue ha téma</a> rupi
+preferences-contrast-control-header = Mbojovake rehegua
+preferences-contrast-control-use-platform-settings =
+    .label = Ijeheguíva (oiporu apopyvusu ñemboheko)
+    .accesskey = A
+preferences-contrast-control-off =
+    .label = Mbogue
+    .accesskey = O
 preferences-colors-header = Sa’y
 preferences-colors-description = Emboyke sa’y ypyguáva { -brand-short-name } mba’e moñe’ẽrã, ñanduti renda rugua ha juajuhápe g̃uarã.
 preferences-colors-manage-button =

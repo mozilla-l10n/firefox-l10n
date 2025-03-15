@@ -502,6 +502,7 @@ newtab-section-unblock-button = Mbojera
 ## Confirmation modal for blocking a section
 
 newtab-section-confirm-block-section-p1 = ¿Ejokose añetehápepa ko tenda’i?
+newtab-section-confirm-block-section-p2 = Umi vore jokopyre nosẽmo’ãvéima canal-kuérape.
 newtab-section-block-section-button = Ejoko ko tenda’i
 newtab-section-cancel-button = Ani ko’ág̃a
 newtab-section-confirm-block-topic-p1 = ¿Ejokose añetehápe ko téma?
