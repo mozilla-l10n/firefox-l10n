@@ -15,6 +15,10 @@ support-addons-type = Peteĩchagua
 support-addons-enabled = Myandypyre
 support-addons-version = Peteĩchagua
 support-addons-id = ID
+# In the add-on world, locations are where the addon files are stored. Each
+# location has name. For instance: app-system-addons, app-builtin,
+# app-temporary, etc.
+support-addons-location-name = Tendaite
 legacy-user-stylesheets-title = Kuatia mbohekoha poruhára mba’e
 legacy-user-stylesheets-enabled = Myandy
 legacy-user-stylesheets-stylesheet-types = Kuatia mbohekoha
