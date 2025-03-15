@@ -27,4 +27,4 @@ error-trailer-desc-text = Και έχουν ένα σχέδιο.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
 # Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = Δοκιμή ξανά
-    .label2 = Παρακαλώ μην πατήσετε ξανά αυτό το κουμπί.
+    .label2 = Μην πατήσετε ξανά αυτό το κουμπί.
