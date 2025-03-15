@@ -29,3 +29,6 @@ experimental-features-group-webpage-display =
     .label = Zobrazení webové stránky
 experimental-features-group-customize-browsing =
     .label = Přizpůsobte si své prohlížení
+# Contextual Password Manager in sidebar
+experimental-features-contextual-password-manager =
+    .label = Hesla v postranní liště

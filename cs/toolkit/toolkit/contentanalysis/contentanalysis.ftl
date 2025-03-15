@@ -58,6 +58,10 @@ contentanalysis-error-message-upload-file = Nahrání souboru „{ $filename }�
 contentanalysis-error-message-dropped-text = Přetahování bylo zakázáno.
 contentanalysis-error-message-clipboard = Vložení bylo zamítnuto.
 contentanalysis-error-message-print = Tisk zamítnut.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
+contentanalysis-timeout-block-error-message-content = Spojení s agentem { $agent } vypršelo. { $contentName } byl zablokován.
 contentanalysis-block-dialog-title-upload-file = Nemáte oprávnění nahrát tento soubor
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"

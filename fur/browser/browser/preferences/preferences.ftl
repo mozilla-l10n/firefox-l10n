@@ -271,6 +271,17 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Gjestìs i temis di { -brand-short-name } in <a data-l10n-name="themes-link">Estensions e temis</a>
+preferences-contrast-control-header = Gjestion dal contrast
+preferences-contrast-control-description = I sîts web a doprin une schirie di colôrs di prin plan e di fonts. Configure { -brand-short-name } par doprâ i stes colôrs su ducj i sîts web e miorâ la facilitât di leture.
+preferences-contrast-control-use-platform-settings =
+    .label = Automatic (dopre lis impostazions di sisteme)
+    .accesskey = A
+preferences-contrast-control-off =
+    .label = Disativât
+    .accesskey = D
+preferences-contrast-control-custom =
+    .label = Personalizât
+    .accesskey = P
 preferences-colors-header = Colôrs
 preferences-colors-description = Sostituìs i colôrs predefinîts di { -brand-short-name } par test, fonts di sît web e colegaments.
 preferences-colors-manage-button =
