@@ -47,6 +47,11 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Galdetu { $provider } hornitzaileari
+genai-menu-remove-generic =
+    .label = Kendu AA txaterako bota
+# $provider (string) - name of the provider
+genai-menu-remove-provider =
+    .label = Kendu { $provider }
 genai-input-ask-generic =
     .placeholder = Galdetu AA txaterako botari…
 # $provider (string) - name of the provider

@@ -73,6 +73,7 @@ split-dismiss-button-manage-settings-option =
 
 sidebar-button-callout-title = Erakutsi fitxen izenburuak alboko barran
 sidebar-button-callout-subtitle = Erabili alboko barraren botoia alboko barra zabaldu eta fitxen izenburuak ikusi ahal izateko.
+sidebar-button-callout-vertical-tabs = Zure fitxak erakusteko, hautatu tresna-barran alboko barraren botoia.
 
 ## Sidebar Vertical Tabs Strings
 

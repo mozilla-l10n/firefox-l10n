@@ -112,6 +112,7 @@ permissions-exceptions-saved-logins-desc = Ondorengo webguneetako saio-hasierak 
 permissions-exceptions-saved-passwords-window =
     .title = Salbuespenak - Gordetako pasahitzak
     .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name }(e)k ez du pasahitzik gordeko hemen zerrendatutako guneetarako.
 
 ## Exceptions - Add-ons
 
