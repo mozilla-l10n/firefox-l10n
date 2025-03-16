@@ -5,6 +5,8 @@
 
 ## Preonboarding modal screen strings
 
+# Label for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
+preonboarding-manage-and-read-header = දත්ත රැස් කිරීමේ සැකසුම් කළමනාකරණය කරන්න. අපගේ භාවිත නියම සහ රහස්‍යතා දැන්වීම කියවන්න.
 # Label for header style button that toggles showing the Privacy Notice
 preonboarding-privacy-notice-header-button-title = අපගේ රහස්‍යතා දැන්වීම කියවන්න
 # Label for header style button that toggles showing the Privacy Notice (Variant B)
