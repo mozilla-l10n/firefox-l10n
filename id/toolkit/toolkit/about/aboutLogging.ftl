@@ -47,6 +47,12 @@ about-logging-preset-webrtc-description = Modul log untuk mendiagnosis panggilan
 about-logging-preset-webcodecs-label = WebCodec
 about-logging-preset-webcodecs-description = Log modul untuk mendiagnosis masalah dengan dekoder dan enkoder audio/video WebCodecs, dan dekoder gambar
 about-logging-preset-webgpu-label = WebGPU
+about-logging-preset-webgpu-description = Log modul untuk mendiagnosis masalah WebGPU
+about-logging-preset-gfx-label = Grafik
+about-logging-preset-gfx-description = Log modul untuk mendiagnosis masalah grafik
+# This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
+about-logging-preset-windows-label = Windows
+about-logging-preset-windows-description = Log modul untuk mendiagnosis masalah khusus untuk Microsoft Windows
 about-logging-preset-custom-label = Khusus
 about-logging-preset-custom-description = Modul log dipilih secara manual
 # Error handling

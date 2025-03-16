@@ -88,6 +88,7 @@ about-webrtc-debug-mode-msg-label = Mode Debug
 about-webrtc-debug-mode-off-state-label = Mulai Mode Debug
 about-webrtc-debug-mode-on-state-label = Hentikan Mode Debug
 about-webrtc-stats-heading = Statistik Sesi
+about-webrtc-peerconnections-section-hide-msg = Sembunyikan Statistik RTCPeerConnection
 about-webrtc-stats-clear = Bersihkan Riwayat
 about-webrtc-log-heading = Log Sambungan
 about-webrtc-log-clear = Bersihkan Log
@@ -99,6 +100,8 @@ about-webrtc-log-section-show-msg = Tampilkan log
     .title = Klik untuk membentangkan bagian ini
 about-webrtc-log-section-hide-msg = Sembunyikan log
     .title = Klik untuk menciutkan bagian ini
+about-webrtc-copy-report-button = Salin Laporan
+about-webrtc-copy-report-history-button = Salin Riwayat Laporan
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -114,6 +117,9 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (ditutup
 ## Variables:
 ##  $codecs - a list of media codecs
 
+about-webrtc-short-send-receive-direction = Kirim / Terima: { $codecs }
+about-webrtc-short-send-direction = Kirim: { $codec }
+about-webrtc-short-receive-direction = Terima: { $codec }
 
 ##
 
@@ -164,6 +170,8 @@ about-webrtc-remote-send-ssrc = Pengiriman SSRC Jarak Jauh
 ## These are displayed on the button that shows or hides the
 ## PeerConnection configuration disclosure
 
+about-webrtc-pc-configuration-show-msg = Tampilkan Konfigurasi
+about-webrtc-pc-configuration-hide-msg = Sembunyikan Konfigurasi
 
 ##
 
@@ -175,6 +183,8 @@ about-webrtc-configuration-element-provided = Disediakan
 about-webrtc-configuration-element-not-provided = Tidak Disediakan
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Preferensi WebRTC Diatur Pengguna
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-user-modified-configuration-heading = Konfigurasi WebRTC yang Diubah Pengguna
 
 ## These are displayed on the button that shows or hides the
 ## user modified configuration disclosure

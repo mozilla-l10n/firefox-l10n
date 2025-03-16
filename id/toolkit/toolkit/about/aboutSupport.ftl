@@ -15,6 +15,10 @@ support-addons-type = Tipe
 support-addons-enabled = Diaktifkan
 support-addons-version = Versi
 support-addons-id = ID
+# In the add-on world, locations are where the addon files are stored. Each
+# location has name. For instance: app-system-addons, app-builtin,
+# app-temporary, etc.
+support-addons-location-name = Lokasi
 legacy-user-stylesheets-title = Stylesheet Pengguna Lawas
 legacy-user-stylesheets-enabled = Aktif
 legacy-user-stylesheets-stylesheet-types = Stylesheet

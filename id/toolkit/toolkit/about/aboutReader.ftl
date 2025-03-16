@@ -125,3 +125,5 @@ about-reader-text-alignment-center =
     .title = Ratakan teks di tengah
 about-reader-text-alignment-right =
     .title = Ratakan teks ke kanan
+about-reader-text-alignment-justify =
+    .title = Ratakan teks

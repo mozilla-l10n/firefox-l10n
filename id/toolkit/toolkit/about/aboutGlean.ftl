@@ -16,6 +16,7 @@ about-glean-interface-description =
     adalah pustaka pengumpulan data yang digunakan pada proyek { -vendor-short-name }.
     Antarmuka ini dirancang untuk digunakan oleh pengembang dan penguji secara manual
     <a data-l10n-name="fog-link">instruksi pengujian</a>.
+about-glean-category-about-glean = Tentang { -glean-brand-name }
 about-glean-category-manual-testing = Pengujian Manual
 about-glean-category-adhoc-testing = Pengujian Ad Hoc
 about-glean-category-profiler = Menggunakan Profiler

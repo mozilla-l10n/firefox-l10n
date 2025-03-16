@@ -271,6 +271,17 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Hallinnoi { -brand-short-name }in teemoja <a data-l10n-name="themes-link">Laajennukset ja teemat -osiossa</a>
+preferences-contrast-control-header = Kontrastin hallinta
+preferences-contrast-control-description = Verkkosivustoilla on useita edusta- ja taustavärejä. Määritä { -brand-short-name } käyttämään samoja värejä kaikilla verkkosivustoilla luettavuuden parantamiseksi.
+preferences-contrast-control-use-platform-settings =
+    .label = Automaattinen (käytä järjestelmän asetuksia)
+    .accesskey = A
+preferences-contrast-control-off =
+    .label = Pois päältä
+    .accesskey = o
+preferences-contrast-control-custom =
+    .label = Mukautettu
+    .accesskey = M
 preferences-colors-header = Värit
 preferences-colors-description = Ohita { -brand-short-name }in oletusvärit tekstille, verkkosivustojen taustoille ja linkeille.
 preferences-colors-manage-button =
@@ -1129,6 +1140,8 @@ addressbar-header = Osoitepalkki
 addressbar-suggest = Ehdota osoitepalkissa sivuja
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Osoitepalkki — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Valitse osoitepalkissa näkyvien ehdotusten tyyppi.
 # When Firefox Suggest is enabled, a "Learn more" link appears at the end of
 # `addressbar-suggest-firefox-suggest`.
 addressbar-locbar-firefox-suggest-learn-more = Lue lisää
@@ -1164,7 +1177,18 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Näytä suositut hakuehdotukset
     .accesskey = t
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = Ehdotuksia palvelusta { -brand-short-name }
+addressbar-locbar-suggest-nonsponsored-desc = Hanki hakuusi liittyviä ehdotuksia verkosta.
+addressbar-locbar-suggest-sponsored-option =
+    .label = Ehdotuksia sponsoreilta
+addressbar-locbar-suggest-sponsored-desc = Tue { -brand-short-name }ia satunnaisilla sponsoroiduilla ehdotuksilla.
 addressbar-quickactions-learn-more = Lue lisää
+addressbar-dismissed-suggestions-label = Hylätyt ehdotukset
+addressbar-restore-dismissed-suggestions-description = Palauta sponsorien ja { -brand-short-name }in hylätyt ehdotukset.
+addressbar-restore-dismissed-suggestions-button =
+    .label = Palauta
 
 ## Privacy Section - Content Blocking
 
@@ -1332,7 +1356,13 @@ collection-description = Pyrimme antamaan sinulle vapauden valita ja keräämä�
 collection-privacy-notice = Tietosuojakäytäntö
 collection-health-report-telemetry-disabled = Et enää salli { -vendor-short-name }n vastaanottaa teknisiä ja käyttötilastoja. Kaikki aikaisemmat tiedot poistetaan 30 päivän kuluessa.
 collection-health-report-telemetry-disabled-link = Lue lisää
+collection-usage-ping =
+    .label = Lähetä päivittäinen käyttöilmoitus { -vendor-short-name }lle
+    .accesskey = u
 collection-usage-ping-description = Tämä auttaa { -vendor-short-name }a arvioimaan aktiivisten käyttäjien määrää.
+collection-health-report2 =
+    .label = Lähetä teknistä ja vuorovaikutustietoa { -vendor-short-name }lle
+    .accesskey = r
 collection-health-report =
     .label = Salli, että { -brand-short-name } lähettää teknisiä ja käyttötilastoja { -vendor-short-name }lle
     .accesskey = S
@@ -1345,9 +1375,13 @@ collection-studies-link = Näytä { -brand-short-name }-tutkimukset
 addon-recommendations2 =
     .label = Salli henkilökohtaiset laajennussuositukset
 addon-recommendations-description = Hanki laajennussuosituksia parantaaksesi selauskokemustasi.
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled2 = Tietojen kerääminen ei ole käytössä tässä koostamiskokoonpanossa.
 collection-backlogged-crash-reports2 =
     .label = Lähetä kaatumisilmoitukset automaattisesti
     .accesskey = ä
+collection-backlogged-crash-reports-description = Tämä auttaa { -vendor-short-name }a diagnosoimaan ja korjaamaan selaimen ongelmia. Raportit voivat sisältää henkilökohtaisia tai arkaluonteisia tietoja.
 addon-recommendations =
     .label = Salli, että { -brand-short-name } tekee henkilökohtaisia laajennussuosituksia
 addon-recommendations-link = Lue lisää
