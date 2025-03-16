@@ -40,9 +40,9 @@ options-inspector-draggable-properties-tooltip =
     .title = Клацніть і потягніть для редагування значень розмірів у огляді правил інспектора.
 # The label for the checkbox option to enable simplified highlighting on page elements
 # within the inspector for users who enabled prefers-reduced-motion = reduce
-options-inspector-simplified-highlighters-label = Використовувати спрощене підсвічування з prefers-reduced-motion
+options-inspector-simplified-highlighters-label = Використовувати спрощене підсвічення з prefers-reduced-motion
 options-inspector-simplified-highlighters-tooltip =
-    .title = Використання спрощеного підсвічування, якщо увімкнено prefers-reduced-motion. Підкреслення лініями замість заповнених прямокутників навколо підсвічених елементів для уникнення ефекту миготіння.
+    .title = Використання спрощеного підсвічення, якщо увімкнено prefers-reduced-motion. Підкреслення лініями замість заповнених прямокутників навколо підсвічених елементів для уникнення ефекту миготіння.
 # The label for the checkbox option to make the Enter key move the focus to the next input
 # when editing a property name or value in the Inspector rules view
 options-inspector-rules-focus-next-on-enter-label = Фокусувати наступне введення на <kbd>Enter</kbd>

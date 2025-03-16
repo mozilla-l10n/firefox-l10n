@@ -331,7 +331,7 @@ pdfjs-editor-remove-freetext-button =
 pdfjs-editor-remove-stamp-button =
     .title = Вилучити зображення
 pdfjs-editor-remove-highlight-button =
-    .title = Вилучити підсвічування
+    .title = Вилучити підсвічення
 pdfjs-editor-remove-signature-button =
     .title = Вилучити підпис
 
@@ -349,7 +349,7 @@ pdfjs-editor-stamp-add-image-button-label = Додати зображення
 # This refers to the thickness of the line used for free highlighting (not bound to text)
 pdfjs-editor-free-highlight-thickness-input = Товщина
 pdfjs-editor-free-highlight-thickness-title =
-    .title = Змінюйте товщину під час підсвічування елементів, крім тексту
+    .title = Змінюйте товщину під час підсвічення елементів, крім тексту
 pdfjs-editor-signature-add-signature-button =
     .title = Додати новий підпис
 pdfjs-editor-signature-add-signature-button-label = Додати новий підпис
@@ -418,7 +418,7 @@ pdfjs-editor-resizer-middle-left =
 ## Color picker
 
 # This means "Color used to highlight text"
-pdfjs-editor-highlight-colorpicker-label = Колір підсвічування
+pdfjs-editor-highlight-colorpicker-label = Колір підсвічення
 pdfjs-editor-colorpicker-button =
     .title = Змінити колір
 pdfjs-editor-colorpicker-dropdown =
