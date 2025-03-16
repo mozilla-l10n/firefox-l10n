@@ -1268,6 +1268,7 @@ permissions-addon-exceptions =
 collection-header = { -brand-short-name } දත්ත රැස් කිරීම හා භාවිතය
 collection-header2 = { -brand-short-name } දත්ත රැස් කිරීම හා භාවිතය
     .searchkeywords = telemetry
+preferences-collection-privacy-notice = රහස්‍යතා දැන්වීම බලන්න
 collection-description = අපි බොහෝ විට ඔබට තෝරාගැනීම් ලබා දීමට වෙහෙසෙන අතර සැමට { -brand-short-name } වැඩිදියුණු කිරීමට හා සැපයීමට අවශ්‍ය දෑ පමණක් රැස් කරන්නෙමු. පෞද්ගලික තොරතුරු ලැබීමට පෙර ද සැමවිට අවසර ඉල්ලා සිටින්නෙමු.
 collection-privacy-notice = රහස්‍යතා දැන්වීම
 collection-health-report-telemetry-disabled = ඔබ තවදුරටත් { -vendor-short-name } සඳහා තාක්‍ෂණික සහ අන්තර්ක්‍රියා දත්ත ග්‍රහණය කර ගැනීමට ඉඩ නොදේ. සියළුම අතීත දත්ත දවස් 30 ක් ඇතුළත මකා දැමෙනු ඇත.
