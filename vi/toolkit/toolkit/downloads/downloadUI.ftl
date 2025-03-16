@@ -42,7 +42,7 @@ download-ui-cancel-downloads-ok =
 
 ##
 
-download-ui-file-executable-security-warning-title = Mở Tập Tin Thực Thi?
+download-ui-file-executable-security-warning-title = Mở tập tin thực thi?
 # Variables:
 #   $executable (String): The executable file to be opened.
-download-ui-file-executable-security-warning = "{ $executable }" là một tập tin thực thi. Các tập tin thực thi có khả năng chứa virus hoặc mã độc và có thể làm tổn hại máy tính của bạn. Hãy thận trọng khi mở tập tin này. Bạn có chắc là mình muốn chạy "{ $executable }" không?
+download-ui-file-executable-security-warning = "{ $executable }" là một tập tin thực thi. Các tập tin này có khả năng chứa virus hoặc mã độc và có thể làm tổn hại máy tính của bạn. Hãy thận trọng khi mở tập tin này. Bạn có chắc chắn muốn chạy "{ $executable }" không?
