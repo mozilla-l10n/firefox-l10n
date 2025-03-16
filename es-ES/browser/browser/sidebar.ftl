@@ -60,6 +60,9 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Expandir la barra lateral al pasar el ratón
+expand-on-hover-message =
+    .heading = Expandir al pasar el ratón por encima
+    .message = En una próxima actualización, podrá expandir la barra lateral al pasar el puntero del ratón por encima.
 
 ## Labels for sidebar context menu items
 
@@ -77,6 +80,12 @@ sidebar-context-menu-bookmark-tab =
     .label = Añadir pestaña a marcadores…
 sidebar-context-menu-copy-link =
     .label = Copiar enlace
+sidebar-context-menu-hide-sidebar =
+    .label = Ocultar barra lateral
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Activar pestañas verticales
+sidebar-context-menu-customize-sidebar =
+    .label = Personalizar barra lateral
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =

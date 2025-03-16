@@ -466,5 +466,9 @@ multi-profile-callout-cta = Buat profil
 
 # If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
 desktop-to-mobile-headline = Unduh, sinkronkan, dan mulai!
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Pindai kode QR untuk mengunduh { -brand-product-name } untuk seluler. Setelah dipasang, pilih “Sinkronkan ke seluler” untuk mengakses kata sandi, markah, dan lainnya saat bepergian.
 dismiss-button-label = Tutup
 sync-to-mobile-button-label = Sinkronkan ke ponsel
+desktop-to-mobile-qr-code-alt =
+    .aria-label = Kode QR untuk mengunduh { -brand-product-name } untuk seluler

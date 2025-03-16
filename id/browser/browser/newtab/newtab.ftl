@@ -396,9 +396,14 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Celestial
 newtab-wallpaper-celestial-lunar-eclipse = Gerhana bulan
 newtab-wallpaper-celestial-earth-night = Foto malam dari orbit rendah Bumi
 newtab-wallpaper-celestial-starry-sky = Langit berbintang
+newtab-wallpaper-celestial-eclipse-time-lapse = Selang waktu gerhana bulan
 newtab-wallpaper-celestial-black-hole = Ilustrasi galaksi lubang hitam
 newtab-wallpaper-celestial-river = Citra satelit sungai
 

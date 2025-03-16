@@ -260,6 +260,7 @@ preferences-web-appearance-override-warning2 =
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Kelola tema { -brand-short-name } di <a data-l10n-name="themes-link">Ekstensi & Tema</a>
 preferences-contrast-control-header = Kontrol Kontras
+preferences-contrast-control-description = Situs web memiliki beragam warna latar depan dan latar belakang. Konfigurasikan { -brand-short-name } untuk menggunakan warna yang sama di seluruh situs web untuk meningkatkan keterbacaan.
 preferences-contrast-control-use-platform-settings =
     .label = Otomatis (gunakan pengaturan sistem)
     .accesskey = a

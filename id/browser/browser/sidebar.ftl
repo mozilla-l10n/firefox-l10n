@@ -56,6 +56,13 @@ sidebar-show-on-the-right =
     .label = Pindahkan bilah samping ke kanan
 sidebar-show-on-the-left =
     .label = Pindahkan bilah samping ke kiri
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Bentangkan bilah samping saat sorot
+expand-on-hover-message =
+    .heading = Bentangkan saat sorot segera hadir
+    .message = Dalam pembaruan mendatang, Anda akan dapat memperluas bilah sisi saat mengarahkan kursor ke atasnya.
 
 ## Labels for sidebar context menu items
 

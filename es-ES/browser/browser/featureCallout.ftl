@@ -97,6 +97,7 @@ sidebar-customization-callout-1-subtitle = La barra lateral de { -brand-product-
 sidebar-customization-callout-callout-button = Personalizar barra lateral
 sidebar-customization-callout-dismiss-button = Ocultar barra lateral
 sidebar-customization-callout-2-title = Personalice la barra lateral de { -brand-product-name }
+sidebar-customization-callout-2-subtitle = Añada y elimine herramientas. Coloque sus pestañas en la barra lateral. Pruebe un chatbot con inteligencia artificial. Cómo personalizar la barra lateral depende de usted.
 
 ## Sidebar Callout Survey Strings
 
