@@ -454,8 +454,8 @@ pdfjs-editor-new-alt-text-error-close-button = Đóng
 #   $totalSize (Number) - the total size (in MB) of the AI model.
 #   $downloadedSize (Number) - the downloaded size (in MB) of the AI model.
 #   $percent (Number) - the percentage of the downloaded size.
-pdfjs-editor-new-alt-text-ai-model-downloading-progress = Đang tải xuống mô hình AI văn bản thay thế ({ $downloadedSize } trong số { $totalSize } MB)
-    .aria-valuetext = Đang tải xuống mô hình AI văn bản thay thế ({ $downloadedSize } trong số { $totalSize } MB)
+pdfjs-editor-new-alt-text-ai-model-downloading-progress = Đang tải xuống mô hình AI văn bản thay thế ({ $downloadedSize } / { $totalSize } MB)
+    .aria-valuetext = Đang tải xuống mô hình AI văn bản thay thế ({ $downloadedSize } / { $totalSize } MB)
 # This is a button that users can click to edit the alt text they have already added.
 pdfjs-editor-new-alt-text-added-button =
     .aria-label = Đã thêm văn bản thay thế

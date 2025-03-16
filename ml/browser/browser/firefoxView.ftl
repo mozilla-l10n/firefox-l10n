@@ -68,7 +68,7 @@ firefoxview-closed-tabs-placeholder-header = അടുത്തിടെ അട�
 firefoxview-closed-tabs-dismiss-tab =
     .title = { $tabTitle } കളയുക
 # refers to the last tab that was used
-firefoxview-pickup-tabs-badge = അവസാനം ഉപയോഗിച്ചതു്
+firefoxview-pickup-tabs-badge = ഒടുക്കം ഉപയോഗിച്ചതു്
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
