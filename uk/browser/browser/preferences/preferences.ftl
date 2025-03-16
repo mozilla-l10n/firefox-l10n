@@ -148,6 +148,7 @@ preferences-data-migration-description = Імпорт закладок, паро
 preferences-data-migration-button =
     .label = Імпорт даних
     .accesskey = м
+preferences-profiles-header = Профілі
 tabs-group-header = Вкладки
 ctrl-tab-recently-used-order =
     .label = Перемикати вкладки натисканням Ctrl+Tab у порядку недавнього їх використання

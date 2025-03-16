@@ -316,6 +316,12 @@ newtab-custom-settings = Керувати іншими налаштування�
 
 newtab-wallpaper-title = Шпалери
 newtab-wallpaper-reset = Відновити типові
+newtab-wallpaper-upload-image = Вивантажте зображення
+newtab-wallpaper-custom-color = Виберіть колір
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = Зображення перевищує обмеження розміру файлу в { $file_size } МБ. Спробуйте вивантажити менший файл.
+newtab-wallpaper-error-file-type = Не вдалося вивантажити ваш файл. Повторіть спробу з іншим типом файлу.
 newtab-wallpaper-light-red-panda = Червона панда
 newtab-wallpaper-light-mountain = Біла гора
 newtab-wallpaper-light-sky = Небо з фіолетовими та рожевими хмарами
@@ -359,6 +365,10 @@ newtab-wallpaper-abstract-purple = Фіолетові форми
 newtab-wallpaper-abstract-orange = Помаранчеві форми
 newtab-wallpaper-gradient-orange = Градієнт помаранчевого і рожевого
 newtab-wallpaper-abstract-blue-purple = Сині та пурпурові форми
+newtab-wallpaper-abstract-white-curves = Білий із заштрихованими кривими
+newtab-wallpaper-abstract-purple-green = Фіолетовий і зелений світловий градієнт
+newtab-wallpaper-abstract-blue-purple-waves = Сині та фіолетові хвилясті форми
+newtab-wallpaper-abstract-black-waves = Чорні хвилясті форми
 
 ## Celestial
 
@@ -369,6 +379,12 @@ newtab-wallpaper-storm-sky = Грозове небо
 newtab-wallpaper-sky-with-pink-clouds = Небо з рожевими хмарами
 newtab-wallpaper-red-panda-yawns-in-a-tree = Червона панда позіхає на дереві
 newtab-wallpaper-white-mountains = Білі гори
+newtab-wallpaper-hot-air-balloons = Різні кольори повітряних куль протягом дня
+newtab-wallpaper-starry-canyon = Синя зоряна ніч
+newtab-wallpaper-suspension-bridge = Фотографія сірого підвісного мосту вдень
+newtab-wallpaper-sand-dunes = Білі піщані дюни
+newtab-wallpaper-palm-trees = Силует кокосових пальм у час золотої години
+newtab-wallpaper-forest-trees = Дерева вкриті туманом
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -386,6 +402,16 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Небесний
+newtab-wallpaper-celestial-lunar-eclipse = Місячне затемнення
+newtab-wallpaper-celestial-earth-night = Нічне фото з низької навколоземної орбіти
+newtab-wallpaper-celestial-starry-sky = Зоряне небо
+newtab-wallpaper-celestial-eclipse-time-lapse = Хронометраж місячного затемнення
+newtab-wallpaper-celestial-black-hole = Ілюстрація галактики з чорною дірою
+newtab-wallpaper-celestial-river = Супутниковий знімок річки
 
 ## New Tab Weather
 
@@ -481,13 +507,22 @@ newtab-section-confirm-block-section-p1 = Ви дійсно хочете заб�
 newtab-section-confirm-block-section-p2 = Заблокований розділ більше не з'являтиметься у вашій стрічці.
 newtab-section-block-section-button = Заблокувати цей розділ
 newtab-section-cancel-button = Не зараз
+newtab-section-confirm-block-topic-p1 = Ви дійсно хочете заблокувати цю тему?
+newtab-section-confirm-block-topic-p2 = Заблоковані теми більше не з'являтимуться у вашій стрічці.
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = Заблокувати { $topic }
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Теми
+newtab-section-manage-topics-button-v2 =
+    .label = Керувати темами
+newtab-section-mangage-topics-followed-topics = Відстежується
 newtab-section-mangage-topics-button =
     .label = Відстежувані та заблоковані теми
 newtab-section-mangage-topics-followed-topics-subtitle = Відстежувані теми
 newtab-section-mangage-topics-followed-topics-empty-state = Ви ще не стежите за жодною темою.
+newtab-section-mangage-topics-blocked-topics = Заблоковано
 newtab-section-mangage-topics-blocked-topics-subtitle = Заблоковані теми
 newtab-section-mangage-topics-blocked-topics-empty-state = Ви ще не заблокували жодної теми.
