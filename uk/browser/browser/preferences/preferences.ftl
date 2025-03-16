@@ -688,11 +688,11 @@ search-show-suggestions-private-windows =
 suggestions-addressbar-settings-generic2 = Змінити налаштування для інших пропозицій панелі адреси
 search-suggestions-cant-show = Пошукові пропозиції не будуть показуватись в панелі адреси, тому що ви налаштували { -brand-short-name } ніколи не запам'ятовувати історію.
 search-one-click-header2 = Пошукові скорочення
-search-one-click-desc = Оберіть альтернативні пошукові системи, що з'являються під рядками адреси і пошуку, коли ви починаєте вводити запит.
+search-one-click-desc = Оберіть альтернативні пошукові системи, що з'являються під рядками адреси і пошуку, коли ви починаєте вводити ключове слово.
 search-choose-engine-column =
     .label = Пошукова система
 search-choose-keyword-column =
-    .label = Скорочення
+    .label = Ключове слово
 search-restore-default =
     .label = Відновити типові пошукові системи
     .accesskey = с
@@ -705,11 +705,11 @@ search-add-engine =
 search-find-more-link = Знайти інші пошукові системи
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
-search-keyword-warning-title = Це скорочення вже використовується
+search-keyword-warning-title = Ключове слово вже використовується
 # Variables:
 #   $name (string) - Name of a search engine.
-search-keyword-warning-engine = Ви вибрали скорочення, яке вже використовується “{ $name }”. Будь ласка, вкажіть інше.
-search-keyword-warning-bookmark = Ви вибрали скорочення, котре вже використовується закладкою. Будь ласка, вкажіть інше.
+search-keyword-warning-engine = Ви вибрали ключове слово, яке вже використовується для “{ $name }”. Вкажіть інше.
+search-keyword-warning-bookmark = Ви вибрали ключове слово, яке вже використовується для закладки. Вкажіть інше.
 
 ## Containers Section
 
