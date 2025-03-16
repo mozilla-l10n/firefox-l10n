@@ -22,3 +22,7 @@ contentanalysis-genericresponse-message = Analisis Konten ditanggapi dengan { $r
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-block-message = Organisasi Anda menggunakan perangkat lunak pencegah kehilangan data yang telah memblokir konten ini: { $content }.
+contentanalysis-error-message-dropped-text = Seret dan lepas ditolak.
+contentanalysis-error-message-clipboard = Tempel ditolak.
+contentanalysis-error-message-print = Pencetakan ditolak.
+contentanalysis-block-dialog-title-upload-file = Anda tidak diizinkan untuk mengunggah berkas ini

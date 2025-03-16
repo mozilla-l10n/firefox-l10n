@@ -15,3 +15,12 @@ experimental-features-js-warp-description = Aktifkan Warp, sebuah proyek untuk m
 experimental-features-ime-search =
     .label = Bilah Alamat: Tampilkan hasil selama komposisi IME
 experimental-features-ime-search-description = IME (Input Method Editor) adalah alat yang memungkinkan Anda memasukkan simbol kompleks, seperti yang digunakan dalam bahasa tulis Asia Timur atau India, menggunakan papan ketik standar. Mengaktifkan eksperimen ini akan membuat panel alamat terbuka, menampilkan hasil pencarian dan saran, ketika menggunakan IME untuk memasukkan teks. Perhatikan bahwa IME mungkin menampilkan panel yang menutupi hasil bilah alamat, karena itu preferensi ini hanya disarankan bagi IME tidak menggunakan panel jenis ini.
+experimental-features-group-developer-tools =
+    .label = Perangkat Pengembang
+experimental-features-group-webpage-display =
+    .label = Tampilan Laman Web
+experimental-features-group-customize-browsing =
+    .label = Ubahsuai penjelajahan Anda
+# Contextual Password Manager in sidebar
+experimental-features-contextual-password-manager =
+    .label = Sandi di bilah samping

@@ -115,6 +115,8 @@ about-webauthn-auth-info-min-pin-length = Panjang PIN minimum
 about-webauthn-auth-info-force-pin-change = Paksa perubahan PIN
 about-webauthn-auth-info-max-ser-large-blob-array = Ukuran maksimum blob array besar
 about-webauthn-auth-info-algorithms = Algoritma
+about-webauthn-auth-info-max-credential-id-length = Panjang ID kredensial maksimum
+about-webauthn-auth-info-max-credential-count-in-list = Jumlah kredensial maksimum dalam daftar
 about-webauthn-auth-info-pin-protocols = Protokol PIN
 about-webauthn-auth-info-max-msg-size = Ukuran pesan maksimum
 # AAGUID should not be translated.
@@ -158,3 +160,4 @@ about-webauthn-ctap2-enroll-feedback-merge-failure = Gagal menggabungkan sampel.
 # Scan (e.g. of fingerprint) is somehow identical to an existing sample.
 about-webauthn-ctap2-enroll-feedback-exists = Sampel sudah ada.
 about-webauthn-ctap2-enroll-feedback-no-user-activity = Tidak ada aktivitas dari pengguna.
+about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = Pengguna tidak menyelesaikan pengambilan sampel seperti yang diharapkan.
