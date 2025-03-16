@@ -13,6 +13,7 @@ neterror-captive-portal-page-title = Вхід в мережу
 neterror-dns-not-found-title = Сервер не знайдено
 neterror-malformed-uri-page-title = Недійсна URL-адреса
 general-body-title = Будьте обережні. Тут щось не так.
+problem-with-this-site-title = Схоже, на цьому сайті виникла проблема
 
 ## Error page actions
 

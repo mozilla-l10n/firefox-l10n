@@ -318,6 +318,9 @@ pdfjs-highlight-floating-button1 =
     .title = Підсвітити
     .aria-label = Підсвітити
 pdfjs-highlight-floating-button-label = Підсвітити
+pdfjs-editor-signature-button =
+    .title = Додати підпис
+pdfjs-editor-signature-button-label = Додати підпис
 
 ## Remove button for the various kind of editor.
 
@@ -347,6 +350,9 @@ pdfjs-editor-stamp-add-image-button-label = Додати зображення
 pdfjs-editor-free-highlight-thickness-input = Товщина
 pdfjs-editor-free-highlight-thickness-title =
     .title = Змінюйте товщину під час підсвічування елементів, крім тексту
+pdfjs-editor-signature-add-signature-button =
+    .title = Додати новий підпис
+pdfjs-editor-signature-add-signature-button-label = Додати новий підпис
 # .default-content is used as a placeholder in an empty text editor.
 pdfjs-free-text2 =
     .aria-label = Текстовий редактор
@@ -573,12 +579,18 @@ pdfjs-editor-add-signature-error-close-button = Закрити
 
 pdfjs-editor-add-signature-cancel-button = Скасувати
 pdfjs-editor-add-signature-add-button = Додати
+pdfjs-editor-edit-signature-update-button = Оновити
 
 ## Main menu for adding/removing signatures
 
+pdfjs-editor-delete-signature-button =
+    .title = Вилучити підпис
+pdfjs-editor-delete-signature-button-label = Вилучити підпис
 
 ## Editor toolbar
 
+pdfjs-editor-add-signature-edit-button-label = Редагувати опис
 
 ## Edit signature description dialog
 
+pdfjs-editor-edit-signature-dialog-title = Редагувати опис

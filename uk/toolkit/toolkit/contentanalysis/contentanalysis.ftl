@@ -58,6 +58,10 @@ contentanalysis-error-message-upload-file = Вивантаження “{ $filen
 contentanalysis-error-message-dropped-text = Перетягування заборонено.
 contentanalysis-error-message-clipboard = Вставлення заборонено.
 contentanalysis-error-message-print = Друк заборонено.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
+contentanalysis-timeout-block-error-message-content = Час очікування з'єднання з { $agent } минув. { $contentName } заблоковано.
 contentanalysis-block-dialog-title-upload-file = Вам не дозволено вивантажувати цей файл
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"

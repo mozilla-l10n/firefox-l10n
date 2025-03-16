@@ -149,6 +149,10 @@ preferences-data-migration-button =
     .label = Імпорт даних
     .accesskey = м
 preferences-profiles-header = Профілі
+preferences-manage-profiles-description = Кожен профіль має окремі дані перегляду і налаштування, зокрема історію, паролі тощо.
+preferences-manage-profiles-learn-more = Докладніше
+preferences-manage-profiles-button =
+    .label = Керувати профілями
 tabs-group-header = Вкладки
 ctrl-tab-recently-used-order =
     .label = Перемикати вкладки натисканням Ctrl+Tab у порядку недавнього їх використання
@@ -270,6 +274,17 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Керуйте темами { -brand-short-name } у розділі <a data-l10n-name="themes-link">Розширення й теми</a>
+preferences-contrast-control-header = Керування контрастом
+preferences-contrast-control-description = Вебсайти мають різні кольори переднього і заднього плану. Налаштуйте { -brand-short-name } на використання однакових кольорів на вебсайтах для кращої читабельності.
+preferences-contrast-control-use-platform-settings =
+    .label = Автоматично (налаштування системи)
+    .accesskey = А
+preferences-contrast-control-off =
+    .label = Вимкнено
+    .accesskey = В
+preferences-contrast-control-custom =
+    .label = Власне
+    .accesskey = л
 preferences-colors-header = Кольори
 preferences-colors-description = Замінити усталені кольори { -brand-short-name } для тексту, тла вебсайтів та посилань.
 preferences-colors-manage-button =
@@ -1127,6 +1142,13 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Панель адреси
 addressbar-suggest = При використанні панелі адреси, пропонувати
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Панель адреси – { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Виберіть тип пропозицій, які з'являтимуться в панелі адреси.
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Докладніше
 addressbar-locbar-history-option =
     .label = Історію перегляду
     .accesskey = т
@@ -1159,7 +1181,18 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Показувати популярні пошукові пропозиції
     .accesskey = П
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = Пропозиції від { -brand-short-name }
+addressbar-locbar-suggest-nonsponsored-desc = Отримувати пропозиції з інтернету, пов'язані з вашим пошуком.
+addressbar-locbar-suggest-sponsored-option =
+    .label = Пропозиції від спонсорів
+addressbar-locbar-suggest-sponsored-desc = Підтримайте { -brand-short-name } за допомогою періодичних спонсорованих пропозицій.
 addressbar-quickactions-learn-more = Докладніше
+addressbar-dismissed-suggestions-label = Відхилені пропозиції
+addressbar-restore-dismissed-suggestions-description = Відновити відхилені пропозиції від спонсорів і { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button =
+    .label = Відновити
 
 ## Privacy Section - Content Blocking
 

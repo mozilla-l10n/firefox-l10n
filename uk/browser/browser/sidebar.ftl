@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = Чат-бот з ШІ
 menu-view-review-checker =
     .label = Засіб перевірки відгуків
+menu-view-contextual-password-manager =
+    .label = Паролі
 sidebar-options-menu-button =
     .title = Відкрити меню
 
@@ -58,6 +60,9 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Розгортати бічну панель при наведенні
+expand-on-hover-message =
+    .heading = Незабаром з'явиться розкриття при наведенні
+    .message = У майбутньому оновленні ви зможете розгортати бічну панель, навівши на неї курсор.
 
 ## Labels for sidebar context menu items
 
@@ -75,6 +80,12 @@ sidebar-context-menu-bookmark-tab =
     .label = Додати вкладку до закладок…
 sidebar-context-menu-copy-link =
     .label = Копіювати посилання
+sidebar-context-menu-hide-sidebar =
+    .label = Приховати бічну панель
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Увімкнути вертикальні вкладки
+sidebar-context-menu-customize-sidebar =
+    .label = Налаштувати бічну панель
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
@@ -99,6 +110,8 @@ sidebar-menu-customize-label =
     .label = Налаштувати бічну панель
 sidebar-menu-review-checker-label =
     .label = Засіб перевірки відгуків
+sidebar-menu-contextual-password-manager-label =
+    .label = Паролі
 
 ## Tooltips for sidebar menu items.
 
@@ -139,6 +152,8 @@ sidebar-menu-syncedtabs-header =
     .heading = Вкладки з інших пристроїв
 sidebar-menu-bookmarks-header =
     .heading = Закладки
+sidebar-menu-cpm-header =
+    .heading = Паролі
 sidebar-panel-header-close-button =
     .tooltiptext = Закрити
 
