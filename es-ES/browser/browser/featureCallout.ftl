@@ -77,12 +77,26 @@ sidebar-button-callout-vertical-tabs = Para mostrar sus pestañas, seleccione el
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = ¿Abrumado por tantas pestañas?
+vertical-tabs-callout-1-subtitle = Pruebe nuestro nuevo diseño de pestañas verticales para explorar rápidamente su lista de pestañas. Los primeros usuarios que lo probaron informan que este diseño les ayuda a sentirse más organizados. Cámbielo en cualquier momento.
+vertical-tabs-callout-1-cta-button = Pruebe las pestañas verticales
+vertical-tabs-callout-2-cta-button = Pruébelo ahora
+vertical-tabs-callout-2-title = ¿Tiene muchas pestañas abiertas? Pruebe las pestañas verticales.
+vertical-tabs-callout-2-subtitle = Este diseño facilita la explorar rápidamente la lista de pestañas. Además, puede ajustar el ancho para ver más o menos de los títulos de las pestañas.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = ¿Está perdiendo el rastro de las pestañas importantes?
+sidebar-pins-callout-subtitle = Prueba a fijarlas para que se mantengan en la parte superior de la lista de pestañas. Haga clic con el botón derecho en la pestaña que desee fijar y, a continuación, seleccione Fijar pestaña.
+sidebar-pins-callout-cta-button = Fijar pestaña
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Barra lateral: el lugar para herramientas y pestañas
+sidebar-customization-callout-1-subtitle = La barra lateral de { -brand-product-name } brinda acceso rápido al historial de navegación, pestañas de otros dispositivos y un chatbot de IA, todo sin salir de la vista principal.
+sidebar-customization-callout-callout-button = Personalizar barra lateral
+sidebar-customization-callout-dismiss-button = Ocultar barra lateral
+sidebar-customization-callout-2-title = Personalice la barra lateral de { -brand-product-name }
 
 ## Sidebar Callout Survey Strings
 
