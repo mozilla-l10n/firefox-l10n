@@ -8,6 +8,10 @@
 # Tooltip for the performance button in the status bar
 network-menu-summary-tooltip-perf =
     .title = Avvia analisi prestazioni
+network-menu-summary-tooltip-domcontentloaded =
+    .title = Orario in cui si è verificato l’evento “DOMContentLoaded”
+network-menu-summary-tooltip-load =
+    .title = Orario in cui si è verificato l’evento “load”
 # This label is displayed in the network table footer providing the
 # number of requests
 # Variables:
