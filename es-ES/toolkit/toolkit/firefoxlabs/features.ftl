@@ -25,3 +25,7 @@ experimental-features-group-webpage-display =
     .label = Visualización de página web
 experimental-features-group-customize-browsing =
     .label = Personalice su navegación
+# Contextual Password Manager in sidebar
+experimental-features-contextual-password-manager =
+    .label = Contraseñas en la barra lateral
+experimental-features-contextual-password-manager-description = Acceda a sus contraseñas directamente desde la barra lateral. Evite la búsqueda y el restablecimiento de contraseñas al intentar iniciar sesión. Para utilizar esta función, seleccione Contraseñas en la barra lateral. A continuación, diríjase a la configuración general y, bajo Diseño del navegador, elija Mostrar barra lateral. Posteriormente, personalice la barra lateral seleccionando Contraseñas. Si decide probarlo, <a data-l10n-name="connect">háganos saber su opinión</a>.

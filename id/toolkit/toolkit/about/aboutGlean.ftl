@@ -16,6 +16,10 @@ about-glean-interface-description =
     adalah pustaka pengumpulan data yang digunakan pada proyek { -vendor-short-name }.
     Antarmuka ini dirancang untuk digunakan oleh pengembang dan penguji secara manual
     <a data-l10n-name="fog-link">instruksi pengujian</a>.
+about-glean-category-manual-testing = Pengujian Manual
+about-glean-category-adhoc-testing = Pengujian Ad Hoc
+about-glean-category-profiler = Menggunakan Profiler
+about-glean-category-about-data = Tentang Data
 about-glean-upload-enabled = Pengunggahan data diaktifkan.
 about-glean-upload-disabled = Pengunggahan data dinonaktifkan.
 about-glean-upload-enabled-local = Pengunggahan data diaktifkan hanya untuk mengirim ke server lokal.
@@ -43,6 +47,9 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-additional-links =
+    Untuk penjelasan tentang berbagai cara untuk merekam dan menemukan data, silakan merujuk ke
+    Tab <strong>Tentang Data</strong>.
 about-glean-about-testing-header = Tentang Pengujian
 # This message is followed by a numbered list.
 about-glean-manual-testing =
@@ -54,6 +61,8 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (jangan kirimkan ping apapun)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = Di bidang sebelumnya pastikan ada tag debug yang mudah diingat sehingga Anda dapat mengenali ping Anda nanti.
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings-with-requirements = Setel tag debug yang mudah diingat <span>(20 karakter atau kurang, alfanumerik dan - saja)</span> sehingga Anda dapat mengenali ping Anda nanti.
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names =

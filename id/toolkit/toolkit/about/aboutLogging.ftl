@@ -26,14 +26,27 @@ about-logging-logging-to-profiler = Logging ke { -profiler-brand-name }
 about-logging-no-log-modules = Tidak ada
 about-logging-no-log-file = Tidak ada
 about-logging-logging-preset-selector-text = Prasetel logging:
+about-logging-with-profiler-stacks-checkbox = Aktifkan pelacakan tumpukan untuk pesan log
 
 ## Logging presets
 
 about-logging-preset-networking-label = Jaringan
 about-logging-preset-networking-description = Log modul untuk mendiagnosis masalah jaringan
+about-logging-preset-networking-cookie-label = Kuki
+about-logging-preset-networking-cookie-description = Log modul untuk mendiagnosis masalah kuki
+about-logging-preset-networking-websocket-label = WebSocket
+about-logging-preset-networking-websocket-description = Log modul untuk mendiagnosis masalah WebSocket
+about-logging-preset-networking-http3-label = HTTP/3
+about-logging-preset-networking-http3-description = Log modul untuk mendiagnosis masalah HTTP/3 dan QUIC
+about-logging-preset-networking-http3-upload-speed-label = Kecepatan unggah HTTP/3
+about-logging-preset-networking-http3-upload-speed-description = Modul log untuk mendiagnosis masalah kecepatan unggah HTTP/3
 about-logging-preset-media-playback-label = Pemutaran media
 about-logging-preset-media-playback-description = Modul log untuk mendiagnosis masalah pemutaran media (bukan masalah konferensi video)
 about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-webrtc-description = Modul log untuk mendiagnosis panggilan WebRTC
+about-logging-preset-webcodecs-label = WebCodec
+about-logging-preset-webcodecs-description = Log modul untuk mendiagnosis masalah dengan dekoder dan enkoder audio/video WebCodecs, dan dekoder gambar
+about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-custom-label = Khusus
 about-logging-preset-custom-description = Modul log dipilih secara manual
 # Error handling
