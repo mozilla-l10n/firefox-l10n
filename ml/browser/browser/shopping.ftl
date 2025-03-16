@@ -19,7 +19,9 @@ shopping-a11y-loading =
 
 ## Strings for the shopping message-bar
 
+shopping-message-bar-warning-stale-analysis-message-2 = നോക്കാൻ പുതിയ വിവരങ്ങൾ
 shopping-message-bar-warning-stale-analysis-button = ഇപ്പോൾ നോക്കുക
+shopping-message-bar-keep-closed-dismiss-button = വേണ്ട, നന്ദി
 shopping-message-bar-keep-closed-accept-button = അതെ, അടച്ചിടുക
 
 ## Strings for the product review snippets card

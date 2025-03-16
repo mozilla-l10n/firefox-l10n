@@ -5,14 +5,20 @@
 set-desktop-background-window =
     .title = ഉപരിഫലക പശ്ചാത്തലം സജ്ജമാക്കുക
 set-desktop-background-accept =
-    .label = ഡസ്ക് ടോപ്പ് പശ്ചാത്തലം ക്റമികരിക്കുക
+    .label = ഉപരിഫലക പശ്ചാത്തലം സജ്ജമാക്കുക
 open-desktop-prefs =
     .label = ഉപരിഫലക  മുന്‍ഗണനകള്‍ തുറക്കുക
 set-background-preview-unavailable = മുൻക്കാഴ്ച ലഭ്യമല്ല
+# This refers to the wallpaper "spanning" multiple monitors when the
+# user has more than one. Only some of the entire image will be on
+# each monitor. This should ideally match the wording in Windows' own
+# Desktop Background settings page.
+set-background-span =
+    .label = സ്പാൻ
 set-background-color = നിറം
 set-background-position = സ്ഥാനം
 set-background-tile =
-    .label = ടൈല്‍
+    .label = ഓടു്
 set-background-center =
     .label = നടുക്കു്
 set-background-stretch =
