@@ -26,3 +26,6 @@ contentanalysis-error-message-dropped-text = Seret dan lepas ditolak.
 contentanalysis-error-message-clipboard = Tempel ditolak.
 contentanalysis-error-message-print = Pencetakan ditolak.
 contentanalysis-block-dialog-title-upload-file = Anda tidak diizinkan untuk mengunggah berkas ini
+contentanalysis-block-dialog-title-print = Anda tidak diizinkan untuk mencetak dokumen ini
+contentanalysis-inprogress-quit-title = Keluar dari { -brand-shorter-name }?
+contentanalysis-inprogress-quit-yesbutton = Ya, keluar

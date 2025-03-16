@@ -445,7 +445,11 @@ onboarding-checklist-sign-up = Entre na sua conta ou crie uma
 
 tab-groups-onboarding-feature-callout-title = Experimente grupos de abas para reduzir a desordem e aumentar a concentração.
 tab-groups-onboarding-feature-callout-subtitle = Organize-se arrastando uma aba sobre outra para criar seu primeiro grupo.
+tab-groups-onboarding-create-group-title-2 = Encontre aqui seus grupos de abas quando quiser.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Encontre seus grupos procurando na barra de endereços.
+tab-groups-onboarding-saved-groups-title-2 = Grupos de abas fechados podem ser reabertos aqui sempre que precisar.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Encontre grupos fechados, procurando na barra de endereços.
+tab-groups-onboarding-session-restore-title = Reabra aqui seus grupos de abas quando quiser.
 tab-groups-onboarding-saved-groups-title = Se você fechar um grupo de abas, pode reabrir aqui quando quiser.
 tab-groups-onboarding-dismiss = OK
 

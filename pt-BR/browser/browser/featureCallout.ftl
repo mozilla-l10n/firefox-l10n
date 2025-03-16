@@ -97,6 +97,7 @@ sidebar-customization-callout-1-subtitle = O painel lateral do { -brand-product-
 sidebar-customization-callout-callout-button = Personalizar painel lateral
 sidebar-customization-callout-dismiss-button = Ocultar painel lateral
 sidebar-customization-callout-2-title = Deixe o painel lateral do { -brand-product-name } do seu jeito
+sidebar-customization-callout-2-subtitle = Adicione e remova ferramentas. Posicione suas abas no painel lateral. Experimente um chatbot de inteligência artificial. Você decide como personalizar o painel lateral.
 
 ## Sidebar Callout Survey Strings
 
