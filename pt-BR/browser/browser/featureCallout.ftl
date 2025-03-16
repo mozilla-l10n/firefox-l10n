@@ -86,6 +86,7 @@ vertical-tabs-callout-2-subtitle = Esse layout facilita examinar rapidamente a l
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = Está difícil encontrar suas abas mais importantes?
 sidebar-pins-callout-subtitle = Experimente fixar, mantendo no topo da lista de abas. Clique com o botão direito em uma aba e escolha Fixar aba.
 sidebar-pins-callout-cta-button = Fixar aba
 
@@ -95,6 +96,7 @@ sidebar-customization-callout-1-title = Painel lateral: sua área de ferramentas
 sidebar-customization-callout-1-subtitle = O painel lateral do { -brand-product-name } oferece acesso rápido ao histórico de navegação, abas de outros dispositivos e um robô de conversa de inteligência artificial, tudo sem sair da visão principal.
 sidebar-customization-callout-callout-button = Personalizar painel lateral
 sidebar-customization-callout-dismiss-button = Ocultar painel lateral
+sidebar-customization-callout-2-title = Deixe o painel lateral do { -brand-product-name } do seu jeito
 
 ## Sidebar Callout Survey Strings
 
