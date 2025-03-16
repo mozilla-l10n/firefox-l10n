@@ -180,7 +180,7 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/shared/background.sys.mjs
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
-profiler-popup-presets-web-developer-description = Рекомендовані попередні налаштування для налагодження більшості вебзастосунків. З низьким споживанням ресурсів.
+profiler-popup-presets-web-developer-description = Рекомендовані налаштування для налагодження більшості вебпрограм. З низьким споживанням ресурсів.
 profiler-popup-presets-web-developer-label =
     .label = Веброзробник
 profiler-popup-presets-firefox-description = Рекомендовані налаштування для профілювання { -brand-shorter-name }.

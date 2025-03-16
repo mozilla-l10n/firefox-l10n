@@ -28,7 +28,7 @@ about-private-browsing-hide-activity-1 = Приховати активність
 about-private-browsing-prominent-cta = Зберігайте приватність з { -mozilla-vpn-brand-name }
 about-private-browsing-focus-promo-cta = Завантажити { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: приватний перегляд у дорозі
-about-private-browsing-focus-promo-text = Наш спеціалізований мобільний застосунок для приватного перегляду щоразу очищає вашу історію і файли cookie.
+about-private-browsing-focus-promo-text = Наша спеціальна програма для приватного перегляду на мобільних пристроях щоразу очищає вашу історію і файли cookie.
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 

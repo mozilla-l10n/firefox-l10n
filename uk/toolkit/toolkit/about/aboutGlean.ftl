@@ -82,7 +82,7 @@ about-glean-label-for-log-pings =
 # An in-line button labeled "Apply settings and submit ping" precedes this string.
 about-glean-label-for-controls-submit =
     Натисніть попередню кнопку, щоб позначити всі пінги { -glean-brand-name } своєю міткою і надіслати вибраний пінг.
-    (Усі пінги, надіслані з того часу до перезапуску застосунку, будуть позначені міткою
+    (Усі пінги, надіслані з того часу до перезапуску програми, будуть позначені міткою
     <code>{ $debug-tag }</code>.)
 about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Відвідайте сторінку { glean-debug-ping-viewer-brand-name }, щоб побачити пінги з вашою міткою</a>.

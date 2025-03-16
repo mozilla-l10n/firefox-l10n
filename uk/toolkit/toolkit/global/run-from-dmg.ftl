@@ -22,7 +22,7 @@ install-failed-message = Не вдалося встановити { -brand-short
 ## installation of the app in the Applications directory if one is detected,
 ## rather than the app that was double-clicked in a .dmg.
 
-prompt-to-launch-existing-app-title = Відкрити наявний застосунок { -brand-short-name }?
-prompt-to-launch-existing-app-message = Ви вже встановили { -brand-short-name }. Скористаєтеся встановленим застосунком, щоб завжди мати найновішу версію та запобігти втраті даних.
+prompt-to-launch-existing-app-title = Відкрити наявну програму { -brand-short-name }?
+prompt-to-launch-existing-app-message = Ви вже встановили { -brand-short-name }. Скористаєтеся встановленою програмою, щоб завжди мати найновішу версію та запобігти втраті даних.
 prompt-to-launch-existing-app-yes-button = Відкрити наявний
 prompt-to-launch-existing-app-no-button = Ні, дякую

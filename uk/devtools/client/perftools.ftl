@@ -134,7 +134,7 @@ perftools-onboarding-close-button =
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = Веброзробник
-perftools-presets-web-developer-description = Рекомендовані попередні налаштування для налагодження більшості вебзастосунків. З низьким споживанням ресурсів.
+perftools-presets-web-developer-description = Рекомендовані налаштування для налагодження більшості вебпрограм. З низьким споживанням ресурсів.
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Рекомендовані налаштування для профілювання { -brand-shorter-name }.
 perftools-presets-graphics-label = Графіка
