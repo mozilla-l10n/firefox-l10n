@@ -271,6 +271,17 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Gerencie temas do { -brand-short-name } em <a data-l10n-name="themes-link">Extensões e temas</a>
+preferences-contrast-control-header = Controle de contraste
+preferences-contrast-control-description = Os sites têm uma ampla variedade de cores de primeiro plano e de fundo. Configure o { -brand-short-name } para usar as mesmas cores em todos os sites para melhorar a legibilidade.
+preferences-contrast-control-use-platform-settings =
+    .label = Automático (usar configuração do sistema)
+    .accesskey = A
+preferences-contrast-control-off =
+    .label = Desativado
+    .accesskey = D
+preferences-contrast-control-custom =
+    .label = Personalizado
+    .accesskey = P
 preferences-colors-header = Cores
 preferences-colors-description = Substituir as cores padrão do { -brand-short-name } de texto, fundo e links de sites.
 preferences-colors-manage-button =
@@ -1172,7 +1183,12 @@ addressbar-locbar-suggest-nonsponsored-option =
 addressbar-locbar-suggest-nonsponsored-desc = Receba sugestões da web relacionadas à sua pesquisa.
 addressbar-locbar-suggest-sponsored-option =
     .label = Sugestões de patrocinadores
+addressbar-locbar-suggest-sponsored-desc = Apoie o { -brand-short-name } com sugestões patrocinadas esporádicas.
 addressbar-quickactions-learn-more = Saiba mais
+addressbar-dismissed-suggestions-label = Sugestões descartadas
+addressbar-restore-dismissed-suggestions-description = Restaurar sugestões descartadas de patrocinadores e do { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button =
+    .label = Restaurar
 
 ## Privacy Section - Content Blocking
 
