@@ -7,7 +7,7 @@ webext-perms-learn-more = Conocer más
 #   $addonName (String): localized named of the extension that is asking to change the default search engine.
 #   $currentEngine (String): name of the current search engine.
 #   $newEngine (String): name of the new search engine.
-webext-default-search-description = { $addonName } quisiera cambiar su motor de búsqueda de { $currentEngine } a { $newEngine }. ¿Está de acuerdo?
+webext-default-search-description = { $addonName } quiere cambiar el buscador predeterminado de { $currentEngine } a { $newEngine }. ¿Es correcto?
 webext-default-search-yes =
     .label = Sí
     .accesskey = S

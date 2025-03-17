@@ -284,7 +284,7 @@ search-one-offs-context-set-as-default =
     .label = Configurar como buscador predeterminado
     .accesskey = D
 search-one-offs-context-set-as-default-private =
-    .label = Establecer como motor de búsqueda predeterminado para ventanas privadas
+    .label = Establecer como buscador predeterminado para ventanas privadas
     .accesskey = P
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
