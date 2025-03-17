@@ -190,6 +190,8 @@ shopping-survey-thanks =
 ## Shopping opted-out survey strings
 ## Opt-out survey options are displayed as checkboxes and the user can select one or many.
 
+shopping-survey-thanks-title = Takk for tilbakemeldinga di!
+shopping-survey-opted-out-hard-to-understand = Det er vanskeleg å forstå
 shopping-survey-opted-out-other = Anna
 
 ## Shopping Feature Callout strings.

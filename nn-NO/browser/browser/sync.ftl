@@ -41,6 +41,9 @@ sync-setup-verify-heading = Er du sikker på at du vil logge inn for å synkroni
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
+# Dialog 1 - different account signing in without option to merge
+sync-profile-different-account-title = Kontogrensa er nådd for denne profilen
+sync-profile-different-account-header = Denne profilen vart tidlegare synkronisert til ein annan konto
 # Dialog 1 - different account signing in with merge option
 sync-profile-different-account-title-merge = Profil synkronisert til ein annan konto
 # Dialog 2 - account signed in on another profile without option to merge
