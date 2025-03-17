@@ -80,6 +80,7 @@ vertical-tabs-callout-1-title = ຖືກຄອບຄຸມດ້ວຍແຖບ
 vertical-tabs-callout-1-cta-button = ລອງແຖບແນວຕັ້ງ
 vertical-tabs-callout-2-cta-button = ລອງດຽວນີ້
 vertical-tabs-callout-2-title = ເປີດຫຼາຍແຖບບໍ? ລອງແຖບແນວຕັ້ງ.
+vertical-tabs-callout-2-subtitle = ຮູບແບບນີ້ເຮັດໃຫ້ມັນງ່າຍທີ່ຈະສະແກນລາຍຊື່ແຖບຂອງທ່ານຢ່າງວ່ອງໄວ. ນອກຈາກນັ້ນ, ທ່ານສາມາດປັບຄວາມກວ້າງເພື່ອເບິ່ງຫຼາຍຫຼືຫນ້ອຍຂອງຫົວຂໍ້ແຖບຂອງທ່ານ.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
@@ -89,8 +90,10 @@ sidebar-pins-callout-cta-button = ປັກໝຸດແຖບ
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Sidebar: ຈຸດຂອງທ່ານສໍາລັບເຄື່ອງມື ແລະ ແຖບ
 sidebar-customization-callout-callout-button = ປັບແຕ່ງແຖບດ້ານຂ້າງ
 sidebar-customization-callout-dismiss-button = ເຊື່ອງແຖບດ້ານຂ້າງ
+sidebar-customization-callout-2-title = ສ້າງແຖບດ້ານຂ້າງ { -brand-product-name } ຂອງທ່ານເອງ
 
 ## Sidebar Callout Survey Strings
 
@@ -107,6 +110,7 @@ sidebar-callout-survey-strongly-agree = ຕົກລົງເຫັນດີ
 sidebar-callout-survey-agree = ເຫັນດີ
 sidebar-callout-survey-disagree = ບໍ່ເຫັນດີ
 sidebar-callout-survey-strongly-disagree = ຄັດຄ້ານຢ່າງແຮງ
+sidebar-callout-survey-features-question = ຕໍ່ໄປນີ້ແມ່ນຄຸນສົມບັດແຖບດ້ານຂ້າງທີ່ມີທ່າແຮງ. ອັນໃດທີ່ຈະປັບປຸງປະສິດທິພາບການຜະລິດຂອງທ່ານໃນ { -brand-short-name } ຫຼາຍທີ່ສຸດ?
 sidebar-callout-survey-split-view = ເບິ່ງສອງເວັບໄຊທ໌ໃນເວລາດຽວກັນ, ໃນມຸມເບິ່ງການເບິ່ງແບບຮຽງຂ້າງກັນ
 sidebar-callout-survey-keep-website-open = ຮັກສາເວັບໄຊທ໌ເຊັ່ນອີເມລ໌ຫຼື ປະຕິທິນ, ເປີດຢູ່ໃນແຖບດ້ານຂ້າງໃນຂະນະທີ່ທ່ານທ່ອງເວັບ
 sidebar-callout-survey-saved-websites-2 = ເຂົ້າເຖິງບຸກມາກຂອງທ່ານຢ່າງວ່ອງໄວ
