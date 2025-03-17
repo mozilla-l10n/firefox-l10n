@@ -13,6 +13,7 @@ neterror-captive-portal-page-title = Se connecter au réseau
 neterror-dns-not-found-title = Adresse introuvable
 neterror-malformed-uri-page-title = Adresse invalide
 general-body-title = Faites preuve de prudence, il semble y avoir un problème.
+problem-with-this-site-title = Il semble y avoir un problème sur ce site
 
 ## Error page actions
 
