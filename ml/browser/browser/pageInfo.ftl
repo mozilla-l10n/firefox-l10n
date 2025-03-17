@@ -106,7 +106,7 @@ security-view-privacy-viewpasswords =
 security-view-technical =
     .value = സാങ്കേതിക വിശദാംശങ്ങള്‍
 help-button =
-    .label = പിന്തുണ
+    .label = തുണ
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo

@@ -18,3 +18,4 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = Dùin gach taba dùblaichte
 all-tabs-menu-synced-tabs =
     .label = Tabaichean o uidheaman eile
+all-tabs-menu-current-window-header = An uinneag làithreach
