@@ -38,6 +38,7 @@ remove-search-engine-button = OK
 ## Variables
 ## $engineName (String) - the name of the search engine to install.
 
+install-search-engine = Leggje til { $engineName } som søkjemotor?
 install-search-engine-add = Legg til
 install-search-engine-no = Nei
 
@@ -49,6 +50,7 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = Legg til eigendefinert søkjemotor
 add-engine-name = Søkjemotornamn
+add-engine-keyword = Nøkkelord
 add-engine-url = Søkjemotor-adresse, bruk %s i staden for søkeordet
 add-engine-dialog =
     .buttonlabelaccept = Legg til søkjemotor

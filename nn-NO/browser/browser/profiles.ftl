@@ -36,10 +36,12 @@ edit-profile-page-avatar-header-2 =
 edit-profile-page-avatar-header = Avatar
 edit-profile-page-delete-button =
     .label = Slett
+edit-profile-page-no-name = Gi denne profilen eit namn for å hjelpe deg med å finne han seinare. Byt namn når som helst.
 edit-profile-page-duplicate-name = Profilnamnet er allereie i bruk.
 edit-profile-page-profile-saved = Lagra
 new-profile-page-title = Ny profil
 new-profile-page-header = Tilpass den nye profilen din
+new-profile-page-header-description = Kvar profil har sin eigen nettlesarhistorikk og innstillingar fråskilt frå dei andre profilane dine. I tillegg er { -brand-short-name } si sterke personvernsikring på som standard.
 new-profile-page-learn-more = Les meir
 new-profile-page-input-placeholder =
     .placeholder = Vel eit namn som «Arbeid» eller «Personleg»
@@ -57,11 +59,14 @@ delete-profile-page-title = Slett { $profilename }-profilen
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-header = Vil du slette { $profilename }-profilen?
+delete-profile-description = { -brand-short-name } vil permanent slette følgjande data frå denne eininga:
 # Open is an adjective, as in "browser windows currently open".
 delete-profile-windows = Opne vindauge
 # Open is an adjective, as in "browser tabs currently open".
 delete-profile-tabs = Opne faner
 delete-profile-bookmarks = Bokmerke
+delete-profile-history = Historikk (besøkte sider, infokapslar, nettstad-data)
+delete-profile-autofill = Autofylldata (adresser, betalingsmåtar)
 delete-profile-logins = Passord
 
 ##
@@ -77,6 +82,8 @@ delete-profile-confirm = Slett
 profiles-marigold-theme = Ringblomster
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-lavender-theme = Lavendel
+# This light theme features very pale green tones. Its name evokes the color of pale green lichen from the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-lichen-theme = Lav
 # This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-magnolia-theme = Magnolia
 # Ocean is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
