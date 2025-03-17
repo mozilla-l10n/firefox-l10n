@@ -12,5 +12,5 @@ add-engine-url = URL do mecanismo, use %s no lugar do termo de pesquisa
 add-engine-dialog =
     .buttonlabelaccept = Adicionar mecanismo
     .buttonaccesskeyaccept = A
-engine-name-exists = Já existe um mecanismo com esse nome
-engine-alias-exists = Já existe um mecanismo com esse apelido
+engine-name-exists = Já existe um mecanismo com este nome
+engine-alias-exists = Já existe um mecanismo com este apelido
