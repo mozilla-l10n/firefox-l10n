@@ -187,6 +187,15 @@ urlbar-result-menu-remove-from-history =
 urlbar-result-menu-tip-get-help =
     .label = Faigh cobhair
     .accesskey = F
+urlbar-result-menu-dismiss-suggestion =
+    .label = Leig seachad am moladh seo
+    .accesskey = L
+urlbar-result-menu-learn-more-about-firefox-suggest =
+    .label = Barrachd fiosrachaidh mu dhèidhinn { -firefox-suggest-brand-name }
+    .accesskey = B
+urlbar-result-menu-manage-firefox-suggest =
+    .label = Stiùirich { -firefox-suggest-brand-name }
+    .accesskey = S
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -682,6 +691,19 @@ urlbar-result-action-copy-to-clipboard = Dèan lethbhreac
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
+# The string returned for an undefined calculator result such as when dividing by 0
+urlbar-result-action-undefined-calculator-result = gun deifinisean
+# Shows the result of a formula expression being calculated, to a maximum of 9 significant
+# digits. The last = sign will be shown as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-2 = = { NUMBER($result, maximumSignificantDigits: 9) }
+# Shows the result of a formula expression being calculated, in scientific notation.
+# The last = sign will be shown as part of the result (e.g. "= 1.0e17").
+# Variables
+#  $result (String): the string representation for a result in scientific notation
+#  (e.g. "1.0e17").
+urlbar-result-action-calculator-result-scientific-notation = = { $result }
 
 ## Strings used for buttons in the urlbar
 
