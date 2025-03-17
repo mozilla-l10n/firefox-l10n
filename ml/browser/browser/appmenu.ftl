@@ -40,7 +40,7 @@ appmenuitem-zoom =
 appmenuitem-more-tools =
     .label = കൂടുതൽ കരുകൾ
 appmenuitem-help =
-    .label = സഹായം
+    .label = പിന്തുണ
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -216,7 +216,7 @@ appmenu-about =
     .label = { -brand-shorter-name } സംബന്ധിച്ചു്
     .accesskey = A
 appmenu-get-help =
-    .label = സഹായം തേടുക
+    .label = പിന്തുണ തേടുക
     .accesskey = h
 appmenu-help-more-troubleshooting-info =
     .label = കൂടുതൽ പ്രശ്നനിവാരണവിവരങ്ങൾ

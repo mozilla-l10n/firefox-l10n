@@ -36,7 +36,7 @@ menu-menuitem-preferences =
         [windows] ഓപ്ഷനുകൾ
        *[other] മുൻഗണകൾ
     }
-about-logins-menu-menuitem-help = സഹായം
+about-logins-menu-menuitem-help = പിന്തുണ
 
 ## Login List
 

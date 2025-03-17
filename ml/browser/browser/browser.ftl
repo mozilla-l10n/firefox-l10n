@@ -160,7 +160,7 @@ urlbar-persistent-storage-notification-anchor =
 urlbar-addons-notification-anchor =
     .tooltiptext = ആഡ് ഓൺ സ്ഥാപിക്കൽ ഫലകം തുറക്കുക
 urlbar-tip-help-icon =
-    .title = സഹായം തേടുക
+    .title = പിന്തുണ തേടുക
 urlbar-search-tips-confirm = ശരി, മനസ്സിലായി
 urlbar-search-tips-confirm-short = മനസ്സിലായി
 # Read out before Urlbar Tip text content so screenreader users know the
@@ -179,7 +179,7 @@ urlbar-result-menu-remove-from-history =
     .label = നാൾവഴി നിന്നു മാറ്റുക
     .accesskey = മ
 urlbar-result-menu-tip-get-help =
-    .label = സഹായം തേടുക
+    .label = പിന്തുണ തേടുക
     .accesskey = സ
 urlbar-result-menu-learn-more-about-firefox-suggest =
     .label = { -firefox-suggest-brand-name }-നെ പറ്റി കൂടുതലറിയുക

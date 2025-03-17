@@ -16,7 +16,7 @@ default-bookmarks-getting-started = തുടങ്ങാം
 # Firefox links folder name
 default-bookmarks-firefox-heading = മോസില്ലാ ഫയര്‍ഫോക്സ്
 # link title for https://www.mozilla.org/firefox/help/
-default-bookmarks-firefox-get-help = സഹായം തേടുക
+default-bookmarks-firefox-get-help = പിന്തുണ തേടുക
 # link title for https://www.mozilla.org/firefox/customize/
 default-bookmarks-firefox-customize = ഫയർഫോക്സിനെ കിളൎത്തുക
 # link title for https://www.mozilla.org/contribute/
