@@ -511,14 +511,43 @@ pdfjs-editor-undo-bar-close-button-label = Lat att
 
 ## Tab names
 
+# Type is a verb (you can type your name as signature)
+pdfjs-editor-add-signature-type-button = Type
+    .title = Type
+pdfjs-editor-add-signature-image-button = Bilde
+    .title = Bilde
 
 ## Tab panels
 
+pdfjs-editor-add-signature-type-input =
+    .aria-label = Skriv inn signaturen din
+    .placeholder = Skriv inn signaturen din
+pdfjs-editor-add-signature-draw-placeholder = Teikn signaturen din
 pdfjs-editor-add-signature-draw-thickness-range-label = Tjukn
+# Variables:
+#   $thickness (Number) - the thickness (in pixels) of the line used to draw a signature.
+pdfjs-editor-add-signature-draw-thickness-range =
+    .title = Linjetjukn: { $thickness }
+pdfjs-editor-add-signature-image-placeholder = Drag ei fil hit for å laste opp
+pdfjs-editor-add-signature-image-browse-link =
+    { PLATFORM() ->
+        [macos] Eller vel bildefiler
+       *[other] Eller vel bildefiler
+    }
 
 ## Controls
 
+pdfjs-editor-add-signature-description-label = Skildring (alternativ tekst)
+pdfjs-editor-add-signature-description-input =
+    .title = Skildring (alternativ tekst)
+pdfjs-editor-add-signature-description-default-when-drawing = Signatur
+pdfjs-editor-add-signature-clear-button-label = Fjern signatur
+pdfjs-editor-add-signature-clear-button =
+    .title = Fjern signatur
+pdfjs-editor-add-signature-save-checkbox = Lagre signatur
+pdfjs-editor-add-signature-save-warning-message = Du har nådd grensa på 5 lagra signaturar. Fjern ein for å lagre ein ny.
 pdfjs-editor-add-signature-image-upload-error-title = Klarte ikkje å oppdatere bilde
+pdfjs-editor-add-signature-image-upload-error-description = Sjekk nettverkstilkoplinga eller prøv eit annet bilde.
 pdfjs-editor-add-signature-error-close-button = Lat att
 
 ## Dialog buttons
@@ -529,6 +558,9 @@ pdfjs-editor-edit-signature-update-button = Oppdater
 
 ## Main menu for adding/removing signatures
 
+pdfjs-editor-delete-signature-button =
+    .title = Fjern signatur
+pdfjs-editor-delete-signature-button-label = Fjern signatur
 
 ## Editor toolbar
 
