@@ -25,3 +25,7 @@ experimental-features-group-webpage-display =
     .label = Affichage des pages web
 experimental-features-group-customize-browsing =
     .label = Personnalisez votre navigation
+# Contextual Password Manager in sidebar
+experimental-features-contextual-password-manager =
+    .label = Mots de passe dans le panneau latéral
+experimental-features-contextual-password-manager-description = Accédez à vos mots de passe directement depuis le panneau latéral. Plus besoin de chercher ou de réinitialiser vos mots de passe lorsque vous essayez de vous connecter à un site. Pour utiliser cette fonctionnalité, choisissez d’afficher les mots de passe dans le panneau latéral. Rendez-vous dans les paramètres, rubrique Général, et dans la section « Disposition du navigateur » sélectionnez « Afficher le panneau latéral ». Personnalisez ensuite votre panneau latéral en sélectionnant les mots de passe. Si vous l’essayez, <a data-l10n-name="connect">faites-nous savoir ce que vous en pensez</a>.

@@ -78,6 +78,7 @@ sidebar-button-callout-vertical-tabs = Pour afficher vos onglets, cliquez sur le
 ## Sidebar Vertical Tabs Strings
 
 vertical-tabs-callout-1-title = Vous êtes submergé·e par un trop grand nombre d’onglets ?
+vertical-tabs-callout-1-subtitle = Essayez notre nouvelle disposition verticale des onglets pour parcourir rapidement votre liste d’onglets. Les premières personnes qui l’ont testée ont trouvé qu’elle les aidait à se sentir mieux organisées. Changez de disposition à tout moment.
 vertical-tabs-callout-1-cta-button = Essayer les onglets verticaux
 vertical-tabs-callout-2-cta-button = Essayer
 vertical-tabs-callout-2-title = Vous gardez beaucoup d’onglets ouverts ? Essayez les onglets verticaux.
