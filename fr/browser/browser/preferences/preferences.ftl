@@ -271,6 +271,7 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Gérez les thèmes de { -brand-short-name } depuis la section <a data-l10n-name="themes-link">Extensions et thèmes</a>
+preferences-contrast-control-header = Contrôle du contraste
 preferences-contrast-control-use-platform-settings =
     .label = Automatique (utiliser les paramètres système)
     .accesskey = A
