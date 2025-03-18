@@ -283,6 +283,17 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [many] بهذا تحذف جلسات الولوج المحفوظة في { -brand-short-name } من كلّ الأجهزة المتزامنة مع { -fxaccount-brand-name } لديك. كما سيُزيل أيّ تحذيرات أخرى تظهر هنا عن تسريبات البيانات. لا يمكنك العودة عن هذا الإجراء.
        *[other] بهذا تحذف جلسات الولوج المحفوظة في { -brand-short-name } من كلّ الأجهزة المتزامنة مع { -fxaccount-brand-name } لديك. كما سيُزيل أيّ تحذيرات أخرى تظهر هنا عن تسريبات البيانات. لا يمكنك العودة عن هذا الإجراء.
     }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] نعم، أزل كلمة المرور
+        [zero] نعم، أزل كلمات المرور
+        [one] نعم، أزل كلمة المرور
+        [two] نعم، أزل كلمتي المرور
+        [few] نعم، أزل كلمات المرور
+        [many] نعم، أزل كلمات المرور
+       *[other] نعم، أزل كلمات المرور
+    }
 
 ##
 
