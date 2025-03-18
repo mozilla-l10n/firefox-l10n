@@ -405,7 +405,12 @@ feature-highlight-wallpaper =
 # or outer space as observed in astronomy.
 # Not to be confused with religious definition of the word.
 newtab-wallpaper-category-title-celestial = Kosmysk
+newtab-wallpaper-celestial-lunar-eclipse = Moannefertsjustering
+newtab-wallpaper-celestial-earth-night = Nachtfoto fan in lege baan om de ierde út
 newtab-wallpaper-celestial-starry-sky = Stjerrehimel
+newtab-wallpaper-celestial-eclipse-time-lapse = Time-lapse fan moannefertsjustering
+newtab-wallpaper-celestial-black-hole = Yllustraasje fan in swart-gatstjerrestelsel
+newtab-wallpaper-celestial-river = Satellytfoto fan rivier
 
 ## New Tab Weather
 
@@ -501,10 +506,17 @@ newtab-section-confirm-block-section-p1 = Binne jo wis dat jo dizze seksje blokk
 newtab-section-confirm-block-section-p2 = Blokkearre seksje sil net mear yn jo feed. ferskine
 newtab-section-block-section-button = Dizze seksje blokkearje
 newtab-section-cancel-button = No net
+newtab-section-confirm-block-topic-p1 = Binne jo wis dat jo dit ûnderwerp blokkearje wolle?
+newtab-section-confirm-block-topic-p2 = Blokkearre ûnderwerpen ferskine net mear yn jo feed.
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = { $topic } blokkearje
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Underwerpen
+newtab-section-manage-topics-button-v2 =
+    .label = Underwerpen beheare
 newtab-section-mangage-topics-followed-topics = Folge
 newtab-section-mangage-topics-button =
     .label = Folge en blokkearre ûnderwerpen

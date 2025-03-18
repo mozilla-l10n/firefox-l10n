@@ -446,6 +446,11 @@ onboarding-checklist-sign-up = Registrearje of oanmelde by jo account
 
 tab-groups-onboarding-feature-callout-title = Probearje ljepblêdgroepen foar minder rommel, mear fokus
 tab-groups-onboarding-feature-callout-subtitle = Wês organisearre troch it iene ljepblêd op it oar te slepen om jo earste groep te meitsjen.
+tab-groups-onboarding-create-group-title-2 = Fyn hjir altyd jo ljepblêdgroepen.
+tab-groups-onboarding-create-group-no-alltabs-button-title = Fyn jo groepen troch dernei te sykjen yn de adresbalke.
+tab-groups-onboarding-saved-groups-title-2 = Wannear’t jo in ljepblêdgroep slute, kinne jo dizze hjir altyd opnij iepenje.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Fyn jo sletten groepen troch dernei te sykjen yn de adresbalke.
+tab-groups-onboarding-session-restore-title = Iepenje hjir altyd jo ljepblêdgroepen.
 tab-groups-onboarding-saved-groups-title = As jo in ljepblêdgroep slute, kinne jo dizze hjir altyd opnij iepenje.
 tab-groups-onboarding-dismiss = OK
 
@@ -466,3 +471,5 @@ desktop-to-mobile-headline = Downloade, syngronisearje en gean!
 desktop-to-mobile-subtitle = Scan de QR-koade om { -brand-product-name } foar mobyl te downloaden. Selektearje nei ynstallaasje ‘Syngronisearje mei mobyl’ om ûnderweis tagong ta jo wachtwurden, blêdwizers en mear te krijen.
 dismiss-button-label = Slute
 sync-to-mobile-button-label = Syngronisearje mei mobyl
+desktop-to-mobile-qr-code-alt =
+    .aria-label = QR-koade om { -brand-product-name } foar mobyl te downloaden

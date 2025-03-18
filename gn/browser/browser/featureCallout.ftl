@@ -124,3 +124,11 @@ unified-search-callout-secondary-label = Mboyke
 unified-search-engines-callout-title = Eheka jeike pya’eha ndive
 unified-search-engines-callout-primary-label = Aikũmby
 actions-callout-title = Ejapopa tembiapokuéra térã eike ñemboheko ñepyrũguápe
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearhistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = Ehai mba’e ikatúva “monguatia” emonguatia hag̃ua kuatiarogue térã “mbogue” embogue hag̃ua tembiasakue.

@@ -149,6 +149,7 @@ preferences-data-migration-button =
     .label = Gegevens ymportearje
     .accesskey = m
 preferences-profiles-header = Profilen
+preferences-manage-profiles-description = Elk profyl hat aparte navigaasjejegegevens en -ynstellingen, wêrûnder skiednis, wachtwurden en mear.
 preferences-manage-profiles-learn-more = Mear ynfo
 preferences-manage-profiles-button =
     .label = Profilen beheare
@@ -270,6 +271,11 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Jo kinne { -brand-short-name }-tema’s beheare yn <a data-l10n-name="themes-link">Utwreidingen en tema’s</a>
+preferences-contrast-control-header = Kontrastregeling
+preferences-contrast-control-description = Websiden hawwe in ferskaat oan foargrûn- en eftergrûnkleuren. Konfigurearje { -brand-short-name } om op ferskate websites deselde kleuren te brûken foar ferbettere lêsberens.
+preferences-contrast-control-use-platform-settings =
+    .label = Automatysk (systeemynstellingen brûke)
+    .accesskey = A
 preferences-contrast-control-off =
     .label = Ut
     .accesskey = U
@@ -1134,6 +1140,8 @@ addressbar-header = Adresbalke
 addressbar-suggest = By gebrûk fan de adresbalke, suggestjes werjaan út
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Adresbalke – { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Kies it type suggestjes dat yn de adresbalke ferskynt.
 # When Firefox Suggest is enabled, a "Learn more" link appears at the end of
 # `addressbar-suggest-firefox-suggest`.
 addressbar-locbar-firefox-suggest-learn-more = Mear ynfo
@@ -1172,10 +1180,13 @@ addressbar-locbar-showtrendingsuggestions-option =
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Suggestjes fan { -brand-short-name }
+addressbar-locbar-suggest-nonsponsored-desc = Untfang suggestjes fan it web relatearre oan jo sykopdracht.
 addressbar-locbar-suggest-sponsored-option =
     .label = Suggestjes fan sponsors
+addressbar-locbar-suggest-sponsored-desc = Stypje { -brand-short-name } mei sa no en dan sponsore suggestjes.
 addressbar-quickactions-learn-more = Mear ynfo
 addressbar-dismissed-suggestions-label = Sletten suggestjes
+addressbar-restore-dismissed-suggestions-description = Sletten suggestjes fan sponsors en { -brand-short-name } opnij ynstelle.
 addressbar-restore-dismissed-suggestions-button =
     .label = Werom bringe
 

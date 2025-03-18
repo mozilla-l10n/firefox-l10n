@@ -421,6 +421,8 @@ onboarding-horizontal-tabs-description =
     .aria-description = Kundahára rovetã ohechaukáva tendayke yvate gotyo.
 # Additional setup card for setting up aichatbot in the sidebar
 onboarding-genai-sidebar-title = Eiporu peteĩ chatbot IA tenda yképe
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = Eiporavo hetaiterei me’ẽhára pa’ũgui. Emoambue ne ñanduti me’ẽhára ejaposete vovénte. <a data-l10n-name="learn-more">Eikuaave</a>
 onboarding-genai-sidebar-primary-button = Eiporavo chatbot
 onboarding-genai-sidebar-secondary-button = Eñepyrũ eikundaha
 
