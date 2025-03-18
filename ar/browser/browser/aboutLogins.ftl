@@ -176,6 +176,13 @@ about-logins-edit-login-os-auth-dialog-message-win = أدخِل معلومات �
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = تحرير جلسة الولوج المحفوظة
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] تغيير إعدادات كلمات السر
+       *[other] يحاول { -brand-short-name } تغيير إعدادات كلمات السر. استخدم الولوج لجهازك للسماح بذلك.
+    }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = لتحرير كلمة سرك، أدخل بيانات ولوجك بنظام ويندوز. يساعد هذا في حماية أمان حساباتك.
 # This message can be seen when attempting to edit a login in about:logins
