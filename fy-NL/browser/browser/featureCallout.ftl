@@ -77,15 +77,22 @@ sidebar-button-callout-vertical-tabs = Selektearje de sydbalkeknop yn de arkbalk
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = Oerweldige troch tefolle ljepblêden?
+vertical-tabs-callout-1-subtitle = Probearje ús nije fertikale ljepblêdyndieling om fluch jo list mei ljepblêden fluch te scannen. Iere testers melde dat dizze yndieling harren helpt om mear organisearre te fielen. Wikselje op elk winske momint.
 vertical-tabs-callout-1-cta-button = Fertikale ljepblêden probearje
 vertical-tabs-callout-2-cta-button = No probearje
+vertical-tabs-callout-2-title = In protte ljepblêden iepen hâlde? Probearje fertikale ljepblêden.
+vertical-tabs-callout-2-subtitle = Dizze yndieling makket it maklik om jo list mei ljeppers fluch te scannen. Plus, jo kinne de breedte oanpasse om mear of minder fan jo ljepblêdtitels te sjen.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = Ferlieze jo jo wichtige ljepblêden?
+sidebar-pins-callout-subtitle = Probearje se fêst te setten, sadat se boppe oan jo list mei ljepblêden bliuwe. Klik mei de rjochtermûsknop op in ljepblêd dat jo fêstsette wolle, kies dan Ljepblêd fêstsette.
 sidebar-pins-callout-cta-button = Ljepblêd fêstsette
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Sydbalke: jo plak foar ark en ljepblêden
 sidebar-customization-callout-callout-button = Sidebalke oanpasse
 sidebar-customization-callout-dismiss-button = Sidebalke ferstopje
 

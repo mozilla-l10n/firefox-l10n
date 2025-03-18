@@ -31,6 +31,13 @@ pending-crash-reports-send =
     .label = Ferstjoere
 pending-crash-reports-always-send =
     .label = Altyd ferstjoere
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+requested-crash-reports-message =
+    { $reportCount ->
+        [one] Jo hawwe { $reportCount } net-ferstjoerde ûngelokrapport dy’t oerienkomt mei ûngelokken dy’t ûndersocht wurde. As jo dit ferstjoere, helpe jo ús { -brand-product-name } te ferbetterjen. As jo dizze melding slute, wurdt dit rapport negearre.
+       *[other] Jo hawwe { $reportCount } net-ferstjoerde ûngelokrapporten dy’t oerienkomme mei ûngelokken dy’t ûndersocht wurde. As jo dizze ferstjoere, helpe jo ús { -brand-product-name } te ferbetterjen. As jo dizze melding slute, wurde dizze rapporten negearre.
+    }
 requested-crash-reports-dont-show-again =
     .label = Net mear toane
     .accesskey = N
