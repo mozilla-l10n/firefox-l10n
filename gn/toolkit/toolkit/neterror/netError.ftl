@@ -13,6 +13,7 @@ neterror-captive-portal-page-title = Eñepyrũ tembiapo ñandutípe
 neterror-dns-not-found-title = Mohendahavusu ndojejuhúiva
 neterror-malformed-uri-page-title = URL ndoikóiva
 general-body-title = Ema’ẽke. Oĩvaicha iporãmba’ỹva.
+problem-with-this-site-title = Ha’eténte ku oĩva apañuái ko tenda ndive
 
 ## Error page actions
 
