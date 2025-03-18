@@ -43,6 +43,7 @@ neterror-generic-error = { -brand-short-name } ndaikatúi omyanyhẽ ko kuatiaro
 neterror-load-error-try-again = Pe tenda ikatu hína ndojeporukuaái sapy’aitemi térã ojeporuetereihína. Eha’ãjey ag̃amieve.
 neterror-load-error-connection = Ndaikatúiramo emyanyhẽ mba’eveichagua kuatiarogue, ehechajey ijeikekatu nemohendaha ñanduti peguápe.
 neterror-load-error-firewall = Nemohendaha térã ñanduti omo’ã chupe tatakytĩha térã proxy, ehecháke { -brand-short-name } oguerekópa moneĩ oike hag̃ua ñandutípe.
+neterror-http-error-page = Ehechajey ehai porãpa ñanduti renda réra.
 neterror-captive-portal = Eñepyrũ tembiapo ko ñandutípe eike mboyve ambue ñandutípe.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
