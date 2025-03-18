@@ -590,3 +590,4 @@ pdfjs-editor-add-signature-edit-button-label = Beskriuwing bewurkje
 
 ## Edit signature description dialog
 
+pdfjs-editor-edit-signature-dialog-title = Beskriuwing bewurkje

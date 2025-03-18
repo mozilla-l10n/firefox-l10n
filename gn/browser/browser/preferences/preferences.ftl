@@ -1368,11 +1368,13 @@ collection-health-report-link = Kuaave
 collection-health-report-description = Kóva ñanepytyvõta oiko porãve, ha’eve ha hekopyta hag̃ua { -brand-product-name }.
 collection-studies2 =
     .label = Emohenda ha emongu’e mba’ekuaarã
+collection-studies-description = Eiporu tembiapoite ha temimo’ã opavavete oiporukuaa mboyve.
 collection-studies =
     .label = Emoneĩ { -brand-short-name } omohenda ha omongu’e hag̃ua kuaarã
 collection-studies-link = Ehecha kuaarã { -brand-short-name } mba’éva
 addon-recommendations2 =
     .label = Emoneĩ jepysokue mboherapyre ñemoñe’ẽ
+addon-recommendations-description = Erekokuaa jepysokuégui ñe’ẽporã oiko porãve hag̃ua ne kundahára.
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled2 = Pe mba’ekuaarã ñemondo oñemboguéma ko ñemboheko guasúpe g̃uarã.
