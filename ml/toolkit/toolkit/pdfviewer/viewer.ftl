@@ -370,9 +370,31 @@ pdfjs-editor-new-alt-text-create-automatically-button-label = തന്നെത
 pdfjs-editor-new-alt-text-not-now-button = ഇപ്പോഴല്ല
 pdfjs-editor-new-alt-text-error-title = തന്നെതാനെ മറുയെഴുത്തു് ഉണ്ടാക്കാൻ പറ്റിയില്ല
 pdfjs-editor-new-alt-text-error-close-button = അടയ്ക്കുക
+# This is a button that users can click to edit the alt text they have already added.
+pdfjs-editor-new-alt-text-added-button =
+    .aria-label = മറുയെഴുത്തു് ചേൎത്തു
+pdfjs-editor-new-alt-text-added-button-label = മറുയെഴുത്തു് ചേൎത്തു
+# This is a button that users can click to open the alt text editor and add alt text when it is not present.
+pdfjs-editor-new-alt-text-missing-button =
+    .aria-label = മറുയെഴുത്തു് കാണാന്നില്ല
+pdfjs-editor-new-alt-text-missing-button-label = മറുയെഴുത്തു് കാണാന്നില്ല
+# This is a button that opens up the alt text modal where users should review the alt text that was automatically generated.
+pdfjs-editor-new-alt-text-to-review-button =
+    .aria-label = മറുയെഴുത്തു് അവലോകിക്കുക
+pdfjs-editor-new-alt-text-to-review-button-label = മറുയെഴുത്തു് അവലോകിക്കുക
+# "Created automatically" is a prefix that will be added to the beginning of any alt text that has been automatically generated. After the colon, the user will see/hear the actual alt text description. If the alt text has been edited by a human, this prefix will not appear.
+# Variables:
+#   $generatedAltText (String) - the generated alt-text.
+pdfjs-editor-new-alt-text-generated-alt-text-with-disclaimer = തന്നെതാനെ ഉണ്ടാക്കി : { $generatedAltText }
 
 ## Image alt-text settings
 
+pdfjs-image-alt-text-settings-button =
+    .title = ചിത്ര മറുയെഴുത്തു് ക്രമീകരണങ്ങൾ
+pdfjs-image-alt-text-settings-button-label = ചിത്ര മറുയെഴുത്തു് ക്രമീകരണങ്ങൾ
+pdfjs-editor-alt-text-settings-dialog-label = ചിത്ര മറുയെഴുത്തു് ക്രമീകരണങ്ങൾ
+pdfjs-editor-alt-text-settings-automatic-title = യാന്ത്രിക മറുയെഴുത്തു്
+pdfjs-editor-alt-text-settings-create-model-button-label = തന്നെതാനെ മറുയെഴുത്തു് ഉണ്ടാക്കുക
 pdfjs-editor-alt-text-settings-delete-model-button = മായ്ക്കുക
 pdfjs-editor-alt-text-settings-download-model-button = ഇറക്കിവയ്ക്കുക
 pdfjs-editor-alt-text-settings-downloading-model-button = ഇറക്കിവയ്ക്കുന്നു
@@ -380,6 +402,7 @@ pdfjs-editor-alt-text-settings-close-button = അടയ്ക്കുക
 
 ## "Annotations removed" bar
 
+pdfjs-editor-undo-bar-message-highlight = അടയാളം മാറ്റി
 pdfjs-editor-undo-bar-message-freetext = എഴുത്തു് മാറ്റി
 pdfjs-editor-undo-bar-message-ink = ആലേഖ്യം മാറ്റി
 pdfjs-editor-undo-bar-message-stamp = ചിത്രം മാറ്റി
