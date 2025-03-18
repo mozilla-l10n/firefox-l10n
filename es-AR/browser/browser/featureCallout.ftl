@@ -96,6 +96,7 @@ sidebar-customization-callout-1-title = Barra lateral: el lugar para herramienta
 sidebar-customization-callout-1-subtitle = La barra lateral de { -brand-product-name } brinda acceso rápido al historial de navegación, pestañas de otros dispositivos y un chatbot de IA, todo sin salir de la vista principal.
 sidebar-customization-callout-callout-button = Personalizar barra lateral
 sidebar-customization-callout-dismiss-button = Ocultar barra lateral
+sidebar-customization-callout-2-title = Haga que la barra lateral de { -brand-product-name } sea suya
 sidebar-customization-callout-2-subtitle = Agregue y elimine herramientas. Coloque las pestañas en la barra lateral. Pruebe un chatbot de IA. Cómo personalizar la barra lateral depende de usted.
 
 ## Sidebar Callout Survey Strings

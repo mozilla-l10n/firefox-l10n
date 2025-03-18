@@ -250,7 +250,7 @@ urlbar-star-edit-bookmark =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
-    .tooltiptext = Marcar esta página ({ $shortcut })
+    .tooltiptext = Agregar esta página a marcadores ({ $shortcut })
 
 ## Page Action Context Menu
 
