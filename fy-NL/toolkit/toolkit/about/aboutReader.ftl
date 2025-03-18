@@ -129,3 +129,5 @@ about-reader-text-alignment-center =
     .title = Tekst sintrearre rjochtsje
 about-reader-text-alignment-right =
     .title = Tekst rjochts rjochtsje
+about-reader-text-alignment-justify =
+    .title = Tekst útlynje

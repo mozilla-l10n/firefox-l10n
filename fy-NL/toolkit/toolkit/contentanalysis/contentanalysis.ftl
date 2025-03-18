@@ -58,6 +58,10 @@ contentanalysis-error-message-upload-file = Oplaad fan ‘{ $filename }’ weger
 contentanalysis-error-message-dropped-text = Slepe en delsette wegere.
 contentanalysis-error-message-clipboard = Plakke wegere.
 contentanalysis-error-message-print = Ofdrukken wegere.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
+contentanalysis-timeout-block-error-message-content = De ferbining mei { $agent } is ferrûn. { $contentName } is blokkearre.
 contentanalysis-block-dialog-title-upload-file = Jo meie dit bestân net oplade
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"

@@ -45,6 +45,7 @@ about-logging-preset-media-playback-description = Logboekmodulen om problemen me
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Logboekmodulen om WebRTC-oanroppen te diagnostisearjen
 about-logging-preset-webcodecs-label = WebCodecs
+about-logging-preset-webcodecs-description = Logboekmodulen om problemen mei WebCodecs-audio-/fideodecoders en -encoders, en ôfbyldingsdecoders te diagnostisearjen
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Logboekmodulen om WebGPU te diagnostisearjen
 about-logging-preset-gfx-label = Grafysk

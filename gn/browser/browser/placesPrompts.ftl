@@ -16,3 +16,4 @@ places-bookmarks-restore-parse-error = Ndaikatúi oñemba’apo ñongatuguypyre 
 places-bookmarks-import = Techaukaha marandurenda jegueru
 places-bookmarks-export = Techaukaha marandurenda rerahauka
 places-bookmarks-paste-error-title = Ojejuhu URL oiko’ỹva
+places-bookmarks-paste-error-message-header = Ndaikatúi embojuaju ko’ã URL nde rechaukaha rehe. Ehecha jey ijysaja ha embojuaju pyahu jey ko’ag̃aite.

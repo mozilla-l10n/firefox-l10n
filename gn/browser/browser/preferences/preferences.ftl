@@ -1184,6 +1184,7 @@ addressbar-locbar-suggest-sponsored-option =
 addressbar-locbar-suggest-sponsored-desc = Eykeko { -brand-short-name } ñemoñe’ẽ jehepyme’ẽrã sapy’apy’agua.
 addressbar-quickactions-learn-more = Kuaave
 addressbar-dismissed-suggestions-label = Ñemoñe’ẽ mboykepyre
+addressbar-restore-dismissed-suggestions-description = Eguerujey ñe’ẽporã omboykémava jeykekohára ha { -brand-short-name }.
 addressbar-restore-dismissed-suggestions-button =
     .label = Mbojevy
 

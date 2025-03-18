@@ -25,3 +25,7 @@ experimental-features-group-webpage-display =
     .label = Websitewerjefte
 experimental-features-group-customize-browsing =
     .label = Pas jo browser oan
+# Contextual Password Manager in sidebar
+experimental-features-contextual-password-manager =
+    .label = Wachtwurden yn de sydbalke
+experimental-features-contextual-password-manager-description = Benaderje jo wachtwurden streekrjocht fan de sydbalke út. Nea mear sykje of wachtwurden opnij ynstelle wannear’t jo jo probearje oan te melden. Selektearje ‘Wachtwurden yn de sydbalke’ om dizze funksje te brûken. Gean dernei nei jo algemiene ynstellingen en selektearje ûnder Browseryndieling de opsje ‘Sydbalke toane’. Pas dêrnei jo sydbalke oan troch ‘Wachtwurden’ te selektearjen. As jo it probearje, <a data-l10n-name="connect">lit dan witte wat jo derfan fine</a>.
