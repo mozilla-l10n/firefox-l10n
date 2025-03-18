@@ -149,3 +149,6 @@ genai-onboarding-huggingchat-switch = Scegli tra un’ampia gamma di modelli ape
 genai-onboarding-huggingchat-price-2 = Gratuito, account obbligatorio dopo un certo numero di richieste
 genai-onboarding-lechat-generate = Generazione di testo e codice
 genai-onboarding-lechat-price = Gratuito, account obbligatorio
+
+## Model Optin Component
+
