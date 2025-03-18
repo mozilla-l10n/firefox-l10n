@@ -138,6 +138,9 @@ pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $hei
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = വിരവോള ഗോളാന്തരക്കാഴ്ച :
 pdfjs-document-properties-linearized-yes = അതെ
 pdfjs-document-properties-linearized-no = ഇല്ല
 pdfjs-document-properties-close-button = അടയ്ക്കുക
@@ -170,6 +173,7 @@ pdfjs-thumbs-button-label = തംബ്നെയിലുകള്‍
 pdfjs-findbar-button =
     .title = രേഖയില്‍ കണ്ടുപിടിയ്ക്കുക
 pdfjs-findbar-button-label = കണ്ടെത്തുക
+pdfjs-additional-layers = കൂടാത്ത പാളികൾ
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -337,6 +341,13 @@ pdfjs-editor-alt-text-button =
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
 
+pdfjs-editor-resizer-label-top-left = ഇടതു മീത്ത മുക്ക് — വലുപ്പം മാറ്റുക
+pdfjs-editor-resizer-label-top-middle = നടുവിൽ മീത്ത മുക്ക് - വലുപ്പം മാറ്റുക
+pdfjs-editor-resizer-label-top-right = വലതു മീത്ത മുക്ക് — വലുപ്പം മാറ്റുക
+pdfjs-editor-resizer-label-middle-right = വലതു നടുവിലുള്ള മുക്ക് — വലുപ്പം മാറ്റുക
+pdfjs-editor-resizer-label-bottom-right = വലതു കീഴിലുള്ള മുക്ക് — വലുപ്പം മാറ്റുക
+pdfjs-editor-resizer-label-bottom-middle = നടുവെ കീഴിലുള്ള മുക്ക് — വലുപ്പം മാറ്റുക
+pdfjs-editor-resizer-label-bottom-left = ഇടതു കീഴിലുള്ള മുക്ക് — വലുപ്പം മാറ്റുക
 
 ## Color picker
 
