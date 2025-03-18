@@ -123,8 +123,10 @@ genai-onboarding-select-primary = Begynn å chatte
 
 genai-onboarding-claude-generate = Lag tekst og kode
 genai-onboarding-claude-analyze = Analyser dokument og bilde
+genai-onboarding-claude-price = Gratis og betalte alternativ; konto påkravd
 genai-onboarding-chatgpt-generate = Generer tekst, bilde og kode
 genai-onboarding-chatgpt-analyze = Analyser dokument og bilde
+genai-onboarding-chatgpt-price = Gratis og betalte alternativ; konto påkravd for enkelte land og oppgåver
 genai-onboarding-copilot-generate = Generer tekst, bilde og kode
 genai-onboarding-copilot-analyze = Analyser bilde
 genai-onboarding-copilot-price = Gratis og betalte alternativ; konto er påkravd for enkelte oppgåver
