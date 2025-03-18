@@ -283,6 +283,9 @@ pdfjs-highlight-floating-button1 =
     .title = അടയാളപ്പെടുക
     .aria-label = അടയാളപ്പെടുക
 pdfjs-highlight-floating-button-label = അടയാളപ്പെടുക
+pdfjs-editor-signature-button =
+    .title = പുതിയ ഒപ്പു് ചേൎക്കുക
+pdfjs-editor-signature-button-label = പുതിയ ഒപ്പു് ചേൎക്കുക
 
 ## Remove button for the various kind of editor.
 
@@ -310,6 +313,9 @@ pdfjs-editor-stamp-add-image-button =
 pdfjs-editor-stamp-add-image-button-label = ചിത്രം ചേർക്കുക
 # This refers to the thickness of the line used for free highlighting (not bound to text)
 pdfjs-editor-free-highlight-thickness-input = കനം
+pdfjs-editor-signature-add-signature-button =
+    .title = പുതിയ ഒപ്പു് ചേൎക്കുക
+pdfjs-editor-signature-add-signature-button-label = പുതിയ ഒപ്പു് ചേൎക്കുക
 pdfjs-free-text-default-content = എഴുതാൻ തുടങ്ങുക…
 pdfjs-ink-canvas =
     .aria-label = ഉപയോക്താവ് ഉണ്ടാക്കിയ ചിത്രം
@@ -378,6 +384,13 @@ pdfjs-editor-undo-bar-message-freetext = എഴുത്തു് മാറ്�
 pdfjs-editor-undo-bar-message-ink = ആലേഖ്യം മാറ്റി
 pdfjs-editor-undo-bar-message-stamp = ചിത്രം മാറ്റി
 pdfjs-editor-undo-bar-message-signature = ഒപ്പു് മാറ്റി
+# Variables:
+#   $count (Number) - the number of removed annotations.
+pdfjs-editor-undo-bar-message-multiple =
+    { $count ->
+        [one] { $count } കുറിപ്പെഴുതലുകൾ മാറ്റി
+       *[other] { $count } കുറിപ്പെഴുതലുകൾ മാറ്റി
+    }
 pdfjs-editor-undo-bar-undo-button =
     .title = പഴയപോലെയാക്കുക
 pdfjs-editor-undo-bar-undo-button-label = പഴയപോലെയാക്കുക
@@ -437,12 +450,18 @@ pdfjs-editor-add-signature-error-close-button = അടയ്ക്കുക
 
 pdfjs-editor-add-signature-cancel-button = റദ്ദാക്കുക
 pdfjs-editor-add-signature-add-button = ചേൎക്കുക
+pdfjs-editor-edit-signature-update-button = പുതുക്കുക
 
 ## Main menu for adding/removing signatures
 
+pdfjs-editor-delete-signature-button =
+    .title = ഒപ്പു് മാറ്റുക
+pdfjs-editor-delete-signature-button-label = ഒപ്പു് മാറ്റുക
 
 ## Editor toolbar
 
+pdfjs-editor-add-signature-edit-button-label = വിവരണം തിരുത്തുക
 
 ## Edit signature description dialog
 
+pdfjs-editor-edit-signature-dialog-title = വിവരണം തിരുത്തുക
