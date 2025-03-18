@@ -83,15 +83,15 @@ account-multiple-tabs-arriving-title = وصل لسان
 account-multiple-tabs-arriving-from-single-device =
     { $tabCount ->
         [one] وصل لسان من { $deviceName }
-        [two] وصل لسانين من { $deviceName }
+        [two] وصل لسانان من { $deviceName }
         [few] وصلت { $tabCount } ألسنة من { $deviceName }
         [many] وصل { $tabCount } لسانًا من { $deviceName }
-       *[other] وصل { $tabCount } لسان من { $deviceName }
+       *[other] وصل { $tabCount } لسانًا من { $deviceName }
     }
 account-multiple-tabs-arriving-from-multiple-devices =
     { $tabCount ->
         [one] وصل لسان من أجهزتك المتصلة
-        [two] وصل لسانين من أجهزتك المتصلة
+        [two] وصل لسانان من أجهزتك المتصلة
         [few] وصلت { $tabCount } ألسنة من أجهزتك المتصلة
         [many] وصل { $tabCount } لسانًا من أجهزتك المتصلة
        *[other] وصل { $tabCount } لسان من أجهزتك المتصلة
@@ -100,7 +100,7 @@ account-multiple-tabs-arriving-from-multiple-devices =
 account-multiple-tabs-arriving-from-unknown-device =
     { $tabCount ->
         [one] وصل لسان
-        [two] وصل لسانين
+        [two] وصل لسانان
         [few] وصلت { $tabCount } ألسنة
         [many] وصل { $tabCount } لسانًا
        *[other] وصل { $tabCount } لسان

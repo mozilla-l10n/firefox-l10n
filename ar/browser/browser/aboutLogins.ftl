@@ -294,6 +294,16 @@ about-logins-confirm-remove-all-dialog-checkbox-label2 =
         [many] نعم، أزل كلمات المرور
        *[other] نعم، أزل كلمات المرور
     }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [zero] أتريد إزالة { $count } كلمة مرور؟
+        [one] أتريد إزالة كلمة المرور؟
+        [two] أتريد إزالة كلمتي المرور؟
+        [few] أتريد إزالة { $count } كلمات مرور؟
+        [many] أتريد إزالة { $count } كلمة مرور؟
+       *[other] أتريد إزالة { $count } كلمة مرور؟
+    }
 
 ##
 
@@ -449,6 +459,7 @@ about-logins-import-report-row-description-modified = حُدّثت جلسة ال
 about-logins-import-report-row-description-added = أُضيفت جلسة ولوج جديدة
 about-logins-import-report-row-description-no-change2 = متكرّر: مطابقة تامة للولوج الحالي
 about-logins-import-report-row-description-modified2 = حُدّثت الولوج الموجودة
+about-logins-import-report-row-description-added2 = أضيفت كلمة مرور جديدة
 about-logins-import-report-row-description-error = خطأ: حقل مفقود
 
 ##
