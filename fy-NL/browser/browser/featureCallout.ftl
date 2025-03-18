@@ -93,8 +93,11 @@ sidebar-pins-callout-cta-button = Ljepblêd fêstsette
 ## Sidebar Onboarding Strings
 
 sidebar-customization-callout-1-title = Sydbalke: jo plak foar ark en ljepblêden
+sidebar-customization-callout-1-subtitle = De  { -brand-product-name }-sydbalke jout jo rappe tagong ta jo navigaasjeskiednis, ljepblêden fan oare apparaten, en in AI-chatbot – alles sûnder jo haadfinster te ferlitten.
 sidebar-customization-callout-callout-button = Sidebalke oanpasse
 sidebar-customization-callout-dismiss-button = Sidebalke ferstopje
+sidebar-customization-callout-2-title = De { -brand-product-name }-sydbalke fan josels meitsje
+sidebar-customization-callout-2-subtitle = Foegje ark ta en smyt se fuort. Pleats jo ljepblêden yn de sydbalke. Probearje in AI-chatbot. Hoe jo jo sydbalke oanpasse, is oan jo.
 
 ## Sidebar Callout Survey Strings
 

@@ -317,6 +317,10 @@ newtab-wallpaper-title = Eftergrûnen
 newtab-wallpaper-reset = Standertwearden
 newtab-wallpaper-upload-image = In ôfbylding oplade
 newtab-wallpaper-custom-color = Kies in kleur
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = De ôfbylding giet oer de limyt fan { $file_size } MB. Probearje in lytser bestân op te laden.
+newtab-wallpaper-error-file-type = Wy koene jo bestân net oplade. Probearje it nochris mei in oar bestânstype.
 newtab-wallpaper-light-red-panda = Reade panda
 newtab-wallpaper-light-mountain = Wite berch
 newtab-wallpaper-light-sky = Himel mei pearze en rôze wolken
@@ -360,6 +364,10 @@ newtab-wallpaper-abstract-purple = Pearze foarmen
 newtab-wallpaper-abstract-orange = Oranje foarmen
 newtab-wallpaper-gradient-orange = Ferrin oranje en rôze
 newtab-wallpaper-abstract-blue-purple = Blauwe en pearze foarmen
+newtab-wallpaper-abstract-white-curves = Wyt mei arsearre rûningen
+newtab-wallpaper-abstract-purple-green = Pears en griene ljochtgradiïnt
+newtab-wallpaper-abstract-blue-purple-waves = Blauwe en pearze golvjende foarmen
+newtab-wallpaper-abstract-black-waves = Swarte golvjende foarmen
 
 ## Celestial
 
@@ -370,6 +378,12 @@ newtab-wallpaper-storm-sky = Tongerloft
 newtab-wallpaper-sky-with-pink-clouds = Loft mei rôze wolken
 newtab-wallpaper-red-panda-yawns-in-a-tree = Reade panda gappet yn in beam
 newtab-wallpaper-white-mountains = Wite bergen
+newtab-wallpaper-hot-air-balloons = Hjitteluchtballonnen in ferskate kleuren oerdeis
+newtab-wallpaper-starry-canyon = Blauwe stjerrenacht
+newtab-wallpaper-suspension-bridge = Foto’s fan in folsleine hingbrêge oerdeis
+newtab-wallpaper-sand-dunes = Wite sândunen
+newtab-wallpaper-palm-trees = Silhûet fan kokospalms wylst gouden oere
+newtab-wallpaper-forest-trees = Beammen bedekt mei mist
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
