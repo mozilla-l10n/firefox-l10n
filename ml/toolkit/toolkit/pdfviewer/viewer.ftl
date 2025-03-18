@@ -340,6 +340,8 @@ pdfjs-editor-alt-text-button =
 
 ## Color picker
 
+# This means "Color used to highlight text"
+pdfjs-editor-highlight-colorpicker-label = അടയാളന്നിറം
 pdfjs-editor-colorpicker-button =
     .title = നിറം മാറ്റുക
 pdfjs-editor-colorpicker-dropdown =
@@ -365,6 +367,12 @@ pdfjs-editor-highlight-show-all-button =
 ## New alt-text dialog
 ## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
 
+# Modal header positioned above a text box where users can edit the alt text.
+pdfjs-editor-new-alt-text-dialog-edit-label = മറുയെഴുത്തു് തിരുത്തുക (ചിത്ര വിവരണം)
+# Modal header positioned above a text box where users can add the alt text.
+pdfjs-editor-new-alt-text-dialog-add-label = മറുയെഴുത്തു് ചേൎക്കുക (ചിത്ര വിവരണം)
+pdfjs-editor-new-alt-text-textarea =
+    .placeholder = താങ്ങളുടെ വിവരണം ഇവിടെ എഴുതുക...
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = കൂടുതല്‍ അറിയുക
 pdfjs-editor-new-alt-text-create-automatically-button-label = തന്നെതാനെ മറുയെഴുത്തു് ഉണ്ടാക്കുക
 pdfjs-editor-new-alt-text-not-now-button = ഇപ്പോഴല്ല
