@@ -84,11 +84,13 @@ vertical-tabs-callout-2-title = Har du mange faner opne? Prøv vertikale faner.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-subtitle = Prøv å feste dei, så held dei seg på toppen av lista. Høgreklikk på ei fane du vil feste, og vel Fest fane.
 sidebar-pins-callout-cta-button = Fest fane
 
 ## Sidebar Onboarding Strings
 
 sidebar-customization-callout-1-title = Sidestolpe: staden din for verktøy og faner
+sidebar-customization-callout-1-subtitle = { -brand-product-name }-sidestolpen gir deg rask tilgang til nettlesarhistorikken din, faner frå andre einingar samt ein AI-chatbot — utan å forlate hovudvisinga.
 sidebar-customization-callout-callout-button = Tilpass sidestolpe
 sidebar-customization-callout-dismiss-button = Skjul sidestolpe
 sidebar-customization-callout-2-title = Gjer { -brand-product-name }-sidestolpen til din eigen
