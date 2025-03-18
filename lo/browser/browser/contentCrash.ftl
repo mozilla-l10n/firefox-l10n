@@ -27,3 +27,6 @@ pending-crash-reports-send =
     .label = ສົ່ງ
 pending-crash-reports-always-send =
     .label = ສົ່ງສະເຫມີ
+requested-crash-reports-dont-show-again =
+    .label = ຢ່າສະແດງອີກ
+    .accesskey = D
