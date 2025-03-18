@@ -13,3 +13,6 @@
 # $row (integer) - The row index
 # $column (integer) - The column index
 grid-row-column-positions = വരി { $row } / നിര { $column }
+# Text displayed in a button inside the "simple-highlighters-message" toolbox
+# notification. "Settings" here refers to the DevTools settings panel.
+simple-highlighters-settings-button = ക്രമീകരണങ്ങൾ തുറക്കുക

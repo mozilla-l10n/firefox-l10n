@@ -519,6 +519,8 @@ containers-header = കണ്ടൈനര്‍ ടാബുകള്‍
 containers-add-button =
     .label = പുതിയ കണ്ടെയ്നര്‍ ചേര്‍ക്കുക
     .accesskey = A
+containers-settings-button =
+    .label = ക്രമീകരണങ്ങള്‍
 containers-remove-button =
     .label = നീക്കുക
 
@@ -526,6 +528,7 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = നിങ്ങളുടെ വെബിനെ നിങ്ങളുടെ കൂടെ കൊണ്ട് പോവുക
+sync-signedout-description2 = താങ്ങളുടെ അടയാളക്കുറിപ്പുകളും നാള്‍വഴിയും ടാബുകളും രഹസ്യവാക്കുകളും ആഡോണുകളും ക്രമീകരണങ്ങളും താങ്ങളുടെ എല്ല ഉപകരണങ്ങൾ സമന്വയിപ്പിക്കുക.
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -938,6 +941,9 @@ certs-view =
 certs-devices =
     .label = സുരക്ഷാ ഉപകരണങ്ങള്‍…
     .accesskey = D
+space-alert-over-5gb-settings-button =
+    .label = ക്രമീകരണങ്ങൾ തുറക്കുക
+    .accesskey = ത
 
 ## Privacy Section - HTTPS-Only
 

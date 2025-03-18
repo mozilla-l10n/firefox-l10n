@@ -18,6 +18,11 @@ graph-total-tracker-summary =
         [one] { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } മുതൽ <b>{ $count }</b> പിന്തുടൎച്ചായന്ത്രങ്ങളെ തടഞ്ഞു
        *[other] { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } മുതൽ <b>{ $count }</b> പിന്തുടൎച്ചായന്ത്രങ്ങളെ തടഞ്ഞു
     }
+# Weekly summary of the graph when the graph is empty in Private Mode
+graph-week-summary-private-window = ഈ ആഴ്ചയിൽ { -brand-short-name } പിന്തുടൎച്ചായന്ത്രങ്ങളെ തടഞ്ഞു
+etp-card-title-always = മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണം: എപ്പോഴും തുടങ്ങിവച്ചിരിക്കുന്നു
+etp-card-title-custom-not-blocking = മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണം: അണച്ചിരിക്കുന്നു
+protection-report-manage-protections = ക്രമീകരണങ്ങൾ കൈകാര്യം ചെയ്യുക
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = ഇന്നു്
@@ -32,6 +37,15 @@ protection-report-passwords-save-passwords-button = രഹസ്യവാക്�
     .title = രഹസ്യവാക്കുകൾ കരുതിവയ്ക്കുക
 protection-report-passwords-manage-passwords-button = രഹസ്യവാക്കുകളുടെ കൈകാര്യം ചെയ്യുക
     .title = രഹസ്യവാക്കുകളുടെ കൈകാര്യം ചെയ്യുക
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] 1 രഹസ്യവാക്കു് സുരക്ഷിതമായി കരുതിവച്ചിരിക്കുന്നു
+       *[other] താങ്ങളുടെ രഹസ്യവാക്കുകൾ സുരക്ഷിതമായി കരുതിവച്ചിട്ടുണ്ടു്
+    }
 lockwise-how-it-works-link = ഇതു് എങ്ങനെ നടക്കുന്നു
 monitor-link = ഇതു് എങ്ങനെ നടക്കുന്നു
 auto-scan = ഇന്നു് തന്നെതാനെ നോക്കി

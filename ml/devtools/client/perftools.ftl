@@ -10,6 +10,7 @@
 
 ## All of the headings for the various sections.
 
+perftools-heading-settings = എല്ലാ ക്രമീകരണങ്ങളും
 
 ##
 
@@ -19,6 +20,7 @@
 
 ##
 
+perftools-devtools-settings-label = ക്രമീകരണങ്ങള്‍
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
@@ -28,6 +30,8 @@
 
 ##
 
+perftools-button-save-settings = ക്രമീകരണങ്ങൾ കരുതിവച്ചിട്ടു് തിരിച്ചു് ചെല്ലുക
+perftools-button-edit-settings = ക്രമീകരണങ്ങൾ തിരുത്തുക…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 

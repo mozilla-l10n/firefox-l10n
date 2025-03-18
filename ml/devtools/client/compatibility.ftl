@@ -11,9 +11,15 @@
 
 ## Messages used as labels and titles for buttons in the footer
 
+compatibility-settings-button-label = ക്രമീകരണങ്ങള്‍
+compatibility-settings-button-title =
+    .title = ക്രമീകരണങ്ങള്‍
 
 ## Messages used as headers in settings pane
 
+compatibility-settings-header = ക്രമീകരണങ്ങള്‍
 
 ##
 
+compatibility-close-settings-button =
+    .title = ക്രമീകരണങ്ങൾ അടയ്ക്കുക
