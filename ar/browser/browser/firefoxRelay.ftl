@@ -24,6 +24,14 @@ firefox-relay-opt-in-title-1 = احمِ عنوان بريدك الإلكترون
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = استخدم قناع بريد { -relay-brand-name }
 firefox-relay-use-mask-title = استخدم قناع بريد { -relay-brand-name }
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
+firefox-relay-opt-in-title-a = منع البريد العشوائي باستخدام قناع البريد الإلكتروني المجاني
+# This is preceded by firefox-relay-opt-in-title-a (on a different line)
+firefox-relay-opt-in-subtitle-a = أخفِ بريدك الإلكتروني الحقيقي
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
+firefox-relay-opt-in-title-b = احصل على قناع بريد إلكتروني مجاني
+# This is preceded by firefox-relay-opt-in-title-b (on a different line)
+firefox-relay-opt-in-subtitle-b = إحمِ صندوق بريدك الإلكتروني من الرسائل العشوائية
 firefox-relay-opt-in-confirmation-postpone =
     .label = ليس الآن
     .accesskey = ن
@@ -39,12 +47,20 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 
 ## The "control" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-second-sentence-control = أولا، قم بالتسجيل أو الولوج لحسابك لاستخدام قناع البريد الإلكتروني
 
 ## The "basic-info" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-basic-info = منع البريد العشوائي باستخدام قناع البريد الإلكتروني المجاني
+firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = أولا، قم بالتسجيل أو الولوج لحسابك لاستخدام قناع البريد الإلكتروني
 
 ## The "with-domain" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain = احصل على قناع بريد إلكتروني مجاني
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = أولا، قم بالتسجيل أو الولوج لحسابك لاستخدام قناع البريد الإلكتروني
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = الحماية من البريد العشوائي باستخدام قناع البريد الإلكتروني
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = احمِ نفسك من الرسائل غير المرغوب فيها بإخفاء عنوانك الحقيقي باستخدام <label data-l10n-name="firefox-relay-learn-more-url">قناع البريد الإلكتروني</label>. ستستمر في تلقي رسائل من <label data-l10n-name="firefox-fxa-and-relay-offer-domain">هذا الموقع</label> في بريدك الوارد، مع إخفاء عنوانك.
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = أولا، قم بالتسجيل أو الولوج لحسابك لاستخدام قناع البريد الإلكتروني
