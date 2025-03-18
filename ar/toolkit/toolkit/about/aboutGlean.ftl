@@ -10,6 +10,11 @@
 glean-sdk-brand-name = { -glean-brand-name } SDK
 about-glean-page-title2 = حول { -glean-brand-name }
 about-glean-header = حول { -glean-brand-name }
+about-glean-category-about-glean = حول { -glean-brand-name }
+about-glean-category-manual-testing = الاختبار اليدوي
+about-glean-category-adhoc-testing = الاختبار المخصص
+about-glean-category-profiler = استخدام الـProfiler
+about-glean-category-about-data = حول البيانات
 about-glean-upload-enabled = رفع البيانات مفعّل.
 about-glean-upload-disabled = رفع البيانات معطّل.
 about-glean-upload-enabled-local = رفع البيانات مفعّل فقط للإرسال إلى خادم محلي.
