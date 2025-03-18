@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profile-window-heading = Eiporavo poruhára mba’ete { -brand-short-name }
+profile-window-body = Eipe’a ojuehegui ne ñeikundaha mba’apoha ha mba’eteéva rehegua, oĩháme ñe’ẽñemi ha techaukaha. Térã, emoheñói mba’ete opaite poruhára ko mba’e’okapegua.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Eiporavo mba’ete ijurujávo { -brand-short-name }

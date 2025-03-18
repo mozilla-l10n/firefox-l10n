@@ -58,6 +58,10 @@ contentanalysis-error-message-upload-file = “{ $filename }” myanyhẽ noñem
 contentanalysis-error-message-dropped-text = Embosyryry ha epoi mbotovepyre
 contentanalysis-error-message-clipboard = Emboja mbotovepyre
 contentanalysis-error-message-print = Monguatia mbotovepyre.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
+contentanalysis-timeout-block-error-message-content = Opaitéma aravo jeike { $agent } ndivegua. { $contentName } ojejokóma.
 contentanalysis-block-dialog-title-upload-file = Noñemoneĩri ndéve ehupikuaa hag̃uáicha
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
