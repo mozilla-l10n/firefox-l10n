@@ -120,8 +120,8 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (ditutup
 ##  $codecs - a list of media codecs
 
 about-webrtc-short-send-receive-direction = Kirim / Terima: { $codecs }
-about-webrtc-short-send-direction = Kirim: { $codec }
-about-webrtc-short-receive-direction = Terima: { $codec }
+about-webrtc-short-send-direction = Kirim: { $codecs }
+about-webrtc-short-receive-direction = Terima: { $codecs }
 
 ##
 
