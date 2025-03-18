@@ -25,3 +25,6 @@ experimental-features-group-webpage-display =
     .label = Vising av nettside
 experimental-features-group-customize-browsing =
     .label = Tilpass nettlesinga di
+# Contextual Password Manager in sidebar
+experimental-features-contextual-password-manager =
+    .label = Passord i sidestolpen
