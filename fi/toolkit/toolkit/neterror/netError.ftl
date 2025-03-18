@@ -12,6 +12,8 @@ neterror-blocked-by-policy-page-title = Estetty sivu
 neterror-captive-portal-page-title = Kirjaudu verkkoon
 neterror-dns-not-found-title = Palvelinta ei löytynyt
 neterror-malformed-uri-page-title = Virheellinen osoite
+general-body-title = Ole varovainen. Jokin ei vaikuta olevan oikein.
+problem-with-this-site-title = Vaikuttaa siltä, että tällä sivustolla on ongelma
 
 ## Error page actions
 

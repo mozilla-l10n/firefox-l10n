@@ -25,3 +25,7 @@ experimental-features-group-webpage-display =
     .label = Verkkosivun näyttö
 experimental-features-group-customize-browsing =
     .label = Mukauta selaamistasi
+# Contextual Password Manager in sidebar
+experimental-features-contextual-password-manager =
+    .label = Salasanat sivupalkissa
+experimental-features-contextual-password-manager-description = Käytä salasanojasi suoraan sivupalkista. Sinun ei tarvitse enää etsiä tai nollata salasanoja yrittäessäsi kirjautua sisään. Voit käyttää tätä ominaisuutta valitsemalla salasanat sivupalkista. Siirry sitten yleisiin asetuksiin ja valitse selaimen asettelusta Näytä sivupalkki. Mukauta sitten sivupalkkia valitsemalla salasanat. Jos kokeilet sitä, <a data-l10n-name="connect">kerro meille mielipiteesi</a>.
