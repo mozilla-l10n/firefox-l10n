@@ -5,6 +5,13 @@
 
 ## Strings used in the status bar of the DevTools Network Panel
 
+# Tooltip for the performance button in the status bar
+network-menu-summary-tooltip-perf =
+    .title = પ્રદર્શન વિશ્લેષણ શરૂ કરો
+network-menu-summary-tooltip-domcontentloaded =
+    .title = સમય જ્યારે “DOMContentLoaded” ઇવેન્ટ આવી
+network-menu-summary-tooltip-load =
+    .title = સમય જ્યારે “લોડ” ઘટના આવી
 network-menu-summary-tooltip-requests-count =
     .title = વિનંતીઓની સંખ્યા
 # This label is displayed in the network table footer providing the
