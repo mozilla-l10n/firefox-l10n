@@ -12,6 +12,17 @@ network-menu-summary-tooltip-domcontentloaded =
     .title = Durată după care a avut loc evenimentul „DOMContentLoaded”
 network-menu-summary-tooltip-load =
     .title = Durată după care a avut loc evenimentul „load”
+# This label is displayed in the network table footer providing the
+# number of requests
+# Variables:
+#   $requestCount (Number): The total number of requests.
+network-menu-summary-requests-count =
+    { $requestCount ->
+        [0] Nicio cerere
+        [one] O cerere
+        [few] { $requestCount } cereri
+       *[other] { $requestCount } de cereri
+    }
 network-menu-summary-tooltip-requests-count =
     .title = Număr de cereri
 # This label is displayed in the network table footer providing the
