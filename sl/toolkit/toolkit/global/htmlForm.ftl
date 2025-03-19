@@ -15,3 +15,8 @@ input-file-and-more-files =
        *[other] in še { $fileCount }
     }
 form-post-secure-to-insecure-warning-title = Varnostno opozorilo
+form-post-secure-to-insecure-warning-message =
+    Podatki, ki ste jih vnesli na to stran, bodo poslani preko nezaščitene povezave, zato bodo izpostavljeni tretjim osebam.
+    
+    Ste prepričani, da želite poslati te podatke?
+form-post-secure-to-insecure-warning-continue = Nadaljuj
