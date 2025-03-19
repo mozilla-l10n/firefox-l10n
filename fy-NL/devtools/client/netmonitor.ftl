@@ -22,3 +22,20 @@ network-menu-summary-requests-count =
         [one] Ien oanfraach
        *[other] { $requestCount } oanfragen
     }
+network-menu-summary-tooltip-requests-count =
+    .title = Oantal oanfragen
+# This label is displayed in the network table footer providing the
+# transferred size.
+# Variables:
+#   $formattedContentSize (String): The formatted content size.
+#   $formattedTransferredSize (String): The formatted transferred size.
+network-menu-summary-transferred = { $formattedContentSize } / { $formattedTransferredSize } oerbrocht
+network-menu-summary-tooltip-transferred =
+    .title = Grutte/oerdroegen grutte fan alle oanfragen
+# This label is displayed in the network table footer providing the
+# transfer time.
+# Variables:
+#   $formattedTime (String): The formatted transfer time.
+network-menu-summary-finish = Foltôgje: { $formattedTime }
+network-menu-summary-tooltip-finish =
+    .title = Totaal nedige tiid foar it laden fan alle oanfragen
