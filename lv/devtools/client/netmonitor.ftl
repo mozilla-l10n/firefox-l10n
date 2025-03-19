@@ -23,3 +23,20 @@ network-menu-summary-requests-count =
         [one] { $requestCount } pieprasījums
        *[other] { $requestCount } pieprasījumi
     }
+network-menu-summary-tooltip-requests-count =
+    .title = Pieprasījumu skaits
+# This label is displayed in the network table footer providing the
+# transferred size.
+# Variables:
+#   $formattedContentSize (String): The formatted content size.
+#   $formattedTransferredSize (String): The formatted transferred size.
+network-menu-summary-transferred = { $formattedContentSize } / { $formattedTransferredSize } pārsūtīts
+network-menu-summary-tooltip-transferred =
+    .title = Izmērs /pārsūtītā izmērs visiem pieprasījumiem
+# This label is displayed in the network table footer providing the
+# transfer time.
+# Variables:
+#   $formattedTime (String): The formatted transfer time.
+network-menu-summary-finish = Pabeigts: { $formattedTime }
+network-menu-summary-tooltip-finish =
+    .title = Kopējais laiks visu pieprasījumu ielādei
