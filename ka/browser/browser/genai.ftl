@@ -160,3 +160,9 @@ genai-onboarding-lechat-price = უფასო; საჭიროებს ა
 
 ## Model Optin Component
 
+genai-model-optin-continue =
+    .label = განაგრძეთ
+genai-model-optin-optout =
+    .label = გაუქმება
+genai-model-optin-cancel =
+    .label = გაუქმება

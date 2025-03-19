@@ -322,6 +322,16 @@ pdfjs-editor-signature-button-label = ხელმოწერის დამ�
 
 ## Default editor aria labels
 
+# “Highlight” is a noun, the string is used on the editor for highlights.
+pdfjs-editor-highlight-editor =
+    .aria-label = მონიშვნის ჩასწორება
+# “Drawing” is a noun, the string is used on the editor for drawings.
+pdfjs-editor-ink-editor =
+    .aria-label = ნახაზის ჩასწორება
+pdfjs-editor-signature-editor =
+    .aria-label = ხელმოწერის ჩასწორება
+pdfjs-editor-stamp-editor =
+    .aria-label = სურათის ჩასწორება
 
 ## Remove button for the various kind of editor.
 

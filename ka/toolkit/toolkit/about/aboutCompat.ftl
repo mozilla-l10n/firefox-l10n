@@ -11,6 +11,7 @@ label-more-information = ვრცლად: ხარვეზი { $bug }
 label-overrides = მომხმარებლის პროგრამის ჩანაცვლება
 text-disabled-in-about-config = ეს შესაძლებლობა გათიშულია about:config-იდან
 text-no-interventions = ჩარევები არ გამოიყენება
+text-page-title = ვებმასალებთან თავსებადობა
 text-no-overrides = მომხმარებლის პროგრამის ჩანაცვლება არ გამოიყენება
 text-title = about:compat
 
