@@ -23,3 +23,20 @@ network-menu-summary-requests-count =
         [few] { $requestCount } požadavky
        *[other] { $requestCount } požadavků
     }
+network-menu-summary-tooltip-requests-count =
+    .title = Počet požadavků
+# This label is displayed in the network table footer providing the
+# transferred size.
+# Variables:
+#   $formattedContentSize (String): The formatted content size.
+#   $formattedTransferredSize (String): The formatted transferred size.
+network-menu-summary-transferred = Přeneseno: { $formattedTransferredSize } / { $formattedContentSize }
+network-menu-summary-tooltip-transferred =
+    .title = Přenesená/celková velikost všech požadavků
+# This label is displayed in the network table footer providing the
+# transfer time.
+# Variables:
+#   $formattedTime (String): The formatted transfer time.
+network-menu-summary-finish = Hotovo za { $formattedTime }
+network-menu-summary-tooltip-finish =
+    .title = Celkový čas potřebný pro načtení všech požadavků
