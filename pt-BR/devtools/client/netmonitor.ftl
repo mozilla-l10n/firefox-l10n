@@ -5,6 +5,13 @@
 
 ## Strings used in the status bar of the DevTools Network Panel
 
+# Tooltip for the performance button in the status bar
+network-menu-summary-tooltip-perf =
+    .title = Iniciar análise de desempenho
+network-menu-summary-tooltip-domcontentloaded =
+    .title = Momento em que ocorreu o evento “DOMContentLoaded”
+network-menu-summary-tooltip-load =
+    .title = Momento em que ocorreu o evento “load”
 network-menu-summary-tooltip-requests-count =
     .title = Número de requisições
 # This label is displayed in the network table footer providing the
