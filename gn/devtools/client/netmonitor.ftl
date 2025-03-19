@@ -12,6 +12,16 @@ network-menu-summary-tooltip-domcontentloaded =
     .title = Aravo oikohague tembiaporã “DOMContentLoaded”
 network-menu-summary-tooltip-load =
     .title = Aravo oikohague tembiaporã “load”
+# This label is displayed in the network table footer providing the
+# number of requests
+# Variables:
+#   $requestCount (Number): The total number of requests.
+network-menu-summary-requests-count =
+    { $requestCount ->
+        [0] Noñemba’ejeruréi
+        [one] Jerurepy
+       *[other] { $requestCount } jerurepy
+    }
 network-menu-summary-tooltip-requests-count =
     .title = Mba’ejerure ipapapýva
 # This label is displayed in the network table footer providing the
