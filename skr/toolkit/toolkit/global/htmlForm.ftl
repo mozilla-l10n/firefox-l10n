@@ -12,3 +12,9 @@ input-file-and-more-files =
         [one] تے ہک ٻیا
        *[other] تے { $fileCount } ودھیک
     }
+form-post-secure-to-insecure-warning-title = سیکورٹی دی چتاوݨی
+form-post-secure-to-insecure-warning-message =
+    تساں ایں ورقے تے جیڑھیاں معلومات درج کیتیاں ہن او ہک غیر محفوظ کنکشن تے بھیڄی ویسے تے اونکوں کوئی تریجھا فریق پڑھ سڳدا ہے۔
+    
+    کیا تساں واقعی ایہ معلومات بھیڄݨ چاہندے او؟
+form-post-secure-to-insecure-warning-continue = جاری
