@@ -15,3 +15,4 @@ input-file-and-more-files =
         [many] ha { $fileCount } ouzhpenn
        *[other] ha { $fileCount } ouzhpenn
     }
+form-post-secure-to-insecure-warning-title = Kemenn diogelroez
