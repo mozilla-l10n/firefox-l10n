@@ -12,3 +12,5 @@ input-file-and-more-files =
         [one] və bir dənə daha
        *[other] və { $fileCount } dənə daha
     }
+form-post-secure-to-insecure-warning-title = Təhlükəsizlik Xəbərdarlığı
+form-post-secure-to-insecure-warning-continue = Davam et
