@@ -60,6 +60,9 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Déployer le panneau latéral au survol
+expand-on-hover-message =
+    .heading = Le déploiement au survol arrive bientôt
+    .message = Dans une prochaine mise à jour, vous pourrez déployer le panneau latéral au survol.
 
 ## Labels for sidebar context menu items
 

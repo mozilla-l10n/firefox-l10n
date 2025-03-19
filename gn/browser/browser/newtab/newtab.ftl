@@ -387,6 +387,7 @@ newtab-wallpaper-starry-canyon = Pyhare mbyjaita hovývareve
 newtab-wallpaper-suspension-bridge = Jehasaha osãingóva ra’ãnga isa’y tanimbúva arakuépe
 newtab-wallpaper-sand-dunes = Yvyku’i morotĩ atýra
 newtab-wallpaper-palm-trees = Jata’i ra’ãnga aravo itajúva aja
+newtab-wallpaper-blue-flowers = Yvoty hovy ra’ãnga ag̃uietégui ipotyjeráva
 newtab-wallpaper-forest-trees = Yvyramáta ojaho’íva arai
 # Variables
 #   $author_string (String) - The name of the creator of the photo.

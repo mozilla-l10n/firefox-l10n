@@ -322,6 +322,11 @@ pdfjs-editor-signature-button-label = Embojuaju teraguapy
 
 ## Default editor aria labels
 
+# “Highlight” is a noun, the string is used on the editor for highlights.
+pdfjs-editor-highlight-editor =
+    .aria-label = Jehechaukarã mbosako’iha
+pdfjs-editor-stamp-editor =
+    .aria-label = Ta’ãnga mbosako’iha
 
 ## Remove button for the various kind of editor.
 
