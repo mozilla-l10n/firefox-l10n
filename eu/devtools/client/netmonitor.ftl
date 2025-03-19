@@ -12,6 +12,16 @@ network-menu-summary-tooltip-domcontentloaded =
     .title = "DOMContentLoaded" gertaera gertatu zeneko denbora
 network-menu-summary-tooltip-load =
     .title = "load" gertaera gertatu zeneko denbora
+# This label is displayed in the network table footer providing the
+# number of requests
+# Variables:
+#   $requestCount (Number): The total number of requests.
+network-menu-summary-requests-count =
+    { $requestCount ->
+        [0] Eskaerarik ez
+        [one] Eskaera bat
+       *[other] { $requestCount } eskaera
+    }
 network-menu-summary-tooltip-requests-count =
     .title = Eskaera kopurua
 # This label is displayed in the network table footer providing the
