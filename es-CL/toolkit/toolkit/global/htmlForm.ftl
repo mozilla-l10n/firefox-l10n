@@ -12,3 +12,4 @@ input-file-and-more-files =
         [one] y uno más
        *[other] y { $fileCount } más
     }
+form-post-secure-to-insecure-warning-title = Advertencia de seguridad
