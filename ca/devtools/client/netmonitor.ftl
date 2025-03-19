@@ -8,5 +8,15 @@
 # Tooltip for the performance button in the status bar
 network-menu-summary-tooltip-perf =
     .title = Inicia l'anàlisi de rendiment
+# This label is displayed in the network table footer providing the
+# number of requests
+# Variables:
+#   $requestCount (Number): The total number of requests.
+network-menu-summary-requests-count =
+    { $requestCount ->
+        [0] No hi ha sol·licituds
+        [one] Una sol·licitud
+       *[other] { $requestCount } sol·licituds
+    }
 network-menu-summary-tooltip-requests-count =
     .title = Nombre de sol·licituds
