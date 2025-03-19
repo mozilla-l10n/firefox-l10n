@@ -4,10 +4,13 @@
 
 label-disable = השבתה
 label-enable = הפעלה
+label-interventions = התערבויות
 # Variables:
 #   $bug (string) - Bug number
 label-more-information = מידע נוסף: תקלה { $bug }
 text-disabled-in-about-config = תכונה זו הושבתה ב־about:config
+text-no-interventions = לא נעשה שימוש בהתערבויות
+text-page-title = תאימות רשת
 text-title = about:compat
 
 ## Do not translate "SmartBlock". For reference, SmartBlock is a feature

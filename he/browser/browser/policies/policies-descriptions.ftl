@@ -137,3 +137,5 @@ policy-UserMessaging = לא להציג למשתמש הודעות מסוימות.
 policy-UseSystemPrintDialog = הדפסה באמצעות תיבת הדו־שיח להדפסה של המערכת.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = חסימת ביקור באתרים. יש לעיין בתיעוד לקבלת פרטים נוספים על התבנית.
+# Entra is the name of a Microsoft product.
+policy-MicrosoftEntraSSO = לאפשר SSO עבור חשבונות Microsoft Entra.
