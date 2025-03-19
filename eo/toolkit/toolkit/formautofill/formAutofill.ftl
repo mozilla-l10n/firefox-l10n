@@ -81,3 +81,6 @@ autofill-category-name = nomo
 autofill-category-organization = organizo
 autofill-category-tel = telefono
 autofill-category-email = retpoŝto
+# This string is used in drop down suggestion when users try to autofill credit
+# card on an insecure website (without https).
+autofill-insecure-field-warning-description = { -brand-short-name } malkovris nesekuran retejon. La aŭtomata plenigo de formularoj estas provizore malaktiva
