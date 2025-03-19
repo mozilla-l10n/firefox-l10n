@@ -81,3 +81,6 @@ autofill-category-name = പേരു്
 autofill-category-organization = സ്ഥാപനം
 autofill-category-tel = ഫോണ്‍
 autofill-category-email = ഇ-തപാൽ
+# This string is used in drop down suggestion when users try to autofill credit
+# card on an insecure website (without https).
+autofill-insecure-field-warning-description = { -brand-short-name } ഒരു സുരക്ഷിതമല്ലാത്ത സൈറ്റിനെ കണ്ടെത്തി. ഫോം ഓട്ടോഫിൽ താൽക്കാലികമായി അപ്രാപ്തമാക്കി.
