@@ -12,4 +12,9 @@ input-file-and-more-files =
         [one] ఇంకా మరొకటి
        *[other] ఇంకా మరో { $fileCount }
     }
+form-post-secure-to-insecure-warning-title = భద్రతా హెచ్చరిక
+form-post-secure-to-insecure-warning-message =
+    మీరు ప్రవేశపెట్టిన సమాచారం అన్ఎన్క్రిప్టెడ్ అనుసంధానం ద్వారా పంపబడుతుంది మరియు సులువుగా మూడోపార్టీచేత చదవబడుతుంది.
+    
+    మీరు ఖచ్చితంగా ఈ సమాచారాన్ని పంపుదామనుకుంటున్నారా?
 form-post-secure-to-insecure-warning-continue = కొనసాగించు
