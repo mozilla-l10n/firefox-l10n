@@ -36,3 +36,10 @@ network-menu-summary-tooltip-requests-count =
 network-menu-summary-transferred = نُقلت { $formattedContentSize } / ‏{ $formattedTransferredSize }
 network-menu-summary-tooltip-transferred =
     .title = حجم جميع الطلبات أو حجم المنقول منها
+# This label is displayed in the network table footer providing the
+# transfer time.
+# Variables:
+#   $formattedTime (String): The formatted transfer time.
+network-menu-summary-finish = النهاية: { $formattedTime }
+network-menu-summary-tooltip-finish =
+    .title = مجمل الوقت اللازم لتحميل جميع الطلبات
