@@ -5,6 +5,13 @@
 
 ## Strings used in the status bar of the DevTools Network Panel
 
+# Tooltip for the performance button in the status bar
+network-menu-summary-tooltip-perf =
+    .title = Simulan ang performance analysis
+network-menu-summary-tooltip-domcontentloaded =
+    .title = Oras noong nangyari ang “DOMContentLoaded” event
+network-menu-summary-tooltip-load =
+    .title = Oras noong nangyari ang “load” event
 network-menu-summary-tooltip-requests-count =
     .title = Bilang ng mga request
 # This label is displayed in the network table footer providing the
