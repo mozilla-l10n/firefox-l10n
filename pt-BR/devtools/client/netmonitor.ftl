@@ -12,6 +12,16 @@ network-menu-summary-tooltip-domcontentloaded =
     .title = Momento em que ocorreu o evento “DOMContentLoaded”
 network-menu-summary-tooltip-load =
     .title = Momento em que ocorreu o evento “load”
+# This label is displayed in the network table footer providing the
+# number of requests
+# Variables:
+#   $requestCount (Number): The total number of requests.
+network-menu-summary-requests-count =
+    { $requestCount ->
+        [0] Nenhuma requisição
+        [one] { $requestCount } requisição
+       *[other] { $requestCount } requisições
+    }
 network-menu-summary-tooltip-requests-count =
     .title = Número de requisições
 # This label is displayed in the network table footer providing the
