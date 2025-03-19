@@ -12,3 +12,4 @@ input-file-and-more-files =
         [one] და კიდევ ერთი
        *[other] და კიდევ { $fileCount }
     }
+form-post-secure-to-insecure-warning-title = უსაფრთხოების შეტყობინებები
