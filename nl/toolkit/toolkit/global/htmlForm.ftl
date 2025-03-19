@@ -12,3 +12,4 @@ input-file-and-more-files =
         [one] en nog één
        *[other] en nog { $fileCount }
     }
+form-post-secure-to-insecure-warning-continue = Doorgaan
