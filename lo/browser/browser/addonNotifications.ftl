@@ -52,6 +52,11 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) ຖືກບລັອກໂດຍຜູ້ເບິ່ງແຍງລະບົບຂອງທ່ານ.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = ຜູ້ເບິ່ງແຍງລະບົບຂອງທ່ານໄດ້ປ້ອງກັນບໍ່ໃຫ້ເວັບໄຊທ໌ນີ້ຂໍໃຫ້ທ່ານຕິດຕັ້ງຊອບແວໃນຄອມພິວເຕີຂອງທ່ານ.
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = { $addonName } ({ $addonId }) ຖືກບລັອກໂດຍອົງກອນຂອງທ່ານ.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-install-domain-blocked-by-policy = ອົງການຂອງທ່ານໄດ້ປ້ອງກັນບໍ່ໃຫ້ເວັບໄຊນີ້ຂໍໃຫ້ທ່ານຕິດຕັ້ງຊອບແວໃນຄອມພິວເຕີຂອງທ່ານ.
 addon-install-full-screen-blocked = ການຕິດຕັ້ງແອດອອນແມ່ນບໍ່ອະນຸຍາດໃຫ້ໃຊ້ໃນຂະນະທີ່ຢູ່ໃນ ຫຼືກ່ອນທີ່ຈະເຂົ້າສູ່ໂໝດເຕັມຈໍ.
@@ -61,6 +66,10 @@ webext-perms-sideload-menu-item = ເພີ່ມ { $addonName } ລົງໃນ
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } ຕ້ອງການການອະນຸຍາດໃຫມ່
+# This message is shown when one or more extensions have been imported from a
+# different browser into Firefox, and the user needs to complete the import to
+# start these extensions. This message is shown in the appmenu.
+webext-imported-addons = ສຳເລັດການຕິດຕັ້ງສ່ວນຂະຫຍາຍທີ່ນຳເຂົ້າໃສ່ { -brand-short-name }
 
 ## Add-on removal warning
 
@@ -109,6 +118,7 @@ addon-local-install-error-not-signed = ໂປຣແກຣມເສີມນີ�
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } ບໍ່ສາມາດຕິດຕັ້ງໄດ້ເພາະວ່າມັນບໍ່ສາມາດເຂົ້າກັນໄດ້ກັບ { -brand-short-name } { $appVersion }.
+addon-install-error-hard-blocked = { $addonName } ລະເມີດນະໂຍບາຍຂອງ Mozilla ແລະ ບໍ່ສາມາດຕິດຕັ້ງໄດ້ໃນ { -brand-short-name }.
 addon-install-error-blocklisted = { $addonName } ບໍ່ສາມາດຕິດຕັ້ງໄດ້ເພາະວ່າມັນມີຜົນກະທົບສູງຕໍ່ຄວາມສະຖຽນ ແລະ ບັນຫາຄວາມປອດໄພ.
 addon-install-error-soft-blocked = { $addonName } ລະເມີດນະໂຍບາຍຂອງ Mozilla ແລະ ບໍ່ສາມາດຕິດຕັ້ງໄດ້ໃນ { -brand-short-name }.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.

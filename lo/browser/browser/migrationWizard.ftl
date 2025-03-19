@@ -68,6 +68,7 @@ migration-bookmarks-option-label = ບຸກມາກ
 migration-favorites-option-label = ລາຍການທີ່ມັກ
 migration-logins-and-passwords-option-label = ບັນທຶກການເຂົ້າສູ່ລະບົບ ແລະລະຫັດຜ່ານ
 migration-history-option-label = ປະຫວັດການທ່ອງເວັບ
+migration-extensions-option-label = ສ່ວນຂະຫຍາຍ
 migration-form-autofill-option-label = ຕື່ມຂໍ້ມູນໃສ່ແບບຟອມອັດຕະໂນມັດ
 migration-payment-methods-option-label = ວິທີການຈ່າຍເງິນ
 migration-cookies-option-label = ຄຸກກີ້

@@ -253,6 +253,8 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = ເຄື່ອງມືຂອງຕົວທ່ອງເວັບ
 appmenu-developer-tools-extensions =
     .label = ສ່ວນຂະຫຍາຍສໍາລັບນັກພັດທະນາ
+appmenuitem-report-broken-site =
+    .label = ລາຍງານເວັບໄຊທີ່ມີບັນຫາ
 
 ## Panel for privacy and security products
 

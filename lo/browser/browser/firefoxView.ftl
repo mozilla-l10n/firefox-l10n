@@ -242,6 +242,7 @@ firefoxview-import-history-description = ເຮັດໃຫ້ { -brand-short-na
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
 firefoxview-recentlyclosed-empty-header = ປິດແຖບໄວເກີນໄປບໍ?
+firefoxview-recentlyclosed-empty-description = ທີ່ນີ້ທ່ານຈະພົບເຫັນແຖບທີ່ທ່ານໄດ້ປິດໄປເມື່ອບໍ່ດົນມານີ້, ດັ່ງນັ້ນທ່ານສາມາດເປີດອັນໃດອັນໜຶ່ງຄືນໃໝ່ໄດ້ຢ່າງວ່ອງໄວ.
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 

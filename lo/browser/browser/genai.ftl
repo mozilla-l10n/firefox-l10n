@@ -15,6 +15,19 @@
 
 ## Chatbot menu shortcuts
 
+# $provider (string) - name of the provider
+genai-menu-ask-provider =
+    .label = ຖາມ { $provider }
+genai-menu-remove-generic =
+    .label = ເອົາ AI chatbot ອອກ
+# $provider (string) - name of the provider
+genai-menu-remove-provider =
+    .label = ລຶບ { $provider }
+genai-input-ask-generic =
+    .placeholder = ຖາມ AI chatbot…
+# $provider (string) - name of the provider
+genai-input-ask-provider =
+    .placeholder = ຖາມ { $provider }…
 genai-shortcuts-hide =
     .label = ເຊື່ອງທາງລັດ chatbot
 
