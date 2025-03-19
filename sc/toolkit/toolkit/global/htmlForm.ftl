@@ -12,3 +12,9 @@ input-file-and-more-files =
         [one] e un’àteru
        *[other] e àteros { $fileCount } de prus
     }
+form-post-secure-to-insecure-warning-title = Avisu de seguresa
+form-post-secure-to-insecure-warning-message =
+    Is informatziones chi as postu in custa pàgina s'ant a imbiare pro mèdiu de una connessione non segura e àteras persones ddas diant pòdere lèghere.
+    
+    Seguru chi boles imbiare custas informatziones?
+form-post-secure-to-insecure-warning-continue = Sighi
