@@ -12,3 +12,9 @@ input-file-and-more-files =
         [one] ja yksi muu
        *[other] ja { $fileCount } muuta
     }
+form-post-secure-to-insecure-warning-title = Turvallisuusvaroitus
+form-post-secure-to-insecure-warning-message =
+    Antamasi tiedot tullaan lähettämään salaamattoman yhteyden kautta, ja muut henkilöt voivat helposti lukea niitä.
+    
+    Haluatko varmasti jatkaa tietojen lähettämistä?
+form-post-secure-to-insecure-warning-continue = Jatka
