@@ -577,8 +577,8 @@ pdfjs-editor-delete-signature-button-label = 移除签名
 
 ## Editor toolbar
 
-pdfjs-editor-add-signature-edit-button-label = 编辑说明
+pdfjs-editor-add-signature-edit-button-label = 编辑描述
 
 ## Edit signature description dialog
 
-pdfjs-editor-edit-signature-dialog-title = 编辑说明
+pdfjs-editor-edit-signature-dialog-title = 编辑描述
