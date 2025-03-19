@@ -5,6 +5,13 @@
 
 ## Strings used in the status bar of the DevTools Network Panel
 
+# Tooltip for the performance button in the status bar
+network-menu-summary-tooltip-perf =
+    .title = Bắt đầu phân tích hiệu suất
+network-menu-summary-tooltip-domcontentloaded =
+    .title = Thời gian khi xảy ra sự kiện “DOMContentLoaded”
+network-menu-summary-tooltip-load =
+    .title = Thời gian khi xảy ra sự kiện “load”
 network-menu-summary-tooltip-requests-count =
     .title = Số lượng yêu cầu
 # This label is displayed in the network table footer providing the
