@@ -39,3 +39,4 @@ network-menu-summary-tooltip-transferred =
 network-menu-summary-finish = Completato: { $formattedTime }
 network-menu-summary-tooltip-finish =
     .title = Tempo complessivo richiesto per il caricamento di tutte le richieste
+
