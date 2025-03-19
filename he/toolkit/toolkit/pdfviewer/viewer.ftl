@@ -361,9 +361,16 @@ pdfjs-editor-stamp-add-image-button-label = הוספת תמונה
 pdfjs-editor-free-highlight-thickness-input = עובי
 pdfjs-editor-free-highlight-thickness-title =
     .title = שינוי עובי בעת סימון פריטים שאינם טקסט
+pdfjs-editor-add-signature-container =
+    .aria-label = פקדי חתימה וחתימות שמורות
 pdfjs-editor-signature-add-signature-button =
     .title = הוספת חתימה חדשה
 pdfjs-editor-signature-add-signature-button-label = הוספת חתימה חדשה
+# Used on the button to use an already saved signature.
+# Variables:
+#   $description (String) - a string describing/labeling the signature.
+pdfjs-editor-add-saved-signature-button =
+    .title = חתימה שמורה: { $description }
 # .default-content is used as a placeholder in an empty text editor.
 pdfjs-free-text2 =
     .aria-label = עורך טקסט
@@ -596,6 +603,9 @@ pdfjs-editor-edit-signature-update-button = עדכון
 pdfjs-editor-delete-signature-button =
     .title = הסרת חתימה
 pdfjs-editor-delete-signature-button-label = הסרת חתימה
+pdfjs-editor-delete-signature-button1 =
+    .title = הסרת חתימה שמורה
+pdfjs-editor-delete-signature-button-label1 = הסרת חתימה שמורה
 
 ## Editor toolbar
 
