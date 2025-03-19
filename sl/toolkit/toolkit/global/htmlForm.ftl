@@ -14,3 +14,4 @@ input-file-and-more-files =
         [few] in še { $fileCount }
        *[other] in še { $fileCount }
     }
+form-post-secure-to-insecure-warning-title = Varnostno opozorilo
