@@ -14,3 +14,20 @@ network-menu-summary-requests-count =
         [0] Tidak ada permintaan
        *[other] { $requestCount } permintaan
     }
+network-menu-summary-tooltip-requests-count =
+    .title = Jumlah permintaan
+# This label is displayed in the network table footer providing the
+# transferred size.
+# Variables:
+#   $formattedContentSize (String): The formatted content size.
+#   $formattedTransferredSize (String): The formatted transferred size.
+network-menu-summary-transferred = { $formattedContentSize } / { $formattedTransferredSize } ditransfer
+network-menu-summary-tooltip-transferred =
+    .title = Ukuran /transferred ukuran semua permintaan
+# This label is displayed in the network table footer providing the
+# transfer time.
+# Variables:
+#   $formattedTime (String): The formatted transfer time.
+network-menu-summary-finish = Selesai: { $formattedTime }
+network-menu-summary-tooltip-finish =
+    .title = Total waktu yang dibutuhkan untuk memuat semua permintaan
