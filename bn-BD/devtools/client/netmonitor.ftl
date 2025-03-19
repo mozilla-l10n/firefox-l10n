@@ -8,5 +8,9 @@
 # Tooltip for the performance button in the status bar
 network-menu-summary-tooltip-perf =
     .title = কার্যকারিতা বিশ্লেষণ শুরু করুন
+network-menu-summary-tooltip-domcontentloaded =
+    .title = “DOMContentLoaded” ইভেন্ট ঘটার সময়
+network-menu-summary-tooltip-load =
+    .title = “load” ইভেন্ট ঘটার সময়
 network-menu-summary-tooltip-requests-count =
     .title = অনুরোধের সংখ্যা
