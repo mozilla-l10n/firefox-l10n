@@ -22,3 +22,20 @@ network-menu-summary-requests-count =
         [one] Një kërkesë
        *[other] { $requestCount } kërkesa
     }
+network-menu-summary-tooltip-requests-count =
+    .title = Numër kërkesash
+# This label is displayed in the network table footer providing the
+# transferred size.
+# Variables:
+#   $formattedContentSize (String): The formatted content size.
+#   $formattedTransferredSize (String): The formatted transferred size.
+network-menu-summary-transferred = { $formattedContentSize } / { $formattedTransferredSize } të shpërngulura
+network-menu-summary-tooltip-transferred =
+    .title = Madhësi/madhësi e shpërngulur për krejt kërkesat
+# This label is displayed in the network table footer providing the
+# transfer time.
+# Variables:
+#   $formattedTime (String): The formatted transfer time.
+network-menu-summary-finish = Përfundim: { $formattedTime }
+network-menu-summary-tooltip-finish =
+    .title = Kohë gjithsej e nevojshme për ngarkimin e krejt kërkesave
