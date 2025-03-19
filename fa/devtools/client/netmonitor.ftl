@@ -5,6 +5,13 @@
 
 ## Strings used in the status bar of the DevTools Network Panel
 
+# Tooltip for the performance button in the status bar
+network-menu-summary-tooltip-perf =
+    .title = آغاز پالایش کارایی
+network-menu-summary-tooltip-domcontentloaded =
+    .title = زمان رویدادی “DOMContentLoaded” که رخ داد
+network-menu-summary-tooltip-load =
+    .title = زمانی که رویداد «load» اتفاق افتاد
 network-menu-summary-tooltip-requests-count =
     .title = تعداد درخواست ها
 # This label is displayed in the network table footer providing the
