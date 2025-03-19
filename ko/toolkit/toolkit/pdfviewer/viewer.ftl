@@ -353,9 +353,16 @@ pdfjs-editor-stamp-add-image-button-label = 이미지 추가
 pdfjs-editor-free-highlight-thickness-input = 두께
 pdfjs-editor-free-highlight-thickness-title =
     .title = 텍스트 이외의 항목을 강조 표시할 때 두께 변경
+pdfjs-editor-add-signature-container =
+    .aria-label = 서명 제어 및 저장된 서명
 pdfjs-editor-signature-add-signature-button =
     .title = 새 서명 추가
 pdfjs-editor-signature-add-signature-button-label = 새 서명 추가
+# Used on the button to use an already saved signature.
+# Variables:
+#   $description (String) - a string describing/labeling the signature.
+pdfjs-editor-add-saved-signature-button =
+    .title = 저장된 서명: { $description }
 # .default-content is used as a placeholder in an empty text editor.
 pdfjs-free-text2 =
     .aria-label = 텍스트 편집기
@@ -584,6 +591,9 @@ pdfjs-editor-edit-signature-update-button = 업데이트
 pdfjs-editor-delete-signature-button =
     .title = 서명 제거
 pdfjs-editor-delete-signature-button-label = 서명 제거
+pdfjs-editor-delete-signature-button1 =
+    .title = 저장된 서명 제거
+pdfjs-editor-delete-signature-button-label1 = 저장된 서명 제거
 
 ## Editor toolbar
 
