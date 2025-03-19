@@ -12,6 +12,16 @@ network-menu-summary-tooltip-domcontentloaded =
     .title = Altura em que o evento “DOMContentLoaded” ocorreu
 network-menu-summary-tooltip-load =
     .title = Altura em que o evento “load” ocorreu
+# This label is displayed in the network table footer providing the
+# number of requests
+# Variables:
+#   $requestCount (Number): The total number of requests.
+network-menu-summary-requests-count =
+    { $requestCount ->
+        [0] Sem pedidos
+        [one] Um pedido
+       *[other] { $requestCount } pedidos
+    }
 network-menu-summary-tooltip-requests-count =
     .title = Número de pedidos
 # This label is displayed in the network table footer providing the
