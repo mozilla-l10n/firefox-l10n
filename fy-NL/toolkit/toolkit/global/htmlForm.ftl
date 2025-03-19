@@ -13,3 +13,8 @@ input-file-and-more-files =
        *[other] en noch { $fileCount }
     }
 form-post-secure-to-insecure-warning-title = Feilichheidswarskôging
+form-post-secure-to-insecure-warning-message =
+    De gegevens dy’t jo op dizze side ynfierd hawwe, sille oer in net-befeilige ferbining ferstjoerd wurde en kinne troch in tredde partij lêzen wurde.
+    
+    Binne jo wis dat jo dizze gegegevens ferstjoere wolle?
+form-post-secure-to-insecure-warning-continue = Trochgean
