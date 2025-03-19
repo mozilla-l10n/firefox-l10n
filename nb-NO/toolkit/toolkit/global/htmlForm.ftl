@@ -12,3 +12,9 @@ input-file-and-more-files =
         [one] og en til
        *[other] og { $fileCount } flere
     }
+form-post-secure-to-insecure-warning-title = Sikkerhetsadvarsel
+form-post-secure-to-insecure-warning-message =
+    Informasjonen du har skrevet inn på denne siden vil sendes over en usikker kanal, og kan leses av en tredjepart.
+    
+    Er du sikker på at du vil sende denne informasjonen?
+form-post-secure-to-insecure-warning-continue = Fortsett
