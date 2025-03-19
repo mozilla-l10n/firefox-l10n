@@ -12,3 +12,9 @@ input-file-and-more-files =
         [one] և շատ ավելին
        *[other] և { $fileCount } ավելի
     }
+form-post-secure-to-insecure-warning-title = Անվտանգության Զգուշացում
+form-post-secure-to-insecure-warning-message =
+    Այս էջում մուտքագրված տեղեկությունները կուղարկվեն ոչ անվտանգ կապակցմամբ և կարող են հասանելի լինել երրորդ անձանց համար:
+    
+    Ուղարկե՞լ:
+form-post-secure-to-insecure-warning-continue = Շարունակել
