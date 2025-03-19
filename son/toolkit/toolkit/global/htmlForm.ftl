@@ -12,3 +12,9 @@ input-file-and-more-files =
         [one] nda affoo koyne
        *[other] nda { $fileCount } koyne
     }
+form-post-secure-to-insecure-warning-title = Saajaw yaamar
+form-post-secure-to-insecure-warning-message =
+    Boro waani ga hin ka alhabaroo caw, kaŋ war n'a sanba nda ciyari kaŋ mana tugandi.
+    
+    Alhakiika kaŋ war ga baa alhabaroo woo ma sanbandi?
+form-post-secure-to-insecure-warning-continue = Koy jine
