@@ -29,3 +29,7 @@ experimental-features-group-customize-browsing =
 experimental-features-contextual-password-manager =
     .label = Wachtwoorden in de zijbalk
 experimental-features-contextual-password-manager-description = Benader uw wachtwoorden rechtstreeks vanuit de zijbalk. Nooit meer zoeken of wachtwoorden opnieuw instellen wanneer u zich probeert aan te melden. Selecteer ‘Wachtwoorden in de zijbalk’ om deze functie te gebruiken. Ga vervolgens naar uw algemene instellingen en selecteer onder Browserindeling de optie ‘Zijbalk tonen’. Pas daarna uw zijbalk aan door ‘Wachtwoorden’ te selecteren. Als u het probeert, <a data-l10n-name="connect">laat dan weten wat u ervan vindt</a>.
+# New Tab Custom Wallpapers
+experimental-features-custom-wallpaper =
+    .label = Kies een aangepaste achtergrond of kleur voor de Nieuw-tabbladpagina
+experimental-features-custom-wallpaper-description = Upload uw eigen achtergrond of kies een aangepaste kleur voor de achtergrond van uw Nieuw-tabbladpagina.

@@ -11,6 +11,7 @@ label-more-information = Meer informatie: bug { $bug }
 label-overrides = Useragent-vervangingen
 text-disabled-in-about-config = Deze functie is uitgeschakeld in about:config
 text-no-interventions = Er worden geen interventies gebruikt
+text-page-title = Webcompatibiliteit
 text-no-overrides = Er worden geen UA-vervangingen gebruikt
 text-title = about:compat
 
