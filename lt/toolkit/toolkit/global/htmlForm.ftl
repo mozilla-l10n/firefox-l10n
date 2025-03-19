@@ -13,3 +13,9 @@ input-file-and-more-files =
         [few] ir dar { $fileCount } failai
        *[other] ir dar { $fileCount } failų
     }
+form-post-secure-to-insecure-warning-title = Saugumo įspėjimas
+form-post-secure-to-insecure-warning-message =
+    Duomenys, kuriuos įvedėte šiame tinklalapyje, bus persiųsti nesaugiu ryšiu ir gali būti perskaityti iš šalies.
+    
+    Ar tikrai norite išsiųsti šiuos duomenis?
+form-post-secure-to-insecure-warning-continue = Tęsti (palaukti)
