@@ -12,3 +12,4 @@ input-file-and-more-files =
         [one] e un altri
        *[other] e altris { $fileCount }
     }
+form-post-secure-to-insecure-warning-title = Avîs di sigurece
