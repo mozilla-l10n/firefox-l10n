@@ -8,3 +8,4 @@
 # Variables:
 #   $fileCount (Number): The number of remaining files.
 input-file-and-more-files = dan { $fileCount } lagi
+form-post-secure-to-insecure-warning-continue = Teruskan
