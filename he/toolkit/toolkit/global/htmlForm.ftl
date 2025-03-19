@@ -12,3 +12,4 @@ input-file-and-more-files =
         [one] ועוד אחד
        *[other] ועוד { $fileCount } נוספים
     }
+form-post-secure-to-insecure-warning-title = אזהרת אבטחה
