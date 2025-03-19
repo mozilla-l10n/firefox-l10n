@@ -158,3 +158,9 @@ genai-onboarding-lechat-price = Fergees; account nedich
 
 ## Model Optin Component
 
+genai-model-optin-continue =
+    .label = Trochgean
+genai-model-optin-optout =
+    .label = Annulearje
+genai-model-optin-cancel =
+    .label = Annulearje
