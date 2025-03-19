@@ -11,6 +11,7 @@ label-more-information = Mais informações: Bug { $bug }
 label-overrides = Substituições de agente do usuário
 text-disabled-in-about-config = Este recurso foi desativado em about:config
 text-no-interventions = Nenhuma intervenção está sendo usada
+text-page-title = Compatibilidade web
 text-no-overrides = Nenhuma substituição de agente do usuário está sendo usada
 text-title = about:compat
 
