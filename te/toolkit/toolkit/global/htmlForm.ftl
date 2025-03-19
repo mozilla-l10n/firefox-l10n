@@ -12,3 +12,4 @@ input-file-and-more-files =
         [one] ఇంకా మరొకటి
        *[other] ఇంకా మరో { $fileCount }
     }
+form-post-secure-to-insecure-warning-continue = కొనసాగించు
