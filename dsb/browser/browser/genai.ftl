@@ -164,3 +164,9 @@ genai-onboarding-lechat-price = Dermotny; konto jo trjebne
 
 ## Model Optin Component
 
+genai-model-optin-continue =
+    .label = Dalej
+genai-model-optin-optout =
+    .label = Pśetergnuś
+genai-model-optin-cancel =
+    .label = Pśetergnuś

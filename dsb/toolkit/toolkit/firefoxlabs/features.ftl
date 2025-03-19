@@ -29,3 +29,7 @@ experimental-features-group-customize-browsing =
 experimental-features-contextual-password-manager =
     .label = Gronidła w bocnicy
 experimental-features-contextual-password-manager-description = Dostańśo direktny pśistup k swójim gronidłam z bocnice. Njetrjebaśo wěcej gronidła pytaś abo slědk stajiś, gaž wopytujośo se pśizjawiś. Aby toś tu funkciju wužywał, wubjeŕśo gronidła w bocnicy. Źiśo pón k powšyknym nastajenjam a wubjeŕśo pód nadpismom Wugótowanje wobglědowaka zapisk Bocnicu pokazaś. Wubjeŕśo gronidła, aby swóju bocnicu pśiměrił. Jolic toś tu funkciju wopytujośo, <a data-l10n-name="connect">dajśo nam k wěsći, což wó tom mysliśo</a>.
+# New Tab Custom Wallpapers
+experimental-features-custom-wallpaper =
+    .label = Wubjeŕśo swójski slězynowy wobraz abo swójsku barwu za bok nowego rejtarika
+experimental-features-custom-wallpaper-description = Nagrajśo swójski slězynowy wobraz abo wubjeŕśo swójsku barwu za slězynu swójogo boka nowego rejtarika.

@@ -28,3 +28,6 @@ experimental-features-group-customize-browsing =
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Ñe’ẽñemi tenda yképe
+# New Tab Custom Wallpapers
+experimental-features-custom-wallpaper =
+    .label = Emoĩ mba’erechaha rugua térã sa’y nemba’eteéva tendayke pyahúpe g̃uarã

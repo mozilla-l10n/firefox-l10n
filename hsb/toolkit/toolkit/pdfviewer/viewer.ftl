@@ -611,6 +611,7 @@ pdfjs-editor-delete-signature-button =
 pdfjs-editor-delete-signature-button-label = Signaturu wotstronić
 pdfjs-editor-delete-signature-button1 =
     .title = Składowanu signaturu wotstronić
+pdfjs-editor-delete-signature-button-label1 = Składowanu signaturu wotstronić
 
 ## Editor toolbar
 

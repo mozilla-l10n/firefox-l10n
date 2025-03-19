@@ -11,6 +11,7 @@ label-more-information = Maranduve: javy { $bug }
 label-overrides = Poruhára rehegua jepe’aite
 text-disabled-in-about-config = Ojepe’áma ko tembiapoite about:config rupi
 text-no-interventions = Ndojeporuihína jeikepaha
+text-page-title = Ñanduti rogue ojokupytýva
 text-no-overrides = Ndojeporúi AU pe’aha
 text-title = about:compat
 
