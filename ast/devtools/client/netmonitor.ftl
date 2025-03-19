@@ -8,3 +8,17 @@
 # Tooltip for the performance button in the status bar
 network-menu-summary-tooltip-perf =
     .title = Aniciar un análisis de rindimientu
+# This label is displayed in the network table footer providing the
+# number of requests
+# Variables:
+#   $requestCount (Number): The total number of requests.
+network-menu-summary-requests-count =
+    { $requestCount ->
+        [0] Nun hai solicitúes
+        [one] { $requestCount } solicitú
+       *[other] { $requestCount } solicitúes
+    }
+network-menu-summary-tooltip-requests-count =
+    .title = El númberu de solicitúes
+network-menu-summary-tooltip-finish =
+    .title = El tiempu total precisu pa cargar toles solicitúes
