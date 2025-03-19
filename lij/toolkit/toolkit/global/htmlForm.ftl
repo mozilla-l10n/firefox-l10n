@@ -12,3 +12,9 @@ input-file-and-more-files =
         [one] e 'n atro schedaio
        *[other] e atri { $fileCount } schedai
     }
+form-post-secure-to-insecure-warning-title = Avizo de seguessa
+form-post-secure-to-insecure-warning-message =
+    E informaçioin scrite in sta pagina saian mandæ co-ina conescion no segua e porieivan ese façilmente intercetæ da atri sogetti.
+    
+    Mandâ a mæxima ste informaçioin?
+form-post-secure-to-insecure-warning-continue = Vanni avanti
