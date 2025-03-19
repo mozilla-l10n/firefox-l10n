@@ -13,6 +13,7 @@ neterror-captive-portal-page-title = Đăng nhập vào mạng
 neterror-dns-not-found-title = Không tìm thấy máy chủ
 neterror-malformed-uri-page-title = URL không hợp lệ
 general-body-title = Hãy cẩn thận. Có điều gì đó không ổn.
+problem-with-this-site-title = Có vẻ như có vấn đề với trang web này
 
 ## Error page actions
 
