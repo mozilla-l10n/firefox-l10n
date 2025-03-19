@@ -12,3 +12,9 @@ input-file-and-more-files =
         [one] இன்னும் ஒன்று
        *[other] மேலும் { $fileCount }
     }
+form-post-secure-to-insecure-warning-title = பாதுகாப்பு எச்சரிக்கை
+form-post-secure-to-insecure-warning-message =
+    இப்பக்கத்தில் உள்ளிட்ட தகவலை பாதுகாப்பற்ற இணைப்பு மூலம் அனுப்பப்படுவதால் மூன்றாம் தரப்பால் பார்க்க முடியும்.
+    
+    இத்தகவலை அனுப்ப விருப்பமா?
+form-post-secure-to-insecure-warning-continue = தொடரவும்
