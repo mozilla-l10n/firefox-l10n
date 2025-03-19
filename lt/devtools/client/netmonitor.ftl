@@ -12,6 +12,17 @@ network-menu-summary-tooltip-domcontentloaded =
     .title = Laikas, kai įvyko „DOMContentLoaded“ įvykis
 network-menu-summary-tooltip-load =
     .title = Laikas, kai įvyko „load“ įvykis
+# This label is displayed in the network table footer providing the
+# number of requests
+# Variables:
+#   $requestCount (Number): The total number of requests.
+network-menu-summary-requests-count =
+    { $requestCount ->
+        [0] Užklausų nėra
+        [one] { $requestCount } užklausa
+        [few] { $requestCount } užklausos
+       *[other] { $requestCount } užklausų
+    }
 network-menu-summary-tooltip-requests-count =
     .title = Užklausų skaičius
 # This label is displayed in the network table footer providing the
