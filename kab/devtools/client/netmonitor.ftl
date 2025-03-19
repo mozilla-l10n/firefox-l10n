@@ -5,6 +5,23 @@
 
 ## Strings used in the status bar of the DevTools Network Panel
 
+# Tooltip for the performance button in the status bar
+network-menu-summary-tooltip-perf =
+    .title = Senker n tesleṭ n tmellit
+network-menu-summary-tooltip-domcontentloaded =
+    .title = Akud i deg “DOMContentLoaded” tedyant teḍra-d
+network-menu-summary-tooltip-load =
+    .title = Akud i deg “load” tedyant teḍra-d
+# This label is displayed in the network table footer providing the
+# number of requests
+# Variables:
+#   $requestCount (Number): The total number of requests.
+network-menu-summary-requests-count =
+    { $requestCount ->
+        [0] Ulac tuttra
+        [one] Yiwet tuttra
+       *[other] { $requestCount } isuturen
+    }
 network-menu-summary-tooltip-requests-count =
     .title = Amḍan n isuturen
 # This label is displayed in the network table footer providing the
