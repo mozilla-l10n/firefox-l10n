@@ -164,3 +164,9 @@ genai-onboarding-lechat-price = Darmotny; konto je trěbne
 
 ## Model Optin Component
 
+genai-model-optin-continue =
+    .label = Dale
+genai-model-optin-optout =
+    .label = Přetorhnyć
+genai-model-optin-cancel =
+    .label = Přetorhnyć
