@@ -22,3 +22,20 @@ network-menu-summary-requests-count =
         [one] בקשה אחת
        *[other] { $requestCount } בקשות
     }
+network-menu-summary-tooltip-requests-count =
+    .title = מספר בקשות
+# This label is displayed in the network table footer providing the
+# transferred size.
+# Variables:
+#   $formattedContentSize (String): The formatted content size.
+#   $formattedTransferredSize (String): The formatted transferred size.
+network-menu-summary-transferred = הועברו { $formattedContentSize } / { $formattedTransferredSize }
+network-menu-summary-tooltip-transferred =
+    .title = גודל/גודל של כל הבקשות שהועברו
+# This label is displayed in the network table footer providing the
+# transfer time.
+# Variables:
+#   $formattedTime (String): The formatted transfer time.
+network-menu-summary-finish = הסתיים: { $formattedTime }
+network-menu-summary-tooltip-finish =
+    .title = הזמן הכולל הנדרש לטעינת כל הבקשות
