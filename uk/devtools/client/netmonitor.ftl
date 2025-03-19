@@ -12,3 +12,20 @@ network-menu-summary-tooltip-domcontentloaded =
     .title = Час, коли відбулася подія “DOMContentLoaded”
 network-menu-summary-tooltip-load =
     .title = Час, коли відбулася подія “load”
+network-menu-summary-tooltip-requests-count =
+    .title = Кількість запитів
+# This label is displayed in the network table footer providing the
+# transferred size.
+# Variables:
+#   $formattedContentSize (String): The formatted content size.
+#   $formattedTransferredSize (String): The formatted transferred size.
+network-menu-summary-transferred = { $formattedContentSize } / { $formattedTransferredSize } передано
+network-menu-summary-tooltip-transferred =
+    .title = Розмір/передано всіх запитів
+# This label is displayed in the network table footer providing the
+# transfer time.
+# Variables:
+#   $formattedTime (String): The formatted transfer time.
+network-menu-summary-finish = Завершення: { $formattedTime }
+network-menu-summary-tooltip-finish =
+    .title = Загальний час, потрібний для завантаження всіх запитів
