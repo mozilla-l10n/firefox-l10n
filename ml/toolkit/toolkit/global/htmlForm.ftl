@@ -12,3 +12,9 @@ input-file-and-more-files =
         [one] ഒരെണ്ണം കൂടി
        *[other] { $fileCount } കൂടി
     }
+form-post-secure-to-insecure-warning-title = സുരക്ഷയ്ക്കുള്ള മുന്നറിയിപ്പ്
+form-post-secure-to-insecure-warning-message =
+    നിങ്ങള്‍ ഈ താളില്‍ നല്‍കിയിരിയ്ക്കുന്ന വിവരങ്ങള്‍ സുരക്ഷിതമല്ലാത്തൊരു കണക്ഷനിലൂടെ അയയ്ക്കുന്നു. ഇതു് ഒരു തേര്‍ഡ് പാര്‍ട്ടിയും കണ്ടേക്കാം.
+    
+    ഈ വിവരം അയയ്ക്കണമെന്നുറപ്പാണോ?
+form-post-secure-to-insecure-warning-continue = തുടരുക
