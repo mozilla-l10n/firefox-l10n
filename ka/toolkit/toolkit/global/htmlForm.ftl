@@ -13,3 +13,8 @@ input-file-and-more-files =
        *[other] და კიდევ { $fileCount }
     }
 form-post-secure-to-insecure-warning-title = უსაფრთხოების შეტყობინებები
+form-post-secure-to-insecure-warning-message =
+    ამ გვერდზე თქვენ მიერ შეყვანილი მონაცემები გადაიგზავნება დაუცველი კავშირით და შესაძლოა, სხვებმაც იხილონ.
+    
+    ნამდვილად გსურთ ამ მონაცემების გაგზავნა?
+form-post-secure-to-insecure-warning-continue = გაგრძელება
