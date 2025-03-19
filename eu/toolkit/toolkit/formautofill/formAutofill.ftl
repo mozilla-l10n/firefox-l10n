@@ -81,3 +81,6 @@ autofill-category-name = izena
 autofill-category-organization = erakundea
 autofill-category-tel = telefonoa
 autofill-category-email = helbide elektronikoa
+# This string is used in drop down suggestion when users try to autofill credit
+# card on an insecure website (without https).
+autofill-insecure-field-warning-description = { -brand-short-name }(e)k gune ez-segurua antzeman du. Inprimakiak automatikoki betetzea desgaituta dago behin-behinean.
