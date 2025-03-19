@@ -325,6 +325,10 @@ pdfjs-editor-signature-button-label = Adder signatura
 # “Drawing” is a noun, the string is used on the editor for drawings.
 pdfjs-editor-ink-editor =
     .aria-label = Editor de designos
+pdfjs-editor-signature-editor =
+    .aria-label = Editor de signatura
+pdfjs-editor-stamp-editor =
+    .aria-label = Editor de imagines
 
 ## Remove button for the various kind of editor.
 
@@ -357,6 +361,11 @@ pdfjs-editor-free-highlight-thickness-title =
 pdfjs-editor-signature-add-signature-button =
     .title = Adder nove signatura
 pdfjs-editor-signature-add-signature-button-label = Adder nove signatura
+# Used on the button to use an already saved signature.
+# Variables:
+#   $description (String) - a string describing/labeling the signature.
+pdfjs-editor-add-saved-signature-button =
+    .title = Signatura salvate: { $description }
 # .default-content is used as a placeholder in an empty text editor.
 pdfjs-free-text2 =
     .aria-label = Editor de texto
@@ -589,6 +598,9 @@ pdfjs-editor-edit-signature-update-button = Actualisar
 pdfjs-editor-delete-signature-button =
     .title = Remover signatura
 pdfjs-editor-delete-signature-button-label = Remover signatura
+pdfjs-editor-delete-signature-button1 =
+    .title = Remover signatura salvate
+pdfjs-editor-delete-signature-button-label1 = Remover signatura salvate
 
 ## Editor toolbar
 
