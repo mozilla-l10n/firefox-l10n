@@ -12,6 +12,17 @@ network-menu-summary-tooltip-domcontentloaded =
     .title = Vrijeme kada se desio “DOMContentLoaded” događaj
 network-menu-summary-tooltip-load =
     .title = Vrijeme kada se desio “load” događaj
+# This label is displayed in the network table footer providing the
+# number of requests
+# Variables:
+#   $requestCount (Number): The total number of requests.
+network-menu-summary-requests-count =
+    { $requestCount ->
+        [0] Nema zahtjeva
+        [one] { $requestCount } zahtjev
+        [few] { $requestCount } zahtjeva
+       *[other] { $requestCount } zahtjeva
+    }
 network-menu-summary-tooltip-requests-count =
     .title = Broj zahtjeva
 # This label is displayed in the network table footer providing the
