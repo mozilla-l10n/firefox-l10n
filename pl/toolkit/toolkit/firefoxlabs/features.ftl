@@ -25,3 +25,9 @@ experimental-features-group-webpage-display =
     .label = Wyświetlanie stron internetowych
 experimental-features-group-customize-browsing =
     .label = Dostosowanie przeglądania
+# Contextual Password Manager in sidebar
+experimental-features-contextual-password-manager =
+    .label = Hasła na panelu bocznym
+# New Tab Custom Wallpapers
+experimental-features-custom-wallpaper =
+    .label = Wybierz niestandardową tapetę lub kolor dla nowej karty
