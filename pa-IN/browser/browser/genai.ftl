@@ -158,3 +158,9 @@ genai-onboarding-lechat-price = ਮੁਫ਼ਤ; ਖਾਤਾ ਚਾਹੀਦਾ �
 
 ## Model Optin Component
 
+genai-model-optin-continue =
+    .label = ਜਾਰੀ ਰੱਖੋ
+genai-model-optin-optout =
+    .label = ਰੱਦ ਕਰੋ
+genai-model-optin-cancel =
+    .label = ਰੱਦ ਕਰੋ

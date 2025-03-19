@@ -126,6 +126,8 @@ newtab-menu-section-unfollow = ਵਿਸ਼ੇ ਨੂੰ ਅਣ-ਫ਼ਾਲੋ ਕ
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
+newtab-menu-manage-sponsored-content = ਸਪੌਂਸਰ ਕੀਤੀ ਸਮੱਗਰੀ ਦਾ ਇੰਤਜ਼ਾਮ
+newtab-menu-our-sponsors-and-your-privacy = ਸਾਡੇ ਸਪੌਂਸਰ ਅਤੇ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
