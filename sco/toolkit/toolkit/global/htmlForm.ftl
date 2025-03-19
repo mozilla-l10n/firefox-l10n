@@ -12,3 +12,9 @@ input-file-and-more-files =
         [one] and yin mair
        *[other] and { $fileCount } mair
     }
+form-post-secure-to-insecure-warning-title = Siccarness Warnin
+form-post-secure-to-insecure-warning-message =
+    The information ye've inpit on this page will be sent ower a connection that isnae siccar and could be read by a third pairty.
+    
+    Are ye shair ye're wantin tae send this information?
+form-post-secure-to-insecure-warning-continue = Haud Forrit
