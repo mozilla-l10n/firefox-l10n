@@ -314,6 +314,16 @@ pdfjs-editor-signature-button-label = 서명 추가
 
 ## Default editor aria labels
 
+# “Highlight” is a noun, the string is used on the editor for highlights.
+pdfjs-editor-highlight-editor =
+    .aria-label = 강조 표시 편집기
+# “Drawing” is a noun, the string is used on the editor for drawings.
+pdfjs-editor-ink-editor =
+    .aria-label = 그리기 편집기
+pdfjs-editor-signature-editor =
+    .aria-label = 서명 편집기
+pdfjs-editor-stamp-editor =
+    .aria-label = 이미지 편집기
 
 ## Remove button for the various kind of editor.
 

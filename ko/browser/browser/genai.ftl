@@ -152,3 +152,9 @@ genai-onboarding-lechat-price = 무료; 계정 필요
 
 ## Model Optin Component
 
+genai-model-optin-continue =
+    .label = 계속
+genai-model-optin-optout =
+    .label = 취소
+genai-model-optin-cancel =
+    .label = 취소

@@ -126,6 +126,8 @@ newtab-menu-section-unfollow = 주제 팔로우 취소
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
+newtab-menu-manage-sponsored-content = 스폰서 콘텐츠 관리
+newtab-menu-our-sponsors-and-your-privacy = 스폰서와 개인 정보 보호
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -385,6 +387,7 @@ newtab-wallpaper-starry-canyon = 파란 별이 빛나는 밤
 newtab-wallpaper-suspension-bridge = 낮 동안 회색 전체 현수교 사진
 newtab-wallpaper-sand-dunes = 하얀 모래언덕
 newtab-wallpaper-palm-trees = 골든 아워의 코코넛 야자수 실루엣
+newtab-wallpaper-blue-flowers = 푸른 꽃잎이 만발한 꽃의 근접 촬영 사진
 newtab-wallpaper-forest-trees = 안개로 덮인 나무
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
