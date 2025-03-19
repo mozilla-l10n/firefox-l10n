@@ -12,3 +12,9 @@ input-file-and-more-files =
         [one] en nog een
        *[other] en nog { $fileCount }
     }
+form-post-secure-to-insecure-warning-title = Sekuriteitswaarskuwing
+form-post-secure-to-insecure-warning-message =
+    Die inligting wat u ingetik het, gaan oor 'n ongeënkripteerde verbinding versend word en kan geredelik deur 'n derde party gelees word.
+    
+    Wil u definitief hierdie inligting versend?
+form-post-secure-to-insecure-warning-continue = Gaan voort
