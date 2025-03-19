@@ -12,6 +12,16 @@ network-menu-summary-tooltip-domcontentloaded =
     .title = A „DOMContentLoaded” esemény bekövetkezési ideje
 network-menu-summary-tooltip-load =
     .title = A „load” esemény bekövetkezési ideje
+# This label is displayed in the network table footer providing the
+# number of requests
+# Variables:
+#   $requestCount (Number): The total number of requests.
+network-menu-summary-requests-count =
+    { $requestCount ->
+        [0] Nincs kérés
+        [one] Egy kérés
+       *[other] { $requestCount } kérés
+    }
 network-menu-summary-tooltip-requests-count =
     .title = Kérések száma
 # This label is displayed in the network table footer providing the
