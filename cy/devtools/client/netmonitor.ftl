@@ -12,6 +12,20 @@ network-menu-summary-tooltip-domcontentloaded =
     .title = Yr amser pryd ddigwyddodd digwyddiad “DOMContentLoaded”
 network-menu-summary-tooltip-load =
     .title = Yr amser pryd ddigwyddodd y digwyddiad “load”
+# This label is displayed in the network table footer providing the
+# number of requests
+# Variables:
+#   $requestCount (Number): The total number of requests.
+network-menu-summary-requests-count =
+    { $requestCount ->
+        [0] Dim ceisiadau
+        [zero] Dim ceisiadau
+        [one] { $requestCount } cais
+        [two] { $requestCount } gais
+        [few] { $requestCount } cais
+        [many] { $requestCount } chais
+       *[other] { $requestCount } cais
+    }
 network-menu-summary-tooltip-requests-count =
     .title = Nifer y ceisiadau
 # This label is displayed in the network table footer providing the
