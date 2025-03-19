@@ -36,3 +36,5 @@ more-from-moz-mozilla-monitor-button = Wypróbuj { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
+more-from-moz-solo-description = Utwórz błyskawicznie swoją stronę internetową i bezpłatnie podłącz własną domenę.
+more-from-moz-solo-button = Wypróbuj { -solo-ai-brand-name }
