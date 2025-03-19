@@ -12,6 +12,16 @@ network-menu-summary-tooltip-domcontentloaded =
     .title = સમય જ્યારે “DOMContentLoaded” ઇવેન્ટ આવી
 network-menu-summary-tooltip-load =
     .title = સમય જ્યારે “લોડ” ઘટના આવી
+# This label is displayed in the network table footer providing the
+# number of requests
+# Variables:
+#   $requestCount (Number): The total number of requests.
+network-menu-summary-requests-count =
+    { $requestCount ->
+        [0] કોઈ વિનંતીઓ નથી
+        [one] એક વિનંતી
+       *[other] { $requestCount } વિનંતીઅો
+    }
 network-menu-summary-tooltip-requests-count =
     .title = વિનંતીઓની સંખ્યા
 # This label is displayed in the network table footer providing the
