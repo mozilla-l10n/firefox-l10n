@@ -322,6 +322,9 @@ pdfjs-editor-signature-button-label = Adder signatura
 
 ## Default editor aria labels
 
+# “Drawing” is a noun, the string is used on the editor for drawings.
+pdfjs-editor-ink-editor =
+    .aria-label = Editor de designos
 
 ## Remove button for the various kind of editor.
 
