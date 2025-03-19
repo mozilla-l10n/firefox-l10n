@@ -13,3 +13,8 @@ input-file-and-more-files =
        *[other] και { $fileCount } ακόμα
     }
 form-post-secure-to-insecure-warning-title = Προειδοποίηση ασφαλείας
+form-post-secure-to-insecure-warning-message =
+    Οι πληροφορίες που έχετε εισαγάγει σε αυτήν τη σελίδα θα σταλούν μέσω επισφαλούς σύνδεσης και ενδέχεται να προβληθούν από τρίτους.
+    
+    Θέλετε σίγουρα να στείλετε αυτές τις πληροφορίες;
+form-post-secure-to-insecure-warning-continue = Συνέχεια
