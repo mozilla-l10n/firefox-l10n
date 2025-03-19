@@ -81,3 +81,6 @@ autofill-category-name = аты
 autofill-category-organization = ұйым
 autofill-category-tel = телефон
 autofill-category-email = эл. пошта
+# This string is used in drop down suggestion when users try to autofill credit
+# card on an insecure website (without https).
+autofill-insecure-field-warning-description = { -brand-short-name } қауіпсіз емес сайтты анықтады. Формаларды автотолтыру уақытша сөндірілген.
