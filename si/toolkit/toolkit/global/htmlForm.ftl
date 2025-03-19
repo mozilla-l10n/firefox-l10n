@@ -12,4 +12,9 @@ input-file-and-more-files =
         [one] සහ තව එකක්
        *[other] සහ තව { $fileCount }
     }
+form-post-secure-to-insecure-warning-title = ආරක්‍ෂණ අවවාදය
+form-post-secure-to-insecure-warning-message =
+    ඔබ ඇතුල් කළ තොරතුරු සංකේතනය නොකළ සම්බන්‍ධතාවක් මගින් යැවෙන බැවින් තෙවන පාර්ශ්ව පහසුවෙන් කියවනු ඇත.
+    
+    මෙම තොරතුරු යැවිය යුතුද?
 form-post-secure-to-insecure-warning-continue = ඉදිරියට
