@@ -81,3 +81,6 @@ autofill-category-name = tên
 autofill-category-organization = tổ chức
 autofill-category-tel = điện thoại
 autofill-category-email = thư điện tử
+# This string is used in drop down suggestion when users try to autofill credit
+# card on an insecure website (without https).
+autofill-insecure-field-warning-description = { -brand-short-name } đã phát hiện một trang web không an toàn. Tự động điền biểu mẫu tạm thời bị tắt.
