@@ -12,3 +12,4 @@ input-file-and-more-files =
         [one] και ένα ακόμα
        *[other] και { $fileCount } ακόμα
     }
+form-post-secure-to-insecure-warning-title = Προειδοποίηση ασφαλείας
