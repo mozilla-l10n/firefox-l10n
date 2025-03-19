@@ -21,3 +21,20 @@ network-menu-summary-requests-count =
         [0] 無請求
        *[other] { $requestCount } 筆請求
     }
+network-menu-summary-tooltip-requests-count =
+    .title = 請求數量
+# This label is displayed in the network table footer providing the
+# transferred size.
+# Variables:
+#   $formattedContentSize (String): The formatted content size.
+#   $formattedTransferredSize (String): The formatted transferred size.
+network-menu-summary-transferred = 已傳輸 { $formattedContentSize } / { $formattedTransferredSize }
+network-menu-summary-tooltip-transferred =
+    .title = 所有請求的大小/已傳輸大小
+# This label is displayed in the network table footer providing the
+# transfer time.
+# Variables:
+#   $formattedTime (String): The formatted transfer time.
+network-menu-summary-finish = 完成：{ $formattedTime }
+network-menu-summary-tooltip-finish =
+    .title = 載入所有請求的總花費時間
