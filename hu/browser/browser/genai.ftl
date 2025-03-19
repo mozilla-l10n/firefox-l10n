@@ -160,3 +160,9 @@ genai-onboarding-lechat-price = Ingyenes; fiók szükséges
 
 ## Model Optin Component
 
+genai-model-optin-continue =
+    .label = Folytatás
+genai-model-optin-optout =
+    .label = Mégse
+genai-model-optin-cancel =
+    .label = Mégse

@@ -11,6 +11,7 @@ label-more-information = További információ: { $bug }. hiba
 label-overrides = Felhasználói ügynök felülírása
 text-disabled-in-about-config = Ez a funkció le lett tiltva az about:configban
 text-no-interventions = Nincsenek beavatkozások használatban
+text-page-title = Webes kompatibilitás
 text-no-overrides = Nincsenek UA felülírások használatban
 text-title = about:compat
 

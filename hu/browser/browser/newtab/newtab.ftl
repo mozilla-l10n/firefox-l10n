@@ -126,6 +126,8 @@ newtab-menu-section-unfollow = Téma követésének megszüntetése
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
+newtab-menu-manage-sponsored-content = Szponzorált tartalmak kezelése
+newtab-menu-our-sponsors-and-your-privacy = Támogatóink és az Ön adatvédelme
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -386,6 +388,7 @@ newtab-wallpaper-starry-canyon = Kék csillagos éjszaka
 newtab-wallpaper-suspension-bridge = Fénykép egy szürke függőhídról, napközben
 newtab-wallpaper-sand-dunes = Fehér homokdűnék
 newtab-wallpaper-palm-trees = Kókuszpálmák sziluettje alkonyatkor
+newtab-wallpaper-blue-flowers = Közeli fénykép kék szirmú virágokról virágzás közben
 newtab-wallpaper-forest-trees = Fák ködben
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
