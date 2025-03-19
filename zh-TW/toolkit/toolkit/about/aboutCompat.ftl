@@ -11,6 +11,7 @@ label-more-information = 更多資訊請參考：Bug { $bug }
 label-overrides = 忽略預設使用者代理字串
 text-disabled-in-about-config = 已在 about:config 關閉此功能
 text-no-interventions = 未使用任何介入功能
+text-page-title = Web 相容性
 text-no-overrides = 未忽略任何預設 User Agent
 text-title = about:compat
 

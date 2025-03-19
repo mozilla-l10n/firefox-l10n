@@ -367,6 +367,7 @@ newtab-wallpaper-abstract-orange = Oransje former
 newtab-wallpaper-gradient-orange = Fargeovergang oransje og rosa
 newtab-wallpaper-abstract-blue-purple = Blå og lilla former
 newtab-wallpaper-abstract-white-curves = Hvit med skraverte kurver
+newtab-wallpaper-abstract-purple-green = Fargeovergang med lilla og grønt lys
 
 ## Celestial
 
@@ -501,12 +502,22 @@ newtab-section-confirm-block-section-p1 = Er du sikker på at du vil blokkere de
 newtab-section-confirm-block-section-p2 = Blokkert del vil ikke lenger vises i kilden din.
 newtab-section-block-section-button = Blokker denne delen
 newtab-section-cancel-button = Ikke nå
+newtab-section-confirm-block-topic-p1 = Er du sikker på at du vil blokkere dette emnet?
+newtab-section-confirm-block-topic-p2 = Blokkerte emner vil ikke lenger vises i kilden din.
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = Blokker { $topic }
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Emner
+newtab-section-manage-topics-button-v2 =
+    .label = Behandle emner
+newtab-section-mangage-topics-followed-topics = Fulgt
 newtab-section-mangage-topics-button =
     .label = Følgte og blokkerte emner
 newtab-section-mangage-topics-followed-topics-subtitle = Følgte emner
 newtab-section-mangage-topics-followed-topics-empty-state = Du har ikke fulgt noen emner ennå.
+newtab-section-mangage-topics-blocked-topics = Blokkert
 newtab-section-mangage-topics-blocked-topics-subtitle = Blokkerte emner
+newtab-section-mangage-topics-blocked-topics-empty-state = Du har ikke blokkert noen emner ennå.

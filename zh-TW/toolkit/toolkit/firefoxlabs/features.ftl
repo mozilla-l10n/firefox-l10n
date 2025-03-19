@@ -29,3 +29,7 @@ experimental-features-group-customize-browsing =
 experimental-features-contextual-password-manager =
     .label = 在側邊欄顯示密碼
 experimental-features-contextual-password-manager-description = 直接從側邊欄查詢您的密碼，這樣要登入網站時，就不用再翻翻找找，或重設忘記了的網站密碼。若要使用此功能，請在側邊欄選擇「密碼」，然後到一般設定當中的瀏覽器版面選擇「顯示側邊欄」，然後再於側邊欄選擇「密碼」。若您嘗試過了，<a data-l10n-name="connect">請告訴我們您覺得此功能如何</a>？
+# New Tab Custom Wallpapers
+experimental-features-custom-wallpaper =
+    .label = 為新分頁選擇自訂背景或色彩
+experimental-features-custom-wallpaper-description = 上傳您自己的背景圖，或挑選一組色彩用於新分頁的背景。
