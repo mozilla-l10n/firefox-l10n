@@ -12,3 +12,9 @@ input-file-and-more-files =
         [one] ed ina dapli
        *[other] ed { $fileCount } dapli
     }
+form-post-secure-to-insecure-warning-title = Avertiment da segirezza
+form-post-secure-to-insecure-warning-message =
+    Las infurmaziuns che ti has endatà sin questa pagina vegnan tramessas cun ina connexiun betg segirada. Terzas persunas las pon eventualmain leger.
+    
+    Es ti segir che ti vuls trametter questas infurmaziuns?
+form-post-secure-to-insecure-warning-continue = Cuntinuar
