@@ -70,6 +70,9 @@ newtab-menu-save-to-pocket = Chika va'a nu { -pocket-brand-name }
 newtab-menu-delete-pocket = Stoo ña inka nu{ -pocket-brand-name }
 newtab-menu-archive-pocket = Chika va'a nu { -pocket-brand-name }
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 

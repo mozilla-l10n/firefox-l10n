@@ -155,3 +155,6 @@ genai-onboarding-huggingchat-switch = ਵੱਖ-ਵੱਖ ਮਾਡਲਾਂ ਦ
 genai-onboarding-huggingchat-price-2 = ਮੁਫ਼ਤ; ਕੁਝ ਬੇਨਤੀਆਂ ਦੇ ਬਾਅਦ ਖਾਤਾ ਚਾਹੀਦਾ ਹੈ
 genai-onboarding-lechat-generate = ਲਿਖਤ ਅਤੇ ਕੋਡ ਤਿਆਰ ਕਰੋ
 genai-onboarding-lechat-price = ਮੁਫ਼ਤ; ਖਾਤਾ ਚਾਹੀਦਾ ਹੈ
+
+## Model Optin Component
+

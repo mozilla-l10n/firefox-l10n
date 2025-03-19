@@ -129,3 +129,6 @@ genai-onboarding-huggingchat-switch = Ашық үлгілердің әртүрл
 genai-onboarding-huggingchat-price-2 = Тегін; тіркелгі сұраулардың белгілі бір санынан кейін керек болады
 genai-onboarding-lechat-generate = Мәтін мен кодты генерациялау
 genai-onboarding-lechat-price = Тегін; тіркелгі қажет
+
+## Model Optin Component
+

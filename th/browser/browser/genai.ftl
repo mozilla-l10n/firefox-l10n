@@ -149,3 +149,6 @@ genai-onboarding-huggingchat-switch = เปลี่ยนไปใช้โม
 genai-onboarding-huggingchat-price-2 = สามารถใช้ได้ฟรี แต่ต้องมีบัญชีหลังจากใช้ไปแล้วจำนวนหนึ่ง
 genai-onboarding-lechat-generate = สร้างข้อความและโค้ด
 genai-onboarding-lechat-price = ฟรี แต่ต้องมีบัญชีเพื่อใช้งาน
+
+## Model Optin Component
+

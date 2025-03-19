@@ -86,6 +86,9 @@ newtab-menu-delete-pocket = سڕینەوە لە { -pocket-brand-name }
 newtab-menu-archive-pocket = ئەرشیف کردن لە { -pocket-brand-name }
 newtab-menu-show-privacy-info = سپۆنسەرەکانمان و تایبەتێتی تۆ
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = تەواو

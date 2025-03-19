@@ -78,6 +78,9 @@ newtab-menu-save-to-pocket = រក្សាទុកទៅ { -pocket-brand-name
 newtab-menu-delete-pocket = លុបចេញពី { -pocket-brand-name }
 newtab-menu-archive-pocket = ទុកក្នុងប័ណ្ណសារក្នុង { -pocket-brand-name }
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 

@@ -109,6 +109,9 @@ newtab-menu-delete-pocket = Trinti iš „{ -pocket-brand-name }“
 newtab-menu-archive-pocket = Archyvuoti per „{ -pocket-brand-name }“
 newtab-menu-show-privacy-info = Mūsų rėmėjai ir jūsų privatumas
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Gerai

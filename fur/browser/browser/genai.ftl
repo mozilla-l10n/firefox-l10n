@@ -157,3 +157,6 @@ genai-onboarding-huggingchat-switch = Sielç tra une vaste schirie di modei vier
 genai-onboarding-huggingchat-price-2 = Gratuit, account necessari dopo un ciert numar di richiestis
 genai-onboarding-lechat-generate = Gjenerazion di test e codiç
 genai-onboarding-lechat-price = Gratuit; account necessari
+
+## Model Optin Component
+

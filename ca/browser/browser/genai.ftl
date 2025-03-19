@@ -122,3 +122,6 @@ genai-onboarding-huggingchat-switch = Canvieu entre un ampli ventall de models o
 genai-onboarding-huggingchat-price-2 = Gratuït; cal un compte després d'un cert nombre de sol·licituds
 genai-onboarding-lechat-generate = Genera text i codi
 genai-onboarding-lechat-price = Gratuït; cal un compte
+
+## Model Optin Component
+

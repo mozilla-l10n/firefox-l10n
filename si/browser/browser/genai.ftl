@@ -122,3 +122,6 @@ genai-onboarding-gemini-price = නොමිලේ හා ගෙවන වික
 genai-onboarding-huggingchat-generate = පෙළ හා කේත උත්පාදනය
 genai-onboarding-lechat-generate = පෙළ හා කේත උත්පාදනය
 genai-onboarding-lechat-price = නොමිලේ; ගිණුමක් වුවමනාය
+
+## Model Optin Component
+

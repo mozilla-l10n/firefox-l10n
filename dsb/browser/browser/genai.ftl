@@ -161,3 +161,6 @@ genai-onboarding-huggingchat-switch = Pśešaltujśo mjazy rozdźělneju sajźbu
 genai-onboarding-huggingchat-price-2 = Dermotny; konto trjebne pó wěstej licbje napšašowanjow
 genai-onboarding-lechat-generate = Tekst a kod generěrowaś
 genai-onboarding-lechat-price = Dermotny; konto jo trjebne
+
+## Model Optin Component
+

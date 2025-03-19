@@ -239,6 +239,9 @@ pdfjs-web-fonts-disabled = Ağ urufatları naqabildir: içeri-yatqızılğan PDF
 ## Editing
 
 
+## Default editor aria labels
+
+
 ## Remove button for the various kind of editor.
 
 

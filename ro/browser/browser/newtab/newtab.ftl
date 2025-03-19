@@ -102,6 +102,9 @@ newtab-menu-delete-pocket = Șterge din { -pocket-brand-name }
 newtab-menu-archive-pocket = Arhivează în { -pocket-brand-name }
 newtab-menu-show-privacy-info = Sponsorii noștri și confidențialitatea ta
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Terminat

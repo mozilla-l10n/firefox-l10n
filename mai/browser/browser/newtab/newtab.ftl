@@ -65,6 +65,9 @@ newtab-menu-unpin = पिन हटाबू
 newtab-menu-delete-history = इतिहास सँ मेटाबू
 newtab-menu-save-to-pocket = { -pocket-brand-name } मे सहेजू
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 

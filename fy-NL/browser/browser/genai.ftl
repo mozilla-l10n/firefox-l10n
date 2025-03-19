@@ -155,3 +155,6 @@ genai-onboarding-huggingchat-switch = Skeakelje tusken in ferskaat oan iepen mod
 genai-onboarding-huggingchat-price-2 = Fergees; account nedich nei in bepaald oantal oanfragen
 genai-onboarding-lechat-generate = Tekst en koade generearje
 genai-onboarding-lechat-price = Fergees; account nedich
+
+## Model Optin Component
+

@@ -111,6 +111,9 @@ newtab-menu-delete-pocket = { -pocket-brand-name } నుండి తొలగ�
 newtab-menu-archive-pocket = { -pocket-brand-name }లో ఆర్కయివ్ చెయ్యి
 newtab-menu-show-privacy-info = మా స్పాన్సర్లు & మీ అంతరంగికత
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = పూర్తయింది

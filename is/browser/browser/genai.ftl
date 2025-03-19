@@ -157,3 +157,6 @@ genai-onboarding-huggingchat-switch = Skiptu á milli fjölbreyttra opinna líka
 genai-onboarding-huggingchat-price-2 = Ókeypis; reiknings er krafist eftir ákveðinn fjölda beiðna
 genai-onboarding-lechat-generate = Framleiddu texta og kóða
 genai-onboarding-lechat-price = Ókeypis; reiknings krafist
+
+## Model Optin Component
+

@@ -61,3 +61,6 @@ genai-onboarding-claude-analyze = Dielfennañ teulioù ha skeudennoù
 genai-onboarding-chatgpt-analyze = Dielfennañ teulioù ha skeudennoù
 genai-onboarding-copilot-analyze = Dielfennañ skeudennoù
 genai-onboarding-gemini-analyze = Dielfennañ skeudennoù (digoust) ha teulioù (da baeañ)
+
+## Model Optin Component
+

@@ -124,6 +124,9 @@ newtab-menu-section-block = തടയുക
 # e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = വിഷയം പിന്തുടരാൻ നി‌രുത്തുക
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = കഴിഞ്ഞു

@@ -149,3 +149,6 @@ genai-onboarding-huggingchat-switch = 可在多个开源模型间切换
 genai-onboarding-huggingchat-price-2 = 免费；请求超过一定次数后需要登录账户
 genai-onboarding-lechat-generate = 生成文本和代码
 genai-onboarding-lechat-price = 免费；需要登录账户
+
+## Model Optin Component
+

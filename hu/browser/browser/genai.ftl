@@ -157,3 +157,6 @@ genai-onboarding-huggingchat-switch = Váltás a különböző nyílt modellek k
 genai-onboarding-huggingchat-price-2 = Ingyenes; bizonyos számú kérés után fiók szükséges
 genai-onboarding-lechat-generate = Szöveg és kód előállítása
 genai-onboarding-lechat-price = Ingyenes; fiók szükséges
+
+## Model Optin Component
+

@@ -317,6 +317,9 @@ pdfjs-highlight-floating-button1 =
     .aria-label = Markere
 pdfjs-highlight-floating-button-label = Markere
 
+## Default editor aria labels
+
+
 ## Remove button for the various kind of editor.
 
 pdfjs-editor-remove-ink-button =

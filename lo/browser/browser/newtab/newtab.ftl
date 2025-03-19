@@ -103,6 +103,9 @@ newtab-menu-delete-pocket = ລຶບອອກຈາກ { -pocket-brand-name }
 newtab-menu-archive-pocket = ເກັບຖາວອນໃນ { -pocket-brand-name }
 newtab-menu-show-privacy-info = ຜູ້ສະຫນັບສະຫນູນຂອງພວກເຮົາ & ຄວາມເປັນສ່ວນຕົວຂອງທ່ານ
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = ສຳເລັດ

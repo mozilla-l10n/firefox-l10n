@@ -62,3 +62,6 @@ genai-input-ask-provider =
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+
+## Model Optin Component
+

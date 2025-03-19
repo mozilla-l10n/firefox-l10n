@@ -109,6 +109,9 @@ newtab-menu-delete-pocket = حذف از { -pocket-brand-name }
 newtab-menu-archive-pocket = آرشیو در { -pocket-brand-name }
 newtab-menu-show-privacy-info = حامیان ما و حریم خصوصی شما
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = انجام شد

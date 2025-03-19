@@ -154,3 +154,6 @@ genai-onboarding-huggingchat-switch = Prebacivanje između raznolikog skupa otvo
 genai-onboarding-huggingchat-price-2 = Besplatno; račun potreban nakon određenog broja zahtjeva
 genai-onboarding-lechat-generate = Generirajte tekst i kod
 genai-onboarding-lechat-price = Besplatno; potreban račun
+
+## Model Optin Component
+

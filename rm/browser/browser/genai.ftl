@@ -155,3 +155,6 @@ genai-onboarding-huggingchat-switch = Tscherner in model avert ord ina gronda sc
 genai-onboarding-huggingchat-price-2 = Gratuit; conto obligatoric suenter in tschert dumber da dumondas
 genai-onboarding-lechat-generate = Generar text e code
 genai-onboarding-lechat-price = Gratuit; conto obligatoric
+
+## Model Optin Component
+

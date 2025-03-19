@@ -124,18 +124,21 @@ newtab-menu-section-block = Blokovat
 # e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Přestat sledovat téma
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Hotovo
 newtab-privacy-modal-button-manage = Nastavení sponzorovaného obsahu
 newtab-privacy-modal-header = Na vašem soukromí záleží.
 newtab-privacy-modal-paragraph-2 =
-    Kromě zajímavých článků zobrazujeme také relevantní a prověřený obsah od vybraných partnerů. Nemusíte se ale bát, <strong>vaše údaje nikdy neopustí { -brand-product-name.gender ->
-        [masculine] váš { -brand-product-name(case: "acc") }
-        [feminine] vaši { -brand-product-name(case: "acc") }
-        [neuter] vaše { -brand-product-name(case: "acc") }
-       *[other] vaši aplikaci { -brand-product-name }
-    }</strong> - neodesílají se nám ani našim partnerům.
+    { -brand-product-name.gender ->
+        [masculine] Kromě zajímavých článků zobrazujeme také relevantní a prověřený obsah od vybraných partnerů. Nemusíte se ale bát, <strong>vaše údaje nikdy neopustí váš { -brand-product-name(case: "acc") }</strong> - neodesílají se nám ani našim partnerům.
+        [feminine] Kromě zajímavých článků zobrazujeme také relevantní a prověřený obsah od vybraných partnerů. Nemusíte se ale bát, <strong>vaše údaje nikdy neopustí vaši { -brand-product-name(case: "acc") }</strong> - neodesílají se nám ani našim partnerům.
+        [neuter] Kromě zajímavých článků zobrazujeme také relevantní a prověřený obsah od vybraných partnerů. Nemusíte se ale bát, <strong>vaše údaje nikdy neopustí vaše { -brand-product-name(case: "acc") }</strong> - neodesílají se nám ani našim partnerům.
+       *[other] Kromě zajímavých článků zobrazujeme také relevantní a prověřený obsah od vybraných partnerů. Nemusíte se ale bát, <strong>vaše údaje nikdy neopustí vaši aplikaci { -brand-product-name }</strong> - neodesílají se nám ani našim partnerům.
+    }
 newtab-privacy-modal-link = Zjistěte, jak chráníme vaše soukromí na stránce nového panelu.
 
 ##

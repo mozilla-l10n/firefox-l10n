@@ -155,3 +155,6 @@ genai-onboarding-huggingchat-switch = Εναλλαγή ανάμεσα σε έν�
 genai-onboarding-huggingchat-price-2 = Δωρεάν· απαιτείται λογαριασμός μετά από έναν ορισμένο αριθμό αιτημάτων
 genai-onboarding-lechat-generate = Δημιουργία κειμένου και κώδικα
 genai-onboarding-lechat-price = Δωρεάν· απαιτείται λογαριασμός
+
+## Model Optin Component
+

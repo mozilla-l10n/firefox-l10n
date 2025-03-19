@@ -63,6 +63,9 @@ newtab-menu-delete-history = जारिमिन निफ्राय खो�
 newtab-menu-save-to-pocket = { -pocket-brand-name } आव थिना दोन
 newtab-menu-delete-pocket = { -pocket-brand-name } निफ्राय खोमोर
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = जाखांबाइ

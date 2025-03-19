@@ -118,6 +118,9 @@ newtab-menu-archive-pocket = Архивирај у { -pocket-brand-name(case: "l
 newtab-menu-show-privacy-info = Наши спонзори и ваша приватност
 newtab-menu-about-fakespot = О { -fakespot-brand-name }-у
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Готово

@@ -256,6 +256,9 @@ pdfjs-web-fonts-disabled = Els tipus de lletra web estan desactivats: no es pode
 ## Editing
 
 
+## Default editor aria labels
+
+
 ## Remove button for the various kind of editor.
 
 

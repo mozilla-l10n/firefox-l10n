@@ -41,3 +41,6 @@ genai-onboarding-lechat-learn = درباره Le Chat بیشتر بدانید
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+
+## Model Optin Component
+

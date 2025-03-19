@@ -123,6 +123,9 @@ pdfjs-web-fonts-disabled = Fonti za tovuti zimelemazwa: haziwezi kutumia fonti z
 ## Editing
 
 
+## Default editor aria labels
+
+
 ## Remove button for the various kind of editor.
 
 

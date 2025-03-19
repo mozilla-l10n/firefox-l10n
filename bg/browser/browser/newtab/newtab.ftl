@@ -112,6 +112,9 @@ newtab-menu-delete-pocket = Изтриване от { -pocket-brand-name }
 newtab-menu-archive-pocket = Архивиране в { -pocket-brand-name }
 newtab-menu-show-privacy-info = Спонсори и поверителност
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Готово

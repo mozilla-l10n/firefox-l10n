@@ -109,6 +109,9 @@ newtab-menu-delete-pocket = Air a sguabadh à { -pocket-brand-name }
 newtab-menu-archive-pocket = Tasglannaich ann am { -pocket-brand-name }
 newtab-menu-show-privacy-info = Na sponsairean againn ⁊ do phrìobhaideachd
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Deiseil

@@ -165,3 +165,6 @@ genai-onboarding-huggingchat-switch = Newid rhwng set amrywiol o fodelau agored
 genai-onboarding-huggingchat-price-2 = Am ddim; mae angen cyfrif ar ôl nifer penodol o geisiadau
 genai-onboarding-lechat-generate = Cynhyrchu testun a chod
 genai-onboarding-lechat-price = Rhad ac am ddim; bydd angen cyfrif
+
+## Model Optin Component
+

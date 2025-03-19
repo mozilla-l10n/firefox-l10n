@@ -149,3 +149,6 @@ genai-onboarding-huggingchat-switch = 切換使用一系列不同的開放模型
 genai-onboarding-huggingchat-price-2 = 免費，但發出一定數量請求後需要註冊
 genai-onboarding-lechat-generate = 產生文字或程式碼
 genai-onboarding-lechat-price = 免費，需要註冊
+
+## Model Optin Component
+

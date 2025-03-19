@@ -155,3 +155,6 @@ genai-onboarding-huggingchat-switch = Iri de unu modelo al alia inter diversa ar
 genai-onboarding-huggingchat-price-2 = Senpaga; konto postulata post iu nombro de petoj
 genai-onboarding-lechat-generate = Krei tekston kaj kodon
 genai-onboarding-lechat-price = Senpage; konto postulata
+
+## Model Optin Component
+

@@ -78,6 +78,9 @@ newtab-menu-save-to-pocket = { -pocket-brand-name }-ə Saxla
 newtab-menu-delete-pocket = { -pocket-brand-name }-dən sil
 newtab-menu-archive-pocket = { -pocket-brand-name }-də arxivləşdir
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 

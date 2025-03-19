@@ -320,6 +320,9 @@ pdfjs-editor-signature-button =
     .title = ਦਸਤਖ਼ਤ ਜੋੜੋ
 pdfjs-editor-signature-button-label = ਦਸਤਖ਼ਤ ਜੋੜੋ
 
+## Default editor aria labels
+
+
 ## Remove button for the various kind of editor.
 
 pdfjs-editor-remove-ink-button =

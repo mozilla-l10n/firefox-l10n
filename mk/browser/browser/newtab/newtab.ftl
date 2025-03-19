@@ -76,6 +76,9 @@ newtab-menu-save-to-pocket = Зачувај во { -pocket-brand-name }
 newtab-menu-delete-pocket = Избриши од { -pocket-brand-name }
 newtab-menu-archive-pocket = Архивирај во { -pocket-brand-name }
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Готово

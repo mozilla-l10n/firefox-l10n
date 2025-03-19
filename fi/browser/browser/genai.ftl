@@ -155,3 +155,6 @@ genai-onboarding-huggingchat-switch = Vaihda useiden avointen mallien välillä
 genai-onboarding-huggingchat-price-2 = Ilmainen; tili vaaditaan tietyn pyyntömäärän jälkeen
 genai-onboarding-lechat-generate = Luo tekstiä ja koodia
 genai-onboarding-lechat-price = Ilmainen; tili vaaditaan
+
+## Model Optin Component
+

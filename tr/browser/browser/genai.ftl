@@ -157,3 +157,6 @@ genai-onboarding-huggingchat-switch = Farklı açık modeller arasında geçiş 
 genai-onboarding-huggingchat-price-2 = Ücretsiz: Belirli sayıda istekten sonra hesap açmanız gerekir
 genai-onboarding-lechat-generate = Metin ve kod oluşturma
 genai-onboarding-lechat-price = Ücretsiz: Hesap açmanız gerekir
+
+## Model Optin Component
+

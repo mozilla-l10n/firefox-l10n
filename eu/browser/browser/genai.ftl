@@ -134,3 +134,6 @@ genai-onboarding-huggingchat-switch = Aldatu modelo irekien sorta anitzen artean
 genai-onboarding-huggingchat-price-2 = Doakoa; kontua behar da eskaera kopuru jakin baten ondoren
 genai-onboarding-lechat-generate = Sortu testua eta kodea
 genai-onboarding-lechat-price = Doakoa; kontua beharrezkoa da
+
+## Model Optin Component
+

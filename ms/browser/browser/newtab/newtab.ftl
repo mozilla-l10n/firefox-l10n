@@ -78,6 +78,9 @@ newtab-menu-save-to-pocket = Simpan ke { -pocket-brand-name }
 newtab-menu-delete-pocket = Buang dari { -pocket-brand-name }
 newtab-menu-archive-pocket = Arkib dalam { -pocket-brand-name }
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 

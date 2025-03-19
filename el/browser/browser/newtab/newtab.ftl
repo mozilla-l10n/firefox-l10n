@@ -124,6 +124,9 @@ newtab-menu-section-block = Φραγή
 # e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Άρση παρακολούθησης θέματος
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Τέλος

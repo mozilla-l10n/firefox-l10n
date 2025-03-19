@@ -173,3 +173,6 @@ genai-onboarding-huggingchat-switch = Přepínejte mezi rozmanitou sadou otevře
 genai-onboarding-huggingchat-price-2 = Zdarma; po určitém počtu požadavků je vyžadován účet
 genai-onboarding-lechat-generate = Generování textu a kódu
 genai-onboarding-lechat-price = Zdarma; je vyžadován účet
+
+## Model Optin Component
+

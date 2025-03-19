@@ -96,3 +96,6 @@ genai-onboarding-gemini-generate = Generer tekst, bilder og kode
 genai-onboarding-huggingchat-generate = Generer tekst og kode
 genai-onboarding-lechat-generate = Generer tekst og kode
 genai-onboarding-lechat-price = Gratis; konto kreves
+
+## Model Optin Component
+

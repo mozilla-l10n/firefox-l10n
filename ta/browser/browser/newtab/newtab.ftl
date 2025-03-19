@@ -78,6 +78,9 @@ newtab-menu-save-to-pocket = { -pocket-brand-name } ல் சேமி
 newtab-menu-delete-pocket = { -pocket-brand-name } லிருந்து நீக்கு
 newtab-menu-archive-pocket = { -pocket-brand-name } ல் காப்பெடு
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 

@@ -128,3 +128,6 @@ genai-onboarding-huggingchat-switch = מעבר בין סט מגוון של דג�
 genai-onboarding-huggingchat-price-2 = בחינם; נדרש חשבון לאחר מספר מסויים של בקשות
 genai-onboarding-lechat-generate = יצירת טקסט וקוד
 genai-onboarding-lechat-price = בחינם, נדרש חשבון
+
+## Model Optin Component
+

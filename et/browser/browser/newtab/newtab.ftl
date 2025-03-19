@@ -109,6 +109,9 @@ newtab-menu-delete-pocket = Kustuta { -pocket-brand-name }ist
 newtab-menu-archive-pocket = Arhiveeri { -pocket-brand-name }is
 newtab-menu-show-privacy-info = Meie sponsoritest ja sinu privaatsusest
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Valmis

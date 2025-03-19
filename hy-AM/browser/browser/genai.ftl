@@ -106,3 +106,6 @@ genai-onboarding-huggingchat-switch = Անցեք բաց մոդելների բա�
 genai-onboarding-huggingchat-price-2 = Անվճար; հաշիվ պահանջվում է որոշակի քանակի հարցումներից հետո
 genai-onboarding-lechat-generate = Ստեղծեք գրվածք և կոդ
 genai-onboarding-lechat-price = Անվճար; անհրաժեշտ է հաշիվ
+
+## Model Optin Component
+

@@ -118,6 +118,9 @@ newtab-menu-archive-pocket = Archivar dins { -pocket-brand-name }
 newtab-menu-show-privacy-info = Nòstres esponsòrs e vòstra vida privada
 newtab-menu-about-fakespot = A prepaus de { -fakespot-brand-name }
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Acabat

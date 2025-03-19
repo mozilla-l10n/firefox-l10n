@@ -320,6 +320,9 @@ pdfjs-editor-signature-button =
     .title = İmza ekle
 pdfjs-editor-signature-button-label = İmza ekle
 
+## Default editor aria labels
+
+
 ## Remove button for the various kind of editor.
 
 pdfjs-editor-remove-ink-button =

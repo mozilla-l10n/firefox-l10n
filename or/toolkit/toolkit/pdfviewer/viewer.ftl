@@ -174,6 +174,9 @@ pdfjs-web-fonts-disabled = ୱେବ ଅକ୍ଷରରୂପଗୁଡ଼ିକ�
 ## Editing
 
 
+## Default editor aria labels
+
+
 ## Remove button for the various kind of editor.
 
 

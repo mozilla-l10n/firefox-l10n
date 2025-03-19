@@ -99,6 +99,9 @@ newtab-menu-delete-pocket = I-delete sa { -pocket-brand-name }
 newtab-menu-archive-pocket = I-archive sa { -pocket-brand-name }
 newtab-menu-show-privacy-info = Ang aming mga suki at iyong privacy
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Tapos na

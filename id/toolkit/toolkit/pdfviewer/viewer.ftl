@@ -309,6 +309,9 @@ pdfjs-highlight-floating-button1 =
     .aria-label = Sorot
 pdfjs-highlight-floating-button-label = Sorot
 
+## Default editor aria labels
+
+
 ## Remove button for the various kind of editor.
 
 pdfjs-editor-remove-ink-button =

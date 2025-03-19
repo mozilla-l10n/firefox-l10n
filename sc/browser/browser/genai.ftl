@@ -110,3 +110,6 @@ genai-onboarding-huggingchat-switch = Sèbera intre una sèrie de modellos abert
 genai-onboarding-huggingchat-price-2 = De badas; contu rechestu a pustis de unu nùmeru de rechestas
 genai-onboarding-lechat-generate = Gènera testu e còdighe
 genai-onboarding-lechat-price = De badas; contu rechestu
+
+## Model Optin Component
+

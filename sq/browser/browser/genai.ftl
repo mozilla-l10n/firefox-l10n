@@ -153,3 +153,6 @@ genai-onboarding-huggingchat-switch = Kaloni nga një grup modelesh të hapta n�
 genai-onboarding-huggingchat-price-2 = Falas, pas një numri kërkesash lypset llogari
 genai-onboarding-lechat-generate = Prodho tekst dhe kod
 genai-onboarding-lechat-price = Falas; lypset llogari
+
+## Model Optin Component
+

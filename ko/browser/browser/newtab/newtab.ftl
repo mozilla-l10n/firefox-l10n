@@ -124,6 +124,9 @@ newtab-menu-section-block = 차단
 # e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = 주제 팔로우 취소
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = 완료

@@ -118,6 +118,9 @@ newtab-menu-archive-pocket = Արխիվացնել { -pocket-brand-name }-ում
 newtab-menu-show-privacy-info = Մեր հովանավորները և ձեր գաղտնիությունը
 newtab-menu-about-fakespot = { -fakespot-brand-name }-ի մասին
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Ավարտ

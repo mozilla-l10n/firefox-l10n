@@ -125,3 +125,6 @@ genai-onboarding-gemini-price = Безплатни и платени опции;
 genai-onboarding-huggingchat-generate = Генериране на текст и код
 genai-onboarding-lechat-generate = Генериране на текст и код
 genai-onboarding-lechat-price = Безплатно е, но се изисква да имате профил
+
+## Model Optin Component
+

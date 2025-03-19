@@ -79,6 +79,9 @@ newtab-menu-delete-pocket = Dure' riña { -pocket-brand-name }
 newtab-menu-archive-pocket = Nagi'iaj chre' riña { -pocket-brand-name }
 newtab-menu-show-privacy-info = Nej duguî' rugûñu'unj ni sa tna'uej rayi'ît
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Gà' huaj

@@ -155,3 +155,6 @@ genai-onboarding-huggingchat-switch = Chuyển đổi giữa tập hợp các m�
 genai-onboarding-huggingchat-price-2 = Miễn phí; yêu cầu tài khoản cho một số lượng yêu cầu nhất định
 genai-onboarding-lechat-generate = Tạo văn bản và mã
 genai-onboarding-lechat-price = Miễn phí; yêu cầu tài khoản
+
+## Model Optin Component
+

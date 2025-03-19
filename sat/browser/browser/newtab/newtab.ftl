@@ -118,6 +118,9 @@ newtab-menu-archive-pocket = { -pocket-brand-name } ᱨᱮ ᱫᱚᱦᱚ ᱵᱟ�
 newtab-menu-show-privacy-info = ᱟᱞᱮ ᱠᱟᱹᱢᱤᱠᱚ ᱟᱨ ᱟᱢᱟᱜ ᱱᱤᱥᱚᱱ ᱠᱚ
 newtab-menu-about-fakespot = { -fakespot-brand-name } ᱵᱚᱵᱚᱛ
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = ᱦᱩᱭᱮᱱᱟ

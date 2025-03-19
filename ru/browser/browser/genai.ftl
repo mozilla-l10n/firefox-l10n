@@ -159,3 +159,6 @@ genai-onboarding-huggingchat-switch = Переключайтесь между р
 genai-onboarding-huggingchat-price-2 = Бесплатно; аккаунт требуется после определенного числа запросов
 genai-onboarding-lechat-generate = Генерация текста и кода
 genai-onboarding-lechat-price = Бесплатно; требуется аккаунт
+
+## Model Optin Component
+

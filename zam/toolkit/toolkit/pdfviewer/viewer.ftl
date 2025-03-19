@@ -85,6 +85,9 @@ pdfjs-password-ok-button = Bliy
 ## Editing
 
 
+## Default editor aria labels
+
+
 ## Remove button for the various kind of editor.
 
 

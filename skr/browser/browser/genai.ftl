@@ -93,3 +93,6 @@ genai-onboarding-claude-generate = عبارت تے کوڈ جنریٹ کرو
 genai-onboarding-huggingchat-generate = عبارت تے کوڈ جنریٹ کرو
 genai-onboarding-lechat-generate = عبارت تے کوڈ جنریٹ کرو
 genai-onboarding-lechat-price = مفت: کھاتہ ضروری ہے
+
+## Model Optin Component
+

@@ -154,3 +154,6 @@ genai-onboarding-huggingchat-switch = Emombue peteĩ ijurujáva aty apytépe
 genai-onboarding-huggingchat-price-2 = Reigua; eikotevẽ peteĩ mba’ete oĩ rire heta mba’ejerure
 genai-onboarding-lechat-generate = Emoheñói moñe’ẽrã ha ayvu
 genai-onboarding-lechat-price = Reigua; eikotevẽ mba’ete
+
+## Model Optin Component
+

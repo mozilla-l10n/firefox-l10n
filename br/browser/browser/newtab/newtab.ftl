@@ -121,6 +121,9 @@ newtab-menu-about-fakespot = A-zivout { -fakespot-brand-name }
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Stankañ
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Graet

@@ -79,6 +79,9 @@ newtab-menu-delete-pocket = Sojsa tetz{ -pocket-brand-name }
 newtab-menu-archive-pocket = Kol  u aq'one' tu{ -pocket-brand-name }
 newtab-menu-show-privacy-info = Unq'a xa'ole'  ve ni aq'on kulochb'al as tuk  va tiichajile'
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Tzojpisamal

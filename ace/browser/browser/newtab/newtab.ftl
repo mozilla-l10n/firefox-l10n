@@ -78,6 +78,9 @@ newtab-menu-save-to-pocket = Keubah u { -pocket-brand-name }
 newtab-menu-delete-pocket = Sampôh nibak { -pocket-brand-name }
 newtab-menu-archive-pocket = Peuarsip lam { -pocket-brand-name }
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 

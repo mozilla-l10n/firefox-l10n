@@ -452,3 +452,5 @@ multi-profile-callout-cta = Opprett ein profil
 
 dismiss-button-label = Ignorer
 sync-to-mobile-button-label = Synkronisder til mobil
+desktop-to-mobile-qr-code-alt =
+    .aria-label = QR-kode for å laste ned { -brand-product-name } for mobil

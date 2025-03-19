@@ -106,6 +106,9 @@ newtab-menu-delete-pocket = { -pocket-brand-name }-ৰ পৰা মচি প�
 newtab-menu-archive-pocket = { -pocket-brand-name }-ত আৰ্কাইভ কৰক
 newtab-menu-show-privacy-info = আমাৰ স্পঞ্চৰ আৰু আপোনাৰ গোপনিয়তা
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = হৈ গ'ল

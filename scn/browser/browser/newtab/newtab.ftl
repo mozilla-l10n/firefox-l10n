@@ -88,6 +88,9 @@ newtab-menu-delete-pocket = Scancella di { -pocket-brand-name }
 newtab-menu-archive-pocket = Archivia nne { -pocket-brand-name }
 newtab-menu-show-privacy-info = I nostri patrucinatura e a to privatizza
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Bonu

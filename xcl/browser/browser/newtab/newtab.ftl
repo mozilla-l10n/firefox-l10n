@@ -30,6 +30,9 @@ newtab-personalize-icon-label =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 

@@ -129,3 +129,6 @@ genai-onboarding-huggingchat-switch = ᱠᱷᱩᱞᱟᱹ ᱢᱳᱰᱮᱞ ᱨᱮ�
 genai-onboarding-huggingchat-price-2 = ᱯᱚᱞᱟ ᱛᱮ;  ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱱᱮᱦᱚᱨ ᱛᱟᱭᱚᱢ ᱠᱷᱟᱛᱟ ᱞᱟᱹᱠᱛᱤᱜ ᱠᱟᱱᱟ
 genai-onboarding-lechat-generate = ᱚᱞ ᱟᱨ ᱠᱳᱰ ᱵᱮᱱᱟᱣ ᱢᱮ
 genai-onboarding-lechat-price = ᱯᱚᱞᱟ ᱛᱮ;  ᱠᱷᱟᱛᱟ ᱞᱟᱹᱠᱛᱤᱭᱟᱱᱟ
+
+## Model Optin Component
+

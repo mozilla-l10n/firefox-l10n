@@ -81,6 +81,9 @@ newtab-menu-unpin = Díphionnáil
 newtab-menu-delete-history = Scrios ón Stair
 newtab-menu-save-to-pocket = Sábháil in { -pocket-brand-name }
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 

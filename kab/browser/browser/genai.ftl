@@ -95,3 +95,6 @@ genai-onboarding-huggingchat-generate = Sirew aḍris akked tengalt
 genai-onboarding-huggingchat-switch = Senfel gar tegrumma yemgaraden n tmudmin yeldin
 genai-onboarding-lechat-generate = Sirew aḍris akked tengalt
 genai-onboarding-lechat-price = D ilelli: amiḍan yettwasra
+
+## Model Optin Component
+

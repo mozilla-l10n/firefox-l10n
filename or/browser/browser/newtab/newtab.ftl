@@ -75,6 +75,9 @@ newtab-menu-save-to-pocket = { -pocket-brand-name }ରେ ସଂରକ୍ଷଣ 
 newtab-menu-delete-pocket = { -pocket-brand-name }ରୁ ବିଲୋପ କରନ୍ତୁ
 newtab-menu-archive-pocket = { -pocket-brand-name }ରେ ସକ୍ରିୟ
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = ସମାପ୍ତ

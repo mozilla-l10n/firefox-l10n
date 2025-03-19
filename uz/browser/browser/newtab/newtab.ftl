@@ -109,6 +109,9 @@ newtab-menu-delete-pocket = { -pocket-brand-name } xizmatidan oʻchirish
 newtab-menu-archive-pocket = { -pocket-brand-name } xizmatiga arxivlash
 newtab-menu-show-privacy-info = Bizning homiylarimiz va sizning maxfiyligingiz
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Tayyor

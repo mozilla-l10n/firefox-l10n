@@ -124,6 +124,9 @@ newtab-menu-section-block = Bloche
 # e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Smet di sta daûr al argoment
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Fat

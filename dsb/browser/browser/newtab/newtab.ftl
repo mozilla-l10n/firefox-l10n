@@ -124,6 +124,9 @@ newtab-menu-section-block = Blokěrowaś
 # e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Temje wěcej njeslědowaś
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Dokóńcone

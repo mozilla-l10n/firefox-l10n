@@ -109,6 +109,9 @@ newtab-menu-delete-pocket = Skasuj ze { -pocket-brand-name(case: "gen") }
 newtab-menu-archive-pocket = Archiwizuj we { -pocket-brand-name(case: "loc") }
 newtab-menu-show-privacy-info = Nasze spōnsory a twoja prywatność
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Fertich

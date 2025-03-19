@@ -160,6 +160,9 @@ pdfjs-web-fonts-disabled = ویب فانٹ چھ ڈیسیبلْڈ: ایمبیڈی
 ## Editing
 
 
+## Default editor aria labels
+
+
 ## Remove button for the various kind of editor.
 
 

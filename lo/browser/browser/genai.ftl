@@ -85,3 +85,6 @@ genai-onboarding-copilot-price = ມີຕົວເລືອກແບບຟຣ�
 genai-onboarding-huggingchat-generate = ສ້າງຂໍ້ຄວາມແລະ ລະຫັດ
 genai-onboarding-lechat-generate = ສ້າງຂໍ້ຄວາມ ແລະ ລະຫັດ
 genai-onboarding-lechat-price = ຟຣີ; ແຕ່ຕ້ອງມີບັນຊີເພື່ອໃຊ້ງານ
+
+## Model Optin Component
+

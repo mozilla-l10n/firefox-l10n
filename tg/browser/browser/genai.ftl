@@ -155,3 +155,6 @@ genai-onboarding-huggingchat-switch = Гузариш байни маҷмуи г�
 genai-onboarding-huggingchat-price-2 = Ройгон; ҳангоми истифода пас аз якчанд дархост ҳисоби шахсӣ лозим мешавад
 genai-onboarding-lechat-generate = Эҷод кардани матн ва рамз
 genai-onboarding-lechat-price = Ройгон; ҳисоби шахсӣ талаб карда мешавад
+
+## Model Optin Component
+

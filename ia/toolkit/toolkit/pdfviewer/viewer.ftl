@@ -320,6 +320,9 @@ pdfjs-editor-signature-button =
     .title = Adder signatura
 pdfjs-editor-signature-button-label = Adder signatura
 
+## Default editor aria labels
+
+
 ## Remove button for the various kind of editor.
 
 pdfjs-editor-remove-ink-button =

@@ -320,6 +320,9 @@ pdfjs-editor-signature-button =
     .title = Agiuntar ina signatura
 pdfjs-editor-signature-button-label = Agiuntar ina signatura
 
+## Default editor aria labels
+
+
 ## Remove button for the various kind of editor.
 
 pdfjs-editor-remove-ink-button =

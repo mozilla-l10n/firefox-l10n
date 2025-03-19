@@ -67,6 +67,9 @@ newtab-menu-save-to-pocket = { -pocket-brand-name } ಗೆ ಉಳಿಸಿ‍
 newtab-menu-delete-pocket = { -pocket-brand-name } ನಿಂದ ಅಳಿಸಿ
 newtab-menu-archive-pocket = { -pocket-brand-name } ಆರ್ಕೈವ್ ಮಾಡಿ
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 
