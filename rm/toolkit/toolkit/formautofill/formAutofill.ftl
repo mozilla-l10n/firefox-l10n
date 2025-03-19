@@ -81,3 +81,6 @@ autofill-category-name = num
 autofill-category-organization = organisaziun
 autofill-category-tel = telefon
 autofill-category-email = e-mail
+# This string is used in drop down suggestion when users try to autofill credit
+# card on an insecure website (without https).
+autofill-insecure-field-warning-description = Tenor { -brand-short-name } è questa pagina malsegira. L'endataziun automatica per formulars è temporarmain deactivada.
