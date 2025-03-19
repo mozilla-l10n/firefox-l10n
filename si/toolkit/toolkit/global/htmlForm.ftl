@@ -12,3 +12,4 @@ input-file-and-more-files =
         [one] සහ තව එකක්
        *[other] සහ තව { $fileCount }
     }
+form-post-secure-to-insecure-warning-continue = ඉදිරියට
