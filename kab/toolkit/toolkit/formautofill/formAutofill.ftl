@@ -49,3 +49,6 @@ autofill-category-name = isem
 autofill-category-organization = takebbanit
 autofill-category-tel = tiliγri
 autofill-category-email = imayl
+# This string is used in drop down suggestion when users try to autofill credit
+# card on an insecure website (without https).
+autofill-insecure-field-warning-description = { -brand-short-name } yufa-d d asmel araγlsan. Taččart tawurmant n iferka tensa akka tura
