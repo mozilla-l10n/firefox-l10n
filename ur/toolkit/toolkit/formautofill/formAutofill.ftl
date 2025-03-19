@@ -35,3 +35,6 @@ autofill-category-name = نام
 autofill-category-organization = تنظیم
 autofill-category-tel = فون
 autofill-category-email = ای میل
+# This string is used in drop down suggestion when users try to autofill credit
+# card on an insecure website (without https).
+autofill-insecure-field-warning-description = { -brand-short-name } کو غیر محفوظ سائٹ کا پتہ چلا ہے۔ فارم آٹوفل عارضی طور پر معذور کیا گیا ہے۔
