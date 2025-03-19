@@ -22,3 +22,20 @@ network-menu-summary-requests-count =
         [one] 1 solicitud
        *[other] { $requestCount } solicitudes
     }
+network-menu-summary-tooltip-requests-count =
+    .title = Número de solicitudes
+# This label is displayed in the network table footer providing the
+# transferred size.
+# Variables:
+#   $formattedContentSize (String): The formatted content size.
+#   $formattedTransferredSize (String): The formatted transferred size.
+network-menu-summary-transferred = { $formattedContentSize } / { $formattedTransferredSize } transferidos
+network-menu-summary-tooltip-transferred =
+    .title = Tamaño/tamaño transferido para todas las solicitudes
+# This label is displayed in the network table footer providing the
+# transfer time.
+# Variables:
+#   $formattedTime (String): The formatted transfer time.
+network-menu-summary-finish = Finalizado: { $formattedTime }
+network-menu-summary-tooltip-finish =
+    .title = Tiempo total requerido para cargar todas las solicitudes
