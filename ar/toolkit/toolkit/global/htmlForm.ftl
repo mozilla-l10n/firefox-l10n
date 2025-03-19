@@ -16,3 +16,9 @@ input-file-and-more-files =
         [many] و { $fileCount } أخرى
        *[other] و { $fileCount } أخرى
     }
+form-post-secure-to-insecure-warning-title = تحذير أمني
+form-post-secure-to-insecure-warning-message =
+    سترسل المعلومات التي أدخلتها عبر اتّصال غير مُعمّى و يمكن أن تقرأها أطراف خارجية بسهولة.
+    
+    أمتأكّد أنّك تريد المتابعة في إرسال هذه المعلومات؟
+form-post-secure-to-insecure-warning-continue = واصِل
