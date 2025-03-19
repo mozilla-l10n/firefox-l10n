@@ -12,6 +12,7 @@ input-file-and-more-files =
         [one] at isa pa
        *[other] at { $fileCount } pa
     }
+form-post-secure-to-insecure-warning-title = Babala ng Seguridad
 form-post-secure-to-insecure-warning-message =
     Ang impormasyon na ipinasok mo ay ipinadala sa loob ng isang insecure connection at maaaring basahin ng isang third party.
     
