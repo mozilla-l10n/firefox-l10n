@@ -16,3 +16,8 @@ input-file-and-more-files =
        *[other] ha { $fileCount } ouzhpenn
     }
 form-post-secure-to-insecure-warning-title = Kemenn diogelroez
+form-post-secure-to-insecure-warning-message =
+    An titouroù bet enlakaet ganeoc'h war ar bajenn-mañ a vo kaset dre ur c'hennask arvarus ha gallout a rafe bezañ lennet gant tud all.
+    
+    Ha sur oc'h e fell deoc'h kas an titouroù-se?
+form-post-secure-to-insecure-warning-continue = Kenderc'hel ganti
