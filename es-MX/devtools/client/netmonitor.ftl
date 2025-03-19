@@ -5,6 +5,16 @@
 
 ## Strings used in the status bar of the DevTools Network Panel
 
+# This label is displayed in the network table footer providing the
+# number of requests
+# Variables:
+#   $requestCount (Number): The total number of requests.
+network-menu-summary-requests-count =
+    { $requestCount ->
+        [0] No hay peticiones
+        [one] Una solicitud
+       *[other] { $requestCount } solicitudes
+    }
 network-menu-summary-tooltip-requests-count =
     .title = Número de peticiones
 # This label is displayed in the network table footer providing the
