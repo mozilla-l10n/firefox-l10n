@@ -12,4 +12,5 @@ input-file-and-more-files =
         [one] e mais um
        *[other] e mais { $fileCount }
     }
+form-post-secure-to-insecure-warning-title = Aviso de segurança
 form-post-secure-to-insecure-warning-continue = Continuar
