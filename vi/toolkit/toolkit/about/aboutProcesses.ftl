@@ -52,6 +52,7 @@ about-processes-remote-sandbox-broker-process = Remote Sandbox Broker ({ $pid })
 about-processes-fork-server-process = Máy chủ Fork ({ $pid })
 about-processes-preallocated-process = Được tải trước ({ $pid })
 about-processes-utility-process = Tiện ích ({ $pid })
+about-processes-inference-process = Suy luận ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
