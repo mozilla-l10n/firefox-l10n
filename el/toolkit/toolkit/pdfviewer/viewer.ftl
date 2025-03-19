@@ -354,6 +354,11 @@ pdfjs-editor-free-highlight-thickness-title =
 pdfjs-editor-signature-add-signature-button =
     .title = Προσθήκη νέας υπογραφής
 pdfjs-editor-signature-add-signature-button-label = Προσθήκη νέας υπογραφής
+# Used on the button to use an already saved signature.
+# Variables:
+#   $description (String) - a string describing/labeling the signature.
+pdfjs-editor-add-saved-signature-button =
+    .title = Αποθηκευμένη υπογραφή: { $description }
 # .default-content is used as a placeholder in an empty text editor.
 pdfjs-free-text2 =
     .aria-label = Επεξεργασία κειμένου
@@ -586,6 +591,9 @@ pdfjs-editor-edit-signature-update-button = Ενημέρωση
 pdfjs-editor-delete-signature-button =
     .title = Αφαίρεση υπογραφής
 pdfjs-editor-delete-signature-button-label = Αφαίρεση υπογραφής
+pdfjs-editor-delete-signature-button1 =
+    .title = Αφαίρεση αποθηκευμένης υπογραφής
+pdfjs-editor-delete-signature-button-label1 = Αφαίρεση αποθηκευμένης υπογραφής
 
 ## Editor toolbar
 

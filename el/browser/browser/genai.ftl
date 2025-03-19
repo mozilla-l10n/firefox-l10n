@@ -158,3 +158,9 @@ genai-onboarding-lechat-price = Δωρεάν· απαιτείται λογαρι
 
 ## Model Optin Component
 
+genai-model-optin-continue =
+    .label = Συνέχεια
+genai-model-optin-optout =
+    .label = Ακύρωση
+genai-model-optin-cancel =
+    .label = Ακύρωση
