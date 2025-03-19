@@ -12,3 +12,4 @@ input-file-and-more-files =
         [one] y 1 más
        *[other] y { $fileCount } más
     }
+form-post-secure-to-insecure-warning-continue = Siguir
