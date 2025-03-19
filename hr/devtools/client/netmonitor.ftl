@@ -5,6 +5,13 @@
 
 ## Strings used in the status bar of the DevTools Network Panel
 
+# Tooltip for the performance button in the status bar
+network-menu-summary-tooltip-perf =
+    .title = Pokreni analizu performanse
+network-menu-summary-tooltip-domcontentloaded =
+    .title = Vrijeme, kad se dogodio “DOMContentLoaded” događaj
+network-menu-summary-tooltip-load =
+    .title = Vrijeme, kad se dogodio “load” događaj
 # This label is displayed in the network table footer providing the
 # number of requests
 # Variables:
