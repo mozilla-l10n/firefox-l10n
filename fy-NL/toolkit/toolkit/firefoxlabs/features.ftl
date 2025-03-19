@@ -29,3 +29,7 @@ experimental-features-group-customize-browsing =
 experimental-features-contextual-password-manager =
     .label = Wachtwurden yn de sydbalke
 experimental-features-contextual-password-manager-description = Benaderje jo wachtwurden streekrjocht fan de sydbalke út. Nea mear sykje of wachtwurden opnij ynstelle wannear’t jo jo probearje oan te melden. Selektearje ‘Wachtwurden yn de sydbalke’ om dizze funksje te brûken. Gean dernei nei jo algemiene ynstellingen en selektearje ûnder Browseryndieling de opsje ‘Sydbalke toane’. Pas dêrnei jo sydbalke oan troch ‘Wachtwurden’ te selektearjen. As jo it probearje, <a data-l10n-name="connect">lit dan witte wat jo derfan fine</a>.
+# New Tab Custom Wallpapers
+experimental-features-custom-wallpaper =
+    .label = Kies in oanpaste eftergrûn of kleur foar Nij-ljepbledside
+experimental-features-custom-wallpaper-description = Laad jo eigen eftergrûn op of kies in oanpaste kleur foar de eftergrûn fan jo Nij-ljepblêdside .
