@@ -81,3 +81,6 @@ autofill-category-name = שם
 autofill-category-organization = ארגון
 autofill-category-tel = טלפון
 autofill-category-email = דוא״ל
+# This string is used in drop down suggestion when users try to autofill credit
+# card on an insecure website (without https).
+autofill-insecure-field-warning-description = ‏{ -brand-short-name } זיהה אתר שאינו מאובטח. מילוי טפסים אוטומטי מנוטרל באופן זמני
