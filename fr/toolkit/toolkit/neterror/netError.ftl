@@ -158,6 +158,8 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Si vous ne reconnaissez pas
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> a recours à une stratégie de sécurité HTTP Strict Transport Security (HSTS), une connexion sécurisée est obligatoire pour y accéder. Vous ne pouvez pas ajouter d’exception pour visiter ce site.
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = Probablement rien, car il est probable que le problème vienne du site.
 certerror-blocked-by-corp-headers-description = Quelquefois les sites web installent des protections pour eux mêmes et pour les personnes comme vous contre des interactions indésirables avec d’autres sites.
+certerror-coop-learn-more = En savoir plus sur les stratégies des ouvertures multi-origines, Cross Origin Opener Policies (COOP)
+certerror-coep-learn-more = En savoir plus sur les stratégies des intégrations multi-origines, Cross Origin Embedder Policies (COEP)
 # Variables:
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").

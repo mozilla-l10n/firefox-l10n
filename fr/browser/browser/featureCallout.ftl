@@ -92,6 +92,7 @@ sidebar-pins-callout-cta-button = Épingler cet onglet
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Le panneau latéral : l’emplacement de vos outils et onglets
 sidebar-customization-callout-1-subtitle = Le panneau latéral de { -brand-product-name } vous donne un accès rapide à votre historique de navigation, aux onglets d’autres appareils et à un chatbot IA, le tout sans quitter la vue principale.
 sidebar-customization-callout-callout-button = Personnaliser le panneau latéral
 sidebar-customization-callout-dismiss-button = Masquer le panneau latéral
