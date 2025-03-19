@@ -12,3 +12,20 @@ network-menu-summary-tooltip-domcontentloaded =
     .title = “DOMContentLoaded” 이벤트가 일어나기까지 걸린 시간
 network-menu-summary-tooltip-load =
     .title = “load” 이벤트가 일어나기까지 걸린 시간
+network-menu-summary-tooltip-requests-count =
+    .title = 요청 수
+# This label is displayed in the network table footer providing the
+# transferred size.
+# Variables:
+#   $formattedContentSize (String): The formatted content size.
+#   $formattedTransferredSize (String): The formatted transferred size.
+network-menu-summary-transferred = { $formattedContentSize } / { $formattedTransferredSize } 전송됨
+network-menu-summary-tooltip-transferred =
+    .title = 모든 요청에 대한 크기/전송된 크기
+# This label is displayed in the network table footer providing the
+# transfer time.
+# Variables:
+#   $formattedTime (String): The formatted transfer time.
+network-menu-summary-finish = 끝: { $formattedTime }
+network-menu-summary-tooltip-finish =
+    .title = 모든 요청을 읽어들이는데 걸린 시간
