@@ -13,3 +13,4 @@ input-file-and-more-files =
         [few] și încă { $fileCount }
        *[other] și încă { $fileCount }
     }
+form-post-secure-to-insecure-warning-title = Avertisment de securitate
