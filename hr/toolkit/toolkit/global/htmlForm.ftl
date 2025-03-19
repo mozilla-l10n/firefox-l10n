@@ -13,3 +13,4 @@ input-file-and-more-files =
         [few] i još { $fileCount }
        *[other] i još { $fileCount }
     }
+form-post-secure-to-insecure-warning-title = Sigurnosno upozorenje
