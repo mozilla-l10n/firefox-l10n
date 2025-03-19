@@ -8,3 +8,4 @@
 # Variables:
 #   $fileCount (Number): The number of remaining files.
 input-file-and-more-files = 다른 파일 { $fileCount }개
+form-post-secure-to-insecure-warning-title = 보안 경고
