@@ -12,3 +12,8 @@ input-file-and-more-files =
         [one] et 1 supplémentaire
        *[other] et { $fileCount } supplémentaires
     }
+form-post-secure-to-insecure-warning-title = Avertissement de sécurité
+form-post-secure-to-insecure-warning-message =
+    Les informations saisies vont être transmises en clair (sans chiffrement). Elles peuvent donc éventuellement être interceptées et lues lors de leur acheminement.
+    Voulez-vous vraiment transmettre ces informations ?
+form-post-secure-to-insecure-warning-continue = Continuer
