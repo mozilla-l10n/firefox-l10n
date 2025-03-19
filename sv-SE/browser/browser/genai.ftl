@@ -158,3 +158,9 @@ genai-onboarding-lechat-price = Gratis; konto krävs
 
 ## Model Optin Component
 
+genai-model-optin-continue =
+    .label = Fortsätt
+genai-model-optin-optout =
+    .label = Avbryt
+genai-model-optin-cancel =
+    .label = Avbryt

@@ -29,3 +29,7 @@ experimental-features-group-customize-browsing =
 experimental-features-contextual-password-manager =
     .label = Lösenord i sidofältet
 experimental-features-contextual-password-manager-description = Kom åt dina lösenord direkt från sidofältet. Inget mer letande eller återställning av lösenord när du försöker logga in. För att använda den här funktionen väljer du lösenord i sidofältet. Gå sedan till dina allmänna inställningar och under webbläsarlayout, välj visa sidofält. Anpassa sedan sidofältet genom att välja lösenord. Om du provar det, <a data-l10n-name="connect">berätta för oss vad du tycker</a>.
+# New Tab Custom Wallpapers
+experimental-features-custom-wallpaper =
+    .label = Välj en egen bakgrundsbild eller färg för Ny flik
+experimental-features-custom-wallpaper-description = Ladda upp din egen bakgrundsbild eller välj en egen färg för din bakgrund till ny flik.

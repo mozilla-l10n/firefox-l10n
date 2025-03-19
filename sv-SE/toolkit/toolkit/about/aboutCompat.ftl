@@ -11,6 +11,7 @@ label-more-information = Mer information: Bugg { $bug }
 label-overrides = Överskridningar för användaragenter
 text-disabled-in-about-config = Den här funktionen har inaktiverats i about:config
 text-no-interventions = Inga åtgärder används
+text-page-title = Webbkompatibilitet
 text-no-overrides = Inga UA-överskridningar används
 text-title = about:compat
 
