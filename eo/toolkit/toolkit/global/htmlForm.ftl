@@ -12,3 +12,9 @@ input-file-and-more-files =
         [one] kaj unu alia
        *[other] kaj { $fileCount } aliaj
     }
+form-post-secure-to-insecure-warning-title = Sekureca averto
+form-post-secure-to-insecure-warning-message =
+    La informoj kiujn vi enigis en tiu ĉi paĝo estos senditaj per nesekura konekto kaj povus estis legitaj de iu alia.
+    
+    Ĉu vi certe volas sendi tiujn ĉi informojn?
+form-post-secure-to-insecure-warning-continue = Daŭrigi
