@@ -13,3 +13,9 @@ input-file-and-more-files =
         [few] i { $fileCount } pliki więcej
        *[many] i { $fileCount } plików więcej
     }
+form-post-secure-to-insecure-warning-title = Ostrzeżenie bezpieczeństwa
+form-post-secure-to-insecure-warning-message =
+    Wprowadzone na tej stronie informacje zostaną wysłane poprzez niezabezpieczone połączenie, narażając je na odczytanie przez innych.
+    
+    Czy na pewno wysłać te informacje?
+form-post-secure-to-insecure-warning-continue = Kontynuuj
