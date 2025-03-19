@@ -12,6 +12,18 @@ network-menu-summary-tooltip-domcontentloaded =
     .title = Cas, gaž se tšojenje “DOMContentLoaded” stawa
 network-menu-summary-tooltip-load =
     .title = Cas, gaž se tšojenje “load” stawa
+# This label is displayed in the network table footer providing the
+# number of requests
+# Variables:
+#   $requestCount (Number): The total number of requests.
+network-menu-summary-requests-count =
+    { $requestCount ->
+        [0] Žedne napšašowanja
+        [one] Jadno napšašowanje
+        [two] { $requestCount } napšašowani
+        [few] { $requestCount } napšašowanja
+       *[other] { $requestCount } napšašowanja
+    }
 network-menu-summary-tooltip-requests-count =
     .title = Licba napšašowanjow
 # This label is displayed in the network table footer providing the
