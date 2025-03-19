@@ -14,4 +14,8 @@ input-file-and-more-files =
        *[other] a { $fileCount } dalších
     }
 form-post-secure-to-insecure-warning-title = Bezpečnostní varování
+form-post-secure-to-insecure-warning-message =
+    Informace, které jste zadali, budou odeslány přes nezabezpečené spojení a mohou být tak přečteny třetí stranou.
+    
+    Opravdu chcete tyto informace odeslat?
 form-post-secure-to-insecure-warning-continue = Pokračovat
