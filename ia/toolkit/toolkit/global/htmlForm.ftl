@@ -12,3 +12,4 @@ input-file-and-more-files =
         [one] e uno plus
        *[other] e { $fileCount } plus
     }
+form-post-secure-to-insecure-warning-title = Advertentia de securitate
