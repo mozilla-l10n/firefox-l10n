@@ -64,3 +64,6 @@ autofill-category-name = නම
 autofill-category-organization = සංවිධානය
 autofill-category-tel = දුරකථනය
 autofill-category-email = වි-තැපෑල
+# This string is used in drop down suggestion when users try to autofill credit
+# card on an insecure website (without https).
+autofill-insecure-field-warning-description = { -brand-short-name } විසින් අනාරක්‍ෂිත අඩවියක් හඳුනාගෙන ඇත. ආකෘති ස්වයං පිරවුම තාවකාලිකව අබලයි.

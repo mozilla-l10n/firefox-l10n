@@ -81,3 +81,6 @@ autofill-category-name = ном
 autofill-category-organization = ташкилот
 autofill-category-tel = телефон
 autofill-category-email = почтаи электронӣ
+# This string is used in drop down suggestion when users try to autofill credit
+# card on an insecure website (without https).
+autofill-insecure-field-warning-description = { -brand-short-name } сомонаи хатарнокро муайян кард. «Пуркунии шакл ба таври худкор» муваққатан ғайрифаъол карда шуд.

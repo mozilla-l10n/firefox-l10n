@@ -12,3 +12,9 @@ input-file-and-more-files =
         [one] ki acel mukene
        *[other] ki { $fileCount } mukene
     }
+form-post-secure-to-insecure-warning-title = Cik me gwoko kuc
+form-post-secure-to-insecure-warning-message =
+    Ngec ma i keto i pot buk man ki bicwalo ki kube ma pe ki ber bedo kadong ngat mukene romo kwano ne.
+    
+    Imoko ada ni imito cwalo ngec man?
+form-post-secure-to-insecure-warning-continue = Mede

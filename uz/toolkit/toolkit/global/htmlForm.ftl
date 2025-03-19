@@ -12,3 +12,9 @@ input-file-and-more-files =
         [one] va bitta koʻproq
        *[other] va { $fileCount } ta koʻproq
     }
+form-post-secure-to-insecure-warning-title = Xavfsizlik ogohlantirishi
+form-post-secure-to-insecure-warning-message =
+    Siz ushbu sahifaga kiritgan ma’lumot xavfli ulanish orqali yuboriladi va begonalar tomonidan o‘qilishi mumkin.
+    
+    Ushbu ma’lumotni jo‘natishni xohlaysizmi?
+form-post-secure-to-insecure-warning-continue = Davom etish

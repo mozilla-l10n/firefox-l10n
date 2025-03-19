@@ -12,3 +12,9 @@ input-file-and-more-files =
         [one] en nog één
        *[other] en nog { $fileCount }
     }
+form-post-secure-to-insecure-warning-title = Beveiligingswaarschuwing
+form-post-secure-to-insecure-warning-message =
+    De gegevens die u op deze pagina hebt ingevoerd, zullen over een niet-beveiligde verbinding worden verzonden en zouden door derden kunnen worden gelezen.
+    
+    Weet u zeker dat u deze gegevens wilt verzenden?
+form-post-secure-to-insecure-warning-continue = Doorgaan

@@ -12,3 +12,9 @@ input-file-and-more-files =
         [one] e gooto goɗɗo
        *[other] e { $fileCount } goɗɗo
     }
+form-post-secure-to-insecure-warning-title = Reentino Kisal
+form-post-secure-to-insecure-warning-message =
+    Humpito ngo naatnu-ɗaa ngoo foti neldireede ko ceŋol ngol gannaaka etee ena weeɓi tareede yimɓe woɗɓe.
+    
+    Aɗa yenanaa yiɗde jokkude e neldude ngoo humpito?
+form-post-secure-to-insecure-warning-continue = Jokku

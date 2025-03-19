@@ -8,3 +8,9 @@
 # Variables:
 #   $fileCount (Number): The number of remaining files.
 input-file-and-more-files = và { $fileCount } cái nữa
+form-post-secure-to-insecure-warning-title = Cảnh báo bảo mật
+form-post-secure-to-insecure-warning-message =
+    Thông tin bạn nhập vào sẽ được gửi thông qua một kết nối không bảo mật và có thể bị một bên thứ ba đọc được.
+    
+    Bạn có chắc chắn muốn gửi thông tin này không?
+form-post-secure-to-insecure-warning-continue = Tiếp tục

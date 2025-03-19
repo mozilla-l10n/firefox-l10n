@@ -12,3 +12,9 @@ input-file-and-more-files =
         [one] e 1 suplementari
        *[other] e { $fileCount } suplementaris
     }
+form-post-secure-to-insecure-warning-title = Avertiment de seguretat
+form-post-secure-to-insecure-warning-message =
+    Sètz a mand de mandar sus una connexion pas chifrada las entresenhas qu'avètz picadas e un tèrç las poiriá legir aisidament.
+    
+    Volètz vertadièrament contunhar a enviar aquestas entresenhas ?
+form-post-secure-to-insecure-warning-continue = Contunhar

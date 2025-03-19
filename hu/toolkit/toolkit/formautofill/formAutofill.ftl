@@ -81,3 +81,6 @@ autofill-category-name = név
 autofill-category-organization = szervezet
 autofill-category-tel = telefonszám
 autofill-category-email = e-mail
+# This string is used in drop down suggestion when users try to autofill credit
+# card on an insecure website (without https).
+autofill-insecure-field-warning-description = A { -brand-short-name } nem biztonságos oldalt észlelt. Az automatikus űrlapkitöltés ideiglenesen letiltva

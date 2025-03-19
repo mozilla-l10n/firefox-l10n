@@ -12,3 +12,9 @@ input-file-and-more-files =
         [one] nenye engakumbi
        *[other] ne-{ $fileCount } engakumbi
     }
+form-post-secure-to-insecure-warning-title = Isilumkiso Sokhuseleko
+form-post-secure-to-insecure-warning-message =
+    Ulwazi olufake kweli phepha luza kuthunyelwa ngaphezu komdibaniso woguqulelo oluntsonkothileyo kwaye lungafundeka lula liqela lesithathu.
+    
+    Uqinisekile ukuba ufuna ukuthumela olu lwazi?
+form-post-secure-to-insecure-warning-continue = Qhuba

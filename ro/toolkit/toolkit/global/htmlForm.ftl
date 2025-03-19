@@ -13,3 +13,9 @@ input-file-and-more-files =
         [few] și încă { $fileCount }
        *[other] și încă { $fileCount }
     }
+form-post-secure-to-insecure-warning-title = Avertisment de securitate
+form-post-secure-to-insecure-warning-message =
+    Informațiile introduse pe această pagină vor fi trimise printr-o conexiune nesecurizată și ar putea fi citite de un terț.
+    
+    Sigur vrei să trimiți aceste informații?
+form-post-secure-to-insecure-warning-continue = Continuă

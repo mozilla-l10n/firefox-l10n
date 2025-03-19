@@ -16,3 +16,9 @@ input-file-and-more-files =
         [many] a { $fileCount } arall
        *[other] a { $fileCount } arall
     }
+form-post-secure-to-insecure-warning-title = Rhybudd Diogelwch
+form-post-secure-to-insecure-warning-message =
+    Mae'r wybodaeth rydych wedi ei gyflwyno ar fin cael ei yrru ar draws cysylltiad sydd heb ei hamgryptio a gall gael ei ddarllen gan drydydd parti.
+    
+    Ydych chi'n siŵr eich bod eisiau parhau i yrru'r wybodaeth?
+form-post-secure-to-insecure-warning-continue = Ymlaen

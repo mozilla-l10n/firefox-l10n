@@ -12,3 +12,9 @@ input-file-and-more-files =
         [one] ва як файли дигар
        *[other] ва { $fileCount } файли дигар
     }
+form-post-secure-to-insecure-warning-title = Огоҳӣ дар бораи амният
+form-post-secure-to-insecure-warning-message =
+    Маълумоте, ки шумо дар ин саҳифа ворид кардед, тавассути пайвасти беэътимод фиристода мешавад ва он метавонад аз тарафи шахсони сеюм хонда шавад.
+    
+    Шумо мутмаин ҳастед, ки мехоҳед ин маълумотро ирсол намоед?
+form-post-secure-to-insecure-warning-continue = Идома додан

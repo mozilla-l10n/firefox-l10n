@@ -13,3 +13,9 @@ input-file-and-more-files =
         [few] і { $fileCount } іншых
        *[many] і { $fileCount } іншых
     }
+form-post-secure-to-insecure-warning-title = Папярэджанне аб бяспецы
+form-post-secure-to-insecure-warning-message =
+    Інфармацыя, ўведзеная вамі на гэтай старонцы, будзе адпраўлена па неабароненым злучэнні і можа быць прачытана трэцім бокам.
+    
+    Вы ўпэўнены, што хочаце адправіць гэту інфармацыю?
+form-post-secure-to-insecure-warning-continue = Працягваць

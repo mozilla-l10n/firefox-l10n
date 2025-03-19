@@ -8,3 +8,9 @@
 # Variables:
 #   $fileCount (Number): The number of remaining files.
 input-file-and-more-files = تْہ اکھ ذیادْ؛ تْہ{ $fileCount }  مزید
+form-post-secure-to-insecure-warning-title = حفٲظتی آگہی
+form-post-secure-to-insecure-warning-message =
+    انفارمیشن یوس توہیہ یتھ پیجس پیٹھ اینٹر کْرمْژ چھ یِیہ سوزنْہ أکِس غیر محفوظ کنیکشنس پیٹھ تْہ ہیکِہ پرنْہ یِتھ اکِہ تھأرڈ پارٹی ذریعہ۔
+    
+    کیاہ توہیہ چھیو پْز پأٹھ یژھان یہ انفارمیشن سوزْنئ؟
+form-post-secure-to-insecure-warning-continue = جئریرتھَویو

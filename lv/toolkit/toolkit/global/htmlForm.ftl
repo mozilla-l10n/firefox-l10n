@@ -13,3 +13,9 @@ input-file-and-more-files =
         [one] un vēl { $fileCount }
        *[other] un vēl { $fileCount }
     }
+form-post-secure-to-insecure-warning-title = Drošības brīdinājums
+form-post-secure-to-insecure-warning-message =
+    Šajā lapā ievadītā informācija tiks pārsūtīta pa nedrošu savienojumu, ko var noklausīties trešās puses
+    
+    Vai vēlaties turpināt un nosūtīt informāciju?
+form-post-secure-to-insecure-warning-continue = Turpināt

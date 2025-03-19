@@ -44,3 +44,6 @@ autofill-category-name = isim
 autofill-category-organization = teşkilât
 autofill-category-tel = telefon
 autofill-category-email = e-poçta
+# This string is used in drop down suggestion when users try to autofill credit
+# card on an insecure website (without https).
+autofill-insecure-field-warning-description = { -brand-short-name } emniyetsiz bir sayt aşkârlağandır. Forma Avtotoldurış muvaqqaten naqabilleştirilgendir.

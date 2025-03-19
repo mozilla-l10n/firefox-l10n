@@ -12,3 +12,9 @@ input-file-and-more-files =
         [one] र अझै एउटा
        *[other] र अझै { $fileCount } बढि
     }
+form-post-secure-to-insecure-warning-title = सुरक्षा चेतावनी
+form-post-secure-to-insecure-warning-message =
+    यो पृष्ठमा दिनुभएको जानकारी असुरक्षित माध्यमबाट पठाइने छ र तेस्रो पक्षले पढ्न सक्नेछ।
+    
+    के तपाईँ निश्चित रुपमा यो जानकारी पठाउन चाहनुहुन्छ?
+form-post-secure-to-insecure-warning-continue = जारी राख्नुहोस्

@@ -46,3 +46,6 @@ autofill-category-name = numele
 autofill-category-organization = organizația
 autofill-category-tel = numărul de telefon
 autofill-category-email = e-mailul
+# This string is used in drop down suggestion when users try to autofill credit
+# card on an insecure website (without https).
+autofill-insecure-field-warning-description = { -brand-short-name } a detectat un site nesigur. Completarea automată a formularelor este dezactivată temporar.

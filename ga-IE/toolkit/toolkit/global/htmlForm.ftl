@@ -15,3 +15,9 @@ input-file-and-more-files =
         [many] agus { $fileCount } gcinn eile
        *[other] agus { $fileCount } ceann eile
     }
+form-post-secure-to-insecure-warning-title = Rabhadh Slándála
+form-post-secure-to-insecure-warning-message =
+    Seolfar an t-eolas a chuir tú isteach ar an leathanach seo thar ceangal neamhshlán, agus seans go mbeadh tríú páirtí in ann é a léamh.
+    
+    An bhfuil tú cinnte gur mhaith leat an t-eolas seo a sheoladh?
+form-post-secure-to-insecure-warning-continue = Ar Aghaidh

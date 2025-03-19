@@ -44,3 +44,6 @@ autofill-category-name = nama
 autofill-category-organization = organisasi
 autofill-category-tel = telefon
 autofill-category-email = e-mel
+# This string is used in drop down suggestion when users try to autofill credit
+# card on an insecure website (without https).
+autofill-insecure-field-warning-description = { -brand-short-name } telah mengesan laman yang tidak selamat. Auto-isi Borang dinyahdayakan sementara

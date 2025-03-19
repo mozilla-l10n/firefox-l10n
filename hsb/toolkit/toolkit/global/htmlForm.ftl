@@ -14,3 +14,9 @@ input-file-and-more-files =
         [few] a { $fileCount } dalše
        *[other] a { $fileCount } dalšich
     }
+form-post-secure-to-insecure-warning-title = Wěstotne warnowanje
+form-post-secure-to-insecure-warning-message =
+    Informacije, kotrež sće na stronje zapodał, so přez njewěsty zwisk pósćelu a móhli so wot třećich čitać.
+    
+    Chceće tute informacije woprawdźe słać?
+form-post-secure-to-insecure-warning-continue = Pokročować

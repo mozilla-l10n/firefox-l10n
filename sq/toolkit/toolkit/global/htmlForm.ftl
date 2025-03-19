@@ -12,3 +12,9 @@ input-file-and-more-files =
         [one] dhe një tjetër
        *[other] dhe { $fileCount } të tjera
     }
+form-post-secure-to-insecure-warning-title = Sinjalizim Sigurie
+form-post-secure-to-insecure-warning-message =
+    Të dhënat që keni dhënë në këtë faqe do të dërgohen përmes një lidhjeje jo të siguruar dhe mund të lexohen nga palë të treta.
+    
+    Jeni i sigurt se doni të dërgohen këto të dhëna?
+form-post-secure-to-insecure-warning-continue = Vazhdo

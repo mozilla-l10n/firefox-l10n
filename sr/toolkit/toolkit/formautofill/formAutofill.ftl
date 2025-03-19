@@ -44,3 +44,6 @@ autofill-category-name = име
 autofill-category-organization = организација
 autofill-category-tel = телефон
 autofill-category-email = е-пошта
+# This string is used in drop down suggestion when users try to autofill credit
+# card on an insecure website (without https).
+autofill-insecure-field-warning-description = { -brand-short-name } је открио небезбедан сајт. Аутоматско попуњавање форми је привремено онемогућено.

@@ -81,3 +81,6 @@ autofill-category-name = meno
 autofill-category-organization = organizáciu
 autofill-category-tel = telefónne číslo
 autofill-category-email = e‑mailovú adresu
+# This string is used in drop down suggestion when users try to autofill credit
+# card on an insecure website (without https).
+autofill-insecure-field-warning-description = Aplikácia { -brand-short-name } rozpoznala nezabezpečenú stránku. Automatické dopĺňanie formulárov je dočasne zakázané.

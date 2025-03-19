@@ -8,3 +8,9 @@
 # Variables:
 #   $fileCount (Number): The number of remaining files.
 input-file-and-more-files = 還有 { $fileCount } 個檔案
+form-post-secure-to-insecure-warning-title = 安全性警告
+form-post-secure-to-insecure-warning-message =
+    您在此頁面輸入的資訊將透過不安全的連線傳輸，可能會被其他人讀取。
+    
+    您確定要傳送這些資訊嗎？
+form-post-secure-to-insecure-warning-continue = 繼續

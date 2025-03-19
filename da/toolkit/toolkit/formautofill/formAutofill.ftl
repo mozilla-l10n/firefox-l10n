@@ -81,3 +81,6 @@ autofill-category-name = navn
 autofill-category-organization = organisation
 autofill-category-tel = telefonnummer
 autofill-category-email = mailadresse
+# This string is used in drop down suggestion when users try to autofill credit
+# card on an insecure website (without https).
+autofill-insecure-field-warning-description = Webstedet er ikke sikkert og { -brand-short-name } har derfor midlertidigt deaktiveret autofyldning.

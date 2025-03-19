@@ -81,3 +81,6 @@ autofill-category-name = 姓名
 autofill-category-organization = 組織
 autofill-category-tel = 電話
 autofill-category-email = 電子郵件地址
+# This string is used in drop down suggestion when users try to autofill credit
+# card on an insecure website (without https).
+autofill-insecure-field-warning-description = { -brand-short-name } 偵測到此網站為不安全的網站，將暫時停用表單自動填寫功能

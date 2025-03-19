@@ -12,3 +12,9 @@ input-file-and-more-files =
         [one] a'ngo ma
        *[other] ni{ $fileCount } doj
     }
+form-post-secure-to-insecure-warning-title = Hua 'ngo sa hua ahii
+form-post-secure-to-insecure-warning-message =
+    Nuguan' ga'nínt riña pajinâ nan ni nitaj si hua rán nìko rayi'ij ni ga'ue gahia a'ngô guìi man.
+    
+    ¿Hua nika ruhuât ga'nïnjt nuguan' nan gan'an nî'?
+form-post-secure-to-insecure-warning-continue = Guij ne' ñaan

@@ -41,3 +41,6 @@ autofill-category-name = pangalan
 autofill-category-organization = organisasyon
 autofill-category-tel = telepono
 autofill-category-email = email
+# This string is used in drop down suggestion when users try to autofill credit
+# card on an insecure website (without https).
+autofill-insecure-field-warning-description = { -brand-short-name } ang isang hindi secure na site. Pansamantalang hindi pinagana ang Form Autofill

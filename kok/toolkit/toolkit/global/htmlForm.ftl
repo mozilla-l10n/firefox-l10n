@@ -12,3 +12,5 @@ input-file-and-more-files =
         [one] आनी एक अदिक
        *[other] आनी { $fileCount } अदिक
     }
+form-post-secure-to-insecure-warning-title = सुरक्षा शिटकावणी
+form-post-secure-to-insecure-warning-continue = सुरू दवरात

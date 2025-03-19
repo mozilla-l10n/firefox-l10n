@@ -12,3 +12,9 @@ input-file-and-more-files =
         [one] және тағы біреу
        *[other] және тағы { $fileCount }
     }
+form-post-secure-to-insecure-warning-title = Қауіпсіздік ескертуі
+form-post-secure-to-insecure-warning-message =
+    Сіз бұл парақта енгізген барлық ақпарат қауіпсіз емес байланыс арқылы жіберілетін болады, және оны үшінші жақтар оқи алады.
+    
+    Бұл ақпаратты жіберуді шынымен қалайсыз ба?
+form-post-secure-to-insecure-warning-continue = Жалғастыру

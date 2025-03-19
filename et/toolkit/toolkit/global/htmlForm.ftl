@@ -12,3 +12,9 @@ input-file-and-more-files =
         [one] ja veel üks
        *[other] ja veel { $fileCount }
     }
+form-post-secure-to-insecure-warning-title = Turvahoiatus
+form-post-secure-to-insecure-warning-message =
+    Lehele sisestatud andmed edastatakse ebaturvalise ühenduse kaudu ja seda võivad lugeda kolmandad osapooled.
+    
+    Kas oled kindel, et soovid seda infot edastada?
+form-post-secure-to-insecure-warning-continue = Jätka

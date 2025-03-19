@@ -12,3 +12,9 @@ input-file-and-more-files =
         [one] és még egy
        *[other] és még { $fileCount }
     }
+form-post-secure-to-insecure-warning-title = Biztonsági figyelmeztetés
+form-post-secure-to-insecure-warning-message =
+    A jelen oldalon beírt információk egy nem biztonságos kapcsolaton keresztül kerülnek elküldésre, így egy harmadik fél elolvashatja ezeket.
+    
+    Biztos, hogy el akarja küldeni az információkat?
+form-post-secure-to-insecure-warning-continue = Folytatás

@@ -14,3 +14,9 @@ input-file-and-more-files =
         [few] agus { $fileCount } a bharrachd
        *[other] agus { $fileCount } a bharrachd
     }
+form-post-secure-to-insecure-warning-title = Rabhadh tèarainteachd
+form-post-secure-to-insecure-warning-message =
+    Thèid am fiosrachadh a chuir thu a-steach air an duilleag seo a chur a-null air ceangal gun chrioptachadh agus b' urrainn do threas pàrtaidh a leughadh furasta gu leòr.
+    
+    A bheil thu cinnteach gu bheil thu ag iarraidh am fiosrachadh seo a chur a-null?
+form-post-secure-to-insecure-warning-continue = Lean air adhart

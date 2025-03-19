@@ -13,3 +13,9 @@ input-file-and-more-files =
         [few] a { $fileCount } ďalšie
        *[other] a { $fileCount } ďalších
     }
+form-post-secure-to-insecure-warning-title = Bezpečnostné upozornenie
+form-post-secure-to-insecure-warning-message =
+    Informácie zadané na tejto stránke budú odoslané cez nezašifrované spojenie a môžu byť ľahko prečítané treťou stranou.
+    
+    Naozaj chcete odoslať tieto informácie?
+form-post-secure-to-insecure-warning-continue = Pokračovať

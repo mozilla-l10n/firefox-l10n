@@ -8,3 +8,9 @@
 # Variables:
 #   $fileCount (Number): The number of remaining files.
 input-file-and-more-files = dan { $fileCount } lagi
+form-post-secure-to-insecure-warning-title = Amaran Keselamatan
+form-post-secure-to-insecure-warning-message =
+    Maklumat yang telah anda masukkan di halaman ini akan dihantar melalui sambungan yang tidak selamat dan boleh dibaca oleh pihak ketiga.
+    
+    Anda pasti mahu menghantar maklumat ini?
+form-post-secure-to-insecure-warning-continue = Teruskan

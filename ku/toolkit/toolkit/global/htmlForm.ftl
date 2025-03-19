@@ -12,3 +12,5 @@ input-file-and-more-files =
         [one] û yeke din
        *[other] û { $fileCount }ên din
     }
+form-post-secure-to-insecure-warning-title = Hişyariya Ewlekariyê
+form-post-secure-to-insecure-warning-continue = Bidomîne

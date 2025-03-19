@@ -44,3 +44,6 @@ autofill-category-name = ຊື່
 autofill-category-organization = ອົງກອນ
 autofill-category-tel = ໂທລະສັບ
 autofill-category-email = ອີເມວ
+# This string is used in drop down suggestion when users try to autofill credit
+# card on an insecure website (without https).
+autofill-insecure-field-warning-description = { -brand-short-name } ໄດ້ກວດພົບເວັບໄຊທີ່ບໍ່ປອດໄພ. ການຕື່ມແບບຟອມອັດຕະໂນມັດຖືກປິດໄວ້ຊົ່ວຄາວ.

@@ -38,3 +38,6 @@ autofill-category-name = nying
 autofill-category-organization = dul
 autofill-category-tel = cim
 autofill-category-email = email
+# This string is used in drop down suggestion when users try to autofill credit
+# card on an insecure website (without https).
+autofill-insecure-field-warning-description = { -brand-short-name } onongo kakube ma pe ki ber bedo. Kijuko woko pi tutuno pongo pwom pire kene.

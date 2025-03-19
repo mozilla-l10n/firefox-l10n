@@ -44,3 +44,6 @@ autofill-category-name = vārds
 autofill-category-organization = uzņēmums
 autofill-category-tel = telefons
 autofill-category-email = e-pasts
+# This string is used in drop down suggestion when users try to autofill credit
+# card on an insecure website (without https).
+autofill-insecure-field-warning-description = { -brand-short-name } ir atklājis nedrošu lapu. Formu automātiskā aizpilde ir īslaicīgi deaktivēta.

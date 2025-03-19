@@ -44,3 +44,6 @@ autofill-category-name = nimi
 autofill-category-organization = asutus
 autofill-category-tel = telefon
 autofill-category-email = e-posti aadress
+# This string is used in drop down suggestion when users try to autofill credit
+# card on an insecure website (without https).
+autofill-insecure-field-warning-description = { -brand-short-name } tuvastas ebaturvalise saidi. Vormide automaatne täitmine on ajutiselt keelatud.

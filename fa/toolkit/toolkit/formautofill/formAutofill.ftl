@@ -81,3 +81,6 @@ autofill-category-name = نام
 autofill-category-organization = سازمان
 autofill-category-tel = تلفن
 autofill-category-email = رایانامه
+# This string is used in drop down suggestion when users try to autofill credit
+# card on an insecure website (without https).
+autofill-insecure-field-warning-description = { -brand-short-name } به عنوان یک عامل غیرامن در پایگاه اینترنتی شناخته شده است. پرکننده خودکار فرم به صورت موقتی غیر فعال شده است.

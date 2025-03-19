@@ -12,3 +12,9 @@ input-file-and-more-files =
         [one] e un altri
        *[other] e altris { $fileCount }
     }
+form-post-secure-to-insecure-warning-title = Avîs di sigurece
+form-post-secure-to-insecure-warning-message =
+    Lis informazions inseridis in cheste pagjine a vignaran inviadis sore di une conession no sigure e a podaressin vignî letis di altris sogjets.
+    
+    Inviâ pardabon chestis informazions?
+form-post-secure-to-insecure-warning-continue = Continue

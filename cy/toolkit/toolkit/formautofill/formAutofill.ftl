@@ -81,3 +81,6 @@ autofill-category-name = enw
 autofill-category-organization = corff
 autofill-category-tel = ffôn
 autofill-category-email = e-bost
+# This string is used in drop down suggestion when users try to autofill credit
+# card on an insecure website (without https).
+autofill-insecure-field-warning-description = Mae { -brand-short-name } wedi canfod gwefan anniogel. Mae Awtolanw Ffurflenni wedi ei analluogi dos dro

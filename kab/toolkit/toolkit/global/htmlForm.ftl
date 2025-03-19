@@ -12,3 +12,9 @@ input-file-and-more-files =
         [one] d 1 nniḍen
        *[other] d{ $fileCount }nniḍen
     }
+form-post-secure-to-insecure-warning-title = Alɣu n tɣellist
+form-post-secure-to-insecure-warning-message =
+    Talɣut id-muddeḍ ɣef usebter-agi ad tt-uceggeɛ s tuqqna taraɣelsant u yezmer ad t-id-ɣeṛ wis kraḍ.
+    
+    Tebɣiḍ ad tcegɛeḍ talɣut-agi?
+form-post-secure-to-insecure-warning-continue = Ddu

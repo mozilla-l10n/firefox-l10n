@@ -81,3 +81,6 @@ autofill-category-name = 姓名
 autofill-category-organization = 组织
 autofill-category-tel = 电话号码
 autofill-category-email = 电子邮箱
+# This string is used in drop down suggestion when users try to autofill credit
+# card on an insecure website (without https).
+autofill-insecure-field-warning-description = { -brand-short-name } 检测到一个不安全的网站。表单自动填写已暂时禁用

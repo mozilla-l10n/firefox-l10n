@@ -12,3 +12,9 @@ input-file-and-more-files =
         [one] og 1 mere
        *[other] og { $fileCount } mere
     }
+form-post-secure-to-insecure-warning-title = Sikkerhedsadvarsel
+form-post-secure-to-insecure-warning-message =
+    De indtastede data vil blive sendt over en usikker forbindelse, og kan potentielt læses af uvedkommende.
+    
+    Er du sikker på, at du vil sende?
+form-post-secure-to-insecure-warning-continue = Fortsæt

@@ -12,3 +12,5 @@ input-file-and-more-files =
         [one] आरो मोनसेबाव
        *[other] आरो { $fileCount } गोबां
     }
+form-post-secure-to-insecure-warning-title = रैखाथिनि सांग्रांथि
+form-post-secure-to-insecure-warning-continue = सालाय लांबाय था

@@ -12,3 +12,9 @@ input-file-and-more-files =
         [one] आओर बेसी
        *[other] { $fileCount } बेसी
     }
+form-post-secure-to-insecure-warning-title = सुरक्षा चेतावनी
+form-post-secure-to-insecure-warning-message =
+    सूचना जकरा अहाँ राखने छी केँ विगोपित संबंधन पर पठाएल जएताह आओर आसानी सँ तेसर पार्टीक द्वारा पढ़ल जाए सकत.
+    
+    की अहाँ एहि सूचना केँ पठोअनाइ जारी रखबा केँ लेल सुनिश्चित छी?
+form-post-secure-to-insecure-warning-continue = जारी राखू

@@ -12,3 +12,9 @@ input-file-and-more-files =
         [one] chuqa' jun chik
        *[other] chuqa' { $fileCount } chik
     }
+form-post-secure-to-insecure-warning-title = Rutzijol Jikomal
+form-post-secure-to-insecure-warning-message =
+    Ri na'oj xatz'ib'aj pa re ruxaq re', xtitaq rik'in jun itzel okem pa k'amaya'l, ruma ri' jun aj rox winäq nitikïr nusik'ij.
+    
+    ¿La kan nawajo' natäq re na'oj re'?
+form-post-secure-to-insecure-warning-continue = Titikïr chik el

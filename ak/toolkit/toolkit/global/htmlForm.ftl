@@ -12,3 +12,5 @@ input-file-and-more-files =
         [one] fa baako san ka ho
        *[other] na { $fileCount } bio so
     }
+form-post-secure-to-insecure-warning-title = Sikuriti Kɔkɔbɔ
+form-post-secure-to-insecure-warning-continue = Toa so

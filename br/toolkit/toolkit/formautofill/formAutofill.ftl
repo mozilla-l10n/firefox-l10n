@@ -62,3 +62,6 @@ autofill-category-name = anv
 autofill-category-organization = aozadur
 autofill-category-tel = pellgomz
 autofill-category-email = chomlec'h postel
+# This string is used in drop down suggestion when users try to autofill credit
+# card on an insecure website (without https).
+autofill-insecure-field-warning-description = Dinoet ez eus bet ul lec'hienn diziogel gant { -brand-short-name }. Diweredekaet eo leuniañ emgefreek ar furmskridoù.

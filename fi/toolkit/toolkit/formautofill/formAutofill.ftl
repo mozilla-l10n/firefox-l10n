@@ -81,3 +81,6 @@ autofill-category-name = nimi
 autofill-category-organization = organisaatio
 autofill-category-tel = puhelin
 autofill-category-email = sähköposti
+# This string is used in drop down suggestion when users try to autofill credit
+# card on an insecure website (without https).
+autofill-insecure-field-warning-description = { -brand-short-name } on havainnut suojaamattoman sivuston. Lomakkeiden automaattitäyttö on väliaikaisesti pois käytöstä.
