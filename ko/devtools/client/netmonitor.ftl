@@ -12,6 +12,15 @@ network-menu-summary-tooltip-domcontentloaded =
     .title = “DOMContentLoaded” 이벤트가 일어나기까지 걸린 시간
 network-menu-summary-tooltip-load =
     .title = “load” 이벤트가 일어나기까지 걸린 시간
+# This label is displayed in the network table footer providing the
+# number of requests
+# Variables:
+#   $requestCount (Number): The total number of requests.
+network-menu-summary-requests-count =
+    { $requestCount ->
+        [0] 요청 없음
+       *[other] 요청 { $requestCount }개
+    }
 network-menu-summary-tooltip-requests-count =
     .title = 요청 수
 # This label is displayed in the network table footer providing the
