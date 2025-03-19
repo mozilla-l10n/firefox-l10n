@@ -13,4 +13,8 @@ input-file-and-more-files =
        *[other] və { $fileCount } dənə daha
     }
 form-post-secure-to-insecure-warning-title = Təhlükəsizlik Xəbərdarlığı
+form-post-secure-to-insecure-warning-message =
+    Bu səhifədə daxil etdiyiniz məlumatlar qorumasız əlaqə üzərindən göndəriləcək və üçüncü şəxslər tərəfindən oxuna bilər.
+    
+    Bu məlumatı göndərmək istədiyinizə əminsiniz?
 form-post-secure-to-insecure-warning-continue = Davam et
