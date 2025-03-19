@@ -22,3 +22,20 @@ network-menu-summary-requests-count =
         [one] Една заявка
        *[other] { $requestCount } заявки
     }
+network-menu-summary-tooltip-requests-count =
+    .title = Брой заявки
+# This label is displayed in the network table footer providing the
+# transferred size.
+# Variables:
+#   $formattedContentSize (String): The formatted content size.
+#   $formattedTransferredSize (String): The formatted transferred size.
+network-menu-summary-transferred = { $formattedContentSize } / { $formattedTransferredSize } пренесени
+network-menu-summary-tooltip-transferred =
+    .title = Размер / пренесени за всички заявки
+# This label is displayed in the network table footer providing the
+# transfer time.
+# Variables:
+#   $formattedTime (String): The formatted transfer time.
+network-menu-summary-finish = Време: { $formattedTime }
+network-menu-summary-tooltip-finish =
+    .title = Общо време необходимо за изпълняване на всички заявки
