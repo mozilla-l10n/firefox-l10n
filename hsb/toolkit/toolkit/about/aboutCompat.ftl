@@ -11,6 +11,7 @@ label-more-information = Dalše informacije: Zmylkowa rozprawa { $bug }
 label-overrides = Přepisanja identifikatora wobhladowaka
 text-disabled-in-about-config = Tuta funkcija je so w about:config znjemóžniła
 text-no-interventions = Interwencije so njewužiwaja
+text-page-title = Webkompatibelnosć
 text-no-overrides = Přepisanja identifikatora wobhladowaka so njewužiwaja
 text-title = about:compat
 
