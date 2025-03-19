@@ -12,6 +12,17 @@ network-menu-summary-tooltip-domcontentloaded =
     .title = Час, коли відбулася подія “DOMContentLoaded”
 network-menu-summary-tooltip-load =
     .title = Час, коли відбулася подія “load”
+# This label is displayed in the network table footer providing the
+# number of requests
+# Variables:
+#   $requestCount (Number): The total number of requests.
+network-menu-summary-requests-count =
+    { $requestCount ->
+        [0] Немає запитів
+        [one] Один запит
+        [few] { $requestCount } запити
+       *[many] { $requestCount } запитів
+    }
 network-menu-summary-tooltip-requests-count =
     .title = Кількість запитів
 # This label is displayed in the network table footer providing the
