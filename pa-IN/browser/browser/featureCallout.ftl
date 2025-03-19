@@ -77,12 +77,23 @@ sidebar-button-callout-vertical-tabs = ਆਪਣੀਆਂ ਟੈਬਾਂ ਨੂ
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = ਬਹੁਤ ਸਾਰੀਆਂ ਟੈਬਾਂ ਵਿੱਚ ਉਲਝੇ ਹੋਏ ਹੋ?
+vertical-tabs-callout-1-cta-button = ਖੜ੍ਹਵੀਆਂ ਟੈਬਾਂ ਨੂੰ ਅਜ਼ਮਾਓ
+vertical-tabs-callout-2-cta-button = ਹੁਣੇ ਅਜ਼ਮਾਓ
+vertical-tabs-callout-2-title = ਬਹੁਤ ਸਾਰੀਆਂ ਟੈਬਾਂ ਨੂੰ ਖੁੱਲ੍ਹਾ ਰੱਖਦੇ ਹੋ? ਖੜ੍ਹਵੀਆਂ ਟੈਬਾਂ ਨੂੰ ਅਜ਼ਮਾਓ।
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = ਆਪਣੀਆਂ ਖ਼ਾਸ ਟੈਬਾਂ ਉੱਤੇ ਧਿਆਨ ਨਹੀਂ ਰਹਿੰਦਾ ਹੈ?
+sidebar-pins-callout-cta-button = ਟੈਬ ਨੂੰ ਟੰਗੋ
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = ਬਾਹੀ: ਟੂਲ ਅਤੇ ਟੈਬਾਂ ਰੱਖਣ ਲਈ ਤੁਹਾਡੀ ਥਾਂ
+sidebar-customization-callout-callout-button = ਬਾਹੀ ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰੋ
+sidebar-customization-callout-dismiss-button = ਬਾਹੀ ਨੂੰ ਓਹਲੇ ਕਰੋ
+sidebar-customization-callout-2-title = { -brand-product-name } ਬਾਹੀ ਨੂੰ ਆਪਣੇ ਮੁਤਾਬਕ ਢਾਲੋ
+sidebar-customization-callout-2-subtitle = ਟੂਲਾਂ ਨੂੰ ਜੋੜ ਅਤੇ ਹਟਾਓ। ਬਾਹੀ ਵਿੱਚ ਆਪਣੀਆਂ ਟੈਬਾਂ ਨੂੰ ਰੱਖੋ। AI ਚੈਟਬੋਟ ਨੂੰ ਅਜ਼ਮਾਓ। ਆਪਣੀ ਬਾਹੀ ਨੂੰ ਜਿਵੇਂ ਤੁਹਾਨੂੰ ਪਸੰਦ ਹੋਵੇ, ਓਵੇਂ ਬਣਾਓ।
 
 ## Sidebar Callout Survey Strings
 

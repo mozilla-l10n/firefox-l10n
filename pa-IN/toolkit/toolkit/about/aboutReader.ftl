@@ -129,3 +129,5 @@ about-reader-text-alignment-center =
     .title = ਲਿਖਤ ਨੂੰ ਕੇਂਦਰ ਵਿੱਚ ਇਕਸਾਰ ਕਰੋ
 about-reader-text-alignment-right =
     .title = ਲਿਖਤ ਨੂੰ ਸੱਜੇ ਪਾਸੇ ਇਕਸਾਰ ਕਰੋ
+about-reader-text-alignment-justify =
+    .title = ਲਿਖਤ ਨੂੰ ਇਕਸਾਰ ਕਰੋ

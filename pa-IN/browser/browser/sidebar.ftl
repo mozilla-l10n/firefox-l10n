@@ -60,6 +60,9 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = ਮਾਊਸ ਕੋਲ ਲੈ ਜਾਣ ਉੱਤੇ ਬਾਹੀ ਨੂੰ ਫੈਲਾਓ
+expand-on-hover-message =
+    .heading = ਉੱਤੇ ਲੈ ਕੇ ਜਾਣ ਨਾਲ ਫੈਲਾਉਣਾ ਛੇਤੀ ਹੀ ਆ ਰਿਹਾ ਹੈ
+    .message = ਅਗਲੇ ਅੱਪਡੇਟਾਂ ਵਿੱਚ ਤੁਸੀਂ ਉੱਤੇ ਲੈ ਜਾਣ ਨਾਲ ਹੀ ਬਾਹੀ ਨੂੰ ਫੈਲਾਉਣ ਦੇ ਯੋਗ ਹੋਵੋਗੇ।
 
 ## Labels for sidebar context menu items
 
@@ -77,6 +80,12 @@ sidebar-context-menu-bookmark-tab =
     .label = …ਟੈਬ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ
 sidebar-context-menu-copy-link =
     .label = ਲਿੰਕ ਨੂੰ ਕਾਪੀ ਕਰੋ
+sidebar-context-menu-hide-sidebar =
+    .label = ਬਾਹੀ ਨੂੰ ਓਹਲੇ ਕਰੋ
+sidebar-context-menu-enable-vertical-tabs =
+    .label = ਖੜ੍ਹਵੀਆਂ ਟੈਬਾਂ ਨੂੰ ਚਾਲੂ ਕਰੋ
+sidebar-context-menu-customize-sidebar =
+    .label = ਬਾਹੀ ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰੋ
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =

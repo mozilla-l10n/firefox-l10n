@@ -363,6 +363,7 @@ newtab-wallpaper-abstract-purple = ਜਾਮਨੀ ਸ਼ਕਲਾਂ
 newtab-wallpaper-abstract-orange = ਸੰਤਰੀ ਸ਼ਕਲਾਂ
 newtab-wallpaper-gradient-orange = ਗਰੇਡੀਐਂਟ ਸੰਤਰੀ ਤੇ ਗੁਲਾਬੀ
 newtab-wallpaper-abstract-blue-purple = ਨੀਲੀਆਂ ਤੇ ਜਾਮਨੀ ਸ਼ਕਲਾਂ
+newtab-wallpaper-abstract-white-curves = ਸੇਡ ਵਾਲੇ ਵਲਾਂ ਨਾਲ ਚਿੱਟਾ
 newtab-wallpaper-abstract-purple-green = ਜਾਮਨੀ ਅਤੇ ਹਰਾ ਫਿੱਕਾ ਗਰੇਡੀਐਂਟ
 newtab-wallpaper-abstract-blue-purple-waves = ਨੀਲੀਆਂ ਤੇ ਜਾਮਨੀ ਲਹਿਰਦਾਰ ਸ਼ਕਲਾਂ
 newtab-wallpaper-abstract-black-waves = ਕਾਲੀਆਂ ਲਹਿਰਦਾਰ ਸ਼ਕਲਾਂ
@@ -380,6 +381,7 @@ newtab-wallpaper-hot-air-balloons = ਦਿਨ ਵੇਲੇ ਗਰਮ ਹਵਾ �
 newtab-wallpaper-starry-canyon = ਨੀਲੀ ਤਾਰਿਆਂ ਵਾਲੀ ਰਾਤ
 newtab-wallpaper-suspension-bridge = ਦਿਨ ਵੇਲੇ ਸਲੇਟੀ ਪੂਰੇ ਲਟਕਦੇ ਪੁਲ ਦੀ ਫੋਟੋਗਰਾਫ਼ੀ
 newtab-wallpaper-sand-dunes = ਚਿੱਟੇ ਰੇਤ ਦੇ ਟਿੱਬੇ
+newtab-wallpaper-palm-trees = ਸਵੱਖਤੇ ਸੋਨੇ ਰੰਗੇ ਚਾਨਣ ਵਿੱਚ ਨਾਰੀਅਲ ਦੇ ਰੁੱਖਾਂ ਦੀ ਛਾਂ
 newtab-wallpaper-forest-trees = ਧੁੰਦ ਵਿੱਚ ਢੱਕੇ ਹੋਏ ਦਰਖ਼ਤ
 # Variables
 #   $author_string (String) - The name of the creator of the photo.

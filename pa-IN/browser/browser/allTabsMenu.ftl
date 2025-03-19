@@ -18,7 +18,13 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = ਸਭ ਡੁਪਲੀਕੇਟ ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਕਰੋ
 all-tabs-menu-synced-tabs =
     .label = ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ
+# "Recent" refers to tab groups being sorted in recently used order. We show up
+# to five of these in this section.
+all-tabs-menu-recent-tab-groups-header = ਸੱਜੇ ਟੈਬ ਗਰੁੱਪ
 all-tabs-menu-current-window-header = ਮੌਜੂਦਾ ਵਿੰਡੋ
 # This opens the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-show-all =
     .label = ਸਭ ਨੂੰ ਵੇਖਾਓ
+# This is header for the sub view listing _all_ open and saved tab groups.
+all-tabs-menu-tab-groups-sub-view =
+    .title = ਟੈਗ ਗਰੁੱਪ
