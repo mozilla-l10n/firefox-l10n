@@ -8,3 +8,5 @@
 # Variables:
 #   $fileCount (Number): The number of remaining files.
 input-file-and-more-files = และเพิ่มเติมอีก { $fileCount }
+form-post-secure-to-insecure-warning-title = คำเตือนความปลอดภัย
+form-post-secure-to-insecure-warning-continue = ดำเนินการต่อ
