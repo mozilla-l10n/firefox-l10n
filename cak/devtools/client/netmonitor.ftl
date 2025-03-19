@@ -12,6 +12,16 @@ network-menu-summary-tooltip-domcontentloaded =
     .title = Ramaj toq xk'ulwachitäj ri “DOMContentLoaded” molojri'ïl
 network-menu-summary-tooltip-load =
     .title = Ramaj toq xk'ulwachitäj ri “Load” molojri'ïl
+# This label is displayed in the network table footer providing the
+# number of requests
+# Variables:
+#   $requestCount (Number): The total number of requests.
+network-menu-summary-requests-count =
+    { $requestCount ->
+        [0] Majun k'utuxïk
+        [one] Jun k'utuj
+       *[other] { $requestCount } taq k'utuj
+    }
 network-menu-summary-tooltip-requests-count =
     .title = Kajlab'al taq k'utuj
 # This label is displayed in the network table footer providing the
