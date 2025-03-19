@@ -21,3 +21,20 @@ network-menu-summary-requests-count =
         [0] 没有请求
        *[other] { $requestCount } 个请求
     }
+network-menu-summary-tooltip-requests-count =
+    .title = 请求数
+# This label is displayed in the network table footer providing the
+# transferred size.
+# Variables:
+#   $formattedContentSize (String): The formatted content size.
+#   $formattedTransferredSize (String): The formatted transferred size.
+network-menu-summary-transferred = 已传输 { $formattedContentSize } / { $formattedTransferredSize }
+network-menu-summary-tooltip-transferred =
+    .title = 所有请求的大小/已传输大小
+# This label is displayed in the network table footer providing the
+# transfer time.
+# Variables:
+#   $formattedTime (String): The formatted transfer time.
+network-menu-summary-finish = 完成：{ $formattedTime }
+network-menu-summary-tooltip-finish =
+    .title = 加载所有请求所需的总时间
