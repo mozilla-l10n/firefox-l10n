@@ -12,3 +12,5 @@ input-file-and-more-files =
         [one] আৰু এটা অতিৰিক্ত
        *[other] আৰু { $fileCount } অতিৰিক্ত
     }
+form-post-secure-to-insecure-warning-title = সুৰক্ষাৰ সকিয়নি
+form-post-secure-to-insecure-warning-continue = আগবাঢ়ক
