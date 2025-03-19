@@ -44,3 +44,6 @@ autofill-category-name = ainm
 autofill-category-organization = buidheann
 autofill-category-tel = fòn
 autofill-category-email = post-d
+# This string is used in drop down suggestion when users try to autofill credit
+# card on an insecure website (without https).
+autofill-insecure-field-warning-description = Mhothaich { -brand-short-name } do làrach nach eil tèarainte. Chaidh fèin-lìonadh fhoirmean a chur à comas rè seala
