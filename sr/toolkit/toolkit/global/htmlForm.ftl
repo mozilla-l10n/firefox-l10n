@@ -13,3 +13,9 @@ input-file-and-more-files =
         [few] додај још { $fileCount }
        *[other] додај још { $fileCount }
     }
+form-post-secure-to-insecure-warning-title = Сигурносно упозорење
+form-post-secure-to-insecure-warning-message =
+    Информације које сте унели на овој страници ће бити послате преко несигурне везе и те информације ће моћи прочитати трећа лица.
+    
+    Да ли сте сигурни да желите послати ове информације?
+form-post-secure-to-insecure-warning-continue = Настави
