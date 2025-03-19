@@ -23,3 +23,6 @@ autofill-card-network-mastercard = MasterCard
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = Union Pay
 autofill-card-network-visa = Visa
+# This string is used in drop down suggestion when users try to autofill credit
+# card on an insecure website (without https).
+autofill-insecure-field-warning-description = { -brand-short-name } nari'ij 'ngò sitio hua ahī . Nitaj si hua gi'iaj gi'ìaj sun ma'an ma.
