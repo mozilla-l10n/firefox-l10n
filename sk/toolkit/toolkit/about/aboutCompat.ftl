@@ -11,6 +11,7 @@ label-more-information = Podrobnosti: Bug { $bug }
 label-overrides = Zmena user agenta
 text-disabled-in-about-config = Táto funkcia je vypnutá pomocou predvoľby v about:config
 text-no-interventions = Nepoužívajú sa žiadne intervencie
+text-page-title = Webová kompatibilita
 text-no-overrides = Nepoužívajú sa žiadne zmeny user agenta
 text-title = about:compat
 

@@ -6,6 +6,7 @@
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
     .label = מדיה: JPEG XL
+experimental-features-media-jxl-description = כשאפשרות זו מופעלת, { -brand-short-name } תומך בתבנית JPEG XL (או JXL). זוהי תבנית קובץ תמונה משופרת התומכת במעבר ללא הפסד מקובצי JPEG מסורתיים. ניתן לעיין ב<a data-l10n-name="bugzilla">תקלה 1539075</a> לפרטים נוספים.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
@@ -24,3 +25,7 @@ experimental-features-group-customize-browsing =
 experimental-features-contextual-password-manager =
     .label = ססמאות בסרגל הצד
 experimental-features-contextual-password-manager-description = קבלת גישה לססמאות שלך הישר מסרגל הצד. לא צריך עוד לחפש ססמאות או לאפס אותן כשמנסים להתחבר לאתרים. כדי להשתמש באפשרות זו, יש לבחור בססמאות בסרגל הצד. לאחר מכן לעבור להגדרות הכלליות שלך ותחת פריסת הדפדפן, ולבחור בהצגת סרגל צד. לאחר מכן יש להתאים אישית את סרגל הצד שלך על־ידי בחירה בססמאות. אם תנסו את האפשרות הזאת, <a data-l10n-name="connect">אנא ספרו לנו מה אתם חושבים</a>.
+# New Tab Custom Wallpapers
+experimental-features-custom-wallpaper =
+    .label = בחירת טפט או צבע מותאם אישית עבור הלשונית החדשה
+experimental-features-custom-wallpaper-description = ניתן להעלות טפט משלך או לבחור בצבע מותאם אישית עבור רקע הלשונית החדשה שלך.
