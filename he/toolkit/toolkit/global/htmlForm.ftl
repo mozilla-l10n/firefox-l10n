@@ -13,3 +13,8 @@ input-file-and-more-files =
        *[other] ועוד { $fileCount } נוספים
     }
 form-post-secure-to-insecure-warning-title = אזהרת אבטחה
+form-post-secure-to-insecure-warning-message =
+    המידע שהזנת בדף זה יישלח בחיבור שאינו מאובטח וניתן יהיה לקריאה על־ידי גורם צד שלישי.
+    
+    האם ברצונך לשלוח את המידע הזה?
+form-post-secure-to-insecure-warning-continue = המשך
