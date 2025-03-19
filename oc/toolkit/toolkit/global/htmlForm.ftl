@@ -12,3 +12,4 @@ input-file-and-more-files =
         [one] e 1 suplementari
        *[other] e { $fileCount } suplementaris
     }
+form-post-secure-to-insecure-warning-title = Avertiment de seguretat
