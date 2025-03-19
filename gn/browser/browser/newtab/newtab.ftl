@@ -126,6 +126,8 @@ newtab-menu-section-unfollow = Anive ehapykueho téma
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
+newtab-menu-manage-sponsored-content = Emboguata tetepy ykekopyre
+newtab-menu-our-sponsors-and-your-privacy = Ore pytyvõhára ha nemigua
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 

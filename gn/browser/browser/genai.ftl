@@ -157,3 +157,9 @@ genai-onboarding-lechat-price = Reigua; eikotevẽ mba’ete
 
 ## Model Optin Component
 
+genai-model-optin-continue =
+    .label = Eku’ejey
+genai-model-optin-optout =
+    .label = Heja
+genai-model-optin-cancel =
+    .label = Heja
