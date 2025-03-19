@@ -12,3 +12,4 @@ input-file-and-more-files =
         [one] এবং আরও একটি
        *[other] এবং { $fileCount } আরও
     }
+form-post-secure-to-insecure-warning-title = নিরাপত্তা সংক্রান্ত সতর্কবার্তা
