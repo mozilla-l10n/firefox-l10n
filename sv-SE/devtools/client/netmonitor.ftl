@@ -22,3 +22,20 @@ network-menu-summary-requests-count =
         [one] En begäran
        *[other] { $requestCount } begäran
     }
+network-menu-summary-tooltip-requests-count =
+    .title = Antal förfrågningar
+# This label is displayed in the network table footer providing the
+# transferred size.
+# Variables:
+#   $formattedContentSize (String): The formatted content size.
+#   $formattedTransferredSize (String): The formatted transferred size.
+network-menu-summary-transferred = { $formattedContentSize } / { $formattedTransferredSize } överfört
+network-menu-summary-tooltip-transferred =
+    .title = Storlek/överförd storlek för alla förfrågningar
+# This label is displayed in the network table footer providing the
+# transfer time.
+# Variables:
+#   $formattedTime (String): The formatted transfer time.
+network-menu-summary-finish = Slutfört: { $formattedTime }
+network-menu-summary-tooltip-finish =
+    .title = Total tid för att ladda alla förfrågningar
