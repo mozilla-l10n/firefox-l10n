@@ -31,3 +31,13 @@ pending-crash-reports-send =
     .label = Send
 pending-crash-reports-always-send =
     .label = Send alltid
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+requested-crash-reports-message =
+    { $reportCount ->
+        [one] Du har en usendt krasjrapport som samsvarer med krasj som undersøkes. Om du sender denne vil du hjelpe oss med å forbedre { -brand-product-name }. Hvis du lukker dette varselet, ignoreres denne rapporten.
+       *[other] Du har { $reportCount } usendte krasjrapporter som samsvarer med krasj som undersøkes. Om du sender disse vil du hjelpe oss med å forbedre { -brand-product-name }. Hvis du lukker dette varselet, ignoreres disse rapportene.
+    }
+requested-crash-reports-dont-show-again =
+    .label = Ikke vis igjen
+    .accesskey = k

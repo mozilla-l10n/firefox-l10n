@@ -152,3 +152,9 @@ genai-onboarding-lechat-price = 免費，需要註冊
 
 ## Model Optin Component
 
+genai-model-optin-continue =
+    .label = 繼續
+genai-model-optin-optout =
+    .label = 取消
+genai-model-optin-cancel =
+    .label = 取消
