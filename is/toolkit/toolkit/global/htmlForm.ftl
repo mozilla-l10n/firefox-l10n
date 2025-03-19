@@ -12,3 +12,9 @@ input-file-and-more-files =
         [one] og { $fileCount } fleiri
        *[other] og { $fileCount } fleiri
     }
+form-post-secure-to-insecure-warning-title = Öryggisaðvörun
+form-post-secure-to-insecure-warning-message =
+    Upplýsingarnar sem þú hefur sett inn á þessa síðu verða sendar yfir ótrausta tengingu sem einhver þriðji aðili gæti hugsanlega komist yfir.
+    
+    Ertu viss um að þú viljir senda þessar upplýsingar?
+form-post-secure-to-insecure-warning-continue = Áfram
