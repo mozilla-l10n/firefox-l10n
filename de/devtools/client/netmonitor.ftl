@@ -30,3 +30,12 @@ network-menu-summary-tooltip-requests-count =
 #   $formattedContentSize (String): The formatted content size.
 #   $formattedTransferredSize (String): The formatted transferred size.
 network-menu-summary-transferred = { $formattedContentSize } / { $formattedTransferredSize } übertragen
+network-menu-summary-tooltip-transferred =
+    .title = Größe/übertragene Größe aller Anfragen
+# This label is displayed in the network table footer providing the
+# transfer time.
+# Variables:
+#   $formattedTime (String): The formatted transfer time.
+network-menu-summary-finish = Beendet: { $formattedTime }
+network-menu-summary-tooltip-finish =
+    .title = Gesamtzeit zum Laden aller Anfragen
