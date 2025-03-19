@@ -5,6 +5,23 @@
 
 ## Strings used in the status bar of the DevTools Network Panel
 
+# Tooltip for the performance button in the status bar
+network-menu-summary-tooltip-perf =
+    .title = పనితనపు విశ్లేషణను మొదలుపెట్టు
+network-menu-summary-tooltip-domcontentloaded =
+    .title = “DOMContentLoaded” సంఘటన సంభవించిన సమయం
+network-menu-summary-tooltip-load =
+    .title = “లోడ్” ఈవెంట్ సంభవించిన సమయం
+# This label is displayed in the network table footer providing the
+# number of requests
+# Variables:
+#   $requestCount (Number): The total number of requests.
+network-menu-summary-requests-count =
+    { $requestCount ->
+        [0] అభ్యర్థనలు లేవు
+        [one] ఒక అభ్యర్థన
+       *[other] { $requestCount } అభ్యర్థనలు
+    }
 network-menu-summary-tooltip-requests-count =
     .title = అభ్యర్థనల సంఖ్య
 # This label is displayed in the network table footer providing the
