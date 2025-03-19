@@ -13,3 +13,8 @@ input-file-and-more-files =
        *[other] ha { $fileCount } hetave
     }
 form-post-secure-to-insecure-warning-title = Jesarekorã tekorosã rehegua
+form-post-secure-to-insecure-warning-message =
+    Pe marandu emoingéva ko kuatiaroguépe oñemondóta peteĩ jeiketu’ỹvape ha ikatúva omoñe’ẽ peteĩ nde rehegua’ỹva.
+    
+    Emondosépa añetehápe ko marandu.
+form-post-secure-to-insecure-warning-continue = Jejapojeyjey
