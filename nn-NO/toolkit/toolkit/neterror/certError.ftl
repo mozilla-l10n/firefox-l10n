@@ -112,6 +112,7 @@ contentEncodingError-title = Feil med teiknkoding
 unsafeContentType-title = Utrygg filtype
 netReset-title = Tilkoplinga vart broten
 netTimeout-title = Tilkoplinga fekk tidsavbrot
+httpErrorPage-title = Det ser ut til at det er eit problem med denne nettstaden
 serverError-title = Det ser ut til at det er eit problem med denne nettstaden
 unknownProtocolFound-title = Klarte ikkje å forstå adressa
 proxyConnectFailure-title = Proxyserveren godtek ikkje tilkoplingar

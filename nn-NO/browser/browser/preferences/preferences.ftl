@@ -1357,6 +1357,7 @@ collection-health-report-link = Les meir
 collection-health-report-description = Dette hjelper oss med å forbetre { -brand-product-name }-funksjonar, yting og stabilitet.
 collection-studies2 =
     .label = Installer og køyr studium
+collection-studies-description = Prøv nye funksjonar og idéar før dei blir tilgjengelege for alle.
 collection-studies =
     .label = Tillat { -brand-short-name } å installere og køyre studium
 collection-studies-link = Vis { -brand-short-name }-studium

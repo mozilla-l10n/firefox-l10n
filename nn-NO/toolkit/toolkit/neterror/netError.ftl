@@ -12,6 +12,8 @@ neterror-blocked-by-policy-page-title = Blokkert side
 neterror-captive-portal-page-title = Logg inn på nettverket
 neterror-dns-not-found-title = Fann ikkje serveren
 neterror-malformed-uri-page-title = Ugyldig nettadresse
+general-body-title = Ver varsam. Noko ser ikkje rett ut.
+problem-with-this-site-title = Det ser ut til at det er eit problem med denne nettstaden
 
 ## Error page actions
 
