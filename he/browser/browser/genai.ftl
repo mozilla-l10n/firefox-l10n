@@ -131,3 +131,9 @@ genai-onboarding-lechat-price = בחינם, נדרש חשבון
 
 ## Model Optin Component
 
+genai-model-optin-continue =
+    .label = המשך
+genai-model-optin-optout =
+    .label = ביטול
+genai-model-optin-cancel =
+    .label = ביטול

@@ -125,6 +125,8 @@ newtab-menu-section-unfollow = ביטול המעקב אחרי הנושא
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
+newtab-menu-manage-sponsored-content = ניהול תוכן ממומן
+newtab-menu-our-sponsors-and-your-privacy = נותני החסות שלנו והפרטיות שלך
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -380,6 +382,7 @@ newtab-wallpaper-starry-canyon = ליל כוכבים כחול
 newtab-wallpaper-suspension-bridge = תצלום של גשר תלוי אפור במהלך שעות היום
 newtab-wallpaper-sand-dunes = דיונות חול לבן
 newtab-wallpaper-palm-trees = צללית של עצי דקל קוקוס במהלך שעת הזהב
+newtab-wallpaper-blue-flowers = צילום תקריב של פרחים כחולי כותרת בפריחה
 newtab-wallpaper-forest-trees = עצים מכוסים בערפל
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
