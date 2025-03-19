@@ -387,6 +387,7 @@ newtab-wallpaper-starry-canyon = ლურჯვარსკვლავთა �
 newtab-wallpaper-suspension-bridge = ნაცრისფერი კიდული ხიდის დღისით გადაღებული სურათი
 newtab-wallpaper-sand-dunes = თეთრი ქვიშიანი ბორცვები
 newtab-wallpaper-palm-trees = ქოქოსის პალმის ხეების მოხაზულობა შეღამებისას
+newtab-wallpaper-blue-flowers = ახლო ხედით გადაღებული ლურჯგვირვინა ყვავილები გაფურჩქნისას
 newtab-wallpaper-forest-trees = ნისლით დაფარული ხეები
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
