@@ -31,3 +31,6 @@ pending-crash-reports-send =
     .label = ਭੇਜੋ
 pending-crash-reports-always-send =
     .label = ਹਮੇਸ਼ਾ ਭੇਜੋ
+requested-crash-reports-dont-show-again =
+    .label = ਮੈਨੂੰ ਮੁੜ ਨਾ ਪੁੱਛੋ
+    .accesskey = D

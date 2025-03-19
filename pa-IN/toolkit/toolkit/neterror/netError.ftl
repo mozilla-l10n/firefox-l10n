@@ -13,6 +13,7 @@ neterror-captive-portal-page-title = ਨੈੱਟਵਰਕ ਲਈ ਲਾਗਇ�
 neterror-dns-not-found-title = ਸਰਵਰ ਨਹੀਂ ਲੱਭਿਆ
 neterror-malformed-uri-page-title = ਅਢੁੱਕਵਾਂ URL
 general-body-title = ਧਿਆਨ ਰੱਖੋ। ਕੁਝ ਸਹੀ ਨਹੀਂ ਜਾਪਦਾ ਹੈ।
+problem-with-this-site-title = ਇਸ ਸਾਈਟ ਨਾਲ ਸਮੱਸਿਆ ਜਾਪਦੀ ਹੈ
 
 ## Error page actions
 
