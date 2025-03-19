@@ -5,6 +5,24 @@
 
 ## Strings used in the status bar of the DevTools Network Panel
 
+# Tooltip for the performance button in the status bar
+network-menu-summary-tooltip-perf =
+    .title = Spustí analýzu výkonu
+network-menu-summary-tooltip-domcontentloaded =
+    .title = Čas, kedy došlo k udalosti “DOMContentLoaded”
+network-menu-summary-tooltip-load =
+    .title = Čas, kedy došlo k udalosti “load”
+# This label is displayed in the network table footer providing the
+# number of requests
+# Variables:
+#   $requestCount (Number): The total number of requests.
+network-menu-summary-requests-count =
+    { $requestCount ->
+        [0] Žiadne požiadavky
+        [one] Jedna požiadavka
+        [few] { $requestCount } požiadavky
+       *[other] { $requestCount } požiadaviek
+    }
 network-menu-summary-tooltip-requests-count =
     .title = Počet požiadaviek
 # This label is displayed in the network table footer providing the
