@@ -10,6 +10,7 @@ neterror-blocked-by-policy-page-title = തടഞ്ഞ താൾ
 neterror-captive-portal-page-title = ശ്യംഖലയിലോട്ടു് പ്രവേശിക്കുക
 neterror-dns-not-found-title = സെർവർ കണ്ടെത്താനായില്ല
 neterror-malformed-uri-page-title = അസാധുവായ URL
+general-body-title = സൂക്ഷിക്കുക. ഇതിൽ എന്തോ കുഴപ്പമുണ്ടെന്നു് തോന്നുന്നു.
 
 ## Error page actions
 
