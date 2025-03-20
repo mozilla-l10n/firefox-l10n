@@ -19,3 +19,10 @@ experimental-features-group-webpage-display =
     .label = ਵੈੱਬਪੇਜ ਡਿਸਪਲੇਅ
 experimental-features-group-customize-browsing =
     .label = ਆਪਣੀ ਬਰਾਊਜ਼ਿੰਗ ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰੋ
+# Contextual Password Manager in sidebar
+experimental-features-contextual-password-manager =
+    .label = ਬਾਹੀ ਵਿੱਚ ਪਾਸਵਰਡ
+# New Tab Custom Wallpapers
+experimental-features-custom-wallpaper =
+    .label = ਨਵੀਂ ਟੈਬ ਵਾਸਤੇ ਪਸੰਦੀਦਾ ਵਾਲਪੇਪਰ ਜਾਂ ਕੋਈ ਰੰਗ ਚੁਣੋ
+experimental-features-custom-wallpaper-description = ਆਪਣੀ ਨਵੀਂ ਟੈਬ ਬੈਕਗਰਾਉਂਡ ਵਾਸਤੇ ਆਪਣਾ ਵਾਲਪੇਪਰ ਅੱਪਲੋਡ ਕਰੋ ਜਾਂ ਪਸੰਦੀਦਾ ਰੰਗ ਚੁਣੋ।
