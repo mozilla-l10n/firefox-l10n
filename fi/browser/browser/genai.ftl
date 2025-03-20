@@ -158,3 +158,9 @@ genai-onboarding-lechat-price = Ilmainen; tili vaaditaan
 
 ## Model Optin Component
 
+genai-model-optin-continue =
+    .label = Jatka
+genai-model-optin-optout =
+    .label = Peruuta
+genai-model-optin-cancel =
+    .label = Peruuta

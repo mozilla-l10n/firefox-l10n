@@ -29,3 +29,7 @@ experimental-features-group-customize-browsing =
 experimental-features-contextual-password-manager =
     .label = Salasanat sivupalkissa
 experimental-features-contextual-password-manager-description = Käytä salasanojasi suoraan sivupalkista. Sinun ei tarvitse enää etsiä tai nollata salasanoja yrittäessäsi kirjautua sisään. Voit käyttää tätä ominaisuutta valitsemalla salasanat sivupalkista. Siirry sitten yleisiin asetuksiin ja valitse selaimen asettelusta Näytä sivupalkki. Mukauta sitten sivupalkkia valitsemalla salasanat. Jos kokeilet sitä, <a data-l10n-name="connect">kerro meille mielipiteesi</a>.
+# New Tab Custom Wallpapers
+experimental-features-custom-wallpaper =
+    .label = Valitse mukautettu taustakuva tai väri uudelle välilehdelle
+experimental-features-custom-wallpaper-description = Lähetä oma taustakuva tai valitse mukautettu väri Uusi välilehti -taustaksi.
