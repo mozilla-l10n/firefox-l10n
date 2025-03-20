@@ -366,7 +366,7 @@ newtab-wallpaper-abstract-orange = Oransje former
 newtab-wallpaper-gradient-orange = Fargeovergang oransje og rosa
 newtab-wallpaper-abstract-blue-purple = Blå og lilla former
 newtab-wallpaper-abstract-white-curves = Kvit med skraverte kurver
-newtab-wallpaper-abstract-purple-green = Gradient med lilla og grønt lys
+newtab-wallpaper-abstract-purple-green = Fargeovergang med lilla og grønt lys
 newtab-wallpaper-abstract-blue-purple-waves = Blå og lilla bølgjeformer
 newtab-wallpaper-abstract-black-waves = Svarte bølgjeformer
 

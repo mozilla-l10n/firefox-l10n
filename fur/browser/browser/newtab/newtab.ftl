@@ -126,6 +126,8 @@ newtab-menu-section-unfollow = Smet di sta daûr al argoment
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
+newtab-menu-manage-sponsored-content = Gjestìs contignûts sponsorizâts
+newtab-menu-our-sponsors-and-your-privacy = I nestris sponsors e la tô riservatece
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -387,6 +389,7 @@ newtab-wallpaper-starry-canyon = Gnot stelade blu
 newtab-wallpaper-suspension-bridge = Fotografie di un puint grîs sospindût fate vie pal dì
 newtab-wallpaper-sand-dunes = Dunis di savalon blanc
 newtab-wallpaper-palm-trees = Sacume di palme di coco cjapade vie pe ore di aur
+newtab-wallpaper-blue-flowers = Fotografie fate di dongje di rosis cun pics blu in floridure
 newtab-wallpaper-forest-trees = Arbui cuvierts de fumate
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
