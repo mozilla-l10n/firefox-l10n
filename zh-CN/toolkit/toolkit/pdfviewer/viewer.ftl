@@ -346,6 +346,11 @@ pdfjs-editor-free-highlight-thickness-title =
 pdfjs-editor-signature-add-signature-button =
     .title = 添加新签名
 pdfjs-editor-signature-add-signature-button-label = 添加新签名
+# Used on the button to use an already saved signature.
+# Variables:
+#   $description (String) - a string describing/labeling the signature.
+pdfjs-editor-add-saved-signature-button =
+    .title = 保存的签名：{ $description }
 # .default-content is used as a placeholder in an empty text editor.
 pdfjs-free-text2 =
     .aria-label = 文本编辑器
@@ -574,6 +579,8 @@ pdfjs-editor-edit-signature-update-button = 更新
 pdfjs-editor-delete-signature-button =
     .title = 移除签名
 pdfjs-editor-delete-signature-button-label = 移除签名
+pdfjs-editor-delete-signature-button1 =
+    .title = 移除已保存的签名
 
 ## Editor toolbar
 
