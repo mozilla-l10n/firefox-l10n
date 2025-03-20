@@ -29,3 +29,7 @@ experimental-features-group-customize-browsing =
 experimental-features-contextual-password-manager =
     .label = Mật khẩu trong thanh lề
 experimental-features-contextual-password-manager-description = Truy cập mật khẩu của bạn ngay từ thanh lề. Không còn phải tìm kiếm xung quanh hoặc đặt lại mật khẩu khi bạn đang cố gắng đăng nhập. Để sử dụng tính năng này, hãy chọn mật khẩu trong thanh lề. Sau đó, hãy vào cài đặt chung của bạn và trong bố cục trình duyệt, chọn hiển thị thanh lề. Sau đó, tùy chỉnh thanh lề của bạn bằng cách chọn mật khẩu. Nếu bạn thử nó, <a data-l10n-name="connect">hãy cho chúng tôi biết cảm nghĩ của bạn</a>.
+# New Tab Custom Wallpapers
+experimental-features-custom-wallpaper =
+    .label = Chọn hình nền hoặc màu tùy chỉnh cho thẻ mới
+experimental-features-custom-wallpaper-description = Tải lên hình nền của riêng bạn hoặc chọn màu tùy chỉnh cho hình nền thẻ mới của bạn.

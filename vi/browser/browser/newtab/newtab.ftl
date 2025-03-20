@@ -126,6 +126,8 @@ newtab-menu-section-unfollow = Bỏ theo dõi chủ đề
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
+newtab-menu-manage-sponsored-content = Quản lý nội dung được tài trợ
+newtab-menu-our-sponsors-and-your-privacy = Nhà tài trợ của chúng tôi và sự riêng tư của bạn
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -385,6 +387,7 @@ newtab-wallpaper-starry-canyon = Đêm sao màu xanh
 newtab-wallpaper-suspension-bridge = Ảnh cầu treo màu xám chụp vào ban ngày
 newtab-wallpaper-sand-dunes = Đồi cát trắng
 newtab-wallpaper-palm-trees = Hình bóng của cây cọ dừa trong giờ vàng
+newtab-wallpaper-blue-flowers = Ảnh chụp cận cảnh những bông hoa cánh xanh đang nở
 newtab-wallpaper-forest-trees = Cây phủ đầy sương mù
 # Variables
 #   $author_string (String) - The name of the creator of the photo.

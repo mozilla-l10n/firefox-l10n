@@ -158,3 +158,9 @@ genai-onboarding-lechat-price = Miễn phí; yêu cầu tài khoản
 
 ## Model Optin Component
 
+genai-model-optin-continue =
+    .label = Tiếp tục
+genai-model-optin-optout =
+    .label = Hủy bỏ
+genai-model-optin-cancel =
+    .label = Hủy bỏ

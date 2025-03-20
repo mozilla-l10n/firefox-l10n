@@ -39,6 +39,8 @@ process-type-gpu = GPU
 process-type-socket = Socket
 # process used to decode media
 process-type-rdd = RDD
+# process used to run inference
+process-type-inference = Suy luận
 # process used to run some IPC actor in their own sandbox
 process-type-utility = Tác nhân IPC hộp cát
 process-type-utility-actor-audio-decoder-generic = Tiện ích Generic Audio Decoder
