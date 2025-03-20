@@ -195,7 +195,8 @@ media-codec-support-lack-of-extension = Cài đặt tiện ích mở rộng
 ## See EME Spec for more explanation for following technical terms
 ## https://w3c.github.io/encrypted-media/
 
-media-content-decryption-modules-title = Thông tin module giải mã nội dung
+media-content-decryption-modules-title = Thông tin về module giải mã nội dung - Content Decryption Modules (CDM)
+media-key-system-name = Tên khoá hệ thống
 media-cdm-capabilities = Khả năng
 # We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
 # HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion

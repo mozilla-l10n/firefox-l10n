@@ -29,3 +29,6 @@ experimental-features-group-customize-browsing =
 experimental-features-contextual-password-manager =
     .label = Contrasignos in le barra lateral
 experimental-features-contextual-password-manager-description = Accede a tu contrasignos justo ab le barra lateral. Non plus cercar circum o remontar contrasignos quando tu tenta acceder. Pro usar iste function, selige le contrasignos in le barra lateral. Pois va a tu parametros general e sub mappa de navigator, selige monstrar barra lateral. Pois, personalisa tu barra lateral seligente le contrasignos. Si tu lo prova, <a data-l10n-name="connect">face nos saper lo que tu pensa</a>.
+# New Tab Custom Wallpapers
+experimental-features-custom-wallpaper =
+    .label = Seliger un fundo o un color personalisate pro le nove scheda
