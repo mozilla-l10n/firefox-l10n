@@ -22,6 +22,7 @@ support-addons-location-name = ഇടം
 legacy-user-stylesheets-enabled = സജ്ജം
 security-software-type = തരം
 security-software-name = പേരു്
+security-software-firewall = തീച്ചുവർ
 features-title = { -brand-short-name } സവിശേഷതകൾ
 features-name = പേര്
 features-version = പതിപ്പ്
@@ -99,6 +100,8 @@ media-device-rate = നിരക്ക്
 
 ## Codec support table
 
+media-codec-support-supported = പിന്തുണക്കപ്പെട്ട
+media-codec-support-unsupported = പിന്തുണക്കപ്പെട്ടാത്ത
 
 ## Media Content Decryption Modules (CDM)
 ## See EME Spec for more explanation for following technical terms
@@ -117,6 +120,7 @@ media-device-rate = നിരക്ക്
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-url = വെബുവിലാസം
 
 ##
 
@@ -215,6 +219,7 @@ can-sandbox-media = മീഡിയാ പ്ലഗിന്‍ സാന്റ�
 sandbox-proc-type-content = ഉള്ളടക്കം
 sandbox-proc-type-file = ഫയൽ ഉള്ളടക്കം
 sandbox-proc-type-media-plugin = മീഡിയ പ്ലഗിൻ
+launcher-process-status-0 = പ്രവർത്തനക്ഷമം
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -244,6 +249,9 @@ support-printing-prefs-value = മൂല്ല്യം
 
 ## Remote Settings sections
 
+support-remote-settings-status-ok = ശരി
+# Status when synchronization is not working.
+support-remote-settings-status-broken = നടക്കുന്നില്ല
 support-remote-settings-sync-history = നാള്‍വഴി
 support-remote-settings-sync-history-status = അവസ്ഥ
 support-remote-settings-sync-history-datetime = തീയതി
