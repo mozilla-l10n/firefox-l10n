@@ -160,3 +160,9 @@ genai-onboarding-lechat-price = Ücretsiz: Hesap açmanız gerekir
 
 ## Model Optin Component
 
+genai-model-optin-continue =
+    .label = Devam et
+genai-model-optin-optout =
+    .label = Vazgeç
+genai-model-optin-cancel =
+    .label = Vazgeç

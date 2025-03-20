@@ -586,6 +586,7 @@ pdfjs-editor-edit-signature-update-button = Güncelle
 pdfjs-editor-delete-signature-button =
     .title = İmzayı kaldır
 pdfjs-editor-delete-signature-button-label = İmzayı kaldır
+pdfjs-editor-delete-signature-button-label1 = Kayıtlı imzayı kaldır
 
 ## Editor toolbar
 

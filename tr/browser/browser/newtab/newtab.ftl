@@ -126,6 +126,8 @@ newtab-menu-section-unfollow = Konuyu takip etmeyi bırak
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
+newtab-menu-manage-sponsored-content = Sponsorlu içerikleri yönet
+newtab-menu-our-sponsors-and-your-privacy = Sponsorlarımız ve gizliliğiniz
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -382,6 +384,7 @@ newtab-wallpaper-starry-canyon = Mavi yıldızlı gece
 newtab-wallpaper-suspension-bridge = Gündüz vakti gri asma köprü fotoğrafı
 newtab-wallpaper-sand-dunes = Beyaz kumullar
 newtab-wallpaper-palm-trees = Tan vaktinde hindistancevizi ağaçlarının silueti
+newtab-wallpaper-blue-flowers = Açmış mavi renkli çiçeklerin yakın plan fotoğrafı
 newtab-wallpaper-forest-trees = Sisle kaplı ağaçlar
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
