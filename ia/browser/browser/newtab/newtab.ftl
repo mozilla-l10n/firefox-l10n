@@ -384,6 +384,7 @@ newtab-wallpaper-starry-canyon = Nocte stellate blau
 newtab-wallpaper-suspension-bridge = Photographia de un ponte suspendite gris durante le die
 newtab-wallpaper-sand-dunes = Dunas de arena blanc
 newtab-wallpaper-palm-trees = Silhouette de palmas de coco durante le hora aurate
+newtab-wallpaper-blue-flowers = Photographia in prime plano de flores con petalos blau florescente
 newtab-wallpaper-forest-trees = Arbores coperte de bruma
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
