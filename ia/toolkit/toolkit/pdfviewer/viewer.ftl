@@ -322,6 +322,9 @@ pdfjs-editor-signature-button-label = Adder signatura
 
 ## Default editor aria labels
 
+# “Highlight” is a noun, the string is used on the editor for highlights.
+pdfjs-editor-highlight-editor =
+    .aria-label = Editor de evidentiation
 # “Drawing” is a noun, the string is used on the editor for drawings.
 pdfjs-editor-ink-editor =
     .aria-label = Editor de designos
@@ -358,6 +361,8 @@ pdfjs-editor-stamp-add-image-button-label = Adder imagine
 pdfjs-editor-free-highlight-thickness-input = Spissor
 pdfjs-editor-free-highlight-thickness-title =
     .title = Cambiar spissor evidentiante elementos differente de texto
+pdfjs-editor-add-signature-container =
+    .aria-label = Controlos de signatura e signaturas salvate
 pdfjs-editor-signature-add-signature-button =
     .title = Adder nove signatura
 pdfjs-editor-signature-add-signature-button-label = Adder nove signatura
