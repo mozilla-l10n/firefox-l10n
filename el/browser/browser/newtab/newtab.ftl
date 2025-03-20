@@ -388,6 +388,7 @@ newtab-wallpaper-starry-canyon = Μπλε έναστρη νύχτα
 newtab-wallpaper-suspension-bridge = Γκρι φωτογραφία με μια κρεμαστή γέφυρα κατά τη διάρκεια της ημέρας
 newtab-wallpaper-sand-dunes = Λευκοί αμμόλοφοι
 newtab-wallpaper-palm-trees = Φιγούρες κοκοφοινίκων κατά τη «χρυσή ώρα»
+newtab-wallpaper-blue-flowers = Κοντινή φωτογραφία ανθισμένων λουλουδιών με μπλε πέταλα
 newtab-wallpaper-forest-trees = Δέντρα που καλύπτονται από ομίχλη
 # Variables
 #   $author_string (String) - The name of the creator of the photo.

@@ -11,6 +11,7 @@ label-more-information = Περισσότερες πληροφορίες: Σφά
 label-overrides = Αντικαταστάσεις πράκτορα χρήστη
 text-disabled-in-about-config = Αυτή η λειτουργία έχει απενεργοποιηθεί στο about:config
 text-no-interventions = Δεν χρησιμοποιούνται παρεμβάσεις
+text-page-title = Συμβατότητα ιστοτόπων
 text-no-overrides = Δεν χρησιμοποιούνται αντικαταστάσεις ΛΧ
 text-title = about:compat
 

@@ -322,6 +322,16 @@ pdfjs-editor-signature-button-label = Προσθήκη υπογραφής
 
 ## Default editor aria labels
 
+# “Highlight” is a noun, the string is used on the editor for highlights.
+pdfjs-editor-highlight-editor =
+    .aria-label = Επεξεργασία επισήμανσης
+# “Drawing” is a noun, the string is used on the editor for drawings.
+pdfjs-editor-ink-editor =
+    .aria-label = Επεξεργασία σχεδίου
+pdfjs-editor-signature-editor =
+    .aria-label = Επεξεργασία υπογραφής
+pdfjs-editor-stamp-editor =
+    .aria-label = Επεξεργασία εικόνας
 
 ## Remove button for the various kind of editor.
 
@@ -351,6 +361,8 @@ pdfjs-editor-stamp-add-image-button-label = Προσθήκη εικόνας
 pdfjs-editor-free-highlight-thickness-input = Πάχος
 pdfjs-editor-free-highlight-thickness-title =
     .title = Αλλαγή πάχους κατά την επισήμανση στοιχείων εκτός κειμένου
+pdfjs-editor-add-signature-container =
+    .aria-label = Στοιχεία ελέγχου υπογραφής και αποθηκευμένες υπογραφές
 pdfjs-editor-signature-add-signature-button =
     .title = Προσθήκη νέας υπογραφής
 pdfjs-editor-signature-add-signature-button-label = Προσθήκη νέας υπογραφής

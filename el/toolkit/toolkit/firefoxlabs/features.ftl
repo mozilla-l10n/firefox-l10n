@@ -28,3 +28,7 @@ experimental-features-group-customize-browsing =
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Κωδικοί πρόσβασης στην πλαϊνή γραμμή
+# New Tab Custom Wallpapers
+experimental-features-custom-wallpaper =
+    .label = Επιλέξτε μια προσαρμοσμένη ταπετσαρία ή χρώμα για τη νέα καρτέλα
+experimental-features-custom-wallpaper-description = Μεταφορτώστε τη δική σας ταπετσαρία ή επιλέξτε ένα προσαρμοσμένο χρώμα για το φόντο της νέας καρτέλας.

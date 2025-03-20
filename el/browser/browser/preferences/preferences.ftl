@@ -272,6 +272,7 @@ preferences-web-appearance-override-warning2 =
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Διαχειριστείτε τα θέματα του { -brand-short-name } στην ενότητα <a data-l10n-name="themes-link">Επεκτάσεις και θέματα</a>
 preferences-contrast-control-header = Έλεγχος αντίθεσης
+preferences-contrast-control-description = Οι ιστότοποι διαθέτουν μια ποικιλία χρωμάτων προσκηνίου και παρασκηνίου. Ρυθμίστε το { -brand-short-name }, ώστε να χρησιμοποιεί τα ίδια χρώματα σε όλους τους ιστοτόπους για ευκολότερη ανάγνωση.
 preferences-contrast-control-use-platform-settings =
     .label = Αυτόματος (χρήση ρυθμίσεων συστήματος)
     .accesskey = Α
