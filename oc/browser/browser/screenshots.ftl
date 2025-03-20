@@ -54,6 +54,11 @@ screenshots-component-retry-button =
 screenshots-component-copy-button-2 = Copiar
     .title = Copiar ({ $shortcut })
     .aria-label = Copiar
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button-2 = Telecargar
+    .title = Telecargar ({ $shortcut })
+    .aria-label = Telecargar
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.

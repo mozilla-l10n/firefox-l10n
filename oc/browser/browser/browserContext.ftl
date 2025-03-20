@@ -166,7 +166,7 @@ main-context-menu-copy-link-simple =
 # copied, like items that identify you for advertising purposes, and other items
 # sites add into URLs to help them deliver a certain browsing experience.
 main-context-menu-copy-clean-link =
-    .label = Copiar lo ligam netejar
+    .label = Copiar lo ligam netejat
     .accesskey = o
 # This command copies the link, removing additional
 # query parameters used to track users across sites.
