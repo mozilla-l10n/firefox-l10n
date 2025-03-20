@@ -95,6 +95,7 @@ inactive-css-collapsed-table-borders-fix = Hãy thử thêm <strong>border-colla
 inactive-css-not-table-cell-fix = Hãy thử thêm <strong>display:table-cell</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Hãy thử thêm <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, hoặc <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = Trên bảng phần tử mẹ, hãy xóa thuộc tính hoặc thay đổi giá trị của <strong>border-collapse</strong> sang một giá trị khác <strong>collapse</strong>. { learn-more }
+inactive-css-resize-fix = Hãy thử đặt <strong>overflow</strong> vào giá trị khác ngoài <strong>visible</strong> hoặc chọn một phần tử thay thế có hỗ trợ nó. { learn-more }
 inactive-css-ruby-element-fix = Hãy thử thay đổi <strong>font-size</strong> của văn bản ruby. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Hãy thử giảm số lượng dòng. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Tránh phân chia nội dung của phần tử, ví dụ bằng cách xóa các cột hoặc bằng cách sử dụng <strong>page-break-inside:avoid</strong>. { learn-more }

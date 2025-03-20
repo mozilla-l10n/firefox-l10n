@@ -314,6 +314,16 @@ pdfjs-editor-signature-button-label = Thêm chữ ký
 
 ## Default editor aria labels
 
+# “Highlight” is a noun, the string is used on the editor for highlights.
+pdfjs-editor-highlight-editor =
+    .aria-label = Trình chỉnh sửa đánh dấu
+# “Drawing” is a noun, the string is used on the editor for drawings.
+pdfjs-editor-ink-editor =
+    .aria-label = Trình chỉnh sửa bản vẽ
+pdfjs-editor-signature-editor =
+    .aria-label = Trình chỉnh sửa chữ ký
+pdfjs-editor-stamp-editor =
+    .aria-label = Trình chỉnh sửa hình ảnh
 
 ## Remove button for the various kind of editor.
 
@@ -343,9 +353,16 @@ pdfjs-editor-stamp-add-image-button-label = Thêm hình ảnh
 pdfjs-editor-free-highlight-thickness-input = Độ dày
 pdfjs-editor-free-highlight-thickness-title =
     .title = Thay đổi độ dày khi đánh dấu các mục không phải là văn bản
+pdfjs-editor-add-signature-container =
+    .aria-label = Kiểm soát chữ ký và chữ ký đã lưu
 pdfjs-editor-signature-add-signature-button =
     .title = Thêm chữ ký mới
 pdfjs-editor-signature-add-signature-button-label = Thêm chữ ký mới
+# Used on the button to use an already saved signature.
+# Variables:
+#   $description (String) - a string describing/labeling the signature.
+pdfjs-editor-add-saved-signature-button =
+    .title = Đã lưu chữ ký: { $description }
 # .default-content is used as a placeholder in an empty text editor.
 pdfjs-free-text2 =
     .aria-label = Trình chỉnh sửa văn bản
@@ -522,8 +539,8 @@ pdfjs-editor-add-signature-dialog-title = Thêm chữ ký
 ## Tab names
 
 # Type is a verb (you can type your name as signature)
-pdfjs-editor-add-signature-type-button = Loại
-    .title = Loại
+pdfjs-editor-add-signature-type-button = Đánh văn bản
+    .title = Đánh văn bản
 # Draw is a verb (you can draw your signature)
 pdfjs-editor-add-signature-draw-button = Vẽ
     .title = Vẽ
@@ -574,6 +591,9 @@ pdfjs-editor-edit-signature-update-button = Cập nhật
 pdfjs-editor-delete-signature-button =
     .title = Xoá chữ ký
 pdfjs-editor-delete-signature-button-label = Xoá chữ ký
+pdfjs-editor-delete-signature-button1 =
+    .title = Xoá chữ ký đã lưu
+pdfjs-editor-delete-signature-button-label1 = Xoá chữ ký đã lưu
 
 ## Editor toolbar
 
