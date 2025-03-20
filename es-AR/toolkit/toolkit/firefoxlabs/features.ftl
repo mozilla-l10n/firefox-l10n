@@ -29,3 +29,7 @@ experimental-features-group-customize-browsing =
 experimental-features-contextual-password-manager =
     .label = Contraseñas en la barra lateral
 experimental-features-contextual-password-manager-description = Acceda a sus contraseñas directamente desde la barra lateral. No más búsquedas ni restablecer contraseñas cuando quiera iniciar sesión. Para usar esta función, seleccione contraseñas en la barra lateral. Luego,vaya a la configuración general y en el diseño del navegador, seleccione mostrar barra lateral. Después, personalice la barra lateral seleccionando contraseñas. Si lo prueba, <a data-l10n-name="connect">háganos saber lo que piensa</a>.
+# New Tab Custom Wallpapers
+experimental-features-custom-wallpaper =
+    .label = Elegir un fondo de pantalla o color personalizado para la nueva pestaña
+experimental-features-custom-wallpaper-description = Suba su propio fondo de pantalla o elija un color personalizado para el fondo de la nueva pestaña.
