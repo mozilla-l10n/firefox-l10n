@@ -43,6 +43,9 @@ neterror-generic-error = { -brand-short-name } ei kykene lataamaan sivua jostain
 neterror-load-error-try-again = Sivusto voi olla väliaikaisesti saavuttamattomissa tai kovan rasituksen alaisena. Yritä hetken kuluttua uudestaan.
 neterror-load-error-connection = Jos mitkään sivustot eivät toimi, tarkista tietokoneen verkkoasetukset.
 neterror-load-error-firewall = Jos tietokone tai verkko on suojattu palomuurilla tai välityspalvelin on käytössä, tarkista että { -brand-short-name }in verkkoyhteyttä ei estetä.
+# This warning is only shown on macOS Sequoia and later (see bug 1929377)
+neterror-load-osx-permission = Jos yrität ladata paikallisverkon sivua, tarkista, että { -brand-short-name } on saanut paikallisen verkon käyttöoikeudet macOS:n tietosuoja- ja suojausasetuksista.
+neterror-http-error-page = Tarkista, että olet kirjoittanut verkkosivuston osoitteen oikein.
 neterror-captive-portal = Tähän verkkoon täytyy kirjautua ennen internetin käyttämistä.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -98,6 +101,9 @@ neterror-proxy-connect-failure-settings = Tarkista, että välityspalvelinasetuk
 neterror-proxy-connect-failure-contact-admin = Varmista verkon ylläpidolta, että välityspalvelin on toimintakunnossa.
 neterror-content-encoding-error = Ilmoita sivuston omistajalle tästä ongelmasta.
 neterror-unsafe-content-type = Ilmoita sivuston omistajalle tästä ongelmasta.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-basic-http-auth = { -brand-short-name } ei luota sivustoon { $hostname }, koska yhteys ei ole suojattu. Kokeile muuttaa URL-osoite HTTPS:ksi.
 neterror-nss-failure-not-verified = Avattavaa sivua ei voida näyttää, koska vastaanotetun datan alkuperää ei kyetty varmentamaan.
 neterror-nss-failure-contact-website = Ilmoitathan ongelmasta sivuston omistajalle.
 # Variables:
@@ -151,6 +157,9 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Jos et tunne <b>{ $mitm }</
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = Sivusto <b>{ $hostname }</b> noudattaa tietoturvakäytäntöä nimeltään HTTP Strict Transport Security (HSTS), mikä tarkoittaa, että { -brand-short-name } voi muodostaa siihen vain suojatun yhteyden. Tälle sivustolle siirtymistä varten ei voi lisätä poikkeusta.
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = Luultavasti ei mitään, koska todennäköisesti ongelma on itse sivustossa.
+certerror-blocked-by-corp-headers-description = Joskus verkkosivustot asettavat suojan itselleen ja kaltaisillesi ihmisille ei-toivotulta vuorovaikutukselta muiden sivustojen kanssa.
+certerror-coop-learn-more = Lisätietoja Cross Origin Opener Policies -käytännöistä (COOP)
+certerror-coep-learn-more = Lisätietoja Cross Origin Embedder -käytännöistä (COEP)
 # Variables:
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
