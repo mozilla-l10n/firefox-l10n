@@ -155,6 +155,9 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Viss du ikkje kjenner til <
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> har ein tryggingspolicy kalla HTTP Strict Transport Security (HSTS), som betyr at { -brand-short-name } berre kan kople til han trygt. Du kan ikkje leggje til eit unntak for å besøkje denne nettstaden.
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = Truleg ikkje mykje, det er sannsynleg at det er eit problem med sjølve nettstaden.
+certerror-blocked-by-corp-headers-description = Nokre gongar set nettstader opp vern for seg sjølv og folk som deg mot uønskt samhandling med andre nettstadar.
+certerror-coop-learn-more = Les meir om Cross Origin Opener Policies (COOP)
+certerror-coep-learn-more = Les meir om Cross Origin Embedder Policies (COEP)
 # Variables:
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").

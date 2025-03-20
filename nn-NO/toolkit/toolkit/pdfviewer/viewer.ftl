@@ -520,6 +520,7 @@ pdfjs-editor-undo-bar-close-button-label = Lat att
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-title = Legg til ein signatur
 
 ## Tab names
 
