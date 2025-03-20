@@ -78,12 +78,15 @@ sidebar-button-callout-vertical-tabs = Sekmelerinizi göstermek için araç çub
 ## Sidebar Vertical Tabs Strings
 
 vertical-tabs-callout-1-title = Çok fazla sekmeden bunaldınız mı?
+vertical-tabs-callout-1-subtitle = Sekme listenize hızlıca göz atmak için yeni dikey sekme düzenimizi deneyin. İlk deneyenler bu düzeni faydalı bulduklarını bildiriyor. İstediğiniz zaman eski haline dönebilirsiniz.
 vertical-tabs-callout-1-cta-button = Dikey sekmeleri dene
 vertical-tabs-callout-2-cta-button = Şimdi dene
 vertical-tabs-callout-2-title = Çok fazla açık sekmeniz mi var? Dikey sekmeleri deneyin.
+vertical-tabs-callout-2-subtitle = Bu düzen, sekme listenize hızlıca göz atmanızı kolaylaştıracak. Ayrıca genişliği ayarlayarak sekme başlıklarını daha az veya daha çok görmeyi tercih edebilirsiniz.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = Önemli sekmelerinizi gözden kaçırıyor musunuz?
 sidebar-pins-callout-cta-button = Sekmeyi sabitle
 
 ## Sidebar Onboarding Strings
