@@ -76,6 +76,7 @@ item-active-logins =
 item-cache =
     .label = കാഷ്
     .accesskey = a
+item-cached-content-description = വെബിടങ്ങൾ പെട്ടന്നു് ലഭ്യമാക്കുവാൻ ഇനങ്ങളെ മായ്ക്കാൻ തുണയ്ക്കുന്നു.
 item-form-search-history =
     .label = &ഫോമും തെരച്ചില്‍ നാള്‍വഴിയും
     .accesskey = ര

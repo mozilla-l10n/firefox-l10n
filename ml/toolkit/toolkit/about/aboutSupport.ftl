@@ -15,6 +15,10 @@ support-addons-type = തരം
 support-addons-enabled = പ്രവര്‍ത്തന സജ്ജം
 support-addons-version = പതിപ്പു്
 support-addons-id = ഐഡി
+# In the add-on world, locations are where the addon files are stored. Each
+# location has name. For instance: app-system-addons, app-builtin,
+# app-temporary, etc.
+support-addons-location-name = ഇടം
 legacy-user-stylesheets-enabled = സജ്ജം
 security-software-type = തരം
 security-software-name = പേരു്
