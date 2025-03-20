@@ -44,6 +44,9 @@ sync-setup-verify-heading = Er du sikker på at du vil logge inn for å synkroni
 # Dialog 1 - different account signing in without option to merge
 sync-profile-different-account-title = Kontogrensa er nådd for denne profilen
 sync-profile-different-account-header = Denne profilen vart tidlegare synkronisert til ein annan konto
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+sync-profile-different-account-description = For å halde dataa dine organiserte og sikre, kan kvar { -brand-product-name }-profil berre synkroniserast til éin konto. For å logge på med { $acctEmail }, opprett ein ny profil.
 # Dialog 1 - different account signing in with merge option
 sync-profile-different-account-title-merge = Profil synkronisert til ein annan konto
 # Dialog 2 - account signed in on another profile without option to merge

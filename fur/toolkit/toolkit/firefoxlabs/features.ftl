@@ -29,3 +29,7 @@ experimental-features-group-customize-browsing =
 experimental-features-contextual-password-manager =
     .label = Passwords te sbare laterâl
 experimental-features-contextual-password-manager-description = Dopre lis tôs passwords dret de sbare laterâl. No tu varâs plui di cirî ator o tornâ a configurâ lis passwords cuant che tu ciris di jentrâ cu lis credenziâls suntun sît. Par doprâ cheste funzion, ative la opzion passwords te sbare laterâl. Dopo va tes impostazions gjenerâls e te sezion “Disposizion dal navigadôr”, selezione “Mostre sbare laterâl”. Tal ultin, personalize la sbare laterâl selezionant passwords. Se tu provis cheste funzion, <a data-l10n-name="connect">fânus savê ce che tu pensis in merit</a>.
+# New Tab Custom Wallpapers
+experimental-features-custom-wallpaper =
+    .label = Sielç un fonts o un colôr personalizât pe pagjine Gnove schede
+experimental-features-custom-wallpaper-description = Cjame il to fondâl o sielç un colôr personalizât pal fonts des gnovis schedis.

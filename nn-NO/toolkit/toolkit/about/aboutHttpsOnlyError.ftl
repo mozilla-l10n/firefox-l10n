@@ -11,6 +11,7 @@ about-httpsonly-explanation-question = Kva kan vere årsaka til dette?
 about-httpsonly-explanation-nosupport = Mest sannsynleg støttar nettstaden ganske enkelt ikkje HTTPS.
 about-httpsonly-explanation-risk = Det er også mogleg at ein angripar er involvert. Dersom du bestemmer deg for å besøke nettstaden, bør du ikkje oppgi sensitiv informasjon som passord, e-post eller betalingskortinformasjon.
 about-httpsonly-explanation-continue = Dersom du fortset, vert berre-HTTPS-modus slått av mellombels for denne nettstaden.
+about-httpsonly-explanation-iframe = På grunn av blokkering av blanda innhald er det ikkje mogleg å la denne ramma lastast manuelt.
 about-httpsonly-button-continue-to-site = Fortset til HTTP-nettstaden
 about-httpsonly-button-go-back = Gå tilbake
 about-httpsonly-link-learn-more = Les meir…

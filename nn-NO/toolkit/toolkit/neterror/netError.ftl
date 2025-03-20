@@ -43,6 +43,7 @@ neterror-generic-error = { -brand-short-name } klarte ikkje å laste denne sida 
 neterror-load-error-try-again = Nettstaden kan vere mellombels utilgjengeleg eller oppteken. Prøv på nytt om ei lita stund.
 neterror-load-error-connection = Dersom ingen sider vert lasta, kontroller at nettverkstilkoplinga til datamaskina er i orden.
 neterror-load-error-firewall = Dersom datamaskina er verna av ein brannmur eller mellomtenar, kontroller at { -brand-short-name } har løyve til å bruke nettet.
+neterror-http-error-page = Kontroller at du har skrive inn nettadressa rett.
 neterror-captive-portal = Du må logge inn på nettverket før du kan kople til Internett.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -98,6 +99,9 @@ neterror-proxy-connect-failure-settings = Kontroller at proxy-innstillingane er 
 neterror-proxy-connect-failure-contact-admin = Kontakt nettverksansvarleg for å forsikre deg om at proxyserveren fungerer.
 neterror-content-encoding-error = Kontakt eigarane av nettstaden og informer dei om problemet.
 neterror-unsafe-content-type = Kontakt eigaren av nettsida og informer dei om dette problemet.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-basic-http-auth = { -brand-short-name } stolar ikkje på { $hostname } fordi tilkoplinga ikkje er sikker. Prøv å endre URL-en til HTTPS.
 neterror-nss-failure-not-verified = Sida du prøver å opne kan ikkje visast fordi det ikkje kan stadfestast at overførte data er autentiske.
 neterror-nss-failure-contact-website = Kontakt nettstadeigarane og informer om problemet.
 # Variables:
@@ -150,6 +154,7 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Viss du ikkje kjenner til <
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> har ein tryggingspolicy kalla HTTP Strict Transport Security (HSTS), som betyr at { -brand-short-name } berre kan kople til han trygt. Du kan ikkje leggje til eit unntak for å besøkje denne nettstaden.
+cert-error-trust-certificate-transparency-what-can-you-do-about-it = Truleg ikkje mykje, det er sannsynleg at det er eit problem med sjølve nettstaden.
 # Variables:
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
