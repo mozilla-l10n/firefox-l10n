@@ -581,6 +581,7 @@ pdfjs-editor-delete-signature-button =
 pdfjs-editor-delete-signature-button-label = 移除签名
 pdfjs-editor-delete-signature-button1 =
     .title = 移除已保存的签名
+pdfjs-editor-delete-signature-button-label1 = 移除已保存的签名
 
 ## Editor toolbar
 
