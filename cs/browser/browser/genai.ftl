@@ -176,3 +176,9 @@ genai-onboarding-lechat-price = Zdarma; je vyžadován účet
 
 ## Model Optin Component
 
+genai-model-optin-continue =
+    .label = Pokračovat
+genai-model-optin-optout =
+    .label = Zrušit
+genai-model-optin-cancel =
+    .label = Zrušit

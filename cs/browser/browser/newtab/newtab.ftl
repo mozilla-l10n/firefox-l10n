@@ -126,6 +126,8 @@ newtab-menu-section-unfollow = Přestat sledovat téma
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
+newtab-menu-manage-sponsored-content = Správa sponzorovaného obsahu
+newtab-menu-our-sponsors-and-your-privacy = Naši sponzoři a vaše soukromí
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -393,6 +395,7 @@ newtab-wallpaper-starry-canyon = Modrá hvězdná noc
 newtab-wallpaper-suspension-bridge = Šedivé fotografování celé visuté můstky během dne
 newtab-wallpaper-sand-dunes = Bílé písečné duny
 newtab-wallpaper-palm-trees = Silueta kokosových palem během zlaté hodiny
+newtab-wallpaper-blue-flowers = Detailní fotografie modrých okvětních lístků v květu
 newtab-wallpaper-forest-trees = Stromy v mlze
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
