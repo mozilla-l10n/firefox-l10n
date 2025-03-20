@@ -326,6 +326,16 @@ pdfjs-editor-signature-button-label = Přidat podpis
 
 ## Default editor aria labels
 
+# “Highlight” is a noun, the string is used on the editor for highlights.
+pdfjs-editor-highlight-editor =
+    .aria-label = Editor zvýraznění
+# “Drawing” is a noun, the string is used on the editor for drawings.
+pdfjs-editor-ink-editor =
+    .aria-label = Editor kresby
+pdfjs-editor-signature-editor =
+    .aria-label = Editor podpisu
+pdfjs-editor-stamp-editor =
+    .aria-label = Editor obrázků
 
 ## Remove button for the various kind of editor.
 
@@ -355,6 +365,8 @@ pdfjs-editor-stamp-add-image-button-label = Přidat obrázek
 pdfjs-editor-free-highlight-thickness-input = Tloušťka
 pdfjs-editor-free-highlight-thickness-title =
     .title = Změna tloušťky při zvýrazňování jiných položek než textu
+pdfjs-editor-add-signature-container =
+    .aria-label = Ovládací prvky pro podpisy a uložené podpisy
 pdfjs-editor-signature-add-signature-button =
     .title = Přidat nový podpis
 pdfjs-editor-signature-add-signature-button-label = Přidat nový podpis

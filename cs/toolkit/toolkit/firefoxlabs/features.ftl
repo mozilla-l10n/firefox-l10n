@@ -33,3 +33,7 @@ experimental-features-group-customize-browsing =
 experimental-features-contextual-password-manager =
     .label = Hesla v postranní liště
 experimental-features-contextual-password-manager-description = Přístup k heslům přímo z postranní lišty. Už žádné hledání nebo resetování hesel při pokusu o přihlášení. Chcete-li tuto funkci použít, vyberte v postranní liště položku Hesla. Poté přejděte do obecných nastavení a v části Rozložení prohlížeče vyberte možnost Zobrazit postranní lištu. Poté si přizpůsobte postranní lištu výběrem hesel. Pokud to vyzkoušíte, <a data-l10n-name="connect">dejte nám vědět, co si o tom myslíte</a>.
+# New Tab Custom Wallpapers
+experimental-features-custom-wallpaper =
+    .label = Vyberte vlastní tapetu nebo barvu nového panelu
+experimental-features-custom-wallpaper-description = Nahrajte vlastní tapetu nebo si vyberte vlastní barvu pozadí nového panelu.
