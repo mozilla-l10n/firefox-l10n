@@ -61,6 +61,15 @@ item-history-form-data-downloads =
 item-cookies =
     .label = കുക്കികള്‍
     .accesskey = C
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cookies-site-data-with-size =
+    .label = കുക്കികളും വെബിട ഡാറ്റയും ({ $amount } { $unit })
+    .accesskey = ക
+item-cookies-site-data =
+    .label = കുക്കികളും വെബിട ഡാറ്റയും
+    .accesskey = ക
 item-active-logins =
     .label = സജീവമായ ലോഗിനുകള്‍
     .accesskey = L
@@ -85,6 +94,10 @@ window-close =
     .key = w
 sanitize-button-ok =
     .label = ഇപ്പോള്‍ മായ്ക്കുക
+sanitize-button-ok2 =
+    .label = വെടിപ്പാക്കുക
+sanitize-button-ok-on-shutdown =
+    .label = മാറ്റങ്ങളെ കരുതിവയ്ക്കുക
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
