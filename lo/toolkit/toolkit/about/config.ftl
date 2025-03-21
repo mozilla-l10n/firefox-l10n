@@ -5,6 +5,7 @@
 
 ## These strings appear on the warning you see when first visiting about:config.
 
+about-config-intro-warning-button = ຍອມຮັບຄວາມສ່ຽງ ແລະ ດຳເນີນການຕໍ່
 
 ##
 

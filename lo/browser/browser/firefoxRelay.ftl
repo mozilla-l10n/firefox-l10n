@@ -62,6 +62,7 @@ firefox-relay-offer-legal-notice-control = ໂດຍການລົງທະບ�
 ## The "basic-info" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-basic-info = ປ້ອງກັນສະແປມດ້ວຍໂຕປົກປິດອີເມວຟຣີ
+firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = ປ້ອງກັນສະແປມໂດຍການເຊື່ອງທີ່ຢູ່ອີເມວທີ່ແທ້ຈິງຂອງທ່ານດ້ວຍ <label data-l10n-name="firefox-relay-learn-more-url">ໜ້າກາກອີເມວ</label>. ອີເມວຈາກ <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ເວັບໄຊນີ້</label> ຈະຍັງຄົງມາຮອດອິນບັອກຂອງທ່ານ, ແຕ່ອີເມວຂອງທ່ານທີ່ຖືກເຊື່ອງໄວ້.
 firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = ທໍາອິດ, ລົງທະບຽນ ຫຼື ເຂົ້າສູ່ລະບົບບັນຊີຂອງທ່ານເພື່ອໃຊ້ໂຕປົກປິດອີເມວ
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = ລົງ​ທະ​ບຽນ

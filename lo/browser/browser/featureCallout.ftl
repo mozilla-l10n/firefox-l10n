@@ -92,9 +92,11 @@ sidebar-pins-callout-cta-button = ປັກໝຸດແຖບ
 ## Sidebar Onboarding Strings
 
 sidebar-customization-callout-1-title = Sidebar: ຈຸດຂອງທ່ານສໍາລັບເຄື່ອງມື ແລະ ແຖບ
+sidebar-customization-callout-1-subtitle = ແຖບດ້ານຂ້າງ { -brand-product-name } ໃຫ້ທ່ານເຂົ້າເຖິງປະຫວັດການທ່ອງເວັບຂອງທ່ານ, ແຖບຈາກອຸປະກອນອື່ນ ແລະ AI chatbot — ທັງໝົດໂດຍບໍ່ຕ້ອງອອກຈາກມຸມມອງຫຼັກຂອງທ່ານ.
 sidebar-customization-callout-callout-button = ປັບແຕ່ງແຖບດ້ານຂ້າງ
 sidebar-customization-callout-dismiss-button = ເຊື່ອງແຖບດ້ານຂ້າງ
 sidebar-customization-callout-2-title = ສ້າງແຖບດ້ານຂ້າງ { -brand-product-name } ຂອງທ່ານເອງ
+sidebar-customization-callout-2-subtitle = ເພີ່ມ ແລະ ເອົາເຄື່ອງມືອອກ. ວາງແຖບຂອງທ່ານໃນແຖບດ້ານຂ້າງ. ລອງໃຊ້ AI chatbot. ວິທີທີ່ທ່ານປັບແຕ່ງແຖບດ້ານຂ້າງແມ່ນຂຶ້ນກັບທ່ານ.
 
 ## Sidebar Callout Survey Strings
 

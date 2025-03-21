@@ -14,6 +14,11 @@ create-profile-first-page-header2 =
        *[other] ຍິນດີຕ້ອນຮັບສູ່ { create-profile-window2.title }
     }
 profile-creation-explanation-1 = { -brand-short-name } ຈັດເກັບຂໍ້ມູນກ່ຽວກັບການຕັ້ງຄ່າ ແລະ ການປັບແຕ່ງຂອງທ່ານໄວ້ໃນໂປຣໄຟລ໌ຂອງທ່ານ.
+profile-creation-explanation-4 =
+    { PLATFORM() ->
+        [macos] ເພື່ອເລີ່ມຕົ້ນການສ້າງໂປຣໄຟລ໌ຂອງທ່ານ, ຄລິກຕໍ່ໄປ.
+       *[other] ເພື່ອເລີ່ມຕົ້ນການສ້າງໂປຣໄຟລ໌ຂອງທ່ານ, ຄລິກຕໍ່ໄປ.
+    }
 
 ## Second wizard page
 

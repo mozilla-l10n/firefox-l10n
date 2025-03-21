@@ -28,6 +28,11 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = ສົ່ງແຖບທັນທີໄປຫາອຸປະກອນຕ່າງໆທີ່ທ່ານເຂົ້າສູ່ລະບົບ.
 fxa-menu-sign-out =
     .label = ອອກ​ຈາກ​ລະ​ບົບ…
+sync-setup-verify-continue = ສືບຕໍ່
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $profileName (String) - Name of the current profile
+sync-profile-different-account-description-merge = ເພື່ອຮັກສາຂໍ້ມູນຂອງທ່ານໃຫ້ເປັນລະບຽບ ແລະ ປອດໄພ, ພວກເຮົາແນະນຳໃຫ້ສ້າງໂປຣໄຟລ໌ໃໝ່ເພື່ອເຂົ້າສູ່ລະບົບໂດຍໃຊ້ { $acctEmail }. ຖ້າ​ຫາກ​ທ່ານ​ເລືອກ​ທີ່​ຈະ​ສືບ​ຕໍ່​ຊິງ​ຢູ່​ໃນ​ໂປ​ຣ​ໄຟ​ລ໌​ນີ້, ຂໍ້​ມູນ​ຈາກ​ທັງ​ສອງ​ບັນ​ຊີ​ຈະ​ຖືກ​ລວມ​ເຂົ້າ​ກັບ “{ $profileName }” ຢ່າງ​ຖາ​ວອນ.
