@@ -28,3 +28,7 @@ experimental-features-group-customize-browsing =
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Kenar çubuğunda parolalar
+# New Tab Custom Wallpapers
+experimental-features-custom-wallpaper =
+    .label = Yeni Sekme için duvar kâğıdı veya renk seç
+experimental-features-custom-wallpaper-description = Kendi duvar kâğıdınızı yükleyin veya Yeni Sekme arka planınız için özel bir renk seçin.

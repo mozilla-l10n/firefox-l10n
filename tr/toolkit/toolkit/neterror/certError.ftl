@@ -76,6 +76,15 @@ open-in-new-window-for-csp-or-xfo-error = Siteyi yeni pencerede aç
 csp-xfo-blocked-long-desc = Bu sayfayı başka bir site gömdüyse { $hostname } güvenliğinizi korumak için  { -brand-short-name } tarayıcınızın sayfayı görüntülemesine izin vermez. Bu sayfayı görmek için yeni bir pencerede açmanız gerekir.
 fp-certerror-view-certificate-link = Sitenin sertifikasını göster
 fp-certerror-return-to-previous-page-recommended-button = Geri dön (önerilen)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $validHosts (String) - Valid hostnames.
+fp-certerror-bad-domain-why-dangerous-body = Bu site yalnızca güvenli bağlantılara izin verecek şekilde ayarlanmış ama sitenin sertifikasında bir sorun var. Kötü niyetli birisi siteyi taklit etmeye çalışıyor olabilir. Siteler gerçekten o site olduklarını kanıtlamak için sertifika makamlarının verdiği sertifikaları kullanır. Bu sitenin sertifikası { $hostname } adresi için geçerli olmadığından { -brand-short-name } bu siteye güvenmiyor. Sertifika sadece { $validHosts } için geçerli.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-bad-domain-what-can-you-do-body = Muhtemelen yapabileceğiniz bir şey yok çünkü sorun siteden kaynaklanıyor. Siteler gerçekten o site olduklarını kanıtlamak için sertifika makamlarının verdiği sertifikaları kullanır. Ancak kurumsal bir ağdaysanız destek ekibiniz daha fazla bilgi sahibi olabilir. Antivirüs yazılımı kullanıyorsanız olası çakışmaları ve bilinen sorunları aramayı deneyebilirsiniz.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-unknown-issuer-why-dangerous-body = Bu sitenin sertifikasında bir sorun var. Kötü niyetli birisi siteyi taklit etmeye çalışıyor olabilir. Siteler gerçekten o site olduklarını kanıtlamak için sertifika makamlarının verdiği sertifikaları kullanır. Bu sitenin sertifikasını kimin verdiğini anlayamadığımız için { -brand-short-name } bu siteye güvenmiyor. Sertifika kendi kendine imzalanmış olabilir veya güvendiğimiz ara sertifikaları göndermemiş olabilir.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-unknown-issuer-what-can-you-do-body = Muhtemelen yapabileceğiniz bir şey yok çünkü büyük olasılıkla siteden kaynaklanan bir sorun var. Ancak kurumsal bir ağdaysanız destek ekibiniz daha fazla bilgi sahibi olabilir. Antivirüs yazılımı kullanıyorsanız bu yazılımı { -brand-short-name } ile çalışacak şekilde yapılandırmanız gerekebilir.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
