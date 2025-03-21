@@ -29,3 +29,7 @@ experimental-features-group-customize-browsing =
 experimental-features-contextual-password-manager =
     .label = Senhas no painel lateral
 experimental-features-contextual-password-manager-description = Acesse suas senhas direto no painel lateral. Chega de ficar procurando ou redefinindo senhas ao tentar entrar em contas. Para usar este recurso, selecione senhas no painel lateral. Depois, abra as configurações gerais e, em layout do navegador, selecione mostrar painel lateral. Então, personalize seu painel lateral, selecionando senhas. Se você experimentar, <a data-l10n-name="connect">nos conte o que achou</a>.
+# New Tab Custom Wallpapers
+experimental-features-custom-wallpaper =
+    .label = Escolha uma cor ou fundo de tela personalizado para a página de nova aba
+experimental-features-custom-wallpaper-description = Envie seu próprio fundo de tela ou escolha uma cor personalizada para o fundo da página de nova aba.
