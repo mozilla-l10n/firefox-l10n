@@ -354,6 +354,11 @@ pdfjs-editor-free-highlight-thickness-title =
 pdfjs-editor-signature-add-signature-button =
     .title = Tilføj ny underskrift
 pdfjs-editor-signature-add-signature-button-label = Tilføj ny underskrift
+# Used on the button to use an already saved signature.
+# Variables:
+#   $description (String) - a string describing/labeling the signature.
+pdfjs-editor-add-saved-signature-button =
+    .title = Gemt underskrift: { $description }
 # .default-content is used as a placeholder in an empty text editor.
 pdfjs-free-text2 =
     .aria-label = Teksteditor
@@ -586,6 +591,9 @@ pdfjs-editor-edit-signature-update-button = Opdater
 pdfjs-editor-delete-signature-button =
     .title = Fjern underskrift
 pdfjs-editor-delete-signature-button-label = Fjern underskrift
+pdfjs-editor-delete-signature-button1 =
+    .title = Fjern gemt underskrift
+pdfjs-editor-delete-signature-button-label1 = Fjern gemt underskrift
 
 ## Editor toolbar
 

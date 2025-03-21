@@ -989,6 +989,9 @@ panel-save-update-password = Hesło
 # "More" item in macOS share menu
 menu-share-more =
     .label = Wjace…
+menu-share-copy-link =
+    .label = Wotkaz kopěrować
+    .accesskey = k
 ui-tour-info-panel-close =
     .tooltiptext = Začinić
 

@@ -129,3 +129,5 @@ about-reader-text-alignment-center =
     .title = Centrer tekst
 about-reader-text-alignment-right =
     .title = Juster tekst til højre
+about-reader-text-alignment-justify =
+    .title = Lige margener

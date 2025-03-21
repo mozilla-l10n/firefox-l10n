@@ -25,3 +25,6 @@ experimental-features-group-webpage-display =
     .label = Visning af webside
 experimental-features-group-customize-browsing =
     .label = Tilpas din browser
+# Contextual Password Manager in sidebar
+experimental-features-contextual-password-manager =
+    .label = Adgangskoder i sidepanelet

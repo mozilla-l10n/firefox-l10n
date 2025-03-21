@@ -989,6 +989,9 @@ panel-save-update-password = Gronidło
 # "More" item in macOS share menu
 menu-share-more =
     .label = Wěcej…
+menu-share-copy-link =
+    .label = Wótkaz kopěrowaś
+    .accesskey = k
 ui-tour-info-panel-close =
     .tooltiptext = Zacyniś
 
