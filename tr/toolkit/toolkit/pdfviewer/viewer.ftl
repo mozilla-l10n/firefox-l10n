@@ -322,6 +322,16 @@ pdfjs-editor-signature-button-label = İmza ekle
 
 ## Default editor aria labels
 
+# “Highlight” is a noun, the string is used on the editor for highlights.
+pdfjs-editor-highlight-editor =
+    .aria-label = Vurgu düzenleyici
+# “Drawing” is a noun, the string is used on the editor for drawings.
+pdfjs-editor-ink-editor =
+    .aria-label = Çizim düzenleyici
+pdfjs-editor-signature-editor =
+    .aria-label = İmza düzenleyici
+pdfjs-editor-stamp-editor =
+    .aria-label = Resim düzenleyici
 
 ## Remove button for the various kind of editor.
 
