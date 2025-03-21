@@ -16,9 +16,13 @@ neterror-malformed-uri-page-title = URL ບໍ່ຖືກຕ້ອງ
 neterror-copy-to-clipboard-button = ສຳເນົາຂໍ້ຄວາມໄປໄວ້ທີ່ Clipboard
 neterror-learn-more-link = ຮຽນຮູ້ເພີ່ມເຕີມ...​
 neterror-open-portal-login-page-button = ເປີດຫນ້າເຂົ້າສູ່ລະບົບເຄືອຂ່າຍ
+neterror-override-exception-button = ຍອມຮັບຄວາມສ່ຽງ ແລະ ດຳເນີນການຕໍ່
 neterror-pref-reset-button = ກູ້ຄືນການຕັ້ງຄ່າເລີ່ມຕົ້ນ
 neterror-return-to-previous-page-button = ກັບຄືນ
 neterror-try-again-button = ລອງໃຫມ່ອີກຄັ້ງ
+neterror-add-exception-button = ສືບຕໍ່ສໍາລັບເວັບໄຊທ໌ນີ້
+neterror-trr-continue-this-time = ສືບຕໍ່ຕອນນີ້
+neterror-disable-native-feedback-warning = ສືບຕໍ່ຢູ່ສະເໝີ
 
 ##
 

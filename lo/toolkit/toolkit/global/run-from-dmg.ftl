@@ -11,6 +11,7 @@
 
 ## Strings for a dialog that opens if the installation failed.
 
+install-failed-message = { -brand-short-name } ລົ້ມເຫລວໃນການຕິດຕັ້ງ ແຕ່ຍັງສາມາດເອີ້ນໃຊ້ໄດ້
 
 ## Strings for a dialog that recommends to the user to start an existing
 ## installation of the app in the Applications directory if one is detected,
