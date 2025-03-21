@@ -25,3 +25,7 @@ experimental-features-group-webpage-display =
     .label = 网页显示
 experimental-features-group-customize-browsing =
     .label = 定制浏览体验
+# New Tab Custom Wallpapers
+experimental-features-custom-wallpaper =
+    .label = 定制新标签页的壁纸或颜色
+experimental-features-custom-wallpaper-description = 自行上传壁纸或选取自定义颜色，用作新标签页的背景。

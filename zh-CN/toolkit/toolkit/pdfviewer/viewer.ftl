@@ -314,6 +314,9 @@ pdfjs-editor-signature-button-label = 添加签名
 
 ## Default editor aria labels
 
+# “Highlight” is a noun, the string is used on the editor for highlights.
+pdfjs-editor-highlight-editor =
+    .aria-label = 高亮编辑器
 # “Drawing” is a noun, the string is used on the editor for drawings.
 pdfjs-editor-ink-editor =
     .aria-label = 绘图编辑器
@@ -350,6 +353,8 @@ pdfjs-editor-stamp-add-image-button-label = 添加图像
 pdfjs-editor-free-highlight-thickness-input = 粗细
 pdfjs-editor-free-highlight-thickness-title =
     .title = 更改高亮粗细（用于文本以外项目）
+pdfjs-editor-add-signature-container =
+    .aria-label = 签名管理和保存的签名
 pdfjs-editor-signature-add-signature-button =
     .title = 添加新签名
 pdfjs-editor-signature-add-signature-button-label = 添加新签名
