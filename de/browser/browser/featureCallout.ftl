@@ -77,12 +77,27 @@ sidebar-button-callout-vertical-tabs = Um Ihre Tabs anzuzeigen, klicken Sie auf 
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = Von zu vielen Tabs überfordert?
+vertical-tabs-callout-1-subtitle = Probieren Sie unser neues Layout für vertikale Tabs aus, um Ihre Tab-Liste schnell zu durchsuchen. Erste Tester berichten, dass dieses Layout ihnen hilft, sich organisierter zu fühlen. Jederzeit wechseln.
+vertical-tabs-callout-1-cta-button = Vertikale Tabs ausprobieren
+vertical-tabs-callout-2-cta-button = Jetzt ausprobieren
+vertical-tabs-callout-2-title = Haben Sie viele Tabs offen? Probieren Sie vertikale Tabs aus.
+vertical-tabs-callout-2-subtitle = Dieses Layout erleichtert das schnelle Scannen der Liste Ihrer Tabs. Außerdem können Sie die Breite anpassen, um mehr oder weniger Ihrer Tab-Titel zu sehen.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = Verlieren Sie die Übersicht über Ihre wichtigen Tabs?
+sidebar-pins-callout-subtitle = Versuchen Sie, die Tabs anzuheften, damit sie weiter oben in der Liste Ihrer Tabs angezeigt werden. Klicken Sie mit der rechten Maustaste auf den Tab, den Sie anheften möchten, und wählen Sie dann "Tab anheften".
+sidebar-pins-callout-cta-button = Tab anheften
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Die Sidebar: Ihr Platz für Werkzeuge und Tabs
+sidebar-customization-callout-1-subtitle = Die { -brand-product-name }-Sidebar bietet Ihnen schnellen Zugriff auf Ihre Surf-Chronik, Tabs von anderen Geräten und einen KI-Chatbot – alles, ohne die Hauptansicht zu verlassen.
+sidebar-customization-callout-callout-button = Sidebar anpassen
+sidebar-customization-callout-dismiss-button = Sidebar ausblenden
+sidebar-customization-callout-2-title = Personalisieren Sie Ihre { -brand-product-name }-Sidebar
+sidebar-customization-callout-2-subtitle = Fügen Sie Werkzeuge hinzu oder entfernen Sie diese. Platzieren Sie Ihre Tabs in der Sidebar. Probieren Sie einen KI-Chatbot aus. Wie Sie Ihre Sidebar anpassen, liegt bei Ihnen.
 
 ## Sidebar Callout Survey Strings
 

@@ -126,6 +126,8 @@ newtab-menu-section-unfollow = Thema nicht mehr folgen
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
+newtab-menu-manage-sponsored-content = Gesponserte Inhalte verwalten
+newtab-menu-our-sponsors-and-your-privacy = Unsere Sponsoren und Ihre Privatsphäre
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -386,6 +388,7 @@ newtab-wallpaper-starry-canyon = Blaue sternenklare Nacht
 newtab-wallpaper-suspension-bridge = Graue Fotografie einer Hängebrücke bei Tag
 newtab-wallpaper-sand-dunes = Weiße Sanddünen
 newtab-wallpaper-palm-trees = Silhouette von Kokospalmen zur Goldenen Stunde
+newtab-wallpaper-blue-flowers = Detailaufnahmen von blühenden blauen Blumen
 newtab-wallpaper-forest-trees = Bäume im Nebel
 # Variables
 #   $author_string (String) - The name of the creator of the photo.

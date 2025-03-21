@@ -60,6 +60,9 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Sidebar ausklappen, wenn der Mauszeiger darauf liegt
+expand-on-hover-message =
+    .heading = Ausklappen, wenn der Mauszeiger darauf liegt, kommt bald
+    .message = In einem zukünftigen Update kann die Sidebar ausgeklappt werden, wenn der Mauszeiger darauf liegt.
 
 ## Labels for sidebar context menu items
 
