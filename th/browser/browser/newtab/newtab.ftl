@@ -126,6 +126,8 @@ newtab-menu-section-unfollow = เลิกติดตามหัวข้อ
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
+newtab-menu-manage-sponsored-content = จัดการเนื้อหาที่ได้รับการสนับสนุน
+newtab-menu-our-sponsors-and-your-privacy = ผู้สนับสนุนของเราและความเป็นส่วนตัวของคุณ
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 

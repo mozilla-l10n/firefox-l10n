@@ -78,6 +78,10 @@ sidebar-button-callout-vertical-tabs = Para mostrar os seus separadores, selecio
 ## Sidebar Vertical Tabs Strings
 
 vertical-tabs-callout-1-title = Demasiados separadores?
+vertical-tabs-callout-1-subtitle = Experimente a nossa nova disposição vertical de separadores para um acesso mais ágil à sua lista de separadores. Os primeiros utilizadores que experimentaram indicaram que esta disposição ajuda a que se sintam mais organizados. Pode mudar a qualquer altura.
+vertical-tabs-callout-1-cta-button = Experimentar os separadores verticais
+vertical-tabs-callout-2-cta-button = Experimentar agora
+vertical-tabs-callout-2-title = Mantém muitos separadores abertos? Experimente os separadores verticais.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
