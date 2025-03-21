@@ -277,6 +277,17 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Upravljajte teme { -brand-short-name(sklon: "rodilnik") } na strani <a data-l10n-name="themes-link">Razširitve in teme</a>
+preferences-contrast-control-header = Nadzor kontrasta
+preferences-contrast-control-description = Spletne strani uporabljajo različne barve ospredja in ozadja. Nastavite { -brand-short-name(sklon: "tožilnik") } tako, da bo za večjo berljivost na vseh spletnih mestih uporabljal enake barve.
+preferences-contrast-control-use-platform-settings =
+    .label = Samodejno (uporabi sistemske nastavitve)
+    .accesskey = a
+preferences-contrast-control-off =
+    .label = Izklopljeno
+    .accesskey = I
+preferences-contrast-control-custom =
+    .label = Po meri
+    .accesskey = m
 preferences-colors-header = Barve
 preferences-colors-description = Preglasi privzete barve { -brand-short-name(sklon: "rodilnik") } za besedilo, ozadja strani in povezave.
 preferences-colors-manage-button =
@@ -1135,6 +1146,13 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Naslovna vrstica
 addressbar-suggest = Pri uporabi naslovne vrstice predlagaj
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Naslovna vrstica – { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Izberite, kakšni predlogi naj se prikazujejo v naslovni vrstici.
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Več o tem
 addressbar-locbar-history-option =
     .label = zgodovino brskanja
     .accesskey = Z
@@ -1167,6 +1185,9 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Prikaži priljubljene predloge iskanja
     .accesskey = p
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = Predlogi { -brand-short-name(sklon: "rodilnik") }
 addressbar-quickactions-learn-more = Več o tem
 
 ## Privacy Section - Content Blocking

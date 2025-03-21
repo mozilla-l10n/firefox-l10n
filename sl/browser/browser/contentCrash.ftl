@@ -33,3 +33,15 @@ pending-crash-reports-send =
     .label = Pošlji
 pending-crash-reports-always-send =
     .label = Vedno pošlji
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+requested-crash-reports-message =
+    { $reportCount ->
+        [one] Imate neposlano poročilo o sesutju, kakršna razvijalci pravkar preiskujejo. Če nam ga boste poslali, nam bo pomagalo izboljšati { -brand-product-name(sklon: "tožilnik") }. Če zaprete to obvestilo, bo to poročilo prezrto.
+        [two] Imate { $reportCount } neposlani poročili o sesutju, kakršna razvijalci pravkar preiskujejo. Če nam ju boste poslali, nam bosta pomagali izboljšati { -brand-product-name(sklon: "tožilnik") }. Če zaprete to obvestilo, bosta ti poročili prezrti.
+        [few] Imate { $reportCount } neposlana poročila o sesutju, kakršna razvijalci pravkar preiskujejo. Če nam jih boste poslali, nam bodo pomagala izboljšati { -brand-product-name(sklon: "tožilnik") }. Če zaprete to obvestilo, bodo ta poročila prezrta.
+       *[other] Imate { $reportCount } neposlanih poročil o sesutju, kakršna razvijalci pravkar preiskujejo. Če nam jih boste poslali, nam bodo pomagala izboljšati { -brand-product-name(sklon: "tožilnik") }. Če zaprete to obvestilo, bodo ta poročila prezrta.
+    }
+requested-crash-reports-dont-show-again =
+    .label = Ne prikazuj več
+    .accesskey = N

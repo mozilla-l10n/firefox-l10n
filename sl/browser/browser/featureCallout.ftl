@@ -77,12 +77,23 @@ sidebar-button-callout-vertical-tabs = Za prikaz zavihkov v orodni vrstici izber
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = Se izgubljate v poplavi zavihkov?
+vertical-tabs-callout-1-subtitle = Preizkusite našo novo, preglednejšo navpično postavitev zavihkov. Zgodnji preizkuševalci poročajo, da se s takšno postavitvijo počutijo bolj organizirano. Kadarkoli si lahko premislite.
+vertical-tabs-callout-1-cta-button = Preizkusite navpične zavihke
+vertical-tabs-callout-2-cta-button = Poskusi zdaj
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = Izgubljate pregled nad pomembnimi zavihki?
+sidebar-pins-callout-subtitle = Poskusite jih pripeti na začetek seznama zavihkov. Z desno miškino tipko kliknite zavihek, ki ga želite pripeti, in izberite Pripni zavihek.
+sidebar-pins-callout-cta-button = Pripni zavihek
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-callout-button = Prilagodi stransko vrstico
+sidebar-customization-callout-dismiss-button = Skrij stransko vrstico
+sidebar-customization-callout-2-title = Uredite si stransko vrstico { -brand-product-name(sklon: "rodilnik") } po svoji meri
+sidebar-customization-callout-2-subtitle = Dodajte orodja, ki jih potrebujete, in odstranite tista, ki jih ne. Postavite zavihke v stransko vrstico. Preizkusite klepetalnik z umetno inteligenco. Izbira je vaša.
 
 ## Sidebar Callout Survey Strings
 
