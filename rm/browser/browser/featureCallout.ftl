@@ -77,12 +77,27 @@ sidebar-button-callout-vertical-tabs = Per laschar mussar tes tabs, tscherna il 
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = Bumbardà da memia blers tabs?
+vertical-tabs-callout-1-subtitle = Emprova la nova disposiziun cun tabs verticals per pli svelt avair la survista da la glista da tes tabs. Persunas che han gia testà din che quest layout als gidia a sa sentir pli organisà. Mida da tut temp la disposiziun.
+vertical-tabs-callout-1-cta-button = Empruvar ils tabs verticals
+vertical-tabs-callout-2-cta-button = Ussa empruvar
+vertical-tabs-callout-2-title = Tegnas ti avert blers tabs? Emprova ils tabs verticals.
+vertical-tabs-callout-2-subtitle = Questa disposiziun renda simpel dad avair ina survista da tes tabs. E ti pos adattar la ladezza per vesair dapli u damain dals titels dals tabs.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = Perdas ord vista tes tabs impurtants?
+sidebar-pins-callout-subtitle = Emprova d’als fixar; quai als tegna sisum sin la glista da tes tabs. Clicca cun la tasta dretga da la mieur sin in tab che ti vuls fixar e tscherna lura «Fixar il tab».
+sidebar-pins-callout-cta-button = Fixar il tab
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = La trav laterala: il lieu ideal per utensils e tabs
+sidebar-customization-callout-1-subtitle = La trav laterala da { -brand-product-name } ta porscha l’access direct a tia cronologia da navigaziun, a tabs dad auters apparats ed ad in chatbot IA – tut senza bandunar la vista principala.
+sidebar-customization-callout-callout-button = Persunalisar la trav laterala
+sidebar-customization-callout-dismiss-button = Zuppentar la trav laterala
+sidebar-customization-callout-2-title = Persunalisescha la trav laterala da { -brand-product-name }
+sidebar-customization-callout-2-subtitle = Agiuntescha ed allontanescha utensils. Plazzescha tes tabs en la trav laterala. Emprova in chatbot IA. Ti pos decider co ti persunaliseschas tia trav laterala.
 
 ## Sidebar Callout Survey Strings
 

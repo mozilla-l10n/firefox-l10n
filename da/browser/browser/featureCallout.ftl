@@ -77,6 +77,8 @@ sidebar-button-callout-vertical-tabs = For at se dine faneblade skal du klikke p
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-cta-button = Prøv lodrette faneblade
+vertical-tabs-callout-2-cta-button = Prøv nu
 
 ## Sidebar Vertical Tabs Pinning Strings
 

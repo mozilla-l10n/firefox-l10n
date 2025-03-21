@@ -31,3 +31,13 @@ pending-crash-reports-send =
     .label = Trametter
 pending-crash-reports-always-send =
     .label = Adina trametter
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+requested-crash-reports-message =
+    { $reportCount ->
+        [one] Ti has in rapport da collaps betg tramess che correspunda a collaps actualmain examinads. Da trametter il rapport ans gidass a meglierar { -brand-product-name }. Cun serrar questa notificaziun vegn il rapport ignorà.
+       *[other] Ti has { $reportCount } rapports da collaps betg tramess che correspundan a collaps actualmain examinads. Da trametter ils rapports ans gidass a meglierar { -brand-product-name }. Cun serrar questa notificaziun vegnan ils rapports ignorads.
+    }
+requested-crash-reports-dont-show-again =
+    .label = Betg pli mussar
+    .accesskey = B
