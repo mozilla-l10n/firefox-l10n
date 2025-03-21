@@ -454,8 +454,20 @@ newtab-section-block-button = Blokeatu
 ## Confirmation modal for blocking a section
 
 newtab-section-confirm-block-section-p1 = Ziur zaude atal hau blokeatu nahi duzula?
-newtab-section-confirm-block-section-p2 = Blokeatutako atal ez da gehiago azalduko zure jarioan.
+newtab-section-confirm-block-section-p2 = Blokeatutako atala ez da gehiago azalduko zure jarioan.
 newtab-section-cancel-button = Une honetan ez
+newtab-section-confirm-block-topic-p1 = Ziur zaude gai hau blokeatu nahi duzula?
+newtab-section-confirm-block-topic-p2 = Blokeatutako gaiak ez dira gehiago azalduko zure jarioan.
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = Blokeatu { $topic }
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+newtab-section-manage-topics-button-v2 =
+    .label = Kudeatu gaiak
+newtab-section-mangage-topics-followed-topics = Jarraituta
+newtab-section-mangage-topics-followed-topics-empty-state = Ez duzu inongo gairik jarraitu oraindik.
+newtab-section-mangage-topics-blocked-topics = Blokeatuta
+newtab-section-mangage-topics-blocked-topics-subtitle = Blokeatutako gaiak
+newtab-section-mangage-topics-blocked-topics-empty-state = Ez duzu inongo gairik blokeatu oraindik.

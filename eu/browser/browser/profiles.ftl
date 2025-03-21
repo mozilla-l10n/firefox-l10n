@@ -65,3 +65,9 @@ delete-profile-confirm = Ezabatu
 
 ## Labels for default avatar icons
 
+book-avatar = Liburua
+briefcase-avatar = Maletatxoa
+flower-avatar = Lorea
+heart-avatar = Bihotza
+shopping-avatar = Erosketa-orga
+star-avatar = Izarra

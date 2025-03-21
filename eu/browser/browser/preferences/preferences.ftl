@@ -146,6 +146,11 @@ preferences-data-migration-description = Inportatu laster-markak, pasahitzak, hi
 preferences-data-migration-button =
     .label = Inportatu datuak
     .accesskey = n
+preferences-profiles-header = Profilak
+preferences-manage-profiles-description = Profil bakoitzak nabigazio-datu eta ezarpen bereiziak ditu, historia, pasahitzak eta bestelakoak barne.
+preferences-manage-profiles-learn-more = Argibide gehiago
+preferences-manage-profiles-button =
+    .label = Kudeatu profilak
 tabs-group-header = Fitxak
 ctrl-tab-recently-used-order =
     .label = Ktrl+Tab konbinazioak fitxaz aldatzen du azkenekoz erabilitako ordenan
@@ -223,6 +228,16 @@ containers-remove-cancel-button = Ez kendu edukiontzia
 settings-tabs-show-image-in-preview =
     .label = Erakutsi aurrebista-irudia sagua fitxaren gainetik pasatzean
     .accessKey = b
+browser-layout-header = Nabigatzailearen diseinua
+browser-layout-horizontal-tabs =
+    .label = Fitxa horizontalak
+browser-layout-horizontal-tabs-desc = Bistaratu nabigatzailearen goialdean
+browser-layout-vertical-tabs =
+    .label = Fitxa bertikalak
+browser-layout-vertical-tabs-desc = Bistaratu alboan, alboko barran
+browser-layout-show-sidebar =
+    .label = Erakutsi alboko barra
+browser-layout-show-sidebar-desc = Izan laster-marketa, telefonoko fitxeta, AA txaterako bot eta gehiagoren sarbide bizkorra zure ikuspegi nagusia utzi gabe.
 
 ## General Section - Language & Appearance
 
@@ -254,6 +269,16 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Kudeatu { -brand-short-name }(r)en itxurak <a data-l10n-name="themes-link">Hedapenak eta itxura</a> atalean
+preferences-contrast-control-header = Kontrastearen kontrola
+preferences-contrast-control-use-platform-settings =
+    .label = Automatikoa (erabili sistemaren ezarpenak)
+    .accesskey = A
+preferences-contrast-control-off =
+    .label = Desaktibatuta
+    .accesskey = D
+preferences-contrast-control-custom =
+    .label = Pertsonalizatu
+    .accesskey = P
 preferences-colors-header = Koloreak
 preferences-colors-description = Baliogabetu { -brand-short-name }(r)en kolore lehenetsiak testu, webguneen atzeko plano eta loturentzat.
 preferences-colors-manage-button =
@@ -278,6 +303,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Zooma testuan soilik
     .accesskey = t
+preferences-text-zoom-override-warning =
+    .message = Abisua: 'Zooma testuan soilik' hautatzen baduzu eta zure zoom lehenetsia ez badago %100ean ezarrita, zenbait gune edo eduki apurtzea eragin lezake.
 language-header = Hizkuntza
 choose-language-description = Aukeratu orriak bistaratzeko hizkuntza hobetsia
 choose-button =
@@ -582,6 +609,8 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = { $provider } hornitzaileak gomendatuta
 home-prefs-recommended-by-description-new = { -brand-product-name } familiakide den { $provider }-eko taldeak hautatutako aparteko edukia.
+home-prefs-recommended-by-header-generic =
+    .label = Gomendatutako istorioak
 
 ##
 
@@ -725,6 +754,8 @@ sync-profile-picture =
 sync-profile-picture-with-alt =
     .tooltiptext = Aldatu profileko argazkia
     .alt = Aldatu profileko argazkia
+sync-profile-picture-account-problem =
+    .alt = Kontuaren profileko irudia
 fxa-login-rejected-warning =
     .alt = Abisua
 sync-sign-out =
@@ -1107,6 +1138,9 @@ addressbar-locbar-showrecentsearches-option =
     .label = Erakutsi azken bilaketak
     .accesskey = r
 addressbar-quickactions-learn-more = Argibide gehiago
+addressbar-dismissed-suggestions-label = Baztertutako gomendioak
+addressbar-restore-dismissed-suggestions-button =
+    .label = Berreskuratu
 
 ## Privacy Section - Content Blocking
 
