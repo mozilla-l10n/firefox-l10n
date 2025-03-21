@@ -94,6 +94,7 @@ sidebar-pins-callout-cta-button = Fastgør faneblad
 
 sidebar-customization-callout-callout-button = Tilpas sidepanel
 sidebar-customization-callout-dismiss-button = Skjul sidepanel
+sidebar-customization-callout-2-title = Tilpas sidepanelet i { -brand-product-name }
 
 ## Sidebar Callout Survey Strings
 
