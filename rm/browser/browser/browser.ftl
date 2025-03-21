@@ -978,6 +978,9 @@ panel-save-update-password = Pled-clav
 # "More" item in macOS share menu
 menu-share-more =
     .label = Dapli…
+menu-share-copy-link =
+    .label = Copiar la colliaziun
+    .accesskey = l
 ui-tour-info-panel-close =
     .tooltiptext = Serrar
 
