@@ -77,15 +77,22 @@ sidebar-button-callout-vertical-tabs = Zure fitxak erakusteko, hautatu tresna-ba
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = Fitxa gehiegirekin gainezka eginda?
+vertical-tabs-callout-1-subtitle = Probatu gure fitxa bertikalen diseinu berria zure fitxen zerrenda di-da eskaneatzeko. Probatan erabili dutenek diote diseinu honek antolatuago aritzen laguntzen dietela. Aldatu edonoiz.
 vertical-tabs-callout-1-cta-button = Probatu fitxa bertikalak
 vertical-tabs-callout-2-cta-button = Probatu orain
+vertical-tabs-callout-2-title = Fitxa pila bat izaten dituzu zabalik? Probatu fitxa bertikalak.
+vertical-tabs-callout-2-subtitle = Diseinu honekin erraza da zure fitxen zerrenda di-da eskaneatzea. Gainera, zabalera doi dezakezu fitxen izenburuak gehiago edo gutxiago ikusteko.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = Zure fitxa garrantzitsuenak aurkitu ezinda zabiltza?
+sidebar-pins-callout-subtitle = Saiatu hauek ainguratzen, zure fitxen zerrendaren goiko partean manten daitezen. Ainguratzeko, egin eskuin-klika fitxan eta aukeratu 'Ainguratu fitxa'.
 sidebar-pins-callout-cta-button = Ainguratu fitxa
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Alboko barra: tresna eta fitxen zure tokia
 sidebar-customization-callout-callout-button = Pertsonalizatu alboko barra
 sidebar-customization-callout-dismiss-button = Ezkutatu alboko barra
 
@@ -114,6 +121,8 @@ sidebar-callout-survey-saved-websites-2 = Zure laster-marketarako sarbide bizkor
 sidebar-callout-survey-none-of-above = Goiko bat bera ere ez
 sidebar-callout-survey-submit = Bidali
 sidebar-callout-survey-thank-you = Eskerrik asko zure iritziagatik!
+unified-search-callout-title = Aldatu bilaketa-motorren artean
+unified-search-callout-subtitle = Aukeratu zer datorkizun ondoen zure bilaketarentzat.
 unified-search-callout-primary-label = Hurrengoa
 unified-search-callout-secondary-label = Baztertu
 unified-search-engines-callout-title = Bilatu lasterbiderik gabe

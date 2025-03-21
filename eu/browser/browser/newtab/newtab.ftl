@@ -292,6 +292,9 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Babesleen lasterbideak
 newtab-custom-pocket-title = { -pocket-brand-name }-ek gomendatua
 newtab-custom-pocket-subtitle = { -brand-product-name } familiakide den { -pocket-brand-name }-eko taldeak hautatutako aparteko edukia.
+newtab-custom-stories-toggle =
+    .label = Gomendatutako istorioak
+    .description = { -brand-product-name } familiak aukeratutako eduki aparta
 newtab-custom-pocket-sponsored = Babesleen istorioak
 newtab-custom-pocket-show-recent-saves = Erakutsi gordetako azkenak
 newtab-custom-recent-title = Azken jarduera
@@ -438,14 +441,20 @@ newtab-topic-selection-button-pick-interests = Hautatu zure interesak
 ## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 ## e.g. Following the travel section of stories.
 
+newtab-section-follow-button = Jarraitu
+newtab-section-following-button = Jarraitzen
+newtab-section-unfollow-button = Utzi jarraitzeari
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
 ## e.g. Blocked the politics section of stories.
 
+newtab-section-block-button = Blokeatu
 
 ## Confirmation modal for blocking a section
 
+newtab-section-confirm-block-section-p1 = Ziur zaude atal hau blokeatu nahi duzula?
+newtab-section-confirm-block-section-p2 = Blokeatutako atal ez da gehiago azalduko zure jarioan.
 newtab-section-cancel-button = Une honetan ez
 
 ## Panel in the Customize menu section to manage followed and blocked topics

@@ -137,3 +137,9 @@ genai-onboarding-lechat-price = Doakoa; kontua beharrezkoa da
 
 ## Model Optin Component
 
+genai-model-optin-continue =
+    .label = Jarraitu
+genai-model-optin-optout =
+    .label = Utzi
+genai-model-optin-cancel =
+    .label = Utzi
