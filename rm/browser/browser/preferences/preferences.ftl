@@ -271,6 +271,17 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Administrescha ils designs da { -brand-short-name } en <a data-l10n-name="themes-link">Extensiuns e designs</a>
+preferences-contrast-control-header = Regulaziun dal cuntrast
+preferences-contrast-control-description = Websites utiliseschan fitg differentas colurs per il fund davant e davos. Configurescha { -brand-short-name } uschia che las medemas colurs vegnan utilisadas per tut las websites. Quai po meglierar la legibilitad.
+preferences-contrast-control-use-platform-settings =
+    .label = Automatic (utilisar ils parameters dal sistem)
+    .accesskey = A
+preferences-contrast-control-off =
+    .label = Deactivà
+    .accesskey = D
+preferences-contrast-control-custom =
+    .label = Persunalisà
+    .accesskey = P
 preferences-colors-header = Colurs
 preferences-colors-description = Surscriver las colurs predefinidas da { -brand-short-name } per text, funds davos da websites e colliaziuns.
 preferences-colors-manage-button =
@@ -1127,6 +1138,13 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Trav d'adressas
 addressbar-suggest = Durant l'endataziun en la trav d'adressas, proponer
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Trav d’adressas – { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Tscherna il tip da propostas che cumparan en la trav d’adressas.
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Ulteriuras infurmaziuns
 addressbar-locbar-history-option =
     .label = Cronologia
     .accesskey = C
@@ -1159,7 +1177,18 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Mussar propostas da trends da tschertga
     .accesskey = t
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = Propostas da { -brand-short-name }
+addressbar-locbar-suggest-nonsponsored-desc = Retschaiva propostas dal web en connex cun tia tschertga.
+addressbar-locbar-suggest-sponsored-option =
+    .label = Propostas da sponsurs
+addressbar-locbar-suggest-sponsored-desc = Sustegna { -brand-short-name } cun propostas occasiunalas sponsurisadas.
 addressbar-quickactions-learn-more = Ulteriuras infurmaziuns
+addressbar-dismissed-suggestions-label = Propostas refusadas
+addressbar-restore-dismissed-suggestions-description = Restaurescha las propostas refusadas da sponsurs e da { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button =
+    .label = Restaurar
 
 ## Privacy Section - Content Blocking
 

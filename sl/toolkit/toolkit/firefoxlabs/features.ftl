@@ -19,3 +19,7 @@ experimental-features-group-webpage-display =
     .label = Prikaz spletnih strani
 experimental-features-group-customize-browsing =
     .label = Prilagodite svoje brskanje
+# Contextual Password Manager in sidebar
+experimental-features-contextual-password-manager =
+    .label = Gesla v stranski vrstici
+experimental-features-contextual-password-manager-description = Imejte dostop do gesel neposredno iz stranske vrstice. Nič več iskanja in ponastavljanja gesel, kadar se poskušate prijaviti. Če želite uporabljati to možnost, v stranski vrstici izberite gesla. Nato odprite splošne nastavitve in pod Postavitev brskalnika izberite Prikaži stransko vrstico. Nato prilagodite stransko vrstico z izbiro gesel. Če preizkusite to možnost, <a data-l10n-name="connect">nam sporočite svoje mnenje</a>.

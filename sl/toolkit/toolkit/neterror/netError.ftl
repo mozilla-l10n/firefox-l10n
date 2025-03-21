@@ -13,6 +13,7 @@ neterror-captive-portal-page-title = Prijavite se v omrežje
 neterror-dns-not-found-title = Strežnika ni mogoče najti
 neterror-malformed-uri-page-title = Neveljaven URL
 general-body-title = Previdno. Nekaj ni videti v redu.
+problem-with-this-site-title = Na tem spletnem mestu se je pojavila težava
 
 ## Error page actions
 

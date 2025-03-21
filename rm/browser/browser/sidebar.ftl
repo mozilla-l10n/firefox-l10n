@@ -60,6 +60,9 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Extender la trav laterala cun passar cun la mieur
+expand-on-hover-message =
+    .heading = La funcziun d’extender cun passar cun la mieur è prest disponibla
+    .message = Suenter in’actualisaziun futura vegns ti a pudair extender la trav laterala cun passar suravi cun la mieur.
 
 ## Labels for sidebar context menu items
 
@@ -77,6 +80,12 @@ sidebar-context-menu-bookmark-tab =
     .label = Agiuntar in segnapagina per il tab…
 sidebar-context-menu-copy-link =
     .label = Copiar la colliaziun
+sidebar-context-menu-hide-sidebar =
+    .label = Zuppentar la trav laterala
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Activar ils tabs verticals
+sidebar-context-menu-customize-sidebar =
+    .label = Persunalisar la trav laterala
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =

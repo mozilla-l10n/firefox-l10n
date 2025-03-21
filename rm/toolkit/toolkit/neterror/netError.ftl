@@ -13,6 +13,7 @@ neterror-captive-portal-page-title = S'annunziar tar la rait
 neterror-dns-not-found-title = Betg chattà il server
 neterror-malformed-uri-page-title = URL nunvalid
 general-body-title = Sajas precaut. I para da dar in problem.
+problem-with-this-site-title = I para ch’i dettia in problem cun questa website
 
 ## Error page actions
 

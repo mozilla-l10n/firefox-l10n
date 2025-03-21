@@ -131,3 +131,5 @@ about-reader-text-alignment-center =
     .title = Poravnaj besedilo na sredino
 about-reader-text-alignment-right =
     .title = Poravnaj besedilo desno
+about-reader-text-alignment-justify =
+    .title = Poravnaj besedilo obojestransko

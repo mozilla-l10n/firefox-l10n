@@ -25,3 +25,11 @@ experimental-features-group-webpage-display =
     .label = Visualisaziun paginas-web
 experimental-features-group-customize-browsing =
     .label = Persunalisescha tia navigaziun
+# Contextual Password Manager in sidebar
+experimental-features-contextual-password-manager =
+    .label = Pleds-clav en la trav laterala
+experimental-features-contextual-password-manager-description = Acceda a tes pleds-clav directamain en la trav laterala. Uschia n’èsi betg pli necessari da tschertgar ditg u da redefinir pleds-clav cura che ti emprovas da t’annunziar. Per utilisar questa funcziun, tscherna l’opziun dals pled-clav en la trav laterala. Va lura tar tes parameters generals e tscherna sut layout dal navigatur «Mussar la trav laterala». Persunalisescha lura tia trav laterala cun tscherner «Pleds-clav». Sche ti emprovas la funcziun, <a data-l10n-name="connect">ans lascha savair tge che ti pensas</a>.
+# New Tab Custom Wallpapers
+experimental-features-custom-wallpaper =
+    .label = Tscherna in fund davos persunalisà u ina colur tenor giavisch per la pagina da novs tabs
+experimental-features-custom-wallpaper-description = Transferescha tes agen maletg u tscherna ina colur tenor giavisch per il fund davos da novs tabs.

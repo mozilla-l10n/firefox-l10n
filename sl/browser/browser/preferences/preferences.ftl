@@ -1188,7 +1188,13 @@ addressbar-locbar-showtrendingsuggestions-option =
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Predlogi { -brand-short-name(sklon: "rodilnik") }
+addressbar-locbar-suggest-nonsponsored-desc = Prejemajte predloge s spleta, povezane z vašim iskanjem.
+addressbar-locbar-suggest-sponsored-option =
+    .label = Predlogi sponzorjev
 addressbar-quickactions-learn-more = Več o tem
+addressbar-dismissed-suggestions-label = Skriti predlogi
+addressbar-restore-dismissed-suggestions-button =
+    .label = Obnovi
 
 ## Privacy Section - Content Blocking
 

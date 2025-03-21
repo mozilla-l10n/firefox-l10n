@@ -21,6 +21,9 @@ cert-error-trust-symantec = Digitalna potrdila, ki jih izdajajo GeoTrust, RapidS
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } ne zaupa spletnemu mestu { $hostname }, ker mu ni uspelo dokazati, da izpolnjuje zahteve glede preglednosti javnih potrdil.
+# Variables:
+#   $hostname (string) - Hostname of the website with cert error.
+cert-error-revoked = Spletna mesta svojo istovetnost dokazujejo z digitalnimi potrdili. { -brand-short-name } ne zaupa spletnemu mestu { $hostname }, ker uporablja digitalno potrdilo, ki je bilo preklicano.
 cert-error-untrusted-default = Digitalno potrdilo ne prihaja iz zaupanja vrednega vira.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.

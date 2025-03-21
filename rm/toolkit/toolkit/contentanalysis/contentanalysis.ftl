@@ -58,6 +58,10 @@ contentanalysis-error-message-upload-file = Refusà il transferiment da «{ $fil
 contentanalysis-error-message-dropped-text = Refusà il trair e deponer.
 contentanalysis-error-message-clipboard = Refusà l’encollar.
 contentanalysis-error-message-print = Refusà la stampa.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
+contentanalysis-timeout-block-error-message-content = La connexiun cun { $agent } è scadida. { $contentName } è vegnì bloccà.
 contentanalysis-block-dialog-title-upload-file = Ti na dastgas betg transferir questa datoteca
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"

@@ -1127,6 +1127,11 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Adressefelt
 addressbar-suggest = Når jeg bruger adressefeltet ønsker jeg forslag fra
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Adressefelt — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Læs mere
 addressbar-locbar-history-option =
     .label = Historik
     .accesskey = H
@@ -1159,7 +1164,17 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Vis populære søgeforslag
     .accesskey = p
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = Forslag fra { -brand-short-name }
+addressbar-locbar-suggest-sponsored-option =
+    .label = Forslag fra sponsorer
+addressbar-locbar-suggest-sponsored-desc = Støt { -brand-short-name } med lejlighedsvise sponsorerede forslag.
 addressbar-quickactions-learn-more = Læs mere
+addressbar-dismissed-suggestions-label = Afviste forslag
+addressbar-restore-dismissed-suggestions-description = Gendan afviste forslag fra sponsorer og { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button =
+    .label = Gendan
 
 ## Privacy Section - Content Blocking
 

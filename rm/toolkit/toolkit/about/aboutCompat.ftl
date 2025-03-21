@@ -11,6 +11,7 @@ label-more-information = Ulteriuras infurmaziuns: bug { $bug }
 label-overrides = Substituziuns da l'user agent
 text-disabled-in-about-config = Questa funcziun è vegnida deactivada en about:config
 text-no-interventions = Naginas intervenziuns en funcziun
+text-page-title = Cumpatibilitad web
 text-no-overrides = Naginas substituziuns da l'user agent en funcziun
 text-title = about:compat
 

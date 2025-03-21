@@ -126,6 +126,8 @@ newtab-menu-section-unfollow = Betg pli suandar il tema
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
+newtab-menu-manage-sponsored-content = Administrar cuntegn sponsurisà
+newtab-menu-our-sponsors-and-your-privacy = Noss sponsurs e tia sfera privata
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -386,6 +388,7 @@ newtab-wallpaper-starry-canyon = Notg blaua stailida
 newtab-wallpaper-suspension-bridge = Fotografia d’ina punt pendenta grischa da di
 newtab-wallpaper-sand-dunes = Dunas da sablun alvas
 newtab-wallpaper-palm-trees = Siluetta da palmas da cocos sin il far notg
+newtab-wallpaper-blue-flowers = Flurs cun petals blaus en fluriziun fotografads da datiers
 newtab-wallpaper-forest-trees = Plantas en la tschajera
 # Variables
 #   $author_string (String) - The name of the creator of the photo.

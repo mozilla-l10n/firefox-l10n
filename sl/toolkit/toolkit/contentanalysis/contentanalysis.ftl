@@ -58,6 +58,10 @@ contentanalysis-error-message-upload-file = Nalaganje datoteke "{ $filename }" z
 contentanalysis-error-message-dropped-text = Vlečenje in spuščanje zavrnjeno.
 contentanalysis-error-message-clipboard = Lepljenje zavrnjeno.
 contentanalysis-error-message-print = Tiskanje zavrnjeno.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
+contentanalysis-timeout-block-error-message-content = Povezava z { $agent } je potekla. Vsebina { $contentName } je bila zavrnjena.
 contentanalysis-block-dialog-title-upload-file = Za nalaganje te datoteke nimate dovoljenja
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
