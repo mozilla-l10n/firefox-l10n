@@ -974,6 +974,9 @@ panel-save-update-password = 비밀번호
 # "More" item in macOS share menu
 menu-share-more =
     .label = 더보기…
+menu-share-copy-link =
+    .label = 링크 복사
+    .accesskey = L
 ui-tour-info-panel-close =
     .tooltiptext = 닫기
 

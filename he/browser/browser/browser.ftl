@@ -978,6 +978,9 @@ panel-save-update-password = ססמה
 # "More" item in macOS share menu
 menu-share-more =
     .label = עוד…
+menu-share-copy-link =
+    .label = העתקת קישור
+    .accesskey = ה
 ui-tour-info-panel-close =
     .tooltiptext = סגירה
 
