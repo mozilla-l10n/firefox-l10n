@@ -59,9 +59,27 @@ delete-profile-confirm = Ezabatu
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
+# The default light theme
+profiles-light-theme = Argia
+# The default dark theme
+profiles-dark-theme = Iluna
+# The default system theme
+profiles-system-theme = Sistema
 
 ## Alternative text for default profile icons
 
+book-avatar-alt =
+    .alt = Liburua
+briefcase-avatar-alt =
+    .alt = Maletatxoa
+flower-avatar-alt =
+    .alt = Lorea
+heart-avatar-alt =
+    .alt = Bihotza
+shopping-avatar-alt =
+    .alt = Erosketa-orga
+star-avatar-alt =
+    .alt = Izarra
 
 ## Labels for default avatar icons
 

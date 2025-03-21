@@ -21,6 +21,9 @@ unified-extensions-manage-extensions =
 unified-extensions-item-open-menu =
     .aria-label = Ireki menua { $extensionName } hedapenerako
 unified-extensions-item-message-manage = Kudeatu hedapena
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked = { $extensionName } hedapenak Mozillaren politikak bortxatzen ditu. Arriskutsua izan liteke hau erabiltzea.
 
 ## Extension's context menu
 
@@ -46,3 +49,4 @@ unified-extensions-mb-quarantined-domain-message-3 =
     .message = Zure datuak babesteko, zenbait hedapenek ezin dute gune honetako daturik irakurri edo aldatu. Erabili hedapenaren ezarpenak { -vendor-short-name }(e)k mugatutako guneetan baimentzeko.
 unified-extensions-mb-quarantined-domain-learn-more = Argibide gehiago
     .aria-label = Argibide gehiago: zenbait hedapen ez dira onartzen
+unified-extensions-mb-about-addons-link = Joan hedapenen ezarpenetara

@@ -58,6 +58,9 @@ shopping-message-bar-warning-product-not-available-reported =
     .message = Produktu honen balorazioei buruzko informazioa 24 ordu barru izan behar genuke. Itzuli geroago mesedez.
 shopping-message-bar-analysis-in-progress-title2 = Balorazioaren kalitatea egiaztatzen
 shopping-message-bar-analysis-in-progress-message2 = 60 bat segundo har litzake honek.
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = Berrikuspenaren kalitatea egiaztatzen (%{ $percentage })
 shopping-message-bar-page-not-supported =
     .heading = Ezin ditugu balorazio hauek egiaztatu
     .message = Tamalez ezin dugu zenbait produktu moten balorazioen kalitatea egiaztatu. Adibidez, opari-txartelenak eta streaming bideo, musika eta bideoenak.
