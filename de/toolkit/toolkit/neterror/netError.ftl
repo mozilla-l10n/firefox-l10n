@@ -13,6 +13,7 @@ neterror-captive-portal-page-title = Anmeldung beim Netzwerk
 neterror-dns-not-found-title = Server nicht gefunden
 neterror-malformed-uri-page-title = Ungültige Adresse
 general-body-title = Seien Sie vorsichtig. Irgendetwas stimmt hier nicht.
+problem-with-this-site-title = Anscheinend gibt es ein Problem mit dieser Website
 
 ## Error page actions
 

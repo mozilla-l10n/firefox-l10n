@@ -21,6 +21,9 @@ cert-error-trust-symantec = Von GeoTrust, RapidSSL, Symantec, Thawte oder VeriSi
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } vertraut { $hostname } nicht, weil es nicht nachweisen konnte, dass es die Anforderungen an die Transparenz öffentlicher Zertifikate erfüllt.
+# Variables:
+#   $hostname (string) - Hostname of the website with cert error.
+cert-error-revoked = Websites bestätigen ihre Identität mit Zertifikaten. { -brand-short-name } vertraut { $hostname } nicht, weil es ein Zertifikat verwendet, das widerrufen wurde.
 cert-error-untrusted-default = Das Zertifikat kommt nicht von einer vertrauenswürdigen Quelle.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.

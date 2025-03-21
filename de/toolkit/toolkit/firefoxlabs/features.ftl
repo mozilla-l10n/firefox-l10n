@@ -25,3 +25,11 @@ experimental-features-group-webpage-display =
     .label = Anzeige von Webseiten
 experimental-features-group-customize-browsing =
     .label = Passen Sie Ihr Surfen an
+# Contextual Password Manager in sidebar
+experimental-features-contextual-password-manager =
+    .label = Passwörter in der Sidebar
+experimental-features-contextual-password-manager-description = Greifen Sie direkt aus der Sidebar auf Ihre Passwörter zu. Kein Suchen oder Zurücksetzen von Passwörtern mehr bei der Anmeldung. Um diese Funktion zu nutzen, wählen Sie in der Sidebar Passwörter aus. Gehen Sie dann zu den allgemeinen Einstellungen und wählen Sie unter Browser-Layout die Option "Sidebar anzeigen". Passen Sie dann die Sidebar an, indem Sie Passwörter auswählen. Wenn Sie es ausprobieren, <a data-l10n-name="connect">sagen Sie uns Ihre Meinung</a>.
+# New Tab Custom Wallpapers
+experimental-features-custom-wallpaper =
+    .label = Ein benutzerdefiniertes Hintergrundbild oder eine Farbe für einen neuen Tab wählen
+experimental-features-custom-wallpaper-description = Laden Sie Ihr eigenes Hintergrundbild hoch oder wählen Sie eine benutzerdefinierte Farbe für den Hintergrund für neue Tabs.
