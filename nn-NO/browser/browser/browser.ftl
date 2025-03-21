@@ -978,6 +978,9 @@ panel-save-update-password = Passord
 # "More" item in macOS share menu
 menu-share-more =
     .label = Meir…
+menu-share-copy-link =
+    .label = Kopier lenke
+    .accesskey = K
 ui-tour-info-panel-close =
     .tooltiptext = Lat att
 
