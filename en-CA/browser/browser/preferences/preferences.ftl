@@ -271,6 +271,17 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Manage { -brand-short-name } themes in <a data-l10n-name="themes-link">Extensions & Themes</a>
+preferences-contrast-control-header = Contrast Control
+preferences-contrast-control-description = Websites have a variety of foreground and background colours. Configure { -brand-short-name } to use the same colours across websites for improved readability.
+preferences-contrast-control-use-platform-settings =
+    .label = Automatic (use system settings)
+    .accesskey = A
+preferences-contrast-control-off =
+    .label = Off
+    .accesskey = O
+preferences-contrast-control-custom =
+    .label = Custom
+    .accesskey = C
 preferences-colors-header = Colours
 preferences-colors-description = Override { -brand-short-name }’s default colours for text, website backgrounds, and links.
 preferences-colors-manage-button =
@@ -1127,6 +1138,13 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Address Bar
 addressbar-suggest = When using the address bar, suggest
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Address Bar — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Choose the type of suggestions that appear in the address bar.
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Learn more
 addressbar-locbar-history-option =
     .label = Browsing history
     .accesskey = H
@@ -1159,7 +1177,18 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Show trending search suggestions
     .accesskey = t
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = Suggestions from { -brand-short-name }
+addressbar-locbar-suggest-nonsponsored-desc = Get suggestions from the web related to your search.
+addressbar-locbar-suggest-sponsored-option =
+    .label = Suggestions from sponsors
+addressbar-locbar-suggest-sponsored-desc = Support { -brand-short-name } with occasional sponsored suggestions.
 addressbar-quickactions-learn-more = Learn more
+addressbar-dismissed-suggestions-label = Dismissed suggestions
+addressbar-restore-dismissed-suggestions-description = Restore dismissed suggestions from sponsors and { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button =
+    .label = Restore
 
 ## Privacy Section - Content Blocking
 

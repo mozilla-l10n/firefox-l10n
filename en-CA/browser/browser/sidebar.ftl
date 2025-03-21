@@ -60,6 +60,9 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Expand sidebar on hover
+expand-on-hover-message =
+    .heading = Expand on hover coming soon
+    .message = In a future update, you’ll be able to expand the sidebar on hover.
 
 ## Labels for sidebar context menu items
 
@@ -77,6 +80,12 @@ sidebar-context-menu-bookmark-tab =
     .label = Bookmark Tab…
 sidebar-context-menu-copy-link =
     .label = Copy Link
+sidebar-context-menu-hide-sidebar =
+    .label = Hide Sidebar
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Turn on Vertical Tabs
+sidebar-context-menu-customize-sidebar =
+    .label = Customize Sidebar
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
