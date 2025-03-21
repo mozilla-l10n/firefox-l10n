@@ -978,6 +978,9 @@ panel-save-update-password = Contrasigno
 # "More" item in macOS share menu
 menu-share-more =
     .label = Plus…
+menu-share-copy-link =
+    .label = Copiar ligamine
+    .accesskey = l
 ui-tour-info-panel-close =
     .tooltiptext = Clauder
 
