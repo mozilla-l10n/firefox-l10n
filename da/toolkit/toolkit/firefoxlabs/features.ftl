@@ -28,6 +28,7 @@ experimental-features-group-customize-browsing =
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Adgangskoder i sidepanelet
+experimental-features-contextual-password-manager-description = Hav adgang til dine adgangskoder direkte i sidepanelet. Slut med at lede efter adgangskoder eller nulstille dem, når du skal logge ind. For at bruge funktionen skal du vælge adgangskoder i sidepanelet. Derefter skal du gå til Indstillinger > Generelt og vælge "Vis sidepanel" under "Browser-layout". Tilpas så sidepanelet ved at vælge adgangskoder. Hvis du prøver funktionen må du meget gerne <a data-l10n-name="connect">fortælle os, hvad du synes</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Vælg en baggrund eller farve for Nyt faneblad
