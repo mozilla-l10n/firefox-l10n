@@ -77,6 +77,7 @@ sidebar-button-callout-vertical-tabs = Para mostrar os seus separadores, selecio
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = Demasiados separadores?
 
 ## Sidebar Vertical Tabs Pinning Strings
 
