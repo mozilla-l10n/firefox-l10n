@@ -978,6 +978,9 @@ panel-save-update-password = 密碼
 # "More" item in macOS share menu
 menu-share-more =
     .label = 更多…
+menu-share-copy-link =
+    .label = 複製鏈結
+    .accesskey = L
 ui-tour-info-panel-close =
     .tooltiptext = 關閉
 

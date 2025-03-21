@@ -981,6 +981,9 @@ panel-save-update-password = Wachtwoord
 # "More" item in macOS share menu
 menu-share-more =
     .label = Meer…
+menu-share-copy-link =
+    .label = Koppeling kopiëren
+    .accesskey = K
 ui-tour-info-panel-close =
     .tooltiptext = Sluiten
 
