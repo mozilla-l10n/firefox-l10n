@@ -77,8 +77,11 @@ sidebar-button-callout-vertical-tabs = For at se dine faneblade skal du klikke p
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = Har du for mange åbne faneblade?
+vertical-tabs-callout-1-subtitle = Prøv de nye lodrette faneblade for at få et bedre overblik. Folk som har testet funktionen siger, at den har gjort det nemmere for dem at holde styr på sine faneblade.  Skift når som helst.
 vertical-tabs-callout-1-cta-button = Prøv lodrette faneblade
 vertical-tabs-callout-2-cta-button = Prøv nu
+vertical-tabs-callout-2-title = Har du mange åbne faneblade? Prøv lodrette faneblade.
 
 ## Sidebar Vertical Tabs Pinning Strings
 

@@ -271,6 +271,17 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Håndter { -brand-short-name }-temaer i <a data-l10n-name="themes-link">Udvidelser og temaer</a>
+preferences-contrast-control-header = Kontrastkontrol
+preferences-contrast-control-description = Websteder har alle mulige farver i forgrunden og baggrunden. Indstil { -brand-short-name } til at bruge de samme farver på alle websteder for at gøre det nemmere at læse tekst.
+preferences-contrast-control-use-platform-settings =
+    .label = Automatisk (brug systemets indstillinger)
+    .accesskey = A
+preferences-contrast-control-off =
+    .label = Fra
+    .accesskey = F
+preferences-contrast-control-custom =
+    .label = Tilpasset
+    .accesskey = T
 preferences-colors-header = Farver
 preferences-colors-description = Tilsidesæt { -brand-short-name }' standardfarver for tekst, websteds-baggrunde og links.
 preferences-colors-manage-button =
@@ -1129,6 +1140,8 @@ addressbar-header = Adressefelt
 addressbar-suggest = Når jeg bruger adressefeltet ønsker jeg forslag fra
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Adressefelt — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Vælg hvilken slags forslag, du vil have vist i adressefeltet.
 # When Firefox Suggest is enabled, a "Learn more" link appears at the end of
 # `addressbar-suggest-firefox-suggest`.
 addressbar-locbar-firefox-suggest-learn-more = Læs mere
@@ -1167,6 +1180,7 @@ addressbar-locbar-showtrendingsuggestions-option =
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Forslag fra { -brand-short-name }
+addressbar-locbar-suggest-nonsponsored-desc = Få forslag fra internettet relateret til din søgning.
 addressbar-locbar-suggest-sponsored-option =
     .label = Forslag fra sponsorer
 addressbar-locbar-suggest-sponsored-desc = Støt { -brand-short-name } med lejlighedsvise sponsorerede forslag.
