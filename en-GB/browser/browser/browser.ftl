@@ -682,11 +682,6 @@ urlbar-result-action-copy-to-clipboard = Copy
 urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = undefined
-# Shows the result of a formula expression being calculated, to a maximum of 9 significant
-# digits. The last = sign will be shown as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-2 = = { NUMBER($result, maximumSignificantDigits: 9) }
 # Shows the result of a formula expression being calculated, in scientific notation.
 # The last = sign will be shown as part of the result (e.g. "= 1.0e17").
 # Variables

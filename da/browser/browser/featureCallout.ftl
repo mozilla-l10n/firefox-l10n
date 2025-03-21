@@ -92,6 +92,7 @@ sidebar-pins-callout-cta-button = Fastgør faneblad
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-subtitle = Sidepanelet i { -brand-product-name } giver dig hurtig adgang til din browserhistorik, faneblade fra andre enheder og en AI-chatbot - helt uden at forlade din primære visning.
 sidebar-customization-callout-callout-button = Tilpas sidepanel
 sidebar-customization-callout-dismiss-button = Skjul sidepanel
 sidebar-customization-callout-2-title = Tilpas sidepanelet i { -brand-product-name }
