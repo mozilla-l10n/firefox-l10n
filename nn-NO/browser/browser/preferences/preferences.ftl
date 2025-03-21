@@ -1372,6 +1372,9 @@ collection-studies-link = Vis { -brand-short-name }-studium
 addon-recommendations2 =
     .label = Tillat personleg tilpassa utvidingstilrådingar
 addon-recommendations-description = Få utvidingstilrådingar for å forbetre nettlesaropplevinga di.
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled2 = Datarapportering er deaktivert for denne byggekonfigurasjonen.
 collection-backlogged-crash-reports2 =
     .label = Send inn krasjrapportar automatisk
     .accesskey = k
