@@ -322,6 +322,16 @@ pdfjs-editor-signature-button-label = Tilføj underskrift
 
 ## Default editor aria labels
 
+# “Highlight” is a noun, the string is used on the editor for highlights.
+pdfjs-editor-highlight-editor =
+    .aria-label = Redigering af fremhævning
+# “Drawing” is a noun, the string is used on the editor for drawings.
+pdfjs-editor-ink-editor =
+    .aria-label = Redigering af tegninger
+pdfjs-editor-signature-editor =
+    .aria-label = Redigering af underskrifter
+pdfjs-editor-stamp-editor =
+    .aria-label = Redigering af billeder
 
 ## Remove button for the various kind of editor.
 

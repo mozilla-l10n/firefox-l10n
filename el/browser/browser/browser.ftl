@@ -978,6 +978,9 @@ panel-save-update-password = Κωδικός πρόσβασης
 # "More" item in macOS share menu
 menu-share-more =
     .label = Περισσότερα…
+menu-share-copy-link =
+    .label = Αντιγραφή συνδέσμου
+    .accesskey = σ
 ui-tour-info-panel-close =
     .tooltiptext = Κλείσιμο
 

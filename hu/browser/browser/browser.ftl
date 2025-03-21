@@ -981,6 +981,9 @@ panel-save-update-password = Jelszó
 # "More" item in macOS share menu
 menu-share-more =
     .label = Továbbiak…
+menu-share-copy-link =
+    .label = Hivatkozás másolása
+    .accesskey = H
 ui-tour-info-panel-close =
     .tooltiptext = Bezárás
 

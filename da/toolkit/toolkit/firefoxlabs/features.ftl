@@ -28,3 +28,7 @@ experimental-features-group-customize-browsing =
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Adgangskoder i sidepanelet
+# New Tab Custom Wallpapers
+experimental-features-custom-wallpaper =
+    .label = Vælg en baggrund eller farve for Nyt faneblad
+experimental-features-custom-wallpaper-description = Upload din egen baggrund eller vælg en farve som baggrund for nye faneblade.
