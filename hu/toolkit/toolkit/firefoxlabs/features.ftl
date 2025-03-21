@@ -28,3 +28,8 @@ experimental-features-group-customize-browsing =
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Jelszavak az oldalsávban
+experimental-features-contextual-password-manager-description = Férjen hozzá a jelszavaihoz közvetlenül az oldalsávból. Nincs többé keresgélés vagy jelszó-visszaállítás, amikor megpróbál bejelentkezni. A funkció használatához válassza a jelszavakat az oldalsávban. Ezután lépjen be az általános beállításokba, és a böngésző elrendezése alatt válassza az oldalsáv megjelenítése lehetőséget. Ezután szabja testre az oldalsávot a jelszavak kiválasztásával. Ha kipróbálja, <a data-l10n-name="connect">ossza meg velünk a véleményét</a>.
+# New Tab Custom Wallpapers
+experimental-features-custom-wallpaper =
+    .label = Válasszon egyéni háttérképet vagy színt az Új lap oldalhoz
+experimental-features-custom-wallpaper-description = Töltse fel a saját háttérképét, vagy válasszon egy egyéni háttérszínt az Új lap oldalhoz.

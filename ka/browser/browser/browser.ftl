@@ -978,6 +978,9 @@ panel-save-update-password = პაროლი
 # "More" item in macOS share menu
 menu-share-more =
     .label = სხვა…
+menu-share-copy-link =
+    .label = ბმულის ასლი
+    .accesskey = ს
 ui-tour-info-panel-close =
     .tooltiptext = დახურვა
 
