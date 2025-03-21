@@ -386,6 +386,7 @@ newtab-wallpaper-starry-canyon = Blå stjerneklar kveld
 newtab-wallpaper-suspension-bridge = Foto av grå hengebru på dagtid
 newtab-wallpaper-sand-dunes = Kvite sanddyner
 newtab-wallpaper-palm-trees = Silhuett av kokospalmar i den gylne timen
+newtab-wallpaper-blue-flowers = Nærbiletfotografering av blåblada blomstrar i bløming
 newtab-wallpaper-forest-trees = Tre dekte av tåke
 # Variables
 #   $author_string (String) - The name of the creator of the photo.

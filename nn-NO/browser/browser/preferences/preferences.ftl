@@ -271,6 +271,7 @@ preferences-web-appearance-override-warning2 =
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Handsam { -brand-short-name }-tema i <a data-l10n-name="themes-link">Utvidingar og tema</a>
 preferences-contrast-control-header = Kontrastkontroll
+preferences-contrast-control-description = Nettstadar har ei rekkje forgrunns- og bakgrunnsfargar. Konfigurer { -brand-short-name } for å bruke dei same fargane på tvers av nettstadar for forbetra lesbarheit.
 preferences-contrast-control-off =
     .label = Av
     .accesskey = A
@@ -1135,6 +1136,8 @@ addressbar-header = Adresselinje
 addressbar-suggest = Når du brukar adresselinja, føreslå
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Adresselinje — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Vel typen forslag som skal visast i adresselinja.
 # When Firefox Suggest is enabled, a "Learn more" link appears at the end of
 # `addressbar-suggest-firefox-suggest`.
 addressbar-locbar-firefox-suggest-learn-more = Les meir
@@ -1177,6 +1180,7 @@ addressbar-locbar-suggest-nonsponsored-desc = Få forslag frå nettet relatert t
 addressbar-locbar-suggest-sponsored-option =
     .label = Forslag frå sponsorar
 addressbar-quickactions-learn-more = Les meir
+addressbar-dismissed-suggestions-label = Avviste forslag
 addressbar-restore-dismissed-suggestions-button =
     .label = Bygg oppatt
 
@@ -1365,6 +1369,9 @@ collection-studies-description = Prøv nye funksjonar og idéar før dei blir ti
 collection-studies =
     .label = Tillat { -brand-short-name } å installere og køyre studium
 collection-studies-link = Vis { -brand-short-name }-studium
+addon-recommendations2 =
+    .label = Tillat personleg tilpassa utvidingstilrådingar
+addon-recommendations-description = Få utvidingstilrådingar for å forbetre nettlesaropplevinga di.
 collection-backlogged-crash-reports2 =
     .label = Send inn krasjrapportar automatisk
     .accesskey = k
