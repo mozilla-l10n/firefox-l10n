@@ -92,9 +92,12 @@ sidebar-pins-callout-cta-button = Sekmeyi sabitle
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Kenar çubuğu: Araçlarınız ve sekmeleriniz burada
+sidebar-customization-callout-1-subtitle = { -brand-product-name } kenar çubuğundan gezinti geçmişinize, diğer cihazlardaki sekmelere ve yapay zekâ sohbet botlarına hızlıca erişebilirsiniz. Ana görünümünüzden ayrılmanıza hiç gerek yok.
 sidebar-customization-callout-callout-button = Kenar çubuğunu özelleştir
 sidebar-customization-callout-dismiss-button = Kenar çubuğunu gizle
 sidebar-customization-callout-2-title = { -brand-product-name } kenar çubuğunu kişiselleştirin
+sidebar-customization-callout-2-subtitle = Araçları ekleyip kaldırın. Sekmelerinizi kenar çubuğuna yerleştirin. Yapay zekâ sohbet botlarını deneyin. Kenar çubuğunuzu nasıl özelleştireceğiniz size kalmış.
 
 ## Sidebar Callout Survey Strings
 

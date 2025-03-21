@@ -980,6 +980,9 @@ panel-save-update-password = Parola
 # "More" item in macOS share menu
 menu-share-more =
     .label = Daha fazla…
+menu-share-copy-link =
+    .label = Bağlantıyı kopyala
+    .accesskey = B
 ui-tour-info-panel-close =
     .tooltiptext = Kapat
 
