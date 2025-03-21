@@ -1063,6 +1063,9 @@ panel-save-update-password = Heslo
 # "More" item in macOS share menu
 menu-share-more =
     .label = Více…
+menu-share-copy-link =
+    .label = Zkopírovat odkaz
+    .accesskey = Z
 ui-tour-info-panel-close =
     .tooltiptext = Zavřít
 
