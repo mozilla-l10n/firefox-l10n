@@ -82,9 +82,12 @@ vertical-tabs-callout-1-subtitle = Prøv de nye lodrette faneblade for at få et
 vertical-tabs-callout-1-cta-button = Prøv lodrette faneblade
 vertical-tabs-callout-2-cta-button = Prøv nu
 vertical-tabs-callout-2-title = Har du mange åbne faneblade? Prøv lodrette faneblade.
+vertical-tabs-callout-2-subtitle = Denne måde at vise faneblade på gør det nemmere for dig at overskue dem. Og du kan ændre bredden for at se mere eller mindre af titlerne på dine faneblade.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = Har du mistet overblikket over dine vigtigste faneblade?
+sidebar-pins-callout-subtitle = Prøv at fastgøre dem. Så bliver de i toppen af din liste med faneblade. Højreklik på et faneblad, du vil fastgøre, og klik så på Fastgør faneblad.
 sidebar-pins-callout-cta-button = Fastgør faneblad
 
 ## Sidebar Onboarding Strings
