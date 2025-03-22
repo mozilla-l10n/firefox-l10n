@@ -190,6 +190,7 @@ shopping-survey-thanks =
 ## Shopping opted-out survey strings
 ## Opt-out survey options are displayed as checkboxes and the user can select one or many.
 
+shopping-survey-opted-out-multiselect-label = Faghe·nos ischire pro ite as disativadu su Verificadore de retzensiones. Podes seberare prus de una resone.
 shopping-survey-thanks-title = Gràtzias pro s’opinione tua!
 shopping-survey-opted-out-hard-to-understand = Est malu a cumprèndere
 shopping-survey-opted-out-too-slow = Istentat tropu

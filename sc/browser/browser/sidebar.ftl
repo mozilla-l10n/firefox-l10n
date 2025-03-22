@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = Chatbot IA
 menu-view-review-checker =
     .label = Verificadore de retzensiones
+menu-view-contextual-password-manager =
+    .label = Craes
 sidebar-options-menu-button =
     .title = Aberi su menù
 
@@ -54,6 +56,13 @@ sidebar-show-on-the-right =
     .label = Move sa barra laterale a manu dereta
 sidebar-show-on-the-left =
     .label = Move sa barra laterale a manu manca
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Ismànnia sa barra laterale a su passàgiu de su puntadore
+expand-on-hover-message =
+    .heading = S’ismanniamentu a su passàgiu de su puntadore at a bènnere luego
+    .message = In un’atualizatzione de su benidore, as a pòdere ismanniare sa barra laterale a su passàgiu de su puntadore.
 
 ## Labels for sidebar context menu items
 
@@ -71,6 +80,12 @@ sidebar-context-menu-bookmark-tab =
     .label = Agiunghe s’ischeda a is sinnalibros…
 sidebar-context-menu-copy-link =
     .label = Còpia su ligòngiu
+sidebar-context-menu-hide-sidebar =
+    .label = Cua sa barra laterale
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Ativa is ischedas verticales
+sidebar-context-menu-customize-sidebar =
+    .label = Personaliza sa barra laterale
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
@@ -95,6 +110,8 @@ sidebar-menu-customize-label =
     .label = Personaliza sa barra laterale
 sidebar-menu-review-checker-label =
     .label = Verificadore de retzensiones
+sidebar-menu-contextual-password-manager-label =
+    .label = Craes
 
 ## Tooltips for sidebar menu items.
 
@@ -135,6 +152,8 @@ sidebar-menu-syncedtabs-header =
     .heading = Ischedas dae àteros dispositivos
 sidebar-menu-bookmarks-header =
     .heading = Sinnalibros
+sidebar-menu-cpm-header =
+    .heading = Craes
 sidebar-panel-header-close-button =
     .tooltiptext = Serra
 
