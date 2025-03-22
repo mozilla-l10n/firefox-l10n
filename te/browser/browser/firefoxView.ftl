@@ -19,6 +19,8 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = మూసివేయి
     .aria-label = మూసివేయి
+firefoxview-empty-state-icon =
+    .alt = గమనిక:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = ఇప్పుడే
 firefoxview-tabpickup-description = ఇతర పరికరాలలో తెరిచివున్న పేజీలు.
@@ -116,6 +118,7 @@ firefoxview-history-site-localhost = (స్థానిక ఫైళ్లు)
 ##
 
 firefoxview-show-all-history = మొత్తం చరిత్రను చూపించు
+firefoxview-view-more-browsing-history = మరింత విహరణ చరిత్ర చూపు
 
 ## Message displayed in Firefox View when the user has no history data
 
@@ -125,6 +128,7 @@ firefoxview-show-all-history = మొత్తం చరిత్రను చ�
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = చూపించడానికి ఏమీలేదు
 
 ##
 
