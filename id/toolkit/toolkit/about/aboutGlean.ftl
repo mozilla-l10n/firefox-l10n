@@ -127,8 +127,9 @@ about-glean-about-data-description-list-intro =
     Silakan lihat daftar di bawah ini untuk kasus penggunaan
     spesifik untuk setiap alat:
 about-glean-about-data-list-item-dictionary =
-    Untuk menelusuri daftar data yang dikumpulkan oleh { -glean-brand-name } per aplikasi, silakan berkonsultasi dengan
-    <a data-l10n-name="glean-dictionary-link">Kamus { -glean-brand-name }</a>.
+    Untuk menelusuri daftar data yang dikumpulkan oleh { -glean-brand-name } per aplikasi, harap lihat
+    <a data-l10n-name="glean-dictionary-link">Dictionary{ -glean-brand-name }</a>.
+about-glean-about-data-list-item-about-telemetry = Untuk menjelajahi data yang dikumpulkan oleh telemetri lama, harap lihat <a data-l10n-name='about-telemetry-link'>about:telemetry</a>.
 about-glean-about-data-explanation =
     Untuk menelusuri daftar data yang dikumpulkan, silakan berkonsultasi dengan
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Kamus</a>.
