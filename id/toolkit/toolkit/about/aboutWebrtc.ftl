@@ -15,6 +15,7 @@ about-webrtc-save-page-dialog-title = simpan about:webrtc dengan nama
 ## These labels are for a disclosure which contains the information for closed PeerConnection sections
 
 about-webrtc-closed-peerconnection-disclosure-show-msg = Tampilkan PeerConnections Tertutup
+about-webrtc-closed-peerconnection-disclosure-hide-msg = Sembunyikan Koneksi Peer Tertutup
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
@@ -23,6 +24,7 @@ about-webrtc-aec-logging-off-state-label = Mulai Pencatatan AEC
 about-webrtc-aec-logging-on-state-label = Hentikan Pencatatan AEC
 about-webrtc-aec-logging-on-state-msg = Pencatatan AEC aktif (bicara dengan pemanggil selama beberapa menit lalu hentikan penangkapan)
 about-webrtc-aec-logging-toggled-on-state-msg = Pencatatan AEC aktif (bicara dengan pemanggil selama beberapa menit lalu hentikan penangkapan)
+about-webrtc-aec-logging-unavailable-sandbox = Variabel lingkungan MOZ_DISABLE_CONTENT_SANDBOX=1 diperlukan untuk mengekspor log AEC. Hanya atur variabel ini jika Anda memahami risiko yang mungkin terjadi.
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Berkas log tangkapan dapat ditemukan di: { $path }
@@ -37,6 +39,10 @@ about-webrtc-force-refresh-button = Segarkan
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
 about-webrtc-peerconnection-id-label = ID PeerConnection:
+# The number of DataChannels that a PeerConnection has opened
+about-webrtc-data-channels-opened-label = Kanal Data Dibuka:
+# The number of once open DataChannels that a PeerConnection has closed
+about-webrtc-data-channels-closed-label = Kanal Data Ditutup:
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
