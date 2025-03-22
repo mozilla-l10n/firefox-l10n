@@ -183,6 +183,9 @@ urlbar-result-menu-remove-from-history =
 urlbar-result-menu-tip-get-help =
     .label = సహాయం పొందండి
     .accesskey = h
+urlbar-result-menu-learn-more-about-firefox-suggest =
+    .label = { -firefox-suggest-brand-name } గురించి మరింత తెలుసుకోండి
+    .accesskey = L
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.

@@ -138,6 +138,10 @@ downloads-open-file =
 ##   $seconds (number) - Amount of seconds left till the file opens.
 ##   $minutes (number) - Amount of minutes till the file opens.
 
+downloading-file-opens-in-hours-and-minutes-2 =
+    .value = { $hours }గం. { $minutes }నిమి.లో తెరవబడుతుంది…
+downloading-file-opens-in-minutes-2 =
+    .value = { $minutes }నిమి.లో తెరవబడుతుంది…
 downloading-file-click-to-open =
     .value = పూర్తయిన తర్వాత తెరువు
 

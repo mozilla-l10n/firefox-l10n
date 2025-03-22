@@ -40,6 +40,11 @@ xpinstall-disabled = సాఫ్ట్‌వేర్ స్థాపన ప్
 xpinstall-disabled-button =
     .label = చేతనించు
     .accesskey = n
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = { $addonName } ({ $addonId }) మీ సంస్థచే నిరోధించబడింది.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } ని { -brand-short-name } కి జోడించబడినది
