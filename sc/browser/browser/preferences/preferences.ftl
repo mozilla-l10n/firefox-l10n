@@ -148,6 +148,7 @@ preferences-data-migration-description = Importa sinnalibros, craes, cronologia 
 preferences-data-migration-button =
     .label = Importa is datos
     .accesskey = d
+preferences-profiles-header = Profilos
 tabs-group-header = Ischedas
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab cuncàmbia ischedas in s'òrdine de impreu reghente

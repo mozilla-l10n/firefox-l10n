@@ -78,12 +78,26 @@ sidebar-button-callout-vertical-tabs = Pro ammustrare is ischedas, sèbera su bu
 ## Sidebar Vertical Tabs Strings
 
 vertical-tabs-callout-1-title = Tropu ischedas?
+vertical-tabs-callout-1-subtitle = Proa sa dispositzione noa de ischedas verticales pro bìdere a lestru sa lista de ischedas. Sa gente chi at provadu custa funtzionalidade narat chi ddis at agiudadu a s’intèndere prus in òrdine. Podes cambiare cando boles.
+vertical-tabs-callout-1-cta-button = Proa is ischedas verticales
+vertical-tabs-callout-2-cta-button = Proa immoe
+vertical-tabs-callout-2-title = Lassas meda ischedas abertas? Proa is ischedas verticales.
+vertical-tabs-callout-2-subtitle = Custa dispositzione ti permitit de bìdere a lestru sa lista de ischedas abertas. In prus, nde podes acontzare sa larghesa pro bìdere prus o prus pagu testu de su tìtulu de is ischedas.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = Ti ses perdende is ischedas de importu?
+sidebar-pins-callout-subtitle = Proa a ddas apicare, pro chi abarrent in artu de sa lista de ischedas. Incarca cun su butone deretu in s’ischeda chi boles apicare, e pustis sèbera Apica s’ischeda.
+sidebar-pins-callout-cta-button = Apica s’ischeda
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Barra laterale: su logu giustu pro ainas e ischedas
+sidebar-customization-callout-1-subtitle = Sa barra laterale de { -brand-product-name } ti permitit de atzèdere a lestru a sa cronologia de chirca, is ischedas de àteros dispositivos e unu chatbot de IA. Totu chene de lassare sa visualizatzione printzipale.
+sidebar-customization-callout-callout-button = Personaliza sa barra laterale
+sidebar-customization-callout-dismiss-button = Cua sa barra laterale
+sidebar-customization-callout-2-title = Personaliza sa barra laterale de { -brand-product-name }
+sidebar-customization-callout-2-subtitle = Agiunghe e boga ainas. Pone is ischedas in sa barra laterale. Proa su chatbot de IA. Tue detzides comente boles personalizare sa barra laterale.
 
 ## Sidebar Callout Survey Strings
 

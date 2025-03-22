@@ -126,6 +126,8 @@ newtab-menu-section-unfollow = Non sigas prus s’argumentu
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
+newtab-menu-manage-sponsored-content = Gesti su cuntenutu patrotzinadu
+newtab-menu-our-sponsors-and-your-privacy = Is patrotzinadores nostros e sa riservadesa tua
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -317,6 +319,8 @@ newtab-custom-settings = Gesti prus cunfiguratziones
 
 newtab-wallpaper-title = Isfundos de ischermu
 newtab-wallpaper-reset = Ripristina comente predefinidu
+newtab-wallpaper-upload-image = Càrriga un’immàgine
+newtab-wallpaper-custom-color = Sèbera unu colore
 newtab-wallpaper-light-red-panda = Panda ruju
 newtab-wallpaper-light-mountain = Monte biancu
 newtab-wallpaper-light-sky = Chelu cun nues tanadas e colore de rosa
@@ -476,13 +480,20 @@ newtab-section-confirm-block-section-p1 = Seguru chi boles blocare custa setzion
 newtab-section-confirm-block-section-p2 = Sa setzione blocada no at apàrrere prus in sa lìnia de tempus tua.
 newtab-section-block-section-button = Bloca custa setzione
 newtab-section-cancel-button = Immoe nono
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = Bloca { $topic }
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Argumentos
+newtab-section-manage-topics-button-v2 =
+    .label = Gesti is argumentos
+newtab-section-mangage-topics-followed-topics = Sighidu
 newtab-section-mangage-topics-button =
     .label = Argumentos sighidos e blocados
 newtab-section-mangage-topics-followed-topics-subtitle = Argumentos sighidos
 newtab-section-mangage-topics-followed-topics-empty-state = Non ses ancora sighende nissunu argumentu
+newtab-section-mangage-topics-blocked-topics = Blocadu
 newtab-section-mangage-topics-blocked-topics-subtitle = Argumentu blocadu
 newtab-section-mangage-topics-blocked-topics-empty-state = No as ancora blocadu nissunu argumentu

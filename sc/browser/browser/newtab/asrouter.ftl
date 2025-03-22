@@ -338,3 +338,4 @@ multi-cta-fox-doodle-pin-checkbox =
     }
 multi-cta-fox-doodle-start-browsing-primary-button-label = Cumintza a navigare
 multi-cta-fox-doodle-main-browser-primary-button-label = Faghe de { -brand-short-name } su navigadore predefinidu
+multi-cta-fox-doodle-quick-reminder-subtitle = Un’apuntu a su bolu: podes portare su navigadore tuo preferidu e rispetosu de sa riservadesa semper acanta.

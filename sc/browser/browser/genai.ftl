@@ -113,3 +113,9 @@ genai-onboarding-lechat-price = De badas; contu rechestu
 
 ## Model Optin Component
 
+genai-model-optin-continue =
+    .label = Sighi
+genai-model-optin-optout =
+    .label = Annulla
+genai-model-optin-cancel =
+    .label = Annulla
