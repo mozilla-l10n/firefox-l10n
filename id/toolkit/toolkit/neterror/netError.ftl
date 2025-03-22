@@ -13,6 +13,7 @@ neterror-captive-portal-page-title = Masuk ke jaringan
 neterror-dns-not-found-title = Server Tidak Ditemukan
 neterror-malformed-uri-page-title = URL tidak valid
 general-body-title = Hati-hati. Ada yang tidak beres.
+problem-with-this-site-title = Sepertinya ada masalah dengan situs ini
 
 ## Error page actions
 

@@ -308,9 +308,18 @@ pdfjs-highlight-floating-button1 =
     .title = Sorot
     .aria-label = Sorot
 pdfjs-highlight-floating-button-label = Sorot
+pdfjs-editor-signature-button =
+    .title = Tambahkan tanda tangan
+pdfjs-editor-signature-button-label = Tambahkan tanda tangan
 
 ## Default editor aria labels
 
+# “Highlight” is a noun, the string is used on the editor for highlights.
+pdfjs-editor-highlight-editor =
+    .aria-label = Editor sorot
+# “Drawing” is a noun, the string is used on the editor for drawings.
+pdfjs-editor-ink-editor =
+    .aria-label = Editor gambar
 
 ## Remove button for the various kind of editor.
 
@@ -322,6 +331,8 @@ pdfjs-editor-remove-stamp-button =
     .title = Hapus gambar
 pdfjs-editor-remove-highlight-button =
     .title = Hapus sorotan
+pdfjs-editor-remove-signature-button =
+    .title = Hapus tanda tangan
 
 ##
 
