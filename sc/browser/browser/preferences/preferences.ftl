@@ -149,6 +149,10 @@ preferences-data-migration-button =
     .label = Importa is datos
     .accesskey = d
 preferences-profiles-header = Profilos
+preferences-manage-profiles-description = Onni profilu tenet cunfiguratziones e datos de navigatzione separados, includende sa cronologia, is craes e àteru
+preferences-manage-profiles-learn-more = Àteras informatziones
+preferences-manage-profiles-button =
+    .label = Gesti is profilos
 tabs-group-header = Ischedas
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab cuncàmbia ischedas in s'òrdine de impreu reghente
@@ -267,6 +271,17 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Gesti is temas de { -brand-short-name } in <a data-l10n-name="themes-link">Estensiones e temas</a>
+preferences-contrast-control-header = Controllu de contrastu
+preferences-contrast-control-description = Is sitos web tenent una variedade de colores de primu pianu e de isfundu. Cunfigura { -brand-short-name } pro impreare is pròpiu colores in totu is sitos pro chi siat prus fàtzile a ddos lèghere.
+preferences-contrast-control-use-platform-settings =
+    .label = Automàticu (imprea is cunfiguratziones de sistema)
+    .accesskey = A
+preferences-contrast-control-off =
+    .label = Disativadu
+    .accesskey = D
+preferences-contrast-control-custom =
+    .label = Personalizadu
+    .accesskey = P
 preferences-colors-header = Colores
 preferences-colors-description = Sostitui is colores predefinidos de { -brand-short-name } pro is testos, is isfundos de is sitos web e is ligòngios.
 preferences-colors-manage-button =
@@ -1124,6 +1139,13 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Barra de indiritzos
 addressbar-suggest = Cando ses impreende sa barra de indiritzos, cussìgia
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Barra de indiritzos — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Sèbera su tipu de cussìgios chi depent apàrrere in sa barra de indiritzos.
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Àteras informatziones
 addressbar-locbar-history-option =
     .label = cronologia de navigatzione
     .accesskey = n
@@ -1156,7 +1178,18 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Ammustra cussìgios de chirca in tendèntzia
     .accesskey = A
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = Cussìgios dae { -brand-short-name }
+addressbar-locbar-suggest-nonsponsored-desc = Otene cussìgios de sa rete acapiados a sa chirca tua.
+addressbar-locbar-suggest-sponsored-option =
+    .label = Cussìgios dae is ispònsors
+addressbar-locbar-suggest-sponsored-desc = Sustene { -brand-short-name } cun propostas isponsorizadas in manera ocasionale.
 addressbar-quickactions-learn-more = Àteras informatziones
+addressbar-dismissed-suggestions-label = Cussìgios iscartados
+addressbar-restore-dismissed-suggestions-description = Ripristina is cussìgios iscartados dae is patrotzinadores e { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button =
+    .label = Ripristina
 
 ## Privacy Section - Content Blocking
 
@@ -1376,6 +1409,7 @@ website-advertising-header = Preferèntzias de publitzidade de su situ
 website-advertising-private-attribution =
     .label = Permite a is sitos de fàghere mesuras pro publitzidade respetende sa riservadesa.
     .accesskey = P
+website-advertising-private-attribution-description = Custu agiudat a is sitos a cumprèndere comente sa publitzidade issoro funtzionet chene de collire datos tuos.
 
 ## Privacy Section - Security
 ##
@@ -1419,6 +1453,7 @@ space-alert-under-5gb-message2 = <strong>Est acabbende s'ispàtziu in su discu p
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Modalidade HTTPS ebbia
+httpsonly-description3 = Permitit isceti connessiones seguras a is sitos. { -brand-short-name } at a preguntare in antis de si connètere in manera non segura.
 httpsonly-learn-more2 = Comente funtzionat sa modalidade «isceti HTTPS»
 httpsonly-description = HTTPS garantit una connessione segura e tzifrada intre { -brand-short-name } e is sitos web chi ses bisitende. Sa majoria de is sitos sunt cumpatìbiles cun HTTPS; si sa Modalidade HTTPS ebbia est ativada, { -brand-short-name } at a impreare HTTPS in totu is connessiones.
 httpsonly-learn-more = Àteras informatziones

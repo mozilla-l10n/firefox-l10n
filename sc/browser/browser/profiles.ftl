@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profile-window-heading = Sèbera unu profilu de { -brand-short-name }
+profile-window-body = Mantene separadas sa navigatzione de traballu e cussa personale, includende cosas comente is craes e is sinnalibros. O crea profilos pro onni utente de custu dispositivu.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Sèbera unu profilu cando { -brand-short-name } s’aberit
@@ -40,9 +41,12 @@ edit-profile-page-duplicate-name = Su nòmine de su profilu esistit giai. Proa·
 edit-profile-page-profile-saved = Sarvadu
 new-profile-page-title = Profilu nou
 new-profile-page-header = Personaliza su profilu nou
+new-profile-page-header-description = Onni profilu mantenet una cronologia de navigatzione e una cunfiguratzione separada dae is àteros profilos. In prus, s’amparu de sa riservadesa de { -brand-short-name } est ativu e artu in manera predefinida.
 new-profile-page-learn-more = Àteras informatziones
 new-profile-page-input-placeholder =
     .placeholder = Sèbera unu nòmine comente “Traballu” o “Personale”
+new-profile-page-done-button =
+    .label = Editzione agabbada
 profile-window-title-2 = { -brand-short-name } - Sèbera unu profilu
 profile-window-logo =
     .alt = logo de { -brand-short-name }

@@ -81,6 +81,7 @@ protections-panel-smartblock-blocking-toggle =
     .label = Permite { $trackername }
 #  $trackername (String): the name of the tracker that is currently being blocked.
 smartblock-placeholder-title = Elementos de sighidura e cuntenutu de { $trackername } blocados.
+smartblock-placeholder-desc = Sa cunfiguratzione tua de { -brand-short-name } at impedidu chi custu cuntenutu ti sigat in àteros sitos o siat impreadu pro publitzidade.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = Permite in { $websitehost }
 
