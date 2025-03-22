@@ -36,6 +36,13 @@ about-webauthn-add-bio-enrollment-section-title = Tambahkan pendaftaran baru
 
 about-webauthn-results-success = Berhasil!
 about-webauthn-results-general-error = Kesalahan!
+# Variables:
+#  $retriesLeft (Number): number of tries left
+about-webauthn-results-pin-invalid-error =
+    { $retriesLeft ->
+        [0] Galat: PIN salah. Coba lagi.
+       *[other] Galat: PIN salah. Coba lagi. Anda memiliki { $retriesLeft } percobaan tersisa.
+    }
 about-webauthn-results-pin-blocked-error = Kesalahan: Tidak ada upaya tersisa dan perangkat Anda telah dikunci, karena berkali-kali memasukkan PIN yang salah. Perangkat perlu diatur ulang.
 about-webauthn-results-pin-not-set-error = Galat: PIN belum diatur. Tindakan ini membutuhkan perlindungan PIN.
 about-webauthn-results-pin-too-short-error = Kesalahan: PIN yang diberikan terlalu pendek.

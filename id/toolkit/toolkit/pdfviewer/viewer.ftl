@@ -558,24 +558,46 @@ pdfjs-editor-add-signature-draw-thickness-range-label = Ketebalan
 pdfjs-editor-add-signature-draw-thickness-range =
     .title = Ketebalan gambar: { $thickness }
 pdfjs-editor-add-signature-image-placeholder = Seret berkas ke sini untuk mengunggah
+pdfjs-editor-add-signature-image-browse-link =
+    { PLATFORM() ->
+        [macos] Atau jelajahi berkas gambar
+       *[other] Atau jelajahi berkas gambar
+    }
 
 ## Controls
 
+pdfjs-editor-add-signature-description-label = Deskripsi (teks alternatif)
+pdfjs-editor-add-signature-description-input =
+    .title = Deskripsi (teks alternatif)
 pdfjs-editor-add-signature-description-default-when-drawing = Tanda tangan
 pdfjs-editor-add-signature-clear-button-label = Hapus tanda tangan
 pdfjs-editor-add-signature-clear-button =
     .title = Hapus tanda tangan
 pdfjs-editor-add-signature-save-checkbox = Simpan tanda tangan
 pdfjs-editor-add-signature-save-warning-message = Anda telah mencapai batas 5 tanda tangan tersimpan. Hapus untuk menyimpan lebih banyak.
+pdfjs-editor-add-signature-image-upload-error-title = Tidak dapat mengunggah gambar
+pdfjs-editor-add-signature-image-upload-error-description = Periksa sambungan jaringan Anda atau coba gambar lain.
+pdfjs-editor-add-signature-error-close-button = Tutup
 
 ## Dialog buttons
 
+pdfjs-editor-add-signature-cancel-button = Batal
+pdfjs-editor-add-signature-add-button = Tambah
+pdfjs-editor-edit-signature-update-button = Perbarui
 
 ## Main menu for adding/removing signatures
 
+pdfjs-editor-delete-signature-button =
+    .title = Hapus tanda tangan
+pdfjs-editor-delete-signature-button-label = Hapus tanda tangan
+pdfjs-editor-delete-signature-button1 =
+    .title = Hapus tanda tangan tersimpan
+pdfjs-editor-delete-signature-button-label1 = Hapus tanda tangan tersimpan
 
 ## Editor toolbar
 
+pdfjs-editor-add-signature-edit-button-label = Edit deskripsi
 
 ## Edit signature description dialog
 
+pdfjs-editor-edit-signature-dialog-title = Edit deskripsi
