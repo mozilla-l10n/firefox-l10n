@@ -566,6 +566,7 @@ pdfjs-editor-add-signature-clear-button-label = Hapus tanda tangan
 pdfjs-editor-add-signature-clear-button =
     .title = Hapus tanda tangan
 pdfjs-editor-add-signature-save-checkbox = Simpan tanda tangan
+pdfjs-editor-add-signature-save-warning-message = Anda telah mencapai batas 5 tanda tangan tersimpan. Hapus untuk menyimpan lebih banyak.
 
 ## Dialog buttons
 

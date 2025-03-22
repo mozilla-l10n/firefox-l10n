@@ -108,6 +108,14 @@ about-glean-adhoc-note =
     Harap dicatat bahwa Anda menggunakan Glean JS API dengan menggunakan konsol devtools.
     Ini berarti kategori metrik dan nama metrik diformat dalam
     <code>camelCase</code> tidak seperti di Rust dan C++ API.
+about-glean-profiler-explanation =
+    Untuk melihat tampilan lengkap dari semua metrik yang telah direkam, gunakan { -profiler-brand-name }.
+    Pertama, Anda perlu <a data-l10n-name='firefox-profiler-link'>mengambil profil kinerja</a>.
+    Setelah itu, pilih <q>Bagan Penanda</q> dan lihat penanda di bawah <q>Telemetri</q>.
+about-glean-profiler-explanation-profiler =
+    Di profil kinerja, Anda dapat melihat semua metrik yang dikumpulkan, kapan 
+    dikumpulkan, dan nilai yang dikumpulkan. Dengan mengarahkan kursor ke penanda, 
+    Anda dapat memverifikasi bahwa nilai yang benar dikumpulkan dan pengumpulan terjadi pada waktu yang tepat.
 controls-button-label-verbose = Terapkan pengaturan dan kirimkan ping
 about-glean-feedback-settings-only =
     .message = Setelan diterapkan!
@@ -118,6 +126,9 @@ about-glean-about-data-description = Tersedia beberapa alat berbeda yang dapat A
 about-glean-about-data-description-list-intro =
     Silakan lihat daftar di bawah ini untuk kasus penggunaan
     spesifik untuk setiap alat:
+about-glean-about-data-list-item-dictionary =
+    Untuk menelusuri daftar data yang dikumpulkan oleh { -glean-brand-name } per aplikasi, silakan berkonsultasi dengan
+    <a data-l10n-name="glean-dictionary-link">Kamus { -glean-brand-name }</a>.
 about-glean-about-data-explanation =
     Untuk menelusuri daftar data yang dikumpulkan, silakan berkonsultasi dengan
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Kamus</a>.
