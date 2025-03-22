@@ -975,6 +975,9 @@ panel-save-update-password = Geslo
 # "More" item in macOS share menu
 menu-share-more =
     .label = Več …
+menu-share-copy-link =
+    .label = Kopiraj povezavo
+    .accesskey = K
 ui-tour-info-panel-close =
     .tooltiptext = Zapri
 

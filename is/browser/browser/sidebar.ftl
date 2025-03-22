@@ -60,6 +60,9 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Fella út hliðarstikuna við yfirsvif
+expand-on-hover-message =
+    .heading = Stækkun við yfirsvif kemur fljótlega
+    .message = Væntanleg uppfærsla mun gefa kost á að fletta hliðarspjaldinu út við yfirsvif bendils.
 
 ## Labels for sidebar context menu items
 

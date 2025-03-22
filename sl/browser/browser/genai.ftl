@@ -164,3 +164,9 @@ genai-onboarding-lechat-price = Brezplačno; zahtevan račun
 
 ## Model Optin Component
 
+genai-model-optin-continue =
+    .label = Nadaljuj
+genai-model-optin-optout =
+    .label = Prekliči
+genai-model-optin-cancel =
+    .label = Prekliči

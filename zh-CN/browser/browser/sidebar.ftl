@@ -60,6 +60,9 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = 悬停时展开侧栏
+expand-on-hover-message =
+    .heading = 即将添加：悬停时展开
+    .message = 未来更新后，在侧栏上悬停时可展开侧栏。
 
 ## Labels for sidebar context menu items
 

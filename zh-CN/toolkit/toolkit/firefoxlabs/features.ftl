@@ -28,6 +28,7 @@ experimental-features-group-customize-browsing =
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = 在侧栏中显示密码
+experimental-features-contextual-password-manager-description = 直接通过侧栏查看密码，登录时不必再四处翻找以至重设。若要使用此功能，请在侧栏中选择“密码”，然后前往“常规”设置，在“浏览器布局”部分中选择“显示侧栏”，再选择“密码”以定制侧栏即可。试用后，请<a data-l10n-name="connect">与我们分享使用体验</a>。
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = 定制新标签页的壁纸或颜色
