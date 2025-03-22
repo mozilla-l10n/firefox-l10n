@@ -383,6 +383,7 @@ newtab-wallpaper-starry-canyon = 蓝色星空
 newtab-wallpaper-suspension-bridge = 白天时的灰色全悬索桥照片
 newtab-wallpaper-sand-dunes = 白色沙丘
 newtab-wallpaper-palm-trees = 魔术光下的椰子树侧影
+newtab-wallpaper-blue-flowers = 蓝瓣花绽放的近景照片
 newtab-wallpaper-forest-trees = 浓雾掩映的树木
 # Variables
 #   $author_string (String) - The name of the creator of the photo.

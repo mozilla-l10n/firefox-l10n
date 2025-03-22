@@ -86,14 +86,18 @@ vertical-tabs-callout-2-subtitle = 此布局可让您轻松纵览标签页列。
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = 重要的标签页总在躲猫猫？
 sidebar-pins-callout-subtitle = 试试把它们固定起来，保持显示在标签页列顶部。只需右键点击需要固定的标签页，然后选择“固定标签页”即可。
 sidebar-pins-callout-cta-button = 固定标签页
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = 侧栏：工具和标签页集于一处
+sidebar-customization-callout-1-subtitle = 可通过 { -brand-product-name } 侧栏快捷打开浏览历史、其他设备上的标签页，以及 AI 聊天机器人，无需分心于其他界面。
 sidebar-customization-callout-callout-button = 定制侧栏
 sidebar-customization-callout-dismiss-button = 隐藏侧栏
 sidebar-customization-callout-2-title = 个性化 { -brand-product-name } 侧栏
+sidebar-customization-callout-2-subtitle = 您可随心定制侧栏，例如添加或移除工具、将标签页置于侧栏、试用 AI 聊天机器人。
 
 ## Sidebar Callout Survey Strings
 

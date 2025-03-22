@@ -27,6 +27,9 @@ pending-crash-reports-send =
     .label = 发送
 pending-crash-reports-always-send =
     .label = 一律发送
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+requested-crash-reports-message = 您有 { $reportCount } 份未发送的崩溃报告与调查中的崩溃问题相关，发送这部分报告可帮助我们改进 { -brand-product-name }。关闭此通知将忽略这部分报告。
 requested-crash-reports-dont-show-again =
     .label = 不再显示
     .accesskey = D
