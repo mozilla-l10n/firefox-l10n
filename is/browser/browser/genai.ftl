@@ -160,3 +160,9 @@ genai-onboarding-lechat-price = Ókeypis; reiknings krafist
 
 ## Model Optin Component
 
+genai-model-optin-continue =
+    .label = Halda áfram
+genai-model-optin-optout =
+    .label = Hætta við
+genai-model-optin-cancel =
+    .label = Hætta við

@@ -126,6 +126,8 @@ newtab-menu-section-unfollow = Hætta að fylgjast með viðfangsefni
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
+newtab-menu-manage-sponsored-content = Sýsla með kostað efni
+newtab-menu-our-sponsors-and-your-privacy = Styrktaraðilar okkar og friðhelgi þín
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -386,6 +388,7 @@ newtab-wallpaper-starry-canyon = Blá stjörnubjört nótt
 newtab-wallpaper-suspension-bridge = Ljósmynd af gráum hengibrúm í dagsbirtu
 newtab-wallpaper-sand-dunes = Hvítar sandöldur
 newtab-wallpaper-palm-trees = Skuggamynd af kókospálmatrjám við sólarlag
+newtab-wallpaper-blue-flowers = Nærmynd af bláblöðóttum blómum í blóma
 newtab-wallpaper-forest-trees = Tré þakin þoku
 # Variables
 #   $author_string (String) - The name of the creator of the photo.

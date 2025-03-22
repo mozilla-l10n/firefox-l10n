@@ -271,6 +271,16 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Sýslaðu með { -brand-short-name } þemu í <a data-l10n-name="themes-link">Forritsaukar og þemu</a>
+preferences-contrast-control-header = Stýring birtuskila
+preferences-contrast-control-use-platform-settings =
+    .label = Sjálfvirkt (nota kerfisstillingar)
+    .accesskey = a
+preferences-contrast-control-off =
+    .label = Óvirkt
+    .accesskey = k
+preferences-contrast-control-custom =
+    .label = Sérsniðið
+    .accesskey = S
 preferences-colors-header = Litir
 preferences-colors-description = Taka yfir sjálfgefna liti { -brand-short-name } fyrir texta, bakgrunn vefsíðna og tengla.
 preferences-colors-manage-button =
@@ -1127,6 +1137,8 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Veffangastika
 addressbar-suggest = Þegar veffangastikan er notuð skal stinga upp á
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Vistfangastika — { -firefox-suggest-brand-name }
 # When Firefox Suggest is enabled, a "Learn more" link appears at the end of
 # `addressbar-suggest-firefox-suggest`.
 addressbar-locbar-firefox-suggest-learn-more = Kanna nánar
