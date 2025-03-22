@@ -968,6 +968,9 @@ panel-save-update-password = Salasana
 # "More" item in macOS share menu
 menu-share-more =
     .label = Lisää…
+menu-share-copy-link =
+    .label = Kopioi linkki
+    .accesskey = l
 ui-tour-info-panel-close =
     .tooltiptext = Sulje
 
