@@ -56,6 +56,9 @@ sidebar-show-on-the-right =
     .label = Flytt sidestolpe til høgre
 sidebar-show-on-the-left =
     .label = Flytt sidestolpe til venstre
+expand-on-hover-message =
+    .heading = Utvid ved å halde musepeikaren over, kjem snart
+    .message = I ein framtidig oppdatering vil du kunne utvide sidemenyen når du held musen over
 
 ## Labels for sidebar context menu items
 
