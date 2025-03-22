@@ -56,3 +56,4 @@ add-engine-dialog =
     .buttonlabelaccept = Legg til søkjemotor
     .buttonaccesskeyaccept = L
 engine-name-exists = Ein søkjemotor med det namnet finst allereie
+engine-keyword-exists = Det finst allereie ein søkjemotor med det søkjeordet
