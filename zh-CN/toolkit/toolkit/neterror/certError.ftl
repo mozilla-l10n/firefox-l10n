@@ -21,6 +21,9 @@ cert-error-trust-symantec = 由 GeoTrust、RapidSSL、Symantec、Thawte 以及 V
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } 无法信任 { $hostname }，因其无法证明自己符合公开证书透明度要求。
+# Variables:
+#   $hostname (string) - Hostname of the website with cert error.
+cert-error-revoked = 各个网站通过证书证明自己的身份。{ -brand-short-name } 不信任 { $hostname }，因为它使用的证书已被吊销。
 cert-error-untrusted-default = 该证书出自不受信任的来源。
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.

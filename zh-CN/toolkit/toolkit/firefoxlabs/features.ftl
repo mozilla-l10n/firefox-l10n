@@ -25,6 +25,9 @@ experimental-features-group-webpage-display =
     .label = 网页显示
 experimental-features-group-customize-browsing =
     .label = 定制浏览体验
+# Contextual Password Manager in sidebar
+experimental-features-contextual-password-manager =
+    .label = 在侧栏中显示密码
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = 定制新标签页的壁纸或颜色
