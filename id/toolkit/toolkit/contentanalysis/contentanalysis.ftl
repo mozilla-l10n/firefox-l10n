@@ -18,6 +18,9 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent } sedang meninjau te
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } sedang meninjau teks yang Anda pindahkan sesuai dengan kebijakan data organisasi Anda. Proses ini mungkin memerlukan waktu.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-print = { $agent } sedang meninjau hasil cetakan Anda sesuai dengan kebijakan data organisasi Anda. Proses ini mungkin memerlukan waktu.
 contentanalysis-operationtype-clipboard = papan klip
 contentanalysis-operationtype-dropped-text = teks yang diletakkan
 contentanalysis-operationtype-print = cetak
@@ -38,11 +41,27 @@ contentanalysis-genericresponse-message = Analisis Konten ditanggapi dengan { $r
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-block-message = Organisasi Anda menggunakan perangkat lunak pencegah kehilangan data yang telah memblokir konten ini: { $content }.
 # Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-unspecified-error-message-content = Terjadi kesalahan saat berkomunikasi dengan { $agent }. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-no-agent-connected-message-content = Tidak dapat tersambung ke { $agent }. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-invalid-agent-signature-message-content = Verifikasi tanda tangan gagal untuk { $agent }. { $content }
+# Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-error-message-upload-file = Unggahan “{ $filename }” ditolak.
 contentanalysis-error-message-dropped-text = Seret dan lepas ditolak.
 contentanalysis-error-message-clipboard = Tempel ditolak.
 contentanalysis-error-message-print = Pencetakan ditolak.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
+contentanalysis-timeout-block-error-message-content = Koneksi ke { $agent } melebihi batas waktu. { $contentName } telah diblokir.
 contentanalysis-block-dialog-title-upload-file = Anda tidak diizinkan untuk mengunggah berkas ini
 contentanalysis-block-dialog-title-clipboard = Anda tidak diizinkan untuk menempelkan konten ini
 contentanalysis-block-dialog-title-print = Anda tidak diizinkan untuk mencetak dokumen ini
