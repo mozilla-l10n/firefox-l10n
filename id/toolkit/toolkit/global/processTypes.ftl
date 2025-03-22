@@ -43,6 +43,13 @@ process-type-rdd = RDD
 process-type-inference = Penalaran
 # process used to run some IPC actor in their own sandbox
 process-type-utility = Aktor IPC dalam Kotak Pasir
+process-type-utility-actor-audio-decoder-generic = Dekoder Audio Generik Utilitas
+process-type-utility-actor-audio-decoder-applemedia = Utilitas AppleMedia
+process-type-utility-actor-audio-decoder-wmf = Utilitas Windows Media Foundation
+process-type-utility-actor-mf-media-engine = Utilitas Media Foundation Engine
+process-type-utility-actor-js-oracle = Utilitas JavaScript Oracle
+process-type-utility-actor-windows-utils = Utilitas Windows Utils
+process-type-utility-actor-windows-file-dialog = Dialog Berkas Utilitas Windows
 
 ##
 ## Other

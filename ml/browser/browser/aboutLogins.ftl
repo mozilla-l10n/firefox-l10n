@@ -171,6 +171,13 @@ about-logins-edit-login-os-auth-dialog-message-win = താങ്ങളുടെ
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = കരുതിവച്ച പ്രവേശിക്കൽ തിരുത്തുക
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] രഹസ്യവാക്കുകൾക്കായി ക്രമീകരണങ്ങൾ മാറ്റുക
+       *[other] താങ്ങളുടെ രഹസ്യവാക്കുകളുടെ ക്രമീകരണങ്ങളെ മാറ്റുവാൻ { -brand-short-name } ശ്രമിക്കുന്നു. ഇതു് അനുവദിക്കാൻ താങ്ങളുടെ ഉപകരണ പ്രവേശനം ഉപയോഗിക്കുക.
+    }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = താങ്ങളുടെ രഹസ്യവാക്കു് തിരുത്താനായി വിണ്ടോസു് പ്രവേശണവിശദാംശങ്ങളെ നൽകുക.ഇത് താങ്ങളുടെ സുരക്ഷയെ സംരക്ഷിക്കാൻ സഹായിക്കുന്നു.
 # This message can be seen when attempting to edit a login in about:logins
@@ -470,6 +477,11 @@ about-logins-import-report-no-change2 =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ഇരട്ടിയായ ഇനങ്ങൾ</div> <div data-l10n-name="not-imported">(ഇറക്കുമതി ചെയ്യാത്ത)</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ഇരട്ടിയായ ഇനങ്ങൾ</div> <div data-l10n-name="not-imported">(ഇറക്കുമതി ചെയ്യാത്ത)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">പിഴവുകൾ</div><div data-l10n-name="not-imported">(ഇറക്കുമതിച്ചിട്ടില്ല)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">പിഴവുകൾ</div><div data-l10n-name="not-imported">(ഇറക്കുമതിച്ചിട്ടില്ല)</div>
     }
 
 ## Logins import report page

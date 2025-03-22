@@ -7,6 +7,7 @@
 ### feature.
 
 about-unloads-page-title = ടാബ് തിരയുതിർക്കൽ
+about-unloads-no-unloadable-tab = ഇറക്കാവുന്ന ടാബുകളൊന്നുമില്ല.
 about-unloads-column-priority = മുന്‍ഗണന
 about-unloads-column-last-accessed = അവസാനം ഉപയോഗിച്ചതു്
 about-unloads-column-weight = അടിത്തറ വണ്ണം

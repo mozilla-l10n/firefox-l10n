@@ -91,6 +91,9 @@ about-webrtc-debug-mode-msg-label = Mode Debug
 about-webrtc-debug-mode-off-state-label = Mulai Mode Debug
 about-webrtc-debug-mode-on-state-label = Hentikan Mode Debug
 about-webrtc-stats-heading = Statistik Sesi
+about-webrtc-enable-logging-label = Aktifkan Prasetel Log WebRTC
+about-webrtc-peerconnections-section-heading = Statistik RTCPeerConnection
+about-webrtc-peerconnections-section-show-msg = Tampilkan Statistik RTCPeerConnection
 about-webrtc-peerconnections-section-hide-msg = Sembunyikan Statistik RTCPeerConnection
 about-webrtc-stats-clear = Bersihkan Riwayat
 about-webrtc-log-heading = Log Sambungan
@@ -192,6 +195,8 @@ about-webrtc-user-modified-configuration-heading = Konfigurasi WebRTC yang Diuba
 ## These are displayed on the button that shows or hides the
 ## user modified configuration disclosure
 
+about-webrtc-user-modified-configuration-show-msg = Tampilkan Konfigurasi yang Diubah Pengguna
+about-webrtc-user-modified-configuration-hide-msg = Sembunyikan Konfigurasi yang Diubah Pengguna
 
 ##
 
