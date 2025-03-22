@@ -56,3 +56,4 @@ add-engine-dialog =
     .buttonlabelaccept = 添加搜索引擎
     .buttonaccesskeyaccept = A
 engine-name-exists = 已存在同名搜索引擎
+engine-keyword-exists = 其他搜索引擎已使用此关键词

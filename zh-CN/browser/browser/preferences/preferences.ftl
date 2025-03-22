@@ -268,6 +268,7 @@ preferences-web-appearance-override-warning2 =
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = 到<a data-l10n-name="themes-link">扩展和主题</a>管理 { -brand-short-name } 主题
 preferences-contrast-control-header = 对比度控制
+preferences-contrast-control-description = 不同网站的前景色和背景色各异。通过配置 { -brand-short-name } 使用相同颜色显示所有网站，可让内容更清晰易读。
 preferences-contrast-control-use-platform-settings =
     .label = 自动（使用系统设置）
     .accesskey = A
@@ -1168,11 +1169,15 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = 显示热门搜索建议
     .accesskey = t
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = { -brand-short-name } 的建议
 addressbar-locbar-suggest-nonsponsored-desc = 从网络上获取与您的搜索相关的建议。
 addressbar-locbar-suggest-sponsored-option =
     .label = 赞助商建议
 addressbar-locbar-suggest-sponsored-desc = 不定期提供赞助商建议以支持 { -brand-short-name }。
 addressbar-quickactions-learn-more = 详细了解
+addressbar-dismissed-suggestions-label = 忽略的建议
 addressbar-restore-dismissed-suggestions-button =
     .label = 恢复
 
