@@ -123,6 +123,7 @@ shopping-survey-thanks =
 ## Shopping opted-out survey strings
 ## Opt-out survey options are displayed as checkboxes and the user can select one or many.
 
+shopping-survey-opted-out-too-slow = Դա չափազանց դանդաղ է
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
