@@ -37,3 +37,6 @@ webext-perms-description-webNavigation = Mengakses aktivitas peramban selama nav
 ## The userScripts permission includes an additional explanation that is
 ## displayed prominently near the usual permission description.
 
+webext-perms-extra-warning-userScripts-long = Skrip yang tidak terverifikasi dapat menimbulkan risiko keamanan dan privasi, seperti menjalankan kode berbahaya atau melacak aktivitas situs web. Jalankan hanya skrip dari ekstensi atau sumber yang Anda percayai.
+# A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
+webext-perms-extra-warning-userScripts-short = Skrip yang tidak terverifikasi dapat menimbulkan risiko keamanan dan privasi. Jalankan hanya skrip dari ekstensi atau sumber yang Anda percayai.

@@ -25,3 +25,7 @@ experimental-features-group-customize-browsing =
 experimental-features-contextual-password-manager =
     .label = Sandi di bilah samping
 experimental-features-contextual-password-manager-description = Akses kata sandi Anda langsung dari bilah samping. Tidak perlu lagi mencari-cari atau menyetel ulang sandi saat Anda mencoba masuk. Untuk menggunakan fitur ini, pilih kata sandi di bilah samping. Lalu buka pengaturan umum Anda dan di bawah tata letak peramban, pilih tampilkan bilah samping. Kemudian, sesuaikan bilah sisi Anda dengan memilih kata sandi. Jika Anda mencobanya, <a data-l10n-name="connect">beri tahu kami pendapat Anda</a>.
+# New Tab Custom Wallpapers
+experimental-features-custom-wallpaper =
+    .label = Pilih wallpaper atau warna khusus untuk Tab Baru
+experimental-features-custom-wallpaper-description = Unggah wallpaper Anda sendiri atau pilih warna khusus untuk latar belakang Tab Baru Anda.

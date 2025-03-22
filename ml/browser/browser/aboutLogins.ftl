@@ -124,6 +124,9 @@ about-logins-login-item-remove-button = മാറ്റുക
 login-item-origin-label = വെബ്സൈറ്റ് വിലാസം
 login-item-tooltip-message = താങ്ങൾ പ്രവേശിക്കുന്ന വെബ്‌സൈറ്റിന്റെ കൃത്യമായ വിലാസവുമായി ഇത് ഒത്തുചേരുന്നു ഉറപ്പിക്കുക.
 about-logins-origin-tooltip2 = മുഴുവൻ വിലാസം നൽകി താങ്ങൾ പ്രവേശിക്കുന്ന സ്ഥലവുമായി ഇതു് കൃത്യമായ പൊരുത്തമാണെന്നു് ഉറപ്പിക്കുക.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = താങ്ങൾ നിലവിലുള്ള രഹസ്യവാക്കു് ഈ വെബിടത്തിനാണു് കരുതിവയ്ക്കുന്നുയെന്നു് തീൎച്ചപ്പെടുത്തുക. രഹസ്യവാക്കു് ഇവിടെ മാറ്റിയിട്ടു് { $webTitle }-ന്റെ കൂടെ മാറത്തില്ല.
 about-logins-add-password-tooltip = ഈ വെബ്സ്ഥാനത്തിനായി താങ്ങളുടെ നിലവിലുള്ള രഹസ്യവാക്കു് കരുതിവയ്ക്കുന്നതെന്നു് ഉറപ്പിക്കുക.
 login-item-origin =
     .placeholder = https://www.example.com
