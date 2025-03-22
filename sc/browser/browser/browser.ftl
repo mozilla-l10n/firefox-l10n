@@ -187,6 +187,15 @@ urlbar-result-menu-remove-from-history =
 urlbar-result-menu-tip-get-help =
     .label = Otene agiudu
     .accesskey = a
+urlbar-result-menu-dismiss-suggestion =
+    .label = Iscarta custu cussìgiu
+    .accesskey = I
+urlbar-result-menu-learn-more-about-firefox-suggest =
+    .label = Àteras informatziones de { -firefox-suggest-brand-name }
+    .accesskey = A
+urlbar-result-menu-manage-firefox-suggest =
+    .label = Gesti { -firefox-suggest-brand-name }
+    .accesskey = G
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -671,6 +680,25 @@ urlbar-result-action-copy-to-clipboard = Còpia
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
+# The string returned for an undefined calculator result such as when dividing by 0
+urlbar-result-action-undefined-calculator-result = indefinidu
+# Shows the result of a formula expression being calculated, in scientific notation.
+# The last = sign will be shown as part of the result (e.g. "= 1.0e17").
+# Variables
+#  $result (String): the string representation for a result in scientific notation
+#  (e.g. "1.0e17").
+urlbar-result-action-calculator-result-scientific-notation = = { $result }
+# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
+# The last = sign will be shown as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "false", maximumFractionDigits: 8) }
+# Shows the result of a formula expression being calculated, to a maximum of 9 significant
+# digits. This is used for numbers < 1.
+# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 
 ## Strings used for buttons in the urlbar
 
@@ -950,6 +978,9 @@ panel-save-update-password = Crae
 # "More" item in macOS share menu
 menu-share-more =
     .label = Àteru...
+menu-share-copy-link =
+    .label = Còpia su ligòngiu
+    .accesskey = C
 ui-tour-info-panel-close =
     .tooltiptext = Serra
 

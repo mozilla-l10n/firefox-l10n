@@ -77,6 +77,7 @@ sidebar-button-callout-vertical-tabs = Pro ammustrare is ischedas, sèbera su bu
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = Tropu ischedas?
 
 ## Sidebar Vertical Tabs Pinning Strings
 
