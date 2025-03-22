@@ -31,3 +31,6 @@ pending-crash-reports-send =
     .label = Lähetä
 pending-crash-reports-always-send =
     .label = Lähetä aina
+requested-crash-reports-dont-show-again =
+    .label = Älä näytä uudelleen
+    .accesskey = D
