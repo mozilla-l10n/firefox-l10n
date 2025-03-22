@@ -118,6 +118,12 @@ about-glean-about-data-description =
     Det er nokre ulike verktøy du kan bruke for å sjå dataa dine, avhengig av
     det du leitar etter.
 about-glean-about-data-description-list-intro = Sjå lista nedanfor for spesifikke brukstilfelle for kvart verktøy:
+about-glean-about-data-list-item-dictionary =
+    For å sjå gjennom lista over data samla inn av { -glean-brand-name } for kvart program, kan du
+    konsultere <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-ordboka</a>.
+about-glean-about-data-list-item-about-telemetry =
+    For å sjå gjennom data innsamla av eldre telemetri, kan du konsultere
+    <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
 about-glean-about-data-explanation =
     For å sjå gjennom lista over innsamla data, sjå
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-ordbok</a>.
