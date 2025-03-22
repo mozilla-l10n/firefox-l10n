@@ -8,6 +8,7 @@ crashreporter-crashed-and-restore = { -brand-short-name } mengalami masalah dan 
 crashreporter-plea = Untuk membantu kami mendiagnosa dan memperbaiki masalah ini, Anda dapat mengirimkan laporan kerusakan.
 crashreporter-information = Aplikasi ini akan berjalan setelah terjadi kerusakan untuk dikirimkan ke { -vendor-short-name }. Aplikasi ini tidak bisa berjalan langsung.
 crashreporter-error = { -brand-short-name } mengalami masalah dan mati tanpa sengaja (crash). Akan tetapi pelapor kerusakan gagal mengirimkan laporan tentang kerusakan ini.
+crashreporter-error-details-header = Rincian:
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Detail: { $details }
 crashreporter-no-run-message = Aplikasi ini akan berjalan setelah terjadi kerusakan untuk dikirimkan ke vendor aplikasi. Aplikasi ini tidak bisa berjalan langsung.
@@ -16,6 +17,9 @@ crashreporter-loading-details = Memuat…
 crashreporter-view-report-title = Isi Laporan
 crashreporter-comment-prompt = Tambahkan komentar (ditampilkan secara publik)
 crashreporter-report-info = Laporan ini juga mengandung informasi teknis tentang status aplikasi ketika terjadi kerusakan.
+crashreporter-checkbox-test-hardware = Periksa masalah perangkat keras dan konfigurasi pada perangkat saya.
+crashreporter-checkbox-send-report = Laporkan kepada { -vendor-short-name } tentang kerusakan ini supaya dapat diperbaiki
+crashreporter-checkbox-include-url = Sertakan alamat laman web yang terakhir dibuka
 crashreporter-send-report = Laporkan kepada { -vendor-short-name } tentang kerusakan ini supaya dapat diperbaiki
 crashreporter-include-url = Sertakan alamat laman web yang terakhir dibuka
 crashreporter-submit-status = Laporan kerusakan Anda akan dikirim sebelum Anda keluar atau memulai ulang.

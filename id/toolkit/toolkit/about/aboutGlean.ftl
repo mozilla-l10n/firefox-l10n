@@ -95,6 +95,19 @@ about-glean-adhoc-explanation =
     dengan membuka konsol devtools di sini di <code>about:glean</code>
     dan menggunakan API <code>testGetValue()</code> seperti
     <code>Glean.metricCategory.metricName.testGetValue()</code>.
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation2 =
+    Untuk pengujian <i>ad hoc</i> lainnya,
+    Anda juga dapat menentukan nilai saat ini dari instrumen tertentu
+    dengan membuka konsol devtools di <code>about:glean</code>
+    dan menggunakan <code>testGetValue()</code> API seperti
+    <code>Glean.metricCategory.metricName.testGetValue()</code>
+    untuk metrik bernama <code>metric.category.metric_name</code>.
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-note =
+    Harap dicatat bahwa Anda menggunakan Glean JS API dengan menggunakan konsol devtools.
+    Ini berarti kategori metrik dan nama metrik diformat dalam
+    <code>camelCase</code> tidak seperti di Rust dan C++ API.
 controls-button-label-verbose = Terapkan pengaturan dan kirimkan ping
 about-glean-feedback-settings-only =
     .message = Setelan diterapkan!

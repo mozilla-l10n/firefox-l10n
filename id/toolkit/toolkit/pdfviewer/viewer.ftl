@@ -320,6 +320,8 @@ pdfjs-editor-highlight-editor =
 # “Drawing” is a noun, the string is used on the editor for drawings.
 pdfjs-editor-ink-editor =
     .aria-label = Editor gambar
+pdfjs-editor-signature-editor =
+    .aria-label = Editor tanda tangan
 pdfjs-editor-stamp-editor =
     .aria-label = Editor gambar
 
@@ -531,15 +533,36 @@ pdfjs-editor-undo-bar-close-button-label = Tutup
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-title = Tambahkan tanda tangan
 
 ## Tab names
 
+# Type is a verb (you can type your name as signature)
+pdfjs-editor-add-signature-type-button = Tipe
+    .title = Tipe
+# Draw is a verb (you can draw your signature)
+pdfjs-editor-add-signature-draw-button = Gambarkan
+    .title = Gambarkan
+pdfjs-editor-add-signature-image-button = Gambar
+    .title = Gambar
 
 ## Tab panels
 
+pdfjs-editor-add-signature-type-input =
+    .aria-label = Ketik tanda tangan Anda
+    .placeholder = Ketik tanda tangan Anda
+pdfjs-editor-add-signature-draw-placeholder = Buat tanda tangan Anda
+pdfjs-editor-add-signature-draw-thickness-range-label = Ketebalan
+# Variables:
+#   $thickness (Number) - the thickness (in pixels) of the line used to draw a signature.
+pdfjs-editor-add-signature-draw-thickness-range =
+    .title = Ketebalan gambar: { $thickness }
+pdfjs-editor-add-signature-image-placeholder = Seret berkas ke sini untuk mengunggah
 
 ## Controls
 
+pdfjs-editor-add-signature-description-default-when-drawing = Tanda tangan
+pdfjs-editor-add-signature-clear-button-label = Hapus tanda tangan
 
 ## Dialog buttons
 
