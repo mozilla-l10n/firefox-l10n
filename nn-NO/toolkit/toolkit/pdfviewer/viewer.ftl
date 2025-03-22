@@ -322,6 +322,10 @@ pdfjs-editor-signature-button-label = Legg til signatur
 
 ## Default editor aria labels
 
+pdfjs-editor-signature-editor =
+    .aria-label = Signatur-redigerar
+pdfjs-editor-stamp-editor =
+    .aria-label = Bildredigerar
 
 ## Remove button for the various kind of editor.
 
@@ -354,6 +358,11 @@ pdfjs-editor-free-highlight-thickness-title =
 pdfjs-editor-signature-add-signature-button =
     .title = Legg til ny signatur
 pdfjs-editor-signature-add-signature-button-label = Legg til ny signatur
+# Used on the button to use an already saved signature.
+# Variables:
+#   $description (String) - a string describing/labeling the signature.
+pdfjs-editor-add-saved-signature-button =
+    .title = Lagra signatur: { $description }
 # .default-content is used as a placeholder in an empty text editor.
 pdfjs-free-text2 =
     .aria-label = Tekstredigering
@@ -507,10 +516,18 @@ pdfjs-editor-alt-text-settings-close-button = Lat att
 
 ## "Annotations removed" bar
 
+pdfjs-editor-undo-bar-message-highlight = Markering fjerna
 pdfjs-editor-undo-bar-message-freetext = Tekst fjerna
 pdfjs-editor-undo-bar-message-ink = Teikning fjerna
 pdfjs-editor-undo-bar-message-stamp = Bilde fjerna
 pdfjs-editor-undo-bar-message-signature = Signatur fjerna
+# Variables:
+#   $count (Number) - the number of removed annotations.
+pdfjs-editor-undo-bar-message-multiple =
+    { $count ->
+        [one] { $count } kommentar fjerna
+       *[other] { $count } kommentarar fjerna
+    }
 pdfjs-editor-undo-bar-undo-button =
     .title = Angre
 pdfjs-editor-undo-bar-undo-button-label = Angre

@@ -58,6 +58,10 @@ contentanalysis-error-message-upload-file = Opplasting av «{ $filename }» vart
 contentanalysis-error-message-dropped-text = Drag og slepp nekta.
 contentanalysis-error-message-clipboard = Lim inn nekta.
 contentanalysis-error-message-print = Utskrift nekta.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
+contentanalysis-timeout-block-error-message-content = Tilkoplinga til { $agent } vart tidsavbroten. { $contentName } er blokkert.
 contentanalysis-block-dialog-title-upload-file = Du har ikkje løyve til å laste opp denne fila
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
