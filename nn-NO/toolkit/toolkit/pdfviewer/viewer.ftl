@@ -322,6 +322,9 @@ pdfjs-editor-signature-button-label = Legg til signatur
 
 ## Default editor aria labels
 
+# “Highlight” is a noun, the string is used on the editor for highlights.
+pdfjs-editor-highlight-editor =
+    .aria-label = Markeringsredigerar
 pdfjs-editor-signature-editor =
     .aria-label = Signatur-redigerar
 pdfjs-editor-stamp-editor =
@@ -355,6 +358,8 @@ pdfjs-editor-stamp-add-image-button-label = Legg til bilde
 pdfjs-editor-free-highlight-thickness-input = Tjukn
 pdfjs-editor-free-highlight-thickness-title =
     .title = Endre tjukn når du markerer andre element enn tekst
+pdfjs-editor-add-signature-container =
+    .aria-label = Signaturkontroll og lagra signaturar
 pdfjs-editor-signature-add-signature-button =
     .title = Legg til ny signatur
 pdfjs-editor-signature-add-signature-button-label = Legg til ny signatur
