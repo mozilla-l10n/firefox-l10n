@@ -38,6 +38,11 @@ options-collapse-attrs-tooltip =
 options-inspector-draggable-properties-label = Klik dan seret untuk mengedit nilai ukuran
 options-inspector-draggable-properties-tooltip =
     .title = Klik dan seret untuk mengedit nilai ukuran dalam tampilan rule inspektur.
+# The label for the checkbox option to enable simplified highlighting on page elements
+# within the inspector for users who enabled prefers-reduced-motion = reduce
+options-inspector-simplified-highlighters-label = Gunakan sorotan lebih sederhana dengan prefers-reduced-motion
+options-inspector-simplified-highlighters-tooltip =
+    .title = Mengaktifkan sorotan sederhana saat prefers-reduced-motion aktif. Menggunakan garis, bukan blok warna, untuk menghindari efek berkedip.
 # The label for the checkbox option to make the Enter key move the focus to the next input
 # when editing a property name or value in the Inspector rules view
 options-inspector-rules-focus-next-on-enter-label = Fokuskan ke masukan berikutnya pada <kbd>Enter</kbd>

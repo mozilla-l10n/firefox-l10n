@@ -295,6 +295,7 @@ about-webrtc-sdp-set-timestamp = Stempel waktu { NUMBER($timestamp, useGrouping:
 ## The Media Context is the set of preferences and detected capabilities that informs
 ## the negotiated CODEC settings.
 
+about-webrtc-media-context-heading = Konteks Media
 
 ##
 

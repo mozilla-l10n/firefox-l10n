@@ -6,6 +6,7 @@ contentanalysis-alert-title = Analisis Konten
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-notification = Alat Analisis Konten membutuhkan waktu lama untuk merespons sumber daya “{ $content }”
+contentanalysis-slow-agent-dialog-header = Pemindaian sedang berlangsung
 contentanalysis-operationtype-clipboard = papan klip
 contentanalysis-operationtype-dropped-text = teks yang diletakkan
 contentanalysis-warndialogtitle = Konten ini mungkin tidak aman
