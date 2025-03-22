@@ -62,6 +62,7 @@ firefox-relay-offer-legal-notice-control = Dengan mendaftar dan membuat topeng s
 ## The "basic-info" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-basic-info = Cegah spam dengan topeng surel gratis
+firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = Cegah spam dengan menyembunyikan alamat surel asli Anda dengan <label data-l10n-name="firefox-relay-learn-more-url">topeng surel</label> gratis. Surel dari <label data-l10n-name="firefox-fxa-and-relay-offer-domain">situs ini</label> akan tetap masuk ke kotak masuk Anda, tetapi surel Anda disembunyikan.
 firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = Pertama, daftar atau masuk ke akun Anda untuk menggunakan topeng surel
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = Daftar
@@ -79,6 +80,8 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Lindungi diri dari spam menggunakan topeng surel.
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Cegah spam dengan menyembunyikan alamat asli Anda menggunakan <label data-l10n-name='firefox-relay-learn-more-url'>topeng surel</label>. Anda tetap akan menerima email dari <label data-l10n-name='firefox-fxa-and-relay-offer-domain'>situs ini</label> di kotak masuk biasa, dengan alamat yang disamarkan.
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Pertama, daftar atau masuk ke akun Anda untuk menggunakan topeng surel
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Selanjutnya
     .accesskey = n

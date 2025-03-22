@@ -35,6 +35,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = Jelaskan ini
     .value = Jelaskan konsep penting dalam pilihan menggunakan bahasa sederhana. Gunakan contoh jika sesuai.
+# Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
+genai-prompts-proofread =
+    .label = Koreksi
+    .value = Harap periksa teks yang dipilih untuk kesalahan ejaan dan tata bahasa. Identifikasi kesalahan yang ada, lalu berikan versi yang telah diperbaiki. Pertahankan makna dan keakuratan faktual. Tampilkan daftar koreksi terlebih dahulu, diikuti dengan versi teks yang telah diperbaiki.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text

@@ -383,6 +383,7 @@ newtab-wallpaper-starry-canyon = Malam biru berbintang
 newtab-wallpaper-suspension-bridge = Fotografi jembatan full-suspension abu-abu di siang hari
 newtab-wallpaper-sand-dunes = Bukit pasir putih
 newtab-wallpaper-palm-trees = Siluet pohon kelapa saat golden hour
+newtab-wallpaper-blue-flowers = Foto jarak dekat bunga berkelopak biru yang sedang mekar
 newtab-wallpaper-forest-trees = Pepohonan tertutup kabut
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
