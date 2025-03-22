@@ -104,12 +104,20 @@ about-glean-adhoc-note =
     Merk at når du brukar konsollen i utviklerverktøy, brukar du Glean JS API-et.
     Dette betyr at analyseresultatkategoriar og namn vert formaterte
     med <code>camelCase</code> i motsetning til i Rust- og i C++-API-ane.
+about-glean-profiler-explanation-profiler =
+    I resultatprofilen kan du sjå alle innsamla berekningar, når dei var
+    samla inn, og nøyaktig kva verdiar som vart samla inn. Ved å halde musepeikaren på individuelle markørar,
+    du kan stadfeste at den rette verdien vart samla inn og at innsamlinga skjedde til rett tid.
 controls-button-label-verbose = Bruk innstillingar og send inn ping
 about-glean-feedback-settings-only =
     .message = Endringar lagt til!
 about-glean-feedback-settings-and-ping =
     .message = Endringar lagt til og ping sendt!
 about-glean-about-data-header = Om data
+about-glean-about-data-description =
+    Det er nokre ulike verktøy du kan bruke for å sjå dataa dine, avhengig av
+    det du leitar etter.
+about-glean-about-data-description-list-intro = Sjå lista nedanfor for spesifikke brukstilfelle for kvart verktøy:
 about-glean-about-data-explanation =
     For å sjå gjennom lista over innsamla data, sjå
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-ordbok</a>.
