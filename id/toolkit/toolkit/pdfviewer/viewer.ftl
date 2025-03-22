@@ -563,6 +563,9 @@ pdfjs-editor-add-signature-image-placeholder = Seret berkas ke sini untuk mengun
 
 pdfjs-editor-add-signature-description-default-when-drawing = Tanda tangan
 pdfjs-editor-add-signature-clear-button-label = Hapus tanda tangan
+pdfjs-editor-add-signature-clear-button =
+    .title = Hapus tanda tangan
+pdfjs-editor-add-signature-save-checkbox = Simpan tanda tangan
 
 ## Dialog buttons
 
