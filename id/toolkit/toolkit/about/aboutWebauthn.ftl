@@ -60,6 +60,8 @@ about-webauthn-current-set-pin-button = Setel PIN
 about-webauthn-current-change-pin-button = Ubah PIN
 # List is a verb, as in "Show list of credentials"
 about-webauthn-list-credentials-button = Buat daftar kredensial
+# List is a verb, as in "Show list of all enrollments"
+about-webauthn-list-bio-enrollments-button = Tampilkan semua pendaftaran
 about-webauthn-add-bio-enrollment-button = Tambahkan pendaftaran
 about-webauthn-cancel-button = Batal
 about-webauthn-send-pin-button = Oke
@@ -115,6 +117,7 @@ about-webauthn-auth-info-min-pin-length = Panjang PIN minimum
 about-webauthn-auth-info-force-pin-change = Paksa perubahan PIN
 about-webauthn-auth-info-max-ser-large-blob-array = Ukuran maksimum blob array besar
 about-webauthn-auth-info-algorithms = Algoritma
+about-webauthn-auth-info-transports = Transportasi
 about-webauthn-auth-info-max-credential-id-length = Panjang ID kredensial maksimum
 about-webauthn-auth-info-max-credential-count-in-list = Jumlah kredensial maksimum dalam daftar
 about-webauthn-auth-info-pin-protocols = Protokol PIN
@@ -161,3 +164,4 @@ about-webauthn-ctap2-enroll-feedback-merge-failure = Gagal menggabungkan sampel.
 about-webauthn-ctap2-enroll-feedback-exists = Sampel sudah ada.
 about-webauthn-ctap2-enroll-feedback-no-user-activity = Tidak ada aktivitas dari pengguna.
 about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = Pengguna tidak menyelesaikan pengambilan sampel seperti yang diharapkan.
+about-webauthn-ctap2-enroll-feedback-other = Contoh kesalahan.

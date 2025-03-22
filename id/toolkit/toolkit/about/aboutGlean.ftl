@@ -96,7 +96,15 @@ about-glean-adhoc-explanation =
     dan menggunakan API <code>testGetValue()</code> seperti
     <code>Glean.metricCategory.metricName.testGetValue()</code>.
 controls-button-label-verbose = Terapkan pengaturan dan kirimkan ping
+about-glean-feedback-settings-only =
+    .message = Setelan diterapkan!
+about-glean-feedback-settings-and-ping =
+    .message = Pengaturan diterapkan dan ping dikirim!
 about-glean-about-data-header = Tentang Data
+about-glean-about-data-description = Tersedia beberapa alat berbeda yang dapat Anda gunakan untuk melihat data, tergantung pada apa yang Anda cari.
+about-glean-about-data-description-list-intro =
+    Silakan lihat daftar di bawah ini untuk kasus penggunaan
+    spesifik untuk setiap alat:
 about-glean-about-data-explanation =
     Untuk menelusuri daftar data yang dikumpulkan, silakan berkonsultasi dengan
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Kamus</a>.

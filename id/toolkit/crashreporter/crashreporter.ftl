@@ -19,6 +19,7 @@ crashreporter-report-info = Laporan ini juga mengandung informasi teknis tentang
 crashreporter-send-report = Laporkan kepada { -vendor-short-name } tentang kerusakan ini supaya dapat diperbaiki
 crashreporter-include-url = Sertakan alamat laman web yang terakhir dibuka
 crashreporter-submit-status = Laporan kerusakan Anda akan dikirim sebelum Anda keluar atau memulai ulang.
+crashreporter-submit-waiting-hardware-tests = Memeriksa masalah perangkat keras dan konfigurasi…
 crashreporter-submit-in-progress = Mengirim laporan Anda…
 crashreporter-submit-success = Laporan sukses dikirim!
 crashreporter-submit-failure = Terjadi kesalahan saat mengirim laporan Anda.

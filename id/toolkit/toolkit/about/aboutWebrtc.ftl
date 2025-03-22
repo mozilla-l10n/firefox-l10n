@@ -14,6 +14,7 @@ about-webrtc-save-page-dialog-title = simpan about:webrtc dengan nama
 
 ## These labels are for a disclosure which contains the information for closed PeerConnection sections
 
+about-webrtc-closed-peerconnection-disclosure-show-msg = Tampilkan PeerConnections Tertutup
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
@@ -290,11 +291,15 @@ about-webrtc-sdp-set-timestamp = Stempel waktu { NUMBER($timestamp, useGrouping:
 
 ## These are displayed on the button that shows or hides the SDP information disclosure
 
+about-webrtc-show-msg-sdp = Tampilkan SDP
+about-webrtc-hide-msg-sdp = Sembunyikan SDP
 
 ## These are displayed on the button that shows or hides the Media Context information disclosure.
 ## The Media Context is the set of preferences and detected capabilities that informs
 ## the negotiated CODEC settings.
 
+about-webrtc-media-context-show-msg = Tampilkan Konteks Media
+about-webrtc-media-context-hide-msg = Sembunyikan Konteks Media
 about-webrtc-media-context-heading = Konteks Media
 
 ##
