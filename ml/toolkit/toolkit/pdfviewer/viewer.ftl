@@ -147,7 +147,7 @@ pdfjs-document-properties-close-button = അടയ്ക്കുക
 
 ## Print
 
-pdfjs-print-progress-message = അച്ചടിപ്പിനു് പ്രമാണം തയ്യാറാക്കുന്നു...
+pdfjs-print-progress-message = അച്ചടിപ്പിനു് പ്രമാണം ഒരുക്കുന്നു...
 # Variables:
 #   $progress (Number) - percent value
 pdfjs-print-progress-percent = { $progress }%
