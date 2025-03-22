@@ -320,6 +320,8 @@ pdfjs-editor-highlight-editor =
 # “Drawing” is a noun, the string is used on the editor for drawings.
 pdfjs-editor-ink-editor =
     .aria-label = Editor gambar
+pdfjs-editor-stamp-editor =
+    .aria-label = Editor gambar
 
 ## Remove button for the various kind of editor.
 
@@ -349,6 +351,16 @@ pdfjs-editor-stamp-add-image-button-label = Tambahkan gambar
 pdfjs-editor-free-highlight-thickness-input = Ketebalan
 pdfjs-editor-free-highlight-thickness-title =
     .title = Ubah ketebalan saat menyorot item selain teks
+pdfjs-editor-add-signature-container =
+    .aria-label = Kontrol tanda tangan dan tanda tangan tersimpan
+pdfjs-editor-signature-add-signature-button =
+    .title = Tambahkan tanda tangan baru
+pdfjs-editor-signature-add-signature-button-label = Tambahkan tanda tangan baru
+# Used on the button to use an already saved signature.
+# Variables:
+#   $description (String) - a string describing/labeling the signature.
+pdfjs-editor-add-saved-signature-button =
+    .title = Tanda tangan tersimpan: { $description }
 # .default-content is used as a placeholder in an empty text editor.
 pdfjs-free-text2 =
     .aria-label = Editor Teks
@@ -506,6 +518,7 @@ pdfjs-editor-undo-bar-message-highlight = Sorotan dihapus
 pdfjs-editor-undo-bar-message-freetext = Teks dihapus
 pdfjs-editor-undo-bar-message-ink = Gambar dihapus
 pdfjs-editor-undo-bar-message-stamp = Gambar dihapus
+pdfjs-editor-undo-bar-message-signature = Tanda tangan dihapus
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple = { $count } anotasi dihapus
