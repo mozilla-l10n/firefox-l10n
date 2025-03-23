@@ -11,6 +11,7 @@ experimental-features-css-masonry-description = Mengaktifkan dukungan untuk fitu
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = API Web: WebGPU
+experimental-features-web-gpu-description3 = <a data-l10n-name='wikipedia-webgpu'>WebGPU API</a> mendukung komputasi dan rendering grafis tingkat rendah dengan <a data-l10n-name='wikipedia-gpu'>Graphics Processing Unit (GPU)</a> pada perangkat atau komputer pengguna. Versi pertama <a data-l10n-name='spec'>spesifikasi</a> hampir final. Lihat <a data-l10n-name='bugzilla'>bug 1616739</a> untuk detail lebih lanjut.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
