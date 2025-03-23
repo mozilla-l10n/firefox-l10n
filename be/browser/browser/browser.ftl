@@ -190,6 +190,12 @@ urlbar-result-menu-tip-get-help =
 urlbar-result-menu-dismiss-suggestion =
     .label = Адхіліць гэтую прапанову
     .accesskey = в
+urlbar-result-menu-learn-more-about-firefox-suggest =
+    .label = Даведайцеся больш пра { -firefox-suggest-brand-name }
+    .accesskey = Д
+urlbar-result-menu-manage-firefox-suggest =
+    .label = Кіраваць { -firefox-suggest-brand-name }
+    .accesskey = ц
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -689,6 +695,17 @@ urlbar-result-action-undefined-calculator-result = нявызначаны
 #  $result (String): the string representation for a result in scientific notation
 #  (e.g. "1.0e17").
 urlbar-result-action-calculator-result-scientific-notation = = { $result }
+# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
+# The last = sign will be shown as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "false", maximumFractionDigits: 8) }
+# Shows the result of a formula expression being calculated, to a maximum of 9 significant
+# digits. This is used for numbers < 1.
+# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 
 ## Strings used for buttons in the urlbar
 
@@ -968,6 +985,9 @@ panel-save-update-password = Пароль
 # "More" item in macOS share menu
 menu-share-more =
     .label = Больш…
+menu-share-copy-link =
+    .label = Капіяваць спасылку
+    .accesskey = л
 ui-tour-info-panel-close =
     .tooltiptext = Закрыць
 

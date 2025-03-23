@@ -126,6 +126,8 @@ newtab-menu-section-unfollow = Адпісацца ад тэмы
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
+newtab-menu-manage-sponsored-content = Кіраваць спонсарскім змесцівам
+newtab-menu-our-sponsors-and-your-privacy = Нашы спонсары і ваша прыватнасць
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -387,6 +389,7 @@ newtab-wallpaper-starry-canyon = Сіняя зорная ноч
 newtab-wallpaper-suspension-bridge = Фатаграфія шэрага поўнападвеснага моста ў дзённы час
 newtab-wallpaper-sand-dunes = Белыя пясчаныя выдмы
 newtab-wallpaper-palm-trees = Сілуэт какосавых пальмаў у залаты час
+newtab-wallpaper-blue-flowers = Фатаграфія буйным планам кветак з блакітнымі пялёсткамі
 newtab-wallpaper-forest-trees = Дрэвы, пакрытыя туманам
 # Variables
 #   $author_string (String) - The name of the creator of the photo.

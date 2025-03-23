@@ -60,6 +60,9 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Разгарнуць бакавую панэль пры навядзенні
+expand-on-hover-message =
+    .heading = Хутка з'явіцца разгортванне пры навядзенні
+    .message = У будучых абнаўленнях, вы зможаце разгортваць бакавую панэль па навядзенні
 
 ## Labels for sidebar context menu items
 
