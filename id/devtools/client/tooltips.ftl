@@ -51,6 +51,7 @@ inactive-css-no-size-containment = <strong>{ $property }</strong> tidak berpenga
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> tidak berpengaruh pada elemen tabel internal.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> tidak berpengaruh pada elemen tabel internal kecuali sel tabel.
 inactive-css-not-table = <strong>{ $property }</strong> tidak berpengaruh pada elemen ini karena bukan tabel.
+inactive-css-collapsed-table-borders = <strong>{ $property }</strong> tidak berpengaruh karena elemen ini adalah tabel dengan batas yang dilipat.
 inactive-css-not-table-cell = <strong>{ $property }</strong> tidak berpengaruh pada elemen ini karena bukan sel tabel.
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> tidak berpengaruh pada elemen ini tidak menggulir.
 inactive-css-border-image = <strong>{ $property }</strong> tidak berdampak pada elemen ini karena tidak dapat diterapkan pada elemen tabel internal di mana <strong>border-collapse</strong> disetel menjadi <strong>collapse</strong> pada elemen tabel induk.
@@ -66,7 +67,11 @@ inactive-css-ruby-element = <strong>{ $property }</strong> tidak berpengaruh pad
 ##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
+inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> tidak didukung pada pseudo-elemen highlight.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> tidak didukung pada pseudo-elemen ::cue.
+# Variables:
+#   $lineCount (integer) - The number of lines the element has.
+inactive-css-text-wrap-balance-lines-exceeded = <strong>{ $property }</strong> tidak berpengaruh pada elemen ini karena memiliki lebih dari { $lineCount } baris.
 inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> tidak berpengaruh pada elemen ini karena terfragmentasi, yaitu isinya dibagi menjadi beberapa kolom atau laman.
 inactive-css-no-width-height = <strong>{ $property }</strong> tidak berpengaruh pada elemen ini karena lebar dan tingginya tidak dapat diatur.
 
