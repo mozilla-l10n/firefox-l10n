@@ -37,3 +37,6 @@ webext-perms-description-webNavigation = Tarkkaile selaimen toimintaa siirryttä
 ## The userScripts permission includes an additional explanation that is
 ## displayed prominently near the usual permission description.
 
+webext-perms-extra-warning-userScripts-long = Vahvistamattomat komentosarjat voivat aiheuttaa turvallisuus- ja tietosuojariskejä, kuten haitallisen koodin suorittamisen tai verkkosivuston toiminnan seuraamisen. Suorita komentosarjoja vain laajennuksista tai lähteistä, joihin luotat.
+# A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
+webext-perms-extra-warning-userScripts-short = Vahvistamattomat komentosarjat voivat aiheuttaa turvallisuus- ja tietosuojariskejä. Suorita komentosarjoja vain laajennuksista tai lähteistä, joihin luotat.

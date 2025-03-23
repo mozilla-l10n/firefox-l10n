@@ -28,6 +28,8 @@ experimental-features-group-customize-browsing =
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Hasła na panelu bocznym
+experimental-features-contextual-password-manager-description = Umożliwia dostęp do haseł prostu z panelu bocznego. Koniec z szukaniem i przywracaniem haseł podczas próby logowania. Aby skorzystać z tej funkcji, zaznacz „Hasła na panelu bocznym”. Następnie przejdź do ogólnych ustawień i w sekcji „Układ przeglądarki” zaznacz opcję „Panel boczny”. Następnie dostosuj panel boczny, klikając „Hasła”. Jeśli wypróbujesz tę funkcję, <a data-l10n-name="connect">daj nam znać, co o niej myślisz</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
-    .label = Wybierz inną tapetę lub kolor dla nowej karty
+    .label = Wybór innej tapety lub koloru dla nowej karty
+experimental-features-custom-wallpaper-description = Umożliwia ustawienie własnej tapety lub wybranie niestandardowego koloru tła nowej karty.

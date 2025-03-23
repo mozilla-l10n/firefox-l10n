@@ -18,6 +18,9 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = Zamknij wszystkie podwójne karty
 all-tabs-menu-synced-tabs =
     .label = Karty z innych urządzeń
+# "Recent" refers to tab groups being sorted in recently used order. We show up
+# to five of these in this section.
+all-tabs-menu-recent-tab-groups-header = Ostatnie grupy kart
 all-tabs-menu-current-window-header = Bieżące okno
 # This opens the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-show-all =
