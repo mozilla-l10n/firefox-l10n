@@ -81,7 +81,10 @@ inactive-css-no-width-height = <strong>{ $property }</strong> tidak berpengaruh 
 ## not be translated.
 
 inactive-css-not-grid-or-flex-container-fix = Coba tambahkan <strong>display:grid</strong> atau <strong>display:flex</strong>. { learn-more }
+inactive-css-not-grid-or-flex-or-block-container-fix = Coba tambahkan <strong>display:grid</strong>, <strong>display:flex</strong>, atau <strong>display:block</strong>. { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Coba tambahkan baik <strong>display:grid</strong>, <strong>display:flex</strong>, maupun <strong>columns:2</strong>. { learn-more }
+inactive-css-not-multicol-container-fix = Coba tambahkan <strong>jumlah kolom</strong> atau <strong>lebar kolom</strong>. { learn-more }
+inactive-css-column-span-fix = Coba tambahkan <strong>column-count</strong> atau <strong>column-width</strong> ke salah satu elemen pendahulunya. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Coba tambahkan <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, atau <strong>display:inline-flex</strong> ke induk elemen. { learn-more }
 inactive-css-not-grid-item-fix-2 = Coba tambahkan <strong>display:grid</strong> atau <strong>display:inline-grid</strong> pada induk elemen. { learn-more }
 inactive-css-not-grid-container-fix = Coba tambahkan <strong>display:grid</strong> atau <strong>display:inline-grid</strong>. { learn-more }
@@ -91,8 +94,13 @@ inactive-css-not-inline-or-tablecell-fix = Coba tambahkan baik <strong>display:i
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Coba tambahkan baik <strong>display:inline-block</strong> maupun <strong>display:block</strong>. { learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Coba tambahkan <strong>display:inline-block</strong>. { learn-more }
 inactive-css-not-display-block-on-floated-fix = Coba hapus <strong>float</strong> atau menambahkan <strong>display:block</strong>. { learn-more }
+inactive-css-only-non-grid-or-flex-item-fix = Coba ubah nilai <strong>display</strong> pada kontainer elemen ke selain <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong>, atau <strong>inline-grid</strong>, atau hapus <strong>float</strong>. { learn-more }
+inactive-css-not-block-fix = Coba tambahkan properti seperti <strong>display:block</strong> atau <strong>float:left</strong>. { learn-more }
+inactive-css-not-floated-fix = Coba tambahkan properti <strong>float</strong> dengan nilai selain <strong>none</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Coba atur properti <strong>position</strong> menjadi selain <strong>static</strong>. { learn-more }
+inactive-css-only-replaced-elements-fix = Pastikan Anda menambahkan properti ke elemen tergantikan. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Coba tambahkan <strong>overflow:hidden</strong>. { learn-more }
+inactive-css-no-size-containment-fix = Coba atur properti <strong>display</strong>-nya ke selain <strong>none</strong>, <strong>contents</strong>, <strong>table</strong>, atau <strong>inline-table</strong>, dan pastikan elemen tersebut tidak berada dalam tabel atau segmen ruby. { learn-more }
 inactive-css-not-for-internal-table-elements-fix = Cobalah menyetel properti <strong>display</strong>-nya ke nilai lain selain <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, atau <strong>tabel-footer-group</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Cobalah menyetel properti <strong>display</strong>-nya ke nilai lain selain <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, atau <strong>tabel-footer-group</strong>. { learn-more }
 inactive-css-not-table-fix = Coba tambahkan <strong>display:table</strong> atau <strong>display:inline-table</strong>. { learn-more }
