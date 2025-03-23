@@ -20,6 +20,7 @@ addon-post-install-message = { $addonName }-നെ ചേൎത്തു
 
 ## A modal confirmation dialog to allow an extension on quarantined domains.
 
+webext-quarantine-confirmation-line-1 = താങ്ങളുടെ ഡാറ്റ സംരക്ഷിക്കുകാൻ ഈ വെബിടത്തിൽ ഈ വിപുലീകരണം വിലക്കപ്പെട്ടിരിക്കുന്നു.
 webext-quarantine-confirmation-allow =
     .label = അനുവദിക്കുക
     .accesskey = അ

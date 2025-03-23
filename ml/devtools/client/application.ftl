@@ -15,6 +15,8 @@
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
 
+# Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
+serviceworker-empty-intro-link = കൂടുതല്‍ അറിയുക
 # Header for the Icon section of Manifest inspection displayed in the application panel.
 manifest-item-icons = അടയാളങ്ങൾ
 # Text displayed as the alt attribute for <img> tags showing the icons in the

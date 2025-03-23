@@ -696,6 +696,7 @@ forms-master-pw-change =
     .label = പ്രധാന രഹസ്യവാക്കു് മാറ്റുക…
     .accesskey = M
 forms-master-pw-fips-desc = രഹസ്യവാക്കുമാറ്റം പരാജയപ്പെട്ടിരിക്കുന്നു
+forms-windows-sso-learn-more-link = കൂടുതലറിയുക
 
 ## OS Authentication dialog
 
@@ -771,6 +772,9 @@ forms-handle-cookie-banners =
 
 addressbar-header = വിലാസപ്പട്ട
 addressbar-suggest = വിലാസപ്പട്ട ഉപയോഗിക്കുമ്പോഴു് നിൎദ്ദേശിക്കുക
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = കൂടുതലറിയുക
 addressbar-locbar-history-option =
     .label = തിരച്ചിൽ നാള്‍വഴി
     .accesskey = H
@@ -821,6 +825,7 @@ content-blocking-known-and-suspected-fingerprinters = അറിയപ്പെ�
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
+content-blocking-etp-standard-tcp-rollout-learn-more = കൂടുതലറിയുക
 content-blocking-cookies-label =
     .label = കുക്കികള്‍
     .accesskey = C
