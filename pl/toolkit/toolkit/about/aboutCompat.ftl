@@ -11,6 +11,7 @@ label-more-information = Więcej informacji: zgłoszenie { $bug }
 label-overrides = Zastąpienia identyfikatora programu
 text-disabled-in-about-config = Ta funkcja została wyłączona za pomocą about:config
 text-no-interventions = Żadne interwencje nie są stosowane
+text-page-title = Zgodność w Internecie
 text-no-overrides = Żadne zastąpienia identyfikatora programu nie są stosowane
 text-title = about:compat
 

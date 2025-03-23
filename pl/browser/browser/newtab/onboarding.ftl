@@ -439,6 +439,11 @@ onboarding-checklist-sign-up = Zaloguj się lub utwórz konto
 
 tab-groups-onboarding-feature-callout-title = Wypróbuj grupy kart, aby zmniejszyć bałagan i zwiększyć koncentrację
 tab-groups-onboarding-feature-callout-subtitle = Wprowadź porządek, przeciągając jedną kartę na drugą, aby utworzyć pierwszą grupę.
+tab-groups-onboarding-create-group-title-2 = Tutaj możesz w każdej chwili znaleźć swoje grupy kart.
+tab-groups-onboarding-create-group-no-alltabs-button-title = Znajdź swoje grupy, wyszukując je na pasku adresu.
+tab-groups-onboarding-saved-groups-title-2 = Kiedy zamkniesz grupę kart, tutaj możesz ją w każdej chwili przywrócić.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Znajdź zamknięte grupy, wyszukując je na pasku adresu.
+tab-groups-onboarding-session-restore-title = Tutaj możesz w każdej chwili przywrócić swoje grupy kart.
 tab-groups-onboarding-saved-groups-title = Jeśli zamkniesz grupę kart, tutaj możesz ją w każdej chwili przywrócić.
 tab-groups-onboarding-dismiss = OK
 

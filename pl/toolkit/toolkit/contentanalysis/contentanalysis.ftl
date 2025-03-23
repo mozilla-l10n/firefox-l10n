@@ -58,6 +58,10 @@ contentanalysis-error-message-upload-file = Odmowa przesłania pliku „{ $filen
 contentanalysis-error-message-dropped-text = Odmowa przeciągnięcia.
 contentanalysis-error-message-clipboard = Odmowa wklejenia.
 contentanalysis-error-message-print = Odmowa wydrukowania.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
+contentanalysis-timeout-block-error-message-content = Połączenie z agentem { $agent } przekroczyło czas oczekiwania. Treść „{ $contentName }” została zablokowana.
 contentanalysis-block-dialog-title-upload-file = Brak uprawnienia do przesłania tego pliku
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"

@@ -30,8 +30,7 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>Domyślna wyszukiwarka została zmieniona.</strong> Wyszukiwarka { $oldEngine } nie jest już dostępna jako domyślna wyszukiwarka w przeglądarce { -brand-short-name }. { $newEngine } jest teraz domyślną wyszukiwarką. W ustawieniach można zmienić ją na inną. <label data-l10n-name="remove-search-engine-article">Więcej informacji</label>
-removed-search-engine-message2 = <strong>Domyślna wyszukiwarka została zmieniona.</strong> Wyszukiwarka { $oldEngine } nie jest już dostępna jako domyślna wyszukiwarka w przeglądarce { -brand-short-name }. { $newEngine } jest teraz domyślną wyszukiwarką. W ustawieniach można zmienić ją na inną.
+removed-search-engine-message2 = <strong>Domyślna wyszukiwarka została zmieniona.</strong> Wyszukiwarka { $oldEngine } nie jest już dostępna jako domyślna wyszukiwarka w { -brand-short-name(case: "loc") }. { $newEngine } jest teraz domyślną wyszukiwarką. W ustawieniach można zmienić ją na inną.
 remove-search-engine-button = OK
 
 ## Infobar shown when user is prompted to install search engine.
@@ -50,8 +49,10 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = Dodaj inną wyszukiwarkę
 add-engine-name = Nazwa wyszukiwarki
+add-engine-keyword = Słowo kluczowe
 add-engine-url = Adres wyszukiwarki, wyszukiwany tekst zastąp „%s”
 add-engine-dialog =
     .buttonlabelaccept = Dodaj wyszukiwarkę
     .buttonaccesskeyaccept = D
 engine-name-exists = Wyszukiwarka o tej nazwie już istnieje
+engine-keyword-exists = Wyszukiwarka z tym słowem kluczowym już istnieje
