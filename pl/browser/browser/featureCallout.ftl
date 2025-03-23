@@ -82,12 +82,22 @@ vertical-tabs-callout-1-subtitle = Wypróbuj nasz nowy pionowy układ kart, aby 
 vertical-tabs-callout-1-cta-button = Wypróbuj pionowe karty
 vertical-tabs-callout-2-cta-button = Wypróbuj teraz
 vertical-tabs-callout-2-title = Masz dużo otwartych kart? Wypróbuj karty pionowe.
+vertical-tabs-callout-2-subtitle = Ten układ ułatwia szybkie przejrzenie listy kart. Możesz też dostosować ich szerokość, aby lepiej widzieć ich tytuły.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = Gubisz ważne karty?
+sidebar-pins-callout-subtitle = Spróbuj je przypiąć, dzięki czemu będą na górze listy kart. Kliknij wybraną kartę prawym przyciskiem myszy, a następnie wybierz „Przypnij kartę”.
+sidebar-pins-callout-cta-button = Przypnij kartę
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Panel boczny: miejsce na narzędzia i karty
+sidebar-customization-callout-1-subtitle = Panel boczny { -brand-product-name(case: "gen") } umożliwia szybki dostęp do historii przeglądania, kart z innych urządzeń i nie tylko — bez wychodzenia z głównego okna.
+sidebar-customization-callout-callout-button = Dostosuj panel boczny
+sidebar-customization-callout-dismiss-button = Ukryj panel boczny
+sidebar-customization-callout-2-title = Używaj panelu bocznego { -brand-product-name(case: "gen") } po swojemu
+sidebar-customization-callout-2-subtitle = Dodawaj i usuwaj narzędzia. Przenieś karty do panelu bocznego. Tylko od Ciebie zależy, jak dostosujesz swój panel boczny.
 
 ## Sidebar Callout Survey Strings
 
