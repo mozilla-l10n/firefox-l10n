@@ -130,3 +130,5 @@ about-reader-text-alignment-center =
     .title = Wyrównaj tekst do środka
 about-reader-text-alignment-right =
     .title = Wyrównaj tekst do prawej
+about-reader-text-alignment-justify =
+    .title = Wyjustuj tekst
