@@ -133,3 +133,5 @@ css-compatibility-learn-more-message = <span data-l10n-name="link">Pelajari lebi
 ## When this icon is hovered one or more of those messages are displayed to explain what
 ## the issue are.
 
+# :has() should not be translated
+css-selector-warning-unconstrained-has = Selektor ini menggunakan <strong>:has()</strong> tanpa batasan, yang dapat memperlambat kinerja
