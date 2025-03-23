@@ -30,4 +30,4 @@ experimental-features-contextual-password-manager =
     .label = Hasła na panelu bocznym
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
-    .label = Wybierz niestandardową tapetę lub kolor dla nowej karty
+    .label = Wybierz inną tapetę lub kolor dla nowej karty
