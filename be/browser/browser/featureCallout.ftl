@@ -93,8 +93,11 @@ sidebar-pins-callout-cta-button = Замацаваць картку
 ## Sidebar Onboarding Strings
 
 sidebar-customization-callout-1-title = Бакавая панэль: месца для прылад і картак
+sidebar-customization-callout-1-subtitle = Бакавая панэль { -brand-product-name } дае вам хуткі доступ да вашай гісторыі аглядання, картак з іншых прылад і чат-ботаў са штучным інтэлектам — і ўсё гэта, не пакідаючы галоўнага акна.
 sidebar-customization-callout-callout-button = Уладкаванне бакавой панэлі
 sidebar-customization-callout-dismiss-button = Схаваць бакавую панэль
+sidebar-customization-callout-2-title = Наладзьце бакавую панэль { -brand-product-name } на свой густ
+sidebar-customization-callout-2-subtitle = Дадавайце і выдаляйце прылады. Размясціце карткі на бакавой панэлі. Паспрабуйце чат-бота са штучным інтэлектам. Як наладзіць бакавую панэль, вырашаць вам.
 
 ## Sidebar Callout Survey Strings
 

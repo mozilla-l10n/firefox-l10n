@@ -93,8 +93,10 @@ sidebar-pins-callout-cta-button = Kiinnitä välilehti
 ## Sidebar Onboarding Strings
 
 sidebar-customization-callout-1-title = Sivupalkki: paikka työkaluille ja välilehdille
+sidebar-customization-callout-1-subtitle = { -brand-product-name }-sivupalkin avulla pääset nopeasti selaushistoriaasi, muiden laitteiden välilehtiin ja AI-chatbottiin – kaikki poistumatta päänäkymästä.
 sidebar-customization-callout-callout-button = Muokkaa sivupalkkia
 sidebar-customization-callout-dismiss-button = Piilota sivupalkki
+sidebar-customization-callout-2-title = Tee { -brand-product-name }-sivupalkista omasi
 sidebar-customization-callout-2-subtitle = Lisää ja poista työkaluja. Aseta välilehdet sivupalkkiin. Kokeile AI-chatbottia. Sivupalkin mukauttaminen on sinun päätettävissäsi.
 
 ## Sidebar Callout Survey Strings
