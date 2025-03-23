@@ -77,6 +77,11 @@ sidebar-button-callout-vertical-tabs = Aby wyświetlić karty, kliknij przycisk 
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = Przytłacza Cię zbyt wiele kart?
+vertical-tabs-callout-1-subtitle = Wypróbuj nasz nowy pionowy układ kart, aby móc szybko przejrzeć listę kart. Pierwsi testerzy tej funkcji zgłaszają nam, że pomaga im ona zwiększyć organizację. Przełączaj się w dowolnej chwili.
+vertical-tabs-callout-1-cta-button = Wypróbuj pionowe karty
+vertical-tabs-callout-2-cta-button = Wypróbuj teraz
+vertical-tabs-callout-2-title = Masz dużo otwartych kart? Wypróbuj karty pionowe.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
