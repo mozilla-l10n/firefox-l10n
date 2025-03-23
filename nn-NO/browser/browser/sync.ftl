@@ -42,7 +42,7 @@ sync-setup-verify-heading = Er du sikker på at du vil logge inn for å synkroni
 # that they will be merging the data from the previously signed in into the newly signed in one
 # Variables:
 #   $email - Email address of a user previously signed into sync.
-sync-setup-verify-description = Ein annan brukar var tidlegare innlogga for å synkronisere på denne datamaskina. Innlogging vil slå saman bokmerka til denne nettlesaren, passord og andre innstillingar med { $e-post }
+sync-setup-verify-description = Ein annan brukar var tidlegare innlogga for å synkronisere på denne datamaskina. Innlogging vil slå saman bokmerka til denne nettlesaren, passord og andre innstillingar med { $email }
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 

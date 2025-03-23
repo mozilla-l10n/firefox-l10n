@@ -110,7 +110,7 @@ about-glean-adhoc-note =
     <code>camelCase</code> tidak seperti di Rust dan C++ API.
 about-glean-profiler-explanation =
     Untuk melihat tampilan lengkap dari semua metrik yang telah direkam, gunakan { -profiler-brand-name }.
-    Pertama, Anda perlu <a data-l10n-name='firefox-profiler-link'>mengambil profil kinerja</a>.
+    Pertama, Anda perlu <a data-l10n-name="firefox-profiler-link">mengambil profil kinerja</a>.
     Setelah itu, pilih <q>Bagan Penanda</q> dan lihat penanda di bawah <q>Telemetri</q>.
 about-glean-profiler-explanation-profiler =
     Di profil kinerja, Anda dapat melihat semua metrik yang dikumpulkan, kapan 
@@ -129,7 +129,7 @@ about-glean-about-data-description-list-intro =
 about-glean-about-data-list-item-dictionary =
     Untuk menelusuri daftar data yang dikumpulkan oleh { -glean-brand-name } per aplikasi, harap lihat
     <a data-l10n-name="glean-dictionary-link">Dictionary{ -glean-brand-name }</a>.
-about-glean-about-data-list-item-about-telemetry = Untuk menjelajahi data yang dikumpulkan oleh telemetri lama, harap lihat <a data-l10n-name='about-telemetry-link'>about:telemetry</a>.
+about-glean-about-data-list-item-about-telemetry = Untuk menjelajahi data yang dikumpulkan oleh telemetri lama, harap lihat <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
 about-glean-about-data-explanation =
     Untuk menelusuri daftar data yang dikumpulkan, silakan berkonsultasi dengan
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Kamus</a>.

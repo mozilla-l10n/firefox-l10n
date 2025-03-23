@@ -278,7 +278,7 @@ preferences-web-appearance-override-warning2 =
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Upravljajte teme { -brand-short-name(sklon: "rodilnik") } na strani <a data-l10n-name="themes-link">Razširitve in teme</a>
 preferences-contrast-control-header = Nadzor kontrasta
-preferences-contrast-control-description = Spletne strani uporabljajo različne barve ospredja in ozadja. Nastavite { -brand-short-name(sklon: "tožilnik") } tako, da bo za večjo berljivost na vseh spletnih mestih uporabljal enake barve.
+preferences-contrast-control-description = Spletne strani uporabljajo različne barve ospredja in ozadja. Nastavite { -brand-short-name(sklon: "tozilnik") } tako, da bo za večjo berljivost na vseh spletnih mestih uporabljal enake barve.
 preferences-contrast-control-use-platform-settings =
     .label = Samodejno (uporabi sistemske nastavitve)
     .accesskey = a
