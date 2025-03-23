@@ -32,3 +32,4 @@ experimental-features-contextual-password-manager-description = Атрымлів
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Выберыце ўласныя шпалеры або колер для новай карткі
+experimental-features-custom-wallpaper-description = Зацягніце свае шпалеры або выберыце ўласны колер для фону сваёй новай карткі.
