@@ -8,6 +8,7 @@ profiledowngrade-window2 =
 profiledowngrade-window-create =
     .label = Buat Profil Baru
 profiledowngrade-sync = Menggunakan versi { -brand-product-name } yang lebih lama dapat merusak markah dan riwayat penjelajahan yang telah disimpan ke profil { -brand-product-name } yang ada. Untuk melindungi informasi Anda, buat profil baru untuk pemasangan { -brand-short-name } ini. Anda selalu dapat masuk dengan { -fxaccount-brand-name } untuk menyinkronkan markah dan riwayat penjelajahan di antara profil.
+profiledowngrade-sync2 = Menggunakan versi { -brand-product-name } yang lebih lama dapat merusak markah dan riwayat penjelajahan yang telah disimpan ke profil { -brand-product-name } yang ada. Untuk melindungi informasi Anda, buat profil baru untuk pemasangan { -brand-short-name } ini. Anda selalu dapat masuk dengan akun untuk menyinkronkan markah dan riwayat penjelajahan di antara profil.
 profiledowngrade-nosync = Menggunakan versi { -brand-product-name } yang lebih lama dapat merusak markah dan riwayat penjelajahan yang telah disimpan ke profil { -brand-product-name } yang ada. Untuk melindungi informasi Anda, buat profil baru untuk pemasangan { -brand-short-name } ini.
 profiledowngrade-quit =
     .label =

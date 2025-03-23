@@ -533,6 +533,7 @@ pdfjs-editor-undo-bar-close-button-label = Tutup
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-label = Modal ini memungkinkan pengguna untuk membuat tanda tangan yang dapat ditambahkan ke dokumen PDF. Pengguna dapat mengedit nama (yang juga berfungsi sebagai teks alternatif), dan jika diinginkan, menyimpan tanda tangan untuk digunakan kembali.
 pdfjs-editor-add-signature-dialog-title = Tambahkan tanda tangan
 
 ## Tab names
@@ -560,8 +561,8 @@ pdfjs-editor-add-signature-draw-thickness-range =
 pdfjs-editor-add-signature-image-placeholder = Seret berkas ke sini untuk mengunggah
 pdfjs-editor-add-signature-image-browse-link =
     { PLATFORM() ->
-        [macos] Atau jelajahi berkas gambar
-       *[other] Atau jelajahi berkas gambar
+        [macos] Atau pilih berkas gambar
+       *[other] Atau cari berkas gambar
     }
 
 ## Controls
