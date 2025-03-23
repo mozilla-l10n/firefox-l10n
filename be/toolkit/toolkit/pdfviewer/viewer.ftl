@@ -363,9 +363,16 @@ pdfjs-editor-stamp-add-image-button-label = Дадаць выяву
 pdfjs-editor-free-highlight-thickness-input = Таўшчыня
 pdfjs-editor-free-highlight-thickness-title =
     .title = Змяняць таўшчыню пры вылучэнні іншых элементаў, акрамя тэксту
+pdfjs-editor-add-signature-container =
+    .aria-label = Элементы кіравання подпісамі і захаваныя подпісы
 pdfjs-editor-signature-add-signature-button =
     .title = Дадаць новы подпіс
 pdfjs-editor-signature-add-signature-button-label = Дадаць новы подпіс
+# Used on the button to use an already saved signature.
+# Variables:
+#   $description (String) - a string describing/labeling the signature.
+pdfjs-editor-add-saved-signature-button =
+    .title = Захаваны подпіс: { $description }
 # .default-content is used as a placeholder in an empty text editor.
 pdfjs-free-text2 =
     .aria-label = Тэкставы рэдактар
@@ -599,6 +606,9 @@ pdfjs-editor-edit-signature-update-button = Абнавіць
 pdfjs-editor-delete-signature-button =
     .title = Выдаліць подпіс
 pdfjs-editor-delete-signature-button-label = Выдаліць подпіс
+pdfjs-editor-delete-signature-button1 =
+    .title = Выдаліць захаваны подпіс
+pdfjs-editor-delete-signature-button-label1 = Выдаліць захаваны подпіс
 
 ## Editor toolbar
 

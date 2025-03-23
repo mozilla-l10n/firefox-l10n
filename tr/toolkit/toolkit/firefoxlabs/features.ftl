@@ -28,6 +28,7 @@ experimental-features-group-customize-browsing =
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Kenar çubuğunda parolalar
+experimental-features-contextual-password-manager-description = Parolalarınıza doğrudan kenar çubuğundan erişin. Sitelere giriş yapmaya çalışırken parola aramaya, parolaları unutup sıfırlamaya son. Bu özelliği kullanmak için “Kenar çubuğunda parolalar”ı seçin. Ardından genel ayarlarınıza gidip “Tarayıcı düzeni” altından “Kenar çubuğunu göster”i işaretleyin. Sonra da kenar çubuğunuzu özelleştirip “Parolalar”ı seçebilirsiniz. Bu özelliği denerseniz <a data-l10n-name="connect">ne düşündüğünüzü bize bildirin</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Yeni Sekme için duvar kâğıdı veya renk seç

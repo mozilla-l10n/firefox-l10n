@@ -56,3 +56,4 @@ add-engine-dialog =
     .buttonlabelaccept = Дадаць рухавік
     .buttonaccesskeyaccept = Д
 engine-name-exists = Рухавік з такою назваю ўжо існуе.
+engine-keyword-exists = Рухавік з такім ключавым словам ужо ёсць
