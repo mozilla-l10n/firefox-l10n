@@ -81,6 +81,7 @@ vertical-tabs-callout-1-title = Se izgubljate v poplavi zavihkov?
 vertical-tabs-callout-1-subtitle = Preizkusite našo novo, preglednejšo navpično postavitev zavihkov. Zgodnji preizkuševalci poročajo, da se s takšno postavitvijo počutijo bolj organizirano. Kadarkoli si lahko premislite.
 vertical-tabs-callout-1-cta-button = Preizkusite navpične zavihke
 vertical-tabs-callout-2-cta-button = Poskusi zdaj
+vertical-tabs-callout-2-title = Imate odprtih veliko zavihkov? Poskusite z navpičnimi zavihki.
 
 ## Sidebar Vertical Tabs Pinning Strings
 

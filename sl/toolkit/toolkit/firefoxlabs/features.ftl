@@ -6,6 +6,7 @@
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
     .label = Mediji: JPEG XL
+experimental-features-media-jxl-description = Če je ta možnost omogočena, { -brand-short-name } podpira format JPEG XL (JXL). Gre za izboljšan slikovni format, ki omogoča pretvorbo iz klasičnih datotek JPEG brez izgub. Za več podrobnosti si oglejte <a data-l10n-name="bugzilla">hrošč 1539075</a>.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
@@ -13,6 +14,7 @@ experimental-features-js-warp-description = Omogoči Warp, projekt, katerega cil
 # Search during IME
 experimental-features-ime-search =
     .label = Naslovna vrstica: prikaži rezultate med sestavljanjem IME
+experimental-features-ime-search-description = IME (Urejevalnik metode vnosa) je orodje, ki omogoča vnos kompleksnih simbolov, kot so tisti iz vzhodnoazijskih ali indijskih pisav, preko standardne tipkovnice. Z omogočanjem tega poskusa bo plošča z naslovno vrstico ostala prikazana, vključno z rezultati iskanja in predlogi, medtem ko boste z IME vnašali besedilo. Upoštevajte, da lahko IME prikaže ploščo, ki prekriva rezultate v naslovni vrstici, zato je ta nastavitev priporočljiva le za IME, ki ne uporablja takšne plošče.
 # Auto Picture-in-Picture
 experimental-features-auto-pip =
     .label = Slika v sliki: samodejno odpri ob preklopu na zavihek
