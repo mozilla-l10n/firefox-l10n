@@ -193,6 +193,7 @@ urlbar-result-menu-learn-more-about-firefox-suggest =
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
+urlbar-search-tips-onboard = കുറച്ചു എഴുതുകയും കൂടുതൽ കണ്ടെത്തുകയും: വിലാസപ്പട്ടയിൽ നിന്നു് നേരിട്ടു് { $engineName }-കൂടെ തിരയുക.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = താങ്ങൾക്കു് ആവശ്യമുള്ളതു് പെട്ടന്നു് കണ്ടെത്താൻ ഈ കുറുക്കുവഴി തിരഞ്ഞെടുക്കുക.

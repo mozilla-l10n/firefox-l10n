@@ -55,6 +55,7 @@ addon-install-blocked-by-policy = { $addonName } ({ $addonId })-നെ താങ
 addon-installation-blocked-by-policy = { $addonName } ({ $addonId })-നെ താങ്ങളുടെ സ്ഥാപനം തടഞ്ഞിരിക്കുന്നു.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-install-domain-blocked-by-policy = താങ്ങളുടെ ഉപകരണത്തിൽ ഈ യന്ത്രാംശം സ്ഥാപിക്കണമെന്നു് ചോദിക്കുന്നുതിൽ നിന്നു് താങ്ങളുടെ സ്ഥാപനം ഈ വെബിടത്തിനെ തടഞ്ഞിരിക്കുന്നു.
+addon-install-full-screen-blocked = പ്രതലം വലുപ്പം കൂട്ടിയിട്ടു് അതിനിടയ്ക്കോ അതിന്റെ മുമ്പോ ആഡ് ഓൺ സ്ഥാപിക്കാൻ പറ്റില്ല
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } { -brand-short-name } ലേക്ക് ചേര്‍ത്തിരിക്കുന്നു
