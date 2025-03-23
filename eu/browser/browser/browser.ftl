@@ -978,6 +978,9 @@ panel-save-update-password = Pasahitza
 # "More" item in macOS share menu
 menu-share-more =
     .label = Gehiago…
+menu-share-copy-link =
+    .label = Kopiatu lotura
+    .accesskey = K
 ui-tour-info-panel-close =
     .tooltiptext = Itxi
 
