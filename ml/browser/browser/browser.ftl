@@ -187,6 +187,9 @@ urlbar-result-menu-dismiss-suggestion =
 urlbar-result-menu-learn-more-about-firefox-suggest =
     .label = { -firefox-suggest-brand-name }-നെ പറ്റി കൂടുതലറിയുക
     .accesskey = അ
+urlbar-result-menu-manage-firefox-suggest =
+    .label = { -firefox-suggest-brand-name } കൈകാര്യം ചെയ്യുക
+    .accesskey = ക
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -194,6 +197,9 @@ urlbar-result-menu-learn-more-about-firefox-suggest =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = കുറച്ചു എഴുതുകയും കൂടുതൽ കണ്ടെത്തുകയും: വിലാസപ്പട്ടയിൽ നിന്നു് നേരിട്ടു് { $engineName }-കൂടെ തിരയുക.
+urlbar-search-tips-redirect-2 = { $engineName }-ൽ അല്ലെങ്കിൽ നാൾവഴിയിൽ താങ്ങളുടെ തിരയൽ വിലാസപ്പട്ടയിൽ നിന്നു് തുടങ്ങുക
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = ഇപ്പോൾ തിരച്ചിൽ ഇനിയും എളുപ്പമായിയിരിക്കുന്നു. വിലാസപ്പട്ടയിൽ താങ്ങളുടെ തിരയൽ കൂടുതൽ നിൎദ്ദിഷ്ടമാക്കാൻ ശ്രമിക്കുക. പകരം യൂ.ർ.ൽ കാണിക്കാൻ ക്രമീകരണങ്ങളിൽ തിരച്ചിൽ വിഭാഗത്തിലോട്ടു് ചെല്ലുക.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = താങ്ങൾക്കു് ആവശ്യമുള്ളതു് പെട്ടന്നു് കണ്ടെത്താൻ ഈ കുറുക്കുവഴി തിരഞ്ഞെടുക്കുക.
@@ -417,6 +423,8 @@ identity-permissions-storage-access-learn-more = കൂടുതല്‍ അറ
 identity-permissions-reload-hint = മാറ്റങ്ങൾ പ്രയോഗത്തിൽ വരുവാൻ പേജ് വീണ്ടും ലോഡുചെയ്യേണ്ടി വന്നേക്കാം.
 identity-clear-site-data =
     .label = കുക്കികളും വെബ്ത്ഥാന ദത്തയും മായ്ക്കുക…
+identity-connection-not-secure-security-view = താങ്ങൾ ഈ വെബിടത്തുമായി സുരക്ഷിതമായി ചേൎന്നിട്ടില്ല.
+identity-connection-verified = താങ്ങൾ ഈ വെബിടത്തുമായി സുരക്ഷിതമായി ചേൎന്നിട്ടുണ്ടു്.
 identity-ev-owner-label = പ്രമാണപത്രം ഇവൎക്കുയാണു് നല്കിയതു്:
 identity-remove-cert-exception =
     .label = എക്സപ്ഷൻ നീക്കം ചെയ്യുക
@@ -601,6 +609,14 @@ urlbar-result-action-before-tabtosearch-web = { $engine }-ന്റെ കൂട
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-before-tabtosearch-other = { $engine } തിരയുകാൻ വേണ്ടി ടാബുക്കട്ടയിൽ അമൎത്തുക
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = { $engine } നേരിട്ടു് ഉപയോഗിച്ചു് വിലാസപ്പട്ടയിൽ നിന്നു് തിരയുക
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = { $engine } നേരിട്ടു് ഉപയോഗിച്ചു് വിലാസപ്പട്ടയിൽ നിന്നു് തിരയുക
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = പകര്‍ത്തുക
 # Shows the result of a formula expression being calculated, the last = sign will be shown
@@ -891,6 +907,9 @@ panel-save-update-password = രഹസ്യവാക്കു്
 # "More" item in macOS share menu
 menu-share-more =
     .label = കൂടുതൽ…
+menu-share-copy-link =
+    .label = കണ്ണി പകൎത്തുക
+    .accesskey = ക
 ui-tour-info-panel-close =
     .tooltiptext = അടയ്ക്കുക
 
@@ -1036,6 +1055,7 @@ refresh-blocked-allow =
 
 popup-notification-addon-install-unsigned =
     .value = (പരിശോധിച്ചിട്ടില്ലാത്തതു്)
+popup-notification-xpinstall-prompt-learn-more = ആഡ്-ഓണുകൾ സുരക്ഷിതമായി സ്ഥാപിക്കുന്നതിനെക്കുറിച്ചു് കൂടുതലറിയുക.
 popup-notification-xpinstall-prompt-block-url = വിശദാംശങ്ങൾ കാണുക
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
