@@ -274,6 +274,17 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Zarządzaj motywami { -brand-short-name(case: "gen") } w <a data-l10n-name="themes-link">Rozszerzenia i motywy</a>
+preferences-contrast-control-header = Sterowanie kontrastem
+preferences-contrast-control-description = Witryny mają różne kolory tekstu i tła. Można skonfigurować { -brand-short-name(case: "acc") } w ten sposób, że wszystkie witryny używają tych samych kolorów, co zwiększa czytelność.
+preferences-contrast-control-use-platform-settings =
+    .label = Automatyczne (ustawienia systemu)
+    .accesskey = A
+preferences-contrast-control-off =
+    .label = Wyłączone
+    .accesskey = W
+preferences-contrast-control-custom =
+    .label = Inne
+    .accesskey = I
 preferences-colors-header = Kolory
 preferences-colors-description = Zastąp domyślne kolory przeglądarki { -brand-short-name } dla tekstu, teł witryn i odnośników.
 preferences-colors-manage-button =
@@ -1131,6 +1142,13 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Pasek adresu
 addressbar-suggest = Podpowiedzi w pasku adresu opieraj na:
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Pasek adresu — { -firefox-suggest-brand-name(case: "nom", capitalization: "lower") }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Wybierz rodzaje podpowiedzi wyświetlane na pasku adresu.
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Więcej informacji
 addressbar-locbar-history-option =
     .label = historii przeglądania
     .accesskey = h
@@ -1163,7 +1181,18 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Popularne wyszukiwania.
     .accesskey = u
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = Podpowiedzi { -brand-short-name(case: "gen") }
+addressbar-locbar-suggest-nonsponsored-desc = Otrzymuj podpowiedzi z Internetu związane z wyszukiwanymi słowami.
+addressbar-locbar-suggest-sponsored-option =
+    .label = Podpowiedzi sponsorów
+addressbar-locbar-suggest-sponsored-desc = Wspieraj { -brand-short-name(case: "gen") }, od czasu do czasu wyświetlając sponsorowane podpowiedzi.
 addressbar-quickactions-learn-more = Więcej informacji
+addressbar-dismissed-suggestions-label = Odrzucone podpowiedzi
+addressbar-restore-dismissed-suggestions-description = Przywróć odrzucone podpowiedzi sponsorów i { -brand-short-name(case: "gen") }.
+addressbar-restore-dismissed-suggestions-button =
+    .label = Przywróć
 
 ## Privacy Section - Content Blocking
 
