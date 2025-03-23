@@ -25,3 +25,10 @@ experimental-features-group-webpage-display =
     .label = Адлюстраванне вэб-старонкі
 experimental-features-group-customize-browsing =
     .label = Уладкуйце сваё агляданне
+# Contextual Password Manager in sidebar
+experimental-features-contextual-password-manager =
+    .label = Паролі на бакавой панэлі
+experimental-features-contextual-password-manager-description = Атрымлівайце свае паролі наўпрост з бакавой панэлі. Больш не трэба шукаць або скідваць паролі, калі спрабуеце ўвайсці. Каб выкарыстоўваць гэту функцыю, выберыце паролі на бакавой панэлі. Затым перайдзіце ў агульныя налады і ў раздзеле "Выклад браўзера" выберыце "Паказаць бакавую панэль". Затым наладзьце бакавую панэль, выбраўшы паролі. Калі паспрабуеце, <a data-l10n-name="connect">раскажыце нам, што пра гэта думаеце</a>.
+# New Tab Custom Wallpapers
+experimental-features-custom-wallpaper =
+    .label = Выберыце ўласныя шпалеры або колер для новай карткі
