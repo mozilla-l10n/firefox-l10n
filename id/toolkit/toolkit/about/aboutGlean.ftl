@@ -132,10 +132,10 @@ about-glean-about-data-list-item-dictionary =
 about-glean-about-data-list-item-about-telemetry = Untuk menjelajahi data yang dikumpulkan oleh telemetri lama, harap lihat <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
 about-glean-about-data-list-item-debug-ping-viewer =
     Untuk menelusuri tag debug, melihat ping lengkap, memantau streaming peristiwa langsung, atau menampilkan visualisasi metrik, silakan kunjungi
-    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
 about-glean-about-data-list-item-firefox-profiler =
     Untuk merekam profil kinerja dan melihat semua metrik yang tercatat, silakan gunakan
-    <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }
+    <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
 about-glean-about-data-explanation =
     Untuk menelusuri daftar data yang dikumpulkan, silakan berkonsultasi dengan
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Kamus</a>.

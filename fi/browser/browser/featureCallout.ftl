@@ -73,12 +73,16 @@ split-dismiss-button-manage-settings-option =
 
 sidebar-button-callout-title = Näytä välilehtien otsikot sivupalkissa
 sidebar-button-callout-subtitle = Käytä sivupalkkipainiketta laajentaaksesi sivupalkkia, jotta näet välilehtien otsikot.
+sidebar-button-callout-vertical-tabs = Näytä välilehdet valitsemalla sivupalkin painikkeen työkalupalkista.
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = Aiheuttavatko liian monet välilehdet hämmennystä?
+vertical-tabs-callout-1-subtitle = Kokeile uutta pystysuuntaisten välilehtien asettelua, jotta näet välilehtiluettelosi nopeasti. Varhaiset testaajat kertovat, että tämä asettelu auttaa heitä tuntemaan olonsa organisoidummaksi. Vaihda milloin tahansa.
 vertical-tabs-callout-1-cta-button = Kokeile pystysuuntaisia välilehtiä
 vertical-tabs-callout-2-cta-button = Kokeile nyt
 vertical-tabs-callout-2-title = Onko sinulla paljon välilehtiä auki? Kokeile pystysuuntaisia välilehtiä.
+vertical-tabs-callout-2-subtitle = Tämän asettelun avulla välilehtiluettelosi silmäily on helppoa. Lisäksi voit säätää leveyttä nähdäksesi enemmän tai vähemmän välilehtien otsikoista.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
@@ -91,6 +95,7 @@ sidebar-pins-callout-cta-button = Kiinnitä välilehti
 sidebar-customization-callout-1-title = Sivupalkki: paikka työkaluille ja välilehdille
 sidebar-customization-callout-callout-button = Muokkaa sivupalkkia
 sidebar-customization-callout-dismiss-button = Piilota sivupalkki
+sidebar-customization-callout-2-subtitle = Lisää ja poista työkaluja. Aseta välilehdet sivupalkkiin. Kokeile AI-chatbottia. Sivupalkin mukauttaminen on sinun päätettävissäsi.
 
 ## Sidebar Callout Survey Strings
 
