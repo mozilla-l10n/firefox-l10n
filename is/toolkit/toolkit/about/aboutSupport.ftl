@@ -15,6 +15,10 @@ support-addons-type = Tegund
 support-addons-enabled = Virkt
 support-addons-version = Útgáfa
 support-addons-id = Auðkenni
+# In the add-on world, locations are where the addon files are stored. Each
+# location has name. For instance: app-system-addons, app-builtin,
+# app-temporary, etc.
+support-addons-location-name = Staðsetning
 legacy-user-stylesheets-title = Eldri stílblöð notanda
 legacy-user-stylesheets-enabled = Virkt
 legacy-user-stylesheets-stylesheet-types = Stílblöð

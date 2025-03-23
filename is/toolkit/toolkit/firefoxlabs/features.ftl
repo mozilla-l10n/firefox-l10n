@@ -10,3 +10,15 @@ experimental-features-media-jxl =
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
 experimental-features-js-warp-description = Virkjaðu Warp, verkefni til að bæta afköst JavaScript og minnisnotkun.
+experimental-features-group-developer-tools =
+    .label = Forritunarverkfæri
+experimental-features-group-webpage-display =
+    .label = Birting vefsíðna
+experimental-features-group-customize-browsing =
+    .label = Sérsníddu vafrið þitt
+# Contextual Password Manager in sidebar
+experimental-features-contextual-password-manager =
+    .label = Lykilorð í hliðarstikunni
+# New Tab Custom Wallpapers
+experimental-features-custom-wallpaper =
+    .label = Veldu sérsniðinn bakgrunn eða lit fyrir nýjan flipa

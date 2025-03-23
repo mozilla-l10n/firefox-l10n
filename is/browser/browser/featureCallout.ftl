@@ -90,6 +90,8 @@ sidebar-pins-callout-cta-button = Festa flipa
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Hliðarstikan: staðurinn þinn fyrir verkfæri og flipa
+sidebar-customization-callout-1-subtitle = { -brand-product-name } hliðarstikan veitir þér skjótan aðgang að vafurferlinum þínum, flipum úr öðrum tækjum og gervigreindar-spjallkerfi - allt án þess að fara af aðalskjánum.
 sidebar-customization-callout-callout-button = Sérsníða hliðarstiku
 sidebar-customization-callout-dismiss-button = Fela hliðarstiku
 sidebar-customization-callout-2-title = Lagaðu { -brand-product-name } hliðarstikuna að þínm smekk
