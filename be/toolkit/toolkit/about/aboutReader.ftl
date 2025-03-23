@@ -130,3 +130,5 @@ about-reader-text-alignment-center =
     .title = Выраўнаваць тэкст па цэнтры
 about-reader-text-alignment-right =
     .title = Выраўнаваць тэкст па правым краі
+about-reader-text-alignment-justify =
+    .title = Выраўнаваць тэкст
