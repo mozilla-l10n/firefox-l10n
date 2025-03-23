@@ -30,8 +30,13 @@ webext-perms-description-sessions = Tilgang til nylege attlatne faner
 webext-perms-description-tabs = Få tilgang til faner
 webext-perms-description-tabHide = Gøym og vis nettlesarfaner
 webext-perms-description-topSites = Få tilgang til nettlesarhistorikken
+webext-perms-description-trialML = Last ned og køyr AI-modellar på eininga di
+webext-perms-description-userScripts = Tillat at ikkje stadfesta tredjepartsskript får tilgang til dataa dine
 webext-perms-description-webNavigation = Få tilgang til nettlesaraktivitet under navigasjon
 
 ## The userScripts permission includes an additional explanation that is
 ## displayed prominently near the usual permission description.
 
+webext-perms-extra-warning-userScripts-long = Ikkje stadfesta skript kan utgjere sikkerheit- og personvernrisiko, til dømes å køyre skadeleg kode eller spore aktivitet på nettstaden. Køyr berre skript frå utvidingar eller kjelder du stolar på.
+# A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
+webext-perms-extra-warning-userScripts-short = Ikkje stadfesta skript kan utgjere sikkerheit- og personvernrisiko. Køyr berre skript frå utvidingar eller kjelder du stolar på.

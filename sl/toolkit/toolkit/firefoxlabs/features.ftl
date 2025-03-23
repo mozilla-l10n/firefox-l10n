@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-media-jxl =
+    .label = Mediji: JPEG XL
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
@@ -23,3 +27,7 @@ experimental-features-group-customize-browsing =
 experimental-features-contextual-password-manager =
     .label = Gesla v stranski vrstici
 experimental-features-contextual-password-manager-description = Imejte dostop do gesel neposredno iz stranske vrstice. Nič več iskanja in ponastavljanja gesel, kadar se poskušate prijaviti. Če želite uporabljati to možnost, v stranski vrstici izberite gesla. Nato odprite splošne nastavitve in pod Postavitev brskalnika izberite Prikaži stransko vrstico. Nato prilagodite stransko vrstico z izbiro gesel. Če preizkusite to možnost, <a data-l10n-name="connect">nam sporočite svoje mnenje</a>.
+# New Tab Custom Wallpapers
+experimental-features-custom-wallpaper =
+    .label = Izberite ozadje ali barvo po meri za stran novega zavihka
+experimental-features-custom-wallpaper-description = Naložite lastno ozadje ali izberite poljubno barvo ozadja novih zavihkov.

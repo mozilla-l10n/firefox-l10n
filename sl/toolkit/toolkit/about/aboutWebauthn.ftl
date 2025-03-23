@@ -91,3 +91,8 @@ about-webauthn-auth-info-null = Ni podprto
 
 ##
 
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = Vzorec že obstaja.
+about-webauthn-ctap2-enroll-feedback-no-user-activity = Ni dejavnosti uporabnika.
+about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = Uporabnik ni dokončal vzorčenja, kot je bilo pričakovano.
+about-webauthn-ctap2-enroll-feedback-other = Napaka vzorca.

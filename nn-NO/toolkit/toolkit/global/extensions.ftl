@@ -69,6 +69,10 @@ webext-perms-host-description-too-many-sites =
         [one] Få tilgang til dine data frå { $domainCount } annan nettstad
        *[other] Få tilgang til dine data frå { $domainCount } andre nettstadar
     }
+# Variables:
+#   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
+#     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).
+webext-perms-host-description-one-domain = Få tilgang til dine data frå nettstadar under { $domain }-domenet
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
