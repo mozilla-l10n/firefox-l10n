@@ -277,6 +277,24 @@ appmenuitem-report-broken-site =
 
 appmenuitem-sign-in-account = Logi kontole sisse
 appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = Saa andmelekkehoiatusi
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = Peida oma tegelik e-post ja telefon
+appmenuitem-services-relay-description = Käivita e-posti maskide juhtpaneel
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = Kaitse oma veebitegevust
+appmenu-services-header = Minu teenused
+appmenu-other-protection-header = Proovi teisi kaitsetööriistu pakkujalt { -vendor-short-name }:
 
 ## Profiles panel
 
+appmenu-profiles = Profiilid
+appmenu-other-profiles = Muud profiilid
+appmenu-manage-profiles =
+    .label = Profiilide haldamine
+appmenu-create-profile =
+    .label = Uus profiil
+appmenu-edit-profile =
+    .aria-label = Muuda profiili
+appmenu-profiles-2 =
+    .label = Profiilid
