@@ -82,12 +82,22 @@ vertical-tabs-callout-1-subtitle = Experimente a nossa nova disposição vertica
 vertical-tabs-callout-1-cta-button = Experimentar os separadores verticais
 vertical-tabs-callout-2-cta-button = Experimentar agora
 vertical-tabs-callout-2-title = Mantém muitos separadores abertos? Experimente os separadores verticais.
+vertical-tabs-callout-2-subtitle = Este esquema facilita a verificação rápida da sua lista de separadores. Além disso, pode ajustar a largura para ver mais ou menos dos títulos dos seus separadores.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = Perdeu a noção dos seus separadores importantes?
+sidebar-pins-callout-subtitle = Experimente fixá-los para os manter no topo da sua lista de separadores. Clique com o botão direito num separador que pretende fixar e escolha Fixar separador.
+sidebar-pins-callout-cta-button = Fixar separador
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Barra lateral: o espaço para as suas ferramentas e separadores
+sidebar-customization-callout-1-subtitle = A barra lateral do { -brand-product-name } oferece um acesso rápido ao seu histórico de navegação, separadores de outros dispositivos e um chatbot com IA — tudo sem sair da sua vista principal.
+sidebar-customization-callout-callout-button = Personalizar barra lateral
+sidebar-customization-callout-dismiss-button = Ocultar barra lateral
+sidebar-customization-callout-2-title = Personalize a barra lateral do { -brand-product-name }
+sidebar-customization-callout-2-subtitle = Adicione e remova ferramentas. Posicione os seus separadores na barra lateral. Experimente um chatbot inteligente. A forma como personaliza a sua barra lateral fica ao seu critério.
 
 ## Sidebar Callout Survey Strings
 

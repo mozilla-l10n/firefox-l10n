@@ -271,6 +271,7 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Gerir temas do { -brand-short-name } em <a data-l10n-name="themes-link">Extensões e Temas</a>
+preferences-contrast-control-header = Controlo de contraste
 preferences-colors-header = Cores
 preferences-colors-description = Subsituir as cores padrão do { -brand-short-name } quanto a texto, fundos de websites e ligações.
 preferences-colors-manage-button =
