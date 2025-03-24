@@ -337,7 +337,7 @@ pdfjs-editor-highlight-editor =
 pdfjs-editor-ink-editor =
     .aria-label = Golygydd lluniadu
 pdfjs-editor-signature-editor =
-    .aria-label = Golygydd llofnod
+    .aria-label = Golygydd llofnodion
 pdfjs-editor-stamp-editor =
     .aria-label = Golygydd delweddau
 
@@ -615,6 +615,9 @@ pdfjs-editor-edit-signature-update-button = Diweddaru
 pdfjs-editor-delete-signature-button =
     .title = Dileu llofnod
 pdfjs-editor-delete-signature-button-label = Dileu llofnod
+pdfjs-editor-delete-signature-button1 =
+    .title = Tynnu llofnod sydd wedi'i gadw
+pdfjs-editor-delete-signature-button-label1 = Tynnwch y llofnod sydd wedi'i gadw
 
 ## Editor toolbar
 
