@@ -61,6 +61,25 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Spør { $provider }…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = AI-chatboten vil ikkje få heile utvalet ditt
+    .message =
+        { $selectionLength ->
+            [one] { "" }
+           *[other] Du har valt { $selectionLength } teikn. Maksimalt antal teikn vi kan sende til AI-chatboten er omtrent { $maxLength }.
+        }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } vil ikkje få heile utvalet ditt
+    .message =
+        { $selectionLength ->
+            [one] { "" }
+           *[other] Du har valt { $selectionLength } teikn. Maksimalt antal teikn vi kan sende til { $provider } er omtrent { $maxLength }.
+        }
 genai-shortcuts-hide =
     .label = Skjul samtalerobot-snarveg
 
