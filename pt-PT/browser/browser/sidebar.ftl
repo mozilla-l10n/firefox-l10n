@@ -60,6 +60,9 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Expandir barra lateral ao pairar
+expand-on-hover-message =
+    .heading = Expandir ao pairar em breve
+    .message = Numa futura atualização poderá expandir a barra lateral ao pairar.
 
 ## Labels for sidebar context menu items
 
@@ -77,6 +80,12 @@ sidebar-context-menu-bookmark-tab =
     .label = Adicionar separador aos marcadores…
 sidebar-context-menu-copy-link =
     .label = Copiar ligação
+sidebar-context-menu-hide-sidebar =
+    .label = Ocultar barra lateral
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Ativar separadores verticais
+sidebar-context-menu-customize-sidebar =
+    .label = Personalizar barra lateral
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
