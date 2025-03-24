@@ -259,6 +259,17 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = จัดการชุดตกแต่งของ { -brand-short-name } ใน <a data-l10n-name="themes-link">ส่วนขยายและชุดตกแต่ง</a>
+preferences-contrast-control-header = การควบคุมความคมชัด
+preferences-contrast-control-description = เว็บไซต์ใช้สีพื้นหน้าและพื้นหลังที่หลากหลาย กำหนดค่า { -brand-short-name } ให้ใช้สีเดียวกันทั่วทั้งเว็บไซต์ เพื่อให้อ่านง่ายขึ้น
+preferences-contrast-control-use-platform-settings =
+    .label = อัตโนมัติ (ใช้การตั้งค่าระบบ)
+    .accesskey = อ
+preferences-contrast-control-off =
+    .label = ปิด
+    .accesskey = ป
+preferences-contrast-control-custom =
+    .label = กำหนดเอง
+    .accesskey = ก
 preferences-colors-header = สี
 preferences-colors-description = แทนที่สีเริ่มต้นของ { -brand-short-name } สำหรับข้อความ พื้นหลังของเว็บไซต์ และลิงก์
 preferences-colors-manage-button =
