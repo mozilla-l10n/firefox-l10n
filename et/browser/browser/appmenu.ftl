@@ -111,6 +111,8 @@ appmenu-fxa-setup-sync =
 appmenu-fxa-setup-sync-new = Lülita sisse
 appmenuitem-save-page =
     .label = Salvesta veebileht kui…
+appmenuitem-fxa-sync-off-title = Sync on väljas
+appmenuitem-fxa-sync-off-description = Kaitse oma järjehoidjaid, paroole ja muud ning pääse neile kõikjal ligi.
 
 ## What's New panel in App menu.
 
@@ -193,6 +195,10 @@ profiler-popup-presets-media-label =
 profiler-popup-presets-networking-description = Preset for investigating networking bugs in { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Network
+profiler-popup-presets-power-description = Eelseadistus { -brand-shorter-name }i energiakasutuse vigade uurimiseks, madala üldkuluga.
+# "Power" is used in the sense of energy (electricity used by the computer).
+profiler-popup-presets-power-label =
+    .label = Võimsus
 profiler-popup-presets-custom-label =
     .label = Custom
 
