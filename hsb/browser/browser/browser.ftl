@@ -991,7 +991,7 @@ menu-share-more =
     .label = Wjace…
 menu-share-copy-link =
     .label = Wotkaz kopěrować
-    .accesskey = k
+    .accesskey = r
 ui-tour-info-panel-close =
     .tooltiptext = Začinić
 

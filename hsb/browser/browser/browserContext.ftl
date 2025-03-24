@@ -135,10 +135,10 @@ main-context-menu-open-link-container-tab =
     .accesskey = o
 main-context-menu-open-link-new-window =
     .label = Wotkaz w nowym woknje wočinić
-    .accesskey = k
+    .accesskey = n
 main-context-menu-open-link-new-private-window =
     .label = Wotkaz w nowym priwatnym woknje wočinić
-    .accesskey = o
+    .accesskey = p
 main-context-menu-bookmark-link-2 =
     .label = Wotkaz jako zapołožku składować …
     .accesskey = z
@@ -161,13 +161,13 @@ main-context-menu-copy-phone =
     .accesskey = T
 main-context-menu-copy-link-simple =
     .label = Wotkaz kopěrować
-    .accesskey = a
+    .accesskey = k
 # "Copy Clean Link" means that Firefox will remove things from the link you
 # copied, like items that identify you for advertising purposes, and other items
 # sites add into URLs to help them deliver a certain browsing experience.
 main-context-menu-copy-clean-link =
     .label = Čisty wotkaz kopěrować
-    .accesskey = a
+    .accesskey = t
 # This command copies the link, removing additional
 # query parameters used to track users across sites.
 main-context-menu-strip-on-share-link =
@@ -249,10 +249,10 @@ main-context-menu-image-copy =
     .accesskey = r
 main-context-menu-image-copy-link =
     .label = Wobrazowy wotkaz kopěrować
-    .accesskey = r
+    .accesskey = b
 main-context-menu-video-copy-link =
     .label = Widejowotkaz kopěrować
-    .accesskey = i
+    .accesskey = d
 main-context-menu-audio-copy-link =
     .label = Awdiowotkaz kopěrować
     .accesskey = A
