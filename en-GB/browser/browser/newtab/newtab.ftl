@@ -126,6 +126,8 @@ newtab-menu-section-unfollow = Unfollow Topic
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
+newtab-menu-manage-sponsored-content = Manage sponsored content
+newtab-menu-our-sponsors-and-your-privacy = Our sponsors and your privacy
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -386,6 +388,7 @@ newtab-wallpaper-starry-canyon = Blue starry night
 newtab-wallpaper-suspension-bridge = Grey full-suspension bridge photography during daytime
 newtab-wallpaper-sand-dunes = White sand dunes
 newtab-wallpaper-palm-trees = Silhouette of coconut palm trees during golden hour
+newtab-wallpaper-blue-flowers = Closeup photography of blue-petaled flowers in bloom
 newtab-wallpaper-forest-trees = Trees covered with fog
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
