@@ -75,6 +75,10 @@ fp-certerror-view-certificate-link = Vis sertifikatet til nettstaden
 fp-certerror-return-to-previous-page-recommended-button = Gå tilbake (tilrådd)
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = Ikkje mykje. Det er sannsynleg at det er eit problem med sjølve nettstaden.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $date (Date) - Certificate expiration date.
+fp-certerror-expired-why-dangerous-body = Nettstadar brukar sertifikat utskrive av ein sertifikatutferdar for å bevise at dei verkeleg er den dei seier dei er. { -brand-short-name } stolar ikkje på denne nettstaden fordi det ser ut til at sertifikatet gjekk ut { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.

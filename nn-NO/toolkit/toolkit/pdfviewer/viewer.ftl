@@ -542,6 +542,7 @@ pdfjs-editor-undo-bar-close-button-label = Lat att
 
 ## Add a signature dialog
 
+pdfjs-editor-add-signature-dialog-label = Denne modalen lèt brukaren lage ein signatur for å leggje til eit PDF-dokument. Brukaren kan redigere namnet (som også fungerer som alt-teksten), og eventuelt lagre signaturen for gjenteken bruk.
 pdfjs-editor-add-signature-dialog-title = Legg til ein signatur
 
 ## Tab names

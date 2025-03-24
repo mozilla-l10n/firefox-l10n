@@ -43,6 +43,8 @@ neterror-generic-error = { -brand-short-name } klarte ikkje å laste denne sida 
 neterror-load-error-try-again = Nettstaden kan vere mellombels utilgjengeleg eller oppteken. Prøv på nytt om ei lita stund.
 neterror-load-error-connection = Dersom ingen sider vert lasta, kontroller at nettverkstilkoplinga til datamaskina er i orden.
 neterror-load-error-firewall = Dersom datamaskina er verna av ein brannmur eller mellomtenar, kontroller at { -brand-short-name } har løyve til å bruke nettet.
+# This warning is only shown on macOS Sequoia and later (see bug 1929377)
+neterror-load-osx-permission = Viss du prøver å laste inn ei lokal nettverksside, må du kontrollere at { -brand-short-name } har fått løyve for lokale nettverk i innstillingane for macOS personvern og sikkerheit.
 neterror-http-error-page = Kontroller at du har skrive inn nettadressa rett.
 neterror-captive-portal = Du må logge inn på nettverket før du kan kople til Internett.
 # Variables:
