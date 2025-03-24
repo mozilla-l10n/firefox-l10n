@@ -29,3 +29,7 @@ experimental-features-group-customize-browsing =
 experimental-features-contextual-password-manager =
     .label = Mots de passe dans le panneau latéral
 experimental-features-contextual-password-manager-description = Accédez à vos mots de passe directement depuis le panneau latéral. Plus besoin de chercher ou de réinitialiser vos mots de passe lorsque vous essayez de vous connecter à un site. Pour utiliser cette fonctionnalité, choisissez d’afficher les mots de passe dans le panneau latéral. Rendez-vous dans les paramètres, rubrique Général, et dans la section « Disposition du navigateur » sélectionnez « Afficher le panneau latéral ». Personnalisez ensuite votre panneau latéral en sélectionnant les mots de passe. Si vous l’essayez, <a data-l10n-name="connect">faites-nous savoir ce que vous en pensez</a>.
+# New Tab Custom Wallpapers
+experimental-features-custom-wallpaper =
+    .label = Choisissez une couleur ou un fond d’écran personnalisé pour la page de nouvel onglet
+experimental-features-custom-wallpaper-description = Téléchargez votre propre fond d’écran ou choisissez une couleur personnalisée pour le fond de votre page de nouvel onglet.

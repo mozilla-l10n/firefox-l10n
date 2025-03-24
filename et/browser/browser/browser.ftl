@@ -78,6 +78,43 @@ browser-main-window-titles =
     .data-content-title-private = { $content-title } — { -brand-full-name } (privaatne veebilehitsemine)
     .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
     .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } (privaatne veebilehitsemine)
+# These are the default window titles on macOS.
+# .data-title-default and .data-title-private are used when the web content
+# opened has no title:
+#
+#
+# "default" - "Mozilla Firefox"
+# "private" - "Mozilla Firefox — (Private Browsing)"
+#
+# .data-content-title-default and .data-content-title-private are for use when
+# there *is* a content title.
+# Do not use the brand name in these, as we do on non-macOS.
+#
+# .data-title-default-with-profile, .data-title-private-with-profile,
+# .data-content-title-default-with-profile,
+# .data-content-title-private-with-profile are used when there a
+# SelectableProfileService.current profile exists.
+#
+# Also note the other subtle difference here: we use a `-` to separate the
+# brand name from `(Private Browsing)`, which does not happen on other OSes.
+#
+# Variables:
+#  $content-title (String): the title of the web content.
+#  $profile-name (String): the name of the current profile.
+browser-main-window-titles-mac =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } —  Privaatne veebilehitsemine
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } (Privaatne veebilehitsemine)
+    .data-content-title-default = { $content-title }
+    .data-content-title-private = { $content-title } — Privaatne veebilehitsemine
+    .data-content-title-default-with-profile = { $content-title } — { $profile-name }
+    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Privaatne veebilehitsemine
+# This gets set as the initial title, and is overridden as soon as we start
+# updating the titlebar based on loaded tabs or private browsing state.
+# This should match the `data-title-default` attribute in both
+# `browser-main-window` and `browser-main-window-mac`.
+browser-main-window-default-title = { -brand-full-name }
 
 ##
 
@@ -131,11 +168,14 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = Hangi abi
 urlbar-search-tips-confirm = Olgu, sain aru
+urlbar-search-tips-confirm-short = Sain aru
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = Nipp:
+urlbar-result-menu-button =
+    .title = Ava menüü
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
