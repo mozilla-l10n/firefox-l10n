@@ -126,6 +126,8 @@ newtab-menu-section-unfollow = Dad-ddilyn Pwnc
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
+newtab-menu-manage-sponsored-content = Rheoli cynnwys noddedig
+newtab-menu-our-sponsors-and-your-privacy = Ein noddwyr a’ch preifatrwydd chi
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -391,6 +393,7 @@ newtab-wallpaper-starry-canyon = Noson serennog las
 newtab-wallpaper-suspension-bridge = Ffotograffau pont crog llwyd yn ystod y dydd
 newtab-wallpaper-sand-dunes = Twyni tywod gwyn
 newtab-wallpaper-palm-trees = Amlinell coed palmwydd cnau coco yn yr awr euraidd
+newtab-wallpaper-blue-flowers = Ffotograffiaeth agos o flodau petalau glas yn eu blodau
 newtab-wallpaper-forest-trees = Coed wedi'u gorchuddio â niwl
 # Variables
 #   $author_string (String) - The name of the creator of the photo.

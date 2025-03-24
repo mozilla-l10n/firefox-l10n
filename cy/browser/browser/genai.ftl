@@ -168,3 +168,9 @@ genai-onboarding-lechat-price = Rhad ac am ddim; bydd angen cyfrif
 
 ## Model Optin Component
 
+genai-model-optin-continue =
+    .label = Parhau
+genai-model-optin-optout =
+    .label = Diddymu
+genai-model-optin-cancel =
+    .label = Diddymu

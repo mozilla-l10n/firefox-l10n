@@ -330,6 +330,16 @@ pdfjs-editor-signature-button-label = Ychwanegu llofnod
 
 ## Default editor aria labels
 
+# “Highlight” is a noun, the string is used on the editor for highlights.
+pdfjs-editor-highlight-editor =
+    .aria-label = Golygydd amlygu
+# “Drawing” is a noun, the string is used on the editor for drawings.
+pdfjs-editor-ink-editor =
+    .aria-label = Golygydd lluniadu
+pdfjs-editor-signature-editor =
+    .aria-label = Golygydd llofnod
+pdfjs-editor-stamp-editor =
+    .aria-label = Golygydd delweddau
 
 ## Remove button for the various kind of editor.
 
@@ -359,9 +369,16 @@ pdfjs-editor-stamp-add-image-button-label = Ychwanegu delwedd
 pdfjs-editor-free-highlight-thickness-input = Trwch
 pdfjs-editor-free-highlight-thickness-title =
     .title = Newid trwch wrth amlygu eitemau heblaw testun
+pdfjs-editor-add-signature-container =
+    .aria-label = Rheolyddion llofnodion a llofnodion wedi'u cadw
 pdfjs-editor-signature-add-signature-button =
     .title = Ychwanegu llofnod newydd
 pdfjs-editor-signature-add-signature-button-label = Ychwanegu llofnod newydd
+# Used on the button to use an already saved signature.
+# Variables:
+#   $description (String) - a string describing/labeling the signature.
+pdfjs-editor-add-saved-signature-button =
+    .title = Llofnod wedi'i gadw: { $description }
 # .default-content is used as a placeholder in an empty text editor.
 pdfjs-free-text2 =
     .aria-label = Golygydd Testun

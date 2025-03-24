@@ -29,3 +29,7 @@ experimental-features-group-customize-browsing =
 experimental-features-contextual-password-manager =
     .label = Cyfrineiriau yn y bar ochr
 experimental-features-contextual-password-manager-description = Cael mynediad o'ch cyfrineiriau o'r bar ochr. Dim mwy o chwilio o gwmpas neu ailosod cyfrineiriau pan fyddwch chi'n ceisio mewngofnodi. I ddefnyddio'r nodwedd hon, dewiswch gyfrineiriau yn y bar ochr. Yna ewch i'ch gosodiadau cyffredinol ac o dan gynllun porwr, dewiswch ddangos y bar ochr. Yna, cyfaddaswch eich bar ochr trwy ddewis cyfrineiriau. Os rhowch gynnig arni, <a data-l10n-name="connect"> rhowch wybod i ni beth yw eich barn</a>.
+# New Tab Custom Wallpapers
+experimental-features-custom-wallpaper =
+    .label = Dewiswch bapur wal neu liw cyfaddas ar gyfer Tab Newydd
+experimental-features-custom-wallpaper-description = Llwythwch i fyny eich papur wal eich hun neu ddewis lliw cyfaddas ar gyfer cefndir eich Tab Newydd.
