@@ -21,6 +21,9 @@ cert-error-trust-symantec = Certificados emitidos por GeoTrust, RapidSSL, Symant
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = O { -brand-short-name } não confia em { $hostname } porque este não conseguiu demonstrar que cumpre os requisitos de transparência do certificado público.
+# Variables:
+#   $hostname (string) - Hostname of the website with cert error.
+cert-error-revoked = Os sites provam a respetiva identidade via certificados. O { -brand-short-name } não confia em { $hostname } porque este utiliza um certificado que foi revogado.
 cert-error-untrusted-default = O certificado não vem de uma fonte confiável.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.

@@ -25,3 +25,11 @@ experimental-features-group-webpage-display =
     .label = Exibição da página Web
 experimental-features-group-customize-browsing =
     .label = Personalize a sua navegação
+# Contextual Password Manager in sidebar
+experimental-features-contextual-password-manager =
+    .label = Palavras-passe na barra lateral
+experimental-features-contextual-password-manager-description = Aceda às suas palavras-passe diretamente da barra lateral. Chega de procurar ou de repor palavras-passe quando está a tentar iniciar sessão. Para utilizar esta funcionalidade, selecione as palavras-passe na barra lateral. Depois, aceda às definições gerais e, sob esquema do navegador, selecione mostrar barra lateral. Depois, personalize a sua barra lateral selecionando palavras-passe. Se experimentar, <a data-l10n-name="connect">diga-nos o que achou</a>.
+# New Tab Custom Wallpapers
+experimental-features-custom-wallpaper =
+    .label = Escolher um fundo ou cor personalizada para o novo separador
+experimental-features-custom-wallpaper-description = Carregue o seu próprio fundo ou escolha uma cor personalizada para o fundo do seu novo separador.

@@ -58,6 +58,10 @@ contentanalysis-error-message-upload-file = Envio de “{ $filename }” negado.
 contentanalysis-error-message-dropped-text = Arrastar e largar negado.
 contentanalysis-error-message-clipboard = Colagem negada.
 contentanalysis-error-message-print = Impressão negada.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
+contentanalysis-timeout-block-error-message-content = A ligação a { $agent } expirou. { $contentName } foi bloqueado.
 contentanalysis-block-dialog-title-upload-file = Não tem permissão para carregar este ficheiro
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
