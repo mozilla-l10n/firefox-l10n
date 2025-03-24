@@ -199,6 +199,9 @@ profiler-popup-presets-power-description = Eelseadistus { -brand-shorter-name }i
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Võimsus
+profiler-popup-presets-debug-description = Eelseadistus { -brand-shorter-name }I silumiseks. Suur üldkulu — ära kasuta jõudlust vajavaks tööks, vaid keskendu veebilehitseja käitumise mõistmisele.
+profiler-popup-presets-debug-label =
+    .label = Silumine
 profiler-popup-presets-custom-label =
     .label = Custom
 
@@ -215,6 +218,9 @@ appmenu-recently-closed-tabs =
     .label = Hiljuti suletud kaardid
 appmenu-recently-closed-windows =
     .label = Hiljuti suletud aknad
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = Otsi ajaloost
 
 ## Help panel
 
@@ -234,6 +240,8 @@ appmenu-help-report-site-issue =
 appmenu-help-share-ideas =
     .label = Jaga ideid ja tagasisidet…
     .accesskey = J
+appmenu-help-switch-device =
+    .label = Ümberlülitumine uuele seadmele
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -262,9 +270,13 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Browser tools
 appmenu-developer-tools-extensions =
     .label = Extensions for developers
+appmenuitem-report-broken-site =
+    .label = Teata katkisest saidist
 
 ## Panel for privacy and security products
 
+appmenuitem-sign-in-account = Logi kontole sisse
+appmenuitem-monitor-title = { -monitor-brand-short-name }
 
 ## Profiles panel
 
