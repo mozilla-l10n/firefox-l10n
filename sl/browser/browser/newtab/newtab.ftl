@@ -389,6 +389,7 @@ newtab-wallpaper-starry-canyon = Modra zvezdna noč
 newtab-wallpaper-suspension-bridge = Siva fotografija visečega mostu podnevi
 newtab-wallpaper-sand-dunes = Bele peščene sipine
 newtab-wallpaper-palm-trees = Silhueta kokosovih palm med zlato uro
+newtab-wallpaper-blue-flowers = Posnetek cvetočih rož z modrimi listi od blizu
 newtab-wallpaper-forest-trees = Drevesa, prekrita z meglo
 # Variables
 #   $author_string (String) - The name of the creator of the photo.

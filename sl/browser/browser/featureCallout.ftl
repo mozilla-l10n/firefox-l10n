@@ -82,6 +82,7 @@ vertical-tabs-callout-1-subtitle = Preizkusite našo novo, preglednejšo navpič
 vertical-tabs-callout-1-cta-button = Preizkusite navpične zavihke
 vertical-tabs-callout-2-cta-button = Poskusi zdaj
 vertical-tabs-callout-2-title = Imate odprtih veliko zavihkov? Poskusite z navpičnimi zavihki.
+vertical-tabs-callout-2-subtitle = Ta postavitev olajša hitro pregledovanje seznama zavihkov. Poleg tega lahko nastavite širino in vidite večji ali manjši del naslovov zavihkov.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
@@ -91,6 +92,8 @@ sidebar-pins-callout-cta-button = Pripni zavihek
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Stranska vrstica: vaše mesto za orodja in zavihke
+sidebar-customization-callout-1-subtitle = Stranska vrstica { -brand-product-name(sklon: "rodilnik") } vam omogoča hiter dostop do zgodovine brskanja, zavihkov iz drugih naprav in UI-klepetalnika, ne da bi zapustili glavni pogled.
 sidebar-customization-callout-callout-button = Prilagodi stransko vrstico
 sidebar-customization-callout-dismiss-button = Skrij stransko vrstico
 sidebar-customization-callout-2-title = Uredite si stransko vrstico { -brand-product-name(sklon: "rodilnik") } po svoji meri
