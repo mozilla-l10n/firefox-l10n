@@ -838,6 +838,8 @@ addressbar-locbar-quickactions-option =
     .accesskey = ഉ
 addressbar-suggestions-settings = സെര്‍ച്ച് എഞ്ചിൻ നിർദ്ദേശങ്ങളുടെ പ്രഫറന്‍സ് മാറ്റുക
 addressbar-quickactions-learn-more = കൂടുതല്‍ അറിയുക
+addressbar-restore-dismissed-suggestions-button =
+    .label = വീണ്ടെടുക്കുക
 
 ## Privacy Section - Content Blocking
 
@@ -871,6 +873,8 @@ content-blocking-known-and-suspected-fingerprinters = അറിയപ്പെ�
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 content-blocking-etp-standard-tcp-rollout-learn-more = കൂടുതലറിയുക
+content-blocking-warning-title = മുന്നറിയിപ്പ്
+content-blocking-warning-learn-how = എങ്ങനെയെന്നറിയാം
 content-blocking-cookies-label =
     .label = കുക്കികള്‍
     .accesskey = C
