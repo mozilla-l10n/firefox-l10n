@@ -82,9 +82,11 @@ vertical-tabs-callout-1-subtitle = Барои ҷустуҷӯи зудамал д
 vertical-tabs-callout-1-cta-button = Варақаҳои амудиро кӯшиш кунед
 vertical-tabs-callout-2-cta-button = Ҳозир кӯшиш кунед
 vertical-tabs-callout-2-title = Варақаҳоро дар шумораи зиёд кушода нигоҳ медоред? Варақаҳои амудиро кӯшиш кунед.
+vertical-tabs-callout-2-subtitle = Ин тарҳбандӣ ҷустуҷӯи зудамалро дар рӯйхати варақаҳои шумо осон мекунад. Илова бар ин, шумо метавонед паҳни намоишро танзим кунед, то тавонед сарлавҳаҳои варақаҳои худро бештар ё камтар аз назар гузаронед.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = Варақаҳои муҳим ё лозимаи худро доим гум мекунед?
 sidebar-pins-callout-cta-button = Васл кардани варақа
 
 ## Sidebar Onboarding Strings
