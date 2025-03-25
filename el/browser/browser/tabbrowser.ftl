@@ -292,7 +292,7 @@ tab-context-ungroup-tab =
     .label =
         { $groupCount ->
             [1] Αφαίρεση από ομάδα
-           *[other] Remove from Groups
+           *[other] Αφαίρεση από ομάδες
         }
     .accesskey = Α
 
