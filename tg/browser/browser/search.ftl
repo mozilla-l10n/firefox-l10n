@@ -56,3 +56,4 @@ add-engine-dialog =
     .buttonlabelaccept = Илова кардани низоми ҷустуҷӯӣ
     .buttonaccesskeyaccept = И
 engine-name-exists = Низоми ҷустуҷӯӣ бо чунин ном аллакай вуҷуд дорад
+engine-keyword-exists = Низоми ҷустуҷӯӣ бо чунин калимаи калидӣ аллакай вуҷуд дорад

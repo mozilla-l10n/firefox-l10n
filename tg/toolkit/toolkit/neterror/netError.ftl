@@ -13,6 +13,7 @@ neterror-captive-portal-page-title = Ворид шудан ба шабака
 neterror-dns-not-found-title = Сервер ёфт нашуд
 neterror-malformed-uri-page-title = Нишонии URL беэътибор аст
 general-body-title = Эҳтиёт шавед. Чизе нодуруст ба назар мерасад.
+problem-with-this-site-title = Чунин ба назар мерасад, ки дар ин сомона мушкилӣ вуҷуд дорад
 
 ## Error page actions
 

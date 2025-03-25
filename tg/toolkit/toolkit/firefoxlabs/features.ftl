@@ -28,3 +28,6 @@ experimental-features-group-customize-browsing =
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Ниҳонвожаҳо дар навори ҷонибӣ
+# New Tab Custom Wallpapers
+experimental-features-custom-wallpaper =
+    .label = Барои варақаи нав тасвири замина ё ранги дилхоҳро интихоб намоед
