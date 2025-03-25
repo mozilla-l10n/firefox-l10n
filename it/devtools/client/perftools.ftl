@@ -75,7 +75,7 @@ perftools-button-edit-settings = Modifica impostazioni…
 
 perftools-menu-more-actions-button =
     .title = Altre azioni
-perftools-menu-more-actions-restart-with-profiling = Riavvia { -brand-shorter-name } con la profilazione all’avvio attiva.
+perftools-menu-more-actions-restart-with-profiling = Riavvia { -brand-shorter-name } con la profilazione all’avvio attiva
 perftools-menu-more-actions-copy-for-startup = Copia variabili di ambiente per la profilazione all’avvio
 perftools-menu-more-actions-copy-for-perf-tests = Copia parametri per i test delle prestazioni
 
