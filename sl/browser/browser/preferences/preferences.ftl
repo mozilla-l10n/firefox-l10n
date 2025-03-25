@@ -1191,8 +1191,10 @@ addressbar-locbar-suggest-nonsponsored-option =
 addressbar-locbar-suggest-nonsponsored-desc = Prejemajte predloge s spleta, povezane z vašim iskanjem.
 addressbar-locbar-suggest-sponsored-option =
     .label = Predlogi sponzorjev
+addressbar-locbar-suggest-sponsored-desc = Podprite { -brand-short-name } z občasnimi sponzoriranimi predlogi
 addressbar-quickactions-learn-more = Več o tem
 addressbar-dismissed-suggestions-label = Skriti predlogi
+addressbar-restore-dismissed-suggestions-description = Obnovi opuščene predloge oglaševalcev in { -brand-short-name(sklon: "rodilnik") }.
 addressbar-restore-dismissed-suggestions-button =
     .label = Obnovi
 
