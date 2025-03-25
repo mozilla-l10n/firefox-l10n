@@ -18,7 +18,7 @@ about-webauthn-add-bio-enrollment-section-title = പുതിയ ചാൎത�
 
 ## Results label
 
-about-webauthn-results-success = വിജയിച്ചു!
+about-webauthn-results-success = വെന്നു!
 about-webauthn-results-general-error = പിഴവു്
 
 ## Labels
