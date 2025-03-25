@@ -3,4 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-mozilla-title-6-27 = മോസില്ലയുടെ പുസ്തകം, 6:27
-about-mozilla-from-6-27 = <strong>മോസ്സിലയുടെ പുസ്തകത്തിൽ നിന്നു്, 6:27
+about-mozilla-from-6-27 = <strong>മോസ്സിലയുടെ പുസ്തകത്തിൽ നിന്നു്</strong>, 6:27
