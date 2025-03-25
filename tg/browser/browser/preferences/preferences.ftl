@@ -1185,6 +1185,7 @@ addressbar-locbar-suggest-sponsored-option =
 addressbar-locbar-suggest-sponsored-desc = Дастгирӣ кардани «{ -brand-short-name }» бо пешниҳодҳои тасодуфӣ аз сарпарастон
 addressbar-quickactions-learn-more = Маълумоти бештар
 addressbar-dismissed-suggestions-label = Пешниҳодҳои пинҳоншуда
+addressbar-restore-dismissed-suggestions-description = Барқарор кардани пешниҳодҳои пинҳоншуда аз сарпарастон ва «{ -brand-short-name }».
 addressbar-restore-dismissed-suggestions-button =
     .label = Барқарор кардан
 
