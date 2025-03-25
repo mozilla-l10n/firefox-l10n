@@ -158,3 +158,9 @@ genai-onboarding-lechat-price = Ройгон; ҳисоби шахсӣ талаб
 
 ## Model Optin Component
 
+genai-model-optin-continue =
+    .label = Идома додан
+genai-model-optin-optout =
+    .label = Бекор кардан
+genai-model-optin-cancel =
+    .label = Бекор кардан

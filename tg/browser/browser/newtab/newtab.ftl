@@ -126,6 +126,8 @@ newtab-menu-section-unfollow = Бекор кардани обуна аз мав�
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
+newtab-menu-manage-sponsored-content = Идоракунии муҳтавои сарпарастӣ
+newtab-menu-our-sponsors-and-your-privacy = Сарпарастони мо ва махфияти шумо
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
