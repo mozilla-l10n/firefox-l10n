@@ -3,3 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 third-party-detail-version = ഫയൽ പതിപ്പു്
+third-party-detail-publisher = രചയിതാവു്
+third-party-th-process = നടപടി
+third-party-th-status = നില
+third-party-status-blocked = തടഞ്ഞവ

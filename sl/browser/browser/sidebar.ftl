@@ -60,6 +60,9 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Razširi stransko vrstico ob preletu z miško
+expand-on-hover-message =
+    .heading = Kmalu: razširitev ob premiku kazalca
+    .message = V eni od prihodnjih posodobitev boste lahko stransko vrstico razširili s premikom kazalca miške.
 
 ## Labels for sidebar context menu items
 

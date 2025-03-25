@@ -2,25 +2,45 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Page title
+about-processes-title = നടപടി മാനേജർ
+# The Actions column
+about-processes-column-action =
+    .title = നടപടികൾ
 
 ## Tooltips
 
+about-processes-shutdown-process =
+    .title = ടാബുകളെ ഇറക്കിയിട്ടു് നടപടിയെ നിൎത്തുന്നു
+about-processes-kill-process =
+    .title = നടപടി നിറുത്തുക
 about-processes-shutdown-tab =
     .title = ടാബു് അടയ്ക്കുക
 
 ## Column headers
 
+about-processes-column-name = പേരു്
+about-processes-column-memory-resident = ഓൎമ്മ
 
 ## Process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
 
+about-processes-file-process = ഫയലുകൾ ({ $pid })
+about-processes-extension-process = വിപുലീകരണങ്ങൾ ({ $pid })
+# Unknown process names
+# Variables:
+#    $pid (String) The process id of this process, assigned by the OS.
+#    $type (String) The raw type for this process.
+about-processes-unknown-process = മറ്റുള്ളവ: { $type } ({ $pid })
 
 ## Isolated process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
 ##    $origin (String) The domain name for this process.
 
+about-processes-web-isolated-process = { $origin } ({ $pid })
+about-processes-web-isolated-process-private = { $origin } — സ്വകാര്യം ({ $pid })
 
 ## Details within processes
 
