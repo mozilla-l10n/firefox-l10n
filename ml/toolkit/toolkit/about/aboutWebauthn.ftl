@@ -23,6 +23,7 @@ about-webauthn-results-general-error = പിഴവു്
 
 ## Labels
 
+about-webauthn-enrollment-name-label = ചാൎത്തൽപ്പേരു് (ആവിശ്യപ്പെട്ടതല്ല)
 about-webauthn-confirm-deletion-label = താങ്ങൾ മായ്ക്കുവാൻ പോവുന്നു:
 
 ## Buttons
