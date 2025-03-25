@@ -93,8 +93,11 @@ sidebar-pins-callout-cta-button = Васл кардани варақа
 ## Sidebar Onboarding Strings
 
 sidebar-customization-callout-1-title = Навори ҷонибӣ: нуқтаи асосии шумо барои абзорҳо ва варақаҳои шумо
+sidebar-customization-callout-1-subtitle = Навори ҷонибии «{ -brand-product-name }» ба шумо ба таърихи тамошобинӣ, варақаҳо аз дастгоҳҳои дигар ва чат-боти зеҳни сунъӣ «AI» дастрасии зудамалро медиҳад — дастрасӣ ба ҳамаи онҳо аз намуди асосии ягона нарафта.
 sidebar-customization-callout-callout-button = Фармоишдиҳии навори ҷонибӣ
 sidebar-customization-callout-dismiss-button = Пинҳон кардани навори ҷонибӣ
+sidebar-customization-callout-2-title = Навори ҷонибии «{ -brand-product-name }»-ро ба таври худ танзим намоед
+sidebar-customization-callout-2-subtitle = Абзорҳоро илова ё тоза намоед. Варақаҳои худро дар навори ҷонибӣ ҷойгир намоед. Чат-боти зеҳни сунъӣ «AI»-ро кӯшиш кунед. Он тавре, ки шумо навори ҷонибии худро танзим мекунед, ба шумо вобаста аст.
 
 ## Sidebar Callout Survey Strings
 
