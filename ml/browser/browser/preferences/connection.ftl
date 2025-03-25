@@ -62,3 +62,4 @@ connection-proxy-autologin-checkbox =
 connection-proxy-socks-remote-dns =
     .label = SOCKS v5 ഉപയോഗിക്കുമ്പോഴുള്ള പ്രോക്സി DNS
     .accesskey = d
+connection-dns-over-https-custom-label = ഇഷ്ടാനുസൃതം

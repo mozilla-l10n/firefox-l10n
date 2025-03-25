@@ -124,6 +124,19 @@ autofill-edit-card-title2 = ചീട്ടു് തിരുത്തുക
 autofill-card-number = ചീട്ടക്കം
 autofill-card-invalid-number = സാധുവായൊരു ചീട്ടു് അക്കം നല്കുക
 autofill-card-name-on-card = ചീട്ടിലുള്ള പേരു്
+autofill-card-expires-month = കാലാവധി തീരുന്ന മാസം
+autofill-card-expires-year = കാലാവധി തീരുന്ന കൊല്ലം
+autofill-card-billing-address = പണമടയ്ക്കൽ വിലാസം
+autofill-card-network = ചീട്ടുതരം
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
+autofill-card-network-amex = അമേരിക്കൻ എക്സ്പ്രസ്
+autofill-card-network-cartebancaire = കാർട്ടെ ബാൻകെയർ
+autofill-card-network-diners = ഡൈനേഴ്സ് ക്ലബ്
+autofill-card-network-discover = ഡിസ്ക്കവർ
+autofill-card-network-jcb = ജെ.സി.ബി
+autofill-card-network-mastercard = മാസ്റ്റർകാർഡ്
+autofill-card-network-mir = മിർ
+autofill-card-network-unionpay = യൂണിയൻ പേ
+autofill-card-network-visa = വിസ

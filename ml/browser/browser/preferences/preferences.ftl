@@ -114,6 +114,14 @@ open-new-link-as-tabs =
 ask-on-close-multiple-tabs =
     .label = ഒരുപാടു് ടാബുകൾ അടക്കുന്നതിനു് മുൻപു് ഒരു വട്ടം ചോദിക്കുക
     .accesskey = ച
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = { $quitKey }-കൂടെ പുറത്തുകടക്കുന്നതിനു് മുൻപു് ചോദിക്കുക
+    .accesskey = ച
 warn-on-open-many-tabs =
     .label = ഒന്നിലധികം കിളിവാതിലുകള്‍ തുറക്കുന്നത് { -brand-short-name } നെ പതുക്കയാക്കിയേക്കാം
     .accesskey = d
@@ -162,6 +170,7 @@ browser-layout-show-sidebar =
 ## General Section - Language & Appearance
 
 language-and-appearance-header = ഭാഷയും രൂപവും
+preferences-web-appearance-header = വെബിട പുരംകാഴ്ച
 preferences-web-appearance-choice-auto = തന്നെതാനെ
 preferences-web-appearance-choice-light = തെളിച്ചം
 preferences-web-appearance-choice-dark = ഇരുണ്ടതു്
@@ -171,6 +180,15 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+preferences-contrast-control-use-platform-settings =
+    .label = തന്നെതാനെ (വ്യവസ്ഥ ക്രമീകരണങ്ങൾ ഉപയോഗിക്കുക)
+    .accesskey = ത
+preferences-contrast-control-off =
+    .label = അണച്ചതു്
+    .accesskey = അ
+preferences-contrast-control-custom =
+    .label = ഇഷ്ടാനുസൃതം
+    .accesskey = ഇ
 preferences-colors-header = നിറങ്ങള്‍
 preferences-fonts-header = അക്ഷരശൈലികൾ
 default-font = തനതായ ഫോണ്ടാക്കുക

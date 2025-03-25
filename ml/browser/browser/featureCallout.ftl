@@ -54,9 +54,12 @@ split-dismiss-button-manage-settings-option =
 
 sidebar-button-callout-title = അണിവക്കത്തിൽ ടാബുതലക്കെട്ടുകൾ കാണിക്കുക
 sidebar-button-callout-subtitle = ടാബുത്തലക്കെട്ടുകളെ കാണാനായി അണിവക്ക ബട്ടൺ വഴി അണിവക്കത്തിനെ വലുതാക്കുക.
+sidebar-button-callout-vertical-tabs = ടാബുകളെ കാണിക്കാൻ കരുപ്പട്ടയിലുള്ള അണിവക്കബട്ടണിനെ തിരഞ്ഞെടുക്കുക
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = ടാബുകൾ ഇച്ചിരി കൂടെപ്പോയോ?
+vertical-tabs-callout-2-cta-button = ഇപ്പോൾ ശ്രമിച്ചുന്നോക്കുക
 
 ## Sidebar Vertical Tabs Pinning Strings
 
@@ -64,6 +67,7 @@ sidebar-pins-callout-cta-button = ടാബിൽ കുത്തിസൂചി
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-callout-button = അണിവക്കത്തിനെ ഇഷ്ടമ്പോലെയാക്കുക
 sidebar-customization-callout-dismiss-button = അണിവക്കം മറയ്ക്കുക
 
 ## Sidebar Callout Survey Strings

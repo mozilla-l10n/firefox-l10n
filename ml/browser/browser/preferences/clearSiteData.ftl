@@ -42,3 +42,6 @@ clear-site-data-cache-empty =
     .label = കാഷ് ചെയ്ത ഉള്ളടക്കങ്ങൾ
     .accesskey = W
 clear-site-data-cache-info = വെബ്സൈറ്റുകൾ ചിത്രങ്ങളും ഡാറ്റയും വീണ്ടും ലോഡ് ചെയ്യേണ്ടതുണ്ട്
+clear-site-data-dialog =
+    .buttonlabelaccept = വെടിപ്പാക്കുക
+    .buttonaccesskeyaccept = ക

@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+colors-dialog2 =
+    .title = നിറങ്ങൾ
+    .style = min-width: 41em;
 colors-close-key =
     .key = w
 colors-page-override = പേജ് വ്യക്തമാക്കിയ നിറങ്ങളെ അസാധുവാക്കി, മുകളിലുള്ള നിങ്ങളുടെ തിരഞ്ഞെടുക്കലുകൾ ഉപയോഗിക്കുക
