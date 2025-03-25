@@ -91,6 +91,7 @@ sidebar-pins-callout-cta-button = Васл кардани варақа
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Навори ҷонибӣ: нуқтаи асосии шумо барои абзорҳо ва варақаҳои шумо
 sidebar-customization-callout-callout-button = Фармоишдиҳии навори ҷонибӣ
 sidebar-customization-callout-dismiss-button = Пинҳон кардани навори ҷонибӣ
 
