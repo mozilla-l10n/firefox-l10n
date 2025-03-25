@@ -271,6 +271,7 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Мавзуъҳои «{ -brand-short-name }»-ро дар бахши <a data-l10n-name="themes-link">Васеъшавиҳо ва мавзуъҳо</a> идора кунед
+preferences-contrast-control-header = Идоракунии тазоди рангҳо
 preferences-contrast-control-use-platform-settings =
     .label = Худкор (истифода аз танзимоти низом)
     .accesskey = Х

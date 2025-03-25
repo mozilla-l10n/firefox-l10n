@@ -11,6 +11,7 @@ label-more-information = Маълумоти бештар: Хатои { $bug }
 label-overrides = Ивазшавии омили корбарӣ
 text-disabled-in-about-config = Ин хусусияти дар «about:config» ғайрифаъол карда шуд
 text-no-interventions = Ягон дахолат истифода нашудааст
+text-page-title = Мутобиқати сомона
 text-no-overrides = Ягон ивазшавии UA истифода нашудааст
 text-title = about:compat
 
