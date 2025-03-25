@@ -504,6 +504,9 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = അഡ്ഡ്രസ്സ് ബാറിലെ ഫലങ്ങളിൽ തിരയൽ നിർദ്ദേശങ്ങൾ ദൃശ്യമാക്കുക
     .accesskey = I
+search-show-suggestions-private-windows =
+    .label = തിരയൽ നിർദ്ദേശം സ്വകാര്യ ജാലകങ്ങളിൽ കാണിക്കുക
+suggestions-addressbar-settings-generic2 = മറ്റെ വിലാസപ്പട്ട നിൎദ്ദേശങ്ങൾക്കായി ക്രമീകരണങ്ങൾ മാറ്റുക
 search-suggestions-cant-show = സ്ഥാനപട്ടയില്‍ തെരച്ചില്‍ നിര്‍ദ്ദേശങ്ങള്‍ കാണിക്കുന്നതല്ല. കാരണം, താങ്കള്‍ { -brand-short-name } ക്രമീകരിച്ചിരിയ്ക്കുന്നതു് നാള്‍വഴി ഒരിക്കലും ഓര്‍ക്കാതിരിയ്ക്കാനാണു്.
 search-one-click-header2 = കുറുക്കുവഴികളിൽ തിരയുക
 search-one-click-desc = നിങ്ങൾ കീവേഡ് നൽകുന്നത് ആരംഭിക്കുമ്പോൾ വിലാസ ബാറിനും സെർച്ച് ബാറിനും താഴെയുള്ള ഇതര തിരയൽ എഞ്ചിനുകൾ തിരഞ്ഞെടുക്കുക.
@@ -547,6 +550,9 @@ containers-remove-button =
 
 sync-signedout-caption = നിങ്ങളുടെ വെബിനെ നിങ്ങളുടെ കൂടെ കൊണ്ട് പോവുക
 sync-signedout-description2 = താങ്ങളുടെ അടയാളക്കുറിപ്പുകളും നാള്‍വഴിയും ടാബുകളും രഹസ്യവാക്കുകളും ആഡോണുകളും ക്രമീകരണങ്ങളും താങ്ങളുടെ എല്ല ഉപകരണങ്ങൾ സമന്വയിപ്പിക്കുക.
+sync-signedout-account-signin3 =
+    .label = സമന്വയിപ്പിക്കാൻ പ്രവേശിക്കുക
+    .accesskey = പ
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -564,6 +570,8 @@ sync-profile-picture =
 sync-profile-picture-with-alt =
     .tooltiptext = പ്രൊഫൈല്‍ ചിത്രം മാറ്റുക
     .alt = പ്രൊഫൈല്‍ ചിത്രം മാറ്റുക
+sync-profile-picture-account-problem =
+    .alt = രൂപരേഖപ്പടം
 fxa-login-rejected-warning =
     .alt = മുന്നറിയിപ്പു്
 sync-sign-out =
@@ -657,6 +665,10 @@ sync-engine-creditcards =
     .label = ക്രഡിറ്റ് കാർഡുകൾ
     .tooltiptext = പേര്, നമ്പർ, കാലാവധി
     .accesskey = C
+sync-engine-payment-methods2 =
+    .label = പണമടക്കൽ മുറകൾ
+    .tooltiptext = പേരുകളും ചീട്ടക്കങ്ങളും കാലാവധി തീരുന്ന തീയതിയും
+    .accesskey = പ
 sync-engine-addons =
     .label = ആഡ്-ഓണുകള്‍
     .tooltiptext = ഉപരിഫലക ഫയൎഫോക്സിനുള്ള വിപുലീകരണങ്ങളും അലങ്കാരങ്ങളും
@@ -718,13 +730,19 @@ forms-windows-sso-learn-more-link = കൂടുതലറിയുക
 
 ## OS Authentication dialog
 
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
+pane-privacy-autofill-header = തന്നെതാനെ പൂരിപ്പിക്കുക
 autofill-addresses-checkbox = വിലാസങ്ങൾ കരുതവച്ചുിട്ടു് പൂരിപ്പിക്കുക
     .accesskey = വ
 autofill-saved-addresses-button = കരുതിവച്ച വിലാസങ്ങൾ
     .accesskey = വ
+autofill-payment-methods-checkbox-message = പണമടക്കൽമുറകൾ കരുതിവച്ചിട്ടു് പൂരിപ്പിക്കുക
+    .accesskey = മ
+autofill-saved-payment-methods-button = കരുതിവച്ച പണമടക്കൽമുറകൾ
+    .accesskey = പ
 
 ## Privacy Section - History
 
@@ -809,6 +827,15 @@ addressbar-locbar-openpage-option =
 addressbar-locbar-shortcuts-option =
     .label = കുറുക്കുവഴികൾ
     .accesskey = ക
+addressbar-locbar-topsites-option =
+    .label = ഏറ്റവും മികച്ച വെബിടങ്ങൾ
+    .accesskey = വ
+addressbar-locbar-engines-option =
+    .label = തിരച്ചിൽയന്ത്രങ്ങൾ
+    .accesskey = ത
+addressbar-locbar-quickactions-option =
+    .label = ഉടൻ നടപടികൾ
+    .accesskey = ഉ
 addressbar-suggestions-settings = സെര്‍ച്ച് എഞ്ചിൻ നിർദ്ദേശങ്ങളുടെ പ്രഫറന്‍സ് മാറ്റുക
 addressbar-quickactions-learn-more = കൂടുതല്‍ അറിയുക
 
