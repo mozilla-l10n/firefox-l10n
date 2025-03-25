@@ -52,6 +52,8 @@ shopping-message-bar-generic-error =
 
 ## Strings for the settings card
 
+shopping-settings-label =
+    .label = ການຕັ້ງຄ່າ
 
 ## Strings for the adjusted rating component
 

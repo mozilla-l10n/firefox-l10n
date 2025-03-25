@@ -21,6 +21,7 @@ neterror-pref-reset-button = ກູ້ຄືນການຕັ້ງຄ່າເ
 neterror-return-to-previous-page-button = ກັບຄືນ
 neterror-try-again-button = ລອງໃຫມ່ອີກຄັ້ງ
 neterror-add-exception-button = ສືບຕໍ່ສໍາລັບເວັບໄຊທ໌ນີ້
+neterror-settings-button = ປ່ຽນການຕັ້ງຄ່າ DNS
 neterror-trr-continue-this-time = ສືບຕໍ່ຕອນນີ້
 neterror-disable-native-feedback-warning = ສືບຕໍ່ຢູ່ສະເໝີ
 

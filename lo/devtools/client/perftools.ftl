@@ -19,6 +19,7 @@
 
 ##
 
+perftools-devtools-settings-label = ການຕັ້ງຄ່າ
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
