@@ -44,6 +44,16 @@ about-processes-web-isolated-process-private = { $origin } — സ്വകാ�
 
 ## Details within processes
 
+# Thread details
+# Variables:
+#   $name (String) The name assigned to the thread.
+#   $tid (String) The thread id of this thread, assigned by the OS.
+about-processes-thread-name-and-id = { $name }
+    .title = നൂലിന്റെ തിരിച്ചറിയൽച്ചാൎത്തു് : { $tid }
+# Tab
+# Variables:
+#   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
+about-processes-tab-name = ടാബു് : { $name }
 
 ## Utility process actor names
 
@@ -57,6 +67,8 @@ about-processes-web-isolated-process-private = { $origin } — സ്വകാ�
 ##    $unit (String) The unit in which to display $total. See the definitions
 ##                   of `duration-unit-*`.
 
+# Special case: data is not available yet.
+about-processes-cpu-user-and-kernel-not-ready = (അളക്കൽ)
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -75,3 +87,9 @@ about-processes-web-isolated-process-private = { $origin } — സ്വകാ�
 
 ## Memory units
 
+memory-unit-KB = കെ.ബി.
+memory-unit-MB = എം.ബി.
+memory-unit-GB = ജി.ബി.
+memory-unit-TB = ടി.ബി.
+memory-unit-PB = പി.ബി
+memory-unit-EB = ഇ.ബി.
