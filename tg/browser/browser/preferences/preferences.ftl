@@ -272,6 +272,7 @@ preferences-web-appearance-override-warning2 =
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Мавзуъҳои «{ -brand-short-name }»-ро дар бахши <a data-l10n-name="themes-link">Васеъшавиҳо ва мавзуъҳо</a> идора кунед
 preferences-contrast-control-header = Идоракунии тазоди рангҳо
+preferences-contrast-control-description = Сомонаҳо дорои рангҳои гуногун барои пешзамина ва пасзамина мебошанд. Браузери «{ -brand-short-name }»-ро барои истифодаи рангҳои яксон байни сомонаҳо ба самти хонданбоби такмилёфта танзим намоед.
 preferences-contrast-control-use-platform-settings =
     .label = Худкор (истифода аз танзимоти низом)
     .accesskey = Х
@@ -1138,6 +1139,8 @@ addressbar-header = Навори нишонӣ
 addressbar-suggest = Ҳангоми истифодаи навори нишонӣ, имконоти зерин пешниҳод карда мешавад
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Навори нишонӣ — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Навъи пешниҳодҳоеро, ки дар навори нишонӣ пайдо мешаванд, интихоб намоед.
 # When Firefox Suggest is enabled, a "Learn more" link appears at the end of
 # `addressbar-suggest-firefox-suggest`.
 addressbar-locbar-firefox-suggest-learn-more = Маълумоти бештар
