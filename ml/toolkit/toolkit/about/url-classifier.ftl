@@ -49,7 +49,7 @@ url-classifier-enabled = സജ്ജമാണ്
 url-classifier-disabled = സജ്ജമല്ല
 url-classifier-updating = പുതുക്കുന്നു
 url-classifier-cannot-update = പുതുക്കാന്‍ പറ്റിയില്ല
-url-classifier-success = വിജയകരം
+url-classifier-success = വെന്നു
 
 ## Variables
 ##   $error (string) - Error message
