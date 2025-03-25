@@ -386,6 +386,7 @@ newtab-wallpaper-starry-canyon = Шаби ситоразори кабуд
 newtab-wallpaper-suspension-bridge = Акси пули хокистариранги овезон дар давоми рӯз
 newtab-wallpaper-sand-dunes = Хомаҳои регии сафед
 newtab-wallpaper-palm-trees = Акси сиёҳи дарахтҳои ҷавзи ҳиндӣ дар соати тиллоӣ
+newtab-wallpaper-blue-flowers = Аксҳои наздиктарини гулҳо бо гулбаргҳои кабуд дар гулгулшукуфоӣ
 newtab-wallpaper-forest-trees = Дарахтҳои бо туман пӯшидашуда
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
