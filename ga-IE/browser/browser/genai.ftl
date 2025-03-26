@@ -46,10 +46,13 @@ genai-onboarding-select-primary = Tosaigh an comhrá
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
 
+genai-onboarding-lechat-price = Tá cuntas in aisce ag teastáil
 
 ## Model Optin Component
 
 genai-model-optin-continue =
     .label = Lean ar aghaidh
 genai-model-optin-optout =
+    .label = Cealaigh
+genai-model-optin-cancel =
     .label = Cealaigh
