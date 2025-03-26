@@ -248,20 +248,46 @@ quickactions-cmd-screenshot = gabháil scáileáin
 # Opens about:preferences
 quickactions-settings2 = Bainistigh na socruithe
 quickactions-cmd-settings = socruithe, sainroghanna, roghanna
+# Opens a SUMO article explaining how to update the browser
+quickactions-update = Nuashonraigh { -brand-short-name }
+quickactions-cmd-update = Nuashonraigh
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = Cealaigh
+    .accesskey = C
+bookmark-panel-save-button =
+    .label = Taisc
+# Width of the bookmark panel.
+# Should be large enough to fully display the Done and
+# Cancel/Remove Bookmark buttons.
+bookmark-panel =
+    .style = min-width: 23em
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-site-information = Faisnéis suímh i gcomhair { $host }
+identity-connection-not-secure = Níl an nasc slán
+identity-connection-secure = Tá an nasc slán
+identity-connection-failure = Theip ar an nasc
 identity-connection-internal = Is leathanach slán { -brand-short-name } é seo.
 identity-connection-file = Stóráiltear an leathanach seo ar do ríomhaire.
+identity-connection-associated = Luchtaítear an leathanach seo ó leathanach eile.
 identity-extension-page = Lódáiltear an leathanach seo ó eisínteacht.
 identity-active-blocked = Chuir { -brand-short-name } bac ar chodanna den leathanach seo nach bhfuil slán.
 identity-passive-loaded = Tá codanna den leathanach seo neamhshlán (léithéidí íomhánna).
 identity-active-loaded = Tá cosaint díchumasaithe agat ar an leathanach seo.
 identity-weak-encryption = Úsáideann an leathanach seo criptiú lag.
 identity-insecure-login-forms = D'fhéadfadh sonraí logáil isteach bheith i mbaol ar an leathanach seo.
+identity-https-only-dropdown-on =
+    .label = Ar siúl
+identity-https-only-dropdown-off =
+    .label = As
+identity-https-only-dropdown-off-temporarily =
+    .label = As go sealadach
 identity-permissions-reload-hint = Ní mór duit an leathanach a athlódáil chun na hathruithe a chur i bhfeidhm.
 identity-clear-site-data =
     .label = Glan na Fianáin agus Sonraí Suímh...
@@ -291,26 +317,44 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Íoslaghdaigh
+browser-window-maximize-button =
+    .tooltiptext = Uasmhéadaigh
 browser-window-close-button =
     .tooltiptext = Dún
 
 ## Tab actions
 
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = AG SEINM
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = BALBHAITHE
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-unblock =
+    { $count ->
+        [1] SEINN AN CHLUAISÍN
+       *[other] PLAY { $count } TABS
+    }
 
 ## Bookmarks toolbar items
 
 
 ## WebRTC Pop-up notifications
 
+popup-select-speaker-icon =
+    .tooltiptext = Callairí
+popup-select-window-or-screen =
+    .label = Fuinneog nó scáileán:
+    .accesskey = F
 popup-all-windows-shared = Comhroinnfear gach fuinneog infheicthe ar do scáileáin.
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-proceed-to-tab =
+    .label = Lean ar aghaidh go Cluaisín
 
 ## DevTools F12 popup
 
@@ -412,15 +456,67 @@ urlbar-result-action-copy-to-clipboard = Cóipeáil
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
+# The string returned for an undefined calculator result such as when dividing by 0
+urlbar-result-action-undefined-calculator-result = gan sainmhíniú
+# Shows the result of a formula expression being calculated, in scientific notation.
+# The last = sign will be shown as part of the result (e.g. "= 1.0e17").
+# Variables
+#  $result (String): the string representation for a result in scientific notation
+#  (e.g. "1.0e17").
+urlbar-result-action-calculator-result-scientific-notation = = { $result }
+# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
+# The last = sign will be shown as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "false", maximumFractionDigits: 8) }
+# Shows the result of a formula expression being calculated, to a maximum of 9 significant
+# digits. This is used for numbers < 1.
+# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 
 ## Strings used for buttons in the urlbar
 
+# Label prompting user to search with a particular search engine.
+#  $engine (String): the name of a search engine that searches a specific site
+urlbar-result-search-with = Cuardaigh le { $engine }
+# Label for the urlbar result row, prompting the user to use a local keyword to enter search mode.
+#  $keywords (String): the restrict keyword to enter search mode.
+#  $localSearchMode (String): the local search mode (history, tabs, bookmarks,
+#  or actions) to search with.
+urlbar-result-search-with-local-search-mode = { $keywords } - Cuardaigh { $localSearchMode }
+# Label for the urlbar result row, prompting the user to use engine keywords to enter search mode.
+#  $keywords (String): the default keyword and user's set keyword if available
+#  $engine (String): the name of a search engine
+urlbar-result-search-with-engine-keywords = { $keywords } - Cuardaigh le { $engine }
+urlbar-searchmode-dropmarker =
+    .tooltiptext = Roghnaigh inneall cuardaigh
 urlbar-searchmode-bookmarks =
     .label = Leabharmharcanna
 urlbar-searchmode-tabs =
     .label = Cluaisíní
 urlbar-searchmode-history =
     .label = Oireas
+urlbar-searchmode-actions =
+    .label = Gníomhartha
+urlbar-searchmode-exit-button =
+    .tooltiptext = Dún
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-description = An uair seo, cuardaigh le:
+urlbar-searchmode-popup-search-settings-menuitem =
+    .label = Socruithe Cuardaigh
+urlbar-searchmode-popup-search-settings = Socruithe Cuardaigh
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }, roghnaigh inneall cuardaigh
+    .tooltiptext = { $engine }, roghnaigh inneall cuardaigh
+urlbar-searchmode-button-no-engine =
+    .label = Níor roghnaíodh aicearra. Roghnaigh aicearra.
+    .tooltiptext = Níor roghnaíodh aicearra. Roghnaigh aicearra.
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -429,15 +525,46 @@ urlbar-searchmode-history =
 urlbar-result-action-search-bookmarks = Cuardaigh sna Leabharmharcanna
 urlbar-result-action-search-history = Oireas an Chuardaigh
 urlbar-result-action-search-tabs = Cuardaigh sna Cluaisíní
+urlbar-result-action-search-actions = Gníomhartha Cuardaigh
+# Label for a quickaction result used to switch to an open tab group.
+#  $group (String): the name of the tab group to switch to
+urlbar-result-action-switch-to-tabgroup = Athraigh go { $group }
+# Label for a quickaction result used to re-opan a saved tab group.
+#  $group (String): the name of the tab group to re-open
+urlbar-result-action-open-saved-tabgroup = Oscail { $group }
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above the "Firefox Suggest" (bookmarks/history) group in the
+# urlbar results.
+urlbar-group-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }
 # A label shown above the search suggestions group in the urlbar results. It
 # should use sentence case.
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = Moltaí de chuid { $engine }
+# A label shown above Quick Actions in the urlbar results.
+urlbar-group-quickactions =
+    .label = Gníomhartha Gasta
+# A label shown above the recent searches group in the urlbar results.
+# Variables
+#  $engine (String): the name of the search engine used to search.
+urlbar-group-recent-searches =
+    .label = Cuardaigh le Déanaí
+# The header shown above trending results.
+# Variables:
+#  $engine (String): the name of the search engine providing the trending suggestions
+urlbar-group-trending =
+    .label = Ag treochtáil ar { $engine }
+# The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show =
+    .label = Ná taispeáin cuardaigh treochta
+    .accesskey = N
+urlbar-result-menu-trending-why =
+    .label = Cén fáth a bhfuil seo á fheiceáil agam?
+    .accesskey = C
 
 ## Reader View toolbar buttons
 
@@ -452,6 +579,8 @@ reader-view-close-button =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+picture-in-picture-enable-toggle =
+    .label = Cumasaigh ar aon nós
 
 ## Full Screen and Pointer Lock UI
 
@@ -563,12 +692,22 @@ toolbar-button-new-private-window =
 
 eme-notifications-drm-content-playing = Baineann roinnt comhad fuaime nó físe ar an suíomh seo leas as bogearraí DRM, rud a chuireann teorainn leis na rudaí is féidir le { -brand-short-name } a dhéanamh leis.
 eme-notifications-drm-content-playing-manage = Bainistigh na socruithe
+eme-notifications-drm-content-playing-dismiss = Ruaig
+eme-notifications-drm-content-playing-dismiss-accesskey = R
 
 ## Password save/update panel
 
+panel-save-update-username = Ainm an Úsáideora
+panel-save-update-password = Focal Faire
 
 ##
 
+# "More" item in macOS share menu
+menu-share-more =
+    .label = Tuilleadh…
+menu-share-copy-link =
+    .label = Cóipeáil an Nasc
+    .accesskey = C
 ui-tour-info-panel-close =
     .tooltiptext = Dún
 
@@ -612,11 +751,14 @@ navbar-overflow =
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
-    .label = Priontáil
-    .tooltiptext = Priontáil an leathanach seo… ({ $shortcut })
+    .label = Clóbhuail
+    .tooltiptext = Clóbhuail an leathanach seo… ({ $shortcut })
 navbar-home =
     .label = Baile
     .tooltiptext = Leathanach Baile { -brand-short-name }
+navbar-library =
+    .label = Leabharlann
+    .tooltiptext = Féach ar an oireas, na ceanáin atá i dtaisce, agus tuilleadh
 navbar-search =
     .title = Cuardaigh
 # Name for the tabs toolbar as spoken by screen readers. The word
@@ -632,6 +774,7 @@ tabs-toolbar-list-all-tabs =
 
 ## Infobar shown at startup to suggest session-restore
 
+restore-session-startup-suggestion-button = Taispeáin dom conas
 
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
@@ -642,24 +785,43 @@ data-reporting-notification-message = Seolann { -brand-short-name } sonraí chui
 data-reporting-notification-button =
     .label = Roghnaigh Cad a Roinnfidh Mé
     .accesskey = C
+content-analysis-panel-title = Cosaint sonraí
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = Breiseáin
+    .tooltiptext = Breiseáin
 
 ## Unified extensions button when permission(s) are needed.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-permissions-needed =
+    .label = Breiseáin
+    .tooltiptext = Breiseáin
 
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-quarantined =
+    .label = Breiseáin
+    .tooltiptext = Breiseáin
 
 ## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-blocklisted =
+    .label = Breiseáin
+    .tooltiptext = Breiseáin
 
 ## Private browsing reset button
 
+reset-pbm-panel-always-ask-checkbox =
+    .label = Fiafraigh díom i gcónaí
+    .accesskey = F
+reset-pbm-panel-cancel-button =
+    .label = Cealaigh
+    .accesskey = C
 
 ## Autorefresh blocker
 
