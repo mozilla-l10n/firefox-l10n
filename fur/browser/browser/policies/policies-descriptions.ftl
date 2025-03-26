@@ -67,9 +67,9 @@ policy-DNSOverHTTPS = Configure DNS sore HTTPS.
 policy-DontCheckDefaultBrowser = Disative il control pal navigadôr predefinît al inviament.
 policy-DownloadDirectory = Stabilìs e bloche la cartele pai file discjariâts.
 # “lock” means that the user won’t be able to change this setting
-policy-EnableTrackingProtection = Abilite o disabilite il bloc dai contignûts e, in maniere opzionâl, blochilu.
+policy-EnableTrackingProtection = Abilite o disabilite il bloc dai contignûts e, in maniere facoltative, blochilu.
 # “lock” means that the user won’t be able to change this setting
-policy-EncryptedMediaExtensions = Abilite o disabilite lis estensions multimediâls cifradis (Encrypted Media Extensions) e, in maniere opzionâl, blochilis.
+policy-EncryptedMediaExtensions = Abilite o disabilite lis estensions multimediâls cifradis (Encrypted Media Extensions) e, in maniere facoltative, blochilis.
 policy-ExemptDomainFileTypePairsFromFileTypeDownloadWarnings = Disabilite i avîs associâts ae estension dai files par determinâts gjenars di file su cierts dominis.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
@@ -83,7 +83,7 @@ policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Cuant che si scrîf une 
 policy-Handlers = Configure i gjestôrs di aplicazion predefinîts.
 policy-HardwareAcceleration = Se false (fals), distude la acelerazion vie hardware.
 # “lock” means that the user won’t be able to change this setting
-policy-Homepage = Stabilìs e, in maniere opzionâl, bloche la pagjine iniziâl.
+policy-Homepage = Stabilìs e, in maniere facoltative, bloche la pagjine iniziâl.
 policy-HttpAllowlist = Origjins che no saran inzornadis a HTTPS.
 policy-HttpsOnlyMode = Permet la ativazion de modalitât Dome-HTTPS.
 policy-InstallAddonsPermission = Permet a cierts sîts web di instalâ components adizionâi.

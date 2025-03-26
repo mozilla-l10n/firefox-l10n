@@ -71,7 +71,7 @@ about-glean-label-for-ping-names =
     il ping <code>metrics</code>.
 # An in-line check box precedes this string.
 about-glean-label-for-log-pings =
-    (Opzionâl. Segne la casele di control se tu desideris che inviant i pings chescj a sedin ancje regjistrâts intun regjistri.
+    (Facoltatîf. Segne la casele di control se tu desideris che inviant i pings chescj a sedin ancje regjistrâts intun regjistri.
     Ti coventarà a <a data-l10n-name="enable-logging-link">ativâ la regjistrazion</a>.)
 # Variables
 #   $debug-tag (String): The user-set value of the debug tag input on this page. Like "about-glean-kV"
