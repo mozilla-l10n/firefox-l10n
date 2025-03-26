@@ -743,7 +743,6 @@ urlbar-searchmode-exit-button =
 urlbar-searchmode-popup-description = Adesso cerca con:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Impostazioni ricerca
-urlbar-searchmode-popup-search-settings = Impostazioni ricerca
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

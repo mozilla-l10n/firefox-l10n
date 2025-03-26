@@ -453,7 +453,6 @@ tab-groups-onboarding-create-group-no-alltabs-button-title = Trova i tuoi gruppi
 tab-groups-onboarding-saved-groups-title-2 = Quando chiudi un gruppo di schede, puoi riaprirlo qui in qualsiasi momento.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Trova i gruppi che hai chiuso cercandoli nella barra degli indirizzi.
 tab-groups-onboarding-session-restore-title = Riapri qui i gruppi di schede in qualsiasi momento.
-tab-groups-onboarding-saved-groups-title = Se chiudi un gruppo di schede, puoi riaprirlo qui in qualsiasi momento.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages
