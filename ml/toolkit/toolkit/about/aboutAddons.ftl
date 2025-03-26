@@ -43,6 +43,9 @@ detail-last-updated =
 addon-detail-description-expand = കൂടുതൽ കാണിക്കുക
 addon-detail-description-collapse = കുറച്ച് കാണിക്കുക
 detail-contributions-description = ചെറിയ സംഭാവനകള്‍ നല്‍കി ഈ ആഡ്-ഓണിനുള്ള പുരോഗമനത്തിനായി സഹായിയ്ക്കുവാന്‍ ഡവലപ്പര്‍ അഭ്യര്‍ത്ഥിയ്ക്കുന്നു.
+detail-contributions-button = പങ്കെടുക്കുക
+    .title = ഈ ആഡ-ഓണിന്റെ വളൎച്ചയിലു് പങ്കെടുക്കുക
+    .accesskey = പ
 detail-update-type =
     .value = ഓട്ടോമാറ്റിക്ക് പരിഷ്കരണങ്ങള്‍
 detail-update-default =
@@ -237,9 +240,34 @@ created-by-author = <a data-l10n-name="author">{ $author }</a> നാൽ
 #   $dailyUsers (number) - The number of daily users.
 user-count = ഉപയോക്താക്കൾ: { $dailyUsers }
 install-extension-button = { -brand-product-name }-ലോട്ടു് ചേൎക്കുക
+install-theme-button = അലങ്കാരം സ്ഥാപിക്കുക
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = കൈകാര്യം ചെയ്യുക
+find-more-addons = കൂടുതൽ ആഡ്-ഓണുകൾ കണ്ടെത്തുക
+find-more-themes = ഇനിയും അലങ്കാരങ്ങൾ കണ്ടെത്തുക
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = കൂടുതല്‍ തെരഞ്ഞെടുപ്പുകള്‍
 
 ## Add-on actions
 
+report-addon-button = വിവരം അറിയിക്കുക
+remove-addon-button = മാറ്റുക
+# The link will always be shown after the other text.
+remove-addon-disabled-button = മാറ്റാൻ പറ്റത്തില്ല, <a data-l10n-name="link">എന്തിന?</a>
+disable-addon-button = പ്രവര്‍ത്തനരഹിതമാക്കുക
+enable-addon-button = പ്രവർത്തനക്ഷമമാക്കുക
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = പ്രവർത്തനക്ഷമമാക്കുക
+details-addon-button = വിശദാംശങ്ങള്‍
+release-notes-addon-button = വെളിപ്പെടുത്തൽക്കുറിപ്പുകൾ
+permissions-addon-button = അനുമതികൾ
+extension-disabled-heading = പ്രവര്‍ത്തനരഹിതം
+theme-disabled-heading2 = കരുതിവച്ച അലങ്കാരങ്ങൾ
 addon-detail-version-label = പതിപ്പു്
 addon-detail-last-updated-label = ഏറ്റവും ഒടുവില്‍ പുതുക്കിയതു്
 addon-detail-homepage-label = ആമുഖതാൾ
