@@ -19,6 +19,7 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Cuardaigh le { $engine } nó cuir isteach seoladh
 about-private-browsing-handoff-text-no-engine = Cuardaigh nó cuir isteach seoladh
 about-private-browsing-not-private = Níl tú i bhfuinneog phríobháideach faoi láthair.
+about-private-browsing-learn-more-link = Tuilleadh eolais
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
@@ -34,6 +35,8 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Dún
+about-private-browsing-promo-close-button =
+    .title = Dún
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
