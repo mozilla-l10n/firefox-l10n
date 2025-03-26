@@ -243,6 +243,9 @@ tail-fox-spotlight-secondary-button = ບໍ່ແມ່ນຕອນນີ້
 
 ## Root Certificate Succession Infobar
 
+root-certificate-succession-infobar-secondary-button =
+    .label = ພາຍຫຼັງ
+    .accesskey = L
 
 ## Root Certificate Succession Windows Background Notification
 

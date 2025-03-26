@@ -13,6 +13,8 @@ newtab-personalize-icon-label =
     .aria-label = ປັບແຕ່ງແຖບໃໝ່
 newtab-personalize-dialog-label =
     .aria-label = ປັບແຕ່ງສ່ວນຕົວ
+newtab-logo-and-wordmark =
+    .aria-label = { -brand-full-name }
 
 ## Search box component.
 

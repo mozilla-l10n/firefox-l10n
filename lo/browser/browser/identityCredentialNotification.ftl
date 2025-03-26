@@ -26,3 +26,4 @@ identity-credential-sign-in-button =
     .label = ລົງຊື່ເຂົ້າໃຊ້
     .accesskey = S
 identity-credential-policy-title = ໃຊ້ { $provider } ເປັນຜູ້ໃຫ້ບໍລິການເຂົ້າສູ່ລະບົບ
+identity-credential-policy-description = ການເຂົ້າສູ່ລະບົບ { $host } ດ້ວຍບັນຊີ { $provider } ແມ່ນຂຶ້ນກັບ <label data-l10n-name="privacy-url">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ</label> ແລະ <label data-l10n-name="tos-url">ເງື່ອນໄຂການໃຫ້ບໍລິການ</label>.
