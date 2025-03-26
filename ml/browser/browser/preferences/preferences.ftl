@@ -707,6 +707,10 @@ privacy-header = ബ്രൗസർ സ്വകാര്യത
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = ഉപയോക്തൃനാമങ്ങളും രഹസ്യവാക്കുകളും
     .searchkeywords = { -lockwise-brand-short-name }
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-logins =
+    .label = വെബിടങ്ങൾക്കായി പ്രവേശനകളും രഹസ്യവാക്കുകളും കരുതിവയ്ക്കാൻ ചോദിക്കുക
+    .accesskey = ച
 
 ## Privacy Section - Passwords
 
@@ -788,6 +792,8 @@ history-clear-button =
 
 sitedata-header = കുക്കികളും സൈറ്റ് ഡാറ്റയും
 sitedata-learn-more = കൂടുതല്‍ അറിയുക
+sitedata-option-block-unvisited =
+    .label = ചെല്ലാത്ത വെബിടങ്ങളിൽ നിന്ന കുക്കികൾ
 sitedata-clear =
     .label = ഡാറ്റ വെടിപ്പാക്കുക
     .accesskey = I
@@ -964,6 +970,7 @@ collection-health-report-disabled = ഈ ബിൽഡ് കോൺഫിഗറേ
 
 ## Privacy Section - Website Advertising Preferences
 
+website-advertising-header = വെബിടപ്പരസ്യമുൻഗണനകൾ
 
 ## Privacy Section - Security
 ##
