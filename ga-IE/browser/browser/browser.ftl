@@ -5,6 +5,44 @@
 
 ## The main browser window's title
 
+# These are the default window titles everywhere except macOS.
+# .data-title-default and .data-title-private are used when the web content
+# opened has no title:
+#
+# default - "Mozilla Firefox"
+# private - "Mozilla Firefox (Private Browsing)"
+#
+# .data-content-title-default and .data-content-title-private are for use when
+# there *is* a content title.
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } Brabhsáil Phríobháideach
+    .data-content-title-default = { $content-title }—{ -brand-full-name }
+    .data-content-title-private = { $content-title }—{ -brand-full-name } Brabhsáil Phríobháideach
+# These are the default window titles on macOS.
+# .data-title-default and .data-title-private are used when the web content
+# opened has no title:
+#
+#
+# "default" - "Mozilla Firefox"
+# "private" - "Mozilla Firefox — (Private Browsing)"
+#
+# .data-content-title-default and .data-content-title-private are for use when
+# there *is* a content title.
+# Do not use the brand name in these, as we do on non-macOS.
+#
+# Also note the other subtle difference here: we use a `-` to separate the
+# brand name from `(Private Browsing)`, which does not happen on other OSes.
+#
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window-mac-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — Brabhsáil Phríobháideach
+    .data-content-title-default = { $content-title }
+    .data-content-title-private = { $content-title } —Brabhsáil Phríobháideach
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -49,6 +87,31 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = Faigh cabhair
 urlbar-search-tips-confirm = Maith go leor, tuigim
+urlbar-search-tips-confirm-short = Tuigim
+# Read out before Urlbar Tip text content so screenreader users know the
+# subsequent text is a tip offered by the browser. It should end in a colon or
+# localized equivalent.
+urlbar-tip-icon-description =
+    .alt = Leid:
+urlbar-result-menu-button =
+    .title = Oscail roghchlár
+urlbar-result-menu-button-feedback = Aiseolas
+    .title = Oscail roghchlár
+urlbar-result-menu-learn-more =
+    .label = Tuilleadh eolais
+    .accesskey = T
+urlbar-result-menu-remove-from-history =
+    .label = Bain as stair é
+    .accesskey = B
+urlbar-result-menu-tip-get-help =
+    .label = Faigh cabhair
+    .accesskey = c
+urlbar-result-menu-dismiss-suggestion =
+    .label = Ná bac leis an moladh seo
+    .accesskey = N
+urlbar-result-menu-learn-more-about-firefox-suggest =
+    .label = Cuir tuilleadh eolais ar { -firefox-suggest-brand-name }
+    .accesskey = C
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -92,6 +155,9 @@ urlbar-star-add-bookmark =
 
 ## Page Action Context Menu
 
+page-action-remove-extension2 =
+    .label = Bain an Breiseán
+    .accesskey = B
 
 ## Auto-hide Context Menu
 
@@ -150,11 +216,38 @@ search-one-offs-tabs =
     .tooltiptext = Cluaisíní ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Oireas ({ $restrict })
+search-one-offs-actions =
+    .tooltiptext = Gníomhaí ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+# Opens the about:addons page in the home / recommendations section
+quickactions-addons = Féach ar Bhreiseáin
+quickactions-cmd-addons2 = breiseáin
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Bainistigh leabharmharcanna
+quickactions-cmd-bookmarks = leabharmharcanna
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Glan an Stair
+quickactions-cmd-clearhistory = glan an stair
+# Opens about:downloads page
+quickactions-downloads2 = Féach ar íoslódálacha
+quickactions-cmd-downloads = íoslódálacha
+# Opens about:addons page in the extensions section
+quickactions-extensions = Bainistigh na breiseáin
+quickactions-cmd-extensions = breiseáin
+quickactions-cmd-savepdf = pdf
+# Opens a SUMO article explaining how to refresh
+quickactions-refresh = Athnuaigh { -brand-short-name }
+quickactions-cmd-refresh = Athnuaigh
+# Restarts the browser
+quickactions-restart = Atosaigh { -brand-short-name }
+quickactions-cmd-screenshot = gabháil scáileáin
+# Opens about:preferences
+quickactions-settings2 = Bainistigh na socruithe
+quickactions-cmd-settings = socruithe, sainroghanna, roghanna
 
 ## Bookmark Panel
 
