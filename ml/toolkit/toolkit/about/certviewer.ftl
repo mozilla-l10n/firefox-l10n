@@ -11,6 +11,7 @@
 certificate-viewer-email-address = ഇതപാൽ വിലാസം
 certificate-viewer-country = രാജ്യം
 certificate-viewer-ip-address = ഐ.പി വിലാസം
+certificate-viewer-id = തിരിച്ചറിയൽച്ചാൎത്തു്
 certificate-viewer-locality = അയൽപ്പക്കം
 certificate-viewer-location = ഇടം
 certificate-viewer-method = പരി
