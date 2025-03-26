@@ -112,7 +112,7 @@ options-sourceeditor-keybinding-default-label = בררת מחדל
 # The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = הגדרות מתקדמות
 # The label for the checkbox that toggles the HTTP cache on or off
-options-disable-http-cache-label = נטרול מטמון HTTP (כשארגז הכלים פתוח)
+options-disable-http-cache-label = השבתת מטמון HTTP (כשארגז הכלים פתוח)
 options-disable-http-cache-tooltip =
     .title = הפעלת אפשרות זו תשבית את מטמון ה־HTTP עבור כל הלשוניות בהן פתוח ארגז הכלים. Service Workers אינם מושפעים מאפשרות זו.
 # The label for checkbox that toggles JavaScript on or off
