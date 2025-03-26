@@ -15,12 +15,33 @@
 
 ## Chatbot menu shortcuts
 
+# $provider (string) - name of the provider
+genai-menu-remove-provider =
+    .label = Bain { $provider }
+# $provider (string) - name of the provider
+genai-input-ask-provider =
+    .placeholder = Iarr ar { $provider }…
 
 ## Chatbot header
 
+genai-header-options-button =
+    .title = Oscail an roghchlár
+genai-header-close-button =
+    .title = Dún
 
 ## Chatbot onboarding
 
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-copilot-tooltip =
+    .title = Copilot
+genai-onboarding-gemini-tooltip =
+    .title = Google Gemini
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
+genai-onboarding-select-primary = Tosaigh an comhrá
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
@@ -28,3 +49,7 @@
 
 ## Model Optin Component
 
+genai-model-optin-continue =
+    .label = Lean ar aghaidh
+genai-model-optin-optout =
+    .label = Cealaigh

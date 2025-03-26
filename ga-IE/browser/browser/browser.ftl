@@ -839,6 +839,7 @@ refresh-blocked-allow =
 popup-notification-addon-install-unsigned =
     .value = (Gan fíorú)
 popup-notification-xpinstall-prompt-learn-more = Tuilleadh eolais faoi bhreiseáin agus conas is féidir iad a shuiteáil go sábháilte
+popup-notification-xpinstall-prompt-block-url = Féach ar na mionsonraí
 
 ## Pop-up warning
 
@@ -877,3 +878,6 @@ popup-show-popup-menuitem =
 # The wording here should be consistent with the Windows variant of
 # `downloads-cmd-show-menuitem-2` and similar messages.
 
+file-picker-crashed-show-in-folder =
+    .label = Taispeáin san Fhillteán
+    .accessKey = F
