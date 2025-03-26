@@ -33,6 +33,13 @@ app-basics-name = പേരു്
 app-basics-version = പതിപ്പു്
 app-basics-build-id = ബില്‍ഡ് ഐഡി
 app-basics-update-channel = ചാനല്‍ പുതുക്കുക
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] അറ പുതുക്കുക
+       *[other] അറ പുതുക്കുക
+    }
 app-basics-update-history = നാള്‍വഴി പുതുക്കുക
 app-basics-show-update-history = പരിഷ്കരണ നാള്‍വഴി കാണിക്കുക
 app-basics-profile-dir =
@@ -83,6 +90,7 @@ sandbox-title = സാന്റ്ബോക്സ്
 sandbox-sys-call-log-title = നിരസിച്ച സിസ്റ്റം കോളുകൾ
 sandbox-sys-call-index = #
 sandbox-sys-call-age = നിമിഷങ്ങൾക്ക് മുമ്പ്
+sandbox-sys-call-proc-type = നടപടി തരം
 
 ## Media titles
 
@@ -102,6 +110,7 @@ media-device-rate = നിരക്ക്
 
 media-codec-support-supported = പിന്തുണക്കപ്പെട്ട
 media-codec-support-unsupported = പിന്തുണക്കപ്പെട്ടാത്ത
+media-codec-support-lack-of-extension = വിപുലീകരണം സ്ഥാപിക്കുക
 
 ## Media Content Decryption Modules (CDM)
 ## See EME Spec for more explanation for following technical terms
@@ -249,6 +258,7 @@ support-printing-prefs-value = മൂല്ല്യം
 
 ## Remote Settings sections
 
+support-remote-settings-status = നില
 support-remote-settings-status-ok = ശരി
 # Status when synchronization is not working.
 support-remote-settings-status-broken = നടക്കുന്നില്ല

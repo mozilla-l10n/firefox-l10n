@@ -266,8 +266,21 @@ extension-enable-addon-button-label =
 details-addon-button = വിശദാംശങ്ങള്‍
 release-notes-addon-button = വെളിപ്പെടുത്തൽക്കുറിപ്പുകൾ
 permissions-addon-button = അനുമതികൾ
+extension-enabled-heading = പ്രവർത്തനക്ഷമം
 extension-disabled-heading = പ്രവര്‍ത്തനരഹിതം
+theme-enabled-heading = പ്രവർത്തനക്ഷമം
 theme-disabled-heading2 = കരുതിവച്ച അലങ്കാരങ്ങൾ
+plugin-enabled-heading = പ്രവർത്തനക്ഷമം
+plugin-disabled-heading = പ്രവര്‍ത്തനരഹിതം
+dictionary-enabled-heading = പ്രവർത്തനക്ഷമം
+dictionary-disabled-heading = പ്രവര്‍ത്തനരഹിതം
+locale-enabled-heading = പ്രവർത്തനക്ഷമം
+locale-disabled-heading = പ്രവര്‍ത്തനരഹിതം
+sitepermission-enabled-heading = പ്രവർത്തനക്ഷമം
+sitepermission-disabled-heading = പ്രവര്‍ത്തനരഹിതം
+always-activate-button = എപ്പോഴും സജീവം
+never-activate-button = ഒരിയ്ക്കലും സജീവമാക്കരുതു്
+addon-detail-author-label = രചയിതാവു്
 addon-detail-version-label = പതിപ്പു്
 addon-detail-last-updated-label = ഏറ്റവും ഒടുവില്‍ പുതുക്കിയതു്
 addon-detail-homepage-label = ആമുഖതാൾ
@@ -327,6 +340,8 @@ addon-detail-group-label-quarantined-domains =
 
 ##
 
+available-updates-heading = ഉള്ള പുതുക്കലുകൾ
+recent-updates-heading = ഏറ്റവും പുതിയ പുതുക്കലുകൾ
 release-notes-loading = ലഭ്യമാക്കുന്നു…
 addon-permissions-learnmore = അനുമതികളെക്കുറിച്ച് കൂടുതലറിയുക
 recommended-extensions-heading = ശുപാൎശ ചെയ്യപ്പെട്ട വിപുലീകരണങ്ങൾ

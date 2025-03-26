@@ -323,6 +323,11 @@ pdfjs-editor-free-highlight-thickness-input = കനം
 pdfjs-editor-signature-add-signature-button =
     .title = പുതിയ ഒപ്പു് ചേൎക്കുക
 pdfjs-editor-signature-add-signature-button-label = പുതിയ ഒപ്പു് ചേൎക്കുക
+# Used on the button to use an already saved signature.
+# Variables:
+#   $description (String) - a string describing/labeling the signature.
+pdfjs-editor-add-saved-signature-button =
+    .title = കരുതിവച്ച ഒപ്പു് : { $description }
 pdfjs-free-text-default-content = എഴുതാൻ തുടങ്ങുക…
 pdfjs-ink-canvas =
     .aria-label = ഉപയോക്താവ് ഉണ്ടാക്കിയ ചിത്രം
