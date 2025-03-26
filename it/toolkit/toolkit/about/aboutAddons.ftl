@@ -62,7 +62,7 @@ detail-private-browsing-label = Funzionamento in finestre anonime
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Disattivata in finestre anonime
-detail-private-disallowed-description2 = Questa estensione non funziona in navigazione anonima. <<a data-l10n-name="learn-more">Ulteriori informazioni</a>
+detail-private-disallowed-description2 = Questa estensione non funziona in navigazione anonima. <a data-l10n-name="learn-more">Ulteriori informazioni</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Richiede accesso alle finestre anonime
 detail-private-required-description2 = Questa estensione ha accesso alle tue attività online nelle finestre anonime. <a data-l10n-name="learn-more">Ulteriori informazioni</a>
