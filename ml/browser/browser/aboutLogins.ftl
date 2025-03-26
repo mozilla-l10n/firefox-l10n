@@ -26,7 +26,7 @@ menu =
     .title = കുറിപ്പടികട്ട തുറക്കുക
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = മറ്റൊരു അന്വേഷിയന്ത്രം നിന്ന് ഇറക്കുമതിക്കുക.
-about-logins-menu-menuitem-import-from-a-file = ഒരു ഫയലിൽ നിന്ന്  ഇറക്കുമതി ചെയ്യുക...
+about-logins-menu-menuitem-import-from-a-file = ഒരു ഫയലിൽ നിന്നു്  ഇറക്കുമതി ചെയ്യുക…
 about-logins-menu-menuitem-export-logins = പ്രവേശിക്കലുകൾ കയറ്റുമതി ചെയ്യുക
 about-logins-menu-menuitem-remove-all-logins = എല്ലാ പ്രവേശിക്കലുകളും മായ്ക്കുക
 about-logins-menu-menuitem-export-logins2 = രഹസ്യസൂചകപദം കയറ്റുമതി ചെയ്യുക

@@ -11,7 +11,7 @@ update-checkForUpdatesButton =
 update-updateButton =
     .label = അപ്ഡേറ്റ് ചെയ്യാൻ പുനരാരംഭിക്കുക { -brand-shorter-name }
     .accesskey = R
-update-checkingForUpdates = പുതുക്കലുകള്‍ക്കായി പരിശോധിക്കുന്നു...
+update-checkingForUpdates = പുതുക്കലുകള്‍ക്കായി പരിശോധിക്കുന്നു…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.

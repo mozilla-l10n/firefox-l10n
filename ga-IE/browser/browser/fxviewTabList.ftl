@@ -34,6 +34,8 @@ fxviewtabrow-forget-about-this-site = Déan Dearmad ar an Suíomh Seo…
     .accesskey = D
 fxviewtabrow-open-in-window = Oscail i bhFuinneog Nua
     .accesskey = O
+fxviewtabrow-open-in-private-window = Oscail i bhFuinneog Nua Phríobháideach
+    .accesskey = O
 fxviewtabrow-copy-link = Cóipeáil an Nasc
     .accesskey = C
 fxviewtabrow-close-tab = Dún Cluaisín
@@ -46,6 +48,24 @@ fxviewtabrow-move-tab-end = Bog go dtí an Deireadh Í
     .accesskey = D
 fxviewtabrow-move-tab-window = Bog go Fuinneog Nua Í
     .accesskey = F
+fxviewtabrow-send-tab = Seol an Chluaisín go Gléas
+    .accesskey = G
+fxviewtabrow-pin-tab = Greamaigh le biorán an chluaisín
+    .accesskey = G
+fxviewtabrow-unpin-tab = Bain an biorán as an gcluaisín
+    .accesskey = B
+fxviewtabrow-mute-tab = Balbhaigh an Chluaisín
+    .accesskey = B
+fxviewtabrow-unmute-tab = Díbhalbhaigh an Chluaisín
+    .accesskey = D
+# Variables:
+#   $tabTitle (string) - Title of the tab to which the context menu is associated
+fxviewtabrow-options-menu-button =
+    .title = Roghanna i gcomhair { $tabTitle }
 
 ## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
 
+fxviewtabrow-mute-tab-button-no-context =
+    .title = Balbhaigh an chluaisín
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = Díbhalbhaigh an chluaisín
