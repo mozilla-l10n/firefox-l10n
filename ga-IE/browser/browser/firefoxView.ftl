@@ -35,19 +35,30 @@ firefoxview-tabpickup-step-signin-primarybutton = Lean ar aghaidh
 firefoxview-syncedtabs-signin-header-2 = Do { -brand-product-name } ar do ghléasanna go léir
 firefoxview-syncedtabs-signin-primarybutton-2 = Sínigh isteach
 firefoxview-syncedtabs-signin-header = Faigh do chuid cluaisíní ó ghléas ar bith
+firefoxview-tabpickup-adddevice-header = Socraigh { -brand-product-name } chun go mbeidh sé mar an gcéanna ar do ghuthán nó ar do tháibléid
+firefoxview-tabpickup-adddevice-learn-how = Foghlaim conas sin a dhéanamh
 firefoxview-tabpickup-adddevice-primarybutton = Faigh { -brand-product-name } do do ghuthán
+firefoxview-syncedtabs-adddevice-primarybutton = Féach { -brand-product-name } do do ghuthán
+firefoxview-tabpickup-synctabs-description = Lig do { -brand-short-name } cluaisíní a chomhroinnt idir gléasanna.
 firefoxview-tabpickup-synctabs-learn-how = Tuilleadh eolais
 firefoxview-tabpickup-network-offline-header = Dearbháil do cheangal idirlín
 firefoxview-tabpickup-network-offline-primarybutton = Féach arís é
 firefoxview-tabpickup-sync-error-primarybutton = Féach arís é
 firefoxview-tabpickup-password-locked-link = Tuilleadh eolais
 firefoxview-tabpickup-signed-out-primarybutton = Sínigh isteach
+firefoxview-mobile-promo-header = Faigh cluaisíní ó do ghuthán nó táibléad
+firefoxview-mobile-promo-primarybutton = Faigh { -brand-product-name } do do ghuthán
 firefoxview-mobile-confirmation-header = 🎉 Tá gach rud faoi réir!
+firefoxview-mobile-confirmation-description = Anois is féidir leat do chluaisíní { -brand-product-name } a fháil ó do tháibléad nó do ghuthán.
 firefoxview-closed-tabs-title = Cluaisíní a dúnadh le déanaí
+firefoxview-closed-tabs-description2 = Athoscail na leathanaigh atá dúnta agat san fhuinneog seo.
+firefoxview-closed-tabs-placeholder-header = Níl ann do chluaisíní a dúnadh le déanaí
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = Ruaig { $tabTitle }
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = Gníomhach an uair dheireanach
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
