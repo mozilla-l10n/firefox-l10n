@@ -217,6 +217,10 @@ contextual-manager-website-icon =
     .alt = Icona del sito web
 contextual-manager-copy-icon =
     .alt = Copia
+contextual-manager-check-icon-username =
+    .alt = Copiato
+contextual-manager-check-icon-password =
+    .alt = Copiata
 contextual-manager-alert-icon =
     .alt = Avviso
 # Variables
