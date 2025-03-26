@@ -1353,6 +1353,9 @@ httpsonly-radio-enabled =
     .label = සියළුම කවුළු වලට HTTPS-පමණි ප්‍රකාරය සබල කරන්න
 httpsonly-radio-enabled-pbm =
     .label = පෞද්. කවුළු වලට පමණක් HTTPS-පමණි ප්‍රකාරය
+httpsonly-radio-disabled3 =
+    .label = HTTPS-පමණි ප්‍රකාරය සබල නොකරන්න
+    .description = { -brand-short-name } තවදුරටත් සමහර සම්බන්ධතා උත්ශ්‍රේණි කරනු ඇත.
 httpsonly-radio-disabled =
     .label = HTTPS-පමණි ප්‍රකාරය සබල නොකරන්න
 
