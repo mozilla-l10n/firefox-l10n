@@ -11,10 +11,23 @@
 ### across the developer tools. A good criteria is the language in which you'd find the
 ### best documentation on web development on the web.
 
+# Text for the start link displayed for a registered but not running Service Worker.
+# Clicking on the link will attempt to start the service worker.
+serviceworker-worker-start3 = തുടങ്ങുക
+# Text displayed for the updated time of the service worker. The <time> element will
+# display the last update time of the service worker script.
+# Variables:
+#   $date (date) - Update date
+serviceworker-worker-updated = <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time> പുതുച്ചു
 
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
 
+# Service Worker status. A running service worker is registered, currently executed, can
+# be debugged and stopped.
+serviceworker-worker-status-running = ഓടിക്കൊണ്ടിരിക്കുന്നു
+# Service Worker status. A stopped service worker is registered but not currently active.
+serviceworker-worker-status-stopped = നിൎത്തി
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = കൂടുതല്‍ അറിയുക
 # Header for the Icon section of Manifest inspection displayed in the application panel.

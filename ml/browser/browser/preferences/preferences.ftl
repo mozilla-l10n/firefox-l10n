@@ -714,11 +714,19 @@ forms-ask-to-save-logins =
 
 ## Privacy Section - Passwords
 
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = രഹസ്യവാക്കുകൾ
+    .searchkeywords = പ്രവേശനങ്ങൾ
 forms-exceptions =
     .label = ഒഴിവാക്കേണ്ടവ…
     .accesskey = x
 forms-breach-alerts-learn-more-link = കൂടുതല്‍ അറിയുക
 relay-integration-learn-more-link = കൂടുതല്‍ അറിയുക
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-logins-and-passwords =
+    .label = താനെപ്പൂരിപ്പിച്ച പ്രവേശനങ്ങളും രഹസ്യവാക്കുകളും
+    .accesskey = വ
 forms-saved-logins =
     .label = ശേഖരിച്ചിട്ടുള്ള പ്രവേശനങ്ങള്‍…
     .accesskey = L

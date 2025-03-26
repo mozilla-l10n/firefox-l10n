@@ -72,6 +72,10 @@ about-debugging-runtime-extensions =
 # .name is processed by fluent-react / DebugTargetPane
 about-debugging-runtime-tabs =
     .name = ടാബുകള്‍
+# Title of the processes category.
+# .name is processed by fluent-react / DebugTargetPane
+about-debugging-runtime-processes =
+    .name = നടപടി
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = പിരിയുക
