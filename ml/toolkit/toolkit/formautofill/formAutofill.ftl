@@ -15,8 +15,6 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } കരുത
 autofill-edit-payment-method-os-prompt-macos = പണമടക്കൽമുറ വിവരം കാണിക്കുക
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } താങ്ങളുടെ കരുതിവച്ച പണമടക്കൽമുറ വിവരം കാണിപ്പിക്കാൻ ശ്രമിക്കുന്നു. താഴെ കൊടുത്തിരിക്കുന്ന വിണ്ടോസ് അക്കൗണ്ടിലേക്കു് പ്രവേശനം ഉറപ്പിക്കുക
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } കരുതിവച്ച പണമടക്കൽമുറ വിവരം കാണിപ്പിക്കാൻ ശ്രമിക്കുന്നു.
-# The links lead users to Form Autofill browser preferences.
-autofill-options-link = രൂപ തനുപ്പൂരിപ്പിക്കൽ സാധ്യതകൾ
 autofill-options-link-osx = രൂപ തനുപ്പൂരിപ്പിക്കൽ മുൻഗണനകൾ
 
 ## The credit card capture doorhanger

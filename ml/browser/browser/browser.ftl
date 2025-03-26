@@ -464,7 +464,7 @@ browser-tab-audio-playing2 = പ്ലേ ചെയ്യുന്നു
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-muted2 = മൂക്കമായിവച്ചിരിക്കുന്നു
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = തനുപ്ലേ തടഞ്ഞിരിക്കുന്നു
+browser-tab-audio-blocked = താനെപ്ലേ തടഞ്ഞിരിക്കുന്നു
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = ചിത്രത്തിൽ ചിത്രം
 
