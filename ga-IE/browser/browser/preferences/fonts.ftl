@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Clónna i gcomhair
+    .accesskey = F
 fonts-langgroup-arabic =
     .label = Arabach
 fonts-langgroup-armenian =
@@ -98,3 +100,5 @@ fonts-allow-own =
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Réamhshocraithe ({ $name })
+fonts-label-default-unnamed =
+    .label = An réamhshocrú
