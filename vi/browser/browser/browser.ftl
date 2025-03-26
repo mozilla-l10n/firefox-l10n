@@ -974,6 +974,9 @@ panel-save-update-password = Mật khẩu
 # "More" item in macOS share menu
 menu-share-more =
     .label = Xem thêm…
+menu-share-copy-link =
+    .label = Sao chép liên kết
+    .accesskey = L
 ui-tour-info-panel-close =
     .tooltiptext = Đóng
 
