@@ -42,6 +42,22 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
         [macos] CSV belgesi
        *[other] CSV dosyası
     }
+# Checkbox label to confirm the removal of saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-confirm =
+    { $total ->
+        [1] Evet, parolayı sil
+        [one] Evet, parolayı sil
+       *[other] Evet, parolaları sil
+    }
+# Button label to confirm removal of saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-confirm-button =
+    { $total ->
+        [1] Kaldır
+        [one] Kaldır
+       *[other] Tümünü kaldır
+    }
 contextual-manager-passwords-update-password-success-button = Tamam
 contextual-manager-passwords-delete-password-success-button = Tamam
 # This message is displayed to make sure that a user wants to delete an existing login.
