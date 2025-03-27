@@ -5,6 +5,7 @@
 
 ## Passwords
 
+contextual-manager-passwords-command-import-from-browser = Importar dad in auter navigatur…
 contextual-manager-passwords-command-import = Importar dad ina datoteca…
 contextual-manager-passwords-command-help = Agid
 # This message can be seen when attempting to export a password in about:logins on Windows.
