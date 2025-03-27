@@ -76,6 +76,8 @@ contextual-manager-passwords-update-password-success-button = सम्पन्
 contextual-manager-passwords-delete-password-success-button = सम्पन्न भयो
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = पासवर्ड हटाउने हो?
+# This message confirms that the user wants to remove an existing login.
+contextual-manager-passwords-remove-login-card-remove-button = हटाउनुहोस्
 
 ## Login Form
 
