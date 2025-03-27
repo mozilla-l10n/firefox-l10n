@@ -10,6 +10,7 @@ contextual-manager-filter-input =
 ## Passwords
 
 contextual-manager-passwords-command-create = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱥᱮᱞᱮᱫ ᱢᱮ
+contextual-manager-passwords-command-help = ᱜᱚᱲᱚ
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = ᱟᱢᱟᱜ ᱫᱟᱵᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱵᱷᱮᱡᱟ ᱞᱟᱹᱜᱤᱫ, ᱟᱢᱟᱜ ᱣᱤᱱᱰᱳᱣ ᱵᱚᱞᱚᱱ ᱠᱨᱮᱰᱮᱱᱥᱤᱭᱟᱞ ᱟᱫᱮᱨ ᱢᱮ ᱾ ᱱᱚᱶᱟ ᱨᱮ ᱟᱢᱟᱜ ᱵᱮᱵᱷᱟᱨᱤᱭᱟ ᱨᱮᱱᱟᱜ ᱥᱤᱠᱭᱩᱨᱤᱴᱤ ᱥᱟᱧᱪᱟᱣ ᱨᱮ ᱜᱚᱲᱚᱜᱼᱟ ᱾
 # This message can be seen when attempting to export a password in about:logins
@@ -30,10 +31,32 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = ᱟᱢ�
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ ᱱᱚᱠᱚᱞ ᱢᱮ
+contextual-manager-passwords-import-file-picker-import-button = ᱟᱹᱜᱩ
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+contextual-manager-passwords-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV  ᱫᱚᱞᱤᱞ
+       *[other] CSV ᱨᱮᱫ
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+contextual-manager-passwords-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV ᱫᱚᱞᱤᱞ
+       *[other] TSV ᱨᱮᱫ
+    }
 contextual-manager-passwords-import-success-button = ᱦᱩᱭᱮᱱᱟ
 contextual-manager-passwords-import-error-button-cancel = ᱵᱟᱹᱰᱨᱟᱹ
 contextual-manager-passwords-export-success-button = ᱦᱩᱭᱮᱱᱟ
 contextual-manager-export-passwords-dialog-confirm-button = ᱩᱪᱟᱹᱲ ᱥᱟᱞᱟᱜ ᱞᱟᱦᱟ
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+contextual-manager-passwords-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV  ᱫᱚᱞᱤᱞ
+       *[other] CSV ᱨᱮᱫ
+    }
 # Button label to confirm removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm-button =
