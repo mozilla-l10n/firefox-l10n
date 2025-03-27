@@ -57,6 +57,24 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
         [macos] CSV dokument
        *[other] CSV datoteka
     }
+# Checkbox label to confirm the removal of saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-confirm =
+    { $total ->
+        [1] Da, ukloni lozinku
+        [one] Da, ukloni lozinku
+        [few] Da, ukloni lozinke
+       *[other] Da, ukloni lozinke
+    }
+# Button label to confirm removal of saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-confirm-button =
+    { $total ->
+        [1] Ukloni
+        [one] Ukloni
+        [few] Ukloni sve
+       *[other] Ukloni sve
+    }
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Ukloniti lozinku?
 # This message confirms that the user wants to remove an existing login.
