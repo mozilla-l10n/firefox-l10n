@@ -15,6 +15,8 @@ contextual-manager-passwords-reveal-password-os-auth-dialog-message-macosx = ज
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = जतन केलेला पासवर्ड कॉपी करा
 contextual-manager-passwords-export-file-picker-export-button = निर्यात करा
+# This message confirms that the user wants to remove an existing login.
+contextual-manager-passwords-remove-login-card-remove-button = काढून टाका
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = रद्द करा
 
