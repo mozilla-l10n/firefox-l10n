@@ -64,6 +64,14 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
         [macos] CSV নথি
        *[other] CSV ফাইল
     }
+# Checkbox label to confirm the removal of saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-confirm =
+    { $total ->
+        [1] হ্যাঁ, পাসওয়ার্ড মুছে ফেলুন
+        [one] হ্যাঁ, পাসওয়ার্ডটি মুছে ফেলুন
+       *[other] হ্যাঁ, পাসওয়ার্ডসমূহ মুছে ফেলুন
+    }
 # Button label to confirm removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm-button =
