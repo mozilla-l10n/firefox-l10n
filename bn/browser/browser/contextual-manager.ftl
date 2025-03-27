@@ -51,6 +51,7 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
        *[other] TSV ফাইল
     }
 contextual-manager-passwords-import-success-button = সম্পন্ন হয়েছে
+contextual-manager-passwords-import-error-button-cancel = বাতিল করুন
 contextual-manager-passwords-export-success-button = সম্পন্ন হয়েছে
 contextual-manager-export-passwords-dialog-confirm-button = এক্সপোর্ট চালিয়ে যান
 # Title of the file picker dialog
