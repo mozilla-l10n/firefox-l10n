@@ -4,3 +4,4 @@
 
 toolbar-drop-on-home-title = হোম পেজ নির্ধারণ করুন
 toolbar-drop-on-home-msg = এই নথিটি কি আপনি হোম পেজ হিসাবে স্থাপন করতে ইচ্ছুক?
+toolbar-drop-on-home-msg-multiple = আপনি এই ডকুমেন্টগুলোকে আপনার নতুন হোম পেজে দেখতে চান?
