@@ -18,6 +18,11 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = ଆପ�
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = ସଞ୍ଚିତ ପାସୱାର୍ଡ କପି କରନ୍ତୁ
+contextual-manager-passwords-import-success-button = ହୋଇଗଲା
+contextual-manager-passwords-import-error-button-cancel = ବାତିଲ କରନ୍ତୁ
+contextual-manager-passwords-export-success-button = ହୋଇଗଲା
+contextual-manager-passwords-update-password-success-button = ହୋଇଗଲା
+contextual-manager-passwords-delete-password-success-button = ହୋଇଗଲା
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = କାଢ଼ନ୍ତୁ
 # This message gives the user the option to cancel their attempt to remove a login.
