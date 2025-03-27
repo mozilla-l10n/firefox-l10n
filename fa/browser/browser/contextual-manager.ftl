@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+contextual-manager-filter-input =
+    .placeholder = جستجوی گذرواژه‌ها
+    .key = F
+    .aria-label = جستجوی گذرواژه‌ها
 
 ## Passwords
 
@@ -78,6 +82,8 @@ contextual-manager-passwords-remove-login-card-remove-button = برداشتن
 
 ## Password Card
 
+contextual-manager-passwords-list-label =
+    .aria-label = گذرواژه‌ها
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
