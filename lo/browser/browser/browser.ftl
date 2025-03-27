@@ -785,6 +785,9 @@ panel-save-update-password = ລະຫັດຜ່ານ
 # "More" item in macOS share menu
 menu-share-more =
     .label = ເພີ່ມເຕີມ…
+menu-share-copy-link =
+    .label = ສຳເນົາລີ້ງ
+    .accesskey = L
 ui-tour-info-panel-close =
     .tooltiptext = ປິດ
 
@@ -866,6 +869,7 @@ restore-session-startup-suggestion-button = ບອກວິທີເຮັດໃ
 
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
+filepicker-blocked-infobar = ອົງກອນຂອງທ່ານໄດ້ບລັອກການເຂົ້າເຖິງໄຟລ໌ທ້ອງຖິ່ນຢູ່ໃນຄອມພິວເຕີເຄື່ອງນີ້
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 

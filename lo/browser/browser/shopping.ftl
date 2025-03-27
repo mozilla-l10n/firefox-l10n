@@ -92,3 +92,6 @@ shopping-settings-label =
 
 ## Onboarding message strings.
 
+shopping-onboarding-dialog-close-button =
+    .title = ປິດ
+    .aria-label = ປິດ

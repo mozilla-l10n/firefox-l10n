@@ -53,6 +53,7 @@ genai-options-hide-shortcut =
 ## Chatbot onboarding
 
 genai-onboarding-primary = ສືບຕໍ່
+genai-onboarding-secondary = ປິດ
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
 genai-onboarding-chatgpt-learn = ຮຽນຮູ້ເພີ່ມເຕີມກ່ຽວກັບ ChatGPT

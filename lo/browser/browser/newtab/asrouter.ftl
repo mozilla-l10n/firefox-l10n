@@ -252,6 +252,9 @@ root-certificate-succession-infobar-secondary-button =
 
 ## FxA Menu Message variants
 
+fxa-menu-message-close-button =
+    .title = ປິດ
+    .aria-label = ປິດ
 fxa-menu-message-sign-up-button = ລົງ​ທະ​ບຽນ
 fxa-menu-message-sync-devices-primary-text = ຊິ້ງຂໍ້ມູນອຸປະກອນຂອງທ່ານທັງໝົດ
 
