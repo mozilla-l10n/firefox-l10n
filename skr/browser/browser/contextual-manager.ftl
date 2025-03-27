@@ -10,6 +10,8 @@ contextual-manager-filter-input =
 ## Passwords
 
 contextual-manager-passwords-command-create = پاس ورڈ شامل کرو
+contextual-manager-passwords-command-import-from-browser = ٻئے براؤزر کنوں درآمد کرو…
+contextual-manager-passwords-command-import = فائل کنوں درآمد کرو…
 contextual-manager-passwords-command-help = مدد
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = آپݨے پاس ورڈ برآمد کرݨ کِیتے، آپݨے ونڈوز لاگ اِن دیاں سنداں درج کرو۔ اِین٘دے نال تُہاݙے اکاؤنٹس دی راکھی وِچ مَدت مِلدی ہِے۔
