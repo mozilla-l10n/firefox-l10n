@@ -6,6 +6,8 @@
 ## Passwords
 
 contextual-manager-passwords-command-help = 도움말
+# This message is displayed to make sure that a user wants to delete an existing login.
+contextual-manager-passwords-remove-login-card-title = 비밀번호를 제거하시겠습니까?
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = 삭제
 
