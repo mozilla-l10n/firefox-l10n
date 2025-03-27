@@ -8,12 +8,16 @@
 contextual-manager-passwords-command-import-from-browser = Importēt datus no cita pārlūka…
 contextual-manager-passwords-command-help = Palīdzība
 contextual-manager-export-passwords-dialog-confirm-button = Turpināt eksportēt
+# This message gives the user the option to cancel their attempt to remove a login.
+contextual-manager-passwords-remove-login-card-cancel-button = Atcelt
 
 ## Login Form
 
 
 ## Password Card
 
+contextual-manager-copy-icon =
+    .alt = Kopēt
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
