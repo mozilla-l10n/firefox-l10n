@@ -53,12 +53,24 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
 contextual-manager-passwords-import-success-button = تھی ڳیا
 contextual-manager-passwords-import-error-button-cancel = منسوخ
 contextual-manager-passwords-export-success-button = تھی ڳیا
+contextual-manager-export-passwords-dialog-confirm-button = برآمد نال جاری رکھو
+# Title of the file picker dialog
+contextual-manager-passwords-export-file-picker-title = { -brand-short-name } کنوں پاس ورڈ برآمد کرو
+contextual-manager-passwords-export-file-picker-export-button = برآمد کرو
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] CSV دستاویز
        *[other] CSV فائل
+    }
+# Checkbox label to confirm the removal of saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-confirm =
+    { $total ->
+        [1] جِیہا، پاس ورڈ ہٹاؤ
+        [one] جیہا، پاس ورڈ ہٹاؤ
+       *[other] جیہا، پاس ورڈز ہٹاؤ
     }
 # Button label to confirm removal of saved passwords
 #   $total (number) - Total number of passwords
