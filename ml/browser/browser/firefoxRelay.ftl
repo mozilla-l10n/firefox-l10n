@@ -11,6 +11,8 @@
 
 ## The "control" variation of the Relay offer popup
 
+firefox-relay-must-login-to-fxa = { -relay-brand-name } ഉപയോഗിക്കാൻ വേണ്ടി താങ്ങൾക്കു് { -fxaccount-brand-name }-ലേക്കു് പ്രവേശിക്കേണ്ടിവരും.
+firefox-relay-must-login-to-account = { -relay-brand-name } ഇതപാൽ പൊയ്മുഖം ഉപയോഗിക്കാൻ വേണ്ടി താങ്ങളുടെ അക്കൗണ്ടിലോട്ടു് പ്രവേശിക്കുക
 firefox-relay-get-unlimited-masks =
     .label = പൊയ്മുഖങ്ങളെ കൈകാര്യം ചെയ്യുക
     .accesskey = ക
@@ -57,6 +59,7 @@ firefox-relay-and-fxa-popup-notification-second-sentence-control = ഇതപാ�
 ## The "basic-info" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-basic-info = സൗജന്യമുള്ള ഇ-തപാൽ പൊയ്മുഖത്തിന്റെ കൂടെ പാഴ്തപാലിനെ മുടക്കുക.
+firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = ഇതപാൽ പൊയ്മുഖം ഉപയോഗിക്കാൻ വേണ്ടി ആദ്യം താങ്ങളുടെ അക്കൗണ്ടിലോട്ടു് പ്രവേശിക്കുക
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = അംഗത്വമെടുക്കുക
     .accesskey = അ
