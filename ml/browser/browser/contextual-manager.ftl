@@ -19,6 +19,8 @@ contextual-manager-passwords-update-password-success-button = ചെയ്തു
 contextual-manager-passwords-delete-password-success-button = ചെയ്തു
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = രഹസ്യവാക്കു് മായ്ക്കുക?
+# This message confirms that the user wants to remove an existing login.
+contextual-manager-passwords-remove-login-card-remove-button = മാറ്റുക
 
 ## Login Form
 
