@@ -108,22 +108,67 @@ contextual-manager-passwords-username-label = Nomine de usator
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-password-label = Contrasigno
     .data-after = Copiate
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = Contrasigno addite pro { $url }
 contextual-manager-passwords-add-password-success-button = Vider
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = Un contrasigno e un nomine de usator pro { $url } jam existe
+contextual-manager-passwords-password-already-exists-error-button = Va al contrasigno
 contextual-manager-passwords-update-password-success-heading =
     .heading = Contrasigno salvate
 contextual-manager-passwords-update-password-success-button = Facite
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] Contrasigno removite
+            [one] Contrasigno removite
+           *[other] Contrasignos removite
+        }
 contextual-manager-passwords-delete-password-success-button = Facite
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = Tote ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = Alertas ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Remover le contrasigno?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = Tu non potera disfacer lo
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Retro
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Remover
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Cancellar
+contextual-manager-passwords-alert-card =
+    .aria-label = Avisos contrasigno
+contextual-manager-passwords-alert-back-button =
+    .label = Retro
+contextual-manager-passwords-alert-list =
+    .aria-label = Lista avisos
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = Il es consiliate modificar contrasigno
+    .message = Contrasignos de iste sito web era reportate robate o revelate. Cambia tu contrasigno pro proteger tu conto.
+contextual-manager-passwords-breached-origin-link-message = Como sape { -brand-product-name } re le violationes?
+contextual-manager-passwords-change-password-button = Cambiar le contrasigno
+contextual-manager-passwords-add-username-button = Adder nomine de usator
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Adder contrasigno
+contextual-manager-passwords-edit-label =
+    .label = Modificar le contrasigno
+contextual-manager-passwords-remove-label =
+    .title = Remover contrasigno
 
 ## Password Card
 
@@ -131,14 +176,54 @@ contextual-manager-passwords-list-label =
     .aria-label = Contrasignos
 contextual-manager-copy-icon =
     .alt = Copiar
+contextual-manager-check-icon-username =
+    .alt = Copiate
+contextual-manager-check-icon-password =
+    .alt = Copiate
+contextual-manager-alert-icon =
+    .alt = Advertentia
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = Visita { $url } (aviso)
+    .title = Visita { $url } (aviso)
+contextual-manager-password-login-line =
+    .aria-label = Copiar contrasigno
+    .title = Copiar contrasigno
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = Copiar contrasigno (Aviso)
+    .title = Copiar contrasigno (Aviso)
+contextual-manager-edit-login-button = Modificar
+    .tooltiptext = Modificar contrasigno
+contextual-manager-view-alert-heading =
+    .heading = Vider aviso
+contextual-manager-view-alert-button =
+    .tooltiptext = Examina aviso
+contextual-manager-show-password-button =
+    .aria-label = Monstrar contrasigno
+    .title = Monstrar contrasigno
+contextual-manager-hide-password-button =
+    .aria-label = Celar contrasigno
+    .title = Celar contrasigno
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Nulle contrasigno trovate
+contextual-manager-passwords-no-passwords-found-message = Nulle contrasigno trovate. Cerca un termino differente e retenta.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = Salva tu contrasignos in un posto secur.
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = Adde los ci pro initiar.
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = Adder manualmente
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-close-button = Clauder
+contextual-manager-passwords-discard-changes-go-back-button = Retornar
