@@ -48,6 +48,7 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
 contextual-manager-passwords-import-success-button = Concluído
 contextual-manager-passwords-import-error-button-cancel = Cancelar
 contextual-manager-passwords-export-success-button = Concluído
+contextual-manager-export-passwords-dialog-confirm-button = Continuar com a exportação
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Exportar palavras-passe do { -brand-short-name }
 contextual-manager-passwords-export-file-picker-export-button = Exportar
@@ -57,6 +58,13 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] Documento CSV
        *[other] Ficheiro CSV
+    }
+# Checkbox label to confirm the removal of saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-confirm =
+    { $total ->
+        [1] Sim, remover a palavra-passe
+       *[other] Sim, remover as palavras-passe
     }
 # Button label to confirm removal of saved passwords
 #   $total (number) - Total number of passwords
