@@ -2,9 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+contextual-manager-filter-input =
+    .placeholder = Pretraži lozinke
+    .key = F
+    .aria-label = Pretraži lozinke
 
 ## Passwords
 
+contextual-manager-passwords-command-create = Dodaj lozinku
 contextual-manager-passwords-command-import-from-browser = Uvezi iz drugog preglednika…
 contextual-manager-passwords-command-import = Uvezi iz datoteke…
 contextual-manager-passwords-command-help = Pomoć
@@ -45,7 +50,9 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] TSV dokument
        *[other] TSV datoteka
     }
+contextual-manager-passwords-import-success-button = Gotovo
 contextual-manager-passwords-import-error-button-cancel = Odustani
+contextual-manager-passwords-export-success-button = Gotovo
 contextual-manager-export-passwords-dialog-confirm-button = Nastavi s izvozom
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Izvezi lozinke iz { -brand-short-name(case: "gen") }
@@ -75,6 +82,8 @@ contextual-manager-passwords-remove-all-confirm-button =
         [few] Ukloni sve
        *[other] Ukloni sve
     }
+contextual-manager-passwords-update-password-success-button = Gotovo
+contextual-manager-passwords-delete-password-success-button = Gotovo
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Ukloniti lozinku?
 # This message confirms that the user wants to remove an existing login.
@@ -84,6 +93,8 @@ contextual-manager-passwords-remove-login-card-cancel-button = Odustani
 
 ## Login Form
 
+contextual-manager-passwords-create-label =
+    .label = Dodaj lozinku
 
 ## Password Card
 
