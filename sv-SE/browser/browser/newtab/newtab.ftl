@@ -524,3 +524,7 @@ newtab-section-mangage-topics-followed-topics = Följd
 newtab-section-mangage-topics-followed-topics-empty-state = Du har inte följt några ämnen än.
 newtab-section-mangage-topics-blocked-topics = Blockerad
 newtab-section-mangage-topics-blocked-topics-empty-state = Du har inte blockerat några ämnen än.
+newtab-custom-wallpaper-title = Anpassade bakgrundsbilder är här
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle = Ladda upp din egen bakgrundsbild eller välj en anpassad färg för att göra { -brand-product-name } till din.
+newtab-custom-wallpaper-cta = Prova den

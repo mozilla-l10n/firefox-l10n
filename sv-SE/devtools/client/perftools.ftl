@@ -71,6 +71,11 @@ perftools-button-edit-settings = Redigera inställningar…
 
 ## More actions menu
 
+perftools-menu-more-actions-button =
+    .title = Fler åtgärder
+perftools-menu-more-actions-restart-with-profiling = Starta om { -brand-shorter-name } med startprofilering aktiverad
+perftools-menu-more-actions-copy-for-startup = Kopiera miljövariabler för startprofilering
+perftools-menu-more-actions-copy-for-perf-tests = Kopiera parametrar för prestandatester
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 

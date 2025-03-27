@@ -332,6 +332,9 @@ quickactions-cmd-addons2 = tillägg
 quickactions-bookmarks2 = Hantera bokmärken
 quickactions-cmd-bookmarks = bokmärken
 # Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Rensa senaste historik
+quickactions-cmd-clearrecenthistory = rensa närliggande historia, historia
+# Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Rensa historik
 quickactions-cmd-clearhistory = rensa historik
 # Opens about:downloads page
@@ -340,6 +343,15 @@ quickactions-cmd-downloads = hämtningar
 # Opens about:addons page in the extensions section
 quickactions-extensions = Hantera tillägg
 quickactions-cmd-extensions = tillägg
+# Opens Firefox View
+quickactions-firefoxview = Öppna { -firefoxview-brand-name }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = { -firefoxview-brand-name }, { -firefoxview-brand-name }, öppen vy, visa
+# Opens SUMO home page
+quickactions-help = { -brand-product-name } hjälp
+quickactions-cmd-help = hjälp, stöd
 # Opens the devtools web inspector
 quickactions-inspector2 = Öppna utvecklarverktyg
 quickactions-cmd-inspector = inspektör, utvecklarverktyg
