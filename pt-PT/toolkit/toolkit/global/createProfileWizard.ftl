@@ -15,7 +15,7 @@ create-profile-first-page-header2 =
     }
 profile-creation-explanation-1 = O { -brand-short-name } armazena informação acerca das suas definições e preferências no seu perfil pessoal.
 profile-creation-explanation-2 = Se está a partilhar esta cópia do { -brand-short-name } com outros utilizadores, pode utilizar perfis para manter a informação de cada um dos utilizadores separada. Para fazer isto, cada utilizador deve criar o seu próprio perfil.
-profile-creation-explanation-3 = Se é apenas um utilizador a utilizar esta cópia do { -brand-short-name }, deve ter pelo menos um perfil. Se pretender, pode criar múltiplos perfis para armazenar diferentes conjuntos de definições e preferências. Por exemplo, pode querer ter perfis separados para utilização profissional e pessoal.
+profile-creation-explanation-3 = Se é a única pessoa a utilizar esta cópia do { -brand-short-name }, deveria ter pelo menos um perfil. Se pretender, pode criar múltiplos perfis para guardar diferentes conjuntos de definições e de preferências. Por exemplo, pode querer ter perfis separados para a utilização profissional e pessoal.
 profile-creation-explanation-4 =
     { PLATFORM() ->
         [macos] Para iniciar a criação do seu perfil, clique em Continuar.
