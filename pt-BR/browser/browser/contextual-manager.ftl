@@ -46,6 +46,7 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
        *[other] Arquivo TSV
     }
 contextual-manager-passwords-import-success-button = Concluído
+contextual-manager-passwords-import-error-button-cancel = Cancelar
 contextual-manager-passwords-export-success-button = Concluído
 contextual-manager-export-passwords-dialog-confirm-button = Continuar a exportação
 # Title of the file picker dialog
@@ -65,6 +66,14 @@ contextual-manager-passwords-remove-all-confirm =
         [1] Sim, remover senha
         [one] Sim, remover senha
        *[other] Sim, remover senhas
+    }
+# Button label to confirm removal of saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-confirm-button =
+    { $total ->
+        [1] Remover
+        [one] Remover
+       *[other] Remover tudo
     }
 contextual-manager-passwords-update-password-success-button = Concluído
 contextual-manager-passwords-delete-password-success-button = Concluído
