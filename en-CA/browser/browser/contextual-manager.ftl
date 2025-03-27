@@ -30,6 +30,9 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] TSV Document
        *[other] TSV File
     }
+contextual-manager-passwords-import-success-button = Done
+contextual-manager-passwords-export-success-button = Done
+contextual-manager-export-passwords-dialog-confirm-button = Continue with export
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Export Passwords from { -brand-short-name }
 contextual-manager-passwords-export-file-picker-export-button = Export
@@ -40,6 +43,15 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
         [macos] CSV Document
        *[other] CSV File
     }
+# Checkbox label to confirm the removal of saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-confirm =
+    { $total ->
+        [1] Yes, remove password
+       *[other] Yes, remove passwords
+    }
+contextual-manager-passwords-update-password-success-button = Done
+contextual-manager-passwords-delete-password-success-button = Done
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Remove password?
 # This message confirms that the user wants to remove an existing login.
