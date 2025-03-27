@@ -6,6 +6,7 @@
 ## Passwords
 
 contextual-manager-passwords-command-import-from-browser = Enporti el alia retumilo…
+contextual-manager-passwords-command-import = Enporti el dosiero …
 contextual-manager-passwords-command-help = Helpo
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Por elporti viajn pasvortojn vi devas tajpi viajn legitimilojn de Windows . Tio ĉi helpas vin protekti la sekurecon de viaj kontoj.
