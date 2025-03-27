@@ -340,6 +340,8 @@ quickactions-cmd-downloads = nedlastingar
 # Opens about:addons page in the extensions section
 quickactions-extensions = Handsam utviding
 quickactions-cmd-extensions = Utvidingar
+# Opens Firefox View
+quickactions-firefoxview = Opne { -firefoxview-brand-name }
 # Opens the devtools web inspector
 quickactions-inspector2 = Opne utviklarverktøy
 quickactions-cmd-inspector = inspektør, utviklarverktøy

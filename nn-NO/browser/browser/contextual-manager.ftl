@@ -6,13 +6,21 @@ contextual-manager-filter-input =
     .placeholder = Søk etter passord
     .key = F
     .aria-label = Søk etter passord
+contextual-manager-menu-more-options-button =
+    .title = Fleire innstillingar
+contextual-manager-more-options-popup =
+    .aria-label = Fleire innstillingar
 
 ## Passwords
 
 contextual-manager-passwords-command-create = Legg til passord
 contextual-manager-passwords-command-import-from-browser = Importer frå ein annan nettlesar…
 contextual-manager-passwords-command-import = Importer frå ei fil…
+contextual-manager-passwords-command-export = Eksporter passord
+contextual-manager-passwords-command-remove-all = Slett alle passorda
+contextual-manager-passwords-command-settings = Innstillingar
 contextual-manager-passwords-command-help = HJelp
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Skriv inn innloggingsinformasjonen for Windows for å eksportere passorda dine. Dette vil gjere kontoane dine tryggare.
 # This message can be seen when attempting to export a password in about:logins
@@ -35,6 +43,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Skriv in
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = kopier det lagra passordet
+contextual-manager-passwords-import-file-picker-title = Importer passord
 contextual-manager-passwords-import-file-picker-import-button = Importer
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -51,11 +60,15 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
        *[other] TSV-fil
     }
 contextual-manager-passwords-import-success-button = Ferdig
+contextual-manager-passwords-import-error-button-try-again = Prøv på nytt
 contextual-manager-passwords-import-error-button-cancel = Avbryt
 contextual-manager-passwords-export-success-button = Ferdig
 contextual-manager-export-passwords-dialog-confirm-button = Hald fram med eksport
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Eksporter passord frå { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = passord
 contextual-manager-passwords-export-file-picker-export-button = Eksporter
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -78,6 +91,10 @@ contextual-manager-passwords-remove-all-confirm-button =
         [1] Fjern
        *[other] Fjern alle
     }
+contextual-manager-passwords-origin-label = Nettstad
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Brukarnamn
+    .data-after = Kopiert
 contextual-manager-passwords-update-password-success-button = Ferdig
 contextual-manager-passwords-delete-password-success-button = Ferdig
 # This message is displayed to make sure that a user wants to delete an existing login.
