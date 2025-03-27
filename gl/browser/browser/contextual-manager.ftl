@@ -2,9 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+contextual-manager-filter-input =
+    .placeholder = Buscar contrasinais
+    .key = F
+    .aria-label = Buscar contrasinais
 
 ## Passwords
 
+contextual-manager-passwords-command-create = Engadir contrasinal
 contextual-manager-passwords-command-import-from-browser = Importar desde outro navegador…
 contextual-manager-passwords-command-import = Importar dun ficheiro ...
 contextual-manager-passwords-command-help = Axuda
@@ -30,6 +35,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Para cop
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = copiar o contrasinal gardado
+contextual-manager-passwords-import-error-button-cancel = Cancelar
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
@@ -50,12 +56,20 @@ contextual-manager-passwords-remove-all-confirm-button =
 contextual-manager-passwords-remove-login-card-title = Eliminar o contrasinal?
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Eliminar
+# This message gives the user the option to cancel their attempt to remove a login.
+contextual-manager-passwords-remove-login-card-cancel-button = Cancelar
 
 ## Login Form
 
+contextual-manager-passwords-create-label =
+    .label = Engadir contrasinal
 
 ## Password Card
 
+contextual-manager-passwords-list-label =
+    .aria-label = Contrasinais
+contextual-manager-copy-icon =
+    .alt = Copiar
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
