@@ -42,6 +42,8 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     }
 contextual-manager-passwords-update-password-success-button = Concluído
 contextual-manager-passwords-delete-password-success-button = Concluído
+# This message is displayed to make sure that a user wants to delete an existing login.
+contextual-manager-passwords-remove-login-card-title = Remover palavra-passe
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Remover
 
