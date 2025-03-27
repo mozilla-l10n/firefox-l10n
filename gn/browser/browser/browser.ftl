@@ -981,6 +981,9 @@ panel-save-update-password = Ñe’ẽñemi
 # "More" item in macOS share menu
 menu-share-more =
     .label = Hetave…
+menu-share-copy-link =
+    .label = Embokuatia juajuha
+    .accesskey = L
 ui-tour-info-panel-close =
     .tooltiptext = Mboty
 
