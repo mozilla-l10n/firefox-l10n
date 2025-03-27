@@ -6,6 +6,7 @@
 ## Passwords
 
 contextual-manager-passwords-command-import-from-browser = Tuo toisesta selaimesta…
+contextual-manager-passwords-command-import = Tuo tiedostosta…
 contextual-manager-passwords-command-help = Ohje
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Vie salasanasi antamalla Windows-kirjautumistietosi. Tämä auttaa suojaamaan tilisi.
