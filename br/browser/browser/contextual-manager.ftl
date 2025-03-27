@@ -2,9 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+contextual-manager-filter-input =
+    .placeholder = Klask er gerioù-tremen
+    .key = F
+    .aria-label = Klask er gerioù-tremen
 
 ## Passwords
 
+contextual-manager-passwords-command-create = Ouzhpennañ ur ger-tremen
+contextual-manager-passwords-command-import-from-browser = Enporzhiañ eus ur merdeer all…
 contextual-manager-passwords-command-import = Enporzhiañ adalek ur restr…
 contextual-manager-passwords-command-help = Skoazell
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -86,12 +92,20 @@ contextual-manager-passwords-delete-password-success-button = Graet
 contextual-manager-passwords-remove-login-card-title = Dilemel ar ger-tremen?
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Dilemel
+# This message gives the user the option to cancel their attempt to remove a login.
+contextual-manager-passwords-remove-login-card-cancel-button = Nullañ
 
 ## Login Form
 
+contextual-manager-passwords-create-label =
+    .label = Ouzhpennañ ur ger-tremen
 
 ## Password Card
 
+contextual-manager-passwords-list-label =
+    .aria-label = Gerioù-tremen
+contextual-manager-copy-icon =
+    .alt = Eilañ
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
