@@ -6,8 +6,37 @@
 ## Passwords
 
 contextual-manager-passwords-command-import-from-browser = Mag-import mula sa Ibang Browser…
+contextual-manager-passwords-command-import = Kunin mula sa File…
 contextual-manager-passwords-command-help = Tulong
+contextual-manager-passwords-import-file-picker-import-button = i-Import
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+contextual-manager-passwords-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV Document
+       *[other] CSV File
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+contextual-manager-passwords-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV Document
+       *[other] TSV File
+    }
+contextual-manager-passwords-import-success-button = Tapos na
+contextual-manager-passwords-export-success-button = Tapos na
 contextual-manager-passwords-export-file-picker-export-button = i-Export
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+contextual-manager-passwords-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV Document
+       *[other] CSV File
+    }
+contextual-manager-passwords-update-password-success-button = Tapos na
+contextual-manager-passwords-delete-password-success-button = Tapos na
+# This message gives the user the option to cancel their attempt to remove a login.
+contextual-manager-passwords-remove-login-card-cancel-button = Ikansela
 
 ## Login Form
 
