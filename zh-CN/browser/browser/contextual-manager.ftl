@@ -15,8 +15,18 @@ contextual-manager-passwords-export-os-auth-dialog-message-win = 请输入 Windo
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-export-os-auth-dialog-message-macosx = 导出保存的密码
+contextual-manager-passwords-import-error-button-cancel = 取消
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = 从 { -brand-short-name } 导出的密码
+# Button label to confirm removal of saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-confirm-button =
+    { $total ->
+        [1] 移除
+       *[other] 全部移除
+    }
+# This message is displayed to make sure that a user wants to delete an existing login.
+contextual-manager-passwords-remove-login-card-title = 确定要移除密码吗？
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = 移除
 
