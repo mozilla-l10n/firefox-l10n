@@ -2,9 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+contextual-manager-filter-input =
+    .placeholder = ପାସୱାର୍ଡ଼ ଖୋଜନ୍ତୁ
+    .key = F
+    .aria-label = ପାସୱାର୍ଡ଼ ଖୋଜନ୍ତୁ
 
 ## Passwords
 
+contextual-manager-passwords-command-create = ପାସୱାର୍ଡ଼ ଯୋଡ଼ନ୍ତୁ
 contextual-manager-passwords-command-import-from-browser = ଅନ୍ୟ ବ୍ରାଉଜରରୁ ଆମଦାନୀ…
 contextual-manager-passwords-command-import = ଏକ ଫାଇଲରୁ ଆଣନ୍ତୁ...
 contextual-manager-passwords-command-help = ସହାୟତା
@@ -30,9 +35,13 @@ contextual-manager-passwords-remove-login-card-cancel-button = ବାତିଲ �
 
 ## Login Form
 
+contextual-manager-passwords-create-label =
+    .label = ପାସୱାର୍ଡ଼ ଯୋଡ଼ନ୍ତୁ
 
 ## Password Card
 
+contextual-manager-passwords-list-label =
+    .aria-label = ପାସୱାର୍ଡ଼ସବୁ
 contextual-manager-copy-icon =
     .alt = ନକଲ କରନ୍ତୁ
 
