@@ -67,6 +67,14 @@ contextual-manager-passwords-remove-all-confirm =
         [one] Eja, boga sa crae
        *[other] Eja, boga is craes
     }
+# Button label to confirm removal of saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-confirm-button =
+    { $total ->
+        [1] 1
+        [one] Boga
+       *[other] Boga·nche totu
+    }
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Boles bogare sa crae?
 # This message confirms that the user wants to remove an existing login.
