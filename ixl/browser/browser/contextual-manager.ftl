@@ -18,6 +18,14 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Aq'al uv
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = Eesa ivatz i kach'ub' tetze' uve' kolel kan s-a'n
+# Button label to confirm removal of saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-confirm-button =
+    { $total ->
+        [1] Sojsa
+        [one] Sojsa kaajayil
+       *[other] Sojsa kaajayil
+    }
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Sojsa
 # This message gives the user the option to cancel their attempt to remove a login.
