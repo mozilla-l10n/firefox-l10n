@@ -18,6 +18,8 @@ contextual-manager-passwords-import-error-button-cancel = रद्द करे
 contextual-manager-passwords-export-success-button = संपन्न
 contextual-manager-passwords-update-password-success-button = संपन्न
 contextual-manager-passwords-delete-password-success-button = संपन्न
+# This message confirms that the user wants to remove an existing login.
+contextual-manager-passwords-remove-login-card-remove-button = हटाएँ
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = रद्द करें
 
