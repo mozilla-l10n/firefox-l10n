@@ -33,6 +33,21 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Ձեր �
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = պատճենեք պահպանված գաղտնաբառը
+contextual-manager-passwords-import-file-picker-import-button = Ներածել
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+contextual-manager-passwords-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV փաստաթուղթ
+       *[other] CSV նիշք
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+contextual-manager-passwords-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV փաստաթուղթ
+       *[other] TSV նիշք
+    }
 contextual-manager-passwords-import-success-button = Պատրաստ է
 contextual-manager-passwords-import-error-button-cancel = Չեղարկել
 contextual-manager-passwords-export-success-button = Պատրաստ է
@@ -40,6 +55,13 @@ contextual-manager-export-passwords-dialog-confirm-button = Շարունակել
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Արտահանել գաղտնաբառերը { -brand-short-name }-ից
 contextual-manager-passwords-export-file-picker-export-button = Արտահանել
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+contextual-manager-passwords-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV փաստաթուղթ
+       *[other] CSV նիշք
+    }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
@@ -62,6 +84,8 @@ contextual-manager-passwords-delete-password-success-button = Պատրաստ է
 contextual-manager-passwords-remove-login-card-title = Հեռացնե՞լ գաղտնաբառը:
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Հեռացնել
+# This message gives the user the option to cancel their attempt to remove a login.
+contextual-manager-passwords-remove-login-card-cancel-button = Չեղարկել
 
 ## Login Form
 
@@ -72,6 +96,8 @@ contextual-manager-passwords-create-label =
 
 contextual-manager-passwords-list-label =
     .aria-label = Գաղտնաբառեր
+contextual-manager-copy-icon =
+    .alt = Պատճենել
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
