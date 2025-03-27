@@ -13,6 +13,13 @@ contextual-manager-passwords-command-create = Thêm mật khẩu
 contextual-manager-passwords-command-import-from-browser = Nhập dữ liệu từ trình duyệt khác…
 contextual-manager-passwords-command-import = Nhập từ tập tin…
 contextual-manager-passwords-command-help = Trợ giúp
+# This message can be seen when attempting to export a password in about:logins on Windows.
+contextual-manager-passwords-export-os-auth-dialog-message-win = Để xuất mật khẩu của bạn, hãy nhập thông tin đăng nhập Windows của bạn. Điều này giúp bảo vệ tính bảo mật cho tài khoản của bạn.
+# This message can be seen when attempting to export a password in about:logins
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-export-os-auth-dialog-message-macosx = xuất mật khẩu đã lưu
 # This message can be seen when attempting to reveal a password in contextual password manager on Windows
 contextual-manager-passwords-reveal-password-os-auth-dialog-message-win = Để xem mật khẩu của bạn, nhập thông tin đăng nhập Windows của bạn. Điều này giúp bảo vệ tính bảo mật của tài khoản của bạn.
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
@@ -77,6 +84,8 @@ contextual-manager-passwords-delete-password-success-button = Xong
 contextual-manager-passwords-remove-login-card-title = Xóa mật khẩu?
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Xóa
+# This message gives the user the option to cancel their attempt to remove a login.
+contextual-manager-passwords-remove-login-card-cancel-button = Hủy bỏ
 
 ## Login Form
 
@@ -87,6 +96,8 @@ contextual-manager-passwords-create-label =
 
 contextual-manager-passwords-list-label =
     .aria-label = Mật khẩu
+contextual-manager-copy-icon =
+    .alt = Sao chép
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
