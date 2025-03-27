@@ -28,8 +28,35 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Để sa
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = sao chép mật khẩu đã lưu
+contextual-manager-passwords-import-file-picker-import-button = Nhập
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+contextual-manager-passwords-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Tài liệu CSV
+       *[other] Tập tin CSV
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+contextual-manager-passwords-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Tài liệu TSV
+       *[other] Tập tin TSV
+    }
+contextual-manager-passwords-import-success-button = Xong
 contextual-manager-passwords-import-error-button-cancel = Hủy bỏ
+contextual-manager-passwords-export-success-button = Xong
 contextual-manager-export-passwords-dialog-confirm-button = Tiếp tục xuất
+# Title of the file picker dialog
+contextual-manager-passwords-export-file-picker-title = Xuất mật khẩu từ { -brand-short-name }
+contextual-manager-passwords-export-file-picker-export-button = Xuất
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+contextual-manager-passwords-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Tài liệu CSV
+       *[other] Tập tin CSV
+    }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
@@ -44,6 +71,8 @@ contextual-manager-passwords-remove-all-confirm-button =
         [1] Xóa
        *[other] Xóa tất cả
     }
+contextual-manager-passwords-update-password-success-button = Xong
+contextual-manager-passwords-delete-password-success-button = Xong
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Xóa mật khẩu?
 # This message confirms that the user wants to remove an existing login.
