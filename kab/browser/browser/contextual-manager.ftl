@@ -7,6 +7,8 @@
 
 contextual-manager-passwords-command-import-from-browser = Kter seg iminig nniḍen…
 contextual-manager-passwords-command-help = Tallalt
+# This message confirms that the user wants to remove an existing login.
+contextual-manager-passwords-remove-login-card-remove-button = Kkes
 
 ## Login Form
 
