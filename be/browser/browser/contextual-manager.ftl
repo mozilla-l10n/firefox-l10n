@@ -33,6 +33,13 @@ contextual-manager-passwords-import-file-picker-csv-filter-title =
         [macos] Дакумент CSV
        *[other] Файл CSV
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+contextual-manager-passwords-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Дакумент TSV
+       *[other] Файл TSV
+    }
 contextual-manager-passwords-import-success-button = Гатова
 contextual-manager-passwords-import-error-button-cancel = Скасаваць
 contextual-manager-passwords-export-success-button = Гатова
