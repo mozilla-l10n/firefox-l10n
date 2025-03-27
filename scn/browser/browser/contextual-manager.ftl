@@ -35,6 +35,9 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] Ducumentu TSV
        *[other] Pricu TSV
     }
+contextual-manager-passwords-import-success-button = Fattu
+contextual-manager-passwords-import-error-button-cancel = Sfai
+contextual-manager-passwords-export-success-button = Fattu
 contextual-manager-export-passwords-dialog-confirm-button = Cuntinua cu l'espurtazzioni
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Esporta chiavi di { -brand-short-name }
@@ -62,6 +65,8 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Leva
        *[other] Leva tuttu
     }
+contextual-manager-passwords-update-password-success-button = Fattu
+contextual-manager-passwords-delete-password-success-button = Fattu
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Livari a chiavi?
 # This message confirms that the user wants to remove an existing login.
