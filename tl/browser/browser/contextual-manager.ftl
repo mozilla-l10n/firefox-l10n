@@ -53,6 +53,8 @@ contextual-manager-passwords-remove-login-card-cancel-button = Ikansela
 
 ## Password Card
 
+contextual-manager-copy-icon =
+    .alt = Kopyahin
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
