@@ -6,7 +6,15 @@
 ## Passwords
 
 contextual-manager-passwords-command-import-from-browser = 从其他浏览器导入…
+contextual-manager-passwords-command-import = 从文件导入…
 contextual-manager-passwords-command-help = 帮助
+# This message can be seen when attempting to export a password in about:logins on Windows.
+contextual-manager-passwords-export-os-auth-dialog-message-win = 请输入 Windows 登录凭据，以导出密码。这有助于保护您的账户安全。
+# This message can be seen when attempting to export a password in about:logins
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-export-os-auth-dialog-message-macosx = 导出保存的密码
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = 从 { -brand-short-name } 导出的密码
 # This message confirms that the user wants to remove an existing login.
