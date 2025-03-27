@@ -2,9 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+contextual-manager-filter-input =
+    .placeholder = Cercar contrasignos
+    .key = F
+    .aria-label = Cercar contrasignos
 
 ## Passwords
 
+contextual-manager-passwords-command-create = Adder contrasigno
 contextual-manager-passwords-command-help = Adjuta
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Pro exportar le contrasigno, insere tu credentiales de accesso a Windows. Isto adjuta a proteger le securitate de tu contos.
@@ -82,6 +87,8 @@ contextual-manager-passwords-remove-login-card-cancel-button = Cancellar
 
 ## Login Form
 
+contextual-manager-passwords-create-label =
+    .label = Adder contrasigno
 
 ## Password Card
 
