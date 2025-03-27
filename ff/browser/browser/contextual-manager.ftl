@@ -27,6 +27,8 @@ contextual-manager-passwords-remove-login-card-cancel-button = Haaytu
 
 ## Password Card
 
+contextual-manager-passwords-list-label =
+    .aria-label = Finnde
 contextual-manager-copy-icon =
     .alt = Natto
 
