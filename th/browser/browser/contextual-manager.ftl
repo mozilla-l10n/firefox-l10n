@@ -5,6 +5,7 @@
 
 ## Passwords
 
+contextual-manager-passwords-command-help = ช่วยเหลือ
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = ส่งออกรหัสผ่านจาก { -brand-short-name }
 contextual-manager-passwords-export-file-picker-export-button = ส่งออก
