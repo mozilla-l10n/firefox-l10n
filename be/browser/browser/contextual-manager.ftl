@@ -13,6 +13,13 @@ contextual-manager-passwords-command-create = Дадаць пароль
 contextual-manager-passwords-command-import-from-browser = Імпартаваць з іншага браўзера…
 contextual-manager-passwords-command-import = Імпартаваць з файла…
 contextual-manager-passwords-command-help = Даведка
+# This message can be seen when attempting to export a password in about:logins on Windows.
+contextual-manager-passwords-export-os-auth-dialog-message-win = Каб экспартаваць свае паролі, увядзіце свае ўліковыя дадзеныя для ўваходу ў Windows. Гэта дапамагае захоўваць бяспеку вашых уліковых запісаў.
+# This message can be seen when attempting to export a password in about:logins
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-export-os-auth-dialog-message-macosx = экспартаваць захаваныя паролі
 # This message can be seen when attempting to reveal a password in contextual password manager on Windows
 contextual-manager-passwords-reveal-password-os-auth-dialog-message-win = Каб пабачыць свой пароль, увядзіце свае ўліковыя дадзеныя для ўваходу ў Windows. Гэта дапамагае захоўваць бяспеку вашых уліковых запісаў.
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
@@ -25,6 +32,9 @@ contextual-manager-passwords-edit-password-os-auth-dialog-message-win = Каб �
 contextual-manager-passwords-edit-password-os-auth-dialog-message-macosx = змяніць захаваны пароль
 # This message can be seen when attempting to copy a password in contextual password manager on Windows.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Каб скапіраваць свой пароль, увядзіце свае ўліковыя дадзеныя для ўваходу ў Windows. Гэта дапамагае захоўваць бяспеку вашых уліковых запісаў.
+# The MacOS string is preceded by the operating system with "Firefox is trying to ".
+# Only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = капіяваць захаваны пароль
 contextual-manager-passwords-import-file-picker-import-button = Імпартаваць
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
