@@ -6,6 +6,7 @@
 ## Passwords
 
 contextual-manager-passwords-command-import-from-browser = Başka bir tarayıcıdan içe aktar…
+contextual-manager-passwords-command-import = Dosyadan içe aktar…
 contextual-manager-passwords-command-help = Yardım
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Parolalarınızı dışa aktarmak için Windows hesap bilgilerinizi girin. Bu sayede hesaplarınızı daha güvenli bir şekilde koruyabiliriz.
