@@ -10,6 +10,8 @@ contextual-manager-filter-input =
 ## Passwords
 
 contextual-manager-passwords-command-create = Adder contrasigno
+contextual-manager-passwords-command-import-from-browser = Importar de un altere navigator…
+contextual-manager-passwords-command-import = Importar de un file…
 contextual-manager-passwords-command-help = Adjuta
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Pro exportar le contrasigno, insere tu credentiales de accesso a Windows. Isto adjuta a proteger le securitate de tu contos.
