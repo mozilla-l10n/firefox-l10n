@@ -88,6 +88,8 @@ contextual-manager-passwords-delete-password-success-button = Готово
 contextual-manager-passwords-remove-login-card-title = Удалить пароль?
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Удалить
+# This message gives the user the option to cancel their attempt to remove a login.
+contextual-manager-passwords-remove-login-card-cancel-button = Отмена
 
 ## Login Form
 
@@ -98,6 +100,8 @@ contextual-manager-passwords-create-label =
 
 contextual-manager-passwords-list-label =
     .aria-label = Пароли
+contextual-manager-copy-icon =
+    .alt = Копировать
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
