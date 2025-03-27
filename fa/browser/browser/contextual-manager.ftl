@@ -20,6 +20,11 @@ contextual-manager-passwords-reveal-password-os-auth-dialog-message-win = برا
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-reveal-password-os-auth-dialog-message-macosx = نمایش گذرواژهٔ ذخیره شده
+# This message can be seen when attempting to edit a login in contextual password manager on Windows.
+contextual-manager-passwords-edit-password-os-auth-dialog-message-win = برای ویرایش گذرواژه، اطلاعات ورود به سیستم ویندوز خود را وارد کنید. این به محافظت از امنیت حساب‌های شما کمک می‌کند.
+# The MacOS string is preceded by the operating system with "Firefox is trying to ".
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-edit-password-os-auth-dialog-message-macosx = ویرایش گذرواژه ذخیره شده
 # This message can be seen when attempting to copy a password in contextual password manager on Windows.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-win = برای رونوشت از گذرواژه خود، گذواژهٔ ویندوز خود را وارد کنید. این به امنیت حساب شما کمک می‌کند.
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
