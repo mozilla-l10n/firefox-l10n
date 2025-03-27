@@ -86,6 +86,8 @@ contextual-manager-passwords-delete-password-success-button = सम्पन्
 contextual-manager-passwords-remove-login-card-title = पासवर्ड हटाउने हो?
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = हटाउनुहोस्
+# This message gives the user the option to cancel their attempt to remove a login.
+contextual-manager-passwords-remove-login-card-cancel-button = रद्द गर्नुहोस्
 
 ## Login Form
 
@@ -96,6 +98,8 @@ contextual-manager-passwords-create-label =
 
 contextual-manager-passwords-list-label =
     .aria-label = पासवर्डहरू
+contextual-manager-copy-icon =
+    .alt = कपि गर्नुहोस्
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
