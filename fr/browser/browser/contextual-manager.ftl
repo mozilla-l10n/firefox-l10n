@@ -24,6 +24,13 @@ contextual-manager-export-passwords-dialog-confirm-button = Poursuivre l’expor
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Exporter les mots de passe depuis { -brand-short-name }
 contextual-manager-passwords-export-file-picker-export-button = Exporter
+# Button label to confirm removal of saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-confirm-button =
+    { $total ->
+        [1] Supprimer
+       *[other] Tout supprimer
+    }
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Supprimer le mot de passe ?
 # This message confirms that the user wants to remove an existing login.
@@ -34,6 +41,8 @@ contextual-manager-passwords-remove-login-card-remove-button = Supprimer
 
 ## Password Card
 
+contextual-manager-passwords-list-label =
+    .aria-label = Mots de passe
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
