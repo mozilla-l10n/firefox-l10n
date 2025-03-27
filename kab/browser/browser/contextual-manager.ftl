@@ -46,6 +46,7 @@ contextual-manager-passwords-export-success-button = Immed
 contextual-manager-export-passwords-dialog-confirm-button = Kemmel asifeḍ
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Sifeḍ awalen n uεeddi seg { -brand-short-name }
+contextual-manager-passwords-export-file-picker-export-button = Kter
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 contextual-manager-passwords-export-file-picker-csv-filter-title =
