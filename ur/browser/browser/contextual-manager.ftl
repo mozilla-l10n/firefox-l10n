@@ -6,6 +6,7 @@
 ## Passwords
 
 contextual-manager-passwords-command-import-from-browser = دوسرے براؤزر سے درآمد کریں…
+contextual-manager-passwords-command-import = فائل سے درآمد کریں...
 contextual-manager-passwords-command-help = مدد
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
