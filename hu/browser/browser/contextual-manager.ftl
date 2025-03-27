@@ -2,11 +2,39 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+contextual-manager-filter-input =
+    .placeholder = Jelszavak keresése
+    .key = F
+    .aria-label = Jelszavak keresése
 
 ## Passwords
 
+contextual-manager-passwords-command-create = Jelszó hozzáadása
 contextual-manager-passwords-command-import-from-browser = Importálás egy másik böngészőből…
+contextual-manager-passwords-command-import = Importálás fájlból…
 contextual-manager-passwords-command-help = Súgó
+# This message can be seen when attempting to export a password in about:logins on Windows.
+contextual-manager-passwords-export-os-auth-dialog-message-win = A jelszavai exportálásához írja be a Windows bejelentkezési adatait. Ez elősegíti a fiókja biztonságának védelmét.
+# This message can be seen when attempting to export a password in about:logins
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-export-os-auth-dialog-message-macosx = exportálja a mentett jelszavakat
+# This message can be seen when attempting to reveal a password in contextual password manager on Windows
+contextual-manager-passwords-reveal-password-os-auth-dialog-message-win = A jelszava megtekintéséhez írja be a Windows bejelentkezési adatait. Ez elősegíti a fiókja biztonságának védelmét.
+# The MacOS string is preceded by the operating system with "Firefox is trying to ".
+# Only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-reveal-password-os-auth-dialog-message-macosx = felfedje a mentett jelszót
+# This message can be seen when attempting to edit a login in contextual password manager on Windows.
+contextual-manager-passwords-edit-password-os-auth-dialog-message-win = A jelszava szerkesztéséhez írja be a Windows bejelentkezési adatait. Ez elősegíti a fiókja biztonságának védelmét.
+# The MacOS string is preceded by the operating system with "Firefox is trying to ".
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-edit-password-os-auth-dialog-message-macosx = szerkessze a mentett jelszót
+# This message can be seen when attempting to copy a password in contextual password manager on Windows.
+contextual-manager-passwords-copy-password-os-auth-dialog-message-win = A jelszava másolásához írja be a Windows bejelentkezési adatait. Ez elősegíti a fiókja biztonságának védelmét.
+# The MacOS string is preceded by the operating system with "Firefox is trying to ".
+# Only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = másolja a mentett jelszót
 contextual-manager-passwords-import-file-picker-import-button = Importálás
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -23,7 +51,9 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
        *[other] TSV-fájl
     }
 contextual-manager-passwords-import-success-button = Kész
+contextual-manager-passwords-import-error-button-cancel = Mégse
 contextual-manager-passwords-export-success-button = Kész
+contextual-manager-export-passwords-dialog-confirm-button = Folytatás az exportálással
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Jelszavak exportálása a { -brand-short-name }ból
 contextual-manager-passwords-export-file-picker-export-button = Exportálás
@@ -34,18 +64,42 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
         [macos] CSV-dokumentum
        *[other] CSV-fájl
     }
+# Checkbox label to confirm the removal of saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-confirm =
+    { $total ->
+        [1] Igen, a jelszó eltávolítása
+        [one] Igen, a jelszó eltávolítása
+       *[other] Igen, a jelszavak eltávolítása
+    }
+# Button label to confirm removal of saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-confirm-button =
+    { $total ->
+        [1] Eltávolítás
+        [one] Eltávolítás
+       *[other] Összes eltávolítása
+    }
 contextual-manager-passwords-update-password-success-button = Kész
 contextual-manager-passwords-delete-password-success-button = Kész
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Jelszó eltávolítása?
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Eltávolítás
+# This message gives the user the option to cancel their attempt to remove a login.
+contextual-manager-passwords-remove-login-card-cancel-button = Mégse
 
 ## Login Form
 
+contextual-manager-passwords-create-label =
+    .label = Jelszó hozzáadása
 
 ## Password Card
 
+contextual-manager-passwords-list-label =
+    .aria-label = Jelszavak
+contextual-manager-copy-icon =
+    .alt = Másolás
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
