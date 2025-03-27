@@ -6,6 +6,14 @@
 ## Passwords
 
 contextual-manager-passwords-command-import-from-browser = दूसरे ब्राउज़र से आयात करें…
+contextual-manager-passwords-import-file-picker-import-button = आयात करें
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+contextual-manager-passwords-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV दस्तावेज़
+       *[other] CSV फ़ाइल
+    }
 # A description for the .tsv file format that may be shown as the file type
 # filter by the operating system. TSV is short for 'tab separated values'.
 contextual-manager-passwords-import-file-picker-tsv-filter-title =
@@ -16,6 +24,13 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
 contextual-manager-passwords-import-success-button = संपन्न
 contextual-manager-passwords-import-error-button-cancel = रद्द करें
 contextual-manager-passwords-export-success-button = संपन्न
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+contextual-manager-passwords-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV दस्तावेज़
+       *[other] CSV फ़ाइल
+    }
 contextual-manager-passwords-update-password-success-button = संपन्न
 contextual-manager-passwords-delete-password-success-button = संपन्न
 # This message confirms that the user wants to remove an existing login.
