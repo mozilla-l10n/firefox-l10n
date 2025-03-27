@@ -8,13 +8,19 @@ contextual-manager-filter-input =
     .aria-label = Cercar contrasignos
 contextual-manager-menu-more-options-button =
     .title = Altere optiones
+contextual-manager-more-options-popup =
+    .aria-label = Altere optiones
 
 ## Passwords
 
 contextual-manager-passwords-command-create = Adder contrasigno
 contextual-manager-passwords-command-import-from-browser = Importar de un altere navigator…
 contextual-manager-passwords-command-import = Importar de un file…
+contextual-manager-passwords-command-export = Exportar contrasignos
+contextual-manager-passwords-command-remove-all = Remover tote le contrasignos
+contextual-manager-passwords-command-settings = Parametros
 contextual-manager-passwords-command-help = Adjuta
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Pro exportar le contrasigno, insere tu credentiales de accesso a Windows. Isto adjuta a proteger le securitate de tu contos.
 # This message can be seen when attempting to export a password in about:logins
@@ -53,12 +59,26 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] Documento TSV
        *[other] File TSV
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = Contrasignos importate
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = Nove: { $added }, Actualisate: { $modified }
+contextual-manager-passwords-import-detailed-report = Vider reporto detaliate
 contextual-manager-passwords-import-success-button = Facite
+contextual-manager-passwords-import-error-button-try-again = Retentar
 contextual-manager-passwords-import-error-button-cancel = Cancellar
+contextual-manager-passwords-import-learn-more = Apprende re importar contrasignos
+contextual-manager-passwords-export-success-heading =
+    .heading = Contrasignos exportate
 contextual-manager-passwords-export-success-button = Facite
 contextual-manager-export-passwords-dialog-confirm-button = Continuar con le exportation
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Exportar contrasignos ab { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = contrasignos
 contextual-manager-passwords-export-file-picker-export-button = Exportar
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -81,6 +101,16 @@ contextual-manager-passwords-remove-all-confirm-button =
         [1] Remover
        *[other] Remover toto
     }
+contextual-manager-passwords-origin-label = Sito web
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Nomine de usator
+    .data-after = Copiate
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Contrasigno
+    .data-after = Copiate
+contextual-manager-passwords-add-password-success-button = Vider
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Contrasigno salvate
 contextual-manager-passwords-update-password-success-button = Facite
 contextual-manager-passwords-delete-password-success-button = Facite
 # This message is displayed to make sure that a user wants to delete an existing login.

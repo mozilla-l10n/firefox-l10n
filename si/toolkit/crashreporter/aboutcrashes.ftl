@@ -2,11 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crash-reports-title = බිඳවැටුම් වාර්තා
+crash-reports-title = බිඳවැටීම් වාර්තා
 submit-all-button-label = සියල්ල යොමන්න
 delete-button-label = සියල්ල මකන්න
 delete-confirm-title = ඔබට විශ්වාස ද?
-delete-unsubmitted-description = මෙය යොමු නොකළ සියළුම බිඳ වැටීම් වාර්තා මකා දමන අතර එය අප්‍රතිවර්ත්‍යයි.
+delete-unsubmitted-description = මෙය යොමු නොකළ සියළු බිඳවැටීම් වාර්තා මකන අතර එය අප්‍රතිවර්ත්‍යයි.
 crashes-unsubmitted-label = යොමු නොකළ බිඳ වැටීම් වාර්තා
 id-heading = වාර්තා අංකය
 submit-crash-button-label = යොමන්න
