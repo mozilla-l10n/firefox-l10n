@@ -2,9 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+contextual-manager-filter-input =
+    .placeholder = პაროლების ძიება
+    .key = F
+    .aria-label = პაროლების ძიება
 
 ## Passwords
 
+contextual-manager-passwords-command-create = პაროლის დამატება
 contextual-manager-passwords-command-import-from-browser = გადმოტანა სხვა ბრაუზერიდან…
 contextual-manager-passwords-command-import = ფაილიდან გადმოტანა…
 contextual-manager-passwords-command-help = დახმარება
@@ -84,6 +89,8 @@ contextual-manager-passwords-remove-login-card-cancel-button = გაუქმ�
 
 ## Login Form
 
+contextual-manager-passwords-create-label =
+    .label = პაროლის დამატება
 
 ## Password Card
 
