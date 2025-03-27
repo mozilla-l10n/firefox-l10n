@@ -35,7 +35,9 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] TSV-dokument
        *[other] TSV-fil
     }
+contextual-manager-passwords-import-success-button = Klar
 contextual-manager-passwords-import-error-button-cancel = Avbryt
+contextual-manager-passwords-export-success-button = Klar
 contextual-manager-export-passwords-dialog-confirm-button = Fortsätt med export
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Exportera lösenord från { -brand-short-name }
@@ -62,6 +64,8 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Ta bort
        *[other] Ta bort alla
     }
+contextual-manager-passwords-update-password-success-button = Klar
+contextual-manager-passwords-delete-password-success-button = Klar
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Ta bort lösenord?
 # This message confirms that the user wants to remove an existing login.
