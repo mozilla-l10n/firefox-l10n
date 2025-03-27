@@ -6,6 +6,9 @@
 ## Passwords
 
 contextual-manager-passwords-command-import-from-browser = Eq'o ku'tzan tu uma'l jajb'al tetz u aq'one'
+contextual-manager-passwords-command-help = Lochb'al
+# This message gives the user the option to cancel their attempt to remove a login.
+contextual-manager-passwords-remove-login-card-cancel-button = Ya'sakan
 
 ## Login Form
 
