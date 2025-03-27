@@ -13,6 +13,11 @@ contextual-manager-passwords-reveal-password-os-auth-dialog-message-win = За �
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-reveal-password-os-auth-dialog-message-macosx = откријте ја зачуваната лозинка
+# This message can be seen when attempting to copy a password in contextual password manager on Windows.
+contextual-manager-passwords-copy-password-os-auth-dialog-message-win = За да ја копирате вашата лозинка, внесете ги податоците за најава на Windows. Ова помага да се заштити безбедноста на вашите сметки.
+# The MacOS string is preceded by the operating system with "Firefox is trying to ".
+# Only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = копирајте ја зачуваната лозинка
 contextual-manager-passwords-import-file-picker-import-button = Увези
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
