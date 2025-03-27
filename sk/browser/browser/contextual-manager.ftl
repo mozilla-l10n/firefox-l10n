@@ -30,7 +30,10 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] Dokument TSV
        *[other] Súbor TSV
     }
+contextual-manager-passwords-import-success-button = Hotovo
 contextual-manager-passwords-import-error-button-cancel = Zrušiť
+contextual-manager-passwords-export-success-button = Hotovo
+contextual-manager-export-passwords-dialog-confirm-button = Pokračovať v exporte
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Export hesiel z { -brand-short-name(case: "gen") }
 contextual-manager-passwords-export-file-picker-export-button = Exportovať
@@ -41,6 +44,16 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
         [macos] Dokument CSV
        *[other] Súbor CSV
     }
+# Checkbox label to confirm the removal of saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-confirm =
+    { $total ->
+        [1] Áno, odstrániť heslo
+        [one] Áno, odstrániť heslo
+        [few] Áno, odstrániť heslá
+        [many] Áno, odstrániť heslá
+       *[other] Áno, odstrániť heslá
+    }
 # Button label to confirm removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm-button =
@@ -50,6 +63,8 @@ contextual-manager-passwords-remove-all-confirm-button =
         [few] Odstrániť všetky
        *[other] Odstrániť všetky
     }
+contextual-manager-passwords-update-password-success-button = Hotovo
+contextual-manager-passwords-delete-password-success-button = Hotovo
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Odstrániť heslo?
 # This message confirms that the user wants to remove an existing login.
