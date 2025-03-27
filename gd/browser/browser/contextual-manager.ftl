@@ -58,6 +58,18 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
         [macos] Sgrìobhainn CSV
        *[other] Faidhle CSV
     }
+# Button label to confirm removal of saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-confirm-button =
+    { $total ->
+        [1] Thoir air falbh
+        [one] Thoir air falbh na h-uile
+        [two] Thoir air falbh na h-uile
+        [few] Thoir air falbh na h-uile
+       *[other] Thoir air falbh na h-uile
+    }
+# This message is displayed to make sure that a user wants to delete an existing login.
+contextual-manager-passwords-remove-login-card-title = A bheil thu airson am facal-faire a thoirt air falbh?
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Sguir dheth
 
