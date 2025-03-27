@@ -33,6 +33,8 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     }
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = להסיר ססמה?
+# This message confirms that the user wants to remove an existing login.
+contextual-manager-passwords-remove-login-card-remove-button = הסרה
 
 ## Login Form
 
