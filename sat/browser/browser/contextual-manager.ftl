@@ -10,6 +10,8 @@ contextual-manager-filter-input =
 ## Passwords
 
 contextual-manager-passwords-command-create = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱥᱮᱞᱮᱫ ᱢᱮ
+contextual-manager-passwords-command-import-from-browser = ᱮᱴᱟᱜᱟᱜ ᱵᱽᱨᱟᱣᱩᱡᱚᱨ ᱠᱷᱚᱱ ᱟᱹᱜᱩᱭ ᱢᱮ …
+contextual-manager-passwords-command-import = ᱨᱮᱫ ᱠᱷᱚᱱ ᱟᱹᱜᱩᱭ ᱢᱮ…
 contextual-manager-passwords-command-help = ᱜᱚᱲᱚ
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = ᱟᱢᱟᱜ ᱫᱟᱵᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱵᱷᱮᱡᱟ ᱞᱟᱹᱜᱤᱫ, ᱟᱢᱟᱜ ᱣᱤᱱᱰᱳᱣ ᱵᱚᱞᱚᱱ ᱠᱨᱮᱰᱮᱱᱥᱤᱭᱟᱞ ᱟᱫᱮᱨ ᱢᱮ ᱾ ᱱᱚᱶᱟ ᱨᱮ ᱟᱢᱟᱜ ᱵᱮᱵᱷᱟᱨᱤᱭᱟ ᱨᱮᱱᱟᱜ ᱥᱤᱠᱭᱩᱨᱤᱴᱤ ᱥᱟᱧᱪᱟᱣ ᱨᱮ ᱜᱚᱲᱚᱜᱼᱟ ᱾
