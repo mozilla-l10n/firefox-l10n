@@ -332,6 +332,9 @@ quickactions-cmd-addons2 = הרחבות, תוספות, תוספים
 quickactions-bookmarks2 = ניהול סימניות
 quickactions-cmd-bookmarks = סימניות, מועדפים
 # Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = ניקוי היסטוריה אחרונה
+quickactions-cmd-clearrecenthistory = ניקוי היסטוריה אחרונה, מחק היסטוריה, למחוק היסטוריה, מחיקת היסטוריה, היסטוריה
+# Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = מחיקת היסטוריה
 quickactions-cmd-clearhistory = מחיקת היסטוריה, ניקוי היסטוריה, מחק היסטוריה, נקה היסטוריה, למחוק היסטוריה, לנקות היסטוריה
 # Opens about:downloads page
@@ -340,6 +343,15 @@ quickactions-cmd-downloads = הורדות
 # Opens about:addons page in the extensions section
 quickactions-extensions = ניהול הרחבות
 quickactions-cmd-extensions = הרחבות, תוספות, תוספים
+# Opens Firefox View
+quickactions-firefoxview = פתיחת { -firefoxview-brand-name }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = פתיחת { -firefoxview-brand-name }, לפתוח את { -firefoxview-brand-name }, לפתוח את view, view
+# Opens SUMO home page
+quickactions-help = עזרה עבור { -brand-product-name }
+quickactions-cmd-help = עזרה, תמיכה
 # Opens the devtools web inspector
 quickactions-inspector2 = פתיחת כלי פיתוח
 quickactions-cmd-inspector = מפקח, inspector, כלי פיתוח, כלי מפתח, devtools

@@ -6,13 +6,21 @@ contextual-manager-filter-input =
     .placeholder = חיפוש ססמאות
     .key = F
     .aria-label = חיפוש ססמאות
+contextual-manager-menu-more-options-button =
+    .title = אפשרויות נוספות
+contextual-manager-more-options-popup =
+    .aria-label = אפשרויות נוספות
 
 ## Passwords
 
 contextual-manager-passwords-command-create = הוספת ססמה
 contextual-manager-passwords-command-import-from-browser = ייבוא מדפדפן אחר…
 contextual-manager-passwords-command-import = ייבוא מקובץ…
+contextual-manager-passwords-command-export = ייצוא ססמאות
+contextual-manager-passwords-command-remove-all = הסרת כל הססמאות
+contextual-manager-passwords-command-settings = הגדרות
 contextual-manager-passwords-command-help = עזרה
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = כדי לייצא את הססמאות שלך, יש להזין את פרטי הכניסה שלך ל־Windows. פעולה זאת מסייעת בהגנה על אבטחת החשבונות שלך.
 # This message can be seen when attempting to export a password in about:logins
@@ -35,6 +43,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = כדי �
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = להעתיק את הססמה השמורה
+contextual-manager-passwords-import-file-picker-title = ייבוא ססמאות
 contextual-manager-passwords-import-file-picker-import-button = ייבוא
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -50,6 +59,8 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] מסמך TSV
        *[other] קובץ TSV
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = הססמאות יובאו
 contextual-manager-passwords-import-success-button = סיום
 contextual-manager-passwords-import-error-button-cancel = ביטול
 contextual-manager-passwords-export-success-button = סיום

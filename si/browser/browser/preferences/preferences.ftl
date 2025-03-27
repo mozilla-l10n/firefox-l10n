@@ -1282,6 +1282,7 @@ collection-health-report =
     .label = තාක්‍ෂණික හා අන්තර්ක්‍රියා දත්ත { -vendor-short-name } වෙත යැවීමට ඉඩ දෙන්න
     .accesskey = r
 collection-health-report-link = තව දැනගන්න
+collection-health-report-description = මෙය { -brand-product-name } විශේෂාංග, කාර්ය සාධනය සහ ස්ථායීතාව වැඩිදියුණුවට උපකාරී වේ.
 collection-studies =
     .label = { -brand-short-name } වෙත අධ්‍යන ස්ථාපනයට හා ධාවනයට ඉඩ දෙන්න
 collection-studies-link = { -brand-short-name } අධ්‍යන බලන්න
