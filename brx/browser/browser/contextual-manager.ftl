@@ -8,6 +8,8 @@
 contextual-manager-passwords-command-import-from-browser = गुबुन मोनसे ब्राउजार निफ्राय लाबो...
 contextual-manager-passwords-command-import = फाइल निफ्राय लाबो…
 contextual-manager-passwords-command-help = हेफाजाब
+# This message confirms that the user wants to remove an existing login.
+contextual-manager-passwords-remove-login-card-remove-button = बोखार
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = नेवसि
 
