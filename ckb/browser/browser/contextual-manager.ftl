@@ -5,6 +5,7 @@
 
 ## Passwords
 
+contextual-manager-passwords-command-import-from-browser = هێنان لە وێبگەڕی ترەوە...
 contextual-manager-passwords-command-import = هێنان لە پەڕگەوە...
 contextual-manager-passwords-command-help = یارمەتی
 # This message can be seen when attempting to reveal a password in contextual password manager on Windows
