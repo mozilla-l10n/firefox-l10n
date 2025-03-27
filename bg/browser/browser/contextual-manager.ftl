@@ -6,6 +6,8 @@
 ## Passwords
 
 contextual-manager-passwords-command-import-from-browser = Внасяне от друг браузър…
+contextual-manager-passwords-command-import = Внасяне от файл…
+contextual-manager-passwords-command-help = Помощ
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = За да изнесете паролите, въведете данните си за вход в Windows. Това се прави с цел защита на вашите регистрации.
 # This message can be seen when attempting to export a password in about:logins
@@ -28,10 +30,46 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = За д�
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = копира запазена парола
+contextual-manager-passwords-import-file-picker-import-button = Внасяне
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+contextual-manager-passwords-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Документ с разделители
+       *[other] Файл с разделители
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+contextual-manager-passwords-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Документ на TSV
+       *[other] Файл на TSV
+    }
+contextual-manager-passwords-import-success-button = Готово
+contextual-manager-passwords-import-error-button-cancel = Отказ
+contextual-manager-passwords-export-success-button = Готово
 contextual-manager-export-passwords-dialog-confirm-button = Продължете с изнасянето
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Изнасяне на пароли от { -brand-short-name }
 contextual-manager-passwords-export-file-picker-export-button = Изнасяне
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+contextual-manager-passwords-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Документ с разделители
+       *[other] Файл с разделители
+    }
+# Checkbox label to confirm the removal of saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-confirm =
+    { $total ->
+        [one] Да, премахване на паролата
+       *[other] Да, премахване на паролите
+    }
+contextual-manager-passwords-update-password-success-button = Готово
+contextual-manager-passwords-delete-password-success-button = Готово
+# This message is displayed to make sure that a user wants to delete an existing login.
+contextual-manager-passwords-remove-login-card-title = Премахване на парола?
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Премахване
 
