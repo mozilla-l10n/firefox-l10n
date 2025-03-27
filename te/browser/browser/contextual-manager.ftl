@@ -73,6 +73,8 @@ contextual-manager-passwords-update-password-success-button = పూర్తయ
 contextual-manager-passwords-delete-password-success-button = పూర్తయింది
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = సంకేతపదం తొలగించాలా?
+# This message confirms that the user wants to remove an existing login.
+contextual-manager-passwords-remove-login-card-remove-button = తొలగించు
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = రద్దుచేయి
 
