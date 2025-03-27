@@ -13,6 +13,28 @@ contextual-manager-passwords-command-create = Pievienot paroli
 contextual-manager-passwords-command-import-from-browser = Importēt datus no cita pārlūka…
 contextual-manager-passwords-command-import = Importēt no datnes…
 contextual-manager-passwords-command-help = Palīdzība
+# This message can be seen when attempting to export a password in about:logins on Windows.
+contextual-manager-passwords-export-os-auth-dialog-message-win = Lai eksportētu savas paroles, ievadiet Windows ierkastīšanās akreditācijas datus. Tas palīdz sargāt jūsu kontu drošību.
+# This message can be seen when attempting to export a password in about:logins
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-export-os-auth-dialog-message-macosx = eksportēt saglabātās paroles
+# This message can be seen when attempting to reveal a password in contextual password manager on Windows
+contextual-manager-passwords-reveal-password-os-auth-dialog-message-win = Lai apskatītu savu paroli, ievadiet Windows ierkastīšanās akreditācijas datus. Tas palīdz sargāt jūsu kontu drošību.
+# The MacOS string is preceded by the operating system with "Firefox is trying to ".
+# Only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-reveal-password-os-auth-dialog-message-macosx = parādīt saglabāto paroli
+# This message can be seen when attempting to edit a login in contextual password manager on Windows.
+contextual-manager-passwords-edit-password-os-auth-dialog-message-win = Lai rediģētu savu paroli, jāievada Windows ierkastīšanās informācija. Tas palīdz aisargāt kontu drošību.
+# The MacOS string is preceded by the operating system with "Firefox is trying to ".
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-edit-password-os-auth-dialog-message-macosx = rediģēt saglabāto paroli
+# This message can be seen when attempting to copy a password in contextual password manager on Windows.
+contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Lai kopētu savu paroli, ievadiet Windows ierkastīšanās akreditācijas datus. Tas palīdz sargāt jūsu kontu drošību.
+# The MacOS string is preceded by the operating system with "Firefox is trying to ".
+# Only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = kopēt saglabāto paroli
 contextual-manager-passwords-import-file-picker-import-button = Importēt
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -51,8 +73,19 @@ contextual-manager-passwords-remove-all-confirm =
         [one] Jā, izņemt paroles
        *[other] Jā, izņemt paroles
     }
+# Button label to confirm removal of saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-confirm-button =
+    { $total ->
+        [1] Dzēst
+        [zero] Dzēst visu
+        [one] Dzēst visu
+       *[other] Dzēst visu
+    }
 contextual-manager-passwords-update-password-success-button = Gatavs
 contextual-manager-passwords-delete-password-success-button = Gatavs
+# This message is displayed to make sure that a user wants to delete an existing login.
+contextual-manager-passwords-remove-login-card-title = Izņemt paroli?
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Noņemt
 # This message gives the user the option to cancel their attempt to remove a login.
