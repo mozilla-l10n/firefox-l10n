@@ -20,6 +20,8 @@ contextual-manager-passwords-export-os-auth-dialog-message-win = ᱟᱢᱟᱜ �
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-export-os-auth-dialog-message-macosx = ᱥᱟᱧᱪᱟᱣ ᱟᱠᱟᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ ᱵᱷᱮᱡᱟᱭ ᱢᱮ
+# This message can be seen when attempting to reveal a password in contextual password manager on Windows
+contextual-manager-passwords-reveal-password-os-auth-dialog-message-win = ᱟᱢᱟᱜ ᱫᱟᱵᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱧᱮᱞ ᱢᱮ, ᱟᱢᱟᱜ ᱣᱤᱱᱰᱳᱣ ᱵᱚᱞᱚᱱ ᱠᱨᱮᱰᱮᱱᱥᱤᱭᱟᱞ ᱟᱫᱮᱨ ᱢᱮ ᱾ ᱱᱚᱶᱟ ᱨᱮ ᱟᱢᱟᱜ ᱵᱮᱵᱷᱟᱨᱤᱭᱟ ᱨᱮᱱᱟᱜ ᱥᱤᱠᱭᱩᱨᱤᱴᱤ ᱥᱟᱧᱪᱟᱣ ᱨᱮ ᱜᱚᱲᱚᱜᱼᱟ ᱾
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-reveal-password-os-auth-dialog-message-macosx = ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
