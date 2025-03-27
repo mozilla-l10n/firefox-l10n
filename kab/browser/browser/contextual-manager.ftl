@@ -5,6 +5,7 @@
 
 ## Passwords
 
+contextual-manager-passwords-command-import-from-browser = Kter seg iminig nniḍen…
 contextual-manager-passwords-command-help = Tallalt
 
 ## Login Form
