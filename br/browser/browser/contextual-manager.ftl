@@ -29,10 +29,32 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Evit eil
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = eilañ ar ger-tremen enrollet
+contextual-manager-passwords-import-file-picker-import-button = Enporzhiañ
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+contextual-manager-passwords-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Restr CSV
+       *[other] Restr CSV
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+contextual-manager-passwords-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Teul TSV
+       *[other] Restr TSV
+    }
 contextual-manager-export-passwords-dialog-confirm-button = Kenderc’hel gant an ezporzhiañ
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Ezporzhiañ gerioù-tremen diouzh { -brand-short-name }
 contextual-manager-passwords-export-file-picker-export-button = Ezporzhiañ
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+contextual-manager-passwords-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Restr CSV
+       *[other] Restr CSV
+    }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
