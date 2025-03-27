@@ -7,6 +7,12 @@
 
 contextual-manager-passwords-command-import-from-browser = Digər səyyahdan daxil et…
 contextual-manager-passwords-command-help = Kömək
+# The MacOS string is preceded by the operating system with "Firefox is trying to ".
+# Only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-reveal-password-os-auth-dialog-message-macosx = saxlanılmış parolu göstər
+# The MacOS string is preceded by the operating system with "Firefox is trying to ".
+# Only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = saxlanılmış parolu köçür
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Sil
 # This message gives the user the option to cancel their attempt to remove a login.
