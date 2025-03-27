@@ -11,11 +11,16 @@
 certificate-viewer-email-address = ഇതപാൽ വിലാസം
 certificate-viewer-country = രാജ്യം
 certificate-viewer-ip-address = ഐ.പി വിലാസം
+certificate-viewer-other-name = മറ്റു് പേരു്
 certificate-viewer-id = തിരിച്ചറിയൽച്ചാൎത്തു്
+certificate-viewer-key-size = കട്ടവ്വലുപ്പം
 certificate-viewer-locality = അയൽപ്പക്കം
 certificate-viewer-location = ഇടം
 certificate-viewer-method = പരി
 certificate-viewer-name = പേരു്
+certificate-viewer-not-after = ശേഷമുള്ളതല്ല
+certificate-viewer-not-before = മുമ്പുള്ളതല്ല
+certificate-viewer-organization = സ്ഥാപനം
 certificate-viewer-sha-256 = SHA-256
 certificate-viewer-signature-algorithm = ഒപ്പു് അൽഗോരിതം
 certificate-viewer-signature-scheme = ഒപ്പുമുറ
