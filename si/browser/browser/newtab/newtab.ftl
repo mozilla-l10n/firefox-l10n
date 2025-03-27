@@ -8,6 +8,9 @@
 newtab-page-title = නව පටිත්ත
 newtab-settings-button =
     .title = නව පටිත්ත පිටුව අභිරුචිකරණය
+newtab-personalize-settings-icon-label =
+    .title = නව පටිත්ත පුද්ගලීකරණය
+    .aria-label = සැකසුම්
 newtab-personalize-icon-label =
     .title = නව පටිත්ත පුද්ගලීකරණය
     .aria-label = නව පටිත්ත පුද්ගලීකරණය
