@@ -54,6 +54,8 @@ contextual-manager-passwords-delete-password-success-button = تمّ
 contextual-manager-passwords-remove-login-card-title = إزالة كلمة السر؟
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = أزِل
+# This message gives the user the option to cancel their attempt to remove a login.
+contextual-manager-passwords-remove-login-card-cancel-button = ألغِ
 
 ## Login Form
 
