@@ -20,9 +20,16 @@ contextual-manager-passwords-export-os-auth-dialog-message-win = আপোনা
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-export-os-auth-dialog-message-macosx = সাঁচি থোৱা পাছৱৰ্ডবোৰ ৰপ্তানি কৰক
+# This message can be seen when attempting to reveal a password in contextual password manager on Windows
+contextual-manager-passwords-reveal-password-os-auth-dialog-message-win = আপোনাৰ পাছৱৰ্ড চাবলৈ আপোনাৰ উইণ্ড'জ লগিন পৰিচয়-পত্ৰ প্ৰৱিষ্ট কৰক। ই আপোনাৰ একাউণ্টৰ নিৰাপত্তা ৰক্ষা কৰাত সহায় কৰে।
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-reveal-password-os-auth-dialog-message-macosx = সাঁচি থোৱা পাছৱৰ্ড উন্মোচন কৰক
+# This message can be seen when attempting to edit a login in contextual password manager on Windows.
+contextual-manager-passwords-edit-password-os-auth-dialog-message-win = আপোনাৰ পাছৱৰ্ড সম্পাদনা কৰিবলৈ আপোনাৰ Windows-ৰ লগিন-সম্বন্ধীয় প্ৰমাণপত্ৰ লিখক। ই আপোনাৰ একাউণ্টকেইটাৰ নিৰাপত্তা বজাই ৰখাত সহায় কৰে।
+# The MacOS string is preceded by the operating system with "Firefox is trying to ".
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-edit-password-os-auth-dialog-message-macosx = সাঁচি থোৱা পাছৱৰ্ড সম্পাদনা কৰক
 # This message can be seen when attempting to copy a password in contextual password manager on Windows.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-win = আপোনাৰ পাছৱৰ্ড কপি কৰিবলৈ আপোনাৰ উইণ্ড'জ লগিন পৰিচয়-পত্ৰ প্ৰৱিষ্ট কৰক। ই আপোনাৰ একাউণ্টৰ নিৰাপত্তা ৰক্ষা কৰাত সহায় কৰে।
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
@@ -64,6 +71,14 @@ contextual-manager-passwords-remove-all-confirm =
         [2] হয়, পাছৱৰ্ডদুটা আঁতৰাওক
         [1] হয়, পাছৱৰ্ড আঁতৰাওক
        *[other] হয়, পাছৱৰ্ডকেইটা আঁতৰাওক
+    }
+# Button label to confirm removal of saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-confirm-button =
+    { $total ->
+        [1] আঁতৰাওক
+        [one] সকলো আঁতৰাওক
+       *[other] সকলো আঁতৰাওক
     }
 contextual-manager-passwords-update-password-success-button = হৈ গ'ল
 contextual-manager-passwords-delete-password-success-button = হৈ গ'ল
