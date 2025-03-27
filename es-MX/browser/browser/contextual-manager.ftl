@@ -20,6 +20,14 @@ contextual-manager-passwords-import-file-picker-csv-filter-title =
         [macos] Documento CSV
        *[other] Archivo CSV
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+contextual-manager-passwords-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Documento TSV
+       *[other] Archivo TSV
+    }
+contextual-manager-passwords-import-error-button-cancel = Cancelar
 contextual-manager-export-passwords-dialog-confirm-button = Continuar con la exportación
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Exportar contraseñas de { -brand-short-name }
