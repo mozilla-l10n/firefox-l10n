@@ -131,6 +131,9 @@ contextual-manager-passwords-list-label =
     .aria-label = Contrasignos
 contextual-manager-copy-icon =
     .alt = Copiar
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = Nulle contrasigno trovate
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
