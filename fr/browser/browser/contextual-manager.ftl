@@ -5,6 +5,7 @@
 
 ## Passwords
 
+contextual-manager-passwords-command-help = Aide
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Pour exporter vos mots de passe, utilisez vos informations de connexion à Windows. Cela contribue à protéger la sécurité de vos comptes.
 # This message can be seen when attempting to export a password in about:logins
