@@ -52,6 +52,7 @@ community-2 = <label data-l10n-name="community-mozillaLink">{ -vendor-short-name
 helpus = උදව් කිරීමට වුවමනාද? <label data-l10n-name="helpus-donateLink">පරිත්‍යාගයක් කරන්න</label> හෝ <label data-l10n-name="helpus-getInvolvedLink">සම්බන්ධ වන්න!</label>
 bottomLinks-license = බලපත්‍ර තොරතුරු
 bottom-links-terms = භාවිත නියම
+bottom-links-privacy = රහස්‍යතා නිවේදනය
 bottomLinks-rights = පරිශ්‍රීලක අයිතීන්
 bottomLinks-privacy = රහස්‍යතා ප්‍රතිපත්තිය
 # Example of resulting string: 66.0.1 (64-bit)

@@ -188,6 +188,11 @@ contextual-manager-alert-icon =
 contextual-manager-origin-login-line-with-alert =
     .aria-label = Visita { $url } (aviso)
     .title = Visita { $url } (aviso)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = Copiar nomine de usator { $username }
+    .title = Copiar nomine de usator { $username }
 contextual-manager-password-login-line =
     .aria-label = Copiar contrasigno
     .title = Copiar contrasigno

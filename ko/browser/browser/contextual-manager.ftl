@@ -6,6 +6,10 @@ contextual-manager-filter-input =
     .placeholder = 비밀번호 검색
     .key = F
     .aria-label = 비밀번호 검색
+contextual-manager-menu-more-options-button =
+    .title = 추가 옵션
+contextual-manager-more-options-popup =
+    .aria-label = 추가 옵션
 
 ## Passwords
 
