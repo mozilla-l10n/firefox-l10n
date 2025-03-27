@@ -30,9 +30,34 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = برای
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = رونوشت از گذرواژهٔ ذخیره شده
+contextual-manager-passwords-import-file-picker-import-button = درون‌ریزی
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+contextual-manager-passwords-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] سند CSV
+       *[other] پرونده CSV
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+contextual-manager-passwords-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] نوشتار TSV
+       *[other] پروندهٔ TSV
+    }
 contextual-manager-passwords-import-success-button = انجام شد
 contextual-manager-passwords-import-error-button-cancel = انصراف
 contextual-manager-passwords-export-success-button = انجام شد
+# Title of the file picker dialog
+contextual-manager-passwords-export-file-picker-title = برون‌ریزی گذرواژه‌ها از { -brand-short-name }
+contextual-manager-passwords-export-file-picker-export-button = برون‌ریزی
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+contextual-manager-passwords-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] سند CSV
+       *[other] پرونده CSV
+    }
 # Button label to confirm removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm-button =
@@ -45,6 +70,8 @@ contextual-manager-passwords-update-password-success-button = انجام شد
 contextual-manager-passwords-delete-password-success-button = انجام شد
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = گذرواژه حذف شود؟
+# This message confirms that the user wants to remove an existing login.
+contextual-manager-passwords-remove-login-card-remove-button = برداشتن
 
 ## Login Form
 
