@@ -53,6 +53,7 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
 contextual-manager-passwords-import-success-button = Fertig
 contextual-manager-passwords-import-error-button-cancel = Abbrechen
 contextual-manager-passwords-export-success-button = Fertig
+contextual-manager-export-passwords-dialog-confirm-button = Weiter mit Export
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Passwörter von { -brand-short-name } exportieren
 contextual-manager-passwords-export-file-picker-export-button = Exportieren
@@ -84,6 +85,8 @@ contextual-manager-passwords-delete-password-success-button = Fertig
 contextual-manager-passwords-remove-login-card-title = Passwort entfernen?
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Entfernen
+# This message gives the user the option to cancel their attempt to remove a login.
+contextual-manager-passwords-remove-login-card-cancel-button = Abbrechen
 
 ## Login Form
 
@@ -94,6 +97,8 @@ contextual-manager-passwords-create-label =
 
 contextual-manager-passwords-list-label =
     .aria-label = Passwörter
+contextual-manager-copy-icon =
+    .alt = Kopieren
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
