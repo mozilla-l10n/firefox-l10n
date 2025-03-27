@@ -5,6 +5,7 @@
 
 ## Passwords
 
+contextual-manager-passwords-command-help = Agiudu
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win =
     Pro esportare is craes tuas, inserta is credentziales de atzessu a Windows.
@@ -47,6 +48,7 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
        *[other] Archìviu TSV
     }
 contextual-manager-passwords-import-error-button-cancel = Annulla
+contextual-manager-export-passwords-dialog-confirm-button = Sighi a esportare
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Esporta is craes dae { -brand-short-name }
 contextual-manager-passwords-export-file-picker-export-button = Esporta
@@ -56,6 +58,14 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] Documentu CSV
        *[other] Archìviu CSV
+    }
+# Checkbox label to confirm the removal of saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-confirm =
+    { $total ->
+        [1] Eja, boga sa crae
+        [one] Eja, boga sa crae
+       *[other] Eja, boga is craes
     }
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Boles bogare sa crae?
