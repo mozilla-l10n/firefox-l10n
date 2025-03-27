@@ -5,6 +5,9 @@
 
 ## Passwords
 
+contextual-manager-passwords-command-import-from-browser = အခြား ဘရောင်ဇာ မှ တင်သွင်းရန်...
+contextual-manager-passwords-command-import = ဖိုင်မှ တင်သွင်းရန်...
+contextual-manager-passwords-command-help = အကူအညီ
 contextual-manager-passwords-import-file-picker-import-button = တင်သွင်း
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
