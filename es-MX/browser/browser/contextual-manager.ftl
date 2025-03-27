@@ -10,8 +10,31 @@ contextual-manager-filter-input =
 ## Passwords
 
 contextual-manager-passwords-command-create = Agregar contraseña
+contextual-manager-passwords-command-import-from-browser = Importar desde otro navegador…
 contextual-manager-passwords-command-import = Importar desde un archivo…
 contextual-manager-passwords-command-help = Ayuda
+# This message can be seen when attempting to export a password in about:logins on Windows.
+contextual-manager-passwords-export-os-auth-dialog-message-win = Para exportar tus contraseñas, ingresa tus credenciales de inicio de sesión de Windows. Esto ayuda a proteger la seguridad de tus cuentas.
+# This message can be seen when attempting to export a password in about:logins
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-export-os-auth-dialog-message-macosx = exportar contraseñas guardadas
+# This message can be seen when attempting to reveal a password in contextual password manager on Windows
+contextual-manager-passwords-reveal-password-os-auth-dialog-message-win = Para ver tu contraseña, ingresa tus credenciales de inicio de sesión de Windows. Esto ayuda a proteger la seguridad de tus cuentas.
+# The MacOS string is preceded by the operating system with "Firefox is trying to ".
+# Only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-reveal-password-os-auth-dialog-message-macosx = mostrar la contraseña guardada
+# This message can be seen when attempting to edit a login in contextual password manager on Windows.
+contextual-manager-passwords-edit-password-os-auth-dialog-message-win = Para editar tu contraseña, ingresa tus credenciales de inicio de sesión de Windows. Esto ayuda a proteger la seguridad de tus cuentas.
+# The MacOS string is preceded by the operating system with "Firefox is trying to ".
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-edit-password-os-auth-dialog-message-macosx = editar la contraseña guardada
+# This message can be seen when attempting to copy a password in contextual password manager on Windows.
+contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Para copiar tu contraseña, ingresa tus credenciales de inicio de sesión de Windows. Esto ayuda a proteger la seguridad de tus cuentas.
+# The MacOS string is preceded by the operating system with "Firefox is trying to ".
+# Only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = copiar la contraseña guardada
 contextual-manager-passwords-import-file-picker-import-button = Importar
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
