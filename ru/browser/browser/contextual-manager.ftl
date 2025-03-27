@@ -2,9 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+contextual-manager-filter-input =
+    .placeholder = Поиск паролей
+    .key = F
+    .aria-label = Поиск паролей
 
 ## Passwords
 
+contextual-manager-passwords-command-create = Добавить пароль
 contextual-manager-passwords-command-import-from-browser = Импорт из другого браузера…
 contextual-manager-passwords-command-import = Импорт из файла…
 contextual-manager-passwords-command-help = Помощь
@@ -85,6 +90,8 @@ contextual-manager-passwords-remove-login-card-remove-button = Удалить
 
 ## Login Form
 
+contextual-manager-passwords-create-label =
+    .label = Добавить пароль
 
 ## Password Card
 
