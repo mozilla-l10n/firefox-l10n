@@ -13,6 +13,7 @@ contextual-manager-passwords-command-help = Kony
 contextual-manager-passwords-reveal-password-os-auth-dialog-message-macosx = nyut mung me donyo ma kigwoko ni
 contextual-manager-passwords-import-file-picker-import-button = Kel ki woko
 contextual-manager-passwords-import-success-button = Otum
+contextual-manager-passwords-import-error-button-cancel = Juki
 contextual-manager-passwords-export-success-button = Otum
 contextual-manager-passwords-export-file-picker-export-button = Cwal woko
 # Button label to confirm removal of saved passwords
