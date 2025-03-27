@@ -5,6 +5,8 @@
 
 ## Passwords
 
+contextual-manager-passwords-import-success-button = ചെയ്തു
+contextual-manager-passwords-export-success-button = ചെയ്തു
 # Button label to confirm removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm-button =
@@ -13,6 +15,8 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] മാറ്റുക
        *[other] എല്ലാം മാറ്റുക
     }
+contextual-manager-passwords-update-password-success-button = ചെയ്തു
+contextual-manager-passwords-delete-password-success-button = ചെയ്തു
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = രഹസ്യവാക്കു് മായ്ക്കുക?
 
