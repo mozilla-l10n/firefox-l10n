@@ -44,6 +44,15 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
         [macos] Document CSV
        *[other] Fișier CSV
     }
+# Button label to confirm removal of saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-confirm-button =
+    { $total ->
+        [1] Elimină
+        [one] Elimină
+        [few] Elimină-le pe toate
+       *[other] Elimină-le pe toate
+    }
 contextual-manager-passwords-update-password-success-button = Terminat
 contextual-manager-passwords-delete-password-success-button = Terminat
 # This message confirms that the user wants to remove an existing login.
