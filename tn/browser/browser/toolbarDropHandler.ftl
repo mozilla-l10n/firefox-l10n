@@ -3,3 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 toolbar-drop-on-home-title = Tlhoma Tsebegae
+toolbar-drop-on-home-msg = A o batla gore Tokumente e e nne tsebegae ya gago e ntšha?
