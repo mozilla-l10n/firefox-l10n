@@ -50,6 +50,9 @@ contextual-manager-passwords-import-success-button = ᱦᱩᱭᱮᱱᱟ
 contextual-manager-passwords-import-error-button-cancel = ᱵᱟᱹᱰᱨᱟᱹ
 contextual-manager-passwords-export-success-button = ᱦᱩᱭᱮᱱᱟ
 contextual-manager-export-passwords-dialog-confirm-button = ᱩᱪᱟᱹᱲ ᱥᱟᱞᱟᱜ ᱞᱟᱦᱟ
+# Title of the file picker dialog
+contextual-manager-passwords-export-file-picker-title = { -brand-short-name } ᱠᱷᱚᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱠᱚ ᱩᱪᱟᱹᱲ
+contextual-manager-passwords-export-file-picker-export-button = ᱵᱟᱦᱨᱮ ᱠᱩᱞ ᱢᱮ
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 contextual-manager-passwords-export-file-picker-csv-filter-title =
