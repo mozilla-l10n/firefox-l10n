@@ -4,7 +4,7 @@
 
 page-title = දොස් සෙවීමේ තොරතුරු
 page-subtitle = ඔබ ගැටලුවක් විසඳීමට උත්සාහ කරමින් සිටින විට ප්‍රයෝජනවත් විය හැකි තාක්‍ෂණික තොරතුරු මෙම පිටුවෙහි අඩංගු වේ. { -brand-short-name } ගැන සරල ප්‍රශ්නවලට පිළිතුරු සොයන්නේ නම්, අපගේ <a data-l10n-name="support-link">සහාය අඩවිය</a> බලන්න.
-crashes-title = බිඳ වැටීමේ වාර්තා
+crashes-title = බිඳ වැටීම් වාර්තා
 crashes-id = වාර්තාවේ හැඳු.
 crashes-send-date = යොමුකළ
 crashes-all-reports = සියළුම බිඳවැටීම් වාර්තා

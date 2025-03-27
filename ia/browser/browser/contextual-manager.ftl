@@ -6,6 +6,8 @@ contextual-manager-filter-input =
     .placeholder = Cercar contrasignos
     .key = F
     .aria-label = Cercar contrasignos
+contextual-manager-menu-more-options-button =
+    .title = Altere optiones
 
 ## Passwords
 
@@ -35,6 +37,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Pro copi
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = copiar le contrasigno salvate
+contextual-manager-passwords-import-file-picker-title = Importar contrasignos
 contextual-manager-passwords-import-file-picker-import-button = Importar
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.

@@ -30,6 +30,7 @@ more-from-moz-firefox-relay-button = { -relay-brand-short-name } ගන්න
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
+more-from-moz-mozilla-monitor-us-description = ඔබගේ එළිදරවු වූ පෞද්ගලික තොරතුරු ස්වයංක්‍රියව ආපසු අරගන්න.
 more-from-moz-mozilla-monitor-global-description = ඔබගේ දත්ත උල්ලංඝනය වී ඇති විට ඇඟවීම් ලබා ගන්න.
 more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name } ගන්න
 
