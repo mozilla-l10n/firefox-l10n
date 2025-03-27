@@ -23,6 +23,7 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] TSV-dokument
        *[other] TSV-fail
     }
+contextual-manager-passwords-import-error-button-cancel = Loobu
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Paroolide eksportimine { -brand-short-name }ist
 contextual-manager-passwords-export-file-picker-export-button = Ekspordi
