@@ -2,9 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+contextual-manager-filter-input =
+    .placeholder = Tschertgar en ils pleds-clav
+    .key = F
+    .aria-label = Tschertgar en ils pleds-clav
 
 ## Passwords
 
+contextual-manager-passwords-command-create = Agiuntar in pled-clav
 contextual-manager-passwords-command-import-from-browser = Importar dad in auter navigatur…
 contextual-manager-passwords-command-import = Importar dad ina datoteca…
 contextual-manager-passwords-command-help = Agid
@@ -85,6 +90,8 @@ contextual-manager-passwords-remove-login-card-cancel-button = Interrumper
 
 ## Login Form
 
+contextual-manager-passwords-create-label =
+    .label = Agiuntar in pled-clav
 
 ## Password Card
 
