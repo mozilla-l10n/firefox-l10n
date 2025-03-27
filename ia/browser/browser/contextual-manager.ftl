@@ -5,6 +5,7 @@
 
 ## Passwords
 
+contextual-manager-passwords-command-help = Adjuta
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Pro exportar le contrasigno, insere tu credentiales de accesso a Windows. Isto adjuta a proteger le securitate de tu contos.
 # This message can be seen when attempting to export a password in about:logins
@@ -43,6 +44,7 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
        *[other] File TSV
     }
 contextual-manager-passwords-import-success-button = Facite
+contextual-manager-passwords-import-error-button-cancel = Cancellar
 contextual-manager-passwords-export-success-button = Facite
 contextual-manager-export-passwords-dialog-confirm-button = Continuar con le exportation
 # Title of the file picker dialog
@@ -71,6 +73,10 @@ contextual-manager-passwords-remove-all-confirm-button =
     }
 contextual-manager-passwords-update-password-success-button = Facite
 contextual-manager-passwords-delete-password-success-button = Facite
+# This message is displayed to make sure that a user wants to delete an existing login.
+contextual-manager-passwords-remove-login-card-title = Remover le contrasigno?
+# This message confirms that the user wants to remove an existing login.
+contextual-manager-passwords-remove-login-card-remove-button = Remover
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Cancellar
 
