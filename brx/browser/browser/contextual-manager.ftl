@@ -6,6 +6,8 @@
 ## Passwords
 
 contextual-manager-passwords-command-import-from-browser = गुबुन मोनसे ब्राउजार निफ्राय लाबो...
+contextual-manager-passwords-command-import = फाइल निफ्राय लाबो…
+contextual-manager-passwords-command-help = हेफाजाब
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = नेवसि
 
@@ -14,6 +16,8 @@ contextual-manager-passwords-remove-login-card-cancel-button = नेवसि
 
 ## Password Card
 
+contextual-manager-copy-icon =
+    .alt = कपि खालाम
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
