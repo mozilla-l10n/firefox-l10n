@@ -29,6 +29,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Za kopir
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = kopiraj spašenu lozinku
+contextual-manager-export-passwords-dialog-confirm-button = Nastavite sa izvozom
 
 ## Login Form
 
