@@ -2,9 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+contextual-manager-filter-input =
+    .placeholder = Serĉi pasvortojn
+    .key = F
+    .aria-label = Serĉi pasvortojn
 
 ## Passwords
 
+contextual-manager-passwords-command-create = Aldoni pasvorton
 contextual-manager-passwords-command-import-from-browser = Enporti el alia retumilo…
 contextual-manager-passwords-command-import = Enporti el dosiero …
 contextual-manager-passwords-command-help = Helpo
@@ -85,6 +90,8 @@ contextual-manager-passwords-remove-login-card-cancel-button = Nuligi
 
 ## Login Form
 
+contextual-manager-passwords-create-label =
+    .label = Aldoni pasvorton
 
 ## Password Card
 
