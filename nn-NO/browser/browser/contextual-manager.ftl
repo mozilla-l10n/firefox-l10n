@@ -95,14 +95,39 @@ contextual-manager-passwords-origin-label = Nettstad
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = Brukarnamn
     .data-after = Kopiert
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Passord
+    .data-after = Kopiert
+contextual-manager-passwords-add-password-success-button = Vis
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = Eit passord og brukarnamn for { $url } finst allereie
+contextual-manager-passwords-password-already-exists-error-button = Gå til passord
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Passord lagra
 contextual-manager-passwords-update-password-success-button = Ferdig
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] Passord fjerna
+            [one] Passord fjerna
+           *[other] Passord fjerna
+        }
 contextual-manager-passwords-delete-password-success-button = Ferdig
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Vil du fjerne passordet?
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Tilbake
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Fjern
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Avbryt
+contextual-manager-passwords-alert-back-button =
+    .label = Tilbake
+contextual-manager-passwords-change-password-button = Endre passord
 
 ## Login Form
 
@@ -115,6 +140,15 @@ contextual-manager-passwords-list-label =
     .aria-label = Passord
 contextual-manager-copy-icon =
     .alt = Kopier
+contextual-manager-show-password-button =
+    .aria-label = Vis passord
+    .title = Vis passord
+contextual-manager-hide-password-button =
+    .aria-label = Gøym passord
+    .title = Gøym passord
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = Fann ingen passord
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
@@ -123,3 +157,5 @@ contextual-manager-copy-icon =
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-close-button = Lat att
+contextual-manager-passwords-discard-changes-go-back-button = Gå tilbake

@@ -71,6 +71,8 @@ perftools-button-edit-settings = Edit Settings…
 
 ## More actions menu
 
+perftools-menu-more-actions-button =
+    .title = Fleire handlingar
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 

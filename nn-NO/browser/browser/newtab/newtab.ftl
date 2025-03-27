@@ -521,3 +521,4 @@ newtab-section-mangage-topics-followed-topics = Følgt
 newtab-section-mangage-topics-followed-topics-empty-state = Du har ikkje følgt nokon emne enno.
 newtab-section-mangage-topics-blocked-topics = Blokkert
 newtab-section-mangage-topics-blocked-topics-empty-state = Du har ikkje blokkert nokon emne enno.
+newtab-custom-wallpaper-cta = Prøv det
