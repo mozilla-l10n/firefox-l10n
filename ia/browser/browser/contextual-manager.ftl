@@ -78,6 +78,8 @@ contextual-manager-passwords-export-success-heading =
 contextual-manager-passwords-export-success-button = Facite
 # Export passwords to file dialog
 contextual-manager-export-passwords-dialog-title = Exportar contrasignos a file?
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = Post tu exportation, nos consilia deler lo proque alteres qui pote usar iste apparato non pote vider tu contrasignos.
 contextual-manager-export-passwords-dialog-confirm-button = Continuar con le exportation
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Exportar contrasignos ab { -brand-short-name }
@@ -113,6 +115,22 @@ contextual-manager-passwords-remove-all-confirm-button =
     { $total ->
         [1] Remover
        *[other] Remover toto
+    }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] Isto removera tu contrasigno salvate a { -brand-short-name } e qualcunque aviso de violation. Tu non potera disfacer iste action.
+        [one] Isto removera tu contrasigno salvate a { -brand-short-name } e qualcunque aviso de violation. Tu non potera disfacer iste action.
+       *[other] Isto removera tu contrasignos salvate a { -brand-short-name } e qualcunque aviso de violation. Tu non potera disfacer iste action.
+    }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] Isto removera tu contrasigno salvate a { -brand-short-name } sur tote tu apparatos synchronisate e qualcunque aviso de violation. Tu non potera disfacer iste action.
+        [one] Isto removera tu contrasigno salvate a { -brand-short-name } sur tote tu apparatos synchronisate e qualcunque aviso de violation. Tu non potera disfacer iste action.
+       *[other] Isto removera tu contrasignos salvate a { -brand-short-name } sur tote tu apparatos synchronisate e qualcunque aviso de violation. Tu non potera disfacer iste action.
     }
 contextual-manager-passwords-origin-label = Sito web
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
@@ -191,6 +209,7 @@ contextual-manager-passwords-edit-label =
     .label = Modificar le contrasigno
 contextual-manager-passwords-remove-label =
     .title = Remover contrasigno
+contextual-manager-passwords-password-tooltip = Insere le contrasigno usate pro acceder a iste conto.
 
 ## Password Card
 

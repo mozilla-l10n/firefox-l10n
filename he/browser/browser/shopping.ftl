@@ -252,9 +252,18 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 ## Review Checker in Integrated sidebar
 
+# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
+shopping-opt-in-integrated-headline = לבצע רכישות בביטחון
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle-unsupported-site = בודק הסקירות של { -brand-product-name } מסייע לך לדעתץ עד כמה סקירות של מוצרים אמינות, לפני ביצוע הרכישה. הבודק משתמש בטכנולוגיית AI כדי לנתח סקירות ועובד בעת רכישה ב־{ $firstSite }, ‏{ $secondSite } ו־{ $thirdSite }. <a data-l10n-name="learn_more">מידע נוסף</a>
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-opt-in-integrated-headline = האם ניתן לסמוך על הסקירות האלה?
 
 ## Message strings for Review Checker's empty states.
 

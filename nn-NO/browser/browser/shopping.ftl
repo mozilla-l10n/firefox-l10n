@@ -254,6 +254,7 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-opt-in-integrated-headline = Kan du stole på desse vurderingane?
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Ignorer
 shopping-callout-not-opted-in-integrated-reminder-manage-settings = Handsam innstillingar
 shopping-opt-in-integrated-button = Prøv vurderingskontrolløren

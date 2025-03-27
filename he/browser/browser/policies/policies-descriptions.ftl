@@ -128,6 +128,7 @@ policy-SearchSuggestEnabled = הפעלה או השבתה של הצעות חיפ�
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = הוספה או מחיקת מודולי PKCS #11.
 policy-ShowHomeButton = הצגת כפתור הבית בסרגל הכלים.
+policy-SkipTermsOfUse = לא להציג את תנאי השימוש והצהרת הפרטיות בעת הפעלת הדפדפן.
 policy-SSLVersionMax = הגדרת גרסת ה־SSL המקסימלית.
 policy-SSLVersionMin = הגדרת גרסת ה־SSL המינימלית.
 policy-StartDownloadsInTempDirectory = לכפות על הורדות להתחיל במיקום מקומי וזמני במקום בתיקיית ההורדות המוגדרת כברירת המחדל.

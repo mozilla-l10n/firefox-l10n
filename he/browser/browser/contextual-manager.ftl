@@ -189,6 +189,9 @@ contextual-manager-passwords-breached-origin-heading-and-message =
     .message = ססמאות מאתר זה דווחו כגנובות או מודלפות. יש לשנות את הססמה שלך כדי להגן על החשבון שלך.
 contextual-manager-passwords-breached-origin-link-message = כיצד { -brand-product-name } יודעת על דליפות?
 contextual-manager-passwords-change-password-button = שינוי ססמה
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = מומלץ לשנות את הססמה
+    .message = ססמה זו קלה לניחוש. יש לשנות את הססמה שלך כדי להגן על החשבון שלך.
 
 ## Login Form
 

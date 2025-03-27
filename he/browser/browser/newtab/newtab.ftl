@@ -518,3 +518,7 @@ newtab-section-mangage-topics-followed-topics = במעקב
 newtab-section-mangage-topics-followed-topics-empty-state = עדיין לא עקבת אחר אף נושא.
 newtab-section-mangage-topics-blocked-topics = חסום
 newtab-section-mangage-topics-blocked-topics-empty-state = עדיין לא חסמת אף נושא.
+newtab-custom-wallpaper-title = טפטים מותאמים אישית נמצאים כאן
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle = ניתן להעלות טפט משלך או לבחור בצבע מותאם אישית כדי להפוך את { -brand-product-name } לשלך.
+newtab-custom-wallpaper-cta = בואו ננסה

@@ -271,6 +271,7 @@ shopping-empty-state-header = Preste a controlar recensiones
 
 ## Confirm disabling Review Checker for newly opted out users
 
+shopping-integrated-callout-opted-out-title = Verificator de recension es disactivate
 
 ## Callout for where to find Review Checker when the sidebar closes
 
@@ -279,6 +280,11 @@ shopping-empty-state-header = Preste a controlar recensiones
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-move-right-button = Mover a dextra
+shopping-integrated-new-position-notification-move-left-button = Mover a sinistra
+shopping-integrated-new-position-notification-dismiss-button = Comprendite
 
 ## Combined setting for auto-open and auto-close.
 
+shopping-settings-auto-open-and-close-toggle =
+    .label = Aperir e clauder automaticamente Verificator de recension

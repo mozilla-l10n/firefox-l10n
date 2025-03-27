@@ -332,6 +332,9 @@ quickactions-cmd-addons2 = additivos
 quickactions-bookmarks2 = Gerer marcapaginas
 quickactions-cmd-bookmarks = marcapaginas
 # Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Vacuar le chronologia recente
+quickactions-cmd-clearrecenthistory = Vacuar le chronologia recente, chronologia
+# Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Vacuar le chronologia
 quickactions-cmd-clearhistory = vacuar chronologia
 # Opens about:downloads page
@@ -340,6 +343,14 @@ quickactions-cmd-downloads = discargamentos
 # Opens about:addons page in the extensions section
 quickactions-extensions = Gerer extensiones
 quickactions-cmd-extensions = extensiones
+# Opens Firefox View
+quickactions-firefoxview = Aperir { -firefoxview-brand-name }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = aperir { -firefoxview-brand-name }, { -firefoxview-brand-name }, aperir view, view
+# Opens SUMO home page
+quickactions-help = Adjuta pro { -brand-product-name }
 quickactions-cmd-help = adjuta, supporto
 # Opens the devtools web inspector
 quickactions-inspector2 = Aperir utensiles de disveloppator
