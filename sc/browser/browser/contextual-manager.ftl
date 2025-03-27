@@ -69,6 +69,8 @@ contextual-manager-passwords-remove-all-confirm =
     }
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Boles bogare sa crae?
+# This message confirms that the user wants to remove an existing login.
+contextual-manager-passwords-remove-login-card-remove-button = Boga
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Annulla
 
