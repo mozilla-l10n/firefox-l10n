@@ -2,9 +2,16 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+contextual-manager-filter-input =
+    .placeholder = Chirca craes
+    .key = F
+    .aria-label = Chirca craes
 
 ## Passwords
 
+contextual-manager-passwords-command-create = Agiunghe crae
+contextual-manager-passwords-command-import-from-browser = Importa dae un'àteru navigadore...
+contextual-manager-passwords-command-import = Importa dae un'archìviu...
 contextual-manager-passwords-command-help = Agiudu
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win =
@@ -84,6 +91,8 @@ contextual-manager-passwords-remove-login-card-cancel-button = Annulla
 
 ## Login Form
 
+contextual-manager-passwords-create-label =
+    .label = Agiunghe crae
 
 ## Password Card
 
