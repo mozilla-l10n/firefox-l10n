@@ -9,6 +9,7 @@ contextual-manager-filter-input =
 
 ## Passwords
 
+contextual-manager-passwords-command-create = افزودن گذرواژه
 contextual-manager-passwords-command-import-from-browser = درون‌ریزی از مرورگری دیگر…
 contextual-manager-passwords-command-import = درون‌ریزی از یک پرونده…
 contextual-manager-passwords-command-help = راهنما
@@ -52,6 +53,7 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
 contextual-manager-passwords-import-success-button = انجام شد
 contextual-manager-passwords-import-error-button-cancel = انصراف
 contextual-manager-passwords-export-success-button = انجام شد
+contextual-manager-export-passwords-dialog-confirm-button = ادامه با برون‌ریزی
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = برون‌ریزی گذرواژه‌ها از { -brand-short-name }
 contextual-manager-passwords-export-file-picker-export-button = برون‌ریزی
@@ -76,14 +78,20 @@ contextual-manager-passwords-delete-password-success-button = انجام شد
 contextual-manager-passwords-remove-login-card-title = گذرواژه حذف شود؟
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = برداشتن
+# This message gives the user the option to cancel their attempt to remove a login.
+contextual-manager-passwords-remove-login-card-cancel-button = لغو
 
 ## Login Form
 
+contextual-manager-passwords-create-label =
+    .label = افزودن گذرواژه
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = گذرواژه‌ها
+contextual-manager-copy-icon =
+    .alt = رونوشت
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
