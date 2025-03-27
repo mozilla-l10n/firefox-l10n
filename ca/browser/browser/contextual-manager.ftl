@@ -64,6 +64,14 @@ contextual-manager-passwords-remove-all-confirm =
         [one] Sí, elimina la contrasenya
        *[other] Sí, elimina les contrasenyes
     }
+# Button label to confirm removal of saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-confirm-button =
+    { $total ->
+        [1] Elimina
+        [one] Elimina
+       *[other] Elimina-ho tot
+    }
 contextual-manager-passwords-update-password-success-button = Fet
 contextual-manager-passwords-delete-password-success-button = Fet
 # This message is displayed to make sure that a user wants to delete an existing login.
