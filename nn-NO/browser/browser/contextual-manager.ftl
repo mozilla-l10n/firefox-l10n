@@ -20,6 +20,21 @@ contextual-manager-passwords-export-os-auth-dialog-message-win = Skriv inn innlo
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-export-os-auth-dialog-message-macosx = eksporter lagra passord
+# This message can be seen when attempting to reveal a password in contextual password manager on Windows
+contextual-manager-passwords-reveal-password-os-auth-dialog-message-win = Skriv inn innloggingsinformasjonen for Windows for å vise passordet. Dette vil gjere kontoane dine tryggare.
+# The MacOS string is preceded by the operating system with "Firefox is trying to ".
+# Only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-reveal-password-os-auth-dialog-message-macosx = vis det lagra passordet
+# This message can be seen when attempting to edit a login in contextual password manager on Windows.
+contextual-manager-passwords-edit-password-os-auth-dialog-message-win = Skriv inn innloggingsinformasjonen for Windows for å redigere passordet. Dette vil gjere kontoane dine tryggare.
+# The MacOS string is preceded by the operating system with "Firefox is trying to ".
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-edit-password-os-auth-dialog-message-macosx = redigere det lagra passordet
+# This message can be seen when attempting to copy a password in contextual password manager on Windows.
+contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Skriv inn innloggingsinformasjonen for Windows for å kopiere passordet. Dette vil gjere kontoane dine tryggare.
+# The MacOS string is preceded by the operating system with "Firefox is trying to ".
+# Only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = kopier det lagra passordet
 contextual-manager-passwords-import-file-picker-import-button = Importer
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -35,7 +50,10 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] TSV-dokument
        *[other] TSV-fil
     }
+contextual-manager-passwords-import-success-button = Ferdig
 contextual-manager-passwords-import-error-button-cancel = Avbryt
+contextual-manager-passwords-export-success-button = Ferdig
+contextual-manager-export-passwords-dialog-confirm-button = Hald fram med eksport
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Eksporter passord frå { -brand-short-name }
 contextual-manager-passwords-export-file-picker-export-button = Eksporter
@@ -60,6 +78,8 @@ contextual-manager-passwords-remove-all-confirm-button =
         [1] Fjern
        *[other] Fjern alle
     }
+contextual-manager-passwords-update-password-success-button = Ferdig
+contextual-manager-passwords-delete-password-success-button = Ferdig
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Vil du fjerne passordet?
 # This message confirms that the user wants to remove an existing login.
@@ -72,6 +92,8 @@ contextual-manager-passwords-create-label =
 
 ## Password Card
 
+contextual-manager-passwords-list-label =
+    .aria-label = Passord
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
