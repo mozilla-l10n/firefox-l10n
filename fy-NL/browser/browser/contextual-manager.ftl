@@ -50,7 +50,9 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] TSV-dokumint
        *[other] TSV-bestân
     }
+contextual-manager-passwords-import-success-button = Dien
 contextual-manager-passwords-import-error-button-cancel = Annulearje
+contextual-manager-passwords-export-success-button = Dien
 contextual-manager-export-passwords-dialog-confirm-button = Trochgean mei eksportearjen
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Wachtwurden eksportearje út { -brand-short-name }
@@ -78,6 +80,8 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Fuortsmite
        *[other] Alle fuortsmite
     }
+contextual-manager-passwords-update-password-success-button = Dien
+contextual-manager-passwords-delete-password-success-button = Dien
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Wachtwurd fuortsmite?
 # This message confirms that the user wants to remove an existing login.
