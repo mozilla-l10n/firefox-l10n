@@ -6,6 +6,8 @@
 ## Passwords
 
 contextual-manager-passwords-command-import-from-browser = दूसरे ब्राउज़र से आयात करें…
+contextual-manager-passwords-command-import = इस फ़ाइल से आयात करें…
+contextual-manager-passwords-command-help = सहायता
 contextual-manager-passwords-import-file-picker-import-button = आयात करें
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -24,6 +26,7 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
 contextual-manager-passwords-import-success-button = संपन्न
 contextual-manager-passwords-import-error-button-cancel = रद्द करें
 contextual-manager-passwords-export-success-button = संपन्न
+contextual-manager-passwords-export-file-picker-export-button = निर्यात करें
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 contextual-manager-passwords-export-file-picker-csv-filter-title =
