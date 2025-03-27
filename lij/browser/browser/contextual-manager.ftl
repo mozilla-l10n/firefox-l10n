@@ -29,6 +29,7 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] Documento TSV
        *[other] Schedaio TSV
     }
+contextual-manager-passwords-import-error-button-cancel = Anulla
 contextual-manager-passwords-export-file-picker-export-button = Espòrta
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -45,6 +46,8 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Scancella
        *[other] Scancella tutto
     }
+# This message confirms that the user wants to remove an existing login.
+contextual-manager-passwords-remove-login-card-remove-button = Scancella
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Anulla
 
