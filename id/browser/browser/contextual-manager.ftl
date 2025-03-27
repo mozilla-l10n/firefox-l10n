@@ -11,6 +11,9 @@ contextual-manager-passwords-command-help = Bantuan
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Untuk mengekspor kata sandi Anda, ketikkan kredensial masuk Windows Anda. Hal ini membantu melindungi keamanan akun Anda.
 contextual-manager-export-passwords-dialog-confirm-button = Lanjutkan dengan ekspor
+# Title of the file picker dialog
+contextual-manager-passwords-export-file-picker-title = Ekspor Kata Sandi dari { -brand-short-name }
+contextual-manager-passwords-export-file-picker-export-button = Ekspor
 # Button label to confirm removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm-button =
