@@ -20,6 +20,21 @@ contextual-manager-passwords-export-os-auth-dialog-message-win = Pi espurtari i 
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-export-os-auth-dialog-message-macosx = esporta chiavi sarbati
+# This message can be seen when attempting to reveal a password in contextual password manager on Windows
+contextual-manager-passwords-reveal-password-os-auth-dialog-message-win = Pi vìdiri a to chiavi, metti i cridinziali di Windows. Chistu serbi a prutèggiri e mantèniri sicuri i to cunti.
+# The MacOS string is preceded by the operating system with "Firefox is trying to ".
+# Only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-reveal-password-os-auth-dialog-message-macosx = ammustra a chiavi sarbata
+# This message can be seen when attempting to edit a login in contextual password manager on Windows.
+contextual-manager-passwords-edit-password-os-auth-dialog-message-win = Pi canciari a to chiavi, metti i cridinziali di Windows. Chistu serbi a prutèggiri e mantèniri sicuri i to cunti.
+# The MacOS string is preceded by the operating system with "Firefox is trying to ".
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-edit-password-os-auth-dialog-message-macosx = cancia a chiavi sarbata
+# This message can be seen when attempting to copy a password in contextual password manager on Windows.
+contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Pi cupiari a to chiavi, metti i cridinziali di Windows. Chistu serbi a prutèggiri e mantèniri sicuri i to cunti.
+# The MacOS string is preceded by the operating system with "Firefox is trying to ".
+# Only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = copia a chiavi sarbata
 contextual-manager-passwords-import-file-picker-import-button = Mporta
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
