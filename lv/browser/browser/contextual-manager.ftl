@@ -7,6 +7,7 @@
 
 contextual-manager-passwords-command-import-from-browser = Importēt datus no cita pārlūka…
 contextual-manager-passwords-command-help = Palīdzība
+contextual-manager-export-passwords-dialog-confirm-button = Turpināt eksportēt
 
 ## Login Form
 
