@@ -259,11 +259,19 @@ shopping-opt-in-integrated-headline = לבצע רכישות בביטחון
 #   $firstSite (String) - The first shopping page name
 #   $secondSite (String) - The second shopping page name
 #   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle-unsupported-site = בודק הסקירות של { -brand-product-name } מסייע לך לדעתץ עד כמה סקירות של מוצרים אמינות, לפני ביצוע הרכישה. הבודק משתמש בטכנולוגיית AI כדי לנתח סקירות ועובד בעת רכישה ב־{ $firstSite }, ‏{ $secondSite } ו־{ $thirdSite }. <a data-l10n-name="learn_more">מידע נוסף</a>
+shopping-opt-in-integrated-subtitle = ניתן להפעיל את בודק הסקירות של { -brand-product-name } כדי לראות עד כמה סקירות של מוצרים אמינות, לפני ביצוע הרכישה. הבודק משתמש בטכנולוגיה של בינה מלאכותית כדי לנתח סקירות ועובד בעת רכישה ב־{ $firstSite }, ‏{ $secondSite } ו־{ $thirdSite }. <a data-l10n-name="learn_more">מידע נוסף</a>
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle-unsupported-site = בודק הסקירות של { -brand-product-name } מסייע לך לדעת עד כמה סקירות של מוצרים אמינות, לפני ביצוע הרכישה. הבודק משתמש בטכנולוגיה של בינה מלאכותית כדי לנתח סקירות ועובד בעת רכישה ב־{ $firstSite }, ‏{ $secondSite } ו־{ $thirdSite }. <a data-l10n-name="learn_more">מידע נוסף</a>
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
 shopping-callout-opt-in-integrated-headline = האם ניתן לסמוך על הסקירות האלה?
+# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
+shopping-callout-not-opted-in-integrated-paragraph1 = ניתן להפעיל את בודק הסקירות של { -brand-product-name } כדי לגלות. הוא מופעל באמצעות { -fakespot-brand-full-name } ומשתמש בטכנולוגיה של בינה מלאכותית כדי לנתח סקירות.
 
 ## Message strings for Review Checker's empty states.
 
@@ -278,6 +286,19 @@ shopping-callout-opt-in-integrated-headline = האם ניתן לסמוך על ה
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-dismiss-button = הבנתי
 
 ## Combined setting for auto-open and auto-close.
 
+shopping-settings-auto-open-and-close-toggle =
+    .label = פתיחה וסגירה אוטומטית של בודק הסקירות
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-and-close-description-three-sites = נפתח בעת צפייה במוצרים ב־{ $firstSite }, ‏{ $secondSite } ו־{ $thirdSite }, ונסגר כשעוזבים את האתר
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-and-close-description-single-site = נפתח בעת צפייה במוצרים ב־{ $currentSite } ונסגר כשעוזבים את האתר

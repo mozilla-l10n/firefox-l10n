@@ -62,6 +62,11 @@ perftools-button-edit-settings = עריכת הגדרות…
 
 ## More actions menu
 
+perftools-menu-more-actions-button =
+    .title = פעולות נוספות
+perftools-menu-more-actions-restart-with-profiling = הפעלה מחדש של { -brand-shorter-name } עם יצירת פרופיל אתחול מופעל
+perftools-menu-more-actions-copy-for-startup = העתק משתני סביבה עבור יצירת פרופיל אתחול
+perftools-menu-more-actions-copy-for-perf-tests = העתקת פרמטרים למבחני ביצועים
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
