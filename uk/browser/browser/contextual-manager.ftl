@@ -11,7 +11,10 @@ contextual-manager-filter-input =
 
 contextual-manager-passwords-command-create = Додати пароль
 contextual-manager-passwords-command-import-from-browser = Імпортувати з іншого браузера…
+contextual-manager-passwords-command-import = Імпортувати з файлу…
 contextual-manager-passwords-command-help = Допомога
+# This message can be seen when attempting to export a password in about:logins on Windows.
+contextual-manager-passwords-export-os-auth-dialog-message-win = Щоб експортувати ваші паролі, введіть свої облікові дані для входу у Windows. Це допомагає захистити ваші збережені паролі.
 # This message can be seen when attempting to reveal a password in contextual password manager on Windows
 contextual-manager-passwords-reveal-password-os-auth-dialog-message-win = Щоб переглянути пароль, введіть свої облікові дані входу для Windows. Це допомагає захистити ваші збережені паролі.
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
@@ -43,6 +46,7 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
        *[other] Файл TSV
     }
 contextual-manager-passwords-import-success-button = Готово
+contextual-manager-passwords-import-error-button-cancel = Скасувати
 contextual-manager-passwords-export-success-button = Готово
 contextual-manager-export-passwords-dialog-confirm-button = Продовжити експорт
 # Title of the file picker dialog
