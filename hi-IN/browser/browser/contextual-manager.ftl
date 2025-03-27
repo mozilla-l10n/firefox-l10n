@@ -8,6 +8,16 @@
 contextual-manager-passwords-command-import-from-browser = दूसरे ब्राउज़र से आयात करें…
 contextual-manager-passwords-command-import = इस फ़ाइल से आयात करें…
 contextual-manager-passwords-command-help = सहायता
+# This message can be seen when attempting to reveal a password in contextual password manager on Windows
+contextual-manager-passwords-reveal-password-os-auth-dialog-message-win = अपना पासवर्ड देखने के लिए, अपनी Windows लॉगिन क्रेडेंशियल्स दर्ज करें। यह आपके खातों की सुरक्षा को बनाए रखने में मदद करता है।
+# The MacOS string is preceded by the operating system with "Firefox is trying to ".
+# Only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-reveal-password-os-auth-dialog-message-macosx = सहेजे गए पासवर्ड देखें
+# This message can be seen when attempting to copy a password in contextual password manager on Windows.
+contextual-manager-passwords-copy-password-os-auth-dialog-message-win = अपने पासवर्ड को कॉपी करने के लिए, अपनी Windows लॉगिन क्रेडेंशियल्स दर्ज करें। यह आपके खातों की सुरक्षा को बनाए रखने में मदद करता है।
+# The MacOS string is preceded by the operating system with "Firefox is trying to ".
+# Only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = सहेजे गए पासवर्ड को कॉपी करें
 contextual-manager-passwords-import-file-picker-import-button = आयात करें
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
