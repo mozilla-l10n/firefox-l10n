@@ -49,6 +49,9 @@ contextual-manager-passwords-import-success-button = Fet
 contextual-manager-passwords-import-error-button-cancel = Cancel·la
 contextual-manager-passwords-export-success-button = Fet
 contextual-manager-export-passwords-dialog-confirm-button = Continua l'exportació
+# Title of the file picker dialog
+contextual-manager-passwords-export-file-picker-title = Exporteu les contrasenyes del { -brand-short-name }
+contextual-manager-passwords-export-file-picker-export-button = Exporta
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 contextual-manager-passwords-export-file-picker-csv-filter-title =
