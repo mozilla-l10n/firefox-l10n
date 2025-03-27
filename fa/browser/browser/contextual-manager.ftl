@@ -38,6 +38,8 @@ contextual-manager-passwords-remove-all-confirm-button =
     }
 contextual-manager-passwords-update-password-success-button = انجام شد
 contextual-manager-passwords-delete-password-success-button = انجام شد
+# This message is displayed to make sure that a user wants to delete an existing login.
+contextual-manager-passwords-remove-login-card-title = گذرواژه حذف شود؟
 
 ## Login Form
 
