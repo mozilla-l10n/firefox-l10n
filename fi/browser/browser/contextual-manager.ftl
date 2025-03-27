@@ -2,9 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+contextual-manager-filter-input =
+    .placeholder = Etsi salasanoja
+    .key = F
+    .aria-label = Etsi salasanoja
 
 ## Passwords
 
+contextual-manager-passwords-command-create = Lisää salasana
 contextual-manager-passwords-command-import-from-browser = Tuo toisesta selaimesta…
 contextual-manager-passwords-command-import = Tuo tiedostosta…
 contextual-manager-passwords-command-help = Ohje
@@ -84,6 +89,8 @@ contextual-manager-passwords-remove-login-card-cancel-button = Peruuta
 
 ## Login Form
 
+contextual-manager-passwords-create-label =
+    .label = Lisää salasana
 
 ## Password Card
 
