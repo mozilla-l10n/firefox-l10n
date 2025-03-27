@@ -63,8 +63,18 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
         [macos] CSV নথি
        *[other] CSV ফাইল
     }
+# Button label to confirm removal of saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-confirm-button =
+    { $total ->
+        [1] সরান
+        [one] একটি সরান
+       *[other] সব সরান
+    }
 contextual-manager-passwords-update-password-success-button = সম্পন্ন হয়েছে
 contextual-manager-passwords-delete-password-success-button = সম্পন্ন হয়েছে
+# This message is displayed to make sure that a user wants to delete an existing login.
+contextual-manager-passwords-remove-login-card-title = পাসওয়ার্ড অপসারণ করবেন?
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = অপসারণ
 # This message gives the user the option to cancel their attempt to remove a login.
