@@ -53,6 +53,7 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
 contextual-manager-passwords-import-success-button = Готово
 contextual-manager-passwords-import-error-button-cancel = Отмена
 contextual-manager-passwords-export-success-button = Готово
+contextual-manager-export-passwords-dialog-confirm-button = Продолжить экспорт
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Экспорт паролей из { -brand-short-name }
 contextual-manager-passwords-export-file-picker-export-button = Экспортировать
