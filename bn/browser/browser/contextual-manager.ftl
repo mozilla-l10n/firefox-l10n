@@ -11,10 +11,32 @@ contextual-manager-filter-input =
 
 contextual-manager-passwords-command-create = পাসওয়ার্ড যোগ করুন
 contextual-manager-passwords-command-help = সহায়তা
+contextual-manager-passwords-import-file-picker-import-button = আমদানি করুন
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+contextual-manager-passwords-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV নথি
+       *[other] CSV ফাইল
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+contextual-manager-passwords-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV নথি
+       *[other] TSV ফাইল
+    }
 contextual-manager-export-passwords-dialog-confirm-button = এক্সপোর্ট চালিয়ে যান
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = { -brand-short-name } থেকে পাসওয়ার্ড এক্সপোর্ট করুন
 contextual-manager-passwords-export-file-picker-export-button = রপ্তানি করুন
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+contextual-manager-passwords-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV নথি
+       *[other] CSV ফাইল
+    }
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = বাতিল
 
