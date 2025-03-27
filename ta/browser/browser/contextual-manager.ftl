@@ -14,6 +14,14 @@ contextual-manager-passwords-reveal-password-os-auth-dialog-message-macosx = ச
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = சேமித்த கடவுச்சொல்லை நகலெடு
 contextual-manager-passwords-export-file-picker-export-button = ஏற்றுமதி
+# Button label to confirm removal of saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-confirm-button =
+    { $total ->
+        [1] நீக்கு
+        [one] நீக்கு
+       *[other] அனைத்தையும் நீக்குக
+    }
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = நீக்கு
 # This message gives the user the option to cancel their attempt to remove a login.
