@@ -339,7 +339,7 @@ quickactions-downloads2 = 查看下载
 quickactions-cmd-downloads = 下载, downloads
 # Opens about:addons page in the extensions section
 quickactions-extensions = 管理扩展
-quickactions-cmd-extensions = 扩展
+quickactions-cmd-extensions = 扩展, extensions
 # Opens the devtools web inspector
 quickactions-inspector2 = 打开开发者工具
 quickactions-cmd-inspector = 查看器, 开发工具, inspector, devtools
