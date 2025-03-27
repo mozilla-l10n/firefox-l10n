@@ -44,6 +44,9 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] Teul TSV
        *[other] Restr TSV
     }
+contextual-manager-passwords-import-success-button = Graet
+contextual-manager-passwords-import-error-button-cancel = Nullañ
+contextual-manager-passwords-export-success-button = Graet
 contextual-manager-export-passwords-dialog-confirm-button = Kenderc’hel gant an ezporzhiañ
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Ezporzhiañ gerioù-tremen diouzh { -brand-short-name }
@@ -66,6 +69,19 @@ contextual-manager-passwords-remove-all-confirm =
         [many] Ya, dilemel ar gerioù-tremen
        *[other] Ya, dilemel ar gerioù-tremen
     }
+# Button label to confirm removal of saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-confirm-button =
+    { $total ->
+        [1] Dilemel
+        [one] Dilemel
+        [two] Dilemel pep tra
+        [few] Dilemel pep tra
+        [many] Dilemel pep tra
+       *[other] Dilemel pep tra
+    }
+contextual-manager-passwords-update-password-success-button = Graet
+contextual-manager-passwords-delete-password-success-button = Graet
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Dilemel ar ger-tremen?
 # This message confirms that the user wants to remove an existing login.
