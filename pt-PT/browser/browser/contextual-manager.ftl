@@ -2,9 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+contextual-manager-filter-input =
+    .placeholder = Pesquisar palavras-passe
+    .key = F
+    .aria-label = Pesquisar palavras-passe
 
 ## Passwords
 
+contextual-manager-passwords-command-create = Adicionar palavra-passe
 contextual-manager-passwords-command-import-from-browser = Importar de outro navegador…
 contextual-manager-passwords-command-import = Importar de um ficheiro:
 contextual-manager-passwords-command-help = Ajuda
@@ -85,6 +90,8 @@ contextual-manager-passwords-remove-login-card-cancel-button = Cancelar
 
 ## Login Form
 
+contextual-manager-passwords-create-label =
+    .label = Adicionar palavra-passe
 
 ## Password Card
 
