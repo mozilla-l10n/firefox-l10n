@@ -1,0 +1,70 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+## Passwords
+
+contextual-manager-passwords-command-import-from-browser = استورِد من متصفح آخر…
+contextual-manager-passwords-command-import = استورِد من ملف…
+contextual-manager-passwords-command-help = مساعدة
+contextual-manager-passwords-import-file-picker-import-button = استورِد
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+contextual-manager-passwords-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] مستند CSV
+       *[other] ملف CSV
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+contextual-manager-passwords-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] مستند TSV
+       *[other] ملف TSV
+    }
+contextual-manager-passwords-import-success-button = تمّ
+contextual-manager-passwords-import-error-button-cancel = ألغِ
+contextual-manager-passwords-export-success-button = تمّ
+# Title of the file picker dialog
+contextual-manager-passwords-export-file-picker-title = صدّر كلمات السر من { -brand-short-name }
+contextual-manager-passwords-export-file-picker-export-button = صدّر
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+contextual-manager-passwords-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] مستند CSV
+       *[other] ملف CSV
+    }
+# Button label to confirm removal of saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-confirm-button =
+    { $total ->
+        [1] أزِل
+        [zero] أزِل
+        [one] أزِل
+        [two] أزِل
+        [few] أزِل الكل
+        [many] أزِل الكل
+       *[other] أزِل الكل
+    }
+contextual-manager-passwords-update-password-success-button = تمّ
+contextual-manager-passwords-delete-password-success-button = تمّ
+# This message is displayed to make sure that a user wants to delete an existing login.
+contextual-manager-passwords-remove-login-card-title = إزالة كلمة السر؟
+
+## Login Form
+
+
+## Password Card
+
+contextual-manager-copy-icon =
+    .alt = انسخ
+
+## When the user has no saved passwords, we display the following messages to inform the user they can save
+## their passwords safely and securely in Firefox:
+
+
+## When the user cancels a login that's currently being edited, we display a message to confirm whether
+## or not the user wants to discard their current edits to the login.
+
