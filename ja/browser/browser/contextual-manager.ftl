@@ -2,9 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+contextual-manager-filter-input =
+    .placeholder = パスワードを検索
+    .key = F
+    .aria-label = パスワードを検索
 
 ## Passwords
 
+contextual-manager-passwords-command-create = パスワードを追加します
 contextual-manager-passwords-command-import-from-browser = 他のブラウザーからインポート...
 contextual-manager-passwords-command-import = ファイルからインポート...
 contextual-manager-passwords-command-help = ヘルプ
@@ -72,6 +77,8 @@ contextual-manager-passwords-remove-login-card-cancel-button = キャンセル
 
 ## Login Form
 
+contextual-manager-passwords-create-label =
+    .label = パスワードを追加します
 
 ## Password Card
 
