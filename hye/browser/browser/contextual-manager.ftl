@@ -5,6 +5,7 @@
 
 ## Passwords
 
+contextual-manager-passwords-command-import-from-browser = Ներմուծել մեկ այղ դիտարկիչից…
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Հեռացնել
 
