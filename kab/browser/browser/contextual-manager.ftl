@@ -2,9 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+contextual-manager-filter-input =
+    .placeholder = Nadi awalen uffiren
+    .key = F
+    .aria-label = Nadi awalen uffiren
 
 ## Passwords
 
+contextual-manager-passwords-command-create = rnu awal uffir
 contextual-manager-passwords-command-import-from-browser = Kter seg iminig nniḍen…
 contextual-manager-passwords-command-import = Kter seg ufaylu…
 contextual-manager-passwords-command-help = Tallalt
@@ -84,6 +89,8 @@ contextual-manager-passwords-remove-login-card-cancel-button = Sefsex
 
 ## Login Form
 
+contextual-manager-passwords-create-label =
+    .label = rnu awal uffir
 
 ## Password Card
 
