@@ -390,6 +390,8 @@ onboarding-new-tabs-title = Eremi moõpa eipota umi tendayke
 onboarding-new-tabs-subtitle = Emoambue ejapose vove tenda yke ñembohekópe.
 # Setup screen for vertical tabs - too many tabs variation
 onboarding-many-tabs-title = Ne rendayke, ha’eháicha
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = ¿Ereko heta tendayke jurujápe? Ehecha emohenda yke gotyo ehecha hag̃ua hasy’ỹ hag̃uáicha. Térã emantene ymaveguaréicha tendayke ndive. Emoambue ejapose vove.
 # Setup screen for vertical tabs - focused variation
 onboarding-focused-tabs-title = Eiporavo tendayke ra’ãngarã
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
@@ -460,6 +462,8 @@ multi-profile-callout-cta = Emoheñói mba’ete
 
 # If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
 desktop-to-mobile-headline = ¡Emboguejy, embojuehe ha oĩma!
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Emoha’ãnga QR ayvu emboguejy hag̃ua { -brand-product-name } pumbyrýpe. Emboguejy vove, eiporavo “Embojuehe pumbyry ndive” eikekuaa ñe’ẽñemi, techaukaha ha hetave mba’e.
 dismiss-button-label = Mboyke
 sync-to-mobile-button-label = Ñembojuehe pumbyry ndive
 desktop-to-mobile-qr-code-alt =
