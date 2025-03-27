@@ -105,6 +105,9 @@ sidebar-callout-survey-neutral = Mbytegua
 sidebar-callout-survey-dissatisfied-2 = Nachembovy’ái
 sidebar-callout-survey-very-dissatisfied-2 = Nachembovy’aiete
 sidebar-callout-survey-dont-use-it = Ndaiporúi
+sidebar-callout-survey-productive-question =
+    ¿Mba’eichaitépa emoneĩ térã embotove ko ñemoneĩ:<br/>
+    “Pe { -brand-short-name } renda yke cheipytyvõ che guapove hag̃ua”?
 sidebar-callout-survey-strongly-agree = Amoneĩmbaite
 sidebar-callout-survey-agree = Amoneĩ
 sidebar-callout-survey-disagree = Namoneĩri
@@ -117,6 +120,9 @@ sidebar-callout-survey-none-of-above = Mba’evete ymavegua
 sidebar-callout-survey-submit = Mondo
 sidebar-callout-survey-thank-you = ¡Aguyje ne remiandu rehe!
 sidebar-genai-survey-satisfaction-question = ¿Mba'éicha ehecharamo eguerekóvo peteĩ chatbot IA reheguáva tenda yképe?
+sidebar-genai-survey-productive-question =
+    ¿Mba’eichaitépa emoneĩ térã embotove ko ñemoneĩ:<br/>
+    “Pe chatbot IA rehegua renda yke cheipytyvõ che guapove hag̃ua”?
 unified-search-callout-title = Emoambue jehekaha pa’ũme
 unified-search-callout-subtitle = Eiporavo oiko porãve hag̃ua pe jehekaha ha’etéva.
 unified-search-callout-primary-label = Tenonde
