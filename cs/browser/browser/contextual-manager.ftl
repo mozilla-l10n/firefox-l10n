@@ -35,6 +35,15 @@ contextual-manager-passwords-remove-all-confirm =
         [many] Ano, odstranit hesla
        *[other] Ano, odstranit hesla
     }
+# Button label to confirm removal of saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-confirm-button =
+    { $total ->
+        [1] Odstranit
+        [one] Odstranit
+        [few] Odstranit vše
+       *[other] Odstranit vše
+    }
 contextual-manager-passwords-update-password-success-button = Hotovo
 contextual-manager-passwords-delete-password-success-button = Hotovo
 # This message is displayed to make sure that a user wants to delete an existing login.
