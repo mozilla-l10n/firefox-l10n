@@ -515,9 +515,6 @@ newtab-section-unblock-button = Odblokovat
 
 ## Confirmation modal for blocking a section
 
-newtab-section-confirm-block-section-p1 = Jste si jisti, že chcete tuto sekci zablokovat?
-newtab-section-confirm-block-section-p2 = Blokovaná sekce se již nebude zobrazovat ve vašem kanálu.
-newtab-section-block-section-button = Blokovat tuto sekci
 newtab-section-cancel-button = Teď ne
 newtab-section-confirm-block-topic-p1 = Opravdu chcete zablokovat toto téma?
 newtab-section-confirm-block-topic-p2 = Zablokovaná témata se již nebudou zobrazovat ve vašem kanálu.
@@ -531,10 +528,6 @@ newtab-section-mangage-topics-title = Témata
 newtab-section-manage-topics-button-v2 =
     .label = Správa témat
 newtab-section-mangage-topics-followed-topics = Sledováno
-newtab-section-mangage-topics-button =
-    .label = Sledovaná a blokovaná témata
-newtab-section-mangage-topics-followed-topics-subtitle = Sledovaná témata
 newtab-section-mangage-topics-followed-topics-empty-state = Zatím nesledujete žádné téma.
 newtab-section-mangage-topics-blocked-topics = Blokováno
-newtab-section-mangage-topics-blocked-topics-subtitle = Blokovaná témata
 newtab-section-mangage-topics-blocked-topics-empty-state = Zatím jste nezablokovali žádná témata.

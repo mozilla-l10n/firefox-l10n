@@ -288,7 +288,6 @@ appmenu-other-protection-header = Próbálja ki a { -vendor-short-name } egyéb 
 
 ## Profiles panel
 
-appmenu-profiles = Profilok
 appmenu-other-profiles = Egyéb profilok
 appmenu-manage-profiles =
     .label = Profilok kezelése

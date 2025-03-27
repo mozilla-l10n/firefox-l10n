@@ -56,4 +56,3 @@ experimental-features-group-webpage-display =
     .label = Montro de retpaĝoj
 experimental-features-group-customize-browsing =
     .label = Personecigu vian retumon
-experimental-features-group-customize-browsing-description = Se vi provas tiujn ĉi trajtojn, <a data-l10n-name="connect">komentu en Connect</a>

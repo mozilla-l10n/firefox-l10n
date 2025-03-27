@@ -285,7 +285,6 @@ appmenuitem-vpn-description = حفاظت از فعالیت آنلاین شما
 
 ## Profiles panel
 
-appmenu-profiles = نمایه‌ها
 appmenu-other-profiles = نمایه‌های دیگر
 appmenu-manage-profiles =
     .label = مدیریت نمایه‌ها

@@ -22,7 +22,8 @@ safeb-palm-see-details-label = Mostra detalli
 safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> o l'é stæto <a data-l10n-name='error_desc_link'>segnalou comme scito inganevole</a>. Ti peu <a data-l10n-name='report_detection'>segnalâ un erô de segnalaçion</a> ò <a data-l10n-name='ignore_warning_link'>ignorâ o reizego</a> e anâ in sto scito pericolozo.
 safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> o l'é stæto <a data-l10n-name='error_desc_link'>segnalou comme scito inganevole</a>. Ti peu <a data-l10n-name='report_detection'>segnalâ un erô de segnalaçion</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-phishing-page-learn-more = Atre informaçioin in sci sciti inganevole e phishing into <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Atre informaçioin in sciâ proteçion de { -brand-short-name }’s contra Phishing e Malware into <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
@@ -30,7 +31,8 @@ safeb-blocked-phishing-page-learn-more = Atre informaçioin in sci sciti inganev
 ##  $sitename (string) - Domain name for the blocked page
 
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 
 ## Variables
@@ -39,7 +41,8 @@ safeb-blocked-phishing-page-learn-more = Atre informaçioin in sci sciti inganev
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> o l'é stæto <a data-l10n-name='error_desc_link'>segnalou de contegnî software grammo</a>. Ti peu <a data-l10n-name='ignore_warning_link'>ignorâ o reizego</a> e anâ in sto scito pericolozo.
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> o l'é stæto <a data-l10n-name='error_desc_link'>segnalou de contegnî do software pericolozo</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-unwanted-page-learn-more = Atre informaçioin in sci programmi pericolozi e no vosciui inta <a data-l10n-name='learn_more_link'>Politica do software no vosciuo</a>. Atre informaçioin in sciâ proteçion de { -brand-short-name }’s contra Phishing e Malware into <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
@@ -49,7 +52,8 @@ safeb-blocked-unwanted-page-learn-more = Atre informaçioin in sci programmi per
 safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> o l'é stæto <a data-l10n-name='error_desc_link'>segnalou de contegnî de aplicaçioin potensialmente pericoloze</a>. Ti peu <a data-l10n-name='ignore_warning_link'>ignorâ o reizego</a> e anâ in sto scito pericolozo.
 safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> o l'é stæto <a data-l10n-name='error_desc_link'>segnalou de contegnî de aplicaçioin potensialmente pericoloze</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-harmful-page-learn-more = Atre informaçioin in sciâ proteçion de { -brand-short-name }’s contra Phishing e Malware into <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 safeb-palm-notdeceptive =

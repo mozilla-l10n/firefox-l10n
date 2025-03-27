@@ -507,9 +507,6 @@ newtab-section-unblock-button = შეზღუდვის მოხსნა
 
 ## Confirmation modal for blocking a section
 
-newtab-section-confirm-block-section-p1 = გსურთ ამ ნაწილის შეზღუდვა?
-newtab-section-confirm-block-section-p2 = შეზღუდული ნაწილები აღარ გამოჩნდება თქვენს არხში.
-newtab-section-block-section-button = ამ ნაწილის შეზღუდვა
 newtab-section-cancel-button = ახლა არა
 newtab-section-confirm-block-topic-p1 = ნამდვილად გსურთ ამ თემის შეზღუდვა?
 newtab-section-confirm-block-topic-p2 = შეზღუდული თემები აღარ გამოჩნდება თქვენს არხში.
@@ -523,10 +520,6 @@ newtab-section-mangage-topics-title = თემები
 newtab-section-manage-topics-button-v2 =
     .label = თემების მართვა
 newtab-section-mangage-topics-followed-topics = მიდევნებული
-newtab-section-mangage-topics-button =
-    .label = მიდევნებული და შეზღუდული თემები
-newtab-section-mangage-topics-followed-topics-subtitle = მიდევნებული თემები
 newtab-section-mangage-topics-followed-topics-empty-state = თქვენ ჯერ არცერთ თემას არ ადევნებთ თვალს.
 newtab-section-mangage-topics-blocked-topics = შეზღუდული
-newtab-section-mangage-topics-blocked-topics-subtitle = შეზღუდული თემები
 newtab-section-mangage-topics-blocked-topics-empty-state = თქვენ ჯერ არცერთი თემა არ შეგიზღუდავთ.

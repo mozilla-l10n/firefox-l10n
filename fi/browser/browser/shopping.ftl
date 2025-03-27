@@ -235,3 +235,26 @@ shopping-onboarding-dialog-close-button =
 #   $total (Int) - Total number of pages
 shopping-onboarding-welcome-steps-indicator-label =
     .aria-label = Edistyminen: vaihe { $current }/{ $total }
+
+## Review Checker in Integrated sidebar
+
+
+## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
+
+
+## Message strings for Review Checker's empty states.
+
+
+## Confirm disabling Review Checker for newly opted out users
+
+
+## Callout for where to find Review Checker when the sidebar closes
+
+
+## Strings for a notification card about Review Checker's new position in the sidebar.
+## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
+## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
+
+
+## Combined setting for auto-open and auto-close.
+

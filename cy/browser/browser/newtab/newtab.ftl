@@ -513,9 +513,6 @@ newtab-section-unblock-button = Dadrwystro
 
 ## Confirmation modal for blocking a section
 
-newtab-section-confirm-block-section-p1 = Ydych chi'n siŵr eich bod am rwystro'r adran hon?
-newtab-section-confirm-block-section-p2 = Ni fydd adran sydd wedi'i rwystro'n ymddangos yn eich llif bellach.
-newtab-section-block-section-button = Rhwystro'r adran hon
 newtab-section-cancel-button = Nid nawr
 newtab-section-confirm-block-topic-p1 = Ydych chi'n siŵr eich bod am rwystro'r pwnc hwn?
 newtab-section-confirm-block-topic-p2 = Ni fydd pynciau sydd wedi'u rhwystro yn ymddangos yn eich llif bellach.
@@ -529,10 +526,6 @@ newtab-section-mangage-topics-title = Pynciau
 newtab-section-manage-topics-button-v2 =
     .label = Rheoli pynciau
 newtab-section-mangage-topics-followed-topics = Dilynwyd
-newtab-section-mangage-topics-button =
-    .label = Pynciau wedi'u dilyn a'u rhwystro
-newtab-section-mangage-topics-followed-topics-subtitle = Pynciau'n Cael eu Dilyn
 newtab-section-mangage-topics-followed-topics-empty-state = Nid ydych wedi dilyn unrhyw bynciau eto.
 newtab-section-mangage-topics-blocked-topics = Rhwystrwyd
-newtab-section-mangage-topics-blocked-topics-subtitle = Pynciau wedi'u Rhwystro
 newtab-section-mangage-topics-blocked-topics-empty-state = Nid ydych wedi rhwystro unrhyw bynciau eto.

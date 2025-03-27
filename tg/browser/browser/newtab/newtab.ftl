@@ -506,9 +506,6 @@ newtab-section-unblock-button = Кушодан
 
 ## Confirmation modal for blocking a section
 
-newtab-section-confirm-block-section-p1 = Шумо мутмаин ҳастед, ки мехоҳед ин қисматро манъ кунед?
-newtab-section-confirm-block-section-p2 = Қисмати манъшуда дигар дар навори хабарҳои шумо пайдо намешавад.
-newtab-section-block-section-button = Манъ кардани ин қисмат
 newtab-section-cancel-button = Ҳоло не
 newtab-section-confirm-block-topic-p1 = Шумо мутмаин ҳастед, ки мехоҳед ин мавзуъро манъ кунед?
 newtab-section-confirm-block-topic-p2 = Мавзуъҳои манъшуда дигар дар навори хабарҳои шумо пайдо намешаванд.
@@ -522,10 +519,6 @@ newtab-section-mangage-topics-title = Мавзуъҳо
 newtab-section-manage-topics-button-v2 =
     .label = Идоракунии мавзуъҳо
 newtab-section-mangage-topics-followed-topics = Пайгирӣ карда мешавад
-newtab-section-mangage-topics-button =
-    .label = Мавзуъҳои пайгиришуда ва манъшуда
-newtab-section-mangage-topics-followed-topics-subtitle = Мавзуъҳои пайгиришуда
 newtab-section-mangage-topics-followed-topics-empty-state = Шумо то ҳол ягон мавзуъро пайгирӣ накардаед.
 newtab-section-mangage-topics-blocked-topics = Манъ карда мешавад
-newtab-section-mangage-topics-blocked-topics-subtitle = Мавзуъҳои пайгиришуда
 newtab-section-mangage-topics-blocked-topics-empty-state = Шумо то ҳол ягон мавзуъро манъ накардаед.

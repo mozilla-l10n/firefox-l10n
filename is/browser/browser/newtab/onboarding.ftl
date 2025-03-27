@@ -451,7 +451,6 @@ tab-groups-onboarding-create-group-no-alltabs-button-title = Finndu hópana þí
 tab-groups-onboarding-saved-groups-title-2 = Ef þú lokar flipahópi geturðu opnað hann aftur hér hvenær sem er.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Finndu hópana sem þú hefur lokað með því að leita að þeim í veffangastikunni.
 tab-groups-onboarding-session-restore-title = Opnaðu flipahópana þína aftur hér.
-tab-groups-onboarding-saved-groups-title = Ef þú lokar flipahópi geturðu opnað hann aftur hér hvenær sem er.
 tab-groups-onboarding-dismiss = Í lagi
 
 ## Multi Profiles feature onboarding messages

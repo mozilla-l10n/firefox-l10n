@@ -56,4 +56,3 @@ experimental-features-group-webpage-display =
     .label = Websiteweergave
 experimental-features-group-customize-browsing =
     .label = Pas uw browser aan
-experimental-features-group-customize-browsing-description = Als u deze functies probeert, <a data-l10n-name="connect">deel dan uw mening op Connect</a>

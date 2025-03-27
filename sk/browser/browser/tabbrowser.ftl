@@ -232,10 +232,6 @@ tabbrowser-manager-closed-tab-group =
 tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — aktuálne okno
-# "Show more" is for showing all open groups from other windows, as well as saved groups. Initially,
-# we only show up to six of these groups.
-tabbrowser-manager-tab-groups-show-more =
-    .label = Zobraziť ďalšie
 
 ## Tab Groups
 
@@ -271,7 +267,6 @@ tab-group-editor-color-selector2-red = Červená
 #  $tabGroupName (String): The name of the tab group. Defaults to the value
 #                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — Skupina kariet
-tab-group-menu-header = Skupiny kariet
 tab-context-unnamed-group =
     .label = Nepomenovaná skupina
 tab-group-name-default = Nepomenovaná skupina

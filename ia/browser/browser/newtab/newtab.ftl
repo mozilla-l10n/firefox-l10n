@@ -504,9 +504,6 @@ newtab-section-unblock-button = Disblocar
 
 ## Confirmation modal for blocking a section
 
-newtab-section-confirm-block-section-p1 = Desira tu vermente blocar iste section?
-newtab-section-confirm-block-section-p2 = Le section blocate non plus apparera in tu fluxo.
-newtab-section-block-section-button = Blocar iste section
 newtab-section-cancel-button = Non ora
 newtab-section-confirm-block-topic-p1 = Desira tu vermente blocar iste topico?
 newtab-section-confirm-block-topic-p2 = Le topicos blocate non apparera plus in tu fluxo.
@@ -520,10 +517,6 @@ newtab-section-mangage-topics-title = Topicos
 newtab-section-manage-topics-button-v2 =
     .label = Gerer topicos
 newtab-section-mangage-topics-followed-topics = Sequite
-newtab-section-mangage-topics-button =
-    .label = Topicos sequite e blocate
-newtab-section-mangage-topics-followed-topics-subtitle = Topicos sequite
 newtab-section-mangage-topics-followed-topics-empty-state = Tu non ha ancora sequite alcun topico.
 newtab-section-mangage-topics-blocked-topics = Blocate
-newtab-section-mangage-topics-blocked-topics-subtitle = Topicos blocate
 newtab-section-mangage-topics-blocked-topics-empty-state = Tu non ha ancora blocate alcun topico.

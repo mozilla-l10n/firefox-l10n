@@ -22,7 +22,8 @@ safeb-palm-see-details-label = See details
 safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> has been <a data-l10n-name='error_desc_link'>reportit as a begowkin site</a>. Ye can <a data-l10n-name='report_detection'>report a detection problem</a> or <a data-l10n-name='ignore_warning_link'>tak nae tent o the risk</a> and gang aheid tae this site that's no sauf.
 safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> has been <a data-l10n-name='error_desc_link'>reportit as a begowkin site</a>. Ye can <a data-l10n-name='report_detection'>report a detection problem</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-phishing-page-learn-more = Lairn mair aboot begowkin sites and phishin at <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Lairn mair aboot { -brand-short-name }’s Phishin and Malware Bieldin at <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
@@ -32,7 +33,8 @@ safeb-blocked-phishing-page-learn-more = Lairn mair aboot begowkin sites and phi
 safeb-blocked-malware-page-error-desc-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> has been <a data-l10n-name='error_desc_link'>reportit as conteenin uncannie saftware</a>. Ye can <a data-l10n-name='ignore_warning_link'>tak nae tent o the risk</a> and gang aheid tae this site that's no sauf.
 safeb-blocked-malware-page-error-desc-no-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> has been <a data-l10n-name='error_desc_link'>reportit as conteenin uncannie saftware</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-malware-page-learn-more-sumo = Lairn mair aboot { -brand-short-name }’s Phishin and Malware Bieldin at <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
@@ -42,7 +44,8 @@ safeb-blocked-malware-page-learn-more-sumo = Lairn mair aboot { -brand-short-nam
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> has been <a data-l10n-name='error_desc_link'>reportit as conteenin hairmfu saftware</a>. You can <a data-l10n-name='ignore_warning_link'>tak nae tent o the risk</a> and gang aheid tae this site that's no sauf.
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> has been <a data-l10n-name='error_desc_link'>reportit as conteenin hairmfu saftware</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-unwanted-page-learn-more = Lairn mair aboot hairmfu and unwantit saftware at <a data-l10n-name='learn_more_link'>Unwantit Saftware Policy</a>. Lairn mair aboot { -brand-short-name }’s Phishin and Malware Bieldin at <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
@@ -52,7 +55,8 @@ safeb-blocked-unwanted-page-learn-more = Lairn mair aboot hairmfu and unwantit s
 safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> has been <a data-l10n-name='error_desc_link'>reportit as conteenin an application that's mebbe hairmfu</a>. Ye can <a data-l10n-name='ignore_warning_link'>tak nae tent o the risk</a> and gang aheid tae this site that's no sauf.
 safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> has been <a data-l10n-name='error_desc_link'>reportit as conteenin an application that's mebbe hairmfu</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-harmful-page-learn-more = Lairn mair aboot { -brand-short-name }’s Phishin and Malware Bieldin at <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 safeb-palm-notdeceptive =

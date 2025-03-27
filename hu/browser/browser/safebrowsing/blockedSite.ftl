@@ -22,7 +22,8 @@ safeb-palm-see-details-label = Részletek megtekintése
 safeb-blocked-phishing-page-error-desc-override = A(z) <span data-l10n-name='sitename'>{ $sitename }</span> oldalt <a data-l10n-name='error_desc_link'>megtévesztő oldalként jelentették</a>. <a data-l10n-name='report_detection'>Bejelentheti észlelési hibaként</a> vagy <a data-l10n-name='ignore_warning_link'>figyelmen kívül hagyhatja a kockázatot</a> és továbbmehet erre a nem biztonságos oldalra.
 safeb-blocked-phishing-page-error-desc-no-override = A(z) <span data-l10n-name='sitename'>{ $sitename }</span> oldalt <a data-l10n-name='error_desc_link'>megtévesztő oldalként jelentették</a>. <a data-l10n-name='report_detection'>Bejelentheti észlelési hibaként</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-phishing-page-learn-more = Tudjon meg többet a megtévesztő oldalakról és az adathalászatról a <a data-l10n-name='learn_more_link'>www.antiphishing.org</a> oldalon. Tudjon meg többet a { -brand-short-name } adathalászat és rosszindulatú szoftver elleni védelméről a <a data-l10n-name='firefox_support'>support.mozilla.org</a> oldalon.
 
@@ -32,7 +33,8 @@ safeb-blocked-phishing-page-learn-more = Tudjon meg többet a megtévesztő olda
 safeb-blocked-malware-page-error-desc-override-sumo = A(z) <span data-l10n-name='sitename'>{ $sitename }</span> oldal jelentve lett, miszerint <a data-l10n-name='error_desc_link'>kártékony szoftvert tartalmaz</a>. <a data-l10n-name='ignore_warning_link'>Figyelmen kívül hagyhatja a kockázatot</a>, és meglátogathatja ezt a nem biztonságos oldalt.
 safeb-blocked-malware-page-error-desc-no-override-sumo = A(z) <span data-l10n-name='sitename'>{ $sitename }</span> oldal jelentve lett, miszerint <a data-l10n-name='error_desc_link'>kártékony szoftvert tartalmaz</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-malware-page-learn-more-sumo = Tudjon meg többet a { -brand-short-name } adathalászat és rosszindulatú szoftver elleni védelméről a <a data-l10n-name='firefox_support'>support.mozilla.org</a> oldalon.
 
@@ -42,7 +44,8 @@ safeb-blocked-malware-page-learn-more-sumo = Tudjon meg többet a { -brand-short
 safeb-blocked-unwanted-page-error-desc-override = A(z) <span data-l10n-name='sitename'>{ $sitename }</span> oldal jelentve lett, miszerint <a data-l10n-name='error_desc_link'>kártékony szoftvert tartalmaz</a>. <a data-l10n-name='ignore_warning_link'>Figyelmen kívül hagyhatja a kockázatot</a>, és meglátogathatja ezt a nem biztonságos oldalt.
 safeb-blocked-unwanted-page-error-desc-no-override = A(z) <span data-l10n-name='sitename'>{ $sitename }</span> oldal jelentve lett, miszerint <a data-l10n-name='error_desc_link'>kártékony szoftvert tartalmaz</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-unwanted-page-learn-more = Tudjon meg többet a káros és kéretlen szoftverekről a <a data-l10n-name='learn_more_link'>Kéretlen szoftverekről szóló irányelvekben</a>. Tudjon meg többet a { -brand-short-name } adathalászat és rosszindulatú szoftver elleni védelméről a <a data-l10n-name='firefox_support'>support.mozilla.org</a> oldalon.
 
@@ -52,7 +55,8 @@ safeb-blocked-unwanted-page-learn-more = Tudjon meg többet a káros és kéretl
 safeb-blocked-harmful-page-error-desc-override = A(z) <span data-l10n-name='sitename'>{ $sitename }</span> oldal<a data-l10n-name='error_desc_link'>ártalmas szoftvert tartalmazóként jelentették</a>. <a data-l10n-name='ignore_warning_link'>Figyelmen kívül hagyhatja a kockázatot</a> és továbbmehet erre a nem biztonságos oldalra.
 safeb-blocked-harmful-page-error-desc-no-override = A(z) <span data-l10n-name='sitename'>{ $sitename }</span> oldal<a data-l10n-name='error_desc_link'>ártalmas szoftvert tartalmazóként jelentették</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-harmful-page-learn-more = Tudjon meg többet a { -brand-short-name } adathalászat és rosszindulatú szoftver elleni védelméről a <a data-l10n-name='firefox_support'>support.mozilla.org</a> oldalon.
 safeb-palm-notdeceptive =

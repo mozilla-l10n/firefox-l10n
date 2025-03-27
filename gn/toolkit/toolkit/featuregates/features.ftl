@@ -56,4 +56,3 @@ experimental-features-group-webpage-display =
     .label = Ñanduti rogue jehecha
 experimental-features-group-customize-browsing =
     .label = Embohéra neñeikundaha
-experimental-features-group-customize-browsing-description = Eiporúrõ ko tembiapoite, <a data-l10n-name="connect">emombe’u ne remiandu Connect rehegua</a>

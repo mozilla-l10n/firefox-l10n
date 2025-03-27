@@ -504,9 +504,6 @@ newtab-section-unblock-button = Engeli kaldırın
 
 ## Confirmation modal for blocking a section
 
-newtab-section-confirm-block-section-p1 = Bu bölümü engellemek istediğinizden emin misiniz?
-newtab-section-confirm-block-section-p2 = Engellediğin bölüm artık akışında görünmeyecektir.
-newtab-section-block-section-button = Bu bölümü engelle
 newtab-section-cancel-button = Şimdi değil
 newtab-section-confirm-block-topic-p1 = Bu konuyu engellemek istediğinizden emin misiniz?
 newtab-section-confirm-block-topic-p2 = Engellenen konular artık akışınızda görünmeyecektir.
@@ -520,10 +517,6 @@ newtab-section-mangage-topics-title = Konular
 newtab-section-manage-topics-button-v2 =
     .label = Konuları yönet
 newtab-section-mangage-topics-followed-topics = Takip ediliyor
-newtab-section-mangage-topics-button =
-    .label = Takip edilen ve engellenen konular
-newtab-section-mangage-topics-followed-topics-subtitle = Takip edilen konular
 newtab-section-mangage-topics-followed-topics-empty-state = Henüz hiçbir konuyu takip etmiyorsunuz.
 newtab-section-mangage-topics-blocked-topics = Engellendi
-newtab-section-mangage-topics-blocked-topics-subtitle = Engellenen konular
 newtab-section-mangage-topics-blocked-topics-empty-state = Henüz hiçbir konuyu engellemediniz.

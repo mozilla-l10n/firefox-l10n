@@ -17,28 +17,32 @@ safeb-palm-see-details-label = အသေးစိတ် ကြည့်ရန်
 ##  $sitename (string) - Domain name for the blocked page
 
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-palm-notdeceptive =
     .label = အတုအယောင်ဝဘ်ဆိုက် မဟုတ်ပါ…

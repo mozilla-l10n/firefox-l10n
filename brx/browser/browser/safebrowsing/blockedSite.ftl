@@ -16,28 +16,32 @@ safeb-palm-see-details-label = गुवारै नाइ
 ##  $sitename (string) - Domain name for the blocked page
 
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-palm-notdeceptive =
     .label = बे जायगाया गाजि् जानाय नंआ

@@ -451,7 +451,6 @@ tab-groups-onboarding-create-group-no-alltabs-button-title = Find dine grupper v
 tab-groups-onboarding-saved-groups-title-2 = Når du lukker en fanebladsgruppe, kan du når som helst genåbne den her.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Find dine lukkede grupper ved at søge efter dem i adressefeltet.
 tab-groups-onboarding-session-restore-title = Genåbn dine fanebladsgrupper her.
-tab-groups-onboarding-saved-groups-title = Hvis du lukker en fanebladsgruppe, kan du når som helst genåbne den her.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

@@ -448,7 +448,6 @@ tab-groups-onboarding-create-group-no-alltabs-button-title = Gjeni grupet tuaj t
 tab-groups-onboarding-saved-groups-title-2 = Kur mbyllni një grup skedash, mund ta rihapni këtu kurdo.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Gjeni grupet tuaj të mbyllur të skedave duke kërkuar për ta te shtylla e adresave.
 tab-groups-onboarding-session-restore-title = Rihapni këtu kurdo grupet tuaj të skedave.
-tab-groups-onboarding-saved-groups-title = Nëse mbyllni një grup skedash, mund ta rihapni këtu kurdo.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

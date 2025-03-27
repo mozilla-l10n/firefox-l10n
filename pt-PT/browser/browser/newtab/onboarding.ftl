@@ -448,7 +448,6 @@ tab-groups-onboarding-create-group-no-alltabs-button-title = Encontre os seus gr
 tab-groups-onboarding-saved-groups-title-2 = Quando fecha um grupo de separadores, pode reabri-lo aqui a qualquer momento.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Encontre os seus grupos fechados ao procurar pelos mesmos na barra de endereço.
 tab-groups-onboarding-session-restore-title = Reabra os seus grupos de separadores a qualquer momento aqui.
-tab-groups-onboarding-saved-groups-title = Se fechar um grupo de separadores, pode reabri-lo aqui a qualquer momento.
 tab-groups-onboarding-dismiss = Ok
 
 ## Multi Profiles feature onboarding messages

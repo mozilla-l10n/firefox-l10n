@@ -288,7 +288,6 @@ appmenu-other-protection-header = Vyskúšajte ďalšie nástroje ochrany od { -
 
 ## Profiles panel
 
-appmenu-profiles = Profily
 appmenu-other-profiles = Ďalšie profily
 appmenu-manage-profiles =
     .label = Spravovať profily

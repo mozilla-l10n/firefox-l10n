@@ -53,10 +53,6 @@ fx-view-discoverability-secondary-button-label = Argas
 ## Split Dismiss Button Labels
 
 # Blocks the message from showing again
-split-dismiss-button-dont-show-option-label = Arabat diskouez ar erbedadenn-mañ adarre
-# Opens about:preferences#general-cfrfeatures
-split-dismiss-button-manage-settings-option-label = Merañ an arventennoù
-# Blocks the message from showing again
 split-dismiss-button-dont-show-option =
     .label = Arabat diskouez ar erbedadenn-mañ adarre
 # Opens about:preferences#general-cfrfeatures

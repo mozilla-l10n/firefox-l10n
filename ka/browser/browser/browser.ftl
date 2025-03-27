@@ -731,7 +731,6 @@ urlbar-searchmode-exit-button =
 urlbar-searchmode-popup-description = ძიებისთვის ამჯერად გამოიყენეთ:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = ძიების პარამეტრები
-urlbar-searchmode-popup-search-settings = ძიების პარამეტრები
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

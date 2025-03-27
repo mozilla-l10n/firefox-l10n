@@ -288,7 +288,6 @@ appmenu-other-protection-header = მოსინჯეთ დაცვის �
 
 ## Profiles panel
 
-appmenu-profiles = პროფილები
 appmenu-other-profiles = სხვა პროფილები
 appmenu-manage-profiles =
     .label = პროფილების მართვა

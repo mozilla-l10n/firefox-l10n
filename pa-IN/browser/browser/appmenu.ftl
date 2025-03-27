@@ -288,7 +288,6 @@ appmenu-other-protection-header = { -vendor-short-name } ਵਲੋਂ ਹੋਰ 
 
 ## Profiles panel
 
-appmenu-profiles = ਪਰੋਫਾਇਲ
 appmenu-other-profiles = ਹੋਰ ਪਰੋਫਾਇਲ
 appmenu-manage-profiles =
     .label = ਪਰੋਫਾਇਲਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ

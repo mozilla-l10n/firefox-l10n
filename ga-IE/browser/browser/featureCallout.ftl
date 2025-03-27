@@ -28,10 +28,6 @@ fx-view-discoverability-secondary-button-label = Díbir
 ## Split Dismiss Button Labels
 
 # Blocks the message from showing again
-split-dismiss-button-dont-show-option-label = Ná taispeáin an moladh seo arís
-# Opens about:preferences#general-cfrfeatures
-split-dismiss-button-manage-settings-option-label = Bainistigh na socruithe
-# Blocks the message from showing again
 split-dismiss-button-dont-show-option =
     .label = Ná taispeáin an moladh seo arís
 # Opens about:preferences#general-cfrfeatures

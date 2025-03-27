@@ -22,7 +22,8 @@ safeb-palm-see-details-label = Details ansehen
 safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> wurde als <a data-l10n-name='error_desc_link'>betrügerische Seite gemeldet</a>. Sie können dies <a data-l10n-name='report_detection'>als Fehlerkennung melden</a> oder aber auch <a data-l10n-name='ignore_warning_link'>das Risiko ignorieren</a> und diese nicht sichere Seite aufrufen.
 safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> wurde als <a data-l10n-name='error_desc_link'>betrügerische Seite gemeldet</a>. Sie können dies <a data-l10n-name='report_detection'>als Fehlerkennung melden</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-phishing-page-learn-more = Wenn Sie mehr über betrügerische Websites und Phishing erfahren wollen, so besuchen Sie <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Weitere Informationen zum Schutz vor Betrug und Schadsoftware in { -brand-short-name } stehen unter <a data-l10n-name='firefox_support'>support.mozilla.org</a> bereit.
 
@@ -32,7 +33,8 @@ safeb-blocked-phishing-page-learn-more = Wenn Sie mehr über betrügerische Webs
 safeb-blocked-malware-page-error-desc-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> wurde als <a data-l10n-name='error_desc_link'>Seite mit böswilliger Software gemeldet</a>. Sie können aber auch <a data-l10n-name='ignore_warning_link'>das Risiko ignorieren</a> und diese nicht sichere Seite aufrufen.
 safeb-blocked-malware-page-error-desc-no-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> wurde als <a data-l10n-name='error_desc_link'>Seite mit böswilliger Software gemeldet</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-malware-page-learn-more-sumo = Weitere Informationen zum Schutz vor Betrug und Schadsoftware in { -brand-short-name } stehen unter <a data-l10n-name='firefox_support'>support.mozilla.org</a> bereit.
 
@@ -42,7 +44,8 @@ safeb-blocked-malware-page-learn-more-sumo = Weitere Informationen zum Schutz vo
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> wurde als <a data-l10n-name='error_desc_link'>Seite mit schädlicher Software gemeldet</a>. Sie können aber auch <a data-l10n-name='ignore_warning_link'>das Risiko ignorieren</a> und diese nicht sichere Seite aufrufen.
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> wurde als <a data-l10n-name='error_desc_link'>Seite mit schädlicher Software gemeldet</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-unwanted-page-learn-more = Wenn Sie mehr über schädigende oder unerwünschte Software erfahren wollen, so besuchen Sie die <a data-l10n-name='learn_more_link'>Richtlinie zu unerwünschter Software</a>. Weitere Informationen zum Schutz vor Betrug und Schadsoftware in { -brand-short-name } stehen unter <a data-l10n-name='firefox_support'>support.mozilla.org</a> bereit.
 
@@ -52,7 +55,8 @@ safeb-blocked-unwanted-page-learn-more = Wenn Sie mehr über schädigende oder u
 safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> wurde als <a data-l10n-name='error_desc_link'>Seite mit potenziell gefährlicher Software gemeldet</a>. Sie können aber auch <a data-l10n-name='ignore_warning_link'>das Risiko ignorieren</a> und diese nicht sichere Seite aufrufen.
 safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> wurde als <a data-l10n-name='error_desc_link'>Seite mit potenziell gefährlicher Software gemeldet</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-harmful-page-learn-more = Weitere Informationen zum Schutz vor Betrug und Schadsoftware in { -brand-short-name } stehen unter <a data-l10n-name='firefox_support'>support.mozilla.org</a> bereit.
 safeb-palm-notdeceptive =

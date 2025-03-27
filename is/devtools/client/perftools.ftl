@@ -44,6 +44,9 @@ perftools-button-add-directory = Bæta við möppu
 perftools-button-remove-directory = Fjarlægja valið
 perftools-button-edit-settings = Breyta stillingum…
 
+## More actions menu
+
+
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
 

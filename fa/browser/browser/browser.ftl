@@ -640,7 +640,6 @@ urlbar-searchmode-exit-button =
 urlbar-searchmode-popup-description = این بار جستجو با:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = تنظیمات جستجو
-urlbar-searchmode-popup-search-settings = تنظیمات جستجو
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

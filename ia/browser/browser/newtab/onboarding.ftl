@@ -450,7 +450,6 @@ tab-groups-onboarding-create-group-no-alltabs-button-title = Pro trovar tu grupp
 tab-groups-onboarding-saved-groups-title-2 = Quando tu claude un gruppo de schedas, tu pote reaperir lo hic in omne momento.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Pro trovar tu gruppos claudite, cerca los in le barra de adresse.
 tab-groups-onboarding-session-restore-title = Reaperi tu gruppos de schedas hic in omne momento.
-tab-groups-onboarding-saved-groups-title = Si tu claude un gruppo de schedas, tu poter reaperir lo ci quando tu lo vole.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

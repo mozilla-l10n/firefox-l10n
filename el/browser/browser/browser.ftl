@@ -731,7 +731,6 @@ urlbar-searchmode-exit-button =
 urlbar-searchmode-popup-description = Αυτήν τη φορά αναζήτηση με:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Ρυθμίσεις αναζήτησης
-urlbar-searchmode-popup-search-settings = Ρυθμίσεις αναζήτησης
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

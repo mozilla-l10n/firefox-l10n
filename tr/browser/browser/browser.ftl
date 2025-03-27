@@ -733,7 +733,6 @@ urlbar-searchmode-exit-button =
 urlbar-searchmode-popup-description = Burada ara:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Arama ayarları
-urlbar-searchmode-popup-search-settings = Arama ayarları
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

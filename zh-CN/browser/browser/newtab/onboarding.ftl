@@ -434,7 +434,6 @@ tab-groups-onboarding-create-group-no-alltabs-button-title = 在地址栏搜索�
 tab-groups-onboarding-saved-groups-title-2 = 关闭的标签页群组可随时在此处重新打开。
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = 在地址栏中搜索即可查找已关闭的群组。
 tab-groups-onboarding-session-restore-title = 可随时在此重新打开您的标签页群组。
-tab-groups-onboarding-saved-groups-title = 关闭的标签页群组可随时在此处重新打开。
 tab-groups-onboarding-dismiss = 确定
 
 ## Multi Profiles feature onboarding messages

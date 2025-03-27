@@ -450,7 +450,6 @@ tab-groups-onboarding-create-group-no-alltabs-button-title = Hitta dina grupper 
 tab-groups-onboarding-saved-groups-title-2 = När du stänger en flikgrupp kan du öppna den här igen när som helst.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Hitta dina stängda grupper genom att söka efter dem i adressfältet.
 tab-groups-onboarding-session-restore-title = Återöppna dina flikgrupper här när som helst.
-tab-groups-onboarding-saved-groups-title = Om du stänger en flikgrupp kan du öppna den här igen när som helst.
 tab-groups-onboarding-dismiss = Ok
 
 ## Multi Profiles feature onboarding messages

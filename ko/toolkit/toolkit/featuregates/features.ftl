@@ -56,4 +56,3 @@ experimental-features-group-webpage-display =
     .label = 웹 페이지 표시
 experimental-features-group-customize-browsing =
     .label = 탐색 사용자 지정
-experimental-features-group-customize-browsing-description = 이러한 기능을 사용하신다면, <a data-l10n-name="connect">Connect에 의견을 공유해 주세요</a>

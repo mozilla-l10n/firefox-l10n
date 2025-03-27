@@ -56,4 +56,3 @@ experimental-features-group-webpage-display =
     .label = Webpage Display
 experimental-features-group-customize-browsing =
     .label = ปรับแต่งการการท่องเว็บของคุณ
-experimental-features-group-customize-browsing-description = ถ้าคุณลองใช้คุณลักษณะเหล่านี้ ลอง<a data-l10n-name="connect">แบ่งปันความคิดเห็นของคุณทาง Connect</a>

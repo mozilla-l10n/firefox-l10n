@@ -288,7 +288,6 @@ appmenu-other-protection-header = Preskusite druga orodja { -vendor-short-name(s
 
 ## Profiles panel
 
-appmenu-profiles = Profili
 appmenu-other-profiles = Drugi profili
 appmenu-manage-profiles =
     .label = Upravljanje profilov

@@ -208,10 +208,6 @@ tabbrowser-manager-closed-tab-group =
 tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — Barcon corint
-# "Show more" is for showing all open groups from other windows, as well as saved groups. Initially,
-# we only show up to six of these groups.
-tabbrowser-manager-tab-groups-show-more =
-    .label = Mostre di plui
 
 ## Tab Groups
 
@@ -247,7 +243,6 @@ tab-group-editor-color-selector2-red = Ros
 #  $tabGroupName (String): The name of the tab group. Defaults to the value
 #                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — Grup di schedis
-tab-group-menu-header = Grups di schedis
 tab-context-unnamed-group =
     .label = Grup cence non
 tab-group-name-default = Grup cence non

@@ -69,6 +69,9 @@ perftools-button-add-directory = Rnu akaram
 perftools-button-remove-directory = Kkes tafrant
 perftools-button-edit-settings = Ẓreg iɣewwaren…
 
+## More actions menu
+
+
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
 perftools-thread-gecko-main =

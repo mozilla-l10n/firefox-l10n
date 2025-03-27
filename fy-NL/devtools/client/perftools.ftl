@@ -69,6 +69,9 @@ perftools-button-add-directory = In map tafoegje
 perftools-button-remove-directory = Selektearre fuortsmite
 perftools-button-edit-settings = Ynstellingen bewurkje…
 
+## More actions menu
+
+
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
 perftools-thread-gecko-main =

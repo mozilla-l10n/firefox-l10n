@@ -210,10 +210,6 @@ tabbrowser-manager-closed-tab-group =
 tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — Uneko leihoa
-# "Show more" is for showing all open groups from other windows, as well as saved groups. Initially,
-# we only show up to six of these groups.
-tabbrowser-manager-tab-groups-show-more =
-    .label = Erakutsi gehiago
 
 ## Tab Groups
 
@@ -249,7 +245,6 @@ tab-group-editor-color-selector2-red = Gorria
 #  $tabGroupName (String): The name of the tab group. Defaults to the value
 #                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — Fitxa multzoa
-tab-group-menu-header = Fitxa multzoak
 tab-context-unnamed-group =
     .label = Multzo izengabea
 tab-group-name-default = Multzo izengabea

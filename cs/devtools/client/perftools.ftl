@@ -66,6 +66,9 @@ perftools-button-add-directory = Přidat adresář
 perftools-button-remove-directory = Odebrat vybrané
 perftools-button-edit-settings = Upravit nastavení…
 
+## More actions menu
+
+
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
 perftools-thread-gecko-main =

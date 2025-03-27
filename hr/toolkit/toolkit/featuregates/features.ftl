@@ -40,4 +40,3 @@ experimental-features-group-webpage-display =
     .label = Prikaz web stranice
 experimental-features-group-customize-browsing =
     .label = Prilagodi svoje pregledavanje
-experimental-features-group-customize-browsing-description = Ako isprobaš ove funkcije, <a data-l10n-name="connect">podijeli svoje mišljenje na Connectu</a>

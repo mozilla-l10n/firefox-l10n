@@ -288,7 +288,6 @@ appmenu-other-protection-header = Δοκιμάστε άλλα εργαλεία �
 
 ## Profiles panel
 
-appmenu-profiles = Προφίλ
 appmenu-other-profiles = Άλλα προφίλ
 appmenu-manage-profiles =
     .label = Διαχείριση προφίλ

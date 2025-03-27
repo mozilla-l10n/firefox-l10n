@@ -508,9 +508,6 @@ newtab-section-unblock-button = Poista esto
 
 ## Confirmation modal for blocking a section
 
-newtab-section-confirm-block-section-p1 = Haluatko varmasti estää tämän osion?
-newtab-section-confirm-block-section-p2 = Estetty osio ei enää näy syötteessäsi.
-newtab-section-block-section-button = Estä tämä osio
 newtab-section-cancel-button = Ei nyt
 newtab-section-confirm-block-topic-p1 = Haluatko varmasti estää tämän aiheen?
 newtab-section-confirm-block-topic-p2 = Estetyt aiheet eivät enää näy syötteessäsi.
@@ -524,10 +521,6 @@ newtab-section-mangage-topics-title = Aiheet
 newtab-section-manage-topics-button-v2 =
     .label = Hallinnoi aiheita
 newtab-section-mangage-topics-followed-topics = Seurattu
-newtab-section-mangage-topics-button =
-    .label = Seuratut ja estetyt aiheet
-newtab-section-mangage-topics-followed-topics-subtitle = Seuratut aiheet
 newtab-section-mangage-topics-followed-topics-empty-state = Et ole vielä seurannut yhtäkään aihetta.
 newtab-section-mangage-topics-blocked-topics = Estetty
-newtab-section-mangage-topics-blocked-topics-subtitle = Estetyt aiheet
 newtab-section-mangage-topics-blocked-topics-empty-state = Et ole vielä estänyt yhtäkään aihetta.

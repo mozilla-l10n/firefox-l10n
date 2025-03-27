@@ -22,7 +22,8 @@ safeb-palm-see-details-label = تفصیلاں ݙیکھو
 safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> کوں <a data-l10n-name='error_desc_link'>فریبی سائٹ دے طور تے رپورٹ کیتا ڳیا ہے</a>۔ تساں <a data-l10n-name='report_detection'>پتہ لاوݨ کیتے مسئلے دی اطلاع ݙے سڳدے او </a> یا <a data-l10n-name='ignore_warning_link'>خطرے کوں نظر انداز کر سڳدے او</a> تے ایں غیر محفوظ سائٹ تے ونڄ سڳدے او۔
 safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> کوں <a data-l10n-name='error_desc_link'>فریبی سائٹ دے طور تے رپورٹ کیتا ڳیا ہے</a>۔ تساں <a data-l10n-name='report_detection'>پتہ لاوݨ کیتے مسئلے دی اطلاع ݙے سڳدے او</a>۔
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-phishing-page-learn-more = فریبی سائٹاں تے فشنگ دے بارے ودھیک ڄاݨو <a data-l10n-name='learn_more_link'>www.antiphishing.org</a> تے۔ <a data-l10n-name='firefox_support'>support.mozilla.org</a> تے { -brand-short-name } دے فشنگ تے مالویئر پروٹیکشن دے بارے ودھیک ڄاݨو۔
 
@@ -32,7 +33,8 @@ safeb-blocked-phishing-page-learn-more = فریبی سائٹاں تے فشنگ �
 safeb-blocked-malware-page-error-desc-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> کوں <a data-l10n-name='error_desc_link'> خینسی سافٹ ویئر تے مشتمل ہووݨ دی اطلاع ݙتی ڳئی ہے</a>۔ تساں <a data-l10n-name='ignore_warning_link'>خطرے کوں نظر انداز کر سڳدے او </a> تے ایں غیر محفوظ سائٹ تے ونڄ سڳدے او۔
 safeb-blocked-malware-page-error-desc-no-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> کوں <a data-l10n-name='error_desc_link'> خینسی سافٹ ویئر تے مشتمل ہووِݨ دی اطلاع ݙتی ڳئی ہے</a>۔
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-malware-page-learn-more-sumo = <a data-l10n-name='firefox_support'>support.mozilla.org</a> تے { -brand-short-name } دے فشنگ تے مالویئر پروٹیکشن دے بارے ودھیک ڄاݨو۔
 
@@ -42,7 +44,8 @@ safeb-blocked-malware-page-learn-more-sumo = <a data-l10n-name='firefox_support'
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> کوں <a data-l10n-name='error_desc_link'>نقصان دہ سافٹ ویئر تے مشتمل ہووݨ دی اطلاع ݙتی ݙئی ہے</a>۔ تساں <a data-l10n-name='ignore_warning_link'>بھئو کوں نظر انداز کر سڳدے ہن</a> اتے ایں غیر محفوظ سائٹ تے ونڄ سڳدے او۔
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> کوں <a data-l10n-name='error_desc_link'>نقصان دہ سافٹ ویئر تے مشتمل ہووݨ دی اطلاع ݙتی ڳئی ہے</a>۔
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-unwanted-page-learn-more = خینسی تے اݨ بھانوݨے سافٹ ویئر دے بارے ودھیک ڄاݨو <a data-l10n-name='learn_more_link'>غیر مطلوبہ سافٹ ویئر پالیسی</a> تے۔ <a data-l10n-name='firefox_support'>support.mozilla.org</a> تے { -brand-short-name } دے فشنگ تے مالویئر پروٹیکشن دے بارے ودھیک ڄاݨو۔
 
@@ -52,7 +55,8 @@ safeb-blocked-unwanted-page-learn-more = خینسی تے اݨ بھانوݨے س�
 safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> کوں <a data-l10n-name='error_desc_link'>ممکنہ طور تے خینسی ایپلی کیشن دے طور تے رپورٹ کیتا ڳیا ہے</a>۔ تساں <a data-l10n-name='ignore_warning_link'>خطرے کوں نظر انداز کر سڳدے او</a> تے ایں غیر محفوظ سائٹ تے ونڄ سڳدے او۔
 safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> کوں <a data-l10n-name='error_desc_link'>ممکنہ طور تے خینسی ایپلی کیشن دے طور تے رپورٹ کیتا ڳیا ہے</a>۔
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-harmful-page-learn-more = <a data-l10n-name='firefox_support'>support.mozilla.org</a> تے { -brand-short-name } دے فشنگ تے مالویئر پروٹیکشن دے بارے ودھیک ڄاݨو۔
 safeb-palm-notdeceptive =

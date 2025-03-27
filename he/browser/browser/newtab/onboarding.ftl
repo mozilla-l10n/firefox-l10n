@@ -406,7 +406,6 @@ tab-groups-onboarding-create-group-no-alltabs-button-title = ניתן למצוא
 tab-groups-onboarding-saved-groups-title-2 = לאחר סגירת קבוצת לשוניות, באפשרותך לפתוח אותה מחדש כאן בכל עת.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = ניתן למצוא את הקבוצות הסגורות שלך על־ידי חיפושן בשורת הכתובת.
 tab-groups-onboarding-session-restore-title = ניתן לפתוח את קבוצות הלשוניות שלך כאן בכל עת.
-tab-groups-onboarding-saved-groups-title = לאחר סגירת קבוצת לשוניות, באפשרותך לפתוח אותה מחדש כאן בכל עת.
 tab-groups-onboarding-dismiss = אישור
 
 ## Multi Profiles feature onboarding messages

@@ -510,9 +510,6 @@ newtab-section-unblock-button = Wěcej njeblokěrowaś
 
 ## Confirmation modal for blocking a section
 
-newtab-section-confirm-block-section-p1 = Cośo napšawdu toś ten wótrězk blokěrowaś?
-newtab-section-confirm-block-section-p2 = Blokěrowany wótrězk se wěcej we wašom kanalu njezjawijo.
-newtab-section-block-section-button = Toś ten wótrězk blokěrowaś
 newtab-section-cancel-button = Nic něnto
 newtab-section-confirm-block-topic-p1 = Cośo napšawdu toś tu temu blokěrowaś?
 newtab-section-confirm-block-topic-p2 = Blokěrowane temy se wěcej we wašom kanalu njezjawiju.
@@ -526,10 +523,6 @@ newtab-section-mangage-topics-title = Temy
 newtab-section-manage-topics-button-v2 =
     .label = Temy zastojaś
 newtab-section-mangage-topics-followed-topics = Slědowany
-newtab-section-mangage-topics-button =
-    .label = Slědowane a blokěrowane temy
-newtab-section-mangage-topics-followed-topics-subtitle = Slědowane temy
 newtab-section-mangage-topics-followed-topics-empty-state = Hyšći žednym temam njeslědujośo.
 newtab-section-mangage-topics-blocked-topics = Blokěrowany
-newtab-section-mangage-topics-blocked-topics-subtitle = Blokěrowane temy
 newtab-section-mangage-topics-blocked-topics-empty-state = Hyšći njejsćo blokěrował temy.

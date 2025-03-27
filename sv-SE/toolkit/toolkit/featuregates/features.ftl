@@ -56,4 +56,3 @@ experimental-features-group-webpage-display =
     .label = Visning av webbsida
 experimental-features-group-customize-browsing =
     .label = Anpassa din surfning
-experimental-features-group-customize-browsing-description = Om du provar dessa funktioner, <a data-l10n-name="connect">dela dina tankar om Connect</a>

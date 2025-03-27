@@ -69,6 +69,9 @@ perftools-button-add-directory = ڈائریکٹری شامل کرو
 perftools-button-remove-directory = منتخب شدہ ہٹاؤ
 perftools-button-edit-settings = سیٹنگز وچ تبدیلی کرو…
 
+## More actions menu
+
+
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
 perftools-thread-gecko-main =

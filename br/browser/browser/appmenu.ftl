@@ -280,7 +280,6 @@ appmenuitem-vpn-description = Gwarezit hoc’h oberiantiz enlinenn
 
 ## Profiles panel
 
-appmenu-profiles = Profiloù
 appmenu-other-profiles = Profiloù all
 appmenu-manage-profiles =
     .label = Merañ ar profiloù

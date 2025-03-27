@@ -69,6 +69,9 @@ perftools-button-add-directory = Zonte une cartele
 perftools-button-remove-directory = Gjave selezionadis
 perftools-button-edit-settings = Modifiche lis impostazions…
 
+## More actions menu
+
+
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
 perftools-thread-gecko-main =

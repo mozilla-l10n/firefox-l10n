@@ -22,7 +22,8 @@ safeb-palm-see-details-label = Sjå detaljar
 safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> er <a data-l10n-name='error_desc_link'>rapportert som ein villeiande nettstad</a>. Du kan <a data-l10n-name='report_detection'>rapportere eit deteksjonsproblem</a> eller <a data-l10n-name='ignore_warning_link'>ignorere risikoen</a> og gå til denne utrygge nettstaden.
 safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> er <a data-l10n-name='error_desc_link'>rapportert som ein villeiande nettstad</a>. You can <a data-l10n-name='report_detection'>rapportere eit deteksjonsproblem</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-phishing-page-learn-more = Les meir om villeiande nettstadar og nettfisking på <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Les meir om { -brand-short-name } sitt vern mot nettfisking og skadeleg programvare på <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
@@ -32,7 +33,8 @@ safeb-blocked-phishing-page-learn-more = Les meir om villeiande nettstadar og ne
 safeb-blocked-malware-page-error-desc-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> er <a data-l10n-name='error_desc_link'>rapportert å innehalde skadeleg programvare</a>. Du kan <a data-l10n-name='ignore_warning_link'>ignorere risikoen</a> og gå til denne usikre nettstaden.
 safeb-blocked-malware-page-error-desc-no-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> er <a data-l10n-name='error_desc_link'>rapportert å innehalde skadeleg programvare</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-malware-page-learn-more-sumo = Les meir om{ -brand-short-name } sitt vern mot nettfiske og skadeleg programvare på <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
@@ -42,7 +44,8 @@ safeb-blocked-malware-page-learn-more-sumo = Les meir om{ -brand-short-name } si
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> er <a data-l10n-name='error_desc_link'>rapportert å innehalde skadeleg programvare</a>. Du kan <a data-l10n-name='ignore_warning_link'>ignorere risikoen</a> og gå til denne utrygge nettstaden.
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> er <a data-l10n-name='error_desc_link'>rapportert å innehalde skadeleg programvare</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-unwanted-page-learn-more = Les meir om skadeleg og uønskt programvare på <a data-l10n-name='learn_more_link'>Uønskt programvarepraksis</a>. Les meir om { -brand-short-name } sitt vern mot nettfisking og skadeleg programvare på <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
@@ -52,7 +55,8 @@ safeb-blocked-unwanted-page-learn-more = Les meir om skadeleg og uønskt program
 safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> er <a data-l10n-name='error_desc_link'>rapportert å innehalde potensielt skadeleg programvare</a>. Du kan <a data-l10n-name='ignore_warning_link'>ignorere risikoen</a> og gå til denne utrygge nettstaden.
 safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> er <a data-l10n-name='error_desc_link'>rapportert å innehalde potensielt skadeleg programvare</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-harmful-page-learn-more = Les meir om { -brand-short-name } sitt vern mot nettfisking og skadeleg programvare på <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 safeb-palm-notdeceptive =

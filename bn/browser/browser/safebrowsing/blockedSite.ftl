@@ -22,7 +22,8 @@ safeb-palm-see-details-label = বিস্তারিত দেখুন
 safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> একটি <a data-l10n-name='error_desc_link'>প্রতারক ওয়েবসাইট হিসাবে সনাক্ত</a> করা হয়েছে। আপনি এই সনাক্তকরণ কে সমস্যা হিসাবে <a data-l10n-name='report_detection'>রিপোর্ট</a> করতে পারেন অথবা <a data-l10n-name='ignore_warning_link'>ঝুঁকি উপেক্ষা করে</a> এই অনিরাপদ ওয়েবসাইট ভিজিট করতে পারেন।
 safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> কে <a data-l10n-name='error_desc_link'>প্রতারণামূলক সাইট হিসাবে প্রতিবেদন করা হয়েছে</a>। আপনি <a data-l10n-name='report_detection'>সনাক্তকরণ সমস্যা নিয়ে প্রতিবেদন করতে পারেন</a>।
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-phishing-page-learn-more =
     প্রতারণামূলক সাইট এবং ফিশিং সম্পর্কে আরও জানুন <a data-l10n-name='learn_more_link'>www.antiphishing.org</a> এখানে।
@@ -32,7 +33,8 @@ safeb-blocked-phishing-page-learn-more =
 ##  $sitename (string) - Domain name for the blocked page
 
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 
 ## Variables
@@ -41,7 +43,8 @@ safeb-blocked-phishing-page-learn-more =
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> সাইটটিতে <a data-l10n-name='error_desc_link'>ক্ষতিকারক সফটওয়ার রয়েছে বলে রিপোর্ট করা হয়েছে</a>। আপনি <a data-l10n-name='ignore_warning_link'>ঝুঁকি উপেক্ষা করে</a> এই অনিরাপদ সাইট ভিজিট করতে পারে।
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> সাইটটিতে <a data-l10n-name='error_desc_link'>ক্ষতিকারক সফটওয়ার রয়েছে বলে রিপোর্ট করা হয়েছে</a>।
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-unwanted-page-learn-more = <a data-l10n-name='learn_more_link'>অযাচিত সফটওয়্যার পলিসিতে</a> ক্ষতিকারক এবং অযাচিত সফটওয়্যার সম্পর্কে পড়ুন। <a data-l10n-name='firefox_support'>support.mozilla.org</a> ঠিকানায় { -brand-short-name } এর ফিশিং এবং ম্যালওয়ার সুরক্ষা সম্পর্কে আরও জানুন।
 
@@ -51,7 +54,8 @@ safeb-blocked-unwanted-page-learn-more = <a data-l10n-name='learn_more_link'>অ
 safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> কে <a data-l10n-name='error_desc_link'>সম্ভাব্য ক্ষতিকারক অ্যাপ্লিকেশন সরবরাহকারী হিসাবে রিপোর্ট করা হয়েছে</a>। আপনি <a data-l10n-name='ignore_warning_link'>ঝুঁকি উপেক্ষা করতে পারেন</a> এবং এই অনিরাপদ সাইটে যান।
 safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> কে <a data-l10n-name='error_desc_link'>সম্ভাব্য ক্ষতিকারক অ্যাপ্লিকেশন সরবরাহকারী হিসাবে রিপোর্ট করা হয়েছে</a>।
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-harmful-page-learn-more = { -brand-short-name } এর ফিশিং এবং ম্যালওয়্যার সুরক্ষা সম্পর্কে আরও জানুন <a data-l10n-name='firefox_support'>support.mozilla.org</a> তে।
 safeb-palm-notdeceptive =

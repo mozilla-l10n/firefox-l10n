@@ -56,4 +56,3 @@ experimental-features-group-webpage-display =
     .label = Web sayfası görünümü
 experimental-features-group-customize-browsing =
     .label = Gezintinizi özelleştirin
-experimental-features-group-customize-browsing-description = Bu özellikleri denerseniz <a data-l10n-name="connect">fikirlerinizi Connect’te paylaşabilirsiniz</a>

@@ -54,12 +54,6 @@ fx-view-discoverability-secondary-button-label = Ignorar
 ## Split Dismiss Button Labels
 
 # Blocks the message from showing again
-split-dismiss-button-dont-show-option-label = No mostrar esta recomendación nuevamente
-# Dismisses message and reduces frequency of message
-split-dismiss-button-show-fewer-option-label = Mostrar menos recomendaciones
-# Opens about:preferences#general-cfrfeatures
-split-dismiss-button-manage-settings-option-label = Administrar preferencias
-# Blocks the message from showing again
 split-dismiss-button-dont-show-option =
     .label = No mostrar esta recomendación nuevamente
 # Dismisses message and reduces frequency of message
@@ -141,6 +135,6 @@ actions-callout-title = Completar tareas comunes o acceder a la configuración b
 # These example text inputs correlate to the the following strings
 # (either matching the whole string, or the first word of the string).
 # "print" - quickactions-cmd-print
-# "clear" - quickactions-cmd-clearhistory
+# "clear" - quickactions-cmd-clearrecenthistory
 # When localizing, ensure the translations match to ensure the action button appears as expected.
 actions-callout-subtitle = Intente escribir una acción como “imprimir” para imprimir una página o “borrar” para borrar el historial.

@@ -450,7 +450,6 @@ tab-groups-onboarding-create-group-no-alltabs-button-title = Encuentra tus grupo
 tab-groups-onboarding-saved-groups-title-2 = Cuando cierras un grupo de pestañas, puedes reabrirlo aquí en cualquier momento.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Encuentra tus grupos cerrados buscándolos en la barra de direcciones.
 tab-groups-onboarding-session-restore-title = Reabre tus grupos de pestañas aquí en cualquier momento.
-tab-groups-onboarding-saved-groups-title = Si cierras un grupo de pestañas, puedes reabrirlo aquí en cualquier momento.
 tab-groups-onboarding-dismiss = Aceptar
 
 ## Multi Profiles feature onboarding messages

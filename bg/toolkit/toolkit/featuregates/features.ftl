@@ -39,4 +39,3 @@ experimental-features-group-webpage-display =
     .label = Изчертаване на уеб страниците
 experimental-features-group-customize-browsing =
     .label = Персонализирайте вашето сърфиране
-experimental-features-group-customize-browsing-description = Ако изпробвате тези функции, <a data-l10n-name="connect">споделете мнението си на Connect</a>

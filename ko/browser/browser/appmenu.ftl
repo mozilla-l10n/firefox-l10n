@@ -288,7 +288,6 @@ appmenu-other-protection-header = { -vendor-short-name }의 다른 보호 도구
 
 ## Profiles panel
 
-appmenu-profiles = 프로필
 appmenu-other-profiles = 다른 프로필
 appmenu-manage-profiles =
     .label = 프로필 관리

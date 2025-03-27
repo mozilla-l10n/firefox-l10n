@@ -288,7 +288,6 @@ appmenu-other-protection-header = جرّب أدوات حماية أخرى من {
 
 ## Profiles panel
 
-appmenu-profiles = ملفات تعريف
 appmenu-other-profiles = ملفات تعريف أخرى
 appmenu-manage-profiles =
     .label = أدِر ملفات التعريف

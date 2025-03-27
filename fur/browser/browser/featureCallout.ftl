@@ -54,12 +54,6 @@ fx-view-discoverability-secondary-button-label = Siere
 ## Split Dismiss Button Labels
 
 # Blocks the message from showing again
-split-dismiss-button-dont-show-option-label = No stas mostrâ di gnûf cheste racomandazion
-# Dismisses message and reduces frequency of message
-split-dismiss-button-show-fewer-option-label = Mostre mancul racomandazions
-# Opens about:preferences#general-cfrfeatures
-split-dismiss-button-manage-settings-option-label = Gjestìs impostazions
-# Blocks the message from showing again
 split-dismiss-button-dont-show-option =
     .label = No stas mostrâ di gnûf cheste racomandazion
 # Dismisses message and reduces frequency of message
@@ -141,6 +135,6 @@ actions-callout-title = Completâ lis ativitâts plui comunis o acedi aes impost
 # These example text inputs correlate to the the following strings
 # (either matching the whole string, or the first word of the string).
 # "print" - quickactions-cmd-print
-# "clear" - quickactions-cmd-clearhistory
+# "clear" - quickactions-cmd-clearrecenthistory
 # When localizing, ensure the translations match to ensure the action button appears as expected.
 actions-callout-subtitle = Prove a scrivi une azion come “stampe” par stampâ une pagjine o “nete” par netâ la cronologjie.

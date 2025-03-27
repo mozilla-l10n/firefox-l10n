@@ -288,7 +288,6 @@ appmenu-other-protection-header = Абзорҳои муҳофизати дига
 
 ## Profiles panel
 
-appmenu-profiles = Профилҳо
 appmenu-other-profiles = Профилҳои дигар
 appmenu-manage-profiles =
     .label = Идоракунии профилҳо

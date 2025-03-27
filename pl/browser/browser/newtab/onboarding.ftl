@@ -444,7 +444,6 @@ tab-groups-onboarding-create-group-no-alltabs-button-title = Znajdź swoje grupy
 tab-groups-onboarding-saved-groups-title-2 = Kiedy zamkniesz grupę kart, tutaj możesz ją w każdej chwili przywrócić.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Znajdź zamknięte grupy, wyszukując je na pasku adresu.
 tab-groups-onboarding-session-restore-title = Tutaj możesz w każdej chwili przywrócić swoje grupy kart.
-tab-groups-onboarding-saved-groups-title = Jeśli zamkniesz grupę kart, tutaj możesz ją w każdej chwili przywrócić.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

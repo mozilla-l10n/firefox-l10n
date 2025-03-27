@@ -451,7 +451,6 @@ tab-groups-onboarding-create-group-no-alltabs-button-title = Retrouvez vos group
 tab-groups-onboarding-saved-groups-title-2 = Lorsque vous fermez un groupe d’onglets, vous pouvez le rouvrir ici à tout moment.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Retrouvez les groupes fermés en les recherchant dans la barre d’adresse.
 tab-groups-onboarding-session-restore-title = Rouvrez à tout moment vos groupes d’onglets ici.
-tab-groups-onboarding-saved-groups-title = Si vous fermez un groupe d’onglets, vous pouvez le rouvrir ici à tout moment.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

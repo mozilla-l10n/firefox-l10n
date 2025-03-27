@@ -451,7 +451,6 @@ tab-groups-onboarding-create-group-no-alltabs-button-title = Vind uw groepen doo
 tab-groups-onboarding-saved-groups-title-2 = Wanneer u een tabbladgroep sluit, kunt u deze hier altijd opnieuw openen.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Vind uw gesloten groepen door ernaar te zoeken in de adresbalk.
 tab-groups-onboarding-session-restore-title = Open hier altijd uw tabbladgroepen.
-tab-groups-onboarding-saved-groups-title = Als u een tabbladgroep sluit, kunt u deze hier altijd opnieuw openen.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

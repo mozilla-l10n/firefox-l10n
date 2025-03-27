@@ -74,12 +74,6 @@ fx-view-discoverability-secondary-button-label = Zavřít
 ## Split Dismiss Button Labels
 
 # Blocks the message from showing again
-split-dismiss-button-dont-show-option-label = Toto doporučení už nezobrazovat
-# Dismisses message and reduces frequency of message
-split-dismiss-button-show-fewer-option-label = Zobrazovat méně doporučení
-# Opens about:preferences#general-cfrfeatures
-split-dismiss-button-manage-settings-option-label = Spravovat nastavení
-# Blocks the message from showing again
 split-dismiss-button-dont-show-option =
     .label = Toto doporučení už nezobrazovat
 # Dismisses message and reduces frequency of message
@@ -183,6 +177,6 @@ actions-callout-title = Dokončete běžné úkoly nebo přejděte do základní
 # These example text inputs correlate to the the following strings
 # (either matching the whole string, or the first word of the string).
 # "print" - quickactions-cmd-print
-# "clear" - quickactions-cmd-clearhistory
+# "clear" - quickactions-cmd-clearrecenthistory
 # When localizing, ensure the translations match to ensure the action button appears as expected.
 actions-callout-subtitle = Zkuste zadat například “tisk” pro vytištění stránky, nebo “vymazat” pro vymazání historie prohlížení.

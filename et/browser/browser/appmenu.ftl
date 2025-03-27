@@ -288,7 +288,6 @@ appmenu-other-protection-header = Proovi teisi kaitsetööriistu pakkujalt { -ve
 
 ## Profiles panel
 
-appmenu-profiles = Profiilid
 appmenu-other-profiles = Muud profiilid
 appmenu-manage-profiles =
     .label = Profiilide haldamine

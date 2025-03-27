@@ -508,9 +508,6 @@ newtab-section-unblock-button = Blokkearring opheffe
 
 ## Confirmation modal for blocking a section
 
-newtab-section-confirm-block-section-p1 = Binne jo wis dat jo dizze seksje blokkearje wolle?
-newtab-section-confirm-block-section-p2 = Blokkearre seksje sil net mear yn jo feed. ferskine
-newtab-section-block-section-button = Dizze seksje blokkearje
 newtab-section-cancel-button = No net
 newtab-section-confirm-block-topic-p1 = Binne jo wis dat jo dit ûnderwerp blokkearje wolle?
 newtab-section-confirm-block-topic-p2 = Blokkearre ûnderwerpen ferskine net mear yn jo feed.
@@ -524,10 +521,6 @@ newtab-section-mangage-topics-title = Underwerpen
 newtab-section-manage-topics-button-v2 =
     .label = Underwerpen beheare
 newtab-section-mangage-topics-followed-topics = Folge
-newtab-section-mangage-topics-button =
-    .label = Folge en blokkearre ûnderwerpen
-newtab-section-mangage-topics-followed-topics-subtitle = Folge ûnderwerpen
 newtab-section-mangage-topics-followed-topics-empty-state = Jo hawwe noch gjin ûnderwerpen folge.
 newtab-section-mangage-topics-blocked-topics = Blokkearre
-newtab-section-mangage-topics-blocked-topics-subtitle = Blokkearre ûnderwerpen
 newtab-section-mangage-topics-blocked-topics-empty-state = Jo hawwe noch gjin ûnderwerpen blokkearre.

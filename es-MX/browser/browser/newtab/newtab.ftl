@@ -501,9 +501,6 @@ newtab-section-unblock-button = Desbloquear
 
 ## Confirmation modal for blocking a section
 
-newtab-section-confirm-block-section-p1 = ¿Realmente deseas bloquear esta sección?
-newtab-section-confirm-block-section-p2 = Sección bloqueada, ya no se mostrará más.
-newtab-section-block-section-button = Bloquear esta sección
 newtab-section-cancel-button = Ahora no
 newtab-section-confirm-block-topic-p1 = ¿Estás seguro de que deseas bloquear este tema?
 newtab-section-confirm-block-topic-p2 = Los temas bloqueados ya no aparecerán en tu feed.
@@ -517,10 +514,6 @@ newtab-section-mangage-topics-title = Temas
 newtab-section-manage-topics-button-v2 =
     .label = Administrar temas
 newtab-section-mangage-topics-followed-topics = Seguido
-newtab-section-mangage-topics-button =
-    .label = Temas seguidos y bloqueados
-newtab-section-mangage-topics-followed-topics-subtitle = Temas seguidos
 newtab-section-mangage-topics-followed-topics-empty-state = Aún no sigues ningún tema.
 newtab-section-mangage-topics-blocked-topics = Bloqueado
-newtab-section-mangage-topics-blocked-topics-subtitle = Temas bloqueados
 newtab-section-mangage-topics-blocked-topics-empty-state = Aún no has bloqueado ningún tema.

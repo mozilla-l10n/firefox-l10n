@@ -7,28 +7,32 @@
 ##  $sitename (string) - Domain name for the blocked page
 
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-palm-notdeceptive =
     .label = Nié 'n misleidende werf nie…

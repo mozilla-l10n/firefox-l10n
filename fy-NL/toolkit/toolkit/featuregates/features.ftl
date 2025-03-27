@@ -56,4 +56,3 @@ experimental-features-group-webpage-display =
     .label = Websitewerjefte
 experimental-features-group-customize-browsing =
     .label = Pas jo browser oan
-experimental-features-group-customize-browsing-description = As jo dizze funksjes probearje, <a data-l10n-name="connect">diel dan jo miening op Connect</a>

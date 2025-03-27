@@ -70,6 +70,9 @@ perftools-button-add-directory = Ychwanegwch gyfeiriadur
 perftools-button-remove-directory = Tynnwch y dewis
 perftools-button-edit-settings = Golygu Gosodiadau...
 
+## More actions menu
+
+
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
 perftools-thread-gecko-main =

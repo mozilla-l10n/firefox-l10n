@@ -279,7 +279,6 @@ appmenu-other-protection-header = Փորձեք պաշտպանության այլ
 
 ## Profiles panel
 
-appmenu-profiles = Հատկագրեր
 appmenu-other-profiles = Այլ հատկագրեր
 appmenu-manage-profiles =
     .label = Կառավարել հատկագրերը

@@ -500,9 +500,6 @@ newtab-section-unblock-button = Zhbllokoje
 
 ## Confirmation modal for blocking a section
 
-newtab-section-confirm-block-section-p1 = Jeni i sigurt se doni të bllokohet kjo ndarje?
-newtab-section-confirm-block-section-p2 = Pjesa e bllokuar s’do të shfaqet më në prurjen tuaj.
-newtab-section-block-section-button = Bllokoje këtë pjesë
 newtab-section-cancel-button = Jo tani
 newtab-section-confirm-block-topic-p1 = Jeni i sigurt se doni të bllokohet ky subjekt?
 newtab-section-confirm-block-topic-p2 = Subjektet e bllokuar s’do të shfaqen më në prurjen tuaj.
@@ -516,10 +513,6 @@ newtab-section-mangage-topics-title = Tema
 newtab-section-manage-topics-button-v2 =
     .label = Administroni subjekte
 newtab-section-mangage-topics-followed-topics = Të ndjekur
-newtab-section-mangage-topics-button =
-    .label = Tema të ndjekura dhe të bllokuara
-newtab-section-mangage-topics-followed-topics-subtitle = Tema të Ndjekura
 newtab-section-mangage-topics-followed-topics-empty-state = S’keni ende ndonjë temë të ndjekur.
 newtab-section-mangage-topics-blocked-topics = Të bllokuar
-newtab-section-mangage-topics-blocked-topics-subtitle = Tema të Bllokuara
 newtab-section-mangage-topics-blocked-topics-empty-state = S’’keni ende ndonjë temë të bllokuar.

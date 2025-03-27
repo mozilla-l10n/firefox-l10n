@@ -450,7 +450,6 @@ tab-groups-onboarding-create-group-no-alltabs-button-title = Βρείτε τις
 tab-groups-onboarding-saved-groups-title-2 = Όταν κλείσετε μια ομάδα καρτελών, μπορείτε να την ανοίξετε ξανά εδώ, ανά πάσα στιγμή.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Βρείτε τις ομάδες που κλείσατε αναζητώντας τες στη γραμμή διευθύνσεων.
 tab-groups-onboarding-session-restore-title = Ανοίξτε ξανά τις ομάδες καρτελών σας εδώ, ανά πάσα στιγμή.
-tab-groups-onboarding-saved-groups-title = Αν κλείσετε μια ομάδα καρτελών, μπορείτε να την ανοίξετε ξανά εδώ ανά πάσα στιγμή.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

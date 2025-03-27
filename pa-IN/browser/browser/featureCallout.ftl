@@ -54,12 +54,6 @@ fx-view-discoverability-secondary-button-label = ਖ਼ਾਰਜ ਕਰੋ
 ## Split Dismiss Button Labels
 
 # Blocks the message from showing again
-split-dismiss-button-dont-show-option-label = ਇਹ ਸਿਫ਼ਾਰਸ਼ ਮੁੜ ਕੇ ਨਾ ਦਿਖਾਓ
-# Dismisses message and reduces frequency of message
-split-dismiss-button-show-fewer-option-label = ਸਿਫ਼ਾਰਸ਼ਾਂ ਥੋੜ੍ਹੀਆਂ ਘੱਟ ਦਿਖਾਓ
-# Opens about:preferences#general-cfrfeatures
-split-dismiss-button-manage-settings-option-label = ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
-# Blocks the message from showing again
 split-dismiss-button-dont-show-option =
     .label = ਇਹ ਸਿਫ਼ਾਰਸ਼ ਮੁੜ ਕੇ ਨਾ ਦਿਖਾਓ
 # Dismisses message and reduces frequency of message
@@ -133,6 +127,6 @@ actions-callout-title = ਆਮ ਕੰਮ ਪੂਰੇ ਕਰੋ ਜਾਂ ਮੁ
 # These example text inputs correlate to the the following strings
 # (either matching the whole string, or the first word of the string).
 # "print" - quickactions-cmd-print
-# "clear" - quickactions-cmd-clearhistory
+# "clear" - quickactions-cmd-clearrecenthistory
 # When localizing, ensure the translations match to ensure the action button appears as expected.
 actions-callout-subtitle = ਕਾਰਵਾਈਆਂ ਜਿਵੇਂ ਕਿ ਸਫ਼ੇ ਨੂੰ ਪਰਿੰਟ ਕਰਨ ਲਈ “ਪਰਿੰਟ” ਜਾਂ ਆਪਣੇ ਅਤੀਤ ਨੂੰ ਮਿਟਾਉਣ ਲਈ "ਮਿਟਾਓ" ਲਿਖਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।

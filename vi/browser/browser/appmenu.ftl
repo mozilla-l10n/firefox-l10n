@@ -288,7 +288,6 @@ appmenu-other-protection-header = Hãy thử các công cụ bảo vệ khác t�
 
 ## Profiles panel
 
-appmenu-profiles = Hồ sơ người dùng
 appmenu-other-profiles = Các hồ sơ người dùng khác
 appmenu-manage-profiles =
     .label = Quản lý hồ sơ người dùng

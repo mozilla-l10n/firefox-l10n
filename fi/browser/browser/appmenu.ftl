@@ -288,7 +288,6 @@ appmenu-other-protection-header = Kokeile muita { -vendor-short-name }n suojaust
 
 ## Profiles panel
 
-appmenu-profiles = Profiilit
 appmenu-other-profiles = Muut profiilit
 appmenu-manage-profiles =
     .label = Hallitse profiileja

@@ -750,7 +750,6 @@ urlbar-searchmode-exit-button =
 urlbar-searchmode-popup-description = Y tro hwn, chwilio gyda:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Gosodiadau chwilio
-urlbar-searchmode-popup-search-settings = Gosodiadau chwilio
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

@@ -288,7 +288,6 @@ appmenu-other-protection-header = Coba alat perlindungan lain dari { -vendor-sho
 
 ## Profiles panel
 
-appmenu-profiles = Profil
 appmenu-other-profiles = Profil lainnya
 appmenu-manage-profiles =
     .label = Kelola profil

@@ -288,7 +288,6 @@ appmenu-other-protection-header = Testujśo druge šćitańske rědy wót { -ven
 
 ## Profiles panel
 
-appmenu-profiles = Profile
 appmenu-other-profiles = Druge profile
 appmenu-manage-profiles =
     .label = Profile zastojaś

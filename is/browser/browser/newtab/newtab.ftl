@@ -508,9 +508,6 @@ newtab-section-unblock-button = Opna fyrir
 
 ## Confirmation modal for blocking a section
 
-newtab-section-confirm-block-section-p1 = Ertu viss um að þú viljir loka á þennan hluta?
-newtab-section-confirm-block-section-p2 = Hluti sem lokað er á mun ekki lengur birtast í streyminu þínu.
-newtab-section-block-section-button = Loka á þennan hluta
 newtab-section-cancel-button = Ekki núna
 newtab-section-confirm-block-topic-p1 = Ertu viss um að þú viljir loka á þetta umfjöllunarefni?
 newtab-section-confirm-block-topic-p2 = Umfjöllunarefni sem lokað er á munu ekki lengur birtast í streyminu þínu.
@@ -524,10 +521,6 @@ newtab-section-mangage-topics-title = Umfjöllunarefni
 newtab-section-manage-topics-button-v2 =
     .label = Sýsla með umfjöllunarefni
 newtab-section-mangage-topics-followed-topics = Fylgst með
-newtab-section-mangage-topics-button =
-    .label = Efni sem fylgst er með og lokað á
-newtab-section-mangage-topics-followed-topics-subtitle = Efni sem fylgst er með
 newtab-section-mangage-topics-followed-topics-empty-state = Þú hefur ekki fylgst með neinu umfjöllunarefni ennþá.
 newtab-section-mangage-topics-blocked-topics = Lokað á
-newtab-section-mangage-topics-blocked-topics-subtitle = Umfjöllunarefni sem lokað er á
 newtab-section-mangage-topics-blocked-topics-empty-state = Þú hefur ekki lokað á neitt umfjöllunarefni ennþá.

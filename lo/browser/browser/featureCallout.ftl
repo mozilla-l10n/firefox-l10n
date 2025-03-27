@@ -54,12 +54,6 @@ fx-view-discoverability-secondary-button-label = ປິດ
 ## Split Dismiss Button Labels
 
 # Blocks the message from showing again
-split-dismiss-button-dont-show-option-label = ຢ່າສະແດງຄຳແນະນຳນີ້ອີກ
-# Dismisses message and reduces frequency of message
-split-dismiss-button-show-fewer-option-label = ສະແດງຄຳແນະນຳໜ້ອຍລົງ
-# Opens about:preferences#general-cfrfeatures
-split-dismiss-button-manage-settings-option-label = ຈັດການການຕັ້ງຄ່າ
-# Blocks the message from showing again
 split-dismiss-button-dont-show-option =
     .label = ຢ່າສະແດງຄຳແນະນຳນີ້ອີກ
 # Dismisses message and reduces frequency of message
@@ -140,6 +134,6 @@ actions-callout-title = ເຮັດສຳເລັດໜ້າວຽກທົ�
 # These example text inputs correlate to the the following strings
 # (either matching the whole string, or the first word of the string).
 # "print" - quickactions-cmd-print
-# "clear" - quickactions-cmd-clearhistory
+# "clear" - quickactions-cmd-clearrecenthistory
 # When localizing, ensure the translations match to ensure the action button appears as expected.
 actions-callout-subtitle = ລອງພິມຄຳສັ່ງໃດໜຶ່ງ ເຊັ່ນ: “ພິມ” ເພື່ອພິມໜ້າໃດໜຶ່ງ, ຫຼື “ລຶບ” ເພື່ອລຶບປະຫວັດຂອງທ່ານ.

@@ -22,7 +22,8 @@ safeb-palm-see-details-label = Pokaži podrobnosti
 safeb-blocked-phishing-page-error-desc-override = Stran <span data-l10n-name='sitename'>{ $sitename }</span> je bila <a data-l10n-name='error_desc_link'>prijavljena kot zavajajoča</a>. Lahko <a data-l10n-name='report_detection'>nam sporočite napačno prijavo</a> ali <a data-l10n-name='ignore_warning_link'>prezrete tveganje</a> in obiščete to nevarno stran.
 safeb-blocked-phishing-page-error-desc-no-override = Stran <span data-l10n-name='sitename'>{ $sitename }</span> je bila <a data-l10n-name='error_desc_link'>prijavljena kot zavajajoča</a>. Lahko <a data-l10n-name='report_detection'>nam sporočite napačno prijavo</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-phishing-page-learn-more = Na <a data-l10n-name='learn_more_link'>www.antiphishing.org</a> lahko izveste več o ribarjenju in zavajajočih straneh. Več o { -brand-short-name }ovi zaščiti pred ribarjenjem in zlonamerno programsko opremo lahko izveste na <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
@@ -32,7 +33,8 @@ safeb-blocked-phishing-page-learn-more = Na <a data-l10n-name='learn_more_link'>
 safeb-blocked-malware-page-error-desc-override-sumo = Stran <span data-l10n-name='sitename'>{ $sitename }</span> je bila <a data-l10n-name='error_desc_link'>prijavljena, da vsebuje zlonamerno programsko opremo</a>. Lahko <a data-l10n-name='ignore_warning_link'>prezrete tveganje</a> in obiščete to nevarno stran.
 safeb-blocked-malware-page-error-desc-no-override-sumo = Stran <span data-l10n-name='sitename'>{ $sitename }</span> je bila <a data-l10n-name='error_desc_link'>prijavljena, da vsebuje zlonamerno programsko opremo</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-malware-page-learn-more-sumo = Več o { -brand-short-name }ovi zaščiti pred ribarjenjem in zlonamerno programsko opremo lahko izveste na <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
@@ -42,7 +44,8 @@ safeb-blocked-malware-page-learn-more-sumo = Več o { -brand-short-name }ovi za�
 safeb-blocked-unwanted-page-error-desc-override = Stran <span data-l10n-name='sitename'>{ $sitename }</span> je bila <a data-l10n-name='error_desc_link'>prijavljena, da vsebuje škodljivo programsko opremo</a>. Lahko <a data-l10n-name='ignore_warning_link'>prezrete tveganje</a> in obiščete to nevarno stran.
 safeb-blocked-unwanted-page-error-desc-no-override = Stran <span data-l10n-name='sitename'>{ $sitename }</span> je bila <a data-l10n-name='error_desc_link'>prijavljena, da vsebuje škodljivo programsko opremo</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-unwanted-page-learn-more = V <a data-l10n-name='learn_more_link'>pravilniku o neželeni programski opremi</a> lahko izveste več o škodljivi in neželeni programski opremi. Več o { -brand-short-name }ovi zaščiti pred ribarjenjem in zlonamerno programsko opremo lahko izveste na <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
@@ -52,7 +55,8 @@ safeb-blocked-unwanted-page-learn-more = V <a data-l10n-name='learn_more_link'>p
 safeb-blocked-harmful-page-error-desc-override = Stran <span data-l10n-name='sitename'>{ $sitename }</span> je bila <a data-l10n-name='error_desc_link'>prijavljena, da vsebuje morebitno škodljivo aplikacijo</a>. Lahko <a data-l10n-name='ignore_warning_link'>prezrete tveganje</a> in obiščete to nevarno stran.
 safeb-blocked-harmful-page-error-desc-no-override = Stran <span data-l10n-name='sitename'>{ $sitename }</span> je bila <a data-l10n-name='error_desc_link'>prijavljena, da vsebuje morebitno škodljivo aplikacijo</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-harmful-page-learn-more = Več o { -brand-short-name }ovi zaščiti pred ribarjenjem in zlonamerno programsko opremo lahko izveste na <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 safeb-palm-notdeceptive =

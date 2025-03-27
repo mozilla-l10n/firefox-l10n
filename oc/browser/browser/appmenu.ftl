@@ -282,7 +282,6 @@ appmenu-services-header = Mos servicis
 
 ## Profiles panel
 
-appmenu-profiles = Perfils
 appmenu-other-profiles = Autres perfils
 appmenu-manage-profiles =
     .label = Gestion dels perfils

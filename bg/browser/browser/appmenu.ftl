@@ -285,7 +285,6 @@ appmenuitem-vpn-description = Защита на действията ви онл
 
 ## Profiles panel
 
-appmenu-profiles = Профили
 appmenu-other-profiles = Други профили
 appmenu-manage-profiles =
     .label = Управление на профили

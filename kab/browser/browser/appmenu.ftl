@@ -283,7 +283,6 @@ appmenuitem-vpn-description = Mmesten armud-ik srid
 
 ## Profiles panel
 
-appmenu-profiles = Imeɣna
 appmenu-other-profiles = Imaɣunen niḍen
 appmenu-manage-profiles =
     .label = Sefrek imaɣunen

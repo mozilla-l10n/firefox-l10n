@@ -22,7 +22,8 @@ safeb-palm-see-details-label = Sīkāka informācija
 safeb-blocked-phishing-page-error-desc-override = Par lapu <span data-l10n-name='sitename'>{ $sitename }</span> ir saņemti <a data-l10n-name='error_desc_link'>ziņojumi, ka tā ir maldinoša krāpnieku lapa</a>. Jūs varat <a data-l10n-name='report_detection'>ziņot par kļūdu</a> vai <a data-l10n-name='ignore_warning_link'>ignorēt šo brīdinājumu</a> un iet uz nedrošo lapu.
 safeb-blocked-phishing-page-error-desc-no-override = Par lapu <span data-l10n-name='sitename'>{ $sitename }</span> ir saņenti ziņojumi <a data-l10n-name='error_desc_link'>ka tā ir maldinoša krāpnieku lapa</a>. Jūs varat <a data-l10n-name='report_detection'>ziņot par kļūdu</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-phishing-page-learn-more = Uzziniet vairāk par maldinošām krāpnieku lapām <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Uzziniet vairāk par { -brand-short-name } krāpnieku aizsardzību <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
@@ -32,7 +33,8 @@ safeb-blocked-phishing-page-learn-more = Uzziniet vairāk par maldinošām krāp
 safeb-blocked-malware-page-error-desc-override-sumo = Par lapu <span data-l10n-name='sitename'>{ $sitename }</span> ir saņemti <a data-l10n-name='error_desc_link'>ziņojumi, ka tajā ir ļaunatūra</a>. Jūs varat <a data-l10n-name='ignore_warning_link'>ignorēt šo brīdinājumu</a> un iet uz nedrošo lapu.
 safeb-blocked-malware-page-error-desc-no-override-sumo = Par lapu <span data-l10n-name='sitename'>{ $sitename }</span> ir saņemti <a data-l10n-name='error_desc_link'>ziņojumi, ka tajā ir ļaunatūra</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-malware-page-learn-more-sumo = Uzziniet vairāk par { -brand-short-name } bīstamās programmatūras aizsardzību <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
@@ -42,7 +44,8 @@ safeb-blocked-malware-page-learn-more-sumo = Uzziniet vairāk par { -brand-short
 safeb-blocked-unwanted-page-error-desc-override = Par lapu <span data-l10n-name='sitename'>{ $sitename }</span> ir saņemti <a data-l10n-name='error_desc_link'>ziņojumi, ka tajā ir kaitīga programmatūra</a>. Jūs varat <a data-l10n-name='ignore_warning_link'>ignorēt šo brīdinājumu</a> un iet uz nedrošo lapu.
 safeb-blocked-unwanted-page-error-desc-no-override = Par lapu <span data-l10n-name='sitename'>{ $sitename }</span> ir saņemti <a data-l10n-name='error_desc_link'>ziņojumi, ka tajā ir kaitīga programmatūra</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-unwanted-page-learn-more = Uzziniet vairāk par kaitīgas un nevēlamas programmatūras <a data-l10n-name='learn_more_link'>aizsardzību</a>. { -brand-short-name } aizsardzību no kaitnieciskās programmatūras <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
@@ -52,7 +55,8 @@ safeb-blocked-unwanted-page-learn-more = Uzziniet vairāk par kaitīgas un nevē
 safeb-blocked-harmful-page-error-desc-override = Par lapu <span data-l10n-name='sitename'>{ $sitename }</span> ir saņemti <a data-l10n-name='error_desc_link'>ziņojumi, ka tajā ir kaitīga programmatūra</a>. Jūs varat <a data-l10n-name='ignore_warning_link'>ignorēt šo brīdinājumu</a> un iet uz nedrošo lapu.
 safeb-blocked-harmful-page-error-desc-no-override = Par lapu <span data-l10n-name='sitename'>{ $sitename }</span> ir saņemti <a data-l10n-name='error_desc_link'>ziņojumi, ka tajā ir kaitīga programmatūra</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-harmful-page-learn-more = Uzziniet vairāk par { -brand-short-name } bīstamās programmatūras aizsardzību <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 safeb-palm-notdeceptive =

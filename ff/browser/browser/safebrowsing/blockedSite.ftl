@@ -22,7 +22,8 @@ safeb-palm-see-details-label = Yiy silloor
 safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> wonii <a data-l10n-name='error_desc_link'>jaŋtaaɗo hono lowre fuuntoore </a>. Aɗa waawi <a data-l10n-name='report_detection'>jaŋtaade caɗeele jiytugol </a> walla <a data-l10n-name='ignore_warning_link'>faalkiso kulol ngol </a> e yetto ndee lowre nde hisaani.
 safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> wonii <a data-l10n-name='error_desc_link'>jaŋtaaɗo hono lowre fuuntoore </a>. Aɗa waawi <a data-l10n-name='report_detection'>jaŋtaade caɗeele jiytugol </a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-phishing-page-learn-more = Ɓeydu humpito baɗte lowe puuntooje e ko bonnata ɗo <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Ɓeydu humpito baɗte { -brand-short-name } jogaade Mbonnanteere e Ndeenka Mbonnanteeri ɗo <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
@@ -30,7 +31,8 @@ safeb-blocked-phishing-page-learn-more = Ɓeydu humpito baɗte lowe puuntooje e 
 ##  $sitename (string) - Domain name for the blocked page
 
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 
 ## Variables
@@ -39,7 +41,8 @@ safeb-blocked-phishing-page-learn-more = Ɓeydu humpito baɗte lowe puuntooje e 
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> wonii <a data-l10n-name='error_desc_link'>jaŋtaaɗo hono baɗɗo topirɗe bonɗe </a>. Aɗa waawi <a data-l10n-name='ignore_warning_link'>faalkisaade ko hulaa koo </a> e yetto ndee lowre nde hisaani.
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> woni <a data-l10n-name='error_desc_link'>jaŋtaaɗo hono baɗɗo topirde bonnde </a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-unwanted-page-learn-more = Ɓeydu humpito baɗte topirɗe bonɗe añaaɗe ɗo <a data-l10n-name='learn_more_link'>Dawrugol Topirɗe Añaaɗe </a>. Ɓeydu humpito baɗte { -brand-short-name } jogaade mbonnanteeri e Ndeenka Mbonnanteeri ɗo <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
@@ -49,7 +52,8 @@ safeb-blocked-unwanted-page-learn-more = Ɓeydu humpito baɗte topirɗe bonɗe a
 safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> wonii <a data-l10n-name='error_desc_link'>jaŋtaaɗo hono baɗɗo jaaɓnirgal baawbgal bonnude </a>. Aɗa waawi <a data-l10n-name='ignore_warning_link'>faalkisaade kulol ngol </a> e yetto ndee lowre nde hisaani.
 safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> wonii <a data-l10n-name='error_desc_link'>jaŋtaaɗo hono baɗɗo jaaɓnirgal baawngal bonnude </a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-harmful-page-learn-more = Ɓeydu humpito baɗte { -brand-short-name } jogaade Mbonnanteeri e Ndeenka Mbonnanteeri ɗo <a data-l10n-name='firefox_support'>support.mozilla.org </a>.
 safeb-palm-notdeceptive =

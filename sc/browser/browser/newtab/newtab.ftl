@@ -476,9 +476,6 @@ newtab-section-unblock-button = Isbloca
 
 ## Confirmation modal for blocking a section
 
-newtab-section-confirm-block-section-p1 = Seguru chi boles blocare custa setzione?
-newtab-section-confirm-block-section-p2 = Sa setzione blocada no at apàrrere prus in sa lìnia de tempus tua.
-newtab-section-block-section-button = Bloca custa setzione
 newtab-section-cancel-button = Immoe nono
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
@@ -490,10 +487,6 @@ newtab-section-mangage-topics-title = Argumentos
 newtab-section-manage-topics-button-v2 =
     .label = Gesti is argumentos
 newtab-section-mangage-topics-followed-topics = Sighidu
-newtab-section-mangage-topics-button =
-    .label = Argumentos sighidos e blocados
-newtab-section-mangage-topics-followed-topics-subtitle = Argumentos sighidos
 newtab-section-mangage-topics-followed-topics-empty-state = Non ses ancora sighende nissunu argumentu
 newtab-section-mangage-topics-blocked-topics = Blocadu
-newtab-section-mangage-topics-blocked-topics-subtitle = Argumentu blocadu
 newtab-section-mangage-topics-blocked-topics-empty-state = No as ancora blocadu nissunu argumentu

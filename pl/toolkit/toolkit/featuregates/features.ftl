@@ -56,4 +56,3 @@ experimental-features-group-webpage-display =
     .label = Wyświetlanie stron internetowych
 experimental-features-group-customize-browsing =
     .label = Dostosowanie przeglądania
-experimental-features-group-customize-browsing-description = Jeśli wypróbujesz te funkcje, <a data-l10n-name="connect">podziel się swoją opinią w serwisie Connect</a>

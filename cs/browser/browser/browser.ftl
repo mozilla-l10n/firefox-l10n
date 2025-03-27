@@ -812,7 +812,6 @@ urlbar-searchmode-exit-button =
 urlbar-searchmode-popup-description = Vyhledat pomocí:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Nastavení vyhledávání
-urlbar-searchmode-popup-search-settings = Nastavení vyhledávání
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

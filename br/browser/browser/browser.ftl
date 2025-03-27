@@ -726,7 +726,6 @@ urlbar-searchmode-exit-button =
 urlbar-searchmode-popup-description = Ar wech-mañ, klask gant:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Arventennoù enklask
-urlbar-searchmode-popup-search-settings = Arventennoù enklask
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

@@ -52,12 +52,12 @@ mr1-onboarding-sign-in-button-label = Пријави ме
 mr1-onboarding-import-primary-button-label-attribution = Увези из прегледача { $previous }
 mr1-onboarding-theme-header = Персонализација
 mr1-onboarding-theme-subtitle =
-    Персонализујте { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "acc") }
-        [feminine] { -brand-short-name(case: "acc") }
-        [neuter] { -brand-short-name(case: "acc") }
-       *[other] програм { -brand-short-name }
-    } помоћу теме.
+    { -brand-short-name.gender ->
+        [masculine] Персонализујте { -brand-short-name(case: "acc") } помоћу теме.
+        [feminine] Персонализујте { -brand-short-name(case: "acc") } помоћу теме.
+        [neuter] Персонализујте { -brand-short-name(case: "acc") } помоћу теме.
+       *[other] Персонализујте програм { -brand-short-name } помоћу теме.
+    }
 mr1-onboarding-theme-secondary-button-label = Не сада
 newtab-wallpaper-onboarding-title = Пробајте нове боје
 newtab-wallpaper-onboarding-subtitle = Одаберите позадину за свеж изглед ваше нове картице.

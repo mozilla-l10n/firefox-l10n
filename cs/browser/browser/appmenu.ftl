@@ -328,7 +328,6 @@ appmenu-other-protection-header =
 
 ## Profiles panel
 
-appmenu-profiles = Profily
 appmenu-other-profiles = Další profily
 appmenu-manage-profiles =
     .label = Správa profilů

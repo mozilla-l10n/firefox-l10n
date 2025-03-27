@@ -447,7 +447,6 @@ tab-groups-onboarding-create-group-no-alltabs-button-title = Ejuhu nde atykuéra
 tab-groups-onboarding-saved-groups-title-2 = Emboty vove tendayke aty, embojurujakuaa jey ko’ápe ejapose vove.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Ejuhu nde atykuéra oñembotýva ehekávo ñeikundaha rupápe.
 tab-groups-onboarding-session-restore-title = Embojuruja jey ne rendayke aty ápe ejapose vove.
-tab-groups-onboarding-saved-groups-title = Embotýramo tendayke aty, embojurujakuaa jey ko’ápe ejapose vove.
 tab-groups-onboarding-dismiss = MONEĨ
 
 ## Multi Profiles feature onboarding messages

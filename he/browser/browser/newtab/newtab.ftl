@@ -502,9 +502,6 @@ newtab-section-unblock-button = הסרת חסימה
 
 ## Confirmation modal for blocking a section
 
-newtab-section-confirm-block-section-p1 = האם ברצונך לחסום מקטע זה?
-newtab-section-confirm-block-section-p2 = המקטע החסום לא יופיע יותר בפיד שלך.
-newtab-section-block-section-button = חסימת מקטע זה
 newtab-section-cancel-button = לא כעת
 newtab-section-confirm-block-topic-p1 = האם ברצונך לחסום נושא זה?
 newtab-section-confirm-block-topic-p2 = נושאים חסומים לא יופיעו יותר בפיד שלך.
@@ -518,10 +515,6 @@ newtab-section-mangage-topics-title = נושאים
 newtab-section-manage-topics-button-v2 =
     .label = ניהול נושאים
 newtab-section-mangage-topics-followed-topics = במעקב
-newtab-section-mangage-topics-button =
-    .label = נושאים במעקב וחסומים
-newtab-section-mangage-topics-followed-topics-subtitle = נושאים במעקב
 newtab-section-mangage-topics-followed-topics-empty-state = עדיין לא עקבת אחר אף נושא.
 newtab-section-mangage-topics-blocked-topics = חסום
-newtab-section-mangage-topics-blocked-topics-subtitle = נושאים חסומים
 newtab-section-mangage-topics-blocked-topics-empty-state = עדיין לא חסמת אף נושא.

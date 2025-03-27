@@ -54,12 +54,6 @@ fx-view-discoverability-secondary-button-label = Sluiten
 ## Split Dismiss Button Labels
 
 # Blocks the message from showing again
-split-dismiss-button-dont-show-option-label = Deze aanbeveling niet meer tonen
-# Dismisses message and reduces frequency of message
-split-dismiss-button-show-fewer-option-label = Minder aanbevelingen tonen
-# Opens about:preferences#general-cfrfeatures
-split-dismiss-button-manage-settings-option-label = Instellingen beheren
-# Blocks the message from showing again
 split-dismiss-button-dont-show-option =
     .label = Deze aanbeveling niet meer tonen
 # Dismisses message and reduces frequency of message
@@ -141,6 +135,6 @@ actions-callout-title = Algemene taken uitvoeren of basisinstellingen benaderen
 # These example text inputs correlate to the the following strings
 # (either matching the whole string, or the first word of the string).
 # "print" - quickactions-cmd-print
-# "clear" - quickactions-cmd-clearhistory
+# "clear" - quickactions-cmd-clearrecenthistory
 # When localizing, ensure the translations match to ensure the action button appears as expected.
 actions-callout-subtitle = Typ een actie zoals ‘afdrukken’ om een pagina af te drukken, of ‘wissen’ om uw geschiedenis te wissen.

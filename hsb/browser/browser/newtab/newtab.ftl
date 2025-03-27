@@ -510,9 +510,6 @@ newtab-section-unblock-button = Hižo njeblokować
 
 ## Confirmation modal for blocking a section
 
-newtab-section-confirm-block-section-p1 = Chceće woprawdźe tutón wotrězk blokować?
-newtab-section-confirm-block-section-p2 = Zablokowany wotrězk so hižo we wašim kanalu njejewi.
-newtab-section-block-section-button = Tutón wotrězk blokować
 newtab-section-cancel-button = Nic nětko
 newtab-section-confirm-block-topic-p1 = Chceće woprawdźe tutu temu blokować?
 newtab-section-confirm-block-topic-p2 = Zablokowane temy so hižo we wašim kanalu njejewja.
@@ -526,10 +523,6 @@ newtab-section-mangage-topics-title = Temy
 newtab-section-manage-topics-button-v2 =
     .label = Temy rjadować
 newtab-section-mangage-topics-followed-topics = Slědowany
-newtab-section-mangage-topics-button =
-    .label = Slědowane a zablokowane temy
-newtab-section-mangage-topics-followed-topics-subtitle = Slědowane temy
 newtab-section-mangage-topics-followed-topics-empty-state = Hišće žanym temam njeslědujeće.
 newtab-section-mangage-topics-blocked-topics = Zablokowany
-newtab-section-mangage-topics-blocked-topics-subtitle = Zablokowane temy
 newtab-section-mangage-topics-blocked-topics-empty-state = Hišće njejsće žane temy zablokował.

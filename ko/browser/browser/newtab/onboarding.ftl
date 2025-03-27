@@ -450,7 +450,6 @@ tab-groups-onboarding-create-group-no-alltabs-button-title = 주소 표시줄에
 tab-groups-onboarding-saved-groups-title-2 = 탭 그룹을 닫으면, 언제든지 여기서 다시 열 수 있습니다.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = 주소 표시줄에서 검색하여 닫힌 그룹을 찾으세요.
 tab-groups-onboarding-session-restore-title = 언제든지 여기에서 탭 그룹을 다시 열 수 있습니다.
-tab-groups-onboarding-saved-groups-title = 탭 그룹을 닫으면, 여기에서 언제든지 다시 열 수 있습니다.
 tab-groups-onboarding-dismiss = 확인
 
 ## Multi Profiles feature onboarding messages

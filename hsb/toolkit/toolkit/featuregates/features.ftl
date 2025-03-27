@@ -56,4 +56,3 @@ experimental-features-group-webpage-display =
     .label = Pokazanje webstrony
 experimental-features-group-customize-browsing =
     .label = Přiměrće swoje přehladowanje
-experimental-features-group-customize-browsing-description = Jeli tute funkcije testujeće, <a data-l10n-name="connect">dźělće swoje mysle na Connect</a>

@@ -54,12 +54,6 @@ fx-view-discoverability-secondary-button-label = Mboyke
 ## Split Dismiss Button Labels
 
 # Blocks the message from showing again
-split-dismiss-button-dont-show-option-label = Anive ehechauka ko ñemoñe’ẽ
-# Dismisses message and reduces frequency of message
-split-dismiss-button-show-fewer-option-label = Ehechauka’ive ñemoñe’ẽ
-# Opens about:preferences#general-cfrfeatures
-split-dismiss-button-manage-settings-option-label = Eñangareko ñemoĩporãre
-# Blocks the message from showing again
 split-dismiss-button-dont-show-option =
     .label = Anive ehechauka ko ñemoñe’ẽ
 # Dismisses message and reduces frequency of message
@@ -135,6 +129,6 @@ actions-callout-title = Ejapopa tembiapokuéra térã eike ñemboheko ñepyrũgu
 # These example text inputs correlate to the the following strings
 # (either matching the whole string, or the first word of the string).
 # "print" - quickactions-cmd-print
-# "clear" - quickactions-cmd-clearhistory
+# "clear" - quickactions-cmd-clearrecenthistory
 # When localizing, ensure the translations match to ensure the action button appears as expected.
 actions-callout-subtitle = Ehai mba’e ikatúva “monguatia” emonguatia hag̃ua kuatiarogue térã “mbogue” embogue hag̃ua tembiasakue.

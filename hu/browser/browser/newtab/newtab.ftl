@@ -508,9 +508,6 @@ newtab-section-unblock-button = Blokkolás feloldása
 
 ## Confirmation modal for blocking a section
 
-newtab-section-confirm-block-section-p1 = Biztos, hogy blokkolja ezt a szakaszt?
-newtab-section-confirm-block-section-p2 = A blokkolt szakasz nem fog megjelenni a hírfolyamában.
-newtab-section-block-section-button = Szakasz blokkolása
 newtab-section-cancel-button = Most nem
 newtab-section-confirm-block-topic-p1 = Biztos, hogy blokkolja ezt a témát?
 newtab-section-confirm-block-topic-p2 = A blokkolt témák többé nem fognak megjelenni a hírfolyamában.
@@ -524,10 +521,6 @@ newtab-section-mangage-topics-title = Témák
 newtab-section-manage-topics-button-v2 =
     .label = Témák kezelése
 newtab-section-mangage-topics-followed-topics = Követve
-newtab-section-mangage-topics-button =
-    .label = Követett és blokkolt témák
-newtab-section-mangage-topics-followed-topics-subtitle = Követett témák
 newtab-section-mangage-topics-followed-topics-empty-state = Még nem követ egyetlen témát sem.
 newtab-section-mangage-topics-blocked-topics = Blokkolva
-newtab-section-mangage-topics-blocked-topics-subtitle = Blokkolt témák
 newtab-section-mangage-topics-blocked-topics-empty-state = Még nem blokkol egyetlen témát sem.

@@ -56,4 +56,3 @@ experimental-features-group-webpage-display =
     .label = Verkkosivun näyttö
 experimental-features-group-customize-browsing =
     .label = Mukauta selaamistasi
-experimental-features-group-customize-browsing-description = Jos kokeilet näitä ominaisuuksia, <a data-l10n-name="connect">jaa ajatuksesi Connectissa</a>

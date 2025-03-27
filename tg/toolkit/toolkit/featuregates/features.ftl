@@ -56,4 +56,3 @@ experimental-features-group-webpage-display =
     .label = Намоиши саҳифаи сомона
 experimental-features-group-customize-browsing =
     .label = Тарзи истифодаи браузери худро шахсӣ созед
-experimental-features-group-customize-browsing-description = Агар шумо аз ин хусусиятҳо кӯшиш карда, истифода баред, <a data-l10n-name="connect">назари худро дар «Connect» изҳор намоед</a>

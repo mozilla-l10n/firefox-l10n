@@ -507,9 +507,6 @@ newtab-section-unblock-button = Mbojera
 
 ## Confirmation modal for blocking a section
 
-newtab-section-confirm-block-section-p1 = ¿Ejokose añetehápepa ko tenda’i?
-newtab-section-confirm-block-section-p2 = Umi vore jokopyre nosẽmo’ãvéima canal-kuérape.
-newtab-section-block-section-button = Ejoko ko tenda’i
 newtab-section-cancel-button = Ani ko’ág̃a
 newtab-section-confirm-block-topic-p1 = ¿Ejokose añetehápe ko téma?
 newtab-section-confirm-block-topic-p2 = Umi téma jokopyre nosẽmo’ãvéima canal-kuérape.
@@ -523,10 +520,6 @@ newtab-section-mangage-topics-title = Téma
 newtab-section-manage-topics-button-v2 =
     .label = Eñangareko témare
 newtab-section-mangage-topics-followed-topics = Tapykueho
-newtab-section-mangage-topics-button =
-    .label = Téma jehapykueho ha jokopyre
-newtab-section-mangage-topics-followed-topics-subtitle = Téma jehapykuehopyre
 newtab-section-mangage-topics-followed-topics-empty-state = Ndohapykuehói gueteri téma.
 newtab-section-mangage-topics-blocked-topics = Bloqueado
-newtab-section-mangage-topics-blocked-topics-subtitle = Téma jokopyre
 newtab-section-mangage-topics-blocked-topics-empty-state = Ndojokói gueteri mba’evéichagua téma.

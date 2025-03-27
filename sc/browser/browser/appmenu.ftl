@@ -288,7 +288,6 @@ appmenu-other-protection-header = Proa àteras ainas de amparu dae { -vendor-sho
 
 ## Profiles panel
 
-appmenu-profiles = Profilos
 appmenu-other-profiles = Àteros profilos
 appmenu-manage-profiles =
     .label = Gesti is profilos

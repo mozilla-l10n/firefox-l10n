@@ -451,7 +451,6 @@ tab-groups-onboarding-create-group-no-alltabs-button-title = Pytajśo za swójim
 tab-groups-onboarding-saved-groups-title-2 = Gaž kupku rejtarikow zacynjaśo, móžośo ju how kuždy cas zasej wócyniś.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Pytajśo za swójimi zacynjonymi kupkami, aby je w adresowem pólu namakał.
 tab-groups-onboarding-session-restore-title = Wócyńśo zasej swóje kupki rejtarikow how kuždy cas.
-tab-groups-onboarding-saved-groups-title = Jolic kupku rejtarikow zacynjaśo, móžośo ju how kuždy cas zasej wócyniś.
 tab-groups-onboarding-dismiss = W pórěźe
 
 ## Multi Profiles feature onboarding messages

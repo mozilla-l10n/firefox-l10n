@@ -288,7 +288,6 @@ appmenu-other-protection-header = Rhowch gynnig ar offer diogelu eraill gan { -v
 
 ## Profiles panel
 
-appmenu-profiles = Proffiliau
 appmenu-other-profiles = Proffiliau eraill
 appmenu-manage-profiles =
     .label = Rheoli proffiliau

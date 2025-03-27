@@ -288,7 +288,6 @@ appmenu-other-protection-header = Prófa önnur verndunarverkfæri frá { -vendo
 
 ## Profiles panel
 
-appmenu-profiles = Notkunarsnið
 appmenu-other-profiles = Önnur notkunarsnið
 appmenu-manage-profiles =
     .label = Sýsla með notkunarsnið

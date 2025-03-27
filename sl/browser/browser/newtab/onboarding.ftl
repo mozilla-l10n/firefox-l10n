@@ -450,7 +450,6 @@ tab-groups-onboarding-create-group-no-alltabs-button-title = Svoje skupine zavih
 tab-groups-onboarding-saved-groups-title-2 = Skupine zavihkov, ki ste jih zaprli, lahko tukaj kadarkoli znova odprete.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Zaprte skupine lahko najdete z iskanjem v naslovni vrstici.
 tab-groups-onboarding-session-restore-title = Tukaj lahko ponovno odprete skupine zavihkov.
-tab-groups-onboarding-saved-groups-title = Skupine zavihkov, ki ste jih zaprli, lahko tukaj kadarkoli znova odprete.
 tab-groups-onboarding-dismiss = V redu
 
 ## Multi Profiles feature onboarding messages

@@ -56,4 +56,3 @@ experimental-features-group-webpage-display =
     .label = Веб-парақтың көрсетілімі
 experimental-features-group-customize-browsing =
     .label = Шолуыңызды баптаңыз
-experimental-features-group-customize-browsing-description = Осы мүмкіндіктерді қолданып көрсеңіз, <a data-l10n-name="connect"> олар туралы Connect ішінде өз ойыңызбен бөлісіңіз</a>

@@ -508,9 +508,6 @@ newtab-section-unblock-button = Debloccar
 
 ## Confirmation modal for blocking a section
 
-newtab-section-confirm-block-section-p1 = Vuls ti propi bloccar questa secziun?
-newtab-section-confirm-block-section-p2 = La secziun bloccada na vegn pli a cumparair en tes feed.
-newtab-section-block-section-button = Bloccar questa secziun
 newtab-section-cancel-button = Betg ussa
 newtab-section-confirm-block-topic-p1 = Vuls ti propi bloccar quest tema?
 newtab-section-confirm-block-topic-p2 = Temas bloccads na vegnan betg pli a cumparair en tes feed.
@@ -524,10 +521,6 @@ newtab-section-mangage-topics-title = Temas
 newtab-section-manage-topics-button-v2 =
     .label = Administrar ils temas
 newtab-section-mangage-topics-followed-topics = Suandà
-newtab-section-mangage-topics-button =
-    .label = Temas suandads e bloccads
-newtab-section-mangage-topics-followed-topics-subtitle = Temas suandads
 newtab-section-mangage-topics-followed-topics-empty-state = Ti na suondas anc nagins temas.
 newtab-section-mangage-topics-blocked-topics = Bloccà
-newtab-section-mangage-topics-blocked-topics-subtitle = Temas bloccads
 newtab-section-mangage-topics-blocked-topics-empty-state = Ti n’has anc bloccà nagins temas.

@@ -56,4 +56,3 @@ experimental-features-group-webpage-display =
     .label = Weboldal megjelenítése
 experimental-features-group-customize-browsing =
     .label = Szabja testre a böngészést
-experimental-features-group-customize-browsing-description = Ha kipróbálja ezeket a funkciókat, <a data-l10n-name="connect">ossza meg gondolatait a Connecten</a>

@@ -22,7 +22,8 @@ safeb-palm-see-details-label = विवरण हेर्नुहोस्
 safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> लाई <a data-l10n-name='error_desc_link'>भ्रामक साइट भएको रिपोर्ट गरिएको छ </a>। तपाईँले <a data-l10n-name='report_detection'> पहिचान गरिएको समस्या को रुपमा प्रतिवेदन बुझाउन सक्नुहुन्छ</a> वा <a data-l10n-name='ignore_warning_link'>जोखिम लाई बेवास्ता गरेर</a> त्यो असुरक्षित साइटमा जानसक्नुहुन्छ ।
 safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> लाई <a data-l10n-name='error_desc_link'>भ्रामक साइट भएको रिपोर्ट गरिएको छ </a>। तपाईँले <a data-l10n-name='report_detection'> पहिचान गरिएको समस्या को रुपमा प्रतिवेदन बुझाउन सक्नुहुन्छ</a> ।
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-phishing-page-learn-more = भ्रामक साइटहरू र फिसिङ्गको बारेमा थप जानकारी <a data-l10n-name='learn_more_link'>www.antiphishing.org</a> बाट जान्नु होस् । { -brand-short-name }को फिसिङ्ग र मालवेयर सुरक्षा सम्बन्धि थप जानकारी <a data-l10n-name='firefox_support'>support.mozilla.org</a> बाट जान्नुहोस् ।
 
@@ -30,7 +31,8 @@ safeb-blocked-phishing-page-learn-more = भ्रामक साइटहर�
 ##  $sitename (string) - Domain name for the blocked page
 
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 
 ## Variables
@@ -39,7 +41,8 @@ safeb-blocked-phishing-page-learn-more = भ्रामक साइटहर�
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> लाई <a data-l10n-name='error_desc_link'>दुर्भावनापूर्ण सफ्टवेयर भएको साइटको रुपमा रिपोर्ट गरिएको छ</a> । तपाईँले <a data-l10n-name='ignore_warning_link'>जोखिम लाई बेवास्ता गरेर</a> त्यो असुरक्षित साइटमा जानसक्नुहुन्छ ।
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> लाई <a data-l10n-name='error_desc_link'>दुर्भावनापूर्ण सफ्टवेयर भएको साइटको रुपमा रिपोर्ट गरिएको छ</a> ।
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-unwanted-page-learn-more = हानिकारक र अवाञ्छित सफ्टवेयरबारे थप जानकारी <a data-l10n-name='learn_more_link'>अवाञ्छित सफ्टवेयर नीति </a> बाट जान्नुहोस् । { -brand-short-name }को फिसिङ्ग र मालवेयर सुरक्षा सम्बन्धि थप जानकारी <a data-l10n-name='firefox_support'>support.mozilla.org</a> बाट जान्नुहोस् ।
 
@@ -49,7 +52,8 @@ safeb-blocked-unwanted-page-learn-more = हानिकारक र अवा�
 safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> लाई <a data-l10n-name='error_desc_link'>सम्भावित हानिकारक अनुप्रयोग भएको साइट को रुपमा रिपोर्ट गरिएको छ</a> । तपाईँले <a data-l10n-name='ignore_warning_link'>जोखिम लाई बेवास्ता गरेर</a> त्यो असुरक्षित साइटमा जानसक्नुहुन्छ ।
 safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> लाई <a data-l10n-name='error_desc_link'>सम्भावित हानिकारक अनुप्रयोग भएको साइट को रुपमा रिपोर्ट गरिएको छ</a> ।
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-harmful-page-learn-more = { -brand-short-name }को फिसिङ्ग र मालवेयर सुरक्षा सम्बन्धि थप जानकारी <a data-l10n-name='firefox_support'>support.mozilla.org</a> बाट जान्नुहोस् ।
 safeb-palm-notdeceptive =

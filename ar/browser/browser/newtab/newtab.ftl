@@ -395,7 +395,6 @@ newtab-section-unfollow-button = ألغِ المتابعة
 
 ## Confirmation modal for blocking a section
 
-newtab-section-block-section-button = احجب هذا القسم
 newtab-section-cancel-button = ليس الآن
 
 ## Panel in the Customize menu section to manage followed and blocked topics

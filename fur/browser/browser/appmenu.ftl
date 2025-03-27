@@ -288,7 +288,6 @@ appmenu-other-protection-header = Prove altris struments di protezion di { -vend
 
 ## Profiles panel
 
-appmenu-profiles = Profîi
 appmenu-other-profiles = Altris profîi
 appmenu-manage-profiles =
     .label = Gjestìs i profîi

@@ -54,12 +54,6 @@ fx-view-discoverability-secondary-button-label = Απόρριψη
 ## Split Dismiss Button Labels
 
 # Blocks the message from showing again
-split-dismiss-button-dont-show-option-label = Να μην εμφανιστεί ξανά αυτή η πρόταση
-# Dismisses message and reduces frequency of message
-split-dismiss-button-show-fewer-option-label = Εμφάνιση λιγότερων προτάσεων
-# Opens about:preferences#general-cfrfeatures
-split-dismiss-button-manage-settings-option-label = Διαχείριση ρυθμίσεων
-# Blocks the message from showing again
 split-dismiss-button-dont-show-option =
     .label = Να μην εμφανιστεί ξανά αυτή η πρόταση
 # Dismisses message and reduces frequency of message
@@ -141,6 +135,6 @@ actions-callout-title = Ολοκληρώστε κοινές εργασίες ή 
 # These example text inputs correlate to the the following strings
 # (either matching the whole string, or the first word of the string).
 # "print" - quickactions-cmd-print
-# "clear" - quickactions-cmd-clearhistory
+# "clear" - quickactions-cmd-clearrecenthistory
 # When localizing, ensure the translations match to ensure the action button appears as expected.
 actions-callout-subtitle = Δοκιμάστε να πληκτρολογήστε «εκτύπωση» για να εκτυπώσετε μια σελίδα ή «απαλοιφή» για να διαγράψετε το ιστορικό σας.

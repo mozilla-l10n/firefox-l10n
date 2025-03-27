@@ -506,9 +506,6 @@ newtab-section-unblock-button = เลิกปิดกั้น
 
 ## Confirmation modal for blocking a section
 
-newtab-section-confirm-block-section-p1 = คุณแน่ใจหรือไม่ว่าต้องการปิดกั้นส่วนนี้?
-newtab-section-confirm-block-section-p2 = ส่วนที่ถูกปิดกั้นจะไม่ปรากฏในฟีดของคุณอีกต่อไป
-newtab-section-block-section-button = ปิดกั้นส่วนนี้
 newtab-section-cancel-button = ยังไม่ทำตอนนี้
 newtab-section-confirm-block-topic-p1 = คุณแน่ใจหรือไม่ว่าต้องการปิดกั้นหัวข้อนี้?
 newtab-section-confirm-block-topic-p2 = หัวข้อที่ถูกปิดกั้นจะไม่ปรากฏในฟีดของคุณอีกต่อไป
@@ -522,10 +519,6 @@ newtab-section-mangage-topics-title = หัวข้อ
 newtab-section-manage-topics-button-v2 =
     .label = จัดการหัวข้อ
 newtab-section-mangage-topics-followed-topics = ติดตามอยู่
-newtab-section-mangage-topics-button =
-    .label = หัวข้อที่ติดตามและปิดกั้น
-newtab-section-mangage-topics-followed-topics-subtitle = หัวข้อที่ติดตาม
 newtab-section-mangage-topics-followed-topics-empty-state = คุณยังไม่ได้ติดตามหัวข้อใดๆ
 newtab-section-mangage-topics-blocked-topics = ปิดกั้นอยู่
-newtab-section-mangage-topics-blocked-topics-subtitle = หัวข้อที่ปิดกั้น
 newtab-section-mangage-topics-blocked-topics-empty-state = คุณยังไม่ได้ปิดกั้นหัวข้อใดๆ

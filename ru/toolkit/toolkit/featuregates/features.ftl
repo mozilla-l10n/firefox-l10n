@@ -56,4 +56,3 @@ experimental-features-group-webpage-display =
     .label = Отображение веб-страницы
 experimental-features-group-customize-browsing =
     .label = Настройте свой просмотр
-experimental-features-group-customize-browsing-description = Если вы попробуете эти возможности, <a data-l10n-name="connect">поделитесь своими мыслями на Connect</a>

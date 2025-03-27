@@ -56,4 +56,3 @@ experimental-features-group-webpage-display =
     .label = Dangos Tudalen We
 experimental-features-group-customize-browsing =
     .label = Cyfaddasu eich pori
-experimental-features-group-customize-browsing-description = Os rhowch gynnig ar y nodweddion hyn, <a data-l10n-name="connect">rhannwch eich barn ar Connect</a>

@@ -35,6 +35,9 @@ perftools-button-start-recording = रिकॉर्डिंग शुरू �
 perftools-button-cancel-recording = रिकॉर्डिंग रद्द करें
 perftools-button-save-settings = सेटिंग सहेजें और वापस जाएं
 
+## More actions menu
+
+
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
 perftools-thread-render-backend =

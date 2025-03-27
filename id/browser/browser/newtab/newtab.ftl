@@ -503,9 +503,6 @@ newtab-section-unblock-button = Buka blokir
 
 ## Confirmation modal for blocking a section
 
-newtab-section-confirm-block-section-p1 = Yakin ingin memblokir bagian ini?
-newtab-section-confirm-block-section-p2 = Bagian yang diblokir tidak akan muncul lagi di asupan Anda.
-newtab-section-block-section-button = Blokir bagian ini
 newtab-section-cancel-button = Jangan sekarang
 newtab-section-confirm-block-topic-p1 = Yakin ingin memblokir topik ini?
 newtab-section-confirm-block-topic-p2 = Topik yang diblokir tidak akan muncul lagi di asupan Anda.
@@ -519,10 +516,6 @@ newtab-section-mangage-topics-title = Topik
 newtab-section-manage-topics-button-v2 =
     .label = Kelola topik
 newtab-section-mangage-topics-followed-topics = Diikuti
-newtab-section-mangage-topics-button =
-    .label = Topik yang diikuti dan diblokir
-newtab-section-mangage-topics-followed-topics-subtitle = Topik yang Diikuti
 newtab-section-mangage-topics-followed-topics-empty-state = Anda belum mengikuti topik apa pun.
 newtab-section-mangage-topics-blocked-topics = Diblokir
-newtab-section-mangage-topics-blocked-topics-subtitle = Topik yang Diblokir
 newtab-section-mangage-topics-blocked-topics-empty-state = Anda belum memblokir topik apa pun.

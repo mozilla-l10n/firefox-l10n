@@ -288,7 +288,6 @@ appmenu-other-protection-header = Testu aliajn protektajn ilojn de { -vendor-sho
 
 ## Profiles panel
 
-appmenu-profiles = Profiloj
 appmenu-other-profiles = Aliaj profiloj
 appmenu-manage-profiles =
     .label = Administri profilojn

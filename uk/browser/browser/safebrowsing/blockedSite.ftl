@@ -22,7 +22,8 @@ safeb-palm-see-details-label = Показати деталі
 safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> відомий <a data-l10n-name='error_desc_link'>шахрайський сайт</a>. Ви можете <a data-l10n-name='report_detection'>повідомити про невідповідність цієї інформації</a>, або <a data-l10n-name='ignore_warning_link'>ігнорувати ризик</a> і перейти на цей небезпечний сайт.
 safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> відомий <a data-l10n-name='error_desc_link'>шахрайський сайт</a>. Ви можете <a data-l10n-name='report_detection'>повідомити про невідповідність цієї інформації </a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-phishing-page-learn-more = Дізнайтеся більше про шахрайські сайти та шахрайство на сайті <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Дізнайтеся більше про те, як працює захист від шахрайських та зловмисних програм в { -brand-short-name } на сайті <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
@@ -32,7 +33,8 @@ safeb-blocked-phishing-page-learn-more = Дізнайтеся більше пр�
 safeb-blocked-malware-page-error-desc-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> відомий <a data-l10n-name='error_desc_link'>як такий, що містить зловмисні програми</a>. Ви можете <a data-l10n-name='ignore_warning_link'>ігнорувати ризик</a> і перейти на цей небезпечний сайт.
 safeb-blocked-malware-page-error-desc-no-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> відомий <a data-l10n-name='error_desc_link'>як такий, що містить зловмисні програми</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-malware-page-learn-more-sumo = Дізнайтеся більше про те, як працює захист від шахрайства та зловмисного програмного забезпечення в { -brand-short-name } на сайті <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
@@ -42,7 +44,8 @@ safeb-blocked-malware-page-learn-more-sumo = Дізнайтеся більше �
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> відомий <a data-l10n-name='error_desc_link'>як такий, що містить зловмисні програми</a>. Ви можете <a data-l10n-name='ignore_warning_link'>ігнорувати ризик</a> і перейти на цей небезпечний сайт.
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> відомий <a data-l10n-name='error_desc_link'>як такий, що містить зловмисні програми</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-unwanted-page-learn-more = Дізнайтеся більше про небезпечне й небажане програмне забезпечення на сайті <a data-l10n-name='learn_more_link'>Правила щодо небажаного ПЗ</a>. Дізнайтеся більше про те, як працює захист від шахрайських та зловмисних програм в { -brand-short-name } на сайті <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
@@ -52,7 +55,8 @@ safeb-blocked-unwanted-page-learn-more = Дізнайтеся більше пр�
 safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> відомий <a data-l10n-name='error_desc_link'>як такий, що містить потенційно зловмисну програму</a>. Ви можете <a data-l10n-name='ignore_warning_link'>ігнорувати ризик</a> і перейти на цей небезпечний сайт.
 safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> відомий <a data-l10n-name='error_desc_link'>як такий, що містить потенційно зловмисну програму</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-harmful-page-learn-more = Дізнайтеся більше про те, як працює захист від шахрайства та зловмисного програмного забезпечення в { -brand-short-name } на сайті <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 safeb-palm-notdeceptive =

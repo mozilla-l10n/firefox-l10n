@@ -734,7 +734,6 @@ urlbar-searchmode-exit-button =
 urlbar-searchmode-popup-description = Ezúttal keressen a következővel:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Keresési beállítások
-urlbar-searchmode-popup-search-settings = Keresési beállítások
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

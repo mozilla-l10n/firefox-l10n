@@ -54,12 +54,6 @@ fx-view-discoverability-secondary-button-label = Cau
 ## Split Dismiss Button Labels
 
 # Blocks the message from showing again
-split-dismiss-button-dont-show-option-label = Peidio â dangos y neges hon eto
-# Dismisses message and reduces frequency of message
-split-dismiss-button-show-fewer-option-label = Dangos llai o argymhellion
-# Opens about:preferences#general-cfrfeatures
-split-dismiss-button-manage-settings-option-label = Rheoli gosodiadau
-# Blocks the message from showing again
 split-dismiss-button-dont-show-option =
     .label = Peidio â dangos y neges hon eto
 # Dismisses message and reduces frequency of message
@@ -141,6 +135,6 @@ actions-callout-title = Cwblhau tasgau cyffredin neu gael mynediad at osodiadau 
 # These example text inputs correlate to the the following strings
 # (either matching the whole string, or the first word of the string).
 # "print" - quickactions-cmd-print
-# "clear" - quickactions-cmd-clearhistory
+# "clear" - quickactions-cmd-clearrecenthistory
 # When localizing, ensure the translations match to ensure the action button appears as expected.
 actions-callout-subtitle = Ceisiwch deipio gweithred fel “argraffu” i argraffu tudalen neu “clirio” i glirio'ch hanes.

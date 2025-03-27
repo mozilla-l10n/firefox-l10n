@@ -51,6 +51,9 @@ perftools-button-restart = دوبارہ شروع کریں
 perftools-button-remove-directory = نبتخب شدہ ہٹائیں
 perftools-button-edit-settings = سیٹنگز میں تدوین کریں…
 
+## More actions menu
+
+
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
 

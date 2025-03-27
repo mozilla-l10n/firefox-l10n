@@ -509,9 +509,6 @@ newtab-section-unblock-button = Sbloche
 
 ## Confirmation modal for blocking a section
 
-newtab-section-confirm-block-section-p1 = Blocâ pardabon cheste sezion?
-newtab-section-confirm-block-section-p2 = La sezion blocade no vignarà plui fûr tai tiei feed.
-newtab-section-block-section-button = Bloche cheste sezion
 newtab-section-cancel-button = No cumò
 newtab-section-confirm-block-topic-p1 = Blocâ pardabon chest argoment?
 newtab-section-confirm-block-topic-p2 = I argoments blocâts no vignaran plui mostrâts tal to feed.
@@ -525,10 +522,6 @@ newtab-section-mangage-topics-title = Argoments
 newtab-section-manage-topics-button-v2 =
     .label = Gjestìs argoments
 newtab-section-mangage-topics-followed-topics = Tu vâs daûr
-newtab-section-mangage-topics-button =
-    .label = Argoments che tu stâs daûr e blocâts
-newtab-section-mangage-topics-followed-topics-subtitle = Argoments che tu stâs daûr
 newtab-section-mangage-topics-followed-topics-empty-state = No tu sês ancjemò daûr a nissun argoment.
 newtab-section-mangage-topics-blocked-topics = Blocât
-newtab-section-mangage-topics-blocked-topics-subtitle = Argoments blocâts
 newtab-section-mangage-topics-blocked-topics-empty-state = No tu âs ancjemò blocât nissun argoment.

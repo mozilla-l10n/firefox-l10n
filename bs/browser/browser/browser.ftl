@@ -643,7 +643,6 @@ urlbar-searchmode-exit-button =
 urlbar-searchmode-popup-description = Ovaj put traži sa:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Postavke pretraživanja
-urlbar-searchmode-popup-search-settings = Postavke pretraživanja
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

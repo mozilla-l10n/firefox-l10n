@@ -288,7 +288,6 @@ appmenu-other-protection-header = Eiporu ambue tembiporu ñemo’ãrã { -vendor
 
 ## Profiles panel
 
-appmenu-profiles = Mba’etekuéra
 appmenu-other-profiles = Ambue mba’etekuéra
 appmenu-manage-profiles =
     .label = Mba’etekuéra ñangareko

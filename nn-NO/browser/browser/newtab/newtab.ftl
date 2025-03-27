@@ -506,9 +506,6 @@ newtab-section-unblock-button = Opphev blokkeringa
 
 ## Confirmation modal for blocking a section
 
-newtab-section-confirm-block-section-p1 = Er du sikker på at du vil blokkere denne delen?
-newtab-section-confirm-block-section-p2 = Blokkert del vil ikkje lenger visast i kjelda di.
-newtab-section-block-section-button = Blokker denne delen
 newtab-section-cancel-button = Ikkje no
 newtab-section-confirm-block-topic-p1 = Er du sikker på at du vil blokkere dette emnet?
 # Variables:
@@ -521,10 +518,6 @@ newtab-section-mangage-topics-title = Emne
 newtab-section-manage-topics-button-v2 =
     .label = Handsam emne
 newtab-section-mangage-topics-followed-topics = Følgt
-newtab-section-mangage-topics-button =
-    .label = Følgde og blokkerte emne
-newtab-section-mangage-topics-followed-topics-subtitle = Følgde emne
 newtab-section-mangage-topics-followed-topics-empty-state = Du har ikkje følgt nokon emne enno.
 newtab-section-mangage-topics-blocked-topics = Blokkert
-newtab-section-mangage-topics-blocked-topics-subtitle = Blokkerte emne
 newtab-section-mangage-topics-blocked-topics-empty-state = Du har ikkje blokkert nokon emne enno.

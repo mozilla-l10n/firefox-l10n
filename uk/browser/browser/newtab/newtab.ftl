@@ -506,9 +506,6 @@ newtab-section-unblock-button = Розблокувати
 
 ## Confirmation modal for blocking a section
 
-newtab-section-confirm-block-section-p1 = Ви дійсно хочете заблокувати цей розділ?
-newtab-section-confirm-block-section-p2 = Заблокований розділ більше не з'являтиметься у вашій стрічці.
-newtab-section-block-section-button = Заблокувати цей розділ
 newtab-section-cancel-button = Не зараз
 newtab-section-confirm-block-topic-p1 = Ви дійсно хочете заблокувати цю тему?
 newtab-section-confirm-block-topic-p2 = Заблоковані теми більше не з'являтимуться у вашій стрічці.
@@ -522,10 +519,6 @@ newtab-section-mangage-topics-title = Теми
 newtab-section-manage-topics-button-v2 =
     .label = Керувати темами
 newtab-section-mangage-topics-followed-topics = Відстежується
-newtab-section-mangage-topics-button =
-    .label = Відстежувані та заблоковані теми
-newtab-section-mangage-topics-followed-topics-subtitle = Відстежувані теми
 newtab-section-mangage-topics-followed-topics-empty-state = Ви ще не стежите за жодною темою.
 newtab-section-mangage-topics-blocked-topics = Заблоковано
-newtab-section-mangage-topics-blocked-topics-subtitle = Заблоковані теми
 newtab-section-mangage-topics-blocked-topics-empty-state = Ви ще не заблокували жодної теми.

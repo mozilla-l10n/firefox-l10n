@@ -509,9 +509,6 @@ newtab-section-unblock-button = Dovoli
 
 ## Confirmation modal for blocking a section
 
-newtab-section-confirm-block-section-p1 = Ali ste prepričani, da želite blokirati ta razdelek?
-newtab-section-confirm-block-section-p2 = Blokirani razdelek se ne bo več prikazoval v vašem viru.
-newtab-section-block-section-button = Blokiraj ta razdelek
 newtab-section-cancel-button = Ne zdaj
 newtab-section-confirm-block-topic-p1 = Ali ste prepričani, da želite blokirati to temo?
 newtab-section-confirm-block-topic-p2 = Blokirane teme se ne bodo več prikazovale v vašem viru.
@@ -525,10 +522,6 @@ newtab-section-mangage-topics-title = Teme
 newtab-section-manage-topics-button-v2 =
     .label = Upravljanje tem
 newtab-section-mangage-topics-followed-topics = Spremljate
-newtab-section-mangage-topics-button =
-    .label = Spremljane in prepovedane teme
-newtab-section-mangage-topics-followed-topics-subtitle = Spremljane teme
 newtab-section-mangage-topics-followed-topics-empty-state = Ne spremljate še nobene teme.
 newtab-section-mangage-topics-blocked-topics = Blokirano
-newtab-section-mangage-topics-blocked-topics-subtitle = Prepovedane teme
 newtab-section-mangage-topics-blocked-topics-empty-state = Prepovedali niste še nobene teme.

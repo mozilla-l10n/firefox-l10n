@@ -69,6 +69,9 @@ perftools-button-add-directory = Embojuaju marandurenda’aty
 perftools-button-remove-directory = Emboguete jeporavo
 perftools-button-edit-settings = Embosako’i ñemboheko…
 
+## More actions menu
+
+
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
 perftools-thread-gecko-main =

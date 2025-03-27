@@ -288,7 +288,6 @@ appmenu-other-protection-header = Testa andra skyddsverktyg från { -vendor-shor
 
 ## Profiles panel
 
-appmenu-profiles = Profiler
 appmenu-other-profiles = Andra profiler
 appmenu-manage-profiles =
     .label = Hantera profiler

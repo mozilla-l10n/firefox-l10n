@@ -451,7 +451,6 @@ tab-groups-onboarding-create-group-no-alltabs-button-title = Fyn jo groepen troc
 tab-groups-onboarding-saved-groups-title-2 = Wannear’t jo in ljepblêdgroep slute, kinne jo dizze hjir altyd opnij iepenje.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Fyn jo sletten groepen troch dernei te sykjen yn de adresbalke.
 tab-groups-onboarding-session-restore-title = Iepenje hjir altyd jo ljepblêdgroepen.
-tab-groups-onboarding-saved-groups-title = As jo in ljepblêdgroep slute, kinne jo dizze hjir altyd opnij iepenje.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

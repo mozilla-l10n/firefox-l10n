@@ -22,7 +22,8 @@ safeb-palm-see-details-label = Ver detalhes
 safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> foi <a data-l10n-name='error_desc_link'>denunciado como um site enganoso</a>. Você pode <a data-l10n-name='report_detection'>relatar um problema de detecção</a> ou <a data-l10n-name='ignore_warning_link'>ignorar o risco</a> e ir para este site não seguro.
 safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> foi <a data-l10n-name='error_desc_link'>denunciado como um site enganoso</a>. Você pode <a data-l10n-name='report_detection'>relatar um problema de detecção</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-phishing-page-learn-more = Saiba mais sobre sites enganosos e fraudes online em <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Saiba mais sobre a Proteção contra Malware e Fraude online do { -brand-short-name } em <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
@@ -32,7 +33,8 @@ safeb-blocked-phishing-page-learn-more = Saiba mais sobre sites enganosos e frau
 safeb-blocked-malware-page-error-desc-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> foi <a data-l10n-name='error_desc_link'>denunciado por conter software malicioso</a>. Você pode <a data-l10n-name='ignore_warning_link'>ignorar o risco</a> e seguir para este site não seguro.
 safeb-blocked-malware-page-error-desc-no-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> foi <a data-l10n-name='error_desc_link'>denunciado por conter software malicioso</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-malware-page-learn-more-sumo = Saiba mais sobre a proteção do { -brand-short-name } contra phishing (fraude online) e malware (código malicioso) em <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
@@ -42,7 +44,8 @@ safeb-blocked-malware-page-learn-more-sumo = Saiba mais sobre a proteção do { 
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> foi <a data-l10n-name='error_desc_link'>denunciado por conter software prejudicial</a>. Você pode <a data-l10n-name='ignore_warning_link'>ignorar o risco</a> e ir para este site não seguro.
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> foi <a data-l10n-name='error_desc_link'>denunciado por conter software prejudicial</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-unwanted-page-learn-more = Saiba mais sobre software nocivo e indesejável na <a data-l10n-name='learn_more_link'>Política de Software Indesejável</a>. Saiba mais sobre a proteção do { -brand-short-name } contra phishing (fraude online) e malware (código malicioso) em <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
@@ -52,7 +55,8 @@ safeb-blocked-unwanted-page-learn-more = Saiba mais sobre software nocivo e inde
 safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> foi <a data-l10n-name='error_desc_link'>denunciado por conter uma aplicação potencialmente prejudicial</a>. Você pode <a data-l10n-name='ignore_warning_link'>ignorar o risco</a> e ir para este site não seguro.
 safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> foi <a data-l10n-name='error_desc_link'>denunciado por conter uma aplicação potencialmente prejudicial</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-harmful-page-learn-more = Saiba mais sobre a proteção do { -brand-short-name } contra phishing (fraude online) e malware (código malicioso) em <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 safeb-palm-notdeceptive =

@@ -288,7 +288,6 @@ appmenu-other-protection-header = Prøv andre verneverktøy frå { -vendor-short
 
 ## Profiles panel
 
-appmenu-profiles = Profilar
 appmenu-other-profiles = Andre profilar
 appmenu-manage-profiles =
     .label = Handsam profilar

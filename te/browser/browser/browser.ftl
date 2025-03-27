@@ -591,7 +591,6 @@ urlbar-searchmode-exit-button =
 urlbar-searchmode-popup-description = ఈసారి దీనితో వెతుకు:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = వెతుకుడు అమరికలు
-urlbar-searchmode-popup-search-settings = వెతుకుడు అమరికలు
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

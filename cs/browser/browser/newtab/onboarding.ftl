@@ -634,7 +634,6 @@ tab-groups-onboarding-create-group-no-alltabs-button-title = Skupiny najdete vyh
 tab-groups-onboarding-saved-groups-title-2 = Když skupinu panelů zavřete, můžete ji zde kdykoli znovu otevřít.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Uzavřené skupiny najdete vyhledáním v adresním řádku.
 tab-groups-onboarding-session-restore-title = Zde můžete kdykoli znovu otevřít skupiny panelů.
-tab-groups-onboarding-saved-groups-title = Pokud skupinu panelů zavřete, můžete ji zde kdykoli znovu otevřít.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

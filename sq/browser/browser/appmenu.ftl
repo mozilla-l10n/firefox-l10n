@@ -288,7 +288,6 @@ appmenu-other-protection-header = Provoni mjete të tjera mbrojtjeje nga { -vend
 
 ## Profiles panel
 
-appmenu-profiles = Profile
 appmenu-other-profiles = Profile të tjerë
 appmenu-manage-profiles =
     .label = Administroni profile

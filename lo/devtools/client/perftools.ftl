@@ -30,6 +30,9 @@ perftools-devtools-settings-label = ການຕັ້ງຄ່າ
 ##
 
 
+## More actions menu
+
+
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
 

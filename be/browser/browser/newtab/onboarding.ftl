@@ -450,7 +450,6 @@ tab-groups-onboarding-create-group-no-alltabs-button-title = Знайдзіце 
 tab-groups-onboarding-saved-groups-title-2 = Калі вы закрываеце групу картак, вы можаце зноў адкрыць яе тут у любы час.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Знайдзіце свае закрытыя групы, пашакаўшы іх у адрасным радку.
 tab-groups-onboarding-session-restore-title = Паўторна адкрывайце свае групы картак тут у любы час.
-tab-groups-onboarding-saved-groups-title = Калі вы закрыеце групу картак, вы можаце зноў адкрыць яе тут у любы час.
 tab-groups-onboarding-dismiss = Добра
 
 ## Multi Profiles feature onboarding messages

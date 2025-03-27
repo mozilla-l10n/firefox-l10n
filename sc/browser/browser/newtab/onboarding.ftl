@@ -431,7 +431,6 @@ onboarding-checklist-sign-up = Registra·ti o identìfica·ti cun su profilu tuo
 
 ## Tab Groups feature onboarding strings
 
-tab-groups-onboarding-saved-groups-title = Si serras unu grupu de ischedas, ddu podes torrare a abèrrere inoghe in cale si siat momentu.
 tab-groups-onboarding-dismiss = Andat bene
 
 ## Multi Profiles feature onboarding messages

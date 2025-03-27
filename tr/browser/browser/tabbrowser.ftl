@@ -218,10 +218,6 @@ tabbrowser-manager-closed-tab-group =
 tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — Geçerli pencere
-# "Show more" is for showing all open groups from other windows, as well as saved groups. Initially,
-# we only show up to six of these groups.
-tabbrowser-manager-tab-groups-show-more =
-    .label = Daha fazla göster
 
 ## Tab Groups
 
@@ -257,7 +253,6 @@ tab-group-editor-color-selector2-red = Kırmızı
 #  $tabGroupName (String): The name of the tab group. Defaults to the value
 #                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — Sekme grubu
-tab-group-menu-header = Sekme grupları
 tab-context-unnamed-group =
     .label = Adsız grup
 tab-group-name-default = Adsız Grup

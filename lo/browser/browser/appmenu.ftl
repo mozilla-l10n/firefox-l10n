@@ -271,7 +271,6 @@ appmenu-other-protection-header = ລອງໃຊ້ເຄື່ອງມືປ�
 
 ## Profiles panel
 
-appmenu-profiles = ໂປ​ຣ​ໄຟ​ລ໌
 appmenu-other-profiles = ໂປຣໄຟລ໌ອື່ນໆ
 appmenu-manage-profiles =
     .label = ຈັດການໂປຣໄຟລ໌

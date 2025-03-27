@@ -54,12 +54,6 @@ fx-view-discoverability-secondary-button-label = Baztertu
 ## Split Dismiss Button Labels
 
 # Blocks the message from showing again
-split-dismiss-button-dont-show-option-label = Ez erakutsi gomendio hau berriro
-# Dismisses message and reduces frequency of message
-split-dismiss-button-show-fewer-option-label = Erakutsi gomendio gutxiago
-# Opens about:preferences#general-cfrfeatures
-split-dismiss-button-manage-settings-option-label = Kudeatu ezarpenak
-# Blocks the message from showing again
 split-dismiss-button-dont-show-option =
     .label = Ez erakutsi gomendio hau berriro
 # Dismisses message and reduces frequency of message

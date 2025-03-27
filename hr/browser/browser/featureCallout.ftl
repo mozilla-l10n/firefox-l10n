@@ -54,12 +54,6 @@ fx-view-discoverability-secondary-button-label = Odbaci
 ## Split Dismiss Button Labels
 
 # Blocks the message from showing again
-split-dismiss-button-dont-show-option-label = Ne prikazuj više ovu preporuku
-# Dismisses message and reduces frequency of message
-split-dismiss-button-show-fewer-option-label = Prikaži manje preporuka
-# Opens about:preferences#general-cfrfeatures
-split-dismiss-button-manage-settings-option-label = Upravljaj postavkama
-# Blocks the message from showing again
 split-dismiss-button-dont-show-option =
     .label = Ne prikazuj više ovu preporuku
 # Dismisses message and reduces frequency of message
@@ -126,6 +120,6 @@ actions-callout-title = Dovrši uobičajene zadatke ili pristupi osnovnim postav
 # These example text inputs correlate to the the following strings
 # (either matching the whole string, or the first word of the string).
 # "print" - quickactions-cmd-print
-# "clear" - quickactions-cmd-clearhistory
+# "clear" - quickactions-cmd-clearrecenthistory
 # When localizing, ensure the translations match to ensure the action button appears as expected.
 actions-callout-subtitle = Pokušaj upisati radnju poput „ispiši” za ispis stranice ili „izbriši” za brisanje povijesti.

@@ -182,10 +182,6 @@ tabbrowser-manager-closed-tab-group =
 tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — 현재 창
-# "Show more" is for showing all open groups from other windows, as well as saved groups. Initially,
-# we only show up to six of these groups.
-tabbrowser-manager-tab-groups-show-more =
-    .label = 더 보기
 
 ## Tab Groups
 
@@ -221,7 +217,6 @@ tab-group-editor-color-selector2-red = 빨간색
 #  $tabGroupName (String): The name of the tab group. Defaults to the value
 #                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — 탭 그룹
-tab-group-menu-header = 탭 그룹
 tab-context-unnamed-group =
     .label = 익명 그룹
 tab-group-name-default = 익명 그룹

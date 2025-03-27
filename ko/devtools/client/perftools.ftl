@@ -69,6 +69,9 @@ perftools-button-add-directory = 디렉터리 추가
 perftools-button-remove-directory = 선택 항목 삭제
 perftools-button-edit-settings = 설정 편집…
 
+## More actions menu
+
+
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
 perftools-thread-gecko-main =

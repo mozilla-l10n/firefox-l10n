@@ -734,7 +734,6 @@ urlbar-searchmode-exit-button =
 urlbar-searchmode-popup-description = Diskear sykje mei:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Sykynstellingen
-urlbar-searchmode-popup-search-settings = Sykynstellingen
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

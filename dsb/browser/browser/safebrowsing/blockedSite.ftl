@@ -22,7 +22,8 @@ safeb-palm-see-details-label = Glejśo drobnostki
 safeb-blocked-phishing-page-error-desc-override = Jo se k wěsći dało, až sedło <span data-l10n-name='sitename'>{ $sitename }</span> jo <a data-l10n-name='error_desc_link'>wobšudne sedło</a>. Móžośo <a data-l10n-name='report_detection'>problem ze spóznaśim k wěsći daś</a> abo <a data-l10n-name='ignore_warning_link'>riziko ignorěrowaś</a> a k toś tomu njrwěstemu sedłoju woglědaś.
 safeb-blocked-phishing-page-error-desc-no-override = Jo se k wěsći dako, až sedło <span data-l10n-name='sitename'>{ $sitename }</span> jo <a data-l10n-name='error_desc_link'>wobšudne sedło</a>. Móžośo <a data-l10n-name='report_detection'>problem ze spóznaśim k wěsći daś</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-phishing-page-learn-more = Zgóńśo na <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>wěcej wó wobšudnych sedłach a kšadnjenju datow. Zgóńśo na <a data-l10n-name='firefox_support'>support.mozilla.org</a>wěcej wó šćiśe { -brand-short-name } pśeśiwo kšadnjenjeju datow a škódnej software.
 
@@ -32,7 +33,8 @@ safeb-blocked-phishing-page-learn-more = Zgóńśo na <a data-l10n-name='learn_m
 safeb-blocked-malware-page-error-desc-override-sumo = Jo se k wěsći dałoo, až sedło <span data-l10n-name='sitename'>{ $sitename }</span><a data-l10n-name='error_desc_link'>złosnu software wopśimujo</a>. Móžośo <a data-l10n-name='ignore_warning_link'>riziko ignorěrowaś</a> a k toś tomu njewěstemu sedłoju woglědał.
 safeb-blocked-malware-page-error-desc-no-override-sumo = Jo se k wěsći dało, až sedło <span data-l10n-name='sitename'>{ $sitename }</span><a data-l10n-name='error_desc_link'>złosnu software wopśimujo</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-malware-page-learn-more-sumo = Zgóńśo na <a data-l10n-name='firefox_support'>support.mozilla.org</a>wěcej wó šćiśe { -brand-short-name } pśeśiwo kšadnjenjeju datow a škódnej software.
 
@@ -42,7 +44,8 @@ safeb-blocked-malware-page-learn-more-sumo = Zgóńśo na <a data-l10n-name='fir
 safeb-blocked-unwanted-page-error-desc-override = Jo se k wěsći dałoo, až sedło <span data-l10n-name='sitename'>{ $sitename }</span><a data-l10n-name='error_desc_link'>škódnu software wopśimujo</a>. Móžośo <a data-l10n-name='ignore_warning_link'>riziko ignorěrowaś</a> a k toś tomu njewěstemu sedłoju woglědał.
 safeb-blocked-unwanted-page-error-desc-no-override = Jo se k wěsći dało, až sedło <span data-l10n-name='sitename'>{ $sitename }</span><a data-l10n-name='error_desc_link'>škódnu software wopśimujo</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-unwanted-page-learn-more = Zgóńśo wěcej wó škódnej a njewitanej software w <a data-l10n-name='learn_more_link'>pšawidłach wó njewitanej software</a>. Zgóńśo na <a data-l10n-name='firefox_support'>support.mozilla.org</a> wěcej wó šćiśe { -brand-short-name } pśeśiwo kšadnjenjeju datow a škódnym programam.
 
@@ -52,7 +55,8 @@ safeb-blocked-unwanted-page-learn-more = Zgóńśo wěcej wó škódnej a njewit
 safeb-blocked-harmful-page-error-desc-override = Jo se k wěsći dało, až sedło <span data-l10n-name='sitename'>{ $sitename }</span><a data-l10n-name='error_desc_link'>potencielnje škódne nałoženje wopśimujo</a>. Móžośo <a data-l10n-name='ignore_warning_link'>riziko ignorěrowaś</a> k toś tomu njewěstemu sedłoju woglědaś.
 safeb-blocked-harmful-page-error-desc-no-override = Jo se k wěsći dało, až sedło <span data-l10n-name='sitename'>{ $sitename }</span><a data-l10n-name='error_desc_link'>potencielnje škódne nałoženje wopśimujo</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-harmful-page-learn-more = Zgóńśo na <a data-l10n-name='firefox_support'>support.mozilla.org</a>wěcej wó šćiśe { -brand-short-name } pśeśiwo kšadnjenjeju datow a škódnej software.
 safeb-palm-notdeceptive =

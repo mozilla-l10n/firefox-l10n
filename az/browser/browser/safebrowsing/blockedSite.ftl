@@ -22,7 +22,8 @@ safeb-palm-see-details-label = Detalları göstər
 safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>aldadıcı sayt olaraq xəbər edilib</a>. <a data-l10n-name='report_detection'>Aşkarlama xətası bildir</a>ə və ya <a data-l10n-name='ignore_warning_link'>təhlükəni görməməzdən gəl</a>ib sayta daxil ola bilərsiz.
 safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>aldadıcı sayt olaraq xəbər edilib</a>. <a data-l10n-name='report_detection'>Aşkarlama xətası bildir</a>ə bilərsiz.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-phishing-page-learn-more = Aldadıcı saytlar və fişinq haqqında <a data-l10n-name='learn_more_link'>www.antiphishing.org</a> ünvanında öyrənə bilərsiz. { -brand-short-name } səyyahının Fişinq və Zərərli Proqramlardan Qoruması haqqında <a data-l10n-name='firefox_support'>support.mozilla.org</a> saytında ətraflı öyrənin.
 
@@ -30,7 +31,8 @@ safeb-blocked-phishing-page-learn-more = Aldadıcı saytlar və fişinq haqqınd
 ##  $sitename (string) - Domain name for the blocked page
 
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 
 ## Variables
@@ -39,7 +41,8 @@ safeb-blocked-phishing-page-learn-more = Aldadıcı saytlar və fişinq haqqınd
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> saytında <a data-l10n-name='error_desc_link'>zərərli proqram olması xəbər edilib</a>. <a data-l10n-name='ignore_warning_link'>Təhlükəni görməməzdən gəl</a>ə və sayta daxil ola bilərsiz.
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> saytında <a data-l10n-name='error_desc_link'>zərərli proqram olması xəbər edilib</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-unwanted-page-learn-more = Zərərli və istənməyən proqramlar haqqında <a data-l10n-name='learn_more_link'>İstənməyən Proqramlar Siyasəti</a>ndə öyrənə bilərsiz. { -brand-short-name } səyyahının Fişinq və Zərərli Proqramlardan Qoruması haqqında <a data-l10n-name='firefox_support'>support.mozilla.org</a> saytında ətraflı öyrənin.
 
@@ -49,7 +52,8 @@ safeb-blocked-unwanted-page-learn-more = Zərərli və istənməyən proqramlar 
 safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> saytında <a data-l10n-name='error_desc_link'>potensial zərər verici tətbiqlər olduğu xəbər verilib</a>. <a data-l10n-name='ignore_warning_link'>Təhlükəni görməməzdən gəl</a>ə və sayta daxil ola bilərsiz.
 safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> saytında <a data-l10n-name='error_desc_link'>potensial zərər verici tətbiqlər olduğu xəbər verilib</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-harmful-page-learn-more = { -brand-short-name } səyyahının Fişinq və Zərərli Proqramlardan Qoruması haqqında <a data-l10n-name='firefox_support'>support.mozilla.org</a> saytında ətraflı öyrənin.
 safeb-palm-notdeceptive =

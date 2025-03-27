@@ -288,7 +288,6 @@ appmenu-other-protection-header = ลองใช้เครื่องมื�
 
 ## Profiles panel
 
-appmenu-profiles = โปรไฟล์
 appmenu-other-profiles = โปรไฟล์อื่น ๆ
 appmenu-manage-profiles =
     .label = จัดการโปรไฟล์

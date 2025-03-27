@@ -731,7 +731,6 @@ urlbar-searchmode-exit-button =
 urlbar-searchmode-popup-description = Oraingoan, bilatu honekin:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Bilaketa-ezarpenak
-urlbar-searchmode-popup-search-settings = Bilaketa-ezarpenak
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

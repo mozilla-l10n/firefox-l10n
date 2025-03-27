@@ -54,12 +54,6 @@ fx-view-discoverability-secondary-button-label = Kapat
 ## Split Dismiss Button Labels
 
 # Blocks the message from showing again
-split-dismiss-button-dont-show-option-label = Bu öneriyi bir daha gösterme
-# Dismisses message and reduces frequency of message
-split-dismiss-button-show-fewer-option-label = Daha az öneri göster
-# Opens about:preferences#general-cfrfeatures
-split-dismiss-button-manage-settings-option-label = Ayarları yönet
-# Blocks the message from showing again
 split-dismiss-button-dont-show-option =
     .label = Bu öneriyi bir daha gösterme
 # Dismisses message and reduces frequency of message
@@ -141,6 +135,6 @@ actions-callout-title = Sık kullanılan görevlere ve temel ayarlara erişin
 # These example text inputs correlate to the the following strings
 # (either matching the whole string, or the first word of the string).
 # "print" - quickactions-cmd-print
-# "clear" - quickactions-cmd-clearhistory
+# "clear" - quickactions-cmd-clearrecenthistory
 # When localizing, ensure the translations match to ensure the action button appears as expected.
 actions-callout-subtitle = Sayfa yazdırmak için “yazdır” yazmayı veya geçmişinizi temizlemek için “geçmiş” yazmayı deneyin.

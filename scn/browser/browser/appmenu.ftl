@@ -172,7 +172,6 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 
 ## Profiles panel
 
-appmenu-profiles = Prufili
 appmenu-other-profiles = Autri prufili
 appmenu-manage-profiles =
     .label = Manijari i prufili

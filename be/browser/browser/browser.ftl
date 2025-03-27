@@ -738,7 +738,6 @@ urlbar-searchmode-exit-button =
 urlbar-searchmode-popup-description = Гэтым разам шукаць у:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Налады пошуку
-urlbar-searchmode-popup-search-settings = Налады пошуку
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

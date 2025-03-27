@@ -507,9 +507,6 @@ newtab-section-unblock-button = Bỏ chặn
 
 ## Confirmation modal for blocking a section
 
-newtab-section-confirm-block-section-p1 = Bạn có chắc chắn muốn chặn phần này không?
-newtab-section-confirm-block-section-p2 = Phần bị chặn sẽ không còn xuất hiện trong nguồn cấp dữ liệu của bạn nữa.
-newtab-section-block-section-button = Chặn phần này
 newtab-section-cancel-button = Không phải bây giờ
 newtab-section-confirm-block-topic-p1 = Bạn có chắc là bạn muốn chặn chủ đề này?
 newtab-section-confirm-block-topic-p2 = Chủ đề bị chặn sẽ không còn xuất hiện trong nguồn cấp dữ liệu của bạn.
@@ -523,10 +520,6 @@ newtab-section-mangage-topics-title = Các chủ đề
 newtab-section-manage-topics-button-v2 =
     .label = Quản lý chủ đề
 newtab-section-mangage-topics-followed-topics = Đã theo dõi
-newtab-section-mangage-topics-button =
-    .label = Chủ đề đã theo dõi và đã chặn
-newtab-section-mangage-topics-followed-topics-subtitle = Chủ đề đã theo dõi
 newtab-section-mangage-topics-followed-topics-empty-state = Bạn chưa theo dõi bất kỳ chủ đề nào.
 newtab-section-mangage-topics-blocked-topics = Đã chặn
-newtab-section-mangage-topics-blocked-topics-subtitle = Chủ đề đã chặn
 newtab-section-mangage-topics-blocked-topics-empty-state = Bạn chưa chặn bất kỳ chủ đề nào.

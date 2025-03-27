@@ -56,4 +56,3 @@ experimental-features-group-webpage-display =
     .label = Visualisaziun paginas-web
 experimental-features-group-customize-browsing =
     .label = Persunalisescha tia navigaziun
-experimental-features-group-customize-browsing-description = Sche ti emprovas questas funcziunalitads, <a data-l10n-name="connect">parta tes avis sin Connect</a>

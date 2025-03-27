@@ -39,6 +39,9 @@ perftools-button-add-directory = Ավելացնել գրացուցակ
 perftools-button-remove-directory = Հեռացնել ընտրվածը
 perftools-button-edit-settings = Խմբագրել կարգավորումները…
 
+## More actions menu
+
+
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
 pref-thread-stream-trans =

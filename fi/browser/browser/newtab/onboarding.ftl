@@ -451,7 +451,6 @@ tab-groups-onboarding-create-group-no-alltabs-button-title = Löydä ryhmäsi et
 tab-groups-onboarding-saved-groups-title-2 = Kun suljet välilehtiryhmän, voit avata sen uudelleen milloin tahansa täältä.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Löydä suljetut ryhmät etsimällä niitä osoitepalkista.
 tab-groups-onboarding-session-restore-title = Avaa välilehtiryhmät uudelleen milloin tahansa täältä.
-tab-groups-onboarding-saved-groups-title = Jos suljet välilehtiryhmän, voit avata sen uudelleen täällä milloin tahansa.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

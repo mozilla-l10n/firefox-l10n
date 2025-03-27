@@ -508,9 +508,6 @@ newtab-section-unblock-button = Άρση φραγής
 
 ## Confirmation modal for blocking a section
 
-newtab-section-confirm-block-section-p1 = Θέλετε σίγουρα να αποκλείσετε αυτήν την ενότητα;
-newtab-section-confirm-block-section-p2 = Η αποκλεισμένη ενότητα δεν θα εμφανίζεται πλέον στη ροή σας.
-newtab-section-block-section-button = Αποκλεισμός ενότητας
 newtab-section-cancel-button = Όχι τώρα
 newtab-section-confirm-block-topic-p1 = Θέλετε σίγουρα να αποκλείσετε αυτό το θέμα;
 newtab-section-confirm-block-topic-p2 = Τα αποκλεισμένα θέματα δεν θα εμφανίζονται πλέον στη ροή σας.
@@ -524,10 +521,6 @@ newtab-section-mangage-topics-title = Θέματα
 newtab-section-manage-topics-button-v2 =
     .label = Διαχείριση θεμάτων
 newtab-section-mangage-topics-followed-topics = Ακολουθούνται
-newtab-section-mangage-topics-button =
-    .label = Παρακολουθούμενα και αποκλεισμένα θέματα
-newtab-section-mangage-topics-followed-topics-subtitle = Παρακολουθούμενα θέματα
 newtab-section-mangage-topics-followed-topics-empty-state = Δεν έχετε παρακολουθήσει κανένα θέμα ακόμα.
 newtab-section-mangage-topics-blocked-topics = Αποκλεισμένα
-newtab-section-mangage-topics-blocked-topics-subtitle = Αποκλεισμένα θέματα
 newtab-section-mangage-topics-blocked-topics-empty-state = Δεν έχετε αποκλείσει κανένα θέμα ακόμα.

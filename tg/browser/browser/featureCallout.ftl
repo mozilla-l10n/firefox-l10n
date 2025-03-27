@@ -54,12 +54,6 @@ fx-view-discoverability-secondary-button-label = Нодида гузаронда
 ## Split Dismiss Button Labels
 
 # Blocks the message from showing again
-split-dismiss-button-dont-show-option-label = Ин тавсия дигар нишон дода нашавад
-# Dismisses message and reduces frequency of message
-split-dismiss-button-show-fewer-option-label = Камтар нишон додани тавсияҳо
-# Opens about:preferences#general-cfrfeatures
-split-dismiss-button-manage-settings-option-label = Идоракунии танзимот
-# Blocks the message from showing again
 split-dismiss-button-dont-show-option =
     .label = Ин тавсия дигар нишон дода нашавад
 # Dismisses message and reduces frequency of message
@@ -141,6 +135,6 @@ actions-callout-title = Вазифаҳои умумиро иҷро кунед ё
 # These example text inputs correlate to the the following strings
 # (either matching the whole string, or the first word of the string).
 # "print" - quickactions-cmd-print
-# "clear" - quickactions-cmd-clearhistory
+# "clear" - quickactions-cmd-clearrecenthistory
 # When localizing, ensure the translations match to ensure the action button appears as expected.
 actions-callout-subtitle = Кӯшиш кунед, ки номи амалеро ба мисли «чоп кардан» барои чоп кардани саҳифа ё «тоза кардан» барои тоза кардани таърихи тамошобинӣ нависед.

@@ -56,4 +56,3 @@ experimental-features-group-webpage-display =
     .label = Pokazanje webboka
 experimental-features-group-customize-browsing =
     .label = Pśiměŕśo swój pśeglědowanje
-experimental-features-group-customize-browsing-description = Jolic toś te funkcije testujośo, <a data-l10n-name="connect">źělśo swóje mysle na Connect</a>

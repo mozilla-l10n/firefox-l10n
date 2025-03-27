@@ -56,4 +56,3 @@ experimental-features-group-webpage-display =
     .label = Hiển thị trang web
 experimental-features-group-customize-browsing =
     .label = Tùy chỉnh trình duyệt của bạn
-experimental-features-group-customize-browsing-description = Nếu bạn thử những tính năng này, <a data-l10n-name="connect">hãy chia sẻ suy nghĩ của bạn trên Connect</a>

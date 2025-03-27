@@ -508,9 +508,6 @@ newtab-section-unblock-button = Odblokuj
 
 ## Confirmation modal for blocking a section
 
-newtab-section-confirm-block-section-p1 = Czy na pewno zablokować tę sekcję?
-newtab-section-confirm-block-section-p2 = Zablokowana sekcja nie będzie już wyświetlana.
-newtab-section-block-section-button = Zablokuj tę sekcję
 newtab-section-cancel-button = Nie teraz
 newtab-section-confirm-block-topic-p1 = Czy na pewno zablokować ten temat?
 newtab-section-confirm-block-topic-p2 = Zablokowane tematy nie będą już wyświetlane.
@@ -524,10 +521,6 @@ newtab-section-mangage-topics-title = Tematy
 newtab-section-manage-topics-button-v2 =
     .label = Zarządzaj tematami
 newtab-section-mangage-topics-followed-topics = Obserwowane
-newtab-section-mangage-topics-button =
-    .label = Obserwowane i zablokowane tematy
-newtab-section-mangage-topics-followed-topics-subtitle = Obserwowane tematy
 newtab-section-mangage-topics-followed-topics-empty-state = Żadne tematy nie są jeszcze obserwowane.
 newtab-section-mangage-topics-blocked-topics = Zablokowane
-newtab-section-mangage-topics-blocked-topics-subtitle = Zablokowane tematy
 newtab-section-mangage-topics-blocked-topics-empty-state = Żadne tematy nie są jeszcze zablokowane.

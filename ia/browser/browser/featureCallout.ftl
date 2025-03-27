@@ -54,12 +54,6 @@ fx-view-discoverability-secondary-button-label = Dimitter
 ## Split Dismiss Button Labels
 
 # Blocks the message from showing again
-split-dismiss-button-dont-show-option-label = Non monstrar de novo iste recommendation
-# Dismisses message and reduces frequency of message
-split-dismiss-button-show-fewer-option-label = Monstrar minus recommendationes
-# Opens about:preferences#general-cfrfeatures
-split-dismiss-button-manage-settings-option-label = Gerer parametros
-# Blocks the message from showing again
 split-dismiss-button-dont-show-option =
     .label = Non monstrar de novo iste recommendation
 # Dismisses message and reduces frequency of message
@@ -137,6 +131,6 @@ actions-callout-title = Realisar cargas commun o acceder al parametros de base
 # These example text inputs correlate to the the following strings
 # (either matching the whole string, or the first word of the string).
 # "print" - quickactions-cmd-print
-# "clear" - quickactions-cmd-clearhistory
+# "clear" - quickactions-cmd-clearrecenthistory
 # When localizing, ensure the translations match to ensure the action button appears as expected.
 actions-callout-subtitle = Tenta scriber un action como “imprimer” pro imprimer un pagina, o “vacuar” pro vacuar tu chronologia.

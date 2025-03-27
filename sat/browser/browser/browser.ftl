@@ -643,7 +643,6 @@ urlbar-searchmode-exit-button =
 urlbar-searchmode-popup-description = ᱱᱤᱭᱟᱹ ᱫᱷᱟᱣ ᱱᱚᱶᱟ ᱛᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮᱺ
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = ᱥᱮᱸᱫᱽᱨᱟ ᱥᱟᱡᱟᱣ ᱠᱚ
-urlbar-searchmode-popup-search-settings = ᱥᱮᱸᱫᱽᱨᱟ ᱥᱟᱡᱟᱣ ᱠᱚ
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

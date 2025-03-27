@@ -54,12 +54,6 @@ fx-view-discoverability-secondary-button-label = 知道了
 ## Split Dismiss Button Labels
 
 # Blocks the message from showing again
-split-dismiss-button-dont-show-option-label = 不再显示此建议
-# Dismisses message and reduces frequency of message
-split-dismiss-button-show-fewer-option-label = 减少显示建议
-# Opens about:preferences#general-cfrfeatures
-split-dismiss-button-manage-settings-option-label = 管理设置
-# Blocks the message from showing again
 split-dismiss-button-dont-show-option =
     .label = 不再显示此建议
 # Dismisses message and reduces frequency of message
@@ -141,6 +135,6 @@ actions-callout-title = 完成常用操作、进行基础设置
 # These example text inputs correlate to the the following strings
 # (either matching the whole string, or the first word of the string).
 # "print" - quickactions-cmd-print
-# "clear" - quickactions-cmd-clearhistory
+# "clear" - quickactions-cmd-clearrecenthistory
 # When localizing, ensure the translations match to ensure the action button appears as expected.
 actions-callout-subtitle = 键入操作名即可快速进行操作，例如：“打印页面”/“print”、“清除历史”/“clear”。

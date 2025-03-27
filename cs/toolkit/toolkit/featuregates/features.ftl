@@ -60,4 +60,3 @@ experimental-features-group-webpage-display =
     .label = Zobrazení webové stránky
 experimental-features-group-customize-browsing =
     .label = Přizpůsobte si své prohlížení
-experimental-features-group-customize-browsing-description = Pokud tyto funkce vyzkoušíte, <a data-l10n-name="connect">podělte se o svůj názor na fóru Connect</a>

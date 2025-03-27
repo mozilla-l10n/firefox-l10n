@@ -288,7 +288,6 @@ appmenu-other-protection-header = Proba outras ferramentas de protección de { -
 
 ## Profiles panel
 
-appmenu-profiles = Perfís
 appmenu-other-profiles = Outros perfís
 appmenu-manage-profiles =
     .label = Xestionar perfís

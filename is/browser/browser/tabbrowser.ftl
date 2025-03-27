@@ -214,10 +214,6 @@ tabbrowser-manager-closed-tab-group =
 tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } - Þessi gluggi
-# "Show more" is for showing all open groups from other windows, as well as saved groups. Initially,
-# we only show up to six of these groups.
-tabbrowser-manager-tab-groups-show-more =
-    .label = Sýna meira
 
 ## Tab Groups
 
@@ -253,7 +249,6 @@ tab-group-editor-color-selector2-red = Rautt
 #  $tabGroupName (String): The name of the tab group. Defaults to the value
 #                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } - flipahópur
-tab-group-menu-header = Flipahópar
 tab-context-unnamed-group =
     .label = Ónefndur hópur
 tab-group-name-default = Ónefndur hópur

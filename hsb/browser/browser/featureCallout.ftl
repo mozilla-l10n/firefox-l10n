@@ -54,12 +54,6 @@ fx-view-discoverability-secondary-button-label = Zaćisnyć
 ## Split Dismiss Button Labels
 
 # Blocks the message from showing again
-split-dismiss-button-dont-show-option-label = Tute poručenje hižo njepokazać
-# Dismisses message and reduces frequency of message
-split-dismiss-button-show-fewer-option-label = Mjenje poručenjow pokazać
-# Opens about:preferences#general-cfrfeatures
-split-dismiss-button-manage-settings-option-label = Nastajenja rjadować
-# Blocks the message from showing again
 split-dismiss-button-dont-show-option =
     .label = Tute poručenje hižo njepokazać
 # Dismisses message and reduces frequency of message
@@ -141,6 +135,6 @@ actions-callout-title = Dokónčće časte nadawki abo mějće přistup k zakła
 # These example text inputs correlate to the the following strings
 # (either matching the whole string, or the first word of the string).
 # "print" - quickactions-cmd-print
-# "clear" - quickactions-cmd-clearhistory
+# "clear" - quickactions-cmd-clearrecenthistory
 # When localizing, ensure the translations match to ensure the action button appears as expected.
 actions-callout-subtitle = Zapodajće akciju kaž “ćišćeć”, zo byšće stronu ćišćał abo “historiju zhašeć”, zo byšće swoju historiju zhašał.

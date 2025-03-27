@@ -288,7 +288,6 @@ appmenu-other-protection-header = Testujće druhe škitanske nastroje wot { -ven
 
 ## Profiles panel
 
-appmenu-profiles = Profile
 appmenu-other-profiles = Druhe profile
 appmenu-manage-profiles =
     .label = Profile rjadować

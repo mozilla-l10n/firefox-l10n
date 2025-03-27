@@ -288,7 +288,6 @@ appmenu-other-protection-header = Diğer { -vendor-short-name } koruma araçlar�
 
 ## Profiles panel
 
-appmenu-profiles = Profiller
 appmenu-other-profiles = Diğer profiller
 appmenu-manage-profiles =
     .label = Profilleri yönet

@@ -54,12 +54,6 @@ fx-view-discoverability-secondary-button-label = Відхилити
 ## Split Dismiss Button Labels
 
 # Blocks the message from showing again
-split-dismiss-button-dont-show-option-label = Більше не показувати цю рекомендацію
-# Dismisses message and reduces frequency of message
-split-dismiss-button-show-fewer-option-label = Показувати менше рекомендацій
-# Opens about:preferences#general-cfrfeatures
-split-dismiss-button-manage-settings-option-label = Керувати налаштуваннями
-# Blocks the message from showing again
 split-dismiss-button-dont-show-option =
     .label = Більше не показувати цю рекомендацію
 # Dismisses message and reduces frequency of message
@@ -141,6 +135,6 @@ actions-callout-title = Виконання типових завдань або 
 # These example text inputs correlate to the the following strings
 # (either matching the whole string, or the first word of the string).
 # "print" - quickactions-cmd-print
-# "clear" - quickactions-cmd-clearhistory
+# "clear" - quickactions-cmd-clearrecenthistory
 # When localizing, ensure the translations match to ensure the action button appears as expected.
 actions-callout-subtitle = Спробуйте ввести дію, наприклад, “друк”, щоб надрукувати сторінку, або “очистити”, щоб стерти історію.

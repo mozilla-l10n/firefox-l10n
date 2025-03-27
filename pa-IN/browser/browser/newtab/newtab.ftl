@@ -507,9 +507,6 @@ newtab-section-unblock-button = ਪਾਬੰਦੀ ਹਟਾਓ
 
 ## Confirmation modal for blocking a section
 
-newtab-section-confirm-block-section-p1 = ਕੀ ਤੁਸੀਂ ਇਸ ਭਾਗ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?
-newtab-section-confirm-block-section-p2 = ਪਾਬੰਦੀ ਲਗਾਇਆ ਭਾਗ ਤੁਹਾਡੀ ਫੀਡ ਵਿੱਚ ਦਿਕਾਈ ਨਹੀਂ ਦੇਵੇਗਾ।
-newtab-section-block-section-button = ਇਸ ਭਾਗ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਓ
 newtab-section-cancel-button = ਹੁਣੇ ਨਹੀਂ
 newtab-section-confirm-block-topic-p1 = ਕੀ ਤੁਸੀਂ ਇਸ ਵਿਸ਼ੇ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?
 newtab-section-confirm-block-topic-p2 = ਪਾਬੰਦੀ ਲਾਏ ਵਿਸ਼ੇ ਤੁਹਾਡੀ ਫੀਡ ਵਿੱਚ ਦਿਖਾਈ ਨਹੀਂ ਦੇਣਗੇ।
@@ -523,10 +520,6 @@ newtab-section-mangage-topics-title = ਵਿਸ਼ੇ:
 newtab-section-manage-topics-button-v2 =
     .label = ਵਿਸ਼ਿਆਂ ਦਾ ਇੰਤਜ਼ਾਮ
 newtab-section-mangage-topics-followed-topics = ਫ਼ਾਲੋ ਕੀਤੇ
-newtab-section-mangage-topics-button =
-    .label = ਫ਼ਾਲੋ ਅਤੇ ਪਾਬੰਦੀ ਲਾਏ ਵਿਸ਼ੇ
-newtab-section-mangage-topics-followed-topics-subtitle = ਫ਼ਾਲੋ ਕੀਤੇ ਵਿਸ਼ੇ
 newtab-section-mangage-topics-followed-topics-empty-state = ਤੁਸੀਂ ਹਾਲੇ ਕਿਸੇ ਵੀ ਵਿਸ਼ੇ ਨੂੰ ਫ਼ਾਲੋ ਨਹੀਂ ਕੀਤਾ ਹੈ।
 newtab-section-mangage-topics-blocked-topics = ਪਾਬੰਦੀ ਲਗਾਏ
-newtab-section-mangage-topics-blocked-topics-subtitle = ਪਾਬੰਦੀ ਲਾਏ ਵਿਸ਼ੇ
 newtab-section-mangage-topics-blocked-topics-empty-state = ਤੁਸੀਂ ਹਾਲੇ ਕਿਸੇ ਵੀ ਵਿਸ਼ੇ ਉੱਤੇ ਪਾਬੰਦੀ ਨਹੀਂ ਲਾਈ ਹੈ।

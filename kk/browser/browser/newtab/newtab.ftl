@@ -500,9 +500,6 @@ newtab-section-unblock-button = Бұғаттаудан шығару
 
 ## Confirmation modal for blocking a section
 
-newtab-section-confirm-block-section-p1 = Бұл секцияны шынымен блоктағыңыз келе ме?
-newtab-section-confirm-block-section-p2 = Блокталған секция сіздің таспаңызда енді көрсетілмейді.
-newtab-section-block-section-button = Бұл бөлімді блоктау
 newtab-section-cancel-button = Қазір емес
 
 ## Panel in the Customize menu section to manage followed and blocked topics

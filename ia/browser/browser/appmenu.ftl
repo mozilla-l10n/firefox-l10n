@@ -288,7 +288,6 @@ appmenu-other-protection-header = Tentar altere utensiles de protection de { -ve
 
 ## Profiles panel
 
-appmenu-profiles = Profilos
 appmenu-other-profiles = Altere profilos
 appmenu-manage-profiles =
     .label = Gerer le profilos

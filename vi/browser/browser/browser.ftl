@@ -727,7 +727,6 @@ urlbar-searchmode-exit-button =
 urlbar-searchmode-popup-description = Lần này, tìm kiếm với:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Cài đặt tìm kiếm
-urlbar-searchmode-popup-search-settings = Cài đặt tìm kiếm
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

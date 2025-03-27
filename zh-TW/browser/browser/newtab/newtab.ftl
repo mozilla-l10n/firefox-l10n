@@ -504,9 +504,6 @@ newtab-section-unblock-button = 解除封鎖
 
 ## Confirmation modal for blocking a section
 
-newtab-section-confirm-block-section-p1 = 您確定要封鎖這個段落嗎？
-newtab-section-confirm-block-section-p2 = 將從資訊來源隱藏封鎖的段落。
-newtab-section-block-section-button = 封鎖此段落
 newtab-section-cancel-button = 現在不要
 newtab-section-confirm-block-topic-p1 = 您確定要封鎖這個主題的內容嗎？
 newtab-section-confirm-block-topic-p2 = 將主題封鎖後就不會再顯示於資訊來源中。
@@ -520,10 +517,6 @@ newtab-section-mangage-topics-title = 主題
 newtab-section-manage-topics-button-v2 =
     .label = 管理主題
 newtab-section-mangage-topics-followed-topics = 已追蹤
-newtab-section-mangage-topics-button =
-    .label = 已關注並封鎖的主題
-newtab-section-mangage-topics-followed-topics-subtitle = 關注的主題
 newtab-section-mangage-topics-followed-topics-empty-state = 您並未關注任何主題。
 newtab-section-mangage-topics-blocked-topics = 已封鎖
-newtab-section-mangage-topics-blocked-topics-subtitle = 封鎖的主題
 newtab-section-mangage-topics-blocked-topics-empty-state = 您並未封鎖任何主題。

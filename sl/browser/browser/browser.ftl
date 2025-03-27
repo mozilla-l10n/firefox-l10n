@@ -742,7 +742,6 @@ urlbar-searchmode-exit-button =
 urlbar-searchmode-popup-description = Tokrat išči z iskalnikom:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Nastavitve iskanja
-urlbar-searchmode-popup-search-settings = Nastavitve iskanja
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

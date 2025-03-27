@@ -489,9 +489,6 @@ newtab-section-unblock-button = Odblokiraj
 
 ## Confirmation modal for blocking a section
 
-newtab-section-confirm-block-section-p1 = Stvarno želiš blokirati ovaj odjeljak?
-newtab-section-confirm-block-section-p2 = Blokirani odjeljak se više neće pojavljivati u tvom feedu.
-newtab-section-block-section-button = Blokiraj ovaj odjeljak
 newtab-section-cancel-button = Ne sada
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
@@ -503,10 +500,6 @@ newtab-section-mangage-topics-title = Teme
 newtab-section-manage-topics-button-v2 =
     .label = Upravljaj temama
 newtab-section-mangage-topics-followed-topics = Praćene
-newtab-section-mangage-topics-button =
-    .label = Praćene i blokirane teme
-newtab-section-mangage-topics-followed-topics-subtitle = Praćene teme
 newtab-section-mangage-topics-followed-topics-empty-state = Još nisi pratio/la nijednu temu.
 newtab-section-mangage-topics-blocked-topics = Blokirane
-newtab-section-mangage-topics-blocked-topics-subtitle = Blokirane teme
 newtab-section-mangage-topics-blocked-topics-empty-state = Još nisi blokirao/la nijednu temu.

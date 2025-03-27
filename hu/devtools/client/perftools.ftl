@@ -69,6 +69,9 @@ perftools-button-add-directory = Könyvtár hozzáadása
 perftools-button-remove-directory = Kijelölt eltávolítása
 perftools-button-edit-settings = Beállítások szerkesztése…
 
+## More actions menu
+
+
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
 perftools-thread-gecko-main =

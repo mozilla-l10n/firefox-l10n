@@ -22,7 +22,8 @@ safeb-palm-see-details-label = Gweld manylion
 safeb-blocked-phishing-page-error-desc-override = Mae <span data-l10n-name='sitename'>{ $sitename }</span> yn hysbys <a data-l10n-name='error_desc_link'>fel gwefan twyllodrus</a>. Gallwch <a data-l10n-name='report_detection'>adrodd ar anhawster canfod</a> neu <a data-l10n-name='ignore_warning_link'>anwybyddu'r perygl</a> a mynd i'r wefan anniogel hon.
 safeb-blocked-phishing-page-error-desc-no-override = Mae <span data-l10n-name='sitename'>{ $sitename }</span> yn hysbys <a data-l10n-name='error_desc_link'>fel gwefan twyllodrus</a>. Gallwch <a data-l10n-name='report_detection'>adrodd ar anhawster canfod</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-phishing-page-learn-more = Mae rhagor o wybodaeth am wefannau twyllodrus a physgota yn <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. A Diogelwch rhag Pysgota a Drwgwar { -brand-short-name } yn <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
@@ -32,7 +33,8 @@ safeb-blocked-phishing-page-learn-more = Mae rhagor o wybodaeth am wefannau twyl
 safeb-blocked-malware-page-error-desc-override-sumo = Mae <span data-l10n-name='sitename'>{ $sitename }</span> y hysbys <a data-l10n-name='error_desc_link'>fel gwefan sy'n cynnwys meddalwedd maleisus</a>. Gallwch <a data-l10n-name='ignore_warning_link'>anwybyddu'r perygl</a> a mynd i'r wefan anniogel hon.
 safeb-blocked-malware-page-error-desc-no-override-sumo = Mae <span data-l10n-name='sitename'>{ $sitename }</span> yn hysbys <a data-l10n-name='error_desc_link'>fel gwefan sy'n cynnwys meddalwedd maleisus</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-malware-page-learn-more-sumo = Mae rhagor o wybodaeth am Ddiogelwch Rhag Pysgota a Drwgwar { -brand-short-name } yn <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
@@ -42,7 +44,8 @@ safeb-blocked-malware-page-learn-more-sumo = Mae rhagor o wybodaeth am Ddiogelwc
 safeb-blocked-unwanted-page-error-desc-override = Mae <span data-l10n-name='sitename'>{ $sitename }</span> y hysbys <a data-l10n-name='error_desc_link'>fel gwefan sy'n cynnwys meddalwedd niweidiol</a>. Gallwch <a data-l10n-name='ignore_warning_link'>anwybyddu'r perygl</a> a mynd i'r wefan anniogel hon.
 safeb-blocked-unwanted-page-error-desc-no-override = Mae <span data-l10n-name='sitename'>{ $sitename }</span> yn hysbys <a data-l10n-name='error_desc_link'>fel gwefan sy'n cynnwys meddalwedd niweidiol</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-unwanted-page-learn-more = Mae rhagor o wybodaeth am feddalwedd niweidiol a digroeso yn <a data-l10n-name='learn_more_link'>Polisi Meddalwedd Digroeso</a>. A Diogelwch rhag Pysgota a Drwgwar { -brand-short-name } yn <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
@@ -52,7 +55,8 @@ safeb-blocked-unwanted-page-learn-more = Mae rhagor o wybodaeth am feddalwedd ni
 safeb-blocked-harmful-page-error-desc-override = Mae <span data-l10n-name='sitename'>{ $sitename }</span> yn hysbys <a data-l10n-name='error_desc_link'>fel gwefan sy'n cynnwys rhaglen sydd o bosib yn niweidiol</a>. Gallwch <a data-l10n-name='ignore_warning_link'>anwybyddu'r perygl</a> a mynd i'r wefan anniogel hon.
 safeb-blocked-harmful-page-error-desc-no-override = Mae <span data-l10n-name='sitename'>{ $sitename }</span> yn hysbys <a data-l10n-name='error_desc_link'>fel wefan sy'n cynnwys rhaglen sydd o bosib yn niweidiol</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-harmful-page-learn-more = Mae rhagor o wybodaeth am Ddiogelwch Rhag Pysgota a Drwgwar { -brand-short-name } yn <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 safeb-palm-notdeceptive =

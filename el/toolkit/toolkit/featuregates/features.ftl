@@ -56,4 +56,3 @@ experimental-features-group-webpage-display =
     .label = Προβολή ιστοσελίδων
 experimental-features-group-customize-browsing =
     .label = Προσαρμόστε την περιήγησή σας
-experimental-features-group-customize-browsing-description = Αν δοκιμάσετε αυτές τις λειτουργίες, <a data-l10n-name="connect">μοιραστείτε τις σκέψεις σας μέσω του Connect</a>

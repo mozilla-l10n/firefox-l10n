@@ -39,12 +39,6 @@ fx-view-discoverability-secondary-button-label = סגירה
 ## Split Dismiss Button Labels
 
 # Blocks the message from showing again
-split-dismiss-button-dont-show-option-label = לא להציג המלצה זו שוב
-# Dismisses message and reduces frequency of message
-split-dismiss-button-show-fewer-option-label = להציג פחות המלצות
-# Opens about:preferences#general-cfrfeatures
-split-dismiss-button-manage-settings-option-label = ניהול הגדרות
-# Blocks the message from showing again
 split-dismiss-button-dont-show-option =
     .label = לא להציג המלצה זו שוב
 # Dismisses message and reduces frequency of message
@@ -126,6 +120,6 @@ actions-callout-title = השלמת משימות נפוצות או קבלת גי�
 # These example text inputs correlate to the the following strings
 # (either matching the whole string, or the first word of the string).
 # "print" - quickactions-cmd-print
-# "clear" - quickactions-cmd-clearhistory
+# "clear" - quickactions-cmd-clearrecenthistory
 # When localizing, ensure the translations match to ensure the action button appears as expected.
 actions-callout-subtitle = ניתן לנסות להקליד פעולה כמו ״הדפס״ או ״הדפסה״ כדי להדפיס עמוד, או ״ניקוי״ כדי למחוק את ההיסטוריה שלך.

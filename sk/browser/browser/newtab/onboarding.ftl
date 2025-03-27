@@ -450,7 +450,6 @@ tab-groups-onboarding-create-group-no-alltabs-button-title = Svoje skupiny nájd
 tab-groups-onboarding-saved-groups-title-2 = Keď zatvoríte skupinu kariet, môžete ju tu kedykoľvek znova otvoriť.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Svoje zatvorené skupiny nájdete tak, že ich vyhľadáte v paneli s adresou.
 tab-groups-onboarding-session-restore-title = Tu môžete kedykoľvek znova otvoriť svoje skupiny kariet.
-tab-groups-onboarding-saved-groups-title = Ak zatvoríte skupinu kariet, môžete ju tu kedykoľvek znova otvoriť.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

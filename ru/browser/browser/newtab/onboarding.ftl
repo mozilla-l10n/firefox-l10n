@@ -450,7 +450,6 @@ tab-groups-onboarding-create-group-no-alltabs-button-title = Находите с
 tab-groups-onboarding-saved-groups-title-2 = Когда вы закрываете группу вкладок, вы можете в любое время восстановить её здесь.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Найдите свои закрытые группы, выполнив поиск в адресной строке.
 tab-groups-onboarding-session-restore-title = Восстанавливайте здесь ваши группы вкладок в любое время.
-tab-groups-onboarding-saved-groups-title = Если вы закрыли группу вкладок, вы можете в любое время открыть её здесь.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

@@ -451,7 +451,6 @@ tab-groups-onboarding-create-group-no-alltabs-button-title = Cîr i tiei grups c
 tab-groups-onboarding-saved-groups-title-2 = Cuant che tu sieris un grup di schedis, tu puedis tornâ a vierzilu in ogni moment.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Cîr cu la sbare de direzion i tiei grups che tu âs sierât, par cjatâju.
 tab-groups-onboarding-session-restore-title = Torne vierzi achì i grups di schedis in ogni moment.
-tab-groups-onboarding-saved-groups-title = Se tu sieris un grup di schedis, tu puedis tornâ a vierzilu achì, in ogni moment.
 tab-groups-onboarding-dismiss = Va ben
 
 ## Multi Profiles feature onboarding messages

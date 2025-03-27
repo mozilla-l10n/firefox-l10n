@@ -22,7 +22,8 @@ safeb-palm-see-details-label = Nen kore ki kore
 safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> kimiyo ripot <a data-l10n-name='error_desc_link'>ni obedo kakube me bwola</a>. Itwero <a data-l10n-name='report_detection'>miyo ripot pi peko ma ononge</a> onyo <a data-l10n-name='ignore_warning_link'>kwero ciko man</a> ka i cito i kakube man ma pe ber ni.
 safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> kimiyo ripot <a data-l10n-name='error_desc_link'>ni obedo kakube me bwola</a>. Itwero <a data-l10n-name='report_detection'>miyo ripot pi peko ma ononge</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-phishing-page-learn-more = Nong ngec mapol ikom kakube me bwola ki bwola i <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Nong ngec mapol ikom Gwokke pa { -brand-short-name } ikom bwola ki purugram maraco i <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
@@ -30,7 +31,8 @@ safeb-blocked-phishing-page-learn-more = Nong ngec mapol ikom kakube me bwola ki
 ##  $sitename (string) - Domain name for the blocked page
 
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 
 ## Variables
@@ -39,7 +41,8 @@ safeb-blocked-phishing-page-learn-more = Nong ngec mapol ikom kakube me bwola ki
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> kimiyo ripot <a data-l10n-name='error_desc_link'>ni tye ki purugram maraco</a>. Itwero <a data-l10n-name='ignore_warning_link'>kwero ciko man</a> ka i cito i kakube man ma pe ber ni.
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> kimiyo ripot <a data-l10n-name='error_desc_link'>ni tye ki purugram maraco</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-unwanted-page-learn-more = Nong ngec mapol ikom purugram maraco ki mape kimito i <a data-l10n-name='learn_more_link'>Cik ikom Purugram mape kimito</a>. Nong ngec mapol ikom Gwokke pa { -brand-short-name } ikom bwola ki purugram maraco i <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
@@ -49,7 +52,8 @@ safeb-blocked-unwanted-page-learn-more = Nong ngec mapol ikom purugram maraco ki
 safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> kimiyo ripot <a data-l10n-name='error_desc_link'>ni tye ki purugram ma twero bedo rac</a>. Itwero <a data-l10n-name='ignore_warning_link'>kwero ciko man</a> ka i cito i kakube man ma pe ber ni.
 safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> kimiyo ripot <a data-l10n-name='error_desc_link'>ni tye ki purugram ma twero bedo rac</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-harmful-page-learn-more = Nong ngec mapol ikom Gwokke pa { -brand-short-name } ikom bwola ki purugram maraco i <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 safeb-palm-notdeceptive =

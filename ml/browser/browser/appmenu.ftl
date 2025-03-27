@@ -274,7 +274,6 @@ appmenu-other-protection-header = { -vendor-short-name } നിന്നുള�
 
 ## Profiles panel
 
-appmenu-profiles = രൂപരേഖകൾ
 appmenu-other-profiles = മറ്റു് രൂപരേഖകൾ
 appmenu-manage-profiles =
     .label = രൂപരേഖകൾ കൈകാര്യം ചെയ്യുക

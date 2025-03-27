@@ -508,9 +508,6 @@ newtab-section-unblock-button = Blockera inte
 
 ## Confirmation modal for blocking a section
 
-newtab-section-confirm-block-section-p1 = Är du säker på att du vill blockera denna sektion?
-newtab-section-confirm-block-section-p2 = Blockerad sektion kommer inte längre att visas i ditt flöde.
-newtab-section-block-section-button = Blockera denna sektion
 newtab-section-cancel-button = Inte nu
 newtab-section-confirm-block-topic-p1 = Är du säker på att du vill blockera det här ämnet?
 newtab-section-confirm-block-topic-p2 = Blockerade ämnen kommer inte längre att visas i ditt flöde.
@@ -524,10 +521,6 @@ newtab-section-mangage-topics-title = Ämnen
 newtab-section-manage-topics-button-v2 =
     .label = Hantera ämnen
 newtab-section-mangage-topics-followed-topics = Följd
-newtab-section-mangage-topics-button =
-    .label = Följda och blockerade ämnen
-newtab-section-mangage-topics-followed-topics-subtitle = Följda ämnen
 newtab-section-mangage-topics-followed-topics-empty-state = Du har inte följt några ämnen än.
 newtab-section-mangage-topics-blocked-topics = Blockerad
-newtab-section-mangage-topics-blocked-topics-subtitle = Blockerade ämnen
 newtab-section-mangage-topics-blocked-topics-empty-state = Du har inte blockerat några ämnen än.

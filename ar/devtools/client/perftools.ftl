@@ -53,6 +53,9 @@ perftools-button-restart = أعِد التشغيل
 perftools-button-remove-directory = أزِل المحدد
 perftools-button-edit-settings = عدّل الإعدادات…
 
+## More actions menu
+
+
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
 

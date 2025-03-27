@@ -62,6 +62,9 @@ perftools-button-add-directory = Shtoni një drejtori
 perftools-button-remove-directory = Hiq të përzgjedhurën
 perftools-button-edit-settings = Përpunoni Rregullime…
 
+## More actions menu
+
+
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
 perftools-thread-gecko-main =

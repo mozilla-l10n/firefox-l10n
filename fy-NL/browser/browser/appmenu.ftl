@@ -288,7 +288,6 @@ appmenu-other-protection-header = Probearje oar beskermingsark fan { -vendor-sho
 
 ## Profiles panel
 
-appmenu-profiles = Profilen
 appmenu-other-profiles = Oare profilen
 appmenu-manage-profiles =
     .label = Profilen beheare

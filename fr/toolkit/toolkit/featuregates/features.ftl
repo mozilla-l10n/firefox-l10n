@@ -56,4 +56,3 @@ experimental-features-group-webpage-display =
     .label = Affichage des pages web
 experimental-features-group-customize-browsing =
     .label = Personnalisez votre navigation
-experimental-features-group-customize-browsing-description = Si vous essayez ces fonctionnalités, <a data-l10n-name="connect">donnez votre avis sur Connect</a>

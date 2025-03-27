@@ -450,7 +450,6 @@ tab-groups-onboarding-create-group-no-alltabs-button-title = Temukan grup Anda d
 tab-groups-onboarding-saved-groups-title-2 = Saat Anda menutup grup tab, Anda dapat membukanya kembali di sini kapan saja.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Temukan grup tertutup Anda dengan mencarinya di bilah alamat.
 tab-groups-onboarding-session-restore-title = Buka kembali grup tab Anda di sini kapan saja.
-tab-groups-onboarding-saved-groups-title = Jika Anda menutup grup tab, Anda dapat membukanya kembali di sini kapan saja.
 tab-groups-onboarding-dismiss = Oke
 
 ## Multi Profiles feature onboarding messages

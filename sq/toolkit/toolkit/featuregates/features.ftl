@@ -53,4 +53,3 @@ experimental-features-group-webpage-display =
     .label = Shfaqje faqeje Web
 experimental-features-group-customize-browsing =
     .label = Përshtatni shfletimin tuaj
-experimental-features-group-customize-browsing-description = Nëse i provoni këto veçori, <a data-l10n-name="connect">ndani me të tjerët mendimet tuaja në Connect</a>

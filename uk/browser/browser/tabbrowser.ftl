@@ -232,10 +232,6 @@ tabbrowser-manager-closed-tab-group =
 tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } – поточне вікно
-# "Show more" is for showing all open groups from other windows, as well as saved groups. Initially,
-# we only show up to six of these groups.
-tabbrowser-manager-tab-groups-show-more =
-    .label = Показати більше
 
 ## Tab Groups
 
@@ -271,7 +267,6 @@ tab-group-editor-color-selector2-red = Червоний
 #  $tabGroupName (String): The name of the tab group. Defaults to the value
 #                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } – група вкладок
-tab-group-menu-header = Групи вкладок
 tab-context-unnamed-group =
     .label = Група без назви
 tab-group-name-default = Група без назви

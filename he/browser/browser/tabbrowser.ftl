@@ -208,10 +208,6 @@ tabbrowser-manager-closed-tab-group =
 tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = ‏{ $tabGroupName } - חלון נוכחי
-# "Show more" is for showing all open groups from other windows, as well as saved groups. Initially,
-# we only show up to six of these groups.
-tabbrowser-manager-tab-groups-show-more =
-    .label = להציג יותר
 
 ## Tab Groups
 
@@ -247,7 +243,6 @@ tab-group-editor-color-selector2-red = אדום
 #  $tabGroupName (String): The name of the tab group. Defaults to the value
 #                          of tab-group-name-default.
 tab-group-description = ‏{ $tabGroupName } - קבוצת לשוניות
-tab-group-menu-header = קבוצות לשוניות
 tab-context-unnamed-group =
     .label = קבוצה ללא שם
 tab-group-name-default = קבוצה ללא שם

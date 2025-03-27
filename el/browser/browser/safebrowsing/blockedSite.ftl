@@ -22,7 +22,8 @@ safeb-palm-see-details-label = Δείτε λεπτομέρειες
 safeb-blocked-phishing-page-error-desc-override = Το <span data-l10n-name='sitename'>{ $sitename }</span> έχει <a data-l10n-name='error_desc_link'>αναφερθεί ως παραπλανητικός ιστότοπος</a>. Μπορείτε να <a data-l10n-name='report_detection'>αναφέρετε το πρόβλημα</a> ή να <a data-l10n-name='ignore_warning_link'>αγνοήσετε τον κίνδυνο</a> και να συνεχίσετε σε αυτόν τον επισφαλή ιστότοπο.
 safeb-blocked-phishing-page-error-desc-no-override = Το <span data-l10n-name='sitename'>{ $sitename }</span> έχει <a data-l10n-name='error_desc_link'>αναφερθεί ως παραπλανητικός ιστότοπος</a>. Μπορείτε να <a data-l10n-name='report_detection'>αναφέρετε το πρόβλημα</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-phishing-page-learn-more = Μάθετε περισσότερα σχετικά με τους παραπλανητικού ιστοτόπους και το ηλεκτρονικό ψάρεμα στο <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Μάθετε περισσότερα σχετικά με την προστασία από ηλεκτρονικό ψάρεμα και κακόβουλο λογισμικό του { -brand-short-name } στο <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
@@ -32,7 +33,8 @@ safeb-blocked-phishing-page-learn-more = Μάθετε περισσότερα σ�
 safeb-blocked-malware-page-error-desc-override-sumo = Το <span data-l10n-name='sitename'>{ $sitename }</span> έχει <a data-l10n-name='error_desc_link'>αναφερθεί ότι περιέχει κακόβουλο λογισμικό</a>. Μπορείτε να <a data-l10n-name='ignore_warning_link'>αγνοήσετε τον κίνδυνο</a> και να συνεχίσετε σε αυτόν τον επισφαλή ιστότοπο.
 safeb-blocked-malware-page-error-desc-no-override-sumo = Το <span data-l10n-name='sitename'>{ $sitename }</span> έχει <a data-l10n-name='error_desc_link'>αναφερθεί ότι περιέχει κακόβουλο λογισμικό</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-malware-page-learn-more-sumo = Μάθετε περισσότερα σχετικά με την προστασία από ηλεκτρονικό ψάρεμα και κακόβουλο λογισμικό του { -brand-short-name } στο <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
@@ -42,7 +44,8 @@ safeb-blocked-malware-page-learn-more-sumo = Μάθετε περισσότερα
 safeb-blocked-unwanted-page-error-desc-override = Το <span data-l10n-name='sitename'>{ $sitename }</span> έχει <a data-l10n-name='error_desc_link'>αναφερθεί ότι περιέχει επιβλαβές λογισμικό</a>. Μπορείτε να <a data-l10n-name='ignore_warning_link'>αγνοήσετε τον κίνδυνο</a> και να συνεχίσετε σε αυτόν τον επισφαλή ιστότοπο.
 safeb-blocked-unwanted-page-error-desc-no-override = Το <span data-l10n-name='sitename'>{ $sitename }</span> έχει <a data-l10n-name='error_desc_link'>αναφερθεί ότι περιέχει επιβλαβές λογισμικό</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-unwanted-page-learn-more = Μάθετε περισσότερα σχετικά με το επιβλαβές και ανεπιθύμητο λογισμικό στην <a data-l10n-name='learn_more_link'>Πολιτική ανεπιθύμητου λογισμικού</a>. Μάθετε περισσότερα σχετικά με την προστασία από ηλεκτρονικό ψάρεμα και κακόβουλο λογισμικό του { -brand-short-name } στο <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
@@ -52,7 +55,8 @@ safeb-blocked-unwanted-page-learn-more = Μάθετε περισσότερα σ�
 safeb-blocked-harmful-page-error-desc-override = Το <span data-l10n-name='sitename'>{ $sitename }</span> έχει <a data-l10n-name='error_desc_link'>αναφερθεί ότι περιέχει μια δυνητικά επιβλαβή εφαρμογή</a>. Μπορείτε να <a data-l10n-name='ignore_warning_link'>αγνοήσετε τον κίνδυνο</a> και να μεταβείτε σε αυτόν τον επισφαλή ιστότοπο.
 safeb-blocked-harmful-page-error-desc-no-override = Το <span data-l10n-name='sitename'>{ $sitename }</span> έχει <a data-l10n-name='error_desc_link'>αναφερθεί ότι περιέχει πιθανώς επιβλαβή εφαρμογή</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-harmful-page-learn-more = Μάθετε περισσότερα σχετικά με την προστασία από ηλεκτρονικό ψάρεμα και κακόβουλο λογισμικό του { -brand-short-name } στο <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 safeb-palm-notdeceptive =

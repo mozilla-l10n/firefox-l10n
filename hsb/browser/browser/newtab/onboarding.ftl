@@ -451,7 +451,6 @@ tab-groups-onboarding-create-group-no-alltabs-button-title = Pytajće za swojimi
 tab-groups-onboarding-saved-groups-title-2 = Hdyž skupinu rajtarkow začinjeće, móžeće ju tu kóždy čas zaso wočinić.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Pytajće za swojimi začinjenymi skupinami, zo byšće je w adresowym polu namakał.
 tab-groups-onboarding-session-restore-title = Wočińće zaso swoje skupiny rajtarkow tu kóždy čas.
-tab-groups-onboarding-saved-groups-title = Jeli skupinu rajtarkow začinjeće, móžeće ju tu kóždy čas zaso wočinić.
 tab-groups-onboarding-dismiss = W porjadku
 
 ## Multi Profiles feature onboarding messages

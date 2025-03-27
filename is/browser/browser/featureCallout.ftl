@@ -54,12 +54,6 @@ fx-view-discoverability-secondary-button-label = Afgreiða
 ## Split Dismiss Button Labels
 
 # Blocks the message from showing again
-split-dismiss-button-dont-show-option-label = Ekki birta þessi meðmæli aftur
-# Dismisses message and reduces frequency of message
-split-dismiss-button-show-fewer-option-label = Birta færri meðmæli
-# Opens about:preferences#general-cfrfeatures
-split-dismiss-button-manage-settings-option-label = Sýsla með stillingar
-# Blocks the message from showing again
 split-dismiss-button-dont-show-option =
     .label = Ekki birta þessi meðmæli aftur
 # Dismisses message and reduces frequency of message
@@ -138,6 +132,6 @@ actions-callout-title = Ljúktu við algeng verk eða opnaðu grunnstillingar
 # These example text inputs correlate to the the following strings
 # (either matching the whole string, or the first word of the string).
 # "print" - quickactions-cmd-print
-# "clear" - quickactions-cmd-clearhistory
+# "clear" - quickactions-cmd-clearrecenthistory
 # When localizing, ensure the translations match to ensure the action button appears as expected.
 actions-callout-subtitle = Prófaðu að skrifa inn aðgerð eins og „print“ til að prenta síðu eða „clear“ til að hreinsa ferilinn þinn.

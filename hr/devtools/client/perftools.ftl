@@ -60,6 +60,9 @@ perftools-button-add-directory = Dodaj mapu
 perftools-button-remove-directory = Ukloni odabrano
 perftools-button-edit-settings = Uredi postavke…
 
+## More actions menu
+
+
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
 perftools-thread-compositor =

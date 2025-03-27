@@ -720,7 +720,6 @@ urlbar-searchmode-exit-button =
 urlbar-searchmode-popup-description = Këtë herë kërko me:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Parametra Kërkimi
-urlbar-searchmode-popup-search-settings = Parametra Kërkimi
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

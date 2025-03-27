@@ -7,11 +7,11 @@
 
 appmenuitem-banner-update-downloading =
     .label =
-        Преузимање ажурирања { -brand-shorter-name.gender ->
-            [masculine] { -brand-shorter-name(case: "gen") }
-            [feminine] { -brand-shorter-name(case: "gen") }
-            [neuter] { -brand-shorter-name(case: "gen") }
-           *[other] програма { -brand-shorter-name }
+        { -brand-shorter-name.gender ->
+            [masculine] Преузимање ажурирања { -brand-shorter-name(case: "gen") }
+            [feminine] Преузимање ажурирања { -brand-shorter-name(case: "gen") }
+            [neuter] Преузимање ажурирања { -brand-shorter-name(case: "gen") }
+           *[other] Преузимање ажурирања програма { -brand-shorter-name }
         }
 appmenuitem-banner-update-available =
     .label = Доступно је ажурирање – преузмите га
@@ -228,19 +228,19 @@ appmenu-search-history =
 
 appmenu-help-header =
     .title =
-        Помоћ за { -brand-shorter-name.gender ->
-            [masculine] { -brand-shorter-name(case: "acc") }
-            [feminine] { -brand-shorter-name(case: "acc") }
-            [neuter] { -brand-shorter-name(case: "acc") }
-           *[other] програм { -brand-shorter-name }
+        { -brand-shorter-name.gender ->
+            [masculine] Помоћ за { -brand-shorter-name(case: "acc") }
+            [feminine] Помоћ за { -brand-shorter-name(case: "acc") }
+            [neuter] Помоћ за { -brand-shorter-name(case: "acc") }
+           *[other] Помоћ за програм { -brand-shorter-name }
         }
 appmenu-about =
     .label =
-        О { -brand-shorter-name.gender ->
-            [masculine] { -brand-shorter-name(case: "loc") }
-            [feminine] { -brand-shorter-name(case: "loc") }
-            [neuter] { -brand-shorter-name(case: "loc") }
-           *[other] програму { -brand-shorter-name }
+        { -brand-shorter-name.gender ->
+            [masculine] О { -brand-shorter-name(case: "loc") }
+            [feminine] О { -brand-shorter-name(case: "loc") }
+            [neuter] О { -brand-shorter-name(case: "loc") }
+           *[other] О програму { -brand-shorter-name }
         }
     .accesskey = О
 appmenu-get-help =
@@ -299,7 +299,6 @@ appmenuitem-vpn-description = Заштитите ваше радње на мре
 
 ## Profiles panel
 
-appmenu-profiles = Профили
 appmenu-other-profiles = Други профили
 appmenu-manage-profiles =
     .label = Управљај профилима

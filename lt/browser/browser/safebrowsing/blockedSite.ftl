@@ -22,7 +22,8 @@ safeb-palm-see-details-label = Išsamesnė informacija
 safeb-blocked-phishing-page-error-desc-override = Yra pranešta, jog <span data-l10n-name='sitename'>{ $sitename }</span> svetainė <a data-l10n-name='error_desc_link'>yra kenkėjiška</a>. Jūs galite <a data-l10n-name='report_detection'>pranešti apie aptikimo klaidą</a> arba <a data-l10n-name='ignore_warning_link'>nepaisyti įspėjimo</a> ir aplankyti šią nesaugią svetainę.
 safeb-blocked-phishing-page-error-desc-no-override = Yra pranešta, jog <span data-l10n-name='sitename'>{ $sitename }</span> svetainė <a data-l10n-name='error_desc_link'>yra apgaulinga</a>. Jūs galite <a data-l10n-name='report_detection'>pranešti apie aptikimo klaidą</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-phishing-page-learn-more = Sužinokite daugiau apie apgaulingas svetaines ir sukčiavimą apsilankę <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Sužinokite daugiau apie „{ -brand-short-name }“ apsaugą nuo sukčiavimo ir kenkėjiškų programų apsilankę <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
@@ -32,7 +33,8 @@ safeb-blocked-phishing-page-learn-more = Sužinokite daugiau apie apgaulingas sv
 safeb-blocked-malware-page-error-desc-override-sumo = Yra pranešta, jog svetainėje <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>yra kenkėjiškos programinės įrangos</a>. Jūs galite <a data-l10n-name='ignore_warning_link'>nepaisyti įspėjimo</a> ir aplankyti šią nesaugią svetainę.
 safeb-blocked-malware-page-error-desc-no-override-sumo = Yra pranešta, jog svetainėje <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>yra kenkėjiškos programinės įrangos</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-malware-page-learn-more-sumo = Sužinokite daugiau apie „{ -brand-short-name }“ apsaugą nuo sukčiavimo ir kenkėjiškų programų apsilankę <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
@@ -42,7 +44,8 @@ safeb-blocked-malware-page-learn-more-sumo = Sužinokite daugiau apie „{ -bran
 safeb-blocked-unwanted-page-error-desc-override = Yra pranešta, jog <span data-l10n-name='sitename'>{ $sitename }</span> svetainė <a data-l10n-name='error_desc_link'>yra kenkėjiška</a>. Jūs galite <a data-l10n-name='ignore_warning_link'>nepaisyti įspėjimo</a> ir aplankyti šią nesaugią svetainę.
 safeb-blocked-unwanted-page-error-desc-no-override = Yra pranešta, jog <span data-l10n-name='sitename'>{ $sitename }</span> svetainė <a data-l10n-name='error_desc_link'>yra kenkėjiška</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-unwanted-page-learn-more = Sužinokite daugiau apie kenkėjišką ir nepageidaujamą programinę įrangą <a data-l10n-name='learn_more_link'>nepageidaujamos programinės įrangos nuostatuose</a>. Sužinokite daugiau apie „{ -brand-short-name }“ apsaugą nuo sukčiavimo ir kenkėjiškų programų apsilankę <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
@@ -52,7 +55,8 @@ safeb-blocked-unwanted-page-learn-more = Sužinokite daugiau apie kenkėjišką 
 safeb-blocked-harmful-page-error-desc-override = Yra pranešta, jog <span data-l10n-name='sitename'>{ $sitename }</span> svetainė <a data-l10n-name='error_desc_link'>yra kenkėjiška</a>. Galite <a data-l10n-name='ignore_warning_link'>nepaisyti įspėjimo</a> ir aplankyti šią nesaugią svetainę.
 safeb-blocked-harmful-page-error-desc-no-override = Yra pranešta, jog <span data-l10n-name='sitename'>{ $sitename }</span> svetainė <a data-l10n-name='error_desc_link'>yra kenkėjiška</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-harmful-page-learn-more = Sužinokite daugiau apie „{ -brand-short-name }“ apsaugą nuo sukčiavimo ir kenkėjiškų programų apsilankę <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 safeb-palm-notdeceptive =

@@ -711,7 +711,6 @@ urlbar-searchmode-exit-button =
 urlbar-searchmode-popup-description = Осы рет, келесімен іздеу:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Іздеу баптаулары
-urlbar-searchmode-popup-search-settings = Іздеу баптаулары
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

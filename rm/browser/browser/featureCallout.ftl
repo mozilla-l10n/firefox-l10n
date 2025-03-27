@@ -54,12 +54,6 @@ fx-view-discoverability-secondary-button-label = Serrar
 ## Split Dismiss Button Labels
 
 # Blocks the message from showing again
-split-dismiss-button-dont-show-option-label = Betg pli mussar questa recumandaziun
-# Dismisses message and reduces frequency of message
-split-dismiss-button-show-fewer-option-label = Mussar pli paucas recumandaziuns
-# Opens about:preferences#general-cfrfeatures
-split-dismiss-button-manage-settings-option-label = Administrar ils parameters
-# Blocks the message from showing again
 split-dismiss-button-dont-show-option =
     .label = Betg pli mussar questa recumandaziun
 # Dismisses message and reduces frequency of message
@@ -141,6 +135,6 @@ actions-callout-title = Exequescha las incumbensas las pli frequentas u acceda a
 # These example text inputs correlate to the the following strings
 # (either matching the whole string, or the first word of the string).
 # "print" - quickactions-cmd-print
-# "clear" - quickactions-cmd-clearhistory
+# "clear" - quickactions-cmd-clearrecenthistory
 # When localizing, ensure the translations match to ensure the action button appears as expected.
 actions-callout-subtitle = Emprova da tippar in’acziun sco «stampa» per stampar ina pagina u «stizzar» per stizzar la cronologia.

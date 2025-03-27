@@ -731,7 +731,6 @@ urlbar-searchmode-exit-button =
 urlbar-searchmode-popup-description = 這次使用下列搜尋引擎搜尋：
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = 搜尋設定
-urlbar-searchmode-popup-search-settings = 搜尋設定
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

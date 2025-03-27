@@ -4,7 +4,6 @@
 
 edit-profile-page-theme-header-2 =
     .label = అలంకారం
-edit-profile-page-theme-header = అలంకారం
 edit-profile-page-delete-button =
     .label = తొలగించు
 

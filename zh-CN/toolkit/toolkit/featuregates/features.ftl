@@ -56,4 +56,3 @@ experimental-features-group-webpage-display =
     .label = 网页显示
 experimental-features-group-customize-browsing =
     .label = 定制浏览体验
-experimental-features-group-customize-browsing-description = 如果您尝试了这些功能，欢迎<a data-l10n-name="connect">在 Connect 上分享自己的想法</a>

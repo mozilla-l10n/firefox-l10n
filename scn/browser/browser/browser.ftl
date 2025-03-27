@@ -318,7 +318,6 @@ urlbar-searchmode-bookmarks =
 urlbar-searchmode-popup-description = Sta vota riscedi cu:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Mpustazzioni di risciduta
-urlbar-searchmode-popup-search-settings = Mpustazzioni di risciduta
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

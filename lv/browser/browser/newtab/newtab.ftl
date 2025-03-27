@@ -477,9 +477,6 @@ newtab-section-unfollow-button = Pārtraukt sekošanu
 
 ## Confirmation modal for blocking a section
 
-newtab-section-confirm-block-section-p1 = Vai tiešām vēlaties bloķēt šo sadaļu?
-newtab-section-confirm-block-section-p2 = Bloķētā sadaļa vairs neparādīsies jūsu plūsmā.
-newtab-section-block-section-button = Bloķēt šo sadaļu
 newtab-section-cancel-button = Ne tagad
 
 ## Panel in the Customize menu section to manage followed and blocked topics

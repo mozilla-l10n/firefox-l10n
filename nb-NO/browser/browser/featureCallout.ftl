@@ -54,12 +54,6 @@ fx-view-discoverability-secondary-button-label = Avvis
 ## Split Dismiss Button Labels
 
 # Blocks the message from showing again
-split-dismiss-button-dont-show-option-label = Ikke vis denne anbefalingen igjen
-# Dismisses message and reduces frequency of message
-split-dismiss-button-show-fewer-option-label = Vis færre anbefalinger
-# Opens about:preferences#general-cfrfeatures
-split-dismiss-button-manage-settings-option-label = Behandle innstillinger
-# Blocks the message from showing again
 split-dismiss-button-dont-show-option =
     .label = Ikke vis denne anbefalingen igjen
 # Dismisses message and reduces frequency of message
@@ -137,6 +131,6 @@ actions-callout-title = Fullfør vanlige oppgaver eller få tilgang til grunnleg
 # These example text inputs correlate to the the following strings
 # (either matching the whole string, or the first word of the string).
 # "print" - quickactions-cmd-print
-# "clear" - quickactions-cmd-clearhistory
+# "clear" - quickactions-cmd-clearrecenthistory
 # When localizing, ensure the translations match to ensure the action button appears as expected.
 actions-callout-subtitle = Prøv å skrive en handling som «skriv ut» for å skrive ut en side, eller «tøm» for å fjerne historikken.

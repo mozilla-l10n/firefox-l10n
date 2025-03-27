@@ -731,7 +731,6 @@ urlbar-searchmode-exit-button =
 urlbar-searchmode-popup-description = Custa borta chirca cun:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Cunfiguratzione de chirca
-urlbar-searchmode-popup-search-settings = Cunfiguratzione de chirca
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

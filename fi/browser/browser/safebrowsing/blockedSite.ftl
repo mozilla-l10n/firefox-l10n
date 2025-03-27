@@ -22,7 +22,8 @@ safeb-palm-see-details-label = Näytä yksityiskohdat
 safeb-blocked-phishing-page-error-desc-override = Sivusto <span data-l10n-name='sitename'>{ $sitename }</span> on <a data-l10n-name='error_desc_link'>ilmoitettu petolliseksi</a>. Voit <a data-l10n-name='report_detection'>ilmoittaa tunnistusongelmasta</a> tai <a data-l10n-name='ignore_warning_link'>jättää riskin huomiotta</a> ja siirtyä turvattomalle sivustolle.
 safeb-blocked-phishing-page-error-desc-no-override = Sivusto <span data-l10n-name='sitename'>{ $sitename }</span> on <a data-l10n-name='error_desc_link'>ilmoitettu petolliseksi</a>. Voit <a data-l10n-name='report_detection'>ilmoittaa tunnistusongelmasta</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-phishing-page-learn-more = Lue lisää petollisista sivustoista ja verkkourkinnasta osoitteessa <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Lue lisää { -brand-short-name }in verkkourkinnalta ja haittaohjelmilta suojauksesta osoitteessa <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
@@ -32,7 +33,8 @@ safeb-blocked-phishing-page-learn-more = Lue lisää petollisista sivustoista ja
 safeb-blocked-malware-page-error-desc-override-sumo = Sivuston <span data-l10n-name='sitename'>{ $sitename }</span> on <a data-l10n-name='error_desc_link'>ilmoitettu sisältävän haittaohjelmia</a>. Voit <a data-l10n-name='ignore_warning_link'>jättää riskin huomiotta</a> ja siirtyä turvattomalle sivustolle.
 safeb-blocked-malware-page-error-desc-no-override-sumo = Sivuston <span data-l10n-name='sitename'>{ $sitename }</span> on <a data-l10n-name='error_desc_link'>ilmoitettu sisältävän haittaohjelmia</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-malware-page-learn-more-sumo = Lue lisää { -brand-short-name }in verkkourkinnalta ja haittaohjelmilta suojauksesta <a data-l10n-name='firefox_support'>support.mozilla.orgissa</a>.
 
@@ -42,7 +44,8 @@ safeb-blocked-malware-page-learn-more-sumo = Lue lisää { -brand-short-name }in
 safeb-blocked-unwanted-page-error-desc-override = Sivustolla <span data-l10n-name='sitename'>{ $sitename }</span> on <a data-l10n-name='error_desc_link'>ilmoitettu olevan haitallisia ohjelmia</a>. Voit <a data-l10n-name='ignore_warning_link'>jättää riskin huomiotta</a> ja siirtyä turvattomalle sivustolle.
 safeb-blocked-unwanted-page-error-desc-no-override = Sivustolla <span data-l10n-name='sitename'>{ $sitename }</span> on <a data-l10n-name='error_desc_link'>ilmoitettu olevan haitallisia ohjelmia</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-unwanted-page-learn-more = Lue lisää haitallisista ja ei-halutuista ohjelmista (englanniksi) <a data-l10n-name='learn_more_link'>Unwanted Software Policy</a> -tekstistä. Lue lisää { -brand-short-name }in verkkourkinnalta ja haittaohjelmilta suojauksesta osoitteessa <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
@@ -52,7 +55,8 @@ safeb-blocked-unwanted-page-learn-more = Lue lisää haitallisista ja ei-halutui
 safeb-blocked-harmful-page-error-desc-override = Sivuston <span data-l10n-name='sitename'>{ $sitename }</span> on <a data-l10n-name='error_desc_link'>ilmoitettu sisältävän mahdollisesti haitallisen ohjelman</a>. Voit <a data-l10n-name='ignore_warning_link'>jättää riskin huomiotta</a> ja siirtyä turvattomalle sivustolle.
 safeb-blocked-harmful-page-error-desc-no-override = Sivuston <span data-l10n-name='sitename'>{ $sitename }</span> on <a data-l10n-name='error_desc_link'>ilmoitettu sisältävän mahdollisesti haitallisen ohjelman</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-harmful-page-learn-more = Lue lisää { -brand-short-name }in verkkourkinnalta ja haittaohjelmilta suojauksesta <a data-l10n-name='firefox_support'>support.mozilla.orgissa</a>.
 safeb-palm-notdeceptive =

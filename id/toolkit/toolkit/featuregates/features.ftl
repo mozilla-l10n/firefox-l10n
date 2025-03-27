@@ -56,4 +56,3 @@ experimental-features-group-webpage-display =
     .label = Tampilan Laman Web
 experimental-features-group-customize-browsing =
     .label = Ubahsuai penjelajahan Anda
-experimental-features-group-customize-browsing-description = Jika Anda mencoba fitur ini, <a data-l10n-name="connect">bagikan pendapat Anda tentang Connect</a>

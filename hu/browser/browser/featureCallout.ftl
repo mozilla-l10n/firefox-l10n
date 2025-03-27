@@ -54,12 +54,6 @@ fx-view-discoverability-secondary-button-label = Eltüntetés
 ## Split Dismiss Button Labels
 
 # Blocks the message from showing again
-split-dismiss-button-dont-show-option-label = Ne jelenítse meg újra ezt a javaslatot
-# Dismisses message and reduces frequency of message
-split-dismiss-button-show-fewer-option-label = Kevesebb javaslat megjelenítése
-# Opens about:preferences#general-cfrfeatures
-split-dismiss-button-manage-settings-option-label = Beállítások kezelése
-# Blocks the message from showing again
 split-dismiss-button-dont-show-option =
     .label = Ne jelenítse meg újra ezt a javaslatot
 # Dismisses message and reduces frequency of message
@@ -141,6 +135,6 @@ actions-callout-title = Gyakori feladatok elvégzése vagy alapvető beállítá
 # These example text inputs correlate to the the following strings
 # (either matching the whole string, or the first word of the string).
 # "print" - quickactions-cmd-print
-# "clear" - quickactions-cmd-clearhistory
+# "clear" - quickactions-cmd-clearrecenthistory
 # When localizing, ensure the translations match to ensure the action button appears as expected.
 actions-callout-subtitle = Próbáljon beírni egy műveletet, mint a „nyomtatás” az oldal kinyomtatásához, vagy a „törlés” az előzmények törléséhez.

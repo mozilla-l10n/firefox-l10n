@@ -208,10 +208,6 @@ tabbrowser-manager-closed-tab-group =
 tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — Nuna fenestro
-# "Show more" is for showing all open groups from other windows, as well as saved groups. Initially,
-# we only show up to six of these groups.
-tabbrowser-manager-tab-groups-show-more =
-    .label = Montri pli
 
 ## Tab Groups
 
@@ -247,7 +243,6 @@ tab-group-editor-color-selector2-red = Ruĝa
 #  $tabGroupName (String): The name of the tab group. Defaults to the value
 #                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — Grupo de langetoj
-tab-group-menu-header = Grupoj de langetoj
 tab-context-unnamed-group =
     .label = Grupo sen nomo
 tab-group-name-default = Grupo sen nomo

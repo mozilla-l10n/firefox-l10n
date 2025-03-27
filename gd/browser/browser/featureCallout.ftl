@@ -54,12 +54,6 @@ fx-view-discoverability-secondary-button-label = Leig seachad
 ## Split Dismiss Button Labels
 
 # Blocks the message from showing again
-split-dismiss-button-dont-show-option-label = Na seall am moladh seo a-rithist
-# Dismisses message and reduces frequency of message
-split-dismiss-button-show-fewer-option-label = Seall nas lugha de mholaidhean
-# Opens about:preferences#general-cfrfeatures
-split-dismiss-button-manage-settings-option-label = Stiùirich na roghainnean
-# Blocks the message from showing again
 split-dismiss-button-dont-show-option =
     .label = Na seall am moladh seo a-rithist
 # Dismisses message and reduces frequency of message

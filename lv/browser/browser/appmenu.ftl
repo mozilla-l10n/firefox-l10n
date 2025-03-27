@@ -288,7 +288,6 @@ appmenu-other-protection-header = Izmēģiniet citus aizsardzības rīkus no { -
 
 ## Profiles panel
 
-appmenu-profiles = Profili
 appmenu-other-profiles = Citi profili
 appmenu-manage-profiles =
     .label = Pārvaldīt profilus

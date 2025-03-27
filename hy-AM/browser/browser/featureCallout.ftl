@@ -52,12 +52,6 @@ fx-view-discoverability-secondary-button-label = Բաց թողնել
 ## Split Dismiss Button Labels
 
 # Blocks the message from showing again
-split-dismiss-button-dont-show-option-label = Այլևս չցուցադրել այս երաշխավորությունը
-# Dismisses message and reduces frequency of message
-split-dismiss-button-show-fewer-option-label = Ցուցադրել ավելի քիչ երաշխավորություններ
-# Opens about:preferences#general-cfrfeatures
-split-dismiss-button-manage-settings-option-label = Կառավարել կարգավորումները
-# Blocks the message from showing again
 split-dismiss-button-dont-show-option =
     .label = Այլևս չցուցադրել այս երաշխավորությունը
 # Dismisses message and reduces frequency of message

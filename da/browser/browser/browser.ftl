@@ -734,7 +734,6 @@ urlbar-searchmode-exit-button =
 urlbar-searchmode-popup-description = Søg denne gang med:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Søgeindstillinger
-urlbar-searchmode-popup-search-settings = Søgeindstillinger
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

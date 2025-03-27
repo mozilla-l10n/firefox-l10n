@@ -33,6 +33,9 @@ perftools-devtools-settings-label = ക്രമീകരണങ്ങള്‍
 perftools-button-save-settings = ക്രമീകരണങ്ങൾ കരുതിവച്ചിട്ടു് തിരിച്ചു് ചെല്ലുക
 perftools-button-edit-settings = ക്രമീകരണങ്ങൾ തിരുത്തുക…
 
+## More actions menu
+
+
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
 

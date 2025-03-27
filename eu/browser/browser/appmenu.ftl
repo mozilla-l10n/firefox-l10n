@@ -288,7 +288,6 @@ appmenu-other-protection-header = Probatu { -vendor-short-name }(r)en bestelako 
 
 ## Profiles panel
 
-appmenu-profiles = Profilak
 appmenu-other-profiles = Beste profilak
 appmenu-manage-profiles =
     .label = Kudeatu profilak

@@ -53,12 +53,6 @@ fx-view-discoverability-secondary-button-label = فارغ کرو
 ## Split Dismiss Button Labels
 
 # Blocks the message from showing again
-split-dismiss-button-dont-show-option-label = ایہ سفارش دوبارہ نہ ݙکھاؤ
-# Dismisses message and reduces frequency of message
-split-dismiss-button-show-fewer-option-label = تھوڑیاں سفارشاں ݙکھاؤ
-# Opens about:preferences#general-cfrfeatures
-split-dismiss-button-manage-settings-option-label = ترتیباں دا بندوبست کرو
-# Blocks the message from showing again
 split-dismiss-button-dont-show-option =
     .label = ایہ سفارش دوبارہ نہ ݙکھاؤ
 # Dismisses message and reduces frequency of message

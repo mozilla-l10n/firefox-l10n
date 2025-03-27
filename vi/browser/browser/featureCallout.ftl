@@ -54,12 +54,6 @@ fx-view-discoverability-secondary-button-label = Bỏ qua
 ## Split Dismiss Button Labels
 
 # Blocks the message from showing again
-split-dismiss-button-dont-show-option-label = Không hiển thị đề xuất này lần nữa
-# Dismisses message and reduces frequency of message
-split-dismiss-button-show-fewer-option-label = Hiển thị ít đề xuất hơn
-# Opens about:preferences#general-cfrfeatures
-split-dismiss-button-manage-settings-option-label = Quản lý cài đặt
-# Blocks the message from showing again
 split-dismiss-button-dont-show-option =
     .label = Không hiển thị đề xuất này lần nữa
 # Dismisses message and reduces frequency of message
@@ -141,6 +135,6 @@ actions-callout-title = Hoàn thành các tác vụ phổ biến hoặc truy c�
 # These example text inputs correlate to the the following strings
 # (either matching the whole string, or the first word of the string).
 # "print" - quickactions-cmd-print
-# "clear" - quickactions-cmd-clearhistory
+# "clear" - quickactions-cmd-clearrecenthistory
 # When localizing, ensure the translations match to ensure the action button appears as expected.
 actions-callout-subtitle = Thử gõ một hành động như “in” để in một trang, hoặc “xoá” để xoá lịch sử của bạn.

@@ -288,7 +288,6 @@ appmenu-other-protection-header = Emprova era auters utensils da protecziun da {
 
 ## Profiles panel
 
-appmenu-profiles = Profils
 appmenu-other-profiles = Auters profils
 appmenu-manage-profiles =
     .label = Administrar ils profils

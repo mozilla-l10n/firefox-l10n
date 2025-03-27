@@ -507,7 +507,6 @@ urlbar-searchmode-exit-button =
 urlbar-searchmode-popup-description = An uair seo, cuardaigh le:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Socruithe Cuardaigh
-urlbar-searchmode-popup-search-settings = Socruithe Cuardaigh
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

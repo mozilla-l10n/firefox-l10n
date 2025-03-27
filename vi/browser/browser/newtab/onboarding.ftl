@@ -450,7 +450,6 @@ tab-groups-onboarding-create-group-no-alltabs-button-title = Tìm nhóm của b�
 tab-groups-onboarding-saved-groups-title-2 = Khi đóng một nhóm thẻ, bạn có thể mở lại nhóm đó tại đây bất cứ lúc nào.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Tìm các nhóm mà bạn đã đóng bằng cách tìm kiếm chúng trong thanh địa chỉ.
 tab-groups-onboarding-session-restore-title = Mở lại các nhóm thẻ của bạn tại đây bất cứ lúc nào.
-tab-groups-onboarding-saved-groups-title = Nếu bạn đóng một nhóm thẻ, bạn có thể mở lại nó ở đây bất cứ lúc nào.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

@@ -742,7 +742,6 @@ urlbar-searchmode-exit-button =
 urlbar-searchmode-popup-description = Dèan lorg leis na leanas an turas seo:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Roghainnean luirg
-urlbar-searchmode-popup-search-settings = Roghainnean luirg
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

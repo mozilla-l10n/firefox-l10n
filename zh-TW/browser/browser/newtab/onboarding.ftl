@@ -438,7 +438,6 @@ tab-groups-onboarding-create-group-no-alltabs-button-title = 可以在網址列�
 tab-groups-onboarding-saved-groups-title-2 = 關閉分頁群組後，可以隨時在此處重新開啟。
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = 可以在網址列搜尋關閉的分頁群組。
 tab-groups-onboarding-session-restore-title = 可隨時在此處重新開啟您的分頁群組。
-tab-groups-onboarding-saved-groups-title = 關閉分頁群組後，可以隨時在此處重新開啟。
 tab-groups-onboarding-dismiss = 確定
 
 ## Multi Profiles feature onboarding messages

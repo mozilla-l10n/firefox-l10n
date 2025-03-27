@@ -54,12 +54,6 @@ fx-view-discoverability-secondary-button-label = Одбаци
 ## Split Dismiss Button Labels
 
 # Blocks the message from showing again
-split-dismiss-button-dont-show-option-label = Не приказуј више ову препоруку
-# Dismisses message and reduces frequency of message
-split-dismiss-button-show-fewer-option-label = Приказуј мање препорука
-# Opens about:preferences#general-cfrfeatures
-split-dismiss-button-manage-settings-option-label = Управљај подешавањима
-# Blocks the message from showing again
 split-dismiss-button-dont-show-option =
     .label = Не приказуј више ову препоруку
 # Dismisses message and reduces frequency of message

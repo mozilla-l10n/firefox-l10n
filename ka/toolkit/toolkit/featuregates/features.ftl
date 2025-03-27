@@ -56,4 +56,3 @@ experimental-features-group-webpage-display =
     .label = ვებგვერდის ჩვენება
 experimental-features-group-customize-browsing =
     .label = მოხერხებულად მოინახულეთ გვერდები
-experimental-features-group-customize-browsing-description = თუ გამოცადეთ ეს შესაძლებლობები, <a data-l10n-name="connect">გაგვიზიარეთ მოსაზრება Connect-ზე</a>

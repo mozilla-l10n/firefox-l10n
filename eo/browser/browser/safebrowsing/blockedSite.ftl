@@ -22,7 +22,8 @@ safeb-palm-see-details-label = Montri detalojn
 safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> estis <a data-l10n-name='error_desc_link'>denuncita kiel trompan retejon</a>. Vi povas <a data-l10n-name='report_detection'>raporti problemon pri misdetekto</a> aŭ <a data-l10n-name='ignore_warning_link'>ignori la riskon</a> kaj tamen iri al tiu ĉi nesekura retejo.
 safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> estis <a data-l10n-name='error_desc_link'>denuncita kiel trompan retejon</a>. Vi povas <a data-l10n-name='report_detection'>raporti problemon pri misdetekto</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-phishing-page-learn-more = Legu pli pri trompaj retejoj kaj rettrompoj ĉe <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Pli da informo pri la protekto de { -brand-short-name } kontraŭ rettrompoj kaj malutilaj programoj ĉe <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
@@ -32,7 +33,8 @@ safeb-blocked-phishing-page-learn-more = Legu pli pri trompaj retejoj kaj rettro
 safeb-blocked-malware-page-error-desc-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> estis <a data-l10n-name='error_desc_link'>denuncita pro tio ke ĝi enhavas difektan programaron</a>. Vi povas <a data-l10n-name='ignore_warning_link'>ignori la riskon</a> kaj tamen iri al tiu nesekura retejo.
 safeb-blocked-malware-page-error-desc-no-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> estis <a data-l10n-name='error_desc_link'>denuncita pro tio ke ĝi enhavas difektan programaron</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-malware-page-learn-more-sumo = Pli da informo pri la protekto de { -brand-short-name } kontraŭ rettrompoj kaj malicaj programoj ĉe <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
@@ -42,7 +44,8 @@ safeb-blocked-malware-page-learn-more-sumo = Pli da informo pri la protekto de {
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> estis <a data-l10n-name='error_desc_link'>denuncita pro tio ke ĝi enhavas malutilan programaron</a>. Vi povas <a data-l10n-name='ignore_warning_link'>ignori la riskon</a> kaj tamen iri al tiu nesekura retejo.
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> estis <a data-l10n-name='error_desc_link'>denuncita pro tio ke ĝi enhavas malutilan programaron</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-unwanted-page-learn-more = Pli da informo pri malutila kaj nedezirata programaro ĉe <a data-l10n-name='learn_more_link'>politiko pri nedezirata programaro</a>. Pli da informo pri la protekto de { -brand-short-name } kontraŭ rettrompoj kaj malutilaj programoj ĉe <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
@@ -52,7 +55,8 @@ safeb-blocked-unwanted-page-learn-more = Pli da informo pri malutila kaj nedezir
 safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> estis <a data-l10n-name='error_desc_link'>denuncita pro tio ke ĝi enhavas eble malutilan programon</a>. Vi povas <a data-l10n-name='ignore_warning_link'>ignori la riskon</a> kaj tamen iri al tiu ĉi nesekura retejo.
 safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> estis <a data-l10n-name='error_desc_link'>denuncita pro tio ke ĝi havas programon. kiu povus malutili</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-harmful-page-learn-more = Pli da informo pri la protekto de { -brand-short-name } kontraŭ rettrompoj kaj malicaj programoj ĉe <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 safeb-palm-notdeceptive =

@@ -417,8 +417,6 @@ newtab-section-unblock-button = തടയാൻ നിൎത്തുക
 
 ## Confirmation modal for blocking a section
 
-newtab-section-confirm-block-section-p1 = ഈ വിഭാഗം തടയണമെന്നു് താങ്ങൾക്കു് ഉറപ്പാണോ?
-newtab-section-block-section-button = ഈ വിഭാഗം തടയുക
 newtab-section-cancel-button = ഇപ്പോഴല്ല
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
@@ -430,10 +428,6 @@ newtab-section-mangage-topics-title = വിഷയങ്ങൾ
 newtab-section-manage-topics-button-v2 =
     .label = വിഷയങ്ങൾ കൈകാര്യം ചെയ്യുക
 newtab-section-mangage-topics-followed-topics = പിന്തുടൎന്നവ
-newtab-section-mangage-topics-button =
-    .label = പിന്തുടരുന്നയും തടഞ്ഞതും വിഷയങ്ങൾ
-newtab-section-mangage-topics-followed-topics-subtitle = പിന്തുടരുന്ന വിഷയങ്ങൾ
 newtab-section-mangage-topics-followed-topics-empty-state = താങ്ങൾ ഇതുവരെ ഒരു വിഷയവും പിന്തുടൎന്നിട്ടില്ല
 newtab-section-mangage-topics-blocked-topics = തടഞ്ഞവ
-newtab-section-mangage-topics-blocked-topics-subtitle = തടഞ്ഞ വിഷയങ്ങൾ
 newtab-section-mangage-topics-blocked-topics-empty-state = താങ്ങൾ ഇതുവരെ ഒരു വിഷയത്തിനെയും ത‍ടഞ്ഞിട്ടില്ല

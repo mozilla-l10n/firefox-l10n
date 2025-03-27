@@ -49,6 +49,9 @@ perftools-button-add-directory = නාමාවලියක් එක් කර
 perftools-button-remove-directory = තේරූ දෑ ඉවත් කරන්න
 perftools-button-edit-settings = සැකසුම් සංස්කරණය...
 
+## More actions menu
+
+
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
 

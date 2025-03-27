@@ -288,7 +288,6 @@ appmenu-other-protection-header = 試用來自 { -vendor-short-name } 的其他�
 
 ## Profiles panel
 
-appmenu-profiles = 設定檔
 appmenu-other-profiles = 其他設定檔
 appmenu-manage-profiles =
     .label = 管理設定檔

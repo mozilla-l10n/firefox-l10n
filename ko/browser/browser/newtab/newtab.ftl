@@ -507,9 +507,6 @@ newtab-section-unblock-button = 차단 해제
 
 ## Confirmation modal for blocking a section
 
-newtab-section-confirm-block-section-p1 = 정말로 이 섹션을 차단하시겠습니까?
-newtab-section-confirm-block-section-p2 = 차단된 섹션은 더 이상 피드에 나타나지 않습니다.
-newtab-section-block-section-button = 이 섹션 차단
 newtab-section-cancel-button = 나중에
 newtab-section-confirm-block-topic-p1 = 정말로 이 주제를 차단하시겠습니까?
 newtab-section-confirm-block-topic-p2 = 차단된 주제는 더 이상 피드에 나타나지 않습니다.
@@ -523,10 +520,6 @@ newtab-section-mangage-topics-title = 주제
 newtab-section-manage-topics-button-v2 =
     .label = 주제 관리
 newtab-section-mangage-topics-followed-topics = 팔로우됨
-newtab-section-mangage-topics-button =
-    .label = 팔로우 및 차단한 주제
-newtab-section-mangage-topics-followed-topics-subtitle = 팔로우한 주제
 newtab-section-mangage-topics-followed-topics-empty-state = 아직 주제를 팔로우하지 않았습니다.
 newtab-section-mangage-topics-blocked-topics = 차단됨
-newtab-section-mangage-topics-blocked-topics-subtitle = 차단한 주제
 newtab-section-mangage-topics-blocked-topics-empty-state = 아직 주제를 차단하지 않았습니다.

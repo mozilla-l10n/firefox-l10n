@@ -285,7 +285,6 @@ appmenuitem-vpn-description = Zaštitite svoju aktivnost na mreži
 
 ## Profiles panel
 
-appmenu-profiles = Profili
 appmenu-other-profiles = Ostali profili
 appmenu-manage-profiles =
     .label = Upravljaj profilima

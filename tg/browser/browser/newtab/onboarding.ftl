@@ -451,7 +451,6 @@ tab-groups-onboarding-create-group-no-alltabs-button-title = Гурӯҳҳои х
 tab-groups-onboarding-saved-groups-title-2 = Вақте ки шумо гурӯҳи варақаҳоеро мепӯшед, шумо метавонед онҳоро дар ин ҷой дар вақти дилхоҳ аз нав кушоед.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Гурӯҳҳои пӯшидаи худро тавассути ҷустуҷӯи онҳо дар навори нишонӣ пайдо намоед.
 tab-groups-onboarding-session-restore-title = Дар ин ҷой гурӯҳҳои варақаҳои худро дар вақти дилхоҳ аз нав кушоед.
-tab-groups-onboarding-saved-groups-title = Агар шумо гурӯҳи варақаҳоеро пӯшед, шумо метавонед онҳоро дар ин ҷой дар вақти дилхоҳ аз нав кушоед.
 tab-groups-onboarding-dismiss = ХУБ
 
 ## Multi Profiles feature onboarding messages

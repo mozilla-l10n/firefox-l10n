@@ -54,12 +54,6 @@ fx-view-discoverability-secondary-button-label = Slute
 ## Split Dismiss Button Labels
 
 # Blocks the message from showing again
-split-dismiss-button-dont-show-option-label = Dizze oanrekommandaasje net mear toane
-# Dismisses message and reduces frequency of message
-split-dismiss-button-show-fewer-option-label = Mear oanrekommandaasjes toane
-# Opens about:preferences#general-cfrfeatures
-split-dismiss-button-manage-settings-option-label = Ynstellingen beheare
-# Blocks the message from showing again
 split-dismiss-button-dont-show-option =
     .label = Dizze oanrekommandaasje net mear toane
 # Dismisses message and reduces frequency of message
@@ -141,6 +135,6 @@ actions-callout-title = Algemiene taken útfiere of basisynstellingen benaderje
 # These example text inputs correlate to the the following strings
 # (either matching the whole string, or the first word of the string).
 # "print" - quickactions-cmd-print
-# "clear" - quickactions-cmd-clearhistory
+# "clear" - quickactions-cmd-clearrecenthistory
 # When localizing, ensure the translations match to ensure the action button appears as expected.
 actions-callout-subtitle = Typ in aksje lykas ‘ôfdrukke’ om in side ôf te drukken, of ‘wiskje’ om jo skiednis te wiskjen.

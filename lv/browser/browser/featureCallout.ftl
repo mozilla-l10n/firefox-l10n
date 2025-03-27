@@ -54,12 +54,6 @@ fx-view-discoverability-secondary-button-label = Noraidīt
 ## Split Dismiss Button Labels
 
 # Blocks the message from showing again
-split-dismiss-button-dont-show-option-label = Vairs nerādīt šo ieteikumu
-# Dismisses message and reduces frequency of message
-split-dismiss-button-show-fewer-option-label = Rādīt mazāk ieteikumu
-# Opens about:preferences#general-cfrfeatures
-split-dismiss-button-manage-settings-option-label = Pārvaldīt iestatījumus
-# Blocks the message from showing again
 split-dismiss-button-dont-show-option =
     .label = Vairs nerādīt šo ieteikumu
 # Dismisses message and reduces frequency of message

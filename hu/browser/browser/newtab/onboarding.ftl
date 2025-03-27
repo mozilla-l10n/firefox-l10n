@@ -450,7 +450,6 @@ tab-groups-onboarding-create-group-no-alltabs-button-title = Találja meg a csop
 tab-groups-onboarding-saved-groups-title-2 = Ha bezár egy lapcsoportot, itt bármikor újra megnyithatja.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Találja meg a bezárt csoportjait a címsorban keresve.
 tab-groups-onboarding-session-restore-title = Nyissa meg újra a lapcsoportjait itt.
-tab-groups-onboarding-saved-groups-title = Ha bezár egy lapcsoportot, itt bármikor újra megnyithatja.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

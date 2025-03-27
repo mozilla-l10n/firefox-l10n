@@ -286,7 +286,6 @@ appmenu-other-protection-header = נסו כלי הגנה אחרים מ־{ -vendo
 
 ## Profiles panel
 
-appmenu-profiles = פרופילים
 appmenu-other-profiles = פרופילים אחרים
 appmenu-manage-profiles =
     .label = ניהול פרופילים

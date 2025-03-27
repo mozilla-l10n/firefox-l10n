@@ -288,7 +288,6 @@ appmenu-other-protection-header = Probieren Sie andere Schutzwerkzeuge von { -ve
 
 ## Profiles panel
 
-appmenu-profiles = Profile
 appmenu-other-profiles = Andere Profile
 appmenu-manage-profiles =
     .label = Profile verwalten

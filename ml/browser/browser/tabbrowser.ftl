@@ -109,10 +109,6 @@ tabbrowser-manager-closed-tab-group =
 tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — നിലവിലുള്ള ജാലകം
-# "Show more" is for showing all open groups from other windows, as well as saved groups. Initially,
-# we only show up to six of these groups.
-tabbrowser-manager-tab-groups-show-more =
-    .label = കൂടുതൽ കാണിക്കുക
 
 ## Tab Groups
 
@@ -147,7 +143,6 @@ tab-group-editor-color-selector2-red = ചുവപ്പ്
 #  $tabGroupName (String): The name of the tab group. Defaults to the value
 #                          of tab-group-name-default.
 tab-group-description = { $tabGroupName } — ടാബുക്കൂട്ടം
-tab-group-menu-header = ടാബുകൂട്ടങ്ങൾ
 tab-context-unnamed-group =
     .label = പേരില്ലാത്ത കൂട്ടം
 tab-group-name-default = പേരില്ലാത്ത കൂട്ടം

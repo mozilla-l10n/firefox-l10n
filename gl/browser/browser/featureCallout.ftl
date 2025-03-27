@@ -53,12 +53,6 @@ fx-view-discoverability-secondary-button-label = Rexeitar
 ## Split Dismiss Button Labels
 
 # Blocks the message from showing again
-split-dismiss-button-dont-show-option-label = Non volver mostrar esta recomendación
-# Dismisses message and reduces frequency of message
-split-dismiss-button-show-fewer-option-label = Mostra menos recomendacións
-# Opens about:preferences#general-cfrfeatures
-split-dismiss-button-manage-settings-option-label = Xestionar a configuración
-# Blocks the message from showing again
 split-dismiss-button-dont-show-option =
     .label = Non volver mostrar esta recomendación
 # Dismisses message and reduces frequency of message

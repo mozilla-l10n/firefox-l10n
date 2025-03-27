@@ -451,7 +451,6 @@ tab-groups-onboarding-create-group-no-alltabs-button-title = Finden Sie Ihre Gru
 tab-groups-onboarding-saved-groups-title-2 = Wenn Sie eine Tab-Gruppe schließen, können Sie sie hier jederzeit wieder öffnen.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Finden Sie Ihre geschlossenen Gruppen, indem Sie in der Adressleiste danach suchen.
 tab-groups-onboarding-session-restore-title = Hier öffnen Sie Ihre Tab-Gruppen jederzeit wieder.
-tab-groups-onboarding-saved-groups-title = Wenn Sie eine Tab-Gruppe schließen, können Sie diese hier jederzeit wieder öffnen.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

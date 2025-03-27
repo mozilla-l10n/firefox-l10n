@@ -22,7 +22,8 @@ safeb-palm-see-details-label = ເບິ່ງລາຍລະອຽດ
 safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> ໄດ້ຖືກ <a data-l10n-name='error_desc_link'>ລາຍງານວ່າເປັນເວັບໄຊຫຼອກລວງ</a>. ທ່ານສາມາດ <a data-l10n-name='report_detection'>ລາຍງານບັນຫາການກວດຫາ</a> ຫຼື <a data-l10n-name='ignore_warning_link'>ບໍ່ສົນໃຈຄວາມສ່ຽງ</a> ແລະໄປທີ່ເວັບໄຊທີ່ບໍ່ປອດໄພນີ້.
 safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> ໄດ້ຖືກ <a data-l10n-name='error_desc_link'>ລາຍງານວ່າເປັນເວັບໄຊຫຼອກລວງ</a>. ທ່ານສາມາດ <a data-l10n-name='report_detection'>ລາຍງານບັນຫາການກວດຫາ</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-phishing-page-learn-more = ສຶກສາເພີ່ມເຕີມກ່ຽວກັບເວັບໄຊຫຼອກລວງ ແລະຟິດຊິງໄດ້ທີ່ <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. ຮຽນ​ຮູ້​ເພີ່ມ​ເຕີມ​ກ່ຽວ​ກັບ​ການ Phishing ແລະ Malware Protection ຂອງ { -brand-short-name } ທີ່ <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
@@ -32,7 +33,8 @@ safeb-blocked-phishing-page-learn-more = ສຶກສາເພີ່ມເຕີ
 safeb-blocked-malware-page-error-desc-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> ໄດ້ຖືກ <a data-l10n-name='error_desc_link'>ລາຍງານວ່າມີຊອບແວທີ່ເປັນອັນຕະລາຍ</a>. ທ່ານສາມາດ <a data-l10n-name='ignore_warning_link'>ບໍ່ສົນໃຈຄວາມສ່ຽງ</a> ແລະໄປທີ່ເວັບໄຊທີ່ບໍ່ປອດໄພນີ້.
 safeb-blocked-malware-page-error-desc-no-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> ໄດ້ຖືກ <a data-l10n-name='error_desc_link'>ລາຍງານວ່າມີຊອບແວທີ່ເປັນອັນຕະລາຍ</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-malware-page-learn-more-sumo = ຮຽນ​ຮູ້​ເພີ່ມ​ເຕີມ​ກ່ຽວ​ກັບ​ການ Phishing ແລະ Malware Protection ຂອງ { -brand-short-name } ທີ່ <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
@@ -42,7 +44,8 @@ safeb-blocked-malware-page-learn-more-sumo = ຮຽນ​ຮູ້​ເພີ�
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> ໄດ້ຖືກ <a data-l10n-name='error_desc_link'>ລາຍງານວ່າມີຊອບແວອັນຕະລາຍ</a>. ທ່ານສາມາດ <a data-l10n-name='ignore_warning_link'>ບໍ່ສົນໃຈຄວາມສ່ຽງ</a> ແລະໄປທີ່ເວັບໄຊທີ່ບໍ່ປອດໄພນີ້.
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> ໄດ້ຖືກ <a data-l10n-name='error_desc_link'>ລາຍງານວ່າມີຊອບແວອັນຕະລາຍ</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-unwanted-page-learn-more = ສຶກສາເພີ່ມເຕີມກ່ຽວກັບຊອບແວອັນຕະລາຍ ແລະບໍ່ຕ້ອງການໄດ້ທີ່ <a data-l10n-name='learn_more_link'>ນະໂຍບາຍຊອບແວທີ່ບໍ່ຕ້ອງການ</a>. ຮຽນ​ຮູ້​ເພີ່ມ​ເຕີມ​ກ່ຽວ​ກັບ​ການ Phishing ແລະ Malware Protection ຂອງ { -brand-short-name } ທີ່ <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
@@ -52,7 +55,8 @@ safeb-blocked-unwanted-page-learn-more = ສຶກສາເພີ່ມເຕີ
 safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> ໄດ້ຖືກ <a data-l10n-name='error_desc_link'>ລາຍງານວ່າມີແອັບພລິເຄຊັນທີ່ອາດເປັນອັນຕະລາຍ</a>. ທ່ານສາມາດ <a data-l10n-name='ignore_warning_link'>ບໍ່ສົນໃຈຄວາມສ່ຽງ</a> ແລະໄປທີ່ເວັບໄຊທີ່ບໍ່ປອດໄພນີ້.
 safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> ໄດ້ຖືກ <a data-l10n-name='error_desc_link'>ລາຍງານວ່າມີແອັບພລິເຄຊັນທີ່ອາດເປັນອັນຕະລາຍ</a>.
 
-##
+## Variables
+##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-harmful-page-learn-more = ຮຽນ​ຮູ້​ເພີ່ມ​ເຕີມ​ກ່ຽວ​ກັບ​ການ Phishing ແລະ Malware Protection ຂອງ { -brand-short-name } ທີ່ <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 safeb-palm-notdeceptive =
