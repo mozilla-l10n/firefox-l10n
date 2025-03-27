@@ -5,6 +5,8 @@
 
 ## Passwords
 
+contextual-manager-passwords-command-import-from-browser = Importar desde outro navegador…
+contextual-manager-passwords-command-import = Importar dun ficheiro ...
 contextual-manager-passwords-command-help = Axuda
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Para exportar os teus contrasinais, introduce as túas credenciais de inicio de sesión de Windows. Isto axuda a protexer a seguridade das túas contas.
