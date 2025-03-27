@@ -50,7 +50,9 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] TSV-document
        *[other] TSV-bestand
     }
+contextual-manager-passwords-import-success-button = Gereed
 contextual-manager-passwords-import-error-button-cancel = Annuleren
+contextual-manager-passwords-export-success-button = Gereed
 contextual-manager-export-passwords-dialog-confirm-button = Doorgaan met exporteren
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Wachtwoorden exporteren uit { -brand-short-name }
@@ -78,6 +80,8 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Verwijderen
        *[other] Alle verwijderen
     }
+contextual-manager-passwords-update-password-success-button = Gereed
+contextual-manager-passwords-delete-password-success-button = Gereed
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Wachtwoord verwijderen?
 # This message confirms that the user wants to remove an existing login.
