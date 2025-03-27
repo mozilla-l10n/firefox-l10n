@@ -9,6 +9,8 @@ contextual-manager-passwords-command-help = Bantuan
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Untuk mengekspor kata sandi Anda, ketikkan kredensial masuk Windows Anda. Hal ini membantu melindungi keamanan akun Anda.
 contextual-manager-export-passwords-dialog-confirm-button = Lanjutkan dengan ekspor
+# This message confirms that the user wants to remove an existing login.
+contextual-manager-passwords-remove-login-card-remove-button = Hapus
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Batal
 
