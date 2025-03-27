@@ -8,6 +8,16 @@
 contextual-manager-passwords-command-import-from-browser = Mag-import mula sa Ibang Browser…
 contextual-manager-passwords-command-import = Kunin mula sa File…
 contextual-manager-passwords-command-help = Tulong
+# This message can be seen when attempting to reveal a password in contextual password manager on Windows
+contextual-manager-passwords-reveal-password-os-auth-dialog-message-win = Para makita ang iyong password, ipasok ang iyong mga Windows login credential. Nakatutulong ito protektahan ang seguridad ng iyong mga account.
+# The MacOS string is preceded by the operating system with "Firefox is trying to ".
+# Only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-reveal-password-os-auth-dialog-message-macosx = ipakita ang naka-save na password
+# This message can be seen when attempting to copy a password in contextual password manager on Windows.
+contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Para makopya ang iyong password, ipasok ang iyong mga Windows login credential. Nakatutulong ito protektahan ang seguridad ng iyong mga account.
+# The MacOS string is preceded by the operating system with "Firefox is trying to ".
+# Only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = kopyahin ang naka-save na password
 contextual-manager-passwords-import-file-picker-import-button = i-Import
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
