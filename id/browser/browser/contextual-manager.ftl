@@ -11,6 +11,13 @@ contextual-manager-passwords-command-help = Bantuan
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Untuk mengekspor kata sandi Anda, ketikkan kredensial masuk Windows Anda. Hal ini membantu melindungi keamanan akun Anda.
 contextual-manager-export-passwords-dialog-confirm-button = Lanjutkan dengan ekspor
+# Button label to confirm removal of saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-confirm-button =
+    { $total ->
+        [1] Hapus
+       *[other] Hapus Seluruhnya
+    }
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Hapus kata sandi?
 # This message confirms that the user wants to remove an existing login.
