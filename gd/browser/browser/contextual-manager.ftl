@@ -50,13 +50,29 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] Sgrìobhainn TSV
        *[other] Faidhle TSV
     }
+contextual-manager-passwords-import-success-button = Deiseil
+contextual-manager-passwords-import-error-button-cancel = Sguir dheth
+contextual-manager-passwords-export-success-button = Deiseil
 contextual-manager-export-passwords-dialog-confirm-button = Lean air adhart leis an às-phortadh
+# Title of the file picker dialog
+contextual-manager-passwords-export-file-picker-title = Às-phortaich na faclan-faire o { -brand-short-name }
+contextual-manager-passwords-export-file-picker-export-button = Às-phortaich
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] Sgrìobhainn CSV
        *[other] Faidhle CSV
+    }
+# Checkbox label to confirm the removal of saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-confirm =
+    { $total ->
+        [1] Tha, thoiribh air falbh am facal-faire
+        [one] Tha, thoiribh air falbh am facal-faire
+        [two] Tha, thoiribh air falbh na faclan-faire
+        [few] Tha, thoiribh air falbh na faclan-faire
+       *[other] Tha, thoiribh air falbh na faclan-faire
     }
 # Button label to confirm removal of saved passwords
 #   $total (number) - Total number of passwords
@@ -68,8 +84,12 @@ contextual-manager-passwords-remove-all-confirm-button =
         [few] Thoir air falbh na h-uile
        *[other] Thoir air falbh na h-uile
     }
+contextual-manager-passwords-update-password-success-button = Deiseil
+contextual-manager-passwords-delete-password-success-button = Deiseil
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = A bheil thu airson am facal-faire a thoirt air falbh?
+# This message confirms that the user wants to remove an existing login.
+contextual-manager-passwords-remove-login-card-remove-button = Thoir air falbh
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Sguir dheth
 
