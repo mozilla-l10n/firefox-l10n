@@ -12,6 +12,8 @@ origin-controls-no-access =
     .label = വിപുലീകരണത്തിനു് ഡാറ്റ വായിക്കാന്നോ മാറ്റാന്നോ കഴിയില്ല
 origin-controls-quarantined =
     .label = വിപുലീകരണത്തിനു് ഡാറ്റ വായിക്കാന്നോ മാറ്റാന്നോ കഴിയില്ല
+origin-controls-options =
+    .label = വിപുലീകരണത്തിനു് ഡാറ്റ വായിക്കാനും മാറ്റാനും പറ്റും
 origin-controls-option-all-domains =
     .label = എല്ലാ വെബ്സ്ഥാനങ്ങളിലും
 origin-controls-option-when-clicked =
@@ -26,6 +28,10 @@ origin-controls-option-always-on =
 ## These strings are used to map Origin Controls states to user-friendly
 ## messages. They currently appear in the unified extensions panel.
 
+origin-controls-state-no-access = ഈ വെബിടത്തിൽ ഡാറ്റ വായിക്കാനും മാറ്റാനും പറ്റില്ല
+origin-controls-state-quarantined = ഈ വെബിടത്തിൽ { -vendor-short-name } അനുവദിച്ചിട്ടില്ല
+origin-controls-state-always-on = ഈ വെബിടത്തിൽ എപ്പോഴും ഡാറ്റായെ വായിക്കാനും മാറ്റാനും കഴിയും
+origin-controls-state-hover-run-visit-only = ഈ സന്ദൎശത്തിനുമാത്രം ഓടിപ്പിക്കുക
 origin-controls-state-runnable-hover-open = വിപുലീകരണം തുറക്കുക
 origin-controls-state-runnable-hover-run = വിപുലീകരണം ഓടിപ്പിക്കുക
 
