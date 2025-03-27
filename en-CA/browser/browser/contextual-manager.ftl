@@ -51,6 +51,13 @@ contextual-manager-passwords-remove-all-confirm =
         [1] Yes, remove password
        *[other] Yes, remove passwords
     }
+# Button label to confirm removal of saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-confirm-button =
+    { $total ->
+        [1] Remove
+       *[other] Remove All
+    }
 contextual-manager-passwords-update-password-success-button = Done
 contextual-manager-passwords-delete-password-success-button = Done
 # This message is displayed to make sure that a user wants to delete an existing login.
