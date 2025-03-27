@@ -54,7 +54,9 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] Documentu TSV
        *[other] Archìviu TSV
     }
+contextual-manager-passwords-import-success-button = Fatu
 contextual-manager-passwords-import-error-button-cancel = Annulla
+contextual-manager-passwords-export-success-button = Fatu
 contextual-manager-export-passwords-dialog-confirm-button = Sighi a esportare
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Esporta is craes dae { -brand-short-name }
@@ -82,6 +84,8 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Boga
        *[other] Boga·nche totu
     }
+contextual-manager-passwords-update-password-success-button = Fatu
+contextual-manager-passwords-delete-password-success-button = Fatu
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Boles bogare sa crae?
 # This message confirms that the user wants to remove an existing login.
