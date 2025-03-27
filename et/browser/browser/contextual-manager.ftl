@@ -64,6 +64,14 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
         [macos] CSV-fail
        *[other] CSV-fail
     }
+# Checkbox label to confirm the removal of saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-confirm =
+    { $total ->
+        [1] Jah, eemalda parool
+        [one] Jah, eemalda parool
+       *[other] Jah, eemalda paroolid
+    }
 # Button label to confirm removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm-button =
