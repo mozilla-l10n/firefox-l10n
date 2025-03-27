@@ -33,10 +33,21 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Ձեր �
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = պատճենեք պահպանված գաղտնաբառը
+contextual-manager-passwords-import-success-button = Պատրաստ է
 contextual-manager-passwords-import-error-button-cancel = Չեղարկել
+contextual-manager-passwords-export-success-button = Պատրաստ է
+contextual-manager-export-passwords-dialog-confirm-button = Շարունակել արտահանումը
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Արտահանել գաղտնաբառերը { -brand-short-name }-ից
 contextual-manager-passwords-export-file-picker-export-button = Արտահանել
+# Checkbox label to confirm the removal of saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-confirm =
+    { $total ->
+        [1] Այո, հեռացնել գաղտնաբառը
+        [one] Այո, հեռացնել գաղտնաբառերը
+       *[other] Այո, հեռացնել գաղտնաբառերը
+    }
 # Button label to confirm removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm-button =
@@ -45,6 +56,8 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Հեռացնել բոլորը
        *[other] Հեռացնել բոլորը
     }
+contextual-manager-passwords-update-password-success-button = Պատրաստ է
+contextual-manager-passwords-delete-password-success-button = Պատրաստ է
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Հեռացնե՞լ գաղտնաբառը:
 # This message confirms that the user wants to remove an existing login.
