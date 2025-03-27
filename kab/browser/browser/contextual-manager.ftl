@@ -82,6 +82,8 @@ contextual-manager-passwords-remove-all-confirm-button =
     }
 contextual-manager-passwords-update-password-success-button = Immed
 contextual-manager-passwords-delete-password-success-button = Immed
+# This message is displayed to make sure that a user wants to delete an existing login.
+contextual-manager-passwords-remove-login-card-title = Kkes awal uffir ?
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Kkes
 # This message gives the user the option to cancel their attempt to remove a login.
