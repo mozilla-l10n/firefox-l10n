@@ -2,9 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+contextual-manager-filter-input =
+    .placeholder = Cerca contrasenyes
+    .key = F
+    .aria-label = Cerca contrasenyes
 
 ## Passwords
 
+contextual-manager-passwords-command-create = Afegeix una contrasenya
 contextual-manager-passwords-command-import-from-browser = Importa d'un altre navegador…
 contextual-manager-passwords-command-import = Importa d'un fitxer…
 contextual-manager-passwords-command-help = Ajuda
@@ -86,9 +91,13 @@ contextual-manager-passwords-remove-login-card-cancel-button = Cancel·la
 
 ## Login Form
 
+contextual-manager-passwords-create-label =
+    .label = Afegeix una contrasenya
 
 ## Password Card
 
+contextual-manager-passwords-list-label =
+    .aria-label = Contrasenyes
 contextual-manager-copy-icon =
     .alt = Copia
 
