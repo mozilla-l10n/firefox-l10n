@@ -5,6 +5,8 @@
 
 ## Passwords
 
+contextual-manager-passwords-command-import-from-browser = Importa d'un altre navegador…
+contextual-manager-passwords-command-import = Importa d'un fitxer…
 contextual-manager-passwords-command-help = Ajuda
 # This message can be seen when attempting to reveal a password in contextual password manager on Windows
 contextual-manager-passwords-reveal-password-os-auth-dialog-message-win = Per veure la contrasenya, introduïu les vostres credencials d'inici de sessió al Windows. Això ajuda a protegir la seguretat dels vostres comptes.
@@ -52,12 +54,18 @@ contextual-manager-passwords-remove-all-confirm-button =
     }
 contextual-manager-passwords-update-password-success-button = Fet
 contextual-manager-passwords-delete-password-success-button = Fet
+# This message confirms that the user wants to remove an existing login.
+contextual-manager-passwords-remove-login-card-remove-button = Elimina
+# This message gives the user the option to cancel their attempt to remove a login.
+contextual-manager-passwords-remove-login-card-cancel-button = Cancel·la
 
 ## Login Form
 
 
 ## Password Card
 
+contextual-manager-copy-icon =
+    .alt = Copia
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
