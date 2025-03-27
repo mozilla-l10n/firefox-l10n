@@ -38,6 +38,9 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] TSV Document
        *[other] TSV File
     }
+contextual-manager-passwords-import-success-button = Nsá´á
+contextual-manager-passwords-import-error-button-cancel = Nkuvi
+contextual-manager-passwords-export-success-button = Nsá´á
 contextual-manager-passwords-export-file-picker-export-button = Exportar
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -53,6 +56,8 @@ contextual-manager-passwords-remove-all-confirm-button =
         [1] Xita
        *[other] Xita kuaiyo
     }
+contextual-manager-passwords-update-password-success-button = Nsá´á
+contextual-manager-passwords-delete-password-success-button = Nsá´á
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = ¿Xina contraseña?
 # This message confirms that the user wants to remove an existing login.
