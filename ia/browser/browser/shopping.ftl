@@ -254,12 +254,20 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 ## Review Checker in Integrated sidebar
 
+# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
+shopping-opt-in-integrated-headline = Compra con confidentia
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Dimitter
+shopping-callout-not-opted-in-integrated-reminder-do-not-show = Non monstrar de novo iste recommendation
+shopping-callout-not-opted-in-integrated-reminder-show-fewer = Monstrar minus recommendationes
+shopping-callout-not-opted-in-integrated-reminder-manage-settings = Gerer parametros
+shopping-opt-in-integrated-button = Prova le Verificator de recension
 
 ## Message strings for Review Checker's empty states.
 
+shopping-empty-state-header = Preste a controlar recensiones
 
 ## Confirm disabling Review Checker for newly opted out users
 

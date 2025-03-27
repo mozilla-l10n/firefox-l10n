@@ -67,12 +67,17 @@ contextual-manager-passwords-import-success-heading =
 contextual-manager-passwords-import-success-message = Nove: { $added }, Actualisate: { $modified }
 contextual-manager-passwords-import-detailed-report = Vider reporto detaliate
 contextual-manager-passwords-import-success-button = Facite
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = Impossibile importar contrasignos
+    .message = Sia certe que tu file include un columna pro sitos web, nomines de usator, e contrasignos.
 contextual-manager-passwords-import-error-button-try-again = Retentar
 contextual-manager-passwords-import-error-button-cancel = Cancellar
 contextual-manager-passwords-import-learn-more = Apprende re importar contrasignos
 contextual-manager-passwords-export-success-heading =
     .heading = Contrasignos exportate
 contextual-manager-passwords-export-success-button = Facite
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = Exportar contrasignos a file?
 contextual-manager-export-passwords-dialog-confirm-button = Continuar con le exportation
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Exportar contrasignos ab { -brand-short-name }
@@ -86,6 +91,14 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] Documento CSV
        *[other] File CSV
+    }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] Remover contrasigno?
+        [one] Remover contrasigno?
+       *[other] Remover tote le { $total } contrasignos?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
@@ -108,6 +121,8 @@ contextual-manager-passwords-username-label = Nomine de usator
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-password-label = Contrasigno
     .data-after = Copiate
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Filtrar contrasignos
 # Variables
 #   $url (string) - The url associated with the new login
 contextual-manager-passwords-add-password-success-heading =
@@ -159,6 +174,13 @@ contextual-manager-passwords-breached-origin-heading-and-message =
     .message = Contrasignos de iste sito web era reportate robate o revelate. Cambia tu contrasigno pro proteger tu conto.
 contextual-manager-passwords-breached-origin-link-message = Como sape { -brand-product-name } re le violationes?
 contextual-manager-passwords-change-password-button = Cambiar le contrasigno
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = Il es consiliate modificar contrasigno
+    .message = Iste contrasigno es facilemente divinabile. Cambia tu contrasigno pro proteger tu conto.
+contextual-manager-passwords-vulnerable-password-link-message = Como sape { -brand-product-name } re le contrasignos debile?
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Adder un nomine de usator
+    .message = Adder un pro signar plus velocemente.
 contextual-manager-passwords-add-username-button = Adder nomine de usator
 
 ## Login Form
@@ -174,6 +196,8 @@ contextual-manager-passwords-remove-label =
 
 contextual-manager-passwords-list-label =
     .aria-label = Contrasignos
+contextual-manager-website-icon =
+    .alt = Icone del sito web
 contextual-manager-copy-icon =
     .alt = Copiar
 contextual-manager-check-icon-username =
@@ -182,6 +206,11 @@ contextual-manager-check-icon-password =
     .alt = Copiate
 contextual-manager-alert-icon =
     .alt = Advertentia
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = Visita { $url }
+    .title = Visita { $url }
 # "(Warning)" indicates that a login's origin field has an alert icon.
 # Variables
 #   $url (string) - The url associated with the login
@@ -193,6 +222,12 @@ contextual-manager-origin-login-line-with-alert =
 contextual-manager-username-login-line =
     .aria-label = Copiar nomine de usator { $username }
     .title = Copiar nomine de usator { $username }
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = Copiar nomine de usator { $username } (Aviso)
+    .title = Copiar nomine de usator { $username } (Aviso)
 contextual-manager-password-login-line =
     .aria-label = Copiar contrasigno
     .title = Copiar contrasigno
@@ -230,5 +265,8 @@ contextual-manager-passwords-add-manually = Adder manualmente
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = Clauder sin salvar?
+    .message = Tu modificationes non sera salvate.
 contextual-manager-passwords-discard-changes-close-button = Clauder
 contextual-manager-passwords-discard-changes-go-back-button = Retornar

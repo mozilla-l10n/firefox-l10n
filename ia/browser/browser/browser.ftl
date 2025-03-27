@@ -340,6 +340,7 @@ quickactions-cmd-downloads = discargamentos
 # Opens about:addons page in the extensions section
 quickactions-extensions = Gerer extensiones
 quickactions-cmd-extensions = extensiones
+quickactions-cmd-help = adjuta, supporto
 # Opens the devtools web inspector
 quickactions-inspector2 = Aperir utensiles de disveloppator
 quickactions-cmd-inspector = analyse pagina, utensiles de disveloppatores

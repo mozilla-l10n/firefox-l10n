@@ -130,6 +130,7 @@ policy-SearchSuggestEnabled = Activar o disactivar suggestiones de recerca.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Adder o deler modulos PKCS #11.
 policy-ShowHomeButton = Monstrar le button casa sur le barra de utensiles.
+policy-SkipTermsOfUse = Non monstra le conditiones de uso e le Aviso de confidentialitate al initio.
 policy-SSLVersionMax = Stabilir le version SSL maxime.
 policy-SSLVersionMin = Stabilir le version SSL minime.
 policy-StartDownloadsInTempDirectory = Fortiar que le discargamentos comencia in un directorio local temporari e non in le directorio de discargamento predefinite.

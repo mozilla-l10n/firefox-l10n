@@ -61,12 +61,31 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = הססמאות יובאו
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = חדשים: { $added }, עודכנו: { $modified }
+contextual-manager-passwords-import-detailed-report = הצגת דוח מפורט
 contextual-manager-passwords-import-success-button = סיום
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = לא ניתן לייבא ססמאות
+    .message = יש לוודא שהקובץ שלך מכיל עמודה עבור אתרים, שמות משתמשים וססמאות.
+contextual-manager-passwords-import-error-button-try-again = ניסיון חוזר
 contextual-manager-passwords-import-error-button-cancel = ביטול
+contextual-manager-passwords-import-learn-more = מידע על ייבוא ססמאות
+contextual-manager-passwords-export-success-heading =
+    .heading = הססמאות יוצאו
 contextual-manager-passwords-export-success-button = סיום
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = לייצא את הססמאות לקובץ?
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = לאחר הייצוא, אנו ממליצים למחוק את הקובץ כדי שאחרים שאולי משתמשים במכשיר זה לא יוכלו לצפות בססמאות שלך.
 contextual-manager-export-passwords-dialog-confirm-button = המשך עם הייצוא
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = ייצוא ססמאות מ־{ -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = passwords
 contextual-manager-passwords-export-file-picker-export-button = ייצוא
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -74,6 +93,13 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] מסמך CSV
        *[other] קובץ CSV
+    }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] להסיר את הססמה?
+       *[other] להסיר את כל { $total } הססמאות?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
@@ -90,14 +116,79 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] הסרה
        *[other] הסרת הכל
     }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] פעולה זו תסיר את הססמה שנשמרה ב־{ -brand-short-name } וכל ההתרעות על דליפות נתונים מאתרים. לא ניתן לבטל פעולה זו.
+       *[other] פעולה זו תסיר את הססמאות שנשמרו ב־{ -brand-short-name } וכל ההתרעות על דליפות נתונים מאתרים. לא ניתן לבטל פעולה זו.
+    }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] פעולה זו תסיר את הססמה שנשמרה ב־{ -brand-short-name } בכל המכשירים המסונכרנים שלך ותסיר גם את כל ההתרעות על דליפות נתונים מאתרים. לא ניתן לבטל פעולה זו.
+       *[other] פעולה זו תסיר את כל הססמאות שנשמרו ב־{ -brand-short-name } בכל המכשירים המסונכרנים שלך ותסיר גם את כל ההתרעות על דליפות נתונים מאתרים. לא ניתן לבטל פעולה זו.
+    }
+contextual-manager-passwords-origin-label = אתר
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = שם משתמש
+    .data-after = הועתק
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = ססמה
+    .data-after = הועתקה
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = סינון ססמאות
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = נוספה ססמה עבור { $url }
+contextual-manager-passwords-add-password-success-button = הצגה
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = ססמה ושם משתמש עבור { $url } כבר קיימים
+contextual-manager-passwords-password-already-exists-error-button = מעבר לססמה
+contextual-manager-passwords-update-password-success-heading =
+    .heading = הססמה נשמרה
 contextual-manager-passwords-update-password-success-button = סיום
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] הססמה הוסרה
+           *[other] הססמאות הוסרו
+        }
 contextual-manager-passwords-delete-password-success-button = סיום
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = הכל ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = התרעות ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = להסיר ססמה?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = לא ניתן לבטל פעולה זו.
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = חזרה
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = הסרה
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = ביטול
+contextual-manager-passwords-alert-card =
+    .aria-label = התרעות לססמאות
+contextual-manager-passwords-alert-back-button =
+    .label = חזרה
+contextual-manager-passwords-alert-list =
+    .aria-label = רשימת התרעות
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = מומלץ לשנות את הססמה
+    .message = ססמאות מאתר זה דווחו כגנובות או מודלפות. יש לשנות את הססמה שלך כדי להגן על החשבון שלך.
+contextual-manager-passwords-breached-origin-link-message = כיצד { -brand-product-name } יודעת על דליפות?
+contextual-manager-passwords-change-password-button = שינוי ססמה
 
 ## Login Form
 

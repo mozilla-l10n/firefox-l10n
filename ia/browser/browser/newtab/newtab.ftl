@@ -520,3 +520,6 @@ newtab-section-mangage-topics-followed-topics = Sequite
 newtab-section-mangage-topics-followed-topics-empty-state = Tu non ha ancora sequite alcun topico.
 newtab-section-mangage-topics-blocked-topics = Blocate
 newtab-section-mangage-topics-blocked-topics-empty-state = Tu non ha ancora blocate alcun topico.
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle = Carga tu proprie fundo o selige un color personalisate pro tu { -brand-product-name }.
+newtab-custom-wallpaper-cta = Prova lo
