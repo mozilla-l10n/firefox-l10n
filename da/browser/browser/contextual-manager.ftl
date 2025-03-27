@@ -50,7 +50,10 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] TSV-dokument
        *[other] TSV-fil
     }
+contextual-manager-passwords-import-success-button = Færdig
 contextual-manager-passwords-import-error-button-cancel = Annuller
+contextual-manager-passwords-export-success-button = Færdig
+contextual-manager-export-passwords-dialog-confirm-button = Fortsæt med eksport
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Eksporter adgangskoder fra { -brand-short-name }
 contextual-manager-passwords-export-file-picker-export-button = Eksporter
@@ -76,10 +79,14 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Fjern
        *[other] Fjern alle
     }
+contextual-manager-passwords-update-password-success-button = Færdig
+contextual-manager-passwords-delete-password-success-button = Færdig
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Fjern adgangskoden?
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Fjern
+# This message gives the user the option to cancel their attempt to remove a login.
+contextual-manager-passwords-remove-login-card-cancel-button = Annuller
 
 ## Login Form
 
@@ -90,6 +97,8 @@ contextual-manager-passwords-create-label =
 
 contextual-manager-passwords-list-label =
     .aria-label = Adgangskoder
+contextual-manager-copy-icon =
+    .alt = Kopier
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
