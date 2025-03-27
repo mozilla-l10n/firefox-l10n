@@ -5,6 +5,8 @@
 
 ## Passwords
 
+contextual-manager-passwords-command-import-from-browser = Importuj z inkszyj przeglōndarki…
+contextual-manager-passwords-command-import = Importuj ze zbioru…
 contextual-manager-passwords-command-help = Pōmoc
 # This message can be seen when attempting to reveal a password in contextual password manager on Windows
 contextual-manager-passwords-reveal-password-os-auth-dialog-message-win = Żeby ôbejzdrzeć hasło, wkludź swoje dane logowanio Windows. To suży chrōniyniu twojich kōnt.
@@ -31,6 +33,9 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] Dokumynt TSV
        *[other] Zbiōr TSV
     }
+contextual-manager-passwords-import-success-button = Fertich
+contextual-manager-passwords-import-error-button-cancel = Pociep
+contextual-manager-passwords-export-success-button = Fertich
 contextual-manager-passwords-export-file-picker-export-button = Eksportuj
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -39,14 +44,27 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
         [macos] Dokumynt CSV
        *[other] Zbiōr CSV
     }
+# Button label to confirm removal of saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-confirm-button =
+    { $total ->
+        [1] Skasuj
+       *[other] Skasuj wszyske
+    }
+contextual-manager-passwords-update-password-success-button = Fertich
+contextual-manager-passwords-delete-password-success-button = Fertich
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Skasuj
+# This message gives the user the option to cancel their attempt to remove a login.
+contextual-manager-passwords-remove-login-card-cancel-button = Pociep
 
 ## Login Form
 
 
 ## Password Card
 
+contextual-manager-copy-icon =
+    .alt = Kopiuj
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
