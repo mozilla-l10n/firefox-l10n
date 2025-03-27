@@ -5,13 +5,52 @@
 
 ## Passwords
 
+contextual-manager-passwords-command-import-from-browser = دوسرے براؤزر سے درآمد کریں…
+contextual-manager-passwords-command-help = مدد
+# The MacOS string is preceded by the operating system with "Firefox is trying to ".
+# Only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-reveal-password-os-auth-dialog-message-macosx = محفوظ شدہ پاس ورڈ کو ظاہر کریں
+# The MacOS string is preceded by the operating system with "Firefox is trying to ".
+# Only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = محفوظ شدہ پاس ورڈ کو نقل کریں
+contextual-manager-passwords-import-file-picker-import-button = درآمد کریں
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+contextual-manager-passwords-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV دستاویز
+       *[other] CSV فائل
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+contextual-manager-passwords-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV دستاویز
+       *[other] TSV فائل
+    }
+contextual-manager-passwords-import-success-button = ہوگیا
 contextual-manager-passwords-import-error-button-cancel = منسوخ کریں
+contextual-manager-passwords-export-success-button = ہوگیا
+contextual-manager-passwords-export-file-picker-export-button = برآمد کریں
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+contextual-manager-passwords-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV دستاویز
+       *[other] CSV فائل
+    }
+contextual-manager-passwords-update-password-success-button = ہوگیا
+contextual-manager-passwords-delete-password-success-button = ہوگیا
+# This message gives the user the option to cancel their attempt to remove a login.
+contextual-manager-passwords-remove-login-card-cancel-button = منسوخ کریں
 
 ## Login Form
 
 
 ## Password Card
 
+contextual-manager-copy-icon =
+    .alt = نقل کریں
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
