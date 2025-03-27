@@ -8,6 +8,28 @@
 contextual-manager-passwords-command-import-from-browser = Inportatu beste nabigatzaile batetik…
 contextual-manager-passwords-command-import = Inportatu fitxategitik…
 contextual-manager-passwords-command-help = Laguntza
+# This message can be seen when attempting to export a password in about:logins on Windows.
+contextual-manager-passwords-export-os-auth-dialog-message-win = Zure pasahitzak esportatzeko, sartu zure Windows kredentzialak. Honek zure kontuen segurtasuna babesten laguntzen du.
+# This message can be seen when attempting to export a password in about:logins
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-export-os-auth-dialog-message-macosx = esportatu gordetako pasahitzak
+# This message can be seen when attempting to reveal a password in contextual password manager on Windows
+contextual-manager-passwords-reveal-password-os-auth-dialog-message-win = Zure pasahitza ikusteko, sartu zure Windows kredentzialak. Honek zure kontuen segurtasuna babesten laguntzen du.
+# The MacOS string is preceded by the operating system with "Firefox is trying to ".
+# Only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-reveal-password-os-auth-dialog-message-macosx = agerrarazi gordetako pasahitza
+# This message can be seen when attempting to edit a login in contextual password manager on Windows.
+contextual-manager-passwords-edit-password-os-auth-dialog-message-win = Zure pasahitza aldatzeko, sartu zure Windows kredentzialak. Honek zure kontuen segurtasuna babesten laguntzen du.
+# The MacOS string is preceded by the operating system with "Firefox is trying to ".
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-edit-password-os-auth-dialog-message-macosx = editatu gordetako pasahitza
+# This message can be seen when attempting to copy a password in contextual password manager on Windows.
+contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Zure pasahitza kopiatzeko, sartu zure Windows kredentzialak. Honek zure kontuen segurtasuna babesten laguntzen du.
+# The MacOS string is preceded by the operating system with "Firefox is trying to ".
+# Only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = kopiatu gordetako pasahitza
 contextual-manager-passwords-import-file-picker-import-button = Inportatu
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
