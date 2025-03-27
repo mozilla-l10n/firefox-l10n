@@ -11,6 +11,7 @@ contextual-manager-filter-input =
 
 contextual-manager-passwords-command-create = Agregar contraseña
 contextual-manager-passwords-command-import = Importar desde un archivo…
+contextual-manager-passwords-command-help = Ayuda
 contextual-manager-passwords-import-file-picker-import-button = Importar
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
