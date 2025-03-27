@@ -24,6 +24,7 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
        *[other] TSV File
     }
 contextual-manager-passwords-import-success-button = Tapos na
+contextual-manager-passwords-import-error-button-cancel = Kanselahin
 contextual-manager-passwords-export-success-button = Tapos na
 contextual-manager-passwords-export-file-picker-export-button = i-Export
 # A description for the .csv file format that may be shown as the file type
