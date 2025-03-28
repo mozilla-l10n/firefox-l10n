@@ -116,7 +116,27 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Ta bort
        *[other] Ta bort alla
     }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] Detta kommer att ta bort ditt lösenord som sparats i { -brand-short-name } och alla varningar om intrång. Du kan inte ångra den här åtgärden.
+       *[other] Detta kommer att ta bort lösenorden som sparats i { -brand-short-name } och alla varningar om intrång. Du kan inte ångra den här åtgärden.
+    }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] Detta tar bort lösenordet som sparats i { -brand-short-name } på alla dina synkroniserade enheter och tar bort alla intrångsvarningar. Du kan inte ångra den här åtgärden.
+       *[other] Detta tar bort alla lösenord som sparats i { -brand-short-name } på alla dina synkroniserade enheter och tar bort alla intrångsvarningar. Du kan inte ångra den här åtgärden.
+    }
 contextual-manager-passwords-origin-label = Webbplats
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Användarnamn
+    .data-after = Kopierad
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Lösenord
+    .data-after = Kopierad
 contextual-manager-passwords-radiogroup-label =
     .aria-label = Filtrera lösenord
 # Variables
@@ -132,6 +152,14 @@ contextual-manager-passwords-password-already-exists-error-button = Gå till lö
 contextual-manager-passwords-update-password-success-heading =
     .heading = Lösenord sparat
 contextual-manager-passwords-update-password-success-button = Klar
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] Lösenordet har tagits bort
+           *[other] Lösenord har tagits bort
+        }
 contextual-manager-passwords-delete-password-success-button = Klar
 #
 # Radiobutton label to display total number of passwords
