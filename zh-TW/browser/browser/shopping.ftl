@@ -257,20 +257,41 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-not-opted-in-integrated-reminder-dismiss-button = 知道了！
+shopping-callout-not-opted-in-integrated-reminder-accept-button = 開啟商品評論檢查器
+shopping-callout-not-opted-in-integrated-reminder-do-not-show = 不要再顯示此建議
+shopping-callout-not-opted-in-integrated-reminder-show-fewer = 減少顯示建議
+shopping-callout-not-opted-in-integrated-reminder-manage-settings = 管理設定
+shopping-opt-in-integrated-button = 試用商品評論檢查器
 
 ## Message strings for Review Checker's empty states.
 
+shopping-empty-state-header = 已可檢查商品評論
 
 ## Confirm disabling Review Checker for newly opted out users
 
+shopping-integrated-callout-opted-out-title = 商品評論檢查器已關閉
 
 ## Callout for where to find Review Checker when the sidebar closes
 
+shopping-integrated-callout-sidebar-closed-title = 返回商品評論檢查器
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-title = 一樣的商品評論檢查器，全新位置
+shopping-integrated-new-position-notification-move-right-button = 移到右邊
+shopping-integrated-new-position-notification-move-left-button = 移到左邊
+shopping-integrated-new-position-notification-dismiss-button = 知道了！
 
 ## Combined setting for auto-open and auto-close.
 
+shopping-settings-auto-open-and-close-toggle =
+    .label = 自動開啟與關閉商品評論檢查器
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-and-close-description-three-sites = 當您在 { $firstSite }、{ $secondSite } 或 { $thirdSite } 檢視商品時自動開啟，結束後自動關閉

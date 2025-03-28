@@ -168,6 +168,10 @@ contextual-manager-passwords-alert-list =
 contextual-manager-passwords-breached-origin-heading-and-message =
     .heading = 建議更改密碼
     .message = 此網站的密碼失竊或外洩，請更改密碼以保護您的帳號。
+contextual-manager-passwords-change-password-button = 更改密碼
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = 建議更改密碼
+    .message = 此密碼太容易被猜到，請更改密碼以保護您的帳號。
 contextual-manager-passwords-no-username-heading-and-message =
     .heading = 新增使用者名稱
     .message = 新增使用者名稱讓您更快速登入。
@@ -186,6 +190,8 @@ contextual-manager-passwords-remove-label =
 
 contextual-manager-passwords-list-label =
     .aria-label = 密碼
+contextual-manager-website-icon =
+    .alt = 網站圖示
 contextual-manager-copy-icon =
     .alt = 複製
 contextual-manager-check-icon-username =
@@ -225,13 +231,29 @@ contextual-manager-password-login-line-with-alert =
     .title = 複製密碼（警告）
 contextual-manager-edit-login-button = 編輯
     .tooltiptext = 編輯密碼
+contextual-manager-show-password-button =
+    .aria-label = 顯示密碼
+    .title = 顯示密碼
+contextual-manager-hide-password-button =
+    .aria-label = 隱藏密碼
+    .title = 隱藏密碼
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = 找不到密碼
+contextual-manager-passwords-no-passwords-found-message = 找不到密碼，請用其他關鍵字重新搜尋。
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = 將您的密碼儲存於安全的地方。
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = 加到此處開始使用。
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = 手動新增
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-close-button = 關閉
+contextual-manager-passwords-discard-changes-go-back-button = 回上一頁
