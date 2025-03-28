@@ -256,6 +256,14 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 ## Review Checker in Integrated sidebar
 
+# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
+shopping-opt-in-integrated-headline = 자신있게 쇼핑하세요
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle = 구매하기 전에 { -brand-product-name }의 리뷰 검사기를 켜서 제품 리뷰가 얼마나 신뢰할 수 있는지 확인하세요. AI 기술을 사용하여 { $firstSite }, { $secondSite } 및 { $thirdSite }에서 쇼핑할 때 리뷰를 분석합니다. <a data-l10n-name="learn_more">더 알아보기</a>
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 

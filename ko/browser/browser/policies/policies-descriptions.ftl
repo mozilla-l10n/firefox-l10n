@@ -130,6 +130,7 @@ policy-SearchSuggestEnabled = 검색 제안을 사용하거나 사용하지 않�
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = PKCS #11 모듈을 추가하거나 삭제합니다.
 policy-ShowHomeButton = 도구 모음에 홈 버튼을 표시합니다.
+policy-SkipTermsOfUse = 시작할 때 이용 약관과 개인정보처리방침을 표시하지 않습니다.
 policy-SSLVersionMax = 최대 SSL 버전을 설정합니다.
 policy-SSLVersionMin = 최소 SSL 버전을 설정합니다.
 policy-StartDownloadsInTempDirectory = 기본 다운로드 디렉터리가 아닌 로컬 임시 위치에서 강제로 다운로드를 시작합니다.

@@ -1285,6 +1285,7 @@ collection-health-report-link = තව දැනගන්න
 collection-health-report-description = මෙය { -brand-product-name } විශේෂාංග, කාර්ය සාධනය සහ ස්ථායීතාව වැඩිදියුණුවට උපකාරී වේ.
 collection-studies2 =
     .label = අධ්‍යයන ස්ථාපනය කර ධාවනය කරන්න
+collection-studies-description = විශේෂාංග සහ අදහස් සැමට නිකුත් කිරීමට පෙර උත්සාහ කරන්න.
 collection-studies =
     .label = { -brand-short-name } වෙත අධ්‍යන ස්ථාපනයට හා ධාවනයට ඉඩ දෙන්න
 collection-studies-link = { -brand-short-name } අධ්‍යන බලන්න
