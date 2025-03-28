@@ -277,6 +277,8 @@ contextual-manager-passwords-no-passwords-found-header =
 
 # This string encourages the user to save their passwords in Firefox (the "safe spot").
 contextual-manager-passwords-no-passwords-header = Składujće swoje hesła na wěstym městnje.
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = Přidajće je tu, zo byšće započał.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Manuelnje přidać
 

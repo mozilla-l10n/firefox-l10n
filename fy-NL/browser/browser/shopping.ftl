@@ -302,11 +302,30 @@ shopping-integrated-callout-opted-out-subtitle = Selektearje it priiskaartsje yn
 
 shopping-integrated-callout-sidebar-closed-title = Werom nei Beoardielingskontrôle
 shopping-integrated-callout-sidebar-closed-subtitle = Selektearje it priiskaartsje yn de sydbalke om te sjen oft jo de beoardielingen fan in produkt fertrouwe kinne.
+shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Selektearje de sydbalkeknop om te sjen oft jo de beoardielingen fan in produkt fertrouwe kinne.
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-title = Deselde Beoardielingskontrôle, nij plak
+shopping-integrated-new-position-notification-move-right-subtitle = Hâld Beoardielingskontrôle en de rest fan de { -brand-product-name }-sydbalke hjir – of ferpleatse se nei rjochts. Wikselje no of op elk momint yn de <a data-l10n-name="sidebar_settings">sydbalkeynstellingen</a>.
+shopping-integrated-new-position-notification-move-left-subtitle = Hâld Beoardielingskontrôle en de rest fan de { -brand-product-name }-sydbalke hjir – of ferpleatse se nei links. Wikselje no of op elk momint yn de <a data-l10n-name="sidebar_settings">sydbalkeynstellingen</a>.
+shopping-integrated-new-position-notification-move-right-button = Nei rjochts
+shopping-integrated-new-position-notification-move-left-button = Nei links
+shopping-integrated-new-position-notification-dismiss-button = Begrepen
 
 ## Combined setting for auto-open and auto-close.
 
+shopping-settings-auto-open-and-close-toggle =
+    .label = Beoardielingskontrôle automatysk iepenje en slute
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-and-close-description-three-sites = Iepenet as jo produkten besjogge op { $firstSite }, { $secondSite } en { $thirdSite } en slút as jo dizze ferlitte
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-and-close-description-single-site = Iepenet as jo produkten besjogge op { $currentSite } en slút as jo dizze ferlitte

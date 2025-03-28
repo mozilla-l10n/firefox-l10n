@@ -201,11 +201,19 @@ contextual-manager-passwords-vulnerable-password-link-message = Hoe wit { -brand
 contextual-manager-passwords-no-username-heading-and-message =
     .heading = Brûkersnamme tafoegje
     .message = Foegje der ien ta om flugger oan te melden.
+contextual-manager-passwords-add-username-button = Brûkersnamme tafoegje
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Wachtwurd tafoegje
+contextual-manager-passwords-edit-label =
+    .label = Wachtwurd bewurkje
+contextual-manager-passwords-remove-label =
+    .title = Wachtwurd fuortsmite
+contextual-manager-passwords-origin-tooltip = Fier it krekte adres yn wêr’t jo jo op dizze website oanmelde sille.
+contextual-manager-passwords-username-tooltip = Fier de brûkersnamme, it e-mailadres of it accountnûmer yn dat jo brûke om jo oan te melden.
+contextual-manager-passwords-password-tooltip = Fier it wachtwurd yn dat brûkt is om jo oan te melden by dizze account.
 
 ## Password Card
 
