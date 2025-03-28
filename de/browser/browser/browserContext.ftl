@@ -167,7 +167,7 @@ main-context-menu-copy-link-simple =
 # sites add into URLs to help them deliver a certain browsing experience.
 main-context-menu-copy-clean-link =
     .label = Saubere Link-Adresse kopieren
-    .accesskey = S
+    .accesskey = u
 # This command copies the link, removing additional
 # query parameters used to track users across sites.
 main-context-menu-strip-on-share-link =
