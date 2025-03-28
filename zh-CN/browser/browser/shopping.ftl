@@ -259,12 +259,18 @@ shopping-opt-in-integrated-headline = 让购物时心里有数
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-not-opted-in-integrated-reminder-dismiss-button = 知道了
+shopping-callout-not-opted-in-integrated-reminder-do-not-show = 不再显示此建议
+shopping-callout-not-opted-in-integrated-reminder-show-fewer = 减少显示建议
+shopping-callout-not-opted-in-integrated-reminder-manage-settings = 管理设置
+shopping-opt-in-integrated-button = 试试核查评价
 
 ## Message strings for Review Checker's empty states.
 
 
 ## Confirm disabling Review Checker for newly opted out users
 
+shopping-integrated-callout-opted-out-title = 核查评价已关闭
 
 ## Callout for where to find Review Checker when the sidebar closes
 

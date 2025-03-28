@@ -68,7 +68,12 @@ contextual-manager-passwords-import-error-heading-and-message =
     .message = Kontrollér at din fil inkluderer kolonner med websteder, brugernavne og adgangskoder.
 contextual-manager-passwords-import-error-button-try-again = Prøv igen
 contextual-manager-passwords-import-error-button-cancel = Annuller
+contextual-manager-passwords-import-learn-more = Læs mere om at importere adgangskoder
+contextual-manager-passwords-export-success-heading =
+    .heading = Adgangskoder eksporteret
 contextual-manager-passwords-export-success-button = Færdig
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = Eksporter adgangskoder til fil?
 contextual-manager-export-passwords-dialog-confirm-button = Fortsæt med eksport
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Eksporter adgangskoder fra { -brand-short-name }

@@ -254,12 +254,23 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 ## Review Checker in Integrated sidebar
 
+# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
+shopping-opt-in-integrated-headline = შეიძინეთ თავდაჯერებულად
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-opt-in-integrated-headline = შეგიძლიათ ენდოთ ამ მიმოხილვებს?
+shopping-callout-not-opted-in-integrated-reminder-dismiss-button = აცილება
+shopping-callout-not-opted-in-integrated-reminder-accept-button = ჩართეთ მიმოხილვის შემმოწმებელი
+shopping-callout-not-opted-in-integrated-reminder-do-not-show = მომავალში შემოთავაზების გარეშე
+shopping-callout-not-opted-in-integrated-reminder-show-fewer = ნაკლები ამგვარი შემოთავაზებები
+shopping-callout-not-opted-in-integrated-reminder-manage-settings = პარამეტრების მართვა
+shopping-opt-in-integrated-button = გამოცადეთ მიმოხილვის შემმოწმებელი
 
 ## Message strings for Review Checker's empty states.
 
+shopping-empty-state-header = მზადაა მიმოხილვების შესამოწმებლად
+shopping-empty-state-supported-site = დაათვალიერეთ საყიდლები და { -brand-product-name } გადაამოწმებს მიმოხილვების სანდოობას.
 
 ## Confirm disabling Review Checker for newly opted out users
 
@@ -271,6 +282,11 @@ shopping-onboarding-welcome-steps-indicator-label =
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-move-right-button = მარჯვნივ გადატანა
+shopping-integrated-new-position-notification-move-left-button = მარცხნივ გადატანა
+shopping-integrated-new-position-notification-dismiss-button = გასაგებია
 
 ## Combined setting for auto-open and auto-close.
 
+shopping-settings-auto-open-and-close-toggle =
+    .label = მიმოხილვების შემმოწმებლის თავისით გახსნა და დახურვა
