@@ -156,18 +156,36 @@ contextual-manager-passwords-alert-back-button =
     .label = Tillbaka
 contextual-manager-passwords-alert-list =
     .aria-label = Varningslista
+contextual-manager-passwords-breached-origin-link-message = Hur vet { -brand-product-name } om intrång?
+contextual-manager-passwords-change-password-button = Ändra lösenord
+contextual-manager-passwords-add-username-button = Lägg till användarnamn
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Lägg till lösenord
+contextual-manager-passwords-edit-label =
+    .label = Redigera lösenord
+contextual-manager-passwords-remove-label =
+    .title = Ta bort lösenord
+contextual-manager-passwords-origin-tooltip = Ange den exakta adressen där du ska logga in på den här webbplatsen.
+contextual-manager-passwords-username-tooltip = Ange användarnamnet, e-postadressen eller kontonumret du använder för att logga in.
+contextual-manager-passwords-password-tooltip = Ange lösenordet som användes för att logga in på det här kontot.
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = Lösenord
+contextual-manager-website-icon =
+    .alt = Webbplatsikon
 contextual-manager-copy-icon =
     .alt = Kopiera
+contextual-manager-check-icon-username =
+    .alt = Kopierad
+contextual-manager-check-icon-password =
+    .alt = Kopierad
+contextual-manager-alert-icon =
+    .alt = Varning
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
@@ -176,3 +194,5 @@ contextual-manager-copy-icon =
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-close-button = Stäng
+contextual-manager-passwords-discard-changes-go-back-button = Gå tillbaka

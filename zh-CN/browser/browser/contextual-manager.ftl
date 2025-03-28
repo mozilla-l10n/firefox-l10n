@@ -64,6 +64,7 @@ contextual-manager-passwords-import-success-heading =
 contextual-manager-passwords-import-detailed-report = 查看详细报告
 contextual-manager-passwords-import-success-button = 完成
 contextual-manager-passwords-import-error-button-cancel = 取消
+contextual-manager-passwords-import-learn-more = 了解有关导入密码的信息
 contextual-manager-passwords-export-success-heading =
     .heading = 密码已导出
 contextual-manager-passwords-export-success-button = 完成

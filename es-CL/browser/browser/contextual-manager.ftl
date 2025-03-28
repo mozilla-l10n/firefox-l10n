@@ -100,7 +100,7 @@ contextual-manager-passwords-remove-all-title =
     { $total ->
         [1] ¿Eliminar la contraseña?
         [one] ¿Eliminar la contraseña?
-       *[other] ¿Eliminar todas las { $count } contraseñas?
+       *[other] ¿Eliminar todas las { $total } contraseñas?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords

@@ -262,8 +262,8 @@ about-logins-confirm-remove-all-sync-dialog-title2 = 确定在所有设备上移
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =
     { $count ->
-        [1] 将在您所有同步的设备上，移除保存在 { -brand-short-name } 中的全部密码，以及在此显示的所有数据外泄警报。此操作不可撤销。
-       *[other] 将在您所有同步的设备上，移除保存在 { -brand-short-name } 中的全部密码，以及在此显示的所有数据外泄警报。此操作不可撤销。
+        [1] 将从您所有同步的设备上，移除保存在 { -brand-short-name } 中的密码，以及在此显示的所有外泄警报。此操作不可撤销。
+       *[other] 将从您所有同步的设备上，移除保存在 { -brand-short-name } 中的全部密码，以及在此显示的所有外泄警报。此操作不可撤销。
     }
 
 ##
