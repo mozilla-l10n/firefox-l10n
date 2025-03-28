@@ -70,11 +70,22 @@ contextual-manager-passwords-import-success-button = Hecho
 contextual-manager-passwords-import-error-heading-and-message =
     .heading = No se pudieron importar las contraseñas
     .message = Asegúrese que el archivo incluya una columna para sitios web, nombres de usuario y contraseñas.
+contextual-manager-passwords-import-error-button-try-again = Intentar nuevamente
 contextual-manager-passwords-import-error-button-cancel = Cancelar
+contextual-manager-passwords-import-learn-more = Conocer más sobre cómo importar contraseñas
+contextual-manager-passwords-export-success-heading =
+    .heading = Contraseñas exportadas
 contextual-manager-passwords-export-success-button = Hecho
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = ¿Exportar contraseñas a un archivo?
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = Después de exportar, recomendamos eliminarlo para que otras personas que puedan usar este dispositivo no puedan ver las contraseñas.
 contextual-manager-export-passwords-dialog-confirm-button = Continuar con la exportación
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Exportar contraseñas de { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = contraseñas
 contextual-manager-passwords-export-file-picker-export-button = Exportar
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -82,6 +93,14 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] Documento CSV
        *[other] Archivo CSV
+    }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] ¿Eliminar contraseña?
+        [one] ¿Eliminar contraseña?
+       *[other] ¿Eliminar todas las { $total } contraseñas?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
@@ -99,6 +118,23 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Eliminar todos
        *[other] Eliminar todos
     }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] Esto eliminará la contraseña guardada en { -brand-short-name } y cualquier alerta de filtración. No sé puede deshacer esta acción.
+        [one] Esto eliminará la contraseña guardada en { -brand-short-name } y cualquier alerta de filtración. No sé puede deshacer esta acción.
+       *[other] Esto eliminará las contraseñas guardadas en { -brand-short-name } y cualquier alerta de filtración. No sé puede deshacer esta acción.
+    }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] Esto eliminará la contraseña guardada en { -brand-short-name } y en todos los dispositivos sincronizados. Esto también eliminará cualquier alerta de filtración. No se puede deshacer esta acción.
+        [one] Esto eliminará la contraseña guardada en { -brand-short-name } y en todos los dispositivos sincronizados. Esto también eliminará cualquier alerta de filtración. No se puede deshacer esta acción.
+       *[other] Esto eliminará todas las contraseñas guardadas en { -brand-short-name } y en todos los dispositivos sincronizados. Esto también eliminará cualquier alerta de filtración. No se puede deshacer esta acción.
+    }
+contextual-manager-passwords-origin-label = Sitio web
 contextual-manager-passwords-update-password-success-button = Hecho
 contextual-manager-passwords-delete-password-success-button = Hecho
 # This message is displayed to make sure that a user wants to delete an existing login.
