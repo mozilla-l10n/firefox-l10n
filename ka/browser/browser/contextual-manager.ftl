@@ -16,7 +16,11 @@ contextual-manager-more-options-popup =
 contextual-manager-passwords-command-create = პაროლის დამატება
 contextual-manager-passwords-command-import-from-browser = გადმოტანა სხვა ბრაუზერიდან…
 contextual-manager-passwords-command-import = ფაილიდან გადმოტანა…
+contextual-manager-passwords-command-export = პაროლების გატანა
+contextual-manager-passwords-command-remove-all = ყველა პაროლის მოცილება
+contextual-manager-passwords-command-settings = პარამეტრები
 contextual-manager-passwords-command-help = დახმარება
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = პაროლის გასატანად დაამოწმეთ Windows-ანგარიში. ეს დაგეხმარებათ, უკეთ დაიცვათ თქვენი ანგარიშების მონაცემები.
 # This message can be seen when attempting to export a password in about:logins
@@ -39,6 +43,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = პა�
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = შენახული პაროლის ასლის აღებას
+contextual-manager-passwords-import-file-picker-title = პაროლების გადმოტანა
 contextual-manager-passwords-import-file-picker-import-button = გადმოტანა
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -54,12 +59,31 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] TSV-დოკუმენტი
        *[other] TSV-ფაილი
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = პაროლები გადმოტანილია
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = ახალი: { $added }, განახლებული: { $modified }
+contextual-manager-passwords-import-detailed-report = დაწვრილებითი ანგარიშის ნახვა
 contextual-manager-passwords-import-success-button = მზადაა
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = პაროლების გადმოტანა ვერ მოხერხდა
+    .message = გადაამოწმეთ, რომ ფაილი შეიცავდეს სვეტებს ვებსაიტებისთვის, მეტსახელებისა და პაროლებისთვის.
+contextual-manager-passwords-import-error-button-try-again = ხელახლა ცდა
 contextual-manager-passwords-import-error-button-cancel = გაუქმება
+contextual-manager-passwords-import-learn-more = ვრცლად პაროლების გადმოტანის შესახებ
+contextual-manager-passwords-export-success-heading =
+    .heading = პაროლები გატანილია
 contextual-manager-passwords-export-success-button = მზადაა
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = გსურთ პაროლების გატანა ფაილში?
 contextual-manager-export-passwords-dialog-confirm-button = განაგრძეთ გატანა
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = პაროლებს გაიტანს { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = პაროლები
 contextual-manager-passwords-export-file-picker-export-button = გატანა
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -67,6 +91,13 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] CSV-დოკუმენტი
        *[other] CSV-ფაილი
+    }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] წაიშალოს პაროლი?
+       *[other] წაიშალოს ყველა { $total } პაროლი?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
