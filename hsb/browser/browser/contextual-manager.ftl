@@ -169,18 +169,42 @@ contextual-manager-passwords-alert-back-button =
     .label = Wróćo
 contextual-manager-passwords-alert-list =
     .aria-label = Lisćina warnowanjow
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = Změna hesła doporučena
+    .message = Hesła z tutoho websydła su so jako kradnyli abo roznjesli. Změńće swoje hesło, zo byšće swoje konto škitał.
+contextual-manager-passwords-change-password-button = Hesło změnić
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = Změna hesła doporučena
+    .message = Tute hesło da so lochko wuhódać. Změńće swoje hesło, zo byšće swoje konto škitał.
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Přidajće wužiwarske mjeno
+    .message = Přidajće jo, zo byšće so spěšnišo přizjewił
+contextual-manager-passwords-add-username-button = Wužiwarske mjeno přidać
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Hesło přidać
+contextual-manager-passwords-edit-label =
+    .label = Hesło wobdźěłać
+contextual-manager-passwords-remove-label =
+    .title = Hesło wotstronić
+contextual-manager-passwords-origin-tooltip = Zapodajće eksaktnu adresu, hdźež so pola tutoho sydła přizjewjeće.
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = Hesła
+contextual-manager-website-icon =
+    .alt = Symbol websydła
 contextual-manager-copy-icon =
     .alt = Kopěrować
+contextual-manager-check-icon-username =
+    .alt = Kopěrowany
+contextual-manager-check-icon-password =
+    .alt = Kopěrowany
+contextual-manager-alert-icon =
+    .alt = Warnowanje
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:

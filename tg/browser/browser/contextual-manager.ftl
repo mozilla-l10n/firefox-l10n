@@ -67,6 +67,9 @@ contextual-manager-passwords-import-success-heading =
 contextual-manager-passwords-import-success-message = Нав: { $added }, ивазшуда: { $modified }
 contextual-manager-passwords-import-detailed-report = Дидани гузориши ботафсил
 contextual-manager-passwords-import-success-button = Тайёр
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = Ниҳонвожаҳо ворид карда нашуданд
+    .message = Мутмаин шавед, ки файли шумо сутунеро барои сомонаҳо, номҳои корбар ва ниҳонвожаҳо дар бар мегирад.
 contextual-manager-passwords-import-error-button-try-again = Аз нав кӯшиш кардан
 contextual-manager-passwords-import-error-button-cancel = Бекор кардан
 contextual-manager-passwords-import-learn-more = Маълумот дар бораи воридкунии ниҳонвожаҳо
@@ -75,6 +78,8 @@ contextual-manager-passwords-export-success-heading =
 contextual-manager-passwords-export-success-button = Тайёр
 # Export passwords to file dialog
 contextual-manager-export-passwords-dialog-title = Ниҳонвожаҳоро ба файл содир мекунед?
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = Пас аз он, ки шумо ниҳонвожаҳоро содир мекунед, мо тавсия медиҳем, ки шумо файлро нест кунед, то ки корбарони дигаре, ки аз ин дастгоҳ истифода мебаранд, ниҳонвожаҳои шуморо дида натавонанд.
 contextual-manager-export-passwords-dialog-confirm-button = Идома додани содирот
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Содир кардани ниҳонвожаҳо аз «{ -brand-short-name }»
@@ -110,6 +115,13 @@ contextual-manager-passwords-remove-all-confirm-button =
         [1] Тоза кардан
        *[other] Ҳамаро тоза кардан
     }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] Ин амал ҳар гуна огоҳӣ оид ба вайронкунӣ ва ниҳонвожаеро, ки дар «{ -brand-short-name }» нигоҳ дошта шудааст нест мекунад. Шумо ин амалро бекор карда наметавонед.
+       *[other] Ин амал ҳар гуна огоҳӣ оид ба вайронкунӣ ва ниҳонвожаҳоеро, ки дар «{ -brand-short-name }» нигоҳ дошта шудаанд нест мекунад. Шумо ин амалро бекор карда наметавонед.
+    }
 contextual-manager-passwords-origin-label = Сомона
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = Номи корбар
@@ -117,6 +129,12 @@ contextual-manager-passwords-username-label = Номи корбар
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-password-label = Ниҳонвожа
     .data-after = Нусха бардошта шуд
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Ҷустуҷӯи ниҳонвожаҳо
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = Ниҳонвожа барои { $url } илова карда шуд
 contextual-manager-passwords-add-password-success-button = Намоиш
 contextual-manager-passwords-password-already-exists-error-button = Гузариш ба ниҳонвожа
 contextual-manager-passwords-update-password-success-heading =
@@ -135,8 +153,13 @@ contextual-manager-passwords-delete-password-success-button = Тайёр
 # Radiobutton label to display total number of passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-radiobutton-all = Ҳамагӣ ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = Огоҳиҳо ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Ниҳонвожаро нест мекунед?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = Шумо ин амалро бекор карда наметавонед.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = Ба қафо
 # This message confirms that the user wants to remove an existing login.

@@ -524,3 +524,7 @@ newtab-section-mangage-topics-followed-topics = Gevolgd
 newtab-section-mangage-topics-followed-topics-empty-state = U hebt nog geen onderwerpen gevolgd.
 newtab-section-mangage-topics-blocked-topics = Geblokkeerd
 newtab-section-mangage-topics-blocked-topics-empty-state = U hebt nog geen onderwerpen geblokkeerd.
+newtab-custom-wallpaper-title = Hier vindt u aangepaste achtergronden
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle = Upload uw eigen achtergrond of kies een aangepaste kleur om { -brand-product-name } van uzelf te maken.
+newtab-custom-wallpaper-cta = Uitproberen

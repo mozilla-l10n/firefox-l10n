@@ -105,23 +105,91 @@ contextual-manager-passwords-remove-all-title =
 contextual-manager-passwords-remove-all-confirm =
     { $total ->
         [1] დიახ, წაიშალოს პაროლი
+        [one] დიახ, წაიშალოს პაროლი
        *[other] დიახ, წაიშალოს პაროლები
+    }
+# Button label to confirm removal of saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-confirm-button =
+    { $total ->
+        [1] მოცილება
+        [one] მოცილება
+       *[other] ყველას მოცილება
     }
 # Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-message =
     { $total ->
-        [one] შედეგად წაიშლება პაროლი, რომელსაც ინახავს { -brand-short-name } და მიტაცების შესახებ შეტყობინებებიც. ეს ქმედება შეუქცევადია.
-       *[other] შედეგად წაიშლება ყველა პაროლი, რომელთაც ინახავს { -brand-short-name } და მიტაცების შესახებ შეტყობინებებიც. ეს ქმედება შეუქცევადია.
+        [1] შედეგად წაიშლება პაროლი, რომელსაც ინახავს { -brand-short-name } და მიჰყვება მიტაცების შესახებ შეტყობინებებიც. ეს ქმედება შეუქცევადია.
+        [one] შედეგად წაიშლება პაროლი, რომელსაც ინახავს { -brand-short-name } და მიჰყვება მიტაცების შესახებ შეტყობინებებიც. ეს ქმედება შეუქცევადია.
+       *[other] შედეგად წაიშლება პაროლები, რომელთაც ინახავს { -brand-short-name } და მიჰყვება მიტაცების შესახებ შეტყობინებებიც. ეს ქმედება შეუქცევადია.
     }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] შედეგად წაიშლება პაროლი, რომელსაც ინახავს { -brand-short-name } ყველა დასინქრონებულ მოწყობილობაზე და მიჰყვება მიტაცების შესახებ შეტყობინებებიც. ეს ქმედება შეუქცევადია.
+        [one] შედეგად წაიშლება პაროლი, რომელსაც ინახავს { -brand-short-name } ყველა დასინქრონებულ მოწყობილობაზე და მიჰყვება მიტაცების შესახებ შეტყობინებებიც. ეს ქმედება შეუქცევადია.
+       *[other] შედეგად წაიშლება პაროლები, რომელთაც ინახავს { -brand-short-name } ყველა დასინქრონებულ მოწყობილობაზე და მიჰყვება მიტაცების შესახებ შეტყობინებებიც. ეს ქმედება შეუქცევადია.
+    }
+contextual-manager-passwords-origin-label = ვებსაიტი
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = მომხმარებელი
+    .data-after = ასლი აღებულია
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = პაროლი
+    .data-after = ასლი აღებულია
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = პაროლების გამორჩევა
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = პაროლის დამატებით განახლდა { $url }
+contextual-manager-passwords-add-password-success-button = ჩვენება
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = პაროლი და მომხმარებლის სახელი მისამართისთვის { $url } უკვე არსებობს
+contextual-manager-passwords-password-already-exists-error-button = გადასვლა პაროლზე
+contextual-manager-passwords-update-password-success-heading =
+    .heading = პაროლი შენახულია
 contextual-manager-passwords-update-password-success-button = მზადაა
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] პაროლი მოცილებულია
+            [one] პაროლი მოცილებულია
+           *[other] პაროლები მოცილებულია
+        }
 contextual-manager-passwords-delete-password-success-button = მზადაა
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = ყველა ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = ცნობები ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = წაიშალოს პაროლი?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = ეს ქმედება შეუქცევადია.
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = უკან
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = მოცილება
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = გაუქმება
+contextual-manager-passwords-alert-card =
+    .aria-label = პაროლის შესახებ ცნობები
+contextual-manager-passwords-alert-back-button =
+    .label = უკან
+contextual-manager-passwords-alert-list =
+    .aria-label = ცნობების სია
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = პაროლი შეცვლა სასურველია
+    .message = როგორც ცნობილია, რომ პაროლები ამ ვებსაიტიდან მოპარული ან გამჟღავნებულია. შეცვალეთ პაროლი ანგარიშის დასაცავად.
 
 ## Login Form
 

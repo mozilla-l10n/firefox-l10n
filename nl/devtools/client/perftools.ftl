@@ -71,6 +71,11 @@ perftools-button-edit-settings = Instellingen bewerken…
 
 ## More actions menu
 
+perftools-menu-more-actions-button =
+    .title = Meer acties
+perftools-menu-more-actions-restart-with-profiling = { -brand-shorter-name } herstarten met opstartprofilering ingeschakeld
+perftools-menu-more-actions-copy-for-startup = Omgevingsvariabelen voor opstartprofilering kopiëren
+perftools-menu-more-actions-copy-for-perf-tests = Parameters voor prestatietests kopiëren
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 

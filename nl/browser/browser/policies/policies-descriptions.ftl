@@ -130,6 +130,7 @@ policy-SearchSuggestEnabled = Zoeksuggesties inschakelen of uitschakelen.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = PKCS #11-modules toevoegen of verwijderen.
 policy-ShowHomeButton = De startpaginaknop op de werkbalk tonen.
+policy-SkipTermsOfUse = De gebruiksvoorwaarden en privacyverklaring niet tonen bij opstarten.
 policy-SSLVersionMax = De maximale SSL-versie instellen.
 policy-SSLVersionMin = De minimale SSL-versie instellen.
 policy-StartDownloadsInTempDirectory = Afdwingen dat downloads starten in een lokale, tijdelijke locatie in plaats van de standaard downloadmap.

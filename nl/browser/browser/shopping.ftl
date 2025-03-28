@@ -254,23 +254,76 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 ## Review Checker in Integrated sidebar
 
+# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
+shopping-opt-in-integrated-headline = Winkel met vertrouwen
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle = Schakel Beoordelingscontrole van { -brand-product-name } in om te zien hoe betrouwbaar productbeoordelingen zijn, voordat u koopt. Het gebruikt AI-technologie om beoordelingen te analyseren en werkt wanneer u winkelt op { $firstSite }, { $secondSite } en { $thirdSite }. <a data-l10n-name="learn_more">Meer info</a>
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle-unsupported-site = Review Checker van { -brand-product-name } helpt u ontdekken hoe betrouwbaar de beoordelingen van een product zijn, voordat u het koopt. Het gebruikt AI-technologie om beoordelingen te analyseren en werkt wanneer u winkelt op { $firstSite }, { $secondSite } en { $thirdSite }. <a data-l10n-name="learn_more">Meer info</a>
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-opt-in-integrated-headline = Kunt u deze beoordelingen vertrouwen?
+# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
+shopping-callout-not-opted-in-integrated-paragraph1 = Schakel Beoordelingscontrole van { -brand-product-name } in om erachter te komen. Het wordt mogelijk gemaakt door { -fakespot-brand-full-name } en gebruikt AI-technologie om beoordelingen te analyseren.
+shopping-callout-not-opted-in-integrated-paragraph2 = Door ‘{ shopping-opt-in-integrated-button }’ te selecteren, gaat u akkoord met de <a data-l10n-name="privacy_policy">privacyverklaring</a> van { -brand-product-name } en  de <a data-l10n-name="terms_of_use">gebruiksvoorwaarden</a> van { -fakespot-brand-full-name }.
+shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Sluiten
+shopping-callout-not-opted-in-integrated-reminder-accept-button = Beoordelingscontrole inschakelen
+shopping-callout-not-opted-in-integrated-reminder-do-not-show = Deze aanbeveling niet meer tonen
+shopping-callout-not-opted-in-integrated-reminder-show-fewer = Minder aanbevelingen tonen
+shopping-callout-not-opted-in-integrated-reminder-manage-settings = Instellingen beheren
+shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Beoordelingscontrole wordt mogelijk gemaakt door { -fakespot-brand-full-name }. Door ‘{ shopping-opt-in-integrated-button }’ te selecteren, gaat u akkoord met de <a data-l10n-name="privacy_policy">privacyverklaring</a> van { -brand-product-name } en de <a data-l10n-name="terms_of_use">gebruiksvoorwaarden</a> van { -fakespot-brand-name }.
+shopping-opt-in-integrated-button = Probeer beoordelingscontrole
 
 ## Message strings for Review Checker's empty states.
 
+shopping-empty-state-header = Gereed om beoordelingen te controleren
+shopping-empty-state-supported-site = Bekijk een product en { -brand-product-name } controleert of de beoordelingen betrouwbaar zijn.
+# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
+# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
+shopping-empty-state-non-supported-site = Beoordelingscontrole werkt als u winkelt op:
 
 ## Confirm disabling Review Checker for newly opted out users
 
+shopping-integrated-callout-opted-out-title = Beoordelingscontrole is uitgeschakeld
+shopping-integrated-callout-opted-out-subtitle = Selecteer het prijskaartje in de zijbalk en schakel Beoordelingscontrole in om de functie weer in te schakelen.
 
 ## Callout for where to find Review Checker when the sidebar closes
 
+shopping-integrated-callout-sidebar-closed-title = Terug naar Beoordelingscontrole
+shopping-integrated-callout-sidebar-closed-subtitle = Selecteer het prijskaartje in de zijbalk om te zien of u de beoordelingen van een product kunt vertrouwen.
+shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Selecteer de zijbalkknop om te zien of u de beoordelingen van een product kunt vertrouwen.
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-title = Dezelfde Beoordelingscontrole, nieuwe plek
+shopping-integrated-new-position-notification-move-right-subtitle = Behoud Beoordelingscontrole en de rest van de { -brand-product-name }-zijbalk hier – of verplaats ze naar rechts. Wissel nu of op elk moment in de <a data-l10n-name="sidebar_settings">instellingen van de zijbalk</a>.
+shopping-integrated-new-position-notification-move-left-subtitle = Behoud Beoordelingscontrole en de rest van de { -brand-product-name }-zijbalk hier – of verplaats ze naar links. Wissel nu of op elk moment in de <a data-l10n-name="sidebar_settings">instellingen van de zijbalk</a>.
+shopping-integrated-new-position-notification-move-right-button = Naar rechts
+shopping-integrated-new-position-notification-move-left-button = Naar links
+shopping-integrated-new-position-notification-dismiss-button = Begrepen
 
 ## Combined setting for auto-open and auto-close.
 
+shopping-settings-auto-open-and-close-toggle =
+    .label = Beoordelingscontrole automatisch openen en sluiten
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-and-close-description-three-sites = Opent wanneer u producten op { $firstSite }, { $secondSite } en { $thirdSite } bekijkt en sluit wanneer u deze verlaat
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-and-close-description-single-site = Opent wanneer u producten op { $currentSite } bekijkt en sluit wanneer u deze verlaat

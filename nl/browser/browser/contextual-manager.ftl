@@ -270,11 +270,29 @@ contextual-manager-show-password-button =
 contextual-manager-hide-password-button =
     .aria-label = Wachtwoord verbergen
     .title = Wachtwoord verbergen
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = Geen wachtwoorden gevonden
+contextual-manager-passwords-no-passwords-found-message = Geen wachtwoorden gevonden. Zoek een andere term en probeer het opnieuw.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = Bewaar uw wachtwoorden op een veilige plek.
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = Alle wachtwoorden zijn versleuteld en we letten op voor datalekken en waarschuwingen als u hierdoor wordt getroffen.
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = Voeg ze hier toe om te beginnen.
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = Handmatig toevoegen
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = Sluiten zonder op te slaan?
+    .message = Uw wijzigingen worden niet opgeslagen.
+contextual-manager-passwords-discard-changes-close-button = Sluiten
+contextual-manager-passwords-discard-changes-go-back-button = Terug
