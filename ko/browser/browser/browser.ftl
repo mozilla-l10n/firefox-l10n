@@ -332,6 +332,9 @@ quickactions-cmd-addons2 = 부가 기능, add-ons
 quickactions-bookmarks2 = 북마크 관리
 quickactions-cmd-bookmarks = 북마크, bookmarks
 # Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = 최근 기록 지우기
+quickactions-cmd-clearrecenthistory = 최근 기록 지우기, 기록, history
+# Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = 기록 지우기
 quickactions-cmd-clearhistory = 기록 지우기, clear history
 # Opens about:downloads page
@@ -340,6 +343,15 @@ quickactions-cmd-downloads = 다운로드, downloads
 # Opens about:addons page in the extensions section
 quickactions-extensions = 확장 기능 관리
 quickactions-cmd-extensions = 확장 기능, extensions
+# Opens Firefox View
+quickactions-firefoxview = { -firefoxview-brand-name } 열기
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = { -firefoxview-brand-name } 열기, { -firefoxview-brand-name }, View 열기, View
+# Opens SUMO home page
+quickactions-help = { -brand-product-name } 도움말
+quickactions-cmd-help = 도움, 지원, help, support
 # Opens the devtools web inspector
 quickactions-inspector2 = 개발자 도구 열기
 quickactions-cmd-inspector = 검사기, 개발자 도구, inspector, devtools
