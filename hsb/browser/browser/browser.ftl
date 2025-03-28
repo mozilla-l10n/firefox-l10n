@@ -332,6 +332,9 @@ quickactions-cmd-addons2 = přidatki
 quickactions-bookmarks2 = Zapołožki rjadować
 quickactions-cmd-bookmarks = zapołožki
 # Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Aktualnu historiju wuprózdnić
+quickactions-cmd-clearrecenthistory = aktualnu historiju wuprózdnić, historija
+# Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Historiju zhašeć
 quickactions-cmd-clearhistory = historiju zhašeć
 # Opens about:downloads page
@@ -340,6 +343,8 @@ quickactions-cmd-downloads = sćehnjenja
 # Opens about:addons page in the extensions section
 quickactions-extensions = Rozšěrjenja rjadować
 quickactions-cmd-extensions = rozšěrjenja
+# Opens Firefox View
+quickactions-firefoxview = { -firefoxview-brand-name } wočinić
 # Opens the devtools web inspector
 quickactions-inspector2 = Wuwiwarske nastroje wočinić
 quickactions-cmd-inspector = inspektor, wuwiwarske nastroje
