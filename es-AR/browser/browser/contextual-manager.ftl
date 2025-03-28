@@ -135,24 +135,92 @@ contextual-manager-passwords-remove-all-message-sync =
        *[other] Esto eliminará todas las contraseñas guardadas en { -brand-short-name } y en todos los dispositivos sincronizados. Esto también eliminará cualquier alerta de filtración. No se puede deshacer esta acción.
     }
 contextual-manager-passwords-origin-label = Sitio web
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Nombre de usuario
+    .data-after = Copiado
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Contraseña
+    .data-after = Copiada
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Filtrar contraseñas
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = Contraseña agregada para { $url }
+contextual-manager-passwords-add-password-success-button = Ver
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = Ya existe una contraseña y un nombre de usuario para { $url }
+contextual-manager-passwords-password-already-exists-error-button = Ir a contraseña
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Contraseña guardada
 contextual-manager-passwords-update-password-success-button = Hecho
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] Contraseña eliminada
+            [one] Contraseña eliminada
+           *[other] Contraseñas eliminadas
+        }
 contextual-manager-passwords-delete-password-success-button = Hecho
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = Todas ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = Alertas ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = ¿Eliminar la  contraseña?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = No se puede deshacer esto.
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Atrás
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Eliminar
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Cancelar
+contextual-manager-passwords-alert-card =
+    .aria-label = Alertas de contraseña
+contextual-manager-passwords-alert-back-button =
+    .label = Atrás
+contextual-manager-passwords-alert-list =
+    .aria-label = Lista de alertas
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = Se recomienda cambio de contraseña
+    .message = Las contraseñas de este sitio web se informaron como robadas o filtradas. Cambie su contraseña para proteger su cuenta.
+contextual-manager-passwords-breached-origin-link-message = ¿Cómo es que { -brand-product-name } sabe sobre las filtraciones?
+contextual-manager-passwords-change-password-button = Cambiar contraseña
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = Se recomienda cambio de contraseña
+    .message = Está contraseña es fácil de adivinar. Cambie su contraseña para proteger su cuenta.
+contextual-manager-passwords-vulnerable-password-link-message = ¿Cómo es que { -brand-product-name } sabe sobre contraseñas débiles?
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Agregar un nombre de usuario
+    .message = Agregue uno para iniciar sesión más rápido.
+contextual-manager-passwords-add-username-button = Agregar nombre de usuario
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Agregar contraseña
+contextual-manager-passwords-edit-label =
+    .label = Editar contraseña
+contextual-manager-passwords-remove-label =
+    .title = Eliminar contraseña
+contextual-manager-passwords-origin-tooltip = Ingrese la dirección exacta donde iniciará sesión en este sitio.
+contextual-manager-passwords-username-tooltip = Ingrese el nombre de usuario, dirección de correo electrónico o número de cuenta que usa para iniciar sesión.
+contextual-manager-passwords-password-tooltip = Ingrese la contraseña usada para iniciar sesión en esta cuenta.
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = Contraseñas
+contextual-manager-website-icon =
+    .alt = Ícono del sitio web
 contextual-manager-copy-icon =
     .alt = Copiar
 

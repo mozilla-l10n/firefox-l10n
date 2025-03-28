@@ -332,6 +332,9 @@ quickactions-cmd-addons2 = ҷузъҳои иловагӣ
 quickactions-bookmarks2 = Идоракунии хатбаракҳо
 quickactions-cmd-bookmarks = хатбаракҳо
 # Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Пок кардани таърихи охирин
+quickactions-cmd-clearrecenthistory = пок кардани таърихи охирин, таърих
+# Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Пок кардани таърих
 quickactions-cmd-clearhistory = пок кардани таърих
 # Opens about:downloads page
@@ -340,6 +343,15 @@ quickactions-cmd-downloads = боргириҳо
 # Opens about:addons page in the extensions section
 quickactions-extensions = Идоракунии васеъшавиҳо
 quickactions-cmd-extensions = васеъшавиҳо
+# Opens Firefox View
+quickactions-firefoxview = Кушодани «{ -firefoxview-brand-name }»
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = кушодани «{ -firefoxview-brand-name }», «{ -firefoxview-brand-name }», кушодани намоиш, намоиш
+# Opens SUMO home page
+quickactions-help = Кумаки «{ -brand-product-name }»
+quickactions-cmd-help = кумак, дастгирӣ
 # Opens the devtools web inspector
 quickactions-inspector2 = Кушодани абзорҳои барномарезӣ
 quickactions-cmd-inspector = тафтишкунанда, абзорҳои барномарезӣ

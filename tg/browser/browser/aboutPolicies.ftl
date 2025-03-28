@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-policies-title = Сиёсати корхона
+aboutpolicies-page-heading =
+    .heading = Дар бораи сиёсатҳо
 # 'Active' is used to describe the policies that are currently active
 active-policies-tab = Фаъол
 errors-tab = Хатоҳо
