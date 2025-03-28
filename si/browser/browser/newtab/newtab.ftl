@@ -336,6 +336,7 @@ newtab-weather-error-not-available = කාලගුණ දත්ත දැන�
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
 ## e.g. Blocked the politics section of stories.
 
+newtab-section-blocked-button = අවහිරයි
 
 ## Confirmation modal for blocking a section
 
