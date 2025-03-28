@@ -6,13 +6,21 @@ contextual-manager-filter-input =
     .placeholder = 搜索密码
     .key = F
     .aria-label = 搜索密码
+contextual-manager-menu-more-options-button =
+    .title = 更多选项
+contextual-manager-more-options-popup =
+    .aria-label = 更多选项
 
 ## Passwords
 
 contextual-manager-passwords-command-create = 添加密码
 contextual-manager-passwords-command-import-from-browser = 从其他浏览器导入…
 contextual-manager-passwords-command-import = 从文件导入…
+contextual-manager-passwords-command-export = 导出密码
+contextual-manager-passwords-command-remove-all = 移除所有密码
+contextual-manager-passwords-command-settings = 设置
 contextual-manager-passwords-command-help = 帮助
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = 请输入 Windows 登录凭据，以导出密码。这有助于保护您的账户安全。
 # This message can be seen when attempting to export a password in about:logins
@@ -35,6 +43,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = 请输�
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = 复制保存的密码
+contextual-manager-passwords-import-file-picker-title = 导入密码
 contextual-manager-passwords-import-file-picker-import-button = 导入
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -50,8 +59,13 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] TSV 文件
        *[other] TSV 文件
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = 密码已导入
+contextual-manager-passwords-import-detailed-report = 查看详细报告
 contextual-manager-passwords-import-success-button = 完成
 contextual-manager-passwords-import-error-button-cancel = 取消
+contextual-manager-passwords-export-success-heading =
+    .heading = 密码已导出
 contextual-manager-passwords-export-success-button = 完成
 contextual-manager-export-passwords-dialog-confirm-button = 继续导出
 # Title of the file picker dialog

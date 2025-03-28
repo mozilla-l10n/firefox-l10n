@@ -210,6 +210,7 @@ contextual-manager-passwords-edit-label =
 contextual-manager-passwords-remove-label =
     .title = Remover contrasigno
 contextual-manager-passwords-origin-tooltip = Insere le adresse exacte ubi tu accedera a iste sito.
+contextual-manager-passwords-username-tooltip = Insere le nomine de usator, adresse email, o numero de conto que tu usa pro acceder.
 contextual-manager-passwords-password-tooltip = Insere le contrasigno usate pro acceder a iste conto.
 
 ## Password Card
