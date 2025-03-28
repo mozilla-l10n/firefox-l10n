@@ -130,8 +130,8 @@ contextual-manager-passwords-remove-all-message =
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-message-sync =
     { $total ->
-        [1] Dit verwijdert het wachtwoord dat zijn opgeslagen in { -brand-short-name } van al uw gesynchroniseerde apparaten en alle waarschuwingen over datalekken. U kunt deze actie niet ongedaan maken.
-        [one] Dit verwijdert het wachtwoord dat zijn opgeslagen in { -brand-short-name } van al uw gesynchroniseerde apparaten en alle waarschuwingen over datalekken. U kunt deze actie niet ongedaan maken.
+        [1] Dit verwijdert het wachtwoord dat is opgeslagen in { -brand-short-name } van al uw gesynchroniseerde apparaten en alle waarschuwingen over datalekken. U kunt deze actie niet ongedaan maken.
+        [one] Dit verwijdert het wachtwoord dat is opgeslagen in { -brand-short-name } van al uw gesynchroniseerde apparaten en alle waarschuwingen over datalekken. U kunt deze actie niet ongedaan maken.
        *[other] Dit verwijdert alle wachtwoorden die zijn opgeslagen in { -brand-short-name } van al uw gesynchroniseerde apparaten en alle waarschuwingen over datalekken. U kunt deze actie niet ongedaan maken.
     }
 contextual-manager-passwords-origin-label = Website

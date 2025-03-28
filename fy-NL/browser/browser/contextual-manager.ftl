@@ -94,6 +94,14 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
         [macos] CSV-dokumint
        *[other] CSV-bestân
     }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] Wachtwurd fuortsmite?
+        [one] Wachtwurd fuortsmite?
+       *[other] Alle { $total } wachtwurden fuortsmite?
+    }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
@@ -110,14 +118,89 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Fuortsmite
        *[other] Alle fuortsmite
     }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] Dit smyt jo wachtwurd dy’t bewarre is yn { -brand-short-name } en alle warskôgingen oer datalekken fuort. Jo kinne dizze aksje net ûngedien meitsje.
+        [one] Dit smyt jo wachtwurd dy’t bewarre is yn { -brand-short-name } en alle warskôgingen oer datalekken fuort. Jo kinne dizze aksje net ûngedien meitsje.
+       *[other] Dit smyt de wachtwurden dy’t bewarre binne yn { -brand-short-name } en alle warskôgingen oer datalekken fuort. Jo kinne dizze aksje net ûngedien meitsje.
+    }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] Dit smyt it wachtwurd dy’t bewarre is yn { -brand-short-name } fan al jo syngronisearre apparaten en alle warskôgingen oer datalekken fuort. Jo kinne dizze aksje net ûngedien meitsje.
+        [one] Dit smyt it wachtwurd dy’t bewarre is yn { -brand-short-name } fan al jo syngronisearre apparaten en alle warskôgingen oer datalekken fuort. Jo kinne dizze aksje net ûngedien meitsje.
+       *[other] Dit smyt alle wachtwurden dy’t bewarre binne yn { -brand-short-name } fan al jo syngronisearre apparaten en alle warskôgingen oer datalekken fuort. Jo kinne dizze aksje net ûngedien meitsje.
+    }
+contextual-manager-passwords-origin-label = Website
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Brûkersnamme
+    .data-after = Kopiearre
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Wachtwurd
+    .data-after = Kopiearre
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Wachtwurden filterje
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = Wachtwurd tafoege foar { $url }
+contextual-manager-passwords-add-password-success-button = Toane
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = Der bestiet al in wachtwurd en brûkersnamme foar { $url }
+contextual-manager-passwords-password-already-exists-error-button = Nei wachtwurd
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Wachtwurd bewarre
 contextual-manager-passwords-update-password-success-button = Dien
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] Wachtwurd fuortsmiten
+            [one] Wachtwurd fuortsmiten
+           *[other] Wachtwurden fuortsmiten
+        }
 contextual-manager-passwords-delete-password-success-button = Dien
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = Alle ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = Warskôgingen ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Wachtwurd fuortsmite?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = Jo kinne dit net ûngedien meitsje.
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Tebek
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Fuortsmite
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Annulearje
+contextual-manager-passwords-alert-card =
+    .aria-label = Wachtwurdwarskôgingen
+contextual-manager-passwords-alert-back-button =
+    .label = Tebek
+contextual-manager-passwords-alert-list =
+    .aria-label = Warskôgingslist
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = Wachtwurdwiziging oanrekommandearre
+    .message = Wachtwurden fan dizze website binne meld as stellen of lekt. Wizigje jo wachtwurd om jo account te beskermjen.
+contextual-manager-passwords-breached-origin-link-message = Hoe wit { -brand-product-name } oer datalekken?
+contextual-manager-passwords-change-password-button = Wachtwurd wizigje
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = Wachtwurdwiziging oanrekommandearre
+    .message = Dit wachtwurd kin ienfâldich rieden wurde. Wizigje jo wachtwurd om jo account te beskermjen.
+contextual-manager-passwords-vulnerable-password-link-message = Hoe wit { -brand-product-name } fan swakke wachtwurden?
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Brûkersnamme tafoegje
+    .message = Foegje der ien ta om flugger oan te melden.
 
 ## Login Form
 

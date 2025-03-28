@@ -256,15 +256,25 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 ## Review Checker in Integrated sidebar
 
+# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
+shopping-opt-in-integrated-headline = Nakupujće z dowěru
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-opt-in-integrated-headline = Móžeće tutym pohódnoćenjam dowěrić?
+shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Zaćisnyć
+shopping-callout-not-opted-in-integrated-reminder-accept-button = Kontrolu pohódnoćenjow zmóžnić
+shopping-callout-not-opted-in-integrated-reminder-do-not-show = Tute poručenje hižo njepokazać
+shopping-callout-not-opted-in-integrated-reminder-show-fewer = Mjenje poručenjow pokazać
+shopping-callout-not-opted-in-integrated-reminder-manage-settings = Nastajenja rjadować
+shopping-opt-in-integrated-button = Kontrolu pohódnoćenjow wupruwować
 
 ## Message strings for Review Checker's empty states.
 
 
 ## Confirm disabling Review Checker for newly opted out users
 
+shopping-integrated-callout-opted-out-title = Kontrola pohódnoćenjow je znjemóžnjena
 
 ## Callout for where to find Review Checker when the sidebar closes
 
@@ -281,3 +291,9 @@ shopping-integrated-new-position-notification-dismiss-button = Sym zrozumił
 
 shopping-settings-auto-open-and-close-toggle =
     .label = Kontrolu pohódnoćenjow awtomatisce wočinić a začinić
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-and-close-description-three-sites = Wočinja so, hdyž sej produkty na { $firstSite }, { $secondSite } a { $thirdSite } wobhladujeće a začinja so, hdyž ju wopušćeće

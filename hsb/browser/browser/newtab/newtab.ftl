@@ -526,3 +526,5 @@ newtab-section-mangage-topics-followed-topics = Slědowany
 newtab-section-mangage-topics-followed-topics-empty-state = Hišće žanym temam njeslědujeće.
 newtab-section-mangage-topics-blocked-topics = Zablokowany
 newtab-section-mangage-topics-blocked-topics-empty-state = Hišće njejsće žane temy zablokował.
+newtab-custom-wallpaper-title = Tu su swójske pozadkowe wobrazy
+newtab-custom-wallpaper-cta = Wupruwujće jón

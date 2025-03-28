@@ -234,6 +234,23 @@ contextual-manager-alert-icon =
 contextual-manager-origin-login-line =
     .aria-label = გახსენით { $url }
     .title = იხილეთ { $url }
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = გახსენით { $url } (გაფრთხილება)
+    .title = იხილეთ { $url } (გაფრთხილება)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = მომხმარებლის ასლი – { $username }
+    .title = მომხმარებლის ასლი – { $username }
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = მომხმარებლის ასლი – { $username } (გაფრთხილება)
+    .title = მომხმარებლის ასლი – { $username } (გაფრთხილება)
 contextual-manager-password-login-line =
     .aria-label = პაროლის ასლი
     .title = პაროლის ასლი

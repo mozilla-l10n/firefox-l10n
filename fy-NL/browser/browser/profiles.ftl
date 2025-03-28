@@ -96,6 +96,10 @@ profiles-light-theme = Ljocht
 profiles-dark-theme = Donker
 # The default system theme
 profiles-system-theme = Systeem
+# Ocean blue is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-ocean-theme-2 = Oseaanblau
+# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of brick masonry. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-terracotta-theme-2 = Stienread
 
 ## Alternative text for default profile icons
 
