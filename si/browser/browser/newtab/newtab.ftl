@@ -343,3 +343,4 @@ newtab-section-blocked-button = අවහිරයි
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+newtab-section-mangage-topics-blocked-topics = අවහිරයි
