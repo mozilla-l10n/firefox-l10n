@@ -74,9 +74,14 @@ contextual-manager-passwords-export-success-heading =
 contextual-manager-passwords-export-success-button = Færdig
 # Export passwords to file dialog
 contextual-manager-export-passwords-dialog-title = Eksporter adgangskoder til fil?
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = Vi anbefaler, at du sletter filen, når du har eksporteret adgangskoderne. På den måde kan andre brugere af enheden ikke se dine adgangskoder.
 contextual-manager-export-passwords-dialog-confirm-button = Fortsæt med eksport
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Eksporter adgangskoder fra { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = adgangskoder
 contextual-manager-passwords-export-file-picker-export-button = Eksporter
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -84,6 +89,14 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] CSV-fil
        *[other] CSV-fil
+    }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] Fjern adgangskode?
+        [one] Fjern adgangskode?
+       *[other] Fjern alle { $total } adgangskoder?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
@@ -100,19 +113,92 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Fjern
        *[other] Fjern alle
     }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] Dette fjerner adgangskoden, du har gemt i { -brand-short-name } samt advarsler om datalæk. Du kan ikke fortryde denne handling.
+        [one] Dette fjerner adgangskoden, du har gemt i { -brand-short-name } samt advarsler om datalæk. Du kan ikke fortryde denne handling.
+       *[other] Dette fjerner adgangskoderne, du har gemt i { -brand-short-name } samt advarsler om datalæk. Du kan ikke fortryde denne handling.
+    }
+contextual-manager-passwords-origin-label = Websted
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Brugernavn
+    .data-after = Kopieret
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Adgangskode
+    .data-after = Kopieret
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Filtrer adgangskoder
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = Adgangskode tilføjet for { $url }
+contextual-manager-passwords-add-password-success-button = Vis
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = Der eksisterer allerede en adgangskode og et brugernavn for { $url }
+contextual-manager-passwords-password-already-exists-error-button = Gå til adgangskode
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Adgangskode gemt
 contextual-manager-passwords-update-password-success-button = Færdig
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] Adgangskode fjernet
+            [one] Adgangskode fjernet
+           *[other] Adgangskoder fjernet
+        }
 contextual-manager-passwords-delete-password-success-button = Færdig
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = Alle ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = Advarsler ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Fjern adgangskoden?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = Du kan ikke fortryde dette.
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Tilbage
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Fjern
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Annuller
+contextual-manager-passwords-alert-card =
+    .aria-label = Adgangskode-advarsler
+contextual-manager-passwords-alert-back-button =
+    .label = Tilbage
+contextual-manager-passwords-alert-list =
+    .aria-label = Advarsels-liste
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = Ændring af adgangskode anbefales
+    .message = Adgangskoder fra dette websted er blevet anmeldt stjålne eller lækkede. Skift din adgangskode for at beskytte din konto.
+contextual-manager-passwords-breached-origin-link-message = Hvordan kender { -brand-product-name } til datalæk?
+contextual-manager-passwords-change-password-button = Skift adgangskode
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = Ændring af adgangskode anbefales
+    .message = Adgangskoden er let at gætte. Skift din adgangskode for at beskytte din konto.
+contextual-manager-passwords-vulnerable-password-link-message = Hvordan ved { -brand-product-name }, at adgangskoder er svage?
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Tilføj et brugernavn
+    .message = Tilføj et brugernavn for at logge ind hurtigere.
+contextual-manager-passwords-add-username-button = Tilføj brugernavn
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Tilføj adgangskode
+contextual-manager-passwords-edit-label =
+    .label = Rediger adgangskode
+contextual-manager-passwords-remove-label =
+    .title = Fjern adgangskode
+contextual-manager-passwords-origin-tooltip = Indtast den eksakte adresse, du bruger til at logge ind på dette websted.
 
 ## Password Card
 

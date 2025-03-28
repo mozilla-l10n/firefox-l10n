@@ -288,9 +288,15 @@ shopping-opt-in-integrated-button = 리뷰 검사기 사용해보기
 ## Message strings for Review Checker's empty states.
 
 shopping-empty-state-header = 리뷰 확인 준비 완료
+shopping-empty-state-supported-site = 제품을 보고 { -brand-product-name }가 리뷰가 신뢰할 수 있는지 확인합니다.
+# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
+# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
+shopping-empty-state-non-supported-site = 리뷰 검사기는 쇼핑할 때 작동합니다:
 
 ## Confirm disabling Review Checker for newly opted out users
 
+shopping-integrated-callout-opted-out-title = 리뷰 검사기가 꺼짐
+shopping-integrated-callout-opted-out-subtitle = 다시 켜려면, 사이드바에서 가격표를 선택하고 리뷰 검사기를 켜세요.
 
 ## Callout for where to find Review Checker when the sidebar closes
 
