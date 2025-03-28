@@ -113,20 +113,43 @@ firefoxview-recently-closed-header = الألسنة المُغلقة مؤخرً�
 
 # Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = عرض الكل
+firefoxview-opentabs-focus-tab =
+    .title = الانتقال لهذا اللسان
 firefoxview-show-more = اعرض المزيد
 firefoxview-show-less = اعرض أقل
+firefoxview-show-all = أظهِر الكل
 firefoxview-search-text-box-clear-button =
     .title = امسح
 # Placeholder for the input field to search in recent browsing ("search" is a verb).
 firefoxview-search-text-box-recentbrowsing =
     .placeholder = بحث
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = ابحث في التأريخ
 # Placeholder for the input field to search in recently closed tabs ("search" is a verb).
 firefoxview-search-text-box-recentlyclosed =
     .placeholder = ابحث في الألسنة المُغلقة مؤخرًا
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-tabs =
+    .placeholder = ابحث في الألسنة
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-syncedtabs =
+    .placeholder = ابحث في الألسنة المُزامنة
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-opentabs =
+    .placeholder = ابحث في الألسنة المفتوحة
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = نتائج البحث عن "{ $query }"
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
 
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (ملفات محلية)
 
 ##
 

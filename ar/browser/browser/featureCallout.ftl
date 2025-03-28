@@ -70,12 +70,15 @@ sidebar-button-callout-subtitle = استخدم زر الشريط الجانبي 
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-2-cta-button = جرّب الآن
 
 ## Sidebar Vertical Tabs Pinning Strings
 
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-callout-button = خصّص الشريط الجانبي
+sidebar-customization-callout-dismiss-button = أخفِ الشريط الجانبي
 
 ## Sidebar Callout Survey Strings
 

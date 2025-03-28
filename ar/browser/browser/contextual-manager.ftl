@@ -64,10 +64,17 @@ contextual-manager-passwords-import-success-heading =
 contextual-manager-passwords-import-success-button = تمّ
 contextual-manager-passwords-import-error-button-try-again = حاول مجددًا
 contextual-manager-passwords-import-error-button-cancel = ألغِ
+contextual-manager-passwords-export-success-heading =
+    .heading = صُدّرت كلمات السر
 contextual-manager-passwords-export-success-button = تمّ
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = تصدير كلمات السر إلى الملف؟
 contextual-manager-export-passwords-dialog-confirm-button = متابعة التصدير
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = صدّر كلمات السر من { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = كلمات السر
 contextual-manager-passwords-export-file-picker-export-button = صدّر
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -100,6 +107,14 @@ contextual-manager-passwords-remove-all-confirm-button =
         [many] أزِل الكل
        *[other] أزِل الكل
     }
+contextual-manager-passwords-origin-label = الموقع
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = اسم المستخدم
+    .data-after = نُسخ
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = كلمة السر
+    .data-after = نُسخ
+contextual-manager-passwords-add-password-success-button = اعرض
 contextual-manager-passwords-update-password-success-button = تمّ
 contextual-manager-passwords-delete-password-success-button = تمّ
 # This message is displayed to make sure that a user wants to delete an existing login.
@@ -108,6 +123,8 @@ contextual-manager-passwords-remove-login-card-title = إزالة كلمة ال�
 contextual-manager-passwords-remove-login-card-remove-button = أزِل
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = ألغِ
+contextual-manager-passwords-alert-back-button =
+    .label = السابق
 
 ## Login Form
 
