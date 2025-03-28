@@ -126,10 +126,16 @@ contextual-manager-passwords-delete-password-success-heading =
 contextual-manager-passwords-delete-password-success-button = 完成
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = 确定要移除密码吗？
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = 后退
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = 移除
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = 取消
+contextual-manager-passwords-alert-card =
+    .aria-label = 密码警报
+contextual-manager-passwords-alert-back-button =
+    .label = 后退
 contextual-manager-passwords-alert-list =
     .aria-label = 警报列表
 contextual-manager-passwords-change-password-button = 更改密码

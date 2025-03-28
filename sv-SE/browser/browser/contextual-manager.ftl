@@ -184,8 +184,18 @@ contextual-manager-passwords-alert-back-button =
     .label = Tillbaka
 contextual-manager-passwords-alert-list =
     .aria-label = Varningslista
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = Lösenordsändring rekommenderas
+    .message = Lösenord från denna webbplats rapporterades stulna eller läckta. Byt lösenord för att skydda ditt konto.
 contextual-manager-passwords-breached-origin-link-message = Hur vet { -brand-product-name } om intrång?
 contextual-manager-passwords-change-password-button = Ändra lösenord
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = Lösenordsändring rekommenderas
+    .message = Detta lösenord är lätt att gissa. Byt lösenord för att skydda ditt konto.
+contextual-manager-passwords-vulnerable-password-link-message = Hur känner { -brand-product-name } till svaga lösenord?
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Lägg till ett användarnamn
+    .message = Lägg till ett för att logga in snabbare.
 contextual-manager-passwords-add-username-button = Lägg till användarnamn
 
 ## Login Form
@@ -214,13 +224,70 @@ contextual-manager-check-icon-password =
     .alt = Kopierad
 contextual-manager-alert-icon =
     .alt = Varning
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = Besök { $url }
+    .title = Besök { $url }
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = Besök { $url } (Varning)
+    .title = Besök { $url } (Varning)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = Kopiera användarnamn { $username }
+    .title = Kopiera användarnamn { $username }
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = Kopiera användarnamn { $username } (Varning)
+    .title = Kopiera användarnamn { $username } (Varning)
+contextual-manager-password-login-line =
+    .aria-label = Kopiera lösenord
+    .title = Kopiera lösenord
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = Kopiera lösenord (Varning)
+    .title = Kopiera lösenord (Varning)
+contextual-manager-edit-login-button = Redigera
+    .tooltiptext = Redigera lösenord
+contextual-manager-view-alert-heading =
+    .heading = Visa varning
+contextual-manager-view-alert-button =
+    .tooltiptext = Granska varning
+contextual-manager-show-password-button =
+    .aria-label = Visa lösenord
+    .title = Visa lösenord
+contextual-manager-hide-password-button =
+    .aria-label = Dölj lösenord
+    .title = Dölj lösenord
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = Inga lösenord hittades
+contextual-manager-passwords-no-passwords-found-message = Inga lösenord hittades. Sök med en annan term och försök igen.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = Spara dina lösenord på en säker plats.
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = Alla lösenord är krypterade och vi kommer att hålla utkik efter intrång och varningar om du påverkas.
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = Lägg till dem här för att komma igång.
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = Lägg till manuellt
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = Stäng utan att spara?
+    .message = Dina ändringar kommer inte att sparas.
 contextual-manager-passwords-discard-changes-close-button = Stäng
 contextual-manager-passwords-discard-changes-go-back-button = Gå tillbaka
