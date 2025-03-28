@@ -309,6 +309,23 @@ shopping-integrated-callout-no-logo-sidebar-closed-subtitle = 사이드바 버�
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
 shopping-integrated-new-position-notification-title = 같은 리뷰 검사기, 새 지점
+shopping-integrated-new-position-notification-move-right-subtitle = 리뷰 검사기와 나머지 { -brand-product-name } 사이드바를 여기에 유지하거나 오른쪽으로 이동하세요. <a data-l10n-name="sidebar_settings">사이드바 설정</a>에서 지금 또는 언제든지 전환할 수 있습니다.
+shopping-integrated-new-position-notification-move-left-subtitle = 리뷰 검사기와 나머지 { -brand-product-name } 사이드바를 여기에 유지하거나 왼쪽으로 이동하세요. <a data-l10n-name="sidebar_settings">사이드바 설정</a>에서 지금 또는 언제든지 전환할 수 있습니다.
+shopping-integrated-new-position-notification-move-right-button = 오른쪽으로 이동
+shopping-integrated-new-position-notification-move-left-button = 왼쪽으로 이동
+shopping-integrated-new-position-notification-dismiss-button = 확인
 
 ## Combined setting for auto-open and auto-close.
 
+shopping-settings-auto-open-and-close-toggle =
+    .label = 리뷰 검사기를 자동으로 열고 닫기
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-and-close-description-three-sites = { $firstSite }, { $secondSite } 및 { $thirdSite }에서 제품을 볼 때 열고, 떠나면 닫음
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-and-close-description-single-site = { $currentSite }에서 제품을 볼 때 열고, 나갈 때 닫음
