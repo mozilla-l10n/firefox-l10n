@@ -62,8 +62,14 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
 #   $modified (number) - Number of modified passwords
 contextual-manager-passwords-import-success-message = പുതിയതു് :{ $added }, പുതുച്ചതു് : { $modified }
 contextual-manager-passwords-import-success-button = ചെയ്തു
+contextual-manager-passwords-import-error-button-try-again = വീണ്ടും ശ്രമിയ്ക്കുക
 contextual-manager-passwords-import-error-button-cancel = റദ്ദാക്കുക
+contextual-manager-passwords-import-learn-more = രഹസ്യവാക്കുകൾ കയറ്റുമതി ചെയ്യുന്നതിനെക്കുറിച്ചു് കൂടുതലറിയുക
+contextual-manager-passwords-export-success-heading =
+    .heading = രഹസ്യവാക്കുകൾ കയറ്റുമതിച്ചു
 contextual-manager-passwords-export-success-button = ചെയ്തു
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = ഫയലേക്കു് രഹസ്യവാക്കുകളെ കയറ്റുമതിക്കണോ?
 contextual-manager-export-passwords-dialog-confirm-button = കയറ്റുമതി തുടരുക
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = { -brand-short-name } നിന്നു് രഹസ്യവാക്കുകൾ കയറ്റുമതി ചെയ്യുക
@@ -197,6 +203,33 @@ contextual-manager-origin-login-line =
 contextual-manager-origin-login-line-with-alert =
     .aria-label = { $url } സന്ദൎശിക്കുക (മുന്നറിയിപ്പു്)
     .title = { $url } സന്ദൎശിക്കുക (മുന്നറിയിപ്പു്)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = { $username } എന്നു് ഉപയോക്തൃപ്പേരു് പകൎത്തുക
+    .title = { $username } എന്നു് ഉപയോക്തൃപ്പേരു് പകൎത്തുക
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = { $username } എന്നു് ഉപയോക്തൃപ്പേരു് പകൎത്തുക (മുന്നറിയിപ്പു്)
+    .title = { $username } എന്നു് ഉപയോക്തൃപ്പേരു് പകൎത്തുക (മുന്നറിയിപ്പു്)
+contextual-manager-password-login-line =
+    .aria-label = രഹസ്യവാക്കു് പകൎത്തുക
+    .title = രഹസ്യവാക്കു് പകൎത്തുക
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = രഹസ്യവാക്കു് പകൎത്തുക (മുന്നറിയിപ്പു്)
+    .title = രഹസ്യവാക്കു് പകൎത്തുക (മുന്നറിയിപ്പു്)
+contextual-manager-edit-login-button = തിരുത്തുക
+    .tooltiptext = രഹസ്യവാക്കു് തിരുത്തുക
+contextual-manager-view-alert-heading =
+    .heading = മുന്നറിയിപ്പു് കാണുക
+contextual-manager-view-alert-button =
+    .tooltiptext = മുന്നറിയിപ്പു് അവലോകിക്കുക
+contextual-manager-show-password-button =
+    .aria-label = രഹസ്യവാക്ക് കാണിയ്ക്കുക
+    .title = രഹസ്യവാക്ക് കാണിയ്ക്കുക
 contextual-manager-hide-password-button =
     .aria-label = രഹസ്യവാക്ക് മറയ്ക്കുക
     .title = രഹസ്യവാക്ക് മറയ്ക്കുക
@@ -207,6 +240,10 @@ contextual-manager-passwords-no-passwords-found-header =
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = താങ്ങളുടെ രഹസ്യവാക്കുകളെ ഒരു സുരക്ഷിതമായ ഇടത്തില് കരുതിവയ്ക്കുക
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = തുടങ്ങാൻ വേണ്ടി അവയെ ഇവിടെ ചേൎക്കുക
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = നേരിട്ടു് ചേൎക്കുക
 
