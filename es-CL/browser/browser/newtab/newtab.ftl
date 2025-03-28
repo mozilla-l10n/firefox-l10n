@@ -520,3 +520,5 @@ newtab-section-mangage-topics-followed-topics = Seguidos
 newtab-section-mangage-topics-followed-topics-empty-state = Todavía no sigues ningún tema.
 newtab-section-mangage-topics-blocked-topics = Bloqueados
 newtab-section-mangage-topics-blocked-topics-empty-state = Todavía no has bloqueado ningún tema.
+newtab-custom-wallpaper-title = Los fondos de pantalla personalizados están aquí
+newtab-custom-wallpaper-cta = Inténtalo

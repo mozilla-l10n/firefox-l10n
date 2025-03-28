@@ -256,23 +256,53 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 ## Review Checker in Integrated sidebar
 
+# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
+shopping-opt-in-integrated-headline = Compra con confianza
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-opt-in-integrated-headline = ¿Puedes confiar en estas reseñas?
+# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
+shopping-callout-not-opted-in-integrated-paragraph1 = Activa el Verificador de Reseñas de { -brand-product-name } para descubrirlo. Funciona con { -fakespot-brand-full-name } y utiliza tecnología de IA para analizar las reseñas.
+shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Ocultar
+shopping-callout-not-opted-in-integrated-reminder-accept-button = Activar el verificador de reseñas
+shopping-callout-not-opted-in-integrated-reminder-do-not-show = No volver a mostrar esta recomendación
+shopping-callout-not-opted-in-integrated-reminder-show-fewer = Mostrar menos recomendaciones
+shopping-callout-not-opted-in-integrated-reminder-manage-settings = Administrar ajustes
+shopping-opt-in-integrated-privacy-policy-and-terms-of-use = El verificador de reseñas funciona con { -fakespot-brand-full-name }. Al seleccionar "{ shopping-opt-in-integrated-button }", aceptas el <a data-l10n-name="privacy_policy">aviso de privacidad</a> de { -brand-product-name } y los <a data-l10n-name="terms_of_use">términos de uso</a> de { -fakespot-brand-name }.
+shopping-opt-in-integrated-button = Probar el verificador de reseñas
 
 ## Message strings for Review Checker's empty states.
 
+shopping-empty-state-header = Listo para verificar reseñas
+shopping-empty-state-supported-site = Revisa un producto y { -brand-product-name } comprobará si las reseñas son confiables.
+# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
+# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
+shopping-empty-state-non-supported-site = El verificador de reseñas funciona cuando compras en:
 
 ## Confirm disabling Review Checker for newly opted out users
 
+shopping-integrated-callout-opted-out-title = El verificador de reseñas está desactivado
+shopping-integrated-callout-opted-out-subtitle = Para volver a activarlo, selecciona la etiqueta de precio en la barra lateral y activa el verificador de reseñas.
 
 ## Callout for where to find Review Checker when the sidebar closes
 
+shopping-integrated-callout-sidebar-closed-title = Regresar al verificador de reseñas
+shopping-integrated-callout-sidebar-closed-subtitle = Selecciona la etiqueta de precio en la barra lateral para ver si puedes confiar en las reseñas de un producto.
+shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Selecciona el botón de la barra lateral para ver si puede confiar en las reseñas de un producto.
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-title = El mismo verificador de reseñas, nueva ubicación
+shopping-integrated-new-position-notification-move-right-subtitle = Mantén el verificador de reseñas y el resto de la barra lateral de { -brand-product-name } aquí o muévelos a la derecha. Cámbialos ahora o en cualquier momento en la <a data-l10n-name="sidebar_settings">configuración de la barra lateral</a>.
+shopping-integrated-new-position-notification-move-left-subtitle = Mantén el verificador de reseñas y el resto de la barra lateral de { -brand-product-name } aquí o muévelos a la izquierda. Cámbialos ahora o en cualquier momento en la <a data-l10n-name="sidebar_settings">configuración de la barra lateral</a>.
+shopping-integrated-new-position-notification-move-right-button = Mover a la derecha
+shopping-integrated-new-position-notification-move-left-button = Mover a la izquierda
+shopping-integrated-new-position-notification-dismiss-button = Entendido
 
 ## Combined setting for auto-open and auto-close.
 
+shopping-settings-auto-open-and-close-toggle =
+    .label = Abrir y cerrar automáticamente el Verificador de reseñas
