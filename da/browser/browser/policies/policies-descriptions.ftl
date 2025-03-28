@@ -130,6 +130,7 @@ policy-SearchSuggestEnabled = Slå søgeforslag til eller fra.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Tilføj eller slet PKCS #11-moduler
 policy-ShowHomeButton = Vis hjem-knappen på værktøjslinjen.
+policy-SkipTermsOfUse = Vis ikke Betingelser for brug og Privatlivserklæringen ved opstart.
 policy-SSLVersionMax = Angiv den højeste SSL-version.
 policy-SSLVersionMin = Angiv den laveste SSL-version.
 policy-StartDownloadsInTempDirectory = Tving filhentninger til at starte i en lokal, midlertidig placering i stedet for standard-mappen for filhentninger.

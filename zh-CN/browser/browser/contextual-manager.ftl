@@ -169,6 +169,9 @@ contextual-manager-origin-login-line =
 contextual-manager-origin-login-line-with-alert =
     .aria-label = 访问 { $url }（警告）
     .title = 访问 { $url }（警告）
+contextual-manager-password-login-line =
+    .aria-label = 复制密码
+    .title = 复制密码
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
@@ -177,3 +180,4 @@ contextual-manager-origin-login-line-with-alert =
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-go-back-button = 返回
