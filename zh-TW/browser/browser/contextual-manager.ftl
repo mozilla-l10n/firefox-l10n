@@ -6,13 +6,21 @@ contextual-manager-filter-input =
     .placeholder = 搜尋密碼
     .key = F
     .aria-label = 搜尋密碼
+contextual-manager-menu-more-options-button =
+    .title = 更多選項
+contextual-manager-more-options-popup =
+    .aria-label = 更多選項
 
 ## Passwords
 
 contextual-manager-passwords-command-create = 新增密碼
 contextual-manager-passwords-command-import-from-browser = 從另一套瀏覽器匯入…
 contextual-manager-passwords-command-import = 從檔案匯入…
+contextual-manager-passwords-command-export = 匯出密碼
+contextual-manager-passwords-command-remove-all = 刪除所有密碼
+contextual-manager-passwords-command-settings = 設定
 contextual-manager-passwords-command-help = 說明
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = 請在下方輸入您的 Windows 登入帳號密碼才能匯出密碼。這個動作是為了保護您的登入資訊安全。
 # This message can be seen when attempting to export a password in about:logins
@@ -35,6 +43,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = 請在�
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = 複製儲存的網站密碼
+contextual-manager-passwords-import-file-picker-title = 匯入密碼
 contextual-manager-passwords-import-file-picker-import-button = 匯入
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -50,12 +59,33 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] TSV 文件
        *[other] TSV 檔案
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = 已匯入密碼
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = 新增：{ $added } 筆，更新：{ $modified } 筆
+contextual-manager-passwords-import-detailed-report = 檢視詳細報告
 contextual-manager-passwords-import-success-button = 完成
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = 無法匯入密碼
+    .message = 請確認您的檔案包含網站、使用者名稱、密碼等欄位。
+contextual-manager-passwords-import-error-button-try-again = 重試
 contextual-manager-passwords-import-error-button-cancel = 取消
+contextual-manager-passwords-import-learn-more = 了解匯入密碼的更多資訊
+contextual-manager-passwords-export-success-heading =
+    .heading = 已匯出密碼
 contextual-manager-passwords-export-success-button = 完成
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = 要將密碼匯出成檔案嗎？
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = 匯出的檔案使用完成後，建議您刪除密碼檔，以避免其他使用此裝置的使用者看到您的密碼。
 contextual-manager-export-passwords-dialog-confirm-button = 繼續匯出
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = 從 { -brand-short-name } 匯出密碼
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = 密碼
 contextual-manager-passwords-export-file-picker-export-button = 匯出
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -63,6 +93,13 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] CSV 文件
        *[other] CSV 檔案
+    }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] 要刪除密碼嗎？
+       *[other] 要刪除全部共 { $total } 筆密碼嗎？
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
@@ -78,19 +115,72 @@ contextual-manager-passwords-remove-all-confirm-button =
         [1] 移除
        *[other] 移除全部
     }
+contextual-manager-passwords-origin-label = 網站
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = 使用者名稱
+    .data-after = 已複製
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = 密碼
+    .data-after = 已複製
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = 過濾密碼
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = 已新增 { $url } 的密碼
+contextual-manager-passwords-add-password-success-button = 檢視
+contextual-manager-passwords-password-already-exists-error-button = 前往密碼
+contextual-manager-passwords-update-password-success-heading =
+    .heading = 已儲存密碼
 contextual-manager-passwords-update-password-success-button = 完成
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] 已刪除密碼
+           *[other] 已刪除密碼
+        }
 contextual-manager-passwords-delete-password-success-button = 完成
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = 全部（{ $total }）
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = 警示（{ $total }）
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = 要移除密碼嗎？
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = 無法還原此動作。
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = 返回
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = 移除
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = 取消
+contextual-manager-passwords-alert-card =
+    .aria-label = 密碼警示
+contextual-manager-passwords-alert-back-button =
+    .label = 返回
+contextual-manager-passwords-alert-list =
+    .aria-label = 警示清單
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = 建議更改密碼
+    .message = 此網站的密碼失竊或外洩，請更改密碼以保護您的帳號。
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = 新增使用者名稱
+    .message = 新增使用者名稱讓您更快速登入。
+contextual-manager-passwords-add-username-button = 新增使用者名稱
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = 新增密碼
+contextual-manager-passwords-edit-label =
+    .label = 編輯密碼
+contextual-manager-passwords-remove-label =
+    .title = 刪除密碼
 
 ## Password Card
 
@@ -98,10 +188,49 @@ contextual-manager-passwords-list-label =
     .aria-label = 密碼
 contextual-manager-copy-icon =
     .alt = 複製
+contextual-manager-check-icon-username =
+    .alt = 已複製
+contextual-manager-check-icon-password =
+    .alt = 已複製
+contextual-manager-alert-icon =
+    .alt = 警告
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = 前往 { $url }
+    .title = 前往 { $url }
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = 前往 { $url }（警告）
+    .title = 前往 { $url }（警告）
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = 複製使用者名稱 { $username }
+    .title = 複製使用者名稱 { $username }
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = 複製使用者名稱 { $username }（警告）
+    .title = 複製使用者名稱 { $username }（警告）
+contextual-manager-password-login-line =
+    .aria-label = 複製密碼
+    .title = 複製密碼
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = 複製密碼（警告）
+    .title = 複製密碼（警告）
+contextual-manager-edit-login-button = 編輯
+    .tooltiptext = 編輯密碼
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = 手動新增
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.

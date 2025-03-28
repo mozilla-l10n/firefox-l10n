@@ -332,6 +332,9 @@ quickactions-cmd-addons2 = 附加元件
 quickactions-bookmarks2 = 管理書籤
 quickactions-cmd-bookmarks = 書籤, bookmarks
 # Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = 清除最近瀏覽記錄
+quickactions-cmd-clearrecenthistory = 清除最近瀏覽記錄, 歷史記錄, 近期記錄, 紀錄
+# Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = 清除瀏覽記錄
 quickactions-cmd-clearhistory = 清除瀏覽紀錄, clear history
 # Opens about:downloads page
@@ -340,6 +343,15 @@ quickactions-cmd-downloads = 下載項目, 下載, downloads
 # Opens about:addons page in the extensions section
 quickactions-extensions = 管理擴充套件
 quickactions-cmd-extensions = 擴充套件
+# Opens Firefox View
+quickactions-firefoxview = 開啟 { -firefoxview-brand-name }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = 開啟 { -firefoxview-brand-name }, { -firefoxview-brand-name }, 開啟 view, view
+# Opens SUMO home page
+quickactions-help = { -brand-product-name } 說明
+quickactions-cmd-help = 說明, 支援, 幫助, 協助
 # Opens the devtools web inspector
 quickactions-inspector2 = 開啟開發者工具
 quickactions-cmd-inspector = 檢測器, 開發工具, inspector, devtools
