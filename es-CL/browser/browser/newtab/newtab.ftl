@@ -521,4 +521,6 @@ newtab-section-mangage-topics-followed-topics-empty-state = Todavía no sigues n
 newtab-section-mangage-topics-blocked-topics = Bloqueados
 newtab-section-mangage-topics-blocked-topics-empty-state = Todavía no has bloqueado ningún tema.
 newtab-custom-wallpaper-title = Los fondos de pantalla personalizados están aquí
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle = Sube tu propio fondo de pantalla o elige un color personalizado para hacer tuyo { -brand-product-name }.
 newtab-custom-wallpaper-cta = Inténtalo

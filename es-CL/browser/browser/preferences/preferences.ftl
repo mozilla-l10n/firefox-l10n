@@ -1353,6 +1353,7 @@ collection-header2 = Recolección y uso de datos de { -brand-short-name }
     .searchkeywords = telemetría
 preferences-collection-description = Nos esforzamos para ofrecerte opciones y recopilar solo los datos mínimos necesarios para mejorar { -brand-product-name } para todos.
 preferences-collection-privacy-notice = Ver política de privacidad
+preferences-across-profiles = Estas configuraciones se aplican a todos los perfiles de { -brand-product-name } en este dispositivo.
 preferences-view-profiles = Ver todos los perfiles
 collection-description = Nos esforzamos por proveerte con opciones y recolectar solo lo que necesitamos para proveer y mejorar { -brand-short-name } para todos. Siempre solicitamos permiso antes de recibir información personal.
 collection-privacy-notice = Política de privacidad

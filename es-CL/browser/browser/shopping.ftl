@@ -306,3 +306,13 @@ shopping-integrated-new-position-notification-dismiss-button = Entendido
 
 shopping-settings-auto-open-and-close-toggle =
     .label = Abrir y cerrar automáticamente el Verificador de reseñas
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-and-close-description-three-sites = Se abre cuando veas productos en { $firstSite }, { $secondSite } y { $thirdSite }, y se cierra cuando sales
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-and-close-description-single-site = Se abre cuando ves productos en { $currentSite } y se cierra cuando sales
