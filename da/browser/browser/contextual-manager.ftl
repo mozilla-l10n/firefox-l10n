@@ -12,7 +12,11 @@ contextual-manager-filter-input =
 contextual-manager-passwords-command-create = Tilføj adgangskode
 contextual-manager-passwords-command-import-from-browser = Importer fra en anden browser…
 contextual-manager-passwords-command-import = Importer fra fil…
+contextual-manager-passwords-command-export = Eksporter adgangskoder
+contextual-manager-passwords-command-remove-all = Fjern alle adgangskoder
+contextual-manager-passwords-command-settings = Indstillinger
 contextual-manager-passwords-command-help = Hjælp
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = For at eksportere dine adgangskoder skal du indtaste dine Windows-loginoplysninger. Dette hjælper med at beskytte sikkerheden på dine konti.
 # This message can be seen when attempting to export a password in about:logins
@@ -35,6 +39,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Indtast 
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = kopiere den gemte adgangskode
+contextual-manager-passwords-import-file-picker-title = Importer adgangskoder
 contextual-manager-passwords-import-file-picker-import-button = Importer
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -50,7 +55,18 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] TSV-dokument
        *[other] TSV-fil
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = Adgangskoder importeret
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = Nye: { $added }, Opdaterede: { $modified }
+contextual-manager-passwords-import-detailed-report = Se detaljeret rapport
 contextual-manager-passwords-import-success-button = Færdig
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = Kunne ikke importere adgangskoder
+    .message = Kontrollér at din fil inkluderer kolonner med websteder, brugernavne og adgangskoder.
+contextual-manager-passwords-import-error-button-try-again = Prøv igen
 contextual-manager-passwords-import-error-button-cancel = Annuller
 contextual-manager-passwords-export-success-button = Færdig
 contextual-manager-export-passwords-dialog-confirm-button = Fortsæt med eksport

@@ -130,6 +130,7 @@ policy-SearchSuggestEnabled = ძიების შემოთავაზე�
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = დაემატოს ან წაიშალოს მოდულები PKCS #11.
 policy-ShowHomeButton = მთავარი გვერდის ღილაკის გამოჩენა ხელსაწყოთა ზოლზე.
+policy-SkipTermsOfUse = არ გამოჩნდეს გამოყენების პირობები და პირადი მონაცემების დაცვის განაცხადი გაშვებისას.
 policy-SSLVersionMax = SSL-ის უმაღლესი ვერსიის განსაზღვრა.
 policy-SSLVersionMin = SSL-ის უმცირესი ვერსიის განსაზღვრა.
 policy-StartDownloadsInTempDirectory = ჩამოტვირთვის იძულებით დაწყება ადგილობრივ, დროებით ადგილას, ნაცვლად ნაგულისხმევი მდებარეობისა.

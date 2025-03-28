@@ -332,6 +332,9 @@ quickactions-cmd-addons2 = დამატებები
 quickactions-bookmarks2 = სანიშნების მართვა
 quickactions-cmd-bookmarks = სანიშნები
 # Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = უახლესი ისტორიის გასუფთავება
+quickactions-cmd-clearrecenthistory = უახლესი ისტორიის გასუფთავება, ისტორია
+# Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = ისტორიის გასუფთავება
 quickactions-cmd-clearhistory = ისტორიის გასუფთავება
 # Opens about:downloads page
@@ -340,6 +343,15 @@ quickactions-cmd-downloads = ჩამოტვირთვები
 # Opens about:addons page in the extensions section
 quickactions-extensions = გაფართოებების მართვა
 quickactions-cmd-extensions = გაფართოებები
+# Opens Firefox View
+quickactions-firefoxview = გაიხსნას { -firefoxview-brand-name }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = გაიხსნას { -firefoxview-brand-name }, { -firefoxview-brand-name }, ხედის გახსნა, ხედი
+# Opens SUMO home page
+quickactions-help = { -brand-product-name } – დახმარება
+quickactions-cmd-help = დახმარება, მხარდაჭერა
 # Opens the devtools web inspector
 quickactions-inspector2 = შემმუშავებლის ხელსაწყოების გახსნა
 quickactions-cmd-inspector = გამოკვლევა, შემუშავება

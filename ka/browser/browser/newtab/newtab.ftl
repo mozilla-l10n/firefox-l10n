@@ -523,3 +523,7 @@ newtab-section-mangage-topics-followed-topics = მიდევნებულ�
 newtab-section-mangage-topics-followed-topics-empty-state = თქვენ ჯერ არცერთ თემას არ ადევნებთ თვალს.
 newtab-section-mangage-topics-blocked-topics = შეზღუდული
 newtab-section-mangage-topics-blocked-topics-empty-state = თქვენ ჯერ არცერთი თემა არ შეგიზღუდავთ.
+newtab-custom-wallpaper-title = მორგებული ფონები აქაა
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle = ატვირთეთ საკუთარი ფონი ან შეარჩიეთ სასურველი ფერი, რომ გახადოთ { -brand-product-name } მეტად თქვენებური.
+newtab-custom-wallpaper-cta = მოსინჯვა
