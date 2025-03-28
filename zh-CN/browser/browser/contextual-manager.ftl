@@ -132,18 +132,43 @@ contextual-manager-passwords-remove-login-card-cancel-button = 取消
 contextual-manager-passwords-alert-list =
     .aria-label = 警报列表
 contextual-manager-passwords-change-password-button = 更改密码
+contextual-manager-passwords-add-username-button = 添加用户名
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = 添加密码
+contextual-manager-passwords-edit-label =
+    .label = 编辑密码
+contextual-manager-passwords-remove-label =
+    .title = 移除密码
+contextual-manager-passwords-password-tooltip = 输入用于登录此账户的密码。
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = 密码
+contextual-manager-website-icon =
+    .alt = 网站图标
 contextual-manager-copy-icon =
     .alt = 复制
+contextual-manager-check-icon-username =
+    .alt = 已复制
+contextual-manager-check-icon-password =
+    .alt = 已复制
+contextual-manager-alert-icon =
+    .alt = 警告
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = 访问 { $url }
+    .title = 访问 { $url }
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = 访问 { $url }（警告）
+    .title = 访问 { $url }（警告）
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
