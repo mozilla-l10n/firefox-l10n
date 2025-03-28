@@ -21,6 +21,7 @@ pocket-panel-saved-page-removed = أزِيلت الصفحة
 pocket-panel-saved-page-saved = حُفِظت في { -pocket-brand-name }
 pocket-panel-saved-page-saved-b = حُفِظت في { -pocket-brand-name }!
 pocket-panel-saved-processing-remove = يُزيل الصفحة…
+pocket-panel-saved-removed-updated = أُزيلت الصفحة من المحفوظات
 pocket-panel-saved-processing-tags = يضيف الوسوم…
 pocket-panel-saved-remove-page = أزِل الصفحة
 pocket-panel-saved-save-tags = احفظ

@@ -187,6 +187,15 @@ urlbar-result-menu-remove-from-history =
 urlbar-result-menu-tip-get-help =
     .label = احصل على مساعدة
     .accesskey = ص
+urlbar-result-menu-dismiss-suggestion =
+    .label = أهمل هذا الاقتراح
+    .accesskey = م
+urlbar-result-menu-learn-more-about-firefox-suggest =
+    .label = تعرف على المزيد حول { -firefox-suggest-brand-name }
+    .accesskey = و
+urlbar-result-menu-manage-firefox-suggest =
+    .label = أدر { -firefox-suggest-brand-name }
+    .accesskey = د
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -323,6 +332,8 @@ quickactions-cmd-addons2 = الإضافات
 quickactions-bookmarks2 = أدِر العلامات
 quickactions-cmd-bookmarks = العلامات
 # Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = امسح التأريخ الحالي
+# Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = امسح التأريخ
 quickactions-cmd-clearhistory = امسح التأريخ
 # Opens about:downloads page
@@ -331,6 +342,11 @@ quickactions-cmd-downloads = التنزيلات
 # Opens about:addons page in the extensions section
 quickactions-extensions = أدِر الامتدادات
 quickactions-cmd-extensions = الامتدادات
+# Opens Firefox View
+quickactions-firefoxview = افتح { -firefoxview-brand-name }
+# Opens SUMO home page
+quickactions-help = مساعدة { -brand-product-name }
+quickactions-cmd-help = المساعدة والدعم
 # Opens the devtools web inspector
 quickactions-inspector2 = افتح أدوات المطورين
 quickactions-cmd-inspector = الفاحص، أدوات تطوير
@@ -698,6 +714,17 @@ urlbar-result-action-undefined-calculator-result = غير محدد
 #  $result (String): the string representation for a result in scientific notation
 #  (e.g. "1.0e17").
 urlbar-result-action-calculator-result-scientific-notation = = { $result }
+# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
+# The last = sign will be shown as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "false", maximumFractionDigits: 8) }
+# Shows the result of a formula expression being calculated, to a maximum of 9 significant
+# digits. This is used for numbers < 1.
+# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 
 ## Strings used for buttons in the urlbar
 
@@ -976,6 +1003,9 @@ panel-save-update-password = كلمة السر
 # "More" item in macOS share menu
 menu-share-more =
     .label = أكثر…
+menu-share-copy-link =
+    .label = انسخ الرابط
+    .accesskey = ط
 ui-tour-info-panel-close =
     .tooltiptext = أغلق
 
