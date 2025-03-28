@@ -36,3 +36,4 @@ more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name } алу
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
+more-from-moz-solo-button = { -solo-ai-brand-name } қолданып көру

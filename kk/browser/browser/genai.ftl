@@ -132,3 +132,9 @@ genai-onboarding-lechat-price = Тегін; тіркелгі қажет
 
 ## Model Optin Component
 
+genai-model-optin-continue =
+    .label = Жалғастыру
+genai-model-optin-optout =
+    .label = Бас тарту
+genai-model-optin-cancel =
+    .label = Бас тарту

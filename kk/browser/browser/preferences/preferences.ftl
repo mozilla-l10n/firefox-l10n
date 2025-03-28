@@ -148,6 +148,11 @@ preferences-data-migration-description = Бетбелгілер, парольд�
 preferences-data-migration-button =
     .label = Деректерді импорттау
     .accesskey = м
+preferences-profiles-header = Профильдер
+preferences-manage-profiles-description = Әрбір профильде бөлек шолу деректері мен параметрлері, соның ішінде тарих, парольдер және т.б. бар.
+preferences-manage-profiles-learn-more = Көбірек білу
+preferences-manage-profiles-button =
+    .label = Профильдерді басқару
 tabs-group-header = Беттер
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab беттер арасында соңғы қолданылу реті бойынша ауысады
@@ -234,6 +239,7 @@ browser-layout-vertical-tabs =
 browser-layout-vertical-tabs-desc = Жанында, бүйірлік панельде көрсету
 browser-layout-show-sidebar =
     .label = Бүйір панелін көрсету
+browser-layout-show-sidebar-desc = Бетбелгілерге, телефоннан беттерге, ЖИ чат-боттарына және т.б. негізгі көріністен шықпай-ақ жылдам қол жеткізіңіз.
 
 ## General Section - Language & Appearance
 
@@ -265,6 +271,7 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = { -brand-short-name } темаларын <a data-l10n-name="themes-link">Кеңейтулер және темалар</a> ішінен басқарыңыз
+preferences-contrast-control-header = Контрастты басқару
 preferences-colors-header = Түстер
 preferences-colors-description = Мәтін, веб-сайттар фоны және сілтемелер үшін { -brand-short-name } үнсіз келісім бойынша түстерін үстінен басу.
 preferences-colors-manage-button =
@@ -1154,6 +1161,8 @@ addressbar-locbar-showtrendingsuggestions-option =
     .label = Танымал іздеу ұсыныстарын көрсету
     .accesskey = т
 addressbar-quickactions-learn-more = Көбірек білу
+addressbar-restore-dismissed-suggestions-button =
+    .label = Қалпына келтіру
 
 ## Privacy Section - Content Blocking
 

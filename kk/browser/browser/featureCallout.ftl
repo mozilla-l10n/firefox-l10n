@@ -71,6 +71,8 @@ sidebar-button-callout-vertical-tabs = Бертерді көрсету үшін 
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-cta-button = Вертикалды беттерді қолданып көру
+vertical-tabs-callout-2-cta-button = Қазір қолданып көру
 
 ## Sidebar Vertical Tabs Pinning Strings
 

@@ -6,13 +6,21 @@ contextual-manager-filter-input =
     .placeholder = Парольдерді іздеу
     .key = F
     .aria-label = Парольдерді іздеу
+contextual-manager-menu-more-options-button =
+    .title = Көбірек опциялар
+contextual-manager-more-options-popup =
+    .aria-label = Көбірек опциялар
 
 ## Passwords
 
 contextual-manager-passwords-command-create = Парольді қосу
 contextual-manager-passwords-command-import-from-browser = Басқа браузерден импорттау…
 contextual-manager-passwords-command-import = Файлдан импорттау…
+contextual-manager-passwords-command-export = Парольдерді экспорттау
+contextual-manager-passwords-command-remove-all = Барлық парольдерді өшіру
+contextual-manager-passwords-command-settings = Баптаулар
 contextual-manager-passwords-command-help = Көмек
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Парольдеріңізді экспорттау үшін, Windows ішіне кірудің есептік жазба мәліметтерін енгізіңіз. Бұл тіркелгілеріңіздің қауіпсіздігін қорғауға көмектеседі.
 # This message can be seen when attempting to export a password in about:logins
@@ -35,6 +43,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Паро
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = сақталған парольді көшіру
+contextual-manager-passwords-import-file-picker-title = Парольдерді импорттау
 contextual-manager-passwords-import-file-picker-import-button = Импорттау
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -50,7 +59,15 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] TSV құжаты
        *[other] TSV файлы
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = Парольдер импортталды
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = Жаңа: { $added }, Жаңартылды: { $modified }
+contextual-manager-passwords-import-detailed-report = Толық есепті қарау
 contextual-manager-passwords-import-success-button = Дайын
+contextual-manager-passwords-import-error-button-try-again = Қайтадан көру
 contextual-manager-passwords-import-error-button-cancel = Бас тарту
 contextual-manager-passwords-export-success-button = Дайын
 contextual-manager-export-passwords-dialog-confirm-button = Экспорттауды жалғастыру
@@ -79,6 +96,19 @@ contextual-manager-passwords-remove-all-confirm-button =
         [1] Өшіру
        *[other] Барлығын өшіру
     }
+contextual-manager-passwords-origin-label = Вебсайт
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Пайдаланушы аты
+    .data-after = Көшірілді
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Пароль
+    .data-after = Көшірілді
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Парольдерді сүзгілеу
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = { $url } үшін пароль қосылды
 contextual-manager-passwords-update-password-success-button = Дайын
 contextual-manager-passwords-delete-password-success-button = Дайын
 # This message is displayed to make sure that a user wants to delete an existing login.

@@ -73,6 +73,12 @@ sidebar-context-menu-bookmark-tab =
     .label = Бетті бетбелгілерге қосу…
 sidebar-context-menu-copy-link =
     .label = Сілтемені көшіріп алу
+sidebar-context-menu-hide-sidebar =
+    .label = Бүйір панельді жасыру
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Вертикалды беттерді іске қосу
+sidebar-context-menu-customize-sidebar =
+    .label = Бүйір панелін баптау
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
