@@ -1361,6 +1361,7 @@ collection-header2 = Hromadźenje a wužiwanje datow { -brand-short-name }
     .searchkeywords = telemetrija
 preferences-collection-description = Chcemy was z wuběrami wobstarać a jenož te mało datow hromadźić, kotrež su trěbne, zo by so { -brand-product-name } za kóždeho polěpšił.
 preferences-collection-privacy-notice = Zdźělenku priwatnosće pokazać
+preferences-across-profiles = Tute nastajenja za kóždy profil { -brand-product-name } na tutym graće płaća.
 preferences-view-profiles = Wšě profile pokazać
 collection-description = Chcemy was z wuběrami wobstarać a jenož to zběrać, štož dyrbimy poskićić, zo bychmy { -brand-short-name } za kóždeho polěpšili. Prosymy přeco wo dowolnosć, prjedy hač wosobinske daty dóstanjemy.
 collection-privacy-notice = Zdźělenka priwatnosće

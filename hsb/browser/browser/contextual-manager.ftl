@@ -212,6 +212,8 @@ contextual-manager-passwords-edit-label =
 contextual-manager-passwords-remove-label =
     .title = Hesło wotstronić
 contextual-manager-passwords-origin-tooltip = Zapodajće eksaktnu adresu, hdźež so pola tutoho sydła přizjewjeće.
+contextual-manager-passwords-username-tooltip = Zapodajće wužiwarske mjeno, e-mejlowu adresu abo kontowe čisło, kotrež wužiwaće, zo byšće so přizjewił.
+contextual-manager-passwords-password-tooltip = Zapodajće hesło, kotrež so wužiwa, zo byšće so pola tutoho konta přizjewił.
 
 ## Password Card
 
