@@ -218,6 +218,9 @@ quickactions-cmd-addons2 = ສ່ວນເສີມ
 quickactions-bookmarks2 = ຈັດການບຸກມາກ
 quickactions-cmd-bookmarks = ບຸກມາກ
 # Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = ລຶບລ້າງປະຫວັດທີ່ຜ່ານມາ
+quickactions-cmd-clearrecenthistory = ລ້າງປະຫວັດທີ່ຜ່ານມາ, ປະຫວັດ
+# Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = ລຶບລ້າງປະຫວັດ
 quickactions-cmd-clearhistory = ລົບລ້າງປະຫວັດການໃຊ້ງານ
 # Opens about:downloads page
@@ -226,6 +229,12 @@ quickactions-cmd-downloads = ດາວໂຫລດ
 # Opens about:addons page in the extensions section
 quickactions-extensions = ຈັດການສ່ວນເສີມ
 quickactions-cmd-extensions = ສ່ວນເສີມ
+# Opens Firefox View
+quickactions-firefoxview = ເປີດ { -firefoxview-brand-name }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = ເປີດ { -firefoxview-brand-name }, { -firefoxview-brand-name }, ເປີດມຸມມອງ, ເບິ່ງ
 # Opens the devtools web inspector
 quickactions-inspector2 = ເປີດເຄື່ອງມືນັກພັດທະນາ
 quickactions-cmd-inspector = ຜູ້ກວດກາ, devtools
