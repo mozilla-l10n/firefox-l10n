@@ -134,11 +134,19 @@ contextual-manager-passwords-remove-login-card-cancel-button = Бекор кар
 contextual-manager-passwords-alert-back-button =
     .label = Ба қафо
 contextual-manager-passwords-change-password-button = Иваз кардани ниҳонвожа
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Илова кардани номи корбар
+    .message = Барои воридшавии зуд, номи корбареро илова намоед.
+contextual-manager-passwords-add-username-button = Илова кардани номи корбар
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Илова кардани ниҳонвожа
+contextual-manager-passwords-edit-label =
+    .label = Таҳрир кардани ниҳонвожа
+contextual-manager-passwords-remove-label =
+    .title = Тоза кардани ниҳонвожа
 
 ## Password Card
 
@@ -146,11 +154,65 @@ contextual-manager-passwords-list-label =
     .aria-label = Ниҳонвожаҳо
 contextual-manager-copy-icon =
     .alt = Нусха бардоштан
+contextual-manager-check-icon-username =
+    .alt = Нусха бардошта шуд
+contextual-manager-check-icon-password =
+    .alt = Нусха бардошта шуд
+contextual-manager-alert-icon =
+    .alt = Огоҳӣ
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = Ба { $url } ворид шавед
+    .title = Ба { $url } ворид шавед
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = Ба { $url } ворид шавед (Огоҳӣ)
+    .title = Ба { $url } ворид шавед (Огоҳӣ)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = Нусха бардоштани номи корбари «{ $username }»
+    .title = Нусха бардоштани номи корбари «{ $username }»
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = Нусха бардоштани номи корбари «{ $username }» (Огоҳӣ)
+    .title = Нусха бардоштани номи корбари «{ $username }» (Огоҳӣ)
+contextual-manager-password-login-line =
+    .aria-label = Нусха бардоштани ниҳонвожа
+    .title = Нусха бардоштани ниҳонвожа
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = Нусха бардоштани ниҳонвожа (Огоҳӣ)
+    .title = Нусха бардоштани ниҳонвожа (Огоҳӣ)
+contextual-manager-edit-login-button = Таҳрир кардан
+    .tooltiptext = Таҳрир кардани ниҳонвожа
+contextual-manager-view-alert-heading =
+    .heading = Дидани огоҳӣ
+contextual-manager-view-alert-button =
+    .tooltiptext = Баррасӣ кардани огоҳӣ
+contextual-manager-show-password-button =
+    .aria-label = Намоиш додани ниҳонвожа
+    .title = Намоиш додани ниҳонвожа
+contextual-manager-hide-password-button =
+    .aria-label = Пинҳон кардани ниҳонвожа
+    .title = Пинҳон кардани ниҳонвожа
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = Ягон ниҳонвожа ёфт нашуд
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = Ба таври дастӣ илова кардан
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-close-button = Пӯшидан
+contextual-manager-passwords-discard-changes-go-back-button = Бозгашт

@@ -223,6 +223,12 @@ contextual-manager-website-icon =
     .alt = Ícono del sitio web
 contextual-manager-copy-icon =
     .alt = Copiar
+contextual-manager-check-icon-username =
+    .alt = Copiada
+contextual-manager-check-icon-password =
+    .alt = Copiada
+contextual-manager-alert-icon =
+    .alt = Advertencia
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:

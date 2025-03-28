@@ -522,3 +522,4 @@ newtab-section-mangage-topics-followed-topics = Пайгирӣ карда меш
 newtab-section-mangage-topics-followed-topics-empty-state = Шумо то ҳол ягон мавзуъро пайгирӣ накардаед.
 newtab-section-mangage-topics-blocked-topics = Манъ карда мешавад
 newtab-section-mangage-topics-blocked-topics-empty-state = Шумо то ҳол ягон мавзуъро манъ накардаед.
+newtab-custom-wallpaper-cta = Озмоед

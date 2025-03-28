@@ -257,12 +257,19 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Нодида гузарондан
+shopping-callout-not-opted-in-integrated-reminder-accept-button = Фаъол кардани абзори тафтиши тақризҳо
+shopping-callout-not-opted-in-integrated-reminder-do-not-show = Ин тавсия дигар нишон дода нашавад
+shopping-callout-not-opted-in-integrated-reminder-show-fewer = Камтар нишон додани тавсияҳо
+shopping-callout-not-opted-in-integrated-reminder-manage-settings = Идоракунии танзимот
+shopping-opt-in-integrated-button = Озмудани абзори тафтиши тақризҳо
 
 ## Message strings for Review Checker's empty states.
 
 
 ## Confirm disabling Review Checker for newly opted out users
 
+shopping-integrated-callout-opted-out-title = Абзори тафтиши тақризҳо хомӯш аст
 
 ## Callout for where to find Review Checker when the sidebar closes
 
@@ -271,6 +278,7 @@ shopping-onboarding-welcome-steps-indicator-label =
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-dismiss-button = Фаҳмидам
 
 ## Combined setting for auto-open and auto-close.
 

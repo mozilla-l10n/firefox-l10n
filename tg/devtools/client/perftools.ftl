@@ -67,6 +67,8 @@ perftools-button-edit-settings = Таҳрир кардани танзимот…
 
 ## More actions menu
 
+perftools-menu-more-actions-button =
+    .title = Амалҳои бештар
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
