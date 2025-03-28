@@ -254,23 +254,76 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 ## Review Checker in Integrated sidebar
 
+# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
+shopping-opt-in-integrated-headline = Acquista con fiducia
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle = Attiva Verifica recensioni in { -brand-product-name } per valutare l’affidabilità delle recensioni sui prodotti prima di acquistarli. Questa funzione sfrutta la tecnologia IA per analizzare le recensioni ed è attiva quando fai acquisti su { $firstSite }, { $secondSite } e { $thirdSite }. <a data-l10n-name="learn_more">Ulteriori informazioni</a>
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle-unsupported-site = Verifica recensioni in { -brand-product-name } ti aiuta a valutare l’affidabilità delle recensioni sui prodotti prima di acquistarli. Questa funzione sfrutta la tecnologia IA per analizzare le recensioni ed è attiva quando fai acquisti su { $firstSite }, { $secondSite } e { $thirdSite }. <a data-l10n-name="learn_more">Ulteriori informazioni</a>
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-opt-in-integrated-headline = Puoi fidarti di queste recensioni?
+# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
+shopping-callout-not-opted-in-integrated-paragraph1 = Attiva Verifica recensioni in { -brand-product-name } per scoprirlo. È basato su { -fakespot-brand-full-name } e utilizza la tecnologia IA per analizzare le recensioni.
+shopping-callout-not-opted-in-integrated-paragraph2 = Selezionando “{ shopping-opt-in-integrated-button }” accetti l’<a data-l10n-name="privacy_policy">informativa sulla privacy</a> di { -brand-product-name } e le <a data-l10n-name="terms_of_use">condizioni di utilizzo</a> di { -fakespot-brand-full-name }.
+shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Chiudi
+shopping-callout-not-opted-in-integrated-reminder-accept-button = Attiva Verifica recensioni
+shopping-callout-not-opted-in-integrated-reminder-do-not-show = Non mostrare di nuovo questo suggerimento
+shopping-callout-not-opted-in-integrated-reminder-show-fewer = Mostra meno suggerimenti
+shopping-callout-not-opted-in-integrated-reminder-manage-settings = Gestisci impostazioni
+shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Verifica recensioni è realizzato da { -fakespot-brand-full-name }.  Selezionando “{ shopping-opt-in-integrated-button }” accetti l’<a data-l10n-name="privacy_policy">informativa sulla privacy</a> di { -brand-product-name } e le <a data-l10n-name="terms_of_use">condizioni di utilizzo</a> di { -fakespot-brand-name }.
+shopping-opt-in-integrated-button = Prova Verifica recensioni
 
 ## Message strings for Review Checker's empty states.
 
+shopping-empty-state-header = Pronto per controllare le recensioni
+shopping-empty-state-supported-site = Visualizza un prodotto e { -brand-product-name } verificherà se le recensioni sono affidabili.
+# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
+# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
+shopping-empty-state-non-supported-site = Verifica recensioni funziona quando acquisti su:
 
 ## Confirm disabling Review Checker for newly opted out users
 
+shopping-integrated-callout-opted-out-title = Verifica recensioni è disattivata
+shopping-integrated-callout-opted-out-subtitle = Per riattivarla, seleziona il cartellino del prezzo nella barra laterale e attiva Verifica recensioni.
 
 ## Callout for where to find Review Checker when the sidebar closes
 
+shopping-integrated-callout-sidebar-closed-title = Torna a Verifica recensioni
+shopping-integrated-callout-sidebar-closed-subtitle = Seleziona il cartellino del prezzo nella barra laterale per controllare se puoi fidarti delle recensioni di un prodotto.
+shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Seleziona il pulsante nella barra laterale per controllare se puoi fidarti delle recensioni di un prodotto.
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-title = Stessa Verifica recensioni, nuova posizione
+shopping-integrated-new-position-notification-move-right-subtitle = Mantieni in questa posizione Verifica recensioni e il resto della barra laterale di { -brand-product-name } o spostali a destra. Cambia ora o in qualsiasi momento nelle <a data-l10n-name="sidebar_settings">impostazioni della barra laterale</a>.
+shopping-integrated-new-position-notification-move-left-subtitle = Mantieni in questa posizione Verifica recensioni e il resto della barra laterale di { -brand-product-name } o spostali a sinistra. Cambia ora o in qualsiasi momento nelle <a data-l10n-name="sidebar_settings">impostazioni della barra laterale</a>.
+shopping-integrated-new-position-notification-move-right-button = Sposta a destra
+shopping-integrated-new-position-notification-move-left-button = Sposta a sinistra
+shopping-integrated-new-position-notification-dismiss-button = OK
 
 ## Combined setting for auto-open and auto-close.
 
+shopping-settings-auto-open-and-close-toggle =
+    .label = Apri e chiudi automaticamente Verifica revisioni
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-and-close-description-three-sites = Si apre quando visualizzi prodotti su { $firstSite }, { $secondSite } e { $thirdSite } e si chiude quando esci
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-and-close-description-single-site = Si apre quando visualizzi prodotti su { $currentSite } e si chiude quando esci
