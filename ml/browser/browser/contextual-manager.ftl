@@ -91,31 +91,119 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] മാറ്റുക
        *[other] എല്ലാം മാറ്റുക
     }
+contextual-manager-passwords-origin-label = വെബിടം
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = ഉപയോക്തൃപ്പേരു്
+    .data-after = പകൎത്തി
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = രഹസ്യവാക്കു്
+    .data-after = പകൎത്തി
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = രഹസ്യവാക്കുകൾ അരിയ്ക്കുക
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = { $url }-നെ രഹസ്യവാക്കു് ചേൎത്തു
+contextual-manager-passwords-add-password-success-button = കാണുക
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = { $url }-ൽ ഒരു രഹസ്യവാക്കും ഉപയോക്തൃപ്പേരും നിലവിലുണ്ടു്.
+contextual-manager-passwords-password-already-exists-error-button = രഹസ്യവാക്കിലേക്കു് ചെല്ലുക
+contextual-manager-passwords-update-password-success-heading =
+    .heading = രഹസ്യവാക്കു് കരുതിവച്ചു
 contextual-manager-passwords-update-password-success-button = ചെയ്തു
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] രഹസ്യവാക്കു് മാറ്റി
+            [one] രഹസ്യവാക്കുകൾ മാറ്റി
+           *[other] രഹസ്യവാക്കുകൾ മാറ്റി
+        }
 contextual-manager-passwords-delete-password-success-button = ചെയ്തു
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = മൊത്തം ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = അറിയിപ്പുകൾ ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = രഹസ്യവാക്കു് മായ്ക്കുക?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = ഇതു താങ്ങൾക്കു് പഴയപടിയാക്കാൻ പറ്റില്ല
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = പിന്നോട്ട്
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = മാറ്റുക
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = റദ്ദാക്കുക
+contextual-manager-passwords-alert-card =
+    .aria-label = രഹസ്യവാക്കറിയിപ്പുകൾ
+contextual-manager-passwords-alert-back-button =
+    .label = പിന്നോട്ട്
+contextual-manager-passwords-alert-list =
+    .aria-label = അറിയിപ്പു് പട്ടിക
+contextual-manager-passwords-change-password-button = രഹസ്യവാക്കു് മാറ്റുക
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = ഉപയോക്തൃപ്പേരു് ചേൎക്കുക
+    .message = പെട്ടന്നു് പ്രവേശിക്കാൻ വേണ്ടി ഒരെണ്ണം ചേൎക്കുക.
+contextual-manager-passwords-add-username-button = ഉപയോക്തൃപ്പേരു് ചേൎക്കുക
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = രഹസ്യവാക്കു് ചേർക്കുക
+contextual-manager-passwords-edit-label =
+    .label = രഹസ്യവാക്കു് തിരുത്തുക
+contextual-manager-passwords-remove-label =
+    .title = രഹസ്യവാക്കു് മായ്ക്കുക
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = രഹസ്യവാക്കുകൾ
+contextual-manager-website-icon =
+    .alt = വെബിടയടയാളം
 contextual-manager-copy-icon =
     .alt = പകര്‍ത്തുക
+contextual-manager-check-icon-username =
+    .alt = പകൎത്തി!
+contextual-manager-check-icon-password =
+    .alt = പകൎത്തി!
+contextual-manager-alert-icon =
+    .alt = മുന്നറിയിപ്പു്
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = { $url } സന്ദൎശിക്കുക
+    .title = { $url } സന്ദൎശിക്കുക
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = { $url } സന്ദൎശിക്കുക (മുന്നറിയിപ്പു്)
+    .title = { $url } സന്ദൎശിക്കുക (മുന്നറിയിപ്പു്)
+contextual-manager-hide-password-button =
+    .aria-label = രഹസ്യവാക്ക് മറയ്ക്കുക
+    .title = രഹസ്യവാക്ക് മറയ്ക്കുക
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = ഒരു രഹസ്യവാക്കു് കണ്ടെത്താൻ കഴിഞ്ഞില്ല
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = നേരിട്ടു് ചേൎക്കുക
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = കരുതിവയ്ക്കാതെ അടയ്ക്കണോ?
+    .message = താങ്ങളുടെ മാറ്റങ്ങൾ കരുതിവയ്ക്കപ്പെടുത്തില്ല
+contextual-manager-passwords-discard-changes-close-button = അടയ്ക്കുക
+contextual-manager-passwords-discard-changes-go-back-button = പിന്നോട്ടു്

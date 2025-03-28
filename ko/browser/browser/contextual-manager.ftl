@@ -248,11 +248,45 @@ contextual-manager-username-login-line-with-alert =
 contextual-manager-password-login-line =
     .aria-label = 비밀번호 복사
     .title = 비밀번호 복사
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = 비밀번호 복사 (경고)
+    .title = 비밀번호 복사 (경고)
+contextual-manager-edit-login-button = 편집
+    .tooltiptext = 비밀번호 편집
+contextual-manager-view-alert-heading =
+    .heading = 알림 보기
+contextual-manager-view-alert-button =
+    .tooltiptext = 알림 리뷰
+contextual-manager-show-password-button =
+    .aria-label = 비밀번호 표시
+    .title = 비밀번호 표시
+contextual-manager-hide-password-button =
+    .aria-label = 비밀번호 숨기기
+    .title = 비밀번호 숨기기
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = 비밀번호를 찾을 수 없음
+contextual-manager-passwords-no-passwords-found-message = 비밀번호를 찾을 수 없습니다. 다른 용어를 검색하고 다시 시도하세요.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = 비밀번호를 안전한 장소에 저장하세요.
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = 모든 비밀번호는 암호화되며 유출을 감시하고 영향을 받는 경우 알림을 받습니다.
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = 시작하려면 여기에 추가하세요.
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = 직접 추가
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = 저장하지 않고 닫으시겠습니까?
+    .message = 변경 사항은 저장되지 않습니다.
+contextual-manager-passwords-discard-changes-close-button = 닫기
+contextual-manager-passwords-discard-changes-go-back-button = 뒤로 가기
