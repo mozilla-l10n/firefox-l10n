@@ -258,12 +258,25 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 # Opt-in message strings for Review Checker when it is integrated into the global sidebar.
 shopping-opt-in-integrated-headline = Compra con confianza
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle = Activa el Verificador de reseñas de { -brand-product-name } para comprobar la fiabilidad de las reseñas de productos antes de comprar. Utiliza tecnología de IA para analizar las reseñas y funciona al comprar en { $firstSite }, { $secondSite } y { $thirdSite }. <a data-l10n-name="learn_more">Aprender más</a>
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle-unsupported-site = El verificador de reseñas de { -brand-product-name } te ayuda a conocer cuán fiables son las reseñas de productos antes de comprar. Utiliza tecnología de IA para analizar las reseñas y funciona al comprar en { $firstSite }, { $secondSite } y { $thirdSite }. <a data-l10n-name="learn_more">Aprender más</a>
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
 shopping-callout-opt-in-integrated-headline = ¿Puedes confiar en estas reseñas?
 # Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
 shopping-callout-not-opted-in-integrated-paragraph1 = Activa el Verificador de Reseñas de { -brand-product-name } para descubrirlo. Funciona con { -fakespot-brand-full-name } y utiliza tecnología de IA para analizar las reseñas.
+shopping-callout-not-opted-in-integrated-paragraph2 = Al seleccionar "{ shopping-opt-in-integrated-button }", aceptas el <a data-l10n-name="privacy_policy">aviso de privacidad</a> de { -brand-product-name } y los <a data-l10n-name="terms_of_use">términos de uso</a> de { -fakespot-brand-full-name }.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Ocultar
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Activar el verificador de reseñas
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = No volver a mostrar esta recomendación
