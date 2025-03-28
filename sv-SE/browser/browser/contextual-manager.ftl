@@ -67,11 +67,25 @@ contextual-manager-passwords-import-success-heading =
 contextual-manager-passwords-import-success-message = Nya: { $added }, Uppdaterade: { $modified }
 contextual-manager-passwords-import-detailed-report = Visa detaljerad rapport
 contextual-manager-passwords-import-success-button = Klar
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = Det gick inte att importera lösenord
+    .message = Se till att din fil innehåller en kolumn för webbplatser, användarnamn och lösenord.
+contextual-manager-passwords-import-error-button-try-again = Försök igen
 contextual-manager-passwords-import-error-button-cancel = Avbryt
+contextual-manager-passwords-import-learn-more = Läs om hur du importerar lösenord
+contextual-manager-passwords-export-success-heading =
+    .heading = Lösenord exporterade
 contextual-manager-passwords-export-success-button = Klar
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = Exportera lösenord till fil?
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = Efter du exporterar rekommenderar vi att du tar bort filen så att andra som använder den här enheten inte kan se dina lösenord.
 contextual-manager-export-passwords-dialog-confirm-button = Fortsätt med export
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Exportera lösenord från { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = lösenord
 contextual-manager-passwords-export-file-picker-export-button = Exportera
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -79,6 +93,13 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] CSV-dokument
        *[other] CSV-fil
+    }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] Ta bort lösenordet?
+       *[other] Vill du ta bort alla { $total } lösenord?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
