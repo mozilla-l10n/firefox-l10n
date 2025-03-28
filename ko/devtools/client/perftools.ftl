@@ -71,6 +71,11 @@ perftools-button-edit-settings = 설정 편집…
 
 ## More actions menu
 
+perftools-menu-more-actions-button =
+    .title = 작업 더보기
+perftools-menu-more-actions-restart-with-profiling = 시작 프로파일링을 활성화하고 { -brand-shorter-name } 다시 시작
+perftools-menu-more-actions-copy-for-startup = 시작 프로파일링을 위한 환경 변수 복사
+perftools-menu-more-actions-copy-for-perf-tests = 성능 테스트를 위해 매개 변수 복사
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 

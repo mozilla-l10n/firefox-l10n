@@ -239,7 +239,7 @@ shopping-onboarding-dynamic-subtitle-1 = გადაამოწმეთ შ�
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = გადაამოწმეთ შეძენამდე, თუ რამდენად სანდო მიმოხილვებს გიჩვენებთ გასაყიდი ნაწარმის შესახებ <b>{ $currentSite }</b>. მიმოხილვის შემმოწმებელი, საცდელი შესაძლებლობა, რომელსაც გთავაზობთ { -brand-product-name }, პირდაპირ ბრაუზერშივეა ჩაშენებული.
 shopping-onboarding-body = ყოველისშემძლე { -fakespot-brand-full-name } დაგეხმარებათ აირიდოთ მიკერძოებული და ყალბი მიმოხილვები. ჩვენი AI-მოდელი მუდმივად თქვენს დასაცავად საყიდლების შეძენისას. <a data-l10n-name="learn_more">ვრცლად</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = „{ shopping-onboarding-opt-in-button }“ ღილაკზე დაჭერით ეთანხმებით { -brand-product-name }-ის <a data-l10n-name="privacy_policy">პირადულობის დებულებასა</a> და { -fakespot-brand-name }-ის <a data-l10n-name="terms_of_use">მომსახურების პირობებს.</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = თუ მზად ხართ აირჩიოთ „{ shopping-onboarding-opt-in-button }“, ამით ეთანხმებით <a data-l10n-name="privacy_policy">პირადულობის დებულებას</a>, რომელსაც ადგენს { -brand-product-name } და <a data-l10n-name="terms_of_use">გამოყენების პირობებს</a>, რომელსაც გთავაზობთ { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = დიახ, მოისინჯოს
 shopping-onboarding-not-now-button = ახლა არა
 shopping-onboarding-dialog-close-button =
@@ -274,17 +274,22 @@ shopping-opt-in-integrated-subtitle-unsupported-site = მიმოხილვ�
 shopping-callout-opt-in-integrated-headline = შეგიძლიათ ენდოთ ამ მიმოხილვებს?
 # Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
 shopping-callout-not-opted-in-integrated-paragraph1 = ჩართეთ მიმოხილვების შემმოწმებელი, რომელსაც გთავაზობთ { -brand-product-name } და გაარკვიეთ. მის მუშაობას უზრუნველყოფს { -fakespot-brand-full-name } და იყენებს ხელოვნური ინტელექტის საშუალებებს მიმოხილვების გასარჩევად.
+shopping-callout-not-opted-in-integrated-paragraph2 = თუ მზად ხართ აირჩიოთ „{ shopping-opt-in-integrated-button }“, ამით ეთანხმებით <a data-l10n-name="privacy_policy">პირადულობის განაცხადს</a>, რომელსაც ადგენს { -brand-product-name } და <a data-l10n-name="terms_of_use">გამოყენების პირობებს</a>, რომელსაც გთავაზობთ { -fakespot-brand-full-name }.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = აცილება
 shopping-callout-not-opted-in-integrated-reminder-accept-button = ჩართეთ მიმოხილვის შემმოწმებელი
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = მომავალში შემოთავაზების გარეშე
 shopping-callout-not-opted-in-integrated-reminder-show-fewer = ნაკლები ამგვარი შემოთავაზებები
 shopping-callout-not-opted-in-integrated-reminder-manage-settings = პარამეტრების მართვა
+shopping-opt-in-integrated-privacy-policy-and-terms-of-use = მიმოხილვების შემმოწმებლის მუშაობას უზრუნველყოფს { -fakespot-brand-full-name }. თუ მზად ხართ აირჩიოთ „{ shopping-opt-in-integrated-button }“, ამით ეთანხმებით <a data-l10n-name="privacy_policy">პირადულობის განაცხადს</a>, რომელსაც ადგენს { -brand-product-name } და <a data-l10n-name="terms_of_use">გამოყენების პირობებს</a>, რომელსაც გთავაზობთ { -fakespot-brand-name }.
 shopping-opt-in-integrated-button = გამოცადეთ მიმოხილვის შემმოწმებელი
 
 ## Message strings for Review Checker's empty states.
 
 shopping-empty-state-header = მზადაა მიმოხილვების შესამოწმებლად
 shopping-empty-state-supported-site = დაათვალიერეთ საყიდლები და { -brand-product-name } გადაამოწმებს მიმოხილვების სანდოობას.
+# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
+# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
+shopping-empty-state-non-supported-site = მიმოხილვის შემმოწმებელი იმუშავებს, როცა საყიდლებისთვის გახსნილია:
 
 ## Confirm disabling Review Checker for newly opted out users
 

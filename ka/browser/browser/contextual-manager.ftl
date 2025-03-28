@@ -3,9 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = Search passwords
+    .placeholder = პაროლების ძიება
     .key = F
-    .aria-label = Search passwords
+    .aria-label = პაროლების ძიება
+contextual-manager-menu-more-options-button =
+    .title = სხვა პარამეტრები
+contextual-manager-more-options-popup =
+    .aria-label = სხვა პარამეტრები
 
 ## Passwords
 

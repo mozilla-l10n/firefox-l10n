@@ -13,6 +13,11 @@ contentanalysis-slow-agent-dialog-header = 스캔 진행 중
 contentanalysis-slow-agent-dialog-body-file = { $agent }이(가) 조직의 데이터 정책에 따라 '{ $filename }' 파일을 분석 중입니다. 잠시 시간이 걸릴 수 있습니다.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
+#   $filename - Name of a file being analyzed, such as "aFile.txt"
+#   $count (number) - The number of additional items in the request for analysis
+contentanalysis-slow-agent-dialog-body-file-and-more = { $agent }이(가) 조직의 데이터 정책에 따라 “{ $filename }” 및 { $count }개의 추가 항목을 검토 중입니다. 잠시 시간이 걸릴 수 있습니다.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent }이(가) 조직의 데이터 정책에 따라 붙여넣은 내용을 분석 중입니다. 잠시 시간이 걸릴 수 있습니다.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
