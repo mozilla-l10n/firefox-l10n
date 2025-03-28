@@ -256,18 +256,52 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 ## Review Checker in Integrated sidebar
 
+# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
+shopping-opt-in-integrated-headline = Winkelje mei fertrouwen
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle = Skeakelje Beoardielingskontrôle fan { -brand-product-name } yn om te sjen hoe betrouber produktresinsjes binne, eardat jo keapje. It brûkt AI-technology om resinsjes te analysearjen en wurket as jo winkelje op { $firstSite }, { $secondSite } en { $thirdSite }. <a data-l10n-name="learn_more">Mear ynfo</a>
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle-unsupported-site = Beoardielingskontrôle fan { -brand-product-name } helpt jo út te finen hoe betrouber de resinsjes fan in produkt binne, eardat jo keapje. It brûkt AI-technology om resinsjes te analysearjen en wurket as jo winkelje op { $firstSite }, { $secondSite } en { $thirdSite }. <a data-l10n-name="learn_more">Mear ynfo</a>
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-opt-in-integrated-headline = Kinne jo dizze beoardielingen fertrouwe?
+# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
+shopping-callout-not-opted-in-integrated-paragraph1 = Skeakelje Beoardielingskontrôle fan { -brand-product-name } yn om it út te finen. It wurdt oandreaun troch { -fakespot-brand-full-name } en brûkt AI-technology om beoardielingen te analysearjen.
+shopping-callout-not-opted-in-integrated-paragraph2 = Troch ‘{ shopping-opt-in-integrated-button }’ te selektearjen, geane jo akkoard mei de <a data-l10n-name="privacy_policy">privacyferklearring</a> fan { -brand-product-name } en  de <a data-l10n-name="terms_of_use">brûksbetingsten</a> fan { -fakespot-brand-full-name }.
+shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Slute
+shopping-callout-not-opted-in-integrated-reminder-accept-button = Beoardielingskontrôle ynskeakelje
+shopping-callout-not-opted-in-integrated-reminder-do-not-show = Dizze oanrekommandaasje net mear toane
+shopping-callout-not-opted-in-integrated-reminder-show-fewer = Mear oanrekommandaasjes toane
+shopping-callout-not-opted-in-integrated-reminder-manage-settings = Ynstellingen beheare
+shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Beoardielingskontrôle wurdt oandreaun troch { -fakespot-brand-full-name }. Troch ‘{ shopping-opt-in-integrated-button }’ te selektearjen, geane jo akkoard mei de <a data-l10n-name="privacy_policy">privacyferklearring</a> fan { -brand-product-name } en de <a data-l10n-name="terms_of_use">gebrûksbetingsten fan { -fakespot-brand-name }.</a>
+shopping-opt-in-integrated-button = Beoardielingskontrôle probearje
 
 ## Message strings for Review Checker's empty states.
 
+shopping-empty-state-header = Klear om beoardielingen te kontrolearjen
+shopping-empty-state-supported-site = Besjoch in produkt en { -brand-product-name } sil kontrolearje oft de beoardielingen  betrouber binne.
+# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
+# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
+shopping-empty-state-non-supported-site = Beoardielingskontrôle wurket as jo winkelje op:
 
 ## Confirm disabling Review Checker for newly opted out users
 
+shopping-integrated-callout-opted-out-title = Beoardielingskontrôle is útskeakele
+shopping-integrated-callout-opted-out-subtitle = Selektearje it priiskaartsje yn de sydbalke en skeakelje Beoardielingskontrôle yn om de funksje wer yn te skeakeljen.
 
 ## Callout for where to find Review Checker when the sidebar closes
 
+shopping-integrated-callout-sidebar-closed-title = Werom nei Beoardielingskontrôle
+shopping-integrated-callout-sidebar-closed-subtitle = Selektearje it priiskaartsje yn de sydbalke om te sjen oft jo de beoardielingen fan in produkt fertrouwe kinne.
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
