@@ -95,7 +95,33 @@ contextual-manager-passwords-remove-all-confirm-button =
         [1] 移除
        *[other] 全部移除
     }
+contextual-manager-passwords-origin-label = 网站
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = 用户名
+    .data-after = 已复制
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = 密码
+    .data-after = 已复制
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = 已添加 { $url } 的密码
+contextual-manager-passwords-add-password-success-button = 查看
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = { $url } 的密码和用户名已经存在
+contextual-manager-passwords-update-password-success-heading =
+    .heading = 密码已保存
 contextual-manager-passwords-update-password-success-button = 完成
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] 密码已移除
+           *[other] 密码已移除
+        }
 contextual-manager-passwords-delete-password-success-button = 完成
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = 确定要移除密码吗？
@@ -103,6 +129,9 @@ contextual-manager-passwords-remove-login-card-title = 确定要移除密码吗�
 contextual-manager-passwords-remove-login-card-remove-button = 移除
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = 取消
+contextual-manager-passwords-alert-list =
+    .aria-label = 警报列表
+contextual-manager-passwords-change-password-button = 更改密码
 
 ## Login Form
 

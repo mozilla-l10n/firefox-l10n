@@ -250,7 +250,7 @@ about-logins-confirm-remove-all-dialog-checkbox-label2 =
        *[other] 是，移除密码
     }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
-about-logins-confirm-remove-all-dialog-title2 = 确定移除 { $count } 个密码吗？
+about-logins-confirm-remove-all-dialog-title2 = 确定要移除 { $count } 个密码吗？
 # Message for modal to confirm the removal of saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-message2 =
     { $count ->
