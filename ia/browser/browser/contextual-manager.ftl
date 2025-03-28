@@ -278,6 +278,9 @@ contextual-manager-passwords-no-passwords-found-message = Nulle contrasigno trov
 
 # This string encourages the user to save their passwords in Firefox (the "safe spot").
 contextual-manager-passwords-no-passwords-header = Salva tu contrasignos in un posto secur.
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = Tote le contrasignos es cryptate e nos surveliara contra violationes e te avisara si illos occurre.
 # This string encourages the user to save their passwords to Firefox again.
 contextual-manager-passwords-no-passwords-get-started-message = Adde los ci pro initiar.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.

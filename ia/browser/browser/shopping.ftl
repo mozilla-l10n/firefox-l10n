@@ -256,10 +256,24 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 # Opt-in message strings for Review Checker when it is integrated into the global sidebar.
 shopping-opt-in-integrated-headline = Compra con confidentia
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle = Activa le Verificator de recension de { -brand-product-name } pro vider quanto fidibile es le recensiones de producto ante que tu los compra. Illo usa technologia IA pro analysar le revisiones e functiona quando tu compra sur { $firstSite }, { $secondSite }, e { $thirdSite }. <a data-l10n-name="learn_more">Saper plus</a>
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle-unsupported-site = Le Verificator de recension de { -brand-product-name } te adjuta a saper quanto fidibile es le recensiones de producto, ante que tu los compra. Illo usa technologia IA pro analysar le revisiones e functiona quando tu compra sur { $firstSite }, { $secondSite }, e { $thirdSite }. <a data-l10n-name="learn_more">Saper plus</a>
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-opt-in-integrated-headline = Pote tu fider te de iste recensiones?
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Dimitter
+shopping-callout-not-opted-in-integrated-reminder-accept-button = Activar Verificator de recension
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = Non monstrar de novo iste recommendation
 shopping-callout-not-opted-in-integrated-reminder-show-fewer = Monstrar minus recommendationes
 shopping-callout-not-opted-in-integrated-reminder-manage-settings = Gerer parametros
@@ -268,6 +282,9 @@ shopping-opt-in-integrated-button = Prova le Verificator de recension
 ## Message strings for Review Checker's empty states.
 
 shopping-empty-state-header = Preste a controlar recensiones
+# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
+# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
+shopping-empty-state-non-supported-site = Le Verificator de recension functiona quando tu compra sur:
 
 ## Confirm disabling Review Checker for newly opted out users
 
@@ -275,11 +292,13 @@ shopping-integrated-callout-opted-out-title = Verificator de recension es disact
 
 ## Callout for where to find Review Checker when the sidebar closes
 
+shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Selige le button de barra lateral pro vider si tu pote fider te de revisiones de productos.
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-title = Mesme Verificator de recension, nove punctos
 shopping-integrated-new-position-notification-move-right-button = Mover a dextra
 shopping-integrated-new-position-notification-move-left-button = Mover a sinistra
 shopping-integrated-new-position-notification-dismiss-button = Comprendite

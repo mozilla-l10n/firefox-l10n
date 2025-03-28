@@ -1353,6 +1353,7 @@ collection-header2 = Collecta e uso de datos per { -brand-short-name }
     .searchkeywords = telemetria
 preferences-collection-description = Nos nos effortia fornir te selectiones e colliger solo le minime datos necessari pro meliorar { -brand-product-name } pro totes.
 preferences-collection-privacy-notice = Vider le aviso de confidentialitate
+preferences-across-profiles = Iste parametros se applica a cata profilo de { -brand-product-name } sur iste apparato.
 preferences-view-profiles = Vider tote le profilos
 collection-description = Nos nos effortia pro lassar te in le commando e colliger solmente lo que nos ha necessitate pro provider e meliorar { -brand-short-name } a totes. Nos sempre demanda permission ante reciper informationes personal.
 collection-privacy-notice = Aviso de confidentialitate

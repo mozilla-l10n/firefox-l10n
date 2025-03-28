@@ -332,6 +332,8 @@ quickactions-cmd-addons2 = complementos
 quickactions-bookmarks2 = Administrar marcadores
 quickactions-cmd-bookmarks = marcadores
 # Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Borrar historial reciente
+# Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Borrar Historial
 quickactions-cmd-clearhistory = borrar historial
 # Opens about:downloads page
@@ -340,6 +342,9 @@ quickactions-cmd-downloads = descargas
 # Opens about:addons page in the extensions section
 quickactions-extensions = Administrar extensiones
 quickactions-cmd-extensions = extensiones
+# Opens SUMO home page
+quickactions-help = Ayuda de { -brand-product-name }
+quickactions-cmd-help = ayuda, soporte
 # Opens the devtools web inspector
 quickactions-inspector2 = Abrir herramientas para desarrolladores
 quickactions-cmd-inspector = inspector, herramientas de desarrollador
