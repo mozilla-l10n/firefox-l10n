@@ -96,6 +96,8 @@ profiles-light-theme = Равшан
 profiles-dark-theme = Торик
 # The default system theme
 profiles-system-theme = Низом
+# Ocean blue is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-ocean-theme-2 = Кабуди уқёнусӣ
 
 ## Alternative text for default profile icons
 

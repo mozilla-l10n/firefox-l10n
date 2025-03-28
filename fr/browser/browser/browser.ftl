@@ -332,6 +332,9 @@ quickactions-cmd-addons2 = modules complémentaires
 quickactions-bookmarks2 = Organiser les marque-pages
 quickactions-cmd-bookmarks = marque-pages
 # Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Effacer l’historique récent
+quickactions-cmd-clearrecenthistory = effacer l’historique récent, historique
+# Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Effacer l’historique
 quickactions-cmd-clearhistory = effacer l’historique
 # Opens about:downloads page
@@ -340,6 +343,8 @@ quickactions-cmd-downloads = téléchargements
 # Opens about:addons page in the extensions section
 quickactions-extensions = Gérer les extensions
 quickactions-cmd-extensions = extensions
+# Opens Firefox View
+quickactions-firefoxview = Ouvrir { -firefoxview-brand-name }
 # Opens the devtools web inspector
 quickactions-inspector2 = Ouvrir les outils de développement
 quickactions-cmd-inspector = inspecteur, outils de développement

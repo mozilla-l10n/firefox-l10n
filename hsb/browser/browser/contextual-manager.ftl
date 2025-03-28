@@ -92,6 +92,16 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
         [macos] CSV-dokument
        *[other] CSV-dataja
     }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] Hesło wotstronić?
+        [one] Wšě { $total } hesło wotstronić?
+        [two] Wšě { $total } hesle wotstronić?
+        [few] Wšě { $total } hesła wotstronić?
+       *[other] Wšě { $total } hesłow wotstronić?
+    }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
@@ -205,11 +215,62 @@ contextual-manager-check-icon-password =
     .alt = Kopěrowany
 contextual-manager-alert-icon =
     .alt = Warnowanje
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = { $url } wopytać
+    .title = { $url } wopytać
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = { $url } wopytać (warnowanje)
+    .title = { $url } wopytać (warnowanje)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = Wužiwarske mjeno { $username } kopěrować
+    .title = Wužiwarske mjeno { $username } kopěrować
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = Wužiwarske mjeno { $username } kopěrować (warnowanje)
+    .title = Wužiwarske mjeno { $username } kopěrować (warnowanje)
+contextual-manager-password-login-line =
+    .aria-label = Hesło kopěrować
+    .title = Hesło kopěrować
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = Hesło kopěrować (warnowanje)
+    .title = Hesło kopěrować (warnowanje)
+contextual-manager-edit-login-button = Wobdźěłać
+    .tooltiptext = Hesło wobdźěłać
+contextual-manager-view-alert-heading =
+    .heading = Warnowanje pokazać
+contextual-manager-view-alert-button =
+    .tooltiptext = Warnowanje přepruwować
+contextual-manager-show-password-button =
+    .aria-label = Hesło pokazać
+    .title = Hesło pokazać
+contextual-manager-hide-password-button =
+    .aria-label = Hesło schować
+    .title = Hesło schować
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = Žane hesła namakane
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = Składujće swoje hesła na wěstym městnje.
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = Manuelnje přidać
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = Bjez składowanja začinić?
+    .message = Waše změny so njeskładuja.

@@ -273,6 +273,11 @@ shopping-onboarding-welcome-steps-indicator-label =
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-move-right-button = Naprawo přesunyć
+shopping-integrated-new-position-notification-move-left-button = Nalěwo přesunyć
+shopping-integrated-new-position-notification-dismiss-button = Sym zrozumił
 
 ## Combined setting for auto-open and auto-close.
 
+shopping-settings-auto-open-and-close-toggle =
+    .label = Kontrolu pohódnoćenjow awtomatisce wočinić a začinić

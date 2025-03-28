@@ -190,11 +190,25 @@ contextual-manager-passwords-alert-list =
 contextual-manager-passwords-breached-origin-heading-and-message =
     .heading = პაროლი შეცვლა სასურველია
     .message = როგორც ცნობილია, რომ პაროლები ამ ვებსაიტიდან მოპარული ან გამჟღავნებულია. შეცვალეთ პაროლი ანგარიშის დასაცავად.
+contextual-manager-passwords-breached-origin-link-message = როგორ იგებს { -brand-product-name } ამბებს მიტაცების შემთხვევების შესახებ?
+contextual-manager-passwords-change-password-button = პაროლის შეცვლა
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = პაროლი შეცვლა სასურველია
+    .message = ეს პაროლი ადვილად გამოსაცნობია. შეცვალეთ პაროლი თქვენი ანგარიშიც დასაცავად.
+contextual-manager-passwords-vulnerable-password-link-message = როგორ ადგენს { -brand-product-name } პაროლების სისუსტეს?
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = მომხმარებლის დამატება
+    .message = დაამატეთ სწრაფად შესვლისთვის.
+contextual-manager-passwords-add-username-button = მომხმარებლის დამატება
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = პაროლის დამატება
+contextual-manager-passwords-edit-label =
+    .label = პაროლის შესწორება
+contextual-manager-passwords-remove-label =
+    .title = პაროლის მოცილება
 
 ## Password Card
 
@@ -202,11 +216,43 @@ contextual-manager-passwords-list-label =
     .aria-label = პაროლები
 contextual-manager-copy-icon =
     .alt = ასლი
+contextual-manager-password-login-line =
+    .aria-label = პაროლის ასლი
+    .title = პაროლის ასლი
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = პაროლის ასლი (გაფრთხილება)
+    .title = პაროლის ასლი (გაფრთხილება)
+contextual-manager-edit-login-button = ჩასწორება
+    .tooltiptext = პაროლის ჩასწორება
+contextual-manager-view-alert-heading =
+    .heading = ცნობის ნახვა
+contextual-manager-view-alert-button =
+    .tooltiptext = ცნობის გადახედვა
+contextual-manager-show-password-button =
+    .aria-label = პაროლის გამოჩენა
+    .title = პაროლის ჩვენება
+contextual-manager-hide-password-button =
+    .aria-label = პაროლების დამალვა
+    .title = პაროლის დაფარვა
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = პაროლები ვერ მოიძებნა
+contextual-manager-passwords-no-passwords-found-message = პაროლები ვერ მოიძებნა. კვლავ სცადეთ მონახვა სხვა საძებნი სიტყვებით.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = შეინახეთ პაროლები უსაფრთხო ადგილას.
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = დაამატეთ აქ დასაწყებად.
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = ხელით დამატება
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = დაიხუროს შეუნახავად?
+    .message = შეტანილი ცვლილებები არ შეინახება.

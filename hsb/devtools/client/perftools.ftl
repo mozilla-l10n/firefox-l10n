@@ -70,6 +70,8 @@ perftools-button-edit-settings = Nastajenja wobdźěłać…
 
 ## More actions menu
 
+perftools-menu-more-actions-button =
+    .title = Dalše akcije
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
