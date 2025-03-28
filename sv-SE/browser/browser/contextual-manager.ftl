@@ -116,14 +116,41 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Ta bort
        *[other] Ta bort alla
     }
+contextual-manager-passwords-origin-label = Webbplats
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Filtrera lösenord
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = Lösenord har lagts till för { $url }
+contextual-manager-passwords-password-already-exists-error-button = Gå till lösenord
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Lösenord sparat
 contextual-manager-passwords-update-password-success-button = Klar
 contextual-manager-passwords-delete-password-success-button = Klar
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = Alla ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = Varningar ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Ta bort lösenord?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = Du kan inte ångra detta.
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Tillbaka
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Ta bort
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Avbryt
+contextual-manager-passwords-alert-card =
+    .aria-label = Lösenordsvarningar
+contextual-manager-passwords-alert-back-button =
+    .label = Tillbaka
+contextual-manager-passwords-alert-list =
+    .aria-label = Varningslista
 
 ## Login Form
 
