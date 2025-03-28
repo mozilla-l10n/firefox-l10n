@@ -70,6 +70,9 @@ contextual-manager-passwords-export-success-button = 完成
 contextual-manager-export-passwords-dialog-confirm-button = 继续导出
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = 从 { -brand-short-name } 导出的密码
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = 密码
 contextual-manager-passwords-export-file-picker-export-button = 导出
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.

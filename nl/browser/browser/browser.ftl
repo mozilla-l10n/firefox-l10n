@@ -345,6 +345,13 @@ quickactions-extensions = Extensies beheren
 quickactions-cmd-extensions = extensies
 # Opens Firefox View
 quickactions-firefoxview = { -firefoxview-brand-name } openen
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = { -firefoxview-brand-name } openen, { -firefoxview-brand-name }, beeld openen, bekijken
+# Opens SUMO home page
+quickactions-help = Hulp voor { -brand-product-name }
+quickactions-cmd-help = hulp, ondersteuning
 # Opens the devtools web inspector
 quickactions-inspector2 = Ontwikkelaarshulpmiddelen openen
 quickactions-cmd-inspector = inspector, devtools
