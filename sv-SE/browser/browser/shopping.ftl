@@ -300,13 +300,11 @@ shopping-integrated-callout-opted-out-subtitle = För att slå på den igen, vä
 
 shopping-integrated-callout-sidebar-closed-title = Gå tillbaka till recensionsgranskaren
 shopping-integrated-callout-sidebar-closed-subtitle = Välj prislappen i sidofältet för att se om du kan lita på en produkts recensioner.
-shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Välj sidofältsknappen för att se om du kan lita på en produkts recensioner.
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
-shopping-integrated-new-position-notification-title = Samma recensionsgranskare, ny plats
 shopping-integrated-new-position-notification-move-right-subtitle = Spara recensionsgranskaren och resten av sidofältet i { -brand-product-name } här — eller flytta dem till höger. Byt nu eller när som helst i <a data-l10n-name="sidebar_settings">inställningarna för sidofält</a>.
 shopping-integrated-new-position-notification-move-left-subtitle = Håll recensionsgranskaren och resten av sidofältet i { -brand-product-name } här — eller flytta dem till vänster. Byt nu eller när som helst i <a data-l10n-name="sidebar_settings">inställningarna för sidofält</a>.
 shopping-integrated-new-position-notification-move-right-button = Flytta höger
