@@ -6,13 +6,21 @@ contextual-manager-filter-input =
     .placeholder = Hesła pytać
     .key = F
     .aria-label = Hesła pytać
+contextual-manager-menu-more-options-button =
+    .title = Dalše nastajenja
+contextual-manager-more-options-popup =
+    .aria-label = Dalše nastajenja
 
 ## Passwords
 
 contextual-manager-passwords-command-create = Hesło přidać
 contextual-manager-passwords-command-import-from-browser = Z druheho wobhladowaka importować…
 contextual-manager-passwords-command-import = Z dataje importować…
+contextual-manager-passwords-command-export = Hesła eksportować
+contextual-manager-passwords-command-remove-all = Wšě hesła wotstronić
+contextual-manager-passwords-command-settings = Nastajenja
 contextual-manager-passwords-command-help = Pomoc
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Zapodajće swoje přizjewjenske daty Windows, zo byšće swoje hesła eksportował. To wěstotu wašich kontow škita.
 # This message can be seen when attempting to export a password in about:logins
@@ -35,6 +43,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Zapodaj�
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = składowane hesło kopěrować
+contextual-manager-passwords-import-file-picker-title = Hesła importować
 contextual-manager-passwords-import-file-picker-import-button = Importować
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -50,12 +59,31 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] TSV-dokument
        *[other] TSV-dataja
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = Hesła su so importowali
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = Nowy: { $added }, zaktualizowany: { $modified }
+contextual-manager-passwords-import-detailed-report = Podrobnu rozprawu pokazać
 contextual-manager-passwords-import-success-button = Dokónčene
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = Hesła njedadźa so importować
+    .message = Zawěsćće, zo waša dataja špaltu za websydła, wužiwarske mjena hesła wobsahuje.
+contextual-manager-passwords-import-error-button-try-again = Hišće raz spytać
 contextual-manager-passwords-import-error-button-cancel = Přetorhnyć
+contextual-manager-passwords-import-learn-more = Zhońće wjace wo importowanju hesłow
+contextual-manager-passwords-export-success-heading =
+    .heading = Hesła su so eksportowali
 contextual-manager-passwords-export-success-button = Dokónčene
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = Hesła do dataje eksportować?
 contextual-manager-export-passwords-dialog-confirm-button = Z eksportom pokročować
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Hesła z { -brand-short-name } eksportować
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = hesła
 contextual-manager-passwords-export-file-picker-export-button = Eksportować
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -84,6 +112,20 @@ contextual-manager-passwords-remove-all-confirm-button =
         [few] Wšě wotstronić
        *[other] Wšě wotstronić
     }
+contextual-manager-passwords-origin-label = Websydło
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Wužiwarske mjeno
+    .data-after = Kopěrowane
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Hesło
+    .data-after = Kopěrowane
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Hesła filtrować
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = Hesło je so za { $url } přidało
+contextual-manager-passwords-add-password-success-button = Napohlad
 contextual-manager-passwords-update-password-success-button = Dokónčene
 contextual-manager-passwords-delete-password-success-button = Dokónčene
 # This message is displayed to make sure that a user wants to delete an existing login.

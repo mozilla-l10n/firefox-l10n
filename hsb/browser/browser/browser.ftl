@@ -345,6 +345,13 @@ quickactions-extensions = Rozšěrjenja rjadować
 quickactions-cmd-extensions = rozšěrjenja
 # Opens Firefox View
 quickactions-firefoxview = { -firefoxview-brand-name } wočinić
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = { -firefoxview-brand-name } wočinić, { -firefoxview-brand-name }, view wočinić, view
+# Opens SUMO home page
+quickactions-help = Pomoc { -brand-product-name }
+quickactions-cmd-help = pomoc, podpěra
 # Opens the devtools web inspector
 quickactions-inspector2 = Wuwiwarske nastroje wočinić
 quickactions-cmd-inspector = inspektor, wuwiwarske nastroje
