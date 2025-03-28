@@ -198,18 +198,78 @@ contextual-manager-passwords-vulnerable-password-heading-and-message =
     .heading = Wachtwoordwijziging aanbevolen
     .message = Dit wachtwoord kan eenvoudig worden geraden. Wijzig uw wachtwoord om uw account te beschermen.
 contextual-manager-passwords-vulnerable-password-link-message = Hoe weet { -brand-product-name } van zwakke wachtwoorden?
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Gebruikersnaam toevoegen
+    .message = Voeg er een toe om sneller aan te melden.
+contextual-manager-passwords-add-username-button = Gebruikersnaam toevoegen
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Wachtwoord toevoegen
+contextual-manager-passwords-edit-label =
+    .label = Wachtwoord bewerken
+contextual-manager-passwords-remove-label =
+    .title = Wachtwoord verwijderen
+contextual-manager-passwords-origin-tooltip = Voer het exacte adres in waar u zich bij deze website zult aanmelden.
+contextual-manager-passwords-username-tooltip = Voer de gebruikersnaam, het e-mailadres of het accountnummer in dat u gebruikt om u aan te melden.
+contextual-manager-passwords-password-tooltip = Voer het wachtwoord in dat is gebruikt om u aan te melden bij deze account.
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = Wachtwoorden
+contextual-manager-website-icon =
+    .alt = Websitepictogram
 contextual-manager-copy-icon =
     .alt = Kopiëren
+contextual-manager-check-icon-username =
+    .alt = Gekopieerd
+contextual-manager-check-icon-password =
+    .alt = Gekopieerd
+contextual-manager-alert-icon =
+    .alt = Waarschuwing
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = { $url } bezoeken
+    .title = { $url } bezoeken
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = { $url } bezoeken (waarschuwing)
+    .title = { $url } bezoeken (waarschuwing)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = Gebruikersnaam { $username } kopiëren
+    .title = Gebruikersnaam { $username } kopiëren
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = Gebruikersnaam { $username } kopiëren (waarschuwing)
+    .title = Gebruikersnaam { $username } kopiëren (waarschuwing)
+contextual-manager-password-login-line =
+    .aria-label = Wachtwoord kopiëren
+    .title = Wachtwoord kopiëren
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = Wachtwoord kopiëren (waarschuwing)
+    .title = Wachtwoord kopiëren (waarschuwing)
+contextual-manager-edit-login-button = Bewerken
+    .tooltiptext = Wachtwoord bewerken
+contextual-manager-view-alert-heading =
+    .heading = Waarschuwing tonen
+contextual-manager-view-alert-button =
+    .tooltiptext = Waarschuwing beoordelen
+contextual-manager-show-password-button =
+    .aria-label = Wachtwoord tonen
+    .title = Wachtwoord tonen
+contextual-manager-hide-password-button =
+    .aria-label = Wachtwoord verbergen
+    .title = Wachtwoord verbergen
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:

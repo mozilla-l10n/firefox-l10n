@@ -254,12 +254,27 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 ## Review Checker in Integrated sidebar
 
+# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
+shopping-opt-in-integrated-headline = Achetez en toute confiance
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-opt-in-integrated-headline = Pouvez-vous faire confiance à ces avis ?
+# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
+shopping-callout-not-opted-in-integrated-paragraph1 = Activez le vérificateur d’avis de { -brand-product-name } pour le savoir. Il fonctionne grâce à { -fakespot-brand-full-name } et utilise l’IA pour analyser les avis.
+shopping-callout-not-opted-in-integrated-paragraph2 = En sélectionnant « { shopping-opt-in-integrated-button } », vous acceptez la <a data-l10n-name="privacy_policy">politique de confidentialité</a> de { -brand-product-name } et les <a data-l10n-name="terms_of_use">conditions d’utilisation</a> de { -fakespot-brand-full-name }.
+shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Ignorer
+shopping-callout-not-opted-in-integrated-reminder-accept-button = Activer le vérificateur d’avis
+shopping-callout-not-opted-in-integrated-reminder-do-not-show = Ne plus afficher cette recommandation
+shopping-callout-not-opted-in-integrated-reminder-show-fewer = Afficher moins de recommandations
+shopping-callout-not-opted-in-integrated-reminder-manage-settings = Gérer les paramètres
+shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Le vérificateur d’avis fonctionne grâce à { -fakespot-brand-full-name }. En sélectionnant « { shopping-opt-in-integrated-button } », vous acceptez la <a data-l10n-name="privacy_policy">politique de confidentialité</a> de { -brand-product-name } et les <a data-l10n-name="terms_of_use">conditions d’utilisation</a> de { -fakespot-brand-name }.
+shopping-opt-in-integrated-button = Essayer le vérificateur d’avis
 
 ## Message strings for Review Checker's empty states.
 
+shopping-empty-state-header = Prêt à vérifier les avis
+shopping-empty-state-supported-site = Consultez un produit et { -brand-product-name } vérifiera si les avis sont fiables.
 
 ## Confirm disabling Review Checker for newly opted out users
 

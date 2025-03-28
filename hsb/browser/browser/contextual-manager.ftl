@@ -126,14 +126,49 @@ contextual-manager-passwords-radiogroup-label =
 contextual-manager-passwords-add-password-success-heading =
     .heading = Hesło je so za { $url } přidało
 contextual-manager-passwords-add-password-success-button = Napohlad
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = Hesło a wužiwarske mjeno za { $url } hižo eksistujetej
+contextual-manager-passwords-password-already-exists-error-button = K hesle
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Hesło je so składowało
 contextual-manager-passwords-update-password-success-button = Dokónčene
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] Hesło je so wotstroniło
+            [one] Hesło je so wotstroniło
+            [two] Hesle stej so wotstroniłoj
+            [few] Hesła su so wotstronili
+           *[other] Hesła su so wotstronili
+        }
 contextual-manager-passwords-delete-password-success-button = Dokónčene
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = Wšě ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = Warnowanja ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Hesło wotstronić?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = Njemóžeće to cofnyć.
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Wróćo
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Wotstronić
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Přetorhnyć
+contextual-manager-passwords-alert-card =
+    .aria-label = Hesłowe warnowanja
+contextual-manager-passwords-alert-back-button =
+    .label = Wróćo
+contextual-manager-passwords-alert-list =
+    .aria-label = Lisćina warnowanjow
 
 ## Login Form
 

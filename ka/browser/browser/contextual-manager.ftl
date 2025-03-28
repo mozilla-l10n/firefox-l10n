@@ -97,6 +97,7 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
 contextual-manager-passwords-remove-all-title =
     { $total ->
         [1] წაიშალოს პაროლი?
+        [one] წაიშალოს პაროლი?
        *[other] წაიშალოს ყველა { $total } პაროლი?
     }
 # Checkbox label to confirm the removal of saved passwords
@@ -106,12 +107,12 @@ contextual-manager-passwords-remove-all-confirm =
         [1] დიახ, წაიშალოს პაროლი
        *[other] დიახ, წაიშალოს პაროლები
     }
-# Button label to confirm removal of saved passwords
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
 #   $total (number) - Total number of passwords
-contextual-manager-passwords-remove-all-confirm-button =
+contextual-manager-passwords-remove-all-message =
     { $total ->
-        [1] მოცილება
-       *[other] ყველას მოცილება
+        [one] შედეგად წაიშლება პაროლი, რომელსაც ინახავს { -brand-short-name } და მიტაცების შესახებ შეტყობინებებიც. ეს ქმედება შეუქცევადია.
+       *[other] შედეგად წაიშლება ყველა პაროლი, რომელთაც ინახავს { -brand-short-name } და მიტაცების შესახებ შეტყობინებებიც. ეს ქმედება შეუქცევადია.
     }
 contextual-manager-passwords-update-password-success-button = მზადაა
 contextual-manager-passwords-delete-password-success-button = მზადაა
