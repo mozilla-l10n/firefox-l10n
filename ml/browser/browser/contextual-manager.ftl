@@ -6,12 +6,19 @@ contextual-manager-filter-input =
     .placeholder = രഹസ്യവാക്കുകൾ തിരയുക
     .key = F
     .aria-label = രഹസ്യവാക്കുകൾ തിരയുക
+contextual-manager-menu-more-options-button =
+    .title = കൂടുതൽ സാധ്യതകൾ
+contextual-manager-more-options-popup =
+    .aria-label = കൂടുതൽ സാധ്യതകൾ
 
 ## Passwords
 
 contextual-manager-passwords-command-create = രഹസ്യവാക്കു് ചേർക്കുക
 contextual-manager-passwords-command-import-from-browser = മറ്റൊരു അന്വേഷിയന്ത്രം നിന്ന് ഇറക്കുമതിക്കുക.
 contextual-manager-passwords-command-import = ഒരു ഫയലിൽ നിന്നു്  ഇറക്കുമതി ചെയ്യുക…
+contextual-manager-passwords-command-export = രഹസ്യവാക്കുകളെ കയറ്റുമതി ചെയ്യുക
+contextual-manager-passwords-command-remove-all = എല്ലാ രഹസ്യവാക്കുകളെ മാറ്റുക
+contextual-manager-passwords-command-settings = ക്രമീകരണങ്ങൾ
 contextual-manager-passwords-command-help = പിന്തുണ
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = താങ്ങളുടെ രഹസ്യവാക്കുകളെ കയറ്റുമതിക്കാനായി വിണ്ടോസു് പ്രവേശണവിശദാംശങ്ങളെ നൽകുക.ഇത് താങ്ങളുടെ സുരക്ഷയെ സംരക്ഷിക്കാൻ സഹായിക്കുന്നു.
@@ -50,6 +57,10 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] TSV പ്രമാണം
        *[other] TSV ഫയൽ
     }
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = പുതിയതു് :{ $added }, പുതുച്ചതു് : { $modified }
 contextual-manager-passwords-import-success-button = ചെയ്തു
 contextual-manager-passwords-import-error-button-cancel = റദ്ദാക്കുക
 contextual-manager-passwords-export-success-button = ചെയ്തു

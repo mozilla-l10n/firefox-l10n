@@ -315,6 +315,9 @@ quickactions-cmd-addons2 = ആഡ് ഓൺ
 quickactions-bookmarks2 = അടയാളക്കുറിപ്പുകളെ കൈകാര്യം ചെയ്യുക
 quickactions-cmd-bookmarks = അടയാളക്കുറിപ്പുകള്‍
 # Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = ഏറ്റവും ഒടുവിലുള്ള നാള്‍വഴി വെടിപ്പാക്കുക
+quickactions-cmd-clearrecenthistory = ഏറ്റവും ഒടുവിലത്തെ നാൾവഴി വെടിപ്പാക്കുക, നാൾവഴി
+# Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = നാള്‍വഴി മായ്ക്കൂ
 quickactions-cmd-clearhistory = നാള്‍വഴി മായ്ക്കൂ
 # Opens about:downloads page
@@ -363,6 +366,9 @@ quickactions-cmd-update = പുതുക്കുക
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = താളിന്റെ ഉറവിടം കാണുക
 quickactions-cmd-viewsource = ഉറവിടം കാണുക, ഉറവിടം
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = ഉടൻ നടപടികളെക്കുറിച്ചു് കൂടുതലറിയുക
 # Will be shown to users the first configurable number of times
 # they experience actions giving them instructions on how to
 # select the action shown by pressing the tab key.
