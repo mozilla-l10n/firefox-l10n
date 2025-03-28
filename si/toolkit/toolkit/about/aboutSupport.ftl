@@ -185,6 +185,7 @@ text-copied = පෙළ පසුරු පුවරුවට පිටපත්
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
+blocked-driver = ඔබගේ චිත්‍රණ ධාවක අනුවාදය සඳහා අවහිර කර ඇත.
 blocked-os-version = ඔබගේ මෙහෙයුම් පද්ධතියේ අනුවාදය සඳහා අවහිරයි.
 hardware-h264 = දෘඩාංග H264 විකේතනය
 yes = ඔව්
