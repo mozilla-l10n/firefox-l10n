@@ -300,11 +300,15 @@ shopping-integrated-callout-opted-out-subtitle = 다시 켜려면, 사이드바�
 
 ## Callout for where to find Review Checker when the sidebar closes
 
+shopping-integrated-callout-sidebar-closed-title = 리뷰 검사기로 돌아가기
+shopping-integrated-callout-sidebar-closed-subtitle = 사이드바에서 가격표를 선택하여 신뢰할 수 있는 제품 리뷰인지 확인하세요.
+shopping-integrated-callout-no-logo-sidebar-closed-subtitle = 사이드바 버튼을 선택하여 제품 리뷰를 신뢰할 수 있는지 확인하세요.
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-title = 같은 리뷰 검사기, 새 지점
 
 ## Combined setting for auto-open and auto-close.
 

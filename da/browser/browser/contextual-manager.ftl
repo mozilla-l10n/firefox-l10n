@@ -6,6 +6,10 @@ contextual-manager-filter-input =
     .placeholder = Søg efter adgangskoder
     .key = F
     .aria-label = Søg efter adgangskoder
+contextual-manager-menu-more-options-button =
+    .title = Flere indstillinger
+contextual-manager-more-options-popup =
+    .aria-label = Flere indstillinger
 
 ## Passwords
 
@@ -204,13 +208,80 @@ contextual-manager-passwords-origin-tooltip = Indtast den eksakte adresse, du br
 
 contextual-manager-passwords-list-label =
     .aria-label = Adgangskoder
+contextual-manager-website-icon =
+    .alt = Ikon for websted
 contextual-manager-copy-icon =
     .alt = Kopier
+contextual-manager-check-icon-username =
+    .alt = Kopieret
+contextual-manager-check-icon-password =
+    .alt = Kopieret
+contextual-manager-alert-icon =
+    .alt = Advarsel
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = Besøg { $url }
+    .title = Besøg { $url }
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = Besøg { $url } (Advarsel)
+    .title = Besøg { $url } (Advarsel)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = Kopier brugernavn { $username }
+    .title = Kopier brugernavn { $username }
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = Kopier brugernavn { $username } (Advarsel)
+    .title = Kopier brugernavn { $username } (Advarsel)
+contextual-manager-password-login-line =
+    .aria-label = Kopier adgangskode
+    .title = Kopier adgangskode
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = Kopier adgangskode (Advarsel)
+    .title = Kopier adgangskode (Advarsel)
+contextual-manager-edit-login-button = Rediger
+    .tooltiptext = Rediger adgangskode
+contextual-manager-view-alert-heading =
+    .heading = Vis advarsel
+contextual-manager-view-alert-button =
+    .tooltiptext = Undersøg advarsel
+contextual-manager-show-password-button =
+    .aria-label = Vis adgangskode
+    .title = Vis adgangskode
+contextual-manager-hide-password-button =
+    .aria-label = Skjul adgangskode
+    .title = Skjul adgangskode
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = Ingen adgangskoder fundet
+contextual-manager-passwords-no-passwords-found-message = Ingen adgangskoder fundet. Prøv at søge igen med et andet søgeudtryk.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = Gem dine adgangskoder et sikkert sted.
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = Alle adgangskoder er krypterede og vi holder øje med datalæk og sender dig en advarsel, hvis dine data er berørte.
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = Tilføj dem her for at komme i gang.
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = Tilføj manuelt
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = Luk uden at gemme?
+    .message = Dine ændringer bliver ikke gemt.
+contextual-manager-passwords-discard-changes-close-button = Luk
+contextual-manager-passwords-discard-changes-go-back-button = Gå tilbage

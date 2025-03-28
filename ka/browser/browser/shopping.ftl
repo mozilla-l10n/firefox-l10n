@@ -274,14 +274,22 @@ shopping-empty-state-supported-site = დაათვალიერეთ ს�
 
 ## Confirm disabling Review Checker for newly opted out users
 
+shopping-integrated-callout-opted-out-title = მიმოხილვის შემმოწმებელი გამორთულია
+shopping-integrated-callout-opted-out-subtitle = დასაბრუნებლად აირჩიეთ ფასის ნიშანი გვერდით ზოლზე და ჩართეთ მიმოხილვის შემმოწმებელი.
 
 ## Callout for where to find Review Checker when the sidebar closes
 
+shopping-integrated-callout-sidebar-closed-title = დაბრუნება მიმოხილვის შემმოწმებელზე
+shopping-integrated-callout-sidebar-closed-subtitle = აირჩიეთ ფასის ნიშანი გვერდით ზოლში, რომ ნახოთ, სანდოა თუ არა ნაწარმის მიმოხილვები.
+shopping-integrated-callout-no-logo-sidebar-closed-subtitle = აირჩიეთ გვერდით ზოლის ღილაკი, რომ ნახოთ, სანდოა თუ არა ნაწარმის მიმოხილვები.
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-title = მიმოხილვის ნაცნობი შემმოწმებელი ახალ ადგილას
+shopping-integrated-new-position-notification-move-right-subtitle = დატოვეთ მიმოხილვების შემმოწმებელი და მთლიანად { -brand-product-name } გვერდითი ზოლი აქ — ან გადაიტანეთ მარჯვნივ. შეგიძლიათ ახლავე ან ნებისმიერ დროს <a data-l10n-name="sidebar_settings">გვერდითი ზოლის პარამეტრებიდან</a>.
+shopping-integrated-new-position-notification-move-left-subtitle = დატოვეთ მიმოხილვების შემმოწმებელი და მთლიანად { -brand-product-name } გვერდითი ზოლი აქ — ან გადაიტანეთ მარცხნივ. შეგიძლიათ ახლავე ან ნებისმიერ დროს <a data-l10n-name="sidebar_settings">გვერდითი ზოლის პარამეტრებიდან</a>.
 shopping-integrated-new-position-notification-move-right-button = მარჯვნივ გადატანა
 shopping-integrated-new-position-notification-move-left-button = მარცხნივ გადატანა
 shopping-integrated-new-position-notification-dismiss-button = გასაგებია
