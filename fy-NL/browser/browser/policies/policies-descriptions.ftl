@@ -130,6 +130,7 @@ policy-SearchSuggestEnabled = Syksuggestjes ynskeakelje of útskeakelje.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = PKCS #11-modules tafoegje of fuortsmite.
 policy-ShowHomeButton = De startsideknop op de arkbalke toane.
+policy-SkipTermsOfUse = De brûksbetingsten en privacyferklearring net toane by it opstarten.
 policy-SSLVersionMax = De maksimale SSL-ferzje ynstelle.
 policy-SSLVersionMin = De minimale SSL-ferzje ynstelle.
 policy-StartDownloadsInTempDirectory = Oftwinge dat downloads starte yn in lokale, tydlike lokaasje yn stee fan de standert downloadmap.

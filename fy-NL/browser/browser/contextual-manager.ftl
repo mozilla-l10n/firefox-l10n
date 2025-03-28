@@ -219,13 +219,80 @@ contextual-manager-passwords-password-tooltip = Fier it wachtwurd yn dat brûkt 
 
 contextual-manager-passwords-list-label =
     .aria-label = Wachtwurden
+contextual-manager-website-icon =
+    .alt = Websitepiktogram
 contextual-manager-copy-icon =
     .alt = Kopiearje
+contextual-manager-check-icon-username =
+    .alt = Kopiearre
+contextual-manager-check-icon-password =
+    .alt = Kopiearre
+contextual-manager-alert-icon =
+    .alt = Warskôging
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = { $url } besykje
+    .title = { $url } besykje
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = { $url } besykje (warskôging)
+    .title = { $url } besykje (warskôging)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = Brûkersnamme { $username } kopiearje
+    .title = Brûkersnamme { $username } kopiearje
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = Brûkersnamme { $username } kopiearje (warskôging)
+    .title = Brûkersnamme { $username } kopiearje (warskôging)
+contextual-manager-password-login-line =
+    .aria-label = Wachtwurd kopiearje
+    .title = Wachtwurd kopiearje
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = Wachtwurd kopiearje (warskôging)
+    .title = Wachtwurd kopiearje (warskôging)
+contextual-manager-edit-login-button = Bewurkje
+    .tooltiptext = Wachtwurd bewurkje
+contextual-manager-view-alert-heading =
+    .heading = Warskôging toane
+contextual-manager-view-alert-button =
+    .tooltiptext = Warskôging beaordiele
+contextual-manager-show-password-button =
+    .aria-label = Wachtwurd toane
+    .title = Wachtwurd toane
+contextual-manager-hide-password-button =
+    .aria-label = Wachtwurd ferstopje
+    .title = Wachtwurd ferstopje
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = Gjin wachtwurden fûn
+contextual-manager-passwords-no-passwords-found-message = Gjin wachtwurden fûn. Sykje in oare term en probearje it nochris.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = Bewarje jo wachtwurden op in feilich plak.
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = Alle wachtwurden binne fersifere en wy lette op foar datalekken en warskôgingen as jo hjirtroch troffen wurde.
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = Foegje se hjir ta om te begjinnen.
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = Hânmjittich tafoegje
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = Slute sûnder te bewarjen?
+    .message = Jo wizigingen wurde net bewarre.
+contextual-manager-passwords-discard-changes-close-button = Slute
+contextual-manager-passwords-discard-changes-go-back-button = Tebek
