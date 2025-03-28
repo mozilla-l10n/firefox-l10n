@@ -33,6 +33,7 @@ perftools-devtools-settings-label = සැකසුම්
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
+perftools-status-restart-required = මෙම විශේෂාංගය සබල කිරීමට අතිරික්සුව යළි ඇරඹිය යුතුයි.
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 

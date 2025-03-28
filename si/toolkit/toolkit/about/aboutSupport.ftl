@@ -223,6 +223,9 @@ target-frame-rate = ඉලක්කගත රාමු අනුපා.
 min-lib-versions = අපේක්‍ෂිත අවම අනුවාදය
 loaded-lib-versions = භාවිතා වන අනුවාදය
 has-seccomp-bpf = Seccomp-BPF (පද්ධතියේ ඇමතුම් පෙරීීම)
+# Variables
+# $status (string) - Boolean value of hasUserNamespaces (should only be false when support-user-namespaces-unavailable is used)
+support-user-namespaces-unavailable = { $status } — මෙම විශේෂාංගයට ඔබගේ පද්ධතියෙන් ඉඩ නොදේ. මෙයින් { -brand-short-name } ආරක්‍ෂණ විශේෂාංග සීමාවට හැකිය.
 sandbox-proc-type-content = අන්තර්ගතය
 sandbox-proc-type-media-plugin = මාධ්‍ය පේනුව
 sandbox-proc-type-data-decoder = දත්ත විකේතකය
