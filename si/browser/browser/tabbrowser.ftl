@@ -49,6 +49,7 @@ tabbrowser-close-tabs-tooltip =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title = පටිති { $tabCount } ක් වසන්නද?
 tabbrowser-confirm-close-tabs-button = පටිති වසන්න
+tabbrowser-ask-close-tabs-checkbox = පටිති කිහිපයක් වැසීමට පෙර අසන්න
 tabbrowser-confirm-close-tabs-checkbox = පටිති කිහිපයක් වැසීමට පෙර තහවුරු කරන්න
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
@@ -69,6 +70,9 @@ tabbrowser-confirm-close-windows-button =
 
 tabbrowser-confirm-close-tabs-with-key-title = කවුළුව වසා { -brand-short-name } වෙතින් ඉවත් වන්නද?
 tabbrowser-confirm-close-tabs-with-key-button = { -brand-short-name } න් ඉවත් වන්න
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = { $quitKey } මඟින් ඉවත් වීමට පෙර අසන්න.
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = { $quitKey } මඟින් ඉවත් වීමට පෙර තහවුරු කරන්න

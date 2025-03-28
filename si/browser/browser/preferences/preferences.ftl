@@ -153,6 +153,17 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = නව කවුළුවල වෙනුවට පටිති තුළ සබැඳි අරින්න
     .accesskey = w
+ask-on-close-multiple-tabs =
+    .label = පටිති කිහිපයක් වැසීමට පෙර අසන්න
+    .accesskey = m
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = { $quitKey } මඟින් ඉවත් වීමට පෙර අසන්න.
+    .accesskey = b
 confirm-on-close-multiple-tabs =
     .label = පටිති කිහිපයක් වැසීමට පෙර තහවුරු කරන්න
     .accesskey = m
@@ -212,6 +223,7 @@ containers-remove-cancel-button = මෙම අඩංගුව ඉවත් න�
 settings-tabs-show-image-in-preview =
     .label = ඔබ පටිති මතින් යන විට රූප වල පෙරදසුන් පෙන්වන්න
     .accessKey = h
+browser-layout-header = අතිරික්සුවේ පිරිසැලසුම
 
 ## General Section - Language & Appearance
 
