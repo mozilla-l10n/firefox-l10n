@@ -69,7 +69,12 @@ contextual-manager-passwords-import-detailed-report = Дидани гузори�
 contextual-manager-passwords-import-success-button = Тайёр
 contextual-manager-passwords-import-error-button-try-again = Аз нав кӯшиш кардан
 contextual-manager-passwords-import-error-button-cancel = Бекор кардан
+contextual-manager-passwords-import-learn-more = Маълумот дар бораи воридкунии ниҳонвожаҳо
+contextual-manager-passwords-export-success-heading =
+    .heading = Ниҳонвожаҳо содир карда шуданд
 contextual-manager-passwords-export-success-button = Тайёр
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = Ниҳонвожаҳоро ба файл содир мекунед?
 contextual-manager-export-passwords-dialog-confirm-button = Идома додани содирот
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Содир кардани ниҳонвожаҳо аз «{ -brand-short-name }»
@@ -83,6 +88,13 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] Ҳуҷҷати CSV
        *[other] Файли CSV
+    }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] Ниҳонвожаро тоза мекунед?
+       *[other] Remove all { $total } passwords?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords

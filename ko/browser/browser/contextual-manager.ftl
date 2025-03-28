@@ -205,13 +205,49 @@ contextual-manager-passwords-edit-label =
     .label = 비밀번호 편집
 contextual-manager-passwords-remove-label =
     .title = 비밀번호 제거
+contextual-manager-passwords-origin-tooltip = 이 사이트에 로그인할 정확한 주소를 입력하세요.
+contextual-manager-passwords-username-tooltip = 사용자 이름, 이메일 주소 또는 로그인할 때 사용한 계정 번호를 입력하세요.
+contextual-manager-passwords-password-tooltip = 이 계정에 로그인할 때 사용했던 비밀번호를 입력해 주세요.
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = 비밀번호
+contextual-manager-website-icon =
+    .alt = 웹 사이트 아이콘
 contextual-manager-copy-icon =
     .alt = 복사
+contextual-manager-check-icon-username =
+    .alt = 복사됨
+contextual-manager-check-icon-password =
+    .alt = 복사됨
+contextual-manager-alert-icon =
+    .alt = 경고
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = { $url } 방문
+    .title = { $url } 방문
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = { $url } 방문 (경고)
+    .title = { $url } 방문 (경고)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = { $username } 사용자 이름 복사
+    .title = { $username } 사용자 이름 복사
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = { $username } 사용자 이름 복사 (경고)
+    .title = { $username } 사용자 이름 복사 (경고)
+contextual-manager-password-login-line =
+    .aria-label = 비밀번호 복사
+    .title = 비밀번호 복사
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:

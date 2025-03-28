@@ -56,6 +56,9 @@ contextual-manager-passwords-export-success-button = ചെയ്തു
 contextual-manager-export-passwords-dialog-confirm-button = കയറ്റുമതി തുടരുക
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = { -brand-short-name } നിന്നു് രഹസ്യവാക്കുകൾ കയറ്റുമതി ചെയ്യുക
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = രഹസ്യവാക്കുകൾ
 contextual-manager-passwords-export-file-picker-export-button = കയറ്റുമതി
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -63,6 +66,14 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] CSV രേഖ
        *[other] CSV ഫയൽ
+    }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] രഹസ്യവാക്കു് മാറ്റട്ടെ?
+        [one] { $total } രഹസ്യവാക്കുകളാകെ മാറ്റണോ?
+       *[other] { $total } രഹസ്യവാക്കുകളാകെ മാറ്റണോ?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords

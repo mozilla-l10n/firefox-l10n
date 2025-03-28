@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-policies-title = സംരംഭ നയങ്ങൾ
+aboutpolicies-page-heading =
+    .heading = നയങ്ങളെക്കുറിച്ചു്
 # 'Active' is used to describe the policies that are currently active
 active-policies-tab = സജീവം
 errors-tab = പിഴവുകൾ

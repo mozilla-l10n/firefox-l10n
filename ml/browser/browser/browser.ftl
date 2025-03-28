@@ -323,6 +323,11 @@ quickactions-cmd-downloads = ഇറക്കിവയ്ക്കലുകൾ
 # Opens about:addons page in the extensions section
 quickactions-extensions = വിപുലീകരണങ്ങൾ കൈകാര്യം ചെയ്യുക
 quickactions-cmd-extensions = വിപുലീകരണങ്ങൾ
+# Opens Firefox View
+quickactions-firefoxview = { -firefoxview-brand-name } തുറക്കുക
+# Opens SUMO home page
+quickactions-help = { -brand-product-name } തുണ
+quickactions-cmd-help = തുണ, പിന്തുണ
 # Opens the devtools web inspector
 quickactions-inspector2 = വികസനാക്താവുപകരണങ്ങൾ തുറക്കുക
 # Opens about:logins
