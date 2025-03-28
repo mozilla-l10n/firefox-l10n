@@ -316,7 +316,7 @@ shopping-integrated-new-position-notification-dismiss-button = Jag förstår
 ## Combined setting for auto-open and auto-close.
 
 shopping-settings-auto-open-and-close-toggle =
-    .label = Öppna och stäng granskningsgranskaren automatiskt
+    .label = Öppna och stäng recensionsgranskaren automatiskt
 # Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
 # Variables:
 #   $firstSite (String) - The first shopping page name
