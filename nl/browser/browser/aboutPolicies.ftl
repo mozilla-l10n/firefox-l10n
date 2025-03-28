@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-policies-title = Bedrijfsbeleidsregels
+aboutpolicies-page-heading =
+    .heading = Over beleid
 # 'Active' is used to describe the policies that are currently active
 active-policies-tab = Actief
 errors-tab = Fouten

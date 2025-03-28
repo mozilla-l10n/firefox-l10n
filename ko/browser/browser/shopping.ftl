@@ -274,9 +274,20 @@ shopping-opt-in-integrated-subtitle-unsupported-site = { -brand-product-name }�
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
 shopping-callout-opt-in-integrated-headline = 이 리뷰들을 신뢰할 수 있습니까?
+# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
+shopping-callout-not-opted-in-integrated-paragraph1 = { -brand-product-name }의 리뷰 검사기를 켜서 확인해 보세요. { -fakespot-brand-full-name }에 의해 구동되며 AI 기술을 사용하여 리뷰를 분석합니다.
+shopping-callout-not-opted-in-integrated-paragraph2 = “{ shopping-opt-in-integrated-button }”을 선택하면 { -brand-product-name }의 <a data-l10n-name="privacy_policy">개인정보처리방침</a> 및 { -fakespot-brand-full-name }의 <a data-l10n-name="terms_of_use">이용 약관</a>에 동의하게 됩니다.
+shopping-callout-not-opted-in-integrated-reminder-dismiss-button = 닫기
+shopping-callout-not-opted-in-integrated-reminder-accept-button = 리뷰 검사기 켜기
+shopping-callout-not-opted-in-integrated-reminder-do-not-show = 이 추천을 다시 표시 안 함
+shopping-callout-not-opted-in-integrated-reminder-show-fewer = 추천 적게 표시
+shopping-callout-not-opted-in-integrated-reminder-manage-settings = 설정 관리
+shopping-opt-in-integrated-privacy-policy-and-terms-of-use = 리뷰 검사기는 { -fakespot-brand-full-name }에 의해 구동됩니다.  "{ shopping-opt-in-integrated-button }"을 선택하면 { -brand-product-name }의 <a data-l10n-name="privacy_policy">개인정보처리방침</a> 및 { -fakespot-brand-name }의 <a data-l10n-name="terms_of_use">이용 약관</a>에 동의하게 됩니다.
+shopping-opt-in-integrated-button = 리뷰 검사기 사용해보기
 
 ## Message strings for Review Checker's empty states.
 
+shopping-empty-state-header = 리뷰 확인 준비 완료
 
 ## Confirm disabling Review Checker for newly opted out users
 
