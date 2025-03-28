@@ -256,10 +256,24 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 # Opt-in message strings for Review Checker when it is integrated into the global sidebar.
 shopping-opt-in-integrated-headline = შეიძინეთ თავდაჯერებულად
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle = ჩართეთ მიმოხილვების შემმოწმებელი, რომელსაც { -brand-product-name } გთავაზობთ, რომ შეძენამდე გაარკვიოთ, რამდენად სანდოა ნაწარმის მიმოხილვები. იყენებს ხელოვნური ინტელექტის საშუალებებს მიმოხილვების გასარჩევად და მუშაობს, როცა საყიდლებისთვის გამოიყენება { $firstSite }, { $secondSite } და { $thirdSite }. <a data-l10n-name="learn_more">იხილეთ ვრცლად</a>
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle-unsupported-site = მიმოხილვების შემმოწმებელი, რომელსაც { -brand-product-name } გთავაზობთ, გეხმარებათ გაარკვიოთ, რამდენად სანდოა შესაძენი ნაწარმის მიმოხილვები. იყენებს ხელოვნური ინტელექტის საშუალებებს მიმოხილვების გასარჩევად და მუშაობს, როცა საყიდლებისთვის გამოიყენება { $firstSite }, { $secondSite } და { $thirdSite }. <a data-l10n-name="learn_more">იხილეთ ვრცლად</a>
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
 shopping-callout-opt-in-integrated-headline = შეგიძლიათ ენდოთ ამ მიმოხილვებს?
+# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
+shopping-callout-not-opted-in-integrated-paragraph1 = ჩართეთ მიმოხილვების შემმოწმებელი, რომელსაც გთავაზობთ { -brand-product-name } და გაარკვიეთ. მის მუშაობას უზრუნველყოფს { -fakespot-brand-full-name } და იყენებს ხელოვნური ინტელექტის საშუალებებს მიმოხილვების გასარჩევად.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = აცილება
 shopping-callout-not-opted-in-integrated-reminder-accept-button = ჩართეთ მიმოხილვის შემმოწმებელი
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = მომავალში შემოთავაზების გარეშე
@@ -298,3 +312,13 @@ shopping-integrated-new-position-notification-dismiss-button = გასაგ�
 
 shopping-settings-auto-open-and-close-toggle =
     .label = მიმოხილვების შემმოწმებლის თავისით გახსნა და დახურვა
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-and-close-description-three-sites = გაიხსნება, როცა საყიდლებისთვის გამოიყენება { $firstSite }, { $secondSite } და { $thirdSite }, ხოლო დაიხურება მათი დატოვებისთანავე
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-and-close-description-single-site = გაიხსნება, როცა საყიდლებისთვის გამოიყენება { $currentSite } და დაიხურება დატოვებისთანავე
