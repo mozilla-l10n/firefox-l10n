@@ -123,6 +123,11 @@ contextual-manager-passwords-radiogroup-label =
 #   $url (string) - The url associated with the new login
 contextual-manager-passwords-add-password-success-heading =
     .heading = Lösenord har lagts till för { $url }
+contextual-manager-passwords-add-password-success-button = Vy
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = Ett lösenord och användarnamn för { $url } finns redan
 contextual-manager-passwords-password-already-exists-error-button = Gå till lösenord
 contextual-manager-passwords-update-password-success-heading =
     .heading = Lösenord sparat

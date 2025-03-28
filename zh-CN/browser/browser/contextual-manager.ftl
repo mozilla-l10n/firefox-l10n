@@ -132,6 +132,7 @@ contextual-manager-passwords-remove-login-card-cancel-button = 取消
 contextual-manager-passwords-alert-list =
     .aria-label = 警报列表
 contextual-manager-passwords-change-password-button = 更改密码
+contextual-manager-passwords-vulnerable-password-link-message = { -brand-product-name } 如何知道密码太简单？
 contextual-manager-passwords-add-username-button = 添加用户名
 
 ## Login Form
