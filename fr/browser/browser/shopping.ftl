@@ -289,3 +289,15 @@ shopping-empty-state-supported-site = Consultez un produit et { -brand-product-n
 
 ## Combined setting for auto-open and auto-close.
 
+shopping-settings-auto-open-and-close-toggle =
+    .label = Ouvrir et fermer automatiquement le vérificateur d’avis
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-and-close-description-three-sites = S’ouvre lorsque vous consultez des produits sur { $firstSite }, { $secondSite } et { $thirdSite } et se ferme lorsque vous quittez le site
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-and-close-description-single-site = S’ouvre lorsque vous consultez des produits sur { $currentSite } et se ferme lorsque vous quittez le site

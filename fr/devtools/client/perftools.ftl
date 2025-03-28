@@ -68,6 +68,8 @@ perftools-button-edit-settings = Modifier les paramètres…
 
 ## More actions menu
 
+perftools-menu-more-actions-button =
+    .title = Actions supplémentaires
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 

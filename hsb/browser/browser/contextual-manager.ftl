@@ -122,6 +122,16 @@ contextual-manager-passwords-remove-all-confirm-button =
         [few] Wšě wotstronić
        *[other] Wšě wotstronić
     }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] To waše hesło, kotrež je so w { -brand-short-name } składowało, a warnowanja wo datowych dźěrach wotstronja.
+        [one] To waše { $total } hesło, kotrež je so w { -brand-short-name } składowało, a warnowanja wo datowych dźěrach wotstronja.
+        [two] To wašej { $total } hesle, kotrejž stej so w { -brand-short-name } składowałoj, a warnowanja wo datowych dźěrach wotstronja.
+        [few] To waše { $total } hesła, kotrež su so w { -brand-short-name } składowali, a warnowanja wo datowych dźěrach wotstronja.
+       *[other] To waše { $total } hesłow, kotrež je so w { -brand-short-name } składowało, a warnowanja wo datowych dźěrach wotstronja.
+    }
 contextual-manager-passwords-origin-label = Websydło
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = Wužiwarske mjeno
@@ -182,10 +192,12 @@ contextual-manager-passwords-alert-list =
 contextual-manager-passwords-breached-origin-heading-and-message =
     .heading = Změna hesła doporučena
     .message = Hesła z tutoho websydła su so jako kradnyli abo roznjesli. Změńće swoje hesło, zo byšće swoje konto škitał.
+contextual-manager-passwords-breached-origin-link-message = Zwotkel { -brand-product-name } wo datowych dźěrach wě?
 contextual-manager-passwords-change-password-button = Hesło změnić
 contextual-manager-passwords-vulnerable-password-heading-and-message =
     .heading = Změna hesła doporučena
     .message = Tute hesło da so lochko wuhódać. Změńće swoje hesło, zo byšće swoje konto škitał.
+contextual-manager-passwords-vulnerable-password-link-message = Zwotkel { -brand-product-name } wo słabych hesłach wě?
 contextual-manager-passwords-no-username-heading-and-message =
     .heading = Přidajće wužiwarske mjeno
     .message = Přidajće jo, zo byšće so spěšnišo přizjewił
@@ -274,3 +286,5 @@ contextual-manager-passwords-add-manually = Manuelnje přidać
 contextual-manager-passwords-discard-changes-heading-and-message =
     .heading = Bjez składowanja začinić?
     .message = Waše změny so njeskładuja.
+contextual-manager-passwords-discard-changes-close-button = Začinić
+contextual-manager-passwords-discard-changes-go-back-button = Wróćo

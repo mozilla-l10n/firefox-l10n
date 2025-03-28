@@ -6,13 +6,21 @@ contextual-manager-filter-input =
     .placeholder = Wachtwurden sykje
     .key = F
     .aria-label = Wachtwurden sykje
+contextual-manager-menu-more-options-button =
+    .title = Mear opsjes
+contextual-manager-more-options-popup =
+    .aria-label = Mear opsjes
 
 ## Passwords
 
 contextual-manager-passwords-command-create = Wachtwurd tafoegje
 contextual-manager-passwords-command-import-from-browser = Ymportearje fan in oare browser út…
 contextual-manager-passwords-command-import = Ut in bestân ymportearje…
+contextual-manager-passwords-command-export = Wachtwurden eksportearje
+contextual-manager-passwords-command-remove-all = Alle wachtwurden fuortsmite
+contextual-manager-passwords-command-settings = Ynstellingen
 contextual-manager-passwords-command-help = Help
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Fier jo oanmeldgegevens foar Windows yn om jo wachtwurd te eksportearjen. Hjirtroch wurdt de befeiliging fan jo accounts beskerme.
 # This message can be seen when attempting to export a password in about:logins
@@ -35,6 +43,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Fier jo 
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = kopiearje it bewarre wachtwurd
+contextual-manager-passwords-import-file-picker-title = Wachtwurden ymportearje
 contextual-manager-passwords-import-file-picker-import-button = Ymportearje
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -50,12 +59,33 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] TSV-dokumint
        *[other] TSV-bestân
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = Wachtwurden ymportearre
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = Nij: { $added }, bywurke: { $modified }
+contextual-manager-passwords-import-detailed-report = Detaillearre rapport besjen
 contextual-manager-passwords-import-success-button = Dien
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = Kin wachtwurden net ymportearje
+    .message = Soargje derfoar dat jo bestân in kolom foar websites, brûkersnammen en wachtwurden befettet.
+contextual-manager-passwords-import-error-button-try-again = Opnij probearje
 contextual-manager-passwords-import-error-button-cancel = Annulearje
+contextual-manager-passwords-import-learn-more = Mear ynfo oer it ymportearjen fan wachtwurden
+contextual-manager-passwords-export-success-heading =
+    .heading = Wachtwurden eksportearre
 contextual-manager-passwords-export-success-button = Dien
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = Wachtwurden nei bestân eksportearje?
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = Wy riede jo oan dit nei it eksportearjen fuort te smiten, sadat oaren dy’t dit apparaat mooglik brûke jo wachtwurden net sjen kinne.
 contextual-manager-export-passwords-dialog-confirm-button = Trochgean mei eksportearjen
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Wachtwurden eksportearje út { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = wachtwurden
 contextual-manager-passwords-export-file-picker-export-button = Eksportearje
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.

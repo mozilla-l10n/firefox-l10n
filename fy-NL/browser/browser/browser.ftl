@@ -332,6 +332,9 @@ quickactions-cmd-addons2 = add-ons
 quickactions-bookmarks2 = Blêdwizers beheare
 quickactions-cmd-bookmarks = blêdwizers
 # Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Resinte skiednis wiskje
+quickactions-cmd-clearrecenthistory = resinte skiednis wiskje, skiednis
+# Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Skiednis wiskje
 quickactions-cmd-clearhistory = skiednis wiskje
 # Opens about:downloads page
@@ -340,6 +343,15 @@ quickactions-cmd-downloads = downloads
 # Opens about:addons page in the extensions section
 quickactions-extensions = Utwreidingen beheare
 quickactions-cmd-extensions = útwreidingen
+# Opens Firefox View
+quickactions-firefoxview = { -firefoxview-brand-name } iepenje
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = { -firefoxview-brand-name } iepenje, { -firefoxview-brand-name }, byld iepenje, besjen
+# Opens SUMO home page
+quickactions-help = Help foar { -brand-product-name }
+quickactions-cmd-help = help, stipe
 # Opens the devtools web inspector
 quickactions-inspector2 = Developer Tools iepenje
 quickactions-cmd-inspector = inspector, devtools

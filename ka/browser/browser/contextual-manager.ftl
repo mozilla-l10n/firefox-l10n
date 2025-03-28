@@ -78,6 +78,8 @@ contextual-manager-passwords-export-success-heading =
 contextual-manager-passwords-export-success-button = მზადაა
 # Export passwords to file dialog
 contextual-manager-export-passwords-dialog-title = გსურთ პაროლების გატანა ფაილში?
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = გატანის შემდეგ გირჩევთ წაშალოთ, რომ სხვებმა ვერ იხილონ თქვენი პაროლები, ამ მოწყობილობით როცა ისარგებლებენ.
 contextual-manager-export-passwords-dialog-confirm-button = განაგრძეთ გატანა
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = პაროლებს გაიტანს { -brand-short-name }
@@ -209,13 +211,29 @@ contextual-manager-passwords-edit-label =
     .label = პაროლის შესწორება
 contextual-manager-passwords-remove-label =
     .title = პაროლის მოცილება
+contextual-manager-passwords-origin-tooltip = მიუთითეთ ზუსტი მისამართი, რომ საიტზე შესვლაც გსურთ.
+contextual-manager-passwords-username-tooltip = მიუთითეთ მომხმარებლის სახელი, ელფოსტის მისამართი ან ანგარიშის ნომერი, რომელსაც იყენებთ ანგარიშზე შესასვლელად.
+contextual-manager-passwords-password-tooltip = მიუთითეთ პაროლი, რომელსაც იყენებთ ამ ანგარიშზე შესასვლელად.
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = პაროლები
+contextual-manager-website-icon =
+    .alt = ვებსაიტის ხატულა
 contextual-manager-copy-icon =
     .alt = ასლი
+contextual-manager-check-icon-username =
+    .alt = ასლი აღებულია
+contextual-manager-check-icon-password =
+    .alt = ასლი აღებულია
+contextual-manager-alert-icon =
+    .alt = გაფრთხილება
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = გახსენით { $url }
+    .title = იხილეთ { $url }
 contextual-manager-password-login-line =
     .aria-label = პაროლის ასლი
     .title = პაროლის ასლი
@@ -245,6 +263,9 @@ contextual-manager-passwords-no-passwords-found-message = პაროლებ�
 
 # This string encourages the user to save their passwords in Firefox (the "safe spot").
 contextual-manager-passwords-no-passwords-header = შეინახეთ პაროლები უსაფრთხო ადგილას.
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = ყველა პაროლი იშიფრება, ამასთანავე, ჩვენ თვალს ვადევნებთ მიტაცებებსა და ცნობებს, თქვენს მონაცემებს თუ შეეხება.
 # This string encourages the user to save their passwords to Firefox again.
 contextual-manager-passwords-no-passwords-get-started-message = დაამატეთ აქ დასაწყებად.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
@@ -256,3 +277,5 @@ contextual-manager-passwords-add-manually = ხელით დამატე�
 contextual-manager-passwords-discard-changes-heading-and-message =
     .heading = დაიხუროს შეუნახავად?
     .message = შეტანილი ცვლილებები არ შეინახება.
+contextual-manager-passwords-discard-changes-close-button = დახურვა
+contextual-manager-passwords-discard-changes-go-back-button = უკან დაბრუნება
