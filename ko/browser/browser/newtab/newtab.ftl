@@ -523,3 +523,5 @@ newtab-section-mangage-topics-followed-topics = 팔로우됨
 newtab-section-mangage-topics-followed-topics-empty-state = 아직 주제를 팔로우하지 않았습니다.
 newtab-section-mangage-topics-blocked-topics = 차단됨
 newtab-section-mangage-topics-blocked-topics-empty-state = 아직 주제를 차단하지 않았습니다.
+newtab-custom-wallpaper-title = 사용자 지정 배경 화면이 있습니다
+newtab-custom-wallpaper-cta = 사용해 보기
