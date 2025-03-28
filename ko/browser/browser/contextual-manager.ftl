@@ -122,19 +122,89 @@ contextual-manager-passwords-remove-all-message =
         [1] { -brand-short-name }에 저장한 비밀번호와 모든 유출 알림이 제거됩니다. 이 작업은 취소할 수 없습니다.
        *[other] { -brand-short-name }에 저장한 비밀번호와 모든 유출 알림이 제거됩니다. 이 작업은 취소할 수 없습니다.
     }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] 동기화된 모든 기기에서 { -brand-short-name }에 저장한 비밀번호가 제거되고 모든 유출 알림이 제거됩니다. 이 작업은 취소할 수 없습니다.
+       *[other] 동기화된 모든 기기에서 { -brand-short-name }에 저장한 모든 비밀번호가 제거되고 모든 유출 알림이 제거됩니다. 이 작업은 취소할 수 없습니다.
+    }
+contextual-manager-passwords-origin-label = 웹사이트
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = 사용자 이름
+    .data-after = 복사됨
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = 비밀번호
+    .data-after = 복사됨
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = 비밀번호 필터
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = { $url }의 비밀번호가 추가됨
+contextual-manager-passwords-add-password-success-button = 보기
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = { $url }에 대한 사용자 이름과 비밀번호가 이미 존재합니다.
+contextual-manager-passwords-password-already-exists-error-button = 비밀번호로 이동
+contextual-manager-passwords-update-password-success-heading =
+    .heading = 비밀번호 저장됨
 contextual-manager-passwords-update-password-success-button = 완료
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] 비밀번호 제거됨
+           *[other] 비밀번호 제거됨
+        }
 contextual-manager-passwords-delete-password-success-button = 완료
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = 모두 ({ $total }개)
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = 알림 ({ $total }개)
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = 비밀번호를 제거하시겠습니까?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = 이 작업은 취소할 수 없습니다.
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = 뒤로
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = 삭제
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = 취소
+contextual-manager-passwords-alert-card =
+    .aria-label = 비밀번호 알림
+contextual-manager-passwords-alert-back-button =
+    .label = 뒤로
+contextual-manager-passwords-alert-list =
+    .aria-label = 알림 목록
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = 비밀번호 변경 권장
+    .message = 이 웹 사이트의 비밀번호는 도난당하거나 유출된 것으로 보고되었습니다. 계정을 보호하려면 비밀번호를 변경하세요.
+contextual-manager-passwords-breached-origin-link-message = { -brand-product-name }는 유출을 어떻게 알 수 있나요?
+contextual-manager-passwords-change-password-button = 비밀번호 변경
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = 비밀번호 변경 권장
+    .message = 이 비밀번호는 쉽게 추측 할 수 있습니다. 계정을 보호하려면 비밀번호를 변경하세요.
+contextual-manager-passwords-vulnerable-password-link-message = { -brand-product-name }는 취약한 비밀번호를 어떻게 알 수 있나요?
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = 이름 추가
+    .message = 더 빨리 로그인하려면 하나를 추가하세요.
+contextual-manager-passwords-add-username-button = 사용자 이름 추가
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = 비밀번호 추가
+contextual-manager-passwords-edit-label =
+    .label = 비밀번호 편집
+contextual-manager-passwords-remove-label =
+    .title = 비밀번호 제거
 
 ## Password Card
 
