@@ -372,7 +372,7 @@ pdfjs-editor-colorpicker-green =
 pdfjs-editor-colorpicker-blue =
     .title = നീല
 pdfjs-editor-colorpicker-pink =
-    .title = പാടലവർണ്ണം
+    .title = പാടല
 pdfjs-editor-colorpicker-red =
     .title = ചുമന്ന
 

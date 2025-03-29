@@ -313,6 +313,7 @@ newtab-wallpaper-beige = ഇളം തവിട്ടുനിറം
 newtab-wallpaper-yellow = മഞ്ഞ
 newtab-wallpaper-orange = പഴുക്ക
 newtab-wallpaper-pink = പാടല
+newtab-wallpaper-light-pink = പാടല
 newtab-wallpaper-red = ചുവപ്പ്
 newtab-wallpaper-dark-blue = കടും നീല
 newtab-wallpaper-dark-purple = കടും ഊതന്നിറം
