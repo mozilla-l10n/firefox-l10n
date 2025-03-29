@@ -122,6 +122,13 @@ contextual-manager-passwords-remove-all-message =
         [1] Ин амал ҳар гуна огоҳӣ оид ба вайронкунӣ ва ниҳонвожаеро, ки дар «{ -brand-short-name }» нигоҳ дошта шудааст нест мекунад. Шумо ин амалро бекор карда наметавонед.
        *[other] Ин амал ҳар гуна огоҳӣ оид ба вайронкунӣ ва ниҳонвожаҳоеро, ки дар «{ -brand-short-name }» нигоҳ дошта шудаанд нест мекунад. Шумо ин амалро бекор карда наметавонед.
     }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] Ин амал ниҳонвожаеро, ки дар «{ -brand-short-name }» дар ҳамаи дастгоҳҳои ҳамоҳангшудаи шумо нигоҳ дошта шудааст, нест мекунад ва ҳар гуна огоҳӣ оид ба вайронкунӣ нест карда мешавад. Шумо ин амалро бекор карда наметавонед.
+       *[other] Ин амал ниҳонвожаҳоеро, ки дар «{ -brand-short-name }» дар ҳамаи дастгоҳҳои ҳамоҳангшудаи шумо нигоҳ дошта шудаанд, нест мекунад ва ҳар гуна огоҳӣ оид ба вайронкунӣ нест карда мешавад. Шумо ин амалро бекор карда наметавонед.
+    }
 contextual-manager-passwords-origin-label = Сомона
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = Номи корбар
@@ -136,6 +143,10 @@ contextual-manager-passwords-radiogroup-label =
 contextual-manager-passwords-add-password-success-heading =
     .heading = Ниҳонвожа барои { $url } илова карда шуд
 contextual-manager-passwords-add-password-success-button = Намоиш
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = Ниҳонвожа ва номи корбар барои { $url } аллакай вуҷуд дорад
 contextual-manager-passwords-password-already-exists-error-button = Гузариш ба ниҳонвожа
 contextual-manager-passwords-update-password-success-heading =
     .heading = Ниҳонвожа нигоҳ дошта шуд
@@ -166,8 +177,15 @@ contextual-manager-passwords-remove-login-card-back-message = Ба қафо
 contextual-manager-passwords-remove-login-card-remove-button = Тоза кардан
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Бекор кардан
+contextual-manager-passwords-alert-card =
+    .aria-label = Огоҳӣ дар бораи ниҳонвожа
 contextual-manager-passwords-alert-back-button =
     .label = Ба қафо
+contextual-manager-passwords-alert-list =
+    .aria-label = Рӯйхати огоҳиҳо
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = Тавсия медиҳем, ки ниҳонвожаро иваз намоед
+    .message = Гузориш дода шудааст, ки ниҳонвожаҳо аз ин сомона дӯздӣ ё ошкор карда шудаанд. Барои муҳофизат кардани ҳисоби худ, ниҳонвожаи худро иваз намоед.
 contextual-manager-passwords-change-password-button = Иваз кардани ниҳонвожа
 contextual-manager-passwords-no-username-heading-and-message =
     .heading = Илова кардани номи корбар
