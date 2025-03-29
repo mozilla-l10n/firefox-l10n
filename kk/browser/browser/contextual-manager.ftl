@@ -109,6 +109,9 @@ contextual-manager-passwords-radiogroup-label =
 #   $url (string) - The url associated with the new login
 contextual-manager-passwords-add-password-success-heading =
     .heading = { $url } үшін пароль қосылды
+contextual-manager-passwords-password-already-exists-error-button = Парольге өту
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Пароль сақталды
 contextual-manager-passwords-update-password-success-button = Дайын
 contextual-manager-passwords-delete-password-success-button = Дайын
 # This message is displayed to make sure that a user wants to delete an existing login.

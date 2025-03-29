@@ -187,6 +187,15 @@ urlbar-result-menu-remove-from-history =
 urlbar-result-menu-tip-get-help =
     .label = Көмек алу
     .accesskey = м
+urlbar-result-menu-dismiss-suggestion =
+    .label = Бұл ұсынысты елемеу
+    .accesskey = м
+urlbar-result-menu-learn-more-about-firefox-suggest =
+    .label = { -firefox-suggest-brand-name } туралы көбірек білу
+    .accesskey = л
+urlbar-result-menu-manage-firefox-suggest =
+    .label = { -firefox-suggest-brand-name } басқару
+    .accesskey = б
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -323,6 +332,9 @@ quickactions-cmd-addons2 = қосымшалар
 quickactions-bookmarks2 = Бетбелгілерді басқару
 quickactions-cmd-bookmarks = бетбелгілер
 # Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Жуырдағы тарихты өшіру
+quickactions-cmd-clearrecenthistory = жуырдағы тарихты өшіру, тарих
+# Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Тарихты тазарту
 quickactions-cmd-clearhistory = тарихты тазарту
 # Opens about:downloads page
@@ -331,6 +343,15 @@ quickactions-cmd-downloads = жүктемелер
 # Opens about:addons page in the extensions section
 quickactions-extensions = Кеңейтулерді басқару
 quickactions-cmd-extensions = кеңейтулер
+# Opens Firefox View
+quickactions-firefoxview = { -firefoxview-brand-name } ашу
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = { -firefoxview-brand-name } ашу, { -firefoxview-brand-name }, көріністі ашу, көрініс
+# Opens SUMO home page
+quickactions-help = { -brand-product-name } көмегі
+quickactions-cmd-help = көмек, қолдау
 # Opens the devtools web inspector
 quickactions-inspector2 = Әзірлеуші құралдарын ашу
 quickactions-cmd-inspector = бақылаушы, әзірлеуші құралдары
@@ -679,6 +700,17 @@ urlbar-result-action-undefined-calculator-result = анықталмаған
 #  $result (String): the string representation for a result in scientific notation
 #  (e.g. "1.0e17").
 urlbar-result-action-calculator-result-scientific-notation = = { $result }
+# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
+# The last = sign will be shown as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "false", maximumFractionDigits: 8) }
+# Shows the result of a formula expression being calculated, to a maximum of 9 significant
+# digits. This is used for numbers < 1.
+# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 
 ## Strings used for buttons in the urlbar
 
@@ -957,6 +989,9 @@ panel-save-update-password = Пароль
 # "More" item in macOS share menu
 menu-share-more =
     .label = Көбірек…
+menu-share-copy-link =
+    .label = Сілтемені көшіріп алу
+    .accesskey = л
 ui-tour-info-panel-close =
     .tooltiptext = Жабу
 
