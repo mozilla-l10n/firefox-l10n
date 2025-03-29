@@ -351,6 +351,7 @@ quickactions-firefoxview = Embojuruja { -firefoxview-brand-name }
 quickactions-cmd-firefoxview = Embojuruja { -firefoxview-brand-name }, { -firefoxview-brand-name }, mbojuruja recha, jehecha
 # Opens SUMO home page
 quickactions-help = { -brand-product-name } ñepytyvõ
+quickactions-cmd-help = pytyvõ, pytyvõha
 # Opens the devtools web inspector
 quickactions-inspector2 = Embojuruja tembiporu mboguatahárape g̃uarã
 quickactions-cmd-inspector = moambuekuaaha, ñemboguata rembiporu

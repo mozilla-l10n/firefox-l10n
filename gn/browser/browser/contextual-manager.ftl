@@ -6,13 +6,21 @@ contextual-manager-filter-input =
     .placeholder = Eheka Ñe’ẽñemi
     .key = F
     .aria-label = Eheka Ñe’ẽñemi
+contextual-manager-menu-more-options-button =
+    .title = Jeporavorãve
+contextual-manager-more-options-popup =
+    .aria-label = Jeporavorãve
 
 ## Passwords
 
 contextual-manager-passwords-command-create = Embojuaju ñe’ẽñemi
 contextual-manager-passwords-command-import-from-browser = Egueru ambue kundahára guive…
 contextual-manager-passwords-command-import = Marandurendágui jegueru…
+contextual-manager-passwords-command-export = Ñe’ẽñemi guerahauka
+contextual-manager-passwords-command-remove-all = Emboguepa opaite ñe’ẽñemi
+contextual-manager-passwords-command-settings = Ñemboheko
 contextual-manager-passwords-command-help = Pytyvõ
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Erahauka hag̃ua ñe’ẽñemi, emoinge nde reraite Windows emoñepyrũvo. Oipytyvõta emo’ãvo ne mba’etekuéra rekorosã.
 # This message can be seen when attempting to export a password in about:logins
@@ -35,6 +43,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Emonguat
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = embokuatia ñe’ẽñemi ñongatupyre
+contextual-manager-passwords-import-file-picker-title = Ñe’ẽñemi Jegueru
 contextual-manager-passwords-import-file-picker-import-button = Mba’egueru
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -50,7 +59,15 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] TSV Kuatiaite
        *[other] TSV Marandurenda
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = Egueru ñe’ẽñemi
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = Ipyahu: { $added }, Hekopyahu: { $modified }
+contextual-manager-passwords-import-detailed-report = Ehecha porã marandu’i
 contextual-manager-passwords-import-success-button = Apopyre
+contextual-manager-passwords-import-error-button-try-again = Eha’ã jey
 contextual-manager-passwords-import-error-button-cancel = Heja
 contextual-manager-passwords-export-success-button = Apopyre
 contextual-manager-export-passwords-dialog-confirm-button = Eguerahauka gueteri
