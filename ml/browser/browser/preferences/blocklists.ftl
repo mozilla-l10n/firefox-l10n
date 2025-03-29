@@ -9,6 +9,9 @@ blocklist-close-key =
     .key = w
 blocklist-treehead-list =
     .label = പട്ടിക
+blocklist-dialog =
+    .buttonlabelaccept = മാറ്റങ്ങൾ കരുതിവയ്ക്കുക
+    .buttonaccesskeyaccept = ക
 # This template constructs the name of the block list in the block lists dialog.
 # It combines the list name and description.
 # e.g. "Standard (Recommended). This list does a pretty good job."

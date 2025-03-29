@@ -71,6 +71,8 @@ perftools-button-edit-settings = Embosako’i ñemboheko…
 
 ## More actions menu
 
+perftools-menu-more-actions-button =
+    .title = Jeku’eve
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 

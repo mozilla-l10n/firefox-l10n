@@ -223,11 +223,24 @@ contextual-manager-view-alert-heading =
     .heading = Ehecha kyhyjerã
 contextual-manager-view-alert-button =
     .tooltiptext = Ehechajey kyhyjerã
+contextual-manager-show-password-button =
+    .aria-label = Ehechauka Ñe’ẽñemi
+    .title = Ehechauka Ñe’ẽñemi
+contextual-manager-hide-password-button =
+    .aria-label = Eñomi Ñe’ẽñemi
+    .title = Eñomi Ñe’ẽñemi
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = Ndojejuhúi ñe’ẽñemi ñongatupyre
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = Embojuaju nde pópe
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-close-button = Mboty
+contextual-manager-passwords-discard-changes-go-back-button = Guevi jey

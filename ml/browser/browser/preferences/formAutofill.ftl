@@ -117,6 +117,7 @@ autofill-save-button = സംരക്ഷിക്കുക
 autofill-add-new-card-title = പുതിയ ക്രെഡിറ്റ് കാര്‍ഡ് ചേര്‍ക്കുക
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = ക്രെഡിറ്റ് കാര്‍ഡ് തിരുത്തുക
+autofill-message-tooltip = താനെപ്പൂരിപ്പിക്കലെ പറ്റി സന്ദേശം കാണുക
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = ചീട്ടു് ചേൎക്കുക
 # The dialog title for editing credit cards in browser preferences.

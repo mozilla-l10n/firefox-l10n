@@ -733,6 +733,9 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = ശേഖരിച്ചിട്ടുള്ള പ്രവേശനങ്ങള്‍…
     .accesskey = L
+forms-saved-passwords =
+    .label = കരുതിവച്ച രഹസ്യവാക്കുകൾ
+    .accesskey = ക
 forms-primary-pw-learn-more-link = കൂടുതല്‍ അറിയുക
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -745,6 +748,7 @@ forms-windows-sso-learn-more-link = കൂടുതലറിയുക
 
 ## OS Authentication dialog
 
+master-password-os-auth-dialog-caption = { -brand-full-name }
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
@@ -854,6 +858,9 @@ addressbar-locbar-quickactions-option =
     .label = ഉടൻ നടപടികൾ
     .accesskey = ഉ
 addressbar-suggestions-settings = സെര്‍ച്ച് എഞ്ചിൻ നിർദ്ദേശങ്ങളുടെ പ്രഫറന്‍സ് മാറ്റുക
+addressbar-locbar-showrecentsearches-option =
+    .label = അടുത്തിടെ തിരഞ്ഞതെല്ലാം കാണിക്കുവിൻ
+    .accesskey = അ
 addressbar-quickactions-learn-more = കൂടുതല്‍ അറിയുക
 addressbar-restore-dismissed-suggestions-button =
     .label = വീണ്ടെടുക്കുക
