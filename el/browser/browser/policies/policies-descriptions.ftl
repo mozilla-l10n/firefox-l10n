@@ -130,6 +130,7 @@ policy-SearchSuggestEnabled = Ενεργοποίηση ή απενεργοποί
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Προσθήκη ή διαγραφή μονάδων PKCS #11.
 policy-ShowHomeButton = Εμφάνιση του κουμπιού αρχικής σελίδας στη γραμμή εργαλείων.
+policy-SkipTermsOfUse = Να μην εμφανίζονται οι Όροι χρήσης και η Σημείωση απορρήτου κατά την εκκίνηση.
 policy-SSLVersionMax = Ορισμός μέγιστης έκδοσης SSL.
 policy-SSLVersionMin = Ορισμός ελάχιστης έκδοσης SSL.
 policy-StartDownloadsInTempDirectory = Εξαναγκαστική έναρξη λήψεων σε μια τοπική, προσωρινή τοποθεσία και όχι στον προεπιλεγμένο κατάλογο λήψεων.

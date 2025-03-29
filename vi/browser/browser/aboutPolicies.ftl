@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-policies-title = Chính sách doanh nghiệp
+aboutpolicies-page-heading =
+    .heading = Về chính sách
 # 'Active' is used to describe the policies that are currently active
 active-policies-tab = Đang hoạt động
 errors-tab = Lỗi

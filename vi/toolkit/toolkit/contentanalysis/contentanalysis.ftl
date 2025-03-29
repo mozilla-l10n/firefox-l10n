@@ -13,6 +13,11 @@ contentanalysis-slow-agent-dialog-header = Đang quét
 contentanalysis-slow-agent-dialog-body-file = { $agent } đang xem xét “{ $filename }” chống lại chính sách dữ liệu của tổ chức bạn hay không. Việc này có thể mất một chút thời gian.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
+#   $filename - Name of a file being analyzed, such as "aFile.txt"
+#   $count (number) - The number of additional items in the request for analysis
+contentanalysis-slow-agent-dialog-body-file-and-more = { $agent } đang xem xét “{ $filename }” và { $count } mục khác theo chính sách dữ liệu của tổ chức bạn. Quá trình này có thể mất một lúc.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } đang xem xét nội dung bạn đã dán chống lại chính sách dữ liệu của tổ chức bạn hay không. Việc này có thể mất một chút thời gian.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:

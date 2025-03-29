@@ -1353,6 +1353,7 @@ collection-header2 = Συλλογή και χρήση δεδομένων { -bran
     .searchkeywords = τηλεμετρία
 preferences-collection-description = Προσπαθούμε να σας παρέχουμε επιλογές και να συλλέγουμε μόνο τα ελάχιστα δεδομένα που απαιτούνται για τη βελτίωση του { -brand-product-name } για όλους.
 preferences-collection-privacy-notice = Προβολή σημείωσης απορρήτου
+preferences-across-profiles = Αυτές οι ρυθμίσεις ισχύουν για κάθε προφίλ του { -brand-product-name } σε αυτήν τη συσκευή.
 preferences-view-profiles = Προβολή όλων των προφίλ
 collection-description = Αγωνιζόμαστε για να σας παρέχουμε επιλογές και συλλέγουμε μόνο αυτά που χρειαζόμαστε, ώστε να παρέχουμε και να βελτιώσουμε το { -brand-short-name } για όλους. Ζητούμε πάντα την άδεια πριν λάβουμε προσωπικές πληροφορίες.
 collection-privacy-notice = Σημείωση απορρήτου

@@ -332,6 +332,9 @@ quickactions-cmd-addons2 = xem tiện ích, xem tien ich, tiện ích, tien ich,
 quickactions-bookmarks2 = Quản lý dấu trang
 quickactions-cmd-bookmarks = quản lý dấu trang, quan ly dau trang, quản lí dấu trang, quan li dau trang, dấu trang, dau trang, bookmarks
 # Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Xoá lịch sử gần đây
+quickactions-cmd-clearrecenthistory = xoá lịch sử gần đây, xóa lịch sử gần đây, xoa lich su gan day, lich su
+# Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Xóa lịch sử
 quickactions-cmd-clearhistory = xóa lịch sử, xoá lịch sử, xoa lich su, lịch sử, lich su
 # Opens about:downloads page
@@ -340,6 +343,15 @@ quickactions-cmd-downloads = xem tải xuống, xem tai xuong, tải xuống, ta
 # Opens about:addons page in the extensions section
 quickactions-extensions = Quản lý tiện ích
 quickactions-cmd-extensions = quản lý tiện ích, quan ly tien ich, tiện ích mở rộng, tien ich mo rong, tiện ích, tien ich
+# Opens Firefox View
+quickactions-firefoxview = Mở { -firefoxview-brand-name }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = mở { -firefoxview-brand-name }, { -firefoxview-brand-name }, mở view, view, mo { -firefoxview-brand-name }, mo view,
+# Opens SUMO home page
+quickactions-help = Trợ giúp về { -brand-product-name }
+quickactions-cmd-help = trợ giúp, hỗ trợ, tro giup, ho tro
 # Opens the devtools web inspector
 quickactions-inspector2 = Mở Công cụ dành cho nhà phát triển
 quickactions-cmd-inspector = trình kiểm tra, devtools, trinh kiem tra, nhà phát triển, nha phat trien

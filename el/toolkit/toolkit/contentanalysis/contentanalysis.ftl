@@ -13,6 +13,15 @@ contentanalysis-slow-agent-dialog-header = Σάρωση σε εξέλιξη
 contentanalysis-slow-agent-dialog-body-file = Το { $agent } ελέγχει το «{ $filename }» σύμφωνα με τις πολιτικές δεδομένων του οργανισμού σας. Αυτή η διαδικασία ενδέχεται διαρκέσει λίγη ώρα.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
+#   $filename - Name of a file being analyzed, such as "aFile.txt"
+#   $count (number) - The number of additional items in the request for analysis
+contentanalysis-slow-agent-dialog-body-file-and-more =
+    { $count ->
+        [one] Το { $agent } ελέγχει το «{ $filename }» και { $count } επιπλέον στοιχείο σύμφωνα με τις πολιτικές δεδομένων του οργανισμού σας. Αυτή η διαδικασία ενδέχεται να διαρκέσει λίγη ώρα.
+       *[other] Το { $agent } ελέγχει το «{ $filename }» και { $count } επιπλέον στοιχεία σύμφωνα με τις πολιτικές δεδομένων του οργανισμού σας. Αυτή η διαδικασία ενδέχεται να διαρκέσει λίγη ώρα.
+    }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = Το { $agent } ελέγχει αυτό που επικολλήσατε σύμφωνα με τις πολιτικές δεδομένων του οργανισμού σας. Αυτή η διαδικασία ενδέχεται διαρκέσει λίγη ώρα.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:

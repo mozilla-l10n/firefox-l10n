@@ -524,4 +524,7 @@ newtab-section-mangage-topics-followed-topics = Ακολουθούνται
 newtab-section-mangage-topics-followed-topics-empty-state = Δεν έχετε παρακολουθήσει κανένα θέμα ακόμα.
 newtab-section-mangage-topics-blocked-topics = Αποκλεισμένα
 newtab-section-mangage-topics-blocked-topics-empty-state = Δεν έχετε αποκλείσει κανένα θέμα ακόμα.
+newtab-custom-wallpaper-title = Οι προσαρμοσμένες ταπετσαρίες έφτασαν
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle = Μεταφορτώστε τη δική σας ταπετσαρία ή επιλέξτε ένα προσαρμοσμένο χρώμα για να κάνετε το { -brand-product-name } δικό σας.
 newtab-custom-wallpaper-cta = Δοκιμή
