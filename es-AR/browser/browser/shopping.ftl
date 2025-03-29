@@ -272,6 +272,8 @@ shopping-opt-in-integrated-subtitle-unsupported-site = El verificador de revisio
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
 shopping-callout-opt-in-integrated-headline = ¿Se puede confiar en estás revisiones?
+# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
+shopping-callout-not-opted-in-integrated-paragraph1 = Active el verificador de revisiones desde { -brand-product-name } para averiguarlo. Funciona con tecnología de { -fakespot-brand-full-name } y usa tecnología de IA para analizar las revisiones.
 shopping-callout-not-opted-in-integrated-paragraph2 = Al seleccionar “{ shopping-opt-in-integrated-button }“, acepta la <a data-l10n-name="privacy_policy">nota de privacidad</a> de { -brand-product-name } y los <a data-l10n-name="terms_of_use">términos de uso</a> de { -fakespot-brand-full-name }.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Descartar
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Activar verificador de revisiones
@@ -296,11 +298,15 @@ shopping-integrated-callout-opted-out-subtitle = Para volver a activarlo, selecc
 
 shopping-integrated-callout-sidebar-closed-title = Volver al verificador de revisiones
 shopping-integrated-callout-sidebar-closed-subtitle = Seleccione la etiqueta de precio en la barra lateral para ver si se puede confiar en las revisiones de un producto.
+shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Seleccione el botón de la barra lateral para ver si se puede confiar en las revisiones de un producto.
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-title = Mismo verificador de revisiones, nueva ubicación
+shopping-integrated-new-position-notification-move-right-subtitle = Mantenga el verificador de revisiones y el resto de la barra lateral de { -brand-product-name } aquí o muévalos hacia la derecha. Cambie ahora o en cualquier momento en la <a data-l10n-name="sidebar_settings">configuración de la barra lateral</a>.
+shopping-integrated-new-position-notification-move-left-subtitle = Mantenga el verificador de revisiones y el resto de la barra lateral de { -brand-product-name } aquí o muévalos hacia la izquierda. Cambie ahora o en cualquier momento en la <a data-l10n-name="sidebar_settings">configuración de la barra lateral</a>.
 shopping-integrated-new-position-notification-move-right-button = Mover a la derecha
 shopping-integrated-new-position-notification-move-left-button = Mover a la izquierda
 shopping-integrated-new-position-notification-dismiss-button = Entendido
