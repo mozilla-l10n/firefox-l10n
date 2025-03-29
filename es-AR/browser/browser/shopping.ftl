@@ -254,15 +254,28 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 ## Review Checker in Integrated sidebar
 
+# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
+shopping-opt-in-integrated-headline = Comprar con confianza
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-opt-in-integrated-headline = ¿Se puede confiar en estás revisiones?
+shopping-callout-not-opted-in-integrated-reminder-accept-button = Activar verificador de revisiones
+shopping-callout-not-opted-in-integrated-reminder-do-not-show = No mostrar esta recomendación nuevamente
+shopping-callout-not-opted-in-integrated-reminder-show-fewer = Mostrar menos recomendaciones
+shopping-callout-not-opted-in-integrated-reminder-manage-settings = Administrar preferencias
+shopping-opt-in-integrated-button = Probar el verificador de revisiones
 
 ## Message strings for Review Checker's empty states.
 
+shopping-empty-state-header = Listo para verificar revisiones
+# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
+# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
+shopping-empty-state-non-supported-site = El verificador de revisiones funciona al comprar en:
 
 ## Confirm disabling Review Checker for newly opted out users
 
+shopping-integrated-callout-opted-out-title = El verificador de revisiones está desactivado
 
 ## Callout for where to find Review Checker when the sidebar closes
 
