@@ -254,23 +254,76 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 ## Review Checker in Integrated sidebar
 
+# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
+shopping-opt-in-integrated-headline = Mua sắm với sự tự tin
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle = Bật trình kiểm tra đánh giá từ { -brand-product-name } để xem các đánh giá sản phẩm có đáng tin cậy không, trước khi bạn mua. Sử dụng công nghệ AI để phân tích các đánh giá và hoạt động khi bạn mua sắm trên { $firstSite }, { $secondSite }, và { $thirdSite }. <a data-l10n-name="learn_more">Tìm hiểu thêm</a>
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle-unsupported-site = Trình kiểm tra đánh giá từ { -brand-product-name } giúp bạn biết được mức độ tin cậy của các đánh giá về sản phẩm trước khi bạn mua. Sử dụng công nghệ AI để phân tích các đánh giá và hoạt động khi bạn mua sắm trên { $firstSite }, { $secondSite }, và { $thirdSite }. <a data-l10n-name="learn_more">Tìm hiểu thêm</a>
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-opt-in-integrated-headline = Bạn có thể tin vào những đánh giá này không?
+# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
+shopping-callout-not-opted-in-integrated-paragraph1 = Bật trình kiểm tra đánh giá từ { -brand-product-name } để tìm hiểu. Được cung cấp bởi { -fakespot-brand-full-name } và sử dụng công nghệ AI để phân tích các đánh giá.
+shopping-callout-not-opted-in-integrated-paragraph2 = Bằng cách chọn “{ shopping-opt-in-integrated-button }” bạn đồng ý với <a data-l10n-name="privacy_policy">thông báo về quyền riêng tư</a> của { -brand-product-name } và <a data-l10n-name="terms_of_use">điều khoản sử dụng</a> của { -fakespot-brand-full-name }.
+shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Bỏ qua
+shopping-callout-not-opted-in-integrated-reminder-accept-button = Bật trình kiểm tra đánh giá
+shopping-callout-not-opted-in-integrated-reminder-do-not-show = Không hiển thị đề xuất này lần nữa
+shopping-callout-not-opted-in-integrated-reminder-show-fewer = Hiển thị ít đề xuất hơn
+shopping-callout-not-opted-in-integrated-reminder-manage-settings = Quản lý cài đặt
+shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Trình kiểm tra đánh giá được cung cấp bởi { -fakespot-brand-full-name }. Bằng cách chọn “{ shopping-opt-in-integrated-button }“ bạn đồng ý với <a data-l10n-name="privacy_policy">thông báo về quyền riêng tư</a> của { -brand-product-name } và <a data-l10n-name="terms_of_use">điều khoản sử dụng</a> của { -fakespot-brand-name }.
+shopping-opt-in-integrated-button = Hãy thử trình kiểm tra đánh giá
 
 ## Message strings for Review Checker's empty states.
 
+shopping-empty-state-header = Sẵn sàng để kiểm tra đánh giá
+shopping-empty-state-supported-site = Xem sản phẩm và { -brand-product-name } sẽ kiểm tra xem đánh giá có đáng tin cậy không.
+# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
+# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
+shopping-empty-state-non-supported-site = Trình kiểm tra đánh giá hoạt động khi bạn mua sắm trên:
 
 ## Confirm disabling Review Checker for newly opted out users
 
+shopping-integrated-callout-opted-out-title = Trình kiểm tra đánh giá đang tắt
+shopping-integrated-callout-opted-out-subtitle = Để bật lại, hãy chọn hình thẻ giá ở thanh lề và bật trình kiểm tra đánh giá.
 
 ## Callout for where to find Review Checker when the sidebar closes
 
+shopping-integrated-callout-sidebar-closed-title = Quay lại trình kiểm tra đánh giá
+shopping-integrated-callout-sidebar-closed-subtitle = Chọn hình thẻ giá ở thanh lề để xem bạn có thể tin tưởng vào đánh giá về sản phẩm hay không.
+shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Chọn nút thanh lề để xem liệu bạn có thể tin tưởng vào đánh giá về sản phẩm hay không.
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-title = Cùng một trình kiểm tra đánh giá, ở địa điểm mới
+shopping-integrated-new-position-notification-move-right-subtitle = Giữ lại trình kiểm tra đánh giá và phần còn lại của thanh lề { -brand-product-name } ở đây — hoặc di chuyển chúng sang bên phải. Chuyển đổi ngay bây giờ hoặc bất cứ lúc nào ở trong <a data-l10n-name="sidebar_settings">cài đặt thanh lề</a>.
+shopping-integrated-new-position-notification-move-left-subtitle = Giữ lại trình kiểm tra đánh giá và phần còn lại của thanh lề { -brand-product-name } ở đây — hoặc di chuyển chúng sang bên trái. Chuyển đổi ngay bây giờ hoặc bất cứ lúc nào ở trong <a data-l10n-name="sidebar_settings">cài đặt thanh lề</a>.
+shopping-integrated-new-position-notification-move-right-button = Di chuyển sang phải
+shopping-integrated-new-position-notification-move-left-button = Di chuyển sang trái
+shopping-integrated-new-position-notification-dismiss-button = Đã hiểu
 
 ## Combined setting for auto-open and auto-close.
 
+shopping-settings-auto-open-and-close-toggle =
+    .label = Tự động mở và đóng trình kiểm tra đánh giá
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-and-close-description-three-sites = Mở khi bạn xem sản phẩm trên { $firstSite }, { $secondSite }, và { $thirdSite } và đóng khi bạn rời khỏi
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-and-close-description-single-site = Mở khi bạn xem sản phẩm trên { $currentSite } và đóng khi bạn rời khỏi

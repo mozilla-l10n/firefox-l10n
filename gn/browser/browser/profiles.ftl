@@ -95,6 +95,8 @@ profiles-light-theme = Tesakã
 profiles-dark-theme = Ypytũ
 # The default system theme
 profiles-system-theme = Apopyvusu
+# This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-lichen-theme-2 = Menta hovyũva
 
 ## Alternative text for default profile icons
 
