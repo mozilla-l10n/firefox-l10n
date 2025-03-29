@@ -78,6 +78,8 @@ contextual-manager-passwords-export-success-heading =
 contextual-manager-passwords-export-success-button = Dokónčene
 # Export passwords to file dialog
 contextual-manager-export-passwords-dialog-title = Hesła do dataje eksportować?
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = Poručamy jo po eksportowanju zhašeć, zo njebychu druzy wužiwarjo, kotřiž snano tutón grat wužiwaja, waše hesła widźeli.
 contextual-manager-export-passwords-dialog-confirm-button = Z eksportom pokročować
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Hesła z { -brand-short-name } eksportować
@@ -131,6 +133,16 @@ contextual-manager-passwords-remove-all-message =
         [two] To wašej { $total } hesle, kotrejž stej so w { -brand-short-name } składowałoj, a warnowanja wo datowych dźěrach wotstronja.
         [few] To waše { $total } hesła, kotrež su so w { -brand-short-name } składowali, a warnowanja wo datowych dźěrach wotstronja.
        *[other] To waše { $total } hesłow, kotrež je so w { -brand-short-name } składowało, a warnowanja wo datowych dźěrach wotstronja.
+    }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] To hesło wotstroni, kotrež sće w { -brand-short-name } na wšěch swojich synchronizowanych gratach składował a tež warnowanja wo datowych dźěrach. Njemóžeće tutu akciju cofnyć.
+        [one] To { $total } hesło wotstroni, kotrež sće w { -brand-short-name } na wšěch swojich synchronizowanych gratach składował a tež warnowanja wo datowych dźěrach. Njemóžeće tutu akciju cofnyć.
+        [two] To { $total } hesle wotstroni, kotrejž sće w { -brand-short-name } na wšěch swojich synchronizowanych gratach składował a tež warnowanja wo datowych dźěrach. Njemóžeće tutu akciju cofnyć.
+        [few] To { $total } hesła wotstroni, kotrež sće w { -brand-short-name } na wšěch swojich synchronizowanych gratach składował a tež warnowanja wo datowych dźěrach. Njemóžeće tutu akciju cofnyć.
+       *[other] To wšě hesła wotstroni, kotrež sće w { -brand-short-name } na wšěch swojich synchronizowanych gratach składował a tež warnowanja wo datowych dźěrach. Njemóžeće tutu akciju cofnyć.
     }
 contextual-manager-passwords-origin-label = Websydło
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
@@ -273,6 +285,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Žane hesła namakane
+contextual-manager-passwords-no-passwords-found-message = Žane hesła namakane. Pytajće za druhim wurazom a spytajće hišće raz.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:

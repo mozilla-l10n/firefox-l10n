@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-policies-title = Mba’apohaguasu Porureko
+aboutpolicies-page-heading =
+    .heading = Porureko Rehegua
 # 'Active' is used to describe the policies that are currently active
 active-policies-tab = Myandypy
 errors-tab = Jejavy
