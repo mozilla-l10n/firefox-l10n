@@ -158,6 +158,8 @@ mr2022-onboarding-import-primary-button-label-no-attribution = മുമ്പ�
 
 mr2022-onboarding-colorway-primary-button-label-continue = തീൎച്ചപ്പെടുത്തിയിട്ടു് തുടരുക
 mr2022-onboarding-colorway-label-default = തനിമട്ട്
+mr2022-onboarding-colorway-tooltip-dreamer2 =
+    .title = വിനവുക്കാണി (ഊതന്നിറം)
 
 ## MR2022 Multistage Mobile Download screen strings
 

@@ -301,6 +301,7 @@ newtab-wallpaper-upload-image = ചിത്രം കയറ്റുവയ്�
 newtab-wallpaper-custom-color = ഒരു നിറം തെരഞ്ഞെടുക്കുക
 newtab-wallpaper-light-red-panda = ചുമന്ന കരടിപ്പൂച്ച
 newtab-wallpaper-light-mountain = വെളുത്ത മല
+newtab-wallpaper-light-sky = പാടലന്നിറത്തിന്റെയും ഊതന്നിറത്തിന്റെയും മുകിലുകൾ നിറഞ്ഞവ്വിണ്ണു്
 
 ## Solid Colors
 
@@ -331,6 +332,7 @@ newtab-wallpaper-abstract-orange = പഴുക്ക ആകാരങ്ങൾ
 ## Celestial
 
 newtab-wallpaper-category-title-photographs = ചിത്രങ്ങൾ
+newtab-wallpaper-sky-with-pink-clouds = പാടലന്നിറമുള്ള മുകിലുകൾ പതിഞ്ഞവ്വിണ്ണു്
 newtab-wallpaper-feature-highlight-header = നിറത്തിന്റെ നീർത്തെറിപ്പ് ഉരച്ചുനോക്കുക
 newtab-wallpaper-feature-highlight-button = മനസ്സിലായി
 # Tooltip for dismiss button
