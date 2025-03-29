@@ -33,3 +33,11 @@ experimental-features-contextual-password-manager-description = Accedi alle tue 
 experimental-features-custom-wallpaper =
     .label = Scegli uno sfondo o un colore personalizzato per la pagina Nuova scheda
 experimental-features-custom-wallpaper-description = Carica il tuo sfondo o scegli un colore personalizzato per lo sfondo delle nuove schede.
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = Anteprime dei link
+experimental-features-link-previews-description =
+    { PLATFORM() ->
+        [macos] Per ottenere ulteriori informazioni su una pagina web prima di fare clic, passa il mouse sopra un link e premi Maiuscole (⇧) più Opzione (⌥) o Alt. Le anteprime possono includere dettagli come titolo e tempo di lettura. Per alcune pagine web, l’IA può anche leggere il testo della pagina e generare un elenco di punti chiave. L’IA è ottimizzata per leggere e generare testi in inglese. Per dare priorità alla tua privacy, l’IA viene eseguita localmente sul tuo computer. <a data-l10n-name="connect">Condividi la tua opinione</a>
+       *[other] Per ottenere ulteriori informazioni su una pagina web prima di fare clic, passa il mouse sopra un link e premi Maiusc + Alt. Le anteprime possono includere dettagli come titolo e tempo di lettura. Per alcune pagine web, l’IA può anche leggere il testo della pagina e generare un elenco di punti chiave. L’IA è ottimizzata per leggere e generare testi in inglese. Per dare priorità alla tua privacy, l’IA viene eseguita localmente sul tuo computer. <a data-l10n-name="connect">Condividi la tua opinione</a>
+    }
