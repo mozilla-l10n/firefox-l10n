@@ -119,14 +119,44 @@ contextual-manager-passwords-radiogroup-label =
 contextual-manager-passwords-add-password-success-heading =
     .heading = Ñe’ẽñemi juajupyre { $url }-pe g̃uarã
 contextual-manager-passwords-add-password-success-button = Hecha
+contextual-manager-passwords-password-already-exists-error-button = Eho ñe’ẽñemíme
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Ñe’ẽñemi ñongatupyre
 contextual-manager-passwords-update-password-success-button = Apopyre
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] Ñe’ẽñemi mboguepyre
+            [one] Ñe’ẽñemi mboguepyre
+           *[other] Ñe’ẽñemikuéra mboguepyre
+        }
 contextual-manager-passwords-delete-password-success-button = Apopyre
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = Opavave ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = Kyhyjerã ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = ¿Eipe’a ñe’ẽñemi?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = Ndaikatúi eipe’a kóva.
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Tapykue
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Mboguete
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Heja
+contextual-manager-passwords-alert-card =
+    .aria-label = Ñe’ẽñemi kyhyjerã
+contextual-manager-passwords-alert-back-button =
+    .label = Tapykue
+contextual-manager-passwords-alert-list =
+    .aria-label = Tysýi kyhyjerã
+contextual-manager-passwords-change-password-button = Emoambue ñe’ẽñemi
 
 ## Login Form
 
