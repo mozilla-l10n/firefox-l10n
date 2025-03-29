@@ -6,6 +6,10 @@ contextual-manager-filter-input =
     .placeholder = Parolalarda ara
     .key = F
     .aria-label = Parolalarda ara
+contextual-manager-menu-more-options-button =
+    .title = Diğer seçenekler
+contextual-manager-more-options-popup =
+    .aria-label = Diğer seçenekler
 
 ## Passwords
 
@@ -138,6 +142,10 @@ contextual-manager-passwords-radiogroup-label =
 contextual-manager-passwords-add-password-success-heading =
     .heading = { $url } için parola eklendi
 contextual-manager-passwords-add-password-success-button = Göster
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = { $url } için bir parola ve kullanıcı adı zaten mevcut
 contextual-manager-passwords-password-already-exists-error-button = Parolaya git
 contextual-manager-passwords-update-password-success-heading =
     .heading = Parola kaydedildi
@@ -190,6 +198,9 @@ contextual-manager-passwords-edit-label =
     .label = Parola düzenle
 contextual-manager-passwords-remove-label =
     .title = Parolayı sil
+contextual-manager-passwords-origin-tooltip = Bu siteye giriş yapacağınız tam adresi girin.
+contextual-manager-passwords-username-tooltip = Giriş yapmak için kullandığınız kullanıcı adını, e-posta adresini veya hesap numarasını girin.
+contextual-manager-passwords-password-tooltip = Bu hesaba giriş yapmak için kullandığınız parolayı girin.
 
 ## Password Card
 
