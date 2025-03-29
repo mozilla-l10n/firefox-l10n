@@ -6,13 +6,21 @@ contextual-manager-filter-input =
     .placeholder = Αναζήτηση κωδικών πρόσβασης
     .key = F
     .aria-label = Αναζήτηση κωδικών πρόσβασης
+contextual-manager-menu-more-options-button =
+    .title = Περισσότερες επιλογές
+contextual-manager-more-options-popup =
+    .aria-label = Περισσότερες επιλογές
 
 ## Passwords
 
 contextual-manager-passwords-command-create = Προσθήκη κωδικού πρόσβασης
 contextual-manager-passwords-command-import-from-browser = Εισαγωγή από άλλο πρόγραμμα περιήγησης…
 contextual-manager-passwords-command-import = Εισαγωγή από αρχείο…
+contextual-manager-passwords-command-export = Εξαγωγή κωδικών πρόσβασης
+contextual-manager-passwords-command-remove-all = Αφαίρεση όλων των κωδικών πρόσβασης
+contextual-manager-passwords-command-settings = Ρυθμίσεις
 contextual-manager-passwords-command-help = Βοήθεια
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Για να εξαγάγετε τους κωδικούς πρόσβασής σας, εισαγάγετε τα διαπιστευτήρια σύνδεσης των Windows. Αυτό συμβάλλει στην προστασία των λογαριασμών σας.
 # This message can be seen when attempting to export a password in about:logins
@@ -35,6 +43,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Για �
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = αντιγράψει τον αποθηκευμένο κωδικό πρόσβασης
+contextual-manager-passwords-import-file-picker-title = Εισαγωγή κωδικών πρόσβασης
 contextual-manager-passwords-import-file-picker-import-button = Εισαγωγή
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.

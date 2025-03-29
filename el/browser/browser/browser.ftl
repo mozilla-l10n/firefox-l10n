@@ -340,6 +340,7 @@ quickactions-cmd-downloads = λήψεις
 # Opens about:addons page in the extensions section
 quickactions-extensions = Διαχείριση επεκτάσεων
 quickactions-cmd-extensions = επεκτάσεις
+quickactions-cmd-help = βοήθεια, υποστήριξη
 # Opens the devtools web inspector
 quickactions-inspector2 = Άνοιγμα εργαλείων ανάπτυξης
 quickactions-cmd-inspector = επιθεώρηση, εργαλεία προγραμματιστή, εργαλεία ανάπτυξης, devtools
