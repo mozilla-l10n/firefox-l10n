@@ -268,6 +268,10 @@ shopping-opt-in-integrated-button = Озмудани абзори тафтиши
 
 ## Message strings for Review Checker's empty states.
 
+shopping-empty-state-header = Барои тафтиши тақризҳо омода аст
+# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
+# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
+shopping-empty-state-non-supported-site = «Абзори тафтиши тақризҳо» ҳангоми харидории шумо дар сомонаҳоми зерин кор мекунад:
 
 ## Confirm disabling Review Checker for newly opted out users
 
