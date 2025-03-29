@@ -12,7 +12,11 @@ contextual-manager-filter-input =
 contextual-manager-passwords-command-create = Parola ekle
 contextual-manager-passwords-command-import-from-browser = Başka bir tarayıcıdan içe aktar…
 contextual-manager-passwords-command-import = Dosyadan içe aktar…
+contextual-manager-passwords-command-export = Parolaları dışa aktar
+contextual-manager-passwords-command-remove-all = Bütün parolaları sil
+contextual-manager-passwords-command-settings = Ayarlar
 contextual-manager-passwords-command-help = Yardım
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Parolalarınızı dışa aktarmak için Windows hesap bilgilerinizi girin. Bu sayede hesaplarınızı daha güvenli bir şekilde koruyabiliriz.
 # This message can be seen when attempting to export a password in about:logins
@@ -50,12 +54,28 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] TSV belgesi
        *[other] TSV dosyası
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = Parolalar içe aktarıldı
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = Yeni: { $added }, Güncellenen: { $modified }
+contextual-manager-passwords-import-detailed-report = Ayrıntılı raporu görüntüle
 contextual-manager-passwords-import-success-button = Tamam
+contextual-manager-passwords-import-error-button-try-again = Yeniden dene
 contextual-manager-passwords-import-error-button-cancel = Vazgeç
+contextual-manager-passwords-import-learn-more = Parolaları içe aktarmayla ilgili bilgi al
+contextual-manager-passwords-export-success-heading =
+    .heading = Parolalar dışa aktarıldı
 contextual-manager-passwords-export-success-button = Tamam
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = Parolalar dosyaya aktarılsın mı?
 contextual-manager-export-passwords-dialog-confirm-button = Dışa aktarma işlemine devam et
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Parolaları { -brand-short-name } tarayıcısından dışa aktar
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = parolalar
 contextual-manager-passwords-export-file-picker-export-button = Dışa aktar
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -63,6 +83,14 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] CSV belgesi
        *[other] CSV dosyası
+    }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] Parola silinsin mi?
+        [one] Parola silinsin mi?
+       *[other] { $total } parolanın hepsi silinsin mi?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
@@ -80,6 +108,39 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Kaldır
        *[other] Tümünü kaldır
     }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] Bu işlem { -brand-short-name } tarayıcınızda kayıtlı parolanızı ve tüm ihlal uyarılarını kaldıracaktır. Bu işlemi geri alamazsınız.
+        [one] Bu işlem { -brand-short-name } tarayıcınızda kayıtlı parolanızı ve tüm ihlal uyarılarını kaldıracaktır. Bu işlemi geri alamazsınız.
+       *[other] Bu işlem { -brand-short-name } tarayıcınızda kayıtlı parolalarınızı ve tüm ihlal uyarılarını kaldıracaktır. Bu işlemi geri alamazsınız.
+    }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] Bu işlem { -brand-short-name } tarayıcınıza kaydettiğiniz parolayı ve ihlal uyarılarını eşitlenen tüm cihazlardan kaldıracaktır. Bu işlemi geri alamazsınız.
+        [one] Bu işlem { -brand-short-name } tarayıcınıza kaydettiğiniz parolayı ve ihlal uyarılarını eşitlenen tüm cihazlardan kaldıracaktır. Bu işlemi geri alamazsınız.
+       *[other] Bu işlem { -brand-short-name } tarayıcınıza kaydettiğiniz tüm parolaları ve ihlal uyarılarını eşitlenen tüm cihazlardan kaldıracaktır. Bu işlemi geri alamazsınız.
+    }
+contextual-manager-passwords-origin-label = Web sitesi
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Kullanıcı adı
+    .data-after = Kopyalandı
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Parola
+    .data-after = Kopyalandı
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Parolaları filtrele
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = { $url } için parola eklendi
+contextual-manager-passwords-add-password-success-button = Göster
+contextual-manager-passwords-password-already-exists-error-button = Parolaya git
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Parola kaydedildi
 contextual-manager-passwords-update-password-success-button = Tamam
 contextual-manager-passwords-delete-password-success-button = Tamam
 # This message is displayed to make sure that a user wants to delete an existing login.

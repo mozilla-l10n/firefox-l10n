@@ -157,18 +157,35 @@ contextual-manager-passwords-alert-back-button =
 contextual-manager-passwords-alert-list =
     .aria-label = Tysýi kyhyjerã
 contextual-manager-passwords-change-password-button = Emoambue ñe’ẽñemi
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = Eikotevẽ emoambue ñe’ẽñemi
+    .message = Ko ñe’ẽñemi ndahasýi ijekuaa. Emoambue ne ñe’ẽñemi emo’ã hag̃ua ne mba’ete.
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Embojuaju poruhára réra
+    .message = Embojuaju peteĩ eike hag̃ua pya’e.
+contextual-manager-passwords-add-username-button = Embojuaju poruhára réra
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Embojuaju ñe’ẽñemi
+contextual-manager-passwords-edit-label =
+    .label = Embosako’i ñe’ẽñemi
+contextual-manager-passwords-remove-label =
+    .title = Emboguete ñe’ẽñemi
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = Ñe’ẽñemi
+contextual-manager-website-icon =
+    .alt = Ñanduti rogue ra’ãnga’i
 contextual-manager-copy-icon =
     .alt = Monguatia
+contextual-manager-check-icon-username =
+    .alt = Monguatiapyre
+contextual-manager-check-icon-password =
+    .alt = Monguatiapyre
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:

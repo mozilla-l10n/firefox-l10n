@@ -299,7 +299,7 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 about-logins-confirm-export-dialog-title = Exportera inloggningar och lösenord
 about-logins-confirm-export-dialog-message = Dina lösenord sparas som läsbar text (t.ex. BadP@ssw0rd) så att alla som kan öppna den exporterade filen kan se dem.
 about-logins-confirm-export-dialog-confirm-button = Exportera…
-about-logins-confirm-export-dialog-title2 = En anteckning om att exportera lösenord
+about-logins-confirm-export-dialog-title2 = En notering om att exportera lösenord
 about-logins-confirm-export-dialog-message2 =
     När du exporterar sparas dina lösenord i en fil med läsbar text.
     När du är klar med att använda filen rekommenderar vi att du tar bort den så att andra som använder den här enheten inte kan se dina lösenord.

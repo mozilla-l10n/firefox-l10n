@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-policies-title = Kurumsal İlkeler
+aboutpolicies-page-heading =
+    .heading = İlkeler Hakkında
 # 'Active' is used to describe the policies that are currently active
 active-policies-tab = Etkin
 errors-tab = Hatalar
