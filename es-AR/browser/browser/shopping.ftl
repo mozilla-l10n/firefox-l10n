@@ -256,6 +256,12 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 # Opt-in message strings for Review Checker when it is integrated into the global sidebar.
 shopping-opt-in-integrated-headline = Comprar con confianza
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle = Active el Verificador de revisiones de { -brand-product-name } para ver qué tan confiables son las revisiones de un producto antes de comprarlo. Usa tecnología de IA para analizar las revisiones y funciona al comprar en { $firstSite }, { $secondSite } y { $thirdSite }. <a data-l10n-name="learn_more">Conocer más</a>
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
@@ -284,6 +290,21 @@ shopping-integrated-callout-opted-out-title = El verificador de revisiones está
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-move-right-button = Mover a la derecha
+shopping-integrated-new-position-notification-move-left-button = Mover a la izquierda
+shopping-integrated-new-position-notification-dismiss-button = Entendido
 
 ## Combined setting for auto-open and auto-close.
 
+shopping-settings-auto-open-and-close-toggle =
+    .label = Abrir y cerrar automáticamente el verificador de revisiones
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-and-close-description-three-sites = Abrir al mirar productos en { $firstSite }, { $secondSite } y { $thirdSite } y cerrar al abandonar
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-and-close-description-single-site = Abrir al mirar productos en { $currentSite }  y cerrar al bandonar
