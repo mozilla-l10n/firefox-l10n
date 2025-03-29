@@ -32,11 +32,16 @@ migration-wizard-migrator-display-name-chrome-dev = ക്രോം ഡെവു
 migration-wizard-migrator-display-name-chromium = ക്രോമിയം
 migration-wizard-migrator-display-name-chromium-360se = 360 സുരക്ഷിത അന്വേഷിയന്ത്രം
 migration-wizard-migrator-display-name-chromium-edge = മൈക്രോസോഫ്റ്റ്‍ എഡ്ജ്
+migration-wizard-migrator-display-name-chromium-edge-beta = മൈക്രോസോഫ്റ്റ് എഡ്ജ് ബീറ്റ
+migration-wizard-migrator-display-name-edge-legacy = മൈക്രോസോഫ്റ്റ് എഡ്ജ് ലെഗസി
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = CSV ഫയലിൽ നിന്നുള്ള രഹസ്യവാക്കുകൾ
 migration-wizard-migrator-display-name-file-bookmarks = HTML ഫയലിൽ നിന്നുള്ള അടയാളക്കുറിപ്പുകൾ
 migration-wizard-migrator-display-name-ie = മൈക്രൊസോഫ്റ്റ്‌ ഇന്റര്‍നെറ്റ്‌ എക്സ്പ്ലോറര്‍
+migration-wizard-migrator-display-name-opera = Opera
+migration-wizard-migrator-display-name-opera-gx = ഓപ്പറ ജി.എക്സ്
 migration-wizard-migrator-display-name-safari = സഫാരി
+migration-wizard-migrator-display-name-vivaldi = വിവാൾടി
 migration-source-name-ie = ഇന്റര്‍നെറ്റ്‌ എക്സ്പ്ലോറര്‍
 migration-source-name-edge = മൈക്രോസോഫ്റ്റ്‍ എഡ്ജ്
 migration-source-name-chrome = ഗൂഗിള്‍ ക്രോം
@@ -155,6 +160,7 @@ migration-list-favorites-label = പ്രിയപ്പെട്ടതു്
 migration-list-password-label = രഹസ്യവാക്കുകൾ
 migration-list-history-label = നാള്‍വഴി
 migration-list-extensions-label = വിപുലീകരണങ്ങൾ
+migration-list-autofill-label = താനെപ്പൂരിപ്പിക്കൽ ഡാറ്റ
 migration-list-payment-methods-label = പണമടക്കൽ വഴികൾ
 
 ##

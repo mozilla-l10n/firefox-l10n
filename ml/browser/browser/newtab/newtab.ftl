@@ -260,6 +260,7 @@ newtab-toast-dismiss-button =
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
+newtab-pocket-onboarding-discover = ഗോളാന്തരവലയിന്റെ ഏറ്റവും മികച്ചതു് ആരായുക
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -333,6 +334,7 @@ newtab-wallpaper-abstract-orange = പഴുക്ക ആകാരങ്ങൾ
 
 newtab-wallpaper-category-title-photographs = ചിത്രങ്ങൾ
 newtab-wallpaper-sky-with-pink-clouds = പാടലന്നിറമുള്ള മുകിലുകൾ പതിഞ്ഞവ്വിണ്ണു്
+newtab-wallpaper-white-mountains = വെളുത്ത മലനിരകൾ
 newtab-wallpaper-feature-highlight-header = നിറത്തിന്റെ നീർത്തെറിപ്പ് ഉരച്ചുനോക്കുക
 newtab-wallpaper-feature-highlight-button = മനസ്സിലായി
 # Tooltip for dismiss button
@@ -433,3 +435,4 @@ newtab-section-mangage-topics-followed-topics = പിന്തുടൎന്�
 newtab-section-mangage-topics-followed-topics-empty-state = താങ്ങൾ ഇതുവരെ ഒരു വിഷയവും പിന്തുടൎന്നിട്ടില്ല
 newtab-section-mangage-topics-blocked-topics = തടഞ്ഞവ
 newtab-section-mangage-topics-blocked-topics-empty-state = താങ്ങൾ ഇതുവരെ ഒരു വിഷയത്തിനെയും ത‍ടഞ്ഞിട്ടില്ല
+newtab-custom-wallpaper-cta = ഉപയോഗിച്ചു് നോക്കൂ!

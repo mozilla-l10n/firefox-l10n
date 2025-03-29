@@ -74,6 +74,8 @@ firefoxview-pickup-tabs-badge = ഒടുക്കം ഉപയോഗിച്�
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = { $targetURI }-നെ പുതിയ ടാബിൽ തുറക്കുക
+firefoxview-try-colorways-button = നിറമ്പാതകൾ ഉപയോഗിച്ചുന്നോക്കുക
+firefoxview-change-colorway-button = നിറമ്പോത മാറ്റുക
 # Variables:
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name

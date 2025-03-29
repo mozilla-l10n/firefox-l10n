@@ -13,6 +13,17 @@ contentanalysis-slow-agent-dialog-header = Skenuje so
 contentanalysis-slow-agent-dialog-body-file = { $agent } „{ $filename }“ na zakładźe datowych prawidłow wašeje organizacije přepruwuje. To wokomik traje.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
+#   $filename - Name of a file being analyzed, such as "aFile.txt"
+#   $count (number) - The number of additional items in the request for analysis
+contentanalysis-slow-agent-dialog-body-file-and-more =
+    { $count ->
+        [one] { $agent } „{ $filename }“ a { $count } přidatny zapisk na zakładźe datowych prawidłow wašeje organizacije přepruwuje. To wokomik traje.
+        [two] { $agent } „{ $filename }“ a { $count } přidatnej zapiskaj na zakładźe datowych prawidłow wašeje organizacije přepruwuje. To wokomik traje.
+        [few] { $agent } „{ $filename }“ a { $count } přidatne zapiski na zakładźe datowych prawidłow wašeje organizacije přepruwuje. To wokomik traje.
+       *[other] { $agent } „{ $filename }“ a { $count } přidatnych zapiskow na zakładźe datowych prawidłow wašeje organizacije přepruwuje. To wokomik traje.
+    }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } na zakładźe datowych prawidłow wašeje organizacije přepruwuje, štož sće zasadźił. To wokomik traje.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
