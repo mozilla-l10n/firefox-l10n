@@ -69,10 +69,18 @@ contextual-manager-passwords-import-detailed-report = Ehecha porã marandu’i
 contextual-manager-passwords-import-success-button = Apopyre
 contextual-manager-passwords-import-error-button-try-again = Eha’ã jey
 contextual-manager-passwords-import-error-button-cancel = Heja
+contextual-manager-passwords-import-learn-more = Eikuaave ñe’ẽñemi jegueru rehegua
+contextual-manager-passwords-export-success-heading =
+    .heading = Ñe’ẽñemi guerahauka
 contextual-manager-passwords-export-success-button = Apopyre
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = ¿Eguerova ñe’ẽñemi marandurendápe?
 contextual-manager-export-passwords-dialog-confirm-button = Eguerahauka gueteri
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Eguerahauka ñe’ẽñemi { -brand-short-name } mba’e
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = ñe’ẽñemikuéra
 contextual-manager-passwords-export-file-picker-export-button = Mba’ereraha
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -97,6 +105,20 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Mboguepaite
        *[other] Mboguepaite
     }
+contextual-manager-passwords-origin-label = Ñanduti rogue
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Poruhára réra
+    .data-after = Mbokuatiapyre
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Ñe’ẽñemi
+    .data-after = Mbokuatiapyre
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Embogua umi ñe’ẽñemi
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = Ñe’ẽñemi juajupyre { $url }-pe g̃uarã
+contextual-manager-passwords-add-password-success-button = Hecha
 contextual-manager-passwords-update-password-success-button = Apopyre
 contextual-manager-passwords-delete-password-success-button = Apopyre
 # This message is displayed to make sure that a user wants to delete an existing login.
