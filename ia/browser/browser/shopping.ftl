@@ -286,6 +286,7 @@ shopping-opt-in-integrated-button = Prova le Verificator de recension
 ## Message strings for Review Checker's empty states.
 
 shopping-empty-state-header = Preste a controlar recensiones
+shopping-empty-state-supported-site = Vide un producto e { -brand-product-name } controlara si le recensiones es fidibile.
 # We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
 # This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
 shopping-empty-state-non-supported-site = Le Verificator de recension functiona quando tu compra sur:
@@ -293,9 +294,12 @@ shopping-empty-state-non-supported-site = Le Verificator de recension functiona 
 ## Confirm disabling Review Checker for newly opted out users
 
 shopping-integrated-callout-opted-out-title = Verificator de recension es disactivate
+shopping-integrated-callout-opted-out-subtitle = Pro reactivar lo, selige le placa del precio in le barra lateral e activa Verificator de recension.
 
 ## Callout for where to find Review Checker when the sidebar closes
 
+shopping-integrated-callout-sidebar-closed-title = Revolver a Verificator de recension
+shopping-integrated-callout-sidebar-closed-subtitle = Selige le placa del precio in le barra lateral a vide si tu pote fider te del recensiones de producto.
 shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Selige le button de barra lateral pro vider si tu pote fider te de revisiones de productos.
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
@@ -303,6 +307,8 @@ shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Selige le button d
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
 shopping-integrated-new-position-notification-title = Mesme Verificator de recension, nove punctos
+shopping-integrated-new-position-notification-move-right-subtitle = Mantene ci Verificator de recension e le resto del barra lateral de { -brand-product-name } o move los a dextra. Muta ora o quando tu lo vole in le <a data-l10n-name="sidebar_settings">configurationes del barra lateral</a>.
+shopping-integrated-new-position-notification-move-left-subtitle = Mantene ci Verificator de recension e le resto del barra lateral de { -brand-product-name } o move los a sinistra. Muta ora o quando tu lo vole in le <a data-l10n-name="sidebar_settings">configurationes del barra lateral</a>.
 shopping-integrated-new-position-notification-move-right-button = Mover a dextra
 shopping-integrated-new-position-notification-move-left-button = Mover a sinistra
 shopping-integrated-new-position-notification-dismiss-button = Comprendite
@@ -311,3 +317,13 @@ shopping-integrated-new-position-notification-dismiss-button = Comprendite
 
 shopping-settings-auto-open-and-close-toggle =
     .label = Aperir e clauder automaticamente Verificator de recension
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-and-close-description-three-sites = Se aperi quando tu vide productos sur { $firstSite }, { $secondSite }, e { $thirdSite } e se claude quando tu exi
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-and-close-description-single-site = Se aperi quando tu vide productos sur { $currentSite } e se claude quando tu exi
