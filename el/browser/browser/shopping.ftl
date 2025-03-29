@@ -254,9 +254,12 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 ## Review Checker in Integrated sidebar
 
+# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
+shopping-opt-in-integrated-headline = Αγοράστε με αυτοπεποίθηση
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-opt-in-integrated-headline = Μπορείτε να εμπιστευτείτε αυτές τις κριτικές;
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Απόρριψη
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Ενεργοποίηση ελέγχου κριτικών
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = Να μην εμφανιστεί ξανά αυτή η πρόταση
@@ -266,9 +269,13 @@ shopping-opt-in-integrated-button = Δοκιμή ελέγχου κριτικών
 
 ## Message strings for Review Checker's empty states.
 
+# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
+# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
+shopping-empty-state-non-supported-site = Ο έλεγχος κριτικών λειτουργεί όταν κάνετε αγορές στα:
 
 ## Confirm disabling Review Checker for newly opted out users
 
+shopping-integrated-callout-opted-out-title = Ο έλεγχος κριτικών είναι ανενεργός
 
 ## Callout for where to find Review Checker when the sidebar closes
 

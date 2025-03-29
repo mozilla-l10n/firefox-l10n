@@ -73,6 +73,9 @@ perftools-button-edit-settings = Επεξεργασία ρυθμίσεων…
 
 perftools-menu-more-actions-button =
     .title = Περισσότερες ενέργειες
+perftools-menu-more-actions-restart-with-profiling = Επανεκκίνηση του { -brand-shorter-name } με ενεργή τη δημιουργία προφίλ εκκίνησης
+perftools-menu-more-actions-copy-for-startup = Αντιγραφή μεταβλητών περιβάλλοντος για τη δημιουργία προφίλ εκκίνησης
+perftools-menu-more-actions-copy-for-perf-tests = Αντιγραφή παραμέτρων για δοκιμές επιδόσεων
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 

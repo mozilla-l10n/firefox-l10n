@@ -59,13 +59,31 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] Έγγραφο TSV
        *[other] Αρχείο TSV
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = Έγινε εισαγωγή κωδικών πρόσβασης
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = Νέοι: { $added }, Ενημερωμένοι: { $modified }
+contextual-manager-passwords-import-detailed-report = Προβολή λεπτομερούς αναφοράς
 contextual-manager-passwords-import-success-button = Τέλος
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = Δεν ήταν δυνατή η εισαγωγή των κωδικών πρόσβασης
+    .message = Βεβαιωθείτε ότι το αρχείο σας περιλαμβάνει στήλες για ιστοτόπους, ονόματα χρήστη και κωδικούς πρόσβασης.
 contextual-manager-passwords-import-error-button-try-again = Δοκιμή ξανά
 contextual-manager-passwords-import-error-button-cancel = Ακύρωση
+contextual-manager-passwords-import-learn-more = Μάθετε για την εισαγωγή κωδικών πρόσβασης
+contextual-manager-passwords-export-success-heading =
+    .heading = Έγινε εξαγωγή κωδικών πρόσβασης
 contextual-manager-passwords-export-success-button = Τέλος
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = Εξαγωγή κωδικών πρόσβασης σε αρχείο;
 contextual-manager-export-passwords-dialog-confirm-button = Συνέχεια με την εξαγωγή
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Εξαγωγή κωδικών πρόσβασης από το { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = κωδικοί πρόσβασης
 contextual-manager-passwords-export-file-picker-export-button = Εξαγωγή
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -73,6 +91,13 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] Έγγραφο CSV
        *[other] Αρχείο CSV
+    }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] Αφαίρεση κωδικού πρόσβασης;
+       *[other] Remove all { $total } passwords?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
@@ -111,11 +136,19 @@ contextual-manager-passwords-alert-back-button =
 contextual-manager-passwords-alert-list =
     .aria-label = Λίστα ειδοποιήσεων
 contextual-manager-passwords-change-password-button = Αλλαγή κωδικού πρόσβασης
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Προσθήκη ονόματος χρήστη
+    .message = Προσθέστε ένα για ταχύτερη σύνδεση.
+contextual-manager-passwords-add-username-button = Προσθήκη ονόματος χρήστη
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Προσθήκη κωδικού πρόσβασης
+contextual-manager-passwords-edit-label =
+    .label = Επεξεργασία κωδικού πρόσβασης
+contextual-manager-passwords-remove-label =
+    .title = Αφαίρεση κωδικού πρόσβασης
 
 ## Password Card
 
