@@ -1352,6 +1352,7 @@ collection-header2 = Ҷамъоварӣ ва истифодабарии маъл
     .searchkeywords = телеметрия
 preferences-collection-description = Мо cаъю кӯшиш мекунем, ки ба шумо имконияти интихобро таъмин намоем ва танҳо он маълумоти камтаринеро ҷамъ мекунем, ки барои беҳтар кардани «{ -brand-product-name }» барои ҳамаи мо лозим мешавад.
 preferences-collection-privacy-notice = Намоиш додани «Огоҳномаи махфият»
+preferences-across-profiles = Ин танзимот бар ҳар як профили «{ -brand-product-name }» дар ин дастгоҳ татбиқ карда мешавад.
 preferences-view-profiles = Намоиш додани ҳамаи профилҳо
 collection-description = Мо мекӯшем, ки ба шумо имконотро пешниҳод намоем ва танҳо он чизеро ҷамъ кунем, ки барои таъмин ва такмил додани «{ -brand-short-name }» барои ҳамаи мо лозим мебошад. Мо ҳамеша пеш аз гирифтани маълумоти шахсӣ иҷозат мепурсем.
 collection-privacy-notice = Огоҳномаи махфият

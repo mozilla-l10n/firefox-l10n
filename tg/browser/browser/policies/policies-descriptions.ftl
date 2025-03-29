@@ -130,6 +130,7 @@ policy-SearchSuggestEnabled = Пешниҳодҳои ҷустуҷӯро фаъо
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Модулҳои «PKCS #11»-ро илова ё нест мекунад.
 policy-ShowHomeButton = Намоиш додани тугмаи «Асосӣ» дар навори абзорҳо.
+policy-SkipTermsOfUse = Ҳангоми оғози кори браузер бахшҳои «Шартҳои истифода» ва «Огоҳномаи махфият» нишон дода нашаванд.
 policy-SSLVersionMax = Версия ҳадди аксари «SSL»-ро танзим мекунад.
 policy-SSLVersionMin = Версия ҳадди ақали «SSL»-ро танзим мекунад.
 policy-StartDownloadsInTempDirectory = Боргириҳоро маҷбур мекунад, то ки онҳо дар ҷойгиршавии муваққатии маҳаллӣ ба ивази феҳристи пешфарз оғоз карда шаванд.

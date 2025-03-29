@@ -522,4 +522,7 @@ newtab-section-mangage-topics-followed-topics = Пайгирӣ карда меш
 newtab-section-mangage-topics-followed-topics-empty-state = Шумо то ҳол ягон мавзуъро пайгирӣ накардаед.
 newtab-section-mangage-topics-blocked-topics = Манъ карда мешавад
 newtab-section-mangage-topics-blocked-topics-empty-state = Шумо то ҳол ягон мавзуъро манъ накардаед.
+newtab-custom-wallpaper-title = Тасвирҳои заминаи фармоишӣ дар ин ҷой мебошанд
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle = Барои ба таври худ танзим кардани «{ -brand-product-name }», тасвири заминаи худро бор кунед ё ранги дилхоҳеро интихоб намоед.
 newtab-custom-wallpaper-cta = Озмоед

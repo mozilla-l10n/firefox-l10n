@@ -274,11 +274,19 @@ contextual-manager-passwords-no-passwords-found-message = Ягон ниҳонв�
 
 # This string encourages the user to save their passwords in Firefox (the "safe spot").
 contextual-manager-passwords-no-passwords-header = Ниҳонвожаҳои худро дар ҷойи бехатар нигоҳ доред.
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = Ҳамаи ниҳонвожаҳо рамзгузорӣ карда мешаванд ва мо ҳамаи ҳодисаҳои вайронкунӣ ва огоҳиҳоро назорат мекунем, агар онҳо ба шумо таъсир расонанд.
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = Барои оғози кор, онҳоро дар ин ҷой илова намоед.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Ба таври дастӣ илова кардан
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = Нигоҳ надошта, мепӯшед?
+    .message = Тағйироти шумо нигоҳ дошта намешавад.
 contextual-manager-passwords-discard-changes-close-button = Пӯшидан
 contextual-manager-passwords-discard-changes-go-back-button = Бозгашт
