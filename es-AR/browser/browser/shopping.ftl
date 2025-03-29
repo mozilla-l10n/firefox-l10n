@@ -262,10 +262,18 @@ shopping-opt-in-integrated-headline = Comprar con confianza
 #   $secondSite (String) - The second shopping page name
 #   $thirdSite (String) - The third shopping page name
 shopping-opt-in-integrated-subtitle = Active el Verificador de revisiones de { -brand-product-name } para ver qué tan confiables son las revisiones de un producto antes de comprarlo. Usa tecnología de IA para analizar las revisiones y funciona al comprar en { $firstSite }, { $secondSite } y { $thirdSite }. <a data-l10n-name="learn_more">Conocer más</a>
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle-unsupported-site = El verificador de revisiones de { -brand-product-name } ayuda a sber qué tan confiables son las revisiones de un producto antes de comprarlo. Usa tecnología de IA para analizar las revisiones y funciona al comprar en { $firstSite }, { $secondSite } y { $thirdSite }. <a data-l10n-name="learn_more">Conocer más</a>
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
 shopping-callout-opt-in-integrated-headline = ¿Se puede confiar en estás revisiones?
+shopping-callout-not-opted-in-integrated-paragraph2 = Al seleccionar “{ shopping-opt-in-integrated-button }“, acepta la <a data-l10n-name="privacy_policy">nota de privacidad</a> de { -brand-product-name } y los <a data-l10n-name="terms_of_use">términos de uso</a> de { -fakespot-brand-full-name }.
+shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Descartar
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Activar verificador de revisiones
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = No mostrar esta recomendación nuevamente
 shopping-callout-not-opted-in-integrated-reminder-show-fewer = Mostrar menos recomendaciones
@@ -282,9 +290,12 @@ shopping-empty-state-non-supported-site = El verificador de revisiones funciona 
 ## Confirm disabling Review Checker for newly opted out users
 
 shopping-integrated-callout-opted-out-title = El verificador de revisiones está desactivado
+shopping-integrated-callout-opted-out-subtitle = Para volver a activarlo, seleccione la etiqueta de precio en la barra lateral y active el verificador de revisiones.
 
 ## Callout for where to find Review Checker when the sidebar closes
 
+shopping-integrated-callout-sidebar-closed-title = Volver al verificador de revisiones
+shopping-integrated-callout-sidebar-closed-subtitle = Seleccione la etiqueta de precio en la barra lateral para ver si se puede confiar en las revisiones de un producto.
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
