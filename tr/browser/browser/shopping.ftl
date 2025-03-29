@@ -254,9 +254,12 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 ## Review Checker in Integrated sidebar
 
+# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
+shopping-opt-in-integrated-headline = Güvenle alışveriş yapın
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-opt-in-integrated-headline = Bu değerlendirmelere güvenebilir misiniz?
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Kapat
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = Bu öneriyi bir daha gösterme
 shopping-callout-not-opted-in-integrated-reminder-show-fewer = Daha az öneri göster

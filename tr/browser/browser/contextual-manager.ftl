@@ -180,11 +180,16 @@ contextual-manager-passwords-vulnerable-password-link-message = { -brand-product
 contextual-manager-passwords-no-username-heading-and-message =
     .heading = Kullanıcı adı ekle
     .message = Daha hızlı giriş yapmak için kullanıcı adı ekleyin.
+contextual-manager-passwords-add-username-button = Kullanıcı adı ekle
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Parola ekle
+contextual-manager-passwords-edit-label =
+    .label = Parola düzenle
+contextual-manager-passwords-remove-label =
+    .title = Parolayı sil
 
 ## Password Card
 
@@ -200,6 +205,11 @@ contextual-manager-check-icon-password =
     .alt = Kopyalandı
 contextual-manager-alert-icon =
     .alt = Uyarı
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = { $username } kullanıcı adını kopyala
+    .title = { $username } kullanıcı adını kopyala
 contextual-manager-password-login-line =
     .aria-label = Parolayı kopyala
     .title = Parolayı kopyala
