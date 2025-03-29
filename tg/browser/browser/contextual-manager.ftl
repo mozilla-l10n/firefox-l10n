@@ -186,7 +186,12 @@ contextual-manager-passwords-alert-list =
 contextual-manager-passwords-breached-origin-heading-and-message =
     .heading = Тавсия медиҳем, ки ниҳонвожаро иваз намоед
     .message = Гузориш дода шудааст, ки ниҳонвожаҳо аз ин сомона дӯздӣ ё ошкор карда шудаанд. Барои муҳофизат кардани ҳисоби худ, ниҳонвожаи худро иваз намоед.
+contextual-manager-passwords-breached-origin-link-message = Чӣ тавр «{ -brand-product-name }» дар бораи вайронкуниҳо маълумот мегирад?
 contextual-manager-passwords-change-password-button = Иваз кардани ниҳонвожа
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = Тавсия медиҳем, ки ниҳонвожаро иваз намоед
+    .message = Ин ниҳонвожа метавонад ба осонӣ ошкор карда шавад. Барои муҳофизат кардани ҳисоби худ, ниҳонвожаи худро иваз намоед.
+contextual-manager-passwords-vulnerable-password-link-message = Чӣ тавр «{ -brand-product-name }» дар бораи ниҳонвожаҳои заиф маълумот мегирад?
 contextual-manager-passwords-no-username-heading-and-message =
     .heading = Илова кардани номи корбар
     .message = Барои воридшавии зуд, номи корбареро илова намоед.
@@ -200,11 +205,16 @@ contextual-manager-passwords-edit-label =
     .label = Таҳрир кардани ниҳонвожа
 contextual-manager-passwords-remove-label =
     .title = Тоза кардани ниҳонвожа
+contextual-manager-passwords-origin-tooltip = Нишонии дақиқеро, ки шумо аз он ба ин сомона ворид мешавед, ворид намоед.
+contextual-manager-passwords-username-tooltip = Номи корбар, нишонии почтаи электронӣ ё рақами ҳисоберо, ки шумо барои воридшавӣ истифода мебаред, ворид намоед.
+contextual-manager-passwords-password-tooltip = Ниҳонвожаеро, ки барои воридшавӣ ба ин ҳисоб истифода мешавад, ворид намоед.
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = Ниҳонвожаҳо
+contextual-manager-website-icon =
+    .alt = Нишонаи сомона
 contextual-manager-copy-icon =
     .alt = Нусха бардоштан
 contextual-manager-check-icon-username =
@@ -257,10 +267,13 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Ягон ниҳонвожа ёфт нашуд
+contextual-manager-passwords-no-passwords-found-message = Ягон ниҳонвожа ёфт нашуд. Вожаи дигареро ҷустуҷӯ кунед ва аз нав кӯшиш намоед.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = Ниҳонвожаҳои худро дар ҷойи бехатар нигоҳ доред.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Ба таври дастӣ илова кардан
 

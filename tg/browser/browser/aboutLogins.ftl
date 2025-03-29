@@ -107,7 +107,7 @@ about-logins-login-intro-heading-logged-out2 = Воридшавиҳои ниго
 about-logins-login-intro-heading-logged-in = Ягон воридшавии ҳамоҳангшуда ёфт нашуд.
 login-intro-description = Агар шумо воридшавиҳои худро дар дастгоҳҳои гуногун ба { -brand-product-name } сабт карда бошед, дар он сурат шумо дар ин ҷо ба онҳо ҳамин тавр дастрасӣ пайдо мекунед:
 login-intro-instructions-fxa = Эҷод кунед ё ба { -fxaccount-brand-name }-и худ аз дастгоҳе, ки дар он воридшавиҳои шумо нигоҳ дошта шудаанд, ворид шавед.
-about-logins-login-intro-heading-message = Ниҳонвожаҳои худро ба ҷойи бехатар нигоҳ доред
+about-logins-login-intro-heading-message = Ниҳонвожаҳои худро дар ҷойи бехатар нигоҳ доред
 login-intro-description2 = Ҳамаи ниҳонвожаҳое, ки шумо дар «{ -brand-product-name }» нигоҳ медоред, рамзгузорӣ карда шудаанд. Илова бар ин, мо пайдоиши вайронкуниҳоро назорат мекунем ва шуморо огоҳ мекунем, агар онҳо ба шумо таъсир расонанд. <a data-l10n-name="breach-alert-link">Маълумоти бештар</a>
 login-intro-instructions-fxa2 = Эҷод кунед ё ба ҳисоби худ аз дастгоҳе, ки дар он воридшавиҳои шумо нигоҳ дошта шудаанд, ворид шавед.
 login-intro-instructions-fxa-settings = Ба Танзимот > Ҳамоҳангсозӣ > Фаъол кардани ҳамоҳангсозӣ гузаред… Ба «Воридшавиҳо ва ниҳонвожаҳо» аломати қайдро гузоред.
