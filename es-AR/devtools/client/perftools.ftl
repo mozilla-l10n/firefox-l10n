@@ -73,6 +73,8 @@ perftools-button-edit-settings = Editar la configuración…
 
 perftools-menu-more-actions-button =
     .title = Más acciones
+perftools-menu-more-actions-restart-with-profiling = Reiniciar { -brand-shorter-name } con el perfilado de inicio habilitado
+perftools-menu-more-actions-copy-for-startup = Copiar variables de entorno para el perfilado de inicio
 perftools-menu-more-actions-copy-for-perf-tests = Copiar parámetros para pruebas de rendimiento
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
@@ -142,7 +144,7 @@ perftools-onboarding-close-button =
 perftools-presets-web-developer-label = Desarrollador web
 perftools-presets-web-developer-description = Configuración recomendada para depuración de la mayoría de aplicaciones web, con poca sobrecarga.
 perftools-presets-firefox-label = { -brand-shorter-name }
-perftools-presets-firefox-description = Configuración preestablecida recomendada para crear perfiles de { -brand-shorter-name }.
+perftools-presets-firefox-description = Valor predeterminado recomendado para el perfilado de { -brand-shorter-name }
 perftools-presets-graphics-label = Gráficos
 perftools-presets-graphics-description = Preestablecido para investigar errores gráficos en { -brand-shorter-name }.
 perftools-presets-media-label = Medios

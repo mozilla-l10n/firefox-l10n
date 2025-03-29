@@ -280,11 +280,13 @@ shopping-callout-not-opted-in-integrated-reminder-accept-button = Activar verifi
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = No mostrar esta recomendación nuevamente
 shopping-callout-not-opted-in-integrated-reminder-show-fewer = Mostrar menos recomendaciones
 shopping-callout-not-opted-in-integrated-reminder-manage-settings = Administrar preferencias
+shopping-opt-in-integrated-privacy-policy-and-terms-of-use = El verificador de revisiones funciona con tecnología de{ -fakespot-brand-full-name }. Al seleccionar “{ shopping-opt-in-integrated-button }“, acepta la <a data-l10n-name="privacy_policy">nota de privacidad</a> de { -brand-product-name } y los <a data-l10n-name="terms_of_use">términos de uso</a> de { -fakespot-brand-name }.
 shopping-opt-in-integrated-button = Probar el verificador de revisiones
 
 ## Message strings for Review Checker's empty states.
 
 shopping-empty-state-header = Listo para verificar revisiones
+shopping-empty-state-supported-site = Vea un producto y { -brand-product-name } verificará si las revisiones son confiables.
 # We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
 # This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
 shopping-empty-state-non-supported-site = El verificador de revisiones funciona al comprar en:
