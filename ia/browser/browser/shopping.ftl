@@ -272,6 +272,9 @@ shopping-opt-in-integrated-subtitle-unsupported-site = Le Verificator de recensi
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
 shopping-callout-opt-in-integrated-headline = Pote tu fider te de iste recensiones?
+# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
+shopping-callout-not-opted-in-integrated-paragraph1 = Activa Verificator de recension de { -brand-product-name } pro cognoscer lo. Illo es potentiate per { -fakespot-brand-full-name } e usa technologia IA pro analysar le revisiones.
+shopping-callout-not-opted-in-integrated-paragraph2 = Seligente “{ shopping-opt-in-integrated-button }” tu concorda con le <a data-l10n-name="privacy_policy">politica de confidentialitate de</a> { -brand-product-name } e le <a data-l10n-name="terms_of_use">conditiones de uso de { -fakespot-brand-full-name }</a>.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Dimitter
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Activar Verificator de recension
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = Non monstrar de novo iste recommendation
