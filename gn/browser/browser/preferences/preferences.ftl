@@ -1350,6 +1350,7 @@ collection-header = { -brand-short-name } Ñembyaty ha mba’ekuaarã jeporu
 collection-header2 = { -brand-short-name } Ñembyaty ha mba’ekuaarã jeporu
     .searchkeywords = telemetría
 preferences-collection-privacy-notice = Ehecha marandu’i ñemi rehegua
+preferences-view-profiles = Ehechapa mba’etekuéra
 collection-description = Roñeha’ãmbaite rome’ẽ hag̃ua jeporavorã ha rombyaty roikotevẽva rome’ẽ ha romoĩporãve { -brand-short-name } arapy tuichakue javépe g̃uarã. Rojerure ñemoneĩ marandu og̃uahẽ mboyve oréve.
 collection-privacy-notice = Marandu Ñemigua
 collection-health-report-telemetry-disabled = Nomoneĩvéima { -vendor-short-name } ojapyhývo mba’ekuaarã aporekogua ha oñondiveguáva. Opaite mba’ekuaarã itujavéva oguéta 30 ára ohasávo.
