@@ -130,6 +130,7 @@ policy-SearchSuggestEnabled = Kích hoạt hoặc vô hiệu hóa các đề xu�
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Thêm hoặc xóa module PKCS #11.
 policy-ShowHomeButton = Hiển thị nút trang chủ trên thanh công cụ.
+policy-SkipTermsOfUse = Không hiển thị điều khoản sử dụng và thông báo về quyền riêng tư khi khởi động.
 policy-SSLVersionMax = Chỉnh phiên bản SSL tối đa.
 policy-SSLVersionMin = Chỉnh phiên bản SSL tối thiểu.
 policy-StartDownloadsInTempDirectory = Buộc bắt đầu tải xuống ở một vị trí cục bộ, tạm thời thay vì thư mục tải xuống mặc định.

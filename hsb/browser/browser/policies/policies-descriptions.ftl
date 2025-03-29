@@ -130,6 +130,7 @@ policy-SearchSuggestEnabled = Pytanske namjety zmóžnić abo znjemóžnić.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Přidajće abo zhašejće module PKCS #11.
 policy-ShowHomeButton = Tłóčatko startoweje strony na symbolowej lajsće pokazać.
+policy-SkipTermsOfUse = Wužiwanske wuměnjenja a zdźělenku priwatnosće při startowanju njepokazać.
 policy-SSLVersionMax = Nastajće maksimalnu SSL-wersiju.
 policy-SSLVersionMin = Nastajće minimalnu SSL-wersiju.
 policy-StartDownloadsInTempDirectory = Sćehnjenja nućić, zo bychu w lokalnym, nachwilnym městnje město w standardnym zapisu sćehnjenjow započeli.

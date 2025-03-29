@@ -332,6 +332,9 @@ quickactions-cmd-addons2 = moĩmbaha
 quickactions-bookmarks2 = Eñangareko techaukaháre
 quickactions-cmd-bookmarks = techaukaha
 # Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Tembiasakue ramovéva ñembogue
+quickactions-cmd-clearrecenthistory = Embogue tembiasakue ramovéva, tembiasakue
+# Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Embogue Tembiasakue
 quickactions-cmd-clearhistory = embogue tembiasakue
 # Opens about:downloads page
@@ -340,6 +343,14 @@ quickactions-cmd-downloads = ñemboguejy
 # Opens about:addons page in the extensions section
 quickactions-extensions = Eñangareko jepysokuére
 quickactions-cmd-extensions = jepysokue
+# Opens Firefox View
+quickactions-firefoxview = Embojuruja { -firefoxview-brand-name }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = Embojuruja { -firefoxview-brand-name }, { -firefoxview-brand-name }, mbojuruja recha, jehecha
+# Opens SUMO home page
+quickactions-help = { -brand-product-name } ñepytyvõ
 # Opens the devtools web inspector
 quickactions-inspector2 = Embojuruja tembiporu mboguatahárape g̃uarã
 quickactions-cmd-inspector = moambuekuaaha, ñemboguata rembiporu
