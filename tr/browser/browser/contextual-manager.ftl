@@ -142,13 +142,44 @@ contextual-manager-passwords-password-already-exists-error-button = Parolaya git
 contextual-manager-passwords-update-password-success-heading =
     .heading = Parola kaydedildi
 contextual-manager-passwords-update-password-success-button = Tamam
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] Parola silindi
+            [one] Parola silindi
+           *[other] Parolalar silindi
+        }
 contextual-manager-passwords-delete-password-success-button = Tamam
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = Tümü ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = Uyarılar ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Parola silinsin mi?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = Bu işlemi geri alamazsınız.
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Geri dön
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Kaldır
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = İptal
+contextual-manager-passwords-alert-card =
+    .aria-label = Parola uyarıları
+contextual-manager-passwords-alert-back-button =
+    .label = Geri dön
+contextual-manager-passwords-alert-list =
+    .aria-label = Uyarı listesi
+contextual-manager-passwords-change-password-button = Parolayı değiştir
+contextual-manager-passwords-vulnerable-password-link-message = { -brand-product-name } zayıf parolaları nereden biliyor?
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Kullanıcı adı ekle
+    .message = Daha hızlı giriş yapmak için kullanıcı adı ekleyin.
 
 ## Login Form
 
@@ -159,13 +190,52 @@ contextual-manager-passwords-create-label =
 
 contextual-manager-passwords-list-label =
     .aria-label = Parolalar
+contextual-manager-website-icon =
+    .alt = Web sitesi simgesi
 contextual-manager-copy-icon =
     .alt = Kopyala
+contextual-manager-check-icon-username =
+    .alt = Kopyalandı
+contextual-manager-check-icon-password =
+    .alt = Kopyalandı
+contextual-manager-alert-icon =
+    .alt = Uyarı
+contextual-manager-password-login-line =
+    .aria-label = Parolayı kopyala
+    .title = Parolayı kopyala
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = Parolayı kopyala (Dikkat)
+    .title = Parolayı kopyala (Dikkat)
+contextual-manager-edit-login-button = Düzenle
+    .tooltiptext = Parolayı düzenle
+contextual-manager-view-alert-heading =
+    .heading = Uyarıyı görüntüle
+contextual-manager-view-alert-button =
+    .tooltiptext = Uyarıyı incele
+contextual-manager-show-password-button =
+    .aria-label = Parolayı göster
+    .title = Parolayı göster
+contextual-manager-hide-password-button =
+    .aria-label = Parolayı gizle
+    .title = Parolayı gizle
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = Hiçbir parola bulunamadı
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = Parolalarınızı güvenli bir yere kaydedin.
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = Başlamak için parolalarınızı buraya ekleyin.
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = Kaydedilmeden kapatılsın mı?
+    .message = Yaptığınız değişiklikler kaydedilmeyecektir.
+contextual-manager-passwords-discard-changes-close-button = Kapat
+contextual-manager-passwords-discard-changes-go-back-button = Geri dön

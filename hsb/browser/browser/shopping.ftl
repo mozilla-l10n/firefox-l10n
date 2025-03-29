@@ -262,11 +262,13 @@ shopping-opt-in-integrated-headline = Nakupujće z dowěru
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
 shopping-callout-opt-in-integrated-headline = Móžeće tutym pohódnoćenjam dowěrić?
+shopping-callout-not-opted-in-integrated-paragraph2 = Hdyž “{ shopping-opt-in-integrated-button }“ wuběraće, zwoliće do <a data-l10n-name="privacy_policy">zdźělenki priwatnosće</a> { -brand-product-name } a <a data-l10n-name="terms_of_use">wužiwanskich wuměnjenjow</a> { -fakespot-brand-full-name }.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Zaćisnyć
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Kontrolu pohódnoćenjow zmóžnić
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = Tute poručenje hižo njepokazać
 shopping-callout-not-opted-in-integrated-reminder-show-fewer = Mjenje poručenjow pokazać
 shopping-callout-not-opted-in-integrated-reminder-manage-settings = Nastajenja rjadować
+shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Kontrola pohódnoćenjow so wot { -fakespot-brand-full-name } podpěruje. Hdyž “{ shopping-opt-in-integrated-button }“ wuběraće, zwoliće do <a data-l10n-name="privacy_policy">zdźělenki priwatnosće</a> { -brand-product-name } a <a data-l10n-name="terms_of_use">wužiwanskich wuměnjenjow</a> { -fakespot-brand-name }.
 shopping-opt-in-integrated-button = Kontrolu pohódnoćenjow wupruwować
 
 ## Message strings for Review Checker's empty states.

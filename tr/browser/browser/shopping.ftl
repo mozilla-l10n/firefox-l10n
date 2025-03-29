@@ -257,6 +257,10 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Kapat
+shopping-callout-not-opted-in-integrated-reminder-do-not-show = Bu öneriyi bir daha gösterme
+shopping-callout-not-opted-in-integrated-reminder-show-fewer = Daha az öneri göster
+shopping-callout-not-opted-in-integrated-reminder-manage-settings = Ayarları yönet
 
 ## Message strings for Review Checker's empty states.
 
@@ -271,6 +275,9 @@ shopping-onboarding-welcome-steps-indicator-label =
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-move-right-button = Sağa taşı
+shopping-integrated-new-position-notification-move-left-button = Sola taşı
+shopping-integrated-new-position-notification-dismiss-button = Anladım
 
 ## Combined setting for auto-open and auto-close.
 

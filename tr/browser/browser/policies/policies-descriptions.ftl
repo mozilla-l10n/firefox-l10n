@@ -130,6 +130,7 @@ policy-SearchSuggestEnabled = Arama önerilerini etkinleştir veya devre dışı
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = PKCS #11 modülü ekle veya sil.
 policy-ShowHomeButton = Araç çubuğunda giriş sayfası düğmesini göster.
+policy-SkipTermsOfUse = Kullanım Koşulları’nı ve Gizlilik Bildirimi’ni başlangıçta gösterme.
 policy-SSLVersionMax = Maksimum SSL sürümünü ayarla.
 policy-SSLVersionMin = Minimum SSL sürümünü ayarla.
 policy-StartDownloadsInTempDirectory = İndirmeleri varsayılan indirme dizini yerine geçici bir yerel konumda başlat.

@@ -64,6 +64,9 @@ perftools-button-edit-settings = Ayarları düzenle…
 
 ## More actions menu
 
+perftools-menu-more-actions-button =
+    .title = Diğer eylemler
+perftools-menu-more-actions-copy-for-perf-tests = Performans testleri için parametreleri kopyala
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 

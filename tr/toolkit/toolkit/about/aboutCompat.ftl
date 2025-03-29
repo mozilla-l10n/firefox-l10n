@@ -11,7 +11,7 @@ label-more-information = Daha fazla bilgi: Bug { $bug }
 label-overrides = User Agent Geçersiz Kılmaları
 text-disabled-in-about-config = Bu özellik about:config’de devre dışı bırakılmış
 text-no-interventions = Hiçbir müdahale kullanılmıyor
-text-page-title = Web Uyumlululuğu
+text-page-title = Web Uyumluluğu
 text-no-overrides = Hiçbir UA geçersiz kılması kullanılmıyor
 text-title = about:compat
 

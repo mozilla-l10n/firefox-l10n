@@ -186,6 +186,43 @@ contextual-manager-check-icon-username =
     .alt = Monguatiapyre
 contextual-manager-check-icon-password =
     .alt = Monguatiapyre
+contextual-manager-alert-icon =
+    .alt = Jesarekorã
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = Eike { $url }
+    .title = Eike { $url }
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = Eike { $url } (Kyhyjerã)
+    .title = Visit { $url } (Kyhyjerã)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = Emonguatia poruhára réra { $username }
+    .title = Emonguatia poruhára réra { $username }
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = Emonguatia poruhára réra { $username } (Kyhyjerã)
+    .title = Emonguatia poruhára réra { $username } (Kyhyjerã)
+contextual-manager-password-login-line =
+    .aria-label = Emonguatia Ñe’ẽñemi
+    .title = Emonguatia Ñe’ẽñemi
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = Emonguatia Ñe’ẽñemi (Kyhyjerã)
+    .title = Emonguatia Ñe’ẽñemi (Kyhyjerã)
+contextual-manager-edit-login-button = Mbosako’i
+    .tooltiptext = Embosako’i Ñe’ẽñemi
+contextual-manager-view-alert-heading =
+    .heading = Ehecha kyhyjerã
+contextual-manager-view-alert-button =
+    .tooltiptext = Ehechajey kyhyjerã
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
