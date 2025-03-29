@@ -33,4 +33,3 @@ experimental-features-contextual-password-manager-description = Accedi alle tue 
 experimental-features-custom-wallpaper =
     .label = Scegli uno sfondo o un colore personalizzato per la pagina Nuova scheda
 experimental-features-custom-wallpaper-description = Carica il tuo sfondo o scegli un colore personalizzato per lo sfondo delle nuove schede.
-
