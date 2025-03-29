@@ -73,6 +73,9 @@ perftools-button-edit-settings = Chỉnh sửa cài đặt…
 
 perftools-menu-more-actions-button =
     .title = Hành động khác
+perftools-menu-more-actions-restart-with-profiling = Khởi động lại { -brand-shorter-name } với startup profiling được bật
+perftools-menu-more-actions-copy-for-startup = Sao chép biến môi trường cho startup profiling
+perftools-menu-more-actions-copy-for-perf-tests = Sao chép các tham số cho việc kiểm tra hiệu suất
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
