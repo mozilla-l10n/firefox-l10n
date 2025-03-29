@@ -524,3 +524,4 @@ newtab-section-mangage-topics-followed-topics = Ακολουθούνται
 newtab-section-mangage-topics-followed-topics-empty-state = Δεν έχετε παρακολουθήσει κανένα θέμα ακόμα.
 newtab-section-mangage-topics-blocked-topics = Αποκλεισμένα
 newtab-section-mangage-topics-blocked-topics-empty-state = Δεν έχετε αποκλείσει κανένα θέμα ακόμα.
+newtab-custom-wallpaper-cta = Δοκιμή

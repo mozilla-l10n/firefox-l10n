@@ -260,6 +260,8 @@ shopping-onboarding-welcome-steps-indicator-label =
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Απόρριψη
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Ενεργοποίηση ελέγχου κριτικών
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = Να μην εμφανιστεί ξανά αυτή η πρόταση
+shopping-callout-not-opted-in-integrated-reminder-show-fewer = Εμφάνιση λιγότερων προτάσεων
+shopping-callout-not-opted-in-integrated-reminder-manage-settings = Διαχείριση ρυθμίσεων
 shopping-opt-in-integrated-button = Δοκιμή ελέγχου κριτικών
 
 ## Message strings for Review Checker's empty states.

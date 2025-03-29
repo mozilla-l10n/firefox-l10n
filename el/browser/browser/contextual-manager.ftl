@@ -60,6 +60,7 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
        *[other] Αρχείο TSV
     }
 contextual-manager-passwords-import-success-button = Τέλος
+contextual-manager-passwords-import-error-button-try-again = Δοκιμή ξανά
 contextual-manager-passwords-import-error-button-cancel = Ακύρωση
 contextual-manager-passwords-export-success-button = Τέλος
 contextual-manager-export-passwords-dialog-confirm-button = Συνέχεια με την εξαγωγή
@@ -87,14 +88,29 @@ contextual-manager-passwords-remove-all-confirm-button =
         [1] Αφαίρεση
        *[other] Αφαίρεση όλων
     }
+contextual-manager-passwords-origin-label = Ιστότοπος
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Όνομα χρήστη
+    .data-after = Αντιγράφηκε
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Κωδικός πρόσβασης
+    .data-after = Αντιγράφηκε
+contextual-manager-passwords-add-password-success-button = Προβολή
 contextual-manager-passwords-update-password-success-button = Τέλος
 contextual-manager-passwords-delete-password-success-button = Τέλος
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Αφαίρεση κωδικού πρόσβασης;
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Πίσω
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Αφαίρεση
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Ακύρωση
+contextual-manager-passwords-alert-back-button =
+    .label = Πίσω
+contextual-manager-passwords-alert-list =
+    .aria-label = Λίστα ειδοποιήσεων
+contextual-manager-passwords-change-password-button = Αλλαγή κωδικού πρόσβασης
 
 ## Login Form
 
@@ -105,13 +121,46 @@ contextual-manager-passwords-create-label =
 
 contextual-manager-passwords-list-label =
     .aria-label = Κωδικοί πρόσβασης
+contextual-manager-website-icon =
+    .alt = Εικονίδιο ιστοτόπου
 contextual-manager-copy-icon =
     .alt = Αντιγραφή
+contextual-manager-alert-icon =
+    .alt = Προειδοποίηση
+contextual-manager-password-login-line =
+    .aria-label = Αντιγραφή κωδικού πρόσβασης
+    .title = Αντιγραφή κωδικού πρόσβασης
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = Αντιγραφή κωδικού πρόσβασης (Προειδοποίηση)
+    .title = Αντιγραφή κωδικού πρόσβασης (Προειδοποίηση)
+contextual-manager-edit-login-button = Επεξεργασία
+    .tooltiptext = Επεξεργασία κωδικού πρόσβασης
+contextual-manager-view-alert-heading =
+    .heading = Προβολή ειδοποίησης
+contextual-manager-view-alert-button =
+    .tooltiptext = Έλεγχος ειδοποίησης
+contextual-manager-show-password-button =
+    .aria-label = Εμφάνιση κωδικού πρόσβασης
+    .title = Εμφάνιση κωδικού πρόσβασης
+contextual-manager-hide-password-button =
+    .aria-label = Απόκρυψη κωδικού πρόσβασης
+    .title = Απόκρυψη κωδικού πρόσβασης
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = Δεν βρέθηκαν κωδικοί πρόσβασης
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = Χειροκίνητη προσθήκη
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = Κλείσιμο χωρίς αποθήκευση;
+    .message = Οι αλλαγές σας δεν θα αποθηκευτούν.
+contextual-manager-passwords-discard-changes-close-button = Κλείσιμο
+contextual-manager-passwords-discard-changes-go-back-button = Επιστροφή
