@@ -59,9 +59,19 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] TSV-dokument
        *[other] TSV-fil
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = Passord importerte
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = Nye: { $added }, Oppdaterte: { $modified }
+contextual-manager-passwords-import-detailed-report = Vis detaljert rapport
 contextual-manager-passwords-import-success-button = Ferdig
 contextual-manager-passwords-import-error-button-try-again = Prøv på nytt
 contextual-manager-passwords-import-error-button-cancel = Avbryt
+contextual-manager-passwords-import-learn-more = Les meir om å importere passord
+contextual-manager-passwords-export-success-heading =
+    .heading = Passord eksporterte
 contextual-manager-passwords-export-success-button = Ferdig
 contextual-manager-export-passwords-dialog-confirm-button = Hald fram med eksport
 # Title of the file picker dialog

@@ -332,6 +332,9 @@ quickactions-cmd-addons2 = tillegg
 quickactions-bookmarks2 = Handsam bokmerke
 quickactions-cmd-bookmarks = bokmerke
 # Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Tøm nyleg historikk
+quickactions-cmd-clearrecenthistory = Tøm nyleg historikk, historikk
+# Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Tøm historikk
 quickactions-cmd-clearhistory = tøm historikk
 # Opens about:downloads page
@@ -342,6 +345,9 @@ quickactions-extensions = Handsam utviding
 quickactions-cmd-extensions = Utvidingar
 # Opens Firefox View
 quickactions-firefoxview = Opne { -firefoxview-brand-name }
+# Opens SUMO home page
+quickactions-help = { -brand-product-name }-hjelp
+quickactions-cmd-help = hjelp, brukarstøtte
 # Opens the devtools web inspector
 quickactions-inspector2 = Opne utviklarverktøy
 quickactions-cmd-inspector = inspektør, utviklarverktøy

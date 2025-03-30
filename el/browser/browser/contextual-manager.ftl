@@ -188,6 +188,28 @@ contextual-manager-check-icon-password =
     .alt = Αντιγράφηκε
 contextual-manager-alert-icon =
     .alt = Προειδοποίηση
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = Επίσκεψη στο { $url }
+    .title = Επίσκεψη στο { $url }
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = Επίσκεψη στο { $url } (Προειδοποίηση)
+    .title = Επίσκεψη στο { $url } (Προειδοποίηση)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = Αντιγραφή ονόματος χρήστη { $username }
+    .title = Αντιγραφή ονόματος χρήστη { $username }
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = Αντιγραφή ονόματος χρήστη { $username } (Προειδοποίηση)
+    .title = Αντιγραφή ονόματος χρήστη { $username } (Προειδοποίηση)
 contextual-manager-password-login-line =
     .aria-label = Αντιγραφή κωδικού πρόσβασης
     .title = Αντιγραφή κωδικού πρόσβασης
