@@ -254,6 +254,8 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 ## Review Checker in Integrated sidebar
 
+# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
+shopping-opt-in-integrated-headline = Покупайте с уверенностью
 # Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
 # Variables:
 #   $firstSite (String) - The first shopping page name
@@ -306,6 +308,24 @@ shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Нажмите к�
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-title = Та же Проверка отзывов, но в новом месте
+shopping-integrated-new-position-notification-move-right-subtitle = Оставьте Проверку отзывов и всю боковую панель { -brand-product-name } здесь — или переместите вправо. Переключиться можно сейчас или в любое время в <a data-l10n-name="sidebar_settings">настройках боковой панели</a>.
+shopping-integrated-new-position-notification-move-left-subtitle = Оставьте Проверку отзывов и всю боковую панель { -brand-product-name } здесь — или переместите влево. Переключиться можно сейчас или в любое время в <a data-l10n-name="sidebar_settings">настройках боковой панели</a>.
+shopping-integrated-new-position-notification-move-right-button = Переместить вправо
+shopping-integrated-new-position-notification-move-left-button = Переместить влево
+shopping-integrated-new-position-notification-dismiss-button = Понятно
 
 ## Combined setting for auto-open and auto-close.
 
+shopping-settings-auto-open-and-close-toggle =
+    .label = Автоматически открывать и закрывать Проверку отзывов
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-and-close-description-three-sites = Открывается при просмотре товаров на { $firstSite }, { $secondSite } и { $thirdSite }, и закрывается при выходе с сайта
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-and-close-description-single-site = Открывается при просмотре товаров на { $currentSite } и закрывается при выходе с сайта

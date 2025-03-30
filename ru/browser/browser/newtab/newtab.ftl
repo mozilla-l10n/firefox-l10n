@@ -525,3 +525,7 @@ newtab-section-mangage-topics-followed-topics = Подписки
 newtab-section-mangage-topics-followed-topics-empty-state = Вы пока не отслеживаете ни одну тему.
 newtab-section-mangage-topics-blocked-topics = Заблокированы
 newtab-section-mangage-topics-blocked-topics-empty-state = Вы пока не заблокировали ни одной темы.
+newtab-custom-wallpaper-title = Пользовательские обои здесь
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle = Загрузите свои обои или выберите цвет оформления, чтобы настроить { -brand-product-name } под себя.
+newtab-custom-wallpaper-cta = Попробовать
