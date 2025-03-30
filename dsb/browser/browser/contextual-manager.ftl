@@ -274,11 +274,29 @@ contextual-manager-show-password-button =
 contextual-manager-hide-password-button =
     .aria-label = Gronidło schowaś
     .title = Gronidło schowaś
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = Žedne gronidła namakane
+contextual-manager-passwords-no-passwords-found-message = Žedne gronidła namakane. Pytajśo za drugim wurazom a wopytajśo hyšći raz.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = Składujśo swóje gronidła na wěstem městnje.
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = Wšykne gronidła su skoděrowane a my glědamy za datowych źěrami a warnowanjami, jolic sćo pótrjefjony.
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = Pśidajśo je how, aby zachopił.
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = Manuelnje pśidaś
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = Bźez składowanja zacyniś?
+    .message = Waše změny se njeskładuju.
+contextual-manager-passwords-discard-changes-close-button = Zacyniś
+contextual-manager-passwords-discard-changes-go-back-button = Slědk

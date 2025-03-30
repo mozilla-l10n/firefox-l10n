@@ -83,14 +83,71 @@ contextual-manager-passwords-remove-all-confirm-button =
         [few] Odstrániť všetky
        *[other] Odstrániť všetky
     }
+contextual-manager-passwords-origin-label = Webová stránka
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Používateľské meno
+    .data-after = Skopírované
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Heslo
+    .data-after = Skopírované
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Filtrovať heslá
+contextual-manager-passwords-add-password-success-button = Zobraziť
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = Heslo a používateľské meno pre stránku { $url } už existuje
+contextual-manager-passwords-password-already-exists-error-button = Prejsť na heslo
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Heslo bolo uložené
 contextual-manager-passwords-update-password-success-button = Hotovo
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] Heslo bolo odstránené
+            [one] Heslo bolo odstránené
+            [few] Heslá boli odstránené
+            [many] Heslá boli odstránené
+           *[other] Heslá boli odstránené
+        }
 contextual-manager-passwords-delete-password-success-button = Hotovo
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = Všetky ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = Upozornenia ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Odstrániť heslo?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = Túto akciu nemôžete vrátiť späť.
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Naspäť
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Odstrániť
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Zrušiť
+contextual-manager-passwords-alert-card =
+    .aria-label = Upozornenia na heslá
+contextual-manager-passwords-alert-back-button =
+    .label = Naspäť
+contextual-manager-passwords-alert-list =
+    .aria-label = Zoznam upozornení
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = Odporúča sa zmeniť heslo
+    .message = Heslá z tohto webu boli nahlásené ako ukradnuté alebo unikli. Zmeňte si heslo, aby ste ochránili svoj účet.
+contextual-manager-passwords-breached-origin-link-message = Ako sa { -brand-product-name } dozvie o únikoch?
+contextual-manager-passwords-change-password-button = Zmeniť heslo
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = Odporúča sa zmeniť heslo
+    .message = Toto heslo je ľahko uhádnuteľné. Zmeňte si heslo, aby ste ochránili svoj účet.
+contextual-manager-passwords-vulnerable-password-link-message = Ako { -brand-product-name } vie o slabých heslách?
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Pridajte používateľské meno
+    .message = Pridajte ho, aby ste sa mohli rýchlejšie prihlásiť.
 
 ## Login Form
 
@@ -103,6 +160,22 @@ contextual-manager-passwords-list-label =
     .aria-label = Heslá
 contextual-manager-copy-icon =
     .alt = Kopírovať
+contextual-manager-password-login-line =
+    .aria-label = Kopírovať heslo
+    .title = Kopírovať heslo
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = Kopírovať heslo (upozornenie)
+    .title = Kopírovať heslo (upozornenie)
+contextual-manager-edit-login-button = Upraviť
+    .tooltiptext = Upraviť heslo
+contextual-manager-view-alert-heading =
+    .heading = Zobraziť upozornenie
+contextual-manager-view-alert-button =
+    .tooltiptext = Skontrolovať upozornenie
+contextual-manager-show-password-button =
+    .aria-label = Zobraziť heslo
+    .title = Zobraziť heslo
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
