@@ -332,6 +332,8 @@ quickactions-cmd-addons2 = pengaya
 quickactions-bookmarks2 = Kelola markah
 quickactions-cmd-bookmarks = markah
 # Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Bersihkan riwayat terakhir
+# Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Bersihkan Riwayat
 quickactions-cmd-clearhistory = bersihkan riwayat
 # Opens about:downloads page
@@ -340,6 +342,10 @@ quickactions-cmd-downloads = unduhan
 # Opens about:addons page in the extensions section
 quickactions-extensions = Kelola ekstensi
 quickactions-cmd-extensions = ekstensi
+# Opens Firefox View
+quickactions-firefoxview = Buka { -firefoxview-brand-name }
+# Opens SUMO home page
+quickactions-help = Bantuan { -brand-product-name }
 # Opens the devtools web inspector
 quickactions-inspector2 = Buka Perangkat Pengembang
 quickactions-cmd-inspector = inspektur, perangkat pengembang

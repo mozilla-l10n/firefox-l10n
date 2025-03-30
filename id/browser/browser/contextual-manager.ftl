@@ -6,6 +6,10 @@ contextual-manager-filter-input =
     .placeholder = Cari Sandi
     .key = F
     .aria-label = Cari Sandi
+contextual-manager-menu-more-options-button =
+    .title = Opsi lainnya
+contextual-manager-more-options-popup =
+    .aria-label = Opsi Lainnya
 
 ## Passwords
 
