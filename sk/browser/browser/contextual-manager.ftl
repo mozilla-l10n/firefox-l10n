@@ -259,9 +259,19 @@ contextual-manager-passwords-no-passwords-found-message = Nenašli sa žiadne he
 
 # This string encourages the user to save their passwords in Firefox (the "safe spot").
 contextual-manager-passwords-no-passwords-header = Uložte si heslá na bezpečné miesto.
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = Všetky heslá sú šifrované, a navyše pre vás budeme sledovať úniky údajov a upozorníme vás, ak sa vás to týka.
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = Ak chcete začať, pridajte ich sem.
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = Pridať manuálne
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = Zatvoriť bez uloženia?
+    .message = Vykonané zmeny sa neuložia.
 contextual-manager-passwords-discard-changes-close-button = Zavrieť
 contextual-manager-passwords-discard-changes-go-back-button = Prejsť naspäť

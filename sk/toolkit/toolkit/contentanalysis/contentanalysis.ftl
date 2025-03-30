@@ -13,6 +13,17 @@ contentanalysis-slow-agent-dialog-header = Prebieha skenovanie
 contentanalysis-slow-agent-dialog-body-file = { $agent } kontroluje súbor “{ $filename }” vzhľadom na pravidlá správy údajov vo vašej organizácii. Môže to chvíľu trvať.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
+#   $filename - Name of a file being analyzed, such as "aFile.txt"
+#   $count (number) - The number of additional items in the request for analysis
+contentanalysis-slow-agent-dialog-body-file-and-more =
+    { $count ->
+        [one] { $agent } kontroluje súbor “{ $filename }” a { $count } ďalšiu položku v súlade s pravidlami správy údajov vo vašej organizácii. Môže to chvíľu trvať.
+        [few] { $agent } kontroluje súbor “{ $filename }” a { $count } ďalšie položky v súlade s pravidlami správy údajov vo vašej organizácii. Môže to chvíľu trvať.
+        [many] { $agent } kontroluje súbor “{ $filename }” a { $count } ďalších položiek v súlade s pravidlami správy údajov vo vašej organizácii. Môže to chvíľu trvať.
+       *[other] { $agent } kontroluje súbor “{ $filename }” a { $count } ďalších položiek v súlade s pravidlami správy údajov vo vašej organizácii. Môže to chvíľu trvať.
+    }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } kontroluje kopírovaný obsah vzhľadom na pravidlá správy údajov vo vašej organizácii. Môže to chvíľu trvať.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
