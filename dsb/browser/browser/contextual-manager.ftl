@@ -61,12 +61,31 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = Gronidła su se importěrowali
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = Nowy: { $added }, zaktualizěrowany: { $modified }
+contextual-manager-passwords-import-detailed-report = Nadrobnu rozpšawu pokazaś
 contextual-manager-passwords-import-success-button = Dokóńcone
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = Gronidła njedaju se importěrowaś
+    .message = Zawěsććo, až waša dataja słup za websedła, wužywaŕske mjenja a gronidła wopśimujo.
+contextual-manager-passwords-import-error-button-try-again = Hyšći raz wopytaś
 contextual-manager-passwords-import-error-button-cancel = Pśetergnuś
+contextual-manager-passwords-import-learn-more = Zgóńśo wěcej wó importěrowanju gronidłow
+contextual-manager-passwords-export-success-heading =
+    .heading = Gronidła su se eksportěrowali
 contextual-manager-passwords-export-success-button = Dokóńcone
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = Gronidła do dataje eksportěrowaś?
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = Pórucamy jo pó eksportěrowanju lašowaś, až njeby druge wužywarje, kótarež snaź toś ten rěd wužywaju, waše gronidła wiźeli.
 contextual-manager-export-passwords-dialog-confirm-button = Z eksportom pókšacowaś
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Gronidła z { -brand-short-name } eksportěrowaś
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = gronidła
 contextual-manager-passwords-export-file-picker-export-button = Eksportěrowaś
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -74,6 +93,16 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] CSV-dokument
        *[other] CSV-dataja
+    }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] Gronidłow wótwónoźeś?
+        [one] { $total } gronidło wótwónoźeś?
+        [two] { $total } gronidle wótwónoźeś?
+        [few] { $total } gronidła wótwónoźeś?
+       *[other] Wšykne { $total } gronidłow wótwónoźeś?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
@@ -94,6 +123,16 @@ contextual-manager-passwords-remove-all-confirm-button =
         [two] Wše wótwónoźeś
         [few] Wše wótwónoźeś
        *[other] Wše wótwónoźeś
+    }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] To gronidło, kótarež jo se składło w { -brand-short-name } a warnowanja wó datowych źěrach wótwónoźijo.
+        [one] To { $total } gronidło, kótarež jo se składło w { -brand-short-name } a warnowanja wó datowych źěrach wótwónoźijo.
+        [two] To { $total } gronidle, kótarejž stej se składłej w { -brand-short-name } a warnowanja wó datowych źěrach wótwónoźijo.
+        [few] To { $total } gronidła, kótarež su se składli w { -brand-short-name } a warnowanja wó datowych źěrach wótwónoźijo.
+       *[other] To { $total } gronidłow, kótarež jo se składło w { -brand-short-name } a warnowanja wó datowych źěrach wótwónoźijo.
     }
 contextual-manager-passwords-update-password-success-button = Dokóńcone
 contextual-manager-passwords-delete-password-success-button = Dokóńcone
