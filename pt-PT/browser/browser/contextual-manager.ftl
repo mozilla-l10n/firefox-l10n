@@ -6,13 +6,21 @@ contextual-manager-filter-input =
     .placeholder = Pesquisar palavras-passe
     .key = F
     .aria-label = Pesquisar palavras-passe
+contextual-manager-menu-more-options-button =
+    .title = Mais opções
+contextual-manager-more-options-popup =
+    .aria-label = Mais Opções
 
 ## Passwords
 
 contextual-manager-passwords-command-create = Adicionar palavra-passe
 contextual-manager-passwords-command-import-from-browser = Importar de outro navegador…
 contextual-manager-passwords-command-import = Importar de um ficheiro:
+contextual-manager-passwords-command-export = Exportar palavras-passe
+contextual-manager-passwords-command-remove-all = Remover todas as palavras-passe
+contextual-manager-passwords-command-settings = Definições
 contextual-manager-passwords-command-help = Ajuda
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Para exportar as suas palavras-passe, insira as suas credenciais de autenticação do Windows. Isto ajuda a proteger a segurança das suas contas.
 # This message can be seen when attempting to export a password in about:logins
@@ -35,6 +43,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Para cop
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = copiar a palavra-passe guardada
+contextual-manager-passwords-import-file-picker-title = Importar Palavras-passe
 contextual-manager-passwords-import-file-picker-import-button = Importar
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -50,12 +59,33 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] Documento TSV
        *[other] Ficheiro TSV
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = Palavras-passe importadas
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = Novas: { $added }; Atualizadas: { $modified }
+contextual-manager-passwords-import-detailed-report = Ver relatório detalhado
 contextual-manager-passwords-import-success-button = Concluído
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = Não foi possível importar as palavras-passe
+    .message = Verifique se o seu ficheiro inclui uma coluna para os sites, nomes de utilizador e palavras-passe.
+contextual-manager-passwords-import-error-button-try-again = Tentar novamente
 contextual-manager-passwords-import-error-button-cancel = Cancelar
+contextual-manager-passwords-import-learn-more = Saber mais sobre a importação de palavras-passe
+contextual-manager-passwords-export-success-heading =
+    .heading = Palavras-passe exportadas
 contextual-manager-passwords-export-success-button = Concluído
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = Exportar palavras-passe para ficheiro?
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = Depois de exportar, nós recomendamos a sua eliminação para que outros que possam utilizar este dispositivo não possam ver as suas palavras-passe.
 contextual-manager-export-passwords-dialog-confirm-button = Continuar com a exportação
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Exportar palavras-passe do { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = palavras-passe
 contextual-manager-passwords-export-file-picker-export-button = Exportar
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -63,6 +93,14 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] Documento CSV
        *[other] Ficheiro CSV
+    }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] Remover palavra-passe?
+        [one] Remover uma palavra-passe?
+       *[other] Remover todas as { $total } palavras-passe?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
@@ -79,14 +117,89 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Remover
        *[other] Remover tudo
     }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] Isto irá remover a sua palavra-passe guardada no { -brand-short-name } e quaisquer alertas de violação de dados. Não poderá anular esta ação.
+        [one] Isto irá remover a sua palavra-passe guardada no { -brand-short-name } e quaisquer alertas de violação de dados. Não poderá anular esta ação.
+       *[other] Isto irá remover as suas palavras-passe guardadas no { -brand-short-name } e quaisquer alertas de violação de dados. Não poderá anular esta ação.
+    }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] Isto irá remover a palavra-passe guardada no { -brand-short-name } em todos os dispositivos sincronizados e remover quaisquer alertas de violação de dados. Não pode anular esta ação.
+        [one] Isto irá remover a palavra-passe guardada no { -brand-short-name } em todos os dispositivos sincronizados e remover quaisquer alertas de violação de dados. Não pode anular esta ação.
+       *[other] Isto irá remover as palavras-passe guardadas no { -brand-short-name } em todos os dispositivos sincronizados e remover quaisquer alertas de violação de dados. Não pode anular esta ação.
+    }
+contextual-manager-passwords-origin-label = Website
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Nome de utilizador
+    .data-after = Copiado
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Palavra-passe
+    .data-after = Copiada
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Filtrar palavras-passe
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = Palavra-passe adicionada para { $url }
+contextual-manager-passwords-add-password-success-button = Ver
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = Já existe uma palavra-passe e um nome de utilizador para { $url }
+contextual-manager-passwords-password-already-exists-error-button = Ir para a palavra-passe
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Palavra-passe guardada
 contextual-manager-passwords-update-password-success-button = Concluído
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] Palavra-passe removida
+            [one] Palavra-passe removida
+           *[other] Palavras-passe removidas
+        }
 contextual-manager-passwords-delete-password-success-button = Concluído
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = Tudo ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = Alertas ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Remover palavra-passe
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = Não pode anular isto.
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Voltar
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Remover
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Cancelar
+contextual-manager-passwords-alert-card =
+    .aria-label = Alertas de palavra-passe
+contextual-manager-passwords-alert-back-button =
+    .label = Voltar
+contextual-manager-passwords-alert-list =
+    .aria-label = Lista de alertas
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = Recomendada a alteração da palavra-passe
+    .message = As palavras-passe deste site foram reportadas como roubadas ou divulgadas. Altere a sua palavra-passe para proteger a sua conta.
+contextual-manager-passwords-breached-origin-link-message = Como é que o { -brand-product-name } sabe sobre as violações de dados?
+contextual-manager-passwords-change-password-button = Alterar palavra-passe
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = Recomendada a alteração da palavra-passe
+    .message = Esta palavra-passe é fácil de adivinhar. Altere-a para proteger a sua conta.
+contextual-manager-passwords-vulnerable-password-link-message = Como é que o { -brand-product-name } sabe sobre as palavras-passe fracas?
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Adicionar um nome de utilizador
+    .message = Adicione um para se autenticar rapidamente.
 
 ## Login Form
 
