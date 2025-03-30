@@ -224,11 +224,36 @@ contextual-manager-password-login-line =
 contextual-manager-password-login-line-with-alert =
     .aria-label = Kopírovat heslo (upozornění)
     .title = Kopírovat heslo (upozornění)
+contextual-manager-edit-login-button = Upravit
+    .tooltiptext = Upravit heslo
+contextual-manager-view-alert-heading =
+    .heading = Zobrazit upozornění
+contextual-manager-view-alert-button =
+    .tooltiptext = Zkontrolovat upozornění
+contextual-manager-show-password-button =
+    .aria-label = Zobrazit heslo
+    .title = Zobrazit heslo
+contextual-manager-hide-password-button =
+    .aria-label = Skrýt heslo
+    .title = Skrýt heslo
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = Nebyla nalezena žádná hesla
+contextual-manager-passwords-no-passwords-found-message = Nebyla nalezena žádná hesla. Vyhledejte jiný výraz a zkuste to znovu.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = Uložte si hesla na bezpečné místo.
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = Přidat ručně
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = Zavřít bez uložení?
+    .message = Vaše změny se neuloží.
+contextual-manager-passwords-discard-changes-close-button = Zavřít
+contextual-manager-passwords-discard-changes-go-back-button = Zpátky

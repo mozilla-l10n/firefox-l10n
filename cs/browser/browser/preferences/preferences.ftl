@@ -1519,6 +1519,7 @@ preferences-collection-description =
        *[no-cases] Snažíme se vám poskytnout možnost volby a shromažďovat pouze minimum údajů nezbytných pro zlepšení aplikace { -brand-product-name } pro všechny.
     }
 preferences-collection-privacy-notice = Zobrazit zásady ochrany osobních údajů
+preferences-view-profiles = Zobrazit všechny profily
 collection-description =
     { -brand-short-name.case-status ->
         [with-cases] S daty vám dáváme vždy na výběr a sbíráme jen data potřebná pro vylepšování { -brand-short-name(case: "gen") }. Před odesíláním osobních dat vždy žádáme o váš souhlas.
