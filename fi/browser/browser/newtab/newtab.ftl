@@ -524,3 +524,7 @@ newtab-section-mangage-topics-followed-topics = Seurattu
 newtab-section-mangage-topics-followed-topics-empty-state = Et ole vielä seurannut yhtäkään aihetta.
 newtab-section-mangage-topics-blocked-topics = Estetty
 newtab-section-mangage-topics-blocked-topics-empty-state = Et ole vielä estänyt yhtäkään aihetta.
+newtab-custom-wallpaper-title = Mukautetut taustakuvat ovat täällä
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle = Valitse oma taustakuvasi tai mukautettu väri ja tee { -brand-product-name }ista mieluisesi.
+newtab-custom-wallpaper-cta = Kokeile

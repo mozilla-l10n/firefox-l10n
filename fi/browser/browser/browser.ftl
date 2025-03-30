@@ -332,6 +332,8 @@ quickactions-cmd-addons2 = lisäosat
 quickactions-bookmarks2 = Hallitse kirjanmerkkejä
 quickactions-cmd-bookmarks = kirjanmerkit
 # Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Tyhjennä viimeaikainen historia
+# Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Tyhjennä historia
 quickactions-cmd-clearhistory = tyhjennä historia
 # Opens about:downloads page
@@ -340,6 +342,8 @@ quickactions-cmd-downloads = lataukset
 # Opens about:addons page in the extensions section
 quickactions-extensions = Hallitse laajennuksia
 quickactions-cmd-extensions = laajennukset
+# Opens Firefox View
+quickactions-firefoxview = Avaa { -firefoxview-brand-name }
 # Opens the devtools web inspector
 quickactions-inspector2 = Avaa kehittäjätyökalut
 quickactions-cmd-inspector = tarkastaja, inspector, devtools
