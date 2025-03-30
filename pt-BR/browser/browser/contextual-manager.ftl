@@ -6,13 +6,21 @@ contextual-manager-filter-input =
     .placeholder = Pesquisar senhas
     .key = F
     .aria-label = Pesquisar senhas
+contextual-manager-menu-more-options-button =
+    .title = Mais opções
+contextual-manager-more-options-popup =
+    .aria-label = Mais opções
 
 ## Passwords
 
 contextual-manager-passwords-command-create = Adicionar senha
 contextual-manager-passwords-command-import-from-browser = Importar de outro navegador…
 contextual-manager-passwords-command-import = Importar de um arquivo…
+contextual-manager-passwords-command-export = Exportar senhas
+contextual-manager-passwords-command-remove-all = Remover todas as senhas
+contextual-manager-passwords-command-settings = Configurações
 contextual-manager-passwords-command-help = Ajuda
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Para exportar suas senhas, insira suas credenciais de acesso ao Windows. Isso ajuda a proteger a segurança de suas contas.
 # This message can be seen when attempting to export a password in about:logins
@@ -35,6 +43,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Para cop
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = copiar a senha salva
+contextual-manager-passwords-import-file-picker-title = Importar senhas
 contextual-manager-passwords-import-file-picker-import-button = Importar
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -50,6 +59,8 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] Documento TSV
        *[other] Arquivo TSV
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = Senhas importadas
 contextual-manager-passwords-import-success-button = Concluído
 contextual-manager-passwords-import-error-button-cancel = Cancelar
 contextual-manager-passwords-export-success-button = Concluído
