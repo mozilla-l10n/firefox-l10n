@@ -295,7 +295,7 @@ contextual-manager-passwords-no-passwords-header = Uložte si heslá na bezpečn
 # passwords may be involved in.
 contextual-manager-passwords-no-passwords-message = Všetky heslá sú šifrované, a navyše pre vás budeme sledovať úniky údajov a upozorníme vás, ak sa vás to týka.
 # This string encourages the user to save their passwords to Firefox again.
-contextual-manager-passwords-no-passwords-get-started-message = Ak chcete začať, pridajte ich sem.
+contextual-manager-passwords-no-passwords-get-started-message = Ak chcete začať, pridajte ich tu.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Pridať manuálne
 

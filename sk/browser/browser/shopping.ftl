@@ -279,6 +279,12 @@ shopping-integrated-callout-opted-out-title = Kontrola recenzií je vypnutá
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-title = Rovnaká Kontrola recenzií, nové miesto
+shopping-integrated-new-position-notification-move-right-button = Presunúť doprava
+shopping-integrated-new-position-notification-move-left-button = Presunúť doľava
+shopping-integrated-new-position-notification-dismiss-button = Rozumiem
 
 ## Combined setting for auto-open and auto-close.
 
+shopping-settings-auto-open-and-close-toggle =
+    .label = Automaticky otvárať a zatvárať nástroj Kontrola recenzií

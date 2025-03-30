@@ -6,13 +6,21 @@ contextual-manager-filter-input =
     .placeholder = Hledat v heslech
     .key = F
     .aria-label = Hledat v heslech
+contextual-manager-menu-more-options-button =
+    .title = Další možnosti
+contextual-manager-more-options-popup =
+    .aria-label = Další možnosti
 
 ## Passwords
 
 contextual-manager-passwords-command-create = Přidat heslo
 contextual-manager-passwords-command-import-from-browser = Importovat z jiného prohlížeče…
 contextual-manager-passwords-command-import = Importovat ze souboru
+contextual-manager-passwords-command-export = Exportovat hesla
+contextual-manager-passwords-command-remove-all = Odstranit všechna hesla
+contextual-manager-passwords-command-settings = Nastavení
 contextual-manager-passwords-command-help = Nápověda
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Chcete-li exportovat hesla, zadejte přihlašovací údaje do systému Windows. To pomáhá chránit bezpečnost vašich účtů.
 # This message can be seen when attempting to export a password in about:logins
@@ -35,6 +43,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Pro zkop
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = zkopírovat uložené heslo
+contextual-manager-passwords-import-file-picker-title = Importovat hesla
 contextual-manager-passwords-import-file-picker-import-button = Importovat
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -50,6 +59,8 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] Dokument TSV
        *[other] Soubor TSV
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = Hesla byla naimportována
 contextual-manager-passwords-import-success-button = Hotovo
 contextual-manager-passwords-import-error-button-cancel = Zrušit
 contextual-manager-passwords-export-success-button = Hotovo

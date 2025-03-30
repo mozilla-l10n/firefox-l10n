@@ -363,6 +363,19 @@ quickactions-cmd-downloads = stahování
 # Opens about:addons page in the extensions section
 quickactions-extensions = Správa rozšíření
 quickactions-cmd-extensions = rozšíření
+# Opens Firefox View
+quickactions-firefoxview = Otevřít { -firefoxview-brand-name(case: "acc") }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = otevřít { -firefoxview-brand-name }, { -firefoxview-brand-name }, otevřít přehled, přehled
+# Opens SUMO home page
+quickactions-help =
+    { -brand-product-name.case-status ->
+        [with-cases] Nápověda { -brand-product-name(case: "gen") }
+       *[no-cases] Nápověda aplikace { -brand-product-name }
+    }
+quickactions-cmd-help = nápověda, podpora
 # Opens the devtools web inspector
 quickactions-inspector2 = Otevřít nástroje pro vývojáře
 quickactions-cmd-inspector = průzkumník, nástroje pro vývojáře, devtools
