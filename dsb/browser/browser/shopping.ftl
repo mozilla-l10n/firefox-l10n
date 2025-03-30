@@ -259,6 +259,15 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-opt-in-integrated-headline = Móžośo toś tym pógódnośenjam dowěriś?
+shopping-callout-not-opted-in-integrated-paragraph2 = Gaž “{ shopping-opt-in-integrated-button }“ wuběraśo, zwolijośo do <a data-l10n-name="privacy_policy">powěźeńki priwatnosći</a> { -brand-product-name } a <a data-l10n-name="terms_of_use">wužywańskich wuměnjenjow</a> { -fakespot-brand-full-name }.
+shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Zachyśiś
+shopping-callout-not-opted-in-integrated-reminder-accept-button = Kontrolu pógódnośenjow zmóžniś
+shopping-callout-not-opted-in-integrated-reminder-do-not-show = Toś to pórucenje wěcej njepokazaś
+shopping-callout-not-opted-in-integrated-reminder-show-fewer = Mjenjej pórucenjow pokazaś
+shopping-callout-not-opted-in-integrated-reminder-manage-settings = Nastajenja zastojaś
+shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Kontrola pógódnośenjow se wót { -fakespot-brand-full-name } pódpěra. Gaž “{ shopping-opt-in-integrated-button }“ wuběraśo, zwolijośo do <a data-l10n-name="privacy_policy">powěźeńki priwatnosći</a> { -brand-product-name } a <a data-l10n-name="terms_of_use">wužywańskich wuměnjenjow</a> { -fakespot-brand-name }.
+shopping-opt-in-integrated-button = Kontrolu pógódnośenjow wopytaś
 
 ## Message strings for Review Checker's empty states.
 

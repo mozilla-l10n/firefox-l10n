@@ -202,6 +202,9 @@ contextual-manager-passwords-alert-back-button =
 contextual-manager-passwords-alert-list =
     .aria-label = Lisćina warnowanjow
 contextual-manager-passwords-change-password-button = Gronidło změniś
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Pśidajśo wužywaŕske mě
+    .message = Pśidajśo take, aby se malsnjej pśizjawił.
 
 ## Login Form
 
