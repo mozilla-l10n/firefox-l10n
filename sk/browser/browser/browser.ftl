@@ -332,6 +332,9 @@ quickactions-cmd-addons2 = doplnky
 quickactions-bookmarks2 = Spravovať záložky
 quickactions-cmd-bookmarks = záložky
 # Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Vymazať nedávnu históriu
+quickactions-cmd-clearrecenthistory = vymazať nedávnu históriu, história
+# Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Vymazať históriu
 quickactions-cmd-clearhistory = vymazať históriu
 # Opens about:downloads page
@@ -340,6 +343,15 @@ quickactions-cmd-downloads = stiahnuté súbory
 # Opens about:addons page in the extensions section
 quickactions-extensions = Spravovať rozšírenia
 quickactions-cmd-extensions = rozšírenia
+# Opens Firefox View
+quickactions-firefoxview = Otvoriť { -firefoxview-brand-name(case: "acc") }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = otvoriť { -firefoxview-brand-name(case: "acc") }, { -firefoxview-brand-name }, otvoriť prehľad, prehľad
+# Opens SUMO home page
+quickactions-help = Pomocník { -brand-product-name(case: "gen") }
+quickactions-cmd-help = pomocník, podpora
 # Opens the devtools web inspector
 quickactions-inspector2 = Otvoriť Nástroje pre vývojárov
 quickactions-cmd-inspector = prieskumník, vývojárske nástroje

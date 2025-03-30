@@ -6,13 +6,21 @@ contextual-manager-filter-input =
     .placeholder = Hľadať v heslách
     .key = F
     .aria-label = Hľadať v heslách
+contextual-manager-menu-more-options-button =
+    .title = Ďalšie možnosti
+contextual-manager-more-options-popup =
+    .aria-label = Ďalšie možnosti
 
 ## Passwords
 
 contextual-manager-passwords-command-create = Pridať heslo
 contextual-manager-passwords-command-import-from-browser = Importovať z iného prehliadača…
 contextual-manager-passwords-command-import = Importovať zo súboru…
+contextual-manager-passwords-command-export = Exportovať heslá
+contextual-manager-passwords-command-remove-all = Odstrániť všetky heslá
+contextual-manager-passwords-command-settings = Nastavenia
 contextual-manager-passwords-command-help = Pomocník
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Ak chcete exportovať svoje heslá, zadajte svoje prihlasovacie údaje k systému Windows. Toto opatrenie nám pomáha v zabezpečení vašich účtov.
 # This message can be seen when attempting to export a password in about:logins
@@ -35,6 +43,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Ak chcet
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = skopírovať uložené heslo
+contextual-manager-passwords-import-file-picker-title = Importovať heslá
 contextual-manager-passwords-import-file-picker-import-button = Importovať
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -50,12 +59,22 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] Dokument TSV
        *[other] Súbor TSV
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = Heslá boli importované
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = Nové: { $added }, aktualizované: { $modified }
+contextual-manager-passwords-import-detailed-report = Zobraziť podrobnú správu
 contextual-manager-passwords-import-success-button = Hotovo
 contextual-manager-passwords-import-error-button-cancel = Zrušiť
 contextual-manager-passwords-export-success-button = Hotovo
 contextual-manager-export-passwords-dialog-confirm-button = Pokračovať v exporte
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Export hesiel z { -brand-short-name(case: "gen") }
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = heslá
 contextual-manager-passwords-export-file-picker-export-button = Exportovať
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -92,6 +111,10 @@ contextual-manager-passwords-password-label = Heslo
     .data-after = Skopírované
 contextual-manager-passwords-radiogroup-label =
     .aria-label = Filtrovať heslá
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = Heslo pre stránku { $url } bolo pridané
 contextual-manager-passwords-add-password-success-button = Zobraziť
 # Variables
 #   $url (string) - The url associated with the existing login
@@ -176,10 +199,19 @@ contextual-manager-view-alert-button =
 contextual-manager-show-password-button =
     .aria-label = Zobraziť heslo
     .title = Zobraziť heslo
+contextual-manager-hide-password-button =
+    .aria-label = Skryť heslo
+    .title = Skryť heslo
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = Neboli nájdené žiadne heslá
+contextual-manager-passwords-no-passwords-found-message = Nenašli sa žiadne heslá. Vyhľadajte iný výraz a skúste to znova.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = Uložte si heslá na bezpečné miesto.
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.

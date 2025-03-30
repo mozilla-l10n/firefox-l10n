@@ -254,9 +254,15 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 ## Review Checker in Integrated sidebar
 
+# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
+shopping-opt-in-integrated-headline = Nakupujte s istotou
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Zavrieť
+shopping-callout-not-opted-in-integrated-reminder-do-not-show = Toto odporúčanie už nezobrazovať
+shopping-callout-not-opted-in-integrated-reminder-show-fewer = Zobrazovať menej odporúčaní
+shopping-callout-not-opted-in-integrated-reminder-manage-settings = Spravovať nastavenia
 
 ## Message strings for Review Checker's empty states.
 

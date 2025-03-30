@@ -521,3 +521,4 @@ newtab-section-mangage-topics-followed-topics = Sledované
 newtab-section-mangage-topics-followed-topics-empty-state = Zatiaľ nesledujete žiadne témy.
 newtab-section-mangage-topics-blocked-topics = Zablokované
 newtab-section-mangage-topics-blocked-topics-empty-state = Zatiaľ ste nezablokovali žiadne témy.
+newtab-custom-wallpaper-cta = Vyskúšajte to
