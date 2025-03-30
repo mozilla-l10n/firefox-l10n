@@ -239,7 +239,7 @@ shopping-onboarding-dynamic-subtitle-1 = Scopri quanto sono affidabili le recens
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = Scopri quanto sono affidabili le recensioni dei prodotti su <b>{ $currentSite }</b> prima di acquistarli. Verifica recensioni, una funzione sperimentale di { -brand-product-name }, è integrata direttamente nel browser.
 shopping-onboarding-body = Utilizzando la tecnologia di { -fakespot-brand-full-name }, ti aiutiamo a evitare recensioni di parte e non autentiche. Il nostro modello di intelligenza artificiale migliora costantemente per proteggerti mentre fai acquisti. <a data-l10n-name="learn_more">Ulteriori informazioni</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Selezionando “{ shopping-onboarding-opt-in-button }“ accetti l’<a data-l10n-name="privacy_policy">informativa sulla privacy</a> di { -brand-product-name } e le <a data-l10n-name="terms_of_use">condizioni di utilizzo del servizio</a> di { -fakespot-brand-name }.
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Selezionando “{ shopping-onboarding-opt-in-button }” accetti l’<a data-l10n-name="privacy_policy">informativa sulla privacy</a> di { -brand-product-name } e le <a data-l10n-name="terms_of_use">condizioni di utilizzo del servizio</a> di { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Sì, provala
 shopping-onboarding-not-now-button = Non adesso
 shopping-onboarding-dialog-close-button =
