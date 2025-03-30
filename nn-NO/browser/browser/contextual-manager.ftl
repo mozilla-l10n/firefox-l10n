@@ -73,6 +73,8 @@ contextual-manager-passwords-import-learn-more = Les meir om å importere passor
 contextual-manager-passwords-export-success-heading =
     .heading = Passord eksporterte
 contextual-manager-passwords-export-success-button = Ferdig
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = Eksportere passord til fil?
 contextual-manager-export-passwords-dialog-confirm-button = Hald fram med eksport
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Eksporter passord frå { -brand-short-name }
@@ -108,6 +110,12 @@ contextual-manager-passwords-username-label = Brukarnamn
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-password-label = Passord
     .data-after = Kopiert
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Filtrere passord
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = Passord lagt til for { $url }
 contextual-manager-passwords-add-password-success-button = Vis
 # Variables
 #   $url (string) - The url associated with the existing login
@@ -127,27 +135,50 @@ contextual-manager-passwords-delete-password-success-heading =
            *[other] Passord fjerna
         }
 contextual-manager-passwords-delete-password-success-button = Ferdig
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = Alle ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = Varsel ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Vil du fjerne passordet?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = Du kan ikkje angre dette.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = Tilbake
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Fjern
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Avbryt
+contextual-manager-passwords-alert-card =
+    .aria-label = Passordvarsel
 contextual-manager-passwords-alert-back-button =
     .label = Tilbake
+contextual-manager-passwords-alert-list =
+    .aria-label = Varselliste
 contextual-manager-passwords-change-password-button = Endre passord
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Legg til eit brukarnamn
+    .message = Legg til eitt for å logge inn raskare.
+contextual-manager-passwords-add-username-button = Legg til brukarnamn
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Legg til passord
+contextual-manager-passwords-edit-label =
+    .label = Rediger passord
+contextual-manager-passwords-remove-label =
+    .title = Fjern passord
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = Passord
+contextual-manager-website-icon =
+    .alt = Nettstadikon
 contextual-manager-copy-icon =
     .alt = Kopier
 contextual-manager-check-icon-username =
@@ -156,6 +187,28 @@ contextual-manager-check-icon-password =
     .alt = Kopiert
 contextual-manager-alert-icon =
     .alt = Åtvaring
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = Besøk { $url }
+    .title = Besøk { $url }
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = Besøk { $url } (Åtvaring)
+    .title = Besøk{ $url } (Åtvaring)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = Kopier brukarnamn { $username }
+    .title = Kopier brukarnamn { $username }
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = Kopier brukarnamn { $username } (Åtvaring)
+    .title = Kopier brukarnamn  { $username } (Åtvaring)
 contextual-manager-password-login-line =
     .aria-label = Kopier passord
     .title = Kopier passord
@@ -165,6 +218,10 @@ contextual-manager-password-login-line-with-alert =
     .title = Kopier passord (åtvaring)
 contextual-manager-edit-login-button = Rediger
     .tooltiptext = Rediger passord
+contextual-manager-view-alert-heading =
+    .heading = Vis varsel
+contextual-manager-view-alert-button =
+    .tooltiptext = Vurder varsel
 contextual-manager-show-password-button =
     .aria-label = Vis passord
     .title = Vis passord
@@ -178,9 +235,14 @@ contextual-manager-passwords-no-passwords-found-header =
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = Legg til manuelt
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = Late att utan å lagre?
+    .message = Endringane dine vert ikkje lagra.
 contextual-manager-passwords-discard-changes-close-button = Lat att
 contextual-manager-passwords-discard-changes-go-back-button = Gå tilbake
