@@ -352,6 +352,9 @@ quickactions-cmd-addons2 = doplňky
 quickactions-bookmarks2 = Správa záložek
 quickactions-cmd-bookmarks = záložky
 # Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Vymazat nedávnou historii
+quickactions-cmd-clearrecenthistory = vymazat nedávnou historii, historii
+# Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Vymazat historii
 quickactions-cmd-clearhistory = vymazat historii
 # Opens about:downloads page

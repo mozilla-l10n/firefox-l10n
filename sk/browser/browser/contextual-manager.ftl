@@ -100,7 +100,7 @@ contextual-manager-passwords-remove-all-title =
     { $total ->
         [1] Odstrániť heslo?
         [one] Odstrániť heslo?
-        [few] Odstrániť všetkých { $count } heslá?
+        [few] Odstrániť { $count } heslá?
         [many] Odstrániť všetkých { $count } hesiel?
        *[other] Odstrániť všetkých { $count } hesiel?
     }
@@ -212,18 +212,50 @@ contextual-manager-passwords-vulnerable-password-link-message = Ako { -brand-pro
 contextual-manager-passwords-no-username-heading-and-message =
     .heading = Pridajte používateľské meno
     .message = Pridajte ho, aby ste sa mohli rýchlejšie prihlásiť.
+contextual-manager-passwords-add-username-button = Pridať používateľské meno
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Pridať heslo
+contextual-manager-passwords-edit-label =
+    .label = Upraviť heslo
+contextual-manager-passwords-remove-label =
+    .title = Odstrániť heslo
+contextual-manager-passwords-origin-tooltip = Zadajte presnú adresu, na ktorej sa budete prihlasovať na túto stránku.
+contextual-manager-passwords-username-tooltip = Zadajte používateľské meno, e‑mailovú adresu alebo číslo účtu, ktoré používate na prihlásenie.
+contextual-manager-passwords-password-tooltip = Zadajte heslo používané na prihlásenie do tohto účtu.
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = Heslá
+contextual-manager-website-icon =
+    .alt = Ikona webovej stránky
 contextual-manager-copy-icon =
     .alt = Kopírovať
+contextual-manager-check-icon-username =
+    .alt = Skopírované
+contextual-manager-check-icon-password =
+    .alt = Skopírované
+contextual-manager-alert-icon =
+    .alt = Upozornenie
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = Navštíviť { $url }
+    .title = Navštíviť { $url }
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = Navštíviť { $url } (upozornenie)
+    .title = Navštíviť { $url } (upozornenie)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = Kopírovať používateľské meno { $username }
+    .title = Kopírovať používateľské meno { $username }
 # "(Warning)" indicates that a login's username field has an alert icon.
 # Variables
 #   $username (string) - The username associated with the login
