@@ -254,18 +254,53 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 ## Review Checker in Integrated sidebar
 
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle = Включите Проверку отзывов от { -brand-product-name }, чтобы оценивать надёжность отзывов перед покупкой. Она использует ИИ для анализа отзывов и работает на сайтах { $firstSite }, { $secondSite } и { $thirdSite }. <a data-l10n-name="learn_more">Узнать больше</a>
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle-unsupported-site =
+    Проверка отзывов от { -brand-product-name } помогает понять, насколько надёжны отзывы о товаре, перед покупкой. Она использует технологии ИИ для анализа отзывов и работает при покупках на сайтах { $firstSite }, { $secondSite } и { $thirdSite }.
+    <a data-l10n-name="learn_more">Узнать больше</a>
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-opt-in-integrated-headline = Можете ли вы доверять этим отзывам?
+# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
+shopping-callout-not-opted-in-integrated-paragraph1 = Включите Проверку отзывов от { -brand-product-name }, чтобы проверить, насколько можно доверять отзывам. Она работает на базе { -fakespot-brand-full-name } и использует ИИ для анализа отзывов.
+shopping-callout-not-opted-in-integrated-paragraph2 = Нажимая «{ shopping-opt-in-integrated-button }», вы соглашаетесь с <a data-l10n-name="privacy_policy">уведомлением о конфиденциальности</a> { -brand-product-name } и <a data-l10n-name="terms_of_use">условиями использования</a> { -fakespot-brand-full-name }.
+shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Скрыть
+shopping-callout-not-opted-in-integrated-reminder-accept-button = Включить Проверку отзывов
+shopping-callout-not-opted-in-integrated-reminder-do-not-show = Больше не показывать эту рекомендацию
+shopping-callout-not-opted-in-integrated-reminder-show-fewer = Показывать меньше рекомендаций
+shopping-callout-not-opted-in-integrated-reminder-manage-settings = Управление настройками
+shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Проверка отзывов работает на базе { -fakespot-brand-full-name }. Нажимая «{ shopping-opt-in-integrated-button }», вы соглашаетесь с <a data-l10n-name="privacy_policy">уведомлением о конфиденциальности</a> { -brand-product-name } и <a data-l10n-name="terms_of_use">условиями использования</a> { -fakespot-brand-name }.
+shopping-opt-in-integrated-button = Попробуйте Проверку отзывов
 
 ## Message strings for Review Checker's empty states.
 
+shopping-empty-state-header = Готовы проверить отзывы
+shopping-empty-state-supported-site = Откройте страницу товара, и { -brand-product-name } проверит, насколько надёжны отзывы.
+# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
+# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
+shopping-empty-state-non-supported-site = Проверка отзывов работает на следующих сайтах:
 
 ## Confirm disabling Review Checker for newly opted out users
 
+shopping-integrated-callout-opted-out-title = Проверка отзывов отключена
+shopping-integrated-callout-opted-out-subtitle = Чтобы снова включить Проверку отзывов, нажмите на значок цены на боковой панели.
 
 ## Callout for where to find Review Checker when the sidebar closes
 
+shopping-integrated-callout-sidebar-closed-title = Вернуться к Проверке отзывов
+shopping-integrated-callout-sidebar-closed-subtitle = Нажмите на значок с ценником в боковой панели, чтобы узнать, можно ли доверять отзывам о товаре.
+shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Нажмите кнопку боковой панели, чтобы узнать, можно ли доверять отзывам о товаре.
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.

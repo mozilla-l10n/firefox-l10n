@@ -259,20 +259,38 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 shopping-callout-opt-in-integrated-headline = Você pode confiar nessas avaliações?
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Descartar
+shopping-callout-not-opted-in-integrated-reminder-accept-button = Ativar o verificador de avaliações
+shopping-callout-not-opted-in-integrated-reminder-do-not-show = Não mostrar novamente esta recomendação
+shopping-callout-not-opted-in-integrated-reminder-show-fewer = Mostrar menos recomendações
+shopping-callout-not-opted-in-integrated-reminder-manage-settings = Gerenciar configurações
+shopping-opt-in-integrated-button = Experimentar o verificador de avaliações
 
 ## Message strings for Review Checker's empty states.
 
+shopping-empty-state-header = Pronto para verificar avaliações
+shopping-empty-state-supported-site = Veja um produto e o { -brand-product-name } verifica se as avaliações são confiáveis.
+# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
+# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
+shopping-empty-state-non-supported-site = O verificador de avaliações funciona quando você faz compras em:
 
 ## Confirm disabling Review Checker for newly opted out users
 
+shopping-integrated-callout-opted-out-title = O verificador de avaliações está desativado
+shopping-integrated-callout-opted-out-subtitle = Para ativar novamente, selecione a etiqueta de preço no painel lateral e ative o verificador de avaliações.
 
 ## Callout for where to find Review Checker when the sidebar closes
 
+shopping-integrated-callout-sidebar-closed-subtitle = Selecione a etiqueta de preço no painel lateral para ver se você pode confiar nas avaliações de um produto.
+shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Selecione o botão no painel lateral para ver se você pode confiar nas avaliações de um produto.
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-title = Mesmo verificador de avaliações, em outro lugar
+shopping-integrated-new-position-notification-move-right-button = Mover para direita
+shopping-integrated-new-position-notification-move-left-button = Mover para esquerda
+shopping-integrated-new-position-notification-dismiss-button = Entendi
 
 ## Combined setting for auto-open and auto-close.
 

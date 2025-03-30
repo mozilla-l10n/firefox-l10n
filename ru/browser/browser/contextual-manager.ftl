@@ -130,14 +130,83 @@ contextual-manager-passwords-remove-all-message =
         [few] При этом будет удалены пароли, сохранённые в { -brand-short-name } и любом уведомлении об утечке. Вы не сможете отменить это действие.
        *[many] При этом будет удалены пароли, сохранённые в { -brand-short-name } и любом уведомлении об утечке. Вы не сможете отменить это действие.
     }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] Это удалит сохранённый пароль из { -brand-short-name } на всех синхронизированных устройствах и удалит все уведомления о утечках. Это действие нельзя отменить.
+        [one] Это удалит сохранённый пароль из { -brand-short-name } на всех синхронизированных устройствах и удалит все уведомления о утечках. Это действие нельзя отменить.
+        [few] Это удалит все сохранённые пароли из { -brand-short-name } на всех синхронизированных устройствах и удалит все уведомления о утечках. Это действие нельзя отменить.
+       *[many] Это удалит все сохранённые пароли из { -brand-short-name } на всех синхронизированных устройствах и удалит все уведомления о утечках. Это действие нельзя отменить.
+    }
+contextual-manager-passwords-origin-label = Веб-сайт
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Имя пользователя
+    .data-after = Скопировано
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Пароль
+    .data-after = Скопирован
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Фильтр паролей
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = Пароль добавлен для { $url }
+contextual-manager-passwords-add-password-success-button = Просмотреть
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = Пароль и имя пользователя для { $url } уже существуют
+contextual-manager-passwords-password-already-exists-error-button = Перейти к паролю
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Пароль сохранён
 contextual-manager-passwords-update-password-success-button = Готово
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] Пароль удален
+            [one] Пароль удален
+            [few] Пароли удалены
+           *[many] Пароли удалены
+        }
 contextual-manager-passwords-delete-password-success-button = Готово
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = Все ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = Уведомления ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Удалить пароль?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = Это действие нельзя отменить.
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Назад
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Удалить
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Отмена
+contextual-manager-passwords-alert-card =
+    .aria-label = Уведомления о паролях
+contextual-manager-passwords-alert-back-button =
+    .label = Назад
+contextual-manager-passwords-alert-list =
+    .aria-label = Список уведомлений
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = Рекомендуется сменить пароль
+    .message = Пароли с этого сайта могли быть украдены или утекли. Чтобы защитить свой аккаунт, смените пароль.
+contextual-manager-passwords-breached-origin-link-message = Как { -brand-product-name } узнает об утечках данных?
+contextual-manager-passwords-change-password-button = Сменить пароль
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = Рекомендуется сменить пароль
+    .message = Этот пароль легко угадать. Смените его, чтобы защитить свой аккаунт.
+contextual-manager-passwords-vulnerable-password-link-message = Как { -brand-product-name } узнает о ненадежных паролях?
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Добавьте имя пользователя
+    .message = Укажите его, чтобы входить быстрее.
 
 ## Login Form
 
