@@ -127,14 +127,48 @@ contextual-manager-passwords-radiogroup-label =
 #   $url (string) - The url associated with the new login
 contextual-manager-passwords-add-password-success-heading =
     .heading = Senha adicionada para { $url }
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = Já existe um nome de usuário e senha para { $url }
+contextual-manager-passwords-password-already-exists-error-button = Ir para a senha
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Senha salva
 contextual-manager-passwords-update-password-success-button = Concluído
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] Senha removida
+           *[other] Passwords removed
+        }
 contextual-manager-passwords-delete-password-success-button = Concluído
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = Todas ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = Alertas ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Remover senha?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = Isto não pode ser defeito.
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Voltar
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Remover
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Cancelar
+contextual-manager-passwords-alert-card =
+    .aria-label = Alertas de senha
+contextual-manager-passwords-alert-back-button =
+    .label = Voltar
+contextual-manager-passwords-alert-list =
+    .aria-label = Lista de alertas
+contextual-manager-passwords-breached-origin-link-message = Como o { -brand-product-name } sabe sobre vazamentos?
+contextual-manager-passwords-change-password-button = Mudar senha
 
 ## Login Form
 

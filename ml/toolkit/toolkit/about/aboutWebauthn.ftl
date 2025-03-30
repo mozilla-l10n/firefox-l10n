@@ -50,6 +50,7 @@ about-webauthn-auth-option-null = പിന്തുണയ്ക്കുന്�
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-pin-protocols = പിൻ പെരുമാറ്റച്ചട്ടം
 about-webauthn-auth-info-extensions = വിപുലീകരണങ്ങൾ
 about-webauthn-auth-info-versions = പതിപ്പുകൾ
 # Shows when boolean value for an info field is True. True should not be translated.

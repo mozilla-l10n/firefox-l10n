@@ -99,3 +99,4 @@ about-telemetry-error-fetching-symbols = ചിഹ്നങ്ങള്‍ ല�
 about-telemetry-category-header = തരം
 about-telemetry-method-header = മട്ടു്
 about-telemetry-object-header = സാധനം
+about-telemetry-extra-header = കവിഞ്ഞതു്
