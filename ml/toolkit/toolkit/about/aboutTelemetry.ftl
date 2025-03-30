@@ -96,3 +96,6 @@ about-telemetry-late-writes-title = Late Write #{ $lateWriteCount }
 about-telemetry-stack-title = സ്റ്റാക്ക്:
 about-telemetry-memory-map-title = മെമ്മറി മാപ്പ്:
 about-telemetry-error-fetching-symbols = ചിഹ്നങ്ങള്‍ ലഭ്യമാക്കുമ്പോള്‍ ഒരു പിശകുണ്ടായിരിയ്ക്കുന്നു. നിങ്ങള്‍ക്കു് ഇന്റര്‍നെറ്റ് കണക്ഷനുണ്ടെന്നുറപ്പാക്കി വീണ്ടും ശ്രമിയ്ക്കുക.
+about-telemetry-category-header = തരം
+about-telemetry-method-header = മട്ടു്
+about-telemetry-object-header = സാധനം

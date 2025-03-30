@@ -61,12 +61,28 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = Senhas importadas
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = Novas: { $added }, Atualizadas: { $modified }
+contextual-manager-passwords-import-detailed-report = Ver relatório detalhado
 contextual-manager-passwords-import-success-button = Concluído
+contextual-manager-passwords-import-error-button-try-again = Tentar novamente
 contextual-manager-passwords-import-error-button-cancel = Cancelar
+contextual-manager-passwords-import-learn-more = Saiba mais sobre importação de senhas
+contextual-manager-passwords-export-success-heading =
+    .heading = Senhas exportadas
 contextual-manager-passwords-export-success-button = Concluído
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = Exportar senhas para arquivo?
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = Após exportar, recomendamos excluir, para que outros que possam usar este dispositivo não consigam ver suas senhas.
 contextual-manager-export-passwords-dialog-confirm-button = Continuar a exportação
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Exportar senhas do { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = senhas
 contextual-manager-passwords-export-file-picker-export-button = Exportar
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -74,6 +90,13 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] Documento CSV
        *[other] Arquivo CSV
+    }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] Remover senha?
+       *[other] Remover todas as { $total } senhas?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
@@ -91,6 +114,19 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Remover
        *[other] Remover tudo
     }
+contextual-manager-passwords-origin-label = Site
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Nome de usuário
+    .data-after = Copiado
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Senha
+    .data-after = Copiada
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Filtrar senhas
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = Senha adicionada para { $url }
 contextual-manager-passwords-update-password-success-button = Concluído
 contextual-manager-passwords-delete-password-success-button = Concluído
 # This message is displayed to make sure that a user wants to delete an existing login.

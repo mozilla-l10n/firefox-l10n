@@ -118,6 +118,9 @@ about-debugging-worker-status-running = ഓടിക്കൊണ്ടിരി�
 about-debugging-worker-status-stopped = നിറുത്തി
 # Displayed for service workers in runtime pages that are registering.
 about-debugging-worker-status-registering = അംഗത്തമെടുക്കുന്നു
+# Displayed for service workers in runtime pages, to label the scope of a worker
+about-debugging-worker-scope =
+    .label = പരിധി
 # Displayed for service workers in runtime pages, to label the origin of a worker.
 about-debugging-worker-origin =
     .label = പിറവി
