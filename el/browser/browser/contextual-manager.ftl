@@ -120,17 +120,41 @@ contextual-manager-passwords-username-label = Όνομα χρήστη
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-password-label = Κωδικός πρόσβασης
     .data-after = Αντιγράφηκε
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Φιλτράρισμα κωδικών πρόσβασης
 contextual-manager-passwords-add-password-success-button = Προβολή
+contextual-manager-passwords-password-already-exists-error-button = Μετάβαση στον κωδικό πρόσβασης
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Ο κωδικός πρόσβασης αποθηκεύτηκε
 contextual-manager-passwords-update-password-success-button = Τέλος
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] Ο κωδικός πρόσβασης αφαιρέθηκε
+           *[other] Passwords removed
+        }
 contextual-manager-passwords-delete-password-success-button = Τέλος
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = Όλοι ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = Ειδοποιήσεις ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Αφαίρεση κωδικού πρόσβασης;
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = Δεν μπορείτε να αναιρέσετε αυτήν την ενέργεια.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = Πίσω
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Αφαίρεση
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Ακύρωση
+contextual-manager-passwords-alert-card =
+    .aria-label = Ειδοποιήσεις κωδικών πρόσβασης
 contextual-manager-passwords-alert-back-button =
     .label = Πίσω
 contextual-manager-passwords-alert-list =
@@ -158,6 +182,10 @@ contextual-manager-website-icon =
     .alt = Εικονίδιο ιστοτόπου
 contextual-manager-copy-icon =
     .alt = Αντιγραφή
+contextual-manager-check-icon-username =
+    .alt = Αντιγράφηκε
+contextual-manager-check-icon-password =
+    .alt = Αντιγράφηκε
 contextual-manager-alert-icon =
     .alt = Προειδοποίηση
 contextual-manager-password-login-line =
