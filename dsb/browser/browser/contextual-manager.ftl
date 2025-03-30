@@ -205,18 +205,75 @@ contextual-manager-passwords-change-password-button = Gronidło změniś
 contextual-manager-passwords-no-username-heading-and-message =
     .heading = Pśidajśo wužywaŕske mě
     .message = Pśidajśo take, aby se malsnjej pśizjawił.
+contextual-manager-passwords-add-username-button = Pśidajśo wužywaŕske mě
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Gronidło pśidaś
+contextual-manager-passwords-edit-label =
+    .label = Gronidło wobźěłaś
+contextual-manager-passwords-remove-label =
+    .title = Gronidło wótwónoźeś
+contextual-manager-passwords-origin-tooltip = Zapódajśo eksaktnu adresu, źož se pla toś togo sedła pśizjawjaśo.
+contextual-manager-passwords-username-tooltip = Zapódajśo wužywaŕske mě, e-mailowu adresu abo kontowy numer, kótaryž wužywaśo, aby se pśizjawił.
+contextual-manager-passwords-password-tooltip = Zapódajśo gronidło, kótarež se wužywa, aby se pla toś togo konta pśizjawił.
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = Gronidła
+contextual-manager-website-icon =
+    .alt = Symbol websedła
 contextual-manager-copy-icon =
     .alt = Kopěrowaś
+contextual-manager-check-icon-username =
+    .alt = Kopěrowane
+contextual-manager-check-icon-password =
+    .alt = Kopěrowane
+contextual-manager-alert-icon =
+    .alt = Warnowanje
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = { $url } se woglědaś
+    .title = { $url } se woglědaś
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = { $url } se woglědaś (warnowanje)
+    .title = { $url } se woglědaś (warnowanje)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = Wužywaŕske mě { $username } kopěrowaś
+    .title = Wužywaŕske mě { $username } kopěrowaś
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = Wužywaŕske mě { $username } kopěrowaś (warnowanje)
+    .title = Wužywaŕske mě { $username } kopěrowaś (warnowanje)
+contextual-manager-password-login-line =
+    .aria-label = Gronidło kopěrowaś
+    .title = Gronidło kopěrowaś
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = Gronidło kopěrowaś (warnowanje)
+    .title = Gronidło kopěrowaś (warnowanje)
+contextual-manager-edit-login-button = Wobźěłaś
+    .tooltiptext = Gronidło wobźěłaś
+contextual-manager-view-alert-heading =
+    .heading = Warnowanje pokazaś
+contextual-manager-view-alert-button =
+    .tooltiptext = Warnowanje pógódnośiś
+contextual-manager-show-password-button =
+    .aria-label = Gronidło pokazaś
+    .title = Gronidło pokazaś
+contextual-manager-hide-password-button =
+    .aria-label = Gronidło schowaś
+    .title = Gronidło schowaś
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
