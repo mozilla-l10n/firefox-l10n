@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-policies-title = Pśedewześowe pšawidła
+aboutpolicies-page-heading =
+    .heading = Wó pšawidłach
 # 'Active' is used to describe the policies that are currently active
 active-policies-tab = Aktiwny
 errors-tab = Zmólki

@@ -332,6 +332,9 @@ quickactions-cmd-addons2 = dodanki
 quickactions-bookmarks2 = Cytańske znamjenja zastojaś
 quickactions-cmd-bookmarks = cytańske znamjenja
 # Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Aktualnu historiju wuprozniś
+quickactions-cmd-clearrecenthistory = Aktualnu historiju wuprozniś, historija
+# Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Historiju wuprozniś
 quickactions-cmd-clearhistory = historiju wuprozniś
 # Opens about:downloads page
@@ -340,6 +343,15 @@ quickactions-cmd-downloads = ześěgnjenja
 # Opens about:addons page in the extensions section
 quickactions-extensions = Rozšyrjenja zastojaś
 quickactions-cmd-extensions = rozšyrjenja
+# Opens Firefox View
+quickactions-firefoxview = { -firefoxview-brand-name } wócyniś
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = { -firefoxview-brand-name } wócyniś, { -firefoxview-brand-name }, view wócyniś, view
+# Opens SUMO home page
+quickactions-help = Pomoc { -brand-product-name }
+quickactions-cmd-help = pomoc, pódpěra
 # Opens the devtools web inspector
 quickactions-inspector2 = Wuwijaŕske rědy wócyniś
 quickactions-cmd-inspector = inspektor, wuwijaŕske rědy

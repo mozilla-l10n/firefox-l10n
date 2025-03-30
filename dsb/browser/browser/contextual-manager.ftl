@@ -6,13 +6,21 @@ contextual-manager-filter-input =
     .placeholder = Gronidła pytaś
     .key = F
     .aria-label = Gronidła pytaś
+contextual-manager-menu-more-options-button =
+    .title = Dalšne nastajenja
+contextual-manager-more-options-popup =
+    .aria-label = Dalšne nastajenja
 
 ## Passwords
 
 contextual-manager-passwords-command-create = Gronidło pśidaś
 contextual-manager-passwords-command-import-from-browser = Z drugego wobglědowaka importěrowaś…
 contextual-manager-passwords-command-import = Z dataje importěrowaś…
+contextual-manager-passwords-command-export = Gronidła eksportěrowaś
+contextual-manager-passwords-command-remove-all = Wšykne gronidła wótwónoźeś
+contextual-manager-passwords-command-settings = Nastajenja
 contextual-manager-passwords-command-help = Pomoc
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Zapódajśo swóje pśizjawjeńske daty Windows, aby swóje gronidła eksportěrował. To wěstotu wašych kontow šćita.
 # This message can be seen when attempting to export a password in about:logins
@@ -35,6 +43,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Zapódaj
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = skłaźone gronidło kopěrowaś
+contextual-manager-passwords-import-file-picker-title = Gronidła importěrowaś
 contextual-manager-passwords-import-file-picker-import-button = Importěrowaś
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -50,6 +59,8 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] TSV-dokument
        *[other] TSV-dataja
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = Gronidła su se importěrowali
 contextual-manager-passwords-import-success-button = Dokóńcone
 contextual-manager-passwords-import-error-button-cancel = Pśetergnuś
 contextual-manager-passwords-export-success-button = Dokóńcone
