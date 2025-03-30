@@ -134,14 +134,74 @@ contextual-manager-passwords-remove-all-message =
         [few] To { $total } gronidła, kótarež su se składli w { -brand-short-name } a warnowanja wó datowych źěrach wótwónoźijo.
        *[other] To { $total } gronidłow, kótarež jo se składło w { -brand-short-name } a warnowanja wó datowych źěrach wótwónoźijo.
     }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] To gronidło wótwónoźijo, kótarež sćo składł w { -brand-short-name } na wšych wašych synchronizěrowanych a warnowanja wó datowych źěrach wótwónoźijo. Njamóžośo toś tu akciju anulěrowaś.
+        [one] To { $total } gronidło wótwónoźijo, kótarež sćo składł w { -brand-short-name } na wšych wašych synchronizěrowanych a warnowanja wó datowych źěrach wótwónoźijo. Njamóžośo toś tu akciju anulěrowaś.
+        [two] To { $total } gronidle wótwónoźijo, kótarejž sćo składł w { -brand-short-name } na wšych wašych synchronizěrowanych a warnowanja wó datowych źěrach wótwónoźijo. Njamóžośo toś tu akciju anulěrowaś.
+        [few] To { $total } gronidła wótwónoźijo, kótarež sćo składł w { -brand-short-name } na wšych wašych synchronizěrowanych a warnowanja wó datowych źěrach wótwónoźijo. Njamóžośo toś tu akciju anulěrowaś.
+       *[other] To { $total } gronidłow wótwónoźijo, kótarež sćo składł w { -brand-short-name } na wšych wašych synchronizěrowanych a warnowanja wó datowych źěrach wótwónoźijo. Njamóžośo toś tu akciju anulěrowaś.
+    }
+contextual-manager-passwords-origin-label = Websedło
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Wužywaŕske mě
+    .data-after = Kopěrowany
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Gronidło
+    .data-after = Kopěrowany
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Gronidła filtrowaś
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = Gronidło jo se pśidało za { $url }
+contextual-manager-passwords-add-password-success-button = Naglěd
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = Gronidło a wužywaŕske mě za { $url } južo eksistěrujotej
+contextual-manager-passwords-password-already-exists-error-button = Ku gronidłoju
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Gronidło jo se składło
 contextual-manager-passwords-update-password-success-button = Dokóńcone
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] Gronidło jo se wótwónoźeło
+            [one] { $total } gronidło jo se wótwónoźeło
+            [two] { $total } gronidle stej se wótwónoźełej
+            [few] { $total } gronidła su se wótwónoźeli
+           *[other] { $total } gronidłow jo se wótwónoźeło
+        }
 contextual-manager-passwords-delete-password-success-button = Dokóńcone
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = Wšykne ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = Warnowanja ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Gronidło wótwónoźeś?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = Njamóžośo to anulěrowaś.
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Slědk
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Wótwónoźeś
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Pśetergnuś
+contextual-manager-passwords-alert-card =
+    .aria-label = Gronidłowe warnowanja
+contextual-manager-passwords-alert-back-button =
+    .label = Slědk
+contextual-manager-passwords-alert-list =
+    .aria-label = Lisćina warnowanjow
+contextual-manager-passwords-change-password-button = Gronidło změniś
 
 ## Login Form
 
