@@ -521,4 +521,7 @@ newtab-section-mangage-topics-followed-topics = Sledované
 newtab-section-mangage-topics-followed-topics-empty-state = Zatiaľ nesledujete žiadne témy.
 newtab-section-mangage-topics-blocked-topics = Zablokované
 newtab-section-mangage-topics-blocked-topics-empty-state = Zatiaľ ste nezablokovali žiadne témy.
+newtab-custom-wallpaper-title = Vlastné tapety sú tu
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle = Nahrajte svoju vlastnú tapetu alebo si vyberte vlastnú farbu a prispôsobte si svoj { -brand-product-name }.
 newtab-custom-wallpaper-cta = Vyskúšajte to

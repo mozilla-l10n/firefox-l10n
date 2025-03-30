@@ -67,8 +67,19 @@ contextual-manager-passwords-import-success-heading =
 contextual-manager-passwords-import-success-message = Nové: { $added }, aktualizované: { $modified }
 contextual-manager-passwords-import-detailed-report = Zobraziť podrobnú správu
 contextual-manager-passwords-import-success-button = Hotovo
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = Heslá sa nepodarilo importovať
+    .message = Uistite sa, že váš súbor obsahuje stĺpec pre webové stránky, používateľské mená a heslá.
+contextual-manager-passwords-import-error-button-try-again = Skúsiť znova
 contextual-manager-passwords-import-error-button-cancel = Zrušiť
+contextual-manager-passwords-import-learn-more = Prečítajte si o importovaní hesiel
+contextual-manager-passwords-export-success-heading =
+    .heading = Heslá boli exportované
 contextual-manager-passwords-export-success-button = Hotovo
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = Exportovať heslá do súboru?
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = Po exporte ho odporúčame vymazať, aby ostatní používatelia tohto zariadenia nemohli vidieť vaše heslá.
 contextual-manager-export-passwords-dialog-confirm-button = Pokračovať v exporte
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Export hesiel z { -brand-short-name(case: "gen") }
@@ -82,6 +93,16 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] Dokument CSV
        *[other] Súbor CSV
+    }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] Odstrániť heslo?
+        [one] Odstrániť heslo?
+        [few] Odstrániť všetkých { $count } heslá?
+        [many] Odstrániť všetkých { $count } hesiel?
+       *[other] Odstrániť všetkých { $count } hesiel?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
@@ -101,6 +122,26 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Odstrániť všetky
         [few] Odstrániť všetky
        *[other] Odstrániť všetky
+    }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] Týmto sa odstráni heslo uložené vo { -brand-short-name(case: "loc") } a všetky upozornenia na únik údajov. Túto akciu nie je možné vrátiť späť.
+        [one] Týmto sa odstráni heslo uložené vo { -brand-short-name(case: "loc") } a všetky upozornenia na únik údajov. Túto akciu nie je možné vrátiť späť.
+        [few] Týmto sa odstránia heslá uložené vo { -brand-short-name(case: "loc") } a všetky upozornenia na únik údajov. Túto akciu nie je možné vrátiť späť.
+        [many] Týmto sa odstránia heslá uložené vo { -brand-short-name(case: "loc") } a všetky upozornenia na únik údajov. Túto akciu nie je možné vrátiť späť.
+       *[other] Týmto sa odstránia heslá uložené vo { -brand-short-name(case: "loc") } a všetky upozornenia na únik údajov. Túto akciu nie je možné vrátiť späť.
+    }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] Týmto sa odstráni heslo uložené vo { -brand-short-name(case: "loc") } na všetkých vašich synchronizovaných zariadeniach a odstránia sa všetky upozornenia na únik údajov. Túto akciu nemôžete vrátiť späť.
+        [one] Týmto sa odstráni heslo uložené vo { -brand-short-name(case: "loc") } na všetkých vašich synchronizovaných zariadeniach a odstránia sa všetky upozornenia na únik údajov. Túto akciu nemôžete vrátiť späť.
+        [few] Týmto sa odstránia heslá uložené vo { -brand-short-name(case: "loc") } na všetkých vašich synchronizovaných zariadeniach a odstránia sa všetky upozornenia na únik údajov. Túto akciu nemôžete vrátiť späť.
+        [many] Týmto sa odstránia heslá uložené vo { -brand-short-name(case: "loc") } na všetkých vašich synchronizovaných zariadeniach a odstránia sa všetky upozornenia na únik údajov. Túto akciu nemôžete vrátiť späť.
+       *[other] Týmto sa odstránia heslá uložené vo { -brand-short-name(case: "loc") } na všetkých vašich synchronizovaných zariadeniach a odstránia sa všetky upozornenia na únik údajov. Túto akciu nemôžete vrátiť späť.
     }
 contextual-manager-passwords-origin-label = Webová stránka
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
@@ -183,6 +224,12 @@ contextual-manager-passwords-list-label =
     .aria-label = Heslá
 contextual-manager-copy-icon =
     .alt = Kopírovať
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = Kopírovať používateľské meno { $username } (upozornenie)
+    .title = Kopírovať používateľské meno { $username } (upozornenie)
 contextual-manager-password-login-line =
     .aria-label = Kopírovať heslo
     .title = Kopírovať heslo
@@ -216,3 +263,5 @@ contextual-manager-passwords-no-passwords-header = Uložte si heslá na bezpečn
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-close-button = Zavrieť
+contextual-manager-passwords-discard-changes-go-back-button = Prejsť naspäť

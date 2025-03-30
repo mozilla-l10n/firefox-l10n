@@ -260,6 +260,7 @@ shopping-opt-in-integrated-headline = Nakupujte s istotou
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Zavrieť
+shopping-callout-not-opted-in-integrated-reminder-accept-button = Zapnúť Kontrolu recenzií
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = Toto odporúčanie už nezobrazovať
 shopping-callout-not-opted-in-integrated-reminder-show-fewer = Zobrazovať menej odporúčaní
 shopping-callout-not-opted-in-integrated-reminder-manage-settings = Spravovať nastavenia
@@ -269,6 +270,7 @@ shopping-callout-not-opted-in-integrated-reminder-manage-settings = Spravovať n
 
 ## Confirm disabling Review Checker for newly opted out users
 
+shopping-integrated-callout-opted-out-title = Kontrola recenzií je vypnutá
 
 ## Callout for where to find Review Checker when the sidebar closes
 
