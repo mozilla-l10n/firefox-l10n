@@ -315,3 +315,15 @@ shopping-integrated-new-position-notification-dismiss-button = Percebi
 
 ## Combined setting for auto-open and auto-close.
 
+shopping-settings-auto-open-and-close-toggle =
+    .label = Abrir e fechar automaticamente o Verificador de Avaliações
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-and-close-description-three-sites = Abre quando vê os produtos em { $firstSite }, { $secondSite } e { $thirdSite } e fecha quando sai
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-and-close-description-single-site = Abre quando vê os produtos em { $currentSite } e fecha quando sai

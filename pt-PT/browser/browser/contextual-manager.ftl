@@ -200,23 +200,98 @@ contextual-manager-passwords-vulnerable-password-link-message = Como é que o { 
 contextual-manager-passwords-no-username-heading-and-message =
     .heading = Adicionar um nome de utilizador
     .message = Adicione um para se autenticar rapidamente.
+contextual-manager-passwords-add-username-button = Adicionar nome de utilizador
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Adicionar palavra-passe
+contextual-manager-passwords-edit-label =
+    .label = Editar palavra-passe
+contextual-manager-passwords-remove-label =
+    .title = Remover palavra-passe
+contextual-manager-passwords-origin-tooltip = Insira o endereço exato de onde irá iniciar a sessão neste site.
+contextual-manager-passwords-username-tooltip = Insira o nome de utilizador, o endereço de e-mail ou o número da conta que utiliza para iniciar a sessão.
+contextual-manager-passwords-password-tooltip = Insira a palavra-passe utilizada para iniciar a sessão nesta conta.
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = Palavras-passe
+contextual-manager-website-icon =
+    .alt = Ícone do site
 contextual-manager-copy-icon =
     .alt = Copiar
+contextual-manager-check-icon-username =
+    .alt = Copiada
+contextual-manager-check-icon-password =
+    .alt = Copiada
+contextual-manager-alert-icon =
+    .alt = Aviso
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = Visitar { $url }
+    .title = Visitar { $url }
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = Visitar { $url } (Aviso)
+    .title = Visitar { $url } (Aviso)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = Copiar nome de utilizador { $username }
+    .title = Copiar nome de utilizador { $username }
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = Copiar nome de utilizador { $username } (Aviso)
+    .title = Copiar nome de utilizador { $username } (Aviso)
+contextual-manager-password-login-line =
+    .aria-label = Copiar palavra-passe
+    .title = Copiar palavra-passe
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = Copiar palavra-passe (Aviso)
+    .title = Copiar palavra-passe (Aviso)
+contextual-manager-edit-login-button = Editar
+    .tooltiptext = Editar palavra-passe
+contextual-manager-view-alert-heading =
+    .heading = Ver alerta
+contextual-manager-view-alert-button =
+    .tooltiptext = Rever alerta
+contextual-manager-show-password-button =
+    .aria-label = Mostrar palavra-passe
+    .title = Mostrar palavra-passe
+contextual-manager-hide-password-button =
+    .aria-label = Ocultar palavra-passe
+    .title = Ocultar palavra-passe
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = Não foram encontradas palavras-passe
+contextual-manager-passwords-no-passwords-found-message = Não foram encontradas palavras-passe. Procure por um termo diferente e tente novamente.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = Guarde as suas palavras-passe num local seguro.
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = Todas as palavras-passe são encriptadas e nós ficaremos atentos a violações de dados e alertas se você for afetado.
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = Adicione-as aqui para começar.
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = Adicionar manualmente
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = Fechar sem guardar?
+    .message = As suas alterações não serão guardadas.
+contextual-manager-passwords-discard-changes-close-button = Fechar
+contextual-manager-passwords-discard-changes-go-back-button = Voltar
