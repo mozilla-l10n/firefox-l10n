@@ -67,6 +67,9 @@ contextual-manager-passwords-import-success-heading =
 contextual-manager-passwords-import-success-message = Novas: { $added }, Atualizadas: { $modified }
 contextual-manager-passwords-import-detailed-report = Ver relatório detalhado
 contextual-manager-passwords-import-success-button = Concluído
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = Não foi possível importar senhas
+    .message = Verifique se o arquivo tem colunas de sites, nomes de usuários e senhas.
 contextual-manager-passwords-import-error-button-try-again = Tentar novamente
 contextual-manager-passwords-import-error-button-cancel = Cancelar
 contextual-manager-passwords-import-learn-more = Saiba mais sobre importação de senhas
@@ -169,6 +172,12 @@ contextual-manager-passwords-alert-list =
     .aria-label = Lista de alertas
 contextual-manager-passwords-breached-origin-link-message = Como o { -brand-product-name } sabe sobre vazamentos?
 contextual-manager-passwords-change-password-button = Mudar senha
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = Recomendado mudar senha
+    .message = Esta senha pode ser adivinhada com facilidade. Mude a senha para proteger sua conta.
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Adicionar nome de usuário
+    .message = Adicione para entrar na conta mais rápido.
 
 ## Login Form
 
