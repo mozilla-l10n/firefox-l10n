@@ -61,9 +61,25 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = Hesla byla naimportována
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = Nové: { $added }, aktualizované: { $modified }
+contextual-manager-passwords-import-detailed-report = Zobrazit podrobný report
 contextual-manager-passwords-import-success-button = Hotovo
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = Import hesel se nezdařil
+    .message = Ujistěte se, že váš soubor obsahuje sloupce pro webové stránky, uživatelská jména a hesla.
+contextual-manager-passwords-import-error-button-try-again = Zkusit znovu
 contextual-manager-passwords-import-error-button-cancel = Zrušit
+contextual-manager-passwords-import-learn-more = Přečtěte si více o importu hesel
+contextual-manager-passwords-export-success-heading =
+    .heading = Hesla byla exportována
 contextual-manager-passwords-export-success-button = Hotovo
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = Exportovat hesla do souboru?
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = Po exportu jej doporučujeme odstranit, aby vaše hesla nemohli vidět ostatní uživatelé, kteří mohou toto zařízení používat.
 contextual-manager-export-passwords-dialog-confirm-button = Pokračovat v exportu
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title =
@@ -71,6 +87,9 @@ contextual-manager-passwords-export-file-picker-title =
         [with-cases] Export hesel z { -brand-short-name(case: "gen") }
        *[no-cases] Export hesel z aplikace { -brand-short-name }
     }
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = hesla
 contextual-manager-passwords-export-file-picker-export-button = Exportovat
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -78,6 +97,16 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] Dokument CSV
        *[other] Soubor CSV
+    }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] Odstranit heslo?
+        [one] Odstranit heslo?
+        [few] Odstranit { $total } hesla?
+        [many] Odstranit všech { $total } hesel?
+       *[other] Odstranit všech { $total } hesel?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
@@ -98,6 +127,25 @@ contextual-manager-passwords-remove-all-confirm-button =
         [few] Odstranit vše
        *[other] Odstranit vše
     }
+contextual-manager-passwords-origin-label = Webová stránka
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Uživatelské jméno
+    .data-after = Zkopírováno
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Heslo
+    .data-after = Zkopírováno
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Filtrovat hesla
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = Heslo pro stránku { $url } bylo přidáno
+contextual-manager-passwords-add-password-success-button = Zobrazit
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = Heslo a uživatelské jméno pro stránku { $url } již existuje
+contextual-manager-passwords-password-already-exists-error-button = Přejít na heslo
 contextual-manager-passwords-update-password-success-button = Hotovo
 contextual-manager-passwords-delete-password-success-button = Hotovo
 # This message is displayed to make sure that a user wants to delete an existing login.
