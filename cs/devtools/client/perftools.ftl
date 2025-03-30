@@ -68,6 +68,9 @@ perftools-button-edit-settings = Upravit nastavení…
 
 ## More actions menu
 
+perftools-menu-more-actions-button =
+    .title = Více akcí
+perftools-menu-more-actions-copy-for-startup = Kopírování proměnných prostředí pro profilování při spuštění
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
