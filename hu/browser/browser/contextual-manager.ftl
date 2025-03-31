@@ -66,11 +66,25 @@ contextual-manager-passwords-import-success-heading =
 contextual-manager-passwords-import-success-message = Új: { $added }, frissítve: { $modified }
 contextual-manager-passwords-import-detailed-report = Részletes jelentés megtekintése
 contextual-manager-passwords-import-success-button = Kész
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = Nem sikerült a jelszavak importálása
+    .message = Bizonyosodjon meg róla, hogy a fájl weboldalak, felhasználónevek és jelszavak oszlopait tartalmazza
+contextual-manager-passwords-import-error-button-try-again = Próbálja újra
 contextual-manager-passwords-import-error-button-cancel = Mégse
+contextual-manager-passwords-import-learn-more = Tudjon meg többet a jelszavak importálásáról
+contextual-manager-passwords-export-success-heading =
+    .heading = Jelszavak exportálva
 contextual-manager-passwords-export-success-button = Kész
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = Exportálja a jelszavakat fájlba?
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = Az exportálás után javasoljuk, hogy törölje azt, hogy mások, akik az eszközt használhatják, ne láthassák a jelszavait.
 contextual-manager-export-passwords-dialog-confirm-button = Folytatás az exportálással
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Jelszavak exportálása a { -brand-short-name }ból
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = jelszavak
 contextual-manager-passwords-export-file-picker-export-button = Exportálás
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -78,6 +92,14 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] CSV-dokumentum
        *[other] CSV-fájl
+    }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] Eltávolítja a jelszót?
+        [one] Eltávolítja a jelszót?
+       *[other] Eltávolítja mind a(z) { $total } jelszót?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
@@ -95,14 +117,89 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Eltávolítás
        *[other] Összes eltávolítása
     }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] Ez eltávolítja a { -brand-short-name(case: "illative") } mentett jelszót, és az esetleges adatvédelmi incidensek figyelmeztetéseit. Ez a művelet nem vonható vissza.
+        [one] Ez eltávolítja a { -brand-short-name(case: "illative") } mentett jelszót, és az esetleges adatvédelmi incidensek figyelmeztetéseit. Ez a művelet nem vonható vissza.
+       *[other] Ez eltávolítja a { -brand-short-name(case: "illative") } mentett jelszavakat, és az esetleges adatvédelmi incidensek figyelmeztetéseit. Ez a művelet nem vonható vissza.
+    }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] Ez eltávolítja az összes szinkronizált eszközéről a { -brand-short-name(case: "illative") } mentett jelszót, és az esetleges adatvédelmi incidensek figyelmeztetéseit. Ez a művelet nem vonható vissza.
+        [one] Ez eltávolítja az összes szinkronizált eszközéről a { -brand-short-name(case: "illative") } mentett jelszót, és az esetleges adatvédelmi incidensek figyelmeztetéseit. Ez a művelet nem vonható vissza.
+       *[other] Ez eltávolítja az összes szinkronizált eszközéről a { -brand-short-name(case: "illative") } mentett összes jelszavát, és az esetleges adatvédelmi incidensek figyelmeztetéseit. Ez a művelet nem vonható vissza.
+    }
+contextual-manager-passwords-origin-label = Webhely
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Felhasználónév
+    .data-after = Másolva
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Jelszó
+    .data-after = Másolva
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Jelszavak szűrése
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = Jelszó hozzáadva a következőhöz: { $url }
+contextual-manager-passwords-add-password-success-button = Nézet
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = Már létezik jelszó és felhasználónév a következőhöz: { $url }
+contextual-manager-passwords-password-already-exists-error-button = Ugrás a jelszóhoz
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Jelszó elmentve
 contextual-manager-passwords-update-password-success-button = Kész
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] Jelszó eltávolítva
+            [one] Jelszó eltávolítva
+           *[other] Jelszavak eltávolítva
+        }
 contextual-manager-passwords-delete-password-success-button = Kész
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = Összes ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = Figyelmeztetések ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Jelszó eltávolítása?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = Ez nem vonható vissza.
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Vissza
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Eltávolítás
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Mégse
+contextual-manager-passwords-alert-card =
+    .aria-label = Jelszófigyelmeztetések
+contextual-manager-passwords-alert-back-button =
+    .label = Vissza
+contextual-manager-passwords-alert-list =
+    .aria-label = Figyelmeztetéslista
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = Jelszóváltoztatás javasolt
+    .message = Az ehhez a webhelyhez tartozó jelszavakról bejelentés érkezett, hogy ellophatták azokat vagy kiszivároghattak. Fiókja védelme érdekében változtassa meg jelszavát.
+contextual-manager-passwords-breached-origin-link-message = Honnan tud a { -brand-product-name } az adatvédelmi incidensekről?
+contextual-manager-passwords-change-password-button = Jelszó megváltoztatása
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = Jelszóváltoztatás javasolt
+    .message = A jelszót könnyű kitalálni. Fiókja védelméért változtassa meg jelszavát.
+contextual-manager-passwords-vulnerable-password-link-message = Honnan tudja a { -brand-product-name } felismerni a gyenge jelszavakat?
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Adjon hozzá egy felhasználónevet
+    .message = Adjon hozzá egy felhasználónevet, hogy gyorsabban bejelentkezhessen.
 
 ## Login Form
 
