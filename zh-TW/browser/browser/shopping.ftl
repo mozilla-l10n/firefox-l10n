@@ -256,15 +256,31 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 # Opt-in message strings for Review Checker when it is integrated into the global sidebar.
 shopping-opt-in-integrated-headline = 購物更放心
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle = 開啟 { -brand-product-name } 商品評論檢查器，讓您在購物前可以確認購物網站上的商品評論有多可靠。商品評論檢查器可透過 AI 技術分析 { $firstSite }、{ $secondSite } 及 { $thirdSite } 上的評論內容。<a data-l10n-name="learn_more">更多資訊</a>
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle-unsupported-site = { -brand-product-name } 商品評論檢查器，可幫助您確認購物網站上的商品評論有多可靠。商品評論檢查器可透過 AI 技術分析 { $firstSite }、{ $secondSite } 及 { $thirdSite } 上的評論內容。<a data-l10n-name="learn_more">更多資訊</a>
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
 shopping-callout-opt-in-integrated-headline = 這些商品評論可信嗎？
+# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
+shopping-callout-not-opted-in-integrated-paragraph1 = 開啟 { -brand-product-name } 的商品評論檢查器即可確認。本服務是由 { -fakespot-brand-full-name } 推出，使用 AI 技術分析商品評價。
+shopping-callout-not-opted-in-integrated-paragraph2 = 選擇「{ shopping-opt-in-integrated-button }」，代表您同意 { -brand-product-name } 的<a data-l10n-name="privacy_policy">隱私權公告</a>與 { -fakespot-brand-full-name } 的<a data-l10n-name="terms_of_use">使用條款</a>。
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = 知道了！
 shopping-callout-not-opted-in-integrated-reminder-accept-button = 開啟商品評論檢查器
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = 不要再顯示此建議
 shopping-callout-not-opted-in-integrated-reminder-show-fewer = 減少顯示建議
 shopping-callout-not-opted-in-integrated-reminder-manage-settings = 管理設定
+shopping-opt-in-integrated-privacy-policy-and-terms-of-use = 商品評論檢查器是由 { -fakespot-brand-full-name } 提供。選擇「{ shopping-opt-in-integrated-button }」，代表您同意 { -brand-product-name } 的<a data-l10n-name="privacy_policy">隱私權公告</a>與 { -fakespot-brand-name } 的<a data-l10n-name="terms_of_use">使用條款</a>。
 shopping-opt-in-integrated-button = 試用商品評論檢查器
 
 ## Message strings for Review Checker's empty states.
