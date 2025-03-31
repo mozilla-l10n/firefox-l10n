@@ -142,14 +142,75 @@ contextual-manager-passwords-remove-all-message =
         [many] Bydd hyn yn dileu'r cyfrineiriau sydd wedi'u cadw i { -brand-short-name } ac unrhyw rybuddion tor-data.  Nid oes moddi chi ddadwneud y weithred hon.
        *[other] Bydd hyn yn dileu'r cyfrineiriau sydd wedi'u cadw i { -brand-short-name } ac unrhyw rybuddion tor-data.  Nid oes moddi chi ddadwneud y weithred hon.
     }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] Bydd hyn yn dileu'r cyfrinair sydd wedi'i gadw i { -brand-short-name } ar eich holl ddyfeisiau sydd wedi'u cydweddu ac yn dileu unrhyw rybuddion tor-data. Does dim modd dadwneud y weithred hon.
+        [zero] Bydd hyn yn dileu'r holl gyfrineiriau sydd wedi'u cadw i { -brand-short-name } ar eich holl ddyfeisiau sydd wedi'u cydweddu ac yn dileu unrhyw rybuddion tor-data. Does dim modd dadwneud y weithred hon.
+        [one] Bydd hyn yn dileu'r cyfrinair sydd wedi'i gadw i { -brand-short-name } ar eich holl ddyfeisiau sydd wedi'u cydweddu ac yn dileu unrhyw rybuddion tor-data. Does dim modd dadwneud y weithred hon.
+        [two] Bydd hyn yn dileu'r holl gyfrineiriau sydd wedi'u cadw i { -brand-short-name } ar eich holl ddyfeisiau sydd wedi'u cydweddu ac yn dileu unrhyw rybuddion tor-data. Does dim modd dadwneud y weithred hon.
+        [few] Bydd hyn yn dileu'r holl gyfrineiriau sydd wedi'u cadw i { -brand-short-name } ar eich holl ddyfeisiau sydd wedi'u cydweddu ac yn dileu unrhyw rybuddion tor-data. Does dim modd dadwneud y weithred hon.
+        [many] Bydd hyn yn dileu'r holl gyfrineiriau sydd wedi'u cadw i { -brand-short-name } ar eich holl ddyfeisiau sydd wedi'u cydweddu ac yn dileu unrhyw rybuddion tor-data. Does dim modd dadwneud y weithred hon.
+       *[other] Bydd hyn yn dileu'r holl gyfrineiriau sydd wedi'u cadw i { -brand-short-name } ar eich holl ddyfeisiau sydd wedi'u cydweddu ac yn dileu unrhyw rybuddion tor-data. Does dim modd dadwneud y weithred hon.
+    }
+contextual-manager-passwords-origin-label = Gwefan
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Enw Defnyddiwr
+    .data-after = Wedi'i gopïo
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Cyfrinair
+    .data-after = Wedi'i gopïo
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Hidlo cyfrineiriau
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = Ychwanegwyd cyfrinair ar gyfer { $url }
+contextual-manager-passwords-add-password-success-button = Golwg
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = Mae cyfrinair ac enw defnyddiwr ar gyfer { $url } yn bodoli eisoes
+contextual-manager-passwords-password-already-exists-error-button = Mynd i gyfrinair
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Cyfrinair wedi'i gadw
 contextual-manager-passwords-update-password-success-button = Gorffen
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] Cyfrinair wedi'i dynnu
+            [zero] Cyfrineiriau wedi'u tynnu
+            [one] Cyfrinair wedi'i dynnu
+            [two] Cyfrinair wedi'u tynnu
+            [few] Cyfrinair wedi'u tynnu
+            [many] Cyfrinair wedi'u tynnu
+           *[other] Cyfrinair wedi'u tynnu
+        }
 contextual-manager-passwords-delete-password-success-button = Gorffen
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = ( { $total } ) i gyd
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = ( { $total } ) rhybudd
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Tynnu cyfrinair?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = Does dim modd i chi ddadwneud hyn.
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Nôl
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Tynnu
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Diddymu
+contextual-manager-passwords-alert-card =
+    .aria-label = Rhybuddion cyfrineiriau
+contextual-manager-passwords-alert-back-button =
+    .label = Nôl
 
 ## Login Form
 
