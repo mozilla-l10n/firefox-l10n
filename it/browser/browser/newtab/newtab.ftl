@@ -324,7 +324,7 @@ newtab-custom-settings = Gestisci altre impostazioni
 
 newtab-wallpaper-title = Sfondi
 newtab-wallpaper-reset = Ripristina predefinito
-newtab-wallpaper-upload-image = Carica un’immagine
+newtab-wallpaper-upload-image = Carica immagine
 newtab-wallpaper-custom-color = Scegli un colore
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
@@ -366,7 +366,7 @@ newtab-wallpaper-brown = Marrone
 
 ## Abstract
 
-newtab-wallpaper-category-title-abstract = Astratto
+newtab-wallpaper-category-title-abstract = Astratti
 newtab-wallpaper-abstract-green = Forme verdi
 newtab-wallpaper-abstract-blue = Forme blu
 newtab-wallpaper-abstract-purple = Forme viola
