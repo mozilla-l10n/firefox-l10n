@@ -307,6 +307,8 @@ shopping-integrated-callout-no-logo-sidebar-closed-subtitle = 選擇側邊欄中
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
 shopping-integrated-new-position-notification-title = 一樣的商品評論檢查器，全新位置
+shopping-integrated-new-position-notification-move-right-subtitle = 將商品評論檢查器及其他 { -brand-product-name } 側邊欄保留於此處，或移動至右方。可以現在切換，也可以之後隨時再到<a data-l10n-name="sidebar_settings">側邊欄選項</a>切換。
+shopping-integrated-new-position-notification-move-left-subtitle = 將商品評論檢查器及其他 { -brand-product-name } 側邊欄保留於此處，或移動至左方。可以現在切換，也可以之後隨時再到<a data-l10n-name="sidebar_settings">側邊欄選項</a>切換。
 shopping-integrated-new-position-notification-move-right-button = 移到右邊
 shopping-integrated-new-position-notification-move-left-button = 移到左邊
 shopping-integrated-new-position-notification-dismiss-button = 知道了！
