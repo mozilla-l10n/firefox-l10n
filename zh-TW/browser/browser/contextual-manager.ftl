@@ -166,7 +166,7 @@ contextual-manager-passwords-delete-password-success-button = 完成
 contextual-manager-passwords-radiobutton-all = 全部（{ $total }）
 # Radiobutton label to display total number of alerts
 #   $total (number) - Total number of alerts
-contextual-manager-passwords-radiobutton-alerts = 警示（{ $total }）
+contextual-manager-passwords-radiobutton-alerts = 警報（{ $total }）
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = 要移除密碼嗎？
 # This message warns the user that deleting a login is permanent.
@@ -178,11 +178,11 @@ contextual-manager-passwords-remove-login-card-remove-button = 移除
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = 取消
 contextual-manager-passwords-alert-card =
-    .aria-label = 密碼警示
+    .aria-label = 密碼警報
 contextual-manager-passwords-alert-back-button =
     .label = 返回
 contextual-manager-passwords-alert-list =
-    .aria-label = 警示清單
+    .aria-label = 警報清單
 contextual-manager-passwords-breached-origin-heading-and-message =
     .heading = 建議更改密碼
     .message = 此網站的密碼失竊或外洩，請更改密碼以保護您的帳號。

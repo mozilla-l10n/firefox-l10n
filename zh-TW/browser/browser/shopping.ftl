@@ -257,6 +257,7 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-opt-in-integrated-headline = 這些商品評論可信嗎？
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = 知道了！
 shopping-callout-not-opted-in-integrated-reminder-accept-button = 開啟商品評論檢查器
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = 不要再顯示此建議

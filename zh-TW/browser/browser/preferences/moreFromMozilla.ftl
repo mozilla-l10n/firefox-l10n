@@ -31,7 +31,7 @@ more-from-moz-firefox-relay-button = 取得 { -relay-brand-short-name }
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-us-description = 自動帶您收回曝光的個人資訊。
-more-from-moz-mozilla-monitor-global-description = 當您的個資遭到外洩時發出警示。
+more-from-moz-mozilla-monitor-global-description = 當您的個資遭到外洩時發出警報。
 more-from-moz-mozilla-monitor-button = 取得 { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
