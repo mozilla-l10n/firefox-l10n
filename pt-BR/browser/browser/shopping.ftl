@@ -254,6 +254,8 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 ## Review Checker in Integrated sidebar
 
+# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
+shopping-opt-in-integrated-headline = Faça compras com confiança
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
@@ -280,6 +282,7 @@ shopping-integrated-callout-opted-out-subtitle = Para ativar novamente, selecion
 
 ## Callout for where to find Review Checker when the sidebar closes
 
+shopping-integrated-callout-sidebar-closed-title = Voltar ao verificador de avaliações
 shopping-integrated-callout-sidebar-closed-subtitle = Selecione a etiqueta de preço no painel lateral para ver se você pode confiar nas avaliações de um produto.
 shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Selecione o botão no painel lateral para ver se você pode confiar nas avaliações de um produto.
 

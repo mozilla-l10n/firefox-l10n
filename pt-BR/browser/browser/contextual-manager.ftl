@@ -117,6 +117,20 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Remover
        *[other] Remover tudo
     }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] Esta operação remove sua senha salva no { -brand-short-name } e quaisquer alertas de vazamento de dados. Esta ação não pode ser desfeita.
+       *[other] Esta operação remove as senhas salvas no { -brand-short-name } e quaisquer alertas de vazamento de dados. Esta ação não pode ser desfeita.
+    }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] Esta operação remove a senha salva no { -brand-short-name } em todos os seus dispositivos conectados e remove quaisquer alertas de vazamento de dados. Esta ação não pode ser desfeita.
+       *[other] This will remove all passwords saved to { -brand-short-name } on all your synced devices and remove any breach alerts. You cannot undo this action.
+    }
 contextual-manager-passwords-origin-label = Site
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = Nome de usuário
