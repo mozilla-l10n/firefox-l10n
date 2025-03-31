@@ -520,4 +520,5 @@ newtab-section-mangage-topics-followed-topics = 已追蹤
 newtab-section-mangage-topics-followed-topics-empty-state = 您並未關注任何主題。
 newtab-section-mangage-topics-blocked-topics = 已封鎖
 newtab-section-mangage-topics-blocked-topics-empty-state = 您並未封鎖任何主題。
+newtab-custom-wallpaper-title = 可以在這裡自訂背景圖片
 newtab-custom-wallpaper-cta = 試試看

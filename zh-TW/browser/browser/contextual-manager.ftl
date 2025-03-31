@@ -115,6 +115,20 @@ contextual-manager-passwords-remove-all-confirm-button =
         [1] 移除
        *[other] 移除全部
     }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] 將移除所有儲存到 { -brand-short-name } 的密碼與資料外洩警報，無法還原此行為。
+       *[other] 將移除所有儲存到 { -brand-short-name } 的密碼與資料外洩警報，無法還原此行為。
+    }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] 將從您所有同步的裝置中，移除儲存到 { -brand-short-name } 的密碼，也會清除資料外洩警報，無法還原此行為。
+       *[other] 將從您所有同步的裝置中，移除儲存到 { -brand-short-name } 的密碼，也會清除資料外洩警報，無法還原此行為。
+    }
 contextual-manager-passwords-origin-label = 網站
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = 使用者名稱
@@ -129,6 +143,10 @@ contextual-manager-passwords-radiogroup-label =
 contextual-manager-passwords-add-password-success-heading =
     .heading = 已新增 { $url } 的密碼
 contextual-manager-passwords-add-password-success-button = 檢視
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = { $url } 的帳號密碼已存在
 contextual-manager-passwords-password-already-exists-error-button = 前往密碼
 contextual-manager-passwords-update-password-success-heading =
     .heading = 已儲存密碼
@@ -168,10 +186,12 @@ contextual-manager-passwords-alert-list =
 contextual-manager-passwords-breached-origin-heading-and-message =
     .heading = 建議更改密碼
     .message = 此網站的密碼失竊或外洩，請更改密碼以保護您的帳號。
+contextual-manager-passwords-breached-origin-link-message = { -brand-product-name } 如何知道發生資料外洩事件的？
 contextual-manager-passwords-change-password-button = 更改密碼
 contextual-manager-passwords-vulnerable-password-heading-and-message =
     .heading = 建議更改密碼
     .message = 此密碼太容易被猜到，請更改密碼以保護您的帳號。
+contextual-manager-passwords-vulnerable-password-link-message = { -brand-product-name } 如何知道密碼太弱？
 contextual-manager-passwords-no-username-heading-and-message =
     .heading = 新增使用者名稱
     .message = 新增使用者名稱讓您更快速登入。
@@ -231,6 +251,10 @@ contextual-manager-password-login-line-with-alert =
     .title = 複製密碼（警告）
 contextual-manager-edit-login-button = 編輯
     .tooltiptext = 編輯密碼
+contextual-manager-view-alert-heading =
+    .heading = 檢視警報
+contextual-manager-view-alert-button =
+    .tooltiptext = 檢視警報內容
 contextual-manager-show-password-button =
     .aria-label = 顯示密碼
     .title = 顯示密碼
@@ -247,6 +271,9 @@ contextual-manager-passwords-no-passwords-found-message = 找不到密碼，請�
 
 # This string encourages the user to save their passwords in Firefox (the "safe spot").
 contextual-manager-passwords-no-passwords-header = 將您的密碼儲存於安全的地方。
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = 所有密碼都經過加密，我們會為您監控是否發生資料外洩事件，並在您受到影響時通知。
 # This string encourages the user to save their passwords to Firefox again.
 contextual-manager-passwords-no-passwords-get-started-message = 加到此處開始使用。
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
@@ -255,5 +282,8 @@ contextual-manager-passwords-add-manually = 手動新增
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = 要不儲存就關閉嗎？
+    .message = 不會儲存您的變更。
 contextual-manager-passwords-discard-changes-close-button = 關閉
 contextual-manager-passwords-discard-changes-go-back-button = 回上一頁
