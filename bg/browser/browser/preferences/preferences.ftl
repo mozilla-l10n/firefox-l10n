@@ -225,6 +225,7 @@ containers-remove-cancel-button = Запазване
 settings-tabs-show-image-in-preview =
     .label = Показване на визуализация, когато задържите курсора на мишката върху раздел
     .accessKey = х
+browser-layout-header = Оформление на браузъра
 
 ## General Section - Language & Appearance
 
