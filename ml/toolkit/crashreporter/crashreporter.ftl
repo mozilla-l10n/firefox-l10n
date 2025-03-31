@@ -27,3 +27,9 @@ crashreporter-crash-identifier = തകർച്ച ID: { $id }
 
 # Error strings
 
+# $path (String) - the file path
+crashreporter-error-opening-file = ഫയൽ തുറക്കാൻ പറ്റിയില്ല ({ $path })
+# $path (String) - the file path
+crashreporter-error-loading-file = ഫയൽ ലഭ്യമാക്കാൻ പറ്റിയില്ല ({ $path })
+# $path (String) - the path
+crashreporter-error-creating-dir = അറ ഉണ്ടാക്കാൻ പറ്റിയില്ല ({ $path })

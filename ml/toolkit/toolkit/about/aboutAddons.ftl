@@ -137,6 +137,10 @@ addon-category-recent-updates-title =
 addon-category-sitepermission = വെബുസ്ഥാന അനുമതികൾ
 addon-category-sitepermission-title =
     .title = വെബുസ്ഥാന അനുമതികൾ
+# String displayed in about:addons in the Site Permissions section
+# Variables:
+#  $host (string) - DNS host name for which the webextension enables permissions
+addon-sitepermission-host = { $host }-നു് വെബിട അനുമതികൾ
 
 ## These are global warnings
 
@@ -216,6 +220,10 @@ shortcuts-invalid = അസാധുവായ ചേൎച്ചൽ
 shortcuts-letter = അക്ഷരം എഴുതുക
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = കുറുക്കുവഴി ഇരട്ടിക്കുക
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = മുൻപുതന്നെ { $addon } ഉപയോഗിക്കുമായിരുന്നു
 # Variables:
 #   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
@@ -285,6 +293,15 @@ addon-detail-version-label = പതിപ്പു്
 addon-detail-last-updated-label = ഏറ്റവും ഒടുവില്‍ പുതുക്കിയതു്
 addon-detail-homepage-label = ആമുഖതാൾ
 install-postponed-button = ഉടൻ പുതുക്കുക
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = 5-ൽ { NUMBER($rating, maximumFractionDigits: 1) } സ്ഥാനക്രമം
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (പ്രവൎത്തനരഹിതം)
 
 ## Pending uninstall message bar
 
@@ -364,6 +381,7 @@ details-notification-incompatible = { -brand-short-name } { $version }-നോട
 #   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { -brand-short-name } { $version }-നോടൊപ്പം { $name } പൊരുത്തപ്പെടുന്നു.
+details-notification-incompatible-link = കൂടുതല്‍ വിവരങ്ങള്‍
 details-notification-unsigned-and-disabled = { $name } { -brand-short-name } ൽ ഉപയോഗിക്കാൻ പറ്റുമോയെന്ന് ഉറപ്പുവരുത്തിയിട്ടില്ലാത്തതിനാൽ അവ പ്രവർത്തരനരഹിതമാക്കിയിരിക്കുന്നു.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } { -brand-short-name } ൽ ഉപയോഗിക്കാൻ പറ്റുമോയെന്ന് ഉറപ്പുവരുത്തിയിട്ടില്ലാത്തതിനാൽ അവ പ്രവർത്തരനരഹിതമാക്കിയിരിക്കുന്നു.
@@ -371,12 +389,21 @@ details-notification-unsigned-and-disabled-link = കൂടുതല്‍ വ�
 details-notification-unsigned = { $name } { -brand-short-name } ൽ ഉപയോഗിക്കാമോ എന്ന് ഉറപ്പുവരുത്തിയിട്ടില്ല. ശ്രദ്ധയോടെ തുടരുക.
 details-notification-unsigned2 =
     .message = { $name } { -brand-short-name } ൽ ഉപയോഗിക്കാമോ എന്ന് ഉറപ്പുവരുത്തിയിട്ടില്ല. ശ്രദ്ധയോടെ തുടരുക.
+details-notification-hard-blocked-extension =
+    .message = മോസില്ലയുടെ നയങ്ങൾ ലംഘിച്ചതിനാൽ ഈ വിപുലീകരണം തടയുകയും പ്രവർത്തനരഹിതമാക്കുകയും ചെയ്തു.
+details-notification-hard-blocked-other =
+    .message = മോസില്ലയുടെ നയങ്ങൾ ലംഘിച്ചതിനാൽ ഈ ആഡോൺ തടയുകയും പ്രവർത്തനരഹിതമാക്കുകയും ചെയ്തു.
 details-notification-unsigned-link = കൂടുതല്‍ വിവരങ്ങള്‍
 details-notification-blocked = സുരക്ഷാ, സ്ഥിരത പ്രശ്നങ്ങള്‍ കാരണം { $name } പ്രവര്‍ത്തന രഹിതമാണു്.
 details-notification-blocked2 =
     .message = സുരക്ഷാ, സ്ഥിരത പ്രശ്നങ്ങള്‍ കാരണം { $name } പ്രവര്‍ത്തന രഹിതമാണു്.
+details-notification-blocked-link2 = വിശദാംശങ്ങൾ കാണുക
+details-notification-soft-blocked-extension-disabled =
+    .message = ഈ വിപുലീകരണം മോസില്ലയുടെ നയങ്ങൾ ലംഘിക്കുന്നതിനാൽ പ്രവർത്തനരഹിതമാക്കിയിരിക്കുന്നു. താങ്ങൾക്കു് ഇതു് പ്രവർത്തനക്ഷമമാക്കാൻ കഴിയും, എന്നാൽ ഇതു് അപകടകരമായേക്കാം.
 details-notification-soft-blocked-extension-enabled =
     .message = ഈ വിപുലീകരണം മോസില്ലയുടെ നയങ്ങളെ ലംഘിക്കുന്നു. ഇത് ഉപയോഗിക്കുന്നതു് അപകടകരമായേക്കാം.
+details-notification-soft-blocked-other-disabled =
+    .message = ഈ ആഡ് ഓൺ മോസില്ലയുടെ നയങ്ങൾ ലംഘിക്കുന്നതിനാൽ പ്രവർത്തനരഹിതമാക്കിയിരിക്കുന്നു. താങ്ങൾക്കു് ഇതു് പ്രവർത്തനക്ഷമമാക്കാൻ കഴിയും, എന്നാൽ ഇതു് അപകടകരമായേക്കാം.
 details-notification-soft-blocked-other-enabled =
     .message = ഈ വിപുലീകരണം മോസില്ലയുടെ നയങ്ങളെ ലംഘിക്കുന്നു. ഇത് ഉപയോഗിക്കുന്നതു് അപകടകരമായേക്കാം.
 details-notification-softblocked-link2 = വിശദാംശങ്ങൾ കാണുക

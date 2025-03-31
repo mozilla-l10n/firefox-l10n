@@ -205,4 +205,5 @@ contextual-manager-passwords-add-manually = 手动添加
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-close-button = 关闭
 contextual-manager-passwords-discard-changes-go-back-button = 返回
