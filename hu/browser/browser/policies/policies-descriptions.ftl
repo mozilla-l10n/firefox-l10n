@@ -130,6 +130,7 @@ policy-SearchSuggestEnabled = A keresési javaslatok engedélyezése vagy letilt
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = PKCS #11 modulok hozzáadása vagy törlése.
 policy-ShowHomeButton = A kezdőoldal gomb megjelenítése az eszköztáron.
+policy-SkipTermsOfUse = Indításkor ne jelenítse meg a Felhasználási feltételeket és az Adatvédelmi nyilatkozatot.
 policy-SSLVersionMax = A legmagasabb SSL verzió beállítása.
 policy-SSLVersionMin = A legkisebb SSL verzió beállítása.
 policy-StartDownloadsInTempDirectory = A letöltések arra kényszerítése, hogy az alapértelmezett letöltési könyvtár helyett egy helyi, ideiglenes helyen induljanak el.

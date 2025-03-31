@@ -524,3 +524,6 @@ newtab-section-mangage-topics-followed-topics = Követve
 newtab-section-mangage-topics-followed-topics-empty-state = Még nem követ egyetlen témát sem.
 newtab-section-mangage-topics-blocked-topics = Blokkolva
 newtab-section-mangage-topics-blocked-topics-empty-state = Még nem blokkol egyetlen témát sem.
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle = Töltse fel a saját háttérképét, vagy válasszon egy egyéni háttérszínt, hogy a { -brand-product-name } a sajátja legyen.
+newtab-custom-wallpaper-cta = Próbálja ki

@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-policies-title = Vállalati házirendek
+aboutpolicies-page-heading =
+    .heading = A házirendekről
 # 'Active' is used to describe the policies that are currently active
 active-policies-tab = Aktív
 errors-tab = Hibák
