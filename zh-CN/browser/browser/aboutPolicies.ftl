@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-policies-title = 企业策略
+aboutpolicies-page-heading =
+    .heading = 关于策略
 # 'Active' is used to describe the policies that are currently active
 active-policies-tab = 已激活
 errors-tab = 错误
