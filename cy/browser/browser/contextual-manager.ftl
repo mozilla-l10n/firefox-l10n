@@ -67,11 +67,25 @@ contextual-manager-passwords-import-success-heading =
 contextual-manager-passwords-import-success-message = Newydd: { $added }, Diweddarwyd: { $modified }
 contextual-manager-passwords-import-detailed-report = Gweld adroddiad manwl
 contextual-manager-passwords-import-success-button = Gorffen
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = Methu mewnforio cyfrineiriau
+    .message = Gwnewch yn siŵr fod eich ffeil yn cynnwys colofn ar gyfer gwefan, enw defnyddiwr a chyfrineiriau.
+contextual-manager-passwords-import-error-button-try-again = Ceisiwch Eto
 contextual-manager-passwords-import-error-button-cancel = Diddymu
+contextual-manager-passwords-import-learn-more = Dysgwch am fewnforio cyfrineiriau
+contextual-manager-passwords-export-success-heading =
+    .heading = Cyfrineiriau wedi'u hallforio
 contextual-manager-passwords-export-success-button = Gorffen
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = Allforio cyfrineiriau i ffeil?
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = Ar ôl i chi allforio, rydym yn argymell ei ddileu fel nad yw rhywun arall a allai ddefnyddio'r ddyfais hon weld eich cyfrineiriau.
 contextual-manager-export-passwords-dialog-confirm-button = Parhau i allforio
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Allforio Cyfrineiriau o { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = cyfrineiriau
 contextual-manager-passwords-export-file-picker-export-button = Allforio
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -79,6 +93,18 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] Dogfen CSV
        *[other] Ffeil CSV
+    }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] Tynnu cyfrinair?
+        [zero] Tynnu cyfrineiriau
+        [one] Tynnu pob un o'r { $total } cyfrinair?
+        [two] Tynnu pob un o'r { $total } gyfrinair?
+        [few] Tynnu pob un o'r { $total } cyfrinair?
+        [many] Tynnu pob un o'r { $total } chyfrinair?
+       *[other] Tynnu pob un o'r { $total } cyfrinair?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
@@ -103,6 +129,18 @@ contextual-manager-passwords-remove-all-confirm-button =
         [few] Tynnu
         [many] Tynnu
        *[other] Tynnu'r Cyfan
+    }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] Bydd hyn yn dileu'r cyfrinair sydd wedi'i gadw i { -brand-short-name } ac unrhyw rybuddion tor-data.  Nid oes moddi chi ddadwneud y weithred hon.
+        [zero] Bydd hyn yn dileu'r cyfrineiriau sydd wedi'u cadw i { -brand-short-name } ac unrhyw rybuddion tor-data.  Nid oes moddi chi ddadwneud y weithred hon.
+        [one] Bydd hyn yn dileu'r cyfrinair sydd wedi'i gadw i { -brand-short-name } ac unrhyw rybuddion tor-data.  Nid oes moddi chi ddadwneud y weithred hon.
+        [two] Bydd hyn yn dileu'r cyfrineiriau sydd wedi'u cadw i { -brand-short-name } ac unrhyw rybuddion tor-data.  Nid oes moddi chi ddadwneud y weithred hon.
+        [few] Bydd hyn yn dileu'r cyfrineiriau sydd wedi'u cadw i { -brand-short-name } ac unrhyw rybuddion tor-data.  Nid oes moddi chi ddadwneud y weithred hon.
+        [many] Bydd hyn yn dileu'r cyfrineiriau sydd wedi'u cadw i { -brand-short-name } ac unrhyw rybuddion tor-data.  Nid oes moddi chi ddadwneud y weithred hon.
+       *[other] Bydd hyn yn dileu'r cyfrineiriau sydd wedi'u cadw i { -brand-short-name } ac unrhyw rybuddion tor-data.  Nid oes moddi chi ddadwneud y weithred hon.
     }
 contextual-manager-passwords-update-password-success-button = Gorffen
 contextual-manager-passwords-delete-password-success-button = Gorffen
