@@ -256,18 +256,37 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 ## Review Checker in Integrated sidebar
 
+# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
+shopping-opt-in-integrated-headline = Vásároljon magabiztosan
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-opt-in-integrated-headline = Megbízhat ezekben az értékelésekben?
+shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Eltüntetés
+shopping-callout-not-opted-in-integrated-reminder-accept-button = Értékelés-ellenőrző bekapcsolása
+shopping-callout-not-opted-in-integrated-reminder-do-not-show = Ne jelenítse meg újra ezt a javaslatot
+shopping-callout-not-opted-in-integrated-reminder-show-fewer = Kevesebb javaslat megjelenítése
+shopping-callout-not-opted-in-integrated-reminder-manage-settings = Beállítások kezelése
+shopping-opt-in-integrated-button = Próbálja ki az értékelés-ellenőrzőt
 
 ## Message strings for Review Checker's empty states.
 
+shopping-empty-state-header = Készen áll az értékelések ellenőrzésére
+shopping-empty-state-supported-site = Nézzen meg egy terméket, és a { -brand-product-name } ellenőrzi, hogy az értékelések megbízhatóak-e.
+# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
+# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
+shopping-empty-state-non-supported-site = Az értékelés-ellenőrző akkor működik, ha a következő helyeken vásárol:
 
 ## Confirm disabling Review Checker for newly opted out users
 
+shopping-integrated-callout-opted-out-title = Az értékelés-ellenőrző ki van kapcsolva
+shopping-integrated-callout-opted-out-subtitle = A visszakapcsoláshoz válassza ki az árcédulát az oldalsávban, és kapcsolja be az értékelés-ellenőrzőt.
 
 ## Callout for where to find Review Checker when the sidebar closes
 
+shopping-integrated-callout-sidebar-closed-title = Térjen vissza az értékelés-ellenőrzőhöz
+shopping-integrated-callout-sidebar-closed-subtitle = Válassza az árcédulát az oldalsávban, hogy megnézze, megbízhat-e egy termék értékelésében.
+shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Válassza az oldalsávgombot, hogy megnézze, megbízhat-e egy termék értékelésében.
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
