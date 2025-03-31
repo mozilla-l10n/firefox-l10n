@@ -61,6 +61,10 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = 密码已导入
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = 已新增 { $added } 个，已更新 { $modified } 个
 contextual-manager-passwords-import-detailed-report = 查看详细报告
 contextual-manager-passwords-import-success-button = 完成
 contextual-manager-passwords-import-error-button-cancel = 取消
