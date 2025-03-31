@@ -16,7 +16,9 @@ contextual-manager-more-options-popup =
 contextual-manager-passwords-command-create = Tambahkan sandi
 contextual-manager-passwords-command-import-from-browser = Impor dari Peramban Lain…
 contextual-manager-passwords-command-import = Impor dari Berkas…
+contextual-manager-passwords-command-settings = Pengaturan
 contextual-manager-passwords-command-help = Bantuan
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }{ -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Untuk mengekspor kata sandi Anda, ketikkan kredensial masuk Windows Anda. Hal ini membantu melindungi keamanan akun Anda.
 # This message can be seen when attempting to export a password in about:logins
@@ -39,6 +41,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Untuk me
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = menyalin kata sandi tersimpan.
+contextual-manager-passwords-import-file-picker-title = Impor Sandi
 contextual-manager-passwords-import-file-picker-import-button = Impor
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -54,12 +57,19 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] Berkas TSV
        *[other] Berkas TSV
     }
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = Baru: { $added }, Diperbarui: { $modified }
 contextual-manager-passwords-import-success-button = Selesai
 contextual-manager-passwords-import-error-button-cancel = Batalkan
 contextual-manager-passwords-export-success-button = Selesai
 contextual-manager-export-passwords-dialog-confirm-button = Lanjutkan dengan ekspor
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Ekspor Kata Sandi dari { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = sandi
 contextual-manager-passwords-export-file-picker-export-button = Ekspor
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -67,6 +77,13 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] Dokumen CSV
        *[other] Berkas CSV
+    }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] Hapus sandi?
+       *[other] Hapus semua { $total } sandi?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
