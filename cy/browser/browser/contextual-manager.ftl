@@ -6,13 +6,21 @@ contextual-manager-filter-input =
     .placeholder = Chwilio Cyfrineiriau
     .key = F
     .aria-label = Chwilio Cyfrineiriau
+contextual-manager-menu-more-options-button =
+    .title = Rhagor o ddewisiadau
+contextual-manager-more-options-popup =
+    .aria-label = Rhagor o Opsiynau
 
 ## Passwords
 
 contextual-manager-passwords-command-create = Ychwanegu cyfrinair
 contextual-manager-passwords-command-import-from-browser = Mewnforio o Borwr Arall…
 contextual-manager-passwords-command-import = Mewnforio o Ffeil…
+contextual-manager-passwords-command-export = Allforio cyfrineiriau
+contextual-manager-passwords-command-remove-all = Tynnu pob cyfrinair
+contextual-manager-passwords-command-settings = Gosodiadau
 contextual-manager-passwords-command-help = Cymorth
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = I allforio eich cyfrineiriau, rhowch eich manylion mewngofnodi Windows. Mae hyn yn helpu i ddiogelu diogelwch eich cyfrifon.
 # This message can be seen when attempting to export a password in about:logins
@@ -35,6 +43,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = I gopïo
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = copïo'r cyfrinair sydd wedi'i gadw
+contextual-manager-passwords-import-file-picker-title = Mewnforio Cyfrineiriau
 contextual-manager-passwords-import-file-picker-import-button = Mewnforio
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -50,6 +59,13 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] Dogfen TSV
        *[other] Ffeil TSV
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = Cyfrineiriau wedi'u mewnforio
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = Newydd: { $added }, Diweddarwyd: { $modified }
+contextual-manager-passwords-import-detailed-report = Gweld adroddiad manwl
 contextual-manager-passwords-import-success-button = Gorffen
 contextual-manager-passwords-import-error-button-cancel = Diddymu
 contextual-manager-passwords-export-success-button = Gorffen

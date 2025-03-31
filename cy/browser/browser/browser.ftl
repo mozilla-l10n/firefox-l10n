@@ -332,6 +332,9 @@ quickactions-cmd-addons2 = ychwanegion
 quickactions-bookmarks2 = Rheoli nodau tudalen
 quickactions-cmd-bookmarks = nodau tudalen
 # Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Clirio hanes diweddar
+quickactions-cmd-clearrecenthistory = clirio hanes diweddar, hanes
+# Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Clirio Hanes
 quickactions-cmd-clearhistory = clirio hanes
 # Opens about:downloads page
@@ -340,6 +343,15 @@ quickactions-cmd-downloads = llwythi i lawr
 # Opens about:addons page in the extensions section
 quickactions-extensions = Rheoli estyniadau
 quickactions-cmd-extensions = estyniadau
+# Opens Firefox View
+quickactions-firefoxview = Agor { -firefoxview-brand-name }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = agor { -firefoxview-brand-name }, { -firefoxview-brand-name }, agor golwg, gweld
+# Opens SUMO home page
+quickactions-help = Cymorth { -brand-product-name }
+quickactions-cmd-help = cymorth, cefnogaeth
 # Opens the devtools web inspector
 quickactions-inspector2 = Agor Offer Datblygwyr
 quickactions-cmd-inspector = arolygydd, devtools
