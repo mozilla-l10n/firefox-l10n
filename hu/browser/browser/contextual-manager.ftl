@@ -6,13 +6,20 @@ contextual-manager-filter-input =
     .placeholder = Jelszavak keresése
     .key = F
     .aria-label = Jelszavak keresése
+contextual-manager-menu-more-options-button =
+    .title = További beállítások
+contextual-manager-more-options-popup =
+    .aria-label = További beállítások
 
 ## Passwords
 
 contextual-manager-passwords-command-create = Jelszó hozzáadása
 contextual-manager-passwords-command-import-from-browser = Importálás egy másik böngészőből…
 contextual-manager-passwords-command-import = Importálás fájlból…
+contextual-manager-passwords-command-export = Jelszavak exportálása
+contextual-manager-passwords-command-settings = Beállítások
 contextual-manager-passwords-command-help = Súgó
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = A jelszavai exportálásához írja be a Windows bejelentkezési adatait. Ez elősegíti a fiókja biztonságának védelmét.
 # This message can be seen when attempting to export a password in about:logins
@@ -35,6 +42,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = A jelsza
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = másolja a mentett jelszót
+contextual-manager-passwords-import-file-picker-title = Jelszavak importálása
 contextual-manager-passwords-import-file-picker-import-button = Importálás
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -50,6 +58,13 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] TSV-dokumentum
        *[other] TSV-fájl
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = Jelszavak importálva
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = Új: { $added }, frissítve: { $modified }
+contextual-manager-passwords-import-detailed-report = Részletes jelentés megtekintése
 contextual-manager-passwords-import-success-button = Kész
 contextual-manager-passwords-import-error-button-cancel = Mégse
 contextual-manager-passwords-export-success-button = Kész

@@ -332,6 +332,9 @@ quickactions-cmd-addons2 = kiegészítők
 quickactions-bookmarks2 = Könyvjelzők kezelése
 quickactions-cmd-bookmarks = könyvjelzők
 # Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Előzmények törlése
+quickactions-cmd-clearrecenthistory = előzmények törlése, előzmények
+# Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Előzmények törlése
 quickactions-cmd-clearhistory = előzmények törlése
 # Opens about:downloads page
@@ -340,6 +343,15 @@ quickactions-cmd-downloads = letöltések
 # Opens about:addons page in the extensions section
 quickactions-extensions = Kiegészítők kezelése
 quickactions-cmd-extensions = kiegészítők
+# Opens Firefox View
+quickactions-firefoxview = { -firefoxview-brand-name } megnyitása
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = { -firefoxview-brand-name } megnyitása, { -firefoxview-brand-name }, nézet megnyitása, nézet
+# Opens SUMO home page
+quickactions-help = { -brand-product-name } súgó
+quickactions-cmd-help = súgó, támogatás
 # Opens the devtools web inspector
 quickactions-inspector2 = Fejlesztői eszközök megnyitása
 quickactions-cmd-inspector = vizsgáló, fejlesztői eszközök
