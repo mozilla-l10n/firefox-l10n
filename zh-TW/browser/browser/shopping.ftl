@@ -286,14 +286,21 @@ shopping-opt-in-integrated-button = 試用商品評論檢查器
 ## Message strings for Review Checker's empty states.
 
 shopping-empty-state-header = 已可檢查商品評論
+shopping-empty-state-supported-site = 打開一套商品，{ -brand-product-name } 會為您檢查評論是否可靠。
+# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
+# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
+shopping-empty-state-non-supported-site = 您在下列網站購物時，可使用商品評論檢查器：
 
 ## Confirm disabling Review Checker for newly opted out users
 
 shopping-integrated-callout-opted-out-title = 商品評論檢查器已關閉
+shopping-integrated-callout-opted-out-subtitle = 若要再次開啟，請在側邊欄選擇價格標籤，即可開啟商品評論檢查器。
 
 ## Callout for where to find Review Checker when the sidebar closes
 
 shopping-integrated-callout-sidebar-closed-title = 返回商品評論檢查器
+shopping-integrated-callout-sidebar-closed-subtitle = 在側邊欄選擇價格標籤，即可看看商品評論是否可信。
+shopping-integrated-callout-no-logo-sidebar-closed-subtitle = 選擇側邊欄中的按鈕，即可看看商品評論是否可信。
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
@@ -314,3 +321,7 @@ shopping-settings-auto-open-and-close-toggle =
 #   $secondSite (String) - The second shopping page name
 #   $thirdSite (String) - The third shopping page name
 shopping-settings-auto-open-and-close-description-three-sites = 當您在 { $firstSite }、{ $secondSite } 或 { $thirdSite } 檢視商品時自動開啟，結束後自動關閉
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-and-close-description-single-site = 當您在 { $currentSite } 檢視商品時開啟，並在離開時關閉

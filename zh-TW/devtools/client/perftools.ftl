@@ -67,6 +67,8 @@ perftools-button-edit-settings = 編輯設定值…
 perftools-menu-more-actions-button =
     .title = 更多操作
 perftools-menu-more-actions-restart-with-profiling = 重新啟動 { -brand-shorter-name } 並開啟啟動效能檢測
+perftools-menu-more-actions-copy-for-startup = 複製用於啟動效能監測的環境變數
+perftools-menu-more-actions-copy-for-perf-tests = 複製用於效能測試的參數
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
