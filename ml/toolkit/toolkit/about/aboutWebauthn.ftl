@@ -51,6 +51,7 @@ about-webauthn-auth-option-null = പിന്തുണയ്ക്കുന്�
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
 about-webauthn-auth-info-pin-protocols = പിൻ പെരുമാറ്റച്ചട്ടം
+about-webauthn-auth-info-max-msg-size = ഏറ്റവും കൂടിയ സന്ദേശന്നീളം
 about-webauthn-auth-info-extensions = വിപുലീകരണങ്ങൾ
 about-webauthn-auth-info-versions = പതിപ്പുകൾ
 # Shows when boolean value for an info field is True. True should not be translated.
@@ -61,9 +62,18 @@ about-webauthn-auth-info-null = പിന്തുണയ്ക്കുന്ന
 
 ## Bio enrollment sample feedbacks
 
+# Scan (e.g. of fingerprint) was successful.
+about-webauthn-ctap2-enroll-feedback-good = പ്രതിദൎശകം നല്ലതായിരുന്നു
 
 ## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
 
+about-webauthn-ctap2-enroll-feedback-too-high = പ്രതിദൎശകം കൂടിപ്പോയി
+about-webauthn-ctap2-enroll-feedback-too-low = പ്രതിദൎശകം കുറഞ്ഞപ്പോയി
+about-webauthn-ctap2-enroll-feedback-too-left = പ്രതിദൎശകം ഇടത്തോട്ടു് മാറിപ്പോയി
+about-webauthn-ctap2-enroll-feedback-too-right = പ്രതിദൎശകം വലത്തോട്ടു് മാറിപ്പോയി
 
 ##
 
+about-webauthn-ctap2-enroll-feedback-too-fast = പ്രതിദൎശകം ഒരുപാടു് പെട്ടന്നു് എടുത്തപ്പോയി
+about-webauthn-ctap2-enroll-feedback-too-slow = പ്രതിദൎശകം പൈയ്യെയെടുത്തു
+about-webauthn-ctap2-enroll-feedback-poor-quality = പ്രതദൎശകത്തിന്റെ നിലാവരം പോര
