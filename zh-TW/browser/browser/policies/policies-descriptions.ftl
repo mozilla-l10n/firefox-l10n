@@ -130,6 +130,7 @@ policy-SearchSuggestEnabled = 啟用或停用搜尋建議。
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = 新增或刪除 PKCS #11 模組。
 policy-ShowHomeButton = 於工具列顯示首頁按鈕。
+policy-SkipTermsOfUse = 啟動時，不要顯示使用條款與隱私權公告。
 policy-SSLVersionMax = 設定最大 SSL 版本。
 policy-SSLVersionMin = 設定最小 SSL 版本。
 policy-StartDownloadsInTempDirectory = 強制在本機的暫存位置，而非預設下載目錄開始下載。

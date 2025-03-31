@@ -205,6 +205,9 @@ contextual-manager-passwords-edit-label =
     .label = 編輯密碼
 contextual-manager-passwords-remove-label =
     .title = 刪除密碼
+contextual-manager-passwords-origin-tooltip = 請輸入用於登入此網站的完整網址。
+contextual-manager-passwords-username-tooltip = 請輸入用於登入此網站的帳號、使用者名稱，或電子郵件地址。
+contextual-manager-passwords-password-tooltip = 請輸入用於登入此網站的密碼。
 
 ## Password Card
 
