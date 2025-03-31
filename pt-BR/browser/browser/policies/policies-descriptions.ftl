@@ -130,6 +130,7 @@ policy-SearchSuggestEnabled = Ativar ou desativar sugestões de pesquisa.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Adicionar ou excluir módulos PKCS #11.
 policy-ShowHomeButton = Mostrar o botão de página inicial na barra de ferramentas.
+policy-SkipTermsOfUse = Não mostrar os termos de uso e o aviso de privacidade ao iniciar.
 policy-SSLVersionMax = Definir a versão SSL máxima.
 policy-SSLVersionMin = Definir a versão SSL mínima.
 policy-StartDownloadsInTempDirectory = Forçar iniciar downloads em um lugar temporário local em vez do diretório de download padrão.
