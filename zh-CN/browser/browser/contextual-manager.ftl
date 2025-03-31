@@ -184,10 +184,23 @@ contextual-manager-origin-login-line-with-alert =
 contextual-manager-password-login-line =
     .aria-label = 复制密码
     .title = 复制密码
+contextual-manager-show-password-button =
+    .aria-label = 显示密码
+    .title = 显示密码
+contextual-manager-hide-password-button =
+    .aria-label = 隐藏密码
+    .title = 隐藏密码
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = 找不到相关密码
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = 集中一处，安全保存密码
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = 手动添加
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
