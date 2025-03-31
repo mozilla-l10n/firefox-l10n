@@ -71,6 +71,11 @@ perftools-button-edit-settings = Beállítások szerkesztése…
 
 ## More actions menu
 
+perftools-menu-more-actions-button =
+    .title = További műveletek
+perftools-menu-more-actions-restart-with-profiling = A { -brand-shorter-name } újraindítása az indítási profilozás engedélyezésével
+perftools-menu-more-actions-copy-for-startup = Környezeti változók másolása az indítási profilozáshoz
+perftools-menu-more-actions-copy-for-perf-tests = Paraméterek másolása a teljesítménytesztekhez
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 

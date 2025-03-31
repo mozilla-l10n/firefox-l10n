@@ -17,6 +17,7 @@ contextual-manager-passwords-command-create = Jelszó hozzáadása
 contextual-manager-passwords-command-import-from-browser = Importálás egy másik böngészőből…
 contextual-manager-passwords-command-import = Importálás fájlból…
 contextual-manager-passwords-command-export = Jelszavak exportálása
+contextual-manager-passwords-command-remove-all = Összes jelszó eltávolítása
 contextual-manager-passwords-command-settings = Beállítások
 contextual-manager-passwords-command-help = Súgó
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -200,23 +201,98 @@ contextual-manager-passwords-vulnerable-password-link-message = Honnan tudja a {
 contextual-manager-passwords-no-username-heading-and-message =
     .heading = Adjon hozzá egy felhasználónevet
     .message = Adjon hozzá egy felhasználónevet, hogy gyorsabban bejelentkezhessen.
+contextual-manager-passwords-add-username-button = Felhasználónév hozzáadása
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Jelszó hozzáadása
+contextual-manager-passwords-edit-label =
+    .label = Jelszó szerkesztése
+contextual-manager-passwords-remove-label =
+    .title = Jelszó eltávolítása
+contextual-manager-passwords-origin-tooltip = Írja be a pontos címet, ahol bejelentkezik ezen az oldalon.
+contextual-manager-passwords-username-tooltip = Adja meg a bejelentkezéshez használt felhasználónevet, e-mail-címet vagy fiókszámot.
+contextual-manager-passwords-password-tooltip = Adja meg a jelszót, amellyel bejelentkezett ebbe a fiókba.
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = Jelszavak
+contextual-manager-website-icon =
+    .alt = Webhelyikon
 contextual-manager-copy-icon =
     .alt = Másolás
+contextual-manager-check-icon-username =
+    .alt = Másolva
+contextual-manager-check-icon-password =
+    .alt = Másolva
+contextual-manager-alert-icon =
+    .alt = Figyelmeztetés
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = { $url } felkeresése
+    .title = { $url } felkeresése
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = { $url } felkeresése (figyelmeztetés)
+    .title = { $url } felkeresése (figyelmeztetés)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = { $username } felhasználónév másolása
+    .title = { $username } felhasználónév másolása
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = { $username } felhasználónév másolása (figyelmeztetés)
+    .title = { $username } felhasználónév másolása (figyelmeztetés)
+contextual-manager-password-login-line =
+    .aria-label = Jelszó másolása
+    .title = Jelszó másolása
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = Jelszó másolása (figyelmeztetés)
+    .title = Jelszó másolása (figyelmeztetés)
+contextual-manager-edit-login-button = Szerkesztés
+    .tooltiptext = Jelszó szerkesztése
+contextual-manager-view-alert-heading =
+    .heading = Figyelmeztetés megtekintése
+contextual-manager-view-alert-button =
+    .tooltiptext = Figyelmeztetés felülvizsgálata
+contextual-manager-show-password-button =
+    .aria-label = Jelszó megjelenítése
+    .title = Jelszó megjelenítése
+contextual-manager-hide-password-button =
+    .aria-label = Jelszó elrejtése
+    .title = Jelszó elrejtése
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = Nem találhatók jelszavak
+contextual-manager-passwords-no-passwords-found-message = Nem találhatók jelszavak. Keressen egy másik kifejezést, és próbálja újra.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = Mentse a jelszavait biztonságos helyre.
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = Az összes jelszó titkosítva van, és figyelünk arra, hogy érintett-e egy adatvédelmi incidensben vagy figyelmeztetésben.
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = A kezdéshez adja hozzá őket itt.
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = Hozzáadás kézileg
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = Bezárás mentés nélkül?
+    .message = A változtatásai nem lesznek elmentve.
+contextual-manager-passwords-discard-changes-close-button = Bezárás
+contextual-manager-passwords-discard-changes-go-back-button = Ugrás vissza

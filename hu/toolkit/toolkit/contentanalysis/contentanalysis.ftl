@@ -13,6 +13,15 @@ contentanalysis-slow-agent-dialog-header = Keresés folyamatban
 contentanalysis-slow-agent-dialog-body-file = A(z) { $agent } ellenőrzi, hogy a(z) „{ $filename }” ellentétes-e a szervezete adatházirendjeivel. Ez eltarthat egy darabig.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
+#   $filename - Name of a file being analyzed, such as "aFile.txt"
+#   $count (number) - The number of additional items in the request for analysis
+contentanalysis-slow-agent-dialog-body-file-and-more =
+    { $count ->
+        [one] A(z) { $agent } ellenőrzi, hogy a(z) „{ $filename }” és további { $count } elem ellentétes-e a szervezete adatházirendjeivel. Ez eltarthat egy darabig.
+       *[other] A(z) { $agent } ellenőrzi, hogy a(z) „{ $filename }” és további { $count } elem ellentétes-e a szervezete adatházirendjeivel. Ez eltarthat egy darabig.
+    }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = A(z) { $agent } ellenőrzi, hogy amit beillesztett ellentétes-e a szervezete adatházirendjeivel. Ez eltarthat egy darabig.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
