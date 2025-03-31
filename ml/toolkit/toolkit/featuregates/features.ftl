@@ -5,3 +5,9 @@
 # Search during IME
 experimental-features-ime-search =
     .label = വിലാസപ്പട്ട: IME ഉണ്ടാക്കലിൽ ഫലങ്ങൾ കാണിക്കുക
+experimental-features-group-developer-tools =
+    .label = വികസനാക്താവുപകരണങ്ങൾ
+experimental-features-group-webpage-display =
+    .label = വെബുതാളക്കാട്ടൽ
+experimental-features-group-customize-browsing =
+    .label = താങ്ങളുടെ തിരച്ചിൽ ഇഷ്ടാനുസൃതമാക്കുക
