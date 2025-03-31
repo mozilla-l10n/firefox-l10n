@@ -130,6 +130,7 @@ contextual-manager-passwords-radiogroup-label =
 #   $url (string) - The url associated with the new login
 contextual-manager-passwords-add-password-success-heading =
     .heading = Senha adicionada para { $url }
+contextual-manager-passwords-add-password-success-button = Ver
 # Variables
 #   $url (string) - The url associated with the existing login
 contextual-manager-passwords-password-already-exists-error-heading =
@@ -170,26 +171,91 @@ contextual-manager-passwords-alert-back-button =
     .label = Voltar
 contextual-manager-passwords-alert-list =
     .aria-label = Lista de alertas
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = Recomendado mudar senha
+    .message = Foi relatado que senhas deste site foram roubadas ou vazadas. Mude sua senha para proteger sua conta.
 contextual-manager-passwords-breached-origin-link-message = Como o { -brand-product-name } sabe sobre vazamentos?
 contextual-manager-passwords-change-password-button = Mudar senha
 contextual-manager-passwords-vulnerable-password-heading-and-message =
     .heading = Recomendado mudar senha
     .message = Esta senha pode ser adivinhada com facilidade. Mude a senha para proteger sua conta.
+contextual-manager-passwords-vulnerable-password-link-message = Como o { -brand-product-name } sabe sobre senhas fracas?
 contextual-manager-passwords-no-username-heading-and-message =
     .heading = Adicionar nome de usuário
     .message = Adicione para entrar na conta mais rápido.
+contextual-manager-passwords-add-username-button = Adicionar nome de usuário
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Adicionar senha
+contextual-manager-passwords-edit-label =
+    .label = Editar senha
+contextual-manager-passwords-remove-label =
+    .title = Remover senha
+contextual-manager-passwords-origin-tooltip = Insira o endereço exato onde você entra na conta neste site.
+contextual-manager-passwords-username-tooltip = Digite o nome de usuário, endereço de email ou número de conta que você usa para entrar.
+contextual-manager-passwords-password-tooltip = Digite a senha usada para entrar nesta conta.
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = Senhas
+contextual-manager-website-icon =
+    .alt = Ícone do site
 contextual-manager-copy-icon =
     .alt = Copiar
+contextual-manager-check-icon-username =
+    .alt = Copiado
+contextual-manager-check-icon-password =
+    .alt = Copiada
+contextual-manager-alert-icon =
+    .alt = Aviso
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = Visitar { $url }
+    .title = Visitar { $url }
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = Visitar { $url } (aviso)
+    .title = Visitar { $url } (aviso)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = Copiar nome de usuário { $username }
+    .title = Copiar nome de usuário { $username }
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = Copiar nome de usuário { $username } (aviso)
+    .title = Copiar nome de usuário { $username } (aviso)
+contextual-manager-password-login-line =
+    .aria-label = Copiar senha
+    .title = Copiar senha
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = Copiar senha (aviso)
+    .title = Copiar senha (aviso)
+contextual-manager-edit-login-button = Editar
+    .tooltiptext = Editar senha
+contextual-manager-view-alert-heading =
+    .heading = Ver alerta
+contextual-manager-view-alert-button =
+    .tooltiptext = Revisar alerta
+contextual-manager-show-password-button =
+    .aria-label = Mostrar senha
+    .title = Mostrar senha
+contextual-manager-hide-password-button =
+    .aria-label = Ocultar senha
+    .title = Ocultar senha
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = Nenhuma senha encontrada
+contextual-manager-passwords-no-passwords-found-message = Nenhuma senha encontrada. Pesquise outro termo e tente novamente.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
