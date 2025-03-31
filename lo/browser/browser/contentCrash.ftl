@@ -27,6 +27,9 @@ pending-crash-reports-send =
     .label = ສົ່ງ
 pending-crash-reports-always-send =
     .label = ສົ່ງສະເຫມີ
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+requested-crash-reports-message = ທ່ານມີ { $reportCount } ລາຍງານການຂັດຂ້ອງທີ່ບໍ່ໄດ້ສົ່ງທີ່ກົງກັບອຸປະຕິເຫດທີ່ກຳລັງຖືກສືບສວນ, ການສົ່ງມັນຈະຊ່ວຍໃຫ້ພວກເຮົາປັບປຸງ { -brand-product-name }. ການປິດການແຈ້ງເຕືອນນີ້ຈະບໍ່ສົນໃຈລາຍງານເຫຼົ່ານີ້.
 requested-crash-reports-dont-show-again =
     .label = ຢ່າສະແດງອີກ
     .accesskey = D

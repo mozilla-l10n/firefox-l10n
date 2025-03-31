@@ -53,9 +53,14 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
 contextual-manager-passwords-import-success-button = ສຳເລັດ
 contextual-manager-passwords-import-error-button-cancel = ຍົກເລີກ
 contextual-manager-passwords-export-success-button = ສຳເລັດ
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = ຫຼັງ​ຈາກ​ທີ່​ທ່ານ​ສົ່ງ​ອອກ​, ພວກ​ເຮົາ​ແນະ​ນໍາ​ໃຫ້​ລຶບ​ມັນ​ເພື່ອ​ໃຫ້​ຄົນ​ອື່ນ​ທີ່​ອາດ​ຈະ​ໃຊ້​ອຸ​ປະ​ກອນ​ນີ້​ບໍ່​ສາ​ມາດ​ເບິ່ງ​ລະ​ຫັດ​ຜ່ານ​ຂອງ​ທ່ານ​.
 contextual-manager-export-passwords-dialog-confirm-button = ສືບຕໍ່ການສົ່ງອອກ
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = ສົ່ງອອກລະຫັດຜ່ານຈາກ { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = ລະຫັດຜ່ານ
 contextual-manager-passwords-export-file-picker-export-button = ສົ່ງອອກ...
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
