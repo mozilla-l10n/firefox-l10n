@@ -67,10 +67,13 @@ clockSkewError-title = താങ്ങളുടെ ഗണനികത്തി�
 
 ## Felt Privacy V1 Strings
 
+fp-certerror-page-title = മുന്നറിയിപ്പു് : സുരക്ഷാ അപകടസാധ്യത
 fp-certerror-body-title = സൂക്ഷിക്കുവിൻ. ഇതിൽ എന്തോ കുഴപ്പമുണ്ടെന്നു് തോന്നുന്നു.
 fp-certerror-what-can-you-do = അതിനെപ്പറ്റി താങ്ങൾക്കു് എന്തു ചെയ്യാം?
 fp-certerror-advanced-title = കൂടുതല്‍
+fp-certerror-advanced-button = കൂടുതൽ
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
+fp-certerror-override-exception-button = { $hostname }-ലേക്കു് ചെല്ലുക (സുരക്ഷിതമല്ല)
