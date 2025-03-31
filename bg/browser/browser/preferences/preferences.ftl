@@ -226,6 +226,9 @@ settings-tabs-show-image-in-preview =
     .label = Показване на визуализация, когато задържите курсора на мишката върху раздел
     .accessKey = х
 browser-layout-header = Оформление на браузъра
+browser-layout-show-sidebar =
+    .label = Странична лента
+browser-layout-show-sidebar-desc = Бърз достъп до отметки, раздели от вашия телефон, AI чат ботове и други екстри, без да напускате основния изглед на браузъра.
 
 ## General Section - Language & Appearance
 
@@ -1312,6 +1315,9 @@ collection-description = Стремим се да ви предоставяме 
 collection-privacy-notice = Политика на поверителност
 collection-health-report-telemetry-disabled = Вече не позволявате на { -vendor-short-name } да събира технически данни и данни за взаимодействията. Всички стари данни ще бъдат изтрити в рамките на 30 дни.
 collection-health-report-telemetry-disabled-link = Научете повече
+collection-usage-ping =
+    .label = Ежедневно изпращане на сигнал до { -vendor-short-name }, че продуктът се ползва
+    .accesskey = Е
 collection-health-report =
     .label = Разрешаване на { -brand-short-name } да изпраща техническа информация и данни за използването към { -vendor-short-name }
     .accesskey = т
@@ -1319,6 +1325,9 @@ collection-health-report-link = Научете повече
 collection-studies =
     .label = Разрешаване на { -brand-short-name } да инсталира и извършва изследвания
 collection-studies-link = Преглед на изследванията на { -brand-short-name }
+collection-backlogged-crash-reports2 =
+    .label = Автоматично изпращане на доклади за сривове
+    .accesskey = А
 addon-recommendations =
     .label = Разрешаване на { -brand-short-name } да прави персонализирани препоръки за разширения
 addon-recommendations-link = Научете повече
