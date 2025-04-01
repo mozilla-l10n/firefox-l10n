@@ -43,6 +43,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Parolan�
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = kayıtlı parolayı kopyalama
+contextual-manager-passwords-import-file-picker-title = Parolaları İçe Aktar
 contextual-manager-passwords-import-file-picker-import-button = İçe aktar
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -66,6 +67,9 @@ contextual-manager-passwords-import-success-heading =
 contextual-manager-passwords-import-success-message = Yeni: { $added }, Güncellenen: { $modified }
 contextual-manager-passwords-import-detailed-report = Ayrıntılı raporu görüntüle
 contextual-manager-passwords-import-success-button = Tamam
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = Parolalar içe aktarılamadı
+    .message = Dosyanızda web siteleri, kullanıcı adları ve parolalar için birer sütun bulunduğundan emin olun.
 contextual-manager-passwords-import-error-button-try-again = Yeniden dene
 contextual-manager-passwords-import-error-button-cancel = Vazgeç
 contextual-manager-passwords-import-learn-more = Parolaları içe aktarmayla ilgili bilgi al
@@ -74,6 +78,8 @@ contextual-manager-passwords-export-success-heading =
 contextual-manager-passwords-export-success-button = Tamam
 # Export passwords to file dialog
 contextual-manager-export-passwords-dialog-title = Parolalar dosyaya aktarılsın mı?
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = Parolaları dışa aktardıktan sonra, bu cihazı kullanabilecek diğer kişilerin parolalarınızı görememesi için dosyayı silmenizi öneririz.
 contextual-manager-export-passwords-dialog-confirm-button = Dışa aktarma işlemine devam et
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Parolaları { -brand-short-name } tarayıcısından dışa aktar
