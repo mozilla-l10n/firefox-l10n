@@ -137,9 +137,9 @@ firefoxview-recently-closed-header = 最近關閉的分頁
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
-firefoxview-synced-tabs-nav = 來自其他裝置的分頁
-    .title = 來自其他裝置的分頁
-firefoxview-synced-tabs-header = 來自其他裝置的分頁
+firefoxview-synced-tabs-nav = 其他裝置的分頁
+    .title = 其他裝置的分頁
+firefoxview-synced-tabs-header = 其他裝置的分頁
 
 ##
 

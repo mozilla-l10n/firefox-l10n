@@ -17,7 +17,7 @@ all-tabs-menu-close-duplicate-tabs =
 all-tabs-menu-close-all-duplicate-tabs =
     .label = 關閉所有重複的分頁
 all-tabs-menu-synced-tabs =
-    .label = 來自其他裝置的分頁
+    .label = 其他裝置的分頁
 # "Recent" refers to tab groups being sorted in recently used order. We show up
 # to five of these in this section.
 all-tabs-menu-recent-tab-groups-header = 最近的分頁群組

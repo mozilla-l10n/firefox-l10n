@@ -103,7 +103,7 @@ sidebar-menu-genai-chat-label =
 sidebar-menu-history-label =
     .label = 瀏覽紀錄
 sidebar-menu-synced-tabs-label =
-    .label = 來自其他裝置的分頁
+    .label = 其他裝置的分頁
 sidebar-menu-bookmarks-label =
     .label = 書籤
 sidebar-menu-customize-label =
@@ -149,7 +149,7 @@ sidebar-menu-customize-header =
 sidebar-menu-history-header =
     .heading = 瀏覽紀錄
 sidebar-menu-syncedtabs-header =
-    .heading = 來自其他裝置的分頁
+    .heading = 其他裝置的分頁
 sidebar-menu-bookmarks-header =
     .heading = 書籤
 sidebar-menu-cpm-header =
@@ -161,7 +161,7 @@ sidebar-panel-header-close-button =
 
 sidebar-customize-title = 自訂側邊欄
 sidebar-history-title = 瀏覽紀錄
-sidebar-syncedtabs-title = 來自其他裝置的分頁
+sidebar-syncedtabs-title = 其他裝置的分頁
 
 ## Context for closing synced tabs when hovering over the items
 

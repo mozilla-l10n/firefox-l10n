@@ -187,6 +187,9 @@ contextual-manager-passwords-edit-label =
     .label = Embosako’i ñe’ẽñemi
 contextual-manager-passwords-remove-label =
     .title = Emboguete ñe’ẽñemi
+contextual-manager-passwords-origin-tooltip = Ehai kundaharape emoñepyrũtaha tembiapo ko tendápe.
+contextual-manager-passwords-username-tooltip = Ehai poruhára réra, ñanduti veve kundaharape térã mba’ete papapy eike hag̃ua.
+contextual-manager-passwords-password-tooltip = Ehai ñe’ẽñemi eiporúva eike hag̃ua ko mba’etépe.
 
 ## Password Card
 
