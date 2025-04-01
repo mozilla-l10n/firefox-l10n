@@ -282,7 +282,7 @@ shopping-empty-state-non-supported-site = Kontrola pohódnoćenjow funguje, hdy�
 ## Confirm disabling Review Checker for newly opted out users
 
 shopping-integrated-callout-opted-out-title = Kontrola pohódnoćenjow je znjemóžnjena
-shopping-integrated-callout-opted-out-subtitle = Zo byšće ju znowa zmóžnił, wubjerće płaćiznowu zančku w bóčnicy a zmóžńće kontrolu pohódnoćenjow.
+shopping-integrated-callout-opted-out-subtitle = Zo byšće ju znowa zmóžnił, wubjerće płaćiznowu značku w bóčnicy a zmóžńće kontrolu pohódnoćenjow.
 
 ## Callout for where to find Review Checker when the sidebar closes
 

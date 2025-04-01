@@ -12,3 +12,5 @@ all-tabs-menu-hidden-tabs =
 all-tabs-menu-manage-user-context =
     .label = Gestionează containerele
     .accesskey = O
+all-tabs-menu-synced-tabs =
+    .label = File de pe alte dispozitive

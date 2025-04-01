@@ -20,6 +20,8 @@
 
 ## Labels for sidebar menu items.
 
+sidebar-menu-synced-tabs-label =
+    .label = File de pe alte dispozitive
 
 ## Tooltips for sidebar menu items.
 
@@ -32,9 +34,12 @@
 
 ## Headings for sidebar menu panels.
 
+sidebar-menu-syncedtabs-header =
+    .heading = File de pe alte dispozitive
 
 ## Titles for sidebar menu panels.
 
+sidebar-syncedtabs-title = File de pe alte dispozitive
 
 ## Context for closing synced tabs when hovering over the items
 

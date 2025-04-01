@@ -273,18 +273,28 @@ shopping-opt-in-integrated-button = Kontrolu pógódnośenjow wopytaś
 
 ## Message strings for Review Checker's empty states.
 
+shopping-empty-state-header = Gótowy, aby pógódnośenja kontrolěrował
+shopping-empty-state-supported-site = Woglědajśo se produkt a { -brand-product-name } buźo kontrolěrowaś, lěc pógódnośenja su spušćobne.
+# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
+# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
+shopping-empty-state-non-supported-site = Kontrola pógódnośenjow funkcioněrujo, gaž nakupujośo na:
 
 ## Confirm disabling Review Checker for newly opted out users
 
 shopping-integrated-callout-opted-out-title = Kontrola pógódnośenjow jo znjemóžnjona
+shopping-integrated-callout-opted-out-subtitle = Aby ju znowego zmóžnił, wubjeŕśo płaśiznowe wobznamjenje w bocnicy a zmóžniśo kontrolu pógódnośenjow.
 
 ## Callout for where to find Review Checker when the sidebar closes
 
+shopping-integrated-callout-sidebar-closed-title = Slědk ku kontroli pógódnośenjow
+shopping-integrated-callout-sidebar-closed-subtitle = Wubjeŕśo płaśiznowe wobznamjenje w bocnicy, aby wiźeł, lěc móžośo pógódnośenjam produkta dowěriś.
+shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Wubjeŕśo tłocašk bocnice, aby wiźeł, lěc móžośo pógódnośenjam produkta dowěriś.
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-title = Samska kontrola pógódnośenjow, nowe městno
 shopping-integrated-new-position-notification-move-right-button = Napšawo pśesunuś
 shopping-integrated-new-position-notification-move-left-button = Nalěwo pśesunuś
 shopping-integrated-new-position-notification-dismiss-button = Som zrozměł
@@ -293,3 +303,9 @@ shopping-integrated-new-position-notification-dismiss-button = Som zrozměł
 
 shopping-settings-auto-open-and-close-toggle =
     .label = Kontrolu pógódnośenjow awtomatiski wócyniś a zacyniś
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-and-close-description-three-sites = Wócynja se, gaž se produkty na { $firstSite }, { $secondSite } a { $thirdSite } woglědujośo a zacynja se, gaž spušćaśo

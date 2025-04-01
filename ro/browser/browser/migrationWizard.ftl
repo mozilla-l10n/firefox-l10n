@@ -52,6 +52,7 @@ migration-imported-edge-reading-list = Listă de lectură (din Edge)
 ## is installed as a Snap.
 
 migration-no-permissions-message = { -brand-short-name } nu are acces la profilurile altor browsere instalate pe acest dispozitiv.
+migration-no-permissions-instructions = Pentru a continua importarea datelor dintr-un alt browser, acordă acces lui { -brand-short-name } la dosarul profilului acestuia.
 
 ## These strings will be displayed based on how many resources are selected to import
 
