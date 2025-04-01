@@ -61,7 +61,7 @@ abuse-report-messagebar-action-cancel = Pśetergnuś
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
 abuse-report-damage-reason-v2 = Jo wobškóźił mójo licadło abo wobgrozył móje daty
-abuse-report-damage-example = Pśikład: Zašćěpjona škódna softwara abo wukšadnjone daty
+abuse-report-damage-example = Pśikład: Zašćěpjona škódna software abo wukšadnjone daty
 abuse-report-spam-reason-v2 = Wopśimujo spam abo zasajźujo njewitane wabjenje
 abuse-report-spam-example = Pśikład: wabjenje na webbokach zasajźiś
 abuse-report-settings-reason-v2 = Jo móju pytnicu, startowy bok abo nowy rejtarik změniło, bźeztogo aby mě informěrowało abo se mě pšašało
