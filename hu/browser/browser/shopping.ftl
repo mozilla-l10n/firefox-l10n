@@ -258,6 +258,12 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 # Opt-in message strings for Review Checker when it is integrated into the global sidebar.
 shopping-opt-in-integrated-headline = Vásároljon magabiztosan
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle = Kapcsolja be a { -brand-product-name } értékelés-ellenőrzőjét, hogy vásárlás előtt lássa, mennyire megbízhatóak a termékértékelések. MI technológiát használ az értékelések elemzéséhez, és akkor működik, ha az { $firstSite }, a { $secondSite } és a { $thirdSite } oldalakon vásárol. <a data-l10n-name="learn_more">További információk</a>
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
