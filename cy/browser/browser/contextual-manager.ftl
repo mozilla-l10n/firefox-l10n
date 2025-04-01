@@ -211,6 +211,22 @@ contextual-manager-passwords-alert-card =
     .aria-label = Rhybuddion cyfrineiriau
 contextual-manager-passwords-alert-back-button =
     .label = Nôl
+contextual-manager-passwords-alert-list =
+    .aria-label = Rhestr rhybuddion
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = Argymhelliad i newid eich cyfrinair
+    .message =
+        Cafwyd adroddiadau fod cyfrineiriau o'r wefan hon wedi eu dwyn neu eu gollwng.
+        Newidiwch eich cyfrinair er mwyn diogelu eich cyfrif.
+contextual-manager-passwords-breached-origin-link-message = Sut mae { -brand-product-name } yn gwybod am dor-data?
+contextual-manager-passwords-change-password-button = Newidiwch gyfrinair
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = Argymhelliad i newid eich cyfrinair
+    .message = Mae'r cyfrinair yn hawdd ei ddyfalu. Newidiwch eich cyfrinair i ddiogelu eich cyfrif.
+contextual-manager-passwords-vulnerable-password-link-message = Sut mae { -brand-product-name } yn gwybod am gyfrineiriau gwan?
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Ychwanegwch enw defnyddiwr
+    .message = Ychwanegwch un i fewngofnodi'n gynt.
 
 ## Login Form
 
