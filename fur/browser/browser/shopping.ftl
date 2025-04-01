@@ -280,20 +280,38 @@ shopping-callout-not-opted-in-integrated-reminder-accept-button = Ative Verifich
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = No sta mostrâ di gnûf cheste racomandazion
 shopping-callout-not-opted-in-integrated-reminder-show-fewer = Mostre mancul racomandazions
 shopping-callout-not-opted-in-integrated-reminder-manage-settings = Gjestìs impostazions
+shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Verifiche recensions e je realizade di { -fakespot-brand-full-name }. Selezionant “{ shopping-opt-in-integrated-button }“ tu acetis la <a data-l10n-name="privacy_policy">informative su la riservatece</a> di { -brand-product-name } e lis <a data-l10n-name="terms_of_use">cundizions di utilizazion</a> di { -fakespot-brand-name }.
+shopping-opt-in-integrated-button = Prove Verifiche recensions
 
 ## Message strings for Review Checker's empty states.
 
+shopping-empty-state-header = Pront par controlâ lis recensions
+shopping-empty-state-supported-site = Visualize un prodot e { -brand-product-name } al controlarà se lis recensions a son afidabilis.
+# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
+# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
+shopping-empty-state-non-supported-site = La Verifiche recensions e funzione cuant che tu fasis compris su:
 
 ## Confirm disabling Review Checker for newly opted out users
 
+shopping-integrated-callout-opted-out-title = La Verifiche recensions e je disativade
+shopping-integrated-callout-opted-out-subtitle = Par tornâ a ativâle, selezione il cartelin dal presit te sbare laterâl e ative Verifiche recensions.
 
 ## Callout for where to find Review Checker when the sidebar closes
 
+shopping-integrated-callout-sidebar-closed-title = Torne a Verifiche recensions
+shopping-integrated-callout-sidebar-closed-subtitle = Selezione il cartelin dal presit te sbare laterâl par controlâ se tu puedis fidâti des recensions di un prodot.
+shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Selezione il boton te sbare laterâl par contolâ se tu puedis fidâti des recensions di un prodot.
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-title = Stesse Verifiche recensions, gnove posizion
+shopping-integrated-new-position-notification-move-right-subtitle = Manten in cheste posizion Verifiche recensions e il rest de sbare laterâl di { -brand-product-name } o spostilis a diestre. Cambie daurman o cuant che tu vûs tes <a data-l10n-name="sidebar_settings">impostazions de sbare laterâl</a>.
+shopping-integrated-new-position-notification-move-left-subtitle = Manten in cheste posizion Verifiche recensions e il rest de sbare laterâl di { -brand-product-name } o spostilis a çampe. Cambie daurman o cuant che tu vûs tes <a data-l10n-name="sidebar_settings">impostazions de sbare laterâl</a>.
+shopping-integrated-new-position-notification-move-right-button = Sposte a diestre
+shopping-integrated-new-position-notification-move-left-button = Sposte a çampe
+shopping-integrated-new-position-notification-dismiss-button = Capît
 
 ## Combined setting for auto-open and auto-close.
 
