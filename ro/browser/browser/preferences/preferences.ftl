@@ -63,7 +63,7 @@ feature-enable-requires-restart = { -brand-short-name } trebuie să repornească
 feature-disable-requires-restart = { -brand-short-name } trebuie să repornească pentru a dezactiva această funcționalitate.
 should-restart-title = Repornire { -brand-short-name }
 should-restart-ok = Repornește { -brand-short-name } acum
-cancel-no-restart-button = Renunță
+cancel-no-restart-button = Anulează
 restart-later = Repornește mai târziu
 
 ## Extension Control Notifications
@@ -760,7 +760,7 @@ sync-device-name-change =
     .label = Schimbă numele dispozitivului
     .accesskey = h
 sync-device-name-cancel =
-    .label = Renunță
+    .label = Anulează
     .accesskey = n
 sync-device-name-save =
     .label = Salvează

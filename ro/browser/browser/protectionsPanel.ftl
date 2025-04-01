@@ -107,7 +107,7 @@ protections-panel-content-blocking-breakage-report-view-collection-comments = Op
 protections-panel-content-blocking-breakage-report-view-collection-comments-label =
     .aria-label = Opțional: Descrie problema
 protections-panel-content-blocking-breakage-report-view-cancel =
-    .label = Renunță
+    .label = Anulează
 protections-panel-content-blocking-breakage-report-view-send-report =
     .label = Trimite raportul
 

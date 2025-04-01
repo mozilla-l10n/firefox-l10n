@@ -82,7 +82,7 @@ autofill-add-new-address-title = Adaugă o adresă nouă
 autofill-address-country = Țară sau regiune
 autofill-address-tel = Număr de telefon
 autofill-address-email = E-mail
-autofill-cancel-button = Renunță
+autofill-cancel-button = Anulează
 autofill-save-button = Salvează
 autofill-country-warning-message = Completarea automată a formularelor este în prezent disponibilă numai pentru anumite țări.
 # The dialog title for creating credit cards in browser preferences.

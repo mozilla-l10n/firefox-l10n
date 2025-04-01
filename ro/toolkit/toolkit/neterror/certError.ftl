@@ -18,6 +18,9 @@ cert-error-trust-signature-algorithm-disabled = Certificatul nu prezintă încre
 cert-error-trust-expired-issuer = Certificatul nu prezintă încredere deoarece certificatul emitentului a expirat.
 cert-error-trust-self-signed = Certificatul nu prezintă încredere deoarece este semnat de el însuși.
 cert-error-trust-symantec = Certificatele emise de GeoTrust, RapidSSL, Symantec, Thawte și VeriSign nu mai sunt considerate sigure deoarece aceste autorități de certificare nu au respectat în trecut practicile de securitate.
+# Variables:
+#   $hostname (string) - Hostname of the website with cert error.
+cert-error-revoked = Site-urile web își demonstrează identitatea prin intermediul certificatelor. { -brand-short-name } nu are încredere în { $hostname } deoarece folosește un certificat care a fost revocat.
 cert-error-untrusted-default = Certificatul nu provine de la o sursă de încredere.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
