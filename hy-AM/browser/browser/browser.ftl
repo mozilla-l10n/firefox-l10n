@@ -51,6 +51,33 @@ browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } գաղտնի դիտարկում
+# These are the default window titles everywhere except macOS.
+# .data-title-default and .data-title-private are used when the web content
+# opened has no title:
+#
+# default - "Mozilla Firefox"
+# private - "Mozilla Firefox (Private Browsing)"
+#
+# .data-content-title-default and .data-content-title-private are for use when
+# there *is* a content title.
+#
+# .data-title-default-with-profile, .data-title-private-with-profile,
+# .data-content-title-default-with-profile,
+# .data-content-title-private-with-profile are used when there a
+# SelectableProfileService.current profile exists.
+#
+# Variables:
+#  $content-title (String): the title of the web content.
+#  $profile-name (String): the name of the current profile.
+browser-main-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } գաղտնի դիտարկում
+    .data-title-default-with-profile = { $profile-name }․ { -brand-full-name }
+    .data-title-private-with-profile = { $profile-name }․ { -brand-full-name } գաղտնի դիտարկում
+    .data-content-title-default = { $content-title }․ { -brand-full-name }
+    .data-content-title-private = { $content-title }․ { -brand-full-name } գաղտնի դիտարկում
+    .data-content-title-default-with-profile = { $content-title }․ { $profile-name }․ { -brand-full-name }
+    .data-content-title-private-with-profile = { $content-title }․ { $profile-name }․ { -brand-full-name } գաղտնի դիտարկում
 
 ##
 
@@ -936,8 +963,8 @@ navbar-print =
     .label = Տպել
     .tooltiptext = Տպել էջը... ({ $shortcut })
 navbar-home =
-    .label = Տուն
-    .tooltiptext = { -brand-short-name }-ի Տնային էջ
+    .label = Տնէջ
+    .tooltiptext = { -brand-short-name }-ի տնէջ
 navbar-library =
     .label = Շտեմարան
     .tooltiptext = Դիտել պատմությունը, պահպանված էջանիշերը և ավելին

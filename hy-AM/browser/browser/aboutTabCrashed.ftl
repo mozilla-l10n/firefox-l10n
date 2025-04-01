@@ -4,7 +4,7 @@
 
 crashed-title = Ներդիրի վթարի զեկուցիչ
 crashed-close-tab-button = Փակել ներդիրը
-crashed-restore-tab-button = Վերականգնել ներդիրը
+crashed-restore-tab-button = Վերականգնել այս ներդիրը
 crashed-restore-all-button = Վերականգնել վթարված բոլոր ներդիրները
 crashed-header = Վա՜յ։ Ձեր ներդիրը հենց նոր վթարվեց։
 crashed-offer-help = Մենք կարող ենք օգնել:

@@ -4,7 +4,7 @@
 
 privatebrowsingpage-open-private-window-label = Բացել գաղտնի պատուհան
     .accesskey = Գ
-about-private-browsing-search-placeholder = Որոնել առցանց
+about-private-browsing-search-placeholder = Որոնել համացանցում
 about-private-browsing-info-title = Դուք գաղտնի պատուհանում եք
 about-private-browsing-search-btn =
     .title = Որոնել համացանցում

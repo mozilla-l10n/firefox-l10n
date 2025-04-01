@@ -36,7 +36,7 @@
 -firefox-suggest-brand-name = Firefox-ի առաջարկ
 # ”Home" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
--firefox-home-brand-name = Firefox֊-ի սկիզբ
+-firefox-home-brand-name = Firefox֊ի տնէջ
 # View" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefoxview-brand-name = Firefox տեսք

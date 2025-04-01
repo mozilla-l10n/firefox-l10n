@@ -19,7 +19,7 @@ confirmation-hint-credit-card-updated = Քարտը թարմացվեց
 confirmation-hint-pin-tab = Ամրացվե՛ց
 confirmation-hint-pin-tab-description = Այն բացելու համար ներդիրին աջ-կտտացրեք։
 confirmation-hint-send-to-device = Ուղարկվեց
-confirmation-hint-firefox-relay-mask-created = Ստեղծվել է նոր դիմակ:
+confirmation-hint-firefox-relay-mask-created = Ստեղծվե՛ց նոր դիմակ
 confirmation-hint-firefox-relay-mask-reused = Գոյություն ունեցող դիմակը վերաօգտագործվե՛ց
 confirmation-hint-screenshot-copied = Էկրանի պատկերը պատճենվե՛ց
 # Variables:

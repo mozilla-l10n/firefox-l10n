@@ -35,6 +35,7 @@ about-processes-with-coop-coep-process-private = { $origin }. գաղտնի ({ $p
 
 ## Details within processes
 
+about-processes-preloaded-tab = Նախաբեռնված նոր ներդիր
 
 ## Utility process actor names
 

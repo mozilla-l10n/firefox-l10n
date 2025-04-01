@@ -23,7 +23,7 @@ videocontrols-enterfullscreen-button =
 videocontrols-exitfullscreen-button =
     .aria-label = Դուրս գալ Լիաէկրան վիճակից
 videocontrols-casting-button-label =
-    .aria-label = Էկրանին
+    .aria-label = Հեռարձակել էկրանին
 # .offlabel is processed by the video control custom element to be used
 # as a text-track label
 videocontrols-closed-caption-off =
@@ -35,10 +35,10 @@ videocontrols-picture-in-picture-label = Նկարը նկարում
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = Հանել տեսանյութը
 videocontrols-error-aborted = Տեսանյութի բեռնումը կանգնեցվել է։
-videocontrols-error-network = Տեսանյութի վերարտադրումը կանգնեցվել է ցանցի սխալի պատճառով:
+videocontrols-error-network = Տեսանյութի նվագարկումը կանգնեցվեց ցանցի սխալի պատճառով:
 videocontrols-error-decode = Տեսանյութը չի կարող վերարտադրվել, քանզի ֆայլը վնասված է:
 videocontrols-error-src-not-supported = Տեսանյութի տեսակը կամ MIME-ի տեսակը չեն աջակցվում:
-videocontrols-error-no-source = Չկա աջակցվող տեսանյութի և MIME-ի տեսակ:
+videocontrols-error-no-source = Աջակցվող ձևաչափով տեսանյութ և MIME-ի տեսակ չգտնվեց:
 videocontrols-error-generic = Տեսանյութի նվագարկումը ընդհատվեց անհայտ սխալի պատճառով:
 videocontrols-status-picture-in-picture = Այս տեսանյութը նվագարկվում է Նկարը նկարում կերպում։
 # This message shows the current position and total video duration
