@@ -332,6 +332,9 @@ quickactions-cmd-addons2 = components adizionâi
 quickactions-bookmarks2 = Gjestìs segnelibris
 quickactions-cmd-bookmarks = segnelibris
 # Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Nete la cronologjie resinte
+quickactions-cmd-clearrecenthistory = nete cronologjie resinte, cronologjie
+# Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Nete la cronologjie
 quickactions-cmd-clearhistory = nete la cronologjie
 # Opens about:downloads page
@@ -340,6 +343,15 @@ quickactions-cmd-downloads = discjamâts
 # Opens about:addons page in the extensions section
 quickactions-extensions = Gjestìs estensions
 quickactions-cmd-extensions = estensions
+# Opens Firefox View
+quickactions-firefoxview = Vierç { -firefoxview-brand-name }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = vierç { -firefoxview-brand-name }, { -firefoxview-brand-name }, vierç view, view
+# Opens SUMO home page
+quickactions-help = Jutori par { -brand-product-name }
+quickactions-cmd-help = jutori, supuart, assistence
 # Opens the devtools web inspector
 quickactions-inspector2 = Vierç struments di disvilup
 quickactions-cmd-inspector = ispetôr, struments dai disvilupadôrs

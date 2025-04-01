@@ -6,13 +6,21 @@ contextual-manager-filter-input =
     .placeholder = Cîr tes passwords
     .key = F
     .aria-label = Cîr tes passwords
+contextual-manager-menu-more-options-button =
+    .title = Altris opzions
+contextual-manager-more-options-popup =
+    .aria-label = Plui opzions
 
 ## Passwords
 
 contextual-manager-passwords-command-create = Zonte password
 contextual-manager-passwords-command-import-from-browser = Impuarte di un altri navigadôr…
 contextual-manager-passwords-command-import = Impuarte di un file…
+contextual-manager-passwords-command-export = Espuarte passwords
+contextual-manager-passwords-command-remove-all = Gjave dutis lis passwords
+contextual-manager-passwords-command-settings = Impostazions
 contextual-manager-passwords-command-help = Jutori
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Par espuartâ lis passwords, inserìs lis tôs credenziâls di acès a Windows. Chest al jude a garantî la sigurece dai tiei accounts.
 # This message can be seen when attempting to export a password in about:logins
@@ -35,6 +43,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Par copi
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = copiâ la password salvade
+contextual-manager-passwords-import-file-picker-title = Impuarte passwords
 contextual-manager-passwords-import-file-picker-import-button = Impuarte
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -50,12 +59,33 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] Document TSV
        *[other] File TSV
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = Passwords impuartadis
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = Gnovis: { $added }, Inzornadis: { $modified }
+contextual-manager-passwords-import-detailed-report = Visualize rapuart detaiât
 contextual-manager-passwords-import-success-button = Fat
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = Impussibil impuartâ lis passwords
+    .message = Controle che il file al includi une colone par sîts web, non utents e passwords
+contextual-manager-passwords-import-error-button-try-again = Torne prove
 contextual-manager-passwords-import-error-button-cancel = Anule
+contextual-manager-passwords-import-learn-more = Scuvierç cemût impuartâ lis passwords
+contextual-manager-passwords-export-success-heading =
+    .heading = Password espuartadis
 contextual-manager-passwords-export-success-button = Fat
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = Espuartâ lis passwords suntun file?
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = Dopo de esportazion, ti conseìn di eliminâ il file par impedî a altris utents, che a podaressin doprâ chest dispositîf, di viodi lis tôs passwords.
 contextual-manager-export-passwords-dialog-confirm-button = Continue cu la esportazion
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Espuarte passwords di { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = passwords
 contextual-manager-passwords-export-file-picker-export-button = Espuarte
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
