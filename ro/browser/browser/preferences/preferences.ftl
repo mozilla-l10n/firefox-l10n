@@ -116,6 +116,9 @@ preferences-data-migration-description = Importă marcajele, parolele, istoricul
 preferences-data-migration-button =
     .label = Importă date
     .accesskey = m
+preferences-profiles-header = Profiluri
+preferences-manage-profiles-button =
+    .label = Gestionează profilurile
 tabs-group-header = File
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab parcurge filele în ordinea celor mai recent folosite
@@ -1102,6 +1105,7 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = Colectarea și utilizarea de date din { -brand-short-name }
+preferences-view-profiles = Vezi toate profilurile
 collection-description = Ne străduim să îți oferim posibilitatea de a face alegeri și colectăm doar ceea ce avem nevoie ca să furnizăm și să îmbunătățim { -brand-short-name } pentru toată lumea. Întotdeauna solicităm permisiunea înainte de a primi informații cu caracter personal.
 collection-privacy-notice = Notificare privind confidențialitatea
 collection-health-report-telemetry-disabled = Nu mai permiți { -vendor-short-name } să îți capteze datele tehnice și de interacționare. Toate datele anterioare vor fi șterse în 30 de zile.

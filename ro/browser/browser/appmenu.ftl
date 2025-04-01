@@ -228,3 +228,10 @@ appmenuitem-report-broken-site =
 
 ## Profiles panel
 
+appmenu-other-profiles = Alte profiluri
+appmenu-manage-profiles =
+    .label = Gestionează profilurile
+appmenu-create-profile =
+    .label = Profil nou
+appmenu-profiles-2 =
+    .label = Profiluri

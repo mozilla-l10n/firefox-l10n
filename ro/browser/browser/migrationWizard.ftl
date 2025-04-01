@@ -51,6 +51,7 @@ migration-imported-edge-reading-list = Listă de lectură (din Edge)
 ## In practice, this tends to only occur on Linux when Firefox
 ## is installed as a Snap.
 
+migration-no-permissions-message = { -brand-short-name } nu are acces la profilurile altor browsere instalate pe acest dispozitiv.
 
 ## These strings will be displayed based on how many resources are selected to import
 

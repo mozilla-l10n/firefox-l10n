@@ -234,6 +234,12 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
+menu-profiles =
+    .label = Profiluri
+menu-profiles-manage-profiles =
+    .label = Gestionează profilurile
+menu-profiles-new-profile =
+    .label = Profil nou
 
 ## Tools Menu
 

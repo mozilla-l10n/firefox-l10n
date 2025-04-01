@@ -213,6 +213,7 @@ onboarding-easy-setup-security-and-privacy-title = Ne place să te protejăm
 
 ## Multi Profiles feature onboarding messages
 
+multi-profile-spotlight-title = Fă cunoștință cu profilurile { -brand-product-name }
 
 ## Desktop to Mobile Adoption feature callout strings
 
