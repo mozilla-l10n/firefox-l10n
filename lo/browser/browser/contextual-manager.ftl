@@ -91,11 +91,16 @@ contextual-manager-passwords-remove-login-card-title = ລຶບລະຫັດ�
 contextual-manager-passwords-remove-login-card-remove-button = ລຶບ
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = ຍົກເລີກ
+contextual-manager-passwords-add-username-button = ເພີ່ມຊື່ຜູ້ໃຊ້
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = ເພີ່ມລະຫັດຜ່ານ
+contextual-manager-passwords-edit-label =
+    .label = ແກ້ໄຂລະຫັດຜ່ານ
+contextual-manager-passwords-remove-label =
+    .title = ເອົາລະຫັດຜ່ານອອກ
 
 ## Password Card
 
@@ -103,6 +108,9 @@ contextual-manager-passwords-list-label =
     .aria-label = ລະຫັດຜ່ານ
 contextual-manager-copy-icon =
     .alt = ສຳເນົາ
+contextual-manager-password-login-line =
+    .aria-label = ສຳເນົາລະຫັດຜ່ານ
+    .title = ສຳເນົາລະຫັດຜ່ານ
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:

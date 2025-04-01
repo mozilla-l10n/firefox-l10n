@@ -541,6 +541,17 @@ urlbar-result-action-undefined-calculator-result = ບໍ່ໄດ້ກໍາ�
 #  $result (String): the string representation for a result in scientific notation
 #  (e.g. "1.0e17").
 urlbar-result-action-calculator-result-scientific-notation = = { $result }
+# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
+# The last = sign will be shown as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "false", maximumFractionDigits: 8) }
+# Shows the result of a formula expression being calculated, to a maximum of 9 significant
+# digits. This is used for numbers < 1.
+# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 
 ## Strings used for buttons in the urlbar
 
@@ -552,6 +563,10 @@ urlbar-result-search-with = ຄົ້ນຫາດ້ວຍ { $engine }
 #  $localSearchMode (String): the local search mode (history, tabs, bookmarks,
 #  or actions) to search with.
 urlbar-result-search-with-local-search-mode = { $keywords } - ຄົ້ນຫາ { $localSearchMode }
+# Label for the urlbar result row, prompting the user to use engine keywords to enter search mode.
+#  $keywords (String): the default keyword and user's set keyword if available
+#  $engine (String): the name of a search engine
+urlbar-result-search-with-engine-keywords = { $keywords } - ຄົ້ນຫາດ້ວຍ { $engine }
 urlbar-searchmode-dropmarker =
     .tooltiptext = ເລືອກເຄື່ອງມືການຄົ້ນຫາ
 urlbar-searchmode-bookmarks =
