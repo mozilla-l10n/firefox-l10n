@@ -94,6 +94,14 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
         [macos] Document CSV
        *[other] File CSV
     }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] Gjavâ password?
+        [one] Gjavâ password?
+       *[other] Gjavâ dutis { $total } lis passwords?
+    }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
@@ -110,14 +118,77 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Gjave
        *[other] Gjave dutis
     }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] Cheste operazion e gjavarà la password salvade in { -brand-short-name } e i relatîfs avîs su lis violazions. Nol sarà pussibil tornâ indaûr di cheste operazion.
+        [one] Cheste operazion e gjavarà la password salvade in { -brand-short-name } e i relatîfs avîs su lis violazions. Nol sarà pussibil tornâ indaûr di cheste operazion.
+       *[other] Cheste operazion e gjavarà lis passwords salvadis in { -brand-short-name } e i relatîfs avîs su lis violazions. Nol sarà pussibil tornâ indaûr di cheste operazion.
+    }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] Cheste operazion e gjavarà la password salvade in { -brand-short-name } su ducj i dispositîfs sincronizâts cul to account e i relatîfs avîs su lis violazions. No tu podarâs tornâ indaûr di cheste operazion.
+        [one] Cheste operazion e gjavarà la password salvade in { -brand-short-name } su ducj i dispositîfs sincronizâts cul to account e i relatîfs avîs su lis violazions. No tu podarâs tornâ indaûr di cheste operazion.
+       *[other] Cheste operazion e gjavarà lis passwords salvadis in { -brand-short-name } su ducj i dispositîfs sincronizâts cul to account e i relatîfs avîs su lis violazions. No tu podarâs tornâ indaûr di cheste operazion.
+    }
+contextual-manager-passwords-origin-label = Sît web
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Non utent
+    .data-after = Copiât
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Password
+    .data-after = Copiade
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Filtre passwords
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = Password zontade par { $url }
+contextual-manager-passwords-add-password-success-button = Visualize
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = A esistin za une password e un non utent par { $url }
+contextual-manager-passwords-password-already-exists-error-button = Va ae password
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Password salvade
 contextual-manager-passwords-update-password-success-button = Fat
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] Password gjavade
+            [one] Password gjavade
+           *[other] Password gjavadis
+        }
 contextual-manager-passwords-delete-password-success-button = Fat
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = Dutis ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = Avîs ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Gjavâ la password?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = Nol è pussibil tornâ indaûr di cheste operazion.
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Indaûr
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Gjave
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Anule
+contextual-manager-passwords-alert-card =
+    .aria-label = Avîs su lis passwords
+contextual-manager-passwords-alert-back-button =
+    .label = Indaûr
+contextual-manager-passwords-alert-list =
+    .aria-label = Liste avîs
 
 ## Login Form
 
