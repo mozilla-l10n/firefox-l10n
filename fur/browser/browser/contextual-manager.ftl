@@ -240,11 +240,59 @@ contextual-manager-origin-login-line =
 contextual-manager-origin-login-line-with-alert =
     .aria-label = Visite { $url } (avîs)
     .title = Visite { $url } (avîs)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = Copie non utent { $username }
+    .title = Copie non utent { $username }
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = Copie non utent { $username } (avîs)
+    .title = Copie non utent { $username } (avîs)
+contextual-manager-password-login-line =
+    .aria-label = Copie password
+    .title = Copie password
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = Copie password (avîs)
+    .title = Copie password (avîs)
+contextual-manager-edit-login-button = Modifiche
+    .tooltiptext = Modifiche password
+contextual-manager-view-alert-heading =
+    .heading = Visualize avîs
+contextual-manager-view-alert-button =
+    .tooltiptext = Esamine avîs
+contextual-manager-show-password-button =
+    .aria-label = Mostre password
+    .title = Mostre password
+contextual-manager-hide-password-button =
+    .aria-label = Plate password
+    .title = Plate password
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = Nissune password cjatade
+contextual-manager-passwords-no-passwords-found-message = Nissune password cjatade. Cîr un tiermin diviers e torne prove.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = Salve lis tôs passwords intun puest sigûr.
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = Dutis lis passwords a vegnin cifradis e nô o tignarìn di voli lis violazions e i avîs tal câs che ti tocjin.
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = Zontilis achì par scomençâ.
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = Zonte a man
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = Sierâ cence salvâ?
+    .message = Lis modifichis no vignaran salvadis.
+contextual-manager-passwords-discard-changes-close-button = Siere
+contextual-manager-passwords-discard-changes-go-back-button = Torne indaûr

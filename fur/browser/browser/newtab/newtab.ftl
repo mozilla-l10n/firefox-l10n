@@ -525,3 +525,7 @@ newtab-section-mangage-topics-followed-topics = Tu vâs daûr
 newtab-section-mangage-topics-followed-topics-empty-state = No tu sês ancjemò daûr a nissun argoment.
 newtab-section-mangage-topics-blocked-topics = Blocât
 newtab-section-mangage-topics-blocked-topics-empty-state = No tu âs ancjemò blocât nissun argoment.
+newtab-custom-wallpaper-title = I fonts personalizâts a son achì
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle = Cjame il to font o sielç un colôr personalizât par fâ to { -brand-product-name }.
+newtab-custom-wallpaper-cta = Provilu

@@ -1337,6 +1337,7 @@ collection-header2 = Pengumpulan dan Penggunaan Data { -brand-short-name }
     .searchkeywords = telemetri
 preferences-collection-description = Kami berusaha untuk memberi Anda pilihan dan hanya mengumpulkan data minimal yang diperlukan untuk meningkatkan { -brand-product-name } bagi semua orang.
 preferences-collection-privacy-notice = Lihat Pemberitahuan Privasi
+preferences-view-profiles = Tampilkan semua profil
 collection-description = Kami berusaha memberi Anda pilihan dan mengumpulkan hanya apa yang kami butuhkan untuk menyediakan dan meningkatkan { -brand-short-name } bagi semua orang. Kami selalu meminta izin sebelum menerima informasi pribadi.
 collection-privacy-notice = Pemberitahuan Privasi
 collection-health-report-telemetry-disabled = Anda tidak lagi mengizinkan { -vendor-short-name } untuk menangkap data teknis dan interaksi. Semua data sebelumnya akan dihapus dalam waktu 30 hari.

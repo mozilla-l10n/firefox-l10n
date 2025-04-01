@@ -96,6 +96,10 @@ profiles-light-theme = Terang
 profiles-dark-theme = Gelap
 # The default system theme
 profiles-system-theme = Sistem
+# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-marigold-theme-2 = Marigold kuning
+# This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-lichen-theme-2 = Hijau mint
 
 ## Alternative text for default profile icons
 

@@ -130,6 +130,7 @@ policy-SearchSuggestEnabled = Ative o disative i sugjeriments di ricercje.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Zonte o elimine modui PKCS #11.
 policy-ShowHomeButton = Mostre il boton pagjine iniziâl te sbare dai struments.
+policy-SkipTermsOfUse = No sta mostrâ lis cundizions di utilizazion e la informative su la riservatece al inviament.
 policy-SSLVersionMax = Stabilìs la massime version di SSL.
 policy-SSLVersionMin = Stabilìs la minime version di SSL.
 policy-StartDownloadsInTempDirectory = Sfuarce l'inviament dai discjariaments intune cartele locâl temporanie invezit che te cartele predefinide pai file discjariâts.
