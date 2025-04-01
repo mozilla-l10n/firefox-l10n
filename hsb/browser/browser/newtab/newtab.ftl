@@ -527,4 +527,6 @@ newtab-section-mangage-topics-followed-topics-empty-state = Hišće žanym temam
 newtab-section-mangage-topics-blocked-topics = Zablokowany
 newtab-section-mangage-topics-blocked-topics-empty-state = Hišće njejsće žane temy zablokował.
 newtab-custom-wallpaper-title = Tu su swójske pozadkowe wobrazy
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle = Nahrajće swójski pozadkowy wobraz abo wubjerće swójsku barbu, zo byšće sej { -brand-product-name } přiswojił.
 newtab-custom-wallpaper-cta = Wupruwujće jón

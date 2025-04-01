@@ -273,6 +273,8 @@ shopping-opt-in-integrated-button = Kontrolu pohódnoćenjow wupruwować
 
 ## Message strings for Review Checker's empty states.
 
+shopping-empty-state-header = Hotowy, zo byšće pohódnoćenja kontrolował
+shopping-empty-state-supported-site = Wobhladajće sej produkt a { -brand-product-name } budźe kontrolować, hač pohódnoćenja su spušćomne.
 
 ## Confirm disabling Review Checker for newly opted out users
 
