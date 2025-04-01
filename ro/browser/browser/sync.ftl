@@ -36,3 +36,9 @@ fxa-menu-sign-out =
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+sync-profile-different-account-description = Pentru a-ți menține datele organizate și securizate, fiecare profil { -brand-product-name } poate fi sincronizat doar cu un singur cont. Pentru a te autentifica folosind { $acctEmail }, creează un profil nou.
+# Dialog 2 - account signed in on another profile without option to merge
+sync-account-in-use-header = Contul este deja în uz
+sync-button-create-profile = Creează un profil nou

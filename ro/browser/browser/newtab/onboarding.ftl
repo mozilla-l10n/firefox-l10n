@@ -214,6 +214,9 @@ onboarding-easy-setup-security-and-privacy-title = Ne place să te protejăm
 ## Multi Profiles feature onboarding messages
 
 multi-profile-spotlight-title = Fă cunoștință cu profilurile { -brand-product-name }
+multi-profile-spotlight-cta = Creează un profil
+multi-profile-callout-title = Creează profiluri diferite pentru muncă și distracție
+multi-profile-callout-cta = Creează un profil
 
 ## Desktop to Mobile Adoption feature callout strings
 
