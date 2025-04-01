@@ -17,6 +17,7 @@ callout-firefox-view-tab-pickup-title = Sari de pe un dispozitiv pe altul cu pre
 
 ## Firefox View Discoverability Strings
 
+fx-view-discoverability-subtitle = Găsește-le și redeschide-le rapid de aici. Păstrăm un istoric al filelor închise recent.
 
 ## Split Dismiss Button Labels
 

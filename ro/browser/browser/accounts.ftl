@@ -96,3 +96,4 @@ account-multiple-tabs-arriving-from-unknown-device =
 ## Variables:
 ##   $closedCount (Number): the number of tabs closed
 
+account-view-recently-closed-tabs = Vezi filele închise recent
