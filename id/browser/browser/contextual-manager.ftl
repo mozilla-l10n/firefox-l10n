@@ -141,6 +141,9 @@ contextual-manager-origin-login-line =
 contextual-manager-origin-login-line-with-alert =
     .aria-label = Kunjungi { $url } (Peringatan)
     .title = Kunjungi { $url } (Peringatan)
+contextual-manager-password-login-line =
+    .aria-label = Salin Sandi
+    .title = Salin Sandi
 # "(Warning)" indicates that a login's password field has an alert icon.
 contextual-manager-password-login-line-with-alert =
     .aria-label = Salin Sandi (Peringatan)
@@ -155,10 +158,16 @@ contextual-manager-show-password-button =
 contextual-manager-hide-password-button =
     .aria-label = Sembunyikan Sandi
     .title = Sembunyikan Sandi
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = Tidak ada sandi ditemukan
+contextual-manager-passwords-no-passwords-found-message = Tidak ada sandi ditemukan. Cari istilah lain dan coba lagi.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = Simpan kata sandi Anda di tempat yang aman.
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
