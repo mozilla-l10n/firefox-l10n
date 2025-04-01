@@ -176,7 +176,15 @@ contextual-manager-passwords-alert-back-button =
     .label = Πίσω
 contextual-manager-passwords-alert-list =
     .aria-label = Λίστα ειδοποιήσεων
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = Προτείνεται αλλαγή του κωδικού πρόσβασης
+    .message = Έχουν αναφερθεί υποκλοπές ή διαρροές κωδικών πρόσβασης από αυτόν τον ιστότοπο. Αλλάξτε τον κωδικό πρόσβασής σας για να προστατεύσετε τον λογαριασμό σας.
+contextual-manager-passwords-breached-origin-link-message = Πώς ενημερώνεται το { -brand-product-name } σχετικά με τις παραβιάσεις;
 contextual-manager-passwords-change-password-button = Αλλαγή κωδικού πρόσβασης
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = Προτείνεται αλλαγή του κωδικού πρόσβασης
+    .message = Αυτός ο κωδικός πρόσβασης μπορεί να μαντευτεί εύκολα. Αλλάξτε τον κωδικό πρόσβασής σας για να προστατεύσετε τον λογαριασμό σας.
+contextual-manager-passwords-vulnerable-password-link-message = Πώς ενημερώνεται το { -brand-product-name } σχετικά με αδύναμους κωδικούς πρόσβασης;
 contextual-manager-passwords-no-username-heading-and-message =
     .heading = Προσθήκη ονόματος χρήστη
     .message = Προσθέστε ένα για ταχύτερη σύνδεση.
@@ -190,6 +198,9 @@ contextual-manager-passwords-edit-label =
     .label = Επεξεργασία κωδικού πρόσβασης
 contextual-manager-passwords-remove-label =
     .title = Αφαίρεση κωδικού πρόσβασης
+contextual-manager-passwords-origin-tooltip = Εισαγάγετε την ακριβή διεύθυνση όπου θα πραγματοποιείτε σύνδεση σε αυτόν τον ιστότοπο.
+contextual-manager-passwords-username-tooltip = Εισαγάγετε το όνομα χρήστη, τη διεύθυνση email ή τον αριθμό λογαριασμού που χρησιμοποιείτε για τη σύνδεση.
+contextual-manager-passwords-password-tooltip = Εισαγάγετε τον κωδικό πρόσβασης που χρησιμοποιήθηκε για τη σύνδεση σε αυτόν τον λογαριασμό.
 
 ## Password Card
 
