@@ -523,4 +523,5 @@ newtab-section-mangage-topics-followed-topics = Tapykueho
 newtab-section-mangage-topics-followed-topics-empty-state = Ndohapykuehói gueteri téma.
 newtab-section-mangage-topics-blocked-topics = Bloqueado
 newtab-section-mangage-topics-blocked-topics-empty-state = Ndojokói gueteri mba’evéichagua téma.
+newtab-custom-wallpaper-title = Ko’ápe oĩ mba’erechaha rugua
 newtab-custom-wallpaper-cta = Eha’ãjey
