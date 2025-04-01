@@ -256,10 +256,25 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 # Opt-in message strings for Review Checker when it is integrated into the global sidebar.
 shopping-opt-in-integrated-headline = Αγοράστε με αυτοπεποίθηση
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle = Ενεργοποιήστε τον έλεγχο κριτικών από το { -brand-product-name } για να δείτε πόσο αξιόπιστες είναι οι κριτικές ενός προϊόντος, πριν το αγοράσετε. Χρησιμοποιεί τεχνολογία τεχνητής νοημοσύνης για την ανάλυση των κριτικών και λειτουργεί όταν κάνετε αγορές από το { $firstSite }, το { $secondSite } και το { $thirdSite }. <a data-l10n-name="learn_more">Μάθετε περισσότερα</a>
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle-unsupported-site = Ο έλεγχος κριτικών από το { -brand-product-name } σάς βοηθά να μάθετε πόσο αξιόπιστες είναι οι κριτικές ενός προϊόντος, πριν το αγοράσετε. Χρησιμοποιεί τεχνολογία τεχνητής νοημοσύνης για την ανάλυση των κριτικών και λειτουργεί όταν κάνετε αγορές από το { $firstSite }, το { $secondSite } και το { $thirdSite }. <a data-l10n-name="learn_more">Μάθετε περισσότερα</a>
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
 shopping-callout-opt-in-integrated-headline = Μπορείτε να εμπιστευτείτε αυτές τις κριτικές;
+# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
+shopping-callout-not-opted-in-integrated-paragraph1 = Ενεργοποιήστε τον έλεγχο κριτικών από το { -brand-product-name } για να το διαπιστώσετε. Υποστηρίζεται από το { -fakespot-brand-full-name } και χρησιμοποιεί τεχνολογία τεχνητής νοημοσύνης για την ανάλυση των κριτικών.
+shopping-callout-not-opted-in-integrated-paragraph2 = Επιλέγοντας «{ shopping-opt-in-integrated-button }», συμφωνείτε με τη <a data-l10n-name="privacy_policy">Σημείωση απορρήτου</a> του { -brand-product-name } και τους <a data-l10n-name="terms_of_use">Όρους χρήσης</a> του { -fakespot-brand-full-name }.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Απόρριψη
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Ενεργοποίηση ελέγχου κριτικών
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = Να μην εμφανιστεί ξανά αυτή η πρόταση

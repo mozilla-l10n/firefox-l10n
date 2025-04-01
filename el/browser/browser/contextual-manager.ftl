@@ -115,6 +115,13 @@ contextual-manager-passwords-remove-all-confirm-button =
         [1] Αφαίρεση
        *[other] Αφαίρεση όλων
     }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] Θα αφαιρεθεί ο κωδικός πρόσβασης που έχετε αποθηκεύσει στο { -brand-short-name }, καθώς και τυχόν ειδοποιήσης παραβίασης. Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.
+       *[other] Θα αφαιρεθούν οι κωδικοί πρόσβασης που έχετε αποθηκεύσει στο { -brand-short-name }, καθώς και τυχόν ειδοποιήσης παραβίασης. Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.
+    }
 contextual-manager-passwords-origin-label = Ιστότοπος
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = Όνομα χρήστη
@@ -124,7 +131,15 @@ contextual-manager-passwords-password-label = Κωδικός πρόσβασης
     .data-after = Αντιγράφηκε
 contextual-manager-passwords-radiogroup-label =
     .aria-label = Φιλτράρισμα κωδικών πρόσβασης
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = Προστέθηκε κωδικός πρόσβασης για το { $url }
 contextual-manager-passwords-add-password-success-button = Προβολή
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = Υπάρχει ήδη κωδικός πρόσβασης και όνομα χρήστη για το { $url }
 contextual-manager-passwords-password-already-exists-error-button = Μετάβαση στον κωδικό πρόσβασης
 contextual-manager-passwords-update-password-success-heading =
     .heading = Ο κωδικός πρόσβασης αποθηκεύτηκε
@@ -234,10 +249,18 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Δεν βρέθηκαν κωδικοί πρόσβασης
+contextual-manager-passwords-no-passwords-found-message = Δεν βρέθηκαν κωδικοί πρόσβασης. Αναζητήστε έναν διαφορετικό όρο και δοκιμάστε ξανά.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = Αποθηκεύστε τους κωδικούς πρόσβασής σας σε ένα ασφαλές μέρος.
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = Όλοι οι κωδικοί πρόσβασης είναι κρυπτογραφημένοι και θα έχουμε τον νου μας για παραβιάσεις και ειδοποιήσεις αν επηρεαστείτε.
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = Προσθέστε τους εδώ για να ξεκινήσετε.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Χειροκίνητη προσθήκη
 
