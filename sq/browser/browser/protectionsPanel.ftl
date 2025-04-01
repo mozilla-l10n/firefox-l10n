@@ -81,7 +81,7 @@ protections-panel-smartblock-blocking-toggle =
     .label = Lejoje { $trackername }
 #  $trackername (String): the name of the tracker that is currently being blocked.
 smartblock-placeholder-title = U bllokuan gjurmues dhe lëndë { $trackername }
-smartblock-placeholder-desc = Rregullimet tuaja për { -brand-short-name } e bllokuan këtë lëndë t’ju ndjekë nëpër sajte, apo që të përdoret për rekklama.
+smartblock-placeholder-desc = Rregullimet tuaja për { -brand-short-name } e bllokuan këtë lëndë t’ju ndjekë nëpër sajte, apo që të përdoret për reklama.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = Lejoje në { $websitehost }
 
