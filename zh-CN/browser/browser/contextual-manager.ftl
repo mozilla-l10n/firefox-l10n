@@ -100,6 +100,13 @@ contextual-manager-passwords-remove-all-confirm-button =
         [1] 移除
        *[other] 全部移除
     }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] 将移除保存在 { -brand-short-name } 中的密码，以及所有外泄警报。此操作不可撤销。
+       *[other] 将移除保存在 { -brand-short-name } 中的密码，以及所有外泄警报。此操作不可撤销。
+    }
 contextual-manager-passwords-origin-label = 网站
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = 用户名
