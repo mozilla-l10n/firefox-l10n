@@ -16,6 +16,8 @@ contextual-manager-more-options-popup =
 contextual-manager-passwords-command-create = Tambahkan sandi
 contextual-manager-passwords-command-import-from-browser = Impor dari Peramban Lain…
 contextual-manager-passwords-command-import = Impor dari Berkas…
+contextual-manager-passwords-command-export = Ekspor sandi
+contextual-manager-passwords-command-remove-all = Hapus seluruh sandi
 contextual-manager-passwords-command-settings = Pengaturan
 contextual-manager-passwords-command-help = Bantuan
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }{ -brand-full-name }
@@ -62,6 +64,7 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
 #   $modified (number) - Number of modified passwords
 contextual-manager-passwords-import-success-message = Baru: { $added }, Diperbarui: { $modified }
 contextual-manager-passwords-import-success-button = Selesai
+contextual-manager-passwords-import-error-button-try-again = Coba Lagi
 contextual-manager-passwords-import-error-button-cancel = Batalkan
 contextual-manager-passwords-export-success-button = Selesai
 contextual-manager-export-passwords-dialog-confirm-button = Lanjutkan dengan ekspor
@@ -117,8 +120,41 @@ contextual-manager-passwords-create-label =
 
 contextual-manager-passwords-list-label =
     .aria-label = Sandi
+contextual-manager-website-icon =
+    .alt = Ikon Situs Web
 contextual-manager-copy-icon =
     .alt = Salin
+contextual-manager-check-icon-username =
+    .alt = Disalin
+contextual-manager-check-icon-password =
+    .alt = Disalin
+contextual-manager-alert-icon =
+    .alt = Peringatan
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = Kunjungi { $url }
+    .title = Kunjungi { $url }
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = Kunjungi { $url } (Peringatan)
+    .title = Kunjungi { $url } (Peringatan)
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = Salin Sandi (Peringatan)
+    .title = Salin Sandi (Peringatan)
+contextual-manager-edit-login-button = Sunting
+    .tooltiptext = Sunting Sandi
+contextual-manager-view-alert-heading =
+    .heading = Lihat peringatan
+contextual-manager-show-password-button =
+    .aria-label = Tampilkan Sandi
+    .title = Tampilkan Sandi
+contextual-manager-hide-password-button =
+    .aria-label = Sembunyikan Sandi
+    .title = Sembunyikan Sandi
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:

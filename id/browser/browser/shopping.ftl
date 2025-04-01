@@ -257,6 +257,11 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Tutup
+shopping-callout-not-opted-in-integrated-reminder-accept-button = Aktifkan Pemeriksa Ulasan
+shopping-callout-not-opted-in-integrated-reminder-do-not-show = Jangan tampilkan rekomendasi ini lagi
+shopping-callout-not-opted-in-integrated-reminder-show-fewer = Tampilkan lebih sedikit rekomendasi
+shopping-callout-not-opted-in-integrated-reminder-manage-settings = Kelola pengaturan
 
 ## Message strings for Review Checker's empty states.
 
