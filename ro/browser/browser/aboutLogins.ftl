@@ -87,7 +87,7 @@ login-item-copy-password-button-text = Copiază
 login-item-copied-password-button-text = Copiată!
 login-item-save-changes-button = Salvează modificările
 login-item-save-new-button = Salvează
-login-item-cancel-button = Renunță
+login-item-cancel-button = Anulează
 
 ## The date is displayed in a timeline showing the password evolution.
 ## A label is displayed under the date to describe the type of change.
@@ -132,9 +132,9 @@ master-password-reload-button =
 
 ## Dialogs
 
-confirmation-dialog-cancel-button = Renunță
+confirmation-dialog-cancel-button = Anulează
 confirmation-dialog-dismiss-button =
-    .title = Renunță
+    .title = Anulează
 about-logins-confirm-remove-dialog-title = Elimini această autentificare?
 confirm-delete-dialog-message = Această acțiune este ireversibilă.
 about-logins-confirm-remove-dialog-confirm-button = Elimină

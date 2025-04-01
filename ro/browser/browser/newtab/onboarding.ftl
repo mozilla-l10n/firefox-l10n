@@ -88,7 +88,7 @@ onboarding-live-language-waiting-button = Se obțin limbile disponibile…
 onboarding-live-language-installing = Se instalează pachetul lingvistic pentru { $negotiatedLanguage }…
 mr2022-onboarding-live-language-switch-to = Comută pe { $negotiatedLanguage }
 mr2022-onboarding-live-language-continue-in = Continuă în { $appLanguage }
-onboarding-live-language-secondary-cancel-download = Renunță
+onboarding-live-language-secondary-cancel-download = Anulează
 onboarding-live-language-skip-button-label = Omite
 
 ## Firefox 100 Thank You screens

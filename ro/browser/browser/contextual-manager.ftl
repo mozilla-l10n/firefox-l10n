@@ -58,7 +58,7 @@ contextual-manager-passwords-delete-password-success-button = Terminat
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Elimină
 # This message gives the user the option to cancel their attempt to remove a login.
-contextual-manager-passwords-remove-login-card-cancel-button = Renunță
+contextual-manager-passwords-remove-login-card-cancel-button = Anulează
 
 ## Login Form
 

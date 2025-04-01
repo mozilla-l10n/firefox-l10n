@@ -70,7 +70,7 @@ addon-downloading-and-verifying =
     }
 addon-download-verifying = Se verifică
 addon-install-cancel-button =
-    .label = Renunță
+    .label = Anulează
     .accesskey = C
 addon-install-accept-button =
     .label = Adaugă

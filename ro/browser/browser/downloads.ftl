@@ -25,9 +25,9 @@ downloads-cmd-resume =
     .label = Continuă
     .accesskey = R
 downloads-cmd-cancel =
-    .tooltiptext = Renunță
+    .tooltiptext = Anulează
 downloads-cmd-cancel-panel =
-    .aria-label = Renunță
+    .aria-label = Anulează
 downloads-cmd-show-menuitem-2 =
     .label =
         { PLATFORM() ->

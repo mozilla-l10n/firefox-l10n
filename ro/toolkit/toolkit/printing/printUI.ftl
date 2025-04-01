@@ -56,7 +56,7 @@ printui-margins-none = Niciuna
 printui-system-dialog-link = Tipărește folosind fereastra de dialog a sistemului…
 printui-primary-button = Tipărește
 printui-primary-button-save = Salvează
-printui-cancel-button = Renunță
+printui-cancel-button = Anulează
 printui-loading = Se pregătește previzualizarea
 
 ## Paper sizes that may be supported by the Save to PDF destination:

@@ -52,7 +52,7 @@ newtab-topsites-image-validation = Imaginea nu s-a încărcat. Încearcă o alt�
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
-newtab-topsites-cancel-button = Renunță
+newtab-topsites-cancel-button = Anulează
 newtab-topsites-delete-history-button = Șterge din istoric
 newtab-topsites-save-button = Salvează
 newtab-topsites-preview-button = Previzualizare

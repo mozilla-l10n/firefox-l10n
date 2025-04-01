@@ -86,7 +86,7 @@ migration-passwords-from-file-tsv-filter-title =
 migration-import-button-label = Importă
 migration-choose-to-import-from-file-button-label = Importă din fișier
 migration-import-from-file-button-label = Selectează un fișier
-migration-cancel-button-label = Renunță
+migration-cancel-button-label = Anulează
 migration-done-button-label = Terminat
 migration-continue-button-label = Continuă
 

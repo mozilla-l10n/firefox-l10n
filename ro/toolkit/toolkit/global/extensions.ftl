@@ -24,17 +24,17 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Renunță
     .accesskey = C
-webext-perms-sideload-text = Un alt program de pe calculator a instalat un supliment care poate afecta browserul. Te rugăm să revezi cererile de permisiuni ale suplimentului și alege Activează sau Renunță (pentru a-l lăsa dezactivat).
-webext-perms-sideload-text-no-perms = Un alt program de pe calculator a instalat un supliment care poate afecta browserul. Te rugăm să alegi Activează sau Renunță (pentru a-l lăsa dezactivat).
+webext-perms-sideload-text = Un alt program de pe calculator a instalat un supliment care poate afecta browserul. Te rugăm să examinezi cererile de permisiuni ale suplimentului și alege Activează sau Anulează (pentru a-l lăsa dezactivat).
+webext-perms-sideload-text-no-perms = Un alt program de pe calculator a instalat un supliment care poate afecta browserul. Te rugăm să alegi Activează sau Anulează (pentru a-l lăsa dezactivat).
 webext-perms-sideload-enable =
     .label = Activează
     .accesskey = E
 webext-perms-sideload-cancel =
-    .label = Renunță
+    .label = Anulează
     .accesskey = C
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = { $extension } a fost actualizat. Trebuie să aprobi noile permisiuni înainte ca versiunea actualizată să se instaleze. Dacă alegi „Renunță”, se va menține versiunea actuală a extensiei. Această extensie va avea permisiunea:
+webext-perms-update-text = { $extension } a fost actualizat. Trebuie să aprobi noile permisiuni înainte ca versiunea actualizată să se instaleze. Dacă alegi „Anulează”, se va menține versiunea actuală a extensiei. Această extensie va avea permisiunea:
 webext-perms-update-accept =
     .label = Actualizează
     .accesskey = U

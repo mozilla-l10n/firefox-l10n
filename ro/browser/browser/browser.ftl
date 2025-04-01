@@ -210,7 +210,7 @@ quickactions-learn-more =
 bookmarks-add-bookmark = Adaugă un marcaj
 bookmarks-edit-bookmark = Editează marcajul
 bookmark-panel-cancel =
-    .label = Renunță
+    .label = Anulează
     .accesskey = C
 # Variables:
 #  $count (number): number of bookmarks that will be removed
