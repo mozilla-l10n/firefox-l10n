@@ -275,18 +275,26 @@ shopping-opt-in-integrated-button = Kontrolu pohódnoćenjow wupruwować
 
 shopping-empty-state-header = Hotowy, zo byšće pohódnoćenja kontrolował
 shopping-empty-state-supported-site = Wobhladajće sej produkt a { -brand-product-name } budźe kontrolować, hač pohódnoćenja su spušćomne.
+# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
+# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
+shopping-empty-state-non-supported-site = Kontrola pohódnoćenjow funguje, hdyž nakupujeće na:
 
 ## Confirm disabling Review Checker for newly opted out users
 
 shopping-integrated-callout-opted-out-title = Kontrola pohódnoćenjow je znjemóžnjena
+shopping-integrated-callout-opted-out-subtitle = Zo byšće ju znowa zmóžnił, wubjerće płaćiznowu zančku w bóčnicy a zmóžńće kontrolu pohódnoćenjow.
 
 ## Callout for where to find Review Checker when the sidebar closes
 
+shopping-integrated-callout-sidebar-closed-title = Wróćo ke kontroli pohódnoćenjow
+shopping-integrated-callout-sidebar-closed-subtitle = Wubjerće płaćiznowu značku w bóčnicy, zo byšće widźał, hač móžeće pohódnoćenjam produkta dowěrić.
+shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Wubjerće tłóčatko bóčnicy, zo byšće widźał, hač móžeće pohódnoćenjam produkta dowěrić.
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-title = Samsna kontrola pohódnoćenjow, nowe městno
 shopping-integrated-new-position-notification-move-right-button = Naprawo přesunyć
 shopping-integrated-new-position-notification-move-left-button = Nalěwo přesunyć
 shopping-integrated-new-position-notification-dismiss-button = Sym zrozumił
