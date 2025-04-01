@@ -140,6 +140,8 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Activează sunetul filelor
     .accesskey = m
+# This string is used as an additional tooltip and accessibility description for tabs playing audio
+tabbrowser-tab-audio-playing-description = Redă audio
 
 ## Ctrl-Tab dialog
 
@@ -157,9 +159,26 @@ tabbrowser-ctrl-tab-list-all-tabs =
 ##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
 ##                          used when the group's name is empty.
 
+tabbrowser-manager-mute-tab =
+    .tooltiptext = Dezactivează sunetul filei
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = Activează sunetul filei
+tabbrowser-manager-close-tab =
+    .tooltiptext = Închide fila
+tabbrowser-manager-current-window-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — Fereastra actuală
 
 ## Tab Groups
 
+tab-group-editor-title-create = Creează un grup de file
+tab-group-editor-title-edit = Gestionează grupul de file
+tab-group-editor-name-label = Nume
+tab-group-editor-name-field =
+    .placeholder = Exemplu: cumpărături
+tab-group-editor-cancel =
+    .label = Anulează
+    .accesskey = C
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

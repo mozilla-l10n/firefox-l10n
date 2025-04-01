@@ -23,3 +23,8 @@ default-browser-prompt-button-secondary = Nu acum
 ## use Windows Settings to set the default browser. Instructions differ for
 ## Windows 10 and 11.
 
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win10 =
+    Pasul 1: mergi la Setări > Aplicații implicite
+    Pasul 2: derulează în jos până la „Browser web”
+    Pasul 3: selectează și alege { -brand-short-name }
