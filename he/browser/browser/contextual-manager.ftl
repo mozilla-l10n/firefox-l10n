@@ -193,18 +193,59 @@ contextual-manager-passwords-vulnerable-password-heading-and-message =
     .heading = מומלץ לשנות את הססמה
     .message = ססמה זו קלה לניחוש. יש לשנות את הססמה שלך כדי להגן על החשבון שלך.
 contextual-manager-passwords-vulnerable-password-link-message = כיצד { -brand-product-name } יודע על ססמאות חלשות?
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = הוספת שם משתמש
+    .message = מומלץ להוסיף שם משתמש כדי להתחבר מהר יותר.
+contextual-manager-passwords-add-username-button = הוספת שם משתמש
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = הוספת ססמה
+contextual-manager-passwords-edit-label =
+    .label = עריכת הססמה
+contextual-manager-passwords-remove-label =
+    .title = הסרת הססמה
+contextual-manager-passwords-origin-tooltip = יש להכניס את הכתובת המדויקת אליה נכנסים כדי להתחבר לאתר.
+contextual-manager-passwords-username-tooltip = יש להכניס את שם המשתמש, כתובת הדוא״ל או מספר החשבון שבו משתמשים כדי להתחבר.
+contextual-manager-passwords-password-tooltip = יש להכניס את הססמה שבה משתמשים כדי להתחבר לחשבון זה.
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = ססמאות
+contextual-manager-website-icon =
+    .alt = סמל אתר
 contextual-manager-copy-icon =
     .alt = העתקה
+contextual-manager-check-icon-username =
+    .alt = הועתק
+contextual-manager-check-icon-password =
+    .alt = הועתק
+contextual-manager-alert-icon =
+    .alt = אזהרה
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = ביקור ב־{ $url }
+    .title = ביקור ב־{ $url }
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = ביקור ב־{ $url } (אזהרה)
+    .title = ביקור ב־{ $url } (אזהרה)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = העתקת שם המשתמש { $username }
+    .title = העתקת שם המשתמש { $username }
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = העתקת שם המשתמש { $username } (אזהרה)
+    .title = העתקת שם המשתמש { $username } (אזהרה)
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
