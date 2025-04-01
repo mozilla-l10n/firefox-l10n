@@ -130,6 +130,7 @@ policy-SearchSuggestEnabled = Aktifkan atau nonaktifkan saran pencarian.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Tambah atau hapus modul PKCS #11.
 policy-ShowHomeButton = Tampilkan tombol beranda pada bilah alat.
+policy-SkipTermsOfUse = Jangan tampilkan Ketentuan Penggunaan dan Pemberitahuan Privasi saat memulai.
 policy-SSLVersionMax = Tetapkan versi SSL maksimum.
 policy-SSLVersionMin = Tetapkan versi SSL minimum.
 policy-StartDownloadsInTempDirectory = Paksa unduhan untuk dimulai di lokasi lokal dan sementara, bukan direktori unduhan baku.

@@ -520,3 +520,4 @@ newtab-section-mangage-topics-followed-topics-empty-state = Anda belum mengikuti
 newtab-section-mangage-topics-blocked-topics = Diblokir
 newtab-section-mangage-topics-blocked-topics-empty-state = Anda belum memblokir topik apa pun.
 newtab-custom-wallpaper-title = Wallpaper kustom ada di sini
+newtab-custom-wallpaper-cta = Coba sekarang
