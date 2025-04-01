@@ -256,6 +256,18 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 # Opt-in message strings for Review Checker when it is integrated into the global sidebar.
 shopping-opt-in-integrated-headline = Nakupujte s istotou
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle = Zapnite Kontrolu recenzií od { -brand-product-name(case: "gen") } a zistite, aké spoľahlivé sú recenzie produktov ešte pred nákupom. Používa technológiu AI na analýzu recenzií a funguje, keď nakupujete na stránkach { $firstSite }, { $secondSite } a { $thirdSite }. <a data-l10n-name="learn_more">Ďalšie informácie</a>
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle-unsupported-site = Kontrola recenzií od { -brand-product-name(case: "gen") } vám pomôže zistiť, aké spoľahlivé sú recenzie produktu, ešte pred kúpou. Používa technológiu AI na analýzu recenzií a funguje, keď nakupujete na stránkach { $firstSite }, { $secondSite } a { $thirdSite }. <a data-l10n-name="learn_more">Ďalšie informácie</a>
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
@@ -268,6 +280,7 @@ shopping-callout-not-opted-in-integrated-reminder-accept-button = Zapnúť Kontr
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = Toto odporúčanie už nezobrazovať
 shopping-callout-not-opted-in-integrated-reminder-show-fewer = Zobrazovať menej odporúčaní
 shopping-callout-not-opted-in-integrated-reminder-manage-settings = Spravovať nastavenia
+shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Kontrola recenzií využíva technológiu { -fakespot-brand-full-name }. Kliknutím na tlačidlo “{ shopping-opt-in-integrated-button }” súhlasíte s <a data-l10n-name="privacy_policy">Vyhlásením o ochrane osobných údajov</a> { -brand-product-name(case: "gen") } a <a data-l10n-name="terms_of_use">Podmienkami používania služby</a> od { -fakespot-brand-name }.
 shopping-opt-in-integrated-button = Vyskúšajte Kontrolu recenzií
 
 ## Message strings for Review Checker's empty states.
@@ -285,12 +298,17 @@ shopping-integrated-callout-opted-out-subtitle = Ak ju chcete znova zapnúť, vy
 
 ## Callout for where to find Review Checker when the sidebar closes
 
+shopping-integrated-callout-sidebar-closed-title = Získajte späť Kontrolu recenzií
+shopping-integrated-callout-sidebar-closed-subtitle = Vyberte cenovku na bočnom paneli a zistite, či môžete dôverovať recenziám k produktu.
+shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Ak chcete zistiť, či môžete dôverovať recenziám produktu, vyberte tlačidlo na bočnom paneli.
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
 shopping-integrated-new-position-notification-title = Rovnaká Kontrola recenzií, nové miesto
+shopping-integrated-new-position-notification-move-right-subtitle = Kontrolu recenzií a zvyšok bočného panela { -brand-product-name(case: "gen") } ponechajte tu — alebo ho presuňte doprava. Prepnúť môžete teraz alebo kedykoľvek v <a data-l10n-name="sidebar_settings">nastaveniach bočného panela</a>.
+shopping-integrated-new-position-notification-move-left-subtitle = Kontrolu recenzií a zvyšok bočného panela { -brand-product-name(case: "gen") } ponechajte tu — alebo ho presuňte doľava. Prepnúť môžete teraz alebo kedykoľvek v <a data-l10n-name="sidebar_settings">nastaveniach bočného panela</a>.
 shopping-integrated-new-position-notification-move-right-button = Presunúť doprava
 shopping-integrated-new-position-notification-move-left-button = Presunúť doľava
 shopping-integrated-new-position-notification-dismiss-button = Rozumiem
