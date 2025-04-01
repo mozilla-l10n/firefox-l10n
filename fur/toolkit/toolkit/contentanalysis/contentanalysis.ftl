@@ -13,6 +13,15 @@ contentanalysis-slow-agent-dialog-header = Scansion in cors
 contentanalysis-slow-agent-dialog-body-file = { $agent } al sta verificant “{ $filename }” su la fonde des politichis sui dâts de tô organizazion. Chest al podarès puartâ vie cualchi moment.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
+#   $filename - Name of a file being analyzed, such as "aFile.txt"
+#   $count (number) - The number of additional items in the request for analysis
+contentanalysis-slow-agent-dialog-body-file-and-more =
+    { $count ->
+        [one] { $agent } al sta verificant “{ $filename }” e { $count } altri element in base aes politichis sui dâts de tô organizazion. Cheste operazion e podarès puartâ vie un pôc di timp.
+       *[other] { $agent } al sta verificant “{ $filename }” e { $count } altris elements in base aes politichis sui dâts de tô organizazion. Cheste operazion e podarès puartâ vie un pôc di timp.
+    }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } al sta verificant il contignût tacât su la fonde des politichis sui dâts de tô organizazion. Chest al podarès puartâ vie cualchi moment.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:

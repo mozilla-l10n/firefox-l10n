@@ -201,18 +201,30 @@ contextual-manager-passwords-vulnerable-password-link-message = Cemût fasial { 
 contextual-manager-passwords-no-username-heading-and-message =
     .heading = Zonte un non utent
     .message = Zontânt un al sveltìs l'acès.
+contextual-manager-passwords-add-username-button = Zonte non utent
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Zonte password
+contextual-manager-passwords-edit-label =
+    .label = Modifiche password
+contextual-manager-passwords-remove-label =
+    .title = Gjave password
+contextual-manager-passwords-origin-tooltip = Inserìs la direzion precise là che tu fasis l’acès par chest sît.
+contextual-manager-passwords-username-tooltip = Inserìs il non utent, la direzion e-mail o il numar di account che tu dopris par jentrâ.
+contextual-manager-passwords-password-tooltip = Inserìs la password che tu dopris par jentrâ in chest account.
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = Passwords
+contextual-manager-website-icon =
+    .alt = Icone dal sît web
 contextual-manager-copy-icon =
     .alt = Copie
+contextual-manager-check-icon-username =
+    .alt = Copiât
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
