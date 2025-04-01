@@ -55,7 +55,7 @@ fx-view-discoverability-secondary-button-label = Siere
 
 # Blocks the message from showing again
 split-dismiss-button-dont-show-option =
-    .label = No stas mostrâ di gnûf cheste racomandazion
+    .label = No sta mostrâ di gnûf cheste racomandazion
 # Dismisses message and reduces frequency of message
 split-dismiss-button-show-fewer-option =
     .label = Mostre mancul racomandazions

@@ -254,9 +254,32 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 ## Review Checker in Integrated sidebar
 
+# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
+shopping-opt-in-integrated-headline = Fâs compris cun fidance
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle = Ative Verifiche recensions in { -brand-product-name } par valutâ la afidabilitât des recensions sui prodots prime di comprâju. Cheste funzion e sfrute la tecnologjie IA par analizâ lis recensions e e funzione cuant che tu fasis compris su { $firstSite }, { $secondSite } e { $thirdSite }. <a data-l10n-name="learn_more">Plui informazions</a>
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle-unsupported-site = Verifiche recensions in { -brand-product-name } ti jude a valutâ la afidabilitât des recensions sui prodots prime di comprâju. Cheste funzion e sfrute la tecnologjie IA par analizâ lis recensions e e funzione cuant che tu fasis compris su { $firstSite }, { $secondSite } e { $thirdSite }. <a data-l10n-name="learn_more">Plui informazions</a>
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-opt-in-integrated-headline = Puedistu fidâti di chestis recensions?
+# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
+shopping-callout-not-opted-in-integrated-paragraph1 = Ative Verifiche recensions in { -brand-product-name } par scuvierzilu. Cheste funzion e je basade su { -fakespot-brand-full-name } e e dopre la tecnologjie IA par analizâ lis recensions.
+shopping-callout-not-opted-in-integrated-paragraph2 = Selezionant “{ shopping-opt-in-integrated-button }” tu acetis la <a data-l10n-name="privacy_policy">informative su la riservatece</a> di { -brand-product-name } e lis <a data-l10n-name="terms_of_use">cundizions di utilizazion</a> di { -fakespot-brand-full-name }.
+shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Siere
+shopping-callout-not-opted-in-integrated-reminder-accept-button = Ative Verifiche recensions
+shopping-callout-not-opted-in-integrated-reminder-do-not-show = No sta mostrâ di gnûf cheste racomandazion
+shopping-callout-not-opted-in-integrated-reminder-show-fewer = Mostre mancul racomandazions
+shopping-callout-not-opted-in-integrated-reminder-manage-settings = Gjestìs impostazions
 
 ## Message strings for Review Checker's empty states.
 

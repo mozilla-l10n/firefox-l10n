@@ -198,6 +198,9 @@ contextual-manager-passwords-vulnerable-password-heading-and-message =
     .heading = Al è conseât cambiâ password
     .message = Al è facil induvinâ cheste password. Cambie tô password par protezi il to account.
 contextual-manager-passwords-vulnerable-password-link-message = Cemût fasial { -brand-product-name } a savê se une password e je debile?
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Zonte un non utent
+    .message = Zontânt un al sveltìs l'acès.
 
 ## Login Form
 
