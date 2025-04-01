@@ -189,6 +189,15 @@ contextual-manager-passwords-alert-back-button =
     .label = Indaûr
 contextual-manager-passwords-alert-list =
     .aria-label = Liste avîs
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = Al è conseât il cambi de password
+    .message = E je stade segnalade une robarie o une fuide des passwords di chest sît. Cambie la password par protezi il to account.
+contextual-manager-passwords-breached-origin-link-message = Cemût fasial { -brand-product-name } a savê des violazions?
+contextual-manager-passwords-change-password-button = Cambie la password
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = Al è conseât cambiâ password
+    .message = Al è facil induvinâ cheste password. Cambie tô password par protezi il to account.
+contextual-manager-passwords-vulnerable-password-link-message = Cemût fasial { -brand-product-name } a savê se une password e je debile?
 
 ## Login Form
 
