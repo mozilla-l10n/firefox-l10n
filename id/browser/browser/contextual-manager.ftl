@@ -168,7 +168,14 @@ contextual-manager-passwords-no-passwords-found-message = Tidak ada sandi ditemu
 
 # This string encourages the user to save their passwords in Firefox (the "safe spot").
 contextual-manager-passwords-no-passwords-header = Simpan kata sandi Anda di tempat yang aman.
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = Tambahkan manual
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = Tutup tanpa menyimpan?
+    .message = Perubahan Anda tidak akan disimpan
+contextual-manager-passwords-discard-changes-close-button = Tutup
+contextual-manager-passwords-discard-changes-go-back-button = Kembali
