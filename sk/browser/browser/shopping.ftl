@@ -259,18 +259,29 @@ shopping-opt-in-integrated-headline = Nakupujte s istotou
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-opt-in-integrated-headline = Môžete veriť týmto recenziám?
+# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
+shopping-callout-not-opted-in-integrated-paragraph1 = Ak to chcete zistiť, zapnite Kontrolu recenzií od { -brand-product-name(case: "gen") }. Využíva technológiu { -fakespot-brand-full-name } a na analýzu recenzií používa technológiu AI.
+shopping-callout-not-opted-in-integrated-paragraph2 = Kliknutím na tlačidlo “{ shopping-opt-in-integrated-button }” súhlasíte s <a data-l10n-name="privacy_policy">Vyhlásením o ochrane osobných údajov</a> { -brand-product-name(case: "gen") } a <a data-l10n-name="terms_of_use">Podmienkami používania služby</a> od { -fakespot-brand-full-name }.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Zavrieť
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Zapnúť Kontrolu recenzií
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = Toto odporúčanie už nezobrazovať
 shopping-callout-not-opted-in-integrated-reminder-show-fewer = Zobrazovať menej odporúčaní
 shopping-callout-not-opted-in-integrated-reminder-manage-settings = Spravovať nastavenia
+shopping-opt-in-integrated-button = Vyskúšajte Kontrolu recenzií
 
 ## Message strings for Review Checker's empty states.
 
+shopping-empty-state-header = Pripravené na kontrolu recenzií
+shopping-empty-state-supported-site = Pozrite si produkt a { -brand-product-name } skontroluje, či sú recenzie spoľahlivé.
+# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
+# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
+shopping-empty-state-non-supported-site = Kontrola recenzií funguje, keď nakupujete na:
 
 ## Confirm disabling Review Checker for newly opted out users
 
 shopping-integrated-callout-opted-out-title = Kontrola recenzií je vypnutá
+shopping-integrated-callout-opted-out-subtitle = Ak ju chcete znova zapnúť, vyberte cenovku na bočnom paneli a zapnite Kontrolu recenzií.
 
 ## Callout for where to find Review Checker when the sidebar closes
 
@@ -288,3 +299,13 @@ shopping-integrated-new-position-notification-dismiss-button = Rozumiem
 
 shopping-settings-auto-open-and-close-toggle =
     .label = Automaticky otvárať a zatvárať nástroj Kontrola recenzií
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-and-close-description-three-sites = Spustí sa pri prezeraní produktov na stránkach { $firstSite }, { $secondSite } a { $thirdSite } a ukončí sa, keď z nich odídete
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-and-close-description-single-site = Spustí sa pri prezeraní produktov na stránkach { $currentSite } a ukončí sa, keď z nich odídete
