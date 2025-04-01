@@ -89,6 +89,14 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
         [macos] CSV Kuatiaite
        *[other] CSV Marandurenda
     }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] Eipe’a ñe’ẽñemi
+        [one] ¿Emboguete { $count } ñe’ẽñeminguéra?
+       *[other] ¿Emboguete { $count } ñe’ẽñeminguéra?
+    }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
@@ -119,6 +127,10 @@ contextual-manager-passwords-radiogroup-label =
 contextual-manager-passwords-add-password-success-heading =
     .heading = Ñe’ẽñemi juajupyre { $url }-pe g̃uarã
 contextual-manager-passwords-add-password-success-button = Hecha
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = Oĩma ñe’ẽñemi ha poruhára réra { $url }-pe g̃uarã
 contextual-manager-passwords-password-already-exists-error-button = Eho ñe’ẽñemíme
 contextual-manager-passwords-update-password-success-heading =
     .heading = Ñe’ẽñemi ñongatupyre
@@ -156,10 +168,12 @@ contextual-manager-passwords-alert-back-button =
     .label = Tapykue
 contextual-manager-passwords-alert-list =
     .aria-label = Tysýi kyhyjerã
+contextual-manager-passwords-breached-origin-link-message = ¿Mba’éicha { -brand-product-name } oikuaa ñembogua rehegua?
 contextual-manager-passwords-change-password-button = Emoambue ñe’ẽñemi
 contextual-manager-passwords-vulnerable-password-heading-and-message =
     .heading = Eikotevẽ emoambue ñe’ẽñemi
     .message = Ko ñe’ẽñemi ndahasýi ijekuaa. Emoambue ne ñe’ẽñemi emo’ã hag̃ua ne mba’ete.
+contextual-manager-passwords-vulnerable-password-link-message = ¿Mba’éicha { -brand-product-name } oikuaa ñe’ẽñemi imarãkuaáva rehegua?
 contextual-manager-passwords-no-username-heading-and-message =
     .heading = Embojuaju poruhára réra
     .message = Embojuaju peteĩ eike hag̃ua pya’e.
