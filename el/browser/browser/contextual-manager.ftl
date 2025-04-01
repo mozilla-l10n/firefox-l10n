@@ -78,6 +78,8 @@ contextual-manager-passwords-export-success-heading =
 contextual-manager-passwords-export-success-button = Τέλος
 # Export passwords to file dialog
 contextual-manager-export-passwords-dialog-title = Εξαγωγή κωδικών πρόσβασης σε αρχείο;
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = Μετά την εξαγωγή, προτείνουμε να το διαγράψετε, ώστε να μην προβληθούν οι κωδικοί πρόσβασής σας από άλλους χρήστες αυτής της συσκευής.
 contextual-manager-export-passwords-dialog-confirm-button = Συνέχεια με την εξαγωγή
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Εξαγωγή κωδικών πρόσβασης από το { -brand-short-name }
