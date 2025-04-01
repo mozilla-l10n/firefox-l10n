@@ -529,3 +529,7 @@ newtab-section-mangage-topics-followed-topics = Dilynwyd
 newtab-section-mangage-topics-followed-topics-empty-state = Nid ydych wedi dilyn unrhyw bynciau eto.
 newtab-section-mangage-topics-blocked-topics = Rhwystrwyd
 newtab-section-mangage-topics-blocked-topics-empty-state = Nid ydych wedi rhwystro unrhyw bynciau eto.
+newtab-custom-wallpaper-title = Mae papurau wal cyfaddas yma
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle = Llwythwch i fyny eich papur wal eich hun neu dewiswch liw cyfaddas i wneud { -brand-product-name } deimlo'n gartrefol.
+newtab-custom-wallpaper-cta = Rhowch gynnig arni

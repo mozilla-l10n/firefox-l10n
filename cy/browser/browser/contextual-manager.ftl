@@ -227,23 +227,98 @@ contextual-manager-passwords-vulnerable-password-link-message = Sut mae { -brand
 contextual-manager-passwords-no-username-heading-and-message =
     .heading = Ychwanegwch enw defnyddiwr
     .message = Ychwanegwch un i fewngofnodi'n gynt.
+contextual-manager-passwords-add-username-button = Ychwanegwch enw defnyddiwr
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Ychwanegu cyfrinair
+contextual-manager-passwords-edit-label =
+    .label = Golygu cyfrinair
+contextual-manager-passwords-remove-label =
+    .title = Tynnu cyfrinair
+contextual-manager-passwords-origin-tooltip = Rhowch yr union gyfeiriad lle byddwch yn mewngofnodi i'r wefan hon.
+contextual-manager-passwords-username-tooltip = Rhowch yr enw defnyddiwr, cyfeiriad e-bost, neu rif cyfrif rydych chi'n ei ddefnyddio i fewngofnodi.
+contextual-manager-passwords-password-tooltip = Rhowch y cyfrinair a ddefnyddiwyd i fewngofnodi i'r cyfrif hwn.
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = Cyfrineiriau
+contextual-manager-website-icon =
+    .alt = Eicon Gwefan
 contextual-manager-copy-icon =
     .alt = Copïo
+contextual-manager-check-icon-username =
+    .alt = Wedi'i gopïo
+contextual-manager-check-icon-password =
+    .alt = Wedi'i gopïo
+contextual-manager-alert-icon =
+    .alt = Rhybudd
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = Mynd i { $url }
+    .title = Mynd i { $url }
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = Mynd i { $url } (Rhybudd)
+    .title = Mynd i { $url } (Rhybudd)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = Copïo Enw Defnyddiwr { $username }
+    .title = Copïo Enw Defnyddiwr { $username }
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = Copïo Enw Defnyddiwr { $username } Rhybudd
+    .title = Copïo Enw Defnyddiwr { $username } Rhybudd
+contextual-manager-password-login-line =
+    .aria-label = Copïo Cyfrinair
+    .title = Copïo Cyfrinair
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = Copïo Cyfrinair (Rhybudd)
+    .title = Copïo Cyfrinair (Rhybudd)
+contextual-manager-edit-login-button = Golygu
+    .tooltiptext = Golygu Cyfrinair
+contextual-manager-view-alert-heading =
+    .heading = Gweld y rhybudd
+contextual-manager-view-alert-button =
+    .tooltiptext = Darllen y rhybudd
+contextual-manager-show-password-button =
+    .aria-label = Dangos Cyfrinair
+    .title = Dangos Cyfrinair
+contextual-manager-hide-password-button =
+    .aria-label = Cuddio Cyfrinair
+    .title = Cuddio Cyfrinair
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = Heb ganfod cyfrineiriau
+contextual-manager-passwords-no-passwords-found-message = Heb ganfod cyfrineiriau. Chwiliwch am derm gwahanol a cheisio eto.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = Cadwch eich cyfrineiriau mewn man diogel.
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = Mae'r holl gyfrineiriau wedi'u hamgryptio a byddwn yn cadw llygad am dor-data a rhybuddion os yw hyn yn effeithio arnoch chi.
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = Ychwanegwch nhw yma i gychwyn arni.
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = Ychwanegu â llaw
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = Cau heb gadw?
+    .message = Fydd eich newidiadau ddim yn cael eu cadw.
+contextual-manager-passwords-discard-changes-close-button = Cau
+contextual-manager-passwords-discard-changes-go-back-button = Mynd nôl
