@@ -263,9 +263,14 @@ shopping-opt-in-integrated-button = Eiporu hechajey rechaha
 ## Message strings for Review Checker's empty states.
 
 shopping-empty-state-header = Oĩma techajey rechaha
+shopping-empty-state-supported-site = Ehecha apopyry ha { -brand-product-name } oma’ẽjeýta umi jehechapyre ojegueroviápa.
+# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
+# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
+shopping-empty-state-non-supported-site = Pe jehechajeyha rechaha oiko ejoguáramo pe:
 
 ## Confirm disabling Review Checker for newly opted out users
 
+shopping-integrated-callout-opted-out-title = Marandu’i rechajeyha oñembogue
 
 ## Callout for where to find Review Checker when the sidebar closes
 
@@ -274,6 +279,7 @@ shopping-empty-state-header = Oĩma techajey rechaha
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-title = Marandu’i rechajeyhaite, tendaite pyahu
 shopping-integrated-new-position-notification-move-right-button = Emongu’e akatúa gotyo
 shopping-integrated-new-position-notification-move-left-button = Emongu’e asu gotyo
 shopping-integrated-new-position-notification-dismiss-button = Aikũmby
