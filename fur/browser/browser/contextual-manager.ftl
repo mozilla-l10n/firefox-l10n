@@ -225,6 +225,21 @@ contextual-manager-copy-icon =
     .alt = Copie
 contextual-manager-check-icon-username =
     .alt = Copiât
+contextual-manager-check-icon-password =
+    .alt = Copiade
+contextual-manager-alert-icon =
+    .alt = Avîs
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = Visite { $url }
+    .title = Visite { $url }
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = Visite { $url } (avîs)
+    .title = Visite { $url } (avîs)
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
