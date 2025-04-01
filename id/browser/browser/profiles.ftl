@@ -100,6 +100,8 @@ profiles-system-theme = Sistem
 profiles-marigold-theme-2 = Marigold kuning
 # This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-lichen-theme-2 = Hijau mint
+# Ocean blue is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-ocean-theme-2 = Biru laut
 
 ## Alternative text for default profile icons
 
