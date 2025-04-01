@@ -96,6 +96,8 @@ profiles-light-theme = Swětły
 profiles-dark-theme = Śamny
 # The default system theme
 profiles-system-theme = System
+# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-marigold-theme-2 = Žołta knochanka
 
 ## Alternative text for default profile icons
 
