@@ -246,10 +246,35 @@ contextual-manager-username-login-line =
 contextual-manager-username-login-line-with-alert =
     .aria-label = העתקת שם המשתמש { $username } (אזהרה)
     .title = העתקת שם המשתמש { $username } (אזהרה)
+contextual-manager-password-login-line =
+    .aria-label = העתקת הססמה
+    .title = העתקת הססמה
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = העתקת הססמה (אזהרה)
+    .title = העתקת הססמה (אזהרה)
+contextual-manager-edit-login-button = עריכה
+    .tooltiptext = עריכת הססמה
+contextual-manager-view-alert-heading =
+    .heading = הצגת התרעה
+contextual-manager-view-alert-button =
+    .tooltiptext = סקירת התרעה
+contextual-manager-show-password-button =
+    .aria-label = הצגת הססמה
+    .title = הצגת הססמה
+contextual-manager-hide-password-button =
+    .aria-label = הסתרת הססמה
+    .title = הסתרת הססמה
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = לא נמצאו ססמאות
+contextual-manager-passwords-no-passwords-found-message = לא נמצאו ססמאות. נא לחפש מונח אחר ולנסות שוב.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = שמירת הססמאות שלך במקום בטוח.
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.

@@ -267,20 +267,34 @@ shopping-callout-not-opted-in-integrated-reminder-manage-settings = Ayarları y�
 
 ## Message strings for Review Checker's empty states.
 
+# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
+# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
+shopping-empty-state-non-supported-site = Değerlendirme kontrolcüsü aşağıdaki sitelerde çalışır:
 
 ## Confirm disabling Review Checker for newly opted out users
 
+shopping-integrated-callout-opted-out-title = Değerlendirme kontrolcüsü kapalı
 
 ## Callout for where to find Review Checker when the sidebar closes
 
+shopping-integrated-callout-sidebar-closed-title = Değerlendirme kontrolcüsüne dön
+shopping-integrated-callout-sidebar-closed-subtitle = Bir ürünün değerlendirmelerine güvenip güvenemeyeceğinizi öğrenmek için kenar çubuğundaki fiyat etiketini seçin.
+shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Bir ürünün değerlendirmelerine güvenip güvenemeyeceğinizi öğrenmek için kenar çubuğu düğmesini seçin.
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-title = Değerlendirme kontrolcüsü yeni yerinde
 shopping-integrated-new-position-notification-move-right-button = Sağa taşı
 shopping-integrated-new-position-notification-move-left-button = Sola taşı
 shopping-integrated-new-position-notification-dismiss-button = Anladım
 
 ## Combined setting for auto-open and auto-close.
 
+shopping-settings-auto-open-and-close-toggle =
+    .label = Değerlendirme kontrolcüsünü otomatik olarak aç ve kapat
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-and-close-description-single-site = { $currentSite } sitesindeki ürünlere baktığınızda açılır, siteden çıktığınızda kapanır

@@ -194,6 +194,9 @@ contextual-manager-passwords-breached-origin-heading-and-message =
     .message = Bu web sitesindeki parolaların çalındığı veya sızdırıldığı bildirildi. Hesabınızı korumak için parolanızı değiştirin.
 contextual-manager-passwords-breached-origin-link-message = { -brand-product-name } ihlalleri nereden biliyor?
 contextual-manager-passwords-change-password-button = Parolayı değiştir
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = Parolanızı değiştirmenizi öneriyoruz
+    .message = Bu parola kolayca tahmin edilebilir. Hesabınızı korumak için parolanızı değiştirin.
 contextual-manager-passwords-vulnerable-password-link-message = { -brand-product-name } zayıf parolaları nereden biliyor?
 contextual-manager-passwords-no-username-heading-and-message =
     .heading = Kullanıcı adı ekle
@@ -227,10 +230,27 @@ contextual-manager-check-icon-password =
 contextual-manager-alert-icon =
     .alt = Uyarı
 # Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = { $url } adresine git
+    .title = { $url } adresine git
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = { $url } adresine git (Uyarı)
+    .title = { $url } adresine git (Uyarı)
+# Variables
 #   $username (string) - The username associated with the login
 contextual-manager-username-login-line =
     .aria-label = { $username } kullanıcı adını kopyala
     .title = { $username } kullanıcı adını kopyala
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = { $username } kullanıcı adını kopyala (Uyarı)
+    .title = { $username } kullanıcı adını kopyala (Uyarı)
 contextual-manager-password-login-line =
     .aria-label = Parolayı kopyala
     .title = Parolayı kopyala
@@ -253,6 +273,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Hiçbir parola bulunamadı
+contextual-manager-passwords-no-passwords-found-message = Parola bulunamadı. Farklı bir terimle yeniden aramayı deneyin.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
@@ -261,6 +282,8 @@ contextual-manager-passwords-no-passwords-found-header =
 contextual-manager-passwords-no-passwords-header = Parolalarınızı güvenli bir yere kaydedin.
 # This string encourages the user to save their passwords to Firefox again.
 contextual-manager-passwords-no-passwords-get-started-message = Başlamak için parolalarınızı buraya ekleyin.
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = Elle ekle
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.

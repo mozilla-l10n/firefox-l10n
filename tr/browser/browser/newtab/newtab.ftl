@@ -520,3 +520,7 @@ newtab-section-mangage-topics-followed-topics = Takip ediliyor
 newtab-section-mangage-topics-followed-topics-empty-state = Henüz hiçbir konuyu takip etmiyorsunuz.
 newtab-section-mangage-topics-blocked-topics = Engellendi
 newtab-section-mangage-topics-blocked-topics-empty-state = Henüz hiçbir konuyu engellemediniz.
+newtab-custom-wallpaper-title = Artık kendi duvar kâğıtlarınızı kullanabilirsiniz
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle = { -brand-product-name } tarayıcınızı kişiselleştirmek için kendi duvar kâğıdınızı yükleyin veya istediğiniz rengi seçin.
+newtab-custom-wallpaper-cta = Deneyin
