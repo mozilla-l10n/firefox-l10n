@@ -256,6 +256,14 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 ## Review Checker in Integrated sidebar
 
+# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
+shopping-opt-in-integrated-headline = Siopa gyda hyder
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle = Trowch Wiriydd Adolygiadau { -brand-product-name } i weld pa mor ddibynadwy yw adolygiadau cynnyrch, cyn i chi brynu. Mae'n defnyddio technoleg AI i ddadansoddi adolygiadau ac mae'n gweithio pan fyddwch chi'n siopa ar { $firstSite }, { $secondSite }, a { $thirdSite }. <a data-l10n-name="learn_more">Darllen rhagor</a>
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 

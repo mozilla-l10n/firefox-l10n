@@ -123,6 +123,13 @@ contextual-manager-passwords-remove-all-message =
         [1] Kjo do të heqë fjalëkalimin tuaj të ruajtur në { -brand-short-name } dhe çfarëdo sinjalizimesh cenimi. S’mund të zhbëni këtë veprim.
        *[other] This will remove the passwords saved to { -brand-short-name } and any breach alerts. You cannot undo this action.
     }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] Kjo do të heqë fjalëkalimin e ruajtur te { -brand-short-name } në krejt pajisjet tuaja të njëkohësuara dhe do të heqë çfarëdo sinjalizimesh për cenime. Këtë veprim s’mund të zhbëni.
+       *[other] This will remove all passwords saved to { -brand-short-name } on all your synced devices and remove any breach alerts. You cannot undo this action.
+    }
 contextual-manager-passwords-origin-label = Sajt
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = Emër përdoruesi

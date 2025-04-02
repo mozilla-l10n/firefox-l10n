@@ -345,6 +345,11 @@ pdfjs-editor-free-highlight-thickness-title =
 pdfjs-editor-signature-add-signature-button =
     .title = Shtoni nënshkrim të ri
 pdfjs-editor-signature-add-signature-button-label = Shtoni nënshkrim të ri
+# Used on the button to use an already saved signature.
+# Variables:
+#   $description (String) - a string describing/labeling the signature.
+pdfjs-editor-add-saved-signature-button =
+    .title = Nënshkrim i ruajtur: { $description }
 # .default-content is used as a placeholder in an empty text editor.
 pdfjs-free-text2 =
     .aria-label = Përpunues Tekstesh
