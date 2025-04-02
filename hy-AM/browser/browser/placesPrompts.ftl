@@ -15,3 +15,4 @@ places-bookmarks-restore-format-error = Չսպասարկվող նիշքի տես
 places-bookmarks-restore-parse-error = Հնարավոր չէ մշակել պահեստային ֆայլը:
 places-bookmarks-import = Ներմուծել էջանիշերի ֆայլը
 places-bookmarks-export = Արտահանել էջանիշերի ֆայլը
+places-bookmarks-paste-error-title = Գտնվել են անվավեր URL(ներ):

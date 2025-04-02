@@ -301,6 +301,8 @@ newtab-custom-settings = Կառավարել լրացուցիչ կարգավոր�
 
 newtab-wallpaper-title = Պաստառներ
 newtab-wallpaper-reset = Վերակայել սկզբնադիրը
+newtab-wallpaper-upload-image = Վերբեռնել պատկեր
+newtab-wallpaper-custom-color = Ընտրել գույն
 newtab-wallpaper-light-red-panda = Կարմիր պանդա
 newtab-wallpaper-light-mountain = Սպիտակ լեռ
 newtab-wallpaper-light-sky = Երկինք մանուշակագույն և վարդագույն ամպերով
@@ -441,14 +443,27 @@ newtab-topic-selection-button-pick-interests = Ընտրեք ձեր հետաքր�
 ## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 ## e.g. Following the travel section of stories.
 
+newtab-section-follow-button = Հետևել
+newtab-section-following-button = Հետևում
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
 ## e.g. Blocked the politics section of stories.
 
+newtab-section-block-button = Արգելափակել
+newtab-section-blocked-button = Արգելափակված
+newtab-section-unblock-button = Ապակողպել
 
 ## Confirmation modal for blocking a section
 
+newtab-section-cancel-button = Ոչ հիմա
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = Արգելափակել { $topic }-ը
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+newtab-section-mangage-topics-title = Թեմաներ
+newtab-section-manage-topics-button-v2 =
+    .label = Կառավարել թեմաները
+newtab-section-mangage-topics-blocked-topics = Արգելափակված

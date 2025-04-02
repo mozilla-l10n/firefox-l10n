@@ -65,10 +65,17 @@ contextual-manager-passwords-import-detailed-report = Դիտել մանրամա�
 contextual-manager-passwords-import-success-button = Պատրաստ է
 contextual-manager-passwords-import-error-button-try-again = Կրկին փորձել
 contextual-manager-passwords-import-error-button-cancel = Չեղարկել
+contextual-manager-passwords-export-success-heading =
+    .heading = Գաղտնաբառերն արտահանվել են
 contextual-manager-passwords-export-success-button = Պատրաստ է
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = Արտահանե՞լ գաղտնաբառերը ֆայլով:
 contextual-manager-export-passwords-dialog-confirm-button = Շարունակել արտահանումը
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Արտահանել գաղտնաբառերը { -brand-short-name }-ից
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = գաղտնաբառեր
 contextual-manager-passwords-export-file-picker-export-button = Արտահանել
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -93,6 +100,7 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Հեռացնել բոլորը
        *[other] Հեռացնել բոլորը
     }
+contextual-manager-passwords-origin-label = Կայք
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-password-label = Գաղտնաբառ
     .data-after = Պատճենվեց
@@ -116,6 +124,41 @@ contextual-manager-passwords-list-label =
     .aria-label = Գաղտնաբառեր
 contextual-manager-copy-icon =
     .alt = Պատճենել
+contextual-manager-alert-icon =
+    .alt = Զգուշացում
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = Այցելել { $url }
+    .title = Այցելել { $url }
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = Այցելել { $url } (զգուշացում)
+    .title = Այցելել { $url } (զգուշացում)
+contextual-manager-password-login-line =
+    .aria-label = Պատճենել գաղտնաբառը
+    .title = Պատճենել գաղտնաբառը
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = Պատճենել գաղտնաբառը (զգուշացում)
+    .title = Պատճենել գաղտնաբառը (զգուշացում)
+contextual-manager-edit-login-button = Խմբագրել
+    .tooltiptext = Խմբագրել գաղտնաբառը
+contextual-manager-view-alert-heading =
+    .heading = Դիտել ահազանգը
+contextual-manager-view-alert-button =
+    .tooltiptext = Դիտել ահազանգը
+contextual-manager-show-password-button =
+    .aria-label = Ցուցադրել գաղտնաբառը
+    .title = Ցուցադրել գաղտնաբառը
+contextual-manager-hide-password-button =
+    .aria-label = Թաքցնել գաղտնաբառը
+    .title = Թաքցնել գաղտնաբառը
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = Գաղտնաբառեր չեն գտնվել
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
@@ -124,3 +167,8 @@ contextual-manager-copy-icon =
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = Փակե՞լ առանց պահելու
+    .message = Ձեր փոփոխությունները չեն պահվի:
+contextual-manager-passwords-discard-changes-close-button = Փակել
+contextual-manager-passwords-discard-changes-go-back-button = Գնալ ետ

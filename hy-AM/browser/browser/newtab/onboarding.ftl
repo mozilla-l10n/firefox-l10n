@@ -368,9 +368,12 @@ onboarding-checklist-sign-up = Գրանցվեք կամ մուտք գործեք �
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-dismiss = Լավ
 
 ## Multi Profiles feature onboarding messages
 
 
 ## Desktop to Mobile Adoption feature callout strings
 
+dismiss-button-label = Բաց թողնել
+sync-to-mobile-button-label = Համաժամեցեք բջջայինի հետ

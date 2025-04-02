@@ -130,6 +130,7 @@ preferences-data-migration-description = Ներմուծեք էջանիշները
 preferences-data-migration-button =
     .label = Ներմուծել տվյալները
     .accesskey = մ
+preferences-manage-profiles-learn-more = Իմանալ ավելին
 preferences-manage-profiles-button =
     .label = Կառավարել պրոֆիլները
 tabs-group-header = Ներդիրներ
@@ -199,6 +200,11 @@ containers-remove-alert-msg =
 containers-remove-ok-button = Հեռացնել այս Պարունակը
 containers-remove-cancel-button = Չհեռացնել այս Պարունակը
 browser-layout-header = Դիտարկիչի դասավորությունը
+browser-layout-horizontal-tabs =
+    .label = Հորիզոնական ներդիրներ
+browser-layout-vertical-tabs =
+    .label = Ուղղահայաց ներդիրներ
+browser-layout-vertical-tabs-desc = Ցուցադրել կողքի վրա, կողագոտիում
 browser-layout-show-sidebar =
     .label = Ցուցադրել կողագոտի
 browser-layout-show-sidebar-desc = Արագորեն մատչեք Ձեր էջանիշերը, ներդիրները հեռապխոսից, ԱԲ չաթ-բոթերը և ավելին՝ առանց լքելու հիմնական տեսքը:
@@ -214,6 +220,9 @@ preferences-web-appearance-choice-dark = Մուգ
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Կառավարեք { -brand-short-name } ձևավորումները <a data-l10n-name="themes-link">Ընդլայնումներ և Ձևավորումներում</a>
+preferences-contrast-control-use-platform-settings =
+    .label = Ինքնաշխատ (օգտագործել համակարգի կարգավորումները)
+    .accesskey = A
 preferences-colors-header = Գույներ
 preferences-colors-description = Չեղարկել { -brand-short-name }-ի սկզբնադիր գույները տեքստի, կայքի խորքի և հղումների համար:
 preferences-colors-manage-button =
@@ -1020,6 +1029,9 @@ cookie-banner-learn-more = Իմանալ ավելին
 
 addressbar-header = Հասցեագոտի
 addressbar-suggest = Հասցեագոտին օգտագործելիս առաջարկել
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Իմանալ ավելին
 addressbar-locbar-history-option =
     .label = Դիտարկման պատմություն
     .accesskey = H
@@ -1050,6 +1062,8 @@ addressbar-locbar-showrecentsearches-option =
     .label = Ցուցադրել վերջին որոնումները
     .accesskey = վ
 addressbar-quickactions-learn-more = Իմանալ ավելին
+addressbar-restore-dismissed-suggestions-button =
+    .label = Վերականգնել
 
 ## Privacy Section - Content Blocking
 
@@ -1279,6 +1293,7 @@ space-alert-over-5gb-settings-button =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Միայն HTTPS կերպ
+httpsonly-learn-more2 = Ինչպես է աշխատում միայն HTTPS-ը
 httpsonly-description = HTTPS-ը տրամադրում է անվտանգ, գաղտնագրված կապակցում { -brand-short-name }-ի և ձեր այցելած կայքերի միջև: Կայքերի մեծամասնությունը աջակցում է HTTPS և եթե միացված է Միայն HTTPS կերպը, ապա { -brand-short-name }-ը կարդիացնի բոլոր կապակցումները HTTPS-ի:
 httpsonly-learn-more = Իմանալ ավելին
 httpsonly-radio-enabled =

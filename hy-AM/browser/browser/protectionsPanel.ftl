@@ -66,6 +66,8 @@ protections-panel-not-found-label = Ոչ մեկը չի հայտնաբերվել
 
 ## Smartblock strings
 
+#  $websitehost (String): host of website with blocked content.
+smartblock-placeholder-button-text = Թույլատրել { $websitehost }-ում
 
 ##
 

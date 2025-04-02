@@ -6,6 +6,9 @@
 ## Preonboarding modal screen strings
 
 preonboarding-title = Բարի գալուստ  { -brand-product-name }
+preonboarding-primary-cta = Հաստատել և շարունակել
+# Description under label for header style buttons
+preonboarding-header-button-description = Կարդալ ավելին
 # New user onboarding checklist
 preonboarding-checklist-interaction-data-label = Ուղարկել տեխնիկական և փոխազդեցության տվյալները { -vendor-short-name }-ին
 preonboarding-checklist-crash-reports-label = Ինքնաբար ուղարկել խափանումների մասին զեկույցը
