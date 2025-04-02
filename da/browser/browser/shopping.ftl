@@ -256,6 +256,18 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 # Opt-in message strings for Review Checker when it is integrated into the global sidebar.
 shopping-opt-in-integrated-headline = Vær tryg når du handler
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle = Aktiver funktionen Verificering af anmeldelser fra { -brand-product-name } for at se, hvor pålidelige anmeldelserne af et produkt er, før du handler. Funktionen bruger AI-teknologi til at analysere anmeldelser og fungerer, når du handler på { $firstSite }, { $secondSite } og { $thirdSite }. <a data-l10n-name="learn_more">Læs mere</a>
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle-unsupported-site = Funktionen Verificering af anmeldelser fra { -brand-product-name } hjælper dig med at gennemskue, hvor pålidelige anmeldelserne af et produkt er, før du handler. Funktionen bruger AI-teknologi til at analysere anmeldelser og fungerer, når du handler på { $firstSite }, { $secondSite } og { $thirdSite }. <a data-l10n-name="learn_more">Læs mere</a>
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
