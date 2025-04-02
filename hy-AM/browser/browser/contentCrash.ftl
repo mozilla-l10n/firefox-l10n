@@ -31,3 +31,6 @@ pending-crash-reports-send =
     .label = Ուղարկել
 pending-crash-reports-always-send =
     .label = Միշտ ուղարկել
+requested-crash-reports-dont-show-again =
+    .label = Այլևս չցուցադրել
+    .accesskey = D

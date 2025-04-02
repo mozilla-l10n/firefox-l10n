@@ -78,6 +78,43 @@ browser-main-window-titles =
     .data-content-title-private = { $content-title }․ { -brand-full-name } գաղտնի դիտարկում
     .data-content-title-default-with-profile = { $content-title }․ { $profile-name }․ { -brand-full-name }
     .data-content-title-private-with-profile = { $content-title }․ { $profile-name }․ { -brand-full-name } գաղտնի դիտարկում
+# These are the default window titles on macOS.
+# .data-title-default and .data-title-private are used when the web content
+# opened has no title:
+#
+#
+# "default" - "Mozilla Firefox"
+# "private" - "Mozilla Firefox — (Private Browsing)"
+#
+# .data-content-title-default and .data-content-title-private are for use when
+# there *is* a content title.
+# Do not use the brand name in these, as we do on non-macOS.
+#
+# .data-title-default-with-profile, .data-title-private-with-profile,
+# .data-content-title-default-with-profile,
+# .data-content-title-private-with-profile are used when there a
+# SelectableProfileService.current profile exists.
+#
+# Also note the other subtle difference here: we use a `-` to separate the
+# brand name from `(Private Browsing)`, which does not happen on other OSes.
+#
+# Variables:
+#  $content-title (String): the title of the web content.
+#  $profile-name (String): the name of the current profile.
+browser-main-window-titles-mac =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — Գաղտնի դիտարկում
+    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
+    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Գաղտնի դիտարկում
+    .data-content-title-default = { $content-title }
+    .data-content-title-private = { $content-title } — Գաղտնի դիտարկում
+    .data-content-title-default-with-profile = { $content-title } — { $profile-name }
+    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Գաղտնի դիտարկում
+# This gets set as the initial title, and is overridden as soon as we start
+# updating the titlebar based on loaded tabs or private browsing state.
+# This should match the `data-title-default` attribute in both
+# `browser-main-window` and `browser-main-window-mac`.
+browser-main-window-default-title = { -brand-full-name }
 
 ##
 
@@ -150,6 +187,12 @@ urlbar-result-menu-remove-from-history =
 urlbar-result-menu-tip-get-help =
     .label = Ստանալ օգնություն
     .accesskey = h
+urlbar-result-menu-dismiss-suggestion =
+    .label = Մերժել այս առաջարկը
+    .accesskey = D
+urlbar-result-menu-learn-more-about-firefox-suggest =
+    .label = Իմանալ ավելին { -firefox-suggest-brand-name }-ի մասին
+    .accesskey = L
 urlbar-result-menu-manage-firefox-suggest =
     .label = Կառավարել { -firefox-suggest-brand-name }-ը
     .accesskey = M
@@ -289,6 +332,9 @@ quickactions-cmd-addons2 = Հավելումներ
 quickactions-bookmarks2 = Կառավարեք էջանիշները
 quickactions-cmd-bookmarks = Էջանիշեր
 # Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Մաքրել վերջին պատմությունը
+quickactions-cmd-clearrecenthistory = մաքրել վերջին պատմությունը, պատմություն
+# Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Մաքրել պատմությունը
 quickactions-cmd-clearhistory = մաքրել պատմությունը
 # Opens about:downloads page
@@ -297,6 +343,15 @@ quickactions-cmd-downloads = ներբեռնումներ
 # Opens about:addons page in the extensions section
 quickactions-extensions = Կառավարել ընդլայնումները
 quickactions-cmd-extensions = ընդլայնումներ
+# Opens Firefox View
+quickactions-firefoxview = Բացել { -firefoxview-brand-name }-ը
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = բացել { -firefoxview-brand-name }, { -firefoxview-brand-name }-ը, բացելու տեսք, տեսք
+# Opens SUMO home page
+quickactions-help = { -brand-product-name }-ի օգնություն
+quickactions-cmd-help = օգնություն, աջակցում
 # Opens the devtools web inspector
 quickactions-inspector2 = Բացել Մշակողի գործիքները
 quickactions-cmd-inspector = Զննիչ, մշակման գործիքներ
@@ -339,6 +394,10 @@ quickactions-cmd-viewsource = դիտել աղբյուրը, աղբյուրը
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Իմացեք ավելին արագ գործողությունների մասին
+# Will be shown to users the first configurable number of times
+# they experience actions giving them instructions on how to
+# select the action shown by pressing the tab key.
+press-tab-label = Սեղմեք ներդիրը՝ ընտրելու համար.
 
 ## Bookmark Panel
 
@@ -400,6 +459,8 @@ identity-https-only-dropdown-off-temporarily =
     .label = Ժամանակավորապես անջատված է
 identity-https-only-info-turn-on2 = Միացրեք Միայն HTTPS կերպը այս կայքի համար, եթե ցանկանում եք, որ { -brand-short-name }-ը արդիացնի կապակցումը, երբ հնարավոր է:
 identity-https-only-info-turn-off2 = Եթե էջը կարծես խախտված է, կարող եք անջատել միայն HTTPS-ի ռեժիմը, որպեսզի այս կայքը կրկին բեռնվի՝ օգտագործելով անապահով HTTP:
+identity-https-only-info-turn-on3 = Միացրեք HTTPS արդիացումներն այս կայքի համար, եթե ցանկանում եք, որ { -brand-short-name }-ը, երբ հնարավոր է, արդիացնի կապակցումը:
+identity-https-only-info-turn-off3 = Եթե էջը խոտանված է թվում, կարող եք անջատել HTTPS արդիացումներն այս կայքի համար՝ ոչ ապահով HTTP-ի օգտագործումը կրկին բեռնելու համար:
 identity-https-only-info-no-upgrade = Հնարավոր չէ HTTP-ից թարմացնել կապը:
 identity-permissions-storage-access-header = Միջկայքային թխուկներ
 identity-permissions-storage-access-hint = Այս կողմերը կարող են օգտագործել միջկայքաին թխուկներ և կայքի տվյալներ, երբ դուք գտնվում եք այս կայքում:
@@ -630,6 +691,25 @@ urlbar-result-action-copy-to-clipboard = Պատճենել
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
+# The string returned for an undefined calculator result such as when dividing by 0
+urlbar-result-action-undefined-calculator-result = անորոշ
+# Shows the result of a formula expression being calculated, in scientific notation.
+# The last = sign will be shown as part of the result (e.g. "= 1.0e17").
+# Variables
+#  $result (String): the string representation for a result in scientific notation
+#  (e.g. "1.0e17").
+urlbar-result-action-calculator-result-scientific-notation = = { $result }
+# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
+# The last = sign will be shown as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "false", maximumFractionDigits: 8) }
+# Shows the result of a formula expression being calculated, to a maximum of 9 significant
+# digits. This is used for numbers < 1.
+# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 
 ## Strings used for buttons in the urlbar
 
@@ -908,6 +988,9 @@ panel-save-update-password = Գաղտնաբառ
 # "More" item in macOS share menu
 menu-share-more =
     .label = Ավելին…
+menu-share-copy-link =
+    .label = Պատճենել հղումը
+    .accesskey = L
 ui-tour-info-panel-close =
     .tooltiptext = Փակել
 

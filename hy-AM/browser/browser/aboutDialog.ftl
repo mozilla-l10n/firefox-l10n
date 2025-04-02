@@ -51,6 +51,7 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name }-ը ստեղծել է <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>-ն՝ <label data-l10n-name="community-creditsLink">գլոբալ համայնք</label>, որն աշխատում է միասին՝ ապահովելու համացանցի հասանելիությունը բոլորի համար:
 helpus = Ցանկանու՞մ եք օգնել: <label data-l10n-name="helpus-donateLink">Կատարեք նվիրատվություն</label> կամ <label data-l10n-name="helpus-getInvolvedLink">միացեք մեր համայնքին:</label>
 bottomLinks-license = Արտոնագրի տվյալներ
+bottom-links-terms = Օգտագործման պայմաններ
 bottom-links-privacy = Գաղտնիության ծանուցում
 bottomLinks-rights = Օգտագործողի իրավունքները
 bottomLinks-privacy = Գաղտնիության դրույթներ

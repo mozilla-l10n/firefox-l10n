@@ -5,6 +5,7 @@
 
 ## Preonboarding modal screen strings
 
+preonboarding-title = Բարի գալուստ  { -brand-product-name }
 # New user onboarding checklist
 preonboarding-checklist-interaction-data-label = Ուղարկել տեխնիկական և փոխազդեցության տվյալները { -vendor-short-name }-ին
 preonboarding-checklist-crash-reports-label = Ինքնաբար ուղարկել խափանումների մասին զեկույցը
