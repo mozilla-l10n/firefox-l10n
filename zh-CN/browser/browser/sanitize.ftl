@@ -36,11 +36,11 @@ clear-time-duration-prefix2 =
     .value = 时间：
     .accesskey = W
 clear-time-duration-value-last-hour =
-    .label = 最近一小时
+    .label = 过去一小时
 clear-time-duration-value-last-2-hours =
-    .label = 最近两小时
+    .label = 过去两小时
 clear-time-duration-value-last-4-hours =
-    .label = 最近四小时
+    .label = 过去四小时
 # Variables:
 #   $midnightTime (String) - Time of midnight (00:00 hours) - to inform the user that history will be cleared after midnight
 clear-time-duration-value-since-midnight =
