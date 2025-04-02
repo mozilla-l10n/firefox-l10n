@@ -272,7 +272,7 @@ preferences-web-appearance-override-warning2 =
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Kezelje a { -brand-short-name } témáit a <a data-l10n-name="themes-link">Kiegészítők és témák</a> lapon
 preferences-contrast-control-header = Kontrasztvezérlés
-preferences-contrast-control-description = A weboldalak előtér- és háttérszínei változatosak. Állítsa be a { -brand-short-name(case: "accusative") } úgy, hogy ugyanazokat a színeket használja a webhelyeken a jobb olvashatóság érdekében.
+preferences-contrast-control-description = A weboldalak előtér- és háttérszínei változatosak. Állítsa be, hogy a { -brand-short-name } ugyanazokat a színeket használja a webhelyeken a jobb olvashatóság érdekében.
 preferences-contrast-control-use-platform-settings =
     .label = Automatikus (rendszerbeállítások használata)
     .accesskey = A
@@ -445,7 +445,7 @@ play-drm-content =
     .accesskey = l
 play-drm-content-learn-more = További tudnivalók
 update-application-title = { -brand-short-name } frissítések
-update-application-description = Tartsa naprakészen a { -brand-short-name(case: "accusative") } a legjobb teljesítmény, stabilitás és biztonság érdekében.
+update-application-description = Tartsa naprakészen a { -brand-short-name }ot a legjobb teljesítmény, stabilitás és biztonság érdekében.
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Verzió: { $version } <a data-l10n-name="learn-more">Újdonságok</a>
@@ -776,8 +776,8 @@ sync-manage-account = Fiók kezelése
 ## Variables
 ## $email (string) - Email used for Firefox account
 
-sync-signedin-unverified = A(z)  { $email } cím nincs ellenőrizve.
-sync-signedin-login-failure = Jelentkezzen be  { $email } újracsatlakoztatásához
+sync-signedin-unverified = A(z) { $email } nincs ellenőrizve.
+sync-signedin-login-failure = Jelentkezzen be a(z) { $email } újracsatlakoztatásához
 
 ##
 
@@ -1179,14 +1179,14 @@ addressbar-locbar-showtrendingsuggestions-option =
     .accesskey = F
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
-    .label = Javaslatok a { -brand-short-name(case: "ablative") }
+    .label = Javaslatok a { -brand-short-name }tól
 addressbar-locbar-suggest-nonsponsored-desc = Kapjon a kereséséhez kapcsolódó javaslatokat a webről.
 addressbar-locbar-suggest-sponsored-option =
     .label = Szponzorált javaslatok
 addressbar-locbar-suggest-sponsored-desc = A { -brand-short-name } támogatása az alkalmankénti szponzorált javaslatokkal
 addressbar-quickactions-learn-more = További tudnivalók
 addressbar-dismissed-suggestions-label = Elutasított javaslatok
-addressbar-restore-dismissed-suggestions-description = A szponzoroktól és a { -brand-short-name(case: "ablative") } származó elutasított javaslatok helyreállítása.
+addressbar-restore-dismissed-suggestions-description = A szponzoroktól és a { -brand-short-name }tól származó elutasított javaslatok helyreállítása.
 addressbar-restore-dismissed-suggestions-button =
     .label = Helyreállítás
 
