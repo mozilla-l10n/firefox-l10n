@@ -28,6 +28,8 @@ experimental-features-group-customize-browsing =
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Ниҳонвожаҳо дар навори ҷонибӣ
+experimental-features-contextual-password-manager-description = Ба ҳамаи ниҳонвожаҳои худ рост аз навори ҷонибӣ дастрасӣ пайдо намоед. Акнун, вақте ки шумо ба ҳар гуна сомона ворид мешавед, дигар ниёзи ҷустуҷӯ ё барқарорсозии ниҳонвожаҳо даркор намешавад. Барои истифода бурдан аз ин хусусият, ниҳонвожаҳоро аз навори ҷонибӣ интихоб намоед. Пас ба танзимоти умумии барнома гузаред ва дар зери тарҳбандии браузер имкони «Намоиш додани навори ҷонибӣ»-ро интихоб намоед. Сипас, унсури ниҳонвожаҳоро интихоб карда, навори ҷонибиро ба таври дилхоҳ танзим кунед. Агар шумо аз ин имконият истифода баред, <a data-l10n-name="connect">лутфан, фикру андешаҳои худро ба мо ирсол намоед</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Барои варақаи нав тасвири замина ё ранги дилхоҳро интихоб намоед
+experimental-features-custom-wallpaper-description = Тасвири заминаи худро бор кунед ё барои заминаи варақаи нав ранги дилхоҳро интихоб намоед.
