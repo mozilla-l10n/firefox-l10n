@@ -151,6 +151,8 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = إن لم تكن تعلم �
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = يستخدم الموقع <b>{ $hostname }</b> سياسة النقل الصارمة (HSTS)، ما يعني بأن { -brand-short-name } لا يستطيع الاتصال به إلا بأمان. لا يمكنك إضافة استثناء لزيارة هذا الموقع.
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = ربما لا يوجد شيء، لأنه من المحتمل أن تكون هناك مشكلة في الموقع نفسه.
+certerror-coop-learn-more = تعرف على المزيد حول سياسات فتح الأصول المتقاطعة (COOP)
+certerror-coep-learn-more = تعرف على المزيد حول سياسات تضمين الأصول المتقاطعة (COEP)
 # Variables:
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").

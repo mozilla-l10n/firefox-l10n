@@ -276,20 +276,56 @@ shopping-opt-in-integrated-subtitle-unsupported-site = Mae Gwirydd Adolygiadau {
 shopping-callout-opt-in-integrated-headline = Ydych chi'n gallu ymddiried yn yr adolygiadau hyn?
 # Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
 shopping-callout-not-opted-in-integrated-paragraph1 = Trowch Wirydd Adolygiadau { -brand-product-name } ymlaen i ddarganfod. Mae'n cael ei bweru gan { -fakespot-brand-full-name } ac mae'n defnyddio technoleg AI i ddadansoddi adolygiadau.
+shopping-callout-not-opted-in-integrated-paragraph2 = Drwy ddewis “{ shopping-opt-in-integrated-button }” rydych yn cytuno i <a data-l10n-name="privacy_policy">hysbysiad preifatrwydd</a> a <a data-l10n-name="terms_of_use">telerau defnyddio</a> { -brand-product-name }  a   { -fakespot-brand-full-name } .
+shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Cau
+shopping-callout-not-opted-in-integrated-reminder-accept-button = Agor y Gwirydd Adolygiadau
+shopping-callout-not-opted-in-integrated-reminder-do-not-show = Peidiwch â dangos yr argymhelliad hwn eto
+shopping-callout-not-opted-in-integrated-reminder-show-fewer = Dangos llai o argymhellion
+shopping-callout-not-opted-in-integrated-reminder-manage-settings = Rheoli gosodiadau
+shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Mae'r Gwiriwr Adolygu yn cael ei bweru gan { -fakespot-brand-full-name }. Drwy ddewis “{ shopping-opt-in-integrated-button }“ rydych yn cytuno i <a data-l10n-name="privacy_policy">hysbysiad preifatrwydd</a> { -brand-product-name }  ac <a data-l10n-name="terms_of_use">amodau defnydd</a> { -fakespot-brand-name }.
+shopping-opt-in-integrated-button = Rhowch gynnig ar y Gwirydd Adolygiadau
 
 ## Message strings for Review Checker's empty states.
 
+shopping-empty-state-header = Yn barod i wirio adolygiadau
+shopping-empty-state-supported-site = Edrych ar gynnyrch a bydd { -brand-product-name } yn gwirio a yw'r adolygiadau'n ddibynadwy.
+# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
+# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
+shopping-empty-state-non-supported-site = Mae'r Gwirydd Adolygiadau yn gweithio pan fyddwch chi'n siopa ar:
 
 ## Confirm disabling Review Checker for newly opted out users
 
+shopping-integrated-callout-opted-out-title = Mae'r Gwiriwr Adolygu wedi'i ddiffodd
+shopping-integrated-callout-opted-out-subtitle = I'w droi yn ôl ymlaen, dewiswch y tag pris yn y bar ochr a throwch y Gwirydd Adolygiadau ymlaen.
 
 ## Callout for where to find Review Checker when the sidebar closes
 
+shopping-integrated-callout-sidebar-closed-title = Nôl i'r Gwiriydd Adolygiadau
+shopping-integrated-callout-sidebar-closed-subtitle = Dewiswch y tag pris yn y bar ochr i weld a allwch ymddiried yn adolygiadau'r cynnyrch.
+shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Dewiswch y botwm bar ochr i weld a allwch ymddiried yn adolygiadau cynnyrch.
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-title = Yr un Gwiriydd Adolygiadau, lleoliad newydd
+shopping-integrated-new-position-notification-move-right-subtitle = Cadwch y Gwirydd Adolygiadau a gweddill bar ochr { -brand-product-name } yma — neu symudwch nhw i'r dde. Newidiwch nhw nawr neu unrhyw bryd yng <a data-l10n-name="sidebar_settings">ngosodiadau'r bar ochr</a>.
+shopping-integrated-new-position-notification-move-left-subtitle = Cadwch y Gwirydd Adolygiadau a gweddill bar ochr { -brand-product-name } yma — neu symudwch nhw i'r dde. Newidiwch nhw nawr neu unrhyw bryd yng <a data-l10n-name="sidebar_settings">ngosodiadau'r bar ochr</a>.
+shopping-integrated-new-position-notification-move-right-button = Symud i'r dde
+shopping-integrated-new-position-notification-move-left-button = Symud i'r chwith
+shopping-integrated-new-position-notification-dismiss-button = Iawn
 
 ## Combined setting for auto-open and auto-close.
 
+shopping-settings-auto-open-and-close-toggle =
+    .label = Agor a chau'r Gwirydd Adolygiadau'n awtomatig
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-and-close-description-three-sites = Yn agor pan fyddwch yn gweld cynnyrch ar { $firstSite } , { $secondSite } , a { $thirdSite } ac yn cau pan fyddwch yn gadael
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-and-close-description-single-site = Yn agor pan fyddwch yn gweld cynnyrch ar { $currentSite } ac yn cau pan fyddwch yn gadael

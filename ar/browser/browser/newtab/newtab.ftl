@@ -400,3 +400,4 @@ newtab-section-cancel-button = ليس الآن
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+newtab-custom-wallpaper-cta = جربه

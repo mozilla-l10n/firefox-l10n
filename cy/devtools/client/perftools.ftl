@@ -72,6 +72,11 @@ perftools-button-edit-settings = Golygu Gosodiadau...
 
 ## More actions menu
 
+perftools-menu-more-actions-button =
+    .title = Rhagor o weithredoedd
+perftools-menu-more-actions-restart-with-profiling = Ailgychwyn { -brand-shorter-name } gyda phroffilio cychwyn wedi'i alluogi
+perftools-menu-more-actions-copy-for-startup = Copïo newidynnau amgylchedd ar gyfer proffilio cychwyn
+perftools-menu-more-actions-copy-for-perf-tests = Copïo paramedrau ar gyfer profion perfformiad
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 

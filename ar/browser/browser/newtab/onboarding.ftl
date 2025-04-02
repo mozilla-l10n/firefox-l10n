@@ -229,6 +229,7 @@ mr2022-onboarding-colorway-label-default = الافتراضي
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = ألوان { -brand-short-name } الحالية
 mr2022-onboarding-colorway-description-default = <b>أستخدم ألوان { -brand-short-name } الحالية.</b>
+mr2022-onboarding-colorway-label-expressionist = تعبيري
 mr2022-onboarding-colorway-label-activist = ناشط
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = ناشط (أزرق)
@@ -321,11 +322,21 @@ onboarding-new-user-survey-next-button-label = التالي
 onboarding-new-user-survey-time-based-option-1 = أنا جديد تمامًا
 onboarding-new-user-survey-time-based-option-2 = أقل من شهر
 onboarding-new-user-survey-time-based-option-3 = أكثر من شهر، بانتظام
+onboarding-new-user-survey-time-based-option-4 = أكثر من شهر، في بعض الأحيان
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-familiarity-based-option-1 = أنا جديد تمامًا
+onboarding-new-user-survey-familiarity-based-option-2 = لقد استخدمته بعض الشيء
+onboarding-new-user-survey-familiarity-based-option-3 = أنا على دراية به للغاية
+onboarding-new-user-survey-familiarity-based-option-4 = لقد استخدمته في الماضي، ولكن مر وقت طويل
 
 ## UI strings for the sidebar and vertical tabs
 
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = ألسنتك، بأسلوبك
 # Setup screen for vertical tabs - subtitle for too many tabs variation
 onboarding-many-tabs-subtitle = هل تُبقي الكثير من الألسنة مفتوحة؟ جرّب وضع الألسنة على الجانب لعرض أكثر انسيابية. أو اجعلها كلاسيكية بوضع الألسنة في الأعلى. غيّرها في أي وقت.
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = اختر تخطيط لسانك
 onboarding-flair-text = جديد!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = حافظ على الألسنة الأفقية
@@ -351,3 +362,4 @@ multi-profile-callout-cta = أنشئ ملفًا شخصيًا
 ## Desktop to Mobile Adoption feature callout strings
 
 dismiss-button-label = أهمِل
+sync-to-mobile-button-label = زامن مع الجوّال

@@ -62,6 +62,7 @@ inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = جرّب إضا
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = جرّب إضافة <strong>display:inline-block</strong>. { learn-more }
 inactive-css-not-display-block-on-floated-fix = جرّب إمّا إزالة <strong>float</strong> أو إضافة<strong>display:block</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = جرّب ضبط خاصية <strong>position</strong> إلى شيء آخر عدا <strong>static</strong>. { learn-more }
+inactive-css-text-wrap-balance-lines-exceeded-fix = حاول تقليل عدد الأسطر. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
