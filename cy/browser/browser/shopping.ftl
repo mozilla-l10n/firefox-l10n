@@ -276,7 +276,7 @@ shopping-opt-in-integrated-subtitle-unsupported-site = Mae Gwirydd Adolygiadau {
 shopping-callout-opt-in-integrated-headline = Ydych chi'n gallu ymddiried yn yr adolygiadau hyn?
 # Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
 shopping-callout-not-opted-in-integrated-paragraph1 = Trowch Wirydd Adolygiadau { -brand-product-name } ymlaen i ddarganfod. Mae'n cael ei bweru gan { -fakespot-brand-full-name } ac mae'n defnyddio technoleg AI i ddadansoddi adolygiadau.
-shopping-callout-not-opted-in-integrated-paragraph2 = Drwy ddewis “{ shopping-opt-in-integrated-button }” rydych yn cytuno i <a data-l10n-name="privacy_policy">hysbysiad preifatrwydd</a> a <a data-l10n-name="terms_of_use">telerau defnyddio</a> { -brand-product-name }  a   { -fakespot-brand-full-name } .
+shopping-callout-not-opted-in-integrated-paragraph2 = Drwy ddewis “{ shopping-opt-in-integrated-button }” rydych yn cytuno i <a data-l10n-name="privacy_policy">hysbysiad preifatrwydd</a> a <a data-l10n-name="terms_of_use">amodau defnydd</a> { -brand-product-name }  a   { -fakespot-brand-full-name } .
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Cau
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Agor y Gwirydd Adolygiadau
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = Peidiwch â dangos yr argymhelliad hwn eto

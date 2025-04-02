@@ -13,6 +13,19 @@ contentanalysis-slow-agent-dialog-header = Wrthi'n sganio
 contentanalysis-slow-agent-dialog-body-file = Mae { $agent } yn asesu " { $filename } " yn erbyn polisïau data eich sefydliad. Gall hyn gymryd ychydig o amser.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
+#   $filename - Name of a file being analyzed, such as "aFile.txt"
+#   $count (number) - The number of additional items in the request for analysis
+contentanalysis-slow-agent-dialog-body-file-and-more =
+    { $count ->
+        [zero] Mae { $agent } yn adolygu " { $filename } " a { $count } eitem ychwanegol yn erbyn polisïau data eich sefydliad. Gall hyn gymryd eiliad.
+        [one] Mae { $agent } yn adolygu " { $filename } " a { $count } eitem ychwanegol yn erbyn polisïau data eich sefydliad. Gall hyn gymryd eiliad.
+        [two] Mae { $agent } yn adolygu " { $filename } " a { $count } eitem ychwanegol yn erbyn polisïau data eich sefydliad. Gall hyn gymryd eiliad.
+        [few] Mae { $agent } yn adolygu " { $filename } " a { $count } eitem ychwanegol yn erbyn polisïau data eich sefydliad. Gall hyn gymryd eiliad.
+        [many] Mae { $agent } yn adolygu " { $filename } " a { $count } eitem ychwanegol yn erbyn polisïau data eich sefydliad. Gall hyn gymryd eiliad.
+       *[other] Mae { $agent } yn adolygu " { $filename } " a { $count } eitem ychwanegol yn erbyn polisïau data eich sefydliad. Gall hyn gymryd eiliad.
+    }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = Mae { $agent } yn asesu'r hyn a gludwyd gennych yn erbyn polisïau data eich sefydliad. Gall hyn gymryd ychydig o amser.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
