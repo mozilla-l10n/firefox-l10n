@@ -254,6 +254,8 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 ## Review Checker in Integrated sidebar
 
+# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
+shopping-opt-in-integrated-headline = Blini me vetëbesim
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 

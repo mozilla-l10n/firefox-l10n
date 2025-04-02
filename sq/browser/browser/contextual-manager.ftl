@@ -267,7 +267,21 @@ contextual-manager-passwords-no-passwords-found-message = S’u gjetën fjalëka
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = Ruajini fjalëkalimet tuaja në një vend të siguruar.
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = Krejt fjalëkalimet fshehtëzohen dhe do të hapim sytë për cenime dhe sinjalizime që lidhen me ju.
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = Për t’ia filluar, shtojini këtu.
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = Shtojini dorazi
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = Të mbyllet pa ruajtur?
+    .message = Ndryshimet tuaja s’do të ruhen.
+contextual-manager-passwords-discard-changes-close-button = Mbylle
+contextual-manager-passwords-discard-changes-go-back-button = Kthehu mbrapsht
