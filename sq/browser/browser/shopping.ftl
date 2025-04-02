@@ -262,27 +262,51 @@ shopping-opt-in-integrated-headline = Blini me vetëbesim
 #   $secondSite (String) - The second shopping page name
 #   $thirdSite (String) - The third shopping page name
 shopping-opt-in-integrated-subtitle = Aktivizoni Kontrollor Shqyrtimesh nga { -brand-product-name }-i, që të shihni se sa të besueshme janë shqyrtimet e produkteve, para se të blini. Kjo përdor teknologji IA për të analizuar shqyrtimet dhe funksionon kur blini në { $firstSite }, { $secondSite } dhe { $thirdSite }. <a data-l10n-name="learn_more">Mësoni më tepër</a>
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle-unsupported-site = Kontrollori i Shqyrtimeve nga { -brand-product-name } ju ndihmon të njihni se sa të besueshme janë shqyrtimet për një produkt, para se të blini. Kjo përdor teknologji IA për të analizuar shqyrtime dhe funksionon kur blini në { $firstSite }, { $secondSite } dhe { $thirdSite }. <a data-l10n-name="learn_more">Mësoni më tepër</a>
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-opt-in-integrated-headline = A mund t’u zihet besë këtyre shqyrtimeve?
+# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
+shopping-callout-not-opted-in-integrated-paragraph1 = Që ta gjeni, aktivizoni Kontrollor Shqyrtimesh nga { -brand-product-name }. Bazohet në { -fakespot-brand-full-name } dhe përdor teknologji IA për të analizuar shqyrtime.
+shopping-callout-not-opted-in-integrated-paragraph2 = Duke përzgjedhur “{ shopping-opt-in-integrated-button }” pajtoheni me <a data-l10n-name="privacy_policy">shënim privatësie</a> të { -brand-product-name }-it dhe <a data-l10n-name="terms_of_use">kushte përdorimi</a> nga { -fakespot-brand-full-name }.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Hidhe tej
+shopping-callout-not-opted-in-integrated-reminder-accept-button = Aktivizoni Kontrollorin e Shqyrtimeve
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = Mos e shfaq më këtë rekomandim
 shopping-callout-not-opted-in-integrated-reminder-show-fewer = Shfaq më pak rekomandime
 shopping-callout-not-opted-in-integrated-reminder-manage-settings = Administroni rregullime
+shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Kontrollor Shqyrtimesh bazohet në { -fakespot-brand-full-name }. Duke përzgjedhur “{ shopping-opt-in-integrated-button }“, pajtoheni me <a data-l10n-name="privacy_policy">shënim privatësie</a> të { -brand-product-name } dhe <a data-l10n-name="terms_of_use">terma përdorimi</a> nga { -fakespot-brand-name }.
+shopping-opt-in-integrated-button = Provoni Kontrollor Shqyrtimesh
 
 ## Message strings for Review Checker's empty states.
 
+shopping-empty-state-header = Gati për kontroll shqyrtimesh
+shopping-empty-state-supported-site = Shihni një produkt dhe { -brand-product-name } do të kontrollojë nëse shqyrtimet janë të besueshme.
+# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
+# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
+shopping-empty-state-non-supported-site = Kontrollori i Shqyrtimeve funksionon kur blini në:
 
 ## Confirm disabling Review Checker for newly opted out users
 
+shopping-integrated-callout-opted-out-title = Kontrollori i Shqyrtimeve është i çaktivizuar
+shopping-integrated-callout-opted-out-subtitle = Që ta riaktivizoni, përzgjidhni fashë çmimesh te anështylla dhe aktivizoni Kontrollor Shqyrtimesh.
 
 ## Callout for where to find Review Checker when the sidebar closes
 
+shopping-integrated-callout-sidebar-closed-title = Kthehuni te Kontrollor Shqyrtimesh
+shopping-integrated-callout-sidebar-closed-subtitle = Që të shihni nëse mund t’u zini besë shqyrtimeve të një produkti, përzgjidhni fashë çmimesh te anështylla.
+shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Që të shihni nëse mund t’u zini besë shqyrtimeve të një produkti, përzgjidhni butonin te anështylla.
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-title = Po ai Kontrollor Shqyrtimesh, në vend të ri
 shopping-integrated-new-position-notification-move-right-button = Lëvize djathtas
 shopping-integrated-new-position-notification-move-left-button = Lëvize majtas
 shopping-integrated-new-position-notification-dismiss-button = E mora vesh
