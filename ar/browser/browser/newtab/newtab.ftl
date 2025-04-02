@@ -372,6 +372,7 @@ feature-highlight-wallpaper =
 newtab-weather-see-forecast =
     .title = أظهِر التوقعات في { $provider }
 newtab-weather-menu-change-location = غيّر المكان
+newtab-weather-menu-learn-more = اطّلع على المزيد
 
 ## Topic Labels
 

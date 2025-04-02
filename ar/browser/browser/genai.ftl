@@ -35,13 +35,16 @@ genai-header-close-button =
 
 genai-onboarding-primary = واصِل
 genai-onboarding-secondary = أغلق
-genai-onboarding-claude-learn = تعرف على المزيد عن كلود
+genai-onboarding-claude-learn = اعرف المزيد عن Claude
 genai-onboarding-chatgpt-tooltip =
     .title = chatGPT
-genai-onboarding-chatgpt-learn = اعرف المزيد عن chatGPT
+genai-onboarding-chatgpt-learn = اعرف المزيد عن ChatGPT
+genai-onboarding-copilot-learn = اعرف المزيد عن Copilot
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
 genai-onboarding-gemini-learn = اعرف المزيد عن Gemini
+genai-onboarding-huggingchat-learn = اعرف المزيد عن HuggingChat
+genai-onboarding-lechat-learn = اعرف المزيد عن Le Chat
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
