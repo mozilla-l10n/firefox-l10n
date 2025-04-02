@@ -274,6 +274,8 @@ shopping-opt-in-integrated-subtitle-unsupported-site = A { -brand-product-name }
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
 shopping-callout-opt-in-integrated-headline = Megbízhat ezekben az értékelésekben?
+# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
+shopping-callout-not-opted-in-integrated-paragraph1 = Kapcsolja be a { -brand-product-name } értékelések-ellenőrzőjét, hogy megtudja. A { -fakespot-brand-full-name }ra épül, és MI technológiát használ az értékelések elemzéséhez.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Eltüntetés
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Értékelés-ellenőrző bekapcsolása
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = Ne jelenítse meg újra ezt a javaslatot

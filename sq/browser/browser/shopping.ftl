@@ -307,9 +307,23 @@ shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Që të shihni në
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
 shopping-integrated-new-position-notification-title = Po ai Kontrollor Shqyrtimesh, në vend të ri
+shopping-integrated-new-position-notification-move-right-subtitle = Mbajeni Kontrollorin e Shqyrtimeve dhe pjesën tjetër të anështyllës { -brand-product-name } këtu — ose shpjerini djathtas. Bëjeni tani, ose kur të doni, që nga <a data-l10n-name="sidebar_settings">rregullime anështylle</a>.
+shopping-integrated-new-position-notification-move-left-subtitle = Mbajeni Kontrollorin e Shqyrtimeve dhe pjesën tjetër të anështyllës { -brand-product-name } këtu — ose shpjerini majtas. Bëjeni tani, ose kur të doni, që nga <a data-l10n-name="sidebar_settings">rregullime anështylle</a>.
 shopping-integrated-new-position-notification-move-right-button = Lëvize djathtas
 shopping-integrated-new-position-notification-move-left-button = Lëvize majtas
 shopping-integrated-new-position-notification-dismiss-button = E mora vesh
 
 ## Combined setting for auto-open and auto-close.
 
+shopping-settings-auto-open-and-close-toggle =
+    .label = Hap ose mbyll automatikisht Kontrollor Shqyrtimesh
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-and-close-description-three-sites = Hapet kur shihni produkte në { $firstSite }, { $secondSite } dhe { $thirdSite } dhe mbyllet kur ikni prej andej
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-and-close-description-single-site = Hapet kur shihni produkte në { $currentSite } dhe mbyllet kur ikni prej andej
