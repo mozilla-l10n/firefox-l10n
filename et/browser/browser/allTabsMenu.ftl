@@ -18,3 +18,4 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = Sulge kõik dubleerivad kaardid
 all-tabs-menu-synced-tabs =
     .label = Kaardid teistest seadmetest
+all-tabs-menu-current-window-header = Aktiivne aken
