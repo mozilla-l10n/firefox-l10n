@@ -71,6 +71,7 @@ perftools-menu-more-actions-button =
     .title = Амалҳои бештар
 perftools-menu-more-actions-restart-with-profiling = Аз нав оғоз кардани «{ -brand-shorter-name }» дар якҷоягӣ бо профилсозии оғози кори фаъолшуда
 perftools-menu-more-actions-copy-for-startup = Нусха бардоштани тағйирёбандаҳои муҳит барои профилсозии оғози кор
+perftools-menu-more-actions-copy-for-perf-tests = Нусха бардоштани танзимот барои санҷишҳои самаранокии низом
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 

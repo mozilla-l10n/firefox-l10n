@@ -13,6 +13,15 @@ contentanalysis-slow-agent-dialog-header = Дар ҳоли тасвирбард�
 contentanalysis-slow-agent-dialog-body-file = «{ $agent }» мувофиқи сиёсати маълумоти ташкилоти шумо «{ $filename }»-ро бозбинӣ мекунад. Ин метавонад каме вақт гирад.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
+#   $filename - Name of a file being analyzed, such as "aFile.txt"
+#   $count (number) - The number of additional items in the request for analysis
+contentanalysis-slow-agent-dialog-body-file-and-more =
+    { $count ->
+        [one] «{ $agent }» мувофиқи сиёсатҳои маълумоти ташкилоти шумо файли «{ $filename }» ва { $count } унсури иловагиро баррасӣ карда истодааст. Ин метавонад каме вақт гирад.
+       *[other] «{ $agent }» мувофиқи сиёсатҳои маълумоти ташкилоти шумо файли «{ $filename }» ва { $count } унсури иловагиро баррасӣ карда истодааст. Ин метавонад каме вақт гирад.
+    }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = «{ $agent }» мувофиқи сиёсати маълумоти ташкилоти шумо маводи воридкардаи шуморо бозбинӣ мекунад. Ин метавонад каме вақт гирад.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
