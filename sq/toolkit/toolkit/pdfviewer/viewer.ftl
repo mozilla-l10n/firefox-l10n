@@ -576,6 +576,9 @@ pdfjs-editor-edit-signature-update-button = Përditësoje
 pdfjs-editor-delete-signature-button =
     .title = Hiqe nënshkrimin
 pdfjs-editor-delete-signature-button-label = Hiqe nënshkrimin
+pdfjs-editor-delete-signature-button1 =
+    .title = Hiqe nënshkrimin e ruajtur
+pdfjs-editor-delete-signature-button-label1 = Hiqe nënshkrimin e ruajtur
 
 ## Editor toolbar
 

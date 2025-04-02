@@ -22,3 +22,6 @@ experimental-features-group-webpage-display =
     .label = Shfaqje faqeje Web
 experimental-features-group-customize-browsing =
     .label = Përshtatni shfletimin tuaj
+# Contextual Password Manager in sidebar
+experimental-features-contextual-password-manager =
+    .label = Fjalëkalime në anështyllë

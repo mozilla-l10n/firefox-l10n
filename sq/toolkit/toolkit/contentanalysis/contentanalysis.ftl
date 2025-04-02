@@ -13,6 +13,15 @@ contentanalysis-slow-agent-dialog-header = Kontroll në kryerje e sipër
 contentanalysis-slow-agent-dialog-body-file = { $agent } po shqyrton “{ $filename }” kundrejt rregullave të entit tuaj për të dhënat. Kjo mund të dojë një çast.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
+#   $filename - Name of a file being analyzed, such as "aFile.txt"
+#   $count (number) - The number of additional items in the request for analysis
+contentanalysis-slow-agent-dialog-body-file-and-more =
+    { $count ->
+        [one] { $agent } po shqyrton “{ $filename }” dhe { $count } objekt tjetër kundrejt rregullave të entit tuaj mbi të dhënat. Kjo mund të dojë një çast.
+       *[other] { $agent } po shqyrton “{ $filename }” dhe { $count } objekte të tjerë kundrejt rregullave të entit tuaj mbi të dhënat. Kjo mund të dojë një çast.
+    }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } po shqyrton ç’ngjitët kundrejt rregullave të entit tuaj për të dhënat. Kjo mund të dojë një çast.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
@@ -58,6 +67,10 @@ contentanalysis-error-message-upload-file = Ngarkimi i “{ $filename }” s’u
 contentanalysis-error-message-dropped-text = “Merrni dhe vëreni” s’u lejua.
 contentanalysis-error-message-clipboard = Ngjitja s’u lejua.
 contentanalysis-error-message-print = Shtypja s’u lejua.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
+contentanalysis-timeout-block-error-message-content = Lidhjes me { $agent } i mbaroi koha. { $contentName } është bllokuar.
 contentanalysis-block-dialog-title-upload-file = S’keni leje të ngarkoni këtë kartelë
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"

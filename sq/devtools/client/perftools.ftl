@@ -64,6 +64,9 @@ perftools-button-edit-settings = Përpunoni Rregullime…
 
 ## More actions menu
 
+perftools-menu-more-actions-button =
+    .title = Më tepër veprime
+perftools-menu-more-actions-copy-for-perf-tests = Kopjo parametra për prova funksionimi
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 

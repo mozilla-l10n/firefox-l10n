@@ -277,6 +277,9 @@ shopping-callout-not-opted-in-integrated-reminder-manage-settings = Administroni
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-move-right-button = Lëvize djathtas
+shopping-integrated-new-position-notification-move-left-button = Lëvize majtas
+shopping-integrated-new-position-notification-dismiss-button = E mora vesh
 
 ## Combined setting for auto-open and auto-close.
 
