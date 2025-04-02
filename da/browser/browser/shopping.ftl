@@ -259,6 +259,10 @@ shopping-opt-in-integrated-headline = Vær tryg når du handler
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-not-opted-in-integrated-paragraph2 = Ved at vælge “{ shopping-opt-in-integrated-button }” accepterer du { -brand-product-name }' <a data-l10n-name="privacy_policy">privatlivserklæring</a> samt { -fakespot-brand-full-name }s <a data-l10n-name="terms_of_use">betingelser for brug.</a>
+shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Afvis
+shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Verificering af anmeldelser er leveret af { -fakespot-brand-full-name }. Ved at vælge “{ shopping-opt-in-integrated-button }” accepterer du { -brand-product-name }' <a data-l10n-name="privacy_policy">privatlivserklæring</a> samt { -fakespot-brand-name }s <a data-l10n-name="terms_of_use">betingelser for brug.</a>
+shopping-opt-in-integrated-button = Prøv Verificering af anmeldelser
 
 ## Message strings for Review Checker's empty states.
 
