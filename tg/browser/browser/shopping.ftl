@@ -256,9 +256,22 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 # Opt-in message strings for Review Checker when it is integrated into the global sidebar.
 shopping-opt-in-integrated-headline = Бо эътимод харид кунед
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle = Абзори тафтиши тақризҳоро аз ҷониби «{ -brand-product-name }» фаъол созед ва пеш аз хариди маҳсул, аз назар гузаронед, ки то чӣ андоза тақризҳо дар бораи ин маҳсул боэътимод мебошанд. Ин абзор барои таҳлил кардани тақризҳо аз технологияи зеҳни сунъӣ (AI) истифода мебарад ва вақте ки шумо дар сомонаҳои { $firstSite }, { $secondSite }, ва { $thirdSite } харидорӣ мекунед, он фаъол карда мешавад. <a data-l10n-name="learn_more">Маълумоти бештар</a>
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle-unsupported-site = Абзори тафтиши тақризҳо аз ҷониби «{ -brand-product-name }» ба шумо ёрӣ медиҳад, то тавонед пеш аз хариди маҳсул, аз назар гузаронед, ки то чӣ андоза тақризҳо дар бораи ин маҳсул боэътимод мебошанд. Ин абзор барои таҳлил кардани тақризҳо аз технологияи зеҳни сунъӣ (AI) истифода мебарад ва вақте ки шумо дар сомонаҳои { $firstSite }, { $secondSite }, ва { $thirdSite } харидорӣ мекунед, он фаъол карда мешавад. <a data-l10n-name="learn_more">Маълумоти бештар</a>
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-opt-in-integrated-headline = Оё шумо ба ин тақризҳо бовар карда метавонед?
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Нодида гузарондан
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Фаъол кардани абзори тафтиши тақризҳо
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = Ин тавсия дигар нишон дода нашавад
