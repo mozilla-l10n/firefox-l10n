@@ -80,6 +80,9 @@ toolbar-button-fxaccount =
 
 ## Account toolbar Button
 
+toolbar-button-account =
+    .label = Konto
+    .tooltiptext = Konto
 
 ## Save Page
 
@@ -89,6 +92,38 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Lisa leht järjehoidjatesse...
+    .accesskey = m
+    .tooltiptext = Lisa leht järjehoidjatesse
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-page-mac =
+    .label = Lisa leht järjehoidjatesse...
+    .accesskey = m
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-page-mac,
+# so should probably have the same access key if possible.
+main-context-menu-edit-bookmark-mac =
+    .label = Muuda järjehoidjat…
+    .accesskey = M
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut =
+    .aria-label = Lisa leht järjehoidjatesse...
+    .accesskey = m
+    .tooltiptext = Lisa leht järjehoidjatesse ({ $shortcut })
+main-context-menu-edit-bookmark =
+    .aria-label = Muuda järjehoidjat…
+    .accesskey = M
+    .tooltiptext = Muuda järjehoidjat
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut =
+    .aria-label = Muuda järjehoidjat…
+    .accesskey = M
+    .tooltiptext = Muuda järjehoidjat ({ $shortcut })
 main-context-menu-open-link =
     .label = Ava link
     .accesskey = v
@@ -104,6 +139,9 @@ main-context-menu-open-link-new-window =
 main-context-menu-open-link-new-private-window =
     .label = Ava link uues privaatses aknas
     .accesskey = k
+main-context-menu-bookmark-link-2 =
+    .label = Lisa link järjehoidjatesse...
+    .accesskey = i
 main-context-menu-save-link =
     .label = Salvesta link kui…
     .accesskey = k
@@ -124,6 +162,17 @@ main-context-menu-copy-phone =
 main-context-menu-copy-link-simple =
     .label = Kopeeri link
     .accesskey = K
+# "Copy Clean Link" means that Firefox will remove things from the link you
+# copied, like items that identify you for advertising purposes, and other items
+# sites add into URLs to help them deliver a certain browsing experience.
+main-context-menu-copy-clean-link =
+    .label = Kopeeri lisadeta link
+    .accesskey = K
+# This command copies the link, removing additional
+# query parameters used to track users across sites.
+main-context-menu-strip-on-share-link =
+    .label = Kopeeri link saidi jälgimiseta
+    .accesskey = j
 
 ## Media (video/audio) controls
 ##
@@ -216,6 +265,9 @@ main-context-menu-image-email =
 main-context-menu-image-set-image-as-background =
     .label = Määra pilt töölaua taustaks…
     .accesskey = M
+main-context-menu-image-copy-text =
+    .label = Kopeeri pildi tekst
+    .accesskey = t
 main-context-menu-image-info =
     .label = Vaata pildi teavet
     .accesskey = V
