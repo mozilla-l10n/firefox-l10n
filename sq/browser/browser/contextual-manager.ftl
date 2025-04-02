@@ -223,6 +223,46 @@ contextual-manager-alert-icon =
 contextual-manager-origin-login-line =
     .aria-label = Vizitoni { $url }
     .title = Vizitoni { $url }
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = Vizitoni { $url } (Kujdes)
+    .title = Vizitoni { $url } (Kujdes)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = Kopjo Emër Përdoruesi { $username }
+    .title = Kopjo Emër Përdoruesi { $username }
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = Kopjo Emër Përdoruesi { $username } (Kujdes)
+    .title = Kopjo Emër Përdoruesi { $username } (Kujdes)
+contextual-manager-password-login-line =
+    .aria-label = Kopjo Fjalëkalimin
+    .title = Kopjo Fjalëkalimin
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = Kopjo Fjalëkalimin (Kujdes)
+    .title = Kopjo Fjalëkalimin (Kujdes)
+contextual-manager-edit-login-button = Përpunojeni
+    .tooltiptext = Përpunoni Fjalëkalimin
+contextual-manager-view-alert-heading =
+    .heading = Shihni sinjalizim
+contextual-manager-view-alert-button =
+    .tooltiptext = Shqyrtoni sinjalizimin
+contextual-manager-show-password-button =
+    .aria-label = Shfaq Fjalëkalimin
+    .title = Shfaq Fjalëkalimin
+contextual-manager-hide-password-button =
+    .aria-label = Fshihe Fjalëkalimin
+    .title = Fshihe Fjalëkalimin
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = S’u gjetën fjalëkalime
+contextual-manager-passwords-no-passwords-found-message = S’u gjetën fjalëkalime. Kërkoni për një term tjetër dhe riprovoni.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
