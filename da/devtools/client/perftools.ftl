@@ -71,6 +71,10 @@ perftools-button-edit-settings = Rediger indstillinger…
 
 ## More actions menu
 
+perftools-menu-more-actions-button =
+    .title = Flere handlinger
+perftools-menu-more-actions-restart-with-profiling = Genstart { -brand-shorter-name } med profilering af opstart aktiveret
+perftools-menu-more-actions-copy-for-perf-tests = Kopier parametre for ydelsestests
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 

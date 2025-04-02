@@ -305,8 +305,24 @@ shopping-integrated-callout-sidebar-closed-subtitle = Vælg prismærket i sidepa
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-title = Samme Verificering af anmeldelser, nyt sted
+shopping-integrated-new-position-notification-move-right-subtitle = Behold Verificering af anmeldelser og resten af sidepanelet i { -brand-product-name } på sin nuværende plads - eller flyt panelet til højre. Du kan altid ændre det i <a data-l10n-name="sidebar_settings">indstillingerne for sidepanel</a>.
+shopping-integrated-new-position-notification-move-left-subtitle = Behold Verificering af anmeldelser og resten af sidepanelet i { -brand-product-name } på sin nuværende plads - eller flyt panelet til venstre. Du kan altid ændre det i <a data-l10n-name="sidebar_settings">indstillingerne for sidepanel</a>.
 shopping-integrated-new-position-notification-move-right-button = Flyt til højre
 shopping-integrated-new-position-notification-move-left-button = Flyt til venstre
+shopping-integrated-new-position-notification-dismiss-button = Forstået
 
 ## Combined setting for auto-open and auto-close.
 
+shopping-settings-auto-open-and-close-toggle =
+    .label = Åbn og luk Verificering af anmeldelser automatisk
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-and-close-description-three-sites = Åbner, når du kigger på produkter fra { $firstSite }, { $secondSite } og { $thirdSite } - og lukker igen, når du forlader webstedet
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-and-close-description-single-site = Åbner, når du kigger på produkter på { $currentSite } - og lukker igen, når du forlader webstedet
