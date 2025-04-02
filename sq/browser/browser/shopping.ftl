@@ -259,6 +259,10 @@ shopping-opt-in-integrated-headline = Blini me vetëbesim
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Hidhe tej
+shopping-callout-not-opted-in-integrated-reminder-do-not-show = Mos e shfaq më këtë rekomandim
+shopping-callout-not-opted-in-integrated-reminder-show-fewer = Shfaq më pak rekomandime
+shopping-callout-not-opted-in-integrated-reminder-manage-settings = Administroni rregullime
 
 ## Message strings for Review Checker's empty states.
 
