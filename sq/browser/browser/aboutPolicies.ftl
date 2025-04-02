@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-policies-title = Rregulla Në Nivel Ndërmarrjeje
+aboutpolicies-page-heading =
+    .heading = Rreth Rregullave
 # 'Active' is used to describe the policies that are currently active
 active-policies-tab = Aktive
 errors-tab = Gabime
