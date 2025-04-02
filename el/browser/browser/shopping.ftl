@@ -284,6 +284,7 @@ shopping-opt-in-integrated-button = Δοκιμή ελέγχου κριτικών
 
 ## Message strings for Review Checker's empty states.
 
+shopping-empty-state-supported-site = Δείτε ένα προϊόν και το { -brand-product-name } θα ελέγξει αν οι κριτικές είναι αξιόπιστες.
 # We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
 # This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
 shopping-empty-state-non-supported-site = Ο έλεγχος κριτικών λειτουργεί όταν κάνετε αγορές στα:
@@ -291,10 +292,12 @@ shopping-empty-state-non-supported-site = Ο έλεγχος κριτικών λ�
 ## Confirm disabling Review Checker for newly opted out users
 
 shopping-integrated-callout-opted-out-title = Ο έλεγχος κριτικών είναι ανενεργός
+shopping-integrated-callout-opted-out-subtitle = Για να τον ενεργοποιήσετε ξανά, επιλέξτε το εικονίδιο-ετικέτα στην πλαϊνή γραμμή και ενεργοποιήστε τον έλεγχο κριτικών.
 
 ## Callout for where to find Review Checker when the sidebar closes
 
 shopping-integrated-callout-sidebar-closed-title = Επιστροφή στον έλεγχο κριτικών
+shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Επιλέξτε το κουμπί της πλαϊνής γραμμής για να δείτε αν μπορείτε να εμπιστευτείτε τις κριτικές ενός προϊόντος.
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
@@ -309,3 +312,13 @@ shopping-integrated-new-position-notification-dismiss-button = Το κατάλα
 
 shopping-settings-auto-open-and-close-toggle =
     .label = Αυτόματο άνοιγμα και κλείσιμο ελέγχου κριτικών
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-and-close-description-three-sites = Ανοίγει όταν βλέπετε προϊόντα στα { $firstSite }, { $secondSite } και { $thirdSite } και κλείνει όταν αποχωρείτε
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-and-close-description-single-site = Ανοίγει όταν βλέπετε προϊόντα στο { $currentSite } και κλείνει όταν αποχωρείτε
