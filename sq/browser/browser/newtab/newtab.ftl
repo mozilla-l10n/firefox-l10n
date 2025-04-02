@@ -127,6 +127,7 @@ newtab-menu-section-unfollow = Hiqe Ndjekjen e Subjektit
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
 newtab-menu-manage-sponsored-content = Administroni lëndë të sponsorizuar
+newtab-menu-our-sponsors-and-your-privacy = Sponsorët tanë dhe privatësia jonë
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -383,6 +384,7 @@ newtab-wallpaper-starry-canyon = Natë blu me yje
 newtab-wallpaper-suspension-bridge = Fotografi e një ure të varur gri gjatë ditës
 newtab-wallpaper-sand-dunes = Duna ranore të bardha
 newtab-wallpaper-palm-trees = Siluetë pemësh arrash kokosi gjatë orës së artë
+newtab-wallpaper-blue-flowers = Foto nga afër lulesh me petale të kaltra në lulëzim
 newtab-wallpaper-forest-trees = Pemë të mbuluara nga mjegull
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
@@ -517,3 +519,7 @@ newtab-section-mangage-topics-followed-topics = Të ndjekur
 newtab-section-mangage-topics-followed-topics-empty-state = S’keni ende ndonjë temë të ndjekur.
 newtab-section-mangage-topics-blocked-topics = Të bllokuar
 newtab-section-mangage-topics-blocked-topics-empty-state = S’’keni ende ndonjë temë të bllokuar.
+newtab-custom-wallpaper-title = Mbërritën sfonde vetjake
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle = Ngarkoni sfondin tuaj vetjak, ose zgjidhni një ngjyrë vetjake, për ta bërë { -brand-product-name }-in si e doni.
+newtab-custom-wallpaper-cta = Provojeni

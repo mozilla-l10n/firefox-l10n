@@ -178,18 +178,51 @@ contextual-manager-passwords-alert-back-button =
     .label = Mbrapsht
 contextual-manager-passwords-alert-list =
     .aria-label = Listë sinjalizimesh
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = Rekomandohet ndryshim fjalëkalimi
+    .message = Fjalëkalimet prej këtij sajti janë raportuar si të vjedhur, ose se kanë rrjedhur. Që të mbroni llogarinë tuaj, ndryshoni fjalëkalimin tuaj.
+contextual-manager-passwords-breached-origin-link-message = Nga e di { -brand-product-name }-i rreth cenimeve?
+contextual-manager-passwords-change-password-button = Ndryshoni fjalëkalimin
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = Rekomandohet ndryshim fjalëkalimi
+    .message = Ky fjalëkalim është lehtësisht i hamendësueshëm. Që të mbroni llogarinë tuaj, ndryshoni fjalëkalimin tuaj.
+contextual-manager-passwords-vulnerable-password-link-message = Nga e di { -brand-product-name }-i rreth fjalëkalimeve të dobët?
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Shtoni emër përdoruesi
+    .message = Shtoni një, që të hyni më shpejt.
+contextual-manager-passwords-add-username-button = Shtoni emër përdoruesi
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Shtoni fjalëkalim
+contextual-manager-passwords-edit-label =
+    .label = Përpunoni fjalëkalimin
+contextual-manager-passwords-remove-label =
+    .title = Hiqe fjalëkalimin
+contextual-manager-passwords-origin-tooltip = Jepni adresën e saktë ku do të bëni hyrjen në këtë sajt.
+contextual-manager-passwords-username-tooltip = Jepni emrin e përdoruesit, adresën email, ose numrin e llogarisë që përdorni për të bërë hyrjen.
+contextual-manager-passwords-password-tooltip = Jepni fjalëkalimin e përdorur për të bërë hyrjen në këtë llogari.
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = Fjalëkalime
+contextual-manager-website-icon =
+    .alt = Ikonë Sajti
 contextual-manager-copy-icon =
     .alt = Kopjoje
+contextual-manager-check-icon-username =
+    .alt = U kopjua
+contextual-manager-check-icon-password =
+    .alt = U kopjua
+contextual-manager-alert-icon =
+    .alt = Kujdes
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = Vizitoni { $url }
+    .title = Vizitoni { $url }
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
