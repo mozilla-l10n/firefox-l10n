@@ -6,13 +6,21 @@ contextual-manager-filter-input =
     .placeholder = ຄົ້ນຫາລະຫັດຜ່ານ
     .key = F
     .aria-label = ຄົ້ນຫາລະຫັດຜ່ານ
+contextual-manager-menu-more-options-button =
+    .title = ຕົວເລືອກເພີ່ມເຕີມ
+contextual-manager-more-options-popup =
+    .aria-label = ຕົວເລືອກເພີ່ມເຕີມ
 
 ## Passwords
 
 contextual-manager-passwords-command-create = ເພີ່ມລະຫັດຜ່ານ
 contextual-manager-passwords-command-import-from-browser = ນຳເຂົ້າຂໍ້ມູນຈາກບຣາວເຊີອື່ນ…
 contextual-manager-passwords-command-import = ນຳເຂົ້າຈາກໄຟລ໌...
+contextual-manager-passwords-command-export = ສົ່ງອອກລະຫັດຜ່ານ
+contextual-manager-passwords-command-remove-all = ເອົາລະຫັດຜ່ານທັງໝົດອອກ
+contextual-manager-passwords-command-settings = ການຕັ້ງຄ່າ
 contextual-manager-passwords-command-help = ຊ່ວຍເຫຼືອ
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = ເພື່ອສົ່ງອອກລະຫັດຜ່ານຂອງທ່ານ, ກະລຸນາໃສ່ຂໍ້ມູນການເຂົ້າສູ່ລະບົບ Windows ຂອງທ່ານ. ນີ້ຊ່ວຍປົກປ້ອງຄວາມປອດໄພຂອງບັນຊີຂອງທ່ານ.
 # This message can be seen when attempting to export a password in about:logins
@@ -35,6 +43,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = ເພ�
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = ສຳເນົາລະຫັດຜ່ານທີ່ບັນທຶກໄວ້
+contextual-manager-passwords-import-file-picker-title = ນຳເຂົ້າລະຫັດຜ່ານ
 contextual-manager-passwords-import-file-picker-import-button = ນຳເຂົ້າ
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -50,6 +59,13 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] ໄຟລ໌ CSV
        *[other] ໄຟລ໌ CSV
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = ນຳເຂົ້າລະຫັດຜ່ານແລ້ວ
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = ໃໝ່: { $added }, ອັບເດດ: { $modified }
+contextual-manager-passwords-import-detailed-report = ເບິ່ງບົດລາຍງານລາຍລະອຽດ
 contextual-manager-passwords-import-success-button = ສຳເລັດ
 contextual-manager-passwords-import-error-button-cancel = ຍົກເລີກ
 contextual-manager-passwords-export-success-button = ສຳເລັດ
