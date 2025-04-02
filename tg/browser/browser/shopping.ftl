@@ -317,3 +317,13 @@ shopping-integrated-new-position-notification-dismiss-button = Фаҳмидам
 
 shopping-settings-auto-open-and-close-toggle =
     .label = Ба таври худкор кушодан ва пӯшидани «Абзори тафтиши тақризҳо»
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-and-close-description-three-sites = Ҳангоми дидани маҳсулот дар сомонаҳои { $firstSite }, { $secondSite } ва { $thirdSite } кушода мешавад ва ҳангоми рафтан аз сомонаҳои пешбинишуда пӯшида мешавад
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-and-close-description-single-site = Ҳангоми дидани маҳсулот дар сомонаи { $currentSite } кушода мешавад ва ҳангоми рафтан аз ин сомонаи пешбинишуда пӯшида мешавад

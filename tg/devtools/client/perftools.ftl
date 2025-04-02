@@ -69,6 +69,8 @@ perftools-button-edit-settings = Таҳрир кардани танзимот…
 
 perftools-menu-more-actions-button =
     .title = Амалҳои бештар
+perftools-menu-more-actions-restart-with-profiling = Аз нав оғоз кардани «{ -brand-shorter-name }» дар якҷоягӣ бо профилсозии оғози кори фаъолшуда
+perftools-menu-more-actions-copy-for-startup = Нусха бардоштани тағйирёбандаҳои муҳит барои профилсозии оғози кор
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
