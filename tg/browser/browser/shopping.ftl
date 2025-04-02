@@ -272,16 +272,21 @@ shopping-opt-in-integrated-subtitle-unsupported-site = Абзори тафтиш
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
 shopping-callout-opt-in-integrated-headline = Оё шумо ба ин тақризҳо бовар карда метавонед?
+# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
+shopping-callout-not-opted-in-integrated-paragraph1 = Абзори тафтиши тақризҳоро аз ҷониби «{ -brand-product-name }» фаъол созед ва онро озмоед. Ин абзор аз ҷониби «{ -fakespot-brand-full-name }» дастгирӣ карда мешавад ва барои таҳлил кардани тақризҳо аз технологияи зеҳни сунъӣ (AI) истифода мебарад.
+shopping-callout-not-opted-in-integrated-paragraph2 = Бо интихоб кардани «{ shopping-opt-in-integrated-button }» шумо бо <a data-l10n-name="privacy_policy">сиёсати махфияти</a> «{ -brand-product-name }» ва <a data-l10n-name="terms_of_use">шартҳои истифодаи</a> «{ -fakespot-brand-full-name }» розӣ мешавед.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Нодида гузарондан
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Фаъол кардани абзори тафтиши тақризҳо
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = Ин тавсия дигар нишон дода нашавад
 shopping-callout-not-opted-in-integrated-reminder-show-fewer = Камтар нишон додани тавсияҳо
 shopping-callout-not-opted-in-integrated-reminder-manage-settings = Идоракунии танзимот
+shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Абзори тафтиши тақризҳо аз ҷониби «{ -fakespot-brand-full-name }» дастгирӣ карда мешавад. Бо интихоб кардани «{ shopping-opt-in-integrated-button }» шумо бо <a data-l10n-name="privacy_policy">сиёсати махфияти</a> «{ -brand-product-name }» ва <a data-l10n-name="terms_of_use">шартҳои истифодаи</a> «{ -fakespot-brand-name }» розӣ мешавед.
 shopping-opt-in-integrated-button = Озмудани абзори тафтиши тақризҳо
 
 ## Message strings for Review Checker's empty states.
 
 shopping-empty-state-header = Барои тафтиши тақризҳо омода аст
+shopping-empty-state-supported-site = Маҳсулеро аз назар гузаронед ва «{ -brand-product-name }» тафтиш мекунад, ки агар тақризҳо боэътимод бошанд.
 # We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
 # This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
 shopping-empty-state-non-supported-site = «Абзори тафтиши тақризҳо» ҳангоми харидории шумо дар сомонаҳоми зерин кор мекунад:
@@ -289,6 +294,7 @@ shopping-empty-state-non-supported-site = «Абзори тафтиши тақр
 ## Confirm disabling Review Checker for newly opted out users
 
 shopping-integrated-callout-opted-out-title = Абзори тафтиши тақризҳо хомӯш аст
+shopping-integrated-callout-opted-out-subtitle = Барои аз нав фаъол кардани он, барчаспи нархро аз рӯйи навори ҷонибӣ интихоб намоед ва «Абзори тафтиши тақризҳо»-ро фаъол созед.
 
 ## Callout for where to find Review Checker when the sidebar closes
 
