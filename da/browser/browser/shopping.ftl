@@ -271,19 +271,35 @@ shopping-opt-in-integrated-subtitle-unsupported-site = Funktionen Verificering a
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-opt-in-integrated-headline = Kan du stole på anmeldelserne?
+# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
+shopping-callout-not-opted-in-integrated-paragraph1 = Aktiver funktionen Verificering af anmeldelser fra { -brand-product-name } for at finde ud af det. Funktionen bruger AI-teknologi fra { -fakespot-brand-full-name } til at analysere anmeldelser.
 shopping-callout-not-opted-in-integrated-paragraph2 = Ved at vælge “{ shopping-opt-in-integrated-button }” accepterer du { -brand-product-name }' <a data-l10n-name="privacy_policy">privatlivserklæring</a> samt { -fakespot-brand-full-name }s <a data-l10n-name="terms_of_use">betingelser for brug.</a>
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Afvis
+shopping-callout-not-opted-in-integrated-reminder-accept-button = Aktiver Verificering af anmeldelser
+shopping-callout-not-opted-in-integrated-reminder-do-not-show = Vis ikke denne anbefaling igen
+shopping-callout-not-opted-in-integrated-reminder-show-fewer = Vis færre anbefalinger
+shopping-callout-not-opted-in-integrated-reminder-manage-settings = Håndter indstillinger
 shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Verificering af anmeldelser er leveret af { -fakespot-brand-full-name }. Ved at vælge “{ shopping-opt-in-integrated-button }” accepterer du { -brand-product-name }' <a data-l10n-name="privacy_policy">privatlivserklæring</a> samt { -fakespot-brand-name }s <a data-l10n-name="terms_of_use">betingelser for brug.</a>
 shopping-opt-in-integrated-button = Prøv Verificering af anmeldelser
 
 ## Message strings for Review Checker's empty states.
 
+shopping-empty-state-header = Klar til at analysere anmeldelser
+shopping-empty-state-supported-site = Vis et produkt for at få { -brand-product-name } til at analysere, om anmeldelserne er pålidelige.
+# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
+# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
+shopping-empty-state-non-supported-site = Verificering af anmeldelser virker, når du handler på:
 
 ## Confirm disabling Review Checker for newly opted out users
 
+shopping-integrated-callout-opted-out-title = Verificering af anmeldelser er slået fra
+shopping-integrated-callout-opted-out-subtitle = For at aktivere funktionen igen skal du klikke på prismærket i sidepanelet og slå Verificering af anmeldelser til.
 
 ## Callout for where to find Review Checker when the sidebar closes
 
+shopping-integrated-callout-sidebar-closed-title = Vend tilbage til Verificering af anmeldelser
+shopping-integrated-callout-sidebar-closed-subtitle = Vælg prismærket i sidepanelet for at se, om du kan stole på anmeldelserne af et produkt.
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
