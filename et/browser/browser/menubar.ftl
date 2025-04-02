@@ -226,6 +226,9 @@ menu-history-undo-menu =
     .label = Hiljuti suletud kaardid
 menu-history-undo-window-menu =
     .label = Hiljuti suletud aknad
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Otsi ajaloost
 
 ## Bookmarks Menu
 
@@ -234,6 +237,10 @@ menu-bookmarks-menu =
     .accesskey = J
 menu-bookmarks-manage =
     .label = Halda järjehoidjaid
+menu-bookmark-tab =
+    .label = Lisa praegune kaart järjehoidjasse…
+menu-edit-bookmark =
+    .label = Muuda seda järjehoidjat…
 menu-bookmarks-all-tabs =
     .label = Lisa kõik kaardid järjehoidjatesse...
 menu-bookmarks-toolbar =

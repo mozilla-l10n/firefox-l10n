@@ -29,3 +29,4 @@ experimental-features-contextual-password-manager-description = Përdorini fjal�
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Zgjidhni një sfond vetjak, ose ngjyrë për Skedë të Re
+experimental-features-custom-wallpaper-description = Ngarkoni sfondin tuaj, ose zgjidhni një ngjyrë vetjake për sfondin e Skedave tuaj të Reja.

@@ -41,6 +41,36 @@ fxviewtabrow-add-bookmark = Lisa järjehoidjatesse…
     .accesskey = j
 fxviewtabrow-save-to-pocket = Salvesta { -pocket-brand-name }isse
     .accesskey = o
+fxviewtabrow-copy-link = Kopeeri link
+    .accesskey = l
+fxviewtabrow-close-tab = Sule kaart
+    .accesskey = S
+fxviewtabrow-move-tab = Liiguta kaarti
+    .accesskey = L
+fxviewtabrow-move-tab-start = Liiguta algusesse
+    .accesskey = a
+fxviewtabrow-move-tab-end = Liiguta lõppu
+    .accesskey = l
+fxviewtabrow-move-tab-window = Liiguta uude aknasse
+    .accesskey = u
+fxviewtabrow-send-tab = Saada kaart seadmesse
+    .accesskey = s
+fxviewtabrow-pin-tab = Tee püsikaardiks
+    .accesskey = p
+fxviewtabrow-unpin-tab = Tee tavakaardiks
+    .accesskey = t
+fxviewtabrow-mute-tab = Vaigista kaardi heli
+    .accesskey = V
+fxviewtabrow-unmute-tab = Lõpeta kaardi vaigistus
+    .accesskey = L
+# Variables:
+#   $tabTitle (string) - Title of the tab to which the context menu is associated
+fxviewtabrow-options-menu-button =
+    .title = { $tabTitle } valikud
 
 ## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
 
+fxviewtabrow-mute-tab-button-no-context =
+    .title = Vaigista kaardi heli
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = Lõpeta kaardi heli vaigistamine
