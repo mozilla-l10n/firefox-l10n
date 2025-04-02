@@ -61,6 +61,10 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = Mots de passe importés
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = Nouveaux : { $added }, mis à jour : { $modified }
 contextual-manager-passwords-import-detailed-report = Voir un rapport détaillé
 contextual-manager-passwords-import-success-button = Terminé
 contextual-manager-passwords-import-error-button-try-again = Réessayer
@@ -102,14 +106,57 @@ contextual-manager-passwords-remove-all-confirm-button =
         [1] Supprimer
        *[other] Tout supprimer
     }
+contextual-manager-passwords-origin-label = Site web
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Nom d'utilisateur
+    .data-after = Copié
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Mot de passe
+    .data-after = Copié
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Filtrer les mots de passe
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = Mot de passe ajouté pour { $url }
+contextual-manager-passwords-add-password-success-button = Voir
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = Un mot de passe et un nom d’utilisateur existent déjà pour { $url }
+contextual-manager-passwords-password-already-exists-error-button = Aller au mot de passe
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Mot de passe enregistré
 contextual-manager-passwords-update-password-success-button = Terminé
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] Mot de passe supprimé
+            [one] Mot de passe supprimé
+           *[other] Mots de passe supprimés
+        }
 contextual-manager-passwords-delete-password-success-button = Terminé
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = Alertes ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Supprimer le mot de passe ?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = Cette action est irréversible.
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Retour
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Supprimer
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Annuler
+contextual-manager-passwords-alert-card =
+    .aria-label = Alertes de mot de passe
+contextual-manager-passwords-alert-back-button =
+    .label = Retour
+contextual-manager-passwords-alert-list =
+    .aria-label = Liste des alertes
 
 ## Login Form
 

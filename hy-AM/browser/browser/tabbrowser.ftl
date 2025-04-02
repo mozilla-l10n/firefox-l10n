@@ -74,6 +74,13 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = Միացնել ձայնը
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = Անջատել ձայնը
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = Նվագարկել ներդիրը
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -115,6 +122,7 @@ tabbrowser-confirm-close-tabs-with-key-checkbox = Հաստատեք նախքան 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
 
+tabbrowser-confirm-close-tab-only-button = Փակել ընթացիկ ներդիրը
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -136,6 +144,8 @@ tabbrowser-confirm-caretbrowsing-checkbox = Այլևս չույց չտալ այ�
 
 ## Confirmation dialog for closing all duplicate tabs
 
+tabbrowser-confirm-close-all-duplicate-tabs-title = Փակե՞լ կրկնօրինակված ներդիրները:
+tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = Փակել ներդիրները
 
 ##
 
@@ -178,9 +188,32 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Միացնել ձայնը
 tabbrowser-manager-close-tab =
     .tooltiptext = Փակել ներդիրը
+# This is for tab groups that have been "saved and closed" (see tab-group-editor-action-save). It does
+# not include "deleted" tab groups (see tab-group-editor-action-delete).
+tabbrowser-manager-closed-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — փակված
+tabbrowser-manager-current-window-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — ընթացիկ պատուհան
 
 ## Tab Groups
 
+tab-group-editor-title-create = Ստեղծել ներդիրների խումբ
+tab-group-editor-title-edit = Կառավարել ներդիրների խումբը
+tab-group-editor-name-label = Անուն
+tab-group-editor-name-field =
+    .placeholder = Օրինակ՝ գնումներ կատարել
+tab-group-editor-cancel =
+    .label = Չեղարկել
+    .accesskey = C
+tab-group-editor-color-selector =
+    .aria-label = Ներդիրների խմբի գույնը
+tab-group-editor-color-selector2-red = Կարմիր
+    .title = Կարմիր
+tab-context-unnamed-group =
+    .label = Անանուն խումբ
+tab-group-name-default = Անանուն խումբ
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -188,3 +221,8 @@ tabbrowser-manager-close-tab =
 
 ## Open/saved tab group context menu
 
+# For a tab group that is open in any window, close the tab group and
+# do not save it. For a tab group that is closed but saved by the user, clicking
+# this will forget the saved tab group.
+tab-group-context-delete =
+    .label = Ջնջել խումբը

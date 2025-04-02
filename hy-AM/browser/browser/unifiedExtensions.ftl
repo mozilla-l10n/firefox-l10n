@@ -42,3 +42,4 @@ unified-extensions-context-menu-move-widget-down =
 unified-extensions-mb-quarantined-domain-title = Որոշ ընդլայնումներ չեն թույլատրվում
 unified-extensions-mb-quarantined-domain-learn-more = Իմանալ ավելին
     .aria-label = Իմանալ ավելին. որոշ ընդլայնումներ են թույլատրվում
+unified-extensions-mb-about-addons-link = Անցնել ընդլայնման կարգավորումներին

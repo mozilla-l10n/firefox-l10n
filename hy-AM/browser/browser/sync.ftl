@@ -34,6 +34,15 @@ fxa-menu-sign-out =
     .label = Դուրս գալ…
 fxa-menu-sync-title = Համաժամեցնել
 fxa-menu-sync-description = Համացանցային հասանելիություն՝ ամեն վայրից
+sync-setup-verify-continue = Շարունակել
+sync-setup-verify-title = Միացնել զգուշացումը
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
+# Dialog 2 - account signed in on another profile without option to merge
+sync-account-in-use-header = Հաշիվն արդեն գոյություն ունի
+sync-button-create-profile = Ստեղծել նոր պրոֆիլ
+sync-button-sync-and-merge = Համաժամեցնել և ձուլել տվյալները
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-sync-profile = Համաժամացնել «{ $profileName }»-ը

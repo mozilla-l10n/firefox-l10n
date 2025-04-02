@@ -56,6 +56,8 @@ sidebar-menu-bookmarks-label =
     .label = Էջանիշեր
 sidebar-menu-customize-label =
     .label = Հարմարեցնել կողագոտին
+sidebar-menu-contextual-password-manager-label =
+    .label = Գաղտնաբառեր
 
 ## Tooltips for sidebar menu items.
 
@@ -82,7 +84,9 @@ sidebar-menu-close-bookmarks-tooltip = Փակել էջանիշները ({ $short
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
 sidebar-menu-open-ai-chatbot-tooltip-generic = Բացել ԱԲ չաթբոտը ({ $shortcut })
+sidebar-menu-open-ai-chatbot-provider-tooltip = Բացել { $provider } ({ $shortcut })
 sidebar-menu-close-ai-chatbot-tooltip-generic = Բացել ԱԲ չաթբոտը ({ $shortcut })
+sidebar-menu-close-ai-chatbot-provider-tooltip = Փակել { $provider } ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 
@@ -94,6 +98,8 @@ sidebar-menu-syncedtabs-header =
     .heading = Ներդիրներ այլ սարքերից
 sidebar-menu-bookmarks-header =
     .heading = Էջանիշեր
+sidebar-panel-header-close-button =
+    .tooltiptext = Փակել
 
 ## Titles for sidebar menu panels.
 
@@ -103,6 +109,12 @@ sidebar-syncedtabs-title = Ներդիրներ այլ սարքերից
 
 ## Context for closing synced tabs when hovering over the items
 
+# Context for hovering over the close tab button that will
+# send a push to the device to close said tab
+# Variables:
+#   $deviceName (String) - the name of the device the user is closing a tab for
+synced-tabs-context-close-tab-title =
+    .title = Փակել ներդիրը { $deviceName }-ում
 show-sidebars =
     .tooltiptext = Ցուցադրել կողագոտիները
     .label = Կողագոտիներ
