@@ -1237,10 +1237,10 @@ file-picker-failed-open = لم يتمكن من فتح مربع حوار المل
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-failed-save-somewhere = لم يتمكن من فتح مربع حوار ملف ويندوز. سيتم حفظ الملف في { $path }.
 file-picker-failed-save-nowhere = لم يتمكن من فتح مربع حوار ملف ويندوز. لم يتم العثور على المجلد الافتراضي؛ ولن يتم حفظ الملف.
-file-picker-crashed-open = تعطل مربع حوار ملف ويندوز. لم يتم تحديد أي ملف أو مجلد.
+file-picker-crashed-open = انهار مربع حوار ملف ويندوز. لم يتم تحديد أي ملف أو مجلد.
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = انهار مربع حوار ملف ويندوز. سيتم حفظ الملف في { $path }.
-file-picker-crashed-save-nowhere = تعطل مربع حوار ملف ويندوز. لم يتم العثور على المجلد المبدئي؛ ولن يُحفظ الملف.
+file-picker-crashed-save-nowhere = انهار مربع حوار ملف ويندوز. لم يتم العثور على المجلد المبدئي؛ ولن يُحفظ الملف.
 
 # Button used with file-picker-crashed-save-default. Opens the folder in Windows
 # Explorer, with the saved file selected and in focus.

@@ -264,9 +264,18 @@ shopping-opt-in-integrated-headline = Siopa gyda hyder
 #   $secondSite (String) - The second shopping page name
 #   $thirdSite (String) - The third shopping page name
 shopping-opt-in-integrated-subtitle = Trowch Wiriydd Adolygiadau { -brand-product-name } i weld pa mor ddibynadwy yw adolygiadau cynnyrch, cyn i chi brynu. Mae'n defnyddio technoleg AI i ddadansoddi adolygiadau ac mae'n gweithio pan fyddwch chi'n siopa ar { $firstSite }, { $secondSite }, a { $thirdSite }. <a data-l10n-name="learn_more">Darllen rhagor</a>
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle-unsupported-site = Mae Gwirydd Adolygiadau { -brand-product-name } yn eich helpu i wybod pa mor ddibynadwy yw adolygiadau cynnyrch, cyn i chi brynu. Mae'n defnyddio technoleg AI i ddadansoddi adolygiadau ac mae'n gweithio pan fyddwch chi'n siopa ar { $firstSite }, { $secondSite }, a { $thirdSite }. <a data-l10n-name="learn_more">Darllen rhagor</a>
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-opt-in-integrated-headline = Ydych chi'n gallu ymddiried yn yr adolygiadau hyn?
+# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
+shopping-callout-not-opted-in-integrated-paragraph1 = Trowch Wirydd Adolygiadau { -brand-product-name } ymlaen i ddarganfod. Mae'n cael ei bweru gan { -fakespot-brand-full-name } ac mae'n defnyddio technoleg AI i ddadansoddi adolygiadau.
 
 ## Message strings for Review Checker's empty states.
 

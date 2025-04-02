@@ -25,3 +25,5 @@ unified-extensions-context-menu-move-widget-down =
 
 unified-extensions-mb-quarantined-domain-title = بعض الامتدادات غير مسموح بها
 unified-extensions-mb-quarantined-domain-message = لا يسمح إلا ببعض الامتدادات التي يراقبها { -vendor-short-name } على هذا الموقع لحماية بياناتك.
+unified-extensions-mb-quarantined-domain-learn-more = اطّلع على المزيد
+    .aria-label = اطّلع على المزيد: لا يُسمح ببعض الامتدادات
