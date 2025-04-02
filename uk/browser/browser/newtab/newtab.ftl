@@ -126,6 +126,8 @@ newtab-menu-section-unfollow = Відписатися від теми
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
+newtab-menu-manage-sponsored-content = Керувати спонсорованим вмістом
+newtab-menu-our-sponsors-and-your-privacy = Наші спонсори і ваша приватність
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -387,6 +389,7 @@ newtab-wallpaper-starry-canyon = Синя зоряна ніч
 newtab-wallpaper-suspension-bridge = Фотографія сірого підвісного мосту вдень
 newtab-wallpaper-sand-dunes = Білі піщані дюни
 newtab-wallpaper-palm-trees = Силует кокосових пальм у час золотої години
+newtab-wallpaper-blue-flowers = Фотографія блакитних квітів у розквіті
 newtab-wallpaper-forest-trees = Дерева вкриті туманом
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
@@ -522,3 +525,7 @@ newtab-section-mangage-topics-followed-topics = Відстежується
 newtab-section-mangage-topics-followed-topics-empty-state = Ви ще не стежите за жодною темою.
 newtab-section-mangage-topics-blocked-topics = Заблоковано
 newtab-section-mangage-topics-blocked-topics-empty-state = Ви ще не заблокували жодної теми.
+newtab-custom-wallpaper-title = Користувацькі шпалери
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle = Вивантажте власне зображення або виберіть особливий колір, щоб персоналізувати { -brand-product-name }.
+newtab-custom-wallpaper-cta = Спробувати

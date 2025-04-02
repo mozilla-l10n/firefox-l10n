@@ -332,6 +332,9 @@ quickactions-cmd-addons2 = додатки
 quickactions-bookmarks2 = Керувати закладками
 quickactions-cmd-bookmarks = закладки
 # Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Очистити недавню історію
+quickactions-cmd-clearrecenthistory = очистити недавню історію, історія
+# Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Стерти історію
 quickactions-cmd-clearhistory = стерти історію
 # Opens about:downloads page
@@ -340,6 +343,15 @@ quickactions-cmd-downloads = завантаження
 # Opens about:addons page in the extensions section
 quickactions-extensions = Керувати розширеннями
 quickactions-cmd-extensions = розширення
+# Opens Firefox View
+quickactions-firefoxview = Відкрити { -firefoxview-brand-name }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = відкрити { -firefoxview-brand-name }, { -firefoxview-brand-name }, відкрити оглядач, оглядач
+# Opens SUMO home page
+quickactions-help = Довідка { -brand-product-name }
+quickactions-cmd-help = довідка, підтримка
 # Opens the devtools web inspector
 quickactions-inspector2 = Відкрити інструменти розробника
 quickactions-cmd-inspector = інспектор, інструменти розробника
@@ -692,6 +704,17 @@ urlbar-result-action-undefined-calculator-result = не визначено
 #  $result (String): the string representation for a result in scientific notation
 #  (e.g. "1.0e17").
 urlbar-result-action-calculator-result-scientific-notation = = { $result }
+# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
+# The last = sign will be shown as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "false", maximumFractionDigits: 8) }
+# Shows the result of a formula expression being calculated, to a maximum of 9 significant
+# digits. This is used for numbers < 1.
+# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 
 ## Strings used for buttons in the urlbar
 
@@ -970,6 +993,9 @@ panel-save-update-password = Пароль
 # "More" item in macOS share menu
 menu-share-more =
     .label = Більше…
+menu-share-copy-link =
+    .label = Копіювати посилання
+    .accesskey = К
 ui-tour-info-panel-close =
     .tooltiptext = Закрити
 

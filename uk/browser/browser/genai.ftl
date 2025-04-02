@@ -158,3 +158,9 @@ genai-onboarding-lechat-price = Безплатно (потрібен облік�
 
 ## Model Optin Component
 
+genai-model-optin-continue =
+    .label = Продовжити
+genai-model-optin-optout =
+    .label = Скасувати
+genai-model-optin-cancel =
+    .label = Скасувати

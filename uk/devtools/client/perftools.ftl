@@ -71,6 +71,11 @@ perftools-button-edit-settings = Змінити налаштування…
 
 ## More actions menu
 
+perftools-menu-more-actions-button =
+    .title = Інші дії
+perftools-menu-more-actions-restart-with-profiling = Перезапустити { -brand-shorter-name } із увімкненим профілюванням запуску
+perftools-menu-more-actions-copy-for-startup = Копіювати змінні середовища для профілювання запуску
+perftools-menu-more-actions-copy-for-perf-tests = Копіювати параметри для тестів продуктивності
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
