@@ -35,6 +35,17 @@ pending-crash-reports-send =
     .label = أرسل
 pending-crash-reports-always-send =
     .label = أرسل دائمًا
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+requested-crash-reports-message =
+    { $reportCount ->
+        [zero] لديك لا تقرير عُطل غير مُرسل يتطابق مع الأعطال التي يتم التحقيق فيها، وإرساله سيساعدنا على تحسين { -brand-product-name }. سيؤدي إغلاق هذا الإشعار إلى تجاهل هذه التقارير.
+        [one] لديك { $reportCount } تقرير عُطل غير مُرسل يتطابق مع الأعطال التي يتم التحقيق فيها، وإرساله سيساعدنا على تحسين { -brand-product-name }. سيؤدي إغلاق هذا الإشعار إلى تجاهل هذه التقارير.
+        [two] لديك { $reportCount } تقرير عُطل غير مُرسل يتطابق مع الأعطال التي يتم التحقيق فيها، وإرساله سيساعدنا على تحسين { -brand-product-name }. سيؤدي إغلاق هذا الإشعار إلى تجاهل هذه التقارير.
+        [few] لديك { $reportCount } تقرير أعطال غير مُرسل يتطابق مع الأعطال التي يتم التحقيق فيها، وإرساله سيساعدنا على تحسين { -brand-product-name }. سيؤدي إغلاق هذا الإشعار إلى تجاهل هذه التقارير.
+        [many] لديك { $reportCount } تقرير أعطال غير مُرسل يتطابق مع الأعطال التي يتم التحقيق فيها، وإرساله سيساعدنا على تحسين { -brand-product-name }. سيؤدي إغلاق هذا الإشعار إلى تجاهل هذه التقارير.
+       *[other] لديك { $reportCount } تقرير عُطل غير مُرسل يتطابق مع الأعطال التي يتم التحقيق فيها، وإرساله سيساعدنا على تحسين { -brand-product-name }. سيؤدي إغلاق هذا الإشعار إلى تجاهل هذه التقارير.
+    }
 requested-crash-reports-dont-show-again =
     .label = لا تُظهر مجددًا
     .accesskey = ه

@@ -142,6 +142,10 @@ preferences-data-migration-description = استورد العلامات وكلم�
 preferences-data-migration-button =
     .label = استورد البيانات
     .accesskey = د
+preferences-profiles-header = ملفات الإعدادات
+preferences-manage-profiles-learn-more = اطّلع على المزيد
+preferences-manage-profiles-button =
+    .label = أدِر ملفات الإعدادات
 tabs-group-header = الألسنة
 ctrl-tab-recently-used-order =
     .label = ‏Ctrl+Tab يتنقّل عبر الألسنة حسب ترتيب آخر استخدام
@@ -229,6 +233,14 @@ settings-tabs-show-image-in-preview =
     .label = أظهِر معاينة الصورة عند التحويم فوق اللسان
     .accessKey = ع
 browser-layout-header = تخطيط المتصفح
+browser-layout-horizontal-tabs =
+    .label = ألسنة أفقية
+browser-layout-horizontal-tabs-desc = اعرض في أعلى المتصفح
+browser-layout-vertical-tabs =
+    .label = ألسنة عمودية
+browser-layout-vertical-tabs-desc = اعرض على الجانب، في الشريط الجانبي
+browser-layout-show-sidebar =
+    .label = أظهِر الشريط الجانبي
 
 ## General Section - Language & Appearance
 
@@ -260,6 +272,16 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = أدِر سمات { -brand-short-name } في الامتدادات والسمات <a data-l10n-name="themes-link"></a>
+preferences-contrast-control-header = التحكم في التباين
+preferences-contrast-control-use-platform-settings =
+    .label = تلقائي (استخدام إعدادات النظام)
+    .accesskey = ع
+preferences-contrast-control-off =
+    .label = معطّل
+    .accesskey = ط
+preferences-contrast-control-custom =
+    .label = مخصّص
+    .accesskey = ص
 preferences-colors-header = الألوان
 preferences-colors-description = تجاوز ألوان { -brand-short-name } الافتراضية للنص، و خلفيات الموقع، و الروابط.
 preferences-colors-manage-button =
@@ -1090,6 +1112,8 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = شريط العناوين
 addressbar-suggest = عند استخدام شريط العناوين، اقترح
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = شريط العناوين — { -firefox-suggest-brand-name }
 addressbar-locbar-history-option =
     .label = تأريخ التصفح
     .accesskey = ص
