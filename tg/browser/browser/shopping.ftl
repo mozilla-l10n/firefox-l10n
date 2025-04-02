@@ -299,11 +299,16 @@ shopping-integrated-callout-opted-out-subtitle = Барои аз нав фаъо
 ## Callout for where to find Review Checker when the sidebar closes
 
 shopping-integrated-callout-sidebar-closed-title = Бозгашт ба «Абзори тафтиши тақризҳо»
+shopping-integrated-callout-sidebar-closed-subtitle = Барчаспи нархро аз рӯйи навори ҷонибӣ интихоб кунед ва аз назар гузаронед, ки агар тақризҳои маҳсули интихобшуда эътимоднок бошанд.
+shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Тугмаи навори ҷонибиро интихоб кунед ва аз назар гузаронед, ки агар тақризҳои маҳсули интихобшуда эътимоднок бошанд.
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-title = Ҳамон абзори тафтиши тақризҳо, аммо дар ҷойи нав
+shopping-integrated-new-position-notification-move-right-subtitle = Ба ихтиёри худ «Абзори тафтиши тақризҳо» ва тамоми навори ҷонибии «{ -brand-product-name }»-ро дар ин ҷой нигоҳ доред — ё ҳар дуи онҳоро аз тарафи рост ҷойгир намоед. Шумо метавонед ҷойгиршавии онҳоро ҳоли ҳозир ё дар вақти дилхоҳ тавассути <a data-l10n-name="sidebar_settings">танзимоти навори ҷонибӣ</a> иваз намоед.
+shopping-integrated-new-position-notification-move-left-subtitle = Ба ихтиёри худ «Абзори тафтиши тақризҳо» ва тамоми навори ҷонибии «{ -brand-product-name }»-ро дар ин ҷой нигоҳ доред — ё ҳар дуи онҳоро аз тарафи чап ҷойгир намоед. Шумо метавонед ҷойгиршавии онҳоро ҳоли ҳозир ё дар вақти дилхоҳ тавассути <a data-l10n-name="sidebar_settings">танзимоти навори ҷонибӣ</a> иваз намоед.
 shopping-integrated-new-position-notification-move-right-button = Ба тарафи рост гузоштан
 shopping-integrated-new-position-notification-move-left-button = Ба тарафи чап гузоштан
 shopping-integrated-new-position-notification-dismiss-button = Фаҳмидам
