@@ -156,3 +156,5 @@ genai-onboarding-lechat-price = Falas; lypset llogari
 
 ## Model Optin Component
 
+genai-model-optin-cancel =
+    .label = Anuloje

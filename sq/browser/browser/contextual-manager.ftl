@@ -116,14 +116,68 @@ contextual-manager-passwords-remove-all-confirm-button =
         [1] Hiqe
        *[other] Hiqi Krejt
     }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] Kjo do të heqë fjalëkalimin tuaj të ruajtur në { -brand-short-name } dhe çfarëdo sinjalizimesh cenimi. S’mund të zhbëni këtë veprim.
+       *[other] This will remove the passwords saved to { -brand-short-name } and any breach alerts. You cannot undo this action.
+    }
+contextual-manager-passwords-origin-label = Sajt
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Emër përdoruesi
+    .data-after = Kopjuar
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Fjalëkalim
+    .data-after = Kopjuar
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Filtro fjalëkalimet
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = U shtua fjalëkalim për { $url }
+contextual-manager-passwords-add-password-success-button = Shiheni
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = Ka tashmë një fjalëkalim dhe emër përdoruesi për { $url }
+contextual-manager-passwords-password-already-exists-error-button = Kalo te fjalëkalimi
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Fjalëkalimi u ruajt
 contextual-manager-passwords-update-password-success-button = U bë
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] Fjalëkalimi u hoq
+            [one] Fjalëkalimi u hoq
+           *[other] Fjalëkalimet u hoqën
+        }
 contextual-manager-passwords-delete-password-success-button = U bë
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = Krejt ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = Sinjalizime ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Të hiqet fjalëkalimi?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = S’mund ta zhbëni këtë.
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Mbrapsht
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Hiqi
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Anuloje
+contextual-manager-passwords-alert-card =
+    .aria-label = Sinjalizime fjalëkalimesh
+contextual-manager-passwords-alert-back-button =
+    .label = Mbrapsht
+contextual-manager-passwords-alert-list =
+    .aria-label = Listë sinjalizimesh
 
 ## Login Form
 

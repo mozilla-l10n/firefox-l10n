@@ -126,6 +126,7 @@ newtab-menu-section-unfollow = Hiqe Ndjekjen e Subjektit
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
+newtab-menu-manage-sponsored-content = Administroni lëndë të sponsorizuar
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
