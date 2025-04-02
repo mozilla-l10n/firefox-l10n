@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-apology = نأسف لهذا
+crashreporter-crashed-and-restore = واجه { -brand-short-name } مشكلة وانهار. سنحاول استعادة ألسنتك والنوافذ عند إعادة تشغيله.
 crashreporter-plea = لتساعدنا في حل هذه المشكلة، يمكنك إرسال بلاغ بالانهيار.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = التفاصيل: { $details }

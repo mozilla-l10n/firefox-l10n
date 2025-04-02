@@ -1114,6 +1114,9 @@ addressbar-header = شريط العناوين
 addressbar-suggest = عند استخدام شريط العناوين، اقترح
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = شريط العناوين — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = اطّلع على المزيد
 addressbar-locbar-history-option =
     .label = تأريخ التصفح
     .accesskey = ص
@@ -1143,7 +1146,18 @@ addressbar-suggestions-settings = غيّر تفضيلات اقتراحات مح�
 addressbar-locbar-showrecentsearches-option =
     .label = أظهر عمليات البحث الأخيرة
     .accesskey = ه
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = أظهر اقتراحات البحث المُتداولة
+    .accesskey = ه
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = اقتراحات من { -brand-short-name }
+addressbar-locbar-suggest-sponsored-option =
+    .label = اقتراحات من الرعاة
 addressbar-quickactions-learn-more = اطّلع على المزيد
+addressbar-restore-dismissed-suggestions-description = استعِد الاقتراحات المرفوضة من الرعاة و{ -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button =
+    .label = استعِد
 
 ## Privacy Section - Content Blocking
 

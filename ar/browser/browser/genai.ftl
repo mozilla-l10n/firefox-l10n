@@ -35,6 +35,7 @@ genai-header-close-button =
 
 genai-onboarding-primary = واصِل
 genai-onboarding-secondary = أغلق
+genai-onboarding-claude-learn = تعرف على المزيد عن كلود
 genai-onboarding-chatgpt-tooltip =
     .title = chatGPT
 genai-onboarding-chatgpt-learn = اعرف المزيد عن chatGPT
