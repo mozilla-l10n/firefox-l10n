@@ -264,9 +264,12 @@ shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Kapat
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = Bu öneriyi bir daha gösterme
 shopping-callout-not-opted-in-integrated-reminder-show-fewer = Daha az öneri göster
 shopping-callout-not-opted-in-integrated-reminder-manage-settings = Ayarları yönet
+shopping-opt-in-integrated-button = Değerlendirme kontrolcüsünü deneyin
 
 ## Message strings for Review Checker's empty states.
 
+shopping-empty-state-header = Değerlendirmeleri kontrol etmeye hazır
+shopping-empty-state-supported-site = Bir ürüne baktığınızda { -brand-product-name } değerlendirmelerin güvenilir olup olmadığını kontrol edecektir.
 # We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
 # This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
 shopping-empty-state-non-supported-site = Değerlendirme kontrolcüsü aşağıdaki sitelerde çalışır:
