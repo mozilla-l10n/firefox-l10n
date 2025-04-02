@@ -39,6 +39,9 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = معلومات جديدة للتحقق منها
 shopping-message-bar-warning-stale-analysis-button = تحقق الآن
+shopping-message-bar-keep-closed-header =
+    .heading = ابقى مغلقا؟
+    .message = يمكنك تحديث إعداداتك للحفاظ على مدقق المراجعة مغلق بشكل افتراضي. الآن، يُفتح تلقائيًا.
 shopping-message-bar-keep-closed-dismiss-button = لا، شكرًا
 
 ## Strings for the product review snippets card
@@ -153,6 +156,7 @@ shopping-survey-thanks =
 shopping-callout-closed-opted-in-subtitle = ارجع إلى <strong>مدقق المراجعة</strong> عندما ترى بطاقة السعر.
 shopping-callout-pdp-opted-in-title = هل هذه المراجعات موثوقة؟ اكتشف ذلك بسرعة.
 shopping-callout-closed-not-opted-in-revised-button = فهمت
+shopping-callout-not-opted-in-reminder-open-button = افتح مدقق المراجعة
 shopping-callout-not-opted-in-reminder-close-button = أهمِل
 
 ## Onboarding message strings.

@@ -333,6 +333,7 @@ quickactions-bookmarks2 = أدِر العلامات
 quickactions-cmd-bookmarks = العلامات
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = امسح التأريخ الحالي
+quickactions-cmd-clearrecenthistory = امسح التأريخ الحالي، التأريخ
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = امسح التأريخ
 quickactions-cmd-clearhistory = امسح التأريخ
@@ -344,6 +345,10 @@ quickactions-extensions = أدِر الامتدادات
 quickactions-cmd-extensions = الامتدادات
 # Opens Firefox View
 quickactions-firefoxview = افتح { -firefoxview-brand-name }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = افتح { -firefoxview-brand-name }، { -firefoxview-brand-name }، افتح العرض، عرض
 # Opens SUMO home page
 quickactions-help = مساعدة { -brand-product-name }
 quickactions-cmd-help = المساعدة والدعم

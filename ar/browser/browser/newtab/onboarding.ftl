@@ -324,6 +324,8 @@ onboarding-new-user-survey-time-based-option-3 = أكثر من شهر، بانت
 
 ## UI strings for the sidebar and vertical tabs
 
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = هل تُبقي الكثير من الألسنة مفتوحة؟ جرّب وضع الألسنة على الجانب لعرض أكثر انسيابية. أو اجعلها كلاسيكية بوضع الألسنة في الأعلى. غيّرها في أي وقت.
 onboarding-flair-text = جديد!
 onboarding-genai-sidebar-primary-button = اختر روبوت المحادثة
 onboarding-genai-sidebar-secondary-button = ابدأ التصفح
