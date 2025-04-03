@@ -111,8 +111,8 @@ cfr-doorhanger-doh-secondary-button = Letiltás
 
 ## Full Video Support CFR message
 
-cfr-doorhanger-video-support-body = Előfordulhat, hogy az oldalon található videók nem játszhatók le a { -brand-short-name } ezen verziójában. A teljes videótámogatásért frissítse most a { -brand-short-name(case: "accusative") }.
-cfr-doorhanger-video-support-header = A videó lejátszásához frissítse a { -brand-short-name(case: "accusative") }
+cfr-doorhanger-video-support-body = Előfordulhat, hogy az oldalon található videók nem játszhatók le a { -brand-short-name } ezen verziójában. A teljes videótámogatásért frissítse most a { -brand-short-name }ot.
+cfr-doorhanger-video-support-header = A videó lejátszásához frissítse a { -brand-short-name }ot
 cfr-doorhanger-video-support-primary-button = Frissítés most
     .accesskey = F
 
@@ -133,7 +133,7 @@ spotlight-public-wifi-vpn-link = Most nem
 ## Emotive Continuous Onboarding
 
 spotlight-better-internet-header = A jobb internet Önnel kezdődik
-spotlight-better-internet-body = Amikor a { -brand-short-name(case: "accusative") } használja, akkor egy nyílt és hozzáférhető internetre szavaz, amely jobb mindenki számára.
+spotlight-better-internet-body = Amikor a { -brand-short-name }ot használja, akkor egy nyílt és hozzáférhető internetre szavaz, amely jobb mindenki számára.
 spotlight-peace-mind-header = Fedezzük Önt
 spotlight-peace-mind-body = Minden hónapban, a { -brand-short-name } átlagosan 3.000 nyomkövetőt blokkol felhasználónként. Mert semmi nem állhat Ön és a jó internet közé, az adatvédelmi szempontból aggályos követők különösen nem.
 spotlight-pin-primary-button =
@@ -213,12 +213,12 @@ cookie-banner-blocker-onboarding-learn-more = További tudnivalók
 
 july-jam-headline = Fedezzük Önt
 july-jam-body = A { -brand-short-name } havonta átlagosan több mint 3000 nyomkövetőt blokkol felhasználónként, így biztonságos és gyors hozzáférést biztosít a jó internethez.
-july-jam-set-default-primary = Saját hivatkozások megnyitása a { -brand-short-name(case: "instrumental") }
+july-jam-set-default-primary = Saját hivatkozások megnyitása a { -brand-short-name }szal
 fox-doodle-pin-headline = Üdvözöljük újra
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Itt egy gyors emlékeztető, hogy egyetlen kattintásnyira tudhatja kedvenc független böngészőjét.
-fox-doodle-pin-primary = Saját hivatkozások megnyitása a { -brand-short-name(case: "instrumental") }
+fox-doodle-pin-primary = Saját hivatkozások megnyitása a { -brand-short-name }szal
 fox-doodle-pin-secondary = Most nem
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
@@ -253,7 +253,7 @@ device-migration-fxa-spotlight-sync-primary-button = Kezdő lépések
 ## Set as Default PDF Reader Infobar
 
 # The question portion of the following message should have the <strong> and </strong> tags surrounding it.
-pdf-default-notification-message = <strong>Legyen a { -brand-short-name } az alapértelmezett PDF-olvasó?</strong> Használja a { -brand-short-name(case: "accusative") } a számítógépére mentett PDF-ek olvasásához és szerkesztéséhez.
+pdf-default-notification-message = <strong>Legyen a { -brand-short-name } az alapértelmezett PDF-olvasó?</strong> Használja a { -brand-short-name }ot a számítógépére mentett PDF-ek olvasásához és szerkesztéséhez.
 pdf-default-notification-set-default-button =
     .label = Beállítás alapértelmezettként
 pdf-default-notification-decline-button =
@@ -261,9 +261,9 @@ pdf-default-notification-decline-button =
 
 ## Launch on login infobar notification
 
-launch-on-login-infobar-message = <strong>Mindig megnyissa a { -brand-short-name(case: "accusative") } a számítógép újraindításakor?</strong> Most már beállíthatja, hogy a { -brand-short-name } automatikusan elinduljon, ha újraindítja az eszközét.
+launch-on-login-infobar-message = <strong>Mindig megnyissa a { -brand-short-name }ot a számítógép újraindításakor?</strong> Most már beállíthatja, hogy a { -brand-short-name } automatikusan elinduljon, ha újraindítja az eszközét.
 launch-on-login-learnmore = További tudnivalók
-launch-on-login-infobar-confirm-button = Igen, nyissa meg a { -brand-short-name(case: "accusative") }
+launch-on-login-infobar-confirm-button = Igen, nyissa meg a { -brand-short-name }ot
     .accesskey = I
 launch-on-login-infobar-reject-button = Most nem
     .accesskey = n
@@ -271,7 +271,7 @@ launch-on-login-infobar-reject-button = Most nem
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
-launch-on-login-infobar-final-message = <strong>Mindig megnyissa a { -brand-short-name(case: "accusative") } a számítógép újraindításakor?</strong> Az indítási beállítások kezeléséhez keressen rá az „indítás” szóra a beállításokban.
+launch-on-login-infobar-final-message = <strong>Mindig megnyissa a { -brand-short-name }ot a számítógép újraindításakor?</strong> Az indítási beállítások kezeléséhez keressen rá az „indítás” szóra a beállításokban.
 launch-on-login-infobar-final-reject-button = Köszönöm, nem
     .accesskey = n
 
@@ -283,13 +283,13 @@ launch-on-login-infobar-final-reject-button = Köszönöm, nem
 # alternative as a reference for translation: 'Keep unwanted trackers away'.
 tail-fox-spotlight-title = Rázza le a bosszantó nyomkövetőket
 tail-fox-spotlight-subtitle = Mondjon búcsút a bosszantó hirdetéskövetőknek, és élvezze a biztonságosabb, gyorsabb internetezést.
-tail-fox-spotlight-primary-button = Saját hivatkozások megnyitása a { -brand-short-name(case: "instrumental") }
+tail-fox-spotlight-primary-button = Saját hivatkozások megnyitása a { -brand-short-name }szal
 tail-fox-spotlight-secondary-button = Most nem
 
 ## Root Certificate Succession Infobar
 
 root-certificate-succession-infobar-january-message = <strong>A { -brand-short-name } régebbi verzióiban 2025. január 14-én problémák léphetnek fel.</strong>
-root-certificate-succession-infobar-march-message = <strong>Frissítsen, hogy 2025. március 14. után is használja a { -brand-short-name(case: "accusative") }.</strong>
+root-certificate-succession-infobar-march-message = <strong>Frissítsen, hogy 2025. március 14. után is használja a { -brand-short-name }ot.</strong>
 root-certificate-succession-infobar-link = Miért van szükségem a frissítésre?
 root-certificate-succession-infobar-primary-button =
     .label = Frissítés most
@@ -312,13 +312,13 @@ fxa-menu-message-close-button =
     .aria-label = Bezárás
 fxa-menu-message-sign-up-button = Regisztráció
 fxa-menu-message-sync-devices-primary-text = Szinkronizálja az összes eszközét
-fxa-menu-message-sync-devices-secondary-text = Azonnal kapja meg az adatait – mint a könyvjelzők és a jelszavak – mindenhol, ahol a { -brand-short-name(case: "accusative") } használja.
+fxa-menu-message-sync-devices-secondary-text = Azonnal kapja meg az adatait – mint a könyvjelzők és a jelszavak – mindenhol, ahol a { -brand-short-name }ot használja.
 fxa-menu-message-sync-devices-collapsed-text = Szinkronizálja az összes eszközét
 fxa-menu-message-backup-data-primary-text = Készítsen biztonsági mentést a böngészési adatairól
 fxa-menu-message-backup-data-secondary-text = Automatikusan védje meg a könyvjelzőket, jelszavakat és egyéb információkat az összes eszközén.
 fxa-menu-message-backup-data-collapsed-text = Biztonsági mentés készítése a böngészési adatokról
 fxa-menu-message-backup-sync-primary-text = Tartsa adatait biztonságban és szinkronizálva
-fxa-menu-message-backup-sync-secondary-text = A Sync biztonsági mentést készít az adatai nagy részéről, így bárhol elérheti őket, ahol { -brand-short-name(case: "accusative") } használ.
+fxa-menu-message-backup-sync-secondary-text = A Sync biztonsági mentést készít az adatai nagy részéről, így bárhol elérheti őket, ahol { -brand-short-name }ot használ.
 fxa-menu-message-backup-sync-collapsed-text = Adatok szinkronizálása és biztonsági mentése
 fxa-menu-message-mobile-primary-text = Lapokat küld a telefonjára
 fxa-menu-message-mobile-secondary-text = Folytassa ott, ahol abbahagyta, ha szinkronizálja a lapjait egy mobileszközzel.
@@ -339,7 +339,7 @@ multi-cta-fox-doodle-main-browser-primary-button-label = A { -brand-short-name }
 multi-cta-fox-doodle-quick-reminder-subtitle = Itt egy gyors emlékeztető, hogy egyetlen kattintásnyira tudhatja kedvenc adatvédelem-központú böngészőjét.
 multi-cta-fox-doodle-privacy-focused-subtitle =
     { PLATFORM() ->
-        [macos] Tartsa egyetlen kattintásra a kedvenc adatvédelmi fókuszú böngészőjét. Állítsa be a { -brand-short-name(case: "accusative") } alapértelmezett böngészőnek a hivatkozások megnyitásához, és tartsa a dokkban.
-       *[other] Tartsa egyetlen kattintásra a kedvenc adatvédelmi fókuszú böngészőjét. Állítsa be a { -brand-short-name(case: "accusative") } alapértelmezett böngészőnek a hivatkozások megnyitásához, és rögzítse a tálcára.
+        [macos] Tartsa egyetlen kattintásra a kedvenc adatvédelmi fókuszú böngészőjét. Állítsa be a { -brand-short-name }ot alapértelmezett böngészőnek a hivatkozások megnyitásához, és tartsa a dokkban.
+       *[other] Tartsa egyetlen kattintásra a kedvenc adatvédelmi fókuszú böngészőjét. Állítsa be a { -brand-short-name }ot alapértelmezett böngészőnek a hivatkozások megnyitásához, és rögzítse a tálcára.
     }
-multi-cta-fox-doodle-msix-privacy-focused-subtitle = Tartsa egyetlen kattintásra a kedvenc adatvédelmi fókuszú böngészőjét. Állítsa be a { -brand-short-name(case: "accusative") } alapértelmezett böngészőnek a hivatkozások megnyitásához, és rögzítse a tálcára és a Start menübe.
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = Tartsa egyetlen kattintásra a kedvenc adatvédelmi fókuszú böngészőjét. Állítsa be a { -brand-short-name }ot alapértelmezett böngészőnek a hivatkozások megnyitásához, és rögzítse a tálcára és a Start menübe.

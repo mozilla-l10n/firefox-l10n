@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # The question portion of the following message should have the <strong> and </strong> tags surrounding it.
-default-browser-notification-message = <strong>Beállítja alapértelmezett böngészőnek a { -brand-short-name(case: "accusative") }?</strong> Kapjon gyors, biztonságos és privát böngészést a web használata közben.
+default-browser-notification-message = <strong>Beállítja alapértelmezett böngészőnek a { -brand-short-name }ot?</strong> Kapjon gyors, biztonságos és privát böngészést a web használata közben.
 default-browser-notification-button =
     .label = Legyen ez az alapértelmezett
     .accesskey = L
@@ -13,9 +13,9 @@ default-browser-notification-button =
 ## secondary button are shared between the variants.
 
 default-browser-prompt-title-pin = A { -brand-short-name } legyen az elsődleges böngészője?
-default-browser-prompt-message-pin = Tartsa kéznél a { -brand-short-name(case: "accusative") } – tegye alapértelmezett böngészővé, és rögzítse a tálcára.
-default-browser-prompt-message-pin-msix = Tartsa kéznél a { -brand-short-name(case: "accusative") } – tegye alapértelmezett böngészővé, és rögzítse a tálcára és a start menübe.
-default-browser-prompt-message-pin-mac = Tartsa kéznél a { -brand-short-name(case: "accusative") } – tegye alapértelmezett böngészővé, és tartsa a Dokkon.
+default-browser-prompt-message-pin = Tartsa kéznél a { -brand-short-name }ot – tegye alapértelmezett böngészővé, és rögzítse a tálcára.
+default-browser-prompt-message-pin-msix = Tartsa kéznél a { -brand-short-name }ot – tegye alapértelmezett böngészővé, és rögzítse a tálcára és a start menübe.
+default-browser-prompt-message-pin-mac = Tartsa kéznél a { -brand-short-name }ot – tegye alapértelmezett böngészővé, és tartsa a Dokkon.
 default-browser-prompt-button-primary-set = Beállítás elsődleges böngészőként
 default-browser-prompt-button-primary-pin = Elsődleges böngészővé tétel
 default-browser-prompt-title-alt = A { -brand-short-name } legyen az alapértelmezett böngészője?

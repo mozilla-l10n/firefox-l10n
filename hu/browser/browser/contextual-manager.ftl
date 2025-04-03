@@ -122,17 +122,17 @@ contextual-manager-passwords-remove-all-confirm-button =
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-message =
     { $total ->
-        [1] Ez eltávolítja a { -brand-short-name(case: "illative") } mentett jelszót, és az esetleges adatvédelmi incidensek figyelmeztetéseit. Ez a művelet nem vonható vissza.
-        [one] Ez eltávolítja a { -brand-short-name(case: "illative") } mentett jelszót, és az esetleges adatvédelmi incidensek figyelmeztetéseit. Ez a művelet nem vonható vissza.
-       *[other] Ez eltávolítja a { -brand-short-name(case: "illative") } mentett jelszavakat, és az esetleges adatvédelmi incidensek figyelmeztetéseit. Ez a művelet nem vonható vissza.
+        [1] Ez eltávolítja a { -brand-short-name }ba mentett jelszót, és az esetleges adatvédelmi incidensek figyelmeztetéseit. Ez a művelet nem vonható vissza.
+        [one] Ez eltávolítja a { -brand-short-name }ba mentett jelszót, és az esetleges adatvédelmi incidensek figyelmeztetéseit. Ez a művelet nem vonható vissza.
+       *[other] Ez eltávolítja a { -brand-short-name }ba mentett jelszavakat, és az esetleges adatvédelmi incidensek figyelmeztetéseit. Ez a művelet nem vonható vissza.
     }
 # Message for modal to confirm the removal of all saved passwords when user HAS SYNC
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-message-sync =
     { $total ->
-        [1] Ez eltávolítja az összes szinkronizált eszközéről a { -brand-short-name(case: "illative") } mentett jelszót, és az esetleges adatvédelmi incidensek figyelmeztetéseit. Ez a művelet nem vonható vissza.
-        [one] Ez eltávolítja az összes szinkronizált eszközéről a { -brand-short-name(case: "illative") } mentett jelszót, és az esetleges adatvédelmi incidensek figyelmeztetéseit. Ez a művelet nem vonható vissza.
-       *[other] Ez eltávolítja az összes szinkronizált eszközéről a { -brand-short-name(case: "illative") } mentett összes jelszavát, és az esetleges adatvédelmi incidensek figyelmeztetéseit. Ez a művelet nem vonható vissza.
+        [1] Ez eltávolítja az összes szinkronizált eszközéről a { -brand-short-name }ba mentett jelszót, és az esetleges adatvédelmi incidensek figyelmeztetéseit. Ez a művelet nem vonható vissza.
+        [one] Ez eltávolítja az összes szinkronizált eszközéről a { -brand-short-name }ba mentett jelszót, és az esetleges adatvédelmi incidensek figyelmeztetéseit. Ez a művelet nem vonható vissza.
+       *[other] Ez eltávolítja az összes szinkronizált eszközéről a { -brand-short-name }ba mentett összes jelszavát, és az esetleges adatvédelmi incidensek figyelmeztetéseit. Ez a művelet nem vonható vissza.
     }
 contextual-manager-passwords-origin-label = Webhely
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector

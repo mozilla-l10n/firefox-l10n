@@ -161,7 +161,7 @@ fx100-upgrade-thanks-header = 100 köszönet
 # but "Thank" can be used instead if there's no "you" in the translation.
 fx100-upgrade-thank-you-body = Ez a { -brand-short-name } 100. kiadása. Köszönjük <em>Önnek</em>, hogy segít nekünk egy jobb, egészségesebb internet felépítésében.
 # Message shown with either a pin-to-taskbar or set-default button.
-fx100-upgrade-thanks-keep-body = Ez a 100. kiadásunk! Köszönjük, hogy segít a közösségünk tagja. Tartsa egy kattintásnyira a { -brand-short-name(case: "accusative") } a következő 100-hoz.
+fx100-upgrade-thanks-keep-body = Ez a 100. kiadásunk! Köszönjük, hogy segít a közösségünk tagja. Tartsa egy kattintásnyira a { -brand-short-name }ot a következő 100-hoz.
 mr2022-onboarding-secondary-skip-button-label = Lépés kihagyása
 
 ## MR2022 New User Easy Setup screen strings
@@ -181,7 +181,7 @@ mr2022-onboarding-easy-setup-import-checkbox-label = Importálás az előző bö
 # If this translation does not make sense in your language, feel free to use the word "discover."
 mr2022-onboarding-welcome-pin-header = Fedezzen fel egy csodálatos internetet
 # Subtitle is used on onboarding page for new users page when Firefox is not pinned
-mr2022-onboarding-welcome-pin-subtitle = Indítsa el a { -brand-short-name(case: "accusative") } bárhonnan egyetlen kattintással. Minden alkalommal, amikor ezt teszi, egy nyitottabb és függetlenebb internetet választ.
+mr2022-onboarding-welcome-pin-subtitle = Indítsa el a { -brand-short-name }ot bárhonnan egyetlen kattintással. Minden alkalommal, amikor ezt teszi, egy nyitottabb és függetlenebb internetet választ.
 # Primary button string used on welcome page for when Firefox is not pinned.
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
@@ -230,7 +230,7 @@ mr2022-onboarding-get-started-primary-button-label = Beállítás másodpercek a
 ## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Villámgyors beállítás
-mr2022-onboarding-import-subtitle = Állítsa be úgy a { -brand-short-name(case: "accusative") }, ahogy Önnek tetszik. Adja hozzá könyvjelzőit, jelszavait és egyebeket a régi böngészőjéből.
+mr2022-onboarding-import-subtitle = Állítsa be úgy a { -brand-short-name }ot, ahogy Önnek tetszik. Adja hozzá könyvjelzőit, jelszavait és egyebeket a régi böngészőjéből.
 mr2022-onboarding-import-primary-button-label-no-attribution = Importálás az előző böngészőből
 
 ## If your language uses grammatical genders, in the description for the
@@ -300,7 +300,7 @@ mr2022-onboarding-privacy-segmentation-button-secondary-label = Részletes infor
 ## MR2022 Multistage Gratitude screen strings
 
 mr2022-onboarding-gratitude-title = Segít nekünk egy jobb világháló felépítésében
-mr2022-onboarding-gratitude-subtitle = Köszönjük, hogy a { -brand-short-name(case: "accusative") } használja, amelyet a Mozilla Alapítvány támogat. Az Ön támogatásával azon dolgozunk, hogy az internetet mindenki számára nyitottabbá, hozzáférhetőbbé és jobbá tegyük.
+mr2022-onboarding-gratitude-subtitle = Köszönjük, hogy a { -brand-short-name }ot használja, amelyet a Mozilla Alapítvány támogat. Az Ön támogatásával azon dolgozunk, hogy az internetet mindenki számára nyitottabbá, hozzáférhetőbbé és jobbá tegyük.
 mr2022-onboarding-gratitude-primary-button-label = Nézze meg az újdonságokat
 mr2022-onboarding-gratitude-secondary-button-label = Böngészés megkezdése
 
@@ -343,7 +343,7 @@ onboarding-device-migration-primary-button-label = Bejelentkezés
 
 amo-picker-title = A { -brand-short-name } testreszabása
 amo-picker-subtitle = A kiegészítők olyanok, mintha alkalmazások lennének a böngészőhöz, és lehetővé teszik a jelszavak védelmét, videók letöltését, akciók megtalálását, a bosszantó hirdetések blokkolását, a böngésző kinézetének módosítását, és még sok minden mást.
-amo-picker-install-button-label = Hozzáadás a { -brand-short-name(case: "allative") }
+amo-picker-install-button-label = Hozzáadás a { -brand-short-name }hoz
 amo-picker-install-complete-label = Telepítve
 amo-picker-collection-link = További kiegészítők felfedezése
 
@@ -357,7 +357,7 @@ onboarding-mobile-download-security-and-privacy-title = Maradjon titkosítva, am
 onboarding-mobile-download-security-and-privacy-subtitle = Ha befejeződik a szinkronizálás, akkor a { -brand-short-name } titkosítja jelszavait, könyvjelzőit és egyebeit. Továbbá átvehet lapokat a többi eszközéről.
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = Számíthat a { -brand-short-name }ra
-onboarding-gratitude-security-and-privacy-subtitle = Köszönjük, hogy a { -brand-short-name(case: "accusative") } használja, amelyet a Mozilla Alapítvány támogat. Az Ön támogatásával azon dolgozunk, hogy az internetet mindenki számára biztonságosabbá, és mindenki számára hozzáférhetőbbé tegyük.
+onboarding-gratitude-security-and-privacy-subtitle = Köszönjük, hogy a { -brand-short-name }ot használja, amelyet a Mozilla Alapítvány támogat. Az Ön támogatásával azon dolgozunk, hogy az internetet mindenki számára biztonságosabbá, és mindenki számára hozzáférhetőbbé tegyük.
 # Sign up or Sign in screen
 onboarding-sign-up-title = Adatok szinkronizálása az eszközök közt
 onboarding-sign-up-description = Regisztráljon egy fiókot, és minden fontos információja – jelszavak, könyvjelzők és egyeket – biztonságosan lesz tárolva, és elérhető lesz, ha bejelentkezik bármely eszközön.
@@ -366,8 +366,8 @@ onboarding-sign-up-secondary-button = Böngészés megkezdése
 
 ## New user time and familiarity survey strings
 
-onboarding-new-user-time-based-survey-title = Mióta használja a { -brand-short-name(case: "accusative") }?
-onboarding-new-user-familiarity-based-survey-title = Mennyire ismeri jól a { -brand-short-name(case: "accusative") }?
+onboarding-new-user-time-based-survey-title = Mióta használja a { -brand-short-name }ot?
+onboarding-new-user-familiarity-based-survey-title = Mennyire ismeri jól a { -brand-short-name }ot?
 onboarding-new-user-survey-subtitle = Visszajelzése segít, hogy a { -brand-short-name } még jobb legyen.
 # When translating "next" it means the next screen in onboarding.
 onboarding-new-user-survey-next-button-label = Tovább
