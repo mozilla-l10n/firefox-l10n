@@ -8,7 +8,12 @@ set-desktop-background-accept =
     .label = Встановити тлом робочого столу
 open-desktop-prefs =
     .label = Відкрити налаштування робочого столу
+set-desktop-background-downloading =
+    .label = Збереження зображення…
 set-background-preview-unavailable = Попередній перегляд недоступний
+# Name of the file that will be used as the desktop background. The
+# extension ".bmp" is added by the system.
+set-desktop-background-filename = Desktop Background
 # This refers to the wallpaper "spanning" multiple monitors when the
 # user has more than one. Only some of the entire image will be on
 # each monitor. This should ideally match the wording in Windows' own
