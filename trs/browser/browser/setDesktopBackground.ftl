@@ -8,7 +8,12 @@ set-desktop-background-accept =
     .label = Gachrun' ma riña pantayâ si ago'...
 open-desktop-prefs =
     .label = Na'nït preferencia
+set-desktop-background-downloading =
+    .label = Na'nín sa'aj ña du'ua...
 set-background-preview-unavailable = Nitāj si huā sa gini'iājt
+# Name of the file that will be used as the desktop background. The
+# extension ".bmp" is added by the system.
+set-desktop-background-filename = Riña si eskritorio
 # This refers to the wallpaper "spanning" multiple monitors when the
 # user has more than one. Only some of the entire image will be on
 # each monitor. This should ideally match the wording in Windows' own
