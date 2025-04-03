@@ -106,10 +106,21 @@ contextual-manager-passwords-update-password-success-button = Selesai
 contextual-manager-passwords-delete-password-success-button = Selesai
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Hapus kata sandi?
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Kembali
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Hapus
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Batal
+contextual-manager-passwords-alert-card =
+    .aria-label = Peringatan sandi
+contextual-manager-passwords-alert-back-button =
+    .label = Kembali
+contextual-manager-passwords-alert-list =
+    .aria-label = Daftar peringatan
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = Perubahan sandi disarankan
+    .message = Sandi dari situs web ini dilaporkan telah dicuri atau bocor. Ubah sandi untuk melindungi akun Anda.
 contextual-manager-passwords-no-username-heading-and-message =
     .heading = Tambahkan nama pengguna
     .message = Tambahkan pengguna untuk masuk lebih cepat
