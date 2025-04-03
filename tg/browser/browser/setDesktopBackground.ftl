@@ -8,7 +8,12 @@ set-desktop-background-accept =
     .label = Танзими заминаи мизи корӣ
 open-desktop-prefs =
     .label = Кушодани хусусиятҳои мизи корӣ
+set-desktop-background-downloading =
+    .label = Тасвир нигоҳ дошта истодааст…
 set-background-preview-unavailable = Пешнамоиш дастнорас аст
+# Name of the file that will be used as the desktop background. The
+# extension ".bmp" is added by the system.
+set-desktop-background-filename = Тасвири заминаи мизи корӣ
 # This refers to the wallpaper "spanning" multiple monitors when the
 # user has more than one. Only some of the entire image will be on
 # each monitor. This should ideally match the wording in Windows' own
