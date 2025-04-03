@@ -8,6 +8,8 @@ set-desktop-background-accept =
     .label = Afitar como fondu d'escritoriu
 open-desktop-prefs =
     .label = Abrir les preferencies del escritoriu
+set-desktop-background-downloading =
+    .label = Guardando la semeya…
 set-background-preview-unavailable = La previsualización nun ta disponible
 # This refers to the wallpaper "spanning" multiple monitors when the
 # user has more than one. Only some of the entire image will be on
