@@ -4,23 +4,17 @@
 
 set-desktop-background-window =
     .title = Tlhoma Lemorago la Desktop
-
 set-desktop-background-accept =
     .label = Tlhoma Lemorago la Desktop
-
 open-desktop-prefs =
     .label = Bula Diratwabogolo tsa go Desktop
-
+set-desktop-background-downloading =
+    .label = E boloka Setshwantsho…
 set-background-color = Mmala:
-
 set-background-position = Maemo:
-
 set-background-tile =
     .label = Thaele
-
 set-background-center =
     .label = Bogareng
-
 set-background-stretch =
     .label = Ngamola
-
