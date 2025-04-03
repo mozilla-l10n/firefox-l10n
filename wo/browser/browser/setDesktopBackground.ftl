@@ -8,6 +8,11 @@ set-desktop-background-accept =
     .label = Tànn ko niki laltu seetukaay
 open-desktop-prefs =
     .label = Ubbil taamu yu biro bi
+set-desktop-background-downloading =
+    .label = AArum nataal…
+# Name of the file that will be used as the desktop background. The
+# extension ".bmp" is added by the system.
+set-desktop-background-filename = Laltu seetukaay
 set-background-color = Melo:
 set-background-position = Taxawaay :
 set-background-tile =
