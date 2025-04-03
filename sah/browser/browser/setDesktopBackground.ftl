@@ -4,28 +4,24 @@
 
 set-desktop-background-window =
     .title = Экраан кэтэҕэ гын
-
 set-desktop-background-accept =
     .label = Экраан кэтэҕэ гын
-
 open-desktop-prefs =
     .label = Туруорууларын арый
-
+set-desktop-background-downloading =
+    .label = Ойууну бигэргэтии...
+# Name of the file that will be used as the desktop background. The
+# extension ".bmp" is added by the system.
+set-desktop-background-filename = Desktop Background
 set-background-color = Өҥө:
-
 set-background-position = Баар сирэ:
-
 set-background-tile =
     .label = Тэлгэт
-
 set-background-center =
     .label = Ортотугар
-
 set-background-stretch =
     .label = Тиир
-
 set-background-fill =
     .label = Толор
-
 set-background-fit =
     .label = Кээмэйинэн
