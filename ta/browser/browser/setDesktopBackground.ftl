@@ -9,7 +9,7 @@ set-desktop-background-accept =
 open-desktop-prefs =
     .label = திறந்த பணிமேடை முன்னுரிமைகள்
 set-desktop-background-downloading =
-    .label = படத்தை சேமிக்கிறது...
+    .label = படத்தை சேமிக்கிறது…
 # Name of the file that will be used as the desktop background. The
 # extension ".bmp" is added by the system.
 set-desktop-background-filename = மேசைக்கணினி Background

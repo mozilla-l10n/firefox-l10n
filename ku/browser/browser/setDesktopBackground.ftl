@@ -9,7 +9,7 @@ set-desktop-background-accept =
 open-desktop-prefs =
     .label = Vebijêrkên Sermaseyê Veke
 set-desktop-background-downloading =
-    .label = Wêne Tê Tomarkirin...
+    .label = Wêne Tê Tomarkirin…
 # Name of the file that will be used as the desktop background. The
 # extension ".bmp" is added by the system.
 set-desktop-background-filename = Sermase Background

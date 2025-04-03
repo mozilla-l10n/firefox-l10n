@@ -9,7 +9,7 @@ set-desktop-background-accept =
 open-desktop-prefs =
     .label = Xhal xha niey
 set-desktop-background-downloading =
-    .label = Dee goo shog noo koo dee de güil...
+    .label = Dee goo shog noo koo dee de güil…
 # Name of the file that will be used as the desktop background. The
 # extension ".bmp" is added by the system.
 set-desktop-background-filename = Xha nie loo

@@ -9,7 +9,7 @@ set-desktop-background-accept =
 open-desktop-prefs =
     .label = डेस्कटॉप प्राधान्या उगडात
 set-desktop-background-downloading =
-    .label = चित्र जतन करता...
+    .label = चित्र जतन करता…
 # Name of the file that will be used as the desktop background. The
 # extension ".bmp" is added by the system.
 set-desktop-background-filename = डेस्कटॉप Background

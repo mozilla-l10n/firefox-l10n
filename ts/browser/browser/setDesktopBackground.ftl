@@ -9,7 +9,7 @@ set-desktop-background-accept =
 open-desktop-prefs =
     .label = Pfula minhlawulo ya desikithopo
 set-desktop-background-downloading =
-    .label = Ku hlayisa xifaniso...
+    .label = Ku hlayisa xifaniso…
 # Name of the file that will be used as the desktop background. The
 # extension ".bmp" is added by the system.
 set-desktop-background-filename = Desktop Background

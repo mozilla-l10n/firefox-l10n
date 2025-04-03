@@ -9,7 +9,7 @@ set-desktop-background-accept =
 open-desktop-prefs =
     .label = פתיחת מאפייני שולחן עבודה
 set-desktop-background-downloading =
-    .label = שומר תמונה...
+    .label = שומר תמונה…
 set-background-preview-unavailable = התצוגה המקדימה אינה זמינה
 # Name of the file that will be used as the desktop background. The
 # extension ".bmp" is added by the system.

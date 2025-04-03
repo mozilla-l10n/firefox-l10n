@@ -9,7 +9,7 @@ set-desktop-background-accept =
 open-desktop-prefs =
     .label = Vulani Zwitakalelwa zwa Desikethopho
 set-desktop-background-downloading =
-    .label = I Khou Vhulunga Tshinepe...
+    .label = I Khou Vhulunga Tshinepe…
 # Name of the file that will be used as the desktop background. The
 # extension ".bmp" is added by the system.
 set-desktop-background-filename = Desktop Background

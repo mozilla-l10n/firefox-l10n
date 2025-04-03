@@ -9,7 +9,7 @@ set-desktop-background-accept =
 open-desktop-prefs =
     .label = डेस्कटॉप वरीयता खोलें
 set-desktop-background-downloading =
-    .label = चित्र सहेज रहा है...
+    .label = चित्र सहेज रहा है…
 set-background-preview-unavailable = पूर्वावलोकन अनुपलब्ध
 # Name of the file that will be used as the desktop background. The
 # extension ".bmp" is added by the system.

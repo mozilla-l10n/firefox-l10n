@@ -9,7 +9,7 @@ set-desktop-background-accept =
 open-desktop-prefs =
     .label = Attaiseit dorbviersmys īstatiejumus
 set-desktop-background-downloading =
-    .label = Sagloboj attālu...
+    .label = Sagloboj attālu…
 # Name of the file that will be used as the desktop background. The
 # extension ".bmp" is added by the system.
 set-desktop-background-filename = Dorbviersmys fons

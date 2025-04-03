@@ -9,7 +9,7 @@ set-desktop-background-accept =
 open-desktop-prefs =
     .label = डेस्कटप पसन्दफोरखौ खेव
 set-desktop-background-downloading =
-    .label = सावगारिखौ थिना दोनगासिनो दङ...
+    .label = सावगारिखौ थिना दोनगासिनो दङ…
 # Name of the file that will be used as the desktop background. The
 # extension ".bmp" is added by the system.
 set-desktop-background-filename = डेस्कटप Background

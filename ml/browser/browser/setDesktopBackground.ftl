@@ -9,7 +9,7 @@ set-desktop-background-accept =
 open-desktop-prefs =
     .label = ഉപരിഫലക  മുന്‍ഗണനകള്‍ തുറക്കുക
 set-desktop-background-downloading =
-    .label = ചിത്രം സൂക്ഷിച്ചുകൊണ്ടിരിക്കുന്നു...
+    .label = ചിത്രം സൂക്ഷിച്ചുകൊണ്ടിരിക്കുന്നു…
 set-background-preview-unavailable = മുൻക്കാഴ്ച ലഭ്യമല്ല
 # Name of the file that will be used as the desktop background. The
 # extension ".bmp" is added by the system.

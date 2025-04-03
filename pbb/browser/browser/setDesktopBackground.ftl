@@ -3,4 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 set-desktop-background-downloading =
-    .label = Piisanxi's jxawna...
+    .label = Piisanxi's jxawna…

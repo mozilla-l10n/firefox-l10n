@@ -9,7 +9,7 @@ set-desktop-background-accept =
 open-desktop-prefs =
     .label = هەڵبژاردنەکانی ڕوومێز بکەرەوە
 set-desktop-background-downloading =
-    .label = پاشکەوتکردنی وێنە...
+    .label = پاشکەوتکردنی وێنە…
 set-background-preview-unavailable = پێشبینین بەردەست نیە
 # Name of the file that will be used as the desktop background. The
 # extension ".bmp" is added by the system.

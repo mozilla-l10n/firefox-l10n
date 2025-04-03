@@ -9,7 +9,7 @@ set-desktop-background-accept =
 open-desktop-prefs =
     .label = Туруорууларын арый
 set-desktop-background-downloading =
-    .label = Ойууну бигэргэтии...
+    .label = Ойууну бигэргэтии…
 # Name of the file that will be used as the desktop background. The
 # extension ".bmp" is added by the system.
 set-desktop-background-filename = Desktop Background

@@ -9,7 +9,7 @@ set-desktop-background-accept =
 open-desktop-prefs =
     .label = Atvērt darbvirsmas iestatījumus
 set-desktop-background-downloading =
-    .label = Saglabā attēlu...
+    .label = Saglabā attēlu…
 set-background-preview-unavailable = Priekšskatījums nav pieejams
 # Name of the file that will be used as the desktop background. The
 # extension ".bmp" is added by the system.

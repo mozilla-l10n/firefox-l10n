@@ -9,10 +9,10 @@ set-desktop-background-accept =
 open-desktop-prefs =
     .label = စားပွဲတင် ဦးစားပေးအချက်များ ဖွင့်ပါ
 set-desktop-background-downloading =
-    .label = ရုပ်ပုံ သိမ်းဆည်းနေဆဲ...
+    .label = ရုပ်ပုံ သိမ်းဆည်းနေဆဲ…
 # Name of the file that will be used as the desktop background. The
 # extension ".bmp" is added by the system.
-set-desktop-background-filename = စားပွဲတင် နောက်ခံ{ " " }
+set-desktop-background-filename = စားပွဲတင် နောက်ခံ
 set-background-color = အရောင်-
 set-background-position = တည်နေရာ၊
 set-background-tile =
