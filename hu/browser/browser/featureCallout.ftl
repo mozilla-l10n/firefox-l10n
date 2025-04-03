@@ -17,10 +17,10 @@ callout-firefox-view-recently-closed-title = Állítsa vissza a bezárt lapjait 
 callout-firefox-view-recently-closed-subtitle = Az összes bezárt lapja varázsütésre megjelenik itt. Sose aggódjon, ha véletlenül bezár egy webhelyet.
 callout-firefox-view-colorways-title = Adjon hozzá egy kis színt
 # "Shade" refer to different color options in each colorway.
-callout-firefox-view-colorways-subtitle = Válasszon egy Önhöz passzoló színvilágot. Csak a { -brand-product-name(case: "inessive") }.
+callout-firefox-view-colorways-subtitle = Válasszon egy Önhöz passzoló színvilágot. Csak a { -brand-product-name }ban.
 callout-firefox-view-colorways-reminder-title = Fedezze fel a legújabb színvilágainkat
 # “Shades” refers to the different color options in each colorways
-callout-firefox-view-colorways-reminder-subtitle = Színezze böngészőjét ezekkel az ikonikus árnyalatokkal, amelyeket független hangok ihlettek. Csak a { -brand-product-name(case: "inessive") }.
+callout-firefox-view-colorways-reminder-subtitle = Színezze böngészőjét ezekkel az ikonikus árnyalatokkal, amelyeket független hangok ihlettek. Csak a { -brand-product-name }ban.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 

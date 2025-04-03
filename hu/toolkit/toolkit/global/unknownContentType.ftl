@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 unknowncontenttype-handleinternally =
-    .label = Megnyitás a { -brand-short-name(case: "instrumental") }
+    .label = Megnyitás a { -brand-short-name }szal
     .accesskey = M
 unknowncontenttype-settingschange =
     .value =

@@ -36,17 +36,17 @@ firefoxview-syncedtabs-signin-header-2 = A { -brand-product-name } az összes es
 firefoxview-syncedtabs-signin-description-2 = Ha szeretné megtekinteni a telefonján és más eszközein megnyitott lapokat, jelentkezzen be, vagy hozzon létre egy fiókot. Egy fiókkal a jelszavait, előzményeit és egyebeket is szinkronizálhatja.
 firefoxview-syncedtabs-signin-primarybutton-2 = Bejelentkezés
 firefoxview-syncedtabs-signin-header = Vegye át a lapokat bárhonnan
-firefoxview-syncedtabs-signin-description = Hogy mindenhol lássa a lapjait, ahol a { -brand-product-name(case: "accusative") } használja. Ha nincs még fiókja, akkor végigvezetjük a regisztráció lépésein.
+firefoxview-syncedtabs-signin-description = Hogy mindenhol lássa a lapjait, ahol a { -brand-product-name }ot használja. Ha nincs még fiókja, akkor végigvezetjük a regisztráció lépésein.
 firefoxview-syncedtabs-signin-primarybutton = Jelentkezzen be vagy regisztráljon
-firefoxview-tabpickup-adddevice-header = Szinkronizálja a telefonján vagy a táblagépén lévő { -brand-product-name(case: "accusative") }
-firefoxview-tabpickup-adddevice-description = Töltse le a mobilos { -brand-product-name(case: "accusative") }, és jelentkezzen be.
+firefoxview-tabpickup-adddevice-header = Szinkronizálja a telefonján vagy a táblagépén lévő { -brand-product-name }ot
+firefoxview-tabpickup-adddevice-description = Töltse le a mobilos { -brand-product-name }ot, és jelentkezzen be.
 firefoxview-tabpickup-adddevice-learn-how = Tudja meg hogyan
-firefoxview-tabpickup-adddevice-primarybutton = Szerezze be a mobilos { -brand-product-name(case: "accusative") }
+firefoxview-tabpickup-adddevice-primarybutton = Szerezze be a mobilos { -brand-product-name }ot
 firefoxview-syncedtabs-adddevice-header-2 = Vegye át a lapokat bárhonnan
-firefoxview-syncedtabs-adddevice-description-2 = Jelentkezzen be a { -brand-product-name(case: "illative") } a telefonján vagy egy másik számítógépén, hogy itt jelenjenek meg a lapok. Ismerje meg, hogyan <a data-l10n-name="url">csatlakoztasson további eszközöket</a>.
-firefoxview-syncedtabs-adddevice-header = Jelentkezzen be a { -brand-product-name(case: "illative") } a többi eszközén
-firefoxview-syncedtabs-adddevice-description = Hogy lássa a lapjait, bárhol is használja a { -brand-product-name(case: "accusative") }, jelentkezzen be az összes eszközén. Ismerje meg, hogyan <a data-l10n-name="url">további eszközöket csatlakoztatni</a>.
-firefoxview-syncedtabs-adddevice-primarybutton = Próbálja ki a mobilos { -brand-product-name(case: "accusative") }
+firefoxview-syncedtabs-adddevice-description-2 = Jelentkezzen be a { -brand-product-name }be a telefonján vagy egy másik számítógépén, hogy itt jelenjenek meg a lapok. Ismerje meg, hogyan <a data-l10n-name="url">csatlakoztasson további eszközöket</a>.
+firefoxview-syncedtabs-adddevice-header = Jelentkezzen be a { -brand-product-name }ba a többi eszközén
+firefoxview-syncedtabs-adddevice-description = Hogy lássa a lapjait, bárhol is használja a { -brand-product-name }ot, jelentkezzen be az összes eszközén. Ismerje meg, hogyan <a data-l10n-name="url">további eszközöket csatlakoztatni</a>.
+firefoxview-syncedtabs-adddevice-primarybutton = Próbálja ki a mobilos { -brand-product-name }ot
 firefoxview-tabpickup-synctabs-header = Lapszinkronizálás bekapcsolása
 firefoxview-tabpickup-synctabs-description = Engedélyezés, hogy a { -brand-short-name } lapokat osszon meg az eszközök között
 firefoxview-tabpickup-synctabs-learn-how = Tudja meg hogyan
@@ -79,8 +79,8 @@ firefoxview-tabpickup-signed-out-description2 = Az újbóli csatlakozáshoz és 
 firefoxview-tabpickup-signed-out-primarybutton = Bejelentkezés
 firefoxview-tabpickup-syncing = Várjon amíg a lapjai szinkronizálódnak. Csak egy pillanat lesz.
 firefoxview-mobile-promo-header = Vegye át a lapjait a telefonjáról vagy táblagépéről
-firefoxview-mobile-promo-description = A legújabb mobillapok megtekintéséhez jelentkezzen be a { -brand-product-name(case: "illative") } iOS-en vagy Androidon.
-firefoxview-mobile-promo-primarybutton = Szerezze be a mobilos { -brand-product-name(case: "accusative") }
+firefoxview-mobile-promo-description = A legújabb mobillapok megtekintéséhez jelentkezzen be a { -brand-product-name }be iOS-en vagy Androidon.
+firefoxview-mobile-promo-primarybutton = Szerezze be a mobilos { -brand-product-name }ot
 firefoxview-mobile-confirmation-header = 🎉 Kész is van.
 firefoxview-mobile-confirmation-description = Most már átveheti a { -brand-product-name } lapjait a táblagépéről vagy telefonjáról.
 firefoxview-closed-tabs-title = Nemrég bezárt
@@ -105,7 +105,7 @@ firefoxview-change-colorway-button = Színvilág módosítása
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder-header = Még nincs semmi látnivaló
-firefoxview-synced-tabs-placeholder-body = Amikor legközelebb megnyit egy oldalt a { -brand-product-name(case: "inessive") } egy másik eszközön, akkor itt varázsütésre megtalálja.
+firefoxview-synced-tabs-placeholder-body = Amikor legközelebb megnyit egy oldalt a { -brand-product-name }ban egy másik eszközön, akkor itt varázsütésre megtalálja.
 firefoxview-collapse-button-show =
     .title = Lista megjelenítése
 firefoxview-collapse-button-hide =

@@ -39,8 +39,8 @@ pocket-panel-signup-login = Bejelentkezés
 pocket-panel-signup-signup-email = Regisztráció e-maillel
 pocket-panel-signup-signup-cta = Regisztráljon ingyenesen a { -pocket-brand-name }re.
 pocket-panel-signup-signup-firefox = { -brand-product-name } bejelentkezés
-pocket-panel-signup-tagline = Mentsen cikkeket és videókat a { -brand-product-name(case: "elative") } a { -pocket-brand-name }en való megtekintéshez bármely eszközön, bármikor.
-pocket-panel-signup-tagline-story-one = Kattintson a { -pocket-brand-name } gombra bármely cikk, videó vagy oldal mentéséhez a { -brand-product-name(case: "elative") }.
+pocket-panel-signup-tagline = Mentsen cikkeket és videókat a { -brand-product-name }ból a { -pocket-brand-name }en való megtekintéshez bármely eszközön, bármikor.
+pocket-panel-signup-tagline-story-one = Kattintson a { -pocket-brand-name } gombra bármely cikk, videó vagy oldal mentéséhez a { -brand-product-name }ból.
 pocket-panel-signup-tagline-story-two = Nézze meg a { -pocket-brand-name }en bármely eszközön, bármikor.
 pocket-panel-signup-cta-a-fix = A mentés gombja az internethez
 pocket-panel-signup-cta-b-updated = Kattintson a { -pocket-brand-name } gombra a cikkek, videók és hivatkozások mentéséhez. Tekintse meg a mentéseit bármilyen eszközön, bármikor.
@@ -67,5 +67,5 @@ pocket-panel-header-sign-in = Bejelentkezés
 ## Pocket panel buttons
 
 pocket-panel-button-show-all = Összes megjelenítése
-pocket-panel-button-activate = A { -pocket-brand-name } aktiválása a { -brand-product-name(case: "inessive") }
+pocket-panel-button-activate = A { -pocket-brand-name } aktiválása a { -brand-product-name }ban
 pocket-panel-button-remove = Eltávolítás

@@ -240,14 +240,14 @@ fxa-sync-cfr-secondary = Figyelmeztetés később
 device-migration-fxa-spotlight-heavy-user-header = Ne felejtsen el biztonsági mentést készíteni az adatairól
 device-migration-fxa-spotlight-heavy-user-body = Győződjön meg arról, hogy a fontos információk – mint a könyvjelzők és jelszavak – legyenek naprakészek és védettek az összes eszközén.
 device-migration-fxa-spotlight-heavy-user-primary-button = Első lépések
-device-migration-fxa-spotlight-older-device-header = Nyugalom, a { -brand-product-name(case: "ablative") }
+device-migration-fxa-spotlight-older-device-header = Nyugalom, a { -brand-product-name }tól
 device-migration-fxa-spotlight-older-device-body = Egy fiók naprakészen tartja a fontos információit, és védi őket az összes csatlakoztatott eszközén.
 device-migration-fxa-spotlight-older-device-primary-button = Fiók létrehozása
 device-migration-fxa-spotlight-getting-new-device-header-2 = Új eszköz a jövőben?
 device-migration-fxa-spotlight-getting-new-device-body-2 = Kövessen néhány egyszerű lépést, hogy magával vigye a könyvjelzőit, előzményeit és jelszavait, amikor új eszközt kezd használni.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Hogyan kell biztonsági mentést készíteni az adatokról
 device-migration-fxa-spotlight-sync-header = Böngésszen zökkenőmentesen
-device-migration-fxa-spotlight-sync-body = Szinkronizálja az összes fontos adatát titkosítással – például a könyvjelzőket és a jelszavakat. Bárhol elér mindent, ahol a { -brand-product-name(case: "accusative") } használja.
+device-migration-fxa-spotlight-sync-body = Szinkronizálja az összes fontos adatát titkosítással – például a könyvjelzőket és a jelszavakat. Bárhol elér mindent, ahol a { -brand-product-name }ot használja.
 device-migration-fxa-spotlight-sync-primary-button = Kezdő lépések
 
 ## Set as Default PDF Reader Infobar

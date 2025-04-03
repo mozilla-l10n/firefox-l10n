@@ -17,7 +17,7 @@ profile-selection-rename-button =
 profile-selection-delete-button =
     .label = Profil törlése…
     .accesskey = t
-profile-selection-conflict-message = A { -brand-product-name } egy másik példánya módosította a profilokat. A további változtatások előtt újra kell indítania a { -brand-short-name(case: "accusative") }.
+profile-selection-conflict-message = A { -brand-product-name } egy másik példánya módosította a profilokat. A további változtatások előtt újra kell indítania a { -brand-short-name }ot.
 
 ## Messages used in the profile manager
 

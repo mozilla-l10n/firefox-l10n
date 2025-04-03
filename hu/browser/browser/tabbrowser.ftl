@@ -121,11 +121,11 @@ tabbrowser-confirm-close-tabs-with-key-checkbox = Megerősítés a { $quitKey }b
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
 
-tabbrowser-confirm-close-warn-shortcut-title = Kilép a { -brand-short-name(case: "elative") } vagy bezárja a jelenlegi lapot?
+tabbrowser-confirm-close-warn-shortcut-title = Kilép a { -brand-short-name }ból vagy bezárja a jelenlegi lapot?
 tabbrowser-confirm-close-windows-warn-shortcut-button =
     { PLATFORM() ->
-        [windows] Kilépés a { -brand-short-name(case: "elative") }
-       *[other] Kilépés a { -brand-short-name(case: "elative") }
+        [windows] Kilépés a { -brand-short-name }ból
+       *[other] Kilépés a { -brand-short-name }ból
     }
 tabbrowser-confirm-close-tab-only-button = Jelenlegi lap bezárása
 

@@ -7,8 +7,6 @@ about-logins-page-title = Bejelentkezések és jelszavak
 about-logins-login-filter =
     .placeholder = Bejelentkezések keresése
     .key = F
-create-new-login-button =
-    .title = Új bejelentkezés létrehozása
 about-logins-page-title-name = Jelszavak
 about-logins-login-filter2 =
     .placeholder = Jelszavak keresése
@@ -82,7 +80,7 @@ login-list-last-changed-option = Legutóbbi módosítás
 login-list-last-used-option = Legutóbbi használat
 login-list-intro-title = Nincsenek bejelentkezések
 login-list-intro-title2 = Nincsenek mentett jelszavak
-login-list-intro-description = Ha elment egy jelszót a { -brand-product-name(case: "inessive") }, akkor az itt fog megjelenni.
+login-list-intro-description = Ha elment egy jelszót a { -brand-product-name }ban, akkor az itt fog megjelenni.
 about-logins-login-list-empty-search-title = Nincsenek bejelentkezések
 about-logins-login-list-empty-search-title2 = Nem találhatók jelszavak
 about-logins-login-list-empty-search-description = Nincs találat, amely megfelel a keresésnek.
@@ -105,15 +103,15 @@ about-logins-list-section-week = Elmúlt 7 nap
 
 about-logins-login-intro-heading-logged-out2 = A mentett bejelentkezéseit keresi? Kapcsolja be a szinkronizálást vagy importálja őket.
 about-logins-login-intro-heading-logged-in = Nem található szinkronizált bejelentkezés.
-login-intro-description = Ha egy másik eszközön mentette a bejelentkezéseit a { -brand-product-name(case: "illative") }, akkor így érheti el őket itt:
+login-intro-description = Ha egy másik eszközön mentette a bejelentkezéseit a { -brand-product-name }ban, akkor így érheti el őket itt:
 login-intro-instructions-fxa = Hozzon létre egyet, vagy jelentkezzen be a { -fxaccount-brand-name }jába azon az eszközön, amelyen a bejelentkezéseit menti
 about-logins-login-intro-heading-message = Mentse a jelszavait biztonságos helyre
-login-intro-description2 = A { -brand-product-name(case: "illative") } mentett összes jelszó titkosítva van. Továbbá figyelünk az adatvédelmi incidensekre, és értesítjük, ha érintett egyben. <a data-l10n-name="breach-alert-link">További tudnivalók</a>
+login-intro-description2 = A { -brand-product-name }ba mentett összes jelszó titkosítva van. Továbbá figyelünk az adatvédelmi incidensekre, és értesítjük, ha érintett egyben. <a data-l10n-name="breach-alert-link">További tudnivalók</a>
 login-intro-instructions-fxa2 = Hozzon létre egyet, vagy jelentkezzen be a fiókjába azon az eszközön, amelyen a bejelentkezéseit menti.
 login-intro-instructions-fxa-settings = Válassza a Beállítások > Szinkronizálás > Szinkronizálás bekapcsolása… lehetőséget. Jelölje be a Bejelentkezések és jelszavak jelölőnégyzetet.
 login-intro-instructions-fxa-passwords-help = További segítségért keresse fel a <a data-l10n-name="passwords-help-link">jelszavak támogatását</a>.
-about-logins-intro-browser-only-import = Ha bejelentkezéseit egy másik böngészőben mentette el, <a data-l10n-name="import-link">importálhatja azokat a { -brand-product-name(case: "illative") }</a>
-about-logins-intro-import2 = Ha a bejelentkezéseit a { -brand-product-name(case: "superessive") } kívül mentette, akkor <a data-l10n-name="import-browser-link">importálhatja őket egy másik böngészőből</a> vagy <a data-l10n-name="import-file-link">egy fájlból</a>
+about-logins-intro-browser-only-import = Ha bejelentkezéseit egy másik böngészőben mentette el, <a data-l10n-name="import-link">importálhatja azokat a { -brand-product-name }ba</a>
+about-logins-intro-import2 = Ha a bejelentkezéseit a { -brand-product-name }on kívül mentette, akkor <a data-l10n-name="import-browser-link">importálhatja őket egy másik böngészőből</a> vagy <a data-l10n-name="import-file-link">egy fájlból</a>create-new-login-button =
 about-logins-intro-import3 = Válassza a plusz jelet a jelszó hozzáadásához most. Továbbá <a data-l10n-name="import-browser-link">importálhatja is őket egy másik böngészőből</a> vagy <a data-l10n-name="import-file-link">egy fájlból</a>
 
 ## Login
