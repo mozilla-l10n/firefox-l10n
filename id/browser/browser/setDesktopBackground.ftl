@@ -8,7 +8,12 @@ set-desktop-background-accept =
     .label = Jadikan sebagai Latar Belakang Desktop
 open-desktop-prefs =
     .label = Buka Pengaturan Desktop
+set-desktop-background-downloading =
+    .label = Menyimpan Gambar…
 set-background-preview-unavailable = Pratinjau tidak tersedia
+# Name of the file that will be used as the desktop background. The
+# extension ".bmp" is added by the system.
+set-desktop-background-filename = Gambar Latar Belakang Desktop
 # This refers to the wallpaper "spanning" multiple monitors when the
 # user has more than one. Only some of the entire image will be on
 # each monitor. This should ideally match the wording in Windows' own
