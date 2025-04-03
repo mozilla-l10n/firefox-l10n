@@ -306,6 +306,9 @@ shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Pilih tombol bilah
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-title = Pemeriksa Ulasan yang sama, posisi baru
+shopping-integrated-new-position-notification-move-right-subtitle = Simpan Pemeriksa Ulasan dan bilah samping { -brand-product-name } lainnya di sini — atau pindahkan ke kanan. Beralih sekarang atau kapan saja di <a data-l10n-name="sidebar_settings">pengaturan bilah samping</a>.
+shopping-integrated-new-position-notification-move-left-subtitle = Simpan Pemeriksa Ulasan dan bilah samping { -brand-product-name } lainnya di sini — atau pindahkan ke kiri. Beralih sekarang atau kapan saja di <a data-l10n-name="sidebar_settings">pengaturan bilah samping</a>.
 shopping-integrated-new-position-notification-move-right-button = Pindahkan ke kanan
 shopping-integrated-new-position-notification-move-left-button = Pindahkan ke kiri
 shopping-integrated-new-position-notification-dismiss-button = Mengerti
