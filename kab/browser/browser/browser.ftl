@@ -270,6 +270,9 @@ quickactions-cmd-addons2 = Izegrar
 quickactions-bookmarks2 = Sefrek ticraḍ n yisebtar
 quickactions-cmd-bookmarks = ticraḍ n isebtar
 # Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Sfeḍ azray-ik n melmi kan
+quickactions-cmd-clearrecenthistory = sfeḍ azray-ik n melmi kan
+# Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Sfeḍ azray
 quickactions-cmd-clearhistory = Sfeḍ azray
 # Opens about:downloads page
@@ -278,6 +281,8 @@ quickactions-cmd-downloads = isadaren
 # Opens about:addons page in the extensions section
 quickactions-extensions = Sefrek isiɣzaf
 quickactions-cmd-extensions = Isiɣzaf
+# Opens Firefox View
+quickactions-firefoxview = Mdel { -firefoxview-brand-name }
 # Opens the devtools web inspector
 quickactions-inspector2 = Ldi ifecka n tneflit
 quickactions-cmd-inspector = amaswaḍ, devtools
@@ -615,6 +620,23 @@ urlbar-result-action-copy-to-clipboard = Nɣel
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
+# Shows the result of a formula expression being calculated, in scientific notation.
+# The last = sign will be shown as part of the result (e.g. "= 1.0e17").
+# Variables
+#  $result (String): the string representation for a result in scientific notation
+#  (e.g. "1.0e17").
+urlbar-result-action-calculator-result-scientific-notation = = { $result }
+# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
+# The last = sign will be shown as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "false", maximumFractionDigits: 8) }
+# Shows the result of a formula expression being calculated, to a maximum of 9 significant
+# digits. This is used for numbers < 1.
+# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 
 ## Strings used for buttons in the urlbar
 

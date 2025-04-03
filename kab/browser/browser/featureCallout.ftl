@@ -67,12 +67,17 @@ split-dismiss-button-manage-settings-option =
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-cta-button = Ԑreḍ accaren d ubdiden
+vertical-tabs-callout-2-cta-button = Ԑreḍ tura
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-cta-button = Rzi iccer
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-callout-button = Sagen afeggag adigan
+sidebar-customization-callout-dismiss-button = Ffer afeggag adisan
 
 ## Sidebar Callout Survey Strings
 
@@ -90,3 +95,5 @@ sidebar-callout-survey-strongly-disagree = Ur qbileɣ ara aṭas
 sidebar-callout-survey-none-of-above = Ula d yiwen seg yisumar-a
 sidebar-callout-survey-submit = Azen
 sidebar-callout-survey-thank-you = Tanemmirt ɣef tekti-ik!
+unified-search-callout-primary-label = Ɣer zdat
+unified-search-callout-secondary-label = Zgel
