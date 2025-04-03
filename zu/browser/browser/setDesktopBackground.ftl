@@ -8,6 +8,8 @@ set-desktop-background-accept =
     .label = Hlela Ingemuva Le-Desktop
 open-desktop-prefs =
     .label = Vula Okukhethiwe Kwendlela Ezobukeka Ngyo
+set-desktop-background-downloading =
+    .label = Isithombe Sokulondoloza…
 # Name of the file that will be used as the desktop background. The
 # extension ".bmp" is added by the system.
 set-desktop-background-filename = Indlela Yokubukeka Kwe-Desktop
