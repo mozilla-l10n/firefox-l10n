@@ -520,4 +520,6 @@ newtab-section-mangage-topics-followed-topics-empty-state = Anda belum mengikuti
 newtab-section-mangage-topics-blocked-topics = Diblokir
 newtab-section-mangage-topics-blocked-topics-empty-state = Anda belum memblokir topik apa pun.
 newtab-custom-wallpaper-title = Wallpaper kustom ada di sini
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle = Unggah wallpaper sendiri atau pilih warna kustom untuk menjadikan { -brand-product-name } lebih personal.
 newtab-custom-wallpaper-cta = Coba sekarang

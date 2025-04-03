@@ -333,6 +333,7 @@ quickactions-bookmarks2 = Kelola markah
 quickactions-cmd-bookmarks = markah
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Bersihkan riwayat terakhir
+quickactions-cmd-clearrecenthistory = bersihkan riwayat terkini, riwayat
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Bersihkan Riwayat
 quickactions-cmd-clearhistory = bersihkan riwayat
@@ -344,8 +345,13 @@ quickactions-extensions = Kelola ekstensi
 quickactions-cmd-extensions = ekstensi
 # Opens Firefox View
 quickactions-firefoxview = Buka { -firefoxview-brand-name }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = buka { -firefoxview-brand-name }, { -firefoxview-brand-name }, buka tampilan, lihat
 # Opens SUMO home page
 quickactions-help = Bantuan { -brand-product-name }
+quickactions-cmd-help = bantuan, dukungan
 # Opens the devtools web inspector
 quickactions-inspector2 = Buka Perangkat Pengembang
 quickactions-cmd-inspector = inspektur, perangkat pengembang
