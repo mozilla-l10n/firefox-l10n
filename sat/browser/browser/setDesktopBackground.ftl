@@ -8,7 +8,12 @@ set-desktop-background-accept =
     .label = ᱰᱮᱥᱠᱴᱚᱯ ᱚᱱᱚᱞ ᱥᱟᱡᱟᱣ ᱢᱮ
 open-desktop-prefs =
     .label = ᱰᱮᱥᱠᱴᱚᱯ ᱠᱩᱥᱤᱭᱟᱜ ᱠᱚ ᱡᱷᱤᱡᱽ ᱢᱮ
+set-desktop-background-downloading =
+    .label = ᱪᱤᱛᱟᱹᱨ ᱥᱟᱧᱪᱟᱣᱜᱼᱟ…
 set-background-preview-unavailable = ᱧᱮᱧᱮᱞ ᱵᱟᱹᱱᱩᱜᱼᱟ
+# Name of the file that will be used as the desktop background. The
+# extension ".bmp" is added by the system.
+set-desktop-background-filename = ᱰᱮᱥᱠᱴᱚᱯ Background
 # This refers to the wallpaper "spanning" multiple monitors when the
 # user has more than one. Only some of the entire image will be on
 # each monitor. This should ideally match the wording in Windows' own
