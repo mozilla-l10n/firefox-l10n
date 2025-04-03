@@ -97,3 +97,4 @@ sidebar-callout-survey-submit = Azen
 sidebar-callout-survey-thank-you = Tanemmirt ɣef tekti-ik!
 unified-search-callout-primary-label = Ɣer zdat
 unified-search-callout-secondary-label = Zgel
+unified-search-engines-callout-primary-label = Awi-t
