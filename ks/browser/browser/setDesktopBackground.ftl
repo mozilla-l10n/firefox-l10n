@@ -8,6 +8,11 @@ set-desktop-background-accept =
     .label = ڈیسكٹاپ پس۪ی منظر كریو سيٹ
 open-desktop-prefs =
     .label = ڈیسْک ٹاپ ترجیحات کْریو اوپْن
+set-desktop-background-downloading =
+    .label = شكل محفوظ تھَوان
+# Name of the file that will be used as the desktop background. The
+# extension ".bmp" is added by the system.
+set-desktop-background-filename = ڈیسكٹاپ پس۪ی منظر
 set-background-color = رنگ:
 set-background-position = جاے:
 set-background-tile =

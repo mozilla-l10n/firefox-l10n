@@ -8,6 +8,11 @@ set-desktop-background-accept =
     .label = Inpòsta comme Sfondo do Desktop
 open-desktop-prefs =
     .label = Arvi preferense do Desktop
+set-desktop-background-downloading =
+    .label = Son apreuvo a sarvâ l'inmagine…
+# Name of the file that will be used as the desktop background. The
+# extension ".bmp" is added by the system.
+set-desktop-background-filename = Sfondo do desktop
 # This refers to the wallpaper "spanning" multiple monitors when the
 # user has more than one. Only some of the entire image will be on
 # each monitor. This should ideally match the wording in Windows' own

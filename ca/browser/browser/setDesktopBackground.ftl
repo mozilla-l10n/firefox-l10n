@@ -8,7 +8,12 @@ set-desktop-background-accept =
     .label = Defineix com a fons d'escriptori
 open-desktop-prefs =
     .label = Obre les preferències de l'escriptori
+set-desktop-background-downloading =
+    .label = S'està desant la imatge…
 set-background-preview-unavailable = La previsualització no està disponible
+# Name of the file that will be used as the desktop background. The
+# extension ".bmp" is added by the system.
+set-desktop-background-filename = Fons escriptori
 # This refers to the wallpaper "spanning" multiple monitors when the
 # user has more than one. Only some of the entire image will be on
 # each monitor. This should ideally match the wording in Windows' own

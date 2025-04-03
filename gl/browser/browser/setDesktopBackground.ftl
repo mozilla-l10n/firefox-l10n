@@ -8,7 +8,12 @@ set-desktop-background-accept =
     .label = Estabelecer como fondo de pantalla
 open-desktop-prefs =
     .label = Abrir as preferencias do escritorio
+set-desktop-background-downloading =
+    .label = Gardando imaxe…
 set-background-preview-unavailable = A vista previa non está dispoñible
+# Name of the file that will be used as the desktop background. The
+# extension ".bmp" is added by the system.
+set-desktop-background-filename = Fondo do escritorio
 # This refers to the wallpaper "spanning" multiple monitors when the
 # user has more than one. Only some of the entire image will be on
 # each monitor. This should ideally match the wording in Windows' own

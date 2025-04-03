@@ -4,28 +4,24 @@
 
 set-desktop-background-window =
     .title = Wekî Wêneyê Rûerdê Sermaseyê Mîheng Bike
-
 set-desktop-background-accept =
     .label = Wekî Wêneyê Rûerdê Sermaseyê Mîheng Bike
-
 open-desktop-prefs =
     .label = Vebijêrkên Sermaseyê Veke
-
+set-desktop-background-downloading =
+    .label = Wêne Tê Tomarkirin…
+# Name of the file that will be used as the desktop background. The
+# extension ".bmp" is added by the system.
+set-desktop-background-filename = Sermase Background
 set-background-color = Reng:
-
 set-background-position = Cî:
-
 set-background-tile =
     .label = Raxe
-
 set-background-center =
     .label = Navend
-
 set-background-stretch =
     .label = Fireh bike
-
 set-background-fill =
     .label = Dagire
-
 set-background-fit =
     .label = Lê bîne

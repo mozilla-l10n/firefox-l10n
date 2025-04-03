@@ -4,23 +4,17 @@
 
 set-desktop-background-window =
     .title = Hlela lingemuvalwati lebusongcondvomshini
-
 set-desktop-background-accept =
     .label = Hlela lingemuvalwati lebusongcondvomshini
-
 open-desktop-prefs =
     .label = Vula lokunconotekako kubusongcondvomshini
-
+set-desktop-background-downloading =
+    .label = Londvolota sitfombe…
 set-background-color = Umbala:
-
 set-background-position = Sikhundla:
-
 set-background-tile =
     .label = Lithayili
-
 set-background-center =
     .label = Umkhatsi
-
 set-background-stretch =
     .label = Lula
-

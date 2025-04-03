@@ -4,28 +4,24 @@
 
 set-desktop-background-window =
     .title = ডেস্কটপের পটভূমি নির্ধারণ
-
 set-desktop-background-accept =
     .label = ডেস্কটপের পটভূমি নির্ধারণ
-
 open-desktop-prefs =
     .label = ডেস্কটপ সংক্রান্ত পছন্দসমূহ
-
+set-desktop-background-downloading =
+    .label = ছবি সংরক্ষণ করা হচ্ছে…
+# Name of the file that will be used as the desktop background. The
+# extension ".bmp" is added by the system.
+set-desktop-background-filename = ডেস্কটপ Background
 set-background-color = রঙ:
-
 set-background-position = অবস্থান:
-
 set-background-tile =
     .label = টালি
-
 set-background-center =
     .label = কেন্দ্রে
-
 set-background-stretch =
     .label = প্রসারিত
-
 set-background-fill =
     .label = পূরণ করুন
-
 set-background-fit =
     .label = মানানসই

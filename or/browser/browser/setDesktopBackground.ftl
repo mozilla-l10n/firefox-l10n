@@ -8,6 +8,11 @@ set-desktop-background-accept =
     .label = ଡ଼େସ୍କଟପ ପୃଷ୍ଠଭୂମି ବିନ୍ୟାସ କରନ୍ତୁ
 open-desktop-prefs =
     .label = ଡ଼େସ୍କଟପ ପସନ୍ଦଗୁଡ଼ିକୁ ଖୋଲନ୍ତୁ
+set-desktop-background-downloading =
+    .label = ଛବି ସଂରକ୍ଷଣ କରାଯାଉଛି…
+# Name of the file that will be used as the desktop background. The
+# extension ".bmp" is added by the system.
+set-desktop-background-filename = Desktop Background
 set-background-color = ରଙ୍ଗ:
 set-background-position = ସ୍ଥିତି:
 set-background-tile =

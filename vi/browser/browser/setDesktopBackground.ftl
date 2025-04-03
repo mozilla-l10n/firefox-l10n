@@ -8,7 +8,12 @@ set-desktop-background-accept =
     .label = Đặt làm ảnh nền máy tính
 open-desktop-prefs =
     .label = Mở tùy chọn máy tính
+set-desktop-background-downloading =
+    .label = Đang lưu ảnh…
 set-background-preview-unavailable = Không có bản xem trước
+# Name of the file that will be used as the desktop background. The
+# extension ".bmp" is added by the system.
+set-desktop-background-filename = Ảnh nền
 # This refers to the wallpaper "spanning" multiple monitors when the
 # user has more than one. Only some of the entire image will be on
 # each monitor. This should ideally match the wording in Windows' own

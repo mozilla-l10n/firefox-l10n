@@ -8,7 +8,12 @@ set-desktop-background-accept =
     .label = ডেস্কটপের পটভূমি নির্ধারণ
 open-desktop-prefs =
     .label = ডেস্কটপ সংক্রান্ত পছন্দসমূহ
+set-desktop-background-downloading =
+    .label = ছবি সংরক্ষণ করা হচ্ছে…
 set-background-preview-unavailable = প্রাকদর্শন নেই
+# Name of the file that will be used as the desktop background. The
+# extension ".bmp" is added by the system.
+set-desktop-background-filename = ডেস্কটপ Background
 # This refers to the wallpaper "spanning" multiple monitors when the
 # user has more than one. Only some of the entire image will be on
 # each monitor. This should ideally match the wording in Windows' own

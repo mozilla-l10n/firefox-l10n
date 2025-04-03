@@ -8,6 +8,11 @@ set-desktop-background-accept =
     .label = Weka Mandharinyuma ya Eneokazi
 open-desktop-prefs =
     .label = Fungua Mapendeleo ya Eneo Kazi
+set-desktop-background-downloading =
+    .label = Inahifadhi Picha…
+# Name of the file that will be used as the desktop background. The
+# extension ".bmp" is added by the system.
+set-desktop-background-filename = Eneo kazi Mandharinyuma
 set-background-color = Rangi:
 set-background-position = Mahali:
 set-background-tile =

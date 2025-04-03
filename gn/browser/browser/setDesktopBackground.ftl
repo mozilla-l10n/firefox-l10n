@@ -8,7 +8,12 @@ set-desktop-background-accept =
     .label = Ta’ãnga Rechahápe g̃uarã ñemoĩ
 open-desktop-prefs =
     .label = Eike mba’erechaha erohoryvévape
+set-desktop-background-downloading =
+    .label = Ta’ãnga ñeñongatu…
 set-background-preview-unavailable = Jehecha ypy oiko’ỹva
+# Name of the file that will be used as the desktop background. The
+# extension ".bmp" is added by the system.
+set-desktop-background-filename = Mba’erechaha rugua
 # This refers to the wallpaper "spanning" multiple monitors when the
 # user has more than one. Only some of the entire image will be on
 # each monitor. This should ideally match the wording in Windows' own

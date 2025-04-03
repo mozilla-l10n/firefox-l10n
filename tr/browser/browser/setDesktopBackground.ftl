@@ -8,7 +8,12 @@ set-desktop-background-accept =
     .label = Masaüstü arka planı olarak ayarla
 open-desktop-prefs =
     .label = Masaüstü tercihlerini aç
+set-desktop-background-downloading =
+    .label = Resim kaydediliyor…
 set-background-preview-unavailable = Ön izleme kullanılamıyor
+# Name of the file that will be used as the desktop background. The
+# extension ".bmp" is added by the system.
+set-desktop-background-filename = Masaüstü Arka Planı
 # This refers to the wallpaper "spanning" multiple monitors when the
 # user has more than one. Only some of the entire image will be on
 # each monitor. This should ideally match the wording in Windows' own

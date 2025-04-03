@@ -8,6 +8,11 @@ set-desktop-background-accept =
     .label = Tetapkan Latar belakang Desktop
 open-desktop-prefs =
     .label = Buka Keutamaan Desktop
+set-desktop-background-downloading =
+    .label = Simpan Gambar…
+# Name of the file that will be used as the desktop background. The
+# extension ".bmp" is added by the system.
+set-desktop-background-filename = Desktop Background
 set-background-color = Warna:
 set-background-position = Kedudukan:
 set-background-tile =

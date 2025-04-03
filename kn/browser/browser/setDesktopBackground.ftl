@@ -8,6 +8,11 @@ set-desktop-background-accept =
     .label = ಗಣಕತೆರೆ ಹಿನ್ನಲೆಯನ್ನು ಹೊಂದಿಸು
 open-desktop-prefs =
     .label = ಗಣಕತೆರೆ ಆದ್ಯತೆಗಳನ್ನು ತೆರೆ
+set-desktop-background-downloading =
+    .label = ಚಿತ್ರವನ್ನು ಉಳಿಸಲಾಗುತ್ತಿದೆ…
+# Name of the file that will be used as the desktop background. The
+# extension ".bmp" is added by the system.
+set-desktop-background-filename = ಡೆಸ್ಕಟಾಪ್ Background
 set-background-color = ಬಣ್ಣ:
 set-background-position = ಸ್ಥಾನ:
 set-background-tile =
