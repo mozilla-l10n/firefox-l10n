@@ -103,3 +103,9 @@ genai-onboarding-lechat-price = D ilelli: amiḍan yettwasra
 
 ## Model Optin Component
 
+genai-model-optin-continue =
+    .label = Kemmel
+genai-model-optin-optout =
+    .label = Sefsex
+genai-model-optin-cancel =
+    .label = Sefsex

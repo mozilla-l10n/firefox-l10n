@@ -114,6 +114,9 @@ newtab-menu-delete-pocket = Kkes si { -pocket-brand-name }
 newtab-menu-archive-pocket = Ḥrez di { -pocket-brand-name }
 newtab-menu-show-privacy-info = Wid yettbeddan fell-aɣ akked tudert-ik tabaḍnit
 newtab-menu-about-fakespot = Γef { -fakespot-brand-name }
+# Context menu option to personalize New Tab recommended stories by blocking a section of stories,
+# e.g. "Sports". "Block" is a verb here.
+newtab-menu-section-block = Sewḥel
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
@@ -298,6 +301,8 @@ newtab-custom-settings = Sefrek ugar n yiɣewwaṛen
 
 newtab-wallpaper-title = Tugniwin n ugilal
 newtab-wallpaper-reset = Wennez ɣer umezwer
+newtab-wallpaper-upload-image = Sali n tugna
+newtab-wallpaper-custom-color = Fren ini
 newtab-wallpaper-light-red-panda = Apunda azewwaɣ
 newtab-wallpaper-light-mountain = Adrar amellal
 newtab-wallpaper-dark-mountain = Tugna n yidurar
