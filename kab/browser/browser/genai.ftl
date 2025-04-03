@@ -20,6 +20,11 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Ssuter { $provider }
+genai-menu-remove-generic =
+    .label = Kkes AI chatbot
+# $provider (string) - name of the provider
+genai-menu-remove-provider =
+    .label = Kkes { $provider }
 genai-input-ask-generic =
     .placeholder = Ssuter deg AI chatbot…
 # $provider (string) - name of the provider
