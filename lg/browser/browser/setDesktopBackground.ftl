@@ -8,6 +8,11 @@ set-desktop-background-accept =
     .label = Teeka Obwaliriro ku Sikulini
 open-desktop-prefs =
     .label = Ggulawo Okweroboza ku Sikulini
+set-desktop-background-downloading =
+    .label = Okutereka Ebifananyi…
+# Name of the file that will be used as the desktop background. The
+# extension ".bmp" is added by the system.
+set-desktop-background-filename = Lwaliro.bmp lwa Sikulini
 set-background-color = Langi:
 set-background-position = Ekifo:
 set-background-tile =
