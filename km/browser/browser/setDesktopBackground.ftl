@@ -8,6 +8,11 @@ set-desktop-background-accept =
     .label = កំណត់​ផ្ទៃ​ខាង​ក្រោយ​របស់​​ផ្ទៃតុ
 open-desktop-prefs =
     .label = បើក​ចំណង់​ចំណូល​ចិត្ត​ផ្ទៃតុ
+set-desktop-background-downloading =
+    .label = កំពុង​រក្សាទុក​រូបភាព…
+# Name of the file that will be used as the desktop background. The
+# extension ".bmp" is added by the system.
+set-desktop-background-filename = ផ្ទៃតុ Background
 set-background-color = ពណ៌ ៖
 set-background-position = ទីតាំង ៖
 set-background-tile =
