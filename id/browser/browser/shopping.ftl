@@ -256,20 +256,42 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 # Opt-in message strings for Review Checker when it is integrated into the global sidebar.
 shopping-opt-in-integrated-headline = Belanja dengan percaya diri
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle = Aktifkan Pemeriksa Ulasan dari { -brand-product-name } untuk melihat seberapa andal ulasan produk, sebelum Anda membeli. Ini menggunakan teknologi AI untuk menganalisis ulasan dan bekerja saat Anda berbelanja di { $firstSite }, { $secondSite }, dan { $thirdSite }. <a data-l10n-name="learn_more">Pelajari lebih lanjut</a>
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle-unsupported-site = Pemeriksa Ulasan dari { -brand-product-name } membantu Anda mengetahui seberapa andal ulasan suatu produk, sebelum Anda membeli. Ini menggunakan teknologi AI untuk menganalisis ulasan dan bekerja saat Anda berbelanja di { $firstSite }, { $secondSite }, dan { $thirdSite }. <a data-l10n-name="learn_more">Pelajari lebih lanjut</a>
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-opt-in-integrated-headline = Bisakah Anda mempercayai ulasan-ulasan ini?
+# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
+shopping-callout-not-opted-in-integrated-paragraph1 = Aktifkan Pemeriksa Ulasan dari { -brand-product-name } untuk mengetahuinya. Ini didukung oleh { -fakespot-brand-full-name } dan menggunakan teknologi AI untuk menganalisis ulasan.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Tutup
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Aktifkan Pemeriksa Ulasan
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = Jangan tampilkan rekomendasi ini lagi
 shopping-callout-not-opted-in-integrated-reminder-show-fewer = Tampilkan lebih sedikit rekomendasi
 shopping-callout-not-opted-in-integrated-reminder-manage-settings = Kelola pengaturan
+shopping-opt-in-integrated-button = Coba Pemeriksa Tinjauan
 
 ## Message strings for Review Checker's empty states.
 
+shopping-empty-state-header = Siap memeriksa ulasan
+shopping-empty-state-supported-site = Lihat produk dan { -brand-product-name } akan memeriksa apakah ulasannya dapat dipercaya.
+# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
+# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
+shopping-empty-state-non-supported-site = Pemeriksa Ulasan berfungsi saat Anda berbelanja di:
 
 ## Confirm disabling Review Checker for newly opted out users
 
+shopping-integrated-callout-opted-out-title = Pemeriksa Ulasan nonaktif
 
 ## Callout for where to find Review Checker when the sidebar closes
 
@@ -278,6 +300,11 @@ shopping-callout-not-opted-in-integrated-reminder-manage-settings = Kelola penga
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-move-right-button = Pindahkan ke kanan
+shopping-integrated-new-position-notification-move-left-button = Pindahkan ke kiri
+shopping-integrated-new-position-notification-dismiss-button = Mengerti
 
 ## Combined setting for auto-open and auto-close.
 
+shopping-settings-auto-open-and-close-toggle =
+    .label = Buka dan tutup Pemeriksa Ulasan secara otomatis

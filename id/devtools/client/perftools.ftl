@@ -73,6 +73,8 @@ perftools-button-edit-settings = Edit Pengaturan…
 perftools-menu-more-actions-button =
     .title = Tindakan lainnya
 perftools-menu-more-actions-restart-with-profiling = Mulai ulang { -brand-shorter-name } dengan profil awal diaktifkan
+perftools-menu-more-actions-copy-for-startup = Salin variabel lingkungan untuk profil startup
+perftools-menu-more-actions-copy-for-perf-tests = Salin parameter untuk pengujian kinerja
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
