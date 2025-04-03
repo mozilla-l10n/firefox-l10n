@@ -51,6 +51,11 @@ browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } tunigin tusligt
+# This gets set as the initial title, and is overridden as soon as we start
+# updating the titlebar based on loaded tabs or private browsing state.
+# This should match the `data-title-default` attribute in both
+# `browser-main-window` and `browser-main-window-mac`.
+browser-main-window-default-title = { -brand-full-name }
 
 ##
 
@@ -123,6 +128,12 @@ urlbar-result-menu-remove-from-history =
 urlbar-result-menu-tip-get-help =
     .label = Awi tallalt
     .accesskey = l
+urlbar-result-menu-learn-more-about-firefox-suggest =
+    .label = Issin ugar ɣef { -firefox-suggest-brand-name }
+    .accesskey = I
+urlbar-result-menu-manage-firefox-suggest =
+    .label = Sefrek { -firefox-suggest-brand-name }
+    .accesskey = S
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.

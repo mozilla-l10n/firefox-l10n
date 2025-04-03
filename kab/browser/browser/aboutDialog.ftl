@@ -51,6 +51,8 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } ifeṣṣel-it <label data-l10n-name="community-mozillaLink">{ -vendor-short-name } </label>,agraw amaḍlan n  <label data-l10n-name="community-creditsLink">imttekkiyen </label> ad nexdem lwaḥid akken ad neǧǧ Web yeldi, d azayez, d uffran i yal yiwen.
 helpus = Tebɣiḍ tallelt? <label data-l10n-name="helpus-donateLink">Efk tawsa</label> neɣ <label data-l10n-name="helpus-getInvolvedLink">kki!</label>
 bottomLinks-license = Talɣut n turagt
+bottom-links-terms = Tiwtilin n useqdec
+bottom-links-privacy = Tasertit n tbaḍnit
 bottomLinks-rights = Izerfan n useqdac
 bottomLinks-privacy = Tasertit n tbaḍnit
 # Example of resulting string: 66.0.1 (64-bit)

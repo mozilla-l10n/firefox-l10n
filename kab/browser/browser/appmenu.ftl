@@ -280,6 +280,7 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Ffer imayl-ik d wuṭṭun n tiliɣri n tidet
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Mmesten armud-ik srid
+appmenu-services-header = Imeẓla-inu
 
 ## Profiles panel
 

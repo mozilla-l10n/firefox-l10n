@@ -18,3 +18,13 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = Mdel akk accaren i d-yettεawden
 all-tabs-menu-synced-tabs =
     .label = Iccaren seg ibenkan nniḍen
+# "Recent" refers to tab groups being sorted in recently used order. We show up
+# to five of these in this section.
+all-tabs-menu-recent-tab-groups-header = Ales alday n ugraw n waccaren
+all-tabs-menu-current-window-header = Asfaylu amiran
+# This opens the sub view listing _all_ open and saved tab groups.
+all-tabs-menu-tab-groups-show-all =
+    .label = Sken akk
+# This is header for the sub view listing _all_ open and saved tab groups.
+all-tabs-menu-tab-groups-sub-view =
+    .title = Igrawen n waccaren
