@@ -300,6 +300,7 @@ shopping-integrated-callout-opted-out-subtitle = For at aktivere funktionen igen
 
 shopping-integrated-callout-sidebar-closed-title = Vend tilbage til Verificering af anmeldelser
 shopping-integrated-callout-sidebar-closed-subtitle = Vælg prismærket i sidepanelet for at se, om du kan stole på anmeldelserne af et produkt.
+shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Klik på knappen i sidepanelet for at se, om du kan stole på anmeldelserne af et produkt.
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.

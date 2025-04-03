@@ -211,6 +211,8 @@ contextual-manager-passwords-edit-label =
 contextual-manager-passwords-remove-label =
     .title = Fjern adgangskode
 contextual-manager-passwords-origin-tooltip = Indtast den eksakte adresse, du bruger til at logge ind på dette websted.
+contextual-manager-passwords-username-tooltip = Indtast brugernavnet, mailadressen eller kontonummeret, du bruger til at logge ind.
+contextual-manager-passwords-password-tooltip = Indtast adgangskoden, du bruger til at logge ind på denne konto.
 
 ## Password Card
 
