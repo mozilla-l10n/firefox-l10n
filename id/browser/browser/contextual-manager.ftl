@@ -110,11 +110,19 @@ contextual-manager-passwords-remove-login-card-title = Hapus kata sandi?
 contextual-manager-passwords-remove-login-card-remove-button = Hapus
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Batal
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Tambahkan nama pengguna
+    .message = Tambahkan pengguna untuk masuk lebih cepat
+contextual-manager-passwords-add-username-button = Tambahkan nama pengguna
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Tambahkan sandi
+contextual-manager-passwords-edit-label =
+    .label = Edit sandi
+contextual-manager-passwords-remove-label =
+    .title = Hapus sandi
 
 ## Password Card
 

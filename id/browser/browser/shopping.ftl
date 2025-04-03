@@ -317,3 +317,13 @@ shopping-integrated-new-position-notification-dismiss-button = Mengerti
 
 shopping-settings-auto-open-and-close-toggle =
     .label = Buka dan tutup Pemeriksa Ulasan secara otomatis
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-and-close-description-three-sites = Terbuka saat Anda melihat produk di { $firstSite }, { $secondSite }, dan { $thirdSite }, dan tertutup saat Anda meninggalkan laman tersebut
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-and-close-description-single-site = Terbuka saat Anda melihat produk di { $currentSite } dan tertutup saat Anda meninggalkan laman tersebut
