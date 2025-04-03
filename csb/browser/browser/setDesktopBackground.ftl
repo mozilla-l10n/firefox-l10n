@@ -10,6 +10,9 @@ open-desktop-prefs =
     .label = Òtemkni preferencje pùltu
 set-desktop-background-downloading =
     .label = Zapisywanié òbrôzka…
+# Name of the file that will be used as the desktop background. The
+# extension ".bmp" is added by the system.
+set-desktop-background-filename = Tapéta pùltu
 set-background-color = Farwa:
 set-background-position = Pòłożenié:
 set-background-tile =
