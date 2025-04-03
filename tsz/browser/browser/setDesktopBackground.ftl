@@ -4,6 +4,8 @@
 
 open-desktop-prefs =
     .label = Nena xaranaria mitan jamani
+set-desktop-background-downloading =
+    .label = Eratikuani patsa…
 set-background-color = Atantskuecha:
 set-background-position = Nanirpera:
 set-background-tile =
