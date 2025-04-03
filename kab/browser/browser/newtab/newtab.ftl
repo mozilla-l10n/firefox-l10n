@@ -409,3 +409,4 @@ newtab-topic-selection-button-update-interests = Leqqem ismenyaf-ik
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+newtab-section-mangage-topics-blocked-topics = Iwḥel
