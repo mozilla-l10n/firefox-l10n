@@ -274,11 +274,13 @@ shopping-opt-in-integrated-subtitle-unsupported-site = Pemeriksa Ulasan dari { -
 shopping-callout-opt-in-integrated-headline = Bisakah Anda mempercayai ulasan-ulasan ini?
 # Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
 shopping-callout-not-opted-in-integrated-paragraph1 = Aktifkan Pemeriksa Ulasan dari { -brand-product-name } untuk mengetahuinya. Ini didukung oleh { -fakespot-brand-full-name } dan menggunakan teknologi AI untuk menganalisis ulasan.
+shopping-callout-not-opted-in-integrated-paragraph2 = Dengan memilih“{ shopping-opt-in-integrated-button }”, Anda menyetujui <a data-l10n-name="privacy_policy">pemberitahuan privasi</a> dari { -brand-product-name } dan <a data-l10n-name="terms_of_use">persyaratan penggunaan</a> dari { -fakespot-brand-full-name }.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Tutup
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Aktifkan Pemeriksa Ulasan
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = Jangan tampilkan rekomendasi ini lagi
 shopping-callout-not-opted-in-integrated-reminder-show-fewer = Tampilkan lebih sedikit rekomendasi
 shopping-callout-not-opted-in-integrated-reminder-manage-settings = Kelola pengaturan
+shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Pemeriksa Ulasan didukung oleh { -fakespot-brand-full-name }. Dengan memilih “{ shopping-opt-in-integrated-button }“, Anda menyetujui <a data-l10n-name="privacy_policy">pemberitahuan privasi</a> dari { -brand-product-name } dan <a data-l10n-name="terms_of_use">persyaratan penggunaan</a> dari { -fakespot-brand-name }.
 shopping-opt-in-integrated-button = Coba Pemeriksa Tinjauan
 
 ## Message strings for Review Checker's empty states.
@@ -292,9 +294,13 @@ shopping-empty-state-non-supported-site = Pemeriksa Ulasan berfungsi saat Anda b
 ## Confirm disabling Review Checker for newly opted out users
 
 shopping-integrated-callout-opted-out-title = Pemeriksa Ulasan nonaktif
+shopping-integrated-callout-opted-out-subtitle = Untuk mengaktifkannya kembali, pilih label harga di bilah samping dan aktifkan Pemeriksa Ulasan.
 
 ## Callout for where to find Review Checker when the sidebar closes
 
+shopping-integrated-callout-sidebar-closed-title = Kembali ke Pemeriksa Ulasan
+shopping-integrated-callout-sidebar-closed-subtitle = Pilih label harga di bilah samping untuk melihat apakah Anda dapat mempercayai ulasan produk.
+shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Pilih tombol bilah samping untuk melihat apakah Anda dapat mempercayai ulasan produk.
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
