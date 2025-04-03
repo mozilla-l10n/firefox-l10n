@@ -8,6 +8,11 @@ set-desktop-background-accept =
     .label = Uzlikt dorbviersmys fonu
 open-desktop-prefs =
     .label = Attaiseit dorbviersmys īstatiejumus
+set-desktop-background-downloading =
+    .label = Sagloboj attālu...
+# Name of the file that will be used as the desktop background. The
+# extension ".bmp" is added by the system.
+set-desktop-background-filename = Dorbviersmys fons
 set-background-color = Kruosa:
 set-background-position = Nūvītuojums:
 set-background-tile =
