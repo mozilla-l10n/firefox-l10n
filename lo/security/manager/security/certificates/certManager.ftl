@@ -6,6 +6,9 @@ certmgr-edit-cert-trust-ssl =
     .label = ໃບຮັບຮອງນີ້ສາມາດລະບຸເວັບໃຊ້ນີ້ໄດ້.
 certmgr-token-name =
     .label = ອຸປະກອນຄວາມປອດໄພ
+certmgr-backup =
+    .label = ສຳຮອງຂໍ້ມູນ…
+    .accesskey = B
 
 ## PKCS#12 file dialogs
 

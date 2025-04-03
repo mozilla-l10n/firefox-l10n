@@ -235,6 +235,7 @@ quickactions-firefoxview = ເປີດ { -firefoxview-brand-name }
 # "Firefox View". If you have translated the name in your language, you
 # should use a word related to the existing translation.
 quickactions-cmd-firefoxview = ເປີດ { -firefoxview-brand-name }, { -firefoxview-brand-name }, ເປີດມຸມມອງ, ເບິ່ງ
+quickactions-cmd-help = ຊ່ວຍ​ເຫຼືອ​, ສະ​ຫນັບ​ສະ​ຫນູນ​
 # Opens the devtools web inspector
 quickactions-inspector2 = ເປີດເຄື່ອງມືນັກພັດທະນາ
 quickactions-cmd-inspector = ຜູ້ກວດກາ, devtools

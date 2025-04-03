@@ -217,6 +217,7 @@ fxa-sync-cfr-secondary = ເຕືອນຂ້ອຍໃນພາຍຫຼັງ
 
 ## Device Migration FxA Spotlight
 
+device-migration-fxa-spotlight-heavy-user-header = ຢ່າລືມສໍາຮອງຂໍ້ມູນຂໍ້ມູນຂອງທ່ານ
 device-migration-fxa-spotlight-getting-new-device-header-2 = ອຸປະກອນໃຫມ່ໃນອະນາຄົດຂອງເຈົ້າບໍ?
 device-migration-fxa-spotlight-getting-new-device-primary-button = ວິ​ທີ​ການ​ສໍາ​ຮອງ​ຂໍ້​ມູນ​ຂອງ​ຂ້ອຍ
 device-migration-fxa-spotlight-sync-header = ຄົ້ນຫາໂດຍບໍ່ພາດຈັງຫວະ
@@ -257,6 +258,10 @@ fxa-menu-message-close-button =
     .aria-label = ປິດ
 fxa-menu-message-sign-up-button = ລົງ​ທະ​ບຽນ
 fxa-menu-message-sync-devices-primary-text = ຊິ້ງຂໍ້ມູນອຸປະກອນຂອງທ່ານທັງໝົດ
+fxa-menu-message-backup-data-primary-text = ສຳຮອງຂໍ້ມູນ browser ຂອງທ່ານ
+fxa-menu-message-backup-data-collapsed-text = ສຳຮອງຂໍ້ມູນ browser
+fxa-menu-message-backup-sync-secondary-text = ການຊິງຄ໌ສໍາຮອງຂໍ້ມູນສ່ວນໃຫຍ່ຂອງທ່ານເພື່ອໃຫ້ທ່ານສາມາດເຂົ້າເຖິງໄດ້ທຸກບ່ອນທີ່ທ່ານໃຊ້ { -brand-short-name }.
+fxa-menu-message-backup-sync-collapsed-text = Sync ແລະ ​ສໍາ​ຮອງ​ຂໍ້​ມູນ​
 
 ## Multi-CTA Fox Doodle Spotlight
 
