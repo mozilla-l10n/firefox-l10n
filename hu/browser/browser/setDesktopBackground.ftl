@@ -8,7 +8,12 @@ set-desktop-background-accept =
     .label = Asztalháttér beállítása
 open-desktop-prefs =
     .label = Asztal beállítóablakának megnyitása
+set-desktop-background-downloading =
+    .label = Kép mentése…
 set-background-preview-unavailable = Nem érhető el előnézet
+# Name of the file that will be used as the desktop background. The
+# extension ".bmp" is added by the system.
+set-desktop-background-filename = Asztalhatter
 # This refers to the wallpaper "spanning" multiple monitors when the
 # user has more than one. Only some of the entire image will be on
 # each monitor. This should ideally match the wording in Windows' own
