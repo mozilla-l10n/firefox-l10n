@@ -8,7 +8,12 @@ set-desktop-background-accept =
     .label = Nastavi ozadje namizja
 open-desktop-prefs =
     .label = Odpri nastavitve namizja
+set-desktop-background-downloading =
+    .label = Shranjevanje slike …
 set-background-preview-unavailable = Predogled ni na voljo
+# Name of the file that will be used as the desktop background. The
+# extension ".bmp" is added by the system.
+set-desktop-background-filename = Ozadje namizja
 # This refers to the wallpaper "spanning" multiple monitors when the
 # user has more than one. Only some of the entire image will be on
 # each monitor. This should ideally match the wording in Windows' own
