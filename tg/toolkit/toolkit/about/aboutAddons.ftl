@@ -208,6 +208,10 @@ addon-updates-manual-updates-found = Дидани навсозиҳои даст�
 
 addon-install-from-file = Насб кардани ҷузъи иловагӣ аз файл…
     .accesskey = Н
+# Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
+# pref is set.
+addon-install-or-update-from-file = Насб ё навсозӣ кардани ҷузъи иловагӣ аз файл…
+    .accesskey = Н
 addon-install-from-file-dialog-title = Ҷузъи иловагиеро барои насб интихоб намоед
 addon-install-from-file-filter-name = Ҷузъҳои иловагӣ
 addon-open-about-debugging = Ислоҳ кардани хатоҳои ҷузъи иловагӣ

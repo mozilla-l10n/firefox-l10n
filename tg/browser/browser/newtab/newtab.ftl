@@ -117,6 +117,7 @@ newtab-menu-delete-pocket = Нест кардан аз { -pocket-brand-name }
 newtab-menu-archive-pocket = Бойгонӣ кардан ба { -pocket-brand-name }
 newtab-menu-show-privacy-info = Сарпарастони мо ва махфияти шумо
 newtab-menu-about-fakespot = Дар бораи «{ -fakespot-brand-name }»
+newtab-menu-report-content = Гузориш дар бораи ин муҳтаво
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Манъ кардан
@@ -128,6 +129,7 @@ newtab-menu-section-unfollow = Бекор кардани обуна аз мав�
 
 newtab-menu-manage-sponsored-content = Идоракунии муҳтавои сарпарастӣ
 newtab-menu-our-sponsors-and-your-privacy = Сарпарастони мо ва махфияти шумо
+newtab-menu-report-this-ad = Гузориш дар бораи ин таблиғ
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 

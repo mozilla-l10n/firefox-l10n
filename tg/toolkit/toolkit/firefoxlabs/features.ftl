@@ -33,3 +33,6 @@ experimental-features-contextual-password-manager-description = Ба ҳамаи 
 experimental-features-custom-wallpaper =
     .label = Барои варақаи нав тасвири замина ё ранги дилхоҳро интихоб намоед
 experimental-features-custom-wallpaper-description = Тасвири заминаи худро бор кунед ё барои заминаи варақаи нав ранги дилхоҳро интихоб намоед.
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = Пешнамоиши пайвандҳо
