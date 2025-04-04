@@ -70,7 +70,9 @@ perftools-button-edit-settings = Upravit nastavení…
 
 perftools-menu-more-actions-button =
     .title = Více akcí
+perftools-menu-more-actions-restart-with-profiling = Restartovat { -brand-shorter-name } s povoleným profilováním při spuštění
 perftools-menu-more-actions-copy-for-startup = Kopírování proměnných prostředí pro profilování při spuštění
+perftools-menu-more-actions-copy-for-perf-tests = Kopírovat parametry pro výkonnostní testy
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 

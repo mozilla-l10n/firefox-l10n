@@ -117,6 +117,7 @@ newtab-menu-delete-pocket = Smazat z { -pocket-brand-name(case: "gen") }
 newtab-menu-archive-pocket = Archivovat do { -pocket-brand-name(case: "gen") }
 newtab-menu-show-privacy-info = Naši sponzoři a vaše soukromí
 newtab-menu-about-fakespot = Co je { -fakespot-brand-name }
+newtab-menu-report-content = Nahlásit tento obsah
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Blokovat
@@ -128,6 +129,7 @@ newtab-menu-section-unfollow = Přestat sledovat téma
 
 newtab-menu-manage-sponsored-content = Správa sponzorovaného obsahu
 newtab-menu-our-sponsors-and-your-privacy = Naši sponzoři a vaše soukromí
+newtab-menu-report-this-ad = Nahlásit tento inzerát
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -532,4 +534,10 @@ newtab-section-mangage-topics-followed-topics-empty-state = Zatím nesledujete �
 newtab-section-mangage-topics-blocked-topics = Blokováno
 newtab-section-mangage-topics-blocked-topics-empty-state = Zatím jste nezablokovali žádná témata.
 newtab-custom-wallpaper-title = Vlastní tapety jsou zde
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle =
+    { -brand-product-name.case-status ->
+        [with-cases] Nahrajte si vlastní tapetu nebo si vyberte vlastní barvu, aby { -brand-product-name } byl podle vás.
+       *[no-cases] Nahrajte si vlastní tapetu nebo si vyberte vlastní barvu, aby aplikace { -brand-product-name } byla podle vás.
+    }
 newtab-custom-wallpaper-cta = Vyzkoušejte ho
