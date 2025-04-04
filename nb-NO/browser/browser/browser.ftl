@@ -333,6 +333,7 @@ quickactions-bookmarks2 = Behandle bokmerker
 quickactions-cmd-bookmarks = bokmerker
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Tøm nylig historikk
+quickactions-cmd-clearrecenthistory = tøm nylig historikk, historikk
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Tøm historikk
 quickactions-cmd-clearhistory = tøm historikk
@@ -342,8 +343,14 @@ quickactions-cmd-downloads = nedlastinger
 # Opens about:addons page in the extensions section
 quickactions-extensions = Behandle utvidelser
 quickactions-cmd-extensions = utvidelser
+# Opens Firefox View
+quickactions-firefoxview = Åpne { -firefoxview-brand-name }
+# Opens SUMO home page
+quickactions-help = { -brand-product-name }-hjelp
+quickactions-cmd-help = hjelp, støtte, support
 # Opens the devtools web inspector
 quickactions-inspector2 = Åpne utviklerverktøy
+quickactions-cmd-inspector2 = inspector, devtools, dev tools
 quickactions-cmd-inspector = inspektør, utviklerverktøy
 # Opens about:logins
 quickactions-logins2 = Behandle passord
@@ -368,6 +375,7 @@ quickactions-restart = Start { -brand-short-name } på nytt
 quickactions-cmd-restart = omstart, start på nytt
 # Opens the screenshot tool
 quickactions-screenshot3 = Ta et skjermbilde
+quickactions-cmd-screenshot2 = skjermbilde, ta et skjermbilde
 quickactions-cmd-screenshot = skjermbilde, skjermdump
 # Opens about:preferences
 quickactions-settings2 = Behandle innstillinger
@@ -979,6 +987,9 @@ panel-save-update-password = Passord
 # "More" item in macOS share menu
 menu-share-more =
     .label = Mer…
+menu-share-copy-link =
+    .label = Kopier lenke
+    .accesskey = l
 ui-tour-info-panel-close =
     .tooltiptext = Lukk
 
