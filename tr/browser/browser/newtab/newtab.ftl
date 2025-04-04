@@ -319,7 +319,7 @@ newtab-custom-settings = Diğer ayarları yönet
 newtab-wallpaper-title = Duvar kâğıtları
 newtab-wallpaper-reset = Varsayılana sıfırla
 newtab-wallpaper-upload-image = Resim yükle
-newtab-wallpaper-custom-color = Bir renk seçin
+newtab-wallpaper-custom-color = Renk seç
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Bu resim, izin verilen { $file_size } MB boyut sınırını aşıyor. Lütfen daha küçük bir dosya yüklemeyi deneyin.
