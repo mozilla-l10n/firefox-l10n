@@ -205,6 +205,10 @@ addon-updates-manual-updates-found = K dispoziciji stejace aktualizacije sej wob
 
 addon-install-from-file = Přidatk z dataje instalować…
     .accesskey = P
+# Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
+# pref is set.
+addon-install-or-update-from-file = Přidatk z dataje instalować abo aktualizować…
+    .accesskey = P
 addon-install-from-file-dialog-title = Přidatk za instalaciju wubrać
 addon-install-from-file-filter-name = Přidatki
 addon-open-about-debugging = Přidatki za zmylkami přepytować

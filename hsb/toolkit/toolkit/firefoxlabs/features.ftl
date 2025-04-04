@@ -33,3 +33,6 @@ experimental-features-contextual-password-manager-description = Dóstańće dire
 experimental-features-custom-wallpaper =
     .label = Wubjerće swójski pozadkowy wobraz abo swójsku barbu za stronu noweho rajtarka
 experimental-features-custom-wallpaper-description = Nahrajće swójski pozadkowy wobraz abo wubjerće swójsku barbu za pozadk swojeje strony noweho rajtarka.
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = Wotkazowe přehlady
