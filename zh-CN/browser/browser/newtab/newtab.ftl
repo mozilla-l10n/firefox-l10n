@@ -519,4 +519,5 @@ newtab-section-mangage-topics-followed-topics = 已关注
 newtab-section-mangage-topics-followed-topics-empty-state = 没有已关注的主题。
 newtab-section-mangage-topics-blocked-topics = 已屏蔽
 newtab-section-mangage-topics-blocked-topics-empty-state = 没有已屏蔽的主题
+newtab-custom-wallpaper-title = 在此处自定义壁纸
 newtab-custom-wallpaper-cta = 试试看
