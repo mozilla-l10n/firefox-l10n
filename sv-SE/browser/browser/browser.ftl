@@ -354,6 +354,7 @@ quickactions-help = { -brand-product-name } hjälp
 quickactions-cmd-help = hjälp, stöd
 # Opens the devtools web inspector
 quickactions-inspector2 = Öppna utvecklarverktyg
+quickactions-cmd-inspector2 = inspektör, devtools, dev tool
 quickactions-cmd-inspector = inspektör, utvecklarverktyg
 # Opens about:logins
 quickactions-logins2 = Hantera lösenord
@@ -378,6 +379,7 @@ quickactions-restart = Starta om { -brand-short-name }
 quickactions-cmd-restart = omstart
 # Opens the screenshot tool
 quickactions-screenshot3 = Ta en skärmdump
+quickactions-cmd-screenshot2 = skärmdump, ta en skärmdump
 quickactions-cmd-screenshot = skärmbild
 # Opens about:preferences
 quickactions-settings2 = Hantera inställningar
@@ -390,6 +392,7 @@ quickactions-update = Uppdatera { -brand-short-name }
 quickactions-cmd-update = uppdatera
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Visa källkod
+quickactions-cmd-viewsource2 = visa källa, källa, sidkälla
 quickactions-cmd-viewsource = visa källa, källa
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

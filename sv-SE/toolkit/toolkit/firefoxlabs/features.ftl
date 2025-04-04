@@ -33,3 +33,11 @@ experimental-features-contextual-password-manager-description = Kom åt dina lö
 experimental-features-custom-wallpaper =
     .label = Välj en egen bakgrundsbild eller färg för Ny flik
 experimental-features-custom-wallpaper-description = Ladda upp din egen bakgrundsbild eller välj en egen färg för din bakgrund till ny flik.
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = Förhandsgranskning av länk
+experimental-features-link-previews-description =
+    { PLATFORM() ->
+        [macos] För att lära dig mer om en webbsida innan du klickar, håll muspekaren över en länk och tryck på Shift (⇧) plus Option (⌥) eller Alt. Förhandsgranskningar kan innehålla detaljer som titel och lästid. För vissa webbsidor kan AI också läsa sidtexten och generera viktiga poäng. AI:n är optimerad för att läsa och skapa engelsk text. För att prioritera din integritet körs AI lokalt på din dator. <a data-l10n-name="connect">Dela feedback</a>
+       *[other] Om du vill veta mer om en webbsida innan du klickar, håll muspekaren över en länk och tryck på Shift + Alt. Förhandsgranskningar kan innehålla detaljer som titel och lästid. För vissa webbsidor kan AI också läsa sidtexten och generera viktiga poäng. AI:n är optimerad för att läsa och skapa engelsk text. För att prioritera din integritet körs AI lokalt på din dator. <a data-l10n-name="connect">Dela feedback</a>
+    }

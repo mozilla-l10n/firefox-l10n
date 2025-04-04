@@ -327,10 +327,10 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = 檢視附加元件
-quickactions-cmd-addons2 = 附加元件
+quickactions-cmd-addons2 = 附加元件, 套件, 外掛, add-ons, addons
 # Opens the bookmarks library window
 quickactions-bookmarks2 = 管理書籤
-quickactions-cmd-bookmarks = 書籤, bookmarks
+quickactions-cmd-bookmarks = 書籤, 我的最愛, bookmarks, favorite, my favorite
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = 清除最近瀏覽記錄
 quickactions-cmd-clearrecenthistory = 清除最近瀏覽記錄, 歷史記錄, 近期記錄, 紀錄
@@ -354,6 +354,7 @@ quickactions-help = { -brand-product-name } 說明
 quickactions-cmd-help = 說明, 支援, 幫助, 協助
 # Opens the devtools web inspector
 quickactions-inspector2 = 開啟開發者工具
+quickactions-cmd-inspector2 = 檢測器, 開發者工具, inspector, devtools, dev tools
 quickactions-cmd-inspector = 檢測器, 開發工具, inspector, devtools
 # Opens about:logins
 quickactions-logins2 = 管理密碼
@@ -378,6 +379,7 @@ quickactions-restart = 重新啟動 { -brand-short-name }
 quickactions-cmd-restart = 重新啟動, 重開, restart
 # Opens the screenshot tool
 quickactions-screenshot3 = 拍攝畫面擷圖
+quickactions-cmd-screenshot2 = 擷圖, 截圖, 擷取, 截取, 快照, screenshot, take a screenshot
 quickactions-cmd-screenshot = 畫面擷圖, 擷圖, screenshot
 # Opens about:preferences
 quickactions-settings2 = 管理設定
@@ -390,6 +392,7 @@ quickactions-update = 更新 { -brand-short-name }
 quickactions-cmd-update = 更新, update
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = 檢視原始碼
+quickactions-cmd-viewsource2 = 原始碼, 檢視原始碼, 源碼, 頁面原始碼, view source, source, page source
 quickactions-cmd-viewsource = 檢視原始碼, 原始碼, view source, source
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
