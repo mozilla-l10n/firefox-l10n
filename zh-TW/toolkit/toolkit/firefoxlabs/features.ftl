@@ -33,3 +33,6 @@ experimental-features-contextual-password-manager-description = 直接從側邊�
 experimental-features-custom-wallpaper =
     .label = 為新分頁選擇自訂背景或色彩
 experimental-features-custom-wallpaper-description = 上傳您自己的背景圖，或挑選一組色彩用於新分頁的背景。
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = 鏈結預覽

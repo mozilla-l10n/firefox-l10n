@@ -103,8 +103,11 @@ genai-options-about-chatbot =
 ## Chatbot onboarding
 
 genai-onboarding-header = 一邊上網，一邊摘要、腦力激盪，還有更多功能
+genai-onboarding-choose-header = 挑選一套要在 { -brand-short-name } 側邊欄使用的 AI 聊天機器人
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = 挑選要在 { -brand-short-name } 側邊欄當中使用的 AI 聊天機器人。當您選擇時，我們會顯示每一套機器人的詳細資訊，也可隨時切換。<a data-l10n-name="learn-more">更多資訊</a>
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-choose-description = 可隨時切換。若需要挑選上的協助，請<a data-l10n-name="learn-more">閱讀本文了解每套機器人的更多資訊</a>。
 genai-onboarding-primary = 繼續
 genai-onboarding-secondary = 關閉
 genai-onboarding-claude-tooltip =

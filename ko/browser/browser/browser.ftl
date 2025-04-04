@@ -354,6 +354,7 @@ quickactions-help = { -brand-product-name } 도움말
 quickactions-cmd-help = 도움, 지원, help, support
 # Opens the devtools web inspector
 quickactions-inspector2 = 개발자 도구 열기
+quickactions-cmd-inspector2 = inspector, devtools, dev tools, 검사기, 개발자 도구, 개발자
 quickactions-cmd-inspector = 검사기, 개발자 도구, inspector, devtools
 # Opens about:logins
 quickactions-logins2 = 비밀번호 관리
