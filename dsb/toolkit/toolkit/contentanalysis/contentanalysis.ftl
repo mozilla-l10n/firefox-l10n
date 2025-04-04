@@ -13,6 +13,17 @@ contentanalysis-slow-agent-dialog-header = Skannujo se
 contentanalysis-slow-agent-dialog-body-file = { $agent } „{ $filename }“ na zakłaźe datowych pšawidłow wašeje organizacije pśeglědujo. To wokognuśe trajo.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
+#   $filename - Name of a file being analyzed, such as "aFile.txt"
+#   $count (number) - The number of additional items in the request for analysis
+contentanalysis-slow-agent-dialog-body-file-and-more =
+    { $count ->
+        [one] { $agent } „{ $filename }“ a { $count } pśidatny zapisk na zakłaźe datowych pšawidłow wašeje organizacije pśeglědujo. To wokognuśe trajo.
+        [two] { $agent } „{ $filename }“ a { $count } pśidatnej zapiska na zakłaźe datowych pšawidłow wašeje organizacije pśeglědujo. To wokognuśe trajo.
+        [few] { $agent } „{ $filename }“ a { $count } pśidatne zapiski na zakłaźe datowych pšawidłow wašeje organizacije pśeglědujo. To wokognuśe trajo.
+       *[other] { $agent } „{ $filename }“ a { $count } pśidatnych zapiskow na zakłaźe datowych pšawidłow wašeje organizacije pśeglědujo. To wokognuśe trajo.
+    }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } na zakłaźe datowych pšawidłow wašeje organizacije pśeglědujo, což sćo zasajźił. To wokognuśe trajo.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
