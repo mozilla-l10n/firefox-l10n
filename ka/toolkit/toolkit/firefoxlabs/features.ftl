@@ -33,3 +33,6 @@ experimental-features-contextual-password-manager-description = წვდომ�
 experimental-features-custom-wallpaper =
     .label = აირჩიეთ სასურველი ფონი ან ფერი ახალი ჩანართისთვის
 experimental-features-custom-wallpaper-description = ატვირთეთ საკუთარი ფონი ან შეარჩიეთ სასურველი ფერი თქვენი ახალი ჩანართის ფონისთვის.
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = ბმულის შეთვალიერება
