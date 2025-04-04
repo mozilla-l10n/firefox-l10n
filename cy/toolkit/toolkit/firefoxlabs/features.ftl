@@ -36,3 +36,8 @@ experimental-features-custom-wallpaper-description = Llwythwch i fyny eich papur
 # Link Previews with AI
 experimental-features-link-previews =
     .label = Rhagolygon dolen
+experimental-features-link-previews-description =
+    { PLATFORM() ->
+        [macos] I ddysgu ragor am dudalen we cyn clicio,gallwch hofran dros ddolen a phwyso Shift  (⇧) ac Option (⌥) neu Alt. Gall rhagolygiadau gynnwys manylion fel teitl ac amser darllen. Ar gyfer rhai tudalennau gwe, gall AI hefyd ddarllen testun y dudalen a chynhyrchu pwyntiau allweddol. Mae'r AI wedi'i optimeiddio i ddarllen a chynhyrchu testun Saesneg. Er mwyn blaenoriaethu eich preifatrwydd, mae'r AI yn rhedeg yn lleol ar eich cyfrifiadur. <a data-l10n-name="connect">Rhannu adborth</a>
+       *[other] I ddysgu ragor am dudalen we cyn clicio,gallwch hofran dros ddolen a phwyso Shift + Alt. Gall rhagolygiadau gynnwys manylion fel teitl ac amser darllen. Ar gyfer rhai tudalennau gwe, gall AI hefyd ddarllen testun y dudalen a chynhyrchu pwyntiau allweddol. Mae'r AI wedi'i optimeiddio i ddarllen a chynhyrchu testun Saesneg. Er mwyn blaenoriaethu eich preifatrwydd, mae'r AI yn rhedeg yn lleol ar eich cyfrifiadur. <a data-l10n-name="connect">Rhannu adborth</a>
+    }
