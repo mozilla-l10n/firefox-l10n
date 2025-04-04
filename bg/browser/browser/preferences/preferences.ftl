@@ -1140,6 +1140,8 @@ addressbar-header = Адресна лента
 addressbar-suggest = При въвеждане в адресната лента, подсказване с
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Адресна лента — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Изберете типа на предложенията, които ще се появяват в адресната лента.
 # When Firefox Suggest is enabled, a "Learn more" link appears at the end of
 # `addressbar-suggest-firefox-suggest`.
 addressbar-locbar-firefox-suggest-learn-more = Научете повече
@@ -1181,7 +1183,12 @@ addressbar-locbar-suggest-nonsponsored-option =
 addressbar-locbar-suggest-nonsponsored-desc = Получавайте предложения от мрежата, свързани с вашето търсене.
 addressbar-locbar-suggest-sponsored-option =
     .label = Предложения от спонсори
+addressbar-locbar-suggest-sponsored-desc = Подкрепете { -brand-short-name } с показване на спонсорирани предложения.
 addressbar-quickactions-learn-more = Научете повече
+addressbar-dismissed-suggestions-label = Отхвърлени предложения
+addressbar-restore-dismissed-suggestions-description = Възстановяване на отхвърлените предложения от спонсори и { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button =
+    .label = Възстановяване
 
 ## Privacy Section - Content Blocking
 
@@ -1344,6 +1351,8 @@ permissions-addon-exceptions =
 collection-header = Събиране и използване на данни от { -brand-short-name }
 collection-header2 = Събиране и използване на данни от { -brand-short-name }
     .searchkeywords = събиране данни
+preferences-collection-privacy-notice = Вижте Политиката за лични данни
+preferences-view-profiles = Преглед на всички профили
 collection-description = Стремим се да ви предоставяме възможност и да събираме само толкова, колкото ни е необходимо, за да предоставяме и подобряваме { -brand-short-name } за всички. Винаги искаме разрешение преди да получим лична информация.
 collection-privacy-notice = Политика на поверителност
 collection-health-report-telemetry-disabled = Вече не позволявате на { -vendor-short-name } да събира технически данни и данни за взаимодействията. Всички стари данни ще бъдат изтрити в рамките на 30 дни.
@@ -1351,13 +1360,23 @@ collection-health-report-telemetry-disabled-link = Научете повече
 collection-usage-ping =
     .label = Ежедневно изпращане на сигнал до { -vendor-short-name }, че продуктът се ползва
     .accesskey = Е
+collection-usage-ping-description = Това помага на { -vendor-short-name } да направи приблизителна преценка на броя активни потребители.
+collection-health-report2 =
+    .label = Изпращане на технически данни и данни за взаимодействие към { -vendor-short-name }
+    .accesskey = т
 collection-health-report =
     .label = Разрешаване на { -brand-short-name } да изпраща техническа информация и данни за използването към { -vendor-short-name }
     .accesskey = т
 collection-health-report-link = Научете повече
+collection-health-report-description = Това ни помага да подобрим възможностите, производителността и стабилността на { -brand-product-name }.
+collection-studies2 =
+    .label = Инсталиране и стартиране на проучвания
 collection-studies =
     .label = Разрешаване на { -brand-short-name } да инсталира и извършва изследвания
 collection-studies-link = Преглед на изследванията на { -brand-short-name }
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled2 = Докладването на данни е изключено за тази конфигурация на изданието.
 collection-backlogged-crash-reports2 =
     .label = Автоматично изпращане на доклади за сривове
     .accesskey = А
@@ -1428,12 +1447,16 @@ space-alert-under-5gb-message2 = Дисковото пространство н�
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Режим „само HTTPS“
+httpsonly-learn-more2 = Как работи режимът „Само HTTPS“
 httpsonly-description = HTTPS осигурява сигурна, шифрована връзка между { -brand-short-name } и посещаваните от вас уебсайтове. Повечето уебсайтове поддържат HTTPS и ако режимът „само HTTPS“ е включен, { -brand-short-name } ще надстрои всички връзки до HTTPS.
 httpsonly-learn-more = Научете повече
 httpsonly-radio-enabled =
     .label = Включване на режим „само HTTPS“ за всички прозорци
 httpsonly-radio-enabled-pbm =
     .label = Активиране на режим „само HTTPS“ само за поверителни прозорци
+httpsonly-radio-disabled3 =
+    .label = Без активиране на режима „само HTTPS“.
+    .description = Въпреки това е възможно { -brand-short-name } да подобри някои връзки.
 httpsonly-radio-disabled =
     .label = Да не се включва режим „само HTTPS“
 
