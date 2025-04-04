@@ -205,6 +205,10 @@ addon-updates-manual-updates-found = Εμφάνιση διαθέσιμων εν�
 
 addon-install-from-file = Εγκατάσταση προσθέτου από αρχείο…
     .accesskey = γ
+# Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
+# pref is set.
+addon-install-or-update-from-file = Εγκατάσταση ή ενημέρωση προσθέτου από αρχείο…
+    .accesskey = Ε
 addon-install-from-file-dialog-title = Επιλέξτε πρόσθετο για εγκατάσταση
 addon-install-from-file-filter-name = Πρόσθετα
 addon-open-about-debugging = Έλεγχος σφαλμάτων προσθέτων
