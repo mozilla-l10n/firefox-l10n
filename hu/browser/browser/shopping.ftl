@@ -276,11 +276,13 @@ shopping-opt-in-integrated-subtitle-unsupported-site = A { -brand-product-name }
 shopping-callout-opt-in-integrated-headline = Megbízhat ezekben az értékelésekben?
 # Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
 shopping-callout-not-opted-in-integrated-paragraph1 = Kapcsolja be a { -brand-product-name } értékelések-ellenőrzőjét, hogy megtudja. A { -fakespot-brand-full-name }ra épül, és MI technológiát használ az értékelések elemzéséhez.
+shopping-callout-not-opted-in-integrated-paragraph2 = Az „{ shopping-opt-in-integrated-button }” kiválasztásával elfogadja a { -brand-product-name } <a data-l10n-name="privacy_policy">adatvédelmi nyilatkozatát</a> és a { -fakespot-brand-full-name } <a data-l10n-name="terms_of_use">felhasználási feltételeit.</a>
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Eltüntetés
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Értékelés-ellenőrző bekapcsolása
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = Ne jelenítse meg újra ezt a javaslatot
 shopping-callout-not-opted-in-integrated-reminder-show-fewer = Kevesebb javaslat megjelenítése
 shopping-callout-not-opted-in-integrated-reminder-manage-settings = Beállítások kezelése
+shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Az Értékelés-ellenőrző a { -fakespot-brand-full-name }ra épül Az „{ shopping-opt-in-integrated-button }” kiválasztásával elfogadja a { -brand-product-name } <a data-l10n-name="privacy_policy">adatvédelmi nyilatkozatát</a> és a { -fakespot-brand-name } <a data-l10n-name="terms_of_use">felhasználási feltételeit.</a>
 shopping-opt-in-integrated-button = Próbálja ki az értékelés-ellenőrzőt
 
 ## Message strings for Review Checker's empty states.
@@ -307,6 +309,8 @@ shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Válassza az oldal
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
 shopping-integrated-new-position-notification-title = Ugyanaz az értékelés-ellenőrző, új helyen
+shopping-integrated-new-position-notification-move-right-subtitle = Tartsa itt az Értékelés-ellenőrzőt és a { -brand-product-name } oldalsáv többi részét – vagy helyezze át jobbra. Váltson most vagy bármikor az <a data-l10n-name="sidebar_settings">oldalsáv beállításaiban</a>.
+shopping-integrated-new-position-notification-move-left-subtitle = Tartsa itt az Értékelés-ellenőrzőt és a { -brand-product-name } oldalsáv többi részét – vagy helyezze át balra. Váltson most vagy bármikor az <a data-l10n-name="sidebar_settings">oldalsáv beállításaiban</a>.
 shopping-integrated-new-position-notification-move-right-button = Áthelyezés jobbra
 shopping-integrated-new-position-notification-move-left-button = Áthelyezés balra
 shopping-integrated-new-position-notification-dismiss-button = Megértettem!

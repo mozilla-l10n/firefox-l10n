@@ -111,8 +111,11 @@ genai-options-about-chatbot =
 ## Chatbot onboarding
 
 genai-onboarding-header = Összegezzen és ötleteljen böngészés közben
+genai-onboarding-choose-header = Válassza ki a { -brand-short-name } oldalsávjában használandó MI csevegőbotot
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = Válasszon egy MI csevegőbotot a { -brand-short-name } oldalsávjában. Az egyes csevegőbotok részletei a kiválasztásuk után jelennek meg. Váltson bármikor. <a data-l10n-name="learn-more">További információk</a>
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-choose-description = Váltson bármikor. Ha segítségre van szüksége a választásban, <a data-l10n-name="learn-more">tudjon meg többet az egyes csevegőbotokról</a>.
 genai-onboarding-primary = Folytatás
 genai-onboarding-secondary = Bezárás
 genai-onboarding-claude-tooltip =

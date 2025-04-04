@@ -1044,6 +1044,7 @@ unified-extensions-button-blocklisted =
 
 ## Private browsing reset button
 
+reset-pbm-panel-description = എല്ലാ സ്വകാര്യ ടാബുകളും അടച്ചിട്ടു് നാൾവഴിയും കുക്കികളും മറ്റു് എല്ലാ വെബിടദത്തയും മായ്ക്കുക.
 reset-pbm-panel-always-ask-checkbox =
     .label = എപ്പോഴും ചോദിക്കുക
     .accesskey = എ

@@ -183,6 +183,9 @@ contextual-manager-passwords-edit-label =
     .label = രഹസ്യവാക്കു് തിരുത്തുക
 contextual-manager-passwords-remove-label =
     .title = രഹസ്യവാക്കു് മായ്ക്കുക
+contextual-manager-passwords-origin-tooltip = താങ്ങൾ പ്രവേശിക്കാൻ പോവുന്ന തിട്ടമായ വിലാസം നൽകുക
+contextual-manager-passwords-username-tooltip = താങ്ങൾ പ്രവേശിക്കാൻ ഉപയോഗിക്കുന്ന ഉപയോക്തൃപ്പേരും ഇ-തപാലും അക്കൗണ്ടക്കവും നൽകുക
+contextual-manager-passwords-password-tooltip = താങ്ങൾ ഈ അക്കൗണ്ടിൽ പ്രവേശിക്കാൻ ഉപയോഗിക്കുന്ന രഹസ്യവാക്കു് നൽകുക
 
 ## Password Card
 

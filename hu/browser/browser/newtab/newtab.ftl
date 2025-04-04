@@ -117,6 +117,7 @@ newtab-menu-delete-pocket = Törlés a { -pocket-brand-name }ből
 newtab-menu-archive-pocket = Archiválás a { -pocket-brand-name }ben
 newtab-menu-show-privacy-info = Támogatóink és az Ön adatvédelme
 newtab-menu-about-fakespot = A { -fakespot-brand-name } névjegye
+newtab-menu-report-content = Tartalom jelentése
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Tiltás
@@ -128,6 +129,7 @@ newtab-menu-section-unfollow = Téma követésének megszüntetése
 
 newtab-menu-manage-sponsored-content = Szponzorált tartalmak kezelése
 newtab-menu-our-sponsors-and-your-privacy = Támogatóink és az Ön adatvédelme
+newtab-menu-report-this-ad = Hirdetés jelentése
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 

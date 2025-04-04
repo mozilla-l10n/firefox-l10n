@@ -392,6 +392,7 @@ quickactions-update = A { -brand-short-name } frissítése
 quickactions-cmd-update = frissítés
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Oldal forrásának megtekintése
+quickactions-cmd-viewsource2 = source, forrás megtekintése, forrás, oldal forrása
 quickactions-cmd-viewsource = forrás megtekintése, forrás, forráskód
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

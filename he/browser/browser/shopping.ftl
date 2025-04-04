@@ -272,6 +272,12 @@ shopping-opt-in-integrated-subtitle-unsupported-site = בודק הסקירות �
 shopping-callout-opt-in-integrated-headline = האם ניתן לסמוך על הסקירות האלה?
 # Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
 shopping-callout-not-opted-in-integrated-paragraph1 = ניתן להפעיל את בודק הסקירות של { -brand-product-name } כדי לגלות. הוא מופעל באמצעות { -fakespot-brand-full-name } ומשתמש בטכנולוגיה של בינה מלאכותית כדי לנתח סקירות.
+shopping-callout-not-opted-in-integrated-paragraph2 = בחירה באפשרות ״{ shopping-opt-in-integrated-button }״ מהווה הסכמה ל<a data-l10n-name="privacy_policy">הצהרת הפרטיות</a> של { -brand-product-name } ול<a data-l10n-name="terms_of_use">תנאי השימוש</a> של { -fakespot-brand-full-name }.
+shopping-callout-not-opted-in-integrated-reminder-dismiss-button = סגירה
+shopping-callout-not-opted-in-integrated-reminder-accept-button = הפעלת בודק הסקירות
+shopping-callout-not-opted-in-integrated-reminder-do-not-show = לא להציג המלצה זו שוב
+shopping-callout-not-opted-in-integrated-reminder-show-fewer = להציג פחות המלצות
+shopping-callout-not-opted-in-integrated-reminder-manage-settings = ניהול הגדרות
 shopping-opt-in-integrated-button = לנסות את בודק הסקירות
 
 ## Message strings for Review Checker's empty states.
