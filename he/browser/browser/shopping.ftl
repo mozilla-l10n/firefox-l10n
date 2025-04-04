@@ -305,7 +305,10 @@ shopping-integrated-callout-no-logo-sidebar-closed-subtitle = יש לבחור ב
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
 shopping-integrated-new-position-notification-title = אותו בודק הסקירות, במקום חדש
-shopping-integrated-new-position-notification-move-right-subtitle = אפשר להשאיר את בודק הסקירות ואת סרגל הצד של { -brand-product-name } כאן - או להעביר אותם לצד שמאל. אפשר להחליף בין המיקומים בכל עת ב<a data-l10n-name="sidebar_settings">הגדרות סרגל הצד</a>.
+shopping-integrated-new-position-notification-move-right-subtitle = אפשר להשאיר את בודק הסקירות ואת סרגל הצד של { -brand-product-name } כאן - או להעביר אותם לצד ימין. אפשר להחליף בין המיקומים בכל עת ב<a data-l10n-name="sidebar_settings">הגדרות סרגל הצד</a>.
+shopping-integrated-new-position-notification-move-left-subtitle = אפשר להשאיר את בודק הסקירות ואת סרגל הצד של { -brand-product-name } כאן - או להעביר אותם לצד שמאל. אפשר להחליף בין המיקומים בכל עת ב<a data-l10n-name="sidebar_settings">הגדרות סרגל הצד</a>.
+shopping-integrated-new-position-notification-move-right-button = העברה לצד ימין
+shopping-integrated-new-position-notification-move-left-button = העברה לצד שמאל
 shopping-integrated-new-position-notification-dismiss-button = הבנתי
 
 ## Combined setting for auto-open and auto-close.
