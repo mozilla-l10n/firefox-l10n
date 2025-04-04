@@ -1519,6 +1519,11 @@ preferences-collection-description =
        *[no-cases] Snažíme se vám poskytnout možnost volby a shromažďovat pouze minimum údajů nezbytných pro zlepšení aplikace { -brand-product-name } pro všechny.
     }
 preferences-collection-privacy-notice = Zobrazit zásady ochrany osobních údajů
+preferences-across-profiles =
+    { -brand-product-name.case-status ->
+        [with-cases] Tato nastavení platí pro každý profil { -brand-product-name(case: "gen") } na tomto zařízení.
+       *[no-cases] Tato nastavení platí pro každý profil aplikace { -brand-product-name } na tomto zařízení.
+    }
 preferences-view-profiles = Zobrazit všechny profily
 collection-description =
     { -brand-short-name.case-status ->

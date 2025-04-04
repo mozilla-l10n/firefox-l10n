@@ -223,6 +223,10 @@ addon-updates-manual-updates-found = Zobrazit dostupné aktualizace
 
 addon-install-from-file = Instalovat doplněk ze souboru…
     .accesskey = I
+# Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
+# pref is set.
+addon-install-or-update-from-file = Instalovat či aktualizovat doplněk ze souboru…
+    .accesskey = I
 addon-install-from-file-dialog-title = Zvolte doplněk k instalaci
 addon-install-from-file-filter-name = Doplňky
 addon-open-about-debugging = Ladění doplňků

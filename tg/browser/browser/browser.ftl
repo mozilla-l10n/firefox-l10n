@@ -354,6 +354,7 @@ quickactions-help = Кумаки «{ -brand-product-name }»
 quickactions-cmd-help = кумак, дастгирӣ
 # Opens the devtools web inspector
 quickactions-inspector2 = Кушодани абзорҳои барномарезӣ
+quickactions-cmd-inspector2 = тафтишкунанда, абзорҳои барномарезӣ, inspector, devtools, dev tools
 quickactions-cmd-inspector = тафтишкунанда, абзорҳои барномарезӣ
 # Opens about:logins
 quickactions-logins2 = Идоракунии ниҳонвожаҳо
@@ -378,6 +379,7 @@ quickactions-restart = Аз нав оғоз кардани «{ -brand-short-name
 quickactions-cmd-restart = аз нав оғоз кардан
 # Opens the screenshot tool
 quickactions-screenshot3 = Гирифтани акси экран
+quickactions-cmd-screenshot2 = акси экран, гирифтани акси экран, screenshot, take a screenshot
 quickactions-cmd-screenshot = акси экран
 # Opens about:preferences
 quickactions-settings2 = Идоракунии танзимот
@@ -390,6 +392,7 @@ quickactions-update = Навсозӣ кардани «{ -brand-short-name }»
 quickactions-cmd-update = навсозӣ кардан
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Дидани манбаи саҳифа
+quickactions-cmd-viewsource2 = дидани манбаъ, манбаъ, манбаи саҳифа, view source, source, page source
 quickactions-cmd-viewsource = намоиши манбаъ, манбаъ
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

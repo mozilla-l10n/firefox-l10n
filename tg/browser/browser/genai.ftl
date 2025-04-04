@@ -109,6 +109,7 @@ genai-options-about-chatbot =
 ## Chatbot onboarding
 
 genai-onboarding-header = Ҳангоми истифодаи браузер натиҷаҳои худро ҷамъбаст кунед, барои ҳал кардани масъалаҳои гуногун маслиҳат кунед ё чизҳои дигар ба даст оред
+genai-onboarding-choose-header = Чат-боти зеҳни сунъӣ «AI»-ро интихоб кунед, ки мехоҳед дар навори ҷонибии «{ -brand-short-name }» истифода баред
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = Чат-боти зеҳни сунъӣ «AI», ки мехоҳед дар навори ҷонибии «{ -brand-short-name }» истифода баред, интихоб намоед. Мо барои ҳар як чат-боти зеҳни сунъӣ тафсилотро нишон медиҳем вақте ки шумо онро интихоб мекунед. Дар вақти дилхоҳ онҳоро иваз кунед. <a data-l10n-name="learn-more">Маълумоти бештар</a>
 genai-onboarding-primary = Идома додан
