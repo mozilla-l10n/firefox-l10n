@@ -204,7 +204,7 @@ addon-install-from-file = Installera tillägg från fil…
 # Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
 # pref is set.
 addon-install-or-update-from-file = Installera eller uppdatera tillägg från fil…
-    .accesskey = I
+    .accesskey = n
 addon-install-from-file-dialog-title = Välj ett tillägg att installera
 addon-install-from-file-filter-name = Tillägg
 addon-open-about-debugging = Felsök tillägg
