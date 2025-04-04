@@ -33,3 +33,6 @@ experimental-features-contextual-password-manager-description = Parolalarınıza
 experimental-features-custom-wallpaper =
     .label = Yeni Sekme için duvar kâğıdı veya renk seç
 experimental-features-custom-wallpaper-description = Kendi duvar kâğıdınızı yükleyin veya Yeni Sekme arka planınız için özel bir renk seçin.
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = Bağlantı önizlemeleri
