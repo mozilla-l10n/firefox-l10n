@@ -33,3 +33,11 @@ experimental-features-contextual-password-manager-description = Benaderje jo wac
 experimental-features-custom-wallpaper =
     .label = Kies in oanpaste eftergrûn of kleur foar Nij-ljepbledside
 experimental-features-custom-wallpaper-description = Laad jo eigen eftergrûn op of kies in oanpaste kleur foar de eftergrûn fan jo Nij-ljepblêdside .
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = Keppelingsfoarbylden
+experimental-features-link-previews-description =
+    { PLATFORM() ->
+        [macos] Hâld de mûsoanwizer boppe in keppeling en druk op Shift (⇧) + Option (⌥) of Alt om mear oer in webside te lêzen eardat jo klikke. Foarbylden kinne details lykas titel en leestiid befetsje. Fan guon websiden kin AI ek de sidetekst lêze en de wichtichste punten oanmeitsje. De AI is optimalisearre foar it lêzen en oanmeitsje fan Ingelske tekst. Om jo privacy foarop te stellen, wurdt de AI lokaal op jo kompjûter útfierd. <a data-l10n-name="connect">Feedback diele</a>
+       *[other] Hâld de mûsoanwizer boppe in keppeling en druk op Shift + Alt om mear oer in webside te lêzen eardat jo klikke. Foarbylden kinne details lykas titel en leestiid befetsje. Fan guon websiden kin AI ek de sidetekst lêze en de wichtichste punten oanmeitsje. De AI is optimalisearre foar it lêzen en oanmeitsje fan Ingelske tekst. Om jo privacy foarop te stellen, wurdt de AI lokaal op jo kompjûter útfierd. <a data-l10n-name="connect">Feedback diele</a>
+    }

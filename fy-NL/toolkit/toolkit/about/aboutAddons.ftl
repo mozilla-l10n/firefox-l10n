@@ -206,6 +206,10 @@ addon-updates-manual-updates-found = Beskikbere fernijingen toane
 
 addon-install-from-file = Ynstallearje add-on út bestân…
     .accesskey = Y
+# Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
+# pref is set.
+addon-install-or-update-from-file = Add-on ynstallearje of bywurkje fan bestân…
+    .accesskey = y
 addon-install-from-file-dialog-title = Selektearje add-on om te ynstallearjen
 addon-install-from-file-filter-name = Add-ons
 addon-open-about-debugging = Add-ons debugge

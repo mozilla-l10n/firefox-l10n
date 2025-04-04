@@ -117,6 +117,7 @@ newtab-menu-delete-pocket = Fuortsmite út { -pocket-brand-name }
 newtab-menu-archive-pocket = Argivearje yn { -pocket-brand-name }
 newtab-menu-show-privacy-info = Us sponsors en jo privacy
 newtab-menu-about-fakespot = Oer { -fakespot-brand-name }
+newtab-menu-report-content = Dizze ynhâld rapportearje
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Blokkearje
@@ -128,6 +129,7 @@ newtab-menu-section-unfollow = Underwerp net mear folgje
 
 newtab-menu-manage-sponsored-content = Sponsore ynhâld beheare
 newtab-menu-our-sponsors-and-your-privacy = Us sponsors en jo privacy
+newtab-menu-report-this-ad = Dizze advertinsje rapportearje
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
