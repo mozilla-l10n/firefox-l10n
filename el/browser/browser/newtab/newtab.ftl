@@ -117,6 +117,7 @@ newtab-menu-delete-pocket = Διαγραφή από το { -pocket-brand-name }
 newtab-menu-archive-pocket = Αρχειοθέτηση στο { -pocket-brand-name }
 newtab-menu-show-privacy-info = Οι χορηγοί μας και το απόρρητό σας
 newtab-menu-about-fakespot = Σχετικά με το { -fakespot-brand-name }
+newtab-menu-report-content = Αναφορά περιεχομένου
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Φραγή
@@ -128,6 +129,7 @@ newtab-menu-section-unfollow = Άρση παρακολούθησης θέματ�
 
 newtab-menu-manage-sponsored-content = Διαχείριση χορηγούμενου περιεχομένου
 newtab-menu-our-sponsors-and-your-privacy = Οι χορηγοί μας και το απόρρητό σας
+newtab-menu-report-this-ad = Αναφορά διαφήμισης
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
