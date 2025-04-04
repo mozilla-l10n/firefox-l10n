@@ -37,3 +37,6 @@ experimental-features-contextual-password-manager-description = Přístup k hesl
 experimental-features-custom-wallpaper =
     .label = Vyberte vlastní tapetu nebo barvu nového panelu
 experimental-features-custom-wallpaper-description = Nahrajte vlastní tapetu nebo si vyberte vlastní barvu pozadí nového panelu.
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = Náhledy odkazů
