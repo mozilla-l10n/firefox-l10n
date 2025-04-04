@@ -269,6 +269,9 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = സ്വതവേയുള്ള തിരച്ചില്‍ യന്ത്രമാക്കി മാറ്റുക
     .accesskey = D
+search-one-offs-context-set-as-default-private =
+    .label = സ്വകാര്യ ജാലകങ്ങൾക്കായി തനിമട്ടു് തിരയൽയന്ത്രം സജ്ജമാക്കുക
+    .accesskey = സ
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
@@ -353,6 +356,7 @@ quickactions-restart = { -brand-short-name } വീണ്ടും തുടങ�
 quickactions-cmd-restart = പുനരാരംഭിക്കുക
 # Opens the screenshot tool
 quickactions-screenshot3 = പ്രതലപ്പിളർപ്പു് എടുക്കുക
+quickactions-cmd-screenshot2 = പ്രതലപ്പിളൎപ്പു്, പ്രതലപ്പിളൎപ്പെടുക്കുക
 quickactions-cmd-screenshot = പ്രതലപ്പിളർപ്പു്
 # Opens about:preferences
 quickactions-settings2 = ക്രമീകരണങ്ങളെ നിയന്ത്രിക്കുക
@@ -365,6 +369,7 @@ quickactions-update = { -brand-short-name } പുതുക്കുക
 quickactions-cmd-update = പുതുക്കുക
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = താളിന്റെ ഉറവിടം കാണുക
+quickactions-cmd-viewsource2 = ഉറവിടം കാണുക, ഉറവിടം, താളുറവിടം
 quickactions-cmd-viewsource = ഉറവിടം കാണുക, ഉറവിടം
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

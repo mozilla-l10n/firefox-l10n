@@ -354,6 +354,7 @@ quickactions-help = עזרה עבור { -brand-product-name }
 quickactions-cmd-help = עזרה, תמיכה
 # Opens the devtools web inspector
 quickactions-inspector2 = פתיחת כלי פיתוח
+quickactions-cmd-inspector2 = מפקח, inspector, כלי פיתוח, כלי מפתחים, devtools, dev tools
 quickactions-cmd-inspector = מפקח, inspector, כלי פיתוח, כלי מפתח, devtools
 # Opens about:logins
 quickactions-logins2 = ניהול ססמאות
@@ -378,6 +379,7 @@ quickactions-restart = הפעלת { -brand-short-name } מחדש
 quickactions-cmd-restart = הפעלה מחדש, הפעל מחדש, להפעיל מחדש
 # Opens the screenshot tool
 quickactions-screenshot3 = צילום מסך
+quickactions-cmd-screenshot2 = צילום מסך, screenshot, לקיחת צילום מסך, צלם את המסך
 quickactions-cmd-screenshot = צילום מסך, צלם מסך, לצלם מסך, לצלם את המסך, לקחת צילום מסך
 # Opens about:preferences
 quickactions-settings2 = ניהול הגדרות
@@ -390,6 +392,7 @@ quickactions-update = עדכון { -brand-short-name }
 quickactions-cmd-update = עדכון, עדכן, לעדכן
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = הצגת מקור הדף
+quickactions-cmd-viewsource2 = הצגת מקור, הצג מקור, מקור, מקור הדף
 quickactions-cmd-viewsource = הצגת קוד מקור, הצג קוד מקור, להציג קוד מקור, קוד מקור, מקור
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

@@ -20,6 +20,7 @@ contextual-manager-passwords-command-export = രഹസ്യവാക്കു�
 contextual-manager-passwords-command-remove-all = എല്ലാ രഹസ്യവാക്കുകളെ മാറ്റുക
 contextual-manager-passwords-command-settings = ക്രമീകരണങ്ങൾ
 contextual-manager-passwords-command-help = പിന്തുണ
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = താങ്ങളുടെ രഹസ്യവാക്കുകളെ കയറ്റുമതിക്കാനായി വിണ്ടോസു് പ്രവേശണവിശദാംശങ്ങളെ നൽകുക.ഇത് താങ്ങളുടെ സുരക്ഷയെ സംരക്ഷിക്കാൻ സഹായിക്കുന്നു.
 # This message can be seen when attempting to export a password in about:logins

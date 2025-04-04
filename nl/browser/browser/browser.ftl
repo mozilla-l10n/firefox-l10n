@@ -354,6 +354,7 @@ quickactions-help = Hulp voor { -brand-product-name }
 quickactions-cmd-help = hulp, ondersteuning
 # Opens the devtools web inspector
 quickactions-inspector2 = Ontwikkelaarshulpmiddelen openen
+quickactions-cmd-inspector2 = inspector, devtools, ontwikkelaarshulpmiddelen
 quickactions-cmd-inspector = inspector, devtools
 # Opens about:logins
 quickactions-logins2 = Wachtwoorden beheren
@@ -378,6 +379,7 @@ quickactions-restart = { -brand-short-name } herstarten
 quickactions-cmd-restart = herstarten
 # Opens the screenshot tool
 quickactions-screenshot3 = Een schermafbeelding maken
+quickactions-cmd-screenshot2 = schermafdruk, een schermafdruk nemen
 quickactions-cmd-screenshot = schermafbeelding
 # Opens about:preferences
 quickactions-settings2 = Instellingen beheren
