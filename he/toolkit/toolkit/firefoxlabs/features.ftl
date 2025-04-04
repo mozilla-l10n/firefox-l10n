@@ -29,3 +29,6 @@ experimental-features-contextual-password-manager-description = קבלת גיש�
 experimental-features-custom-wallpaper =
     .label = בחירת טפט או צבע מותאם אישית עבור הלשונית החדשה
 experimental-features-custom-wallpaper-description = ניתן להעלות טפט משלך או לבחור בצבע מותאם אישית עבור רקע הלשונית החדשה שלך.
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = תצוגות מקדימות לקישורים

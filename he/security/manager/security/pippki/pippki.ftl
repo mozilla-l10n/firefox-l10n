@@ -83,6 +83,13 @@ client-auth-cert-details-issued-by = הונפק על־ידי: { $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = מאוחסן תחת: { $storedOn }
+client-auth-cert-remember-label = שמירת הבחירה הזו:
+client-auth-cert-remember-never =
+    .label = פעם אחת
+client-auth-cert-remember-always =
+    .label = לצמיתות
+client-auth-cert-remember-temporarily =
+    .label = להפעלה זו בלבד
 client-auth-cert-remember-box =
     .label = שמירת הבחירה הזו
 

@@ -203,6 +203,10 @@ addon-updates-manual-updates-found = הצגת עדכונים זמינים
 
 addon-install-from-file = התקנת תוספת מקובץ…
     .accesskey = ה
+# Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
+# pref is set.
+addon-install-or-update-from-file = התקנה או עדכון תוספת מקובץ…
+    .accesskey = ה
 addon-install-from-file-dialog-title = בחירת תוספת להתקנה
 addon-install-from-file-filter-name = תוספות
 addon-open-about-debugging = ניפוי שגיאות של תוספות
