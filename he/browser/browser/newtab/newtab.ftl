@@ -116,6 +116,7 @@ newtab-menu-save-to-pocket = שמירה אל { -pocket-brand-name }
 newtab-menu-delete-pocket = מחיקה מ־{ -pocket-brand-name }
 newtab-menu-archive-pocket = העברה לארכיון ב־{ -pocket-brand-name }
 newtab-menu-about-fakespot = על אודות { -fakespot-brand-name }
+newtab-menu-report-content = דיווח על תוכן זה
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = חסימה
@@ -127,6 +128,7 @@ newtab-menu-section-unfollow = ביטול המעקב אחרי הנושא
 
 newtab-menu-manage-sponsored-content = ניהול תוכן ממומן
 newtab-menu-our-sponsors-and-your-privacy = נותני החסות שלנו והפרטיות שלך
+newtab-menu-report-this-ad = דיווח על פרסומת זו
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 

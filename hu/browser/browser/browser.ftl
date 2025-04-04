@@ -354,6 +354,7 @@ quickactions-help = { -brand-product-name } súgó
 quickactions-cmd-help = súgó, támogatás
 # Opens the devtools web inspector
 quickactions-inspector2 = Fejlesztői eszközök megnyitása
+quickactions-cmd-inspector2 = inspector, vizsgáló, devtools, fejlesztői eszközök
 quickactions-cmd-inspector = vizsgáló, fejlesztői eszközök
 # Opens about:logins
 quickactions-logins2 = Jelszavak kezelése
@@ -378,6 +379,7 @@ quickactions-restart = A { -brand-short-name } újraindítása
 quickactions-cmd-restart = újraindítás
 # Opens the screenshot tool
 quickactions-screenshot3 = Képernyőkép készítése
+quickactions-cmd-screenshot2 = screenshot, képernyőkép, képernyőkép készítése
 quickactions-cmd-screenshot = képernyőkép
 # Opens about:preferences
 quickactions-settings2 = Beállítások kezelése

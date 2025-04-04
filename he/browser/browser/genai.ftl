@@ -86,6 +86,8 @@ genai-onboarding-header = סיכום טקסט, סיעור מוחות ועוד ת
 genai-onboarding-choose-header = בחירת צ’אט בוט AI לשימוש בסרגל הצד של { -brand-short-name }
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = יש לבחור בצ’אט בוט AI לשימוש בסרגל הצד של { -brand-short-name }. אנו נציג פרטים על כל צ’אט בוט לאחר בחירה בו. ניתן להחליף בינהם בכל עת. <a data-l10n-name="learn-more">מידע נוסף</a>
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-choose-description = אפשר להחליף בינהם בכל עת. לקבלת עזרה בבחירה, <a data-l10n-name="learn-more">אפשר לקבל כאן מידע נוסף על כל צ’אט בוט</a>.
 genai-onboarding-primary = המשך
 genai-onboarding-secondary = סגירה
 genai-onboarding-claude-tooltip =

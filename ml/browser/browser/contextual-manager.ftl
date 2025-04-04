@@ -43,6 +43,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = താ�
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = കരുതിവച്ച രഹസ്യവാക്കു് പകർത്തുക
+contextual-manager-passwords-import-file-picker-title = രഹസ്യവാക്കുകൾ ഇറക്കിമതിക്കുക
 contextual-manager-passwords-import-file-picker-import-button = ഇറക്കുമതി
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -58,10 +59,13 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] TSV പ്രമാണം
        *[other] TSV ഫയൽ
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = രഹസ്യവാക്കുകൾ ഇറക്കുമതിച്ചു
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
 contextual-manager-passwords-import-success-message = പുതിയതു് :{ $added }, പുതുച്ചതു് : { $modified }
+contextual-manager-passwords-import-detailed-report = വിശദമായ റിപ്പോർട്ട് കാണുക
 contextual-manager-passwords-import-success-button = ചെയ്തു
 contextual-manager-passwords-import-error-button-try-again = വീണ്ടും ശ്രമിയ്ക്കുക
 contextual-manager-passwords-import-error-button-cancel = റദ്ദാക്കുക
@@ -165,6 +169,7 @@ contextual-manager-passwords-alert-back-button =
 contextual-manager-passwords-alert-list =
     .aria-label = അറിയിപ്പു് പട്ടിക
 contextual-manager-passwords-change-password-button = രഹസ്യവാക്കു് മാറ്റുക
+contextual-manager-passwords-vulnerable-password-link-message = { -brand-product-name }-നു് കഠിനമില്ലാത്ത രഹസ്യവാക്കുകളെക്കുറിച്ചു് എങ്ങനെ അറിയാം?
 contextual-manager-passwords-no-username-heading-and-message =
     .heading = ഉപയോക്തൃപ്പേരു് ചേൎക്കുക
     .message = പെട്ടന്നു് പ്രവേശിക്കാൻ വേണ്ടി ഒരെണ്ണം ചേൎക്കുക.
