@@ -206,6 +206,10 @@ addon-updates-manual-updates-found = Tampilkan Versi Baru yang Tersedia
 
 addon-install-from-file = Pasang Pengaya dari Berkas…
     .accesskey = B
+# Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
+# pref is set.
+addon-install-or-update-from-file = Pasang atau Perbarui Pengaya Dari Berkas…
+    .accesskey = P
 addon-install-from-file-dialog-title = Pilih berkas pengaya untuk dipasang
 addon-install-from-file-filter-name = Pengaya
 addon-open-about-debugging = Debug Pengaya

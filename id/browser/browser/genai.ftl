@@ -103,8 +103,11 @@ genai-options-about-chatbot =
 ## Chatbot onboarding
 
 genai-onboarding-header = Meringkas, bertukar pikiran, dan banyak lagi saat Anda menjelajah
+genai-onboarding-choose-header = Pilih bot obrolan AI untuk digunakan di bilah samping { -brand-short-name }
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = Pilih bot obrolan AI untuk digunakan di bilah samping { -brand-short-name }. Kami akan menampilkan detail setiap bot obrolan saat Anda memilihnya. Beralih kapan saja. <a data-l10n-name="learn-more">Pelajari lebih lanjut</a>
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-choose-description = Beralih kapan saja. Untuk bantuan memilih, <a data-l10n-name="learn-more">pelajari lebih lanjut tentang setiap bot obrolan</a>.
 genai-onboarding-primary = Lanjutkan
 genai-onboarding-secondary = Tutup
 genai-onboarding-claude-tooltip =

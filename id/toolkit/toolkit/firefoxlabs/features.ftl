@@ -33,3 +33,6 @@ experimental-features-contextual-password-manager-description = Akses kata sandi
 experimental-features-custom-wallpaper =
     .label = Pilih wallpaper atau warna khusus untuk Tab Baru
 experimental-features-custom-wallpaper-description = Unggah wallpaper Anda sendiri atau pilih warna khusus untuk latar belakang Tab Baru Anda.
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = Pratinjau tautan

@@ -85,6 +85,11 @@ client-auth-cert-details-issued-by = Diterbitkan oleh: { $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = Disimpan di: { $storedOn }
+client-auth-cert-remember-label = Ingat pilihan ini:
+client-auth-cert-remember-never =
+    .label = Sekali
+client-auth-cert-remember-temporarily =
+    .label = Untuk sesi ini
 client-auth-cert-remember-box =
     .label = Ingat pilihan ini
 

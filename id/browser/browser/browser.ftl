@@ -378,6 +378,7 @@ quickactions-restart = Mulai Ulang { -brand-short-name }
 quickactions-cmd-restart = mulai ulang
 # Opens the screenshot tool
 quickactions-screenshot3 = Ambil tangkapan layar
+quickactions-cmd-screenshot2 = tangkapan layar, ambil tangkapan layar
 quickactions-cmd-screenshot = tangkapan layar
 # Opens about:preferences
 quickactions-settings2 = Kelola pengaturan
@@ -390,6 +391,7 @@ quickactions-update = Perbarui { -brand-short-name }
 quickactions-cmd-update = versi baru
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Lihat Kode Sumber Laman
+quickactions-cmd-viewsource2 = lihat sumber, sumber, sumber laman
 quickactions-cmd-viewsource = lihat kode sumber, sumber
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
