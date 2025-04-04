@@ -358,10 +358,10 @@ quickactions-cmd-inspector2 = επιθεώρηση, επιθεώρηση σελ�
 quickactions-cmd-inspector = επιθεώρηση, εργαλεία προγραμματιστή, εργαλεία ανάπτυξης, devtools
 # Opens about:logins
 quickactions-logins2 = Διαχείριση κωδικών πρόσβασης
-quickactions-cmd-logins = συνδέσεις, στοιχεία σύνδεσης, διαπιστευτήρια, κωδικοί πρόσβασης
+quickactions-cmd-logins = συνδέσεις, στοιχεία σύνδεσης, διαπιστευτήρια, κωδικοί πρόσβασης, κωδικοί
 # Opens about:addons page in the plugins section
 quickactions-plugins = Διαχείριση αρθρωμάτων
-quickactions-cmd-plugins = αρθρώματα
+quickactions-cmd-plugins = αρθρώματα, plugins
 # Opens the print dialog
 quickactions-print2 = Εκτύπωση σελίδας
 quickactions-cmd-print = εκτύπωση
@@ -370,7 +370,7 @@ quickactions-savepdf = Αποθήκευση σελίδας ως PDF
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Άνοιγμα ιδιωτικού παραθύρου
-quickactions-cmd-private = ιδιωτική περιήγηση
+quickactions-cmd-private = ιδιωτική περιήγηση, ανώνυμη περιήγηση
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Ανανέωση του { -brand-short-name }
 quickactions-cmd-refresh = ανανέωση, επαναφόρτωση
@@ -380,7 +380,7 @@ quickactions-cmd-restart = επανεκκίνηση
 # Opens the screenshot tool
 quickactions-screenshot3 = Λήψη στιγμιότυπου
 quickactions-cmd-screenshot2 = στιγμιότυπο, στιγμιότυπο οθόνης, λήψη στιγμιότυπου, screenshot
-quickactions-cmd-screenshot = στιγμιότυπο
+quickactions-cmd-screenshot = στιγμιότυπο, στιγμιότυπο οθόνης, screenshot
 # Opens about:preferences
 quickactions-settings2 = Διαχείριση ρυθμίσεων
 quickactions-cmd-settings = ρυθμίσεις, προτιμήσεις, επιλογές
@@ -389,11 +389,11 @@ quickactions-themes = Διαχείριση θεμάτων
 quickactions-cmd-themes = θέματα
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Ενημέρωση του { -brand-short-name }
-quickactions-cmd-update = ενημέρωση
+quickactions-cmd-update = ενημέρωση, αναβάθμιση
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Προβολή πηγαίου κώδικα σελίδας
 quickactions-cmd-viewsource2 = προβολή πηγής, πηγή, πηγή σελίδας
-quickactions-cmd-viewsource = προβολή πηγής, πηγαίος κώδικας
+quickactions-cmd-viewsource = προβολή πηγής, πηγαίος κώδικας, πηγή
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Μάθετε περισσότερα για τις γρήγορες ενέργειες
