@@ -354,6 +354,7 @@ quickactions-help = Help foar { -brand-product-name }
 quickactions-cmd-help = help, stipe
 # Opens the devtools web inspector
 quickactions-inspector2 = Developer Tools iepenje
+quickactions-cmd-inspector2 = inspector, devtools, ûntwikkelersark
 quickactions-cmd-inspector = inspector, devtools
 # Opens about:logins
 quickactions-logins2 = Wachtwurden beheare
@@ -378,6 +379,7 @@ quickactions-restart = { -brand-short-name } opnij starte
 quickactions-cmd-restart = opnij starte
 # Opens the screenshot tool
 quickactions-screenshot3 = In skermôfbylding meitsje
+quickactions-cmd-screenshot2 = skermôfdruk, in skermôfdruk nimme
 quickactions-cmd-screenshot = skermôfdruk
 # Opens about:preferences
 quickactions-settings2 = Ynstellingen beheare
@@ -390,6 +392,7 @@ quickactions-update = { -brand-short-name } bywurkje
 quickactions-cmd-update = bywurkje
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Sideboarne besjen
+quickactions-cmd-viewsource2 = boarne besjen, boarne, sideboarne
 quickactions-cmd-viewsource = boarne besjen, boarne
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

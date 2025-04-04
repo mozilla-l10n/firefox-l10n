@@ -33,3 +33,11 @@ experimental-features-contextual-password-manager-description = Benader uw wacht
 experimental-features-custom-wallpaper =
     .label = Kies een aangepaste achtergrond of kleur voor de Nieuw-tabbladpagina
 experimental-features-custom-wallpaper-description = Upload uw eigen achtergrond of kies een aangepaste kleur voor de achtergrond van uw Nieuw-tabbladpagina.
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = Koppelingsvoorbeelden
+experimental-features-link-previews-description =
+    { PLATFORM() ->
+        [macos] Houd de muisaanwijzer boven een koppeling en druk op Shift (⇧) + Option (⌥) of Alt om meer over een webpagina te lezen voordat u klikt. Voorbeelden kunnen details zoals titel en leestijd bevatten. Van sommige webpagina’s kan AI ook de paginatekst lezen en de belangrijkste punten aanmaken. De AI is geoptimaliseerd voor het lezen en aanmaken van Engelse tekst. Om uw privacy voorop te stellen, wordt de AI lokaal op uw computer uitgevoerd. <a data-l10n-name="connect">Feedback delen</a>
+       *[other] Houd de muisaanwijzer boven een koppeling en druk op Shift + Alt om meer over een webpagina te lezen voordat u klikt. Voorbeelden kunnen details zoals titel en leestijd bevatten. Van sommige webpagina’s kan AI ook de paginatekst lezen en de belangrijkste punten aanmaken. De AI is geoptimaliseerd voor het lezen en aanmaken van Engelse tekst. Om uw privacy voorop te stellen, wordt de AI lokaal op uw computer uitgevoerd. <a data-l10n-name="connect">Feedback delen</a>
+    }

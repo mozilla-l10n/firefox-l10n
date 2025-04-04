@@ -109,8 +109,11 @@ genai-options-about-chatbot =
 ## Chatbot onboarding
 
 genai-onboarding-header = Gearfetsje, brainstoarmje, en mear wylst jo sneupe
+genai-onboarding-choose-header = Kies in AI-chatbot om te brûken yn de { -brand-short-name }-sydbalke
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = Kies in AI-chatbot om te brûken yn de { -brand-short-name }-sidebalke. Wy toane details oer elke chatbot as jo dizze selektearje. Wikselje op elk winske momint. <a data-l10n-name="learn-more">Mear ynfo</a>
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-choose-description = Wikselje op elk winske momint. Lês foar help by it kiezen <a data-l10n-name="learn-more">mear oer elke chatbot</a>.
 genai-onboarding-primary = Trochgean
 genai-onboarding-secondary = Slute
 genai-onboarding-claude-tooltip =
