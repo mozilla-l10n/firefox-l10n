@@ -327,10 +327,10 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Προβολή προσθέτων
-quickactions-cmd-addons2 = πρόσθετα
+quickactions-cmd-addons2 = πρόσθετα, add-ons
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Διαχείριση σελιδοδεικτών
-quickactions-cmd-bookmarks = σελιδοδείκτες
+quickactions-cmd-bookmarks = σελιδοδείκτες, αγαπημένα
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Απαλοιφή πρόσφατου ιστορικού
 quickactions-cmd-clearrecenthistory = απαλοιφή πρόσφατου ιστορικού, ιστορικό
@@ -339,7 +339,7 @@ quickactions-clearhistory = Απαλοιφή ιστορικού
 quickactions-cmd-clearhistory = απαλοιφή ιστορικού, εκκαθάριση ιστορικού, διαγραφή ιστορικού
 # Opens about:downloads page
 quickactions-downloads2 = Προβολή λήψεων
-quickactions-cmd-downloads = λήψεις
+quickactions-cmd-downloads = λήψεις, αρχεία λήψης
 # Opens about:addons page in the extensions section
 quickactions-extensions = Διαχείριση επεκτάσεων
 quickactions-cmd-extensions = επεκτάσεις
@@ -354,6 +354,7 @@ quickactions-help = Βοήθεια { -brand-product-name }
 quickactions-cmd-help = βοήθεια, υποστήριξη
 # Opens the devtools web inspector
 quickactions-inspector2 = Άνοιγμα εργαλείων ανάπτυξης
+quickactions-cmd-inspector2 = επιθεώρηση, επιθεώρηση σελίδας, εργαλεία ανάπτυξης, ανάπτυξη, devtools
 quickactions-cmd-inspector = επιθεώρηση, εργαλεία προγραμματιστή, εργαλεία ανάπτυξης, devtools
 # Opens about:logins
 quickactions-logins2 = Διαχείριση κωδικών πρόσβασης
@@ -378,6 +379,7 @@ quickactions-restart = Επανεκκίνηση του { -brand-short-name }
 quickactions-cmd-restart = επανεκκίνηση
 # Opens the screenshot tool
 quickactions-screenshot3 = Λήψη στιγμιότυπου
+quickactions-cmd-screenshot2 = στιγμιότυπο, στιγμιότυπο οθόνης, λήψη στιγμιότυπου, screenshot
 quickactions-cmd-screenshot = στιγμιότυπο
 # Opens about:preferences
 quickactions-settings2 = Διαχείριση ρυθμίσεων
@@ -390,6 +392,7 @@ quickactions-update = Ενημέρωση του { -brand-short-name }
 quickactions-cmd-update = ενημέρωση
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Προβολή πηγαίου κώδικα σελίδας
+quickactions-cmd-viewsource2 = προβολή πηγής, πηγή, πηγή σελίδας
 quickactions-cmd-viewsource = προβολή πηγής, πηγαίος κώδικας
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
