@@ -33,3 +33,6 @@ experimental-features-contextual-password-manager-description = Dostańśo direk
 experimental-features-custom-wallpaper =
     .label = Wubjeŕśo swójski slězynowy wobraz abo swójsku barwu za bok nowego rejtarika
 experimental-features-custom-wallpaper-description = Nagrajśo swójski slězynowy wobraz abo wubjeŕśo swójsku barwu za slězynu swójogo boka nowego rejtarika.
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = Wótkazowe pśeglědy

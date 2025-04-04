@@ -354,6 +354,7 @@ quickactions-help = Pomoc { -brand-product-name }
 quickactions-cmd-help = pomoc, pódpěra
 # Opens the devtools web inspector
 quickactions-inspector2 = Wuwijaŕske rědy wócyniś
+quickactions-cmd-inspector2 = inspektor, wuwijaŕske rědy, devtools
 quickactions-cmd-inspector = inspektor, wuwijaŕske rědy
 # Opens about:logins
 quickactions-logins2 = Gronidła zastojaś
@@ -378,6 +379,7 @@ quickactions-restart = { -brand-short-name } znowego startowaś
 quickactions-cmd-restart = znowego startowaś
 # Opens the screenshot tool
 quickactions-screenshot3 = Foto wobrazowki cyniś
+quickactions-cmd-screenshot2 = foto wobrazowki, foto wobrazowki gótowaś
 quickactions-cmd-screenshot = foto wobrazowki
 # Opens about:preferences
 quickactions-settings2 = Nastajenja zastojaś
@@ -390,6 +392,7 @@ quickactions-update = { -brand-short-name } aktualizěrowaś
 quickactions-cmd-update = aktualizěrowaś
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Žrědłowy tekst boka pokazaś
+quickactions-cmd-viewsource2 = žrědło pokazaś, žrědło, žrědło boka
 quickactions-cmd-viewsource = žrědło pokazaś, žrědło
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

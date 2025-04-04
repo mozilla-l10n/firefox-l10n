@@ -115,8 +115,11 @@ genai-options-about-chatbot =
 ## Chatbot onboarding
 
 genai-onboarding-header = Zespominaś, namakanje idejow a wěcej, gaž pśeglědujośo
+genai-onboarding-choose-header = Wubjeŕśo chatbot KI, kótaryž se ma w bocnicy { -brand-short-name } wužywaś
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = Wubjeŕśo chatowy bot, aby jen w bocnicy { -brand-short-name } wužywał. Pokažomy drobnostki wó kuždem chatowem bośe, gaž jen wuběraśo. Móžośo jen kuždy cas změniś. <a data-l10n-name="learn-more">Dalšne informacije</a>
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-choose-description = Změńśo kuždy cas. <a data-l10n-name="learn-more">Zgóńśo wěcej wó kuždem chatbośe</a> za pomoc.
 genai-onboarding-primary = Dalej
 genai-onboarding-secondary = Zacyniś
 genai-onboarding-claude-tooltip =

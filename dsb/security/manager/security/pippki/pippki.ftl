@@ -85,6 +85,13 @@ client-auth-cert-details-issued-by = Wudany wót: { $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = Skłaźony na: { $storedOn }
+client-auth-cert-remember-label = Toś ten rozsud se spomnjeś:
+client-auth-cert-remember-never =
+    .label = Jaden raz
+client-auth-cert-remember-always =
+    .label = Stawnje
+client-auth-cert-remember-temporarily =
+    .label = Za toś to pósejźenje
 client-auth-cert-remember-box =
     .label = Toś ten rozsud se spomnjeś
 

@@ -117,6 +117,7 @@ newtab-menu-delete-pocket = Z { -pocket-brand-name } wulašowaś
 newtab-menu-archive-pocket = W { -pocket-brand-name } archiwěrowaś
 newtab-menu-show-privacy-info = Naše sponsory a waša priwatnosć
 newtab-menu-about-fakespot = Wó { -fakespot-brand-name }
+newtab-menu-report-content = Toś to wopśimjeśe k wěsći daś
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Blokěrowaś
@@ -128,6 +129,7 @@ newtab-menu-section-unfollow = Temje wěcej njeslědowaś
 
 newtab-menu-manage-sponsored-content = Sponsorowane wopśimjeśe zastojaś
 newtab-menu-our-sponsors-and-your-privacy = Naše sponsory a waša priwatnosć
+newtab-menu-report-this-ad = Toś to wabjenje k wěsći daś
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 

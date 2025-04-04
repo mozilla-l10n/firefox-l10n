@@ -36,3 +36,8 @@ experimental-features-custom-wallpaper-description = Nahrajće swójski pozadkow
 # Link Previews with AI
 experimental-features-link-previews =
     .label = Wotkazowe přehlady
+experimental-features-link-previews-description =
+    { PLATFORM() ->
+        [macos] Zo byšće wjace wo webstronje zhonił, prjedy hač klikaće, stajće pokazowak myški na wotkaz a tłóčće Umsch (⇧) + Alt. Přehlady móža podrobnosće kaž titul a čitanski čas wobsahować. Za někotre webstrony móže KI tež tekst strony čitać a klučowe dypki generować. KI je optimowana, zo by jendźelski tekst čitała a generowała. Zo by wašej priwatnosći prioritu dała, so KI lokalnje na wašim ličaku wuwjedźe. <a data-l10n-name="connect">Měnjenje dźělić</a>
+       *[other] Zo byšće wjace wo webstronje zhonił, prjedy hač klikaće, stajće pokazowak myški na wotkaz a tłóčće Umsch (⇧) plus ⌥ option abo Alt. Přehlady móža podrobnosće kaž titul a čitanski čas wobsahować. Za někotre webstrony móže KI tež tekst strony čitać a klučowe dypki generować. KI je optimowana, zo by jendźelski tekst čitała a generowała. Zo by wašej priwatnosći prioritu dała, so KI lokalnje na wašim ličaku wuwjedźe. <a data-l10n-name="connect">Měnjenje dźělić</a>
+    }

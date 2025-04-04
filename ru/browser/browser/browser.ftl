@@ -354,6 +354,7 @@ quickactions-help = Справка по { -brand-product-name }
 quickactions-cmd-help = справка, поддержка
 # Opens the devtools web inspector
 quickactions-inspector2 = Открыть Инструменты разработчика
+quickactions-cmd-inspector2 = инспектор, devtools, инструменты разработчика
 quickactions-cmd-inspector = инспектор, инструменты разработки
 # Opens about:logins
 quickactions-logins2 = Управление паролями
@@ -378,6 +379,7 @@ quickactions-restart = Перезапустить { -brand-short-name }
 quickactions-cmd-restart = перезапустить
 # Opens the screenshot tool
 quickactions-screenshot3 = Сделать снимок экрана
+quickactions-cmd-screenshot2 = скриншот, сделать скриншот
 quickactions-cmd-screenshot = скриншот
 # Opens about:preferences
 quickactions-settings2 = Управление настройками
