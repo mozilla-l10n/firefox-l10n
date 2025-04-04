@@ -148,6 +148,10 @@ preferences-data-migration-description = Внасяне на отметки, п�
 preferences-data-migration-button =
     .label = Внасяне на данни
     .accesskey = н
+preferences-profiles-header = Профили
+preferences-manage-profiles-learn-more = Научете повече
+preferences-manage-profiles-button =
+    .label = Управление на профилите
 tabs-group-header = Раздели
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab обикаля разделите в реда на използване
@@ -226,6 +230,12 @@ settings-tabs-show-image-in-preview =
     .label = Показване на визуализация, когато задържите курсора на мишката върху раздел
     .accessKey = х
 browser-layout-header = Оформление на браузъра
+browser-layout-horizontal-tabs =
+    .label = Хоризонтални раздели
+browser-layout-horizontal-tabs-desc = Показват се в горната част на браузъра
+browser-layout-vertical-tabs =
+    .label = Вертикални раздели
+browser-layout-vertical-tabs-desc = Показват се отстрани, в страничната лента
 browser-layout-show-sidebar =
     .label = Странична лента
 browser-layout-show-sidebar-desc = Бърз достъп до отметки, раздели от вашия телефон, AI чат ботове и други екстри, без да напускате основния изглед на браузъра.
@@ -260,6 +270,16 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Управлявайте темите на { -brand-short-name } в <a data-l10n-name="themes-link">Управление на добавки</a>
+preferences-contrast-control-header = Управление на контраста
+preferences-contrast-control-use-platform-settings =
+    .label = Автоматично (използване на системните настройки)
+    .accesskey = А
+preferences-contrast-control-off =
+    .label = Изключено
+    .accesskey = И
+preferences-contrast-control-custom =
+    .label = По избор
+    .accesskey = з
 preferences-colors-header = Цветове
 preferences-colors-description = Заменете цветовете по подразбиране на { -brand-short-name } за текст, фонове на страници и препратки.
 preferences-colors-manage-button =
@@ -1116,6 +1136,11 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Адресна лента
 addressbar-suggest = При въвеждане в адресната лента, подсказване с
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Адресна лента — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Научете повече
 addressbar-locbar-history-option =
     .label = История на разглеждане
     .accesskey = р

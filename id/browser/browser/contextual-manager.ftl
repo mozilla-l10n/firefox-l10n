@@ -59,14 +59,27 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] Berkas TSV
        *[other] Berkas TSV
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = Sandi diimpor
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
 contextual-manager-passwords-import-success-message = Baru: { $added }, Diperbarui: { $modified }
+contextual-manager-passwords-import-detailed-report = Lihat laporan detail
 contextual-manager-passwords-import-success-button = Selesai
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = Tidak dapat mengimpor sandi
+    .message = Pastikan berkas Anda menyertakan kolom untuk situs web, nama pengguna, dan sandi.
 contextual-manager-passwords-import-error-button-try-again = Coba Lagi
 contextual-manager-passwords-import-error-button-cancel = Batalkan
+contextual-manager-passwords-import-learn-more = Pelajari tentang mengimpor sandi
+contextual-manager-passwords-export-success-heading =
+    .heading = Sandi diekspor
 contextual-manager-passwords-export-success-button = Selesai
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = Ekspor sandi dalam berkas?
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = Setelah diekspor, sebaiknya hapus agar orang lain yang menggunakan perangkat ini tidak dapat melihat sandi Anda.
 contextual-manager-export-passwords-dialog-confirm-button = Lanjutkan dengan ekspor
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Ekspor Kata Sandi dari { -brand-short-name }
@@ -102,10 +115,62 @@ contextual-manager-passwords-remove-all-confirm-button =
         [1] Hapus
        *[other] Hapus Seluruhnya
     }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] Ini akan menghapus sandi yang disimpan di { -brand-short-name } serta semua peringatan pembobolan. Tindakan ini tidak dapat dibatalkan.
+       *[other] Ini akan menghapus sandi yang disimpan di { -brand-short-name } serta semua peringatan pembobolan. Tindakan ini tidak dapat dibatalkan.
+    }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] Ini akan menghapus sandi yang disimpan di { -brand-short-name } pada semua perangkat yang tersinkronisasi serta menghapus semua peringatan pembobolan. Tindakan ini tidak dapat dibatalkan.
+       *[other] Ini akan menghapus sandi yang disimpan di { -brand-short-name } pada semua perangkat yang tersinkronisasi serta menghapus semua peringatan pembobolan. Tindakan ini tidak dapat dibatalkan.
+    }
+contextual-manager-passwords-origin-label = Situs Web
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Nama Pengguna
+    .data-after = Disalin
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Sandi
+    .data-after = Disalin
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Filter sandi
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = Sandi ditambahkan untuk { $url }
+contextual-manager-passwords-add-password-success-button = Tampilkan
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = Sandi dan nama pengguna untuk { $url } sudah ada
+contextual-manager-passwords-password-already-exists-error-button = Buka sandi
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Sandi tersimpan
 contextual-manager-passwords-update-password-success-button = Selesai
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] Sandi dihapus
+           *[other] Sandi dihapus
+        }
 contextual-manager-passwords-delete-password-success-button = Selesai
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = Semua ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = Peringatan ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Hapus kata sandi?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = Anda tidak bisa membatalkan ini.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = Kembali
 # This message confirms that the user wants to remove an existing login.
@@ -121,6 +186,12 @@ contextual-manager-passwords-alert-list =
 contextual-manager-passwords-breached-origin-heading-and-message =
     .heading = Perubahan sandi disarankan
     .message = Sandi dari situs web ini dilaporkan telah dicuri atau bocor. Ubah sandi untuk melindungi akun Anda.
+contextual-manager-passwords-breached-origin-link-message = Bagaimana { -brand-product-name } mengetahui pelanggaran data?
+contextual-manager-passwords-change-password-button = Ubah Sandi
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = Perubahan sandi disarankan
+    .message = Sandi ini mudah ditebak. Ubah sandi untuk melindungi akun Anda.
+contextual-manager-passwords-vulnerable-password-link-message = Bagaimana { -brand-product-name } mengenali sandi yang lemah?
 contextual-manager-passwords-no-username-heading-and-message =
     .heading = Tambahkan nama pengguna
     .message = Tambahkan pengguna untuk masuk lebih cepat
@@ -134,6 +205,9 @@ contextual-manager-passwords-edit-label =
     .label = Edit sandi
 contextual-manager-passwords-remove-label =
     .title = Hapus sandi
+contextual-manager-passwords-origin-tooltip = Masukkan alamat yang tepat untuk masuk ke situs ini.
+contextual-manager-passwords-username-tooltip = Masukkan nama pengguna, alamat surel, atau nomor akun yang Anda gunakan untuk masuk.
+contextual-manager-passwords-password-tooltip = Masukkan sandi yang digunakan untuk masuk ke akun ini.
 
 ## Password Card
 
@@ -160,6 +234,17 @@ contextual-manager-origin-login-line =
 contextual-manager-origin-login-line-with-alert =
     .aria-label = Kunjungi { $url } (Peringatan)
     .title = Kunjungi { $url } (Peringatan)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = Salin Nama Pengguna { $username }
+    .title = Salin Nama Pengguna { $username }
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = Salin Nama Pengguna { $username } (Peringatan)
+    .title = Salin Nama Pengguna { $username } (Peringatan)
 contextual-manager-password-login-line =
     .aria-label = Salin Sandi
     .title = Salin Sandi
@@ -171,6 +256,8 @@ contextual-manager-edit-login-button = Sunting
     .tooltiptext = Sunting Sandi
 contextual-manager-view-alert-heading =
     .heading = Lihat peringatan
+contextual-manager-view-alert-button =
+    .tooltiptext = Tinjau peringatan
 contextual-manager-show-password-button =
     .aria-label = Tampilkan Sandi
     .title = Tampilkan Sandi
@@ -187,6 +274,11 @@ contextual-manager-passwords-no-passwords-found-message = Tidak ada sandi ditemu
 
 # This string encourages the user to save their passwords in Firefox (the "safe spot").
 contextual-manager-passwords-no-passwords-header = Simpan kata sandi Anda di tempat yang aman.
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = Semua sandi dienkripsi, dan kami akan memantau pelanggaran serta memberi peringatan jika akun Anda terdampak.
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = Tambahkan di sini untuk memulai.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Tambahkan manual
 

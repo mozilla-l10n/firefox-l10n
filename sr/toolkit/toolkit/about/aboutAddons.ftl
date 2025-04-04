@@ -30,19 +30,19 @@ help-button = Помоћ
 sidebar-help-button-title =
     .title = Помоћ
 addons-settings-button =
-    Подешавања { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] програма { -brand-short-name }
+    { -brand-short-name.gender ->
+        [masculine] Подешавања { -brand-short-name(case: "gen") }
+        [feminine] Подешавања { -brand-short-name(case: "gen") }
+        [neuter] Подешавања { -brand-short-name(case: "gen") }
+       *[other] Подешавања програма { -brand-short-name }
     }
 sidebar-settings-button-title =
     .title =
-        Подешавања { -brand-short-name.gender ->
-            [masculine] { -brand-short-name(case: "gen") }
-            [feminine] { -brand-short-name(case: "gen") }
-            [neuter] { -brand-short-name(case: "gen") }
-           *[other] програма { -brand-short-name }
+        { -brand-short-name.gender ->
+            [masculine] Подешавања { -brand-short-name(case: "gen") }
+            [feminine] Подешавања { -brand-short-name(case: "gen") }
+            [neuter] Подешавања { -brand-short-name(case: "gen") }
+           *[other] Подешавања програма { -brand-short-name }
         }
 show-unsigned-extensions-button =
     .label = Неки додаци се не могу проверити
@@ -115,13 +115,20 @@ legacy-extensions =
     .value = Застарели додаци
 legacy-extensions-description = Ове екстензије не подржавају тренутни { -brand-short-name } стандард тако да су онемогућене. <label data-l10n-name="legacy-learn-more">Сазнајте више о променама додатака</label>
 private-browsing-description2 =
-    Нови додаци које додате у { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "acc") }
-        [feminine] { -brand-short-name(case: "acc") }
-        [neuter] { -brand-short-name(case: "acc") }
-       *[other] програм { -brand-short-name }
-    } од сада неће радити у приватним прозорима и неће имати приступ вашим активностима на интернету. Увели смо ову промену како бисмо очували вашу приватност док користите режим приватног прегледања.
-    <label data-l10n-name="private-browsing-learn-more">Сазнајте како да промените подешавања додатка</label>
+    { -brand-short-name.gender ->
+        [masculine]
+            Нови додаци које додате у { -brand-short-name(case: "acc") } од сада неће радити у приватним прозорима и неће имати приступ вашим активностима на интернету. Увели смо ову промену како бисмо очували вашу приватност док користите режим приватног прегледања.
+            <label data-l10n-name="private-browsing-learn-more">Сазнајте како да промените подешавања додатка</label>
+        [feminine]
+            Нови додаци које додате у { -brand-short-name(case: "acc") } од сада неће радити у приватним прозорима и неће имати приступ вашим активностима на интернету. Увели смо ову промену како бисмо очували вашу приватност док користите режим приватног прегледања.
+            <label data-l10n-name="private-browsing-learn-more">Сазнајте како да промените подешавања додатка</label>
+        [neuter]
+            Нови додаци које додате у { -brand-short-name(case: "acc") } од сада неће радити у приватним прозорима и неће имати приступ вашим активностима на интернету. Увели смо ову промену како бисмо очували вашу приватност док користите режим приватног прегледања.
+            <label data-l10n-name="private-browsing-learn-more">Сазнајте како да промените подешавања додатка</label>
+       *[other]
+            Нови додаци које додате у програм { -brand-short-name } од сада неће радити у приватним прозорима и неће имати приступ вашим активностима на интернету. Увели смо ову промену како бисмо очували вашу приватност док користите режим приватног прегледања.
+            <label data-l10n-name="private-browsing-learn-more">Сазнајте како да промените подешавања додатка</label>
+    }
 addon-category-discover = Препоруке
 addon-category-discover-title =
     .title = Препоруке

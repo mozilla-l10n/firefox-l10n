@@ -261,6 +261,7 @@ shopping-opt-in-integrated-headline = Güvenle alışveriş yapın
 
 shopping-callout-opt-in-integrated-headline = Bu değerlendirmelere güvenebilir misiniz?
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Kapat
+shopping-callout-not-opted-in-integrated-reminder-accept-button = Değerlendirme kontrolcüsünü aç
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = Bu öneriyi bir daha gösterme
 shopping-callout-not-opted-in-integrated-reminder-show-fewer = Daha az öneri göster
 shopping-callout-not-opted-in-integrated-reminder-manage-settings = Ayarları yönet
@@ -277,6 +278,7 @@ shopping-empty-state-non-supported-site = Değerlendirme kontrolcüsü aşağıd
 ## Confirm disabling Review Checker for newly opted out users
 
 shopping-integrated-callout-opted-out-title = Değerlendirme kontrolcüsü kapalı
+shopping-integrated-callout-opted-out-subtitle = Yeniden etkinleştirmek isterseniz kenar çubuğundan fiyat etiketini seçip değerlendirme kontrolcüsünü açın.
 
 ## Callout for where to find Review Checker when the sidebar closes
 

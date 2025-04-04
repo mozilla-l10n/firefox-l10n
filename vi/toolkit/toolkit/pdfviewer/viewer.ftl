@@ -320,8 +320,6 @@ pdfjs-editor-highlight-editor =
 # “Drawing” is a noun, the string is used on the editor for drawings.
 pdfjs-editor-ink-editor =
     .aria-label = Trình chỉnh sửa bản vẽ
-pdfjs-editor-signature-editor =
-    .aria-label = Trình chỉnh sửa chữ ký
 pdfjs-editor-stamp-editor =
     .aria-label = Trình chỉnh sửa hình ảnh
 
