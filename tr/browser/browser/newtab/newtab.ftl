@@ -117,6 +117,7 @@ newtab-menu-delete-pocket = { -pocket-brand-name }’tan sil
 newtab-menu-archive-pocket = { -pocket-brand-name }’ta arşivle
 newtab-menu-show-privacy-info = Sponsorlarımız ve gizliliğiniz
 newtab-menu-about-fakespot = { -fakespot-brand-name } hakkında
+newtab-menu-report-content = Bu içeriği rapor et
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Engelle
@@ -128,6 +129,7 @@ newtab-menu-section-unfollow = Konuyu takip etmeyi bırak
 
 newtab-menu-manage-sponsored-content = Sponsorlu içerikleri yönet
 newtab-menu-our-sponsors-and-your-privacy = Sponsorlarımız ve gizliliğiniz
+newtab-menu-report-this-ad = Bu reklamı rapor et
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 

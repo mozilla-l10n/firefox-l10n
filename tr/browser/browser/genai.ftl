@@ -111,8 +111,11 @@ genai-options-about-chatbot =
 ## Chatbot onboarding
 
 genai-onboarding-header = Gezinirken içerikleri özetleyin, yeni fikirler üretin ve daha fazlasını yapın
+genai-onboarding-choose-header = { -brand-short-name } kenar çubuğunda kullanılacak yapay zekâ botunu seçin
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = { -brand-short-name } kenar çubuğunda kullanmak istediğiniz yapay zekâ sohbet botunu seçin. Seçtiğiniz sohbet botuyla ilgili ayrıntıları da görebilirsiniz. İstediğiniz zaman sohbet botunuzu değiştirebilirsiniz. <a data-l10n-name="learn-more">Daha fazla bilgi alın</a>
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-choose-description = İstediğiniz zaman değiştirebilirsiniz. Seçiminize yardımcı olması için <a data-l10n-name="learn-more">her sohbet botu hakkında daha fazla bilgi alabilirsiniz</a>.
 genai-onboarding-primary = İleri
 genai-onboarding-secondary = Kapat
 genai-onboarding-claude-tooltip =

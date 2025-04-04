@@ -354,6 +354,7 @@ quickactions-help = { -brand-product-name } yardımı
 quickactions-cmd-help = yardım, destek
 # Opens the devtools web inspector
 quickactions-inspector2 = Geliştirici araçlarını aç
+quickactions-cmd-inspector2 = denetçi, geliştirici araçları, inspector, devtools, dev tools
 quickactions-cmd-inspector = denetçi, geliştirici araçları
 # Opens about:logins
 quickactions-logins2 = Parolaları yönet
@@ -378,6 +379,7 @@ quickactions-restart = { -brand-short-name } tarayıcısını yeniden başlat
 quickactions-cmd-restart = yeniden başlat
 # Opens the screenshot tool
 quickactions-screenshot3 = Ekran görüntüsü al
+quickactions-cmd-screenshot2 = ekran görüntüsü al
 quickactions-cmd-screenshot = ekran görüntüsü
 # Opens about:preferences
 quickactions-settings2 = Ayarları yönet
@@ -390,6 +392,7 @@ quickactions-update = { -brand-short-name } tarayıcısını güncelle
 quickactions-cmd-update = güncelle
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Sayfa kaynağını göster
+quickactions-cmd-viewsource2 = kaynağı göster, kaynak, sayfa kaynağı
 quickactions-cmd-viewsource = kaynağı görüntüle, kaynak
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
