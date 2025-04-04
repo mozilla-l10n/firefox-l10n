@@ -332,6 +332,8 @@ quickactions-cmd-addons2 = tillegg
 quickactions-bookmarks2 = Behandle bokmerker
 quickactions-cmd-bookmarks = bokmerker
 # Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Tøm nylig historikk
+# Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Tøm historikk
 quickactions-cmd-clearhistory = tøm historikk
 # Opens about:downloads page
