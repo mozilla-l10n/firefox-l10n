@@ -117,6 +117,7 @@ newtab-menu-delete-pocket = { -pocket-brand-name }에서 삭제
 newtab-menu-archive-pocket = { -pocket-brand-name }에 보관
 newtab-menu-show-privacy-info = 우리의 스폰서와 개인 정보 보호
 newtab-menu-about-fakespot = { -fakespot-brand-name } 정보
+newtab-menu-report-content = 이 콘텐츠 신고
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = 차단
@@ -128,6 +129,7 @@ newtab-menu-section-unfollow = 주제 팔로우 취소
 
 newtab-menu-manage-sponsored-content = 스폰서 콘텐츠 관리
 newtab-menu-our-sponsors-and-your-privacy = 스폰서와 개인 정보 보호
+newtab-menu-report-this-ad = 이 광고 신고
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 

@@ -205,6 +205,10 @@ addon-updates-manual-updates-found = 업데이트 있는 항목 보기
 
 addon-install-from-file = 파일에서 부가 기능 설치…
     .accesskey = I
+# Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
+# pref is set.
+addon-install-or-update-from-file = 파일에서 부가 기능 설치 또는 업데이트…
+    .accesskey = I
 addon-install-from-file-dialog-title = 설치할 부가 기능 선택
 addon-install-from-file-filter-name = 부가 기능
 addon-open-about-debugging = 부가 기능 디버그

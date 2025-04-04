@@ -33,3 +33,6 @@ experimental-features-contextual-password-manager-description = 사이드바에�
 experimental-features-custom-wallpaper =
     .label = 새 탭의 사용자 지정 배경 화면 또는 색상 선택
 experimental-features-custom-wallpaper-description = 새 탭 배경으로 자신만의 배경 화면을 업로드하거나 사용자 지정 색상을 선택하세요.
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = 링크 미리보기

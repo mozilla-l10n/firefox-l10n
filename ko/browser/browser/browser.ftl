@@ -379,6 +379,7 @@ quickactions-restart = { -brand-short-name } 다시 시작
 quickactions-cmd-restart = 다시 시작, restart
 # Opens the screenshot tool
 quickactions-screenshot3 = 스크린샷 찍기
+quickactions-cmd-screenshot2 = screenshot, take a screenshot, 스크린샷, 스크린샷 찍기
 quickactions-cmd-screenshot = 스크린샷, screenshot
 # Opens about:preferences
 quickactions-settings2 = 설정 관리
@@ -391,6 +392,7 @@ quickactions-update = { -brand-short-name } 업데이트
 quickactions-cmd-update = 업데이트, update
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = 페이지 소스 보기
+quickactions-cmd-viewsource2 = view source, source, page source, 소스 보기, 소스, 페이지 소스
 quickactions-cmd-viewsource = 소스 보기, 소스, view source, source
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

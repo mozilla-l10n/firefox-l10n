@@ -85,6 +85,13 @@ client-auth-cert-details-issued-by = 발급자: { $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = 저장소: { $storedOn }
+client-auth-cert-remember-label = 이 선택 기억하기:
+client-auth-cert-remember-never =
+    .label = 한 번
+client-auth-cert-remember-always =
+    .label = 영구히
+client-auth-cert-remember-temporarily =
+    .label = 이 세션만
 client-auth-cert-remember-box =
     .label = 이 선택 기억하기
 
