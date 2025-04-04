@@ -354,6 +354,7 @@ quickactions-help = Adjuta pro { -brand-product-name }
 quickactions-cmd-help = adjuta, supporto
 # Opens the devtools web inspector
 quickactions-inspector2 = Aperir utensiles de disveloppator
+quickactions-cmd-inspector2 = inspector, devtools, utensiles pro disveloppatores
 quickactions-cmd-inspector = analyse pagina, utensiles de disveloppatores
 # Opens about:logins
 quickactions-logins2 = Gerer contrasignos
@@ -378,6 +379,7 @@ quickactions-restart = Reinitiar { -brand-short-name }
 quickactions-cmd-restart = reinitiar
 # Opens the screenshot tool
 quickactions-screenshot3 = Capturar un instantaneo
+quickactions-cmd-screenshot2 = instantaneo, prender un instantaneo
 quickactions-cmd-screenshot = instantaneo de schermo
 # Opens about:preferences
 quickactions-settings2 = Gerer parametros
@@ -390,6 +392,7 @@ quickactions-update = Actualisar { -brand-short-name }
 quickactions-cmd-update = actualisar
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Vider le codice fonte del pagina
+quickactions-cmd-viewsource2 = vider fonte, fonte, pagina fonte
 quickactions-cmd-viewsource = vider fonte, fonte
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

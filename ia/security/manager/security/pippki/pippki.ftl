@@ -85,6 +85,7 @@ client-auth-cert-details-issued-by = Emittite per: { $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = Immagazinate sur: { $storedOn }
+client-auth-cert-remember-label = Memorar iste decision:
 client-auth-cert-remember-never =
     .label = Un vice
 client-auth-cert-remember-always =

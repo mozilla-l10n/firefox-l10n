@@ -33,3 +33,6 @@ experimental-features-contextual-password-manager-description = Accede a tu cont
 experimental-features-custom-wallpaper =
     .label = Seliger un fundo o un color personalisate pro le nove scheda
 experimental-features-custom-wallpaper-description = Carga tu proprie fundo o selige un color personalisate pro le fundo de tu Nove scheda.
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = Vistas preliminar de ligamine
