@@ -149,6 +149,7 @@ preferences-data-migration-button =
     .label = Внасяне на данни
     .accesskey = н
 preferences-profiles-header = Профили
+preferences-manage-profiles-description = Всеки профил има отделни данни и настройки за сърфиране, включително история, пароли и други.
 preferences-manage-profiles-learn-more = Научете повече
 preferences-manage-profiles-button =
     .label = Управление на профилите
@@ -271,6 +272,7 @@ preferences-web-appearance-override-warning2 =
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Управлявайте темите на { -brand-short-name } в <a data-l10n-name="themes-link">Управление на добавки</a>
 preferences-contrast-control-header = Управление на контраста
+preferences-contrast-control-description = Уеб страниците използват многообразие от цветове за обектите на преден план и за фона. Конфигурирайте { -brand-short-name } да използва едни и същи цветове за различните сайтове за по-добра четимост.
 preferences-contrast-control-use-platform-settings =
     .label = Автоматично (използване на системните настройки)
     .accesskey = А
@@ -1173,6 +1175,12 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Показване на набиращи популярност предложения за търсене
     .accesskey = щ
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = Предложения от { -brand-short-name }
+addressbar-locbar-suggest-nonsponsored-desc = Получавайте предложения от мрежата, свързани с вашето търсене.
+addressbar-locbar-suggest-sponsored-option =
+    .label = Предложения от спонсори
 addressbar-quickactions-learn-more = Научете повече
 
 ## Privacy Section - Content Blocking

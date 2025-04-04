@@ -333,7 +333,7 @@ quickactions-bookmarks2 = 管理書籤
 quickactions-cmd-bookmarks = 書籤, 我的最愛, bookmarks, favorite, my favorite
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = 清除最近瀏覽記錄
-quickactions-cmd-clearrecenthistory = 清除最近瀏覽記錄, 歷史記錄, 近期記錄, 紀錄
+quickactions-cmd-clearrecenthistory = 清除最近瀏覽記錄, 歷史記錄, 近期記錄, 記錄, 紀錄, clear recent history, history
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = 清除瀏覽記錄
 quickactions-cmd-clearhistory = 清除瀏覽紀錄, clear history
@@ -342,7 +342,7 @@ quickactions-downloads2 = 檢視下載項目
 quickactions-cmd-downloads = 下載項目, 下載, downloads
 # Opens about:addons page in the extensions section
 quickactions-extensions = 管理擴充套件
-quickactions-cmd-extensions = 擴充套件
+quickactions-cmd-extensions = 擴充套件, extensions
 # Opens Firefox View
 quickactions-firefoxview = 開啟 { -firefoxview-brand-name }
 # English is using "view" and "open view", since the feature name is
@@ -351,7 +351,7 @@ quickactions-firefoxview = 開啟 { -firefoxview-brand-name }
 quickactions-cmd-firefoxview = 開啟 { -firefoxview-brand-name }, { -firefoxview-brand-name }, 開啟 view, view
 # Opens SUMO home page
 quickactions-help = { -brand-product-name } 說明
-quickactions-cmd-help = 說明, 支援, 幫助, 協助
+quickactions-cmd-help = 說明, 支援, 幫助, 協助, help, support
 # Opens the devtools web inspector
 quickactions-inspector2 = 開啟開發者工具
 quickactions-cmd-inspector2 = 檢測器, 開發者工具, inspector, devtools, dev tools
@@ -361,7 +361,7 @@ quickactions-logins2 = 管理密碼
 quickactions-cmd-logins = 登入資訊, 密碼, 帳號, logins, passwords
 # Opens about:addons page in the plugins section
 quickactions-plugins = 管理外掛程式
-quickactions-cmd-plugins = 外掛程式
+quickactions-cmd-plugins = 外掛程式, plugins
 # Opens the print dialog
 quickactions-print2 = 列印頁面
 quickactions-cmd-print = 列印, print
@@ -386,7 +386,7 @@ quickactions-settings2 = 管理設定
 quickactions-cmd-settings = 設定, 偏好設定, 選項, settings, preferences, options
 # Opens about:addons page in the themes section
 quickactions-themes = 管理佈景主題
-quickactions-cmd-themes = 佈景主題
+quickactions-cmd-themes = 佈景主題, themes
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = 更新 { -brand-short-name }
 quickactions-cmd-update = 更新, update

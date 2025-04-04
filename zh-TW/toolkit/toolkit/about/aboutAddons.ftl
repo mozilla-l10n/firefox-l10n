@@ -201,6 +201,10 @@ addon-updates-manual-updates-found = 檢視可用的更新
 
 addon-install-from-file = 從檔案安裝附加元件…
     .accesskey = I
+# Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
+# pref is set.
+addon-install-or-update-from-file = 從檔案安裝或更新附加元件…
+    .accesskey = I
 addon-install-from-file-dialog-title = 請選擇要安裝的附加元件
 addon-install-from-file-filter-name = 附加元件
 addon-open-about-debugging = 對附加元件除錯
