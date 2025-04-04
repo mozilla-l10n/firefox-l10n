@@ -33,3 +33,6 @@ experimental-features-contextual-password-manager-description = Cael mynediad o'
 experimental-features-custom-wallpaper =
     .label = Dewiswch bapur wal neu liw cyfaddas ar gyfer Tab Newydd
 experimental-features-custom-wallpaper-description = Llwythwch i fyny eich papur wal eich hun neu ddewis lliw cyfaddas ar gyfer cefndir eich Tab Newydd.
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = Rhagolygon dolen

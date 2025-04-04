@@ -354,6 +354,7 @@ quickactions-help = Cymorth { -brand-product-name }
 quickactions-cmd-help = cymorth, cefnogaeth
 # Opens the devtools web inspector
 quickactions-inspector2 = Agor Offer Datblygwyr
+quickactions-cmd-inspector2 = arolygydd, devtools, offer datblygwr
 quickactions-cmd-inspector = arolygydd, devtools
 # Opens about:logins
 quickactions-logins2 = Rheoli cyfrineiriau
@@ -378,6 +379,7 @@ quickactions-restart = Ailgychwyn { -brand-short-name }
 quickactions-cmd-restart = ailgychwyn
 # Opens the screenshot tool
 quickactions-screenshot3 = Cymryd llun sgrin
+quickactions-cmd-screenshot2 = llun sgrin, cymerwch lun sgrin
 quickactions-cmd-screenshot = llun sgrin
 # Opens about:preferences
 quickactions-settings2 = Rheoli gosodiadau
@@ -390,6 +392,7 @@ quickactions-update = Diweddaru { -brand-short-name }
 quickactions-cmd-update = diweddaru
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Darllen Cod Gwreiddiol y Dudalen
+quickactions-cmd-viewsource2 = gweld y ffynhonnell, ffynhonnell, ffynhonnell dudalen
 quickactions-cmd-viewsource = gweld ffynhonnell, ffynhonnell
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

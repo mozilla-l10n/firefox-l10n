@@ -119,8 +119,11 @@ genai-options-about-chatbot =
 ## Chatbot onboarding
 
 genai-onboarding-header = Crynhoi, trafod syniadau, a mwy wrth i chi bori
+genai-onboarding-choose-header = Dewiswch sgwrsfot AI i'w ddefnyddio ym mar ochr { -brand-short-name }
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = Dewiswch sgwrsfot AI i'w ddefnyddio ym mar ochr { -brand-short-name }. Byddwn yn dangos manylion pob sgwrsfot pan fyddwch chi'n ei ddewis. Newidiwch nhw unrhyw bryd. <a data-l10n-name="learn-more">Rhagor</a>
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-choose-description = Newidiwch unrhyw bryd. I gael help i ddewis, <a data-l10n-name="learn-more">darllenwch ragor am bob sgwrsfot</a>.
 genai-onboarding-primary = Parhau
 genai-onboarding-secondary = Cau
 genai-onboarding-claude-tooltip =

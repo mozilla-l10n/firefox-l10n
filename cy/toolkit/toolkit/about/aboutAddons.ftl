@@ -203,6 +203,10 @@ addon-updates-manual-updates-found = Gweld Diweddariadau ar Gael
 
 addon-install-from-file = Gosod Ychwanegyn o Ffeil…
     .accesskey = G
+# Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
+# pref is set.
+addon-install-or-update-from-file = Gosod neu ddiweddaru Ychwanegyn o Ffeil…
+    .accesskey = G
 addon-install-from-file-dialog-title = Dewis ategyn i'w osod
 addon-install-from-file-filter-name = Ychwanegion
 addon-open-about-debugging = Dadfygio Ychwanegion

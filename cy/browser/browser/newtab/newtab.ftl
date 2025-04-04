@@ -117,6 +117,7 @@ newtab-menu-delete-pocket = Dileu o { -pocket-brand-name }
 newtab-menu-archive-pocket = Archifo i { -pocket-brand-name }
 newtab-menu-show-privacy-info = Ein noddwyr a'ch preifatrwydd
 newtab-menu-about-fakespot = Ynghylch { -fakespot-brand-name }
+newtab-menu-report-content = Adrodd am y cynnwys hwn
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Rhwystro
@@ -128,6 +129,7 @@ newtab-menu-section-unfollow = Dad-ddilyn Pwnc
 
 newtab-menu-manage-sponsored-content = Rheoli cynnwys noddedig
 newtab-menu-our-sponsors-and-your-privacy = Ein noddwyr a’ch preifatrwydd chi
+newtab-menu-report-this-ad = Adrodd am yr hysbyseb hwn
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 

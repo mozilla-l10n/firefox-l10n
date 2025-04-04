@@ -278,6 +278,7 @@ shopping-callout-not-opted-in-integrated-reminder-accept-button = הפעלת ב�
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = לא להציג המלצה זו שוב
 shopping-callout-not-opted-in-integrated-reminder-show-fewer = להציג פחות המלצות
 shopping-callout-not-opted-in-integrated-reminder-manage-settings = ניהול הגדרות
+shopping-opt-in-integrated-privacy-policy-and-terms-of-use = בודק הסקירות מופעל על־ידי { -fakespot-brand-full-name }. בחירה באפשרות ״{ shopping-opt-in-integrated-button }״ מהווה הסכמה ל<a data-l10n-name="privacy_policy">הצהרת הפרטיות</a> של { -brand-product-name } ול<a data-l10n-name="terms_of_use">תנאי השימוש</a> של { -fakespot-brand-name }.
 shopping-opt-in-integrated-button = לנסות את בודק הסקירות
 
 ## Message strings for Review Checker's empty states.
