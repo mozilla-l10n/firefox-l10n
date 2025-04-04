@@ -354,7 +354,7 @@ quickactions-help = { -brand-product-name } hjälp
 quickactions-cmd-help = hjälp, stöd
 # Opens the devtools web inspector
 quickactions-inspector2 = Öppna utvecklarverktyg
-quickactions-cmd-inspector2 = inspektör, devtools, dev tool
+quickactions-cmd-inspector2 = inspektör, utvecklingsverktyg, devtools
 quickactions-cmd-inspector = inspektör, utvecklarverktyg
 # Opens about:logins
 quickactions-logins2 = Hantera lösenord
