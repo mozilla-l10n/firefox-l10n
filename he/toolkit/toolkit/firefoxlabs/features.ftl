@@ -32,3 +32,10 @@ experimental-features-custom-wallpaper-description = ניתן להעלות טפ�
 # Link Previews with AI
 experimental-features-link-previews =
     .label = תצוגות מקדימות לקישורים
+experimental-features-link-previews-description =
+    { PLATFORM() ->
+        [macos] כדי ללמוד עוד על אתר לפני הלחיצה, ניתן לרחף על הקישור באמצעות העכבר וללחוץ על שילוב המקשים Shift (⇧) ו־Option (⌥) או Alt. תצוגות מקדימות מכילות פרטים כמו כותרת וזמן קריאה. עבור חלק מהאתרים, הבינה המלאכותית יכולה לקרוא את טקסט הדף ולייצר נקודות מפתח. הבינה המלאכותית מותאמת לקריאה ויצירת טקסט באנגלית. כדי לתעדף את הפרטיות שלך, הבינה המלאכותית פועלת באופן מקומי במחשב שלך. <a data-l10n-name="connect">שיתוף משוב</a>
+       *[other]
+            To learn more about a webpage before you click, hover over a link and press Shift + Alt. Previews can include details like title and reading time. For some webpages, AI can also read the page text and generate key points. The AI is optimized to read and generate English text. To prioritize your privacy, the AI runs locally on your computer. <a data-l10n-name="connect">Share feedback</a>
+            כדי ללמוד עוד על אתר לפני הלחיצה, ניתן לרחף על הקישור באמצעות העכבר וללחוץ על שילוב המקשים Shift + Alt. תצוגות מקדימות מכילות פרטים כמו כותרת וזמן קריאה. עבור חלק מהאתרים, הבינה המלאכותית יכולה לקרוא את טקסט הדף ולייצר נקודות מפתח. הבינה המלאכותית מותאמת לקריאה ויצירת טקסט באנגלית. כדי לתעדף את הפרטיות שלך, הבינה המלאכותית פועלת באופן מקומי במחשב שלך. <a data-l10n-name="connect">שיתוף משוב</a>
+    }
