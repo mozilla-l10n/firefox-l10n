@@ -111,8 +111,11 @@ genai-options-about-chatbot =
 ## Chatbot onboarding
 
 genai-onboarding-header = იხილეთ დასკვნები, ახალი მოსაზრებები და ა. შ. გვერდების მონახულებისას
+genai-onboarding-choose-header = აირჩიეთ AI-თანამოსაუბრე, რომელსაც { -brand-short-name } გამოაჩენს გვერდით ზოლზე გამოსაყენებლად
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = აირჩიეთ AI-თანამოსაუბრე, რომელსაც გაგიხსნით { -brand-short-name } გვერდით ზოლზე გამოსაყენებლად. დაწვრილებით იხილავთ თითოეული თანამოსაუბრის შესახებ მათი შერჩევისას. ნებისმიერ დროს შეგეძლებათ შეცვლას. <a data-l10n-name="learn-more">ვრცლად</a>
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-choose-description = გადართვა ნებისმიერ დროსაა შესაძლებელი. არჩევანის გასაიოლებლად <a data-l10n-name="learn-more">იხილეთ ვრცლად თითოეული თანამოსაუბრის შესახებ</a>.
 genai-onboarding-primary = განაგრძეთ
 genai-onboarding-secondary = დახურვა
 genai-onboarding-claude-tooltip =

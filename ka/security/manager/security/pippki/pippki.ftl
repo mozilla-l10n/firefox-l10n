@@ -85,13 +85,20 @@ client-auth-cert-details-issued-by = გამცემი ორგანო: {
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = შენახულია აქ: { $storedOn }
+client-auth-cert-remember-label = გადაწყვეტილების დამახსოვრება:
+client-auth-cert-remember-never =
+    .label = ერთხელ
+client-auth-cert-remember-always =
+    .label = მუდმივად
+client-auth-cert-remember-temporarily =
+    .label = ამ სეანსისთვის
 client-auth-cert-remember-box =
     .label = გადაწყვეტილების დამახსოვრება
 
 ## Set password (p12) dialog
 
 set-password-window =
-    .title = სერტიფიკატის დუბლირების პაროლის არჩევა
+    .title = სერტიფიკატის სამარქაფო პაროლის არჩევა
 set-password-message = სერტიფიკატის დამარქაფების პაროლი, დაიცავს მის დამარქაფებულ ასლს.  გასაგრძელებლად, საჭიროა პაროლის მითითება.
 set-password-backup-pw =
     .value = სერტიფიკატის დუბლირების პაროლი:

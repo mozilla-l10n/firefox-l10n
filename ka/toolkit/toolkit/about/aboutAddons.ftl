@@ -206,6 +206,10 @@ addon-updates-manual-updates-found = ხელმისაწვდომი გ
 
 addon-install-from-file = დამატების დაყენება ფაილის მეშვეობით…
     .accesskey = ფ
+# Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
+# pref is set.
+addon-install-or-update-from-file = დამატების დაყენება ან განახლება ფაილიდან…
+    .accesskey = ფ
 addon-install-from-file-dialog-title = დამატებების შერჩევა დასაყენებლად
 addon-install-from-file-filter-name = დამატებები
 addon-open-about-debugging = დამატებების გამართვა

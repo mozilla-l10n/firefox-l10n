@@ -117,6 +117,7 @@ newtab-menu-delete-pocket = წაშლა { -pocket-brand-name }-იდან
 newtab-menu-archive-pocket = დაარქივება { -pocket-brand-name }-ში
 newtab-menu-show-privacy-info = ჩვენი დამკვეთები და თქვენი პირადულობა
 newtab-menu-about-fakespot = გაიცანით { -fakespot-brand-name }
+newtab-menu-report-content = ამ მასალის გასაჩივრება
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = აკრძალვა
@@ -128,6 +129,7 @@ newtab-menu-section-unfollow = თემის მიდევნების �
 
 newtab-menu-manage-sponsored-content = შეკვეთილი მასალების მართვა
 newtab-menu-our-sponsors-and-your-privacy = ჩვენი დამკვეთები და თქვენი პირადულობა
+newtab-menu-report-this-ad = ამ რეკლამის გასაჩივრება
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 

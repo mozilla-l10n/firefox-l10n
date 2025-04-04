@@ -354,6 +354,7 @@ quickactions-help = { -brand-product-name } – დახმარება
 quickactions-cmd-help = დახმარება, მხარდაჭერა
 # Opens the devtools web inspector
 quickactions-inspector2 = შემმუშავებლის ხელსაწყოების გახსნა
+quickactions-cmd-inspector2 = დაკვირვება, გამოკვლევა, devtools, dev tools
 quickactions-cmd-inspector = გამოკვლევა, შემუშავება
 # Opens about:logins
 quickactions-logins2 = პაროლების მართვა
@@ -378,6 +379,7 @@ quickactions-restart = ხელახლა გაეშვას { -brand-shor
 quickactions-cmd-restart = ხელახლა გაშვება
 # Opens the screenshot tool
 quickactions-screenshot3 = ეკრანის სურათის გადაღება
+quickactions-cmd-screenshot2 = ეკრანის სურათი, ეკრანის სურათის გადაღება
 quickactions-cmd-screenshot = ეკრანის ანაბეჭდი
 # Opens about:preferences
 quickactions-settings2 = პარამეტრების მართვა
@@ -390,6 +392,7 @@ quickactions-update = განახლდეს { -brand-short-name }
 quickactions-cmd-update = განახლება
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = გვერდის წყაროს ჩვენება
+quickactions-cmd-viewsource2 = წყაროს ნახვა, წყარო, გვერდის წყარო
 quickactions-cmd-viewsource = წყაროს ნახვა, პირველწყარო
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
