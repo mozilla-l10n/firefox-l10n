@@ -201,6 +201,10 @@ addon-updates-manual-updates-found = Vider le actualisationes disponibile
 
 addon-install-from-file = Installar additivo ab un file…
     .accesskey = I
+# Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
+# pref is set.
+addon-install-or-update-from-file = Installar o promover additivos ab le file…
+    .accesskey = I
 addon-install-from-file-dialog-title = Selige le additivo a installar
 addon-install-from-file-filter-name = Additivos
 addon-open-about-debugging = Depurar le additivos
