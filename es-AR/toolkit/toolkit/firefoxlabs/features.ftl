@@ -33,3 +33,6 @@ experimental-features-contextual-password-manager-description = Acceda a sus con
 experimental-features-custom-wallpaper =
     .label = Elegir un fondo de pantalla o color personalizado para la nueva pestaña
 experimental-features-custom-wallpaper-description = Suba su propio fondo de pantalla o elija un color personalizado para el fondo de la nueva pestaña.
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = Vista previa de enlaces
