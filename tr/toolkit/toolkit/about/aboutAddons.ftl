@@ -208,6 +208,10 @@ addon-updates-manual-updates-found = Yüklenebilir güncellemelere bak
 
 addon-install-from-file = Dosyadan eklenti kur...
     .accesskey = k
+# Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
+# pref is set.
+addon-install-or-update-from-file = Dosyadan eklenti kur veya güncelle...
+    .accesskey = o
 addon-install-from-file-dialog-title = Kurulacak eklentiyi seçin
 addon-install-from-file-filter-name = Eklentiler
 addon-open-about-debugging = Eklentilerde hata ayıkla
