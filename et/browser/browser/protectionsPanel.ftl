@@ -50,7 +50,7 @@ protections-panel-not-blocking-why-etp-off-tooltip-label =
 
 protections-panel-no-trackers-found = Sellelt lehelt ei tuvastatud ühtki { -brand-short-name }ile teadaolevat jälitajat.
 protections-panel-content-blocking-tracking-protection = Jälitav sisu
-protections-panel-content-blocking-socialblock = Sotsiaalmeedia jälitajad
+protections-panel-content-blocking-socialblock = sotsiaalmeedia jälitajad
 protections-panel-content-blocking-cryptominers-label = Krüptorahakaevurid
 protections-panel-content-blocking-fingerprinters-label = Seadmetuvastajad
 
