@@ -51,6 +51,11 @@ browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = Поверително разглеждане с { -brand-shortcut-name }
+# This gets set as the initial title, and is overridden as soon as we start
+# updating the titlebar based on loaded tabs or private browsing state.
+# This should match the `data-title-default` attribute in both
+# `browser-main-window` and `browser-main-window-mac`.
+browser-main-window-default-title = { -brand-full-name }
 
 ##
 
@@ -258,6 +263,8 @@ quickactions-cmd-addons2 = Добавки
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Управление на отметки
 quickactions-cmd-bookmarks = отметки
+# Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Изчистване на скорошна история
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Изчистване на историята
 quickactions-cmd-clearhistory = изчистване на историята
