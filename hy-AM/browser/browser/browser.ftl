@@ -344,7 +344,7 @@ quickactions-cmd-downloads = ներբեռնումներ
 quickactions-extensions = Կառավարել ընդլայնումները
 quickactions-cmd-extensions = ընդլայնումներ
 # Opens Firefox View
-quickactions-firefoxview = Բացել { -firefoxview-brand-name }-ը
+quickactions-firefoxview = Բացել { -firefoxview-brand-name }ը
 # English is using "view" and "open view", since the feature name is
 # "Firefox View". If you have translated the name in your language, you
 # should use a word related to the existing translation.
