@@ -18,4 +18,13 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = Sulge kõik dubleerivad kaardid
 all-tabs-menu-synced-tabs =
     .label = Kaardid teistest seadmetest
+# "Recent" refers to tab groups being sorted in recently used order. We show up
+# to five of these in this section.
+all-tabs-menu-recent-tab-groups-header = Hiljutised kaardirühmad
 all-tabs-menu-current-window-header = Aktiivne aken
+# This opens the sub view listing _all_ open and saved tab groups.
+all-tabs-menu-tab-groups-show-all =
+    .label = Kuva kõiki
+# This is header for the sub view listing _all_ open and saved tab groups.
+all-tabs-menu-tab-groups-sub-view =
+    .title = Kaardigrupid

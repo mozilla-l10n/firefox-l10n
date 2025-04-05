@@ -51,6 +51,8 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } on loodud <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label> <label data-l10n-name="community-creditsLink">üleilmse kogukonna </label> poolt. Me usume, et internet peaks olema avatud, avalik ja ilma igasuguste piiranguteta ligipääsetav kõigile.
 helpus = Soovid aidata? <label data-l10n-name="helpus-donateLink">Tee annetus</label> või <label data-l10n-name="helpus-getInvolvedLink">löö kaasa!</label>
 bottomLinks-license = Litsentsist
+bottom-links-terms = Kasutustingimused
+bottom-links-privacy = Privaatsusteatis
 bottomLinks-rights = Kasutaja õigustest
 bottomLinks-privacy = Privaatsusreeglid
 # Example of resulting string: 66.0.1 (64-bit)
