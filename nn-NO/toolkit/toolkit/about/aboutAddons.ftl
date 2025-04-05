@@ -206,6 +206,10 @@ addon-updates-manual-updates-found = Vis tilgjengelege oppdateringar
 
 addon-install-from-file = Installer tillegg frå ei fil…
     .accesskey = I
+# Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
+# pref is set.
+addon-install-or-update-from-file = Installer eller oppdater tillegg frå fil…
+    .accesskey = I
 addon-install-from-file-dialog-title = Vel eit tillegg å installere å installera
 addon-install-from-file-filter-name = Tillegg
 addon-open-about-debugging = Feilsøk tillegg

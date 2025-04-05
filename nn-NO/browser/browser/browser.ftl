@@ -350,6 +350,7 @@ quickactions-help = { -brand-product-name }-hjelp
 quickactions-cmd-help = hjelp, brukarstøtte
 # Opens the devtools web inspector
 quickactions-inspector2 = Opne utviklarverktøy
+quickactions-cmd-inspector2 = inspector, devtools, dev tools
 quickactions-cmd-inspector = inspektør, utviklarverktøy
 # Opens about:logins
 quickactions-logins2 = Handsam passord
@@ -374,6 +375,7 @@ quickactions-restart = Start { -brand-short-name } på nytt
 quickactions-cmd-restart = Start på nytt
 # Opens the screenshot tool
 quickactions-screenshot3 = Ta eit skjermbilde
+quickactions-cmd-screenshot2 = skjermbilde, ta eit skjermbilde
 quickactions-cmd-screenshot = skjermbilete
 # Opens about:preferences
 quickactions-settings2 = Handsam innstillingar

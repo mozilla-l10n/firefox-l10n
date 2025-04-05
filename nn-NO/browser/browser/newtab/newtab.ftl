@@ -128,6 +128,7 @@ newtab-menu-section-unfollow = Slutt å følgje emnet
 
 newtab-menu-manage-sponsored-content = Handsam sponsa innhald
 newtab-menu-our-sponsors-and-your-privacy = Sponsorane våre og ditt personvern
+newtab-menu-report-this-ad = Rapporter denne annonsen
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
