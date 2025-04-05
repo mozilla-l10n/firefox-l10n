@@ -62,6 +62,8 @@ shopping-settings-label =
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = പരിഗണിക്കാൻ കൂടുതൽ
 shopping-sponsored-label = പണം കൊണ്ടു് പ്രചരിപ്പിച്ചതു്
 ad-by-fakespot = { -fakespot-brand-name }-യുടെ പരസ്യം
 
@@ -94,6 +96,7 @@ shopping-survey-opted-out-other = മറ്റുള്ളവ
 ## access the feature.
 
 shopping-callout-closed-not-opted-in-revised-button = പിടി കിട്ടി
+shopping-callout-not-opted-in-reminder-title = തീൎച്ചയോടു് വാങ്ങുക
 shopping-callout-not-opted-in-reminder-close-button = കളയുക
 shopping-callout-not-opted-in-reminder-ignore-checkbox = വീണ്ടും കാണിക്കരുതു്
 shopping-callout-disabled-auto-open-button = പിടി കിട്ടി
@@ -115,9 +118,14 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 ## Review Checker in Integrated sidebar
 
+# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
+shopping-opt-in-integrated-headline = തീൎച്ചയോടു് വാങ്ങുക
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-not-opted-in-integrated-reminder-dismiss-button = കളയുക
+shopping-callout-not-opted-in-integrated-reminder-show-fewer = കുറച്ച് ശുപാർശകൾ കാണിക്കുക
+shopping-callout-not-opted-in-integrated-reminder-manage-settings = ക്രമീകരണങ്ങളെ നിയന്ത്രിക്കുക
 
 ## Message strings for Review Checker's empty states.
 
