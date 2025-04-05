@@ -72,6 +72,7 @@ sidebar-button-callout-vertical-tabs = For å vise fanene dine, velg sidestolpe-
 ## Sidebar Vertical Tabs Strings
 
 vertical-tabs-callout-1-title = Overveldet av for mange faner?
+vertical-tabs-callout-1-subtitle = Prøv vårt nye vertikale faneoppsett for å få bedre oversikt. Folk som har testet funksjonen sier at det har gjort det lettere for dem å holde styr på fanene sine.  Endre når som helst.
 vertical-tabs-callout-1-cta-button = Prøv vertikale faner
 vertical-tabs-callout-2-cta-button = Prøv nå
 vertical-tabs-callout-2-title = Har du mange faner åpne? Prøv vertikale faner.
