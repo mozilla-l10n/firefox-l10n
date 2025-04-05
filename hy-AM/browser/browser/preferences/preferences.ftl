@@ -199,6 +199,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Հեռացնել այս Պարունակը
 containers-remove-cancel-button = Չհեռացնել այս Պարունակը
+settings-tabs-show-image-in-preview =
+    .label = Ցուցադրել նախադիտման նկարը՝ երբ սահում եք ներդիրի վրա
+    .accessKey = ս
 browser-layout-header = Դիտարկիչի դասավորությունը
 browser-layout-horizontal-tabs =
     .label = Հորիզոնական ներդիրներ

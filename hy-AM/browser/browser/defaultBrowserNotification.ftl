@@ -13,6 +13,7 @@ default-browser-notification-button =
 ## secondary button are shared between the variants.
 
 default-browser-prompt-title-pin = Դարձնե՞լ { -brand-short-name }-ը Ձեր հիմնական դիտարկիչը:
+default-browser-prompt-button-primary-set = Կայել որպես հիմնական դիտարկիչ
 default-browser-prompt-button-primary-pin = Դարձնել սկզբնադիր դիտարկիչ
 default-browser-prompt-title-alt = Դարձնե՞լ { -brand-short-name }-ը Ձեր սկզբնադիր դիտարկիչ:
 default-browser-prompt-message-alt = Ստացեք արագություն, անվտանգություն և գաղտնիություն ամեն անգամ զննելիս:

@@ -354,6 +354,7 @@ quickactions-help = Jutori par { -brand-product-name }
 quickactions-cmd-help = jutori, supuart, assistence
 # Opens the devtools web inspector
 quickactions-inspector2 = Vierç struments di disvilup
+quickactions-cmd-inspector2 = ispetôr, struments di svilup, devtools
 quickactions-cmd-inspector = ispetôr, struments dai disvilupadôrs
 # Opens about:logins
 quickactions-logins2 = Gjestìs passwords
@@ -378,6 +379,7 @@ quickactions-restart = Torne invie { -brand-short-name }
 quickactions-cmd-restart = torne invie
 # Opens the screenshot tool
 quickactions-screenshot3 = Cature une videade
+quickactions-cmd-screenshot2 = schermade, videade, cature une schermade
 quickactions-cmd-screenshot = videade
 # Opens about:preferences
 quickactions-settings2 = Gjestìs impostazions
@@ -390,6 +392,7 @@ quickactions-update = Inzorne { -brand-short-name }
 quickactions-cmd-update = inzorne
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Viôt codiç sorzint de pagjine
+quickactions-cmd-viewsource2 = visualize sorzint, sorzint, sorzint pagjine
 quickactions-cmd-viewsource = visualize sorzint, sorzint
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

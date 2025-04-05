@@ -210,6 +210,10 @@ addon-updates-manual-updates-found = Viôt i inzornaments disponibii
 
 addon-install-from-file = Instale component adizionâl di file…
     .accesskey = I
+# Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
+# pref is set.
+addon-install-or-update-from-file = Instale o inzorne di un file il component adizionâl…
+    .accesskey = I
 addon-install-from-file-dialog-title = Sielç i components adizionâi di instalâ
 addon-install-from-file-filter-name = Components adizionâi
 addon-open-about-debugging = Debug components adizionâi

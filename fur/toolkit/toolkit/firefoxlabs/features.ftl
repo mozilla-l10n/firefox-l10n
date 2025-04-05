@@ -33,3 +33,6 @@ experimental-features-contextual-password-manager-description = Dopre lis tôs p
 experimental-features-custom-wallpaper =
     .label = Sielç un fonts o un colôr personalizât pe pagjine Gnove schede
 experimental-features-custom-wallpaper-description = Cjame il to fondâl o sielç un colôr personalizât pal fonts des gnovis schedis.
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = Anteprimis dai colegaments

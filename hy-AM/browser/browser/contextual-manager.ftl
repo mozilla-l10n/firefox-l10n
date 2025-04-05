@@ -104,14 +104,20 @@ contextual-manager-passwords-origin-label = Կայք
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-password-label = Գաղտնաբառ
     .data-after = Պատճենվեց
+contextual-manager-passwords-add-password-success-button = Դիտել
 contextual-manager-passwords-update-password-success-button = Պատրաստ է
 contextual-manager-passwords-delete-password-success-button = Պատրաստ է
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Հեռացնե՞լ գաղտնաբառը:
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Ետ
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Հեռացնել
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Չեղարկել
+contextual-manager-passwords-alert-back-button =
+    .label = Ետ
+contextual-manager-passwords-change-password-button = Փոխել գաղտնաբառը
 
 ## Login Form
 

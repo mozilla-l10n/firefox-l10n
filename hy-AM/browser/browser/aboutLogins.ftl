@@ -112,6 +112,7 @@ login-intro-description2 = { -brand-product-name }-ում Ձեր պահած գա
 login-intro-instructions-fxa2 = Ստեղծեք կամ մուտք գործեք ձեր հաշիվ այն սարքում, որտեղ ձեր մուտքագրումները պահպանված են:
 login-intro-instructions-fxa-settings = Գնացեք Կարգավորումներ > Համաժամացում > Միացնել համաժամացումը…: Ընտրեք «Մուտքանուններ և գաղտնաբառեր» վանդակը:
 login-intro-instructions-fxa-passwords-help = Լրացուցիչ օգնության համար այցելեք <a data-l10n-name="passwords-help-link">գաղտնաբառերի աջակցություն</a>:
+about-logins-intro-browser-only-import = Եթե Ձեր մուտքերը պահպանված են այլ դիտարկիչում՝ կարող եք <a data-l10n-name="import-link">ներմուծել դրանք { -brand-product-name }</a>
 
 ## Login
 

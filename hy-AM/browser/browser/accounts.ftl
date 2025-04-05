@@ -103,3 +103,8 @@ account-multiple-tabs-arriving-from-unknown-device =
 ##   $closedCount (Number): the number of tabs closed
 
 account-view-recently-closed-tabs = Դիտել վերջերս փակված ներդիրները
+account-tabs-closed-remotely =
+    { $closedCount ->
+        [one] { -brand-short-name }-ի { $closedCount } ներդիր փակվեց
+       *[other] { -brand-short-name }-ի { $closedCount } ներդիր փակվեց
+    }

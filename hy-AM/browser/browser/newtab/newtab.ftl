@@ -117,6 +117,9 @@ newtab-menu-delete-pocket = Ջնջել { -pocket-brand-name }-ից
 newtab-menu-archive-pocket = Արխիվացնել { -pocket-brand-name }-ում
 newtab-menu-show-privacy-info = Մեր հովանավորները և ձեր գաղտնիությունը
 newtab-menu-about-fakespot = { -fakespot-brand-name }-ի մասին
+# Context menu option to personalize New Tab recommended stories by blocking a section of stories,
+# e.g. "Sports". "Block" is a verb here.
+newtab-menu-section-block = Արգելափակել
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
@@ -422,6 +425,10 @@ newtab-topic-label-finance = Փող
 newtab-topic-label-society-parenting = Դաստիարակություն
 newtab-topic-label-government = Քաղաքականություն
 newtab-topic-label-education-science = Գիտություն
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = Լայֆ-հաքներ
 newtab-topic-label-sports = Սպորտ
 newtab-topic-label-tech = Տեխ
 newtab-topic-label-travel = Ճամփորդություն
@@ -445,6 +452,7 @@ newtab-topic-selection-button-pick-interests = Ընտրեք ձեր հետաքր�
 
 newtab-section-follow-button = Հետևել
 newtab-section-following-button = Հետևում
+newtab-section-unfollow-button = Ապահետևել
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -466,4 +474,6 @@ newtab-section-block-topic-button = Արգելափակել { $topic }-ը
 newtab-section-mangage-topics-title = Թեմաներ
 newtab-section-manage-topics-button-v2 =
     .label = Կառավարել թեմաները
+newtab-section-mangage-topics-followed-topics = Հետևված
 newtab-section-mangage-topics-blocked-topics = Արգելափակված
+newtab-custom-wallpaper-cta = Փորձել
