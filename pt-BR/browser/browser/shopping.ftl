@@ -256,10 +256,24 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 # Opt-in message strings for Review Checker when it is integrated into the global sidebar.
 shopping-opt-in-integrated-headline = Faça compras com confiança
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle = Ative o verificador de avaliações do { -brand-product-name } para ver a confiabilidade das avaliações de produtos, antes de comprar. Ele usa tecnologia de inteligência artificial para analisar avaliações e funciona quando você faz compras em { $firstSite }, { $secondSite } e { $thirdSite }. <a data-l10n-name="learn_more">Saiba mais</a>
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle-unsupported-site = O verificador de avaliações do { -brand-product-name } ajuda a saber quão confiáveis são as avaliações de um produto, antes de comprar. Ele usa tecnologia de inteligência artificial para analisar avaliações e funciona quando você faz compras em { $firstSite }, { $secondSite } e { $thirdSite }. <a data-l10n-name="learn_more">Saiba mais</a>
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
 shopping-callout-opt-in-integrated-headline = Você pode confiar nessas avaliações?
+# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
+shopping-callout-not-opted-in-integrated-paragraph1 = Ative o verificador de avaliações do { -brand-product-name } para descobrir. É baseado no { -fakespot-brand-full-name } e usa tecnologia de inteligência artificial para analisar avaliações.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Descartar
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Ativar o verificador de avaliações
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = Não mostrar novamente esta recomendação
