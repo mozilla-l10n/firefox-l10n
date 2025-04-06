@@ -31,3 +31,6 @@ pending-crash-reports-send =
     .label = Imbia
 pending-crash-reports-always-send =
     .label = Imbia·ddos semper
+requested-crash-reports-dont-show-again =
+    .label = No dd’ammustres prus
+    .accesskey = N

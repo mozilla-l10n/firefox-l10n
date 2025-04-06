@@ -332,6 +332,9 @@ quickactions-cmd-addons2 = cumplementos
 quickactions-bookmarks2 = Gesti is sinnalibros
 quickactions-cmd-bookmarks = sinnalibros
 # Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Lìmpia sa cronologia reghente
+quickactions-cmd-clearrecenthistory = lìmpia sa cronologia reghente, cronologia
+# Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Isbòida sa cronologia
 quickactions-cmd-clearhistory = isbòida sa cronologia
 # Opens about:downloads page
@@ -340,8 +343,18 @@ quickactions-cmd-downloads = iscarrigamentos
 # Opens about:addons page in the extensions section
 quickactions-extensions = Gesti is estensiones
 quickactions-cmd-extensions = estensiones
+# Opens Firefox View
+quickactions-firefoxview = Aberi { -firefoxview-brand-name }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = aberi { -firefoxview-brand-name }, { -firefoxview-brand-name }, aberi view, view
+# Opens SUMO home page
+quickactions-help = Agiudu de { -brand-product-name }
+quickactions-cmd-help = agiudu, suportu
 # Opens the devtools web inspector
 quickactions-inspector2 = Aberis is ainas de isvilupu
+quickactions-cmd-inspector2 = analizadore, devtools, dev tools
 quickactions-cmd-inspector = analizadore, devtools
 # Opens about:logins
 quickactions-logins2 = Gesti is craes
@@ -366,6 +379,7 @@ quickactions-restart = Torra a aviare { -brand-short-name }
 quickactions-cmd-restart = torra a aviare
 # Opens the screenshot tool
 quickactions-screenshot3 = Faghe una catura de s'ischermu
+quickactions-cmd-screenshot2 = catura, faghe una catura, screenshot
 quickactions-cmd-screenshot = Catura de s'ischermu
 # Opens about:preferences
 quickactions-settings2 = Gesti sa cunfiguratzione
@@ -378,6 +392,7 @@ quickactions-update = Atualiza { -brand-short-name }
 quickactions-cmd-update = atualiza
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Visualiza su còdighe de sa pàgina
+quickactions-cmd-viewsource2 = Ammustra su còdighe de orìgine, orìgine, orìgine de sa pàgina
 quickactions-cmd-viewsource = ammustra su còdighe, còdighe
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

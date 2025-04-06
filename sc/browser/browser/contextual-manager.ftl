@@ -6,13 +6,21 @@ contextual-manager-filter-input =
     .placeholder = Chirca craes
     .key = F
     .aria-label = Chirca craes
+contextual-manager-menu-more-options-button =
+    .title = Àteras optziones
+contextual-manager-more-options-popup =
+    .aria-label = Àteras optziones
 
 ## Passwords
 
 contextual-manager-passwords-command-create = Agiunghe crae
 contextual-manager-passwords-command-import-from-browser = Importa dae un'àteru navigadore...
 contextual-manager-passwords-command-import = Importa dae un'archìviu...
+contextual-manager-passwords-command-export = Esporta is craes
+contextual-manager-passwords-command-remove-all = Boga totu is craes
+contextual-manager-passwords-command-settings = Cunfiguratziones
 contextual-manager-passwords-command-help = Agiudu
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win =
     Pro esportare is craes tuas, inserta is credentziales de atzessu a Windows.
@@ -39,6 +47,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Pro copi
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = còpia sa crae sarvada
+contextual-manager-passwords-import-file-picker-title = Importa is craes
 contextual-manager-passwords-import-file-picker-import-button = Importa
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -54,8 +63,20 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] Documentu TSV
        *[other] Archìviu TSV
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = Craes importadas
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = Noas: { $added }; atualizadas: { $modified }
+contextual-manager-passwords-import-detailed-report = Ammustra un’informe a sa minuda
 contextual-manager-passwords-import-success-button = Fatu
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = Impossìbile importare craes
+    .message = Assegura·ti chi s’archìviu includet una colunna pro sitos, nòmines de utente e craes.
+contextual-manager-passwords-import-error-button-try-again = Torra a nche proare
 contextual-manager-passwords-import-error-button-cancel = Annulla
+contextual-manager-passwords-import-learn-more = Informatziones in pitzus de s’importatzione de craes
 contextual-manager-passwords-export-success-button = Fatu
 contextual-manager-export-passwords-dialog-confirm-button = Sighi a esportare
 # Title of the file picker dialog
