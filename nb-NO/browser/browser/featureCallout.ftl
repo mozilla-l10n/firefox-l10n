@@ -76,6 +76,7 @@ vertical-tabs-callout-1-subtitle = Prøv vårt nye vertikale faneoppsett for å 
 vertical-tabs-callout-1-cta-button = Prøv vertikale faner
 vertical-tabs-callout-2-cta-button = Prøv nå
 vertical-tabs-callout-2-title = Har du mange faner åpne? Prøv vertikale faner.
+vertical-tabs-callout-2-subtitle = Denne måten å vise faner på gjør det lettere for deg å se dem. Dessuten kan du endre bredden for å se mer eller mindre av fanetitlene.
 
 ## Sidebar Vertical Tabs Pinning Strings
 

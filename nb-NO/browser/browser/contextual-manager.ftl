@@ -6,13 +6,21 @@ contextual-manager-filter-input =
     .placeholder = Søk etter passord
     .key = F
     .aria-label = Søk etter passord
+contextual-manager-menu-more-options-button =
+    .title = Flere innstillinger
+contextual-manager-more-options-popup =
+    .aria-label = Flere innstillinger
 
 ## Passwords
 
 contextual-manager-passwords-command-create = Legg til passord
 contextual-manager-passwords-command-import-from-browser = Importer fra en annen nettleser…
 contextual-manager-passwords-command-import = Importer fra en fil…
+contextual-manager-passwords-command-export = Eksporter passord
+contextual-manager-passwords-command-remove-all = Fjern alle passord
+contextual-manager-passwords-command-settings = Innstillinger
 contextual-manager-passwords-command-help = Hjelp
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Skriv inn innloggingsinformasjonen for Windows for å eksportere dine passord. Dette vil gjøre kontoene dine tryggere.
 # This message can be seen when attempting to export a password in about:logins
@@ -35,6 +43,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Skriv in
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = kopier det lagrede passordet
+contextual-manager-passwords-import-file-picker-title = Importer passord
 contextual-manager-passwords-import-file-picker-import-button = Importer
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -50,7 +59,18 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] TSV-dokument
        *[other] TSV-fil
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = Passord importert
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = Nye: { $added }, Oppdaterte: { $modified }
+contextual-manager-passwords-import-detailed-report = Vis detaljert rapport
 contextual-manager-passwords-import-success-button = Ferdig
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = Klarte ikke å importere passord
+    .message = Sørg for at filen inneholder en kolonne for nettsteder, brukernavn og passord.
+contextual-manager-passwords-import-error-button-try-again = Prøv igjen
 contextual-manager-passwords-import-error-button-cancel = Avbryt
 contextual-manager-passwords-export-success-button = Ferdig
 contextual-manager-export-passwords-dialog-confirm-button = Fortsett med eksport
