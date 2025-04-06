@@ -33,3 +33,6 @@ experimental-features-contextual-password-manager-description = Pristupujte k sv
 experimental-features-custom-wallpaper =
     .label = Vyberte si vlastnú tapetu alebo farbu pre novú kartu
 experimental-features-custom-wallpaper-description = Nahrajte vlastnú tapetu alebo si vyberte vlastnú farbu pozadia na novej karte.
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = Náhľady odkazov
