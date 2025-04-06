@@ -379,6 +379,7 @@ quickactions-restart = Reiniciar { -brand-short-name }
 quickactions-cmd-restart = reiniciar
 # Opens the screenshot tool
 quickactions-screenshot3 = Hacer una captura de pantalla
+quickactions-cmd-screenshot2 = captura de pantalla, hacer una captura de pantalla
 quickactions-cmd-screenshot = captura de pantalla
 # Opens about:preferences
 quickactions-settings2 = Administrar ajustes
@@ -391,6 +392,7 @@ quickactions-update = Actualizar { -brand-short-name }
 quickactions-cmd-update = actualizar
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Ver código fuente de la página
+quickactions-cmd-viewsource2 = ver código fuente, fuente, código fuente de la página
 quickactions-cmd-viewsource = ver fuente, fuente
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
