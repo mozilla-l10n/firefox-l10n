@@ -10,7 +10,7 @@
 input-file-and-more-files = 他 { $fileCount } 個
 form-post-secure-to-insecure-warning-title = セキュリティ警告
 form-post-secure-to-insecure-warning-message =
-    あなたがこのページで入力した情報は、安全でない接続を通して送られようとしており、第三者に傍受される可能性があります。
+    このページに入力した情報は、安全でない接続で送信され、第三者に盗み見られる可能性があります。
     
     本当にこの情報を送信してもよろしいですか？
 form-post-secure-to-insecure-warning-continue = 続ける
