@@ -307,6 +307,7 @@ shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Selecione o botão
 
 shopping-integrated-new-position-notification-title = Mesmo verificador de avaliações, em outro lugar
 shopping-integrated-new-position-notification-move-right-subtitle = Mantenha aqui o verificador de avaliações e o restante do painel lateral do { -brand-product-name }, ou mova para a direita. Você pode mudar agora, ou quando quiser nas <a data-l10n-name="sidebar_settings">configurações do painel lateral</a>.
+shopping-integrated-new-position-notification-move-left-subtitle = Mantenha aqui o verificador de avaliações e o restante do painel lateral do { -brand-product-name }, ou mova para a esquerda. Você pode mudar agora, ou quando quiser nas <a data-l10n-name="sidebar_settings">configurações do painel lateral</a>.
 shopping-integrated-new-position-notification-move-right-button = Mover para direita
 shopping-integrated-new-position-notification-move-left-button = Mover para esquerda
 shopping-integrated-new-position-notification-dismiss-button = Entendi
