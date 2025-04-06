@@ -205,6 +205,22 @@ contextual-manager-passwords-list-label =
     .aria-label = Craes
 contextual-manager-copy-icon =
     .alt = Còpia
+contextual-manager-edit-login-button = Modifica
+    .tooltiptext = Modifica sa crae
+contextual-manager-view-alert-heading =
+    .heading = Ammustra s’avisu
+contextual-manager-view-alert-button =
+    .tooltiptext = Revisiona s’avisu
+contextual-manager-show-password-button =
+    .aria-label = Ammustra sa crae
+    .title = Ammustra sa crae
+contextual-manager-hide-password-button =
+    .aria-label = Cua sa crae
+    .title = Cua sa crae
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = Nissuna crae agatada
+contextual-manager-passwords-no-passwords-found-message = Nissuna crae agatada. Chirca unu tèrmine diversu e torra a nche proare.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
