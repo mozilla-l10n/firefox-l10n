@@ -332,6 +332,9 @@ quickactions-cmd-addons2 = complementos
 quickactions-bookmarks2 = Administrar marcadores
 quickactions-cmd-bookmarks = marcadores
 # Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Limpiar el historial reciente
+quickactions-cmd-clearrecenthistory = limpiar el historial reciente, historial
+# Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Limpiar historial
 quickactions-cmd-clearhistory = limpiar historial
 # Opens about:downloads page
@@ -340,8 +343,18 @@ quickactions-cmd-downloads = descargas
 # Opens about:addons page in the extensions section
 quickactions-extensions = Gestionar extensiones
 quickactions-cmd-extensions = extensiones
+# Opens Firefox View
+quickactions-firefoxview = Abrir { -firefoxview-brand-name }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = abrir { -firefoxview-brand-name }, { -firefoxview-brand-name }, abrir vista, ver
+# Opens SUMO home page
+quickactions-help = Ayuda de { -brand-product-name }
+quickactions-cmd-help = ayuda, soporte
 # Opens the devtools web inspector
 quickactions-inspector2 = Abrir herramientas para desarrollo
+quickactions-cmd-inspector2 = inspector, devtools, herramientas para desarrolladores
 quickactions-cmd-inspector = inspector, herramientas de desarrollo
 # Opens about:logins
 quickactions-logins2 = Administrar contraseñas

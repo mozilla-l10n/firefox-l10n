@@ -6,13 +6,21 @@ contextual-manager-filter-input =
     .placeholder = Buscar contraseñas
     .key = F
     .aria-label = Buscar contraseñas
+contextual-manager-menu-more-options-button =
+    .title = Más opciones
+contextual-manager-more-options-popup =
+    .aria-label = Más opciones
 
 ## Passwords
 
 contextual-manager-passwords-command-create = Añadir contraseña
 contextual-manager-passwords-command-import-from-browser = Importar desde otro navegador...
 contextual-manager-passwords-command-import = Importar desde un archivo…
+contextual-manager-passwords-command-export = Exportar contraseñas
+contextual-manager-passwords-command-remove-all = Eliminar todas las contraseñas
+contextual-manager-passwords-command-settings = Ajustes
 contextual-manager-passwords-command-help = Ayuda
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Para exportar sus contraseñas, introduzca sus credenciales de inicio de sesión de Windows. Esto ayuda a proteger la seguridad de sus cuentas.
 # This message can be seen when attempting to export a password in about:logins
@@ -35,6 +43,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Para cop
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = copiar la contraseña guardada
+contextual-manager-passwords-import-file-picker-title = Importar contraseñas
 contextual-manager-passwords-import-file-picker-import-button = Importar
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -50,12 +59,27 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] Documento TSV
        *[other] Archivo TSV
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = Contraseñas importadas
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = Nuevas: { $added }, Actualizadas: { $modified }
+contextual-manager-passwords-import-detailed-report = Ver informe detallado
 contextual-manager-passwords-import-success-button = Hecho
+contextual-manager-passwords-import-error-button-try-again = Volver a intentarlo
 contextual-manager-passwords-import-error-button-cancel = Cancelar
+contextual-manager-passwords-export-success-heading =
+    .heading = Contraseñas exportadas
 contextual-manager-passwords-export-success-button = Hecho
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = ¿Exportar contraseñas a un archivo?
 contextual-manager-export-passwords-dialog-confirm-button = Continuar con la exportación
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Exportar contraseñas desde { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = contraseñas
 contextual-manager-passwords-export-file-picker-export-button = Exportar
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -63,6 +87,14 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] Documento CSV
        *[other] Archivo CSV
+    }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] ¿Eliminar contraseña?
+        [one] ¿Eliminar { $total } contraseña?
+       *[other] ¿Eliminar { $total } contraseñas?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
@@ -80,6 +112,13 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Eliminar
        *[other] Eliminar todos
     }
+contextual-manager-passwords-origin-label = Sitio web
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Nombre de usuario
+    .data-after = Copiado
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Contraseña
+    .data-after = Copiada
 contextual-manager-passwords-update-password-success-button = Hecho
 contextual-manager-passwords-delete-password-success-button = Hecho
 # This message is displayed to make sure that a user wants to delete an existing login.
