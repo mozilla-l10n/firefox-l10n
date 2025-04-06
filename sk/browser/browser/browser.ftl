@@ -354,6 +354,7 @@ quickactions-help = Pomocník { -brand-product-name(case: "gen") }
 quickactions-cmd-help = pomocník, podpora
 # Opens the devtools web inspector
 quickactions-inspector2 = Otvoriť Nástroje pre vývojárov
+quickactions-cmd-inspector2 = inšpektor, inspector, devtools, vývojárske nástroje
 quickactions-cmd-inspector = prieskumník, vývojárske nástroje
 # Opens about:logins
 quickactions-logins2 = Spravovať heslá
@@ -378,6 +379,7 @@ quickactions-restart = Reštartovať { -brand-short-name }
 quickactions-cmd-restart = reštartovať
 # Opens the screenshot tool
 quickactions-screenshot3 = Urobiť snímku obrazovky
+quickactions-cmd-screenshot2 = snímka obrazovky, urobiť snímku obrazovky
 quickactions-cmd-screenshot = snímka obrazovky
 # Opens about:preferences
 quickactions-settings2 = Spravovať nastavenia
