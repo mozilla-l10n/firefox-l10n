@@ -201,18 +201,34 @@ contextual-manager-passwords-vulnerable-password-link-message = ¿Cómo sabe { -
 contextual-manager-passwords-no-username-heading-and-message =
     .heading = Añadir un nombre de usuario
     .message = Añádalo para iniciar sesión más rápido.
+contextual-manager-passwords-add-username-button = Añadir nombre de usuario
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Añadir contraseña
+contextual-manager-passwords-edit-label =
+    .label = Editar contraseña
+contextual-manager-passwords-remove-label =
+    .title = Eliminar contraseña
+contextual-manager-passwords-origin-tooltip = Introduzca la dirección exacta donde iniciará sesión en este sitio.
+contextual-manager-passwords-username-tooltip = Introduca el nombre de usuario, dirección de correo electrónico o número de cuenta que usa para iniciar sesión.
+contextual-manager-passwords-password-tooltip = Introduzca la contraseña utilizada para iniciar sesión con esta cuenta.
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = Contraseñas
+contextual-manager-website-icon =
+    .alt = Icono del sitio web
 contextual-manager-copy-icon =
     .alt = Copiar
+contextual-manager-check-icon-username =
+    .alt = Copiado
+contextual-manager-check-icon-password =
+    .alt = Copiado
+contextual-manager-alert-icon =
+    .alt = Advertencia
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
