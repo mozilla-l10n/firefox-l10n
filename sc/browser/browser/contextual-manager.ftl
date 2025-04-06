@@ -77,10 +77,19 @@ contextual-manager-passwords-import-error-heading-and-message =
 contextual-manager-passwords-import-error-button-try-again = Torra a nche proare
 contextual-manager-passwords-import-error-button-cancel = Annulla
 contextual-manager-passwords-import-learn-more = Informatziones in pitzus de s’importatzione de craes
+contextual-manager-passwords-export-success-heading =
+    .heading = Craes esportadas
 contextual-manager-passwords-export-success-button = Fatu
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = Boles esportare is craes a un’archìviu?
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = A pustis de s’esportatzione, cussigiamus de ddu cantzellare in manera chi àteras persones chi impreent custu dispositivu non potzant bìdere is craes tuas.
 contextual-manager-export-passwords-dialog-confirm-button = Sighi a esportare
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Esporta is craes dae { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = craes
 contextual-manager-passwords-export-file-picker-export-button = Esporta
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -88,6 +97,14 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] Documentu CSV
        *[other] Archìviu CSV
+    }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] Boles bogare custa crae?
+        [one] Boles bogare custa crae?
+       *[other] Boles bogare totu is { $total } craes?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
@@ -105,14 +122,77 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Boga
        *[other] Boga·nche totu
     }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] Custu at a bogare sa crae sarvada in { -brand-short-name } e totu is avisos de debilesa. Custa operatzione non podet èssere annullada.
+        [one] Custu at a bogare sa crae sarvada in { -brand-short-name } e totu is avisos de debilesa. Custa operatzione non podet èssere annullada.
+       *[other] Custu at a bogare is craes sarvadas in { -brand-short-name } e totu is avisos de debilesa. Custa operatzione non podet èssere annullada.
+    }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] Custu at a bogare sa crae sarvada in { -brand-short-name } dae totu is dispositivos sincronizados e at a bogare puru totu is avisos de debilesa. Custa operatzione non podet èssere annullada.
+        [one] Custu at a bogare sa crae sarvada in { -brand-short-name } dae totu is dispositivos sincronizados e at a bogare puru totu is avisos de debilesa. Custa operatzione non podet èssere annullada.
+       *[other] Custu at a bogare is craes sarvadas in { -brand-short-name } dae totu is dispositivos sincronizados e at a bogare puru totu is avisos de debilesa. Custa operatzione non podet èssere annullada.
+    }
+contextual-manager-passwords-origin-label = Situ web
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Nòmine utente
+    .data-after = Copiadu
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Crae
+    .data-after = Copiada
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Filtra is craes
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = Crae agiunta pro { $url }
+contextual-manager-passwords-add-password-success-button = Ammustra
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = Esistit giai una crae e unu nòmine utente pro { $url }
+contextual-manager-passwords-password-already-exists-error-button = Bae a sa crae
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Crae sarvada
 contextual-manager-passwords-update-password-success-button = Fatu
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] Crae cantzellada
+            [one] Crae cantzellada
+           *[other] Craes cantzelladas
+        }
 contextual-manager-passwords-delete-password-success-button = Fatu
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = Totus ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = Avisos ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Boles bogare sa crae?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = Custa atzione no dda podes annullare.
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = A coa
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Boga
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Annulla
+contextual-manager-passwords-alert-card =
+    .aria-label = Avisos de craes
+contextual-manager-passwords-alert-back-button =
+    .label = A coa
+contextual-manager-passwords-alert-list =
+    .aria-label = Lista de avisos
 
 ## Login Form
 
