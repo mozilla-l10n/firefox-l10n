@@ -274,6 +274,7 @@ shopping-opt-in-integrated-subtitle-unsupported-site = O verificador de avaliaç
 shopping-callout-opt-in-integrated-headline = Você pode confiar nessas avaliações?
 # Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
 shopping-callout-not-opted-in-integrated-paragraph1 = Ative o verificador de avaliações do { -brand-product-name } para descobrir. É baseado no { -fakespot-brand-full-name } e usa tecnologia de inteligência artificial para analisar avaliações.
+shopping-callout-not-opted-in-integrated-paragraph2 = Ao selecionar “{ shopping-opt-in-integrated-button }”, você declara que concorda com o <a data-l10n-name="privacy_policy">aviso de privacidade</a> do { -brand-product-name } e com os <a data-l10n-name="terms_of_use">termos de uso</a> do { -fakespot-brand-full-name }.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Descartar
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Ativar o verificador de avaliações
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = Não mostrar novamente esta recomendação
@@ -305,6 +306,7 @@ shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Selecione o botão
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
 shopping-integrated-new-position-notification-title = Mesmo verificador de avaliações, em outro lugar
+shopping-integrated-new-position-notification-move-right-subtitle = Mantenha aqui o verificador de avaliações e o restante do painel lateral do { -brand-product-name }, ou mova para a direita. Você pode mudar agora, ou quando quiser nas <a data-l10n-name="sidebar_settings">configurações do painel lateral</a>.
 shopping-integrated-new-position-notification-move-right-button = Mover para direita
 shopping-integrated-new-position-notification-move-left-button = Mover para esquerda
 shopping-integrated-new-position-notification-dismiss-button = Entendi
