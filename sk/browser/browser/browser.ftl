@@ -390,6 +390,7 @@ quickactions-update = Aktualizovať { -brand-short-name }
 quickactions-cmd-update = aktualizovať
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Zobraziť zdrojový kód stránky
+quickactions-cmd-viewsource2 = zobraziť zdroj, zdroj, zdrojový kód, zdrojový kód stránky
 quickactions-cmd-viewsource = zobraziť zdrojový kód, zdrojový kód
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

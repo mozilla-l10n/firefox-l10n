@@ -117,6 +117,7 @@ newtab-menu-delete-pocket = Odstrániť z { -pocket-brand-name(case: "gen") }
 newtab-menu-archive-pocket = Archivovať v { -pocket-brand-name(case: "loc") }
 newtab-menu-show-privacy-info = Naši sponzori a vaše súkromie
 newtab-menu-about-fakespot = Čo je { -fakespot-brand-name }
+newtab-menu-report-content = Nahlásiť tento obsah
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Blokovať
@@ -128,6 +129,7 @@ newtab-menu-section-unfollow = Prestať sledovať tému
 
 newtab-menu-manage-sponsored-content = Spravovať sponzorovaný obsah
 newtab-menu-our-sponsors-and-your-privacy = Naši sponzori a vaše súkromie
+newtab-menu-report-this-ad = Nahlásiť túto reklamu
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 

@@ -85,6 +85,13 @@ client-auth-cert-details-issued-by = Vydal: { $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = Uložený na: { $storedOn }
+client-auth-cert-remember-label = Zapamätať si toto rozhodnutie:
+client-auth-cert-remember-never =
+    .label = Raz
+client-auth-cert-remember-always =
+    .label = Natrvalo
+client-auth-cert-remember-temporarily =
+    .label = Pre túto reláciu
 client-auth-cert-remember-box =
     .label = Zapamätať si toto rozhodnutie
 
