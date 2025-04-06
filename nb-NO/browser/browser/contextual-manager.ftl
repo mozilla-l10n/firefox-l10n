@@ -72,10 +72,20 @@ contextual-manager-passwords-import-error-heading-and-message =
     .message = Sørg for at filen inneholder en kolonne for nettsteder, brukernavn og passord.
 contextual-manager-passwords-import-error-button-try-again = Prøv igjen
 contextual-manager-passwords-import-error-button-cancel = Avbryt
+contextual-manager-passwords-import-learn-more = Les mer om å importere passord.
+contextual-manager-passwords-export-success-heading =
+    .heading = Passord eksporterte
 contextual-manager-passwords-export-success-button = Ferdig
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = Eksportere passord til fil?
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = Vi anbefaler at du sletter filen etter å ha eksportert passordene. På den måten kan ikke andre brukere av enheten se passordene dine.
 contextual-manager-export-passwords-dialog-confirm-button = Fortsett med eksport
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Eksporter passord fra { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = passord
 contextual-manager-passwords-export-file-picker-export-button = Eksporter
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -83,6 +93,13 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] CSV-dokument
        *[other] CSV-fil
+    }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] Fjern alle passord?
+       *[other] Fjern alle { $total } passord?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
@@ -98,24 +115,91 @@ contextual-manager-passwords-remove-all-confirm-button =
         [1] Fjern
        *[other] Fjern alle
     }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] Dette vil fjerne passordet som er lagret i { -brand-short-name } og eventuelle varsler om datalekkasjer. Du kan ikke angre denne handlingen.
+       *[other] Dette vil fjerne passordene som er lagret i { -brand-short-name } og eventuelle varsler om datalekkasjer. Du kan ikke angre denne handlingen.
+    }
+contextual-manager-passwords-origin-label = Nettsted
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Brukernavn
+    .data-after = Kopiert
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Passord
+    .data-after = Kopiert
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Filtrer passord
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = Passord lagt til for { $url }
+contextual-manager-passwords-add-password-success-button = Vis
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = Et passord og brukernavn for { $url } eksisterer allerede
+contextual-manager-passwords-password-already-exists-error-button = Gå til passord
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Passord lagret
 contextual-manager-passwords-update-password-success-button = Ferdig
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] Passord fjernet
+           *[other] Passord fjernet
+        }
 contextual-manager-passwords-delete-password-success-button = Ferdig
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = Alle ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = Varsler ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Vil du fjerne passordet?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = Du kan ikke angre dette.
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Tilbake
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Fjern
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Avbryt
+contextual-manager-passwords-alert-card =
+    .aria-label = Passordvarsler
+contextual-manager-passwords-alert-back-button =
+    .label = Tilbake
+contextual-manager-passwords-alert-list =
+    .aria-label = Varslingsliste
+contextual-manager-passwords-change-password-button = Endre passord
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Legg til et brukernavn
+    .message = Legg til et for å logge på raskere.
+contextual-manager-passwords-add-username-button = Legg til brukernavn
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Legg til passord
+contextual-manager-passwords-edit-label =
+    .label = Rediger passord
+contextual-manager-passwords-remove-label =
+    .title = Fjern passord
+contextual-manager-passwords-origin-tooltip = Skriv inn den eksakte adressen, du bruker til å logge inn på dette nettstedet.
+contextual-manager-passwords-username-tooltip = Skriv inn brukernavnet, e-postadressen eller kontonummeret du bruker for å logge inn.
+contextual-manager-passwords-password-tooltip = Skriv inn passordet som ble brukt til å logge på denne kontoen.
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = Passord
+contextual-manager-website-icon =
+    .alt = Nettstedsikon
 contextual-manager-copy-icon =
     .alt = Kopier
 
