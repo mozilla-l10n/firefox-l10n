@@ -118,6 +118,8 @@ genai-onboarding-header = Sumarizujte, vymýšľajte a ešte oveľa viac
 genai-onboarding-choose-header = V bočnom paneli { -brand-short-name(case: "gen") } vyberte AI chatbota, ktorého chcete použiť
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = Na bočnom paneli { -brand-short-name(case: "gen") } zvoľte AI chatbota, ktorého chcete použiť. Ku každému chatbotovi vám zobrazíme informácie. Prepnúť chatbota môžete kedykoľvek. <a data-l10n-name="learn-more">Ďalšie informácie</a>
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-choose-description = Prepnúť môžete kedykoľvek. Ak potrebujete pomoc pri výbere, <a data-l10n-name="learn-more">prečítajte si viac informácií o jednotlivých chatbotoch</a>.
 genai-onboarding-primary = Pokračovať
 genai-onboarding-secondary = Zavrieť
 genai-onboarding-claude-tooltip =
