@@ -31,6 +31,9 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Pregunta a { $provider }
+# $provider (string) - name of the provider
+genai-menu-remove-provider =
+    .label = Cantzella { $provider }
 genai-input-ask-generic =
     .placeholder = Pregunta a su Chatbot IA...
 # $provider (string) - name of the provider

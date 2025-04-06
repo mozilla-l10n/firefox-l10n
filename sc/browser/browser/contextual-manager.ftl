@@ -225,7 +225,16 @@ contextual-manager-passwords-no-passwords-found-message = Nissuna crae agatada. 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = Sarva is craes tuas in logu seguru.
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = Agiunghe a manu
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = Depes serrare sena sarvare?
+    .message = Is modìficas tuas no ant a èssere sarvadas.
+contextual-manager-passwords-discard-changes-close-button = Serra
+contextual-manager-passwords-discard-changes-go-back-button = A coa
