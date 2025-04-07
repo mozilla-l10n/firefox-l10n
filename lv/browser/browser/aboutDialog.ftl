@@ -27,7 +27,7 @@ update-failed-main = Atjaunināšana neizdevās. <a data-l10n-name="failed-link-
 update-adminDisabled = Sistēmas administrators ir izslēdzis atjaunināšanu
 update-policy-disabled = Jūsu organizācija ir izslēgusi atjaunināšanu
 update-noUpdatesFound = { -brand-short-name } ir aktuāls
-aboutdialog-update-checking-failed = Neizdevās pārbaudīt, vai nav atjauninājumu.
+aboutdialog-update-checking-failed = Neizdevās pārbaudīt, vai ir atjauninājumi.
 update-otherInstanceHandlingUpdates = { -brand-short-name } tiek atjaunināts citā instancē
 
 ## Variables:
@@ -37,7 +37,7 @@ aboutdialog-update-manual-with-link = Atjauninājumi ir pieejami te<label data-l
 settings-update-manual-with-link = Atjauninājumi ir pieejami te<a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Jūs nevarat veikt turpmākus šīs sistēmas atjauninājumus. <label data-l10n-name="unsupported-link">Uzziniet vairāk</label>
 update-restarting = Pārstartē…
-update-internal-error2 = Iekšējas kļūdas dēļ nevar pārbaudīt atjauninājumus. Atjauninājumi ir pieejami vietnē <label data-l10n-name="manual-link">{ $displayUrl }</label>
+update-internal-error2 = Iekšējas kļūdas dēļ nevar pārbaudīt atjauninājumus. Atjauninājumi ir pieejami <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
 
@@ -51,6 +51,8 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } veido <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label> <label data-l10n-name="community-creditsLink">globāla kopiena</label>, kas strādā, lai tīmeklis būtu atvērts, publisks un visiem pieejams.
 helpus = Vai vēlaties palīdzēt? <label data-l10n-name="helpus-donateLink">Ziedojiet</label> vai <label data-l10n-name="helpus-getInvolvedLink">iesaistieties!</label>
 bottomLinks-license = Licencēšanas informācija
+bottom-links-terms = Lietošanas noteikumi
+bottom-links-privacy = Privātuma paziņojums
 bottomLinks-rights = Galalietotāja tiesības
 bottomLinks-privacy = Privātuma politika
 # Example of resulting string: 66.0.1 (64-bit)
