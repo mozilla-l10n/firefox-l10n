@@ -332,6 +332,8 @@ quickactions-cmd-addons2 = viðbætur
 quickactions-bookmarks2 = Sýsla með bókamerki
 quickactions-cmd-bookmarks = bókamerki
 # Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Hreinsa nýlega ferla
+# Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Hreinsa feril
 quickactions-cmd-clearhistory = hreinsa feril
 # Opens about:downloads page
