@@ -392,6 +392,7 @@ quickactions-update = Обновить { -brand-short-name }
 quickactions-cmd-update = обновление
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Исходный код страницы
+quickactions-cmd-viewsource2 = просмотр кода, исходный код, код страницы
 quickactions-cmd-viewsource = просмотр исходного текста, кода
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

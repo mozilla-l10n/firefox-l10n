@@ -13,7 +13,7 @@ xpinstall-prompt-message = Jūs mēģināt instalēt papildinājumu no { $host }
 ##
 
 xpinstall-prompt-header-unknown = Atļaut nezināmai vietnei instalēt papildinājumu?
-xpinstall-prompt-message-unknown = Jūs mēģināt instalēt papildinājumu no nezināmas vietnes. Pirms turpināt, pārliecinieties, ka uzticaties šai vietnei.
+xpinstall-prompt-message-unknown = Jūs mēģināt instalēt papildinājumu no nezināmas vietnes. Pirms turpināšanas pārliecinieties, ka šī vietne ir uzticama.
 xpinstall-prompt-dont-allow =
     .label = Neatļaut
     .accesskey = N
