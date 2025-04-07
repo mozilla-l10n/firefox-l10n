@@ -8,11 +8,11 @@ xpinstall-prompt = { -brand-short-name } liedza šai lapai vaicāt atļauju inst
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
 xpinstall-prompt-header = Vai ļaut { $host } instalēt papildinājumu?
-xpinstall-prompt-message = Jūs mēģināt instalēt papildinājumu no { $host }. Pirms turpināt, pārliecinieties, ka uzticaties šai vietnei.
+xpinstall-prompt-message = Jūs mēģināt instalēt papildinājumu no { $host }. Pirms turpināšanas pārliecinieties, ka šī vietne ir uzticama.
 
 ##
 
-xpinstall-prompt-header-unknown = Vai ļaut nezināmai vietnei instalēt papildinājumu?
+xpinstall-prompt-header-unknown = Atļaut nezināmai vietnei instalēt papildinājumu?
 xpinstall-prompt-message-unknown = Jūs mēģināt instalēt papildinājumu no nezināmas vietnes. Pirms turpināt, pārliecinieties, ka uzticaties šai vietnei.
 xpinstall-prompt-dont-allow =
     .label = Neatļaut

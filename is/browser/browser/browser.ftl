@@ -342,6 +342,11 @@ quickactions-cmd-downloads = sóttar skrár
 # Opens about:addons page in the extensions section
 quickactions-extensions = Sýsla með forritsauka
 quickactions-cmd-extensions = forritsaukar
+# Opens Firefox View
+quickactions-firefoxview = Opna { -firefoxview-brand-name }
+# Opens SUMO home page
+quickactions-help = { -brand-product-name } hjálp
+quickactions-cmd-help = hjálp, aðstoð
 # Opens the devtools web inspector
 quickactions-inspector2 = Opna forritunarverkfæri
 quickactions-cmd-inspector = inspector, devtools
@@ -368,6 +373,7 @@ quickactions-restart = Endurræsa { -brand-short-name }
 quickactions-cmd-restart = endurræsa
 # Opens the screenshot tool
 quickactions-screenshot3 = Taka skjámynd
+quickactions-cmd-screenshot2 = skjámynd, taka skjámynd
 quickactions-cmd-screenshot = skjámynd
 # Opens about:preferences
 quickactions-settings2 = Sýsla með stillingar

@@ -117,6 +117,7 @@ newtab-menu-delete-pocket = Eyða úr { -pocket-brand-name }
 newtab-menu-archive-pocket = Safna í { -pocket-brand-name }
 newtab-menu-show-privacy-info = Styrktaraðilar okkar og friðhelgi þín
 newtab-menu-about-fakespot = Um { -fakespot-brand-name }
+newtab-menu-report-content = Tilkynna þetta efni
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Loka á
@@ -128,6 +129,7 @@ newtab-menu-section-unfollow = Hætta að fylgjast með viðfangsefni
 
 newtab-menu-manage-sponsored-content = Sýsla með kostað efni
 newtab-menu-our-sponsors-and-your-privacy = Styrktaraðilar okkar og friðhelgi þín
+newtab-menu-report-this-ad = Tilkynna þessa auglýsingu
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
