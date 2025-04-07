@@ -28,3 +28,6 @@ experimental-features-group-customize-browsing =
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Passord i sidestolpen
+# New Tab Custom Wallpapers
+experimental-features-custom-wallpaper =
+    .label = Velg en egendefinert bakgrunn eller farge for Ny fane

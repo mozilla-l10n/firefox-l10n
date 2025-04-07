@@ -177,6 +177,10 @@ contextual-manager-passwords-alert-back-button =
 contextual-manager-passwords-alert-list =
     .aria-label = Varslingsliste
 contextual-manager-passwords-change-password-button = Endre passord
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = Passordendring anbefales
+    .message = Dette passordet er lett å gjette. Endre passordet ditt for å beskytte kontoen din.
+contextual-manager-passwords-vulnerable-password-link-message = Hvordan vet { -brand-product-name } om svake passord?
 contextual-manager-passwords-no-username-heading-and-message =
     .heading = Legg til et brukernavn
     .message = Legg til et for å logge på raskere.
@@ -202,11 +206,72 @@ contextual-manager-website-icon =
     .alt = Nettstedsikon
 contextual-manager-copy-icon =
     .alt = Kopier
+contextual-manager-check-icon-username =
+    .alt = Kopiert
+contextual-manager-check-icon-password =
+    .alt = Kopiert
+contextual-manager-alert-icon =
+    .alt = Advarsel
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = Besøk { $url }
+    .title = Besøk { $url }
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = Besøk { $url } (Advarsel)
+    .title = Besøk { $url } (Advarsel)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = Kopier brukernavn { $username }
+    .title = Kopier brukernavn { $username }
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = Kopier brukernavn { $username } (Advarsel)
+    .title = Kopier brukernavn { $username } (Advarsel)
+contextual-manager-password-login-line =
+    .aria-label = Kopier passord
+    .title = Kopier passord
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = Kopier passord (advarsel)
+    .title = Kopier passord (advarsel)
+contextual-manager-edit-login-button = Rediger
+    .tooltiptext = Rediger passord
+contextual-manager-view-alert-heading =
+    .heading = Vis advarsel
+contextual-manager-view-alert-button =
+    .tooltiptext = Undersøk advarsel
+contextual-manager-show-password-button =
+    .aria-label = Vis passord
+    .title = Vis passord
+contextual-manager-hide-password-button =
+    .aria-label = Skjul passord
+    .title = Skjul passord
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = Ingen passord funnet
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = Lagre passordene dine på et trygt sted.
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = Legg dem til her for å komme i gang.
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = Legg til manuelt
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = Lukke uten å lagre?
+    .message = Endringene dine blir ikke lagret.
+contextual-manager-passwords-discard-changes-close-button = Lukk
+contextual-manager-passwords-discard-changes-go-back-button = Gå tilbake
