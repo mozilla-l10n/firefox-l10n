@@ -39,12 +39,12 @@ site-permission-install-first-prompt-midi-message = Nevar galvot par šīs piek�
 
 ##
 
-xpinstall-disabled-locked = Programmatūras instalēšanu ir liedzis sistēmas administrators.
+xpinstall-disabled-locked = Sistēmas administrators ir izslēdzis programmatūras instalēšanu.
 xpinstall-disabled-by-policy = Jūsu organizācija ir izslēgusi programmatūras instalēšanu.
-xpinstall-disabled = Programmatūras instalēšana ir deaktivēta. Klikšķiniet Aktivēt un mēģiniet vēlreiz.
+xpinstall-disabled = Programmatūras instalēšana ir izslēgta. Spiediet Ieslēgt un mēģiniet vēlreiz.
 xpinstall-disabled-button =
-    .label = Aktivēt
-    .accesskey = n
+    .label = Ieslēgt
+    .accesskey = g
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
