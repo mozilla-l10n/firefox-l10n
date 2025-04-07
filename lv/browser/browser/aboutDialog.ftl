@@ -16,15 +16,15 @@ update-checkingForUpdates = Meklē atjauninājumus…
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Notiek atjauninājuma lejupielāde — <label data-l10n-name="download-status">{ $transfer }</label>
-aboutdialog-update-downloading = Notiek atjauninājuma lejupielāde — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading = <img data-l10n-name="icon"/>Lejupielādē atjauninājumu — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Lejupielādē atjauninājumu — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
-update-applying = Instalē atjauninājumu…
+update-applying = Lieto atjauninājumu…
 update-failed = Atjaunināšana neizdevās. <label data-l10n-name="failed-link">Lejupielādējiet jaunāko versiju</label>
 update-failed-main = Atjaunināšana neizdevās. <a data-l10n-name="failed-link-main">Lejupielādējiet jaunāko versiju</a>
-update-adminDisabled = Sistēmas administrators ir atspējojis atjauninājumus
+update-adminDisabled = Sistēmas administrators ir izslēdzis atjaunināšanu
 update-policy-disabled = Jūsu organizācija ir izslēgusi atjaunināšanu
 update-noUpdatesFound = { -brand-short-name } ir aktuāls
 aboutdialog-update-checking-failed = Neizdevās pārbaudīt, vai nav atjauninājumu.
