@@ -244,9 +244,12 @@ quickactions-firefoxview = ເປີດ { -firefoxview-brand-name }
 # "Firefox View". If you have translated the name in your language, you
 # should use a word related to the existing translation.
 quickactions-cmd-firefoxview = ເປີດ { -firefoxview-brand-name }, { -firefoxview-brand-name }, ເປີດມຸມມອງ, ເບິ່ງ
+# Opens SUMO home page
+quickactions-help = { -brand-product-name } ຊ່ວຍເຫລືອ
 quickactions-cmd-help = ຊ່ວຍ​ເຫຼືອ​, ສະ​ຫນັບ​ສະ​ຫນູນ​
 # Opens the devtools web inspector
 quickactions-inspector2 = ເປີດເຄື່ອງມືນັກພັດທະນາ
+quickactions-cmd-inspector2 = ການກວດສອບ, devtools, dev tools
 quickactions-cmd-inspector = ຜູ້ກວດກາ, devtools
 # Opens about:logins
 quickactions-logins2 = ຈັດການລະຫັດຜ່ານ
@@ -271,6 +274,7 @@ quickactions-restart = ເລີ່ມເຮັດວຽກ { -brand-short-name 
 quickactions-cmd-restart = ເລີ່ມຕົ້ນລະບົບໃຫມ່
 # Opens the screenshot tool
 quickactions-screenshot3 = ຖ່າຍຮູບໜ້າຈໍ
+quickactions-cmd-screenshot2 = ພາບໜ້າຈໍ, ຖ່າຍຮູບໜ້າຈໍ
 quickactions-cmd-screenshot = ພາບໜ້າຈໍ
 # Opens about:preferences
 quickactions-settings2 = ຈັດການການຕັ້ງຄ່າ
