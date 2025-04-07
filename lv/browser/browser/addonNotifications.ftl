@@ -34,8 +34,8 @@ xpinstall-prompt-install =
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
-site-permission-install-first-prompt-midi-header = Šī vietne pieprasa piekļuvi jūsu MIDI (mūzikas instrumentu digitālais interfeiss) ierīcēm. Ierīces piekļuvi var ieslēgt, instalējot papildinājumu.
-site-permission-install-first-prompt-midi-message = Nav garantijas, ka šī piekļuve ir droša. Turpiniet tikai tad, ja uzticaties šai vietnei.
+site-permission-install-first-prompt-midi-header = Šī vietne pieprasa piekļuvi MIDI (mūzikas instrumentu ciparsaskarne) ierīcēm. Ierīces piekļuvi var ieslēgt, uzinstalējot papildinājumu.
+site-permission-install-first-prompt-midi-message = Nevar galvot par šīs piekļuves drošumu. Turpiniet tikai tad, ja uzticaties šai vietnei.
 
 ##
 
