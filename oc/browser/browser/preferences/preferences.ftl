@@ -1399,6 +1399,7 @@ preferences-doh-setting-strict =
 preferences-doh-strict-desc = { -brand-short-name } utilizarà totjorn lo DNS segur. Veiretz un avís de seguretat abans d’utilizar lo DNS de sistèma.
 preferences-doh-strict-detailed-desc-1 = Utilizar sonque lo prevesidor que seleccionèretz
 preferences-doh-strict-detailed-desc-2 = Totjorn avertir se lo DNS segur es pas disponible
+preferences-doh-strict-detailed-desc-3 = Se lo DNS segur es indisponible, los sites se cargaràn o foncionaràn pas corrèctament
 preferences-doh-setting-off =
     .label = Desactivat
     .accesskey = D
