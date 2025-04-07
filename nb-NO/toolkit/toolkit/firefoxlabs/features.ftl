@@ -31,3 +31,12 @@ experimental-features-contextual-password-manager =
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Velg en egendefinert bakgrunn eller farge for Ny fane
+experimental-features-custom-wallpaper-description = Last opp ditt eget bakgrunnsbilde eller velg en egendefinert farge for din bakgrunn til ny fane.
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = Forhåndsvisningr av lenker
+experimental-features-link-previews-description =
+    { PLATFORM() ->
+        [macos] For å lære mer om en nettside før du klikker, hold musepekeren over en kobling og trykk Shift (⇧) pluss Option (⌥) eller Alt. Forhåndsvisninger kan inneholde detaljer som tittel og lesetid. For noen nettsider kan AI også lese sideteksten og generere nøkkelpunkter. AI er optimalisert for å lese og generere engelsk tekst. For å prioritere personvernet ditt, kjører AI lokalt på datamaskinen din. <a data-l10n-name="connect">Del tilbakemelding</a>
+       *[other] For å lære mer om en nettside før du klikker, hold musepekeren over en kobling og trykk Shift + Alt. Forhåndsvisninger kan inneholde detaljer som tittel og lesetid. For noen nettsider kan AI også lese sideteksten og generere nøkkelpunkter. AI er optimalisert for å lese og generere engelsk tekst. For å prioritere personvernet ditt, kjører AI lokalt på datamaskinen din. <a data-l10n-name="connect">Del tilbakemelding</a>
+    }
