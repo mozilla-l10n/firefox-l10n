@@ -133,10 +133,9 @@ newtab-privacy-modal-button-done = Gatavs
 newtab-privacy-modal-button-manage = Pārvaldīt apmaksāta satura iestatījumus
 newtab-privacy-modal-header = Jūsu privātumam ir nozīme.
 newtab-privacy-modal-paragraph-2 =
-    Papildus aizraujošiem stāstiem mēs jums parādām arī atbilstošu,
-    pārbaudītu saturu no atsevišķiem sponsoriem. Varat būt drošs, ka <strong>jūsu pārlūkošanas
-    dati nekad neatstāj jūsu personīgo { -brand-product-name }</strong> kopiju — mēs tos neredzam, un mūsu
-    sponsori arī nē.
+    Papildus aizraujošiem stāstiem mēs rādām arī atbilstošu,
+    kārtīgi pārbaudītu saturu no atlasītiem sponsoriem. Satraukumam nav pamata, jo <strong>pārlūkošanas
+    dati nekad neatstāj personīgo { -brand-product-name } kopiju</strong> — ne mēs, ne mūsu sponsori tos neredz.
 newtab-privacy-modal-link = Jaunā cilnē uzziniet, kā darbojas privātums
 
 ##
