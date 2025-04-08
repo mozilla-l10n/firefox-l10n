@@ -99,16 +99,29 @@ contextual-manager-passwords-remove-all-confirm-button =
         [1] ລົບອອກ
        *[other] ລົບອອກທັງໝົດ
     }
+contextual-manager-passwords-update-password-success-heading =
+    .heading = ບັນທຶກລະຫັດຜ່ານແລ້ວ!
 contextual-manager-passwords-update-password-success-button = ສຳເລັດ
 contextual-manager-passwords-delete-password-success-button = ສຳເລັດ
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = ທັງໝົດ ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = ແຈ້ງເຕືອນ ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = ລຶບລະຫັດຜ່ານອອກບໍ່?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = ທ່ານບໍ່ສາມາດຍົກເລີກສິ່ງນີ້ໄດ້.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = ກັບຄືນ
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = ລຶບ
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = ຍົກເລີກ
+contextual-manager-passwords-alert-card =
+    .aria-label = ແຈ້ງເຕືອນລະຫັດຜ່ານ
 contextual-manager-passwords-alert-back-button =
     .label = ກັບຄືນ
 contextual-manager-passwords-add-username-button = ເພີ່ມຊື່ຜູ້ໃຊ້
