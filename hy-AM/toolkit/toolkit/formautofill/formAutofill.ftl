@@ -11,6 +11,8 @@ autofill-options-link-osx = Ձևը ինքնալրացնելու կարգավոր
 
 ## The credit card capture doorhanger
 
+# Used on the doorhanger when users submit payment with credit card.
+credit-card-save-doorhanger-header = Ապահով պահե՞լ այս քարտը:
 credit-card-capture-save-button =
     .label = Պահպանել
     .accessKey = Պ

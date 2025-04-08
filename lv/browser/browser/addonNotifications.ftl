@@ -66,6 +66,10 @@ webext-perms-sideload-menu-item = { $addonName } pievienots { -brand-short-name 
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } ir nepieciešamas jaunas tiesības
+# This message is shown when one or more extensions have been imported from a
+# different browser into Firefox, and the user needs to complete the import to
+# start these extensions. This message is shown in the appmenu.
+webext-imported-addons = Pabeigt paplašinājumu instalēšanu, kas importēti { -brand-short-name }
 
 ## Add-on removal warning
 
@@ -98,9 +102,9 @@ addon-install-accept-button =
 
 addon-confirm-install-message =
     { $addonCount ->
-        [zero] Lapa gribētu instalēt { $addonCount } papildinājumus { -brand-short-name }:
-        [one] Lapa gribētu instalēt { $addonCount } papildinājumu { -brand-short-name }:
-       *[other] Lapa gribētu instalēt { $addonCount } papildinājumus { -brand-short-name }:
+        [zero] Lapa vēlas instalēt { $addonCount } papildinājumus { -brand-short-name }:
+        [one] Lapa vēlas instalēt { $addonCount } papildinājumu { -brand-short-name }:
+       *[other] Lapa vēlas instalēt { $addonCount } papildinājumus { -brand-short-name }:
     }
 addon-confirm-install-unsigned-message =
     { $addonCount ->
