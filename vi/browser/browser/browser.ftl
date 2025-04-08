@@ -354,6 +354,7 @@ quickactions-help = Trợ giúp về { -brand-product-name }
 quickactions-cmd-help = trợ giúp, hỗ trợ, tro giup, ho tro
 # Opens the devtools web inspector
 quickactions-inspector2 = Mở Công cụ dành cho nhà phát triển
+quickactions-cmd-inspector2 = trình kiểm tra, trinh kiem tra, devtools, dev tools
 quickactions-cmd-inspector = trình kiểm tra, devtools, trinh kiem tra, nhà phát triển, nha phat trien
 # Opens about:logins
 quickactions-logins2 = Quản lý mật khẩu
@@ -378,6 +379,7 @@ quickactions-restart = Khởi động lại { -brand-short-name }
 quickactions-cmd-restart = khởi động lại, khoi dong lai
 # Opens the screenshot tool
 quickactions-screenshot3 = Chụp ảnh màn hình
+quickactions-cmd-screenshot2 = chụp màn hình, chup man hinh, ảnh chụp màn hình, anh chup man hinh, screenshot
 quickactions-cmd-screenshot = chụp ảnh màn hình, chup anh man hinh
 # Opens about:preferences
 quickactions-settings2 = Quản lý cài đặt
@@ -390,6 +392,7 @@ quickactions-update = Cập nhật { -brand-short-name }
 quickactions-cmd-update = cập nhật, cap nhat, update
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Xem mã nguồn trang
+quickactions-cmd-viewsource2 = xem mã nguồn trang, xem ma nguon trang, trang, source, mã nguồn trang, ma nguon trang
 quickactions-cmd-viewsource = xem mã nguồn trang, xem ma nguon trang, xem mã nguồn, xem ma nguon, xem nguồn, xem nguon, mã nguồn, ma nguon, source code page, code
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

@@ -33,3 +33,6 @@ experimental-features-contextual-password-manager-description = Truy cập mật
 experimental-features-custom-wallpaper =
     .label = Chọn hình nền hoặc màu tùy chỉnh cho thẻ mới
 experimental-features-custom-wallpaper-description = Tải lên hình nền của riêng bạn hoặc chọn màu tùy chỉnh cho hình nền thẻ mới của bạn.
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = Xem trước liên kết

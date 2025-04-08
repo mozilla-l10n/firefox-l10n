@@ -206,6 +206,10 @@ addon-updates-manual-updates-found = Xem các cập nhật hiện có
 
 addon-install-from-file = Cài đặt tiện ích từ tập tin…
     .accesskey = I
+# Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
+# pref is set.
+addon-install-or-update-from-file = Cài đặt hoặc cập nhật tiện ích từ tập tin…
+    .accesskey = I
 addon-install-from-file-dialog-title = Chọn tiện ích để cài đặt
 addon-install-from-file-filter-name = Tiện ích
 addon-open-about-debugging = Gỡ lỗi tiện ích

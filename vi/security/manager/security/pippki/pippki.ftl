@@ -85,6 +85,13 @@ client-auth-cert-details-issued-by = Cấp bởi: { $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = Lưu trữ trên: { $storedOn }
+client-auth-cert-remember-label = Hãy nhớ quyết định này:
+client-auth-cert-remember-never =
+    .label = Một lần
+client-auth-cert-remember-always =
+    .label = Vĩnh viễn
+client-auth-cert-remember-temporarily =
+    .label = Cho phiên này
 client-auth-cert-remember-box =
     .label = Ghi nhớ quyết định này
 

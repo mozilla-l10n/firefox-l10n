@@ -109,8 +109,11 @@ genai-options-about-chatbot =
 ## Chatbot onboarding
 
 genai-onboarding-header = Tóm tắt, giải thích và hơn thế nữa khi bạn duyệt qua
+genai-onboarding-choose-header = Chọn một chatbot AI để sử dụng trong thanh lề { -brand-short-name }
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = Chọn một chatbot AI để sử dụng trong thanh lề { -brand-short-name }. Chúng tôi sẽ hiển thị chi tiết về từng chatbot khi bạn chọn nó. Chuyển đổi bất cứ lúc nào. <a data-l10n-name="learn-more">Tìm hiểu thêm</a>
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-choose-description = Chuyển đổi bất cứ lúc nào. Để được hỗ trợ về lựa chọn này, <a data-l10n-name="learn-more">tìm hiểu thêm về từng chatbot</a>.
 genai-onboarding-primary = Tiếp tục
 genai-onboarding-secondary = Đóng
 genai-onboarding-claude-tooltip =
