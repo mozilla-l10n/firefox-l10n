@@ -36,3 +36,8 @@ experimental-features-custom-wallpaper-description = Tải lên hình nền củ
 # Link Previews with AI
 experimental-features-link-previews =
     .label = Xem trước liên kết
+experimental-features-link-previews-description =
+    { PLATFORM() ->
+        [macos] Để tìm hiểu thêm về một trang web trước khi bạn nhấp, hãy di chuột qua một liên kết và nhấn Shift (⇧) + Option (⌥) hoặc Alt. Bản xem trước có thể bao gồm các chi tiết như tiêu đề và thời gian đọc. Đối với một số trang web, AI cũng có thể đọc văn bản trang và đưa ra nội dung chính. AI được tối ưu hóa để đọc và tạo văn bản tiếng Anh. Để ưu tiên quyền riêng tư của bạn, AI chạy cục bộ trên máy tính của bạn. <a data-l10n-name="connect">Chia sẻ phản hồi</a>
+       *[other] Để tìm hiểu thêm về một trang web trước khi bạn nhấp, hãy di chuột qua một liên kết và nhấn Shift + Alt. Bản xem trước có thể bao gồm các chi tiết như tiêu đề và thời gian đọc. Đối với một số trang web, AI cũng có thể đọc văn bản trang và đưa ra nội dung chính. AI được tối ưu hóa để đọc và tạo văn bản tiếng Anh. Để ưu tiên quyền riêng tư của bạn, AI chạy cục bộ trên máy tính của bạn. <a data-l10n-name="connect">Chia sẻ phản hồi</a>
+    }
