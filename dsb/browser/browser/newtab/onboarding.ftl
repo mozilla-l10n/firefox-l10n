@@ -25,6 +25,8 @@ return-to-amo-subtitle = Wjelicnje, maśo { -brand-short-name }
 return-to-amo-addon-title = Wobstarajśo se něnto <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
 return-to-amo-add-extension-label = Rozšyrjenje pśidaś
 return-to-amo-add-theme-label = Drastwu pśidaś
+return-to-amo-theme-install-complete-label = Drastwa jo instalěrowana
+return-to-amo-extension-install-complete-label = Rozšyrjenje jo instalěrowane
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
