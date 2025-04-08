@@ -33,3 +33,6 @@ experimental-features-contextual-password-manager-description = Hav adgang til d
 experimental-features-custom-wallpaper =
     .label = Vælg en baggrund eller farve for Nyt faneblad
 experimental-features-custom-wallpaper-description = Upload din egen baggrund eller vælg en farve som baggrund for nye faneblade.
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = Forhåndsvisning af links
