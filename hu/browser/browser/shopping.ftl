@@ -319,3 +319,9 @@ shopping-integrated-new-position-notification-dismiss-button = Megértettem!
 
 shopping-settings-auto-open-and-close-toggle =
     .label = Értékelés-ellenőrző automatikus megnyitása és bezárása
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-and-close-description-three-sites = A termékek megtekintésekor nyílik meg ezeken a webhelyeken: { $firstSite }, { $secondSite } és { $thirdSite }. Távozáskor bezárul.
