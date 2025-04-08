@@ -130,6 +130,8 @@ policy-SearchSuggestEnabled = 검색 제안을 사용하거나 사용하지 않�
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = PKCS #11 모듈을 추가하거나 삭제합니다.
 policy-ShowHomeButton = 도구 모음에 홈 버튼을 표시합니다.
+# ”You represent that...” means ”You confirm/declare that...”
+policy-SkipTermsOfUse2 = 시작할 때 이용 약관과 개인정보처리방침을 표시하지 않습니다. 귀하는 이 브라우저에 대한 접근 권한을 부여받은 모든 개인을 대신하여 이용 약관에 동의했으며 이를 수락할 권한이 있음을 나타냅니다.
 policy-SkipTermsOfUse = 시작할 때 이용 약관과 개인정보처리방침을 표시하지 않습니다.
 policy-SSLVersionMax = 최대 SSL 버전을 설정합니다.
 policy-SSLVersionMin = 최소 SSL 버전을 설정합니다.

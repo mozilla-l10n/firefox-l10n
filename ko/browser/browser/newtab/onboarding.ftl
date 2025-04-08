@@ -25,6 +25,8 @@ return-to-amo-subtitle = 좋습니다. { -brand-short-name }를 설치했네요.
 return-to-amo-addon-title = 이제 <img data-l10n-name="icon"/> <b>{ $addon-name }</b> 부가 기능을 설치하겠습니다.
 return-to-amo-add-extension-label = 확장 기능 추가
 return-to-amo-add-theme-label = 테마 추가
+return-to-amo-theme-install-complete-label = 테마 설치됨
+return-to-amo-extension-install-complete-label = 확장 기능 설치됨
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
