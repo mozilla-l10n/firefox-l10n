@@ -205,6 +205,10 @@ addon-updates-manual-updates-found = Ehecha ñembohekopyahu eiporukuaáva
 
 addon-install-from-file = Emohenda moĩmbaha marandurenda guive…
     .accesskey = I
+# Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
+# pref is set.
+addon-install-or-update-from-file = Emohenda térã embohekopyahu moĩmbaha marandurenda guive…
+    .accesskey = I
 addon-install-from-file-dialog-title = Eiporavo moĩmbaha emohenda hag̃ua
 addon-install-from-file-filter-name = Moĩmbahakuéra
 addon-open-about-debugging = Emopotĩ Moĩmbahakuéra
