@@ -449,9 +449,9 @@ browser-tab-unmute =
 browser-tab-unblock =
     { $count ->
         [1] ATSKAŅOT CILNI
-        [zero] ATSKAŅOT { $count } CILNI
-        [one] ATSKAŅOT { $count } CILNES
-       *[other] ATSKAŅOT { $count } CIĻŅU
+        [zero] ATSKAŅOT { $count } CIĻŅU
+        [one] ATSKAŅOT { $count } CILNI
+       *[other] ATSKAŅOT { $count } CILNES
     }
 
 ## Bookmarks toolbar items
@@ -542,7 +542,7 @@ urlbar-placeholder-with-name =
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
 urlbar-remote-control-notification-anchor2 =
-    .tooltiptext = Pārlūks tiek kontrolēts attālināti (iemesls: { $component })
+    .tooltiptext = Pārlūks tiek vadīts attālināti (iemesls: { $component })
 urlbar-permissions-granted =
     .tooltiptext = Jūs esat piešķīris šai vietnei papildu atļaujas.
 urlbar-switch-to-tab =
