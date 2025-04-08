@@ -476,3 +476,4 @@ dismiss-button-label = Chiudi
 sync-to-mobile-button-label = Sincronizza con dispositivi mobili
 desktop-to-mobile-qr-code-alt =
     .aria-label = Codice QR per scaricare { -brand-product-name } per dispositivi mobili
+
