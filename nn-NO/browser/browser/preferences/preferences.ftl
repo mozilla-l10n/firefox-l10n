@@ -1352,6 +1352,7 @@ collection-header2 = Datainnsamling og bruk for { -brand-short-name }
     .searchkeywords = telemetri
 preferences-collection-description = Vi strevar etter å gi deg valmoglegheiter og samlar berre inn minimalt med data som er nødvendig for å forbetre { -brand-product-name } for alle.
 preferences-collection-privacy-notice = Vis personvernerklæring
+preferences-view-profiles = VIs alle profilar
 collection-description = Vi prøver alltid å gje deg val og samlar inn berre det vi treng for å levere og forbetre { -brand-short-name } for alle. Vi ber alltid om løyve før vi får personopplysningar.
 collection-privacy-notice = Personvernpraksis
 collection-health-report-telemetry-disabled = Du tillèt ikkje lenger { -vendor-short-name } å samle inn teknisk- og interaksjonsdata. Alle tidlegare data vil bli sletta innan 30 dagar.
