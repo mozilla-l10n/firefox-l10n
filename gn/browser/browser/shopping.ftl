@@ -262,6 +262,7 @@ shopping-callout-opt-in-integrated-headline = ¿Ejeroviáta ko jehechajeypyrére
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Mboyke
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Emyandy hechajey rechaha
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = Anive ehechauka ko ñemoñe’ẽ
+shopping-callout-not-opted-in-integrated-reminder-show-fewer = Ehechauka’ive ñemoñe’ẽ
 shopping-callout-not-opted-in-integrated-reminder-manage-settings = Eñangareko ehayhuvévare
 shopping-opt-in-integrated-button = Eiporu hechajey rechaha
 
@@ -279,6 +280,7 @@ shopping-integrated-callout-opted-out-title = Marandu’i rechajeyha oñembogue
 
 ## Callout for where to find Review Checker when the sidebar closes
 
+shopping-integrated-callout-sidebar-closed-title = Ejevy jehechajey rechahápe
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
