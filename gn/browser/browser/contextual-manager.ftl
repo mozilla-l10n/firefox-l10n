@@ -67,6 +67,9 @@ contextual-manager-passwords-import-success-heading =
 contextual-manager-passwords-import-success-message = Ipyahu: { $added }, Hekopyahu: { $modified }
 contextual-manager-passwords-import-detailed-report = Ehecha porã marandu’i
 contextual-manager-passwords-import-success-button = Apopyre
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = Ndereguerukuaái ñe’ẽñeminguéra
+    .message = Ehecháke ne marandurenda toguereko tysýi ñanduti roguépe g̃uarã, poruhára réra ha ñe’ẽñemi.
 contextual-manager-passwords-import-error-button-try-again = Eha’ã jey
 contextual-manager-passwords-import-error-button-cancel = Heja
 contextual-manager-passwords-import-learn-more = Eikuaave ñe’ẽñemi jegueru rehegua
@@ -168,6 +171,9 @@ contextual-manager-passwords-alert-back-button =
     .label = Tapykue
 contextual-manager-passwords-alert-list =
     .aria-label = Tysýi kyhyjerã
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = Eikotevẽ emoambue ñe’ẽñemi
+    .message = Oñemomarandu ñe’ẽñemi ko ñanduti roguepegua oñemonda térã oñembogua. Emoambue ne ñe’ẽñemi nde rekorosãrã.
 contextual-manager-passwords-breached-origin-link-message = ¿Mba’éicha { -brand-product-name } oikuaa ñembogua rehegua?
 contextual-manager-passwords-change-password-button = Emoambue ñe’ẽñemi
 contextual-manager-passwords-vulnerable-password-heading-and-message =
@@ -256,6 +262,9 @@ contextual-manager-passwords-no-passwords-found-message = Ndojejuhúi ñe’ẽ�
 
 # This string encourages the user to save their passwords in Firefox (the "safe spot").
 contextual-manager-passwords-no-passwords-header = Eñongatu ñe’ẽñemi tenda hekorosãvape.
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = Opaite ñe’ẽñemi oñembopapapy ha roma’ẽta oimeraẽva ñemboguáre, ha romomarandúta rohechárõ.
 # This string encourages the user to save their passwords to Firefox again.
 contextual-manager-passwords-no-passwords-get-started-message = Embojuaju ápe eñepyrũ hag̃ua.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.

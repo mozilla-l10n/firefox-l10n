@@ -110,6 +110,7 @@ genai-options-about-chatbot =
 ## Chatbot onboarding
 
 genai-onboarding-header = Emombyky, akãngetaita ha hetave eikundaha aja
+genai-onboarding-choose-header = Eiporavo chatbot IA rehegua eiporu hag̃ua { -brand-short-name } renda yképe
 genai-onboarding-primary = Ku’ejey
 genai-onboarding-secondary = Mboty
 genai-onboarding-claude-tooltip =
