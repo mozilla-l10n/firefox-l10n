@@ -354,6 +354,7 @@ quickactions-help = { -brand-product-name } ñepytyvõ
 quickactions-cmd-help = pytyvõ, pytyvõha
 # Opens the devtools web inspector
 quickactions-inspector2 = Embojuruja tembiporu mboguatahárape g̃uarã
+quickactions-cmd-inspector2 = hechahára, devtools, tembiporu mboguatahárape g̃uarã
 quickactions-cmd-inspector = moambuekuaaha, ñemboguata rembiporu
 # Opens about:logins
 quickactions-logins2 = Eñangareko ñe’ẽñemíre
@@ -378,6 +379,7 @@ quickactions-restart = Emoñepyrũjey { -brand-short-name }
 quickactions-cmd-restart = Moñepyrũjey
 # Opens the screenshot tool
 quickactions-screenshot3 = Ejapyhy mba’erechaha
+quickactions-cmd-screenshot2 = mba’erechaha japyhy, ejapyhy mba’erechaha
 quickactions-cmd-screenshot = Ta’ãnga japyhy
 # Opens about:preferences
 quickactions-settings2 = Eñangareko ehayhuvévare
@@ -390,6 +392,7 @@ quickactions-update = Embohekopyahu { -brand-short-name }
 quickactions-cmd-update = mbohekopyahu
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Ehecha ayvu reñoiha
+quickactions-cmd-viewsource2 = ehecha ayvu reñoiha, teñoiha, kuatiarogue ayvu reñoiha
 quickactions-cmd-viewsource = ehecha teñoiha, teñoiha
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
