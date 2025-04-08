@@ -107,6 +107,8 @@ profiles-magnolia-theme-2 = Pytãngymíva
 profiles-ocean-theme-2 = Hovy mbarete
 # This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of brick masonry. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-terracotta-theme-2 = Pytã ladríllo
+# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-moss-theme-2 = Ehecha ygáu
 
 ## Alternative text for default profile icons
 

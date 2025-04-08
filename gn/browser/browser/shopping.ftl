@@ -253,10 +253,15 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 ## Review Checker in Integrated sidebar
 
+# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
+shopping-opt-in-integrated-headline = Ejogua jeroviápe
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-opt-in-integrated-headline = ¿Ejeroviáta ko jehechajeypyrére?
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Mboyke
+shopping-callout-not-opted-in-integrated-reminder-accept-button = Emyandy hechajey rechaha
+shopping-callout-not-opted-in-integrated-reminder-do-not-show = Anive ehechauka ko ñemoñe’ẽ
 shopping-callout-not-opted-in-integrated-reminder-manage-settings = Eñangareko ehayhuvévare
 shopping-opt-in-integrated-button = Eiporu hechajey rechaha
 

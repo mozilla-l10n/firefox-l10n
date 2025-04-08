@@ -117,6 +117,7 @@ newtab-menu-delete-pocket = Embogue { -pocket-brand-name }-pe
 newtab-menu-archive-pocket = Eñongatu { -pocket-brand-name }-pe
 newtab-menu-show-privacy-info = Ore pytyvõhára ha iñemigua
 newtab-menu-about-fakespot = { -fakespot-brand-name } rehegua
+newtab-menu-report-content = Emomarandu ko tetepy rehegua
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Joko
@@ -128,6 +129,7 @@ newtab-menu-section-unfollow = Anive ehapykueho téma
 
 newtab-menu-manage-sponsored-content = Emboguata tetepy ykekopyre
 newtab-menu-our-sponsors-and-your-privacy = Ore pytyvõhára ha nemigua
+newtab-menu-report-this-ad = Emomarandu ko ñemurã rehegua
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
