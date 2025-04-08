@@ -85,6 +85,13 @@ client-auth-cert-details-issued-by = Utstedt av: { $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = Lagret på: { $storedOn }
+client-auth-cert-remember-label = Husk denne avgjørelsen:
+client-auth-cert-remember-never =
+    .label = En gang
+client-auth-cert-remember-always =
+    .label = Permanent
+client-auth-cert-remember-temporarily =
+    .label = For denne økten
 client-auth-cert-remember-box =
     .label = Husk denne avgjørelsen
 
