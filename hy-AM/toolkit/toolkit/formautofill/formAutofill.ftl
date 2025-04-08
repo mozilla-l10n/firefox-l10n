@@ -7,12 +7,16 @@
 
 # The links lead users to Form Autofill browser preferences.
 autofill-options-link = Ձևը ինքնալրացնելու ընտրանքներ
-autofill-options-link-osx = Ձևը ինքնալրացնելու կարգավորումներ
+autofill-options-link-osx = Ձևը ինքնալրացնելու նախապատվություններ
 
 ## The credit card capture doorhanger
 
+# If Sync is enabled and credit card sync is available,
+# this checkbox is displayed on the doorhanger shown when saving credit card.
+credit-card-doorhanger-credit-cards-sync-checkbox = Համաժամացնել բոլոր պահված քարտերը իմ սարքերում
 # Used on the doorhanger when users submit payment with credit card.
 credit-card-save-doorhanger-header = Ապահով պահե՞լ այս քարտը:
+credit-card-save-doorhanger-description = { -brand-short-name }-y գաղտնագրում է Ձեր քարտի համարը: , իսկ Ձեր անվտանգության կոդը չի պահվում:
 credit-card-capture-save-button =
     .label = Պահպանել
     .accessKey = Պ

@@ -108,9 +108,9 @@ addon-confirm-install-message =
     }
 addon-confirm-install-unsigned-message =
     { $addonCount ->
-        [zero] Uzmanību: Šī lapa vēlas instalēt nepārbaudītu papildinājumu { -brand-short-name }. Turpiniet uzņemoties pilnu atbildību.
-        [one] Uzmanību: Šī lapa vēlas instalēt nepārbaudītu papildinājumu { -brand-short-name }. Turpiniet uzņemoties pilnu atbildību.
-       *[other] Uzmanību: Šī lapa vēlas instalēt { $addonCount } nepārbaudītus papildinājumus { -brand-short-name }. Turpiniet uzņemoties pilnu atbildību.
+        [zero] Uzmanību: šī vietne vēlas { -brand-short-name } instalēt { $addonCount } nepārbaudītu papildinājumu! Pirms turpināt, izvērtējiet risku.
+        [one] Uzmanību: šī vietne vēlas { -brand-short-name } instalēt { $addonCount } nepārbaudītu papildinājumu! Pirms turpināt, izvērtējiet risku.
+       *[other] Uzmanību: šī vietne vēlas { -brand-short-name } instalēt { $addonCount } nepārbaudītus papildinājumus! Pirms turpināt, izvērtējiet risku.
     }
 # Variables:
 #   $addonCount (Number): the number of add-ons being installed (at least 2)
