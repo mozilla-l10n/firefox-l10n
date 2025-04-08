@@ -59,17 +59,13 @@ addon-domain-blocked-by-policy = Jūsu sistēmas administrators neļāva šai vi
 addon-installation-blocked-by-policy = Jūsu organizācija ir bloķējusi { $addonName } ({ $addonId }).
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-install-domain-blocked-by-policy = Jūsu organizācija neļāva šai vietnei lūgt instalēt programmatūru šajā datorā.
-addon-install-full-screen-blocked = Papildinājuma instalēšana nav atļauta, kamēr ir ieslēgts pilnekrāna režīms vai pirms tā.
+addon-install-full-screen-blocked = Nevar. Papildinājuma instalēšana nav atļauta, kamēr ir pilnekrāna režīms vai pirms tas tiek ieslēgts.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } pievienots { -brand-short-name }
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } ir nepieciešamas jaunas tiesības
-# This message is shown when one or more extensions have been imported from a
-# different browser into Firefox, and the user needs to complete the import to
-# start these extensions. This message is shown in the appmenu.
-webext-imported-addons = Pabeigt paplašinājumu instalēšanu, kas importēti uz { -brand-short-name }
 
 ## Add-on removal warning
 
