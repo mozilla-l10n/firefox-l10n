@@ -67,8 +67,14 @@ contextual-manager-passwords-import-success-heading =
 contextual-manager-passwords-import-success-message = ໃໝ່: { $added }, ອັບເດດ: { $modified }
 contextual-manager-passwords-import-detailed-report = ເບິ່ງບົດລາຍງານລາຍລະອຽດ
 contextual-manager-passwords-import-success-button = ສຳເລັດ
+contextual-manager-passwords-import-error-button-try-again = ລອງໃໝ່ອີກຄັ້ງ
 contextual-manager-passwords-import-error-button-cancel = ຍົກເລີກ
+contextual-manager-passwords-import-learn-more = ຮຽນຮູ້ກ່ຽວກັບການນໍາເຂົ້າລະຫັດຜ່ານ
+contextual-manager-passwords-export-success-heading =
+    .heading = ສົ່ງອອກລະຫັດຜ່ານແລ້ວ
 contextual-manager-passwords-export-success-button = ສຳເລັດ
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = ສົ່ງອອກລະຫັດຜ່ານໄປຍັງໄຟລ໌?
 # This string recommends to the user that they delete the exported password file that is saved on their local machine.
 contextual-manager-export-passwords-dialog-message = ຫຼັງ​ຈາກ​ທີ່​ທ່ານ​ສົ່ງ​ອອກ​, ພວກ​ເຮົາ​ແນະ​ນໍາ​ໃຫ້​ລຶບ​ມັນ​ເພື່ອ​ໃຫ້​ຄົນ​ອື່ນ​ທີ່​ອາດ​ຈະ​ໃຊ້​ອຸ​ປະ​ກອນ​ນີ້​ບໍ່​ສາ​ມາດ​ເບິ່ງ​ລະ​ຫັດ​ຜ່ານ​ຂອງ​ທ່ານ​.
 contextual-manager-export-passwords-dialog-confirm-button = ສືບຕໍ່ການສົ່ງອອກ
