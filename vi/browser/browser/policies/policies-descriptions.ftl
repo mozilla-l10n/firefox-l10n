@@ -130,6 +130,8 @@ policy-SearchSuggestEnabled = Kích hoạt hoặc vô hiệu hóa các đề xu�
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Thêm hoặc xóa module PKCS #11.
 policy-ShowHomeButton = Hiển thị nút trang chủ trên thanh công cụ.
+# ”You represent that...” means ”You confirm/declare that...”
+policy-SkipTermsOfUse2 = Không hiển thị điều khoản sử dụng và thông báo về quyền riêng tư khi khởi động. Bạn tuyên bố rằng bạn chấp nhận và có thẩm quyền chấp nhận diều khoản sử dụng thay mặt cho tất cả các cá nhân mà bạn cung cấp quyền truy cập vào trình duyệt này.
 policy-SkipTermsOfUse = Không hiển thị điều khoản sử dụng và thông báo về quyền riêng tư khi khởi động.
 policy-SSLVersionMax = Chỉnh phiên bản SSL tối đa.
 policy-SSLVersionMin = Chỉnh phiên bản SSL tối thiểu.

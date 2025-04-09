@@ -25,6 +25,8 @@ return-to-amo-subtitle = Thật tuyệt, bạn đã có { -brand-short-name }
 return-to-amo-addon-title = Bây giờ, bạn có thể cài đặt <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
 return-to-amo-add-extension-label = Thêm tiện ích mở rộng
 return-to-amo-add-theme-label = Thêm chủ đề
+return-to-amo-theme-install-complete-label = Đã cài đặt chủ đề
+return-to-amo-extension-install-complete-label = Đã cài đặt tiện ích
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 

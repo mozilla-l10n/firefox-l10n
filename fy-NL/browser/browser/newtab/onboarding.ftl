@@ -25,6 +25,8 @@ return-to-amo-subtitle = Geweldich, jo hawwe { -brand-short-name }
 return-to-amo-addon-title = Litte wy no<img data-l10n-name="icon"/><b>{ $addon-name }</b> ophelje.
 return-to-amo-add-extension-label = De útwreiding tafoegje
 return-to-amo-add-theme-label = It tema tafoegje
+return-to-amo-theme-install-complete-label = Tema ynstallearre
+return-to-amo-extension-install-complete-label = Utwreiding ynstallearre
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
