@@ -25,6 +25,8 @@ return-to-amo-subtitle = მშვენიერია, თქვენ უკ�
 return-to-amo-addon-title = ახლა, მოდით დავამატოთ <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
 return-to-amo-add-extension-label = გაფართოების დამატება
 return-to-amo-add-theme-label = დაამატეთ გაფორმება
+return-to-amo-theme-install-complete-label = თემა ჩადგმულია
+return-to-amo-extension-install-complete-label = გაფართოება ჩადგმულია
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
