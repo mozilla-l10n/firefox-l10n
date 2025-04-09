@@ -280,6 +280,7 @@ shopping-callout-not-opted-in-integrated-reminder-accept-button = Ativar o verif
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = Não mostrar novamente esta recomendação
 shopping-callout-not-opted-in-integrated-reminder-show-fewer = Mostrar menos recomendações
 shopping-callout-not-opted-in-integrated-reminder-manage-settings = Gerenciar configurações
+shopping-opt-in-integrated-privacy-policy-and-terms-of-use = O verificador de avaliações funciona com base no { -fakespot-brand-full-name }. Ao selecionar “{ shopping-opt-in-integrated-button },” você declara que concorda com o <a data-l10n-name="privacy_policy">aviso de privacidade</a> e com os { -fakespot-brand-name }’s <a data-l10n-name="terms_of_use">termos de uso</a> do { -brand-product-name }.
 shopping-opt-in-integrated-button = Experimentar o verificador de avaliações
 
 ## Message strings for Review Checker's empty states.

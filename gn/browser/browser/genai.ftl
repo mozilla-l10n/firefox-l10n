@@ -111,6 +111,8 @@ genai-options-about-chatbot =
 
 genai-onboarding-header = Emombyky, akãngetaita ha hetave eikundaha aja
 genai-onboarding-choose-header = Eiporavo chatbot IA rehegua eiporu hag̃ua { -brand-short-name } renda yképe
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-choose-description = Emoambue ejapose vove. Eñepytyvõkuaa eiporavo hag̃ua, <a data-l10n-name="learn-more">eikuaave peteĩteĩva chatbot rehegua</a>.
 genai-onboarding-primary = Ku’ejey
 genai-onboarding-secondary = Mboty
 genai-onboarding-claude-tooltip =

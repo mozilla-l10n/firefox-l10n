@@ -124,6 +124,14 @@ contextual-manager-passwords-remove-all-message =
         [one] Kóva omboguéta umi ñe’ẽñemi ñongatupyre { -brand-short-name } pegua ha oimeraẽva kyhyjerã ñembogua rehegua. Ndaikatúi embojevy ko mba’e.
        *[other] Kóva omboguéta umi ñe’ẽñemi ñongatupyre { -brand-short-name } pegua ha oimeraẽva kyhyjerã ñembogua rehegua. Ndaikatúi embojevy ko mba’e.
     }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] Kóva omboguéta opaite ñe’ẽñemi ñongatupyre { -brand-short-name } pegua ha opaite mba’e’oka mbojuehepyrépe. Kóva omboguéta oimeháichagua ñembogua. Ndaikatúi embojevy ko mba’e.
+        [one] Kóva omboguéta opaite ñe’ẽñemi ñongatupyre { -brand-short-name } pegua ha opaite mba’e’oka mbojuehepyrépe. Kóva omboguéta oimeháichagua ñembogua. Ndaikatúi embojevy ko mba’e.
+       *[other] Kóva omboguéta opaite ñe’ẽñemi ñongatupyre { -brand-short-name } pegua ha opaite mba’e’oka mbojuehepyrépe. Kóva omboguéta oimeháichagua ñembogua. Ndaikatúi embojevy ko mba’e.
+    }
 contextual-manager-passwords-origin-label = Ñanduti rogue
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = Poruhára réra

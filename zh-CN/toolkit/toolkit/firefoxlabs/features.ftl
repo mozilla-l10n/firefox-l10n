@@ -33,3 +33,11 @@ experimental-features-contextual-password-manager-description = 直接通过侧�
 experimental-features-custom-wallpaper =
     .label = 定制新标签页的壁纸或颜色
 experimental-features-custom-wallpaper-description = 自行上传壁纸或选取自定义颜色，用作新标签页的背景。
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = 链接预览
+experimental-features-link-previews-description =
+    { PLATFORM() ->
+        [macos] 若要在点击链接前预先了解网页内容，可将指针悬停在链接上，然后按下 Shift (⇧) 和 Option (⌥)  或 Alt。预览中可能包含标题和阅读所需时间等详细信息。对于部分网页，AI 还可读取页面文字并列出要点。此 AI 为读取和生成英语文本优化。为最大程度保护隐私，AI 会在您的计算机本地运行。<a data-l10n-name="connect">分享反馈</a>
+       *[other] 若要在点击链接前预先了解网页内容，可将指针悬停在链接上，然后按下 Shift + Alt。预览中可能包含标题和阅读所需时间等详细信息。对于部分网页，AI 还可读取页面文字并列出要点。此 AI 为读取和生成英语文本优化。为最大程度保护隐私，AI 会在您的计算机本地运行。<a data-l10n-name="connect">分享反馈</a>
+    }

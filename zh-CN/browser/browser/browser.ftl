@@ -345,11 +345,16 @@ quickactions-extensions = 管理扩展
 quickactions-cmd-extensions = 扩展, extensions
 # Opens Firefox View
 quickactions-firefoxview = 打开 { -firefoxview-brand-name }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = 打开 { -firefoxview-brand-name }, { -firefoxview-brand-name }, 打开 view, view
 # Opens SUMO home page
 quickactions-help = { -brand-product-name } 帮助
 quickactions-cmd-help = 帮助, 支持
 # Opens the devtools web inspector
 quickactions-inspector2 = 打开开发者工具
+quickactions-cmd-inspector2 = 检查器, 开发者工具, inspector, devtools, dev tools
 quickactions-cmd-inspector = 查看器, 开发工具, inspector, devtools
 # Opens about:logins
 quickactions-logins2 = 管理密码
@@ -374,6 +379,7 @@ quickactions-restart = 重启 { -brand-short-name }
 quickactions-cmd-restart = 重新启动, 重启, restart
 # Opens the screenshot tool
 quickactions-screenshot3 = 截图
+quickactions-cmd-screenshot2 = 截图, 截屏, 屏幕截图, screenshot, take a screenshot
 quickactions-cmd-screenshot = 截图, screenshot
 # Opens about:preferences
 quickactions-settings2 = 管理设置
@@ -386,6 +392,7 @@ quickactions-update = 更新 { -brand-short-name }
 quickactions-cmd-update = 更新, update
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = 查看页面源代码
+quickactions-cmd-viewsource2 = 查看源代码, 源代码, 页面源代码, 查看源码, 源码, 页面源码, view source, source, page source
 quickactions-cmd-viewsource = 查看源代码, 源代码, view source, source
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
