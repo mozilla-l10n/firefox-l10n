@@ -274,6 +274,8 @@ shopping-opt-in-integrated-subtitle-unsupported-site = Kontrola pohódnoćenjow 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
 shopping-callout-opt-in-integrated-headline = Móžeće tutym pohódnoćenjam dowěrić?
+# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
+shopping-callout-not-opted-in-integrated-paragraph1 = Zmóžńće kontrolu pohódnoćenjow z { -brand-product-name } a namakajće to won. Spěchuje so přez { -fakespot-brand-full-name } a wužiwa technologiju KI, zo by pohódnoćenja analyzowała.
 shopping-callout-not-opted-in-integrated-paragraph2 = Hdyž “{ shopping-opt-in-integrated-button }“ wuběraće, zwoliće do <a data-l10n-name="privacy_policy">zdźělenki priwatnosće</a> { -brand-product-name } a <a data-l10n-name="terms_of_use">wužiwanskich wuměnjenjow</a> { -fakespot-brand-full-name }.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Zaćisnyć
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Kontrolu pohódnoćenjow zmóžnić
