@@ -33,3 +33,6 @@ experimental-features-contextual-password-manager-description = Acesse suas senh
 experimental-features-custom-wallpaper =
     .label = Escolha uma cor ou fundo de tela personalizado para a página de nova aba
 experimental-features-custom-wallpaper-description = Envie seu próprio fundo de tela ou escolha uma cor personalizada para o fundo da página de nova aba.
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = Exibição prévia de links

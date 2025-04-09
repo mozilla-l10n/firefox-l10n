@@ -130,6 +130,7 @@ policy-SearchSuggestEnabled = Emyandy térã embogue jeheka rehegua.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Embojuaju térã eipe’a PKCS #11 ta’ãha.
 policy-ShowHomeButton = Ehechauka ñepyrũha votõ tembiporu rendápe.
+policy-SkipTermsOfUse = Aníke ehechauka jeporurã reko ha avei ñemigua emoñepyrũvo.
 policy-SSLVersionMax = Emboheko SSL rembiapokue ipyahuvéva.
 policy-SSLVersionMin = Emboheko SSL rembiapokue oiko’ivéva.
 policy-StartDownloadsInTempDirectory = Embojere umi ñemboguejy oñepyrũ hag̃ua peteĩ tenda sapy’agua tendápe, tenda’i ñemboguejyrã ñepyrũrã rangue.

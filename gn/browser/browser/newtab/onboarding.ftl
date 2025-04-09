@@ -25,6 +25,8 @@ return-to-amo-subtitle = Iporãite, emohendáma { -brand-short-name }
 return-to-amo-addon-title = Ko’ág̃a roguerekóta <img data-l10n-name="icon"/> <b>{ $addon-name }</b> ndéve g̃uarã.
 return-to-amo-add-extension-label = Embojuaju jepysokue
 return-to-amo-add-theme-label = Embojuaju Téma
+return-to-amo-theme-install-complete-label = Téma mohendapyre
+return-to-amo-extension-install-complete-label = Jepysokue mohendapyre
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
