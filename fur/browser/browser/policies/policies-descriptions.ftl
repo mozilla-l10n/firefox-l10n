@@ -130,6 +130,8 @@ policy-SearchSuggestEnabled = Ative o disative i sugjeriments di ricercje.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Zonte o elimine modui PKCS #11.
 policy-ShowHomeButton = Mostre il boton pagjine iniziâl te sbare dai struments.
+# ”You represent that...” means ”You confirm/declare that...”
+policy-SkipTermsOfUse2 = No sta visualizâ lis cundizions di utilizazion e la informative su la riservatece al inviament. Tu declaris di acetâ e di vê la autoritât par acetâ lis cundizions di utilizazion par cont di dutis lis personis che a dopraran chest navigadôr che tu ur furnissis.
 policy-SkipTermsOfUse = No sta mostrâ lis cundizions di utilizazion e la informative su la riservatece al inviament.
 policy-SSLVersionMax = Stabilìs la massime version di SSL.
 policy-SSLVersionMin = Stabilìs la minime version di SSL.
