@@ -25,6 +25,8 @@ return-to-amo-subtitle = Аҷоиб, шумо «{ -brand-short-name }» доре
 return-to-amo-addon-title = Акнун биёед <img data-l10n-name="icon"/> <b>{ $addon-name }</b>-ро насб намоед.
 return-to-amo-add-extension-label = Илова кардани васеъшавӣ
 return-to-amo-add-theme-label = Илова кардани мавзуъ
+return-to-amo-theme-install-complete-label = Мавзуъ насб карда шуд
+return-to-amo-extension-install-complete-label = Васеъшавӣ насб карда шуд
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
