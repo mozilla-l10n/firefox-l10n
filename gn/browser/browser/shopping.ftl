@@ -281,6 +281,7 @@ shopping-integrated-callout-opted-out-title = Marandu’i rechajeyha oñembogue
 ## Callout for where to find Review Checker when the sidebar closes
 
 shopping-integrated-callout-sidebar-closed-title = Ejevy jehechajey rechahápe
+shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Eiporavo pe votõ tenda ykepegua ehecha hag̃ua ejeroviátapa pe apopyre hechapyrére.
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
