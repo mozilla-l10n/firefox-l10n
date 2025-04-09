@@ -36,3 +36,8 @@ experimental-features-custom-wallpaper-description = Envie seu próprio fundo de
 # Link Previews with AI
 experimental-features-link-previews =
     .label = Exibição prévia de links
+experimental-features-link-previews-description =
+    { PLATFORM() ->
+        [macos] Para saber mais sobre uma página web antes de clicar, passe o mouse sobre um link e pressione Shift (⇧) junto com Option (⌥) ou Alt. A exibição prévia pode incluir detalhes como título e tempo de leitura. Em algumas páginas web, a inteligência artificial também pode ler o texto da página e gerar tópicos importantes. A inteligência artificial é otimizada para ler e gerar texto em inglês. Para priorizar sua privacidade, a inteligência artificial funciona localmente em seu computador. <a data-l10n-name="connect">Compartilhe sua opinião</a>
+       *[other] Para saber mais sobre uma página web antes de clicar, passe o mouse sobre um link e pressione Shift + Alt. A exibição prévia pode incluir detalhes como título e tempo de leitura. Em algumas páginas web, a inteligência artificial também pode ler o texto da página e gerar tópicos importantes. A inteligência artificial é otimizada para ler e gerar texto em inglês. Para priorizar sua privacidade, a inteligência artificial funciona localmente em seu computador. <a data-l10n-name="connect">Compartilhe sua opinião</a>
+    }

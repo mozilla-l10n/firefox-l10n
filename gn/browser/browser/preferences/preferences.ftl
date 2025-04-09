@@ -239,6 +239,7 @@ browser-layout-vertical-tabs =
 browser-layout-vertical-tabs-desc = Ehechauka peteĩ yképe, tenda yképe
 browser-layout-show-sidebar =
     .label = Ehechauka tenda yke
+browser-layout-show-sidebar-desc = Eike pya’e techaukaha, pumbyry rendayke, chatbots IA ha ko’ãva esẽ mboyve  mba’erechaha tuichavévagui.
 
 ## General Section - Language & Appearance
 
@@ -1382,6 +1383,7 @@ collection-health-report-disabled2 = Pe mba’ekuaarã ñemondo oñemboguéma ko
 collection-backlogged-crash-reports2 =
     .label = Toho ijehegui marandu jejavy rehegua
     .accesskey = c
+collection-backlogged-crash-reports-description = Kóva oipytyvõ { -vendor-short-name }-pe roikuaa ha romyatyrõvo apañuái kundahára ndive. Umi marandu’ípe oĩkuaa mba’ekuaarã nemba’ete ha ñemiguáva.
 addon-recommendations =
     .label = Emoneĩ { -brand-short-name } ojapóvo ñe’ẽporã jepysokue momba’epyrépe
 addon-recommendations-link = Kuaave
