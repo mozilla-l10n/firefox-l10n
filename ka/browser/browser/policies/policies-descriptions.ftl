@@ -130,6 +130,8 @@ policy-SearchSuggestEnabled = ძიების შემოთავაზე�
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = დაემატოს ან წაიშალოს მოდულები PKCS #11.
 policy-ShowHomeButton = მთავარი გვერდის ღილაკის გამოჩენა ხელსაწყოთა ზოლზე.
+# ”You represent that...” means ”You confirm/declare that...”
+policy-SkipTermsOfUse2 = არ გამოჩნდეს გამოყენების პირობები და პირადულობის დებულება გაშვებისას. თქვენ ადასტურებთ, რომ ეთანხმებით და გაქვთ უფლებამოსილება მიიღოთ გამოყენების პირობები ყველა იმ პირის სახელით, ვისაც ამ ბრაუზერთან წვდომის ნებას რთავთ.
 policy-SkipTermsOfUse = არ გამოჩნდეს გამოყენების პირობები და პირადი მონაცემების დაცვის განაცხადი გაშვებისას.
 policy-SSLVersionMax = SSL-ის უმაღლესი ვერსიის განსაზღვრა.
 policy-SSLVersionMin = SSL-ის უმცირესი ვერსიის განსაზღვრა.
