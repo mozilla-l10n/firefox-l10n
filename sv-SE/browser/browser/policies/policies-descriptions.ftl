@@ -131,7 +131,7 @@ policy-SearchSuggestEnabled = Aktivera eller inaktivera sökförslag.
 policy-SecurityDevices2 = Lägg till eller ta bort PKCS #11-moduler.
 policy-ShowHomeButton = Visa hemknappen i verktygsfältet.
 # ”You represent that...” means ”You confirm/declare that...”
-policy-SkipTermsOfUse2 = Visa inte användarvillkoren och sekretesspolicyn vid start. Du intygar att du accepterar och har behörighet att acceptera användarvillkoren på uppdrag av alla personer som du ger åtkomst till den här webbläsaren.
+policy-SkipTermsOfUse2 = Visa inte användarvillkoren och sekretessmeddelandet vid start. Du intygar att du accepterar och har behörighet att acceptera användarvillkoren på uppdrag av alla individer som du ger åtkomst till den här webbläsaren.
 policy-SkipTermsOfUse = Visa inte användarvillkoren och sekretesspolicyn vid start.
 policy-SSLVersionMax = Ange den maximala SSL-versionen.
 policy-SSLVersionMin = Ange den lägsta SSL-versionen.
