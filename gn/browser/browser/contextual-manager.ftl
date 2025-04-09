@@ -116,6 +116,14 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Mboguepaite
        *[other] Mboguepaite
     }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] Kóva omboguéta umi ñe’ẽñemi ñongatupyre { -brand-short-name } pegua ha oimeraẽva kyhyjerã ñembogua rehegua. Ndaikatúi embojevy ko mba’e.
+        [one] Kóva omboguéta umi ñe’ẽñemi ñongatupyre { -brand-short-name } pegua ha oimeraẽva kyhyjerã ñembogua rehegua. Ndaikatúi embojevy ko mba’e.
+       *[other] Kóva omboguéta umi ñe’ẽñemi ñongatupyre { -brand-short-name } pegua ha oimeraẽva kyhyjerã ñembogua rehegua. Ndaikatúi embojevy ko mba’e.
+    }
 contextual-manager-passwords-origin-label = Ñanduti rogue
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = Poruhára réra
