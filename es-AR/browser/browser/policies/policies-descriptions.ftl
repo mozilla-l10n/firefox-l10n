@@ -130,6 +130,8 @@ policy-SearchSuggestEnabled = Habilitar o deshabilitar las sugerencias de búsqu
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Agregar o borrar módulos PKCS #11.
 policy-ShowHomeButton = Mostrar el botón de inicio en la barra de herramientas.
+# ”You represent that...” means ”You confirm/declare that...”
+policy-SkipTermsOfUse2 = No mostrar los términos de uso y la nota de privacidad al iniciar. Usted declara que acepta y tiene autoridad para aceptar los Términos de uso en nombre de todas las personas a las que proporcione acceso a este navegador.
 policy-SkipTermsOfUse = No mostrar los términos de uso y la nota de privacidad al iniciar.
 policy-SSLVersionMax = Establecer la versión máxima de SSL.
 policy-SSLVersionMin = Establecer la versión mínima de SSL.
