@@ -64,6 +64,7 @@ sidebar-pins-callout-cta-button = ടാബിൽ കുത്തിസൂചി
 sidebar-customization-callout-1-title = അണിവക്കം: കരുകൾക്കുമായി ടാബുകൾക്കുമായി താങ്ങളുടെ ഇടം
 sidebar-customization-callout-callout-button = അണിവക്കത്തിനെ ഇഷ്ടമ്പോലെയാക്കുക
 sidebar-customization-callout-dismiss-button = അണിവക്കം മറയ്ക്കുക
+sidebar-customization-callout-2-title = { -brand-product-name } അണിവക്കം നിങ്ങളുടേതാക്കുക.
 
 ## Sidebar Callout Survey Strings
 
