@@ -132,7 +132,6 @@ policy-SecurityDevices2 = Aggiungi o elimina moduli PKCS #11.
 policy-ShowHomeButton = Visualizza il pulsante Pagina iniziale nella barra degli strumenti.
 # ”You represent that...” means ”You confirm/declare that...”
 policy-SkipTermsOfUse2 = Non visualizzare le condizioni di utilizzo e l’informativa sulla privacy all’avvio. Dichiari di accettare e di avere l’autorità per accettare le condizioni di utilizzo per conto di tutte le persone a cui fornisci accesso a questo browser.
-policy-SkipTermsOfUse = Non mostrare le condizioni di utilizzo e l’informativa sulla privacy all’avvio.
 policy-SSLVersionMax = Imposta la versione massima di SSL.
 policy-SSLVersionMin = Imposta la versione minima di SSL.
 policy-StartDownloadsInTempDirectory = Forza l’avvio dei download in una cartella temporanea locale invece della cartella predefinita per i download.
@@ -145,4 +144,3 @@ policy-WebsiteFilter = Impedisci l’accesso a determinati siti web. Consulta la
 policy-Windows10SSO = Permetti l’utilizzo di Windows single sign-on per account Microsoft, account aziendale o dell’istituto di istruzione.
 # Entra is the name of a Microsoft product.
 policy-MicrosoftEntraSSO = Permetti l’utilizzo di Windows single sign-on per account Microsoft Entra.
-
