@@ -67,6 +67,9 @@ contextual-manager-passwords-import-success-heading =
 contextual-manager-passwords-import-success-message = Nouveaux : { $added }, mis à jour : { $modified }
 contextual-manager-passwords-import-detailed-report = Voir un rapport détaillé
 contextual-manager-passwords-import-success-button = Terminé
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = Impossible d’importer les mots de passe
+    .message = Assurez-vous que votre fichier contienne des colonnes pour les sites web, les noms d’utilisateur et les mots de passe.
 contextual-manager-passwords-import-error-button-try-again = Réessayer
 contextual-manager-passwords-import-error-button-cancel = Annuler
 contextual-manager-passwords-import-learn-more = En savoir plus sur l’importation de mots de passe
@@ -90,6 +93,14 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] Document CSV
        *[other] Fichier CSV
+    }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] Supprimer le mot de passe ?
+        [one] Supprimer le mot de passe ?
+       *[other] Supprimer les { $total }  mots de passe ?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
