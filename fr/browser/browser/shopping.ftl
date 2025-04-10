@@ -287,7 +287,8 @@ shopping-integrated-callout-opted-out-subtitle = Pour le réactiver, sélectionn
 ## Callout for where to find Review Checker when the sidebar closes
 
 shopping-integrated-callout-sidebar-closed-title = Rouvrir le vérificateur d’avis
-shopping-integrated-callout-sidebar-closed-subtitle = Sélectionnez l’étiquette de prix dans le panneau latéral pour voir si vous pouvez faire confiance aux avis d’un produit.
+shopping-integrated-callout-sidebar-closed-subtitle = Sélectionnez l’étiquette de prix dans le panneau latéral pour vérifier la fiabilité des avis d’un produit.
+shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Cliquez sur le bouton dans le panneau latéral pour vérifier la fiabilité des avis d’un produit.
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
