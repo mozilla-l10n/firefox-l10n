@@ -382,6 +382,12 @@ newtab-wallpaper-sky-with-pink-clouds = Ciel avec des nuages roses
 newtab-wallpaper-red-panda-yawns-in-a-tree = Un panda roux qui baille sur un arbre
 newtab-wallpaper-white-mountains = Montagnes blanches
 newtab-wallpaper-hot-air-balloons = Diverses montgolfières colorées en plein jour
+newtab-wallpaper-starry-canyon = Nuit étoilée bleue
+newtab-wallpaper-suspension-bridge = Photographie diurne en noir et blanc d’un pont suspendu
+newtab-wallpaper-sand-dunes = Dunes de sable blanc
+newtab-wallpaper-palm-trees = Silhouette de cocotiers pendant un crépuscule doré
+newtab-wallpaper-blue-flowers = Macrophotographie d’une fleur éclose aux pétales bleus
+newtab-wallpaper-forest-trees = Arbres dans le brouillard
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -399,7 +405,16 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Céleste
 newtab-wallpaper-celestial-lunar-eclipse = Éclipse de lune
+newtab-wallpaper-celestial-earth-night = Photo de nuit depuis une orbite terrestre basse
+newtab-wallpaper-celestial-starry-sky = Ciel étoilé
+newtab-wallpaper-celestial-eclipse-time-lapse = Phases d’éclipse de lune superposées
+newtab-wallpaper-celestial-black-hole = Illustration d’une galaxie avec un trou noir
+newtab-wallpaper-celestial-river = Image satellite d’une rivière
 
 ## New Tab Weather
 
@@ -507,3 +522,4 @@ newtab-section-mangage-topics-followed-topics = Suivis
 newtab-section-mangage-topics-followed-topics-empty-state = Vous n’avez pas encore suivi de sujet.
 newtab-section-mangage-topics-blocked-topics = Bloqués
 newtab-section-mangage-topics-blocked-topics-empty-state = Vous n’avez pas encore bloqué de sujet.
+newtab-custom-wallpaper-cta = Essayer
