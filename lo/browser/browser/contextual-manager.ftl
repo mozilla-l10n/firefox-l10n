@@ -105,6 +105,11 @@ contextual-manager-passwords-remove-all-confirm-button =
         [1] ລົບອອກ
        *[other] ລົບອອກທັງໝົດ
     }
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = ມີລະຫັດຜ່ານ ແລະ ຊື່ຜູ້ໃຊ້ສຳລັບ { $url } ຢູ່ກ່ອນແລ້ວ
+contextual-manager-passwords-password-already-exists-error-button = ໄປທີ່ລະຫັດຜ່ານ
 contextual-manager-passwords-update-password-success-heading =
     .heading = ບັນທຶກລະຫັດຜ່ານແລ້ວ!
 contextual-manager-passwords-update-password-success-button = ສຳເລັດ
@@ -147,6 +152,11 @@ contextual-manager-passwords-list-label =
     .aria-label = ລະຫັດຜ່ານ
 contextual-manager-copy-icon =
     .alt = ສຳເນົາ
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = ສຳເນົາຊື່ຜູ້ໃຊ້ { $username }
+    .title = ສຳເນົາຊື່ຜູ້ໃຊ້ { $username }
 contextual-manager-password-login-line =
     .aria-label = ສຳເນົາລະຫັດຜ່ານ
     .title = ສຳເນົາລະຫັດຜ່ານ
