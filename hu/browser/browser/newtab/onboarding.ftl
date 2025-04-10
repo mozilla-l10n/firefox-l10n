@@ -25,6 +25,8 @@ return-to-amo-subtitle = Nagyszerű, már van { -brand-short-name }a
 return-to-amo-addon-title = Most pedig szerezze be a(z) <img data-l10n-name="icon"/> <b>{ $addon-name } kiegészítőt.</b>
 return-to-amo-add-extension-label = Kiegészítő hozzáadása
 return-to-amo-add-theme-label = Téma hozzáadása
+return-to-amo-theme-install-complete-label = Téma telepítve
+return-to-amo-extension-install-complete-label = Kiegészítő telepítve
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
