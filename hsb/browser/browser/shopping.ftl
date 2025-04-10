@@ -263,7 +263,7 @@ shopping-opt-in-integrated-headline = Nakupujće z dowěru
 #   $firstSite (String) - The first shopping page name
 #   $secondSite (String) - The second shopping page name
 #   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle = Zmóžńće kontrolu pohódnoćenjow z { -brand-product-name }, zo byšće widźał, kak spušćomne pohódnoćenja produktow su, prjedy hač kupujeće. Wužiwa technologiju KI, zo by pohódnoćenja a analyzowała a funguje, hdyž na { $firstSite }, { $secondSite } a { $thirdSite } nakupujeće. <a data-l10n-name="learn_more">Dalše informacije</a>
+shopping-opt-in-integrated-subtitle = Zmóžńće kontrolu pohódnoćenjow z { -brand-product-name }, zo byšće widźał, kak spušćomne pohódnoćenja produktow su, prjedy hač kupujeće. Wužiwa technologiju KI, zo by pohódnoćenja analyzowała a funguje, hdyž na { $firstSite }, { $secondSite } a { $thirdSite } nakupujeće. <a data-l10n-name="learn_more">Dalše informacije</a>
 # Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
 # Variables:
 #   $firstSite (String) - The first shopping page name

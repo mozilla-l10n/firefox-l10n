@@ -258,10 +258,24 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 # Opt-in message strings for Review Checker when it is integrated into the global sidebar.
 shopping-opt-in-integrated-headline = Nakupujśo z dowěru
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle = Zmóžniśo kontrolu pógódnośenjow z { -brand-product-name }, aby wiźeł, kak spušćobne pógódnośenja produktow su, nježli až kupujośo. Wužywa technologiju KI, aby pógódnośenja analyzěrowała a funkcioněrujo, gaž na { $firstSite }, { $secondSite } a { $thirdSite } nakupujośo. <a data-l10n-name="learn_more">Dalšne informacije</a>
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle-unsupported-site = Kontrola pógódnośenjow z { -brand-product-name } wam pomaga zgóniś, kak spušćobne pógódnośenja produkta su, nježli až kupujośo. Wužywa technologiju KI, aby pógódnośenja analyzěrowała a funkcioněrujo, gaž na { $firstSite }, { $secondSite } a { $thirdSite } nakupujośo. <a data-l10n-name="learn_more">Dalšne informacije</a>
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
 shopping-callout-opt-in-integrated-headline = Móžośo toś tym pógódnośenjam dowěriś?
+# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
+shopping-callout-not-opted-in-integrated-paragraph1 = Zmóžniśo kontrolu pógódnośenjow z { -brand-product-name } a namakajśo to wen. Spěchujo se pśez { -fakespot-brand-full-name } a wužywa technologiju KI, aby pógódnośenja analyzěrowała.
 shopping-callout-not-opted-in-integrated-paragraph2 = Gaž “{ shopping-opt-in-integrated-button }“ wuběraśo, zwolijośo do <a data-l10n-name="privacy_policy">powěźeńki priwatnosći</a> { -brand-product-name } a <a data-l10n-name="terms_of_use">wužywańskich wuměnjenjow</a> { -fakespot-brand-full-name }.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Zachyśiś
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Kontrolu pógódnośenjow zmóžniś
