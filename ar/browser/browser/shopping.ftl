@@ -46,6 +46,8 @@ shopping-message-bar-keep-closed-dismiss-button = لا، شكرًا
 
 ## Strings for the product review snippets card
 
+shopping-highlights-label =
+    .label = أبرز ما جاء في المراجعات الأخيرة
 shopping-highlight-price = السعر
 shopping-highlight-quality = الجودة
 shopping-highlight-shipping = الشحن
