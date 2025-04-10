@@ -130,6 +130,8 @@ policy-SearchSuggestEnabled = Ενεργοποίηση ή απενεργοποί
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Προσθήκη ή διαγραφή μονάδων PKCS #11.
 policy-ShowHomeButton = Εμφάνιση του κουμπιού αρχικής σελίδας στη γραμμή εργαλείων.
+# ”You represent that...” means ”You confirm/declare that...”
+policy-SkipTermsOfUse2 = Να μην εμφανίζονται οι Όροι χρήσης και η Σημείωση απορρήτου κατά την εκκίνηση. Δηλώνετε ότι αποδέχεστε και έχετε την εξουσιοδότηση να αποδεχτείτε τους Όρους χρήσης εκ μέρους όλων των ατόμων στα οποία παρέχετε πρόσβαση σε αυτό το πρόγραμμα περιήγησης.
 policy-SkipTermsOfUse = Να μην εμφανίζονται οι Όροι χρήσης και η Σημείωση απορρήτου κατά την εκκίνηση.
 policy-SSLVersionMax = Ορισμός μέγιστης έκδοσης SSL.
 policy-SSLVersionMin = Ορισμός ελάχιστης έκδοσης SSL.
