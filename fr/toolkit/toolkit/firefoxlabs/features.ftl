@@ -36,3 +36,8 @@ experimental-features-custom-wallpaper-description = Téléchargez votre propre 
 # Link Previews with AI
 experimental-features-link-previews =
     .label = Aperçu des liens
+experimental-features-link-previews-description =
+    { PLATFORM() ->
+        [macos] Pour en savoir plus sur une page web avant de cliquer, survolez un lien et appuyez sur Maj (⇧) + Option (⌥). Les aperçus peuvent inclure des détails tels que le titre et la durée de lecture. Pour certaines pages web, l’IA peut également lire le texte de la page et générer des points clés. L’IA est optimisée pour lire et générer du texte en anglais. Pour protéger votre vie privée, l’IA s’exécute localement sur votre ordinateur. <a data-l10n-name="connect">Donner votre avis</a>
+       *[other] Pour en savoir plus sur une page web avant de cliquer, survolez un lien et appuyez sur Maj + Alt. Les aperçus peuvent inclure des détails tels que le titre et la durée de lecture. Pour certaines pages web, l’IA peut également lire le texte de la page et générer des points clés. L’IA est optimisée pour lire et générer du texte en anglais. Pour protéger votre vie privée, l’IA s’exécute localement sur votre ordinateur. <a data-l10n-name="connect">Donner votre avis</a>
+    }
