@@ -117,6 +117,7 @@ newtab-menu-delete-pocket = Supprimer de { -pocket-brand-name }
 newtab-menu-archive-pocket = Archiver dans { -pocket-brand-name }
 newtab-menu-show-privacy-info = Nos sponsors et votre vie privée
 newtab-menu-about-fakespot = À propos de { -fakespot-brand-name }
+newtab-menu-report-content = Signaler ce contenu
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Bloquer
@@ -128,6 +129,7 @@ newtab-menu-section-unfollow = Ne plus suivre ce sujet
 
 newtab-menu-manage-sponsored-content = Gérer le contenu sponsorisé
 newtab-menu-our-sponsors-and-your-privacy = Nos sponsors et votre vie privée
+newtab-menu-report-this-ad = Signaler cette annonce
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 

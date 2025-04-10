@@ -33,3 +33,6 @@ experimental-features-contextual-password-manager-description = Accédez à vos 
 experimental-features-custom-wallpaper =
     .label = Choisissez une couleur ou un fond d’écran personnalisé pour la page de nouvel onglet
 experimental-features-custom-wallpaper-description = Téléchargez votre propre fond d’écran ou choisissez une couleur personnalisée pour le fond de votre page de nouvel onglet.
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = Aperçu des liens
