@@ -109,8 +109,11 @@ genai-options-about-chatbot =
 ## Chatbot onboarding
 
 genai-onboarding-header = Περιλήψεις, νέες ιδέες και πολλά άλλα κατά την περιήγηση
+genai-onboarding-choose-header = Επιλέξτε ένα chatbot τεχνητής νοημοσύνης για χρήση στην πλαϊνή γραμμή του { -brand-short-name }
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = Επιλέξτε ένα chatbot ΤΝ για χρήση στην πλαϊνή γραμμή του { -brand-short-name }. Θα σας εμφανίζουμε λεπτομέρειες για κάθε chatbot όταν το επιλέγετε. Αλλάξτε το ανά πάσα στιγμή. <a data-l10n-name="learn-more">Μάθετε περισσότερα</a>
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-choose-description = Μπορείτε να το αλλάξετε ανά πάσα στιγμή. Για βοήθεια με την επιλογή, <a data-l10n-name="learn-more">μάθετε περισσότερα για κάθε chatbot</a>.
 genai-onboarding-primary = Συνέχεια
 genai-onboarding-secondary = Κλείσιμο
 genai-onboarding-claude-tooltip =

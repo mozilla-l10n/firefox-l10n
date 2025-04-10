@@ -280,10 +280,12 @@ shopping-callout-not-opted-in-integrated-reminder-accept-button = Ενεργοπ
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = Να μην εμφανιστεί ξανά αυτή η πρόταση
 shopping-callout-not-opted-in-integrated-reminder-show-fewer = Εμφάνιση λιγότερων προτάσεων
 shopping-callout-not-opted-in-integrated-reminder-manage-settings = Διαχείριση ρυθμίσεων
+shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Ο έλεγχος κριτικών λειτουργεί με την υποστήριξη του { -fakespot-brand-full-name }. Επιλέγοντας «{ shopping-opt-in-integrated-button }» συμφωνείτε με την <a data-l10n-name="privacy_policy">σημείωση απορρήτου</a> του { -brand-product-name } και με τους <a data-l10n-name="terms_of_use">όρους χρήσης</a> του { -fakespot-brand-name }.
 shopping-opt-in-integrated-button = Δοκιμή ελέγχου κριτικών
 
 ## Message strings for Review Checker's empty states.
 
+shopping-empty-state-header = Ο έλεγχος κριτικών είναι έτοιμος
 shopping-empty-state-supported-site = Δείτε ένα προϊόν και το { -brand-product-name } θα ελέγξει αν οι κριτικές είναι αξιόπιστες.
 # We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
 # This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
@@ -297,6 +299,7 @@ shopping-integrated-callout-opted-out-subtitle = Για να τον ενεργο
 ## Callout for where to find Review Checker when the sidebar closes
 
 shopping-integrated-callout-sidebar-closed-title = Επιστροφή στον έλεγχο κριτικών
+shopping-integrated-callout-sidebar-closed-subtitle = Επιλέξτε την ετικέτα τιμής στην πλαϊνή γραμμή για να δείτε αν μπορείτε να εμπιστευτείτε τις κριτικές ενός προϊόντος.
 shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Επιλέξτε το κουμπί της πλαϊνής γραμμής για να δείτε αν μπορείτε να εμπιστευτείτε τις κριτικές ενός προϊόντος.
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
@@ -304,6 +307,8 @@ shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Επιλέξτε �
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
 shopping-integrated-new-position-notification-title = Ο ίδιος έλεγχος κριτικών, σε νέο μέρος
+shopping-integrated-new-position-notification-move-right-subtitle = Διατηρήστε τον έλεγχο κριτικών και τα υπόλοιπα εργαλεία της πλαϊνής γραμμής του { -brand-product-name } εδώ ή μετακινήστε τα στα δεξιά. Αλλάξτε τη θέση τώρα ή ανά πάσα στιγμή στις <a data-l10n-name="sidebar_settings">ρυθμίσεις της πλαϊνής γραμμής</a>.
+shopping-integrated-new-position-notification-move-left-subtitle = Διατηρήστε τον έλεγχο κριτικών και τα υπόλοιπα εργαλεία της πλαϊνής γραμμής του { -brand-product-name } εδώ ή μετακινήστε τα στα αριστερά. Αλλάξτε τη θέση τώρα ή ανά πάσα στιγμή στις <a data-l10n-name="sidebar_settings">ρυθμίσεις της πλαϊνής γραμμής</a>.
 shopping-integrated-new-position-notification-move-right-button = Μετακίνηση δεξιά
 shopping-integrated-new-position-notification-move-left-button = Μετακίνηση αριστερά
 shopping-integrated-new-position-notification-dismiss-button = Το κατάλαβα
