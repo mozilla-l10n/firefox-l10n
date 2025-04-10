@@ -324,6 +324,11 @@ pdfjs-editor-highlight-editor =
 # “Drawing” is a noun, the string is used on the editor for drawings.
 pdfjs-editor-ink-editor =
     .aria-label = Éditeur de dessins
+# Used when a signature editor is selected/hovered.
+# Variables:
+#   $description (String) - a string describing/labeling the signature.
+pdfjs-editor-signature-editor1 =
+    .aria-description = Éditeur de signature : { $description }
 pdfjs-editor-stamp-editor =
     .aria-label = Éditeur d’images
 

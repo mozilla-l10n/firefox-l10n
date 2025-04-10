@@ -179,6 +179,9 @@ contextual-manager-passwords-change-password-button = Changer le mot de passe
 contextual-manager-passwords-vulnerable-password-heading-and-message =
     .heading = Changement de mot de passe recommandé
     .message = Ce mot de passe est facile à deviner. Modifiez-le pour protéger votre compte.
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Ajouter un nom d’utilisateur
+    .message = Ajoutez-le pour vous connecter plus vite.
 contextual-manager-passwords-add-username-button = Ajouter un nom d’utilisateur
 
 ## Login Form
