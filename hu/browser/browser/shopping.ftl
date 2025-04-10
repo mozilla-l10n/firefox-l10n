@@ -325,3 +325,7 @@ shopping-settings-auto-open-and-close-toggle =
 #   $secondSite (String) - The second shopping page name
 #   $thirdSite (String) - The third shopping page name
 shopping-settings-auto-open-and-close-description-three-sites = A termékek megtekintésekor nyílik meg ezeken a webhelyeken: { $firstSite }, { $secondSite } és { $thirdSite }. Távozáskor bezárul.
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-and-close-description-single-site = Megnyílik, ha termékeket néz a(z) { $currentSite } oldalon, és bezárul, ha kilép onnan
