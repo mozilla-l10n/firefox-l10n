@@ -59,6 +59,7 @@ history-section-label = Cronologia
 item-history-and-downloads =
     .label = Cronologia navigazione e download
     .accesskey = z
+item-history-and-downloads-description2 = Cancella la cronologia di navigazione e di download
 item-history-and-downloads-description = Cancella la cronologia di ricerca, navigazione e download
 item-history-form-data-downloads =
     .label = Cronologia

@@ -66,8 +66,30 @@ about-logging-unknown-profiler-preset = Preset del profiler “{ $v }“ sconosc
 about-logging-unknown-option = Opzione sconosciuta “{ $k }“ per about:logging
 about-logging-configuration-url-ignored = URL di configurazione ignorato
 about-logging-file-and-profiler-override = Impossibile forzare un file di output e allo stesso tempo ignorare le opzioni del profiler
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-unknown-error = Si è verificato un errore: { $errorText }
 about-logging-configured-via-url = Opzione configurata tramite URL
 
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
+about-logging-upload-question = I dati del profilo sono stati acquisiti. Vuoi salvarli o caricarli?
+about-logging-save-button = Salva
+about-logging-upload-button = Carica
+# Variables:
+#   $path (string) - The path where the profile can be found.
+about-logging-saved = Salvato in { $path }
+# Variables:
+#   $percent (number) - The upload completion progress, to be displayed as a percentage. This is a value between 0 and 1.
+about-logging-uploading-progress = Caricamento dati profilo: { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+# Variables:
+#   $url (string) - The URL where the profile can be found
+about-logging-uploaded = Caricato in <a data-l10n-name="uploaded-message-url">{ $url }</a>
+about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Condividi URL
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-upload-error = Si è verificato un errore durante il caricamento del profilo: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-save-error = Si è verificato un errore durante il salvataggio del file: { $errorText }
