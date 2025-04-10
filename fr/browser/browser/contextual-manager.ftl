@@ -211,6 +211,17 @@ contextual-manager-check-icon-password =
 contextual-manager-alert-icon =
     .alt = Avertissement
 # Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = Consulter { $url }
+    .title = Consulter { $url }
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = Consulter { $url } (avertissement)
+    .title = Consulter { $url } (avertissement)
+# Variables
 #   $username (string) - The username associated with the login
 contextual-manager-username-login-line =
     .aria-label = Copier le nom d’utilisateur { $username }
@@ -250,6 +261,10 @@ contextual-manager-passwords-no-passwords-found-message = Aucun mot de passe tro
 
 # This string encourages the user to save their passwords in Firefox (the "safe spot").
 contextual-manager-passwords-no-passwords-header = Enregistrez vos mots de passe en lieu sûr.
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = Ajoutez-les ici pour commencer.
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = Ajouter manuellement
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.

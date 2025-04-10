@@ -26,6 +26,7 @@ return-to-amo-addon-title = À présent, installons <img data-l10n-name="icon"/>
 return-to-amo-add-extension-label = Ajouter l’extension
 return-to-amo-add-theme-label = Ajouter le thème
 return-to-amo-theme-install-complete-label = Thème installé
+return-to-amo-extension-install-complete-label = Extension installée
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 

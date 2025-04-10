@@ -275,17 +275,28 @@ shopping-opt-in-integrated-button = Essayer le vérificateur d’avis
 
 shopping-empty-state-header = Prêt à vérifier les avis
 shopping-empty-state-supported-site = Consultez un produit et { -brand-product-name } vérifiera si les avis sont fiables.
+# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
+# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
+shopping-empty-state-non-supported-site = Le vérificateur d’avis fonctionne lorsque vous achetez sur :
 
 ## Confirm disabling Review Checker for newly opted out users
 
+shopping-integrated-callout-opted-out-title = Le vérificateur d’avis est désactivé
+shopping-integrated-callout-opted-out-subtitle = Pour le réactiver, sélectionnez l’étiquette de prix dans le panneau latéral et réactivez le vérificateur d’avis.
 
 ## Callout for where to find Review Checker when the sidebar closes
 
+shopping-integrated-callout-sidebar-closed-title = Rouvrir le vérificateur d’avis
+shopping-integrated-callout-sidebar-closed-subtitle = Sélectionnez l’étiquette de prix dans le panneau latéral pour voir si vous pouvez faire confiance aux avis d’un produit.
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-title = Le même vérificateur d’avis, à un nouvel emplacement
+shopping-integrated-new-position-notification-move-right-button = Déplacer à droite
+shopping-integrated-new-position-notification-move-left-button = Déplacer à gauche
+shopping-integrated-new-position-notification-dismiss-button = J’ai compris
 
 ## Combined setting for auto-open and auto-close.
 
