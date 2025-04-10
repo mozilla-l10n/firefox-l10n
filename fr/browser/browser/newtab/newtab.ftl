@@ -399,6 +399,7 @@ feature-highlight-wallpaper =
 
 ## Celestial
 
+newtab-wallpaper-celestial-lunar-eclipse = Éclipse de lune
 
 ## New Tab Weather
 
