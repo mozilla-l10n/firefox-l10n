@@ -91,7 +91,7 @@ client-auth-cert-remember-never =
 client-auth-cert-remember-always =
     .label = 永久
 client-auth-cert-remember-temporarily =
-    .label = 本次会话期间
+    .label = 本次浏览期间
 client-auth-cert-remember-box =
     .label = 记住此决定
 
