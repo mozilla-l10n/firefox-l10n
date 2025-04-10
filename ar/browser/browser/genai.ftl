@@ -19,6 +19,9 @@
 genai-menu-ask-provider =
     .label = اسأل { $provider }
 # $provider (string) - name of the provider
+genai-menu-remove-provider =
+    .label = أزِل { $provider }
+# $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = اسأل { $provider }…
 
@@ -52,3 +55,7 @@ genai-onboarding-lechat-learn = اعرف المزيد عن Le Chat
 
 ## Model Optin Component
 
+genai-model-optin-optout =
+    .label = ألغِ
+genai-model-optin-cancel =
+    .label = ألغِ

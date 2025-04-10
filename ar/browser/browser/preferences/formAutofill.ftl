@@ -17,6 +17,9 @@ autofill-manage-edit-button = حرّر…
 
 ## The address capture doorhanger
 
+address-capture-cancel-button =
+    .label = ألغ
+    .accessKey = غ
 address-capture-learn-more-button =
     .label = اطلع على المزيد
 # The dialog title for editing addresses in browser preferences.

@@ -130,6 +130,8 @@ contextual-manager-passwords-alert-back-button =
 
 contextual-manager-passwords-create-label =
     .label = أضِف كلمة سر
+contextual-manager-passwords-remove-label =
+    .title = أزِل كلمة السر
 
 ## Password Card
 
