@@ -36,3 +36,8 @@ experimental-features-custom-wallpaper-description = Töltse fel a saját hátt�
 # Link Previews with AI
 experimental-features-link-previews =
     .label = Hivatkozás-előnézetek
+experimental-features-link-previews-description =
+    { PLATFORM() ->
+        [macos] Ha többet szeretne megtudni a weboldalról, még mielőtt rákattintana, vigye az egeret a hivatkozás fölé, és nyomja meg a Shift (⇧) és az Option (⌥) vagy az Alt billentyűket. Az előnézetek olyan részleteket tartalmazhatnak, mint a cím és az olvasási idő. Néhány weboldal esetén a mesterséges intelligencia el tudja olvasni az oldal szövegét is, és kulcspontokat generál. Az MI angol szöveg olvasására és előállítására van optimalizálva. Az adatvédelem érdekében az MI helyben fut a számítógépén. <a data-l10n-name="connect">Visszajelzés megosztása</a>
+       *[other] Ha többet szeretne megtudni a weboldalról, még mielőtt rákattintana, vigye az egeret a hivatkozás fölé, és nyomja meg a Shift + Alt billentyűkombinációt. Az előnézetek olyan részleteket tartalmazhatnak, mint a cím és az olvasási idő. Néhány weboldal esetén a mesterséges intelligencia el tudja olvasni az oldal szövegét is, és kulcspontokat generál. Az MI angol szöveg olvasására és előállítására van optimalizálva. Az adatvédelem érdekében az MI helyben fut a számítógépén. <a data-l10n-name="connect">Visszajelzés megosztása</a>
+    }
