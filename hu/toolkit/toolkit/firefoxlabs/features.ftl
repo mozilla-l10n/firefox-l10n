@@ -33,3 +33,6 @@ experimental-features-contextual-password-manager-description = Férjen hozzá a
 experimental-features-custom-wallpaper =
     .label = Válasszon egyéni háttérképet vagy színt az Új lap oldalhoz
 experimental-features-custom-wallpaper-description = Töltse fel a saját háttérképét, vagy válasszon egy egyéni háttérszínt az Új lap oldalhoz.
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = Hivatkozás-előnézetek

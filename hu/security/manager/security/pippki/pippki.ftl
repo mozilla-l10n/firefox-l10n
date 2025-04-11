@@ -85,6 +85,13 @@ client-auth-cert-details-issued-by = Kibocsátó: { $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = Tárolva ezen: { $storedOn }
+client-auth-cert-remember-label = Döntés megjegyzése:
+client-auth-cert-remember-never =
+    .label = Egyszer
+client-auth-cert-remember-always =
+    .label = Véglegesen
+client-auth-cert-remember-temporarily =
+    .label = Ebben a munkamenetben
 client-auth-cert-remember-box =
     .label = A döntés megjegyzése
 

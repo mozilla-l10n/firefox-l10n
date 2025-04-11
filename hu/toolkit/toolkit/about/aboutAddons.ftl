@@ -206,6 +206,10 @@ addon-updates-manual-updates-found = Az elérhető frissítések megtekintése
 
 addon-install-from-file = Kiegészítő telepítése fájlból…
     .accesskey = f
+# Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
+# pref is set.
+addon-install-or-update-from-file = Kiegészítő telepítése vagy frissítése fájlból…
+    .accesskey = t
 addon-install-from-file-dialog-title = Válassza ki a telepíteni kívánt kiegészítőt
 addon-install-from-file-filter-name = Kiegészítők
 addon-open-about-debugging = Kiegészítők hibakeresése
