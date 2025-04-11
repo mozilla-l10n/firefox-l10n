@@ -72,6 +72,8 @@ contextual-manager-passwords-import-learn-more = 了解有关导入密码的信�
 contextual-manager-passwords-export-success-heading =
     .heading = 密码已导出
 contextual-manager-passwords-export-success-button = 完成
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = 要将密码导出为文件吗？
 contextual-manager-export-passwords-dialog-confirm-button = 继续导出
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = 从 { -brand-short-name } 导出的密码
