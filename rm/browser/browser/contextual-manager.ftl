@@ -167,23 +167,104 @@ contextual-manager-passwords-breached-origin-heading-and-message =
     .message = Pleds-clav da questa website èn vegnids annunziads sco engulads u revelads. Mida tes pled-clav per proteger tes conto.
 contextual-manager-passwords-breached-origin-link-message = Co vegn { -brand-product-name } a savair da perditas da datas?
 contextual-manager-passwords-change-password-button = Midar il pled-clav
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = Recumandaziun da midar il pled-clav
+    .message = Quest pled-clav sa lascha engiavinar facilmain. Mida tes pled-clav per proteger tes conto.
+contextual-manager-passwords-vulnerable-password-link-message = Co sa { -brand-product-name } ch’in pled-clav è debel?
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Agiuntar in num d’utilisader
+    .message = Agiuntescha in per s’annunziar pli svelt.
+contextual-manager-passwords-add-username-button = Agiuntar in num d’utilisader
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Agiuntar in pled-clav
+contextual-manager-passwords-edit-label =
+    .label = Modifitgar il pled-clav
+contextual-manager-passwords-remove-label =
+    .title = Allontanar il pled-clav
+contextual-manager-passwords-username-tooltip = Endatescha il num d’utilisader, l’adressa dad e-mail u il numer dal conto che ti utiliseschas per s’annunziar.
+contextual-manager-passwords-password-tooltip = Endatescha il pled-clav utilisà per s’annunziar en quest conto.
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = Pleds-clav
+contextual-manager-website-icon =
+    .alt = Icona da la website
 contextual-manager-copy-icon =
     .alt = Copiar
+contextual-manager-check-icon-username =
+    .alt = Copià
+contextual-manager-check-icon-password =
+    .alt = Copià
+contextual-manager-alert-icon =
+    .alt = Avertiment
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = Visitar { $url }
+    .title = Visitar { $url }
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = Visitar { $url } (Avertiment)
+    .title = Visitar { $url } (Avertiment)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = Copiar il num d’utilisader { $username }
+    .title = Copiar il num d’utilisader { $username }
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = Copiar il num d’utilisader { $username } (Avertiment)
+    .title = Copiar il num d’utilisader { $username } (Avertiment)
+contextual-manager-password-login-line =
+    .aria-label = Copiar il pled-clav
+    .title = Copiar il pled-clav
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = Copiar il pled-clav (Avertiment)
+    .title = Copiar il pled-clav (Avertiment)
+contextual-manager-edit-login-button = Modifitgar
+    .tooltiptext = Modifitgar il pled-clav
+contextual-manager-view-alert-heading =
+    .heading = Mussar l’avertiment
+contextual-manager-view-alert-button =
+    .tooltiptext = Examinar l’avertiment
+contextual-manager-show-password-button =
+    .aria-label = Mussar il pled-clav
+    .title = Mussar il pled-clav
+contextual-manager-hide-password-button =
+    .aria-label = Zuppentar il pled-clav
+    .title = Zuppentar il pled-clav
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = Na chattà nagins pleds-clav
+contextual-manager-passwords-no-passwords-found-message = Na chattà nagins pleds-clav. Tschertga in auter term ed emprova anc ina giada.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = Memorisescha tes pleds-clav en in lieu segir.
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = Tut ils pleds-clav èn criptads e nus vegnin a tegnair en egl perditas da datas ed avertiments sche ti es pertutgà.
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = Als agiuntescha qua per cumenzar.
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = Agiuntar manualmain
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = Serrar senza memorisar?
+    .message = Tias modificaziuns na vegnan betg memorisadas.
+contextual-manager-passwords-discard-changes-close-button = Serrar
+contextual-manager-passwords-discard-changes-go-back-button = Turnar

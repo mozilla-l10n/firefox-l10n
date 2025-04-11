@@ -256,23 +256,72 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 ## Review Checker in Integrated sidebar
 
+# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
+shopping-opt-in-integrated-headline = Far cumissiuns plain fidanza
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle = Activescha la verificaziun da recensiuns da { -brand-product-name } per pudair valitar sche las recensiuns da products èn fidablas, avant che cumprar. La funcziun dovra tecnologia dad IA per analisar las recensiuns e funcziuna per cumpras sin { $firstSite }, { $secondSite } e { $thirdSite }. <a data-l10n-name="learn_more">Ulteriuras infurmaziuns</a>
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle-unsupported-site = La verificaziun da recensiuns da { -brand-product-name } gida a valitar sche las recensiuns da products èn fidablas, avant che cumprar. La funcziun dovra tecnologia dad IA per analisar las recensiuns e funcziuna per cumpras sin { $firstSite }, { $secondSite } e { $thirdSite }. <a data-l10n-name="learn_more">Ulteriuras infurmaziuns</a>
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-opt-in-integrated-headline = Pos ti ta fidar da questas recensiuns?
+# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
+shopping-callout-not-opted-in-integrated-paragraph1 = Activescha la verificaziun da recensiuns da { -brand-product-name } per chattar ora. Ella funcziuna grazia a { -fakespot-brand-full-name } e fa diever da tecnologia dad IA per analisar las recensiuns.
+shopping-callout-not-opted-in-integrated-paragraph2 = Cun tscherner «{ shopping-opt-in-integrated-button }» acceptas ti la <a data-l10n-name="privacy_policy">decleraziun davart la protecziun da datas</a> da { -brand-product-name } e las <a data-l10n-name="terms_of_use">cundiziuns d’utilisaziun</a> da { -fakespot-brand-full-name }.
+shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Serrar
+shopping-callout-not-opted-in-integrated-reminder-accept-button = Activar la verificaziun da recensiuns
+shopping-callout-not-opted-in-integrated-reminder-do-not-show = Betg pli mussar questa recumandaziun
+shopping-callout-not-opted-in-integrated-reminder-show-fewer = Mussar pli paucas recumandaziuns
+shopping-callout-not-opted-in-integrated-reminder-manage-settings = Administrar ils parameters
+shopping-opt-in-integrated-privacy-policy-and-terms-of-use = La verificaziun da recensiuns funcziuna grazia a { -fakespot-brand-full-name }. Cun tscherner «{ shopping-opt-in-integrated-button }» acceptas ti la <a data-l10n-name="privacy_policy">decleraziun davart la protecziun da datas</a> da { -brand-product-name } e las <a data-l10n-name="terms_of_use">cundiziuns d’utilisaziun</a> da { -fakespot-brand-name }.
+shopping-opt-in-integrated-button = Emprova la verificaziun da recensiuns
 
 ## Message strings for Review Checker's empty states.
 
+shopping-empty-state-header = Pront per controllar las recensiuns
+shopping-empty-state-supported-site = Mussa in product e { -brand-product-name } vegn a controllar sche las recensiuns èn fidablas.
+# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
+# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
+shopping-empty-state-non-supported-site = La verificaziun da recensiuns funcziuna cun far cumpras sin:
 
 ## Confirm disabling Review Checker for newly opted out users
 
+shopping-integrated-callout-opted-out-title = La verificaziun da recensiuns è deactivada
+shopping-integrated-callout-opted-out-subtitle = Per la reactivar, tscherna l’etichetta da pretsch en la trav laterala ed activescha la verificaziun da recensiuns.
 
 ## Callout for where to find Review Checker when the sidebar closes
 
+shopping-integrated-callout-sidebar-closed-title = Turnar a la verificaziun da recensiuns
+shopping-integrated-callout-sidebar-closed-subtitle = Tscherna l’etichetta da pretsch en la trav laterala per vesair sche ti pos ta fidar da las recensiuns d’in product.
+shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Tscherna il buttun en la trav laterala per vesair sche ti pos ta fidar da las recensiuns d’in product.
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-title = La medema verificaziun da recensiuns, ma in nov lieu
+shopping-integrated-new-position-notification-move-right-subtitle = Mantegna qua la verificaziun da recensiuns ed il rest da la trav laterala da { -brand-product-name } –  u la sposta a dretga. Mida ussa u da tut temp en ils <a data-l10n-name="sidebar_settings">parameters da la trav laterala</a>.
+shopping-integrated-new-position-notification-move-left-subtitle = Mantegna qua la verificaziun da recensiuns ed il rest da la trav laterala da { -brand-product-name } –  u la sposta a sanestra. Mida ussa u da tut temp en ils <a data-l10n-name="sidebar_settings">parameters da la trav laterala</a>.
+shopping-integrated-new-position-notification-move-right-button = Spustar a dretga
+shopping-integrated-new-position-notification-move-left-button = Spustar a sanestra
+shopping-integrated-new-position-notification-dismiss-button = Chapì
 
 ## Combined setting for auto-open and auto-close.
 
+shopping-settings-auto-open-and-close-toggle =
+    .label = Avrir e serrar automaticamain la verificaziun da recensiuns
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-and-close-description-three-sites = S’avra cura che ti consulteschas products sin { $firstSite }, { $secondSite } e { $thirdSite } e sa serra cura che ti sortas
