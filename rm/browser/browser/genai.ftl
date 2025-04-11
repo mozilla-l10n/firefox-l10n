@@ -109,8 +109,11 @@ genai-options-about-chatbot =
 ## Chatbot onboarding
 
 genai-onboarding-header = Resumaziuns, brainstorming ed auter pli durant la navigaziun
+genai-onboarding-choose-header = Tscherna in chatbot IA per l’utilisar en la trav laterala da { -brand-short-name }
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = Tscherna in chatbot IA per l’utilisaziun en la trav laterala da { -brand-short-name }. Nus vegnin a mussar detagls davart mintga chatbot cura che ti al selecziuneschas. Ti al pos midar da tut temp. <a data-l10n-name="learn-more">Ulteriuras infurmaziuns</a>
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-choose-description = Mida da tut temp. Per avair ina basa da decisiun, <a data-l10n-name="learn-more">ve a savair dapli davart mitga chatbot</a>.
 genai-onboarding-primary = Cuntinuar
 genai-onboarding-secondary = Serrar
 genai-onboarding-claude-tooltip =

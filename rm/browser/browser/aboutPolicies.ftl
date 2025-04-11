@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-policies-title = Directivas d'interpresa
+aboutpolicies-page-heading =
+    .heading = Davart las directivas
 # 'Active' is used to describe the policies that are currently active
 active-policies-tab = Activas
 errors-tab = Errurs

@@ -117,6 +117,7 @@ newtab-menu-delete-pocket = Stizzar da { -pocket-brand-name }
 newtab-menu-archive-pocket = Archivar en { -pocket-brand-name }
 newtab-menu-show-privacy-info = Noss sponsurs & tia sfera privata
 newtab-menu-about-fakespot = Davart { -fakespot-brand-name }
+newtab-menu-report-content = Rapportar quest cuntegn
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Bloccar
@@ -128,6 +129,7 @@ newtab-menu-section-unfollow = Betg pli suandar il tema
 
 newtab-menu-manage-sponsored-content = Administrar cuntegn sponsurisà
 newtab-menu-our-sponsors-and-your-privacy = Noss sponsurs e tia sfera privata
+newtab-menu-report-this-ad = Rapportar questa reclama
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -524,3 +526,7 @@ newtab-section-mangage-topics-followed-topics = Suandà
 newtab-section-mangage-topics-followed-topics-empty-state = Ti na suondas anc nagins temas.
 newtab-section-mangage-topics-blocked-topics = Bloccà
 newtab-section-mangage-topics-blocked-topics-empty-state = Ti n’has anc bloccà nagins temas.
+newtab-custom-wallpaper-title = Ussa pos ti utilisar funds davos persunalisads
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle = Transferescha tes agen maletg per il fund davos u tscherna ina colur tenor giavisch per persunalisar tes { -brand-product-name }.
+newtab-custom-wallpaper-cta = Empruvar

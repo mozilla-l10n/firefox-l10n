@@ -332,6 +332,9 @@ quickactions-cmd-addons2 = supplements
 quickactions-bookmarks2 = Administrar ils segnapaginas
 quickactions-cmd-bookmarks = segnapaginas
 # Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Stizzar la cronologia recenta
+quickactions-cmd-clearrecenthistory = stizzar la cronologia recenta, cronologia
+# Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Stizzar la cronologia
 quickactions-cmd-clearhistory = stizzar la cronologia
 # Opens about:downloads page
@@ -340,8 +343,18 @@ quickactions-cmd-downloads = telechargiadas
 # Opens about:addons page in the extensions section
 quickactions-extensions = Administrar las extensiuns
 quickactions-cmd-extensions = extensiuns
+# Opens Firefox View
+quickactions-firefoxview = Avrir { -firefoxview-brand-name }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = avrir { -firefoxview-brand-name }, { -firefoxview-brand-name }, avrir vista, vista
+# Opens SUMO home page
+quickactions-help = Agid da { -brand-product-name }
+quickactions-cmd-help = agid, support
 # Opens the devtools web inspector
 quickactions-inspector2 = Avrir ils utensils per sviluppaders
+quickactions-cmd-inspector2 = inspectur, analisa da la pagina, devtools, instruments da svilup, svilup, dev tools
 quickactions-cmd-inspector = inspectur, utensils per sviluppaders
 # Opens about:logins
 quickactions-logins2 = Administrar ils pleds-clav
@@ -366,6 +379,7 @@ quickactions-restart = Reaviar { -brand-short-name }
 quickactions-cmd-restart = reaviar
 # Opens the screenshot tool
 quickactions-screenshot3 = Far in maletg dal visur
+quickactions-cmd-screenshot2 = maletg dal visur, screenshot, far ina foto
 quickactions-cmd-screenshot = maletg dal visur
 # Opens about:preferences
 quickactions-settings2 = Administrar ils parameters
@@ -378,6 +392,7 @@ quickactions-update = Actualisar { -brand-short-name }
 quickactions-cmd-update = actualisaziun
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Mussar il code da funtauna da la pagina
+quickactions-cmd-viewsource2 = visualisar la funtauna, code da funtauna, source code
 quickactions-cmd-viewsource = mussar la funtauna, funtauna
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

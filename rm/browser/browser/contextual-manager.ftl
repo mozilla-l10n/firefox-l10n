@@ -6,13 +6,21 @@ contextual-manager-filter-input =
     .placeholder = Tschertgar en ils pleds-clav
     .key = F
     .aria-label = Tschertgar en ils pleds-clav
+contextual-manager-menu-more-options-button =
+    .title = Ulteriuras opziuns
+contextual-manager-more-options-popup =
+    .aria-label = Ulteriuras opziuns
 
 ## Passwords
 
 contextual-manager-passwords-command-create = Agiuntar in pled-clav
 contextual-manager-passwords-command-import-from-browser = Importar dad in auter navigatur…
 contextual-manager-passwords-command-import = Importar dad ina datoteca…
+contextual-manager-passwords-command-export = Exportar ils pleds-clav
+contextual-manager-passwords-command-remove-all = Stizzar tut ils pleds-clav
+contextual-manager-passwords-command-settings = Parameters
 contextual-manager-passwords-command-help = Agid
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Per exportar tes pleds-clav, endatescha tias datas d'annunzia per Windows. Quai gida a garantir la segirezza da tes contos.
 # This message can be seen when attempting to export a password in about:logins
@@ -35,6 +43,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Per copi
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = copiar il pled-clav memorisà
+contextual-manager-passwords-import-file-picker-title = Importar pleds-clav
 contextual-manager-passwords-import-file-picker-import-button = Importar
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -50,12 +59,33 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] Document TSV
        *[other] Datoteca TSV
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = Importà ils pleds-clav
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = Nov: { $added }, actualisà: { $modified }
+contextual-manager-passwords-import-detailed-report = Mussar in rapport detaglià
 contextual-manager-passwords-import-success-button = Finì
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = Impussibel d’importar ils pleds-clav
+    .message = Fa la segira che tia datoteca cuntegna ina colonna per websites, nums d’utilisader e pleds-clav.
+contextual-manager-passwords-import-error-button-try-again = Reempruvar
 contextual-manager-passwords-import-error-button-cancel = Interrumper
+contextual-manager-passwords-import-learn-more = Ve a savair dapli davart l’import da pleds-clav
+contextual-manager-passwords-export-success-heading =
+    .heading = Exportà ils pleds-clav
 contextual-manager-passwords-export-success-button = Finì
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = Exportar ils pleds-clav en ina datoteca?
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = Suenter l’export recumandain nus da stizzar la datoteca per che autras persunas che pudessan utilisar quest apparat na vesian betg tes pleds-clav.
 contextual-manager-export-passwords-dialog-confirm-button = Cuntinuar cun l’export
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Exportar pleds-clav da { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = pleds-clav
 contextual-manager-passwords-export-file-picker-export-button = Exportar
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -63,6 +93,13 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] Document CSV
        *[other] Datoteca CSV
+    }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] Stizzar ils pleds-clav?
+       *[other] Remove all { $total } passwords?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
@@ -79,14 +116,57 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Allontanar tut
        *[other] Allontanar tut
     }
+contextual-manager-passwords-origin-label = Website
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Num d’utilisader
+    .data-after = Copià
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Pled-clav
+    .data-after = Copià
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Filtrar ils pleds-clav
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = Agiuntà il pled-clav per { $url }
+contextual-manager-passwords-add-password-success-button = Mussar
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = In pled-clav ed in num d’utilisader existan gia per { $url }
+contextual-manager-passwords-password-already-exists-error-button = Ir al pled-clav
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Memorisà il pled-clav
 contextual-manager-passwords-update-password-success-button = Finì
 contextual-manager-passwords-delete-password-success-button = Finì
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = Tut ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = Avertiments ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Allontanar il pled-clav?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = Questa acziun è irreversibla.
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Enavos
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Allontanar
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Interrumper
+contextual-manager-passwords-alert-card =
+    .aria-label = Avertiments da pleds-clav
+contextual-manager-passwords-alert-back-button =
+    .label = Enavos
+contextual-manager-passwords-alert-list =
+    .aria-label = Glista d’avertiments
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = Recumandaziun da midar il pled-clav
+    .message = Pleds-clav da questa website èn vegnids annunziads sco engulads u revelads. Mida tes pled-clav per proteger tes conto.
+contextual-manager-passwords-breached-origin-link-message = Co vegn { -brand-product-name } a savair da perditas da datas?
+contextual-manager-passwords-change-password-button = Midar il pled-clav
 
 ## Login Form
 
