@@ -129,6 +129,7 @@ newtab-menu-section-unfollow = 取消关注主题
 
 newtab-menu-manage-sponsored-content = 管理赞助内容
 newtab-menu-our-sponsors-and-your-privacy = 我们的赞助商与您的隐私
+newtab-menu-report-this-ad = 举报此广告
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 

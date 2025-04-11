@@ -25,6 +25,8 @@ return-to-amo-subtitle = 恭喜，您已经安装好 { -brand-short-name }
 return-to-amo-addon-title = 现在来安装 <img data-l10n-name="icon"/><b>{ $addon-name }</b> 吧。
 return-to-amo-add-extension-label = 添加扩展
 return-to-amo-add-theme-label = 安装主题
+return-to-amo-theme-install-complete-label = 主题已安装
+return-to-amo-extension-install-complete-label = 扩展已安装
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
