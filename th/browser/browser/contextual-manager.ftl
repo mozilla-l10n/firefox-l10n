@@ -6,13 +6,21 @@ contextual-manager-filter-input =
     .placeholder = ค้นหารหัสผ่าน
     .key = F
     .aria-label = ค้นหารหัสผ่าน
+contextual-manager-menu-more-options-button =
+    .title = ตัวเลือกเพิ่มเติม
+contextual-manager-more-options-popup =
+    .aria-label = ตัวเลือกเพิ่มเติม
 
 ## Passwords
 
 contextual-manager-passwords-command-create = เพิ่มรหัสผ่าน
 contextual-manager-passwords-command-import-from-browser = นำเข้าจากเบราว์เซอร์อื่น…
 contextual-manager-passwords-command-import = นำเข้าจากไฟล์…
+contextual-manager-passwords-command-export = ส่งออกรหัสผ่าน
+contextual-manager-passwords-command-remove-all = เอารหัสผ่านทั้งหมดออก
+contextual-manager-passwords-command-settings = การตั้งค่า
 contextual-manager-passwords-command-help = ช่วยเหลือ
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = ถ้าต้องการส่งออกรหัสผ่านของคุณ ให้ป้อนข้อมูลรับรองสำหรับการเข้าสู่ระบบ Windows ของคุณ ซึ่งจะช่วยปกป้องความปลอดภัยให้กับบัญชีต่างๆ ของคุณ
 # This message can be seen when attempting to export a password in about:logins
@@ -35,6 +43,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = ถ้�
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = คัดลอกรหัสผ่านที่บันทึกไว้
+contextual-manager-passwords-import-file-picker-title = นำเข้ารหัสผ่าน
 contextual-manager-passwords-import-file-picker-import-button = นำเข้า
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -50,12 +59,23 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] เอกสาร TSV
        *[other] ไฟล์ TSV
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = นำเข้ารหัสผ่านแล้ว
 contextual-manager-passwords-import-success-button = เสร็จสิ้น
+contextual-manager-passwords-import-error-button-try-again = ลองอีกครั้ง
 contextual-manager-passwords-import-error-button-cancel = ยกเลิก
+contextual-manager-passwords-import-learn-more = เรียนรู้เกี่ยวกับการนำเข้ารหัสผ่าน
+contextual-manager-passwords-export-success-heading =
+    .heading = ส่งออกรหัสผ่านแล้ว
 contextual-manager-passwords-export-success-button = เสร็จสิ้น
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = ส่งออกรหัสผ่านไปยังไฟล์?
 contextual-manager-export-passwords-dialog-confirm-button = ทำการส่งออกต่อไป
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = ส่งออกรหัสผ่านจาก { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = รหัสผ่าน
 contextual-manager-passwords-export-file-picker-export-button = ส่งออก
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
