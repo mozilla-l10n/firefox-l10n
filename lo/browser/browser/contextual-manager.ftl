@@ -105,6 +105,7 @@ contextual-manager-passwords-remove-all-confirm-button =
         [1] ລົບອອກ
        *[other] ລົບອອກທັງໝົດ
     }
+contextual-manager-passwords-add-password-success-button = ເບິ່ງ
 # Variables
 #   $url (string) - The url associated with the existing login
 contextual-manager-passwords-password-already-exists-error-heading =
@@ -135,6 +136,8 @@ contextual-manager-passwords-alert-card =
     .aria-label = ແຈ້ງເຕືອນລະຫັດຜ່ານ
 contextual-manager-passwords-alert-back-button =
     .label = ກັບຄືນ
+contextual-manager-passwords-alert-list =
+    .aria-label = ບັນຊີລາຍຊື່ເຕືອນ
 contextual-manager-passwords-add-username-button = ເພີ່ມຊື່ຜູ້ໃຊ້
 
 ## Login Form
@@ -152,6 +155,17 @@ contextual-manager-passwords-list-label =
     .aria-label = ລະຫັດຜ່ານ
 contextual-manager-copy-icon =
     .alt = ສຳເນົາ
+contextual-manager-check-icon-username =
+    .alt = ສຳເນົາແລ້ວ
+contextual-manager-check-icon-password =
+    .alt = ສຳເນົາແລ້ວ!
+contextual-manager-alert-icon =
+    .alt = ຄຳເຕືອນ
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = ເຂົ້າເບິ່ງ { $url }
+    .title = ເຂົ້າເບິ່ງ { $url }
 # Variables
 #   $username (string) - The username associated with the login
 contextual-manager-username-login-line =

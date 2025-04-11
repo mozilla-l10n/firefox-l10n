@@ -12,9 +12,15 @@
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# This prompt is added to the beginning of selection prompts sent to a chatbot.
+# $tabTitle (string) - title of the webpage
+# $selection (string) - selected text
+genai-prompt-prefix-selection = ຂ້ອຍຢູ່ໃນໜ້າ “{ $tabTitle }” ດ້ວຍ “{ $selection }” ຖືກເລືອກ.
 
 ## Chatbot menu shortcuts
 
+genai-menu-ask-generic =
+    .label = ຖາມ AI chatbot
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = ຖາມ { $provider }
@@ -42,6 +48,10 @@ genai-header-close-button =
     .title = ປິດ
 genai-provider-view-details =
     .label = ເບິ່ງລາຍລະອຽດຂອງ chatbot
+genai-provider-about-chatbots =
+    .label = ກ່ຽວກັບ chatbots ເຫຼົ່ານີ້
+genai-options-reload-generic =
+    .label = ໂຫຼດ AI chatbot ຄືນໃໝ່
 # $provider (string) - name of the provider
 genai-options-reload-provider =
     .label = ໂຫຼດ { $provider } ໃໝ່
