@@ -25,6 +25,8 @@ return-to-amo-subtitle = Hienoa, sinulla on { -brand-short-name }
 return-to-amo-addon-title = Hankitaanpa sinulle nyt <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
 return-to-amo-add-extension-label = Lisää laajennus
 return-to-amo-add-theme-label = Lisää teema
+return-to-amo-theme-install-complete-label = Teema asennettu
+return-to-amo-extension-install-complete-label = Laajennus asennettu
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 

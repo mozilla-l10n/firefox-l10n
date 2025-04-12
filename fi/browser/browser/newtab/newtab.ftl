@@ -117,6 +117,7 @@ newtab-menu-delete-pocket = Poista { -pocket-brand-name }-palvelusta
 newtab-menu-archive-pocket = Arkistoi { -pocket-brand-name }-palveluun
 newtab-menu-show-privacy-info = Tukijamme ja yksityisyytesi
 newtab-menu-about-fakespot = Tietoja { -fakespot-brand-name }ista
+newtab-menu-report-content = Ilmoita tästä sisällöstä
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Estä
@@ -128,6 +129,7 @@ newtab-menu-section-unfollow = Lopeta aiheen seuraaminen
 
 newtab-menu-manage-sponsored-content = Hallinnoi sponsoroitua sisältöä
 newtab-menu-our-sponsors-and-your-privacy = Tukijamme ja yksityisyytesi
+newtab-menu-report-this-ad = Ilmoita tästä mainoksesta
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
