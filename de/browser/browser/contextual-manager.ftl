@@ -61,12 +61,28 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = Passwörter importiert
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = Neu: { $added }, aktualisiert: { $modified }
+contextual-manager-passwords-import-detailed-report = Detaillierten Bericht ansehen
 contextual-manager-passwords-import-success-button = Fertig
+contextual-manager-passwords-import-error-button-try-again = Erneut versuchen
 contextual-manager-passwords-import-error-button-cancel = Abbrechen
+contextual-manager-passwords-import-learn-more = Weitere Informationen über das Importieren von Passwörtern
+contextual-manager-passwords-export-success-heading =
+    .heading = Passwörter exportiert
 contextual-manager-passwords-export-success-button = Fertig
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = Passwörter in Datei exportieren?
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = Nach dem Export empfehlen wir, sie zu löschen, damit andere, die dieses Gerät benutzen, Ihre Passwörter nicht sehen können.
 contextual-manager-export-passwords-dialog-confirm-button = Weiter mit Export
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Passwörter von { -brand-short-name } exportieren
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = Passwörter
 contextual-manager-passwords-export-file-picker-export-button = Exportieren
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -74,6 +90,13 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] CSV-Dokument
        *[other] CSV-Datei
+    }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [one] Dieses Passwort entfernen?
+       *[other] Alle { $total } Passwörter entfernen?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
@@ -90,14 +113,61 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Entfernen
        *[other] Alle entfernen
     }
+contextual-manager-passwords-origin-label = Website
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Benutzername
+    .data-after = Kopiert
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Passwort
+    .data-after = Kopiert
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Passwörter filtern
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = Passwort hinzugefügt für { $url }
+contextual-manager-passwords-add-password-success-button = Ansehen
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = Ein Passwort und ein Benutzername für { $url } existieren bereits
+contextual-manager-passwords-password-already-exists-error-button = Zum Passwort gehen
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Passwort gespeichert
 contextual-manager-passwords-update-password-success-button = Fertig
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [one] Passwort entfernt
+           *[other] Passwörter entfernt
+        }
 contextual-manager-passwords-delete-password-success-button = Fertig
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = Alle ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = Warnungen ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Passwort entfernen?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = Dies kann nicht rückgängig gemacht werden.
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Zurück
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Entfernen
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Abbrechen
+contextual-manager-passwords-alert-card =
+    .aria-label = Passwort-Warnungen
+contextual-manager-passwords-alert-back-button =
+    .label = Zurück
+contextual-manager-passwords-alert-list =
+    .aria-label = Warnungsliste
+contextual-manager-passwords-change-password-button = Passwort ändern
 
 ## Login Form
 
@@ -110,6 +180,19 @@ contextual-manager-passwords-list-label =
     .aria-label = Passwörter
 contextual-manager-copy-icon =
     .alt = Kopieren
+contextual-manager-view-alert-heading =
+    .heading = Warnung ansehen
+contextual-manager-view-alert-button =
+    .tooltiptext = Warnung überprüfen
+contextual-manager-show-password-button =
+    .aria-label = Passwort anzeigen
+    .title = Passwort anzeigen
+contextual-manager-hide-password-button =
+    .aria-label = Passwort ausblenden
+    .title = Passwort ausblenden
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = Keine Passwörter gefunden
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
