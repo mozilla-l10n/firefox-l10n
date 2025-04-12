@@ -25,6 +25,8 @@ return-to-amo-subtitle = Harika! { -brand-short-name } yüklendi
 return-to-amo-addon-title = Şimdi <img data-l10n-name="icon"/> <b>{ $addon-name }</b> uzantısına bir bakalım.
 return-to-amo-add-extension-label = Uzantıyı ekle
 return-to-amo-add-theme-label = Temayı ekle
+return-to-amo-theme-install-complete-label = Tema yüklendi
+return-to-amo-extension-install-complete-label = Uzantı yüklendi
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
