@@ -144,7 +144,7 @@ firefoxview-synced-tabs-header = 其他设备
 ##
 
 # Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
-firefoxview-view-all-link = 查看所有
+firefoxview-view-all-link = 查看全部
 # Variables:
 #   $winID (Number) - The index of the owner window for this set of tabs
 firefoxview-opentabs-window-header =
