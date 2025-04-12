@@ -332,6 +332,9 @@ quickactions-cmd-addons2 = Add-ons
 quickactions-bookmarks2 = Lesezeichen verwalten
 quickactions-cmd-bookmarks = Lesezeichen
 # Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Neueste Chronik löschen
+quickactions-cmd-clearrecenthistory = neueste Chronik löschen, Chronik
+# Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Chronik löschen
 quickactions-cmd-clearhistory = Chronik löschen
 # Opens about:downloads page
@@ -340,8 +343,18 @@ quickactions-cmd-downloads = Downloads
 # Opens about:addons page in the extensions section
 quickactions-extensions = Erweiterungen verwalten
 quickactions-cmd-extensions = Erweiterungen
+# Opens Firefox View
+quickactions-firefoxview = { -firefoxview-brand-name } öffnen
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = { -firefoxview-brand-name }, { -firefoxview-brand-name } öffnen, Ansicht öffnen, Ansicht
+# Opens SUMO home page
+quickactions-help = { -brand-product-name }-Hilfe
+quickactions-cmd-help = Hilfe, Support
 # Opens the devtools web inspector
 quickactions-inspector2 = Entwicklerwerkzeuge öffnen
+quickactions-cmd-inspector2 = Inspektor, devtools, Entwicklerwerkzeuge
 quickactions-cmd-inspector = Inspektor, Entwicklertools
 # Opens about:logins
 quickactions-logins2 = Passwörter verwalten
@@ -366,6 +379,7 @@ quickactions-restart = { -brand-short-name } neu starten
 quickactions-cmd-restart = Neu starten
 # Opens the screenshot tool
 quickactions-screenshot3 = Bildschirmfoto aufnehmen
+quickactions-cmd-screenshot2 = Bildschirmfoto, Bildschirmfoto machen
 quickactions-cmd-screenshot = Bildschirmfoto
 # Opens about:preferences
 quickactions-settings2 = Einstellungen verwalten
@@ -378,6 +392,7 @@ quickactions-update = { -brand-short-name } aktualisieren
 quickactions-cmd-update = Aktualisieren
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Seitenquelltext anzeigen
+quickactions-cmd-viewsource2 = Quelltext anzeigen, Quelltext, Seitenquelltext
 quickactions-cmd-viewsource = Quelltext anzeigen, Quelltext
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
