@@ -85,6 +85,13 @@ client-auth-cert-details-issued-by = Myöntäjä: { $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = Tallennettu: { $storedOn }
+client-auth-cert-remember-label = Muista valinta:
+client-auth-cert-remember-never =
+    .label = kerran
+client-auth-cert-remember-always =
+    .label = pysyvästi
+client-auth-cert-remember-temporarily =
+    .label = tämän istunnon ajan
 client-auth-cert-remember-box =
     .label = Muista valinta
 

@@ -203,6 +203,10 @@ addon-updates-manual-updates-found = Näytä saatavilla olevat päivitykset
 
 addon-install-from-file = Asenna lisäosa tiedostosta…
     .accesskey = A
+# Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
+# pref is set.
+addon-install-or-update-from-file = Asenna tai päivitä lisäosa tiedostosta…
+    .accesskey = I
 addon-install-from-file-dialog-title = Valitse asennettava lisäosa
 addon-install-from-file-filter-name = Lisäosat
 addon-open-about-debugging = Jäljitä lisäosien virheitä

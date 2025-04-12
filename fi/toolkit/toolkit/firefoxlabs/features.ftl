@@ -33,3 +33,6 @@ experimental-features-contextual-password-manager-description = Käytä salasano
 experimental-features-custom-wallpaper =
     .label = Valitse mukautettu taustakuva tai väri uudelle välilehdelle
 experimental-features-custom-wallpaper-description = Lähetä oma taustakuva tai valitse mukautettu väri Uusi välilehti -taustaksi.
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = Linkkien esikatselut
