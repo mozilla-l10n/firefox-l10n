@@ -59,12 +59,33 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] Document TSV (valors separats per tabuladors)
        *[other] Fitxer TSV (valors separats per tabuladors)
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = S’han importat les contrasenyes
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = Noves: { $added }; actualitzades: { $modified }
+contextual-manager-passwords-import-detailed-report = Mostra un informe detallat
 contextual-manager-passwords-import-success-button = Fet
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = No s’han pogut importar les contrasenyes
+    .message = Assegureu-vos que el fitxer inclogui una columna per als llocs web, els noms d’usuari i les contrasenyes.
+contextual-manager-passwords-import-error-button-try-again = Torna-ho a provar
 contextual-manager-passwords-import-error-button-cancel = Cancel·la
+contextual-manager-passwords-import-learn-more = Més informació sobre la importació de contrasenyes
+contextual-manager-passwords-export-success-heading =
+    .heading = S’han exportat les contrasenyes
 contextual-manager-passwords-export-success-button = Fet
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = Voleu exportar les contrasenyes a un fitxer?
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = Després d’exportar-les, us recomanem que el suprimiu perquè les altres persones que utilitzin aquest dispositiu no puguin veure les vostres contrasenyes.
 contextual-manager-export-passwords-dialog-confirm-button = Continua l’exportació
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Exporteu les contrasenyes del { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = contrasenyes
 contextual-manager-passwords-export-file-picker-export-button = Exporta
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -73,12 +94,18 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
         [macos] Document CSV (valors separats per comes)
        *[other] Fitxer CSV (valors separats per comes)
     }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] Voleu eliminar la contrasenya?
+       *[other] Voleu eliminar totes les { $total } contrasenyes?
+    }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm =
     { $total ->
         [1] Sí, elimina la contrasenya
-        [one] Sí, elimina la contrasenya
        *[other] Sí, elimina les contrasenyes
     }
 # Button label to confirm removal of saved passwords
