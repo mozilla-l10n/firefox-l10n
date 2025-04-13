@@ -229,6 +229,50 @@ contextual-manager-check-icon-password =
     .alt = Copiado
 contextual-manager-alert-icon =
     .alt = Advertencia
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = Visitar { $url }
+    .title = Visitar { $url }
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = Visitar { $url } (advertencia)
+    .title = Visitar { $url } (advertencia)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = Copiar nombre de usuario { $username }
+    .title = Copiar nombre de usuario { $username }
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = Copiar nombre de usuario { $username } (advertencia)
+    .title = Copiar nombre de usuario { $username } (advertencia)
+contextual-manager-password-login-line =
+    .aria-label = Copiar contraseña
+    .title = Copiar contraseña
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = Copiar contraseña (advertencia)
+    .title = Copiar contraseña (advertencia)
+contextual-manager-edit-login-button = Editar
+    .tooltiptext = Editar contraseña
+contextual-manager-view-alert-heading =
+    .heading = Ver alerta
+contextual-manager-view-alert-button =
+    .tooltiptext = Revisar alerta
+contextual-manager-show-password-button =
+    .aria-label = Mostrar contraseña
+    .title = Mostrar contraseña
+contextual-manager-hide-password-button =
+    .aria-label = Ocultar contraseña
+    .title = Ocultar contraseña
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = No se han encontrado contraseñas
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:

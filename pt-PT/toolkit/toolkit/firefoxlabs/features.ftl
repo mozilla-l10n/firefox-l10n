@@ -33,3 +33,6 @@ experimental-features-contextual-password-manager-description = Aceda às suas p
 experimental-features-custom-wallpaper =
     .label = Escolher um fundo ou cor personalizada para o novo separador
 experimental-features-custom-wallpaper-description = Carregue o seu próprio fundo ou escolha uma cor personalizada para o fundo do seu novo separador.
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = Pré-visualizações de ligações

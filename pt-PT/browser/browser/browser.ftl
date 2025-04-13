@@ -354,6 +354,7 @@ quickactions-help = Ajuda do { -brand-product-name }
 quickactions-cmd-help = ajuda, apoio
 # Opens the devtools web inspector
 quickactions-inspector2 = Abrir Ferramentas de Programador
+quickactions-cmd-inspector2 = inspetor, devtools, ferramentas de desenvolvimento
 quickactions-cmd-inspector = inspetor, devtools
 # Opens about:logins
 quickactions-logins2 = Gerir palavras-passe
@@ -378,6 +379,7 @@ quickactions-restart = Reiniciar o { -brand-short-name }
 quickactions-cmd-restart = reiniciar
 # Opens the screenshot tool
 quickactions-screenshot3 = Tirar uma captura de ecrã
+quickactions-cmd-screenshot2 = captura de ecrã, tirar uma captura de ecrã
 quickactions-cmd-screenshot = captura de ecrã
 # Opens about:preferences
 quickactions-settings2 = Gerir definições
@@ -390,6 +392,7 @@ quickactions-update = Atualizar o { -brand-short-name }
 quickactions-cmd-update = atualizar
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Ver código-fonte da página
+quickactions-cmd-viewsource2 = ver código, codigo, fonte da página
 quickactions-cmd-viewsource = ver fonte, fonte
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
