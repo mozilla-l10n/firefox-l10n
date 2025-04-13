@@ -116,6 +116,20 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Elimina
        *[other] Elimina-ho tot
     }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] Això eliminarà la contrasenya desada al { -brand-short-name } i les alertes de filtració. Aquesta acció no es pot desfer.
+       *[other] Això eliminarà les contrasenyes desades al { -brand-short-name } i les alertes de filtració. Aquesta acció no es pot desfer.
+    }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] Això eliminarà la contrasenya desada al { -brand-short-name } de tots els dispositius sincronitzats i les alertes de filtracions. Aquesta acció no es pot desfer.
+       *[other] Això eliminarà totes les contrasenyes desades al { -brand-short-name } de tots els dispositius sincronitzats i les alertes de filtracions. Aquesta acció no es pot desfer.
+    }
 contextual-manager-passwords-update-password-success-button = Fet
 contextual-manager-passwords-delete-password-success-button = Fet
 # This message is displayed to make sure that a user wants to delete an existing login.
