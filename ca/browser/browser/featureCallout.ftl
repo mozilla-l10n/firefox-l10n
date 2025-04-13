@@ -71,6 +71,7 @@ sidebar-button-callout-vertical-tabs = Per mostrar les vostres pestanyes, selecc
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = Us atabalen tantes pestanyes?
 
 ## Sidebar Vertical Tabs Pinning Strings
 
