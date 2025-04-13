@@ -14,3 +14,16 @@ preonboarding-manage-and-read-header = Upravljajte postavkama prikupljanja podat
 preonboarding-terms-of-use-header-button-title = Pročitajte naše Uslove korištenja
 # Label for header style button that toggles showing the Privacy Notice
 preonboarding-privacy-notice-header-button-title = Pročitajte našu Obavijest o privatnosti
+# Label for header style button that toggles showing the data preference checklist
+preonboarding-manage-data-header-button-title = Upravljajte dijagnostičkim podacima i podacima o interakciji
+# Label for header style button that toggles showing the Terms of Use (Variant B)
+preonboarding-terms-of-use-header-button-title-b = { -brand-product-name } Uslovi korištenja
+# Label for header style button that toggles showing the Privacy Notice (Variant B)
+preonboarding-privacy-notice-header-button-title-b = { -brand-product-name } Obavijest o privatnosti
+# Description under label for header style buttons
+preonboarding-header-button-description = Pročitajte više
+# New user onboarding checklist
+preonboarding-checklist-interaction-data-label = Pošaljite tehničke podatke i podatke o interakciji na { -vendor-short-name }
+preonboarding-checklist-interaction-data-description = Podaci o vašem uređaju, konfiguraciji hardvera i načinu na koji koristite { -brand-product-name } pomažu u poboljšanju funkcija, performansi i stabilnosti za korisnike svuda.
+preonboarding-checklist-crash-reports-label = Automatski šalji izvještaje o padu
+preonboarding-checklist-crash-reports-description = Izvještaji o padu programa nam omogućavaju da dijagnosticiramo i popravimo probleme s pretraživačem. Izvještaji mogu uključivati lične ili osjetljive podatke.
