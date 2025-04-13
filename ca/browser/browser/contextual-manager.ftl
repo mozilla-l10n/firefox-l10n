@@ -275,9 +275,19 @@ contextual-manager-passwords-no-passwords-found-message = No s’ha trobat cap c
 
 # This string encourages the user to save their passwords in Firefox (the "safe spot").
 contextual-manager-passwords-no-passwords-header = Deseu les contrasenyes en un lloc segur.
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = Totes les contrasenyes estan xifrades i estarem pendents de les filtracions i alertes, si us afecten.
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = Afegiu-les aquí per començar.
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = Afegeix manualment
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = Voleu tancar sense desar?
+    .message = No es desaran els canvis.
 contextual-manager-passwords-discard-changes-close-button = Tanca
 contextual-manager-passwords-discard-changes-go-back-button = Vés enrere

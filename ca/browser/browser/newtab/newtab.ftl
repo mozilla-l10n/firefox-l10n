@@ -117,6 +117,9 @@ newtab-menu-delete-pocket = Suprimeix del { -pocket-brand-name }
 newtab-menu-archive-pocket = Arxiva en el { -pocket-brand-name }
 newtab-menu-show-privacy-info = Els nostres patrocinadors i la vostra privadesa
 newtab-menu-about-fakespot = Quant a { -fakespot-brand-name }
+# Context menu option to personalize New Tab recommended stories by blocking a section of stories,
+# e.g. "Sports". "Block" is a verb here.
+newtab-menu-section-block = Bloca
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
