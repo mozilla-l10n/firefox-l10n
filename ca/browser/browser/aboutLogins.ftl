@@ -70,7 +70,7 @@ login-list-count2 =
 #   $total (number) - Total number of logins
 login-list-filtered-count2 =
     { $total ->
-        [11] { $count } d'{ $total } contrasenyes
+        [11] { $count } d’{ $total } contrasenyes
         [one] { $count } d’{ $total } contrasenya
        *[other] { $count } de { $total } contrasenyes
     }
@@ -301,6 +301,10 @@ about-logins-confirm-export-dialog-title = Exporta els inicis de sessió i contr
 about-logins-confirm-export-dialog-message = Les contrasenyes es desaran com a text llegible (per exemple, «malaC0ntr@senya»), de manera que qualsevol que pugui obrir el fitxer exportat les podrà veure.
 about-logins-confirm-export-dialog-confirm-button = Exporta…
 about-logins-confirm-export-dialog-title2 = Nota sobre l’exportació de contrasenyes
+about-logins-confirm-export-dialog-message2 =
+    En exportar, les contrasenyes es desen en un fitxer de text llegible.
+    Quan hàgiu acabat d’utilitzar el fitxer, us recomanem que el suprimiu perquè les altres persones que utilitzin aquest dispositiu no puguin veure les vostres contrasenyes.
+about-logins-confirm-export-dialog-confirm-button2 = Continua l’exportació
 about-logins-alert-import-title = Fi de la importació
 about-logins-alert-import-message = Mostra un resum detallat de la importació
 confirm-discard-changes-dialog-title = Voleu descartar els canvis no desats?
@@ -310,7 +314,7 @@ confirm-discard-changes-dialog-confirm-button = Descarta
 ## Breach Alert notification
 
 about-logins-breach-alert-title = Filtració de dades del lloc web
-breach-alert-text = S'han filtrat o robat contrasenyes d'aquest lloc web des de la darrera vegada que en vàreu actualitzar les vostres dades d'inici de sessió. Canvieu la contrasenya per protegir el vostre compte.
+breach-alert-text = S’han filtrat o robat contrasenyes d’aquest lloc web des de la darrera vegada que en vàreu actualitzar les vostres dades d’inici de sessió. Canvieu la contrasenya per protegir el vostre compte.
 about-logins-breach-alert-date = Data de la filtració: { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
@@ -319,7 +323,7 @@ about-logins-breach-alert-link = Vés a { $hostname }
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Contrasenya vulnerable
-about-logins-vulnerable-alert-text2 = Aquesta contrasenya s'ha utilitzat en un altre compte que probablement ha estat compromès. Reutilitzar credencials posa tots els vostres comptes en perill. Canvieu aquesta contrasenya.
+about-logins-vulnerable-alert-text2 = Aquesta contrasenya s’ha utilitzat en un altre compte que probablement ha estat compromès. Reutilitzar credencials posa tots els vostres comptes en perill. Canvieu aquesta contrasenya.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Vés a { $hostname }
@@ -331,14 +335,14 @@ about-logins-vulnerable-alert-learn-more-link = Més informació
 # a new login that is identical to an existing saved login.
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login-with-link = Ja existeix una entrada per a { $loginTitle } amb aquest nom d'usuari. <a data-l10n-name="duplicate-link">Voleu anar a l'entrada existent?</a>
+about-logins-error-message-duplicate-login-with-link = Ja existeix una entrada per a { $loginTitle } amb aquest nom d’usuari. <a data-l10n-name="duplicate-link">Voleu anar a l’entrada existent?</a>
 # This is a generic error message.
-about-logins-error-message-default = S'ha produït un error en intentar desar aquesta contrasenya.
+about-logins-error-message-default = S’ha produït un error en intentar desar aquesta contrasenya.
 
 ## Login Export Dialog
 
 # Title of the file picker dialog
-about-logins-export-file-picker-title = Exporta el fitxer d'inicis de sessió
+about-logins-export-file-picker-title = Exporta el fitxer d’inicis de sessió
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = inicis_sessio.csv
@@ -359,7 +363,7 @@ about-logins-export-file-picker-csv-filter-title =
 ## Login Import Dialog
 
 # Title of the file picker dialog
-about-logins-import-file-picker-title = Importa el fitxer d'inicis de sessió
+about-logins-import-file-picker-title = Importa el fitxer d’inicis de sessió
 # Title of the file picker dialog
 about-logins-import-file-picker-title2 = Importa les contrasenyes en el { -brand-short-name }
 about-logins-import-file-picker-import-button = Importa
@@ -412,26 +416,26 @@ about-logins-import-dialog-items-no-change2 =
     }
 about-logins-import-dialog-items-error =
     { $count ->
-        [one] <span>Errors:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(no s'ha importat)</span>
-       *[other] <span>Errors:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(no s'han importat)</span>
+        [one] <span>Errors:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(no s’ha importat)</span>
+       *[other] <span>Errors:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(no s’han importat)</span>
     }
 about-logins-import-dialog-done = Fet
-about-logins-import-dialog-error-title = Error d'importació
+about-logins-import-dialog-error-title = Error d’importació
 about-logins-import-dialog-error-conflicting-values-title = Un inici de sessió conté diversos valors conflictius
-about-logins-import-dialog-error-conflicting-values-description = Per exemple: diversos noms d'usuari, contrasenyes, URL, etc. per a un mateix inici de sessió.
+about-logins-import-dialog-error-conflicting-values-description = Per exemple: diversos noms d’usuari, contrasenyes, URL, etc. per a un mateix inici de sessió.
 about-logins-import-dialog-error-file-format-title = Problema del format de fitxer
-about-logins-import-dialog-error-file-format-description = Falten les capçaleres de columna o són incorrectes. Assegureu-vos que el fitxer inclogui columnes per al nom d'usuari, la contrasenya i l'URL.
+about-logins-import-dialog-error-file-format-description = Falten les capçaleres de columna o són incorrectes. Assegureu-vos que el fitxer inclogui columnes per al nom d’usuari, la contrasenya i l’URL.
 about-logins-import-dialog-error-file-permission-title = No s’ha pogut llegir el fitxer
 about-logins-import-dialog-error-file-permission-description = El { -brand-short-name } no té permís per llegir el fitxer. Proveu de canviar els permisos del fitxer.
 about-logins-import-dialog-error-unable-to-read-title = No s’ha pogut analitzar el fitxer
 about-logins-import-dialog-error-unable-to-read-description = Assegureu-vos que heu triat un fitxer CSV (valors separats per comes) o TSV (valors separats per tabuladors).
-about-logins-import-dialog-error-no-logins-imported = No s'ha importat cap inici de sessió
+about-logins-import-dialog-error-no-logins-imported = No s’ha importat cap inici de sessió
 about-logins-import-dialog-error-learn-more = Més informació
-about-logins-import-dialog-error-try-import-again = Torna a provar d'importar…
+about-logins-import-dialog-error-try-import-again = Torna a provar d’importar…
 about-logins-import-dialog-error-cancel = Cancel·la
 about-logins-import-report-title = Resum de la importació
 about-logins-import-report-description = Inicis de sessió i contrasenyes importats en el { -brand-short-name }.
-about-logins-import-report-description2 = S'han importat les contrasenyes en el { -brand-short-name }.
+about-logins-import-report-description2 = S’han importat les contrasenyes en el { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row

@@ -120,8 +120,8 @@ contextual-manager-passwords-remove-all-confirm-button =
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-message =
     { $total ->
-        [1] Això eliminarà la contrasenya desada al { -brand-short-name } i les alertes de filtració. Aquesta acció no es pot desfer.
-       *[other] Això eliminarà les contrasenyes desades al { -brand-short-name } i les alertes de filtració. Aquesta acció no es pot desfer.
+        [1] Això eliminarà la contrasenya desada al { -brand-short-name } i les alertes de filtracions. Aquesta acció no es pot desfer.
+       *[other] Això eliminarà les contrasenyes desades al { -brand-short-name } i les alertes de filtracions. Aquesta acció no es pot desfer.
     }
 # Message for modal to confirm the removal of all saved passwords when user HAS SYNC
 #   $total (number) - Total number of passwords
