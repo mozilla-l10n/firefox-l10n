@@ -281,20 +281,51 @@ shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Descartar
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Activar el verificador de reseñas
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = No volver a mostrar esta recomendación
 shopping-callout-not-opted-in-integrated-reminder-show-fewer = Mostrar menos recomendaciones
+shopping-callout-not-opted-in-integrated-reminder-manage-settings = Administrar ajustes
+shopping-opt-in-integrated-privacy-policy-and-terms-of-use = El verificador de reseñas funciona con { -fakespot-brand-full-name }. Al seleccionar “{ shopping-opt-in-integrated-button }“, acepta el <a data-l10n-name="privacy_policy">aviso de privacidad</a> de { -brand-product-name } y los <a data-l10n-name="terms_of_use">términos de uso</a> de { -fakespot-brand-name }.
+shopping-opt-in-integrated-button = Probar el verificador de reseñas
 
 ## Message strings for Review Checker's empty states.
 
+shopping-empty-state-header = Listo para verificar reseñas
+shopping-empty-state-supported-site = Vea un producto y { -brand-product-name } verificará si las reseñas son fiables.
+# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
+# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
+shopping-empty-state-non-supported-site = El verificador de reseñas funciona cuando compra en:
 
 ## Confirm disabling Review Checker for newly opted out users
 
+shopping-integrated-callout-opted-out-title = El verificador de reseñas está desactivado
+shopping-integrated-callout-opted-out-subtitle = Para volver a activarlo, seleccione la etiqueta de precio en la barra lateral y active el verificador de reseñas.
 
 ## Callout for where to find Review Checker when the sidebar closes
 
+shopping-integrated-callout-sidebar-closed-title = Volver al verificador de reseñas
+shopping-integrated-callout-sidebar-closed-subtitle = Seleccione la etiqueta de precio en la barra lateral para ver si se puede confiar en las reseñas de un producto.
+shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Seleccione el botón de la barra lateral para ver si se puede confiar en las reseñas de un producto.
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-title = El mismo verificador de reseñas, nueva ubicación
+shopping-integrated-new-position-notification-move-right-subtitle = Mantenga el verificador de reseñas y el resto de la barra lateral de { -brand-product-name } aquí o muévalos hacia la derecha. Cambie ahora o en cualquier momento en la <a data-l10n-name="sidebar_settings">configuración de la barra lateral</a>.
+shopping-integrated-new-position-notification-move-left-subtitle = Mantenga el verificador de reseñas y el resto de la barra lateral de { -brand-product-name } aquí o muévalos hacia la izquierda. Cambie ahora o en cualquier momento en la <a data-l10n-name="sidebar_settings">configuración de la barra lateral</a>.
+shopping-integrated-new-position-notification-move-right-button = Mover a la derecha
+shopping-integrated-new-position-notification-move-left-button = Mover a la izquierda
+shopping-integrated-new-position-notification-dismiss-button = Entendido
 
 ## Combined setting for auto-open and auto-close.
 
+shopping-settings-auto-open-and-close-toggle =
+    .label = Abrir y cerrar automáticamente el verificador de reseñas
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-and-close-description-three-sites = Se abre cuando vea productos en { $firstSite }, { $secondSite } y { $thirdSite }, y se cierra cuando sale
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-and-close-description-single-site = Se abre cuando vea productos en { $currentSite } y se cierra cuando sale
