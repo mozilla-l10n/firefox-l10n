@@ -130,6 +130,9 @@ policy-SearchSuggestEnabled = Slå av eller på søkeforslag.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Legg til eller slett PKCS #11-moduler.
 policy-ShowHomeButton = Vis hjemknappen på verktøylinjen.
+# ”You represent that...” means ”You confirm/declare that...”
+policy-SkipTermsOfUse2 = Ikke vis vilkårene for bruk og personvernerklæringen ved oppstart. Du bekrefter at du aksepterer og har fullmakt til å godta vilkårene for bruk på vegne av alle personer som du gir tilgang til denne nettleseren.
+policy-SkipTermsOfUse = Ikke vis vilkårene for bruk og personvernerklæringen ved oppstart.
 policy-SSLVersionMax = Angi den maksimale SSL-versjonen.
 policy-SSLVersionMin = Angi den minimale SSL-versjonen.
 policy-StartDownloadsInTempDirectory = Tving nedlastinger til å starte på en lokal, midlertidig plassering i stedet for standard nedlastingskatalog.
