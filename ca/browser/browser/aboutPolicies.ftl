@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-policies-title = Polítiques d'empresa
+aboutpolicies-page-heading =
+    .heading = Quant a les polítiques
 # 'Active' is used to describe the policies that are currently active
 active-policies-tab = Actives
 errors-tab = Errors

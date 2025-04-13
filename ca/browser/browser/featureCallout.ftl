@@ -80,10 +80,13 @@ vertical-tabs-callout-2-subtitle = Aquesta disposició permet examinar ràpidame
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = Heu perdut la pista de les vostres pestanyes importants?
+sidebar-pins-callout-subtitle = Proveu de fixar-les: es mantindran a la part superior de la llista de pestanyes. Feu clic amb el botó dret a la pestanya que vulgueu fixar i trieu «Fixa la pestanya».
 sidebar-pins-callout-cta-button = Fixa la pestanya
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Barra lateral: el lloc ideal per a les eines i pestanyes
 
 ## Sidebar Callout Survey Strings
 
