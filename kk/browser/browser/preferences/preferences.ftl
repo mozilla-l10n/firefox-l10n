@@ -1325,6 +1325,7 @@ permissions-addon-exceptions =
 collection-header = { -brand-short-name } деректер жинауы және қолдануы
 collection-header2 = { -brand-short-name } деректер жинауы және қолдануы
     .searchkeywords = телеметрия
+preferences-view-profiles = Барлық профильдерді қарау
 collection-description = Біз сізге таңдауды қолыңызға беріп, тек әркім үшін { -brand-short-name } өнімін ұсыну және жақсарту мақсатында керек деректерді жинаймыз. Жеке ақпаратты алу алдында біз әрқашан рұқсатты сұраймыз.
 collection-privacy-notice = Жекелік ескертуі
 collection-health-report-telemetry-disabled = Сіз { -vendor-short-name } үшін ешбір техникалық және әрекеттесу мәліметтерін жинауға енді рұқсат етпейсіз. Барлық бұрыңғы деректер 30 күннің ішінде өшірілетін болады.

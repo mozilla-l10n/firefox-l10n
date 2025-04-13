@@ -6,35 +6,44 @@ contextual-manager-filter-input =
     .placeholder = Cerca contrasenyes
     .key = F
     .aria-label = Cerca contrasenyes
+contextual-manager-menu-more-options-button =
+    .title = Més opcions
+contextual-manager-more-options-popup =
+    .aria-label = Més opcions
 
 ## Passwords
 
 contextual-manager-passwords-command-create = Afegeix una contrasenya
-contextual-manager-passwords-command-import-from-browser = Importa d'un altre navegador…
-contextual-manager-passwords-command-import = Importa d'un fitxer…
+contextual-manager-passwords-command-import-from-browser = Importa d’un altre navegador…
+contextual-manager-passwords-command-import = Importa d’un fitxer…
+contextual-manager-passwords-command-export = Exporta les contrasenyes
+contextual-manager-passwords-command-remove-all = Elimina totes les contrasenyes
+contextual-manager-passwords-command-settings = Paràmetres
 contextual-manager-passwords-command-help = Ajuda
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
-contextual-manager-passwords-export-os-auth-dialog-message-win = Per exportar les contrasenyes, introduïu les vostres credencials d'inici de sessió al Windows. Això ajuda a protegir la seguretat dels vostres comptes.
+contextual-manager-passwords-export-os-auth-dialog-message-win = Per exportar les contrasenyes, introduïu les vostres credencials d’inici de sessió al Windows. Això ajuda a protegir la seguretat dels vostres comptes.
 # This message can be seen when attempting to export a password in about:logins
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-export-os-auth-dialog-message-macosx = exportar les contrasenyes desades
 # This message can be seen when attempting to reveal a password in contextual password manager on Windows
-contextual-manager-passwords-reveal-password-os-auth-dialog-message-win = Per veure la contrasenya, introduïu les vostres credencials d'inici de sessió al Windows. Això ajuda a protegir la seguretat dels vostres comptes.
+contextual-manager-passwords-reveal-password-os-auth-dialog-message-win = Per veure la contrasenya, introduïu les vostres credencials d’inici de sessió al Windows. Això ajuda a protegir la seguretat dels vostres comptes.
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-reveal-password-os-auth-dialog-message-macosx = mostrar la contrasenya desada
 # This message can be seen when attempting to edit a login in contextual password manager on Windows.
-contextual-manager-passwords-edit-password-os-auth-dialog-message-win = Per editar la contrasenya, introduïu les vostres credencials d'inici de sessió al Windows. Això ajuda a protegir la seguretat dels vostres comptes.
+contextual-manager-passwords-edit-password-os-auth-dialog-message-win = Per editar la contrasenya, introduïu les vostres credencials d’inici de sessió al Windows. Això ajuda a protegir la seguretat dels vostres comptes.
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-edit-password-os-auth-dialog-message-macosx = editar la contrasenya desada
 # This message can be seen when attempting to copy a password in contextual password manager on Windows.
-contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Per copiar la contrasenya, introduïu les vostres credencials d'inici de sessió al Windows. Això ajuda a protegir la seguretat dels vostres comptes.
+contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Per copiar la contrasenya, introduïu les vostres credencials d’inici de sessió al Windows. Això ajuda a protegir la seguretat dels vostres comptes.
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = copiar la contrasenya desada
+contextual-manager-passwords-import-file-picker-title = Importa contrasenyes
 contextual-manager-passwords-import-file-picker-import-button = Importa
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -53,7 +62,7 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
 contextual-manager-passwords-import-success-button = Fet
 contextual-manager-passwords-import-error-button-cancel = Cancel·la
 contextual-manager-passwords-export-success-button = Fet
-contextual-manager-export-passwords-dialog-confirm-button = Continua l'exportació
+contextual-manager-export-passwords-dialog-confirm-button = Continua l’exportació
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Exporteu les contrasenyes del { -brand-short-name }
 contextual-manager-passwords-export-file-picker-export-button = Exporta

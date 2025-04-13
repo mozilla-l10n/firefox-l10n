@@ -120,6 +120,7 @@ contextual-manager-passwords-remove-login-card-title = Парольді өшір
 contextual-manager-passwords-remove-login-card-remove-button = Өшіру
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Бас тарту
+contextual-manager-passwords-change-password-button = Парольді өзгерту
 
 ## Login Form
 
@@ -132,6 +133,9 @@ contextual-manager-passwords-list-label =
     .aria-label = Парольдер
 contextual-manager-copy-icon =
     .alt = Көшіріп алу
+contextual-manager-password-login-line =
+    .aria-label = Парольді көшіріп алу
+    .title = Парольді көшіріп алу
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
@@ -140,3 +144,5 @@ contextual-manager-copy-icon =
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-close-button = Жабу
+contextual-manager-passwords-discard-changes-go-back-button = Артқа

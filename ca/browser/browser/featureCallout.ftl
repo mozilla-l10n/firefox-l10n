@@ -122,3 +122,19 @@ sidebar-genai-survey-satisfaction-question = Esteu satisfet/a de tenir accés a 
 sidebar-genai-survey-productive-question =
     Fins a quin punt esteu d’acord o en desacord amb aquesta afirmació:<br/>
     «El bot de conversa d’IA a la barra lateral m’ajuda a ser més productiu»?
+unified-search-callout-title = Canvieu els motors de cerca
+unified-search-callout-subtitle = Trieu aquell que s’adapti millor a la vostra cerca.
+unified-search-callout-primary-label = Següent
+unified-search-callout-secondary-label = Descarta
+unified-search-engines-callout-title = Cerca amb una drecera
+unified-search-engines-callout-subtitle = Escriviu «@» seguit d’una paraula clau per cercar dins l’historial, les adreces d’interès, les pestanyes o amb un altre motor de cerca.
+unified-search-engines-callout-primary-label = Entesos
+actions-callout-title = Executeu tasques habituals o accediu a paràmetres bàsics
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearrecenthistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = Proveu d’escriure una acció com ara «imprimeix» per imprimir una pàgina o «esborra» per esborrar l’historial.
