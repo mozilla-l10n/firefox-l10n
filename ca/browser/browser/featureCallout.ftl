@@ -67,6 +67,7 @@ split-dismiss-button-manage-settings-option =
 
 sidebar-button-callout-title = Mostra els títols de les pestanyes a la barra lateral
 sidebar-button-callout-subtitle = Utilitzeu el botó de la barra lateral per a ampliar la barra lateral i poder veure els títols de les pestanyes.
+sidebar-button-callout-vertical-tabs = Per mostrar les vostres pestanyes, seleccioneu el botó de la barra lateral a la barra d'eines.
 
 ## Sidebar Vertical Tabs Strings
 
@@ -97,3 +98,4 @@ sidebar-callout-survey-disagree = Hi estic en desacord
 sidebar-callout-survey-strongly-disagree = Hi estic molt en desacord
 sidebar-callout-survey-features-question = Les següents són funcions potencials de la barra lateral. Què milloraria més la vostra productivitat al { -brand-short-name }?
 sidebar-callout-survey-submit = Envia
+sidebar-callout-survey-thank-you = Gràcies pel vostres comentaris!
