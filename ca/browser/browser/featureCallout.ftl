@@ -72,6 +72,11 @@ sidebar-button-callout-vertical-tabs = Per mostrar les vostres pestanyes, selecc
 ## Sidebar Vertical Tabs Strings
 
 vertical-tabs-callout-1-title = Us atabalen tantes pestanyes?
+vertical-tabs-callout-1-subtitle = Proveu la nova disposició vertical de les pestanyes per examinar ràpidament la vostra llista de pestanyes. Les primeres persones que l'han provat troben que els ajuda a sentir-se més organitzats. Podeu canviar-ho en qualsevol moment.
+vertical-tabs-callout-1-cta-button = Prova les pestanyes verticals
+vertical-tabs-callout-2-cta-button = Prova-ho ara
+vertical-tabs-callout-2-title = Teniu moltes pestanyes obertes? Proveu les pestanyes verticals.
+vertical-tabs-callout-2-subtitle = Aquesta disposició permet examinar ràpidament la vostra llista de pestanyes. A més, podeu ajustar l'amplada per veure més o menys els títols de les pestanyes.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
