@@ -30,8 +30,8 @@ cfr-doorhanger-extension-author = per { $name }
 cfr-doorhanger-extension-notification = Recomanació
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Recomanació
-    .tooltiptext = Recomanació d'extensió
-    .a11y-announcement = Recomanació d'extensió disponible
+    .tooltiptext = Recomanació d’extensió
+    .a11y-announcement = Recomanació d’extensió disponible
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
@@ -61,10 +61,6 @@ cfr-doorhanger-extension-total-users =
 
 ## Firefox Accounts Message
 
-cfr-doorhanger-bookmark-fxa-header = Sincronitzeu les adreces d'interès a tot arreu.
-cfr-doorhanger-bookmark-fxa-body = Una gran troballa! No us quedeu sense aquesta adreça d'interès en els vostres dispositius mòbils. Creeu un { -fxaccount-brand-name }.
-cfr-doorhanger-bookmark-fxa-body-2 = Una gran troballa! No us quedeu sense aquesta adreça d'interès en els vostres dispositius mòbils. Creeu un compte per començar.
-cfr-doorhanger-bookmark-fxa-link-text = Sincronitza ara les adreces d'interès…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Botó Tanca
     .title = Tanca
@@ -103,8 +99,6 @@ cfr-doorhanger-milestone-close-button = Tanca
 
 cfr-doorhanger-doh-body = La vostra privadesa és important. Ara el { -brand-short-name } encamina de forma segura les vostres sol·licituds DNS, sempre que sigui possible, a un servei associat per protegir-vos mentre navegueu.
 cfr-doorhanger-doh-header = Consultes DNS més segures i xifrades
-cfr-doorhanger-doh-primary-button-2 = D'acord
-    .accesskey = D
 cfr-doorhanger-doh-secondary-button = Inhabilita
     .accesskey = h
 
@@ -181,7 +175,7 @@ firefoxview-cfr-body-v2 = Recupereu les pestanyes tancades recentment i salteu d
 
 firefoxview-spotlight-promo-title = Us presentem la { -firefoxview-brand-name }
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = Voleu aquella pestanya que teniu oberta en el telèfon? Recupereu-la a l'instant. Necessiteu un lloc que tot just heu visitat ara mateix? Amb el { -firefoxview-brand-name } és dit i fet.
+firefoxview-spotlight-promo-subtitle = Voleu accedir a una pestanya que teniu oberta en el telèfon? Recupereu-la a l’instant. Necessiteu tornar a un lloc que tot just acabeu de visitar? Amb la { -firefoxview-brand-name } és dit i fet.
 firefoxview-spotlight-promo-primarybutton = Com funciona?
 firefoxview-spotlight-promo-secondarybutton = Omet
 

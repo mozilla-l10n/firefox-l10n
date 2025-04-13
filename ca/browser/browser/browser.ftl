@@ -340,6 +340,12 @@ quickactions-cmd-downloads = baixades, descàrregues
 # Opens about:addons page in the extensions section
 quickactions-extensions = Gestiona les extensions
 quickactions-cmd-extensions = extensions
+# Opens Firefox View
+quickactions-firefoxview = Obre la { -firefoxview-brand-name }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = obre la { -firefoxview-brand-name }, { -firefoxview-brand-name }, obre la vista, vista
 # Opens the devtools web inspector
 quickactions-inspector2 = Obre les eines per a desenvolupadors
 quickactions-cmd-inspector = inspector, devtools, desenvolupador

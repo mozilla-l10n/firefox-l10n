@@ -47,8 +47,8 @@ callout-pdfjs-draw-button = Entesos
 ## Firefox View Discoverability Strings
 
 fx-view-discoverability-title = No volíeu tancar aquella pestanya?
-fx-view-discoverability-subtitle = Aquí podeu trobar-la i tornar-la a obrir ràpidament. Conservem un historial de pestanyes tancades recentment.
-fx-view-discoverability-primary-button-label = Obre el { -firefoxview-brand-name }
+fx-view-discoverability-subtitle = Aquí podeu trobar-la i tornar-la a obrir ràpidament. Conservem l’historial de pestanyes tancades recentment.
+fx-view-discoverability-primary-button-label = Obre la { -firefoxview-brand-name }
 fx-view-discoverability-secondary-button-label = Descarta
 
 ## Split Dismiss Button Labels
