@@ -87,6 +87,11 @@ sidebar-pins-callout-cta-button = Fixa la pestanya
 ## Sidebar Onboarding Strings
 
 sidebar-customization-callout-1-title = Barra lateral: el lloc ideal per a les eines i pestanyes
+sidebar-customization-callout-1-subtitle = La barra lateral del { -brand-product-name } us permet accedir ràpidament al l’historial de navegació, a les pestanyes d’altres dispositius i a un bot de conversa d’IA. Tot això sense sortir de la vista principal.
+sidebar-customization-callout-callout-button = Personalitza la barra lateral
+sidebar-customization-callout-dismiss-button = Amaga la barra lateral
+sidebar-customization-callout-2-title = Personalitzeu la barra lateral del { -brand-product-name }
+sidebar-customization-callout-2-subtitle = Afegiu i elimineu eines. Col·loqueu les pestanyes a la barra lateral. Proveu un bot de conversa d’IA. Com personalitzar la barra lateral és cosa vostra.
 
 ## Sidebar Callout Survey Strings
 
@@ -107,7 +112,10 @@ sidebar-callout-survey-agree = Hi estic d’acord
 sidebar-callout-survey-disagree = No hi estic d’acord
 sidebar-callout-survey-strongly-disagree = No hi estic gens d’acord
 sidebar-callout-survey-features-question = Les següents són funcions potencials de la barra lateral. Què milloraria més la vostra productivitat al { -brand-short-name }?
+sidebar-callout-survey-split-view = Visualitzeu dos llocs web alhora, l’un al costat de l’altre
+sidebar-callout-survey-keep-website-open = Manteniu un lloc web, com ara el correu electrònic o el calendari, obert a la barra lateral mentre navegueu
 sidebar-callout-survey-saved-websites-2 = Accés ràpid a les adreces d’interès
+sidebar-callout-survey-none-of-above = Cap de les anteriors
 sidebar-callout-survey-submit = Envia
 sidebar-callout-survey-thank-you = Gràcies pel vostres comentaris!
 sidebar-genai-survey-satisfaction-question = Esteu satisfet/a de tenir accés a un bot de conversa d’IA a la barra lateral?
