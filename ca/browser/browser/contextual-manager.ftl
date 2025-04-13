@@ -184,23 +184,100 @@ contextual-manager-passwords-alert-back-button =
     .label = Enrere
 contextual-manager-passwords-alert-list =
     .aria-label = Llista d’alertes
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = Es recomana canviar la contrasenya
+    .message = Hi ha hagut una filtració o un robatori de contrasenyes d’aquest lloc web. Canvieu la contrasenya per protegir el vostre compte.
+contextual-manager-passwords-breached-origin-link-message = Com sap el { -brand-product-name } que hi ha hagut filtracions?
+contextual-manager-passwords-change-password-button = Canvia la contrasenya
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = Es recomana canviar la contrasenya
+    .message = Aquesta contrasenya es pot endevinar molt fàcilment. Canvieu la contrasenya per protegir el vostre compte.
+contextual-manager-passwords-vulnerable-password-link-message = Com sap el { -brand-product-name } que les contrasenyes són febles?
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Afegeix un nom d’usuari
+    .message = Afegiu-ne un per iniciar la sessió més ràpid.
+contextual-manager-passwords-add-username-button = Afegeix un nom d’usuari
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Afegeix una contrasenya
+contextual-manager-passwords-edit-label =
+    .label = Edita la contrasenya
+contextual-manager-passwords-remove-label =
+    .title = Elimina la contrasenya
+contextual-manager-passwords-origin-tooltip = Introduïu l’adreça exacta on iniciareu la sessió en aquest lloc.
+contextual-manager-passwords-username-tooltip = Introduïu el nom d’usuari, l’adreça electrònica o el número de compte que utilitzeu per iniciar la sessió.
+contextual-manager-passwords-password-tooltip = Introduïu la contrasenya que utilitzeu per iniciar la sessió en aquest compte.
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = Contrasenyes
+contextual-manager-website-icon =
+    .alt = Icona del lloc web
 contextual-manager-copy-icon =
     .alt = Copia
+contextual-manager-check-icon-username =
+    .alt = S’ha copiat
+contextual-manager-check-icon-password =
+    .alt = S’ha copiat
+contextual-manager-alert-icon =
+    .alt = Avís
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = Visita { $url }
+    .title = Visita { $url }
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = Visita { $url } (avís)
+    .title = Visita { $url } (avís)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = Copia el nom d’usuari { $username }
+    .title = Copia el nom d’usuari { $username }
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = Copia el nom d’usuari { $username } (avís)
+    .title = Copia el nom d’usuari { $username } (avís)
+contextual-manager-password-login-line =
+    .aria-label = Copia la contrasenya
+    .title = Copia la contrasenya
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = Copia la contrasenya (avís)
+    .title = Copia la contrasenya (avís)
+contextual-manager-edit-login-button = Edita
+    .tooltiptext = Edita la contrasenya
+contextual-manager-view-alert-heading =
+    .heading = Mostra l’alerta
+contextual-manager-view-alert-button =
+    .tooltiptext = Revisa l’alerta
+contextual-manager-show-password-button =
+    .aria-label = Mostra la contrasenya
+    .title = Mostra la contrasenya
+contextual-manager-hide-password-button =
+    .aria-label = Amaga la contrasenya
+    .title = Amaga la contrasenya
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = No s’ha trobat cap contrasenya
+contextual-manager-passwords-no-passwords-found-message = No s’ha trobat cap contrasenya. Cerqueu un altre terme i torneu-ho a provar.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = Deseu les contrasenyes en un lloc segur.
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-close-button = Tanca
+contextual-manager-passwords-discard-changes-go-back-button = Vés enrere
