@@ -61,6 +61,10 @@ cfr-doorhanger-extension-total-users =
 
 ## Firefox Accounts Message
 
+cfr-doorhanger-bookmark-fxa-header = Sincronitzeu les adreces d’interès a tot arreu.
+cfr-doorhanger-bookmark-fxa-body = Una gran troballa! No us quedeu sense aquesta adreça d’interès en els vostres dispositius mòbils. Creeu un { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-body-2 = Una gran troballa! No us quedeu sense aquesta adreça d’interès en els vostres dispositius mòbils. Creeu un compte per començar.
+cfr-doorhanger-bookmark-fxa-link-text = Sincronitza ara les adreces d’interès…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Botó Tanca
     .title = Tanca
@@ -99,12 +103,14 @@ cfr-doorhanger-milestone-close-button = Tanca
 
 cfr-doorhanger-doh-body = La vostra privadesa és important. Ara el { -brand-short-name } encamina de forma segura les vostres sol·licituds DNS, sempre que sigui possible, a un servei associat per protegir-vos mentre navegueu.
 cfr-doorhanger-doh-header = Consultes DNS més segures i xifrades
+cfr-doorhanger-doh-primary-button-2 = D’acord
+    .accesskey = D
 cfr-doorhanger-doh-secondary-button = Inhabilita
     .accesskey = h
 
 ## Full Video Support CFR message
 
-cfr-doorhanger-video-support-body = És possible que els vídeos d'aquest lloc no es reprodueixin correctament en aquesta versió del { -brand-short-name }. Per reproduir els vídeos correctament, actualitzeu el { -brand-short-name } ara.
+cfr-doorhanger-video-support-body = És possible que els vídeos d’aquest lloc no es reprodueixin correctament en aquesta versió del { -brand-short-name }. Per reproduir els vídeos correctament, actualitzeu el { -brand-short-name } ara.
 cfr-doorhanger-video-support-header = Actualitzeu el { -brand-short-name } per reproduir el vídeo
 cfr-doorhanger-video-support-primary-button = Actualitza ara
     .accesskey = A
@@ -128,11 +134,11 @@ spotlight-public-wifi-vpn-link = Ara no
 spotlight-better-internet-header = Fer una Internet millor és responsabilitat de tots nosaltres
 spotlight-better-internet-body = Utilitzant el { -brand-short-name } doneu suport a una Internet oberta, accessible i millor per a tothom.
 spotlight-peace-mind-header = Teniu les espatlles ben cobertes
-spotlight-peace-mind-body = Cada mes, el { -brand-short-name } bloca una mitjana de 3000 elements de seguiment per usuari. Creiem que no s'hauria d'interposar res entre l'usuari i el bon contingut d'Internet, i menys els atacs a la privadesa provocats per aquests elements de seguiment.
+spotlight-peace-mind-body = Cada mes, el { -brand-short-name } bloca una mitjana de 3000 elements de seguiment per usuari. Creiem que no s’hauria d’interposar res entre l’usuari i el bon contingut d’Internet, i menys els atacs a la privadesa provocats per aquests elements de seguiment.
 spotlight-pin-primary-button =
     { PLATFORM() ->
-        [macos] Fixa'l al Dock
-       *[other] Fixa'l a la barra de tasques
+        [macos] Fixa’l al Dock
+       *[other] Fixa’l a la barra de tasques
     }
 spotlight-pin-secondary-button = Ara no
 
@@ -160,7 +166,7 @@ mr2022-background-update-toast-primary-button-label = Obre el { -brand-shorter-n
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
 # exceeding characters will be truncated.
-mr2022-background-update-toast-secondary-button-label = Recorda-m'ho més tard
+mr2022-background-update-toast-secondary-button-label = Recorda-m’ho més tard
 
 ## Firefox View CFR
 
@@ -169,7 +175,7 @@ firefoxview-cfr-primarybutton = Prova-ho
 firefoxview-cfr-secondarybutton = Ara no
     .accesskey = A
 firefoxview-cfr-header-v2 = Continueu des d’on ho deixeu
-firefoxview-cfr-body-v2 = Recupereu les pestanyes tancades recentment i salteu d'un dispositiu a l'altre de forma transparent amb la { -firefoxview-brand-name }.
+firefoxview-cfr-body-v2 = Recupereu les pestanyes tancades recentment i salteu d’un dispositiu a l’altre de forma transparent amb la { -firefoxview-brand-name }.
 
 ## Firefox View Spotlight
 
@@ -186,7 +192,7 @@ colorways-cfr-primarybutton = Tria la combinació de colors
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Acoloriu el navegador amb aquests tons exclusius del { -brand-short-name } inspirats en veus que han canviat la cultura.
 colorways-cfr-header-28days = Les combinacions de colors de Veus independents caduquen el 16 de gener
-colorways-cfr-header-14days = Les combinacions de colors de Veus independents caduquen d'aquí a dues setmanes
+colorways-cfr-header-14days = Les combinacions de colors de Veus independents caduquen d’aquí a dues setmanes
 colorways-cfr-header-7days = Les combinacions de colors de Veus independents caduquen aquesta setmana
 colorways-cfr-header-today = Les combinacions de colors de Veus independents caduquen avui
 
@@ -205,7 +211,7 @@ cookie-banner-blocker-onboarding-learn-more = Més informació
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Teniu les espatlles ben cobertes
-july-jam-body = Cada mes, el { -brand-short-name } bloca una mitjana de 3.000 elements de seguiment per usuari, per tal d'oferir-vos un accés segur i ràpid al bon contingut d'Internet.
+july-jam-body = Cada mes, el { -brand-short-name } bloca una mitjana de 3.000 elements de seguiment per usuari, per tal d’oferir-vos un accés segur i ràpid al bon contingut d’Internet.
 july-jam-set-default-primary = Obre els enllaços amb el { -brand-short-name }
 fox-doodle-pin-headline = Ben tornat
 # “indie” is short for the term “independent”.
@@ -222,15 +228,16 @@ set-default-pdf-handler-primary = Entesos
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Penseu adquirir un dispositiu nou en el futur?
-fxa-sync-cfr-body = Assegureu-vos que les adreces d'interès, les contrasenyes i les pestanyes més recents us acompanyin quan obriu el navegador { -brand-product-name } en un dispositiu nou.
+fxa-sync-cfr-body = Assegureu-vos que les adreces d’interès, les contrasenyes i les pestanyes més recents us acompanyin quan obriu el navegador { -brand-product-name } en un dispositiu nou.
 fxa-sync-cfr-primary = Més informació
     .accesskey = M
-fxa-sync-cfr-secondary = Recorda-m'ho més tard
+fxa-sync-cfr-secondary = Recorda-m’ho més tard
     .accesskey = R
 
 ## Device Migration FxA Spotlight
 
 device-migration-fxa-spotlight-heavy-user-header = No oblideu fer una còpia de seguretat de les vostres dades
+device-migration-fxa-spotlight-heavy-user-body = Assegureu-vos que la informació important, com ara adreces d’interès i contrasenyes, estigui actualitzada i protegida a tots els vostres dispositius.
 device-migration-fxa-spotlight-heavy-user-primary-button = Inicia
 device-migration-fxa-spotlight-older-device-primary-button = Crea un compte
 device-migration-fxa-spotlight-getting-new-device-header-2 = Penseu adquirir un dispositiu nou en el futur?
@@ -239,7 +246,7 @@ device-migration-fxa-spotlight-getting-new-device-primary-button = Com puc fer u
 ## Set as Default PDF Reader Infobar
 
 # The question portion of the following message should have the <strong> and </strong> tags surrounding it.
-pdf-default-notification-message = <strong>Voleu que el { -brand-short-name } sigui el lector de PDF per defecte?</strong> Feu servir el { -brand-short-name } per llegir i editar els documents PDF desats a l'ordinador.
+pdf-default-notification-message = <strong>Voleu que el { -brand-short-name } sigui el lector de PDF per defecte?</strong> Feu servir el { -brand-short-name } per llegir i editar els documents PDF desats a l’ordinador.
 pdf-default-notification-set-default-button =
     .label = Defineix per defecte
 pdf-default-notification-decline-button =
@@ -247,7 +254,7 @@ pdf-default-notification-decline-button =
 
 ## Launch on login infobar notification
 
-launch-on-login-infobar-message = <strong>Voleu que s'obri el { -brand-short-name } cada vegada que reinicieu l'ordinador?</strong> Ara podeu configurar el { -brand-short-name } perquè s'obri automàticament quan reinicieu el dispositiu.
+launch-on-login-infobar-message = <strong>Voleu que s’obri el { -brand-short-name } cada vegada que reinicieu l’ordinador?</strong> Ara podeu configurar el { -brand-short-name } perquè s’obri automàticament quan reinicieu el dispositiu.
 launch-on-login-learnmore = Més informació
 launch-on-login-infobar-confirm-button = Sí, obre el { -brand-short-name }
     .accesskey = S
@@ -257,7 +264,7 @@ launch-on-login-infobar-reject-button = Ara no
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
-launch-on-login-infobar-final-message = <strong>Voleu que s'obri el { -brand-short-name } cada vegada que reinicieu l'ordinador?</strong> Per gestionar les preferències d'inici, cerqueu «inici» en els paràmetres.
+launch-on-login-infobar-final-message = <strong>Voleu que s’obri el { -brand-short-name } cada vegada que reinicieu l’ordinador?</strong> Per gestionar les preferències d’inici, cerqueu «inici» en els paràmetres.
 launch-on-login-infobar-final-reject-button = No, gràcies
     .accesskey = N
 
@@ -292,7 +299,7 @@ fxa-menu-message-sync-devices-primary-text = Sincronitzeu tots els dispositius
 
 multi-cta-fox-doodle-title = Ben tornat
 multi-cta-fox-doodle-set-default-checkbox = Defineix el { -brand-short-name } com a navegador per defecte
-multi-cta-fox-doodle-pin-startmenu-checkbox = Fixa el { -brand-short-name } al menú d'inici
+multi-cta-fox-doodle-pin-startmenu-checkbox = Fixa el { -brand-short-name } al menú d’inici
 multi-cta-fox-doodle-start-browsing-primary-button-label = Comença a navegar
 multi-cta-fox-doodle-main-browser-primary-button-label = Fes que el { -brand-short-name } sigui el meu navegador principal
 multi-cta-fox-doodle-quick-reminder-subtitle = Us volem recordar que podeu tenir el vostre navegador centrat en la privadesa preferit a un sol clic.
