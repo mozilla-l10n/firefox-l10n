@@ -11,9 +11,9 @@ callout-primary-complete-button-label = Entesos
 
 # "Tab pickup" refers to the section in Firefox View that displays open
 # tabs from other devices
-callout-firefox-view-tab-pickup-title = Salteu d'un dispositiu a un altre amb el recull de pestanyes
-callout-firefox-view-tab-pickup-subtitle = Recupereu ràpidament les pestanyes obertes en el telèfon i obriu-les directament aquí per a treure'n el màxim profit.
-callout-firefox-view-recently-closed-title = Recupereu les pestanyes tancades a l'instant
+callout-firefox-view-tab-pickup-title = Salteu d’un dispositiu a un altre amb el recull de pestanyes
+callout-firefox-view-tab-pickup-subtitle = Recupereu ràpidament les pestanyes obertes en el telèfon i obriu-les directament aquí per a treure’n el màxim profit.
+callout-firefox-view-recently-closed-title = Recupereu les pestanyes tancades a l’instant
 callout-firefox-view-recently-closed-subtitle = Totes les pestanyes que hàgiu tancat es mostraran aquí per art de màgia. Ja no cal patir per tancar un lloc accidentalment.
 callout-firefox-view-colorways-title = Afegiu-hi un toc de color
 # "Shade" refer to different color options in each colorway.
@@ -28,7 +28,7 @@ callout-firefox-view-colorways-reminder-subtitle = Acoloriu el navegador amb aqu
 # access to the same browsing experience when moving from one browser to another.
 # Alternative: ”Improve your browsing experience with tab pickup”
 continuous-onboarding-firefox-view-tab-pickup-title = Accelereu la navegació amb el recull de pestanyes
-continuous-onboarding-firefox-view-tab-pickup-subtitle = Accediu a les pestanyes obertes des de qualsevol dispositiu. A més, sincronitzeu les adreces d'interès, les contrasenyes i molt més.
+continuous-onboarding-firefox-view-tab-pickup-subtitle = Accediu a les pestanyes obertes des de qualsevol dispositiu. A més, sincronitzeu les adreces d’interès, les contrasenyes i molt més.
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Primers passos
 
 ## PDF.js Feature Tour Strings
@@ -41,7 +41,7 @@ callout-pdfjs-draw-title = Signeu documents amb la nova eina de dibuix
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
 callout-pdfjs-draw-body-a = Feu anotacions en els PDF i deseu-ne els canvis.
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
-callout-pdfjs-draw-body-b = S'ha acabat allò d'imprimir i escanejar. Feu les anotacions directament en els PDF i deseu-ne els canvis.
+callout-pdfjs-draw-body-b = S’ha acabat allò d’imprimir i escanejar. Feu les anotacions directament en els PDF i deseu-ne els canvis.
 callout-pdfjs-draw-button = Entesos
 
 ## Firefox View Discoverability Strings
@@ -67,19 +67,20 @@ split-dismiss-button-manage-settings-option =
 
 sidebar-button-callout-title = Mostra els títols de les pestanyes a la barra lateral
 sidebar-button-callout-subtitle = Utilitzeu el botó de la barra lateral per a ampliar la barra lateral i poder veure els títols de les pestanyes.
-sidebar-button-callout-vertical-tabs = Per mostrar les vostres pestanyes, seleccioneu el botó de la barra lateral a la barra d'eines.
+sidebar-button-callout-vertical-tabs = Per mostrar les vostres pestanyes, seleccioneu el botó de la barra lateral a la barra d’eines.
 
 ## Sidebar Vertical Tabs Strings
 
 vertical-tabs-callout-1-title = Us atabalen tantes pestanyes?
-vertical-tabs-callout-1-subtitle = Proveu la nova disposició vertical de les pestanyes per examinar ràpidament la vostra llista de pestanyes. Les primeres persones que l'han provat troben que els ajuda a sentir-se més organitzats. Podeu canviar-ho en qualsevol moment.
+vertical-tabs-callout-1-subtitle = Proveu la nova disposició vertical de les pestanyes per examinar ràpidament la vostra llista de pestanyes. Les primeres persones que l’han provat troben que els ajuda a sentir-se més organitzats. Podeu canviar-ho en qualsevol moment.
 vertical-tabs-callout-1-cta-button = Prova les pestanyes verticals
 vertical-tabs-callout-2-cta-button = Prova-ho ara
 vertical-tabs-callout-2-title = Teniu moltes pestanyes obertes? Proveu les pestanyes verticals.
-vertical-tabs-callout-2-subtitle = Aquesta disposició permet examinar ràpidament la vostra llista de pestanyes. A més, podeu ajustar l'amplada per veure més o menys els títols de les pestanyes.
+vertical-tabs-callout-2-subtitle = Aquesta disposició permet examinar ràpidament la vostra llista de pestanyes. A més, podeu ajustar l’amplada per veure més o menys els títols de les pestanyes.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-cta-button = Fixa la pestanya
 
 ## Sidebar Onboarding Strings
 
@@ -87,7 +88,7 @@ vertical-tabs-callout-2-subtitle = Aquesta disposició permet examinar ràpidame
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Ajudeu a millorar el { -brand-short-name }
-sidebar-callout-survey-satisfaction-question = Esteu satisfet/a amb l'experiència de la barra lateral en el { -brand-short-name }?
+sidebar-callout-survey-satisfaction-question = Esteu satisfet/a amb l’experiència de la barra lateral en el { -brand-short-name }?
 sidebar-callout-survey-privacy-notice-link = Avís de privadesa
 sidebar-callout-survey-very-satisfied = Molt satisfet/a
 sidebar-callout-survey-satisfied = Satisfet/a
@@ -96,12 +97,17 @@ sidebar-callout-survey-dissatisfied-2 = Insatisfet/a
 sidebar-callout-survey-very-dissatisfied-2 = Molt insatisfet/a
 sidebar-callout-survey-dont-use-it = No l’utilitzo
 sidebar-callout-survey-productive-question =
-    Fins a quin punt esteu d'acord o en desacord amb aquesta afirmació:<br/>
+    Fins a quin punt esteu d’acord o en desacord amb aquesta afirmació:<br/>
     «La barra lateral del { -brand-short-name } m’ajuda a ser més productiu»?
 sidebar-callout-survey-strongly-agree = Hi estic totalment d’acord
 sidebar-callout-survey-agree = Hi estic d’acord
-sidebar-callout-survey-disagree = Hi estic en desacord
-sidebar-callout-survey-strongly-disagree = Hi estic molt en desacord
+sidebar-callout-survey-disagree = No hi estic d’acord
+sidebar-callout-survey-strongly-disagree = No hi estic gens d’acord
 sidebar-callout-survey-features-question = Les següents són funcions potencials de la barra lateral. Què milloraria més la vostra productivitat al { -brand-short-name }?
+sidebar-callout-survey-saved-websites-2 = Accés ràpid a les adreces d’interès
 sidebar-callout-survey-submit = Envia
 sidebar-callout-survey-thank-you = Gràcies pel vostres comentaris!
+sidebar-genai-survey-satisfaction-question = Esteu satisfet/a de tenir accés a un bot de conversa d’IA a la barra lateral?
+sidebar-genai-survey-productive-question =
+    Fins a quin punt esteu d’acord o en desacord amb aquesta afirmació:<br/>
+    «El bot de conversa d’IA a la barra lateral m’ajuda a ser més productiu»?
