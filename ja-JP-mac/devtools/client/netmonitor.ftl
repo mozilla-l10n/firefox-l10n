@@ -30,7 +30,7 @@ network-menu-summary-tooltip-requests-count =
 #   $formattedTransferredSize (String): The formatted transferred size.
 network-menu-summary-transferred = { $formattedContentSize } / { $formattedTransferredSize } 転送済み
 network-menu-summary-tooltip-transferred =
-    .title = サイズ/全要求の転送サイズ
+    .title = サイズ / 全要求の転送サイズ
 # This label is displayed in the network table footer providing the
 # transfer time.
 # Variables:

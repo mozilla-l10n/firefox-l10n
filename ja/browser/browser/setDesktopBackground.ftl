@@ -9,11 +9,11 @@ set-desktop-background-accept =
 open-desktop-prefs =
     .label = デスクトップの設定を開く
 set-desktop-background-downloading =
-    .label = 画像を保存...
+    .label = 写真を保存しています...
 set-background-preview-unavailable = プレビューは利用できません
 # Name of the file that will be used as the desktop background. The
 # extension ".bmp" is added by the system.
-set-desktop-background-filename = デスクトップ背景
+set-desktop-background-filename = Desktop Background
 # This refers to the wallpaper "spanning" multiple monitors when the
 # user has more than one. Only some of the entire image will be on
 # each monitor. This should ideally match the wording in Windows' own
