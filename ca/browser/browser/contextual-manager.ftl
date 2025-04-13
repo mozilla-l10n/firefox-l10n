@@ -130,14 +130,60 @@ contextual-manager-passwords-remove-all-message-sync =
         [1] Això eliminarà la contrasenya desada al { -brand-short-name } de tots els dispositius sincronitzats i les alertes de filtracions. Aquesta acció no es pot desfer.
        *[other] Això eliminarà totes les contrasenyes desades al { -brand-short-name } de tots els dispositius sincronitzats i les alertes de filtracions. Aquesta acció no es pot desfer.
     }
+contextual-manager-passwords-origin-label = Lloc web
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Nom d’usuari
+    .data-after = S’ha copiat
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Contrasenya
+    .data-after = S’ha copiat
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Filtra les contrasenyes
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = S’ha afegit la contrasenya per a { $url }
+contextual-manager-passwords-add-password-success-button = Mostra
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = Ja existeix una contrasenya i un nom d’usuari per a { $url }
+contextual-manager-passwords-password-already-exists-error-button = Vés a la contrasenya
+contextual-manager-passwords-update-password-success-heading =
+    .heading = S’ha desat la contrasenya
 contextual-manager-passwords-update-password-success-button = Fet
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] S’ha eliminat la contrasenya
+           *[other] S’han eliminat les contrasenyes
+        }
 contextual-manager-passwords-delete-password-success-button = Fet
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = Totes ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = Alertes ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Voleu eliminar la contrasenya?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = Aquesta acció no es pot desfer.
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Enrere
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Elimina
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Cancel·la
+contextual-manager-passwords-alert-card =
+    .aria-label = Alertes de contrasenya
+contextual-manager-passwords-alert-back-button =
+    .label = Enrere
+contextual-manager-passwords-alert-list =
+    .aria-label = Llista d’alertes
 
 ## Login Form
 
