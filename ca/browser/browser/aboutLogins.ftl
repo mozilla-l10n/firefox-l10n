@@ -25,8 +25,8 @@ fxaccounts-avatar-button =
 menu =
     .title = Obre el menú
 # This menuitem is only visible on Windows and macOS
-about-logins-menu-menuitem-import-from-another-browser = Importa d'un altre navegador…
-about-logins-menu-menuitem-import-from-a-file = Importa d'un fitxer…
+about-logins-menu-menuitem-import-from-another-browser = Importa d’un altre navegador…
+about-logins-menu-menuitem-import-from-a-file = Importa d’un fitxer…
 about-logins-menu-menuitem-export-logins = Exporta els inicis de sessió…
 about-logins-menu-menuitem-remove-all-logins = Elimina tots els inicis de sessió…
 about-logins-menu-menuitem-export-logins2 = Exporta les contrasenyes…
@@ -54,8 +54,8 @@ login-list-count =
 #   $total (number) - Total number of logins
 login-list-filtered-count =
     { $total ->
-        [11] { $count } d'{ $total } inicis de sessió
-        [one] { $count } d'{ $total } inici de sessió
+        [11] { $count } d’{ $total } inicis de sessió
+        [one] { $count } d’{ $total } inici de sessió
        *[other] { $count } de { $total } inicis de sessió
     }
 # Variables
@@ -70,7 +70,8 @@ login-list-count2 =
 #   $total (number) - Total number of logins
 login-list-filtered-count2 =
     { $total ->
-        [one] { $count } d'{ $total } contrasenya
+        [11] { $count } d'{ $total } contrasenyes
+        [one] { $count } d’{ $total } contrasenya
        *[other] { $count } de { $total } contrasenyes
     }
 login-list-sort-label-text = Ordena per:
@@ -81,16 +82,16 @@ login-list-username-reverse-option = Nom d’usuari (Z-A)
 about-logins-login-list-alerts-option = Alertes
 login-list-last-changed-option = Darrera modificació
 login-list-last-used-option = Darrer ús
-login-list-intro-title = No s'ha trobat cap inici de sessió
-login-list-intro-title2 = No s'ha desat cap contrasenya
+login-list-intro-title = No s’ha trobat cap inici de sessió
+login-list-intro-title2 = No s’ha desat cap contrasenya
 login-list-intro-description = Aquí es mostren les contrasenyes que deseu en el { -brand-product-name }.
-about-logins-login-list-empty-search-title = No s'ha trobat cap inici de sessió
-about-logins-login-list-empty-search-title2 = No s'ha trobat cap contrasenya
+about-logins-login-list-empty-search-title = No s’ha trobat cap inici de sessió
+about-logins-login-list-empty-search-title2 = No s’ha trobat cap contrasenya
 about-logins-login-list-empty-search-description = No hi ha cap resultat que coincideixi amb la cerca.
 login-list-item-title-new-login = Inici de sessió nou
-login-list-item-subtitle-new-login = Introduïu les credencials d'inici de sessió
+login-list-item-subtitle-new-login = Introduïu les credencials d’inici de sessió
 login-list-item-title-new-login2 = Afegeix una contrasenya
-login-list-item-subtitle-missing-username = (cap nom d'usuari)
+login-list-item-subtitle-missing-username = (cap nom d’usuari)
 about-logins-list-item-breach-icon =
     .title = Lloc web amb filtració de dades
 about-logins-list-item-vulnerable-password-icon =
@@ -105,17 +106,17 @@ about-logins-list-section-week = Darrers 7 dies
 ## Introduction screen
 
 about-logins-login-intro-heading-logged-out2 = Cerqueu els vostres inicis de sessió desats? Activeu la sincronització o importeu-los.
-about-logins-login-intro-heading-logged-in = No s'ha trobat cap inici de sessió sincronitzat.
-login-intro-description = Si heu desat els vostres inicis de sessió en el { -brand-product-name } des d'un altre dispositiu, aquesta és la manera de tenir-los també aquí:
+about-logins-login-intro-heading-logged-in = No s’ha trobat cap inici de sessió sincronitzat.
+login-intro-description = Si heu desat els vostres inicis de sessió en el { -brand-product-name } des d’un altre dispositiu, aquesta és la manera de tenir-los també aquí:
 login-intro-instructions-fxa = Creeu un { -fxaccount-brand-name } o inicieu-hi la sessió des del dispositiu on teniu desats els vostres inicis de sessió.
 about-logins-login-intro-heading-message = Deseu les contrasenyes en un lloc segur
 login-intro-description2 = Totes les contrasenyes que deseu en el { -brand-product-name } són xifrades. A més, estem pendents de les filtracions i us alertarem si esteu afectat. <a data-l10n-name="breach-alert-link">Més informació</a>
 login-intro-instructions-fxa2 = Creeu un compte o inicieu la sessió des del dispositiu on teniu desats els vostres inicis de sessió.
 login-intro-instructions-fxa-settings = Aneu a Paràmetres > Sync > Activa la sincronització… Marqueu la casella de selecció «Inicis de sessió i contrasenyes».
-login-intro-instructions-fxa-passwords-help = Visiteu l'<a data-l10n-name="passwords-help-link">assistència de contrasenyes</a> per a obtenir més ajuda.
+login-intro-instructions-fxa-passwords-help = Visiteu l’<a data-l10n-name="passwords-help-link">assistència de contrasenyes</a> per a obtenir més ajuda.
 about-logins-intro-browser-only-import = Si teniu inicis de sessió desats en un altre navegador, podeu <a data-l10n-name="import-link">importar-los al { -brand-product-name }</a>.
-about-logins-intro-import2 = Si els vostres inicis de sessió estan desats fora del { -brand-product-name }, podeu <a data-l10n-name="import-browser-link">importar-los d'un altre navegador</a> o <a data-l10n-name="import-file-link">d'un fitxer</a>
-about-logins-intro-import3 = Feu clic al botó de signe més de dalt per afegir una contrasenya ara mateix. També podeu <a data-l10n-name="import-browser-link">importar les contrasenyes d'un altre navegador</a> o <a data-l10n-name="import-file-link">d'un fitxer</a>.
+about-logins-intro-import2 = Si els vostres inicis de sessió estan desats fora del { -brand-product-name }, podeu <a data-l10n-name="import-browser-link">importar-los d’un altre navegador</a> o <a data-l10n-name="import-file-link">d’un fitxer</a>
+about-logins-intro-import3 = Feu clic al botó de signe més de dalt per afegir una contrasenya ara mateix. També podeu <a data-l10n-name="import-browser-link">importar les contrasenyes d’un altre navegador</a> o <a data-l10n-name="import-file-link">d’un fitxer</a>.
 
 ## Login
 
@@ -125,26 +126,26 @@ about-logins-login-item-new-login-title = Afegeix una contrasenya
 login-item-edit-button = Edita
 about-logins-login-item-remove-button = Elimina
 login-item-origin-label = Adreça del lloc web
-login-item-tooltip-message = Assegureu-vos que coincideixi amb l'adreça exacta del lloc web on inicieu la sessió.
-about-logins-origin-tooltip2 = Introduïu l'adreça completa i assegureu-vos que coincideixi exactament amb la del lloc on inicieu la sessió.
+login-item-tooltip-message = Assegureu-vos que coincideixi amb l’adreça exacta del lloc web on inicieu la sessió.
+about-logins-origin-tooltip2 = Introduïu l’adreça completa i assegureu-vos que coincideixi exactament amb la del lloc on inicieu la sessió.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Assegureu-vos que esteu desant la contrasenya actual per a aquest lloc. Canviar la contrasenya aquí no la canvia a { $webTitle }.
 about-logins-add-password-tooltip = Assegureu-vos que esteu desant la contrasenya actual per a aquest lloc.
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-username-label = Nom d'usuari
+login-item-username-label = Nom d’usuari
 about-logins-login-item-username =
-    .placeholder = (cap nom d'usuari)
+    .placeholder = (cap nom d’usuari)
 login-item-copy-username-button-text = Copia
-login-item-copied-username-button-text = S'ha copiat
+login-item-copied-username-button-text = S’ha copiat
 login-item-password-label = Contrasenya
 login-item-password-reveal-checkbox =
     .aria-label = Mostra la contrasenya
 login-item-password-conceal-checkbox =
     .aria-label = Amaga la contrasenya
 login-item-copy-password-button-text = Copia
-login-item-copied-password-button-text = S'ha copiat
+login-item-copied-password-button-text = S’ha copiat
 login-item-save-changes-button = Desa els canvis
 about-logins-login-item-save-changes-button = Desa
 login-item-save-new-button = Desa
@@ -157,9 +158,9 @@ login-item-cancel-button = Cancel·la
 # Variables
 #   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
-login-item-timeline-action-created = S'ha creat
-login-item-timeline-action-updated = S'ha actualitzat
-login-item-timeline-action-used = S'ha usat
+login-item-timeline-action-created = S’ha creat
+login-item-timeline-action-updated = S’ha actualitzat
+login-item-timeline-action-used = S’ha usat
 
 ## OS Authentication dialog
 
@@ -170,10 +171,10 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## notes are only valid for English. Please test in your respected locale.
 
 # This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = Per editar l'inici de sessió, introduïu les vostres credencials d'inici de sessió al Windows. Això ajuda a protegir la seguretat dels vostres comptes.
+about-logins-edit-login-os-auth-dialog-message-win = Per editar l’inici de sessió, introduïu les vostres credencials d’inici de sessió al Windows. Això ajuda a protegir la seguretat dels vostres comptes.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = editar l'inici de sessió desat
+about-logins-edit-login-os-auth-dialog-message-macosx = editar l’inici de sessió desat
 # The macOS strings are preceded by the operating system with "Firefox is trying to ".
 # This message can be seen when attempting to disable osauth in about:preferences.
 about-logins-os-auth-dialog-message =
@@ -182,27 +183,27 @@ about-logins-os-auth-dialog-message =
        *[other] { -brand-short-name } està provant de canviar els paràmetres de les contrasenyes. Inicieu la sessió en el dispositiu per a permetre-ho.
     }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message2-win = Per editar la contrasenya, introduïu les vostres credencials d'inici de sessió al Windows. Això ajuda a protegir la seguretat dels vostres comptes.
+about-logins-edit-login-os-auth-dialog-message2-win = Per editar la contrasenya, introduïu les vostres credencials d’inici de sessió al Windows. Això ajuda a protegir la seguretat dels vostres comptes.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message2-macosx = editar la contrasenya desada
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
-about-logins-reveal-password-os-auth-dialog-message-win = Per veure la contrasenya, introduïu les vostres credencials d'inici de sessió al Windows. Això ajuda a protegir la seguretat dels vostres comptes.
+about-logins-reveal-password-os-auth-dialog-message-win = Per veure la contrasenya, introduïu les vostres credencials d’inici de sessió al Windows. Això ajuda a protegir la seguretat dels vostres comptes.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = mostrar la contrasenya desada
 # This message can be seen when attempting to copy a password in about:logins on Windows.
-about-logins-copy-password-os-auth-dialog-message-win = Per copiar la contrasenya, introduïu les vostres credencials d'inici de sessió al Windows. Això ajuda a protegir la seguretat dels vostres comptes.
+about-logins-copy-password-os-auth-dialog-message-win = Per copiar la contrasenya, introduïu les vostres credencials d’inici de sessió al Windows. Això ajuda a protegir la seguretat dels vostres comptes.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = copiar la contrasenya desada
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = Per exportar els inicis de sessió, introduïu les vostres credencials d'inici de sessió al Windows. Això ajuda a protegir la seguretat dels vostres comptes.
+about-logins-export-password-os-auth-dialog-message-win = Per exportar els inicis de sessió, introduïu les vostres credencials d’inici de sessió al Windows. Això ajuda a protegir la seguretat dels vostres comptes.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = exportar els inicis de sessió i les contrasenyes desats
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message2-win = Per exportar les contrasenyes, introduïu les vostres credencials d'inici de sessió al Windows. Això ajuda a protegir la seguretat dels vostres comptes.
+about-logins-export-password-os-auth-dialog-message2-win = Per exportar les contrasenyes, introduïu les vostres credencials d’inici de sessió al Windows. Això ajuda a protegir la seguretat dels vostres comptes.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message2-macosx = exportar les contrasenyes desades
@@ -249,8 +250,7 @@ about-logins-confirm-remove-all-dialog-title =
     }
 about-logins-confirm-remove-all-dialog-message =
     { $count ->
-        [1] Això eliminarà l'inici de sessió que heu desat al { -brand-short-name } i les alertes de filtracions que es mostren aquí. Aquesta acció no es pot desfer.
-        [one] Això eliminarà l'inici de sessió que heu desat al { -brand-short-name } i les alertes de filtracions que es mostren aquí. Aquesta acció no es pot desfer.
+        [1] Això eliminarà l’inici de sessió que heu desat al { -brand-short-name } i les alertes de filtracions que es mostren aquí. Aquesta acció no es pot desfer.
        *[other] Això eliminarà els inicis de sessió que heu desat al { -brand-short-name } i les alertes de filtracions que es mostren aquí. Aquesta acció no es pot desfer.
     }
 about-logins-confirm-remove-all-sync-dialog-title =
@@ -279,8 +279,8 @@ about-logins-confirm-remove-all-dialog-title2 =
 # Message for modal to confirm the removal of saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-message2 =
     { $count ->
-        [1] Això eliminarà la contrasenya desada al { -brand-short-name } i les alertes de filtració. Aquesta acció no es pot desfer.
-       *[other] Això eliminarà les contrasenyes desades al { -brand-short-name } i les alertes de filtració. Aquesta acció no es pot desfer.
+        [1] Això eliminarà la contrasenya desada al { -brand-short-name } i les alertes de filtracions. Aquesta acció no es pot desfer.
+       *[other] Això eliminarà les contrasenyes desades al { -brand-short-name } i les alertes de filtracions. Aquesta acció no es pot desfer.
     }
 # Title for modal to confirm the removal of all saved passwords when user IS SYNCED
 about-logins-confirm-remove-all-sync-dialog-title2 =
@@ -300,11 +300,7 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 about-logins-confirm-export-dialog-title = Exporta els inicis de sessió i contrasenyes
 about-logins-confirm-export-dialog-message = Les contrasenyes es desaran com a text llegible (per exemple, «malaC0ntr@senya»), de manera que qualsevol que pugui obrir el fitxer exportat les podrà veure.
 about-logins-confirm-export-dialog-confirm-button = Exporta…
-about-logins-confirm-export-dialog-title2 = Nota sobre l'exportació de contrasenyes
-about-logins-confirm-export-dialog-message2 =
-    En exportar, les contrasenyes es desen en un fitxer de text llegible.
-    Quan hàgiu acabat d'utilitzar el fitxer, us recomanem que el suprimiu perquè les altres persones que utilitzin aquest dispositiu no puguin veure les vostres contrasenyes.
-about-logins-confirm-export-dialog-confirm-button2 = Continua l'exportació
+about-logins-confirm-export-dialog-title2 = Nota sobre l’exportació de contrasenyes
 about-logins-alert-import-title = Fi de la importació
 about-logins-alert-import-message = Mostra un resum detallat de la importació
 confirm-discard-changes-dialog-title = Voleu descartar els canvis no desats?
