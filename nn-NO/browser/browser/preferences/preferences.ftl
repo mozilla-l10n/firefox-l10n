@@ -617,7 +617,7 @@ home-prefs-recommended-by-description-generic = Eineståande innhald utvalt av {
 
 ##
 
-home-prefs-recommended-by-learn-more = Korleis det fungerar
+home-prefs-recommended-by-learn-more = Korleis det fungerer
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Sponsa historiar
 home-prefs-recommended-by-option-recent-saves =

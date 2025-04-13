@@ -81,7 +81,7 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = Korleis det fungerer
 monitor-title = Sjå opp for datalekkasjer.
-monitor-link = Korleis det verkar
+monitor-link = Korleis det fungerer
 monitor-header-content-no-account = SJekk { -monitor-brand-name } for å sjå om du har vore ein del av ein datalekkasje, og få varsel om nye datalekkasjar.
 monitor-header-content-signed-in = { -monitor-brand-name } åtvarar deg om informasjonen din har dukka opp i ein kjend datalekkasje.
 monitor-sign-up-link = Registrer deg for datalekkasjevarsel
