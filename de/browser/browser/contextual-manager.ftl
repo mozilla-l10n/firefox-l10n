@@ -67,6 +67,9 @@ contextual-manager-passwords-import-success-heading =
 contextual-manager-passwords-import-success-message = Neu: { $added }, aktualisiert: { $modified }
 contextual-manager-passwords-import-detailed-report = Detaillierten Bericht ansehen
 contextual-manager-passwords-import-success-button = Fertig
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = Passwörter konnten nicht importiert werden
+    .message = Überprüfen Sie, dass Ihre Datei Spalten für Websites, Nutzernamen und Passwörter enthält.
 contextual-manager-passwords-import-error-button-try-again = Erneut versuchen
 contextual-manager-passwords-import-error-button-cancel = Abbrechen
 contextual-manager-passwords-import-learn-more = Weitere Informationen über das Importieren von Passwörtern
@@ -112,6 +115,20 @@ contextual-manager-passwords-remove-all-confirm-button =
         [1] Entfernen
         [one] Entfernen
        *[other] Alle entfernen
+    }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [one] Dadurch werden das in { -brand-short-name } gespeicherte Passwort und alle Warnungen zu Datenlecks entfernt. Diese Aktion kann nicht rückgängig gemacht werden.
+       *[other] Dadurch werden die in { -brand-short-name } gespeicherten Passwörter und alle Warnungen zu Datenlecks entfernt. Diese Aktion kann nicht rückgängig gemacht werden.
+    }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [one] Dadurch werden das allen synchronisierten Geräten in { -brand-short-name } gespeicherte Passwort sowie Warnungen zu Datenlecks entfernt. Diese Aktion kann nicht rückgängig gemacht werden.
+       *[other] Dadurch werden alle auf allen synchronisierten Geräten in { -brand-short-name } gespeicherten Passwörter und Warnungen zu Datenlecks entfernt. Diese Aktion kann nicht rückgängig gemacht werden.
     }
 contextual-manager-passwords-origin-label = Website
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
