@@ -184,19 +184,77 @@ contextual-manager-passwords-alert-back-button =
     .label = Zurück
 contextual-manager-passwords-alert-list =
     .aria-label = Warnungsliste
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = Passwortänderung empfohlen
+    .message = Passwörter von dieser Website wurden als gestohlen oder durchgesickert gemeldet, Ändern Sie ihr Passwort, um Ihr Konto zu schützen.
+contextual-manager-passwords-breached-origin-link-message = Woher weiß { -brand-product-name } von Datenlecks?
 contextual-manager-passwords-change-password-button = Passwort ändern
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = Passwortänderung empfohlen
+    .message = Dieses Passwort kann leicht erraten werden. Ändern Sie Ihr Passwort, um Ihr Konto zu schützen.
+contextual-manager-passwords-vulnerable-password-link-message = Woher weiß { -brand-product-name } von schwachen Passwörtern?
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Benutzernamen hinzufügen
+    .message = Fügen Sie einen Benutzernamen hinzu, um sich schneller anzumelden.
+contextual-manager-passwords-add-username-button = Benutzernamen hinzufügen
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Passwort hinzufügen
+contextual-manager-passwords-edit-label =
+    .label = Passwort bearbeiten
+contextual-manager-passwords-remove-label =
+    .title = Passwort entfernen
+contextual-manager-passwords-origin-tooltip = Geben Sie die genaue Adresse ein, bei der Sie sich auf dieser Website anmelden.
+contextual-manager-passwords-username-tooltip = Geben Sie den Benutzernamen, die E-Mail-Adresse oder Kontonummer ein, mit der Sie sich anmelden.
+contextual-manager-passwords-password-tooltip = Geben Sie das Passwort ein, das zur Anmeldung bei diesem Konto verwendet wurde.
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = Passwörter
+contextual-manager-website-icon =
+    .alt = Website-Symbol
 contextual-manager-copy-icon =
     .alt = Kopieren
+contextual-manager-check-icon-username =
+    .alt = Kopiert
+contextual-manager-check-icon-password =
+    .alt = Kopiert
+contextual-manager-alert-icon =
+    .alt = Warnung
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = { $url } besuchen
+    .title = { $url } besuchen
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = { $url } besuchen (Warnung)
+    .title = { $url } besuchen (Warnung)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = Benutzernamen { $username } kopieren
+    .title = Benutzernamen { $username } kopieren
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = Benutzernamen { $username } kopieren (Warnung)
+    .title = Benutzernamen { $username } kopieren (Warnung)
+contextual-manager-password-login-line =
+    .aria-label = Passwort kopieren
+    .title = Passwort kopieren
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = Passwort kopieren (Warnung)
+    .title = Passwort kopieren (Warnung)
+contextual-manager-edit-login-button = Bearbeiten
+    .tooltiptext = Passwort bearbeiten
 contextual-manager-view-alert-heading =
     .heading = Warnung ansehen
 contextual-manager-view-alert-button =
@@ -210,11 +268,26 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Keine Passwörter gefunden
+contextual-manager-passwords-no-passwords-found-message = Keine Passwörter gefunden. Suchen Sie nach einem anderen Begriff und versuchen Sie es erneut.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = Speichern Sie Ihre Passwörter an einem sicheren Ort.
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = Alle Passwörter sind verschlüsselt und wir achten bei Datenlecks und Warnungen darauf, ob Sie betroffen sind.
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = Fügen Sie sie hier hinzu, um loszulegen.
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = Manuell hinzufügen
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = Schließen, ohne zu speichern?
+    .message = Ihre Änderungen werden nicht gespeichert.
+contextual-manager-passwords-discard-changes-close-button = Schließen
+contextual-manager-passwords-discard-changes-go-back-button = Zurück

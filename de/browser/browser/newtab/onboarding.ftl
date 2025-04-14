@@ -25,6 +25,8 @@ return-to-amo-subtitle = Fantastisch, du hast jetzt { -brand-short-name }
 return-to-amo-addon-title = Hol dir auch <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
 return-to-amo-add-extension-label = Erweiterung hinzufügen
 return-to-amo-add-theme-label = Das Theme hinzufügen
+return-to-amo-theme-install-complete-label = Theme installiert
+return-to-amo-extension-install-complete-label = Erweiterung installiert
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 

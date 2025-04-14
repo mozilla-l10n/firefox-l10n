@@ -117,6 +117,7 @@ newtab-menu-delete-pocket = Aus { -pocket-brand-name } löschen
 newtab-menu-archive-pocket = In { -pocket-brand-name } archivieren
 newtab-menu-show-privacy-info = Unsere Sponsoren & Ihre Privatsphäre
 newtab-menu-about-fakespot = Über { -fakespot-brand-name }
+newtab-menu-report-content = Diesen Inhalt melden
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Blockieren
@@ -128,6 +129,7 @@ newtab-menu-section-unfollow = Thema nicht mehr folgen
 
 newtab-menu-manage-sponsored-content = Gesponserte Inhalte verwalten
 newtab-menu-our-sponsors-and-your-privacy = Unsere Sponsoren und Ihre Privatsphäre
+newtab-menu-report-this-ad = Diese Anzeige melden
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -524,3 +526,7 @@ newtab-section-mangage-topics-followed-topics = Gefolgt
 newtab-section-mangage-topics-followed-topics-empty-state = Sie folgen noch keinen Themen.
 newtab-section-mangage-topics-blocked-topics = Blockiert
 newtab-section-mangage-topics-blocked-topics-empty-state = Sie haben noch keine Themen blockiert.
+newtab-custom-wallpaper-title = Hier gibt es benutzerdefinierte Hintergrundbilder
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle = Laden Sie Ihr eigenes Hintergrundbild hoch oder wählen Sie eine benutzerdefinierte Farbe, um { -brand-product-name } für Sie anzupassen.
+newtab-custom-wallpaper-cta = Ausprobieren

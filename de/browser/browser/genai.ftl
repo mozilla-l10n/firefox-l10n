@@ -111,8 +111,11 @@ genai-options-about-chatbot =
 ## Chatbot onboarding
 
 genai-onboarding-header = Zusammenfassen, Brainstorming und mehr, während Sie surfen
+genai-onboarding-choose-header = Wählen Sie einen KI-Chatbot aus, der in der { -brand-short-name }-Sidebar verwendet werden soll
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = Wählen Sie einen KI-Chatbot aus, der in der { -brand-short-name }-Sidebar verwendet werden soll. Wir zeigen Details zu jedem Chatbot, wenn Sie ihn auswählen. Sie können jederzeit wechseln. <a data-l10n-name="learn-more">Weitere Informationen</a>
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-choose-description = Jederzeit wechseln. Für Hilfe bei der Auswahl lesen Sie <a data-l10n-name="learn-more">weitere Informationen zu den einzelnen Chatbots</a>.
 genai-onboarding-primary = Weiter
 genai-onboarding-secondary = Schließen
 genai-onboarding-claude-tooltip =
