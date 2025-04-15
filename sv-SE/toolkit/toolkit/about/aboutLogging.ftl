@@ -66,8 +66,30 @@ about-logging-unknown-profiler-preset = Okänd förinställning av profilering "
 about-logging-unknown-option = Okänt alternativ för about:logging "{ $k }"
 about-logging-configuration-url-ignored = Konfigurations-URL ignoreras
 about-logging-file-and-profiler-override = Det går inte att tvinga fram filutmatning och åsidosätta profileringsalternativ samtidigt
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-unknown-error = Ett fel inträffade: { $errorText }
 about-logging-configured-via-url = Alternativ konfigurerat via URL
 
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
+about-logging-upload-question = Profildata har samlats in. Vill du spara eller ladda upp den?
+about-logging-save-button = Spara
+about-logging-upload-button = Ladda upp
+# Variables:
+#   $path (string) - The path where the profile can be found.
+about-logging-saved = Sparad till { $path }
+# Variables:
+#   $percent (number) - The upload completion progress, to be displayed as a percentage. This is a value between 0 and 1.
+about-logging-uploading-progress = Laddar upp profildata: { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+# Variables:
+#   $url (string) - The URL where the profile can be found
+about-logging-uploaded = Överförd till <a data-l10n-name="uploaded-message-url">{ $url }</a>
+about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Dela webbadress
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-upload-error = Ett fel inträffade vid uppladdning av profilen: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-save-error = Ett fel inträffade när filen sparades: { $errorText }

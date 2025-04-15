@@ -31,6 +31,15 @@ sidebar-history-sort-by-site =
     .label = Sortera efter webbplats
 sidebar-history-clear =
     .label = Rensa historik
+sidebar-history-sort-by-heading = Sortera efter:
+sidebar-history-sort-option-date =
+    .label = Datum
+sidebar-history-sort-option-site =
+    .label = Webbplats
+sidebar-history-sort-option-date-and-site =
+    .label = Datum och plats
+sidebar-history-sort-option-last-visited =
+    .label = Senast besökt
 
 ## Labels for sidebar search
 

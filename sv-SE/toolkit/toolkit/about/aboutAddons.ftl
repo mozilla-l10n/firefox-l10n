@@ -305,6 +305,11 @@ discopane-intro2 =
     så mycket mer. Dessa små program är ofta utvecklade av en tredje part. Här är
     ett urval { -brand-product-name } <a data-l10n-name="learn-more-trigger">rekommenderar</a>
     för exceptionell säkerhet, prestanda och funktionalitet.
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 = Tillägg och teman låter dig anpassa { -brand-product-name }. De kan öka integriteten, förbättra produktiviteten, förbättra media, ändra hur { -brand-product-name } ser ut och så mycket mer. Dessa små program är ofta utvecklade av en tredje part. Här är ett urval som Firefox <a data-l10n-name="learn-more-trigger">rekommenderar</a> för exceptionell säkerhet, prestanda och funktionalitet.
 
 ## Add-on actions
 
@@ -440,8 +445,22 @@ addon-badge-recommended3 =
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Officiellt tillägg byggt av Mozilla Firefox. Uppfyller säkerhets- och prestandastandarder
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are performing the
+# security or performance reviews. As such, we avoid personalising language
+# like the words "our" or "we".
+addon-badge-verified4 =
+    .title = Detta tillägg har granskats för att uppfylla standarder för säkerhet och prestanda
 addon-badge-verified3 =
     .title = Denna tillägg har granskats för att uppfylla våra standarder för säkerhet och prestanda
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are making the
+# recommendation. As such, we hard code "Firefox" and avoid personalising
+# language like the words "our" or "we".
+addon-badge-recommended4 =
+    .title = Firefox rekommenderar endast tillägg som uppfyller standarder för säkerhet och prestanda
 
 ##
 
