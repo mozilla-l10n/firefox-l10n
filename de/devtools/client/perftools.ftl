@@ -69,6 +69,9 @@ perftools-button-edit-settings = Einstellungen bearbeiten…
 
 ## More actions menu
 
+perftools-menu-more-actions-button =
+    .title = Weitere Aktionen
+perftools-menu-more-actions-restart-with-profiling = { -brand-shorter-name } mit aktiviertem Start-Profiling neu starten
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
