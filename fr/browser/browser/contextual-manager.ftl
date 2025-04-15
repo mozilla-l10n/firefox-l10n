@@ -117,6 +117,14 @@ contextual-manager-passwords-remove-all-confirm-button =
         [1] Supprimer
        *[other] Tout supprimer
     }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] Cette action supprime le mot de passe enregistré dans { -brand-short-name } et toutes les alertes de fuites de données. Elle est irréversible.
+        [one] Cette action supprime le mot de passe enregistré dans { -brand-short-name } et toutes les alertes de fuites de données. Elle est irréversible.
+       *[other] Cette action supprime les mots de passe enregistrés dans { -brand-short-name } et toutes les alertes de fuites de données. Elle est irréversible.
+    }
 # Message for modal to confirm the removal of all saved passwords when user HAS SYNC
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-message-sync =
