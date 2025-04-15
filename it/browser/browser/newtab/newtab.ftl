@@ -533,3 +533,5 @@ newtab-custom-wallpaper-title = Ora puoi utilizzare sfondi personalizzati
 newtab-custom-wallpaper-subtitle = Carica il tuo sfondo o scegli un colore personalizzato per personalizzare { -brand-product-name }.
 newtab-custom-wallpaper-cta = Prova
 
+## Strings for reporting ads and content
+
