@@ -102,6 +102,14 @@ profiles-marigold-theme-2 = Ringelblumengelb
 profiles-lavender-theme-2 = Helles Lavendelviolett
 # This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-lichen-theme-2 = Minzgrün
+# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-magnolia-theme-2 = Magnolienrosa
+# Ocean blue is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-ocean-theme-2 = Ozeanblau
+# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of brick masonry. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-terracotta-theme-2 = Ziegelrot
+# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-moss-theme-2 = Moosgrün
 
 ## Alternative text for default profile icons
 
