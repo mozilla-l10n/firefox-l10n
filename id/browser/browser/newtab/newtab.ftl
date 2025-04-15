@@ -525,3 +525,6 @@ newtab-custom-wallpaper-title = Wallpaper kustom ada di sini
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Unggah wallpaper sendiri atau pilih warna kustom untuk menjadikan { -brand-product-name } lebih personal.
 newtab-custom-wallpaper-cta = Coba sekarang
+
+## Strings for reporting ads and content
+

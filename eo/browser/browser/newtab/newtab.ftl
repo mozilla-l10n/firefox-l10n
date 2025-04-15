@@ -517,3 +517,6 @@ newtab-section-mangage-topics-followed-topics = Sekvataj
 newtab-section-mangage-topics-followed-topics-empty-state = Vi ankoraŭ sekvas neniun temon.
 newtab-section-mangage-topics-blocked-topics = Blokitaj
 newtab-section-mangage-topics-blocked-topics-empty-state = Vi ankoraŭ blokas neniun temon.
+
+## Strings for reporting ads and content
+

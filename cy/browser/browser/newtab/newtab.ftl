@@ -535,3 +535,6 @@ newtab-custom-wallpaper-title = Mae papurau wal cyfaddas yma
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Llwythwch i fyny eich papur wal eich hun neu dewiswch liw cyfaddas i wneud { -brand-product-name } deimlo'n gartrefol.
 newtab-custom-wallpaper-cta = Rhowch gynnig arni
+
+## Strings for reporting ads and content
+

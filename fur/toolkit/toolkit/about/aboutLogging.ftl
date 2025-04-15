@@ -58,9 +58,7 @@ about-logging-preset-custom-description = Modui di regjistrazion selezionâts a 
 # Error handling
 about-logging-error = Erôr:
 
-## Variables:
-##   $k (String) - Variable name
-##   $v (String) - Variable value
+##
 
 about-logging-invalid-output = Valôr no valit “{ $v }“ pe clâf “{ $k }“
 about-logging-unknown-logging-preset = Pre-configurazion di regjistrazion “{ $v }“ no cognossude
@@ -69,3 +67,7 @@ about-logging-unknown-option = Opzion di about:logging “{ $k }“ no cognossud
 about-logging-configuration-url-ignored = URL di configurazion ignorât
 about-logging-file-and-profiler-override = Impussibil sfuarçâ il file di jessude e tal stes timp passâ parsore aes opzions dal profiladôr
 about-logging-configured-via-url = Opzion configurade midiant URL
+
+## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
+## set to true. It is false by default, except on Android.
+

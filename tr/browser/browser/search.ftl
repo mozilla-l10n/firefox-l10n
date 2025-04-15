@@ -34,6 +34,11 @@ removed-search-engine-message = <strong>Varsayılan arama motorunuz değiştiril
 removed-search-engine-message2 = <strong>Varsayılan arama motorunuz değiştirildi.</strong> { $oldEngine } artık varsayılan { -brand-short-name } arama motorları arasında yer almıyor. Yeni varsayılan arama motorunuzu { $newEngine } olarak ayarladık. Varsayılan arama motorunuzu ayarlardan değiştirebilirsiniz.
 remove-search-engine-button = Tamam
 
+## Infobar shown when default search engine is reset due to an issue reading the settings file.
+## Variables
+## $newEngine (String) - the name of the new default search engine.
+
+
 ## Infobar shown when user is prompted to install search engine.
 ## Variables
 ## $engineName (String) - the name of the search engine to install.

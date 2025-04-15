@@ -528,3 +528,6 @@ newtab-custom-wallpaper-title = Тасвирҳои заминаи фармоиш
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Барои ба таври худ танзим кардани «{ -brand-product-name }», тасвири заминаи худро бор кунед ё ранги дилхоҳеро интихоб намоед.
 newtab-custom-wallpaper-cta = Озмоед
+
+## Strings for reporting ads and content
+

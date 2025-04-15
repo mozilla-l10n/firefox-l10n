@@ -526,3 +526,6 @@ newtab-custom-wallpaper-title = 可以在這裡自訂背景圖片
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = 上傳您自己的背景圖，或挑選一組色彩，讓 { -brand-product-name } 有您的風格。
 newtab-custom-wallpaper-cta = 試試看
+
+## Strings for reporting ads and content
+

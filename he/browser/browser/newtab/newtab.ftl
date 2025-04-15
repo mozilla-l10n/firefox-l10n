@@ -524,3 +524,6 @@ newtab-custom-wallpaper-title = טפטים מותאמים אישית נמצאי�
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = ניתן להעלות טפט משלך או לבחור בצבע מותאם אישית כדי להפוך את { -brand-product-name } לשלך.
 newtab-custom-wallpaper-cta = בואו ננסה
+
+## Strings for reporting ads and content
+

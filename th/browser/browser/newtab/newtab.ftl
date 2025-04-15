@@ -522,3 +522,6 @@ newtab-section-mangage-topics-followed-topics = ติดตามอยู่
 newtab-section-mangage-topics-followed-topics-empty-state = คุณยังไม่ได้ติดตามหัวข้อใดๆ
 newtab-section-mangage-topics-blocked-topics = ปิดกั้นอยู่
 newtab-section-mangage-topics-blocked-topics-empty-state = คุณยังไม่ได้ปิดกั้นหัวข้อใดๆ
+
+## Strings for reporting ads and content
+

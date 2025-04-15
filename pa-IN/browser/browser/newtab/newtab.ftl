@@ -523,3 +523,6 @@ newtab-section-mangage-topics-followed-topics = ਫ਼ਾਲੋ ਕੀਤੇ
 newtab-section-mangage-topics-followed-topics-empty-state = ਤੁਸੀਂ ਹਾਲੇ ਕਿਸੇ ਵੀ ਵਿਸ਼ੇ ਨੂੰ ਫ਼ਾਲੋ ਨਹੀਂ ਕੀਤਾ ਹੈ।
 newtab-section-mangage-topics-blocked-topics = ਪਾਬੰਦੀ ਲਗਾਏ
 newtab-section-mangage-topics-blocked-topics-empty-state = ਤੁਸੀਂ ਹਾਲੇ ਕਿਸੇ ਵੀ ਵਿਸ਼ੇ ਉੱਤੇ ਪਾਬੰਦੀ ਨਹੀਂ ਲਾਈ ਹੈ।
+
+## Strings for reporting ads and content
+

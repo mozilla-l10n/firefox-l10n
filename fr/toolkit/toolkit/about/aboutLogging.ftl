@@ -58,9 +58,7 @@ about-logging-preset-custom-description = Modules de journalisation sélectionn�
 # Error handling
 about-logging-error = Erreur :
 
-## Variables:
-##   $k (String) - Variable name
-##   $v (String) - Variable value
+##
 
 about-logging-invalid-output = Valeur « { $v } » invalide pour la clé « { $k } »
 about-logging-unknown-logging-preset = Réglage de journalisation « { $v } » inconnu
@@ -69,3 +67,7 @@ about-logging-unknown-option = Option « { $k } » pour about:logging inconnue
 about-logging-configuration-url-ignored = URL de configuration ignorée
 about-logging-file-and-profiler-override = Impossible de forcer la sortie du fichier et de remplacer les options du profileur en même temps
 about-logging-configured-via-url = Option configurée par URL
+
+## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
+## set to true. It is false by default, except on Android.
+

@@ -527,3 +527,6 @@ newtab-section-mangage-topics-blocked-topics = Blokirano
 newtab-section-mangage-topics-blocked-topics-empty-state = Prepovedali niste še nobene teme.
 newtab-custom-wallpaper-title = Ozadja po meri so tu
 newtab-custom-wallpaper-cta = Preizkusite
+
+## Strings for reporting ads and content
+

@@ -531,3 +531,6 @@ newtab-custom-wallpaper-title = I fonts personalizâts a son achì
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Cjame il to font o sielç un colôr personalizât par fâ to { -brand-product-name }.
 newtab-custom-wallpaper-cta = Provilu
+
+## Strings for reporting ads and content
+

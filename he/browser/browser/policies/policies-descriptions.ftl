@@ -130,7 +130,6 @@ policy-SecurityDevices2 = הוספה או מחיקת מודולי PKCS #11.
 policy-ShowHomeButton = הצגת כפתור הבית בסרגל הכלים.
 # ”You represent that...” means ”You confirm/declare that...”
 policy-SkipTermsOfUse2 = לא להציג את תנאי השימוש והצהרת הפרטיות בעת הפעלת הדפדפן. הפעלת מדיניות זו מצהירה שמקובל עליך, ושיש לך את הסמכות לקבל את תנאי השימוש בשם כל האנשים להם תוענק גישה לדפדפן זה על ידך.
-policy-SkipTermsOfUse = לא להציג את תנאי השימוש והצהרת הפרטיות בעת הפעלת הדפדפן.
 policy-SSLVersionMax = הגדרת גרסת ה־SSL המקסימלית.
 policy-SSLVersionMin = הגדרת גרסת ה־SSL המינימלית.
 policy-StartDownloadsInTempDirectory = לכפות על הורדות להתחיל במיקום מקומי וזמני במקום בתיקיית ההורדות המוגדרת כברירת המחדל.

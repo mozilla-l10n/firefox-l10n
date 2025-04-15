@@ -20,7 +20,9 @@ about-logging-preset-networking-cookie-label = കുക്കികള്‍
 about-logging-preset-windows-label = Windows
 about-logging-preset-custom-label = ഇഷ്ടാനുസൃതം
 
-## Variables:
-##   $k (String) - Variable name
-##   $v (String) - Variable value
+##
+
+
+## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
+## set to true. It is false by default, except on Android.
 

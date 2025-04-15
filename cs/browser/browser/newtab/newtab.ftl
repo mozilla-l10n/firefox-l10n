@@ -541,3 +541,6 @@ newtab-custom-wallpaper-subtitle =
        *[no-cases] Nahrajte si vlastní tapetu nebo si vyberte vlastní barvu, aby aplikace { -brand-product-name } byla podle vás.
     }
 newtab-custom-wallpaper-cta = Vyzkoušejte ho
+
+## Strings for reporting ads and content
+

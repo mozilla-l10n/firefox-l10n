@@ -477,3 +477,6 @@ newtab-section-manage-topics-button-v2 =
 newtab-section-mangage-topics-followed-topics = Հետևված
 newtab-section-mangage-topics-blocked-topics = Արգելափակված
 newtab-custom-wallpaper-cta = Փորձել
+
+## Strings for reporting ads and content
+

@@ -132,7 +132,6 @@ policy-SecurityDevices2 = Tilføj eller slet PKCS #11-moduler
 policy-ShowHomeButton = Vis hjem-knappen på værktøjslinjen.
 # ”You represent that...” means ”You confirm/declare that...”
 policy-SkipTermsOfUse2 = Vis ikke Betingelser for brug og Privatlivserklæringen ved opstart. Du tilkendegiver, at du accepterer og har autoritet til at acceptere Betingelser for brug på vegne af alle brugere, du giver adgang til denne browser.
-policy-SkipTermsOfUse = Vis ikke Betingelser for brug og Privatlivserklæringen ved opstart.
 policy-SSLVersionMax = Angiv den højeste SSL-version.
 policy-SSLVersionMin = Angiv den laveste SSL-version.
 policy-StartDownloadsInTempDirectory = Tving filhentninger til at starte i en lokal, midlertidig placering i stedet for standard-mappen for filhentninger.

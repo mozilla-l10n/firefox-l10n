@@ -231,3 +231,6 @@ newtab-custom-settings = Xestionar más axustes
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+
+## Strings for reporting ads and content
+

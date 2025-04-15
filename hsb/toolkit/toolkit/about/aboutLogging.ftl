@@ -58,9 +58,7 @@ about-logging-preset-custom-description = Protokolowe module manuelnje wubrane
 # Error handling
 about-logging-error = Zmylk:
 
-## Variables:
-##   $k (String) - Variable name
-##   $v (String) - Variable value
+##
 
 about-logging-invalid-output = Njepłaćiwa hódnota “{ $v }“ za kluč “{ $k }“
 about-logging-unknown-logging-preset = Njeznate protokolowanske přednastajenje „{ $v }“
@@ -69,3 +67,7 @@ about-logging-unknown-option = Njeznate nastajenje about:logging „{ $k }“
 about-logging-configuration-url-ignored = Konfiguraciski URL ignorowany
 about-logging-file-and-profiler-override = Wudawanje a přepisowanje nastajenjow wukonoweje analyzy njedatej so naraz wunuzować
 about-logging-configured-via-url = Přez URL skonfigurowane nastajenje
+
+## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
+## set to true. It is false by default, except on Android.
+

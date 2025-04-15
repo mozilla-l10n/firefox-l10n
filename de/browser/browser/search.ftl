@@ -34,6 +34,11 @@ removed-search-engine-message = <strong>Ihre Standardsuchmaschine wurde geänder
 removed-search-engine-message2 = <strong>Ihre Standardsuchmaschine wurde geändert.</strong> { $oldEngine } ist in { -brand-short-name } nicht mehr als Standardsuchmaschine verfügbar. { $newEngine } ist jetzt Ihre Standardsuchmaschine. Die Standardsuchmaschine kann in den Einstellungen geändert werden.
 remove-search-engine-button = OK
 
+## Infobar shown when default search engine is reset due to an issue reading the settings file.
+## Variables
+## $newEngine (String) - the name of the new default search engine.
+
+
 ## Infobar shown when user is prompted to install search engine.
 ## Variables
 ## $engineName (String) - the name of the search engine to install.

@@ -58,9 +58,7 @@ about-logging-preset-custom-description = Logboekmodulen hânmjittich selektearr
 # Error handling
 about-logging-error = Flater:
 
-## Variables:
-##   $k (String) - Variable name
-##   $v (String) - Variable value
+##
 
 about-logging-invalid-output = Unjildige wearde ‘{ $v }’ foar kaai ‘{ $k }’
 about-logging-unknown-logging-preset = Unbekende foarynstelling logging ‘{ $v }’
@@ -69,3 +67,7 @@ about-logging-unknown-option = Unbekende about:logging-opsje ‘{ $k }’
 about-logging-configuration-url-ignored = Konfiguraasje-URL negearre
 about-logging-file-and-profiler-override = Kin net tagelyk bestânsútfier forsearje en profileropsjes oerskriuwe
 about-logging-configured-via-url = Opsje konfigurearre fia URL
+
+## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
+## set to true. It is false by default, except on Android.
+

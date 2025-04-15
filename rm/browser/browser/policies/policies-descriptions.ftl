@@ -132,7 +132,6 @@ policy-SecurityDevices2 = Agiuntar u stizzar moduls PKCS #11.
 policy-ShowHomeButton = Mussar il buttun da la pagina da partenza en la trav d'utensils.
 # ”You represent that...” means ”You confirm/declare that...”
 policy-SkipTermsOfUse2 = Betg mussar las cundiziuns d’utilisaziun e la decleraziun davart la protecziun da datas cun aviar. Ti decleras che ti acceptias e che ti hajas l’autoritad d’acceptar las cundiziuns d’utilisaziun en il num da tut las persunas a las qualas ti das access a quest navigatur.
-policy-SkipTermsOfUse = Betg mussar las cundiziuns d’utilisaziun e la decleraziun davart la protecziun da datas cun aviar.
 policy-SSLVersionMax = Definir la versiun maximala da SSL.
 policy-SSLVersionMin = Definir la versiun minimala da SSL.
 policy-StartDownloadsInTempDirectory = Sfurzar las telechargias en in lieu local, temporar empè da las cumenzar en l'ordinatur da telechargiadas predefinì.

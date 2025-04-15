@@ -58,9 +58,7 @@ about-logging-preset-custom-description = Moduls da protocollaziun tschernids ma
 # Error handling
 about-logging-error = Errur:
 
-## Variables:
-##   $k (String) - Variable name
-##   $v (String) - Variable value
+##
 
 about-logging-invalid-output = Valur nunvalida «{ $v }» per la clav «{ $k }»
 about-logging-unknown-logging-preset = Preselecziun da protocollaziun «{ $v }» nunenconuschenta
@@ -69,3 +67,7 @@ about-logging-unknown-option = Opziun about:logging «{ $k }» nunenconuschenta
 about-logging-configuration-url-ignored = Ignorà l'URL da configuraziun
 about-logging-file-and-profiler-override = Impussibel da sfurzar da scriver ina datoteca e remplazzar il medem mument las opziuns dal profiler
 about-logging-configured-via-url = Opziun configurada via URL
+
+## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
+## set to true. It is false by default, except on Android.
+

@@ -530,3 +530,6 @@ newtab-custom-wallpaper-title = Custom wallpapers are here
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Upload your own wallpaper or pick a custom colour to make { -brand-product-name } yours.
 newtab-custom-wallpaper-cta = Try it
+
+## Strings for reporting ads and content
+

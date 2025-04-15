@@ -434,3 +434,6 @@ newtab-topic-selection-button-maybe-later = Potser més tard
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+
+## Strings for reporting ads and content
+

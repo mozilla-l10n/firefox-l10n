@@ -190,3 +190,6 @@ newtab-pocket-cta-button = { -pocket-brand-name } ला
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+
+## Strings for reporting ads and content
+

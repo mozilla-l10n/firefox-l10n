@@ -60,9 +60,7 @@ about-logging-preset-custom-description = Kézzel kiválasztott naplómodulok
 # Error handling
 about-logging-error = Hiba:
 
-## Variables:
-##   $k (String) - Variable name
-##   $v (String) - Variable value
+##
 
 about-logging-invalid-output = Érvénytelen „{ $v }“ érték a(z) „{ $k }“ kulcshoz
 about-logging-unknown-logging-preset = Ismeretlen „{ $v }” naplózási előbeállítás
@@ -71,3 +69,7 @@ about-logging-unknown-option = Ismeretlen „{ $k }” about:logging kapcsoló
 about-logging-configuration-url-ignored = Konfigurációs webcím figyelmen kívül hagyva
 about-logging-file-and-profiler-override = Nem lehet egyszerre kényszeríteni a fájlkimenetet és felülbírálni a profilozó beállításait
 about-logging-configured-via-url = Webcím alapján beállított kapcsoló
+
+## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
+## set to true. It is false by default, except on Android.
+

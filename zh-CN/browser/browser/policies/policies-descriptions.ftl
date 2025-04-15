@@ -132,7 +132,6 @@ policy-SecurityDevices2 = 添加或删除 PKCS #11 模块。
 policy-ShowHomeButton = 在工具栏显示“主页”按钮
 # ”You represent that...” means ”You confirm/declare that...”
 policy-SkipTermsOfUse2 = 启动时不显示使用条款和隐私声明。通过启用此策略，您声明自己接受使用条款；若您将此浏览器提供给其他人使用，则还需确认自己有权代表所有相关个人接受使用条款。
-policy-SkipTermsOfUse = 启动时不显示使用条款和隐私声明。
 policy-SSLVersionMax = 设置最高 SSL 版本。
 policy-SSLVersionMin = 设置最低 SSL 版本。
 policy-StartDownloadsInTempDirectory = 强制下载至本地临时文件夹，而非默认下载路径。

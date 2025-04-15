@@ -529,3 +529,6 @@ newtab-custom-wallpaper-title = Hình nền tùy chỉnh ở đây
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Tải lên hình nền của bạn hoặc chọn một màu tùy chỉnh để biến { -brand-product-name } thành của riêng bạn.
 newtab-custom-wallpaper-cta = Thử ngay
+
+## Strings for reporting ads and content
+

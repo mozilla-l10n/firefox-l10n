@@ -34,6 +34,11 @@ removed-search-engine-message = <strong>Vaš privzeti iskalnik se je zamenjal.</
 removed-search-engine-message2 = <strong>Vaš privzeti iskalnik se je zamenjal.</strong>{ $oldEngine } ni več na voljo za privzeti iskalnik v { -brand-short-name(sklon: "mestnik") }. Privzeti iskalnik je zdaj { $newEngine }. Drug privzeti iskalnik lahko izberete v nastavitvah.
 remove-search-engine-button = V redu
 
+## Infobar shown when default search engine is reset due to an issue reading the settings file.
+## Variables
+## $newEngine (String) - the name of the new default search engine.
+
+
 ## Infobar shown when user is prompted to install search engine.
 ## Variables
 ## $engineName (String) - the name of the search engine to install.

@@ -34,6 +34,11 @@ removed-search-engine-message = <strong>ਤੁਹਾਡਾ ਮੂਲ ਖੋਜ �
 removed-search-engine-message2 = <strong>ਤੁਹਾਡਾ ਮੂਲ ਖੋਜ ਇੰਜਣ ਬਦਲਿਆ ਗਿਆ ਹੈ।</strong>{ $oldEngine } { -brand-short-name } ਵਿੱਚ ਮੂਲ ਖੋਜ ਇੰਜਣ ਵਜੋਂ ਕੰਮ ਨਹੀਂ ਕਰ ਰਿਹਾ ਹੈ। { $newEngine } ਹੁਣ ਤੁਹਾਡਾ ਮੂਲ ਖੋਜ ਇੰਜਣ ਹੈ। ਹੋਰ ਮੂਲ ਖੋਜ ਇੰਜਣ ਬਦਲਣ ਲਈ ਸੈਟਿੰਗਾਂ ਉੱਤੇ ਜਾਓ।
 remove-search-engine-button = ਠੀਕ ਹੈ
 
+## Infobar shown when default search engine is reset due to an issue reading the settings file.
+## Variables
+## $newEngine (String) - the name of the new default search engine.
+
+
 ## Infobar shown when user is prompted to install search engine.
 ## Variables
 ## $engineName (String) - the name of the search engine to install.

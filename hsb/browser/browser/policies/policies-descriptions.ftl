@@ -132,7 +132,6 @@ policy-SecurityDevices2 = Přidajće abo zhašejće module PKCS #11.
 policy-ShowHomeButton = Tłóčatko startoweje strony na symbolowej lajsće pokazać.
 # ”You represent that...” means ”You confirm/declare that...”
 policy-SkipTermsOfUse2 = Njepokazujće wužiwanske wuměnjenja a zdźělenku priwatnosće při startowanju. Deklarujeće, zo wužiwanske wuměnjenja akceptujeće a maće awtoritu je akceptować, w mjenje wšěch wosobow, kotrymž přistup k tutomu wobhladowakej dawaće.
-policy-SkipTermsOfUse = Wužiwanske wuměnjenja a zdźělenku priwatnosće při startowanju njepokazać.
 policy-SSLVersionMax = Nastajće maksimalnu SSL-wersiju.
 policy-SSLVersionMin = Nastajće minimalnu SSL-wersiju.
 policy-StartDownloadsInTempDirectory = Sćehnjenja nućić, zo bychu w lokalnym, nachwilnym městnje město w standardnym zapisu sćehnjenjow započeli.

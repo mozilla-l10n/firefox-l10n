@@ -530,3 +530,6 @@ newtab-custom-wallpaper-title = Hjir fine jo oanpaste eftergrûnen
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Laad jo eigen eftergrûn op of kies in oanpaste kleur om { -brand-product-name } fan josels te meitsjen.
 newtab-custom-wallpaper-cta = Probearje
+
+## Strings for reporting ads and content
+

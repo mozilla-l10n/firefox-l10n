@@ -480,3 +480,6 @@ newtab-section-cancel-button = Ne tagad
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+
+## Strings for reporting ads and content
+

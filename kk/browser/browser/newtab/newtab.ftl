@@ -505,3 +505,6 @@ newtab-section-cancel-button = Қазір емес
 ## Panel in the Customize menu section to manage followed and blocked topics
 
 newtab-section-mangage-topics-title = Тақырыптар
+
+## Strings for reporting ads and content
+

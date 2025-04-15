@@ -34,6 +34,11 @@ removed-search-engine-message = <strong>เครื่องมือค้น�
 removed-search-engine-message2 = <strong>เครื่องมือค้นหาเริ่มต้นของคุณได้ถูกเปลี่ยนแล้ว</strong> เนื่องจากใน { -brand-short-name } ไม่มี { $oldEngine } ให้ใช้เป็นเครื่องมือค้นหาเริ่มต้นอีกต่อไป ขณะนี้ { $newEngine } คือเครื่องมือค้นหาเริ่มต้นของคุณ เมื่อต้องการเปลี่ยนเป็นเครื่องมือค้นหาเริ่มต้นอื่น ให้ไปที่การตั้งค่า
 remove-search-engine-button = ตกลง
 
+## Infobar shown when default search engine is reset due to an issue reading the settings file.
+## Variables
+## $newEngine (String) - the name of the new default search engine.
+
+
 ## Infobar shown when user is prompted to install search engine.
 ## Variables
 ## $engineName (String) - the name of the search engine to install.

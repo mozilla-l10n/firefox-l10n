@@ -529,3 +529,6 @@ newtab-custom-wallpaper-title = Користувацькі шпалери
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Вивантажте власне зображення або виберіть особливий колір, щоб персоналізувати { -brand-product-name }.
 newtab-custom-wallpaper-cta = Спробувати
+
+## Strings for reporting ads and content
+

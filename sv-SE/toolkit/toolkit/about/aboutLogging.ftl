@@ -58,9 +58,7 @@ about-logging-preset-custom-description = Loggmoduler manuellt valda
 # Error handling
 about-logging-error = Fel:
 
-## Variables:
-##   $k (String) - Variable name
-##   $v (String) - Variable value
+##
 
 about-logging-invalid-output = Ogiltigt värde "{ $v }" för nyckeln "{ $k }"
 about-logging-unknown-logging-preset = Okänd förinställning av logg "{ $v }"
@@ -69,3 +67,7 @@ about-logging-unknown-option = Okänt alternativ för about:logging "{ $k }"
 about-logging-configuration-url-ignored = Konfigurations-URL ignoreras
 about-logging-file-and-profiler-override = Det går inte att tvinga fram filutmatning och åsidosätta profileringsalternativ samtidigt
 about-logging-configured-via-url = Alternativ konfigurerat via URL
+
+## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
+## set to true. It is false by default, except on Android.
+

@@ -503,3 +503,6 @@ newtab-section-mangage-topics-followed-topics = Praćene
 newtab-section-mangage-topics-followed-topics-empty-state = Još nisi pratio/la nijednu temu.
 newtab-section-mangage-topics-blocked-topics = Blokirane
 newtab-section-mangage-topics-blocked-topics-empty-state = Još nisi blokirao/la nijednu temu.
+
+## Strings for reporting ads and content
+

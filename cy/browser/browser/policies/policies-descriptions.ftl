@@ -132,7 +132,6 @@ policy-SecurityDevices2 = Ychwanegu neu ddileu modiwlau PKCS #11.
 policy-ShowHomeButton = Dangos y botwm cartref ar y bar offer.
 # ”You represent that...” means ”You confirm/declare that...”
 policy-SkipTermsOfUse2 = Peidiwch a dangos y Telerau Defnyddio a'r Hysbysiad Preifatrwydd wrth gychwyn. Rydych yn dweud eich bod yn derbyn a bod gennych yr awdurdod i dderbyn y Telerau Defnyddio ar ran yr holl unigolion rydych yn darparu mynediad iddyn nhw i'r porwr hwn.
-policy-SkipTermsOfUse = Peidiwch â dangos y Telerau Defnyddio a'r Hysbysiad Preifatrwydd wrth gychwyn.
 policy-SSLVersionMax = Gosodwch y fersiwn SSL uchaf.
 policy-SSLVersionMin = Gosodwch y fersiwn SSL lleiaf.
 policy-StartDownloadsInTempDirectory = Gorfodi llwytho i lawr i gychwyn mewn lleoliad lleol, dros dro yn hytrach na'r cyfeiriadur llwytho i lawr rhagosodedig.

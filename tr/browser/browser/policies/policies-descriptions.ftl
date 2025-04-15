@@ -132,7 +132,6 @@ policy-SecurityDevices2 = PKCS #11 modülü ekle veya sil.
 policy-ShowHomeButton = Araç çubuğunda giriş sayfası düğmesini göster.
 # ”You represent that...” means ”You confirm/declare that...”
 policy-SkipTermsOfUse2 = Başlangıçta Kullanım Koşulları ve Gizlilik Bildirimi’ni gösterme. Bu tarayıcıya erişim izni verdiğiniz tüm kişiler adına Kullanım Koşulları’nı kabul ettiğinizi ve kabul etme yetkiniz olduğunu onaylamış olursunuz.
-policy-SkipTermsOfUse = Kullanım Koşulları’nı ve Gizlilik Bildirimi’ni başlangıçta gösterme.
 policy-SSLVersionMax = Maksimum SSL sürümünü ayarla.
 policy-SSLVersionMin = Minimum SSL sürümünü ayarla.
 policy-StartDownloadsInTempDirectory = İndirmeleri varsayılan indirme dizini yerine geçici bir yerel konumda başlat.

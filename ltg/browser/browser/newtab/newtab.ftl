@@ -227,3 +227,6 @@ newtab-error-fallback-refresh-link = Porlōdej lopu, kab paraudzēt par jaunu.
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+
+## Strings for reporting ads and content
+

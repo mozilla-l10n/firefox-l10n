@@ -523,3 +523,6 @@ newtab-custom-wallpaper-title = Mbërritën sfonde vetjake
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Ngarkoni sfondin tuaj vetjak, ose zgjidhni një ngjyrë vetjake, për ta bërë { -brand-product-name }-in si e doni.
 newtab-custom-wallpaper-cta = Provojeni
+
+## Strings for reporting ads and content
+

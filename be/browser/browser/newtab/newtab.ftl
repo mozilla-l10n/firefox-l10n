@@ -525,3 +525,6 @@ newtab-section-mangage-topics-followed-topics = Падпіскі
 newtab-section-mangage-topics-followed-topics-empty-state = Вы яшчэ не падпісаліся ні на адну тэму.
 newtab-section-mangage-topics-blocked-topics = Заблакаваны
 newtab-section-mangage-topics-blocked-topics-empty-state = Вы яшчэ не заблакавалі ніводнай тэмы.
+
+## Strings for reporting ads and content
+

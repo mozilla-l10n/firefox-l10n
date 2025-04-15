@@ -524,3 +524,6 @@ newtab-section-mangage-topics-followed-topics = Obserwowane
 newtab-section-mangage-topics-followed-topics-empty-state = Żadne tematy nie są jeszcze obserwowane.
 newtab-section-mangage-topics-blocked-topics = Zablokowane
 newtab-section-mangage-topics-blocked-topics-empty-state = Żadne tematy nie są jeszcze zablokowane.
+
+## Strings for reporting ads and content
+

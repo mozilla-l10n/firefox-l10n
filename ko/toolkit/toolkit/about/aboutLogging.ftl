@@ -58,9 +58,7 @@ about-logging-preset-custom-description = 수동으로 선택한 로그 모듈
 # Error handling
 about-logging-error = 오류:
 
-## Variables:
-##   $k (String) - Variable name
-##   $v (String) - Variable value
+##
 
 about-logging-invalid-output = “{ $k }“ 키에 대한 잘못된 값 “{ $v }“
 about-logging-unknown-logging-preset = 알 수 없는 로깅 프리셋 “{ $v }“
@@ -69,3 +67,7 @@ about-logging-unknown-option = 알 수 없는 about:logging 옵션 “{ $k }“
 about-logging-configuration-url-ignored = 구성 URL이 무시됨
 about-logging-file-and-profiler-override = 파일 출력을 강제하고 동시에 프로파일러 옵션을 재정의할 수는 없음
 about-logging-configured-via-url = URL을 통해 구성된 옵션
+
+## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
+## set to true. It is false by default, except on Android.
+

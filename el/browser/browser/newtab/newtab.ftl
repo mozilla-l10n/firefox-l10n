@@ -530,3 +530,6 @@ newtab-custom-wallpaper-title = Οι προσαρμοσμένες ταπετσα
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Μεταφορτώστε τη δική σας ταπετσαρία ή επιλέξτε ένα προσαρμοσμένο χρώμα για να κάνετε το { -brand-product-name } δικό σας.
 newtab-custom-wallpaper-cta = Δοκιμή
+
+## Strings for reporting ads and content
+

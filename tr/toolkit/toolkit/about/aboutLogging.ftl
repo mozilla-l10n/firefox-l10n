@@ -60,9 +60,7 @@ about-logging-preset-custom-description = Log modüllerini kendim seçeceğim
 # Error handling
 about-logging-error = Hata:
 
-## Variables:
-##   $k (String) - Variable name
-##   $v (String) - Variable value
+##
 
 about-logging-invalid-output = “{ $k }“ anahtarı için geçersiz “{ $v }“ değeri
 about-logging-unknown-logging-preset = Bilinmeyen log kaydı ön ayarı “{ $v }“
@@ -71,3 +69,7 @@ about-logging-unknown-option = Bilinmeyen about:logging seçeneği “{ $k }“
 about-logging-configuration-url-ignored = Yapılandırma URL’si yok sayıldı
 about-logging-file-and-profiler-override = Aynı anda dosya çıktısı zorlanamaz ve profiler seçenekleri geçersiz kılınamaz
 about-logging-configured-via-url = Seçenek URL aracılığıyla yapılandırıldı
+
+## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
+## set to true. It is false by default, except on Android.
+

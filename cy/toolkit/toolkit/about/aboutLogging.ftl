@@ -58,9 +58,7 @@ about-logging-preset-custom-description = Modiwlau cofnodion wedi'u dewis â lla
 # Error handling
 about-logging-error = Gwall:
 
-## Variables:
-##   $k (String) - Variable name
-##   $v (String) - Variable value
+##
 
 about-logging-invalid-output = Gwerth annilys “{ $v }“ ar gyfer allwedd “{ $k }“
 about-logging-unknown-logging-preset = Rhagosodiad cofnodi anhysbys “{ $v }“
@@ -69,3 +67,7 @@ about-logging-unknown-option = Dewis about:logging anhysbys “{ $k }“
 about-logging-configuration-url-ignored = Anwybyddwyd URL ffurfweddiad
 about-logging-file-and-profiler-override = Methu â gorfodi allbwn ffeil a diystyru dewisiadau proffiliwr ar yr un pryd
 about-logging-configured-via-url = Dewis wedi'i ffurfweddu trwy URL
+
+## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
+## set to true. It is false by default, except on Android.
+

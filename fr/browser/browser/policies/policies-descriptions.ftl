@@ -132,7 +132,6 @@ policy-SecurityDevices2 = Ajouter ou supprimer des modules PKCS #11.
 policy-ShowHomeButton = Afficher le bouton d’accueil dans la barre d’outils.
 # ”You represent that...” means ”You confirm/declare that...”
 policy-SkipTermsOfUse2 = Ne pas afficher les conditions d’utilisation et la politique de confidentialité au démarrage. Vous déclarez accepter et avoir l’autorité pour accepter les conditions d’utilisation au nom de toutes les personnes à qui vous donnez accès à ce navigateur.
-policy-SkipTermsOfUse = Ne pas afficher les conditions d’utilisation et la politique de confidentialité au démarrage.
 policy-SSLVersionMax = Définir la version maximale de SSL à utiliser.
 policy-SSLVersionMin = Définir la version minimale de SSL à utiliser.
 policy-StartDownloadsInTempDirectory = Forcer les téléchargements à démarrer dans un emplacement temporaire local plutôt que dans le dossier de téléchargement par défaut.

@@ -58,9 +58,7 @@ about-logging-preset-custom-description = Вручную выбранные мо
 # Error handling
 about-logging-error = Ошибка:
 
-## Variables:
-##   $k (String) - Variable name
-##   $v (String) - Variable value
+##
 
 about-logging-invalid-output = Недопустимое значение «{ $v }» для ключа «{ $k }»
 about-logging-unknown-logging-preset = Неизвестная предустановка ведения журнала «{ $v }»
@@ -69,3 +67,7 @@ about-logging-unknown-option = Неизвестная настройка about:l
 about-logging-configuration-url-ignored = Сетевой адрес конфигурации проигнорирован
 about-logging-file-and-profiler-override = Невозможно одновременно принудительно вывести в файл и переопределить настройки профайлера.
 about-logging-configured-via-url = Опция настроена через сетевой адрес
+
+## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
+## set to true. It is false by default, except on Android.
+

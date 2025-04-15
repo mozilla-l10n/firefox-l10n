@@ -531,3 +531,6 @@ newtab-custom-wallpaper-title = Nu kan du vælge din egen baggrund
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Upload din egen baggrund eller vælg en farve for at gøre { -brand-product-name } til din egen.
 newtab-custom-wallpaper-cta = Prøv det
+
+## Strings for reporting ads and content
+

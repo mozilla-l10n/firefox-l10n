@@ -490,3 +490,6 @@ newtab-section-mangage-topics-followed-topics = Sighidu
 newtab-section-mangage-topics-followed-topics-empty-state = Non ses ancora sighende nissunu argumentu
 newtab-section-mangage-topics-blocked-topics = Blocadu
 newtab-section-mangage-topics-blocked-topics-empty-state = No as ancora blocadu nissunu argumentu
+
+## Strings for reporting ads and content
+

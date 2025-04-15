@@ -514,3 +514,6 @@ newtab-section-mangage-topics-followed-topics = Fulgt
 newtab-section-mangage-topics-followed-topics-empty-state = Du har ikke fulgt noen emner ennå.
 newtab-section-mangage-topics-blocked-topics = Blokkert
 newtab-section-mangage-topics-blocked-topics-empty-state = Du har ikke blokkert noen emner ennå.
+
+## Strings for reporting ads and content
+

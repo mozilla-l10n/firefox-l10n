@@ -34,6 +34,11 @@ removed-search-engine-message = <strong>Vaikeotsingumootorit on muudetud</strong
 removed-search-engine-message2 = <strong>Vaikeotsingumootorit on muudetud</strong>. Otsingumootor { $oldEngine } ei ole enam { -brand-short-name }is vaikeotsingumootorina saadaval. Sinu uueks vaikeotsingumootoriks on { $newEngine }. Teisele vaikeotsingumootorile vahetamiseks ava sätted.
 remove-search-engine-button = Sobib
 
+## Infobar shown when default search engine is reset due to an issue reading the settings file.
+## Variables
+## $newEngine (String) - the name of the new default search engine.
+
+
 ## Infobar shown when user is prompted to install search engine.
 ## Variables
 ## $engineName (String) - the name of the search engine to install.

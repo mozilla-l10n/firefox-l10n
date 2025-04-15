@@ -224,3 +224,6 @@ newtab-custom-close-button = ବନ୍ଦ କରନ୍ତୁ
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+
+## Strings for reporting ads and content
+

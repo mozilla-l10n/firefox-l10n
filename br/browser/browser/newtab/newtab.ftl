@@ -425,3 +425,6 @@ newtab-section-block-topic-button = Stankañ { $topic }
 
 newtab-section-mangage-topics-followed-topics = O heuliañ
 newtab-section-mangage-topics-blocked-topics = Stanket
+
+## Strings for reporting ads and content
+

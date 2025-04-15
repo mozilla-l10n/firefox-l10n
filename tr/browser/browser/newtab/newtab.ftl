@@ -526,3 +526,6 @@ newtab-custom-wallpaper-title = Artık kendi duvar kâğıtlarınızı kullanabi
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = { -brand-product-name } tarayıcınızı kişiselleştirmek için kendi duvar kâğıdınızı yükleyin veya istediğiniz rengi seçin.
 newtab-custom-wallpaper-cta = Deneyin
+
+## Strings for reporting ads and content
+

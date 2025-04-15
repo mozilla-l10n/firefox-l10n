@@ -24,6 +24,11 @@ opensearch-error-download-desc = চিহ্নিত স্থানৰ পৰ
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
 
+## Infobar shown when default search engine is reset due to an issue reading the settings file.
+## Variables
+## $newEngine (String) - the name of the new default search engine.
+
+
 ## Infobar shown when user is prompted to install search engine.
 ## Variables
 ## $engineName (String) - the name of the search engine to install.

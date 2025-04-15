@@ -531,3 +531,6 @@ newtab-custom-wallpaper-title = Пользовательские обои зде
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Загрузите свои обои или выберите цвет оформления, чтобы настроить { -brand-product-name } под себя.
 newtab-custom-wallpaper-cta = Попробовать
+
+## Strings for reporting ads and content
+

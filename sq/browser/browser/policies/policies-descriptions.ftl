@@ -130,7 +130,6 @@ policy-SearchSuggestEnabled = Aktivizoni ose çaktivizoni sugjerime kërkimi.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Shtoni, ose fshini module PKCS #11.
 policy-ShowHomeButton = Shfaqe butonin Shtëpi te paneli.
-policy-SkipTermsOfUse = Gjatë nisjes mos shfaq Kushtet e Përdorimit dhe Shënim Mbi Privatësinë.
 policy-SSLVersionMax = Caktoni version maksimum SSL-je.
 policy-SSLVersionMin = Caktoni version minimum SSL-je.
 policy-StartDownloadsInTempDirectory = Detyroji shkarkimet të nisin në një vendndodhje lokale të përkohshme, në vend se në drejtorinë parazgjedhje të shkarkimeve.

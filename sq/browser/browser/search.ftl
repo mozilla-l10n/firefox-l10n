@@ -34,6 +34,11 @@ removed-search-engine-message = <strong>Motori juaj parazgjedhje i kërkimeve ë
 removed-search-engine-message2 = <strong>Motori juaj parazgjedhje i kërkimeve është ndryshuar.</strong> { $oldEngine } s’është më motor parazgjedhje kërkimesh në { -brand-short-name }. { $newEngine } është tani motori juaj parazgjedhje i kërkimeve. Që ta ndryshoni në një tjetër motor parazgjedhje kërkimesh, kaloni te rregullimet.
 remove-search-engine-button = OK
 
+## Infobar shown when default search engine is reset due to an issue reading the settings file.
+## Variables
+## $newEngine (String) - the name of the new default search engine.
+
+
 ## Infobar shown when user is prompted to install search engine.
 ## Variables
 ## $engineName (String) - the name of the search engine to install.

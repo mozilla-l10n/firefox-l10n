@@ -56,9 +56,7 @@ about-logging-preset-custom-description = Ръчно избрани модули
 # Error handling
 about-logging-error = Грешка:
 
-## Variables:
-##   $k (String) - Variable name
-##   $v (String) - Variable value
+##
 
 about-logging-invalid-output = Неприемлива стойност „{ $v }“ за ключа „{ $k }“
 about-logging-unknown-logging-preset = Неизвестна настройка на дневника „{ $v }“
@@ -67,3 +65,7 @@ about-logging-unknown-option = Неизвестна настройка на abou
 about-logging-configuration-url-ignored = Адресът с настройки е пренебрегнат
 about-logging-file-and-profiler-override = Не може принудително да бъде изведен дневника във файл и едновременно с това да бъдат налагани нови настройки на профилатора
 about-logging-configured-via-url = Настройката е зададена чрез адрес
+
+## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
+## set to true. It is false by default, except on Android.
+

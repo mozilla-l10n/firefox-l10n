@@ -57,9 +57,7 @@ about-logging-preset-custom-description = Mboheraguapy ra’ãha pópe poravopyr
 # Error handling
 about-logging-error = Javy:
 
-## Variables:
-##   $k (String) - Variable name
-##   $v (String) - Variable value
+##
 
 about-logging-invalid-output = Tepykue oiko’ỹva “{ $v }“ “{ $k }“ mba’eñemíme g̃uarã
 about-logging-unknown-logging-preset = Tepykue ypygua tembiapo ñepyrũ ojekuaa’ỹva “{ $v }“
@@ -68,3 +66,7 @@ about-logging-unknown-option = Poravopyrã about:logging ojekuaa’ỹva “{ $k
 about-logging-configuration-url-ignored = Ñembohekopyahu hejapyre URL
 about-logging-file-and-profiler-override = Nerenohẽkuaái mbaretépe marandurendágui ha emboyke mbohapeha poravopyrã oñondive
 about-logging-configured-via-url = Poravopyrã mbohekopyahupyre URL rupive
+
+## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
+## set to true. It is false by default, except on Android.
+

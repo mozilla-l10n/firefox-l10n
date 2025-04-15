@@ -56,9 +56,7 @@ about-logging-preset-custom-description = Permane elekitaj registraj moduloj
 # Error handling
 about-logging-error = Eraro:
 
-## Variables:
-##   $k (String) - Variable name
-##   $v (String) - Variable value
+##
 
 about-logging-invalid-output = Nevalida valoro “{ $v }“ por ŝlosilo “{ $k }“
 about-logging-unknown-logging-preset = Nekonata antaŭdifinita agordo “{ $v }“
@@ -67,3 +65,7 @@ about-logging-unknown-option = Nekonata elekteblo de about:logging “{ $k }“
 about-logging-configuration-url-ignored = Ignorita agorda URL
 about-logging-file-and-profiler-override = Ne eblas registri en dosiero kaj samtempe superregi la elekteblojn de la rulanalizilo
 about-logging-configured-via-url = Elekteblo agordita per URL
+
+## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
+## set to true. It is false by default, except on Android.
+

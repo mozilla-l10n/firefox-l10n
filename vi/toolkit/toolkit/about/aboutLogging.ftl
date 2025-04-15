@@ -58,9 +58,7 @@ about-logging-preset-custom-description = Ghi nhật ký các module được ch
 # Error handling
 about-logging-error = Lỗi:
 
-## Variables:
-##   $k (String) - Variable name
-##   $v (String) - Variable value
+##
 
 about-logging-invalid-output = Giá trị không hợp lệ “{ $v }“ cho khóa “{ $k }“
 about-logging-unknown-logging-preset = Cài đặt trước ghi nhật ký không xác định “{ $v }“
@@ -69,3 +67,7 @@ about-logging-unknown-option = Tùy chọn about:logging không xác định “
 about-logging-configuration-url-ignored = URL cấu hình bị bỏ qua
 about-logging-file-and-profiler-override = Không thể buộc nơi xuất tập tin và ghi đè các tùy chọn profiler cùng một lúc
 about-logging-configured-via-url = Tùy chọn được định cấu hình qua URL
+
+## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
+## set to true. It is false by default, except on Android.
+

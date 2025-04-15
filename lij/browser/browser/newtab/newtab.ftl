@@ -242,3 +242,6 @@ newtab-custom-pocket-title = Consegiou da { -pocket-brand-name }
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+
+## Strings for reporting ads and content
+

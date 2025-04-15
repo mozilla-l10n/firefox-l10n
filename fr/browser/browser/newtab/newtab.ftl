@@ -523,3 +523,6 @@ newtab-section-mangage-topics-followed-topics-empty-state = Vous n’avez pas en
 newtab-section-mangage-topics-blocked-topics = Bloqués
 newtab-section-mangage-topics-blocked-topics-empty-state = Vous n’avez pas encore bloqué de sujet.
 newtab-custom-wallpaper-cta = Essayer
+
+## Strings for reporting ads and content
+

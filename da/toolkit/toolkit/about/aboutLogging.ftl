@@ -60,9 +60,7 @@ about-logging-preset-custom-description = Manuelt valgte logmoduler
 # Error handling
 about-logging-error = Fejl:
 
-## Variables:
-##   $k (String) - Variable name
-##   $v (String) - Variable value
+##
 
 about-logging-invalid-output = Ugyldig værdi "{ $v }" for nøglen "{ $k }"
 about-logging-unknown-logging-preset = Ukendt forindstilling for logning: "{ $v }"
@@ -71,3 +69,7 @@ about-logging-unknown-option = Ukendt indstilling for about:logging: "{ $k }"
 about-logging-configuration-url-ignored = Konfigurations-URL blev ignoreret
 about-logging-file-and-profiler-override = Kan ikke gennemtvinge fil-output og tilsidesætte indstillinger for profilering samtidig
 about-logging-configured-via-url = Valg indstillet via URL
+
+## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
+## set to true. It is false by default, except on Android.
+

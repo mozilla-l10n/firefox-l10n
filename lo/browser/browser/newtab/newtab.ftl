@@ -304,3 +304,6 @@ newtab-custom-settings = ຈັດການການຕັ້ງຄ່າເພ�
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+
+## Strings for reporting ads and content
+

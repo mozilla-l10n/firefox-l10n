@@ -191,3 +191,6 @@ newtab-custom-settings = Bainistigh tuilleadh socruithe
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+
+## Strings for reporting ads and content
+

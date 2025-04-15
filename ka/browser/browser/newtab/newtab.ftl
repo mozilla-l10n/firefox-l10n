@@ -529,3 +529,6 @@ newtab-custom-wallpaper-title = მორგებული ფონები �
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = ატვირთეთ საკუთარი ფონი ან შეარჩიეთ სასურველი ფერი, რომ გახადოთ { -brand-product-name } მეტად თქვენებური.
 newtab-custom-wallpaper-cta = მოსინჯვა
+
+## Strings for reporting ads and content
+

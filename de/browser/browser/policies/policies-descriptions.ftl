@@ -132,7 +132,6 @@ policy-SecurityDevices2 = PKCS#11-Module hinzufügen oder löschen
 policy-ShowHomeButton = Schaltfläche "Startseite" in der Symbolleiste anzeigen
 # ”You represent that...” means ”You confirm/declare that...”
 policy-SkipTermsOfUse2 = Nutzungsbedingungen und Datenschutzhinweis nicht beim Start anzeigen. Sie erklären, dass Sie die Nutzungsbedingungen im Namen aller Personen akzeptieren, denen Sie Zugriff zu diesem Browser gewähren, und dazu befugt sind, diese stellvertretend zu akzeptieren.
-policy-SkipTermsOfUse = Nutzungsbedingungen und Datenschutzhinweis nicht beim Start anzeigen
 policy-SSLVersionMax = Höchste zu verwendende SSL-Version festlegen
 policy-SSLVersionMin = Niedrigste zu verwendende SSL-Version festlegen
 policy-StartDownloadsInTempDirectory = Erzwingen, dass Downloads an einem lokalen, temporären Speicherort und nicht im Standard-Download-Verzeichnis beginnen

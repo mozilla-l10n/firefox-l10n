@@ -528,3 +528,6 @@ newtab-section-mangage-topics-blocked-topics = Lokað á
 newtab-section-mangage-topics-blocked-topics-empty-state = Þú hefur ekki lokað á neitt umfjöllunarefni ennþá.
 newtab-custom-wallpaper-title = Sérsniðnir bakgrunnar eru hér
 newtab-custom-wallpaper-cta = Prófaðu það
+
+## Strings for reporting ads and content
+

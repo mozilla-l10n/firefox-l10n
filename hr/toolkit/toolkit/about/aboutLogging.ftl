@@ -27,9 +27,11 @@ about-logging-preset-custom-label = Prilagođeno
 # Error handling
 about-logging-error = Greška:
 
-## Variables:
-##   $k (String) - Variable name
-##   $v (String) - Variable value
+##
 
 about-logging-invalid-output = Neispravna vrijednost „{ $v }” za ključ „{ $k }”
 about-logging-unknown-option = Nepoznata about:logging opcija „{ $k }”
+
+## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
+## set to true. It is false by default, except on Android.
+

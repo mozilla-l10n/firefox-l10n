@@ -58,9 +58,7 @@ about-logging-preset-custom-description = Modul log dipilih secara manual
 # Error handling
 about-logging-error = Kesalahan:
 
-## Variables:
-##   $k (String) - Variable name
-##   $v (String) - Variable value
+##
 
 about-logging-invalid-output = Nilai tidak valid “{ $v }“ untuk kunci “{ $k }“
 about-logging-unknown-logging-preset = Prasetel logging tidak dikenal "{ $v }"
@@ -69,3 +67,7 @@ about-logging-unknown-option = Opsi about:logging tidak dikenal “{ $k }“
 about-logging-configuration-url-ignored = URL Konfigurasi diabaikan
 about-logging-file-and-profiler-override = Tidak dapat memaksa opsi output file dan menimpa profil secara bersamaan
 about-logging-configured-via-url = Opsi dikonfigurasi melalui URL
+
+## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
+## set to true. It is false by default, except on Android.
+

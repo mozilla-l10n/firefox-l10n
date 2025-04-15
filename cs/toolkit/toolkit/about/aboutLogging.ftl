@@ -58,9 +58,7 @@ about-logging-preset-custom-description = Ručně vybrané moduly protokolů
 # Error handling
 about-logging-error = Chyba:
 
-## Variables:
-##   $k (String) - Variable name
-##   $v (String) - Variable value
+##
 
 about-logging-invalid-output = Neplatná hodnota „{ $v }“ pro klíč „{ $k }“
 about-logging-unknown-logging-preset = Neznámá předvolba protokolování „{ $v }“
@@ -69,3 +67,7 @@ about-logging-unknown-option = Neznámá možnost „{ $k }“ stránky about:lo
 about-logging-configuration-url-ignored = Konfigurační URL adresa ignorována
 about-logging-file-and-profiler-override = Vynucení výstupu do souboru a nastavení profilování není zároveň možné
 about-logging-configured-via-url = Možnosti nastavené pomocí URL
+
+## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
+## set to true. It is false by default, except on Android.
+

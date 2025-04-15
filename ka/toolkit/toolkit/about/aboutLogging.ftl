@@ -58,9 +58,7 @@ about-logging-preset-custom-description = აღრიცხვის მოდ�
 # Error handling
 about-logging-error = შეცდომა:
 
-## Variables:
-##   $k (String) - Variable name
-##   $v (String) - Variable value
+##
 
 about-logging-invalid-output = არასწორი მნიშვნელობა „{ $v }“ მონაცემისთვის „{ $k }“
 about-logging-unknown-logging-preset = აღრიცხვის დაუდგენელი მზა პარამეტრები „{ $v }“
@@ -69,3 +67,7 @@ about-logging-unknown-option = დაუდგენელი about:logging-პ�
 about-logging-configuration-url-ignored = გამართვის ბმული უგულებელყოფილია
 about-logging-file-and-profiler-override = შეუძლებელია ფაილში გამოტანის იძულება და Profilier-პარამეტრების ჩანაცვლება ერთდროულად
 about-logging-configured-via-url = პარამეტრი გამართულია ბმულის მეშვეობით
+
+## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
+## set to true. It is false by default, except on Android.
+

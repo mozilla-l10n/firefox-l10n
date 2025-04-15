@@ -530,3 +530,6 @@ newtab-custom-wallpaper-title = Ussa pos ti utilisar funds davos persunalisads
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Transferescha tes agen maletg per il fund davos u tscherna ina colur tenor giavisch per persunalisar tes { -brand-product-name }.
 newtab-custom-wallpaper-cta = Empruvar
+
+## Strings for reporting ads and content
+

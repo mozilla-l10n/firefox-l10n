@@ -430,3 +430,6 @@ newtab-topic-selection-button-pick-interests = Изберете вашите и�
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+
+## Strings for reporting ads and content
+

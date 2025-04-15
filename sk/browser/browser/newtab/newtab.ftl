@@ -527,3 +527,6 @@ newtab-custom-wallpaper-title = Vlastné tapety sú tu
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Nahrajte svoju vlastnú tapetu alebo si vyberte vlastnú farbu a prispôsobte si svoj { -brand-product-name }.
 newtab-custom-wallpaper-cta = Vyskúšajte to
+
+## Strings for reporting ads and content
+

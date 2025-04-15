@@ -34,6 +34,11 @@ removed-search-engine-message = <strong>기본 검색 엔진이 변경되었습�
 removed-search-engine-message2 = <strong>기본 검색 엔진이 변경되었습니다.</strong> { $oldEngine } 검색 엔진은 { -brand-short-name }에서 더 이상 기본 검색 엔진으로 사용할 수 없습니다. { $newEngine } 검색 엔진이 이제 기본 검색 엔진입니다. 다른 기본 검색 엔진으로 변경하려면 설정으로 이동하세요.
 remove-search-engine-button = 확인
 
+## Infobar shown when default search engine is reset due to an issue reading the settings file.
+## Variables
+## $newEngine (String) - the name of the new default search engine.
+
+
 ## Infobar shown when user is prompted to install search engine.
 ## Variables
 ## $engineName (String) - the name of the search engine to install.

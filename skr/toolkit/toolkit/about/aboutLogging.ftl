@@ -58,9 +58,7 @@ about-logging-preset-custom-description = لاگ ماڈیولز دستی طور 
 # Error handling
 about-logging-error = نقص:
 
-## Variables:
-##   $k (String) - Variable name
-##   $v (String) - Variable value
+##
 
 about-logging-invalid-output = کلید "{ $k }" کیتے غلط قدر "{ $v }"
 about-logging-unknown-logging-preset = نامعلوم لاگنگ پری سیٹ "{ $v }"
@@ -69,3 +67,7 @@ about-logging-unknown-option = دے بارے اݨ ڄاتا: لاگنگ آپشن 
 about-logging-configuration-url-ignored = کنفیگریشن URL کوں نظر انداز کر ݙتا ڳیا ہے۔
 about-logging-file-and-profiler-override = ہک ای وقت وِچ فائل آؤٹ پٹ تے پروفائلر دے اختیارات کوں اوور رائیڈ نہیں کر سڳدے
 about-logging-configured-via-url = URL دے ذریعے آپشن کنفیگر کیتا ڳیا ہے۔
+
+## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
+## set to true. It is false by default, except on Android.
+

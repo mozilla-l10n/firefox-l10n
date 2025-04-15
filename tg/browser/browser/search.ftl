@@ -34,6 +34,11 @@ removed-search-engine-message = <strong>Низоми ҷустуҷӯии пешф
 removed-search-engine-message2 = <strong>Низоми ҷустуҷӯии пешфарзи шумо иваз шуд.</strong> «{ $oldEngine }» дигар дар «{ -brand-short-name }» ҳамчун низоми ҷустуҷӯии пешфарз дастнорас аст . Акнун «{ $newEngine }» низоми ҷустуҷӯии пешфарзи шумо мебошад. Барои иваз кардани он ба низоми ҷустуҷӯии пешфарзи дигар, ба Танзимот гузаред.
 remove-search-engine-button = ХУБ
 
+## Infobar shown when default search engine is reset due to an issue reading the settings file.
+## Variables
+## $newEngine (String) - the name of the new default search engine.
+
+
 ## Infobar shown when user is prompted to install search engine.
 ## Variables
 ## $engineName (String) - the name of the search engine to install.

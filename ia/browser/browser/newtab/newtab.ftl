@@ -526,3 +526,6 @@ newtab-custom-wallpaper-title = Ecce le fundos personalisate
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Carga tu proprie fundo o selige un color personalisate pro tu { -brand-product-name }.
 newtab-custom-wallpaper-cta = Prova lo
+
+## Strings for reporting ads and content
+

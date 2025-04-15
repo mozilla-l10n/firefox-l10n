@@ -58,9 +58,7 @@ about-logging-preset-custom-description = 手动选择的日志模块
 # Error handling
 about-logging-error = 错误：
 
-## Variables:
-##   $k (String) - Variable name
-##   $v (String) - Variable value
+##
 
 about-logging-invalid-output = 键“{ $v }”的值“{ $k }”无效
 about-logging-unknown-logging-preset = 日志记录预设置“{ $v }”未知
@@ -69,3 +67,7 @@ about-logging-unknown-option = about:logging 选项“{ $k }”未知
 about-logging-configuration-url-ignored = 已忽略配置 URL
 about-logging-file-and-profiler-override = 无法同时强制输出到文件并覆盖性能分析选项
 about-logging-configured-via-url = 通过 URL 配置的选项
+
+## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
+## set to true. It is false by default, except on Android.
+

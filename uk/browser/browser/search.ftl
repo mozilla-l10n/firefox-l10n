@@ -34,6 +34,11 @@ removed-search-engine-message = <strong>Типову пошукову систе
 removed-search-engine-message2 = <strong>Типову пошукову систему змінено.</strong> { $oldEngine } більше не доступна як типова пошукова система { -brand-short-name }. Відтепер ваша типова пошукова система – { $newEngine }. Щоб змінити її, перейдіть до налаштувань.
 remove-search-engine-button = OK
 
+## Infobar shown when default search engine is reset due to an issue reading the settings file.
+## Variables
+## $newEngine (String) - the name of the new default search engine.
+
+
 ## Infobar shown when user is prompted to install search engine.
 ## Variables
 ## $engineName (String) - the name of the search engine to install.

@@ -34,6 +34,11 @@ removed-search-engine-message = <strong>Su motore de chirca predefinidu tuo est 
 removed-search-engine-message2 = <strong>Su motore de chirca predefinidu tuo est cambiadu.</strong> { $oldEngine } no est prus a disponimentu comente motore de chirca predefinidu in { -brand-short-name }. { $newEngine } est immoe su motore de chirca predefinidu tuo. Pro torrare a cambiare su motore de chirca predefinidu tuo, bae a is cunfiguratziones.
 remove-search-engine-button = Andat bene
 
+## Infobar shown when default search engine is reset due to an issue reading the settings file.
+## Variables
+## $newEngine (String) - the name of the new default search engine.
+
+
 ## Infobar shown when user is prompted to install search engine.
 ## Variables
 ## $engineName (String) - the name of the search engine to install.

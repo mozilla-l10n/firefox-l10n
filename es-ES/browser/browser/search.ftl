@@ -34,6 +34,11 @@ removed-search-engine-message = <strong>Su buscador predeterminado ha cambiado.<
 removed-search-engine-message2 = <strong>Su buscador predeterminado ha cambiado.</strong> { $oldEngine } ya no está disponible como buscador predeterminado en { -brand-short-name }. { $newEngine } es ahora su buscador predeterminado. Para cambiar a otro buscador predeterminado, vaya a los ajustes.
 remove-search-engine-button = Aceptar
 
+## Infobar shown when default search engine is reset due to an issue reading the settings file.
+## Variables
+## $newEngine (String) - the name of the new default search engine.
+
+
 ## Infobar shown when user is prompted to install search engine.
 ## Variables
 ## $engineName (String) - the name of the search engine to install.

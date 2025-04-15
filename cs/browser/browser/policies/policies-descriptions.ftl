@@ -162,7 +162,6 @@ policy-SearchSuggestEnabled = Povolení nebo zákaz našeptávání dotazů pro 
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Přidání nebo odebrání modulů PKCS #11.
 policy-ShowHomeButton = Zobrazení domovského tlačítka na liště.
-policy-SkipTermsOfUse = Při spuštění nezobrazovat dokumenty Podmínky používání a Oznámení o ochraně osobních údajů.
 policy-SSLVersionMax = Nastavení maximální verze SSL.
 policy-SSLVersionMin = Nastavení minimální verze SSL.
 policy-StartDownloadsInTempDirectory = Vynutí spuštění stahování v místním dočasném umístění místo výchozího adresáře pro stažené soubory.

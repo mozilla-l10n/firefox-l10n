@@ -436,3 +436,6 @@ newtab-section-mangage-topics-followed-topics-empty-state = താങ്ങൾ �
 newtab-section-mangage-topics-blocked-topics = തടഞ്ഞവ
 newtab-section-mangage-topics-blocked-topics-empty-state = താങ്ങൾ ഇതുവരെ ഒരു വിഷയത്തിനെയും ത‍ടഞ്ഞിട്ടില്ല
 newtab-custom-wallpaper-cta = ഉപയോഗിച്ചു് നോക്കൂ!
+
+## Strings for reporting ads and content
+

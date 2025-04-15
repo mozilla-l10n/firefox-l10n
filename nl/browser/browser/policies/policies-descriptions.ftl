@@ -132,7 +132,6 @@ policy-SecurityDevices2 = PKCS #11-modules toevoegen of verwijderen.
 policy-ShowHomeButton = De startpaginaknop op de werkbalk tonen.
 # ”You represent that...” means ”You confirm/declare that...”
 policy-SkipTermsOfUse2 = De gebruiksvoorwaarden en privacyverklaring niet tonen bij opstarten. U verklaart dat u de Gebruiksvoorwaarden accepteert en de zeggenschap hebt om deze te accepteren namens alle personen aan wie u toegang tot deze browser geeft.
-policy-SkipTermsOfUse = De gebruiksvoorwaarden en privacyverklaring niet tonen bij opstarten.
 policy-SSLVersionMax = De maximale SSL-versie instellen.
 policy-SSLVersionMin = De minimale SSL-versie instellen.
 policy-StartDownloadsInTempDirectory = Afdwingen dat downloads starten in een lokale, tijdelijke locatie in plaats van de standaard downloadmap.

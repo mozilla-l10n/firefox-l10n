@@ -34,6 +34,11 @@ removed-search-engine-message = <strong>Ваша поисковая систем
 removed-search-engine-message2 = <strong>Ваша поисковая система по умолчанию была изменена.</strong> { $oldEngine } более не используется как поисковая система по умолчанию в { -brand-short-name }. Теперь ваша поисковая система по умолчанию — { $newEngine }. Чтобы изменить её, перейдите в настройки.
 remove-search-engine-button = OK
 
+## Infobar shown when default search engine is reset due to an issue reading the settings file.
+## Variables
+## $newEngine (String) - the name of the new default search engine.
+
+
 ## Infobar shown when user is prompted to install search engine.
 ## Variables
 ## $engineName (String) - the name of the search engine to install.

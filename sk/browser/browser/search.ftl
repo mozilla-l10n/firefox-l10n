@@ -34,6 +34,11 @@ removed-search-engine-message = <strong>Váš predvolený vyhľadávací modul b
 removed-search-engine-message2 = <strong>Váš predvolený vyhľadávací modul bol zmenený.</strong> { $oldEngine } už nie je k dispozícii ako predvolený vyhľadávací modul prehliadača { -brand-short-name }. Vašim predvoleným vyhľadávacím modulom je teraz { $newEngine }. Ak chcete prejsť na iný predvolený vyhľadávací modul, prejdite do nastavení.
 remove-search-engine-button = OK
 
+## Infobar shown when default search engine is reset due to an issue reading the settings file.
+## Variables
+## $newEngine (String) - the name of the new default search engine.
+
+
 ## Infobar shown when user is prompted to install search engine.
 ## Variables
 ## $engineName (String) - the name of the search engine to install.

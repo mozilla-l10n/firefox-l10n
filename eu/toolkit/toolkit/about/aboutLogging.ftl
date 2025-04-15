@@ -56,9 +56,7 @@ about-logging-preset-custom-description = Erregistratu eskuz hautatutako modulua
 # Error handling
 about-logging-error = Errorea:
 
-## Variables:
-##   $k (String) - Variable name
-##   $v (String) - Variable value
+##
 
 about-logging-invalid-output = "{ $v }" balio baliogabea "{ $k }" gakoarentzat
 about-logging-unknown-logging-preset = Erregistroaren "{ $v }" aurrezarpen ezezaguna
@@ -67,3 +65,7 @@ about-logging-unknown-option = about:logging "{ $k }" aukera ezezaguna
 about-logging-configuration-url-ignored = Konfigurazio URLa ezikusita
 about-logging-file-and-profiler-override = Ezin da fitxategiaren irteera behartu eta aldi berean profil sortzailearen aukerak baliogabetu
 about-logging-configured-via-url = Aukera URL bidez konfiguratuta
+
+## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
+## set to true. It is false by default, except on Android.
+

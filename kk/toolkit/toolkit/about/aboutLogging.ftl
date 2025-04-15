@@ -56,9 +56,7 @@ about-logging-preset-custom-description = Журналдау модульдер�
 # Error handling
 about-logging-error = Қате:
 
-## Variables:
-##   $k (String) - Variable name
-##   $v (String) - Variable value
+##
 
 about-logging-invalid-output = "{ $k }" кілті үшін "{ $v }" мәні жарамсыз
 about-logging-unknown-logging-preset = Журналдаудың белгісіз алдын ала орнатуы "{ $v }"
@@ -67,3 +65,7 @@ about-logging-unknown-option = Белгісіз about:logging опциясы "{ 
 about-logging-configuration-url-ignored = Баптаудың URL адресі еленбеді
 about-logging-file-and-profiler-override = Бір уақытта файлға шығаруды мәжбүрлеу және профиль жасау опцияларын қайта анықтау мүмкін емес
 about-logging-configured-via-url = Опция URL арқылы бапталған
+
+## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
+## set to true. It is false by default, except on Android.
+

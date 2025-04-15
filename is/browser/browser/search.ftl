@@ -34,6 +34,11 @@ removed-search-engine-message = <strong>Sjálfgefnu leitarvélinni þinni hefur 
 removed-search-engine-message2 = <strong>Sjálfgefnu leitarvélinni þinni hefur verið breytt.</strong> { $oldEngine } er ekki lengur tiltæk sem sjálfgefin leitarvél í { -brand-short-name }. { $newEngine } er nú sjálfgefna leitarvélin þín. Farðu í stillingarnar til að skipta yfir í aðra sjálfgefna leitarvél.
 remove-search-engine-button = Í lagi
 
+## Infobar shown when default search engine is reset due to an issue reading the settings file.
+## Variables
+## $newEngine (String) - the name of the new default search engine.
+
+
 ## Infobar shown when user is prompted to install search engine.
 ## Variables
 ## $engineName (String) - the name of the search engine to install.

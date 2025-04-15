@@ -310,3 +310,6 @@ newtab-custom-settings = Tinuk'samajïx ch'aqa' runuk'ulem
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+
+## Strings for reporting ads and content
+

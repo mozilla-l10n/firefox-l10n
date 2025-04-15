@@ -56,9 +56,7 @@ about-logging-preset-custom-description = Module regjistrimi të përzgjedhur do
 # Error handling
 about-logging-error = Gabim:
 
-## Variables:
-##   $k (String) - Variable name
-##   $v (String) - Variable value
+##
 
 about-logging-invalid-output = Vlerë e pavlefshme “{ $v }“ për kyçin “{ $k }“
 about-logging-unknown-logging-preset = Paracaktim i panjohur regjistrimi “{ $v }“
@@ -67,3 +65,7 @@ about-logging-unknown-option = Mundësi e panjohur about:logging “{ $k }“
 about-logging-configuration-url-ignored = URL-ja e formësimi u shpërfill
 about-logging-file-and-profiler-override = S’mund të deytorohen në të njëjtën kohë mundësintë “file output” dhe “override profiler”
 about-logging-configured-via-url = Mundësi e formësuar përmes URL-je
+
+## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
+## set to true. It is false by default, except on Android.
+

@@ -58,9 +58,7 @@ about-logging-preset-custom-description = Módulos de registo selecionados manua
 # Error handling
 about-logging-error = Erro:
 
-## Variables:
-##   $k (String) - Variable name
-##   $v (String) - Variable value
+##
 
 about-logging-invalid-output = Valor inválido “{ $v }“ para a chave “{ $k }“
 about-logging-unknown-logging-preset = Modelo de registo desconhecida “{ $v }“
@@ -69,3 +67,7 @@ about-logging-unknown-option = Opção about:logging “{ $k }“ desconhecida
 about-logging-configuration-url-ignored = URL de configuração ignorado
 about-logging-file-and-profiler-override = Não é possível forçar a saída para ficheiro e substituir as opções do gerador de perfis em simultâneo
 about-logging-configured-via-url = Opção configurada via URL
+
+## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
+## set to true. It is false by default, except on Android.
+

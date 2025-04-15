@@ -530,3 +530,6 @@ newtab-custom-wallpaper-title = Itt vannak az egyéni háttérképek
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Töltse fel a saját háttérképét, vagy válasszon egy egyéni háttérszínt, hogy a { -brand-product-name } a sajátja legyen.
 newtab-custom-wallpaper-cta = Próbálja ki
+
+## Strings for reporting ads and content
+

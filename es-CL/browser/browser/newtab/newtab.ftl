@@ -526,3 +526,6 @@ newtab-custom-wallpaper-title = Los fondos de pantalla personalizados están aqu
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Sube tu propio fondo de pantalla o elige un color personalizado para hacer tuyo { -brand-product-name }.
 newtab-custom-wallpaper-cta = Inténtalo
+
+## Strings for reporting ads and content
+

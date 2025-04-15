@@ -468,3 +468,6 @@ newtab-section-mangage-topics-followed-topics = Jarraituta
 newtab-section-mangage-topics-followed-topics-empty-state = Ez duzu inongo gairik jarraitu oraindik.
 newtab-section-mangage-topics-blocked-topics = Blokeatuta
 newtab-section-mangage-topics-blocked-topics-empty-state = Ez duzu inongo gairik blokeatu oraindik.
+
+## Strings for reporting ads and content
+

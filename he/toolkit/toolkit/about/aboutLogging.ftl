@@ -57,9 +57,7 @@ about-logging-preset-custom-description = מודולי רישום שנבחרים
 # Error handling
 about-logging-error = שגיאה:
 
-## Variables:
-##   $k (String) - Variable name
-##   $v (String) - Variable value
+##
 
 about-logging-invalid-output = ערך שגוי ״{ $v }״ עבור המפתח ״{ $k }״
 about-logging-unknown-logging-preset = ערכת רישום לא ידועה ״{ $v }״
@@ -68,3 +66,7 @@ about-logging-unknown-option = אפשרות about:logging לא ידועה ״{ $k
 about-logging-configuration-url-ignored = התעלמות מכתובת אתר של הגדרת תצורה
 about-logging-file-and-profiler-override = לא ניתן לאלץ פלט לקובץ ולעקוף אפשרויות של יוצר הפרופילים בו זמנית
 about-logging-configured-via-url = האפשרות מוגדרת באמצעות כתובת אתר
+
+## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
+## set to true. It is false by default, except on Android.
+

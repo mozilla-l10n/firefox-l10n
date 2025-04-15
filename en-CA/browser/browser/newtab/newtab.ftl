@@ -524,3 +524,6 @@ newtab-section-mangage-topics-followed-topics = Followed
 newtab-section-mangage-topics-followed-topics-empty-state = You have not followed any topics yet.
 newtab-section-mangage-topics-blocked-topics = Blocked
 newtab-section-mangage-topics-blocked-topics-empty-state = You have not blocked any topics yet.
+
+## Strings for reporting ads and content
+

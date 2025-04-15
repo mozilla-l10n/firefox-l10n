@@ -532,3 +532,6 @@ newtab-custom-wallpaper-title = How su swójske slězynowe wobraze
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Nagrajśo swójski slězynowy wobraz abo wubjeŕśo swójsku barwu, aby se { -brand-product-name } pśiswójł.
 newtab-custom-wallpaper-cta = Wopytajśo jen
+
+## Strings for reporting ads and content
+

@@ -532,3 +532,6 @@ newtab-custom-wallpaper-title = Tu su swójske pozadkowe wobrazy
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Nahrajće swójski pozadkowy wobraz abo wubjerće swójsku barbu, zo byšće sej { -brand-product-name } přiswojił.
 newtab-custom-wallpaper-cta = Wupruwujće jón
+
+## Strings for reporting ads and content
+

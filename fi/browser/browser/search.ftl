@@ -34,6 +34,11 @@ removed-search-engine-message = <strong>Oletushakukoneesi on muutettu.</strong> 
 removed-search-engine-message2 = <strong>Oletushakukoneesi on muutettu.</strong> { $oldEngine } ei ole enää tarjolla oletushakukoneeksi { -brand-short-name }issa. { $newEngine } on nyt oletushakukoneesi. Voit vaihtaa toiseen oletushakukoneeseen siirtymällä asetuksiin.
 remove-search-engine-button = OK
 
+## Infobar shown when default search engine is reset due to an issue reading the settings file.
+## Variables
+## $newEngine (String) - the name of the new default search engine.
+
+
 ## Infobar shown when user is prompted to install search engine.
 ## Variables
 ## $engineName (String) - the name of the search engine to install.

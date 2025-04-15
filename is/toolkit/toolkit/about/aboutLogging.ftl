@@ -58,9 +58,7 @@ about-logging-preset-custom-description = Handvirkt valdar atvikaskráningareini
 # Error handling
 about-logging-error = Villa:
 
-## Variables:
-##   $k (String) - Variable name
-##   $v (String) - Variable value
+##
 
 about-logging-invalid-output = Ógilt gildi „{ $v }“ fyrir lykil „{ $k }“
 about-logging-unknown-logging-preset = Óþekkt skráningarforstilling „{ $v }“
@@ -69,3 +67,7 @@ about-logging-unknown-option = Óþekktur about:logging valkostur “{ $k }“
 about-logging-configuration-url-ignored = Stillingaslóð hunsuð
 about-logging-file-and-profiler-override = Ekki er hægt að þvinga fram skráarúttak og yfirtaka valkosti afkastavaktar á sama tíma
 about-logging-configured-via-url = Valkostur stilltur í gegnum slóð
+
+## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
+## set to true. It is false by default, except on Android.
+

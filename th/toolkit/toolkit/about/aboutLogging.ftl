@@ -58,9 +58,7 @@ about-logging-preset-custom-description = โมดูลบันทึกท�
 # Error handling
 about-logging-error = ข้อผิดพลาด:
 
-## Variables:
-##   $k (String) - Variable name
-##   $v (String) - Variable value
+##
 
 about-logging-invalid-output = ค่า “{ $v }“ ไม่ถูกต้องสำหรับคีย์ “{ $k }“
 about-logging-unknown-logging-preset = ไม่รู้จักค่าที่ตั้งไว้ล่วงหน้าของการบันทึก “{ $v }“
@@ -69,3 +67,7 @@ about-logging-unknown-option = ไม่รู้จักตัวเลือ�
 about-logging-configuration-url-ignored = เพิกเฉย URL การกำหนดค่าแล้ว
 about-logging-file-and-profiler-override = ไม่สามารถบังคับให้ส่งออกไฟล์และแทนที่ตัวเลือกตัวสร้างโปรไฟล์พร้อมกันได้
 about-logging-configured-via-url = ตัวเลือกที่กำหนดค่าผ่าน URL
+
+## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
+## set to true. It is false by default, except on Android.
+

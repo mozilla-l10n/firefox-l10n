@@ -34,6 +34,11 @@ removed-search-engine-message = <strong>您的預設搜尋引擎有變動。</st
 removed-search-engine-message2 = <strong>您的預設搜尋引擎有變動。</strong>{ -brand-short-name } 已不再將 { $oldEngine } 作為預設搜尋引擎，現在起將以 { $newEngine } 做為新的預設搜尋引擎。若要改用其他的預設搜尋引擎，請到「設定」調整。
 remove-search-engine-button = 確定
 
+## Infobar shown when default search engine is reset due to an issue reading the settings file.
+## Variables
+## $newEngine (String) - the name of the new default search engine.
+
+
 ## Infobar shown when user is prompted to install search engine.
 ## Variables
 ## $engineName (String) - the name of the search engine to install.

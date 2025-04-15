@@ -213,3 +213,6 @@ newtab-error-fallback-refresh-link = Neu refresh laman bah ji trei lom.
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+
+## Strings for reporting ads and content
+

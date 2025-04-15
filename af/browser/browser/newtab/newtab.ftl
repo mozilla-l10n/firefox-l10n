@@ -134,3 +134,6 @@ newtab-error-fallback-refresh-link = Verfris bladsy om weer te probeer.
 
 ## Panel in the Customize menu section to manage followed and blocked topics
 
+
+## Strings for reporting ads and content
+

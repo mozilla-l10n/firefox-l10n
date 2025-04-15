@@ -58,9 +58,7 @@ about-logging-preset-custom-description = Οι μονάδες καταγραφή
 # Error handling
 about-logging-error = Σφάλμα:
 
-## Variables:
-##   $k (String) - Variable name
-##   $v (String) - Variable value
+##
 
 about-logging-invalid-output = Μη έγκυρη τιμή «{ $v }» για το κλειδί «{ $k }»
 about-logging-unknown-logging-preset = Άγνωστη προκαθορισμένη τιμή καταγραφής «{ $v }»
@@ -69,3 +67,7 @@ about-logging-unknown-option = Άγνωστη επιλογή about:logging «{ $
 about-logging-configuration-url-ignored = Αγνοήθηκε το URL ρυθμίσεων
 about-logging-file-and-profiler-override = Δεν είναι δυνατή η ταυτόχρονη επιβολή της εξόδου αρχείου και της παράκαμψης των επιλογών του εργαλείου προφίλ
 about-logging-configured-via-url = Η επιλογή διαμορφώθηκε μέσω URL
+
+## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
+## set to true. It is false by default, except on Android.
+

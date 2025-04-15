@@ -34,6 +34,11 @@ removed-search-engine-message = <strong>Tha einnsean-luirg bunaiteach ùr agad.<
 removed-search-engine-message2 = <strong>Tha einnsean-luirg bunaiteach ùr agad.</strong> Chan eil { $oldEngine } ri làimh tuilleadh mar einnsean-luirg bunaiteach ann am { -brand-short-name } tuilleadh. ’S e { $newEngine } an t-einnsean-luirg bunaiteach agad a-nis. Tadhail air na roghainnean a thadhal einnean-luirg bunaiteach eile.
 remove-search-engine-button = Ceart ma-thà
 
+## Infobar shown when default search engine is reset due to an issue reading the settings file.
+## Variables
+## $newEngine (String) - the name of the new default search engine.
+
+
 ## Infobar shown when user is prompted to install search engine.
 ## Variables
 ## $engineName (String) - the name of the search engine to install.

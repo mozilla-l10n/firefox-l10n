@@ -530,3 +530,6 @@ newtab-custom-wallpaper-title = Mukautetut taustakuvat ovat täällä
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Valitse oma taustakuvasi tai mukautettu väri ja tee { -brand-product-name }ista mieluisesi.
 newtab-custom-wallpaper-cta = Kokeile
+
+## Strings for reporting ads and content
+
