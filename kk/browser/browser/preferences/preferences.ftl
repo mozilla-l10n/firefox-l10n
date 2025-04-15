@@ -1128,6 +1128,9 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Адрес жолағы
 addressbar-suggest = Адрес жолағын қолдану кезінде, ұсыну
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Көбірек білу
 addressbar-locbar-history-option =
     .label = Шолулар тарихы
     .accesskey = Ш
@@ -1160,6 +1163,9 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Танымал іздеу ұсыныстарын көрсету
     .accesskey = т
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = { -brand-short-name } ұсыныстары
 addressbar-quickactions-learn-more = Көбірек білу
 addressbar-restore-dismissed-suggestions-button =
     .label = Қалпына келтіру

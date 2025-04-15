@@ -116,10 +116,14 @@ contextual-manager-passwords-update-password-success-button = Дайын
 contextual-manager-passwords-delete-password-success-button = Дайын
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Парольді өшіру керек пе?
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Артқа
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Өшіру
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Бас тарту
+contextual-manager-passwords-alert-back-button =
+    .label = Артқа
 contextual-manager-passwords-change-password-button = Парольді өзгерту
 
 ## Login Form
