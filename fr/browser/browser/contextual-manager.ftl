@@ -117,6 +117,14 @@ contextual-manager-passwords-remove-all-confirm-button =
         [1] Supprimer
        *[other] Tout supprimer
     }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] Cette action supprime le mot de passe enregistré dans { -brand-short-name } de tous vos appareils synchronisés et toutes les alertes de fuites de données. Elle est irréversible.
+        [one] Cette action supprime le mot de passe enregistré dans { -brand-short-name } de tous vos appareils synchronisés et toutes les alertes de fuites de données. Elle est irréversible.
+       *[other] Cette action supprime tous les mots de passe enregistrés dans { -brand-short-name } de tous vos appareils synchronisés et toutes les alertes de fuites de données. Elle est irréversible.
+    }
 contextual-manager-passwords-origin-label = Site web
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = Nom d'utilisateur
@@ -175,10 +183,12 @@ contextual-manager-passwords-alert-list =
 contextual-manager-passwords-breached-origin-heading-and-message =
     .heading = Changement de mot de passe recommandé
     .message = Les mots de passe de ce site web ont été signalés comme volés ou ayant fuités. Changez de mot de passe pour protéger votre compte.
+contextual-manager-passwords-breached-origin-link-message = Comment { -brand-product-name } est-il informé de l’existence de fuites de données ?
 contextual-manager-passwords-change-password-button = Changer le mot de passe
 contextual-manager-passwords-vulnerable-password-heading-and-message =
     .heading = Changement de mot de passe recommandé
     .message = Ce mot de passe est facile à deviner. Modifiez-le pour protéger votre compte.
+contextual-manager-passwords-vulnerable-password-link-message = Comment { -brand-product-name } sait-il qu’un mot de passe est faible ?
 contextual-manager-passwords-no-username-heading-and-message =
     .heading = Ajouter un nom d’utilisateur
     .message = Ajoutez-le pour vous connecter plus vite.
