@@ -13,6 +13,15 @@ contentanalysis-slow-agent-dialog-header = Analyse läuft
 contentanalysis-slow-agent-dialog-body-file = { $agent } überprüft "{ $filename }" mit den Datenrichtlinien Ihrer Organisation. Dies kann einen Moment dauern.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
+#   $filename - Name of a file being analyzed, such as "aFile.txt"
+#   $count (number) - The number of additional items in the request for analysis
+contentanalysis-slow-agent-dialog-body-file-and-more =
+    { $count ->
+        [one] { $agent } überprüft "{ $filename }" und { $count } weiteren Eintrag auf die Datenrichtlinien Ihrer Organisation. Dies kann einen Moment dauern.
+       *[other] { $agent } überprüft "{ $filename }" und { $count } weitere Einträge auf die Datenrichtlinien Ihrer Organisation. Dies kann einen Moment dauern.
+    }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } überprüft die Daten, die Sie eingefügt haben, mit den Datenrichtlinien Ihrer Organisation. Dies kann einen Moment dauern.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:

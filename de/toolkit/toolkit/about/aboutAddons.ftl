@@ -205,6 +205,10 @@ addon-updates-manual-updates-found = Verfügbare Updates anzeigen
 
 addon-install-from-file = Add-on aus Datei installieren…
     .accesskey = A
+# Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
+# pref is set.
+addon-install-or-update-from-file = Add-on aus Datei installieren oder aktualisieren…
+    .accesskey = i
 addon-install-from-file-dialog-title = Zu installierendes Add-on auswählen
 addon-install-from-file-filter-name = Add-ons
 addon-open-about-debugging = Add-ons debuggen

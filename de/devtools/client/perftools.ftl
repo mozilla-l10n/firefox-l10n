@@ -72,6 +72,8 @@ perftools-button-edit-settings = Einstellungen bearbeiten…
 perftools-menu-more-actions-button =
     .title = Weitere Aktionen
 perftools-menu-more-actions-restart-with-profiling = { -brand-shorter-name } mit aktiviertem Start-Profiling neu starten
+perftools-menu-more-actions-copy-for-startup = Umgebungsvariablen für das Startup-Profiling kopieren
+perftools-menu-more-actions-copy-for-perf-tests = Parameter für Leistungs-Tests kopieren
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 

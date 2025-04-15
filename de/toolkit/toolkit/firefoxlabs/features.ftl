@@ -33,3 +33,11 @@ experimental-features-contextual-password-manager-description = Greifen Sie dire
 experimental-features-custom-wallpaper =
     .label = Ein benutzerdefiniertes Hintergrundbild oder eine Farbe für einen neuen Tab wählen
 experimental-features-custom-wallpaper-description = Laden Sie Ihr eigenes Hintergrundbild hoch oder wählen Sie eine benutzerdefinierte Farbe für den Hintergrund für neue Tabs.
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = Link-Vorschau
+experimental-features-link-previews-description =
+    { PLATFORM() ->
+        [macos] Um mehr über eine Webseite zu erfahren, bevor Sie sie anklicken, bewegen Sie die Maus über einen Link und drücken Sie Umschalt (⇧) plus Option (⌥) oder Alt. Vorschauen können Details wie Titel und Lesezeit enthalten. Bei einigen Webseiten kann KI auch den Seitentext lesen und wichtige Punkte erzeugen. Die KI ist optimiert, um englische Texte zu lesen und zu erzeugen. Um Ihre Privatsphäre zu schützen, wird die KI lokal auf Ihrem Computer ausgeführt. <a data-l10n-name="connect">Feedback teilen</a>
+       *[other] Um mehr über eine Webseite zu erfahren, bevor Sie sie anklicken, bewegen Sie die Maus über einen Link und drücken Sie Umschalt + Alt. Vorschauen können Details wie Titel und Lesezeit enthalten. Bei einigen Webseiten kann KI auch den Seitentext lesen und wichtige Punkte erzeugen. Die KI ist optimiert, um englische Texte zu lesen und zu erzeugen. Um Ihre Privatsphäre zu schützen, wird die KI lokal auf Ihrem Computer ausgeführt. <a data-l10n-name="connect">Feedback teilen</a>
+    }
