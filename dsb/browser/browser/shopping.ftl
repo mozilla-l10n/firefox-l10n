@@ -309,6 +309,8 @@ shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Wubjeŕśo tłoca�
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
 shopping-integrated-new-position-notification-title = Samska kontrola pógódnośenjow, nowe městno
+shopping-integrated-new-position-notification-move-right-subtitle = Wóstajśo kontrolu pógódnośenjow a zbytk bocnice { -brand-product-name } how – abo pśesuńśo jej dopšawa. Změńśo něnto abo kuždy cas w <a data-l10n-name="sidebar_settings">nastajenjach bocnice</a>.
+shopping-integrated-new-position-notification-move-left-subtitle = Wóstajśo kontrolu pógódnośenjow a zbytk bocnice { -brand-product-name } how – abo pśesuńśo jej dolěwa. Změńśo něnto abo kuždy cas w <a data-l10n-name="sidebar_settings">nastajenjach bocnice</a>.
 shopping-integrated-new-position-notification-move-right-button = Napšawo pśesunuś
 shopping-integrated-new-position-notification-move-left-button = Nalěwo pśesunuś
 shopping-integrated-new-position-notification-dismiss-button = Som zrozměł

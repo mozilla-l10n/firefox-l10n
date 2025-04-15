@@ -72,6 +72,8 @@ perftools-button-edit-settings = Nastajenja wobźěłaś…
 
 perftools-menu-more-actions-button =
     .title = Dalšne akcije
+perftools-menu-more-actions-restart-with-profiling = { -brand-shorter-name } ze zmóžnjonym startowym profilěrowanim znowego startowaś
+perftools-menu-more-actions-copy-for-startup = Wokolinowe wariable za startowe profilěrowanje kopěrowaś
 perftools-menu-more-actions-copy-for-perf-tests = Parametry za wugbaśowe testy kopěrowaś
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
