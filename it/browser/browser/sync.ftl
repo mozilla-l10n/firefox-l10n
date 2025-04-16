@@ -84,3 +84,4 @@ sync-button-sync-and-merge = Sincronizza e unisci i dati
 # Variables:
 #   $profileName (String) - Name of the profile to switch to
 sync-button-sync-profile = Sincronizza “{ $profileName }”
+

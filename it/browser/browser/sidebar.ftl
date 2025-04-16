@@ -206,3 +206,4 @@ sidebar-widget-show-sidebar2 =
 sidebar-widget-hide-sidebar2 =
     .tooltiptext = Nascondi la barra laterale ({ $shortcut })
     .label = Barre laterali
+

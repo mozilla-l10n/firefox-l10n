@@ -555,3 +555,4 @@ newtab-report-cancel = Annulla
 newtab-report-submit = Invia
 newtab-toast-thanks-for-feedback =
     .message = Grazie per il tuo feedback.
+

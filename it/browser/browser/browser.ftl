@@ -1243,3 +1243,4 @@ file-picker-crashed-save-nowhere = La finestra di selezione file di Windows si Ã
 file-picker-crashed-show-in-folder =
     .label = Mostra nella cartella
     .accessKey = M
+

@@ -64,3 +64,4 @@ add-engine-dialog =
     .buttonaccesskeyaccept = A
 engine-name-exists = È già presente un motore di ricerca con questo nome
 engine-keyword-exists = È già presente un motore di ricerca con questa parola chiave
+

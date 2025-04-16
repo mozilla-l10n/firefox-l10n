@@ -133,3 +133,4 @@ sanitize-everything-warning = Tutta la cronologia verrà eliminata.
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
 sanitize-selected-warning = Tutti gli elementi selezionati verranno eliminati.
+
