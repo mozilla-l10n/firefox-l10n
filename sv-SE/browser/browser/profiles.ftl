@@ -8,7 +8,7 @@ profile-window-body = Håll ditt arbete och din personliga surfning, inklusive s
 profile-window-checkbox-label-2 =
     .label = Välj en profil när { -brand-short-name } öppnas
 # This subcopy appears below the checkbox when it is unchecked
-profile-window-checkbox-subcopy = { -brand-short-name } öppnas för din senast använda profil.
+profile-window-checkbox-subcopy = { -brand-short-name } kommer att öppnas till din senast använda profil.
 profile-window-create-profile = Skapa en profil
 profile-card-edit-button =
     .title = Redigera profil

@@ -212,7 +212,7 @@ urlbar-result-menu-dont-show-weather-suggestions =
 urlbar-feedback-acknowledgment = Tack för din feedback
 # A message shown in the urlbar when the user dismisses weather suggestions.
 # Weather suggestions won't be shown at all anymore.
-urlbar-dismissal-acknowledgment-weather = Tack för din feedback. Du ser inte väderförslag längre.
+urlbar-dismissal-acknowledgment-weather = Tack för din feedback. Du kommer inte att se väderförslag längre.
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
