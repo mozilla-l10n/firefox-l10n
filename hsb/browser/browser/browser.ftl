@@ -196,6 +196,13 @@ urlbar-result-menu-learn-more-about-firefox-suggest =
 urlbar-result-menu-manage-firefox-suggest =
     .label = { -firefox-suggest-brand-name } rjadować
     .accesskey = r
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative region (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location =
+    .label = Njedokładne stejnišćo zdźělić
 urlbar-result-menu-show-less-frequently =
     .label = Mjenje často pokazać
 urlbar-result-menu-dont-show-weather-suggestions =
