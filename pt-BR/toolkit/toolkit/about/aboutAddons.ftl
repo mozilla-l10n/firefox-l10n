@@ -439,6 +439,13 @@ addon-badge-recommended3 =
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Extensão oficial desenvolvida pela Mozilla. Atende aos padrões de desempenho e segurança
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are performing the
+# security or performance reviews. As such, we avoid personalising language
+# like the words "our" or "we".
+addon-badge-verified4 =
+    .title = Esta extensão foi revisada para atender aos padrões de segurança e desempenho
 addon-badge-verified3 =
     .title = Esta extensão foi revisada para atender aos nossos padrões de segurança e desempenho.
 
