@@ -31,6 +31,15 @@ sidebar-history-sort-by-site =
     .label = Siteye göre sırala
 sidebar-history-clear =
     .label = Geçmişi temizle
+sidebar-history-sort-by-heading = Sıralama:
+sidebar-history-sort-option-date =
+    .label = Tarih
+sidebar-history-sort-option-site =
+    .label = Site
+sidebar-history-sort-option-date-and-site =
+    .label = Tarih ve site
+sidebar-history-sort-option-last-visited =
+    .label = Son ziyaret
 
 ## Labels for sidebar search
 

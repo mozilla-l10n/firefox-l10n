@@ -529,3 +529,6 @@ newtab-custom-wallpaper-cta = Deneyin
 
 ## Strings for reporting ads and content
 
+newtab-report-submit = Gönder
+newtab-toast-thanks-for-feedback =
+    .message = Görüşleriniz için teşekkür ederiz.

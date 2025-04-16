@@ -59,6 +59,7 @@ history-section-label = Geçmiş
 item-history-and-downloads =
     .label = Gezinti ve indirme geçmişi
     .accesskey = T
+item-history-and-downloads-description2 = Site ve indirme geçmişini temizler
 item-history-and-downloads-description = Arama, site ve indirme geçmişini temizler
 item-history-form-data-downloads =
     .label = Geçmiş
