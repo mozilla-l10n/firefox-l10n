@@ -31,6 +31,13 @@ sidebar-history-sort-by-site =
     .label = 依照網站排序
 sidebar-history-clear =
     .label = 清除瀏覽紀錄
+sidebar-history-sort-by-heading = 排序依照：
+sidebar-history-sort-option-date =
+    .label = 日期
+sidebar-history-sort-option-site =
+    .label = 網站
+sidebar-history-sort-option-date-and-site =
+    .label = 日期與網站
 
 ## Labels for sidebar search
 

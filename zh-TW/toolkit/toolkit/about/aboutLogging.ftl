@@ -66,8 +66,17 @@ about-logging-unknown-profiler-preset = 預設效能檢測類型「{ $v }」未�
 about-logging-unknown-option = about:logging 選項「{ $k }」未知
 about-logging-configuration-url-ignored = 已忽略設定網址
 about-logging-file-and-profiler-override = 無法同時強制輸出到檔案並忽略效能檢測器選項
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-unknown-error = 發生錯誤：{ $errorText }
 about-logging-configured-via-url = 透過網址設定的選項
 
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
+about-logging-save-button = 儲存
+about-logging-upload-button = 上傳
+# Variables:
+#   $path (string) - The path where the profile can be found.
+about-logging-saved = 已儲存至 { $path }
+about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> 分享網址
