@@ -74,15 +74,22 @@ about-logging-configured-via-url = 透過網址設定的選項
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
+about-logging-upload-question = 已捕捉效能檢測檔，您想要儲存下來還是上傳到雲端？
 about-logging-save-button = 儲存
 about-logging-upload-button = 上傳
 # Variables:
 #   $path (string) - The path where the profile can be found.
 about-logging-saved = 已儲存至 { $path }
 # Variables:
+#   $percent (number) - The upload completion progress, to be displayed as a percentage. This is a value between 0 and 1.
+about-logging-uploading-progress = 正在上傳檢測資料：{ NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+# Variables:
 #   $url (string) - The URL where the profile can be found
 about-logging-uploaded = 已上傳至 <a data-l10n-name="uploaded-message-url">{ $url }</a>
 about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> 分享網址
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-upload-error = 上傳效能檢測檔時發生錯誤：{ $errorText }
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = 儲存檔案時發生錯誤：{ $errorText }
