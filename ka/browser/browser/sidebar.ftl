@@ -31,6 +31,15 @@ sidebar-history-sort-by-site =
     .label = საიტის მიხედვით
 sidebar-history-clear =
     .label = ისტორიის გასუფთავება
+sidebar-history-sort-by-heading = დალაგება:
+sidebar-history-sort-option-date =
+    .label = თარიღით
+sidebar-history-sort-option-site =
+    .label = საიტით
+sidebar-history-sort-option-date-and-site =
+    .label = თარიღითა და საიტით
+sidebar-history-sort-option-last-visited =
+    .label = ბოლოს ნანახით
 
 ## Labels for sidebar search
 
