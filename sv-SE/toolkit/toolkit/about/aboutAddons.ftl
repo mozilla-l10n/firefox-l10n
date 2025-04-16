@@ -309,7 +309,7 @@ discopane-intro2 =
 # ("recommends") in the final sentence is a link to external documentation.
 # We hard code "Firefox" because we do not want to imply that a Firefox fork is
 # making this recommendation.
-discopane-intro3 = Tillägg och teman låter dig anpassa { -brand-product-name }. De kan öka integriteten, förbättra produktiviteten, förbättra media, ändra hur { -brand-product-name } ser ut och så mycket mer. Dessa små program är ofta utvecklade av en tredje part. Här är ett urval som Firefox <a data-l10n-name="learn-more-trigger">rekommenderar</a> för exceptionell säkerhet, prestanda och funktionalitet.
+discopane-intro3 = Tillägg och teman låter dig anpassa { -brand-product-name }. De kan öka integriteten och förbättra produktiviteten, ändra hur { -brand-product-name } ser ut och så mycket mer. Dessa små program är ofta utvecklade av en tredje part. Här är ett urval som Firefox <a data-l10n-name="learn-more-trigger">rekommenderar</a> för exceptionell säkerhet, prestanda och funktionalitet.
 
 ## Add-on actions
 
