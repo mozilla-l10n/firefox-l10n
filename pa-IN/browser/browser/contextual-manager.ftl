@@ -187,18 +187,87 @@ contextual-manager-passwords-edit-label =
     .label = ਪਾਸਵਰਡ ਨੂੰ ਸੋਧੋ
 contextual-manager-passwords-remove-label =
     .title = ਪਾਸਵਰਡ ਨੂੰ ਹਟਾਓ
+contextual-manager-passwords-username-tooltip = ਵਰਤੋਂਕਾਰ-ਨਾਂ, ਈਮੇਲ ਸਿਰਨਾਵਾਂ ਜਾਂ ਖਾਤਾ ਨੰਬਰ, ਜੋ ਤੁਸੀਂ ਸਾਈਨ ਇਨ ਕਰਨ ਲਈ ਵਰਤਦੇ ਹੋ, ਦਿਓ।
+contextual-manager-passwords-password-tooltip = ਇਸ ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰਨ ਲਈ ਵਰਤਿਆ ਜਾਂਦਾ ਪਾਸਵਰਡ ਦਿਓ।
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = ਪਾਸਵਰਡ
+contextual-manager-website-icon =
+    .alt = ਵੈੱਬਸਾਈਟ ਦਾ ਆਈਕਾਨ
 contextual-manager-copy-icon =
     .alt = ਕਾਪੀ ਕਰੋ
+contextual-manager-check-icon-username =
+    .alt = ਕਾਪੀ ਕੀਤਾ
+contextual-manager-check-icon-password =
+    .alt = ਕਾਪੀ ਕੀਤਾ
+contextual-manager-alert-icon =
+    .alt = ਚੇਤਾਵਨੀ
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = { $url } ਨੂੰ ਖੋਲ੍ਹੋ
+    .title = { $url } ਨੂੰ ਖੋਲ੍ਹੋ
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = { $url } ਨੂੰ ਖੋਲ੍ਹੋ (ਸਾਵਧਾਨ)
+    .title = { $url } ਨੂੰ ਖੋਲ੍ਹੋ (ਸਾਵਧਾਨ)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = ਵਰਤੋਂਕਾਰ-ਨਾਂ { $username } ਨੂੰ ਕਾਪੀ ਕਰੋ
+    .title = ਵਰਤੋਂਕਾਰ-ਨਾਂ { $username } ਨੂੰ ਕਾਪੀ ਕਰੋ
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = ਵਰਤੋਂਕਾਰ-ਨਾਂ { $username } ਨੂੰ ਕਾਪੀ ਕਰੋ (ਸਾਵਧਾਨ)
+    .title = ਵਰਤੋਂਕਾਰ-ਨਾਂ { $username } ਨੂੰ ਕਾਪੀ ਕਰੋ (ਸਾਵਧਾਨ)
+contextual-manager-password-login-line =
+    .aria-label = ਪਾਸਵਰਡ ਕਾਪੀ ਕਰੋ
+    .title = ਪਾਸਵਰਡ ਨੂੰ ਕਾਪੀ ਕਰੋ
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = ਪਾਸਵਰਡ ਕਾਪੀ ਕਰੋ (ਸਾਵਧਾਨ)
+    .title = ਪਾਸਵਰਡ ਨੂੰ ਕਾਪੀ ਕਰੋ (ਸਾਵਧਾਨ)
+contextual-manager-edit-login-button = ਸੋਧੋ
+    .tooltiptext = ਪਾਸਵਰਡ ਵਿੱਚ ਸੋਧ ਕਰੋ
+contextual-manager-view-alert-heading =
+    .heading = ਚੇਤਾਵਨੀ ਨੂੰ ਵੇਖੋ
+contextual-manager-view-alert-button =
+    .tooltiptext = ਚੇਤਾਵਨੀ ਦੀ ਪੜਤਾਲ ਕਰੋ
+contextual-manager-show-password-button =
+    .aria-label = ਪਾਸਵਰਡ ਵੇਖੋ
+    .title = ਪਾਸਵਰਡ ਨੂੰ ਵੇਖਾਓ
+contextual-manager-hide-password-button =
+    .aria-label = ਪਾਸਵਰਡ ਓਹਲੇ
+    .title = ਪਾਸਵਰਡ ਨੂੰ ਲੁਕਾਓ
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = ਕੋਈ ਪਾਸਵਰਡ ਨਹੀਂ ਲੱਭਿਆ
+contextual-manager-passwords-no-passwords-found-message = ਕੋਈ ਪਾਸਵਰਡ ਨਹੀਂ ਲੱਭੇ ਹਨ। ਵੱਖਰੇ ਸ਼ਬਦ ਨਾਲ ਲੱਭਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = ਆਪਣੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਥਾਂ ਉੱਤੇ ਸੰਭਾਲੋ।
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = ਸਾਰੇ ਪਾਸਵਰਡ ਇੰਕ੍ਰਿਪਟ ਕੀਤੇ ਹਨ ਅਤੇ ਅਸੀਂ ਚੋਰੀ ਹੋਣ ਦੀ ਨਿਗਰਾਨੀ ਕਰਾਂਗੇ ਅਤੇ ਪ੍ਰਭਾਵਿਤ ਹੋਣ ਉੱਤੇ ਤੁਹਾਨੂੰ ਸਾਵਧਾਨ ਕਰਾਂਗੇ।
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = ਸ਼ੁਰੂ ਕਰਨ ਵਾਸਤੇ ਉਹਨਾਂ ਨੂੰ ਇੱਥੇ ਜੋੜੋ।
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = ਦਸਤੀ ਜੋੜੋ
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = ਬਿਨਾਂ ਸੰਭਾਲੇ ਬੰਦ ਕਰਨਾ ਹੈ?
+    .message = ਤੁਹਾਡੀਆਂ ਤਬਦੀਲੀਆਂ ਨੂੰ ਸੰਭਾਲਿਆ ਨਹੀਂ ਜਾਵੇਗਾ।
+contextual-manager-passwords-discard-changes-close-button = ਬੰਦ ਕਰੋ
+contextual-manager-passwords-discard-changes-go-back-button = ਪਿੱਛੇ ਜਾਓ
