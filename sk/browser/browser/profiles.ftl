@@ -7,6 +7,8 @@ profile-window-body = Udržujte svoje pracovné a osobné prehliadanie, vrátane
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Pri spustení { -brand-short-name(case: "gen") } vždy ponúkať voľbu profilu
+# This subcopy appears below the checkbox when it is unchecked
+profile-window-checkbox-subcopy = { -brand-short-name } otvorí váš naposledy použitý profil.
 profile-window-create-profile = Vytvoriť profil
 profile-card-edit-button =
     .title = Upraviť profil

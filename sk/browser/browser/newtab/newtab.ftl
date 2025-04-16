@@ -530,3 +530,23 @@ newtab-custom-wallpaper-cta = Vyskúšajte to
 
 ## Strings for reporting ads and content
 
+newtab-report-content-why-reporting-this =
+    .label = Prečo to nahlasujete?
+newtab-report-ads-reason-not-interested =
+    .label = Nemám záujem
+newtab-report-ads-reason-inappropriate =
+    .label = Je to nevhodné
+newtab-report-ads-reason-seen-it-too-many-times =
+    .label = Videl som to príliš veľakrát
+newtab-report-content-wrong-category =
+    .label = Nesprávna kategória
+newtab-report-content-outdated =
+    .label = Zastarané
+newtab-report-content-inappropriate-offensive =
+    .label = Nevhodné alebo urážlivé
+newtab-report-content-spam-misleading =
+    .label = Spam alebo zavádzanie
+newtab-report-cancel = Zrušiť
+newtab-report-submit = Odoslať
+newtab-toast-thanks-for-feedback =
+    .message = Ďakujeme za vašu spätnú väzbu.
