@@ -59,6 +59,7 @@ history-section-label = Историю
 item-history-and-downloads =
     .label = Журнал посещений и загрузок
     .accesskey = п
+item-history-and-downloads-description2 = Очищает историю страниц и загрузок
 item-history-and-downloads-description = Удаляет историю поиска, сайтов и загрузок
 item-history-form-data-downloads =
     .label = Журнал

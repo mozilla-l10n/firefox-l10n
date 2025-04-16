@@ -31,6 +31,15 @@ sidebar-history-sort-by-site =
     .label = Сортировать по сайтам
 sidebar-history-clear =
     .label = Очистить журнал
+sidebar-history-sort-by-heading = Сортировать по:
+sidebar-history-sort-option-date =
+    .label = Дата
+sidebar-history-sort-option-site =
+    .label = Сайт
+sidebar-history-sort-option-date-and-site =
+    .label = Дата и сайт
+sidebar-history-sort-option-last-visited =
+    .label = Последнее посещение
 
 ## Labels for sidebar search
 

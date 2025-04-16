@@ -66,8 +66,12 @@ about-logging-unknown-profiler-preset = Неизвестная предуста�
 about-logging-unknown-option = Неизвестная настройка about:logging «{ $k }»
 about-logging-configuration-url-ignored = Сетевой адрес конфигурации проигнорирован
 about-logging-file-and-profiler-override = Невозможно одновременно принудительно вывести в файл и переопределить настройки профайлера.
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-unknown-error = Произошла ошибка: { $errorText }
 about-logging-configured-via-url = Опция настроена через сетевой адрес
 
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
+about-logging-upload-question = Данные профиля были захвачены. Вы хотите его сохранить или выгрузить?
