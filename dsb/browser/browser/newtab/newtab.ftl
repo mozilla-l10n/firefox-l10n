@@ -535,3 +535,23 @@ newtab-custom-wallpaper-cta = Wopytajśo jen
 
 ## Strings for reporting ads and content
 
+newtab-report-content-why-reporting-this =
+    .label = Cogodla dawaśo to k wěsći?
+newtab-report-ads-reason-not-interested =
+    .label = Njejsom zajmowany
+newtab-report-ads-reason-inappropriate =
+    .label = Jo njepśigódne
+newtab-report-ads-reason-seen-it-too-many-times =
+    .label = Som to pśecesto wiźeł
+newtab-report-content-wrong-category =
+    .label = Wopacna kategorija
+newtab-report-content-outdated =
+    .label = Zestarjety
+newtab-report-content-inappropriate-offensive =
+    .label = Njepśistojny abo kśiwźecy
+newtab-report-content-spam-misleading =
+    .label = Spam abo torjecy
+newtab-report-cancel = Pśetergnuś
+newtab-report-submit = Wótpósłaś
+newtab-toast-thanks-for-feedback =
+    .message = Źěkujomy se za waš komentar.

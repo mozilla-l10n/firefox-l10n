@@ -59,6 +59,7 @@ history-section-label = Historija
 item-history-and-downloads =
     .label = Pśeglědowańska a ześěgnjeńska historija
     .accesskey = P
+item-history-and-downloads-description2 = Lašujo sedłowu a ześěgnjeńsku historiju
 item-history-and-downloads-description = Lašujo pytańsku, sedłowu a ześěgnjeńsku historiju
 item-history-form-data-downloads =
     .label = Historija

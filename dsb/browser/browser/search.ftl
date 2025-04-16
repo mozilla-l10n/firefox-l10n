@@ -38,6 +38,8 @@ remove-search-engine-button = W pórěźe
 ## Variables
 ## $newEngine (String) - the name of the new default search engine.
 
+reset-search-settings-message = Techniskego problema dla jo se standardna pytnica slědk do { $newEngine } změniła. Źiśo k nastajenjam, aby standardnu pytnicu změnił.
+reset-search-settings-button = W pórěźe
 
 ## Infobar shown when user is prompted to install search engine.
 ## Variables
