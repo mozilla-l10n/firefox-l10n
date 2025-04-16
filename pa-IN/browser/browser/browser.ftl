@@ -350,6 +350,7 @@ quickactions-bookmarks2 = ਬੁੱਕਮਾਰਕਾਂ ਦਾ ਇੰਤਜ਼ਾ�
 quickactions-cmd-bookmarks = ਬੁੱਕਮਾਰਕ
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = ਸੱਜਰੇ ਅਤੀਤ ਨੂੰ ਮਿਟਾਓ
+quickactions-cmd-clearrecenthistory = ਸੱਜਰੇ ਅਤੀਤ, ਅਤੀਤ ਨੂੰ ਮਿਟਾਓ
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = ਅਤੀਤ ਨੂੰ ਮਿਟਾਓ
 quickactions-cmd-clearhistory = ਅਤੀਤ ਨੂੰ ਮਿਟਾਓ
@@ -359,8 +360,18 @@ quickactions-cmd-downloads = ਡਾਊਨਲੋਡ
 # Opens about:addons page in the extensions section
 quickactions-extensions = ਇਕਸਟੈਨਸ਼ਨਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
 quickactions-cmd-extensions = ਇਕਸਟੈਨਸ਼ਨਾਂ
+# Opens Firefox View
+quickactions-firefoxview = { -firefoxview-brand-name } ਨੂੰ ਖੋਲ੍ਹੋ
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = { -firefoxview-brand-name }, { -firefoxview-brand-name } ਨੂੰ ਖੋਲ੍ਹੋ, ਝਲਕ ਨੂੰ ਖੋਲ੍ਹੋ, ਝਲਕ
+# Opens SUMO home page
+quickactions-help = { -brand-product-name } ਮਦਦ
+quickactions-cmd-help = ਮਦਦ, ਸਹਿਯੋਗ
 # Opens the devtools web inspector
 quickactions-inspector2 = ਡਿਵੈਲਪਰ ਟੂਲਾਂ ਨੂੰ ਖੋਲ੍ਹੋ
+quickactions-cmd-inspector2 = ਇੰਸਪੈਕਟਰ, ਡਿਵ-ਟੂਲ, ਡਿਵੈਲਪਮੈੰਟ ਟੂਲ
 quickactions-cmd-inspector = ਇੰਸਪੈਕਟਰ, ਡਿਵ-ਟੂਲ
 # Opens about:logins
 quickactions-logins2 = ਪਾਸਵਰਡਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
@@ -385,6 +396,7 @@ quickactions-restart = { -brand-short-name } ਨੂੰ ਮੁੜ-ਚਾਲੂ �
 quickactions-cmd-restart = ਮੁੜ-ਸ਼ੁਰੂ ਕਰੋ
 # Opens the screenshot tool
 quickactions-screenshot3 = ਸਕਰੀਨ-ਸ਼ਾਟ ਲਵੋ
+quickactions-cmd-screenshot2 = ਸਕਰੀਨਸ਼ਾਟ, ਸ਼ਕਰੀਨਸ਼ਾਟ ਲਵੋ
 quickactions-cmd-screenshot = ਸਕਰੀਨਸ਼ਾਟ
 # Opens about:preferences
 quickactions-settings2 = ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
@@ -397,6 +409,7 @@ quickactions-update = { -brand-short-name } ਨੂੰ ਅੱਪਡੇਟ ਕਰ�
 quickactions-cmd-update = ਅੱਪਡੇਟ ਕਰੋ
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = ਸਫ਼ੇ ਦੇ ਸਰੋਤ ਨੂੰ ਵੇਖੋ
+quickactions-cmd-viewsource2 = ਸਰੋਤ ਨੂੰ ਵੇਖੋ, ਸਰੋਤ, ਸਫ਼ੇ ਦਾ ਸਰੋਤ
 quickactions-cmd-viewsource = ਸਰੋਤ ਵੇਖੋ, ਸਰੋਤ
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -709,6 +722,11 @@ urlbar-result-action-undefined-calculator-result = ਨਾ-ਪਰਿਭਾਸ਼ਿ�
 #  $result (String): the string representation for a result in scientific notation
 #  (e.g. "1.0e17").
 urlbar-result-action-calculator-result-scientific-notation = = { $result }
+# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
+# The last = sign will be shown as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "false", maximumFractionDigits: 8) }
 # Shows the result of a formula expression being calculated, to a maximum of 9 significant
 # digits. This is used for numbers < 1.
 # The last = sign will be shown as part of the result (e.g. "= 0.333333333").
@@ -993,6 +1011,9 @@ panel-save-update-password = ਪਾਸਵਰਡ
 # "More" item in macOS share menu
 menu-share-more =
     .label = …ਹੋਰ
+menu-share-copy-link =
+    .label = ਲਿੰਕ ਨੂੰ ਕਾਪੀ ਕਰੋ
+    .accesskey = L
 ui-tour-info-panel-close =
     .tooltiptext = ਬੰਦ ਕਰੋ
 
