@@ -291,6 +291,11 @@ addon-options-button =
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
 discopane-intro2 = 您可通过安装扩展和主题来定制 { -brand-product-name }，强化隐私保护、提升浏览效率、改进媒体体验、更改 { -brand-product-name } 外观，还有更多妙用。这些小型软件程序大多由第三方开发。以下是一些 { -brand-product-name } <a data-l10n-name="learn-more-trigger">推荐</a>的附加组件，它们在安全、性能、功能等方面表现优秀。
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 = 您可通过安装扩展和主题来定制 { -brand-product-name }，强化隐私保护、提升浏览效率、改进媒体体验、更改 { -brand-product-name } 外观，还有更多妙用。这些小型软件程序大多由第三方开发。以下是一些 Firefox <a data-l10n-name="learn-more-trigger">推荐</a>的附加组件，它们在安全、性能、功能等方面表现优秀。
 
 ## Add-on actions
 
@@ -425,6 +430,13 @@ addon-badge-recommended3 =
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = 由 Mozilla 构建的官方扩展，符合安全和性能标准
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are performing the
+# security or performance reviews. As such, we avoid personalising language
+# like the words "our" or "we".
+addon-badge-verified4 =
+    .title = 此扩展已通过审核，符合我们的安全和性能标准
 addon-badge-verified3 =
     .title = 此扩展已通过审核，符合我们的安全和性能标准
 

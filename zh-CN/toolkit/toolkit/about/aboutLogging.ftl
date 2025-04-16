@@ -66,8 +66,29 @@ about-logging-unknown-profiler-preset = 性能分析预设置“{ $v }”未知
 about-logging-unknown-option = about:logging 选项“{ $k }”未知
 about-logging-configuration-url-ignored = 已忽略配置 URL
 about-logging-file-and-profiler-override = 无法同时强制输出到文件并覆盖性能分析选项
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-unknown-error = 发生错误：{ $errorText }
 about-logging-configured-via-url = 通过 URL 配置的选项
 
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
+about-logging-save-button = 保存
+about-logging-upload-button = 上传
+# Variables:
+#   $path (string) - The path where the profile can be found.
+about-logging-saved = 已保存到 { $path }
+# Variables:
+#   $percent (number) - The upload completion progress, to be displayed as a percentage. This is a value between 0 and 1.
+about-logging-uploading-progress = 正在上传分析记录数据：{ NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+# Variables:
+#   $url (string) - The URL where the profile can be found
+about-logging-uploaded = 已上传至 <a data-l10n-name="uploaded-message-url">{ $url }</a>
+about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> 分享网址
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-upload-error = 上传分析记录时发生错误：{ $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-save-error = 保存文件时发生错误：{ $errorText }

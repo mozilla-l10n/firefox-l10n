@@ -526,3 +526,7 @@ newtab-custom-wallpaper-cta = 试试看
 
 ## Strings for reporting ads and content
 
+newtab-report-cancel = 取消
+newtab-report-submit = 提交
+newtab-toast-thanks-for-feedback =
+    .message = 感谢反馈。
