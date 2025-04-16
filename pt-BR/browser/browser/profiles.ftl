@@ -7,6 +7,8 @@ profile-window-body = Mantenha totalmente separada sua navegação profissional 
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Escolher um perfil ao abrir o { -brand-short-name }
+# This subcopy appears below the checkbox when it is unchecked
+profile-window-checkbox-subcopy = O { -brand-short-name } será aberto com o mais recente perfil usado.
 profile-window-create-profile = Criar perfil
 profile-card-edit-button =
     .title = Editar perfil
