@@ -59,6 +59,7 @@ history-section-label = Historial
 item-history-and-downloads =
     .label = Historial de descargas y navegación
     .accesskey = H
+item-history-and-downloads-description2 = Limpia el historial del sitio y de descargas
 item-history-and-downloads-description = Limpia el historial de búsquedas, del sitio y de descargas
 item-history-form-data-downloads =
     .label = Historial

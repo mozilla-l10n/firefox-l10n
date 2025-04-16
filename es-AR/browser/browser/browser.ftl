@@ -207,6 +207,12 @@ urlbar-result-menu-show-less-frequently =
     .label = Mostrar menos frecuentemente
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = No mostrar sugerencias de clima
+# A message shown in the urlbar when the user submits feedback on a suggestion
+# (e.g., it shows an inaccurate location, it's shown too often, etc.).
+urlbar-feedback-acknowledgment = Gracias por sus comentarios
+# A message shown in the urlbar when the user dismisses weather suggestions.
+# Weather suggestions won't be shown at all anymore.
+urlbar-dismissal-acknowledgment-weather = Gracias por su opinión. Ya no verá sugerencias de clima.
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
