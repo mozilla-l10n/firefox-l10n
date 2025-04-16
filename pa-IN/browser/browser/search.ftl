@@ -38,6 +38,7 @@ remove-search-engine-button = ਠੀਕ ਹੈ
 ## Variables
 ## $newEngine (String) - the name of the new default search engine.
 
+reset-search-settings-message = ਤਕਨੀਕੀ ਕਾਰਨਾਂ ਕਰਕੇ ਤੁਹਾਡੇ ਮੂਲ ਖੋਜ ਇੰਜਣ ਨੂੰ ਵਾਪਸ { $newEngine } ਲਈ ਬਦਲਿਆ ਗਿਆ ਹੈ। ਮੂਲ ਖੋਜ ਇੰਜਣ ਨੂੰ ਬਦਲਣ ਲਈ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਜਾਓ।
 reset-search-settings-button = ਠੀਕ ਹੈ
 
 ## Infobar shown when user is prompted to install search engine.

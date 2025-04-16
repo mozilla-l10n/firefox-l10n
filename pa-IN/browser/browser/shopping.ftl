@@ -259,6 +259,7 @@ shopping-opt-in-integrated-headline = ਭਰੋਸੇ ਨਾਲ ਖਰੀਦਦ�
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-opt-in-integrated-headline = ਕੀ ਤੁਸੀਂ ਇਹ ਰੀਵਿਊ ਉੱਤੇ ਭਰੋਸਾ ਕਰ ਸਕਦੇ ਹੋ?
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = ਖ਼ਾਰਜ ਕਰੋ
 shopping-callout-not-opted-in-integrated-reminder-accept-button = ਰੀਵਿਊ ਚੈਕਰ ਨੂੰ ਚਾਲੂ ਕਰੋ
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = ਇਹ ਸਿਫ਼ਾਰਸ਼ ਮੁੜ ਕੇ ਨਾ ਦਿਖਾਓ
