@@ -38,6 +38,7 @@ remove-search-engine-button = 확인
 ## Variables
 ## $newEngine (String) - the name of the new default search engine.
 
+reset-search-settings-button = 확인
 
 ## Infobar shown when user is prompted to install search engine.
 ## Variables

@@ -532,3 +532,23 @@ newtab-custom-wallpaper-cta = 사용해 보기
 
 ## Strings for reporting ads and content
 
+newtab-report-content-why-reporting-this =
+    .label = 보고하는 이유?
+newtab-report-ads-reason-not-interested =
+    .label = 관심 없음
+newtab-report-ads-reason-inappropriate =
+    .label = 부적절함
+newtab-report-ads-reason-seen-it-too-many-times =
+    .label = 너무 많이 본 경우
+newtab-report-content-wrong-category =
+    .label = 잘못된 분류
+newtab-report-content-outdated =
+    .label = 오래됨
+newtab-report-content-inappropriate-offensive =
+    .label = 부적절하거나 불쾌감을 주는 내용
+newtab-report-content-spam-misleading =
+    .label = 스팸 또는 오해의 소지가 있는 내용
+newtab-report-cancel = 취소
+newtab-report-submit = 보내기
+newtab-toast-thanks-for-feedback =
+    .message = 의견을 보내 주셔서 감사합니다.

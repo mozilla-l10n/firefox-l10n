@@ -87,3 +87,9 @@ about-logging-uploading-progress = Subiendo datos del perfil: { NUMBER($percent,
 #   $url (string) - The URL where the profile can be found
 about-logging-uploaded = Subido a <a data-l10n-name="uploaded-message-url">{ $url }</a>
 about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Compartir URL
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-upload-error = Ocurrió un error al subir el perfil: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-save-error = Ocurrió un error al guardar el archivo: { $errorText }

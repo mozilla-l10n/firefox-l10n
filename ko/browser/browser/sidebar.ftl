@@ -31,6 +31,15 @@ sidebar-history-sort-by-site =
     .label = 사이트순 정렬
 sidebar-history-clear =
     .label = 기록 지우기
+sidebar-history-sort-by-heading = 정렬 기준:
+sidebar-history-sort-option-date =
+    .label = 날짜
+sidebar-history-sort-option-site =
+    .label = 사이트
+sidebar-history-sort-option-date-and-site =
+    .label = 날짜 및 사이트
+sidebar-history-sort-option-last-visited =
+    .label = 마지막 방문
 
 ## Labels for sidebar search
 
