@@ -59,6 +59,7 @@ history-section-label = ਅਤੀਤ
 item-history-and-downloads =
     .label = ਬਰਾਊਜ਼ਿੰਗ ਅਤੇ ਡਾਊਨਲੋਡ ਅਤੀਤ
     .accesskey = B
+item-history-and-downloads-description2 = ਸਾਈਟ ਅਤੇ ਡਾਊਨਲੋਡ ਅਤੀਤ ਨੂੰ ਮਿਟਾਉਂਦਾ ਹੈ
 item-history-and-downloads-description = ਖੋਜ, ਸਾਈਟ ਅਤੇ ਡਾਊਨਲੋਡ ਅਤੀਤ ਨੂੰ ਮਿਟਾਉਂਦਾ ਹੈ।
 item-history-form-data-downloads =
     .label = ਅਤੀਤ

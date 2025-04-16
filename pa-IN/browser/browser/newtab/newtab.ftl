@@ -117,6 +117,7 @@ newtab-menu-delete-pocket = { -pocket-brand-name } ਤੋਂ ਹਟਾਓ
 newtab-menu-archive-pocket = { -pocket-brand-name } ਵਿੱਚ ਪੁਰਾਲੇਖਬੱਧ ਕਰੋ
 newtab-menu-show-privacy-info = ਸਾਡੇ ਸਪਾਂਸਰ ਅਤੇ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ
 newtab-menu-about-fakespot = { -fakespot-brand-name } ਬਾਰੇ
+newtab-menu-report-content = ਇਸ ਸਮੱਗਰੀ ਬਾਰੇ ਰਿਪੋਰਟ ਕਰੋ
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = ਪਾਬੰਦੀ
@@ -128,6 +129,7 @@ newtab-menu-section-unfollow = ਵਿਸ਼ੇ ਨੂੰ ਅਣ-ਫ਼ਾਲੋ ਕ
 
 newtab-menu-manage-sponsored-content = ਸਪੌਂਸਰ ਕੀਤੀ ਸਮੱਗਰੀ ਦਾ ਇੰਤਜ਼ਾਮ
 newtab-menu-our-sponsors-and-your-privacy = ਸਾਡੇ ਸਪੌਂਸਰ ਅਤੇ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ
+newtab-menu-report-this-ad = ਇਸ ਇਸ਼ਤਿਹਾਰ ਬਾਰੇ ਰਿਪੋਰਟ ਕਰੋ
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -523,6 +525,12 @@ newtab-section-mangage-topics-followed-topics = ਫ਼ਾਲੋ ਕੀਤੇ
 newtab-section-mangage-topics-followed-topics-empty-state = ਤੁਸੀਂ ਹਾਲੇ ਕਿਸੇ ਵੀ ਵਿਸ਼ੇ ਨੂੰ ਫ਼ਾਲੋ ਨਹੀਂ ਕੀਤਾ ਹੈ।
 newtab-section-mangage-topics-blocked-topics = ਪਾਬੰਦੀ ਲਗਾਏ
 newtab-section-mangage-topics-blocked-topics-empty-state = ਤੁਸੀਂ ਹਾਲੇ ਕਿਸੇ ਵੀ ਵਿਸ਼ੇ ਉੱਤੇ ਪਾਬੰਦੀ ਨਹੀਂ ਲਾਈ ਹੈ।
+newtab-custom-wallpaper-title = ਪਸੰਦੀਦਾ ਵਾਲਪੇਪਰ ਇੱਥੇ ਹਨ
+newtab-custom-wallpaper-cta = ਅਜ਼ਮਾਓ
 
 ## Strings for reporting ads and content
 
+newtab-report-cancel = ਰੱਦ ਕਰੋ
+newtab-report-submit = ਭੇਜੋ
+newtab-toast-thanks-for-feedback =
+    .message = ਤੁਹਾਡੀ ਫ਼ੀਡਬੈਕ ਲਈ ਤੁਹਾਡਾ ਧੰਨਵਾਦ ਹੈ।

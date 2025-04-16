@@ -254,9 +254,17 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 ## Review Checker in Integrated sidebar
 
+# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
+shopping-opt-in-integrated-headline = ਭਰੋਸੇ ਨਾਲ ਖਰੀਦਦਾਰੀ ਕਰੋ
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-not-opted-in-integrated-reminder-dismiss-button = ਖ਼ਾਰਜ ਕਰੋ
+shopping-callout-not-opted-in-integrated-reminder-accept-button = ਰੀਵਿਊ ਚੈਕਰ ਨੂੰ ਚਾਲੂ ਕਰੋ
+shopping-callout-not-opted-in-integrated-reminder-do-not-show = ਇਹ ਸਿਫ਼ਾਰਸ਼ ਮੁੜ ਕੇ ਨਾ ਦਿਖਾਓ
+shopping-callout-not-opted-in-integrated-reminder-show-fewer = ਸਿਫ਼ਾਰਸ਼ਾਂ ਥੋੜ੍ਹੀਆਂ ਘੱਟ ਦਿਖਾਓ
+shopping-callout-not-opted-in-integrated-reminder-manage-settings = ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+shopping-opt-in-integrated-button = ਰੀਵਿਊ ਚੈਕਰ ਅਜ਼ਮਾਓ
 
 ## Message strings for Review Checker's empty states.
 

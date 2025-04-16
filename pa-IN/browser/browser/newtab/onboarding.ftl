@@ -25,6 +25,8 @@ return-to-amo-subtitle = ਬੱਲੇ, ਤੁਸੀਂ { -brand-short-name } ਪ
 return-to-amo-addon-title = ਆਓ ਫਿਰ ਹੁਣ <img data-l10n-name="icon"/> <b>{ $addon-name }</b> ਵੇਖੀਏ।
 return-to-amo-add-extension-label = ਇਕਸਟੈਨਸ਼ਨ ਜੋੜੋ
 return-to-amo-add-theme-label = ਥੀਮ ਜੋੜੋ
+return-to-amo-theme-install-complete-label = ਥੀਮ ਇੰਸਟਾਲ ਕੀਤਾ
+return-to-amo-extension-install-complete-label = ਇਕਸਟੈਨਸ਼ਨ ਇੰਸਟਾਲ ਕੀਤੀ
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 

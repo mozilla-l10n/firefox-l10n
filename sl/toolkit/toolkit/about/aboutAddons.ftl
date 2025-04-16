@@ -305,6 +305,16 @@ discopane-intro2 =
     še veliko več. Te programčke običajno razvijajo neodvisni ponudniki. Tukaj je
     izbor, ki ga { -brand-product-name } <a data-l10n-name="learn-more-trigger">priporoča</a>
     zaradi izjemne varnosti, zmogljivosti in funkcionalnosti.
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 =
+    Razširitve in teme vam omogočajo prilagajanje { -brand-product-name(sklon: "rodilnik") }. Z njimi lahko izboljšate zasebnost,
+    povečate produktivnost, obogatite predstavnost, spremenite videz { -brand-product-name(sklon: "rodilnik") } in
+    še veliko več. Te programčke običajno razvijajo neodvisni ponudniki. Tukaj je
+    izbor, ki ga Firefox <a data-l10n-name="learn-more-trigger">priporoča</a> zaradi
+    izjemne varnosti, zmogljivosti in funkcionalnosti.
 
 ## Add-on actions
 
@@ -442,8 +452,22 @@ addon-badge-recommended3 =
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Uradna razširitev, katere avtor je Mozilla. Izpolnjuje standarde varnosti in učinkovitosti delovanja
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are performing the
+# security or performance reviews. As such, we avoid personalising language
+# like the words "our" or "we".
+addon-badge-verified4 =
+    .title = Ta razširitev preverjeno izpolnjuje standarde glede varnosti in učinkovitosti delovanja
 addon-badge-verified3 =
     .title = Ta razširitev preverjeno izpolnjuje naše standarde glede varnosti in učinkovitosti delovanja.
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are making the
+# recommendation. As such, we hard code "Firefox" and avoid personalising
+# language like the words "our" or "we".
+addon-badge-recommended4 =
+    .title = Firefox priporoča samo razširitve, ki ustrezajo standardom glede varnosti in učinkovitosti delovanja
 
 ##
 
