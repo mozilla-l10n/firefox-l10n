@@ -309,6 +309,16 @@ discopane-intro2 =
     sa folle mear. Dizze lytse softwareprogramma’s wurde faak troch in tredde partij ûntwikkele. Dit is
     in seleksje dy’t { -brand-product-name } <a data-l10n-name="learn-more-trigger">oanrekommandearret</a>
     foar útsûnderlike befeiliging, prestaasjes en funksjonaliteit.
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 =
+    Me útwreidingen en tema’s kinne jo { -brand-product-name } oanpasse. Se kinne privacy,
+    produktiviteit en media ferbetterje, it uterlik fan { -brand-product-name } wizigje, en
+    sa folle mear. Dizze lytse softwareprogramma’s wurde faak troch in tredde partij ûntwikkele. Dit is
+    in seleksje dy’t Firefox <a data-l10n-name="learn-more-trigger">oanrekommandearret</a>
+    foar útsûnderlike befeiliging, prestaasjes en funksjonaliteit.
 
 ## Add-on actions
 
@@ -444,8 +454,22 @@ addon-badge-recommended3 =
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Offisjele troch Mozilla Firefox boude útwreiding. Foldocht oan befeiligings- en prestaasjenoarmen.
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are performing the
+# security or performance reviews. As such, we avoid personalising language
+# like the words "our" or "we".
+addon-badge-verified4 =
+    .title = Dizze útwreiding is beoardiele en foldocht oan noarms foar befeiliging en prestaasjes
 addon-badge-verified3 =
     .title = Dizze útwreiding is beoardiele en foldocht oan ús noarms foar befeiliging en prestaasjes
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are making the
+# recommendation. As such, we hard code "Firefox" and avoid personalising
+# language like the words "our" or "we".
+addon-badge-recommended4 =
+    .title = Firefox rekommandearret allinnich útwreidingen oan dy’t oan noarms foar befeiliging en prestaasjes foldogge.
 
 ##
 

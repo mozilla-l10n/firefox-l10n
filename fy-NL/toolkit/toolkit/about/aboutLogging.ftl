@@ -66,8 +66,14 @@ about-logging-unknown-profiler-preset = Unbekende foarynstelling foar profiler �
 about-logging-unknown-option = Unbekende about:logging-opsje ‘{ $k }’
 about-logging-configuration-url-ignored = Konfiguraasje-URL negearre
 about-logging-file-and-profiler-override = Kin net tagelyk bestânsútfier forsearje en profileropsjes oerskriuwe
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-unknown-error = Der is in flater bard : { $errorText }
 about-logging-configured-via-url = Opsje konfigurearre fia URL
 
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
+about-logging-upload-question = De profylgegevens binne fêstlein. Wolle jo dizze bewarje of oplade?
+about-logging-save-button = Bewarje
+about-logging-upload-button = Oplade

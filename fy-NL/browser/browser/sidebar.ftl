@@ -31,6 +31,15 @@ sidebar-history-sort-by-site =
     .label = Sortearje op website
 sidebar-history-clear =
     .label = Skiednis wiskje
+sidebar-history-sort-by-heading = Sortearje op:
+sidebar-history-sort-option-date =
+    .label = Datum
+sidebar-history-sort-option-site =
+    .label = Website
+sidebar-history-sort-option-date-and-site =
+    .label = Datum en website
+sidebar-history-sort-option-last-visited =
+    .label = Lêst besocht
 
 ## Labels for sidebar search
 

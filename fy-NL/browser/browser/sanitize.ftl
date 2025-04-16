@@ -59,6 +59,7 @@ history-section-label = Skiednis
 item-history-and-downloads =
     .label = Navigaasje- en downloadskiednis
     .accesskey = S
+item-history-and-downloads-description2 = Wisket website- en downloadskiednis
 item-history-and-downloads-description = Wisket syk-, website- en downloadskiednis
 item-history-form-data-downloads =
     .label = Skiednis
