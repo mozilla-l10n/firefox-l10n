@@ -526,3 +526,23 @@ newtab-custom-wallpaper-cta = Essayer
 
 ## Strings for reporting ads and content
 
+newtab-report-content-why-reporting-this =
+    .label = Pourquoi signalez-vous ce contenu ?
+newtab-report-ads-reason-not-interested =
+    .label = Je ne suis pas intéressé·e
+newtab-report-ads-reason-inappropriate =
+    .label = Il est inapproprié
+newtab-report-ads-reason-seen-it-too-many-times =
+    .label = Je l’ai vu trop de fois
+newtab-report-content-wrong-category =
+    .label = Mauvaise catégorie
+newtab-report-content-outdated =
+    .label = Obsolète
+newtab-report-content-inappropriate-offensive =
+    .label = Inapproprié ou choquant
+newtab-report-content-spam-misleading =
+    .label = Spam ou trompeur
+newtab-report-cancel = Annuler
+newtab-report-submit = Envoyer
+newtab-toast-thanks-for-feedback =
+    .message = Merci de votre retour.

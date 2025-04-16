@@ -31,6 +31,15 @@ sidebar-history-sort-by-site =
     .label = Trier par site
 sidebar-history-clear =
     .label = Effacer l’historique
+sidebar-history-sort-by-heading = Trier par :
+sidebar-history-sort-option-date =
+    .label = Date
+sidebar-history-sort-option-site =
+    .label = Site
+sidebar-history-sort-option-date-and-site =
+    .label = Date et site
+sidebar-history-sort-option-last-visited =
+    .label = Date de visite
 
 ## Labels for sidebar search
 
