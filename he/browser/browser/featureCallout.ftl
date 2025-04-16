@@ -47,6 +47,9 @@ split-dismiss-button-show-fewer-option =
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option =
     .label = ניהול הגדרות
+# Accessibility label for dropdown menu button
+split-dismiss-button-default-label =
+    .title = אפשרויות נוספות
 
 ## Sidebar Strings
 

@@ -527,3 +527,13 @@ newtab-custom-wallpaper-cta = בואו ננסה
 
 ## Strings for reporting ads and content
 
+newtab-report-content-why-reporting-this =
+    .label = על מה הדיווח?
+newtab-report-ads-reason-not-interested =
+    .label = אין לי עניין בזה
+newtab-report-ads-reason-inappropriate =
+    .label = זה לא הולם
+newtab-report-ads-reason-seen-it-too-many-times =
+    .label = ראיתי את זה יותר מדי פעמים
+newtab-report-content-wrong-category =
+    .label = קטגוריה שגויה
