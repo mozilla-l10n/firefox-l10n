@@ -31,6 +31,13 @@ sidebar-history-sort-by-site =
     .label = Ordinar per sito
 sidebar-history-clear =
     .label = Vacuar le chronologia
+sidebar-history-sort-by-heading = Ordinar per:
+sidebar-history-sort-option-date =
+    .label = Data
+sidebar-history-sort-option-site =
+    .label = Sito
+sidebar-history-sort-option-date-and-site =
+    .label = Data a sito
 
 ## Labels for sidebar search
 
