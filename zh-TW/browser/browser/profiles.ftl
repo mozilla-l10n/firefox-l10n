@@ -7,6 +7,8 @@ profile-window-body = 讓您工作與個人使用的上網紀錄（包含網站�
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = 於 { -brand-short-name } 啟動時選擇設定檔
+# This subcopy appears below the checkbox when it is unchecked
+profile-window-checkbox-subcopy = { -brand-short-name } 將開啟您最近使用的設定檔。
 profile-window-create-profile = 建立設定檔
 profile-card-edit-button =
     .title = 編輯設定檔

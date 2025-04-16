@@ -38,6 +38,7 @@ remove-search-engine-button = 確定
 ## Variables
 ## $newEngine (String) - the name of the new default search engine.
 
+reset-search-settings-message = 由於技術問題，需將您的預設搜尋引擎改回 { $newEngine }。可到「設定」更改預設搜尋引擎。
 reset-search-settings-button = 確定
 
 ## Infobar shown when user is prompted to install search engine.
