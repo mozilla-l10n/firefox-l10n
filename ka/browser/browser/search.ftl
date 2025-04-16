@@ -38,6 +38,8 @@ remove-search-engine-button = კარგი
 ## Variables
 ## $newEngine (String) - the name of the new default search engine.
 
+reset-search-settings-message = ტექნიკური ხარვეზის გამო თქვენს ნაგულისხმევ საძიებოდ დაბრუნდა { $newEngine }. თუ გსურთ შეცვალოთ ნაგულისხმევი საძიებო, გადადით პარამეტრებში.
+reset-search-settings-button = კარგი
 
 ## Infobar shown when user is prompted to install search engine.
 ## Variables

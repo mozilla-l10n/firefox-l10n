@@ -66,6 +66,9 @@ about-logging-unknown-profiler-preset = Réglage du profileur « { $v } » inc
 about-logging-unknown-option = Option « { $k } » pour about:logging inconnue
 about-logging-configuration-url-ignored = URL de configuration ignorée
 about-logging-file-and-profiler-override = Impossible de forcer la sortie du fichier et de remplacer les options du profileur en même temps
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-unknown-error = Une erreur est survenue : { $errorText }
 about-logging-configured-via-url = Option configurée par URL
 
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud

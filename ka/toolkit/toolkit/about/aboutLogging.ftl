@@ -66,8 +66,30 @@ about-logging-unknown-profiler-preset = Profiler-ის დაუდგენე
 about-logging-unknown-option = დაუდგენელი about:logging-პარამეტრი „{ $k }“
 about-logging-configuration-url-ignored = გამართვის ბმული უგულებელყოფილია
 about-logging-file-and-profiler-override = შეუძლებელია ფაილში გამოტანის იძულება და Profilier-პარამეტრების ჩანაცვლება ერთდროულად
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-unknown-error = წარმოიშვა შეცდომა: { $errorText }
 about-logging-configured-via-url = პარამეტრი გამართულია ბმულის მეშვეობით
 
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
+about-logging-upload-question = პროფილის მონაცემები აღებულია. გსურთ შეინახოს, თუ აიტვირთოს?
+about-logging-save-button = შენახვა
+about-logging-upload-button = ატვირთვა
+# Variables:
+#   $path (string) - The path where the profile can be found.
+about-logging-saved = შესანახი მდებარეობა { $path }
+# Variables:
+#   $percent (number) - The upload completion progress, to be displayed as a percentage. This is a value between 0 and 1.
+about-logging-uploading-progress = იტვირთება პროფილის მონაცემები: { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+# Variables:
+#   $url (string) - The URL where the profile can be found
+about-logging-uploaded = ატვირთულია მისამართზე <a data-l10n-name="uploaded-message-url">{ $url }</a>
+about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> URL-ბმულის გაზიარება
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-upload-error = შეცდომა წარმოიშვა პროფილის ატვირთვისას: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-save-error = შეცდომა წარმოიშვა ფაილის შენახვისას: { $errorText }
