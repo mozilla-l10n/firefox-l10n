@@ -205,9 +205,14 @@ urlbar-result-menu-report-inaccurate-location =
     .label = Relatar localização imprecisa
 urlbar-result-menu-show-less-frequently =
     .label = Mostrar com menos frequência
+urlbar-result-menu-dont-show-weather-suggestions =
+    .label = Não mostrar sugestões meteorológicas
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Obrigado por sua opinião
+# A message shown in the urlbar when the user dismisses weather suggestions.
+# Weather suggestions won't be shown at all anymore.
+urlbar-dismissal-acknowledgment-weather = Obrigado por sua opinião Não irá mais aparecer sugestões meteorológicas.
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
