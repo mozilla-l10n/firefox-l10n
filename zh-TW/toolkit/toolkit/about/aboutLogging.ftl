@@ -26,7 +26,7 @@ about-logging-logging-to-profiler = 記錄到 { -profiler-brand-name }
 about-logging-no-log-modules = 無
 about-logging-no-log-file = 無
 about-logging-logging-preset-selector-text = 預設記錄類型：
-about-logging-with-profiler-stacks-checkbox = 開啟紀錄訊息的堆疊追踪
+about-logging-with-profiler-stacks-checkbox = 開啟紀錄訊息的堆疊追蹤
 
 ## Logging presets
 
