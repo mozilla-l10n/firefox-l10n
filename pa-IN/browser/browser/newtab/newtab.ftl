@@ -530,6 +530,22 @@ newtab-custom-wallpaper-cta = ਅਜ਼ਮਾਓ
 
 ## Strings for reporting ads and content
 
+newtab-report-content-why-reporting-this =
+    .label = ਤੁਸੀਂ ਇਸ ਬਾਰੇ ਰਿਪੋਰਟ ਕਿਉਂ ਕਰ ਰਹੇ ਹੋ?
+newtab-report-ads-reason-not-interested =
+    .label = ਮੇਰੀ ਦਿਲਚਸਪੀ ਨਹੀਂ ਹੈ
+newtab-report-ads-reason-inappropriate =
+    .label = ਇਹ ਬੇਤੁਕਾ ਹੈ
+newtab-report-ads-reason-seen-it-too-many-times =
+    .label = ਮੈਂ ਇਸ ਨੂੰ ਬਹੁਤ ਵਾਰ ਦੇਖਿਆ
+newtab-report-content-wrong-category =
+    .label = ਗਲਤ ਵਰਗ
+newtab-report-content-outdated =
+    .label = ਪੁਰਾਣਾ
+newtab-report-content-inappropriate-offensive =
+    .label = ਬੇਤੁਕੀ ਜਾਂ ਅਪਮਾਨਜਨਕ
+newtab-report-content-spam-misleading =
+    .label = ਸਪੈਮ ਜਾਂ ਗੁੰਮਰਾਹਕੁੰਨ
 newtab-report-cancel = ਰੱਦ ਕਰੋ
 newtab-report-submit = ਭੇਜੋ
 newtab-toast-thanks-for-feedback =

@@ -109,8 +109,11 @@ genai-options-about-chatbot =
 ## Chatbot onboarding
 
 genai-onboarding-header = ਬਰਾਊਜ਼ ਕਰਦੇ ਸਮੇਂ ਹੀ ਸਾਰ ਵੇਖੋ, ਦਿਮਾਗ ਲੜਾਓ ਤੇ ਹੋਰ ਕਈ ਕੁਝ ਕਰੋ
+genai-onboarding-choose-header = { -brand-short-name } ਬਾਹੀ ਵਿੱਚ ਵਰਤਣ ਲਈ AI ਚੈਟਬੋਟ ਨੂੰ ਚੁਣੋ
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = { -brand-short-name } ਬਾਹੀ ਵਿੱਚ ਵਰਤਣ ਵਾਸਤੇ AI ਚੈਟ-ਬੋਟ ਚੁਣੋ। ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਚੈਟ-ਬੋਟ ਚੁਣੋਗੇ ਤਾਂ ਅਸੀਂ ਹਰ ਉਸ ਦੇ ਵੇਰਵੇ ਦਿਖਾਵਾਂਗੇ। ਕਿਸੇ ਵੇਲੇ ਵੀ ਬਦਲੋ। <a data-l10n-name="learn-more">ਹੋਰ ਜਾਣੋ</a>
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-choose-description = ਕਿਸੇ ਵੀ ਵੇਲੇ ਬਦਲੋ। ਚੁਣਨ ਲਈ ਮਦਦ ਵਾਸਤੇ <a data-l10n-name="learn-more">ਹਰ ਚੈਟਬੋਟ ਬਾਰੇ ਹੋਰ ਜਾਣੋ</a> ਨੂੰ ਚੁਣੋ।
 genai-onboarding-primary = ਜਾਰੀ ਰੱਖੋ
 genai-onboarding-secondary = ਬੰਦ ਕਰੋ
 genai-onboarding-claude-tooltip =

@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-policies-title = ਇੰਟਰਪ੍ਰਾਈਜ਼ ਨੀਤੀਆਂ
+aboutpolicies-page-heading =
+    .heading = ਪਾਲਸੀਆਂ ਬਾਰੇ
 # 'Active' is used to describe the policies that are currently active
 active-policies-tab = ਸਰਗਰਮ
 errors-tab = ਗ਼ਲਤੀਆਂ

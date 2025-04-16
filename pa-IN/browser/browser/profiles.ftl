@@ -7,6 +7,8 @@ profile-window-body = ਆਪਣੇ ਕੰਮ ਅਤੇ ਨਿੱਜੀ ਬਰਾ
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = ਜਦੋਂ { -brand-short-name } ਖੁੱਲ੍ਹਦਾ ਹੈ ਤਾਂ ਇੱਕ ਪਰੋਫ਼ਾਈਲ ਚੁਣੋ
+# This subcopy appears below the checkbox when it is unchecked
+profile-window-checkbox-subcopy = { -brand-short-name } ਤੁਹਾਡੇ ਵਲੋਂ ਸੱਜਰੇ ਵਰਤੇ ਪਰੋਫਾਇਲ ਨੂੰ ਖੋਲ੍ਹੇਗਾ।
 profile-window-create-profile = ਪਰੋਫਾਈਲ ਬਣਾਓ
 profile-card-edit-button =
     .title = ਪਰੋਫਾਈਲ ਨੂੰ ਸੋਧੋ
@@ -96,6 +98,14 @@ profiles-light-theme = ਹਲਕਾ
 profiles-dark-theme = ਗੂੜ੍ਹਾ
 # The default system theme
 profiles-system-theme = ਸਿਸਟਮ
+# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-marigold-theme-2 = ਗੇਂਦੇ ਰੰਗਾ ਪੀਲਾ
+# This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-lichen-theme-2 = ਪੁਦੀਨੇ ਵਰਗਾ ਹਰਾ
+# Ocean blue is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-ocean-theme-2 = ਸਮੁੰਦਰੀ ਨੀਲਾ
+# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of brick masonry. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-terracotta-theme-2 = ਇੱਟ ਵਰਗਾ ਲਾਲ
 
 ## Alternative text for default profile icons
 

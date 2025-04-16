@@ -31,6 +31,15 @@ sidebar-history-sort-by-site =
     .label = ਸਾਈਟ ਰਾਹੀਂ ਲੜੀਬੱਧ
 sidebar-history-clear =
     .label = ਅਤੀਤ ਨੂੰ ਮਿਟਾਓ
+sidebar-history-sort-by-heading = ਲੜੀਬੱਧ:
+sidebar-history-sort-option-date =
+    .label = ਤਾਰੀਖ
+sidebar-history-sort-option-site =
+    .label = ਸਾਈਟ
+sidebar-history-sort-option-date-and-site =
+    .label = ਤਾਰੀਖ਼ ਅਤੇ ਸਾਈਟ
+sidebar-history-sort-option-last-visited =
+    .label = ਪਿਛਲੀ ਵਾਰ ਖੋਲ੍ਹੋ
 
 ## Labels for sidebar search
 

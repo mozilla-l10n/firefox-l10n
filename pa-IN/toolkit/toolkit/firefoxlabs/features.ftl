@@ -26,3 +26,6 @@ experimental-features-contextual-password-manager =
 experimental-features-custom-wallpaper =
     .label = ਨਵੀਂ ਟੈਬ ਵਾਸਤੇ ਪਸੰਦੀਦਾ ਵਾਲਪੇਪਰ ਜਾਂ ਕੋਈ ਰੰਗ ਚੁਣੋ
 experimental-features-custom-wallpaper-description = ਆਪਣੀ ਨਵੀਂ ਟੈਬ ਬੈਕਗਰਾਉਂਡ ਵਾਸਤੇ ਆਪਣਾ ਵਾਲਪੇਪਰ ਅੱਪਲੋਡ ਕਰੋ ਜਾਂ ਪਸੰਦੀਦਾ ਰੰਗ ਚੁਣੋ।
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = ਲਿੰਕ ਦੀ ਝਲਕ
