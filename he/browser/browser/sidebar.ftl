@@ -31,6 +31,12 @@ sidebar-history-sort-by-site =
     .label = מיון לפי אתר
 sidebar-history-clear =
     .label = ניקוי היסטוריה
+sidebar-history-sort-option-site =
+    .label = אתר
+sidebar-history-sort-option-date-and-site =
+    .label = תאריך ואתר
+sidebar-history-sort-option-last-visited =
+    .label = ביקור אחרון
 
 ## Labels for sidebar search
 
