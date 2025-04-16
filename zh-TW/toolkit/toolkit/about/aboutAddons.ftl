@@ -289,6 +289,11 @@ addon-options-button =
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
 discopane-intro2 = 您可以使用擴充套件與佈景主題來自訂 { -brand-product-name }。您可以安裝它們來擴充隱私保護、加強生產力、改善媒體功能，調整 { -brand-product-name } 外觀，還有滿滿其他功能。這些小軟體通常都是由第三方打造的，以下是一系列 { -brand-product-name } <a data-l10n-name="learn-more-trigger">推薦的</a>，在安全性、效能、功能上均有傑出表現的套件。
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 = 您可以使用擴充套件與佈景主題來自訂 { -brand-product-name }。您可以安裝它們來擴充隱私保護、加強生產力、改善媒體功能，調整 { -brand-product-name } 外觀，還有滿滿其他功能。這些小軟體通常都是由第三方打造的，以下是一系列 Firefox <a data-l10n-name="learn-more-trigger">推薦的</a>，在安全性、效能、功能上均有傑出表現的套件。
 
 ## Add-on actions
 
@@ -423,8 +428,22 @@ addon-badge-recommended3 =
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = 由 Mozilla 打造的官方附加元件，符合各種安全性與運作效能標準
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are performing the
+# security or performance reviews. As such, we avoid personalising language
+# like the words "our" or "we".
+addon-badge-verified4 =
+    .title = 我們審查過此擴充套件，確認符合安全性與運作效能標準
 addon-badge-verified3 =
     .title = 我們檢查過此擴充套件，確認符合安全性與運作效能標準
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are making the
+# recommendation. As such, we hard code "Firefox" and avoid personalising
+# language like the words "our" or "we".
+addon-badge-recommended4 =
+    .title = Firefox 僅推薦符合安全性與運作效能標準的擴充套件。
 
 ##
 

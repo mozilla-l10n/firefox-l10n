@@ -38,6 +38,8 @@ sidebar-history-sort-option-site =
     .label = 網站
 sidebar-history-sort-option-date-and-site =
     .label = 日期與網站
+sidebar-history-sort-option-last-visited =
+    .label = 上次瀏覽
 
 ## Labels for sidebar search
 

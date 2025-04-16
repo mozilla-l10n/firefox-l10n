@@ -79,4 +79,10 @@ about-logging-upload-button = 上傳
 # Variables:
 #   $path (string) - The path where the profile can be found.
 about-logging-saved = 已儲存至 { $path }
+# Variables:
+#   $url (string) - The URL where the profile can be found
+about-logging-uploaded = 已上傳至 <a data-l10n-name="uploaded-message-url">{ $url }</a>
 about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> 分享網址
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-save-error = 儲存檔案時發生錯誤：{ $errorText }
