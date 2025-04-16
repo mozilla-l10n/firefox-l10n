@@ -7,6 +7,8 @@ profile-window-body = Dźeržće swoje dźěło a wosobinske přehladowanje, mje
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Wubjerće profil, hdyž so { -brand-short-name } wočinja
+# This subcopy appears below the checkbox when it is unchecked
+profile-window-checkbox-subcopy = { -brand-short-name } waš jako posledni wužity profil wočini.
 profile-window-create-profile = Profil załožić
 profile-card-edit-button =
     .title = Profil wobdźěłać
