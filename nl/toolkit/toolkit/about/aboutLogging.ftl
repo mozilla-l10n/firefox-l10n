@@ -85,3 +85,13 @@ about-logging-saved = Opgeslagen in { $path }
 # Variables:
 #   $percent (number) - The upload completion progress, to be displayed as a percentage. This is a value between 0 and 1.
 about-logging-uploading-progress = Profielgegevens uploaden: { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+# Variables:
+#   $url (string) - The URL where the profile can be found
+about-logging-uploaded = Geüpload naar <a data-l10n-name="uploaded-message-url">{ $url }</a>
+about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> URL delen
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-upload-error = Er is een fout opgetreden bij het uploaden van het profiel: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-save-error = Er is een fout opgetreden bij het opslaan van het bestand: { $errorText }
