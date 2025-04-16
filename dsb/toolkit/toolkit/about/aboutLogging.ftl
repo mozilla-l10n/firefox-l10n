@@ -66,8 +66,30 @@ about-logging-unknown-profiler-preset = Njeznate profilerowe pśednastajenje „
 about-logging-unknown-option = Njeznate nastajenje about:logging „{ $k }“
 about-logging-configuration-url-ignored = Konfiguraciski URL ignorěrowany
 about-logging-file-and-profiler-override = Wudawanje a pśepisowanje nastajenjow wugbaśoweje analyze njedatej se naraz wunuźiś
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-unknown-error = Zmólka jo nastała: { $errorText }
 about-logging-configured-via-url = Pśez URL skonfigurěrowane nastajenje
 
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
+about-logging-upload-question = Profilowe daty su se zregistrěrowali. Cośo je składowaś abo nagrawaś?
+about-logging-save-button = Składowaś
+about-logging-upload-button = Nagraś
+# Variables:
+#   $path (string) - The path where the profile can be found.
+about-logging-saved = Do { $path } skłaźony
+# Variables:
+#   $percent (number) - The upload completion progress, to be displayed as a percentage. This is a value between 0 and 1.
+about-logging-uploading-progress = Składowanje profilowych datow: { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+# Variables:
+#   $url (string) - The URL where the profile can be found
+about-logging-uploaded = Do <a data-l10n-name="uploaded-message-url">{ $url }</a> nagraty
+about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> URL źěliś
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-upload-error = Pśi nagrawanju profila jo zmólka nastała: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-save-error = Pśi składowanju dataje jo zmólka nastała: { $errorText }
