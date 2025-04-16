@@ -547,3 +547,5 @@ newtab-report-content-spam-misleading =
     .label = 是垃圾內容或誤導性內容
 newtab-report-cancel = 取消
 newtab-report-submit = 送出
+newtab-toast-thanks-for-feedback =
+    .message = 感謝您的意見回饋！
