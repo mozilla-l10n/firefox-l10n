@@ -7,6 +7,8 @@ profile-window-body = გამიჯნეთ საქმიანობა �
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = პროფილის არჩევა, როცა { -brand-short-name } გაეშვება
+# This subcopy appears below the checkbox when it is unchecked
+profile-window-checkbox-subcopy = { -brand-short-name } გახსნის სულ ბოლოს გამოყენებულ პროფილს.
 profile-window-create-profile = პროფილის შექმნა
 profile-card-edit-button =
     .title = პროფილის ჩასწორება

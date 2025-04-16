@@ -307,6 +307,14 @@ discopane-intro2 =
     გაფართოებებითა და გაფორმებებით შეგიძლიათ მეტად მოირგოთ { -brand-product-name }. საშუალებას გაძლევთ, გააუმჯობესოთ პირადულობა,
     შედეგიანობა, მასალებით სარგებლობა, შეამკოთ { -brand-product-name } სურვილისამებრ და გააკეთოთ უამრავი რამ. ეს მცირე პროგრამები უმეტესად გარეშე პირების შექმნილია. იხილეთ მათგან საუკეთესო, რომელთაც  <a data-l10n-name="learn-more-trigger">გთავაზობთ</a> { -brand-product-name }
     მათი გამორჩეულობის გამო უსაფრთხოების, წარმადობისა და შესაძლებლობების კუთხით.
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 =
+    გაფართოებებითა და გაფორმებებით შეგიძლიათ მეტად მოირგოთ { -brand-product-name }. მათი მეშვეობით შეძლებთ გაიუმჯობესოთ პირადულობა,
+    შედეგიანობა, მასალებით სარგებლობა, შეამკოთ { -brand-product-name } სურვილისამებრ და გააკეთოთ სხვა უამრავი რამ. ეს მცირე პროგრამები უმეტესად უცხო ხალხის შექმნილია. იხილეთ მათგან საუკეთესო, რომელთაც  <a data-l10n-name="learn-more-trigger">გთავაზობთ</a> Firefox
+    მათი გამორჩეულობის გამო, უსაფრთხოების, წარმადობისა და შესაძლებლობების კუთხით.
 
 ## Add-on actions
 
@@ -442,8 +450,22 @@ addon-badge-recommended3 =
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Mozilla-ს მიერ შექმნილი ოფიციალური გაფართოება. სრულად აკმაყოფილებს უსაფრთხოებისა და წარმადობის მოთხოვნებს.
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are performing the
+# security or performance reviews. As such, we avoid personalising language
+# like the words "our" or "we".
+addon-badge-verified4 =
+    .title = მოცემული გაფართოება შემოწმებულია და აკმაყოფილებს უსაფრთხოებისა და წარმადობის სათანადო მოთხოვნებს
 addon-badge-verified3 =
     .title = მოცემული გაფართოება შემოწმებულია და აკმაყოფილებს უსაფრთხოებისა და წარმადობის სათანადო მოთხოვნებს.
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are making the
+# recommendation. As such, we hard code "Firefox" and avoid personalising
+# language like the words "our" or "we".
+addon-badge-recommended4 =
+    .title = Firefox მხოლოდ იმ გაფართოებებს გირჩევთ, რომლებიც აკმაყოფილებს უსაფრთხოებისა და წარმადობის მაღალ მოთხოვნებს
 
 ##
 

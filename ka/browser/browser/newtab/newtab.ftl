@@ -532,3 +532,23 @@ newtab-custom-wallpaper-cta = მოსინჯვა
 
 ## Strings for reporting ads and content
 
+newtab-report-content-why-reporting-this =
+    .label = რა არის მოხსენების მიზეზი?
+newtab-report-ads-reason-not-interested =
+    .label = არ იქცევს ჩემს ყურადღებას
+newtab-report-ads-reason-inappropriate =
+    .label = შეუსაბამოა
+newtab-report-ads-reason-seen-it-too-many-times =
+    .label = ზედმეტად ხშირად ვხედავ
+newtab-report-content-wrong-category =
+    .label = უმართებულოდაა დაჯგუფებული
+newtab-report-content-outdated =
+    .label = მოძველებულია
+newtab-report-content-inappropriate-offensive =
+    .label = შუსაბამო ან უხამსი შინაარსისაა
+newtab-report-content-spam-misleading =
+    .label = უსარგებლო ან თაღლითურია
+newtab-report-cancel = გაუქმება
+newtab-report-submit = გაგზავნა
+newtab-toast-thanks-for-feedback =
+    .message = გმადლობთ გამოხმაურებისთვის.

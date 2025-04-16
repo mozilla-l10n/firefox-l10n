@@ -59,6 +59,7 @@ history-section-label = ისტორია
 item-history-and-downloads =
     .label = საიტებისა და ჩამოტვირთვების ისტორია
     .accesskey = ს
+item-history-and-downloads-description2 = ასუფთავებს საიტებისა და ჩამოტვირთვების ისტორიას
 item-history-and-downloads-description = ასუფთავებს ძიების, საიტებისა და ჩამოტვირთვების ისტორიას
 item-history-form-data-downloads =
     .label = ისტორია
