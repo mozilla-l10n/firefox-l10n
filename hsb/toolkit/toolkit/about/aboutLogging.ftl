@@ -66,8 +66,29 @@ about-logging-unknown-profiler-preset = Njeznate profilerowe přednastajenje „
 about-logging-unknown-option = Njeznate nastajenje about:logging „{ $k }“
 about-logging-configuration-url-ignored = Konfiguraciski URL ignorowany
 about-logging-file-and-profiler-override = Wudawanje a přepisowanje nastajenjow wukonoweje analyzy njedatej so naraz wunuzować
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-unknown-error = Zmylk je nastał: { $errorText }
 about-logging-configured-via-url = Přez URL skonfigurowane nastajenje
 
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
+about-logging-save-button = Składować
+about-logging-upload-button = Nahrać
+# Variables:
+#   $path (string) - The path where the profile can be found.
+about-logging-saved = Do { $path } składowany
+# Variables:
+#   $percent (number) - The upload completion progress, to be displayed as a percentage. This is a value between 0 and 1.
+about-logging-uploading-progress = Składowanje profilowych datow: { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+# Variables:
+#   $url (string) - The URL where the profile can be found
+about-logging-uploaded = Do <a data-l10n-name="uploaded-message-url">{ $url }</a> nahraty
+about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> URL dźělić
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-upload-error = Při nahrawanju profila je zmylk nastał: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-save-error = Při składowanju dataje je zmylk nastał: { $errorText }

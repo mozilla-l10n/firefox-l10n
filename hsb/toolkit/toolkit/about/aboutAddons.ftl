@@ -457,6 +457,13 @@ addon-badge-verified4 =
     .title = Tute rozšěrjenje je so přepruwowało, zo by standardam za wěstotu a wukon wotpowědowało.
 addon-badge-verified3 =
     .title = Tute rozšěrjenje je so přepruwowało, zo by našim standardam za wěstotu a wukon wotpowědowało.
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are making the
+# recommendation. As such, we hard code "Firefox" and avoid personalising
+# language like the words "our" or "we".
+addon-badge-recommended4 =
+    .title = Firefox jenož rozšěrjenja doporučuje, kotrež standardam za wěstotu a wukon wotpowěduja.
 
 ##
 

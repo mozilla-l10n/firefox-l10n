@@ -196,6 +196,10 @@ urlbar-result-menu-learn-more-about-firefox-suggest =
 urlbar-result-menu-manage-firefox-suggest =
     .label = { -firefox-suggest-brand-name } rjadować
     .accesskey = r
+urlbar-result-menu-show-less-frequently =
+    .label = Mjenje často pokazać
+urlbar-result-menu-dont-show-weather-suggestions =
+    .label = Wjedrowe namjety njepokazać
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Dźakujemy so za waš komentar

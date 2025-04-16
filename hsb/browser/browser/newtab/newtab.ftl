@@ -535,6 +535,12 @@ newtab-custom-wallpaper-cta = Wupruwujće jón
 
 ## Strings for reporting ads and content
 
+newtab-report-content-why-reporting-this =
+    .label = Čehodla to zdźěleće?
+newtab-report-ads-reason-not-interested =
+    .label = Njejsym zajimowany
+newtab-report-ads-reason-seen-it-too-many-times =
+    .label = Sym to přečasto widźał
 newtab-report-content-wrong-category =
     .label = Wopačna kategorija
 newtab-report-content-outdated =
