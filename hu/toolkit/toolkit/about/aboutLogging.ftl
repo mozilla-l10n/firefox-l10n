@@ -68,8 +68,30 @@ about-logging-unknown-profiler-preset = Ismeretlen „{ $v }” profil-előbeál
 about-logging-unknown-option = Ismeretlen „{ $k }” about:logging kapcsoló
 about-logging-configuration-url-ignored = Konfigurációs webcím figyelmen kívül hagyva
 about-logging-file-and-profiler-override = Nem lehet egyszerre kényszeríteni a fájlkimenetet és felülbírálni a profilozó beállításait
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-unknown-error = Hiba történt: { $errorText }
 about-logging-configured-via-url = Webcím alapján beállított kapcsoló
 
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
+about-logging-upload-question = A profiladatok rögzítve lettek. Menti vagy feltölti?
+about-logging-save-button = Mentés
+about-logging-upload-button = Feltöltés
+# Variables:
+#   $path (string) - The path where the profile can be found.
+about-logging-saved = Mentve ide: { $path }
+# Variables:
+#   $percent (number) - The upload completion progress, to be displayed as a percentage. This is a value between 0 and 1.
+about-logging-uploading-progress = Profiladatok feltöltése: { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+# Variables:
+#   $url (string) - The URL where the profile can be found
+about-logging-uploaded = Feltöltve ide: <a data-l10n-name="uploaded-message-url">{ $url }</a>
+about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Webcím megosztása
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-upload-error = Hiba történt a profil feltöltésekor: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-save-error = Hiba történt a fájl mentésekor: { $errorText }

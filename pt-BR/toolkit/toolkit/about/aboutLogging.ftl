@@ -71,3 +71,8 @@ about-logging-configured-via-url = Opção configurada via URL
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
+about-logging-save-button = Salvar
+about-logging-upload-button = Enviar
+# Variables:
+#   $path (string) - The path where the profile can be found.
+about-logging-saved = Salvo em { $path }

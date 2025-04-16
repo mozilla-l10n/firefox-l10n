@@ -7,6 +7,8 @@ profile-window-body = Mantén tu navegación laboral y personal, incluidas las c
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Elige un perfil cuando se abra { -brand-short-name }
+# This subcopy appears below the checkbox when it is unchecked
+profile-window-checkbox-subcopy = { -brand-short-name } se abrirá en tu perfil utilizado más recientemente.
 profile-window-create-profile = Crear un perfil
 profile-card-edit-button =
     .title = Editar perfil
