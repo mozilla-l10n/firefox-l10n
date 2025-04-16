@@ -46,8 +46,11 @@ genai-onboarding-copilot-learn = اعرف المزيد عن Copilot
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
 genai-onboarding-gemini-learn = اعرف المزيد عن Gemini
+genai-onboarding-huggingchat-tooltip =
+    .title = HuggingChat
 genai-onboarding-huggingchat-learn = اعرف المزيد عن HuggingChat
 genai-onboarding-lechat-learn = اعرف المزيد عن Le Chat
+genai-onboarding-select-primary = ابدأ الدردشة
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
