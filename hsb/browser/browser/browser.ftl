@@ -206,7 +206,7 @@ urlbar-result-menu-report-inaccurate-location =
 urlbar-result-menu-show-less-frequently =
     .label = Mjenje často pokazać
 urlbar-result-menu-dont-show-weather-suggestions =
-    .label = Wjedrowe namjety njepokazać
+    .label = Wjedrowe daty njepokazać
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Dźakujemy so za waš komentar
