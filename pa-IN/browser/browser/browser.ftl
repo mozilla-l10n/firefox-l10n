@@ -196,6 +196,23 @@ urlbar-result-menu-learn-more-about-firefox-suggest =
 urlbar-result-menu-manage-firefox-suggest =
     .label = { -firefox-suggest-brand-name } ਦਾ ਇੰਤਜ਼ਾਮ
     .accesskey = M
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative region (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location =
+    .label = ਗਲਤ ਟਿਕਾਣੇ ਬਾਰੇ ਰਿਪੋਰਟ ਕਰੋ
+urlbar-result-menu-show-less-frequently =
+    .label = ਘੱਟ ਵਾਰੀ ਦਿਖਾਓ
+urlbar-result-menu-dont-show-weather-suggestions =
+    .label = ਮੌਸਮੀ ਸੁਝਾਅ ਨਾ ਦਿਖਾਓ
+# A message shown in the urlbar when the user submits feedback on a suggestion
+# (e.g., it shows an inaccurate location, it's shown too often, etc.).
+urlbar-feedback-acknowledgment = ਤੁਹਾਡੇ ਸੁਝਾਅ ਲਈ ਧੰਨਵਾਦ ਹੈ
+# A message shown in the urlbar when the user dismisses weather suggestions.
+# Weather suggestions won't be shown at all anymore.
+urlbar-dismissal-acknowledgment-weather = ਤੁਹਾਡੇ ਸੁਝਾਅ ਲਈ ਧੰਨਵਾਦ ਹੈ। ਤੁਸੀਂ ਹੁਣ ਮੌਸਮੀ ਸੁਝਾਅ ਨਹੀਂ ਵੇਖੋਗੇ।
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -331,6 +348,8 @@ quickactions-cmd-addons2 = ਐਡ-ਆਨ
 # Opens the bookmarks library window
 quickactions-bookmarks2 = ਬੁੱਕਮਾਰਕਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
 quickactions-cmd-bookmarks = ਬੁੱਕਮਾਰਕ
+# Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = ਸੱਜਰੇ ਅਤੀਤ ਨੂੰ ਮਿਟਾਓ
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = ਅਤੀਤ ਨੂੰ ਮਿਟਾਓ
 quickactions-cmd-clearhistory = ਅਤੀਤ ਨੂੰ ਮਿਟਾਓ

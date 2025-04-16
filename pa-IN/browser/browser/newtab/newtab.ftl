@@ -526,6 +526,8 @@ newtab-section-mangage-topics-followed-topics-empty-state = ਤੁਸੀਂ ਹ�
 newtab-section-mangage-topics-blocked-topics = ਪਾਬੰਦੀ ਲਗਾਏ
 newtab-section-mangage-topics-blocked-topics-empty-state = ਤੁਸੀਂ ਹਾਲੇ ਕਿਸੇ ਵੀ ਵਿਸ਼ੇ ਉੱਤੇ ਪਾਬੰਦੀ ਨਹੀਂ ਲਾਈ ਹੈ।
 newtab-custom-wallpaper-title = ਪਸੰਦੀਦਾ ਵਾਲਪੇਪਰ ਇੱਥੇ ਹਨ
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle = { -brand-product-name } ਨੂੰ ਆਪਣਾ ਬਣਾਉਣ ਵਾਸਤੇ ਖੁਦ ਦਾ ਵਾਲਪੇਪਰ ਅੱਪਲੋਡ ਕਰੋ ਜਾਂ ਕਸਟਮ ਰੰਗ ਚੁਣੋ।
 newtab-custom-wallpaper-cta = ਅਜ਼ਮਾਓ
 
 ## Strings for reporting ads and content
