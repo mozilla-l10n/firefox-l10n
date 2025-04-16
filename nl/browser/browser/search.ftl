@@ -38,6 +38,8 @@ remove-search-engine-button = OK
 ## Variables
 ## $newEngine (String) - the name of the new default search engine.
 
+reset-search-settings-message = Vanwege een technisch probleem is uw standaardzoekmachine teruggezet naar { $newEngine }. Ga naar instellingen om de standaardzoekmachine te wijzigen.
+reset-search-settings-button = OK
 
 ## Infobar shown when user is prompted to install search engine.
 ## Variables

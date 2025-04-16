@@ -7,6 +7,8 @@ profile-window-body = Houd uw werk- en persoonlijke navigatie, inclusief zaken a
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Een profiel kiezen wanneer { -brand-short-name } wordt geopend
+# This subcopy appears below the checkbox when it is unchecked
+profile-window-checkbox-subcopy = { -brand-short-name } opent met uw meest recent gebruikte profiel.
 profile-window-create-profile = Een profiel aanmaken
 profile-card-edit-button =
     .title = Profiel bewerken

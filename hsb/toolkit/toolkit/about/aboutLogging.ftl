@@ -74,6 +74,7 @@ about-logging-configured-via-url = Přez URL skonfigurowane nastajenje
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
+about-logging-upload-question = Profilowe daty su so zapřijeli. Chceće je składować abo nahrawać?
 about-logging-save-button = Składować
 about-logging-upload-button = Nahrać
 # Variables:

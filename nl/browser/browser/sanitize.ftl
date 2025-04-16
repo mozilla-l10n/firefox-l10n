@@ -59,6 +59,7 @@ history-section-label = Geschiedenis
 item-history-and-downloads =
     .label = Navigatie- & downloadgeschiedenis
     .accesskey = N
+item-history-and-downloads-description2 = Wist website- en downloadgeschiedenis
 item-history-and-downloads-description = Wist zoek-, website- en downloadgeschiedenis
 item-history-form-data-downloads =
     .label = Geschiedenis
