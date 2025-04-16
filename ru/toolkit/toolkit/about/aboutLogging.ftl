@@ -75,3 +75,21 @@ about-logging-configured-via-url = Опция настроена через се
 ## set to true. It is false by default, except on Android.
 
 about-logging-upload-question = Данные профиля были захвачены. Вы хотите его сохранить или выгрузить?
+about-logging-save-button = Сохранить
+about-logging-upload-button = Выгрузить
+# Variables:
+#   $path (string) - The path where the profile can be found.
+about-logging-saved = Сохранено в { $path }
+# Variables:
+#   $percent (number) - The upload completion progress, to be displayed as a percentage. This is a value between 0 and 1.
+about-logging-uploading-progress = Выгрузка данных профиля: { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+# Variables:
+#   $url (string) - The URL where the profile can be found
+about-logging-uploaded = Выгружено на <a data-l10n-name="uploaded-message-url">{ $url }</a>
+about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Поделиться URL
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-upload-error = При загрузке профиля произошла ошибка: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-save-error = При сохранении файла произошла ошибка: { $errorText }
