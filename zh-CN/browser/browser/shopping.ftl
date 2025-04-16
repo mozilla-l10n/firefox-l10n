@@ -259,8 +259,10 @@ shopping-opt-in-integrated-headline = 让购物时心里有数
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-opt-in-integrated-headline = 这些评价可信吗？
 shopping-callout-not-opted-in-integrated-paragraph2 = 选择“{ shopping-opt-in-integrated-button }”即代表您同意 { -brand-product-name } 的<a data-l10n-name="privacy_policy">隐私政策</a>和 { -fakespot-brand-full-name } 的<a data-l10n-name="terms_of_use">使用条款</a>。
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = 知道了
+shopping-callout-not-opted-in-integrated-reminder-accept-button = 开启核查评价
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = 不再显示此建议
 shopping-callout-not-opted-in-integrated-reminder-show-fewer = 减少显示建议
 shopping-callout-not-opted-in-integrated-reminder-manage-settings = 管理设置
@@ -269,13 +271,21 @@ shopping-opt-in-integrated-button = 试试核查评价
 
 ## Message strings for Review Checker's empty states.
 
+shopping-empty-state-header = 已准备好检查评价
+# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
+# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
+shopping-empty-state-non-supported-site = “核查评价”可在以下网站中使用：
 
 ## Confirm disabling Review Checker for newly opted out users
 
 shopping-integrated-callout-opted-out-title = 核查评价已关闭
+shopping-integrated-callout-opted-out-subtitle = 若要重新启用，请选择侧栏中的“价签”，然后开启“核查评价”。
 
 ## Callout for where to find Review Checker when the sidebar closes
 
+shopping-integrated-callout-sidebar-closed-title = 重新打开核查评价
+shopping-integrated-callout-sidebar-closed-subtitle = 选择侧栏中的“价签”即可检查商品的评价是否可信。
+shopping-integrated-callout-no-logo-sidebar-closed-subtitle = 选择“侧栏”按钮即可检查商品的评价是否可信。
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
