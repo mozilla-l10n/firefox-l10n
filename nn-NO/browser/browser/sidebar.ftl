@@ -31,6 +31,7 @@ sidebar-history-sort-by-site =
     .label = Sorter etter nettstad
 sidebar-history-clear =
     .label = Tøm historikk
+sidebar-history-sort-by-heading = Sorter etter:
 
 ## Labels for sidebar search
 

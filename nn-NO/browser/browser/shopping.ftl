@@ -256,6 +256,9 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 shopping-callout-opt-in-integrated-headline = Kan du stole på desse vurderingane?
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Ignorer
+shopping-callout-not-opted-in-integrated-reminder-accept-button = Slå på vurderingskontrolløren
+shopping-callout-not-opted-in-integrated-reminder-do-not-show = Ikkje vis denne tilrådinga igjen
+shopping-callout-not-opted-in-integrated-reminder-show-fewer = Vis færre tilrådingar
 shopping-callout-not-opted-in-integrated-reminder-manage-settings = Handsam innstillingar
 shopping-opt-in-integrated-button = Prøv vurderingskontrolløren
 

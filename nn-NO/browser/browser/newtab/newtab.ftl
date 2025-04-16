@@ -527,3 +527,11 @@ newtab-custom-wallpaper-cta = Prøv det
 
 ## Strings for reporting ads and content
 
+newtab-report-content-wrong-category =
+    .label = Feil kategori
+newtab-report-content-outdated =
+    .label = Utdatert
+newtab-report-cancel = Avbryt
+newtab-report-submit = Send inn
+newtab-toast-thanks-for-feedback =
+    .message = Takk for tilbakemeldinga di.
