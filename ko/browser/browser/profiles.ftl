@@ -7,6 +7,8 @@ profile-window-body = 비밀번호와 북마크를 포함한 개인 탐색과 �
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = { -brand-short-name }가 열릴 때 프로필 선택
+# This subcopy appears below the checkbox when it is unchecked
+profile-window-checkbox-subcopy = { -brand-short-name }는 가장 최근에 사용한 프로필을 엽니다.
 profile-window-create-profile = 프로필 만들기
 profile-card-edit-button =
     .title = 프로필 편집

@@ -298,6 +298,16 @@ discopane-intro2 =
     다양한 작업을 수행할 수 있습니다. 이 작은 소프트웨어 프로그램은 종종 
     제3자에 의해 개발됩니다. 여기에 뛰어난 보안, 성능 및 기능을 위해 { -brand-product-name }가 
     <a data-l10n-name="learn-more-trigger">추천</a>하는 선정된 부가 기능들이 있습니다.
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 =
+    확장 기능과 테마를 사용하면 { -brand-product-name }를 사용자 지정할 수 있습니다.
+    개인정보 보호 강화, 생산성 향상, 미디어 개선, { -brand-product-name } 외관 변경 등 
+    다양한 작업을 수행할 수 있습니다. 이 작은 소프트웨어 프로그램은 종종 
+    제3자에 의해 개발됩니다. 여기에 뛰어난 보안, 성능 및 기능을 위해 Firefox가 
+    <a data-l10n-name="learn-more-trigger">추천</a>하는 선정된 부가 기능들이 있습니다.
 
 ## Add-on actions
 
@@ -432,8 +442,22 @@ addon-badge-recommended3 =
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Mozilla에서 만든 공식 확장 기능. 보안 및 성능 표준 충족
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are performing the
+# security or performance reviews. As such, we avoid personalising language
+# like the words "our" or "we".
+addon-badge-verified4 =
+    .title = 이 확장 기능은 보안 및 성능 표준을 충족하는 것으로 검토되었습니다
 addon-badge-verified3 =
     .title = 이 확장 기능은 보안 및 성능 표준을 충족하는 것으로 검토되었습니다
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are making the
+# recommendation. As such, we hard code "Firefox" and avoid personalising
+# language like the words "our" or "we".
+addon-badge-recommended4 =
+    .title = Firefox는 보안 및 성능 표준을 충족하는 확장 기능만 추천합니다
 
 ##
 

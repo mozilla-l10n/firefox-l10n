@@ -66,8 +66,27 @@ about-logging-unknown-profiler-preset = 알 수 없는 프로파일러 프리셋
 about-logging-unknown-option = 알 수 없는 about:logging 옵션 “{ $k }“
 about-logging-configuration-url-ignored = 구성 URL이 무시됨
 about-logging-file-and-profiler-override = 파일 출력을 강제하고 동시에 프로파일러 옵션을 재정의할 수는 없음
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-unknown-error = 오류 발생: { $errorText }
 about-logging-configured-via-url = URL을 통해 구성된 옵션
 
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
+about-logging-upload-question = 프로필 데이터를 캡쳐하였습니다. 저장하거나 업로드하시겠습니까?
+about-logging-save-button = 저장
+about-logging-upload-button = 업로드
+# Variables:
+#   $path (string) - The path where the profile can be found.
+about-logging-saved = { $path }에 저장됨
+# Variables:
+#   $percent (number) - The upload completion progress, to be displayed as a percentage. This is a value between 0 and 1.
+about-logging-uploading-progress = 프로필 데이터 업로드 중: { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+# Variables:
+#   $url (string) - The URL where the profile can be found
+about-logging-uploaded = <a data-l10n-name="uploaded-message-url">{ $url }</a>에 업로드됨
+about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> URL 공유
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-upload-error = 프로필을 업로드하는 동안 오류가 발생했습니다: { $errorText }

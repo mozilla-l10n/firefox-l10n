@@ -38,6 +38,7 @@ remove-search-engine-button = 확인
 ## Variables
 ## $newEngine (String) - the name of the new default search engine.
 
+reset-search-settings-message = 기술적인 문제로 인해 기본 검색 엔진이 다시 { $newEngine }(으)로 변경되었습니다. 기본 검색 엔진을 변경하려면, 설정으로 이동하세요.
 reset-search-settings-button = 확인
 
 ## Infobar shown when user is prompted to install search engine.

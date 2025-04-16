@@ -59,6 +59,7 @@ history-section-label = 기록
 item-history-and-downloads =
     .label = 방문 및 다운로드 기록
     .accesskey = B
+item-history-and-downloads-description2 = 사이트 및 다운로드 기록 지우기
 item-history-and-downloads-description = 검색, 사이트 및 다운로드 기록을 지움
 item-history-form-data-downloads =
     .label = 기록
