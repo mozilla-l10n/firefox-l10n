@@ -67,6 +67,7 @@ contextual-manager-passwords-import-success-heading =
 contextual-manager-passwords-import-success-message = 已新增 { $added } 个，已更新 { $modified } 个
 contextual-manager-passwords-import-detailed-report = 查看详细报告
 contextual-manager-passwords-import-success-button = 完成
+contextual-manager-passwords-import-error-button-try-again = 重试
 contextual-manager-passwords-import-error-button-cancel = 取消
 contextual-manager-passwords-import-learn-more = 了解有关导入密码的信息
 contextual-manager-passwords-export-success-heading =
@@ -116,6 +117,8 @@ contextual-manager-passwords-username-label = 用户名
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-password-label = 密码
     .data-after = 已复制
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = 过滤密码
 # Variables
 #   $url (string) - The url associated with the new login
 contextual-manager-passwords-add-password-success-heading =
@@ -125,6 +128,7 @@ contextual-manager-passwords-add-password-success-button = 查看
 #   $url (string) - The url associated with the existing login
 contextual-manager-passwords-password-already-exists-error-heading =
     .heading = { $url } 的密码和用户名已经存在
+contextual-manager-passwords-password-already-exists-error-button = 转到密码
 contextual-manager-passwords-update-password-success-heading =
     .heading = 密码已保存
 contextual-manager-passwords-update-password-success-button = 完成
