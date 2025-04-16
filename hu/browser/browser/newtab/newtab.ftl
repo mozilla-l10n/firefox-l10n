@@ -533,3 +533,23 @@ newtab-custom-wallpaper-cta = Próbálja ki
 
 ## Strings for reporting ads and content
 
+newtab-report-content-why-reporting-this =
+    .label = Miért jelenti ezt be?
+newtab-report-ads-reason-not-interested =
+    .label = Nem érdekel
+newtab-report-ads-reason-inappropriate =
+    .label = Nem megfelelő
+newtab-report-ads-reason-seen-it-too-many-times =
+    .label = Túl sokszor láttam
+newtab-report-content-wrong-category =
+    .label = Hibás kategória
+newtab-report-content-outdated =
+    .label = Elavult
+newtab-report-content-inappropriate-offensive =
+    .label = Nem megfelelő vagy sértő
+newtab-report-content-spam-misleading =
+    .label = Kéretlen vagy félrevezető
+newtab-report-cancel = Mégse
+newtab-report-submit = Elküldés
+newtab-toast-thanks-for-feedback =
+    .message = Köszönjük a visszajelzését.

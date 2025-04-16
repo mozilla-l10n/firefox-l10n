@@ -59,6 +59,7 @@ history-section-label = Előzmények
 item-history-and-downloads =
     .label = Böngészési és letöltési előzmények
     .accesskey = B
+item-history-and-downloads-description2 = Törli az oldalak és a letöltések előzményeit
 item-history-and-downloads-description = Keresési, oldal- és letöltési előzmények törlése
 item-history-form-data-downloads =
     .label = Előzmények

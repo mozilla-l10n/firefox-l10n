@@ -31,6 +31,13 @@ sidebar-history-sort-by-site =
     .label = Rendezés webhely szerint
 sidebar-history-clear =
     .label = Előzmények törlése
+sidebar-history-sort-by-heading = Rendezés szempontja:
+sidebar-history-sort-option-date =
+    .label = Dátum
+sidebar-history-sort-option-site =
+    .label = Webhely
+sidebar-history-sort-option-date-and-site =
+    .label = Dátum és idő
 
 ## Labels for sidebar search
 

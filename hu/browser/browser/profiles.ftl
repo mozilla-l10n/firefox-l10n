@@ -7,6 +7,8 @@ profile-window-body = Tartsa teljesen külön a munkahelyi és a személyes bön
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Profil kiválasztása a { -brand-short-name } megnyitásakor
+# This subcopy appears below the checkbox when it is unchecked
+profile-window-checkbox-subcopy = A { -brand-short-name } a legutóbb használt profiljával fog megnyílni.
 profile-window-create-profile = Profil létrehozása
 profile-card-edit-button =
     .title = Profil szerkesztése

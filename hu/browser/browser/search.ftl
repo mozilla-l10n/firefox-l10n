@@ -38,6 +38,8 @@ remove-search-engine-button = OK
 ## Variables
 ## $newEngine (String) - the name of the new default search engine.
 
+reset-search-settings-message = Egy műszaki probléma miatt az alapértelmezett keresőszolgáltatás vissza lett állítva erre: { $newEngine }. Az alapértelmezett keresőszolgáltatás módosításához ugorjon a beállításokhoz.
+reset-search-settings-button = OK
 
 ## Infobar shown when user is prompted to install search engine.
 ## Variables
