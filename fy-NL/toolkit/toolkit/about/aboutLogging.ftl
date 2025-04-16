@@ -77,3 +77,19 @@ about-logging-configured-via-url = Opsje konfigurearre fia URL
 about-logging-upload-question = De profylgegevens binne fêstlein. Wolle jo dizze bewarje of oplade?
 about-logging-save-button = Bewarje
 about-logging-upload-button = Oplade
+# Variables:
+#   $path (string) - The path where the profile can be found.
+about-logging-saved = Bewarre yn { $path }
+# Variables:
+#   $percent (number) - The upload completion progress, to be displayed as a percentage. This is a value between 0 and 1.
+about-logging-uploading-progress = Profylgegevens oplade: { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+# Variables:
+#   $url (string) - The URL where the profile can be found
+about-logging-uploaded = Oplaad nei <a data-l10n-name="uploaded-message-url">{ $url }</a>
+about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> URL diele
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-upload-error = Der is in flater bard by it opladen fan it profyl: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-save-error = Der is in flater bard by it bewarjen fan it bestân: { $errorText }
