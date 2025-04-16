@@ -59,6 +59,7 @@ history-section-label = Historija
 item-history-and-downloads =
     .label = Přehladowanska a sćehnjenska historija
     .accesskey = P
+item-history-and-downloads-description2 = Zhaša sydłowu a sćehnjensku historiju
 item-history-and-downloads-description = Zhaša pytansku, sydłowu a sćehnjensku historiju
 item-history-form-data-downloads =
     .label = Historija

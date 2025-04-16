@@ -38,6 +38,7 @@ remove-search-engine-button = W porjadku
 ## Variables
 ## $newEngine (String) - the name of the new default search engine.
 
+reset-search-settings-button = W porjadku
 
 ## Infobar shown when user is prompted to install search engine.
 ## Variables

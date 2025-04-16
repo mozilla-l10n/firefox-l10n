@@ -31,6 +31,15 @@ sidebar-history-sort-by-site =
     .label = Po sydle sortěrować
 sidebar-history-clear =
     .label = Historiju zhašeć
+sidebar-history-sort-by-heading = Sortěrować po:
+sidebar-history-sort-option-date =
+    .label = Datum
+sidebar-history-sort-option-site =
+    .label = Sydło
+sidebar-history-sort-option-date-and-site =
+    .label = Datum a sydło
+sidebar-history-sort-option-last-visited =
+    .label = Posledni raz wopytany
 
 ## Labels for sidebar search
 

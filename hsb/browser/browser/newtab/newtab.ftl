@@ -535,3 +535,13 @@ newtab-custom-wallpaper-cta = Wupruwujće jón
 
 ## Strings for reporting ads and content
 
+newtab-report-content-wrong-category =
+    .label = Wopačna kategorija
+newtab-report-content-outdated =
+    .label = Zestarjeny
+newtab-report-content-inappropriate-offensive =
+    .label = Njepřistojny abo křiwdźacy
+newtab-report-cancel = Přetorhnyć
+newtab-report-submit = Wotpósłać
+newtab-toast-thanks-for-feedback =
+    .message = Dźakujemy so za waš komentar.

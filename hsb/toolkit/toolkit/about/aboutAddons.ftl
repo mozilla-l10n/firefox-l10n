@@ -301,6 +301,16 @@ discopane-intro2 =
     wjele wjace. Tute małe programy so husto wot třećich wuwiwaja. Tu je
     wuběr, kotryž { -brand-product-name } <a data-l10n-name="learn-more-trigger">doporučuje</a>
     za wurjadnu wěstotu, wurjadny wukon a wurjadnu funkcionalnosć.
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 =
+    Rozšěrjenja a drasty wam zmóžnjeja, { -brand-product-name } přiměrić. Móža priwatnosć  powyšić,
+    produktiwitu powyšić, medije polěpšić, napohlad { -brand-product-name } změnić a
+    wjele wjace. Tute małe programy so husto wot třećich wuwiwaja. Tu je
+    wuběr, kotryž Firefox <a data-l10n-name="learn-more-trigger">doporučuje</a> za
+    wurjadnu wěstotu, wurjadny wukon a wurjadnu funkcionalnosć.
 
 ## Add-on actions
 
@@ -438,6 +448,13 @@ addon-badge-recommended3 =
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Oficielny rozšěrjenje, wuwite wot Mozilla. Spjelnja wěstotne a wukonowe standardy.
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are performing the
+# security or performance reviews. As such, we avoid personalising language
+# like the words "our" or "we".
+addon-badge-verified4 =
+    .title = Tute rozšěrjenje je so přepruwowało, zo by standardam za wěstotu a wukon wotpowědowało.
 addon-badge-verified3 =
     .title = Tute rozšěrjenje je so přepruwowało, zo by našim standardam za wěstotu a wukon wotpowědowało.
 
