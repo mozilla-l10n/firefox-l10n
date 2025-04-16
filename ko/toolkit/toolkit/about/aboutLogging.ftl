@@ -90,3 +90,6 @@ about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> URL 공�
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
 about-logging-upload-error = 프로필을 업로드하는 동안 오류가 발생했습니다: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-save-error = 파일을 저장하는 중 오류가 발생했습니다: { $errorText }
