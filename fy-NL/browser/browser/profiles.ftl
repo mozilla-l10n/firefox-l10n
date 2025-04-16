@@ -7,6 +7,8 @@ profile-window-body = Hâld jo wurk en persoanlike navigaasje, ynklusyf saken ly
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Kies in profyl wannear { -brand-short-name } iepene wurdt
+# This subcopy appears below the checkbox when it is unchecked
+profile-window-checkbox-subcopy = { -brand-short-name } iepenet mei jo meast resint brûkte profyl.
 profile-window-create-profile = In profyl oanmeitsje
 profile-card-edit-button =
     .title = Profyl bewurkje

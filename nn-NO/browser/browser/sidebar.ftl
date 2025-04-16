@@ -32,6 +32,14 @@ sidebar-history-sort-by-site =
 sidebar-history-clear =
     .label = Tøm historikk
 sidebar-history-sort-by-heading = Sorter etter:
+sidebar-history-sort-option-date =
+    .label = Dato
+sidebar-history-sort-option-site =
+    .label = Nettstad
+sidebar-history-sort-option-date-and-site =
+    .label = Dasto og nettstad
+sidebar-history-sort-option-last-visited =
+    .label = Sist besøkt
 
 ## Labels for sidebar search
 

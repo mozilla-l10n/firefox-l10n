@@ -28,3 +28,6 @@ experimental-features-group-customize-browsing =
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Passord i sidestolpen
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = Førehandsvising av lenker

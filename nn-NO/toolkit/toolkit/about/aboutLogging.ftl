@@ -70,3 +70,8 @@ about-logging-configured-via-url = Alternativ sett opp via URL
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
+about-logging-save-button = Lagre
+about-logging-upload-button = Last opp
+# Variables:
+#   $path (string) - The path where the profile can be found.
+about-logging-saved = Lagra til { $path }

@@ -533,3 +533,23 @@ newtab-custom-wallpaper-cta = Probearje
 
 ## Strings for reporting ads and content
 
+newtab-report-content-why-reporting-this =
+    .label = Wêrom melde jo dit?
+newtab-report-ads-reason-not-interested =
+    .label = Ik bin net ynteressearre
+newtab-report-ads-reason-inappropriate =
+    .label = It is net geskikt
+newtab-report-ads-reason-seen-it-too-many-times =
+    .label = Ik haw it te faak sjoen
+newtab-report-content-wrong-category =
+    .label = Ferkearde kategory
+newtab-report-content-outdated =
+    .label = Ferâldere
+newtab-report-content-inappropriate-offensive =
+    .label = Unpaslik of beledigjend
+newtab-report-content-spam-misleading =
+    .label = Spam of misliedend
+newtab-report-cancel = Annulearje
+newtab-report-submit = Yntsjinje
+newtab-toast-thanks-for-feedback =
+    .message = Tank foar jo kommentaar.
