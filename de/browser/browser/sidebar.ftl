@@ -31,6 +31,15 @@ sidebar-history-sort-by-site =
     .label = Nach Website sortieren
 sidebar-history-clear =
     .label = Chronik löschen
+sidebar-history-sort-by-heading = Sortieren nach:
+sidebar-history-sort-option-date =
+    .label = Datum
+sidebar-history-sort-option-site =
+    .label = Website
+sidebar-history-sort-option-date-and-site =
+    .label = Datum und Website
+sidebar-history-sort-option-last-visited =
+    .label = Zuletzt besucht
 
 ## Labels for sidebar search
 
