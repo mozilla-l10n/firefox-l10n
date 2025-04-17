@@ -531,3 +531,7 @@ newtab-custom-wallpaper-cta = Озмоед
 
 ## Strings for reporting ads and content
 
+newtab-report-cancel = Бекор кардан
+newtab-report-submit = Пешниҳод кардан
+newtab-toast-thanks-for-feedback =
+    .message = Ташаккур барои изҳори назари шумо.

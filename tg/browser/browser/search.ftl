@@ -38,6 +38,7 @@ remove-search-engine-button = ХУБ
 ## Variables
 ## $newEngine (String) - the name of the new default search engine.
 
+reset-search-settings-button = ХУБ
 
 ## Infobar shown when user is prompted to install search engine.
 ## Variables

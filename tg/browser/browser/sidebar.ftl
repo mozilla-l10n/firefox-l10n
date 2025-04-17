@@ -31,6 +31,13 @@ sidebar-history-sort-by-site =
     .label = Мураттаб кардан аз рӯи сомона
 sidebar-history-clear =
     .label = Пок кардани таърих
+sidebar-history-sort-by-heading = Мураттаб аз рӯи:
+sidebar-history-sort-option-date =
+    .label = Сана
+sidebar-history-sort-option-site =
+    .label = Сомона
+sidebar-history-sort-option-date-and-site =
+    .label = Сана ва сомона
 
 ## Labels for sidebar search
 
