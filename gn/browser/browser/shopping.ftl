@@ -277,10 +277,12 @@ shopping-empty-state-non-supported-site = Pe jehechajeyha rechaha oiko ejoguára
 ## Confirm disabling Review Checker for newly opted out users
 
 shopping-integrated-callout-opted-out-title = Marandu’i rechajeyha oñembogue
+shopping-integrated-callout-opted-out-subtitle = Emyandy jey hag̃ua, eiporavo tepykue tenda yképe ha emyandy pe temiandu rechajeyha.
 
 ## Callout for where to find Review Checker when the sidebar closes
 
 shopping-integrated-callout-sidebar-closed-title = Ejevy jehechajey rechahápe
+shopping-integrated-callout-sidebar-closed-subtitle = Eiporavo pe tepykue tenda yképe ehecha hag̃ua ejeroviátapa pe apopyre je’epyrére.
 shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Eiporavo pe votõ tenda ykepegua ehecha hag̃ua ejeroviátapa pe apopyre hechapyrére.
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.

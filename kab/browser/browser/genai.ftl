@@ -93,6 +93,7 @@ genai-onboarding-chatgpt-generate = Sirew aḍris, tugniwin akked tengalt
 genai-onboarding-chatgpt-analyze = Sleḍ isemliyen d tugniwin
 genai-onboarding-chatgpt-price = Tixtiṛyin tilelliyin d tid n lexlaṣ; amiḍan yettwasra i kra n tmura akked twuriwin
 genai-onboarding-copilot-generate = Sirew aḍris, tugniwin akked tengalt
+genai-onboarding-copilot-analyze = Sleḍ tugniwin
 genai-onboarding-gemini-generate = Sirew aḍris, tugniwin akked tengalt
 genai-onboarding-gemini-analyze = Sleḍ tugniwin (tileliyin) akked yisemliyen (n lexlaṣ)
 genai-onboarding-gemini-price = Tixtiṛyin tilelliyin d tid n lexlaṣ; amiḍan yettwasra

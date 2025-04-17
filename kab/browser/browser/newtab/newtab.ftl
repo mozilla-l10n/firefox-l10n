@@ -8,6 +8,9 @@
 newtab-page-title = Iccer amaynut
 newtab-settings-button =
     .title = Sagen asebter n yiccer-ik amaynut
+newtab-personalize-settings-icon-label =
+    .title = Sagen iccer amaynut
+    .aria-label = Iɣewwaren
 newtab-settings-dialog-label =
     .aria-label = Iɣewwaṛen
 newtab-personalize-icon-label =
@@ -114,12 +117,17 @@ newtab-menu-delete-pocket = Kkes si { -pocket-brand-name }
 newtab-menu-archive-pocket = Ḥrez di { -pocket-brand-name }
 newtab-menu-show-privacy-info = Wid yettbeddan fell-aɣ akked tudert-ik tabaḍnit
 newtab-menu-about-fakespot = Γef { -fakespot-brand-name }
+newtab-menu-report-content = Ccetki ɣef ugbur-a
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Sewḥel
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
+newtab-menu-section-unfollow = Ur ṭṭafar ara asentel-a
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
+newtab-menu-manage-sponsored-content = Sefrek agbur yesεan bab
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 

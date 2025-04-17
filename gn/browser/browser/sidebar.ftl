@@ -31,6 +31,13 @@ sidebar-history-sort-by-site =
     .label = Tenda rupive
 sidebar-history-clear =
     .label = Embogue tembiasakue
+sidebar-history-sort-by-heading = Oñemoĩporã:
+sidebar-history-sort-option-date =
+    .label = Mba’ekuaarã
+sidebar-history-sort-option-site =
+    .label = Tenda
+sidebar-history-sort-option-date-and-site =
+    .label = Arange ha tenda
 
 ## Labels for sidebar search
 
