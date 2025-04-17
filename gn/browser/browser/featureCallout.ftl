@@ -62,6 +62,9 @@ split-dismiss-button-show-fewer-option =
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option =
     .label = Eñangareko ñemoĩporãre
+# Accessibility label for dropdown menu button
+split-dismiss-button-default-label =
+    .title = Jeporavorãve
 
 ## Sidebar Strings
 
