@@ -63,6 +63,7 @@ history-section-label = Historii
 item-history-and-downloads =
     .label = Historii prohlížení a stahování
     .accesskey = H
+item-history-and-downloads-description2 = Vymaže historii stránek a stahování
 item-history-and-downloads-description = Vymaže historii vyhledávání, navštívených stránek a stahování
 item-history-form-data-downloads =
     .label = Historie

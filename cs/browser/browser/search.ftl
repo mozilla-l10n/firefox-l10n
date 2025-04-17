@@ -64,6 +64,8 @@ remove-search-engine-button = OK
 ## Variables
 ## $newEngine (String) - the name of the new default search engine.
 
+reset-search-settings-message = Z důvodu technického problému byl váš výchozí vyhledávač změněn zpět na { $newEngine }. Chcete-li výchozí vyhledávač změnit, přejděte do nastavení.
+reset-search-settings-button = OK
 
 ## Infobar shown when user is prompted to install search engine.
 ## Variables

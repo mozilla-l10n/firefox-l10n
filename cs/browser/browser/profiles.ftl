@@ -15,6 +15,12 @@ profile-window-checkbox-label-2 =
             [with-cases] Zvolit profil při spuštění { -brand-short-name(case: "gen") }
            *[no-cases] Zvolit profil při spuštění aplikace { -brand-short-name }
         }
+# This subcopy appears below the checkbox when it is unchecked
+profile-window-checkbox-subcopy =
+    { -brand-short-name.case-status ->
+        [with-cases] { -brand-short-name } otevře váš naposledy použitý profil.
+       *[no-cases] Aplikace { -brand-short-name } otevře váš naposledy použitý profil.
+    }
 profile-window-create-profile = Vytvořit profil
 profile-card-edit-button =
     .title = Upravit profil
