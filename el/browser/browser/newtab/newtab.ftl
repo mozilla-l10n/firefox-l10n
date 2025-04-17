@@ -533,3 +533,23 @@ newtab-custom-wallpaper-cta = Δοκιμή
 
 ## Strings for reporting ads and content
 
+newtab-report-content-why-reporting-this =
+    .label = Γιατί το αναφέρετε αυτό;
+newtab-report-ads-reason-not-interested =
+    .label = Δεν ενδιαφέρομαι
+newtab-report-ads-reason-inappropriate =
+    .label = Είναι ακατάλληλο
+newtab-report-ads-reason-seen-it-too-many-times =
+    .label = Το έχω δει πάρα πολλές φορές
+newtab-report-content-wrong-category =
+    .label = Λάθος κατηγορία
+newtab-report-content-outdated =
+    .label = Παρωχημένο
+newtab-report-content-inappropriate-offensive =
+    .label = Ακατάλληλο ή προσβλητικό
+newtab-report-content-spam-misleading =
+    .label = Ανεπιθύμητο ή παραπλανητικό
+newtab-report-cancel = Ακύρωση
+newtab-report-submit = Υποβολή
+newtab-toast-thanks-for-feedback =
+    .message = Ευχαριστούμε για τα σχόλιά σας.

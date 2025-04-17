@@ -196,6 +196,20 @@ urlbar-result-menu-learn-more-about-firefox-suggest =
 urlbar-result-menu-manage-firefox-suggest =
     .label = Διαχείριση { -firefox-suggest-brand-name(case: "gen") }
     .accesskey = Δ
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative region (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location =
+    .label = Αναφορά ανακριβούς τοποθεσίας
+urlbar-result-menu-show-less-frequently =
+    .label = Εμφάνιση σπανιότερα
+urlbar-result-menu-dont-show-weather-suggestions =
+    .label = Να μην εμφανίζονται προτάσεις καιρού
+# A message shown in the urlbar when the user submits feedback on a suggestion
+# (e.g., it shows an inaccurate location, it's shown too often, etc.).
+urlbar-feedback-acknowledgment = Ευχαριστούμε για τα σχόλιά σας
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
