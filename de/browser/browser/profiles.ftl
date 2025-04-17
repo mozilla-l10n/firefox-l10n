@@ -7,6 +7,8 @@ profile-window-body = Trennen Sie Arbeit und privates Surfen vollständig, inklu
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Ein Profil wählen, wenn { -brand-short-name } geöffnet wird
+# This subcopy appears below the checkbox when it is unchecked
+profile-window-checkbox-subcopy = { -brand-short-name } öffnet sich mit Ihrem zuletzt verwendeten Profil.
 profile-window-create-profile = Ein Profil erstellen
 profile-card-edit-button =
     .title = Profil bearbeiten
