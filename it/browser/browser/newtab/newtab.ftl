@@ -519,7 +519,7 @@ newtab-section-confirm-block-topic-p2 = Gli argomenti bloccati non verranno più
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Blocca { $topic }
 
-## Panel in the Customize menu section to manage followed and blocked topics
+## Strings for custom wallpaper highlight
 
 newtab-section-mangage-topics-title = Argomenti
 newtab-section-manage-topics-button-v2 =
@@ -532,6 +532,9 @@ newtab-custom-wallpaper-title = Ora puoi utilizzare sfondi personalizzati
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Carica il tuo sfondo o scegli un colore personalizzato per personalizzare { -brand-product-name }.
 newtab-custom-wallpaper-cta = Prova
+
+## Strings for download mobile highlight
+
 
 ## Strings for reporting ads and content
 
@@ -555,4 +558,3 @@ newtab-report-cancel = Annulla
 newtab-report-submit = Invia
 newtab-toast-thanks-for-feedback =
     .message = Grazie per il tuo feedback.
-
