@@ -80,5 +80,12 @@ about-logging-upload-button = Cargar
 #   $path (string) - The path where the profile can be found.
 about-logging-saved = Salvate a { $path }
 # Variables:
+#   $url (string) - The URL where the profile can be found
+about-logging-uploaded = Cargate a <a data-l10n-name="uploaded-message-url">{ $url }</a>
+about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Compartir URL
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-upload-error = Un error eveniva cargante le profilo: { $errorText }
+# Variables:
 #   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = Un error eveniva salvante le file: { $errorText }
