@@ -530,3 +530,21 @@ newtab-custom-wallpaper-cta = Eha’ãjey
 
 ## Strings for reporting ads and content
 
+newtab-report-content-why-reporting-this =
+    .label = ¿Mba’ére emombe’u kóva rehegua?
+newtab-report-ads-reason-not-interested =
+    .label = Ndaipotái mba’eve
+newtab-report-ads-reason-inappropriate =
+    .label = Péva nahendái
+newtab-report-ads-reason-seen-it-too-many-times =
+    .label = Ahecha hetaitereirasa jey
+newtab-report-content-wrong-category =
+    .label = Mboja’opy oĩvaíva
+newtab-report-content-outdated =
+    .label = Hekopyahu’ỹva
+newtab-report-content-inappropriate-offensive =
+    .label = Nahendái térã oporoja’óva
+newtab-report-content-spam-misleading =
+    .label = Spam térã japúva
+newtab-report-cancel = Heja
+newtab-report-submit = Mondo
