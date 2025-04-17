@@ -526,6 +526,8 @@ newtab-section-mangage-topics-followed-topics-empty-state = Ndohapykuehói guete
 newtab-section-mangage-topics-blocked-topics = Bloqueado
 newtab-section-mangage-topics-blocked-topics-empty-state = Ndojokói gueteri mba’evéichagua téma.
 newtab-custom-wallpaper-title = Ko’ápe oĩ mba’erechaha rugua
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle = Ehupi ne mba’erechaha teéva térã eiporavo sa’yete embohéra hag̃ua ne { -brand-product-name }.
 newtab-custom-wallpaper-cta = Eha’ãjey
 
 ## Strings for reporting ads and content
