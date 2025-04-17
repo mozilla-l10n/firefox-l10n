@@ -149,6 +149,17 @@ contextual-manager-passwords-password-already-exists-error-button = Přejít na 
 contextual-manager-passwords-update-password-success-heading =
     .heading = Heslo uloženo
 contextual-manager-passwords-update-password-success-button = Hotovo
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] Heslo odebráno
+            [one] Heslo odebráno
+            [few] Hesla odebrána
+            [many] Hesla odebrána
+           *[other] Hesla odebrána
+        }
 contextual-manager-passwords-delete-password-success-button = Hotovo
 #
 # Radiobutton label to display total number of passwords
@@ -175,11 +186,24 @@ contextual-manager-passwords-alert-list =
     .aria-label = Seznam upozornění
 contextual-manager-passwords-breached-origin-link-message = Jak se { -brand-product-name } dozví o únicích?
 contextual-manager-passwords-change-password-button = Změnit heslo
+contextual-manager-passwords-vulnerable-password-link-message =
+    { -brand-product-name.case-status ->
+        [with-cases] Jak se { -brand-product-name } dozví o slabých heslech?
+       *[no-cases] Jak se { -brand-product-name } dozví o slabých heslech?
+    }
+contextual-manager-passwords-add-username-button = Přidat uživatelské jméno
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Přidat heslo
+contextual-manager-passwords-edit-label =
+    .label = Upravit heslo
+contextual-manager-passwords-remove-label =
+    .title = Odebrat heslo
+contextual-manager-passwords-origin-tooltip = Zadejte přesnou adresu, na které se budete přihlašovat k tomuto webu.
+contextual-manager-passwords-username-tooltip = Zadejte uživatelské jméno, e-mailovou adresu nebo číslo účtu, které používáte pro přihlášení.
+contextual-manager-passwords-password-tooltip = Zadejte heslo, kterým se přihlašujete k tomuto účtu.
 
 ## Password Card
 
@@ -246,6 +270,11 @@ contextual-manager-passwords-no-passwords-found-message = Nebyla nalezena žádn
 
 # This string encourages the user to save their passwords in Firefox (the "safe spot").
 contextual-manager-passwords-no-passwords-header = Uložte si hesla na bezpečné místo.
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = Všechna hesla jsou šifrována a my budeme sledovat případy narušení a upozorňovat na ně.
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = Pro začátek si je přidejte sem.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Přidat ručně
 

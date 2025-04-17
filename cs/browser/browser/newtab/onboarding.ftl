@@ -29,6 +29,8 @@ return-to-amo-subtitle =
 return-to-amo-addon-title = Teď zpět k doplňku <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
 return-to-amo-add-extension-label = Přidat rozšíření
 return-to-amo-add-theme-label = Přidat motiv vzhledu
+return-to-amo-theme-install-complete-label = Vzhled nainstalován
+return-to-amo-extension-install-complete-label = Rozšíření nainstalováno
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 

@@ -82,6 +82,9 @@ split-dismiss-button-show-fewer-option =
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option =
     .label = Spravovat nastavení
+# Accessibility label for dropdown menu button
+split-dismiss-button-default-label =
+    .title = Další možnosti
 
 ## Sidebar Strings
 
