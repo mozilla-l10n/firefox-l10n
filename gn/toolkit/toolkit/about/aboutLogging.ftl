@@ -70,3 +70,12 @@ about-logging-configured-via-url = Poravopyrã mbohekopyahupyre URL rupive
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
+about-logging-save-button = Ñongatu
+about-logging-upload-button = Hupi
+# Variables:
+#   $path (string) - The path where the profile can be found.
+about-logging-saved = Ñongatupyre { $path }-pe
+# Variables:
+#   $url (string) - The URL where the profile can be found
+about-logging-uploaded = Ojehupíva <a data-l10n-name="uploaded-message-url">{ $url }</a>
+about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Emoherakuã URL
