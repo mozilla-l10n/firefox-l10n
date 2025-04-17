@@ -38,6 +38,8 @@ remove-search-engine-button = Iawn
 ## Variables
 ## $newEngine (String) - the name of the new default search engine.
 
+reset-search-settings-message = Oherwydd problem dechnegol, mae eich peiriant chwilio rhagosodedig wedi'i newid yn ôl i { $newEngine }. I newid y peiriant chwilio rhagosodedig, ewch i'r gosodiadau.
+reset-search-settings-button = Iawn
 
 ## Infobar shown when user is prompted to install search engine.
 ## Variables

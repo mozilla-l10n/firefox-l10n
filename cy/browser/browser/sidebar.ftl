@@ -31,6 +31,15 @@ sidebar-history-sort-by-site =
     .label = Trefnu yn ôl gwefan
 sidebar-history-clear =
     .label = Clirio'r hanes
+sidebar-history-sort-by-heading = Trefnu yn ôl:
+sidebar-history-sort-option-date =
+    .label = Dyddiad
+sidebar-history-sort-option-site =
+    .label = Gwefan
+sidebar-history-sort-option-date-and-site =
+    .label = Dyddiad a gwefan
+sidebar-history-sort-option-last-visited =
+    .label = Ymwelwyd ddiwethaf
 
 ## Labels for sidebar search
 

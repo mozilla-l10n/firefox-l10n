@@ -7,6 +7,8 @@ profile-window-body = Cadwch eich pori gwaith a phersonol, gan gynnwys pethau fe
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Dewiswch broffil pan fydd { -brand-short-name } yn agor
+# This subcopy appears below the checkbox when it is unchecked
+profile-window-checkbox-subcopy = Bydd { -brand-short-name } yn agor i'ch proffil a ddefnyddiwyd yn fwyaf diweddar.
 profile-window-create-profile = Crëwch broffil
 profile-card-edit-button =
     .title = Golygu proffil

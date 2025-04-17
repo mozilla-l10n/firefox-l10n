@@ -538,3 +538,23 @@ newtab-custom-wallpaper-cta = Rhowch gynnig arni
 
 ## Strings for reporting ads and content
 
+newtab-report-content-why-reporting-this =
+    .label = Pam ydych chi'n adrodd ar hyn?
+newtab-report-ads-reason-not-interested =
+    .label = Does gen i ddim diddordeb
+newtab-report-ads-reason-inappropriate =
+    .label = Mae'n amhriodol
+newtab-report-ads-reason-seen-it-too-many-times =
+    .label = Rwyf wedi ei weld ormod o weithiau
+newtab-report-content-wrong-category =
+    .label = Categori anghywir
+newtab-report-content-outdated =
+    .label = Wedi dyddio
+newtab-report-content-inappropriate-offensive =
+    .label = Anaddas neu sarhaus
+newtab-report-content-spam-misleading =
+    .label = Sbam neu gamarweiniol
+newtab-report-cancel = Diddymu
+newtab-report-submit = Cyflwyno
+newtab-toast-thanks-for-feedback =
+    .message = Diolch am eich adborth!

@@ -59,6 +59,7 @@ history-section-label = Hanes
 item-history-and-downloads =
     .label = Hanes Pori a Llwytho i Lawr
     .accesskey = H
+item-history-and-downloads-description2 = Yn clirio hanes gwefan a llwytho i lawr
 item-history-and-downloads-description = Yn clirio hanes chwilio, gwefan a llwytho i lawr
 item-history-form-data-downloads =
     .label = Hanes

@@ -51,6 +51,8 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } fu pruggittatu di <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, na <label data-l10n-name="community-creditsLink">cumunità munniali</label> ca travagghia nzèmmula pi tèniri a Riti lìbbira, pùbblica e accissìbbili a tutti.
 helpus = Ni voi ajutari? <label data-l10n-name="helpus-donateLink">Fai na dunazzioni</label> o <label data-l10n-name="helpus-getInvolvedLink">jùnciti cu nuiautri!</label>
 bottomLinks-license = Nfurmazzioni ncapu â licenza
+bottom-links-terms = Tèrmini di sirbizzu
+bottom-links-privacy = Abbisu di privatizza
 bottomLinks-rights = Diritti di l'utenti finali
 bottomLinks-privacy = Pulìtica di privatizza
 # Example of resulting string: 66.0.1 (64-bit)
