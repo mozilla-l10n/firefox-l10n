@@ -184,8 +184,14 @@ contextual-manager-passwords-alert-back-button =
     .label = Zpět
 contextual-manager-passwords-alert-list =
     .aria-label = Seznam upozornění
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = Doporučena změna hesla
+    .message = Hesla z tohoto webu byla nahlášena jako odcizená nebo uniklá. Chcete-li svůj účet ochránit, změňte si heslo.
 contextual-manager-passwords-breached-origin-link-message = Jak se { -brand-product-name } dozví o únicích?
 contextual-manager-passwords-change-password-button = Změnit heslo
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = Doporučena změna hesla
+    .message = Toto heslo je snadno uhodnutelné. Pro ochranu svého účtu změňte heslo.
 contextual-manager-passwords-vulnerable-password-link-message =
     { -brand-product-name.case-status ->
         [with-cases] Jak se { -brand-product-name } dozví o slabých heslech?

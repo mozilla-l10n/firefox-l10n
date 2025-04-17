@@ -395,6 +395,7 @@ quickactions-help =
 quickactions-cmd-help = nápověda, podpora
 # Opens the devtools web inspector
 quickactions-inspector2 = Otevřít nástroje pro vývojáře
+quickactions-cmd-inspector2 = inspektor, inspector, devtools, vývojářské nástroje
 quickactions-cmd-inspector = průzkumník, nástroje pro vývojáře, devtools
 # Opens about:logins
 quickactions-logins2 = Správa hesel
