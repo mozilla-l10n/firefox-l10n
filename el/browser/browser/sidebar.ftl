@@ -31,6 +31,15 @@ sidebar-history-sort-by-site =
     .label = Ταξινόμηση κατά ιστότοπο
 sidebar-history-clear =
     .label = Απαλοιφή ιστορικού
+sidebar-history-sort-by-heading = Ταξινόμηση κατά:
+sidebar-history-sort-option-date =
+    .label = Ημερομηνία
+sidebar-history-sort-option-site =
+    .label = Ιστότοπο
+sidebar-history-sort-option-date-and-site =
+    .label = Ημερομηνία και ιστότοπο
+sidebar-history-sort-option-last-visited =
+    .label = Τελευταία επίσκεψη
 
 ## Labels for sidebar search
 
