@@ -289,6 +289,8 @@ shopping-opt-in-integrated-button = Vyzkoušet kontrolu recenzí
 
 ## Message strings for Review Checker's empty states.
 
+shopping-empty-state-header = Připraveno ke kontrole recenzí
+shopping-empty-state-supported-site = Zobrazte si produkt a { -brand-product-name } zkontroluje, zda jsou jeho recenze spolehlivé.
 # We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
 # This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
 shopping-empty-state-non-supported-site = Kontrola recenzí funguje, když nakupujete na:
@@ -300,12 +302,15 @@ shopping-integrated-callout-opted-out-subtitle = Pro její opětovné zapnutí v
 
 ## Callout for where to find Review Checker when the sidebar closes
 
+shopping-integrated-callout-sidebar-closed-title = Zpět ke Kontrole recenzí
 shopping-integrated-callout-sidebar-closed-subtitle = Vyberte cenovku v postranní liště a zjistěte, zda můžete důvěřovat recenzím produktu.
+shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Klepněte na tlačítko postranní lišty a zkontrolujte, zda můžete důvěřovat recenzím produktu.
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-title = Stejná Kontrola recenzí na novém místě
 shopping-integrated-new-position-notification-move-right-button = Přesunout doprava
 shopping-integrated-new-position-notification-move-left-button = Přesunout doleva
 shopping-integrated-new-position-notification-dismiss-button = Rozumím
