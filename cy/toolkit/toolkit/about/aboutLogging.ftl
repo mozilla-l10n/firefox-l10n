@@ -66,8 +66,30 @@ about-logging-unknown-profiler-preset = Rhagosodiad proffiliwr anhysbys “{ $v 
 about-logging-unknown-option = Dewis about:logging anhysbys “{ $k }“
 about-logging-configuration-url-ignored = Anwybyddwyd URL ffurfweddiad
 about-logging-file-and-profiler-override = Methu â gorfodi allbwn ffeil a diystyru dewisiadau proffiliwr ar yr un pryd
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-unknown-error = Digwyddodd gwall: { $errorText }
 about-logging-configured-via-url = Dewis wedi'i ffurfweddu trwy URL
 
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
+about-logging-upload-question = Mae'r data proffil wedi'i gasglu. Ydych chi am ei gadw neu ei lwytho i fyny?
+about-logging-save-button = Cadw
+about-logging-upload-button = Llwytho i fyny
+# Variables:
+#   $path (string) - The path where the profile can be found.
+about-logging-saved = Cadwyd i { $path }
+# Variables:
+#   $percent (number) - The upload completion progress, to be displayed as a percentage. This is a value between 0 and 1.
+about-logging-uploading-progress = Wrthi'n llwytho data proffil i fyny: { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+# Variables:
+#   $url (string) - The URL where the profile can be found
+about-logging-uploaded = Llwythwyd i <a data-l10n-name="uploaded-message-url">{ $url }</a>
+about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Rhannu URL
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-upload-error = Digwyddodd gwall wrth lwytho'r proffil i fyny: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-save-error = Digwyddodd gwall wrth gadw'r ffeil: { $errorText }
