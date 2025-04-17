@@ -276,10 +276,37 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 # Opt-in message strings for Review Checker when it is integrated into the global sidebar.
 shopping-opt-in-integrated-headline = Nakupujte s důvěrou
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle =
+    { -brand-product-name.case-status ->
+        [with-cases] Zapněte si Kontrolu recenzí { -brand-product-name(case: "gen") } a zjistěte, jak spolehlivé jsou recenze produktů ještě před nákupem. Je využívána technologie AI pro analýzu recenzí a funguje při nakupování na { $firstSite }, { $secondSite } a { $thirdSite }. <a data-l10n-name="learn_more">Zjistit více</a>
+       *[no-cases] Zapněte si Kontrolu recenzí aplikace { -brand-product-name } a zjistěte, jak spolehlivé jsou recenze produktů ještě před nákupem. Je využívána technologie AI pro analýzu recenzí a funguje při nakupování na { $firstSite }, { $secondSite } a { $thirdSite }. <a data-l10n-name="learn_more">Zjistit více</a>
+    }
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle-unsupported-site =
+    { -brand-product-name.case-status ->
+        [with-cases] Kontrola recenzí { -brand-product-name(case: "gen") } vám pomůže zjistit, jak spolehlivé jsou recenze produktu ještě před nákupem. Využívá technologii AI pro analýzu recenzí a funguje při nakupování na { $firstSite }, { $secondSite } a { $thirdSite }. <a data-l10n-name="learn_more">Zjistit více</a>
+       *[no-cases] Kontrola recenzí aplikace { -brand-product-name } vám pomůže zjistit, jak spolehlivé jsou recenze produktu ještě před nákupem. Využívá technologii AI pro analýzu recenzí a funguje při nakupování na { $firstSite }, { $secondSite } a { $thirdSite }. <a data-l10n-name="learn_more">Zjistit více</a>
+    }
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
 shopping-callout-opt-in-integrated-headline = Můžete těmto recenzím věřit?
+# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
+shopping-callout-not-opted-in-integrated-paragraph1 =
+    { -brand-product-name.case-status ->
+        [with-cases] Zapněte Kontrolu recenzí { -brand-product-name(case: "gen") } abyste to zjistili. Zajišťuje ji { -fakespot-brand-full-name } a k analýze recenzí používá technologii AI.
+       *[no-cases] Zapněte Kontrolu recenzí aplikace { -brand-product-name } abyste to zjistili. Zajišťuje ji { -fakespot-brand-full-name } a k analýze recenzí používá technologii AI.
+    }
+shopping-callout-not-opted-in-integrated-paragraph2 = Vybráním “{ shopping-opt-in-integrated-button }” souhlasíte se <a data-l10n-name="privacy_policy">zásadami ochrany soukromí</a> { -brand-product-name } a <a data-l10n-name="terms_of_use">zásadami používání</a> služby { -fakespot-brand-full-name }.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Zavřít
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Zapnout kontrolu recenzí
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = Toto doporučení už nezobrazovat
