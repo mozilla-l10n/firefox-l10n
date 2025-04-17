@@ -65,6 +65,9 @@ about-logging-unknown-profiler-preset = Mbohapeha ypygua ojekuaa’ỹva “{ $v
 about-logging-unknown-option = Poravopyrã about:logging ojekuaa’ỹva “{ $k }“
 about-logging-configuration-url-ignored = Ñembohekopyahu hejapyre URL
 about-logging-file-and-profiler-override = Nerenohẽkuaái mbaretépe marandurendágui ha emboyke mbohapeha poravopyrã oñondive
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-unknown-error = Oiko jejavy: { $errorText }
 about-logging-configured-via-url = Poravopyrã mbohekopyahupyre URL rupive
 
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud

@@ -128,6 +128,7 @@ newtab-menu-section-unfollow = Ur ṭṭafar ara asentel-a
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
 newtab-menu-manage-sponsored-content = Sefrek agbur yesεan bab
+newtab-menu-report-this-ad = Ccetki ɣef udellel-a
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 

@@ -38,6 +38,8 @@ sidebar-history-sort-option-site =
     .label = Tenda
 sidebar-history-sort-option-date-and-site =
     .label = Arange ha tenda
+sidebar-history-sort-option-last-visited =
+    .label = Jeike paha
 
 ## Labels for sidebar search
 
