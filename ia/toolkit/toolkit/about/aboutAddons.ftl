@@ -295,6 +295,16 @@ discopane-intro2 =
     tanto plus. Iste micre programmas software es sovente disveloppate per un tertie parte. Ecce
     un selection { -brand-product-name } <a data-l10n-name="learn-more-trigger">consiliate</a>
     pro securitate, prestation, e functionalitate exceptional.
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 =
+    Extensiones e themas te permitte de personalisar { -brand-product-name }. Illos pote potentiar le confidentialitate,
+    augmentar le productivitate, meliorar le medios, cambiar le apparentia de { -brand-product-name }, e
+    tanto plus. Iste micre programmas software es sovente disveloppate per un tertie parte. Ecce
+    un selection { -brand-product-name } <a data-l10n-name="learn-more-trigger">consiliate</a> pro
+    securitate, prestation, e functionalitate exceptional.
 
 ## Add-on actions
 
