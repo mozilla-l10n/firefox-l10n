@@ -59,6 +59,7 @@ history-section-label = Chronologia
 item-history-and-downloads =
     .label = Chronologia de navigation e de discargamentos
     .accesskey = C
+item-history-and-downloads-description2 = Vacua le chronologias de sito e discargamento
 item-history-and-downloads-description = Vacua le chronologias de recerca, sito e discargamento
 item-history-form-data-downloads =
     .label = Chronologia

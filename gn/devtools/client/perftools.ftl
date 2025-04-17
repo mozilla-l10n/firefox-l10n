@@ -73,6 +73,9 @@ perftools-button-edit-settings = Embosako’i ñemboheko…
 
 perftools-menu-more-actions-button =
     .title = Jeku’eve
+perftools-menu-more-actions-restart-with-profiling = Emoñepyrũjey { -brand-shorter-name } pe ñepyrũha mbojurujapyre ndive
+perftools-menu-more-actions-copy-for-startup = Emonguatia umi jeregua pe perfilado ñepyrũgua
+perftools-menu-more-actions-copy-for-perf-tests = Emonguatia ñeha’ãpy tembiapokue rehegua
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 

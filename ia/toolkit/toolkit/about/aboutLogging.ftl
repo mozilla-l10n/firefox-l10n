@@ -66,6 +66,9 @@ about-logging-unknown-profiler-preset = Pre-configuration del profilator “{ $v
 about-logging-unknown-option = Option de about:logging “{ $k }“ incognite
 about-logging-configuration-url-ignored = Configuration URL ignorate
 about-logging-file-and-profiler-override = Impossibile fortiar un file de exito e al mesme tempore supplantar le optiones del profilator
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-unknown-error = Un error eveniva: { $errorText }
 about-logging-configured-via-url = Option configurate per URL
 
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
@@ -76,3 +79,6 @@ about-logging-upload-button = Cargar
 # Variables:
 #   $path (string) - The path where the profile can be found.
 about-logging-saved = Salvate a { $path }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-save-error = Un error eveniva salvante le file: { $errorText }
