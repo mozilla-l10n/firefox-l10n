@@ -307,8 +307,18 @@ addon-options-button =
 discopane-intro2 =
     Rozšírenia a témy vzhľadu vám umožňujú prispôsobiť { -brand-product-name }. Môžu zlepšiť súkromie,
     zvýšiť produktivitu, vylepšiť médiá, zmeniť vzhľad { -brand-product-name(case: "gen") } a
-    mnoho ďalšieho. Tieto malé softvérové programy sú často vyvíjaje tretími stranami. Tu je
+    mnoho ďalšieho. Tieto malé softvérové programy sú často vyvíjané tretími stranami. Tu je
     výber { -brand-product-name(case: "ins") } <a data-l10n-name="learn-more-trigger">odporúčaných</a> doplnkov
+    pre výnimočné zabezpečenie, výkon a funkčnosť.
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 =
+    Rozšírenia a témy vzhľadu vám umožňujú prispôsobiť { -brand-product-name }. Môžu zlepšiť súkromie,
+    zvýšiť produktivitu, vylepšiť médiá, zmeniť vzhľad { -brand-product-name(case: "gen") } a
+    mnoho ďalšieho. Tieto malé softvérové programy sú často vyvíjané tretími stranami. Tu je
+    výber Firefoxom <a data-l10n-name="learn-more-trigger">odporúčaných</a> doplnkov
     pre výnimočné zabezpečenie, výkon a funkčnosť.
 
 ## Add-on actions
@@ -446,8 +456,22 @@ addon-badge-recommended3 =
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Oficiálne rozšírenie od autorov Firefoxu. Spĺňa bezpečnostné a výkonové štandardy.
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are performing the
+# security or performance reviews. As such, we avoid personalising language
+# like the words "our" or "we".
+addon-badge-verified4 =
+    .title = Toto rozšírenie bolo skontrolované a spĺňa štandardy pre bezpečnosť a výkon
 addon-badge-verified3 =
     .title = Toto rozšírenie bolo skontrolované a spĺňa naše štandardy bezpečnosti a výkonu
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are making the
+# recommendation. As such, we hard code "Firefox" and avoid personalising
+# language like the words "our" or "we".
+addon-badge-recommended4 =
+    .title = Firefox odporúča len rozšírenia, ktoré spĺňajú štandardy pre bezpečnosť a výkon
 
 ##
 

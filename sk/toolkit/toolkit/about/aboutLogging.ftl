@@ -66,8 +66,30 @@ about-logging-unknown-profiler-preset = Neznáma predvoľba profilovania “{ $v
 about-logging-unknown-option = Neznáma predvoľba about:logging “{ $k }“
 about-logging-configuration-url-ignored = Konfiguračná adresa URL bola ignorovaná
 about-logging-file-and-profiler-override = Nie je možné súčasne vynútiť výstup do súboru a prepísať nastavenia profilovania
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-unknown-error = Vyskytla sa chyba: { $errorText }
 about-logging-configured-via-url = Možnosť nakonfigurovaná prostredníctvom adresy URL
 
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
+about-logging-upload-question = Údaje profilu boli zaznamenané. Chcete ho uložiť alebo nahrať?
+about-logging-save-button = Uložiť
+about-logging-upload-button = Nahrať
+# Variables:
+#   $path (string) - The path where the profile can be found.
+about-logging-saved = Uložené do { $path }
+# Variables:
+#   $percent (number) - The upload completion progress, to be displayed as a percentage. This is a value between 0 and 1.
+about-logging-uploading-progress = Nahrávajú sa údaje profilu: { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+# Variables:
+#   $url (string) - The URL where the profile can be found
+about-logging-uploaded = Nahraté na adresu <a data-l10n-name="uploaded-message-url">{ $url }</a>
+about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Zdieľať adresu URL
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-upload-error = Pri nahrávaní profilu sa vyskytla chyba: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-save-error = Pri ukladaní súboru sa vyskytla chyba: { $errorText }
