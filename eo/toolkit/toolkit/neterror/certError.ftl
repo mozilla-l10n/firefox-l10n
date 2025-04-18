@@ -21,6 +21,9 @@ cert-error-trust-symantec = Atestiloj eldonitaj de RapidSSL, RapidSSL, Symantec,
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } ne fidas { $hostname } ĉar ĝi ne povis pruvi ĝian observon de la publikaj postuloj pri atestila travideblo.
+# Variables:
+#   $hostname (string) - Hostname of the website with cert error.
+cert-error-revoked = Retejoj pruvas sian identecon per atestiloj. { -brand-short-name } ne fidas { $hostname } ĉar ĝi uzas atestilon, kiu estis senvalidigita.
 cert-error-untrusted-default = La atestilo ne venas el fidata origino.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
