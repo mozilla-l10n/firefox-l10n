@@ -528,3 +528,13 @@ newtab-custom-wallpaper-cta = Coba sekarang
 
 ## Strings for reporting ads and content
 
+newtab-report-content-why-reporting-this =
+    .label = Mengapa Anda melaporkan ini?
+newtab-report-ads-reason-not-interested =
+    .label = Saya tidak tertarik
+newtab-report-ads-reason-inappropriate =
+    .label = Tidak pantas
+newtab-report-cancel = Batal
+newtab-report-submit = Kirim
+newtab-toast-thanks-for-feedback =
+    .message = Terima kasih atas masukan Anda

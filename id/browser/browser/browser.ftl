@@ -203,6 +203,14 @@ urlbar-result-menu-manage-firefox-suggest =
 # administrative region (e.g., a province, prefecture, or state).
 urlbar-result-menu-report-inaccurate-location =
     .label = Laporkan lokasi yang tidak akurat
+urlbar-result-menu-dont-show-weather-suggestions =
+    .label = Jangan tampilkan saran cuaca
+# A message shown in the urlbar when the user submits feedback on a suggestion
+# (e.g., it shows an inaccurate location, it's shown too often, etc.).
+urlbar-feedback-acknowledgment = Terima kasih atas masukan Anda
+# A message shown in the urlbar when the user dismisses weather suggestions.
+# Weather suggestions won't be shown at all anymore.
+urlbar-dismissal-acknowledgment-weather = Terima kasih atas masukan Anda. Anda tidak akan melihat saran cuaca lagi.
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
