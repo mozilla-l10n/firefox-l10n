@@ -725,6 +725,12 @@ urlbar-result-action-calculator-result-scientific-notation = = { $result }
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "false", maximumFractionDigits: 8) }
+# Shows the result of a formula expression being calculated, to a maximum of 9 significant
+# digits. This is used for numbers < 1.
+# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 
 ## Strings used for buttons in the urlbar
 
@@ -1003,6 +1009,9 @@ panel-save-update-password = Pasvorto
 # "More" item in macOS share menu
 menu-share-more =
     .label = Pli…
+menu-share-copy-link =
+    .label = Kopii ligilon
+    .accesskey = l
 ui-tour-info-panel-close =
     .tooltiptext = Fermi
 
