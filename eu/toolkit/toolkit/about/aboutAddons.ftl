@@ -201,6 +201,10 @@ addon-updates-manual-updates-found = Ikusi eguneraketa erabilgarriak
 
 addon-install-from-file = Instalatu gehigarria fitxategitik…
     .accesskey = I
+# Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
+# pref is set.
+addon-install-or-update-from-file = Instalatu edo eguneratu gehigarria fitxategitik…
+    .accesskey = I
 addon-install-from-file-dialog-title = Hautatu instalatzeko gehigarria
 addon-install-from-file-filter-name = Gehigarriak
 addon-open-about-debugging = Araztu gehigarriak
@@ -290,6 +294,16 @@ discopane-intro2 =
     produktibitatea areagotu, multimedia hobetu, { -brand-product-name }(r)en itxura aldatu eta
     gehiago egin dezakete. Software programa txiki hauek hirugarren batzuek eginak dira askotan.
     Hona hemen { -brand-product-name }(e)k <a data-l10n-name="learn-more-trigger">gomendatzen</a>
+    dituen hautapen bat, aparteko segurtasun, errendimendu eta funtzionaltasunerako.
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 =
+    Hedapen eta itxurekin { -brand-product-name } pertsonaliza dezakezu. Pribatutasunari bultzada eman,
+    produktibitatea areagotu, multimedia hobetu, { -brand-product-name }(r)en itxura aldatu eta
+    gehiago egin dezakete. Software programa txiki hauek hirugarren batzuek eginak dira askotan.
+    Hona hemen Firefoxek <a data-l10n-name="learn-more-trigger">gomendatzen</a>
     dituen hautapen bat, aparteko segurtasun, errendimendu eta funtzionaltasunerako.
 
 ## Add-on actions
@@ -426,8 +440,22 @@ addon-badge-recommended3 =
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Mozillak sortutako hedapen ofiziala. Segurtasun- eta errendimendu-estandarrak betetzen ditu
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are performing the
+# security or performance reviews. As such, we avoid personalising language
+# like the words "our" or "we".
+addon-badge-verified4 =
+    .title = Gehigarri hau berrikusi egin da segurtasun- eta errendimendu-estandarrak betetzeko
 addon-badge-verified3 =
     .title = Gehigarri hau berrikusi egin da gure segurtasun- eta errendimendu-estandarrak betetzeko
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are making the
+# recommendation. As such, we hard code "Firefox" and avoid personalising
+# language like the words "our" or "we".
+addon-badge-recommended4 =
+    .title = Segurtasun eta errendimendurako gure estandarrak betetzen dituzten hedapenak gomendatzen ditu soilik Firefoxek
 
 ##
 

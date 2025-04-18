@@ -129,3 +129,5 @@ about-reader-text-alignment-center =
     .title = Lerrokatu testua erdian
 about-reader-text-alignment-right =
     .title = Lerrokatu testua eskuinean
+about-reader-text-alignment-justify =
+    .title = Justifikatu testua

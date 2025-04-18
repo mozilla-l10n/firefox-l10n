@@ -13,6 +13,7 @@ neterror-captive-portal-page-title = Hasi saioa sarean
 neterror-dns-not-found-title = Ez da zerbitzaria aurkitu
 neterror-malformed-uri-page-title = URL baliogabea
 general-body-title = Kontuz. Badirudi zerbait oker dagoela.
+problem-with-this-site-title = Badirudi arazo bat dagoela gune honekin
 
 ## Error page actions
 

@@ -15,3 +15,13 @@ experimental-features-js-warp-description = Gaitu Warp, JavaScript-en erredinemd
 experimental-features-ime-search =
     .label = Helbide-barra: erakutsi emaitzak IME konposizioan
 experimental-features-ime-search-description = Sinbolo konplexuak (Asia Ekialdeko edo Indiako hizkuntza idatzietakoak, adibidez) teklatu bidez idaztea baimentzen duen tresna da IME bat (Input Method Editor). Esperimentu hau gaitzean helbide-barra irekita mantenduko da, bilaketa-emaitzak eta iradokizunak erakutsiz IME erabili ahala testua idazteko. Konturatu IMEak helbide-barrako emaitzen gainetik bistara dezakeela panel bat, hortaz hobespen hau gomendatzen da soilik IMEak mota honetako panela erabiltzen ez duenean.
+experimental-features-group-developer-tools =
+    .label = Garatzaile-tresnak
+experimental-features-group-customize-browsing =
+    .label = Pertsonalizatu zure nabigazioa
+# Contextual Password Manager in sidebar
+experimental-features-contextual-password-manager =
+    .label = Pasahitzak alboko barran
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = Loturen aurrebista
