@@ -66,8 +66,30 @@ about-logging-unknown-profiler-preset = Preselecziun da profiler «{ $v }» nune
 about-logging-unknown-option = Opziun about:logging «{ $k }» nunenconuschenta
 about-logging-configuration-url-ignored = Ignorà l'URL da configuraziun
 about-logging-file-and-profiler-override = Impussibel da sfurzar da scriver ina datoteca e remplazzar il medem mument las opziuns dal profiler
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-unknown-error = Ina errur è capitada: { $errorText }
 about-logging-configured-via-url = Opziun configurada via URL
 
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
+about-logging-upload-question = Las datas da profil èn vegnidas tschiffadas. Las vuls ti memorisar u transferir?
+about-logging-save-button = Memorisar
+about-logging-upload-button = Transferir
+# Variables:
+#   $path (string) - The path where the profile can be found.
+about-logging-saved = Memorisar sut { $path }
+# Variables:
+#   $percent (number) - The upload completion progress, to be displayed as a percentage. This is a value between 0 and 1.
+about-logging-uploading-progress = Transferiment da las datas da profil: { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+# Variables:
+#   $url (string) - The URL where the profile can be found
+about-logging-uploaded = Transferì sin <a data-l10n-name="uploaded-message-url">{ $url }</a>
+about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Cundivider l’URL
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-upload-error = Ina errur è capitada durant transferir il profil: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-save-error = Ina errur è capitada durant memorisar la datoteca: { $errorText }

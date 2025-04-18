@@ -31,6 +31,15 @@ sidebar-history-sort-by-site =
     .label = Zavrar tenor website
 sidebar-history-clear =
     .label = Stizzar la cronologia
+sidebar-history-sort-by-heading = Zavrar tenor:
+sidebar-history-sort-option-date =
+    .label = Data
+sidebar-history-sort-option-site =
+    .label = Website
+sidebar-history-sort-option-date-and-site =
+    .label = Data e website
+sidebar-history-sort-option-last-visited =
+    .label = Ultima visita
 
 ## Labels for sidebar search
 

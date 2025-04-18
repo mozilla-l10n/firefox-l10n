@@ -38,6 +38,8 @@ remove-search-engine-button = OK
 ## Variables
 ## $newEngine (String) - the name of the new default search engine.
 
+reset-search-settings-message = Causa in problem tecnic è tia maschina da retschertga puspè vegnida midada a { $newEngine }. Per midar la maschina da retschertga predefinida, acceda als parameters.
+reset-search-settings-button = OK
 
 ## Infobar shown when user is prompted to install search engine.
 ## Variables

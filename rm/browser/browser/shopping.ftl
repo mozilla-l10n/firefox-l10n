@@ -325,3 +325,7 @@ shopping-settings-auto-open-and-close-toggle =
 #   $secondSite (String) - The second shopping page name
 #   $thirdSite (String) - The third shopping page name
 shopping-settings-auto-open-and-close-description-three-sites = S’avra cura che ti consulteschas products sin { $firstSite }, { $secondSite } e { $thirdSite } e sa serra cura che ti sortas
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-and-close-description-single-site = S’avra cura che ti consulteschas products sin { $currentSite } e sa serra cura che ti sortas

@@ -59,6 +59,7 @@ history-section-label = Cronologia
 item-history-and-downloads =
     .label = La cronologia da navigaziun e da telechargiadas
     .accesskey = L
+item-history-and-downloads-description2 = Stizza la cronologia da websites e telechargiadas
 item-history-and-downloads-description = Stizza la cronologia da tschertga, da navigaziun e da telechargiadas
 item-history-form-data-downloads =
     .label = Cronologia

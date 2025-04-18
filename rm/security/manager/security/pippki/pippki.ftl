@@ -85,6 +85,13 @@ client-auth-cert-details-issued-by = Emess da: { $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = Memorisà sin: { $storedOn }
+client-auth-cert-remember-label = Tegnair endament questa decisiun:
+client-auth-cert-remember-never =
+    .label = Ina giada
+client-auth-cert-remember-always =
+    .label = Permanentamain
+client-auth-cert-remember-temporarily =
+    .label = Per questa sesida
 client-auth-cert-remember-box =
     .label = Memorisar questa decisiun
 

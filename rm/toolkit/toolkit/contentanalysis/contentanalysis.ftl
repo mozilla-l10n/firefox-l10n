@@ -13,6 +13,15 @@ contentanalysis-slow-agent-dialog-header = Analisa en elavuraziun
 contentanalysis-slow-agent-dialog-body-file = { $agent } verifitgescha la confurmitad da «{ $filename }» a las directivas da datas da tia organisaziun. Quai po cuzzar in mument.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
+#   $filename - Name of a file being analyzed, such as "aFile.txt"
+#   $count (number) - The number of additional items in the request for analysis
+contentanalysis-slow-agent-dialog-body-file-and-more =
+    { $count ->
+        [one] { $agent } verifitgescha la confurmitad da «{ $filename }» ed { $count } element supplementar a las directivas da datas da tia organisaziun. Quai po cuzzar in mument.
+       *[other] { $agent } verifitgescha la confurmitad da «{ $filename }» e { $count } elements supplementars a las directivas da datas da tia organisaziun. Quai po cuzzar in mument.
+    }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } verifitgescha la confurmitad dal cuntegn encollà a las directivas da datas da tia organisaziun. Quai po cuzzar in mument.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:

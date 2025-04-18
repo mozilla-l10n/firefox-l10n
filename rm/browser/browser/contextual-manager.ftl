@@ -116,6 +116,20 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Allontanar tut
        *[other] Allontanar tut
     }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] Uschia vegn allontanà tes pled-clav memorisà en { -brand-short-name } e tut ils avertiments da sperditas da datas. Questa acziun na po betg vegnir revocada.
+       *[other] Uschia vegnan allontanads ils pleds-clav memorisads en { -brand-short-name } e tut ils avertiments da sperditas da datas. Questa acziun na po betg vegnir revocada.
+    }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] Uschia vegn allontanà il pled-clav memorisà en { -brand-short-name } da tut tes apparats sincronisads e stizzads tut ils avertiments da sperditas da datas. Questa acziun na po betg vegnir revocada.
+       *[other] Uschia vegnan allontanads tut ils pleds-clav memorisads en { -brand-short-name } da tut tes apparats sincronisads e stizzads tut ils avertiments da sperditas da datas. Questa acziun na po betg vegnir revocada.
+    }
 contextual-manager-passwords-origin-label = Website
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = Num d’utilisader
@@ -138,6 +152,14 @@ contextual-manager-passwords-password-already-exists-error-button = Ir al pled-c
 contextual-manager-passwords-update-password-success-heading =
     .heading = Memorisà il pled-clav
 contextual-manager-passwords-update-password-success-button = Finì
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] Stizzà il pled-clav
+           *[other] Stizzà ils pleds-clav
+        }
 contextual-manager-passwords-delete-password-success-button = Finì
 #
 # Radiobutton label to display total number of passwords
@@ -184,6 +206,7 @@ contextual-manager-passwords-edit-label =
     .label = Modifitgar il pled-clav
 contextual-manager-passwords-remove-label =
     .title = Allontanar il pled-clav
+contextual-manager-passwords-origin-tooltip = Endatescha l’adressa exacta per s’annunziar en questa website.
 contextual-manager-passwords-username-tooltip = Endatescha il num d’utilisader, l’adressa dad e-mail u il numer dal conto che ti utiliseschas per s’annunziar.
 contextual-manager-passwords-password-tooltip = Endatescha il pled-clav utilisà per s’annunziar en quest conto.
 

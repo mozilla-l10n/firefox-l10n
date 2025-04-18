@@ -33,3 +33,11 @@ experimental-features-contextual-password-manager-description = Acceda a tes ple
 experimental-features-custom-wallpaper =
     .label = Tscherna in fund davos persunalisà u ina colur tenor giavisch per la pagina da novs tabs
 experimental-features-custom-wallpaper-description = Transferescha tes agen maletg u tscherna ina colur tenor giavisch per il fund davos da novs tabs.
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = Previstas da colliaziuns
+experimental-features-link-previews-description =
+    { PLATFORM() ->
+        [macos] Per vegnir a savair dapli davart ina pagina d’internet avant che cliccar, plazzescha il punctader da la mieur sin ina colliaziun e smatga Shift (⇧) plus Option (⌥) u Alt. Previstas pon includer detagls sco il titel ed il temp necessari per leger. Per tschertas paginas d’internet po la IA era leger il text da la pagina e generar puncts clav. L’IA è optimada per leger e generar text englais. Per priorisar la protecziun da tias datas vegn la IA exequida localmain sin tes computer. <a data-l10n-name="connect">Dar in resun</a>
+       *[other] Per vegnir a savair dapli davart ina pagina d’internet avant che cliccar, plazzescha il punctader da la mieur sin ina colliaziun e smatga Shift + Alt. Previstas pon includer detagls sco il titel ed il temp necessari per leger. Per tschertas paginas d’internet po la IA era leger il text da la pagina e generar puncts clav. L’IA è optimada per leger e generar text englais. Per priorisar la protecziun da tias datas vegn la IA exequida localmain sin tes computer. <a data-l10n-name="connect">Dar in resun</a>
+    }

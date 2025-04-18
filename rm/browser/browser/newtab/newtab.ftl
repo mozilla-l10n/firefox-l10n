@@ -533,3 +533,23 @@ newtab-custom-wallpaper-cta = Empruvar
 
 ## Strings for reporting ads and content
 
+newtab-report-content-why-reporting-this =
+    .label = Pertge annunzias ti quai?
+newtab-report-ads-reason-not-interested =
+    .label = Quai na m’interessa betg
+newtab-report-ads-reason-inappropriate =
+    .label = Igl è deplazzà
+newtab-report-ads-reason-seen-it-too-many-times =
+    .label = Jau hai vis quai memia savens
+newtab-report-content-wrong-category =
+    .label = Categoria sbagliada
+newtab-report-content-outdated =
+    .label = Obsolet
+newtab-report-content-inappropriate-offensive =
+    .label = Deplazzà u offendent
+newtab-report-content-spam-misleading =
+    .label = Spam u engianus
+newtab-report-cancel = Interrumper
+newtab-report-submit = Trametter
+newtab-toast-thanks-for-feedback =
+    .message = Grazia per tes resun.
