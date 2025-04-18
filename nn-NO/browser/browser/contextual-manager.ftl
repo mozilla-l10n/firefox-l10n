@@ -254,6 +254,11 @@ contextual-manager-passwords-no-passwords-found-message = Fann ingen passord. S�
 
 # This string encourages the user to save their passwords in Firefox (the "safe spot").
 contextual-manager-passwords-no-passwords-header = Lagre passorda dine på ein trygg stad.
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = Alle passord er krypterte, og vi held auge med datalekkasjar, og varslar deg dersom du vert ramma.
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = Legg dei til her for å kome i gang.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Legg til manuelt
 

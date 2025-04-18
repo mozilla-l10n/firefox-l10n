@@ -527,10 +527,22 @@ newtab-custom-wallpaper-cta = Prøv det
 
 ## Strings for reporting ads and content
 
+newtab-report-content-why-reporting-this =
+    .label = Kvifor rapporterer du dette?
+newtab-report-ads-reason-not-interested =
+    .label = Eg er ikkje interessert
+newtab-report-ads-reason-inappropriate =
+    .label = Det er upassande
+newtab-report-ads-reason-seen-it-too-many-times =
+    .label = Eg har sett den altfor mange gongar
 newtab-report-content-wrong-category =
     .label = Feil kategori
 newtab-report-content-outdated =
     .label = Utdatert
+newtab-report-content-inappropriate-offensive =
+    .label = Upassande eller krenkande
+newtab-report-content-spam-misleading =
+    .label = Spam eller villeiande
 newtab-report-cancel = Avbryt
 newtab-report-submit = Send inn
 newtab-toast-thanks-for-feedback =
