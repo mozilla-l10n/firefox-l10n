@@ -304,6 +304,11 @@ addon-options-button =
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
 discopane-intro2 = Extensões e temas permitem personalizar o { -brand-product-name }. Elas podem melhorar a privacidade, aumentar a produtividade, aprimorar mídias, mudar a aparência do { -brand-product-name } e muito mais. Esses pequenos programas de software geralmente são desenvolvidos por terceiros. Eis uma seleção que o { -brand-product-name } <a data-l10n-name="learn-more-trigger">recomenda</a> por ter excepcional segurança, desempenho e funcionalidade.
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 = Extensões e temas permitem personalizar o { -brand-product-name }. Elas podem melhorar a privacidade, aumentar a produtividade, aprimorar mídias, mudar a aparência do { -brand-product-name } e muito mais. Esses pequenos programas geralmente são desenvolvidos por terceiros. Eis uma seleção que o Firefox <a data-l10n-name="learn-more-trigger">recomenda</a> por ter excepcional segurança, desempenho e funcionalidade.
 
 ## Add-on actions
 

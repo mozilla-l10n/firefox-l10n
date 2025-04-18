@@ -74,11 +74,15 @@ about-logging-configured-via-url = Opção configurada via URL
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
+about-logging-upload-question = Os dados do profile foram capturados. Quer salvar ou enviar?
 about-logging-save-button = Salvar
 about-logging-upload-button = Enviar
 # Variables:
 #   $path (string) - The path where the profile can be found.
 about-logging-saved = Salvo em { $path }
+# Variables:
+#   $percent (number) - The upload completion progress, to be displayed as a percentage. This is a value between 0 and 1.
+about-logging-uploading-progress = Enviando dados do profile: { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
 # Variables:
 #   $url (string) - The URL where the profile can be found
 about-logging-uploaded = Enviado para <a data-l10n-name="uploaded-message-url">{ $url }</a>
