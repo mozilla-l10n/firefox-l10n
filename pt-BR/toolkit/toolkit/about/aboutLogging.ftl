@@ -83,3 +83,9 @@ about-logging-saved = Salvo em { $path }
 #   $url (string) - The URL where the profile can be found
 about-logging-uploaded = Enviado para <a data-l10n-name="uploaded-message-url">{ $url }</a>
 about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Compartilhar URL
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-upload-error = Aconteceu um erro ao enviar o profile: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-save-error = Aconteceu um erro ao salvar o arquivo: { $errorText }
