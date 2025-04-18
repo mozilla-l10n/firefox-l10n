@@ -350,6 +350,7 @@ quickactions-bookmarks2 = Administri legosignojn
 quickactions-cmd-bookmarks = legosignojn
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Viŝi ĵusan historio
+quickactions-cmd-clearrecenthistory = viŝi ĵusan historion, historio
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Viŝi historion
 quickactions-cmd-clearhistory = viŝi historion
@@ -359,8 +360,18 @@ quickactions-cmd-downloads = elŝutojn
 # Opens about:addons page in the extensions section
 quickactions-extensions = Administri etendaĵojn
 quickactions-cmd-extensions = etendaĵoj
+# Opens Firefox View
+quickactions-firefoxview = Malfermi { -firefoxview-brand-name }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = malfermi { -firefoxview-brand-name }, { -firefoxview-brand-name }, malfermi vidon, vidi
+# Opens SUMO home page
+quickactions-help = Helpo de { -brand-product-name }
+quickactions-cmd-help = helpo, subteno
 # Opens the devtools web inspector
 quickactions-inspector2 = Malfermi la ilojn por programistoj
+quickactions-cmd-inspector2 = inspektilo, iloj por programistoj
 quickactions-cmd-inspector = inspektilo, iloj por programistoj
 # Opens about:logins
 quickactions-logins2 = Administri pasvortojn
@@ -385,6 +396,7 @@ quickactions-restart = Restartigi { -brand-short-name }
 quickactions-cmd-restart = restartigi
 # Opens the screenshot tool
 quickactions-screenshot3 = Fari ekrankopion
+quickactions-cmd-screenshot2 = ekrankopio, fari ekrankopion
 quickactions-cmd-screenshot = ekrankopio
 # Opens about:preferences
 quickactions-settings2 = Administri agordojn
@@ -397,6 +409,7 @@ quickactions-update = Ĝisdatigi { -brand-short-name }
 quickactions-cmd-update = ĝisdatigi
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Vidi fonton de paĝo
+quickactions-cmd-viewsource2 = Vidi fonton, fonto, fonto de paĝo
 quickactions-cmd-viewsource = vidi fonton, fonton
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -707,6 +720,11 @@ urlbar-result-action-undefined-calculator-result = nedifinita
 #  $result (String): the string representation for a result in scientific notation
 #  (e.g. "1.0e17").
 urlbar-result-action-calculator-result-scientific-notation = = { $result }
+# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
+# The last = sign will be shown as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "false", maximumFractionDigits: 8) }
 
 ## Strings used for buttons in the urlbar
 
