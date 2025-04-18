@@ -70,11 +70,22 @@ contextual-manager-passwords-import-success-button = Farita
 contextual-manager-passwords-import-error-heading-and-message =
     .heading = Ne eblis enporti pasvortojn
     .message = Certiĝu havi dosieron kiu inkluzivas kolumnojn por retejoj, por nomoj de uzanto kaj por pasvortoj.
+contextual-manager-passwords-import-error-button-try-again = Klopodi denove
 contextual-manager-passwords-import-error-button-cancel = Nuligi
+contextual-manager-passwords-import-learn-more = Pli da informo pri enporto de pasvortoj
+contextual-manager-passwords-export-success-heading =
+    .heading = Pasvortoj elportitaj
 contextual-manager-passwords-export-success-button = Farita
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = Ĉu elporti pasvortojn al dosiero?
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = Post la elporto, ni rekomendas forigi la dosieron, tiel ke aliaj uzantoj de tiu ĉi aparato ne povos vidi viajn pasvortojn.
 contextual-manager-export-passwords-dialog-confirm-button = Daŭrigi la elporton
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Elporti pasvortojn el { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = pasvortoj
 contextual-manager-passwords-export-file-picker-export-button = Elporti
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -82,6 +93,13 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] Dosiero CSV
        *[other] Dosiero CSV
+    }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] Ĉu forigi pasvorton?
+       *[other] Remove all { $total } passwords?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
@@ -98,6 +116,20 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Forigi
        *[other] Forigi ĉiujn
     }
+contextual-manager-passwords-origin-label = Retejo
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Nomo de uzanto
+    .data-after = Kopiita
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Pasvorto
+    .data-after = Kopiita
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Filtri pasvortojn
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = Pasvorto aldonita por { $url }
+contextual-manager-passwords-add-password-success-button = Vidi
 contextual-manager-passwords-update-password-success-button = Farita
 contextual-manager-passwords-delete-password-success-button = Farita
 # This message is displayed to make sure that a user wants to delete an existing login.
