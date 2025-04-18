@@ -533,3 +533,23 @@ newtab-custom-wallpaper-cta = Kokeile
 
 ## Strings for reporting ads and content
 
+newtab-report-content-why-reporting-this =
+    .label = Miksi ilmoitat tästä?
+newtab-report-ads-reason-not-interested =
+    .label = En ole kiinnostunut
+newtab-report-ads-reason-inappropriate =
+    .label = Se on sopimatonta
+newtab-report-ads-reason-seen-it-too-many-times =
+    .label = Olen nähnyt sen liian monta kertaa
+newtab-report-content-wrong-category =
+    .label = Väärä luokka
+newtab-report-content-outdated =
+    .label = Vanhentunut
+newtab-report-content-inappropriate-offensive =
+    .label = Sopimaton tai loukkaava
+newtab-report-content-spam-misleading =
+    .label = Roskapostia tai harhaanjohtavaa
+newtab-report-cancel = Peruuta
+newtab-report-submit = Lähetä
+newtab-toast-thanks-for-feedback =
+    .message = Kiitos palautteestasi.

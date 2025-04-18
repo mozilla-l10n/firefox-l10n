@@ -130,6 +130,8 @@ policy-SearchSuggestEnabled = Ota käyttöön tai poista käytöstä hakuehdotuk
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Lisää tai poista PKCS #11 -moduuleja.
 policy-ShowHomeButton = Näytä kotipainike työkalupalkissa.
+# ”You represent that...” means ”You confirm/declare that...”
+policy-SkipTermsOfUse2 = Älä näytä käyttöehtoja ja tietosuojakäytöntöä käynnistyksen yhteydessä. Vakuutat, että hyväksyt käyttöehdot ja sinulla on valtuudet hyväksyä käyttöehdot kaikkien niiden henkilöiden puolesta, joille annat pääsyn tähän selaimeen.
 policy-SSLVersionMax = Aseta SSL:n enimmäisversio.
 policy-SSLVersionMin = Aseta SSL:n vähimmäisversio.
 policy-StartDownloadsInTempDirectory = Pakota lataukset alkamaan paikallisesta väliaikaisesta sijainnista oletusarvoisen latauskansion sijaan.

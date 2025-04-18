@@ -129,6 +129,8 @@ contextual-manager-passwords-delete-password-success-button = Valmis
 contextual-manager-passwords-radiobutton-all = Kaikki ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Poistetaanko salasana?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = Tätä ei voi kumota.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = Takaisin
 # This message confirms that the user wants to remove an existing login.
@@ -140,6 +142,9 @@ contextual-manager-passwords-alert-back-button =
 contextual-manager-passwords-breached-origin-link-message = Miten { -brand-product-name } on tietoinen tietovuodoista?
 contextual-manager-passwords-change-password-button = Vaihda salasana
 contextual-manager-passwords-vulnerable-password-link-message = Miten { -brand-product-name } on tietoinen heikoista salasanoista?
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Lisää käyttäjätunnus
+    .message = Lisää käyttäjätunnus kirjautuaksesi nopeammin.
 contextual-manager-passwords-add-username-button = Lisää käyttäjätunnus
 
 ## Login Form
@@ -150,6 +155,7 @@ contextual-manager-passwords-edit-label =
     .label = Muokkaa salasanaa
 contextual-manager-passwords-remove-label =
     .title = Poista salasana
+contextual-manager-passwords-origin-tooltip = Anna tarkka osoite, jossa kirjaudut tälle sivustolle.
 
 ## Password Card
 
@@ -168,6 +174,10 @@ contextual-manager-alert-icon =
 contextual-manager-password-login-line =
     .aria-label = Kopioi salasana
     .title = Kopioi salasana
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = Kopioi salasana (varoitus)
+    .title = Kopioi salasana (varoitus)
 contextual-manager-edit-login-button = Muokkaa
     .tooltiptext = Muokkaa salasanaa
 contextual-manager-show-password-button =
@@ -189,5 +199,8 @@ contextual-manager-passwords-add-manually = Lisää manuaalisesti
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = Suljetaanko tallentamatta?
+    .message = Muutoksia ei tallenneta.
 contextual-manager-passwords-discard-changes-close-button = Sulje
 contextual-manager-passwords-discard-changes-go-back-button = Takaisin

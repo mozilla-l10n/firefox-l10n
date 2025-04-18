@@ -38,6 +38,8 @@ remove-search-engine-button = OK
 ## Variables
 ## $newEngine (String) - the name of the new default search engine.
 
+reset-search-settings-message = Teknisen ongelman vuoksi oletushakukoneeksi on vaihdettu { $newEngine }. Voit muuttaa oletushakukonetta siirtymällä asetuksiin.
+reset-search-settings-button = OK
 
 ## Infobar shown when user is prompted to install search engine.
 ## Variables

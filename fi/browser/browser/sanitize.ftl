@@ -59,6 +59,7 @@ history-section-label = Historiatiedot
 item-history-and-downloads =
     .label = Sivu- ja lataushistoria
     .accesskey = S
+item-history-and-downloads-description2 = Tyhjentää sivusto- ja lataushistorian
 item-history-and-downloads-description = Tyhjentää haku-, sivusto- ja lataushistorian
 item-history-form-data-downloads =
     .label = Historia

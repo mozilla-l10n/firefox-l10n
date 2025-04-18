@@ -31,6 +31,15 @@ sidebar-history-sort-by-site =
     .label = Järjestä sivuston mukaan
 sidebar-history-clear =
     .label = Tyhjennä historia
+sidebar-history-sort-by-heading = Järjestys:
+sidebar-history-sort-option-date =
+    .label = Päiväys
+sidebar-history-sort-option-site =
+    .label = Sivusto
+sidebar-history-sort-option-date-and-site =
+    .label = Päiväys ja sivusto
+sidebar-history-sort-option-last-visited =
+    .label = Viimeksi vierailtu
 
 ## Labels for sidebar search
 
