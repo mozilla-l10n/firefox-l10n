@@ -6,13 +6,21 @@ contextual-manager-filter-input =
     .placeholder = Serĉi pasvortojn
     .key = F
     .aria-label = Serĉi pasvortojn
+contextual-manager-menu-more-options-button =
+    .title = Pli da ebloj
+contextual-manager-more-options-popup =
+    .aria-label = Pli da ebloj
 
 ## Passwords
 
 contextual-manager-passwords-command-create = Aldoni pasvorton
 contextual-manager-passwords-command-import-from-browser = Enporti el alia retumilo…
 contextual-manager-passwords-command-import = Enporti el dosiero …
+contextual-manager-passwords-command-export = Elporti pasvortojn…
+contextual-manager-passwords-command-remove-all = Forviŝi ĉiujn pasvortojn
+contextual-manager-passwords-command-settings = Agordoj
 contextual-manager-passwords-command-help = Helpo
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Por elporti viajn pasvortojn vi devas tajpi viajn legitimilojn de Windows . Tio ĉi helpas vin protekti la sekurecon de viaj kontoj.
 # This message can be seen when attempting to export a password in about:logins
@@ -35,6 +43,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Por kopi
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = kopii la konservitan pasvorton
+contextual-manager-passwords-import-file-picker-title = Enporti pasvortojn…
 contextual-manager-passwords-import-file-picker-import-button = Enporti
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -50,6 +59,13 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] Dokumento TSV
        *[other] Dosiero TSV
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = Pasvortoj enportitaj
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = Novaj: { $added }, ĝisdatigitaj: { $modified }
+contextual-manager-passwords-import-detailed-report = Montri detalan raporton
 contextual-manager-passwords-import-success-button = Farita
 contextual-manager-passwords-import-error-button-cancel = Nuligi
 contextual-manager-passwords-export-success-button = Farita

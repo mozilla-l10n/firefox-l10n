@@ -31,3 +31,6 @@ pending-crash-reports-send =
     .label = Sendi
 pending-crash-reports-always-send =
     .label = Ĉiam sendi
+requested-crash-reports-dont-show-again =
+    .label = Ne montri denove
+    .accesskey = N
