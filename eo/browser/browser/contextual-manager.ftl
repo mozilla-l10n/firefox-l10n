@@ -130,10 +130,34 @@ contextual-manager-passwords-radiogroup-label =
 contextual-manager-passwords-add-password-success-heading =
     .heading = Pasvorto aldonita por { $url }
 contextual-manager-passwords-add-password-success-button = Vidi
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = Jam ekzistas pasvorto kaj nomo de uzanto por { $url }
+contextual-manager-passwords-password-already-exists-error-button = Iri al pasvorto
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Pasvorto konservita
 contextual-manager-passwords-update-password-success-button = Farita
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] Pasvorto forigita
+           *[other] Passwords removed
+        }
 contextual-manager-passwords-delete-password-success-button = Farita
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = Ĉiuj ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = Avertoj ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Ĉu forigi pasvorton?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = Vi ne povas malfari tion ĉi.
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Forigi
 # This message gives the user the option to cancel their attempt to remove a login.
