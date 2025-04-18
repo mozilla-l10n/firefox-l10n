@@ -22,6 +22,11 @@ experimental-features-group-customize-browsing =
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Pasahitzak alboko barran
+experimental-features-contextual-password-manager-description = Izan zure pasahitzetarako sarbidea alboko barratik zuzenean. Saioa hastear zaudela, ez duzu pasahitzik bilatu edo berrezarri beharko. Eginbide hau erabiltzeko, hautatu pasahitzak alboko barran. Gero zoaz ezarpen nagusietara eta nabigatzailearen diseinuan, hautatu 'erakutsi alboko barra'. Ondoren, pertsonalizatu zure alboko barra pasahitzak hautatuz. Probatuz gero, <a data-l10n-name="connect">eman iezaguzu zure iritzia</a>.
+# New Tab Custom Wallpapers
+experimental-features-custom-wallpaper =
+    .label = Aukeratu fitxa berrirako horma-paper edo kolore pertsonalizatua
+experimental-features-custom-wallpaper-description = Igo zure horma-papera edo aukeratu kolore pertsonalizatua zure fitxa berriko atzeko planorako.
 # Link Previews with AI
 experimental-features-link-previews =
     .label = Loturen aurrebista
