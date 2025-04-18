@@ -158,10 +158,19 @@ contextual-manager-passwords-radiobutton-alerts = Avertoj ({ $total })
 contextual-manager-passwords-remove-login-card-title = Ĉu forigi pasvorton?
 # This message warns the user that deleting a login is permanent.
 contextual-manager-passwords-remove-login-card-message = Vi ne povas malfari tion ĉi.
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Malantaŭen
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Forigi
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Nuligi
+contextual-manager-passwords-alert-card =
+    .aria-label = Avertoj pri pasvortoj
+contextual-manager-passwords-alert-back-button =
+    .label = Malantaŭen
+contextual-manager-passwords-alert-list =
+    .aria-label = Listo de avertoj
+contextual-manager-passwords-change-password-button = Ŝanĝi pasvorton
 
 ## Login Form
 
