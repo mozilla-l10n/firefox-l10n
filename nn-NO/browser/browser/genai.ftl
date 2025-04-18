@@ -95,6 +95,8 @@ genai-onboarding-header = Samanfatt, ha ein idédugnad, og meir medan du surfar
 genai-onboarding-choose-header = Vel ein KI-samtalerobot å bruke i { -brand-short-name }-sidestolpen
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = Vel ein AI-samtalerobot du vil bruke i sidestopen { -brand-short-name }. Vi viser detaljar om kvar samtalerobot når du vel han. Byt når som helst. <a data-l10n-name="learn-more">Les meir</a>
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-choose-description = Byt når som helst. For å finne ut kva du skal velje, <a data-l10n-name="learn-more">les meir om kvar samtalerobot</a>.
 genai-onboarding-primary = Hald fram
 genai-onboarding-secondary = Lat att
 genai-onboarding-claude-tooltip =
