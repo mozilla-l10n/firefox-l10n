@@ -130,6 +130,8 @@ policy-SearchSuggestEnabled = Gaitu edo desgaitu bilaketa-iradokizunak.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Gehitu edo ezabatu PKCS #11 moduluak.
 policy-ShowHomeButton = Erakutsi hasiera-orriko botoia tresna-barran.
+# ”You represent that...” means ”You confirm/declare that...”
+policy-SkipTermsOfUse2 = Ez bistaratu erabiltzeko baldintzak eta pribatutasun-oharra abioan. Adierazten duzu nabigatzaile honetarako sarbidea ematen diezun norbanakoen izenean erabiltzeko baldintzak onartzeko autoritatea duzula eta hauek onartzen dituzula.
 policy-SSLVersionMax = Ezarri SSL bertsio maximoa.
 policy-SSLVersionMin = Ezarri SSL bertsio minimoa.
 policy-StartDownloadsInTempDirectory = Behartu deskargak aldi baterako kokaleku lokalean hastea deskarga-direktorio lehenetsiaren ordez.

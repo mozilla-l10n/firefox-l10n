@@ -17,6 +17,7 @@ crashreporter-loading-details = Kargatzen…
 crashreporter-view-report-title = Txostenaren edukia
 crashreporter-comment-prompt = Gehitu iruzkina (iruzkinak publikoki ikus daitezke)
 crashreporter-report-info = Aplikazioak huts egin zueneko egoerari buruzko informazio teknikoa ere badu txosten honek.
+crashreporter-checkbox-test-hardware = Egiaztatu hardware- eta konfigurazio-arazoak nire gailuan.
 crashreporter-checkbox-send-report = Eman { -vendor-short-name }(r)i hutsegite honen berri konpontzen saia daitezen.
 crashreporter-checkbox-include-url = Sartu bisitatzen ari nintzen orriaren helbidea.
 crashreporter-send-report = Eman { -vendor-short-name }(r)i hutsegite honen berri konpontzen saia daitezen.
