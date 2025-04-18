@@ -36,3 +36,8 @@ experimental-features-custom-wallpaper-description = Kendi duvar kâğıdınız�
 # Link Previews with AI
 experimental-features-link-previews =
     .label = Bağlantı önizlemeleri
+experimental-features-link-previews-description =
+    { PLATFORM() ->
+        [macos] Bir web sayfasına tıklamadan önce sayfayla ilgili bilgi almak için bağlantının üzerine gelip Shift (⇧) ve Option (⌥) veya Alt tuşlarına basın. Ön izlemeler, başlık ve okuma süresi gibi ayrıntıları içerebilir. Bazı sayfalarda yapay zekâ sayfa metnini okuyup önemli noktaları özetleyebilir. Yapay zekâ, İngilizce metinler için optimize edilmiştir. Gizliliğinize öncelik veren bu yapay zekâ, bilgisayarınızda yerel olarak çalışır. <a data-l10n-name="connect">Görüşlerinizi paylaşın</a>
+       *[other] Bir web sayfasına tıklamadan önce sayfayla ilgili bilgi almak için bağlantının üzerine gelip Shift + Alt tuşlarına basın. Ön izlemeler, başlık ve okuma süresi gibi ayrıntıları içerebilir. Bazı sayfalarda yapay zekâ sayfa metnini okuyup önemli noktaları özetleyebilir. Yapay zekâ, İngilizce metinler için optimize edilmiştir. Gizliliğinize öncelik veren bu yapay zekâ, bilgisayarınızda yerel olarak çalışır. <a data-l10n-name="connect">Görüşlerinizi paylaşın</a>
+    }

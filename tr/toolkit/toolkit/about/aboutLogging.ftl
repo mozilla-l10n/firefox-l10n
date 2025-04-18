@@ -68,8 +68,30 @@ about-logging-unknown-profiler-preset = Bilinmeyen profiler ön ayarı “{ $v }
 about-logging-unknown-option = Bilinmeyen about:logging seçeneği “{ $k }“
 about-logging-configuration-url-ignored = Yapılandırma URL’si yok sayıldı
 about-logging-file-and-profiler-override = Aynı anda dosya çıktısı zorlanamaz ve profiler seçenekleri geçersiz kılınamaz
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-unknown-error = Bir hata oluştu: { $errorText }
 about-logging-configured-via-url = Seçenek URL aracılığıyla yapılandırıldı
 
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
+about-logging-upload-question = Profil verileri toplandı. Kaydetmek mi yoksa karşıya yüklemek mi istiyorsunuz?
+about-logging-save-button = Kaydet
+about-logging-upload-button = Karşıya yükle
+# Variables:
+#   $path (string) - The path where the profile can be found.
+about-logging-saved = { $path } yoluna kaydedildi
+# Variables:
+#   $percent (number) - The upload completion progress, to be displayed as a percentage. This is a value between 0 and 1.
+about-logging-uploading-progress = Profil verileri karşıya yükleniyor: { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+# Variables:
+#   $url (string) - The URL where the profile can be found
+about-logging-uploaded = <a data-l10n-name="uploaded-message-url">{ $url }</a> adresine yüklendi
+about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Adresi paylaş
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-upload-error = Profil karşıya yüklenirken bir hata oluştu: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-save-error = Dosya kaydedilirken bir hata oluştu: { $errorText }
