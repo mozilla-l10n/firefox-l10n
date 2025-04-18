@@ -477,7 +477,7 @@ browsing-cfr-recommendations =
     .label = Դիտարկելիս առաջարկել ընդլայնումներ
     .accesskey = R
 browsing-cfr-features =
-    .label = Զննարկելիս առաջարկել յուրահատկություններ
+    .label = Դիտարկելիս առաջարկել յուրահատկություններ
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Իմանալ ավելին
 
