@@ -529,6 +529,12 @@ newtab-custom-wallpaper-cta = Deneyin
 
 ## Strings for reporting ads and content
 
+newtab-report-content-why-reporting-this =
+    .label = Bunu neden rapor ediyorsunuz?
+newtab-report-ads-reason-not-interested =
+    .label = İlgimi çekmiyor
+newtab-report-ads-reason-inappropriate =
+    .label = Uygunsuz içerik
 newtab-report-submit = Gönder
 newtab-toast-thanks-for-feedback =
     .message = Görüşleriniz için teşekkür ederiz.

@@ -280,6 +280,9 @@ contextual-manager-passwords-no-passwords-found-message = Parola bulunamadı. Fa
 
 # This string encourages the user to save their passwords in Firefox (the "safe spot").
 contextual-manager-passwords-no-passwords-header = Parolalarınızı güvenli bir yere kaydedin.
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = Tüm parolalar şifrelenerek saklanır. Ayrıca, parolalarınızın bir ihlalden etkilendiğini tespit edersek size haber veririz.
 # This string encourages the user to save their passwords to Firefox again.
 contextual-manager-passwords-no-passwords-get-started-message = Başlamak için parolalarınızı buraya ekleyin.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
