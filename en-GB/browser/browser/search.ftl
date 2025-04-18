@@ -38,6 +38,8 @@ remove-search-engine-button = OK
 ## Variables
 ## $newEngine (String) - the name of the new default search engine.
 
+reset-search-settings-message = Due to a technical issue, your default search engine has been changed back to { $newEngine }. To change the default search engine, go to settings.
+reset-search-settings-button = OK
 
 ## Infobar shown when user is prompted to install search engine.
 ## Variables
