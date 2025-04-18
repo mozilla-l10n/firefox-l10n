@@ -210,6 +210,9 @@ urlbar-result-menu-dont-show-weather-suggestions =
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Dankon pro via opinio
+# A message shown in the urlbar when the user dismisses weather suggestions.
+# Weather suggestions won't be shown at all anymore.
+urlbar-dismissal-acknowledgment-weather = Dankon pro viaj komentoj. Vi ne plu vidos sugestojn pri veterprognozo.
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -345,6 +348,8 @@ quickactions-cmd-addons2 = aldonaĵoj
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Administri legosignojn
 quickactions-cmd-bookmarks = legosignojn
+# Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Viŝi ĵusan historio
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Viŝi historion
 quickactions-cmd-clearhistory = viŝi historion
