@@ -532,3 +532,23 @@ newtab-custom-wallpaper-cta = Thử ngay
 
 ## Strings for reporting ads and content
 
+newtab-report-content-why-reporting-this =
+    .label = Tại sao bạn báo cáo điều này?
+newtab-report-ads-reason-not-interested =
+    .label = Tôi không quan tâm
+newtab-report-ads-reason-inappropriate =
+    .label = Không phù hợp
+newtab-report-ads-reason-seen-it-too-many-times =
+    .label = Tôi đã nhìn thấy nó quá nhiều lần
+newtab-report-content-wrong-category =
+    .label = Sai danh mục
+newtab-report-content-outdated =
+    .label = Đã lỗi thời
+newtab-report-content-inappropriate-offensive =
+    .label = Không phù hợp hoặc xúc phạm
+newtab-report-content-spam-misleading =
+    .label = Spam hoặc gây hiểu lầm
+newtab-report-cancel = Hủy bỏ
+newtab-report-submit = Gửi
+newtab-toast-thanks-for-feedback =
+    .message = Cảm ơn phản hồi của bạn.

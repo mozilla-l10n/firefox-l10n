@@ -38,6 +38,8 @@ remove-search-engine-button = OK
 ## Variables
 ## $newEngine (String) - the name of the new default search engine.
 
+reset-search-settings-message = Do sự cố kỹ thuật, công cụ tìm kiếm mặc định của bạn đã được đổi lại thành { $newEngine }. Để thay đổi công cụ tìm kiếm mặc định, hãy vào cài đặt.
+reset-search-settings-button = OK
 
 ## Infobar shown when user is prompted to install search engine.
 ## Variables

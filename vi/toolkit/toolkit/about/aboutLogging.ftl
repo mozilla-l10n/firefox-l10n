@@ -18,7 +18,7 @@ about-logging-stop-logging = Dừng ghi
 about-logging-buttons-disabled = Ghi nhật ký được định cấu hình thông qua các biến môi trường, cấu hình động không khả dụng.
 about-logging-some-elements-disabled = Ghi nhật ký được định cấu hình qua URL, một số tùy chọn cấu hình hiện không khả dụng
 about-logging-info = Thông tin:
-about-logging-log-modules-selection = Lựa chọn nhật ký module
+about-logging-log-modules-selection = Lựa chọn module nhật ký
 about-logging-new-log-modules = Module nhật ký mới:
 about-logging-logging-output-selection = Nơi xuất ghi nhật ký
 about-logging-logging-to-file = Ghi vào một tập tin
@@ -66,8 +66,30 @@ about-logging-unknown-profiler-preset = Giá trị đặt trước của profile
 about-logging-unknown-option = Tùy chọn about:logging không xác định “{ $k }“
 about-logging-configuration-url-ignored = URL cấu hình bị bỏ qua
 about-logging-file-and-profiler-override = Không thể buộc nơi xuất tập tin và ghi đè các tùy chọn profiler cùng một lúc
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-unknown-error = Đã xảy ra lỗi: { $errorText }
 about-logging-configured-via-url = Tùy chọn được định cấu hình qua URL
 
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
+about-logging-upload-question = Dữ liệu hồ sơ đã được ghi lại. Bạn muốn lưu hay tải lên?
+about-logging-save-button = Lưu
+about-logging-upload-button = Tải lên
+# Variables:
+#   $path (string) - The path where the profile can be found.
+about-logging-saved = Đã lưu vào { $path }
+# Variables:
+#   $percent (number) - The upload completion progress, to be displayed as a percentage. This is a value between 0 and 1.
+about-logging-uploading-progress = Đang tải lên dữ liệu hồ sơ: { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+# Variables:
+#   $url (string) - The URL where the profile can be found
+about-logging-uploaded = Đã tải lên tại <a data-l10n-name="uploaded-message-url">{ $url }</a>
+about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Chia sẻ liên kết
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-upload-error = Đã xảy ra lỗi khi tải lên hồ sơ: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-save-error = Đã xảy ra lỗi khi lưu tập tin: { $errorText }

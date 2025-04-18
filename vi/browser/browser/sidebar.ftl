@@ -31,6 +31,15 @@ sidebar-history-sort-by-site =
     .label = Sắp xếp theo trang web
 sidebar-history-clear =
     .label = Xóa lịch sử
+sidebar-history-sort-by-heading = Sắp xếp theo:
+sidebar-history-sort-option-date =
+    .label = Ngày
+sidebar-history-sort-option-site =
+    .label = Trang
+sidebar-history-sort-option-date-and-site =
+    .label = Ngày và trang
+sidebar-history-sort-option-last-visited =
+    .label = Lần truy cập cuối
 
 ## Labels for sidebar search
 
