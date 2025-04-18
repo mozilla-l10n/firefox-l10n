@@ -309,6 +309,16 @@ discopane-intro2 =
     hơn thế nữa. Những chương trình phần mềm nhỏ này thường được phát triển bởi bên thứ ba. Đây là
     lựa chọn <a data-l10n-name="learn-more-trigger">được đề xuất</a> của { -brand-product-name }
     để có được tính bảo mật, hiệu suất và chức năng đặc biệt.
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 =
+    Tiện ích mở rộng và chủ đề cho phép bạn tùy chỉnh { -brand-product-name }. Nó có thể tăng cường
+    quyền riêng tư, nâng cao năng suất, cải thiện phương tiện, thay đổi giao diện { -brand-product-name }, và
+    hơn thế nữa. Những chương trình phần mềm nhỏ này thường được phát triển bởi bên thứ ba. Đây là
+    lựa chọn <a data-l10n-name="learn-more-trigger">được đề xuất</a> của Firefox
+    để có được tính bảo mật, hiệu suất và chức năng đặc biệt.
 
 ## Add-on actions
 
@@ -443,8 +453,22 @@ addon-badge-recommended3 =
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Tiện ích mở rộng chính thức do Mozilla xây dựng. Đáp ứng các tiêu chuẩn về bảo mật và hiệu suất.
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are performing the
+# security or performance reviews. As such, we avoid personalising language
+# like the words "our" or "we".
+addon-badge-verified4 =
+    .title = Tiện ích mở rộng này đã được xem xét để đáp ứng các tiêu chuẩn về bảo mật và hiệu suất
 addon-badge-verified3 =
     .title = Tiện ích mở rộng này đã được xem xét để đáp ứng các tiêu chuẩn của chúng tôi về bảo mật và hiệu suất
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are making the
+# recommendation. As such, we hard code "Firefox" and avoid personalising
+# language like the words "our" or "we".
+addon-badge-recommended4 =
+    .title = Firefox chỉ đề xuất các tiện ích mở rộng đáp ứng các tiêu chuẩn về bảo mật và hiệu suất
 
 ##
 
