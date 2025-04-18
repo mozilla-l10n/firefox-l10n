@@ -185,6 +185,9 @@ contextual-manager-passwords-edit-label =
     .label = Rediger passord
 contextual-manager-passwords-remove-label =
     .title = Fjern passord
+contextual-manager-passwords-origin-tooltip = Skriv inn den nøyaktige adressa du brukar for å logge inn på denne nettstaden.
+contextual-manager-passwords-username-tooltip = Skriv inn brukarnamnet, e-postadressa eller kontonummeret du brukar for å logge på.
+contextual-manager-passwords-password-tooltip = Skriv inn passordet du brukar for å logge inn på denne kontoen.
 
 ## Password Card
 
@@ -244,6 +247,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Fann ingen passord
+contextual-manager-passwords-no-passwords-found-message = Fann ingen passord. Søk etter ein annan term og prøv på nytt.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
