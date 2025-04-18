@@ -78,6 +78,8 @@ contextual-manager-passwords-export-success-heading =
 contextual-manager-passwords-export-success-button = Ferdig
 # Export passwords to file dialog
 contextual-manager-export-passwords-dialog-title = Eksportere passord til fil?
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = Vi tilrår at du slettar fila etter å ha eksportert passorda. På den måten kan ikkje andre brukarar av eininga sjå passorda dine.
 contextual-manager-export-passwords-dialog-confirm-button = Hald fram med eksport
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Eksporter passord frå { -brand-short-name }
