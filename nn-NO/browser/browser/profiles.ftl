@@ -7,6 +7,8 @@ profile-window-body = Hald jobben og den personlege surfinga di, inkludert ting 
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Vel ein profil, når { -brand-short-name } startar
+# This subcopy appears below the checkbox when it is unchecked
+profile-window-checkbox-subcopy = { -brand-short-name } vil opne med profilen du nytta sist.
 profile-window-create-profile = Opprett ein profil
 profile-card-edit-button =
     .title = Rediger profil
