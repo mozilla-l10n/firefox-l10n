@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-policies-title = Verksemdstrategi
+aboutpolicies-page-heading =
+    .heading = Om policyar
 # 'Active' is used to describe the policies that are currently active
 active-policies-tab = Aktiv
 errors-tab = Feil
