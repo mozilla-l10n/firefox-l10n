@@ -291,9 +291,21 @@ shopping-integrated-callout-no-logo-sidebar-closed-subtitle = 选择“侧栏”
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-move-right-button = 移到右侧
+shopping-integrated-new-position-notification-move-left-button = 移到左侧
 shopping-integrated-new-position-notification-dismiss-button = 知道了
 
 ## Combined setting for auto-open and auto-close.
 
 shopping-settings-auto-open-and-close-toggle =
     .label = 自动打开和关闭核查评价
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-and-close-description-three-sites = 在 { $firstSite }、{ $secondSite } 和 { $thirdSite } 中查看商品时打开，并在离开后关闭。
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-and-close-description-single-site = 在 { $currentSite } 中查看商品时打开，并在离开后关闭。

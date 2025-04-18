@@ -74,6 +74,7 @@ about-logging-configured-via-url = 通过 URL 配置的选项
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
+about-logging-upload-question = 分析记录数据已捕捉。您希望保存还是上传？
 about-logging-save-button = 保存
 about-logging-upload-button = 上传
 # Variables:

@@ -31,6 +31,11 @@ sidebar-history-sort-by-site =
     .label = 按网站排序
 sidebar-history-clear =
     .label = 清除历史记录
+sidebar-history-sort-by-heading = 排序依据：
+sidebar-history-sort-option-date-and-site =
+    .label = 日期和网站
+sidebar-history-sort-option-last-visited =
+    .label = 最近访问
 
 ## Labels for sidebar search
 

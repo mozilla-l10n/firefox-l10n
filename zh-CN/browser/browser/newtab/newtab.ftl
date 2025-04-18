@@ -522,10 +522,20 @@ newtab-section-mangage-topics-followed-topics-empty-state = 没有已关注的�
 newtab-section-mangage-topics-blocked-topics = 已屏蔽
 newtab-section-mangage-topics-blocked-topics-empty-state = 没有已屏蔽的主题
 newtab-custom-wallpaper-title = 在此处自定义壁纸
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle = 自行上传壁纸或选取自定义颜色，让 { -brand-product-name } 更有个性。
 newtab-custom-wallpaper-cta = 试试看
 
 ## Strings for reporting ads and content
 
+newtab-report-ads-reason-not-interested =
+    .label = 不感兴趣
+newtab-report-ads-reason-inappropriate =
+    .label = 内容不当
+newtab-report-ads-reason-seen-it-too-many-times =
+    .label = 推荐次数过多
+newtab-report-content-wrong-category =
+    .label = 分类错误
 newtab-report-cancel = 取消
 newtab-report-submit = 提交
 newtab-toast-thanks-for-feedback =
