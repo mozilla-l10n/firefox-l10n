@@ -405,6 +405,7 @@ quickactions-update = Oppdater { -brand-short-name }
 quickactions-cmd-update = oppdater
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Vis kjeldekode
+quickactions-cmd-viewsource2 = vis kjelde, kjelde, sidekjelde
 quickactions-cmd-viewsource = vis kjelde, kjelde
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
