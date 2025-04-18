@@ -15,6 +15,10 @@ support-addons-type = Tipo
 support-addons-enabled = Aktiva
 support-addons-version = Versio
 support-addons-id = ID
+# In the add-on world, locations are where the addon files are stored. Each
+# location has name. For instance: app-system-addons, app-builtin,
+# app-temporary, etc.
+support-addons-location-name = Loko
 legacy-user-stylesheets-title = Kadukaj stilfolioj de uzanto
 legacy-user-stylesheets-enabled = Aktiva
 legacy-user-stylesheets-stylesheet-types = Stilfolioj
