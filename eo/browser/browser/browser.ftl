@@ -187,6 +187,29 @@ urlbar-result-menu-remove-from-history =
 urlbar-result-menu-tip-get-help =
     .label = Helpo
     .accesskey = H
+urlbar-result-menu-dismiss-suggestion =
+    .label = Ignori tiun ĉi sugeston
+    .accesskey = I
+urlbar-result-menu-learn-more-about-firefox-suggest =
+    .label = Pli da informo pri { -firefox-suggest-brand-name }
+    .accesskey = P
+urlbar-result-menu-manage-firefox-suggest =
+    .label = Administri { -firefox-suggest-brand-name }
+    .accesskey = A
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative region (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location =
+    .label = Raporti neprecizan lokon
+urlbar-result-menu-show-less-frequently =
+    .label = Montri malpli ofte
+urlbar-result-menu-dont-show-weather-suggestions =
+    .label = Ne montri sugestojn pri veterprognozo
+# A message shown in the urlbar when the user submits feedback on a suggestion
+# (e.g., it shows an inaccurate location, it's shown too often, etc.).
+urlbar-feedback-acknowledgment = Dankon pro via opinio
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.

@@ -18,7 +18,13 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = Fermi ĉiujn duobligitajn langetojn
 all-tabs-menu-synced-tabs =
     .label = Langetoj el aliaj aparatoj
+# "Recent" refers to tab groups being sorted in recently used order. We show up
+# to five of these in this section.
+all-tabs-menu-recent-tab-groups-header = Ĵusaj grupoj de langetoj
 all-tabs-menu-current-window-header = Nuna fenestro
 # This opens the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-show-all =
     .label = Montri ĉiujn
+# This is header for the sub view listing _all_ open and saved tab groups.
+all-tabs-menu-tab-groups-sub-view =
+    .title = Grupoj de langetoj
