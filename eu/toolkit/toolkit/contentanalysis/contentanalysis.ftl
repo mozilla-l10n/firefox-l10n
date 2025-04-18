@@ -13,6 +13,15 @@ contentanalysis-slow-agent-dialog-header = Eskaneatzen ari da
 contentanalysis-slow-agent-dialog-body-file = "{ $filename }" zure erakundearen datu-politiken aurka berrikusten ari da { $agent }. Une bat har lezake honek.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
+#   $filename - Name of a file being analyzed, such as "aFile.txt"
+#   $count (number) - The number of additional items in the request for analysis
+contentanalysis-slow-agent-dialog-body-file-and-more =
+    { $count ->
+        [one] "{ $filename }" eta beste elementu bat zure erakundearen datu-politiken aurka berrikusten ari da { $agent }. Une bat har lezake honek.
+       *[other] "{ $filename }" eta beste ${ count } elementu zure erakundearen datu-politiken aurka berrikusten ari da { $agent }. Une bat har lezake honek.
+    }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = Itsatsi duzuna zure erakundearen datu-politiken aurka berrikusten ari da { $agent }. Une bat har lezake honek.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
@@ -58,6 +67,10 @@ contentanalysis-error-message-upload-file = "{ $filename }" igotzea ukatu da.
 contentanalysis-error-message-dropped-text = Arrastatu eta jaregitea ukatuta.
 contentanalysis-error-message-clipboard = Itsastea ukatuta.
 contentanalysis-error-message-print = Inprimatzea ukatuta.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
+contentanalysis-timeout-block-error-message-content = { $agent } agenterako konexioaren denbora-muga gainditu egin da. { $contentName } blokeatu egin da.
 contentanalysis-block-dialog-title-upload-file = Ez duzu fitxategi hau igotzeko baimenik
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"

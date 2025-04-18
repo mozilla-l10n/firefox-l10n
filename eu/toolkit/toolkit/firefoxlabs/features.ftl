@@ -15,8 +15,14 @@ experimental-features-js-warp-description = Gaitu Warp, JavaScript-en erredinemd
 experimental-features-ime-search =
     .label = Helbide-barra: erakutsi emaitzak IME konposizioan
 experimental-features-ime-search-description = Sinbolo konplexuak (Asia Ekialdeko edo Indiako hizkuntza idatzietakoak, adibidez) teklatu bidez idaztea baimentzen duen tresna da IME bat (Input Method Editor). Esperimentu hau gaitzean helbide-barra irekita mantenduko da, bilaketa-emaitzak eta iradokizunak erakutsiz IME erabili ahala testua idazteko. Konturatu IMEak helbide-barrako emaitzen gainetik bistara dezakeela panel bat, hortaz hobespen hau gomendatzen da soilik IMEak mota honetako panela erabiltzen ez duenean.
+# Auto Picture-in-Picture
+experimental-features-auto-pip =
+    .label = Bideoa beste leiho batean: ireki automatikoki fitxaz aldatzean
+experimental-features-auto-pip-description = Fitxaz aldatzean, gaitu bideoa beste leiho batean ikustea aktibo dauden bideoetan.
 experimental-features-group-developer-tools =
     .label = Garatzaile-tresnak
+experimental-features-group-webpage-display =
+    .label = Web orrien bistaratzea
 experimental-features-group-customize-browsing =
     .label = Pertsonalizatu zure nabigazioa
 # Contextual Password Manager in sidebar
@@ -30,3 +36,8 @@ experimental-features-custom-wallpaper-description = Igo zure horma-papera edo a
 # Link Previews with AI
 experimental-features-link-previews =
     .label = Loturen aurrebista
+experimental-features-link-previews-description =
+    { PLATFORM() ->
+        [macos] Klik egin aurretik web orri bati buruzko argibide gehiago izateko, pasa sagua loturaren gainetik eta sakatu Shift (⇧) gehi Aukera (⌥) edo Alt. Aurrebistak izenburua eta irakurketa-denbora bezalako xehetasunak izan ditzake. Zenbait orritarako, AAk orriaren testua irakurri eta ideia nagusiak laburbil ditzake. Ingelesezko testuak irakurri eta sortzeko optimizatuta dago AAa. Zure pribatutasuna lehenesteko, AAa zure ordenagailuan bertan exekutatzen da. <a data-l10n-name="connect">Partekatu iritzia</a>
+       *[other] Klik egin aurretik web orri bati buruzko argibide gehiago izateko, pasa sagua loturaren gainetik eta sakatu Shift + Alt. Aurrebistak izenburua eta irakurketa-denbora bezalako xehetasunak izan ditzake. Zenbait orritarako, AAk orriaren testua irakurri eta ideia nagusiak laburbil ditzake. Ingelesezko testuak irakurri eta sortzeko optimizatuta dago AAa. Zure pribatutasuna lehenesteko, AAa zure ordenagailuan bertan exekutatzen da. <a data-l10n-name="connect">Partekatu iritzia</a>
+    }

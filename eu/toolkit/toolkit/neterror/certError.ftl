@@ -21,6 +21,9 @@ cert-error-trust-symantec = GeoTrust, RapidSSL, Symantec, Thawte eta VeriSign-ek
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } ez da { $hostname } ostalariaz fidatzen ezin duelako frogatu ziurtagiri publikoen gardentasun-eskakizunak betetzen dituela.
+# Variables:
+#   $hostname (string) - Hostname of the website with cert error.
+cert-error-revoked = Webguneek ziurtagirien bidez frogatzen duten euren identitatea. { -brand-short-name } ez da { $hostname } ostalariaz fio baliogabetua izan den ziurtagiri bat darabilelako.
 cert-error-untrusted-default = Ziurtagiria ez dator jatorri fidagarri batetatik.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
