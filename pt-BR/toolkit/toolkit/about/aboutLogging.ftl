@@ -66,6 +66,9 @@ about-logging-unknown-profiler-preset = Ajuste prévio de profiler desconhecido 
 about-logging-unknown-option = Opção de about:logging desconhecida “{ $k }“
 about-logging-configuration-url-ignored = URL de configuração ignorada
 about-logging-file-and-profiler-override = Não é possível forçar saída em arquivo e substituir opções do profiler ao mesmo tempo
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-unknown-error = Aconteceu um erro: { $errorText }
 about-logging-configured-via-url = Opção configurada via URL
 
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
@@ -76,3 +79,7 @@ about-logging-upload-button = Enviar
 # Variables:
 #   $path (string) - The path where the profile can be found.
 about-logging-saved = Salvo em { $path }
+# Variables:
+#   $url (string) - The URL where the profile can be found
+about-logging-uploaded = Enviado para <a data-l10n-name="uploaded-message-url">{ $url }</a>
+about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Compartilhar URL
