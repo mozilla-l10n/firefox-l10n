@@ -130,6 +130,8 @@ policy-SearchSuggestEnabled = Aktivigi aŭ malaktivigi serĉajn sugestojn.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Aldoni aŭ forigi modulojn PKCS #11.
 policy-ShowHomeButton = Montri la butonon por eka paĝo en la ilaro.
+# ”You represent that...” means ”You confirm/declare that...”
+policy-SkipTermsOfUse2 = Je starto, ne montri la kondiĉojn de uzo kaj la rimarkon pri privateco. Vi deklaras akcepti la kondiĉojn de uzo kaj rajti akcepti ilin nome de ĉiuj, kiuj ricevos de mi aliron al tiu ĉi retumilo.
 policy-SSLVersionMax = Difini la minimuman version de SSL.
 policy-SSLVersionMin = Difini la maksimuman version de SSL.
 policy-StartDownloadsInTempDirectory = Devige komenci elŝutojn en loka, provizora loko anstataŭ la norma elŝuta dosierujo.
