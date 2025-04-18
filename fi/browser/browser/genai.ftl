@@ -109,8 +109,11 @@ genai-options-about-chatbot =
 ## Chatbot onboarding
 
 genai-onboarding-header = Tee yhteenveto, harjoita aivoriiheilyä ja muuta selaamisen aikana
+genai-onboarding-choose-header = Valitse { -brand-short-name }in sivupalkissa käytettävä AI-chatbotti
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = Valitse käytettävä AI-chatbotti { -brand-short-name }in sivupalkista. Näytämme kunkin chatbotin tiedot, kun valitset sen. Vaihda milloin tahansa. <a data-l10n-name="learn-more">Lisätietoja</a>
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-choose-description = Vaihda milloin tahansa. Jos tarvitset apua valinnassa, <a data-l10n-name="learn-more">lue lisää kustakin chatbotista</a>.
 genai-onboarding-primary = Jatka
 genai-onboarding-secondary = Sulje
 genai-onboarding-claude-tooltip =
