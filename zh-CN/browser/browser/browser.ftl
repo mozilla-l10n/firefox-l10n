@@ -818,7 +818,7 @@ urlbar-result-menu-trending-why =
     .accesskey = W
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
-urlbar-trending-dismissal-acknowledgment = 感谢反馈，您将不会再看到热门搜索。
+urlbar-trending-dismissal-acknowledgment = 感谢反馈，热门搜索将不再显示。
 
 ## Reader View toolbar buttons
 
