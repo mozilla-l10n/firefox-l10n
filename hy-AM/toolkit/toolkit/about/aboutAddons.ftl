@@ -254,11 +254,10 @@ header-back-button =
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
 discopane-intro =
-    Ընդլայնումները և հիմնապատկերները նման են ձեր դիտարկիչի գործադիրներին և դրանք ձեզ թույլատրում են
-    պաշտպանել գաղտնաբառերը, ներբեռնել տեսանյութեր, գտնել գործարքներ, արգելափակել նյարդայնացնող գովազդները, փոխել
-    ձեր զննարկչի տեսքը և ավելին։ Այս փոքր ծրագրային ծրագրերը 
-    հաճախ զարգացվել են երրորդ կողմի կողմից։ Ահա ընտրանք { -brand-product-name }
-    <a data-l10n-name="learn-more-trigger">խորհուրդ է տրվում</a> բացառիկ
+    Ընդլայնումները և ոճերը դա ձեր դիտարկիչի հավելվածներն են և դրանք ձեզ հնարավորություն են տալիս
+    պաշտպանել գաղտնաբառերը, ներբեռնել տեսանյութեր, գտնել գործարքներ, արգելափակել նյարդայնացնող գովազդները, փոխել ձեր դիտարկիչի տեսքը և ավելին։ Այս փոքր ծրագրաշարային ծրագրերը 
+    հաճախ զարգացվել են երրորդ կողմի կողմից։ Ահա դրանցից մի քանիսը, որոնք { -brand-product-name }
+    <a data-l10n-name="learn-more-trigger">խորհուրդ է տրվում</a>՝ բացառիկ
     անվտանգության, արդյունավետության և գործառություն համար։
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = Այս առաջարկներից մի քանիսը անհատականացված են։ Դրանք հիմնված են ուրիշների վրա ձեր սահմանած ընդարձակումների, հատկագրի կարգավորումների և օգտագործման վիճակագրությունից։
@@ -286,6 +285,20 @@ find-more-themes = Գտնել ավելի շատ ոճեր
 # used for screen readers.
 addon-options-button =
     .aria-label = Լրացուցիչ ընտրանքներ
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro2 =
+    Ընդլայնումները և ոճերը հնարավորություն են տալիս ձեզ հարմարեցնել { -brand-product-name }-ը: Դրանք կարող են խթանել անվտանգությունը, կատարելագործել արտադրողականությունը, լավարկել մեդիան, փոխել { -brand-product-name }-ի տեսքը և շատ ավելին: Այս փոքրիկ ծրագրաշարային ծրագրերը հաճախ ստեղծվել են երրորդ կողմից: Ահա դրանցից մի քանիսը, որոնք { -brand-product-name }
+    <a data-l10n-name="learn-more-trigger">խորհուրդ է տրվում</a>՝ բացառիկ
+    անվտանգության, արդյունավետության և գործառություն համար։
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 =
+    Ընդլայնումները և ոճերը հնարավորություն են տալիս ձեզ հարմարեցնել { -brand-product-name }-ը: Դրանք կարող են խթանել անվտանգությունը, կատարելագործել արտադրողականությունը, լավարկել մեդիան, փոխել { -brand-product-name }-ի տեսքը և շատ ավելին: Այս փոքրիկ ծրագրաշարային ծրագրերը հաճախ ստեղծվել են երրորդ կողմից: Ահա դրանցից մի քանիսը, որոնք { -brand-product-name }
+    <a data-l10n-name="learn-more-trigger">խորհուրդ է տրվում</a>՝ բացառիկ
+    անվտանգության, արդյունավետության և գործառություն համար։
 
 ## Add-on actions
 
