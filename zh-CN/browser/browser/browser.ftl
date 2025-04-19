@@ -212,7 +212,7 @@ urlbar-result-menu-dont-show-weather-suggestions =
 urlbar-feedback-acknowledgment = 感谢反馈
 # A message shown in the urlbar when the user dismisses weather suggestions.
 # Weather suggestions won't be shown at all anymore.
-urlbar-dismissal-acknowledgment-weather = 感谢反馈，将不再向您显示天气建议。
+urlbar-dismissal-acknowledgment-weather = 感谢反馈，天气建议将不再显示。
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.

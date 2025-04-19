@@ -123,6 +123,7 @@ contextual-manager-passwords-remove-login-card-remove-button = Odstrani
 contextual-manager-passwords-remove-login-card-cancel-button = Prekliči
 contextual-manager-passwords-alert-back-button =
     .label = Nazaj
+contextual-manager-passwords-change-password-button = Spremeni geslo
 contextual-manager-passwords-add-username-button = Dodaj uporabniško ime
 
 ## Login Form
