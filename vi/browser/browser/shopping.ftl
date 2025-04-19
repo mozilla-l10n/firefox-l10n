@@ -261,7 +261,7 @@ shopping-opt-in-integrated-headline = Mua sắm với sự tự tin
 #   $firstSite (String) - The first shopping page name
 #   $secondSite (String) - The second shopping page name
 #   $thirdSite (String) - The third shopping page name
-shopping-opt-in-integrated-subtitle = Bật trình kiểm tra đánh giá từ { -brand-product-name } để xem các đánh giá sản phẩm có đáng tin cậy không, trước khi bạn mua. Sử dụng công nghệ AI để phân tích các đánh giá và hoạt động khi bạn mua sắm trên { $firstSite }, { $secondSite }, và { $thirdSite }. <a data-l10n-name="learn_more">Tìm hiểu thêm</a>
+shopping-opt-in-integrated-subtitle = Bật trình kiểm tra đánh giá từ { -brand-product-name } để xem các đánh giá sản phẩm có đáng tin cậy không, trước khi bạn mua. Sử dụng công nghệ AI để phân tích các đánh giá, và nó hoạt động khi bạn mua sắm trên { $firstSite }, { $secondSite }, và { $thirdSite }. <a data-l10n-name="learn_more">Tìm hiểu thêm</a>
 # Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
 # Variables:
 #   $firstSite (String) - The first shopping page name
