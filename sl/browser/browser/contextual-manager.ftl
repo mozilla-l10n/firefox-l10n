@@ -61,10 +61,18 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = Gesla uvožena
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = Novih: { $added }, posodobljenih: { $modified }
 contextual-manager-passwords-import-detailed-report = Prikaži podrobno poročilo
 contextual-manager-passwords-import-success-button = Končano
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = Gesel ni bilo mogoče uvoziti
+    .message = Prepričajte se, da datoteka vsebuje stolpce za spletna mesta, uporabniška imena in gesla.
 contextual-manager-passwords-import-error-button-try-again = Poskusi znova
 contextual-manager-passwords-import-error-button-cancel = Prekliči
+contextual-manager-passwords-import-learn-more = Več o uvažanju gesel
 contextual-manager-passwords-export-success-heading =
     .heading = Gesla izvožena
 contextual-manager-passwords-export-success-button = Končano

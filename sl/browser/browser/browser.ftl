@@ -196,6 +196,23 @@ urlbar-result-menu-learn-more-about-firefox-suggest =
 urlbar-result-menu-manage-firefox-suggest =
     .label = Upravljaj { -firefox-suggest-brand-name }
     .accesskey = U
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative region (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location =
+    .label = Prijavi netočno lokacijo
+urlbar-result-menu-show-less-frequently =
+    .label = Prikazuj manj pogosto
+urlbar-result-menu-dont-show-weather-suggestions =
+    .label = Ne prikazuj podatkov o vremenu
+# A message shown in the urlbar when the user submits feedback on a suggestion
+# (e.g., it shows an inaccurate location, it's shown too often, etc.).
+urlbar-feedback-acknowledgment = Hvala za vaše mnenje
+# A message shown in the urlbar when the user dismisses weather suggestions.
+# Weather suggestions won't be shown at all anymore.
+urlbar-dismissal-acknowledgment-weather = Hvala za povratne informacije. Podatki o vremenu se ne bodo več prikazovali.
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -354,6 +371,7 @@ quickactions-help = Pomoč za { -brand-product-name(sklon: "tozilnik") }
 quickactions-cmd-help = pomoč, podpora
 # Opens the devtools web inspector
 quickactions-inspector2 = Odpri razvojna orodja
+quickactions-cmd-inspector2 = pregledovalnik, razvojna orodja, orodja za razvijalce, devtools
 quickactions-cmd-inspector = pregledovalnik, razvojna orodja
 # Opens about:logins
 quickactions-logins2 = Upravljaj gesla
@@ -378,6 +396,7 @@ quickactions-restart = Ponovno zaženi { -brand-short-name }
 quickactions-cmd-restart = ponovno zaženi, znova zaženi, zaženi znova
 # Opens the screenshot tool
 quickactions-screenshot3 = Zajemi posnetek zaslona
+quickactions-cmd-screenshot2 = posnetek zaslona, zaslonski posnetek, screenshot, zajemi
 quickactions-cmd-screenshot = posnetek zaslona
 # Opens about:preferences
 quickactions-settings2 = Upravljaj nastavitve
@@ -390,6 +409,7 @@ quickactions-update = Posodobi { -brand-short-name }
 quickactions-cmd-update = posodobi
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Pokaži izvorno kodo strani
+quickactions-cmd-viewsource2 = ogled izvorne kode, izvorna koda, vir
 quickactions-cmd-viewsource = pokaži vir, vir
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
