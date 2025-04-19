@@ -274,7 +274,7 @@ contextual-manager-passwords-no-passwords-found-message = 找不到密码，请�
 contextual-manager-passwords-no-passwords-header = 集中一处，安全保存密码
 # This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
 # passwords may be involved in.
-contextual-manager-passwords-no-passwords-message = 所有密码受加密保护。我们还会关注外泄事件动态，并在您的账户受影响时发出警报。
+contextual-manager-passwords-no-passwords-message = 所有密码都受加密保护。我们还会关注外泄事件动态，并在您的账户受影响时发出警报。
 # This string encourages the user to save their passwords to Firefox again.
 contextual-manager-passwords-no-passwords-get-started-message = 将密码添加到此处，即可开始使用。
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
