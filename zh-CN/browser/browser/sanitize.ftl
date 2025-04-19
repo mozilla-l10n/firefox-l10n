@@ -59,6 +59,7 @@ history-section-label = 历史记录
 item-history-and-downloads =
     .label = 浏览和下载历史
     .accesskey = B
+item-history-and-downloads-description2 = 清除网站和下载历史
 item-history-and-downloads-description = 清除搜索、浏览、下载记录
 item-history-form-data-downloads =
     .label = 历史记录
