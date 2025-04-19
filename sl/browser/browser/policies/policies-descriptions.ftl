@@ -130,6 +130,8 @@ policy-SearchSuggestEnabled = Omogoči ali onemogoči predloge iskanja.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Dodaj ali izbriši module PKCS #11.
 policy-ShowHomeButton = Prikaži gumb Domov v orodni vrstici.
+# ”You represent that...” means ”You confirm/declare that...”
+policy-SkipTermsOfUse2 = Ob zagonu ne prikaži pogojev uporabe in obvestila o zasebnosti. S tem sprejemate pogoje uporabe v svojem in v imenu vseh posameznikov, ki jim omogočite dostop do tega brskalnika.
 policy-SSLVersionMax = Nastavi najnovejšo dovoljeno različico SSL.
 policy-SSLVersionMin = Nastavi najstarejšo dovoljeno različico SSL.
 policy-StartDownloadsInTempDirectory = Vsili shranjevanje prenosov na lokalno začasno mesto namesto v privzeto mapo za prenose.

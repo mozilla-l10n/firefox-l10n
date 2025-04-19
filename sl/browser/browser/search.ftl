@@ -38,6 +38,7 @@ remove-search-engine-button = V redu
 ## Variables
 ## $newEngine (String) - the name of the new default search engine.
 
+reset-search-settings-message = Zaradi tehnične težave se je vaš privzeti iskalnik ponastavil na { $newEngine }. Če ga želite zamenjati, pojdite v nastavitve.
 reset-search-settings-button = V redu
 
 ## Infobar shown when user is prompted to install search engine.

@@ -31,6 +31,15 @@ sidebar-history-sort-by-site =
     .label = Razvrsti po spletnem mestu
 sidebar-history-clear =
     .label = Počisti zgodovino
+sidebar-history-sort-by-heading = Razvrsti po:
+sidebar-history-sort-option-date =
+    .label = datumu
+sidebar-history-sort-option-site =
+    .label = spletnem mestu
+sidebar-history-sort-option-date-and-site =
+    .label = datumu in spletnem mestu
+sidebar-history-sort-option-last-visited =
+    .label = času zadnjega obiska
 
 ## Labels for sidebar search
 

@@ -76,9 +76,16 @@ contextual-manager-passwords-import-learn-more = Več o uvažanju gesel
 contextual-manager-passwords-export-success-heading =
     .heading = Gesla izvožena
 contextual-manager-passwords-export-success-button = Končano
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = Želite izvoziti gesla v datoteko?
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = Po izvozu priporočamo, da datoteko izbrišete, da vaša gesla ne bodo ostala na očem morebitnim drugim uporabnikom te naprave.
 contextual-manager-export-passwords-dialog-confirm-button = Nadaljuj z izvozom
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Izvozi gesla iz { -brand-short-name(sklon: "rodilnik") }
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = gesla
 contextual-manager-passwords-export-file-picker-export-button = Izvozi
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -86,6 +93,15 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] Dokument CSV
        *[other] Datoteka CSV
+    }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [one] Želite odstraniti geslo?
+        [two] Želite odstraniti { $total } gesli?
+        [few] Želite odstraniti vsa { $total } gesla?
+       *[other] Želite odstraniti vseh { $total } gesel?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
@@ -106,6 +122,42 @@ contextual-manager-passwords-remove-all-confirm-button =
         [few] Odstrani vse
        *[other] Odstrani vse
     }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [one] S tem boste odstranili geslo, shranjeno v { -brand-short-name(sklon: "tozilnik") }, in vsa morebitna opozorila o krajah podatkov. Dejanja ni mogoče razveljaviti.
+        [two] S tem boste odstranili gesli, shranjeni v { -brand-short-name(sklon: "tozilnik") }, in vsa morebitna opozorila o krajah podatkov. Dejanja ni mogoče razveljaviti.
+        [few] S tem boste odstranili gesla, shranjena v { -brand-short-name(sklon: "tozilnik") }, in vsa morebitna opozorila o krajah podatkov. Dejanja ni mogoče razveljaviti.
+       *[other] S tem boste odstranili gesla, shranjena v { -brand-short-name(sklon: "tozilnik") }, in vsa morebitna opozorila o krajah podatkov. Dejanja ni mogoče razveljaviti.
+    }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [one] S tem boste odstranili geslo, shranjeno v { -brand-short-name(sklon: "tozilnik") }, na vseh sinhroniziranih napravah in morebitna opozorila o krajah podatkov. Dejanja ni mogoče razveljaviti.
+        [two] S tem boste odstranili gesli, shranjeni v { -brand-short-name(sklon: "tozilnik") }, na vseh sinhroniziranih napravah in morebitna opozorila o krajah podatkov. Dejanja ni mogoče razveljaviti.
+        [few] S tem boste odstranili vsa gesla, shranjena v { -brand-short-name(sklon: "tozilnik") }, na vseh sinhroniziranih napravah in morebitna opozorila o krajah podatkov. Dejanja ni mogoče razveljaviti.
+       *[other] S tem boste odstranili vsa gesla, shranjena v { -brand-short-name(sklon: "tozilnik") }, na vseh sinhroniziranih napravah in morebitna opozorila o krajah podatkov. Dejanja ni mogoče razveljaviti.
+    }
+contextual-manager-passwords-origin-label = Spletno mesto
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Uporabniško ime
+    .data-after = Kopirano
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Geslo
+    .data-after = Kopirano
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Filtriraj gesla
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = Geslo za { $url } dodano
+contextual-manager-passwords-add-password-success-button = Prikaži
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = Geslo in uporabniško ime za { $url } že obstajata
 contextual-manager-passwords-password-already-exists-error-button = Pojdi na geslo
 contextual-manager-passwords-update-password-success-heading =
     .heading = Geslo shranjeno
@@ -121,17 +173,41 @@ contextual-manager-passwords-delete-password-success-heading =
            *[other] Gesla odstranjena
         }
 contextual-manager-passwords-delete-password-success-button = Končano
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = Vsa ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = Opozorila ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Odstranim geslo?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = Tega ne bo mogoče razveljaviti.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = Nazaj
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Odstrani
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Prekliči
+contextual-manager-passwords-alert-card =
+    .aria-label = Opozorila o geslih
 contextual-manager-passwords-alert-back-button =
     .label = Nazaj
+contextual-manager-passwords-alert-list =
+    .aria-label = Seznam opozoril
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = Priporočamo spremembo gesla
+    .message = Prijavljeno je bilo, da je prišlo do kraje ali razkritja gesel tega spletnega mesta. Spremenite geslo, da zaščitite račun.
+contextual-manager-passwords-breached-origin-link-message = Kako { -brand-product-name } izve za kraje podatkov?
 contextual-manager-passwords-change-password-button = Spremeni geslo
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = Priporočamo spremembo gesla
+    .message = To geslo je enostavno uganiti. Spremenite ga, da zaščitite račun.
+contextual-manager-passwords-vulnerable-password-link-message = Kako { -brand-product-name } ve, da je geslo šibko?
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Dodaj uporabniško ime
+    .message = Dodajte za hitrejšo prijavo.
 contextual-manager-passwords-add-username-button = Dodaj uporabniško ime
 
 ## Login Form
@@ -142,11 +218,16 @@ contextual-manager-passwords-edit-label =
     .label = Uredi geslo
 contextual-manager-passwords-remove-label =
     .title = Odstrani geslo
+contextual-manager-passwords-origin-tooltip = Vnesite točen naslov, na katerem se boste prijavljali v to spletno mesto.
+contextual-manager-passwords-username-tooltip = Vnesite uporabniško ime, številko računa ali e-poštni naslov, s katerim se prijavljate.
+contextual-manager-passwords-password-tooltip = Vnesite geslo, s katerim se prijavljate v ta račun.
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = Gesla
+contextual-manager-website-icon =
+    .alt = Ikona spletnega mesta
 contextual-manager-copy-icon =
     .alt = Kopiraj
 contextual-manager-check-icon-username =
@@ -160,16 +241,62 @@ contextual-manager-alert-icon =
 contextual-manager-origin-login-line =
     .aria-label = Obišči { $url }
     .title = Obišči { $url }
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = Obišči { $url } (Opozorilo)
+    .title = Obišči { $url } (Opozorilo)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = Kopiraj uporabniško ime { $username }
+    .title = Kopiraj uporabniško ime { $username }
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = Kopiraj uporabniško ime { $username } (Opozorilo)
+    .title = Kopiraj uporabniško ime { $username } (Opozorilo)
 contextual-manager-password-login-line =
     .aria-label = Kopiraj geslo
     .title = Kopiraj geslo
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = Kopiraj geslo (Opozorilo)
+    .title = Kopiraj geslo (Opozorilo)
+contextual-manager-edit-login-button = Uredi
+    .tooltiptext = Uredi geslo
+contextual-manager-view-alert-heading =
+    .heading = Prikaži opozorilo
+contextual-manager-view-alert-button =
+    .tooltiptext = Preglej opozorilo
+contextual-manager-show-password-button =
+    .aria-label = Prikaži geslo
+    .title = Prikaži geslo
+contextual-manager-hide-password-button =
+    .aria-label = Skrij geslo
+    .title = Skrij geslo
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = Ni najdenih gesel
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = Shranite si gesla na varno mesto.
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = Vsa gesla so šifrirana, mi pa bomo spremljali kraje podatkov in vas opozorili, če vas prizadenejo.
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = Dodaj ročno
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = Zaprem brez shranjevanja?
+    .message = Vaše spremembe se ne bodo shranile.
 contextual-manager-passwords-discard-changes-close-button = Zapri
 contextual-manager-passwords-discard-changes-go-back-button = Nazaj

@@ -66,8 +66,30 @@ about-logging-unknown-profiler-preset = Neznana prednastavitev profilerja "{ $v 
 about-logging-unknown-option = Neznana možnost about:logging: "{ $k }"
 about-logging-configuration-url-ignored = URL z nastavitvami prezrt
 about-logging-file-and-profiler-override = Ni mogoče vsiliti izpisa datoteke in hkrati preglasiti možnosti orodja za spremljanje delovanja
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-unknown-error = Prišlo je do napake: { $errorText }
 about-logging-configured-via-url = Možnost nastavljena prek URL-ja
 
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
+about-logging-upload-question = Podatki o profilu so bili zajeti. Jih želite shraniti ali naložiti?
+about-logging-save-button = Shrani
+about-logging-upload-button = Naloži
+# Variables:
+#   $path (string) - The path where the profile can be found.
+about-logging-saved = Shranjeno v { $path }
+# Variables:
+#   $percent (number) - The upload completion progress, to be displayed as a percentage. This is a value between 0 and 1.
+about-logging-uploading-progress = Nalaganje podatkov o profilu: { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+# Variables:
+#   $url (string) - The URL where the profile can be found
+about-logging-uploaded = Naloženo na <a data-l10n-name="uploaded-message-url">{ $url }</a>
+about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Deli URL
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-upload-error = Pri nalaganju profila je prišlo do napake: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-save-error = Pri shranjevanju datoteke je prišlo do napake: { $errorText }

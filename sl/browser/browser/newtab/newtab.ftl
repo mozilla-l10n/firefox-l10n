@@ -117,6 +117,7 @@ newtab-menu-delete-pocket = Izbriši iz { -pocket-brand-name }a
 newtab-menu-archive-pocket = Arhiviraj v { -pocket-brand-name }
 newtab-menu-show-privacy-info = Naši pokrovitelji in vaša zasebnost
 newtab-menu-about-fakespot = O { -fakespot-brand-name(sklon: "mestnik") }
+newtab-menu-report-content = Prijavi to vsebino
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Prepovej
@@ -128,6 +129,7 @@ newtab-menu-section-unfollow = Nehaj slediti temi
 
 newtab-menu-manage-sponsored-content = Upravljanje sponzorirane vsebine
 newtab-menu-our-sponsors-and-your-privacy = Naši pokrovitelji in vaša zasebnost
+newtab-menu-report-this-ad = Prijavi ta oglas
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -526,7 +528,29 @@ newtab-section-mangage-topics-followed-topics-empty-state = Ne spremljate še no
 newtab-section-mangage-topics-blocked-topics = Blokirano
 newtab-section-mangage-topics-blocked-topics-empty-state = Prepovedali niste še nobene teme.
 newtab-custom-wallpaper-title = Ozadja po meri so tu
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle = Naložite lastno ozadje ali izberite poljubno barvo, ki bo { -brand-product-name(sklon: "dajalnik") } dodala vašo osebno noto.
 newtab-custom-wallpaper-cta = Preizkusite
 
 ## Strings for reporting ads and content
 
+newtab-report-content-why-reporting-this =
+    .label = Zakaj to prijavljate?
+newtab-report-ads-reason-not-interested =
+    .label = Ne zanima me
+newtab-report-ads-reason-inappropriate =
+    .label = Zdi se mi neprimerno
+newtab-report-ads-reason-seen-it-too-many-times =
+    .label = Že prevečkrat videno
+newtab-report-content-wrong-category =
+    .label = Napačna kategorija
+newtab-report-content-outdated =
+    .label = Zastarelo
+newtab-report-content-inappropriate-offensive =
+    .label = Neprimerno ali žaljivo
+newtab-report-content-spam-misleading =
+    .label = Vsiljivo ali zavajajoče
+newtab-report-cancel = Prekliči
+newtab-report-submit = Pošlji
+newtab-toast-thanks-for-feedback =
+    .message = Hvala za vaše povratne informacije.

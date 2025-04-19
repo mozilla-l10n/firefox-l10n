@@ -1361,6 +1361,7 @@ collection-header2 = Zbiranje in uporaba podatkov v { -brand-short-name(sklon: "
     .searchkeywords = telemetrija
 preferences-collection-description = Trudimo se vam ponuditi izbiro in zbirati minimalno količino podatkov, ki jih potrebujemo za izboljševanje { -brand-product-name(sklon: "rodilnik") }.
 preferences-collection-privacy-notice = Ogled obvestila o zasebnosti
+preferences-across-profiles = Te nastavitve veljajo za vse profile { -brand-product-name(sklon: "rodilnik") } v tej napravi.
 preferences-view-profiles = Prikaži vse profile
 collection-description = Trudimo se, da vam ponudimo izbiro in da zbiramo samo tisto, kar potrebujemo za razvoj in izboljšave { -brand-short-name(sklon: "rodilnik") } za vse uporabnike. Pred sprejemanjem osebnih podatkov vas vedno vprašamo za dovoljenje.
 collection-privacy-notice = Obvestilo o zasebnosti

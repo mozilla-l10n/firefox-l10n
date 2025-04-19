@@ -33,3 +33,11 @@ experimental-features-contextual-password-manager-description = Imejte dostop do
 experimental-features-custom-wallpaper =
     .label = Izberite ozadje ali barvo po meri za stran novega zavihka
 experimental-features-custom-wallpaper-description = Naložite lastno ozadje ali izberite poljubno barvo ozadja novih zavihkov.
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = Predogledi povezav
+experimental-features-link-previews-description =
+    { PLATFORM() ->
+        [macos] Če želite izvedeti več o spletni strani, preden kliknete nanjo, podržite miškin kazalec na povezavi in pritisnite Shift (⇧) in Option (⌥) ali Alt. Predogledi lahko vsebujejo podatke, kot sta naslov in čas branja. Na nekaterih spletnih straneh lahko umetna inteligenca prebere tudi besedilo strani in ga povzame v ključnih točkah. Umetna inteligenca je optimizirana za branje in ustvarjanje angleških besedil. Da bi zagotovili vašo zasebnost, se umetna inteligenca izvaja lokalno v vašem računalniku. <a data-l10n-name="connect">Sporočite povratne informacije</a>
+       *[other] Če želite izvedeti več o spletni strani, preden kliknete nanjo, podržite miškin kazalec na povezavi in pritisnite Shift + Alt. Predogledi lahko vsebujejo podatke, kot sta naslov in čas branja. Na nekaterih spletnih straneh lahko umetna inteligenca prebere tudi besedilo strani in ga povzame v ključnih točkah. Umetna inteligenca je optimizirana za branje in ustvarjanje angleških besedil. Da bi zagotovili vašo zasebnost, se umetna inteligenca izvaja lokalno v vašem računalniku. <a data-l10n-name="connect">Sporočite povratne informacije</a>
+    }
