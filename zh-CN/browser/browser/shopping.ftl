@@ -306,6 +306,7 @@ shopping-integrated-callout-no-logo-sidebar-closed-subtitle = 选择“侧栏”
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-title = 还是核查评价，但现身新地点
 shopping-integrated-new-position-notification-move-right-subtitle = 保持“核查评价”和 { -brand-product-name } 侧栏中的其他内容在此处显示，或将其移到右侧。可以立即或以后再到<a data-l10n-name="sidebar_settings">侧栏设置</a>中切换。
 shopping-integrated-new-position-notification-move-left-subtitle = 保持“核查评价”和 { -brand-product-name } 侧栏中的其他内容在此处显示，或将其移到左侧。可以立即或以后再到<a data-l10n-name="sidebar_settings">侧栏设置</a>中切换。
 shopping-integrated-new-position-notification-move-right-button = 移到右侧

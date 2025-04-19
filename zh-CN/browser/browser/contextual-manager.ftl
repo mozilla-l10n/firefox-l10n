@@ -163,10 +163,10 @@ contextual-manager-passwords-delete-password-success-button = 完成
 #
 # Radiobutton label to display total number of passwords
 #   $total (number) - Total number of passwords
-contextual-manager-passwords-radiobutton-all = 全部（{ $total } 个）
+contextual-manager-passwords-radiobutton-all = 全部 ({ $total } 个)
 # Radiobutton label to display total number of alerts
 #   $total (number) - Total number of alerts
-contextual-manager-passwords-radiobutton-alerts = 警报（{ $total } 个）
+contextual-manager-passwords-radiobutton-alerts = 警报 ({ $total } 个)
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = 确定要移除密码吗？
 # This message warns the user that deleting a login is permanent.
@@ -256,6 +256,8 @@ contextual-manager-edit-login-button = 编辑
     .tooltiptext = 编辑密码
 contextual-manager-view-alert-heading =
     .heading = 查看警报
+contextual-manager-view-alert-button =
+    .tooltiptext = 查看警报
 contextual-manager-show-password-button =
     .aria-label = 显示密码
     .title = 显示密码
