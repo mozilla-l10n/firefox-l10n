@@ -1345,6 +1345,7 @@ collection-header2 = { -brand-short-name } 数据收集与使用
     .searchkeywords = 遥测
 preferences-collection-description = 我们力图为您提供选择权，并保证只以最低限度收集为众人改进 { -brand-product-name } 所必需的数据。
 preferences-collection-privacy-notice = 查看隐私声明
+preferences-across-profiles = 此处的设置将应用到此设备上的所有 { -brand-product-name } 配置文件。
 preferences-view-profiles = 查看所有配置文件
 collection-description = 我们力图为您提供选择权，并保证只收集我们为众人提供和改进 { -brand-short-name } 所需的信息。我们仅在征得您的同意后接收个人信息。
 collection-privacy-notice = 隐私声明

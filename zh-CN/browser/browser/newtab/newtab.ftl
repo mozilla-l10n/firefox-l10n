@@ -528,6 +528,8 @@ newtab-custom-wallpaper-cta = 试试看
 
 ## Strings for reporting ads and content
 
+newtab-report-content-why-reporting-this =
+    .label = 此内容存在什么问题？
 newtab-report-ads-reason-not-interested =
     .label = 不感兴趣
 newtab-report-ads-reason-inappropriate =
@@ -536,6 +538,12 @@ newtab-report-ads-reason-seen-it-too-many-times =
     .label = 推荐次数过多
 newtab-report-content-wrong-category =
     .label = 分类错误
+newtab-report-content-outdated =
+    .label = 过时
+newtab-report-content-inappropriate-offensive =
+    .label = 不适宜或具有冒犯性
+newtab-report-content-spam-misleading =
+    .label = 垃圾信息或具有误导性
 newtab-report-cancel = 取消
 newtab-report-submit = 提交
 newtab-toast-thanks-for-feedback =

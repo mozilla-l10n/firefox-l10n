@@ -203,6 +203,8 @@ urlbar-result-menu-manage-firefox-suggest =
 # administrative region (e.g., a province, prefecture, or state).
 urlbar-result-menu-report-inaccurate-location =
     .label = 报告位置不准确
+urlbar-result-menu-dont-show-weather-suggestions =
+    .label = 不再显示天气建议
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = 感谢反馈
