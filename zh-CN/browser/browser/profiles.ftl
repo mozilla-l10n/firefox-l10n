@@ -7,6 +7,8 @@ profile-window-body = 全面分隔办公与私人浏览体验，包括密码和�
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = 打开 { -brand-short-name } 时选择配置文件
+# This subcopy appears below the checkbox when it is unchecked
+profile-window-checkbox-subcopy = { -brand-short-name } 将在启动时打开最近一次使用的配置文件。
 profile-window-create-profile = 创建配置文件
 profile-card-edit-button =
     .title = 编辑配置文件
