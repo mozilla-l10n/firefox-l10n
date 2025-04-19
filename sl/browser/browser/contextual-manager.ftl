@@ -6,13 +6,21 @@ contextual-manager-filter-input =
     .placeholder = Iskanje gesel
     .key = F
     .aria-label = Iskanje gesel
+contextual-manager-menu-more-options-button =
+    .title = Več možnosti
+contextual-manager-more-options-popup =
+    .aria-label = Več možnosti
 
 ## Passwords
 
 contextual-manager-passwords-command-create = Dodaj geslo
 contextual-manager-passwords-command-import-from-browser = Uvozi iz drugega brskalnika …
 contextual-manager-passwords-command-import = Uvozi iz datoteke …
+contextual-manager-passwords-command-export = Izvozi gesla
+contextual-manager-passwords-command-remove-all = Odstrani vsa gesla
+contextual-manager-passwords-command-settings = Nastavitve
 contextual-manager-passwords-command-help = Pomoč
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Pred izvozom gesel vnesite svoje podatke za prijavo v sistem Windows. To je ukrep za zagotavljanje varnosti vaših računov.
 # This message can be seen when attempting to export a password in about:logins
@@ -35,6 +43,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Če žel
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = copy the saved password
+contextual-manager-passwords-import-file-picker-title = Uvozi gesla
 contextual-manager-passwords-import-file-picker-import-button = Uvozi
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -50,8 +59,14 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] Dokument TSV
        *[other] Datoteka TSV
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = Gesla uvožena
+contextual-manager-passwords-import-detailed-report = Prikaži podrobno poročilo
 contextual-manager-passwords-import-success-button = Končano
+contextual-manager-passwords-import-error-button-try-again = Poskusi znova
 contextual-manager-passwords-import-error-button-cancel = Prekliči
+contextual-manager-passwords-export-success-heading =
+    .heading = Gesla izvožena
 contextual-manager-passwords-export-success-button = Končano
 contextual-manager-export-passwords-dialog-confirm-button = Nadaljuj z izvozom
 # Title of the file picker dialog
