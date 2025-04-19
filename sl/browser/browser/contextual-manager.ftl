@@ -98,19 +98,41 @@ contextual-manager-passwords-remove-all-confirm-button =
         [few] Odstrani vse
        *[other] Odstrani vse
     }
+contextual-manager-passwords-password-already-exists-error-button = Pojdi na geslo
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Geslo shranjeno
 contextual-manager-passwords-update-password-success-button = Končano
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [one] Geslo odstranjeno
+            [two] Gesli odstranjeni
+            [few] Gesla odstranjena
+           *[other] Gesla odstranjena
+        }
 contextual-manager-passwords-delete-password-success-button = Končano
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Odstranim geslo?
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Nazaj
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Odstrani
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Prekliči
+contextual-manager-passwords-alert-back-button =
+    .label = Nazaj
+contextual-manager-passwords-add-username-button = Dodaj uporabniško ime
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Dodaj geslo
+contextual-manager-passwords-edit-label =
+    .label = Uredi geslo
+contextual-manager-passwords-remove-label =
+    .title = Odstrani geslo
 
 ## Password Card
 
@@ -118,6 +140,20 @@ contextual-manager-passwords-list-label =
     .aria-label = Gesla
 contextual-manager-copy-icon =
     .alt = Kopiraj
+contextual-manager-check-icon-username =
+    .alt = Kopirano
+contextual-manager-check-icon-password =
+    .alt = Kopirano
+contextual-manager-alert-icon =
+    .alt = Opozorilo
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = Obišči { $url }
+    .title = Obišči { $url }
+contextual-manager-password-login-line =
+    .aria-label = Kopiraj geslo
+    .title = Kopiraj geslo
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
@@ -126,3 +162,5 @@ contextual-manager-copy-icon =
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-close-button = Zapri
+contextual-manager-passwords-discard-changes-go-back-button = Nazaj
