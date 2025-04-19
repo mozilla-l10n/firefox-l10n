@@ -256,10 +256,24 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 # Opt-in message strings for Review Checker when it is integrated into the global sidebar.
 shopping-opt-in-integrated-headline = 让购物时心里有数
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle = 下单前先开启 { -brand-product-name } 的核查评价功能，看看商品评价是否可信。此功能会通过 AI 技术分析评价，可在 { $firstSite }、{ $secondSite } 和 { $thirdSite } 中使用。<a data-l10n-name="learn_more">详细了解</a>
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle-unsupported-site = { -brand-product-name } 的核查评价功能可帮助您在下单前了解商品评价是否可信。此功能会通过 AI 技术分析评价，可在 { $firstSite }、{ $secondSite } 和 { $thirdSite } 中使用。<a data-l10n-name="learn_more">详细了解</a>
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
 shopping-callout-opt-in-integrated-headline = 这些评价可信吗？
+# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
+shopping-callout-not-opted-in-integrated-paragraph1 = 开启 { -brand-product-name } 的核查评价功能来一探虚实。此功能由 { -fakespot-brand-full-name } 提供支持，通过 AI 技术来分析评价。
 shopping-callout-not-opted-in-integrated-paragraph2 = 选择“{ shopping-opt-in-integrated-button }”即代表您同意 { -brand-product-name } 的<a data-l10n-name="privacy_policy">隐私政策</a>和 { -fakespot-brand-full-name } 的<a data-l10n-name="terms_of_use">使用条款</a>。
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = 知道了
 shopping-callout-not-opted-in-integrated-reminder-accept-button = 开启核查评价
@@ -272,6 +286,7 @@ shopping-opt-in-integrated-button = 试试核查评价
 ## Message strings for Review Checker's empty states.
 
 shopping-empty-state-header = 已准备好检查评价
+shopping-empty-state-supported-site = { -brand-product-name } 会在您查看商品时检查评价是否可信。
 # We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
 # This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
 shopping-empty-state-non-supported-site = “核查评价”可在以下网站中使用：
@@ -291,6 +306,8 @@ shopping-integrated-callout-no-logo-sidebar-closed-subtitle = 选择“侧栏”
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-move-right-subtitle = 保持“核查评价”和 { -brand-product-name } 侧栏中的其他内容在此处显示，或将其移到右侧。可以立即或以后再到<a data-l10n-name="sidebar_settings">侧栏设置</a>中切换。
+shopping-integrated-new-position-notification-move-left-subtitle = 保持“核查评价”和 { -brand-product-name } 侧栏中的其他内容在此处显示，或将其移到左侧。可以立即或以后再到<a data-l10n-name="sidebar_settings">侧栏设置</a>中切换。
 shopping-integrated-new-position-notification-move-right-button = 移到右侧
 shopping-integrated-new-position-notification-move-left-button = 移到左侧
 shopping-integrated-new-position-notification-dismiss-button = 知道了

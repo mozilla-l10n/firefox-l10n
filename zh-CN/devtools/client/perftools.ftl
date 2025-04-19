@@ -66,6 +66,7 @@ perftools-button-edit-settings = 编辑设置…
 
 perftools-menu-more-actions-button =
     .title = 更多操作
+perftools-menu-more-actions-copy-for-perf-tests = 复制性能测试参数
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
