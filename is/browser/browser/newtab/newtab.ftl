@@ -531,3 +531,21 @@ newtab-custom-wallpaper-cta = Prófaðu það
 
 ## Strings for reporting ads and content
 
+newtab-report-ads-reason-not-interested =
+    .label = Ég hef ekki áhuga
+newtab-report-ads-reason-inappropriate =
+    .label = Þetta er óviðeigandi
+newtab-report-ads-reason-seen-it-too-many-times =
+    .label = Ég hef séð það of oft
+newtab-report-content-wrong-category =
+    .label = Rangur flokkur
+newtab-report-content-outdated =
+    .label = Úrelt
+newtab-report-content-inappropriate-offensive =
+    .label = Óviðeigandi eða særandi
+newtab-report-content-spam-misleading =
+    .label = Ruslpóstur eða villandi
+newtab-report-cancel = Hætta við
+newtab-report-submit = Senda inn
+newtab-toast-thanks-for-feedback =
+    .message = Takk fyrir álit þitt.
