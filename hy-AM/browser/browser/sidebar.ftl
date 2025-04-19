@@ -20,6 +20,8 @@ sidebar-history-clear =
 sidebar-customize-firefox-tools-header =
     .label = { -brand-product-name }--ի գործիքներ
 sidebar-customize-firefox-settings = Կառավարել { -brand-short-name }-ի կարգավորումները
+sidebar-vertical-tabs =
+    .label = Ուղղահայաց ներդիրներ
 sidebar-hide-tabs-and-sidebar =
     .label = Թաքցնել ներդիրները և կողագոտին
 # Option to automatically expand the collapsed sidebar when the mouse pointer

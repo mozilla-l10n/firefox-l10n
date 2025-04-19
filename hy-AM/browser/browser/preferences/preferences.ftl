@@ -205,6 +205,7 @@ settings-tabs-show-image-in-preview =
 browser-layout-header = Դիտարկիչի դասավորությունը
 browser-layout-horizontal-tabs =
     .label = Հորիզոնական ներդիրներ
+browser-layout-horizontal-tabs-desc = Ցուցադրել դիտարկիչի վերևում
 browser-layout-vertical-tabs =
     .label = Ուղղահայաց ներդիրներ
 browser-layout-vertical-tabs-desc = Ցուցադրել կողքի վրա, կողագոտիում
