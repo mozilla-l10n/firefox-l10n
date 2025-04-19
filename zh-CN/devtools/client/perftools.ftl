@@ -66,6 +66,8 @@ perftools-button-edit-settings = 编辑设置…
 
 perftools-menu-more-actions-button =
     .title = 更多操作
+perftools-menu-more-actions-restart-with-profiling = 重启 { -brand-shorter-name }（启用“启动分析”）
+perftools-menu-more-actions-copy-for-startup = 复制启动分析的环境变量
 perftools-menu-more-actions-copy-for-perf-tests = 复制性能测试参数
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
