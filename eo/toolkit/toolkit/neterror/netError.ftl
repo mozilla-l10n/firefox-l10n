@@ -13,6 +13,7 @@ neterror-captive-portal-page-title = Komenci seancon en tiu ĉi reto
 neterror-dns-not-found-title = Servilo ne trovita
 neterror-malformed-uri-page-title = Nevalida retadreso
 general-body-title = Estu singarda. Io ne ĝustas.
+problem-with-this-site-title = Ŝajne estas problemo kun tiu ĉi retejo
 
 ## Error page actions
 

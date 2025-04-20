@@ -201,6 +201,10 @@ addon-updates-manual-updates-found = Vidi haveblajn ĝisdatigojn
 
 addon-install-from-file = Instali aldonaĵon el dosiero…
     .accesskey = I
+# Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
+# pref is set.
+addon-install-or-update-from-file = Instali aŭ ĝisdatigi eldonaĵon el dosiero…
+    .accesskey = a
 addon-install-from-file-dialog-title = Elekti aldonaĵon por instali
 addon-install-from-file-filter-name = Aldonaĵoj
 addon-open-about-debugging = Senerarigi aldonaĵojn
@@ -286,6 +290,11 @@ addon-options-button =
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
 discopane-intro2 = Etendaĵoj kaj etosoj permesas al vi personcecigi { -brand-product-name }. Ili povas pliigi privatecon, plialtigi produktadon, plibonigi aŭvidaĵojn, ŝanĝi la aspekton de { -brand-product-name }, kaj multe, multe pli. Tiuj etaj programoj estas ofte disvolvitaj de aliaj. Jen kelkaj <a data-l10n-name="learn-more-trigger">rekomendoj</a> de { -brand-product-name } por havi eksterordinaran sekurecon, efikecon kaj aldonajn funkciojn.
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 = Etendaĵoj kaj etosoj permesas al vi personcecigi { -brand-product-name }. Ili povas pliigi privatecon, plialtigi produktadon, plibonigi aŭvidaĵojn, ŝanĝi la aspekton de { -brand-product-name }, kaj multe, multe pli. Tiuj etaj programoj estas ofte disvolvitaj de aliaj. Jen kelkaj <a data-l10n-name="learn-more-trigger">rekomendoj</a> de Firefox por havi eksterordinaran sekurecon, efikecon kaj aldonajn funkciojn.
 
 ## Add-on actions
 
@@ -421,8 +430,22 @@ addon-badge-recommended3 =
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Oficiala etendaĵo verkita de Mozilla. Ĝi observas sekurecajn kaj efikecajn normojn
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are performing the
+# security or performance reviews. As such, we avoid personalising language
+# like the words "our" or "we".
+addon-badge-verified4 =
+    .title = Tiu ĉi etendaĵo estis reviziita por kontroli ke ĝi kongruas kun sekurecaj kaj efikecaj normoj.
 addon-badge-verified3 =
     .title = Tiu ĉi etendaĵo estis reviziita por kontroli ke ĝi kongruas kun niaj sekurecaj kaj efikecaj normoj.
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are making the
+# recommendation. As such, we hard code "Firefox" and avoid personalising
+# language like the words "our" or "we".
+addon-badge-recommended4 =
+    .title = Firefox nur rekomendas etendaĵojn, kiuj konformas al normoj pri sekureco kaj efikeco
 
 ##
 
