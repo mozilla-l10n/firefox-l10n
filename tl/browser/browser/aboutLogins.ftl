@@ -212,14 +212,9 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
     }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
-        [1] Sige, tangalin itong login
-        [one] Sige, tangalin itong mga login
-       *[other] Sige, tangalin ang mga login
-    }
-about-logins-confirm-remove-all-dialog-title =
-    { $count ->
-        [one] Alisin ang lahat ng { $count } login?
-       *[other] Remove all { $count } logins?
+        [1] Sige, tanggalin itong login
+        [one] Sige, tanggalin itong login
+       *[other] Sige, tanggalin itong mga login
     }
 about-logins-confirm-remove-all-dialog-message =
     { $count ->
@@ -235,6 +230,25 @@ about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
         [1] Aalisin nito ang login na nai-save mo sa { -brand-short-name } ng lahat ng mga device na naka-sync sa iyong { -fxaccount-brand-name }. Aalisin din nito ang mga alerto sa paglabag na lilitaw dito. Hindi mo maibabalik ang pagkilos na ito.
        *[other] Aalisin nito ang lahat ng mga login na nai-save mo sa { -brand-short-name } ng lahat ng mga device na naka-sync sa iyong { -fxaccount-brand-name }. Aalisin din nito ang mga alerto sa paglabag na lilitaw dito. Hindi mo maibabalik ang pagkilos na ito.
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Oo, tanggalin ang password
+        [one] Oo, tanggalin ang password
+       *[other] Oo, tanggalin ang mga password
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] Tanggalin ang { $count } password?
+       *[other] Tanggalin ang lahat ng { $count } password?
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] Tanggalin ang { $count } password mula sa lahat ng mga device?
+       *[other] Tanggalin ang lahat ng { $count } password mula sa lahat ng mga device?
     }
 
 ##
@@ -283,6 +297,11 @@ about-logins-export-file-picker-title = I-export ang Login File
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = I-export ang Mga Password mula sa { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = passwords.csv
 about-logins-export-file-picker-export-button = i-Export
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -296,6 +315,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Kunin ang Logins File
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Mag-import ng mga Password sa { -brand-short-name }
 about-logins-import-file-picker-import-button = i-Import
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -329,6 +350,11 @@ about-logins-import-dialog-items-modified =
 about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Mga nahanap na magkaparehong login:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(hindi na-import)</span>
+    }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+        [one] <span>Mga naidagdag na bagong password:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Mga naidagdag na mga bagong password:</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-error =
     { $count ->
