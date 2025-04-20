@@ -71,6 +71,7 @@ migration-logins-and-passwords-option-label = കരുതിവച്ച രഹ
 migration-passwords-option-label = കരുതിവച്ച രഹസ്യവാക്കുകൾ
 migration-history-option-label = പരതൽ നാൾവഴി
 migration-extensions-option-label = വിപുലീകരണങ്ങൾ
+migration-form-autofill-option-label = താനെപ്പൂരിപ്പിക്കൽ ഡാറ്റ
 migration-payment-methods-option-label = പണമടക്കൽ മുറകൾ
 migration-cookies-option-label = കുക്കികള്‍
 migration-session-option-label = ടാബുകളും ജാലകങ്ങളും

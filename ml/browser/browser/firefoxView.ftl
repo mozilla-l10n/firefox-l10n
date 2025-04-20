@@ -55,6 +55,7 @@ firefoxview-tabpickup-sync-error-header = സമന്വയിപ്പിക�
 firefoxview-tabpickup-sync-error-primarybutton = വീണ്ടും ശ്രമിയ്ക്കുക
 firefoxview-tabpickup-sync-disconnected-header = തുടരാൻ വേണ്ടി സമന്വയം തുടങ്ങിവയ്ക്കുക
 firefoxview-tabpickup-sync-disconnected-primarybutton = ക്രമീകരണങ്ങളിൽ സമന്വയത്തിനെ തുടങ്ങിവയ്ക്കുക
+firefoxview-tabpickup-password-locked-header = ടാബുകൾ കാണാൻ താങ്ങളുടെ ഒന്നാമത്തെ രഹസ്യവാക്കു് നൽകുക
 firefoxview-tabpickup-password-locked-link = കൂടുതലറിയുക
 firefoxview-tabpickup-password-locked-primarybutton = പ്രധാനരഹസ്യവാക്കു് നല്കുക
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">കൂടുതൽ അറിയുക</a>
@@ -63,7 +64,10 @@ firefoxview-tabpickup-signed-out-primarybutton = പ്രവേശിക്ക�
 firefoxview-mobile-promo-primarybutton = താങ്ങളുടെ ഫോണിൽ { -brand-product-name } നേടുക
 firefoxview-mobile-confirmation-header = എല്ലാം ഒരുക്കം!
 firefoxview-closed-tabs-title = അടുത്തിടെ അടച്ചതു്
+firefoxview-closed-tabs-description2 = ഈ ജാലകത്തിൽ അടച്ച താളുകൾ വീണ്ടും തുറക്കുക
 firefoxview-closed-tabs-placeholder-header = അടുത്തിടെ അടച്ച ടാബുകളൊന്നുമില്ല
+firefoxview-closed-tabs-placeholder-body = താങ്ങൾ ഈ ജാലകത്തിൽ ടാബടക്കുമ്പോൾ താങ്ങൾക്കു് അതിനെ ഇവിടെ നിന്നെടുക്കാം.
+firefoxview-closed-tabs-placeholder-body2 = താങ്ങൾ ടാബടക്കുമ്പോൾ താങ്ങൾക്കു് അതിനെ ഇവിടെ നിന്നെടുക്കാം.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =

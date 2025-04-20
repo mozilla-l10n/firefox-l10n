@@ -44,6 +44,7 @@ about-logging-preset-media-playback-label = Ludado de aŭvidaĵoj
 about-logging-preset-media-playback-description = Registraj moduloj por diagnozi problemojn kun ludado de aŭdvidaĵoj (ne por videkonferencaj problemoj)
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Registraj moduloj por diagnozi problemojn kun vokoj WebRTC
+about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Registraj moduloj por diagnozi problemojn kun WebGPU
 about-logging-preset-gfx-label = Grafikoj

@@ -117,6 +117,7 @@ newtab-menu-delete-pocket = { -pocket-brand-name } നിന്ന് മായ�
 newtab-menu-archive-pocket = { -pocket-brand-name } ഗ്രന്ഥപ്പുരത്തിലാക്കി വയ്ക്കുക
 newtab-menu-show-privacy-info = ഞങ്ങളുടെ പരുപാടികൾക്കു് പണം കൊടുക്കുന്നവരും താങ്ങളുടെ സ്വകാര്യതാവും
 newtab-menu-about-fakespot = { -fakespot-brand-name }-നെ കുറിച്ചു്
+newtab-menu-report-content = മേൽക്കോയ്മക്കാരോടു് ഈ ഉള്ളടക്കത്തിനെപ്പറ്റി അറിയിക്കുക
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = തടയുക
@@ -126,6 +127,9 @@ newtab-menu-section-unfollow = വിഷയം പിന്തുടരാൻ �
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
+newtab-menu-manage-sponsored-content = പണടച്ചിട്ടുപ്രചരിപ്പിച്ച ഉള്ളടക്കം കൈകാര്യം ചെയ്യുക
+newtab-menu-our-sponsors-and-your-privacy = ഞങ്ങളുടെ പരുപാടികൾക്കു് പണം കൊടുക്കുന്നവരും താങ്ങളുടെ സ്വകാര്യതാവും
+newtab-menu-report-this-ad = മേൽക്കോയ്മക്കാരോടു് ഈ പരസ്യത്തിനെ പറ്റി അറിയിക്കുക.
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -306,6 +310,7 @@ newtab-wallpaper-light-sky = പാടലന്നിറത്തിന്റെ
 
 ## Solid Colors
 
+newtab-wallpaper-category-title-colors = കടും നിറങ്ങൾ
 newtab-wallpaper-blue = നീല
 newtab-wallpaper-light-blue = ഇളം നീല
 newtab-wallpaper-light-purple = ഇളം ഊതന്നിറം
@@ -350,6 +355,9 @@ feature-highlight-wallpaper =
 
 ## New Tab Weather
 
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ പണമടച്ചുപ്രചരിപ്പിച്ചതു്
 newtab-weather-menu-change-location = സ്ഥാനം മാറ്റുക
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = സ്ഥാനം തപ്പുക
@@ -439,3 +447,5 @@ newtab-custom-wallpaper-cta = ഉപയോഗിച്ചു് നോക്ക�
 
 ## Strings for reporting ads and content
 
+newtab-report-ads-reason-not-interested =
+    .label = എനിക്കിതിൽ താല്പര്യമില്ല

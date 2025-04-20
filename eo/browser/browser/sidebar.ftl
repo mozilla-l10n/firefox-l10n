@@ -69,6 +69,9 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Malfaldi flankan strion kiam la muso iras super ĝi
+expand-on-hover-message =
+    .heading = Baldaŭa trajto: malfaldo dum ŝvebo
+    .message = Post estonta ĝisdatigo vi povos malfaldi la flankan strion kiam la montrilo ŝvebas super ĝi
 
 ## Labels for sidebar context menu items
 
@@ -86,6 +89,12 @@ sidebar-context-menu-bookmark-tab =
     .label = Aldoni langeton al legosignoj…
 sidebar-context-menu-copy-link =
     .label = Kopii ligilon
+sidebar-context-menu-hide-sidebar =
+    .label = Kaŝi flankan strion
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Ŝalti vertikalajn langetojn
+sidebar-context-menu-customize-sidebar =
+    .label = Personecigi la flankan strion
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =

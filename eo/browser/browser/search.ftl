@@ -38,6 +38,8 @@ remove-search-engine-button = Akcepti
 ## Variables
 ## $newEngine (String) - the name of the new default search engine.
 
+reset-search-settings-message = Pro teknika problemo via norma serĉilo estis ŝanĝita denove al { $newEngine }. Iru al la agordoj por ŝanĝi la norman serĉilon.
+reset-search-settings-button = Akcepti
 
 ## Infobar shown when user is prompted to install search engine.
 ## Variables
@@ -55,8 +57,10 @@ add-engine-window =
     .style = min-width: 32em;
 add-engine-button = Aldoni personecigitan serĉilon
 add-engine-name = Nomo de serĉilo
+add-engine-keyword = Ŝlosilvorto
 add-engine-url = Retadreso de serĉilo, uzu %s anstataŭ la serĉan tekston
 add-engine-dialog =
     .buttonlabelaccept = Aldoni serĉilon
     .buttonaccesskeyaccept = A
 engine-name-exists = Jam ekzistas serĉilo kun tiu nomo
+engine-keyword-exists = Jam ekzistas serĉilo kun tiu ŝlosilvorto
