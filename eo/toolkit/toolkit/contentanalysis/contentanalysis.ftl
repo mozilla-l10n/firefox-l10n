@@ -13,6 +13,15 @@ contentanalysis-slow-agent-dialog-header = Skanado progresas
 contentanalysis-slow-agent-dialog-body-file = { $agent } kontrolas ĉu “{ $filename }” kongruas kun la datumaj reguloj de via organizo. Tio ĉi povas bezoni iom da tempo.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
+#   $filename - Name of a file being analyzed, such as "aFile.txt"
+#   $count (number) - The number of additional items in the request for analysis
+contentanalysis-slow-agent-dialog-body-file-and-more =
+    { $count ->
+        [one] { $agent } kontrolas ĉu “{ $filename }” kaj alia elemento kongruas kun la datumaj reguloj de via organizo. Tio ĉi povas bezoni iom da tempo.
+       *[other] { $agent } kontrolas ĉu “{ $filename }” kaj { $count } aliaj elementoj kongruas kun la datumaj reguloj de via organizo. Tio ĉi povas bezoni iom da tempo.
+    }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } kontrolas ĉu via alguaĵo kongruas kun la datumaj reguloj de via organizo. Tio ĉi povas bezoni iom da tempo.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
@@ -58,6 +67,10 @@ contentanalysis-error-message-upload-file = Rifuzita alŝuto de “{ $filename }
 contentanalysis-error-message-dropped-text = Rifuzita treno kaj faligo.
 contentanalysis-error-message-clipboard = Rifuzita algluo.
 contentanalysis-error-message-print = Rifuzita presado.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
+contentanalysis-timeout-block-error-message-content = Elĉerpiĝis la tempo por konektiĝi al { $agento }. { $contentName } estis blokita.
 contentanalysis-block-dialog-title-upload-file = Vi ne rajtas alŝuti tiun ĉi dosieron
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"

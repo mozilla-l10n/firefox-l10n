@@ -273,6 +273,15 @@ preferences-web-appearance-override-warning2 =
 preferences-web-appearance-footer = Administri la etosojn de { -brand-short-name } en <a data-l10n-name="themes-link">Etendaĵoj kaj etosoj</a>
 preferences-contrast-control-header = Agordo de kontrasto
 preferences-contrast-control-description = Retejoj uzas multajn malsamajn antaŭajn kaj fonajn kolorojn. Agordu { -brand-short-name } por uzi la samajn kolorojn en ĉiuj retejoj por plibonigi la legeblon.
+preferences-contrast-control-use-platform-settings =
+    .label = Aŭtomata (uzi sistemajn agordojn)
+    .accesskey = A
+preferences-contrast-control-off =
+    .label = Malŝaltita
+    .accesskey = M
+preferences-contrast-control-custom =
+    .label = Personecigita
+    .accesskey = P
 preferences-colors-header = Koloroj
 preferences-colors-description = Superregi la normajn kolorojn de { -brand-short-name } por teksto, fono de retejoj kaj ligiloj.
 preferences-colors-manage-button =
@@ -1129,6 +1138,13 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Adresa strio
 addressbar-suggest = Dum uzo de la retadresa strio, sugesti el
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Adresa strio — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Elektu la tipojn de sugestoj, kiu aperas en la adresa strio.
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Pli da informo
 addressbar-locbar-history-option =
     .label = retuma historio
     .accesskey = h
@@ -1161,7 +1177,18 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Montri sugestojn pri popularaj serĉoj
     .accesskey = s
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = Sugestoj de { -brand-short-name }
+addressbar-locbar-suggest-nonsponsored-desc = Ricevu sugestojn el la reto, kiu rilatas vian serĉon
+addressbar-locbar-suggest-sponsored-option =
+    .label = Sugestoj el patronoj
+addressbar-locbar-suggest-sponsored-desc = Subtenu { -brand-short-name } per ricevo de patronitaj sugestoj, de tempo al tempo.
 addressbar-quickactions-learn-more = Pli da informo
+addressbar-dismissed-suggestions-label = Ignoritaj sugestoj
+addressbar-restore-dismissed-suggestions-description = Restarigi ignoritajn sugestojn de patronoj kaj de { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button =
+    .label = Restarigi
 
 ## Privacy Section - Content Blocking
 
@@ -1326,6 +1353,8 @@ collection-header2 = Kolekto kaj uzo de datumojn de { -brand-short-name }
     .searchkeywords = telemezuro
 preferences-collection-description = Ni strebas lasi vin decidi, kaj nur kolektas la minimumajn datumojn bezonatajn por plibonigi { -brand-product-name } por ĉiuj.
 preferences-collection-privacy-notice = Vidi rimarkon pri privateco
+preferences-across-profiles = Tiuj ĉi agordoj aplikeblas al ĉiuj profilo de { -brand-product-name } en tiu ĉi aparato.
+preferences-view-profiles = Montri ĉiujn profilojn
 collection-description = Ni penas doni al vi plurajn eblojn, kaj kolekti nur tion, kion ni bezonas por fari kaj plibonigi { -brand-short-name } por ĉiuj. Ni ĉiam petos permeson antaŭ ol ricevi personajn informojn.
 collection-privacy-notice = Rimarko pri privateco
 collection-health-report-telemetry-disabled = Vi ne plu permesas al { -vendor-short-name } kapti teĥnikajn kaj interagajn datumojn. Ĉiuj antaŭaj datumoj estos forigitaj dum la venontaj 30 tagoj.
