@@ -117,6 +117,7 @@ newtab-menu-delete-pocket = Forigi el { -pocket-brand-name }
 newtab-menu-archive-pocket = Arĥivi en { -pocket-brand-name }
 newtab-menu-show-privacy-info = Niaj patronoj kaj via privateco
 newtab-menu-about-fakespot = Pri { -fakespot-brand-name }
+newtab-menu-report-content = Raporti tiun ĉi enhavon
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Bloki
@@ -126,6 +127,8 @@ newtab-menu-section-unfollow = Ne plu sekvi temon
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
+newtab-menu-manage-sponsored-content = Administri patronitan enhavon
+newtab-menu-our-sponsors-and-your-privacy = Niaj patronoj kaj via privateco
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 

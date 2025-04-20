@@ -64,6 +64,9 @@ perftools-button-edit-settings = Modifi agordojn…
 
 ## More actions menu
 
+perftools-menu-more-actions-button =
+    .title = Aliaj agoj
+perftools-menu-more-actions-restart-with-profiling = Restartigi { -brand-shorter-name } kun aktiva rulanalizo de starto
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 

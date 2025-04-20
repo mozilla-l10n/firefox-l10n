@@ -38,6 +38,8 @@ remove-search-engine-button = Aceptar
 ## Variables
 ## $newEngine (String) - the name of the new default search engine.
 
+reset-search-settings-message = Debido a un problema técnico, el buscador predeterminado se cambió de nuevo a { $newEngine }. Para cambiar el buscador predeterminado, vaya a los ajustes.
+reset-search-settings-button = Aceptar
 
 ## Infobar shown when user is prompted to install search engine.
 ## Variables
