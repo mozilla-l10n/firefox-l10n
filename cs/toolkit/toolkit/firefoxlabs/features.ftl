@@ -40,3 +40,8 @@ experimental-features-custom-wallpaper-description = Nahrajte vlastní tapetu ne
 # Link Previews with AI
 experimental-features-link-previews =
     .label = Náhledy odkazů
+experimental-features-link-previews-description =
+    { PLATFORM() ->
+        [macos] Pokud se chcete o webové stránce dozvědět více než na ni klepnete, najeďte na odkaz a stiskněte Shift plus volbu (⌥) nebo Alt. Náhledy mohou obsahovat detaily jako nadpis a čas čtení. U některých webových stránek může umělá inteligence číst i text stránky a generovat klíčové body. Umělá inteligence je optimalizována pro čtení a generování anglického textu. Aby bylo upřednostněno vaše soukromí, umělá inteligence běží lokálně na vašem počítači<a data-l10n-name="connect">Sdílet zpětnou vazbu</a>
+       *[other] Pokud se chcete o webové stránce dozvědět více než na ni klepnete, najeďte na odkaz a stiskněte Shift + Alt. Náhledy mohou obsahovat detaily jako nadpis a čas čtení. U některých webových stránek může umělá inteligence číst i text stránky a generovat klíčové body. Umělá inteligence je optimalizována pro čtení a generování anglického textu. Aby bylo upřednostněno vaše soukromí, umělá inteligence běží lokálně na vašem počítači<a data-l10n-name="connect">Sdílet zpětnou vazbu</a>
+    }
