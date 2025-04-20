@@ -127,6 +127,26 @@ contextual-manager-passwords-remove-all-confirm-button =
         [few] Odstranit vše
        *[other] Odstranit vše
     }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] Tímto se odstraní heslo uložené ve { -brand-short-name(case: "loc") } a všechna hlášení o únicích. Tuto akci nemůžete vzít zpět.
+        [one] Tímto se odstraní heslo uložené ve { -brand-short-name(case: "loc") } a všechna hlášení o únicích. Tuto akci nemůžete vzít zpět.
+        [few] Tímto se odstraní hesla uložená ve { -brand-short-name(case: "loc") } a všechna hlášení o únicích. Tuto akci nemůžete vzít zpět.
+        [many] Tímto se odstraní hesla uložená ve { -brand-short-name(case: "loc") } a všechna hlášení o únicích. Tuto akci nemůžete vzít zpět.
+       *[other] Tímto se odstraní hesla uložená ve { -brand-short-name(case: "loc") } a všechna hlášení o únicích. Tuto akci nemůžete vzít zpět.
+    }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] Tímto se odstraní heslo uložené ve { -brand-short-name(case: "loc") } na všech vašich synchronizovaných zařízeních a odebere všechna upozornění na úniky. Tuto akci nemůžete vzít zpět.
+        [one] Tímto se odstraní heslo uložené ve { -brand-short-name(case: "loc") } na všech vašich synchronizovaných zařízeních a odebere všechna upozornění na úniky. Tuto akci nemůžete vzít zpět.
+        [few] Tímto se odstraní hesla uložená ve { -brand-short-name(case: "loc") } na všech vašich synchronizovaných zařízeních a odebere všechna upozornění na úniky. Tuto akci nemůžete vzít zpět.
+        [many] Tímto se odstraní hesla uložená ve { -brand-short-name(case: "loc") } na všech vašich synchronizovaných zařízeních a odebere všechna upozornění na úniky. Tuto akci nemůžete vzít zpět.
+       *[other] Tímto se odstraní hesla uložená ve { -brand-short-name(case: "loc") } na všech vašich synchronizovaných zařízeních a odebere všechna upozornění na úniky. Tuto akci nemůžete vzít zpět.
+    }
 contextual-manager-passwords-origin-label = Webová stránka
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = Uživatelské jméno
@@ -197,6 +217,9 @@ contextual-manager-passwords-vulnerable-password-link-message =
         [with-cases] Jak se { -brand-product-name } dozví o slabých heslech?
        *[no-cases] Jak se { -brand-product-name } dozví o slabých heslech?
     }
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Přidejte uživatelské jméno
+    .message = Přidejte jej pro rychlejší přihlášení.
 contextual-manager-passwords-add-username-button = Přidat uživatelské jméno
 
 ## Login Form
