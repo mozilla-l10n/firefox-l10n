@@ -59,6 +59,7 @@ history-section-label = Таърих
 item-history-and-downloads =
     .label = Таърихи тамошо ва боргирӣ
     .accesskey = Т
+item-history-and-downloads-description2 = Таърихи саҳифаҳои сомонаҳо ва боргириҳоро тоза мекунад
 item-history-and-downloads-description = Таърихи ҷустуҷӯ, сомонаҳо ва боргириҳоро тоза мекунад
 item-history-form-data-downloads =
     .label = Таърих

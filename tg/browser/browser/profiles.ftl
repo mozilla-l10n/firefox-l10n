@@ -7,6 +7,8 @@ profile-window-body = Тамошобинии худро барои фаъоли�
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Интихоб кардани профил ҳангоми кушодани «{ -brand-short-name }»
+# This subcopy appears below the checkbox when it is unchecked
+profile-window-checkbox-subcopy = «{ -brand-short-name }» профилеро мекушояд, ки шумо дар навбати охирин истифода кардед.
 profile-window-create-profile = Эҷод кардани профил
 profile-card-edit-button =
     .title = Таҳрир кардани профил
