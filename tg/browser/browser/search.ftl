@@ -38,6 +38,7 @@ remove-search-engine-button = ХУБ
 ## Variables
 ## $newEngine (String) - the name of the new default search engine.
 
+reset-search-settings-message = Ба сабаби мушкилии техникӣ, низоми ҷустуҷӯии пешфарзи шумо ба «{ $newEngine }» иваз карда шуд. Барои иваз кардани низоми ҷустуҷӯии пешфарз, ба «Танзимот» гузаред.
 reset-search-settings-button = ХУБ
 
 ## Infobar shown when user is prompted to install search engine.

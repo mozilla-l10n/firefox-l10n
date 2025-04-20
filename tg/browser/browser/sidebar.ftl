@@ -38,6 +38,8 @@ sidebar-history-sort-option-site =
     .label = Сомона
 sidebar-history-sort-option-date-and-site =
     .label = Сана ва сомона
+sidebar-history-sort-option-last-visited =
+    .label = Кушодашудаи охирин
 
 ## Labels for sidebar search
 

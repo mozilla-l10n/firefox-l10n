@@ -68,6 +68,9 @@ about-logging-unknown-profiler-preset = Танзими пешфарз барои
 about-logging-unknown-option = Имкони about:logging барои «{ $k }» номаълум аст
 about-logging-configuration-url-ignored = Нишонии URL-и танзимот рад карда шуд
 about-logging-file-and-profiler-override = Дар як вақт ба таври маҷбурӣ баровардани сабт ба файл ва аз нав танзим кардани имконоти профилсоз ғайриимкон аст
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-unknown-error = Хато ба миён омад: { $errorText }
 about-logging-configured-via-url = Имкон тавассути нишонии URL танзим шуд
 
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
@@ -75,3 +78,6 @@ about-logging-configured-via-url = Имкон тавассути нишонии 
 
 about-logging-save-button = Нигоҳ доштан
 about-logging-upload-button = Бор кардан
+# Variables:
+#   $path (string) - The path where the profile can be found.
+about-logging-saved = Дар { $path } нигоҳ дошта шуд
