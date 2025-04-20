@@ -31,6 +31,15 @@ sidebar-history-sort-by-site =
     .label = Řadit podle serveru
 sidebar-history-clear =
     .label = Vymazat historii
+sidebar-history-sort-by-heading = Řazení:
+sidebar-history-sort-option-date =
+    .label = Datum
+sidebar-history-sort-option-site =
+    .label = Server
+sidebar-history-sort-option-date-and-site =
+    .label = Datum a název
+sidebar-history-sort-option-last-visited =
+    .label = Poslední návštěva
 
 ## Labels for sidebar search
 

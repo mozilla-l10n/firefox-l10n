@@ -312,6 +312,7 @@ shopping-callout-not-opted-in-integrated-reminder-accept-button = Zapnout kontro
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = Toto doporučení už nezobrazovat
 shopping-callout-not-opted-in-integrated-reminder-show-fewer = Zobrazovat méně doporučení
 shopping-callout-not-opted-in-integrated-reminder-manage-settings = Správa nastavení
+shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Kontrolu recenzí zajišťuje { -fakespot-brand-full-name }. Výběrem možnosti “{ shopping-opt-in-integrated-button }” souhlasíte se <a data-l10n-name="privacy_policy">zásadami ochrany osobních údajů</a> { -brand-product-name } a <a data-l10n-name="terms_of_use">podmínkami používání</a> { -fakespot-brand-name }.
 shopping-opt-in-integrated-button = Vyzkoušet kontrolu recenzí
 
 ## Message strings for Review Checker's empty states.
@@ -338,6 +339,8 @@ shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Klepněte na tlač
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
 shopping-integrated-new-position-notification-title = Stejná Kontrola recenzí na novém místě
+shopping-integrated-new-position-notification-move-right-subtitle = Ponechte Kontrolu recenzí a zbytek postranní lišty { -brand-product-name(case: "gen") } zde — nebo je přesuňte doprava. Přepnout můžete hned nebo později v <a data-l10n-name="sidebar_settings">nastavení postranní lišty</a>.
+shopping-integrated-new-position-notification-move-left-subtitle = Ponechte Kontrolu recenzí a zbytek postranní lišty { -brand-product-name(case: "gen") } zde — nebo je přesuňte doleva. Přepnout můžete hned nebo později v <a data-l10n-name="sidebar_settings">nastavení postranní lišty</a>.
 shopping-integrated-new-position-notification-move-right-button = Přesunout doprava
 shopping-integrated-new-position-notification-move-left-button = Přesunout doleva
 shopping-integrated-new-position-notification-dismiss-button = Rozumím
@@ -346,3 +349,13 @@ shopping-integrated-new-position-notification-dismiss-button = Rozumím
 
 shopping-settings-auto-open-and-close-toggle =
     .label = Automaticky otevírat a zavírat kontrolu recenzí
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-and-close-description-three-sites = Otevře se při prohlížení produktů na { $firstSite }, { $secondSite } a { $thirdSite } a zavře se, když stránku opustíte
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-and-close-description-single-site = Otevře se při prohlížení produktů na { $currentSite } a zavře se, když stránku opustíte
