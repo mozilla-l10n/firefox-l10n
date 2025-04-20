@@ -120,8 +120,8 @@ contextual-manager-passwords-remove-all-confirm-button =
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-message =
     { $total ->
-        [1] Tio ĉi forigos vian pasvorton konservita en { -brand-short-name } kaj eventualajn atentigojn pri datumfuĝo. Tiu ĉi ago ne estas malfarebla.
-       *[other] This will remove the passwords saved to { -brand-short-name } and any breach alerts. You cannot undo this action.
+        [1] Tio ĉi forigos vian pasvorton konservita en { -brand-short-name } kaj forigos eventualajn atentigojn pri datumfuĝoj. Tiu ĉi ago ne estas malfarebla.
+       *[other] Tio ĉi forigos viajn pasvortojn konservitaj en { -brand-short-name } kaj forigos eventualajn atentigojn pri datumfuĝoj. Tiu ĉi ago ne estas malfarebla.
     }
 # Message for modal to confirm the removal of all saved passwords when user HAS SYNC
 #   $total (number) - Total number of passwords
@@ -275,7 +275,19 @@ contextual-manager-passwords-no-passwords-found-message = Neniu pasvorto trovita
 
 # This string encourages the user to save their passwords in Firefox (the "safe spot").
 contextual-manager-passwords-no-passwords-header = Konservu viajn pasvortojn en sekura ejo.
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = Ĉiuj pasvortoj estas ĉifritaj kaj ni atente kontrolos datumfuĝojn kaj atentigos vin se ili koncernas vin.
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = Aldoni ilin ĉi tie por komenci.
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = Aldoni permane
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = Ĉu fermi sen konservi?
+    .message = Viaj ŝanĝoj ne estos konservitaj.
+contextual-manager-passwords-discard-changes-close-button = Fermi
+contextual-manager-passwords-discard-changes-go-back-button = Iri reen
