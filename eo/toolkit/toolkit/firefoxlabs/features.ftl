@@ -28,6 +28,11 @@ experimental-features-group-customize-browsing =
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Pasvortoj en la flanka strio
+experimental-features-contextual-password-manager-description = Aliru viajn pasvortojn rekte en la flanka strio. Ne plu serĉu aŭ restarigu pasvortojn kiam vi provas komenci seancon. Por uzi tiun ĉi trajton, elektu pasvortojn en la flanka strio. Poste iru al viaj ĝeneralaj agordoj kaj sub retumila aranĝo, elektu Montri flankan strion. Poste, agordu vian flankan strion per elekto de pasvortojn. Se vi provas tion, <a data-l10n-name="connect">informu al ni, kion vi pensas</a>.
+# New Tab Custom Wallpapers
+experimental-features-custom-wallpaper =
+    .label = Elekti personecigitan ekranfonon aŭ koloron por novaj folioj
+experimental-features-custom-wallpaper-description = Alŝutu vian propran ekranfonon aŭ elektu personecigitan koloron por la fono de viaj novaj langetoj.
 # Link Previews with AI
 experimental-features-link-previews =
     .label = Antaŭmontro de ligiloj
