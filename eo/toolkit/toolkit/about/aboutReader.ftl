@@ -129,3 +129,5 @@ about-reader-text-alignment-center =
     .title = Liniigi tekston centre
 about-reader-text-alignment-right =
     .title = Liniigi tekston dekstre
+about-reader-text-alignment-justify =
+    .title = Ĝisrandigi tekston

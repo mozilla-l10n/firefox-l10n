@@ -59,6 +59,7 @@ history-section-label = Historio
 item-history-and-downloads =
     .label = Retuma kaj elŝuta historio
     .accesskey = e
+item-history-and-downloads-description2 = Viŝi serĉan kaj elŝutan historion
 item-history-and-downloads-description = Viŝi serĉan, retejan kaj elŝutan historion
 item-history-form-data-downloads =
     .label = Historio

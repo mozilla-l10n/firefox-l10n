@@ -25,6 +25,8 @@ return-to-amo-subtitle = Bonege, vi havas { -brand-short-name }
 return-to-amo-addon-title = Nun, instalu ni <img data-l10n-name="icon"/><b>{ $addon-name }</b> por vi.
 return-to-amo-add-extension-label = Aldoni etendaĵon
 return-to-amo-add-theme-label = Aldoni la etoson
+return-to-amo-theme-install-complete-label = Etoso instalita
+return-to-amo-extension-install-complete-label = Etendaĵo instalita
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
