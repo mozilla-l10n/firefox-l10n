@@ -449,6 +449,9 @@ tab-groups-onboarding-feature-callout-title = Provu la grupojn de langetoj, por 
 tab-groups-onboarding-feature-callout-subtitle = Ordigu viajn langetojn per treno de unu sur alia, por krei vian unuan grupon.
 tab-groups-onboarding-create-group-title-2 = Iam ajn retrovu ĉi tie viajn grupojn de langetoj.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Retrovu viajn grupojn de langetoj per serĉo en la adresa strio.
+tab-groups-onboarding-saved-groups-title-2 = Se vi fermas grupon de langetoj, vi povas remalfermi ĝin ĉi tie, iam ajn.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Retrovu viajn fermitajn grupojn de langetoj per serĉo en la adresa strio.
+tab-groups-onboarding-session-restore-title = Remalfermu viajn grupojn de langetoj ĉi tie, iam ajn.
 tab-groups-onboarding-dismiss = Akcepti
 
 ## Multi Profiles feature onboarding messages

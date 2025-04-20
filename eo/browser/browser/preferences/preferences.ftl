@@ -271,6 +271,8 @@ preferences-web-appearance-override-warning2 =
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Administri la etosojn de { -brand-short-name } en <a data-l10n-name="themes-link">Etendaĵoj kaj etosoj</a>
+preferences-contrast-control-header = Agordo de kontrasto
+preferences-contrast-control-description = Retejoj uzas multajn malsamajn antaŭajn kaj fonajn kolorojn. Agordu { -brand-short-name } por uzi la samajn kolorojn en ĉiuj retejoj por plibonigi la legeblon.
 preferences-colors-header = Koloroj
 preferences-colors-description = Superregi la normajn kolorojn de { -brand-short-name } por teksto, fono de retejoj kaj ligiloj.
 preferences-colors-manage-button =
