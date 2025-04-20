@@ -256,15 +256,31 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 # Opt-in message strings for Review Checker when it is integrated into the global sidebar.
 shopping-opt-in-integrated-headline = Güvenle alışveriş yapın
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle = Satın almadan önce ürün yorumlarının ne kadar güvenilir olduğunu görmek için { -brand-product-name } Değerlendirme Kontrolcüsü’nü açabilirsiniz. Yorumlar yapay zekâ teknolojisiyle analiz edilir. { $firstSite }, { $secondSite } ve { $thirdSite } sitelerinde çalışır. <a data-l10n-name="learn_more">Daha fazla bilgi alın</a>
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle-unsupported-site = { -brand-product-name } Değerlendirme Kontrolcüsü, satın almadan önce ürün yorumlarının ne kadar güvenilir olduğunu anlamanızı sağlar. Yorumlar yapay zekâ teknolojisiyle analiz edilir. { $firstSite }, { $secondSite } ve { $thirdSite } sitelerinde çalışır. <a data-l10n-name="learn_more">Daha fazla bilgi alın</a>
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
 shopping-callout-opt-in-integrated-headline = Bu değerlendirmelere güvenebilir misiniz?
+# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
+shopping-callout-not-opted-in-integrated-paragraph1 = Öğrenmek için { -brand-product-name } Değerlendirme Kontrolcüsü’nü açın. { -fakespot-brand-full-name } altyapısını kullanır ve değerlendirmeleri yapay zekâ teknolojisiyle analiz eder.
+shopping-callout-not-opted-in-integrated-paragraph2 = “{ shopping-opt-in-integrated-button } seçeneğini seçtiğinizde { -brand-product-name } <a data-l10n-name="privacy_policy">gizlilik bildirimini</a> ve { -fakespot-brand-full-name } <a data-l10n-name="terms_of_use">kullanım koşullarını</a> kabul etmiş olursunuz.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Kapat
 shopping-callout-not-opted-in-integrated-reminder-accept-button = Değerlendirme kontrolcüsünü aç
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = Bu öneriyi bir daha gösterme
 shopping-callout-not-opted-in-integrated-reminder-show-fewer = Daha az öneri göster
 shopping-callout-not-opted-in-integrated-reminder-manage-settings = Ayarları yönet
+shopping-opt-in-integrated-privacy-policy-and-terms-of-use = Değerlendirme Kontrolcüsü { -fakespot-brand-full-name } altyapısını kullanır. “{ shopping-opt-in-integrated-button } seçeneğini seçtiğinizde { -brand-product-name } <a data-l10n-name="privacy_policy">gizlilik bildirimini</a> ve { -fakespot-brand-name } <a data-l10n-name="terms_of_use">kullanım koşullarını</a> kabul etmiş olursunuz.
 shopping-opt-in-integrated-button = Değerlendirme kontrolcüsünü deneyin
 
 ## Message strings for Review Checker's empty states.
@@ -291,6 +307,8 @@ shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Bir ürünün değ
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
 shopping-integrated-new-position-notification-title = Değerlendirme kontrolcüsü yeni yerinde
+shopping-integrated-new-position-notification-move-right-subtitle = Değerlendirme Kontrolcüsü ve diğer { -brand-product-name } kenar çubuğu öğelerini burada tutabilir veya sağa taşıyabilirsiniz. <a data-l10n-name="sidebar_settings">Kenar çubuğu ayarlarından</a> istediğiniz zaman tercihinizi değiştirebilirsiniz.
+shopping-integrated-new-position-notification-move-left-subtitle = Değerlendirme Kontrolcüsü ve diğer { -brand-product-name } kenar çubuğu öğelerini burada tutabilir veya sola taşıyabilirsiniz. <a data-l10n-name="sidebar_settings">Kenar çubuğu ayarlarından</a> istediğiniz zaman tercihinizi değiştirebilirsiniz.
 shopping-integrated-new-position-notification-move-right-button = Sağa taşı
 shopping-integrated-new-position-notification-move-left-button = Sola taşı
 shopping-integrated-new-position-notification-dismiss-button = Anladım
