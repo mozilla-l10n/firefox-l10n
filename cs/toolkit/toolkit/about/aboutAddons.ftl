@@ -347,6 +347,25 @@ discopane-intro2 =
             mnohem více. Tyto malé programy jsou často vyvíjeny třetí stranou. Zde je
             výběr aplikací { -brand-product-name } <a data-l10n-name="learn-more-trigger">doporučených</a> doplňků, které jsou bezpečné, výkonné a funkční.
     }
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 =
+    { -brand-product-name.case-status ->
+        [with-cases]
+            Rozšíření a motivy umožňují přizpůsobit { -brand-product-name }. Mohou zvýšit soukromí,
+            zvýšit produktivitu, vylepšit média, změnit vzhled { -brand-product-name(case: "gen") }
+            a mnoho dalšího. Tyto malé programy často vyvíjí třetí strana. Zde je
+            výběr, který Firefox <a data-l10n-name="learn-more-trigger">doporučuje</a> pro
+            výjimečné zabezpečení, výkon a funkčnost.
+       *[no-cases]
+            Rozšíření a motivy umožňují přizpůsobit { -brand-product-name }. Mohou zvýšit soukromí,
+            zvýšit produktivitu, vylepšit média, změnit vzhled aplikace { -brand-product-name }
+            a mnoho dalšího. Tyto malé programy často vyvíjí třetí strana. Zde je
+            výběr, který Firefox <a data-l10n-name="learn-more-trigger">doporučuje</a> pro
+            výjimečné zabezpečení, výkon a funkčnost.
+    }
 
 ## Add-on actions
 
@@ -495,8 +514,22 @@ addon-badge-recommended3 =
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Oficiální rozšíření od Mozilly. Splňuje standardy na zabezpečení i výkon
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are performing the
+# security or performance reviews. As such, we avoid personalising language
+# like the words "our" or "we".
+addon-badge-verified4 =
+    .title = Toto rozšíření bylo zkontrolováno, aby splňovalo normy pro zabezpečení a výkon.
 addon-badge-verified3 =
     .title = U tohoto rozšíření bylo zkontrolováno, že splňuje naše standardy ohledně zabezpečení a výkonu
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are making the
+# recommendation. As such, we hard code "Firefox" and avoid personalising
+# language like the words "our" or "we".
+addon-badge-recommended4 =
+    .title = Firefox doporučuje pouze rozšíření, která splňují standardy zabezpečení a výkonu.
 
 ##
 
