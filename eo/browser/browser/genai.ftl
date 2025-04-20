@@ -109,8 +109,11 @@ genai-options-about-chatbot =
 ## Chatbot onboarding
 
 genai-onboarding-header = Resumu, trovu ideojn kaj pli, dum vi retumas
+genai-onboarding-choose-header = Elektu A.I. dialoganton por uzi en la flanka strio de { -brand-short-name }
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = Elektu A.I. dialoganton por uzi en la flanka strio de { -brand-short-name }. Ni montros detalojn pri ĉiu dialoganto kiam vi elektas ĝin. Ŝanĝu la dialoganton iam ajn. <a data-l10n-name="learn-more">Pli da informo</a>
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-choose-description = Ŝanĝu iam ajn. Jen <a data-l10n-name="learn-more">pli da informo</a> por helpi vin elekti.
 genai-onboarding-primary = Daŭrigi
 genai-onboarding-secondary = Fermi
 genai-onboarding-claude-tooltip =
@@ -158,3 +161,9 @@ genai-onboarding-lechat-price = Senpage; konto postulata
 
 ## Model Optin Component
 
+genai-model-optin-continue =
+    .label = Daŭrigi
+genai-model-optin-optout =
+    .label = Nuligi
+genai-model-optin-cancel =
+    .label = Nuligi

@@ -11,6 +11,7 @@ label-more-information = Pli da informo: eraro { $bug }
 label-overrides = Anstataŭigo de agento de uzanto
 text-disabled-in-about-config = Tiu ĉi trajto estis malaktivigita en about:config
 text-no-interventions = Neniu uzata interveno
+text-page-title = TTT-Kongruo
 text-no-overrides = Neniu uzata anstataŭigo de agento de uzanto
 text-title = about:compat
 
