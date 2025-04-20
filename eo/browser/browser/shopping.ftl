@@ -276,20 +276,54 @@ shopping-callout-opt-in-integrated-headline = Ĉu vi povas fidi tiujn ĉi recenz
 shopping-callout-not-opted-in-integrated-paragraph1 = Ŝaltu la kontrolilon de recenzoj de { -brand-product-name } por scii. Ĝi estas pelata de { -fakespot-brand-full-name } kaj uzas A.I. teknologion por analizi recenzojn.
 shopping-callout-not-opted-in-integrated-paragraph2 = Se vi elektas “{ shopping-opt-in-integrated-button }“ vi akceptas la <a data-l10n-name="privacy_policy">politikon pri privateco</a> de { -brand-product-name } kaj la <a data-l10n-name="terms_of_use">kondiĉojn de uzo</a> de { -fakespot-brand-full-name }.
 shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Ignori
+shopping-callout-not-opted-in-integrated-reminder-accept-button = Ŝalti la kontrolilon de recenzoj
+shopping-callout-not-opted-in-integrated-reminder-do-not-show = Ne plu montri tiun ĉi rekomendon
+shopping-callout-not-opted-in-integrated-reminder-show-fewer = Montri malpli da rekomendoj
+shopping-callout-not-opted-in-integrated-reminder-manage-settings = Administri agordojn
+shopping-opt-in-integrated-privacy-policy-and-terms-of-use = La kontrolilo de recenzoj estas pelata de { -fakespot-brand-full-name }. Se vi elektas “{ shopping-opt-in-integrated-button }“ vi akceptas la <a data-l10n-name="privacy_policy">politikon pri privateco</a> de { -brand-product-name } kaj la <a data-l10n-name="terms_of_use">kondiĉojn de uzo</a> de { -fakespot-brand-name }.
+shopping-opt-in-integrated-button = Provi la kontrolilon de recenzoj
 
 ## Message strings for Review Checker's empty states.
 
+shopping-empty-state-header = Preta kontroli recenzojn
+shopping-empty-state-supported-site = Rigardu produkton kaj { -brand-product-name } kontrolos ĉu la recenzoj estas fidindaj.
+# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
+# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
+shopping-empty-state-non-supported-site = La kontrolilo de recenzoj funkcias kiam vi aĉetas ĉe:
 
 ## Confirm disabling Review Checker for newly opted out users
 
+shopping-integrated-callout-opted-out-title = La kontrolilo de recenzoj estas malŝaltita
+shopping-integrated-callout-opted-out-subtitle = Por reŝalti ĝin, elektu la prezan etikedon en la flanka strio kaj ŝaltu la kontrolilon de recenzoj.
 
 ## Callout for where to find Review Checker when the sidebar closes
 
+shopping-integrated-callout-sidebar-closed-title = Reen al la kontrolilo de recenzoj
+shopping-integrated-callout-sidebar-closed-subtitle = Elektu la prezan etikedon en la flanka strio por vidi ĉu vi povas fidi la recenzojn de produkto.
+shopping-integrated-callout-no-logo-sidebar-closed-subtitle = Elektu la butonon en la flanka strio por vidi ĉu vi povas fidi la recenzojn de produkto.
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-title = Sama kontrolilo de recenzoj, en alia loko.
+shopping-integrated-new-position-notification-move-right-subtitle = Gardu la kontrolilon de recenzoj kaj la ceteron de la flanka strio de { -brand-product-name } ĉi tie, aŭ movu ilin dekstren. Ŝanĝu tion iam ajn en la <a data-l10n-name="sidebar_settings">agordoj de la flanka strio</a>.
+shopping-integrated-new-position-notification-move-left-subtitle = Gardu la kontrolilon de recenzoj kaj la ceteron de la flanka strio de { -brand-product-name } ĉi tie, aŭ movu ilin maldekstren. Ŝanĝu tion iam ajn en la <a data-l10n-name="sidebar_settings">agordoj de la flanka strio</a>.
+shopping-integrated-new-position-notification-move-right-button = Movi dekstren
+shopping-integrated-new-position-notification-move-left-button = Movi maldekstren
+shopping-integrated-new-position-notification-dismiss-button = Mi komprenis
 
 ## Combined setting for auto-open and auto-close.
 
+shopping-settings-auto-open-and-close-toggle =
+    .label = Aŭtomate malfermi kaj fermi la kontrolilon de recenzoj
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-and-close-description-three-sites = Ĝi malfermiĝas kiam vi vidas produktojn ĉe { $firstSite }, { $secondSite } kaj { $thirdSite }. Ĝi fermiĝas kiam vi forlasas la retejon.
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-and-close-description-single-site = Ĝi malfermiĝas kiam vi vidas produktojn ĉe { $currentSite } kaj fermiĝas kiam vi forlasas la retejon.
