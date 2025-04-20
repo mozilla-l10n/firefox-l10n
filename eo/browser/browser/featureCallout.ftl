@@ -75,6 +75,7 @@ sidebar-button-callout-vertical-tabs = Por montri viajn langetojn, alklaku la bu
 ## Sidebar Vertical Tabs Strings
 
 vertical-tabs-callout-1-title = Ĉu superŝutita de langetoj?
+vertical-tabs-callout-1-subtitle = Provu nian novan aranĝon de vertikalaj langetoj por rapide trarigardi vian liston de langetoj. Fruaj testantoj raportas, ke tiu ĉi aranĝo helpas ilin senti sin pli organizitaj. Ŝanĝu iam ajn.
 vertical-tabs-callout-1-cta-button = Provi vertikalajn langetojn
 vertical-tabs-callout-2-cta-button = Provi nun
 vertical-tabs-callout-2-title = Ĉu vi gardas amason de malfermitaj langetoj? Provu vertikalajn langetojn.
@@ -83,9 +84,17 @@ vertical-tabs-callout-2-subtitle = Tiu aranĝo permesas rapidan trarigardon de v
 ## Sidebar Vertical Tabs Pinning Strings
 
 sidebar-pins-callout-title = Ĉu vi ne plu facile retrovas viajn gravajn langetojn?
+sidebar-pins-callout-subtitle = Provu alplingli ilin, kio tenas ilin ĉe la komenco de via listo de langetoj. Alklaku per la deksta butono la alpinglotan langeton kaj poste elektu Alpingli langeton.
+sidebar-pins-callout-cta-button = Alpingli langeton
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = Flanka strio: via loko por iloj kaj langetoj
+sidebar-customization-callout-1-subtitle = La flanka strio de { -brand-product-name } proponas al vi rapidan aliron al via retuma historio, langetoj el aliaj aparatoj kaj al A.I. dialoganto — sen devi forlasi la ĉefan vidon.
+sidebar-customization-callout-callout-button = Personecigi la flankan strion
+sidebar-customization-callout-dismiss-button = Kaŝi flankan strion
+sidebar-customization-callout-2-title = Personecigi la flankan strion de { -brand-product-name }
+sidebar-customization-callout-2-subtitle = Aldoni kaj forigi ilojn. Metu viajn langetojn en la flankan strion. Testu A.I. dialoganton. Kiel vi personecigas la flankan ilaron, tio estas via decido.
 
 ## Sidebar Callout Survey Strings
 
