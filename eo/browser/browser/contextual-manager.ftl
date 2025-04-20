@@ -116,6 +116,20 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] Forigi
        *[other] Forigi ĉiujn
     }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] Tio ĉi forigos vian pasvorton konservita en { -brand-short-name } kaj eventualajn atentigojn pri datumfuĝo. Tiu ĉi ago ne estas malfarebla.
+       *[other] This will remove the passwords saved to { -brand-short-name } and any breach alerts. You cannot undo this action.
+    }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] Tio ĉi forigos la pasvorton konservita en { -brand-short-name } en ĉiuj viaj spegulitaj aparatoj kaj eventualajn datumfuĝajn atentigojn. Tiu ĉi ago ne estas malfarebla.
+       *[other] This will remove all passwords saved to { -brand-short-name } on all your synced devices and remove any breach alerts. You cannot undo this action.
+    }
 contextual-manager-passwords-origin-label = Retejo
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = Nomo de uzanto
