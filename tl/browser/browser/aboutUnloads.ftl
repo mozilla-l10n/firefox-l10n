@@ -6,7 +6,12 @@
 ### Strings used in about:unloads, allowing users to manage the "tab unloading"
 ### feature.
 
+about-unloads-page-title = Pag-a-unload ng Tab
+about-unloads-button-unload = I-unload
+    .title = I-unload ang tab na may pinakamataas na priyoridad
+about-unloads-no-unloadable-tab = Walang mga tab na maaaring ma-unload.
 about-unloads-column-host = Host
+about-unloads-column-last-accessed = Huling Na-access
 about-unloads-column-memory = Memory
     .title = Tab’s estimated memory usage
 about-unloads-column-processes = Process IDs

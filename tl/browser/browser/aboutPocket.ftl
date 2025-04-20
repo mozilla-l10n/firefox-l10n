@@ -16,10 +16,12 @@ pocket-panel-saved-error-tag-length = Limitado ang mga tag sa 25 character
 pocket-panel-saved-error-only-links = Tanging mga link lamang ay maaaring i-save
 pocket-panel-saved-error-not-saved = Pahina ay hindi na I-save
 pocket-panel-saved-error-no-internet = Kailangang konektado ka sa internet upang ito ay masave sa { -pocket-brand-name }. Pakitingnan ang iyong koneksyon at subukan uli.
+pocket-panel-saved-error-remove = Nagkaroon ng error habang sinusubukang tanggalin ang pahinang ito.
 pocket-panel-saved-page-removed = Inalis ang Pahina
 pocket-panel-saved-page-saved = I-save sa { -pocket-brand-name }
 pocket-panel-saved-page-saved-b = Na-save sa { -pocket-brand-name }!
 pocket-panel-saved-processing-remove = Inaalis ang Pahina…
+pocket-panel-saved-removed-updated = Tinanggal ang Pahina sa Mga Naka-save
 pocket-panel-saved-processing-tags = Dinadagdagan ang tanda...
 pocket-panel-saved-remove-page = Alisin ang Pahina
 pocket-panel-saved-save-tags = I-save
@@ -54,9 +56,11 @@ pocket-panel-home-new-user-message = Tingnan ang iyong kamakailang pag-save dito
 
 ## Pocket panel header component
 
+pocket-panel-header-my-saves = Tingnan ang Aking Mga Nai-save
 pocket-panel-header-sign-in = Mag sign-in
 
 ## Pocket panel buttons
 
 pocket-panel-button-show-all = Ipakita Lahat
+pocket-panel-button-activate = I-activate ang { -pocket-brand-name } sa { -brand-product-name }
 pocket-panel-button-remove = Tanggalin

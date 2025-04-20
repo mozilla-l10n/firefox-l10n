@@ -24,9 +24,14 @@ about-private-browsing-hide-activity = Itago ang iyong aktibidad at lokasyon, sa
 about-private-browsing-get-privacy = Kumuha ng proteksyon saan ka man mag browse
 about-private-browsing-prominent-cta = Manatiling ligtas at pribado { -mozilla-vpn-brand-name }
 about-private-browsing-focus-promo-cta = i-Download { -focus-brand-name }
+about-private-browsing-focus-promo-header = { -focus-brand-name }: Pribadong pagba-browse saanman, kailanman
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
+about-private-browsing-focus-promo-header-b = Dalhin ang pribadong pagba-browse sa iyong telepono
+about-private-browsing-focus-promo-text-b = Gamitin ang { -focus-brand-name } para sa mga pribadong paghahanap na hindi mo gustong makita ng pangunahing mobile browser mo.
+about-private-browsing-focus-promo-header-c = Next-level na privacy sa mobile
+about-private-browsing-focus-promo-text-c = Laging binubura ng { -focus-brand-name } ang kasaysayan mo habang hinaharang ang mga ad at tracker.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -44,14 +49,18 @@ about-private-browsing-promo-close-button =
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
+about-private-browsing-pin-promo-header = Pribado at malayang pagba-browse sa isang click
 about-private-browsing-pin-promo-link-text =
     { PLATFORM() ->
         [macos] i-Pin sa Dock
        *[other] i-Pin sa taskbar
     }
+about-private-browsing-pin-promo-title = Walang naka-save na cookie o kasaysayan sa desktop mo mismo. Mag-browse na parang walang nagmamasid.
 
 ## Strings used in a promotion message for cookie banner reduction
 
 
 ## Strings for Felt Privacy v1 experiments in 119
 
+about-private-browsing-felt-privacy-v1-info-header = Wag magiwan ng bakas sa device na ito
+about-private-browsing-felt-privacy-v1-info-link = Sino ang maaaring makakita ng aking aktibidad?

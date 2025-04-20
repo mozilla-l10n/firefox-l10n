@@ -376,6 +376,7 @@ about-logins-import-dialog-error-try-import-again = Subukan Muling Mag-import…
 about-logins-import-dialog-error-cancel = Kanselahin
 about-logins-import-report-title = Buod ng Pag-import
 about-logins-import-report-description = Na-import ang mga login at password sa { -brand-short-name }.
+about-logins-import-report-description2 = Na-import na ang mga password sa { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -383,6 +384,7 @@ about-logins-import-report-row-index = Hanay { $number }
 about-logins-import-report-row-description-no-change = Magkapareho: Eksaktong tugma ng umiiral na login
 about-logins-import-report-row-description-modified = Binago ang umiiral na login
 about-logins-import-report-row-description-added = Nadagdag ang bagong login
+about-logins-import-report-row-description-added2 = Naidagdag na ang bagong password
 about-logins-import-report-row-description-error = Error: Nawawalang patlang
 
 ##
