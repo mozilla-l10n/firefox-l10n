@@ -36,3 +36,8 @@ experimental-features-custom-wallpaper-description = Alŝutu vian propran ekranf
 # Link Previews with AI
 experimental-features-link-previews =
     .label = Antaŭmontro de ligiloj
+experimental-features-link-previews-description =
+    { PLATFORM() ->
+        [macos] Por scii pli pri retpaĝo, antaŭ ol alklaki ĝin, metu la montrilon super la ligilon kaj premu Maj (⇧) kaj la klavon Option (⌥) aŭ Alt. Antaŭmontro povas inkluzivi detalojn kiel titolon kaj legotempon. Por kelkaj paĝoj, A.I. povas ankaŭ legi la tekston kaj krei liston de ĉefaj punktoj. La A.I. estas optimumigita por lego kaj kreado de anglalingvaj tekstoj. Por prioritatigi vian privatecon, la A.I. funkcias surloke, en via komputilo. <a data-l10n-name="connect">Dividi komentojn</a>
+       *[other] Por scii pli pri retpaĝo, antaŭ ol alklaki ĝin, metu la montrilon super la ligilon kaj premu Maj (⇧) kaj Alt. Antaŭmontro povas inkluzivi detalojn kiel titolon kaj legotempon. Por kelkaj paĝoj, A.I. povas ankaŭ legi la tekston kaj krei liston de ĉefaj punktoj. La A.I. estas optimumigita por lego kaj kreado de anglalingvaj tekstoj. Por prioritatigi vian privatecon, la A.I. funkcias surloke, en via komputilo. <a data-l10n-name="connect">Dividi komentojn</a>
+    }
