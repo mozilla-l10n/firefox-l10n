@@ -246,7 +246,7 @@ migration-wizard-progress-extensions-support-link = Pli da informo pri kiel { -b
 # Shown in the migration wizard if there are no matched extensions
 # on import from supported browsers.
 migration-wizard-progress-no-matched-extensions = Neniu identigita etendaĵo
-migration-wizard-progress-extensions-addons-link = Esplori etendaĵoj por { -brand-short-name }
+migration-wizard-progress-extensions-addons-link = Esplori etendaĵojn por { -brand-short-name }
 
 ##
 
