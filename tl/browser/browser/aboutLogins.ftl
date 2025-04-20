@@ -4,6 +4,17 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Mga Login at Password
+about-logins-login-filter =
+    .placeholder = Maghanap ng Mga Login
+    .key = F
+create-new-login-button =
+    .title = Gumawa ng bagong login
+about-logins-page-title-name = Mga password
+about-logins-login-filter2 =
+    .placeholder = Maghanap ng mga Password
+    .key = F
+create-login-button =
+    .title = Magdagdag ng password
 fxaccounts-sign-in-text = Kuhanin ang iyong mga password sa iba mong mga device
 fxaccounts-sign-in-sync-button = Mag-sign in sa sync
 fxaccounts-avatar-button =
@@ -18,6 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = Mag-import mula sa Iban
 about-logins-menu-menuitem-import-from-a-file = Kunin mula sa File…
 about-logins-menu-menuitem-export-logins = i-Export ang mga Login…
 about-logins-menu-menuitem-remove-all-logins = Alisin Lahat ng Login...
+about-logins-menu-menuitem-export-logins2 = I-export ang mga Password…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Mga Kagustuhan

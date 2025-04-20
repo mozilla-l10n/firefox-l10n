@@ -6,8 +6,8 @@ aboutDialog-title =
     .title = Tungkol sa { -brand-full-name }
 releaseNotes-link = Ano ang bago
 update-checkForUpdatesButton =
-    .label = Magsiyasat ng mga pagbabago
-    .accesskey = C
+    .label = Tingnan kung may update
+    .accesskey = T
 update-updateButton =
     .label = Mag-restart para ma-update ang { -brand-shorter-name }
     .accesskey = R
@@ -25,7 +25,9 @@ update-applying = Inilalapat ang update...
 update-failed = Bigo ang pag-update. <label data-l10n-name="failed-link">I-download ang pinakabagong bersyon</label>
 update-failed-main = Bigo ang pag-update. <a data-l10n-name="failed-link-main">I-download ang pinakabagong bersyon</a>
 update-adminDisabled = Ang pagdadagdag ng mga pagbabago ay pinawalang bisa ng iyong system administrator.
+update-policy-disabled = Ang pag-uupdate ay ipinagbabawal ng iyong organisasyon
 update-noUpdatesFound = Ang { -brand-short-name } ay up to date
+aboutdialog-update-checking-failed = Nagkaproblema sa paghahanap ng bagong update.
 update-otherInstanceHandlingUpdates = Ang { -brand-short-name } ay kasalukuyang ina-update ng isa pang instance
 
 ## Variables:
@@ -35,6 +37,7 @@ aboutdialog-update-manual-with-link = Ang mga update ay matatagpuan sa <label da
 settings-update-manual-with-link = Ang mga update ay matatagpuan sa <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Hindi ka na maaaring makapag-update sa sistemang ito. <label data-l10n-name="unsupported-link">Alamin</label>
 update-restarting = Nag-rerestart...
+update-internal-error2 = Hindi masuri ang mga update dahil sa internal na error. Available ang mga update sa <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
 

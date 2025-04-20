@@ -81,3 +81,16 @@ about-logging-upload-button = Бор кардан
 # Variables:
 #   $path (string) - The path where the profile can be found.
 about-logging-saved = Дар { $path } нигоҳ дошта шуд
+# Variables:
+#   $percent (number) - The upload completion progress, to be displayed as a percentage. This is a value between 0 and 1.
+about-logging-uploading-progress = Боркунии маълумоти профил: { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+# Variables:
+#   $url (string) - The URL where the profile can be found
+about-logging-uploaded = Ба <a data-l10n-name="uploaded-message-url">{ $url }</a> бор карда шуд
+about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Мубодилаи нишонии «URL»
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-upload-error = Ҳангоми боркунии профил хато ба миён омад: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-save-error = Ҳангоми нигоҳ доштани файл хато ба миён омад: { $errorText }
