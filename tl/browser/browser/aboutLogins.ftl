@@ -48,6 +48,29 @@ login-list-count =
         [one] { $count } login
        *[other] { $count } login
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [one] { $current } ng { $total } login
+       *[other] { $count } ng { $total } mga login
+    }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } password
+       *[other] { $count } mga password
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } ng { $total } na  password
+       *[other] { $count } ng { $total } na mga password
+    }
 login-list-sort-label-text = Pagsunud-sunurin ayon sa:
 login-list-name-option = Pangalan (A-Z)
 login-list-name-reverse-option = Pangalan (Z-A)
@@ -57,11 +80,14 @@ about-logins-login-list-alerts-option = Mga Alerto
 login-list-last-changed-option = Huling Binago
 login-list-last-used-option = Huling Ginamit
 login-list-intro-title = Walang natagpuang mga login
+login-list-intro-title2 = Walang mga password na naka-save
 login-list-intro-description = Kapag nagse-save ka ng isang password sa { -brand-product-name }, lalabas iyon dito.
 about-logins-login-list-empty-search-title = Walang natagpuang mga login
+about-logins-login-list-empty-search-title2 = Walang nakitang password
 about-logins-login-list-empty-search-description = Walang resultang tumugma sa iyong hinahanap.
 login-list-item-title-new-login = Bagong Login
 login-list-item-subtitle-new-login = Ipasok ang iyong mga login credential
+login-list-item-title-new-login2 = Magdagdag ng password
 login-list-item-subtitle-missing-username = (walang username)
 about-logins-list-item-breach-icon =
     .title = Breached website
@@ -87,10 +113,14 @@ about-logins-intro-import2 = Kung naka-save ang mga login mo sa labas ng { -bran
 ## Login
 
 login-item-new-login-title = Gumawa ng Panibagong Login
+# Header for adding a password
+about-logins-login-item-new-login-title = Magdagdag ng password
 login-item-edit-button = Baguhin
 about-logins-login-item-remove-button = Tanggalin
 login-item-origin-label = Website Address
 login-item-tooltip-message = Tiyaking tumutugma ito sa eksaktong address ng website kung saan ka nag-log in.
+about-logins-origin-tooltip2 = Ilagay ang buong address at tiyaking eksaktong tugma ito para sa kung saan ka magsa-sign in.
+about-logins-add-password-tooltip = Tiyaking sine-save mo ang iyong kasalukuyang password para sa site na ito.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Username
@@ -104,6 +134,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Kopyahin
 login-item-copied-password-button-text = Nakopya na!
 login-item-save-changes-button = I-Save ang mga Pagbabago
+about-logins-login-item-save-changes-button = I-save
 login-item-save-new-button = i-Save
 login-item-cancel-button = Ikansela
 
@@ -111,6 +142,9 @@ login-item-cancel-button = Ikansela
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+login-item-timeline-action-created = Ginawa
+login-item-timeline-action-updated = Na-update
+login-item-timeline-action-used = Ginamit
 
 ## OS Authentication dialog
 
@@ -125,6 +159,11 @@ about-logins-edit-login-os-auth-dialog-message-win = Para mabago ang iyong login
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = i-edit ang naka-save na login
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = Upang i-edit ang iyong password, ilagay ang iyong mga kredensyal sa pag-log in sa Windows. Nakakatulong ito na protektahan ang seguridad ng iyong mga account.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = i-edit ang naka-save na password
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Para makita ang iyong password, ipasok ang iyong mga Windows login credential. Nakatutulong ito protektahan ang seguridad ng iyong mga account.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -140,6 +179,9 @@ about-logins-export-password-os-auth-dialog-message-win = Para ma-export ang iyo
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = mag-export ng mga naka-save na login at password
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = i-export ang mga naka-save na password
 
 ## Primary Password notification
 
@@ -155,6 +197,8 @@ confirmation-dialog-dismiss-button =
     .title = Kanselahin
 about-logins-confirm-remove-dialog-title = Alisin ang login?
 confirm-delete-dialog-message = Hindi na pwedeng bawiin ang kilos na ito.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Alisin ang password?
 about-logins-confirm-remove-dialog-confirm-button = Tanggalin
 
 ## Variables
