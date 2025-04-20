@@ -45,6 +45,7 @@ about-logging-preset-media-playback-description = Registraj moduloj por diagnozi
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Registraj moduloj por diagnozi problemojn kun vokoj WebRTC
 about-logging-preset-webcodecs-label = WebCodecs
+about-logging-preset-webcodecs-description = Registraj moduloj por diagnozi problemojn kun la (mal)kodiloj de aŭdvidaĵoj WebCoded, kaj kun la malkodiloj de bildoj.
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Registraj moduloj por diagnozi problemojn kun WebGPU
 about-logging-preset-gfx-label = Grafikoj
@@ -65,8 +66,30 @@ about-logging-unknown-profiler-preset = Nekonata antaŭdifinita agordo de rulana
 about-logging-unknown-option = Nekonata elekteblo de about:logging “{ $k }“
 about-logging-configuration-url-ignored = Ignorita agorda URL
 about-logging-file-and-profiler-override = Ne eblas registri en dosiero kaj samtempe superregi la elekteblojn de la rulanalizilo
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-unknown-error = Okazis eraro: { $errorText }
 about-logging-configured-via-url = Elekteblo agordita per URL
 
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
+about-logging-upload-question = La datumojn de profilo estis kaptitaj. Ĉu vi volas konservi aŭ alŝuti ilin?
+about-logging-save-button = Konservi
+about-logging-upload-button = Alŝuti
+# Variables:
+#   $path (string) - The path where the profile can be found.
+about-logging-saved = Konservita en { $path }
+# Variables:
+#   $percent (number) - The upload completion progress, to be displayed as a percentage. This is a value between 0 and 1.
+about-logging-uploading-progress = Datumoj de profilo alŝutataj: { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+# Variables:
+#   $url (string) - The URL where the profile can be found
+about-logging-uploaded = Alŝutitaj al <a data-l10n-name="uploaded-message-url">{ $url }</a>
+about-logging-share-uploaded-url = <img data-l10n-name="share-image"/>Dividi retadreson
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-upload-error = Eraro okazis dum alŝuto de profilo: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-save-error = Eraro okazis dum konservo de profilo: { $errorText }

@@ -449,3 +449,17 @@ newtab-custom-wallpaper-cta = ഉപയോഗിച്ചു് നോക്ക�
 
 newtab-report-ads-reason-not-interested =
     .label = എനിക്കിതിൽ താല്പര്യമില്ല
+newtab-report-ads-reason-inappropriate =
+    .label = ഇതു് തകാത്തതാണു്
+newtab-report-ads-reason-seen-it-too-many-times =
+    .label = ഇതു ഞാൻ ഒരുപാടു് വട്ടം കണ്ടിട്ടുണ്ടു്
+newtab-report-content-wrong-category =
+    .label = തെറ്റായയിനം
+newtab-report-content-outdated =
+    .label = പഴയതു്
+newtab-report-content-spam-misleading =
+    .label = പാഴുള്ളടക്കം അല്ലെങ്കിൽ തെറ്റിദ്ധരിപ്പിക്കുന്നതു്.
+newtab-report-cancel = റദ്ദാക്കുക
+newtab-report-submit = സമൎപ്പിക്കുക
+newtab-toast-thanks-for-feedback =
+    .message = താങ്കളുടെ പ്രതികരണത്തിനു് നന്ദി

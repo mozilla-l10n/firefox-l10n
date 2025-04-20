@@ -25,6 +25,7 @@ return-to-amo-subtitle = അടിപൊളി, താങ്ങൾക്കു�
 return-to-amo-addon-title = ഇപ്പോൾ താങ്ങളോടു് കൊണ്ടുവരാം <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
 return-to-amo-add-extension-label = വിപുലീകരണം ചേർക്കുക
 return-to-amo-add-theme-label = അലങ്കാരം ചേൎക്കുക
+return-to-amo-theme-install-complete-label = അലങ്കാരം സ്ഥാപിച്ചു
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
