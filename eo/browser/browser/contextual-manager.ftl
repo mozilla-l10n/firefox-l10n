@@ -192,22 +192,89 @@ contextual-manager-passwords-change-password-button = Ŝanĝi pasvorton
 contextual-manager-passwords-vulnerable-password-heading-and-message =
     .heading = Ŝanĝo de pasvorto rekomendita
     .message = Tiu ĉi pasvorto estas facile divenebla. Ŝanĝu vian pasvorton por protekti vian konton.
+contextual-manager-passwords-vulnerable-password-link-message = Kiel { -brand-product-name } scias ĉu pasvorto estas malforta?
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Aldoni nomon de uzanto
+    .message = Aldoni nomon de uzanto por pli rapide komenci seancon.
+contextual-manager-passwords-add-username-button = Aldoni nomon de uzanto
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Aldoni pasvorton
+contextual-manager-passwords-edit-label =
+    .label = Modifi pasvorton
+contextual-manager-passwords-remove-label =
+    .title = Forigi pasvorton
+contextual-manager-passwords-origin-tooltip = Tajpu la ekzaktan adreson, kie vi komencos seancon en tiu ĉi retejo.
+contextual-manager-passwords-username-tooltip = Tajpu la nomon de uzanto, retpoŝtan adreson, aŭ numeron de konto, kiun vi uzos por komenci seancon.
+contextual-manager-passwords-password-tooltip = Tajpu la pasvorton, kiun vi uzas por komenci seancon per tiu ĉi konto.
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = Pasvortoj
+contextual-manager-website-icon =
+    .alt = Emblemo de retejo
 contextual-manager-copy-icon =
     .alt = Kopii
+contextual-manager-check-icon-username =
+    .alt = Kopiita
+contextual-manager-check-icon-password =
+    .alt = Kopiita
+contextual-manager-alert-icon =
+    .alt = Averto
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = Viziti { $url }
+    .title = Viziti { $url }
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = Viziti { $url } (Averto)
+    .title = Viziti { $url } (Averto)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = Kopii nomon de uzanto { $username }
+    .title = Kopii nomon de uzanto { $username }
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = Kopii nomon de uzanto { $username } (Averto)
+    .title = Kopii nomon de uzanto { $username } (Averto)
+contextual-manager-password-login-line =
+    .aria-label = Kopii pasvorton
+    .title = Kopii pasvorton
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = Kopii pasvorton (Averto)
+    .title = Kopii pasvorton (Averto)
+contextual-manager-edit-login-button = Modifi
+    .tooltiptext = Modifi pasvorton
+contextual-manager-view-alert-heading =
+    .heading = Montri atentigon
+contextual-manager-view-alert-button =
+    .tooltiptext = Revizii atentigon
+contextual-manager-show-password-button =
+    .aria-label = Montri pasvorton
+    .title = Montri pasvorton
+contextual-manager-hide-password-button =
+    .aria-label = Kaŝi pasvorton
+    .title = Kaŝi pasvorton
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = Neniu pasvorto trovita
+contextual-manager-passwords-no-passwords-found-message = Neniu pasvorto trovita. Provu serĉi ion alian.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = Konservu viajn pasvortojn en sekura ejo.
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
