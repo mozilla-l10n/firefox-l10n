@@ -129,6 +129,7 @@ newtab-menu-section-unfollow = Ne plu sekvi temon
 
 newtab-menu-manage-sponsored-content = Administri patronitan enhavon
 newtab-menu-our-sponsors-and-your-privacy = Niaj patronoj kaj via privateco
+newtab-menu-report-this-ad = Raporti tiun ĉi reklamon
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -385,6 +386,7 @@ newtab-wallpaper-starry-canyon = Blua steloplena nokto
 newtab-wallpaper-suspension-bridge = Griza foto de pendponto dum tago
 newtab-wallpaper-sand-dunes = Blankaj sablomontetoj
 newtab-wallpaper-palm-trees = Konturo de kokosaj palmarboj dum sunsubiro
+newtab-wallpaper-blue-flowers = Deproksima foto de blu-petalaj floroj en florado
 newtab-wallpaper-forest-trees = Arboj kovritaj de nebulo
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
@@ -520,6 +522,14 @@ newtab-section-mangage-topics-followed-topics = Sekvataj
 newtab-section-mangage-topics-followed-topics-empty-state = Vi ankoraŭ sekvas neniun temon.
 newtab-section-mangage-topics-blocked-topics = Blokitaj
 newtab-section-mangage-topics-blocked-topics-empty-state = Vi ankoraŭ blokas neniun temon.
+newtab-custom-wallpaper-title = Tie ĉi troviĝas personecigitaj ekranfonoj
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle = Alŝutu vian propran ekranfonon aŭ elektu koloron por personecigi { -brand-product-name }.
+newtab-custom-wallpaper-cta = Provi
 
 ## Strings for reporting ads and content
 
+newtab-report-content-why-reporting-this =
+    .label = Kial vi raportas tion ĉi?
+newtab-report-ads-reason-not-interested =
+    .label = Tio ne interesas min
