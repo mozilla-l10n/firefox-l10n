@@ -309,6 +309,16 @@ discopane-intro2 =
     muito mais. Estes pequenos programas de software são geralmente desenvolvidos por terceiros. Eis
     uma seleção que o { -brand-product-name } <a data-l10n-name="learn-more-trigger">recomenda</a>
     para uma segurança, desempenho e funcionalidade excecionais.
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 =
+    As extensões e os temas permitem-lhe personalizar o { -brand-product-name }. Estas podem aumentar a privacidade,
+    melhorar a produtividade, otimizar a multimédia, alterar o aspeto do { -brand-product-name } e
+    muito mais. Estes pequenos programas de software são geralmente desenvolvidos por terceiros. Aqui
+    tem uma seleção que o { -brand-product-name } <a data-l10n-name="learn-more-trigger">recomenda</a>
+    para uma segurança, desempenho e funcionalidade excecionais.
 
 ## Add-on actions
 
@@ -444,8 +454,22 @@ addon-badge-recommended3 =
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Extensão oficial desenvolvida pela Mozilla. Cumpre as recomendações de segurança e de desempenho.
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are performing the
+# security or performance reviews. As such, we avoid personalising language
+# like the words "our" or "we".
+addon-badge-verified4 =
+    .title = Esta extensão foi revista para cumprir com os nossos padrões de segurança e desempenho
 addon-badge-verified3 =
     .title = Esta extensão foi revista para cumprir com os nossos padrões de segurança e desempenho
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are making the
+# recommendation. As such, we hard code "Firefox" and avoid personalising
+# language like the words "our" or "we".
+addon-badge-recommended4 =
+    .title = O Firefox apenas recomenda as extensões que correspondam aos nossos padrões para segurança e desempenho.
 
 ##
 
