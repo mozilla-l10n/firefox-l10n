@@ -256,9 +256,26 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 # Opt-in message strings for Review Checker when it is integrated into the global sidebar.
 shopping-opt-in-integrated-headline = Aĉetumu senzorge
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle = Ŝaltu la kontrolilon de recenzoj de { -brand-product-name } por vidi kiel fidindaj estas la recenzoj, antaŭ ol vi aĉetas. Ĝi uzas A.I. teknologion por analizi recenzojn kaj funkcias kiam vi aĉetas ĉe { $firstSite }, { $secondSite } kaj { $thirdSite }. <a data-l10n-name="learn_more">Pli da informo</a>
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-opt-in-integrated-subtitle-unsupported-site = La kontrolilo de recenzoj de { -brand-product-name } helpas vin scii kiel fidindaj estas la recenzoj de produkto, antaŭ ol vi ĝin aĉetas. Ĝi uzas A.I. teknologion por analizi recenzojn kaj funkcias kiam vi aĉetas ĉe { $firstSite }, { $secondSite } kaj { $thirdSite }. <a data-l10n-name="learn_more">Pli da informo</a>
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-opt-in-integrated-headline = Ĉu vi povas fidi tiujn ĉi recenzojn?
+# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
+shopping-callout-not-opted-in-integrated-paragraph1 = Ŝaltu la kontrolilon de recenzoj de { -brand-product-name } por scii. Ĝi estas pelata de { -fakespot-brand-full-name } kaj uzas A.I. teknologion por analizi recenzojn.
+shopping-callout-not-opted-in-integrated-paragraph2 = Se vi elektas “{ shopping-opt-in-integrated-button }“ vi akceptas la <a data-l10n-name="privacy_policy">politikon pri privateco</a> de { -brand-product-name } kaj la <a data-l10n-name="terms_of_use">kondiĉojn de uzo</a> de { -fakespot-brand-full-name }.
+shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Ignori
 
 ## Message strings for Review Checker's empty states.
 

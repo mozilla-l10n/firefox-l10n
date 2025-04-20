@@ -25,3 +25,9 @@ experimental-features-group-webpage-display =
     .label = Montro de retpaĝoj
 experimental-features-group-customize-browsing =
     .label = Personecigu vian retumon
+# Contextual Password Manager in sidebar
+experimental-features-contextual-password-manager =
+    .label = Pasvortoj en la flanka strio
+# Link Previews with AI
+experimental-features-link-previews =
+    .label = Antaŭmontro de ligiloj
