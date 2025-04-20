@@ -31,6 +31,15 @@ sidebar-history-sort-by-site =
     .label = Ordigi laŭ retejo
 sidebar-history-clear =
     .label = Viŝi historion
+sidebar-history-sort-by-heading = Ordigi laŭ:
+sidebar-history-sort-option-date =
+    .label = Dato
+sidebar-history-sort-option-site =
+    .label = Retejo
+sidebar-history-sort-option-date-and-site =
+    .label = Dato kaj retejo
+sidebar-history-sort-option-last-visited =
+    .label = Lasta vizito
 
 ## Labels for sidebar search
 
