@@ -127,8 +127,8 @@ contextual-manager-passwords-remove-all-message =
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-message-sync =
     { $total ->
-        [1] Tio ĉi forigos la pasvorton konservita en { -brand-short-name } en ĉiuj viaj spegulitaj aparatoj kaj eventualajn datumfuĝajn atentigojn. Tiu ĉi ago ne estas malfarebla.
-       *[other] This will remove all passwords saved to { -brand-short-name } on all your synced devices and remove any breach alerts. You cannot undo this action.
+        [1] Tio ĉi forigos la pasvorton konservita en { -brand-short-name } en ĉiuj viaj spegulitaj aparatoj kaj forigos eventualajn datumfuĝajn atentigojn. Tiu ĉi ago ne estas malfarebla.
+       *[other] Tio ĉi forigos la pasvortojn konservitaj en { -brand-short-name } en ĉiuj viaj spegulitaj aparatoj kaj forigos eventualajn datumfuĝajn atentigojn. Tiu ĉi ago ne estas malfarebla.
     }
 contextual-manager-passwords-origin-label = Retejo
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
@@ -184,7 +184,14 @@ contextual-manager-passwords-alert-back-button =
     .label = Malantaŭen
 contextual-manager-passwords-alert-list =
     .aria-label = Listo de avertoj
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = Ŝanĝo de pasvorto rekomendita
+    .message = Pasvortoj el tiu ĉi retejo estis raportitaj kiel ŝtelitaj aŭ diskonigitaj. Ŝanĝu vian pasvorton por protekti vian konton.
+contextual-manager-passwords-breached-origin-link-message = Kiel { -brand-product-name } scias pri datumfuĝoj?
 contextual-manager-passwords-change-password-button = Ŝanĝi pasvorton
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = Ŝanĝo de pasvorto rekomendita
+    .message = Tiu ĉi pasvorto estas facile divenebla. Ŝanĝu vian pasvorton por protekti vian konton.
 
 ## Login Form
 
