@@ -299,6 +299,12 @@ shopping-integrated-new-position-notification-dismiss-button = Anladım
 
 shopping-settings-auto-open-and-close-toggle =
     .label = Değerlendirme kontrolcüsünü otomatik olarak aç ve kapat
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-and-close-description-three-sites = { $firstSite }, { $secondSite } ve { $thirdSite } sitelerindeki ürünleri görüntülediğinizde açılır ve sitelerden çıktığınızda kapanır
 # Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
 # Variables:
 #   $currentSite (String) - The current shopping page name

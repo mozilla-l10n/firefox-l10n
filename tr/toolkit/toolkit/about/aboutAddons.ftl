@@ -301,6 +301,11 @@ addon-options-button =
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
 discopane-intro2 = Uzantılar ve temalar { -brand-product-name } tarayıcınızı özelleştirmenizi sağlar. Gizliliğinizi artırabilir, veriminizi yükseltebilir, multimedya oynatmayı iyileştirebilir, { -brand-product-name } tarayıcısının görünümünü değiştirebilir ve çok daha fazlasını yapabilirler. Bu küçük yazılım programları genellikle üçüncü şahıslar tarafından geliştirilir. Mükemmel güvenlik, performans ve işlevsellik için { -brand-product-name } ekibinin <a data-l10n-name="learn-more-trigger">önerdiği</a> bazı uzantı ve temaları keşfedin.
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 = Uzantılar ve temalar { -brand-product-name } tarayıcınızı özelleştirmenizi sağlar. Gizliliğinizi artırabilir, veriminizi yükseltebilir, multimedya oynatmayı iyileştirebilir, { -brand-product-name } tarayıcısının görünümünü değiştirebilir ve çok daha fazlasını yapabilirler. Bu küçük yazılım programları genellikle üçüncü şahıslar tarafından geliştirilir. Mükemmel güvenlik, performans ve işlevsellik için Firefox’un <a data-l10n-name="learn-more-trigger">önerdiği</a> bazı uzantı ve temaları keşfedin.
 
 ## Add-on actions
 
@@ -436,8 +441,22 @@ addon-badge-recommended3 =
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Resmi Mozilla uzantısı. Güvenlik ve performans standartlarını karşılar.
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are performing the
+# security or performance reviews. As such, we avoid personalising language
+# like the words "our" or "we".
+addon-badge-verified4 =
+    .title = Bu uzantı incelendi, güvenlik ve performans standartlarını karşıladığı onaylandı
 addon-badge-verified3 =
     .title = Bu uzantı incelendi, güvenlik ve performans standartlarımızı karşıladığı onaylandı
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are making the
+# recommendation. As such, we hard code "Firefox" and avoid personalising
+# language like the words "our" or "we".
+addon-badge-recommended4 =
+    .title = Firefox yalnızca güvenlik ve performans standartlarını karşılayan uzantıları önerir
 
 ##
 
