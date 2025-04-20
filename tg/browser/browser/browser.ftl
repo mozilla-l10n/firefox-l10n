@@ -196,6 +196,23 @@ urlbar-result-menu-learn-more-about-firefox-suggest =
 urlbar-result-menu-manage-firefox-suggest =
     .label = Идоракунии «{ -firefox-suggest-brand-name }»
     .accesskey = И
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative region (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location =
+    .label = Фиристодани гузориш дар бораи ҷойгиршавии нодуруст
+urlbar-result-menu-show-less-frequently =
+    .label = Бисёр маротиба нишон дода нашавад
+urlbar-result-menu-dont-show-weather-suggestions =
+    .label = Пешниҳодҳои обу ҳаво нишон дода нашаванд
+# A message shown in the urlbar when the user submits feedback on a suggestion
+# (e.g., it shows an inaccurate location, it's shown too often, etc.).
+urlbar-feedback-acknowledgment = Ташаккур барои изҳори назари шумо
+# A message shown in the urlbar when the user dismisses weather suggestions.
+# Weather suggestions won't be shown at all anymore.
+urlbar-dismissal-acknowledgment-weather = Ташаккур барои изҳори назари шумо. Ба шумо дигар пешниҳодҳои обу ҳаво нишон дода намешаванд.
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.

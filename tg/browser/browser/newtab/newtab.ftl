@@ -531,6 +531,14 @@ newtab-custom-wallpaper-cta = Озмоед
 
 ## Strings for reporting ads and content
 
+newtab-report-content-why-reporting-this =
+    .label = Чаро шумо дар бораи ин гузориш медиҳед?
+newtab-report-ads-reason-not-interested =
+    .label = Ман шавқманд нестам
+newtab-report-ads-reason-inappropriate =
+    .label = Ин номуносиб аст
+newtab-report-ads-reason-seen-it-too-many-times =
+    .label = Ман онро аз ҳад зиёд дидаам
 newtab-report-cancel = Бекор кардан
 newtab-report-submit = Пешниҳод кардан
 newtab-toast-thanks-for-feedback =
