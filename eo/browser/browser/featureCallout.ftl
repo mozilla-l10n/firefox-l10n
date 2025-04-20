@@ -74,9 +74,15 @@ sidebar-button-callout-vertical-tabs = Por montri viajn langetojn, alklaku la bu
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = Ĉu superŝutita de langetoj?
+vertical-tabs-callout-1-cta-button = Provi vertikalajn langetojn
+vertical-tabs-callout-2-cta-button = Provi nun
+vertical-tabs-callout-2-title = Ĉu vi gardas amason de malfermitaj langetoj? Provu vertikalajn langetojn.
+vertical-tabs-callout-2-subtitle = Tiu aranĝo permesas rapidan trarigardon de via listo de langetoj. Cetere, vi povas agordi la larĝon por vidi pli aŭ malpli longan parton de la titoloj.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = Ĉu vi ne plu facile retrovas viajn gravajn langetojn?
 
 ## Sidebar Onboarding Strings
 
