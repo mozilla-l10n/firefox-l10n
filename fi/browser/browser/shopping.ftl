@@ -244,15 +244,24 @@ shopping-opt-in-integrated-headline = Tee ostoksia luottavaisin mielin
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
 shopping-callout-opt-in-integrated-headline = Voitko luottaa näihin arvosteluihin?
+shopping-callout-not-opted-in-integrated-reminder-dismiss-button = Hylkää
+shopping-callout-not-opted-in-integrated-reminder-accept-button = Ota arvostelujen tarkistus käyttöön
 shopping-callout-not-opted-in-integrated-reminder-do-not-show = Älä näytä tätä suositusta uudelleen
 shopping-callout-not-opted-in-integrated-reminder-show-fewer = Näytä vähemmän suosituksia
 shopping-callout-not-opted-in-integrated-reminder-manage-settings = Hallitse asetuksia
+shopping-opt-in-integrated-button = Kokeile arvostelujen tarkistusta
 
 ## Message strings for Review Checker's empty states.
 
+shopping-empty-state-header = Valmiina tarkistamaan arvostelut
+shopping-empty-state-supported-site = Katso tuotetta ja { -brand-product-name } tarkistaa, ovatko arvostelut luotettavia.
+# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
+# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
+shopping-empty-state-non-supported-site = Arvostelujen tarkistus toimii, kun teet ostoksia:
 
 ## Confirm disabling Review Checker for newly opted out users
 
+shopping-integrated-callout-opted-out-title = Arvostelujen tarkistus on pois päältä
 
 ## Callout for where to find Review Checker when the sidebar closes
 
@@ -261,9 +270,22 @@ shopping-callout-not-opted-in-integrated-reminder-manage-settings = Hallitse ase
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-title = Sama arvostelujen tarkistus, uusi paikka
 shopping-integrated-new-position-notification-move-right-button = Siirrä oikealle
 shopping-integrated-new-position-notification-move-left-button = Siirrä vasemmalle
 shopping-integrated-new-position-notification-dismiss-button = Selvä
 
 ## Combined setting for auto-open and auto-close.
 
+shopping-settings-auto-open-and-close-toggle =
+    .label = Avaa ja sulje arvostelujen tarkistus automaattisesti
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-and-close-description-three-sites = Avautuu, kun tarkastelet tuotteita sivustoilla { $firstSite }, { $secondSite } ja { $thirdSite }, ja sulkeutuu sivustoilta poistuessasi
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-and-close-description-single-site = Avautuu, kun tarkastelet tuotteita sivustolla { $currentSite }, ja sulkeutuu, kun poistut sivustolta

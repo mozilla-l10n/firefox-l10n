@@ -36,3 +36,8 @@ experimental-features-custom-wallpaper-description = Lähetä oma taustakuva tai
 # Link Previews with AI
 experimental-features-link-previews =
     .label = Linkkien esikatselut
+experimental-features-link-previews-description =
+    { PLATFORM() ->
+        [macos] Saat lisätietoja verkkosivusta ennen napsauttamista viemällä hiiren linkin päälle ja painamalla Shift (⇧) ja Option (⌥) tai Alt. Esikatselut voivat sisältää tietoja, kuten otsikon ja lukuajan. Joillakin verkkosivuilla tekoäly voi myös lukea sivun tekstin ja luoda yhteenvedon. Tekoäly on optimoitu lukemaan ja luomaan englanninkielistä tekstiä. Yksityisyytesi varjelemiseksi tekoäly toimii paikallisesti tietokoneellasi. <a data-l10n-name="connect">Anna palautetta</a>
+       *[other] Saat lisätietoja verkkosivusta ennen napsauttamista viemällä hiiren linkin päälle ja painamalla Shift + Alt. Esikatselut voivat sisältää tietoja, kuten otsikon ja lukuajan. Joillakin verkkosivuilla tekoäly voi myös lukea sivun tekstin ja luoda yhteenvedon. Tekoäly on optimoitu lukemaan ja luomaan englanninkielistä tekstiä. Yksityisyytesi varjelemiseksi tekoäly toimii paikallisesti tietokoneellasi. <a data-l10n-name="connect">Anna palautetta</a>
+    }
