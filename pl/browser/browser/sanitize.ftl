@@ -59,6 +59,7 @@ history-section-label = Historia
 item-history-and-downloads =
     .label = Historia przeglądanych stron i pobranych plików
     .accesskey = H
+item-history-and-downloads-description2 = Usuwa historię witryn i pobierania
 item-history-and-downloads-description = Usuwa historię wyszukiwania, witryn i pobierania
 item-history-form-data-downloads =
     .label = Historia

@@ -206,6 +206,10 @@ addon-updates-manual-updates-found = Wyświetl dostępne aktualizacje
 
 addon-install-from-file = Zainstaluj dodatek z pliku…
     .accesskey = Z
+# Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
+# pref is set.
+addon-install-or-update-from-file = Zainstaluj lub zaktualizuj dodatek z pliku…
+    .accesskey = Z
 addon-install-from-file-dialog-title = Wybierz dodatek do zainstalowania
 addon-install-from-file-filter-name = Dodatki
 addon-open-about-debugging = Debuguj dodatki
@@ -298,6 +302,11 @@ addon-options-button =
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
 discopane-intro2 = Rozszerzenia i motywy pozwalają dostosować { -brand-product-name(case: "acc") }. Mogą polepszać prywatność, zwiększać produktywność, ulepszać multimedia, zmieniać wygląd { -brand-product-name(case: "gen") } i wiele więcej. Te małe programy są często tworzone przez osoby trzecie. Poniżej znajduje się wybór wyjątkowo bezpiecznych, wydajnych i funkcjonalnych dodatków <a data-l10n-name="learn-more-trigger">polecanych</a> przez { -brand-product-name(case: "acc") }.
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 = Rozszerzenia i motywy pozwalają dostosować { -brand-product-name(case: "acc") }. Mogą polepszać prywatność, zwiększać produktywność, ulepszać multimedia, zmieniać wygląd { -brand-product-name(case: "gen") } i wiele więcej. Te małe programy są często tworzone przez osoby trzecie. Poniżej znajduje się wybór wyjątkowo bezpiecznych, wydajnych i funkcjonalnych dodatków <a data-l10n-name="learn-more-trigger">polecanych</a> przez Firefoksa.
 
 ## Add-on actions
 
@@ -434,8 +443,22 @@ addon-badge-recommended3 =
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Oficjalne rozszerzenie zbudowane przez Mozillę. Spełnia standardy bezpieczeństwa i wydajności.
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are performing the
+# security or performance reviews. As such, we avoid personalising language
+# like the words "our" or "we".
+addon-badge-verified4 =
+    .title = To rozszerzenie zostało sprawdzone pod kątem zgodności ze standardami bezpieczeństwa i wydajności
 addon-badge-verified3 =
     .title = To rozszerzenie zostało sprawdzone pod kątem zgodności z naszymi standardami bezpieczeństwa i wydajności
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are making the
+# recommendation. As such, we hard code "Firefox" and avoid personalising
+# language like the words "our" or "we".
+addon-badge-recommended4 =
+    .title = Firefox poleca wyłącznie rozszerzenia spełniające standardy bezpieczeństwa i wydajności
 
 ##
 
