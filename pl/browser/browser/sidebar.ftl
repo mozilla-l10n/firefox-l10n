@@ -27,6 +27,15 @@ sidebar-history-sort-by-site =
     .label = Sortuj według witryn
 sidebar-history-clear =
     .label = Wyczyść historię
+sidebar-history-sort-by-heading = Sortuj według:
+sidebar-history-sort-option-date =
+    .label = Data
+sidebar-history-sort-option-site =
+    .label = Witryna
+sidebar-history-sort-option-date-and-site =
+    .label = Data i witryna
+sidebar-history-sort-option-last-visited =
+    .label = Ostatnio odwiedzane
 
 ## Labels for sidebar search
 
