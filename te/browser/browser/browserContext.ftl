@@ -248,6 +248,9 @@ main-context-menu-use-saved-password =
 
 ##
 
+main-context-menu-suggest-strong-password =
+    .label = బలమైన సంకేతపదాన్ని  సూచించు…
+    .accesskey = S
 main-context-menu-manage-logins2 =
     .label = ప్రవేశాల నిర్వహణ
     .accesskey = M
