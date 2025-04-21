@@ -196,6 +196,20 @@ urlbar-result-menu-learn-more-about-firefox-suggest =
 urlbar-result-menu-manage-firefox-suggest =
     .label = Zarządzaj { -firefox-suggest-brand-name(case: "ins", capitalization: "lower") }
     .accesskey = Z
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative region (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location =
+    .label = Zgłoś niewłaściwe położenie
+urlbar-result-menu-show-less-frequently =
+    .label = Pokazuj rzadziej
+urlbar-result-menu-dont-show-weather-suggestions =
+    .label = Nie pokazuj podpowiedzi dotyczących pogody
+# A message shown in the urlbar when the user dismisses weather suggestions.
+# Weather suggestions won't be shown at all anymore.
+urlbar-dismissal-acknowledgment-weather = Dziękujemy za opinię. Nie będziemy już pokazywać podpowiedzi dotyczących pogody.
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -332,6 +346,9 @@ quickactions-cmd-addons2 = dodatki
 quickactions-bookmarks2 = Zarządzaj zakładkami
 quickactions-cmd-bookmarks = zakładki, ulubione
 # Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Wyczyść historię przeglądania
+quickactions-cmd-clearrecenthistory = wyczyść historię przeglądania, historia
+# Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Wyczyść historię
 quickactions-cmd-clearhistory = wyczyść historię, usuń historię
 # Opens about:downloads page
@@ -340,6 +357,8 @@ quickactions-cmd-downloads = pobrane pliki, pobrane, pobierane, pobieranie
 # Opens about:addons page in the extensions section
 quickactions-extensions = Zarządzaj rozszerzeniami
 quickactions-cmd-extensions = rozszerzenia
+# Opens Firefox View
+quickactions-firefoxview = Otwórz { -firefoxview-brand-name(case: "acc", capitalization: "lower") }
 # Opens the devtools web inspector
 quickactions-inspector2 = Otwórz narzędzia dla programistów
 quickactions-cmd-inspector = inspektor, narzędzia dla programistów, narzędzia dla deweloperów, narzędzia dla twórców witryn, devtools
