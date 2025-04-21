@@ -31,6 +31,15 @@ sidebar-history-sort-by-site =
     .label = Sorter efter websted
 sidebar-history-clear =
     .label = Ryd historik
+sidebar-history-sort-by-heading = Sorter efter:
+sidebar-history-sort-option-date =
+    .label = Dato
+sidebar-history-sort-option-site =
+    .label = Websted
+sidebar-history-sort-option-date-and-site =
+    .label = Dato og websted
+sidebar-history-sort-option-last-visited =
+    .label = Senest besøgt
 
 ## Labels for sidebar search
 
