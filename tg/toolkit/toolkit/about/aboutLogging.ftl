@@ -76,6 +76,7 @@ about-logging-configured-via-url = Имкон тавассути нишонии 
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
+about-logging-upload-question = Маълумоти профил забт карда шудааст. Шумо мехоҳед, ки онро нигоҳ доред ё бор кунед?
 about-logging-save-button = Нигоҳ доштан
 about-logging-upload-button = Бор кардан
 # Variables:
