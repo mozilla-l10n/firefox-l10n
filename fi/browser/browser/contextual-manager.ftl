@@ -116,6 +116,22 @@ contextual-manager-passwords-remove-all-confirm-button =
         [1] Poista
        *[other] Poista kaikki
     }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] Tämä poistaa { -brand-short-name }iin tallennetun salasanan ja kaikki tietovuotoilmoitukset. Tätä toimintoa ei voi kumota.
+        [one] Tämä poistaa { -brand-short-name }iin tallennetun salasanan ja kaikki tietovuotoilmoitukset. Tätä toimintoa ei voi kumota.
+       *[other] Tämä poistaa { -brand-short-name }iin tallennetut salasanat ja kaikki tietovuotoilmoitukset. Tätä toimintoa ei voi kumota.
+    }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] Tämä poistaa { -brand-short-name }iin tallennetun salasanan kaikilta synkronoiduilta laitteilta ja kaikki tietovuotoilmoitukset. Tätä toimintoa ei voi kumota.
+        [one] Tämä poistaa { -brand-short-name }iin tallennetun salasanan kaikilta synkronoiduilta laitteilta ja kaikki tietovuotoilmoitukset. Tätä toimintoa ei voi kumota.
+       *[other] Tämä poistaa kaikki { -brand-short-name }iin tallennetut salasanat kaikilta synkronoiduilta laitteilta ja kaikki tietovuotoilmoitukset. Tätä toimintoa ei voi kumota.
+    }
 contextual-manager-passwords-origin-label = Sivusto
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = Käyttäjätunnus
@@ -138,6 +154,15 @@ contextual-manager-passwords-password-already-exists-error-button = Siirry salas
 contextual-manager-passwords-update-password-success-heading =
     .heading = Salasana tallennettu
 contextual-manager-passwords-update-password-success-button = Valmis
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] Salasana poistettu
+            [one] Salasana poistettu
+           *[other] Salasanat poistettu
+        }
 contextual-manager-passwords-delete-password-success-button = Valmis
 #
 # Radiobutton label to display total number of passwords
@@ -235,6 +260,8 @@ contextual-manager-edit-login-button = Muokkaa
     .tooltiptext = Muokkaa salasanaa
 contextual-manager-view-alert-heading =
     .heading = Näytä hälytys
+contextual-manager-view-alert-button =
+    .tooltiptext = Katselmoi hälytys
 contextual-manager-show-password-button =
     .aria-label = Näytä salasana
     .title = Näytä salasana
