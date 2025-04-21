@@ -305,6 +305,16 @@ discopane-intro2 =
     Васеъшавиҳо ва мавзуъҳо ба шумо барои татбиқи танзимоти шахсӣ дар «{ -brand-product-name }» имкон медиҳанд.
     Онҳо метавонанд махфияти шуморо афзоиш диҳанд, расонаҳоро беҳтар кунанд, намуди зоҳирии «{ -brand-product-name }» иваз кунанд
     ва имкониятҳои дигар пешниҳод намоянд. Ин барномаҳои нармафзории хурд  аксари вақт аз ҷониби тарафҳои сеюм таҳия карда мешаванд. Дар ин маҷмуъ аз ҷониби «{ -brand-product-name }» чизҳои беҳтарин барои амнияти махсус, самаранокӣ ва қобилиятнокӣ <a data-l10n-name="learn-more-trigger">тавсия дода мешаванд</a>.
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 =
+    Васеъшавиҳо ва мавзуъҳо ба шумо барои татбиқи танзимоти шахсӣ дар «{ -brand-product-name }» имкон медиҳанд.
+    Онҳо метавонанд махфияти шуморо афзоиш диҳанд, расонаҳоро беҳтар кунанд, намуди зоҳирии «{ -brand-product-name }» иваз кунанд
+    ва имкониятҳои дигар пешниҳод намоянд. Ин барномаҳои нармафзории хурд  аксари вақт аз ҷониби тарафҳои сеюм таҳия карда
+    мешаванд. Дар ин маҷмуъ аз ҷониби «Firefox» чизҳои беҳтарин барои амнияти махсус, самаранокӣ ва қобилиятнокӣ
+    <a data-l10n-name="learn-more-trigger">тавсия дода мешаванд</a>.
 
 ## Add-on actions
 
@@ -432,7 +442,7 @@ addon-badge-line3 =
     .title = Васеъшавии расмие, ки аз тарафи «Mozilla» эҷод карда шудааст. Ба стандартҳои мо оид ба амният ва самаранокӣ ҷавобгӯ мебошад
     .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
-    .title = Ин васеъшавӣ нисбат ба мувофиқат ба стандартҳои мо оида ба амният ва самаранокӣ тасдиқ карда шудааст
+    .title = Ин васеъшавӣ нисбат ба мувофиқат ба стандартҳои мо оид ба амният ва самаранокӣ тасдиқ карда шудааст
     .aria-label = { addon-badge-verified2.title }
 addon-badge-recommended3 =
     .title = { -brand-product-name } танҳо он васеъшавиҳоро тавсия медиҳад, ки ба стандартҳои мо оид ба амният ва самаранокӣ ҷавобгӯ мебошанд
@@ -440,8 +450,22 @@ addon-badge-recommended3 =
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Васеъшавии расмие, ки аз тарафи «Mozilla» эҷод карда шудааст. Ба стандартҳои мо оид ба амният ва самаранокӣ ҷавобгӯ мебошад
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are performing the
+# security or performance reviews. As such, we avoid personalising language
+# like the words "our" or "we".
+addon-badge-verified4 =
+    .title = Ин васеъшавӣ нисбат ба мувофиқат ба стандартҳои амният ва самаранокӣ баррасӣ карда шудааст
 addon-badge-verified3 =
-    .title = Ин васеъшавӣ нисбат ба мувофиқат ба стандартҳои мо оида ба амният ва самаранокӣ тасдиқ карда шудааст
+    .title = Ин васеъшавӣ нисбат ба мувофиқат ба стандартҳои мо оид ба амният ва самаранокӣ тасдиқ карда шудааст
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are making the
+# recommendation. As such, we hard code "Firefox" and avoid personalising
+# language like the words "our" or "we".
+addon-badge-recommended4 =
+    .title = Браузери «Firefox» танҳо он васеъшавиҳоро тавсия медиҳад, ки ба стандартҳои амният ва самаранокӣ ҷавобгӯ мебошанд
 
 ##
 
