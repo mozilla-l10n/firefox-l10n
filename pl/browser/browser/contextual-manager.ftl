@@ -137,26 +137,98 @@ contextual-manager-passwords-username-label = Nazwa użytkownika
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-password-label = Hasło
     .data-after = Skopiowano
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Filtruj hasła
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = Dodano hasło do witryny { $url }
+contextual-manager-passwords-add-password-success-button = Wyświetl
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = Nazwa użytkownika i hasło do witryny { $url } już istnieją
+contextual-manager-passwords-password-already-exists-error-button = Przejdź do hasła
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Zachowano hasło
 contextual-manager-passwords-update-password-success-button = Gotowe
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] Usunięto hasło
+           *[other] Usunięto hasła
+        }
 contextual-manager-passwords-delete-password-success-button = Gotowe
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = Wszystkie ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = Powiadomienia ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Czy usunąć to hasło?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = Tego nie można cofnąć.
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Wstecz
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Usuń
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Anuluj
+contextual-manager-passwords-alert-card =
+    .aria-label = Powiadomienia o hasłach
+contextual-manager-passwords-alert-back-button =
+    .label = Wstecz
+contextual-manager-passwords-alert-list =
+    .aria-label = Lista powiadomień
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = Zalecana jest zmiana hasła
+    .message = Istnieją zgłoszenia wycieków lub kradzieży haseł z tej witryny. Zmień hasło, aby chronić swoje konto.
+contextual-manager-passwords-breached-origin-link-message = Skąd { -brand-product-name } wie o wyciekach danych?
+contextual-manager-passwords-change-password-button = Zmień hasło
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = Zalecana jest zmiana hasła
+    .message = To hasło łatwo zgadnąć. Zmień je, aby chronić swoje konto.
+contextual-manager-passwords-vulnerable-password-link-message = Jak { -brand-product-name } rozpoznaje słabe hasła?
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Dodaj nazwę użytkownika
+    .message = Dodaj ją, aby przyspieszyć logowanie.
+contextual-manager-passwords-add-username-button = Dodaj nazwę użytkownika
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Dodaj hasło
+contextual-manager-passwords-edit-label =
+    .label = Edytuj hasło
+contextual-manager-passwords-remove-label =
+    .title = Usuń hasło
+contextual-manager-passwords-origin-tooltip = Wprowadź dokładny adres logowania do tej witryny.
+contextual-manager-passwords-username-tooltip = Wprowadź nazwę użytkownika, adres e-mail lub numer konta używany do logowania.
+contextual-manager-passwords-password-tooltip = Wprowadź hasło używane do logowania się na to konto.
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = Hasła
+contextual-manager-website-icon =
+    .alt = Ikona witryny
 contextual-manager-copy-icon =
     .alt = Kopiuj
+contextual-manager-check-icon-username =
+    .alt = Skopiowano
+contextual-manager-check-icon-password =
+    .alt = Skopiowano
+contextual-manager-alert-icon =
+    .alt = Ostrzeżenie
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = Otwórz witrynę { $url }
+    .title = Otwórz witrynę { $url }
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
