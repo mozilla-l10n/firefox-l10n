@@ -117,6 +117,7 @@ newtab-menu-delete-pocket = Видалити з { -pocket-brand-name }
 newtab-menu-archive-pocket = Архівувати в { -pocket-brand-name }
 newtab-menu-show-privacy-info = Наші спонсори і ваша приватність
 newtab-menu-about-fakespot = Про { -fakespot-brand-name }
+newtab-menu-report-content = Повідомити про цей вміст
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Блокувати
@@ -128,6 +129,7 @@ newtab-menu-section-unfollow = Відписатися від теми
 
 newtab-menu-manage-sponsored-content = Керувати спонсорованим вмістом
 newtab-menu-our-sponsors-and-your-privacy = Наші спонсори і ваша приватність
+newtab-menu-report-this-ad = Повідомити про це оголошення
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -532,3 +534,23 @@ newtab-custom-wallpaper-cta = Спробувати
 
 ## Strings for reporting ads and content
 
+newtab-report-content-why-reporting-this =
+    .label = Чому ви повідомляєте про це?
+newtab-report-ads-reason-not-interested =
+    .label = Мене це не цікавить
+newtab-report-ads-reason-inappropriate =
+    .label = Це недоречно
+newtab-report-ads-reason-seen-it-too-many-times =
+    .label = Показується занадто часто
+newtab-report-content-wrong-category =
+    .label = Невідповідна категорія
+newtab-report-content-outdated =
+    .label = Застаріле
+newtab-report-content-inappropriate-offensive =
+    .label = Недоречно або образливо
+newtab-report-content-spam-misleading =
+    .label = Спам або введення в оману
+newtab-report-cancel = Скасувати
+newtab-report-submit = Надіслати
+newtab-toast-thanks-for-feedback =
+    .message = Дякуємо за ваш відгук.

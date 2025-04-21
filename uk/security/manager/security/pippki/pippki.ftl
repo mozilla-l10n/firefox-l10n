@@ -85,6 +85,13 @@ client-auth-cert-details-issued-by = Випущено: { $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = Зберігається в: { $storedOn }
+client-auth-cert-remember-label = Запам'ятати це рішення:
+client-auth-cert-remember-never =
+    .label = Один раз
+client-auth-cert-remember-always =
+    .label = Постійно
+client-auth-cert-remember-temporarily =
+    .label = Для цього сеансу
 client-auth-cert-remember-box =
     .label = Запам'ятати це рішення
 

@@ -59,6 +59,7 @@ history-section-label = Історія
 item-history-and-downloads =
     .label = Історію переглядів та завантажень
     .accesskey = г
+item-history-and-downloads-description2 = Очищення історії сайтів і завантажень
 item-history-and-downloads-description = Очищення історії пошуку, сайтів і завантажень
 item-history-form-data-downloads =
     .label = Історія

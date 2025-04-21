@@ -196,6 +196,23 @@ urlbar-result-menu-learn-more-about-firefox-suggest =
 urlbar-result-menu-manage-firefox-suggest =
     .label = Керувати { -firefox-suggest-brand-name }
     .accesskey = К
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative region (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location =
+    .label = Повідомити про неточне розташування
+urlbar-result-menu-show-less-frequently =
+    .label = Показувати рідше
+urlbar-result-menu-dont-show-weather-suggestions =
+    .label = Не показувати пропозиції погоди
+# A message shown in the urlbar when the user submits feedback on a suggestion
+# (e.g., it shows an inaccurate location, it's shown too often, etc.).
+urlbar-feedback-acknowledgment = Дякуємо за ваш відгук
+# A message shown in the urlbar when the user dismisses weather suggestions.
+# Weather suggestions won't be shown at all anymore.
+urlbar-dismissal-acknowledgment-weather = Дякуємо за відгук. Ви більше не бачитимете пропозицій погоди.
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -354,6 +371,7 @@ quickactions-help = Довідка { -brand-product-name }
 quickactions-cmd-help = довідка, підтримка
 # Opens the devtools web inspector
 quickactions-inspector2 = Відкрити інструменти розробника
+quickactions-cmd-inspector2 = інспектор, devtools, інструменти розробника
 quickactions-cmd-inspector = інспектор, інструменти розробника
 # Opens about:logins
 quickactions-logins2 = Керувати паролями
@@ -378,6 +396,7 @@ quickactions-restart = Перезапустити { -brand-short-name }
 quickactions-cmd-restart = перезапустити
 # Opens the screenshot tool
 quickactions-screenshot3 = Зробити знімок екрана
+quickactions-cmd-screenshot2 = скріншот, знімок екрана, зробити знімок екрана
 quickactions-cmd-screenshot = знімок екрана
 # Opens about:preferences
 quickactions-settings2 = Керувати налаштуваннями
@@ -390,6 +409,7 @@ quickactions-update = Оновити { -brand-short-name }
 quickactions-cmd-update = оновити
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Програмний код сторінки
+quickactions-cmd-viewsource2 = переглянути джерело, програмний код, код сторінки
 quickactions-cmd-viewsource = переглянути джерело, джерело
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

@@ -206,6 +206,10 @@ addon-updates-manual-updates-found = Переглянути доступні о�
 
 addon-install-from-file = Встановити додаток з файлу…
     .accesskey = В
+# Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
+# pref is set.
+addon-install-or-update-from-file = Встановити чи оновити додаток з файлу…
+    .accesskey = с
 addon-install-from-file-dialog-title = Виберіть додаток для встановлення
 addon-install-from-file-filter-name = Додатки
 addon-open-about-debugging = Налагодження додатків
@@ -301,6 +305,16 @@ discopane-intro2 =
     підвищити продуктивність, вдосконалити медіа, змінити вигляд { -brand-product-name }, і
     ще багато іншого. Ці невеликі програми часто розробляються третіми особами. Ось
     перелік <a data-l10n-name="learn-more-trigger">рекомендованих розширень</a> { -brand-product-name }
+    для виняткової безпеки, продуктивності та функціональності.
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 =
+    Розширення й теми дозволяють налаштувати { -brand-product-name }. Вони можуть покращити приватність,
+    підвищити продуктивність, вдосконалити медіа, змінити вигляд { -brand-product-name }, і
+    ще багато іншого. Ці невеликі програми часто розробляються третіми особами. Ось
+    перелік <a data-l10n-name="learn-more-trigger">рекомендованих розширень</a> Firefox
     для виняткової безпеки, продуктивності та функціональності.
 
 ## Add-on actions
@@ -438,8 +452,22 @@ addon-badge-recommended3 =
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Офіційне розширення, створене Mozilla. Відповідає стандартам безпеки та продуктивності.
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are performing the
+# security or performance reviews. As such, we avoid personalising language
+# like the words "our" or "we".
+addon-badge-verified4 =
+    .title = Це розширення перевірено на відповідність стандартам безпеки та продуктивності.
 addon-badge-verified3 =
     .title = Це розширення перевірено на відповідність нашим стандартам безпеки та швидкодії.
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are making the
+# recommendation. As such, we hard code "Firefox" and avoid personalising
+# language like the words "our" or "we".
+addon-badge-recommended4 =
+    .title = Firefox рекомендує лише ті розширення, які відповідають стандартам безпеки та продуктивності.
 
 ##
 

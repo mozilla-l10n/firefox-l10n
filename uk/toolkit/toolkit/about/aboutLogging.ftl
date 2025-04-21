@@ -66,8 +66,30 @@ about-logging-unknown-profiler-preset = Невідоме попереднє на
 about-logging-unknown-option = Невідомий параметр about:logging “{ $k }“
 about-logging-configuration-url-ignored = URL конфігурації проігноровано
 about-logging-file-and-profiler-override = Не можна примусово виводити файл і одночасно перевизначати параметри профайлера
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-unknown-error = Сталася помилка: { $errorText }
 about-logging-configured-via-url = Параметр налаштовано через URL
 
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
+about-logging-upload-question = Дані профілю записано. Хочете зберегти чи вивантажити?
+about-logging-save-button = Зберегти
+about-logging-upload-button = Вивантажити
+# Variables:
+#   $path (string) - The path where the profile can be found.
+about-logging-saved = Збережено до { $path }
+# Variables:
+#   $percent (number) - The upload completion progress, to be displayed as a percentage. This is a value between 0 and 1.
+about-logging-uploading-progress = Вивантаження даних профілю: { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+# Variables:
+#   $url (string) - The URL where the profile can be found
+about-logging-uploaded = Вивантажено до <a data-l10n-name="uploaded-message-url">{ $url }</a>
+about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Поділитися URL-адресою
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-upload-error = Під час вивантаження профілю сталася помилка: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-save-error = Під час збереження файлу сталася помилка: { $errorText }
