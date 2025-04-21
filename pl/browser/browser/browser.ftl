@@ -207,6 +207,9 @@ urlbar-result-menu-show-less-frequently =
     .label = Pokazuj rzadziej
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = Nie pokazuj podpowiedzi dotyczących pogody
+# A message shown in the urlbar when the user submits feedback on a suggestion
+# (e.g., it shows an inaccurate location, it's shown too often, etc.).
+urlbar-feedback-acknowledgment = Dziękujemy za opinię
 # A message shown in the urlbar when the user dismisses weather suggestions.
 # Weather suggestions won't be shown at all anymore.
 urlbar-dismissal-acknowledgment-weather = Dziękujemy za opinię. Nie będziemy już pokazywać podpowiedzi dotyczących pogody.
@@ -359,8 +362,16 @@ quickactions-extensions = Zarządzaj rozszerzeniami
 quickactions-cmd-extensions = rozszerzenia
 # Opens Firefox View
 quickactions-firefoxview = Otwórz { -firefoxview-brand-name(case: "acc", capitalization: "lower") }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = otwórz { -firefoxview-brand-name(case: "acc", capitalization: "lower") }, { -firefoxview-brand-name(case: "nom", capitalization: "lower") }, otwórz przegląd, przegląd
+# Opens SUMO home page
+quickactions-help = Pomoc { -brand-product-name(case: "gen") }
+quickactions-cmd-help = pomoc, wsparcie
 # Opens the devtools web inspector
 quickactions-inspector2 = Otwórz narzędzia dla programistów
+quickactions-cmd-inspector2 = inspektor, narzędzia dla programistów, narzędzia dla deweloperów, narzędzia dla twórców witryn, devtools, dev tools
 quickactions-cmd-inspector = inspektor, narzędzia dla programistów, narzędzia dla deweloperów, narzędzia dla twórców witryn, devtools
 # Opens about:logins
 quickactions-logins2 = Zarządzaj hasłami
@@ -385,6 +396,7 @@ quickactions-restart = Uruchom { -brand-short-name(case: "acc") } ponownie
 quickactions-cmd-restart = uruchom ponownie, ponowne uruchomienie, zrestartuj, restart
 # Opens the screenshot tool
 quickactions-screenshot3 = Wykonaj zrzut ekranu
+quickactions-cmd-screenshot2 = zrzut ekranu, wykonaj zrzut ekranu
 quickactions-cmd-screenshot = zrzut ekranu, screenshot, skrin
 # Opens about:preferences
 quickactions-settings2 = Zarządzaj ustawieniami
@@ -397,6 +409,7 @@ quickactions-update = Uaktualnij { -brand-short-name(case: "acc") }
 quickactions-cmd-update = uaktualnij, uaktualnienie, zaktualizuj, aktualizuj, aktualizacja, apdejt
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Pokaż źródło strony
+quickactions-cmd-viewsource2 = wyświetl źródło, źródło, źródło strony
 quickactions-cmd-viewsource = pokaż źródło, źródło, wyświetl źródło
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =

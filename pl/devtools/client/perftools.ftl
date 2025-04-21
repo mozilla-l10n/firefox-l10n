@@ -71,6 +71,10 @@ perftools-button-edit-settings = Zmień ustawienia…
 
 ## More actions menu
 
+perftools-menu-more-actions-button =
+    .title = Więcej działań
+perftools-menu-more-actions-restart-with-profiling = Uruchom ponownie { -brand-shorter-name(case: "acc") } z włączonym profilowaniem uruchamiania
+perftools-menu-more-actions-copy-for-startup = Kopiuj zmienne środowiskowe do profilowania uruchamiania
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
