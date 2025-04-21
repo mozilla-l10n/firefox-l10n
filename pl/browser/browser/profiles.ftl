@@ -7,6 +7,8 @@ profile-window-body = Całkowicie oddziel przeglądanie służbowe od prywatnego
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Wybieraj profil po włączeniu { -brand-short-name(case: "gen") }
+# This subcopy appears below the checkbox when it is unchecked
+profile-window-checkbox-subcopy = { -brand-short-name } otworzy się na ostatnio używanym profilu.
 profile-window-create-profile = Utwórz profil
 profile-card-edit-button =
     .title = Edytuj profil
@@ -96,6 +98,14 @@ profiles-light-theme = Jasny
 profiles-dark-theme = Ciemny
 # The default system theme
 profiles-system-theme = Motyw systemu
+# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-marigold-theme-2 = Nagietkowa żółć
+# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-lavender-theme-2 = Jasna lawenda
+# This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-lichen-theme-2 = Miętowa zieleń
+# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-magnolia-theme-2 = Magnoliowy róż
 
 ## Alternative text for default profile icons
 
