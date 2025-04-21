@@ -7,6 +7,8 @@ profile-window-body = Hold dit arbejde og dit privatliv helt adskilt på nettet 
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Vælg en profil, når { -brand-short-name } starter
+# This subcopy appears below the checkbox when it is unchecked
+profile-window-checkbox-subcopy = { -brand-short-name } åbner med din senest anvendte profil.
 profile-window-create-profile = Opret en profil
 profile-card-edit-button =
     .title = Rediger profil

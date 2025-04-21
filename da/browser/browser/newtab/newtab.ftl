@@ -534,3 +534,5 @@ newtab-custom-wallpaper-cta = Prøv det
 
 ## Strings for reporting ads and content
 
+newtab-report-content-why-reporting-this =
+    .label = Hvorfor rapporterer du dette?
