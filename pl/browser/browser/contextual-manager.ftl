@@ -65,12 +65,27 @@ contextual-manager-passwords-import-success-heading =
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
 contextual-manager-passwords-import-success-message = Nowe: { $added }, zaktualizowane: { $modified }
+contextual-manager-passwords-import-detailed-report = Szczegółowy raport
 contextual-manager-passwords-import-success-button = Gotowe
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = Nie można zaimportować haseł
+    .message = Upewnij się, że plik zawiera kolumny dla witryn, nazw użytkownika i haseł.
+contextual-manager-passwords-import-error-button-try-again = Spróbuj ponownie
 contextual-manager-passwords-import-error-button-cancel = Anuluj
+contextual-manager-passwords-import-learn-more = Więcej informacji o importowaniu haseł
+contextual-manager-passwords-export-success-heading =
+    .heading = Wyeksportowano hasła
 contextual-manager-passwords-export-success-button = Gotowe
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = Czy wyeksportować hasła do pliku?
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = Po wyeksportowaniu zalecamy usunięcie pliku, aby inne osoby korzystające z tego urządzenia nie mogły zobaczyć Twoich haseł.
 contextual-manager-export-passwords-dialog-confirm-button = Kontynuuj eksportowanie
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Eksportuj hasła z { -brand-short-name(case: "gen") }
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = hasła
 contextual-manager-passwords-export-file-picker-export-button = Eksportuj
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -78,6 +93,14 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] Dokument CSV
        *[other] Plik CSV
+    }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [one] Czy usunąć hasło?
+        [few] Czy usunąć wszystkie { $total } hasła?
+       *[many] Czy usunąć wszystkie { $total } haseł?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
@@ -93,6 +116,27 @@ contextual-manager-passwords-remove-all-confirm-button =
         [1] Usuń
        *[other] Usuń wszystkie
     }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] Spowoduje to usunięcie hasła zachowanego w { -brand-short-name(case: "loc") } i powiadomień o wyciekach danych. Tego działania nie można cofnąć.
+       *[other] Spowoduje to usunięcie haseł zachowanych w { -brand-short-name(case: "loc") } i powiadomień o wyciekach danych. Tego działania nie można cofnąć.
+    }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] Spowoduje to usunięcie hasła zachowanego w { -brand-short-name(case: "loc") } na wszystkich synchronizowanych urządzeniach i powiadomień o wyciekach danych. Tego działania nie można cofnąć.
+       *[other] Spowoduje to usunięcie haseł zachowanych w { -brand-short-name(case: "loc") } na wszystkich synchronizowanych urządzeniach i powiadomień o wyciekach danych. Tego działania nie można cofnąć.
+    }
+contextual-manager-passwords-origin-label = Witryna
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Nazwa użytkownika
+    .data-after = Skopiowano
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Hasło
+    .data-after = Skopiowano
 contextual-manager-passwords-update-password-success-button = Gotowe
 contextual-manager-passwords-delete-password-success-button = Gotowe
 # This message is displayed to make sure that a user wants to delete an existing login.
