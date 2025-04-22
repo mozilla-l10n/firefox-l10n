@@ -430,6 +430,7 @@ onboarding-genai-sidebar-secondary-button = Start nettlesinga
 ## New user onboarding checklist
 
 onboarding-checklist-title = Fullfør konfigureringa av { -brand-short-name }
+onboarding-checklist-subtitle = Fullfør desse stega for å få mest mogleg ut av nettlesaropplevinga di.
 onboarding-checklist-set-default = Bruk { -brand-short-name } som standardnettlesar
 onboarding-checklist-pin = Fest { -brand-short-name } til oppgåvelinja
 onboarding-checklist-import = Importer frå tidlegare nettlesar
