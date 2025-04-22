@@ -525,6 +525,8 @@ newtab-section-mangage-topics-followed-topics-empty-state = Du har ikkje følgt 
 newtab-section-mangage-topics-blocked-topics = Blokkert
 newtab-section-mangage-topics-blocked-topics-empty-state = Du har ikkje blokkert nokon emne enno.
 newtab-custom-wallpaper-title = No får du tilpassa bakgrunnsbilde
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle = Last opp ditt eige bakgrunnsbilde eller vel ein farge for å gjere { -brand-product-name } til din.
 newtab-custom-wallpaper-cta = Prøv det
 
 ## Strings for reporting ads and content
