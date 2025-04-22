@@ -196,6 +196,15 @@ urlbar-result-menu-learn-more-about-firefox-suggest =
 urlbar-result-menu-manage-firefox-suggest =
     .label = أدر { -firefox-suggest-brand-name }
     .accesskey = د
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative region (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location =
+    .label = بلّغ عن موقع غير دقيق
+urlbar-result-menu-show-less-frequently =
+    .label = اعرض أقل تواترا
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = لا تعرض اقتراحات الطقس
 # A message shown in the urlbar when the user submits feedback on a suggestion
@@ -362,6 +371,7 @@ quickactions-help = مساعدة { -brand-product-name }
 quickactions-cmd-help = المساعدة والدعم
 # Opens the devtools web inspector
 quickactions-inspector2 = افتح أدوات المطورين
+quickactions-cmd-inspector2 = المفتش، أدوات التطوير، أدوات التطوير
 quickactions-cmd-inspector = الفاحص، أدوات تطوير
 # Opens about:logins
 quickactions-logins2 = أدِر كلمات السر
@@ -399,6 +409,7 @@ quickactions-update = حدِّث { -brand-short-name }
 quickactions-cmd-update = حدّث
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = اعرض مصدر هذه الصفحة
+quickactions-cmd-viewsource2 = عرض المصدر، المصدر، مصدر الصفحة
 quickactions-cmd-viewsource = اعرض المصدر، مصدر
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
