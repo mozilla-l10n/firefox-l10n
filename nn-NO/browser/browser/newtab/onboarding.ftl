@@ -442,6 +442,7 @@ onboarding-checklist-sign-up = Registrer deg eller logg inn på kontoen din
 tab-groups-onboarding-feature-callout-title = Prøv fanegrupper for mindre rot, og meir fokus
 tab-groups-onboarding-feature-callout-subtitle = Bli organisert ved å dra ei fane oppå ei anna for å opprette den første gruppa di.
 tab-groups-onboarding-create-group-title-2 = Finn fanegruppene dine her når som helst.
+tab-groups-onboarding-saved-groups-title-2 = Når du let att ei fanegruppe, kan du når som helst opne den på nytt her.
 tab-groups-onboarding-session-restore-title = Opne fanegruppene dine på nytt her, når som helst.
 tab-groups-onboarding-dismiss = OK
 
