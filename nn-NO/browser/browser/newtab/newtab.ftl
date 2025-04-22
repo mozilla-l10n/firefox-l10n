@@ -510,6 +510,7 @@ newtab-section-unblock-button = Opphev blokkeringa
 
 newtab-section-cancel-button = Ikkje no
 newtab-section-confirm-block-topic-p1 = Er du sikker på at du vil blokkere dette emnet?
+newtab-section-confirm-block-topic-p2 = Blokkerte emne vil ikkje lenger visast i kanalen din.
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Blokker { $topic }
