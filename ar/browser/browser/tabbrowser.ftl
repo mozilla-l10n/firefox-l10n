@@ -146,6 +146,8 @@ tabbrowser-confirm-close-tabs-with-key-checkbox = أكّد علي قبل الم�
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
 
+tabbrowser-confirm-close-warn-shortcut-title = هل تريد إغلاق { -brand-short-name } أو إغلاق اللسان الحالي؟
+tabbrowser-confirm-close-tab-only-button = أغلق اللسان الحالي
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -223,6 +225,11 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = أطلِق صوت اللسان
 tabbrowser-manager-close-tab =
     .tooltiptext = أغلِق اللسان
+# This is for tab groups that have been "saved and closed" (see tab-group-editor-action-save). It does
+# not include "deleted" tab groups (see tab-group-editor-action-delete).
+tabbrowser-manager-closed-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — أُغلق
 
 ## Tab Groups
 

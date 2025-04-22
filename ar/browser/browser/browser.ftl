@@ -196,6 +196,14 @@ urlbar-result-menu-learn-more-about-firefox-suggest =
 urlbar-result-menu-manage-firefox-suggest =
     .label = أدر { -firefox-suggest-brand-name }
     .accesskey = د
+urlbar-result-menu-dont-show-weather-suggestions =
+    .label = لا تعرض اقتراحات الطقس
+# A message shown in the urlbar when the user submits feedback on a suggestion
+# (e.g., it shows an inaccurate location, it's shown too often, etc.).
+urlbar-feedback-acknowledgment = شكرًا على تعليقك
+# A message shown in the urlbar when the user dismisses weather suggestions.
+# Weather suggestions won't be shown at all anymore.
+urlbar-dismissal-acknowledgment-weather = شكرًا على تعليقك. لن ترى اقتراحات الطقس بعد الآن.
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -378,6 +386,7 @@ quickactions-restart = أعِد تشغيل { -brand-short-name }
 quickactions-cmd-restart = أعِد التشغيل
 # Opens the screenshot tool
 quickactions-screenshot3 = خذ لقطة شاشة
+quickactions-cmd-screenshot2 = لقطة الشاشة، خذ لقطة شاشة
 quickactions-cmd-screenshot = لقطة شاشة
 # Opens about:preferences
 quickactions-settings2 = أدِر الإعدادات
