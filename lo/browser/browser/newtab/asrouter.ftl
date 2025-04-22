@@ -188,6 +188,7 @@ cfr-cbh-confirm-button = ປະຕິເສດປ້າຍໂຄສະນາຄ�
     .accesskey = R
 cfr-cbh-dismiss-button = ບໍ່​ແມ່ນ​ຕອນ​ນີ້
     .accesskey = N
+cookie-banner-blocker-onboarding-header = { -brand-short-name } ຫາກໍປະຕິເສດປ້າຍໂຄສະນາຄຸກກີສໍາລັບທ່ານ
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -218,6 +219,7 @@ fxa-sync-cfr-secondary = ເຕືອນຂ້ອຍໃນພາຍຫຼັງ
 ## Device Migration FxA Spotlight
 
 device-migration-fxa-spotlight-heavy-user-header = ຢ່າລືມສໍາຮອງຂໍ້ມູນຂໍ້ມູນຂອງທ່ານ
+device-migration-fxa-spotlight-heavy-user-primary-button = ເລີ່ມຕົ້ນໃຊ້ງານ
 device-migration-fxa-spotlight-getting-new-device-header-2 = ອຸປະກອນໃຫມ່ໃນອະນາຄົດຂອງເຈົ້າບໍ?
 device-migration-fxa-spotlight-getting-new-device-primary-button = ວິ​ທີ​ການ​ສໍາ​ຮອງ​ຂໍ້​ມູນ​ຂອງ​ຂ້ອຍ
 device-migration-fxa-spotlight-sync-header = ຄົ້ນຫາໂດຍບໍ່ພາດຈັງຫວະ
