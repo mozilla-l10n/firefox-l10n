@@ -78,9 +78,11 @@ vertical-tabs-callout-1-title = Overvelda av for mange faner?
 vertical-tabs-callout-1-cta-button = Prøv vertikale faner
 vertical-tabs-callout-2-cta-button = Prøv no
 vertical-tabs-callout-2-title = Har du mange faner opne? Prøv vertikale faner.
+vertical-tabs-callout-2-subtitle = Dette oppsettet gjer det enkelt å få oversikt over fanene dine. Dessutan kan du justere breidda for å sjå meir eller mindre av fanetitlane.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = Vanskeleg å finne att viktige faner?
 sidebar-pins-callout-subtitle = Prøv å feste dei, så held dei seg på toppen av lista. Høgreklikk på ei fane du vil feste, og vel Fest fane.
 sidebar-pins-callout-cta-button = Fest fane
 

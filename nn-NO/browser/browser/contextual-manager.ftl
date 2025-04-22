@@ -115,6 +115,13 @@ contextual-manager-passwords-remove-all-confirm-button =
         [1] Fjern
        *[other] Fjern alle
     }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] Dette vil fjerne passordet som er lagra i { -brand-short-name } og eventuelle varslingar om datalekkasjar. Du kan ikkje angre denne handlinga.
+       *[other] Dette vil fjerne passorda som er lagra i { -brand-short-name } og eventuelle varslingar om datalekkasjar. Du kan ikkje angre denne handlinga.
+    }
 contextual-manager-passwords-origin-label = Nettstad
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = Brukarnamn
