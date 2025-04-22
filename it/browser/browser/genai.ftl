@@ -86,8 +86,6 @@ genai-header-close-button =
     .title = Chiudi
 genai-provider-view-details =
     .label = Mostra dettagli chatbot
-genai-provider-about-chatbots =
-    .label = Informazioni su questi chatbot
 genai-options-reload-generic =
     .label = Ricarica chatbot IA
 # $provider (string) - name of the provider
@@ -161,4 +159,3 @@ genai-model-optin-optout =
     .label = Annulla
 genai-model-optin-cancel =
     .label = Annulla
-

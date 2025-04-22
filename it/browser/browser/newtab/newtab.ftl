@@ -255,9 +255,6 @@ newtab-pocket-learn-more = Ulteriori informazioni
 newtab-pocket-cta-button = Ottieni { -pocket-brand-name }
 newtab-pocket-cta-text = Salva le storie che ami in { -pocket-brand-name } e nutri la tua mente con letture appassionanti.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } è parte della famiglia { -brand-product-name }
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-image =
-    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = Salva
 newtab-pocket-saved = Salvato
 
@@ -393,7 +390,6 @@ newtab-wallpaper-suspension-bridge = Fotografia di un ponte grigio sospeso scatt
 newtab-wallpaper-sand-dunes = Dune di sabbia bianca
 newtab-wallpaper-palm-trees = Sagome di palme da cocco riprese durante l’ora d’oro
 newtab-wallpaper-blue-flowers = Fotografia ravvicinata di fiori con petali blu in fioritura
-newtab-wallpaper-forest-trees = Alberi avvolti nella nebbia
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.

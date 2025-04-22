@@ -290,4 +290,3 @@ contextual-manager-passwords-discard-changes-heading-and-message =
     .message = Le modifiche non verranno salvate.
 contextual-manager-passwords-discard-changes-close-button = Chiudi
 contextual-manager-passwords-discard-changes-go-back-button = Torna indietro
-
