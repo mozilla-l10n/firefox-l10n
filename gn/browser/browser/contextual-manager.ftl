@@ -78,6 +78,8 @@ contextual-manager-passwords-export-success-heading =
 contextual-manager-passwords-export-success-button = Apopyre
 # Export passwords to file dialog
 contextual-manager-export-passwords-dialog-title = ¿Eguerova ñe’ẽñemi marandurendápe?
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = Emongu’e rire, eñeha’ãkena emboguete ani hag̃ua ambue tapicha oiporúva ko mba’e’oka ohecha umi ñe’ẽñemi.
 contextual-manager-export-passwords-dialog-confirm-button = Eguerahauka gueteri
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Eguerahauka ñe’ẽñemi { -brand-short-name } mba’e
