@@ -1078,8 +1078,8 @@ tabs-toolbar =
 tabs-toolbar-new-tab =
     .label = 新建标签页
 tabs-toolbar-list-all-tabs =
-    .label = 列出全部标签页
-    .tooltiptext = 列出全部标签页
+    .label = 列出所有标签页
+    .tooltiptext = 列出所有标签页
 
 ## Infobar shown at startup to suggest session-restore
 
