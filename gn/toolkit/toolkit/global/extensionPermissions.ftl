@@ -37,3 +37,5 @@ webext-perms-description-webNavigation = Eike kundahára rembiapópe eikundaha a
 ## The userScripts permission includes an additional explanation that is
 ## displayed prominently near the usual permission description.
 
+# A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
+webext-perms-extra-warning-userScripts-short = Umi scripts ojehechajey’ỹva ikatu omboyke tekorosã ha tekoñemi. Omongu’e scripts jepysokue térã teñoiha ejeroviaha.

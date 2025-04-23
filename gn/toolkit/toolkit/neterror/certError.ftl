@@ -21,6 +21,9 @@ cert-error-trust-symantec = Umi mboajepyre oguenohẽva GeoTrust, RapidSSL, Syma
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } ndojeroviái { $hostname } rehe ndaikatúire ohechauka ojapoha he’íva pe mboajepyre opavaveguáva rekosakã.
+# Variables:
+#   $hostname (string) - Hostname of the website with cert error.
+cert-error-revoked = Umi ñanduti rogue ohechauka heratee mboajepyre rupive. { -brand-short-name } ndojeroviái ko { $hostname } oipuru rupi mboajepyre ndoikóivape g̃uarã.
 cert-error-untrusted-default = Pe mboajepyre ndoúi peteĩ teñoiha ijeroviahávagui.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
