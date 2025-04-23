@@ -90,6 +90,7 @@ sidebar-customization-callout-1-title = Tenda yke: tembiporu ha tendayke renda
 sidebar-customization-callout-callout-button = Embohéra ta’ãngarupa ykegua
 sidebar-customization-callout-dismiss-button = Eñomi tenda yke
 sidebar-customization-callout-2-title = Eñemomba’e tenda yke { -brand-product-name } mba’évare
+sidebar-customization-callout-2-subtitle = Embojuaju ha embogue tembieporu. Emoĩ umi tendayke tenda yképe. Eiporu chatbot IA ndive. Mba’éicha embohérata pe tenda yképe emoĩ eipotaháicha.
 
 ## Sidebar Callout Survey Strings
 
