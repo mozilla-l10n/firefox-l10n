@@ -1189,6 +1189,10 @@ popup-notification-addon-install-unsigned =
     .value = (Overifierad)
 popup-notification-xpinstall-prompt-learn-more = Läs mer om hur du installerar tillägg säkert
 popup-notification-xpinstall-prompt-block-url = Se detaljer
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = Tillåt att tillägg körs i privata fönster
+    .accesskey = T
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Kör i privata fönster

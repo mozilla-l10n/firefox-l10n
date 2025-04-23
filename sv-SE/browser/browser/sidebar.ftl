@@ -78,10 +78,16 @@ sidebar-context-menu-remove-extension =
     .label = Ta bort tillägg
 sidebar-context-menu-report-extension =
     .label = Rapportera tillägg
+sidebar-context-menu-open-in-tab =
+    .label = Öppna i ny flik
+sidebar-context-menu-open-in-container-tab =
+    .label = Öppna i ny innehållsflik
 sidebar-context-menu-open-in-window =
     .label = Öppna i nytt fönster
 sidebar-context-menu-open-in-private-window =
     .label = Öppna i nytt privat fönster
+sidebar-context-menu-forget-site =
+    .label = Rensa all data för webbplatsen…
 sidebar-context-menu-bookmark-tab =
     .label = Bokmärk flik…
 sidebar-context-menu-copy-link =
@@ -101,6 +107,10 @@ sidebar-context-menu-close-remote-tab =
 
 sidebar-history-context-menu-delete-page =
     .label = Ta bort från historik
+sidebar-history-context-menu-delete-page-2 =
+    .label = Ta bort sida från historiken
+sidebar-history-context-menu-bookmark-page =
+    .label = Bokmärk sida…
 
 ## Labels for sidebar menu items.
 
