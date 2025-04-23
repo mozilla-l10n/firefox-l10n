@@ -69,9 +69,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Expandir barra lateral ao pairar
-expand-on-hover-message =
-    .heading = Expandir ao pairar em breve
-    .message = Numa futura atualização poderá expandir a barra lateral ao pairar.
 
 ## Labels for sidebar context menu items
 

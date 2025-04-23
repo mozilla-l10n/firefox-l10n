@@ -69,9 +69,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Expandir la barra lateral al pasar el ratón
-expand-on-hover-message =
-    .heading = Expandir al pasar el ratón por encima
-    .message = En una próxima actualización, podrá expandir la barra lateral al pasar el puntero del ratón por encima.
 
 ## Labels for sidebar context menu items
 

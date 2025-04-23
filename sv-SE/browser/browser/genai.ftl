@@ -92,8 +92,6 @@ genai-header-close-button =
     .title = Stäng
 genai-provider-view-details =
     .label = Visa chatbot-detaljer
-genai-provider-about-chatbots =
-    .label = Om dessa chatbots
 genai-options-reload-generic =
     .label = Ladda om AI chatbot
 # $provider (string) - name of the provider

@@ -69,9 +69,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Sydbalke by oanwizen útklappe
-expand-on-hover-message =
-    .heading = Utklappe by oanwizen folget ynkoarten
-    .message = Yn in takomstige fernijing kinne jo de sydbalke útklappe troch dizze oan te wizen.
 
 ## Labels for sidebar context menu items
 

@@ -253,9 +253,6 @@ newtab-pocket-learn-more = Подробнее
 newtab-pocket-cta-button = Загрузить { -pocket-brand-name }
 newtab-pocket-cta-text = Сохраняйте интересные статьи в { -pocket-brand-name } и подпитывайте свой ум увлекательным чтением.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } является частью семейства { -brand-product-name }
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-image =
-    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = Сохранить
 newtab-pocket-saved = Сохранено
 
@@ -392,7 +389,6 @@ newtab-wallpaper-suspension-bridge = Фотография серого подв�
 newtab-wallpaper-sand-dunes = Белые песчаные дюны
 newtab-wallpaper-palm-trees = Силуэт кокосовых пальм в золотой час
 newtab-wallpaper-blue-flowers = Крупный план распускающихся цветов с голубыми цветами
-newtab-wallpaper-forest-trees = Деревья, окутанные туманом
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -518,7 +514,7 @@ newtab-section-confirm-block-topic-p2 = Заблокированные темы 
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Заблокировать { $topic }
 
-## Panel in the Customize menu section to manage followed and blocked topics
+## Strings for custom wallpaper highlight
 
 newtab-section-mangage-topics-title = Темы
 newtab-section-manage-topics-button-v2 =
@@ -531,6 +527,9 @@ newtab-custom-wallpaper-title = Пользовательские обои зде
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Загрузите свои обои или выберите цвет оформления, чтобы настроить { -brand-product-name } под себя.
 newtab-custom-wallpaper-cta = Попробовать
+
+## Strings for download mobile highlight
+
 
 ## Strings for reporting ads and content
 

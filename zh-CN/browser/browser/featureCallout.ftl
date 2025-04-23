@@ -66,6 +66,12 @@ split-dismiss-button-manage-settings-option =
 split-dismiss-button-default-label =
     .title = 更多选项
 
+## Login Status Advisory Callout (points to the account icon)
+
+
+## Bookmarks toolbar callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = 在侧栏中显示标签页标题

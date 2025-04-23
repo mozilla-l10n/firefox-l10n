@@ -63,6 +63,12 @@ split-dismiss-button-show-fewer-option =
 split-dismiss-button-manage-settings-option =
     .label = Gjestìs impostazions
 
+## Login Status Advisory Callout (points to the account icon)
+
+
+## Bookmarks toolbar callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Mostre i titui des schedis te sbare laterâl

@@ -34,6 +34,12 @@ split-dismiss-button-dont-show-option =
 split-dismiss-button-manage-settings-option =
     .label = Bainistigh na socruithe
 
+## Login Status Advisory Callout (points to the account icon)
+
+
+## Bookmarks toolbar callout strings
+
+
 ## Sidebar Strings
 
 

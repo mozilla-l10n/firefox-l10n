@@ -55,8 +55,6 @@ genai-header-close-button =
     .title = بند کرو
 genai-provider-view-details =
     .label = چیٹ بوٹ تفصیلاں ݙیکھو
-genai-provider-about-chatbots =
-    .label = انہاں چیٹ بوٹاں بارے
 genai-options-reload-generic =
     .label = اے آئی چیٹ بوٹ ولدا لوڈ کرو
 # $provider (string) - name of the provider

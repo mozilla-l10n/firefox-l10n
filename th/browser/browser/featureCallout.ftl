@@ -63,6 +63,12 @@ split-dismiss-button-show-fewer-option =
 split-dismiss-button-manage-settings-option =
     .label = จัดการการตั้งค่า
 
+## Login Status Advisory Callout (points to the account icon)
+
+
+## Bookmarks toolbar callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = แสดงชื่อแท็บในแถบข้าง

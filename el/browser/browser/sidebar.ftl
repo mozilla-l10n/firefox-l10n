@@ -69,9 +69,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Ανάπτυξη πλαϊνής γραμμής με το πέρασμα του κέρσορα
-expand-on-hover-message =
-    .heading = Η ανάπτυξη με το πέρασμα του κέρσορα θα είναι διαθέσιμη σύντομα
-    .message = Σε μια μελλοντική ενημέρωση, θα μπορείτε να αναπτύξετε την πλαϊνή γραμμή περνώντας τον κέρσορα από πάνω της.
 
 ## Labels for sidebar context menu items
 

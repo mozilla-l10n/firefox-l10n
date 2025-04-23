@@ -3,5 +3,3 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 experimental-features-webrtc-global-mute-toggles-description = افزودن واپایش‌ها به نشانگر هم‌رسانی سراسری WebRTC که به کاربران اجازه می‌دهد تا خوراک صدابَر و دوربین‌شان را سراسری قطع کنند.
-experimental-features-group-developer-tools =
-    .label = ابزارهای توسعه‌دهندگان

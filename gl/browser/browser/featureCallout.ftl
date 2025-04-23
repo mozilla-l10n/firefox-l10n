@@ -62,6 +62,12 @@ split-dismiss-button-show-fewer-option =
 split-dismiss-button-manage-settings-option =
     .label = Xestionar a configuración
 
+## Login Status Advisory Callout (points to the account icon)
+
+
+## Bookmarks toolbar callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Mostra os títulos das lapelas na barra lateral

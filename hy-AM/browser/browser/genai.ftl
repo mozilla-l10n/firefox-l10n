@@ -51,8 +51,6 @@ genai-header-close-button =
     .title = Փակել
 genai-provider-view-details =
     .label = Դիտեք չաթբոտի մանրամասները
-genai-provider-about-chatbots =
-    .label = Այս չաթ-բոտերի մասին
 genai-options-reload-generic =
     .label = Կրկին բեռնեք ԱԲ չաթբոտը
 # $provider (string) - name of the provider

@@ -253,9 +253,6 @@ newtab-pocket-learn-more = Dalše informacije
 newtab-pocket-cta-button = { -pocket-brand-name } wobstarać
 newtab-pocket-cta-text = Składujće stawizny, kotrež so wam spodobuja, w { -pocket-brand-name } a žiwće swój duch z fascinowacymi čitančkami.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } je dźěl swójby { -brand-product-name }
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-image =
-    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = Składować
 newtab-pocket-saved = Składowany
 
@@ -393,7 +390,6 @@ newtab-wallpaper-suspension-bridge = Šěra fotografija wisateho mosta wodnjo
 newtab-wallpaper-sand-dunes = Běłe pěskowe nawěwy
 newtab-wallpaper-palm-trees = Silueta štomow kokosowych palmow w złotej hodźinje
 newtab-wallpaper-blue-flowers = Fotografija kwětkow z módrymi łopješkami w kćěwje z bliskosće
-newtab-wallpaper-forest-trees = Z kurjawu pokryte štomy
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -519,7 +515,7 @@ newtab-section-confirm-block-topic-p2 = Zablokowane temy so hižo we wašim kana
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = { $topic } blokować
 
-## Panel in the Customize menu section to manage followed and blocked topics
+## Strings for custom wallpaper highlight
 
 newtab-section-mangage-topics-title = Temy
 newtab-section-manage-topics-button-v2 =
@@ -532,6 +528,9 @@ newtab-custom-wallpaper-title = Tu su swójske pozadkowe wobrazy
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Nahrajće swójski pozadkowy wobraz abo wubjerće swójsku barbu, zo byšće sej { -brand-product-name } přiswojił.
 newtab-custom-wallpaper-cta = Wupruwujće jón
+
+## Strings for download mobile highlight
+
 
 ## Strings for reporting ads and content
 

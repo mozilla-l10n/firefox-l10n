@@ -92,8 +92,6 @@ genai-header-close-button =
     .title = Sluiten
 genai-provider-view-details =
     .label = Chatbotdetails bekijken
-genai-provider-about-chatbots =
-    .label = Over deze chatbots
 genai-options-reload-generic =
     .label = AI-chatbot opnieuw laden
 # $provider (string) - name of the provider

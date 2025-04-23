@@ -244,9 +244,6 @@ newtab-pocket-new-topics-title = താങ്ങൾക്കു് ഇനിയ�
 newtab-pocket-more-recommendations = കൂടുതൽ ശുപാർശകൾ
 newtab-pocket-learn-more = കൂടുതല്‍ അറിയുക
 newtab-pocket-cta-button = { -pocket-brand-name } ലഭ്യമാക്കുക
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-image =
-    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = കരുതിവയ്ക്കുക
 newtab-pocket-saved = കരുതിവച്ച
 
@@ -434,7 +431,7 @@ newtab-section-cancel-button = ഇപ്പോഴല്ല
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = { $topic } തടയുക
 
-## Panel in the Customize menu section to manage followed and blocked topics
+## Strings for custom wallpaper highlight
 
 newtab-section-mangage-topics-title = വിഷയങ്ങൾ
 newtab-section-manage-topics-button-v2 =
@@ -444,6 +441,9 @@ newtab-section-mangage-topics-followed-topics-empty-state = താങ്ങൾ �
 newtab-section-mangage-topics-blocked-topics = തടഞ്ഞവ
 newtab-section-mangage-topics-blocked-topics-empty-state = താങ്ങൾ ഇതുവരെ ഒരു വിഷയത്തിനെയും ത‍ടഞ്ഞിട്ടില്ല
 newtab-custom-wallpaper-cta = ഉപയോഗിച്ചു് നോക്കൂ!
+
+## Strings for download mobile highlight
+
 
 ## Strings for reporting ads and content
 

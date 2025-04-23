@@ -46,13 +46,3 @@ experimental-features-js-warp-description = Galluogi Warp, project i wella perff
 experimental-features-ime-search =
     .label = Bar Cyfeiriadau: dangos canlyniadau wrth ddefnyddio'r IME
 experimental-features-ime-search-description = Offeryn yw IME (Golygydd Dull Mewnbwn) sy'n eich galluogi i nodi symbolau cymhleth, fel y rhai sy'n cael eu ddefnyddio mewn ieithoedd ysgrifenedig yn Nwyrain Asia neu India, gan ddefnyddio bysellfwrdd safonol. Bydd galluogi'r arbrawf hwn yn cadw'r panel bar cyfeiriadau ar agor, dangos canlyniadau chwilio ac awgrymiadau, tra'n defnyddio IME i fewnbynnu testun. Sylwch y gallai'r IME ddangos panel sy'n ymdrin â chanlyniadau'r bar cyfeiriad, felly mae'r dewis hwn yn cael ei awgrymu ar gyfer IME sydd ddim yn defnyddio'r math hwn o banel.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Llun-mewn-Llun: agor yn awtomatig wrth newid tabiau
-experimental-features-auto-pip-description = Galluogi Llun-mewn-Llun ar fideos byw wrth newid tabiau.
-experimental-features-group-developer-tools =
-    .label = Offer Datblygwyr
-experimental-features-group-webpage-display =
-    .label = Dangos Tudalen We
-experimental-features-group-customize-browsing =
-    .label = Cyfaddasu eich pori

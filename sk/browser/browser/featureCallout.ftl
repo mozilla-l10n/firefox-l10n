@@ -66,6 +66,12 @@ split-dismiss-button-manage-settings-option =
 split-dismiss-button-default-label =
     .title = Ďalšie možnosti
 
+## Login Status Advisory Callout (points to the account icon)
+
+
+## Bookmarks toolbar callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Zobrazovať názvy kariet na bočnom paneli

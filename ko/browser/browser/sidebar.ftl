@@ -69,9 +69,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = 마우스를 올려서 사이드바 펼치기
-expand-on-hover-message =
-    .heading = 마우스를 올려서 펼치기 기능 곧 제공 예정
-    .message = 향후 업데이트에서는 마우스를 올려서 사이드바를 펼칠 수 있습니다.
 
 ## Labels for sidebar context menu items
 

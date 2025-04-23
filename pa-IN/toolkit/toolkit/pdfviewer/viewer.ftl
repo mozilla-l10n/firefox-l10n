@@ -602,9 +602,6 @@ pdfjs-editor-edit-signature-update-button = ਅੱਪਡੇਟ
 
 ## Main menu for adding/removing signatures
 
-pdfjs-editor-delete-signature-button =
-    .title = ਦਸਤਖ਼ਤ ਨੂੰ ਹਟਾਓ
-pdfjs-editor-delete-signature-button-label = ਦਸਤਖ਼ਤ ਨੂੰ ਹਟਾਓ
 pdfjs-editor-delete-signature-button1 =
     .title = ਸੰਭਾਲੇ ਹੋਏ ਦਸਤਖ਼ਤ ਨੂੰ ਹਟਾਓ
 pdfjs-editor-delete-signature-button-label1 = ਸੰਭਾਲੇ ਹੋਏ ਦਸਤਖ਼ਤ ਨੂੰ ਹਟਾਓ

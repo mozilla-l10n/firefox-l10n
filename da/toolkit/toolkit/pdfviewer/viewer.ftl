@@ -602,9 +602,6 @@ pdfjs-editor-edit-signature-update-button = Opdater
 
 ## Main menu for adding/removing signatures
 
-pdfjs-editor-delete-signature-button =
-    .title = Fjern underskrift
-pdfjs-editor-delete-signature-button-label = Fjern underskrift
 pdfjs-editor-delete-signature-button1 =
     .title = Fjern gemt underskrift
 pdfjs-editor-delete-signature-button-label1 = Fjern gemt underskrift

@@ -56,6 +56,12 @@ fx-view-discoverability-secondary-button-label = Ignorar
 split-dismiss-button-manage-settings-option =
     .label = Gerir los paramètres
 
+## Login Status Advisory Callout (points to the account icon)
+
+
+## Bookmarks toolbar callout strings
+
+
 ## Sidebar Strings
 
 

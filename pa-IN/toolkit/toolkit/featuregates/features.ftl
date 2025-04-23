@@ -19,13 +19,3 @@ experimental-features-abouthome-startup-cache =
 # Search during IME
 experimental-features-ime-search =
     .label = ਸਿਰਨਾਵਾਂ ਪੱਟੀ: IME ਬਣਾਉਣ ਦੌਰਾਨ ਨਤੀਜੇ ਵੇਖਾਓ
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = ਤਸਵੀਰ-'ਚ-ਤਸਵੀਰ: ਟੈਬ ਬਦਲਣ ਉੱਤੇ ਆਪੇ ਖੋਲ੍ਹੋ
-experimental-features-auto-pip-description = ਜਦੋਂ ਟੈਬਾਂ ਵਿਚਾਲੇ ਤਬਾਦਲਾ ਹੋਵੇ ਤਾਂ ਸਰਗਰਮ ਵੀਡੀਓ ਉੱਤੇ ਤਸਵੀਰ-'ਚ-ਤਸਵੀਰ ਸਮਰੱਥ ਕਰੋ।
-experimental-features-group-developer-tools =
-    .label = ਡਿਵੈਲਪਰ ਟੂਲ
-experimental-features-group-webpage-display =
-    .label = ਵੈੱਬਪੇਜ ਡਿਸਪਲੇਅ
-experimental-features-group-customize-browsing =
-    .label = ਆਪਣੀ ਬਰਾਊਜ਼ਿੰਗ ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰੋ

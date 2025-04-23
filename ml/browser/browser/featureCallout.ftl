@@ -47,6 +47,12 @@ split-dismiss-button-manage-settings-option =
 split-dismiss-button-default-label =
     .title = കൂടുതൽ സാധ്യതകൾ
 
+## Login Status Advisory Callout (points to the account icon)
+
+
+## Bookmarks toolbar callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = അണിവക്കത്തിൽ ടാബുതലക്കെട്ടുകൾ കാണിക്കുക

@@ -69,9 +69,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Udvid sidepanel, når markøren holdes over
-expand-on-hover-message =
-    .heading = Funktionen "udvid, når markøren holdes over" kommer snart
-    .message = I en kommende opdatering kan du udvide sidepanelet, når du holder musemarkøren over den.
 
 ## Labels for sidebar context menu items
 

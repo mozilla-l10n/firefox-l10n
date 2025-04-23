@@ -69,9 +69,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Extender la trav laterala cun passar cun la mieur
-expand-on-hover-message =
-    .heading = La funcziun d’extender cun passar cun la mieur è prest disponibla
-    .message = Suenter in’actualisaziun futura vegns ti a pudair extender la trav laterala cun passar suravi cun la mieur.
 
 ## Labels for sidebar context menu items
 

@@ -61,8 +61,6 @@ genai-header-close-button =
     .title = Tanca
 genai-provider-view-details =
     .label = Mostra els detalls del bot de conversa
-genai-provider-about-chatbots =
-    .label = Quant a aquests bots de conversa
 genai-options-reload-generic =
     .label = Torna a carregar el bot de conversa d'IA
 # $provider (string) - name of the provider

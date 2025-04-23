@@ -242,9 +242,6 @@ newtab-pocket-more-recommendations = مقترحات أخرى
 newtab-pocket-learn-more = اطّلع على المزيد
 newtab-pocket-cta-button = نزِّل { -pocket-brand-name }
 newtab-pocket-cta-text = احفظ القصص التي تحبّها في { -pocket-brand-name }، وزوّد عقلك بمقالات رائعة.
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-image =
-    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = احفظ
 newtab-pocket-saved = حُفظت
 
@@ -398,9 +395,12 @@ newtab-section-unfollow-button = ألغِ المتابعة
 
 newtab-section-cancel-button = ليس الآن
 
-## Panel in the Customize menu section to manage followed and blocked topics
+## Strings for custom wallpaper highlight
 
 newtab-custom-wallpaper-cta = جربه
+
+## Strings for download mobile highlight
+
 
 ## Strings for reporting ads and content
 

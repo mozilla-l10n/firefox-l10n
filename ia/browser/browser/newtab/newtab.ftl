@@ -249,9 +249,6 @@ newtab-pocket-learn-more = Saper plus
 newtab-pocket-cta-button = Obtener { -pocket-brand-name }
 newtab-pocket-cta-text = Salva le articulos que tu ama in { -pocket-brand-name }, e alimenta tu mente con lecturas fascinante.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } es parte del familia de { -brand-product-name }
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-image =
-    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = Salvar
 newtab-pocket-saved = Salvate
 
@@ -387,7 +384,6 @@ newtab-wallpaper-suspension-bridge = Photographia de un ponte suspendite gris du
 newtab-wallpaper-sand-dunes = Dunas de arena blanc
 newtab-wallpaper-palm-trees = Silhouette de palmas de coco durante le hora aurate
 newtab-wallpaper-blue-flowers = Photographia in prime plano de flores con petalos blau florescente
-newtab-wallpaper-forest-trees = Arbores coperte de bruma
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -513,7 +509,7 @@ newtab-section-confirm-block-topic-p2 = Le topicos blocate non apparera plus in 
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Blocar { $topic }
 
-## Panel in the Customize menu section to manage followed and blocked topics
+## Strings for custom wallpaper highlight
 
 newtab-section-mangage-topics-title = Topicos
 newtab-section-manage-topics-button-v2 =
@@ -526,6 +522,9 @@ newtab-custom-wallpaper-title = Ecce le fundos personalisate
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Carga tu proprie fundo o selige un color personalisate pro tu { -brand-product-name }.
 newtab-custom-wallpaper-cta = Prova lo
+
+## Strings for download mobile highlight
+
 
 ## Strings for reporting ads and content
 

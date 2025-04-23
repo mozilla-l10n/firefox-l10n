@@ -92,8 +92,6 @@ genai-header-close-button =
     .title = ਬੰਦ ਕਰੋ
 genai-provider-view-details =
     .label = ਚੈਟ-ਬੋਟ ਵੇਰਵਿਆਂ ਨੂੰ ਵੇਖੋ
-genai-provider-about-chatbots =
-    .label = ਇਹਨਾਂ ਚੈਟ-ਬੋਟ ਬਾਰੇ
 genai-options-reload-generic =
     .label = AI ਚੈਟ-ਬੋਟ ਨੂੰ ਮੁੜ-ਲੋਡ ਕਰੋ
 # $provider (string) - name of the provider

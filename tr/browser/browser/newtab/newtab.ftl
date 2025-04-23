@@ -249,9 +249,6 @@ newtab-pocket-learn-more = Daha fazla bilgi al
 newtab-pocket-cta-button = { -pocket-brand-name }’ı edinin
 newtab-pocket-cta-text = Sevdiğiniz yazıları { -pocket-brand-name }’a kaydedin, aklınızı okumaya değer şeylerle doldurun.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name }, { -brand-product-name } ailesinin bir parçasıdır
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-image =
-    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = Kaydet
 newtab-pocket-saved = Kaydedildi
 
@@ -387,7 +384,6 @@ newtab-wallpaper-suspension-bridge = Gündüz vakti gri asma köprü fotoğrafı
 newtab-wallpaper-sand-dunes = Beyaz kumullar
 newtab-wallpaper-palm-trees = Tan vaktinde hindistancevizi ağaçlarının silueti
 newtab-wallpaper-blue-flowers = Açmış mavi renkli çiçeklerin yakın plan fotoğrafı
-newtab-wallpaper-forest-trees = Sisle kaplı ağaçlar
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -513,7 +509,7 @@ newtab-section-confirm-block-topic-p2 = Engellenen konular artık akışınızda
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = { $topic } konusunu engelle
 
-## Panel in the Customize menu section to manage followed and blocked topics
+## Strings for custom wallpaper highlight
 
 newtab-section-mangage-topics-title = Konular
 newtab-section-manage-topics-button-v2 =
@@ -526,6 +522,9 @@ newtab-custom-wallpaper-title = Artık kendi duvar kâğıtlarınızı kullanabi
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = { -brand-product-name } tarayıcınızı kişiselleştirmek için kendi duvar kâğıdınızı yükleyin veya istediğiniz rengi seçin.
 newtab-custom-wallpaper-cta = Deneyin
+
+## Strings for download mobile highlight
+
 
 ## Strings for reporting ads and content
 

@@ -98,8 +98,6 @@ genai-header-close-button =
     .title = Zapri
 genai-provider-view-details =
     .label = Podrobnosti klepetalnika
-genai-provider-about-chatbots =
-    .label = O teh klepetalnikih
 genai-options-reload-generic =
     .label = Ponovno naloži UI-klepetalnik
 # $provider (string) - name of the provider

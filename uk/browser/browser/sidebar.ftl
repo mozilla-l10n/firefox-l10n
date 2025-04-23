@@ -69,9 +69,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Розгортати бічну панель при наведенні
-expand-on-hover-message =
-    .heading = Незабаром з'явиться розкриття при наведенні
-    .message = У майбутньому оновленні ви зможете розгортати бічну панель, навівши на неї курсор.
 
 ## Labels for sidebar context menu items
 

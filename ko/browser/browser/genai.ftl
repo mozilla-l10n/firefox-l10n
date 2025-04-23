@@ -86,8 +86,6 @@ genai-header-close-button =
     .title = 닫기
 genai-provider-view-details =
     .label = 챗봇 세부 정보 보기
-genai-provider-about-chatbots =
-    .label = 챗봇 정보
 genai-options-reload-generic =
     .label = AI 챗봇 새로 고침
 # $provider (string) - name of the provider

@@ -86,8 +86,6 @@ genai-header-close-button =
     .title = 关闭
 genai-provider-view-details =
     .label = 查看聊天机器人详细信息
-genai-provider-about-chatbots =
-    .label = 关于此处的聊天机器人
 genai-options-reload-generic =
     .label = 重新加载 AI 聊天机器人
 # $provider (string) - name of the provider

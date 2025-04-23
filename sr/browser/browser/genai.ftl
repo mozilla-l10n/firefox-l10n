@@ -66,8 +66,6 @@ genai-header-close-button =
     .title = Затвори
 genai-provider-view-details =
     .label = Погледај детаље чет-бота
-genai-provider-about-chatbots =
-    .label = О овим чет-ботовима
 genai-options-reload-generic =
     .label = Поново учитај AI чет-бота
 # $provider (string) - name of the provider

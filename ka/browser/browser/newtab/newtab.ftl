@@ -252,9 +252,6 @@ newtab-pocket-learn-more = იხილეთ ვრცლად
 newtab-pocket-cta-button = გამოიყენეთ { -pocket-brand-name }
 newtab-pocket-cta-text = გადაინახეთ სასურველი შიგთავსი { -pocket-brand-name }-ში და მიეცით გონებას საკვები, შთამბეჭდავი საკითხავი მასალის სახით.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } ეკუთვნის { -brand-product-name }-ოჯახს
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-image =
-    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = შენახვა
 newtab-pocket-saved = შენახულია
 
@@ -390,7 +387,6 @@ newtab-wallpaper-suspension-bridge = ნაცრისფერი კიდუ
 newtab-wallpaper-sand-dunes = თეთრი ქვიშიანი ბორცვები
 newtab-wallpaper-palm-trees = ქოქოსის პალმის ხეების მოხაზულობა შეღამებისას
 newtab-wallpaper-blue-flowers = ახლო ხედით გადაღებული ლურჯგვირვინა ყვავილები გაფურჩქნისას
-newtab-wallpaper-forest-trees = ნისლით დაფარული ხეები
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -516,7 +512,7 @@ newtab-section-confirm-block-topic-p2 = შეზღუდული თემე
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = შეიზღუდოს { $topic }
 
-## Panel in the Customize menu section to manage followed and blocked topics
+## Strings for custom wallpaper highlight
 
 newtab-section-mangage-topics-title = თემები
 newtab-section-manage-topics-button-v2 =
@@ -529,6 +525,9 @@ newtab-custom-wallpaper-title = მორგებული ფონები �
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = ატვირთეთ საკუთარი ფონი ან შეარჩიეთ სასურველი ფერი, რომ გახადოთ { -brand-product-name } მეტად თქვენებური.
 newtab-custom-wallpaper-cta = მოსინჯვა
+
+## Strings for download mobile highlight
+
 
 ## Strings for reporting ads and content
 

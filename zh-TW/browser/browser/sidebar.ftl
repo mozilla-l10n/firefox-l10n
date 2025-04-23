@@ -69,9 +69,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = 在滑鼠移到上方時展開
-expand-on-hover-message =
-    .heading = 滑鼠停留即展開
-    .message = 未來更新後，將加入滑鼠停留就自動展開側邊欄的功能。
 
 ## Labels for sidebar context menu items
 

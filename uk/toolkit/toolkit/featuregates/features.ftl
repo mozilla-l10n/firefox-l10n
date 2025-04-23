@@ -46,13 +46,3 @@ experimental-features-js-warp-description = Увімкнути Warp - проєк
 experimental-features-ime-search =
     .label = Панель адреси: показувати результати під час складання IME
 experimental-features-ime-search-description = IME (редактор методу введення) – це засіб, який дозволяє вводити складні символи, як-от такі, що використовуються у східноазійських або індійських писемних мовах, за допомогою стандартної клавіатури. Увімкнення цього експерименту залишатиме панель адреси відкритою, показуючи результати пошуку та пропозиції, одночасно використовуючи IME для введення тексту. Зверніть увагу, що IME може показувати панель, яка перекриває результати панелі адреси, тому це налаштування пропонується лише для IME, який не використовує цей тип панелі.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Зображення в зображенні: автоматично відкривати під час перемикання вкладок
-experimental-features-auto-pip-description = Вмикати функцію "Зображення в зображенні" для активних відео під час перемикання вкладок.
-experimental-features-group-developer-tools =
-    .label = Інструменти розробника
-experimental-features-group-webpage-display =
-    .label = Подання вебсторінки
-experimental-features-group-customize-browsing =
-    .label = Налаштуйте свій перегляд

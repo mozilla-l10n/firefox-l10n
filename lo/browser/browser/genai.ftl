@@ -48,8 +48,6 @@ genai-header-close-button =
     .title = ປິດ
 genai-provider-view-details =
     .label = ເບິ່ງລາຍລະອຽດຂອງ chatbot
-genai-provider-about-chatbots =
-    .label = ກ່ຽວກັບ chatbots ເຫຼົ່ານີ້
 genai-options-reload-generic =
     .label = ໂຫຼດ AI chatbot ຄືນໃໝ່
 # $provider (string) - name of the provider

@@ -46,13 +46,3 @@ experimental-features-js-warp-description = Active Warp, un projet pour amélior
 experimental-features-ime-search =
     .label = Barre d’adresse : afficher les résultats pendant la composition IME
 experimental-features-ime-search-description = Un IME (Input Method Editor, éditeur de méthode de saisie) est un outil qui permet la saisie de symboles complexes, tels que ceux utilisés pour écrire les langues indiennes ou celles d’Asie de l’Est, tout en utilisant un clavier ordinaire. Activer cette expérience conserve ouvert le panneau de la barre d’adresse qui affiche les résultats de recherche et des suggestions, pendant que l’IME est utilisé pour saisir du texte. Notez que l’IME pourrait afficher un panneau recouvrant les résultats de la barre d’adresse, c’est pourquoi cette préférence n’est suggérée que pour les IME qui n’utilisent pas ce type de panneau.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Incrustation vidéo : activation automatique lors du changement d’onglet
-experimental-features-auto-pip-description = Activer l’incrustation vidéo pour les vidéos actives lorsque vous changez d’onglet.
-experimental-features-group-developer-tools =
-    .label = Outils de développement
-experimental-features-group-webpage-display =
-    .label = Affichage des pages web
-experimental-features-group-customize-browsing =
-    .label = Personnalisez votre navigation

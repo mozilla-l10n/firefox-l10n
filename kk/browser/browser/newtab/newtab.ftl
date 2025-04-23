@@ -249,9 +249,6 @@ newtab-pocket-learn-more = Көбірек білу
 newtab-pocket-cta-button = { -pocket-brand-name }-ті алу
 newtab-pocket-cta-text = Өзіңіз ұнатқан хикаяларды { -pocket-brand-name } ішіне сақтап, миіңізді тамаша оқумен толықтырыңыз.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } өнімі { -brand-product-name } отбасының мүшесі болып табылады
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-image =
-    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = Сақтау
 newtab-pocket-saved = Сақталған
 
@@ -384,7 +381,6 @@ newtab-wallpaper-starry-canyon = Көк жұлдызды түн
 newtab-wallpaper-suspension-bridge = Сұр түсті толық аспалы көпірдің күндізгі фотосуреті
 newtab-wallpaper-sand-dunes = Ақ құмды төбелер
 newtab-wallpaper-palm-trees = Алтын сағатта кокос пальмаларының сұлбасы
-newtab-wallpaper-forest-trees = Тұман басқан ағаштар
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -502,9 +498,12 @@ newtab-section-unblock-button = Бұғаттаудан шығару
 
 newtab-section-cancel-button = Қазір емес
 
-## Panel in the Customize menu section to manage followed and blocked topics
+## Strings for custom wallpaper highlight
 
 newtab-section-mangage-topics-title = Тақырыптар
+
+## Strings for download mobile highlight
+
 
 ## Strings for reporting ads and content
 

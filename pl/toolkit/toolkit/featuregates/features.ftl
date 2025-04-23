@@ -46,13 +46,3 @@ experimental-features-js-warp-description = Włącza Warp, projekt mający na ce
 experimental-features-ime-search =
     .label = Pasek adresu: wyświetlanie wyników podczas edycji IME
 experimental-features-ime-search-description = IME (edytor metody wprowadzania) to narzędzie umożliwiające wpisywanie złożonych symboli, na przykład tych używanych w językach wschodnioazjatyckich czy indyjskich, za pomocą standardowej klawiatury. Włączenie tego eksperymentu spowoduje, że panel paska adresu pozostanie otwarty, pokazując wyniki wyszukiwania i podpowiedzi, kiedy używane jest IME do wpisywania tekstu. Zauważ, że IME może wyświetlać panel zakrywający wyniki paska adresu, dlatego też ta preferencja jest proponowana tylko w przypadku IME, które nie korzystają z tego typu panelu.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = „Obraz w obrazie”: automatyczne włączanie przy zmianie karty
-experimental-features-auto-pip-description = Włącza funkcję „Obraz w obrazie”, gdy odtwarzany jest film przy zmianie karty.
-experimental-features-group-developer-tools =
-    .label = Narzędzia dla programistów
-experimental-features-group-webpage-display =
-    .label = Wyświetlanie stron internetowych
-experimental-features-group-customize-browsing =
-    .label = Dostosowanie przeglądania

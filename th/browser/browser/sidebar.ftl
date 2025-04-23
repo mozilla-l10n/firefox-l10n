@@ -60,9 +60,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = ขยายแถบข้างเมื่อเลื่อนเมาส์ไปวางแช่
-expand-on-hover-message =
-    .heading = ขยายความเมื่อวางเมาส์เร็วๆ นี้
-    .message = ในอัปเดตในอนาคต คุณจะสามารถขยายแถบข้างได้เมื่อวางเมาส์ไว้
 
 ## Labels for sidebar context menu items
 

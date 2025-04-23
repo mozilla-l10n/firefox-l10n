@@ -69,9 +69,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Malfaldi flankan strion kiam la muso iras super ĝi
-expand-on-hover-message =
-    .heading = Baldaŭa trajto: malfaldo dum ŝvebo
-    .message = Post estonta ĝisdatigo vi povos malfaldi la flankan strion kiam la montrilo ŝvebas super ĝi
 
 ## Labels for sidebar context menu items
 

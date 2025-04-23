@@ -69,9 +69,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Ehangu'r bar ochr wrth hofran
-expand-on-hover-message =
-    .heading = Ehangu ar hofran yn dod cyn hir
-    .message = Mewn diweddariad i ddod, byddwch yn gallu ehangu'r bar ochr wrth i chi hofran.
 
 ## Labels for sidebar context menu items
 

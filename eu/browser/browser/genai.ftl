@@ -71,8 +71,6 @@ genai-header-close-button =
     .title = Itxi
 genai-provider-view-details =
     .label = Ikusi txaterako botaren xehetasunak
-genai-provider-about-chatbots =
-    .label = Txaterako bot hauei buruz
 genai-options-reload-generic =
     .label = Berritu AA txaterako bota
 # $provider (string) - name of the provider

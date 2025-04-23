@@ -251,9 +251,6 @@ newtab-pocket-learn-more = Маълумоти бештар
 newtab-pocket-cta-button = «{ -pocket-brand-name }»-ро бор кунед
 newtab-pocket-cta-text = Ҳикояҳоеро, ки дӯст медоред, дар { -pocket-brand-name } нигоҳ доред ва ба зеҳни худ аз хониши дилрабо қувват диҳед.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } қисми оилаи { -brand-product-name } мебошад
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-image =
-    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = Нигоҳ доштан
 newtab-pocket-saved = Нигоҳ дошта шуд
 
@@ -389,7 +386,6 @@ newtab-wallpaper-suspension-bridge = Акси пули хокистариран�
 newtab-wallpaper-sand-dunes = Хомаҳои регии сафед
 newtab-wallpaper-palm-trees = Акси сиёҳи дарахтҳои ҷавзи ҳиндӣ дар соати тиллоӣ
 newtab-wallpaper-blue-flowers = Аксҳои наздиктарини гулҳо бо гулбаргҳои кабуд дар гулгулшукуфоӣ
-newtab-wallpaper-forest-trees = Дарахтҳои бо туман пӯшидашуда
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -515,7 +511,7 @@ newtab-section-confirm-block-topic-p2 = Мавзуъҳои манъшуда ди
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Манъ кардани { $topic }
 
-## Panel in the Customize menu section to manage followed and blocked topics
+## Strings for custom wallpaper highlight
 
 newtab-section-mangage-topics-title = Мавзуъҳо
 newtab-section-manage-topics-button-v2 =
@@ -528,6 +524,9 @@ newtab-custom-wallpaper-title = Тасвирҳои заминаи фармоиш
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Барои ба таври худ танзим кардани «{ -brand-product-name }», тасвири заминаи худро бор кунед ё ранги дилхоҳеро интихоб намоед.
 newtab-custom-wallpaper-cta = Озмоед
+
+## Strings for download mobile highlight
+
 
 ## Strings for reporting ads and content
 

@@ -69,9 +69,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Laajenna sivupalkki hiiren päällä
-expand-on-hover-message =
-    .heading = Laajenna kohdistaessa tulossa pian
-    .message = Tulevan päivityksen myötä voit laajentaa sivupalkin kohdistamalla osoittimen siihen.
 
 ## Labels for sidebar context menu items
 

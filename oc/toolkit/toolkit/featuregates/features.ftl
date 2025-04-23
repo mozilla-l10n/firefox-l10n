@@ -45,5 +45,3 @@ experimental-features-js-warp-description = Activa Warp, un projècte per melhor
 experimental-features-ime-search =
     .label = Barra d’adreça : afichar los resultats pendent la composicion IME
 experimental-features-ime-search-description = Un IME (Input Method Editor, editor de metòde de picada) es una aisina que permet la picada de simbòls complexes, tals coma los utilizats per escriure las lengas indianas las d’Asia de l’Èst en utilizant un clavièr ordinari. Activar aquesta experiéncia ten dubèrt lo panèl de la barra d’adreça qu’aficha los resultats de recèrca e de suggestions, pendent que l’IME es utilizat per la picada de tèxtes. Notatz que l’IME poiriá afichar un panèl que cobrís los resultats de recèrca, per consequéncia aquesta preferéncia es sonque suggerida pels IME qu’utilizan pas aquesta mena de panèl.
-experimental-features-group-developer-tools =
-    .label = Aisinas de desvolopament

@@ -92,8 +92,6 @@ genai-header-close-button =
     .title = Serrar
 genai-provider-view-details =
     .label = Vesair ils detagls dal chatbot
-genai-provider-about-chatbots =
-    .label = Davart quests chatbots
 genai-options-reload-generic =
     .label = Rechargiar il chatbot IA
 # $provider (string) - name of the provider

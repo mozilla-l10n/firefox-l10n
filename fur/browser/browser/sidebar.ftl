@@ -60,9 +60,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Slargje la sbare laterâl passant sore cul mouse
-expand-on-hover-message =
-    .heading = Slargjament passant sore cul mouse disponibil ca di pôc
-    .message = Intun inzornament futûr tu rivarâs a slargjâ la sbare laterâl passanti parsore cul mouse.
 
 ## Labels for sidebar context menu items
 

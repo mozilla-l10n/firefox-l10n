@@ -253,9 +253,6 @@ newtab-pocket-learn-more = 더 알아보기
 newtab-pocket-cta-button = { -pocket-brand-name } 받기
 newtab-pocket-cta-text = 좋아하는 이야기를 { -pocket-brand-name }에 저장하고 재미있게 읽어 보세요.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name }은 { -brand-product-name } 제품군의 일부입니다.
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-image =
-    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = 저장
 newtab-pocket-saved = 저장됨
 
@@ -390,7 +387,6 @@ newtab-wallpaper-suspension-bridge = 낮 동안 회색 전체 현수교 사진
 newtab-wallpaper-sand-dunes = 하얀 모래언덕
 newtab-wallpaper-palm-trees = 골든 아워의 코코넛 야자수 실루엣
 newtab-wallpaper-blue-flowers = 푸른 꽃잎이 만발한 꽃의 근접 촬영 사진
-newtab-wallpaper-forest-trees = 안개로 덮인 나무
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -516,7 +512,7 @@ newtab-section-confirm-block-topic-p2 = 차단된 주제는 더 이상 피드에
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = { $topic } 차단
 
-## Panel in the Customize menu section to manage followed and blocked topics
+## Strings for custom wallpaper highlight
 
 newtab-section-mangage-topics-title = 주제
 newtab-section-manage-topics-button-v2 =
@@ -529,6 +525,9 @@ newtab-custom-wallpaper-title = 사용자 지정 배경 화면이 있습니다
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = 자신만의 배경 화면을 업로드하거나 사용자 지정 색상을 선택하여 나만의 { -brand-product-name }로 만들 수 있습니다.
 newtab-custom-wallpaper-cta = 사용해 보기
+
+## Strings for download mobile highlight
+
 
 ## Strings for reporting ads and content
 

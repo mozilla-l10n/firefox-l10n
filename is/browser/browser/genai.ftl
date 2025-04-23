@@ -94,8 +94,6 @@ genai-header-close-button =
     .title = Loka
 genai-provider-view-details =
     .label = Skoða nánari upplýsingar um spjallkerfið
-genai-provider-about-chatbots =
-    .label = Um þessi spjallkerfi
 genai-options-reload-generic =
     .label = Endurhlaða gervigreindarspjallkerfi
 # $provider (string) - name of the provider

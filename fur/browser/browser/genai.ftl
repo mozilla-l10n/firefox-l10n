@@ -94,8 +94,6 @@ genai-header-close-button =
     .title = Siere
 genai-provider-view-details =
     .label = Mostre detais chatbot
-genai-provider-about-chatbots =
-    .label = Informazions su chescj chatbots
 genai-options-reload-generic =
     .label = Torne cjame chatbot IA
 # $provider (string) - name of the provider

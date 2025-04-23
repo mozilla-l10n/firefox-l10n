@@ -252,9 +252,6 @@ newtab-pocket-learn-more = ਹੋਰ ਜਾਣੋ
 newtab-pocket-cta-button = { -pocket-brand-name } ਲਵੋ
 newtab-pocket-cta-text = { -pocket-brand-name } ਵਿਚ ਆਪਣੀਆਂ ਕਹਾਣੀਆਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ, ਅਤੇ ਆਪਣੇ ਮਨ ਨੂੰ ਦਿਲਚਸਪ ਪੜ੍ਹ ਕੇ ਮਜਬੂਰ ਕਰੋ।
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } { -brand-product-name } ਗਰੁੱਪ ਦਾ ਭਾਗ ਹੈ
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-image =
-    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = ਸੰਭਾਲੋ
 newtab-pocket-saved = ਸੰਭਾਲਿਆ
 
@@ -390,7 +387,6 @@ newtab-wallpaper-suspension-bridge = ਦਿਨ ਵੇਲੇ ਸਲੇਟੀ ਪ�
 newtab-wallpaper-sand-dunes = ਚਿੱਟੇ ਰੇਤ ਦੇ ਟਿੱਬੇ
 newtab-wallpaper-palm-trees = ਸਵੱਖਤੇ ਸੋਨੇ ਰੰਗੇ ਚਾਨਣ ਵਿੱਚ ਨਾਰੀਅਲ ਦੇ ਰੁੱਖਾਂ ਦੀ ਛਾਂ
 newtab-wallpaper-blue-flowers = ਖਿੜੇ ਹੋਏ ਨੀਲੇ-ਪੰਖੜੀਆਂ ਵਾਲੇ ਫੁੱਲਾਂ ਦੀ ਨੇੜਿਓ ਫੋਟੋਗਰਾਫ਼ੀ
-newtab-wallpaper-forest-trees = ਧੁੰਦ ਵਿੱਚ ਢੱਕੇ ਹੋਏ ਦਰਖ਼ਤ
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -516,7 +512,7 @@ newtab-section-confirm-block-topic-p2 = ਪਾਬੰਦੀ ਲਾਏ ਵਿਸ਼�
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = { $topic } ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਓ
 
-## Panel in the Customize menu section to manage followed and blocked topics
+## Strings for custom wallpaper highlight
 
 newtab-section-mangage-topics-title = ਵਿਸ਼ੇ:
 newtab-section-manage-topics-button-v2 =
@@ -529,6 +525,9 @@ newtab-custom-wallpaper-title = ਪਸੰਦੀਦਾ ਵਾਲਪੇਪਰ ਇ�
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = { -brand-product-name } ਨੂੰ ਆਪਣਾ ਬਣਾਉਣ ਵਾਸਤੇ ਖੁਦ ਦਾ ਵਾਲਪੇਪਰ ਅੱਪਲੋਡ ਕਰੋ ਜਾਂ ਕਸਟਮ ਰੰਗ ਚੁਣੋ।
 newtab-custom-wallpaper-cta = ਅਜ਼ਮਾਓ
+
+## Strings for download mobile highlight
+
 
 ## Strings for reporting ads and content
 

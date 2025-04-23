@@ -253,9 +253,6 @@ newtab-pocket-learn-more = Μάθετε περισσότερα
 newtab-pocket-cta-button = Αποκτήστε το { -pocket-brand-name }
 newtab-pocket-cta-text = Αποθηκεύστε τις ιστορίες που αγαπάτε στο { -pocket-brand-name } και τροφοδοτήστε το μυαλό σας με εκπληκτικά κείμενα.
 newtab-pocket-pocket-firefox-family = Το { -pocket-brand-name } ανήκει στην οικογένεια του { -brand-product-name }
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-image =
-    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = Αποθήκευση
 newtab-pocket-saved = Αποθηκεύτηκε
 
@@ -391,7 +388,6 @@ newtab-wallpaper-suspension-bridge = Γκρι φωτογραφία με μια �
 newtab-wallpaper-sand-dunes = Λευκοί αμμόλοφοι
 newtab-wallpaper-palm-trees = Φιγούρες κοκοφοινίκων κατά τη «χρυσή ώρα»
 newtab-wallpaper-blue-flowers = Κοντινή φωτογραφία ανθισμένων λουλουδιών με μπλε πέταλα
-newtab-wallpaper-forest-trees = Δέντρα που καλύπτονται από ομίχλη
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -517,7 +513,7 @@ newtab-section-confirm-block-topic-p2 = Τα αποκλεισμένα θέματ
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Αποκλεισμός του «{ $topic }»
 
-## Panel in the Customize menu section to manage followed and blocked topics
+## Strings for custom wallpaper highlight
 
 newtab-section-mangage-topics-title = Θέματα
 newtab-section-manage-topics-button-v2 =
@@ -530,6 +526,9 @@ newtab-custom-wallpaper-title = Οι προσαρμοσμένες ταπετσα
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Μεταφορτώστε τη δική σας ταπετσαρία ή επιλέξτε ένα προσαρμοσμένο χρώμα για να κάνετε το { -brand-product-name } δικό σας.
 newtab-custom-wallpaper-cta = Δοκιμή
+
+## Strings for download mobile highlight
+
 
 ## Strings for reporting ads and content
 

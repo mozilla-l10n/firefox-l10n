@@ -94,8 +94,6 @@ genai-header-close-button =
     .title = Bezárás
 genai-provider-view-details =
     .label = Csevegőbot részleteinek megtekintése
-genai-provider-about-chatbots =
-    .label = A csevegőbotok névjegye
 genai-options-reload-generic =
     .label = MI csevegőbot újratöltése
 # $provider (string) - name of the provider

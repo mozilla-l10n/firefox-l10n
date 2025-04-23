@@ -53,8 +53,6 @@ genai-header-close-button =
     .title = Serra
 genai-provider-view-details =
     .label = Bide is detàllios de su chatbot
-genai-provider-about-chatbots =
-    .label = Informatziones in pitzus de custos chatbots
 genai-options-reload-generic =
     .label = Torra a carrigare su chatbot de IA
 # $provider (string) - name of the provider

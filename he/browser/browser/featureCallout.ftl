@@ -51,6 +51,12 @@ split-dismiss-button-manage-settings-option =
 split-dismiss-button-default-label =
     .title = אפשרויות נוספות
 
+## Login Status Advisory Callout (points to the account icon)
+
+
+## Bookmarks toolbar callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = הצגת כותרות של לשוניות בסרגל הצד

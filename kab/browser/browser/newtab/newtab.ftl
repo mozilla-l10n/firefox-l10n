@@ -248,9 +248,6 @@ newtab-pocket-learn-more = Issin ugar
 newtab-pocket-cta-button = Awi-d { -pocket-brand-name }
 newtab-pocket-cta-text = Sekles tiqṣiḍin i tḥemmleḍ deg { -pocket-brand-name }, sedhu allaɣ-ik s tɣuri ifazen.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } d yiwen seg twacult n { -brand-product-name }
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-image =
-    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = Sekles
 newtab-pocket-saved = Yettwasekles
 
@@ -416,9 +413,12 @@ newtab-topic-selection-button-update-interests = Leqqem ismenyaf-ik
 ## Confirmation modal for blocking a section
 
 
-## Panel in the Customize menu section to manage followed and blocked topics
+## Strings for custom wallpaper highlight
 
 newtab-section-mangage-topics-blocked-topics = Iwḥel
+
+## Strings for download mobile highlight
+
 
 ## Strings for reporting ads and content
 

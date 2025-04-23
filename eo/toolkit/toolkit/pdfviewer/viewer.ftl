@@ -602,9 +602,6 @@ pdfjs-editor-edit-signature-update-button = Ĝisdatigi
 
 ## Main menu for adding/removing signatures
 
-pdfjs-editor-delete-signature-button =
-    .title = Forigi subskribon
-pdfjs-editor-delete-signature-button-label = Forigi subskribon
 pdfjs-editor-delete-signature-button1 =
     .title = Forigi konservitan subskribon
 pdfjs-editor-delete-signature-button-label1 = Forigi konservitan subskribon

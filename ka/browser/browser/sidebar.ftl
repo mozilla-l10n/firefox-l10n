@@ -69,9 +69,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = გვერდითი ზოლის გაშლა მაჩვენებლის გადატარებისას
-expand-on-hover-message =
-    .heading = მაჩვენებლის გადატარებით გაშლა – მალე
-    .message = მომავალ განახლებაში შეგეძლებათ გვერდითი ზოლის გაშლა გადატარებით
 
 ## Labels for sidebar context menu items
 

@@ -102,8 +102,6 @@ genai-header-close-button =
     .title = Cau
 genai-provider-view-details =
     .label = Gweld manylion y sgwrsfot
-genai-provider-about-chatbots =
-    .label = Ynghylch y sgyrsfotiau hyn
 genai-options-reload-generic =
     .label = Ail-lwytho'r sgwrsfot AI
 # $provider (string) - name of the provider

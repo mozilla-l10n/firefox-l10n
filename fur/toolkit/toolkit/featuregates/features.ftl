@@ -46,13 +46,3 @@ experimental-features-js-warp-description = Ative Warp, un progjet par miorâ li
 experimental-features-ime-search =
     .label = Sbare de direzion: mostre i risultâts dilunc la composizion IME
 experimental-features-ime-search-description = Un IME (Editôr di Metodis di Input) al è un imprest che ti permet di inserî, doprant une tastiere standard, simbui complès, come chei doprâts in Asie orientâl o tes lenghis scritis indianis. Ativant chest esperiment il panel de sbare de direzion al restarà viert, mostrant i risultâts di ricercje e i sugjeriments, ancje cuant che si dopre IME par inserî il test. Note che IME al podarès visualizâ un panel che al cuvierç i risultâts de sbare de direzion, duncje cheste opzion e je conseade dome pai IME che che no doprin chest gjenar di panel.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Picture-in-Picture: vierç in automatic al cambi di schede
-experimental-features-auto-pip-description = Ative Picture-in-Picture pai videos in esecuzion cuant che e ven cambiade schede.
-experimental-features-group-developer-tools =
-    .label = Struments di disvilup
-experimental-features-group-webpage-display =
-    .label = Visualizazion pagjine web
-experimental-features-group-customize-browsing =
-    .label = Personalize la tô navigazion

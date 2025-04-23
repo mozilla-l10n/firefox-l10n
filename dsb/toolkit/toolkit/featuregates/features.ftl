@@ -46,13 +46,3 @@ experimental-features-js-warp-description = Zmóžniśo Warp, projekt za pólěp
 experimental-features-ime-search =
     .label = Adresowe pólo: wuslědki za IME-kompoziciju pokazaś
 experimental-features-ime-search-description = IME (Input Method Editor, editor zapódawańskeje metody)  jo rěd, kótaryž wam zmóžnja, kompleksne symbole zapódaś, ako se na pśikład w pódzajtšnoaziskich abo indiskich rěcach wužywaju, z pomocu standardneje tastatury. Gaž toś ten eksperiment zmóžnjaśo, wóstawa wokno adresowego póla wócynjone, kótarež pytańske wuslědki a naraźenja pokazujo, mjaztym až tekst z pomocu IME zapódawaśo. Źiwajśo na to, až IME mógał wokno pokazaś, kótarež wuslědki adresowego póla wopśimujo, togodla se toś to nastajenje jano za IME naraźujo, kótaryž toś ten typ wokna njewužywa.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Wobraz-we-wobrazu: pśi wuměnjenju rejtarika awtomatiski wócyniś
-experimental-features-auto-pip-description = Wobraz-we-wobrazu za aktiwne wideo zmóžniś, gaž se rejtariki wuměnjaju.
-experimental-features-group-developer-tools =
-    .label = Wuwijaŕske rědy
-experimental-features-group-webpage-display =
-    .label = Pokazanje webboka
-experimental-features-group-customize-browsing =
-    .label = Pśiměŕśo swój pśeglědowanje

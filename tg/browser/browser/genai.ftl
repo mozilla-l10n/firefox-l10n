@@ -92,8 +92,6 @@ genai-header-close-button =
     .title = Пӯшидан
 genai-provider-view-details =
     .label = Дидани тафсилоти чат-бот
-genai-provider-about-chatbots =
-    .label = Дар бораи ин чат-ботҳо
 genai-options-reload-generic =
     .label = Аз нав бор кардани чат-боти зеҳни сунъӣ «AI»
 # $provider (string) - name of the provider

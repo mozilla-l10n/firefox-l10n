@@ -263,7 +263,10 @@ feature-highlight-wallpaper =
 ## Confirmation modal for blocking a section
 
 
-## Panel in the Customize menu section to manage followed and blocked topics
+## Strings for custom wallpaper highlight
+
+
+## Strings for download mobile highlight
 
 
 ## Strings for reporting ads and content

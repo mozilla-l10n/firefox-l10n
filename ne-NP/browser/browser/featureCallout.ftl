@@ -50,6 +50,12 @@ callout-pdfjs-draw-button = बुझे!
 ## Split Dismiss Button Labels
 
 
+## Login Status Advisory Callout (points to the account icon)
+
+
+## Bookmarks toolbar callout strings
+
+
 ## Sidebar Strings
 
 

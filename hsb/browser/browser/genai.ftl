@@ -98,8 +98,6 @@ genai-header-close-button =
     .title = Začinić
 genai-provider-view-details =
     .label = Podrobnosće chatoweho bota pokazać
-genai-provider-about-chatbots =
-    .label = Wo tutych chatowych botach
 genai-options-reload-generic =
     .label = Chatowy bot KI znowa začitać
 # $provider (string) - name of the provider

@@ -59,6 +59,12 @@ split-dismiss-button-dont-show-option =
 split-dismiss-button-manage-settings-option =
     .label = Merañ an arventennoù
 
+## Login Status Advisory Callout (points to the account icon)
+
+
+## Bookmarks toolbar callout strings
+
+
 ## Sidebar Strings
 
 

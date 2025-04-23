@@ -253,9 +253,6 @@ newtab-pocket-learn-more = Mear ynfo
 newtab-pocket-cta-button = { -pocket-brand-name } brûke
 newtab-pocket-cta-text = Bewarje de ferhalen dy’t jo ynteressant fine yn { -pocket-brand-name }, en stimulearje jo tinzen mei boeiende lêsstof.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } is ûnderdiel fan de { -brand-product-name }-famylje
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-image =
-    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = Bewarje
 newtab-pocket-saved = Bewarre
 
@@ -391,7 +388,6 @@ newtab-wallpaper-suspension-bridge = Foto’s fan in folsleine hingbrêge oerdei
 newtab-wallpaper-sand-dunes = Wite sândunen
 newtab-wallpaper-palm-trees = Silhûet fan kokospalms wylst gouden oere
 newtab-wallpaper-blue-flowers = Close-upfotografy fan blauwe blommen yn bloei
-newtab-wallpaper-forest-trees = Beammen bedekt mei mist
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -517,7 +513,7 @@ newtab-section-confirm-block-topic-p2 = Blokkearre ûnderwerpen ferskine net mea
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = { $topic } blokkearje
 
-## Panel in the Customize menu section to manage followed and blocked topics
+## Strings for custom wallpaper highlight
 
 newtab-section-mangage-topics-title = Underwerpen
 newtab-section-manage-topics-button-v2 =
@@ -530,6 +526,9 @@ newtab-custom-wallpaper-title = Hjir fine jo oanpaste eftergrûnen
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Laad jo eigen eftergrûn op of kies in oanpaste kleur om { -brand-product-name } fan josels te meitsjen.
 newtab-custom-wallpaper-cta = Probearje
+
+## Strings for download mobile highlight
+
 
 ## Strings for reporting ads and content
 

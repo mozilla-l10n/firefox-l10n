@@ -237,9 +237,6 @@ newtab-pocket-more-recommendations = Повече препоръчани
 newtab-pocket-learn-more = Научете повече
 newtab-pocket-cta-button = Вземете { -pocket-brand-name }
 newtab-pocket-cta-text = Запазете статиите, които харесвате в { -pocket-brand-name } и заредете ума си с увлекателни четива.
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-image =
-    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = Запазване
 newtab-pocket-saved = Запазено
 
@@ -428,7 +425,10 @@ newtab-topic-selection-button-pick-interests = Изберете вашите и�
 ## Confirmation modal for blocking a section
 
 
-## Panel in the Customize menu section to manage followed and blocked topics
+## Strings for custom wallpaper highlight
+
+
+## Strings for download mobile highlight
 
 
 ## Strings for reporting ads and content

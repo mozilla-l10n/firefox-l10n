@@ -46,13 +46,3 @@ experimental-features-js-warp-description = Embojuruja Warp, apopyrã oiko ha oj
 experimental-features-ime-search =
     .label = Kundaharape renda: ehechauka jejapopyre IME ñemyeñói aja
 experimental-features-ime-search-description = Peteĩ IME (Input Method Editor) ha’e tembiporu omoneĩva ejapóvo ta’ãnga’i hasýva ijapo, ojeporúva ñe’ẽnguéra ojehaíva índico térã Asia oriental gotyo, oiporúvo tairenda ypykuéva. Emyandy tembiapopyahu ombojurujáta kundaharape renda rupa, ohechaukávo jehekaha rembiapokue ha je’eporã, ojeporu aja IME emboguapy hag̃ua moñe’ẽrã. Ehecháke IME ikatuha ohechauka tupa omo’ãva kundaharape renda rapykuere, upévare he’i eiporu hag̃ua erohoryvéva IME ndoiporúirõ koichagua tupa.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Picture-in-Picture: Embojuruja emoambuévo tendayke
-experimental-features-auto-pip-description = Embojuruja Picture-in-Picture ta’ãngamýime emoambuévo tendayke.
-experimental-features-group-developer-tools =
-    .label = Mboguatahára rembiporu
-experimental-features-group-webpage-display =
-    .label = Ñanduti rogue jehecha
-experimental-features-group-customize-browsing =
-    .label = Embohéra neñeikundaha

@@ -65,9 +65,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Rozwijaj panel boczny po najechaniu kursorem
-expand-on-hover-message =
-    .heading = Rozwijanie panelu po najechaniu kursorem już niedługo
-    .message = Przyszła aktualizacja umożliwi rozwijanie panelu bocznego po najechaniu kursorem.
 
 ## Labels for sidebar context menu items
 

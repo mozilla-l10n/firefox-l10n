@@ -30,13 +30,3 @@ experimental-features-js-warp =
 experimental-features-ime-search =
     .label = Adresna traka: prikaži rezultate tijekom sastavljanja pomoću IME-a
 experimental-features-ime-search-description = IME (Input Method Editor) je alat koji omogućuje unos složenih simbola, poput onih koji se koriste u istočnoazijskim ili indijskim pisanim jezicima pomoću standardne tipkovnice. Aktiviranjem ovog eksperimenta prozor s adresnom trakom će ostati otvoren, prikazujući rezultate pretraživanja i prijedloge, dok će se za unos teksta koristiti IME. Imaj na umu da će IME možda prikazati prozor koji prekriva rezultate adresne trake, stoga se ova postavka preporučuje samo za IME koji ne koristi ovu vrstu prozora.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Slika-u-slici: automatsko otvaranje pri mijenjanju kartice
-experimental-features-auto-pip-description = Aktiviraj „Slika-u-slici” za aktivna videa prilikom mijenjanja kartica.
-experimental-features-group-developer-tools =
-    .label = Alati za programere
-experimental-features-group-webpage-display =
-    .label = Prikaz web stranice
-experimental-features-group-customize-browsing =
-    .label = Prilagodi svoje pregledavanje

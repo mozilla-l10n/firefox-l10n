@@ -60,9 +60,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Zgjeroje anështyllën, kur i kalohet kursori përsipër
-expand-on-hover-message =
-    .heading = Zgjerimi, kur i kalohet kursori përsipër, vjen së shpejti
-    .message = Në një përditësim të ardhshëm, do të jeni në gjendje të zgjeroni anështyllën, kur i kaloni kursorin përsipër.
 
 ## Labels for sidebar context menu items
 

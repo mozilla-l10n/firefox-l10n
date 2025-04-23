@@ -44,8 +44,6 @@ genai-header-close-button =
     .title = Mdel
 genai-provider-view-details =
     .label = Sken talqayt n chatbot
-genai-provider-about-chatbots =
-    .label = Ayen yerzan chatbots
 genai-options-reload-generic =
     .label = Ales asali n AI chatbot
 # $provider (string) - name of the provider

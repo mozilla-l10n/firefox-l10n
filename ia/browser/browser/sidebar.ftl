@@ -69,9 +69,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Expander barra lateral al survolo
-expand-on-hover-message =
-    .heading = Expansion al sur-volo tosto veniente
-    .message = In un futur actualisation, tu potera expander le barra lateral al survolo.
 
 ## Labels for sidebar context menu items
 

@@ -46,13 +46,3 @@ experimental-features-js-warp-description = 開啟改善 JavaScript 效能與記
 experimental-features-ime-search =
     .label = 網址列：於輸入法未選字時就顯示搜尋引擎回傳的結果
 experimental-features-ime-search-description = 東亞與印度語系使用者須使用輸入法才能在標準鍵盤輸入各種文字。開啟此實驗功能後將在輸入字根的過程中保持開啟網址列面板，並在還沒有決定文字時，就依照輸入內容顯示搜尋結果與建議。請注意：某些輸入法可能會顯示輸入面板，蓋過網址列顯示的結果，因此建議您只在使用的輸入法不會顯示輸入面板，或顯示的面板不會覆蓋搜尋框時，開啟此設定。
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = 子母畫面：切換分頁時自動開啟
-experimental-features-auto-pip-description = 切換分頁時，將播放中的影片顯示於子母畫面中。
-experimental-features-group-developer-tools =
-    .label = 開發者工具
-experimental-features-group-webpage-display =
-    .label = 網頁顯示
-experimental-features-group-customize-browsing =
-    .label = 自訂您的上網體驗

@@ -92,8 +92,6 @@ genai-header-close-button =
     .title = Fermi
 genai-provider-view-details =
     .label = Montri detalojn de la dialoganto
-genai-provider-about-chatbots =
-    .label = Informoj pri tiuj ĉi dialogantoj
 genai-options-reload-generic =
     .label = Reŝargi A.I. dialoganton
 # $provider (string) - name of the provider

@@ -46,13 +46,3 @@ experimental-features-js-warp-description = Активирует проект Wa
 experimental-features-ime-search =
     .label = Адресная строка: показывать результаты при составлении IME
 experimental-features-ime-search-description = IME (Input Method Editor - Редактор методов ввода) — это инструмент, позволяющий вводить сложные символы, например, используемые в письменности языков Восточной Азии или Индии, с помощью стандартной клавиатуры. Включение этого эксперимента позволит держать панель адресной строки открытой, показывая результаты поиска и предложения при использовании IME для ввода текста. Обратите внимание, что IME может отображать панель, закрывающую результаты адресной строки, поэтому данная настройка предлагается только для IME не использующего этот тип панели.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Картинка в картинке: автоматически открывать при переключении вкладок
-experimental-features-auto-pip-description = Включать «Картинку в картинке» для активных видео при переключении вкладок.
-experimental-features-group-developer-tools =
-    .label = Инструменты разработчика
-experimental-features-group-webpage-display =
-    .label = Отображение веб-страницы
-experimental-features-group-customize-browsing =
-    .label = Настройте свой просмотр

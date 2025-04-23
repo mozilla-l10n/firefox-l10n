@@ -66,6 +66,12 @@ split-dismiss-button-manage-settings-option =
 split-dismiss-button-default-label =
     .title = Options supplémentaires
 
+## Login Status Advisory Callout (points to the account icon)
+
+
+## Bookmarks toolbar callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Afficher le titre des onglets dans le panneau latéral

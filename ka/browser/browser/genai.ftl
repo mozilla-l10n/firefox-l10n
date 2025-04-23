@@ -94,8 +94,6 @@ genai-header-close-button =
     .title = დახურვა
 genai-provider-view-details =
     .label = იხილეთ თანამოსაუბრის მონაცემები
-genai-provider-about-chatbots =
-    .label = ამ თანამოსაუბრეების შესახებ
 genai-options-reload-generic =
     .label = ახლიდან ჩაიტვირთოს თანამოსაუბრე
 # $provider (string) - name of the provider

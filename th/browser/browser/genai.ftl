@@ -86,8 +86,6 @@ genai-header-close-button =
     .title = ปิด
 genai-provider-view-details =
     .label = ดูรายละเอียดบอตสนทนา
-genai-provider-about-chatbots =
-    .label = เกี่ยวกับบอตสนทนาเหล่านี้
 genai-options-reload-generic =
     .label = โหลดบอตสนทนา AI ใหม่
 # $provider (string) - name of the provider

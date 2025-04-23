@@ -247,9 +247,6 @@ newtab-pocket-learn-more = מידע נוסף
 newtab-pocket-cta-button = קבלת { -pocket-brand-name }
 newtab-pocket-cta-text = שמירת הסיפורים שאהבת ב־{ -pocket-brand-name } על מנת למלא את מחשבתך בקריאה מרתקת.
 newtab-pocket-pocket-firefox-family = ‏{ -pocket-brand-name } הוא חלק ממשפחת { -brand-product-name }
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-image =
-    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = שמירה
 newtab-pocket-saved = נשמר
 
@@ -385,7 +382,6 @@ newtab-wallpaper-suspension-bridge = תצלום של גשר תלוי אפור ב
 newtab-wallpaper-sand-dunes = דיונות חול לבן
 newtab-wallpaper-palm-trees = צללית של עצי דקל קוקוס במהלך שעת הזהב
 newtab-wallpaper-blue-flowers = צילום תקריב של פרחים כחולי כותרת בפריחה
-newtab-wallpaper-forest-trees = עצים מכוסים בערפל
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -511,7 +507,7 @@ newtab-section-confirm-block-topic-p2 = נושאים חסומים לא יופי�
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = חסימת { $topic }
 
-## Panel in the Customize menu section to manage followed and blocked topics
+## Strings for custom wallpaper highlight
 
 newtab-section-mangage-topics-title = נושאים
 newtab-section-manage-topics-button-v2 =
@@ -524,6 +520,9 @@ newtab-custom-wallpaper-title = טפטים מותאמים אישית נמצאי�
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = ניתן להעלות טפט משלך או לבחור בצבע מותאם אישית כדי להפוך את { -brand-product-name } לשלך.
 newtab-custom-wallpaper-cta = בואו ננסה
+
+## Strings for download mobile highlight
+
 
 ## Strings for reporting ads and content
 

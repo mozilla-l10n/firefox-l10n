@@ -66,8 +66,6 @@ genai-header-close-button =
     .title = Жабу
 genai-provider-view-details =
     .label = Чат-бот мәліметтерін қарау
-genai-provider-about-chatbots =
-    .label = Бұл чат-боттар туралы
 genai-options-reload-generic =
     .label = ЖИ чат-ботын қайта жүктеу
 # $provider (string) - name of the provider

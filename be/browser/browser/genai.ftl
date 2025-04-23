@@ -96,8 +96,6 @@ genai-header-close-button =
     .title = Закрыць
 genai-provider-view-details =
     .label = Паказаць падрабязнасці чат-бота
-genai-provider-about-chatbots =
-    .label = Пра гэтыя чат-боты
 genai-options-reload-generic =
     .label = Абнавіць чат-бота ШІ
 # $provider (string) - name of the provider

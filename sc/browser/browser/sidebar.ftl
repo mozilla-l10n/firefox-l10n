@@ -60,9 +60,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Ismànnia sa barra laterale a su passàgiu de su puntadore
-expand-on-hover-message =
-    .heading = S’ismanniamentu a su passàgiu de su puntadore at a bènnere luego
-    .message = In un’atualizatzione de su benidore, as a pòdere ismanniare sa barra laterale a su passàgiu de su puntadore.
 
 ## Labels for sidebar context menu items
 

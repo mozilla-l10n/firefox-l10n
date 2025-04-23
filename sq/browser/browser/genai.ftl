@@ -92,8 +92,6 @@ genai-header-close-button =
     .title = Mbylle
 genai-provider-view-details =
     .label = Shihni hollësi roboti fjalosjesh
-genai-provider-about-chatbots =
-    .label = Rreth këtyre robotësh fjalosjeje
 genai-options-reload-generic =
     .label = Ringarko robot IA fjalosjesh
 # $provider (string) - name of the provider

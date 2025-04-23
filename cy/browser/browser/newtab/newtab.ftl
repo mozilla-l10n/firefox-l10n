@@ -254,9 +254,6 @@ newtab-pocket-learn-more = Darllen rhagor
 newtab-pocket-cta-button = Defnyddio { -pocket-brand-name }
 newtab-pocket-cta-text = Cadw'r straeon rydych yn eu hoffi i { -pocket-brand-name } a bwydo'ch meddwl á deunydd diddorol.
 newtab-pocket-pocket-firefox-family = Mae { -pocket-brand-name } yn rhan o deulu { -brand-product-name }
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-image =
-    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = Cadw
 newtab-pocket-saved = Wedi'u Cadw
 
@@ -396,7 +393,6 @@ newtab-wallpaper-suspension-bridge = Ffotograffau pont crog llwyd yn ystod y dyd
 newtab-wallpaper-sand-dunes = Twyni tywod gwyn
 newtab-wallpaper-palm-trees = Amlinell coed palmwydd cnau coco yn yr awr euraidd
 newtab-wallpaper-blue-flowers = Ffotograffiaeth agos o flodau petalau glas yn eu blodau
-newtab-wallpaper-forest-trees = Coed wedi'u gorchuddio â niwl
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -522,7 +518,7 @@ newtab-section-confirm-block-topic-p2 = Ni fydd pynciau sydd wedi'u rhwystro yn 
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Rhwystro { $topic }
 
-## Panel in the Customize menu section to manage followed and blocked topics
+## Strings for custom wallpaper highlight
 
 newtab-section-mangage-topics-title = Pynciau
 newtab-section-manage-topics-button-v2 =
@@ -535,6 +531,9 @@ newtab-custom-wallpaper-title = Mae papurau wal cyfaddas yma
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Llwythwch i fyny eich papur wal eich hun neu dewiswch liw cyfaddas i wneud { -brand-product-name } deimlo'n gartrefol.
 newtab-custom-wallpaper-cta = Rhowch gynnig arni
+
+## Strings for download mobile highlight
+
 
 ## Strings for reporting ads and content
 

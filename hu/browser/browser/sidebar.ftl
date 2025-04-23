@@ -69,9 +69,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Oldalsáv kibontása rámutatáskor
-expand-on-hover-message =
-    .heading = Ráhúzásra kibontás, hamarosan
-    .message = Egy jövőbeli frissítés után ráhúzásra ki fogja tudni bontani az oldalsávot.
 
 ## Labels for sidebar context menu items
 

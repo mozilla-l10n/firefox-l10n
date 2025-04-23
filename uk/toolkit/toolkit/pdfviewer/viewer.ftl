@@ -605,9 +605,6 @@ pdfjs-editor-edit-signature-update-button = Оновити
 
 ## Main menu for adding/removing signatures
 
-pdfjs-editor-delete-signature-button =
-    .title = Вилучити підпис
-pdfjs-editor-delete-signature-button-label = Вилучити підпис
 pdfjs-editor-delete-signature-button1 =
     .title = Видалити збережений підпис
 pdfjs-editor-delete-signature-button-label1 = Видалити збережений підпис

@@ -94,8 +94,6 @@ genai-header-close-button =
     .title = Clauder
 genai-provider-view-details =
     .label = Vider detalios de chatbot
-genai-provider-about-chatbots =
-    .label = Re iste chatbots
 genai-options-reload-generic =
     .label = Recargar chatbot IA
 # $provider (string) - name of the provider

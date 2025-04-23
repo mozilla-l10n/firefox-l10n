@@ -606,9 +606,6 @@ pdfjs-editor-edit-signature-update-button = Eguneratu
 
 ## Main menu for adding/removing signatures
 
-pdfjs-editor-delete-signature-button =
-    .title = Kendu sinadura
-pdfjs-editor-delete-signature-button-label = Kendu sinadura
 pdfjs-editor-delete-signature-button1 =
     .title = Kendu gordetako sinadura
 pdfjs-editor-delete-signature-button-label1 = Kendu gordetako sinadura

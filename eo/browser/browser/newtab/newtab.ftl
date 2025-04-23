@@ -249,9 +249,6 @@ newtab-pocket-learn-more = Pli da informo
 newtab-pocket-cta-button = Instali { -pocket-brand-name }
 newtab-pocket-cta-text = Konservu viajn ŝatatajn artikolojn en { -pocket-brand-name }, kaj stimulu vian menson per ravaj legaĵoj.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } estas parto de la familio { -brand-product-name }
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-image =
-    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = Konservi
 newtab-pocket-saved = Konservitaj
 
@@ -387,7 +384,6 @@ newtab-wallpaper-suspension-bridge = Griza foto de pendponto dum tago
 newtab-wallpaper-sand-dunes = Blankaj sablomontetoj
 newtab-wallpaper-palm-trees = Konturo de kokosaj palmarboj dum sunsubiro
 newtab-wallpaper-blue-flowers = Deproksima foto de blu-petalaj floroj en florado
-newtab-wallpaper-forest-trees = Arboj kovritaj de nebulo
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -513,7 +509,7 @@ newtab-section-confirm-block-topic-p2 = Blokitaj temoj ne plu aperos en via info
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Bloki { $topic }
 
-## Panel in the Customize menu section to manage followed and blocked topics
+## Strings for custom wallpaper highlight
 
 newtab-section-mangage-topics-title = Temoj
 newtab-section-manage-topics-button-v2 =
@@ -526,6 +522,9 @@ newtab-custom-wallpaper-title = Tie ĉi troviĝas personecigitaj ekranfonoj
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Alŝutu vian propran ekranfonon aŭ elektu koloron por personecigi { -brand-product-name }.
 newtab-custom-wallpaper-cta = Provi
+
+## Strings for download mobile highlight
+
 
 ## Strings for reporting ads and content
 

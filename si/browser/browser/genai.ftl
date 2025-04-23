@@ -62,8 +62,6 @@ genai-header-close-button =
     .title = වසන්න
 genai-provider-view-details =
     .label = කතා ක්‍රමලේඛයේ විස්තර බලන්න
-genai-provider-about-chatbots =
-    .label = මෙම කතා ක්‍රමලේඛ ගැන
 genai-options-reload-generic =
     .label = AI කතා ක්‍රමලේඛය යළි පූරණය කරන්න
 # $provider (string) - name of the provider

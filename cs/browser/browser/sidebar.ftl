@@ -77,9 +77,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Rozbalit postranní panel při najetí myší
-expand-on-hover-message =
-    .heading = Rozbalení po přejetí myší již brzy
-    .message = V budoucí aktualizaci bude možné postranní lištu rozbalit při najetí myší.
 
 ## Labels for sidebar context menu items
 

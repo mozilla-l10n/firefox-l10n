@@ -28,9 +28,6 @@ sidebar-hide-tabs-and-sidebar =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Ընդարձակել կողագոտին վրան պահելիս
-expand-on-hover-message =
-    .heading = «Ընդարձակել վրան պահելիս»-ը շուտով հասանելի կլինի
-    .message = Հետագա թարմացումից հետո կկարողանաք ընդարձակել կողագոտին վրան պահելիս:
 
 ## Labels for sidebar context menu items
 

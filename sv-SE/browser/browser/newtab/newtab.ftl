@@ -253,9 +253,6 @@ newtab-pocket-learn-more = Läs mer
 newtab-pocket-cta-button = Hämta { -pocket-brand-name }
 newtab-pocket-cta-text = Spara de historier som du tycker är intressant i { -pocket-brand-name } och stimulera dina tankar med fascinerande läsmaterial.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } är en del av familjen { -brand-product-name }
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-image =
-    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = Spara
 newtab-pocket-saved = Sparad
 
@@ -391,7 +388,6 @@ newtab-wallpaper-suspension-bridge = Grå fotografering av helhängbro under dag
 newtab-wallpaper-sand-dunes = Vita sanddyner
 newtab-wallpaper-palm-trees = Silhuett av kokospalmer under gyllene timmen
 newtab-wallpaper-blue-flowers = Närbild fotografi av blommor med blå kronblad i blom
-newtab-wallpaper-forest-trees = Träd täckta med dimma
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -517,7 +513,7 @@ newtab-section-confirm-block-topic-p2 = Blockerade ämnen kommer inte längre at
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Blockera { $topic }
 
-## Panel in the Customize menu section to manage followed and blocked topics
+## Strings for custom wallpaper highlight
 
 newtab-section-mangage-topics-title = Ämnen
 newtab-section-manage-topics-button-v2 =
@@ -530,6 +526,9 @@ newtab-custom-wallpaper-title = Anpassade bakgrundsbilder finns här
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Ladda upp din egen bakgrundsbild eller välj en anpassad färg för att göra { -brand-product-name } till din.
 newtab-custom-wallpaper-cta = Prova den
+
+## Strings for download mobile highlight
+
 
 ## Strings for reporting ads and content
 

@@ -92,8 +92,6 @@ genai-header-close-button =
     .title = Κλείσιμο
 genai-provider-view-details =
     .label = Προβολή λεπτομερειών chatbot
-genai-provider-about-chatbots =
-    .label = Σχετικά με αυτά τα chatbot
 genai-options-reload-generic =
     .label = Επαναφόρτωση chatbot ΤΝ
 # $provider (string) - name of the provider

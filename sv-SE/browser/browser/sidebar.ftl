@@ -69,9 +69,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Expandera sidofält vid hovring
-expand-on-hover-message =
-    .heading = Expandera vid hovring kommer snart
-    .message = I en framtida uppdatering kommer du att kunna expandera sidofältet vid hovring.
 
 ## Labels for sidebar context menu items
 

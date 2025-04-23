@@ -249,9 +249,6 @@ newtab-pocket-learn-more = Ďalšie informácie
 newtab-pocket-cta-button = Získajte { -pocket-brand-name }
 newtab-pocket-cta-text = Ukladajte si články do { -pocket-brand-name(case: "gen") } a užívajte si skvelé čítanie.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } je súčasťou rodiny { -brand-product-name(case: "gen") }
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-image =
-    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = Uložiť
 newtab-pocket-saved = Uložené
 
@@ -388,7 +385,6 @@ newtab-wallpaper-suspension-bridge = Sivá fotografia celoodpruženého mosta po
 newtab-wallpaper-sand-dunes = Biele pieskové duny
 newtab-wallpaper-palm-trees = Silueta kokosových paliem počas zlatej hodiny
 newtab-wallpaper-blue-flowers = Detailná fotografia kvetov s modrými okvetnými lístkami
-newtab-wallpaper-forest-trees = Stromy pokryté hmlou
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -514,7 +510,7 @@ newtab-section-confirm-block-topic-p2 = Zablokované témy sa už nebudú zobraz
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Blokovať { $topic }
 
-## Panel in the Customize menu section to manage followed and blocked topics
+## Strings for custom wallpaper highlight
 
 newtab-section-mangage-topics-title = Témy
 newtab-section-manage-topics-button-v2 =
@@ -527,6 +523,9 @@ newtab-custom-wallpaper-title = Vlastné tapety sú tu
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Nahrajte svoju vlastnú tapetu alebo si vyberte vlastnú farbu a prispôsobte si svoj { -brand-product-name }.
 newtab-custom-wallpaper-cta = Vyskúšajte to
+
+## Strings for download mobile highlight
+
 
 ## Strings for reporting ads and content
 

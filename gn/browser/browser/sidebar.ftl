@@ -69,9 +69,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Emyasãi tenda yke embohasávo anguja’i
-expand-on-hover-message =
-    .heading = Og̃uahẽmbotáma tuichavétaha embohasávo anguja’i
-    .message = Og̃uahẽmbotaitéma ñemyasãi embohasávo anguja’i púnta hi’ári
 
 ## Labels for sidebar context menu items
 

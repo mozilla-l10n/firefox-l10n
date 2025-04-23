@@ -31,11 +31,3 @@ experimental-features-ime-search =
 experimental-features-ime-search-description =
     IME (ආදාන ක්‍රම සංස්කරකය) යනු ඔබට සම්මත යතුරුපුවරුවක් භාවිතයෙන් නැගෙනහිර ආසියානු හෝ ඉන්දීය වැනි ලිඛිත භාෂාවල සංකීර්ණ සංකේත ඇතුල් කිරීමට ඉඩ සලසන මෙවලමකි. මෙම අත්හදා බැලීම සබල කළහොත් ලිපින තීරු මඬල විවෘතව තැබෙන අතර, IME භාවිතයෙන් පෙළ ආදාන කරන අතරතුර සෙවුම් ප්‍රතිඵල සහ යෝජනා පෙන්වයි.
     සටහන: IME මගින් ලිපින තීරු ප්‍රතිඵල ආවරණය වන මඬලක් සංදර්ශනය විය හැකිය, එබැවින් මෙම අභිප්‍රේතය යෝජනා කරනු ලබන්නේ මෙම අන්දමින් මඬලක් භාවිතා නොකරන IME සඳහා පමණි.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = රූපයෙන් රූපයට: පටිති මාරුවේ දී ඉබේ විවෘත වේ
-experimental-features-auto-pip-description = පටිති මාරු වන විට සක්‍රිය දෘශ්‍යක සඳහා රූපයෙන් රූපයට සබල කරන්න.
-experimental-features-group-developer-tools =
-    .label = සංවර්ධක මෙවලම්
-experimental-features-group-customize-browsing =
-    .label = ඔබගේ පිරික්සීම අභිරුචිකරණය

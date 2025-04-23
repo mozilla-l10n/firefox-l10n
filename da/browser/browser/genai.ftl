@@ -94,8 +94,6 @@ genai-header-close-button =
     .title = Luk
 genai-provider-view-details =
     .label = Vis detaljer om chatbots
-genai-provider-about-chatbots =
-    .label = Om disse chatbots
 genai-options-reload-generic =
     .label = Genindlæs AI-chatbot
 # $provider (string) - name of the provider

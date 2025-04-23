@@ -252,9 +252,6 @@ newtab-pocket-learn-more = Kuaave
 newtab-pocket-cta-button = Eguereko { -pocket-brand-name }
 newtab-pocket-cta-text = Eñongatu umi eipotáva tembiasakue { -pocket-brand-name }-pe ha emombarete ne akã ñemoñe’ẽ ha’evévape.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } ha’e { -brand-product-name } pehẽngue
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-image =
-    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = Ñongatu
 newtab-pocket-saved = Ñongatupyre
 
@@ -390,7 +387,6 @@ newtab-wallpaper-suspension-bridge = Jehasaha osãingóva ra’ãnga isa’y tan
 newtab-wallpaper-sand-dunes = Yvyku’i morotĩ atýra
 newtab-wallpaper-palm-trees = Jata’i ra’ãnga aravo itajúva aja
 newtab-wallpaper-blue-flowers = Yvoty hovy ra’ãnga ag̃uietégui ipotyjeráva
-newtab-wallpaper-forest-trees = Yvyramáta ojaho’íva arai
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -516,7 +512,7 @@ newtab-section-confirm-block-topic-p2 = Umi téma jokopyre nosẽmo’ãvéima c
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Ejoko { $topic }
 
-## Panel in the Customize menu section to manage followed and blocked topics
+## Strings for custom wallpaper highlight
 
 newtab-section-mangage-topics-title = Téma
 newtab-section-manage-topics-button-v2 =
@@ -529,6 +525,9 @@ newtab-custom-wallpaper-title = Ko’ápe oĩ mba’erechaha rugua
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Ehupi ne mba’erechaha teéva térã eiporavo sa’yete embohéra hag̃ua ne { -brand-product-name }.
 newtab-custom-wallpaper-cta = Eha’ãjey
+
+## Strings for download mobile highlight
+
 
 ## Strings for reporting ads and content
 

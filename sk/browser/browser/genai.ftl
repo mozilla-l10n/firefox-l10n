@@ -98,8 +98,6 @@ genai-header-close-button =
     .title = Zavrieť
 genai-provider-view-details =
     .label = Zobraziť podrobnosti o chatbotovi
-genai-provider-about-chatbots =
-    .label = O týchto chatbotoch
 genai-options-reload-generic =
     .label = Znova načítať AI chatbota
 # $provider (string) - name of the provider

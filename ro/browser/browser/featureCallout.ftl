@@ -22,6 +22,12 @@ fx-view-discoverability-subtitle = Găsește-le și redeschide-le rapid de aici.
 ## Split Dismiss Button Labels
 
 
+## Login Status Advisory Callout (points to the account icon)
+
+
+## Bookmarks toolbar callout strings
+
+
 ## Sidebar Strings
 
 

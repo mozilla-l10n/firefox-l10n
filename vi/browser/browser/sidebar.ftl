@@ -69,9 +69,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Mở rộng thanh lề khi di chuột tới nó
-expand-on-hover-message =
-    .heading = Mở rộng khi di chuột sắp ra mắt
-    .message = Sau khi bản cập nhật trong tương lai ra mắt, bạn sẽ có thể mở rộng thanh lề khi di chuột vào đó.
 
 ## Labels for sidebar context menu items
 

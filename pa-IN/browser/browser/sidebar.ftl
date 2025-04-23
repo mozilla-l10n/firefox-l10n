@@ -69,9 +69,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = ਮਾਊਸ ਕੋਲ ਲੈ ਜਾਣ ਉੱਤੇ ਬਾਹੀ ਨੂੰ ਫੈਲਾਓ
-expand-on-hover-message =
-    .heading = ਉੱਤੇ ਲੈ ਕੇ ਜਾਣ ਨਾਲ ਫੈਲਾਉਣਾ ਛੇਤੀ ਹੀ ਆ ਰਿਹਾ ਹੈ
-    .message = ਅਗਲੇ ਅੱਪਡੇਟਾਂ ਵਿੱਚ ਤੁਸੀਂ ਉੱਤੇ ਲੈ ਜਾਣ ਨਾਲ ਹੀ ਬਾਹੀ ਨੂੰ ਫੈਲਾਉਣ ਦੇ ਯੋਗ ਹੋਵੋਗੇ।
 
 ## Labels for sidebar context menu items
 

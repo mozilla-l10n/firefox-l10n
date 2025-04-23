@@ -66,8 +66,6 @@ genai-header-close-button =
     .title = סגירה
 genai-provider-view-details =
     .label = הצגת פרטי צ’אט בוט
-genai-provider-about-chatbots =
-    .label = על אודות הצ’אט בוטים האלו
 genai-options-reload-generic =
     .label = טעינה מחדש של צ’אט בוט AI
 # $provider (string) - name of the provider

@@ -94,8 +94,6 @@ genai-header-close-button =
     .title = Kapat
 genai-provider-view-details =
     .label = Sohbet botu ayrıntılarını göster
-genai-provider-about-chatbots =
-    .label = Bu sohbet botları hakkında
 genai-options-reload-generic =
     .label = Yapay zekâ sohbet botunu tazele
 # $provider (string) - name of the provider

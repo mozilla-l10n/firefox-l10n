@@ -250,9 +250,6 @@ newtab-pocket-learn-more = Leghe àteru
 newtab-pocket-cta-button = Otene { -pocket-brand-name }
 newtab-pocket-cta-text = Sarva is istòrias tuas preferidas in { -pocket-brand-name }, e ispàssia·ti cun leturas incantadoras.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } est parte de sa famìlia de { -brand-product-name }
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-image =
-    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = Sarva
 newtab-pocket-saved = Sarvadu
 
@@ -481,7 +478,7 @@ newtab-section-cancel-button = Immoe nono
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Bloca { $topic }
 
-## Panel in the Customize menu section to manage followed and blocked topics
+## Strings for custom wallpaper highlight
 
 newtab-section-mangage-topics-title = Argumentos
 newtab-section-manage-topics-button-v2 =
@@ -490,6 +487,9 @@ newtab-section-mangage-topics-followed-topics = Sighidu
 newtab-section-mangage-topics-followed-topics-empty-state = Non ses ancora sighende nissunu argumentu
 newtab-section-mangage-topics-blocked-topics = Blocadu
 newtab-section-mangage-topics-blocked-topics-empty-state = No as ancora blocadu nissunu argumentu
+
+## Strings for download mobile highlight
+
 
 ## Strings for reporting ads and content
 

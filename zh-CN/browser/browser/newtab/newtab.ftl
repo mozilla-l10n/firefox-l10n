@@ -249,9 +249,6 @@ newtab-pocket-learn-more = 详细了解
 newtab-pocket-cta-button = 获取 { -pocket-brand-name }
 newtab-pocket-cta-text = 将您喜爱的故事保存到 { -pocket-brand-name }，用精彩的读物为思想注入活力。
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } 是 { -brand-product-name } 系列产品的一部分
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-image =
-    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = 保存
 newtab-pocket-saved = 已保存
 
@@ -386,7 +383,6 @@ newtab-wallpaper-suspension-bridge = 白天时的灰色全悬索桥照片
 newtab-wallpaper-sand-dunes = 白色沙丘
 newtab-wallpaper-palm-trees = 魔术光下的椰子树侧影
 newtab-wallpaper-blue-flowers = 蓝瓣花绽放的近景照片
-newtab-wallpaper-forest-trees = 浓雾掩映的树木
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -512,7 +508,7 @@ newtab-section-confirm-block-topic-p2 = 将不再向您推送被屏蔽的主题�
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = 屏蔽“{ $topic }”
 
-## Panel in the Customize menu section to manage followed and blocked topics
+## Strings for custom wallpaper highlight
 
 newtab-section-mangage-topics-title = 主题
 newtab-section-manage-topics-button-v2 =
@@ -525,6 +521,9 @@ newtab-custom-wallpaper-title = 在此处自定义壁纸
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = 自行上传壁纸或选取自定义颜色，让 { -brand-product-name } 更有个性。
 newtab-custom-wallpaper-cta = 试试看
+
+## Strings for download mobile highlight
+
 
 ## Strings for reporting ads and content
 

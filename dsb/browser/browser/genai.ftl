@@ -98,8 +98,6 @@ genai-header-close-button =
     .title = Zacyniś
 genai-provider-view-details =
     .label = Drobnostki chatowego bota pokazaś
-genai-provider-about-chatbots =
-    .label = Wó toś tych chatowych botach
 genai-options-reload-generic =
     .label = Chatowy bot KI znowego zacytaś
 # $provider (string) - name of the provider

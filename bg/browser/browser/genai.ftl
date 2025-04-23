@@ -70,8 +70,6 @@ genai-header-close-button =
     .title = Затваряне
 genai-provider-view-details =
     .label = Преглед на подробностите за чатбота
-genai-provider-about-chatbots =
-    .label = Относно тези чатботове
 genai-options-reload-generic =
     .label = Презареждане на чатбота
 # $provider (string) - name of the provider

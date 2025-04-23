@@ -86,8 +86,6 @@ genai-header-close-button =
     .title = Tutup
 genai-provider-view-details =
     .label = Lihat detail chatbot
-genai-provider-about-chatbots =
-    .label = Tentang bot obrolan ini
 genai-options-reload-generic =
     .label = Muat ulang bot obrolan AI
 # $provider (string) - name of the provider

@@ -46,13 +46,3 @@ experimental-features-js-warp-description = 启用 Warp，此项目旨在改善 
 experimental-features-ime-search =
     .label = 地址栏：实时显示输入过程中的结果
 experimental-features-ime-search-description = 对于东亚及印度语言使用者，要在标准键盘上输入各种文字，输入法是不可或缺的工具。启用此实验后，地址栏面板将在文本输入过程中保持打开状态，并实时显示搜索结果与建议。请注意：某些输入法的面板可能会覆盖地址栏显示的结果，建议在确认所用输入法无上述行为后，开启此首选项。
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = 画中画：切换标签页时自动开启
-experimental-features-auto-pip-description = 切换标签页时，为正在播放的视频启用画中画功能。
-experimental-features-group-developer-tools =
-    .label = 开发者工具
-experimental-features-group-webpage-display =
-    .label = 网页显示
-experimental-features-group-customize-browsing =
-    .label = 定制浏览体验

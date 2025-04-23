@@ -69,9 +69,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Bóčnicu pod kursorom pokazać
-expand-on-hover-message =
-    .heading = Z kursorom nad bóčnicu rozšěrić bórze k dispoziciji
-    .message = W přichodnej aktualizaciji móžeće bóčnicu rozšěrić, hdyž kursor nad njej dźeržiće.
 
 ## Labels for sidebar context menu items
 

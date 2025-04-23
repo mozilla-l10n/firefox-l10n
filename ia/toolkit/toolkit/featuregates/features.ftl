@@ -46,13 +46,3 @@ experimental-features-js-warp-description = Activar Warp, un projecto pro melior
 experimental-features-ime-search =
     .label = Barra de adresse: monstrar resultatos durante le composition IME
 experimental-features-ime-search-description = Un IME (Input Method Editor, editor a methodos de entrata) es un utensile que te permitte scriber symbolos complexe, como illos usate pro scriber in linguas est-asiatic o indic, usante un claviero standard. Iste experimento mantenera le pannello del barra de adresse aperte, monstrante le resultatos e suggestiones de recerca durante que tu usa IME pro entrar texto. Nota que le IME pote monstrar un pannello que coperi le resultatos del barra de adresse, dunque iste preferentia es solo suggerite pro IME que non usa iste typo de pannello.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Imagine annidate: auto aperir al mutation de scheda.
-experimental-features-auto-pip-description = Activar Imagine annidate sur le videos active mutante schedas.
-experimental-features-group-developer-tools =
-    .label = Instrumentos de disveloppamento
-experimental-features-group-webpage-display =
-    .label = Visualisation de pagina web
-experimental-features-group-customize-browsing =
-    .label = Personalisa tu navigation

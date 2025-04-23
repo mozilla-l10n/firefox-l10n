@@ -251,9 +251,6 @@ newtab-pocket-learn-more = Падрабязней
 newtab-pocket-cta-button = Атрымаць { -pocket-brand-name }
 newtab-pocket-cta-text = Захоўвайце ўлюбёныя гісторыі ў { -pocket-brand-name }, і сілкуйце свой розум добрай чытанкай.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } уваходзіць у сямейства { -brand-product-name }
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-image =
-    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = Захаваць
 newtab-pocket-saved = Захавана
 
@@ -390,7 +387,6 @@ newtab-wallpaper-suspension-bridge = Фатаграфія шэрага поўн�
 newtab-wallpaper-sand-dunes = Белыя пясчаныя выдмы
 newtab-wallpaper-palm-trees = Сілуэт какосавых пальмаў у залаты час
 newtab-wallpaper-blue-flowers = Фатаграфія буйным планам кветак з блакітнымі пялёсткамі
-newtab-wallpaper-forest-trees = Дрэвы, пакрытыя туманам
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -516,7 +512,7 @@ newtab-section-confirm-block-topic-p2 = Заблакаваныя тэмы бол
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Заблакаваць { $topic }
 
-## Panel in the Customize menu section to manage followed and blocked topics
+## Strings for custom wallpaper highlight
 
 newtab-section-mangage-topics-title = Тэмы
 newtab-section-manage-topics-button-v2 =
@@ -525,6 +521,9 @@ newtab-section-mangage-topics-followed-topics = Падпіскі
 newtab-section-mangage-topics-followed-topics-empty-state = Вы яшчэ не падпісаліся ні на адну тэму.
 newtab-section-mangage-topics-blocked-topics = Заблакаваны
 newtab-section-mangage-topics-blocked-topics-empty-state = Вы яшчэ не заблакавалі ніводнай тэмы.
+
+## Strings for download mobile highlight
+
 
 ## Strings for reporting ads and content
 

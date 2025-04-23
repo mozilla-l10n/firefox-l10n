@@ -605,9 +605,6 @@ pdfjs-editor-edit-signature-update-button = Абнавіць
 
 ## Main menu for adding/removing signatures
 
-pdfjs-editor-delete-signature-button =
-    .title = Выдаліць подпіс
-pdfjs-editor-delete-signature-button-label = Выдаліць подпіс
 pdfjs-editor-delete-signature-button1 =
     .title = Выдаліць захаваны подпіс
 pdfjs-editor-delete-signature-button-label1 = Выдаліць захаваны подпіс

@@ -238,9 +238,6 @@ newtab-pocket-learn-more = Gouzout hiroc’h
 newtab-pocket-cta-button = Staliañ { -pocket-brand-name }
 newtab-pocket-cta-text = Enrollit pennadoù a-zoare e { -pocket-brand-name } ha magit ho spered gant lennadennoù boemus.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } a zo ul lodenn eus familh { -brand-product-name }
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-image =
-    .aria-label = { -pocket-brand-name }
 newtab-pocket-save = Enrollañ
 newtab-pocket-saved = Enrollet
 
@@ -421,10 +418,13 @@ newtab-section-blocked-button = Stanket
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Stankañ { $topic }
 
-## Panel in the Customize menu section to manage followed and blocked topics
+## Strings for custom wallpaper highlight
 
 newtab-section-mangage-topics-followed-topics = O heuliañ
 newtab-section-mangage-topics-blocked-topics = Stanket
+
+## Strings for download mobile highlight
+
 
 ## Strings for reporting ads and content
 

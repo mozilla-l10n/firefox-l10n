@@ -69,9 +69,6 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Zijbalk bij aanwijzen uitvouwen
-expand-on-hover-message =
-    .heading = Uitvouwen bij aanwijzen volgt binnenkort
-    .message = In een toekomstige update kunt u de zijbalk uitvouwen door deze aan te wijzen.
 
 ## Labels for sidebar context menu items
 

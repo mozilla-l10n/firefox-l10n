@@ -66,8 +66,6 @@ genai-header-close-button =
     .title = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 genai-provider-view-details =
     .label = ᱪᱟᱴᱵᱚᱴ ᱵᱤᱵᱨᱚᱬ ᱧᱮᱞ ᱢᱮ
-genai-provider-about-chatbots =
-    .label = ᱱᱚᱶᱟ ᱠᱚ ᱪᱟᱴᱵᱚᱴ ᱵᱟᱨᱮᱛᱮ
 genai-options-reload-generic =
     .label = AI ᱪᱟᱴᱵᱚᱴ ᱫᱚᱦᱲᱟ ᱞᱟᱫᱮ ᱢᱮ
 # $provider (string) - name of the provider
