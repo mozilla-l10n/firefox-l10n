@@ -78,10 +78,16 @@ sidebar-context-menu-remove-extension =
     .label = 확장 기능 제거
 sidebar-context-menu-report-extension =
     .label = 확장 기능 신고
+sidebar-context-menu-open-in-tab =
+    .label = 새 탭에서 열기
+sidebar-context-menu-open-in-container-tab =
+    .label = 새 컨테이너 탭에서 열기
 sidebar-context-menu-open-in-window =
     .label = 새 창에서 열기
 sidebar-context-menu-open-in-private-window =
     .label = 새 사생활 보호 창에서 열기
+sidebar-context-menu-forget-site =
+    .label = 웹 사이트의 모든 데이터 지우기…
 sidebar-context-menu-bookmark-tab =
     .label = 탭 북마크…
 sidebar-context-menu-copy-link =
@@ -101,6 +107,10 @@ sidebar-context-menu-close-remote-tab =
 
 sidebar-history-context-menu-delete-page =
     .label = 기록에서 삭제
+sidebar-history-context-menu-delete-page-2 =
+    .label = 기록에서 페이지 삭제
+sidebar-history-context-menu-bookmark-page =
+    .label = 페이지 북마크…
 
 ## Labels for sidebar menu items.
 
