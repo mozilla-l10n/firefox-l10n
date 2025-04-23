@@ -7,6 +7,8 @@ profile-window-body = Ohranite službeno in zasebno brskanje, vključno z gesli 
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label = Ko se { -brand-short-name } odpre, izberi profil
+# This subcopy appears below the checkbox when it is unchecked
+profile-window-checkbox-subcopy = { -brand-short-name } bo odprl nazadnje uporabljeni profil.
 profile-window-create-profile = Ustvari profil
 profile-card-edit-button =
     .title = Uredi profil
