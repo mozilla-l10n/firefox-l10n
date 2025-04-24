@@ -78,10 +78,16 @@ sidebar-context-menu-remove-extension =
     .label = Тоза кардани васеъшавӣ
 sidebar-context-menu-report-extension =
     .label = Шикоят дар бораи васеъшавӣ
+sidebar-context-menu-open-in-tab =
+    .label = Кушодан дар варақаи нав
+sidebar-context-menu-open-in-container-tab =
+    .label = Кушодан дар варақаи нави дарбаргиранда
 sidebar-context-menu-open-in-window =
     .label = Кушодан дар равзанаи нав
 sidebar-context-menu-open-in-private-window =
     .label = Кушодан дар равзанаи хусусии нав
+sidebar-context-menu-forget-site =
+    .label = Тоза кардани ҳамаи маълумот барои сомона…
 sidebar-context-menu-bookmark-tab =
     .label = Гузоштани хатбарак барои варақа…
 sidebar-context-menu-copy-link =
@@ -101,6 +107,10 @@ sidebar-context-menu-close-remote-tab =
 
 sidebar-history-context-menu-delete-page =
     .label = Нест кардан аз таърих
+sidebar-history-context-menu-delete-page-2 =
+    .label = Нест кардани саҳифа аз таърих
+sidebar-history-context-menu-bookmark-page =
+    .label = Гузоштани хатбарак барои ин саҳифа…
 
 ## Labels for sidebar menu items.
 

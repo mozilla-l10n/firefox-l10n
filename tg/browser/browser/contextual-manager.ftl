@@ -290,3 +290,9 @@ contextual-manager-passwords-discard-changes-heading-and-message =
     .message = Тағйироти шумо нигоҳ дошта намешавад.
 contextual-manager-passwords-discard-changes-close-button = Пӯшидан
 contextual-manager-passwords-discard-changes-go-back-button = Бозгашт
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] Ҳа, ниҳонвожаро тоза намоед
+       *[other] Yes, remove passwords
+    }

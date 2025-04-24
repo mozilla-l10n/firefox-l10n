@@ -6,3 +6,6 @@ clear-data-for-site-title = Ҳамаи маълумотро барои ин со
 # Variables:
 #   $site (string) - Website name
 clear-data-for-site-list = Ин амал ҳамаи маълумотро барои { $site } тоза мекунад, аз он ҷумла:
+clear-data-for-site-browsing-history = Таърихи тамошобинӣ ва боргирӣ
+clear-data-for-site-dialog-accept-button = Пок кардани маълумот
+clear-data-for-site-dialog-cancel-button = Бекор кардан

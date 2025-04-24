@@ -527,6 +527,7 @@ newtab-custom-wallpaper-cta = Озмоед
 
 ## Strings for download mobile highlight
 
+newtab-download-mobile-highlight-title = Браузери «{ -brand-product-name }»-ро ба телефони мобилии худ боргирӣ кунед
 
 ## Strings for reporting ads and content
 
