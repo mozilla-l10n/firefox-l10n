@@ -4,7 +4,7 @@
 
 colors-close-key =
     .key = w
-colors-page-override = Gnora i culura spicificati dâ pàggina chî to scigghiuti supra
+colors-page-override = Suprascrivi i culura spicificati dâ pàggina cu chiḍḍi chi scartasti supra
     .accesskey = O
 colors-page-override-option-always =
     .label = Sempri

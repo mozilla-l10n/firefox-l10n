@@ -483,8 +483,8 @@ search-find-more-link = Trova autri mutura di risciduta
 search-keyword-warning-title = Dùplica palora-chiavi
 # Variables:
 #   $name (string) - Name of a search engine.
-search-keyword-warning-engine = Scigghisti na palora-chiavi ca a stu mumentu veni usata di “{ $name }”. Scìgghinni n'autra.
-search-keyword-warning-bookmark = Scigghisti na palora-chiavi ca a stu mumentu veni usati di nu nzingalibbru. Scìgghinni n'autra.
+search-keyword-warning-engine = Scartasti na palora-chiavi ca a stu mumentu veni usata di “{ $name }”. Scàrtanni n'autra.
+search-keyword-warning-bookmark = Scartasti na palora-chiavi ca a stu mumentu veni usati di nu nzingalibbru. Scàrtanni n'autra.
 
 ## Containers Section
 
@@ -800,7 +800,7 @@ enhanced-tracking-protection-setting-custom =
 ##
 
 content-blocking-etp-strict-desc = Prutizziuni cchiù auta, ma certi siti o cuntinuti putìssiru farsijari.
-content-blocking-etp-custom-desc = Scegghi quali trazzatura e prugrammi bluccari.
+content-blocking-etp-custom-desc = Scarta quali trazzatura e prugrammi bluccari.
 content-blocking-private-windows = Cuntinuti trazzanti nnê finestri anònimi
 content-blocking-cross-site-tracking-cookies = Viscotta di trazzatura ntirsitu
 content-blocking-social-media-trackers = Trazzatura dî riti suciali
@@ -893,7 +893,7 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = Cullizziuni e usu di dati di { -brand-short-name }
-collection-description = Ni sfurzamu di furnìriti scigghiuti e arricògghiri sulu chiḍḍu chi ni serbi pi furniri e ammigghiurari { -brand-short-name } pi tutti. Dumannamu sempri u pirmissu prima d'arricìviri nfurmazzioni pirsunali.
+collection-description = Ni sfurzamu di dàriti aḍḍijuti e arricògghiri sulu chiḍḍu chi ni serbi pi furniri e ammigghiurari { -brand-short-name } pi tutti. Dumannamu sempri u pirmissu prima d'arricìviri nfurmazzioni pirsunali.
 collection-privacy-notice = Abbisu di privatizza
 collection-health-report-telemetry-disabled = Nun sta' pirmittennu cchiù a { -vendor-short-name } di cògghiri dati tècnici e supra ê ntirazzioni. Tutti i dati vecchi sarannu scancillati nna 30 jorna.
 collection-health-report-telemetry-disabled-link = Cchiù nfurmazzioni

@@ -94,7 +94,7 @@ fonts-minsize = Grannizza mìnima dû caràttiri
 fonts-minsize-none =
     .label = Nuḍḍa
 fonts-allow-own =
-    .label = Pirmetti ê pàggini di scègghiri u so caràttiri mmeci dî to scigghiuti supra
+    .label = Pirmetti ê pàggini di scartari u so caràttiri mmeci di chiḍḍi chi scartasti supra
     .accesskey = A
 # Variables:
 #   $name {string, "Arial"} - Name of the default font

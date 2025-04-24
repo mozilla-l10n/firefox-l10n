@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profile-selection-window =
-    .title = { -brand-short-name } - Scegghi prufilu utenti
+    .title = { -brand-short-name } - Scarta u prufilu utenti
 profile-selection-button-accept =
     .label = Abbìa { -brand-short-name }
 profile-selection-button-cancel =
