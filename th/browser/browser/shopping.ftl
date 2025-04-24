@@ -259,20 +259,57 @@ shopping-opt-in-integrated-headline = ซื้อของอย่างมั
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 
+shopping-callout-opt-in-integrated-headline = คุณเชื่อถือบทวิจารณ์เหล่านี้ได้หรือไม่
+# Appears underneath shopping-opt-in-integrated-headline to answer the question 'Can you trust these reviews?'
+shopping-callout-not-opted-in-integrated-paragraph1 = เปิดใช้เครื่องมือตรวจสอบบทวิจารณ์จาก { -brand-product-name } เพื่อค้นพบ เครื่องมือนี้ขับเคลื่อนโดย { -fakespot-brand-full-name } และใช้เทคโนโลยี AI เพื่อวิเคราะห์บทวิจารณ์
+shopping-callout-not-opted-in-integrated-paragraph2 = เมื่อเลือก “{ shopping-opt-in-integrated-button }” ถือว่าคุณยอมรับ<a data-l10n-name="privacy_policy">ประกาศความเป็นส่วนตัว</a>ของ { -brand-product-name } และ<a data-l10n-name="terms_of_use">ข้อกำหนดการใช้งาน</a>ของ { -fakespot-brand-full-name }
+shopping-callout-not-opted-in-integrated-reminder-dismiss-button = ปิด
+shopping-callout-not-opted-in-integrated-reminder-accept-button = เปิดใช้เครื่องมือตรวจสอบบทวิจารณ์
+shopping-callout-not-opted-in-integrated-reminder-do-not-show = ไม่ต้องแสดงคำแนะนำนี้อีก
+shopping-callout-not-opted-in-integrated-reminder-show-fewer = แสดงคำแนะนำน้อยลง
+shopping-callout-not-opted-in-integrated-reminder-manage-settings = จัดการการตั้งค่า
+shopping-opt-in-integrated-privacy-policy-and-terms-of-use = เครื่องมือตรวจสอบบทวิจารณ์ขับเคลื่อนโดย { -fakespot-brand-full-name } เมื่อเลือก “{ shopping-opt-in-integrated-button }” ถือว่าคุณยอมรับ<a data-l10n-name="privacy_policy">ประกาศความเป็นส่วนตัว</a>ของ { -brand-product-name } และ<a data-l10n-name="terms_of_use">ข้อกำหนดการใช้งาน</a>ของ { -fakespot-brand-name }
+shopping-opt-in-integrated-button = ลองใช้เครื่องมือตรวจสอบบทวิจารณ์
 
 ## Message strings for Review Checker's empty states.
 
+shopping-empty-state-header = พร้อมที่จะตรวจสอบบทวิจารณ์
+shopping-empty-state-supported-site = ดูผลิตภัณฑ์แล้ว { -brand-product-name } จะตรวจสอบว่าบทวิจารณ์น่าเชื่อถือหรือไม่
+# We show a list of sites supported by Review Checker whenever a user opens the feature in an unsupported site.
+# This string will be displayed above the list of sites. The list will be hardcoded and does not require localization.
+shopping-empty-state-non-supported-site = เครื่องมือตรวจสอบบทวิจารณ์สามารถใช้งานได้เมื่อคุณซื้อสินค้าบน:
 
 ## Confirm disabling Review Checker for newly opted out users
 
+shopping-integrated-callout-opted-out-title = เครื่องมือตรวจสอบบทวิจารณ์ปิดอยู่
+shopping-integrated-callout-opted-out-subtitle = เมื่อต้องการเปิดกลับมาใหม่ ให้เลือกป้ายราคาในแถบข้างแล้วเปิดเครื่องมือตรวจสอบบทวิจารณ์
 
 ## Callout for where to find Review Checker when the sidebar closes
 
+shopping-integrated-callout-sidebar-closed-title = เปิดเครื่องมือตรวจสอบบทวิจารณ์ใหม่
+shopping-integrated-callout-sidebar-closed-subtitle = เลือกป้ายราคาในแถบข้างเพื่อดูว่าคุณเชื่อถือบทวิจารณ์ของผลิตภัณฑ์ได้หรือไม่
+shopping-integrated-callout-no-logo-sidebar-closed-subtitle = เลือกปุ่มแถบข้างเพื่อดูว่าคุณเชื่อถือบทวิจารณ์ของผลิตภัณฑ์ได้หรือไม่
 
 ## Strings for a notification card about Review Checker's new position in the sidebar.
 ## The card will only appear for users that have the default sidebar position, which is on the left side for non RTL locales.
 ## Review Checker in the sidebar is only available to US users at this time, so we can assume that the default position is on the left side.
 
+shopping-integrated-new-position-notification-title = เครื่องมือตรวจสอบบทวิจารณ์ตัวเดิม แต่ย้ายที่ใหม่
+shopping-integrated-new-position-notification-move-right-button = ย้ายไปทางขวา
+shopping-integrated-new-position-notification-move-left-button = ย้ายไปทางซ้าย
+shopping-integrated-new-position-notification-dismiss-button = เข้าใจแล้ว
 
 ## Combined setting for auto-open and auto-close.
 
+shopping-settings-auto-open-and-close-toggle =
+    .label = เปิดและปิดเครื่องมือตรวจสอบบทวิจารณ์โดยอัตโนมัติ
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-and-close-description-three-sites = เปิดเมื่อคุณดูผลิตภัณฑ์บน { $firstSite }, { $secondSite } และ { $thirdSite } และปิดเมื่อคุณออก
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-and-close-description-single-site = เปิดเมื่อคุณดูผลิตภัณฑ์บน { $currentSite } และปิดเมื่อคุณออก

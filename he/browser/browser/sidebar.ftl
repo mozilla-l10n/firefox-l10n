@@ -75,10 +75,16 @@ sidebar-context-menu-remove-extension =
     .label = הסרת הרחבה
 sidebar-context-menu-report-extension =
     .label = דיווח על הרחבה
+sidebar-context-menu-open-in-tab =
+    .label = פתיחה בלשונית חדשה
+sidebar-context-menu-open-in-container-tab =
+    .label = פתיחה במגירת לשוניות חדשה
 sidebar-context-menu-open-in-window =
     .label = פתיחה בחלון חדש
 sidebar-context-menu-open-in-private-window =
     .label = פתיחה בחלון פרטי חדש
+sidebar-context-menu-forget-site =
+    .label = ניקוי כל הנתונים עבור האתר…
 sidebar-context-menu-bookmark-tab =
     .label = יצירת סימנייה ללשונית…
 sidebar-context-menu-copy-link =
@@ -98,6 +104,10 @@ sidebar-context-menu-close-remote-tab =
 
 sidebar-history-context-menu-delete-page =
     .label = מחיקה מההיסטוריה
+sidebar-history-context-menu-delete-page-2 =
+    .label = מחיקת הדף מההיסטוריה
+sidebar-history-context-menu-bookmark-page =
+    .label = הוספת הדף לסימניות…
 
 ## Labels for sidebar menu items.
 

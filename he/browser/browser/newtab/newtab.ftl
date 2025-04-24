@@ -527,6 +527,9 @@ newtab-download-mobile-highlight-title = הורדת { -brand-product-name } לנ
 # "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
 newtab-download-mobile-highlight-body-variant-a = יש לסרוק את הקוד כדי לגלוש בבטחה בדרכים.
 newtab-download-mobile-highlight-body-variant-b = ניתן להמשיך מאיפה שהפסקת על־ידי סנכרון הלשוניות, הססמאות ועוד.
+newtab-download-mobile-highlight-body-variant-c = ידעת שניתן לקחת את { -brand-product-name } לדרכים? אותו הדפדפן, בכיס שלך.
+newtab-download-mobile-highlight-image =
+    .aria-label = קוד QR להורדת { -brand-product-name } לנייד
 
 ## Strings for reporting ads and content
 
