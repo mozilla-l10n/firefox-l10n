@@ -122,6 +122,13 @@ contextual-manager-passwords-remove-all-message =
         [1] Dette vil fjerne passordet som er lagra i { -brand-short-name } og eventuelle varslingar om datalekkasjar. Du kan ikkje angre denne handlinga.
        *[other] Dette vil fjerne passorda som er lagra i { -brand-short-name } og eventuelle varslingar om datalekkasjar. Du kan ikkje angre denne handlinga.
     }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] Dette vil fjerne passordet lagra i { -brand-short-name } på alle dei synkroniserte einingane dine, samt eventuelle varslingar om datalekkasjar. Du kan ikkje angre denne handlinga.
+       *[other] Dette vil fjerne alle passorda lagra i { -brand-short-name } på alle dei synkroniserte einingane dine, samt eventuelle varslingar om datalekkasjar. Du kan ikkje angre denne handlinga.
+    }
 contextual-manager-passwords-origin-label = Nettstad
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = Brukarnamn
