@@ -75,8 +75,12 @@ login-status-advisory-title = Du er utlogga. Trykk på kontoikonet for å logge 
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-title = Leggje til denne nettstaden i bokmerkeverktøylinja?
+bookmarks-toolbar-callout-1-subtitle = Bokmerket ditt vil bli lagra rett under adresselinja for rask tilgang.
 bookmarks-toolbar-callout-1-primary-button-label = Legg til bokmerke
 bookmarks-toolbar-callout-1-secondary-button-label = Nei takk
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = Legg enkelt til fleire bokmerke.
 bookmarks-toolbar-callout-2a-primary-button-label = Eg forstår
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2a-secondary-button-label = Gøym verktøylinje
