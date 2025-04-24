@@ -68,9 +68,29 @@ split-dismiss-button-default-label =
 
 ## Login Status Advisory Callout (points to the account icon)
 
+# The 'account icon' is the toolbar button with a 'profile' icon of a human
+# head/shoulders. It's for dealing with your Mozilla account. When hovering the
+# icon, the tooltip says 'Account'.
+login-status-advisory-title = 로그아웃되었습니다. 계정 아이콘을 눌러서 로그인하세요.
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-title = 이 사이트를 북마크 도구 모음에 추가하시겠습니까?
+bookmarks-toolbar-callout-1-subtitle = 빠르게 접근할 수 있도록 북마크가 주소 표시줄 바로 아래에 저장됩니다.
+bookmarks-toolbar-callout-1-primary-button-label = 북마크 추가
+bookmarks-toolbar-callout-1-secondary-button-label = 아니요
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = 쉽게 북마크 추가
+bookmarks-toolbar-callout-2a-subtitle = 탭을 여기로 끌어서 놓을 수 있으므로 즐겨찾는 사이트에 더 많이 접근할 수 있습니다.
+bookmarks-toolbar-callout-2a-primary-button-label = 확인
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = 도구 모음 숨기기
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = 북마크 도구 모음을 그대로 두시겠습니까?
+bookmarks-toolbar-callout-2b-subtitle = 더 자주 방문하는 다른 사이트를 추가 할 수 있습니다. 탭을 여기에 끌어서 놓기만 하면 즐겨찾는 웹사이트에 쉽게 접근할 수 있습니다.
+bookmarks-toolbar-callout-2b-primary-button-label = 열어 놓기
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = 아니요
 
 ## Sidebar Strings
 

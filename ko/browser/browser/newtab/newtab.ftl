@@ -532,6 +532,7 @@ newtab-download-mobile-highlight-title = 모바일용 { -brand-product-name } �
 # "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
 newtab-download-mobile-highlight-body-variant-a = 코드를 스캔하면 이동 중에도 안전하게 탐색할 수 있습니다.
 newtab-download-mobile-highlight-body-variant-b = 탭, 비밀번호 등을 동기화할 때 중단한 부분부터 다시 시작하세요.
+newtab-download-mobile-highlight-body-variant-c = 이동 중에도 { -brand-product-name }를 가져갈 수 있다는 사실을 알고 계셨나요? 같은 브라우저. 주머니에 넣고 다니세요.
 newtab-download-mobile-highlight-image =
     .aria-label = 모바일용 { -brand-product-name } 다운로드를 위한 QR 코드
 
