@@ -73,6 +73,11 @@ split-dismiss-button-default-label =
 
 bookmarks-toolbar-callout-1-primary-button-label = Adder marcapagina
 bookmarks-toolbar-callout-1-secondary-button-label = No, gratias
+bookmarks-toolbar-callout-2a-primary-button-label = Comprendite
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Celar le barra de instrumentos
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = No, gratias
 
 ## Sidebar Strings
 
