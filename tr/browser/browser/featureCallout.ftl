@@ -76,7 +76,11 @@ login-status-advisory-title = Çıkış yaptınız. Giriş yapmak için hesap si
 ## Bookmarks toolbar callout strings
 
 bookmarks-toolbar-callout-1-title = Bu site yer imleri araç çubuğunuza eklensin mi?
+bookmarks-toolbar-callout-1-subtitle = Yer iminiz hızlıca erişebilmeniz için adres çubuğunun hemen altına kaydedilecektir.
+bookmarks-toolbar-callout-1-primary-button-label = Yer imi ekle
 bookmarks-toolbar-callout-1-secondary-button-label = Hayır
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = Kolayca daha fazla yer imi ekleyin
 bookmarks-toolbar-callout-2a-primary-button-label = Anladım
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2a-secondary-button-label = Araç çubuğunu gizle

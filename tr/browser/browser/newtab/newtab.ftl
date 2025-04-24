@@ -525,6 +525,7 @@ newtab-custom-wallpaper-cta = Deneyin
 
 ## Strings for download mobile highlight
 
+newtab-download-mobile-highlight-title = Mobil cihazlar için { -brand-product-name }’u indirin
 newtab-download-mobile-highlight-image =
     .aria-label = Mobil cihazlar için { -brand-product-name }’u indirebileceğiniz QR kodu
 

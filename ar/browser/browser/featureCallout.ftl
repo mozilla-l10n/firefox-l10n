@@ -92,6 +92,7 @@ vertical-tabs-callout-2-title = هل تُبقي الكثير من الألسنة
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-title = هل فقدت مسار الألسنة المهمة لديك؟
 
 ## Sidebar Onboarding Strings
 

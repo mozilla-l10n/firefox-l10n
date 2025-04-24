@@ -108,6 +108,8 @@ firefoxview-recently-closed-header = الألسنة المُغلقة مؤخرً�
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = ألسنة من أجهزة أخرى
+    .title = ألسنة من أجهزة أخرى
 
 ##
 
@@ -142,10 +144,18 @@ firefoxview-search-text-box-opentabs =
 # Variables:
 #   $query (String) - The search query used for searching through browser history.
 firefoxview-search-results-header = نتائج البحث عن "{ $query }"
+# Variables:
+#   $url (string) - URL that will be opened in the new tab
+firefoxview-opentabs-tab-row =
+    .title = بدّل إلى { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
 
+firefoxview-history-date-today = اليوم - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = أمس - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 # When history is sorted by site, this heading is used in place of a domain, in
 # order to group sites that do not come from an outside host.
 # For example, this would be the heading for all file:/// URLs in history.
@@ -159,6 +169,7 @@ firefoxview-view-more-browsing-history = اعرض المزيد من تأريخ �
 ## Message displayed in Firefox View when the user has no history data
 
 firefoxview-history-empty-header = العودة إلى حيث كنت
+firefoxview-history-empty-description = أثناء التصفح، سيتم إدراج الصفحات التي زُرتها هنا.
 firefoxview-history-empty-description-two = حماية خصوصيتك هي في صميم ما نقوم به. ولهذا السبب يمكنك التحكم في النشاط الذي يتذكره { -brand-short-name }، في <a data-l10n-name="history-settings-url">إعدادات التأريخ</a>.
 
 ##
@@ -193,6 +204,7 @@ firefoxview-recentlyclosed-empty-description-two = للعثور على ألسن�
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
+firefoxview-syncedtabs-device-notabs = لا توجد ألسنة مفتوحة على هذا الجهاز
 firefoxview-syncedtabs-connect-another-device = صِلْ جهازا آخر
 firefoxview-pinned-tabs =
     .title = الألسنة المثبتة
