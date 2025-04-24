@@ -68,9 +68,25 @@ split-dismiss-button-default-label =
 
 ## Login Status Advisory Callout (points to the account icon)
 
+# The 'account icon' is the toolbar button with a 'profile' icon of a human
+# head/shoulders. It's for dealing with your Mozilla account. When hovering the
+# icon, the tooltip says 'Account'.
+login-status-advisory-title = Sćo wótzjawjony. Klikniśo na kontowy symbol, aby se pśizjawił.
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-title = Swójej symbolowej rědce cytańskich znamjenjow toś to sedło pśidaś?
+bookmarks-toolbar-callout-1-subtitle = Wašo cytańske znamje buźo se direktnje pód adresoweju rědku za malsny pśistup składowaś.
+bookmarks-toolbar-callout-1-primary-button-label = Cytańske znamje pśidaś
+bookmarks-toolbar-callout-1-secondary-button-label = Ně, źěkujom se
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = Dalšne cytańske znamjenja lažko pśidaś
+bookmarks-toolbar-callout-2a-subtitle = Móžośo rejtariki śěgnuś a how pušćiś, aby wěcej swójich nejlubšych sedłow k ruce měł.
+bookmarks-toolbar-callout-2a-primary-button-label = Som zrozměł
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Symbolowu rědku schowaś
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = Wašu symbolowu rědku cytańskich znamjenjow wócynjonu źaržaś?
 
 ## Sidebar Strings
 
