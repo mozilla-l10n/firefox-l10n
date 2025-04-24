@@ -528,6 +528,8 @@ newtab-custom-wallpaper-cta = Озмоед
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Браузери «{ -brand-product-name }»-ро ба телефони мобилии худ боргирӣ кунед
+newtab-download-mobile-highlight-image =
+    .aria-label = Рамзи «QR» барои боргирӣ кардани версияи мобилии «{ -brand-product-name }»
 
 ## Strings for reporting ads and content
 
