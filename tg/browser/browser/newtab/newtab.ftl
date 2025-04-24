@@ -531,6 +531,7 @@ newtab-download-mobile-highlight-title = Браузери «{ -brand-product-nam
 # "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
 newtab-download-mobile-highlight-body-variant-a = Барои тамошобинии бехатар дар Интернет, рамзеро тасвирбардорӣ намоед.
 newtab-download-mobile-highlight-body-variant-b = Вақте ки шумо варақаҳо, ниҳонвожаҳо ва чизҳои дигареро ҳамоҳанг месозед, ба он ҷое, ки шумо ба қарибӣ тамошо кардаед, баргардонед.
+newtab-download-mobile-highlight-body-variant-c = Оё шумо медонистед, ки метавонед «{ -brand-product-name }»-ро ба даст оред? Ҳамон браузери шинос — акнун дар кисаи шумо.
 newtab-download-mobile-highlight-image =
     .aria-label = Рамзи «QR» барои боргирӣ кардани версияи мобилии «{ -brand-product-name }»
 
