@@ -147,3 +147,5 @@ contextual-manager-copy-icon =
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-close-button = أغلق
+contextual-manager-passwords-discard-changes-go-back-button = عُد

@@ -531,6 +531,9 @@ newtab-download-mobile-highlight-title = Last ned { -brand-product-name } for mo
 # "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
 newtab-download-mobile-highlight-body-variant-a = Skann koden for å surfe trygt medan du er på farta.
 newtab-download-mobile-highlight-body-variant-b = Hald fram der du slutta når du synkroniserer faner, passord, og meir.
+newtab-download-mobile-highlight-body-variant-c = Visste du at du kan ta med { -brand-product-name } på farta? Same nettlesar. I lomma.
+newtab-download-mobile-highlight-image =
+    .aria-label = QR-kode for å laste ned { -brand-product-name } for mobil
 
 ## Strings for reporting ads and content
 

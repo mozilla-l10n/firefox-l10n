@@ -62,12 +62,18 @@ split-dismiss-button-show-fewer-option =
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option =
     .label = أدِر الإعدادات
+# Accessibility label for dropdown menu button
+split-dismiss-button-default-label =
+    .title = خيارات أكثر
 
 ## Login Status Advisory Callout (points to the account icon)
 
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-primary-button-label = أضِف علامة
+bookmarks-toolbar-callout-1-secondary-button-label = لا، شكرًا
+bookmarks-toolbar-callout-2a-primary-button-label = فهمت
 
 ## Sidebar Strings
 
