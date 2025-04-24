@@ -362,6 +362,10 @@ quickactions-extensions = Handsam utviding
 quickactions-cmd-extensions = Utvidingar
 # Opens Firefox View
 quickactions-firefoxview = Opne { -firefoxview-brand-name }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = opne { -firefoxview-brand-name }, { -firefoxview-brand-name }, opne oversyn, oversyn
 # Opens SUMO home page
 quickactions-help = { -brand-product-name }-hjelp
 quickactions-cmd-help = hjelp, brukarstøtte
@@ -1185,6 +1189,10 @@ popup-notification-addon-install-unsigned =
     .value = (Ikkje stadfesta)
 popup-notification-xpinstall-prompt-learn-more = Les meir om sikker installering av tillegg
 popup-notification-xpinstall-prompt-block-url = Sjå detaljar
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = Tillat utvidingar å køyre i private vindauge
+    .accesskey = u
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Køyr i privat vindauge
