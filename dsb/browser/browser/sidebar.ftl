@@ -78,10 +78,16 @@ sidebar-context-menu-remove-extension =
     .label = Rozšyrjenje wótwónoźeś
 sidebar-context-menu-report-extension =
     .label = Rozšyrjenje k wěsći daś
+sidebar-context-menu-open-in-tab =
+    .label = W nowem rejtariku wócyniś
+sidebar-context-menu-open-in-container-tab =
+    .label = W nowem kontejnerowem rejtariku wócyniś
 sidebar-context-menu-open-in-window =
     .label = W nowem woknje wócyniś
 sidebar-context-menu-open-in-private-window =
     .label = W nowem priwatnem woknje wócyniś
+sidebar-context-menu-forget-site =
+    .label = Wšykne daty za websedło lašowaś…
 sidebar-context-menu-bookmark-tab =
     .label = Rejtarik ako cytańske znamje składowaś …
 sidebar-context-menu-copy-link =
@@ -101,6 +107,10 @@ sidebar-context-menu-close-remote-tab =
 
 sidebar-history-context-menu-delete-page =
     .label = Z historije lašowaś
+sidebar-history-context-menu-delete-page-2 =
+    .label = Bok z historije lašowaś
+sidebar-history-context-menu-bookmark-page =
+    .label = Bok ako cytańske znamje składowaś …
 
 ## Labels for sidebar menu items.
 

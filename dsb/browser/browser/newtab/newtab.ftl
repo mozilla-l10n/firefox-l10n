@@ -532,6 +532,12 @@ newtab-custom-wallpaper-cta = Wopytajśo jen
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = { -brand-product-name } za mobilny rěd ześěgnuś
+# "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
+newtab-download-mobile-highlight-body-variant-a = Scannujśo kod, aby pó droze wěsćej pśeglědował.
+newtab-download-mobile-highlight-body-variant-b = Pókšacujśo, źož sćo pśestał, gaž swóje rejtariki, gronidła a wěcej synchronizěrujośo.
+newtab-download-mobile-highlight-body-variant-c = Sćo wěźeł, až móžośo { -brand-product-name } pó droze sobu wześ? Samski wobglědowak. We wašej tašy.
+newtab-download-mobile-highlight-image =
+    .aria-label = QR-kod za ześěgnjenje { -brand-product-name } za mobilne rědy
 
 ## Strings for reporting ads and content
 
