@@ -1192,6 +1192,10 @@ popup-notification-addon-install-unsigned =
     .value = (Niet geverifieerd)
 popup-notification-xpinstall-prompt-learn-more = Meer info over het veilig installeren van add-ons
 popup-notification-xpinstall-prompt-block-url = Details bekijken
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = Toestaan dat extensie in privévensters wordt uitgevoerd
+    .accesskey = p
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Uitvoeren in privévensters
