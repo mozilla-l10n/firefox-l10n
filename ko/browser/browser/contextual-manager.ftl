@@ -290,3 +290,9 @@ contextual-manager-passwords-discard-changes-heading-and-message =
     .message = 변경 사항은 저장되지 않습니다.
 contextual-manager-passwords-discard-changes-close-button = 닫기
 contextual-manager-passwords-discard-changes-go-back-button = 뒤로 가기
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] 예, 비밀번호 제거
+       *[other] 예, 비밀번호 제거
+    }
