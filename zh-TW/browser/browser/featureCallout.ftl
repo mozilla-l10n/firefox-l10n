@@ -68,14 +68,26 @@ split-dismiss-button-default-label =
 
 ## Login Status Advisory Callout (points to the account icon)
 
+# The 'account icon' is the toolbar button with a 'profile' icon of a human
+# head/shoulders. It's for dealing with your Mozilla account. When hovering the
+# icon, the tooltip says 'Account'.
+login-status-advisory-title = 您已登出，點擊帳號圖示登入。
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-title = 要將此網站加到書籤工具列嗎？
+bookmarks-toolbar-callout-1-subtitle = 可將您的書籤儲存於網址列下方以便快速使用。
 bookmarks-toolbar-callout-1-primary-button-label = 新增書籤
 bookmarks-toolbar-callout-1-secondary-button-label = 不要，謝謝
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = 輕鬆加入更多書籤
+bookmarks-toolbar-callout-2a-subtitle = 您可以將分頁拖曳至此處，讓您最愛的網站隨手可得。
 bookmarks-toolbar-callout-2a-primary-button-label = 知道了！
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2a-secondary-button-label = 隱藏工具列
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = 要保持顯示書籤工具列嗎？
+bookmarks-toolbar-callout-2b-subtitle = 可以將其他常造訪的網站新增於此處。只要將分頁拖曳到這裡，即可讓最愛網站隨手可得。
 bookmarks-toolbar-callout-2b-primary-button-label = 保持開啟
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = 不要，謝謝
