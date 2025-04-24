@@ -78,10 +78,16 @@ sidebar-context-menu-remove-extension =
     .label = Rozšěrjenje wotstronić
 sidebar-context-menu-report-extension =
     .label = Rozšěrjenje zdźělić
+sidebar-context-menu-open-in-tab =
+    .label = W nowym rajtarku wočinić
+sidebar-context-menu-open-in-container-tab =
+    .label = W nowym kontejnerowym rajtarku wočinić
 sidebar-context-menu-open-in-window =
     .label = W nowym woknje wočinić
 sidebar-context-menu-open-in-private-window =
     .label = W nowym priwatnym woknje wočinić
+sidebar-context-menu-forget-site =
+    .label = Wšě daty za websydło zhašeć…
 sidebar-context-menu-bookmark-tab =
     .label = Rajtark jako zapołožku składować …
 sidebar-context-menu-copy-link =
@@ -101,6 +107,10 @@ sidebar-context-menu-close-remote-tab =
 
 sidebar-history-context-menu-delete-page =
     .label = Z historije zhašeć
+sidebar-history-context-menu-delete-page-2 =
+    .label = Stronu z historije zhašeć
+sidebar-history-context-menu-bookmark-page =
+    .label = Stronu jako zapołožku składować …
 
 ## Labels for sidebar menu items.
 

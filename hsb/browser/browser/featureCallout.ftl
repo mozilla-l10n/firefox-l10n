@@ -81,6 +81,16 @@ bookmarks-toolbar-callout-1-primary-button-label = Zapołožku přidać
 bookmarks-toolbar-callout-1-secondary-button-label = Ně, dźakuju so
 # Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2a-title = Dalše zapołožki lochko přidać
+bookmarks-toolbar-callout-2a-subtitle = Móžeće rajtarki ćahnyć a tu pušćić, zo byšće wjace swojich najlubšich sydłow k ruce měł.
+bookmarks-toolbar-callout-2a-primary-button-label = Sym zrozumił
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Symbolowu lajstu schować
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = Wašu symbolowu lajstu zapołožkow wočinjenu dźeržeć?
+bookmarks-toolbar-callout-2b-subtitle = Móžeće druhe sydła přidać, kotrež časćišo wopytujeće. Ćehńće a pušćće prosće rajtarki tu, zo byšće najlubše websydła k ruce měł.
+bookmarks-toolbar-callout-2b-primary-button-label = Wočinjeny dźeržeć
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = Ně, dźakuju so
 
 ## Sidebar Strings
 
