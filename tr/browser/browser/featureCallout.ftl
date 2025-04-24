@@ -81,11 +81,13 @@ bookmarks-toolbar-callout-1-primary-button-label = Yer imi ekle
 bookmarks-toolbar-callout-1-secondary-button-label = Hayır
 # Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2a-title = Kolayca daha fazla yer imi ekleyin
+bookmarks-toolbar-callout-2a-subtitle = Sevdiğiniz sitelere anında erişmek için sekmelerinizi buraya sürükleyip bırakabilirsiniz.
 bookmarks-toolbar-callout-2a-primary-button-label = Anladım
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2a-secondary-button-label = Araç çubuğunu gizle
 # Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2b-title = Yer imleri araç çubuğu açık kalsın mı?
+bookmarks-toolbar-callout-2b-subtitle = Sık ziyaret ettiğiniz diğer siteleri de ekleyebilirsiniz. Sevdiğiniz siteleri elinizin altında tutmak için sekmelerinizi buraya sürükleyip bırakmanız yeterli.
 bookmarks-toolbar-callout-2b-primary-button-label = Açık kalsın
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = Hayır
