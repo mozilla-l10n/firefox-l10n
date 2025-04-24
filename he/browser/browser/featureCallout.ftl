@@ -68,6 +68,14 @@ bookmarks-toolbar-callout-1-secondary-button-label = לא תודה
 bookmarks-toolbar-callout-2a-title = להוסיף בקלות עוד סימניות
 bookmarks-toolbar-callout-2a-subtitle = ניתן לגרור ולשחרר לכאן לשוניות כדי לשמור עוד אתרים המועדפים עליך בהישג יד.
 bookmarks-toolbar-callout-2a-primary-button-label = הבנתי
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = הסתרת סרגל כלים
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = להשאיר את סרגל הסימניות פתוח?
+bookmarks-toolbar-callout-2b-subtitle = ניתן להוסיף אתרים אחרים שאליהם נכנסת לעיתים קרובות יותר. פשוט יש לגרור ולשחרר לכאן את הלשוניות כדי לשמור על אתרים מועדפים בהישג יד.
+bookmarks-toolbar-callout-2b-primary-button-label = להשאיר פתוח
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = לא תודה
 
 ## Sidebar Strings
 

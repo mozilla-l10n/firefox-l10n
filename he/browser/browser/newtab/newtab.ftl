@@ -523,6 +523,10 @@ newtab-custom-wallpaper-cta = בואו ננסה
 
 ## Strings for download mobile highlight
 
+newtab-download-mobile-highlight-title = הורדת { -brand-product-name } לנייד
+# "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
+newtab-download-mobile-highlight-body-variant-a = יש לסרוק את הקוד כדי לגלוש בבטחה בדרכים.
+newtab-download-mobile-highlight-body-variant-b = ניתן להמשיך מאיפה שהפסקת על־ידי סנכרון הלשוניות, הססמאות ועוד.
 
 ## Strings for reporting ads and content
 
