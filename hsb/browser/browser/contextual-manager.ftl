@@ -308,3 +308,12 @@ contextual-manager-passwords-discard-changes-heading-and-message =
     .message = Waše změny so njeskładuja.
 contextual-manager-passwords-discard-changes-close-button = Začinić
 contextual-manager-passwords-discard-changes-go-back-button = Wróćo
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] Haj, hesło wotstronić
+        [one] Haj, { $total } hesło wotstronić
+        [two] Haj, { $total } hesle wotstronić
+        [few] Haj, { $total } hesła wotstronić
+       *[other] Haj, { $total } hesłow wotstronić
+    }
