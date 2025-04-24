@@ -81,11 +81,13 @@ bookmarks-toolbar-callout-1-primary-button-label = Илова кардани х�
 bookmarks-toolbar-callout-1-secondary-button-label = Не, ташаккур
 # Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2a-title = Хатбаракҳоро ба осонӣ илова кунед
+bookmarks-toolbar-callout-2a-subtitle = Шумо метавонед варақаҳоро ба ин ҷой кашида, гузоред, то сомонаҳои дӯстдоштаи шумо ҳамеша дастрас бошанд.
 bookmarks-toolbar-callout-2a-primary-button-label = Фаҳмидам
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2a-secondary-button-label = Пинҳон кардани навори абзорҳо
 # Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2b-title = Навори хатбаракҳои худро кушода нигоҳ медоред?
+bookmarks-toolbar-callout-2b-subtitle = Шумо, инчунин, метавонед сомонаҳои дигареро, ки бештар тамошо мекунед, илова намоед. Танҳо варақаҳоро ба ин ҷой кашида гузоред, то сомонаҳои дӯстдоштаи шумо ҳамеша дастрас бошанд.
 bookmarks-toolbar-callout-2b-primary-button-label = Кушода нигоҳ доред
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = Не, ташаккур

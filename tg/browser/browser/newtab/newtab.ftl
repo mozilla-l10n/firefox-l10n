@@ -528,6 +528,8 @@ newtab-custom-wallpaper-cta = Озмоед
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Браузери «{ -brand-product-name }»-ро ба телефони мобилии худ боргирӣ кунед
+# "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
+newtab-download-mobile-highlight-body-variant-a = Барои тамошобинии бехатар дар Интернет, рамзеро тасвирбардорӣ намоед.
 newtab-download-mobile-highlight-image =
     .aria-label = Рамзи «QR» барои боргирӣ кардани версияи мобилии «{ -brand-product-name }»
 
