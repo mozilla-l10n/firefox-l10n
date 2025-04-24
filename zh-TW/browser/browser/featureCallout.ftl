@@ -71,6 +71,14 @@ split-dismiss-button-default-label =
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-primary-button-label = 新增書籤
+bookmarks-toolbar-callout-1-secondary-button-label = 不要，謝謝
+bookmarks-toolbar-callout-2a-primary-button-label = 知道了！
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = 隱藏工具列
+bookmarks-toolbar-callout-2b-primary-button-label = 保持開啟
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = 不要，謝謝
 
 ## Sidebar Strings
 

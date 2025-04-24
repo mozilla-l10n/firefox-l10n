@@ -78,10 +78,16 @@ sidebar-context-menu-remove-extension =
     .label = 移除擴充套件
 sidebar-context-menu-report-extension =
     .label = 檢舉擴充套件
+sidebar-context-menu-open-in-tab =
+    .label = 用新分頁開啟
+sidebar-context-menu-open-in-container-tab =
+    .label = 用新容器分頁開啟
 sidebar-context-menu-open-in-window =
     .label = 用新視窗開啟
 sidebar-context-menu-open-in-private-window =
     .label = 用新隱私視窗開啟
+sidebar-context-menu-forget-site =
+    .label = 清除網站所有資料…
 sidebar-context-menu-bookmark-tab =
     .label = 將分頁加入書籤…
 sidebar-context-menu-copy-link =
@@ -101,6 +107,10 @@ sidebar-context-menu-close-remote-tab =
 
 sidebar-history-context-menu-delete-page =
     .label = 從瀏覽紀錄刪除
+sidebar-history-context-menu-delete-page-2 =
+    .label = 從瀏覽紀錄刪除頁面
+sidebar-history-context-menu-bookmark-page =
+    .label = 將頁面加入書籤…
 
 ## Labels for sidebar menu items.
 

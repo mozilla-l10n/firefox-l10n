@@ -1187,6 +1187,10 @@ popup-notification-addon-install-unsigned =
     .value = （未驗證）
 popup-notification-xpinstall-prompt-learn-more = 了解如何於安裝附加元件時確保安全的更多資訊
 popup-notification-xpinstall-prompt-block-url = 檢視詳細資訊
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = 允許擴充套件於隱私瀏覽視窗中執行
+    .accesskey = p
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = 於隱私視窗中執行

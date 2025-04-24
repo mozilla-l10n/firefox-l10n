@@ -290,3 +290,9 @@ contextual-manager-passwords-discard-changes-heading-and-message =
     .message = 不會儲存您的變更。
 contextual-manager-passwords-discard-changes-close-button = 關閉
 contextual-manager-passwords-discard-changes-go-back-button = 回上一頁
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] 好，請移除密碼
+       *[other] 好，請移除密碼
+    }
