@@ -528,6 +528,10 @@ newtab-custom-wallpaper-cta = Pruébelo
 
 ## Strings for download mobile highlight
 
+newtab-download-mobile-highlight-title = Descargar { -brand-product-name } para dispositivos móviles
+newtab-download-mobile-highlight-body-variant-b = Continúe donde lo dejó al sincronizar pestañas, contraseñas y más.
+newtab-download-mobile-highlight-image =
+    .aria-label = Código QR para descargar { -brand-product-name } para móviles
 
 ## Strings for reporting ads and content
 
