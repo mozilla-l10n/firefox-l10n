@@ -531,6 +531,7 @@ newtab-custom-wallpaper-cta = Wopytajśo jen
 
 ## Strings for download mobile highlight
 
+newtab-download-mobile-highlight-title = { -brand-product-name } za mobilny rěd ześěgnuś
 
 ## Strings for reporting ads and content
 

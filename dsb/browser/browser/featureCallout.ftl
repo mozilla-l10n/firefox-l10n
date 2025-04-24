@@ -87,6 +87,10 @@ bookmarks-toolbar-callout-2a-primary-button-label = Som zrozměł
 bookmarks-toolbar-callout-2a-secondary-button-label = Symbolowu rědku schowaś
 # Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2b-title = Wašu symbolowu rědku cytańskich znamjenjow wócynjonu źaržaś?
+bookmarks-toolbar-callout-2b-subtitle = Móžośo druge sedła pśidaś, ku kótarym se cesćej woglědujośo. Śěgniśo a pušććo jadnorje rejtariki how, aby nejlubše websedła k ruce měł.
+bookmarks-toolbar-callout-2b-primary-button-label = Wócynjony źaržaś
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = Ně, źěkujom se
 
 ## Sidebar Strings
 
