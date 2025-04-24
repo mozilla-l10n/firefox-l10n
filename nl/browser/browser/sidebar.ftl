@@ -78,10 +78,16 @@ sidebar-context-menu-remove-extension =
     .label = Extensie verwijderen
 sidebar-context-menu-report-extension =
     .label = Extensie rapporteren
+sidebar-context-menu-open-in-tab =
+    .label = Openen in nieuw tabblad
+sidebar-context-menu-open-in-container-tab =
+    .label = Openen in nieuw containertabblad
 sidebar-context-menu-open-in-window =
     .label = Openen in nieuw venster
 sidebar-context-menu-open-in-private-window =
     .label = Openen in nieuw privévenster
+sidebar-context-menu-forget-site =
+    .label = Alle gegevens voor website wissen…
 sidebar-context-menu-bookmark-tab =
     .label = Bladwijzer voor tabblad maken…
 sidebar-context-menu-copy-link =
@@ -101,6 +107,10 @@ sidebar-context-menu-close-remote-tab =
 
 sidebar-history-context-menu-delete-page =
     .label = Verwijderen uit geschiedenis
+sidebar-history-context-menu-delete-page-2 =
+    .label = Pagina uit geschiedenis verwijderen
+sidebar-history-context-menu-bookmark-page =
+    .label = Bladwijzer voor pagina maken…
 
 ## Labels for sidebar menu items.
 
