@@ -6,6 +6,7 @@
 ## Preonboarding modal screen strings
 
 preonboarding-title = Velkomen til { -brand-product-name }
+preonboarding-subtitle = Ved å halde fram, godtek du brukarvilkåra til { -brand-product-name } og personvernfråsegna vår. For å hjelpe til med å forbetre nettlesaren, sender { -brand-product-name } diagnostikk- og samhandlingsdata til { -vendor-short-name }.
 preonboarding-primary-cta = Stadfest og hald fram
 # Label for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Handsam innstillingar for datainnsamling, og les brukarvilkåra og personvernfråsegna vår

@@ -535,6 +535,9 @@ newtab-download-mobile-highlight-title = { -brand-product-name } za mobilny grat
 # "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
 newtab-download-mobile-highlight-body-variant-a = Skenujće kod, zo byšće po puću wěsće přehladował.
 newtab-download-mobile-highlight-body-variant-b = Pokročujće, hdźež sće přestał, hdyž swoje rajtarki, hesła a wjace synchronizujeće.
+newtab-download-mobile-highlight-body-variant-c = Sće wědźał, zo móžeće { -brand-product-name } po puću sobu wzać? Samsny wobhladowak. We wašej tobole.
+newtab-download-mobile-highlight-image =
+    .aria-label = QR-kod za sćehnjenje { -brand-product-name } za mobilny grat
 
 ## Strings for reporting ads and content
 

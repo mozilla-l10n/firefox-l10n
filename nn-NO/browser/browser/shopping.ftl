@@ -264,6 +264,7 @@ shopping-opt-in-integrated-button = Prøv vurderingskontrolløren
 
 ## Message strings for Review Checker's empty states.
 
+shopping-empty-state-header = Klar for å kontrollere vurderingar
 
 ## Confirm disabling Review Checker for newly opted out users
 
