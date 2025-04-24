@@ -384,6 +384,7 @@ quickactions-print2 = Stampa pagina
 quickactions-cmd-print = stampa
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Salva pagina come PDF
+quickactions-cmd-savepdf2 = pdf, salva pagina
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Apri finestra anonima
@@ -400,6 +401,8 @@ quickactions-cmd-screenshot2 = screenshot, schermata, cattura schermata
 quickactions-cmd-screenshot = schermata, screenshot
 # Opens about:preferences
 quickactions-settings2 = Gestisci impostazioni
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = impostazioni, preferenze, opzioni, gestisci
 quickactions-cmd-settings = impostazioni, preferenze, opzioni
 # Opens about:addons page in the themes section
 quickactions-themes = Gestisci temi

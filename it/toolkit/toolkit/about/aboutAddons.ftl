@@ -284,6 +284,12 @@ discopane-notice-recommendations2 =
         estensioni già installate, le impostazioni del profilo e statistiche
         d’utilizzo.
 discopane-notice-learn-more = Ulteriori informazioni
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = Le tonalità sono state rimosse.
+    .message = { -brand-product-name } ha aggiornato la sua collezione di tonalità. Le versioni precedenti sono state rimosse dall’elenco “Temi salvati”. Scarica le nuove versioni sul sito dei componenti aggiuntivi.
+colorway-removal-notice-learn-more = Ulteriori informazioni
+colorway-removal-notice-button = Ottieni tonalità aggiornate
 privacy-policy = Informativa sulla privacy
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
