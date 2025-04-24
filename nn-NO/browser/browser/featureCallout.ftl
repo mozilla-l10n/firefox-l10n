@@ -81,9 +81,13 @@ bookmarks-toolbar-callout-1-primary-button-label = Legg til bokmerke
 bookmarks-toolbar-callout-1-secondary-button-label = Nei takk
 # Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2a-title = Legg enkelt til fleire bokmerke.
+bookmarks-toolbar-callout-2a-subtitle = Du kan drage og sleppe faner her for å ha fleire av fanene dine innan rekkjevidde.
 bookmarks-toolbar-callout-2a-primary-button-label = Eg forstår
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2a-secondary-button-label = Gøym verktøylinje
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = Halde bokmerkeverktøylinja open?
+bookmarks-toolbar-callout-2b-primary-button-label = Hald open
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = Nei takk
 

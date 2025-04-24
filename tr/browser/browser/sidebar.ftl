@@ -78,10 +78,16 @@ sidebar-context-menu-remove-extension =
     .label = Uzantıyı kaldır
 sidebar-context-menu-report-extension =
     .label = Uzantıyı rapor et
+sidebar-context-menu-open-in-tab =
+    .label = Yeni sekmede aç
+sidebar-context-menu-open-in-container-tab =
+    .label = Yeni kapsayıcı sekmede aç
 sidebar-context-menu-open-in-window =
     .label = Yeni pencerede aç
 sidebar-context-menu-open-in-private-window =
     .label = Yeni gizli pencerede aç
+sidebar-context-menu-forget-site =
+    .label = Web sitesine ait tüm verileri temizle…
 sidebar-context-menu-bookmark-tab =
     .label = Sekmeyi yer imlerine ekle…
 sidebar-context-menu-copy-link =
@@ -101,6 +107,10 @@ sidebar-context-menu-close-remote-tab =
 
 sidebar-history-context-menu-delete-page =
     .label = Geçmişten sil
+sidebar-history-context-menu-delete-page-2 =
+    .label = Sayfayı geçmişten sil
+sidebar-history-context-menu-bookmark-page =
+    .label = Yer imlerine ekle…
 
 ## Labels for sidebar menu items.
 

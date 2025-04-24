@@ -296,3 +296,10 @@ contextual-manager-passwords-discard-changes-heading-and-message =
     .message = Yaptığınız değişiklikler kaydedilmeyecektir.
 contextual-manager-passwords-discard-changes-close-button = Kapat
 contextual-manager-passwords-discard-changes-go-back-button = Geri dön
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] Evet, parolayı sil
+        [one] Evet, parolayı sil
+       *[other] Evet, parolaları sil
+    }

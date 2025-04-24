@@ -1189,6 +1189,10 @@ popup-notification-addon-install-unsigned =
     .value = (Doğrulanmamış)
 popup-notification-xpinstall-prompt-learn-more = Eklentileri güvenle yükleme hakkında daha fazla bilgi alın
 popup-notification-xpinstall-prompt-block-url = Ayrıntıları göster
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = Uzantının gizli pencerelerde çalışmasına izin ver
+    .accesskey = z
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Gizli pencerede çalışabilir

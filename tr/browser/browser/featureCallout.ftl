@@ -68,9 +68,23 @@ split-dismiss-button-default-label =
 
 ## Login Status Advisory Callout (points to the account icon)
 
+# The 'account icon' is the toolbar button with a 'profile' icon of a human
+# head/shoulders. It's for dealing with your Mozilla account. When hovering the
+# icon, the tooltip says 'Account'.
+login-status-advisory-title = Çıkış yaptınız. Giriş yapmak için hesap simgesine tıklayın.
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-title = Bu site yer imleri araç çubuğunuza eklensin mi?
+bookmarks-toolbar-callout-1-secondary-button-label = Hayır
+bookmarks-toolbar-callout-2a-primary-button-label = Anladım
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Araç çubuğunu gizle
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = Yer imleri araç çubuğu açık kalsın mı?
+bookmarks-toolbar-callout-2b-primary-button-label = Açık kalsın
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = Hayır
 
 ## Sidebar Strings
 

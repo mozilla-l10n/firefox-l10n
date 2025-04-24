@@ -74,6 +74,10 @@ split-dismiss-button-default-label =
 bookmarks-toolbar-callout-1-primary-button-label = أضِف علامة
 bookmarks-toolbar-callout-1-secondary-button-label = لا، شكرًا
 bookmarks-toolbar-callout-2a-primary-button-label = فهمت
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = أخفِ شريط الأدوات
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = أبقِ شريط أدوات العلامات مفتوحًا؟
 
 ## Sidebar Strings
 
@@ -82,7 +86,9 @@ sidebar-button-callout-subtitle = استخدم زر الشريط الجانبي 
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-cta-button = جرّب الألسنة العمودية
 vertical-tabs-callout-2-cta-button = جرّب الآن
+vertical-tabs-callout-2-title = هل تُبقي الكثير من الألسنة مفتوحة؟ جرّب الألسنة العمودية.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
