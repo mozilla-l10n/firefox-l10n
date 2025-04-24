@@ -1189,6 +1189,10 @@ popup-notification-addon-install-unsigned =
     .value = (Тасдиқнашуда)
 popup-notification-xpinstall-prompt-learn-more = Маълумоти бештар дар бораи насбкунии бехатари ҷузъи иловагӣ
 popup-notification-xpinstall-prompt-block-url = Дидани тафсилот
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = Иҷозат додани иҷрокунии васеъшавӣ дар равзанаи махфӣ
+    .accesskey = И
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Иҷро кардан дар равзанаҳои махфӣ
