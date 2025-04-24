@@ -71,6 +71,8 @@ split-dismiss-button-default-label =
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-primary-button-label = Adder marcapagina
+bookmarks-toolbar-callout-1-secondary-button-label = No, gratias
 
 ## Sidebar Strings
 
