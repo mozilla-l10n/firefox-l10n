@@ -75,18 +75,18 @@ login-status-advisory-title = Du är utloggad. Klicka på kontoikonen för att l
 
 ## Bookmarks toolbar callout strings
 
-bookmarks-toolbar-callout-1-title = Lägg till den här platsen i ditt bokmärkesverktygsfält?
+bookmarks-toolbar-callout-1-title = Lägg till den här webbplatsen i verktygsfältet för bokmärken?
 bookmarks-toolbar-callout-1-subtitle = Ditt bokmärke sparas precis nedanför adressfältet för snabb åtkomst.
 bookmarks-toolbar-callout-1-primary-button-label = Lägg till bokmärke
 bookmarks-toolbar-callout-1-secondary-button-label = Nej tack
 # Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2a-title = Lägg enkelt till fler bokmärken
-bookmarks-toolbar-callout-2a-subtitle = Du kan dra och släppa flikar här för att hålla fler av dina favoritsajter inom räckhåll.
+bookmarks-toolbar-callout-2a-subtitle = Du kan dra och släppa flikar här för att hålla fler av dina favoritwebbplatser inom räckhåll.
 bookmarks-toolbar-callout-2a-primary-button-label = Jag förstår
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2a-secondary-button-label = Dölj verktygsfält
 # Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
-bookmarks-toolbar-callout-2b-title = Behåller du ditt bokmärkesverktygsfält öppet?
+bookmarks-toolbar-callout-2b-title = Håll ditt verktygsfält för bokmärken öppet?
 bookmarks-toolbar-callout-2b-subtitle = Du kan lägga till andra webbplatser du besöker oftare. Dra och släpp flikar här för att hålla favoritwebbplatser inom räckhåll.
 bookmarks-toolbar-callout-2b-primary-button-label = Håll öppet
 # Reverts the bookmarks toolbar to the default setting

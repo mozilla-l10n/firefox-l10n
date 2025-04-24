@@ -295,6 +295,5 @@ contextual-manager-passwords-discard-changes-go-back-button = Gå tillbaka
 contextual-manager-passwords-remove-all-passwords-checkbox =
     { $total ->
         [1] Ja, ta bort lösenordet
-        [one] Ja, ta bort lösenorden
-       *[other] Ja, ta bort lösenorden
+       *[other] Yes, remove passwords
     }
