@@ -71,6 +71,13 @@ split-dismiss-button-default-label =
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-primary-button-label = Legg til bokmerke
+bookmarks-toolbar-callout-1-secondary-button-label = Nei takk
+bookmarks-toolbar-callout-2a-primary-button-label = Eg forstår
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Gøym verktøylinje
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = Nei takk
 
 ## Sidebar Strings
 
