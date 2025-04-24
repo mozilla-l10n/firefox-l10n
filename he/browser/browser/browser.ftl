@@ -1189,6 +1189,10 @@ popup-notification-addon-install-unsigned =
     .value = (ללא אימות)
 popup-notification-xpinstall-prompt-learn-more = מידע נוסף על התקנת תוספות בצורה בטוחה
 popup-notification-xpinstall-prompt-block-url = צפייה בפרטים
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = לאפשר להרחבה זו לפעול בחלונות פרטיים
+    .accesskey = ל
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = הפעלה בחלונות פרטיים
