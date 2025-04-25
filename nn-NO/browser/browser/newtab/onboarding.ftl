@@ -451,6 +451,7 @@ tab-groups-onboarding-dismiss = OK
 
 multi-profile-spotlight-title = Sei hei til { -brand-product-name }-profilar
 multi-profile-spotlight-cta = Opprett ein profil
+multi-profile-callout-title = Lag ulike profilar for arbeid og moro
 multi-profile-callout-cta = Opprett ein profil
 
 ## Desktop to Mobile Adoption feature callout strings

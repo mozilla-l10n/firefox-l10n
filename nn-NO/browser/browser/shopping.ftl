@@ -193,6 +193,9 @@ shopping-survey-thanks =
 shopping-survey-opted-out-multiselect-label = Fortel oss kvifor du har slått av Review Checker. Vel fleire om nødvendig.
 shopping-survey-thanks-title = Takk for tilbakemeldinga di!
 shopping-survey-opted-out-hard-to-understand = Det er vanskeleg å forstå
+shopping-survey-opted-out-too-slow = Det går for tregt
+shopping-survey-opted-out-not-accurate = Det er ikkje treffsikkert
+shopping-survey-opted-out-not-helpful = Det er ikkje nyttig for meg
 shopping-survey-opted-out-check-myself = Eg vil heller sjekke vurderingar sjølv
 shopping-survey-opted-out-other = Anna
 
@@ -251,6 +254,8 @@ shopping-onboarding-welcome-steps-indicator-label =
 
 ## Review Checker in Integrated sidebar
 
+# Opt-in message strings for Review Checker when it is integrated into the global sidebar.
+shopping-opt-in-integrated-headline = Handl med sjølvtillit
 
 ## Messages for callout for users not opted into the sidebar integrated version of Review Checker.
 

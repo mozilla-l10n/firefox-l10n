@@ -33,6 +33,8 @@ expand-sidebar-on-hover =
 
 sidebar-context-menu-manage-extension =
     .label = Կառավարել ընդլայնումը
+sidebar-context-menu-hide-sidebar =
+    .label = Թաքցնել կողագոտին
 sidebar-context-menu-enable-vertical-tabs =
     .label = Միացնել ուղղահայաց ներդիրները
 sidebar-context-menu-customize-sidebar =
@@ -129,4 +131,9 @@ sidebar-widget-expand-sidebar2 =
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-show-sidebar2 =
     .tooltiptext = Ցուցադրել ({ $shortcut }) կողագոտին
+    .label = Կողագոտիներ
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-widget-hide-sidebar2 =
+    .tooltiptext = Թաքցնել կողագոտին ({ $shortcut })
     .label = Կողագոտիներ

@@ -1025,7 +1025,7 @@ autofill-payment-methods-checkbox-message = Lagre og fyll inn betalingsmåtar
     .accesskey = L
 autofill-payment-methods-checkbox-submessage = Inkluderer kreditt- og debetkort
     .accesskey = I
-autofill-saved-payment-methods-button = Lagra betaslingsmetodar
+autofill-saved-payment-methods-button = Lagra betalingsmetodar
     .accesskey = a
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Krev einingsinnlogging for å fylle ut og behandle betalingsmåtar
