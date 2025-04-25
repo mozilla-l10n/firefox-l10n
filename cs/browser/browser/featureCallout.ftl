@@ -88,9 +88,29 @@ split-dismiss-button-default-label =
 
 ## Login Status Advisory Callout (points to the account icon)
 
+# The 'account icon' is the toolbar button with a 'profile' icon of a human
+# head/shoulders. It's for dealing with your Mozilla account. When hovering the
+# icon, the tooltip says 'Account'.
+login-status-advisory-title = Nejste odhlášeni. Pro přihlášení klepněte na ikonu účtu.
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-title = Přidat tuto stránku do vaší lišty záložek?
+bookmarks-toolbar-callout-1-subtitle = Záložka bude pro rychlý přístup uložena pod adresní řádek.
+bookmarks-toolbar-callout-1-primary-button-label = Přidat záložku
+bookmarks-toolbar-callout-1-secondary-button-label = Ne, děkuji
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = Jednoduše přidejte další záložky
+bookmarks-toolbar-callout-2a-subtitle = Zde můžete přetahovat panely a mít tak své oblíbené stránky po ruce.
+bookmarks-toolbar-callout-2a-primary-button-label = Rozumím
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Skrýt nástrojovou lištu
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = Ponechat lištu záložek otevřenou?
+bookmarks-toolbar-callout-2b-subtitle = Můžete přidat další stránky, které navštěvujete častěji. Jednoduše přetáhněte panely sem a mějte své oblíbené webové stránky po ruce.
+bookmarks-toolbar-callout-2b-primary-button-label = Ponechat otevřeno
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = Ne, děkuji
 
 ## Sidebar Strings
 

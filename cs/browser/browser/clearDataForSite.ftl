@@ -3,3 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 clear-data-for-site-title = Vymazat všechna data pro tento server?
+# Variables:
+#   $site (string) - Website name
+clear-data-for-site-list = Tímto vymažete všechna data stránky { $site } včetně:
+clear-data-for-site-browsing-history = Historie prohlížení a stahování
+clear-data-for-site-cookies = Cookies a data stránky, které vás mohou z webu odhlásit
