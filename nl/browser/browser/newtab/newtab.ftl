@@ -534,6 +534,8 @@ newtab-download-mobile-highlight-title = { -brand-product-name } voor mobiel dow
 newtab-download-mobile-highlight-body-variant-a = Scan de code om veilig onderweg te navigeren.
 newtab-download-mobile-highlight-body-variant-b = Ga verder waar u was gebleven wanneer u uw tabbladen, wachtwoorden en meer synchroniseert.
 newtab-download-mobile-highlight-body-variant-c = Wist u dat u { -brand-product-name } ook onderweg kunt meenemen? Dezelfde browser. In uw zak.
+newtab-download-mobile-highlight-image =
+    .aria-label = QR-code om { -brand-product-name } voor mobiel te downloaden
 
 ## Strings for reporting ads and content
 
