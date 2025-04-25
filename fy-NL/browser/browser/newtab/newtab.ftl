@@ -532,6 +532,10 @@ newtab-custom-wallpaper-cta = Probearje
 newtab-download-mobile-highlight-title = { -brand-product-name } foar mobyl downloade
 # "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
 newtab-download-mobile-highlight-body-variant-a = Scan de koade om feilich ûnderweis te navigearjen.
+newtab-download-mobile-highlight-body-variant-b = Gean troch wêr’t jo bleaun wiene wannear’t jo jo ljepblêden, wachtwurden en mear syngronisearje.
+newtab-download-mobile-highlight-body-variant-c = Wisten jo dat jo { -brand-product-name } ek ûnderweis meinimme kinne? Deselde browser. Yn jo bûse.
+newtab-download-mobile-highlight-image =
+    .aria-label = QR-koade om { -brand-product-name } foar mobyl te downloaden
 
 ## Strings for reporting ads and content
 

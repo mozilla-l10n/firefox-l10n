@@ -78,10 +78,16 @@ sidebar-context-menu-remove-extension =
     .label = Utwreiding fuortsmite
 sidebar-context-menu-report-extension =
     .label = Utwreiding rapportearje
+sidebar-context-menu-open-in-tab =
+    .label = Iepenje yn nij ljepblêd
+sidebar-context-menu-open-in-container-tab =
+    .label = Iepenje yn nij kontenerljepblêd
 sidebar-context-menu-open-in-window =
     .label = Iepenje yn nij finster
 sidebar-context-menu-open-in-private-window =
     .label = Iepenje yn nij priveefinster
+sidebar-context-menu-forget-site =
+    .label = Alle gegevens foar website wiskje…
 sidebar-context-menu-bookmark-tab =
     .label = Blêdwizer foar ljepblêd meitsje…
 sidebar-context-menu-copy-link =
@@ -101,6 +107,10 @@ sidebar-context-menu-close-remote-tab =
 
 sidebar-history-context-menu-delete-page =
     .label = Fuortsmite út skiednis
+sidebar-history-context-menu-delete-page-2 =
+    .label = Side út skiednis fuortsmite
+sidebar-history-context-menu-bookmark-page =
+    .label = Blêdwizer foar side meitsje…
 
 ## Labels for sidebar menu items.
 
