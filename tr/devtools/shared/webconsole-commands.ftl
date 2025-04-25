@@ -15,3 +15,10 @@ webconsole-commands-usage-block =
     
       Yalnızca bir adet URL_STRING değişkeni kabul eder. Bu dizgide tırnak işareti kullanılmaz. URL’si bu dizgiyi içeren tüm istekler engellenecektir.
       Bu işlemi geri almak için :unblock komutunu veya ağ izleyicisindeki istek engelleme kenar çubuğunu kullanabilirsiniz.
+# Usage string for :unblock command
+webconsole-commands-usage-unblock =
+    :unblock URL_STRING
+    
+    Ağ isteklerini engellemeyi durdur
+    
+      Yalnızca daha önce :block komutuna aktarılmış olan dizgiyi kabul eder.
