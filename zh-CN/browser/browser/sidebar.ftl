@@ -82,6 +82,8 @@ sidebar-context-menu-open-in-window =
     .label = 新建窗口打开
 sidebar-context-menu-open-in-private-window =
     .label = 新建隐私窗口打开
+sidebar-context-menu-forget-site =
+    .label = 清除网站的所有数据…
 sidebar-context-menu-bookmark-tab =
     .label = 将标签页加入书签…
 sidebar-context-menu-copy-link =
@@ -101,6 +103,10 @@ sidebar-context-menu-close-remote-tab =
 
 sidebar-history-context-menu-delete-page =
     .label = 从历史记录中删除
+sidebar-history-context-menu-delete-page-2 =
+    .label = 从历史记录中删除页面
+sidebar-history-context-menu-bookmark-page =
+    .label = 将页面加入书签…
 
 ## Labels for sidebar menu items.
 

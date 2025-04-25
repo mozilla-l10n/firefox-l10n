@@ -1183,6 +1183,10 @@ popup-notification-addon-install-unsigned =
     .value = （未验证）
 popup-notification-xpinstall-prompt-learn-more = 详细了解如何安全地安装附加组件
 popup-notification-xpinstall-prompt-block-url = 查阅详情
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = 允许扩展在隐私窗口中运行
+    .accesskey = p
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = 在隐私窗口中运行

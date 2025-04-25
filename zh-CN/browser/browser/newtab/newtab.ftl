@@ -524,6 +524,13 @@ newtab-custom-wallpaper-cta = 试试看
 
 ## Strings for download mobile highlight
 
+newtab-download-mobile-highlight-title = 下载移动版 { -brand-product-name }
+# "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
+newtab-download-mobile-highlight-body-variant-a = 扫码下载移动版本，随时随地安全浏览。
+newtab-download-mobile-highlight-body-variant-b = 同步标签页、密码等信息，随时从上次看到的地方继续浏览。
+newtab-download-mobile-highlight-body-variant-c = 您还可以将 { -brand-product-name } 随身带着走。相同体验，装入口袋。
+newtab-download-mobile-highlight-image =
+    .aria-label = 移动版 { -brand-product-name } 的下载二维码
 
 ## Strings for reporting ads and content
 
