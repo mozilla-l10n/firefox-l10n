@@ -10,3 +10,6 @@ clear-data-for-site-browsing-history = Ñeikundaha rembiasakue ha mboguejypy
 clear-data-for-site-cookies = Kookie ha tenda mba’ekuaarã, ombotykuaáva nde jeike ko tendapegua
 clear-data-for-site-cache = Marandurenda ha kuatiarogue kachépe
 cclear-data-for-site-permissions = Ñemoneĩ ha jeguerohoryvéva
+clear-data-for-site-exceptions = Umi techaukaha ha ñe’ẽñemi ñongatupyre ndoguemo’ãi
+clear-data-for-site-dialog-accept-button = Emopotĩ mba’ekuaarã
+clear-data-for-site-dialog-cancel-button = Heja

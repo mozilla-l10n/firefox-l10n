@@ -71,6 +71,8 @@ split-dismiss-button-default-label =
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-primary-button-label = Embojuaju techaukaha
+bookmarks-toolbar-callout-1-secondary-button-label = Nahániri, aguyje
 
 ## Sidebar Strings
 

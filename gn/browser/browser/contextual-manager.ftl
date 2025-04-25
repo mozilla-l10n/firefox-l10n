@@ -296,3 +296,10 @@ contextual-manager-passwords-discard-changes-heading-and-message =
     .message = Emombuéva noñeñongatumo’ãi.
 contextual-manager-passwords-discard-changes-close-button = Mboty
 contextual-manager-passwords-discard-changes-go-back-button = Guevi jey
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] Héẽ, emboguete ñe’ẽñemi
+        [one] Héẽ, emboguete ñe’ẽñeminguéra
+       *[other] Héẽ, emboguete ñe’ẽñeminguéra
+    }
