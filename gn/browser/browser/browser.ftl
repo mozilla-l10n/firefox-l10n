@@ -1190,6 +1190,10 @@ popup-notification-addon-install-unsigned =
     .value = (Ndojehechajeýiva)
 popup-notification-xpinstall-prompt-learn-more = Eñemomaranduve mba’éichapa emohendáta moĩmbaha tekorosãkuápe
 popup-notification-xpinstall-prompt-block-url = Mba’emimi jehechauka
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = Emoneĩ upe jepysokue toku’e tendayke ñemiguápe
+    .accesskey = p
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Emongu’e Windows ñemiguápe
