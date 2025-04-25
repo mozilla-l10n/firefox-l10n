@@ -229,7 +229,7 @@ shortcuts-sidebarAction = Víxla hliðarstiku af/á
 shortcuts-modifier-mac = Hafa með Ctrl, Alt eða ⌘
 shortcuts-modifier-other = Hafa með Ctrl eða Alt
 shortcuts-invalid = Ógild samsetning
-shortcuts-letter = Slá inn bókstaf
+shortcuts-letter = Sláðu inn bókstaf
 shortcuts-system = Ekki hægt að breyta { -brand-short-name }-flýtilykli
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = Tvítaka flýtilykil

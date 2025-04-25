@@ -594,7 +594,7 @@ urlbar-search-mode-indicator-close =
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
-    .placeholder = Leita eða sláðu inn veffang
+    .placeholder = Leitaðu eða settu inn vistfang
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -630,7 +630,7 @@ urlbar-placeholder-search-mode-other-actions =
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
-    .placeholder = Leitaðu með { $name } eða sláðu inn vistfang
+    .placeholder = Leitaðu með { $name } eða settu inn vistfang
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
