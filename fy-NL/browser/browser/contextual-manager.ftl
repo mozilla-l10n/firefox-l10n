@@ -296,3 +296,10 @@ contextual-manager-passwords-discard-changes-heading-and-message =
     .message = Jo wizigingen wurde net bewarre.
 contextual-manager-passwords-discard-changes-close-button = Slute
 contextual-manager-passwords-discard-changes-go-back-button = Tebek
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] Ja, wachtwurd fuortsmite
+        [one] Ja, wachtwurd fuortsmite
+       *[other] Ja, wachtwurden fuortsmite
+    }
