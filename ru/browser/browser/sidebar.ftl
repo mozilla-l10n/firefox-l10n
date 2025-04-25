@@ -78,10 +78,16 @@ sidebar-context-menu-remove-extension =
     .label = Удалить расширение
 sidebar-context-menu-report-extension =
     .label = Пожаловаться на расширение
+sidebar-context-menu-open-in-tab =
+    .label = Открыть в новой вкладке
+sidebar-context-menu-open-in-container-tab =
+    .label = Открыть в новой вкладке-контейнере
 sidebar-context-menu-open-in-window =
     .label = Открыть в новом окне
 sidebar-context-menu-open-in-private-window =
     .label = Открыть в новом приватном окне
+sidebar-context-menu-forget-site =
+    .label = Удалить все данные для веб-сайта…
 sidebar-context-menu-bookmark-tab =
     .label = Добавить вкладку в закладки…
 sidebar-context-menu-copy-link =
@@ -101,6 +107,10 @@ sidebar-context-menu-close-remote-tab =
 
 sidebar-history-context-menu-delete-page =
     .label = Удалить из журнала
+sidebar-history-context-menu-delete-page-2 =
+    .label = Удалить страницу из истории
+sidebar-history-context-menu-bookmark-page =
+    .label = Добавить страницу в закладки…
 
 ## Labels for sidebar menu items.
 
