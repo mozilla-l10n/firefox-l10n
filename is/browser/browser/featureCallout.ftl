@@ -62,12 +62,27 @@ split-dismiss-button-show-fewer-option =
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option =
     .label = Sýsla með stillingar
+# Accessibility label for dropdown menu button
+split-dismiss-button-default-label =
+    .title = Fleiri valkostir
 
 ## Login Status Advisory Callout (points to the account icon)
 
+# The 'account icon' is the toolbar button with a 'profile' icon of a human
+# head/shoulders. It's for dealing with your Mozilla account. When hovering the
+# icon, the tooltip says 'Account'.
+login-status-advisory-title = Þú hefur skráð þig út. Smelltu á reikningstáknið til að skrá þig inn.
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-title = Bæta þessu vefsvæði við bókamerkjastikuna þína?
+bookmarks-toolbar-callout-1-primary-button-label = Bæta við bókamerki
+bookmarks-toolbar-callout-1-secondary-button-label = Nei takk
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = Bættu auðveldlega við fleiri bókamerkjum
+bookmarks-toolbar-callout-2a-primary-button-label = Náði því
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Fela verkfærastiku
 
 ## Sidebar Strings
 

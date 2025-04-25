@@ -1180,6 +1180,10 @@ popup-notification-addon-install-unsigned =
     .value = (Óstaðfest)
 popup-notification-xpinstall-prompt-learn-more = Sjáðu meira um að setja upp viðbætur á öruggan hátt
 popup-notification-xpinstall-prompt-block-url = Sjá nánar
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = Leyfa forritsaukum að keyra í huliðsgluggum
+    .accesskey = y
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Keyra í huliðsgluggum
