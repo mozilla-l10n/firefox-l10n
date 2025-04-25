@@ -528,6 +528,7 @@ newtab-custom-wallpaper-cta = Eha’ãjey
 
 ## Strings for download mobile highlight
 
+newtab-download-mobile-highlight-title = Emboguejy { -brand-product-name } ne pumbyrýpe
 
 ## Strings for reporting ads and content
 

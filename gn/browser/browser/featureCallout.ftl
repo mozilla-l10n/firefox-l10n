@@ -73,6 +73,12 @@ split-dismiss-button-default-label =
 
 bookmarks-toolbar-callout-1-primary-button-label = Embojuaju techaukaha
 bookmarks-toolbar-callout-1-secondary-button-label = Nahániri, aguyje
+bookmarks-toolbar-callout-2a-primary-button-label = Aikũmby
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Eñomi tembiporu renda
+bookmarks-toolbar-callout-2b-primary-button-label = Ereko jurujápe
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = Nahániri, aguyje
 
 ## Sidebar Strings
 
