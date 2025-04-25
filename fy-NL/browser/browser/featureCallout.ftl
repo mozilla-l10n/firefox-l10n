@@ -76,6 +76,21 @@ login-status-advisory-title = Jo binne ôfmeld. Klik op it accountpiktogram om j
 ## Bookmarks toolbar callout strings
 
 bookmarks-toolbar-callout-1-title = Dizze website oan jo blêdwizerarkbalke tafoegje?
+bookmarks-toolbar-callout-1-subtitle = Jo blêdwizer wurdt foar flugge tagong krekt ûnder de adresbalke bewarre.
+bookmarks-toolbar-callout-1-primary-button-label = Blêdwizer tafoegje
+bookmarks-toolbar-callout-1-secondary-button-label = Nee tanke
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = Ienfâldich mear blêdwizers tafoegje
+bookmarks-toolbar-callout-2a-subtitle = Jo kinne ljepblêden hjirhinne slepe om mear fan jo favorite websites foar de hân te hâlden.
+bookmarks-toolbar-callout-2a-primary-button-label = Begrepen
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Arkbalke ferstopje
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = Jo blêdwizerakbalke iepen hâlde?
+bookmarks-toolbar-callout-2b-subtitle = Jo kinne oare websites dy’t jo faker besykje tafoegje. Fersleep gewoanwei ljepblêden hjirhinne om favorite websites foar de hân te hâlden.
+bookmarks-toolbar-callout-2b-primary-button-label = Iepen hâlde
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = Nee tank
 
 ## Sidebar Strings
 
