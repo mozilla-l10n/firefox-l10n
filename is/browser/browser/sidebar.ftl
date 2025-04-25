@@ -31,6 +31,10 @@ sidebar-history-sort-by-site =
     .label = Raða eftir vefsvæðum
 sidebar-history-clear =
     .label = Hreinsa feril
+sidebar-history-sort-option-date-and-site =
+    .label = Dagsetning og vefsvæði
+sidebar-history-sort-option-last-visited =
+    .label = Síðast skoðað
 
 ## Labels for sidebar search
 
@@ -69,10 +73,16 @@ sidebar-context-menu-remove-extension =
     .label = Fjarlægja forritsauka
 sidebar-context-menu-report-extension =
     .label = Kvarta yfir forritsauka
+sidebar-context-menu-open-in-tab =
+    .label = Opna í nýjum flipa
+sidebar-context-menu-open-in-container-tab =
+    .label = Opna í nýjum sérefnisflipa
 sidebar-context-menu-open-in-window =
     .label = Opna í nýjum glugga
 sidebar-context-menu-open-in-private-window =
     .label = Opna í nýjum huliðsglugga
+sidebar-context-menu-forget-site =
+    .label = Hreinsa öll gögn fyrir vefsvæði...
 sidebar-context-menu-bookmark-tab =
     .label = Bókamerkja flipa…
 sidebar-context-menu-copy-link =
@@ -92,6 +102,10 @@ sidebar-context-menu-close-remote-tab =
 
 sidebar-history-context-menu-delete-page =
     .label = Eyða úr ferli
+sidebar-history-context-menu-delete-page-2 =
+    .label = Eyða síðu úr vafurferli
+sidebar-history-context-menu-bookmark-page =
+    .label = Bókamerkja síðu…
 
 ## Labels for sidebar menu items.
 

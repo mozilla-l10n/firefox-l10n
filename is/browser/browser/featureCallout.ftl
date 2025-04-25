@@ -83,6 +83,11 @@ bookmarks-toolbar-callout-2a-title = Bættu auðveldlega við fleiri bókamerkju
 bookmarks-toolbar-callout-2a-primary-button-label = Náði því
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2a-secondary-button-label = Fela verkfærastiku
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = Halda bókamerkjastikunni þinni opinni?
+bookmarks-toolbar-callout-2b-primary-button-label = Halda opnu
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = Nei takk
 
 ## Sidebar Strings
 

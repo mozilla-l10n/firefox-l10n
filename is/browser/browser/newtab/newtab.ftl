@@ -530,6 +530,8 @@ newtab-custom-wallpaper-cta = Prófaðu það
 
 ## Strings for reporting ads and content
 
+newtab-report-content-why-reporting-this =
+    .label = Af hverju ertu að tilkynna þetta?
 newtab-report-ads-reason-not-interested =
     .label = Ég hef ekki áhuga
 newtab-report-ads-reason-inappropriate =

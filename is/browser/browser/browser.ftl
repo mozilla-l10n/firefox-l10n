@@ -205,9 +205,14 @@ urlbar-result-menu-report-inaccurate-location =
     .label = Tilkynna ónákvæma staðsetningu
 urlbar-result-menu-show-less-frequently =
     .label = Sýna sjaldnar
+urlbar-result-menu-dont-show-weather-suggestions =
+    .label = Ekki sýna tillögur um veður
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Takk fyrir álit þitt
+# A message shown in the urlbar when the user dismisses weather suggestions.
+# Weather suggestions won't be shown at all anymore.
+urlbar-dismissal-acknowledgment-weather = Takk fyrir álit þitt. Þú munt ekki lengur sjá tillögur um veðurupplýsingar.
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -345,6 +350,7 @@ quickactions-bookmarks2 = Sýsla með bókamerki
 quickactions-cmd-bookmarks = bókamerki
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Hreinsa nýlega ferla
+quickactions-cmd-clearrecenthistory = Hreinsa nýlega ferla, vafurferill, ferlar
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Hreinsa feril
 quickactions-cmd-clearhistory = hreinsa feril
@@ -356,6 +362,10 @@ quickactions-extensions = Sýsla með forritsauka
 quickactions-cmd-extensions = forritsaukar
 # Opens Firefox View
 quickactions-firefoxview = Opna { -firefoxview-brand-name }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = opna { -firefoxview-brand-name }, { -firefoxview-brand-name }, opna sýn, skoða
 # Opens SUMO home page
 quickactions-help = { -brand-product-name } hjálp
 quickactions-cmd-help = hjálp, aðstoð
