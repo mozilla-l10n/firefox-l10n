@@ -92,6 +92,9 @@ bookmarks-toolbar-callout-2b-primary-button-label = Mantieni aperta
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = No grazie
 
+## Perplexity callout strings
+
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Mostra i titoli delle schede nella barra laterale
@@ -163,4 +166,3 @@ actions-callout-title = Completa le attività più comuni o accedi alle impostaz
 # "clear" - quickactions-cmd-clearrecenthistory
 # When localizing, ensure the translations match to ensure the action button appears as expected.
 actions-callout-subtitle = Prova a digitare un’azione come “stampa” per stampare una pagina o “cancella” per cancellare la cronologia.
-
