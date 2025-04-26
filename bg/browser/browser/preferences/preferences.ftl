@@ -1351,6 +1351,7 @@ permissions-addon-exceptions =
 collection-header = Събиране и използване на данни от { -brand-short-name }
 collection-header2 = Събиране и използване на данни от { -brand-short-name }
     .searchkeywords = събиране данни
+preferences-collection-description = Стремим се да ви предоставяме възможности и да събираме само минимума данни, необходими за подобряване на { -brand-product-name }, което ще е от полза за всички.
 preferences-collection-privacy-notice = Вижте Политиката за лични данни
 preferences-view-profiles = Преглед на всички профили
 collection-description = Стремим се да ви предоставяме възможност и да събираме само толкова, колкото ни е необходимо, за да предоставяме и подобряваме { -brand-short-name } за всички. Винаги искаме разрешение преди да получим лична информация.
