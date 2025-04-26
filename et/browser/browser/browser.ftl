@@ -176,6 +176,26 @@ urlbar-tip-icon-description =
     .alt = Nipp:
 urlbar-result-menu-button =
     .title = Ava menüü
+urlbar-result-menu-button-feedback = Tagasiside
+    .title = Ava menüü
+urlbar-result-menu-learn-more =
+    .label = Lisateave
+    .accesskey = t
+urlbar-result-menu-remove-from-history =
+    .label = Eemalda ajaloost
+    .accesskey = E
+urlbar-result-menu-tip-get-help =
+    .label = Otsi abi
+    .accesskey = a
+urlbar-result-menu-dismiss-suggestion =
+    .label = Loobu sellest soovitusest
+    .accesskey = b
+urlbar-result-menu-learn-more-about-firefox-suggest =
+    .label = Lisateave { -firefox-suggest-brand-name } kohta
+    .accesskey = L
+urlbar-result-menu-manage-firefox-suggest =
+    .label = Halda { -firefox-suggest-brand-name }i
+    .accesskey = H
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
