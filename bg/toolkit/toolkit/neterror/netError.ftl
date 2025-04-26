@@ -129,3 +129,4 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Ако не сте запо
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> използва политика за сигурност наречена HTTP Strict Transport Security (HSTS), което означава, че { -brand-short-name } може да използва само сигурни връзки. Не може да добавяте изключение при посещение на тази страница.
+certerror-blocked-by-corp-headers-description = Понякога уебсайтовете създават защита за себе си и за хора като вас от нежелани взаимодействия с други сайтове.

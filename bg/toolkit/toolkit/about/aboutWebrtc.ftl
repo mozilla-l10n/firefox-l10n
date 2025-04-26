@@ -209,6 +209,11 @@ about-webrtc-trickle-caption-msg = Забавилите се кандидати 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+# This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+#  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
+about-webrtc-sdp-set-timestamp = Времеви маркер { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
 
 ## These are displayed on the button that shows or hides the SDP information disclosure
 

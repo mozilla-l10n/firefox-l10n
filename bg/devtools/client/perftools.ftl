@@ -25,6 +25,7 @@
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
+perftools-request-to-stop-profiler = Спиране на записа
 
 ##
 

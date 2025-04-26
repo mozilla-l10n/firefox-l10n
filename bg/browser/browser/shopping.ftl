@@ -34,6 +34,7 @@ shopping-message-bar-keep-closed-header =
 
 ## Strings for the product review snippets card
 
+shopping-highlight-shipping = Доставка
 
 ## Strings for show more card
 
