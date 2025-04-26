@@ -648,7 +648,7 @@ urlbar-remote-control-notification-anchor2 =
 urlbar-permissions-granted =
     .tooltiptext = 您已授予此網站更多權限。
 urlbar-switch-to-tab =
-    .value = 切換到分頁:
+    .value = 切換到分頁：
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = 擴充套件:

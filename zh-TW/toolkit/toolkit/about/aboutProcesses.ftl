@@ -57,7 +57,7 @@ about-processes-inference-process = 推斷（{ $pid }）
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
 #    $type (String) The raw type for this process.
-about-processes-unknown-process = 其他: { $type }（{ $pid }）
+about-processes-unknown-process = 其他：{ $type }（{ $pid }）
 
 ## Isolated process names
 ## Variables:
@@ -84,7 +84,7 @@ about-processes-with-coop-coep-process-private = { $origin } — 隱私（{ $pid
 #                   Can be an empty string if the process is idle.
 about-processes-active-threads =
     { $active ->
-       *[other] { $active } 個忙碌的執行緒，共 { $number } 個: { $list }
+       *[other] { $active } 個忙碌的執行緒，共 { $number } 個：{ $list }
     }
 # Single-line summary of threads (idle process)
 # Variables:
@@ -105,7 +105,7 @@ about-processes-thread-name-and-id = { $name }
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
-about-processes-tab-name = 分頁: { $name }
+about-processes-tab-name = 分頁：{ $name }
 about-processes-preloaded-tab = 預先載入的新分頁
 # Single subframe
 # Variables:
