@@ -112,3 +112,11 @@ sidebar-genai-survey-satisfaction-question = Доколко сте доволн�
 sidebar-genai-survey-productive-question =
     До каква степен сте съгласни или не с твърдението:<br/>
     „Чатбота с AI в страничната лента ме прави по-продуктивен/а“?
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearrecenthistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = Опитайте да въведете действие като „print“, за да отпечатате страница, или „clear“, за да изчистите историята си.
