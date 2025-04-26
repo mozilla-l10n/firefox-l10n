@@ -204,6 +204,8 @@ urlbar-result-menu-manage-firefox-suggest =
 
 urlbar-search-tips-onboard = Sisesta vähem, leia rohkem: otsi otsingumootoriga { $engineName } otse oma aadressiribalt.
 urlbar-search-tips-redirect-2 = Alusta oma otsingut aadressiribalt, et näha soovitusi otsingumootorilt { $engineName } ning oma lehitsemise ajaloost.
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = Otsimine muutus just lihtsamaks. Proovi siin aadressiribal otsingut täpsustada. Selle asemel URL-i kuvamiseks ava seadetes Otsing.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Kiiremaks otsimiseks vali see otsetee.
@@ -252,6 +254,12 @@ urlbar-star-add-bookmark =
 
 ## Page Action Context Menu
 
+page-action-manage-extension2 =
+    .label = Halda laiendust
+    .accesskey = H
+page-action-remove-extension2 =
+    .label = Eemalda laiendus
+    .accesskey = E
 
 ## Auto-hide Context Menu
 
@@ -317,6 +325,24 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+# Opens the about:addons page in the home / recommendations section
+quickactions-addons = Vaata lisasid
+quickactions-cmd-addons2 = lisad
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Järjehoidjate haldamine
+quickactions-cmd-bookmarks = järjehoidjad
+# Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Hiljutise ajaloo tühjendamine
+quickactions-cmd-clearrecenthistory = hiljutise ajaloo tühjendamine, ajalugu
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Tühjenda ajalugu
+quickactions-cmd-clearhistory = ajaloo tühjendamine
+# Opens about:downloads page
+quickactions-downloads2 = Allalaadimiste vaatamine
+quickactions-cmd-downloads = allalaadimised
+# Opens about:addons page in the extensions section
+quickactions-extensions = Laienduste haldamine
+quickactions-cmd-extensions = laiendused
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Värskenda { -brand-short-name }
 # Restarts the browser
