@@ -68,14 +68,23 @@ split-dismiss-button-default-label =
 
 ## Login Status Advisory Callout (points to the account icon)
 
+# The 'account icon' is the toolbar button with a 'profile' icon of a human
+# head/shoulders. It's for dealing with your Mozilla account. When hovering the
+# icon, the tooltip says 'Account'.
+login-status-advisory-title = Embotýma ne rembiapo. Eikutu mba’ete ra’ãnga’i eike hag̃ua.
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-title = ¿Embojuaju ko tenda techaukaha rupa rehe?
 bookmarks-toolbar-callout-1-primary-button-label = Embojuaju techaukaha
 bookmarks-toolbar-callout-1-secondary-button-label = Nahániri, aguyje
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = Embojuaju techaukaha hasy’ỹre
 bookmarks-toolbar-callout-2a-primary-button-label = Aikũmby
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2a-secondary-button-label = Eñomi tembiporu renda
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = ¿Ereko jurujápe techaukaha rembiporu rupa?
 bookmarks-toolbar-callout-2b-primary-button-label = Ereko jurujápe
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = Nahániri, aguyje
