@@ -71,6 +71,11 @@ split-dismiss-button-default-label =
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-2a-primary-button-label = Entendido
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Ocultar barra de herramientas
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = ¿Mantener abierta la barra de marcadores?
 
 ## Sidebar Strings
 

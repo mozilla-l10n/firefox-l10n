@@ -7,3 +7,7 @@ clear-data-for-site-title = ¿Borrar todos los datos de este sitio web?
 #   $site (string) - Website name
 clear-data-for-site-list = Esto borrará todos los datos de { $site }, incluidos:
 clear-data-for-site-browsing-history = Historial de navegación y búsquedas
+clear-data-for-site-cache = Archivos y páginas en caché
+cclear-data-for-site-permissions = Permisos y preferencias
+clear-data-for-site-dialog-accept-button = Limpiar datos
+clear-data-for-site-dialog-cancel-button = Cancelar
