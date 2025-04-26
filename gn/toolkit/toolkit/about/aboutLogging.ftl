@@ -73,6 +73,7 @@ about-logging-configured-via-url = Poravopyrã mbohekopyahupyre URL rupive
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
+about-logging-upload-question = Umi mba’ete mba’ekuaarã ojejapyhýma. ¿Eñongatuse térã ehupise?
 about-logging-save-button = Ñongatu
 about-logging-upload-button = Hupi
 # Variables:
@@ -82,3 +83,9 @@ about-logging-saved = Ñongatupyre { $path }-pe
 #   $url (string) - The URL where the profile can be found
 about-logging-uploaded = Ojehupíva <a data-l10n-name="uploaded-message-url">{ $url }</a>
 about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Emoherakuã URL
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-upload-error = Oiko peteĩ jejavy ehupikuévo pe mba’ete: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-save-error = Oiko peteĩ jejavy eñongatukuévo mba’ete: { $errorText }
