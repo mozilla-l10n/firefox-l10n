@@ -531,6 +531,9 @@ newtab-custom-wallpaper-cta = Eha’ãjey
 newtab-download-mobile-highlight-title = Emboguejy { -brand-product-name } ne pumbyrýpe
 # "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
 newtab-download-mobile-highlight-body-variant-a = Emoha’ãnga pe ayvu eikundaha hag̃ua tekorosãme ehokuévo.
+newtab-download-mobile-highlight-body-variant-b = Eku’ejey eheja haguégui embojuehe rire tendayke, ñe’ẽñemi ha hetave.
+newtab-download-mobile-highlight-image =
+    .aria-label = QR ayvu emboguejy hag̃ua { -brand-product-name } pumbyrýpe
 
 ## Strings for reporting ads and content
 

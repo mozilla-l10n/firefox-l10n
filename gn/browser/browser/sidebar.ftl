@@ -107,6 +107,10 @@ sidebar-context-menu-close-remote-tab =
 
 sidebar-history-context-menu-delete-page =
     .label = Emboguete tembiasakuégui
+sidebar-history-context-menu-delete-page-2 =
+    .label = Emboguete tembiasakue kuatiaroguégui
+sidebar-history-context-menu-bookmark-page =
+    .label = Embojuaju kuatiarogue techaukaháre…
 
 ## Labels for sidebar menu items.
 
