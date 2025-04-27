@@ -69,10 +69,17 @@ contextual-manager-passwords-import-detailed-report = Толық есепті қ
 contextual-manager-passwords-import-success-button = Дайын
 contextual-manager-passwords-import-error-button-try-again = Қайтадан көру
 contextual-manager-passwords-import-error-button-cancel = Бас тарту
+contextual-manager-passwords-export-success-heading =
+    .heading = Парольдер экспортталды
 contextual-manager-passwords-export-success-button = Дайын
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = Парольдерді файлға экспорттау керек пе?
 contextual-manager-export-passwords-dialog-confirm-button = Экспорттауды жалғастыру
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = { -brand-short-name } ішінен парольдерді экспорттау
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = парольдер
 contextual-manager-passwords-export-file-picker-export-button = Экспорттау
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -114,6 +121,13 @@ contextual-manager-passwords-update-password-success-heading =
     .heading = Пароль сақталды
 contextual-manager-passwords-update-password-success-button = Дайын
 contextual-manager-passwords-delete-password-success-button = Дайын
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = Барлығы ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = Ескертулер ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Парольді өшіру керек пе?
 # This message gives the user an option to go back to the edit login form.
@@ -135,11 +149,25 @@ contextual-manager-passwords-create-label =
 
 contextual-manager-passwords-list-label =
     .aria-label = Парольдер
+contextual-manager-website-icon =
+    .alt = Веб-сайт таңбашасы
 contextual-manager-copy-icon =
     .alt = Көшіріп алу
+contextual-manager-check-icon-username =
+    .alt = Көшірілді
+contextual-manager-check-icon-password =
+    .alt = Көшірілді
 contextual-manager-password-login-line =
     .aria-label = Парольді көшіріп алу
     .title = Парольді көшіріп алу
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = Парольді көшіру (ескерту)
+    .title = Парольді көшіру (ескерту)
+contextual-manager-edit-login-button = Түзету
+    .tooltiptext = Парольді түзету
+contextual-manager-view-alert-heading =
+    .heading = Ескертуді қарау
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
