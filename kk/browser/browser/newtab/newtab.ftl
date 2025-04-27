@@ -515,9 +515,26 @@ newtab-section-manage-topics-button-v2 =
 
 ## Strings for download mobile highlight
 
+newtab-download-mobile-highlight-image =
+    .aria-label = Мобильді { -brand-product-name } жүктеп алу үшін QR коды
 
 ## Strings for reporting ads and content
 
+newtab-report-ads-reason-not-interested =
+    .label = Маған бұл қызықты емес
+newtab-report-ads-reason-inappropriate =
+    .label = Бұл орынсыз
+newtab-report-ads-reason-seen-it-too-many-times =
+    .label = Мен оны тым көп рет көрдім
+newtab-report-content-wrong-category =
+    .label = Қате санат
+newtab-report-content-outdated =
+    .label = Ескірген
+newtab-report-content-inappropriate-offensive =
+    .label = Орынсыз немесе қорлайтын
+newtab-report-content-spam-misleading =
+    .label = Спам немесе жаңылыстыру
+newtab-report-cancel = Бас тарту
 newtab-report-submit = Жіберу
 newtab-toast-thanks-for-feedback =
     .message = Пікіріңізге рахмет.
