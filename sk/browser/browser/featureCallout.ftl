@@ -75,6 +75,22 @@ login-status-advisory-title = Ste odhlásení. Kliknutím na ikonu účtu sa pri
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-title = Chcete pridať túto stránku na panel Záložiek?
+bookmarks-toolbar-callout-1-subtitle = Vaša záložka bude uložená hneď pod panelom s adresou, aby ste k nej mali rýchly prístup.
+bookmarks-toolbar-callout-1-primary-button-label = Pridať záložku
+bookmarks-toolbar-callout-1-secondary-button-label = Nie, ďakujem
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = Jednoducho pridajte ďalšie záložky
+bookmarks-toolbar-callout-2a-subtitle = Karty tu môžete presúvať myšou, aby ste mali viac svojich obľúbených stránok na dosah.
+bookmarks-toolbar-callout-2a-primary-button-label = Rozumiem
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Skryť panel nástrojov
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = Ponechať panel so záložkami otvorený?
+bookmarks-toolbar-callout-2b-subtitle = Môžete pridať ďalšie stránky, ktoré navštevujete častejšie. Karty sem jednoducho presuňte myšou, aby ste mali obľúbené webové stránky na dosah.
+bookmarks-toolbar-callout-2b-primary-button-label = Ponechať otvorený
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = Nie, ďakujem
 
 ## Sidebar Strings
 

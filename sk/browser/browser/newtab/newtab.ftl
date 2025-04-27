@@ -526,6 +526,13 @@ newtab-custom-wallpaper-cta = Vyskúšajte to
 
 ## Strings for download mobile highlight
 
+newtab-download-mobile-highlight-title = Stiahnite si { -brand-product-name } pre mobilné zariadenia
+# "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
+newtab-download-mobile-highlight-body-variant-a = Naskenujte kód a bezpečne prehliadajte na cestách.
+newtab-download-mobile-highlight-body-variant-b = Pokračujte tam, kde ste prestali. Synchronizujete svoje karty, heslá a ďalšie položky.
+newtab-download-mobile-highlight-body-variant-c = Vedeli ste, že { -brand-product-name } si môžete vziať na cesty? Rovnaký prehliadač. Vo vrecku.
+newtab-download-mobile-highlight-image =
+    .aria-label = QR kód na stiahnutie { -brand-product-name(case: "gen") } pre mobilné zariadenia
 
 ## Strings for reporting ads and content
 

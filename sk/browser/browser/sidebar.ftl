@@ -78,10 +78,16 @@ sidebar-context-menu-remove-extension =
     .label = Odstrániť rozšírenie
 sidebar-context-menu-report-extension =
     .label = Nahlásiť rozšírenie
+sidebar-context-menu-open-in-tab =
+    .label = Otvoriť na novej karte
+sidebar-context-menu-open-in-container-tab =
+    .label = Otvoriť na novej kontajnerovej karte
 sidebar-context-menu-open-in-window =
     .label = Otvoriť v novom okne
 sidebar-context-menu-open-in-private-window =
     .label = Otvoriť v novom súkromnom okne
+sidebar-context-menu-forget-site =
+    .label = Vymazať všetky údaje pre webovú stránku…
 sidebar-context-menu-bookmark-tab =
     .label = Pridať kartu medzi záložky…
 sidebar-context-menu-copy-link =
@@ -101,6 +107,10 @@ sidebar-context-menu-close-remote-tab =
 
 sidebar-history-context-menu-delete-page =
     .label = Odstrániť z histórie
+sidebar-history-context-menu-delete-page-2 =
+    .label = Odstrániť stránku z histórie
+sidebar-history-context-menu-bookmark-page =
+    .label = Pridať stránku medzi záložky…
 
 ## Labels for sidebar menu items.
 
