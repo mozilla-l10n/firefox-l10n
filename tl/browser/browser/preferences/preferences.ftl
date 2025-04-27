@@ -8,6 +8,9 @@ do-not-track-option-default-content-blocking-known =
     .label = Payagan lang kung ang { -brand-short-name } ay naka-set na mag-block ng mga kilalang tracker.
 do-not-track-option-always =
     .label = Palagi
+global-privacy-control-description =
+    .label = Sabihin sa mga website na huwag ibahagi o ibenta ang aking data
+    .accesskey = s
 settings-page-title = Mga setting
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible

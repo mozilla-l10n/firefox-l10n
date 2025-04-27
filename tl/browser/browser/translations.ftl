@@ -22,3 +22,5 @@
 
 ## Firefox Translations language management in about:preferences.
 
+translations-manage-intro-2 = Itakda ang iyong mga kagustuhan sa wika at pagsasalin ng site at pamahalaan ang mga wikang na-download para sa pagsasalin offline.
+translations-manage-download-description = Mag-download ng mga wika para sa offline na pagsasalin
