@@ -196,6 +196,23 @@ urlbar-result-menu-learn-more-about-firefox-suggest =
 urlbar-result-menu-manage-firefox-suggest =
     .label = { -firefox-suggest-brand-name } басқару
     .accesskey = б
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative region (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location =
+    .label = Дәлсіз орналасу туралы хабарлау
+urlbar-result-menu-show-less-frequently =
+    .label = Сиректеу көрсету
+urlbar-result-menu-dont-show-weather-suggestions =
+    .label = Ауа райы ұсыныстарын көрсетпеу
+# A message shown in the urlbar when the user submits feedback on a suggestion
+# (e.g., it shows an inaccurate location, it's shown too often, etc.).
+urlbar-feedback-acknowledgment = Пікіріңізге рахмет
+# A message shown in the urlbar when the user dismisses weather suggestions.
+# Weather suggestions won't be shown at all anymore.
+urlbar-dismissal-acknowledgment-weather = Пікіріңізге рахмет. Енді ауа райы ұсыныстарын көрмейсіз.
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -354,6 +371,7 @@ quickactions-help = { -brand-product-name } көмегі
 quickactions-cmd-help = көмек, қолдау
 # Opens the devtools web inspector
 quickactions-inspector2 = Әзірлеуші құралдарын ашу
+quickactions-cmd-inspector2 = inspector, devtools, dev tools, бақылаушы, әзірлеуші құралдары
 quickactions-cmd-inspector = бақылаушы, әзірлеуші құралдары
 # Opens about:logins
 quickactions-logins2 = Парольдерді басқару
@@ -378,6 +396,7 @@ quickactions-restart = { -brand-short-name } қайта қосу
 quickactions-cmd-restart = қайта қосу
 # Opens the screenshot tool
 quickactions-screenshot3 = Скриншотты түсіру
+quickactions-cmd-screenshot2 = screenshot, take a screenshot, скриншот, скриншот түсіру
 quickactions-cmd-screenshot = скриншот
 # Opens about:preferences
 quickactions-settings2 = Баптауларды басқару
@@ -390,6 +409,7 @@ quickactions-update = { -brand-short-name } жаңарту
 quickactions-cmd-update = жаңарту
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Парақтың бастапқы кодын қарау
+quickactions-cmd-viewsource2 = view source, source, page source, бастапқы код, беттің бастапқы коды
 quickactions-cmd-viewsource = бастапқы кодын қарау, бастапқы код
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -1169,6 +1189,10 @@ popup-notification-addon-install-unsigned =
     .value = (Тексерілмеген)
 popup-notification-xpinstall-prompt-learn-more = Қосымшаларды қауіпсіз орнату туралы көбірек біліңіз
 popup-notification-xpinstall-prompt-block-url = Ақпаратын қарау
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = Кеңейтуге жекелік шолу терезелерінде орындалуға рұқсат ету
+    .accesskey = ж
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Жекелік шолу режиміндегі терезелерде орындау
