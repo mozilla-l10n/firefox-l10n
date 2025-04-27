@@ -766,6 +766,8 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
+autofill-payment-methods-checkbox-message = Mag-save at maglagay ng mga payment method
+    .accesskey = m
 
 ## Privacy Section - History
 

@@ -18,7 +18,7 @@ contentanalysis-slow-agent-dialog-body-file = "{ $filename }" zure erakundearen 
 contentanalysis-slow-agent-dialog-body-file-and-more =
     { $count ->
         [one] "{ $filename }" eta beste elementu bat zure erakundearen datu-politiken aurka berrikusten ari da { $agent }. Une bat har lezake honek.
-       *[other] "{ $filename }" eta beste ${ count } elementu zure erakundearen datu-politiken aurka berrikusten ari da { $agent }. Une bat har lezake honek.
+       *[other] "{ $filename }" eta beste { $count } elementu zure erakundearen datu-politiken aurka berrikusten ari da { $agent }. Une bat har lezake honek.
     }
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis

@@ -85,7 +85,7 @@ about-logging-saved = Zapisano w { $path }
 about-logging-uploading-progress = Przesyłanie danych profilu: { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
 # Variables:
 #   $url (string) - The URL where the profile can be found
-about-logging-uploaded = Przesłano do <a data-l10n-name="uploaded-message-url">
+about-logging-uploaded = Przesłano do <a data-l10n-name="uploaded-message-url">{ $url }</a>
 about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Udostępnij adres
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.

@@ -106,6 +106,7 @@ about-logins-login-intro-heading-logged-out2 = Hinahanap mo ba ang iyong nai-sav
 about-logins-login-intro-heading-logged-in = Walang natagpuang naka-sync na mga login.
 login-intro-description = Kung nag-save ka ng mga login mo sa { -brand-product-name } sa ibang device, ganito ang dapat gawin para makuha mo sila rito:
 login-intro-instructions-fxa = Gumawa o mag-sign in sa iyong { -fxaccount-brand-name } sa pamamagitan ng device kung saan naka-save ang mga login mo.
+about-logins-login-intro-heading-message = I-save ang iyong mga password sa isang ligtas na lugar
 login-intro-instructions-fxa-settings = Pumunta sa Mga Setting> Sync> I-on ang pag-sync ... Piliin ang checkbox ng Mga login at password.
 login-intro-instructions-fxa-passwords-help = Visit <a data-l10n-name="passwords-help-link">passwords support</a> for more help.
 about-logins-intro-import2 = Kung naka-save ang mga login mo sa labas ng { -brand-product-name }, maaari mo <a data-l10n-name="import-browser-link">i-import ang mga ito mula sa ibang browser</a> o <a data-l10n-name="import-file-link">mula sa isang file</a>
@@ -192,9 +193,7 @@ master-password-reload-button =
 
 ## Dialogs
 
-confirmation-dialog-cancel-button = Kanselahin
-confirmation-dialog-dismiss-button =
-    .title = Kanselahin
+confirmation-dialog-cancel-button = Ikansela
 about-logins-confirm-remove-dialog-title = Alisin ang login?
 confirm-delete-dialog-message = Hindi na pwedeng bawiin ang kilos na ito.
 # Title for modal to confirm the removal of one saved password
@@ -373,7 +372,6 @@ about-logins-import-dialog-error-unable-to-read-description = Tiyaking nakapili 
 about-logins-import-dialog-error-no-logins-imported = Walang na-import na mga login
 about-logins-import-dialog-error-learn-more = Karagdagang kaalaman
 about-logins-import-dialog-error-try-import-again = Subukan Muling Mag-import…
-about-logins-import-dialog-error-cancel = Kanselahin
 about-logins-import-report-title = Buod ng Pag-import
 about-logins-import-report-description = Na-import ang mga login at password sa { -brand-short-name }.
 about-logins-import-report-description2 = Na-import na ang mga password sa { -brand-short-name }.

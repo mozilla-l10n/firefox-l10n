@@ -57,6 +57,8 @@ mobile-app-card-content = Gamitin ang mobile browser na may built-in na proteksy
 mobile-app-links = { -brand-product-name } Browser para sa <a data-l10n-name="android-mobile-inline-link">Android</a> at <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Huwag nang muling makalimot ng password
 lockwise-header-content-logged-in = Ligtas na iimbak at i-sync ang mga password mo sa lahat ng mga device.
+protection-report-passwords-save-passwords-button = I-save ang mga password
+    .title = I-save ang mga password
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.
 lockwise-scanned-text-breached-logins =

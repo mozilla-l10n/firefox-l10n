@@ -70,7 +70,7 @@ contentanalysis-error-message-print = Rifuzita presado.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
-contentanalysis-timeout-block-error-message-content = Elĉerpiĝis la tempo por konektiĝi al { $agento }. { $contentName } estis blokita.
+contentanalysis-timeout-block-error-message-content = Elĉerpiĝis la tempo por konektiĝi al { $agent }. { $contentName } estis blokita.
 contentanalysis-block-dialog-title-upload-file = Vi ne rajtas alŝuti tiun ĉi dosieron
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"

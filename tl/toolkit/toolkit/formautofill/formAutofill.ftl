@@ -8,6 +8,9 @@
 
 ## The credit card capture doorhanger
 
+# If Sync is enabled and credit card sync is available,
+# this checkbox is displayed on the doorhanger shown when saving credit card.
+credit-card-doorhanger-credit-cards-sync-checkbox = I-sync lahat ng aking mga naka-save na card sa iba't-ibang mga device
 
 # Used on the doorhanger when an credit card change is detected.
 

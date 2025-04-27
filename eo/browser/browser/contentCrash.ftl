@@ -31,13 +31,6 @@ pending-crash-reports-send =
     .label = Sendi
 pending-crash-reports-always-send =
     .label = Ĉiam sendi
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-requested-crash-reports-message =
-    { $reportCount ->
-        [one] Vi havas nesenditan raporton pri paneo, kiu kongruas kun nuntempe studataj paneoj, sendi ĝin helpos nin plibonigi { -brand-product-name }. Se vi fermas tiun ĉi sciigon tiu raporto estos ignorita.
-       *[other] Vi havas nesenditajn raportojn pri paneo, kiuj kongruas kun nuntempe studataj paneoj, sendi ilin helpos nin plibonigi { -brand-product-name }. Se vi fermas tiun ĉi sciigon tiuj raportoj estos ignoritaj.
-    }
 requested-crash-reports-dont-show-again =
     .label = Ne montri denove
     .accesskey = N
