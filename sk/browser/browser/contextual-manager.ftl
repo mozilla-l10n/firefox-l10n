@@ -307,3 +307,12 @@ contextual-manager-passwords-discard-changes-heading-and-message =
     .message = Vykonané zmeny sa neuložia.
 contextual-manager-passwords-discard-changes-close-button = Zavrieť
 contextual-manager-passwords-discard-changes-go-back-button = Prejsť naspäť
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] Áno, odstrániť heslo
+        [one] Áno, odstrániť heslo
+        [few] Áno, odstrániť heslá
+        [many] Áno, odstrániť heslá
+       *[other] Áno, odstrániť heslá
+    }

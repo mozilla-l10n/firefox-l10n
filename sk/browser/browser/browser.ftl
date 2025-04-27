@@ -1196,6 +1196,10 @@ popup-notification-addon-install-unsigned =
     .value = (neoverený)
 popup-notification-xpinstall-prompt-learn-more = Ďalšie informácie o bezpečnej inštalácii doplnkov
 popup-notification-xpinstall-prompt-block-url = Podrobnosti
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = Povoliť spustenie rozšírenia v súkromných oknách
+    .accesskey = s
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Povoliť v súkromných oknách
