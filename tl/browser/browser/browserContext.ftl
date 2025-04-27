@@ -118,9 +118,18 @@ main-context-menu-save-link-to-pocket =
 main-context-menu-copy-email =
     .label = Kopyahin ang Email Address
     .accesskey = E
+main-context-menu-copy-phone =
+    .label = Kopyahin ang Phone Number
+    .accesskey = o
 main-context-menu-copy-link-simple =
     .label = Kopyahin ang Link
     .accesskey = L
+# "Copy Clean Link" means that Firefox will remove things from the link you
+# copied, like items that identify you for advertising purposes, and other items
+# sites add into URLs to help them deliver a certain browsing experience.
+main-context-menu-copy-clean-link =
+    .label = Kopyahin ang Malinis na Link
+    .accesskey = u
 
 ## Media (video/audio) controls
 ##
@@ -213,6 +222,9 @@ main-context-menu-image-email =
 main-context-menu-image-set-image-as-background =
     .label = Itakda ang Larawan bilang Background ng Desktop…
     .accesskey = I
+main-context-menu-image-copy-text =
+    .label = Kopyahin ang Text sa Larawan
+    .accesskey = x
 main-context-menu-image-info =
     .label = Tingnan ang Impormasyon ng Larawan
     .accesskey = f

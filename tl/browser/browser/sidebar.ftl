@@ -14,6 +14,8 @@
 
 ## Labels for sidebar context menu items
 
+sidebar-context-menu-copy-link =
+    .label = Kopyahin ang Link
 
 ## Labels for sidebar history context menu items
 

@@ -104,7 +104,7 @@ about-telemetry-current-data-sidebar = kasalukuyang data
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = lahat
 # button label to copy the histogram
-about-telemetry-histogram-copy = Kopya
+about-telemetry-histogram-copy = Kopyahin
 # these strings are used in the “Slow SQL Statements” section
 about-telemetry-slow-sql-main = Mahinang pahayag sa SQL Main Thread
 about-telemetry-slow-sql-other = Mahinang SQL na pahayag sa Katulong na Threads

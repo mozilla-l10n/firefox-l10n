@@ -689,6 +689,9 @@ panel-save-update-password = Password
 # "More" item in macOS share menu
 menu-share-more =
     .label = Higit pa...
+menu-share-copy-link =
+    .label = Kopyahin ang Link
+    .accesskey = L
 ui-tour-info-panel-close =
     .tooltiptext = Isarado
 
