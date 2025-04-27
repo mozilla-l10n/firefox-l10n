@@ -194,6 +194,8 @@ master-password-reload-button =
 ## Dialogs
 
 confirmation-dialog-cancel-button = Ikansela
+confirmation-dialog-dismiss-button =
+    .title = Ikansela
 about-logins-confirm-remove-dialog-title = Alisin ang login?
 confirm-delete-dialog-message = Hindi na pwedeng bawiin ang kilos na ito.
 # Title for modal to confirm the removal of one saved password
@@ -372,6 +374,7 @@ about-logins-import-dialog-error-unable-to-read-description = Tiyaking nakapili 
 about-logins-import-dialog-error-no-logins-imported = Walang na-import na mga login
 about-logins-import-dialog-error-learn-more = Karagdagang kaalaman
 about-logins-import-dialog-error-try-import-again = Subukan Muling Mag-import…
+about-logins-import-dialog-error-cancel = Ikansela
 about-logins-import-report-title = Buod ng Pag-import
 about-logins-import-report-description = Na-import ang mga login at password sa { -brand-short-name }.
 about-logins-import-report-description2 = Na-import na ang mga password sa { -brand-short-name }.

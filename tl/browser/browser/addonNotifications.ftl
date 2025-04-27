@@ -68,7 +68,7 @@ addon-downloading-and-verifying =
     }
 addon-download-verifying = Biniberika
 addon-install-cancel-button =
-    .label = Kanselahin
+    .label = Ikansela
     .accesskey = C
 addon-install-accept-button =
     .label = Idagdag
