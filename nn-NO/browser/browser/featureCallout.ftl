@@ -87,6 +87,7 @@ bookmarks-toolbar-callout-2a-primary-button-label = Eg forstår
 bookmarks-toolbar-callout-2a-secondary-button-label = Gøym verktøylinje
 # Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2b-title = Halde bokmerkeverktøylinja open?
+bookmarks-toolbar-callout-2b-subtitle = Du kan leggje til andre nettstadar du besøkjer oftare. Berre dra og slepp faner her for å halde favorittnettstadane dine innan rekkjevidde.
 bookmarks-toolbar-callout-2b-primary-button-label = Hald open
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = Nei takk
