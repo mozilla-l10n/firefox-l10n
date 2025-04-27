@@ -102,6 +102,9 @@ urlbar-search-tips-confirm = OK, nakuha ko
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = Payo:
+urlbar-result-menu-learn-more-about-firefox-suggest =
+    .label = Alamin ang tungkol sa { -firefox-suggest-brand-name }
+    .accesskey = L
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
