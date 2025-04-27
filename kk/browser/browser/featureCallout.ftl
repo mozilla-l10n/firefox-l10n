@@ -70,7 +70,12 @@ split-dismiss-button-manage-settings-option =
 
 bookmarks-toolbar-callout-1-primary-button-label = Бетбелгіні қосу
 bookmarks-toolbar-callout-1-secondary-button-label = Жоқ, рахмет
+bookmarks-toolbar-callout-2a-primary-button-label = Түсіндім
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Құралдар панелін жасыру
 bookmarks-toolbar-callout-2b-primary-button-label = Ашық ұстау
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = Жоқ, рахмет
 
 ## Sidebar Strings
 
@@ -82,12 +87,16 @@ sidebar-button-callout-vertical-tabs = Бертерді көрсету үшін 
 
 vertical-tabs-callout-1-cta-button = Вертикалды беттерді қолданып көру
 vertical-tabs-callout-2-cta-button = Қазір қолданып көру
+vertical-tabs-callout-2-title = Көптеген беттерді ашық ұстау керек пе? Тік беттерді қолданып көріңіз.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
+sidebar-pins-callout-cta-button = Бетті бекіту
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-callout-button = Бүйір панелін баптау
+sidebar-customization-callout-dismiss-button = Бүйір панельді жасыру
 
 ## Sidebar Callout Survey Strings
 
