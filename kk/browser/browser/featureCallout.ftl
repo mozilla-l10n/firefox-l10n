@@ -68,6 +68,9 @@ split-dismiss-button-manage-settings-option =
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-primary-button-label = Бетбелгіні қосу
+bookmarks-toolbar-callout-1-secondary-button-label = Жоқ, рахмет
+bookmarks-toolbar-callout-2b-primary-button-label = Ашық ұстау
 
 ## Sidebar Strings
 

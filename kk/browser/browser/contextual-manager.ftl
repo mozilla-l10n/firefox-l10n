@@ -168,10 +168,24 @@ contextual-manager-edit-login-button = Түзету
     .tooltiptext = Парольді түзету
 contextual-manager-view-alert-heading =
     .heading = Ескертуді қарау
+contextual-manager-view-alert-button =
+    .tooltiptext = Ескертуді қарап шығу
+contextual-manager-show-password-button =
+    .aria-label = Парольді көрсету
+    .title = Парольді көрсету
+contextual-manager-hide-password-button =
+    .aria-label = Парольді жасыру
+    .title = Парольді жасыру
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = Парольдер табылмады
+contextual-manager-passwords-no-passwords-found-message = Парольдер табылмады. Басқа терминді іздеп, әрекетті қайталаңыз.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = Парольдеріңізді қауіпсіз жерге сақтаңыз.
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
