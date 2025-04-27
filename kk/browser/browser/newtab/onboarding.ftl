@@ -443,6 +443,7 @@ onboarding-checklist-sign-up = Тіркеліңіз немесе тіркелг�
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-session-restore-title = Беттер топтарын осы жерден кез келген уақытта қайта ашыңыз.
 tab-groups-onboarding-dismiss = ОК
 
 ## Multi Profiles feature onboarding messages
@@ -454,5 +455,7 @@ multi-profile-callout-cta = Профиль жасау
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = Жүктеп алыңыз, синхрондаңыз және алға жүріңіз!
 dismiss-button-label = Елемеу
 sync-to-mobile-button-label = Мобильді құрылғымен синхрондау

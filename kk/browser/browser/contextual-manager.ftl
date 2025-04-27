@@ -116,10 +116,24 @@ contextual-manager-passwords-radiogroup-label =
 #   $url (string) - The url associated with the new login
 contextual-manager-passwords-add-password-success-heading =
     .heading = { $url } үшін пароль қосылды
+contextual-manager-passwords-add-password-success-button = Қарау
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = { $url } үшін пароль және пайдаланушы аты бар болып тұр
 contextual-manager-passwords-password-already-exists-error-button = Парольге өту
 contextual-manager-passwords-update-password-success-heading =
     .heading = Пароль сақталды
 contextual-manager-passwords-update-password-success-button = Дайын
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] Пароль өшірілді
+            [one] Пароль өшірілді
+           *[other] Пароль өшірілді
+        }
 contextual-manager-passwords-delete-password-success-button = Дайын
 #
 # Radiobutton label to display total number of passwords

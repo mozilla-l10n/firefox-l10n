@@ -272,6 +272,15 @@ preferences-web-appearance-override-warning2 =
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = { -brand-short-name } темаларын <a data-l10n-name="themes-link">Кеңейтулер және темалар</a> ішінен басқарыңыз
 preferences-contrast-control-header = Контрастты басқару
+preferences-contrast-control-use-platform-settings =
+    .label = Автоматты (жүйе параметрлерін пайдалану)
+    .accesskey = А
+preferences-contrast-control-off =
+    .label = Сөндірулі
+    .accesskey = С
+preferences-contrast-control-custom =
+    .label = Таңдауыңызша
+    .accesskey = Т
 preferences-colors-header = Түстер
 preferences-colors-description = Мәтін, веб-сайттар фоны және сілтемелер үшін { -brand-short-name } үнсіз келісім бойынша түстерін үстінен басу.
 preferences-colors-manage-button =
@@ -1128,6 +1137,8 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Адрес жолағы
 addressbar-suggest = Адрес жолағын қолдану кезінде, ұсыну
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Адрестік жолақ — { -firefox-suggest-brand-name }
 # When Firefox Suggest is enabled, a "Learn more" link appears at the end of
 # `addressbar-suggest-firefox-suggest`.
 addressbar-locbar-firefox-suggest-learn-more = Көбірек білу

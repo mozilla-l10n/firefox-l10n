@@ -117,6 +117,7 @@ newtab-menu-delete-pocket = { -pocket-brand-name }-тен өшіру
 newtab-menu-archive-pocket = { -pocket-brand-name }-те архивтеу
 newtab-menu-show-privacy-info = Біздің демеушілеріміз және сіздің жекелігіңіз
 newtab-menu-about-fakespot = { -fakespot-brand-name } туралы
+newtab-menu-report-content = Бұл мазмұн туралы хабарлау
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Блоктау
@@ -126,6 +127,9 @@ newtab-menu-section-unfollow = Тақырыпқа жазылудан бас та
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
+newtab-menu-manage-sponsored-content = Демеуші мазмұнын басқару
+newtab-menu-our-sponsors-and-your-privacy = Біздің демеушілеріміз және сіздің жекелігіңіз
+newtab-menu-report-this-ad = Бұл жарнаманы хабарлау
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -377,10 +381,12 @@ newtab-wallpaper-storm-sky = Дауылды аспан
 newtab-wallpaper-sky-with-pink-clouds = Қызғылт бұлттары бар аспан
 newtab-wallpaper-red-panda-yawns-in-a-tree = Қызыл панда ағашта есінейді
 newtab-wallpaper-white-mountains = Ақ таулар
+newtab-wallpaper-hot-air-balloons = Күндізгі ауа шарларының әртүрлі түсі
 newtab-wallpaper-starry-canyon = Көк жұлдызды түн
 newtab-wallpaper-suspension-bridge = Сұр түсті толық аспалы көпірдің күндізгі фотосуреті
 newtab-wallpaper-sand-dunes = Ақ құмды төбелер
 newtab-wallpaper-palm-trees = Алтын сағатта кокос пальмаларының сұлбасы
+newtab-wallpaper-blue-flowers = Гүлдеп тұрған көк жапырақты гүлдердің жақын пландағы фотосуреті
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -405,6 +411,9 @@ newtab-wallpaper-category-title-celestial = Аспан
 newtab-wallpaper-celestial-lunar-eclipse = Айдың тұтылуы
 newtab-wallpaper-celestial-earth-night = Төменгі Жер орбитасынан түнгі сурет
 newtab-wallpaper-celestial-starry-sky = Жұлдызды аспан
+newtab-wallpaper-celestial-eclipse-time-lapse = Ай тұтылуының таймлапсы
+newtab-wallpaper-celestial-black-hole = Қара құрдымы бар галактика суреті
+newtab-wallpaper-celestial-river = Өзеннің жерсеріктік суреті
 
 ## New Tab Weather
 
