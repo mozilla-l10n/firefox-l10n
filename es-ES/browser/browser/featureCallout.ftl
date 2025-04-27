@@ -68,9 +68,29 @@ split-dismiss-button-default-label =
 
 ## Login Status Advisory Callout (points to the account icon)
 
+# The 'account icon' is the toolbar button with a 'profile' icon of a human
+# head/shoulders. It's for dealing with your Mozilla account. When hovering the
+# icon, the tooltip says 'Account'.
+login-status-advisory-title = Ha cerrado sesión. Haga clic en el icono de la cuenta para iniciar sesión.
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-title = ¿Añadir este sitio a su barra de marcadores?
+bookmarks-toolbar-callout-1-subtitle = Su marcador se guardará justo debajo de la barra de direcciones para un acceso rápido.
+bookmarks-toolbar-callout-1-primary-button-label = Añadir marcador
+bookmarks-toolbar-callout-1-secondary-button-label = No, gracias
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = Añadir más marcadores fácilmente
+bookmarks-toolbar-callout-2a-subtitle = Puede arrastrar y soltar pestañas aquí para tener más sitios favoritos a su alcance.
+bookmarks-toolbar-callout-2a-primary-button-label = Entendido
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Ocultar barra de herramientas
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = ¿Mantener abierta la barra de marcadores?
+bookmarks-toolbar-callout-2b-subtitle = Puede añadir otros sitios que visite con mayor frecuencia. Simplemente arrastre y suelte las pestañas aquí para mantener sus sitios web favoritos al alcance de la mano.
+bookmarks-toolbar-callout-2b-primary-button-label = Mantener abierto
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = No, gracias
 
 ## Sidebar Strings
 
