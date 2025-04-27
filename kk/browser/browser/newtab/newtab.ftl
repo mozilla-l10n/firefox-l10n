@@ -501,9 +501,14 @@ newtab-section-cancel-button = Қазір емес
 ## Strings for custom wallpaper highlight
 
 newtab-section-mangage-topics-title = Тақырыптар
+newtab-section-manage-topics-button-v2 =
+    .label = Темаларды басқару
 
 ## Strings for download mobile highlight
 
 
 ## Strings for reporting ads and content
 
+newtab-report-submit = Жіберу
+newtab-toast-thanks-for-feedback =
+    .message = Пікіріңізге рахмет.

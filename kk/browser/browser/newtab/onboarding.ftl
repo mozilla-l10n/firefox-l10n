@@ -25,6 +25,8 @@ return-to-amo-subtitle = Тамаша, сіз { -brand-short-name } орнатт
 return-to-amo-addon-title = Енді сізге <img data-l10n-name="icon"/> <b>{ $addon-name }</b> орнатайық.
 return-to-amo-add-extension-label = Кеңейтуді қосу
 return-to-amo-add-theme-label = Теманы қосу
+return-to-amo-theme-install-complete-label = Тема орнатылды
+return-to-amo-extension-install-complete-label = Кеңейту орнатылды
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 

@@ -139,11 +139,19 @@ contextual-manager-passwords-remove-login-card-cancel-button = Бас тарту
 contextual-manager-passwords-alert-back-button =
     .label = Артқа
 contextual-manager-passwords-change-password-button = Парольді өзгерту
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Пайдаланушы атын қосу
+    .message = Жылдамырақ кіру үшін оны қосыңыз.
+contextual-manager-passwords-add-username-button = Пайдаланушы атын қосу
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Парольді қосу
+contextual-manager-passwords-edit-label =
+    .label = Парольді түзету
+contextual-manager-passwords-remove-label =
+    .title = Парольді өшіру
 
 ## Password Card
 
@@ -157,6 +165,30 @@ contextual-manager-check-icon-username =
     .alt = Көшірілді
 contextual-manager-check-icon-password =
     .alt = Көшірілді
+contextual-manager-alert-icon =
+    .alt = Ескерту
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = { $url } шолу
+    .title = { $url } шолу
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = { $url } шолу (Ескерту)
+    .title = { $url } шолу (Ескерту)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = { $username } пайдаланушы атын көшіру
+    .title = { $username } пайдаланушы атын көшіру
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = { $username } пайдаланушы атын көшіру (Ескерту)
+    .title = { $username } пайдаланушы атын көшіру (Ескерту)
 contextual-manager-password-login-line =
     .aria-label = Парольді көшіріп алу
     .title = Парольді көшіріп алу
@@ -186,6 +218,13 @@ contextual-manager-passwords-no-passwords-found-message = Парольдер т�
 
 # This string encourages the user to save their passwords in Firefox (the "safe spot").
 contextual-manager-passwords-no-passwords-header = Парольдеріңізді қауіпсіз жерге сақтаңыз.
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = Барлық парольдер шифрленген және біз сізге әсер ете алатын бұзушылықтар мен ескертулерді қадағалаймыз.
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = Бастау үшін оларды осында қосыңыз.
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = Қолмен қосу
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.

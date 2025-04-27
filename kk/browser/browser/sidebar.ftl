@@ -31,6 +31,11 @@ sidebar-history-sort-by-site =
     .label = Сайт бойынша сұрыптау
 sidebar-history-clear =
     .label = Тарихты тазарту
+sidebar-history-sort-by-heading = Бойынша сұрыптау:
+sidebar-history-sort-option-date =
+    .label = Күні
+sidebar-history-sort-option-site =
+    .label = Сайт
 
 ## Labels for sidebar search
 
@@ -88,6 +93,8 @@ sidebar-context-menu-close-remote-tab =
 
 sidebar-history-context-menu-delete-page =
     .label = Тарихтан өшіру
+sidebar-history-context-menu-bookmark-page =
+    .label = Бетті бетбелгілерге қосу…
 
 ## Labels for sidebar menu items.
 
@@ -130,6 +137,7 @@ sidebar-menu-close-bookmarks-tooltip = Бетбелгілерді жабу ({ $s
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
+sidebar-menu-open-ai-chatbot-tooltip-generic = ЖИ чат-ботын ашу ({ $shortcut })
 sidebar-menu-open-ai-chatbot-provider-tooltip = { $provider } ашу ({ $shortcut })
 sidebar-menu-close-ai-chatbot-tooltip-generic = ЖИ чат-ботын жабу ({ $shortcut })
 sidebar-menu-close-ai-chatbot-provider-tooltip = { $provider } жабу ({ $shortcut })
