@@ -66,6 +66,20 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] TSV Document
        *[other] TSV File
     }
+migration-bookmarks-from-file = Mga bookmark
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] HTML Document
+       *[other] HTML File
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = JSON File
+migration-cancel-button-label = Ikansela
+migration-done-button-label = Tapos na
+migration-continue-button-label = Magpatuloy
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -73,9 +87,20 @@ migration-passwords-from-file-tsv-filter-title =
 ## When applicable, the resources should be in their plural form.
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
+migration-list-bookmark-label = mga bookmark
+# “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
+# if the browser is available in your language.
+migration-list-favorites-label = mga paborito
+migration-list-password-label = mga password
+migration-list-history-label = kasaysayan
+migration-list-extensions-label = mga extension
 
 ##
 
+migration-wizard-progress-icon-in-progress =
+    .aria-label = Ini-import…
+migration-wizard-progress-icon-completed =
+    .aria-label = Tapos na
 
 ## The import process identifies extensions installed in other supported
 ## browsers and installs the corresponding (matching) extensions compatible
