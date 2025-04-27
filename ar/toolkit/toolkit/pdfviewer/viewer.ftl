@@ -324,6 +324,9 @@ pdfjs-highlight-floating-button1 =
     .title = أبرِز
     .aria-label = أبرِز
 pdfjs-highlight-floating-button-label = أبرِز
+pdfjs-editor-signature-button =
+    .title = أضِف توقيع
+pdfjs-editor-signature-button-label = أضِف توقيع
 
 ## Default editor aria labels
 
