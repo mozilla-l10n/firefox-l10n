@@ -535,8 +535,28 @@ newtab-download-mobile-highlight-title = Сцягнуць { -brand-product-name 
 newtab-download-mobile-highlight-body-variant-a = Скануйце код, каб бяспечна аглядаць на хадзе.
 newtab-download-mobile-highlight-body-variant-b = Працягвайце з таго месца, дзе спыніліся, сінхранізуючы карткі, паролі і іншае.
 newtab-download-mobile-highlight-body-variant-c = Ці ведаеце вы, што { -brand-product-name } можна браць у дарогу? Той жа браўзер. У кішэні.
+newtab-download-mobile-highlight-image =
+    .aria-label = QR-код для сцягвання { -brand-product-name } для мабільных прылад
 
 ## Strings for reporting ads and content
 
 newtab-report-content-why-reporting-this =
     .label = Чаму вы паведамляеце пра гэта?
+newtab-report-ads-reason-not-interested =
+    .label = Мне не цікава
+newtab-report-ads-reason-inappropriate =
+    .label = Гэта недарэчна
+newtab-report-ads-reason-seen-it-too-many-times =
+    .label = Я бачыў гэта занадта шмат разоў
+newtab-report-content-wrong-category =
+    .label = Няправільная катэгорыя
+newtab-report-content-outdated =
+    .label = Устарэлае
+newtab-report-content-inappropriate-offensive =
+    .label = Недарэчнае або абразлівае
+newtab-report-content-spam-misleading =
+    .label = Спам або зман
+newtab-report-cancel = Скасаваць
+newtab-report-submit = Даслаць
+newtab-toast-thanks-for-feedback =
+    .message = Дзякуй за ваш водгук.
