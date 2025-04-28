@@ -78,10 +78,16 @@ sidebar-context-menu-remove-extension =
     .label = Αφαίρεση επέκτασης
 sidebar-context-menu-report-extension =
     .label = Αναφορά επέκτασης
+sidebar-context-menu-open-in-tab =
+    .label = Άνοιγμα σε νέα καρτέλα
+sidebar-context-menu-open-in-container-tab =
+    .label = Άνοιγμα σε νέα θεματική καρτέλα
 sidebar-context-menu-open-in-window =
     .label = Άνοιγμα σε νέο παράθυρο
 sidebar-context-menu-open-in-private-window =
     .label = Άνοιγμα σε νέο ιδιωτικό παράθυρο
+sidebar-context-menu-forget-site =
+    .label = Διαγραφή όλων των δεδομένων για τον ιστότοπο…
 sidebar-context-menu-bookmark-tab =
     .label = Προσθήκη σελιδοδείκτη…
 sidebar-context-menu-copy-link =
@@ -101,6 +107,10 @@ sidebar-context-menu-close-remote-tab =
 
 sidebar-history-context-menu-delete-page =
     .label = Διαγραφή από ιστορικό
+sidebar-history-context-menu-delete-page-2 =
+    .label = Διαγραφή σελίδας από το ιστορικό
+sidebar-history-context-menu-bookmark-page =
+    .label = Προσθήκη σελιδοδείκτη…
 
 ## Labels for sidebar menu items.
 
