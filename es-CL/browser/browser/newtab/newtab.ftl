@@ -525,6 +525,7 @@ newtab-custom-wallpaper-cta = Inténtalo
 
 ## Strings for download mobile highlight
 
+newtab-download-mobile-highlight-title = Bajar { -brand-product-name } para dispositivos móviles
 
 ## Strings for reporting ads and content
 
