@@ -78,10 +78,16 @@ sidebar-context-menu-remove-extension =
     .label = Tynnu'r estyniad
 sidebar-context-menu-report-extension =
     .label = Adrodd ar yr estyniad
+sidebar-context-menu-open-in-tab =
+    .label = Agor mewn Tab Newydd
+sidebar-context-menu-open-in-container-tab =
+    .label = Agor mewn Tab Cynhwysydd Newydd
 sidebar-context-menu-open-in-window =
     .label = Agor mewn Ffenestr Newydd
 sidebar-context-menu-open-in-private-window =
     .label = Agor mewn Ffenestr Breifat Newydd
+sidebar-context-menu-forget-site =
+    .label = Clirio'r Holl Ddata ar gyfer y Wefan…
 sidebar-context-menu-bookmark-tab =
     .label = Gosod Nod Tudalen i'r Tab…
 sidebar-context-menu-copy-link =
@@ -101,6 +107,10 @@ sidebar-context-menu-close-remote-tab =
 
 sidebar-history-context-menu-delete-page =
     .label = Dileu o'r Hanes
+sidebar-history-context-menu-delete-page-2 =
+    .label = Dileu Tudalen o Hanes
+sidebar-history-context-menu-bookmark-page =
+    .label = Gosod Nod i Dudalen…
 
 ## Labels for sidebar menu items.
 

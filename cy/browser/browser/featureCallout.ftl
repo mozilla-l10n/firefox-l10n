@@ -81,6 +81,16 @@ bookmarks-toolbar-callout-1-primary-button-label = Ychwanegu nod tudalen
 bookmarks-toolbar-callout-1-secondary-button-label = Dim Diolch
 # Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2a-title = Ychwanegu rhagor o nodau tudalen yn hawdd
+bookmarks-toolbar-callout-2a-subtitle = Gallwch lusgo a gollwng tabiau yma i gadw mwy o'ch hoff wefannau o fewn cyrraedd.
+bookmarks-toolbar-callout-2a-primary-button-label = Iawn
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Cuddio'r Bar Offer
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = Cadw'ch bar offer nodau tudalen ar agor?
+bookmarks-toolbar-callout-2b-subtitle = Gallwch ychwanegu gwefannau eraill rydych yn ymwela â nhw'n amlach. Mae'n hawdd, llusgwch a gollwng tabiau yma i gadw'ch hoff wefannau o fewn cyrraedd.
+bookmarks-toolbar-callout-2b-primary-button-label = Cadw ar agor
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = Dim diolch
 
 ## Sidebar Strings
 

@@ -534,6 +534,13 @@ newtab-custom-wallpaper-cta = Rhowch gynnig arni
 
 ## Strings for download mobile highlight
 
+newtab-download-mobile-highlight-title = Llwytho { -brand-product-name } symudol i lawr
+# "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
+newtab-download-mobile-highlight-body-variant-a = Sganiwch y cod i bori'n ddiogel wrth fynd.
+newtab-download-mobile-highlight-body-variant-b = Codwch lle gwnaethoch chi adael pan fyddwch chi'n cydweddu'ch tabiau, cyfrineiriau, a mwy.
+newtab-download-mobile-highlight-body-variant-c = Oeddech chi'n gwybod y gallwch chi gymryd { -brand-product-name } wrth fynd? Yr un porwr. Yn eich poced.
+newtab-download-mobile-highlight-image =
+    .aria-label = Cod QR i lwytho { -brand-product-name } i lawr ar gyfer ffôn symudol
 
 ## Strings for reporting ads and content
 
