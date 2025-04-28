@@ -81,6 +81,16 @@ bookmarks-toolbar-callout-1-primary-button-label = Adicionar favorito
 bookmarks-toolbar-callout-1-secondary-button-label = Não, obrigado
 # Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2a-title = Adicione mais favoritos com facilidade
+bookmarks-toolbar-callout-2a-subtitle = Você pode arrastar e soltar abas aqui para ter acesso rápido a mais sites preferidos.
+bookmarks-toolbar-callout-2a-primary-button-label = Entendi
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Ocultar barra de ferramentas
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = Manter a barra de favoritos aberta?
+bookmarks-toolbar-callout-2b-subtitle = Você pode adicionar outros sites que visita com mais frequência. Arraste e solte abas aqui para ter acesso rápido a seus sites preferidos.
+bookmarks-toolbar-callout-2b-primary-button-label = Manter aberta
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = Não, obrigado
 
 ## Sidebar Strings
 
