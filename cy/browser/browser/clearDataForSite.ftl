@@ -10,3 +10,6 @@ clear-data-for-site-browsing-history = Hanes pori a llwytho i lawr
 clear-data-for-site-cookies = Cwcis a data gwefan, a all eich allgofnodi o'r wefan
 clear-data-for-site-cache = Delweddau a ffeiliau wedi’u storio
 cclear-data-for-site-permissions = Caniatâd a dewisiadau
+clear-data-for-site-exceptions = Fydd nodau tudalen a chyfrineiriau sydd wedi'u cadw ddim yn cael eu dileu
+clear-data-for-site-dialog-accept-button = Clirio data
+clear-data-for-site-dialog-cancel-button = Diddymu

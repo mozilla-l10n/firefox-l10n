@@ -322,3 +322,14 @@ contextual-manager-passwords-discard-changes-heading-and-message =
     .message = Fydd eich newidiadau ddim yn cael eu cadw.
 contextual-manager-passwords-discard-changes-close-button = Cau
 contextual-manager-passwords-discard-changes-go-back-button = Mynd nôl
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] Iawn, tynnu'r cyfrineiriau
+        [zero] Iawn, tynnu'r cyfrineiriau
+        [one] Iawn, tynnu'r cyfrinair
+        [two] Iawn, tynnu'r cyfrineiriau
+        [few] Iawn, tynnu'r cyfrineiriau
+        [many] Iawn, tynnu'r cyfrineiriau
+       *[other] Iawn, tynnu'r cyfrineiriau
+    }
