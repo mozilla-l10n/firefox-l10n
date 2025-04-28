@@ -7,3 +7,6 @@ clear-data-for-site-title = Clirio'r holl ddata ar gyfer y wefan hon?
 #   $site (string) - Website name
 clear-data-for-site-list = Bydd hyn yn clirio'r holl ddata ar gyfer { $site } gan gynnwys:
 clear-data-for-site-browsing-history = Hanes pori a llwytho i lawr
+clear-data-for-site-cookies = Cwcis a data gwefan, a all eich allgofnodi o'r wefan
+clear-data-for-site-cache = Delweddau a ffeiliau wedi’u storio
+cclear-data-for-site-permissions = Caniatâd a dewisiadau
