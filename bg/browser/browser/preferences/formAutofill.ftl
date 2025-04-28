@@ -83,6 +83,7 @@ autofill-address-eircode = Eircode
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Нов адрес
 autofill-address-country = Държава или район
+autofill-address-country-only = Държава
 autofill-address-tel = Телефон
 autofill-address-email = Ел. адрес
 autofill-cancel-button = Отказ

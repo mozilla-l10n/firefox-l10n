@@ -51,6 +51,7 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
        *[other] Файл на TSV
     }
 contextual-manager-passwords-import-success-button = Готово
+contextual-manager-passwords-import-error-button-try-again = Опитайте отново
 contextual-manager-passwords-import-error-button-cancel = Отказ
 contextual-manager-passwords-export-success-button = Готово
 contextual-manager-export-passwords-dialog-confirm-button = Продължете с изнасянето
@@ -98,6 +99,7 @@ contextual-manager-passwords-list-label =
     .aria-label = Пароли
 contextual-manager-copy-icon =
     .alt = Копиране
+contextual-manager-passwords-no-passwords-found-message = Няма намерени пароли. Потърсете друга дума и опитайте отново.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:

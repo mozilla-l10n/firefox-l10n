@@ -113,6 +113,7 @@ shopping-onboarding-dynamic-subtitle-1 = Вижте колко надеждни 
 # Variables:
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = Вижте колко надеждни са отзивите за продукта в <b>{ $currentSite }</b>, преди да купите. Проверка на отзиви, експериментално от { -brand-product-name }, е възможност вградена директно в четеца.
+shopping-onboarding-opt-in-button = Да, опитай
 shopping-onboarding-not-now-button = Не сега
 # Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
 # Variables:

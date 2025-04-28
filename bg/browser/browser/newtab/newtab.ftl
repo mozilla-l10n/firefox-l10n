@@ -301,6 +301,10 @@ newtab-custom-settings = Настройки
 ## New Tab Wallpapers
 
 newtab-wallpaper-title = Тапети
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = Изображението надхвърля ограничението за големина на файла от { $file_size }MB. Моля, опитайте се да качите по-малък файл.
+newtab-wallpaper-error-file-type = Не можахме да качим вашия файл. Моля, опитайте отново с друг тип файл.
 newtab-wallpaper-light-red-panda = Червена панда
 newtab-wallpaper-light-mountain = Бяла планина
 newtab-wallpaper-light-sky = Небе с лилави и розови облаци
@@ -352,6 +356,7 @@ newtab-wallpaper-storm-sky = Бурно небе
 newtab-wallpaper-sky-with-pink-clouds = Небе с розови облаци
 newtab-wallpaper-red-panda-yawns-in-a-tree = Червена панда се прозява на дърво
 newtab-wallpaper-white-mountains = Бели планини
+newtab-wallpaper-feature-highlight-header = Опитайте с малко цвят
 newtab-wallpaper-feature-highlight-button = Разбрах
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
@@ -427,6 +432,7 @@ newtab-topic-selection-button-pick-interests = Изберете вашите и�
 
 ## Strings for custom wallpaper highlight
 
+newtab-custom-wallpaper-cta = Опитайте
 
 ## Strings for download mobile highlight
 

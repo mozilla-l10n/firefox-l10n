@@ -312,6 +312,8 @@ onboarding-new-user-survey-familiarity-based-option-4 = Ползвал съм г
 onboarding-new-tabs-title = Кажете ни къде искате да са разделите
 # Setup screen for vertical tabs - too many tabs variation
 onboarding-many-tabs-title = Вашите раздели, по ваш начин
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Изпробвайте вертикалните раздели
 # Additional setup card for setting up aichatbot in the sidebar
 onboarding-genai-sidebar-title = Опитайте чатбот с AI в страничната лента
 

@@ -14,6 +14,8 @@ certificate-viewer-error-title = Нещо се обърка.
 certificate-viewer-algorithm = Алгоритъм
 certificate-viewer-certificate-authority = Удостоверител на сертификати
 certificate-viewer-email-address = Имейл адрес
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-country = Inc. Country
 certificate-viewer-country = Държава
 certificate-viewer-curve = Крива
 certificate-viewer-dns-name = Име на DNS

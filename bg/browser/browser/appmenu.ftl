@@ -282,6 +282,7 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Скрива истинския телефонен номер и адрес на ел. поща
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Защита на действията ви онлайн
+appmenu-other-protection-header = Опитайте други инструменти за защита от { -vendor-short-name }:
 
 ## Profiles panel
 
