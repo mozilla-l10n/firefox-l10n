@@ -292,3 +292,9 @@ contextual-manager-passwords-discard-changes-heading-and-message =
     .message = Suas alterações não serão salvas.
 contextual-manager-passwords-discard-changes-close-button = Fechar
 contextual-manager-passwords-discard-changes-go-back-button = Voltar
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] Sim, remover senha
+       *[other] Yes, remove passwords
+    }
