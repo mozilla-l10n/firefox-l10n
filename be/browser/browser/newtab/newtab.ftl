@@ -117,6 +117,7 @@ newtab-menu-delete-pocket = Выдаліць з { -pocket-brand-name }
 newtab-menu-archive-pocket = Архіваваць у { -pocket-brand-name }
 newtab-menu-show-privacy-info = Нашы спонсары і ваша прыватнасць
 newtab-menu-about-fakespot = Пра { -fakespot-brand-name }
+newtab-menu-report-content = Паскардзіцца на гэта змесціва
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Блакаваць
@@ -128,6 +129,7 @@ newtab-menu-section-unfollow = Адпісацца ад тэмы
 
 newtab-menu-manage-sponsored-content = Кіраваць спонсарскім змесцівам
 newtab-menu-our-sponsors-and-your-privacy = Нашы спонсары і ваша прыватнасць
+newtab-menu-report-this-ad = Паскардзіцца на гэту рэкламу
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -521,6 +523,10 @@ newtab-section-mangage-topics-followed-topics = Падпіскі
 newtab-section-mangage-topics-followed-topics-empty-state = Вы яшчэ не падпісаліся ні на адну тэму.
 newtab-section-mangage-topics-blocked-topics = Заблакаваны
 newtab-section-mangage-topics-blocked-topics-empty-state = Вы яшчэ не заблакавалі ніводнай тэмы.
+newtab-custom-wallpaper-title = Карыстальніцкія шпалеры тут
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle = Зацягніце свае шпалеры або выберыце ўласны колер, каб зрабіць { -brand-product-name } сваім.
+newtab-custom-wallpaper-cta = Паспрабаваць
 
 ## Strings for download mobile highlight
 
