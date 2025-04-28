@@ -78,10 +78,16 @@ sidebar-context-menu-remove-extension =
     .label = Remover extensão
 sidebar-context-menu-report-extension =
     .label = Denunciar extensão
+sidebar-context-menu-open-in-tab =
+    .label = Abrir em nova aba
+sidebar-context-menu-open-in-container-tab =
+    .label = Abrir em nova aba contêiner
 sidebar-context-menu-open-in-window =
     .label = Abrir em nova janela
 sidebar-context-menu-open-in-private-window =
     .label = Abrir em nova janela privativa
+sidebar-context-menu-forget-site =
+    .label = Limpar todos os dados do site…
 sidebar-context-menu-bookmark-tab =
     .label = Adicionar aba aos favoritos…
 sidebar-context-menu-copy-link =
@@ -101,6 +107,10 @@ sidebar-context-menu-close-remote-tab =
 
 sidebar-history-context-menu-delete-page =
     .label = Excluir do histórico
+sidebar-history-context-menu-delete-page-2 =
+    .label = Excluir página do histórico
+sidebar-history-context-menu-bookmark-page =
+    .label = Adicionar página aos favoritos…
 
 ## Labels for sidebar menu items.
 
