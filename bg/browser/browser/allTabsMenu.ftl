@@ -18,3 +18,4 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = Затваряне на всички дублиращи се раздели
 all-tabs-menu-synced-tabs =
     .label = Раздели от други устройства
+all-tabs-menu-current-window-header = Текущ прозорец

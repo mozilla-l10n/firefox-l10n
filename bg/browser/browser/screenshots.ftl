@@ -14,7 +14,7 @@ screenshots-save-page-button = Запазване на цялата страни
 screenshots-download-button = Изтегляне
 screenshots-download-button-tooltip = Изтегляне на екранна снимка
 screenshots-copy-button = Копиране
-screenshots-copy-button-tooltip = Копиране в системния буфер
+screenshots-copy-button-tooltip = Копиране в клипборда
 screenshots-cancel-button-title =
     .title = Отмяна
 screenshots-retry-button-title =
@@ -25,7 +25,7 @@ screenshots-meta-key =
        *[other] Ctrl
     }
 screenshots-notification-link-copied-title = Препратката е копирана
-screenshots-notification-link-copied-details = Препратка към снимката е копирана в системния буфер. За да я поставите натиснете { screenshots-meta-key }-V.
+screenshots-notification-link-copied-details = Препратка към снимката е копирана в клипборда. За да я поставите натиснете { screenshots-meta-key }-V.
 screenshots-notification-image-copied-title = Снимката е копирана
 screenshots-notification-image-copied-details = Снимката е копирана в системния буфер. За да я поставите натиснете { screenshots-meta-key }-V.
 screenshots-request-error-title = Повреда.
