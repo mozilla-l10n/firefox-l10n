@@ -29,17 +29,17 @@ contextual-manager-passwords-export-os-auth-dialog-message-win = პაროლ
 # notes are only valid for English. only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-export-os-auth-dialog-message-macosx = შენახული პაროლების გატანას
 # This message can be seen when attempting to reveal a password in contextual password manager on Windows
-contextual-manager-passwords-reveal-password-os-auth-dialog-message-win = პაროლის სანახავად, დაამოწმეთ Windows-ანგარიში. ეს დაგეხმარებათ დაიცვათ თქვენი ანგარიშების უსაფრთხოება.
+contextual-manager-passwords-reveal-password-os-auth-dialog-message-win = პაროლის სანახავად დაამოწმეთ Windows-ანგარიში. ეს დაგეხმარებათ დაიცვათ თქვენი ანგარიშების უსაფრთხოება.
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-reveal-password-os-auth-dialog-message-macosx = შენახულ პაროლთან წვდომას
 # This message can be seen when attempting to edit a login in contextual password manager on Windows.
-contextual-manager-passwords-edit-password-os-auth-dialog-message-win = პაროლის ჩასასწორებლად, დაამოწმეთ Windows-ანგარიში. ეს დაგეხმარებათ, უკეთ დაიცვათ თქვენი ანგარიშების მონაცემები.
+contextual-manager-passwords-edit-password-os-auth-dialog-message-win = პაროლის ჩასასწორებლად დაამოწმეთ Windows-ანგარიში. ეს დაგეხმარებათ, უკეთ დაიცვათ თქვენი ანგარიშების მონაცემები.
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-edit-password-os-auth-dialog-message-macosx = შენახული პაროლის ჩასწორებას
 # This message can be seen when attempting to copy a password in contextual password manager on Windows.
-contextual-manager-passwords-copy-password-os-auth-dialog-message-win = პაროლის ასლის ასაღებად, დაამოწმეთ Windows-ანგარიში. ეს დაგეხმარებათ დაიცვათ თქვენი ანგარიშების უსაფრთხოება.
+contextual-manager-passwords-copy-password-os-auth-dialog-message-win = პაროლის ასლის ასაღებად დაამოწმეთ Windows-ანგარიში. ეს დაგეხმარებათ დაიცვათ თქვენი ანგარიშების უსაფრთხოება.
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = შენახული პაროლის ასლის აღებას
@@ -296,3 +296,9 @@ contextual-manager-passwords-discard-changes-heading-and-message =
     .message = შეტანილი ცვლილებები არ შეინახება.
 contextual-manager-passwords-discard-changes-close-button = დახურვა
 contextual-manager-passwords-discard-changes-go-back-button = უკან დაბრუნება
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] დიახ, წაიშალოს პაროლი
+       *[other] დიახ, წაიშალოს პაროლები
+    }

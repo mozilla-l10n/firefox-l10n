@@ -528,6 +528,13 @@ newtab-custom-wallpaper-cta = მოსინჯვა
 
 ## Strings for download mobile highlight
 
+newtab-download-mobile-highlight-title = ჩამოტვირთეთ { -brand-product-name } მობილურზე
+# "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
+newtab-download-mobile-highlight-body-variant-a = წააკითხეთ კოდი და უსაფრთხოდ წაიყოლეთ თან.
+newtab-download-mobile-highlight-body-variant-b = განაგრძეთ იქიდან, სადაც გაჩერდით, ჩანართების, პაროლებისა და სხვა მონაცემების დასინქრონებით.
+newtab-download-mobile-highlight-body-variant-c = იცოდით, რომ { -brand-product-name } შეგიძლიათ თან წაიყოლოთ? იგივე ბრაუზერი. თქვენს ჯიბეში.
+newtab-download-mobile-highlight-image =
+    .aria-label = QR-კოდი, რომ ჩამოტვირთოთ { -brand-product-name } მობილურზე
 
 ## Strings for reporting ads and content
 
