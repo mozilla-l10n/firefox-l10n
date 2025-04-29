@@ -185,6 +185,7 @@ tabbrowser-confirm-caretbrowsing-checkbox = لا تعرض هذا الحوار م
 ## Confirmation dialog for closing all duplicate tabs
 
 tabbrowser-confirm-close-duplicate-tabs-title = انتبه
+tabbrowser-confirm-close-duplicate-tabs-text = سنُبقي اللسان النشط الأخير مفتوحًا
 tabbrowser-confirm-close-all-duplicate-tabs-title = أغلِق الألسنة المتكررة؟
 tabbrowser-confirm-close-all-duplicate-tabs-text = سنقوم بإغلاق الألسنة المتكررة في هذه النافذة. وستظل الألسنة النشطة الأخيرة مفتوحة.
 tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = أغلق الألسنة
@@ -245,22 +246,58 @@ tabbrowser-manager-close-tab =
 tabbrowser-manager-closed-tab-group =
     .label = { $tabGroupName }
     .tooltiptext = { $tabGroupName } — أُغلق
+tabbrowser-manager-current-window-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — النافذة الحالية
 
 ## Tab Groups
 
+tab-group-editor-title-create = أنشئ مجموعة لسان
+tab-group-editor-title-edit = أدر مجموعة لسان
 tab-group-editor-name-label = الاسم
+tab-group-editor-name-field =
+    .placeholder = مثال: التسوق
 tab-group-editor-cancel =
     .label = ألغ
     .accesskey = غ
+tab-group-editor-color-selector2-blue = أزرق
+    .title = أزرق
+tab-group-editor-color-selector2-purple = أرجواني
+    .title = أرجواني
+tab-group-editor-color-selector2-cyan = سماوي
+    .title = سماوي
+tab-group-editor-color-selector2-orange = برتقالي
+    .title = برتقالي
+tab-group-editor-color-selector2-yellow = أصفر
+    .title = أصفر
+tab-group-editor-color-selector2-pink = وردي
+    .title = وردي
+tab-group-editor-color-selector2-green = أخضر
+    .title = أخضر
+tab-group-editor-color-selector2-gray = الرمادي
+    .title = الرمادي
+tab-group-editor-color-selector2-red = أحمر
+    .title = أحمر
+# Variables:
+#  $tabGroupName (String): The name of the tab group. Defaults to the value
+#                          of tab-group-name-default.
+tab-group-description = { $tabGroupName } — مجموعة اللسان
+tab-context-unnamed-group =
+    .label = مجموعة غير مسمّاة
+tab-group-name-default = مجموعة غير مسمّاة
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-group-editor-action-save =
+    .label = احفظ وأغلق المجموعة
 tab-group-editor-action-delete =
     .label = احذف المجموعة
 tab-group-editor-done =
     .label = تمّ
     .accessKey = م
+tab-context-reopen-tab-group =
+    .label = إعادة فتح مجموعة لسان
 
 ## Open/saved tab group context menu
 
@@ -269,3 +306,11 @@ tab-group-editor-done =
 # this will forget the saved tab group.
 tab-group-context-delete =
     .label = احذف المجموعة
+# For a saved tab group that is not open in any window, open the tab group
+# in the user's current window.
+tab-group-context-open-saved-group-in-this-window =
+    .label = افتح المجموعة في هذه النافذة
+# For a saved tab group that is not open in any window, create a new window and
+# open the tab group in that window.
+tab-group-context-open-saved-group-in-new-window =
+    .label = افتح في مجموعة لسان جديدة
