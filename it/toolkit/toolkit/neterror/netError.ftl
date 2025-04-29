@@ -164,4 +164,3 @@ certerror-coep-learn-more = Ulteriori informazioni sui criteri COEP (Cross Origi
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Codice di errore: { $responsestatus } { $responsestatustext }
-
