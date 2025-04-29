@@ -12,6 +12,8 @@ neterror-blocked-by-policy-page-title = الصفحة محجوبة
 neterror-captive-portal-page-title = لِج إلى الشبكة
 neterror-dns-not-found-title = الخادوم غير موجود
 neterror-malformed-uri-page-title = مسار غير صحيح
+general-body-title = كن حذرًا، هناك شيء لا يبدو على ما يرام.
+problem-with-this-site-title = يبدو أن هناك مشكلة في هذا الموقع
 
 ## Error page actions
 
@@ -43,6 +45,7 @@ neterror-load-error-connection = إذا كنت غير قادر على تحميل
 neterror-load-error-firewall = إذا كان حاسوبك محميًا بجدار حماية أو وسيط، تأكد من السماح ل‍{ -brand-short-name } بالوصول إلى الوِب.
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = إذا كنت تحاول تحميل صفحة شبكة محلية، فيُرجى التأكد مِن منح { -brand-short-name } تصاريح الشبكة المحلية في إعدادات الخصوصية والأمان في نظام التشغيل macOS.
+neterror-http-error-page = تأكد من أنك كتبت عنوان الموقع بشكل صحيح.
 neterror-captive-portal = تحتاج الولوج إلى هذه الشبكة أولا لتستطيع الوصول إلى الإنترنت.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -98,6 +101,9 @@ neterror-proxy-connect-failure-settings = افحص إعدادات الوسيط �
 neterror-proxy-connect-failure-contact-admin = اتصل بمدير الشبكة لتتأكد أن الخادوم الوسيط يعمل.
 neterror-content-encoding-error = من فضلك اتصل بمالكي الموقع لإعلامهم بهذه المشكلة.
 neterror-unsafe-content-type = من فضلك اتصل بمالكي الموقع لإعلامهم بهذه المشكلة.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-basic-http-auth = لا يثق { -brand-short-name } بـ { $hostname } لأن الاتصال غير آمن. حاول تغيير عنوان URL إلى HTTPS.
 neterror-nss-failure-not-verified = لا يمكن عرض الصفحة التي تحاول زيارتها لعدم إمكانية الاستيثاق من البيانات المستقبلة.
 neterror-nss-failure-contact-website = من فضلك اتصل بمالكي الموقع لإعلامهم بهذه المشكلة.
 # Variables:
@@ -151,6 +157,7 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = إن لم تكن تعلم �
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = يستخدم الموقع <b>{ $hostname }</b> سياسة النقل الصارمة (HSTS)، ما يعني بأن { -brand-short-name } لا يستطيع الاتصال به إلا بأمان. لا يمكنك إضافة استثناء لزيارة هذا الموقع.
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = ربما لا يوجد شيء، لأنه من المحتمل أن تكون هناك مشكلة في الموقع نفسه.
+certerror-blocked-by-corp-headers-description = في بعض الأحيان تقوم المواقع بإعداد وسائل حماية لأنفسها ولأشخاص مثلك من التفاعلات غير المرغوب فيها مع المواقع الأخرى.
 certerror-coop-learn-more = تعرف على المزيد حول سياسات فتح الأصول المتقاطعة (COOP)
 certerror-coep-learn-more = تعرف على المزيد حول سياسات تضمين الأصول المتقاطعة (COEP)
 # Variables:

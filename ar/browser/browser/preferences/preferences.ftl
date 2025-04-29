@@ -1155,6 +1155,7 @@ addressbar-locbar-suggest-nonsponsored-option =
 addressbar-locbar-suggest-sponsored-option =
     .label = اقتراحات من الرعاة
 addressbar-quickactions-learn-more = اطّلع على المزيد
+addressbar-dismissed-suggestions-label = الاقتراحات المهملة
 addressbar-restore-dismissed-suggestions-description = استعِد الاقتراحات المرفوضة من الرعاة و{ -brand-short-name }.
 addressbar-restore-dismissed-suggestions-button =
     .label = استعِد
@@ -1345,8 +1346,6 @@ addon-recommendations-link = اطّلع على المزيد
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = الإبلاغ عن البيانات معطّل في إعدادات البناء
-collection-backlogged-crash-reports-with-link = اسمح لـ { -brand-short-name } بإرسال تقارير الأعطال المتراكمة نيابةً عنك<a data-l10n-name="crash-reports-link">معرفة المزيد</a>
-    .accesskey = م
 privacy-segmentation-section-header = خصائص جديدة تعزز تصفحك
 privacy-segmentation-radio-off =
     .label = استخدم توصيات { -brand-product-name }

@@ -76,6 +76,7 @@ login-status-advisory-title = Embotýma ne rembiapo. Eikutu mba’ete ra’ãnga
 ## Bookmarks toolbar callout strings
 
 bookmarks-toolbar-callout-1-title = ¿Embojuaju ko tenda techaukaha rupa rehe?
+bookmarks-toolbar-callout-1-subtitle = Nde rechaukaha opytáta pe kundaharape rupa guýpe eike pya’ekuaa hag̃ua.
 bookmarks-toolbar-callout-1-primary-button-label = Embojuaju techaukaha
 bookmarks-toolbar-callout-1-secondary-button-label = Nahániri, aguyje
 # Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders

@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+crashreporter-branded-title = { -brand-short-name } مُبلّغ الإنهيار
 crashreporter-apology = نأسف لهذا
 crashreporter-crashed-and-restore = واجه { -brand-short-name } مشكلة وانهار. سنحاول استعادة ألسنتك والنوافذ عند إعادة تشغيله.
 crashreporter-plea = لتساعدنا في حل هذه المشكلة، يمكنك إرسال بلاغ بالانهيار.
@@ -34,3 +35,4 @@ crashreporter-error-loading-file = فشل تحميل ملف ({ $path })
 # $from (String) - the source path
 # $to (String) - the destination path
 crashreporter-error-moving-path = فشل نقل { $from } إلى { $to }
+crashreporter-error-version-eol = نهاية عمر الإصدار: لم تعد تقارير الإنهيار مقبولة.
