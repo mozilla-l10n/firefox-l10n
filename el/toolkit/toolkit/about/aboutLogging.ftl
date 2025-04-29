@@ -74,6 +74,7 @@ about-logging-configured-via-url = Η επιλογή διαμορφώθηκε μ
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
+about-logging-upload-question = Τα δεδομένα του προφίλ έχουν καταγραφεί. Θέλετε να το αποθηκεύσετε ή να το μεταφορτώσετε;
 about-logging-save-button = Αποθήκευση
 about-logging-upload-button = Μεταφόρτωση
 # Variables:
