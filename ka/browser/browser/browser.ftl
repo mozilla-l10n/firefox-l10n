@@ -1189,6 +1189,10 @@ popup-notification-addon-install-unsigned =
     .value = (შეუმოწმებელი)
 popup-notification-xpinstall-prompt-learn-more = იხილეთ ვრცლად დამატებების უსაფრთხოდ ჩადგმის შესახებ
 popup-notification-xpinstall-prompt-block-url = ვრცლად
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = ნებართვა გაფართოების პირად ფანჯრებში გასაშვებად
+    .accesskey = პ
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = პირად ფანჯრებში გაშვება
