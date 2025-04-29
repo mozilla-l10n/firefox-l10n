@@ -9,7 +9,7 @@ xslt-parse-failure = Interpretazione del foglio di stile XSLT non riuscita.
 xpath-parse-failure = Interpretazione dell’espressione XPath non riuscita.
 xslt-execution-failure = Trasformazione XSLT non riuscita.
 xpath-unknown-function = Funzione XSLT/XPath non valida.
-xslt-bad-recursion = Il foglio di stile XSLT probabilmente contiene una ricorsione.
+xslt-bad-recursion = È possibile che il foglio di stile XSLT contenga una ricorsione.
 xslt-bad-value = Valore dell’attributo illegale in XSLT 1.0.
 xslt-nodeset-expected = Un’espressione XPath avrebbe dovuto restituire un NodeSet.
 xslt-aborted = Una trasformazione XSLT è stata interrotta da <xsl:message>.
@@ -34,7 +34,7 @@ xslt-load-blocked-error = Il caricamento di un foglio di stile XSLT è stato int
 xpath-invalid-expression-evaluated = Valutazione di un’espressione non valida.
 xpath-unbalanced-curly-brace = Parentesi graffa di apertura o chiusura mancante.
 xslt-bad-node-name = Creazione di un elemento con QName non valido.
-xslt-var-already-set = Il binding della variabile oscura il binding della variabile all’interno dello stesso template.
+xslt-var-already-set = L’associazione della variabile oscura l’associazione della variabile all’interno dello stesso template.
 xslt-call-to-key-not-allowed = Chiamata alla funzione “key” non consentita
 # Other failures, not found in the previous ones.
 # Variables:
