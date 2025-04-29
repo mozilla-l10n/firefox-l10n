@@ -260,6 +260,8 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = ألغ
     .accesskey = غ
+tab-group-editor-color-selector =
+    .aria-label = لون مجموعة اللسان
 tab-group-editor-color-selector2-blue = أزرق
     .title = أزرق
 tab-group-editor-color-selector2-purple = أرجواني
@@ -289,8 +291,14 @@ tab-group-name-default = مجموعة غير مسمّاة
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-group-editor-action-new-tab =
+    .label = لسان جديد في المجموعة
+tab-group-editor-action-new-window =
+    .label = انقل المجموعة إلى نافذة جديدة
 tab-group-editor-action-save =
     .label = احفظ وأغلق المجموعة
+tab-group-editor-action-ungroup =
+    .label = ألغِ تجميع الألسنة
 tab-group-editor-action-delete =
     .label = احذف المجموعة
 tab-group-editor-done =
@@ -301,6 +309,15 @@ tab-context-reopen-tab-group =
 
 ## Open/saved tab group context menu
 
+# For a tab group open in any window, clicking this will create a new
+# window and move this tab group to that new window.
+tab-group-context-move-to-new-window =
+    .label = انقل المجموعة إلى نافذة جديدة
+# For a tab group open in a different window from the one that the
+# user is using to access the tab group menu, move that tab group into the
+# user's current window.
+tab-group-context-move-to-this-window =
+    .label = انقل المجموعة إلى هذه النافذة
 # For a tab group that is open in any window, close the tab group and
 # do not save it. For a tab group that is closed but saved by the user, clicking
 # this will forget the saved tab group.

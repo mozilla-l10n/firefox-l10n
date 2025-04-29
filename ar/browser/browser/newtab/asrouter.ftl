@@ -251,6 +251,7 @@ device-migration-fxa-spotlight-heavy-user-header = لا تنسَ عمل نُسخ
 device-migration-fxa-spotlight-heavy-user-body = تأكد من أن المعلومات المهمة، مثل العلامات وكلمات السر، مُحدّثة و محمية عبر جميع أجهزتك.
 device-migration-fxa-spotlight-heavy-user-primary-button = ابدأ
 device-migration-fxa-spotlight-older-device-header = راحة البال من { -brand-product-name }
+device-migration-fxa-spotlight-older-device-body = يساعدك الحساب على تحديث معلوماتك المهمة وحمايتها على أي جهاز تتصل به.
 device-migration-fxa-spotlight-older-device-primary-button = أنشئ حسابًا
 device-migration-fxa-spotlight-getting-new-device-header-2 = جهاز جديد في مستقبلك؟
 device-migration-fxa-spotlight-getting-new-device-body-2 = اتبع بعض الخطوات البسيطة لجلب العلامات والتأريخ وكلمات السر معك عند البدء على جهاز جديد.
