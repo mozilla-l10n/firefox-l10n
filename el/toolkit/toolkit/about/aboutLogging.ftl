@@ -66,6 +66,9 @@ about-logging-unknown-profiler-preset = Άγνωστη προκαθορισμέ�
 about-logging-unknown-option = Άγνωστη επιλογή about:logging «{ $k }»
 about-logging-configuration-url-ignored = Αγνοήθηκε το URL ρυθμίσεων
 about-logging-file-and-profiler-override = Δεν είναι δυνατή η ταυτόχρονη επιβολή της εξόδου αρχείου και της παράκαμψης των επιλογών του εργαλείου προφίλ
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-unknown-error = Προέκυψε σφάλμα: { $errorText }
 about-logging-configured-via-url = Η επιλογή διαμορφώθηκε μέσω URL
 
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
@@ -73,3 +76,19 @@ about-logging-configured-via-url = Η επιλογή διαμορφώθηκε μ
 
 about-logging-save-button = Αποθήκευση
 about-logging-upload-button = Μεταφόρτωση
+# Variables:
+#   $path (string) - The path where the profile can be found.
+about-logging-saved = Αποθηκεύτηκε στο { $path }
+# Variables:
+#   $percent (number) - The upload completion progress, to be displayed as a percentage. This is a value between 0 and 1.
+about-logging-uploading-progress = Μεταφόρτωση δεδομένων προφίλ: { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+# Variables:
+#   $url (string) - The URL where the profile can be found
+about-logging-uploaded = Μεταφορτώθηκε στο <a data-l10n-name="uploaded-message-url">{ $url }</a>
+about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Κοινοποίηση URL
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-upload-error = Προέκυψε σφάλμα κατά τη μεταφόρτωση του προφίλ: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-save-error = Προέκυψε σφάλμα κατά την αποθήκευση του αρχείου: { $errorText }

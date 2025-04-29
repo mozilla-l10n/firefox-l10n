@@ -59,6 +59,7 @@ history-section-label = Ιστορικό
 item-history-and-downloads =
     .label = Ιστορικό περιήγησης και λήψεων
     .accesskey = π
+item-history-and-downloads-description2 = Διαγράφει το ιστορικό ιστοτόπων και λήψεων
 item-history-and-downloads-description = Διαγράφει τα ιστορικά αναζήτησης, ιστοτόπων και λήψεων
 item-history-form-data-downloads =
     .label = Ιστορικό

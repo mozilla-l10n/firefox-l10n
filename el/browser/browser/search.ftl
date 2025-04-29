@@ -38,6 +38,7 @@ remove-search-engine-button = OK
 ## Variables
 ## $newEngine (String) - the name of the new default search engine.
 
+reset-search-settings-message = Λόγω ενός τεχνικού ζητήματος, η προεπιλεγμένη μηχανή αναζήτησης έχει αλλάξει στο { $newEngine }. Για να αλλάξετε την προεπιλεγμένη μηχανή αναζήτησης, μεταβείτε στις ρυθμίσεις.
 reset-search-settings-button = OK
 
 ## Infobar shown when user is prompted to install search engine.

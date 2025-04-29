@@ -68,17 +68,27 @@ split-dismiss-button-default-label =
 
 ## Login Status Advisory Callout (points to the account icon)
 
+# The 'account icon' is the toolbar button with a 'profile' icon of a human
+# head/shoulders. It's for dealing with your Mozilla account. When hovering the
+# icon, the tooltip says 'Account'.
+login-status-advisory-title = Έχετε αποσυνδεθεί. Κάντε κλικ στο εικονίδιο λογαριασμού για να συνδεθείτε.
 
 ## Bookmarks toolbar callout strings
 
 bookmarks-toolbar-callout-1-title = Προσθήκη ιστοτόπου στη γραμμή σελιδοδεικτών;
+bookmarks-toolbar-callout-1-subtitle = Ο σελιδοδείκτης σας θα αποθηκευτεί ακριβώς κάτω από τη γραμμή διευθύνσεων για γρήγορη πρόσβαση.
 bookmarks-toolbar-callout-1-primary-button-label = Προσθήκη σελιδοδείκτη
 bookmarks-toolbar-callout-1-secondary-button-label = Όχι, ευχαριστώ
 # Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2a-title = Εύκολη προσθήκη νέων σελιδοδεικτών
+bookmarks-toolbar-callout-2a-subtitle = Μπορείτε να σύρετε και να αποθέσετε καρτέλες εδώ για να έχετε πάντα κοντά σας τους αγαπημένους ιστοτόπους σας.
 bookmarks-toolbar-callout-2a-primary-button-label = Το κατάλαβα
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2a-secondary-button-label = Απόκρυψη γραμμής εργαλείων
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = Να παραμείνει ανοικτή η γραμμή σελιδοδεικτών;
+bookmarks-toolbar-callout-2b-subtitle = Μπορείτε να προσθέσετε κι άλλους ιστοτόπους που επισκέπτεστε συχνά. Σύρετε και εναποθέστε τις καρτέλες εδώ για να έχετε πάντα κοντά σας τους αγαπημένους ιστοτόπους σας.
+bookmarks-toolbar-callout-2b-primary-button-label = Να παραμείνει ανοικτή
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = Όχι, ευχαριστώ
 
