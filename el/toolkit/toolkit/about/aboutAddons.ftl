@@ -307,6 +307,17 @@ discopane-intro2 =
     του { -brand-product-name } και πολλά άλλα. Αυτά τα μικρά προγράμματα αναπτύσσονται συνήθως από
     τρίτους δημιουργούς. Ακολουθεί μια συλλογή από <a data-l10n-name="learn-more-trigger">προτάσεις</a> του { -brand-product-name }
     για μέγιστη ασφάλεια, παραγωγικότητα και λειτουργικότητα.
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 =
+    Οι επεκτάσεις και τα θέματα σάς επιτρέπουν να προσαρμόσετε το { -brand-product-name }. Μπορούν να
+    αναβαθμίσουν την ιδιωτικότητα, να ενισχύσουν την παραγωγικότητα, να βελτιώσουν την αναπαραγωγή
+    πολυμέσων, να αλλάξουν την εμφάνιση του { -brand-product-name } και πολλά ακόμα. Αυτά τα μικρά
+    προγράμματα αναπτύσσονται συνήθως από τρίτους δημιουργούς. Ακολουθεί μια συλλογή από
+    <a data-l10n-name="learn-more-trigger">προτάσεις</a> του Firefox για απαράμιλλη
+    ασφάλεια, επιδόσεις και λειτουργικότητα.
 
 ## Add-on actions
 
@@ -442,8 +453,22 @@ addon-badge-recommended3 =
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Επίσημη επέκταση από τη Mozilla. Πληροί τα πρότυπα ασφαλείας και επιδόσεων
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are performing the
+# security or performance reviews. As such, we avoid personalising language
+# like the words "our" or "we".
+addon-badge-verified4 =
+    .title = Αυτή η επέκταση έχει ελεγχθεί και πληροί τα πρότυπα ασφαλείας και επιδόσεων
 addon-badge-verified3 =
     .title = Αυτή η επέκταση έχει ελεγχθεί και πληροί τα πρότυπα ασφαλείας και επιδόσεών μας
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are making the
+# recommendation. As such, we hard code "Firefox" and avoid personalising
+# language like the words "our" or "we".
+addon-badge-recommended4 =
+    .title = Το Firefox προτείνει μόνο τις επεκτάσεις που πληρούν τα πρότυπα ασφαλείας και επιδόσεων
 
 ##
 

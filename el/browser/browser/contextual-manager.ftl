@@ -290,3 +290,9 @@ contextual-manager-passwords-discard-changes-heading-and-message =
     .message = Οι αλλαγές σας δεν θα αποθηκευτούν.
 contextual-manager-passwords-discard-changes-close-button = Κλείσιμο
 contextual-manager-passwords-discard-changes-go-back-button = Επιστροφή
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] Ναι, αφαίρεση κωδικού πρόσβασης
+       *[other] Ναι, αφαίρεση κωδικών πρόσβασης
+    }
