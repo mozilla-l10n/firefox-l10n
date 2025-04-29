@@ -78,10 +78,16 @@ sidebar-context-menu-remove-extension =
     .label = გაფართოების მოცილება
 sidebar-context-menu-report-extension =
     .label = გაფართოების გასაჩივრება
+sidebar-context-menu-open-in-tab =
+    .label = გახსნა ახალ ჩანართში
+sidebar-context-menu-open-in-container-tab =
+    .label = გახსნა ახალ სათავს ჩანართში
 sidebar-context-menu-open-in-window =
     .label = გახსნა ახალ ფანჯარაში
 sidebar-context-menu-open-in-private-window =
     .label = გახსნა ახალ პირად ფანჯარაში
+sidebar-context-menu-forget-site =
+    .label = ყველა მონაცემის წაშლა საიტისთვის…
 sidebar-context-menu-bookmark-tab =
     .label = ჩანართის ჩანიშვნა…
 sidebar-context-menu-copy-link =
@@ -101,6 +107,8 @@ sidebar-context-menu-close-remote-tab =
 
 sidebar-history-context-menu-delete-page =
     .label = ისტორიიდან ამოშლა
+sidebar-history-context-menu-delete-page-2 =
+    .label = გვერდის ისტორიიდან ამოშლა
 
 ## Labels for sidebar menu items.
 

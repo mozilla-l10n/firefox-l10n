@@ -81,6 +81,16 @@ bookmarks-toolbar-callout-1-primary-button-label = სანიშნის დ�
 bookmarks-toolbar-callout-1-secondary-button-label = არა, გმადლობთ
 # Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2a-title = იოლად დაამატეთ სხვა სანიშნებიც
+bookmarks-toolbar-callout-2a-subtitle = შეგიძლიათ ჩავლებით გადმოიტანოთ ჩანართები და განათავსოთ აქ რჩეული საიტების ხელმისაწვდომობისთვის.
+bookmarks-toolbar-callout-2a-primary-button-label = გასაგებია
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = ხელსაწყოთა ზოლის დამალვა
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = დარჩეს სანიშნების ზოლი?
+bookmarks-toolbar-callout-2b-subtitle = შეგიძლიათ დაამატოთ ხშირად მონახულებული სხვა საიტებიც. ჩავლებით გადმოიტანეთ ჩანართები და განათავსეთ აქ რჩეული საიტების ხელმისაწვდომობისთვის.
+bookmarks-toolbar-callout-2b-primary-button-label = დარჩეს
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = არა, გმადლობთ
 
 ## Sidebar Strings
 
