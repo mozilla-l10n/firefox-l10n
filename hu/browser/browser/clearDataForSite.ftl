@@ -7,6 +7,7 @@ clear-data-for-site-title = Törli a webhely összes adatát?
 #   $site (string) - Website name
 clear-data-for-site-list = Ez törli a(z) { $site } összes adatát, beleértve ezeket:
 clear-data-for-site-browsing-history = Böngészési és letöltési előzmények
+clear-data-for-site-cookies = Sütik és oldaladatok, amelyek kijelentkeztethetik a webhelyről
 clear-data-for-site-cache = Gyorsítótárazott fájlok és lapok
 cclear-data-for-site-permissions = Engedélyek és beállítások
 clear-data-for-site-exceptions = A könyvjelzők és a mentett jelszavak nem lesznek törölve
