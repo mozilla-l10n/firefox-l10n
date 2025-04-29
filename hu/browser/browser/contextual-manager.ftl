@@ -296,3 +296,10 @@ contextual-manager-passwords-discard-changes-heading-and-message =
     .message = A változtatásai nem lesznek elmentve.
 contextual-manager-passwords-discard-changes-close-button = Bezárás
 contextual-manager-passwords-discard-changes-go-back-button = Ugrás vissza
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] Igen, a jelszó eltávolítása
+        [one] Igen, a jelszó eltávolítása
+       *[other] Igen, a jelszavak eltávolítása
+    }
