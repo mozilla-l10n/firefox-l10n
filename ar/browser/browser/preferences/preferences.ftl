@@ -1330,6 +1330,8 @@ collection-studies2 =
 collection-studies =
     .label = اسمح أن ينصّب { -brand-short-name } ويشغل الدراسات
 collection-studies-link = اعرض دراسات { -brand-short-name }
+addon-recommendations2 =
+    .label = اسمح بتقديم توصيات مخصّصة لامتداد
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled2 = الإبلاغ عن البيانات معطّل في إعدادات البناء.
@@ -1343,6 +1345,8 @@ addon-recommendations-link = اطّلع على المزيد
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = الإبلاغ عن البيانات معطّل في إعدادات البناء
+collection-backlogged-crash-reports-with-link = اسمح لـ { -brand-short-name } بإرسال تقارير الأعطال المتراكمة نيابةً عنك<a data-l10n-name="crash-reports-link">معرفة المزيد</a>
+    .accesskey = م
 privacy-segmentation-section-header = خصائص جديدة تعزز تصفحك
 privacy-segmentation-radio-off =
     .label = استخدم توصيات { -brand-product-name }
