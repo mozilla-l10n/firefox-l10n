@@ -71,6 +71,16 @@ split-dismiss-button-default-label =
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-title = Προσθήκη ιστοτόπου στη γραμμή σελιδοδεικτών;
+bookmarks-toolbar-callout-1-primary-button-label = Προσθήκη σελιδοδείκτη
+bookmarks-toolbar-callout-1-secondary-button-label = Όχι, ευχαριστώ
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = Εύκολη προσθήκη νέων σελιδοδεικτών
+bookmarks-toolbar-callout-2a-primary-button-label = Το κατάλαβα
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Απόκρυψη γραμμής εργαλείων
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = Όχι, ευχαριστώ
 
 ## Sidebar Strings
 

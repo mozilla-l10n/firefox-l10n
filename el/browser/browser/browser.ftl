@@ -210,6 +210,9 @@ urlbar-result-menu-dont-show-weather-suggestions =
 # A message shown in the urlbar when the user submits feedback on a suggestion
 # (e.g., it shows an inaccurate location, it's shown too often, etc.).
 urlbar-feedback-acknowledgment = Ευχαριστούμε για τα σχόλιά σας
+# A message shown in the urlbar when the user dismisses weather suggestions.
+# Weather suggestions won't be shown at all anymore.
+urlbar-dismissal-acknowledgment-weather = Ευχαριστούμε για τα σχόλιά σας. Δεν θα βλέπετε πλέον προτάσεις καιρού.
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -1186,6 +1189,10 @@ popup-notification-addon-install-unsigned =
     .value = (Μη επαληθευμένο)
 popup-notification-xpinstall-prompt-learn-more = Μάθετε περισσότερα σχετικά με την ασφαλή εγκατάσταση πρόσθετων
 popup-notification-xpinstall-prompt-block-url = Προβολή λεπτομερειών
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = Να επιτρέπεται η εκτέλεση της επέκτασης σε ιδιωτικά παράθυρα
+    .accesskey = π
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Εκτέλεση σε ιδιωτικά παράθυρα
