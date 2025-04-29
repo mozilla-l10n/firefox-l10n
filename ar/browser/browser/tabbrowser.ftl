@@ -95,6 +95,13 @@ tabbrowser-unblock-tab-audio-tooltip =
 
 ## Tooltips for tab audio control
 
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = أطلِق صوت اللسان
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = أصمت اللسان
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = شغل اللسان
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -141,12 +148,20 @@ tabbrowser-confirm-close-tabs-with-key-title = أتريد إغلاق الناف�
 tabbrowser-confirm-close-tabs-with-key-button = غادِر { -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = اسأل قبل المغادرة باستعمال { $quitKey }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = أكّد علي قبل المغادرة باستعمال { $quitKey }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
 
 tabbrowser-confirm-close-warn-shortcut-title = هل تريد إغلاق { -brand-short-name } أو إغلاق اللسان الحالي؟
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] غادِر { -brand-short-name }
+       *[other] أنهِ { -brand-short-name }
+    }
 tabbrowser-confirm-close-tab-only-button = أغلق اللسان الحالي
 
 ## Confirmation dialog when opening multiple tabs simultaneously

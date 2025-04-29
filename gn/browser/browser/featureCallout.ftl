@@ -81,11 +81,13 @@ bookmarks-toolbar-callout-1-primary-button-label = Embojuaju techaukaha
 bookmarks-toolbar-callout-1-secondary-button-label = Nahániri, aguyje
 # Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2a-title = Embojuaju techaukaha hasy’ỹre
+bookmarks-toolbar-callout-2a-subtitle = Embosyryry ha epoi tendayke ko’ápe erekove hag̃ua tenda erohoryvéva nde ykére.
 bookmarks-toolbar-callout-2a-primary-button-label = Aikũmby
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2a-secondary-button-label = Eñomi tembiporu renda
 # Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2b-title = ¿Ereko jurujápe techaukaha rembiporu rupa?
+bookmarks-toolbar-callout-2b-subtitle = Embojuajukuaa ambue tenda eike memeha. Embosyryry ha epoi tendayke ápe ereko hag̃ua ñanduti rogue erohoryvéva nde ykére.
 bookmarks-toolbar-callout-2b-primary-button-label = Ereko jurujápe
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = Nahániri, aguyje
@@ -150,6 +152,7 @@ unified-search-callout-subtitle = Eiporavo oiko porãve hag̃ua pe jehekaha ha�
 unified-search-callout-primary-label = Tenonde
 unified-search-callout-secondary-label = Mboyke
 unified-search-engines-callout-title = Eheka jeike pya’eha ndive
+unified-search-engines-callout-subtitle = Ehai “@” ha upéi peteĩ ñe’ẽñemi eheka hag̃ua ne rembiasakue, techaukaha, tendayke térã ambue hekaha.
 unified-search-engines-callout-primary-label = Aikũmby
 actions-callout-title = Ejapopa tembiapokuéra térã eike ñemboheko ñepyrũguápe
 # The user can type "print" and "clear" and a button will appear in the
