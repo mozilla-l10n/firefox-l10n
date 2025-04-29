@@ -295,3 +295,10 @@ contextual-manager-passwords-discard-changes-heading-and-message =
     .message = Dine ændringer bliver ikke gemt.
 contextual-manager-passwords-discard-changes-close-button = Luk
 contextual-manager-passwords-discard-changes-go-back-button = Gå tilbage
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] Ja, fjern adgangskode
+        [one] Ja, fjern adgangskode
+       *[other] Ja, fjern adgangskoder
+    }

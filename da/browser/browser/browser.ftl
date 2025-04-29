@@ -1185,6 +1185,10 @@ popup-notification-addon-install-unsigned =
     .value = (Uverificeret)
 popup-notification-xpinstall-prompt-learn-more = Læs mere om sikker installering af tilføjelser
 popup-notification-xpinstall-prompt-block-url = Vis detaljer
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = Tillad udvidelse at virke i private vinduer
+    .accesskey = p
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Anvend i private vinduer
