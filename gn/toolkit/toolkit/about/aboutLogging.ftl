@@ -80,6 +80,9 @@ about-logging-upload-button = Hupi
 #   $path (string) - The path where the profile can be found.
 about-logging-saved = Ñongatupyre { $path }-pe
 # Variables:
+#   $percent (number) - The upload completion progress, to be displayed as a percentage. This is a value between 0 and 1.
+about-logging-uploading-progress = Mba’ete mba’ekuaarã jehupi: { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+# Variables:
 #   $url (string) - The URL where the profile can be found
 about-logging-uploaded = Ojehupíva <a data-l10n-name="uploaded-message-url">{ $url }</a>
 about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Emoherakuã URL
