@@ -7,6 +7,13 @@
 
 xslt-parse-failure = El procesamiento de una hoja de estilo XSLT ha fallado.
 xpath-parse-failure = El procesamiento de una expresión XPath ha fallado.
+xslt-execution-failure = La transformación XSLT ha fallado.
+xpath-unknown-function = Función XSLT/XPath no válida.
+xslt-bad-recursion = La hoja de estilo XSLT (posiblemente) contiene una recursión.
+xslt-bad-value = Valor ilegal de atributo en XSLT 1.0.
+xslt-nodeset-expected = Se esperaba que una expresión XPath devolviera un NodeSet.
+xslt-aborted = La transformación XSLT terminó por <xsl:message>.
+xslt-network-error = Ha ocurrido un error de red al cargar una hoja de estilo XSLT:
 xslt-wrong-mime-type = Una hoja de estilo XSLT no tiene tipo MIME XML:
 xslt-load-recursion = Una hoja de estilo XSLT se importa o incluye directa o indirectamente a sí misma:
 xpath-bad-argument-count = Se ha llamado a una función XPath con un número incorrecto de argumentos.
