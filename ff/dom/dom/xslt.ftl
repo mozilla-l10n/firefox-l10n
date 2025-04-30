@@ -7,6 +7,7 @@
 
 xslt-network-error = Juumre laylaytol waɗii saanga loowgol ɗerewol panni XSLT:
 xslt-wrong-mime-type = Ɗerewol panni XSLT jogaaki mimetype XML:
+xslt-load-recursion = Panni XSLT ina paggoo ina naattina e koye mum en:
 xpath-bad-extension-function = Gollirgal timmitte XPath mo anndaaka noddaama.
 xpath-paren-expected = Gallugol ƴeewndo XPath: ‘)’ ina tijjaa:
 xpath-bracket-expected = Gallugol ƴeewndo XPath: ‘]’ ina tijjaa:
