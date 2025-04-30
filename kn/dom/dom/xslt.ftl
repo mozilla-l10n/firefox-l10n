@@ -5,6 +5,19 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = ಒಂದು XSLT ಶೈಲಿಹಾಳೆಯನ್ನು (ಸ್ಟೈಲ್‌ಶೀಟ್) ವಿವರಿಸುವಲ್ಲಿ ವಿಫಲತೆ.
+xpath-parse-failure = XPath ನಿರೂಪಣೆಯನ್ನು (ಎಕ್ಸ್‍ಪ್ರೆಶನ್) ವಿವರಿಸುವಲ್ಲಿ ವಿಫಲತೆ.
+xslt-execution-failure = XSLT ಮಾರ್ಪಡಣೆ ವಿಫಲಗೊಂಡಿದೆ.
+xpath-unknown-function = ಅಮಾನ್ಯ XSLT/XPath ಕ್ರಿಯೆ (ಫಂಕ್ಶನ್).
+xslt-bad-recursion = XSLT ಶೈಲಿಹಾಳೆ(ಸ್ಟೈಲ್‌ಶೀಟ್) (ಬಹುಷಃ) ಒಂದು ರೆಕರ್ಷನ್ ಅನ್ನು ಹೊಂದಿದೆ.
+xslt-bad-value = ವೈಶಿಷ್ಟ್ಯ ಮೌಲ್ಯ ವು  XSLT 1.0 ನಲ್ಲಿ ಅಸಿಂಧುವಾಗಿದೆ.
+xslt-nodeset-expected = ಒಂದು XPath ನಿರೂಪಣೆಯು ಒಂದು  ನೋಡ್‌ಸೆಟ್‌ ಮರಳಿಸಲು ನಿರೀಕ್ಷಿಸಲಾಗಿತ್ತು.
+xslt-aborted = XSLT ಮಾರ್ಪಡಣೆಯು  <xsl:message> ನಿಂದ ಅಂತ್ಯಗೊಳಿಸಲ್ಪಟ್ಟಿದೆ.
+xslt-network-error = ಒಂದು XSLT ಶೈಲಿಹಾಳೆಯನ್ನು ಲೋಡ್‍ಮಾಡುವಲ್ಲಿ ಒಂದು ಜಾಲಬಂಧ ದೋಷ ಉಂಟಾಗಿದೆ:
+xslt-wrong-mime-type = ಒಂದು XSLT ಶೈಲಿಹಾಳೆಯು ಒಂದು XML ಮೈಮ್‍ಪ್ರಕಾರವನ್ನು ಹೊಂದಿಲ್ಲ:
+xslt-load-recursion = ಒಂದು XSLT ಶೈಲಿಹಾಳೆ ನೇರವಾಗಿ ಅಥವ ಪರೋಕ್ಷವಾಗಿ ಆಮದು ಮಾಡಿಕೊಳ್ಳುತ್ತದೆ ಅಥವ ಅದನ್ನೇ ಸೇರಿಸಿಕೊಳ್ಳುತ್ತದೆ:
+xpath-bad-argument-count = ಒಂದು XPath ಕ್ರಿಯೆಯು  ತಪ್ಪು ಸಂಖ್ಯೆಯ ಆರ್ಗ್ಯುಮೆಂಟುಗಳೊಂದಿಗೆ ಕರೆಯಲ್ಪಟ್ಟಿತ್ತು.
+xpath-bad-extension-function = ಒಂದು ಅಜ್ಞಾತ XPath ವಿಸ್ತರಣ ಕ್ರಿಯೆಗಾಗಿ ಕರೆಯಲಾಗಿತ್ತು.
 xpath-paren-expected = XPath ವಿವರಿಸುವಲ್ಲಿ ವಿಫಲತೆ: ')' ನಿರೀಕ್ಷಿಸಲಾಗಿತ್ತು:
 xpath-invalid-axis = XPath ವಿವರಿಸುವಲ್ಲಿ ವಿಫಲತೆ: ಅಮಾನ್ಯ ಅಕ್ಷಾಂಶ(ಆಕ್ಸಿಸ್):
 xpath-no-node-type-test = XPath ವಿವರಿಸುವಲ್ಲಿ ವಿಫಲತೆ: ಹೆಸರು ಅಥವ  ನೋಡ್‍ಟೈಪ್ ಪರೀಕ್ಷೆಯನ್ನು ನಿರೀಕ್ಷಿಸಲಾಗಿತ್ತು:
@@ -23,6 +36,10 @@ xpath-unbalanced-curly-brace = ಸಮತೋಲನವಿಲ್ಲದ ಕರ್ಲ
 xslt-bad-node-name = ಅಮಾನ್ಯವಾದ QName ನೊಂದಿಗೆ ಒಂದು ಮೂಲಘಟಕವನ್ನು ನಿರ್ಮಿಸಲಾಗುತ್ತಿದೆ.
 xslt-var-already-set = ಒಂದೇ ಸಿದ್ಧಮಾದರಿಯಲ್ಲಿ ಒಂದು ವೇರಿಯೇಬಲ್ ಬೈಂಡಿಂಗ್ ಇನ್ನೊಂದು ವೇರಿಯೇಬಲ್ ಬೈಂಡಿಂಗ್ ಅನ್ನು ಅಡಗಿಸುತ್ತದೆ.
 xslt-call-to-key-not-allowed = ಮಹತ್ವದ ಕಾರ್ಯಭಾರವನ್ನು ಕರೆಯಲು ಅನುಮತಿಯಿಲ್ಲ.
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = ಒಂದು ಅಜ್ಞಾತ ದೋಷ ಎದುರಾಗಿದೆ ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
