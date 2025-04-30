@@ -281,6 +281,7 @@ discopane-notice-recommendations2 =
         Nokre av desse tilrådingane er målretta deg. Dei er baserte på andre
         utvidingar du har installert, profilinnstillingar og statistikk for bruk.
 discopane-notice-learn-more = Les meir
+colorway-removal-notice-learn-more = Les meir
 privacy-policy = Personvernpraksis
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

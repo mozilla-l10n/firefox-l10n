@@ -678,6 +678,9 @@ urlbar-result-action-search-bookmarks = Nadi ticraḍ n yisebtar
 urlbar-result-action-search-history = Nadi deg umazray
 urlbar-result-action-search-tabs = Nadi deg waccaren
 urlbar-result-action-search-actions = Nadi tigawin
+# Label for a quickaction result used to re-opan a saved tab group.
+#  $group (String): the name of the tab group to re-open
+urlbar-result-action-open-saved-tabgroup = Ldi { $group }
 
 ## Labels shown above groups of urlbar results
 
@@ -899,6 +902,9 @@ panel-save-update-password = Awal uffir
 # "More" item in macOS share menu
 menu-share-more =
     .label = Ugar…
+menu-share-copy-link =
+    .label = Nɣel aseɣwen
+    .accesskey = l
 ui-tour-info-panel-close =
     .tooltiptext = Mdel
 

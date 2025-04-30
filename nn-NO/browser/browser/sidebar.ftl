@@ -78,6 +78,10 @@ sidebar-context-menu-remove-extension =
     .label = Fjern utviding
 sidebar-context-menu-report-extension =
     .label = Rapporter utviding
+sidebar-context-menu-open-in-tab =
+    .label = Opne i ny fane
+sidebar-context-menu-open-in-container-tab =
+    .label = Opne i ny behaldarfane
 sidebar-context-menu-open-in-window =
     .label = Opne i nytt vindauge
 sidebar-context-menu-open-in-private-window =
@@ -101,6 +105,8 @@ sidebar-context-menu-close-remote-tab =
 
 sidebar-history-context-menu-delete-page =
     .label = Slett frå historikk
+sidebar-history-context-menu-bookmark-page =
+    .label = Bokmerk side…
 
 ## Labels for sidebar menu items.
 

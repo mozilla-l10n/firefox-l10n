@@ -344,6 +344,10 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Vis tillegg
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = utvidingar, tema, tillegg
 quickactions-cmd-addons2 = tillegg
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Handsam bokmerke
@@ -384,6 +388,7 @@ quickactions-print2 = Skriv ut sida
 quickactions-cmd-print = utskrift, skriv ut
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Lagre side som PDF
+quickactions-cmd-savepdf2 = pdf, lagre side
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Opne privat vindauge
@@ -1250,3 +1255,4 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = Fullfør oppsett

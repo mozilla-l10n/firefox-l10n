@@ -94,6 +94,8 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Nei takk
 
 ## Perplexity callout strings
 
+perplexity-callout-secondary-label-1 = Ignorer
+perplexity-callout-secondary-label-2 = Eg forstår
 
 ## Sidebar Strings
 
