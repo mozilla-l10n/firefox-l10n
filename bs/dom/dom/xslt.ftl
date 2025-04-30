@@ -5,6 +5,19 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = Parsiranje XSLT stila nije uspjelo.
+xpath-parse-failure = Parsiranje XPath izraza nije uspjelo.
+xslt-execution-failure = XSLT transformacija nije uspjela.
+xpath-unknown-function = Neispravna XSLT/XPath funkcija.
+xslt-bad-recursion = XSLT stil (vjerovatno) sadrži rekurziju.
+xslt-bad-value = Vrijednost atributa je neispravna u XSLT 1.0.
+xslt-nodeset-expected = Od XPath izraza je očekivano da vrati NodeSet.
+xslt-aborted = XSLT transformacija je prekinuta od <xsl:message>.
+xslt-network-error = Došlo je do greške u mreži prilikom učitavanja XSLT stila:
+xslt-wrong-mime-type = XSLT stil ne sadrži XML mimetype:
+xslt-load-recursion = XSLT stil direktno ili indirektno uvozi ili uključuje samog sebe:
+xpath-bad-argument-count = XPath funkcija je pozvana sa pogrešnim brojem argumenata.
+xpath-bad-extension-function = Nepoznata funkcija XPath ekstenzije je bila pozvana.
 xpath-paren-expected = Greška u XPath parsiranju: očekivano ')':
 xpath-invalid-axis = Greška u XPath parsiranju: pogrešna osa:
 xpath-no-node-type-test = Greška u XPath parsiranju: očekivana provjera imena ili Nodetypea:
@@ -23,6 +36,10 @@ xpath-unbalanced-curly-brace = Neuravnotežene vitičaste zagrade.
 xslt-bad-node-name = Kreiranje elementa sa neispravnim QName.
 xslt-var-already-set = Dodjela promjenjive zasjenjuje dodjelu promjenjive unutar istog obrasca.
 xslt-call-to-key-not-allowed = Poziv ključne funkcije nije dopušten.
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = Desila se nepoznata greška ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
