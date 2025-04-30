@@ -6,15 +6,21 @@ contextual-manager-filter-input =
     .placeholder = Пошук пароляў
     .key = F
     .aria-label = Пошук пароляў
+contextual-manager-menu-more-options-button =
+    .title = Дадатковыя налады
+contextual-manager-more-options-popup =
+    .aria-label = Дадатковыя параметры
 
 ## Passwords
 
 contextual-manager-passwords-command-create = Дадаць пароль
 contextual-manager-passwords-command-import-from-browser = Імпартаваць з іншага браўзера…
 contextual-manager-passwords-command-import = Імпартаваць з файла…
+contextual-manager-passwords-command-export = Экспартаваць паролі
 contextual-manager-passwords-command-remove-all = Выдаленне усіх пароляў
 contextual-manager-passwords-command-settings = Налады
 contextual-manager-passwords-command-help = Даведка
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Каб экспартаваць свае паролі, увядзіце свае ўліковыя дадзеныя для ўваходу ў Windows. Гэта дапамагае захоўваць бяспеку вашых уліковых запісаў.
 # This message can be seen when attempting to export a password in about:logins
@@ -37,6 +43,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Каб �
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = капіяваць захаваны пароль
+contextual-manager-passwords-import-file-picker-title = Імпартаваць паролі
 contextual-manager-passwords-import-file-picker-import-button = Імпартаваць
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -52,9 +59,17 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] Дакумент TSV
        *[other] Файл TSV
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = Паролі імпартаваныя
+contextual-manager-passwords-import-detailed-report = Паглядзець падрабязную справаздачу
 contextual-manager-passwords-import-success-button = Гатова
+contextual-manager-passwords-import-error-button-try-again = Паспрабаваць зноў
 contextual-manager-passwords-import-error-button-cancel = Скасаваць
+contextual-manager-passwords-export-success-heading =
+    .heading = Паролі экспартаваны
 contextual-manager-passwords-export-success-button = Гатова
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = Экспартаваць паролі ў файл?
 contextual-manager-export-passwords-dialog-confirm-button = Працягнуць экспарт
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Экспарт пароляў з { -brand-short-name }

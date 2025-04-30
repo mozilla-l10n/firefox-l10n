@@ -59,6 +59,7 @@ history-section-label = Гісторыю
 item-history-and-downloads =
     .label = Гісторыя аглядання і сцягванняў
     .accesskey = а
+item-history-and-downloads-description2 = Ачышчае гісторыю сайтаў і сцягванняў
 item-history-and-downloads-description = Ачышчае гісторыю пошуку, сайтаў і сцягванняў
 item-history-form-data-downloads =
     .label = Гісторыю

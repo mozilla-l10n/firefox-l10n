@@ -279,6 +279,7 @@ discopane-notice-recommendations2 =
         Некаторыя з гэтых рэкамендацый персаніфікаваныя. Яны заснаваны на іншых
         пашырэннях, якія вы ўсталявалі, перавагах профілю і статыстыцы выкарыстання.
 discopane-notice-learn-more = Даведацца больш
+colorway-removal-notice-learn-more = Падрабязней
 privacy-policy = Палітыка прыватнасці
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
