@@ -269,6 +269,12 @@ discopane-notice-recommendations = חלק מהמלצות אלה מותאמות �
 discopane-notice-recommendations2 =
     .message = חלק מהמלצות אלה מותאמות אישית. הן מבוססות על הרחבות אחרות שהתקנת, העדפות פרופיל וסטטיסטיקת שימוש.
 discopane-notice-learn-more = מידע נוסף
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = ערכות הצבעים שלך הוסרו.
+    .message = ‏{ -brand-product-name } עדכן את אוסף ערכות הצבעים שלו. הסרנו את הגרסאות הישנות מרשימת ה״ערכות נושא שמורות״. ניתן לקבל את הגרסאות החדשות מאתר התוספות.
+colorway-removal-notice-learn-more = מידע נוסף
+colorway-removal-notice-button = קבלת ערכות צבעים מעודכנות
 privacy-policy = מדיניות פרטיות
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

@@ -117,3 +117,5 @@ webext-site-perms-midi-sysex = גישה להתקני MIDI עם תמיכה ב־Sy
 
 ## Colorway theme migration
 
+webext-colorway-theme-migration-notification-message = <b>ערכת הצבעים שלך הוסרה.</b> { -brand-shorter-name } עדכן את אוסף ערכות הצבעים שלו. ניתן למצוא את הגרסאות העדכניות ביותר באתר התוספות.
+webext-colorway-theme-migration-notification-button = קבלת ערכות צבעים מעודכנות

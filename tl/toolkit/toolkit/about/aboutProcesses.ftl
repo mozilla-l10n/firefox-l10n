@@ -29,6 +29,7 @@ about-processes-socket-process = Network ({ $pid })
 about-processes-remote-sandbox-broker-process = Remote Sandbox Broker ({ $pid })
 about-processes-fork-server-process = Fork Server ({ $pid })
 about-processes-preallocated-process = Preallocated ({ $pid })
+about-processes-utility-process = Utility ({ $pid })
 
 ## Isolated process names
 ## Variables:
@@ -38,6 +39,26 @@ about-processes-preallocated-process = Preallocated ({ $pid })
 
 ## Details within processes
 
+# Thread details
+# Variables:
+#   $name (String) The name assigned to the thread.
+#   $tid (String) The thread id of this thread, assigned by the OS.
+about-processes-thread-name-and-id = { $name }
+    .title = Thread id: { $tid }
+# Tab
+# Variables:
+#   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
+about-processes-tab-name = Tab: { $name }
+about-processes-preloaded-tab = Preloaded New Tab
+# Single subframe
+# Variables:
+#   $url (String) The full url of this subframe.
+about-processes-frame-name-one = Subframe: { $url }
+# Group of subframes
+# Variables:
+#   $number (Number) The number of subframes in this group. Always ≥ 1.
+#   $shortUrl (String) The shared prefix for the subframes in the group.
+about-processes-frame-name-many = Subframes ({ $number }): { $shortUrl }
 
 ## Utility process actor names
 

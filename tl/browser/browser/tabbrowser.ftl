@@ -7,6 +7,15 @@ tabbrowser-menuitem-close-tab =
     .label = Isara ang Tab
 tabbrowser-menuitem-close =
     .label = Isara
+# Displayed within the tooltip on tabs inside of a tab group.
+# Variables:
+#   $tabGroupName (String): the user-defined name of the current tab group.
+tabbrowser-tab-tooltip-tab-group = { $tabGroupName }
+# Displayed within the tooltip on tabs inside of a tab group if the tab is also in a container.
+# Variables:
+#   $tabGroupName (String): the user-defined name of the current tab group.
+#   $containerName (String): the name of the current container.
+tabbrowser-tab-tooltip-tab-group-container = { $tabGroupName } — { $containerName }
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
@@ -151,10 +160,19 @@ tabbrowser-ctrl-tab-list-all-tabs =
 
 ## Tab Groups
 
+tab-group-editor-title-create = Gumawa ng tab group
+tab-group-editor-color-selector =
+    .aria-label = Kulay ng tab group
+# Variables:
+#  $tabGroupName (String): The name of the tab group. Defaults to the value
+#                          of tab-group-name-default.
+tab-group-description = { $tabGroupName } — Tab Group
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-reopen-tab-group =
+    .label = Buksang muli ang tab group
 
 ## Open/saved tab group context menu
 
