@@ -5,6 +5,18 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = Analyzowanje stiloweje XSLT-předłohi njeje so poradźiło.
+xpath-parse-failure = Analyzowanje XPath-wuraza njeje so poradźiło.
+xslt-execution-failure = XSLT-transformacija njeje so poradźiła.
+xpath-unknown-function = Njepłaćiwa funkcija XSLT/XPath.
+xslt-bad-recursion = Stilowa XSLT-předłoha (snadź) rekursiju wobsahuje.
+xslt-bad-value = Atributowa hódnota w XSLT 1.0 njedowolena.
+xslt-nodeset-expected = Wot XPath-wuraza je so wočakowało, zo by wón NodeSet wróćo dał.
+xslt-aborted = XSLT-transformacija je so z <xsl:message> wotzamknyła.
+xslt-network-error = Syćowy zmylk je za čas čitanja stiloweje XSLT-předłohi wustupił:
+xslt-wrong-mime-type = Stilowa XSLT-předłoha XML-mimetyp nima:
+xslt-load-recursion = Stilowa XSLT-předłoha so samu direktnje abo indirektnje importuje abo zapřijima:
+xpath-bad-argument-count = XPath-funkcija je so z wopačnej ličbu argumentow wołała.
 xpath-bad-extension-function = Njeznata rozšěrjenska XPath-funkcija je so wołała.
 xpath-paren-expected = XPath analyzowanski zmylk: ')' wočakowana:
 xpath-invalid-axis = XPath analyzowanski zmylk: njepłaćiwa wóska:
@@ -24,6 +36,10 @@ xpath-unbalanced-curly-brace = Falowaca zhibowana spinka.
 xslt-bad-node-name = Element z njepłaćiwym QName so twori.
 xslt-var-already-set = Wariablowe wjazanje wariablowe wjazanje znutřka samsneje předłohi zasćinja.
 xslt-call-to-key-not-allowed = Wołanje ke klučowej funkciji njeje dowolene.
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = Njeznaty zmylk je wustupił ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
