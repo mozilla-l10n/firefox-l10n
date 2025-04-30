@@ -22,8 +22,12 @@ xpath-bad-colon = Falta in le interpretation XPath: ‘:’ inexpectate:
 xpath-bad-bang = Falta in le interpretation XPath: ‘!’ inexpectate, le negation es not():
 xpath-illegal-char = Falta in le interpretation XPath: character illegal trovate:
 xpath-binary-expected = Falta in le interpretation XPath: operator binari expectate:
+xslt-load-blocked-error = Un folio de stilo XSLT ha essite blocate pro rationes de securitate.
+xpath-invalid-expression-evaluated = Evalutation de un expression invalide.
+xpath-unbalanced-curly-brace = Parentheses crispe non balanciate.
 xslt-bad-node-name = Creation de un elemento con un QName non valide.
 xslt-var-already-set = Un ligatura de variabile pone in umbra un altere ligatura de variabile in le mesme modello.
+xslt-call-to-key-not-allowed = Appello al function “key” non permittite.
 
 ## Messages for the XML error page.
 ##
@@ -31,4 +35,5 @@ xslt-var-already-set = Un ligatura de variabile pone in umbra un altere ligatura
 ##   $error (string) - the specific XSLT or XPath error (a translated string
 ##   from the previous section)
 
+xslt-loading-error = Error de cargar le folio de stilo: { $error }
 xslt-transform-error = Error durante le transformation XSLT: { $error }
