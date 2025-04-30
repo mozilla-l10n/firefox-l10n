@@ -5,6 +5,14 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = Okuyisamu XSLT stylesheet kuganye.
+xpath-parse-failure = Okuyisamu ekawandiiko mu XPath kuganye.
+xslt-execution-failure = Okukyusa XSLT kuganye.
+xpath-unknown-function = Ttekiriyo XSLT/XPath nkola.
+xslt-bad-recursion = Ekiwandiiko kya XSLT (kyinyizika) kirina ensobi ey'okwezzamu.
+xslt-bad-value = Omuwendo gw'embala tegukirizibwa mu XSLT 1.0.
+xslt-nodeset-expected = XPath ebbadde esubirwa okuzza a obusonda.
+xslt-aborted = Enkyusakyusa ya XSLT yayimiriziddwa ne <xsl:message>.
 xslt-network-error = Ensobi ye kitimba ebaddewo nga XSLT stylesheet etikkibwa:
 xslt-wrong-mime-type = Ekiwandiiko kya XSLT tekirina nkuba ya XML:
 xslt-load-recursion = Ekiwandiiko kya XSLT kigezaako okwegulira mu kyo:
@@ -27,6 +35,10 @@ xpath-invalid-expression-evaluated = Kuyinta mu bingambo ebitaliyo.
 xpath-unbalanced-curly-brace = Bulakets ttezzekana.
 xslt-bad-node-name = Kukolawo ekintu ekirina QErinya erintaliyo.
 xslt-var-already-set = Okugataa kwe bingambo ku galawo okugataa kwe bingambo ebiri mu kinfu kimu.
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = Ekinsobu ekitamanyiddwa kibadewo ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
