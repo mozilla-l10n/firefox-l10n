@@ -27,6 +27,7 @@ xpath-invalid-expression-evaluated = Оценување на погрешен и
 xpath-unbalanced-curly-brace = Голема заграда не е затворена.
 xslt-bad-node-name = Создавање на елемент со неважечко QName.
 xslt-var-already-set = Поставувањето на променлива го крие поставувањето на променлива во самиот шаблон.
+xslt-call-to-key-not-allowed = Не е дозволен повик до клучната функција.
 
 ## Messages for the XML error page.
 ##
@@ -34,3 +35,5 @@ xslt-var-already-set = Поставувањето на променлива го
 ##   $error (string) - the specific XSLT or XPath error (a translated string
 ##   from the previous section)
 
+xslt-loading-error = Грешка во вчитувањето на дизајн страницата: { $error }
+xslt-transform-error = Грешка во XSLT преобразба: { $error }
