@@ -266,6 +266,7 @@ discopane-notice-recommendations = 某些項目是根據您安裝的其他擴充
 discopane-notice-recommendations2 =
     .message = 某些項目是根據您安裝的其他擴充套件、偏好設定、使用統計推導而出的個人化建議。
 discopane-notice-learn-more = 了解更多
+colorway-removal-notice-learn-more = 更多資訊
 privacy-policy = 隱私權保護政策
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
