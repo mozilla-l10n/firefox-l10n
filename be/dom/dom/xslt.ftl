@@ -17,6 +17,7 @@ xpath-bracket-expected = Няўдача разбору XPath: чакаецца '
 xpath-invalid-var-name = Няўдача разбору XPath: недапушчальная назва зменнай:
 xpath-unexpected-end = Няўдача разбору XPath: нечаканы канец выразу:
 xpath-operator-expected = Няўдача разбору XPath: чакаецца чыннік:
+xslt-call-to-key-not-allowed = Выклік ключавой функцыі не дазволены.
 
 ## Messages for the XML error page.
 ##
@@ -24,3 +25,5 @@ xpath-operator-expected = Няўдача разбору XPath: чакаецца 
 ##   $error (string) - the specific XSLT or XPath error (a translated string
 ##   from the previous section)
 
+xslt-loading-error = Памылка загрузкі табліцы стыляў: { $error }
+xslt-transform-error = Памылка пераўтварэння XSLT: { $error }
