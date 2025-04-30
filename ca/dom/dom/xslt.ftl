@@ -5,6 +5,14 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = L'anàlisi d'un full d'estil XSLT ha fallat.
+xpath-parse-failure = L'anàlisi d'una expressió XPath ha fallat.
+xslt-execution-failure = La transformació XSLT ha fallat.
+xpath-unknown-function = La funció XSLT/XPath no és vàlida.
+xslt-bad-recursion = El full d'estil XSLT conté (possiblement) una recursivitat.
+xslt-bad-value = El valor de l'atribut és il·legal en XSLT 1.0.
+xslt-nodeset-expected = S'esperava que una expressió XPath retornés un NodeSet.
+xslt-aborted = <xsl:message> ha finalitzat la transformació XSLT.
 xslt-network-error = S'ha produït un error de xarxa en carregar un full d'estil XSLT:
 xslt-wrong-mime-type = Un full d'estil XSLT no té cap tipus MIME XML:
 xslt-load-recursion = Un full d'estil XSLT s'importa o s'inclou, directament o indirectament, a ell mateix:
@@ -28,6 +36,10 @@ xpath-unbalanced-curly-brace = Hi ha una clau sense parella.
 xslt-bad-node-name = S'està creant un element amb un QName no vàlid.
 xslt-var-already-set = La vinculació de variables eclipsa la vinculació de variables d'una mateixa plantilla.
 xslt-call-to-key-not-allowed = No es permet la crida a la funció clau.
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = S'ha produït un error desconegut ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
