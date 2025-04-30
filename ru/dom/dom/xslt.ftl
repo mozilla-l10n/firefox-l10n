@@ -5,6 +5,14 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = Ошибка разбора таблицы стилей XSLT.
+xpath-parse-failure = Ошибка разбора XPath выражения.
+xslt-execution-failure = Ошибка преобразования XSLT.
+xpath-unknown-function = Неправильная XSLT/XPath функция.
+xslt-bad-recursion = Таблица стилей XSLT (возможно) содержит рекурсию.
+xslt-bad-value = Недействительное значение атрибута для XSLT 1.0.
+xslt-nodeset-expected = Выражение XPath должно вернуть значение типа NodeSet.
+xslt-aborted = XSLT-преобразование было уничтожено <xsl:message>.
 xslt-network-error = Во время загрузки таблицы стилей XSLT произошла ошибка в сети:
 xslt-wrong-mime-type = В таблице стилей XSLT не указан MIME-тип XML:
 xslt-load-recursion = Таблица стилей XSLT прямым или косвенным образом импортирует или включает себя:
@@ -28,6 +36,10 @@ xpath-unbalanced-curly-brace = Несбалансированность фигу
 xslt-bad-node-name = Создание элемента с неправильным QName.
 xslt-var-already-set = Перекрытие имен переменных в пределах одного шаблона.
 xslt-call-to-key-not-allowed = Вызов ключевой функции не разрешён.
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = Произошла неизвестная ошибка ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
