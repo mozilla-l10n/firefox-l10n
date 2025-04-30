@@ -5,6 +5,14 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = XSLT ձևաթերթի վերլուծութիւնը խափանվեց։
+xpath-parse-failure = XPath արտահայտության վերլուծությունը խափանվեց։
+xslt-execution-failure = XSLT-փոխակերպումը խափանվեց։
+xpath-unknown-function = Անվավեր XSLT/XPath-գործառույթ։
+xslt-bad-recursion = XSLT ձևաթերթը (հավանաբար) պարունակում է ինքնականչ։
+xslt-bad-value = XSLT 1.0­ի համար հատկանիշի արժեքն անվավեր է:
+xslt-nodeset-expected = XPath­ արտահայտությունը պիտի վերադարձներ NodeSet։
+xslt-aborted = XSLT փոխակերպումն ընդհատվեց <xsl:message>­ի միջոցով։
 xslt-network-error = XSLT-ձևաթերթի բեռնավորման ընթացքում ցանցային սխալմունք պատահեց։
 xslt-wrong-mime-type = XSLT ձևաթերթը չունի XML տեսակ:
 xslt-load-recursion = XSLT-ձևաթերթն ուղղակիորեն թե անուղղակիորեն ներմուծում կամ ներգրավում է ինքն իրեն:
@@ -28,6 +36,10 @@ xpath-unbalanced-curly-brace = Անկայուն ձևավոր փակագիծ։
 xslt-bad-node-name = Սխալ QName-ով տարրի ստեղծում։
 xslt-var-already-set = Փոփոխական կապը կանխազգուշացնում է միևնույն ձևաչափի մեջ փոփոխական կապի վերաբերյալ։
 xslt-call-to-key-not-allowed = Բանալու կանչի գործառույթը չի աջակցվում։
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = Անհայտ սխալմունք է պատահել ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
