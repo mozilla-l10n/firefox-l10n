@@ -1,0 +1,31 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+## XSLT and XPath specific errors.
+
+xpath-paren-expected = XPath પાર્સ કરવામાં નિષ્ફળ ')' અપેક્ષિત:
+xpath-invalid-axis = XPath પાર્સ કરવામાં નિષ્ફળઃ અયોગ્ય અક્ષો:
+xpath-no-node-type-test = XPath પાર્સ કરવામાં નિષ્ફળઃ નામ અથવા નોડપ્રકાર ચકાસણી અપેક્ષિત:
+xpath-bracket-expected = XPath પાર્સ કરવામાં નિષ્ફળઃ ']' અપેક્ષિત:
+xpath-invalid-var-name = XPath પાર્સ કરવામાં નિષ્ફળઃ અયોગ્ય ચલ નામ:
+xpath-unexpected-end = XPath પાર્સ કરવામાં નિષ્ફળઃ સૂત્રનો અનઅપેક્ષિત અંત:
+xpath-operator-expected = XPath પાર્સ કરવામાં નિષ્ફળઃ કારક અપેક્ષિત:
+xpath-unclosed-literal = XPath પાર્સ કરવામાં નિષ્ફળઃ બંધ ન કરેલ લિટરલ:
+xpath-bad-colon = XPath પાર્સ કરવામાં નિષ્ફળઃ  જરુર વગરનુ ':' :
+xpath-bad-bang = XPath પાર્સ કરવામાં નિષ્ફળઃ '!' અપેક્ષિત નથી, નકાર not() છે:
+xpath-illegal-char = XPath પાર્સ કરવામાં નિષ્ફળ અજાણ્યો અક્ષર મળ્યો:
+xpath-binary-expected = XPath પાર્સ કરવામાં નિષ્ફળ દ્રીઅંકી કારક અપેક્ષિત છે:
+xslt-load-blocked-error = XSLT સ્ટાઈલશીટ લાવવાનું સુરક્ષા કારણોસર અટકાવી દેવાયુ હતું.
+xpath-invalid-expression-evaluated = અયોગ્ય સમીકરણ ઉકેલી રહ્યા છીએ.
+xpath-unbalanced-curly-brace = અસંતુલિત વળાંકવાળો કૌંસ.
+xslt-bad-node-name = અયોગ્ય QName નામ સાથે ઘટક બનાવી રહ્યા છીએ.
+xslt-var-already-set = ચલ બંધન એ નમૂના ટેમ્પલેટમાં તેની સાથેનું ચલ બંધ પર પડછાયો પાડે છે.
+
+## Messages for the XML error page.
+##
+## Variables:
+##   $error (string) - the specific XSLT or XPath error (a translated string
+##   from the previous section)
+
