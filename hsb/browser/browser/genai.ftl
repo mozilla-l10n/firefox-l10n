@@ -141,6 +141,7 @@ genai-onboarding-lechat-learn = Zhońće wjace wo Le Chat
 genai-onboarding-select-header = Wubjerće tekst, zo byšće namjety widźał
 genai-onboarding-select-description = Hdyž tekst wuběraće, namjetujemy wam namołwy, kotrež móžeće na chatowy bot pósłać. Móžeće tež do swójskich namołwow pisać.
 genai-onboarding-select-primary = Chattować započeć
+genai-chatbot-contextual-button = Wubjerće chatbot
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

@@ -94,6 +94,8 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Ně, dźakuju so
 
 ## Perplexity callout strings
 
+perplexity-callout-secondary-label-1 = Zaćisnyć
+perplexity-callout-secondary-label-2 = Sym zrozumił
 
 ## Sidebar Strings
 

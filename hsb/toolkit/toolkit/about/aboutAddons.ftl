@@ -273,6 +273,7 @@ discopane-notice-recommendations = Někotre z tutych doporučenjow su personaliz
 discopane-notice-recommendations2 =
     .message = Někotre z tutych doporučenjow su personalizowane. Bazuja na rozšěrjenjach, kotrež sće instalował, profilowych nastajenjach a wužiwanskej statistice.
 discopane-notice-learn-more = Dalše informacije
+colorway-removal-notice-learn-more = Dalše informacije
 privacy-policy = Prawidła priwatnosće
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

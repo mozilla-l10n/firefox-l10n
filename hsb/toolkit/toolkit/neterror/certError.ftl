@@ -121,6 +121,7 @@ deniedPortAccess-title = Tuta adresa je wobmjezowana
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hm. Mamy problemy, te sydło namakać.
+internet-connection-offline-title = Zda so, zo je problem z wašim internetnym zwiskom.
 dns-not-found-trr-only-title2 = Móžne wěstotne riziko při hladanju do tuteje domeny
 dns-not-found-native-fallback-title2 = Móžne wěstotne riziko při hladanju do tuteje domeny
 fileNotFound-title = Dataja njeje so namakała
