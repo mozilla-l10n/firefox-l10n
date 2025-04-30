@@ -5,8 +5,28 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-network-error = เกิดข้อผิดพลาดเกี่ยวกับเครือข่ายในการโหลดสไตล์ชีต XSLT:
+xslt-wrong-mime-type = สไตล์ชีต XSLT ไม่มี XML mimetype:
+xslt-load-recursion = สไตล์ชีต XSLT นำเข้าหรือรวมตัวเองแบบโดยตรงหรือไม่โดยตรง:
 xpath-bad-argument-count = ฟังก์ชัน XPath ถูกเรียกด้วยจำนวนอาร์กิวเมนต์ที่ไม่ถูกต้อง
 xpath-bad-extension-function = ฟังก์ชันส่วนขยาย XPath ที่ไม่รู้จักถูกเรียก
+xpath-paren-expected = ความล้มเหลวในการแจงส่วน XPath: คาดหวัง ‘)’:
+xpath-invalid-axis = ความล้มเหลวในการแจงส่วน XPath: แกนไม่ถูกต้อง:
+xpath-no-node-type-test = ความล้มเหลวในการแจงส่วน XPath: คาดหวังการทดสอบชื่อหรือชนิดโหนด:
+xpath-bracket-expected = ความล้มเหลวในการแจงส่วน XPath: คาดหวัง ‘]’:
+xpath-invalid-var-name = ความล้มเหลวในการแจงส่วน XPath: ชื่อตัวแปรไม่ถูกต้อง:
+xpath-unexpected-end = ความล้มเหลวในการแจงส่วน XPath: จุดสิ้นสุดของนิพจน์ที่ไม่คาดคิด:
+xpath-operator-expected = ความล้มเหลวในการแจงส่วน XPath: คาดหวังตัวดำเนินการ:
+xpath-unclosed-literal = ความล้มเหลวในการแจงส่วน XPath: ไม่ได้ปิดสัญพจน์:
+xpath-bad-colon = ความล้มเหลวในการแจงส่วน XPath: ไม่ได้คาดหวัง ‘:’:
+xpath-bad-bang = ความล้มเหลวในการแจงส่วน XPath: ไม่ได้คาดหวัง ‘!’, นิเสธเป็น not():
+xpath-illegal-char = ความล้มเหลวในการแจงส่วน XPath: พบอักขระที่ผิดกฎ:
+xpath-binary-expected = ความล้มเหลวในการแจงส่วน XPath: คาดหวังตัวดำเนินการไบนารี:
+xslt-load-blocked-error = การโหลดสไตล์ชีต XSLT ถูกปิดกั้นเนื่องจากเหตุผลด้านความปลอดภัย
+xpath-invalid-expression-evaluated = กำลังประเมินนิพจน์ที่ไม่ถูกต้อง
+xpath-unbalanced-curly-brace = วงเล็บปีกกาไม่สมดุล
+xslt-bad-node-name = กำลังสร้างอิลิเมนต์ด้วย QName ที่ไม่ถูกต้อง
+xslt-var-already-set = Variable binding shadows variable binding within the same template.
 xslt-call-to-key-not-allowed = ไม่อนุญาตให้ทำการเรียกไปยังฟังก์ชัน key
 
 ## Messages for the XML error page.
