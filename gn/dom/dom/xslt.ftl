@@ -7,6 +7,27 @@
 
 xslt-network-error = Oiko jejavy ñanduti reheguáva henyhẽnguévo kuatiarogue mbohekoha XSLT:
 xslt-wrong-mime-type = Peteĩ mbohekoha XSLT kuatia ndoguerekói peteĩchagua MIME XML:
+xslt-load-recursion = Peteĩ mbohekoha XSLT kuatia ogueru térã omoinge pya’e téra ijyképe ijehete voi:
+xpath-bad-argument-count = Oñehenóima XPath rembiapoitépe peteĩ papapy je’ekuaaite oiko’ỹvape.
+xpath-bad-extension-function = Oñehenóima peteĩ XPath rembiapoite oiko’ỹva ojepysóva.
+xpath-paren-expected = Jejavy XPath ñehesa’ỹijópe: oñeha’ãrõkuri ‘)’:
+xpath-invalid-axis = Jejavy XPath ñehesa’ỹijópe: mbojereha ndoikóiva:
+xpath-no-node-type-test = Ojavy XPath ñehesa’ỹijo: oñeha’ãrõ téra ra’ãha térã mohendaha peteĩva (téra ýrõ Nodetype):
+xpath-bracket-expected = Jejavy XPath ñehesa’ỹijópe: oñeha’ãrõkuri ‘]’:
+xpath-invalid-var-name = Jejavy XPath ñehesa’ỹijópe: Moambueha réra ndoikóiva:
+xpath-unexpected-end = Jejavy XPath ñehesa’ỹijópe: je’epy paha oñeha’ãrõ’ỹva:
+xpath-operator-expected = Jejavy XPath ñehesa’ỹijópe: oñeha’ãrõkuri poruha:
+xpath-unclosed-literal = Jejavy XPath ñehesa’ỹijópe: ypyetegua noñembotýiva:
+xpath-bad-colon = Jejavy XPath ñehesa’ỹijópe: oñeha’ãrõ’ỹva ‘:’:
+xpath-bad-bang = Jejavy XPath ñehesa’ỹijópe: noñeha’ãrõiva ‘!’ (eiporu not() embotove hag̃ua:
+xpath-illegal-char = Jejavy XPath ñehesa’ỹijópe: ojejuhu mba’e imarãva:
+xpath-binary-expected = Jejavy XPath ñehesa’ỹijópe: oñeha’ãrõkuri poruha ikõiva:
+xslt-load-blocked-error = Ojejokóma ñemyanyhẽ peteĩ XSLT rogue tekorosãrã.
+xpath-invalid-expression-evaluated = Oñehesa’ỹijose peteĩ je’epy ndoikóiva.
+xpath-unbalanced-curly-brace = Pe’aha noñembotýiva.
+xslt-bad-node-name = Eñeha’ã emoheñói peteĩ mba’eporu QName ndoikóiva ndive.
+xslt-var-already-set = Moambueha joaju omoñemi ambue moambueha joaju kuatiaite ryepýpe.
+xslt-call-to-key-not-allowed = Ehenói tembiapoite oñemoneĩ’ỹvape.
 
 ## Messages for the XML error page.
 ##
@@ -14,3 +35,5 @@ xslt-wrong-mime-type = Peteĩ mbohekoha XSLT kuatia ndoguerekói peteĩchagua MI
 ##   $error (string) - the specific XSLT or XPath error (a translated string
 ##   from the previous section)
 
+xslt-loading-error = Oiko jejavy henyhẽnguévo kuatiarogue mbohekoha: { $error }
+xslt-transform-error = Jejavy oikóva ñemoambuete XSLT jave: { $error }
