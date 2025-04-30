@@ -5,6 +5,14 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = XSLT სტილის დამუშავება შეწყდა.
+xpath-parse-failure = XPath გამოსახულების დამუშავება შეწყდა.
+xslt-execution-failure = XSLT ტრანსფორმირება შეწყდა.
+xpath-unknown-function = XSLT/XPath მცდარი ფუნქცია.
+xslt-bad-recursion = XSLT სტილი (შესაძლოა) რეკურსიას შეიცავდეს.
+xslt-bad-value = XSLT 1.0 თვისების მცდარი მნიშვნელობა.
+xslt-nodeset-expected = XPath გამოსახულება უნდა იძლეოდეს NodeSet ტიპის მნიშვნელობას.
+xslt-aborted = XSLT ტრანსფორმირება შეწყვიტა – <xsl:message>.
 xslt-network-error = XSLT სტილების ცხრილის ჩატვირთვისას დაფიქსირდა ქსელის შეცდომა:
 xslt-wrong-mime-type = XSLT სტილი არ შეიცავს XML–ს MIME ტიპს:
 xslt-load-recursion = XSLT სტილი პირდაპირ ან ირიბად იმოწმებს ან შეიცავს თავის თავს:
@@ -28,6 +36,10 @@ xpath-unbalanced-curly-brace = გაუწონასწორებელი 
 xslt-bad-node-name = ელემენტის შექმნა არასწორი QName-ით.
 xslt-var-already-set = ცვლადის მიბმა ჩრდილავს ცვლადის სხვა მიბმას იგივე თარგში.
 xslt-call-to-key-not-allowed = ღილაკით დარეკვის ფუნქცია დაშვებული არაა.
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = დაიმზირება უცნობი შეცდომა ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
