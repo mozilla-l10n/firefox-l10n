@@ -5,6 +5,7 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-wrong-mime-type = XSLT 样式表未指定 XML mimetype：
 xslt-load-recursion = 某个 XSLT 样式表单直接或间接导入或者包含了自身。
 xpath-bad-argument-count = 某个XPath 函数调用参数个数错误。
 xpath-bad-extension-function = 调用了一个未知的XPath扩展函数。
