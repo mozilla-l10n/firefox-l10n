@@ -10,6 +10,7 @@ search-header =
 ## Variables
 ##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
+list-empty-get-extensions-message = Kumuha ng mga extension at mga tema sa <a data-l10n-name="get-extensions">{ $domain }</a>
 
 ##
 
@@ -26,6 +27,9 @@ list-empty-button =
 help-button = Suporta sa mga Add-on
 sidebar-help-button-title =
     .title = Suporta sa mga Add-on
+addons-settings-button = Mga Setting para sa { -brand-short-name }
+sidebar-settings-button-title =
+    .title = Mga Setting para sa { -brand-short-name }
 show-unsigned-extensions-button =
     .label = Ang ibang mga extension ay hindi kayang ma-verify
 show-all-extensions-button =
@@ -34,6 +38,8 @@ detail-version =
     .label = Bersyon
 detail-last-updated =
     .label = Huling In-update
+addon-detail-description-expand = Magpakita ng higit pa
+addon-detail-description-collapse = Magpakita ng mas kaunti
 detail-contributions-description = Hinihiling ang iyong suporta para sa pagpapatuloy ng development ng add-on na ito sa pamamagitan ng pagbibigay ng ano mang halaga ng kontribusyon.
 detail-contributions-button = Tumulong
     .title = Tumulong sa pagpapaunlad ng add-on na ito
@@ -291,6 +297,8 @@ dictionary-enabled-heading = Naka-enable
 dictionary-disabled-heading = Naka-disable
 locale-enabled-heading = Naka-enable
 locale-disabled-heading = Naka-disable
+sitepermission-enabled-heading = Naka-enable
+sitepermission-disabled-heading = Naka-disable
 always-activate-button = Palaging i-activate
 never-activate-button = Wag kailanman i-activate
 addon-detail-author-label = May-akda

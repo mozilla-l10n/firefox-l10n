@@ -85,6 +85,9 @@ perplexity-callout-theme-1-subtitle-1 = כדאי לנסות את Perplexity. י�
 perplexity-callout-theme-1-subtitle-2 = ניתן לשאול שאלות, ולקבלת תשובות מלאות ומצוטטות היטב. כדי לנסות את Perplexity, יש לבחור בו מכפתור החיפוש.
 perplexity-callout-theme-2-subtitle-1 = ניתן לשאול את Perplexity ולקבל תשובות מלאות, לרבות מקורות.
 perplexity-callout-theme-2-subtitle-2 = ניתן לשאול שאלות ולקבל תשובות מלאות ומצוטטות היטב.
+perplexity-callout-primary-label = לשאול את Perplexity
+perplexity-callout-secondary-label-1 = סגירה
+perplexity-callout-secondary-label-2 = הבנתי
 
 ## Sidebar Strings
 

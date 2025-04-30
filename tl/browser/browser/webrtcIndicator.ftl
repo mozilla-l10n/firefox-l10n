@@ -139,6 +139,7 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = Payagan ang { $origin } na makinig sa audio ng tab na ito?
 
 ## Special phrasing for sharing devices when the origin is a file url.
 

@@ -17,6 +17,18 @@ about-processes-shutdown-tab =
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
 
+about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-web-process = Shared Web Process ({ $pid })
+about-processes-file-process = Files ({ $pid })
+about-processes-extension-process = Extensions ({ $pid })
+about-processes-gmp-plugin-process = Gecko Media Plugins ({ $pid })
+about-processes-gpu-process = GPU ({ $pid })
+about-processes-vr-process = VR ({ $pid })
+about-processes-rdd-process = Data Decoder ({ $pid })
+about-processes-socket-process = Network ({ $pid })
+about-processes-remote-sandbox-broker-process = Remote Sandbox Broker ({ $pid })
+about-processes-fork-server-process = Fork Server ({ $pid })
+about-processes-preallocated-process = Preallocated ({ $pid })
 
 ## Isolated process names
 ## Variables:

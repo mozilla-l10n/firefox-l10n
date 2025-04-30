@@ -12,8 +12,10 @@ perftools-intro-title = Mga Setting ng Profiler
 ## All of the headings for the various sections.
 
 perftools-heading-features = Mga Katangian
+perftools-heading-features-experimental = Experimental
 perftools-heading-threads = Mga Thread
 perftools-heading-threads-jvm = Mga JVM Thread
+perftools-heading-local-build = Local build
 
 ##
 

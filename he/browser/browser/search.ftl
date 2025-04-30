@@ -38,6 +38,8 @@ remove-search-engine-button = אישור
 ## Variables
 ## $newEngine (String) - the name of the new default search engine.
 
+reset-search-settings-message = עקב בעיה טכנית, מנוע החיפוש המוגדר כברירת מחדל שלך שונה בחזרה ל־{ $newEngine }. כדי לשנות את מנוע החיפוש ברירת המחדל, יש לעבור להגדרות.
+reset-search-settings-button = אישור
 
 ## Infobar shown when user is prompted to install search engine.
 ## Variables

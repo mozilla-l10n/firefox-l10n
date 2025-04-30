@@ -15,6 +15,12 @@ screenshots-download-button = i-Download
 screenshots-download-button-tooltip = I-download ang screenshot
 screenshots-copy-button = Kopyahin
 screenshots-copy-button-tooltip = Kopyahin ang screenshot sa clipboard
+screenshots-download-button-title =
+    .title = I-download ang screenshot
+screenshots-copy-button-title =
+    .title = Kopyahin ang screenshot sa clipboard
+screenshots-retry-button-title =
+    .title = Subukan ulit ang screenshot
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
@@ -36,6 +42,7 @@ screenshots-private-window-error-title = Naka-disable ang { -screenshots-brand-n
 screenshots-private-window-error-details = Pasensya na sa abala. Inaayos namin ang feature na ito para sa mga susunod na release.
 screenshots-generic-error-title = Aba! Nagkagulo na sa { -screenshots-brand-name }.
 screenshots-generic-error-details = Hindi kami sigurado kung ano ang nangyari. Nais mo bang subukan uli o kumuha ng shot ng ibang pahina?
+screenshots-too-large-error-title = Ang iyong screenshot ay na-crop dahil ito ay masyadong malaki
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
