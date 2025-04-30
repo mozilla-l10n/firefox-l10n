@@ -5,6 +5,9 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-network-error = שגיאת רשת אירעה במהלך טעינת גיליון סגנון XSLT:
+xslt-wrong-mime-type = לגיליון סגנון XSLT אין סוג MIME‏ XML:
+xslt-load-recursion = גיליון סגנון XSLT מייבא או מכליל את עצמו באופן ישיר או עקיף:
 xpath-bad-argument-count = פונקציית XPath נקראה עם מספר שגוי של פרמטרים.
 xpath-bad-extension-function = הרחבת XPath לא מוכרת נקראה.
 xpath-paren-expected = כישלון בפריסת XPath: צפוי '(':
@@ -20,6 +23,10 @@ xpath-bad-bang = כישלון בפריסת XPath: צפוי '!', שלילה הי�
 xpath-illegal-char = כישלון בפריסת XPath: נמצא תו לא חוקי:
 xpath-binary-expected = כישלון בפריסת XPath: צפוי אופרטור בינארי:
 xslt-load-blocked-error = טעינת גיליון סגנון XSLT נחסמה מטעמי אבטחה.
+xpath-invalid-expression-evaluated = הערכת ביטוי שגוי.
+xpath-unbalanced-curly-brace = כמות אי־זוגית של סוגרים מסולסלים.
+xslt-bad-node-name = יצירת רכיב בעל QName שגוי.
+xslt-var-already-set = Variable binding shadows variable binding within the same template.
 
 ## Messages for the XML error page.
 ##
