@@ -272,6 +272,7 @@ discopane-notice-recommendations2 =
     .message = Heta ko’ã ñe’ẽporã ha’e ñemomba’epyre. Ojehecha ambue jepysokue ñemohendapyre, ne mba’ete erohoryvéva ha ijeporukue.
 discopane-notice-learn-more = Kuaave
 colorway-removal-notice-learn-more = Eikuaave
+colorway-removal-notice-button = Ereko téma sa’y ojuehegua ag̃agua rehegua
 privacy-policy = Temiñemi porureko
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
