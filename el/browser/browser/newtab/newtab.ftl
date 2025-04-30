@@ -557,3 +557,5 @@ newtab-report-content-spam-misleading =
     .label = Ανεπιθύμητο ή παραπλανητικό
 newtab-report-cancel = Ακύρωση
 newtab-report-submit = Υποβολή
+newtab-toast-thanks-for-reporting =
+    .message = Ευχαριστούμε για την αναφορά σας.

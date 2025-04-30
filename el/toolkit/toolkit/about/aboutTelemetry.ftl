@@ -91,7 +91,7 @@ about-telemetry-results-for-search = Αποτελέσματα για “{ $searc
 # Variables:
 #   $sectionName (string) - The section name from the structure of the ping.
 #   $currentSearchText (string) - The current text in the search input
-about-telemetry-no-search-results = Συγγνώμη! Δεν υπάρχουν αποτελέσματα στην ενότητα “{ $sectionName }” για “{ $currentSearchText }”
+about-telemetry-no-search-results = Συγγνώμη! Δεν υπάρχουν αποτελέσματα στην ενότητα «{ $sectionName }» για «{ $currentSearchText }»
 # Variables:
 #   $searchTerms (string) - The searched terms
 about-telemetry-no-search-results-all = Λυπούμαστε! Δεν υπάρχουν αποτελέσματα σε κανένα τμήμα για “{ $searchTerms }”
