@@ -27,6 +27,7 @@ xpath-invalid-expression-evaluated = Вычисление неправильно
 xpath-unbalanced-curly-brace = Несбалансированность фигурных скобок.
 xslt-bad-node-name = Создание элемента с неправильным QName.
 xslt-var-already-set = Перекрытие имен переменных в пределах одного шаблона.
+xslt-call-to-key-not-allowed = Вызов ключевой функции не разрешён.
 
 ## Messages for the XML error page.
 ##
@@ -34,3 +35,5 @@ xslt-var-already-set = Перекрытие имен переменных в п�
 ##   $error (string) - the specific XSLT or XPath error (a translated string
 ##   from the previous section)
 
+xslt-loading-error = Ошибка загрузки таблицы стилей: { $error }
+xslt-transform-error = Ошибка при XSLT преобразовании: { $error }
