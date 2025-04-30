@@ -27,6 +27,7 @@ xpath-invalid-expression-evaluated = Izvajanje neveljavnega izraza.
 xpath-unbalanced-curly-brace = Nezaprt zavit oklepaj.
 xslt-bad-node-name = Ustvarjanje elementa z neveljavnim QName.
 xslt-var-already-set = Povezovanje spremenljivke odraža povezovanje spremenljivke znotraj iste predloge.
+xslt-call-to-key-not-allowed = Klic ključne funkcije ni dovoljen.
 
 ## Messages for the XML error page.
 ##
@@ -34,3 +35,5 @@ xslt-var-already-set = Povezovanje spremenljivke odraža povezovanje spremenljiv
 ##   $error (string) - the specific XSLT or XPath error (a translated string
 ##   from the previous section)
 
+xslt-loading-error = Napaka pri nalaganju slogovne predloge: { $error }
+xslt-transform-error = Napaka pri transformaciji XSLT: { $error }
