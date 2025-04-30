@@ -5,6 +5,14 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = XSLT stil dosyası ayrıştırma hatası oluştu.
+xpath-parse-failure = XPath ifadesinin ayrıştırılmasında hata oluştu.
+xslt-execution-failure = XSLT dönüşümü hatalı.
+xpath-unknown-function = Geçersiz XSLT/XPath fonksiyonu.
+xslt-bad-recursion = XSLT stil dosyası (muhtemelen) bir özyineleme içeriyor.
+xslt-bad-value = XSLT 1.0 içindeki öznitelik değeri geçersiz.
+xslt-nodeset-expected = Bir XPath ifadesinin bir NodeSet döndürmesi bekleniyordu.
+xslt-aborted = XSLT dönüşümü <xsl:message> tarafından sonlandırıldı.
 xslt-network-error = XSLT stil dosyası yüklenmesinde bir ağ hatası oluştu:
 xslt-wrong-mime-type = XSLT stil dosyası için belirtilen bir XML mimetype’ı yok:
 xslt-load-recursion = Bir XSLT stil dosyası doğrudan veya dolaylı olarak kendini içe aktarıyor veya içeriyor:
@@ -28,6 +36,10 @@ xpath-unbalanced-curly-brace = Dengesiz küme parantezi.
 xslt-bad-node-name = Geçersiz QName sahibi bir bileşen yaratılıyor.
 xslt-var-already-set = Aynı şablondaki değişken bağlama, değişken bağlamayı gölgeliyor.
 xslt-call-to-key-not-allowed = Anahtar işleve çağrı yapılamaz.
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = Bilinmeyen bir hata oluştu ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
