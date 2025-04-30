@@ -267,7 +267,15 @@ discopane-notice-recommendations = Parte de iste recommendationes es personalisa
 discopane-notice-recommendations2 =
     .message = Parte de iste recommendationes es personalisate. Illos basate sur preferentias de profilo e statistica de uso de altere extensiones que tu ha installate.
 discopane-notice-learn-more = Saper plus
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = Tu thema(s) de combination de colores era removite.
+    .message =
+        	{ -brand-product-name } actualisava su collection de combinationes de colores. Nos removeva
+        
+        le version(es) vetere del tu lista de “Themas salvate”. Obtene nove versiones sur le sito del additivos.
 colorway-removal-notice-learn-more = Pro saper plus
+colorway-removal-notice-button = Obtene themas de combination de colores actualisate
 privacy-policy = Politica de confidentialitate
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

@@ -344,6 +344,10 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Προβολή προσθέτων
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = επεκτάσεις, θέματα, πρόσθετα, addons, add-ons
 quickactions-cmd-addons2 = πρόσθετα, add-ons
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Διαχείριση σελιδοδεικτών
@@ -384,6 +388,7 @@ quickactions-print2 = Εκτύπωση σελίδας
 quickactions-cmd-print = εκτύπωση
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Αποθήκευση σελίδας ως PDF
+quickactions-cmd-savepdf2 = pdf, αποθήκευση σελίδας
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Άνοιγμα ιδιωτικού παραθύρου
@@ -400,6 +405,8 @@ quickactions-cmd-screenshot2 = στιγμιότυπο, στιγμιότυπο ο
 quickactions-cmd-screenshot = στιγμιότυπο, στιγμιότυπο οθόνης, screenshot
 # Opens about:preferences
 quickactions-settings2 = Διαχείριση ρυθμίσεων
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = ρυθμίσεις, προτιμήσεις, επιλογές, διαχείριση
 quickactions-cmd-settings = ρυθμίσεις, προτιμήσεις, επιλογές
 # Opens about:addons page in the themes section
 quickactions-themes = Διαχείριση θεμάτων
@@ -1250,3 +1257,4 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = Ολοκλήρωση ρύθμισης

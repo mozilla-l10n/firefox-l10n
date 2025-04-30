@@ -137,6 +137,8 @@ genai-onboarding-lechat-learn = Saper plus re Le Chat
 genai-onboarding-select-header = Seliger texto pro vider suggestiones
 genai-onboarding-select-description = Quando tu selige texto, nos suggerera le suggestiones que tu potera inviar al chatbot. Tu alsi pote inscriber tu proprie suggestiones.
 genai-onboarding-select-primary = Initia a chattar
+genai-chatbot-contextual-title = Usa un robot confabulator IA sin mutar schedas
+genai-chatbot-contextual-subtitle = Chatta e naviga latere a latere addente un robot confabulator IA in le barra lateral de { -brand-short-name }.
 genai-chatbot-contextual-button = Elige un robot confabulator
 
 ## Chatbot onboarding choices
@@ -171,3 +173,15 @@ genai-model-optin-cancel =
 
 ## Link previews
 
+# ‘min’ is short for “minute”
+# ‘mins’ is short for “minutes”
+# An estimate for how long it takes to read an article,
+# expressed as a range covering both slow and fast readers.
+# Variables:
+#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
+#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
+link-preview-reading-time =
+    { $rangePlural ->
+        [one] Tempore de lectura { $range } minuta
+       *[other] Tempore de lectura { $range } minutas
+    }

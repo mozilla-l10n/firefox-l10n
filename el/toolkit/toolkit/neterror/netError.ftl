@@ -54,6 +54,8 @@ neterror-dns-not-found-hint-header = <strong>Εάν πληκτρολογήσατ
 neterror-dns-not-found-hint-try-again = Δοκιμάσετε ξανά αργότερα
 neterror-dns-not-found-hint-check-network = Ελέγξετε τη σύνδεσή σας στο δίκτυο
 neterror-dns-not-found-hint-firewall = Ελέγξετε εάν το { -brand-short-name } έχει άδεια πρόσβασης στο διαδίκτυο (ενδέχεται να έχετε συνδεθεί, αλλά μέσω τείχους προστασίας)
+neterror-dns-not-found-offline-hint-header = <strong>Τι μπορείτε να κάνετε γι' αυτό;</strong>
+neterror-dns-not-found-offline-hint-different-device = Δοκιμάστε να συνδεθείτε από κάποια άλλη συσκευή.
 
 ## TRR-only specific messages
 ## Variables:

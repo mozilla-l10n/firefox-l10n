@@ -10,6 +10,7 @@ preonboarding-subtitle = Continuante, tu accepta le Conditiones de uso { -brand-
 preonboarding-primary-cta = Confirmar e continuar
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Gere le parametros de collecta de datos e lege nostre Conditiones de uso e Aviso de confidentialitate
+preonboarding-manage-and-read-header-v2 = Lege le Conditiones de uso e le Aviso de confidentialitate. Gere altere parametros.
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Leger nostre Conditiones de uso
 # Label for header style button that toggles showing the Privacy Notice
@@ -18,6 +19,7 @@ preonboarding-privacy-notice-header-button-title = Lege nostre aviso de confiden
 preonboarding-manage-data-header-button-title = Gerer datos diagnostic e de interaction
 # Labels for header style button that toggles showing the Terms of Use (Variant B)
 preonboarding-terms-of-use-header-button-title-b = Conditiones de uso de { -brand-product-name }
+preonboarding-terms-of-use-header-button-title-b-v2 = Conditiones de uso
 # Labels for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = Aviso de confidentialitate de { -brand-product-name }
 preonboarding-privacy-notice-header-button-title-b-v2 = Aviso de confidentialitate

@@ -279,6 +279,7 @@ discopane-notice-recommendations2 =
         Μερικές από αυτές τις προτάσεις είναι εξατομικευμένες. Βασίζονται σε άλλες
         επεκτάσεις που έχετε εγκαταστήσει, σε προτιμήσεις προφίλ και σε στατιστικά χρήσης.
 discopane-notice-learn-more = Μάθετε περισσότερα
+colorway-removal-notice-learn-more = Μάθετε περισσότερα
 privacy-policy = Πολιτική απορρήτου
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

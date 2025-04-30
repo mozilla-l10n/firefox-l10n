@@ -18,8 +18,10 @@ preonboarding-privacy-notice-header-button-title = Διαβάστε τη Σημ�
 preonboarding-manage-data-header-button-title = Διαχείριση διαγνωστικών δεδομένων και δεδομένων αλληλεπίδρασης
 # Labels for header style button that toggles showing the Terms of Use (Variant B)
 preonboarding-terms-of-use-header-button-title-b = Όροι χρήσης του { -brand-product-name }
+preonboarding-terms-of-use-header-button-title-b-v2 = Όροι χρήσης
 # Labels for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = Σημείωση απορρήτου του { -brand-product-name }
+preonboarding-privacy-notice-header-button-title-b-v2 = Σημείωση απορρήτου
 # Description under label for header style buttons
 preonboarding-header-button-description = Διαβάστε περισσότερα
 # New user onboarding checklist
