@@ -6,6 +6,8 @@
 ## XSLT and XPath specific errors.
 
 xslt-network-error = XSLT stil dosyası yüklenmesinde bir ağ hatası oluştu:
+xpath-bad-extension-function = Bilinmeyen bir XPath uzantı fonksiyonu çağrıldı.
+xpath-paren-expected = XPath işleme hatası: ‘)’ bekleniyordu:
 xpath-invalid-axis = XPath işleme hatası: geçersiz eksen:
 xpath-no-node-type-test = XPath işleme hatası: İsim veya Nodetype testi bekleniyordu:
 xpath-bracket-expected = XPath işleme hatası: ‘]’ bekleniyordu:
