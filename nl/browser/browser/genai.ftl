@@ -135,6 +135,7 @@ genai-onboarding-lechat-learn = Meer info over Le Chat
 genai-onboarding-select-header = Selecteer tekst om suggesties te zien
 genai-onboarding-select-description = Wanneer u tekst selecteert, stellen we vragen voor die u naar de chatbot kunt sturen. U kunt ook uw eigen vragen stellen.
 genai-onboarding-select-primary = Beginnen met chatten
+genai-chatbot-contextual-title = Gebruik een AI-chatbot zonder van tabblad te wisselen
 genai-chatbot-contextual-subtitle = Chat en surf naast elkaar wanneer u een AI-chatbot toevoegt in de zijbalk van { -brand-short-name }.
 genai-chatbot-contextual-button = Kies een chatbot
 
