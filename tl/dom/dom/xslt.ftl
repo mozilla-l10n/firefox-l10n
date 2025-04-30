@@ -5,6 +5,24 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-network-error = A network error occurred loading an XSLT stylesheet:
+xslt-wrong-mime-type = Walang XML mimetype ang isang XSLT stylesheet:
+xslt-load-recursion = An XSLT stylesheet directly or indirectly imports or includes itself:
+xpath-bad-argument-count = An XPath function was called with the wrong number of arguments.
+xpath-bad-extension-function = An unknown XPath extension function was called.
+xpath-paren-expected = XPath parse failure: ‘)’ expected:
+xpath-invalid-axis = XPath parse failure: invalid axis:
+xpath-no-node-type-test = XPath parse failure: Name or Nodetype test expected:
+xpath-bracket-expected = XPath parse failure: ‘]’ expected:
+xpath-invalid-var-name = XPath parse failure: invalid variable name:
+xpath-unexpected-end = XPath parse failure: unexpected end of expression:
+xpath-operator-expected = XPath parse failure: operator expected:
+xpath-unclosed-literal = XPath parse failure: unclosed literal:
+xpath-bad-colon = XPath parse failure: ‘:’ unexpected:
+xpath-bad-bang = XPath parse failure: ‘!’ unexpected, negation is not():
+xpath-illegal-char = XPath parse failure: illegal character found:
+xpath-binary-expected = XPath parse failure: binary operator expected:
+xslt-load-blocked-error = An XSLT stylesheet load was blocked for security reasons.
 xpath-invalid-expression-evaluated = Pag-evaluate ng di-wastong pagpapahayag.
 xpath-unbalanced-curly-brace = Unbalanced curly brace.
 xslt-bad-node-name = Creating an element with an invalid QName.
