@@ -5,6 +5,17 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-network-error = Der opstod en netværksfejl under indlæsning af et XSLT-stylesheet:
+xslt-wrong-mime-type = Et XSLT-stylesheet har ikke en XML mimetype:
+xslt-load-recursion = Et XSLT-stylesheet inkluderer sig selv (direkte eller indirekte):
+xpath-bad-argument-count = En XPath-funktion blev kaldt med det forkerte antal argumenter.
+xpath-bad-extension-function = En ukendt XPath-udvidelsesfunktion blev kaldt.
+xpath-paren-expected = XPath fortolkningsfejl: ')' forventede:
+xpath-invalid-axis = XPath fortolkningsfejl: ugyldig akse:
+xpath-no-node-type-test = XPath fortolkningsfejl: Name eller Nodetype test forventet:
+xpath-bracket-expected = XPath fortolkningsfejl: ']' forventet:
+xpath-invalid-var-name = XPath fortolkningsfejl: ugyldigt variabelnavn:
+xpath-unexpected-end = XPath fortolkningsfejl: uventet afslutning af udtrykket:
 xpath-operator-expected = XPath fortolkningsfejl: operator forventet:
 xpath-unclosed-literal = XPath fortolkningsfejl: ulukket literal:
 xpath-bad-colon = XPath fortolkningsfejl: ':' uventet:
