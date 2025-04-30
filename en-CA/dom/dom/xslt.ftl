@@ -5,6 +5,23 @@
 
 ## XSLT and XPath specific errors.
 
+xpath-paren-expected = XPath parse failure: “)” expected:
+xpath-invalid-axis = XPath parse failure: invalid axis:
+xpath-no-node-type-test = XPath parse failure: Name or Nodetype test expected:
+xpath-bracket-expected = XPath parse failure: “]” expected:
+xpath-invalid-var-name = XPath parse failure: invalid variable name:
+xpath-unexpected-end = XPath parse failure: unexpected end of expression:
+xpath-operator-expected = XPath parse failure: operator expected:
+xpath-unclosed-literal = XPath parse failure: unclosed literal:
+xpath-bad-colon = XPath parse failure: “:” unexpected:
+xpath-bad-bang = XPath parse failure: “!“ unexpected, negation is not():
+xpath-illegal-char = XPath parse failure: illegal character found:
+xpath-binary-expected = XPath parse failure: binary operator expected:
+xslt-load-blocked-error = An XSLT stylesheet load was blocked for security reasons.
+xpath-invalid-expression-evaluated = Evaluating an invalid expression.
+xpath-unbalanced-curly-brace = Unbalanced curly brace.
+xslt-bad-node-name = Creating an element with an invalid QName.
+xslt-var-already-set = Variable binding shadows variable binding within the same template.
 xslt-call-to-key-not-allowed = Call to the key function not allowed.
 
 ## Messages for the XML error page.
