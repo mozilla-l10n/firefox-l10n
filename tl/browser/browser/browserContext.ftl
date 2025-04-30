@@ -366,3 +366,6 @@ main-context-menu-eme-learn-more =
 main-context-menu-open-link-in-container-tab =
     .label = Buksan ang Link sa Bagong { $containerName } Tab.
     .accesskey = T
+main-context-menu-reveal-password =
+    .label = Ipakita ang Password
+    .accesskey = v

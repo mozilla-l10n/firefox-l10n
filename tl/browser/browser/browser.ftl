@@ -48,6 +48,9 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+# The non-variable portion of this MUST match the translation of
+# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
+private-browsing-shortcut-text-2 = { -brand-shortcut-name } Pribadong Pagba-browse
 
 ##
 
@@ -87,7 +90,7 @@ urlbar-password-notification-anchor =
 urlbar-plugins-notification-anchor =
     .tooltiptext = Pangasiwaan ang paggamit ng plug-in
 urlbar-web-rtc-share-devices-notification-anchor =
-    .tooltiptext = Pangasiwaan ang pag-bahagi ng iyong kodak at/o mikropono sa site
+    .tooltiptext = I-manage ang pag-share ng iyong kamera at/o mikropono sa site
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Buksan ang panel ng autoplay
 urlbar-persistent-storage-notification-anchor =
@@ -97,6 +100,7 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = Humingi ng tulong
 urlbar-search-tips-confirm = OK, nakuha ko
+urlbar-search-tips-confirm-short = Nakuha ko
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.
@@ -218,11 +222,58 @@ search-one-offs-tabs =
     .tooltiptext = Mga Tab ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Kasaysayan ({ $restrict })
+search-one-offs-actions =
+    .tooltiptext = Mga Aksyon ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+# Opens the about:addons page in the home / recommendations section
+quickactions-addons = Tingnan ang mga add-on
+quickactions-cmd-addons2 = mga add-on
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Pamahalaan ang mga bookmark
+quickactions-cmd-bookmarks = mga bookmark
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Burahin ang Kasaysayan
+quickactions-cmd-clearhistory = burahin ang kasaysayan
+# Opens about:downloads page
+quickactions-downloads2 = Tingnan ang mga download
+quickactions-cmd-downloads = mga download
+# Opens about:addons page in the extensions section
+quickactions-extensions = Pamahalaan ang mga extension
+quickactions-cmd-extensions = mga extension
+# Opens the devtools web inspector
+quickactions-inspector2 = Buksan ang Developer Tools
+quickactions-cmd-inspector = inspektor, devtools
+# Opens about:logins
+quickactions-logins2 = Pamahalaan ang mga password
+quickactions-cmd-logins = mga login, password
+# Opens about:addons page in the plugins section
+quickactions-plugins = Pamahalaan ang mga plugin
+quickactions-cmd-plugins = mga plugin
+# Opens the print dialog
+quickactions-print2 = I-print ang pahina
+quickactions-cmd-print = i-print
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = I-save ang pahina bilang PDF
+quickactions-cmd-savepdf = pdf
+# Opens a new private browsing window
+quickactions-private2 = Magbukas ng pribadong window
+quickactions-cmd-private = pribadong pagba-browse
+# Opens a SUMO article explaining how to refresh
+quickactions-refresh = I-refresh ang { -brand-short-name }
+quickactions-cmd-refresh = i-refresh
+# Restarts the browser
+quickactions-restart = I-restart ang { -brand-short-name }
+quickactions-cmd-restart = i-restart
+# Opens the screenshot tool
+quickactions-screenshot3 = Kumuha ng screenshot
+quickactions-cmd-screenshot = screenshot
+# Opens about:preferences
+quickactions-settings2 = Pamahalaan ang mga setting
+quickactions-cmd-settings = mga setting, kagustuhan, opsyon
 
 ## Bookmark Panel
 
@@ -378,6 +429,9 @@ popup-select-microphone-icon =
     .tooltiptext = Mikropono
 popup-select-speaker-icon =
     .tooltiptext = Mga Speaker
+popup-select-window-or-screen =
+    .label = Window o screen:
+    .accesskey = W
 popup-all-windows-shared = Lahat ng nakikitang window sa iyong screen ay ibabahagi.
 
 ## WebRTC window or screen share tab switch warning
@@ -391,6 +445,7 @@ sharing-warning-disable-for-session =
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description2 = Para magamit ang F12 shortcut, buksan muna ang DevTools sa menu ng Browser Tools.
 
 ## URL Bar
 
@@ -469,6 +524,13 @@ urlbar-result-action-search-w-engine = Maghanap gamit ang { $engine }
 urlbar-result-action-sponsored = Sponsored
 urlbar-result-action-switch-tab = Lumipat sa Tab
 urlbar-result-action-visit = Puntahan
+# "Switch to tab with container" is used when the target tab is located in a
+# different container.
+# Variables
+# $container (String): the name of the target container
+urlbar-result-action-switch-tab-with-container = Lumipat sa Tab · <span>{ $container }</span>
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-clipboard = Bisitahin mula sa clipboard
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
@@ -520,6 +582,11 @@ urlbar-result-action-search-tabs = Hanapin sa mga Tab
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
+# A label shown above the recent searches group in the urlbar results.
+# Variables
+#  $engine (String): the name of the search engine used to search.
+urlbar-group-recent-searches =
+    .label = Mga Hinahanap Kamakailan
 
 ## Reader View toolbar buttons
 
@@ -534,6 +601,8 @@ reader-view-close-button =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+picture-in-picture-urlbar-button-open =
+    .tooltiptext = Buksan ang Picture-in-Picture ({ $shortcut })
 
 ## Full Screen and Pointer Lock UI
 
