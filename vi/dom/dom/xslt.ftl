@@ -5,6 +5,14 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = Thất bại khi phân tích một stylesheet XSLT.
+xpath-parse-failure = Thất bại khi phân tích một biểu thức XPath.
+xslt-execution-failure = Thất bại khi chuyển đổi XSLT.
+xpath-unknown-function = Sai hàm XSLT/XPath.
+xslt-bad-recursion = Bảng kiểu XSLT (có thể) chứa đệ qui.
+xslt-bad-value = Giá trị thuộc tính không hợp lệ trong XSLT 1.0.
+xslt-nodeset-expected = Cần một biểu thức XPath để trả lại một NodeSet.
+xslt-aborted = Chuyển đổi XSLT bị hủy bỏ bởi <xsl:message>.
 xslt-network-error = Một lỗi mạng đã xảy ra khi tải một bảng kiểu XSLT:
 xslt-wrong-mime-type = Một stylesheet XSLT không chứa kiểu mime XML:
 xslt-load-recursion = Một stylesheet XSLT nhập trực tiếp hoặc gián tiếp hoặc chứa chính nó:
@@ -28,6 +36,10 @@ xpath-unbalanced-curly-brace = Dấu ngoặc ôm không cân bằng.
 xslt-bad-node-name = Đang tạo một phần tử với QName bất hợp lệ.
 xslt-var-already-set = Gắn kết biến che đậy gắn kết biến trong cùng khuôn mẫu.
 xslt-call-to-key-not-allowed = Không có quyền gọi hàm chính.
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = Không xác định được lỗi gì đã xảy ra ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
