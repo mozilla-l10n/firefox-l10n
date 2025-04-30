@@ -25,8 +25,8 @@ pocket-panel-saved-removed-updated = Tinanggal ang Pahina sa Mga Naka-save
 pocket-panel-saved-processing-tags = Dinadagdagan ang tanda...
 pocket-panel-saved-remove-page = Alisin ang Pahina
 pocket-panel-saved-save-tags = I-save
-pocket-panel-saved-saving-tags = Nagsasave…
-pocket-panel-saved-suggested-tags = Iminungkahing Tanda
+pocket-panel-saved-saving-tags = Nagse-save…
+pocket-panel-saved-suggested-tags = Iminumungkahing Mga Tag
 pocket-panel-saved-tags-saved = Tags Naidagdag
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Magdagdag ng mga Tag:
@@ -34,7 +34,7 @@ pocket-panel-signup-add-tags = Magdagdag ng mga Tag:
 ## about:pocket-signup panel
 
 pocket-panel-signup-already-have = Gumagamit ka na ba ng { -pocket-brand-name }?
-pocket-panel-signup-learn-more = Alamin pa
+pocket-panel-signup-learn-more = Alamin
 pocket-panel-signup-login = Mag-log in
 pocket-panel-signup-signup-email = Mag-sign up gamit ang email
 pocket-panel-signup-signup-cta = Mag-sign up para sa { -pocket-brand-name }. Ito ay libre.
@@ -42,14 +42,12 @@ pocket-panel-signup-signup-firefox = Mag-sign up sa { -brand-product-name }
 pocket-panel-signup-tagline = Mag-save ng mga artikulo at video mula sa { -brand-product-name } para makita sa { -pocket-brand-name } sa anumang device, anumang oras.
 pocket-panel-signup-tagline-story-one = Pindutin ang { -pocket-brand-name } Button para ma-save ang kahit anong artikulo, video o pahina mula sa { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Tingnan sa { -pocket-brand-name } sa anumang device, anumang oras.
-pocket-panel-signup-cta-a-fix = Iyong save button para sa internet.
 
 ## about:pocket-home panel
 
 pocket-panel-home-welcome-back = Maligayang Pagbabalik
 pocket-panel-home-paragraph = Maaari mong gamitin ang { -pocket-brand-name } upang saliksikin at i-save ang mga webpage, artikulo, video, podcast, o makabalik sa binabasa mo.
 pocket-panel-home-explore-popular-topics = Saliksikin ang Mga Patok na Paksa
-pocket-panel-home-discover-more = Magtuklas Pa
 pocket-panel-home-explore-more = Magsaliksik
 pocket-panel-home-most-recent-saves = Narito ang iyong pinakabagong mga pag-save:
 pocket-panel-home-new-user-message = Tingnan ang iyong kamakailang pag-save dito.

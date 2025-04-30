@@ -256,7 +256,9 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
 
 about-logins-confirm-export-dialog-title = Mag-export ng mga login at password
 about-logins-confirm-export-dialog-message = Mase-save ang mga password mo bilang readable text (hal., PangitNaP@ssw0rd) kaya pwede itong makita ng kahit sinong makakapagbukas ng na-export na file.
-about-logins-confirm-export-dialog-confirm-button = i-Export…
+about-logins-confirm-export-dialog-confirm-button = I-export…
+about-logins-confirm-export-dialog-title2 = Isang tala tungkol sa pag-export ng mga password
+about-logins-confirm-export-dialog-confirm-button2 = Magpatuloy sa pag-export
 about-logins-alert-import-title = Kumpleto na ang Pag-import
 about-logins-alert-import-message = Tingnan ang detalyadong Buod ng Pag-import
 confirm-discard-changes-dialog-title = Itapon ang mga hindi nai-save na pagbabago?
@@ -303,7 +305,7 @@ about-logins-export-file-picker-title2 = I-export ang Mga Password mula sa { -br
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename2 = passwords.csv
-about-logins-export-file-picker-export-button = i-Export
+about-logins-export-file-picker-export-button = I-export
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 about-logins-export-file-picker-csv-filter-title =
@@ -315,10 +317,10 @@ about-logins-export-file-picker-csv-filter-title =
 ## Login Import Dialog
 
 # Title of the file picker dialog
-about-logins-import-file-picker-title = Kunin ang Logins File
+about-logins-import-file-picker-title = I-import ang Logins File
 # Title of the file picker dialog
 about-logins-import-file-picker-title2 = Mag-import ng mga Password sa { -brand-short-name }
-about-logins-import-file-picker-import-button = i-Import
+about-logins-import-file-picker-import-button = I-import
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 about-logins-import-file-picker-csv-filter-title =
@@ -372,7 +374,7 @@ about-logins-import-dialog-error-file-permission-description = Walang pahintulot
 about-logins-import-dialog-error-unable-to-read-title = Hindi Mabasa ang File
 about-logins-import-dialog-error-unable-to-read-description = Tiyaking nakapili ka ng isang CSV o TSV file.
 about-logins-import-dialog-error-no-logins-imported = Walang na-import na mga login
-about-logins-import-dialog-error-learn-more = Karagdagang kaalaman
+about-logins-import-dialog-error-learn-more = Alamin
 about-logins-import-dialog-error-try-import-again = Subukan Muling Mag-import…
 about-logins-import-dialog-error-cancel = Ikansela
 about-logins-import-report-title = Buod ng Pag-import
@@ -385,8 +387,9 @@ about-logins-import-report-row-index = Hanay { $number }
 about-logins-import-report-row-description-no-change = Magkapareho: Eksaktong tugma ng umiiral na login
 about-logins-import-report-row-description-modified = Binago ang umiiral na login
 about-logins-import-report-row-description-added = Nadagdag ang bagong login
+about-logins-import-report-row-description-no-change2 = Duplicate: Eksaktong tugma ng kasalukuyang entry
 about-logins-import-report-row-description-added2 = Naidagdag na ang bagong password
-about-logins-import-report-row-description-error = Error: Nawawalang patlang
+about-logins-import-report-row-description-error = Error: Nawawalang field
 
 ##
 ## Variables:

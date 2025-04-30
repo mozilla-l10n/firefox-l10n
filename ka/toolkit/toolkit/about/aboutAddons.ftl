@@ -281,6 +281,15 @@ discopane-notice-recommendations2 =
         შემოთავაზებების ნაწილი მორგებულია თქვენზე. ითვალისწინებს თქვენ მიერ
         დაყენებულ სხვა გაფართოებებს, პროფილის პარამეტრებსა და გამოყენების სიხშირეს.
 discopane-notice-learn-more = ვრცლად
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = თქვენი შეფერილობის თემა(ები) წაიშალა.
+    .message =
+        { -brand-product-name } აახლებს შეფერილობების კრებულს. მოცილებულია
+        მოძველებული ვერსიები თქვენი „შენახული თემებიდან“. ახლების მისაღებად კი ეწვიეთ
+        დამატებების საიტს.
+colorway-removal-notice-learn-more = ვრცლად
+colorway-removal-notice-button = მიიღეთ განახლებული შეფერილობები
 privacy-policy = პირადულობის დებულება
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
