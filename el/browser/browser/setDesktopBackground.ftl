@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 set-desktop-background-window =
-    .title = Ορισμός ταπετσαρίας επιφάνειας εργασίας
+    .title = Ορισμός εικόνας επιφάνειας εργασίας
 set-desktop-background-accept =
-    .label = Ορισμός ταπετσαρίας επιφάνειας εργασίας
+    .label = Ορισμός εικόνας επιφάνειας εργασίας
 open-desktop-prefs =
     .label = Άνοιγμα προτιμήσεων επιφάνειας εργασίας
 set-desktop-background-downloading =

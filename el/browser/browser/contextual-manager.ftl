@@ -106,7 +106,7 @@ contextual-manager-passwords-remove-all-title =
 contextual-manager-passwords-remove-all-confirm =
     { $total ->
         [1] Ναι, αφαίρεση κωδικού πρόσβασης
-       *[other] Yes, remove passwords
+       *[other] Ναι, αφαίρεση κωδικών πρόσβασης
     }
 # Button label to confirm removal of saved passwords
 #   $total (number) - Total number of passwords
