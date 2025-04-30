@@ -78,10 +78,16 @@ sidebar-context-menu-remove-extension =
     .label = ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਹਟਾਓ
 sidebar-context-menu-report-extension =
     .label = ਇਕਸਟੈਨਸ਼ਨ ਬਾਰੇ ਰਿਪੋਰਟ ਕਰੋ
+sidebar-context-menu-open-in-tab =
+    .label = ਨਵੀਂ ਟੈਬ 'ਚ ਖੋਲ੍ਹੋ
+sidebar-context-menu-open-in-container-tab =
+    .label = ਨਵੇਂ ਕਨਟੇਨਰ ਵਿੱਚ ਖੋਲ੍ਹੋ
 sidebar-context-menu-open-in-window =
     .label = ਨਵੀਂ ਵਿੰਡੋ ਵਿੱਚ ਖੋਲ੍ਹੋ
 sidebar-context-menu-open-in-private-window =
     .label = ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਖੋਲ੍ਹੋ
+sidebar-context-menu-forget-site =
+    .label = …ਵੈੱਬਸਾਈਟ ਲਈ ਸਾਰੇ ਡਾਟੇ ਨੂੰ ਮਿਟਾਓ
 sidebar-context-menu-bookmark-tab =
     .label = …ਟੈਬ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ
 sidebar-context-menu-copy-link =
@@ -101,6 +107,10 @@ sidebar-context-menu-close-remote-tab =
 
 sidebar-history-context-menu-delete-page =
     .label = ਅਤੀਤ ਵਿੱਚੋਂ ਹਟਾਓ
+sidebar-history-context-menu-delete-page-2 =
+    .label = ਅਤੀਤ ਤੋਂ ਸਫ਼ੇ ਨੂੰ ਮਿਟਾਓ
+sidebar-history-context-menu-bookmark-page =
+    .label = …ਸਫ਼ੇ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ
 
 ## Labels for sidebar menu items.
 

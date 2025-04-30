@@ -54,6 +54,10 @@ neterror-dns-not-found-hint-header = <strong>თუ სწორად შეი
 neterror-dns-not-found-hint-try-again = კვლავ სცადოთ მოგვიანებით
 neterror-dns-not-found-hint-check-network = შეამოწმოთ ქსელთან კავშირი
 neterror-dns-not-found-hint-firewall = გადაამოწმოთ, არის თუ არა { -brand-short-name } ინტერნეტთან წვდომის ნებართვის მქონე (თუ ქსელის ფარს იყენებთ)
+neterror-dns-not-found-offline-hint-header = <strong>რის გაკეთება შეგიძლიათ?</strong>
+neterror-dns-not-found-offline-hint-different-device = სცადეთ დაკავშირება სხვა მოწყობილობიდან.
+neterror-dns-not-found-offline-hint-modem = შეამოწმეთ თქვენი მოდემი ან როუტერი.
+neterror-dns-not-found-offline-hint-reconnect = გამოთიშეთ და კვლავ მიუერთეთ WiFi.
 
 ## TRR-only specific messages
 ## Variables:
