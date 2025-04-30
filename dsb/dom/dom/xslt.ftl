@@ -5,6 +5,19 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = Analyzěrowanje stiloweje XSLT-pśedłogi njejo se raźiło.
+xpath-parse-failure = Analyzěrowanje XPath-wuraza njejo se raźiło.
+xslt-execution-failure = XSLT-transformacija njejo se raźiła.
+xpath-unknown-function = Njepłaśiwa funkcija XSLT/XPath.
+xslt-bad-recursion = Stilowa XSLT-pśedłoga wopśimujo (snaź) rekursiju.
+xslt-bad-value = Atributowa gódnota w XSLT 1.0 njedowólona.
+xslt-nodeset-expected = Wót XPath-wuraza jo se wótcakowało, aby wón NodeSet slědk dał.
+xslt-aborted = XSLT-transformacija jo se z <xsl:message> skóńcyła.
+xslt-network-error = Seśowa zmólka jo pśi cytanju stiloweje XSLT-pśedłogi nastała:
+xslt-wrong-mime-type = Stilowa XSLT-pśedłoga njama XML-mimetyp:
+xslt-load-recursion = Stilowa XSLT-pśedłoga importěrujo se abo zapśěgujo se sama direktnje abo indirektnje:
+xpath-bad-argument-count = XPath-funkcija jo se z wopacneju licbu argumentow wołała.
+xpath-bad-extension-function = Njeznata rozšyrjeńska XPath-funkcija jo se wołała.
 xpath-paren-expected = XPath analyzěrowańska zmólka: ')' wócakana:
 xpath-invalid-axis = XPath analyzěrowańska zmólka: njepłaśiwa wóska:
 xpath-no-node-type-test = XPath analyzěrowańska zmólka: Mě abo test Nodetype wócakane:
@@ -23,6 +36,10 @@ xpath-unbalanced-curly-brace = Felujuca wuzgibnjona spinka.
 xslt-bad-node-name = Element z njepłaśiwym QName se twóri.
 xslt-var-already-set = Wariablowe wězanje wobsenja wariablowe wězanje w tej samskej pśedłoze.
 xslt-call-to-key-not-allowed = Wołanje ku klucowej funkciji njejo dowólone.
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = Njeznata zmólka jo nastała ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
