@@ -5,6 +5,19 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = XSLT-Stylesheet analiz səhvi yarandı.
+xpath-parse-failure = XPath ifadəsinin analizində səhv baş verdi.
+xslt-execution-failure = XSLT ötürülməsində səhv var.
+xpath-unknown-function = XSLT/XPath təyin edilməmiş bir funksiyanı başlatmaq istəyir.
+xslt-bad-recursion = XSLT-Stylesheet çox güman ki, rekursivə bir dairə daxildir.
+xslt-bad-value = XSLT 1.0.8 içindəki atribut dəyəri etibarsızdır.
+xslt-nodeset-expected = Bir XPath ifadəsi tərəfindən bir NodeSets geri dönüş dəyəri istəndi.
+xslt-aborted = XSLT çevrilməsi <xsl:message> tərəfindən bloklandı.
+xslt-network-error = XSLT-Stylesheet yüklənməsində bir şəbəkə səhvi baş verdi:
+xslt-wrong-mime-type = XSLT-Stylesheet üçün göstərilən bir XML-MIME-Formatı yoxdur:
+xslt-load-recursion = Bir XSLT-Stylesheet özünü birbaşa və ya dolay yolla idxal edir (include):
+xpath-bad-argument-count = Bir XPath-Funksiyası arqumentlərə yanlış bir rəqəm ilə göndərildi.
+xpath-bad-extension-function = Naməlum bir XPath uzantı funksiyası çağrıldı.
 xpath-paren-expected = Xpath emal səhvi: ')' gözlənilir:
 xpath-invalid-axis = Xpath emal səhvi: etibarsız arqument:
 xpath-no-node-type-test = Xpath emal səhvi: Ad və ya Nodetype gözlənilir:
@@ -23,6 +36,10 @@ xpath-unbalanced-curly-brace = Müvazinətsiz buruq burğu.
 xslt-bad-node-name = Etibarsız QName sahibi bir komponent yaradılır.
 xslt-var-already-set = Eyni şablondakı dəyişkən bağlama, dəyişkən bağlamanı kölgələyir.
 xslt-call-to-key-not-allowed = Açar funksiyaya çağırışa icazə verilmir.
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = Naməlum bir səhv yarandı  ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
