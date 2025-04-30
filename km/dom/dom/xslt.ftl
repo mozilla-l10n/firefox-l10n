@@ -5,6 +5,14 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = បាន​បរាជ័យ​ក្នុង​ការ​ញែក​សន្លឹក​រចនាប័ទ្ម XSLT ។
+xpath-parse-failure = បាន​បរាជ័យ​ក្នុង​ការ​ញែក​កន្សោម XPath ។
+xslt-execution-failure = បាន​បរាជ័យ​ក្នុង​ការ​ប្លែង​ភាព XSLT ។
+xpath-unknown-function = អនុគមន៍ XSLT/XPath មិន​ត្រឹមត្រូវ ។
+xslt-bad-recursion = សន្លឹក​រចនាប័ទ្ម XSLT (ដែល​អាច) មាន​ការ​ហៅ​ខ្លួន​ឯង ។
+xslt-bad-value = តម្លៃ​គុណ​លក្ខណៈ​មិន​ត្រឹមត្រូវ​នៅ​ក្នុង XSLT 1.0.
+xslt-nodeset-expected = កន្សោម XPath ត្រូវ​បាន​រំពឹង​ក្នុង​ការ​ត្រឡប់ NodeSet ។
+xslt-aborted = ការ​ប្លែង​ភាព XSLT ត្រូវ​បាន​បញ្ចប់​ដំណើរការ​ដោយ <xsl:message> ។
 xslt-network-error = កំហុស​បណ្ដាញ​បាន​កើតឡើង​អំឡុង​ពេល​ផ្ទុក​សន្លឹក​រចនាប័ទ្ម XSLT ៖
 xslt-wrong-mime-type = សន្លឹក​រចនាប័ទ្ម XSLT មិន​មាន XML mimetype ៖
 xslt-load-recursion = សន្លឹក​រចនាប័ទ្ម​ XSLT នាំចូល ឬ​រួមបញ្ចូល​ខ្លួន​វា​ផ្ទាល់​ដោយ​ផ្ទាល់ ឬ​ប្រយោល ៖
@@ -28,6 +36,10 @@ xpath-unbalanced-curly-brace = សញ្ញា "{" មិន​ស្មើ​�
 xslt-bad-node-name = បង្កើត​ធាតុ​ដោយ​ប្រើ QName មិន​ត្រឹមត្រូវ ។
 xslt-var-already-set = ការ​ចងភ្ជាប់​អថេរ ដាក់​ស្រមោល​ការ​ចងភ្ជាប់​អថេរ​ដែល​នៅ​ខាងក្នុង​ពុម្ព​តែមួយ ។
 xslt-call-to-key-not-allowed = ការ​ហៅ​ទៅ​អនុគមន៍​គន្លឹះ​​មិន​បាន​អនុញ្ញាត។
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = មាន​កំហុស​មិន​ស្គាល់​មួយ​បាន​កើតឡើង ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
