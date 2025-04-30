@@ -27,6 +27,7 @@ xpath-invalid-expression-evaluated = Định lượng biểu thức bất hợp 
 xpath-unbalanced-curly-brace = Dấu ngoặc ôm không cân bằng.
 xslt-bad-node-name = Đang tạo một phần tử với QName bất hợp lệ.
 xslt-var-already-set = Gắn kết biến che đậy gắn kết biến trong cùng khuôn mẫu.
+xslt-call-to-key-not-allowed = Không có quyền gọi hàm chính.
 
 ## Messages for the XML error page.
 ##
@@ -34,3 +35,5 @@ xslt-var-already-set = Gắn kết biến che đậy gắn kết biến trong c�
 ##   $error (string) - the specific XSLT or XPath error (a translated string
 ##   from the previous section)
 
+xslt-loading-error = Gặp lỗi khi tải stylesheet: { $error }
+xslt-transform-error = Gặp lỗi khi chuyển đổi XSLT: { $error }
