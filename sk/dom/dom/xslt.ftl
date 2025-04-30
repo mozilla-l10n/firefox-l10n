@@ -5,6 +5,14 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = Spracovanie šablóny so štýlmi XSLT sa nepodarilo.
+xpath-parse-failure = Spracovanie výrazu XPath sa nepodarilo.
+xslt-execution-failure = Transformácia XSLT sa nepodarila.
+xpath-unknown-function = Neplatná funkcia XSLT/XPath.
+xslt-bad-recursion = Šablóna so štýlmi XSTL (pravdepodobne) obsahuje rekurziu.
+xslt-bad-value = Hodnota atribútu je v XSTL 1.0 nepovolená.
+xslt-nodeset-expected = Výraz XPath mal vrátiť NodeSet.
+xslt-aborted = <xsl:message> ukončil transformáciu XSTL.
 xslt-network-error = Počas otvárania šablóny so štýlmi XSLT sa vyskytla chyba siete:
 xslt-wrong-mime-type = Šablóna so štýlmi XSLT nemá mimetype XML:
 xslt-load-recursion = Šablóna so štýlmi XSLT priamo alebo nepriamo importuje alebo zahŕňa samú seba:
@@ -28,6 +36,10 @@ xpath-unbalanced-curly-brace = Chybné poradie svorkových zátvoriek.
 xslt-bad-node-name = Vytvorenie prvku s neplatným QName.
 xslt-var-already-set = Viazanie premennej tieňuje viazanie premennej v rovnakej šablóne.
 xslt-call-to-key-not-allowed = Volanie kľúčovej funkcie nie je povolené.
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = Objavila sa neznáma chyba ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
