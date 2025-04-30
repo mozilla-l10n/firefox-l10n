@@ -5,6 +5,16 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = XSLT အပြင်အဆင်တစ်ချို့ပျက်သွားသည်။
+xpath-parse-failure = XPath ထုတ်ဖေါ်မှု ခွဲခြား ဖေါ်ပြမှုတခု ပျက်သွားတယ်။
+xslt-execution-failure = XSLT ပြောင်းလဲမှု ပျက်သွားတယ်။
+xpath-unknown-function = မမှန်ကန်တဲ့ XSLT/XPath လုပ်ဆောင်ချက်။
+xslt-bad-recursion = XSLT Stylesheet (ဖြစ်နိုင်ချေ) မှာ ထပ်ဆင့်ဖြစ်ပေါ်မှုတခု ပါရှိတယ်။
+xslt-bad-value = တွက်ချက်မှု တန်ဖိုးဟာ XSLT 1.0 မှာ တရားမ၀င်ဘူး။
+xslt-nodeset-expected = XPath ထုတ်ဖေါ်မှုဟာ NodeSet တခုဆီ ပြန်လှည့်ဖို့ မျှောလင့်ထားတယ်။
+xslt-aborted = XSLT ပြောင်းလဲမှု ကို <xsl:message> က အဆုံးသတ်လိုက်တယ်။
+xslt-network-error = ကွန်ရက် ချိတ်ဆက်မှုတခုဟာ XSLT stylesheet တခုကို ဖွင့်နေတုန်း အမှား ဖြစ်ပေါ်ခဲ့တယ်။
+xslt-wrong-mime-type = XSLT stylesheet တခုမှာ XML mimetype မပါရှိဘူး။
 xslt-load-recursion = An XSLT stylesheet directly or indirectly imports or includes itself:
 xpath-bad-argument-count = XPath လုပ်ဆောင်ချက်တခုဟာ ​မှားယွင်းတဲ့ ဆွေးနွေးချက်များနဲ့ ခေါ်ယူထားတယ်။
 xpath-bad-extension-function = အမည်မသိ XPath တိုးချဲ့ချက် လုပ်ဆောင်ချက်ကို ခေါ်ယူထားတယ်။
@@ -26,6 +36,10 @@ xpath-unbalanced-curly-brace = မညီ ကောက်နေတဲ့ အထ�
 xslt-bad-node-name = မမှန်ကန်တဲ့ QName တခုနဲ့ အစိတ်အပိုင်းတခုကို ဖန်တီးနေတယ်။
 xslt-var-already-set = ကွဲပြားတဲ့ ချည်နှောင်ခြင်းက တူညီတဲ့ ပုံစံခွက်ထဲက ကွဲပြားတဲ့ ချည်နှောင်ခြင်းကို အရိပ်ပြသလား။
 xslt-call-to-key-not-allowed = ကီး လုပ်ဆောင်ချက်များအား ခွင့်မပြုထားပါ
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = အမည်မသိတဲ့ အမှားတခု ({ $errorCode }) ​ဖြစ်ပေါ်နေတယ်
 
 ## Messages for the XML error page.
 ##
