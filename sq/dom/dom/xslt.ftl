@@ -5,6 +5,8 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = Përtypja e një fletëstili XSLT dështoi.
+xpath-parse-failure = Dështoi përtypja e një shprehjeje XPath.
 xpath-bad-argument-count = U thirr një funksion XPath me numër të gabuar argumentesh.
 xpath-bad-extension-function = U thirr një funksion zgjerimi XPath i panjohur.
 xpath-paren-expected = Dështim përtypjeje XPath: pritej ')':
@@ -24,6 +26,7 @@ xpath-invalid-expression-evaluated = Po çmohet shprehje e pavlefshme.
 xpath-unbalanced-curly-brace = Kllapa gjarpërushe të pambyllura.
 xslt-bad-node-name = Po krijohet element me një QName të pavlefshëm.
 xslt-var-already-set = Lidhja e ndryshore i bën hije një lidhjeje ndryshoreje brenda së njëjtës gjedhe.
+xslt-call-to-key-not-allowed = Thirrje e palejuar për te funksion kyç.
 
 ## Messages for the XML error page.
 ##
@@ -31,3 +34,5 @@ xslt-var-already-set = Lidhja e ndryshore i bën hije një lidhjeje ndryshoreje 
 ##   $error (string) - the specific XSLT or XPath error (a translated string
 ##   from the previous section)
 
+xslt-loading-error = Gabim gjatë ngarkimit të fletëstilit: { $error }
+xslt-transform-error = Gabim gjatë shndërrimi XSLT: { $error }
