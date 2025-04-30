@@ -7,6 +7,12 @@
 
 xslt-parse-failure = Obrada XSLT stilskog predloška nije uspjela.
 xpath-parse-failure = Obrada XPath izraza nije uspjela.
+xslt-execution-failure = XSLT pretvorba nije uspjela.
+xpath-unknown-function = Kriva XLST/XPath funkcija.
+xslt-bad-recursion = XSLT stilski predložak (možda) sadrži rekurziju.
+xslt-bad-value = Nedopuštena vrijednost atributa u XSLT 1.0.
+xslt-nodeset-expected = XPath izraz je trebao vratiti NodeSet.
+xslt-aborted = XSLT pretvorba je prekinuta s <xsl:message>.
 xslt-network-error = Došlo je do mrežne greške pri učitavanju XSLT stilskog predloška:
 xslt-wrong-mime-type = XSLT stilski predložak nema XML mimetype:
 xslt-load-recursion = XSLT stilski predložak izravno ili neizravno uvozi ili uključuje samu sebe:
@@ -30,6 +36,10 @@ xpath-unbalanced-curly-brace = Nezatvorena vitičasta zagrada.
 xslt-bad-node-name = Izrada elementa s neispravnim QName.
 xslt-var-already-set = Varijabilno povezivanje prekriva varijabilno povezivanje unutar istog predloška.
 xslt-call-to-key-not-allowed = Poziv do ključne funkcije nije dopušten.
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = Došlo je do nepoznate greške ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
