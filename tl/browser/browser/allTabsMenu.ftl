@@ -6,9 +6,9 @@
 all-tabs-menu-search-tabs =
     .label = Hanapin sa mga tab
 all-tabs-menu-new-user-context =
-    .label = Bagong Container Tab
+    .label = Bagong container tab
 all-tabs-menu-hidden-tabs =
-    .label = Mga Nakatagong Tab
+    .label = Mga nakatagong tab
 all-tabs-menu-manage-user-context =
-    .label = Manage Containers
-    .accesskey = O
+    .label = Pamahalaan ang mga container
+    .accesskey = c

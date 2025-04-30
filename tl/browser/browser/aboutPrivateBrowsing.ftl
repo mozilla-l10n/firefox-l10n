@@ -5,7 +5,7 @@
 privatebrowsingpage-open-private-window-label = Magbukas ng Pribadong Window
     .accesskey = P
 about-private-browsing-search-placeholder = Hanapin sa Web
-about-private-browsing-info-title = Ikaw ay Nasa Pribadong Window
+about-private-browsing-info-title = Nasa Pribadong WIndow ka
 about-private-browsing-search-btn =
     .title = Hanapin sa web
 # Variables
@@ -19,11 +19,11 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Maghanap gamit ang { $engine } o ilagay ang address
 about-private-browsing-handoff-text-no-engine = Hanapin o ilagay ang address
 about-private-browsing-not-private = Ikaw ay kasalukuyang wala sa pribadong window.
-about-private-browsing-learn-more-link = Matuto ng higit pa
+about-private-browsing-learn-more-link = Alamin
 about-private-browsing-hide-activity = Itago ang iyong aktibidad at lokasyon, saan ka man mag browse
 about-private-browsing-get-privacy = Kumuha ng proteksyon saan ka man mag browse
 about-private-browsing-prominent-cta = Manatiling ligtas at pribado { -mozilla-vpn-brand-name }
-about-private-browsing-focus-promo-cta = i-Download { -focus-brand-name }
+about-private-browsing-focus-promo-cta = I-download ang { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Pribadong pagba-browse saanman, kailanman
 
 ## The following strings will be used for experiments in Fx99 and Fx100
@@ -59,6 +59,7 @@ about-private-browsing-pin-promo-title = Walang naka-save na cookie o kasaysayan
 
 ## Strings used in a promotion message for cookie banner reduction
 
+about-private-browsing-cookie-banners-promo-button = Bawasan ang mga Cookie Banner
 
 ## Strings for Felt Privacy v1 experiments in 119
 

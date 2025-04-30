@@ -18,3 +18,8 @@ extension-firefox-alpenglow-description = Gumamit ng makulay na itsura para sa m
 ## Variables
 ##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
 
+extension-colorways-soft-name = { $colorway-name } — Malambot
+extension-colorways-balanced-name = { $colorway-name } — Balanse
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+extension-colorways-bold-name = { $colorway-name } — Matapang

@@ -16,9 +16,9 @@ appmenuitem-banner-update-unsupported =
 appmenuitem-banner-update-restart =
     .label = Mayroong update — mag-restart na
 appmenuitem-new-tab =
-    .label = Bagong Tab
+    .label = Bagong tab
 appmenuitem-new-window =
-    .label = Bagong Window
+    .label = Bagong window
 appmenuitem-new-private-window =
     .label = Bagong Private Window
 appmenuitem-history =
@@ -30,13 +30,13 @@ appmenuitem-passwords =
 appmenuitem-addons-and-themes =
     .label = Mga Add-on at Tema
 appmenuitem-print =
-    .label = I-print...
+    .label = I-print…
 appmenuitem-find-in-page =
-    .label = Hanapin Sa Pahina...
+    .label = Hanapin sa pahina…
 appmenuitem-translate =
     .label = Isalin ang pahina...
 appmenuitem-zoom =
-    .value = i-Zoom
+    .value = Mag-zoom
 appmenuitem-more-tools =
     .label = Marami pang mga kagamitan
 appmenuitem-help =
@@ -94,6 +94,7 @@ appmenuitem-fxa-toolbar-sync-now2 = I-sync ngayon
 appmenuitem-fxa-sign-in = Mag-sign in sa { -brand-product-name }
 appmenuitem-fxa-manage-account = Pamahalaan ang account
 appmenu-fxa-header2 = { -fxaccount-brand-name }
+appmenu-account-header = Account
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
@@ -140,8 +141,8 @@ profiler-popup-settings =
     .value = Mga Setting
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
-    .label = Baguhin ang Settings…
-profiler-popup-recording-screen = Nagrerecord…
+    .label = Baguhin ang Mga Setting…
+profiler-popup-recording-screen = Nagre-record…
 profiler-popup-start-recording-button =
     .label = Magrecord na
 profiler-popup-discard-button =
@@ -176,17 +177,21 @@ profiler-popup-presets-web-developer-label =
     .label = Web Developer
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
+profiler-popup-presets-graphics-label =
+    .label = Graphics
 profiler-popup-presets-media-label =
     .label = Media
 profiler-popup-presets-networking-label =
     .label = Networking
+profiler-popup-presets-custom-label =
+    .label = Pasadya
 
 ## History panel
 
 appmenu-manage-history =
-    .label = Pamahalaan ang Kasaysayan
+    .label = Pamahalaan ang kasaysayan
 appmenu-restore-session =
-    .label = Ibalik ang Nakaraang Session
+    .label = Ibalik ang nakaraang sesyon
 appmenu-clear-history =
     .label = Burahin ang Kasaysayan
 appmenu-recent-history-subheader = Nakaraang Kasaysayan
@@ -238,9 +243,13 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Mga kagamitan ng browser
 appmenu-developer-tools-extensions =
     .label = Mga extension para sa mga developer
+appmenuitem-report-broken-site =
+    .label = Iulat ang sirang site
 
 ## Panel for privacy and security products
 
+appmenuitem-sign-in-account = Mag-sign in sa iyong account
+appmenuitem-monitor-title = { -monitor-brand-short-name }
 
 ## Profiles panel
 

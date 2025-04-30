@@ -42,14 +42,17 @@ pocket-panel-signup-signup-firefox = Mag-sign up sa { -brand-product-name }
 pocket-panel-signup-tagline = Mag-save ng mga artikulo at video mula sa { -brand-product-name } para makita sa { -pocket-brand-name } sa anumang device, anumang oras.
 pocket-panel-signup-tagline-story-one = Pindutin ang { -pocket-brand-name } Button para ma-save ang kahit anong artikulo, video o pahina mula sa { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Tingnan sa { -pocket-brand-name } sa anumang device, anumang oras.
+pocket-panel-signup-cta-a-fix = Ang save button mo para sa internet
 
 ## about:pocket-home panel
 
 pocket-panel-home-welcome-back = Maligayang Pagbabalik
 pocket-panel-home-paragraph = Maaari mong gamitin ang { -pocket-brand-name } upang saliksikin at i-save ang mga webpage, artikulo, video, podcast, o makabalik sa binabasa mo.
 pocket-panel-home-explore-popular-topics = Saliksikin ang Mga Patok na Paksa
+pocket-panel-home-discover-more = Tumuklas Pa
 pocket-panel-home-explore-more = Magsaliksik
 pocket-panel-home-most-recent-saves = Narito ang iyong pinakabagong mga pag-save:
+pocket-panel-home-most-recent-saves-loading = Inilo-load ang mga kamakailang sinave…
 pocket-panel-home-new-user-message = Tingnan ang iyong kamakailang pag-save dito.
 
 ## Pocket panel header component
