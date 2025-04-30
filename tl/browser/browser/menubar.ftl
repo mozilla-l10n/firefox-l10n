@@ -76,11 +76,21 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Magbukas ng File...
     .accesskey = O
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
+menu-file-close-tab =
+    .label =
+        { $tabCount ->
+            [1] Isara ang Tab
+            [one] Isara ang Tab
+           *[other] Isara ang { $tabCount } Tab
+        }
+    .accesskey = C
 menu-file-close-window =
     .label = Isara ang Window
     .accesskey = d
 menu-file-save-page =
-    .label = i-Save ang Pahina Bilang…
+    .label = I-save ang Pahina Bilang…
     .accesskey = A
 menu-file-email-link =
     .label = i-Email ang Link…
@@ -216,6 +226,9 @@ menu-history-undo-menu =
     .label = Mga Naisarang Tab
 menu-history-undo-window-menu =
     .label = Mga Isinarang Window Kamakailan
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Hanapin sa Kasaysayan
 
 ## Bookmarks Menu
 
@@ -224,8 +237,13 @@ menu-bookmarks-menu =
     .accesskey = B
 menu-bookmarks-manage =
     .label = Pamahalaan ang mga Bookmark
+menu-bookmark-tab =
+    .label = I-bookmark ang Kasalukuyang Tab...
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Hanapin sa mga Bookmark
 menu-bookmarks-all-tabs =
-    .label = i-Bookmark ang Lahat ng mga Tab…
+    .label = I-bookmark Lahat ng mga Tab…
 menu-bookmarks-toolbar =
     .label = Bookmark Toolbar
 menu-bookmarks-other =

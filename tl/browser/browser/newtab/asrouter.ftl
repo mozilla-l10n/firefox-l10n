@@ -102,6 +102,8 @@ cfr-doorhanger-milestone-close-button = Isarado
 
 cfr-doorhanger-doh-body = Mahalaga ang iyong privacy. Hangga't maaari'y ligtas nang idinadaan ng { -brand-short-name } ang iyong mga DNS request sa isang partner service para maprotektahan ka habang nagba-browse.
 cfr-doorhanger-doh-header = Mas secure at encrypted na DNS lookup
+cfr-doorhanger-doh-primary-button-2 = Ok
+    .accesskey = O
 cfr-doorhanger-doh-secondary-button = i-Disable
     .accesskey = D
 
@@ -118,9 +120,15 @@ cfr-doorhanger-video-support-primary-button = Mag-update Na
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+# This header text can be explicitly wrapped.
+spotlight-public-wifi-vpn-header = Mukhang gumagamit ka ng pampublikong Wi-Fi
+spotlight-public-wifi-vpn-link = Hindi sa Ngayon
+    .accesskey = N
 
 ## Emotive Continuous Onboarding
 
+spotlight-better-internet-header = Ang mas mahusay na internet ay nagsisimula sa iyo
+spotlight-peace-mind-header = Kaming bahala sa iyo
 
 ## MR2022 Background Update Windows native toast notification strings.
 ##
@@ -138,18 +146,31 @@ cfr-doorhanger-video-support-primary-button = Mag-update Na
 
 ## Firefox View CFR
 
+firefoxview-cfr-primarybutton = Subukan ito
+    .accesskey = T
+firefoxview-cfr-secondarybutton = Hindi sa ngayon
+    .accesskey = N
+firefoxview-cfr-header-v2 = Agad na ipagpatuloy kung saan ka tumigil
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-primarybutton = Tignan kung paano ito gumagana
 
 ## Colorways expiry reminder CFR
 
+colorways-cfr-primarybutton = Pumili ng colorway
+    .accesskey = C
+colorways-cfr-header-28days = Ang Independent Voices colorways ay mag-e-expire sa Enero 16
+colorways-cfr-header-14days = Ang Independent Voices colorways ay mag-e-expire sa loob ng dalawang linggo
+colorways-cfr-header-7days = Ang Independent Voices colorways ay mag-e-expire ngayong linggo
+colorways-cfr-header-today = Ang Independent Voices colorways ay mag-e-expire ngayon
 
 ## Cookie Banner Handling CFR
 
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+july-jam-headline = Kaming bahala sa iyo
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
