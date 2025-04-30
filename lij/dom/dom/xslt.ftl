@@ -5,6 +5,14 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = Analixi do XSLT stylesheet no riescia.
+xpath-parse-failure = Analixi espescion XPath no riescia.
+xslt-execution-failure = Trasformaçion XSLT no riescia.
+xpath-unknown-function = Fonçion XSLT/XPath no valida.
+xslt-bad-recursion = O XSLT Stylesheet (fòscia) gh'à 'n gio infinio.
+xslt-bad-value = O valô de l'atributo o l'é feua lezze into XSLT 1.0.
+xslt-nodeset-expected = 'Na esprescion XPath a doveiva dame in NodeSet.
+xslt-aborted = A Trasformaçion XSLT l'é stæta terminâ da <xsl:message>.
 xslt-network-error = Gh'é stæto 'n erô caregando 'n feuggio de stile XSLT:
 xslt-wrong-mime-type = In XSLT stylesheet o no gh'à in XML mimetype:
 xslt-load-recursion = Un XSLT stylesheet o se inpòrta ò o se contegne direttamente o indirettamente:
@@ -28,6 +36,10 @@ xpath-unbalanced-curly-brace = Curly brace no bilanciou.
 xslt-bad-node-name = Creo 'n'elemento co-in QName no valido.
 xslt-var-already-set = Binding da variabile e Binding da variabile shadow co-o mæxima  template.
 xslt-call-to-key-not-allowed = Ciamâ a-a fonçion “key” no consentia
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = S'é verificou un erô no conosciuo ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
