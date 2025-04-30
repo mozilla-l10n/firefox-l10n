@@ -5,6 +5,14 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = XSLT стильдер кестесін талдау қатесі.
+xpath-parse-failure = XPath өрнегін талдау қатесі.
+xslt-execution-failure = XSLT түрлендіу қатесі.
+xpath-unknown-function = Қате XSLT/XPath функциясы.
+xslt-bad-recursion = XSLT стильдер кестесі ішінде (мүмкін) рекурсия бар.
+xslt-bad-value = XSLT 1.0 үшін атрибуттың қате мәні.
+xslt-nodeset-expected = XPath өрнегі NodeSet түрдегі жауапты қайтару керек.
+xslt-aborted = XSLT түрлендірун <xsl:message> үзген.
 xslt-network-error = XSLT стильдер кестесін жүктеу кезінде қате кетті:
 xslt-wrong-mime-type = XSLT стильдер кестесінде XML MIME түрі көрсетілмеген:
 xslt-load-recursion = XSLT стильдер кестесінде тура немесе басқаша жолмен өзі бар:
@@ -28,6 +36,10 @@ xpath-unbalanced-curly-brace = Фигуралық жақшалардың тең 
 xslt-bad-node-name = Қате QName элементін жасау.
 xslt-var-already-set = Айнымалыны жариялау сол шаблон ішінде жариялануымен басылады.
 xslt-call-to-key-not-allowed = Кілттік функцияны шақыру рұқсат етілмеген.
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = Белгісіз қате орын алды ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
