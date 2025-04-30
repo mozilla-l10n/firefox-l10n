@@ -5,6 +5,14 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = Maku sami hoja de estilo XSLT.
+xpath-parse-failure = Vaá procesamiento de una expresión XPath.
+xslt-execution-failure = Maku sami XSLT.
+xpath-unknown-function = Vaá XSLT/XPath.
+xslt-bad-recursion = La hoja de estilo XSLT (posiblemente) contiene una recursión.
+xslt-bad-value = Maku chau nu XSLT 1.0.
+xslt-nodeset-expected = Nchatui iin tu'un XPath takua nchiko NodeSet.
+xslt-aborted = Ntsinu XSLT sami <xsl:message>.
 xslt-network-error = Maku kitsa hoja de estilo XSLT:
 xslt-wrong-mime-type = Una hoja de estilo XSLT koo MIME XML:
 xslt-load-recursion = Inn hoja de estilo XSLT kitsai ra tinu mituin.
