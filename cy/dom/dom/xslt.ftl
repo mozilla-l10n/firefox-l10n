@@ -5,6 +5,14 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = Methodd didoli dalen steil XSLT.
+xpath-parse-failure = Methodd didoli'r mynegiant XPath.
+xslt-execution-failure = Methodd trawsffurfiad XSLT.
+xpath-unknown-function = Swyddogaeth XSLT/XPath annilys.
+xslt-bad-recursion = Dalen steil XSLT Stylesheet yn ailadroddus (o bosibl).
+xslt-bad-value = Gwerth priodwedd anghyfreithlon yn XSLT 1.0.
+xslt-nodeset-expected = Disgwyliwyd i fynegiad XPath ddychwelyd NodeSet.
+xslt-aborted = Ataliwyd trawsffurfiad XSLT gan <xsl:message>.
 xslt-network-error = Digwyddodd gwall rhwydwaith wrth lwytho dalen steil XSLT:
 xslt-wrong-mime-type = Nid oes gan ddalensteil XSLT mimetype XML:
 xslt-load-recursion = Mae dalen steil XSLT ynmewnforio neu gynnwys ei hun yn uniongyrchol neu anuniongyrchol:
@@ -28,6 +36,10 @@ xpath-unbalanced-curly-brace = Angor crwm anghytbwys.
 xslt-bad-node-name = Creu elfen gyda QName annilys.
 xslt-var-already-set = Rwymo amrywiol yn cysgodi rhwymo amrywiol o fewn yr un templed.
 xslt-call-to-key-not-allowed = Nid oes caniatâd i alwad i'r swyddogaeth allweddol.
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = Digwyddodd gwall anhysbys ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
