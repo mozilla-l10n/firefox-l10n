@@ -22,6 +22,10 @@ xpath-bad-bang = XPath 分析失敗: 不應該有 '!' ，且 negation 為 not():
 xpath-illegal-char = XPath 分析失敗: 找到非法的字元:
 xpath-binary-expected = XPath 分析失敗: 應該要有 Binary operator:
 xslt-load-blocked-error = 由於安全性的考量，已停止載入一項 XSLT 樣式表。
+xpath-invalid-expression-evaluated = 正對無效的表達式求值。
+xpath-unbalanced-curly-brace = 大括弧不對稱。
+xslt-bad-node-name = 建立中的元素有無效的 QName。
+xslt-var-already-set = 可變繫結 (Variable binding) 於相同模板中緊隨另一個可變繫結。
 xslt-call-to-key-not-allowed = 不允許呼叫 key 函數。
 
 ## Messages for the XML error page.
