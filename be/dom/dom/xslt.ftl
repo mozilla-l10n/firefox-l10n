@@ -5,6 +5,14 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = Няўдача разбору табліцы стыляў XSLT.
+xpath-parse-failure = Няўдача разбору выразу XPath.
+xslt-execution-failure = Няўдача пераўтварэння XSLT.
+xpath-unknown-function = Несапраўдная функцыя XSLT/XPath.
+xslt-bad-recursion = Табліца стыляў XSLT (магчыма) змяшчае рэкурсію.
+xslt-bad-value = Значэнне атрыбута недапушчальна ў XSLT 1.0.
+xslt-nodeset-expected = Чакаецца, што выраз XPath павінен вярнуць NodeSet.
+xslt-aborted = Пераўтварэнне XSLT канчаецца на <xsl:message>.
 xslt-network-error = Здарылася памылка сеткі пры загрузцы табліцы стыляў XSLT:
 xslt-wrong-mime-type = Таліца стыляў XSLT не мае mime-тып XML:
 xslt-load-recursion = Табліца стыляў XSLT непасрэдна ці ўскосна імпартуе ці ўключае саму сябе.
@@ -28,6 +36,10 @@ xpath-unbalanced-curly-brace = Неўраўнаважаная выгнутая �
 xslt-bad-node-name = Стварэнне адзінкі з недапушчальнай QName.
 xslt-var-already-set = Звязванне зменнай зацяняе звязванне зменнай у тым жа ўзоры.
 xslt-call-to-key-not-allowed = Выклік ключавой функцыі не дазволены.
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = Здарылася невядомая памылка ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
