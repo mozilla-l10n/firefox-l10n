@@ -12,6 +12,8 @@ neterror-blocked-by-policy-page-title = Asebter iwḥel
 neterror-captive-portal-page-title = Kcem ɣer uẓeṭṭa
 neterror-dns-not-found-title = Ulac aqeddac
 neterror-malformed-uri-page-title = URL mačči d tarameɣtut
+general-body-title = Ḥader. Yella wayen ur nteddu ara akken ilaq.
+problem-with-this-site-title = Waqil yella wugur deg usmel-a
 
 ## Error page actions
 
@@ -49,6 +51,8 @@ neterror-dns-not-found-hint-header = <strong>Ma yella teskecmeḍ tansa tameɣtu
 neterror-dns-not-found-hint-try-again = Ɛreḍ tikkelt-nniḍen ticki
 neterror-dns-not-found-hint-check-network = senqed azeṭṭa-k·m internet
 neterror-dns-not-found-hint-firewall = Senqqed aya { -brand-short-name } yettwasireg ad yekcem ɣer web ( yezmer ahat teqqneḍ d acu ɣer uɣrab n tmes)
+neterror-dns-not-found-offline-hint-different-device = Ɛreḍ tuqqna ɣef yibenk nniḍen.
+neterror-dns-not-found-offline-hint-reconnect = Senser tuqqna sakin qqen ar Wi-Fi tikkelt-nniḍen.
 
 ## TRR-only specific messages
 ## Variables:
@@ -146,3 +150,7 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Ma ur tuɣeḍ ara tanumi a
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> ɣur-s tasertit n tɣellist HTTP Strict Transport Security (HSTS), ay-agi yemmal-d d akken { -brand-short-name } izmer kan ad iqqen ɣur-s s tɣellist. Ur tezmireḍ ara ad ternuḍ tasureft akken ad twaliḍ asmel-agi.
+# Variables:
+#   $responsestatus (string) - HTTP response status code (e.g., 500).
+#   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
+neterror-response-status-code = Tangalt n tuccḍa: { $responsestatus } { $responsestatustext }

@@ -451,6 +451,8 @@ pdfjs-editor-alt-text-settings-close-button = Mdel
 
 ## "Annotations removed" bar
 
+pdfjs-editor-undo-bar-close-button =
+    .title = Mdel
 
 ## Add a signature dialog
 
@@ -463,15 +465,26 @@ pdfjs-editor-alt-text-settings-close-button = Mdel
 
 ## Controls
 
+pdfjs-editor-add-signature-description-default-when-drawing = Azmul
+pdfjs-editor-add-signature-clear-button-label = Sfeḍ azmul
+pdfjs-editor-add-signature-clear-button =
+    .title = Sfeḍ azmul
+pdfjs-editor-add-signature-save-checkbox = Sekles azmul
+pdfjs-editor-add-signature-error-close-button = Mdel
 
 ## Dialog buttons
 
+pdfjs-editor-add-signature-cancel-button = Semmet
+pdfjs-editor-add-signature-add-button = Rnu
+pdfjs-editor-edit-signature-update-button = Leqqem
 
 ## Main menu for adding/removing signatures
 
 
 ## Editor toolbar
 
+pdfjs-editor-add-signature-edit-button-label = Ẓreg aglam
 
 ## Edit signature description dialog
 
+pdfjs-editor-edit-signature-dialog-title = Ẓreg aglam
