@@ -6,6 +6,10 @@
 ## XSLT and XPath specific errors.
 
 xslt-network-error = XSLT стильдер кестесін жүктеу кезінде қате кетті:
+xslt-wrong-mime-type = XSLT стильдер кестесінде XML MIME түрі көрсетілмеген:
+xslt-load-recursion = XSLT стильдер кестесінде тура немесе басқаша жолмен өзі бар:
+xpath-bad-argument-count = XPath функциясы қате аргументтер саныме шақырылды.
+xpath-bad-extension-function = XPath кеңейтуінің белгісіз функциясы шақырылды.
 xpath-paren-expected = XPath талдау қатесі: ')' күтілген:
 xpath-invalid-axis = XPath талдау қатесі, қате ось:
 xpath-no-node-type-test = XPath талдау қатесі, аты немесе тораптар күтілген:
