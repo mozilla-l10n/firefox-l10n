@@ -5,6 +5,28 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-network-error = Počas otvárania šablóny so štýlmi XSLT sa vyskytla chyba siete:
+xslt-wrong-mime-type = Šablóna so štýlmi XSLT nemá mimetype XML:
+xslt-load-recursion = Šablóna so štýlmi XSLT priamo alebo nepriamo importuje alebo zahŕňa samú seba:
+xpath-bad-argument-count = Funkcia XPath bola zavolaná s nesprávnym počtom argumentov.
+xpath-bad-extension-function = Bola zavolaná neznáma funkcia XPath.
+xpath-paren-expected = Zlyhanie analýzy XPath: očakávalo sa ')':
+xpath-invalid-axis = Zlyhanie analýzy XPath: neplatná os:
+xpath-no-node-type-test = Zlyhanie analýzy XPath: očakával sa Názov alebo NodeType:
+xpath-bracket-expected = Zlyhanie analýzy XPath: očakávalo sa ']':
+xpath-invalid-var-name = Zlyhanie analýzy XPath: neplatný názov premennej:
+xpath-unexpected-end = Zlyhanie analýzy XPath: predčasný koniec výrazu:
+xpath-operator-expected = Zlyhanie analýzy XPath: očakával sa operátor:
+xpath-unclosed-literal = Zlyhanie analýzy XPath: neukončený literál:
+xpath-bad-colon = Zlyhanie analýzy XPath: neočakávaný znak ':' :
+xpath-bad-bang = Zlyhanie analýzy XPath: neočakávaný '!', negácia nie je ():
+xpath-illegal-char = Zlyhanie analýzy XPath: neplatný znak:
+xpath-binary-expected = Zlyhanie analýzy XPath: očakával sa binárny operátor:
+xslt-load-blocked-error = Načítanie šablón so štýlmi XSLT bolo zablokované z bezpečnostných dôvodov.
+xpath-invalid-expression-evaluated = Vyhodnotenie neplatného príkazu.
+xpath-unbalanced-curly-brace = Chybné poradie svorkových zátvoriek.
+xslt-bad-node-name = Vytvorenie prvku s neplatným QName.
+xslt-var-already-set = Viazanie premennej tieňuje viazanie premennej v rovnakej šablóne.
 xslt-call-to-key-not-allowed = Volanie kľúčovej funkcie nie je povolené.
 
 ## Messages for the XML error page.
