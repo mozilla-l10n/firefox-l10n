@@ -5,6 +5,14 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = تجزیهٔ برگهٔ سبک XSLT شکست خورد.
+xpath-parse-failure = تجزیهٔ عبارت XPath شکست خورد.
+xslt-execution-failure = تبدیل XSLT شکست خورد.
+xpath-unknown-function = تابع نامعتبر XSLT یا XPath.
+xslt-bad-recursion = برگهٔ سبک XSLT (احتمالاً) دارای بازگشت است.
+xslt-bad-value = مقدار صفت در XSLT 1.0 مجاز نیست.
+xslt-nodeset-expected = عبارت XPath باید یک NodeSet بازمی‌گرداند.
+xslt-aborted = تبدیل XSLT توسط <xsl:message> خاتمه یافت.
 xslt-network-error = خطای شبکه در حال بارگذاری برگهٔ سبک XSLT روی داد:
 xslt-wrong-mime-type = برگهٔ سبک XSLT دارای نوع MIME مناسب برای XML نیست:
 xslt-load-recursion = برگهٔ سبک XSLT به صورت مستقیم یا غیرمستقیم خود را فرامی‌خواند:
@@ -28,6 +36,10 @@ xpath-unbalanced-curly-brace = تعداد آکولاد باز و بستهٔ نا
 xslt-bad-node-name = ایجاد یک عنصر توسط یک QName نامعتبر.
 xslt-var-already-set = قید متغیر، قیدهای متغیر دیگر تعریف شده در همان قالب را می‌پوشاند.
 xslt-call-to-key-not-allowed = پاسخ به تابع کلیدی مجاز نیست.
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = خطای نامعلومی رخ داده است (‪{ $errorCode }‬)
 
 ## Messages for the XML error page.
 ##
