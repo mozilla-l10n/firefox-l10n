@@ -5,6 +5,14 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = Naizadeve XSLT stila lopys analiziešona.
+xpath-parse-failure = Naizadeve XPath izteiksmes analiziešona.
+xslt-execution-failure = Naizadeve XSLT transformaceja.
+xpath-unknown-function = Nakorekta XSLT/XPath funkceja.
+xslt-bad-recursion = XSLT stila lopa (īspiejams) satur rekurseju.
+xslt-bad-value = Nadereiga XSLT 1.0 atributa vierteiba.
+xslt-nodeset-expected = XPath izteiksmei ir juoatgrīž NodeSet.
+xslt-aborted = XSLT transformaceja izabeidzās ar <xsl:message>.
 xslt-network-error = Rodās teikla klaida, luodejūt XSLT stila lopu:
 xslt-wrong-mime-type = XSLT stila lopai MIME tips nav XML:
 xslt-load-recursion = XSLT stila lopa tīši voi natīši importej voi ītver sevi:
@@ -28,6 +36,10 @@ xpath-unbalanced-curly-brace = Naaizvārta figurīkova.
 xslt-bad-node-name = Veidoj elementu ar nadereigu QName.
 xslt-var-already-set = Maineigū sasaistes aizānoj maineigū sasaistes ituos veidnes īkšīnī.
 xslt-call-to-key-not-allowed = Atslāgi funkcejis izsaukums nav atļauts.
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = Gadejās nazynuoma klaida ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
