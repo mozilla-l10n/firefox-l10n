@@ -5,6 +5,9 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = XSLT ශෛලි පත්‍රිකාවක් විග්‍රහයට අසමත් විය.
+xslt-execution-failure = XSLT පරිණාමණයට අසමත් විය.
+xslt-aborted = XSLT පරිණාමණය <xsl:message> මගින් සමාපනය කෙරිණි.
 xslt-network-error = XSLT ශෛලි පත්‍රිකාවක් පූරණය කිරීමේදී ජාලයේ දෝෂයකි:
 xslt-wrong-mime-type = XSLT ශෛලි පත්‍රිකාවක XML අනුකාර වර්ගයක් නැත:
 xslt-load-recursion = XSLT ශෛලි පත්‍රිකාවක් සෘජුව හෝ වක්‍රව ආයාත කරයි හෝ ඇතුළත් වේ:
@@ -19,6 +22,10 @@ xpath-bad-bang = XPath විග්‍රහය අසාර්ථකයි: ‘
 xpath-illegal-char = XPath විග්‍රහය අසාර්ථකයි: අයුතු අකුරක් හමු විය:
 xpath-binary-expected = XPath විග්‍රහය අසාර්ථකයි: ද්විමය ක්‍රියාකරු අපේක්‍ෂිතයි:
 xslt-load-blocked-error = ආරක්‍ෂණ හේතූන් මත XSLT ශෛලි පත්‍රය පූරණය අවහිර කර ඇත.
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = නොදන්නා දෝෂයක් ඇති විය ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
