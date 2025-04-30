@@ -5,6 +5,15 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = 無法分析 XSLT 樣式表。
+xpath-parse-failure = 分析 XPath 運算式失敗。
+xslt-execution-failure = XSLT 轉換失敗。
+xpath-unknown-function = 錯誤的 XSLT/XPath 函式。
+xslt-bad-recursion = XSLT 樣式表可能產生遞迴了。
+xslt-bad-value = 不合 XSLT 1.0 的屬性。
+xslt-nodeset-expected = XPath 運算式應該要傳回 NodeSet。
+xslt-aborted = XSLT 轉換因 <xsl:message> 而結束。
+xslt-network-error = 載入 XSLT 樣式表時發生網路錯誤:
 xslt-wrong-mime-type = XSLT 樣式表沒有 XML mimetype:
 xslt-load-recursion = XSLT 樣式表直接或間接的試圖遞迴載入它自己:
 xpath-bad-argument-count = 呼叫 XPath 函式時傳入的參數數目不對。
@@ -27,6 +36,10 @@ xpath-unbalanced-curly-brace = 大括弧不對稱。
 xslt-bad-node-name = 建立中的元素有無效的 QName。
 xslt-var-already-set = 可變繫結 (Variable binding) 於相同模板中緊隨另一個可變繫結。
 xslt-call-to-key-not-allowed = 不允許呼叫 key 函數。
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = 發生錯誤 ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
