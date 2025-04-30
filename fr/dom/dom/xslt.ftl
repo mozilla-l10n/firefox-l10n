@@ -5,6 +5,14 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = Échec de l’analyse d’une feuille de style XSLT.
+xpath-parse-failure = Échec de l’analyse d’une expression XPath.
+xslt-execution-failure = Échec de transformation XSLT.
+xpath-unknown-function = Fonction XSLT/XPath non valide.
+xslt-bad-recursion = La feuille de style XSLT contient (probablement) une boucle.
+xslt-bad-value = Valeur d’attribut illégale en XSLT 1.0.
+xslt-nodeset-expected = Un NodeSet était attendu en retour d’une expression XPath.
+xslt-aborted = Une transformation XSLT s’est terminée par <xsl:message>.
 xslt-network-error = Une erreur réseau s’est produite lors du chargement d’une feuille de style XSLT :
 xslt-wrong-mime-type = Une feuille de style XSLT ne possède pas de type Mime XML :
 xslt-load-recursion = Une feuille de style XSLT s’importe ou s’inclut elle-même, directement ou indirectement :
@@ -28,6 +36,10 @@ xpath-unbalanced-curly-brace = Accolade non appariée.
 xslt-bad-node-name = Création d’un élément avec un QName invalide.
 xslt-var-already-set = Une liaison de variable se superpose à une autre dans le même modèle.
 xslt-call-to-key-not-allowed = Appel à la fonction key non autorisé.
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = Une erreur inconnue s’est produite ({ $errorCode }).
 
 ## Messages for the XML error page.
 ##
