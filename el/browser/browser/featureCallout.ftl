@@ -96,6 +96,7 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Όχι, ευχαριστώ
 
 perplexity-callout-theme-1-title = Χρειάζεστε άμεσα τη σωστή απάντηση;
 perplexity-callout-theme-2-title = Δοκιμάστε το Perplexity, έναν νέο τρόπο αναζήτησης
+perplexity-callout-theme-1-subtitle-1 = Δοκιμάστε το Perplexity. Επιλέξτε το από το κουμπί αναζήτησης όταν θέλετε πλήρεις απαντήσεις, μαζί με τις πηγές.
 perplexity-callout-secondary-label-1 = Απόρριψη
 perplexity-callout-secondary-label-2 = Το κατάλαβα
 
