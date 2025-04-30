@@ -5,6 +5,9 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-network-error = Ur fazi gant ar genrouedad a zegouezhas e-pad pellgargañ ar follennad stil XSLT:
+xslt-wrong-mime-type = N'eus ket ur rizh MIME XML er follennad stil XSLT:
+xslt-load-recursion = Enporzhiet pe enlakaet e vez end-eeun pe dieeun gant ur follennad stil XSLT drezi hec'h-unan:
 xpath-bad-argument-count = Un arc'hwel XPath zo bet galvet gant an niverenn arguzenn fall.
 xpath-bad-extension-function = Galvet ez eus bet un arc'hwel askouezhiañ dianav mod XPath.
 xpath-paren-expected = C'hwitadenn war dezrannañ an XPath: ‘)’ gortozet:
