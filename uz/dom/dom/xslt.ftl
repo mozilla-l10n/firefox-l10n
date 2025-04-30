@@ -5,6 +5,14 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = XSLT uslubni ajratishda xatolik.
+xpath-parse-failure = XPath ifodani ajratishda xatolik.
+xslt-execution-failure = XSLT o‘girishda xatolik.
+xpath-unknown-function = Noto‘g‘ri XSLT/XPath funksiyasi.
+xslt-bad-recursion = XSLT uslub (ehtimol)da rekursiya bor.
+xslt-bad-value = Atribut qiymati noqonuniy XSLT 1.0 da.
+xslt-nodeset-expected = XPath ifodasi NodeSet’ni qaytarishi kutilgan edi.
+xslt-aborted = XSLT o‘girish <xsl:message> tomonidan to‘xtatilgan.
 xslt-network-error = XSLT uslubni yuklashda tarmoq xatosi yuz berdi:
 xslt-wrong-mime-type = XSLT uslubda XML mimetype yo‘q:
 xslt-load-recursion = XSLT uslub bevosita va bilvosita import qiladi yoki o‘zini qo‘shadi:
@@ -28,6 +36,10 @@ xpath-unbalanced-curly-brace = Hajmi to‘g‘ri kelmaydigan hajmli qavs.
 xslt-bad-node-name = Noto‘g‘ri QName bilan element yaratilmoqda.
 xslt-var-already-set = O‘zgaruvchan bog‘lanish soyalari o‘zgaruvchan bog‘lanish bir xil shablon ichida.
 xslt-call-to-key-not-allowed = Qo‘ng‘iroq qilish tugmasi funksiyasiga ruxsat berilmaydi.
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = Noma`lum xato yuz berdi ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
