@@ -17,6 +17,16 @@ xpath-bracket-expected = Няўдача разбору XPath: чакаецца '
 xpath-invalid-var-name = Няўдача разбору XPath: недапушчальная назва зменнай:
 xpath-unexpected-end = Няўдача разбору XPath: нечаканы канец выразу:
 xpath-operator-expected = Няўдача разбору XPath: чакаецца чыннік:
+xpath-unclosed-literal = Няўдача разбору XPath: незакрытая канстанта:
+xpath-bad-colon = Няўдача разбору XPath: нечаканае ':':
+xpath-bad-bang = Няўдача разбору XPath: нечаканы '!', адмова -- not():
+xpath-illegal-char = Няўдача разбору XPath: знойдзены недапушчальны знак:
+xpath-binary-expected = Няўдача разбору XPath: чакаецца двайковы чыннік:
+xslt-load-blocked-error = Загрузка табліцы стыляў XSLT затрымана дзеля бяспекі.
+xpath-invalid-expression-evaluated = Ацэнка несапраўднага выразу.
+xpath-unbalanced-curly-brace = Неўраўнаважаная выгнутая дужка.
+xslt-bad-node-name = Стварэнне адзінкі з недапушчальнай QName.
+xslt-var-already-set = Звязванне зменнай зацяняе звязванне зменнай у тым жа ўзоры.
 xslt-call-to-key-not-allowed = Выклік ключавой функцыі не дазволены.
 
 ## Messages for the XML error page.
