@@ -2,6 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+troubleshoot-mode-window =
+    .title = Buksan ang { -brand-short-name } sa Troubleshoot Mode?
+    .style = max-width: 400px
+start-troubleshoot-mode =
+    .label = Buksan
 refresh-profile =
     .label = I-refresh ang { -brand-short-name }
 # Shown on the safe mode dialog after multiple startup crashes.

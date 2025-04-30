@@ -27,6 +27,7 @@ return-to-amo-add-extension-label = Idagdag ang Extension
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
+mr1-return-to-amo-add-extension-label = Idagdag ang { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
@@ -53,6 +54,7 @@ mr1-onboarding-theme-label-light = Maliwanag
 mr1-onboarding-theme-label-dark = Madilim
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Alpenglow
+onboarding-theme-primary-button-label = Tapos na
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
@@ -102,6 +104,8 @@ mr1-onboarding-theme-description-alpenglow =
 
 ## Strings for Thank You page
 
+mr2-onboarding-thank-you-header = Salamat sa pagpili sa amin
+mr2-onboarding-start-browsing-button-label = Simulan ang pag-browse
 
 ## Multistage live language reloading onboarding strings (about:welcome pages)
 ##
@@ -112,18 +116,29 @@ mr1-onboarding-theme-description-alpenglow =
 ##   $systemLanguage (String) - The name of the system language, e.g "Español (ES)"
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
+onboarding-live-language-header = Piliin ang iyong wika
+mr2022-onboarding-live-language-text = Sinasalita ng { -brand-short-name } ang iyong wika
+mr2022-onboarding-live-language-continue-in = Magpatuloy sa { $appLanguage }
+onboarding-live-language-secondary-cancel-download = Ikansela
 
 ## Firefox 100 Thank You screens
 
+fx100-thank-you-subtitle = Ito ang aming ika-100 release! Salamat sa pagtulong sa amin na bumuo ng isang mas mahusay, mas mabuti na internet.
 
 ## MR2022 New User Easy Setup screen strings
 
+# Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
+mr2022-onboarding-easy-setup-primary-button-label = I-save at magpatuloy
+# Import action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-import-checkbox-label = Mag-import mula sa dati mong browser
 
 ## MR2022 New User Pin Firefox screen strings
 
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = Salamat sa pagmamahal mo sa { -brand-product-name }
 
 ## MR2022 New User Set Default screen strings
 
@@ -132,6 +147,7 @@ mr1-onboarding-theme-description-alpenglow =
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+mr2022-onboarding-get-started-primary-button-label = I-set up ng ilang segundo
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
@@ -143,6 +159,10 @@ mr1-onboarding-theme-description-alpenglow =
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-label-default = Default
+mr2022-onboarding-colorway-tooltip-default2 =
+    .title = Kasalukuyang mga kulay ng { -brand-short-name }
+mr2022-onboarding-colorway-label-playmaker = Playmaker
 
 ## MR2022 Multistage Mobile Download screen strings
 

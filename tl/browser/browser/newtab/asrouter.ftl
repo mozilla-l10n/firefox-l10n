@@ -171,6 +171,8 @@ colorways-cfr-header-today = Ang Independent Voices colorways ay mag-e-expire ng
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Kaming bahala sa iyo
+july-jam-body = Buwan-buwan, hinaharang ng { -brand-short-name } ang humigit-kumulang na 3,000+ tracker bawat user, na nagbibigay sa iyo ng ligtas at mabilis na access sa mabuting internet.
+july-jam-set-default-primary = Buksan ang aking mga link gamit ang { -brand-short-name }
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 

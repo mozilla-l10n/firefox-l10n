@@ -164,10 +164,15 @@ containers-remove-cancel-button = Huwag alisin ang Container na ito
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Wika at Hitsura
+preferences-web-appearance-choice-auto = Awtomatiko
+preferences-web-appearance-choice-light = Maliwanag
+preferences-web-appearance-choice-dark = Madilim
 preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+preferences-colors-header = Mga kulay
+preferences-fonts-header = Mga font
 default-font = Default na font
     .accesskey = D
 default-font-size = Laki
@@ -729,6 +734,7 @@ forms-breach-alerts =
     .label = Magpakita ng mga alerto tungkol sa mga password sa mga breached website
     .accesskey = b
 forms-breach-alerts-learn-more-link = Alamin
+relay-integration-learn-more-link = Alamin
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = I-autofill ang mga login at password
@@ -755,6 +761,7 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = Kilala dati bilang Master Password
 forms-primary-pw-fips-title = Kasalukuyan kang naka-FIPS mode. Kinakailangan ng FIPS ng isang hindi blangkong Primary Password.
 forms-master-pw-fips-desc = Nabigo ang Pagpalit ng Password
+forms-windows-sso-learn-more-link = Alamin
 
 ## OS Authentication dialog
 
@@ -838,6 +845,8 @@ sitedata-block-desc = Uri ng content na hinaharang
     .accesskey = T
 sitedata-option-block-cross-site-trackers =
     .label = Mga cross-site tracker
+sitedata-option-block-cross-site-tracking-cookies =
+    .label = Mga cross-site tracking cookie
 sitedata-option-block-unvisited =
     .label = Mga cookie na galing sa mga hindi pa nabisitang website
 sitedata-option-block-all =
@@ -882,6 +891,7 @@ addressbar-locbar-engines-option =
     .label = Mga search engine
     .accesskey = a
 addressbar-suggestions-settings = Baguhin ang mga kagustuhan para sa mga mungkahi ng search engine
+addressbar-quickactions-learn-more = Alamin
 
 ## Privacy Section - Content Blocking
 
@@ -923,6 +933,7 @@ content-blocking-fingerprinters = Mga Fingerprinter
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
+content-blocking-etp-standard-tcp-rollout-learn-more = Alamin
 content-blocking-warning-title = Mag-ingat!
 content-blocking-and-isolating-etp-warning-description-2 = Ang setting na ito ay maaaring maging sanhi ng ilang mga website na hindi ipakita ang nilalaman o gumana nang tama. Kung tila nasira ang isang site, baka gusto mong patayin ang tracking protection para sa site na iyon upang mai-load ang lahat ng nilalaman.
 content-blocking-warning-learn-how = Alamin kung paano
@@ -995,6 +1006,12 @@ permissions-autoplay-settings =
 permissions-block-popups =
     .label = Harangin ang mga pop-up window
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button =
+    .label = Mga Exception…
+    .accesskey = E
+    .searchkeywords = mga popup
 permissions-addon-install-warning =
     .label = Balaan ka kapag sinusubukan ng mga website na magkabit ng mga add-on
     .accesskey = W
@@ -1022,6 +1039,8 @@ addon-recommendations-link = Alamin
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Naka-disable ang pag-uulat ng data para sa build configuration na ito
+privacy-segmentation-radio-on =
+    .label = Ipakita ang detalyadong impormasyon
 
 ## Privacy Section - Website Advertising Preferences
 
@@ -1056,6 +1075,9 @@ certs-view =
 certs-devices =
     .label = Mga Security Device...
     .accesskey = D
+space-alert-over-5gb-settings-button =
+    .label = Buksan ang Mga Setting
+    .accesskey = O
 
 ## Privacy Section - HTTPS-Only
 

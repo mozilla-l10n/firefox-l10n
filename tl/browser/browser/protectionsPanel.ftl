@@ -111,6 +111,12 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 # Cookie Banner Handling
 
+protections-panel-cookie-banner-handling-enabled = Nakabukas para sa site na ito
+protections-panel-cookie-banner-handling-disabled = Nakasara para sa site na ito
+protections-panel-cookie-banner-handling-undetected = Hindi suportado ang site sa ngayon.
+protections-panel-cookie-banner-view-cancel = Ikansela
+protections-panel-cookie-banner-view-turn-off = Isara
+protections-panel-cookie-banner-view-turn-on = Buksan
 
 ## Protections panel info message
 
