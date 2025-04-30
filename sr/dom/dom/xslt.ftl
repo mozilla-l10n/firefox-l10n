@@ -5,6 +5,7 @@
 
 ## XSLT and XPath specific errors.
 
+xpath-unexpected-end = Грешка растављања XPath-а: неочекивани крај израза:
 xpath-invalid-expression-evaluated = Израчунавање неисправног израза.
 xpath-unbalanced-curly-brace = Неуравнотежене витичасте заграде.
 xslt-bad-node-name = Прављење елемента са неважећим QName.
