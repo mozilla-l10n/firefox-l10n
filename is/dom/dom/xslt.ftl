@@ -5,6 +5,14 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = Þáttun mistókst fyrir XSLT stílblað.
+xpath-parse-failure = Þáttun mistókst fyrir XPath segð.
+xslt-execution-failure = XSLT vörpun mistókst.
+xpath-unknown-function = Ógilt XSLT/XPath fall.
+xslt-bad-recursion = XSLT stílblað (hugsanlega) inniheldur sjálfkvaðningu.
+xslt-bad-value = Gildi eigindis ógilt í XSLT 1.0.
+xslt-nodeset-expected = Bjóst við að XPath segð skilaði NodeSet.
+xslt-aborted = XSLT vörpun var hætt vegna <xsl:message>.
 xslt-network-error = Netvilla kom upp við niðurhal á XSLT stílblaði:
 xslt-wrong-mime-type = XSLT stílblað má ekki vera með XML gagnategund:
 xslt-load-recursion = XSLT stílblað inniheldur sjálfa sig annaðhvort beint eða óbeint:
@@ -28,6 +36,10 @@ xpath-unbalanced-curly-brace = Misræmi í fjölda oddsviga.
 xslt-bad-node-name = Bjó til einindi með ógilt QName.
 xslt-var-already-set = Binding breytu bindir einnig breytur innan sama sniðmáts.
 xslt-call-to-key-not-allowed = Að kalla á key fallið er ekki leyft.
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = Upp kom óþekkt villa ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
