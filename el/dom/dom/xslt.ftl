@@ -5,6 +5,7 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-network-error = Σφάλμα δικτύου κατά τη φόρτωση ενός  XSLT stylesheet
 xslt-wrong-mime-type = Ένα XSLT stylesheet  δεν έχει ένα τύπο mime XML:
 xslt-load-recursion = Ένα XSLT stylesheet  έμμεσα ή άμεσα περιλαμβάνει τον εαυτό του:
 xpath-bad-argument-count = Μια λειτουργία XPath  κλήθηκε με εσφαλμένο αριθμό παραμέτρων
