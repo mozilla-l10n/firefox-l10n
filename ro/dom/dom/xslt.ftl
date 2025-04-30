@@ -5,6 +5,15 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = Analiza unei foi de stil XSLT a eșuat.
+xpath-parse-failure = Analiza unei expresii XPath a eșuat.
+xslt-execution-failure = Transformarea XSLT a eșuat.
+xpath-unknown-function = Funcție XSLT/XPath nevalidă.
+xslt-bad-recursion = Foaia de stil XSLT conține (probabil) o recursivitate.
+xslt-bad-value = Valoare ilegală de atribut în XSLT 1.0.
+xslt-nodeset-expected = O expresie XPath trebuia să întoarcă un NodeSet.
+xslt-aborted = Transformarea XSLT a fost terminată de <xsl:message>.
+xslt-network-error = A apărut o eroare de rețea la încărcarea foii de stil XSLT:
 xslt-wrong-mime-type = O fișă de stil XSLT nu are un tip mime XML:
 xslt-load-recursion = O fișă de stil XSLT se importă sau se include singură, direct sau indirect:
 xpath-bad-argument-count = O funcție XPath a fost apelată cu un număr greșit de argumente.
@@ -27,6 +36,10 @@ xpath-unbalanced-curly-brace = O acoladă nu este închisă.
 xslt-bad-node-name = Se creează un element cu un QName nevalid.
 xslt-var-already-set = Cuplarea variabilelor umbrește cuplarea variabilelor în același șablon.
 xslt-call-to-key-not-allowed = Apelul funcției key nu este permis.
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = S-a produs o eroare necunoscută ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
