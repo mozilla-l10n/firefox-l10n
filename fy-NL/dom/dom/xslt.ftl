@@ -7,6 +7,7 @@
 
 xslt-network-error = Der is in netwurkflater bard wylst it laden fan in XSLT-stylblêd:
 xslt-wrong-mime-type = In XSLT-stylblêd hat gjin XML-mimetype:
+xslt-load-recursion = In XSLT-stylblêd ymportearret of befettet himsels direkt of yndirekt:
 xpath-bad-argument-count = Der is in XPath-funksje oanroppen mei it ferkeard tal arguminten.
 xpath-bad-extension-function = Der is in ûnbekende XPath-bylagefunksje oanroppen.
 xpath-paren-expected = XPath-parseflater: ')' ferwachte:
