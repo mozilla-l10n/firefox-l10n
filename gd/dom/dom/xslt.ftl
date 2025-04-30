@@ -5,6 +5,14 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = Dh'fhàillig parsadh bileag-stoidhle XSLT.
+xpath-parse-failure = Dh'fhàillig parsadh an spreisein XPath.
+xslt-execution-failure = Dh'fhàillig cruth-atharrachadh XSLT.
+xpath-unknown-function = Foincsean XSLT/XPath mì-dhligheach.
+xslt-bad-recursion = Ath-chùrsadh san duilleag-stoidhle XSLT ('s dòcha).
+xslt-bad-value = Luach buaidh mì-dhligheach ann an XSLT 1.0.
+xslt-nodeset-expected = Bha dùil gun till an spresiean XPath NodeSet.
+xslt-aborted = Chaidh crìoch a chur air a' chruth-atharrachadh XSLT le <xsl:message>.
 xslt-network-error = Thachair mearachd an lìonraidh rè luchdadh duilleige stoidhle XSLT:
 xslt-wrong-mime-type = Chan eil XML mimetype aig duilleag-stoidhle XSLT:
 xslt-load-recursion = Tha duilleag-stoidhle XSLT 'ga thoirt a-steach gu dìreach no neo-dhìreach no tha e fhèin ann:
@@ -28,6 +36,10 @@ xpath-unbalanced-curly-brace = Cromag dhualach neo-chothromaichte.
 xslt-bad-node-name = A' cruthachadh eileamaid le QName mì-dhligheach.
 xslt-var-already-set = Tha ceangal caochladair a' sgàileadh ceangal caochladair am broinn na dearbh theamplaid.
 xslt-call-to-key-not-allowed = Call to the key function not allowed.
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = Thachair mearachd neo-aithnichte ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
