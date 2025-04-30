@@ -54,6 +54,10 @@ neterror-dns-not-found-hint-header = <strong>Doğru adresi girdiyseniz şunları
 neterror-dns-not-found-hint-try-again = Daha sonra yeniden deneyin
 neterror-dns-not-found-hint-check-network = Ağ bağlantınızı kontrol edin
 neterror-dns-not-found-hint-firewall = { -brand-short-name } tarayıcısının web’e erişim izni olup olmadığını kontrol edin (Bağlı olsanız da bir güvenlik duvarının arkasında olabilirsiniz)
+neterror-dns-not-found-offline-hint-header = <strong>Ne yapabilirsiniz?</strong>
+neterror-dns-not-found-offline-hint-different-device = Başka bir cihazdan bağlanmayı deneyin.
+neterror-dns-not-found-offline-hint-modem = Modeminizi veya yönlendiricinizi kontrol edin.
+neterror-dns-not-found-offline-hint-reconnect = Wi-Fi bağlantısını kesip yeniden bağlanın.
 
 ## TRR-only specific messages
 ## Variables:

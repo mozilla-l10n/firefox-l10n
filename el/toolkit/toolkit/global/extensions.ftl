@@ -120,4 +120,5 @@ webext-site-perms-midi-sysex = Πρόσβαση σε συσκευές MIDI με 
 
 ## Colorway theme migration
 
+webext-colorway-theme-migration-notification-message = <b>Το θέμα χρωματικού συνδυασμού σας αφαιρέθηκε.</b> Το { -brand-shorter-name } ενημέρωση τη συλλογή χρωματικών συνδυασμών. Μπορείτε να βρείτε τις πιο πρόσφατες εκδόσεις στον ιστότοπο των προσθέτων.
 webext-colorway-theme-migration-notification-button = Απόκτηση νέων χρωματικών συνδυασμών

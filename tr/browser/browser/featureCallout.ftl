@@ -94,6 +94,8 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Hayır
 
 ## Perplexity callout strings
 
+perplexity-callout-secondary-label-1 = Kapat
+perplexity-callout-secondary-label-2 = Anladım
 
 ## Sidebar Strings
 

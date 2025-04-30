@@ -18,8 +18,10 @@ preonboarding-privacy-notice-header-button-title = Gizlilik Bildirimimizi okuyun
 preonboarding-manage-data-header-button-title = Tanılama ve etkileşim verilerini yönetin
 # Labels for header style button that toggles showing the Terms of Use (Variant B)
 preonboarding-terms-of-use-header-button-title-b = { -brand-product-name } Kullanım Koşulları
+preonboarding-terms-of-use-header-button-title-b-v2 = Kullanım Koşulları
 # Labels for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = { -brand-product-name } Gizlilik Bildirimi
+preonboarding-privacy-notice-header-button-title-b-v2 = Gizlilik Bildirimi
 # Description under label for header style buttons
 preonboarding-header-button-description = Devamını oku
 # New user onboarding checklist

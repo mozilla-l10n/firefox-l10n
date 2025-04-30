@@ -388,6 +388,7 @@ quickactions-print2 = Sayfayı yazdır
 quickactions-cmd-print = yazdır
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Sayfayı PDF olarak kaydet
+quickactions-cmd-savepdf2 = pdf, sayfayı kaydet
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Gizli pencere aç
@@ -404,6 +405,8 @@ quickactions-cmd-screenshot2 = ekran görüntüsü al
 quickactions-cmd-screenshot = ekran görüntüsü
 # Opens about:preferences
 quickactions-settings2 = Ayarları yönet
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = ayarlar, tercihler, seçenekler
 quickactions-cmd-settings = ayarlar, tercihler, seçenekler
 # Opens about:addons page in the themes section
 quickactions-themes = Temaları yönet
@@ -1258,3 +1261,4 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = Kurulumu tamamla

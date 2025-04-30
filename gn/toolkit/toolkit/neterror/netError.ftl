@@ -55,6 +55,7 @@ neterror-dns-not-found-hint-firewall = Ehechajey { -brand-short-name } oguerekó
 neterror-dns-not-found-offline-hint-header = <strong>¿Mba’épa ejapóta upévare?</strong>
 neterror-dns-not-found-offline-hint-different-device = Eñeha’ã eike ambue mba’e’okápe.
 neterror-dns-not-found-offline-hint-modem = Ehechajey ne módem térã mbojuajuha.
+neterror-dns-not-found-offline-hint-reconnect = Esẽte ha upéi eikejey Wi-Fi rupive.
 
 ## TRR-only specific messages
 ## Variables:
