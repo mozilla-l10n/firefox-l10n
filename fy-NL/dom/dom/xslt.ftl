@@ -5,6 +5,14 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = Untleden fan in XSLT-stylblêd mislearre.
+xpath-parse-failure = Untleden fan in XPath-ekspresje mislearre.
+xslt-execution-failure = XSLT-transformaasje mislearre.
+xpath-unknown-function = Unjildige XSLT/XPath-funksje.
+xslt-bad-recursion = XSLT-stylblêd befettet (mooglik) in rekursje.
+xslt-bad-value = Attribuutwearde illegaal yn XSLT 1.0.
+xslt-nodeset-expected = Der waard in NodeSet ferwachte as resultaat fan in XPath-ekspresje.
+xslt-aborted = XSLT-transformaasje is ôfbrutsen troch <xsl:message>.
 xslt-network-error = Der is in netwurkflater bard wylst it laden fan in XSLT-stylblêd:
 xslt-wrong-mime-type = In XSLT-stylblêd hat gjin XML-mimetype:
 xslt-load-recursion = In XSLT-stylblêd ymportearret of befettet himsels direkt of yndirekt:
@@ -28,6 +36,10 @@ xpath-unbalanced-curly-brace = Unbalansearre krullende bân.
 xslt-bad-node-name = Meitsjen fan in elemint mei in ûnjildige QName.
 xslt-var-already-set = Fariabele binding skermt fariabele binding yn itselde sjabloan ôf.
 xslt-call-to-key-not-allowed = Oanrop nei de kaaifunksje net tastien.
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = Der is in ûnbekende flater bard ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
