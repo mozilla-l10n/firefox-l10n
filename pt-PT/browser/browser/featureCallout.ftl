@@ -68,12 +68,41 @@ split-dismiss-button-default-label =
 
 ## Login Status Advisory Callout (points to the account icon)
 
+# The 'account icon' is the toolbar button with a 'profile' icon of a human
+# head/shoulders. It's for dealing with your Mozilla account. When hovering the
+# icon, the tooltip says 'Account'.
+login-status-advisory-title = A sua sessão foi terminada. Clique no ícone da conta para iniciar sessão.
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-title = Adicionar este site à sua barra de ferramentas dos marcadores?
+bookmarks-toolbar-callout-1-subtitle = O seu marcador será guardado logo abaixo da barra de endereço para acesso rápido.
+bookmarks-toolbar-callout-1-primary-button-label = Adicionar marcador
+bookmarks-toolbar-callout-1-secondary-button-label = Não, obrigado
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = Adicione mais marcadores com facilidade
+bookmarks-toolbar-callout-2a-subtitle = Pode arrastar e largar os separadores aqui para manter mais dos seus sites favoritos ao seu alcance.
+bookmarks-toolbar-callout-2a-primary-button-label = Percebi
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Ocultar barra de ferramentas
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = Manter a barra de ferramentas dos seus marcadores aberta?
+bookmarks-toolbar-callout-2b-subtitle = Pode adicionar outros sites que visita com mais frequência. Simplesmente arraste e largue os separadores aqui para manter os seus sites favoritos ao seu alcance.
+bookmarks-toolbar-callout-2b-primary-button-label = Manter aberta
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = Não, obrigado
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-1-title = Precisa da resposta certa, imediatamente?
+perplexity-callout-theme-2-title = Experimente o Perflexity: uma nova forma para pesquisar
+perplexity-callout-theme-1-subtitle-1 = Experimente o Perflexity. Escolha esta opção no botão de pesquisa quando quiser respostas completas, incluindo as fontes.
+perplexity-callout-theme-1-subtitle-2 = Coloque perguntas. Obtenha respostas completas e bem elaboradas. Para experimentar o Perflexity, selecione o mesmo no botão de pesquisa.
+perplexity-callout-theme-2-subtitle-1 = Pergunte ao Perflexity. Irá obter respostas completas, fontes incluídas.
+perplexity-callout-theme-2-subtitle-2 = Coloque perguntas. Obtenha respostas completas e bem elaboradas.
+perplexity-callout-primary-label = Pergunte ao Perflexity
+perplexity-callout-secondary-label-1 = Ignorar
+perplexity-callout-secondary-label-2 = Percebi
 
 ## Sidebar Strings
 

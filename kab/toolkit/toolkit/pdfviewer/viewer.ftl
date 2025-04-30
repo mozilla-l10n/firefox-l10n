@@ -316,9 +316,14 @@ pdfjs-highlight-floating-button1 =
     .title = Derrer
     .aria-label = Derrer
 pdfjs-highlight-floating-button-label = Derrer
+pdfjs-editor-signature-button =
+    .title = Rnu azmul
+pdfjs-editor-signature-button-label = Rnu azmul
 
 ## Default editor aria labels
 
+pdfjs-editor-stamp-editor =
+    .aria-label = Amaẓrag n tugna
 
 ## Remove button for the various kind of editor.
 
@@ -330,6 +335,8 @@ pdfjs-editor-remove-stamp-button =
     .title = Kkes tugna
 pdfjs-editor-remove-highlight-button =
     .title = Kkes aderrer
+pdfjs-editor-remove-signature-button =
+    .title = Kkes azmul
 
 ##
 
@@ -346,6 +353,9 @@ pdfjs-editor-stamp-add-image-button-label = Rnu tawlaft
 pdfjs-editor-free-highlight-thickness-input = Tuzert
 pdfjs-editor-free-highlight-thickness-title =
     .title = Beddel tuzert mi ara d-tesbeggneḍ iferdisen niḍen ur nelli d aḍris
+pdfjs-editor-signature-add-signature-button =
+    .title = Rnu azmul amaynut
+pdfjs-editor-signature-add-signature-button-label = Rnu azmul amaynut
 pdfjs-free-text =
     .aria-label = Amaẓrag n uḍris
 pdfjs-free-text-default-content = Bdu tira...

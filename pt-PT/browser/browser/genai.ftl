@@ -137,6 +137,7 @@ genai-onboarding-lechat-learn = Saber mais sobre o Le Chat
 genai-onboarding-select-header = Selecione o texto para ver sugestões
 genai-onboarding-select-description = Quando seleciona texto, iremos sugerir mensagens que pode enviar para o chatbot. Pode também escrever as suas próprias mensagens.
 genai-onboarding-select-primary = Começar a conversar
+genai-chatbot-contextual-title = Utilize um robô de conversação de IA sem mudar de separadores
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

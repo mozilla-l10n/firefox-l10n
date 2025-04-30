@@ -344,6 +344,10 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Ver Extras
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = extensões, temas, extras
 quickactions-cmd-addons2 = extras
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Gerir marcadores
@@ -384,6 +388,7 @@ quickactions-print2 = Imprimir página
 quickactions-cmd-print = imprimir
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Guardar página como PDF
+quickactions-cmd-savepdf2 = pdf, guardar página
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Abrir janela privada
@@ -400,6 +405,8 @@ quickactions-cmd-screenshot2 = captura de ecrã, tirar uma captura de ecrã
 quickactions-cmd-screenshot = captura de ecrã
 # Opens about:preferences
 quickactions-settings2 = Gerir definições
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = definições, preferências, opções, gerir
 quickactions-cmd-settings = configurações, preferências, opções
 # Opens about:addons page in the themes section
 quickactions-themes = Gerir temas
@@ -1192,6 +1199,10 @@ popup-notification-addon-install-unsigned =
     .value = (Não verificado)
 popup-notification-xpinstall-prompt-learn-more = Saber mais acerca de instalar extras com segurança
 popup-notification-xpinstall-prompt-block-url = Ver detalhes
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = Permitir que esta extensão seja executada nas janelas privadas
+    .accesskey = p
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = Executar nas janelas privadas
@@ -1253,3 +1264,4 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = Terminar configuração
