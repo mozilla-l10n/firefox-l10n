@@ -5,6 +5,13 @@
 
 ## XSLT and XPath specific errors.
 
+xpath-paren-expected = Tuccḍa di tesleṭ n XPath: ')' itturaju:
+xpath-invalid-axis = Tuccḍa di tesleṭ n XPath: agellus arameɣtu:
+xpath-no-node-type-test = Tuccḍa di tesleṭ n XPath: akayad n Name neɣ Nodetype itturaju:
+xpath-bracket-expected = Tuccḍa di tesleṭ n XPath: ']' itturaju:
+xpath-invalid-var-name = Tuccḍa di tesleṭ n XPath: isem n imeţi arameɣtu:
+xpath-unexpected-end = Tuccḍa di tesleṭ n XPath: tagara n tenfalit ur tetturaju ara:
+xpath-operator-expected = Tuccḍa di tesleṭ n XPath: amahal itturaju:
 xpath-unclosed-literal = Tuccḍa di tesleṭ n XPath: Azrir n isekkilen ur imdil ara:
 xpath-bad-colon = Tuccḍa di tesleṭ n XPath: ':' itturaju:
 xpath-bad-bang = Tuccḍa di tesleṭ n XPath: '!' itturaju, tibawt d not():
