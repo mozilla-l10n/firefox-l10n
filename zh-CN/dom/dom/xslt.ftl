@@ -5,6 +5,14 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = 分析 XSLT 样式表单失败。
+xpath-parse-failure = 分析 XPath 表达式失败。
+xslt-execution-failure = XSLT 转换失败。
+xpath-unknown-function = XSLT/XPath 尝试调用位置函数。
+xslt-bad-recursion = XSLT 样式表单 （可能）存在递归。
+xslt-bad-value = 属性值在 XSLT 1.0 中非法。
+xslt-nodeset-expected = XPath 表达式预期返回一个 NodeSet。
+xslt-aborted = XSLT 转换因 <xsl:message> 终止。
 xslt-network-error = 加载 XSLT 样式表单时发生网络错误：
 xslt-wrong-mime-type = XSLT 样式表未指定 XML mimetype：
 xslt-load-recursion = 某个 XSLT 样式表单直接或间接导入或者包含了自身。
@@ -28,6 +36,10 @@ xpath-unbalanced-curly-brace = 大括号未成对。
 xslt-bad-node-name = 使用无效的 QName 创建元素。
 xslt-var-already-set = 变量绑定映射了同一模板内的变量绑定
 xslt-call-to-key-not-allowed = 不允许调用 key 函数。
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = 发生未知错误 ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
