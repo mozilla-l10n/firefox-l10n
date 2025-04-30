@@ -5,6 +5,19 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-network-error = XSLT stil dosyası yüklenmesinde bir ağ hatası oluştu:
+xpath-invalid-axis = XPath işleme hatası: geçersiz eksen:
+xpath-no-node-type-test = XPath işleme hatası: İsim veya Nodetype testi bekleniyordu:
+xpath-bracket-expected = XPath işleme hatası: ‘]’ bekleniyordu:
+xpath-invalid-var-name = XPath işleme hatası: geçersiz değişken adı:
+xpath-unexpected-end = XPath işleme hatası: beklenmeyen ifade sonu:
+xpath-operator-expected = XPath işleme hatası: operatör bekleniyordu:
+xpath-unclosed-literal = XPath işleme hatası: kapatılmamış düzanlamlı ifade:
+xpath-bad-colon = XPath işleme hatası: ‘:‘ bekleniyordu:
+xpath-bad-bang = XPath işleme hatası: ‘!‘ beklenmiyor, olumsuzlaştırma için not() kullanın:
+xpath-illegal-char = XPath işleme hatası: geçersiz karakter bulundu:
+xpath-binary-expected = XPath işleme hatası: binary operatörü gerekli:
+xslt-call-to-key-not-allowed = Anahtar işleve çağrı yapılamaz.
 
 ## Messages for the XML error page.
 ##
@@ -12,4 +25,5 @@
 ##   $error (string) - the specific XSLT or XPath error (a translated string
 ##   from the previous section)
 
+xslt-loading-error = Stil dosyası yüklenmesinde hata: { $error }
 xslt-transform-error = XSLT dönüşümünde hata: { $error }
