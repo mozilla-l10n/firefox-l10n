@@ -5,6 +5,11 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-network-error = Ein nettverksfeil oppsto ved lasting av XSLT-stilsett:
+xslt-wrong-mime-type = Eit XSLT-stilsett har ikkje XML mimetype:
+xslt-load-recursion = Eit XSLT-stilsett importerer eller inkluderer direkte eller indirekte til seg sjølv:
+xpath-bad-argument-count = Ein XPath-funksjon vart kalla opp med feil tal parametrar.
+xpath-bad-extension-function = Ein ukjend XPath-påbyggingsfunksjon vart kalla
 xpath-paren-expected = XPath spaltingsfeil: ')' var venta:
 xpath-invalid-axis = XPath spaltingsfeil: ugyldig akse:
 xpath-no-node-type-test = XPath spaltingsfeil: namn- eller nodetypetest var venta:
