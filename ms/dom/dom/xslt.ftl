@@ -5,6 +5,14 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = Menghurai lembaran gaya XSLT gagal.
+xpath-parse-failure = Menghurai ekspresi XPath gagal.
+xslt-execution-failure = Pengubahan XSLT gagal.
+xpath-unknown-function = Fungsi XSLT/XPath tidak sah.
+xslt-bad-recursion = Gaya-helaian XSLT (kemungkinan) mengandungi recursion.
+xslt-bad-value = Nilai atribut tidak sah dalam XSLT 1.0.
+xslt-nodeset-expected = Ekpressi XPath telah dijangka untuk mengembalikan NodeSet.
+xslt-aborted = Pengubahan XSLT ditamatkan oleh <xsl:message>.
 xslt-network-error = Ralat rangkaian berlaku memuatkan lembaran gaya XSLT:
 xslt-wrong-mime-type = Lembaran gaya XSLT tidak mempunyai jenis mime XML:
 xslt-load-recursion = Lembaran gaya XSLT secara terus atau tidak terus diimport atau termasuk dirinya sendiri:
@@ -28,6 +36,10 @@ xpath-unbalanced-curly-brace = Pengukuhan curly tidak seimbang.
 xslt-bad-node-name = Mereka cipta satu elemen dengan QName yang tidak sah.
 xslt-var-already-set = pembolehubah yang sah akan menyamai pembolehubah yang sah dengan templat yang sama
 xslt-call-to-key-not-allowed = Panggilan fungsi utama tidak dibenarkan.
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = Ralat tidak diketahui telah berlaku ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
