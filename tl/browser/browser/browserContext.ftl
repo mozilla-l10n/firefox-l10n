@@ -89,6 +89,28 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-page-mac =
+    .label = I-bookmark ang Pahina…
+    .accesskey = m
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-page-mac,
+# so should probably have the same access key if possible.
+main-context-menu-edit-bookmark-mac =
+    .label = Baguhin ang Bookmark…
+    .accesskey = m
+main-context-menu-edit-bookmark =
+    .aria-label = Baguhin ang Bookmark…
+    .accesskey = m
+    .tooltiptext = Baguhin ang bookmark
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut =
+    .aria-label = Baguhin ang Bookmark…
+    .accesskey = m
+    .tooltiptext = Baguhin ang bookmark ({ $shortcut })
 main-context-menu-open-link =
     .label = Buksan ang Link
     .accesskey = O
@@ -104,8 +126,11 @@ main-context-menu-open-link-new-window =
 main-context-menu-open-link-new-private-window =
     .label = Buksan ang Link sa Bagong Pribadong Window
     .accesskey = P
+main-context-menu-bookmark-link-2 =
+    .label = I-bookmark ang Link…
+    .accesskey = B
 main-context-menu-save-link =
-    .label = i-Save ang Link Bilang…
+    .label = I-save ang Link Bilang…
     .accesskey = k
 main-context-menu-save-link-to-pocket =
     .label = i-Save ang Link sa { -pocket-brand-name }
@@ -271,6 +296,9 @@ main-context-menu-suggest-strong-password =
 main-context-menu-manage-logins2 =
     .label = Pamahalaan ang ang Login
     .accesskey = L
+main-context-menu-manage-passwords =
+    .label = Pamahalaan ang Mga Password
+    .accesskey = M
 main-context-menu-keyword =
     .label = Magdagdag ng Keyword para sa Search na ito...
     .accesskey = K
@@ -290,8 +318,11 @@ main-context-menu-frame-open-window =
     .label = Buksan ang Frame sa Bagong Window
     .accesskey = W
 main-context-menu-frame-reload =
-    .label = I-load ang Frame muli
-    .accesskey = l
+    .label = I-reload ang Frame
+    .accesskey = R
+main-context-menu-frame-add-bookmark =
+    .label = I-bookmark ang Frame…
+    .accesskey = m
 main-context-menu-frame-save-as =
     .label = i-Save ang Frame Bilang…
     .accesskey = F

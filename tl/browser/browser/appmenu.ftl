@@ -250,6 +250,10 @@ appmenuitem-report-broken-site =
 
 appmenuitem-sign-in-account = Mag-sign in sa iyong account
 appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = I-mask ang iyong tunay na email at telepono
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = Protektahan ang iyong online na aktibidad
 
 ## Profiles panel
 
