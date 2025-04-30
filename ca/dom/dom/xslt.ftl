@@ -8,6 +8,8 @@
 xslt-network-error = S'ha produït un error de xarxa en carregar un full d'estil XSLT:
 xslt-wrong-mime-type = Un full d'estil XSLT no té cap tipus MIME XML:
 xslt-load-recursion = Un full d'estil XSLT s'importa o s'inclou, directament o indirectament, a ell mateix:
+xpath-bad-argument-count = S'ha cridat una funció XPath amb un nombre d'arguments incorrecte.
+xpath-bad-extension-function = S'ha cridat una funció d'una extensió XPath desconeguda.
 
 ## Messages for the XML error page.
 ##
