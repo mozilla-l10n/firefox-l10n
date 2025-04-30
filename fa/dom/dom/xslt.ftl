@@ -10,10 +10,24 @@ xslt-wrong-mime-type = برگهٔ سبک XSLT دارای نوع MIME مناسب 
 xslt-load-recursion = برگهٔ سبک XSLT به صورت مستقیم یا غیرمستقیم خود را فرامی‌خواند:
 xpath-bad-argument-count = تابع XPath با تعداد آرگومان اشتباه فراخوانی گردید.
 xpath-bad-extension-function = تابع الحاقی ناشناختهٔ XPath فراخوانی گردید.
+xpath-paren-expected = شکست تجزیهٔ XPath: '‎)‎' مورد انتظار بود:
+xpath-invalid-axis = شکست تجزیهٔ XPath: محور نامعتبر:
+xpath-no-node-type-test = شکست تجزیهٔ XPath: آزمون Name یا Nodetype مورد انتظار بود:
+xpath-bracket-expected = شکست تجزیهٔ XPath: '‎]‎' مورد انتظار بود:
+xpath-invalid-var-name = شکست تجزیهٔ XPath: نام متغیر نامعتبر:
+xpath-unexpected-end = شکست تجزیهٔ XPath: پایان غیر منتظرهٔ عبارت:
+xpath-operator-expected = شکست تجزیهٔ XPath: عملگر مورد انتظار بود:
+xpath-unclosed-literal = شکست تجزیهٔ XPath: لفظ ناتمام:
+xpath-bad-colon = شکست تجزیهٔ XPath: ':' مورد انتظار بود:
+xpath-bad-bang = شکست تجزیهٔ XPath: '!' مورد انتظار بود، نفی ‎not()‎ است:
+xpath-illegal-char = شکست تجزیهٔ XPath: نویسهٔ نامعتبری پیدا شد:
+xpath-binary-expected = شکست تجزیهٔ XPath: عملگر دودویی مورد انتظار بود:
+xslt-load-blocked-error = بارگذاری برگهٔ سبک XSLT به دلایل امنیتی لغو گردید.
 xpath-invalid-expression-evaluated = ارزیابی یک عبارت نامعتبر.
 xpath-unbalanced-curly-brace = تعداد آکولاد باز و بستهٔ ناهمخوان.
 xslt-bad-node-name = ایجاد یک عنصر توسط یک QName نامعتبر.
 xslt-var-already-set = قید متغیر، قیدهای متغیر دیگر تعریف شده در همان قالب را می‌پوشاند.
+xslt-call-to-key-not-allowed = پاسخ به تابع کلیدی مجاز نیست.
 
 ## Messages for the XML error page.
 ##
@@ -21,3 +35,5 @@ xslt-var-already-set = قید متغیر، قیدهای متغیر دیگر تع
 ##   $error (string) - the specific XSLT or XPath error (a translated string
 ##   from the previous section)
 
+xslt-loading-error = خطا در بارگذاری برگهٔ سبک: { $error }
+xslt-transform-error = خطا در حال تبدیل XSLT: { $error }
