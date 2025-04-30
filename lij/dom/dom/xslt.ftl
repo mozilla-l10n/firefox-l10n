@@ -22,6 +22,10 @@ xpath-bad-colon = Analixi XPath falia: no m'aspetavo ':' :
 xpath-bad-bang = Analixi XPath falia: no m'aspetavo '!', a negaçion a l'é not():
 xpath-illegal-char = Analixi XPath falia: atrovou caratere contro a lezze:
 xpath-binary-expected = Analixi XPath falia: m'aspetavo 'n'operatô binaio:
+xslt-load-blocked-error = Un caregamento de un XSLT stylesheet o l'é stæto blocòu pe raxoin de seguessa.
+xpath-invalid-expression-evaluated = Valotò 'na espreçion no valida.
+xpath-unbalanced-curly-brace = Curly brace no bilanciou.
+xslt-bad-node-name = Creo 'n'elemento co-in QName no valido.
 xslt-var-already-set = Binding da variabile e Binding da variabile shadow co-o mæxima  template.
 xslt-call-to-key-not-allowed = Ciamâ a-a fonçion “key” no consentia
 
