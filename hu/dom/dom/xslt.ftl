@@ -5,6 +5,19 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = Az XSLT-stíluslap értelmezése sikertelen.
+xpath-parse-failure = Az XPath-kifejezés értelmezése sikertelen.
+xslt-execution-failure = Az XSLT-átalakítás sikertelen.
+xpath-unknown-function = Az XSLT/XPath ismeretlen függvényt próbált meghívni.
+xslt-bad-recursion = Az XSLT-stíluslap (valószínűleg) rekurziót tartalmaz.
+xslt-bad-value = Az XSLT 1.0-ban érvénytelen az attribútumérték.
+xslt-nodeset-expected = Az XPath-kifejezésnek NodeSet-et kell visszaadnia.
+xslt-aborted = Az XSLT-átalakítást <xsl:message> zárta le.
+xslt-network-error = Hálózati hiba történt az XSLT-stíluslap betöltése közben:
+xslt-wrong-mime-type = Az XSLT-stíluslapnak nincs XML MIME-típusa:
+xslt-load-recursion = Az XSLT-stíluslap közvetlenül vagy közvetve importálja vagy behívja saját magát:
+xpath-bad-argument-count = Egy XPath-függvényt nem a megfelelő számú argumentummal hívtak meg.
+xpath-bad-extension-function = Ismeretlen XPath-bővítményfüggvényt hívtak meg.
 xpath-paren-expected = XPath feldolgozási hiba: hiányzó ')':
 xpath-invalid-axis = XPath feldolgozási hiba: érvénytelen tengely (axis):
 xpath-no-node-type-test = XPath feldolgozási hiba: hiányzik a Name vagy Nodetype ellenőrzése:
@@ -23,6 +36,10 @@ xpath-unbalanced-curly-brace = Pár nélküli kapcsos zárójel.
 xslt-bad-node-name = Érvénytelen QName-mel rendelkező elem létrehozása.
 xslt-var-already-set = Variable binding shadows variable binding within the same template.
 xslt-call-to-key-not-allowed = A kulcsfüggvény hívása nem engedélyezett.
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = Ismeretlen hiba történt ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
