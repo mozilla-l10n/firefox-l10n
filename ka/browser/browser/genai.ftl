@@ -138,6 +138,7 @@ genai-onboarding-select-header = მონიშნეთ ტექსტი შ
 genai-onboarding-select-description = ტექსტის მონიშვნისას შემოგთავაზებთ მოთხოვნებს, რომელთა გაგზავნაც შეგეძლებათ თანამოსაუბრისთვის. აგრეთვე შეგეძლებათ თავად მიუწეროთ თქვენი მოთხოვნები.
 genai-onboarding-select-primary = მიმოწერის დაწყება
 genai-chatbot-contextual-title = გამოიყენეთ AI-თანამოსაუბრე ჩანართების გადაურთველად.
+genai-chatbot-contextual-subtitle = ისაუბრეთ და ინახულეთ გვერდები ერთდროულად, { -brand-short-name } საშუალებას გაძლევთ, AI-თანამოსაუბრე გვერდით ზოლზე განათავსოთ.
 genai-chatbot-contextual-button = აირჩიეთ თანამოსაუბრე
 
 ## Chatbot onboarding choices

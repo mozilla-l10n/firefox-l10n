@@ -82,6 +82,7 @@ bookmarks-toolbar-callout-2b-secondary-button-label = לא תודה
 perplexity-callout-theme-1-title = יש לך צורך בתשובה הנכונה באופן המיידי?
 perplexity-callout-theme-2-title = ניתן לנסות את Perplexity: דרך חדשה לחיפוש
 perplexity-callout-theme-1-subtitle-1 = כדאי לנסות את Perplexity. יש לבחור בו מכפתור החיפוש כשרוצים תשובות מלאות, לרבות מקורות.
+perplexity-callout-theme-1-subtitle-2 = ניתן לשאול שאלות, ולקבלת תשובות מלאות ומצוטטות. כדי לנסות את Perplexity, יש לבחור בו מכפתור החיפוש.
 
 ## Sidebar Strings
 
