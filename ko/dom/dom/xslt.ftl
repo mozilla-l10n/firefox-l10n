@@ -5,6 +5,11 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-network-error = XSLT 스타일시트 로드 중 네트워크 오류:
+xslt-wrong-mime-type = XSLT 스타일시트가 XML 형식을 가지고 있지 않음
+xslt-load-recursion = XSLT 스타일시트는 자신을 직간접적으로 참조하거나 가져올 수 없음
+xpath-bad-argument-count = XPath 함수를 잘못된 번호로 호출
+xpath-bad-extension-function = 알 수 없는 XPath 확장 함수 호출
 xpath-paren-expected = XPath 파싱 실패: ')'가 필요합니다:
 xpath-invalid-axis = XPath 파싱 실패: 유효하지 않은 axis:
 xpath-no-node-type-test = XPath 파싱 실패: 이름이나 노드 형식이 없습니다:
