@@ -19,6 +19,14 @@ xpath-unexpected-end = Fallo en el análisis XPath: fin de expresión inesperado
 xpath-operator-expected = Fallo en el análisis XPath: se esperaba un operador:
 xpath-unclosed-literal = Fallo en el análisis XPath: literal no cerrado:
 xpath-bad-colon = Fallo en el análisis XPath: no se esperaba ':':
+xpath-bad-bang = Fallo en el análisis XPath: no se esperaba '!' (usa 'not()' para negar):
+xpath-illegal-char = Fallo en el análisis XPath: se ha encontrado un carácter ilegal:
+xpath-binary-expected = Fallo en el análisis XPath: se esperaba un operador binario:
+xslt-load-blocked-error = Se ha bloqueado la carga de una hoja XSLT por motivos de seguridad.
+xpath-invalid-expression-evaluated = Se intenta evaluar una expresión no válida.
+xpath-unbalanced-curly-brace = Llave no cerrada.
+xslt-bad-node-name = Se intenta crear un elemento con un QName no válido.
+xslt-var-already-set = Una asociación de variable oculta otra asociación de variable dentro de la misma plantilla.
 
 ## Messages for the XML error page.
 ##
