@@ -20,6 +20,7 @@ preonboarding-manage-data-header-button-title = Gerer datos diagnostic e de inte
 preonboarding-terms-of-use-header-button-title-b = Conditiones de uso de { -brand-product-name }
 # Labels for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = Aviso de confidentialitate de { -brand-product-name }
+preonboarding-privacy-notice-header-button-title-b-v2 = Aviso de confidentialitate
 # Description under label for header style buttons
 preonboarding-header-button-description = Pro leger plus
 # New user onboarding checklist
