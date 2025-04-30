@@ -5,6 +5,18 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = Tasleṭ n tferkit n uɣanib XSLT ur teddi ara.
+xpath-parse-failure = Tasleṭ n tenfalit XPath ur teddi ara.
+xslt-execution-failure = Aselket XSLT ur yeddi ara.
+xpath-unknown-function = Tawuri XSLT/XPath tarameɣtut.
+xslt-bad-recursion = Tiferkit n uɣanib XSLT tegber (ahat) tineddict.
+xslt-bad-value = Azal n imyerr aruzrif di XSLT 1.0.
+xslt-nodeset-expected = Tanfalit XPath tetturaju ad d-terr NodeSet.
+xslt-aborted = Aselket XSLT ifuk s <xsl:message>.
+xslt-network-error = Teḍṛa-d tuccḍa n uẓeṭṭa deg usali n tefrkit n uănib XSLT:
+xslt-wrong-mime-type = Tiferkit n uɣanib XSLT ur tegbir ara tawsit Mime XML:
+xslt-load-recursion = Tiferkit XSLT tekter neɣ tegber s yiman-is, s widem usrid neɣ arusrid:
+xpath-bad-argument-count = Tawuri XPath tettusawel s yir amḍan n tiɣiṛa.
 xpath-bad-extension-function = Tawuri n usiɣzef XPath tarussint tettusiwel.
 xpath-paren-expected = Tuccḍa di tesleṭ n XPath: ')' itturaju:
 xpath-invalid-axis = Tuccḍa di tesleṭ n XPath: agellus arameɣtu:
@@ -24,6 +36,10 @@ xpath-unbalanced-curly-brace = Taḥebbwalt ur terkid ara.
 xslt-bad-node-name = Timerna n uferdis s QName arameɣtu.
 xslt-var-already-set = Arruz n umutti yeli wa ɣef wayeḍ deg yiwet n tneɣruft.
 xslt-call-to-key-not-allowed = Asiwel i twuri tasarutt ur ittusireg ara.
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = Tuccḍa tarussint teḍra-d ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
