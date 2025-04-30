@@ -5,6 +5,14 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = Таҷзияи варақаи услубҳои XSLT иҷро нашуд.
+xpath-parse-failure = Таҷзияи ифодаи XPath иҷро нашуд.
+xslt-execution-failure = Табдилдиҳии «XSLT» иҷро нашуд.
+xpath-unknown-function = Вазифаи «XSLT/XPath» нодуруст аст.
+xslt-bad-recursion = Варақи услубҳои XSLT (эҳтимолан) дорои таъсири бозгашт мебошад.
+xslt-bad-value = Қимати сифат дар XSLT 1.0 нодуруст аст.
+xslt-nodeset-expected = Ибораи «XPath» бояд қимати навъи «NodeSet»-ро баргардонад.
+xslt-aborted = Табдилдиҳии XSLT аз тарафи <xsl:message> қатъ карда шуд.
 xslt-network-error = Ҳангоми боркунии варақаи услубҳои XSLT хатои шабака ба миён омад:
 xslt-wrong-mime-type = Варақаи услубҳои XSLT дорои навъи MIME-и XML намебошад:
 xslt-load-recursion = Варақаи услубҳои XSLT худро ба таври мустақим ё ғайримустақим ворид мекунад ё дар бар мегирад:
@@ -28,6 +36,10 @@ xpath-unbalanced-curly-brace = Қавси печидаи номутаносиб.
 xslt-bad-node-name = Эҷодкунии унсур бо «QName»-и беэътибор.
 xslt-var-already-set = Иртиботи тағйирёбанда дар ҳудуди қолиби ягона иртиботи тағйирёбандаро мепӯшонад.
 xslt-call-to-key-not-allowed = Дархости вазифаи калидӣ иҷозат нест.
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = Хатои номаълум ба миён омад ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
