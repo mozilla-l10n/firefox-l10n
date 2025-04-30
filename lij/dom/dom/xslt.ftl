@@ -5,6 +5,7 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-network-error = Gh'é stæto 'n erô caregando 'n feuggio de stile XSLT:
 xslt-wrong-mime-type = In XSLT stylesheet o no gh'à in XML mimetype:
 xslt-load-recursion = Un XSLT stylesheet o se inpòrta ò o se contegne direttamente o indirettamente:
 xpath-bad-argument-count = 'Na fonçion XPath a l'é stæta ciamâ co-in numero sbaliou de argomenti.
@@ -22,6 +23,7 @@ xpath-bad-bang = Analixi XPath falia: no m'aspetavo '!', a negaçion a l'é not(
 xpath-illegal-char = Analixi XPath falia: atrovou caratere contro a lezze:
 xpath-binary-expected = Analixi XPath falia: m'aspetavo 'n'operatô binaio:
 xslt-var-already-set = Binding da variabile e Binding da variabile shadow co-o mæxima  template.
+xslt-call-to-key-not-allowed = Ciamâ a-a fonçion “key” no consentia
 
 ## Messages for the XML error page.
 ##
@@ -29,3 +31,5 @@ xslt-var-already-set = Binding da variabile e Binding da variabile shadow co-o m
 ##   $error (string) - the specific XSLT or XPath error (a translated string
 ##   from the previous section)
 
+xslt-loading-error = Erô caregando o feuggio do stile: { $error }
+xslt-transform-error = Erô inta trasformaçion XSLT: { $error }
