@@ -11,6 +11,7 @@ xpath-invalid-expression-evaluated = Aprēķina nederīgu izteiksmi.
 xpath-unbalanced-curly-brace = Neaizvērta figūriekava.
 xslt-bad-node-name = Veido elementu ar nederīgu QName.
 xslt-var-already-set = Mainīgo sasaistes aizēno mainīgo sasaistes šīs veidnes iekšienē.
+xslt-call-to-key-not-allowed = Atslēgas funkcijas izsaukums nav atļauts.
 
 ## Messages for the XML error page.
 ##
@@ -18,3 +19,5 @@ xslt-var-already-set = Mainīgo sasaistes aizēno mainīgo sasaistes šīs veidn
 ##   $error (string) - the specific XSLT or XPath error (a translated string
 ##   from the previous section)
 
+xslt-loading-error = Kļūda ielādējot stila lapu: { $error }
+xslt-transform-error = Kļūda XSLT transformācijas laikā: { $error }
