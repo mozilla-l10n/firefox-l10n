@@ -6,6 +6,7 @@
 ## XSLT and XPath specific errors.
 
 xslt-bad-node-name = يجري إنشاء عنصر ب‍ QName غير سليم.
+xslt-var-already-set = متغيّر ربط الظلال يُربط في نفس القالب.
 
 ## Messages for the XML error page.
 ##
