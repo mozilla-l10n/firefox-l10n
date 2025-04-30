@@ -5,6 +5,7 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-network-error = XSLT სტილების ცხრილის ჩატვირთვისას დაფიქსირდა ქსელის შეცდომა:
 xslt-wrong-mime-type = XSLT სტილი არ შეიცავს XML–ს MIME ტიპს:
 xslt-load-recursion = XSLT სტილი პირდაპირ ან ირიბად იმოწმებს ან შეიცავს თავის თავს:
 
