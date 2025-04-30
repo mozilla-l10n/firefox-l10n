@@ -5,6 +5,14 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = XSLT fasal-kaddasu fesu-feršiyan kay.
+xpath-parse-failure = XPath kaliima fesu-feršiyan kay.
+xslt-execution-failure = XSLT barmayyan kay.
+xpath-unknown-function = XSLT/XPath goyyan laala.
+xslt-bad-recursion = XSLT fasal-kaddasu (a ga hin ka tee) goo nda fillayan.
+xslt-bad-value = XSLT 1.0 ra alhaali hinna.
+xslt-nodeset-expected = XPath kaliima ga naata ka NodeSet foo willi.
+xslt-aborted = <xsl:message> na XSLT barmayyan benandi.
 xslt-network-error = Sankay firka bangay XSLT fasal-kaddasu zumandiroo ra:
 xslt-wrong-mime-type = XSLT fasal-kaddasu ši nda XML žentidumi:
 xslt-load-recursion = XSLT fasal-kaddasu ka nga boŋ cendi ka dam taka šerra wala šiira ra wala a ma nga boŋ dam:
@@ -28,6 +36,10 @@ xpath-unbalanced-curly-brace = Šešeri golba kaŋ ši sasawa.
 xslt-bad-node-name = Goo ma ize foo nda tee QName laybante.
 xslt-var-already-set = Bii hawari barmayante leeti follokaa ra.
 xslt-call-to-key-not-allowed = Goyyan sahãnte ceeyan ši duɲe.
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = Firka šibayante bangay ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
