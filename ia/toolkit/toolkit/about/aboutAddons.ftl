@@ -267,6 +267,7 @@ discopane-notice-recommendations = Parte de iste recommendationes es personalisa
 discopane-notice-recommendations2 =
     .message = Parte de iste recommendationes es personalisate. Illos basate sur preferentias de profilo e statistica de uso de altere extensiones que tu ha installate.
 discopane-notice-learn-more = Saper plus
+colorway-removal-notice-learn-more = Pro saper plus
 privacy-policy = Politica de confidentialitate
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

@@ -121,6 +121,7 @@ deniedPortAccess-title = Iste adresse es restringite
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm. Nos ha problemas a trovar iste sito.
+internet-connection-offline-title = Il pare que il ha un problema con tu connexion internet.
 dns-not-found-trr-only-title2 = Possible risco de securitate cercante iste dominio
 dns-not-found-native-fallback-title2 = Possibile risco de securitate cercante in iste dominio
 fileNotFound-title = File non trovate
