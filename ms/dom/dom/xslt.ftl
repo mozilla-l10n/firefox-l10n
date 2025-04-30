@@ -24,6 +24,7 @@ xpath-binary-expected = Kegagalan menghurai XPath: operator binari dijangka:
 xpath-unbalanced-curly-brace = Pengukuhan curly tidak seimbang.
 xslt-bad-node-name = Mereka cipta satu elemen dengan QName yang tidak sah.
 xslt-var-already-set = pembolehubah yang sah akan menyamai pembolehubah yang sah dengan templat yang sama
+xslt-call-to-key-not-allowed = Panggilan fungsi utama tidak dibenarkan.
 
 ## Messages for the XML error page.
 ##
@@ -31,3 +32,5 @@ xslt-var-already-set = pembolehubah yang sah akan menyamai pembolehubah yang sah
 ##   $error (string) - the specific XSLT or XPath error (a translated string
 ##   from the previous section)
 
+xslt-loading-error = Ralat memuat helaian-gaya: { $error }
+xslt-transform-error = Ralat ketika transformasi XSLT: { $error }
