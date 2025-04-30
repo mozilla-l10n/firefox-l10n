@@ -5,6 +5,14 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = एउटा XSLT शैलीपाना पद वर्णन गर्न असफल भयो ।
+xpath-parse-failure = एउटा एक्स् मार्ग अभिव्यक्ति पद वर्णन असफल भयो ।
+xslt-execution-failure = XSLT स्थान्तरण असफल भयो ।
+xpath-unknown-function = अवैध XSLT/Xमार्ग प्रकार्य।
+xslt-bad-recursion = XSLT शैलीपानाले (सम्भवत) दोह्रयाईहरू समाविष्ट गर्दछ ।
+xslt-bad-value = XSLT १.०.मा गैरकानूनी विशेषता मान।
+xslt-nodeset-expected = नोडसेट फर्काउनको लागि एउटा एक्स् मार्ग अभिव्यक्ति अपेक्षित गरियो ।
+xslt-aborted = XSLT स्थान्तरण <xsl:message> द्वारा टर्मिनेट गरियो ।
 xslt-network-error = XSLT शैलीपाना लोड गर्दा नेटवर्क त्रुटि भयो:
 xslt-wrong-mime-type = एउटा XSLT शैलीपाना संग एउटा XML माइमप्रकार छैन:
 xslt-load-recursion = एउटा XSLT शैलीपानाले प्रत्यक्ष वा अप्रत्यक्ष रुपमा आफैँलाई आयात वा समावेश गर्दछ:
@@ -28,6 +36,10 @@ xpath-unbalanced-curly-brace = असन्तुलित घुम्रेक
 xslt-bad-node-name = अवैध QName सँग एक वस्तु सिर्जना गरिँदै।
 xslt-var-already-set = चल बाध्यकारी छाया चर नै टेम्पलेट भित्र बाध्यकारी।
 xslt-call-to-key-not-allowed = कुञ्जी प्रकार्यलाई बोलाउन अनुमति दिईएको छैन ।
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = एउटा अज्ञात त्रुटि भएको छ ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
