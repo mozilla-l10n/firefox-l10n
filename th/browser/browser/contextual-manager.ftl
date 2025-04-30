@@ -61,7 +61,15 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = นำเข้ารหัสผ่านแล้ว
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = ใหม่: { $added }, อัปเดต: { $modified }
+contextual-manager-passwords-import-detailed-report = ดูรายงานแบบละเอียด
 contextual-manager-passwords-import-success-button = เสร็จสิ้น
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = ไม่สามารถนำเข้ารหัสผ่านได้
+    .message = ตรวจสอบให้แน่ใจว่าไฟล์ของคุณมีคอลัมน์สำหรับเว็บไซต์ ชื่อผู้ใช้ และรหัสผ่าน
 contextual-manager-passwords-import-error-button-try-again = ลองอีกครั้ง
 contextual-manager-passwords-import-error-button-cancel = ยกเลิก
 contextual-manager-passwords-import-learn-more = เรียนรู้เกี่ยวกับการนำเข้ารหัสผ่าน
