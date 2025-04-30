@@ -41,3 +41,9 @@ experimental-features-link-previews-description =
         [macos] För att lära dig mer om en webbsida innan du klickar, håll muspekaren över en länk och tryck på Shift (⇧) plus Alternativ (⌥) eller Alt. Förhandsgranskningar kan innehålla detaljer som titel och lästid. För vissa webbsidor kan AI också läsa sidtexten och generera nyckelpunkter. AI:n är optimerad för att läsa och generera engelsk text. För att prioritera din integritet körs AI lokalt på din dator. <a data-l10n-name="connect">Dela feedback</a>
        *[other] För att lära dig mer om en webbsida innan du klickar, för muspekaren över en länk och tryck på Skift + Alt. Förhandsgranskningar kan innehålla detaljer som titel och lästid. För vissa webbsidor kan AI också läsa sidtexten och generera nyckelpunkter. AI:n är optimerad för att läsa och generera engelsk text. För att prioritera din integritet körs AI lokalt på din dator. <a data-l10n-name="connect">Dela feedback</a>
     }
+# This version of the link previews description does not mention AI.
+experimental-features-link-previews-description-no-ai =
+    { PLATFORM() ->
+        [macos] För att lära dig mer om en webbsida innan du klickar, håll muspekaren över en länk och tryck på Shift (⇧) plus Option (⌥) eller Alt. Förhandsgranskningar kan innehålla detaljer som titel och lästid. <a data-l10n-name="connect">Dela feedback</a>
+       *[other] Om du vill veta mer om en webbsida innan du klickar, håll muspekaren över en länk och tryck på Shift + Alt. Förhandsgranskningar kan innehålla detaljer som titel och lästid. <a data-l10n-name="connect">Dela feedback</a>
+    }

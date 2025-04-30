@@ -344,6 +344,10 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Visa tillägg
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = tillägg, teman, tillägg
 quickactions-cmd-addons2 = tillägg
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Hantera bokmärken
@@ -384,6 +388,7 @@ quickactions-print2 = Skriv ut sida
 quickactions-cmd-print = skriva ut
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Spara sida som PDF
+quickactions-cmd-savepdf2 = pdf, spara sida
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Öppna privat fönster
@@ -400,6 +405,8 @@ quickactions-cmd-screenshot2 = skärmdump, ta en skärmdump
 quickactions-cmd-screenshot = skärmbild
 # Opens about:preferences
 quickactions-settings2 = Hantera inställningar
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = inställningar, inställningar, alternativ, hantera
 quickactions-cmd-settings = inställningar, alternativ
 # Opens about:addons page in the themes section
 quickactions-themes = Hantera teman
@@ -1250,3 +1257,4 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = Slutför installationen

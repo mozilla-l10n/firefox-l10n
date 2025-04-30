@@ -120,3 +120,5 @@ webext-site-perms-midi-sysex = Åtkomst till MIDI-enheter med SysEx-stöd
 
 ## Colorway theme migration
 
+webext-colorway-theme-migration-notification-message = <b>Ditt colorway-tema togs bort.</b> { -brand-shorter-name } uppdaterade sin colorways-samling. Du kan hitta de senaste versionerna på webbplatsen för tillägg.
+webext-colorway-theme-migration-notification-button = Få uppdaterade colorways

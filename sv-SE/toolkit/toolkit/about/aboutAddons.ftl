@@ -277,6 +277,12 @@ discopane-notice-recommendations2 =
         Några av dessa rekommendationer är personliga. De är baserade på andra
         tillägg som du har installerat, profilinställningar och användarstatistik.
 discopane-notice-learn-more = Lär dig mer
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = Dina colorway-teman togs bort.
+    .message = { -brand-product-name } har uppdaterat sin colorways-kollektion. Vi tog bort den gamla versionen från listan "Sparade teman". Hämta nya versioner på webbplatsen för tillägg.
+colorway-removal-notice-learn-more = Läs mer
+colorway-removal-notice-button = Få uppdaterade colorways-teman
 privacy-policy = Sekretesspolicy
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
