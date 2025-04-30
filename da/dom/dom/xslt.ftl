@@ -16,6 +16,7 @@ xpath-invalid-expression-evaluated = Evaluerer et ugyldigt udtryk.
 xpath-unbalanced-curly-brace = Ubalanceret tuborgklamme.
 xslt-bad-node-name = Opretter et element med ugyldigt QName.
 xslt-var-already-set = Variabelbinding skygger variabelbinding indenfor samme template.
+xslt-call-to-key-not-allowed = Kald til nøglefunktionen er ikke tilladt.
 
 ## Messages for the XML error page.
 ##
@@ -23,3 +24,5 @@ xslt-var-already-set = Variabelbinding skygger variabelbinding indenfor samme te
 ##   $error (string) - the specific XSLT or XPath error (a translated string
 ##   from the previous section)
 
+xslt-loading-error = Fejl under indlæsning af stylesheetet: { $error }
+xslt-transform-error = Fejl under XSLT-omformateringen: { $error }
