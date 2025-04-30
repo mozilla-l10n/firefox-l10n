@@ -25,6 +25,8 @@ xpath-binary-expected = Villa í XPath þáttun: Bjóst við tvíundavirkja:
 xslt-load-blocked-error = Lokað var á niðurhal á XSLT stílblaði vegna öryggistástæðna.
 xpath-invalid-expression-evaluated = Útreikningur leiðir til ógildrar segðar.
 xpath-unbalanced-curly-brace = Misræmi í fjölda oddsviga.
+xslt-bad-node-name = Bjó til einindi með ógilt QName.
+xslt-var-already-set = Binding breytu bindir einnig breytur innan sama sniðmáts.
 xslt-call-to-key-not-allowed = Að kalla á key fallið er ekki leyft.
 
 ## Messages for the XML error page.
