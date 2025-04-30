@@ -5,6 +5,7 @@
 
 ## XSLT and XPath specific errors.
 
+xpath-bad-extension-function = Njeznata rozšěrjenska XPath-funkcija je so wołała.
 xpath-paren-expected = XPath analyzowanski zmylk: ')' wočakowana:
 xpath-invalid-axis = XPath analyzowanski zmylk: njepłaćiwa wóska:
 xpath-no-node-type-test = XPath analyzowanski zmylk: Mjeno abo test Nodetype wočakowany:
