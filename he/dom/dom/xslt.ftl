@@ -27,6 +27,7 @@ xpath-invalid-expression-evaluated = הערכת ביטוי שגוי.
 xpath-unbalanced-curly-brace = כמות אי־זוגית של סוגרים מסולסלים.
 xslt-bad-node-name = יצירת רכיב בעל QName שגוי.
 xslt-var-already-set = Variable binding shadows variable binding within the same template.
+xslt-call-to-key-not-allowed = הקריאה לפונקציה key אינה מורשית.
 
 ## Messages for the XML error page.
 ##
@@ -34,3 +35,5 @@ xslt-var-already-set = Variable binding shadows variable binding within the same
 ##   $error (string) - the specific XSLT or XPath error (a translated string
 ##   from the previous section)
 
+xslt-loading-error = שגיאה בטעינת גיליון סגנון: { $error }
+xslt-transform-error = שגיאה במהלך שינוי XSLT: { $error }
