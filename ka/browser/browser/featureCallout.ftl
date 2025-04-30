@@ -97,6 +97,12 @@ bookmarks-toolbar-callout-2b-secondary-button-label = არა, გმადლ
 perplexity-callout-theme-1-title = გესაჭიროებათ მართებული პასუხი დაუყოვნებლივ?
 perplexity-callout-theme-2-title = გამოცადეთ Perplexity: ძიების ახალი საშუალება
 perplexity-callout-theme-1-subtitle-1 = მოსინჯეთ Perplexity. აირჩიეთ ძიების ღილაკიდან, როცა გსურთ სრული პასუხები წყაროების დართვით.
+perplexity-callout-theme-1-subtitle-2 = დასვით კითხვები. მიიღეთ სრული, წყაროებით გამყარებული პასუხები. Perplexity რომ გამოცადოთ, უნდა აირჩიოთ ძიების ღილაკიდან.
+perplexity-callout-theme-2-subtitle-1 = ჰკითხეთ და გიპასუხებთ Perplexity. თქვენ მიიღებთ სრულყოფილ ახსნას წყაროების დართვით.
+perplexity-callout-theme-2-subtitle-2 = დასვით კითხვები. მიიღეთ სრული, წყაროებით გამყარებული პასუხები.
+perplexity-callout-primary-label = გიპასუხებთ Perplexity
+perplexity-callout-secondary-label-1 = აცილება
+perplexity-callout-secondary-label-2 = გასაგებია
 
 ## Sidebar Strings
 

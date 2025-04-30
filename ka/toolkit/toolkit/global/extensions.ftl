@@ -120,3 +120,5 @@ webext-site-perms-midi-sysex = წვდომა MIDI-მოწყობილ�
 
 ## Colorway theme migration
 
+webext-colorway-theme-migration-notification-message = <b>შეფერილობისთვის თქვენი თემა მოცილებულია.</b> { -brand-shorter-name } აახლებს შეფერილობების ნაკრებს. უახლესი მათგანი შეგიძლიათ იხილოთ დამატებების საიტზე.
+webext-colorway-theme-migration-notification-button = მიიღეთ განახლებული შეფერილობები

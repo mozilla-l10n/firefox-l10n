@@ -130,13 +130,13 @@ urlbar-web-notification-anchor =
 urlbar-midi-notification-anchor =
     .tooltiptext = MIDI ਪੈਨਲ ਨੂੰ ਖੋਲ੍ਹੋ
 urlbar-eme-notification-anchor =
-    .tooltiptext = DRM ਸਾਫਟਵੇਅਰ ਦੀ ਵਰਤੋਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
+    .tooltiptext = DRM ਸਾਫਟਵੇਅਰ ਦੀ ਵਰਤੋਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 urlbar-web-authn-anchor =
     .tooltiptext = ਵੈੱਬ ਪਰਮਾਣਕਿਤਾ ਪੈਨਲ ਨੂੰ ਖੋਲ੍ਹੋ
 urlbar-canvas-notification-anchor =
-    .tooltiptext = ਕੈਨਵਸ ਨਤੀਜਾ ਇਜਾਜ਼ਤ ਦਾ ਪਰਬੰਧ
+    .tooltiptext = ਕੈਨਵਸ ਨਤੀਜਾ ਇਜਾਜ਼ਤ ਦਾ ਇੰਤਜ਼ਾਮ
 urlbar-web-rtc-share-microphone-notification-anchor =
-    .tooltiptext = ਸਾਈਟ ਨਾਲ ਆਪਣੇ ਮਾਈਕਰੋਫ਼ੋਨ ਦੇ ਸਾਂਝਾ ਕਰਨ ਦਾ ਪਰਬੰਧ ਕਰੋ
+    .tooltiptext = ਸਾਈਟ ਨਾਲ ਆਪਣੇ ਮਾਈਕਰੋਫ਼ੋਨ ਦੇ ਸਾਂਝਾ ਕਰਨ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 urlbar-default-notification-anchor =
     .tooltiptext = ਸੁਨੇਹਾ ਪੈਨਲ ਨੂੰ ਖੋਲ੍ਹੋ
 urlbar-geolocation-notification-anchor =
@@ -154,7 +154,7 @@ urlbar-password-notification-anchor =
 urlbar-plugins-notification-anchor =
     .tooltiptext = ਵਰਤੋਂ ਅਧੀਨ ਪਲੱਗਇਨ-ਇਨ ਦਾ ਬੰਦੋਬਸਤ
 urlbar-web-rtc-share-devices-notification-anchor =
-    .tooltiptext = ਸਾਈਟ ਨਾਲ ਆਪਣੇ ਕੈਮਰੇ ਅਤੇ/ਜਾਂ ਮਾਈਕਰੋਫ਼ੋਨ ਦੇ ਸਾਂਝਾ ਕਰਨ ਦਾ ਪਰਬੰਧ ਕਰੋ
+    .tooltiptext = ਸਾਈਟ ਨਾਲ ਆਪਣੇ ਕੈਮਰੇ ਅਤੇ/ਜਾਂ ਮਾਈਕਰੋਫ਼ੋਨ ਦੇ ਸਾਂਝਾ ਕਰਨ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
 urlbar-web-rtc-share-speaker-notification-anchor =
@@ -272,7 +272,7 @@ urlbar-star-add-bookmark =
 ## Page Action Context Menu
 
 page-action-manage-extension2 =
-    .label = …ਇਕਸਟੈਨਸ਼ਨਾਂ ਦਾ ਬੰਦੋਬਸਤ
+    .label = …ਇਕਸਟੈਨਸ਼ਨਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
     .accesskey = E
 page-action-remove-extension2 =
     .label = ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਹਟਾਓ
@@ -344,6 +344,10 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = ਐਡ-ਆਨ ਨੂੰ ਦੇਖੋ
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = ਇਕਸਟੈਨਸ਼ਨ, ਥੀਮ, ਐਡ-ਆਨ, ਐਡਆਨ
 quickactions-cmd-addons2 = ਐਡ-ਆਨ
 # Opens the bookmarks library window
 quickactions-bookmarks2 = ਬੁੱਕਮਾਰਕਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
@@ -384,6 +388,7 @@ quickactions-print2 = ਸਫ਼ੇ ਨੂੰ ਪਰਿੰਟ ਕਰੋ
 quickactions-cmd-print = ਪਰਿੰਟ ਕਰੋ
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = ਸਫ਼ੇ ਨੂੰ PDF ਵਜੋਂ ਸੰਭਾਲੋ
+quickactions-cmd-savepdf2 = pdf, ਸਫ਼ੇ ਨੂੰ ਸੰਭਾਲੋ
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਨੂੰ ਖੋਲ੍ਹੋ
@@ -400,6 +405,8 @@ quickactions-cmd-screenshot2 = ਸਕਰੀਨਸ਼ਾਟ, ਸ਼ਕਰੀਨਸ਼ਾ�
 quickactions-cmd-screenshot = ਸਕਰੀਨਸ਼ਾਟ
 # Opens about:preferences
 quickactions-settings2 = ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = ਸੈਟਿੰਗਾਂ, ਪਸੰਦਾਂ, ਮਨਪਸੰਦ, ਚੋਣਾਂ, ਇੰਤਜ਼ਾਮ, ਪ੍ਰਬੰਧ
 quickactions-cmd-settings = ਸੈਟਿੰਗਾਂ, ਮੇਰੀਆਂ ਪਸੰਦਾਂ, ਚੋਣਾਂ
 # Opens about:addons page in the themes section
 quickactions-themes = ਥੀਮਾਂ ਦਾ ਇੰਤਜ਼ਾਮ

@@ -202,7 +202,7 @@ menu-view-close-readerview =
 ##
 
 menu-view-show-all-tabs =
-    .label = ਸਭ ਟੈਬ ਵੇਖੋ
+    .label = ਸਭ ਟੈਬਾਂ ਨੂੰ ਵੇਖੋ
     .accesskey = A
 menu-view-bidi-switch-page-direction =
     .label = ਸਫ਼ੇ ਦੀ ਦਿਸ਼ਾ ਬਦਲੋ
@@ -259,7 +259,7 @@ menu-bookmarks-mobile =
 menu-profiles =
     .label = ਪਰੋਫਾਈਲ
 menu-profiles-manage-profiles =
-    .label = ਪਰੋਫਾਈਲਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
+    .label = ਪਰੋਫਾਈਲਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 menu-profiles-new-profile =
     .label = ਨਵਾਂ ਪਰੋਫਾਈਲ
 
@@ -272,7 +272,7 @@ menu-tools-downloads =
     .label = ਡਾਊਨਲੋਡ
     .accesskey = D
 menu-tools-addons-and-themes =
-    .label = ਐਡ-ਆਨ ਤੇ ਥੀਮ
+    .label = ਐਡ-ਆਨ ਅਤੇ ਥੀਮ
     .accesskey = A
 menu-tools-fxa-sign-in2 =
     .label = ਸਾਈਨ ਇਨ ਕਰੋ
