@@ -437,6 +437,13 @@ addon-badge-verified4 =
     .title = Ko jepysokue ojehechajey jahecha oguerekópa tekorosã ha oikoporãpa.
 addon-badge-verified3 =
     .title = Ko jepysokue ojehechajey oguerekópa tekorosã ha oikoporãpa.
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are making the
+# recommendation. As such, we hard code "Firefox" and avoid personalising
+# language like the words "our" or "we".
+addon-badge-recommended4 =
+    .title = Firefox omomba’e jepysokue oguerekóva tekorosã ha ñemboguataporã añónte
 
 ##
 

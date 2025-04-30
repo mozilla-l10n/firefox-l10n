@@ -120,3 +120,4 @@ webext-site-perms-midi-sysex = Eike MIDI mba’e’okápe SysEx pytyvõha ndive
 
 ## Colorway theme migration
 
+webext-colorway-theme-migration-notification-button = Ereko téma sa’y ojuehegua ag̃agua

@@ -95,6 +95,7 @@ deniedPortAccess-title = Ko kundaharape ndaikatúi eiporu
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm. Oĩ apañuái ejuhu hag̃ua ko tenda.
+internet-connection-offline-title = Ha’eténte ku oĩva apañuái eikundaha hag̃ua ñandutípe.
 dns-not-found-trr-only-title2 = Tekorosã imarãkuaa ehekakuévo ko tendatee
 dns-not-found-native-fallback-title2 = Tekorosã imarãkuaa ehekakuévo ko tendatee
 fileNotFound-title = Marandurenda ndojejuhúiva
