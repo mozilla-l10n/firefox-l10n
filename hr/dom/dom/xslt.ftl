@@ -5,6 +5,13 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = Obrada XSLT stilskog predloška nije uspjela.
+xpath-parse-failure = Obrada XPath izraza nije uspjela.
+xslt-network-error = Došlo je do mrežne greške pri učitavanju XSLT stilskog predloška:
+xslt-wrong-mime-type = XSLT stilski predložak nema XML mimetype:
+xslt-load-recursion = XSLT stilski predložak izravno ili neizravno uvozi ili uključuje samu sebe:
+xpath-bad-argument-count = XPath funkcija je bila pozvana s krivim brojem argumenata.
+xpath-bad-extension-function = Pozvano je nepoznato XPath proširenje.
 xpath-paren-expected = Neuspješna obrada XPatha: ')' očekivan:
 xpath-invalid-axis = Neuspješna obrada XPatha: kriva os:
 xpath-no-node-type-test = Neuspjela XPath obrada: Očekivano ime ili nodetype test:
