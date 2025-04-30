@@ -27,6 +27,7 @@ xpath-invalid-expression-evaluated = Se intenta evaluar una expresión no válid
 xpath-unbalanced-curly-brace = Llave no cerrada.
 xslt-bad-node-name = Se intenta crear un elemento con un QName no válido.
 xslt-var-already-set = Una asociación de variable oculta otra asociación de variable dentro de la misma plantilla.
+xslt-call-to-key-not-allowed = Llamada a la función clave no permitida.
 
 ## Messages for the XML error page.
 ##
@@ -34,3 +35,5 @@ xslt-var-already-set = Una asociación de variable oculta otra asociación de va
 ##   $error (string) - the specific XSLT or XPath error (a translated string
 ##   from the previous section)
 
+xslt-loading-error = Error al cargar la hoja de estilo: { $error }
+xslt-transform-error = Error durante la transformación XSLT: { $error }
