@@ -279,7 +279,15 @@ discopane-notice-recommendations2 =
         Μερικές από αυτές τις προτάσεις είναι εξατομικευμένες. Βασίζονται σε άλλες
         επεκτάσεις που έχετε εγκαταστήσει, σε προτιμήσεις προφίλ και σε στατιστικά χρήσης.
 discopane-notice-learn-more = Μάθετε περισσότερα
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = Τα θέματα χρωματικών συνδυασμών σας αφαιρέθηκαν.
+    .message =
+        Το { -brand-product-name } ενημέρωσε τη συλλογή χρωματικών συνδυασμών του.
+        Αφαιρέσαμε τις παλιές εκδόσεις από τη λίστα «Αποθηκευμένα θέματα». Λάβετε τις
+        νέες εκδόσεις από τον ιστότοπο των προσθέτων.
 colorway-removal-notice-learn-more = Μάθετε περισσότερα
+colorway-removal-notice-button = Αποκτήστε τα νέα θέματα χρωματικών συνδυασμών
 privacy-policy = Πολιτική απορρήτου
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

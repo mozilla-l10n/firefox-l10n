@@ -263,6 +263,10 @@ preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
+preferences-web-appearance-override-warning3 =
+    .message = Οι ρυθμίσεις σας για τον έλεγχο αντίθεσης υπερισχύουν της εμφάνισης του ιστοτόπου.
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
 preferences-web-appearance-override-warning = Οι επιλογές χρωμάτων σας υπερισχύουν της εμφάνισης του ιστοτόπου. <a data-l10n-name="colors-link">Διαχείριση χρωμάτων</a>
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.

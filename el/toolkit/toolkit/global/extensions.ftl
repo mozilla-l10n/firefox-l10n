@@ -120,3 +120,4 @@ webext-site-perms-midi-sysex = Πρόσβαση σε συσκευές MIDI με 
 
 ## Colorway theme migration
 
+webext-colorway-theme-migration-notification-button = Απόκτηση νέων χρωματικών συνδυασμών
