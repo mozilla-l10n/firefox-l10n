@@ -5,6 +5,14 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = Xsach ruq'axaxik jun XSLT rub'anikil ruxaq.
+xpath-parse-failure = Xsach ruq'asaxik jun XPath ch'owen.
+xslt-execution-failure = Ri XSLT rujalwachinik man ütz xub'än.
+xpath-unknown-function = Man okel ta XSLT/XPath samaj.
+xslt-bad-recursion = Ri XSLT ruxaq b'anikil (rik'in jub'a') k'o jun tob'alin chupam.
+xslt-bad-value = Me'ütz rejqalem ri b'anikil pa XSLT 1.0.
+xslt-nodeset-expected = Oyob'en chi jun XPath ch'owen nutzolin pe jun NodeSet.
+xslt-aborted = Ri XSLT rujalik xuk'isib'ej rik'in <xsl:message>.
 xslt-network-error = Xk'ulwachitäj jun sachoj pa k'amalb'ey, toq nusamajij jun XSLT banikil ruxaq:
 xslt-wrong-mime-type = Jun XSLT ruxaq b'anikil man k'o ta ruwäch MIME XML:
 xslt-load-recursion = Jun XSLT ruxaq rub'anikil nijïk' el o jumul k'o chupam o choj ya'on apo chupam:
@@ -28,6 +36,10 @@ xpath-unbalanced-curly-brace = Man tz'apin ta rep.
 xslt-bad-node-name = Nitojtob'ëx ninuk' jun ch'akulal rik'in jun man okel ta QName.
 xslt-var-already-set = Jun molaj jalwachil rewan jun chik molaj jalwachil chupam ri junam wach.
 xslt-call-to-key-not-allowed = Man niya' ta q'ij richin rusik'ixik ri ruxe'el samaj.
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = Xk'ulwachitäj jun sachoj, ri man etaman ta ruwäch ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
