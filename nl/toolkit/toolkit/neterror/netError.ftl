@@ -54,6 +54,10 @@ neterror-dns-not-found-hint-header = <strong>Als u het juiste adres hebt ingevoe
 neterror-dns-not-found-hint-try-again = Het later opnieuw proberen
 neterror-dns-not-found-hint-check-network = Uw netwerkverbinding controleren
 neterror-dns-not-found-hint-firewall = Controleren of { -brand-short-name } toestemming heeft om toegang te krijgen tot internet (u bent mogelijk verbonden maar bevindt zich achter een firewall)
+neterror-dns-not-found-offline-hint-header = <strong>Wat kunt u hieraan doen?</strong>
+neterror-dns-not-found-offline-hint-different-device = Probeer verbinding te maken op een ander apparaat.
+neterror-dns-not-found-offline-hint-modem = Controleer uw modem of router.
+neterror-dns-not-found-offline-hint-reconnect = Verbreek de verbinding en verbind opnieuw met wifi.
 
 ## TRR-only specific messages
 ## Variables:

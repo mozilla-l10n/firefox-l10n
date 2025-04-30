@@ -41,3 +41,9 @@ experimental-features-link-previews-description =
         [macos] Houd de muisaanwijzer boven een koppeling en druk op Shift (⇧) + Option (⌥) of Alt om meer over een webpagina te lezen voordat u klikt. Voorbeelden kunnen details zoals titel en leestijd bevatten. Van sommige webpagina’s kan AI ook de paginatekst lezen en de belangrijkste punten aanmaken. De AI is geoptimaliseerd voor het lezen en aanmaken van Engelse tekst. Om uw privacy voorop te stellen, wordt de AI lokaal op uw computer uitgevoerd. <a data-l10n-name="connect">Feedback delen</a>
        *[other] Houd de muisaanwijzer boven een koppeling en druk op Shift + Alt om meer over een webpagina te lezen voordat u klikt. Voorbeelden kunnen details zoals titel en leestijd bevatten. Van sommige webpagina’s kan AI ook de paginatekst lezen en de belangrijkste punten aanmaken. De AI is geoptimaliseerd voor het lezen en aanmaken van Engelse tekst. Om uw privacy voorop te stellen, wordt de AI lokaal op uw computer uitgevoerd. <a data-l10n-name="connect">Feedback delen</a>
     }
+# This version of the link previews description does not mention AI.
+experimental-features-link-previews-description-no-ai =
+    { PLATFORM() ->
+        [macos] Houd de muisaanwijzer boven een koppeling en druk op Shift (⇧) plus Option (⌥) of Alt om meer over een webpagina te lezen voordat u klikt. Voorbeelden kunnen details zoals titel en leestijd bevatten. <a data-l10n-name="connect">Feedback delen</a>
+       *[other] Houd de muisaanwijzer boven een koppeling en druk op Shift + Alt om meer over een webpagina te lezen voordat u klikt. Voorbeelden kunnen details zoals titel en leestijd bevatten. <a data-l10n-name="connect">Feedback delen</a>
+    }

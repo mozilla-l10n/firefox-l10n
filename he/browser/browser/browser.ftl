@@ -344,6 +344,10 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = הצגת תוספות
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = הרחבות, ערכות נושא, תוספות, תוספים
 quickactions-cmd-addons2 = הרחבות, תוספות, תוספים
 # Opens the bookmarks library window
 quickactions-bookmarks2 = ניהול סימניות
@@ -384,6 +388,7 @@ quickactions-print2 = הדפסת הדף
 quickactions-cmd-print = הדפסה, הדפס, להדפיס
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = שמירת הדף בתור PDF
+quickactions-cmd-savepdf2 = pdf, שמירת הדף, שמירת דף, שמירת העמוד, שמירת עמוד, שמור את הדף, לשמור את הדף, שמור את העמוד, לשמור את העמוד
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = פתיחת חלון פרטי
@@ -400,6 +405,8 @@ quickactions-cmd-screenshot2 = צילום מסך, screenshot, לקיחת ציל�
 quickactions-cmd-screenshot = צילום מסך, צלם מסך, לצלם מסך, לצלם את המסך, לקחת צילום מסך
 # Opens about:preferences
 quickactions-settings2 = ניהול הגדרות
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = הגדרות, העדפות, אפשרויות, ניהול
 quickactions-cmd-settings = הגדרות, העדפות, אפשרויות
 # Opens about:addons page in the themes section
 quickactions-themes = ניהול ערכות נושא
@@ -1254,3 +1261,4 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = סיום ההגדרה
