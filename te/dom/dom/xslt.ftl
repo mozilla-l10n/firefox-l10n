@@ -5,6 +5,14 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = XSLT స్టైల్‌షీటును పార్స్ చేయడం విఫలమైంది.
+xpath-parse-failure = XPath సమాసాన్ని పార్స్ చేయడం విఫలమైంది.
+xslt-execution-failure = XSLT రూపాంతరీకరణ విఫలమైంది.
+xpath-unknown-function = చెల్లని XSLT/XPath ప్రమేయం.
+xslt-bad-recursion = XSLT స్టైల్‌షీటులో (బహుశా) రికర్షన్ ఉంది.
+xslt-bad-value = ఆట్రిబ్యూట్ విలువ XSLT 1.0లో చెల్లదు.
+xslt-nodeset-expected = ఒక XPath సమాసం NodeSetను ఇవ్వాలి.
+xslt-aborted = XSLT రూపాంతరీకరణ <xsl:message> చేత ముగించబడింది.
 xslt-network-error = XSLT స్టైల్‌షీట్‌ను లోడుచేస్తున్నప్పుడు నెట్‌వర్కు లోపం ఎదురైంది:
 xslt-wrong-mime-type = XSLT స్టైల్‌షీట్ XML mimetypeని కలిగిలేదు:
 xslt-load-recursion = XSLT స్టైల్‌షీట్ ప్రత్యక్షంగాకాని పరోక్షంగాకాని తననే దిగుమతి చేసుకుంటూంది లేదా జోడించుకుంటూంది:
@@ -28,6 +36,10 @@ xpath-unbalanced-curly-brace = సరితూగని కర్లీబ్ర
 xslt-bad-node-name = చెల్లని QNameతో మూలకాన్ని సృష్టిస్తున్నారు.
 xslt-var-already-set = చరరాశుల బంధనం అదే మూసలోని చరరాశుల బంధనాన్ని కప్పివేస్తుంది.
 xslt-call-to-key-not-allowed = కీ ప్రమేయానికి పిలువు అనుమతించబడదు.
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = తెలియని దోషం ఎదురైంది ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
