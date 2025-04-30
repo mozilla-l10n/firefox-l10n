@@ -12,7 +12,7 @@ certificate-viewer-error-title = Κάτι πήγε στραβά.
 ## Certificate information labels
 
 certificate-viewer-algorithm = Αλγόριθμος
-certificate-viewer-certificate-authority = Αρχή πιστοποιητικού
+certificate-viewer-certificate-authority = Αρχή πιστοποίησης
 certificate-viewer-cipher-suite = Σουίτα κρυπτογράφησης
 certificate-viewer-common-name = Κοινό όνομα
 certificate-viewer-email-address = Διεύθυνση email
