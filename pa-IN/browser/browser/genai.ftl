@@ -135,6 +135,7 @@ genai-onboarding-lechat-learn = Le Chat ਬਾਰੇ ਹੋਰ ਸਿੱਖੋ
 genai-onboarding-select-header = ਸੁਝਾਅ ਵੇਖਣ ਲਈ ਲਿਖਤ ਨੂੰ ਚੁਣੋ
 genai-onboarding-select-description = ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਲਿਖਤ ਨੂੰ ਚੁਣਦੇ ਹੋ ਤਾਂ ਅਸੀਂ ਤੁਹਾਨੂੰ ਚੈਟ-ਬੋਟ ਨੂੰ ਭੇਜਣ ਲਈ ਪਰੌਂਟ ਦਾ ਸੁਝਾਅ ਦੇਵਾਂਗੇ। ਤੁਸੀਂ ਖੁਦ ਵੀ ਆਪਣੇ ਪਰੌਂਟ ਲਿਖ ਸਕਦੇ ਹੋ।
 genai-onboarding-select-primary = ਚੈਟ ਕਰਨੀ ਸ਼ੁਰੂ ਕਰੋ
+genai-chatbot-contextual-button = ਕਿਸੇ ਚੈਟ-ਬੋਟ ਨੂੰ ਚੁਣੋ
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
@@ -168,3 +169,15 @@ genai-model-optin-cancel =
 
 ## Link previews
 
+# ‘min’ is short for “minute”
+# ‘mins’ is short for “minutes”
+# An estimate for how long it takes to read an article,
+# expressed as a range covering both slow and fast readers.
+# Variables:
+#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
+#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
+link-preview-reading-time =
+    { $rangePlural ->
+        [one] { $range } ਮਿੰਟ ਪੜ੍ਹਨ ਸਮਾਂ
+       *[other] { $range } ਮਿੰਟ ਪੜ੍ਹਨ ਸਮਾਂ
+    }

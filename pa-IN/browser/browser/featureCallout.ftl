@@ -71,9 +71,27 @@ split-dismiss-button-default-label =
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-primary-button-label = ਬੁੱਕਮਾਰਕ ਨੂੰ ਜੋੜੋ
+bookmarks-toolbar-callout-1-secondary-button-label = ਨਹੀਂ ਜੀ, ਧੰਨਵਾਦ
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = ਸੁਖਾਲੇ ਅਤੇ ਹੋਰ ਬੁੱਕਮਾਰਕ
+bookmarks-toolbar-callout-2a-primary-button-label = ਸਮਝੇ
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = ਟੂਲਬਾਰ ਓਹਲੇ
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = ਕੀ ਆਪਣੀ ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ ਨੂੰ ਖੁੱਲ੍ਹਾ ਰੱਖਣਾ ਹੈ?
+bookmarks-toolbar-callout-2b-primary-button-label = ਖੁੱਲ੍ਹਾ ਰੱਖੋ
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = ਨਹੀਂ ਜੀ, ਧੰਨਵਾਦ
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-2-title = ਪਰਪਲਿਕਸਟੀ ਨੂੰ ਅਜ਼ਮਾਓ: ਲੱਭਣ ਦਾ ਨਵਾਂ ਢੰਗ
+perplexity-callout-theme-2-subtitle-1 = ਪਰਪਲਿਕਸਟੀ ਨੂੰ ਪੁੱਛੋ: ਤੁਹਾਨੂੰ ਪੂਰੇ ਜਵਾਬ ਮਿਲਣਗੇ, ਸਰੋਤ ਦੇ ਸਮੇਤ।
+perplexity-callout-theme-2-subtitle-2 = ਸਵਾਲ ਪੁੱਛੋ: ਪੂਰੇ, ਹਵਾਲਿਆਂ ਦੇ ਨਾਲ ਜਵਾਬ ਲਵੋ।
+perplexity-callout-primary-label = ਪਰਪਲਿਕਸਟੀ ਨੂੰ ਪੁੱਛੋ
+perplexity-callout-secondary-label-1 = ਖ਼ਾਰਜ ਕਰੋ
+perplexity-callout-secondary-label-2 = ਸਮਝੇ
 
 ## Sidebar Strings
 

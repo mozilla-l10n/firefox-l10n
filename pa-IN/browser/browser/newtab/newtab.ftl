@@ -528,6 +528,7 @@ newtab-custom-wallpaper-cta = ਅਜ਼ਮਾਓ
 
 ## Strings for download mobile highlight
 
+newtab-download-mobile-highlight-title = ਮੋਬਾਈਲ ਲਈ { -brand-product-name } ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ
 
 ## Strings for reporting ads and content
 
