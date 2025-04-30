@@ -5,6 +5,10 @@
 
 ## XSLT and XPath specific errors.
 
+xpath-invalid-expression-evaluated = ਗਲਤ ਸਮੀਕਰਨ ਦਾ ਮੁਲਾਂਕਣ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ।
+xpath-unbalanced-curly-brace = ਅਸੰਤੁਲਿਤ ਕਰਲੀ ਬਰੈਕਟਾਂ।
+xslt-bad-node-name = ਗ਼ੈਰਵਾਜਬ QName ਨਾਲ ਐਲੀਮੈਂਟ ਬਣਾਇਆ ਜਾ ਰਿਹਾ ਹੈ।
+xslt-var-already-set = ਵੇਰੀਬਲ ਬਾਈਡਿੰਗ ਉਸੇ ਟੈਂਪਲੇਟ ਵਿੱਚ ਵੇਰੀਬਲ ਬਾਈਡਿੰਗ ਨੂੰ ਸੈਡੋ ਕਰਦਾ ਹੈ।
 xslt-call-to-key-not-allowed = ਮੁੱਖ ਫੰਕਸ਼ਨ ਲਈ ਕਾਲ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ।
 
 ## Messages for the XML error page.
