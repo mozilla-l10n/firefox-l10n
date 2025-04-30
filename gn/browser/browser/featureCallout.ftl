@@ -97,6 +97,10 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Nahániri, aguyje
 perplexity-callout-theme-1-title = ¿Eikotevẽ ñembohovái porã, pya’e?
 perplexity-callout-theme-2-title = Eiporu Perplexity: peteĩ jehekarã ipyahúva
 perplexity-callout-theme-2-subtitle-1 = Eporandu Perplexity. Og̃uahẽta mbohovái oĩháicha, teñoiha reheve.
+perplexity-callout-theme-2-subtitle-2 = Eporandu. Erekóta mbohovái oĩháicha ha oje’eporãva.
+perplexity-callout-primary-label = Eporandu Perplexity-pe
+perplexity-callout-secondary-label-1 = Mboyke
+perplexity-callout-secondary-label-2 = Aikũmby
 
 ## Sidebar Strings
 

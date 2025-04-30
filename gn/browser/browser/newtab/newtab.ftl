@@ -556,3 +556,5 @@ newtab-report-content-spam-misleading =
     .label = Spam térã japúva
 newtab-report-cancel = Heja
 newtab-report-submit = Mondo
+newtab-toast-thanks-for-reporting =
+    .message = Aguyje emomarandu haguére.

@@ -134,6 +134,7 @@ genai-onboarding-lechat-learn = Eikuaave Le Chat rehegua
 genai-onboarding-select-header = Eiporavo moñe’ẽrã ehecha hag̃ua ñemoñe’ẽ
 genai-onboarding-select-description = Embosa’ývo moñe’ẽrã, roikuave’ẽ prompts oñemondokuaáva chatbot-pe. Ehaikuaa avei ne prompts teetéva.
 genai-onboarding-select-primary = Eñepyrũ echatea
+genai-chatbot-contextual-button = Eiporavo chatbot
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
@@ -167,3 +168,15 @@ genai-model-optin-cancel =
 
 ## Link previews
 
+# ‘min’ is short for “minute”
+# ‘mins’ is short for “minutes”
+# An estimate for how long it takes to read an article,
+# expressed as a range covering both slow and fast readers.
+# Variables:
+#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
+#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
+link-preview-reading-time =
+    { $rangePlural ->
+        [one] { $range } aravo amoñe’ẽha
+       *[other] { $range } aravokuéra amoñe’ẽha
+    }

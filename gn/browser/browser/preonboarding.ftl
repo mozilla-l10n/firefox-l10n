@@ -17,8 +17,10 @@ preonboarding-privacy-notice-header-button-title = Emoñe’ẽ ore marandu’i 
 preonboarding-manage-data-header-button-title = Eñangareko mba’ekuaarã jekuaarã ha ñomongeta
 # Labels for header style button that toggles showing the Terms of Use (Variant B)
 preonboarding-terms-of-use-header-button-title-b = { -brand-product-name } Jeporurã rape
+preonboarding-terms-of-use-header-button-title-b-v2 = Jeporurã reko
 # Labels for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = { -brand-product-name } Marandu’i ñemigua
+preonboarding-privacy-notice-header-button-title-b-v2 = Marandu’i ñemigua
 # Description under label for header style buttons
 preonboarding-header-button-description = Emoñe’ẽve
 # New user onboarding checklist
