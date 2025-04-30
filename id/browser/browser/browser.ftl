@@ -203,6 +203,8 @@ urlbar-result-menu-manage-firefox-suggest =
 # administrative region (e.g., a province, prefecture, or state).
 urlbar-result-menu-report-inaccurate-location =
     .label = Laporkan lokasi yang tidak akurat
+urlbar-result-menu-show-less-frequently =
+    .label = Tampilkan lebih jarang
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = Jangan tampilkan saran cuaca
 # A message shown in the urlbar when the user submits feedback on a suggestion
@@ -342,6 +344,10 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Tampilkan Pengaya
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = ekstensi, tema, pengaya
 quickactions-cmd-addons2 = pengaya
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Kelola markah

@@ -53,7 +53,7 @@ profiles-delete-profile-confirm =
 profiles-delete-files = Διαγραφή αρχείων
 profiles-dont-delete-files = Διατήρηση αρχείων
 profiles-delete-profile-failed-title = Σφάλμα
-profiles-delete-profile-failed-message = Παρουσιάστηκε σφάλμα κατά την προσπάθεια διαγραφής αυτού του προφίλ.
+profiles-delete-profile-failed-message = Προέκυψε σφάλμα κατά την απόπειρα διαγραφής αυτού του προφίλ.
 profiles-opendir =
     { PLATFORM() ->
         [macos] Εμφάνιση στο Finder
