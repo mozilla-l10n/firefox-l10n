@@ -5,6 +5,7 @@
 
 ## XSLT and XPath specific errors.
 
+xpath-bad-extension-function = Tawuri n usiɣzef XPath tarussint tettusiwel.
 xpath-paren-expected = Tuccḍa di tesleṭ n XPath: ')' itturaju:
 xpath-invalid-axis = Tuccḍa di tesleṭ n XPath: agellus arameɣtu:
 xpath-no-node-type-test = Tuccḍa di tesleṭ n XPath: akayad n Name neɣ Nodetype itturaju:
