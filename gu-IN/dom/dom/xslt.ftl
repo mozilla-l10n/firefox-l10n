@@ -5,6 +5,19 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = XSLT સ્ટાઇલશીટ દ્વારા પાર્સિંગ નિષ્ફળ ગયું.
+xpath-parse-failure = XPath સૂત્રનુ પાર્સિંગ નિષ્ફળ ગયું.
+xslt-execution-failure = XSLT ફેરફાર નિષ્ફળ ગયું.
+xpath-unknown-function = અયોગ્ય XSLT/XPath વિધેય.
+xslt-bad-recursion = XSLT સ્ટાઇલશીટ (કદાચ) પુનરાવર્તન ધરાવે છે.
+xslt-bad-value = XSLT 1.0 માં અયોગ્ય ગુણધર્મ કિંમત છે.
+xslt-nodeset-expected = XPath સૂત્ર NodeSet પાછું લાવવા માટે અપેક્ષિત હતું.
+xslt-aborted = XSLT ફેરફાર <xsl:message> દ્વારા બંધ કરવામાં આવ્યું.
+xslt-network-error = XSLT સ્ટાઇલશીટ લાવવામાં નેટવર્કની ભૂલ:
+xslt-wrong-mime-type = XSLT સ્ટાઇલશીટ પાસે XML માઇમપ્રકાર નથી:
+xslt-load-recursion = XSLT સ્ટાઇલશીટ સીધીજ અથવા બીજીરીતે પોતાને આયાત કરે છે અથવા વાપરે છે:
+xpath-bad-argument-count = XPath વિધેય ખોટા આદેશો(પ્રક્રિયકની સંખ્યા) સાથે ચલાવવામાં આવ્યું.
+xpath-bad-extension-function = અજાણયું XPath પ્રત્યયનું વિધેય ચલાવવામાં આવ્યું હતુ.
 xpath-paren-expected = XPath પાર્સ કરવામાં નિષ્ફળ ')' અપેક્ષિત:
 xpath-invalid-axis = XPath પાર્સ કરવામાં નિષ્ફળઃ અયોગ્ય અક્ષો:
 xpath-no-node-type-test = XPath પાર્સ કરવામાં નિષ્ફળઃ નામ અથવા નોડપ્રકાર ચકાસણી અપેક્ષિત:
@@ -23,6 +36,10 @@ xpath-unbalanced-curly-brace = અસંતુલિત વળાંકવાળ
 xslt-bad-node-name = અયોગ્ય QName નામ સાથે ઘટક બનાવી રહ્યા છીએ.
 xslt-var-already-set = ચલ બંધન એ નમૂના ટેમ્પલેટમાં તેની સાથેનું ચલ બંધ પર પડછાયો પાડે છે.
 xslt-call-to-key-not-allowed = કી કાર્ય મંજૂરી નથી માટે કૉલ કરો.
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = અજાણી ભૂલ ઉદ્ભવી ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
