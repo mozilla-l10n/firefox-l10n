@@ -7,6 +7,15 @@
 
 xslt-parse-failure = Përtypja e një fletëstili XSLT dështoi.
 xpath-parse-failure = Dështoi përtypja e një shprehjeje XPath.
+xslt-execution-failure = Shndërrimi XSLT dështoi.
+xpath-unknown-function = Funksion XSLT/XPath i pavlefshëm.
+xslt-bad-recursion = Fletëstili XSLT (mundet) përmban një ripërsëritje.
+xslt-bad-value = Vlerë e paligjshme atributi në XSLT 1.0.
+xslt-nodeset-expected = Pritej që një shprehje XPath të përgjigjej me një NodeSet.
+xslt-aborted = Shndërrimi XSLT përfundoi me <xsl:message>.
+xslt-network-error = Ndodhi një gabim rrjeti gjatë ngarkimit të një fletëstili XSLT:
+xslt-wrong-mime-type = Një fletëstil XSLT s’ka lloj MIME XML:
+xslt-load-recursion = Një fletëstil XSLT përmban, ose importon vetveten drejtpërsëdrejti ose tërthoras:
 xpath-bad-argument-count = U thirr një funksion XPath me numër të gabuar argumentesh.
 xpath-bad-extension-function = U thirr një funksion zgjerimi XPath i panjohur.
 xpath-paren-expected = Dështim përtypjeje XPath: pritej ')':
@@ -27,6 +36,10 @@ xpath-unbalanced-curly-brace = Kllapa gjarpërushe të pambyllura.
 xslt-bad-node-name = Po krijohet element me një QName të pavlefshëm.
 xslt-var-already-set = Lidhja e ndryshore i bën hije një lidhjeje ndryshoreje brenda së njëjtës gjedhe.
 xslt-call-to-key-not-allowed = Thirrje e palejuar për te funksion kyç.
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = Ndodhi një gabim i panjohur ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
