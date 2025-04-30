@@ -5,6 +5,14 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = Innlesing av et XSLT-stilsett mislyktes.
+xpath-parse-failure = Innlesing av et XPath-uttrykk mislyktes.
+xslt-execution-failure = XSLT-transformasjon mislyktes.
+xpath-unknown-function = Ugyldig XSLT/XPath-funksjon.
+xslt-bad-recursion = XSLT-stilsett inneholder (muligens) en rekursjon.
+xslt-bad-value = Attributtverdien er ugyldig i XSLT 1.0.
+xslt-nodeset-expected = Et XPath-uttrykk forventet å returnere NodeSet.
+xslt-aborted = XSLT-transformasjon ble avbrutt av <xsl:message>.
 xslt-network-error = En nettverksfeil oppstod ved lasting av XSLT-stilsett:
 xslt-wrong-mime-type = Et XSLT-stilsett har ikke XML mimetype:
 xslt-load-recursion = Et XSLT-stilsett importerer seg selv enten direkte eller indirekte:
@@ -28,6 +36,10 @@ xpath-unbalanced-curly-brace = Ubalansert krøllparentes.
 xslt-bad-node-name = Lager element med et ugyldig QName.
 xslt-var-already-set = Variabelbinding skjuler en variabelbinding brukt i samme template.
 xslt-call-to-key-not-allowed = Kall til key-funksjon ikke tillatt.
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = En ukjent feil har oppstått ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
