@@ -5,6 +5,14 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = Αποτυχία ανάλυσης  XSLT stylesheet
+xpath-parse-failure = Αποτυχία ανάλυσης έκφρασης XPath
+xslt-execution-failure = Αποτυχία μετατροπής XSLT
+xpath-unknown-function = XSLT/XPath προσπάθησε να καλέσει μια άγνωστη λειτουργία.
+xslt-bad-recursion = XSLT Stylesheet (πιθανώς) να περιέχει μια αναδρομή.
+xslt-bad-value = Η τιμή γνωρίσματος δεν είναι έγκυρη στο XSLT 1.0.
+xslt-nodeset-expected = Αναμενόταν μια έκφραση XPath για επιστροφή ενός NodeSet.
+xslt-aborted = Η μετατροπή XSLT τερματίστηκε από <xsl:message>.
 xslt-network-error = Σφάλμα δικτύου κατά τη φόρτωση ενός  XSLT stylesheet
 xslt-wrong-mime-type = Ένα XSLT stylesheet  δεν έχει ένα τύπο mime XML:
 xslt-load-recursion = Ένα XSLT stylesheet  έμμεσα ή άμεσα περιλαμβάνει τον εαυτό του:
@@ -28,6 +36,10 @@ xpath-unbalanced-curly-brace = Μη ταιριαστό άγκιστρο.
 xslt-bad-node-name = Δημιουργία στοιχείου με μη έγκυρο QName.
 xslt-var-already-set = Μια δέσμευση μεταβλητής υπερκαλύπτει μιαν άλλη εντός του ιδίου προτύπου.
 xslt-call-to-key-not-allowed = Δεν επιτρέπεται κλήση στη βασική λειτουργία.
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = Προέκυψε ένα άγνωστο σφάλμα ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
