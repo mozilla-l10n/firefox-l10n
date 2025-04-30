@@ -1198,6 +1198,10 @@ popup-notification-addon-install-unsigned =
     .value = (ਨਾ-ਜਾਂਚ ਕੀਤੇ)
 popup-notification-xpinstall-prompt-learn-more = ਐਡ-ਆਨਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਇੰਸਟਾਲ ਕਰਨ ਬਾਰੇ ਹੋਰ ਜਾਣੋ
 popup-notification-xpinstall-prompt-block-url = ਵੇਰਵਿਆਂ ਨੂੰ ਵੇਖਾਓ
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਵਿੱਚ ਇਕਸਟੈਨਸ਼ਨ ਚੱਲਣ ਦੀ ਮਨਜ਼ੂਰੀ
+    .accesskey = p
 # Note: Access key is set to P to match "Private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox =
     .label = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਚਲਾਓ
@@ -1255,3 +1259,4 @@ file-picker-crashed-show-in-folder =
 
 ## Onboarding Finish Setup checklist
 
+onboarding-checklist-button-label = ਸੈਟਅੱਪ ਮੁਕੰਮਲ
