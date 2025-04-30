@@ -326,3 +326,4 @@ tab-group-context-open-saved-group-in-this-window =
 # open the tab group in that window.
 tab-group-context-open-saved-group-in-new-window =
     .label = Apri gruppo in nuova finestra
+
