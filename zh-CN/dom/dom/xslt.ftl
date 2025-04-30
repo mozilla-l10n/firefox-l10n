@@ -25,6 +25,7 @@ xpath-invalid-expression-evaluated = 执行了无效表达式
 xpath-unbalanced-curly-brace = 大括号未成对。
 xslt-bad-node-name = 使用无效的 QName 创建元素。
 xslt-var-already-set = 变量绑定映射了同一模板内的变量绑定
+xslt-call-to-key-not-allowed = 不允许调用 key 函数。
 
 ## Messages for the XML error page.
 ##
@@ -32,3 +33,5 @@ xslt-var-already-set = 变量绑定映射了同一模板内的变量绑定
 ##   $error (string) - the specific XSLT or XPath error (a translated string
 ##   from the previous section)
 
+xslt-loading-error = 加载样式表单出错： { $error }
+xslt-transform-error = XSLT 转换出错： { $error }
