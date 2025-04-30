@@ -5,6 +5,10 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-wrong-mime-type = O fișă de stil XSLT nu are un tip mime XML:
+xslt-load-recursion = O fișă de stil XSLT se importă sau se include singură, direct sau indirect:
+xpath-bad-argument-count = O funcție XPath a fost apelată cu un număr greșit de argumente.
+xpath-bad-extension-function = A fost apelată o funcție de extensie XPath.
 xpath-paren-expected = Eroare la analiza XPath: Se aștepta „)”:
 xpath-invalid-axis = Eroare de analiză XPath: axă nevalidă:
 xpath-no-node-type-test = Eroare la analiza XPath: Se aștepta nume sau tip de nod test:
