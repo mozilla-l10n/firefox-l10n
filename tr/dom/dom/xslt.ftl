@@ -6,6 +6,9 @@
 ## XSLT and XPath specific errors.
 
 xslt-network-error = XSLT stil dosyası yüklenmesinde bir ağ hatası oluştu:
+xslt-wrong-mime-type = XSLT stil dosyası için belirtilen bir XML mimetype’ı yok:
+xslt-load-recursion = Bir XSLT stil dosyası doğrudan veya dolaylı olarak kendini içe aktarıyor veya içeriyor:
+xpath-bad-argument-count = Yanlış sayıda argümanla bir XPath fonksiyonu çağrıldı.
 xpath-bad-extension-function = Bilinmeyen bir XPath uzantı fonksiyonu çağrıldı.
 xpath-paren-expected = XPath işleme hatası: ‘)’ bekleniyordu:
 xpath-invalid-axis = XPath işleme hatası: geçersiz eksen:
@@ -19,6 +22,11 @@ xpath-bad-colon = XPath işleme hatası: ‘:‘ bekleniyordu:
 xpath-bad-bang = XPath işleme hatası: ‘!‘ beklenmiyor, olumsuzlaştırma için not() kullanın:
 xpath-illegal-char = XPath işleme hatası: geçersiz karakter bulundu:
 xpath-binary-expected = XPath işleme hatası: binary operatörü gerekli:
+xslt-load-blocked-error = Güvenlik önlemi olarak XSLT stil dosyasının yüklenmesi durduruldu.
+xpath-invalid-expression-evaluated = Geçersiz bir ifade değerlendiriliyor.
+xpath-unbalanced-curly-brace = Dengesiz küme parantezi.
+xslt-bad-node-name = Geçersiz QName sahibi bir bileşen yaratılıyor.
+xslt-var-already-set = Aynı şablondaki değişken bağlama, değişken bağlamayı gölgeliyor.
 xslt-call-to-key-not-allowed = Anahtar işleve çağrı yapılamaz.
 
 ## Messages for the XML error page.
