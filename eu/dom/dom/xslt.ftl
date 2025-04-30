@@ -5,6 +5,14 @@
 
 ## XSLT and XPath specific errors.
 
+xslt-parse-failure = XSLT estilo-orria analizatzeak huts egin du.
+xpath-parse-failure = XPath adierazpena analizatzeak huts egin du.
+xslt-execution-failure = XSLT eraldaketak huts egin du.
+xpath-unknown-function = XSLT/XPath funtzio baliogabea.
+xslt-bad-recursion = XSLT estilo-orriak (ziurrenik) errekurtsioa du.
+xslt-bad-value = XSLT 1.0ko atributu-balio ez-legala
+xslt-nodeset-expected = XPath adierazpena espero zen Nodeset-en balio bezala.
+xslt-aborted = XSLT eraldaketa amaitu egin du <xsl:message>-k.
 xslt-network-error = Sareko errorea gertatu da XSLT estilo-orria kargatzean:
 xslt-wrong-mime-type = XSLT estilo-orriak ez du XML MIME mota:
 xslt-load-recursion = XSLT estilo-orriak zuzenki edo zeharka, bere burua izan edo inportatu du.
@@ -28,6 +36,10 @@ xpath-unbalanced-curly-brace = Itxi gabeko giltza.
 xslt-bad-node-name = QName baliogabe bat duen elementua sortzen.
 xslt-var-already-set = Aldagai-loturak txantiloi bereko aldagai-lotura iluntzen du.
 xslt-call-to-key-not-allowed = Gako-funtzioaren deia ez da onartzen.
+# Other failures, not found in the previous ones.
+# Variables:
+#   $errorCode (String) - The error code (formatted in hexadecimal)
+xslt-unknown-error = Errore ezezagun bat gertatu da ({ $errorCode })
 
 ## Messages for the XML error page.
 ##
